@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [eth](https://hackernoon.com/tagged/eth)
+### Let's learn about [Eth](https://hackernoon.com/tagged/eth) via these 87 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+ETH refers to Ethereum, a decentralized open-source blockchain with smart contract functionality, serving as a foundational platform for cryptocurrencies and decentralized applications. It is crucial for the development of Web3, enabling new forms of digital interaction and ownership.
+
 ### [1. Ethereum Gas Fees for Dummies](https://hackernoon.com/ethereum-gas-fees-for-dummies-oj8135nn)
 ![](https://cdn.hackernoon.com/images/ZW20EUTPJfhox7MUgWdXzwwwm2g1-ll5l35fh.jpeg)
 How gas fees are calculated and how to minimise the cost of conducting transactions on the Ethereum network.
@@ -66,21 +70,21 @@ One of the most popular ways of investing in Ethereum is 'staking,’ a process 
 ![](https://cdn.hackernoon.com/images/mPvh1aeMgeaWzZiI3EMqytVN62x2-5oa3puh.jpeg)
 Significant Changes Coming to Ethereum
 
-### [17. The Best Risk-Adjusted Path to 10x Crypto Returns with Ethereum](https://hackernoon.com/the-best-risk-adjusted-path-to-10x-crypto-returns-with-ethereum)
-![](https://cdn.hackernoon.com/images/rNAlLTrcUQUa3DMds6T1L6L4wXy2-e7n3sfq.gif)
-Ethereum's native crypto asset Ether will increase from $3,077 to $32,468 in the next five years, representing a 10.6x ROI.
-
-### [18. How to Avoid Exploits and Hacks using Proper Decentralization](https://hackernoon.com/how-to-avoid-exploits-and-hacks-using-proper-decentralization-aq1t3dm9)
+### [17. How to Avoid Exploits and Hacks using Proper Decentralization](https://hackernoon.com/how-to-avoid-exploits-and-hacks-using-proper-decentralization-aq1t3dm9)
 ![](https://cdn.hackernoon.com/drafts/107hn33kw.png)
 Everyone has heard the latest hack, or the exploit, or the arbitrage, or the profit :) done in the Decentralized Finance World. The main reason was short of liquidity in an exchange, and using a single source to get prices.
 
-### [19. The Liquidity Crisis - Part Two: ETH](https://hackernoon.com/the-liquidity-crisis-part-two-eth-dzu336t)
-![](https://cdn.hackernoon.com/images/r633U8vKGhQp66FOBDmgOkw0J472-ad4a3xzy.jpeg)
-Ethereum (ETH) supply is becoming scarce while demand is rising. Here's what you need to know. 
+### [18. The Best Risk-Adjusted Path to 10x Crypto Returns with Ethereum](https://hackernoon.com/the-best-risk-adjusted-path-to-10x-crypto-returns-with-ethereum)
+![](https://cdn.hackernoon.com/images/rNAlLTrcUQUa3DMds6T1L6L4wXy2-e7n3sfq.gif)
+Ethereum's native crypto asset Ether will increase from $3,077 to $32,468 in the next five years, representing a 10.6x ROI.
 
-### [20. The Ethereum Merge, Explained](https://hackernoon.com/the-ethereum-merge-explained)
+### [19. The Ethereum Merge, Explained](https://hackernoon.com/the-ethereum-merge-explained)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-qr9313q.jpeg)
 Ethereum emits nearly the same amount of carbon dioxide as Singapore at this time and is the second-largest blockchain, after only bitcoin. If the Merge is successful, it will significantly reduce ethereum’s high electricity usage by almost 99%.Key Highlights
+
+### [20. The Liquidity Crisis - Part Two: ETH](https://hackernoon.com/the-liquidity-crisis-part-two-eth-dzu336t)
+![](https://cdn.hackernoon.com/images/r633U8vKGhQp66FOBDmgOkw0J472-ad4a3xzy.jpeg)
+Ethereum (ETH) supply is becoming scarce while demand is rising. Here's what you need to know. 
 
 ### [21. The Ethereum Roadmap - From The Merge to The Splurge](https://hackernoon.com/ethereum-roadmap-merge-splurge)
 ![](https://cdn.hackernoon.com/images/PDUSNhPZdqOLSb59OQHawDU0wR82-07a3r97.jpeg)
@@ -202,21 +206,21 @@ The entry of NFTs to the Blockchain ecosystem has brought a variety of use cases
 ![](https://cdn.hackernoon.com/images/iIULlfgJXlcLwLEXLBaijYFcj803-0783ka1.jpeg)
 A beginner's guide to using the MetaMask browser extension - set up a wallet, receive test currency, make blockchain transactions, swap tokens, and more. 
 
-### [51. Cybersecurity in Crypto: Trends, Tactics, and Transformations](https://hackernoon.com/cybersecurity-in-crypto-trends-tactics-and-transformations)
+### [51. All You Need to Know About Investing in Metaverse Real Estate](https://hackernoon.com/all-you-need-to-know-about-investing-in-metaverse-real-estate)
+![](https://cdn.hackernoon.com/images/c2qDNOZ07yREr8UJUOrX9KoKG5m2-ew93pkc.jpeg)
+According to Mckinsey, the market cap of the metaverse will be over $5 Trillion by 2030. Well, the metaverse seems to be the future of the internet.  
+
+### [52. Cybersecurity in Crypto: Trends, Tactics, and Transformations](https://hackernoon.com/cybersecurity-in-crypto-trends-tactics-and-transformations)
 ![](https://cdn.hackernoon.com/images/ffT7xg3TrTNEOpm0q2RoZZdy1vX2-db034je.jpeg)
 Explore the 2024 crypto security landscape. Uncover blockchain attack strategies, and critical insights. 
 
-### [52. About Our €900k Fundraise to Solve the Ethereum Transaction Fee Problem](https://hackernoon.com/about-our-euro900k-fundraise-to-solve-the-ethereum-transaction-fee-problem-drda30v2)
+### [53. About Our €900k Fundraise to Solve the Ethereum Transaction Fee Problem](https://hackernoon.com/about-our-euro900k-fundraise-to-solve-the-ethereum-transaction-fee-problem-drda30v2)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-q382qtc.jpeg)
 At Upvest, we've secured almost €900k Euro in project funding from the Investitionsbank Berlin (IBB) and the European Regional Development Fund (ERDF) as part of the IBB ProFit program. The funding is used to further support the development of Upvest’s transaction fee recommendation/estimation engine.
 
-### [53. Four Crypto Predictions for 2024 ](https://hackernoon.com/four-crypto-predictions-for-2024)
+### [54. Four Crypto Predictions for 2024 ](https://hackernoon.com/four-crypto-predictions-for-2024)
 ![](https://cdn.hackernoon.com/images/4tMa4RB9uXN9YkzLoCtb4ZeclZM2-ix83zi1.jpeg)
 As traditional financial institutions explore blockchain technology, decentralized alternatives gain legitimacy especially with RWA (Real world assets).
-
-### [54. All You Need to Know About Investing in Metaverse Real Estate](https://hackernoon.com/all-you-need-to-know-about-investing-in-metaverse-real-estate)
-![](https://cdn.hackernoon.com/images/c2qDNOZ07yREr8UJUOrX9KoKG5m2-ew93pkc.jpeg)
-According to Mckinsey, the market cap of the metaverse will be over $5 Trillion by 2030. Well, the metaverse seems to be the future of the internet.  
 
 ### [55. The #ethereum Writing Contest by DeGate & HackerNoon: Results Announcement 🎉](https://hackernoon.com/the-ethereum-writing-contest-by-degate-and-hackernoon-results-announcement)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-dp034og.png)
@@ -238,13 +242,13 @@ Explore Ethereum's role in reshaping decentralized apps through a tiered breakdo
 ![](https://cdn.hackernoon.com/images/a-court-in-session-uhlwrc9048n89a8y4gx9bg7c.png)
 Last week, the SEC filed a suit against Consensys, the developer of the popular MetaMask wallet. Is ETH under fire again?
 
-### [60. NFTs and the future of - not just digital - ownership](https://hackernoon.com/blockchain-and-the-future-of-ownership-024h262q)
-![](https://cdn.hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-xz823qt.jpeg)
-Before the widespread use of high-speed internet, distribution of software, music and movies was mostly anchored in physical media. Buyers of CDs and DVDs could sell the albums they no longer wanted or movies they had seen in secondary marketplaces such as eBay and Amazon or locally on Craigslist. 
-
-### [61. The Mysterious Entity Impacting ETH Price](https://hackernoon.com/the-mysterious-entity-impacting-eth-price)
+### [60. The Mysterious Entity Impacting ETH Price](https://hackernoon.com/the-mysterious-entity-impacting-eth-price)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-af93tmn.jpeg)
 The Ethereum upgrade created a new player in the market, and it's the main driver of price. 
+
+### [61. NFTs and the future of - not just digital - ownership](https://hackernoon.com/blockchain-and-the-future-of-ownership-024h262q)
+![](https://cdn.hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-xz823qt.jpeg)
+Before the widespread use of high-speed internet, distribution of software, music and movies was mostly anchored in physical media. Buyers of CDs and DVDs could sell the albums they no longer wanted or movies they had seen in secondary marketplaces such as eBay and Amazon or locally on Craigslist. 
 
 ### [62. Ethereum LSD: How Does It Work?](https://hackernoon.com/ethereum-lsd-how-does-it-work)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-y192gcp.png)
@@ -290,25 +294,25 @@ Breaking down main reasons for Ethereum price surge and value accrual, following
 ![](https://cdn.hackernoon.com/images/nft-temldzmur9040nzhoh2mi2nw.png)
 The new Web3 domain is .ART. And it’s also a Web2 domain. 
 
-### [73. Control as Liability: Don’t Build Applications that Centralize Control](https://hackernoon.com/Control-as-Liability-rgok3vi5)
-![](https://cdn.hackernoon.com/drafts/071b3t0i.png)
-tooltip
-
-### [74. Consensus Algorithms: How Computers Agree and Stay Safe Together](https://hackernoon.com/consensus-algorithms-how-computers-agree-and-stay-safe-together)
+### [73. Consensus Algorithms: How Computers Agree and Stay Safe Together](https://hackernoon.com/consensus-algorithms-how-computers-agree-and-stay-safe-together)
 ![](https://cdn.hackernoon.com/images/computers-holding-hands-ohq2n5yus07ib0i8akhwbivg.png)
 We'll explore consensus algorithms in easy terms. We'll see how these smart systems make keep computers on the same page and how they protect themselves. 
+
+### [74. Control as Liability: Don’t Build Applications that Centralize Control](https://hackernoon.com/Control-as-Liability-rgok3vi5)
+![](https://cdn.hackernoon.com/drafts/071b3t0i.png)
+tooltip
 
 ### [75. Everything You Need to Know About Ethereum's Upcoming Shanghai Upgrade](https://hackernoon.com/everything-you-need-to-know-about-ethereums-upcoming-shanghai-upgrade)
 ![](https://cdn.hackernoon.com/images/5rS4yrERbxUtfUCTsrb3x2kieP32-s693zx8.jpeg)
 The Ethereum's Shanghai upgrade is coming this March. It will enable network validators to release staked ETH and can make its price more volatile.
 
-### [76. Crypto Market Update: Ether's Weekend Escapade](https://hackernoon.com/crypto-market-update-ethers-weekend-escapade)
-![](https://cdn.hackernoon.com/images/MVSUGjZ6hNZd5HAMok4XfJBU7RG3-lv83113.jpeg)
-Ether is on a tear, pushing the price past $3,630 – a sweet 18.75% jump from its recent low just over a week ago.
-
-### [77. Stop Calling Ethereum ‘Crypto Silver’—It’s So Much More](https://hackernoon.com/stop-calling-ethereum-crypto-silverits-so-much-more)
+### [76. Stop Calling Ethereum ‘Crypto Silver’—It’s So Much More](https://hackernoon.com/stop-calling-ethereum-crypto-silverits-so-much-more)
 ![](https://cdn.hackernoon.com/images/wgdTKHoKNgN48nObNBOTGr0lLis1-34031y8.webp)
 Ethereum isn’t just silver. It’s the backbone of this entire decentralised world and still have a lot of potential to grow more in the future
+
+### [77. Crypto Market Update: Ether's Weekend Escapade](https://hackernoon.com/crypto-market-update-ethers-weekend-escapade)
+![](https://cdn.hackernoon.com/images/MVSUGjZ6hNZd5HAMok4XfJBU7RG3-lv83113.jpeg)
+Ether is on a tear, pushing the price past $3,630 – a sweet 18.75% jump from its recent low just over a week ago.
 
 ### [78. Ferrari Drives into Europe: Will Now Be Accepting Bitcoin and Crypto Payments](https://hackernoon.com/ferrari-drives-into-europe-will-now-be-accepting-bitcoin-and-crypto-payments)
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-8v03au7.jpeg)
@@ -318,13 +322,13 @@ On July 24th, Ferrari announced that Bitcoin and other cryptocurrencies will now
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-x503o60.jpeg)
 Crypto arose out of a marriage between the best nerds in the world and punk rock anarchists. The baby they made is highly technical.
 
-### [80. Got 2048 ETH? - The Real Slim Satoshi](https://hackernoon.com/got-2048-eth-the-real-slim-satoshi)
-![](https://cdn.hackernoon.com/images/yvqSk94LhvZA0wrvmh06TtNU2Fy1-6393xdj.jpeg)
-We need to look for more alternative solutions to solve the current challenges without raising the staking balance. Ethereum needs to stay decentralized.
-
-### [81. GAS in Ethereum: Everything You Ever Wanted To Know](https://hackernoon.com/gas-in-ethereum-everything-you-ever-wanted-to-know-j82m3z6v)
+### [80. GAS in Ethereum: Everything You Ever Wanted To Know](https://hackernoon.com/gas-in-ethereum-everything-you-ever-wanted-to-know-j82m3z6v)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkuGSv82WVjg0Rg1B2LpgBSZbY7p1-8g1g3wt6.png?alt=media&token=662c45f0-6e59-444e-abbc-ccec7499c0bd)
 Initially, Ethereum was not created as a payment system, but rather as a tool for creating decentralized applications (DApps), in which any operation is managed through smart contracts. 
+
+### [81. Got 2048 ETH? - The Real Slim Satoshi](https://hackernoon.com/got-2048-eth-the-real-slim-satoshi)
+![](https://cdn.hackernoon.com/images/yvqSk94LhvZA0wrvmh06TtNU2Fy1-6393xdj.jpeg)
+We need to look for more alternative solutions to solve the current challenges without raising the staking balance. Ethereum needs to stay decentralized.
 
 ### [82. Analyzing Astherus: Is Restaking Utility a Pipe Dream or Potential Disruptor?](https://hackernoon.com/analyzing-astherus-is-restaking-utility-a-pipe-dream-or-potential-disruptor)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-vo02pvy.jpeg)

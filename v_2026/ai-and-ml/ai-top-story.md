@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ai-top-story](https://hackernoon.com/tagged/ai-top-story)
+### Let's learn about [Ai Top Story](https://hackernoon.com/tagged/ai-top-story) via these 100 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+An AI Top Story refers to a prominent or trending news article related to artificial intelligence, highlighting significant developments, breakthroughs, or impacts in the field. These stories are crucial for keeping the public and industry informed about the rapid evolution of AI.
+
 ### [1. Imagic: AI Image Editing from Text Commands](https://hackernoon.com/imagic-ai-image-editing-from-text-commands)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-7oa3lav.jpeg)
 This week’s paper may just be your next favorite model to date.
@@ -107,13 +111,13 @@ Today, misconceptions about AI are spreading like wildfire.
 ![](https://cdn.hackernoon.com/images/gQygiHJ28GUxgPtxjKCUyX9L9aH2-v093yjj.jpeg)
 Bias has always been a factor in the way we interpret the world. Let’s look at how various AI techniques can help weed out media bias 
 
-### [27. Human Intelligence or Artificial Intelligence? We Need Both.](https://hackernoon.com/human-intelligence-or-artificial-intelligence-we-need-both-if7w32b2)
-![](https://cdn.hackernoon.com/drafts/213c3yrp.png)
-Artificial intelligence (AI) has reached a tipping point, leveraging the massive pools of data gathered by every app, website, and device in our lives to make increasingly sophisticated decisions on our behalf. AI is at work in our inboxes sorting and blocking emails. It takes and processes our increasingly complex requests through voice assistants. It supplements customer support through chatbots, and heavily automates complex processes to reduce the workload for knowledge workers. Evidently, devices can adapt on the fly to human behavior. 
-
-### [28. How Soon Will AI Kill Authentic Music?](https://hackernoon.com/how-soon-will-ai-kill-authentic-music)
+### [27. How Soon Will AI Kill Authentic Music?](https://hackernoon.com/how-soon-will-ai-kill-authentic-music)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-p59375o.jpeg)
 How soon will music written by people fall out of favor? It's already happening as people become more comfortable vibing to machines. 
+
+### [28. Human Intelligence or Artificial Intelligence? We Need Both.](https://hackernoon.com/human-intelligence-or-artificial-intelligence-we-need-both-if7w32b2)
+![](https://cdn.hackernoon.com/drafts/213c3yrp.png)
+Artificial intelligence (AI) has reached a tipping point, leveraging the massive pools of data gathered by every app, website, and device in our lives to make increasingly sophisticated decisions on our behalf. AI is at work in our inboxes sorting and blocking emails. It takes and processes our increasingly complex requests through voice assistants. It supplements customer support through chatbots, and heavily automates complex processes to reduce the workload for knowledge workers. Evidently, devices can adapt on the fly to human behavior. 
 
 ### [29. Where Can Dreams Take You? 
 The Art of Teaching Associative Thinking to Machines](https://hackernoon.com/where-can-dreams-take-you-the-art-of-teaching-associative-thinking-to-machines-by6r3yme)
@@ -221,17 +225,17 @@ We need to create human-machine teams that work together. The key to achieving t
 ![](https://cdn.hackernoon.com/drafts/r11wi2i0e.png)
 The promise of Artificial Intelligence (AI) to solve real problems through automation, amplification and simplification is definitely achievable. Today, AI presents a technologist quite possibly one of the most glamorous projects to work on. We are tempted to jump on the bandwagon. But everything is not so great in AI Land. The truth is that – AI projects are failing. 
 
-### [55. Can Conversational AI Become The Face of Tomorrow's Business?](https://hackernoon.com/can-conversational-ai-become-the-face-of-tomorrows-business-l6fn3at4)
+### [55. Three Best Practices for Tackling AI Bias in Recruitment](https://hackernoon.com/three-best-practices-for-tackling-ai-bias-in-recruitment)
+![](https://cdn.hackernoon.com/images/k4oa3fIFvVYzUaPgdNWrpIyp8bz2-u793ohj.jpeg)
+The use of AI-powered recruitment software is an exciting trend, but then what steps have been placed to curb the emergence of bias? This article shares some.
+
+### [56. Can Conversational AI Become The Face of Tomorrow's Business?](https://hackernoon.com/can-conversational-ai-become-the-face-of-tomorrows-business-l6fn3at4)
 ![](https://cdn.hackernoon.com/drafts/bw1ut32vj.png)
 In recent times, conversational AI has become a tech buzzword in the global market. However, the aggressively growing popularity of AI is leaving many individuals in a great dilemma of whether they should be fear of losing jobs in the future or get excited to leverage the latest edition of the AI-driven applications in businesses.
 
-### [56. Corporate AI Transformation: How to Not Throw Mud Against the Wall](https://hackernoon.com/corporate-ai-transformation-how-to-not-throw-mud-against-the-wall)
+### [57. Corporate AI Transformation: How to Not Throw Mud Against the Wall](https://hackernoon.com/corporate-ai-transformation-how-to-not-throw-mud-against-the-wall)
 ![](https://cdn.hackernoon.com/images/lbfKyoYYV0VgbZqjujFkkVKzTls1-j23i235cs.jpeg)
 In order for existing organizations to undergo a successful AI transformation, companies must remember that they are creating human-machine teams. 
-
-### [57. Three Best Practices for Tackling AI Bias in Recruitment](https://hackernoon.com/three-best-practices-for-tackling-ai-bias-in-recruitment)
-![](https://cdn.hackernoon.com/images/k4oa3fIFvVYzUaPgdNWrpIyp8bz2-u793ohj.jpeg)
-The use of AI-powered recruitment software is an exciting trend, but then what steps have been placed to curb the emergence of bias? This article shares some.
 
 ### [58. A Quick Introduction to Federated Learning of Cohorts [FloC]](https://hackernoon.com/a-quick-introduction-to-federated-learning-of-cohorts-floc)
 ![](https://cdn.hackernoon.com/images/SWKG1TLybKSJVkZgmqDqaOStGxi2-np2428k7.png)
@@ -241,13 +245,13 @@ Federated Learning is a relatively new machine learning technique that decentral
 ![](https://cdn.hackernoon.com/images/fdI8xgIHRJTxUAsqoZ27qOGzMz33-dh82zw7.jpeg)
 What is Graph RAG, what can it do, and how do you evaluate it?
 
-### [60. Reimagining Customer Behavior Through Machine Learning](https://hackernoon.com/reimagining-customer-behavior-through-machine-learning)
-![](https://cdn.hackernoon.com/images/XWM5uWRLl0fG1IB4hFpQDTfH0xz1-4v93eri.jpeg)
-Here what you need to know about Machine Learning in business market strategy 
-
-### [61. To Google or Not to Google: What the Future Has In Store for Search](https://hackernoon.com/to-google-or-not-to-google-what-the-future-has-in-store-for-search)
+### [60. To Google or Not to Google: What the Future Has In Store for Search](https://hackernoon.com/to-google-or-not-to-google-what-the-future-has-in-store-for-search)
 ![](https://cdn.hackernoon.com/images/tOnArrILSDcevoBmc7vIUv6UrQI3-b4936gy.jpeg)
 In the future, "to Google" may become outdated in light of breakthrough changes anticipating search engines in the months to come.
+
+### [61. Reimagining Customer Behavior Through Machine Learning](https://hackernoon.com/reimagining-customer-behavior-through-machine-learning)
+![](https://cdn.hackernoon.com/images/XWM5uWRLl0fG1IB4hFpQDTfH0xz1-4v93eri.jpeg)
+Here what you need to know about Machine Learning in business market strategy 
 
 ### [62. Enlightened Machines, Super Intelligent AI, And Buddhism](https://hackernoon.com/enlightened-machines-super-intelligent-ai-and-buddhism-j4ca32k8)
 ![](https://images.unsplash.com/photo-1534104275488-7ba96ed1a2f6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -297,13 +301,13 @@ You can call yourself a guru of retail pricing if you can make the right pricing
 ![](https://cdn.hackernoon.com/images/x1QkhYVkjQe5AAZwdoZrc9yGZLv1-3dif45ca.jpeg)
 In this article, we will aggregate categorical responses with the help of two classical algorithms – Majority Vote and Dawid-Skene.
 
-### [74. How AI Can Help To Solve Issues In The Education System](https://hackernoon.com/how-ai-can-help-to-solve-issues-in-the-education-system-gs133326)
-![](https://cdn.hackernoon.com/images/PztIEUJLNDeVgvGc4YvbQpbQaqI2-zg3533jr.jpeg)
-Leveraging Artificial Intelligence in the Education sector can help bring revolutionary transformation. 
-
-### [75. The Political Future of AI: A Non-Partisan Issue or the Road to UBI?](https://hackernoon.com/the-political-future-of-ai-a-non-partisan-issue-or-the-road-to-ubi)
+### [74. The Political Future of AI: A Non-Partisan Issue or the Road to UBI?](https://hackernoon.com/the-political-future-of-ai-a-non-partisan-issue-or-the-road-to-ubi)
 ![](https://cdn.hackernoon.com/images/b7p6wqUGyOOVZhKB3vCYUetF8Zx2-khd4wk8.jpeg)
 The road to UBI will take different political turns until AI economically hurts both Democrats and Republicans.
+
+### [75. How AI Can Help To Solve Issues In The Education System](https://hackernoon.com/how-ai-can-help-to-solve-issues-in-the-education-system-gs133326)
+![](https://cdn.hackernoon.com/images/PztIEUJLNDeVgvGc4YvbQpbQaqI2-zg3533jr.jpeg)
+Leveraging Artificial Intelligence in the Education sector can help bring revolutionary transformation. 
 
 ### [76. Will Human Writing and AI Writing Become Indistinguishable? ](https://hackernoon.com/will-human-writing-and-ai-writing-become-indistinguishable-ed393epp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fgqn0hbhfmDb2M72pj6TxbK7P9LB3-t11j33jj.jpeg?alt=media&token=ada812ee-43f5-4f3b-b66d-1bb4c7dc61b8)
@@ -313,25 +317,25 @@ This Essay Was Written by a Human, Not a Robot. Or Was It?
 ![](https://cdn.hackernoon.com/drafts/2dj03ygj.png)
 Is A.I. a revolution or a war? A god or a pet? A hammer or a nail? Do we really need more metaphors to describe it? Nowadays, A.I dictates what information is presented to us on social media, which ads we see, and what prices we’re offered both on and offline. An algorithm can technically write and analyse books, beat humans at about every game conceivable, make movies, compose classical songs and help magicians perform better tricks. Beyond the arts, it also has the potential to encourage better decision-making, make medical diagnoses, and even solve some of humanity’s most pressing challenges. It’s intertwining with criminal justice, retail, education, recruiting, healthcare, banking, farming, transportation, warfare, insurance, media… the list goes on.
 
-### [78. IoIT, or Internet of Intelligent Things](https://hackernoon.com/ioit-or-internet-of-intelligent-things-km523u63)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzS7Ens3qoUevRb8Om1z17awDmJ93-wkt3uwu.png?alt=media&token=0ff2a53d-eef6-4df4-a24d-c834252401c9)
-The world is continuously moving towards intelligence, digitalization, and robotics. But what are the factors that are making these things possible? 
-
-### [79. Addressing Bias in AI: Training Data and the Importance of Diversity](https://hackernoon.com/addressing-bias-in-ai-training-data-and-the-importance-of-diversity)
+### [78. Addressing Bias in AI: Training Data and the Importance of Diversity](https://hackernoon.com/addressing-bias-in-ai-training-data-and-the-importance-of-diversity)
 ![](https://cdn.hackernoon.com/images/dfnkKGGdaveDKSte2xzbUj73T6z2-5k932rv.jpeg)
 The issue of bias in AI and the need to address it through diverse and representative data, appropriate algorithms
 
-### [80. Answering Whither Artificial Intelligence By Building A Bot](https://hackernoon.com/answering-whither-artificial-intelligence-by-building-a-bot-gt353yww)
+### [79. IoIT, or Internet of Intelligent Things](https://hackernoon.com/ioit-or-internet-of-intelligent-things-km523u63)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzS7Ens3qoUevRb8Om1z17awDmJ93-wkt3uwu.png?alt=media&token=0ff2a53d-eef6-4df4-a24d-c834252401c9)
+The world is continuously moving towards intelligence, digitalization, and robotics. But what are the factors that are making these things possible? 
+
+### [80. Can Artificial Intelligence Claim To Be the Future of Account-Based Marketing?](https://hackernoon.com/can-artificial-intelligence-claim-to-be-the-future-of-account-based-marketing-ipf1360y)
+![](https://cdn.hackernoon.com/images/0y5933gx.jpg)
+To be honest, I hate phrases like “harness the power of AI” or “use AI to revolutionize your sales”. 
+
+### [81. Answering Whither Artificial Intelligence By Building A Bot](https://hackernoon.com/answering-whither-artificial-intelligence-by-building-a-bot-gt353yww)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFbrWxOx5nMTBxccm5ukzHAjUy5m1-4yu3ehn.png?alt=media&token=a780ec3b-dfe7-483b-b12d-6ce7cb23601d)
 During one of our call with Yardy, discussing our next venture, we thought about implementing AI to streamline certain functions. Given that I had some experience with Machine Learning, our fund had a project aiming to evaluate ICOs & Coins on specific criteria. 
 
-### [81. The Role of AI and ML in Enhancing The Ability Of Multiplying Wealth	](https://hackernoon.com/the-role-of-ai-and-ml-in-enhancing-the-ability-of-multiplying-wealth-0g2e34vm)
+### [82. The Role of AI and ML in Enhancing The Ability Of Multiplying Wealth	](https://hackernoon.com/the-role-of-ai-and-ml-in-enhancing-the-ability-of-multiplying-wealth-0g2e34vm)
 ![](https://cdn.hackernoon.com/images/5O5F1ZCMRLYcTRCXuHmZRnmps2t2-gwm31dn.jpeg)
 Landing a good job is generally considered the purpose of education today. 
-
-### [82. Can Artificial Intelligence Claim To Be the Future of Account-Based Marketing?](https://hackernoon.com/can-artificial-intelligence-claim-to-be-the-future-of-account-based-marketing-ipf1360y)
-![](https://cdn.hackernoon.com/images/0y5933gx.jpg)
-To be honest, I hate phrases like “harness the power of AI” or “use AI to revolutionize your sales”. 
 
 ### [83. Why AI is an Evolutionary, Not Revolutionary, Technology](https://hackernoon.com/why-ai-is-an-evolutionary-not-revolutionary-technology)
 ![](https://cdn.hackernoon.com/images/jBJJsuzHGlP6728IzxswYfYoBmA3-aha2gtt.jpeg)
@@ -345,13 +349,13 @@ The other day we were reached out to on Twitter about what titles, responsibilit
 ![](https://cdn.hackernoon.com/images/epIiAOFMiDfLYzOGQgFK42VlUE83-go6931c4.jpeg)
 Build your own mini AI application in just 15 minutes! Understand fundamental AI concepts and discover a variety of AI APIs that could speed up your AI solution
 
-### [86. Spotting Monster Shrines and Finding Lost Treasures: 5 Genuinely Cool AI Projects](https://hackernoon.com/spotting-monster-shrines-and-finding-lost-treasures-5-genuinely-cool-ai-projects)
-![](https://cdn.hackernoon.com/images/HOQ4fSNNisNcZfjIthmL7q7XGBq2-p1836i7.jpeg)
-Finally, we’ve invented the sci-fi technology of the future! And what do we do? Make tech support chatbots and check insurance claims…
-
-### [87. The Current Reality and Future Possibilities of AI-Powered Coding](https://hackernoon.com/the-current-reality-and-future-possibilities-of-ai-powered-coding)
+### [86. The Current Reality and Future Possibilities of AI-Powered Coding](https://hackernoon.com/the-current-reality-and-future-possibilities-of-ai-powered-coding)
 ![](https://cdn.hackernoon.com/images/q53DzOPLYmXGv4I3x5voCqCSqf02-yyb2lcu.jpeg)
 AI can support with coding but it doesn't always perform well.
+
+### [87. Spotting Monster Shrines and Finding Lost Treasures: 5 Genuinely Cool AI Projects](https://hackernoon.com/spotting-monster-shrines-and-finding-lost-treasures-5-genuinely-cool-ai-projects)
+![](https://cdn.hackernoon.com/images/HOQ4fSNNisNcZfjIthmL7q7XGBq2-p1836i7.jpeg)
+Finally, we’ve invented the sci-fi technology of the future! And what do we do? Make tech support chatbots and check insurance claims…
 
 ### [88. Recommender Engines: AI on Steroids for E-commerce](https://hackernoon.com/recommender-engines-ai-on-steroids-for-e-commerce-5p4d3517)
 ![](https://cdn.hackernoon.com/images/MqSEHMWT0mgOOhS2eB2SCzkDa563-aycg45j7.jpeg)
@@ -394,13 +398,13 @@ Navigating the Nuances: The Relationship and Differences Between AI and Machine 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-xxu3u91.jpeg?alt=media&token=09173de1-37f9-42ce-96b7-3b96d6dba414)
 This series of articles teach you step-by-step, how to deploy an AI model on the embedded platform, and here we take opensource RT-Thread IoTOS as an example.
 
-### [98. Is AI Really Disrupting the Way We Live and Work?](https://hackernoon.com/is-ai-really-disrupting-the-way-we-live-and-work-us3k32t0)
-![](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-As artificial intelligence becomes more and more integrated into our workplace and daily life, it will fundamentally disrupt the way we live and work. A recent survey of 5,700 Harvard Business School alumni found that even in the elite group, 52% believe that the number of employees in general companies will decrease in the three years from now.
-
-### [99. iHack Alpha Inspires AI-Powered Solutions to Address Social Challenges](https://hackernoon.com/ihack-alpha-inspires-ai-powered-solutions-to-address-social-challenges-d76o35nk)
+### [98. iHack Alpha Inspires AI-Powered Solutions to Address Social Challenges](https://hackernoon.com/ihack-alpha-inspires-ai-powered-solutions-to-address-social-challenges-d76o35nk)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-g71u33eo.jpeg)
 Discover AI-powered solutions that empower social challenges and disabled persons. This includes text-to-speech for the blind-deaf and virtual mentors.
+
+### [99. Is AI Really Disrupting the Way We Live and Work?](https://hackernoon.com/is-ai-really-disrupting-the-way-we-live-and-work-us3k32t0)
+![](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+As artificial intelligence becomes more and more integrated into our workplace and daily life, it will fundamentally disrupt the way we live and work. A recent survey of 5,700 Harvard Business School alumni found that even in the elite group, 52% believe that the number of employees in general companies will decrease in the three years from now.
 
 ### [100. How AI and Machine Learning Are Infiltrating the Media Industry](https://hackernoon.com/how-ai-and-machine-learning-are-infiltrating-the-media-industry-bt6y3yeg)
 ![](https://cdn.hackernoon.com/drafts/eu13p3y01.png)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [github-actions](https://hackernoon.com/tagged/github-actions)
+### Let's learn about [Github Actions](https://hackernoon.com/tagged/github-actions) via these 119 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+GitHub Actions is a continuous integration/continuous delivery (CI/CD) platform built into GitHub, allowing automation of software workflows. It matters by streamlining development processes, enabling faster and more reliable software releases directly from the repository.
+
 ### [1. Adding Test Coverage Badge on GitHub Without Using Third-party Services](https://hackernoon.com/adding-test-coverage-badge-on-github-without-using-third-party-services)
 ![](https://cdn.hackernoon.com/images/2hVuiN1gfbdO9OXUxjCttPNETq73-ipc376t.jpeg)
 It’s easy to add test coverage on GitLab using the built-in feature. 
@@ -177,13 +181,13 @@ Learn how to set up a simple CI/CD pipeline using GitHub Actions to automate lin
 ![](https://cdn.hackernoon.com/images/3c0Ba4iB54PS3D89K3wjjsbD9Ll1-5sf3gan.png)
 How to deploy a serverless API on AWS, can use Node.js, python, Go, e.t.c. this will guide you in creating a CI / CD pipeline for AWS serverless APIs
 
-### [44. 5 Tools That Will Help You Improve Code Reviews on GitHub](https://hackernoon.com/5-tools-that-will-help-you-improve-code-reviews-on-github)
-![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-5a93uam.jpeg)
-In this article, we’ll consider five tools and integrations that can significantly improve your code review experience on GitHub.
-
-### [45. How to Manage Your Writing Schedule With GitHub Actions](https://hackernoon.com/how-to-manage-your-writing-schedule-with-github-actions)
+### [44. How to Manage Your Writing Schedule With GitHub Actions](https://hackernoon.com/how-to-manage-your-writing-schedule-with-github-actions)
 ![](https://cdn.hackernoon.com/images/clock-clgsu99c9000201s6hns3a79z.png)
 GitHub Actions is a powerful tool that allows you to automate your workflows. You can use it to build, test, and deploy your code. 
+
+### [45. 5 Tools That Will Help You Improve Code Reviews on GitHub](https://hackernoon.com/5-tools-that-will-help-you-improve-code-reviews-on-github)
+![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-5a93uam.jpeg)
+In this article, we’ll consider five tools and integrations that can significantly improve your code review experience on GitHub.
 
 ### [46. How to set up Continuous Delivery using Heroku Flow](https://hackernoon.com/how-to-set-up-continuous-delivery-using-heroku-flow-ner34lj)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXdTrpTXzxMgVm8F4Ctu32oQWJki2-31ce25kp.jpeg?alt=media&token=f5375848-aa2c-4e57-910c-4bbb3af0d2e4)
@@ -201,25 +205,25 @@ This article provides step-by-step instructions on how to set up continuous inte
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-pg92qav.jpeg)
 A short article about how Git hash-based decentralized filesystem work
 
-### [50. Hosting an Angular application on GitHub Pages using GitHub Actions](https://hackernoon.com/a-step-by-step-guide-to-hosting-angular-applications-on-github-pages-using-github-actions)
-![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-1792my3.jpeg)
-Application example built with Angular 15 and hosted on GitHub Pages using GitHub Actions.
-
-### [51. How to Implement Semantic Release for Public Non-Scoped Packages](https://hackernoon.com/how-to-implement-semantic-release-for-public-non-scoped-packages)
+### [50. How to Implement Semantic Release for Public Non-Scoped Packages](https://hackernoon.com/how-to-implement-semantic-release-for-public-non-scoped-packages)
 ![](https://cdn.hackernoon.com/images/CU9T26Y1hNgrvyNxGX0jRAJfpM12-e0a3xhu.jpeg)
 Detailed instructions on publishing a non-scoped public package using semantic release leveraging the power of GitHub Actions
+
+### [51. Hosting an Angular application on GitHub Pages using GitHub Actions](https://hackernoon.com/a-step-by-step-guide-to-hosting-angular-applications-on-github-pages-using-github-actions)
+![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-1792my3.jpeg)
+Application example built with Angular 15 and hosted on GitHub Pages using GitHub Actions.
 
 ### [52. How to Integrate Playwright in Your GitHub Action CI](https://hackernoon.com/how-to-integrate-playwright-in-your-github-action-ci)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oe92i2j.jpeg)
 In this post I will go through all the info you need to integrate Playwright in your CI without any problem.
 
-### [53. Share All Your Cool Tricks and Tips for Using Git and GitHub Effectively [Writing Prompt]](https://hackernoon.com/share-all-your-cool-tricks-and-tips-for-using-git-and-github-effectively-writing-prompt)
-![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-7y93nfn.jpeg)
-If you’re interested in writing about Git as in the process of learning, developing the code and the job interviews, feel free to use these writing prompts.
-
-### [54. How to Deploy a Hugo Blog to GitHub Pages With Actions](https://hackernoon.com/how-to-deploy-a-hugo-blog-to-github-pages-with-actions)
+### [53. How to Deploy a Hugo Blog to GitHub Pages With Actions](https://hackernoon.com/how-to-deploy-a-hugo-blog-to-github-pages-with-actions)
 ![](https://cdn.hackernoon.com/images/qqQuQnB1axa4HS9uKXmxjdYUt2f1-uo12tsc.png)
 Learn how I built a technical blog using Hugo, Caddy, and GitHub Pages. A simple, lightweight setup for developers new to blogging
+
+### [54. Share All Your Cool Tricks and Tips for Using Git and GitHub Effectively [Writing Prompt]](https://hackernoon.com/share-all-your-cool-tricks-and-tips-for-using-git-and-github-effectively-writing-prompt)
+![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-7y93nfn.jpeg)
+If you’re interested in writing about Git as in the process of learning, developing the code and the job interviews, feel free to use these writing prompts.
 
 ### [55. Building a Reusable Deployment Workflow with Kamal and GitHub Actions](https://hackernoon.com/building-a-reusable-deployment-workflow-with-kamal-and-github-actions)
 ![](https://cdn.hackernoon.com/images/a-laptop-displaying-arbitrary-lines-of-code-yaybkns51tvgh5pudaws2had.png)
@@ -249,13 +253,13 @@ Deepen your understanding of git internals and learn what to do when you wish yo
 ![](https://cdn.hackernoon.com/images/gdSH9RKnXaYYuw1kkt4410ToWJF3-zvb2n0l.jpeg)
 In this blog, i will walk you through different steps on how you can create a custom GitHub actions which would satisfy your requirement.
 
-### [62. With GitHub Actions, you don’t have to do boring tasks manually ever again](https://hackernoon.com/with-github-actions-you-dont-have-to-do-boring-tasks-manually-ever-again-301p356e)
-![](https://cdn.hackernoon.com/images/nK3UZs3tWBP6DTC1gpQ5Lz7Kiye2-9ij3831.jpeg)
-Check out this guide and spin up a GitHub Action for your favorite stack fast—like Stack Overflow copy & paste fast.
-
-### [63. Using Markdown Math in Github](https://hackernoon.com/using-markdown-math-in-github)
+### [62. Using Markdown Math in Github](https://hackernoon.com/using-markdown-math-in-github)
 ![](https://cdn.hackernoon.com/images/EeX35fKg9SMcjCyjLf6mn4qpi7X2-5l93pzk.jpeg)
 As of 2022, Github has the ability to display mathematical formulas using Math support in Markdown. 
+
+### [63. With GitHub Actions, you don’t have to do boring tasks manually ever again](https://hackernoon.com/with-github-actions-you-dont-have-to-do-boring-tasks-manually-ever-again-301p356e)
+![](https://cdn.hackernoon.com/images/nK3UZs3tWBP6DTC1gpQ5Lz7Kiye2-9ij3831.jpeg)
+Check out this guide and spin up a GitHub Action for your favorite stack fast—like Stack Overflow copy & paste fast.
 
 ### [64. DevOps Shouldn't Be Hard!](https://hackernoon.com/devops-shouldnt-be-hard-github-actions-fq192hrl)
 ![](https://images.unsplash.com/photo-1529465230221-a0d10e46fcbb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -285,17 +289,17 @@ At the beginning of developing and building a new application or product, before
 ![](https://cdn.hackernoon.com/images/ctFl6KUYXPaiCcbIjvjhP1MZn0k1-3f92qvw.jpeg)
 We dig into how to continuously run Locust to ensure your deployments meet the minimum requirements.
 
-### [71. Replacing Service Principal Secrets in Crossplane with Azure Workload Identity Federation](https://hackernoon.com/replacing-service-principal-secrets-in-crossplane-with-azure-workload-identity-federation)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2c024ql.jpeg)
-When using Crossplane to provision Azure resources from Kubernetes, authentication becomes a critical challenge.
-
-### [72. A Comprehensive Guide to the Difference Between Git vs GitHub](https://hackernoon.com/a-comprehensive-guide-to-the-difference-between-git-vs-github)
+### [71. A Comprehensive Guide to the Difference Between Git vs GitHub](https://hackernoon.com/a-comprehensive-guide-to-the-difference-between-git-vs-github)
 ![](https://cdn.hackernoon.com/images/NPpeHHzuHSQz9hZ52qrNTgG9C6a2-h393wiu.jpeg)
 Git and GitHub are used to manage code. To  help you use both services to their maximum, we will explain the distinctions between Git and GitHub in this blog.
 
-### [73. A Practical Guide to Building Smarter GitHub Workflows](https://hackernoon.com/a-practical-guide-to-building-smarter-github-workflows)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-yk12sy9.jpeg)
-Learn practical tips for building reliable GitHub workflows: Actions vs. workflows, caching, pinning, testing locally, and avoiding common pitfalls.
+### [72. Replacing Service Principal Secrets in Crossplane with Azure Workload Identity Federation](https://hackernoon.com/replacing-service-principal-secrets-in-crossplane-with-azure-workload-identity-federation)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2c024ql.jpeg)
+When using Crossplane to provision Azure resources from Kubernetes, authentication becomes a critical challenge.
+
+### [73. Smarter DevOps Pipeline with GitHub CI and Azure Automation](https://hackernoon.com/smarter-devops-pipeline-with-github-ci-and-azure-automation)
+![](https://cdn.hackernoon.com/images/SAnLN7eHQ7eZr9DaZvqYBwZoq0i2-yb03d8l.jpeg)
+Build a smarter DevOps pipeline using GitHub CI and Azure Automation with best practices for CI/CD, IaC, security, and scalable cloud deployments
 
 ### [74. GitHub Pages is a Great Way to Host a Server](https://hackernoon.com/github-pages-is-a-great-way-to-host-a-server)
 ![](https://cdn.hackernoon.com/images/oEYCrZNrzXUMS85TGJm5kEKTpcZ2-i992or3.jpeg)
@@ -305,9 +309,9 @@ Hosting serverless applications outside of cloud on a home server.
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-5q03b30.png)
 Learn how to create, configure, and trigger GitHub Actions workflows to automate builds, tests, and deployments in your CI/CD pipeline.
 
-### [76. Smarter DevOps Pipeline with GitHub CI and Azure Automation](https://hackernoon.com/smarter-devops-pipeline-with-github-ci-and-azure-automation)
-![](https://cdn.hackernoon.com/images/SAnLN7eHQ7eZr9DaZvqYBwZoq0i2-yb03d8l.jpeg)
-Build a smarter DevOps pipeline using GitHub CI and Azure Automation with best practices for CI/CD, IaC, security, and scalable cloud deployments
+### [76. A Practical Guide to Building Smarter GitHub Workflows](https://hackernoon.com/a-practical-guide-to-building-smarter-github-workflows)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-yk12sy9.jpeg)
+Learn practical tips for building reliable GitHub workflows: Actions vs. workflows, caching, pinning, testing locally, and avoiding common pitfalls.
 
 ### [77. How Git stores data](https://hackernoon.com/how-git-stores-data)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-gza2i51.jpeg)
@@ -321,156 +325,164 @@ Read an article on how to use the GitHub Actions Evrone wrote to run rubocop, br
 ![](https://cdn.hackernoon.com/images/ixsN9Zb8Pkcl0i6EizoW9z6RszC3-6fb3o5s.jpeg)
 This article will show how software development teams can build on-demand environments for dog-food testing, quality review, internal and external demos and oth
 
-### [80. Introducing the TryHackMe Badge Action Workflow: Automate Your Security Achievements Display](https://hackernoon.com/introducing-the-tryhackme-badge-action-workflow-automate-your-security-achievements-display)
+### [80. No More Silent Analytics Bugs: All it Takes is One SDK and One Github Action](https://hackernoon.com/no-more-silent-analytics-bugs-all-it-takes-is-one-sdk-and-one-github-action)
+![](https://cdn.hackernoon.com/images/NjAziMwIyeYk1GVd0qWIjpIAhC82-p283r3p.jpeg)
+Avoid silent analytics bugs by using two Open Source tools. First, get free from vendor lock-in by replacing the vendor analytics SDKs with RudderStack SDK that
+
+### [81. Introducing the TryHackMe Badge Action Workflow: Automate Your Security Achievements Display](https://hackernoon.com/introducing-the-tryhackme-badge-action-workflow-automate-your-security-achievements-display)
 ![](https://cdn.hackernoon.com/images/yJx6Jb9xDbaeUH6oktJcQUQy9xR2-59c332h.png)
 The TryHackMe Badge Action Workflow is a custom GitHub Action that refreshes and displays your TryHackme badge on your GitHub profile or repository README page.
 
-### [81. 8 underrated Git commands every programmer should know (not the usual pull, push, add, commit)](https://hackernoon.com/8-underrated-git-commands-every-programmer-should-know-not-the-usual-pull-push-add-commit-qk17356a)
-![](https://cdn.hackernoon.com/images/dQivUEEj1RcFc2A4GiaE0hI9ypA3-pw5933a4.jpeg)
-These are some of the most useful Git commands that helped me during my programming journey. 
-
-### [82. Github Actions and Go: AreYouOk My URL?](https://hackernoon.com/github-actions-and-go-areyouok-my-url-ao1d33a1)
-![](https://cdn.hackernoon.com/images/3XiXXAr72QZv4bjN2AsXxr5lJ0n1-kic422n4.jpeg)
-Check and audit link/URL health using Github actions. Test dead links in a fast and efficient manner
-
-### [83. Releasing New Versions Should Be Boring. Really Boring.](https://hackernoon.com/releasing-new-versions-should-be-boring-really-boring)
+### [82. Releasing New Versions Should Be Boring. Really Boring.](https://hackernoon.com/releasing-new-versions-should-be-boring-really-boring)
 ![](https://cdn.hackernoon.com/images/kVpjfmfbglT2utAK2vk9aw1Y7e23-uu127ue.jpeg)
 Releasing a new version of a tool should be transparent, effortless, reliable, and informative. vnext and modular workflows help accomplish this.
 
-### [84. A Guide on How to Build an AI-Powered Automated Product Enrichment Pipeline for Shopify](https://hackernoon.com/a-guide-on-how-to-build-an-ai-powered-automated-product-enrichment-pipeline-for-shopify)
+### [83. A Guide on How to Build an AI-Powered Automated Product Enrichment Pipeline for Shopify](https://hackernoon.com/a-guide-on-how-to-build-an-ai-powered-automated-product-enrichment-pipeline-for-shopify)
 ![](https://cdn.hackernoon.com/images/2qBTGEV50kSdX1DUSRsBeRLW1gQ2-ib230ro.png)
 Learn how to automate a Shopify store using custom CI pipeline, ShopCTL CLI tool and scripting — without exposing your data to external apps
 
-### [85. Git Tutorial: How To See Your Most Used Git Commands Using a Script](https://hackernoon.com/git-tutorial-how-to-see-your-most-used-git-commands-using-a-script-a13r33ac)
+### [84. 8 underrated Git commands every programmer should know (not the usual pull, push, add, commit)](https://hackernoon.com/8-underrated-git-commands-every-programmer-should-know-not-the-usual-pull-push-add-commit-qk17356a)
+![](https://cdn.hackernoon.com/images/dQivUEEj1RcFc2A4GiaE0hI9ypA3-pw5933a4.jpeg)
+These are some of the most useful Git commands that helped me during my programming journey. 
+
+### [85. Github Actions and Go: AreYouOk My URL?](https://hackernoon.com/github-actions-and-go-areyouok-my-url-ao1d33a1)
+![](https://cdn.hackernoon.com/images/3XiXXAr72QZv4bjN2AsXxr5lJ0n1-kic422n4.jpeg)
+Check and audit link/URL health using Github actions. Test dead links in a fast and efficient manner
+
+### [86. Git Tutorial: How To See Your Most Used Git Commands Using a Script](https://hackernoon.com/git-tutorial-how-to-see-your-most-used-git-commands-using-a-script-a13r33ac)
 ![](https://cdn.hackernoon.com/images/5NZWyPc47pMbzpEcMC8q4ylcm6l1-v12l334z.png)
 Git has many commands but you can be productive with just a few. I used a script to fetch my most git commands sorted by the number of their occurrences.
 
-### [86. A Simple Guide to Github Page Deployment](https://hackernoon.com/ultimate-github-page-deployment-iz203tq6)
+### [87. A Simple Guide to Github Page Deployment](https://hackernoon.com/ultimate-github-page-deployment-iz203tq6)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMjm89m7KHiZ58rDvoLMIPZggza62-s3g28ke.jpeg?alt=media&token=d7cd29f2-3699-4cba-922d-6bd8acace002)
 Long story short: Jekyll is a template engine changing markdown documents on static HTML webpages, that you can then host anywyere, because you don't need databases or server that has PHP or Python.
 
-### [87.  A Deep Dive Into GitHub Actions From Software Development to Data Engineering](https://hackernoon.com/a-deep-dive-into-github-actions-from-software-development-to-data-engineering)
+### [88.  A Deep Dive Into GitHub Actions From Software Development to Data Engineering](https://hackernoon.com/a-deep-dive-into-github-actions-from-software-development-to-data-engineering)
 ![](https://cdn.hackernoon.com/images/TbvBlyikqbYO9TG8r4NopOMeGSs1-1q02uwk.png)
 GitHub Actions is widely recognized as a powerful tool for automating tasks in software development. 
 
-### [88. Using GitHub Actions To Publish NuGet Packages [A Step-by-Step Guide]](https://hackernoon.com/using-github-actions-to-publish-nuget-packages-a-step-by-step-guide-5f2h3ylt)
+### [89. Building an AI-Powered DevSecOps Guardrail Pipeline with GitHub Actions](https://hackernoon.com/building-an-ai-powered-devsecops-guardrail-pipeline-with-github-actions)
+![](https://cdn.hackernoon.com/images/a9PQjEXbVGN60c8FY0bcO4eUGUp2-8u43f8y.jpeg)
+Learn how to build an AI-powered DevSecOps guardrail pipeline using GitHub Actions to automatically detect security vulnerabilities before deployment. 
+
+### [90. Using GitHub Actions To Publish NuGet Packages [A Step-by-Step Guide]](https://hackernoon.com/using-github-actions-to-publish-nuget-packages-a-step-by-step-guide-5f2h3ylt)
 ![](https://images.unsplash.com/photo-1590595906931-81f04f0ccebb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 In the world of DevOps automation, manually creating and uploading packages felt so old-fashioned (don't get me started on Azure Devops).
 
-### [89. Cloudy with a Chance of Git Pulls: Automated Weather Forecasts With GitHub Actions](https://hackernoon.com/cloudy-with-a-chance-of-git-pulls-automated-weather-forecasts-with-github-actions-vt4c331a)
+### [91. Cloudy with a Chance of Git Pulls: Automated Weather Forecasts With GitHub Actions](https://hackernoon.com/cloudy-with-a-chance-of-git-pulls-automated-weather-forecasts-with-github-actions-vt4c331a)
 ![](https://cdn.hackernoon.com/images/j3EXE7ofOhT0JI2if1MSoshzOL82-u7k32aij.jpeg)
 This tutorial covers creating a custom GitHub Action to generate automated Weather Forecasts. It relies on the Open Weather API and Nodejs.
 
-### [90. How to Win Git and Influence Repositories: 15 Git Commands Every Engineer Needs](https://hackernoon.com/how-to-win-git-and-influence-repositories-15-git-commands-every-engineer-needs)
+### [92. How to Win Git and Influence Repositories: 15 Git Commands Every Engineer Needs](https://hackernoon.com/how-to-win-git-and-influence-repositories-15-git-commands-every-engineer-needs)
 ![](https://cdn.hackernoon.com/images/8S7YTEYJyrdVGKzKgPKnA471tYm1-8i93k0u.png)
 The version control system is the foundation of the basics, without which it is impossible to conduct team product development in our time.
 
-### [91. Scaling GitHub Actions on AWS with ForgeMT’s Security and Multi-Tenancy](https://hackernoon.com/scaling-github-actions-on-aws-with-forgemts-security-and-multi-tenancy)
+### [93. Scaling GitHub Actions on AWS with ForgeMT’s Security and Multi-Tenancy](https://hackernoon.com/scaling-github-actions-on-aws-with-forgemts-security-and-multi-tenancy)
 ![](https://cdn.hackernoon.com/images/SRwrN8d419dzZGl3J2LQJlB8wAl2-cd039ya.png)
 ForgeMT is a secure, scalable GitHub Actions runner platform on AWS, automating CI/CD, cutting costs, and enforcing strict multi-tenant isolation.
 
-### [92. Orchestrating Airflow DAGs with GitHub Actions - A Lightweight Approach to Data Curation Across Spa](https://hackernoon.com/orchestrating-airflow-dags-with-github-actions-a-lightweight-approach-to-data-curation-across-spa)
+### [94. Orchestrating Airflow DAGs with GitHub Actions - A Lightweight Approach to Data Curation Across Spa](https://hackernoon.com/orchestrating-airflow-dags-with-github-actions-a-lightweight-approach-to-data-curation-across-spa)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-su02qrz.jpeg)
 Maintaining a persistent Airflow deployment can often add significant overhead to data engineering teams, especially when orchestrating tasks across systems.
 
-### [93. Ship Smarter, Not Harder: Affordable Kubernetes CI/CD with GitHub Actions + Helm](https://hackernoon.com/ship-smarter-not-harder-affordable-kubernetes-cicd-with-github-actions-helm)
+### [95. Ship Smarter, Not Harder: Affordable Kubernetes CI/CD with GitHub Actions + Helm](https://hackernoon.com/ship-smarter-not-harder-affordable-kubernetes-cicd-with-github-actions-helm)
 ![](https://cdn.hackernoon.com/images/rIVD9uGtDyTmdfox8lpMYgJi5AZ2-ag03bhx.jpeg)
 This guide is for freelancers and small teams who need reliable, inexpensive delivery to Kubernetes. 
 
-### [94. Effortlessly Deploy a Docker Image to ECR with GitHub Actions](https://hackernoon.com/effortlessly-deploy-a-docker-image-to-ecr-with-github-actions)
+### [96. Effortlessly Deploy a Docker Image to ECR with GitHub Actions](https://hackernoon.com/effortlessly-deploy-a-docker-image-to-ecr-with-github-actions)
 ![](https://cdn.hackernoon.com/images/9gE8Tr4eNOQs1QRV8GGfM1N6No73-4w93ppx.jpeg)
 In this post, I show you how to build and push the Octopus Deploy underwater app to Amazon Elastic Container Registry (ECR) using GitHub Actions.
 
-### [95. Three GitHub Features You’re Missing Out On](https://hackernoon.com/three-github-features-youre-missing-out-on-tj1i3yph)
-![](https://cdn.hackernoon.com/images/9b363y49.jpg)
-Did you ever have a friend you only ever saw in one place? Maybe it was a bar, your knitting club, or at the school gates. 
-
-### [96. Using Raspberry Pi to Migrate GitHub Runners to Self-Hosted Ones](https://hackernoon.com/using-raspberry-pi-to-migrate-github-runners-to-self-hosted-ones)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-5v82ihr.jpeg)
-How I am migrating GitHub Actions to self-hosted runners on a Raspberry Pi
-
-### [97. Conducting Cross Browser Testing With Cypress in CI/CD using Docker](https://hackernoon.com/conducting-cross-browser-testing-with-cypress-in-cicd-using-docker)
-![](https://cdn.hackernoon.com/images/Jk8jZv20G2YYWf6AjGNu4ZTL25c2-n493snh.jpeg)
-Running Cypress tests across multiple browsers in CI/CD using Docker. 
-
-### [98. Managing Multi-Environment Kubernetes Deployments with GitOps and Argo CD](https://hackernoon.com/managing-multi-environment-kubernetes-deployments-with-gitops-and-argo-cd)
+### [97. Managing Multi-Environment Kubernetes Deployments with GitOps and Argo CD](https://hackernoon.com/managing-multi-environment-kubernetes-deployments-with-gitops-and-argo-cd)
 ![](https://cdn.hackernoon.com/images/MRoQXIDcsoYv1qbzlGNcybdZfc03-cca3ra3.jpeg)
 
 
-### [99. Building the Foundation: The Benefits of Early Software Engineering Education](https://hackernoon.com/building-the-foundation-the-benefits-of-early-software-engineering-education)
+### [98. Three GitHub Features You’re Missing Out On](https://hackernoon.com/three-github-features-youre-missing-out-on-tj1i3yph)
+![](https://cdn.hackernoon.com/images/9b363y49.jpg)
+Did you ever have a friend you only ever saw in one place? Maybe it was a bar, your knitting club, or at the school gates. 
+
+### [99. Using Raspberry Pi to Migrate GitHub Runners to Self-Hosted Ones](https://hackernoon.com/using-raspberry-pi-to-migrate-github-runners-to-self-hosted-ones)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-5v82ihr.jpeg)
+How I am migrating GitHub Actions to self-hosted runners on a Raspberry Pi
+
+### [100. Conducting Cross Browser Testing With Cypress in CI/CD using Docker](https://hackernoon.com/conducting-cross-browser-testing-with-cypress-in-cicd-using-docker)
+![](https://cdn.hackernoon.com/images/Jk8jZv20G2YYWf6AjGNu4ZTL25c2-n493snh.jpeg)
+Running Cypress tests across multiple browsers in CI/CD using Docker. 
+
+### [101. Building the Foundation: The Benefits of Early Software Engineering Education](https://hackernoon.com/building-the-foundation-the-benefits-of-early-software-engineering-education)
 ![](https://cdn.hackernoon.com/images/children-using-laptops-in-a-classroom-xru4jvilco261ingnzsrciz3.png)
 Early exposure to version control and continuous integration in CS education benefits students, making software engineering concepts accessible even to beginner
 
-### [100. There's No Feeling Like Making Your First Contribution to a Github Open Source Project](https://hackernoon.com/theres-no-feeling-like-making-your-first-contribution-to-a-github-open-source-project)
-![](https://cdn.hackernoon.com/images/9mEVhVUDuCNNlVwf2fYGWWBDAdt1-h3034l1.webp)
-What I learned contributing to the Anastruct Library, my first github pull request.
-
-### [101. Teaching High School Students Software Engineering: Prerequisites](https://hackernoon.com/teaching-high-school-students-software-engineering-prerequisites)
+### [102. Teaching High School Students Software Engineering: Prerequisites](https://hackernoon.com/teaching-high-school-students-software-engineering-prerequisites)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-8983z71.png)
 Explore project development with Linux, GitHub, and CI in our summer coding sessions, mastering essential tools and techniques for seamless collaboration.
 
-### [102. Learning Git Properly Will Save Your Future Self Hours of Pain](https://hackernoon.com/learning-git-properly-will-save-your-future-self-hours-of-pain)
+### [103. There's No Feeling Like Making Your First Contribution to a Github Open Source Project](https://hackernoon.com/theres-no-feeling-like-making-your-first-contribution-to-a-github-open-source-project)
+![](https://cdn.hackernoon.com/images/9mEVhVUDuCNNlVwf2fYGWWBDAdt1-h3034l1.webp)
+What I learned contributing to the Anastruct Library, my first github pull request.
+
+### [104. Learning Git Properly Will Save Your Future Self Hours of Pain](https://hackernoon.com/learning-git-properly-will-save-your-future-self-hours-of-pain)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-hx02w0y.png)
 At some point in your career, Git will either be your best friend — or your worst nightmare.
 
-### [103. Migrating My Blog from WordPress to GitHub Pages: Lessons Learned](https://hackernoon.com/migrating-my-blog-from-wordpress-to-github-pages-lessons-learned)
+### [105. Migrating My Blog from WordPress to GitHub Pages: Lessons Learned](https://hackernoon.com/migrating-my-blog-from-wordpress-to-github-pages-lessons-learned)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ao82qhu.png)
 Discover my journey of moving from WordPress to GitHub Pages. Learn how I tackled challenges with GitHub Actions and optimized the deployment process.
 
-### [104. Effortlessly Deploy Django Apps to the Cloud with GitHub Actions and Heroku](https://hackernoon.com/effortlessly-deploy-django-apps-to-the-cloud-with-github-actions-and-heroku)
+### [106. Effortlessly Deploy Django Apps to the Cloud with GitHub Actions and Heroku](https://hackernoon.com/effortlessly-deploy-django-apps-to-the-cloud-with-github-actions-and-heroku)
 ![](https://cdn.hackernoon.com/images/cloud-of-computers-ool9r5b4bflmqn7xqsua4k2c.png)
 Learn how to deploy a Django application to Heroku using GitHub Actions for seamless CI/CD integration and rapid cloud deployment.
 
-### [105. GitHub Actions Meets Kubernetes: How to Test PRs on GKE Without Losing Your Mind](https://hackernoon.com/github-actions-meets-kubernetes-how-to-test-prs-on-gke-without-losing-your-mind)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-wz02las.jpeg)
-I'm continuing my series on running the test suite for each Pull Request on Kubernetes.
-
-### [106. Beginner’s Explanatory Guide to GitHub Actions](https://hackernoon.com/beginners-explanatory-guide-to-github-actions)
-![](https://cdn.hackernoon.com/images/nUzRDdHSAqQc7LgE4w8EKypXWpo2-le03aar.jpeg)
-Learning github actions start here
-
-### [107. Building my Github Action to Deliver Doggoes to PRs](https://hackernoon.com/building-my-github-action-to-deliver-doggoes-to-prs-3d1g32wq)
-![](https://cdn.hackernoon.com/images/o29l32o3.gif)
-Because who doesn't want good boys to show up whenever they push?
-
-### [108. Building a Better Experience for Courseware Management](https://hackernoon.com/building-a-better-experience-for-courseware-management)
+### [107. Building a Better Experience for Courseware Management](https://hackernoon.com/building-a-better-experience-for-courseware-management)
 ![](https://cdn.hackernoon.com/images/40xxZYIYGtVNPrB3zwyCY53ndUQ2-dv91cla.jpeg)
 Courseware as Code is a revolutionary approach to streamlining the production of courseware.
 
-### [109. The Most Important Git Command](https://hackernoon.com/the-most-important-git-command)
+### [108. GitHub Actions Meets Kubernetes: How to Test PRs on GKE Without Losing Your Mind](https://hackernoon.com/github-actions-meets-kubernetes-how-to-test-prs-on-gke-without-losing-your-mind)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-wz02las.jpeg)
+I'm continuing my series on running the test suite for each Pull Request on Kubernetes.
+
+### [109. Beginner’s Explanatory Guide to GitHub Actions](https://hackernoon.com/beginners-explanatory-guide-to-github-actions)
+![](https://cdn.hackernoon.com/images/nUzRDdHSAqQc7LgE4w8EKypXWpo2-le03aar.jpeg)
+Learning github actions start here
+
+### [110. Building my Github Action to Deliver Doggoes to PRs](https://hackernoon.com/building-my-github-action-to-deliver-doggoes-to-prs-3d1g32wq)
+![](https://cdn.hackernoon.com/images/o29l32o3.gif)
+Because who doesn't want good boys to show up whenever they push?
+
+### [111. The Most Important Git Command](https://hackernoon.com/the-most-important-git-command)
 ![](https://cdn.hackernoon.com/images/PA7takFZySUZchMFd41XWPvyvTz1-9c33kcd.jpeg)
 When working with Git, the most useful command is "git help", which provides us with all of the assistance we require.
 
 
-### [110. Automating Localization with Github Actions: A How-To Guide](https://hackernoon.com/automating-localization-with-github-actions-a-how-to-guide-hn1o3zh9)
+### [112. Automating Localization with Github Actions: A How-To Guide](https://hackernoon.com/automating-localization-with-github-actions-a-how-to-guide-hn1o3zh9)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMoJkXw8yrXWtwstaEMp5yol53TD2-p83m2wml.jpeg?alt=media&token=a0c519f0-13d8-45f1-9b8d-abee525b0ff4)
 Automated Localization
 
-### [111. Scaling and Adapting Automated Testing for Broader Educational Impact](https://hackernoon.com/scaling-and-adapting-automated-testing-for-broader-educational-impact)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-fk83z20.png)
-Learn reflections on implementing and scaling web testing projects, emphasizing the importance of early exposure to version control and automated testing.
-
-### [112. The Developer Hack That Turned 3-Minute Waits Into 30 Seconds](https://hackernoon.com/the-developer-hack-that-turned-3-minute-waits-into-30-seconds)
+### [113. The Developer Hack That Turned 3-Minute Waits Into 30 Seconds](https://hackernoon.com/the-developer-hack-that-turned-3-minute-waits-into-30-seconds)
 ![](https://cdn.hackernoon.com/images/2GvLYqtExzWQVpFYbHz7jwspTxB2-uq03bl6.jpeg)
 Ugh, waiting for PR previews to load is the worst, right? he Pre-Configured Slots Pattern is so underrated — zero-wait deploys, shareable URLs, and no cost.
 
-### [113. Teaching High School Students Software Engineering: Project Implementation](https://hackernoon.com/teaching-high-school-students-software-engineering-project-implementation)
+### [114. Scaling and Adapting Automated Testing for Broader Educational Impact](https://hackernoon.com/scaling-and-adapting-automated-testing-for-broader-educational-impact)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-fk83z20.png)
+Learn reflections on implementing and scaling web testing projects, emphasizing the importance of early exposure to version control and automated testing.
+
+### [115. Teaching High School Students Software Engineering: Project Implementation](https://hackernoon.com/teaching-high-school-students-software-engineering-project-implementation)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-1v830u0.png)
 Learn to implement HTML validators, link checkers, and unit tests in web projects for robust and error-free development.
 
-### [114. High School Students Tackle Automated Testing and Version Control](https://hackernoon.com/high-school-students-tackle-automated-testing-and-version-control)
+### [116. High School Students Tackle Automated Testing and Version Control](https://hackernoon.com/high-school-students-tackle-automated-testing-and-version-control)
 ![](https://cdn.hackernoon.com/images/children-using-laptops-in-a-classroom-r28r1rfvataqj1jjqqngqbhf.png)
 High school students learn software engineering skills, including automated testing and version control, during a summer project at Wayne State University.
 
-### [115. Stop Arguing Over Code Style—Let a Bot Do It For You](https://hackernoon.com/stop-arguing-over-code-stylelet-a-bot-do-it-for-you)
+### [117. Stop Arguing Over Code Style—Let a Bot Do It For You](https://hackernoon.com/stop-arguing-over-code-stylelet-a-bot-do-it-for-you)
 ![](https://cdn.hackernoon.com/images/LNxom55q1TNMSDqXPhqDxD8Gw9F2-a2039p2.png)
 Automate Your Code Linting and Formatting with Typescript, ESLint, Prettier, and GitHub Actions.
 
-### [116. Introducing High School Students to Version Control, Continuous Integration, and Quality Assurance](https://hackernoon.com/introducing-high-school-students-to-version-control-continuous-integration-and-quality-assurance)
+### [118. Introducing High School Students to Version Control, Continuous Integration, and Quality Assurance](https://hackernoon.com/introducing-high-school-students-to-version-control-continuous-integration-and-quality-assurance)
 ![](https://cdn.hackernoon.com/images/children-using-laptops-in-a-classroom-joqlbo9rpcumkuark8e3zex3.png)
 High school students learn software engineering skills, including automated testing and version control, during a summer project at Wayne State University.
 
-### [117. How to Create and Publish a GitHub Action in Typescript - ULTIMATE 2023 GUIDE](https://hackernoon.com/how-to-create-and-publish-a-github-action-in-typescript-ultimate-2023-guide)
+### [119. How to Create and Publish a GitHub Action in Typescript - ULTIMATE 2023 GUIDE](https://hackernoon.com/how-to-create-and-publish-a-github-action-in-typescript-ultimate-2023-guide)
 ![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-q393v8f.jpeg)
 A complete tutorial to create and publish a GitHub Action in Typescript with tests and best practices.
 

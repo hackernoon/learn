@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [npm](https://hackernoon.com/tagged/npm)
+### Let's learn about [Npm](https://hackernoon.com/tagged/npm) via these 75 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+npm (Node Package Manager) is the default package manager for Node.js, providing a vast registry of open-source packages and tools essential for modern JavaScript development. It matters by simplifying dependency management and enabling developers to quickly integrate and reuse code, greatly accelerating project development.
+
 ### [1. Choosing the Right Package Manager: NPM, Yarn, or PNPM?](https://hackernoon.com/choosing-the-right-package-manager-npm-yarn-or-pnpm)
 ![](https://cdn.hackernoon.com/images/gfw4NxkUQKPp2R0AkcTiS85lGiG2-h993tkg.jpeg)
 PNPM is a drop-in replacement for npm and is much faster and more efficient than its predecessor. It is highly disk efficient and solves inherent issues in npm.
@@ -77,13 +81,13 @@ NPM automation tokens allow us to publish 2FA-protected packages from automation
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVLQwBfew3BWvPdHm1kkK6gvMdDK2-h01630w6.jpeg?alt=media&token=46855dc4-786d-4f32-ba2d-ef7e4280f096)
 After you've set up Node.js on your machine, the first thing you'll probably want to do is create a new project and start coding. And to get more efficient at the job, there are two important things that you'll need to be fluent with:
 
-### [20. Building a Simple CLI with oclif](https://hackernoon.com/building-a-simple-cli-with-oclif)
-![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-9o93k8c.jpeg)
-Instead of using shell scripting languages, software developers looking to build their own CLI tools can use the oclif framework to build with Node.js.
-
-### [21. Why You Don't Need PNPM And YARN](https://hackernoon.com/why-you-dont-need-pnpm-and-yarn)
+### [20. Why You Don't Need PNPM And YARN](https://hackernoon.com/why-you-dont-need-pnpm-and-yarn)
 ![](https://cdn.hackernoon.com/images/SKjSflbzLAO6ucZtO6jiI25CWT63-u8n3a68.jpeg)
 I’ve seen that myself and worked with all of the above, but I always had a question in my mind - what drives people/teams to use yarn or pnpm instead of npm? 
+
+### [21. Building a Simple CLI with oclif](https://hackernoon.com/building-a-simple-cli-with-oclif)
+![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-9o93k8c.jpeg)
+Instead of using shell scripting languages, software developers looking to build their own CLI tools can use the oclif framework to build with Node.js.
 
 ### [22. How to Upload to Amazon S3 via AWS CLI and NPM scripts](https://hackernoon.com/how-to-upload-to-amazon-s3-via-aws-cli-and-npm-scripts-ct143zxb)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-pxp3z71.jpeg?alt=media&token=edc084bb-152f-452f-ba6c-1644b261881d)
@@ -109,13 +113,13 @@ Learn how to set up a CI/CD pipeline with GitHub Actions to automatically test, 
 ![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-6k2139vg.png)
 Learn how to easily setup a tsconfig file to build for nodejs.
 
-### [28. In Layman's Terms, What is the Difference Between Node and Deno?](https://hackernoon.com/in-laymans-terms-what-is-the-difference-between-node-and-deno-b79c3wh1)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gn82q2h.jpeg)
-Worried that dinosaur or sock shaped "deno" is going to kill our favorite  Node? Let me help you to get out of this dilemma.
-
-### [29. A Beginner's Guide to NPM Package Manager in 2022](https://hackernoon.com/a-beginners-guide-to-npm-package-manager-in-2022)
+### [28. A Beginner's Guide to NPM Package Manager in 2022](https://hackernoon.com/a-beginners-guide-to-npm-package-manager-in-2022)
 ![](https://cdn.hackernoon.com/images/RV7pi7rhFfPvU6Z2JzjXQYzBQ3c2-xt93n5o.jpeg)
 In this tutorial, you will learn about the basics of NPM for beginners, with everything you need to know about package.json, npm ci & audit.
+
+### [29. In Layman's Terms, What is the Difference Between Node and Deno?](https://hackernoon.com/in-laymans-terms-what-is-the-difference-between-node-and-deno-b79c3wh1)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gn82q2h.jpeg)
+Worried that dinosaur or sock shaped "deno" is going to kill our favorite  Node? Let me help you to get out of this dilemma.
 
 ### [30. How to Create and Publish Your First NPM Package](https://hackernoon.com/how-to-create-and-publish-your-first-npm-package)
 ![](https://cdn.hackernoon.com/images/MM8znQHHo5PO8CucT9ftiFOGCOD2-7893usd.jpeg)
@@ -133,13 +137,13 @@ It's no secret that MariaDB has become a popular database solution for developer
 ![](https://cdn.hackernoon.com/images/MPQxyfch0lZHKZM3k3hMies8Fpv1-hxj310f.jpeg)
 In this article , I’ll take you through all the steps involved in deploying a your React app on firebase.
 
-### [34. Locking down your API_KEY and why that is important](https://hackernoon.com/locking-down-your-api_key-and-why-that-is-important-yr9c38zh)
-![](https://cdn.hackernoon.com/drafts/6e2hz32yz.png)
-Do you leave your keys inside your car in a big parking lot? If not, then why do you expose your API_KEYs in your Github projects?
-
-### [35. How to Implement Semantic Release for Public Non-Scoped Packages](https://hackernoon.com/how-to-implement-semantic-release-for-public-non-scoped-packages)
+### [34. How to Implement Semantic Release for Public Non-Scoped Packages](https://hackernoon.com/how-to-implement-semantic-release-for-public-non-scoped-packages)
 ![](https://cdn.hackernoon.com/images/CU9T26Y1hNgrvyNxGX0jRAJfpM12-e0a3xhu.jpeg)
 Detailed instructions on publishing a non-scoped public package using semantic release leveraging the power of GitHub Actions
+
+### [35. Locking down your API_KEY and why that is important](https://hackernoon.com/locking-down-your-api_key-and-why-that-is-important-yr9c38zh)
+![](https://cdn.hackernoon.com/drafts/6e2hz32yz.png)
+Do you leave your keys inside your car in a big parking lot? If not, then why do you expose your API_KEYs in your Github projects?
 
 ### [36. Open-Sourcing Regular Expressions for Markdown Syntax Module](https://hackernoon.com/open-sourcing-regular-expressions-for-markdown-syntax-module)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-8e136nq.jpeg)
@@ -161,21 +165,21 @@ Here are the best tools for web developers. Here is a list of tools that you can
 ![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-n103n7c.png)
 npm's October 2025 security overhaul introduces 90-day token limits and kills classic tokens. But the biggest supply chain attacks—from XZ Utils to the...
 
-### [41. Node.js now supports TypeScript, 2024's JavaScript Rising Stars, and NEW tools - This Week in JS](https://hackernoon.com/nodejs-now-supports-typescript-2024s-javascript-rising-stars-and-new-tools-this-week-in-js)
+### [41. How to Set Up n8n on Your Computer – No Cloud Needed](https://hackernoon.com/how-to-set-up-n8n-on-your-computer-no-cloud-needed)
+![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-lz029fa.webp)
+n8n is a powerful, extendable workflow automation tool that allows you to connect different applications and services.
+
+### [42. Node.js now supports TypeScript, 2024's JavaScript Rising Stars, and NEW tools - This Week in JS](https://hackernoon.com/nodejs-now-supports-typescript-2024s-javascript-rising-stars-and-new-tools-this-week-in-js)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-730329i.png)
 This week in JavaScript, Node.js embraces native TypeScript, Shadcn/ui steals the spotlight in JavaScript Rising Stars, and we've got new Import Attributes.
-
-### [42. HarperDB - How and Why We Built It From The Ground Up on NodeJS](https://hackernoon.com/brief-history-of-how-we-develop-harperdb-pb3z33qr)
-![](https://cdn.hackernoon.com/images/W8O8r27oUwUryhNHNMOvKfQBLNn2-nc9j33wr.jpeg)
-The founding team at HarperDB built the first and only database written in Node.js. Here's the story of this (what some called crazy) endeavor. 
 
 ### [43. Monorepository in TypeScript: The Story of How we Broke Everything and Made it Better](https://hackernoon.com/monorepository-in-typescript-the-story-of-how-we-broke-everything-and-made-it-better)
 ![](https://cdn.hackernoon.com/images/ix8stRxNvMY5Q3R12XeVokwC1q83-c6r3uu4.jpeg)
 The story of how we developed Shopify modules to connect in stores on Shopify, a portal for brands, an extension for Google Chrome, mobile app + server with DB
 
-### [44. How to Set Up n8n on Your Computer – No Cloud Needed](https://hackernoon.com/how-to-set-up-n8n-on-your-computer-no-cloud-needed)
-![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-lz029fa.webp)
-n8n is a powerful, extendable workflow automation tool that allows you to connect different applications and services.
+### [44. HarperDB - How and Why We Built It From The Ground Up on NodeJS](https://hackernoon.com/brief-history-of-how-we-develop-harperdb-pb3z33qr)
+![](https://cdn.hackernoon.com/images/W8O8r27oUwUryhNHNMOvKfQBLNn2-nc9j33wr.jpeg)
+The founding team at HarperDB built the first and only database written in Node.js. Here's the story of this (what some called crazy) endeavor. 
 
 ### [45. Getting Started with MariaDB using Docker and Node.js](https://hackernoon.com/getting-started-with-mariadb-using-docker-and-nodejs-fo433yp2)
 ![](https://cdn.hackernoon.com/drafts/v4f3y3y85.png)
@@ -193,99 +197,111 @@ Libraries and packages help to abstract reusable code and improve efficiency dur
 ![](https://cdn.hackernoon.com/images/yvou3yaj.jpg)
 What does Factorio and CI/CD pipelines have in common?
 
-### [49. Introducing a Simple NPM Module with Email Templates](https://hackernoon.com/introducing-a-simple-npm-module-with-email-templates)
+### [49. I Ran npm install 1,000 Times This Year. Here's Why That Scares Me Now.](https://hackernoon.com/i-ran-npm-install-1000-times-this-year-heres-why-that-scares-me-now)
+![](https://cdn.hackernoon.com/images/6KFK7q2btmdqtaNNJSxc4uquXLk2-tg83epz.png)
+The GlassWorm attack hides malware in invisible Unicode characters. As a solo dev with a production app, I had to rethink my npm trust model.
+
+### [50. Introducing a Simple NPM Module with Email Templates](https://hackernoon.com/introducing-a-simple-npm-module-with-email-templates)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-pe03765.jpeg)
 From novice developers to experienced ones, most are involved in sending emails programmatically. Read on to know the need for a default email template package.
 
-### [50. It's Party Time For NPM Spammers🥳](https://hackernoon.com/its-party-time-for-npm-spammers)
+### [51. It's Party Time For NPM Spammers🥳](https://hackernoon.com/its-party-time-for-npm-spammers)
 ![](https://cdn.hackernoon.com/images/SNXm2OS5zxWNrMXzQsdE0juLpLW2-le833x8.jpeg)
 There are many types of spam in the NPM registry, including fake, malicious, and low-quality packages.
 
-### [51. The Developer's Guide to Updating npm Packages](https://hackernoon.com/the-developers-guide-to-updating-npm-packages)
+### [52. Your AI Assistant Just Installed a Trojan: The Axios npm Compromise](https://hackernoon.com/your-ai-assistant-just-installed-a-trojan-the-axios-npm-compromise)
+![](https://cdn.hackernoon.com/images/eu5dIKsHPOb7HcxKVW5fEwA0U0X2-zi03bw4.png)
+Axios was compromised on npm with a malicious Trojan. Learn why AI agents like Claude and ChatGPT might have accidentally installed it on your machine today.
+
+### [53. The Developer's Guide to Updating npm Packages](https://hackernoon.com/the-developers-guide-to-updating-npm-packages)
 ![](https://cdn.hackernoon.com/images/bcFWRJ5sFoP1gqnxXoU3iohjidG2-k692lsn.jpeg)
  A simple guide for updating for npm packages. 
 
-### [52. The Difference Between Angular, NPM, and Node.js](https://hackernoon.com/the-difference-between-angular-npm-and-nodejs-d0203397)
+### [54. The Difference Between Angular, NPM, and Node.js](https://hackernoon.com/the-difference-between-angular-npm-and-nodejs-d0203397)
 ![](https://cdn.hackernoon.com/images/sHlS9kz5JWgDC6Irc6Iw1ZTwUGE2-sw2r33qm.jpeg)
 There's a lot of confusion around the terms Angular, NPM, and NodeJs. What are they? And how do they interact with each other?
 
-### [53. How to Write a Simple NPM Package ](https://hackernoon.com/how-to-write-a-simple-npm-package-pu8359z)
+### [55. How to Write a Simple NPM Package ](https://hackernoon.com/how-to-write-a-simple-npm-package-pu8359z)
 ![](https://cdn.hackernoon.com/images/WnwPGlES2WY4nze2ShULktvmMBF2-3p83d05.jpeg)
 Imagine that you don't need any compiler or bundler to prepare your NPM package written in ES2020 standard. Yes, you can.
 
-### [54.  Wow, pnpm, You're Really Fast: How to Use It on Heroku](https://hackernoon.com/wow-pnpm-youre-really-fast-how-to-use-it-on-heroku)
+### [56.  Wow, pnpm, You're Really Fast: How to Use It on Heroku](https://hackernoon.com/wow-pnpm-youre-really-fast-how-to-use-it-on-heroku)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-z5423bs.jpeg)
 Learn how to use pnpm on Heroku, explore its storage and speed benefits, and see why it’s an ideal choice for Node.js developers. Get started with this guide.
 
-### [55. How to Use Lerna to Create a Monorepo for Multiple Node Packages](https://hackernoon.com/how-to-use-lerna-to-create-a-monorepo-for-multiple-node-packages-u31i34nl)
+### [57. How to Use Lerna to Create a Monorepo for Multiple Node Packages](https://hackernoon.com/how-to-use-lerna-to-create-a-monorepo-for-multiple-node-packages-u31i34nl)
 ![](https://hackernoon.com/images/TRFPK3XpZCd1dMNTH0rDgvHfag92-qle335y.png)
 In this post, we will walk you through how to use Lerna to manage, and publish, multiple packages under the same monorepo
 
-### [56. Setting up Monorepo With Npm Workspaces and Lerna](https://hackernoon.com/setting-up-monorepo-with-npm-workspaces-and-lerna)
+### [58. Setting up Monorepo With Npm Workspaces and Lerna](https://hackernoon.com/setting-up-monorepo-with-npm-workspaces-and-lerna)
 ![](https://cdn.hackernoon.com/images/8SbntZgz0Gd3BdNeT9KrdzGK6wv1-fk93s5y.jpeg)
 Monorepos lets you manage multiple repositories into one single repository but managing and publishing them can be very tedious as the repositories grow.
 
-### [57. Understanding NPM Semantic Versioning: A Guide from Patch to Perfection](https://hackernoon.com/understanding-npm-semantic-versioning-a-guide-from-patch-to-perfection)
+### [59. Understanding NPM Semantic Versioning: A Guide from Patch to Perfection](https://hackernoon.com/understanding-npm-semantic-versioning-a-guide-from-patch-to-perfection)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-jc93xye.jpeg)
 Dive into the world of Semantic Versioning (SemVer) and learn how it can make your software development process more efficient.
 
-### [58. Organizing an Advanced Structure for HTML Email Template](https://hackernoon.com/organizing-an-advanced-structure-for-html-email-template)
+### [60. Organizing an Advanced Structure for HTML Email Template](https://hackernoon.com/organizing-an-advanced-structure-for-html-email-template)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-qe037c7.jpeg)
 I was rebuilding a part of our markdown-to-email repository. I was not happy with how we handle templates in our generator.
 
-### [59. How to Help the Dev Community by Solving your Own Problems](https://hackernoon.com/how-to-help-the-dev-community-by-solving-your-own-problems)
+### [61. How to Help the Dev Community by Solving your Own Problems](https://hackernoon.com/how-to-help-the-dev-community-by-solving-your-own-problems)
 ![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-ci93g01.jpeg)
 How to continue to use Open Source developments in 30 years - a brief instruction for use.
 
-### [60. The Noonification: Why You Dont Need PNPM And YARN (7/24/2024)](https://hackernoon.com/7-24-2024-noonification)
+### [62. The Noonification: Why You Dont Need PNPM And YARN (7/24/2024)](https://hackernoon.com/7-24-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_800_k2oxbzj26ma10alkmupw7bnh.png)
 7/24/2024: Top 5 stories on the HackerNoon homepage!
 
-### [61. Managing NPM Dependency as A Professional](https://hackernoon.com/managing-npm-dependency-as-a-professional-ktz31jk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FDBmwq0SteFQHHX3MAHWlSX4NC1X2-wk4030c1.jpeg?alt=media&token=f1d349be-4c50-45ec-aef7-2e4487cf9175)
-Why do we talk about project quality and technical debt so much? Because this directly or indirectly affects the speed of development, the complexity of support, the time to implement new functionality, and the possibility of extending the current one.
-
-### [62. Introducing a Simple NPM Module for Food Measurements](https://hackernoon.com/introducing-a-simple-npm-module-for-food-measurements)
+### [63. Introducing a Simple NPM Module for Food Measurements](https://hackernoon.com/introducing-a-simple-npm-module-for-food-measurements)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-4n93n1m.jpeg)
 Hello! I've created a simple JavaScript module for food measurements. 
 
-### [63. NPM vs Bun: Comparison of Package Managers for JavaScript Developers](https://hackernoon.com/npm-vs-bun-comparison-of-package-managers-for-javascript-developers)
+### [64. Managing NPM Dependency as A Professional](https://hackernoon.com/managing-npm-dependency-as-a-professional-ktz31jk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FDBmwq0SteFQHHX3MAHWlSX4NC1X2-wk4030c1.jpeg?alt=media&token=f1d349be-4c50-45ec-aef7-2e4487cf9175)
+Why do we talk about project quality and technical debt so much? Because this directly or indirectly affects the speed of development, the complexity of support, the time to implement new functionality, and the possibility of extending the current one.
+
+### [65. NPM vs Bun: Comparison of Package Managers for JavaScript Developers](https://hackernoon.com/npm-vs-bun-comparison-of-package-managers-for-javascript-developers)
 ![](https://cdn.hackernoon.com/images/XAORU4y5BXTy3RZIv4rSB7t8tUr2-ai030z1.jpeg)
 Compare NPM and Bun, two popular package managers for JavaScript. Learn about their features, performance, and differences to decide which one is best.
 
-### [64. WWDC 2025's Biggest Updates, Oxlint is Finally Stable, and pnpm's Newest Update - This Week in JS](https://hackernoon.com/wwdc-2025s-biggest-updates-oxlint-is-finally-stable-and-pnpms-newest-update-this-week-in-js)
+### [66. WWDC 2025's Biggest Updates, Oxlint is Finally Stable, and pnpm's Newest Update - This Week in JS](https://hackernoon.com/wwdc-2025s-biggest-updates-oxlint-is-finally-stable-and-pnpms-newest-update-this-week-in-js)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-vl038xx.png)
 This week, we’re unpacking Safari 26 Beta’s game-changing WebKit updates, pnpm 10.12’s performance leaps, and Oxlint 1.0’s blazing-fast linting.
 
-### [65. Understanding Project Dependencies Through the NPM Lens](https://hackernoon.com/understanding-project-dependencies-through-the-npm-lens)
+### [67. Understanding Project Dependencies Through the NPM Lens](https://hackernoon.com/understanding-project-dependencies-through-the-npm-lens)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-vs930bp.jpeg)
 Code dependencies are like Lego's. We're able to pull in other people's code; combining and stacking different packages together to fulfill our goals. 
 
-### [66. 15 Lodash methods for everyday coding](https://hackernoon.com/15-lodash-methods-for-everyday-coding)
+### [68. 15 Lodash methods for everyday coding](https://hackernoon.com/15-lodash-methods-for-everyday-coding)
 ![](https://cdn.hackernoon.com/images/47NkqQMutwUjxg2pZd2zfao3ma12-qm93p10.jpeg)
 The Lodash open-source library has some useful methods that can help developers write code faster and streamline their processes to improve their work.
 
-### [67. How to start a Node.js project](https://hackernoon.com/how-to-start-a-node-js-project-881d811bdcf4)
+### [69. How to start a Node.js project](https://hackernoon.com/how-to-start-a-node-js-project-881d811bdcf4)
 ![](https://hackernoon.com/hn-images/1*_mnsTKxew6ROuomas7o91g.png)
 Sometimes I write blog posts to remind myself what I’ve learned and sometimes I write them because someone else shares something and I want to remember that better. This post is one of the latter.
 
-### [68. I Published a Dummy Pkg to NPM, and Here is What Happened](https://hackernoon.com/i-published-a-dummy-pkg-to-npm-and-here-is-what-happened)
+### [70. I Published a Dummy Pkg to NPM, and Here is What Happened](https://hackernoon.com/i-published-a-dummy-pkg-to-npm-and-here-is-what-happened)
 ![](https://cdn.hackernoon.com/images/SNXm2OS5zxWNrMXzQsdE0juLpLW2-d4831oq.jpeg)
 I have published a dummy package to the npm registry called cli-pbar, let me explain why I did this and what happens next.
 
-### [69. NPX Introduction: Fast Work With NPM Package Binaries](https://hackernoon.com/npx-work-faster-with-npm-package-binaries-jrk3yd7)
-![](https://cdn.hackernoon.com/drafts/o2u32z1.png)
-With Node.js, building CLI utilities and development tools have gotten so much easier.
-
-### [70. TC39 JavaScript Updates, TypeScript 5.7 Beta, Node.js V20.18.0 and More](https://hackernoon.com/tc39-javascript-updates-typescript-57-beta-nodejs-v20180-and-more)
+### [71. TC39 JavaScript Updates, TypeScript 5.7 Beta, Node.js V20.18.0 and More](https://hackernoon.com/tc39-javascript-updates-typescript-57-beta-nodejs-v20180-and-more)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-cs031vh.png)
 Today, we’ve got some HUGE new updates for the JavaScript language from TC39, Deno 2’s Official Release, TypeScript 5.7 Beta and a lot more.
 
-### [71. Releasing Utilities Package to GitHub Packages: A Guide](https://hackernoon.com/releasing-utilities-package-to-github-packages-a-guide)
+### [72. NPX Introduction: Fast Work With NPM Package Binaries](https://hackernoon.com/npx-work-faster-with-npm-package-binaries-jrk3yd7)
+![](https://cdn.hackernoon.com/drafts/o2u32z1.png)
+With Node.js, building CLI utilities and development tools have gotten so much easier.
+
+### [73. Releasing Utilities Package to GitHub Packages: A Guide](https://hackernoon.com/releasing-utilities-package-to-github-packages-a-guide)
 ![](https://cdn.hackernoon.com/images/JcQXcQQkIGNvfuLAO6lod8fJIS52-qs03bn1.jpeg)
 How to publish a private, reusable JavaScript/TypeScript package to GitHub Packages for internal use, with a secure, manual CI workflow and scoped access contro
 
-### [72. Chrome Extention That Will Enable Dev Snippets on Google Search Results](https://hackernoon.com/chrome-extention-that-will-enable-dev-snippets-on-google-search-results-rg7m3yzi)
+### [74. Instead of Copy-Pasting That "Click Outside" Snippet, Here's a Better Alternative](https://hackernoon.com/instead-of-copy-pasting-that-click-outside-snippet-heres-a-better-alternative)
+![](https://cdn.hackernoon.com/images/JA5IYEzAm5Nok0M7DPM0ZPvaLqM2-im83dvk.jpeg)
+A tiny, zero-dependency React hook to detect clicks outside any element. Fully typed, SSR-safe, and works with Next.js. Under 400 bytes gzipped.
+
+### [75. Chrome Extention That Will Enable Dev Snippets on Google Search Results](https://hackernoon.com/chrome-extention-that-will-enable-dev-snippets-on-google-search-results-rg7m3yzi)
 ![](https://cdn.hackernoon.com/images/b413a3ytf.jpg)
 Are you too lazy to click on search results to see the actual Stack Overflow answer, npm install instructions or the GitHub repo's README.md file?
 

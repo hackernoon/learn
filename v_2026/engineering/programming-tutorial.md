@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [programming-tutorial](https://hackernoon.com/tagged/programming-tutorial)
+### Let's learn about [Programming Tutorial](https://hackernoon.com/tagged/programming-tutorial) via these 63 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A programming tutorial offers structured guidance for learning a specific programming language or concept, essential for beginners and experienced developers to acquire new skills. It matters by making complex topics accessible and accelerating the learning curve for aspiring and seasoned programmers alike.
+
 ### [1. Let's Write a Video Codec - Part 3: Still Images](https://hackernoon.com/lets-write-a-video-codec-part-3-still-images)
 ![](https://cdn.hackernoon.com/images/jojlnGrL47ejRrJOlZdNlZBd2Ek1-so937zg.jpeg)
 In this part of the series, we apply the DCT to real images and explore the concept of quantization. Coincidentally, JPEG operates in the same manner.
@@ -167,29 +171,29 @@ If you're writing asynchronous code in C# and using EventHandlers, odds are you'
 ![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-qyb3p3w.jpeg)
 In this blog, we will be discussing the algorithms and their implementations for merging two sorted arrays using C.
 
-### [42. Leveraging Turbo 8: Best Additions to Implement in Rails 8 Projects](https://hackernoon.com/leveraging-turbo-8-best-additions-to-implement-in-rails-8-projects)
-![](https://cdn.hackernoon.com/images/wGfzWPQQuVUW9zqCVMK9RKy8hWA2-ew038nz.png)
-This article will explore Turbo 8's powerful features and a little bit of code. 
-
-### [43. Seeing Power: Building a Side-View Laser Eye Effect Using Web-Based Face Tracking](https://hackernoon.com/seeing-power-building-a-side-view-laser-eye-effect-using-web-based-face-tracking)
+### [42. Seeing Power: Building a Side-View Laser Eye Effect Using Web-Based Face Tracking](https://hackernoon.com/seeing-power-building-a-side-view-laser-eye-effect-using-web-based-face-tracking)
 ![](https://cdn.hackernoon.com/images/tfXhKw2dEvPIJKSGSyn8w7wzPSU2-tp13gf5.png)
 A project about making laser eyes using AR and Mediapipe. A cool project to test with a friend or try to build yourself. 
+
+### [43. Leveraging Turbo 8: Best Additions to Implement in Rails 8 Projects](https://hackernoon.com/leveraging-turbo-8-best-additions-to-implement-in-rails-8-projects)
+![](https://cdn.hackernoon.com/images/wGfzWPQQuVUW9zqCVMK9RKy8hWA2-ew038nz.png)
+This article will explore Turbo 8's powerful features and a little bit of code. 
 
 ### [44. Unlocking Code Mastery: A Vibrant Guide to Learning Python, JavaScript, and Beyond With ChatGPT](https://hackernoon.com/unlocking-code-mastery-a-vibrant-guide-to-learning-python-javascript-and-beyond-with-chatgpt)
 ![](https://cdn.hackernoon.com/images/WFZ8CuQDbrQL9MxiEq25Wcqg6qv1-et8327a.jpeg)
 Unlock your coding potential with "Unlocking Code Mastery: A Vibrant Guide to Learning Python, JavaScript, and Beyond with ChatGPT."
 
-### [45. Let Us Design A Logging library](https://hackernoon.com/let-us-design-a-logging-library)
+### [45. Bottom Sheet Tutorial in iOS 18 - #30DaysOfSwift](https://hackernoon.com/bottom-sheet-tutorial-in-ios-18-30daysofswift)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-xu0352o.webp)
+In the second post of #30DaysOfSwift series, you will learn how to add a bottom sheet.
+
+### [46. Let Us Design A Logging library](https://hackernoon.com/let-us-design-a-logging-library)
 ![](https://cdn.hackernoon.com/images/hxgB3A2KjtPk4sJXB1ezGnusKBx1-z913dv0.jpeg)
 Low-level design for a high-volume concurrent logging library.
 
-### [46. How to Build a FAB-ulous Button - #30DaysOfSwift](https://hackernoon.com/how-to-build-a-fab-ulous-button-30daysofswift)
+### [47. How to Build a FAB-ulous Button - #30DaysOfSwift](https://hackernoon.com/how-to-build-a-fab-ulous-button-30daysofswift)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-26036qh.webp)
 Today, we're diving into a fundamental UI element: the Floating Action Button (FAB). 
-
-### [47. Bottom Sheet Tutorial in iOS 18 - #30DaysOfSwift](https://hackernoon.com/bottom-sheet-tutorial-in-ios-18-30daysofswift)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-xu0352o.webp)
-In the second post of #30DaysOfSwift series, you will learn how to add a bottom sheet.
 
 ### [48. Short Circuit Evaluation: What You Need to Know](https://hackernoon.com/short-circuit-evaluation-what-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/dkdP4VfxtrUVSMiq5X0VGwTQuZ23-6t93pqj.jpeg)
@@ -199,33 +203,33 @@ Short circuit evaluation, like many other useful programming concepts, is not ha
 ![](https://cdn.hackernoon.com/images/RWCYmI7R4vSFp7VGOuclE1L2eEF2-4u82iw5.jpeg)
 In this article, I’ll show you how to add Firebase Analytics to a Gatsby project the correct way.
 
-### [50. Learning the Fundamentals of Coroutines: Part 1](https://hackernoon.com/learning-the-fundamentals-of-coroutines-part-1)
+### [50. You Don’t Hate Coding — You Hate Following Tutorials](https://hackernoon.com/you-dont-hate-coding-you-hate-following-tutorials)
+![](https://cdn.hackernoon.com/images/vJZjNRXjG5OwQ3VPCR4tScyGSEC3-an03hux.webp)
+Many developers feel frustrated with project-based tutorials — not because they’re lazy, but because they learn differently.
+
+### [51. Learning the Fundamentals of Coroutines: Part 1](https://hackernoon.com/learning-the-fundamentals-of-coroutines-part-1)
 ![](https://cdn.hackernoon.com/images/Qf32qIA0rKRPvvfxl82cUcPLRV82-r892e94.jpeg)
 In this article, we learned about the 4 building blocks of coroutines: suspend, CoroutineCoxtext, CoroutineScope and CoroutineDispatcher. 
 
-### [51. Template Engine For Express JS](https://hackernoon.com/template-engine-for-express-js)
+### [52. Template Engine For Express JS](https://hackernoon.com/template-engine-for-express-js)
 ![](https://cdn.hackernoon.com/images/4uSwg6jqDlRnnb7e1p91tMwSSlF2-8j02zbt.png)
 The templating engine will give us the ability to use res.render() instead of res.send().
-
-### [52. You Don’t Hate Coding — You Hate Following Tutorials](https://hackernoon.com/you-dont-hate-coding-you-hate-following-tutorials)
-![](https://cdn.hackernoon.com/images/vJZjNRXjG5OwQ3VPCR4tScyGSEC3-an03hux.webp)
-Many developers feel frustrated with project-based tutorials — not because they’re lazy, but because they learn differently.
 
 ### [53. Vim - 3 Command Mode for Efficient Pattern Search: A Guide](https://hackernoon.com/command-mode-for-efficient-pattern-search-a-guide)
 ![](https://cdn.hackernoon.com/images/goeRGaydmfM3jUz9zt8uwW9lho83-xy830vu.jpeg)
 Master Vim's command mode for effective pattern search. Learn text modification essentials ('a', 'cw', 'r'/'R') and search techniques ('/', '?'). 
 
-### [54. The Developer Favorites: Top VS Code Extensions in 2024](https://hackernoon.com/the-developer-favorites-top-vs-code-extensions-in-2024)
+### [54. 10 Reasons Why Less Is More in Your init/deinit Methods](https://hackernoon.com/10-reasons-why-less-is-more-in-your-initdeinit-methods)
+![](https://cdn.hackernoon.com/images/imTOi6TzD2acj6NBGngoIn24v6x2-pma3rv9.jpeg)
+The simplicity and predictability of constructors and destructors are vital to the robustness and efficiency of your application. 
+
+### [55. The Developer Favorites: Top VS Code Extensions in 2024](https://hackernoon.com/the-developer-favorites-top-vs-code-extensions-in-2024)
 ![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-pi822wd.jpeg)
 Today, I'm excited to dive into something special: my top 10 favorite VS Code extensions. These tools are incredibly popular among developers globally
 
-### [55. breakpoint() and PDB Make It Faster and Easier to Debug in Python](https://hackernoon.com/breakpoint-and-pdb-make-it-faster-and-easier-to-debug-in-python)
+### [56. breakpoint() and PDB Make It Faster and Easier to Debug in Python](https://hackernoon.com/breakpoint-and-pdb-make-it-faster-and-easier-to-debug-in-python)
 ![](https://cdn.hackernoon.com/images/3Vna4om76QPQz8Wmb35XIlnD4GG2-8p92c5t.jpeg)
 In this article, we will learn what breakpoint() is, how to use it with PDB and other debuggers, and how to change its behavior with environment variables.
-
-### [56. 10 Reasons Why Less Is More in Your init/deinit Methods](https://hackernoon.com/10-reasons-why-less-is-more-in-your-initdeinit-methods)
-![](https://cdn.hackernoon.com/images/imTOi6TzD2acj6NBGngoIn24v6x2-pma3rv9.jpeg)
-The simplicity and predictability of constructors and destructors are vital to the robustness and efficiency of your application. 
 
 ### [57. Timeline in Your Logs Using js-awe Library: A Guide](https://hackernoon.com/timeline-in-your-logs-using-js-awe-library-a-guide)
 ![](https://cdn.hackernoon.com/images/4qg3pr2KhEQcFWplnIouqYAY7BJ2-9693wg3.jpeg)

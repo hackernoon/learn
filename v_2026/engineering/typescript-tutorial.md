@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [typescript-tutorial](https://hackernoon.com/tagged/typescript-tutorial)
+### Let's learn about [Typescript Tutorial](https://hackernoon.com/tagged/typescript-tutorial) via these 51 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A TypeScript tutorial teaches developers how to use TypeScript, a superset of JavaScript that adds static typing, enhancing code maintainability and catching errors early in large-scale applications. It matters by improving code quality and developer productivity, especially in complex and collaborative projects.
+
 ### [1. Assign Types To Nested Objects In TypeScript](https://hackernoon.com/assign-types-to-nested-objects-in-typescript)
 ![](https://cdn.hackernoon.com/images/2URpjmJLkjVeYGsWZeCo2hCb90Y2-u193qgc.jpeg)
 TypeScript provides you with multiple ways to define type definitions for object properties. We'll look at a couple of them throughout this post.
@@ -161,13 +165,13 @@ Javascript arrays can contain duplicates - which is fine most of the time, but c
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-psb3ojm.jpeg)
 The nullish coalescing operator is useful in situations where something can be returned as either null or undefined, and helps us tighten up our code.
 
-### [41. Learn How to Use TypeORM With ExpressWebJs to Create a Backend Service](https://hackernoon.com/learn-how-to-use-typeorm-with-expresswebjs-to-create-a-backend-services)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-x193m8u.png)
-In this article, we will explore the integration of typeorm into expressWebjs
-
-### [42. How I Use Node.js for DevOps Scripting](https://hackernoon.com/how-i-use-nodejs-for-devops-scripting)
+### [41. How I Use Node.js for DevOps Scripting](https://hackernoon.com/how-i-use-nodejs-for-devops-scripting)
 ![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-vc93rm0.jpeg)
 If you're using TypeScript/Node.js to write your application code, you should use them to write your DevOps scripts.
+
+### [42. Learn How to Use TypeORM With ExpressWebJs to Create a Backend Service](https://hackernoon.com/learn-how-to-use-typeorm-with-expresswebjs-to-create-a-backend-services)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-x193m8u.png)
+In this article, we will explore the integration of typeorm into expressWebjs
 
 ### [43. Exploring TypeScript Mapped Types Together](https://hackernoon.com/exploring-typescript-mapped-types-together-fxz317o)
 ![](https://cdn.hackernoon.com/images/fLkegRBsPUbS1klj5UOm0BgFRPl2-kddw3eba.jpeg)

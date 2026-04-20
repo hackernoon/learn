@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [mobile-application-development](https://hackernoon.com/tagged/mobile-application-development)
+### Let's learn about [Mobile Application Development](https://hackernoon.com/tagged/mobile-application-development) via these 93 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Mobile application development is the process of creating software applications that run on mobile devices. It is crucial for engaging users on their preferred platforms, expanding business reach, and delivering convenient services in the mobile-first era.
+
 ### [1. 10 Best Low-Code And No-Code AI Application Development Platforms in 2022](https://hackernoon.com/10-low-code-and-no-code-application-development-platforms-ew513y8q)
 ![](images/o3da2eft.jpg)
 The use of mobile apps is increasing exponentially with every passing day. Whether it’s for personal use or business use, mobile apps are doing wonders in delivering exceptional services instantly without any hindrance. This is one of the reasons why mobile apps have become a core part of marketing strategy for every business, ranging from big multinational corporations to small medium sized businesses. 
@@ -37,13 +41,13 @@ No-code and Low-code development platforms offer development environments that e
 ![](https://cdn.hackernoon.com/drafts/9l3vo3xwa.png)
 In the age of smartphones and smart TVs, every apps developer is seeking the cheapest,  fastest, and easiest ways to create and deploy high performing mobile apps. Android and iOS platforms rule the market, and as a mobile application developer, you have to choose the aptest framework to run your mobile app on more devices and provide the best user interface and experience.
 
-### [10. 6 Signs that Your Software Project is in Danger](https://hackernoon.com/6-signs-that-your-software-project-is-in-danger-cc5a32q7)
-![](https://cdn.hackernoon.com/drafts/wl4g3y17.png)
-According to CIO study, 50% of software projects fail. The Global Project Management Survey conducted by PMI reports that 27% of them run over-budget. Annually, these statistics change but the overall negative trend remains the same, which makes the problem of bringing potential threats to light especially important.
-
-### [11. Learning to Code: Print Nodes at Distance K From Node](https://hackernoon.com/learning-to-code-print-nodes-at-distance-k-from-node)
+### [10. Learning to Code: Print Nodes at Distance K From Node](https://hackernoon.com/learning-to-code-print-nodes-at-distance-k-from-node)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-aaa3vhs.jpeg)
 We have an arbitrary binary tree, a node of that tree, and also an integer: 'K.' 
+
+### [11. 6 Signs that Your Software Project is in Danger](https://hackernoon.com/6-signs-that-your-software-project-is-in-danger-cc5a32q7)
+![](https://cdn.hackernoon.com/drafts/wl4g3y17.png)
+According to CIO study, 50% of software projects fail. The Global Project Management Survey conducted by PMI reports that 27% of them run over-budget. Annually, these statistics change but the overall negative trend remains the same, which makes the problem of bringing potential threats to light especially important.
 
 ### [12. Python’s Features, Frameworks and Advantages in Developing a Mobile App](https://hackernoon.com/pythons-features-frameworks-and-advantages-in-developing-a-mobile-app-wx1i31ql)
 ![](https://hackernoon.com/images/dPJgB7uSTph6uU29odlojVVChQs2-v4173184.jpeg)
@@ -92,29 +96,29 @@ This article describes what is the video API? How does the video API ensure smoo
 ![](https://cdn.hackernoon.com/images/LEymvvrtvURIHWScxGtFiYzJjRf2-mu92n2y.jpeg)
 Qt is a leading UI and cross-platform framework that can help you implement all these stages. It can also save your budget since it is open-source.
 
-### [23. Tips, Tricks and Tools for Mobile App Development](https://hackernoon.com/tips-tricks-and-tools-for-mobile-app-development-yq233z2d)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-a11v3z6c.jpeg)
-Developing an application may seem a piece of cake for pros, but newbies need online guides to help them get from A to Z with their app development project. 
-
-### [24. Recording Stack Trace Methods and Their Analysis With Profiler](https://hackernoon.com/recording-stack-trace-methods-and-their-analysis-with-profiler)
+### [23. Recording Stack Trace Methods and Their Analysis With Profiler](https://hackernoon.com/recording-stack-trace-methods-and-their-analysis-with-profiler)
 ![](https://cdn.hackernoon.com/images/EeX35fKg9SMcjCyjLf6mn4qpi7X2-sn93efd.jpeg)
 Profiler is one of the most powerful tools in Android Studio, but it has a rather high entry threshold. 
 
-### [25. Why React Native Framework is a Preferred Hybrid Mobile App Platform](https://hackernoon.com/why-react-native-framework-is-a-preferred-hybrid-mobile-app-platform-k57b3yzm)
+### [24. Should I Use An Embedded Database In My Mobile Application? (Podcast Transcript)](https://hackernoon.com/should-i-use-an-embedded-database-in-my-mobile-application-podcast-transcript-hz9353i)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-2e4v35ln.jpeg)
+Amy Tom chats to Jens Alfke about embedded databases in mobile applications and how they live within your application and sync to your server.
+
+### [25. Tips, Tricks and Tools for Mobile App Development](https://hackernoon.com/tips-tricks-and-tools-for-mobile-app-development-yq233z2d)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-a11v3z6c.jpeg)
+Developing an application may seem a piece of cake for pros, but newbies need online guides to help them get from A to Z with their app development project. 
+
+### [26. Why React Native Framework is a Preferred Hybrid Mobile App Platform](https://hackernoon.com/why-react-native-framework-is-a-preferred-hybrid-mobile-app-platform-k57b3yzm)
 ![](images/0dr3yb7.jpg)
 Cross-Platform Frameworks have gained popularity over Native mobile development over the years. The primary advantage in using Cross-Platform development approach is that it saves time and reduces development expenses as it uses the same code across Android and iOS platforms.
 
-### [26. 5 Mobile App Development Trends That Will Dominate in 2022](https://hackernoon.com/5-mobile-app-development-trends-that-will-dominate-in-2022)
+### [27. 5 Mobile App Development Trends That Will Dominate in 2022](https://hackernoon.com/5-mobile-app-development-trends-that-will-dominate-in-2022)
 ![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-gx037rc.jpeg)
 What are top five mobile development trends to watch out? Read to find out and prepare!
 
-### [27. Examining Apps That Help Your Business Grow](https://hackernoon.com/examining-apps-that-help-your-business-grow)
+### [28. Examining Apps That Help Your Business Grow](https://hackernoon.com/examining-apps-that-help-your-business-grow)
 ![](https://cdn.hackernoon.com/images/KtYYKlCMo7fVLZfX7FDxpl0iAh83-7jo3mrq.jpeg)
 Examining Apps That Help Your Business Grow
-
-### [28. Should I Use An Embedded Database In My Mobile Application? (Podcast Transcript)](https://hackernoon.com/should-i-use-an-embedded-database-in-my-mobile-application-podcast-transcript-hz9353i)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-2e4v35ln.jpeg)
-Amy Tom chats to Jens Alfke about embedded databases in mobile applications and how they live within your application and sync to your server.
 
 ### [29. The Cost of Building a Mobile App in 2020](https://hackernoon.com/the-cost-of-building-a-mobile-app-in-2020-lm4e3tux)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlV7kXgF1Y4dIXrCN4EXQA7VdwYX2-2g823tp0.jpeg?alt=media&token=7246ae3f-eebf-4e22-954c-0178d581d2e5)
@@ -133,13 +137,13 @@ This tutorial is the seventh and final part of our React Native Car Parking App 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHxX5zpJrSjbKoBatGSx5asOP36H2-rjj3w87.jpeg?alt=media&token=ccb6dbe5-fa7c-473c-b4b0-77a600788474)
 “Please, I’ve already heard all the marketing stuff from other agencies. Could you tell me how exactly Flutter can ensure the stability and high performance of my app?” – said the client at the very beginning of our first meeting.
 
-### [33. React Native Plant App UI #6 : Login Screen](https://hackernoon.com/react-native-plant-app-ui-6-login-screen-gco322k)
-![](https://cdn.hackernoon.com/images/fy10p32yn.jpg)
-This tutorial is the sixth part of our React Native Plant App tutorial series. In the previous part, we successfully implemented the Terms of services Modal view and completed the overall UI sections of the Welcome screen. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous part in order to get insight and knowledge of the overall project.
-
-### [34. What Mobile Apps will be Built in 2022](https://hackernoon.com/what-mobile-apps-will-be-built-in-2022)
+### [33. What Mobile Apps will be Built in 2022](https://hackernoon.com/what-mobile-apps-will-be-built-in-2022)
 ![](https://cdn.hackernoon.com/images/DeVAXD4EfVflr8S6tInYr39iPAy2-hp93dku.jpeg)
 Our hot take on mobile app development predictions and trends for the rest of 2022
+
+### [34. React Native Plant App UI #6 : Login Screen](https://hackernoon.com/react-native-plant-app-ui-6-login-screen-gco322k)
+![](https://cdn.hackernoon.com/images/fy10p32yn.jpg)
+This tutorial is the sixth part of our React Native Plant App tutorial series. In the previous part, we successfully implemented the Terms of services Modal view and completed the overall UI sections of the Welcome screen. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous part in order to get insight and knowledge of the overall project.
 
 ### [35. How to Add a Voice Assistant to your Mobile App?](https://hackernoon.com/how-to-add-a-voice-assistant-to-your-mobile-app-4q1t3zz7)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzgGHfhtOwcTsqtS2qCkb5T9tWLn1-7th3wmo.jpeg?alt=media&token=00e330b1-2330-454c-966b-b6f0f36f8c97)
@@ -198,21 +202,21 @@ This tutorial is the second part of our React Native Car Parking App UI clone se
 ![](https://cdn.hackernoon.com/images/MqpxiO0IPyQ2AJiLR8mrAdpCcCT2-861z33lb.jpeg)
 If you are making an app for iOS or Android, you need to consider Security measures. Here are some ways you can incorporate these into Mobile App Development.
 
-### [48. Unlocking Next-Gen Healthcare Possibilities with AI](https://hackernoon.com/unlocking-next-gen-healthcare-possibilities-with-ai-mxp3218)
-![](https://cdn.hackernoon.com/drafts/wm1ww32j6.png)
-Image Source
-
-### [49. Building a Kotlin Mobile App with the Salesforce SDK: Editing and Creating Data - Part 2](https://hackernoon.com/building-a-kotlin-mobile-app-with-the-salesforce-sdk-editing-and-creating-data-part-2)
+### [48. Building a Kotlin Mobile App with the Salesforce SDK: Editing and Creating Data - Part 2](https://hackernoon.com/building-a-kotlin-mobile-app-with-the-salesforce-sdk-editing-and-creating-data-part-2)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-sw93z0o.jpeg)
 
 
-### [50. 7 Mistakes To Avoid When Hiring An App Development Company](https://hackernoon.com/7-mistakes-to-avoid-when-hiring-an-app-development-company)
-![](https://cdn.hackernoon.com/images/NU7ojXkwfCf1xyqnoQQNcjGyWzi2-bdb3kbr.png)
-Choosing the right app development company is critical to your project's success. Here are 7 mistakes you should avoid while hiring a development partner.
+### [49. Unlocking Next-Gen Healthcare Possibilities with AI](https://hackernoon.com/unlocking-next-gen-healthcare-possibilities-with-ai-mxp3218)
+![](https://cdn.hackernoon.com/drafts/wm1ww32j6.png)
+Image Source
 
-### [51. A Helpful Guide to Enterprise Mobile App Development  ](https://hackernoon.com/a-helpful-guide-to-enterprise-mobile-app-development)
+### [50. A Helpful Guide to Enterprise Mobile App Development  ](https://hackernoon.com/a-helpful-guide-to-enterprise-mobile-app-development)
 ![](https://cdn.hackernoon.com/images/HlAHpCguaSNyYdtThvLROQfCf4G2-s293k0i.png)
 Here's a step-by-step guide for enterprise mobile app development. It is a good read for enterprise executives who don't know where to start. 
+
+### [51. 7 Mistakes To Avoid When Hiring An App Development Company](https://hackernoon.com/7-mistakes-to-avoid-when-hiring-an-app-development-company)
+![](https://cdn.hackernoon.com/images/NU7ojXkwfCf1xyqnoQQNcjGyWzi2-bdb3kbr.png)
+Choosing the right app development company is critical to your project's success. Here are 7 mistakes you should avoid while hiring a development partner.
 
 ### [52. React Native Plant App UI #4 : Illustration Slider and Animated Steps](https://hackernoon.com/react-native-plant-app-ui-4-illustration-slider-and-animated-steps-oq2b3xmd)
 ![](https://cdn.hackernoon.com/images/i32t3zun.jpg)
@@ -238,13 +242,13 @@ Schools and colleges adapting to online modes of education imply a high dependen
 ![](https://cdn.hackernoon.com/drafts/vw9a321p.png)
 It doesn’t matter where you stand at the moment in your digital marketing journey, but digital marketing is either a teachable science, or it might feel like a voodoo superstition. You might be measuring some metrics thinking that these will help you get results, but they are not getting you anywhere. 
 
-### [58. Getting Authentication Correct](https://hackernoon.com/getting-authentication-correct-qa6f36yu)
-![](https://cdn.hackernoon.com/drafts/iwa931gs.png)
-(Photo by Sebastiaan Stam on Unsplash)
-
-### [59. 10 Effective Tips To Reduce Website & Mobile App Load Time](https://hackernoon.com/10-effective-tips-to-reduce-website-and-mobile-app-load-time-x6t32pt)
+### [58. 10 Effective Tips To Reduce Website & Mobile App Load Time](https://hackernoon.com/10-effective-tips-to-reduce-website-and-mobile-app-load-time-x6t32pt)
 ![](https://cdn.hackernoon.com/images/Wu42GekgXIZe2EfxrilLFOTYv0U2-db4625rw.jpeg)
 Here Are 10 Amazing Tips To Speed Up Your Website or Mobile App and Reduce The Load Time. 
+
+### [59. Getting Authentication Correct](https://hackernoon.com/getting-authentication-correct-qa6f36yu)
+![](https://cdn.hackernoon.com/drafts/iwa931gs.png)
+(Photo by Sebastiaan Stam on Unsplash)
 
 ### [60. Apple iOS 14 Users Can Now Use Widgets: Here's Why You Need To Develop An iOS Widget For Your App](https://hackernoon.com/apple-ios-14-users-can-now-use-widgets-heres-why-you-need-to-develop-an-ios-widget-for-your-app-1ba733qx)
 ![](https://cdn.hackernoon.com/images/lJrVK0SjhJXiFdLYlZUSWQTiY7C2-6v9m332y.jpeg)
@@ -279,21 +283,21 @@ A complete guide for all who are looking to develop a mobile app. Know the funda
 ![](https://cdn.hackernoon.com/images/91eb32da.jpg)
 With the surging rise in the number of mobile app users in the entire world, it’s a high time that brands should focus on delivering seamless functioning of mobile apps. Hence mobile app testing is one of the ways to achieve this goal. This shows the importance of including regression testing in your mobile application development lifecycle.
 
-### [68. Hooked Model and it’s Power of making the App Profit Machine](https://hackernoon.com/hooked-model-and-its-power-of-making-the-app-profit-machine-9n5i3u2t)
+### [68. Why AI Coding Assistants Still Struggle with Mobile App Development](https://hackernoon.com/why-ai-coding-assistants-still-struggle-with-mobile-app-development)
+![](https://cdn.hackernoon.com/images/KQSiU0nufhcyDb0h8zAs4pA3Nev1-77039vd.jpeg)
+Know why AI coding assistants are not good enough for mobile app development and what can be done to improve them.
+
+### [69. Hooked Model and it’s Power of making the App Profit Machine](https://hackernoon.com/hooked-model-and-its-power-of-making-the-app-profit-machine-9n5i3u2t)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FyAOAirpC1LWyYIKsvywpVLKOTLP2-813m3uqd.jpeg?alt=media&token=e2f5b0fe-fed8-4f9d-b6fd-907651ca9330)
 Nearly forty percent of activity performed over the Smartphone are achieved through daily habits. The UX design which acts as an elementary psychology for this kind of user behavior, also does vastly influence the mobile app developers into making App Profit Machines. For instance, people are becoming highly addicted on browsing the Facebook app and gaining social awareness of other people’s life and occupation. 
 
-### [69. Mobile Application Prototyping: Risk Management in Technology Domain](https://hackernoon.com/mobile-application-prototyping-risk-management-in-technology-domain-y56b32qh)
+### [70. Mobile Application Prototyping: Risk Management in Technology Domain](https://hackernoon.com/mobile-application-prototyping-risk-management-in-technology-domain-y56b32qh)
 ![](https://images.unsplash.com/photo-1576153192281-d558108925bb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 With the advent of Cognitive Technologies like Artificial Intelligence, IoT, Virtual Reality and Augmented Reality, there are no more standalone projects in Technology Domain. 
 
-### [70. Amazon UI Clone with React Native #1 : Setting up Menu Bar](https://hackernoon.com/amazon-ui-clone-with-react-native-1-setting-up-menu-bar-u91g32mb)
+### [71. Amazon UI Clone with React Native #1 : Setting up Menu Bar](https://hackernoon.com/amazon-ui-clone-with-react-native-1-setting-up-menu-bar-u91g32mb)
 ![](https://cdn.hackernoon.com/images/wwk32v2.jpg)
 This tutorial series was inspired by the React Native Eccomerce template which helps us build some awesome and powerful ready to deploy eCommerce applications that anyone can use to build eCommerce startups or sell the application templates. We all know about the Amazon app which allows customers to select from thousands of products and purchase from anywhere across the globe. The UI of the Amazon app is very appealing and well-structured.
-
-### [71. Why AI Coding Assistants Still Struggle with Mobile App Development](https://hackernoon.com/why-ai-coding-assistants-still-struggle-with-mobile-app-development)
-![](https://cdn.hackernoon.com/images/KQSiU0nufhcyDb0h8zAs4pA3Nev1-77039vd.jpeg)
-Know why AI coding assistants are not good enough for mobile app development and what can be done to improve them.
 
 ### [72. Amazon UI Clone with React Native #2 : Recommendations View](https://hackernoon.com/amazon-ui-clone-with-react-native-2-recommendations-view-epw232io)
 ![](https://cdn.hackernoon.com/images/6pm32aw.jpg)
@@ -327,26 +331,26 @@ We've worked with companies all over the world to create incredible mobile appli
 ![](https://cdn.hackernoon.com/images/lHhQJKX9A8Rj1KCWvnM9IMPdK6R2-bd93rdi.png)
 React Native brings down the time to fast prototyping app ideas from weeks to hours, by abstracting out the underlying device on which to deploy the app.
 
-### [80. Simple App Development Tips: 7 Reasons Why Your App has Failed](https://hackernoon.com/simple-app-development-tips-7-reasons-why-your-app-has-failed-y65i31zq)
-![](https://cdn.hackernoon.com/images/i7V6wZRvmKRs3QGdSZEkUWHmZDn2-gt3p3187.jpeg)
-Never repeat these mistakes if you want a successful app. Check out what you need to do to ensure your app is well positioned in the market.
-
-### [81. React Native Car Parking Finder App UI Clone #5: Header Section](https://hackernoon.com/react-native-car-parking-finder-app-ui-clone-5-header-section-vvr32hw)
+### [80. React Native Car Parking Finder App UI Clone #5: Header Section](https://hackernoon.com/react-native-car-parking-finder-app-ui-clone-5-header-section-vvr32hw)
 ![](https://cdn.hackernoon.com/images/u8nf321a.jpg)
 
 This tutorial is the fifth part of our React Native Car Parking App UI clone series. In the last part, we successfully implemented the Map Markers in MapView section. In this part of the tutorial series, we are going to continue from where we left off in the last part. So, it is recommended to go through all the previous parts of this tutorial series in order to get the full insight and development of the project.
+
+### [81. Simple App Development Tips: 7 Reasons Why Your App has Failed](https://hackernoon.com/simple-app-development-tips-7-reasons-why-your-app-has-failed-y65i31zq)
+![](https://cdn.hackernoon.com/images/i7V6wZRvmKRs3QGdSZEkUWHmZDn2-gt3p3187.jpeg)
+Never repeat these mistakes if you want a successful app. Check out what you need to do to ensure your app is well positioned in the market.
 
 ### [82. Application Monitoring is an Integral Part of Ecommerce App Development](https://hackernoon.com/application-monitoring-is-an-integral-part-of-ecommerce-app-development-te1w34ys)
 ![](https://cdn.hackernoon.com/images/Ek1EUYRPbVcFAn139JtH3fCnL9i1-jr2031rt.jpeg)
 Ecommerce applications and platforms have always been popular but the post-pandemic era has amplified their predominance, exponentially. As people are still shying away from visiting offline stores, the time might just be appropriate to bring in a barrage of actionable, resourceful, and aesthetic mobile applications. 
 
-### [83. Let’s be Real: Your Business Should Embrace Mobile App Development ](https://hackernoon.com/lets-be-real-your-business-should-embrace-mobile-app-development-j31x3zga)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-5z1p3zeb.jpeg)
-The statistics tell the story: Gartner says this is the year our culture will go “mobile first.”
-
-### [84. Building a Kotlin Mobile App with the Salesforce SDK - Part 1](https://hackernoon.com/building-a-kotlin-mobile-app-with-the-salesforce-sdk)
+### [83. Building a Kotlin Mobile App with the Salesforce SDK - Part 1](https://hackernoon.com/building-a-kotlin-mobile-app-with-the-salesforce-sdk)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-0893ld4.jpeg)
 Nowadays, users expect mobile apps to act as counterparts to the websites and platforms they use on the web. 
+
+### [84. Let’s be Real: Your Business Should Embrace Mobile App Development ](https://hackernoon.com/lets-be-real-your-business-should-embrace-mobile-app-development-j31x3zga)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-5z1p3zeb.jpeg)
+The statistics tell the story: Gartner says this is the year our culture will go “mobile first.”
 
 ### [85. Top Google Play Store Categories For App Developers](https://hackernoon.com/top-google-play-store-categories-for-app-developers-ne2i358w)
 ![](https://cdn.hackernoon.com/images/XdKrCg6MxnYDK8QIFj3wAqzCn1t2-a1153373.png)
@@ -360,13 +364,13 @@ Before jumping into making a plan for scaling your application, ask yourself wha
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FenEbCdpzZHgNmkxnBIT1VtsTV8o1-7u73unp.jpeg?alt=media&token=acd5ee7b-4976-4691-a101-cba8e48f90dc)
 The use of mobile apps is increasing, and the demand for app development is contributing to its growth. 
 
-### [88. What to Expect in the Android 11 Update](https://hackernoon.com/what-to-expect-in-the-android-11-update-rj1b3wsn)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-6nr28gx.jpeg?alt=media&token=ccbad973-cef3-45de-ae46-e01b748e8f63)
-Google with its Pixel event and launch of two new phones, started rolling out the latest Android 11 OS. Like always, the Pixel phones are the first ones in getting an update and the rest of the devices will get the updates based on their OEMs and how they optimize the new OS for their respective devices.
-
-### [89. 6 Questions Startups Should Ask About Design and Development When Building an App](https://hackernoon.com/6-questions-startups-should-ask-about-design-and-development-when-building-an-app-ez2r3bcy)
+### [88. 6 Questions Startups Should Ask About Design and Development When Building an App](https://hackernoon.com/6-questions-startups-should-ask-about-design-and-development-when-building-an-app-ez2r3bcy)
 ![](https://cdn.hackernoon.com/drafts/p71ae3bw7.png)
 Design and development play equally important roles when it comes to completing a successful app build. But what happens when your team doesn’t have the resources to hire full development and design teams? You’ve got to be even more strategic and clever in your approach.
+
+### [89. What to Expect in the Android 11 Update](https://hackernoon.com/what-to-expect-in-the-android-11-update-rj1b3wsn)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-6nr28gx.jpeg?alt=media&token=ccbad973-cef3-45de-ae46-e01b748e8f63)
+Google with its Pixel event and launch of two new phones, started rolling out the latest Android 11 OS. Like always, the Pixel phones are the first ones in getting an update and the rest of the devices will get the updates based on their OEMs and how they optimize the new OS for their respective devices.
 
 ### [90. SPARQ Launches on App Store and Google Play](https://hackernoon.com/sparq-launches-on-app-store-and-google-play-7v36333h)
 ![](https://cdn.hackernoon.com/images/GkY7OWwA7GR33LDGGb73Sulfiog1-tzr3f6l.jpeg)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [dapp-development](https://hackernoon.com/tagged/dapp-development)
+### Let's learn about [Dapp Development](https://hackernoon.com/tagged/dapp-development) via these 64 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+DApp development involves creating decentralized applications that run on a blockchain network. It matters as it enables the creation of transparent, censorship-resistant, and secure applications, fostering a new paradigm of internet services.
+
 ### [1. Dive Into dApps: Your Ultimate Guide to Start Crafting Them Today!](https://hackernoon.com/dive-into-dapps-your-ultimate-guide-to-start-crafting-them-today)
 ![](https://cdn.hackernoon.com/images/0jygIIZvqRNKC4CORjLZ7NDB7B62-3oa38el.jpeg)
 We will start creating a dApp and learn how to secure funding for its further development.
@@ -106,37 +110,37 @@ Here’s how Web3 infrastructure providers help dApps to handle pressure as user
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-0z931dw.jpeg)
 ERC stands for Ethereum Request for Comment, and by addressing this topic is going to help us better understand the reach of many blockchain use cases.
 
-### [27. Quicknode: Your One-Stop Web3 Infrastructure Provider](https://hackernoon.com/quicknode-your-one-stop-web3-infrastructure-provider)
-![](https://cdn.hackernoon.com/images/73Ez3YFrsmQwSpzv4caRBk2QIb53-3x93w65.jpeg)
-Quicknode: Your One-Stop Web3 Infrastructure Provider
-
-### [28. How to Monitor Blockchain Transactions in Realtime With dRPC and Web3.js](https://hackernoon.com/how-to-monitor-blockchain-transactions-in-realtime-with-drpc-and-web3js)
-![](https://cdn.hackernoon.com/images/14TrUQaAknSmk2wmjSwmUYqTmiI2-px23p9w.jpeg)
-Learn how you can connect your DApp to a blockchain in a decentralized manner with the use of dRPC and the open source Web3.js library
-
-### [29. Join to Write Data Into Your First Decentralized Database](https://hackernoon.com/join-to-write-data-into-your-first-decentralized-database)
-![](https://cdn.hackernoon.com/images/TbYt28nVKoQeF1PsWFlYhbkBat42-kz93r3c.jpeg)
-The DB3 Network is a start-up project to build a decentralized, permissionless platform for programmable data processing.
-
-### [30. Automating Smart Contract Tasks: Using Keepers and Relayers to Schedule Transactions](https://hackernoon.com/automating-smart-contract-tasks-using-keepers-and-relayers-to-schedule-transactions)
+### [27. Automating Smart Contract Tasks: Using Keepers and Relayers to Schedule Transactions](https://hackernoon.com/automating-smart-contract-tasks-using-keepers-and-relayers-to-schedule-transactions)
 ![](https://cdn.hackernoon.com/images/0xedb90752f3c963060108ad81d396962fb5d5f1ad-xf3385p.jpeg)
 Unlike traditional servers, blockchains do not allow a program to schedule future function calls themselves.Any state changes must be initiated by a transaction
 
-### [31. How to Create and Deploy an ERC-20 Token on Ethereum Sepolia Testnet](https://hackernoon.com/how-to-create-and-deploy-an-erc-20-token-on-ethereum-sepolia-testnet)
+### [28. Quicknode: Your One-Stop Web3 Infrastructure Provider](https://hackernoon.com/quicknode-your-one-stop-web3-infrastructure-provider)
+![](https://cdn.hackernoon.com/images/73Ez3YFrsmQwSpzv4caRBk2QIb53-3x93w65.jpeg)
+Quicknode: Your One-Stop Web3 Infrastructure Provider
+
+### [29. How to Create and Deploy an ERC-20 Token on Ethereum Sepolia Testnet](https://hackernoon.com/how-to-create-and-deploy-an-erc-20-token-on-ethereum-sepolia-testnet)
 ![](https://cdn.hackernoon.com/images/0xedb90752f3c963060108ad81d396962fb5d5f1ad-cc0388k.webp)
 Deploy an ERC-20 token on Sepolia with ease. Learn to use Hardhat, Remix, and GetBlock’s RPC endpoint to test, verify, and launch your smart contracts.
+
+### [30. How to Monitor Blockchain Transactions in Realtime With dRPC and Web3.js](https://hackernoon.com/how-to-monitor-blockchain-transactions-in-realtime-with-drpc-and-web3js)
+![](https://cdn.hackernoon.com/images/14TrUQaAknSmk2wmjSwmUYqTmiI2-px23p9w.jpeg)
+Learn how you can connect your DApp to a blockchain in a decentralized manner with the use of dRPC and the open source Web3.js library
+
+### [31. Join to Write Data Into Your First Decentralized Database](https://hackernoon.com/join-to-write-data-into-your-first-decentralized-database)
+![](https://cdn.hackernoon.com/images/TbYt28nVKoQeF1PsWFlYhbkBat42-kz93r3c.jpeg)
+The DB3 Network is a start-up project to build a decentralized, permissionless platform for programmable data processing.
 
 ### [32. Etherspot Multichain SDK: Enabling Agile Web3 Development](https://hackernoon.com/etherspot-multichain-sdk-enabling-agile-web3-development)
 ![](https://cdn.hackernoon.com/images/YCxWeB1114PupVFVYclhZfpceCQ2-pvc3suf.png)
 How to onboard your users to the entire multichain world of EVM-compatible chains. Etherspot SDK helps Web3 dapps save cost, time and increase user adoption. 
 
-### [33. Best Blockchain Developer Tools for Testing, Debugging, and Detoxing](https://hackernoon.com/best-blockchain-developer-tools-for-testing-debugging-and-detoxing)
-![](https://cdn.hackernoon.com/images/Rov7SyxXfGcrv1reBHBsTZaLMqj1-yb032i0.png)
-Streamline your blockchain development with this list of tools for debugging, testing, and analysing your dApps. Shared by aelf, layer 1 AI blockchain.
-
-### [34. How to Add a Blockchain Network to MetaMask Using RPC URLs](https://hackernoon.com/how-to-add-a-blockchain-network-to-metamask-using-rpc-urls)
+### [33. How to Add a Blockchain Network to MetaMask Using RPC URLs](https://hackernoon.com/how-to-add-a-blockchain-network-to-metamask-using-rpc-urls)
 ![](https://cdn.hackernoon.com/images/0xedb90752f3c963060108ad81d396962fb5d5f1ad-oy738ay.png)
 Learn to  to add a blockchain network to MetaMask with the help of RPC URLs from GetBlock.
+
+### [34. Best Blockchain Developer Tools for Testing, Debugging, and Detoxing](https://hackernoon.com/best-blockchain-developer-tools-for-testing-debugging-and-detoxing)
+![](https://cdn.hackernoon.com/images/Rov7SyxXfGcrv1reBHBsTZaLMqj1-yb032i0.png)
+Streamline your blockchain development with this list of tools for debugging, testing, and analysing your dApps. Shared by aelf, layer 1 AI blockchain.
 
 ### [35. The Decentralized Database Revolution](https://hackernoon.com/the-decentralized-database-revolution)
 ![](https://cdn.hackernoon.com/images/88xQqjRtttXGhP9pAmIP0Lc0irC3-zza2p1w.jpeg)
@@ -158,41 +162,41 @@ In this tutorial, you will learn about three functions that will help you move m
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpqKoCJAfsvPV3kTPrueYQmdFvun2-rp1528oj.jpeg?alt=media&token=1828c53f-6159-4746-8af6-116f9db214b6)
 While most of blockchain and Ethereum in particular, developers only focus on building and testing their DApps, they often forget the end users or customers. That means, they underestimate the importance of UI/UX and governance in their product commercialization and success. To that end, this article sheds more lights on best practices for successfully building Ethereum based on User Interface (UI)/User Experience (UX) and governance.
 
-### [40. Meet GetBlock: HackerNoon Company of the Week](https://hackernoon.com/meet-getblock-hackernoon-company-of-the-week)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-qf034h8.png)
-Meet GetBlock - a Blockchain-as-a-Service (BaaS) platform that makes API connections to full nodes seamlessly.
-
-### [41. How to Build Multi-Chain ERC-20 Creator With GetBlock RPC](https://hackernoon.com/how-to-build-multi-chain-erc-20-creator-with-getblock-rpc)
+### [40. How to Build Multi-Chain ERC-20 Creator With GetBlock RPC](https://hackernoon.com/how-to-build-multi-chain-erc-20-creator-with-getblock-rpc)
 ![](https://cdn.hackernoon.com/images/h9zh5laZcuVhjnaK4lBLPxYH14f2-pca3j7m.png)
 Learn to build a multi-chain ERC-20 token generator using GetBlock RPC without writing code. Create tokens easily with detailed steps.
 
-### [42. RPC URLs: The dApp–Blockchain Bridge](https://hackernoon.com/rpc-urls-the-dapp-blockchain-bridge)
-![](https://cdn.hackernoon.com/images/0xedb90752f3c963060108ad81d396962fb5d5f1ad-3v138zc.png)
-Learn how RPC URLs and chain IDs help dApps connect to the right blockchain, prevent replay attacks, and support multi-chain setups in Web3.
+### [41. Meet GetBlock: HackerNoon Company of the Week](https://hackernoon.com/meet-getblock-hackernoon-company-of-the-week)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-qf034h8.png)
+Meet GetBlock - a Blockchain-as-a-Service (BaaS) platform that makes API connections to full nodes seamlessly.
 
-### [43. The Web3 Development Writing Contest by GetBlock and HackerNoon: Results Announcement 🎉](https://hackernoon.com/the-web3-development-writing-contest-by-getblock-and-hackernoon-results-announcement)
+### [42. The Web3 Development Writing Contest by GetBlock and HackerNoon: Results Announcement 🎉](https://hackernoon.com/the-web3-development-writing-contest-by-getblock-and-hackernoon-results-announcement)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-qg038rx.png)
 The Web3 Dev Contest results are in! See who won from $5,000 for top stories in the blockchain APIs, dApp development, and GetBlock tutorial categories. 
 
-### [44. dApp Development With Michael Vandeberg: An Interview](https://hackernoon.com/dapp-development-with-michael-vandeberg-an-interview-482534wr)
-![](https://cdn.hackernoon.com/images/5Bjz78MORcPQx3lUTVedEHus0mG2-k8r345y.jpeg)
-Blockchain engineer explains how to build decentralized applications (dApp)
+### [43. RPC URLs: The dApp–Blockchain Bridge](https://hackernoon.com/rpc-urls-the-dapp-blockchain-bridge)
+![](https://cdn.hackernoon.com/images/0xedb90752f3c963060108ad81d396962fb5d5f1ad-3v138zc.png)
+Learn how RPC URLs and chain IDs help dApps connect to the right blockchain, prevent replay attacks, and support multi-chain setups in Web3.
 
-### [45. Connecting Your DApp to Blockchain with WalletConnect and GetBlock](https://hackernoon.com/connecting-your-dapp-to-blockchain-with-walletconnect-and-getblock)
+### [44. Connecting Your DApp to Blockchain with WalletConnect and GetBlock](https://hackernoon.com/connecting-your-dapp-to-blockchain-with-walletconnect-and-getblock)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3x02yhj.jpeg)
 Easily connect your DApp to the blockchain. This tutorial shows you how to integrate WalletConnect with GetBlock.io for browser wallets. 
+
+### [45. dApp Development With Michael Vandeberg: An Interview](https://hackernoon.com/dapp-development-with-michael-vandeberg-an-interview-482534wr)
+![](https://cdn.hackernoon.com/images/5Bjz78MORcPQx3lUTVedEHus0mG2-k8r345y.jpeg)
+Blockchain engineer explains how to build decentralized applications (dApp)
 
 ### [46. Rollups Are the Future—But Their Biggest Bottleneck Might Be a Single Point of Failure](https://hackernoon.com/rollups-are-the-futurebut-their-biggest-bottleneck-might-be-a-single-point-of-failure)
 ![](https://cdn.hackernoon.com/images/0dg4eZJzlqhMYNZf76kLvKWPnZ52-10139a9.jpeg)
 For all the innovation that rollups bring, they still carry a significant centralization risk.
 
-### [47. Answer to Win $1,500: What’s the Best Blockchain API for dApp Development?](https://hackernoon.com/answer-to-win-$1500-whats-the-best-blockchain-api-for-dapp-development)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-5d038ls.png)
-Write about dApp-development for a chance to win $1,500 in the #web3 development writing contest, hosted by GetBlock and HackerNoon.
-
-### [48. Crypto Hub Launches The Ultimate Web3 Solution](https://hackernoon.com/crypto-hub-launches-the-ultimate-web3-solution)
+### [47. Crypto Hub Launches The Ultimate Web3 Solution](https://hackernoon.com/crypto-hub-launches-the-ultimate-web3-solution)
 ![](https://cdn.hackernoon.com/images/gBUpAPVZBeNsrRq5At5f4mgT9IU2-n083bn5.jpeg)
 The First Stake-to-Own (S2O) Crypto Launchpad in the market, which is Owned by the Community and Tailored to Empower Web3 Companies. 
+
+### [48. Answer to Win $1,500: What’s the Best Blockchain API for dApp Development?](https://hackernoon.com/answer-to-win-$1500-whats-the-best-blockchain-api-for-dapp-development)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-5d038ls.png)
+Write about dApp-development for a chance to win $1,500 in the #web3 development writing contest, hosted by GetBlock and HackerNoon.
 
 ### [49. Build Cross-Chain dApps Easily With GetBlock](https://hackernoon.com/build-cross-chain-dapps-easily-with-getblock)
 ![](https://cdn.hackernoon.com/images/HeYK1ZZc0baFvddnzC0EKhmflCp2-z003yxy.jpeg)
@@ -226,19 +230,19 @@ CENNZnet is a DApp platform that puts great user experience first. We are empowe
 ![](https://cdn.hackernoon.com/images/bufFyGKnTjQddFToMBl0gUplhWj2-vz0378t.jpeg)
 Learn about Follow My Vote Co-Founder & CEO Adam Ernest in this exclusive HackerNoon startup interview about his origins, motivations and future plans.
 
-### [57. The Key Services That Blockchain Development Companies Should Be Offering](https://hackernoon.com/the-key-services-that-blockchain-development-companies-should-be-offering)
-![](https://cdn.hackernoon.com/images/lUg9GWQhWVgv8p2zOhZN9NQeBAS2-gy8319k.jpeg)
-The top blockchain development companies offer cutting-edge services. In this article, we will learn about major blockchain development services
-
-### [58. A Smart Contract Ecosystem For Plug-n-Play dApp Development](https://hackernoon.com/a-smart-contract-ecosystem-for-plug-n-play-dapp-development)
+### [57. A Smart Contract Ecosystem For Plug-n-Play dApp Development](https://hackernoon.com/a-smart-contract-ecosystem-for-plug-n-play-dapp-development)
 ![](https://cdn.hackernoon.com/images/Hm8v7s6f7YTp1CwIF10Wm7VkTHW2-nbf3k2x.jpeg)
 Are you curious to know more details about Bunzz ecosystem?
 
 What are the advantages for users and for contributors? 
 
-### [59. My Top 7 Ecosystem Tools That are Fundamental for DApp Development](https://hackernoon.com/my-top-7-ecosystem-tools-that-are-fundamental-for-dapp-development)
+### [58. My Top 7 Ecosystem Tools That are Fundamental for DApp Development](https://hackernoon.com/my-top-7-ecosystem-tools-that-are-fundamental-for-dapp-development)
 ![](https://cdn.hackernoon.com/images/0x9c738cc901a8dc641be1aff1f88c60ecc2757fdf-ta134aq.png)
 I discuss 7 topo ecosystem tools for dApp development: Aleo, dRPS, Alchemy Notify, Chainlink VRF, TenderlQDy, Hardhat, and The Graph.
+
+### [59. The Key Services That Blockchain Development Companies Should Be Offering](https://hackernoon.com/the-key-services-that-blockchain-development-companies-should-be-offering)
+![](https://cdn.hackernoon.com/images/lUg9GWQhWVgv8p2zOhZN9NQeBAS2-gy8319k.jpeg)
+The top blockchain development companies offer cutting-edge services. In this article, we will learn about major blockchain development services
 
 ### [60. Is Web3 (still) the Internet of the Future?](https://hackernoon.com/is-web3-still-the-internet-of-the-future)
 ![](https://cdn.hackernoon.com/images/acJ0mtxJAgZs56NWxLarbm1IqXg1-q593mqs.jpeg)

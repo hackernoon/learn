@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [data-structures](https://hackernoon.com/tagged/data-structures)
+### Let's learn about [Data Structures](https://hackernoon.com/tagged/data-structures) via these 123 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Data structures are specific ways of organizing and storing data in a computer for efficient access and modification. Understanding them is fundamental for writing optimized and scalable algorithms and software.
+
 ### [1. Top 10 System Design Interview Questions for Software Engineers](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
 ![](https://hackernoon.com/hn-images/1*HlEnTE32sMEIH6WzVISntQ.png)
 Designing Large Scale Distributed Systems has become the standard part of the software engineering interviews. Engineers struggle with System Design Interviews (SDIs), primarily because of the following two reasons:
@@ -246,57 +250,57 @@ Beap is designed to make both insertion and search operations efficient, giving 
 ![](https://cdn.hackernoon.com/images/471bw32gl.jpg)
 If you are familiar with data structures you may have heard about a LinkedList.
 
-### [62. Go: When Should You Use Generics? When Shouldn't You?](https://hackernoon.com/go-when-should-you-use-generics-when-shouldnt-you)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-5q03boc.jpeg)
-I’ll provide general guidelines, not hard and fast rules. Use your own judgement. But if you aren’t sure, I recommend using the guidelines shown here.
-
-### [63. Foursquare Enters the Future With a Geospatial Knowledge Graph](https://hackernoon.com/foursquare-enters-the-future-with-a-geospatial-knowledge-graph)
+### [62. Foursquare Enters the Future With a Geospatial Knowledge Graph](https://hackernoon.com/foursquare-enters-the-future-with-a-geospatial-knowledge-graph)
 ![](https://cdn.hackernoon.com/images/fdI8xgIHRJTxUAsqoZ27qOGzMz33-uv93rxr.jpeg)
 Foursquare is evolving, and its next steps will be powered by the Foursquare Graph
 
-### [64. Prepare For Your Next Tech Interview With These 17 Data Structures and Algorithms Sites](https://hackernoon.com/prepare-for-your-next-tech-interview-with-these-17-data-structures-and-algorithms-sites)
+### [63. Prepare For Your Next Tech Interview With These 17 Data Structures and Algorithms Sites](https://hackernoon.com/prepare-for-your-next-tech-interview-with-these-17-data-structures-and-algorithms-sites)
 ![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-bv83r1q.jpeg)
 I've compiled some of the most useful resources for DSAs, interview practice sites, commonly asked technical questions, and sites to build practical projects.
 
-### [65. Why Your Business Requires Data Driven Growth-Marketing?](https://hackernoon.com/why-your-business-requires-data-driven-growth-marketing)
+### [64. Why Your Business Requires Data Driven Growth-Marketing?](https://hackernoon.com/why-your-business-requires-data-driven-growth-marketing)
 ![](https://cdn.hackernoon.com/images/ELmM7VW19UUyaCIfFVBFQMmoxRz1-7zb3p7x.jpeg)
 Need rapid surge in digital marketing? Entrepreneur and agile startups can now easily reach their target audience due to data driven growth-marketing analytics.
 
-### [66. The Anatomy of a Real-Time Video Recommendation System](https://hackernoon.com/the-anatomy-of-a-real-time-video-recommendation-system)
+### [65. The Anatomy of a Real-Time Video Recommendation System](https://hackernoon.com/the-anatomy-of-a-real-time-video-recommendation-system)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-wz831tf.jpeg)
 Learn the key stages of implementation, the role of tools like FastAPI, and the significance of algorithms like ANNs in creating personalized experiences.
 
-### [67. Useful Resources for Data Structure & Algorithm Practice](https://hackernoon.com/useful-resources-for-data-structure-and-algorithm-practice)
+### [66. Useful Resources for Data Structure & Algorithm Practice](https://hackernoon.com/useful-resources-for-data-structure-and-algorithm-practice)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-7p93oq0.jpeg)
 These four resources may be useful for learning about data structures and practicing making algorithms for your advanced programming needs in your work.
 
-### [68. Different Types of Graphs in Data Structure](https://hackernoon.com/different-types-of-graphs-in-data-structure)
+### [67. Different Types of Graphs in Data Structure](https://hackernoon.com/different-types-of-graphs-in-data-structure)
 ![](https://cdn.hackernoon.com/images/V4OORvpWBMfsdPL4Cd7eTIK2TqW2-q793hsk.jpeg)
 Learn about different types of graphs in the data structure. Graphs in the data structure can be of various types, read this article to know more.
 
-### [69. Data Structures and Algorithms: How I Failed a Google Interview](https://hackernoon.com/data-structures-and-algorithms-how-i-failed-a-google-interview)
+### [68. Data Structures and Algorithms: How I Failed a Google Interview](https://hackernoon.com/data-structures-and-algorithms-how-i-failed-a-google-interview)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-pv93oe2.jpeg)
 Learn about why data structures and algorithms are important, and why I failed a Google interview. 
 
-### [70. A High Level Explanation of Data Types for Decision Makers](https://hackernoon.com/a-high-level-explanation-of-data-types-for-decision-makers)
+### [69. A High Level Explanation of Data Types for Decision Makers](https://hackernoon.com/a-high-level-explanation-of-data-types-for-decision-makers)
 ![](https://cdn.hackernoon.com/images/TYAy8YXF3pNC96IPW15fOOqYix43-7we3pxq.png)
 There are three different types of data: structured data, semi structured data, and unstructured data.
 
-### [71. Exploring the CAP Theorem: The Ultimate Battle of Trade-Offs in Distributed Systems](https://hackernoon.com/exploring-the-cap-theorem-the-ultimate-battle-of-trade-offs-in-distributed-systems)
+### [70. Exploring the CAP Theorem: The Ultimate Battle of Trade-Offs in Distributed Systems](https://hackernoon.com/exploring-the-cap-theorem-the-ultimate-battle-of-trade-offs-in-distributed-systems)
 ![](https://cdn.hackernoon.com/images/YSoDoZKf5RhRC9LZYSNFGfxCC8l1-j3c3lcc.jpeg)
 Consistency, availability, and partition tolerance are the three musketeers of distributed systems. They ensure that your system operates correctly. 
 
-### [72. Convert Formatted Text Into a Data Structure Using Parsing](https://hackernoon.com/convert-formatted-text-into-a-data-structure-using-parsing-po3j31ik)
+### [71. Convert Formatted Text Into a Data Structure Using Parsing](https://hackernoon.com/convert-formatted-text-into-a-data-structure-using-parsing-po3j31ik)
 ![](https://cdn.hackernoon.com/images/uaoBDRuz3ify2SsQVyDQmBDRXS52-au653evv.png)
 Parsing is a process of converting formatted text into a data structure. A data structure type can be any suitable representation of the information engraved in the source text.
 
-### [73. How to Implement Heap in Data Structure](https://hackernoon.com/how-to-implement-heap-in-data-structure)
+### [72. How to Implement Heap in Data Structure](https://hackernoon.com/how-to-implement-heap-in-data-structure)
 ![](https://cdn.hackernoon.com/images/V4OORvpWBMfsdPL4Cd7eTIK2TqW2-0t93hdc.jpeg)
 Heap data structure is a balanced binary tree data structure where the child node is placed in comparison to the root node and then arranged accordingly.
 
-### [74. How A Database Get Rid of OOM Crashes](https://hackernoon.com/say-goodbye-to-oom-crashes)
+### [73. How A Database Get Rid of OOM Crashes](https://hackernoon.com/say-goodbye-to-oom-crashes)
 ![](https://cdn.hackernoon.com/images/oNIroQpI1FZj2l5g1MSUvunDFzu2-ewj370e.jpeg)
 What guarantees system stability in large data query tasks? It is an effective memory allocation and monitoring mechanism.
+
+### [74. Go: When Should You Use Generics? When Shouldn't You?](https://hackernoon.com/go-when-should-you-use-generics-when-shouldnt-you)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-5q03boc.jpeg)
+I’ll provide general guidelines, not hard and fast rules. Use your own judgement. But if you aren’t sure, I recommend using the guidelines shown here.
 
 ### [75. 87 Stories To Learn About Data Structures](https://hackernoon.com/87-stories-to-learn-about-data-structures)
 ![](https://cdn.hackernoon.com/images/github/data-structures-398.png)
@@ -306,37 +310,37 @@ Learn everything you need to know about Data Structures via these 87 free Hacker
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-hc93sse.jpeg)
 Explore the concept of stacks in programming, their applications, speed, and the origin of "Stack Overflow." 
 
-### [77. Master Dynamic Data with Solidity Linked Lists](https://hackernoon.com/master-dynamic-data-with-solidity-linked-lists)
-![](https://cdn.hackernoon.com/images/0yWFzvZxdnR06ofY5hSQmg6HXd32-vb93qcu.jpeg)
-Unlock the secrets of efficient data handling in Solidity with Linked Lists. Dive in now to elevate your blockchain development game.
-
-### [78. CS Data Structures: Fixed Array](https://hackernoon.com/cs-data-structures-fixed-array-021f351p)
+### [77. CS Data Structures: Fixed Array](https://hackernoon.com/cs-data-structures-fixed-array-021f351p)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-er7p29kl.jpeg)
 A fixed array is an array that has a max amount of items. Such arrays are used when the programmer knows how many elements an array should hold.
+
+### [78. Master Dynamic Data with Solidity Linked Lists](https://hackernoon.com/master-dynamic-data-with-solidity-linked-lists)
+![](https://cdn.hackernoon.com/images/0yWFzvZxdnR06ofY5hSQmg6HXd32-vb93qcu.jpeg)
+Unlock the secrets of efficient data handling in Solidity with Linked Lists. Dive in now to elevate your blockchain development game.
 
 ### [79. Hierarchical Queries: Comparative Analysis in Oracle and PostgreSQL](https://hackernoon.com/hierarchical-queries-comparative-analysis-in-oracle-and-postgresql)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-uc83kza.jpeg)
 A guide about hierarchical querying in Oracle & PostgreSQL, comparing syntax, efficiency, & suitability for diverse data structures.
 
-### [80. Mastering Hashing in Java: A Comprehensive Guide to HashMap and HashSet](https://hackernoon.com/mastering-hashing-in-java-a-comprehensive-guide-to-hashmap-and-hashset)
-![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-w583xke.jpeg)
-
-
-### [81. Understanding the Main Differences between Structured and Unstructured Data](https://hackernoon.com/understanding-the-main-differences-between-structured-and-unstructured-data)
+### [80. Understanding the Main Differences between Structured and Unstructured Data](https://hackernoon.com/understanding-the-main-differences-between-structured-and-unstructured-data)
 ![](https://cdn.hackernoon.com/images/r7tMYychucQtpibyFKs7zg8707e2-bh93vpu.jpeg)
 In this, I explore structured, unstructured, and semi-structured data, as well as how to convert unstructured data, and AI’s impact on data management.
+
+### [81. Mastering Hashing in Java: A Comprehensive Guide to HashMap and HashSet](https://hackernoon.com/mastering-hashing-in-java-a-comprehensive-guide-to-hashmap-and-hashset)
+![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-w583xke.jpeg)
+
 
 ### [82. Understanding Bloom Filters: An Efficient Probabilistic Data Structure](https://hackernoon.com/understanding-bloom-filters-an-efficient-probabilistic-data-structure)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-sn02p7z.jpeg)
 Learn about bloom filters, pros/cons and their applications.
 
-### [83. What Is the Use of a Linked List Class?](https://hackernoon.com/what-is-the-use-of-a-linked-list-class)
-![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-bsa3v64.jpeg)
-Whether you're a beginner programmer or an experienced developer, understanding the linked list class is essential.
-
-### [84. The Anatomy of a Write Operation](https://hackernoon.com/the-anatomy-of-a-write-operation)
+### [83. The Anatomy of a Write Operation](https://hackernoon.com/the-anatomy-of-a-write-operation)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-fp022vd.jpeg)
 When file.write() returns, your data isn't on disk. Trace the 6-layer journey of a write operation from Python buffers to Linux kernel and SSD silicon.
+
+### [84. What Is the Use of a Linked List Class?](https://hackernoon.com/what-is-the-use-of-a-linked-list-class)
+![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-bsa3v64.jpeg)
+Whether you're a beginner programmer or an experienced developer, understanding the linked list class is essential.
 
 ### [85. Poor Data Quality is the Bane of Machine Learning Models](https://hackernoon.com/poor-data-quality-is-the-bane-of-machine-learning-models)
 ![](https://cdn.hackernoon.com/images/IMcuZGEyrzRf7UvWytxpfRbJsQ52-vma3o4a.jpeg)
@@ -346,17 +350,17 @@ An examination of the importance of data quality, how it can present itself in a
 ![](https://cdn.hackernoon.com/images/code-on-a-laptops-screen-qdwc6fldxk0x5yosbjc0bj6y.png)
 Learn how tree recursion works in JavaScript, the risks of stack overflows, and how to optimize traversal using tail-recursive and iterative methods.
 
-### [87. The Biggest Features in ES2020/ES2021](https://hackernoon.com/es2020es2021)
+### [87. Data Quality: Its Definitions And How to Improve It](https://hackernoon.com/data-quality-its-definitions-and-how-to-improve-it)
+![](https://cdn.hackernoon.com/images/r7tMYychucQtpibyFKs7zg8707e2-am93vdx.jpeg)
+Utilizing quality data is essential for business operations. This article explores data quality definitions and how to maintain it for everyday use.
+
+### [88. The Biggest Features in ES2020/ES2021](https://hackernoon.com/es2020es2021)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-z803nmm.jpeg)
 ES2020/ES2021, New ES2020/ES2021 features you might have missed
 
-### [88. 4 Ways Data Science Helps Streamline Business Operations](https://hackernoon.com/4-ways-data-science-helps-streamline-business-operations-nmr34xw)
+### [89. 4 Ways Data Science Helps Streamline Business Operations](https://hackernoon.com/4-ways-data-science-helps-streamline-business-operations-nmr34xw)
 ![](https://cdn.hackernoon.com/images/4DEZ3I9NeEYl1VAoqXMD2HiUESS2-gu4u315x.jpeg)
 Data Science has changed the way organizations collect, analyze, and process different types of information. 
-
-### [89. Data Quality: Its Definitions And How to Improve It](https://hackernoon.com/data-quality-its-definitions-and-how-to-improve-it)
-![](https://cdn.hackernoon.com/images/r7tMYychucQtpibyFKs7zg8707e2-am93vdx.jpeg)
-Utilizing quality data is essential for business operations. This article explores data quality definitions and how to maintain it for everyday use.
 
 ### [90. How to Check If Your Point Is Reachable: A JavaScript Algorithms Guide](https://hackernoon.com/how-to-check-if-your-point-is-reachable-a-javascript-algorithms-guide)
 ![](https://cdn.hackernoon.com/images/MppoGnEe7vYWhYy8162Auiz1Mzj1-igd30p4.jpeg)
@@ -370,34 +374,34 @@ Learn how to use BigQuery for e-commerce funnel analysis. Track user transitions
 ![](https://cdn.hackernoon.com/images/elSxFAxSKrdQdNKR1XbMJp3CF4f1-842v31c4.jpeg)
 While building a machine learning model, data scaling in machine learning is the most significant element through data pre-processing. Scaling may recognize the difference between a model of poor machine learning and a stronger one.
 
-### [93. How Companies like Netflix Deliver Content Around the World](https://hackernoon.com/how-companies-like-netflix-deliver-content-around-the-world)
+### [93. CPython Lists, Explained Like You’re the Interpreter](https://hackernoon.com/cpython-lists-explained-like-youre-the-interpreter)
+![](https://cdn.hackernoon.com/images/SSRksvjtMhPrICUmRreSJAn5Dg43-lc83rk9.jpeg)
+A practical deep dive into how list works in CPython: why indexing is fast, what size vs capacity really means, and why append() is amortized O(1).
+
+### [94. How Companies like Netflix Deliver Content Around the World](https://hackernoon.com/how-companies-like-netflix-deliver-content-around-the-world)
 ![](https://cdn.hackernoon.com/images/TlU0qyilehYV4XrjqgkglSwSK413-4o93pf6.jpeg)
 Have you ever wondered how companies like Netflix or Spotify is able to delivery videos or songs to you at what seems like lightning fast speed !?
 
 
-### [94. CPython Lists, Explained Like You’re the Interpreter](https://hackernoon.com/cpython-lists-explained-like-youre-the-interpreter)
-![](https://cdn.hackernoon.com/images/SSRksvjtMhPrICUmRreSJAn5Dg43-lc83rk9.jpeg)
-A practical deep dive into how list works in CPython: why indexing is fast, what size vs capacity really means, and why append() is amortized O(1).
-
-### [95. How to Build a Versatile Traverse Function from Scratch](https://hackernoon.com/how-to-build-a-versatile-traverse-function-from-scratch)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-qs93pyl.jpeg)
-Learn how to create your own traverse function in under 5 minutes.
-
-### [96. What Are Conflict-free Replicated Data Types (CRDTs)?](https://hackernoon.com/what-are-conflict-free-replicated-data-types-crdts-2u3u35lz)
+### [95. What Are Conflict-free Replicated Data Types (CRDTs)?](https://hackernoon.com/what-are-conflict-free-replicated-data-types-crdts-2u3u35lz)
 ![](https://cdn.hackernoon.com/images/ACHtVy9dCuZip9JIJJEqHZLgBfY2-5y1k34d8.jpeg)
 In a world where most of the apps that we use on the internet are collaborative in nature, conflicts in data are common. Is there a way to avoid it?
+
+### [96. How to Build a Versatile Traverse Function from Scratch](https://hackernoon.com/how-to-build-a-versatile-traverse-function-from-scratch)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-qs93pyl.jpeg)
+Learn how to create your own traverse function in under 5 minutes.
 
 ### [97. A Complete Introduction to Graph Data Structure](https://hackernoon.com/a-complete-introduction-to-graph-data-structure-tb2q31h6)
 ![](https://cdn.hackernoon.com/images/e178Xecok0TlGP5gaTutNkU1thY2-5x93125.jpeg)
 Data structures are important for storing data in efficient ways. In this article, we will discuss the Graph Data Structure: definition, types and examples.
 
-### [98. DeFi Meets NFT With $MEGA Yield Farming in The MCP3D Decentralized City](https://hackernoon.com/google-search-console-now-reports-on-more-types-of-structured-data-w8203eii)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FICFDnsDmDOZvcYkjBuTkWflsLiF2-vqh3t88.jpeg?alt=media&token=299dd677-c855-47ee-b384-2c005bad2a66)
-Recent months demonstrated explosive growth of Decentralized Finance with $13B+ in total value locked. Normally, games are the first thing to take off on new platforms, and seems like DeFi is not an exception here.
-
-### [99. Watch Out for Deceitful Data](https://hackernoon.com/watch-out-for-deceitful-data)
+### [98. Watch Out for Deceitful Data](https://hackernoon.com/watch-out-for-deceitful-data)
 ![](https://cdn.hackernoon.com/images/MWfhFPjOMOhPyziaufIk7y93aQ33-cgg3rkg.jpeg)
 Nowadays, most assertions need to be backed with data, as such, it is not uncommon to encounter data that has been manipulated in some way to validate a story.
+
+### [99. DeFi Meets NFT With $MEGA Yield Farming in The MCP3D Decentralized City](https://hackernoon.com/google-search-console-now-reports-on-more-types-of-structured-data-w8203eii)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FICFDnsDmDOZvcYkjBuTkWflsLiF2-vqh3t88.jpeg?alt=media&token=299dd677-c855-47ee-b384-2c005bad2a66)
+Recent months demonstrated explosive growth of Decentralized Finance with $13B+ in total value locked. Normally, games are the first thing to take off on new platforms, and seems like DeFi is not an exception here.
 
 ### [100. Fundamentals of Data Structures [Part 1]](https://hackernoon.com/fundamentals-of-data-structures-part-1-6u2p31eh)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSWuYxmBe5WPlAjznGj5Fb05Thnl1-f5211auq.jpeg?alt=media&token=2e99b1db-59fa-4fc2-891c-d40d9f466726)
@@ -427,13 +431,13 @@ Digitization as a trend means the world is now generating more data than ever be
 ![](https://cdn.hackernoon.com/images/JD2zcIAdxITiLvxAvGGKmLs1dWn1-479c33jq.jpeg)
 In today’s competitive business landscape, data automation has become necessary for business sustainability. Despite the necessity, it also comes with a few challenges--collecting, cleaning, andputting it together--to get meaningful insights. 
 
-### [107. Augmented Tree Data Structures](https://hackernoon.com/augmented-tree-data-structures)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6c82qhy.jpeg)
-Data structures are a serious tool to store data conveniently. Modern applications have the flexibility to organize the data in the memory or on disk using vari
-
-### [108. Applying Criminology Theories to Data Management: "The Broken Window Theory: and "The Perfect Storm"](https://hackernoon.com/applying-criminology-theories-to-data-management-the-broken-window-theory-and-the-perfect-storm)
+### [107. Applying Criminology Theories to Data Management: "The Broken Window Theory: and "The Perfect Storm"](https://hackernoon.com/applying-criminology-theories-to-data-management-the-broken-window-theory-and-the-perfect-storm)
 ![](https://cdn.hackernoon.com/images/vMIW1g3rtVOLLixHAieMFeUFpbz1-7u3375d.jpeg)
 What can be done to prevent “Broken Windows” in the primary data source?  How can we effectively fix existing “Broken Windows"?
+
+### [108. Augmented Tree Data Structures](https://hackernoon.com/augmented-tree-data-structures)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6c82qhy.jpeg)
+Data structures are a serious tool to store data conveniently. Modern applications have the flexibility to organize the data in the memory or on disk using vari
 
 ### [109. Build Resilient Data Pipelines by Empowering Non-Technical Teams to Detect and Resolve Bad Data](https://hackernoon.com/build-resilient-data-pipelines-by-empowering-non-technical-teams-to-detect-and-resolve-bad-data)
 ![](https://cdn.hackernoon.com/images/VhUP4Nzf0UdyvaQQ7fSGN68icy02-mk93kvv.jpeg)
@@ -456,13 +460,13 @@ Explore 5 advanced data structures that go beyond arrays and linked lists. Learn
 ![](https://cdn.hackernoon.com/images/GaIljtyPquWy2SjlYFy2qRJcz803-bj936rs.png)
 A nautilus seashell with a perfect spiral is the product of specific DNA that coded for its existence.
 
-### [114. Syncing Data from Coda to Google Sheets And Vice Versa with Google Apps Script [A How-To Guide]](https://hackernoon.com/syncing-data-from-coda-to-google-sheets-and-vice-versa-with-google-apps-script-a-how-to-guide-oa573znc)
-![](https://cdn.hackernoon.com/drafts/jw6b3yk0.png)
-Last year I published a tutorial on how to sync data between two Coda docs and data between two Google Sheets. What was missing from the tutorial was how to sync data between a Coda doc and a Google Sheet. 
-
-### [115. Data Storage Security: 5 Best Practices to Secure Your Data](https://hackernoon.com/data-storage-security-5-best-practices-to-secure-your-data-eb7m3yt5)
+### [114. Data Storage Security: 5 Best Practices to Secure Your Data](https://hackernoon.com/data-storage-security-5-best-practices-to-secure-your-data-eb7m3yt5)
 ![](https://images.unsplash.com/photo-1506399558188-acca6f8cbf41?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Data is undoubtedly one of the most valuable assets of an organization. With easy-to-use and affordable options such as cloud-based storage environments, storing huge amounts of data in one place has become almost hassle-free. However, space is not the only concern for businesses any more.
+
+### [115. Syncing Data from Coda to Google Sheets And Vice Versa with Google Apps Script [A How-To Guide]](https://hackernoon.com/syncing-data-from-coda-to-google-sheets-and-vice-versa-with-google-apps-script-a-how-to-guide-oa573znc)
+![](https://cdn.hackernoon.com/drafts/jw6b3yk0.png)
+Last year I published a tutorial on how to sync data between two Coda docs and data between two Google Sheets. What was missing from the tutorial was how to sync data between a Coda doc and a Google Sheet. 
 
 ### [116. Data Backup Strategy To Reduce Data Loss](https://hackernoon.com/data-backup-strategy-to-reduce-data-loss-uq2g357w)
 ![](https://cdn.hackernoon.com/images/u2yokPOZdmMkVnwClcLxgOOLus73-y43z33uv.jpeg)
@@ -488,7 +492,11 @@ When you are learning software you will have to pick and choose what. There is j
 ![](https://cdn.hackernoon.com/images/BXZKrZJ52TYblw95jd0y2qErCY13-jrd735i8.jpeg)
 What are you actually missing out on in MySQL replication? It appears easy, but to debug the problem caused by it takes a lot of time. So, here's your answer.
 
-### [122. What is a Lisk Tree and What are its Use Cases?](https://hackernoon.com/what-is-a-lisk-tree-and-what-are-its-use-cases-7n22377o)
+### [122. The “Grind LeetCode” Advice is Mathematically Stupid (I Scraped 1,500 Questions to Prove It)](https://hackernoon.com/the-grind-leetcode-advice-is-mathematically-stupid-i-scraped-1500-questions-to-prove-it)
+![](https://cdn.hackernoon.com/images/xsrjMqXFbpVQgTScU3xQbSniiHG2-duc3ag2.webp)
+I scraped 1500+ tech interview questions to expose company biases. Stop paying $35/mo for LeetCode Premium. Search your target company's exact data for free. 
+
+### [123. What is a Lisk Tree and What are its Use Cases?](https://hackernoon.com/what-is-a-lisk-tree-and-what-are-its-use-cases-7n22377o)
 ![](https://cdn.hackernoon.com/images/ecMOMxkcdiQcfFoKdLHyrTUAYYX2-m5ie350k.jpeg)
 If you are interested in blockchains and cryptocurrencies, it is likely that you may have stumbled across Merkle trees (also known as hash trees).
 

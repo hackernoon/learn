@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [machinelearning](https://hackernoon.com/tagged/machinelearning)
+### Let's learn about [Machinelearning](https://hackernoon.com/tagged/machinelearning) via these 106 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Machine learning is a branch of artificial intelligence focused on developing algorithms that allow computers to learn from data without explicit programming. It's vital for enabling predictive analytics, automation, and intelligent decision-making across industries, transforming how businesses operate and innovate.
+
 ### [1. Intro to Audio Analysis: Recognizing Sounds Using Machine Learning](https://hackernoon.com/intro-to-audio-analysis-recognizing-sounds-using-machine-learning-qy2r3ufl)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FqXPKTyAPOCOcMQS6snKBBwcdAt62-ynq3e5v.jpeg?alt=media&token=11b2e3c0-b9e8-4075-9a28-454cf1f6396d)
 
@@ -81,15 +85,15 @@ Privacy](https://hackernoon.com/differential-privacy-with-tensorflow-20-multi-cl
 ![](https://cdn.hackernoon.com/drafts/pm8k36x7.png)
 Introduction
 
-### [19. Use Beta Distribution and Thompson Sampling to Beat The Multi-armed Bandit at the Casino](https://hackernoon.com/use-beta-distribution-and-thompson-sampling-to-beat-the-multi-armed-bandit-at-the-casino-ulgp3272)
+### [19. What Are Convolution Neural Networks? [ELI5]](https://hackernoon.com/-understanding-convolution-neural-networks-cnn-the-eli5-way-photo-by-efe-kurnaz-on-unsplash-u-pa1i327j)
+![](https://cdn.hackernoon.com/images/69s32rn.jpg)
+Universal Approximation Theorem says that Feed-Forward Neural Network (also known as Multi-layered Network of Neurons) can act as powerful approximation to learn the non-linear relationship between the input and output. But the problem with the Feed-Forward Neural Network is that the network is prone to over-fitting due to the presence of many parameters within the network to learn.
+
+### [20. Use Beta Distribution and Thompson Sampling to Beat The Multi-armed Bandit at the Casino](https://hackernoon.com/use-beta-distribution-and-thompson-sampling-to-beat-the-multi-armed-bandit-at-the-casino-ulgp3272)
 ![](https://cdn.hackernoon.com/drafts/ibjb3794.png)
 As a logical person at the casino. you want to put your money on the machine with the maximum expected return. This is the origin of the multi-armed bandit problem. We will cover the two most basic concept here: Beta distribution and Thompson sampling.
 
 Beta Distribution
-
-### [20. What Are Convolution Neural Networks? [ELI5]](https://hackernoon.com/-understanding-convolution-neural-networks-cnn-the-eli5-way-photo-by-efe-kurnaz-on-unsplash-u-pa1i327j)
-![](https://cdn.hackernoon.com/images/69s32rn.jpg)
-Universal Approximation Theorem says that Feed-Forward Neural Network (also known as Multi-layered Network of Neurons) can act as powerful approximation to learn the non-linear relationship between the input and output. But the problem with the Feed-Forward Neural Network is that the network is prone to over-fitting due to the presence of many parameters within the network to learn.
 
 ### [21. The Rise of MLOps: What We Can All Learn from DevOps ](https://hackernoon.com/the-rise-of-mlops-what-we-can-all-learn-from-devops-wemm3xl3)
 ![](https://cdn.hackernoon.com/drafts/p91323x3e.png)
@@ -119,13 +123,13 @@ mlops with databricks, mlflow, model registry, experiment tracking, feature stor
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-db03e18.jpeg)
 How Amazon Alexa AI processes and implements commands.
 
-### [27. 8 Use Cases for Voice Cloning with Artificial Intelligence](https://hackernoon.com/8-use-cases-for-voice-cloning-with-artificial-intelligence-h51b3unu)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5LP9HpsguyZWLr4vNUuMYzPA34G3-sq3f3e83.jpeg?alt=media&token=b0e08ecb-5b95-46f5-9656-3dc98e3e8271)
-If you thought that voice cloning and deepfakes are recent buzzwords, think again. The first original record of mimicking human voice dates back to 1779, in Russia. Professor Christian Kratzenstein built acoustic resonators that mimicked the human vocal tract when activated by means of vibrating reeds (just like wind instruments), in his lab in St. Petersburg.
-
-### [28. AI-Driven YouTube Comment Management: The Good, Bad, and Ugly](https://hackernoon.com/ai-driven-youtube-comment-management-the-good-bad-and-ugly)
+### [27. AI-Driven YouTube Comment Management: The Good, Bad, and Ugly](https://hackernoon.com/ai-driven-youtube-comment-management-the-good-bad-and-ugly)
 ![](https://cdn.hackernoon.com/images/3dP1h4oDXWfdH1z81Je2nAo7JKq1-hkc35au.jpeg)
 A Step-by-Step Guide to Building a YouTube Video Comments Responder
+
+### [28. 8 Use Cases for Voice Cloning with Artificial Intelligence](https://hackernoon.com/8-use-cases-for-voice-cloning-with-artificial-intelligence-h51b3unu)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5LP9HpsguyZWLr4vNUuMYzPA34G3-sq3f3e83.jpeg?alt=media&token=b0e08ecb-5b95-46f5-9656-3dc98e3e8271)
+If you thought that voice cloning and deepfakes are recent buzzwords, think again. The first original record of mimicking human voice dates back to 1779, in Russia. Professor Christian Kratzenstein built acoustic resonators that mimicked the human vocal tract when activated by means of vibrating reeds (just like wind instruments), in his lab in St. Petersburg.
 
 ### [29. How No-Code Can Rekindle Your Relationship With Data Science](https://hackernoon.com/how-no-code-can-rekindle-your-relationship-with-data-science-9o6e3ad4)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-xs82r6o.jpeg)
@@ -139,13 +143,13 @@ Artificial Intelligence (A.I.) is the future.
 ![](https://cdn.hackernoon.com/drafts/ep1em34yz.png)
 We live in an age of great innovation and technological marvel. Artificial intelligence and machine-learning technologies are developing at an insanely fast pace, which resulted in the slightly increased performance of digital applications. A few years ago, chatbots formed a new, highly popular trend and have consistently been regarded as the best potential help for the labor market, slightly reducing the need for staff workload. The chatbot sector is now growing fast, and the total market is predicted to reach around 1.25 billion US dollars in 2025, a significant increase from the market size in 2016, which stood at $190.8 million. While becoming more sophisticated over the years, AI-driven bots are being used more often in various fields: marketing, healthcare, CRM [Customer Relationship Management]. This hypetrain resulted in more efficient solutions and brighter light at the end of the tunnel.
 
-### [32. Applying Machine Learning to Crypto-Sphere: The Good and the Bad Aspects](https://hackernoon.com/4-awesome-ways-machine-learning-is-used-in-the-cryptosphere-yz3g3zrz)
-![](https://cdn.hackernoon.com/drafts/p3yx3z8p.png)
-Anyone who has traded cryptocurrencies or invested in Bitcoin stocks before has been frustrated by the difficulty involved with trying to predict market trends. 
-
-### [33. Football Data Analysis Using Machine Learning Models Can Potentially Boost Throw-Ins!](https://hackernoon.com/football-data-analysis-using-machine-learning-models-can-potentially-boost-throw-ins)
+### [32. Football Data Analysis Using Machine Learning Models Can Potentially Boost Throw-Ins!](https://hackernoon.com/football-data-analysis-using-machine-learning-models-can-potentially-boost-throw-ins)
 ![](https://cdn.hackernoon.com/images/TYAy8YXF3pNC96IPW15fOOqYix43-y092pkc.jpeg)
 “Can machine learning models help improve ball accuracy, precision and retention, leading to scoring after throw-ins?
+
+### [33. Applying Machine Learning to Crypto-Sphere: The Good and the Bad Aspects](https://hackernoon.com/4-awesome-ways-machine-learning-is-used-in-the-cryptosphere-yz3g3zrz)
+![](https://cdn.hackernoon.com/drafts/p3yx3z8p.png)
+Anyone who has traded cryptocurrencies or invested in Bitcoin stocks before has been frustrated by the difficulty involved with trying to predict market trends. 
 
 ### [34. ML Essentials: Top 10 Lists Every Data Scientist Should Know](https://hackernoon.com/ml-essentials-top-10-lists-every-data-scientist-should-know-10f3try)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwMbJVdeGT1X6HWDd10iTNCjtlsF3-x4723tog.jpeg?alt=media&token=b2635cd6-355c-47d7-a704-fef1e38a5c9f)
@@ -176,13 +180,13 @@ This article is about tweaking the softmax distribution to control how diverse a
 ![](https://cdn.hackernoon.com/images/m1JWnUaHzSX3LPHoHfOainoiYvq2-ff313fwy.jpeg)
 I Learned Machine Learning in a Weekend, here's how I did it and the steps that I would recommend to take if you want to do the same!
 
-### [41. A Pleasant Way to Kick Off Your Data Science Education- This is CS50](https://hackernoon.com/this-is-cs50-a-pleasant-way-to-kick-off-your-data-science-education-8d23279i)
-![](https://cdn.hackernoon.com/drafts/z2ep30v8.png)
-So You Want to Get Into Data Science
-
-### [42. Auto-Generating Lyrics With TensorFlow and Machine Learning: A How-To Guide](https://hackernoon.com/auto-generating-lyrics-with-tensorflow-and-machine-learning-a-how-to-guide)
+### [41. Auto-Generating Lyrics With TensorFlow and Machine Learning: A How-To Guide](https://hackernoon.com/auto-generating-lyrics-with-tensorflow-and-machine-learning-a-how-to-guide)
 ![](https://cdn.hackernoon.com/images/15slYp83i4YPGUYRTnko46GRfVv1-ua037b5.png)
 Creating a bot that, given a starting phrase, would generate its own lyrics, powered by a machine learning model that would have learned from existing songs.
+
+### [42. A Pleasant Way to Kick Off Your Data Science Education- This is CS50](https://hackernoon.com/this-is-cs50-a-pleasant-way-to-kick-off-your-data-science-education-8d23279i)
+![](https://cdn.hackernoon.com/drafts/z2ep30v8.png)
+So You Want to Get Into Data Science
 
 ### [43. Kinetics Dataset - Training and Evaluating Models for Video Classification ](https://hackernoon.com/kinetics-dataset-training-and-evaluating-models-for-video-classification)
 ![](https://cdn.hackernoon.com/images/S81YeBIJZKdUUIKm96yuoe7NQ2X2-c5b3q0f.jpeg)
@@ -236,13 +240,13 @@ Recent developments in the field of training Neural Networks (Deep Learning) and
 ![](https://cdn.hackernoon.com/images/8x2g93umw.jpg)
 Introduction
 
-### [56. 8 Machine Learning Trends that Impact Business in 2021 and Beyond](https://hackernoon.com/8-machine-learning-trends-that-impact-business-in-2021-and-beyond)
-![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-qx7356r.jpeg)
-Let’s discover the latest innovations in machine learning in 2021-2022 and go over various examples of how this technology can benefit you and your business.
-
-### [57. Vladimir Vapnik's New Learning Model](https://hackernoon.com/vladimir-vapniks-new-learning-model)
+### [56. Vladimir Vapnik's New Learning Model](https://hackernoon.com/vladimir-vapniks-new-learning-model)
 ![](https://cdn.hackernoon.com/images/TYAy8YXF3pNC96IPW15fOOqYix43-ca93py3.jpeg)
 Vladimir Vapnik recently gave a talk about a new theory of learning he is working on. 
+
+### [57. 8 Machine Learning Trends that Impact Business in 2021 and Beyond](https://hackernoon.com/8-machine-learning-trends-that-impact-business-in-2021-and-beyond)
+![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-qx7356r.jpeg)
+Let’s discover the latest innovations in machine learning in 2021-2022 and go over various examples of how this technology can benefit you and your business.
 
 ### [58. VOGUE by Google, MIT, and UW: The AI-Powered Online Fitting Room](https://hackernoon.com/vogue-by-google-mit-and-uw-the-ai-powered-online-fitting-room-qf31313t)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-0c1831do.jpeg)
@@ -256,13 +260,13 @@ Oh this word has become such a norm today that no matter how fast you try to run
 ![](https://cdn.hackernoon.com/images/kdlc27ox.jpg)
 Today, Netflix open-sourced Polynote, the internal notebook they developed, to the public. It’s not rare these days that big tech companies open sources their internal tools or services, then got popular and adopted by the industry. Amazon AWS, Facebook’s React.js, etc. are two of them. It makes sense. These big tech companies have the best engineers in the industry and more often than not they are facing the biggest challenges that will drive the development of great tools. Netflix’s Polynote could be another one of those great tools and the data science/machine learning industry does need better tools in terms of how to write code, experiment algorithms and visualize data. Here are several things you need to know about this new tool. I’ll try to keep this succinct and to the point so you can quickly read through it and be knowledgeable about the pros and cons of this new choice of our development/research environment.
 
-### [61. Jeremy Howard’s fast.ai vs Andrew Ng’s deeplearning.ai - Are They That Different From Each Other?](https://hackernoon.com/dddd-y73433j3)
-![](https://cdn.hackernoon.com/drafts/dnoj33zg.png)
-How Not to ‘Overfit’ Your AI Learning by Taking Both fast.ai and deeplearning.ai courses
-
-### [62. Detecting Medicare Provider Fraud with Machine Learning](https://hackernoon.com/detecting-medicare-provider-fraud-with-machine-learning)
+### [61. Detecting Medicare Provider Fraud with Machine Learning](https://hackernoon.com/detecting-medicare-provider-fraud-with-machine-learning)
 ![](https://cdn.hackernoon.com/images/uMis7fKnjtNxNgxkvkkAcvRRYoJ3-ex93ofk.jpeg)
 Medicare Healthcare Fraud Provider Prediction #hackernoon #xgboost #medicarefraud #machinelearning #streamlitapp #fraudprovider
+
+### [62. Jeremy Howard’s fast.ai vs Andrew Ng’s deeplearning.ai - Are They That Different From Each Other?](https://hackernoon.com/dddd-y73433j3)
+![](https://cdn.hackernoon.com/drafts/dnoj33zg.png)
+How Not to ‘Overfit’ Your AI Learning by Taking Both fast.ai and deeplearning.ai courses
 
 ### [63. 5 Most Common Chatbot Mistakes made by eCommerce Websites - and How to Avoid Them](https://hackernoon.com/how-to-avoid-these-5-common-ecommerce-chatbot-mistakes-xo3rb300q)
 ![](https://cdn.hackernoon.com/drafts/ml3tj308h.png)
@@ -296,21 +300,21 @@ Since we wrote ModelDB 1.0, a pioneering model versioning system, we have learne
 ![](https://cdn.hackernoon.com/images/ixi32un.jpg)
 For many healthcare providers, the industry is shaping up to be more of a shifting quandary of regulatory issues, financial turmoil, and unforeseeable eruptions of resentment from practitioners on the edge of revolt. The industry is now taking the opportunity to scale up their big data defenses and develop the technological infrastructure required to meet the imminent challenges.
 
-### [71. Machine Learning Explained in 5 Minutes](https://hackernoon.com/machine-learning-explained-in-5-minutes-8u1p37to)
-![](https://cdn.hackernoon.com/images/mnx7OMtAGuQLqjeFQozI5CkUeBs1-efo38gc.jpeg)
-Google uses it to provide millions of search results every hour. It helps Facebook guess your next love interest. Even Elon Musk’s Tesla uses it to make self-dr
-
-### [72. An Introduction to Adversarial Attacks and Defense Strategies](https://hackernoon.com/an-introduction-to-adversarial-attacks-and-defense-strategies-213g33ho)
+### [71. An Introduction to Adversarial Attacks and Defense Strategies](https://hackernoon.com/an-introduction-to-adversarial-attacks-and-defense-strategies-213g33ho)
 ![](https://hackernoon.com/images/D56RD4i5NmY2Ho3se699rJXCCxG3-0ao336t.jpeg)
 Adversarial training was first introduced by Szegedy et al. and is currently the most popular technique of defense against adversarial attacks. 
 
-### [73. The Facial Recognition Industry: A Developer's Perspective](https://hackernoon.com/the-facial-recognition-industry-a-developers-perspective)
-![](https://cdn.hackernoon.com/images/fCLBrul2vhTkS42mI06IuAdfkyN2-h2435sv.png)
-Some informatiom about the facial recognition market size, growth, and forecast from a developer who's working with this technology.
-
-### [74. Fat AI Startups: The 2026 Growth Blueprint for the Post-AI Era](https://hackernoon.com/fat-ai-startups-the-2026-growth-blueprint-for-the-post-ai-era)
+### [72. Fat AI Startups: The 2026 Growth Blueprint for the Post-AI Era](https://hackernoon.com/fat-ai-startups-the-2026-growth-blueprint-for-the-post-ai-era)
 ![](https://cdn.hackernoon.com/images/QCzUXmup1gWrS723VFnOS8C4jQ03-ez23d8q.jpeg)
 Discover why full-stack, outcome-driven AI companies will dominate 2026. Learn the post-AI growth blueprint, multi-agent systems, and outcome-based strategies.
+
+### [73. Machine Learning Explained in 5 Minutes](https://hackernoon.com/machine-learning-explained-in-5-minutes-8u1p37to)
+![](https://cdn.hackernoon.com/images/mnx7OMtAGuQLqjeFQozI5CkUeBs1-efo38gc.jpeg)
+Google uses it to provide millions of search results every hour. It helps Facebook guess your next love interest. Even Elon Musk’s Tesla uses it to make self-dr
+
+### [74. The Facial Recognition Industry: A Developer's Perspective](https://hackernoon.com/the-facial-recognition-industry-a-developers-perspective)
+![](https://cdn.hackernoon.com/images/fCLBrul2vhTkS42mI06IuAdfkyN2-h2435sv.png)
+Some informatiom about the facial recognition market size, growth, and forecast from a developer who's working with this technology.
 
 ### [75. Generative Adversarial Networks (GANs): An Overview](https://hackernoon.com/generative-adversarial-networks-gans-an-overview-h81x3whz)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7ak2yVPeR1U2jfyp58b4NnJvnq03-526k3txm.jpeg?alt=media&token=323dba39-b87c-4b3e-afd0-f6227f87e777)
@@ -324,13 +328,13 @@ How I built a link detector for your smart phone to browse links printed in book
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWjrvhlSLkPX8OhBVNYZoqjJsbbp1-2j333tt2.jpeg?alt=media&token=95dfac0a-793e-4016-9fa4-35a3bda88a58)
 Human perception is multidimensional and a balanced combination of hearing, vision, smell, touch, and taste. Recently, many pieces of research have tried to step forward on the road of improving machine perception by transitioning from single-modality learning to multimodality learning. 
 
-### [78. Boost Your Customer Experience with Predictive Analytics](https://hackernoon.com/how-to-boost-customer-experience-with-predictive-analytics-zjld3z35)
-![](https://cdn.hackernoon.com/drafts/jtnk3z29.png)
-In a world where product differentiators are minimal, customer experience is becoming the decisive factor. In a report by PwC, 73% of respondents listed customer experience as important, yet companies are still not leveraging this opportunity enough. Organizations should also consider that 42% of the same respondents said that they are ready to pay more if that guarantees a better experience. 
-
-### [79. How I Built a Facial Recognition Application Using JavaScript and the Luxand.cloud API](https://hackernoon.com/how-i-built-a-facial-recognition-application-using-javascript-and-the-luxandcloud-api)
+### [78. How I Built a Facial Recognition Application Using JavaScript and the Luxand.cloud API](https://hackernoon.com/how-i-built-a-facial-recognition-application-using-javascript-and-the-luxandcloud-api)
 ![](https://cdn.hackernoon.com/images/fCLBrul2vhTkS42mI06IuAdfkyN2-wf934s9.png)
 Building a facial recognition application with JavaScript is not a daunting task. In this blog post, I'll walk you through the journey of developing one.
+
+### [79. Boost Your Customer Experience with Predictive Analytics](https://hackernoon.com/how-to-boost-customer-experience-with-predictive-analytics-zjld3z35)
+![](https://cdn.hackernoon.com/drafts/jtnk3z29.png)
+In a world where product differentiators are minimal, customer experience is becoming the decisive factor. In a report by PwC, 73% of respondents listed customer experience as important, yet companies are still not leveraging this opportunity enough. Organizations should also consider that 42% of the same respondents said that they are ready to pay more if that guarantees a better experience. 
 
 ### [80. NATURAL LANGUAGE PROCESSING (NLP) | EXPLAINED](https://hackernoon.com/natural-language-processing-nlp-or-explained-mc3ji30oy)
 ![](https://cdn.hackernoon.com/drafts/jy18b30ib.png)
@@ -372,13 +376,13 @@ An overview of the MLOps and AIOps worlds to understand what they mean, how they
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3t022d0.jpeg)
 The night I watched an attack unfold in real-time and our system caught it 47 minutes before anyone else noticed.
 
-### [90. Predictive Early Stopping - A Meta Learning Approach ](https://hackernoon.com/predictive-early-stopping-a-meta-learning-approach-za2d32yk)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ie82rte.jpeg)
-Introduction
-
-### [91. Extending Stochastic Gradient Optimization with ADAM](https://hackernoon.com/extending-stochastic-gradient-optimization-with-adam)
+### [90. Extending Stochastic Gradient Optimization with ADAM](https://hackernoon.com/extending-stochastic-gradient-optimization-with-adam)
 ![](https://cdn.hackernoon.com/images/y6UAeSDne9TFEXZXvyojmbuc4UV2-9b0353y.gif.webp)
 Discover gradient descent and its variants, including Adam optimizer. Learn how Adam simplifies machine learning optimization with efficiency and adaptability!
+
+### [91. Predictive Early Stopping - A Meta Learning Approach ](https://hackernoon.com/predictive-early-stopping-a-meta-learning-approach-za2d32yk)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ie82rte.jpeg)
+Introduction
 
 ### [92. Behavioral Signals Analyzes Human Behavior from Voice Data](https://hackernoon.com/behavioral-signals-analyzes-human-behavior-from-voice-data)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-6p039yn.jpeg)
@@ -396,25 +400,25 @@ Learn algebraic and geometric interpretations of vectors, how to visualize them 
 ![](https://cdn.hackernoon.com/drafts/r45213w50.png)
 Machine learning is a lot of strategies by which PCs settle on choices self-governing. Utilizing certain systems, PCs settle on choices by considering or recognizing designs in past records and afterward anticipating future events. Diverse sorts of expectations are conceivable, for example, about climate conditions and house costs. Aside from expectations, machines have figured out how to perceive faces in photos, and significantly sift through email spam. 
 
-### [96. Mastering the Craft of Prompting: Unleashing AI's Full Potential](https://hackernoon.com/mastering-the-craft-of-prompting-unleashing-ais-full-potential)
+### [96. From 322,000 Lines to 43,000: Why Cursor Deleted Their CMS](https://hackernoon.com/from-322000-lines-to-43000-why-cursor-deleted-their-cms)
+![](https://cdn.hackernoon.com/images/IyQZHo2kbGUoKy7NfNp866DGK2G2-g903gtt.png)
+The old world is collapsing. UX teams. UI frameworks. Backend services. Middleware.
+
+### [97. Mastering the Craft of Prompting: Unleashing AI's Full Potential](https://hackernoon.com/mastering-the-craft-of-prompting-unleashing-ais-full-potential)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-6b030vy.jpeg)
 This blog explores prompts in GenAI, their importance, and key principles to craft effective, impactful prompts. 
 
-### [97. Building A Chatbot On Your Own Might Not Make As Much Sense As You Think](https://hackernoon.com/building-a-chatbot-on-your-own-might-not-make-as-much-sense-as-you-think-8t423zz5)
+### [98. Building A Chatbot On Your Own Might Not Make As Much Sense As You Think](https://hackernoon.com/building-a-chatbot-on-your-own-might-not-make-as-much-sense-as-you-think-8t423zz5)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGPWtDVRw0oWCLyyZB3TTzZ7tkpD3-eq213tev.jpeg?alt=media&token=4ace9cc9-1e07-4810-964a-53be869423a8)
 Over the past decade plus, chatbots have dominated the conversation (no pun intended) when it comes to digital engagement. You’ve undoubtedly had experiences interacting with them, some helpful while others underwhelming, and perhaps even fiddled around with building one on your own. 
 
-### [98. GPU Computing for Machine Learning](https://hackernoon.com/gpu-computing-for-machine-learning-id2b34d6)
+### [99. GPU Computing for Machine Learning](https://hackernoon.com/gpu-computing-for-machine-learning-id2b34d6)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-tn17311w.jpeg)
 By taking advantage of the parallel computing capabilities of GPUs, a significant decrease in computational time can be achieved relative to traditional CPU
 
-### [99. Naive Sentiment Analysis Using R](https://hackernoon.com/naive-sentiment-analysis-using-r-ng5d36n1)
+### [100. Naive Sentiment Analysis Using R](https://hackernoon.com/naive-sentiment-analysis-using-r-ng5d36n1)
 ![](https://cdn.hackernoon.com/drafts/vcl3vrh.png)
 Cleuton Sampaio, October 2019
-
-### [100. From 322,000 Lines to 43,000: Why Cursor Deleted Their CMS](https://hackernoon.com/from-322000-lines-to-43000-why-cursor-deleted-their-cms)
-![](https://cdn.hackernoon.com/images/IyQZHo2kbGUoKy7NfNp866DGK2G2-g903gtt.png)
-The old world is collapsing. UX teams. UI frameworks. Backend services. Middleware.
 
 ### [101. 7 Competition-Killing Ways To Use Machine Learning for Ecommerce Brands](https://hackernoon.com/7-competition-killing-ways-to-use-machine-learning-for-ecommerce-brands-7qx32vc)
 ![](https://cdn.hackernoon.com/images/UMWsM1o4heNs4zSQxiATmFMmCjR2-05i0316f.png)

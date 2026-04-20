@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [crypto-wallet](https://hackernoon.com/tagged/crypto-wallet)
+### Let's learn about [Crypto Wallet](https://hackernoon.com/tagged/crypto-wallet) via these 170 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A crypto wallet is a software application or physical device that stores the public and private keys needed to interact with a blockchain and manage cryptocurrencies. It is fundamental for securing, sending, and receiving digital assets, enabling participation in the cryptocurrency ecosystem.
+
 ### [1. How to Withdraw from MetaMask to Your Bank Account](https://hackernoon.com/how-to-withdraw-from-metamask-to-your-bank-account)
 ![](https://cdn.hackernoon.com/images/Bm6Dk7O9xqaIxfKLbfh8LQkOJos2-5af3vo4.jpeg)
 To withdraw crypto from Metamask to your bank, transfer your crypto from Metamask to Binance and then withdraw your crypto from Binance to your bank account.
@@ -140,13 +144,13 @@ Crypto wallets can be categorized into two types: hot (online) and cold (offline
 ![](https://cdn.hackernoon.com/images/MuSFgklRr4RMpUZrrxDxDr6lRFy2-aam3p0p.jpeg)
 Sometimes the EOS platform is advertised as an ecosystem that doesn't require any fees for making transactions. Technically, it is true. However, if you try to make an EOS transaction you will eventually find out that you need to put some of your EOS coins on hold. 
 
-### [33. Creating a Web3 Application with the Coinbase Wallet SDK](https://hackernoon.com/creating-a-web3-application-with-the-coinbase-wallet-sdk)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-9093z8y.jpeg)
-Confused about where to start with Web3? John Vester shows how easy it is to get started using the Coinbase developer tools.
-
-### [34. Cwallet Launches Next-Gen Wallet and CozyCard Redesign: Elevating Crypto to Real-World Spending](https://hackernoon.com/cwallet-launches-next-gen-wallet-and-cozycard-redesign-elevating-crypto-to-real-world-spending)
+### [33. Cwallet Launches Next-Gen Wallet and CozyCard Redesign: Elevating Crypto to Real-World Spending](https://hackernoon.com/cwallet-launches-next-gen-wallet-and-cozycard-redesign-elevating-crypto-to-real-world-spending)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-ee0383v.jpeg)
 Cwallet’s next-gen wallet and CozyCard redesign make it easy to hold, earn, and spend crypto globally—no banks, no credit checks, just pure usability.
+
+### [34. Creating a Web3 Application with the Coinbase Wallet SDK](https://hackernoon.com/creating-a-web3-application-with-the-coinbase-wallet-sdk)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-9093z8y.jpeg)
+Confused about where to start with Web3? John Vester shows how easy it is to get started using the Coinbase developer tools.
 
 ### [35. Signup or Login with Web3.0 Wallet to HackerNoon](https://hackernoon.com/signup-or-login-with-web30-wallet-to-hackernoon)
 ![](https://cdn.hackernoon.com/images/m1JWnUaHzSX3LPHoHfOainoiYvq2-jud30pd.jpeg)
@@ -168,13 +172,13 @@ We use to call Metamask a wallet, but is it really a wallet? Do we store our fun
 ![](https://cdn.hackernoon.com/images/YxxDd6fjiwZ45IqoKxuWJmTCdE53-zu93prp.jpeg)
 Be it a hot wallet or cold wallet, it's important to understand your options for storing and protecting your cryptocurrency before you start investing.
 
-### [40. Four Must Have Wallets in 2024 from the Plethora of Crypto Wallets Out There ](https://hackernoon.com/four-must-have-wallets-in-2024-from-the-plethora-of-crypto-wallets-out-there)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-y4831xo.jpeg)
-Explore the top crypto wallets of 2024, each excelling in security, trading, and multi-chain support, ensuring your digital assets are well-protected.
-
-### [41. Meet Cwallet: HackerNoon Company of the Week](https://hackernoon.com/meet-cwallet-hackernoon-company-of-the-week)
+### [40. Meet Cwallet: HackerNoon Company of the Week](https://hackernoon.com/meet-cwallet-hackernoon-company-of-the-week)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-zf03bj7.png)
 HackerNoon features Cwallet, as company of the week.
+
+### [41. Four Must Have Wallets in 2024 from the Plethora of Crypto Wallets Out There ](https://hackernoon.com/four-must-have-wallets-in-2024-from-the-plethora-of-crypto-wallets-out-there)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-y4831xo.jpeg)
+Explore the top crypto wallets of 2024, each excelling in security, trading, and multi-chain support, ensuring your digital assets are well-protected.
 
 ### [42. What is a Crypto Testnet and What Can You Do On It?](https://hackernoon.com/what-is-a-crypto-testnet-and-what-can-you-do-on-it)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-x493rs2.jpeg)
@@ -200,9 +204,9 @@ Learn how to set up the popular Bitcoin wallet, Exodus. We'll guide you through 
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-jj93hdd.jpeg)
 Let's explore how to maximize your metamask wallet for defi trading on ethereum and bsc.
 
-### [48. Tech Giant’s Interest Sends Cryptocurrency Prices Sharply Higher](https://hackernoon.com/tech-giants-interest-sends-cryptocurrency-prices-sharply-higher-4j1u37kx)
-![](https://cdn.hackernoon.com/images/s7Uy4vUGHkagAvzLcOwQqTObOP03-9et35tv.jpeg)
-The crypto market boost comes after the technology giants Amazon and Twitter both disclosed the fact that they are taking cryptocurrencies more seriously
+### [48. How Mixin Built a $1 Trillion Volume Crypto Wallet That Prioritizes Privacy Over Profit](https://hackernoon.com/how-mixin-built-a-$1-trillion-volume-crypto-wallet-that-prioritizes-privacy-over-profit)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-v603f4y.png)
+Sonny Liu, CMO of Mixin, reveals how the company has processed over $1 trillion in volume while building privacy and encrypted communication into its crypto wal
 
 ### [49. Top 5 Crypto Hack Horror Stories](https://hackernoon.com/top-5-crypto-hack-horror-stories)
 ![](https://cdn.hackernoon.com/images/kHmjlBgSzubv4ecXBQJFooO88AF2-jw93s1b.jpeg)
@@ -214,17 +218,17 @@ Top Five Incidents Where Users Lost Their Crypto Assets To Hacks
 ![](https://cdn.hackernoon.com/images/MildjKUxEYMxiz4D3zS1sb2wm2C3-ht93yt1.png)
 A quick explanation of what happened to Solana. How the hack happened and the culprit.
 
-### [51. The Cheapest Crypto Marketing Agencies for Low-Budget Projects](https://hackernoon.com/the-cheapest-crypto-marketing-agencies-for-low-budget-projects)
+### [51. Tech Giant’s Interest Sends Cryptocurrency Prices Sharply Higher](https://hackernoon.com/tech-giants-interest-sends-cryptocurrency-prices-sharply-higher-4j1u37kx)
+![](https://cdn.hackernoon.com/images/s7Uy4vUGHkagAvzLcOwQqTObOP03-9et35tv.jpeg)
+The crypto market boost comes after the technology giants Amazon and Twitter both disclosed the fact that they are taking cryptocurrencies more seriously
+
+### [52. The Cheapest Crypto Marketing Agencies for Low-Budget Projects](https://hackernoon.com/the-cheapest-crypto-marketing-agencies-for-low-budget-projects)
 ![](https://cdn.hackernoon.com/images/4FnNVQr5WaVz9Pb3rjDALHRb4XA2-409367y.jpeg)
 This article will explore five of the cheapest crypto marketing agencies available today. All offer affordable crypto advertising solutions.
 
-### [52. Decentralized Wallets: Leveraging the Strength of Software Wallets](https://hackernoon.com/decentralized-wallets-leveraging-the-strength-of-software-wallets)
+### [53. Decentralized Wallets: Leveraging the Strength of Software Wallets](https://hackernoon.com/decentralized-wallets-leveraging-the-strength-of-software-wallets)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-b3033vy.jpeg)
 Decentralised wallets, or DeFi wallets are a gateway to the world of Decentralised Applications, that helps users store their digital assets in a safe way. 
-
-### [53. How Mixin Built a $1 Trillion Volume Crypto Wallet That Prioritizes Privacy Over Profit](https://hackernoon.com/how-mixin-built-a-$1-trillion-volume-crypto-wallet-that-prioritizes-privacy-over-profit)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-v603f4y.png)
-Sonny Liu, CMO of Mixin, reveals how the company has processed over $1 trillion in volume while building privacy and encrypted communication into its crypto wal
 
 ### [54. A Crypto Wallet Guide Even Your Parents Will Understand](https://hackernoon.com/a-crypto-wallet-guide-even-your-parents-will-understand-m17q32wv)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-ssu32cp.jpeg)
@@ -250,13 +254,13 @@ What is ERC-4337? The ERC-4337 standard allows account abstraction and wallet re
 ![](https://cdn.hackernoon.com/images/1gXU03t5E4MEV2CvITPNPjUit0z2-g6938bm.jpeg)
 A web3 wallet is essentially a set of keys which give you access to the blockchain. 
 
-### [60. Stop Relying On Sole Private Keys: The SMPC Approach to Crypto-Wallets [Deep Dive]](https://hackernoon.com/stop-relying-on-sole-private-keys-the-smpc-approach-to-crypto-wallets-deep-dive-pafi327d)
-![](https://cdn.hackernoon.com/images/m834v32xc.jpg)
-There are no doubts that crypto is a unique ecosystem from different points of view. A lot of enthusiasts could talk here about decentralization, transparency, alternative for fiat money and other things, that are well-known by anyone, who is in crypto. 
-
-### [61. Harmony's Horizon Bridge Attack: How $100M was Siphoned Off By a Hacker](https://hackernoon.com/harmonys-horizon-bridge-attack-how-dollar100m-was-siphoned-by-a-hacker)
+### [60. Harmony's Horizon Bridge Attack: How $100M was Siphoned Off By a Hacker](https://hackernoon.com/harmonys-horizon-bridge-attack-how-dollar100m-was-siphoned-by-a-hacker)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-uk93ptf.jpeg)
 The attack was successful because two validators' private keys were suspected to be compromised. 
+
+### [61. Stop Relying On Sole Private Keys: The SMPC Approach to Crypto-Wallets [Deep Dive]](https://hackernoon.com/stop-relying-on-sole-private-keys-the-smpc-approach-to-crypto-wallets-deep-dive-pafi327d)
+![](https://cdn.hackernoon.com/images/m834v32xc.jpg)
+There are no doubts that crypto is a unique ecosystem from different points of view. A lot of enthusiasts could talk here about decentralization, transparency, alternative for fiat money and other things, that are well-known by anyone, who is in crypto. 
 
 ### [62. Account Abstraction: The True Path to Mass Blockchain Adoption](https://hackernoon.com/account-abstraction-the-true-path-to-mass-blockchain-adoption)
 ![](https://cdn.hackernoon.com/images/3TqyfQkvJMULEFNC6w4wbAKVLbg2-k5e36aa.jpeg)
@@ -278,41 +282,41 @@ In this AMA, Nicholas Gregory, creator of Mercury Wallet, tells us about bitcoin
 ![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-3v437qy.jpeg)
 Binance is known for it's cheap fees and many users: Coinbase on the other hand has less US regulations and more security. Find out which platform to use here.
 
-### [67. Top 20 Crypto Wallet Development Companies & Services Providers](https://hackernoon.com/top-20-crypto-wallet-development-companies-and-services-providers)
-![](https://cdn.hackernoon.com/images/LRtCcUrY9PVRJfWUMWcCtMuziIH2-sza3h3f.jpeg)
-Here is the list of top 20 crypto wallet development companies in USA, UK, India. White label Cryptocurrency wallet development services companies to hire.
+### [67. Behind Trust Wallet: A Glimpse into the World's Leading Multi-chain Crypto Wallet](https://hackernoon.com/behind-trust-wallet-a-glimpse-into-the-worlds-leading-multi-chain-crypto-wallet)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-1y93tnu.jpeg)
+Eowyn emphasizes security in the crypto realm amidst rising cybersecurity threats.
 
 ### [68. 3 Tips in Crypto Trading From Ukrainian🇺🇦 Traders](https://hackernoon.com/3-tips-in-crypto-trading-from-ukrainian-traders)
 ![](https://cdn.hackernoon.com/images/nlWFn2yg8JNL6FbLXqt0LtEzQ5l2-u5f3ns4.jpeg)
 A very interesting point, scalping for the USA is trading on a chart, in Ukraine, they came up with a special tool for this and a number of strategies for it. Y
 
-### [69. How to Secure Your Crypto Funds: A Full Guide](https://hackernoon.com/how-to-secure-your-crypto-funds-a-full-guide)
-![](https://cdn.hackernoon.com/images/0ATeKdQghCQEis5o1LeiTzbxK663-u9a3onk.jpeg)
-Protecting your cryptocurrency funds is a very important task. You need to be aware of the latest scams and hacks that can compromise your security.
+### [69. Top 20 Crypto Wallet Development Companies & Services Providers](https://hackernoon.com/top-20-crypto-wallet-development-companies-and-services-providers)
+![](https://cdn.hackernoon.com/images/LRtCcUrY9PVRJfWUMWcCtMuziIH2-sza3h3f.jpeg)
+Here is the list of top 20 crypto wallet development companies in USA, UK, India. White label Cryptocurrency wallet development services companies to hire.
 
-### [70. Behind Trust Wallet: A Glimpse into the World's Leading Multi-chain Crypto Wallet](https://hackernoon.com/behind-trust-wallet-a-glimpse-into-the-worlds-leading-multi-chain-crypto-wallet)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-1y93tnu.jpeg)
-Eowyn emphasizes security in the crypto realm amidst rising cybersecurity threats.
-
-### [71. How I Found a Vulnerability in a Crypto Wallet and Made $1,000](https://hackernoon.com/how-i-found-a-vulnerability-in-a-crypto-wallet-and-made-$1000)
+### [70. How I Found a Vulnerability in a Crypto Wallet and Made $1,000](https://hackernoon.com/how-i-found-a-vulnerability-in-a-crypto-wallet-and-made-$1000)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-qc92iuh.jpeg)
 Be aware of the technologies you use and their security aspects.
 
-### [72. True Decentralization is the Key to Cross-chain Bridge Security](https://hackernoon.com/true-decentralization-is-the-key-to-cross-chain-bridge-security)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ku931ne.jpeg)
-That said, even though today’s bridging solutions are not without their shortcomings, cross-chain bridging is a mandatory feature for blockchains. 
+### [71. How to Secure Your Crypto Funds: A Full Guide](https://hackernoon.com/how-to-secure-your-crypto-funds-a-full-guide)
+![](https://cdn.hackernoon.com/images/0ATeKdQghCQEis5o1LeiTzbxK663-u9a3onk.jpeg)
+Protecting your cryptocurrency funds is a very important task. You need to be aware of the latest scams and hacks that can compromise your security.
 
-### [73. When Random Isn’t Random: How Weak Keys Still Drain Crypto Wallets](https://hackernoon.com/when-random-isnt-random-how-weak-keys-still-drain-crypto-wallets)
+### [72. When Random Isn’t Random: How Weak Keys Still Drain Crypto Wallets](https://hackernoon.com/when-random-isnt-random-how-weak-keys-still-drain-crypto-wallets)
 ![](https://cdn.hackernoon.com/images/KTsAalOsFZcNRUZ8VTJlXGrvLZo1-8q03bj8.png)
 Decade of crypto hacks traced to weak randomness in wallet keys, from Android’s 2013 bug to Profanity’s $160M Ethereum exploit.
 
-### [74. Trust Wallet Review: A User's Perspective](https://hackernoon.com/trust-wallet-review-a-users-perspective)
-![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-xk437z7.jpeg)
-There are many crypto wallets available for users around the globe, but Trust Wallet has taken a high ranking amongst other apps: find out why in this piece.
+### [73. True Decentralization is the Key to Cross-chain Bridge Security](https://hackernoon.com/true-decentralization-is-the-key-to-cross-chain-bridge-security)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ku931ne.jpeg)
+That said, even though today’s bridging solutions are not without their shortcomings, cross-chain bridging is a mandatory feature for blockchains. 
 
-### [75. A Beginner's Guide to Protecting your NFTs and Other Digital Assets](https://hackernoon.com/a-beginners-guide-to-protecting-your-nfts-and-other-digital-assets)
+### [74. A Beginner's Guide to Protecting your NFTs and Other Digital Assets](https://hackernoon.com/a-beginners-guide-to-protecting-your-nfts-and-other-digital-assets)
 ![](https://cdn.hackernoon.com/images/0xgxm0rlq5Pn6VKRpdJqG5IU7w03-9c03fjq.jpeg)
 Crypto security should be a top priority for everyone. In this article, I go over some best practices and securities tips so you can keep your assets secure.
+
+### [75. Trust Wallet Review: A User's Perspective](https://hackernoon.com/trust-wallet-review-a-users-perspective)
+![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-xk437z7.jpeg)
+There are many crypto wallets available for users around the globe, but Trust Wallet has taken a high ranking amongst other apps: find out why in this piece.
 
 ### [76. Educational Byte: How to Use Smart Contracts Without Coding?](https://hackernoon.com/educational-byte-how-to-use-smart-contracts-without-coding)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-nd93tm6.jpeg)
@@ -354,33 +358,33 @@ How to create a wallet using Tatum to connect to blockchain APIs. This one is ma
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-t1a3wvz.jpeg)
 In a Web3 world, would you be more or less helpless to respond to events in real life?
 
-### [86. Binance App: Details, Features, Payments in 2021](https://hackernoon.com/binance-app-details-features-payments-in-2021-6am327l)
+### [86. A Simple Guide to Getting Started With MetaMask](https://hackernoon.com/a-simple-guide-to-getting-started-with-metamask)
+![](https://cdn.hackernoon.com/images/iIULlfgJXlcLwLEXLBaijYFcj803-0783ka1.jpeg)
+A beginner's guide to using the MetaMask browser extension - set up a wallet, receive test currency, make blockchain transactions, swap tokens, and more. 
+
+### [87. Binance App: Details, Features, Payments in 2021](https://hackernoon.com/binance-app-details-features-payments-in-2021-6am327l)
 ![](https://cdn.hackernoon.com/images/lULaNwh3IjS5beJlfIa3GeX2qPq1-zdc9359x.jpeg)
 Binance app is a reliable forex and crypto broker for you to use. Buy and sell crypto easily on Binance wherever you are, with the lowest fees ever
 
-### [87. THORWallet DEX: Filling the DeFi Retail Market Gap](https://hackernoon.com/filling-the-defi-retail-market-gap)
+### [88. THORWallet DEX: Filling the DeFi Retail Market Gap](https://hackernoon.com/filling-the-defi-retail-market-gap)
 ![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-3593bzt.jpeg)
 Decentralized finance (DeFi) is democratizing finance by replacing outdated institutions and legacy infrastructure with peer-to-peer networks.
-
-### [88. How to Save Your Crypto Safely: Overview of Non-Custodial Wallets](https://hackernoon.com/how-to-save-your-crypto-safely-overview-of-non-custodial-wallets)
-![](https://cdn.hackernoon.com/images/5rS4yrERbxUtfUCTsrb3x2kieP32-6ed3wif.jpeg)
-The authorities can block accounts on crypto exchanges. How to save crypto safely: overview of non-custodial wallets. Metamask, Trust Wallet, Phantom, Ledger
 
 ### [89. Educational Byte: Custodial vs. Non-custodial Crypto Wallets](https://hackernoon.com/educational-byte-custodial-vs-non-custodial-crypto-wallets)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-oq033xo.jpeg)
 The definition of custodial and non-custodial is about the essential private keys. You need to know this before choosing your crypto wallets.
 
-### [90. A Simple Guide to Getting Started With MetaMask](https://hackernoon.com/a-simple-guide-to-getting-started-with-metamask)
-![](https://cdn.hackernoon.com/images/iIULlfgJXlcLwLEXLBaijYFcj803-0783ka1.jpeg)
-A beginner's guide to using the MetaMask browser extension - set up a wallet, receive test currency, make blockchain transactions, swap tokens, and more. 
+### [90. How to Save Your Crypto Safely: Overview of Non-Custodial Wallets](https://hackernoon.com/how-to-save-your-crypto-safely-overview-of-non-custodial-wallets)
+![](https://cdn.hackernoon.com/images/5rS4yrERbxUtfUCTsrb3x2kieP32-6ed3wif.jpeg)
+The authorities can block accounts on crypto exchanges. How to save crypto safely: overview of non-custodial wallets. Metamask, Trust Wallet, Phantom, Ledger
 
-### [91. Findora Triple Masking SDK: Groundbreaking Privacy Solution for Decentralized Applications](https://hackernoon.com/findora-triple-masking-sdk-groundbreaking-privacy-solution-for-decentralized-applications)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-ti93pw0.jpeg)
-Findora Triple Masking is a new privacy-preserving solution for the Web3 ecosystem.
-
-### [92. Venom Blockchain Strikes with Impressive First Testnet Launch, Minting Over 1 Million NFTs!](https://hackernoon.com/venom-blockchain-strikes-with-impressive-first-testnet-launch-minting-over-1-million-nfts)
+### [91. Venom Blockchain Strikes with Impressive First Testnet Launch, Minting Over 1 Million NFTs!](https://hackernoon.com/venom-blockchain-strikes-with-impressive-first-testnet-launch-minting-over-1-million-nfts)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-8y93pl6.jpeg)
 Venom has seen over 220,000 unique wallets created, 69,000,000 transactions completed, and 1,370,189 NFTs minted.
+
+### [92. Findora Triple Masking SDK: Groundbreaking Privacy Solution for Decentralized Applications](https://hackernoon.com/findora-triple-masking-sdk-groundbreaking-privacy-solution-for-decentralized-applications)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-ti93pw0.jpeg)
+Findora Triple Masking is a new privacy-preserving solution for the Web3 ecosystem.
 
 ### [93. How to Secure Your Crypto Wallet](https://hackernoon.com/how-to-secure-your-crypto-wallet)
 ![](https://cdn.hackernoon.com/images/33Y4I3YTzVcXWyxSdXwVycW84ql2-9ra3oey.jpeg)
@@ -398,293 +402,301 @@ I checked my Blockchain.com wallet and checked the Bitcoin explorer. All funds w
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-9893r1h.jpeg)
 Cryptocurrencies have taken the world by storm, but with this growth comes a corresponding increase in the risk of fraud and scams.
 
-### [97. What are Crypto Hosted Services and Why Does Elon Musk Hate Them?](https://hackernoon.com/what-are-crypto-hosted-services-and-why-does-elon-musk-hate-them-24w338g)
+### [97. Swap to QIE for Free: QIE Wallet Rolls Out Major Integrations, ISIN Approval and March Upgrades](https://hackernoon.com/swap-to-qie-for-free-qie-wallet-rolls-out-major-integrations-isin-approval-and-march-upgrades)
+![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-ks93hyb.jpeg)
+Users can now swap into QIE with zero wallet swap fees for a limited promotional period, dramatically lowering the barrier to entry. A major upgrade to QIE Pass
+
+### [98. Walbi Launches No-Code AI Trading Agents For Retail Crypto Traders](https://hackernoon.com/walbi-launches-no-code-ai-trading-agents-for-retail-crypto-traders)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-8n83fvr.jpeg)
+Traders can now build, test, and launch their own AI-driven agents without writing a single line of code.
+
+### [99. What are Crypto Hosted Services and Why Does Elon Musk Hate Them?](https://hackernoon.com/what-are-crypto-hosted-services-and-why-does-elon-musk-hate-them-24w338g)
 ![](https://cdn.hackernoon.com/images/iwYYV1LriEaT7d6rN7rWN595K7w1-imb134ev.jpeg)
 On February 10, Tesla and SpaceX CEO Elon Musk via Twitter called on people to avoid hosted services, whatever it takes.
-
-### [98. Crypto on-the-go? 4 Wallet Apps Compared](https://hackernoon.com/crypto-wallets-compared-xapo-vs-zumo-vs-xpocket-vs-bread-wallet-qv4z339i)
-![](https://cdn.hackernoon.com/images/gW54tsMEjpSGNI2OvRWVLcsWJtD3-sm3p3bbe.jpeg)
-Cryptocurrencies are back in the spotlight. Here are 4 easy to use crypto wallets that could help onboard the everyday user 
-
-### [99. Natural Capital in the Digital Economy: Green Squared ](https://hackernoon.com/natural-capital-in-the-digital-economy-green-squared)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-5603o95.jpeg)
-Is natural capital boring and obsolete, or an under-served and under-appreciated asset class that will explode in relevance in the future, just as NFTs have?
 
 ### [100. Frictionless Web3 Wallet Integration In 2 Lines Of Code ](https://hackernoon.com/frictionless-web3-wallet-integration-in-2-lines-of-code)
 ![](https://cdn.hackernoon.com/images/xctuCN1PqQYt33TVk3HMgJ1gDq22-q493l6w.jpeg)
 The future of Web3 lies in simplified onboarding for both users and developers with wallets as a gateway — leveraging account abstraction benefits and SDKs. 
 
-### [101. WaaP Launches on Sui: How human.tech Is Transforming Access for 3 Million Crypto Users](https://hackernoon.com/waap-launches-on-sui-how-humantech-is-transforming-access-for-3-million-crypto-users)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-xt83e06.png)
-WaaP launches on Sui as the first decentralized embedded wallet layer, offering seedless login with no custody risk via Ika's MPC network.
-
-### [102. Introducing Reunit Wallet's New Rewards Program: Trade to Earn](https://hackernoon.com/introducing-reunit-wallets-new-rewards-program-trade-to-earn)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-64832uc.jpeg)
-In an effort to stimulate trading activity on its integrated platform and attract new users, Reunit Wallet is implementing a reward system for traders.
-
-### [103. The Future Of Web3 Logins Is…Email And Password?!](https://hackernoon.com/the-future-of-web3-logins-isemail-and-password)
+### [101. The Future Of Web3 Logins Is…Email And Password?!](https://hackernoon.com/the-future-of-web3-logins-isemail-and-password)
 ![](https://cdn.hackernoon.com/images/T4Y05LFiNecsLbaxZ3sy6m2T7Aj1-xza3qte.jpeg)
 One Of The Challenges Before Wider Adoption Of Crypto And DeFi Is Key Management. Surprisingly Enough, The Web2 Concept Of Email Login Can Solve It.
+
+### [102. Crypto on-the-go? 4 Wallet Apps Compared](https://hackernoon.com/crypto-wallets-compared-xapo-vs-zumo-vs-xpocket-vs-bread-wallet-qv4z339i)
+![](https://cdn.hackernoon.com/images/gW54tsMEjpSGNI2OvRWVLcsWJtD3-sm3p3bbe.jpeg)
+Cryptocurrencies are back in the spotlight. Here are 4 easy to use crypto wallets that could help onboard the everyday user 
+
+### [103. D’CENT Wallet Launches Third ‘Tap That Drop’ Campaign With Taiko ](https://hackernoon.com/dcent-wallet-launches-third-tap-that-drop-campaign-with-taiko)
+![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-l003886.png)
+Now, D’CENT is evolving beyond secure storage, aiming to become a full-featured and intuitive Web3 platform that integrates portfolio tools, ecosystem discovery
 
 ### [104. Educational Byte: Smart Contracts vs. Autonomous Agents](https://hackernoon.com/educational-byte-smart-contracts-vs-autonomous-agents)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-p92381g.png)
 Smart contracts and Autonomous Agents in Obyte have different strengths. This overview helps you see how each one works and when they shine.
 
-### [105. “Web3 Without Wallets?” - My Journey into Invisible UX ](https://hackernoon.com/web3-without-wallets-my-journey-into-invisible-ux)
+### [105. WaaP Launches on Sui: How human.tech Is Transforming Access for 3 Million Crypto Users](https://hackernoon.com/waap-launches-on-sui-how-humantech-is-transforming-access-for-3-million-crypto-users)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-xt83e06.png)
+WaaP launches on Sui as the first decentralized embedded wallet layer, offering seedless login with no custody risk via Ika's MPC network.
+
+### [106. Introducing Reunit Wallet's New Rewards Program: Trade to Earn](https://hackernoon.com/introducing-reunit-wallets-new-rewards-program-trade-to-earn)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-64832uc.jpeg)
+In an effort to stimulate trading activity on its integrated platform and attract new users, Reunit Wallet is implementing a reward system for traders.
+
+### [107. Natural Capital in the Digital Economy: Green Squared ](https://hackernoon.com/natural-capital-in-the-digital-economy-green-squared)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-5603o95.jpeg)
+Is natural capital boring and obsolete, or an under-served and under-appreciated asset class that will explode in relevance in the future, just as NFTs have?
+
+### [108. “Web3 Without Wallets?” - My Journey into Invisible UX ](https://hackernoon.com/web3-without-wallets-my-journey-into-invisible-ux)
 ![](https://cdn.hackernoon.com/images/QSxyNPZCAcfy9nd9xupmOq1YmHs2-bi03b9g.png)
 A personal deep dive into invisible wallets, embedded UX, and account abstraction how Web3 can finally onboard the next billion users, especially in India. 
-
-### [106. Crypto Wallets in 2022 and Why They're Important](https://hackernoon.com/crypto-wallets-in-2022-and-why-theyre-important)
-![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-vi92duq.jpeg)
-Crypto Wallets are no less important in 2022. Thanks to the ever-present risk of hacking and a need to store your cryptocurrencies somewhere, wallets are here.
-
-### [107. D’CENT Wallet Launches Third ‘Tap That Drop’ Campaign With Taiko ](https://hackernoon.com/dcent-wallet-launches-third-tap-that-drop-campaign-with-taiko)
-![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-l003886.png)
-Now, D’CENT is evolving beyond secure storage, aiming to become a full-featured and intuitive Web3 platform that integrates portfolio tools, ecosystem discovery
-
-### [108. Secure Crypto Asset Management for Institutions: A Discussion with Bentzi Rabi, CEO of Utila](https://hackernoon.com/secure-crypto-asset-management-for-institutions-a-discussion-with-bentzi-rabi-ceo-of-utila)
-![](https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-54a2seg.jpeg)
-A conversation with Bentzi Rabi, CEO and Co-Founder of Utila, on the problems enterprises face when adopting crypto and possible solutions.
 
 ### [109. The Day I Realized My Smart Contract Was the Bug](https://hackernoon.com/the-day-i-realized-my-smart-contract-was-the-bug)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3t023i4.jpeg)
 The “perfect” on-chain architecture of Web3 payments seemed self-evident, but it wasn’t working. 
 
-### [110. Your Crypto Assets Are as Safe as Your Blockchain Wallet](https://hackernoon.com/your-crypto-assets-are-as-safe-as-your-blockchain-wallet-la1q373c)
+### [110. Crypto Wallets in 2022 and Why They're Important](https://hackernoon.com/crypto-wallets-in-2022-and-why-theyre-important)
+![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-vi92duq.jpeg)
+Crypto Wallets are no less important in 2022. Thanks to the ever-present risk of hacking and a need to store your cryptocurrencies somewhere, wallets are here.
+
+### [111. Secure Crypto Asset Management for Institutions: A Discussion with Bentzi Rabi, CEO of Utila](https://hackernoon.com/secure-crypto-asset-management-for-institutions-a-discussion-with-bentzi-rabi-ceo-of-utila)
+![](https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-54a2seg.jpeg)
+A conversation with Bentzi Rabi, CEO and Co-Founder of Utila, on the problems enterprises face when adopting crypto and possible solutions.
+
+### [112. Why Human.tech Just Killed the Crypto Wallet (And What It Built Instead)](https://hackernoon.com/why-humantech-just-killed-the-crypto-wallet-and-what-it-built-instead)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-ep83e3a.png)
+Human.tech launches Agentic WaaP at WalletCon 2026, a protocol letting AI agents act autonomously while keeping humans as final authority.
+
+### [113. Your Crypto Assets Are as Safe as Your Blockchain Wallet](https://hackernoon.com/your-crypto-assets-are-as-safe-as-your-blockchain-wallet-la1q373c)
 ![](https://cdn.hackernoon.com/images/ez3m0khh35XoWqHZh0ryQ55u4gk1-ia2o358b.jpeg)
 As crypto trading becomes more and more common, it's especially important to make sure you keep your assets safe. Read on to know how to protect yourself.
 
-### [111. Swap to QIE for Free: QIE Wallet Rolls Out Major Integrations, ISIN Approval and March Upgrades](https://hackernoon.com/swap-to-qie-for-free-qie-wallet-rolls-out-major-integrations-isin-approval-and-march-upgrades)
-![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-ks93hyb.jpeg)
-Users can now swap into QIE with zero wallet swap fees for a limited promotional period, dramatically lowering the barrier to entry. A major upgrade to QIE Pass
-
-### [112. Keycard Launches Pre-Sale For Shell: The Most Open, Modular Hardware Wallet To Date](https://hackernoon.com/keycard-launches-pre-sale-for-shell-the-most-open-modular-hardware-wallet-to-date)
+### [114. Keycard Launches Pre-Sale For Shell: The Most Open, Modular Hardware Wallet To Date](https://hackernoon.com/keycard-launches-pre-sale-for-shell-the-most-open-modular-hardware-wallet-to-date)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-il02592.jpeg)
 Designed with modularity, transparency, and uncompromising security at its core, Shell enables users to seamlessly manage multiple wallets through interchangeab
 
-### [113. 5 NFT Security Tips for Pro Collectors and The Rest of Us](https://hackernoon.com/5-nft-security-tips-for-pro-collectors-and-the-rest-of-us)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-r092ai9.jpeg)
-In this article, I'll go over five NFT security tips to ensure the safety of your digital assets.
-
-### [114. The Upsurge Of FinTech And FinTech Trends To Watch Out For In 2021](https://hackernoon.com/the-upsurge-of-fintech-and-fintech-trends-to-watch-out-for-in-2021-jr5f332b)
-![](https://cdn.hackernoon.com/images/KGeTkVFk0DfBRSrt6WSz7dvF71r1-ie2l326v.jpeg)
-The 6 technology trends we've discussed in this article cumulatively pave the way for greater efficiency and security for the FinTech world.
-
-### [115. Introducing Llavero: The $1 Hardware Wallet!](https://hackernoon.com/introducing-llavero-the-$1-hardware-wallet)
-![](https://cdn.hackernoon.com/images/Rv4Y4IbrYPZnBst1iqB47DtZdSm2-wu92vwa.png)
-Discover Llavero Wallet, a self-service solution that simplifies secure self-custody of digital assets using AWS KMS. 
-
-### [116. FTX Insolvency Shows the Importance of Personally Controlling your Crypto](https://hackernoon.com/ftx-insolvency-shows-the-importance-of-personally-controlling-your-crypto)
-![](https://cdn.hackernoon.com/images/wfm0qi0hmxcUYRnXg9j6NlR61V82-ef93on0.jpeg)
-This story will explore the the importance of personally controlling your crypto
-
-### [117. How to Keep Your Crypto Safe](https://hackernoon.com/how-to-keep-your-crypto-safe)
-![](https://cdn.hackernoon.com/images/ZW20EUTPJfhox7MUgWdXzwwwm2g1-x4135e2.jpeg)
-Keeping your crypto safe is crucial. In this article, I talk about various ways of protecting your investment.
-
-### [118. Walbi Launches No-Code AI Trading Agents For Retail Crypto Traders](https://hackernoon.com/walbi-launches-no-code-ai-trading-agents-for-retail-crypto-traders)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-8n83fvr.jpeg)
-Traders can now build, test, and launch their own AI-driven agents without writing a single line of code.
-
-### [119. Bcon Global Launches Non-Custodial Crypto Payment Gateway](https://hackernoon.com/bcon-global-launches-non-custodial-crypto-payment-gateway)
+### [115. Bcon Global Launches Non-Custodial Crypto Payment Gateway](https://hackernoon.com/bcon-global-launches-non-custodial-crypto-payment-gateway)
 ![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-vo0372d.jpeg)
 The platform enables cryptocurrency payments without custody, KYC, or access to private keys, providing full control over funds. The service provides infrastruc
 
-### [120. Empowering Self-Sovereignty - Interview with Startups of the Year Nominee, Cypherock ](https://hackernoon.com/empowering-self-sovereignty-interview-with-startups-of-the-year-nominee-cypherock)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-qj93rcp.jpeg)
-Cypherock is building the world's safest cold wallet for storing your crypto and NFTs. Read about the team and it's mission - Startup of the Year - Cypherock 
+### [116. 5 NFT Security Tips for Pro Collectors and The Rest of Us](https://hackernoon.com/5-nft-security-tips-for-pro-collectors-and-the-rest-of-us)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-r092ai9.jpeg)
+In this article, I'll go over five NFT security tips to ensure the safety of your digital assets.
 
-### [121. Democratizing Cryptocurrency With Chat-Based Wallets](https://hackernoon.com/democratizing-cryptocurrency-with-chat-based-wallets)
+### [117. Democratizing Cryptocurrency With Chat-Based Wallets](https://hackernoon.com/democratizing-cryptocurrency-with-chat-based-wallets)
 ![](https://cdn.hackernoon.com/images/YRKuB1GmYbXk8zbMBLJHYnL2nXk1-wa027gg.png)
 Chat-based cryptocurrency wallets integrate with p2p chat and online community apps and platforms to simplify crypto transactions.
 
-### [122. Why You Might Want Several Crypto Wallets (Even With Few Funds)](https://hackernoon.com/why-you-might-want-several-crypto-wallets-even-with-few-funds)
-![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-am3360s.png)
-Ever wondered why some people keep extra crypto wallets? Here's why it matters. How many do you use?
+### [118. The Upsurge Of FinTech And FinTech Trends To Watch Out For In 2021](https://hackernoon.com/the-upsurge-of-fintech-and-fintech-trends-to-watch-out-for-in-2021-jr5f332b)
+![](https://cdn.hackernoon.com/images/KGeTkVFk0DfBRSrt6WSz7dvF71r1-ie2l326v.jpeg)
+The 6 technology trends we've discussed in this article cumulatively pave the way for greater efficiency and security for the FinTech world.
 
-### [123. #OneMillionWallets Hackathon](https://hackernoon.com/onemillionwallets-hackathon)
-![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-rv0328d.jpeg)
-#OneMillionWallets is a crypto-wallet competition offering prizes of over $20,000 USD (equivalent) for the hackathon and community challenges.
+### [119. Introducing Llavero: The $1 Hardware Wallet!](https://hackernoon.com/introducing-llavero-the-$1-hardware-wallet)
+![](https://cdn.hackernoon.com/images/Rv4Y4IbrYPZnBst1iqB47DtZdSm2-wu92vwa.png)
+Discover Llavero Wallet, a self-service solution that simplifies secure self-custody of digital assets using AWS KMS. 
 
-### [124. The Future of Crypto Wallets - Do We Really Need Seed Phrases?](https://hackernoon.com/the-future-of-crypto-wallets-do-we-really-need-seed-phrases)
-![](https://cdn.hackernoon.com/images/RrXJtkPPKZWNRCuHlWJyINqGIZ72-j6833f9.jpeg)
-Janine Grainger, Founder and CEO of Easy Crypto, looks at whether seed phrases and their associated vulnerabilities are an inevitable part of the crypto journey
+### [120. FTX Insolvency Shows the Importance of Personally Controlling your Crypto](https://hackernoon.com/ftx-insolvency-shows-the-importance-of-personally-controlling-your-crypto)
+![](https://cdn.hackernoon.com/images/wfm0qi0hmxcUYRnXg9j6NlR61V82-ef93on0.jpeg)
+This story will explore the the importance of personally controlling your crypto
 
-### [125. An Intro to Superb Wallet: Our Journey to Save Web3 Gaming](https://hackernoon.com/an-intro-to-superb-wallet-our-journey-to-save-web3-gaming)
-![](https://cdn.hackernoon.com/images/metaverse-game-world-clgu9ic6l000001s66ahba3r0.png)
-There can be little doubt that Web3 gaming is an extremely attractive industry, even in its infancy. So how can it be better fostered? 
+### [121. How to Keep Your Crypto Safe](https://hackernoon.com/how-to-keep-your-crypto-safe)
+![](https://cdn.hackernoon.com/images/ZW20EUTPJfhox7MUgWdXzwwwm2g1-x4135e2.jpeg)
+Keeping your crypto safe is crucial. In this article, I talk about various ways of protecting your investment.
 
-### [126. Why Understanding Digital Wallets is Key for Central Banks Desiring Widespread CBDC Implementation](https://hackernoon.com/why-understanding-digital-wallets-is-key-for-central-banks-desiring-widespread-cbdc-implementation)
-![](https://cdn.hackernoon.com/images/3pTeNO1AnShySIvjgizFrTlMh2j2-xx93jvs.jpeg)
-Governments must identify, discuss, and ideate their wallet choices when thinking about CBDCs, incorporating key policy considerations for true defi for all.
+### [122. Empowering Self-Sovereignty - Interview with Startups of the Year Nominee, Cypherock ](https://hackernoon.com/empowering-self-sovereignty-interview-with-startups-of-the-year-nominee-cypherock)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-qj93rcp.jpeg)
+Cypherock is building the world's safest cold wallet for storing your crypto and NFTs. Read about the team and it's mission - Startup of the Year - Cypherock 
 
-### [127. BTCC TradFi Hits $200M Volume And Celebrates With Zero-Fee Campaign on Gold and Silver](https://hackernoon.com/btcc-tradfi-hits-$200m-volume-and-celebrates-with-zero-fee-campaign-on-gold-and-silver)
+### [123. BTCC TradFi Hits $200M Volume And Celebrates With Zero-Fee Campaign on Gold and Silver](https://hackernoon.com/btcc-tradfi-hits-$200m-volume-and-celebrates-with-zero-fee-campaign-on-gold-and-silver)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-sr83hic.jpeg)
 Participants can earn up to 10g of gold by reaching the milestone of 5,000,00
 
-### [128. Educational Byte: New Sending Options in the Obyte Wallet](https://hackernoon.com/educational-byte-new-sending-options-in-the-obyte-wallet)
+### [124. An Intro to Superb Wallet: Our Journey to Save Web3 Gaming](https://hackernoon.com/an-intro-to-superb-wallet-our-journey-to-save-web3-gaming)
+![](https://cdn.hackernoon.com/images/metaverse-game-world-clgu9ic6l000001s66ahba3r0.png)
+There can be little doubt that Web3 gaming is an extremely attractive industry, even in its infancy. So how can it be better fostered? 
+
+### [125. Why You Might Want Several Crypto Wallets (Even With Few Funds)](https://hackernoon.com/why-you-might-want-several-crypto-wallets-even-with-few-funds)
+![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-am3360s.png)
+Ever wondered why some people keep extra crypto wallets? Here's why it matters. How many do you use?
+
+### [126. #OneMillionWallets Hackathon](https://hackernoon.com/onemillionwallets-hackathon)
+![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-rv0328d.jpeg)
+#OneMillionWallets is a crypto-wallet competition offering prizes of over $20,000 USD (equivalent) for the hackathon and community challenges.
+
+### [127. The Future of Crypto Wallets - Do We Really Need Seed Phrases?](https://hackernoon.com/the-future-of-crypto-wallets-do-we-really-need-seed-phrases)
+![](https://cdn.hackernoon.com/images/RrXJtkPPKZWNRCuHlWJyINqGIZ72-j6833f9.jpeg)
+Janine Grainger, Founder and CEO of Easy Crypto, looks at whether seed phrases and their associated vulnerabilities are an inevitable part of the crypto journey
+
+### [128. The Crypto Wallet Mistake That Cost Me My USDC](https://hackernoon.com/the-crypto-wallet-mistake-that-cost-me-my-usdc)
+![](https://cdn.hackernoon.com/images/wgdTKHoKNgN48nObNBOTGr0lLis1-5e03wqx.jpeg)
+I lost crypto in a wallet breach. Learn how it happened, what I did wrong, and the security steps every user should take to avoid getting scammed.
+
+### [129. Why Understanding Digital Wallets is Key for Central Banks Desiring Widespread CBDC Implementation](https://hackernoon.com/why-understanding-digital-wallets-is-key-for-central-banks-desiring-widespread-cbdc-implementation)
+![](https://cdn.hackernoon.com/images/3pTeNO1AnShySIvjgizFrTlMh2j2-xx93jvs.jpeg)
+Governments must identify, discuss, and ideate their wallet choices when thinking about CBDCs, incorporating key policy considerations for true defi for all.
+
+### [130. Educational Byte: New Sending Options in the Obyte Wallet](https://hackernoon.com/educational-byte-new-sending-options-in-the-obyte-wallet)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-x0031af.png)
 The Obyte network was updated, and with it, its native wallet --now including new features to enjoy! Let's learn more about it.
 
-### [129. Do Unhosted Wallets Dream of Network Fees?](https://hackernoon.com/do-unhosted-wallets-dream-of-network-fees)
+### [131. Do Unhosted Wallets Dream of Network Fees?](https://hackernoon.com/do-unhosted-wallets-dream-of-network-fees)
 ![](https://cdn.hackernoon.com/images/1It0QuVo1Pg3seyub7xAcc9CWof2-sq92vqo.jpeg)
 Why are blockchain devs ignoring non-custodial cryptocurrency wallets? This is a huge injustice because of how it can affect the cryptocurrency ecosystem.
 
-### [130. Startup Interview with Antonio Peláez, Dapp CEO & Cofounder](https://hackernoon.com/startup-interview-with-antonio-pelaez-dapp-ceo-and-cofounder)
-![](https://cdn.hackernoon.com/images/NBNDJ0xVJggmj3dGCuLdl6q9til2-435735wq.jpeg)
-Dapp was nominated as one of the best startups in Queretaro in Startups of the Year hosted by HackerNoon.
-
-### [131. Revolutionizing International Trade: 5 Key Benefits of the ArbStore](https://hackernoon.com/revolutionizing-international-trade-5-key-benefits-of-the-arbstore)
+### [132. Revolutionizing International Trade: 5 Key Benefits of the ArbStore](https://hackernoon.com/revolutionizing-international-trade-5-key-benefits-of-the-arbstore)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-zna3z7c.jpeg)
 ArbStore is a platform that revolutionizes dispute resolution in international trade online. It offers a secure decentralized escrow with incredible benefits.
-
-### [132. Exclusive Interview with Everspace Team: From Idea to Multichain Wallet Release](https://hackernoon.com/exclusive-interview-with-everspace-team-from-idea-to-multichain-wallet-release)
-![](https://cdn.hackernoon.com/images/ANdDUZCX7rbGGUY9Uhedg1VoSfb2-cs9364s.jpeg)
- I am glad to present an exclusive interview with Vitaliy Gritsai, Everspace Crypto Wallet Product Manager.
 
 ### [133. How to Set Conditions for Your Crypto Payments on Obyte](https://hackernoon.com/how-to-set-conditions-for-your-crypto-payments-on-obyte)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-9w93oqk.jpeg)
 By binding a crypto payment to a specific condition, anyone could recover their money in the case that condition isn't met. Learn how!
 
-### [134. The Crypto Wallet Mistake That Cost Me My USDC](https://hackernoon.com/the-crypto-wallet-mistake-that-cost-me-my-usdc)
-![](https://cdn.hackernoon.com/images/wgdTKHoKNgN48nObNBOTGr0lLis1-5e03wqx.jpeg)
-I lost crypto in a wallet breach. Learn how it happened, what I did wrong, and the security steps every user should take to avoid getting scammed.
+### [134. Startup Interview with Antonio Peláez, Dapp CEO & Cofounder](https://hackernoon.com/startup-interview-with-antonio-pelaez-dapp-ceo-and-cofounder)
+![](https://cdn.hackernoon.com/images/NBNDJ0xVJggmj3dGCuLdl6q9til2-435735wq.jpeg)
+Dapp was nominated as one of the best startups in Queretaro in Startups of the Year hosted by HackerNoon.
 
-### [135. Safe Storage: Hacks vs. Vulnerabilities](https://hackernoon.com/safe-storage-hacks-vs-vulnerabilities-4g2r31s5)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-9h2731ee.jpeg)
-Vulnerabilities found in hardware wallets is to be expected. All systems are hackable. The safest place for your coins is still your private keys. 
+### [135. Exclusive Interview with Everspace Team: From Idea to Multichain Wallet Release](https://hackernoon.com/exclusive-interview-with-everspace-team-from-idea-to-multichain-wallet-release)
+![](https://cdn.hackernoon.com/images/ANdDUZCX7rbGGUY9Uhedg1VoSfb2-cs9364s.jpeg)
+ I am glad to present an exclusive interview with Vitaliy Gritsai, Everspace Crypto Wallet Product Manager.
 
 ### [136. Can We Eliminate the Need for Crypto Wallets in dApps?](https://hackernoon.com/can-we-eliminate-the-need-for-crypto-wallets-in-dapps)
 ![](https://cdn.hackernoon.com/images/nBdoW8QYRDe9SsSWMEq8GSCsU6p2-f1936za.jpeg)
 By using one of these methods, a user no longer needs a wallet. Applications can sign transactions on behalf of users. 
 
-### [137. Cryptnox - Unveiling the CryptoCard Provider Business Solution](https://hackernoon.com/cryptnox-unveiling-the-cryptocard-provider-business-solution)
+### [137. Safe Storage: Hacks vs. Vulnerabilities](https://hackernoon.com/safe-storage-hacks-vs-vulnerabilities-4g2r31s5)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-9h2731ee.jpeg)
+Vulnerabilities found in hardware wallets is to be expected. All systems are hackable. The safest place for your coins is still your private keys. 
+
+### [138. Cryptnox - Unveiling the CryptoCard Provider Business Solution](https://hackernoon.com/cryptnox-unveiling-the-cryptocard-provider-business-solution)
 ![](https://cdn.hackernoon.com/images/4FnNVQr5WaVz9Pb3rjDALHRb4XA2-8r83cn2.png)
 Cryptnox's main idea is to bring the simplicity of credit and debit cards to the complex world of cryptocurrencies. 
 
-### [138. Creating Contracts with Arbitration in Obyte Wallet: A Step-by-Step Guide](https://hackernoon.com/creating-contracts-with-arbitration-in-obyte-wallet-a-step-by-step-guide)
+### [139. Creating Contracts with Arbitration in Obyte Wallet: A Step-by-Step Guide](https://hackernoon.com/creating-contracts-with-arbitration-in-obyte-wallet-a-step-by-step-guide)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-se93yo9.jpeg)
 This quick guide will walk you through the process of creating a contract with arbitration in the Obyte wallet and choosing an arbiter easily. Let's go!
 
-### [139. Komodo Introduces “Komodo Wallet”: the Ultimate Decentralized Non-Custodial Solution](https://hackernoon.com/komodo-introduces-komodo-wallet-the-ultimate-decentralized-non-custodial-solution)
+### [140. Komodo Introduces “Komodo Wallet”: the Ultimate Decentralized Non-Custodial Solution](https://hackernoon.com/komodo-introduces-komodo-wallet-the-ultimate-decentralized-non-custodial-solution)
 ![](https://cdn.hackernoon.com/images/a-wallet-that-can-hold-the-world-zlss0asgpnqpfy1m0ubwgpys.png)
 Komodo Introduces “Komodo Wallet”: the Ultimate Decentralized Non-Custodial Solution, launches Komodo SDK. 
 
-### [140. CBDCs: Innovation For Better Monetary Policies](https://hackernoon.com/cbdcs-innovation-for-better-monetary-policies-k95y31p6)
-![](https://cdn.hackernoon.com/images/wYVsaB2md5QrfgtiJtxj5uzlACo2-qi1o31y7.jpeg)
-Over the last decade, the monetary policies of Central Banks haven't helped much the global economy and all have failed to meet their targets. Since the global financial crisis of 2008, Central Banks like the ECB have neither succeed to meet their inflation targets nor to restore the economic activity. Central Banks have also failed to innovate and adopt new technologies and systems that may solve many issues. However, the last few months this has changed as they have started to examine the new technologies like DLT or blockchain.
-
-### [141. Implementing Crypto Payments Into Business Systems ](https://hackernoon.com/implementing-crypto-payments-into-business-systems)
-![](https://cdn.hackernoon.com/images/V2uqwi6cHOSQ9XYURd6Tg8DkKzx2-lj93pmk.jpeg)
-Implementing crypto payments as a business solution, integrating API and plug ins
-
-### [142. Prominent Crypto Wallets in The African Space](https://hackernoon.com/prominent-crypto-wallets-in-the-african-space)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-pk83k6j.jpeg)
-Explore leading crypto wallets in Africa - Binance, Luno, Quidax, and more.
-
-### [143. What Happens When You Sign a Crypto Transaction (And What Could Go Wrong)](https://hackernoon.com/what-happens-when-you-sign-a-crypto-transaction-and-what-could-go-wrong)
+### [141. What Happens When You Sign a Crypto Transaction (And What Could Go Wrong)](https://hackernoon.com/what-happens-when-you-sign-a-crypto-transaction-and-what-could-go-wrong)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-r3035nk.png)
 Signing a crypto transaction gives approval and proves ownership, but rushing it can lead to costly mistakes if you’re not paying attention.
 
-### [144. Educational Byte: How to Become an Order Provider in Obyte](https://hackernoon.com/educational-byte-how-to-become-an-order-provider-in-obyte)
-![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-l7034cd.png)
-The Obyte network has space for 12 Order Providers, and you could be one of them and receive rewards. Learn how! 
+### [142. CBDCs: Innovation For Better Monetary Policies](https://hackernoon.com/cbdcs-innovation-for-better-monetary-policies-k95y31p6)
+![](https://cdn.hackernoon.com/images/wYVsaB2md5QrfgtiJtxj5uzlACo2-qi1o31y7.jpeg)
+Over the last decade, the monetary policies of Central Banks haven't helped much the global economy and all have failed to meet their targets. Since the global financial crisis of 2008, Central Banks like the ECB have neither succeed to meet their inflation targets nor to restore the economic activity. Central Banks have also failed to innovate and adopt new technologies and systems that may solve many issues. However, the last few months this has changed as they have started to examine the new technologies like DLT or blockchain.
 
-### [145. 85 Stories To Learn About Crypto Wallet](https://hackernoon.com/85-stories-to-learn-about-crypto-wallet)
-![](https://cdn.hackernoon.com/images/github/crypto-wallet-284.png)
-Learn everything you need to know about Crypto Wallet via these 85 free HackerNoon stories.
+### [143. Implementing Crypto Payments Into Business Systems ](https://hackernoon.com/implementing-crypto-payments-into-business-systems)
+![](https://cdn.hackernoon.com/images/V2uqwi6cHOSQ9XYURd6Tg8DkKzx2-lj93pmk.jpeg)
+Implementing crypto payments as a business solution, integrating API and plug ins
+
+### [144. Prominent Crypto Wallets in The African Space](https://hackernoon.com/prominent-crypto-wallets-in-the-african-space)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-pk83k6j.jpeg)
+Explore leading crypto wallets in Africa - Binance, Luno, Quidax, and more.
+
+### [145. Educational Byte: How to Create Your Own Token on Obyte in 10 Minutes](https://hackernoon.com/educational-byte-how-to-create-your-own-token-on-obyte-in-10-minutes)
+![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-t4835qt.png)
+You can quickly and securely create your own customized token in Obyte, without coding, including its own parameters and minimal fees. 
+
 
 ### [146. Remittix Announces Beta Web3 Wallet Launch Date, Presale Passes $18.7M With Upcoming CEX Listings ](https://hackernoon.com/remittix-announces-beta-web3-wallet-launch-date-presale-passes-$187m-with-upcoming-cex-listings)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-l8135yx.jpeg)
 This listing process offers committed investors and engaged community participants the opportunity to be among the first to try out Remittix's
 
-### [147. Educational Byte: How to Create Your Own Token on Obyte in 10 Minutes](https://hackernoon.com/educational-byte-how-to-create-your-own-token-on-obyte-in-10-minutes)
-![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-t4835qt.png)
-You can quickly and securely create your own customized token in Obyte, without coding, including its own parameters and minimal fees. 
+### [147. Educational Byte: How to Become an Order Provider in Obyte](https://hackernoon.com/educational-byte-how-to-become-an-order-provider-in-obyte)
+![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-l7034cd.png)
+The Obyte network has space for 12 Order Providers, and you could be one of them and receive rewards. Learn how! 
 
+### [148. 85 Stories To Learn About Crypto Wallet](https://hackernoon.com/85-stories-to-learn-about-crypto-wallet)
+![](https://cdn.hackernoon.com/images/github/crypto-wallet-284.png)
+Learn everything you need to know about Crypto Wallet via these 85 free HackerNoon stories.
 
-### [148. Reimagining the Global Financial Infrastructure](https://hackernoon.com/reimagining-the-global-financial-infrastructure)
+### [149. Reimagining the Global Financial Infrastructure](https://hackernoon.com/reimagining-the-global-financial-infrastructure)
 ![](https://cdn.hackernoon.com/images/global-finance-bpc1alsulmyf3n2wsu540cxd.png)
 Reimagining Global Financial Infrastructure
 
-### [149. TOMI App launches The Super App Of Web3](https://hackernoon.com/tomi-app-launches-the-super-app-of-web3)
+### [150. TOMI App launches The Super App Of Web3](https://hackernoon.com/tomi-app-launches-the-super-app-of-web3)
 ![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-g403d42.png)
 The app combines a messaging interface with a built-in Web3 wallet, monetization tools for content creators, and multi-profile support—delivering a smooth, Web2
 
-### [150. Crypto Troubleshooting: Simple Solutions to Common Problems](https://hackernoon.com/crypto-troubleshooting-simple-solutions-to-common-problems)
+### [151. Crypto Troubleshooting: Simple Solutions to Common Problems](https://hackernoon.com/crypto-troubleshooting-simple-solutions-to-common-problems)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-2y032t5.png)
 Whether transferring funds, managing private keys, or dealing with network settings, crypto users may face some technical hiccups. Let’s explore some cases.
 
 
-### [151. Crypto Is Up. Is the Bottom in?](https://hackernoon.com/crypto-is-up-is-the-bottom-in)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-c7e3t9o.jpeg)
-Crypto's up 70% this year but the calls for "one last crash" seem to get louder each time bitcoin's price goes up. As far as I can tell, the situation's clear. 
-
-### [152. Meet Simple App: The Most Intuitive Crypto Wallet](https://hackernoon.com/meet-simple-app-the-most-intuitive-crypto-wallet)
-![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-3r039v5.png)
- It’s exciting, sure — but also intimidating as hell. But not the Simple App — crypto wallet crypto wallet designed to be clear and easy for everyone.
-
-### [153. Building DeFi 2.0 With Cross Chain Compatibility](https://hackernoon.com/building-defi-20-with-cross-chain-compatibility)
-![](https://cdn.hackernoon.com/images/1du5sm3DaKfa8Hn94CaNwN5AAeE2-gj03jsq.jpeg)
-Clover's wallet provides industry-leading cross-chain compatibility and solves a major issue in the DeFi landscape.
-
-### [154. The Spectrum of Crypto Custodianship: Why Non-custodial Wallets Are Attracting Users](https://hackernoon.com/the-spectrum-of-crypto-custodianship-why-non-custodial-wallets-are-attracting-users)
-![](https://cdn.hackernoon.com/images/R6DNwDxxRPhDCPViwFGqEmsgrzu1-6493wc8.jpeg)
-Non-custodial wallets are the line between custodianship and self-custody. This spectrum offers vast possibilities, which will lead to mainstream adoption.
-
-### [155. Will Account Abstraction Speed Up Crypto Mass Adoption?](https://hackernoon.com/will-account-abstraction-speed-up-crypto-mass-adoption)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ib93opn.jpeg)
-Will attract the masses to crypto? Even though the idea has lots of benefits, at this stage, it looks to be more beneficial to developers than to ordinary users
-
-### [156. How Brave Browser Gained the Favor of Crypto Enthusiasts](https://hackernoon.com/how-brave-browser-gained-the-favor-of-crypto-enthusiasts)
-![](https://cdn.hackernoon.com/images/8p8IxkWAJjd9oOV4n3ziAatoTGb2-8f0389t.jpeg)
-By leveraging early adopters across verticals, Brave is compounding network effects. Users like a holistic interface. Investors look at the Sum of the Parts.
-
-### [157. Ethereum vs. Obyte: A Comparison — Or How to Choose the Best One for You](https://hackernoon.com/ethereum-vs-obyte-a-comparison-or-how-to-choose-the-best-one-for-you)
-![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-jb93zby.jpeg)
-Depending on what you’re looking for or even your programming level (that could be zero), Obyte or Ethereum would be the most convenient for your needs.
-
-### [158. Republic Introduces Self-Custodial Multi-Chain Wallet to Global Community ](https://hackernoon.com/republic-introduces-self-custodia-multi-chain-wallet-to-global-community)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ni93soe.jpeg)
-Republic, a digital finance leader, has announced the launch of its fully integrated digital wallet to its global community of more than three million members.
-
-### [159. Dawn is Breaking for the Daylight NFT WAllet](https://hackernoon.com/dawn-is-breaking-for-the-daylight-nft-wallet)
-![](https://cdn.hackernoon.com/images/QEKwOaPQmAdJzsofGdl67h67WFn1-dbv3i0i.jpeg)
-Daylight is a new service that tracks what your wallet can do at any given time. It pulls together all of your current holdings and web3 opportunities.
-
-### [160. Remittix Presale Raises $17M After Revealing Next-Gen Web3 Wallet Beta Launch Date](https://hackernoon.com/remittix-presale-raises-$17m-after-revealing-next-gen-web3-wallet-beta-launch-date)
+### [152. Remittix Presale Raises $17M After Revealing Next-Gen Web3 Wallet Beta Launch Date](https://hackernoon.com/remittix-presale-raises-$17m-after-revealing-next-gen-web3-wallet-beta-launch-date)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-9z03b7k.jpeg)
 Remittix is laying the groundwork for something even more significant: to bring crypto into the realm of everyday transactions, especially in places where money
 
-### [161. Venom's Public Testnet Launch Brings Scalable and Licensed Blockchain Solutions to Abu Dhabi Global ](https://hackernoon.com/venoms-public-testnet-launch-brings-scalable-and-licensed-blockchain-solutions-to-abu-dhabi-global)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-l093pbl.jpeg)
-Venom, the first licenced blockchain in the Abu Dhabi Global Market, has debuted its public testnet.
+### [153. Meet Simple App: The Most Intuitive Crypto Wallet](https://hackernoon.com/meet-simple-app-the-most-intuitive-crypto-wallet)
+![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-3r039v5.png)
+ It’s exciting, sure — but also intimidating as hell. But not the Simple App — crypto wallet crypto wallet designed to be clear and easy for everyone.
 
-### [162. G-Knot Appoints Crypto Veteran Wes Kaplan As CEO, Launches The First Finger Vein Biometric Wallet](https://hackernoon.com/g-knot-appoints-crypto-veteran-wes-kaplan-as-ceo-launches-the-first-finger-vein-biometric-wallet)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-3i03bcj.jpeg)
-Strategic leadership appointment positions G-Knot to redefine digital security and identity management 
+### [154. Crypto Is Up. Is the Bottom in?](https://hackernoon.com/crypto-is-up-is-the-bottom-in)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-c7e3t9o.jpeg)
+Crypto's up 70% this year but the calls for "one last crash" seem to get louder each time bitcoin's price goes up. As far as I can tell, the situation's clear. 
 
-### [163. Educational Byte: What Is a Multi-Signature Wallet and What Can You Do With It?](https://hackernoon.com/educational-byte-what-is-a-multi-signature-wallet-and-what-can-you-do-with-it)
+### [155. Building DeFi 2.0 With Cross Chain Compatibility](https://hackernoon.com/building-defi-20-with-cross-chain-compatibility)
+![](https://cdn.hackernoon.com/images/1du5sm3DaKfa8Hn94CaNwN5AAeE2-gj03jsq.jpeg)
+Clover's wallet provides industry-leading cross-chain compatibility and solves a major issue in the DeFi landscape.
+
+### [156. The Spectrum of Crypto Custodianship: Why Non-custodial Wallets Are Attracting Users](https://hackernoon.com/the-spectrum-of-crypto-custodianship-why-non-custodial-wallets-are-attracting-users)
+![](https://cdn.hackernoon.com/images/R6DNwDxxRPhDCPViwFGqEmsgrzu1-6493wc8.jpeg)
+Non-custodial wallets are the line between custodianship and self-custody. This spectrum offers vast possibilities, which will lead to mainstream adoption.
+
+### [157. Dawn is Breaking for the Daylight NFT WAllet](https://hackernoon.com/dawn-is-breaking-for-the-daylight-nft-wallet)
+![](https://cdn.hackernoon.com/images/QEKwOaPQmAdJzsofGdl67h67WFn1-dbv3i0i.jpeg)
+Daylight is a new service that tracks what your wallet can do at any given time. It pulls together all of your current holdings and web3 opportunities.
+
+### [158. Will Account Abstraction Speed Up Crypto Mass Adoption?](https://hackernoon.com/will-account-abstraction-speed-up-crypto-mass-adoption)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ib93opn.jpeg)
+Will attract the masses to crypto? Even though the idea has lots of benefits, at this stage, it looks to be more beneficial to developers than to ordinary users
+
+### [159. Ethereum vs. Obyte: A Comparison — Or How to Choose the Best One for You](https://hackernoon.com/ethereum-vs-obyte-a-comparison-or-how-to-choose-the-best-one-for-you)
+![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-jb93zby.jpeg)
+Depending on what you’re looking for or even your programming level (that could be zero), Obyte or Ethereum would be the most convenient for your needs.
+
+### [160. How Brave Browser Gained the Favor of Crypto Enthusiasts](https://hackernoon.com/how-brave-browser-gained-the-favor-of-crypto-enthusiasts)
+![](https://cdn.hackernoon.com/images/8p8IxkWAJjd9oOV4n3ziAatoTGb2-8f0389t.jpeg)
+By leveraging early adopters across verticals, Brave is compounding network effects. Users like a holistic interface. Investors look at the Sum of the Parts.
+
+### [161. Republic Introduces Self-Custodial Multi-Chain Wallet to Global Community ](https://hackernoon.com/republic-introduces-self-custodia-multi-chain-wallet-to-global-community)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ni93soe.jpeg)
+Republic, a digital finance leader, has announced the launch of its fully integrated digital wallet to its global community of more than three million members.
+
+### [162. Educational Byte: What Is a Multi-Signature Wallet and What Can You Do With It?](https://hackernoon.com/educational-byte-what-is-a-multi-signature-wallet-and-what-can-you-do-with-it)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-m783zc3.jpeg)
 Imagine having a crypto wallet that's not just secure but also allows you to share control (and funds) with others. That's a multi-signature wallet.
 
-### [164. I Tried Building My Resume on the Blockchain — Here’s What Worked (And What Didn’t)](https://hackernoon.com/i-tried-building-my-resume-on-the-blockchain-heres-what-worked-and-what-didnt)
+### [163. Venom's Public Testnet Launch Brings Scalable and Licensed Blockchain Solutions to Abu Dhabi Global ](https://hackernoon.com/venoms-public-testnet-launch-brings-scalable-and-licensed-blockchain-solutions-to-abu-dhabi-global)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-l093pbl.jpeg)
+Venom, the first licenced blockchain in the Abu Dhabi Global Market, has debuted its public testnet.
+
+### [164. G-Knot Appoints Crypto Veteran Wes Kaplan As CEO, Launches The First Finger Vein Biometric Wallet](https://hackernoon.com/g-knot-appoints-crypto-veteran-wes-kaplan-as-ceo-launches-the-first-finger-vein-biometric-wallet)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-3i03bcj.jpeg)
+Strategic leadership appointment positions G-Knot to redefine digital security and identity management 
+
+### [165. I Tried Building My Resume on the Blockchain — Here’s What Worked (And What Didn’t)](https://hackernoon.com/i-tried-building-my-resume-on-the-blockchain-heres-what-worked-and-what-didnt)
 ![](https://cdn.hackernoon.com/images/pG0KGnqd2vaHB41S8Pf4VPSf1On1-jo03df7.png)
 A personal experiment in replacing my traditional résumé with a Skill Wallet on the blockchain. What worked, what failed, and why it may be the future of provin
-
-### [165. The HackerNoon Newsletter: Heres Why AI Can’t Replace You (9/24/2025)](https://hackernoon.com/9-24-2025-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_297_ie7mapapbe4gp0177n22do27.png)
-9/24/2025: Top 5 stories on the HackerNoon homepage!
 
 ### [166. Fintopio’s Multi-Platform CeDeFi Wallet Connects Telegram, Mobile, and Web Users](https://hackernoon.com/fintopios-multi-platform-cedefi-wallet-connects-telegram-mobile-and-web-users)
 ![](https://cdn.hackernoon.com/images/iRbOHPwIo2hED0rACW3cailrVtl2-3603g3o.png)
 With over 2 million active monthly users since its beta launch in April 2024, Fintopio has proven its ability to attract and retain a diverse audience.
 
-### [167. Introducing dApps and Crypto  Exchanges](https://hackernoon.com/introducing-dapps-and-crypto-exchanges)
+### [167. The HackerNoon Newsletter: Heres Why AI Can’t Replace You (9/24/2025)](https://hackernoon.com/9-24-2025-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_297_ie7mapapbe4gp0177n22do27.png)
+9/24/2025: Top 5 stories on the HackerNoon homepage!
+
+### [168. Introducing dApps and Crypto  Exchanges](https://hackernoon.com/introducing-dapps-and-crypto-exchanges)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-jy93v1l.jpeg)
 Crypto exchanges are platforms that allow users to trade cryptocurrencies.
 
-### [168. How Ledger Stays Ahead of the Competition With Effective Web3 Collabs](https://hackernoon.com/how-ledger-stays-ahead-of-the-competition-with-effective-web3-collabs)
+### [169. How Ledger Stays Ahead of the Competition With Effective Web3 Collabs](https://hackernoon.com/how-ledger-stays-ahead-of-the-competition-with-effective-web3-collabs)
 ![](https://cdn.hackernoon.com/images/PqBokrbZnUh88uMPTuuAuDPfPi53-e993u9a.jpeg)
 Ledger is still known as one of the most popular Web3 wallets. Why is that? Part of it is down to their partnership strategy which we break down here.  
+
+### [170. Changing Private Keys, Not Addresses and Funds: Understanding Aptos Key Rotation](https://hackernoon.com/changing-private-keys-not-addresses-and-funds-understanding-aptos-key-rotation)
+![](https://cdn.hackernoon.com/images/7XySryL7eBZuFZKjRrt7WZ4k61G3-an03hc8.jpeg)
+Keep the same wallet address while rotating private keys. No asset migration, no broken integrations, just upgradeable account security.
 

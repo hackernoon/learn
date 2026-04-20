@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [code](https://hackernoon.com/tagged/code)
+### Let's learn about [Code](https://hackernoon.com/tagged/code) via these 108 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 “First, solve the problem. Then, write the code.” – John Johnson
 
 ### [1. Why It is Important to Monitor Code Quality ](https://hackernoon.com/why-it-is-important-to-monitor-code-quality)
@@ -67,13 +69,13 @@ The DataTable widget is a simple and at the same time powerful solution of the W
 ![](https://cdn.hackernoon.com/images/4x0juqOjgCZLRtuEbrlsQMH8sd43-8w0260s.jpeg)
 We have given the benefits of Visual Studio Code and Sublime Text in this article. Compare both code editors based on some factors and choose the better option.
 
-### [17. Froala or QuillJS: Which HTML WYSIWYG Editor Should You Use?](https://hackernoon.com/froala-or-quilljs-which-html-wyswig-editor-should-you-use)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-6z03lvz.jpeg)
-Froala vs. QuillJS - Which is the Best Editor? Froala WYSIWYG editor offers a striking collaborative platform to optimize and publish content on the web.
-
-### [18. What Hardware Do Developers Truly Need?](https://hackernoon.com/what-hardware-do-developers-truly-need)
+### [17. What Hardware Do Developers Truly Need?](https://hackernoon.com/what-hardware-do-developers-truly-need)
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-3q93po2.jpeg)
 The bottom line is that learning to code is possible with a wide range of hardware configurations. it's not about having the most expensive machine
+
+### [18. Froala or QuillJS: Which HTML WYSIWYG Editor Should You Use?](https://hackernoon.com/froala-or-quilljs-which-html-wyswig-editor-should-you-use)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-6z03lvz.jpeg)
+Froala vs. QuillJS - Which is the Best Editor? Froala WYSIWYG editor offers a striking collaborative platform to optimize and publish content on the web.
 
 ### [19. An Essential Guide to Legacy Code](https://hackernoon.com/an-essential-guide-to-legacy-code-no2337ml)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-c8hd350h.png)
@@ -147,13 +149,13 @@ In this article, we'll take a look at some of the most common JavaScript mistake
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-gz93rye.jpeg)
 While "real" hell may or may not exist (no need to get into religious beliefs here), tutorial hell is very real.
 
-### [37. 10 Tips For Junior Developers To Succeed in Code](https://hackernoon.com/10-tips-for-junior-developers-to-succeed-in-code)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-k093274.jpeg)
-Here are 10 tips for junior developers that will help you get started on the right foot
-
-### [38. How to Build a Slack Clone with React, Firebase, and CometChat](https://hackernoon.com/how-to-build-a-slack-clone-with-react-firebase-and-cometchat-3r3037kq)
+### [37. How to Build a Slack Clone with React, Firebase, and CometChat](https://hackernoon.com/how-to-build-a-slack-clone-with-react-firebase-and-cometchat-3r3037kq)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-pvbo331k.jpeg)
 In this tutorial, we will be combining the full power of React, Firebase, and CometChat to build a slack clone that will leave you mind-blown.
+
+### [38. 10 Tips For Junior Developers To Succeed in Code](https://hackernoon.com/10-tips-for-junior-developers-to-succeed-in-code)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-k093274.jpeg)
+Here are 10 tips for junior developers that will help you get started on the right foot
 
 ### [39. Best Online Code Editors To Use In 2022🚀](https://hackernoon.com/best-online-code-editors-to-use-in-2021-8p1q327n)
 ![](https://cdn.hackernoon.com/images/bFFEe4dIUoXgbouiLfgW9PI9b8q1-4m1h35m1.jpeg)
@@ -215,17 +217,17 @@ Ever wonder how people on the outside of a specific industry such as software de
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-fb93wjn.jpeg)
 In this article, we’ll do a deep dive into the Buildpacks BuikdKit frontend implementation and see how it actually works under the hood. 
 
-### [54. The Essential Guide to Using Promise in JavaScript](https://hackernoon.com/the-essential-guide-to-using-promise-in-javascript)
+### [54. Client-Side Markdown Parsing and Dynamic PDF Generation System](https://hackernoon.com/client-side-markdown-parsing-and-dynamic-pdf-generation-system)
+![](https://cdn.hackernoon.com/images/tfXhKw2dEvPIJKSGSyn8w7wzPSU2-2b03fmp.jpeg)
+Learn how to build a simple AI-assisted text-to-PDF converter using HTML, CSS, JavaScript, and jsPDF in the browser.
+
+### [55. The Essential Guide to Using Promise in JavaScript](https://hackernoon.com/the-essential-guide-to-using-promise-in-javascript)
 ![](https://cdn.hackernoon.com/images/GRZpzqpoJyMvFZW6lPH4PI3T5HB2-pwt35yz.jpeg)
 Promise in JavaScript is the way to wait for certain actions to process or complete.
 
-### [55. How To Manage Technical Debt Properly](https://hackernoon.com/how-to-manage-a-technical-debt-properly-6p1533e6)
+### [56. How To Manage Technical Debt Properly](https://hackernoon.com/how-to-manage-a-technical-debt-properly-6p1533e6)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-f41133wx.jpeg)
 We're used to thinking that you cannot deliver fast and maintain a healthy codebase. But does it really has to be a trade-off?
-
-### [56. Dissecting the Master Server: How DolphinScheduler Powers Workflow Scheduling](https://hackernoon.com/dissecting-the-master-server-how-dolphinscheduler-powers-workflow-scheduling)
-![](https://cdn.hackernoon.com/images/1xYF9Q2MEDQRYXBY7nlDViaH7ED3-qt03bxq.png)
-Dive deep into Apache DolphinScheduler 3.1.9's Master service startup process!
 
 ### [57. How to Build a Live Code Sharing Platform With Dyte and ReactJs](https://hackernoon.com/how-to-build-a-live-code-sharing-platform-with-dyte-and-reactjs)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-qg93qss.jpeg)
@@ -239,33 +241,33 @@ What Makes a Good API? A good API does more than just taking input and returning
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-cy93pvb.jpeg)
 The first time I heard someone say: “the code is the documentation”, I thought it sounded completely wrong, like a lazy excuse for not producing documentation.
 
-### [60. Client-Side Markdown Parsing and Dynamic PDF Generation System](https://hackernoon.com/client-side-markdown-parsing-and-dynamic-pdf-generation-system)
-![](https://cdn.hackernoon.com/images/tfXhKw2dEvPIJKSGSyn8w7wzPSU2-2b03fmp.jpeg)
-Learn how to build a simple AI-assisted text-to-PDF converter using HTML, CSS, JavaScript, and jsPDF in the browser.
-
-### [61. How To Sync Terraform Config And .tfstate File For Existing AWS Resources](https://hackernoon.com/sync-terraform-config-and-tfstate-for-existing-aws-resources-mk1dz3tr0)
+### [60. How To Sync Terraform Config And .tfstate File For Existing AWS Resources](https://hackernoon.com/sync-terraform-config-and-tfstate-for-existing-aws-resources-mk1dz3tr0)
 ![](https://cdn.hackernoon.com/images/9a1863tby.jpg)
 Terraform is a great (and dominant) infrastructure automation tool. It is multi-cloud, can build all sorts of resources, and in some cases supports API calls to build resources before the native tooling from cloud providers does.
 
-### [62. Introducing The Web Animations API and @okikio/animate ](https://hackernoon.com/introducing-the-web-animations-api-and-okikioanimate-qx4e35mx)
+### [61. Introducing The Web Animations API and @okikio/animate ](https://hackernoon.com/introducing-the-web-animations-api-and-okikioanimate-qx4e35mx)
 ![](https://cdn.hackernoon.com/images/Ve6JdQOItYcauAkKDILSwLYDpLI2-y7d342f.jpeg)
 @okikio/animate is an animation library for the modern web, it uses the Web Animation API to deliver butter smooth animations at a small size.
 
-### [63. Is No-Code Testing Actually Possible?](https://hackernoon.com/is-no-code-testing-actually-possible)
+### [62. Is No-Code Testing Actually Possible?](https://hackernoon.com/is-no-code-testing-actually-possible)
 ![](https://cdn.hackernoon.com/images/bulpWIgkZtaIHWUdgD0UPBWnIrT2-b5a3ubr.jpeg)
 Testing accounts for over a quarter of development timelines. Automated codeless testing can help remove bottlenecks bringing your software to market quicker.
 
-### [64. Tips For A Successful Concurrent Requests With Async/Await And Promise.all](https://hackernoon.com/tips-for-a-successful-concurrent-requests-with-asyncawait-and-promiseall-rk1l34f4)
+### [63. Tips For A Successful Concurrent Requests With Async/Await And Promise.all](https://hackernoon.com/tips-for-a-successful-concurrent-requests-with-asyncawait-and-promiseall-rk1l34f4)
 ![](https://cdn.hackernoon.com/images/CfwKcq2ny4hfMjglXzZ0Z89fz1R2-u86l36f2.jpeg)
 Let's talk about concurrency, async/await, promise.all, and lightning web components
 
-### [65. How to Super Charge Your Web Design Skills This Year](https://hackernoon.com/how-to-super-charge-your-web-design-skills-this-year)
+### [64. How to Super Charge Your Web Design Skills This Year](https://hackernoon.com/how-to-super-charge-your-web-design-skills-this-year)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-rn93zeg.jpeg)
 This story discusses 22 actionable tips that will help you all to improve your web design skills in 2022. 
 
-### [66. Flask vs Django: Which Should You Learn?](https://hackernoon.com/flask-vs-django-which-should-you-learn-7j3637i8)
+### [65. Flask vs Django: Which Should You Learn?](https://hackernoon.com/flask-vs-django-which-should-you-learn-7j3637i8)
 ![](https://cdn.hackernoon.com/images/d86puDQud6hYQoYOkqA4LNHV3zz2-bti38ep.jpeg)
 Looking for a Flask vs Django comparison? This article compares the two popular Python frameworks for web, apps, APIs, and backend development.
+
+### [66. Building a Live HTML Page Generator Using Pure JavaScript](https://hackernoon.com/building-a-live-html-page-generator-using-pure-javascript)
+![](https://cdn.hackernoon.com/images/tfXhKw2dEvPIJKSGSyn8w7wzPSU2-8y23ggc.jpeg)
+A simple project that uses AI to build a webpage that turns simple text into an index. html. 
 
 ### [67. A Modern Take on the Terminal Experience](https://hackernoon.com/a-modern-take-on-the-terminal-experience)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8o02prs.jpeg)
@@ -283,27 +285,27 @@ Becoming a Git power user is on the bucket list of every developer. With our 5 G
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-8xa2c52.jpeg)
 Hence, if you want to understand a codebase better, you need more than to just read its code; you need to draw diagrams.
 
-### [71. Building a Live HTML Page Generator Using Pure JavaScript](https://hackernoon.com/building-a-live-html-page-generator-using-pure-javascript)
-![](https://cdn.hackernoon.com/images/tfXhKw2dEvPIJKSGSyn8w7wzPSU2-8y23ggc.jpeg)
-A simple project that uses AI to build a webpage that turns simple text into an index. html. 
-
-### [72. 6 Ways to Make Pull Requests More Reviewable](https://hackernoon.com/6-ways-to-make-pull-requests-more-reviewable)
+### [71. 6 Ways to Make Pull Requests More Reviewable](https://hackernoon.com/6-ways-to-make-pull-requests-more-reviewable)
 ![](https://cdn.hackernoon.com/images/TtO149Go1EbgZTTZh3T0qLeAIDQ2-9m93oq7.jpeg)
 After more than a year of helping developers review code, I try to summarize easy and quick takeaways for a better pull request design.
 
-### [73. Key 2022 Statistics in the No-Code/Low-Code Market](https://hackernoon.com/key-2022-statistics-in-the-no-codelow-code-market)
+### [72. Key 2022 Statistics in the No-Code/Low-Code Market](https://hackernoon.com/key-2022-statistics-in-the-no-codelow-code-market)
 ![](https://cdn.hackernoon.com/images/JzNdPMQy2Wbqmkulfq89ISoTUrB3-k493o7b.jpeg)
 We explore a low-code/no-code market poised for exponential growth in the coming years.
 
 
 
-### [74. 25 Useful Websites Developers Don't Use Enough](https://hackernoon.com/25-useful-websites-developers-dont-use-enough)
+### [73. 25 Useful Websites Developers Don't Use Enough](https://hackernoon.com/25-useful-websites-developers-dont-use-enough)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-gm0398d.jpeg)
 There are many websites to make the work of developers easier, even if they are as basic as helping you share your code. Here are 25 useful websites for devs.
 
-### [75. A Brief Intro to Legacy Code](https://hackernoon.com/a-brief-intro-to-legacy-code)
+### [74. A Brief Intro to Legacy Code](https://hackernoon.com/a-brief-intro-to-legacy-code)
 ![](https://cdn.hackernoon.com/images/lOFDMtkQjMXN1CY1B96XPnzDo633-ew93opp.jpeg)
 Let's talk about legacy code and its refactoring
+
+### [75. Dissecting the Master Server: How DolphinScheduler Powers Workflow Scheduling](https://hackernoon.com/dissecting-the-master-server-how-dolphinscheduler-powers-workflow-scheduling)
+![](https://cdn.hackernoon.com/images/1xYF9Q2MEDQRYXBY7nlDViaH7ED3-qt03bxq.png)
+Dive deep into Apache DolphinScheduler 3.1.9's Master service startup process!
 
 ### [76. What Traits Distinguish An Awesome Programmer](https://hackernoon.com/what-traits-distinguish-an-awesome-programmer-s21k3528)
 ![](https://hackernoon.com/images/1k2eWiUClgQ4VZSz8evAFbbCf1A3-s3k33f4.jpeg)
@@ -341,13 +343,13 @@ For a couple of years I've been working with Golang, is such a great experience,
 ![](https://cdn.hackernoon.com/images/ZooZQzFE7INYxlbDjBNNxqTpP8g2-yla3msw.gif.webp)
 If you have understood the discussion so far, you should feel confident in your capacity to discuss closures when asked about them during your next interview.
 
-### [85. Building Your Own Discord Bot With Python Is Easy ](https://hackernoon.com/building-your-own-discord-bot-with-python-is-easy-pcn34w1)
-![](https://cdn.hackernoon.com/images/deH2YIhcPLMTC3ynPNZ9rvPEsA62-473p34ae.jpeg)
-Create your own Discord Server in just Four Lines of Code with Python
-
-### [86. The Kill Switch: A Coder's Act of Revenge](https://hackernoon.com/the-kill-switch-a-coders-act-of-revenge)
+### [85. The Kill Switch: A Coder's Act of Revenge](https://hackernoon.com/the-kill-switch-a-coders-act-of-revenge)
 ![](https://cdn.hackernoon.com/images/Pznwr4diUVhKwX532KT2RuBHUhw1-2y138it.jpeg)
 A contract programmer was fired by a US trucking and logistics company. Unbeknownst to his bosses, he had secretly embedded a digital kill switch.
+
+### [86. Building Your Own Discord Bot With Python Is Easy ](https://hackernoon.com/building-your-own-discord-bot-with-python-is-easy-pcn34w1)
+![](https://cdn.hackernoon.com/images/deH2YIhcPLMTC3ynPNZ9rvPEsA62-473p34ae.jpeg)
+Create your own Discord Server in just Four Lines of Code with Python
 
 ### [87. Getting Familiar with a New Codebase](https://hackernoon.com/getting-familiar-with-a-new-codebase-szg23y8m)
 ![](https://cdn.hackernoon.com/drafts/vohx3yym.png)
@@ -369,68 +371,72 @@ We often get blocked at different steps while working on a machine learning prob
 ![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-o19347o.jpeg)
 Get started creating IaC using CloudFormation templates.
 
-### [92. An Introduction to the AWS Scheduled Lambda Function](https://hackernoon.com/an-introduction-to-the-aws-scheduled-lambda-function-pf21311a)
+### [92. Striking the Right Balance: Speed vs. Quality in Software Development](https://hackernoon.com/striking-the-right-balance-speed-vs-quality-in-software-development)
+![](https://cdn.hackernoon.com/images/njOnP9rl1KdzegOa6oJbHDSfzyX2-li0397k.png)
+In software development, one of the most significant challenges developers face is balancing speed with quality. 
+
+### [93. An Introduction to the AWS Scheduled Lambda Function](https://hackernoon.com/an-introduction-to-the-aws-scheduled-lambda-function-pf21311a)
 ![](https://cdn.hackernoon.com/images/mwWpvvG9aJflL1TxM9f5gkil4wD2-862e33aj.jpeg)
 A solution using CloudWatch rules and alternative solutions. 
-
-### [93. Holochain Community Hackathons](https://hackernoon.com/holochain-community-hackathons-3n3032m7)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3b82qjg.jpeg)
-
-Holochain Hackathons promote a sense of building, community and collaboration and perhaps most importantly — they’re fun! Whether you want to learn more about Holochain or you’re an experienced Holochain developer ready to launch your next great idea, we would love to see you at our next Hackathon. The possibilities for what hApps can be created are truly endless and we’re so excited to see what you will build next. Join us for an agent-centric, self-organized experience and hands-on learning about Holochain!
 
 ### [94. Codebase Migration: How to Successfully Migrate a Codebase](https://hackernoon.com/codebase-migration-how-to-successfully-migrate-a-codebase)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-oz034tn.png)
 Codebase migrations are hard. Plan ahead and execution will be easy.
 
-### [95. Top 12 CSS Selectors You Should Know](https://hackernoon.com/top-12-css-selectors-you-should-know)
+### [95. Holochain Community Hackathons](https://hackernoon.com/holochain-community-hackathons-3n3032m7)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3b82qjg.jpeg)
+
+Holochain Hackathons promote a sense of building, community and collaboration and perhaps most importantly — they’re fun! Whether you want to learn more about Holochain or you’re an experienced Holochain developer ready to launch your next great idea, we would love to see you at our next Hackathon. The possibilities for what hApps can be created are truly endless and we’re so excited to see what you will build next. Join us for an agent-centric, self-organized experience and hands-on learning about Holochain!
+
+### [96. Top 12 CSS Selectors You Should Know](https://hackernoon.com/top-12-css-selectors-you-should-know)
 ![](https://cdn.hackernoon.com/images/1ckd3RxscrdoePETjFNhKmSpe3y1-aw104315.jpeg)
 Get started with understanding CSS selectors. In this story, we cover Universal Selectors, Type Selectors, Class Selectors, ID Selectors, and more.
 
-### [96. Striking the Right Balance: Speed vs. Quality in Software Development](https://hackernoon.com/striking-the-right-balance-speed-vs-quality-in-software-development)
-![](https://cdn.hackernoon.com/images/njOnP9rl1KdzegOa6oJbHDSfzyX2-li0397k.png)
-In software development, one of the most significant challenges developers face is balancing speed with quality. 
+### [97. Build Your Own Stop Motion Video Creator with HTML, CSS & JavaScript](https://hackernoon.com/build-your-own-stop-motion-video-creator-with-html-css-and-javascript)
+![](https://cdn.hackernoon.com/images/tfXhKw2dEvPIJKSGSyn8w7wzPSU2-9u03cq9.jpeg)
+Build a stop-motion animation tool using HTML, CSS, and JavaScript. Upload images, preview frames, and export a video directly from your browser.
 
-### [97. Freedom Code: From One Dreamer to Others](https://hackernoon.com/freedom-code-from-one-dreamer-to-others-q68i36wx)
+### [98. Freedom Code: From One Dreamer to Others](https://hackernoon.com/freedom-code-from-one-dreamer-to-others-q68i36wx)
 ![](https://cdn.hackernoon.com/drafts/44fd3rxs.png)
 
 
-### [98. Stacked PRs: Rethinking Code Reviews](https://hackernoon.com/stacked-prs-rethinking-code-reviews)
+### [99. Stacked PRs: Rethinking Code Reviews](https://hackernoon.com/stacked-prs-rethinking-code-reviews)
 ![](https://cdn.hackernoon.com/images/BmY63ePjY9PXWBDNINRbyojfcK92-8z93v5k.jpeg)
 This post explores shift-left principles and suggests that stacked PRs will become increasingly useful.
 
-### [99. Building an Accessible Web Tool for the Deaf and Blind Using AI](https://hackernoon.com/building-an-accessible-web-tool-for-the-deaf-and-blind-using-ai)
+### [100. Building an Accessible Web Tool for the Deaf and Blind Using AI](https://hackernoon.com/building-an-accessible-web-tool-for-the-deaf-and-blind-using-ai)
 ![](https://cdn.hackernoon.com/images/tfXhKw2dEvPIJKSGSyn8w7wzPSU2-yf1393p.jpeg)
 I built this tool as a simple way for anyone wanting to help in accessibility for people who can't express or communicate. Helping make communicating easier.
 
-### [100. If you are already a happy coder, don't read this](https://hackernoon.com/if-you-are-already-a-happy-coder-dont-read-this-mw3337p5)
-![](https://cdn.hackernoon.com/images/ZcvfyVxI3KNhEQxQ9H6wfvhdWlW2-x92i35uo.gif)
-it gets difficult, to keep your coding journey continues . It's alright!you are not good enough. Discipline doesn't mean do it every day without fail,
-
-### [101. Introducing Tour My Pull Request For Github Extension](https://hackernoon.com/introducting-tour-my-pull-pequest-for-github-extension-341j3uqv)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-7bm28g6.jpeg?alt=media&token=ddf99f49-899b-4ac7-a0dc-8ecbe25880a5)
-Problem
-
-### [102. Asterisk's Unnoticed Bug: The Double Quote Bug](https://hackernoon.com/asterisks-unnoticed-bug-the-double-quote-bug-ax2b378b)
+### [101. Asterisk's Unnoticed Bug: The Double Quote Bug](https://hackernoon.com/asterisks-unnoticed-bug-the-double-quote-bug-ax2b378b)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-a6p37ex.jpeg)
 While powerful, Asterisk is not foolproof.  One bug generates the 400 Bad Request SIP error and is caused by the incorrect use of Double Quotes in the process. 
 
-### [103. 3 Key Questions You Need To Answer Before You Push That Code](https://hackernoon.com/3-key-questions-you-need-to-answer-before-you-push-that-code-151e37ke)
+### [102. Introducing Tour My Pull Request For Github Extension](https://hackernoon.com/introducting-tour-my-pull-pequest-for-github-extension-341j3uqv)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-7bm28g6.jpeg?alt=media&token=ddf99f49-899b-4ac7-a0dc-8ecbe25880a5)
+Problem
+
+### [103. If you are already a happy coder, don't read this](https://hackernoon.com/if-you-are-already-a-happy-coder-dont-read-this-mw3337p5)
+![](https://cdn.hackernoon.com/images/ZcvfyVxI3KNhEQxQ9H6wfvhdWlW2-x92i35uo.gif)
+it gets difficult, to keep your coding journey continues . It's alright!you are not good enough. Discipline doesn't mean do it every day without fail,
+
+### [104. 3 Key Questions You Need To Answer Before You Push That Code](https://hackernoon.com/3-key-questions-you-need-to-answer-before-you-push-that-code-151e37ke)
 ![](https://cdn.hackernoon.com/images/VYFvDJGGenPQZq5ySkJyLo2Vbmr1-848427jx.jpeg)
 Before you commit that code and push it to the server deployment, ask yourself these three questions.
 
-### [104. How to Ask Users for App Ratings and Open Google Play Store (React Native)](https://hackernoon.com/how-to-ask-users-for-app-ratings-and-open-google-play-store-react-native-3m4f3ud3)
+### [105. How to Ask Users for App Ratings and Open Google Play Store (React Native)](https://hackernoon.com/how-to-ask-users-for-app-ratings-and-open-google-play-store-react-native-3m4f3ud3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fdu18xmnIgUdzNuBz0ILmP1Rnm9M2-ehh3yyq.webp?alt=media&token=e4459266-dc70-4952-a66f-38b2914bc688)
 User ratings are very valuable to business as they play a crucial part in people's purchasing decisions; be it restaurants, movie tickets or in the current context, our react native app. You must have seen prompts when you are surfing through any android app or playing games, that ask you to rate the app in google play store.
 
-### [105. An Example of Leveraging Xamarin's Material Visual Feature for a Consistent Look in iOS and Android](https://hackernoon.com/an-example-of-leveraging-xamarins-material-visual-feature-for-a-consistent-look-in-ios-and-android-9o5t311k)
+### [106. An Example of Leveraging Xamarin's Material Visual Feature for a Consistent Look in iOS and Android](https://hackernoon.com/an-example-of-leveraging-xamarins-material-visual-feature-for-a-consistent-look-in-ios-and-android-9o5t311k)
 ![](https://cdn.hackernoon.com/images/bQuwARisW7QlExMKnFQmBxJe8rf2-slf294u.jpeg)
 Today we are going to learn how to create a Material Outlined Entry entirely with Xamarin.Forms!
 
-### [106. Infrastructure as Code in Practice: What It Solves — and What It Doesn’t](https://hackernoon.com/infrastructure-as-code-in-practice-what-it-solves-and-what-it-doesnt)
+### [107. Infrastructure as Code in Practice: What It Solves — and What It Doesn’t](https://hackernoon.com/infrastructure-as-code-in-practice-what-it-solves-and-what-it-doesnt)
 ![](https://cdn.hackernoon.com/images/slT3HCgc9CZ4HGESXdHgPgAICaj1-5ha3d9n.jpeg)
 Infrastructure as Code has long become a standard approach to managing cloud infrastructure.
 
-### [107. The Noonification: How to Work on an Unfamiliar Codebase (5/18/2023)](https://hackernoon.com/5-18-2023-noonification)
+### [108. The Noonification: How to Work on an Unfamiliar Codebase (5/18/2023)](https://hackernoon.com/5-18-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 5/18/2023: Top 5 stories on the Hackernoon homepage!
 

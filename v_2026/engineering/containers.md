@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [containers](https://hackernoon.com/tagged/containers)
+### Let's learn about [Containers](https://hackernoon.com/tagged/containers) via these 226 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 A standard software unit that packages code and all other accompanying components. This is done to ultimately ensure smooth running of the application across computing environments.
 
 ### [1. MariaDB + Phpmyadmin + Docker: Running Local Database](https://hackernoon.com/mariadb-phpmyadmin-docker-running-local-database-ok9q36ji)
@@ -134,13 +136,13 @@ Kubernetes is now almost synonymous with container orchestration. A CNCF survey 
 ![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-h593j1l.jpeg)
 Kubernetes deployments are becoming even more complex but Helm is a good solution to bridge this deployment complexity and package Kubernetes applications
 
-### [33. Here are Some Docker Hacks That Changed my Life](https://hackernoon.com/here-are-some-docker-hacks-that-changed-my-life)
-![](https://cdn.hackernoon.com/images/n46TzZ1AaqbEkZzpTB21rYVJHNG3-i203a5w.png)
-Docker is a powerful tool for building and managing Docker-based applications. Here are some things you might be missing out on!
-
-### [34. What Kubernetes Network Plugin Should You Use? A Side by Side Comparison](https://hackernoon.com/what-kubernetes-network-plugin-should-you-use-a-side-by-side-comparison)
+### [33. What Kubernetes Network Plugin Should You Use? A Side by Side Comparison](https://hackernoon.com/what-kubernetes-network-plugin-should-you-use-a-side-by-side-comparison)
 ![](https://cdn.hackernoon.com/images/BTfdv4du6DOkGkmRv93Lapd74tn1-z3d2txh.jpeg)
 Discover a comparative analysis of Kubernetes network plugins Flannel, Cilium, Calico, and Canal. Learn about their performance, security.
+
+### [34. Here are Some Docker Hacks That Changed my Life](https://hackernoon.com/here-are-some-docker-hacks-that-changed-my-life)
+![](https://cdn.hackernoon.com/images/n46TzZ1AaqbEkZzpTB21rYVJHNG3-i203a5w.png)
+Docker is a powerful tool for building and managing Docker-based applications. Here are some things you might be missing out on!
 
 ### [35. How to Harden K8S: Based On the  Recent Updated NSA's Kubernetes Hardening Guide](https://hackernoon.com/how-to-harden-k8s-based-on-the-recent-updated-nsas-kubernetes-hardening-guide)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-rsa3ipc.jpeg)
@@ -186,13 +188,13 @@ This guide will walk you through the process of setting up Jenkins on Kubernetes
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-5w7f3uxh.jpeg?alt=media&token=a25b897e-e792-4ae6-b82b-8b22716b3bc5)
 Introduction
 
-### [46. How Containers Affect DevOps](https://hackernoon.com/how-containers-affects-devops-t1wo3wxs)
-![](https://cdn.hackernoon.com/drafts/2qx3wkj.png)
-Today, we no longer talk about development and operations in isolation. DevOps actively combines these two, which is an essential factor in the modern software lifecycle. Along the way, Docker containers have also become popular due to the benefits they offer for DevOps. Containers affect DevOps mainly in two ways.
-
-### [47. A Guide to Container Networking: Part II - Network Namespaces and Linux Bridges](https://hackernoon.com/a-guide-to-container-networking-part-ii-network-namespaces-and-linux-bridges)
+### [46. A Guide to Container Networking: Part II - Network Namespaces and Linux Bridges](https://hackernoon.com/a-guide-to-container-networking-part-ii-network-namespaces-and-linux-bridges)
 ![](https://cdn.hackernoon.com/images/futuristic-bridges-dg6slgt6qdhalj49xn22oqvz.png)
 Explore Network Namespaces and Linux Bridges in container networking. Learn about veth pairs and network isolation in this detailed guide
+
+### [47. How Containers Affect DevOps](https://hackernoon.com/how-containers-affects-devops-t1wo3wxs)
+![](https://cdn.hackernoon.com/drafts/2qx3wkj.png)
+Today, we no longer talk about development and operations in isolation. DevOps actively combines these two, which is an essential factor in the modern software lifecycle. Along the way, Docker containers have also become popular due to the benefits they offer for DevOps. Containers affect DevOps mainly in two ways.
 
 ### [48. 8 Cloud Computing Trends to Watch in 2021](https://hackernoon.com/8-cloud-computing-trends-to-watch-in-2021-ph3a359f)
 ![](https://cdn.hackernoon.com/images/7ozCA7Y4IVMQnOgZyr0CD9jNPNW2-4zn351y.jpeg)
@@ -218,21 +220,21 @@ Using Deployment slots, we can perform Blue/Green deployments in Azure App Servi
 ![](https://cdn.hackernoon.com/images/VjVqLy2M8BXnXwkTikt89ocRNVp2-7418334sn.jpeg)
 Amazon ECS Anywhere gives customers the ability to run Amazon ECS on any infrastructure using the same cloud-based, fully managed, highly scalable container orchestration service and control plane they use in AWS today. 
 
-### [54. Should You Learn Kubernetes in 2022](https://hackernoon.com/should-you-learn-kubernetes-in-2022)
-![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-hk93hdj.jpeg)
-With the increasing popularity of containerized applications, the container orchestration platform Kubernetes has become a must in the toolset of a developer.
-
-### [55. How to Create Simple Multi-Stacks Test With Testcontainers](https://hackernoon.com/how-to-create-simple-multi-stacks-test-with-testcontainers-tx1u3uj5)
-![](https://images.unsplash.com/photo-1578335371893-da19ce4ba0cc?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Back-end engineering nowadays may require the integration of multiple services. It is painful for engineers to install many services in their local development environment. Docker has provided an easier way to do this, but it will still require some scripting outside our code. It also has not exactly had a perfect solution if we wanted to test smaller functions or classes instead of the whole service. This problem has been addressed by Testcontainers [1].
-
-### [56. Building AOSP with Docker](https://hackernoon.com/building-aosp-with-docker-y13q3748)
+### [54. Building AOSP with Docker](https://hackernoon.com/building-aosp-with-docker-y13q3748)
 ![](https://cdn.hackernoon.com/images/747e2hme.jpg)
 I have been working on AOSP (Android Open Source Project) for a little 
 over a year now, it was my first experience working on Android as a 
 platform. Building and customizing your Android OS my seem like a 
 daunting task at first, but it is not really that hard, but i am not 
 here to give you a guide on how to build Android from Source but we will get to see how docker can help you in building your ROM.
+
+### [55. Should You Learn Kubernetes in 2022](https://hackernoon.com/should-you-learn-kubernetes-in-2022)
+![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-hk93hdj.jpeg)
+With the increasing popularity of containerized applications, the container orchestration platform Kubernetes has become a must in the toolset of a developer.
+
+### [56. How to Create Simple Multi-Stacks Test With Testcontainers](https://hackernoon.com/how-to-create-simple-multi-stacks-test-with-testcontainers-tx1u3uj5)
+![](https://images.unsplash.com/photo-1578335371893-da19ce4ba0cc?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Back-end engineering nowadays may require the integration of multiple services. It is painful for engineers to install many services in their local development environment. Docker has provided an easier way to do this, but it will still require some scripting outside our code. It also has not exactly had a perfect solution if we wanted to test smaller functions or classes instead of the whole service. This problem has been addressed by Testcontainers [1].
 
 ### [57. The Adoption of Microservices Architecture for Cloud-Native Applications](https://hackernoon.com/the-adoption-of-microservices-architecture-for-cloud-native-applications)
 ![](https://cdn.hackernoon.com/images/a-small-city-under-a-microscope-y9flopk87ay6s9n50g2d868t.png)
@@ -302,15 +304,15 @@ Kubernetes costs can soar if you don't pay attention. Here's an open source way 
 ![](https://cdn.hackernoon.com/images/what-are-the-benefits-of-using-docker-container-clbb2mvvj000101s677kj7n1g.png)
 Docker allows allows enterprises to easily integrate the benefits of containerization into their development lifecycle and operations, optimizing time & money. 
 
-### [74. Key Questions to Ask your DevOps Teams About Containers and Kubernetes](https://hackernoon.com/key-questions-to-ask-your-devops-teams-about-containers-and-kubernetes-hf133y2p)
+### [74. How To Harden Your Docker Containers Using Seccomp Security Profile](https://hackernoon.com/how-to-harden-your-docker-containers-using-seccomp-security-profile-81153ucz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-n55c3uc2.jpeg?alt=media&token=4f42dbe9-4ac9-4dc4-ad52-c78d2d636439)
+Secure Computing Mode, also known as Seccomp, is a Linux kernel feature that improves several security features to help run Docker in a more secure environment.
+
+### [75. Key Questions to Ask your DevOps Teams About Containers and Kubernetes](https://hackernoon.com/key-questions-to-ask-your-devops-teams-about-containers-and-kubernetes-hf133y2p)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-jeu3y15.webp?alt=media&token=c6dbae88-a3d1-4e1e-a8f9-a729294273a3)
  DevOps teams are responsible for balancing two important forces
 in their organizations’ software development efforts: shorter delivery cycle
 times for applications that continue to increase in size and diversity. 
-
-### [75. How To Harden Your Docker Containers Using Seccomp Security Profile](https://hackernoon.com/how-to-harden-your-docker-containers-using-seccomp-security-profile-81153ucz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-n55c3uc2.jpeg?alt=media&token=4f42dbe9-4ac9-4dc4-ad52-c78d2d636439)
-Secure Computing Mode, also known as Seccomp, is a Linux kernel feature that improves several security features to help run Docker in a more secure environment.
 
 ### [76. Kubernetes Distributed Performance Testing using Locust](https://hackernoon.com/kubernetes-distributed-performance-testing-using-locust)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-x2f37vb.jpeg)
@@ -353,13 +355,13 @@ Pods are Kubernetes Objects that are the basic unit for running our containers i
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQYCUqng9AEa0N4lY3S8A0lqy52g2-sa9x3w1i.jpeg?alt=media&token=ee20b08e-8fca-467f-982b-1250e2760b01)
 Motivation
 
-### [86. Pool Architecture for Saas](https://hackernoon.com/pool-architecture-for-saas-qil3ur3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5pQpZNSj2mO0Oi9X4Lrj7YIqfHE2-ap2s285o.jpeg?alt=media&token=89deeb94-1a93-4ed8-b818-f974228f3045)
-Most of the startups facing scaling problems move to microservices. Inspired by cell-based architecture, it split services per function and scale only specific features. It works especially well for B2C where traffic is uniformly spread across users. However, B2B can face a different type of scaling issue where only one user is scaling. A pool architecture is a simpler yet powerful solution, used both by GAFA and fast-growing startups.
-
-### [87. Kubernetes Day-2 Operations, Part I](https://hackernoon.com/kubernetes-day-2-operations-part-i)
+### [86. Kubernetes Day-2 Operations, Part I](https://hackernoon.com/kubernetes-day-2-operations-part-i)
 ![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-0q93ksy.jpeg)
 Kubernetes is the de-facto standard for container clustering and orchestration. Its adoption is soaring in cloud-native applications.
+
+### [87. Pool Architecture for Saas](https://hackernoon.com/pool-architecture-for-saas-qil3ur3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5pQpZNSj2mO0Oi9X4Lrj7YIqfHE2-ap2s285o.jpeg?alt=media&token=89deeb94-1a93-4ed8-b818-f974228f3045)
+Most of the startups facing scaling problems move to microservices. Inspired by cell-based architecture, it split services per function and scale only specific features. It works especially well for B2C where traffic is uniformly spread across users. However, B2B can face a different type of scaling issue where only one user is scaling. A pool architecture is a simpler yet powerful solution, used both by GAFA and fast-growing startups.
 
 ### [88. On Building A Development Pipeline With Kubernetes](https://hackernoon.com/on-building-a-development-pipeline-with-kubernetes-t5x33s8)
 ![](https://cdn.hackernoon.com/images/QTxbGwvzbNSSmBQwExO9kEUn67m1-t88335r.png)
@@ -369,13 +371,13 @@ A few years ago, digital transformation led to enterprises moving away from trad
 ![](https://cdn.hackernoon.com/images/YqzNjVX0nYVlCUWqv4gnCWnKpey1-6t93op0.jpeg)
 This blog covers additional factors you should take care of to successfully deploy Kubernetes cluster in production alongwith choosing a managed cloud. Read on.
 
-### [90. How To Use Cloud Native Buildpacks](https://hackernoon.com/how-to-use-cloud-native-buildpacks-i2133ute)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-kag3uis.jpeg?alt=media&token=a4f31a35-89f6-47fa-93c3-2bac741c1748)
-It never fails that the CNCF seem to always be cooking up something interesting in their ecosystem. In my free time, I always seem to find myself in a habit of playing in the Sandbox to see what new cutting edge tools I can add to my collection. It is my goal today to introduce you to a project at the Sandbox stage known as "Buildpacks".
-
-### [91. 7 Best Docker Alternatives in 2022](https://hackernoon.com/7-best-docker-alternatives-in-2022)
+### [90. 7 Best Docker Alternatives in 2022](https://hackernoon.com/7-best-docker-alternatives-in-2022)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-i503k6d.png)
 A list of decent Docker alternatives that might fit your needs.
+
+### [91. How To Use Cloud Native Buildpacks](https://hackernoon.com/how-to-use-cloud-native-buildpacks-i2133ute)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-kag3uis.jpeg?alt=media&token=a4f31a35-89f6-47fa-93c3-2bac741c1748)
+It never fails that the CNCF seem to always be cooking up something interesting in their ecosystem. In my free time, I always seem to find myself in a habit of playing in the Sandbox to see what new cutting edge tools I can add to my collection. It is my goal today to introduce you to a project at the Sandbox stage known as "Buildpacks".
 
 ### [92. How I Reduced EKS Windows Node Start Time From 5 Min to ~90s ](https://hackernoon.com/how-i-reduced-eks-windows-node-start-time-from-5-min-to-90s)
 ![](https://cdn.hackernoon.com/images/stop-watch-pt02qfuu01e2sal0fsoqqjjq.png)
@@ -389,17 +391,17 @@ Meta: KubeMQ, makers of the eponymous Kubernetes-native message queue, has a new
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-gr93onv.jpeg)
 Kubernetes StatefulSets are broken
 
-### [95. Ship With the Docker Hub CLI Tool](https://hackernoon.com/ship-with-the-docker-hub-cli-tool)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-cvx3obd.jpeg)
-The Docker Hub CLI Tool is a helpful containerization tool that can be used with Command Line. It is slightly experimental but still incredibly helpful. 
+### [95. Developers, AWS App Runner Might Not Always Be the Best Choice For Deploying Your Application](https://hackernoon.com/developers-aws-app-runner-might-not-always-be-the-best-choice-for-deploying-your-application)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jr02s8s.jpeg)
+Discover why AWS AppRunner might not be the best fit for complex applications. A real-world journey with key insights on containerized deployment challenges
 
 ### [96. A Quick Guide to Writing YAML for Kubernettes](https://hackernoon.com/a-quick-guide-to-writing-yaml-for-kubernettes)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-bt03mbo.jpeg)
 YAML is a human-friendly, data serialization standard. It also has various applications in Kubernetes.
 
-### [97. Developers, AWS App Runner Might Not Always Be the Best Choice For Deploying Your Application](https://hackernoon.com/developers-aws-app-runner-might-not-always-be-the-best-choice-for-deploying-your-application)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jr02s8s.jpeg)
-Discover why AWS AppRunner might not be the best fit for complex applications. A real-world journey with key insights on containerized deployment challenges
+### [97. Ship With the Docker Hub CLI Tool](https://hackernoon.com/ship-with-the-docker-hub-cli-tool)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-cvx3obd.jpeg)
+The Docker Hub CLI Tool is a helpful containerization tool that can be used with Command Line. It is slightly experimental but still incredibly helpful. 
 
 ### [98. How To Deploy Code Faster Using Kubernetes](https://hackernoon.com/how-to-deploy-code-faster-using-kubernetes-jh1y3ul0)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlnjU9xOFxJfMxZhuHc2qb0ooYMt2-29y3uqu.jpeg?alt=media&token=b4eaa392-151e-4683-b0fe-ad744394b65a)
@@ -422,17 +424,17 @@ Learn what Deployments are in Kubernetes and how to use them. Deployments are a 
 ![](https://cdn.hackernoon.com/drafts/nc4j3vig.png)
 We use different Continuous Integration tools in our projects. One of them is TeamCity software. A pipeline for TeamCity can be configured easily and has two steps, such as run tests and build a docker image for further deployment. However, I needed to run Postgres before running tests. I made a research, I read the documentation and this article may be useful to close a gap for team city’s documentation.
 
-### [103. Delays in app delivery to Kubernetes](https://hackernoon.com/delays-in-app-delivery-to-kubernetes-5d0511094f38)
-![](https://cdn.hackernoon.com/hn-images/1*vG0NCnyQXVdQpBVxOLLv4w.png)
-Enterprises around the world are waking up to the containers and Kubernetes trend. There are numerous benefits of delivering an application as container packages to Kubernetes but at the same time, the process of app containerization and the subsequent app deployment to Kubernetes can hit many roadblocks. Since the idea of using Kubernetes and containers for app delivery is fairly recent, the transition from traditional delivery systems to these modern delivery systems is a bumpy ride.
+### [103. Using Kubernetes and Containers for Infinite Scaling ](https://hackernoon.com/using-kubernetes-and-containers-for-infinite-scaling)
+![](https://cdn.hackernoon.com/images/PXQGVbAzgHSTkexcHBltCsQdGBi1-8za3wrt.jpeg)
+A landscape view of how to rightsize Kubernetes workloads, from single containers in a pod to hyperscaled serverless deployments, examining tools and techniques
 
 ### [104. CNCF Tools Overview: Are You Cloud-Native?](https://hackernoon.com/cncf-tools-overview-are-you-cloud-native-n3o13y0m)
 ![](https://cdn.hackernoon.com/drafts/isk3yr3.png)
 Cloud computing is becoming more and more of a household name, with even the most conservative fields of business figuring out how to make the best use of it. Cloud computing usually starts with running a private cloud solution on premises before venturing onto the public cloud. Of course, the cloud is not a single uniform being. It may come from different providers, Amazon Web Services, Google Cloud Platform, and Microsoft Azure being the biggest players here. Or it may come with different visibility and hosting, that is, public (resides with the provider), private (self-hosted), or hybrid (which uses a bit of both). And the cloud can use different tools and APIs for management as well.
 
-### [105. Using Kubernetes and Containers for Infinite Scaling ](https://hackernoon.com/using-kubernetes-and-containers-for-infinite-scaling)
-![](https://cdn.hackernoon.com/images/PXQGVbAzgHSTkexcHBltCsQdGBi1-8za3wrt.jpeg)
-A landscape view of how to rightsize Kubernetes workloads, from single containers in a pod to hyperscaled serverless deployments, examining tools and techniques
+### [105. Delays in app delivery to Kubernetes](https://hackernoon.com/delays-in-app-delivery-to-kubernetes-5d0511094f38)
+![](https://cdn.hackernoon.com/hn-images/1*vG0NCnyQXVdQpBVxOLLv4w.png)
+Enterprises around the world are waking up to the containers and Kubernetes trend. There are numerous benefits of delivering an application as container packages to Kubernetes but at the same time, the process of app containerization and the subsequent app deployment to Kubernetes can hit many roadblocks. Since the idea of using Kubernetes and containers for app delivery is fairly recent, the transition from traditional delivery systems to these modern delivery systems is a bumpy ride.
 
 ### [106. A Beginner's Guide to AWS Containers - Part 1 ](https://hackernoon.com/a-beginners-guide-to-aws-containers-part-1)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-l093r7q.jpeg)
@@ -494,17 +496,17 @@ DockSec is an AI-powered Docker security tool that automates vulnerability detec
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZnCI1PdIKGNAZabdWiYpA0JEH2P2-tg8v3w1j.jpeg?alt=media&token=ce8f9deb-f674-41bc-8a39-e32ab70303cd)
 To say that Kubernetes uses a bit of YAML is like saying that a few people put some of their code on GitHub – accurate, but severely understated.
 
-### [121. What Are Cloud Native Buildpacks? A Simple Walkthrough](https://hackernoon.com/what-are-cloud-native-buildpacks-a-simple-walkthrough)
+### [121. Efficient Dockerized Database Monitoring with Dockerized PMM](https://hackernoon.com/efficient-dockerized-database-monitoring-with-dockerized-pmm)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-bg93rc8.jpeg)
+Learn how to monitor your databases with ease using Docker and Percona Monitoring and Management (PMM). PMM is a free and open-source platform for monitoring an
+
+### [122. What Are Cloud Native Buildpacks? A Simple Walkthrough](https://hackernoon.com/what-are-cloud-native-buildpacks-a-simple-walkthrough)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-9t325oq.jpeg)
 Build OCI images without a Dockerfile using Cloud Native Buildpacks. Automate best practices, enhance security, and streamline deployment effortlessly.
 
-### [122. How To Build CI/CD Pipelines Behind Your Firewall Using Codefresh Runner ](https://hackernoon.com/how-to-build-cicd-pipelines-behind-your-firewall-using-codefresh-runner-n8163uw6)
+### [123. How To Build CI/CD Pipelines Behind Your Firewall Using Codefresh Runner ](https://hackernoon.com/how-to-build-cicd-pipelines-behind-your-firewall-using-codefresh-runner-n8163uw6)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F615UtKdRZ9fGzXClYWk79XVkIbv2-65s2808.jpeg?alt=media&token=de0f2228-5bc3-4904-87f4-f0e9961484e3)
 Continuous Integration/Delivery (CI/CD) is one of the most obvious candidates for moving to a Kubernetes cluster, as you automatically enjoy all the benefits of Kubernetes scalability. In traditional CI solutions, companies employ a fixed set of build nodes that teams must manually monitor and upgrade.
-
-### [123. Efficient Dockerized Database Monitoring with Dockerized PMM](https://hackernoon.com/efficient-dockerized-database-monitoring-with-dockerized-pmm)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-bg93rc8.jpeg)
-Learn how to monitor your databases with ease using Docker and Percona Monitoring and Management (PMM). PMM is a free and open-source platform for monitoring an
 
 ### [124. Increasing Developer Productivity with skaffold](https://hackernoon.com/increasing-developer-productivity-with-skaffold-ed4l3wz3)
 ![](https://cdn.hackernoon.com/drafts/ym2b23kfl.png)
@@ -514,18 +516,18 @@ Primary focus of Developer is to write code. Build, Test and Deploy of the appli
 ![](https://cdn.hackernoon.com/images/xzGWqRsCCCcMmCRudhdkUodDI4h2-2p93p40.jpeg)
 There are many container registry options on the market, serving customers of different types, sizes, and needs. Let's look at our top 8.
 
-### [126. Why Tracking Vulnerabilities After Deployment Is Important](https://hackernoon.com/why-tracking-vulnerabilities-after-deployment-is-important)
+### [126. 3 Free Ways to Learn Kubernetes and Red Hat OpenShift](https://hackernoon.com/3-free-ways-to-learn-kubernetes-and-red-hat-openshift)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-9q0364v.jpeg)
+I've compiled a list of three resources where you can get started with Kubernetes and Red Hat OpenShift, Red Hat's enterprise Kubernetes platform.
+
+### [127. Why Tracking Vulnerabilities After Deployment Is Important](https://hackernoon.com/why-tracking-vulnerabilities-after-deployment-is-important)
 ![](https://cdn.hackernoon.com/images/xzGWqRsCCCcMmCRudhdkUodDI4h2-b093pmn.jpeg)
 Explore why you should track vulnerabilities after deploying your software,
 ways to track vulnerabilities, and how to keep your users and business safe. 
 
-### [127. Breaking Down What is New in Kubernetes 1.19](https://hackernoon.com/breaking-down-what-is-new-in-kubernetes-119)
+### [128. Breaking Down What is New in Kubernetes 1.19](https://hackernoon.com/breaking-down-what-is-new-in-kubernetes-119)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-vq93z4e.jpeg)
 The new Kubernetes 1.19 comes with 34 enhancements. Out of these, 10 have progressed to stable, 15 are in the beta stage, and 9 are in the alpha.
-
-### [128. 3 Free Ways to Learn Kubernetes and Red Hat OpenShift](https://hackernoon.com/3-free-ways-to-learn-kubernetes-and-red-hat-openshift)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-9q0364v.jpeg)
-I've compiled a list of three resources where you can get started with Kubernetes and Red Hat OpenShift, Red Hat's enterprise Kubernetes platform.
 
 ### [129. How CI/CD and Microservices Led to Kubernetes: Kube Explained Part 1](https://hackernoon.com/kube-explained-part-1-how-cicd-and-microservices-led-to-kubernetes-r1r3tgh)
 ![](https://cdn.hackernoon.com/drafts/8v1n3tkm.png)
@@ -575,21 +577,21 @@ Kubernetes has revolutionized the way developers run their workloads by abstract
 ![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-cil135nb.jpeg)
 Helm is a package manager for Kubernetes.  In this tutorial we will explore Helm tasks, components, charts, and installations.
 
-### [141. The Noonification: 4 Common NFT Contract Design Anti-Patterns (8/26/2022)](https://hackernoon.com/8-26-2022-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-8/26/2022: Top 5 stories on the Hackernoon homepage!
-
-### [142. 306 Stories To Learn About Docker](https://hackernoon.com/306-stories-to-learn-about-docker)
+### [141. 306 Stories To Learn About Docker](https://hackernoon.com/306-stories-to-learn-about-docker)
 ![](https://cdn.hackernoon.com/images/github/docker-682.png)
 Learn everything you need to know about Docker via these 306 free HackerNoon stories.
 
-### [143. Web Application Development: Principles of Development Based on Microservices. Part 2.](https://hackernoon.com/web-application-development-principles-of-development-based-on-microservices-part-2)
-![](https://cdn.hackernoon.com/images/Lg3GSwToPlQKlwwujXA8JQtg9cm1-kn93nyj.jpeg)
-To use a microservice architecture, the developer needs to study special technologies that are applicable for such web app development.
+### [142. The Noonification: 4 Common NFT Contract Design Anti-Patterns (8/26/2022)](https://hackernoon.com/8-26-2022-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+8/26/2022: Top 5 stories on the Hackernoon homepage!
 
-### [144. Docker Image vs. Container: What Are the Differences?](https://hackernoon.com/docker-image-vs-container-what-are-the-differences)
+### [143. Docker Image vs. Container: What Are the Differences?](https://hackernoon.com/docker-image-vs-container-what-are-the-differences)
 ![](https://cdn.hackernoon.com/images/wER5DOaiyHQO9ahodLZ5vysnJpu1-hs93vug.jpeg)
 Learning the difference between a Docker image vs container is a fundamental concept of containerization that you should understand.
+
+### [144. Web Application Development: Principles of Development Based on Microservices. Part 2.](https://hackernoon.com/web-application-development-principles-of-development-based-on-microservices-part-2)
+![](https://cdn.hackernoon.com/images/Lg3GSwToPlQKlwwujXA8JQtg9cm1-kn93nyj.jpeg)
+To use a microservice architecture, the developer needs to study special technologies that are applicable for such web app development.
 
 ### [145. Kubernetes Explained Simply: Waiting For Kubernetes [Part 5]](https://hackernoon.com/kubernetes-explained-simply-waiting-for-kubernetes-part-5-q31x31uz)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-ixp2807.jpeg)
@@ -603,18 +605,17 @@ There’s a short answer, and a long answer. The short answer, that will satisfy
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-wm0380k.jpeg)
 Managing your own containers versus letting serverless do it for you - when to choose what? Let's go over the pros and cons.
 
-### [148. 3 Types of Security Policies You Can Use with Your Kubernetes Pods](https://hackernoon.com/3-types-of-security-policies-you-can-use-with-your-kubernetes-pods-7b1p3zf9)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxHEzVzpvx7XrbrxTOBljf9InvPY2-xh1s2557.jpeg?alt=media&token=438f74de-e2a1-4374-8534-1162eebeb35f)
-On August 20, 2020, a provider of access management tools released an advisory detailing several misconfiguration issues that affected the kubelet. This feature of Kubernetes functions as the primary “node agent” running on each node. In order to support this functionality, the kubelet maintains full control over a pod running in a node. 
+### [148. Unleashing Next-Gen Docker Capabilities with Wasm, eBPF, and Serverless Containers](https://hackernoon.com/unleashing-next-gen-docker-capabilities-with-wasm-ebpf-and-serverless-containers)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-0p135uc.jpeg)
+Explore how WebAssembly, eBPF, and serverless containers are redefining Docker with faster performance, stronger security, and effortless scaling.
 
 ### [149. Running a Docker Container: An Intro for Beginners ](https://hackernoon.com/running-a-docker-container-an-intro-for-beginners)
 ![](https://cdn.hackernoon.com/images/wER5DOaiyHQO9ahodLZ5vysnJpu1-8e93qqf.jpeg)
 Learning how to run a Docker container is a key skill that all DevOps engineers must understand to be effective in managing containers.
 
-### [150. Your Serverless Guide is Ready](https://hackernoon.com/your-serverless-guide-is-ready-bc2i33gz)
-![](https://cdn.hackernoon.com/images/vI89MS8Ou8OYOnT4ESBSH9HkCrz2-h23c33va.jpeg)
-Learn everything you need to know about Serverless, including case studies, essential concepts, guidelines, and best practices.
-
+### [150. 3 Types of Security Policies You Can Use with Your Kubernetes Pods](https://hackernoon.com/3-types-of-security-policies-you-can-use-with-your-kubernetes-pods-7b1p3zf9)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxHEzVzpvx7XrbrxTOBljf9InvPY2-xh1s2557.jpeg?alt=media&token=438f74de-e2a1-4374-8534-1162eebeb35f)
+On August 20, 2020, a provider of access management tools released an advisory detailing several misconfiguration issues that affected the kubelet. This feature of Kubernetes functions as the primary “node agent” running on each node. In order to support this functionality, the kubelet maintains full control over a pod running in a node. 
 
 ### [151. Installing Docker Desktop on Debian and Maximizing Container Management](https://hackernoon.com/installing-docker-desktop-on-debian-and-maximizing-container-management)
 ![](https://cdn.hackernoon.com/images/8upljBAwB9NBg3nVUfUzN9VfutI3-tn92wya.jpeg)
@@ -624,53 +625,54 @@ A guide to efficiently install and manage Docker on Debian, enabling streamlined
 ![](https://cdn.hackernoon.com/images/containers-tk196ofbl68zspzcqctuzw42.png)
 In this tutorial, we'll explore everything you need to know about Kubeadm commands and how to use them to create & manage cluster components in Kubernetes. 
 
-### [153. Learn How to Pick the Correct Dictionary in C++ With Ordered Containers](https://hackernoon.com/learn-how-to-pick-the-correct-dictionary-in-c-with-ordered-containers)
+### [153. Your Serverless Guide is Ready](https://hackernoon.com/your-serverless-guide-is-ready-bc2i33gz)
+![](https://cdn.hackernoon.com/images/vI89MS8Ou8OYOnT4ESBSH9HkCrz2-h23c33va.jpeg)
+Learn everything you need to know about Serverless, including case studies, essential concepts, guidelines, and best practices.
+
+
+### [154. Learn How to Pick the Correct Dictionary in C++ With Ordered Containers](https://hackernoon.com/learn-how-to-pick-the-correct-dictionary-in-c-with-ordered-containers)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-lz02t9v.jpeg)
 When it comes to picking an associative container (like a hash map), modern C++ has a lot to offer.
-
-### [154. Linux-based Containers under the Hood](https://hackernoon.com/linux-based-containers-under-the-hood)
-![](https://cdn.hackernoon.com/images/2jmT8Pmc7QMn8DtMC0v9qnNrnKa2-oh037w5.jpeg)
-Containers under Linux - building a container from scratch.
 
 ### [155. A Guide to Deploying Dolphinscheduler With Docker](https://hackernoon.com/a-guide-to-deploying-dolphinscheduler-with-docker)
 ![](https://cdn.hackernoon.com/images/GQtxSqyLbmdhnAkgEuIOHc3Vmm83-4a9369s.png)
 Docker deployment aims to start and deploy Apache Dolphinscheduler services quickly in a container.
 
-### [156. Docker And JFrog Partnership: Path To Limitless DevOps in the Cloud](https://hackernoon.com/docker-and-jfrog-partnership-path-to-limitless-devops-in-the-cloud-4o2u33au)
-![](https://cdn.hackernoon.com/images/vI89MS8Ou8OYOnT4ESBSH9HkCrz2-ul4833nf.jpeg)
-This article talks about the recent partnership between Docker and JFrog and how this partnership impacts developers and enterprises positively
-
-### [157. Kubernetes Explained Simply: Cleaning Up After Yourself [Part 10]](https://hackernoon.com/kubernetes-explained-simply-cleaning-up-after-yourself-part-10-r5s33oc)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-qfu328e.jpeg)
-If there's one thing that Kubernetes makes easy, it's creating resources – pods, deployments, volumes – before long you'll have tons of them lying around.
-
-### [158. Deploy Your Application with Kafka and Docker in 20 Minutes ](https://hackernoon.com/deploy-your-application-with-kafka-and-docker-in-20-minutes)
+### [156. Deploy Your Application with Kafka and Docker in 20 Minutes ](https://hackernoon.com/deploy-your-application-with-kafka-and-docker-in-20-minutes)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-tna3prt.jpeg)
 In this tutorial, we'll walk you through how to use Docker, Kafka, and Kubernetes to deploy a simple application.
 
-### [159. Your Friendly Service Mesh for Abstract Network Architecture - Istio](https://hackernoon.com/istio-your-friendly-service-mesh-8qoj3zun)
-![](https://cdn.hackernoon.com/images/e53d3zmg.jpg)
-There is a new hype in the DevOps world: Istio and service meshes. But why exactly is everyone suddenly migrating to Istio? In this post, we will examine whether it actually makes sense to use Istio and in which use cases it may help you (as well as when it’s simply an overkill).
+### [157. Linux-based Containers under the Hood](https://hackernoon.com/linux-based-containers-under-the-hood)
+![](https://cdn.hackernoon.com/images/2jmT8Pmc7QMn8DtMC0v9qnNrnKa2-oh037w5.jpeg)
+Containers under Linux - building a container from scratch.
 
-### [160. Unleashing Next-Gen Docker Capabilities with Wasm, eBPF, and Serverless Containers](https://hackernoon.com/unleashing-next-gen-docker-capabilities-with-wasm-ebpf-and-serverless-containers)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-0p135uc.jpeg)
-Explore how WebAssembly, eBPF, and serverless containers are redefining Docker with faster performance, stronger security, and effortless scaling.
+### [158. Docker And JFrog Partnership: Path To Limitless DevOps in the Cloud](https://hackernoon.com/docker-and-jfrog-partnership-path-to-limitless-devops-in-the-cloud-4o2u33au)
+![](https://cdn.hackernoon.com/images/vI89MS8Ou8OYOnT4ESBSH9HkCrz2-ul4833nf.jpeg)
+This article talks about the recent partnership between Docker and JFrog and how this partnership impacts developers and enterprises positively
 
-### [161. The Grand Cluster Hotel](https://hackernoon.com/the-grand-cluster-hotel-7jd32gb)
+### [159. Kubernetes Explained Simply: Cleaning Up After Yourself [Part 10]](https://hackernoon.com/kubernetes-explained-simply-cleaning-up-after-yourself-part-10-r5s33oc)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-qfu328e.jpeg)
+If there's one thing that Kubernetes makes easy, it's creating resources – pods, deployments, volumes – before long you'll have tons of them lying around.
+
+### [160. The Grand Cluster Hotel](https://hackernoon.com/the-grand-cluster-hotel-7jd32gb)
 ![](https://cdn.hackernoon.com/images/2qj232v3.jpg)
 A non-technical explanation of Docker containers, Kubernetes, and clusters.
+
+### [161. Your Friendly Service Mesh for Abstract Network Architecture - Istio](https://hackernoon.com/istio-your-friendly-service-mesh-8qoj3zun)
+![](https://cdn.hackernoon.com/images/e53d3zmg.jpg)
+There is a new hype in the DevOps world: Istio and service meshes. But why exactly is everyone suddenly migrating to Istio? In this post, we will examine whether it actually makes sense to use Istio and in which use cases it may help you (as well as when it’s simply an overkill).
 
 ### [162. Amazon Elastic Kubernetes Service (EKS) vs. Azure Kubernetes Service (AKS), A Comparison](https://hackernoon.com/amazon-elastic-kubernetes-service-eks-vs-azure-kubernetes-service-aks-a-comparison)
 ![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-pn037bb.jpeg)
 Managed Kubernetes is experiencing massive growth in adoption and many organizations are moving their self-managed Kubernetes clusters.
 
-### [163. How To Manage Local Kubernetes Testing with KIND Tool](https://hackernoon.com/how-to-manage-local-kubernetes-testing-with-kind-tool-p61q3u9o)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-uc113uvc.jpeg?alt=media&token=e9fbd1cb-ce48-4a03-8396-c7726594e158)
-If you've spent days (or even weeks?) trying to spin up a Kubernetes cluster for learning purposes or to test your application, then your worries are over. Spawned from a Kubernetes Special Interest Group, KIND is a tool that provisions a Kubernetes cluster running IN Docker.
-
-### [164. A Comprehensive Guide to Docker's Basic Commands](https://hackernoon.com/a-comprehensive-guide-to-dockers-basic-commands)
+### [163. A Comprehensive Guide to Docker's Basic Commands](https://hackernoon.com/a-comprehensive-guide-to-dockers-basic-commands)
 ![](https://cdn.hackernoon.com/images/8upljBAwB9NBg3nVUfUzN9VfutI3-kt92w2a.jpeg)
 Learn the basics of Docker with this comprehensive guide to the most important commands.
+
+### [164. How To Manage Local Kubernetes Testing with KIND Tool](https://hackernoon.com/how-to-manage-local-kubernetes-testing-with-kind-tool-p61q3u9o)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-uc113uvc.jpeg?alt=media&token=e9fbd1cb-ce48-4a03-8396-c7726594e158)
+If you've spent days (or even weeks?) trying to spin up a Kubernetes cluster for learning purposes or to test your application, then your worries are over. Spawned from a Kubernetes Special Interest Group, KIND is a tool that provisions a Kubernetes cluster running IN Docker.
 
 ### [165. Doing First Steps with the Kubernetes Operator ](https://hackernoon.com/doing-first-steps-with-the-kubernetes-operator-ovgp3yq9)
 ![](https://cdn.hackernoon.com/images/ag4lw3ycg.jpg)
@@ -694,53 +696,53 @@ The building block of almost all Kubernetes deployments is the pod – one or 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-rx413uyu.jpeg?alt=media&token=b56d252e-902a-4854-aec8-e370ca329b5b)
 In the last guide, you learned how to set up, install, and configure Ansible on Ubuntu 18.04. Now, you will use the Ansible to install and set Docker on a remote machine. To begin this guide, you need the following:
 
-### [170. Two Key Points of Containerisation You Need to Know by Heart](https://hackernoon.com/two-key-points-of-containerisation-you-need-to-know-by-heart-m91g3wu9)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNYHaqVIHetNS6egXcGdhZe9yWlr2-fy5y3th7.jpeg?alt=media&token=76654ac6-d159-4baf-a44d-b0c4fc1b6be4)
-What is containerisation and what’s so great about it anyway? You may work with container-based applications every day at work, but there comes a time when an intern or a fresh graduate new joiner (or perhaps a non-IT colleague) in your team ask you these questions and you find yourself stopped in your track thinking: “where should I start?”. 
-
-### [171. Kubernetes Scheduler: Explained in Plain English with Comics](https://hackernoon.com/kubernetes-scheduler-explained-in-plain-english-with-comics-z89z3v15)
-![](https://cdn.hackernoon.com/images/ah1q3yh6.jpg)
-In Kubernetes pod is the smallest deployable unit of workload. So the obvious question : 
-
-### [172. Another Reason to Use Docker](https://hackernoon.com/another-reason-to-use-docker-wr2433ye)
+### [170. Another Reason to Use Docker](https://hackernoon.com/another-reason-to-use-docker-wr2433ye)
 ![](https://images.unsplash.com/photo-1500748711860-9cfa80025ceb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Recently I was working on a project which includes Terraform and AWS stuff. While working on that I was using my local machine for terraform code testing and luckily everything was going fine. But when we actually want to test it for the production environment we got some issues there. Then, as usual, we started to dig into the issue and finally, we got the issue which was quite a silly one 😜. The production server Terraform version and my local development server Terraform version was not the same.
 
-### [173. A Guide to Container Networking: Simplified](https://hackernoon.com/a-guide-to-container-networking-simplified)
+### [171. A Guide to Container Networking: Simplified](https://hackernoon.com/a-guide-to-container-networking-simplified)
 ![](https://cdn.hackernoon.com/images/a-matrix-of-network-fbjefqm1sg49sdjhnv9dn62v.png)
 An introduction to container networking and isolation, exploring key concepts like virtual networks and docker devices in a multi-part blog series
 
-### [174. Installing Ansible on Ubuntu [Part 1]](https://hackernoon.com/installing-ansible-on-ubuntu-part-1-2i153ui8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-qheh3ugv.jpeg?alt=media&token=e6cb03fe-b51a-46d5-b62d-44340db4ac46)
-Ansible is a Configuration Management and Application Deployment system that is designed to streamline the process of controlling a large number of servers, basically for administration and operational processes. In other words, it allows you to control several remote machines in an automated fashion from a location.
+### [172. Two Key Points of Containerisation You Need to Know by Heart](https://hackernoon.com/two-key-points-of-containerisation-you-need-to-know-by-heart-m91g3wu9)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNYHaqVIHetNS6egXcGdhZe9yWlr2-fy5y3th7.jpeg?alt=media&token=76654ac6-d159-4baf-a44d-b0c4fc1b6be4)
+What is containerisation and what’s so great about it anyway? You may work with container-based applications every day at work, but there comes a time when an intern or a fresh graduate new joiner (or perhaps a non-IT colleague) in your team ask you these questions and you find yourself stopped in your track thinking: “where should I start?”. 
 
-### [175. Creating an AWS Elastic Container Registry (ECR) Using an EC2 Instance on Ubuntu](https://hackernoon.com/creating-an-aws-elastic-container-registry-ecr-using-an-ec2-instance-on-ubuntu)
+### [173. Kubernetes Scheduler: Explained in Plain English with Comics](https://hackernoon.com/kubernetes-scheduler-explained-in-plain-english-with-comics-z89z3v15)
+![](https://cdn.hackernoon.com/images/ah1q3yh6.jpg)
+In Kubernetes pod is the smallest deployable unit of workload. So the obvious question : 
+
+### [174. Creating an AWS Elastic Container Registry (ECR) Using an EC2 Instance on Ubuntu](https://hackernoon.com/creating-an-aws-elastic-container-registry-ecr-using-an-ec2-instance-on-ubuntu)
 ![](https://cdn.hackernoon.com/images/5Vow8odJEkPfoJafQiJnmGFEkv23-ab12d356n.png)
 Docker allows developers to package applications in containers. This article will show you how to create your own container, upload it to the repository.
 
-### [176. Kubernetes Explained Simply: Getting At Those Logs [Part 4]](https://hackernoon.com/kubernetes-explained-simply-getting-at-those-logs-part-4-pq1d31i5)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-ezo28wd.jpeg)
-UNIX/Linux system administrators the world over regularly use log files to get to the bottom of outages and malfunctions. An indispensable tool in that regard is tail(1), particularly its follow mode flag (-f). When we're in a Kubernetes world, we'd love to use something similar.
-
-### [177. 10 Best Practices for Using Kubernetes Network Policies](https://hackernoon.com/10-best-practices-for-using-kubernetes-network-policies)
+### [175. 10 Best Practices for Using Kubernetes Network Policies](https://hackernoon.com/10-best-practices-for-using-kubernetes-network-policies)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-e793pj4.jpeg)
 In this article, we will explore 10 best practices for using Kubernetes Network Policies to enhance the security and reliability of your applications.
 
-### [178. Dockershim Deprecation: Is Docker Truly out of Game?](https://hackernoon.com/dockershim-deprecation-is-docker-truly-out-of-game-2x1h35qa)
-![](https://cdn.hackernoon.com/images/EKG5uIp4wlgSqOWjT0tj5LftlT12-9kcx33oi.jpeg)
-Dockershim deprecation only means the code maintenance of Dockershim in the code repository of Kubernetes will stop. 
+### [176. How to Use a Template to Use Docker with PHP](https://hackernoon.com/how-to-use-a-template-to-use-docker-with-php)
+![](https://cdn.hackernoon.com/images/9DGvEbbd20S6wIuDCTcX9gr5quL2-q103tv8.jpeg)
+Today I want to give you an easy-to-use template in order to use Docker with PHP, explained so you can understand how it works in just 10 minutes.
 
-### [179. DevOps, CI/CD, and Containerization: Key to Streamline Software Delivery](https://hackernoon.com/devops-cicd-and-containerization-key-to-streamline-software-delivery)
+### [177. Installing Ansible on Ubuntu [Part 1]](https://hackernoon.com/installing-ansible-on-ubuntu-part-1-2i153ui8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-qheh3ugv.jpeg?alt=media&token=e6cb03fe-b51a-46d5-b62d-44340db4ac46)
+Ansible is a Configuration Management and Application Deployment system that is designed to streamline the process of controlling a large number of servers, basically for administration and operational processes. In other words, it allows you to control several remote machines in an automated fashion from a location.
+
+### [178. DevOps, CI/CD, and Containerization: Key to Streamline Software Delivery](https://hackernoon.com/devops-cicd-and-containerization-key-to-streamline-software-delivery)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-vu93nao.jpeg)
 Take your organization to new heights with DevOps, CI/CD, and Containerization. Uncover the knowledge about these cutting-edge technologies in an impactful way.
 
-### [180. GitOps. GitOps? What is GitOps?](https://hackernoon.com/gitops-gitops-what-is-gitops)
+### [179. Dockershim Deprecation: Is Docker Truly out of Game?](https://hackernoon.com/dockershim-deprecation-is-docker-truly-out-of-game-2x1h35qa)
+![](https://cdn.hackernoon.com/images/EKG5uIp4wlgSqOWjT0tj5LftlT12-9kcx33oi.jpeg)
+Dockershim deprecation only means the code maintenance of Dockershim in the code repository of Kubernetes will stop. 
+
+### [180. Kubernetes Explained Simply: Getting At Those Logs [Part 4]](https://hackernoon.com/kubernetes-explained-simply-getting-at-those-logs-part-4-pq1d31i5)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-ezo28wd.jpeg)
+UNIX/Linux system administrators the world over regularly use log files to get to the bottom of outages and malfunctions. An indispensable tool in that regard is tail(1), particularly its follow mode flag (-f). When we're in a Kubernetes world, we'd love to use something similar.
+
+### [181. GitOps. GitOps? What is GitOps?](https://hackernoon.com/gitops-gitops-what-is-gitops)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-3b03nkt.jpeg)
 In this blog we will try to answer all your pressing questions about GitOps and find out how it can help you in the software delivery process.
-
-### [181. How to Use a Template to Use Docker with PHP](https://hackernoon.com/how-to-use-a-template-to-use-docker-with-php)
-![](https://cdn.hackernoon.com/images/9DGvEbbd20S6wIuDCTcX9gr5quL2-q103tv8.jpeg)
-Today I want to give you an easy-to-use template in order to use Docker with PHP, explained so you can understand how it works in just 10 minutes.
 
 ### [182. Why I Started Building My Own Containers (and What I Wish Tutorials Told Me)](https://hackernoon.com/why-i-started-building-my-own-containers-and-what-i-wish-tutorials-told-me)
 ![](https://cdn.hackernoon.com/images/Qzv3QWeOZubTntN1nWswOvzChUd2-4r82772.png)
@@ -750,13 +752,13 @@ Master the art of building your own containers. Learn a streamlined approach to 
 ![](https://cdn.hackernoon.com/drafts/dl1l3xke.png)
 In our previous post, Kube Explained: Part 1, I described how the introduction of the cloud resulted in CI/CD, Microservices, and a massive amount of pressure to standardize backend infrastructure tooling.
 
-### [184. RBAC and PSPs Can Only Bring Your Kubernetes Security So Far](https://hackernoon.com/rbac-and-psps-can-only-bring-your-kubernetes-security-so-far-lt4333c5)
-![](https://cdn.hackernoon.com/images/xHEzVzpvx7XrbrxTOBljf9InvPY2-di78250q.jpeg)
-Admins need to defend their organizations against a Kubernetes security incident. RBAC and PSPs will only get them so far; more security measures are needed.
-
-### [185. Kubernetes Tutorial: Merge all the Kubeconfigs! [Part 7]](https://hackernoon.com/kubernetes-tutorial-merge-all-the-kubeconfigs-part-7-qi1a31fd)
+### [184. Kubernetes Tutorial: Merge all the Kubeconfigs! [Part 7]](https://hackernoon.com/kubernetes-tutorial-merge-all-the-kubeconfigs-part-7-qi1a31fd)
 ![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-04p31xn.png)
 Once you start managing more than one Kubernetes cluster, you'll start to demand more from your $KUBECONFIG. 
+
+### [185. RBAC and PSPs Can Only Bring Your Kubernetes Security So Far](https://hackernoon.com/rbac-and-psps-can-only-bring-your-kubernetes-security-so-far-lt4333c5)
+![](https://cdn.hackernoon.com/images/xHEzVzpvx7XrbrxTOBljf9InvPY2-di78250q.jpeg)
+Admins need to defend their organizations against a Kubernetes security incident. RBAC and PSPs will only get them so far; more security measures are needed.
 
 ### [186. Get Better VMs, Containers and Serverless Computing Results By Following These Steps](https://hackernoon.com/get-better-vms-containers-and-serverless-computing-results-by-following-these-steps-ghj3wj1)
 ![](https://cdn.hackernoon.com/drafts/tp1pn3wzp.png)
@@ -774,82 +776,82 @@ Tired of complex dev environment setup? Learn proven strategies to reduce config
 ![](https://cdn.hackernoon.com/images/ZH4KDLliPahrd1Uge6E3YzICvtg2-jfj3f8g.jpeg)
 Ever wish you could combine the portability of containers, with the scalability of Lambda functions? Well now you can!
 
-### [190. How to Simplify Cron Monitoring With a Simple Bash Trick](https://hackernoon.com/how-to-simplify-cron-monitoring-with-a-simple-bash-trick-w5d32sg)
-![](https://cdn.hackernoon.com/drafts/1jbt32qb.png)
-If you have worked with software systems long enough you have surely worked with crons. Cron is a time-based task scheduler in UNIX-like operating systems. We use to run some task/script periodically, for example, every day at 9:30 AM.
-
-### [191. Using Workload Identity to Handle Keys in Google Kubernetes Engine](https://hackernoon.com/using-workload-identity-to-handle-keys-in-google-kubernetes-engine-9chz36aj)
-![](https://cdn.hackernoon.com/images/jl1q36jt.jpg)
-Workload identity is a modern way to provision keys for pods running on Google Kubernetes Engine. It allows individual pods to use a service account with a suitable set of permissions, without manually managing Kubernetes secrets. In this article, we will describe Workload identity, compare it to other approaches, and finally show a real world example on how to configure a Kubernetes cluster with Workload identity enabled.
-
-### [192. Exploring an Open Source Toolkit for Debugging Kubernetes - KoolKits](https://hackernoon.com/exploring-an-open-source-toolkit-for-debugging-kubernetes-koolkits)
-![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-ao92i9t.jpeg)
-A new open source approach for debugging live applications - right from inside your IDE or terminal window, and without stopping the live application.
-
-### [193. Containerization and Its Benefits ](https://hackernoon.com/containerization-and-its-benefits)
-![](https://cdn.hackernoon.com/images/9gE8Tr4eNOQs1QRV8GGfM1N6No73-ek93o0w.png)
-This post explains what containers are, key benefits of containers in software dev and discusses why you might consider adding them to your DevOps processes. 
-
-### [194. Exploring Containerization Beyond Kubernetes](https://hackernoon.com/exploring-containerization-beyond-kubernetes)
+### [190. Exploring Containerization Beyond Kubernetes](https://hackernoon.com/exploring-containerization-beyond-kubernetes)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-9o93hq5.jpeg)
 Here's why cloud-based PaaS and Containers make a solid combination for most developers.
 
-### [195. Kubernetes Day-2 Operations – Part II](https://hackernoon.com/kubernetes-day-2-operations---part-ii)
-![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-o293kmw.jpeg)
- It is undeniably confusing if you’re unfamiliar with infrastructure technologies and  leaning towards DevOps principles will further complicate the situation
+### [191. How to Simplify Cron Monitoring With a Simple Bash Trick](https://hackernoon.com/how-to-simplify-cron-monitoring-with-a-simple-bash-trick-w5d32sg)
+![](https://cdn.hackernoon.com/drafts/1jbt32qb.png)
+If you have worked with software systems long enough you have surely worked with crons. Cron is a time-based task scheduler in UNIX-like operating systems. We use to run some task/script periodically, for example, every day at 9:30 AM.
 
-### [196. Security Best Practices for Kubernetes: 2020 Edition](https://hackernoon.com/security-best-practices-for-kubernetes-2020-edition-zi9w3w7d)
-![](https://cdn.hackernoon.com/drafts/mrc33ve7.png)
-The New Cloud-Native World of Containers
+### [192. Using Workload Identity to Handle Keys in Google Kubernetes Engine](https://hackernoon.com/using-workload-identity-to-handle-keys-in-google-kubernetes-engine-9chz36aj)
+![](https://cdn.hackernoon.com/images/jl1q36jt.jpg)
+Workload identity is a modern way to provision keys for pods running on Google Kubernetes Engine. It allows individual pods to use a service account with a suitable set of permissions, without manually managing Kubernetes secrets. In this article, we will describe Workload identity, compare it to other approaches, and finally show a real world example on how to configure a Kubernetes cluster with Workload identity enabled.
 
-### [197. Top 10 Reasons To Love Docker](https://hackernoon.com/top-10-reasons-to-love-docker-rpa536ld)
+### [193. Exploring an Open Source Toolkit for Debugging Kubernetes - KoolKits](https://hackernoon.com/exploring-an-open-source-toolkit-for-debugging-kubernetes-koolkits)
+![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-ao92i9t.jpeg)
+A new open source approach for debugging live applications - right from inside your IDE or terminal window, and without stopping the live application.
+
+### [194. Top 10 Reasons To Love Docker](https://hackernoon.com/top-10-reasons-to-love-docker-rpa536ld)
 ![](https://cdn.hackernoon.com/drafts/qefg32io.png)
 When you first look into Docker, what it does, and how it works, it appears to be a neat tool to help with application packaging and deployment. It's not until you start using it, however, that some of the other benefits that developers love so much show themselves. So, to discover why this tool has become so popular, here are Ten Reasons Why Developers Love Docker.
 
-### [198. 4 Essential Steps To Convert a Kubernetes Fullstack App to Heroku](https://hackernoon.com/4-essential-steps-to-convert-a-kubernetes-fullstack-app-to-heroku-wmm3t5e)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-5k1k4xb8.jpeg?alt=media&token=263265be-d45b-4747-8e13-809cd1a36a67)
-In the last several years, Google’s Kubernetes project has generated huge buzz. The project has grown and evolved into a titan of the cloud infrastructure world. 
+### [195. Containerization and Its Benefits ](https://hackernoon.com/containerization-and-its-benefits)
+![](https://cdn.hackernoon.com/images/9gE8Tr4eNOQs1QRV8GGfM1N6No73-ek93o0w.png)
+This post explains what containers are, key benefits of containers in software dev and discusses why you might consider adding them to your DevOps processes. 
+
+### [196. Kubernetes Day-2 Operations – Part II](https://hackernoon.com/kubernetes-day-2-operations---part-ii)
+![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-o293kmw.jpeg)
+ It is undeniably confusing if you’re unfamiliar with infrastructure technologies and  leaning towards DevOps principles will further complicate the situation
+
+### [197. Security Best Practices for Kubernetes: 2020 Edition](https://hackernoon.com/security-best-practices-for-kubernetes-2020-edition-zi9w3w7d)
+![](https://cdn.hackernoon.com/drafts/mrc33ve7.png)
+The New Cloud-Native World of Containers
+
+### [198. Why SMEs Should Opt for Managed Kubernetes](https://hackernoon.com/why-smes-should-opt-for-managed-kubernetes)
+![](https://cdn.hackernoon.com/images/illustrate-a-table-thats-full-of-business-documents-clfbmyyxs000001s6emo6da0y.png)
+
 
 ### [199. How To Use Brigade Tool For Event-Driven Scripting](https://hackernoon.com/how-to-use-brigade-tool-for-event-driven-scripting-fm1z3unr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-0m7z3u63.jpeg?alt=media&token=32e57d37-490b-4d67-bfbc-31292e4be013)
 What is Brigade?
 
-### [200. Why SMEs Should Opt for Managed Kubernetes](https://hackernoon.com/why-smes-should-opt-for-managed-kubernetes)
-![](https://cdn.hackernoon.com/images/illustrate-a-table-thats-full-of-business-documents-clfbmyyxs000001s6emo6da0y.png)
-
+### [200. 4 Essential Steps To Convert a Kubernetes Fullstack App to Heroku](https://hackernoon.com/4-essential-steps-to-convert-a-kubernetes-fullstack-app-to-heroku-wmm3t5e)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-5k1k4xb8.jpeg?alt=media&token=263265be-d45b-4747-8e13-809cd1a36a67)
+In the last several years, Google’s Kubernetes project has generated huge buzz. The project has grown and evolved into a titan of the cloud infrastructure world. 
 
 ### [201. Ever Wondered Why We Use Containers In DevOps?](https://hackernoon.com/ever-wondered-why-we-use-containers-in-devops-l5113wif)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-iw63wd9.jpeg?alt=media&token=211338ad-29c2-4636-98e4-5574bad1b634)
 At some point we've all said the words, "But it works on my machine." It usually happens during testing or when you're trying to get a new project set up. Sometimes it happens when you pull down changes from an updated branch.
 
-### [202. Write Your Own Kubernetes Sub-Command [Part 9]](https://hackernoon.com/write-your-own-kubernetes-sub-command-part-9-46y32u8)
+### [202. Cloud Native Applications: Creating a Mail Server Environment with Docker](https://hackernoon.com/cloud-native-applications-installing-mail-server-using-docker-ozh3u00)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FoixVc4XGRWfVg9MOoG0VR6JOVKz1-nt53wp0.jpeg?alt=media&token=16cd6301-9f18-4414-bacb-e020104d9173)
+We’ve all been there. You’ve read a lot about the basics of Docker, Kubernetes, Pods, ReplicaSets, Deployments & more. The different parts that are used to build cloud native applications.
+
+### [203. Write Your Own Kubernetes Sub-Command [Part 9]](https://hackernoon.com/write-your-own-kubernetes-sub-command-part-9-46y32u8)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-gc1331i0.jpeg)
 You write a great script for interacting with Kubernetes. It would be great if you could pretend that your script was officially part of the kubectl repertoire.
 
-### [203. What Is a Container And How To Use It](https://hackernoon.com/what-is-a-container-and-how-to-use-it-ip2j3us3)
+### [204. What Is a Container And How To Use It](https://hackernoon.com/what-is-a-container-and-how-to-use-it-ip2j3us3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-y5b93uwi.jpeg?alt=media&token=30c7f9e5-bee3-48fb-812f-93ccc81d5f60)
 Welcome to this tutorial series, where we will evolve from the anatomy of a container inside the Linux Kernel, and will keep building pieces and evolving till the publication of a service into an Orchestration Platform. The general idea is to detail as much as possible (without being massive) how is things working under the hood.
 
-### [204. [Announcement] Running Your Containers on AWS Is Coming Up On Twitch in September 2020](https://hackernoon.com/announcement-running-your-containers-on-aws-is-coming-up-on-twitch-in-september-2020-3v433xm6)
+### [205. [Announcement] Running Your Containers on AWS Is Coming Up On Twitch in September 2020](https://hackernoon.com/announcement-running-your-containers-on-aws-is-coming-up-on-twitch-in-september-2020-3v433xm6)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FDtFsnH4V0uOm9okhi0U8yhOYFlU2-a853ueq.jpeg?alt=media&token=326bee88-3bb6-4ba0-8ed6-e275b4d60701)
 Have you ever had questions about running your containers on AWS? If so, this upcoming, Developers, Let's Code session is for you! 
-
-### [205. Cloud Native Applications: Creating a Mail Server Environment with Docker](https://hackernoon.com/cloud-native-applications-installing-mail-server-using-docker-ozh3u00)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FoixVc4XGRWfVg9MOoG0VR6JOVKz1-nt53wp0.jpeg?alt=media&token=16cd6301-9f18-4414-bacb-e020104d9173)
-We’ve all been there. You’ve read a lot about the basics of Docker, Kubernetes, Pods, ReplicaSets, Deployments & more. The different parts that are used to build cloud native applications.
 
 ### [206. How Kubernetes Can Make Your High Load Project Viable in 2020](https://hackernoon.com/how-kubernetes-can-make-your-high-load-project-viable-in-2020-qved3yyt)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3y82rri.jpeg)
 Kubernetes is an open-source container orchestration system that is designed to help you build a scalable infrastructure using high load approaches on a weak server. In this article, we’ll show you why Kubernetes is worth using in 2020.
 
-### [207. Can Multi-Cloud Kubernetes Platforms Make Infrastructure Prices Comparable?](https://hackernoon.com/can-multi-cloud-kubernetes-platforms-make-infrastructure-prices-comparable-lua93vra)
-![](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Kubernetes enables you to deploy, scale and manage your container-based applications and multi-cloud management tools simplify the use of different clouds. Together this might help us to finally understand and optimize the pricing of our infrastructure.
-
-### [208. Streamlining Apache APISIX for Operations](https://hackernoon.com/streamlining-apache-apisix-for-operations)
+### [207. Streamlining Apache APISIX for Operations](https://hackernoon.com/streamlining-apache-apisix-for-operations)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-9s92agr.jpeg)
 
 Optimize Apache APISIX configuration for diverse environments using file-based and environment-based settings within containers.
+
+### [208. Can Multi-Cloud Kubernetes Platforms Make Infrastructure Prices Comparable?](https://hackernoon.com/can-multi-cloud-kubernetes-platforms-make-infrastructure-prices-comparable-lua93vra)
+![](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Kubernetes enables you to deploy, scale and manage your container-based applications and multi-cloud management tools simplify the use of different clouds. Together this might help us to finally understand and optimize the pricing of our infrastructure.
 
 ### [209. Kubernetes' Impact on Development](https://hackernoon.com/kubernetes-impact-on-development)
 ![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-m293jk6.jpeg)
@@ -863,13 +865,13 @@ What are bimodal failure modes and how to avoid them
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-9x02gt6.jpeg)
 Skaffold is a cloud native open source framework from Google that lets Spring Boot developers build Kubernetes apps easily and deploy effortlessly
 
-### [212. Helm — Everything You Need to Know Part II](https://hackernoon.com/helm-everything-you-need-to-know-part-ii)
-![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-d5l03554.jpeg)
- In this tutorial, we are going to learn about Helm versions (v2 vs. v3), and a practical example of how to use it. 
-
-### [213. How Metrics and Traces Power Kubernetes Insights](https://hackernoon.com/how-metrics-and-traces-power-kubernetes-insights)
+### [212. How Metrics and Traces Power Kubernetes Insights](https://hackernoon.com/how-metrics-and-traces-power-kubernetes-insights)
 ![](https://cdn.hackernoon.com/images/gOION3UpzLYB2bAzKFMIXwcmdD03-ht93kxm.jpeg)
 Explore the importance of metrics and traces in the dynamic world of cloud-deployed container workloads like Kubernetes.
+
+### [213. Helm — Everything You Need to Know Part II](https://hackernoon.com/helm-everything-you-need-to-know-part-ii)
+![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-d5l03554.jpeg)
+ In this tutorial, we are going to learn about Helm versions (v2 vs. v3), and a practical example of how to use it. 
 
 ### [214. Comparing Physical Logistics with Virtualized Deployments](https://hackernoon.com/comparing-physical-logistics-with-virtualized-deployments)
 ![](https://cdn.hackernoon.com/images/zpA8BwP5iRUp1Yp5aGImZfUk4uw1-6d830qn.jpeg)
@@ -879,30 +881,30 @@ Software containers are a virtualization technology that provide a lightweight i
 ![](https://cdn.hackernoon.com/drafts/wh643691.png)
 The advantages of moving security into the DevOps lifecycle early are well-studied. For example, Puppet’s 2019 State of DevOps Report details numerous ways that both security and DevOps improve when security is integrated into DevOps earlier (aka: Shift Left).   
 
-### [216. Incorporating AWS Fargate In Your Kubernetes Deployment](https://hackernoon.com/incorporating-aws-fargate-in-your-kubernetes-deployment)
-![](https://cdn.hackernoon.com/images/uxL6qPzHtYSIO6VSowClROvyZ2Z2-r893svi.jpeg)
- In this article, we will explore methods of incorporating AWS Fargate into your Kubernetes deployment for more streamlined management and enhanced efficiency.
-
-### [217. Why you Should Get Started Building Containers on Kubernetes](https://hackernoon.com/why-you-should-get-started-building-containers-on-kubernetes)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-1w03n1x.jpeg)
-Kubernetes is ideal for container orchestration. Because of its features, it also comes with complexity. In this article, we will discuss when to use Kubernetes
-
-### [218. Unlocking Freedom from the Cloud: Empower Your Apps with MRSK's Optimal Orchestration](https://hackernoon.com/unlocking-freedom-from-the-cloud-empower-your-apps-with-mrsks-optimal-orchestration)
-![](https://cdn.hackernoon.com/images/SZGZVBzn9XWfgTF639Yroy1Fu4q1-7l93t5h.png)
-A lightweight alternative to Kubernetes. Powering the likes of Hey.com and Basecamp
-
-### [219. Get your First Container Up on Kubernetes Using the Free Version of Platform9 Managed Kubernetes](https://hackernoon.com/get-your-first-container-up-on-kubernetes-using-the-free-version-of-platform9-managed-kubernetes-p65u32u9)
-![](https://cdn.hackernoon.com/images/zx14y3ysc.jpg)
-Kubernetes in the leading Container Orchestration platform that allows you to apply fast and streamlined infrastructure workloads using a declarative API.
-
-### [220. The Best Practice for Container Queries: Place Them in a Parent Element](https://hackernoon.com/the-best-practice-for-container-queries-place-them-in-a-parent-element)
-![](https://cdn.hackernoon.com/images/TrD4DzyJu6g677bJSu6xzJ3TxA12-kub3r3v.png)
-There's only one best practice that I would recommend when using container queries — that's to place the container in a parent element. 
-
-### [221. Reducing Kubernetes Costs](https://hackernoon.com/reducing-kubernetes-costs)
+### [216. Reducing Kubernetes Costs](https://hackernoon.com/reducing-kubernetes-costs)
 ![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-qx13g3r.jpeg)
 Kubernetes has become the de-facto choice for most users and one aspect that any Kubernetes administrator must look into is managing Kubernetes costs.
 
+
+### [217. Incorporating AWS Fargate In Your Kubernetes Deployment](https://hackernoon.com/incorporating-aws-fargate-in-your-kubernetes-deployment)
+![](https://cdn.hackernoon.com/images/uxL6qPzHtYSIO6VSowClROvyZ2Z2-r893svi.jpeg)
+ In this article, we will explore methods of incorporating AWS Fargate into your Kubernetes deployment for more streamlined management and enhanced efficiency.
+
+### [218. Why you Should Get Started Building Containers on Kubernetes](https://hackernoon.com/why-you-should-get-started-building-containers-on-kubernetes)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-1w03n1x.jpeg)
+Kubernetes is ideal for container orchestration. Because of its features, it also comes with complexity. In this article, we will discuss when to use Kubernetes
+
+### [219. Unlocking Freedom from the Cloud: Empower Your Apps with MRSK's Optimal Orchestration](https://hackernoon.com/unlocking-freedom-from-the-cloud-empower-your-apps-with-mrsks-optimal-orchestration)
+![](https://cdn.hackernoon.com/images/SZGZVBzn9XWfgTF639Yroy1Fu4q1-7l93t5h.png)
+A lightweight alternative to Kubernetes. Powering the likes of Hey.com and Basecamp
+
+### [220. Get your First Container Up on Kubernetes Using the Free Version of Platform9 Managed Kubernetes](https://hackernoon.com/get-your-first-container-up-on-kubernetes-using-the-free-version-of-platform9-managed-kubernetes-p65u32u9)
+![](https://cdn.hackernoon.com/images/zx14y3ysc.jpg)
+Kubernetes in the leading Container Orchestration platform that allows you to apply fast and streamlined infrastructure workloads using a declarative API.
+
+### [221. The Best Practice for Container Queries: Place Them in a Parent Element](https://hackernoon.com/the-best-practice-for-container-queries-place-them-in-a-parent-element)
+![](https://cdn.hackernoon.com/images/TrD4DzyJu6g677bJSu6xzJ3TxA12-kub3r3v.png)
+There's only one best practice that I would recommend when using container queries — that's to place the container in a parent element. 
 
 ### [222. Kubernetes Deprecates Docker to Support the Open Container Initiative ](https://hackernoon.com/kubernetes-deprecates-docker-to-support-the-open-container-initiative-vy21346s)
 ![](https://hackernoon.com/images/9ssEGy6050M4h36hhJYBOkL8hRB3-1f4u26jy.jpeg)

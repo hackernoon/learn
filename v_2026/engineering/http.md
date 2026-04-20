@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [http](https://hackernoon.com/tagged/http)
+### Let's learn about [Http](https://hackernoon.com/tagged/http) via these 61 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+HTTP, or Hypertext Transfer Protocol, is the foundation of data communication for the World Wide Web, enabling the exchange of information between web servers and clients. It is crucial for how we access and interact with websites, making the internet functional and accessible.
+
 ### [1. How to Intercept HTTP Request Response in Spring Boot](https://hackernoon.com/how-to-intercept-http-request-response-in-spring-boot)
 ![](https://cdn.hackernoon.com/images/a-screen-displaying-a-websites-backend-zjzcih4mgxdzuqsie45zvc2o.png)
 In this article, we'll learn about creating and using interceptors in Spring boot. 
@@ -103,13 +107,13 @@ A guide on why Webhooks are often considered better than regular HTTP requests f
 ![](https://cdn.hackernoon.com/images/hqDN1TAOa5SUhZGF9hJRaV1cjIB3-fb03865.jpeg)
 Explore three approaches to implementing short HTTP polling using client-side JavaScript.
 
-### [25. Building a Secure Web Chat With Redis, mTLS and GCP](https://hackernoon.com/building-a-secure-web-chat-with-redis-mtls-and-gcp)
-![](https://cdn.hackernoon.com/images/PyERAjWATVTJ0CA5MOShZMIP0CF2-p5s35sd.jpeg)
-Securing Redis installation with mTLS and accessing it from a compute instance on GCP for free.
-
-### [26. Axios: What to Do When Something Goes Wrong](https://hackernoon.com/axios-what-to-do-when-something-goes-wrong)
+### [25. Axios: What to Do When Something Goes Wrong](https://hackernoon.com/axios-what-to-do-when-something-goes-wrong)
 ![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-0193rqx.jpeg)
 You've seen a couple of ways to deal with error responses when making HTTP calls with Axios. 
+
+### [26. Building a Secure Web Chat With Redis, mTLS and GCP](https://hackernoon.com/building-a-secure-web-chat-with-redis-mtls-and-gcp)
+![](https://cdn.hackernoon.com/images/PyERAjWATVTJ0CA5MOShZMIP0CF2-p5s35sd.jpeg)
+Securing Redis installation with mTLS and accessing it from a compute instance on GCP for free.
 
 ### [27. Parsing Data from Any Site Part 1 - Sniffer http/https Packets](https://hackernoon.com/parsing-data-from-any-site-part-1-sniffer-httphttps-packets)
 ![](https://cdn.hackernoon.com/images/ZBIjV3C6REYMeYUBWPx5RicU6Qo2-bx0387p.jpeg)
@@ -127,17 +131,17 @@ HTTP is a protocol which allows the fetching of resources, such as HTML document
 ![](https://cdn.hackernoon.com/images/ewy2et5.jpg)
 Compression is an important way to increase the performance of a Web site. For some documents, size reduction of up to 70% lowers the bandwidth capacity needs. Over the years, algorithms also got more efficient, and new ones are supported by clients and servers.
 
-### [31. The Glory of REST: Is It Really That Glorious? ](https://hackernoon.com/the-glory-of-rest-is-it-really-that-glorious)
+### [31. What Happens When You Click a URL: DNS Lookup, TCP Handshake & HTTP Request](https://hackernoon.com/what-happens-when-you-click-a-url-dns-lookup-tcp-handshake-and-http-request)
+![](https://cdn.hackernoon.com/images/OvBGt46oGAcBSX3jKWMtVuNCZGh2-dh8346z.jpeg)
+DNS stands for Domain Name System, and it is a huge database where domain names are stored with their corresponding IP addresses.
+
+### [32. The Glory of REST: Is It Really That Glorious? ](https://hackernoon.com/the-glory-of-rest-is-it-really-that-glorious)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0493pan.jpeg)
 REST is simpler and, thus, more approachable, but it requires a lot of custom effort, which changes from project to project.
 
-### [32. The Art and Science behind REST APIs](https://hackernoon.com/science-and-art-of-rest-apis-0wd830g7)
+### [33. The Art and Science behind REST APIs](https://hackernoon.com/science-and-art-of-rest-apis-0wd830g7)
 ![](https://cdn.hackernoon.com/images/zplk319f.jpg)
 REST stands for REpresentational State Transfer
-
-### [33. What Happens When You Click a URL: DNS Lookup, TCP Handshake & HTTP Request](https://hackernoon.com/what-happens-when-you-click-a-url-dns-lookup-tcp-handshake-and-http-request)
-![](https://cdn.hackernoon.com/images/OvBGt46oGAcBSX3jKWMtVuNCZGh2-dh8346z.jpeg)
-DNS stands for Domain Name System, and it is a huge database where domain names are stored with their corresponding IP addresses.
 
 ### [34. How To Harden And Simplify Urlopen Function In Python](https://hackernoon.com/how-to-harden-and-simplify-urlopen-function-in-python-69w33wc)
 ![](https://cdn.hackernoon.com/images/AWsfBMX5e3Y4ygNzKuJhRJI3mmn1-pa93314.png)
@@ -155,17 +159,17 @@ A convenient way to test your mobile network layer communication while the real 
 ![](https://cdn.hackernoon.com/images/PpYbbOApcoT249C1okeO6P5loPR2-1l13h5r.jpeg)
 Starting with Firefox 23, Firefox blocks active mixed content by default. This follows a practice adopted by Internet Explorer (since version 9) and Chrome.
 
-### [38. How Certificate Chains Works](https://hackernoon.com/how-certificate-chains-works-ye4b3wc7)
+### [38. HTTP For Beginners - Part 2: Responses](https://hackernoon.com/http-for-beginners-part-2-responses)
+![](https://cdn.hackernoon.com/images/l8IjwGiKy0f84w69douv81sBfUA2-ku93m72.jpeg)
+In this part of the series, I'll demonstrate generating HTTP responses from a simple Node.js Express server.
+
+### [39. How Certificate Chains Works](https://hackernoon.com/how-certificate-chains-works-ye4b3wc7)
 ![](https://cdn.hackernoon.com/drafts/zzhi3v5u.png)
 Certificate chains are used to be able to verify an end user certificate against a list of intermediaries and a root authority. We are going to explain this in a bit more detail.
 
-### [39. The HTTP Status Codes You Need to Know](https://hackernoon.com/the-http-status-codes-you-need-to-know-l03w37qh)
+### [40. The HTTP Status Codes You Need to Know](https://hackernoon.com/the-http-status-codes-you-need-to-know-l03w37qh)
 ![](https://images.unsplash.com/photo-1503365113766-4a362681eac5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Working on the web means coming into contact with HTTP responses. Whether you spend your time primarily on the client or on the server, you're likely familiar with the popular ones like 200, 404, and 500. While memorizing all the codes using cat memes as a mnemonic can be helpful, let's dive deeper into what some of the most common codes mean.
-
-### [40. HTTP For Beginners - Part 2: Responses](https://hackernoon.com/http-for-beginners-part-2-responses)
-![](https://cdn.hackernoon.com/images/l8IjwGiKy0f84w69douv81sBfUA2-ku93m72.jpeg)
-In this part of the series, I'll demonstrate generating HTTP responses from a simple Node.js Express server.
 
 ### [41. HTTP Redirections: Principles, Types and Use Cases](https://hackernoon.com/http-redirections-principles-types-and-use-cases-nl1c3ya7)
 ![](https://cdn.hackernoon.com/images/szy2epy.jpg)
@@ -215,25 +219,25 @@ Let’s understand more about the benefits of upgrading to HTTP/2 and how it can
 ![](https://cdn.hackernoon.com/images/hppPxBgSz0aMkYziHUEZ3RAFHIi1-ia933ku.jpeg)
 DASH is stated as not a system or a protocol or a demonstration or a codec or interactivity or a client specification
 
-### [53. A Quick Guide To Making HTTP Requests Using Python](https://hackernoon.com/a-quick-guide-to-making-http-requests-using-python-3ig34id)
+### [53. Leveraging the Richness of HTTP Status Codes](https://hackernoon.com/leveraging-the-richness-of-http-status-codes)
+![](https://cdn.hackernoon.com/images/college-students-writing-http-code-in-their-class-rooms-clgz048g7000001s6cy1m0cri.png)
+If you're not a REST expert, you probably use the same HTTP codes over and over in your responses, mostly 200, 404, and 500.
+
+### [54. A Quick Guide To Making HTTP Requests Using Python](https://hackernoon.com/a-quick-guide-to-making-http-requests-using-python-3ig34id)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-1l22293o.jpeg)
 HTTP requests with Python is dead simple. In just a few lines of code, you can parse data from the internet like a browser. Read more about HTTP and Requests...
 
-### [54. An Introduction to the Xanny Framework](https://hackernoon.com/an-introduction-to-the-xanny-framework-uk3p34ag)
+### [55. An Introduction to the Xanny Framework](https://hackernoon.com/an-introduction-to-the-xanny-framework-uk3p34ag)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-hli28iv.jpeg)
 Xanny finally reached version 1.0 in Dec 2020. According to its [official repository](https://github.com/xanny-projects/xanny), Xanny is a simple, fast and low HTTP router and URL marcher for building Deno servers.
-
-### [55. Health Check Response Format for HTTP APIs](https://hackernoon.com/health-check-response-format-for-http-apis)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jc92g1a.jpeg)
-I'm continuing my journey on getting more familiar with HTTP APIs by reading related Request For Comments.
 
 ### [56. Gradual Development of HTTP Protocol](https://hackernoon.com/gradual-development-of-http-protocol-rp1c3ygc)
 ![](https://cdn.hackernoon.com/images/say2e6e.jpg)
 HTTP (HyperText Transfer Protocol) is the underlying protocol of the World Wide Web. Developed by Tim Berners-Lee and his team between 1989-1991, HTTP has seen many changes, keeping most of the simplicity and further shaping its flexibility. HTTP has evolved from an early protocol to exchange files in a semi-trusted laboratory environment, to the modern maze of the Internet, now carrying images, videos in high resolution and 3D.
 
-### [57. Leveraging the Richness of HTTP Status Codes](https://hackernoon.com/leveraging-the-richness-of-http-status-codes)
-![](https://cdn.hackernoon.com/images/college-students-writing-http-code-in-their-class-rooms-clgz048g7000001s6cy1m0cri.png)
-If you're not a REST expert, you probably use the same HTTP codes over and over in your responses, mostly 200, 404, and 500.
+### [57. Health Check Response Format for HTTP APIs](https://hackernoon.com/health-check-response-format-for-http-apis)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jc92g1a.jpeg)
+I'm continuing my journey on getting more familiar with HTTP APIs by reading related Request For Comments.
 
 ### [58. Why Your Mobile App Can Time Out on Responses With an Empty Body](https://hackernoon.com/why-your-mobile-app-can-time-out-on-responses-with-an-empty-body)
 ![](https://cdn.hackernoon.com/images/a-grandfather-clock-frozen-wq72xbvejxpv1dzpv5goi6wj.png)

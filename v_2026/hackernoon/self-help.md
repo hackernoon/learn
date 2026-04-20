@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [self-help](https://hackernoon.com/tagged/self-help)
+### Let's learn about [Self Help](https://hackernoon.com/tagged/self-help) via these 118 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Self-help involves actively working to improve one's own well-being or solve personal problems. It is relevant for personal growth and empowerment, offering strategies and resources to enhance various aspects of life, from mental health to productivity.
+
 ### [1. Amway: Pyramid Scheme or Legitimate Business Opportunity?](https://hackernoon.com/amway-pyramid-scheme-or-legitimate-business-opportunity)
 ![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-dta3x6m.jpeg)
 Amway is a real business with a bad reputation. If you know anyone involved in the company, or you're thinking of joining yourself, make sure to read this post.
@@ -62,12 +66,12 @@ This 3-minute neck drill will change your life
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-xq93r0x.jpeg)
 The easiest and quickest method to restore a Chrome tab is using the keyboard shortcut. Shift+Ctrl+t or Shift+Cmd+T, Go through Recently closed,  Try History
 
-### [16. The Art of Money Getting or, Golden Rules for Making Money - Chapter 14](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-14)
-![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-va93vv7.jpeg)
+### [16. The Art of Money Getting or, Golden Rules for Making Money - Chapter 13](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-13)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-w093v0h.jpeg)
 The Art of Money Getting or, Golden Rules for Making Money by P. T. Barnum is part of HackerNoon’s Book Blog Post series.
 
-### [17. The Art of Money Getting or, Golden Rules for Making Money - Chapter 13](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-13)
-![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-w093v0h.jpeg)
+### [17. The Art of Money Getting or, Golden Rules for Making Money - Chapter 14](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-14)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-va93vv7.jpeg)
 The Art of Money Getting or, Golden Rules for Making Money by P. T. Barnum is part of HackerNoon’s Book Blog Post series.
 
 ### [18. Personal Development is a Multi-Billion Dollar Industry](https://hackernoon.com/personal-development-is-a-multi-billion-dollar-industry)
@@ -90,7 +94,11 @@ The surefire way to ensure you always have time for the things you love doin.
 ![](https://cdn.hackernoon.com/images/jAe8nDJHWuhNTYfeZVmoqHUgxXz2-kva3wrw.jpeg)
 I have two degrees, one in engineering and one in marketing. But I've learned 10x more from listening to podcasts.
 
-### [23. Forget To-do Lists. What About To-learn Lists? ](https://hackernoon.com/forget-to-do-lists-what-about-to-learn-lists)
+### [23. Ulysses Contracts: Achieve Long-Term Goals Faster](https://hackernoon.com/ulysses-contracts-achieve-long-term-goals-faster)
+![](https://cdn.hackernoon.com/images/ulysses-and-the-sirens-w9gu0g9gy0m78b0n7yj1tv0i.png)
+If you're struggling to reach your long-term goals, try making a Ulysses Contract. Here's why.
+
+### [24. Forget To-do Lists. What About To-learn Lists? ](https://hackernoon.com/forget-to-do-lists-what-about-to-learn-lists)
 ![](https://cdn.hackernoon.com/images/3nZg1mO3L1hKsmOFhBFXYNh4Pty2-da93q5t.jpeg)
 
 We all have to-do lists. But what about a to-learn list?
@@ -98,10 +106,6 @@ We all have to-do lists. But what about a to-learn list?
 A to-learn list is a way to keep track of everything you want to learn.
 
 The beauty of a to-learn lis
-
-### [24. Ulysses Contracts: Achieve Long-Term Goals Faster](https://hackernoon.com/ulysses-contracts-achieve-long-term-goals-faster)
-![](https://cdn.hackernoon.com/images/ulysses-and-the-sirens-w9gu0g9gy0m78b0n7yj1tv0i.png)
-If you're struggling to reach your long-term goals, try making a Ulysses Contract. Here's why.
 
 ### [25. A Key to Success: Defeat Drifting](https://hackernoon.com/a-key-to-success-defeat-drifting)
 ![](https://cdn.hackernoon.com/images/l9CvmWIChROxVjowyW2j4VzGEW32-2f83685.jpeg)
@@ -139,15 +143,15 @@ My first experience with time travel was when I was 21 years old. 
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-5p93ql0.gif.webp)
 Goal Congruence: Align With Who You Are
 
-### [34. The Art of Money Getting or, Golden Rules for Making Money - Chapter 19](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-19)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-eo9329f.jpeg)
-The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
-
-### [35. The Science of Getting Rich: Chapter 14](https://hackernoon.com/the-science-of-getting-rich-chapter-14)
+### [34. The Science of Getting Rich: Chapter 14](https://hackernoon.com/the-science-of-getting-rich-chapter-14)
 ![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-qb93ke4.jpeg)
 The Science of Getting Rich  by Wallace D. Wattles is part of
 [HackerNoon’s Book Blog Post series](https://hackernoon.com/u/hackernoonbooks) . The table of Links for this book can be found here:
 [https://app.hackernoon.com/drafts/0rPO8JkhRaDY0rLVCaVL] (https://app.hackernoon.com/drafts/0rPO8JkhRaDY0rLVCaVL*)
+
+### [35. The Art of Money Getting or, Golden Rules for Making Money - Chapter 19](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-19)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-eo9329f.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
 
 ### [36. What’s Up with Short Wave Regenerative Receiving Sets?](https://hackernoon.com/whats-up-with-short-wave-regenerative-receiving-sets)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-wk93n8c.jpeg)
@@ -173,13 +177,13 @@ Discover How the Concept of Mental Models will Change your Life.
 ![](https://cdn.hackernoon.com/images/Bm6Dk7O9xqaIxfKLbfh8LQkOJos2-dua3zg9.jpeg)
 The platforms where you may discover the majority of your target audience should be the focus of your initial marketing efforts.
 
-### [42. The Art of Money Getting or, Golden Rules for Making Money  - Table of Links](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-table-of-links)
-![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-co93u1v.jpeg)
-The Table of Links to PT Barnum's The Art of Money Getting or, Golden Rules for Making Money on HackerNoon.
-
-### [43. Dissecting Vacuum Tube Transmitters](https://hackernoon.com/dissecting-vacuum-tube-transmitters)
+### [42. Dissecting Vacuum Tube Transmitters](https://hackernoon.com/dissecting-vacuum-tube-transmitters)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-9m93pth.jpeg)
 To make a tube set up powerful oscillations then, it is only necessary that an oscillation circuit shall be provided.
+
+### [43. The Art of Money Getting or, Golden Rules for Making Money  - Table of Links](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-table-of-links)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-co93u1v.jpeg)
+The Table of Links to PT Barnum's The Art of Money Getting or, Golden Rules for Making Money on HackerNoon.
 
 ### [44. How to Overcome the Problem of Time](https://hackernoon.com/how-to-overcome-the-problem-of-time)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-mua3okt.jpeg)
@@ -202,37 +206,37 @@ Entrepreneurial mindset: habits and beliefs to adopt and ditch, what business to
 ![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-ct93v9e.jpeg)
 The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
 
-### [49. The Radio Amateur's Hand Book: Introduction](https://hackernoon.com/the-radio-amateurs-hand-book-introduction)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ta93oly.jpeg)
-Before delving into the mysteries of receiving and sending messages without wires, we look at the history of the art and its present-day applications. 
-
-### [50. The Art of Money Getting or, Golden Rules for Making Money - Chapter 6](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-6)
+### [49. The Art of Money Getting or, Golden Rules for Making Money - Chapter 6](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-6)
 ![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-yh93v9m.jpeg)
 The Art of Money Getting or, Golden Rules for Making Money by P. T. Barnum is part of HackerNoon’s Book Blog Post series. 
+
+### [50. The Radio Amateur's Hand Book: Introduction](https://hackernoon.com/the-radio-amateurs-hand-book-introduction)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ta93oly.jpeg)
+Before delving into the mysteries of receiving and sending messages without wires, we look at the history of the art and its present-day applications. 
 
 ### [51. 15 Apps that Can Make You Productive](https://hackernoon.com/15-apps-that-can-make-you-productive-hg1734p5)
 ![](https://cdn.hackernoon.com/images/o2wPIvfm0pWoFEIru8WFtHtjVp83-jq4m330h.jpeg)
 Here, 15 amazing apps have been listed for increasing our productivity.
 
-### [52. A Hacker's Awakening: Ep.01 - Being Free While Feeling Caged and Yearning for a Victory](https://hackernoon.com/a-hackers-awakening-ep01-being-free-while-feeling-caged-and-yearning-for-a-victory-9m1u3y32)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzS7Ens3qoUevRb8Om1z17awDmJ93-kyk3u3v.png?alt=media&token=9e0df495-ffe1-431b-8c50-8e7308221d46)
-The following are various emails, posts, messages, and tweets I've had on social media and privately (my side, only paraphrasing their side without permission) in the last 24 hours. 
-
-### [53. The Radio Amateur's Hand Book - Table of Links](https://hackernoon.com/the-radio-amateurs-hand-book-table-of-links)
+### [52. The Radio Amateur's Hand Book - Table of Links](https://hackernoon.com/the-radio-amateurs-hand-book-table-of-links)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yp93o8o.jpeg)
 The Radio Amateur's Hand Book, by A. Frederick Collins, is part of HackerNoon’s Book Blog Post series. The table of Links for this book can be found here. 
+
+### [53. A Hacker's Awakening: Ep.01 - Being Free While Feeling Caged and Yearning for a Victory](https://hackernoon.com/a-hackers-awakening-ep01-being-free-while-feeling-caged-and-yearning-for-a-victory-9m1u3y32)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzS7Ens3qoUevRb8Om1z17awDmJ93-kyk3u3v.png?alt=media&token=9e0df495-ffe1-431b-8c50-8e7308221d46)
+The following are various emails, posts, messages, and tweets I've had on social media and privately (my side, only paraphrasing their side without permission) in the last 24 hours. 
 
 ### [54. The Science of Getting Rich: Chapter 15](https://hackernoon.com/the-science-of-getting-rich-chapter-15)
 ![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-6r93kx2.jpeg)
 The Science of Getting Rich  by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series.
 
-### [55. Gratitude Practices for the Hacker: Launch the Growth Mindset ](https://hackernoon.com/gratitude-practices-for-the-hacker-launch-the-growth-mindset)
-![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-mq036a0.jpeg)
-This is an article about the benefits of gratitude practices for hackers. 
-
-### [56. It's Not A Motivation Problem That You Have (It's a Clarity Problem)](https://hackernoon.com/its-not-a-motivation-problem-that-you-have-its-a-clarity-problem)
+### [55. It's Not A Motivation Problem That You Have (It's a Clarity Problem)](https://hackernoon.com/its-not-a-motivation-problem-that-you-have-its-a-clarity-problem)
 ![](https://cdn.hackernoon.com/images/glasses-giving-a-person-clearer-vision-osoqh55ibfc6k2egwiomwt4b.png)
 Buckle up, because we're about to dive deep into the murky waters of human psychology, neuroscience, and the billion-dollar motivation industry.
+
+### [56. Gratitude Practices for the Hacker: Launch the Growth Mindset ](https://hackernoon.com/gratitude-practices-for-the-hacker-launch-the-growth-mindset)
+![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-mq036a0.jpeg)
+This is an article about the benefits of gratitude practices for hackers. 
 
 ### [57. How to Act Agile in Every Day Life](https://hackernoon.com/how-to-act-agile-in-every-day-life-h92g3tke)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIMcuZGEyrzRf7UvWytxpfRbJsQ52-8x4u3w6b.jpeg?alt=media&token=47fff8fa-1dd7-43a6-ae4b-c0250615b67d)
@@ -274,13 +278,13 @@ Overcoming depression is a long and challenging process. Here’s what else I ha
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-3q93p38.jpeg)
 In the realm of self-help content, there's always a bit of a catch, and that often comes in the form of an illusion of progress. 
 
-### [67. How to Build Your Financial Intelligence Like Men on Forbes’ Billionaire List](https://hackernoon.com/how-to-build-your-financial-intelligence-like-men-on-forbes-billionaire-list)
-![](https://cdn.hackernoon.com/images/gWfkbUlBjSN2Pau9FHoZODLg8aW2-pt93vq7.jpeg)
-Financial intelligence that’ll put you on Forbes’ billionaire list.
-
-### [68. Among Several Hundred Thousand Interested in Telephony](https://hackernoon.com/among-several-hundred-thousand-interested-in-telephony)
+### [67. Among Several Hundred Thousand Interested in Telephony](https://hackernoon.com/among-several-hundred-thousand-interested-in-telephony)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-i893oc4.jpeg)
 There are two distinct kinds of wireless systems and these are: the wireless telegraph system, and the wireless telephone system.
+
+### [68. How to Build Your Financial Intelligence Like Men on Forbes’ Billionaire List](https://hackernoon.com/how-to-build-your-financial-intelligence-like-men-on-forbes-billionaire-list)
+![](https://cdn.hackernoon.com/images/gWfkbUlBjSN2Pau9FHoZODLg8aW2-pt93vq7.jpeg)
+Financial intelligence that’ll put you on Forbes’ billionaire list.
 
 ### [69. The Art of Money Getting or, Golden Rules for Making Money - Chapter 2](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-part-2)
 ![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-vb93vl5.jpeg)
@@ -290,12 +294,12 @@ The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
 ![](https://cdn.hackernoon.com/images/S78E4VTqvyTEfOPMpOp9EFYywDJ2-52036mt.jpeg)
 The self-help industry has latched onto quantum physics like a remora on a shark, using complex scientific concepts to sell simple motivational ideas. 
 
-### [71. The Art of Money Getting or, Golden Rules for Making Money - Chapter 20](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-20)
-![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-uo93v95.jpeg)
+### [71. The Art of Money Getting or, Golden Rules for Making Money - Chapter 9](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-9)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-q293v0b.jpeg)
 The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
 
-### [72. The Art of Money Getting or, Golden Rules for Making Money - Chapter 9](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-9)
-![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-q293v0b.jpeg)
+### [72. The Art of Money Getting or, Golden Rules for Making Money - Chapter 20](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-20)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-uo93v95.jpeg)
 The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
 
 ### [73. The Art of Money Getting or, Golden Rules for Making Money - Chapter 18](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-18)
@@ -309,13 +313,13 @@ The Science of Getting Rich  by Wallace D. Wattles is part of
 [https://app.hackernoon.com/drafts/0rPO8JkhRaDY0rLVCaVL] (https://app.hackernoon.com/drafts/0rPO8JkhRaDY0rLVCaVL*)
 
 
-### [75. 17 Things You Should Do Before You Die](https://hackernoon.com/17-things-you-should-do-before-you-die)
-![](https://cdn.hackernoon.com/images/NoFqn18YtNXxGVFTTHq1RUQYhkZ2-a093ouz.jpeg)
-While everyone has their own unique aspirations and dreams, there are some experiences that resonate universally, enriching our lives.
-
-### [76. 10 Ideas to Create a Daily Writing Habit](https://hackernoon.com/10-ideas-to-create-a-daily-writing-habit)
+### [75. 10 Ideas to Create a Daily Writing Habit](https://hackernoon.com/10-ideas-to-create-a-daily-writing-habit)
 ![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-1v93rvq.jpeg)
 This writing discusses ways to reduce barriers to creating a daily writing habit. 
+
+### [76. 17 Things You Should Do Before You Die](https://hackernoon.com/17-things-you-should-do-before-you-die)
+![](https://cdn.hackernoon.com/images/NoFqn18YtNXxGVFTTHq1RUQYhkZ2-a093ouz.jpeg)
+While everyone has their own unique aspirations and dreams, there are some experiences that resonate universally, enriching our lives.
 
 ### [77. All About Anxiety: Is Anxiety A Disability?](https://hackernoon.com/all-about-anxiety-is-anxiety-a-disability-l62935e6)
 ![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-mx3q349z.jpeg)
@@ -337,50 +341,50 @@ Friendship is a vital aspect of the human experience, offering a unique and inva
 ![](https://cdn.hackernoon.com/images/m1JWnUaHzSX3LPHoHfOainoiYvq2-rfg3fug.jpeg)
 I asked 100 people on reddit what fundamental lessons they learned  as a result of quarantine, hopefully you can get some insight on how other people have been
 
-### [82. The Operation  of Vacuum Tube Receptors](https://hackernoon.com/the-operation-of-vacuum-tube-receptors)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-j093p0q.jpeg)
-To understand how a vacuum tube acts as a detector and as an amplifier you must first know what electrons are.
-
-### [83. There is a Striking Resemblance Between Sound Waves ](https://hackernoon.com/there-is-a-striking-resemblance-between-sound-waves)
+### [82. There is a Striking Resemblance Between Sound Waves ](https://hackernoon.com/there-is-a-striking-resemblance-between-sound-waves)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-1793pqj.png)
 There is a strikingly close resemblance between sound waves and the way they are set up in the air by a mechanically vibrating body.
 
-### [84. The Science of Getting Rich: Chapter 4](https://hackernoon.com/the-science-of-getting-rich-chapter-4)
-![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-t393rze.jpeg)
-The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series. 
-
-### [85. The Science of Getting Rich: Chapter 16](https://hackernoon.com/the-science-of-getting-rich-chapter-16)
-![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-cz93pbd.jpeg)
-The Science of Getting Rich  by Wallace D. Wattles is part of HackerNoon’s Book Blog Blog Post series. 
-
-### [86. Making Wireless Telephone Transmitting Sets ](https://hackernoon.com/making-wireless-telephone-transmitting-sets)
+### [83. Making Wireless Telephone Transmitting Sets ](https://hackernoon.com/making-wireless-telephone-transmitting-sets)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-0u93nsk.jpeg)
 In time past, the most difficult of all electrical apparatus for the amateur to make, install and work was the wireless telephone.
 
-### [87. The Art of Money Getting or, Golden Rules for Making Money - Part 3 - 
-Avoid Debt](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-part-3-avoid-debt)
-![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-v593v1a.jpeg)
-The Art of Money Getting or, Golden Rules for Making Money  by  P. T. Barnum is part of [HackerNoon’s Book Blog Post series]
+### [84. The Operation  of Vacuum Tube Receptors](https://hackernoon.com/the-operation-of-vacuum-tube-receptors)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-j093p0q.jpeg)
+To understand how a vacuum tube acts as a detector and as an amplifier you must first know what electrons are.
+
+### [85. The Science of Getting Rich: Chapter 4](https://hackernoon.com/the-science-of-getting-rich-chapter-4)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-t393rze.jpeg)
+The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series. 
+
+### [86. The Science of Getting Rich: Chapter 16](https://hackernoon.com/the-science-of-getting-rich-chapter-16)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-cz93pbd.jpeg)
+The Science of Getting Rich  by Wallace D. Wattles is part of HackerNoon’s Book Blog Blog Post series. 
+
+### [87. What Headphones and Loud Speakers Were like in 2002](https://hackernoon.com/what-headphones-and-loud-speakers-were-like-in-2002)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-0t93pys.jpeg)
+Wireless Headphones.--A telephone receiver for a wireless receiving set is made exactly on the same principle as an ordinary Bell telephone receiver.
 
 ### [88. The Science of Getting Rich: Chapter 10](https://hackernoon.com/the-science-of-getting-rich-chapter-10)
 ![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-s993vmc.jpeg)
 The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series.
 
-### [89. What Headphones and Loud Speakers Were like in 2002](https://hackernoon.com/what-headphones-and-loud-speakers-were-like-in-2002)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-0t93pys.jpeg)
-Wireless Headphones.--A telephone receiver for a wireless receiving set is made exactly on the same principle as an ordinary Bell telephone receiver.
+### [89. The Art of Money Getting or, Golden Rules for Making Money - Part 3 - 
+Avoid Debt](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-part-3-avoid-debt)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-v593v1a.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money  by  P. T. Barnum is part of [HackerNoon’s Book Blog Post series]
 
-### [90. The Art of Money Getting or, Golden Rules for Making Money - Chapter 5](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-5)
+### [90. How to Waste $5000 on Personal Growth](https://hackernoon.com/how-to-waste-$5000-on-personal-growth)
+![](https://cdn.hackernoon.com/images/1nOf3C3xXvNO2p1OYW96H4Kbel33-f2a3x67.jpeg)
+I met the disciple of the "most hated man in the world." The story is illustrative of how (NOT) to spend money on personal development...
+
+### [91. The Art of Money Getting or, Golden Rules for Making Money - Chapter 5](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-5)
 ![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-bt93v90.jpeg)
 The Art of Money Getting; Or, Golden Rules for Making Money by P. T. Barnum
 
-### [91. How Shadow Work Can Change Your Life](https://hackernoon.com/how-shadow-work-can-change-your-life)
+### [92. How Shadow Work Can Change Your Life](https://hackernoon.com/how-shadow-work-can-change-your-life)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-vba3rlw.jpeg)
 If there's one thing we all share as humans, it's the presence of a mysterious and often misunderstood part of ourselves that tends to lurk in the background. 
-
-### [92. How to Waste $5000 on Personal Growth](https://hackernoon.com/how-to-waste-$5000-on-personal-growth)
-![](https://cdn.hackernoon.com/images/1nOf3C3xXvNO2p1OYW96H4Kbel33-f2a3x67.jpeg)
-I met the disciple of the "most hated man in the world." The story is illustrative of how (NOT) to spend money on personal development...
 
 ### [93. Building a 100 Mile C.W. Telegraph Set  ](https://hackernoon.com/building-a-100-mile-cw-telegraph-set)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-x993ptl.jpeg)
@@ -405,33 +409,33 @@ Writing a book is like a hero's journey. Writing the first Personal Knowledge Gr
 ![](https://cdn.hackernoon.com/images/YpBWRo4XdNRvO7UIe8x9eqBpIXQ2-6hi32kn.jpeg)
 Research shows that online therapy for depression is basically as effective as in-person therapy in helping individuals deal with mental health issues.
 
-### [98. The Science of Getting Rich: Chapter 13](https://hackernoon.com/the-science-of-getting-rich-chapter-13)
-![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-ah93oow.jpeg)
-You must use your thought as directed in previous chapters, and begin to do what you can do where you are; and you must do ALL that you can do where you are.
-
-### [99. Telegraphs in the 80s](https://hackernoon.com/telegraphs-in-the-80s)
+### [98. Telegraphs in the 80s](https://hackernoon.com/telegraphs-in-the-80s)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ne93ons.jpeg)
 A wireless telegraph transmitting set can be installed for a very small amount of money provided you are content with one that has a limited range.
 
-### [100. What is Financial Literacy and Why is it Important?](https://hackernoon.com/what-is-financial-literacy-and-why-is-it-important-gf2u33hf)
-![](https://cdn.hackernoon.com/images/GkY7OWwA7GR33LDGGb73Sulfiog1-anp3f0m.png)
-In today’s increasingly complex world, being financially literate can be the difference between a comfortable happy life and one full of problems and stress.
+### [99. The Science of Getting Rich: Chapter 13](https://hackernoon.com/the-science-of-getting-rich-chapter-13)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-ah93oow.jpeg)
+You must use your thought as directed in previous chapters, and begin to do what you can do where you are; and you must do ALL that you can do where you are.
+
+### [100. Intermediate and Long wave Regenerative Receiving Sets](https://hackernoon.com/intermediate-and-long-wave-regenerative-receiving-sets)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-d793pmq.jpeg)
+All receiving sets that receive over a range of wave lengths of from 150 meters to 3,000 meters are called intermediate wave sets.
 
 ### [101. A Practical Guides for Putting Up Your Aerial Receivers](https://hackernoon.com/a-practical-guides-for-putting-up-your-aerial-receivers)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-3r93o3d.jpeg)
 An aerial for receiving does not have to be nearly as well made or put up as one for sending.
 
-### [102. Intermediate and Long wave Regenerative Receiving Sets](https://hackernoon.com/intermediate-and-long-wave-regenerative-receiving-sets)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-d793pmq.jpeg)
-All receiving sets that receive over a range of wave lengths of from 150 meters to 3,000 meters are called intermediate wave sets.
+### [102. What is Financial Literacy and Why is it Important?](https://hackernoon.com/what-is-financial-literacy-and-why-is-it-important-gf2u33hf)
+![](https://cdn.hackernoon.com/images/GkY7OWwA7GR33LDGGb73Sulfiog1-anp3f0m.png)
+In today’s increasingly complex world, being financially literate can be the difference between a comfortable happy life and one full of problems and stress.
 
-### [103. The Problem with The Waterfall Model of Personal Development](https://hackernoon.com/the-problem-with-the-waterfall-model-of-personal-development-pzz37nh)
-![](https://cdn.hackernoon.com/images/mhvkk6KUEVTNeqCUtnp7I3aXzsC2-be1h35z3.jpeg)
-One of the ideas that I find to be flawed is the necessity of taking time to work on yourself before getting into relationships with others.
-
-### [104. Why Goal Setting is Important and How to Set Goals](https://hackernoon.com/why-goal-setting-is-important-and-how-to-set-goals)
+### [103. Why Goal Setting is Important and How to Set Goals](https://hackernoon.com/why-goal-setting-is-important-and-how-to-set-goals)
 ![](https://cdn.hackernoon.com/images/2cCHi2fOYXYUtkGuRvPT4E1tAgF3-lcc3o5d.jpeg)
 Goal setting is the seemingly simple process of committing yourself to a milestone in future. This is important both in professional and personal fronts.
+
+### [104. The Problem with The Waterfall Model of Personal Development](https://hackernoon.com/the-problem-with-the-waterfall-model-of-personal-development-pzz37nh)
+![](https://cdn.hackernoon.com/images/mhvkk6KUEVTNeqCUtnp7I3aXzsC2-be1h35z3.jpeg)
+One of the ideas that I find to be flawed is the necessity of taking time to work on yourself before getting into relationships with others.
 
 ### [105. Electricity, What a Concept!](https://hackernoon.com/electricity-what-a-concept)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-zn93o1n.jpeg)
@@ -449,33 +453,33 @@ Engage in one kind of business only, and stick to it faithfully until you succee
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-z51234l0.jpeg)
 A few years back, maybe you did not envisage there would be this tremendous transformation that has taken place in psychotherapy; neither did I. Breakthroughs in technology have afforded us the opportunity of accessing online therapy from the comfort of our homes and in real-time.
 
-### [109. How Transmitting and Receiving Sets Work](https://hackernoon.com/how-transmitting-and-receiving-sets-work)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-6b93ooa.jpeg)
-The easiest way to know how a wireless transmitter sends out electric waves and how a wireless receptor receives them is to consider each one separately. 
-
-### [110. Embracing Self-Love, Defying Fear, and Breaking Through Limitations](https://hackernoon.com/embracing-self-love-defying-fear-and-breaking-through-limitations)
-![](https://cdn.hackernoon.com/images/l9CvmWIChROxVjowyW2j4VzGEW32-fl93xjf.jpeg)
-Theory, tips and practical exercises on how to increase self-love, overcome fear and limiting beliefs, move forward and stop feeling stuck
-
-### [111. How to Improve Your Brain's Memory](https://hackernoon.com/how-to-improve-your-brains-memory)
+### [109. How to Improve Your Brain's Memory](https://hackernoon.com/how-to-improve-your-brains-memory)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oc024r6.jpeg)
 Can your mind think like a database to store and retrieve memory? It already does, but you need to know how to program it.
 
-### [112. Regenerative Amplification and Receiving Sets ](https://hackernoon.com/regenerative-amplification-and-receiving-sets)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-5w93pcr.jpeg)
-While a vacuum tube detector has an amplifying action of its own, its action can be further increased by making radio frequency currents react on the detector. 
+### [110. How Transmitting and Receiving Sets Work](https://hackernoon.com/how-transmitting-and-receiving-sets-work)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-6b93ooa.jpeg)
+The easiest way to know how a wireless transmitter sends out electric waves and how a wireless receptor receives them is to consider each one separately. 
 
-### [113. How Password Issues Plague Help Desk Calls](https://hackernoon.com/how-password-issues-plague-help-desk-calls-vg3i37jo)
+### [111. Embracing Self-Love, Defying Fear, and Breaking Through Limitations](https://hackernoon.com/embracing-self-love-defying-fear-and-breaking-through-limitations)
+![](https://cdn.hackernoon.com/images/l9CvmWIChROxVjowyW2j4VzGEW32-fl93xjf.jpeg)
+Theory, tips and practical exercises on how to increase self-love, overcome fear and limiting beliefs, move forward and stop feeling stuck
+
+### [112. How Password Issues Plague Help Desk Calls](https://hackernoon.com/how-password-issues-plague-help-desk-calls-vg3i37jo)
 ![](https://cdn.hackernoon.com/images/G1hdk0kwQEckZIgQj3wUNk7uYNq2-dlq33go.jpeg)
 A article on passwords, password security, and how businesses can train employees to handle passwords themselves.
 
-### [114. Heterodyne or Beat Long wave Telegraph Receiving Set?](https://hackernoon.com/heterodyne-or-beat-long-wave-telegraph-receiving-set)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-hc93pok.jpeg)
-In 2002, there were four different ways used to break up the continuous waves of a wireless telegraph transmitter into groups. Let's discuss them.
+### [113. Regenerative Amplification and Receiving Sets ](https://hackernoon.com/regenerative-amplification-and-receiving-sets)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-5w93pcr.jpeg)
+While a vacuum tube detector has an amplifying action of its own, its action can be further increased by making radio frequency currents react on the detector. 
 
-### [115. 3 Ways to Strengthen Your Will Power and Get Back Control of Your Life](https://hackernoon.com/3-ways-to-strengthen-your-will-power-and-get-back-control-of-your-life)
+### [114. 3 Ways to Strengthen Your Will Power and Get Back Control of Your Life](https://hackernoon.com/3-ways-to-strengthen-your-will-power-and-get-back-control-of-your-life)
 ![](https://cdn.hackernoon.com/images/FbJmpgHav6TIaa1upiwgevhM4Pv2-ni93o5q.jpeg)
 3 ways to strengthen your will power and get back control of your life
+
+### [115. Heterodyne or Beat Long wave Telegraph Receiving Set?](https://hackernoon.com/heterodyne-or-beat-long-wave-telegraph-receiving-set)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-hc93pok.jpeg)
+In 2002, there were four different ways used to break up the continuous waves of a wireless telegraph transmitter into groups. Let's discuss them.
 
 ### [116. The Art of Money Getting or, Golden Rules for Making Money - Chapter 16](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-16)
 ![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-0r93v1l.jpeg)

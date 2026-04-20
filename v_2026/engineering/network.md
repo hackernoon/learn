@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [network](https://hackernoon.com/tagged/network)
+### Let's learn about [Network](https://hackernoon.com/tagged/network) via these 62 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A network refers to a system of interconnected devices that can share resources and data, forming the backbone of all modern communication and computing infrastructures. It matters by enabling global connectivity, facilitating data exchange, and supporting the operation of virtually every digital service and application.
+
 ### [1. Setting up Nginx Ingress on Kubernetes](https://hackernoon.com/setting-up-nginx-ingress-on-kubernetes-2b733d8d2f45)
 ![](https://hackernoon.com/hn-images/1*A-kYNXMDiSLXde-ilVNJvg.png)
 Hey there, setting up an Ingress Controller on your Kubernetes cluster? After reading through many articles and the official docs, I was still having a hard time setting up Ingress. But after numerous attempts I managed to setup an <strong><em>nginx-ingress-controller</em></strong> to forward outside traffic to my in-cluster services, handling HTTP and HTTPS. This writeup is a step by step guide to do this.
@@ -73,14 +77,14 @@ One of the biggest pains of getting started with Fabric, even though it's a powe
 ![](https://cdn.hackernoon.com/images/someone-stealing-your-wifi-nhqvojtzujqzc4y8qud160px.png)
 People tend to ask for WiFi passwords when they enter a space they will stay for a while. The same people expect the host to provide it, no questions asked. The
 
-### [19. Data Science Training and Data Science - Machine Learning With Python](https://hackernoon.com/data-science-training-and-data-science-machine-learning-with-python-5d1la31e2)
+### [19. Differences Between RFID and NFC Systems, their Applications, and Alternatives](https://hackernoon.com/differences-between-rfid-and-nfc-systems-their-applications-and-alternatives)
+![](https://cdn.hackernoon.com/images/LEymvvrtvURIHWScxGtFiYzJjRf2-10a3jr5.jpeg)
+RFID and NFC are similar communication methods that devices can use to interact with each other. However, there are differences in the systems and usage.
+
+### [20. Data Science Training and Data Science - Machine Learning With Python](https://hackernoon.com/data-science-training-and-data-science-machine-learning-with-python-5d1la31e2)
 ![](https://cdn.hackernoon.com/drafts/fo1gu31e8.png)
 The requirement for its stockpiling also grew as the world entered the period of huge information. The principle focal point of endeavors was on structure framework and answers for store information. When frameworks like Hadoop tackled the issue of capacity, preparing of this information turned into a challenge. Data science began assuming a crucial job to take care of this issue. Information Science is the fate of Artificial Intelligence as It can increase the value of your business.
 
-
-### [20. Differences Between RFID and NFC Systems, their Applications, and Alternatives](https://hackernoon.com/differences-between-rfid-and-nfc-systems-their-applications-and-alternatives)
-![](https://cdn.hackernoon.com/images/LEymvvrtvURIHWScxGtFiYzJjRf2-10a3jr5.jpeg)
-RFID and NFC are similar communication methods that devices can use to interact with each other. However, there are differences in the systems and usage.
 
 ### [21. I Have My Own AWS VPC, and Now You Can Too!](https://hackernoon.com/i-have-my-own-aws-vpc-and-now-you-can-too)
 ![](https://cdn.hackernoon.com/images/FmTsksb9GKgyE1gsS7okfkihN683-w823akq.jpeg)
@@ -123,13 +127,13 @@ In network-related product development and debugging, useful gadgets can often a
 ![](https://cdn.hackernoon.com/images/sHlS9kz5JWgDC6Irc6Iw1ZTwUGE2-gwa32l6.jpeg)
 Learn the differences between L4 and L7 Load Balancers, optimize traffic, secure apps, and enhance performance for efficient network management.
 
-### [31. The OSI Model: Understanding the Seven Layers of Network Communication](https://hackernoon.com/the-osi-model-understanding-the-seven-layers-of-network-communication)
-![](https://cdn.hackernoon.com/images/y5COvpOgrkcmRD6Eym0jY6lOzaP2-yca3kfw.jpeg)
-This article provides a simple and clear introduction to the OSI model, a conceptual framework for understanding network communication protocols. 
-
-### [32. Sending UDP Messages on Linux: What is the Condition to Packets Being Lost?](https://hackernoon.com/sending-udp-messages-on-linux-what-is-the-condition-to-packets-being-lost)
+### [31. Sending UDP Messages on Linux: What is the Condition to Packets Being Lost?](https://hackernoon.com/sending-udp-messages-on-linux-what-is-the-condition-to-packets-being-lost)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-gs93hr0.jpeg)
 In developing the distributed software system it might be reasonable to use exchange data over the UDP protocol to minimize exchange time.
+
+### [32. The OSI Model: Understanding the Seven Layers of Network Communication](https://hackernoon.com/the-osi-model-understanding-the-seven-layers-of-network-communication)
+![](https://cdn.hackernoon.com/images/y5COvpOgrkcmRD6Eym0jY6lOzaP2-yca3kfw.jpeg)
+This article provides a simple and clear introduction to the OSI model, a conceptual framework for understanding network communication protocols. 
 
 ### [33. Why OpenTelemetry Should Matter to Network and Systems Admins](https://hackernoon.com/why-opentelemetry-should-matter-to-network-and-systems-admins)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-y193jao.jpeg)
@@ -167,58 +171,58 @@ Whether you own a small store or part of a Conglomerate, COVID-19 affected your 
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ty92bf6.jpeg)
 Overview of Android Networking Tools: Receiving, Sending, Inspecting, Mock Servers
 
-### [42. Port Forwarding for Noobs](https://hackernoon.com/port-forwarding-for-noobs)
-![](https://cdn.hackernoon.com/images/MmqqCSNi0kSZbsltTFAwEGQLKzN2-my93q93.jpeg)
-Port forwarding is used to enable a router to use a specific port to communicate with certain devices on a network. Learn more about how it is set up here.
-
-### [43. What Can Recurrent Neural Networks in NLP Do?](https://hackernoon.com/what-can-recurrent-neural-networks-in-nlp-do)
-![](https://cdn.hackernoon.com/images/eYWkxDqBywhhLUv1HmIFB7KBZKx1-g5f3kaz.jpeg)
-Recurrent Neural Networks (RNN) have played a major role in sequence modeling in Natural Language Processing (NLP) . Let’s see what are the pros and cons of RNN
-
-### [44. How Request–Response Really Works](https://hackernoon.com/how-request-response-really-works)
+### [42. How Request–Response Really Works](https://hackernoon.com/how-request-response-really-works)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-uj02239.jpeg)
 Learn how the request–response model really works under the hood.
 
-### [45. AI-Native Automation in 5G-Advanced and 6G](https://hackernoon.com/ai-native-automation-in-5g-advanced-and-6g)
-![](https://cdn.hackernoon.com/images/MqWYbn35dsYpAPosGiMtLgvrVJE2-w783ejg.jpeg)
-Discover how AI-native control planes and edge intelligence solve buffering in the 5G-Advanced era to deliver seamless 8K, XR, and live streaming.
-
-### [46. The Rise of Cloud Native Network Observability: Why Traditional Monitoring Isn’t Enough Anymore](https://hackernoon.com/the-rise-of-cloud-native-network-observability-why-traditional-monitoring-isnt-enough-anymore)
+### [43. The Rise of Cloud Native Network Observability: Why Traditional Monitoring Isn’t Enough Anymore](https://hackernoon.com/the-rise-of-cloud-native-network-observability-why-traditional-monitoring-isnt-enough-anymore)
 ![](https://cdn.hackernoon.com/images/iHwWfzS50Ya8vfW3s2y7UipWAEP2-t283epc.png)
 Cloud-native observability delivers real-time insights across microservices, containers and dynamic networks.
 
 
-### [47. AI Wants to Fix Your Network Before It Breaks—But Can You Trust It?](https://hackernoon.com/ai-wants-to-fix-your-network-before-it-breaksbut-can-you-trust-it)
+### [44. Port Forwarding for Noobs](https://hackernoon.com/port-forwarding-for-noobs)
+![](https://cdn.hackernoon.com/images/MmqqCSNi0kSZbsltTFAwEGQLKzN2-my93q93.jpeg)
+Port forwarding is used to enable a router to use a specific port to communicate with certain devices on a network. Learn more about how it is set up here.
+
+### [45. What Can Recurrent Neural Networks in NLP Do?](https://hackernoon.com/what-can-recurrent-neural-networks-in-nlp-do)
+![](https://cdn.hackernoon.com/images/eYWkxDqBywhhLUv1HmIFB7KBZKx1-g5f3kaz.jpeg)
+Recurrent Neural Networks (RNN) have played a major role in sequence modeling in Natural Language Processing (NLP) . Let’s see what are the pros and cons of RNN
+
+### [46. AI-Native Automation in 5G-Advanced and 6G](https://hackernoon.com/ai-native-automation-in-5g-advanced-and-6g)
+![](https://cdn.hackernoon.com/images/MqWYbn35dsYpAPosGiMtLgvrVJE2-w783ejg.jpeg)
+Discover how AI-native control planes and edge intelligence solve buffering in the 5G-Advanced era to deliver seamless 8K, XR, and live streaming.
+
+### [47. Globalping - A Community-Powered Global Network Testing Platform - Is Officially Live!](https://hackernoon.com/globalping-a-community-powered-global-network-testing-platform-is-officially-live)
+![](https://cdn.hackernoon.com/images/network-connecting-the-world-clinoez2g000101s6d4uth4yy.png)
+A modern RIPE Atlas alternative goes live helping anyone run network tests and latency benchmarks with amazing UI and UX. Fully open source.
+
+### [48. AI Wants to Fix Your Network Before It Breaks—But Can You Trust It?](https://hackernoon.com/ai-wants-to-fix-your-network-before-it-breaksbut-can-you-trust-it)
 ![](https://cdn.hackernoon.com/images/cKs78lxUwmhmmdj8AyccPMXHSzJ3-9d036sz.webp)
 AI is helping networks and data centers to be more clever, speedy, and efficient. But AI is not a cure-all.
-
-### [48. Network++ Part 2](https://hackernoon.com/network-part-2)
-![](https://cdn.hackernoon.com/images/NggcDWNSFFXwWM19CbUDI4Cp4U92-g682qjg.jpeg)
-Learn about Network Access Services (NAS), which provide secure methods for users to access computer networks and the internet.
 
 ### [49. Forget The Gig Economy, Join The Life Economy: Get Paid To Live](https://hackernoon.com/forget-the-gig-economy-join-the-life-economy-get-paid-to-live-ot2m3tc6)
 ![](https://images.unsplash.com/photo-1562946777-a92221a54d2b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Written by Chris Kalaboukis, Chief Philosopher, Engineer, and Futurist at hellofuture written for Nodle and Hackernoon.
 
-### [50. Improve Network API Performance For Your Apps](https://hackernoon.com/improve-network-api-performance-for-your-apps)
+### [50. Network++ Part 2](https://hackernoon.com/network-part-2)
+![](https://cdn.hackernoon.com/images/NggcDWNSFFXwWM19CbUDI4Cp4U92-g682qjg.jpeg)
+Learn about Network Access Services (NAS), which provide secure methods for users to access computer networks and the internet.
+
+### [51. Improve Network API Performance For Your Apps](https://hackernoon.com/improve-network-api-performance-for-your-apps)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ts932b8.jpeg)
 Network APIs are everywhere in the modern world. If the data is the lifeblood of modern tech, then APIs are essentially vessels that carry it around distributed
-
-### [51. Globalping - A Community-Powered Global Network Testing Platform - Is Officially Live!](https://hackernoon.com/globalping-a-community-powered-global-network-testing-platform-is-officially-live)
-![](https://cdn.hackernoon.com/images/network-connecting-the-world-clinoez2g000101s6d4uth4yy.png)
-A modern RIPE Atlas alternative goes live helping anyone run network tests and latency benchmarks with amazing UI and UX. Fully open source.
 
 ### [52. WTF is Network Slicing?](https://hackernoon.com/wtf-is-network-slicing-cc1g3w3f)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FP0chwBVShcheayE4ADQMyMDSWZQ2-dz2d3ucl.jpeg?alt=media&token=42f1e55d-32ab-4f35-855f-99d942c4cf94)
 The recent progress in communications and sensors have paved the path for the ever-growing development of Internet of Things (IoT) services, where a tremendous number of devices demand access to the transport network, using commonly deployed ﬁxed or wireless access technologies or even mobile Radio Access Network (RAN). 
 
-### [53. Linux Postfix-How to Add OpenDKIM to DNS](https://hackernoon.com/linux-postfix-how-to-add-opendkim-to-dns)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-k333as4.jpeg)
-Outsourcing is the process of a company contracting with a third party to do a certain task. This post will show how these two elements can work together.
-
-### [54. NAS Data Backup Is Essential For Remote Offices](https://hackernoon.com/nas-data-backup-is-essential-for-remote-offices)
+### [53. NAS Data Backup Is Essential For Remote Offices](https://hackernoon.com/nas-data-backup-is-essential-for-remote-offices)
 ![](https://cdn.hackernoon.com/images/1WRJhPsi81MocXt9DcwnUwxSA343-0ed3or3.jpeg)
 Network Attached Storage (NAS) is a smart, dedicated data storage system that connects to storage drives, allowing multiple users to collaborate and share data.
+
+### [54. Linux Postfix-How to Add OpenDKIM to DNS](https://hackernoon.com/linux-postfix-how-to-add-opendkim-to-dns)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-k333as4.jpeg)
+Outsourcing is the process of a company contracting with a third party to do a certain task. This post will show how these two elements can work together.
 
 ### [55. How Will SpaceX Affect Satellite Tech Evolution and Network Adoption for Cruises?](https://hackernoon.com/how-will-spacex-affect-satellite-tech-evolution-and-network-adoption-for-cruises)
 ![](https://cdn.hackernoon.com/images/gQygiHJ28GUxgPtxjKCUyX9L9aH2-sa93ydr.jpeg)
@@ -241,13 +245,13 @@ virtualization with high availability and live VM migration. The traditional sto
 ![](https://cdn.hackernoon.com/images/125QJTRDxBYOCF63KJz9mn0Vqcg2-cqa3ojv.jpeg)
 The CCIE certification has two other key benefits beyond opening the door to a deeper appreciation of the knowledge continuum in its area of expertise.
 
-### [60. How To Use Keras To Train Neural Networks](https://hackernoon.com/how-to-use-keras-to-train-neural-networks-on3j3538)
-![](https://cdn.hackernoon.com/images/VnLOjx88VSTC15QxJUnLtlkPWQo1-v73l254a.jpeg)
-Keras is a deep learning framework for Python for building neural networks and training them on datasets. It can leverage GPUs and CPUs for training algorithms.
-
-### [61. Creating Our Own Custom Messaging Solution for IoT Devices](https://hackernoon.com/creating-our-own-custom-messaging-solution-for-iot-devices-uls37fg)
+### [60. Creating Our Own Custom Messaging Solution for IoT Devices](https://hackernoon.com/creating-our-own-custom-messaging-solution-for-iot-devices-uls37fg)
 ![](https://cdn.hackernoon.com/images/LEymvvrtvURIHWScxGtFiYzJjRf2-xr5e35wc.jpeg)
 The Internet of Things relies on the interoperation of network nodes. Integra created a custom technology that improved client-server interaction.
+
+### [61. How To Use Keras To Train Neural Networks](https://hackernoon.com/how-to-use-keras-to-train-neural-networks-on3j3538)
+![](https://cdn.hackernoon.com/images/VnLOjx88VSTC15QxJUnLtlkPWQo1-v73l254a.jpeg)
+Keras is a deep learning framework for Python for building neural networks and training them on datasets. It can leverage GPUs and CPUs for training algorithms.
 
 ### [62. Major Reasons Why You Have Wi-Fi Dead Zones](https://hackernoon.com/major-reasons-why-you-have-wi-fi-dead-zones-nf8x3wz9)
 ![](https://cdn.hackernoon.com/images/r41a3w5l.jpg)

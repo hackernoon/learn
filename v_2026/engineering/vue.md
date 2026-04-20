@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [vue](https://hackernoon.com/tagged/vue)
+### Let's learn about [Vue](https://hackernoon.com/tagged/vue) via these 82 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Vue.js is a progressive JavaScript framework for building user interfaces, known for its approachability, performance, and flexibility in developing single-page applications and interactive web components. It matters by offering a developer-friendly ecosystem that enables efficient and scalable front-end development, especially for interactive web experiences.
+
 ### [1. How to Set Default Value of Props in Vue?](https://hackernoon.com/how-to-set-default-value-of-props-in-vue)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-76b3ky9.jpeg)
 Sometimes properties require default values to avoid code breaking errors when designing components in Vue. Let's look at how to give props default values.
@@ -78,13 +82,13 @@ We often work on building applications where a single application might scale to
 ![](https://cdn.hackernoon.com/images/MIq3LAf1OoPW35o7MBmd2s51rcB3-6ia3t6s.jpeg)
 In this post, we'll compare different pagination methods in GraphQL and learn how to configure a REST directive to perform cursor-based pagination with StepZen
 
-### [20. Get the Fastest Frontend Tooling Experience with Vite JS](https://hackernoon.com/get-the-fastest-frontend-tooling-experience-with-vite-js)
-![](https://cdn.hackernoon.com/images/NPpeHHzuHSQz9hZ52qrNTgG9C6a2-8w93hqn.jpeg)
-If you plan to enhance your experience in frontend development, ViteJs is the next-generation tool you should consider. Let's understand why Vite is faster.
-
-### [21. How to Build System Documentation with VuePress](https://hackernoon.com/how-to-build-system-documentation-with-vuepress)
+### [20. How to Build System Documentation with VuePress](https://hackernoon.com/how-to-build-system-documentation-with-vuepress)
 ![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-3zk30iy.jpeg)
 Creating good documentation is essential for every product a company builds, for its users to solve specific problems they might encounter. System documentation
+
+### [21. Get the Fastest Frontend Tooling Experience with Vite JS](https://hackernoon.com/get-the-fastest-frontend-tooling-experience-with-vite-js)
+![](https://cdn.hackernoon.com/images/NPpeHHzuHSQz9hZ52qrNTgG9C6a2-8w93hqn.jpeg)
+If you plan to enhance your experience in frontend development, ViteJs is the next-generation tool you should consider. Let's understand why Vite is faster.
 
 ### [22. Make a Choice Between React, Angular, and Vue to Create Web Apps](https://hackernoon.com/make-a-choice-between-react-angular-and-vue-to-create-web-apps-rqe4m2dms)
 ![](https://cdn.hackernoon.com/drafts/d29o42d2r.png)
@@ -158,13 +162,13 @@ Quite commonly in our applications, we need to create interactive report builder
 ![](https://cdn.hackernoon.com/images/LFCaL0mBeyY8JHz0m6GDFp0v7go2-e52q33nh.jpeg)
 Vue Draggable is a great library for Vue.js that makes it super simple to create interactive draggable components with virtually no effort
 
-### [40. Automatic Image Optimization Using the Nuxt Image Component with imgix](https://hackernoon.com/automatic-image-optimization-using-the-nuxt-image-component-with-imgix)
-![](https://cdn.hackernoon.com/images/qEyR6rrtSuQYAumVgjwd7lxvi9L2-hy93mgk.jpeg)
-See how you can use imgix and the Nuxt Image Component to accelerate page speed, simplify image workflow, and transform images at scale.
-
-### [41. The Top Vue Reporting Tools](https://hackernoon.com/the-top-vue-reporting-tools)
+### [40. The Top Vue Reporting Tools](https://hackernoon.com/the-top-vue-reporting-tools)
 ![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-7p0343e.png)
 Explore the top Vue reporting tools and their notable features for your applications in this review of leading options.
+
+### [41. Automatic Image Optimization Using the Nuxt Image Component with imgix](https://hackernoon.com/automatic-image-optimization-using-the-nuxt-image-component-with-imgix)
+![](https://cdn.hackernoon.com/images/qEyR6rrtSuQYAumVgjwd7lxvi9L2-hy93mgk.jpeg)
+See how you can use imgix and the Nuxt Image Component to accelerate page speed, simplify image workflow, and transform images at scale.
 
 ### [42. How to Build a Web App with ASP NET Core and Vue](https://hackernoon.com/how-to-build-a-web-app-with-asp-net-core-and-vue-w6253z26)
 ![](https://cdn.hackernoon.com/images/LFCaL0mBeyY8JHz0m6GDFp0v7go2-4r5p313p.jpeg)
@@ -203,61 +207,61 @@ Application Acceptance
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-bi1228n3.jpeg?alt=media&token=af11b746-c514-405e-b69e-2f3e946e485c)
 Today, we've observed a dynamic growth of frameworks, approaches, and  JS itself. Thus, investments in education are becoming even more reasonable and profitable. And learning Vue JS development services certainly deserves your attention.
 
-### [51. Server Side Rendering Carousels in Vue.js: Blazing Fast Loading](https://hackernoon.com/server-side-rendering-carousels-in-vuejs-blazing-fast-loading-bt3e360u)
-![](https://cdn.hackernoon.com/images/xm1138kd.jpg)
-
-
-### [52. Optimizing your Vue App Using v-once and v-memo](https://hackernoon.com/optimizing-your-vue-app-using-v-once-and-v-memo)
+### [51. Optimizing your Vue App Using v-once and v-memo](https://hackernoon.com/optimizing-your-vue-app-using-v-once-and-v-memo)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-se9301c.jpeg)
 We'll be looking at how we can optimize performance using two little-known Vue HTML attributes known as v-once and v-memo.
+
+### [52. Server Side Rendering Carousels in Vue.js: Blazing Fast Loading](https://hackernoon.com/server-side-rendering-carousels-in-vuejs-blazing-fast-loading-bt3e360u)
+![](https://cdn.hackernoon.com/images/xm1138kd.jpg)
+
 
 ### [53. Unlocking the Puzzle: Investigating Multiple Event Listeners in Vue.js](https://hackernoon.com/unlocking-the-puzzle-how-to-investigate-multiple-event-listeners-in-vuejs)
 ![](https://cdn.hackernoon.com/images/Y26OVi0lSWPunl54mcBvdXRVdlX2-y593xw3.jpeg)
 Explore Vue.js Event Handling: Unveiling Undocumented Behaviors in Multiple Listeners, Inline Handlers, and Method Detection
 
-### [54. Shrink Your React Docker Image by 90% with Multi-Stage Builds](https://hackernoon.com/shrink-your-react-docker-image-by-90percent-with-multi-stage-builds)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-pf03bgk.jpeg)
-For a React/Vue application, a typical non-optimized image can balloon to hundreds of megabytes.
-
-### [55. Vue Amsterdam 2022 - Part I: State of the Vuenion](https://hackernoon.com/state-of-the-vuenion-part-i)
+### [54. Vue Amsterdam 2022 - Part I: State of the Vuenion](https://hackernoon.com/state-of-the-vuenion-part-i)
 ![](https://cdn.hackernoon.com/images/NYsEt0jSD0Ttv4Gl8UDQGzu9Q9C3-sm93nnk.jpeg)
 Overview of the Vue Eco-System in 2022. Evan You talks about Vue 3, Vue 2.7, Vue 3.3, Nuxt 3, Vuetify 3, Vite, VitePress, Volar, Vitest, etc
 
-### [56. Vue Amsterdam 2022: Part VIII - The Nuxt Web](https://hackernoon.com/vue-amsterdam-2022-part-viii-the-nuxt-web)
+### [55. Vue Amsterdam 2022: Part VIII - The Nuxt Web](https://hackernoon.com/vue-amsterdam-2022-part-viii-the-nuxt-web)
 ![](https://cdn.hackernoon.com/images/NYsEt0jSD0Ttv4Gl8UDQGzu9Q9C3-94a3n4q.jpeg)
 A framework based on Vue.js, aimed to provide the best Developer Experience, to deliver the best User Experience for your end users.
 
-### [57. Vue Lifecycle Hooks Explained](https://hackernoon.com/vue-lifecycle-hooks-explained)
+### [56. Vue Lifecycle Hooks Explained](https://hackernoon.com/vue-lifecycle-hooks-explained)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-6093kvd.jpeg)
 Vue uses lifecycle hooks to let us call certain pieces of code at different times during the component mounting process. Let's look at how it all works.
 
-### [58. Nested Changes in Vue: How to Watch Out for them](https://hackernoon.com/nested-changes-in-vue-how-to-watch-out-for-them)
+### [57. Nested Changes in Vue: How to Watch Out for them](https://hackernoon.com/nested-changes-in-vue-how-to-watch-out-for-them)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-p093kgn.jpeg)
 In Vue, we sometimes want to watch for changes of properties within properties. In this guide, let's look at how to watch for nested changes in Vue.
 
-### [59. Lets Try To Solve The Problem of Web Accessibility Together](https://hackernoon.com/solving-the-problem-of-web-accessibility-together-211g3xg7)
-![](https://cdn.hackernoon.com/drafts/fo2932r8.png)
-Despite the fact that the Internet is 30 years old, a fair amount of the Internet is still unreachable or barely usable for visually impaired people.
-
-### [60. How to Deploy a SPA on AWS With S3 and CloudFront: The Right Way to Do It](https://hackernoon.com/how-to-deploy-a-spa-on-aws-with-s3-and-cloudfront-the-right-way-to-do-it)
-![](https://cdn.hackernoon.com/images/SR5gzWPkCtV47bRI7pvk4VJ34sY2-jm132c8.png)
-In this tutorial, I’ll walk you through the secure, scalable deployment of a SPA (built with frameworks such as React, Vue, or Angular).
-
-### [61. Vue Amsterdam Conference 2022 - Part IX - Full Stack Development With Nuxt 3 and Nitro](https://hackernoon.com/vue-amsterdam-conference-2022-part-ix-full-stack-development-with-nuxt-3-and-nitro)
+### [58. Vue Amsterdam Conference 2022 - Part IX - Full Stack Development With Nuxt 3 and Nitro](https://hackernoon.com/vue-amsterdam-conference-2022-part-ix-full-stack-development-with-nuxt-3-and-nitro)
 ![](https://cdn.hackernoon.com/images/NYsEt0jSD0Ttv4Gl8UDQGzu9Q9C3-41a3pac.jpeg)
 In this article, we will delve into the exciting world of full-stack development using Nuxt 3 and Nitro.
 
-### [62. How to Get Your Dev Blog Noticed in 2021](https://hackernoon.com/how-to-get-your-dev-blog-noticed-in-2021)
+### [59. How to Deploy a SPA on AWS With S3 and CloudFront: The Right Way to Do It](https://hackernoon.com/how-to-deploy-a-spa-on-aws-with-s3-and-cloudfront-the-right-way-to-do-it)
+![](https://cdn.hackernoon.com/images/SR5gzWPkCtV47bRI7pvk4VJ34sY2-jm132c8.png)
+In this tutorial, I’ll walk you through the secure, scalable deployment of a SPA (built with frameworks such as React, Vue, or Angular).
+
+### [60. Lets Try To Solve The Problem of Web Accessibility Together](https://hackernoon.com/solving-the-problem-of-web-accessibility-together-211g3xg7)
+![](https://cdn.hackernoon.com/drafts/fo2932r8.png)
+Despite the fact that the Internet is 30 years old, a fair amount of the Internet is still unreachable or barely usable for visually impaired people.
+
+### [61. How to Get Your Dev Blog Noticed in 2021](https://hackernoon.com/how-to-get-your-dev-blog-noticed-in-2021)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-gk13odl.jpeg)
 How to write and share technical software development articles in 2021.
 
-### [63. Vue Amsterdam 2022: Part VII - Animating with Vue](https://hackernoon.com/vue-amsterdam-2022-part-vii-animating-with-vue)
+### [62. Vue Amsterdam 2022: Part VII - Animating with Vue](https://hackernoon.com/vue-amsterdam-2022-part-vii-animating-with-vue)
 ![](https://cdn.hackernoon.com/images/NYsEt0jSD0Ttv4Gl8UDQGzu9Q9C3-3ul3oxf.jpeg)
 How to use the Vue magic to create awesome animations, from simple ones to more complex ones, combining Vue with animation libraries.
 
-### [64. How To Make an Image Uploading App Using Vue, Quasar, Firebase Storage and Cordova [Part 2]](https://hackernoon.com/how-to-make-an-image-uploading-app-with-vue-quasar-firebase-storage-and-cordova-part-2-u7t32rb)
+### [63. How To Make an Image Uploading App Using Vue, Quasar, Firebase Storage and Cordova [Part 2]](https://hackernoon.com/how-to-make-an-image-uploading-app-with-vue-quasar-firebase-storage-and-cordova-part-2-u7t32rb)
 ![](https://cdn.hackernoon.com/drafts/xoqd32ge.png)
 What we’re building
+
+### [64. Shrink Your React Docker Image by 90% with Multi-Stage Builds](https://hackernoon.com/shrink-your-react-docker-image-by-90percent-with-multi-stage-builds)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-pf03bgk.jpeg)
+For a React/Vue application, a typical non-optimized image can balloon to hundreds of megabytes.
 
 ### [65. Striking a Chord: The Art of Animating Music With Meaning](https://hackernoon.com/striking-a-chord-the-art-of-animating-music-with-meaning)
 ![](https://cdn.hackernoon.com/images/Y26OVi0lSWPunl54mcBvdXRVdlX2-6ka3xo3.jpeg)
@@ -283,13 +287,13 @@ In true TDD, tests must fail, tests must pass, and the code must be refactored.
 ![](https://cdn.hackernoon.com/images/NYsEt0jSD0Ttv4Gl8UDQGzu9Q9C3-ca93nw9.jpeg)
 In this talk Eduardo goes through some of the internals of Pinia, understanding them and discovering how to enhance our usage of Pinia.
 
-### [71. Vue Amsterdam 2022 - Part IV: The Unwanted Stack](https://hackernoon.com/state-of-the-vuenion-vue-amsterdam-2022-part-iv)
-![](https://cdn.hackernoon.com/images/NYsEt0jSD0Ttv4Gl8UDQGzu9Q9C3-tza3obn.jpeg)
-How to purpose changes; How to adapt ourselves in a tech stack.
-
-### [72. Vue Amsterdam 2022: Part V - Reusable Widgets That Work!](https://hackernoon.com/vue-amsterdam-2022-part-v-reusable-widgets-that-work)
+### [71. Vue Amsterdam 2022: Part V - Reusable Widgets That Work!](https://hackernoon.com/vue-amsterdam-2022-part-v-reusable-widgets-that-work)
 ![](https://cdn.hackernoon.com/images/NYsEt0jSD0Ttv4Gl8UDQGzu9Q9C3-4p93od9.jpeg)
 How to build accessible reusable widgets and reusable components with the help of ARIA (Accessible Rich Internet Application)
+
+### [72. Vue Amsterdam 2022 - Part IV: The Unwanted Stack](https://hackernoon.com/state-of-the-vuenion-vue-amsterdam-2022-part-iv)
+![](https://cdn.hackernoon.com/images/NYsEt0jSD0Ttv4Gl8UDQGzu9Q9C3-tza3obn.jpeg)
+How to purpose changes; How to adapt ourselves in a tech stack.
 
 ### [73. How To Protect Your Vue.js Application With Jscrambler](https://hackernoon.com/how-to-protect-your-vuejs-application-with-jscrambler-nh9c3ywo)
 ![](https://images.unsplash.com/photo-1508313157893-34fe6176c189?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [apache](https://hackernoon.com/tagged/apache)
+### Let's learn about [Apache](https://hackernoon.com/tagged/apache) via these 52 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Apache commonly refers to the Apache HTTP Server, a widely used open-source web server software, foundational for hosting websites and web applications globally. Its reliability and extensibility make it a critical component of internet infrastructure.
+
 ### [1. What’s the Database Plus Concept and What Challenges Can It Solve?](https://hackernoon.com/whats-the-database-plus-concept-and-what-challenges-can-it-solve)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-6993oqj.jpeg)
 Explaining the Database Plus concept, its impact on system architecture design, and its innovations: from Proxyless Service Mesh to microservice backend support
@@ -63,13 +67,13 @@ CVE-2021–44228 (Log4Shell) is an unauthenticated Remote Code Execution(RCE) 
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-g5934g7.jpeg)
 Set up two named domain websites on one server host
 
-### [16. Here's Why Big Tech Bets Big on Apache Cassandra - An Interview With Vinay Chella of Netflix](https://hackernoon.com/heres-why-big-tech-bets-big-on-apache-cassandra-an-interview-with-vinay-chella-of-netflix-n2l34lt)
-![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-7c9g34my.jpeg)
-You never have to think about planned downtimes for upgrades, rollouts, and unplanned outages
-
-### [17. Dockerize Your Laravel Project in a Jiffy](https://hackernoon.com/dockerize-your-laravel-project-in-a-jiffy)
+### [16. Dockerize Your Laravel Project in a Jiffy](https://hackernoon.com/dockerize-your-laravel-project-in-a-jiffy)
 ![](https://cdn.hackernoon.com/images/dggyuWeiI8UTajGn2FUnYNzWjCs2-pl92fvt.jpeg)
 The easiest way to dockerize your Laravel project. you can set up Laravel in just 10 minutes...
+
+### [17. Here's Why Big Tech Bets Big on Apache Cassandra - An Interview With Vinay Chella of Netflix](https://hackernoon.com/heres-why-big-tech-bets-big-on-apache-cassandra-an-interview-with-vinay-chella-of-netflix-n2l34lt)
+![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-7c9g34my.jpeg)
+You never have to think about planned downtimes for upgrades, rollouts, and unplanned outages
 
 ### [18. The API to Bootstrap Your Flink Jobs Has Arrived](https://hackernoon.com/developers-the-api-to-bootstrap-your-flink-jobs-has-arrived-0h2c3zt9)
 ![](https://cdn.hackernoon.com/drafts/xh2b3247.png)
@@ -99,13 +103,13 @@ Use the extension of UDF functions to parse the nested JSON data from Kafka sour
 ![](https://cdn.hackernoon.com/images/ZPH1phY9EEX1BB6hjSNi0ds2zk03-eo932th.jpeg)
  Dive into Raspberry Pi's reimagined LAMP stack, shifting to Ubuntu, Apache, SQLite3, Python. Efficient coding, cost-effective solutions revealed!
 
-### [25. 16 Guides to Get You Started with Apache Iceberg](https://hackernoon.com/16-guides-to-get-you-started-with-apache-iceberg)
-![](https://cdn.hackernoon.com/images/TbvBlyikqbYO9TG8r4NopOMeGSs1-zc8230i.jpeg)
-These guides are designed to provide you with practical experience in working with Apache Iceberg.
-
-### [26. Dynamic Generation of Airflow DAGs for Multiple Environments](https://hackernoon.com/dynamic-generation-of-airflow-dags-for-multiple-environments)
+### [25. Dynamic Generation of Airflow DAGs for Multiple Environments](https://hackernoon.com/dynamic-generation-of-airflow-dags-for-multiple-environments)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-wt02qij.jpeg)
 Any software product, upon gaining its first users, faces deployment issues, which are primarily addressed by deploying multiple environments.
+
+### [26. 16 Guides to Get You Started with Apache Iceberg](https://hackernoon.com/16-guides-to-get-you-started-with-apache-iceberg)
+![](https://cdn.hackernoon.com/images/TbvBlyikqbYO9TG8r4NopOMeGSs1-zc8230i.jpeg)
+These guides are designed to provide you with practical experience in working with Apache Iceberg.
 
 ### [27. A Comprehensive Guide to Apache Cassandra Architecture](https://hackernoon.com/a-comprehensive-guide-to-apache-cassandra-architecture-owhb3yyj)
 ![](https://cdn.hackernoon.com/drafts/or383ybn.png)
@@ -123,13 +127,13 @@ In this article, we’ll provide a step-by-step tutorial that will guide you thr
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-dl0346v.webp)
 Apache NiFi cluster can process up to 50 GB of data per day. Apache NiFi can provide a balance between performance and cost-effectiveness.
 
-### [31. Apache Airflow And Its Contribution to Enterprise Data Integration](https://hackernoon.com/apache-airflow-and-its-contribution-to-enterprise-data-integration)
-![](https://cdn.hackernoon.com/images/airflow-y14bdz588gb7fkxp78mmet32.png)
-Large enterprises, which have more than one business unit, usually have more than one data platform environment.
-
-### [32. Apache Airflow: Is It a Good Tool for Data Quality Checks?](https://hackernoon.com/apache-airflow-is-it-a-good-tool-for-data-quality-checks)
+### [31. Apache Airflow: Is It a Good Tool for Data Quality Checks?](https://hackernoon.com/apache-airflow-is-it-a-good-tool-for-data-quality-checks)
 ![](https://cdn.hackernoon.com/images/Vd9vRm9WAwROtFEwhFqn42j2hI73-18b3p6r.jpeg)
 Learn the impact of airflow on the data quality checks and why you should look for an alternative solution tool
+
+### [32. Apache Airflow And Its Contribution to Enterprise Data Integration](https://hackernoon.com/apache-airflow-and-its-contribution-to-enterprise-data-integration)
+![](https://cdn.hackernoon.com/images/airflow-y14bdz588gb7fkxp78mmet32.png)
+Large enterprises, which have more than one business unit, usually have more than one data platform environment.
 
 ### [33. How to Configure Apache APISIX For Geo-routing](https://hackernoon.com/how-to-configure-apache-apisix-for-geo-routing)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-r1932rh.jpeg)
@@ -143,21 +147,21 @@ This article aims to provide a reference for non-tech companies who are seeking 
 ![](https://cdn.hackernoon.com/images/xF7q1zx6HEbwjK8pfSmYFRRJEDi1-3dk3f4q.jpeg)
 Data-driven organizations are planning to build a data as a service (DaaS) architecture to make it easier to onboard their users, partners, and consumers.
 
-### [36. Como Instalar um Servidor Apache HTTPD](https://hackernoon.com/como-instalar-um-servidor-apache-httpd-qt5b3yqf)
-![](https://cdn.hackernoon.com/images/b1u83yyt.jpg)
-Oi pessoal!
-
-### [37. How Mongoose Will Bring JSON-Oriented Developers to Apache Cassandra](https://hackernoon.com/how-mongoose-will-bring-json-oriented-developers-to-apache-cassandra)
+### [36. How Mongoose Will Bring JSON-Oriented Developers to Apache Cassandra](https://hackernoon.com/how-mongoose-will-bring-json-oriented-developers-to-apache-cassandra)
 ![](https://cdn.hackernoon.com/images/qiQzyjN6LvaRDmVgSbd9gXT8bty2-bu93p36.jpeg)
 A new partnership between the open source projects Stargate and Mongoose will create a fully idiomatic experience for JavaScript developers on Cassandra.
 
-### [38. 8 Essential Maven Plugins Beyond The Core](https://hackernoon.com/8-essential-maven-plugins-beyond-the-core-y8o329o)
-![](https://cdn.hackernoon.com/images/jxp3zls.jpg)
-Working with Maven as a build management tool, you’ve grown accustomed to its core plugins and abilities. Now, it’s time to up your Maven game and discover the top plugins that add time-saving functionality to your favorite build tool.
+### [37. Como Instalar um Servidor Apache HTTPD](https://hackernoon.com/como-instalar-um-servidor-apache-httpd-qt5b3yqf)
+![](https://cdn.hackernoon.com/images/b1u83yyt.jpg)
+Oi pessoal!
 
-### [39. Stop Wasting Time on Broken Data Syncs—Here’s How to Do It Right with Apache SeaTunnel](https://hackernoon.com/stop-wasting-time-on-broken-data-syncsheres-how-to-do-it-right-with-apache-seatunnel)
+### [38. Stop Wasting Time on Broken Data Syncs—Here’s How to Do It Right with Apache SeaTunnel](https://hackernoon.com/stop-wasting-time-on-broken-data-syncsheres-how-to-do-it-right-with-apache-seatunnel)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-0t02vbw.jpeg)
 In this guide, we will walk you through a lightweight data migration and synchronization solution from MySQL to OceanBase using Apache SeaTunnel
+
+### [39. 8 Essential Maven Plugins Beyond The Core](https://hackernoon.com/8-essential-maven-plugins-beyond-the-core-y8o329o)
+![](https://cdn.hackernoon.com/images/jxp3zls.jpg)
+Working with Maven as a build management tool, you’ve grown accustomed to its core plugins and abilities. Now, it’s time to up your Maven game and discover the top plugins that add time-saving functionality to your favorite build tool.
 
 ### [40. Make Software Great Again: Can Open Source be Ethical and Fair?](https://hackernoon.com/make-software-great-again-can-open-source-be-ethical-and-fair-im3v32ut)
 ![](https://cdn.hackernoon.com/drafts/ww7d26j9.png)
@@ -179,29 +183,29 @@ After explaining the theory behind Data Residency, It's time to get our hands di
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-wh02ucv.jpeg)
 How tuning failure detectors and JVM GC settings can eliminate FullGC-induced outages and restore stability—without rewriting a line of business logic.
 
-### [45. Stop Fighting Data Sync Issues—This Guide Makes MySQL-to-PostgreSQL Transfers Easy](https://hackernoon.com/stop-fighting-data-sync-issuesthis-guide-makes-mysql-to-postgresql-transfers-easy)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-vj02unz.jpeg)
-This article provides a detailed walkthrough of how to achieve full data synchronization from MySQL to PostgreSQL using Apache SeaTunnel 2.3.9. 
-
-### [46. How to Secure Admin Access to Apache APISIX](https://hackernoon.com/how-to-secure-admin-access-to-apache-apisix)
+### [45. How to Secure Admin Access to Apache APISIX](https://hackernoon.com/how-to-secure-admin-access-to-apache-apisix)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-sd93p4i.jpeg)
 In this post, I've shown several non-exclusive options you should consider to secure Apache APISIX.
+
+### [46. Stop Fighting Data Sync Issues—This Guide Makes MySQL-to-PostgreSQL Transfers Easy](https://hackernoon.com/stop-fighting-data-sync-issuesthis-guide-makes-mysql-to-postgresql-transfers-easy)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-vj02unz.jpeg)
+This article provides a detailed walkthrough of how to achieve full data synchronization from MySQL to PostgreSQL using Apache SeaTunnel 2.3.9. 
 
 ### [47. Implementing a Free Tier API: Route Matching with Apache APISIX](https://hackernoon.com/implementing-a-free-tier-api-route-matching-with-apache-apisix)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-p582l5s.jpeg)
 Learn to implement a free tier in your API service using Apache APISIX, with advanced route matching and authentication techniques.
 
-### [48. FOSS is the big boy LEGO of the Innovative World](https://hackernoon.com/foss-is-the-big-boy-lego-of-the-innovative-world-dhn33t7)
+### [48. Handling JSON, Schema Issues, and Doris Quirks in an Apache SeaTunnel Pipeline](https://hackernoon.com/handling-json-schema-issues-and-doris-quirks-in-an-apache-seatunnel-pipeline)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6h02vtt.jpeg)
+A guide for data engineers, backend devs, and open source tinkerers who need to wrestle REST APIs into Apache SeaTunnel and Apache Doris.
+
+### [49. FOSS is the big boy LEGO of the Innovative World](https://hackernoon.com/foss-is-the-big-boy-lego-of-the-innovative-world-dhn33t7)
 ![](https://cdn.hackernoon.com/images/vcAjuzO8ZzW8qTmr44Z1T5rfsQf2-ew2633pe.jpeg)
 FOSS is the big boy LEGO of the Innovative World
 
-### [49. Take the Guesswork Out of Installing DolphinScheduler—Here’s How to Do It](https://hackernoon.com/take-the-guesswork-out-of-installing-dolphinschedulerheres-how-to-do-it)
+### [50. Take the Guesswork Out of Installing DolphinScheduler—Here’s How to Do It](https://hackernoon.com/take-the-guesswork-out-of-installing-dolphinschedulerheres-how-to-do-it)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7h02tf5.jpeg)
 Although Ambari does not directly support the installation of DolphinScheduler, we can integrate it into Ambari through a custom service.
-
-### [50. Handling JSON, Schema Issues, and Doris Quirks in an Apache SeaTunnel Pipeline](https://hackernoon.com/handling-json-schema-issues-and-doris-quirks-in-an-apache-seatunnel-pipeline)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6h02vtt.jpeg)
-A guide for data engineers, backend devs, and open source tinkerers who need to wrestle REST APIs into Apache SeaTunnel and Apache Doris.
 
 ### [51. Kafka Authorization And NiFi Encryption to Amazon S3](https://hackernoon.com/kafka-authorization-and-nifi-encryption-to-amazon-s3-a42e3wck)
 ![](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)

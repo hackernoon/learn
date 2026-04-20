@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [application](https://hackernoon.com/tagged/application)
+### Let's learn about [Application](https://hackernoon.com/tagged/application) via these 196 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+An application is a software program designed to perform a specific function directly for the user or for another application. Applications are the primary means by which users interact with and utilize digital systems and services.
+
 ### [1. The 6 Best Android Emulators for Windows 10](https://hackernoon.com/the-best-android-emulator-for-windows-10-nl31e329j)
 ![](https://cdn.hackernoon.com/images/vg2di32d3.jpg)
 In the world of mobile gaming apps most of the developers are inclined towards setting up their own android app test environment and installs Android in Windows. Hence, we have shortlisted a few of the best android emulators for Windows 10 that attributes to high stability and features in the App Development Market.
@@ -259,25 +263,25 @@ Before talking about AWS infrastructure first we will see What is the cloud? Wha
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsEiTHnmTGDdab0qMfHtb54LxcMe2-y61r3y0m.jpeg?alt=media&token=550a721e-7a74-4217-af16-93b2c2ade4f0)
 In this post, we will learn easy steps to turn off the txbugreport.exe process running in your Computer and occupying more memory and prevent this .exe file from sending automated bug reports to Tencent Computer Systems.
 
-### [65. Introduction to Strapi : Headless CMS for Building Web Applications](https://hackernoon.com/introduction-to-strapi-headless-cms-for-building-web-applications-0v2o31cm)
-![](https://cdn.hackernoon.com/images/bqq1vavQnKeXAOodyo8V8H52q8G2-qu8350k.jpeg)
-Strapi is an open-source Headless CMS that gives developers the freedom to choose their favorite tools and frameworks.
-
-### [66. Making an Electron 7 React app for the challenger Bank Revolut](https://hackernoon.com/making-an-electron-7-react-app-in-2019-for-the-neo-bank-revolut-gt6o45lx)
+### [65. Making an Electron 7 React app for the challenger Bank Revolut](https://hackernoon.com/making-an-electron-7-react-app-in-2019-for-the-neo-bank-revolut-gt6o45lx)
 ![](https://cdn.hackernoon.com/drafts/13i45m0.png)
 Living in the UK, it is almost impossible not to be tempted to try the new challenger banks such as Revolut, Starling and Monzo. I am currently using Revolut as my main bank account and felt the need to access it from my computer.
+
+### [66. Introduction to Strapi : Headless CMS for Building Web Applications](https://hackernoon.com/introduction-to-strapi-headless-cms-for-building-web-applications-0v2o31cm)
+![](https://cdn.hackernoon.com/images/bqq1vavQnKeXAOodyo8V8H52q8G2-qu8350k.jpeg)
+Strapi is an open-source Headless CMS that gives developers the freedom to choose their favorite tools and frameworks.
 
 ### [67. How To Create a Communication Bridge Between Flutter And JavaScript](https://hackernoon.com/how-to-create-a-communication-bridge-between-flutter-and-javascript-3sm314v)
 ![](https://cdn.hackernoon.com/images/D0OBb8CGuBNP82rV561sQ8t51Gp1-4783woy.jpeg)
 As a follow up to my article explaining how to create communication bridges in Android and iOS, I thought it might be a good idea to do the same for Flutter. While it may seem like this is a straightforward affair, you’ll soon realize it takes a bit of work to get this functionality working.
 
-### [68. Low Code Is The Future Of Application Development](https://hackernoon.com/low-code-is-the-future-of-application-development-c4263ztr)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxTXILVf5qdeQ2P0CFi8XVWf7Dy93-6q2y3e62.jpeg?alt=media&token=343bfb91-a6ee-482c-835d-4e2083e2bb72)
-Today’s technology is about the future of application development rather than the past. The shift to modern tools such as low-code is happening no matter the controversies. 
-
-### [69. How Android Permissions Mapped at Kernel's Level](https://hackernoon.com/how-android-permissions-mapped-at-kernels-level-22gx3ydb)
+### [68. How Android Permissions Mapped at Kernel's Level](https://hackernoon.com/how-android-permissions-mapped-at-kernels-level-22gx3ydb)
 ![](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Android, as we all know is based, on top of Linux. 
+
+### [69. Low Code Is The Future Of Application Development](https://hackernoon.com/low-code-is-the-future-of-application-development-c4263ztr)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxTXILVf5qdeQ2P0CFi8XVWf7Dy93-6q2y3e62.jpeg?alt=media&token=343bfb91-a6ee-482c-835d-4e2083e2bb72)
+Today’s technology is about the future of application development rather than the past. The shift to modern tools such as low-code is happening no matter the controversies. 
 
 ### [70. Abstraction Layers and API's for Cloud Native Environments](https://hackernoon.com/abstraction-layers-and-apis-for-cloud-native-environments-o8eo3y9g)
 ![](https://images.unsplash.com/photo-1511351817482-e0d6127f20bb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -339,29 +343,29 @@ This series intends to show how I build app to serve content from my WordPress b
 ![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-c2a34cz.jpeg)
 Learn the top advantages of using WebAssembly for your applications.
 
-### [85. How to Practice Trading with an App - TradingGYM](https://hackernoon.com/how-to-practice-trading-with-an-app-tradinggym-8k373wxr)
+### [85. Skyrim Wellbeing Manager](https://hackernoon.com/skyrim-wellbeing-manager)
+![](https://cdn.hackernoon.com/images/j3EXE7ofOhT0JI2if1MSoshzOL82-d8e3bd2.gif.webp)
+Discover how RPG mechanics, quest-based to-dos, and AI-generated lore can transform the "grind" of mental health recovery into a legendary adventure.
+
+### [86. How to Practice Trading with an App - TradingGYM](https://hackernoon.com/how-to-practice-trading-with-an-app-tradinggym-8k373wxr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5HUaaJqHv2Of3gb6EeMMe4S0ZWY2-kfk3te6.jpeg?alt=media&token=9d1a14ed-7c5f-48f5-a292-9ba54fde1615)
 I was looking for an app that helps you practice trading, something that would replay historical candles and let me trade on them at a point in time, kind of like a trading simulator, but I couldn't find anything that suited my needs.
 
-### [86. React Native WebView Plugin Introduction](https://hackernoon.com/react-native-webview-plugin-introduction-ps1u3urr)
+### [87. React Native WebView Plugin Introduction](https://hackernoon.com/react-native-webview-plugin-introduction-ps1u3urr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-4ut3uwd.gif?alt=media&token=00caf32e-f22a-4269-a06c-69ed43644329)
 In React Native, WebViews enable access to any web portal in the mobile app itself. In other words, a web view allows us to open the web URLs inside the app interface. While React Native provides us with a built-it web view component, but we are going to use react-native-webview plugin in this tutorial, since it is more powerful. React Native WebView is a modern, well-supported, and cross-platform WebView for React Native.
 
-### [87. Approaching Unit Testing in iOS Correctly](https://hackernoon.com/approaching-unit-testing-in-ios-correctly-lmr3u13)
+### [88. Approaching Unit Testing in iOS Correctly](https://hackernoon.com/approaching-unit-testing-in-ios-correctly-lmr3u13)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsKUg89yJOWchW3oscCcEhyRkcjj1-fd2d3uoa.jpeg?alt=media&token=1fa605c5-8559-4ba8-a35a-7e0681e9eda9)
 Why does my application get so buggy after each release?
 
-### [88. Your Go-to Programs to Master Web Development](https://hackernoon.com/your-go-to-programs-to-master-web-development-dum3te0)
+### [89. Your Go-to Programs to Master Web Development](https://hackernoon.com/your-go-to-programs-to-master-web-development-dum3te0)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-idf3t68.jpeg?alt=media&token=e25053b4-3679-4b80-9055-0d5232580c22)
 In this day and age, faster always wins. Tools can make or break any job.  Tasks that you do everyday shouldn't become a hassle.  This is a list of tools I use when I develop websites, logos and anything else when I'm making content for the web.
 
-### [89. 5G is Here: How The Dynamics of Mobile Apps Will Change](https://hackernoon.com/5g-is-here-how-the-dynamics-of-mobile-apps-will-change-yk2e3ymf)
+### [90. 5G is Here: How The Dynamics of Mobile Apps Will Change](https://hackernoon.com/5g-is-here-how-the-dynamics-of-mobile-apps-will-change-yk2e3ymf)
 ![](https://cdn.hackernoon.com/drafts/vvl3y2z.png)
 Did you ever imagine watching a doctor performing surgery, in real-time, on your mobile phone and that too in 3D? Don’t get confused pal, this is not Tony Stark’s laboratory. This is the power of 5G!
-
-### [90. Skyrim Wellbeing Manager](https://hackernoon.com/skyrim-wellbeing-manager)
-![](https://cdn.hackernoon.com/images/j3EXE7ofOhT0JI2if1MSoshzOL82-d8e3bd2.gif.webp)
-Discover how RPG mechanics, quest-based to-dos, and AI-generated lore can transform the "grind" of mental health recovery into a legendary adventure.
 
 ### [91. Best Resources to Learn React Native Development [My Review]](https://hackernoon.com/best-resources-to-learn-react-native-development-my-review-cb123uh2)
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-vm83798.jpeg)
@@ -397,13 +401,13 @@ Augmented reality is often presented as something futuristic, but it exists arou
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-gs93vk7.jpeg)
 Above all else, the sample apps team wanted these products to serve as teaching tools for engineers.
 
-### [99. How To Build WordPress App with React Native Part #4: Add Font Icon](https://hackernoon.com/build-wordpress-app-with-react-native-4-add-font-icon-021ec323b)
-![](https://cdn.hackernoon.com/images/tf383zks.jpg)
-This series intends to show how I build an app to serve content from my WordPress blog by using react-native. Since my blog is talking about react-native, the series and the articles are interconnected. We will learn how to set-up many packages that make our lives comfortable and learn how to deal with WordPress APIs. Here, the most prominent features talked about in the book are the dark theme, offline mode, infinite scroll and many more. You can discover much more in this series. this inspiration to do this tutorial series came from the React Native App Templates from instamobile
-
-### [100. Do You Really Need an Application?](https://hackernoon.com/do-you-really-need-an-application-b9u3w9s)
+### [99. Do You Really Need an Application?](https://hackernoon.com/do-you-really-need-an-application-b9u3w9s)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F68X4Y1ZGdpgNKHX6fAsgXxT42l72-s1br3w5d.jpeg?alt=media&token=8e6e8f0c-2daf-4149-aa94-2414e0c4a84a)
 Are you planning to start an app business or develop an app for your business?  
+
+### [100. How To Build WordPress App with React Native Part #4: Add Font Icon](https://hackernoon.com/build-wordpress-app-with-react-native-4-add-font-icon-021ec323b)
+![](https://cdn.hackernoon.com/images/tf383zks.jpg)
+This series intends to show how I build an app to serve content from my WordPress blog by using react-native. Since my blog is talking about react-native, the series and the articles are interconnected. We will learn how to set-up many packages that make our lives comfortable and learn how to deal with WordPress APIs. Here, the most prominent features talked about in the book are the dark theme, offline mode, infinite scroll and many more. You can discover much more in this series. this inspiration to do this tutorial series came from the React Native App Templates from instamobile
 
 ### [101.  Save Content From the Internet With Evernote](https://hackernoon.com/save-content-from-the-internet-with-evernote)
 ![](https://cdn.hackernoon.com/images/6Ih8XbFQOBWEzfH3UWPjHl3raHR2-fnx3jam.jpeg)
@@ -441,29 +445,29 @@ This React Native Plant App UI clone tutorial series was inspired by the React 
 ![](https://cdn.hackernoon.com/images/46p32c3.jpg)
 This series intends to show how I build an app to serve content from my WordPress blog by using react-native. Since my blog is talking about react-native, the series and the articles are interconnected. We will learn how to set-up many packages that make our lives comfortable and learn how to deal with WordPress APIs. Here, the most prominent features talked about in the book are the dark theme, offline mode, infinite scroll and many more. You can discover much more in this series. this inspiration to do this tutorial series came from the React Native App Templates from instamobile
 
-### [110. How To Build WordPress App with React Native Part #10:  Save Bookmark Feature](https://hackernoon.com/build-wordpress-app-with-react-native-10-save-bookmark-vb26t32hn)
-![](https://cdn.hackernoon.com/images/5y1y32oy.jpg)
-We are going to learn how to bookmark the articles so that we can easily access them in our Bookmark screen later. The process is simple. We are going to save post id to Asyncstorage from the SinglePost screen and then fetch the articles on the bookmark screen. Here, we are going to add the bookmark icon to the SinglePost screen and configure its functionality.
-
-### [111. How To Build WordPress Client App with React Native Part #20: Saving Data to Cache](https://hackernoon.com/build-wordpress-client-app-with-react-native-20-saving-data-to-cache-ja1bz32ln)
+### [110. How To Build WordPress Client App with React Native Part #20: Saving Data to Cache](https://hackernoon.com/build-wordpress-client-app-with-react-native-20-saving-data-to-cache-ja1bz32ln)
 ![](https://cdn.hackernoon.com/images/ajga323y.jpg)
 This series intends to show how I build an app to serve content from my WordPress blog by using react-native. Since my blog is talking about react-native, the series and the articles are interconnected. We will learn how to set-up many packages that make our lives comfortable and learn how to deal with WordPress APIs. Here, the most prominent features talked about in the book are the dark theme, offline mode, infinite scroll and many more. You can discover much more in this series. this inspiration to do this tutorial series came from the React Native App Templates from instamobile
 
-### [112. A New Entrant To The On-Mobile Options Trading Platform](https://hackernoon.com/overview-of-mobytrader-a-bitcoin-mobile-options-trading-platform-v91i44nh)
-![](https://cdn.hackernoon.com/drafts/ahbr44ho.png)
-Where Spot Trading is a hunch, Option Trading is a numbers game. MobyTrader makes complex options easier and faster accessible for retail traders. And while it is statistically hard to ace all positions, a savvy trader keeps oversight due to MobyTrader’s unique mobile graphical interface.
+### [111. How To Build WordPress App with React Native Part #10:  Save Bookmark Feature](https://hackernoon.com/build-wordpress-app-with-react-native-10-save-bookmark-vb26t32hn)
+![](https://cdn.hackernoon.com/images/5y1y32oy.jpg)
+We are going to learn how to bookmark the articles so that we can easily access them in our Bookmark screen later. The process is simple. We are going to save post id to Asyncstorage from the SinglePost screen and then fetch the articles on the bookmark screen. Here, we are going to add the bookmark icon to the SinglePost screen and configure its functionality.
 
-### [113. How To Determine A Good Application Architecture](https://hackernoon.com/how-to-determine-a-good-application-architecture-x41m2dy8)
+### [112. How To Determine A Good Application Architecture](https://hackernoon.com/how-to-determine-a-good-application-architecture-x41m2dy8)
 ![](https://cdn.hackernoon.com/drafts/q61w2du6.png)
 When I started writing a small but real growing project, I noticed that the app shouldn’t only work well but also should be well organized. 
 
-### [114. React Native Car Parking Finder App UI Clone #6: Implementing Modal View](https://hackernoon.com/react-native-car-parking-finder-app-ui-clone-6-implementing-modal-view-mm15324i)
-![](https://cdn.hackernoon.com/images/88uo32rn.jpg)
-This tutorial is the sixth part of our React Native Car Parking App UI clone series. In the last part, we successfully implemented the Header section in our map screen as well as organized our code. In this part of the tutorial series, we are going to continue from where we left off in the last part. So, it is recommended to go through all the previous parts of this tutorial series in order to get the full insight and development of the project.
-
-### [115. How to Develop a Messaging App like WhatsApp: Your Handy Guide](https://hackernoon.com/how-to-develop-a-messaging-app-like-whatsapp-your-handy-guide-uk243ya3)
+### [113. How to Develop a Messaging App like WhatsApp: Your Handy Guide](https://hackernoon.com/how-to-develop-a-messaging-app-like-whatsapp-your-handy-guide-uk243ya3)
 ![](https://cdn.hackernoon.com/drafts/7bm23yqt.png)
 WhatsApp, Facebook Messenger, and We Chat apps do not require any introduction. These messaging apps have become more popular than social media, and many entrepreneurs want to capitalize on their popularity. However, it is quite a task to make any new instant messaging app like WhatsApp successful because of intense competition. Let’s go through five formulas to make your messaging app capable of standing firm against the giants. 
+
+### [114. A New Entrant To The On-Mobile Options Trading Platform](https://hackernoon.com/overview-of-mobytrader-a-bitcoin-mobile-options-trading-platform-v91i44nh)
+![](https://cdn.hackernoon.com/drafts/ahbr44ho.png)
+Where Spot Trading is a hunch, Option Trading is a numbers game. MobyTrader makes complex options easier and faster accessible for retail traders. And while it is statistically hard to ace all positions, a savvy trader keeps oversight due to MobyTrader’s unique mobile graphical interface.
+
+### [115. React Native Car Parking Finder App UI Clone #6: Implementing Modal View](https://hackernoon.com/react-native-car-parking-finder-app-ui-clone-6-implementing-modal-view-mm15324i)
+![](https://cdn.hackernoon.com/images/88uo32rn.jpg)
+This tutorial is the sixth part of our React Native Car Parking App UI clone series. In the last part, we successfully implemented the Header section in our map screen as well as organized our code. In this part of the tutorial series, we are going to continue from where we left off in the last part. So, it is recommended to go through all the previous parts of this tutorial series in order to get the full insight and development of the project.
 
 ### [116. How to Make an App That Is Unbreakable](https://hackernoon.com/how-to-make-an-app-that-is-unbreakable)
 ![](https://cdn.hackernoon.com/images/0PnKXzdeU8Px7YXXEvic98yylwz1-yd937tu.jpeg)
@@ -486,25 +490,25 @@ Application Security is the process of ensuring the safety and security of appli
 ![](https://images.unsplash.com/photo-1495819903255-00fdfa38a8de?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Let's jump right in!
 
-### [121. How To Build WordPress Client App with React Native Part #13: Configuring Firebase Database](https://hackernoon.com/build-wordpress-client-app-with-react-native-13-configuring-firebase-g73v232nt)
-![](https://cdn.hackernoon.com/images/pc46332bk.jpg)
-In this chapter, we are going to implement the Contact screen. This screen is specially for contacting the developer and writer of articles. The users can use it to send a personal message to the developer. For the implementation, we are going to use two main packages. One is tcomb-form-native and the other is react-native-firebase. The tcomb package is to handle the form validation. And, react-native-firebase to connect react native app to real time firebase database.
-
-### [122. Write Machine Learning Apps Faster With the OneML SDK](https://hackernoon.com/write-machine-learning-apps-faster-with-the-oneml-sdk)
+### [121. Write Machine Learning Apps Faster With the OneML SDK](https://hackernoon.com/write-machine-learning-apps-faster-with-the-oneml-sdk)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-una3yb6.jpeg)
 Write faster ML apps using an optimized and portable machine learning SDK.
 
-### [123. Top 5 Jaw-Dropping Applications of Deep Learning in Healthcare Sectors](https://hackernoon.com/top-5-jaw-dropping-applications-of-deep-learning-in-healthcare-sectors-wp2g36ad)
+### [122. How To Build WordPress Client App with React Native Part #13: Configuring Firebase Database](https://hackernoon.com/build-wordpress-client-app-with-react-native-13-configuring-firebase-g73v232nt)
+![](https://cdn.hackernoon.com/images/pc46332bk.jpg)
+In this chapter, we are going to implement the Contact screen. This screen is specially for contacting the developer and writer of articles. The users can use it to send a personal message to the developer. For the implementation, we are going to use two main packages. One is tcomb-form-native and the other is react-native-firebase. The tcomb package is to handle the form validation. And, react-native-firebase to connect react native app to real time firebase database.
+
+### [123. "Racism and vigilantism are pervasive on safety platforms"](https://hackernoon.com/racism-and-vigilantism-are-pervasive-on-safety-platforms)
+![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-qt13omi.jpeg)
+In one town, police say products like Nextdoor and Ring are helping fight crime. But racism and vigilantism are pervasive on safety platforms.
+
+### [124. Top 5 Jaw-Dropping Applications of Deep Learning in Healthcare Sectors](https://hackernoon.com/top-5-jaw-dropping-applications-of-deep-learning-in-healthcare-sectors-wp2g36ad)
 ![](https://cdn.hackernoon.com/images/a9RWqpBjZ6XdxonL1YqtYCRI2mB3-tdu34ss.png)
 In the real-world clinical environment, deep learning is steadily finding its way into innovative technologies and tools.
 
-### [124. Tips For Developing A Mobile App That People Will Love](https://hackernoon.com/tips-for-developing-a-mobile-app-that-people-will-love-675m3ytg)
+### [125. Tips For Developing A Mobile App That People Will Love](https://hackernoon.com/tips-for-developing-a-mobile-app-that-people-will-love-675m3ytg)
 ![](https://cdn.hackernoon.com/drafts/pwa83ysl.png)
 Mobile applications have become the most powerful tool for getting easy access to expected users worldwide. As a business owner, you can't  ignore  the significance of having an eye-catching and well-feature packed mobile app. 
-
-### [125. "Racism and vigilantism are pervasive on safety platforms"](https://hackernoon.com/racism-and-vigilantism-are-pervasive-on-safety-platforms)
-![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-qt13omi.jpeg)
-In one town, police say products like Nextdoor and Ring are helping fight crime. But racism and vigilantism are pervasive on safety platforms.
 
 ### [126. Mobile Technology Adoption in The Healthcare Industry](https://hackernoon.com/mobile-technology-k74l32if)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-3y03o1p.jpeg)
@@ -538,25 +542,25 @@ Hi everybody. After struggling for a few days with GoogleSignIn, I had decided t
 ![](https://cdn.hackernoon.com/images/onvx32vy.jpg)
 Now, we need to display the excerpt of the overall post on the list. For that, we are going to make use of components from the react-native-render-html package. And, we need to display the published date of the article as well. For that, we are going to make use of the moment package which provides the moment.js configurations. In order to use these packages, we need to install them first. For that, we need to use the command from the following code snippet:
 
-### [134. The Complete Guide for using Redux in React Native](https://hackernoon.com/the-complete-guide-for-using-redux-in-react-native-9h1h3uq7)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7hNScric1WcTcZqxOlzpN8s54n43-r4af3yoo.png?alt=media&token=f659e424-3532-4dff-9abf-f8f0e6770c56)
-Redux is a popular React and React Native state management library, meant to be used in complex React and React Native apps where sharing state between multi-level components can get extremely difficult to manage. In this article we are going to learn how to use Redux with React Hooks by building a real React Native app.
-
-### [135. Boost Mobile Performance To Better UX](https://hackernoon.com/boost-mobile-performance-to-better-ux-l7m3ti4)
+### [134. Boost Mobile Performance To Better UX](https://hackernoon.com/boost-mobile-performance-to-better-ux-l7m3ti4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzckzAU7gH5dDcR9k3jVDnFjT6Kx1-re7y3uwf.jpeg?alt=media&token=ff05637b-a2f1-4f04-a428-a9cf21416e45)
 What’s one of the biggest predictors of mobile app success? Performance. Here’s how to whip yours into shape so mobile app performance problems don’t cost you downloads, revenue, and brand perception.
+
+### [135. The Complete Guide for using Redux in React Native](https://hackernoon.com/the-complete-guide-for-using-redux-in-react-native-9h1h3uq7)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7hNScric1WcTcZqxOlzpN8s54n43-r4af3yoo.png?alt=media&token=f659e424-3532-4dff-9abf-f8f0e6770c56)
+Redux is a popular React and React Native state management library, meant to be used in complex React and React Native apps where sharing state between multi-level components can get extremely difficult to manage. In this article we are going to learn how to use Redux with React Hooks by building a real React Native app.
 
 ### [136. How To Build WordPress Client App with React Native Part #8: SinglePost View](https://hackernoon.com/build-wordpress-client-app-with-react-native-8-singlepost-px1j5328a)
 ![](https://cdn.hackernoon.com/images/6y2032o5.jpg)
 Since we have the list of articles in the Home Screen, we need to display full articles as well. For that, we are going to create the SinglePost screen which will display the overall article. Here, we will learn how to fetch a single article from the WordPress API.
 
-### [137. Can Your Smartpones Actually Help in Early COVID-19 Detection?](https://hackernoon.com/can-your-smartpones-actually-help-in-early-covid-19-detection-aa5r3y6b)
-![](https://images.unsplash.com/photo-1527335480088-278dbeec0ad5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Our smartphones have already played an important role in this virus pandemic. Whether in defining your location’s degree of contagion or providing data on your movements to help assess the threat of infection - smartphones do come to the rescue.
-
-### [138. How to Develop a Stunning Fitness App](https://hackernoon.com/how-to-develop-a-stunning-fitness-app-ur2t3zf4)
+### [137. How to Develop a Stunning Fitness App](https://hackernoon.com/how-to-develop-a-stunning-fitness-app-ur2t3zf4)
 ![](https://cdn.hackernoon.com/drafts/sr5n3tdv.png)
 It is this time of year when many of us are making New Year’s resolutions or even already starting to keep those which we made back in December. Very often our resolutions concern our health and fitness – January seems to be the right moment to decide to slim down or bulk up, or simply get healthier by doing regular biking, running, swimming or working out practice. These days we can resort to a whole range of dedicated mobile phone apps that will give us the necessary instructions and will help us meet our fitness goals.
+
+### [138. Can Your Smartpones Actually Help in Early COVID-19 Detection?](https://hackernoon.com/can-your-smartpones-actually-help-in-early-covid-19-detection-aa5r3y6b)
+![](https://images.unsplash.com/photo-1527335480088-278dbeec0ad5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Our smartphones have already played an important role in this virus pandemic. Whether in defining your location’s degree of contagion or providing data on your movements to help assess the threat of infection - smartphones do come to the rescue.
 
 ### [139. Advanced CI/CD for Android projects using Bitbucket and Bitrise](https://hackernoon.com/advanced-cicd-for-android-projects-using-bitbucket-and-bitrise-s8813y3r)
 ![](https://cdn.hackernoon.com/images/xc413yx6.jpg)
@@ -586,59 +590,59 @@ Here, we are going to add the share button and implement its feature as well. Th
 ![](https://cdn.hackernoon.com/drafts/n62b32lk.png)
 If you have an interest in building an app, then you have to decide between developing for iOS or Android. If you want to go for both, it is costly and precarious. Choose one platform to build your app and later on launch on the other one once you have established the first version of your app successfully. Below are factors that will help you decide on the platform to build your app.
 
-### [146. API Integrations Can Give Your Business A Single Source of Truth](https://hackernoon.com/api-integrations-can-give-your-business-a-single-source-of-truth-md2k35sf)
-![](https://cdn.hackernoon.com/images/Egk4QeHIKwhohdHCIbmstmLhCnp2-wh2b296k.jpeg)
-An Application Program Interface (API) is a bunch of capacities or systems that gives programs admittance to a typical information source. 
-
-### [147. How to Lock WhatsApp Using Your Face or Fingerprint on iOS or Android?](https://hackernoon.com/how-to-lock-whatsapp-using-your-face-or-fingerprint-on-ios-or-android-dcw3ul9)
+### [146. How to Lock WhatsApp Using Your Face or Fingerprint on iOS or Android?](https://hackernoon.com/how-to-lock-whatsapp-using-your-face-or-fingerprint-on-ios-or-android-dcw3ul9)
 ![](https://images.unsplash.com/photo-1519069060891-f8c50519bf39?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Are you living in a house with kids? Do you often face a situation where you are using your phone and kids suddenly snatch it from your hands and start playing games? You are quite fine with it but when it comes to being compromised with your message’s security on WhatsApp, you do not want them to read your private messages. Thankfully, now you are no more required to keep phones away from your kids and worry about your privacy. How? 
+
+### [147. API Integrations Can Give Your Business A Single Source of Truth](https://hackernoon.com/api-integrations-can-give-your-business-a-single-source-of-truth-md2k35sf)
+![](https://cdn.hackernoon.com/images/Egk4QeHIKwhohdHCIbmstmLhCnp2-wh2b296k.jpeg)
+An Application Program Interface (API) is a bunch of capacities or systems that gives programs admittance to a typical information source. 
 
 ### [148. How to build an E-Commerce App: An Entrepreneur's guide](https://hackernoon.com/how-to-build-an-e-commerce-app-an-entreprenuers-guide-to-develop-an-e-commerce-mobile-app-exo2b9e)
 ![](https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 An Entrepreneur's guide to develop his first e-commerce mobile app in 2020. 
 
-### [149. Top Benefits of Machine Learning in Mobile App Development](https://hackernoon.com/top-benefits-of-machine-learning-in-mobile-app-development-yy4a3y2u)
+### [149. Artifact News: The Potential Challenger to Elon Musk's Twitter Supremacy](https://hackernoon.com/artifact-news-the-potential-challenger-to-elon-musks-twitter-supremacy)
+![](https://cdn.hackernoon.com/images/bsn5PjeFCOfUNgRjhrWjyNcTbhu1-bt93pk0.jpeg)
+Artifact News has emerged as a potential challenger to Elon Musk's version of Twitter, which has faced criticism for its content moderation policies and reinstatement of incendiary accounts.Since Musk took over, Twitter have become increasingly polarized, leading to a growing number of users who are dissatisfied with the lack of content moderation policies among others. Enter Artifact News, the newly launched news reader app by Kevin Systrom and Mike Krieger, the co-founders of Instagram. Artifact News aims to be the challenger to Elon Musk's Twitter, presenting itself as a reliable source of news for those who want an alternative to Twitter.
+
+### [150. What is the Deal With Applications That Copy TikTok?](https://hackernoon.com/what-is-the-deal-with-applications-that-copy-tiktok)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-q6a3v6z.jpeg)
+The increasing popularity of TikTok haunted other developers, and therefore many so-called clone apps appeared on the mobile market. 
+
+### [151. Top Benefits of Machine Learning in Mobile App Development](https://hackernoon.com/top-benefits-of-machine-learning-in-mobile-app-development-yy4a3y2u)
 ![](https://images.unsplash.com/photo-1531746790731-6c087fecd65a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The increased adoption of Machine learning algorithms by businesses worldwide reflects how effective and advantageous its algorithms, frameworks and techniques are in solving complex problems quickly. With the use of machine learning, businesses are able to enhance their top-line revenues by rendering an improved customer experience to their users. 
 
 According to Allied Market Research, Machine Learning is growing at a CAGR of 39.0% from 2017-2023. In addition to this, the report suggests that Machine Learning as a service market will reach $5,537 million in 2023. 
 
-### [150. Artifact News: The Potential Challenger to Elon Musk's Twitter Supremacy](https://hackernoon.com/artifact-news-the-potential-challenger-to-elon-musks-twitter-supremacy)
-![](https://cdn.hackernoon.com/images/bsn5PjeFCOfUNgRjhrWjyNcTbhu1-bt93pk0.jpeg)
-Artifact News has emerged as a potential challenger to Elon Musk's version of Twitter, which has faced criticism for its content moderation policies and reinstatement of incendiary accounts.Since Musk took over, Twitter have become increasingly polarized, leading to a growing number of users who are dissatisfied with the lack of content moderation policies among others. Enter Artifact News, the newly launched news reader app by Kevin Systrom and Mike Krieger, the co-founders of Instagram. Artifact News aims to be the challenger to Elon Musk's Twitter, presenting itself as a reliable source of news for those who want an alternative to Twitter.
-
-### [151. Secure .NET 6/7 Applications with Built-In Security Features](https://hackernoon.com/secure-net-67-applications-with-built-in-security-features)
+### [152. Secure .NET 6/7 Applications with Built-In Security Features](https://hackernoon.com/secure-net-67-applications-with-built-in-security-features)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-cg931jq.gif.webp)
 To assist developers in designing safe applications, the most recent version of the.NET platform, .NET 6, has various built-in security capabilities. 
 
-### [152. How To Design A Perfect Icon For Your Mobile App](https://hackernoon.com/how-to-design-a-perfect-icon-for-your-mobile-app-qr1n3zee)
-![](https://cdn.hackernoon.com/drafts/uobt3zah.png)
-You have got an idea and now you want to convert it into an app. However, developing an app that gets millions of downloads isn’t a cakewalk. There are over 2.7 million apps on Google Play and 2.2 million on Apple’s App Store but just a few stand out.
-
-### [153. How to Customize Buttons in Android](https://hackernoon.com/how-to-customize-buttons-in-android-jr5q3v5y)
-![](https://cdn.hackernoon.com/images/32cx3yv3.jpg)
-Hello, Today we are going to see how we can customize the button in android. We will see how we can make a rounded corner button with background color and also see how we can gradient to the button.
-
-### [154. What is the Deal With Applications That Copy TikTok?](https://hackernoon.com/what-is-the-deal-with-applications-that-copy-tiktok)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-q6a3v6z.jpeg)
-The increasing popularity of TikTok haunted other developers, and therefore many so-called clone apps appeared on the mobile market. 
-
-### [155. An Overview of Kubernetes Security Projects at KubeCon Europe 2023](https://hackernoon.com/an-overview-of-kubernetes-security-projects-at-kubecon-europe-2023)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-kr930gp.jpeg)
-Kubernetes security is more important than ever, and should be top-of-mind for most teams. Let’s walk through the latest in k8s security solutions from KubeCon.
-
-### [156. Mobile App Debugging in 2023: Top 3 Tools ](https://hackernoon.com/mobile-app-debugging-in-2023-top-3-tools)
+### [153. Mobile App Debugging in 2023: Top 3 Tools ](https://hackernoon.com/mobile-app-debugging-in-2023-top-3-tools)
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-ji93o1c.jpeg)
 Mobile debugging requires reliable tools, especially in production. In this article, I discuss ELK, Sentry, and Jaeger as the best mobile debugging tools.
 
-### [157. How to Choose the Best Apps for Your Business](https://hackernoon.com/how-to-choose-the-best-apps-for-your-business-882g3yqo)
-![](https://cdn.hackernoon.com/drafts/qs15o2e3c.png)
-Key strategies to pick the best apps for your business
+### [154. An Overview of Kubernetes Security Projects at KubeCon Europe 2023](https://hackernoon.com/an-overview-of-kubernetes-security-projects-at-kubecon-europe-2023)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-kr930gp.jpeg)
+Kubernetes security is more important than ever, and should be top-of-mind for most teams. Let’s walk through the latest in k8s security solutions from KubeCon.
 
-### [158. React Native Travel Article App UI Clone #5 : Animated Delimiter Dots](https://hackernoon.com/react-native-travel-article-app-ui-clone-5-animated-delimiter-dots-vt1p3xm9)
+### [155. How to Customize Buttons in Android](https://hackernoon.com/how-to-customize-buttons-in-android-jr5q3v5y)
+![](https://cdn.hackernoon.com/images/32cx3yv3.jpg)
+Hello, Today we are going to see how we can customize the button in android. We will see how we can make a rounded corner button with background color and also see how we can gradient to the button.
+
+### [156. How To Design A Perfect Icon For Your Mobile App](https://hackernoon.com/how-to-design-a-perfect-icon-for-your-mobile-app-qr1n3zee)
+![](https://cdn.hackernoon.com/drafts/uobt3zah.png)
+You have got an idea and now you want to convert it into an app. However, developing an app that gets millions of downloads isn’t a cakewalk. There are over 2.7 million apps on Google Play and 2.2 million on Apple’s App Store but just a few stand out.
+
+### [157. React Native Travel Article App UI Clone #5 : Animated Delimiter Dots](https://hackernoon.com/react-native-travel-article-app-ui-clone-5-animated-delimiter-dots-vt1p3xm9)
 ![](https://cdn.hackernoon.com/images/hp18t3xbs.jpg)
 This tutorial is the fifth part of our React Native Travel Article App UI clone series. In the previous part, we successfully implemented the Recommendation Section on our List Screen. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous parts in order to get the knowledge and insight into the overall project.
+
+### [158. How to Choose the Best Apps for Your Business](https://hackernoon.com/how-to-choose-the-best-apps-for-your-business-882g3yqo)
+![](https://cdn.hackernoon.com/drafts/qs15o2e3c.png)
+Key strategies to pick the best apps for your business
 
 ### [159. 6 Tips for Software Developers to Enhance Software Security](https://hackernoon.com/6-tips-for-software-developers-to-enhance-software-security-7n133t1n)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJEPtNoz8SmSndRSArVqPgFKGxJN2-yi163wl9.jpeg?alt=media&token=3051aa8d-7cb9-4077-b9fc-8c990090f68a)
@@ -648,13 +652,13 @@ Avoid making common security mistakes that make your software vulnerable to atta
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-xj02w16.jpeg)
 In this post, we started with an UberJAR unable to rename files on remote volumes because of the current macOS security model.
 
-### [161. How I Got Into Every University That I Applied To (for computer science)](https://hackernoon.com/how-i-got-into-every-university-that-i-applied-to-for-computer-science-ba4k3712)
-![](https://cdn.hackernoon.com/images/m1JWnUaHzSX3LPHoHfOainoiYvq2-yj363otm.jpeg)
-Here is how I managed to wriggle into the top university for computer science. How to write a half-decent personal statement and suceed in life!
-
-### [162. Cloud Native Applications: Creating a Mail Server Environment with Docker](https://hackernoon.com/cloud-native-applications-installing-mail-server-using-docker-ozh3u00)
+### [161. Cloud Native Applications: Creating a Mail Server Environment with Docker](https://hackernoon.com/cloud-native-applications-installing-mail-server-using-docker-ozh3u00)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FoixVc4XGRWfVg9MOoG0VR6JOVKz1-nt53wp0.jpeg?alt=media&token=16cd6301-9f18-4414-bacb-e020104d9173)
 We’ve all been there. You’ve read a lot about the basics of Docker, Kubernetes, Pods, ReplicaSets, Deployments & more. The different parts that are used to build cloud native applications.
+
+### [162. How I Got Into Every University That I Applied To (for computer science)](https://hackernoon.com/how-i-got-into-every-university-that-i-applied-to-for-computer-science-ba4k3712)
+![](https://cdn.hackernoon.com/images/m1JWnUaHzSX3LPHoHfOainoiYvq2-yj363otm.jpeg)
+Here is how I managed to wriggle into the top university for computer science. How to write a half-decent personal statement and suceed in life!
 
 ### [163. Rethinking the Complexity of Software Dev](https://hackernoon.com/rethinking-the-complexity-of-software-dev)
 ![](https://cdn.hackernoon.com/images/ZO7sLgE2azcjLOrwmV8ke0N45YK2-x393k52.jpeg)
@@ -666,25 +670,25 @@ Explore the journey of web development tools and standards, from the early days 
 ![](https://cdn.hackernoon.com/images/xYkC0rdxOJOYpAqXfJP5xmyPdyw1-rx92i2f.jpeg)
 How we built a kubernetes powered multi-cloud application delivery platform
 
-### [165. What is Contact Tracing and Will It Work?](https://hackernoon.com/what-is-contact-tracing-and-will-it-work-hc263yxv)
-![](https://cdn.hackernoon.com/images/pv6d3ye5.jpg)
-As COVID-19 continues to devastate communities around the world, governments’ initial reactions - which were mostly that of surprise and shock - have been replaced with sheer determination to fight off the novel coronavirus by any means possible. Contact tracing is the latest approach, though by no means is it a novel one. 
-
-### [166. Why Media and Entertainment Can’t Do without Mobile Apps](https://hackernoon.com/why-media-and-entertainment-cant-do-without-mobile-apps-qzr32kf)
-![](https://cdn.hackernoon.com/drafts/2t4f32p3.png)
-There are over 2 million apps available for download both for Android and iOS platforms, and the average smartphone owner uses at least 30 of them each month. The most popular app categories are social media, messengers, games, business, education, and lifestyle. 
-
-### [167. Empowered Contact Tracing Applications for Tackling Covid-19 Proliferation](https://hackernoon.com/empowered-contact-tracing-applications-for-tackling-covid-19-proliferation-ve4h3v2v)
+### [165. Empowered Contact Tracing Applications for Tackling Covid-19 Proliferation](https://hackernoon.com/empowered-contact-tracing-applications-for-tackling-covid-19-proliferation-ve4h3v2v)
 ![](https://images.unsplash.com/photo-1585411241865-a7762556ce2b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 It goes without saying that China has had the first laugh when it comes to stemming the usurped growth of the covid-19 pandemic.
 
-### [168. Can Human Rating Improve Our Lives?](https://hackernoon.com/can-human-rating-improve-our-lives-li4l36j7)
-![](https://cdn.hackernoon.com/images/p634368m.jpg)
-A ‘Human Rating’, in essence, is a numerical value that is assigned to a person, based on a specific set of metrics. It is something that has been explored in science-fiction (Black Mirror S03E01 Nosedive) and even in real-life with Ant Financial’s Zhima credit.
+### [166. What is Contact Tracing and Will It Work?](https://hackernoon.com/what-is-contact-tracing-and-will-it-work-hc263yxv)
+![](https://cdn.hackernoon.com/images/pv6d3ye5.jpg)
+As COVID-19 continues to devastate communities around the world, governments’ initial reactions - which were mostly that of surprise and shock - have been replaced with sheer determination to fight off the novel coronavirus by any means possible. Contact tracing is the latest approach, though by no means is it a novel one. 
 
-### [169. What is an API? A Beginner's Guide ](https://hackernoon.com/what-is-an-api-a-beginners-guide)
+### [167. Why Media and Entertainment Can’t Do without Mobile Apps](https://hackernoon.com/why-media-and-entertainment-cant-do-without-mobile-apps-qzr32kf)
+![](https://cdn.hackernoon.com/drafts/2t4f32p3.png)
+There are over 2 million apps available for download both for Android and iOS platforms, and the average smartphone owner uses at least 30 of them each month. The most popular app categories are social media, messengers, games, business, education, and lifestyle. 
+
+### [168. What is an API? A Beginner's Guide ](https://hackernoon.com/what-is-an-api-a-beginners-guide)
 ![](https://cdn.hackernoon.com/images/two-websites-talking-to-each-other-v2kedugq46c45htvk5mcbual.png)
 If you are new to tech, you might be confused by a term that you’ll see all over the place: API.
+
+### [169. Can Human Rating Improve Our Lives?](https://hackernoon.com/can-human-rating-improve-our-lives-li4l36j7)
+![](https://cdn.hackernoon.com/images/p634368m.jpg)
+A ‘Human Rating’, in essence, is a numerical value that is assigned to a person, based on a specific set of metrics. It is something that has been explored in science-fiction (Black Mirror S03E01 Nosedive) and even in real-life with Ant Financial’s Zhima credit.
 
 ### [170. Minimum Viable Product: a Crucial Stage of Development Process](https://hackernoon.com/minimum-viable-product-a-crucial-stage-of-development-process-el533wp3)
 ![](https://cdn.hackernoon.com/images/9o1q3v5a.jpg)
@@ -694,22 +698,22 @@ In software development, testing ideas, doing trials and continuously learning i
 ![](https://cdn.hackernoon.com/images/r5J209e3SrbyHe69SvMMkwwBNNg1-f592l4t.jpeg)
 We've worked with companies all over the world to create incredible mobile applications including online delivery apps and engaged in dating app development.
 
-### [172. Design Your App With the User in Mind](https://hackernoon.com/design-your-app-with-the-user-in-mind)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-l603omo.jpeg)
-In this blog, I’ll share some ideas to improve interaction design that will help you cut through the noise.
-
-### [173. How A Real-Time Voice Chat API Helps You Make Dramatic Changes In Your Business](https://hackernoon.com/how-a-real-time-voice-chat-api-helps-you-make-dramatic-changes-in-your-business-8315333p)
+### [172. How A Real-Time Voice Chat API Helps You Make Dramatic Changes In Your Business](https://hackernoon.com/how-a-real-time-voice-chat-api-helps-you-make-dramatic-changes-in-your-business-8315333p)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-ylj33or.jpeg)
 Real-time communication is the vigorous pillar when it’s about businesses in recent days. This Blog helps to identify the best Voice Call APP.
 
-### [174. Simple App Development Tips: 7 Reasons Why Your App has Failed](https://hackernoon.com/simple-app-development-tips-7-reasons-why-your-app-has-failed-y65i31zq)
-![](https://cdn.hackernoon.com/images/i7V6wZRvmKRs3QGdSZEkUWHmZDn2-gt3p3187.jpeg)
-Never repeat these mistakes if you want a successful app. Check out what you need to do to ensure your app is well positioned in the market.
+### [173. Design Your App With the User in Mind](https://hackernoon.com/design-your-app-with-the-user-in-mind)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-l603omo.jpeg)
+In this blog, I’ll share some ideas to improve interaction design that will help you cut through the noise.
 
-### [175. React Native Car Parking Finder App UI Clone #5: Header Section](https://hackernoon.com/react-native-car-parking-finder-app-ui-clone-5-header-section-vvr32hw)
+### [174. React Native Car Parking Finder App UI Clone #5: Header Section](https://hackernoon.com/react-native-car-parking-finder-app-ui-clone-5-header-section-vvr32hw)
 ![](https://cdn.hackernoon.com/images/u8nf321a.jpg)
 
 This tutorial is the fifth part of our React Native Car Parking App UI clone series. In the last part, we successfully implemented the Map Markers in MapView section. In this part of the tutorial series, we are going to continue from where we left off in the last part. So, it is recommended to go through all the previous parts of this tutorial series in order to get the full insight and development of the project.
+
+### [175. Simple App Development Tips: 7 Reasons Why Your App has Failed](https://hackernoon.com/simple-app-development-tips-7-reasons-why-your-app-has-failed-y65i31zq)
+![](https://cdn.hackernoon.com/images/i7V6wZRvmKRs3QGdSZEkUWHmZDn2-gt3p3187.jpeg)
+Never repeat these mistakes if you want a successful app. Check out what you need to do to ensure your app is well positioned in the market.
 
 ### [176. Why Small Businesses Should Invest in PWAs Instead of Native Apps?](https://hackernoon.com/why-small-businesses-should-invest-in-pwas-instead-of-native-apps-kb1d36nf)
 ![](https://cdn.hackernoon.com/drafts/go2dv39nf.png)
@@ -719,29 +723,29 @@ With the world’s largest growing companies to highest-earning startups such as
 ![](https://cdn.hackernoon.com/images/gl2032yy.jpg)
 Here, we are going to implement the Categories screen. This screen will contain the list of categories related to the article posts. And on clicking on these categories, we will navigate to the posts which are based on that respective category.
 
-### [178. What Does it Takes to Be an Appreneur](https://hackernoon.com/what-does-it-take-to-be-an-appreneur-mfr32s3)
-![](https://cdn.hackernoon.com/drafts/b1l732pr.png)
-There was a time, way back when parents hoped their kids would someday become lawyers or doctors. Nowadays, the situation changed, and the meaning of success became much different. So, today people desire to create a viral application, sell it for millions of dollars and achieve the American dream quickly and easily. Not so fast.
-
-### [179. A Step-by-Step Guide to Enterprise Mobile App Development](https://hackernoon.com/a-step-by-step-guide-to-enterprise-mobile-app-development)
+### [178. A Step-by-Step Guide to Enterprise Mobile App Development](https://hackernoon.com/a-step-by-step-guide-to-enterprise-mobile-app-development)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-rk93hb5.jpeg)
 An effective app development process flow spans over six key phases, including a strategy and a UI / UX design.
 
-### [180. Let’s be Real: Your Business Should Embrace Mobile App Development ](https://hackernoon.com/lets-be-real-your-business-should-embrace-mobile-app-development-j31x3zga)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-5z1p3zeb.jpeg)
-The statistics tell the story: Gartner says this is the year our culture will go “mobile first.”
+### [179. What Does it Takes to Be an Appreneur](https://hackernoon.com/what-does-it-take-to-be-an-appreneur-mfr32s3)
+![](https://cdn.hackernoon.com/drafts/b1l732pr.png)
+There was a time, way back when parents hoped their kids would someday become lawyers or doctors. Nowadays, the situation changed, and the meaning of success became much different. So, today people desire to create a viral application, sell it for millions of dollars and achieve the American dream quickly and easily. Not so fast.
+
+### [180. How To Build WordPress Client App with React Native Part #11: Remove Bookmark Feature](https://hackernoon.com/build-wordpress-client-app-with-react-native-11-remove-bookmark-932ul32ud)
+![](https://cdn.hackernoon.com/images/91p323p.jpg)
+Here, we are going to implement the removing of the bookmark from the articles. This case is simpler than saving the bookmarks. Here, we are going to define a function called removeBookMark. For that, we need to use the code from the following code snippet:
 
 ### [181. Best Applications That Will Make Remote Work During Coronavirus More Comfortable](https://hackernoon.com/best-applications-that-will-make-remote-work-during-coronavirus-more-comfortable-l3903y2a)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-xw82rxf.jpeg)
 Things have changed very rapidly for a lot of people. Just a few months ago nobody would’ve imagined they would have to stay at home for a prolonged period of time, and even though warned, preparation for a global scale epidemic was pretty poor. Right now, when the spread of Covid-19 is at its peak, a lot of people have to get used to self-isolation, which means they can’t go to work to offices anymore but have to work remotely.
 
-### [182. How To Build WordPress Client App with React Native Part #11: Remove Bookmark Feature](https://hackernoon.com/build-wordpress-client-app-with-react-native-11-remove-bookmark-932ul32ud)
-![](https://cdn.hackernoon.com/images/91p323p.jpg)
-Here, we are going to implement the removing of the bookmark from the articles. This case is simpler than saving the bookmarks. Here, we are going to define a function called removeBookMark. For that, we need to use the code from the following code snippet:
+### [182. COVIDSafe App By The Australian Government: Make Sure Your Data Is Safe](https://hackernoon.com/covidsafe-app-by-the-australian-government-make-sure-your-data-is-safe-cj29334o)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsEiTHnmTGDdab0qMfHtb54LxcMe2-nd2n3yhw.jpeg?alt=media&token=86c20985-0c5a-43a5-baee-ed1dc4811c17)
+★This Article documented the Australian Department of Health (DoH) COVID-19 contact tracing App, How it holds personal data of the Australian and Immigrant, data stored on the cloud and it covers the threats and risks to the security, location, and privacy of its Australian citizen.
 
-### [183. A Complete Overview Of Educational App Development](https://hackernoon.com/a-complete-overview-of-educational-app-development-ce5l36e6)
-![](https://cdn.hackernoon.com/drafts/k9nj36on.png)
-As a matter of fact, poverty is driven by the lack of education. Education is a potent tool that has the potential to drive a nation towards the path of progress. In this new age, there is an increased awareness among people about the significance of education. Owing to this, coupled with the advancements in technology, educational app development has been gathering the attention of people across the world. Many educational institutions are now collaborating with an education app development company to provide better services to students of all age groups. 
+### [183. Let’s be Real: Your Business Should Embrace Mobile App Development ](https://hackernoon.com/lets-be-real-your-business-should-embrace-mobile-app-development-j31x3zga)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-5z1p3zeb.jpeg)
+The statistics tell the story: Gartner says this is the year our culture will go “mobile first.”
 
 ### [184. Effective Scaling Of Applications – Tips and Tricks](https://hackernoon.com/effective-scaling-of-applications-tips-and-tricks-q5l3w11)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-lpx28zl.jpeg?alt=media&token=cd5d48ef-d623-47b5-bdc8-f916aaaaab26)
@@ -751,37 +755,37 @@ Before jumping into making a plan for scaling your application, ask yourself wha
 ![](https://cdn.hackernoon.com/drafts/1w5uj3yv1.png)
 Having read the title, I hope that you already have Kung Fu Panda pictured in your head. If not, first, meet Panda. 
 
-### [186. Cloud Infrastructure Can Set Legacy Data Free](https://hackernoon.com/cloud-infrastructure-can-set-legacy-data-free-8maa3y87)
+### [186. A Complete Overview Of Educational App Development](https://hackernoon.com/a-complete-overview-of-educational-app-development-ce5l36e6)
+![](https://cdn.hackernoon.com/drafts/k9nj36on.png)
+As a matter of fact, poverty is driven by the lack of education. Education is a potent tool that has the potential to drive a nation towards the path of progress. In this new age, there is an increased awareness among people about the significance of education. Owing to this, coupled with the advancements in technology, educational app development has been gathering the attention of people across the world. Many educational institutions are now collaborating with an education app development company to provide better services to students of all age groups. 
+
+### [187. Cloud Infrastructure Can Set Legacy Data Free](https://hackernoon.com/cloud-infrastructure-can-set-legacy-data-free-8maa3y87)
 ![](https://images.unsplash.com/photo-1499346030926-9a72daac6c63?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 For a long time, it’s been widely accepted that startup businesses can gain an edge over larger, establishment rivals, due to their lack of legacy tech baggage. For example, modern challenger banks have – in terms of features and UX at least – ran rings around the traditional stalwarts thanks to their modern IT and data systems.
 
-### [187. Bad Idea Or Bad Luck: I Want To Know Your Opinion](https://hackernoon.com/bad-idea-or-bad-luck-i-want-to-know-your-opinion-4mk35hs)
+### [188. Bad Idea Or Bad Luck: I Want To Know Your Opinion](https://hackernoon.com/bad-idea-or-bad-luck-i-want-to-know-your-opinion-4mk35hs)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-xp39355d.jpeg)
 This is a true story of something I witnessed a couple of years ago during my early days in tech. Was it a bad idea? A bad execution? or just an unlucky day? 
 
-### [188. What to Expect in the Android 11 Update](https://hackernoon.com/what-to-expect-in-the-android-11-update-rj1b3wsn)
+### [189. What to Expect in the Android 11 Update](https://hackernoon.com/what-to-expect-in-the-android-11-update-rj1b3wsn)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-6nr28gx.jpeg?alt=media&token=ccbad973-cef3-45de-ae46-e01b748e8f63)
 Google with its Pixel event and launch of two new phones, started rolling out the latest Android 11 OS. Like always, the Pixel phones are the first ones in getting an update and the rest of the devices will get the updates based on their OEMs and how they optimize the new OS for their respective devices.
 
-### [189. The Mistake of Designing an App that is Output Driven, Not Outcome Driven](https://hackernoon.com/the-mistake-of-designing-an-app-that-is-output-driven-not-outcome-driven-q65r3y4c)
-![](https://images.unsplash.com/photo-1465343161283-c1959138ddaa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-The rise and eventual dominance of mobile applications in the current business arena is a telling sign of how user experience has become the biggest brand differentiator.
-
-### [190. COVIDSafe App By The Australian Government: Make Sure Your Data Is Safe](https://hackernoon.com/covidsafe-app-by-the-australian-government-make-sure-your-data-is-safe-cj29334o)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsEiTHnmTGDdab0qMfHtb54LxcMe2-nd2n3yhw.jpeg?alt=media&token=86c20985-0c5a-43a5-baee-ed1dc4811c17)
-★This Article documented the Australian Department of Health (DoH) COVID-19 contact tracing App, How it holds personal data of the Australian and Immigrant, data stored on the cloud and it covers the threats and risks to the security, location, and privacy of its Australian citizen.
+### [190. Building a Divider App: How Many Cases Can Share One Operation?](https://hackernoon.com/building-a-divider-app-how-many-cases-can-share-one-operation)
+![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-tf92hza.jpeg)
+Thinking about all the things that could go wrong in code execution and preparing for them is a big part of a programmer's job.
 
 ### [191. 7 Useful Apps You Can Use in China](https://hackernoon.com/7-useful-apps-you-can-use-in-china-7u5s3as3)
 ![](https://images.unsplash.com/photo-1508804185872-d7badad00f7d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Nowadays everyone is glued to their phones and it’s no different in China, the mobile phone is an indispensable tool and something we just cannot live without. Hands up if it’s one of the last things you see at night and the first thing you look at in the morning? I knew it! Coming to China, a very different country with a different culture and language, your phone becomes even more vital as it is one thing that makes you feel like you’re at home and keeps you connected to it.
 
-### [192. NetEaseMail Slashes Dev Time by More Than Half With DolphinScheduler](https://hackernoon.com/neteasemail-slashes-dev-time-by-more-than-half-with-dolphinscheduler)
+### [192. The Mistake of Designing an App that is Output Driven, Not Outcome Driven](https://hackernoon.com/the-mistake-of-designing-an-app-that-is-output-driven-not-outcome-driven-q65r3y4c)
+![](https://images.unsplash.com/photo-1465343161283-c1959138ddaa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+The rise and eventual dominance of mobile applications in the current business arena is a telling sign of how user experience has become the biggest brand differentiator.
+
+### [193. NetEaseMail Slashes Dev Time by More Than Half With DolphinScheduler](https://hackernoon.com/neteasemail-slashes-dev-time-by-more-than-half-with-dolphinscheduler)
 ![](https://cdn.hackernoon.com/images/1xYF9Q2MEDQRYXBY7nlDViaH7ED3-hm037xj.jpeg)
 NetEase Mail faced challenges managing lots of data and tasks, so they brought in DolphinScheduler to streamline the process.
-
-### [193. Building a Divider App: How Many Cases Can Share One Operation?](https://hackernoon.com/building-a-divider-app-how-many-cases-can-share-one-operation)
-![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-tf92hza.jpeg)
-Thinking about all the things that could go wrong in code execution and preparing for them is a big part of a programmer's job.
 
 ### [194. How To Save Your Child From Teen Sexting](https://hackernoon.com/how-to-save-your-child-from-teen-sexting-926q3v73)
 ![](https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)

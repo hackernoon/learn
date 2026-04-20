@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [entertainment](https://hackernoon.com/tagged/entertainment)
+### Let's learn about [Entertainment](https://hackernoon.com/tagged/entertainment) via these 111 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Entertainment refers to content or activities designed to provide amusement, pleasure, or distraction to an audience. It plays a crucial role in culture, leisure, and media consumption, impacting various industries from film to gaming.
+
 ### [1. The Tom Holland Spider-Man Movies in Order of Release Date](https://hackernoon.com/the-tom-holland-spider-man-movies-in-order-of-release-date)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-9ra3pxv.jpeg)
 Here are the Tom Holland Spider-Man Movies in order: 1. Homecoming 2. Far From Home 3. No Way Home
@@ -21,13 +25,13 @@ Here's every Thanos appearance: 1. The Avengers 2. Guardians of the Galaxy 3. Av
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-dgc3psq.jpeg)
 The Kingsman Movies in order: 1. The King's Man 2. The Secret Service 3. The Golden Circle
 
-### [6. The New Tomb Raider Games in Order](https://hackernoon.com/the-new-tomb-raider-games-in-order)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ojb3uc1.jpeg)
-1. Tomb Raider (2013). 2. Rise of the Tomb Raider (2016) 3. Shadow of the Tomb Raider (2018)
-
-### [7. All of the Ant Man Movies in Order](https://hackernoon.com/all-of-the-ant-man-movies-in-order)
+### [6. All of the Ant Man Movies in Order](https://hackernoon.com/all-of-the-ant-man-movies-in-order)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ck93peq.jpeg)
 1. Ant-Man. 2. Ant-Man and the Wasp. 3. Ant-Man and the Wasp: Quantumania
+
+### [7. The New Tomb Raider Games in Order](https://hackernoon.com/the-new-tomb-raider-games-in-order)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ojb3uc1.jpeg)
+1. Tomb Raider (2013). 2. Rise of the Tomb Raider (2016) 3. Shadow of the Tomb Raider (2018)
 
 ### [8. The Last of Us HBO Series; The Nth of Many](https://hackernoon.com/the-last-of-us-hbo-series-the-nth-of-many)
 ![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-ud93p8s.jpeg)
@@ -73,25 +77,25 @@ If you only casually know of the character and want to know more about him, the 
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-us93pm5.jpeg)
 Mortal Kombat Movies in Order: Mortal Kombat (1995), Mortal Kombat: Annihilation, Mortal Kombat (2021)
 
-### [19. The Super Mario Movie: Release Date, Cast, and Everything You Need to Know](https://hackernoon.com/the-super-mario-movie-release-date-cast-and-everything-you-need-to-know)
+### [19. Why Short-form Vertical Series are the Future of Streaming](https://hackernoon.com/why-short-form-vertical-series-are-the-future-of-streaming)
+![](https://cdn.hackernoon.com/images/Itmjraoym1UpoI46NzvV3cV022l1-di830ld.png)
+Here are 4 key reasons why vertical series are the next big thing. 
+
+### [20. The Super Mario Movie: Release Date, Cast, and Everything You Need to Know](https://hackernoon.com/the-super-mario-movie-release-date-cast-and-everything-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ola3p0c.jpeg)
 Who’s voicing Mario? Who’s the studio behind the movie? When is it coming out? Don’t worry because here’s everything you need to know about the Mario movie. 
 
-### [20. The Dark Knight Movies in Order](https://hackernoon.com/the-dark-knight-movies-in-order)
+### [21. The Dark Knight Movies in Order](https://hackernoon.com/the-dark-knight-movies-in-order)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-c493qbk.jpeg)
 If you never got to experience them, have no fear. Here’s a list to explain how to watch them. Without further ado, here are The Dark Knight Movies in Order. 
 
-### [21. The 5 Best Mystery Games on Xbox](https://hackernoon.com/the-5-best-mystery-games-on-xbox)
+### [22. The 5 Best Mystery Games on Xbox](https://hackernoon.com/the-5-best-mystery-games-on-xbox)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-qj93o0e.jpeg)
 Some of the best mystery games on Xbox include Danganronpa and Oxenfree. Find out why, and learn more about other great mystery games.
 
-### [22. The Best Places to Read Digital Comics](https://hackernoon.com/the-best-places-to-read-digital-comics)
+### [23. The Best Places to Read Digital Comics](https://hackernoon.com/the-best-places-to-read-digital-comics)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-2j93o55.jpeg)
 There are several places to read digital comics. Some of these places include Marvel Unlimited and Prime Reading. 
-
-### [23. Why Short-form Vertical Series are the Future of Streaming](https://hackernoon.com/why-short-form-vertical-series-are-the-future-of-streaming)
-![](https://cdn.hackernoon.com/images/Itmjraoym1UpoI46NzvV3cV022l1-di830ld.png)
-Here are 4 key reasons why vertical series are the next big thing. 
 
 ### [24. NFTs and The Sports Industry: The Perfect Pair](https://hackernoon.com/nfts-and-the-sports-industry-the-perfect-pair-ro4v37s8)
 ![](https://cdn.hackernoon.com/images/dfnkKGGdaveDKSte2xzbUj73T6z2-fh9378s.jpeg)
@@ -121,17 +125,17 @@ Are you trying to enter the sports betting market? Find out the best-performing 
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-ae9338t.jpeg)
 Where is the New Hollywood streaming industry headed after a wild and crazy 2022 thus far? Read this new post for insight into what to expect from this industry
 
-### [31. Netflix Finally Comes For Sports Streaming](https://hackernoon.com/netflix-finally-comes-for-sports-streaming)
+### [31. Pornhub and The Adult Entertainment Industry Helped Shape The Internet](https://hackernoon.com/pornhub-and-the-adult-entertainment-industry-helped-shape-the-internet-fu6d35y3)
+![](https://cdn.hackernoon.com/images/ZnQPEorVGLgdSlofTaDfRe91NoE2-ga1629sd.jpeg)
+The world as we know it would not have been possible without the influence of porn. In fact, the adult industry shaped today's technological advancements.
+
+### [32. Netflix Finally Comes For Sports Streaming](https://hackernoon.com/netflix-finally-comes-for-sports-streaming)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-9b03dj5.jpeg)
 The company did not make a serious stab at sports until 2023 with the airing of the Netflix Cup, a novelty golf event.
 
-### [32. How Snoop Dogg Masters the Metaverse](https://hackernoon.com/how-snoop-dogg-masters-the-metaverse)
+### [33. How Snoop Dogg Masters the Metaverse](https://hackernoon.com/how-snoop-dogg-masters-the-metaverse)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-1lb30mm.jpeg)
 Read this post for insight into how music mogul Snoop Dogg is mastering the metaverse with a vertically integrated music business. 
-
-### [33. Pornhub and The Adult Entertainment Industry Helped Shape The Internet](https://hackernoon.com/pornhub-and-the-adult-entertainment-industry-helped-shape-the-internet-fu6d35y3)
-![](https://cdn.hackernoon.com/images/ZnQPEorVGLgdSlofTaDfRe91NoE2-ga1629sd.jpeg)
-The world as we know it would not have been possible without the influence of porn. In fact, the adult industry shaped today's technological advancements.
 
 ### [34. 5 Must-see Movies Coming Out in 2023](https://hackernoon.com/5-must-see-movies-coming-out-in-2023)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-at93n83.jpeg)
@@ -177,13 +181,13 @@ Read this post to understand how the trials of Netflix and Spotify have underlin
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ou93ow6.jpeg)
 Here are all of the Marvel 2023 movies: Ant-Man 3, Guardians of the Galaxy 3, Spider-Verse 2, The Marvels, and Kraven the Hunter.
 
-### [45. How AI Is Transforming the Entertainment Industry](https://hackernoon.com/how-ai-is-transforming-the-entertainment-industry)
-![](https://cdn.hackernoon.com/images/AiJJJ2MaO0dN7KCZ73EaYbtGSvk1-4093igx.jpeg)
-To appreciate how digital transformation is changing society, it helps to examine how ai and machine learning will impact particular industries
-
-### [46. Web3's Role in the New Golden Age of Entertainment: Insights from Press Start Capital's Steven Chien](https://hackernoon.com/web3s-role-in-the-new-golden-age-of-entertainment-insights-from-press-start-capitals-steven-chien)
+### [45. Web3's Role in the New Golden Age of Entertainment: Insights from Press Start Capital's Steven Chien](https://hackernoon.com/web3s-role-in-the-new-golden-age-of-entertainment-insights-from-press-start-capitals-steven-chien)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-fo93omj.jpeg)
 "Behind the Startup" is excited to have Steven Chien, founder of Press Start Capital, a venture capital firm that focuses on the intersection of entertainment.
+
+### [46. How AI Is Transforming the Entertainment Industry](https://hackernoon.com/how-ai-is-transforming-the-entertainment-industry)
+![](https://cdn.hackernoon.com/images/AiJJJ2MaO0dN7KCZ73EaYbtGSvk1-4093igx.jpeg)
+To appreciate how digital transformation is changing society, it helps to examine how ai and machine learning will impact particular industries
 
 ### [47. Every DC Movie That Got Canceled in 2022](https://hackernoon.com/every-dc-movie-that-got-canceled-in-2022)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-om93p2a.jpeg)
@@ -224,13 +228,13 @@ MCU Phase 1 Movies in Order: Iron Man, The Incredible Hulk, Iron Man, Thor, Capt
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-b60328k.png)
 Pocket FM has been revolutionizing entertainment by making audio entertainment mainstream worldwide.
 
-### [56. What are the Best Battle Scenes in Movies?](https://hackernoon.com/what-are-the-best-battle-scenes-in-movies)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-0l63753.jpeg)
-In this Slogging thread, the movie geeks at Hackernoon discuss the best battle scenes in movies. We talk about our favourite alongside our love for certain movi
-
-### [57. The MCU Phase 3 Movies in Order](https://hackernoon.com/the-mcu-phase-3-movies-in-order)
+### [56. The MCU Phase 3 Movies in Order](https://hackernoon.com/the-mcu-phase-3-movies-in-order)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-fs832li.jpeg)
 1. Captain America: Civil War 2. Doctor Strange 3. Guardians of the Galaxy Vol. 2 4. Spider-Man: Homecoming 5. Thor: Ragnarok 6. Avengers: Infinity War
+
+### [57. What are the Best Battle Scenes in Movies?](https://hackernoon.com/what-are-the-best-battle-scenes-in-movies)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-0l63753.jpeg)
+In this Slogging thread, the movie geeks at Hackernoon discuss the best battle scenes in movies. We talk about our favourite alongside our love for certain movi
 
 ### [58. Cyberpunk is Now: Dystopia or Utopia?](https://hackernoon.com/cyberpunk-is-now-dystopia-or-utopia-70j3y1p)
 ![](https://images.unsplash.com/photo-1574357283725-60b516ff37b3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -248,47 +252,47 @@ Netflix may well be a haven for original voices in filmmaking. But recently Netf
 ![](https://cdn.hackernoon.com/images/github/netflix-998.png)
 Learn everything you need to know about Netflix via these 98 free HackerNoon stories.
 
-### [62. How Data Science is Changing Media, Advertising, and Entertainment](https://hackernoon.com/how-data-science-is-changing-media-advertising-and-entertainment-j9193xph)
+### [62. Answering All of Your Iron Man Questions](https://hackernoon.com/answering-all-of-your-iron-man-questions)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-gs93pf1.jpeg)
+For those who liked the movies and want to know more about the character, here are all of your Iron Man questions answered.
+
+### [63. How Data Science is Changing Media, Advertising, and Entertainment](https://hackernoon.com/how-data-science-is-changing-media-advertising-and-entertainment-j9193xph)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOTX02QiGsEgykcMghxRiCA6JDkd2-ofa3u3e.jpeg?alt=media&token=7d26d87a-7dd1-4a9e-b422-abb64ab5568a)
 In advance of our upcoming event - Data Science Salon: Applying AI and ML to Media, Advertising, and Entertainment, we asked our speakers, who are some of nation’s leading data scientists in the media, advertising, and entertainment industries, to answer a few of our most pressing questions about the future of their industries. 
 
-### [63. Everything You Need to Know About Master of the Star Spring ](https://hackernoon.com/everything-you-need-to-know-about-master-of-the-star-spring)
+### [64. Everything You Need to Know About Master of the Star Spring ](https://hackernoon.com/everything-you-need-to-know-about-master-of-the-star-spring)
 ![](https://cdn.hackernoon.com/images/jLnWCt2fSdOR5QjDq9zr2y03Yhe2-ixa3ql3.jpeg)
 After watching the first season of Master of the Star, I’m already eager to see the second season of the series.
 
-### [64. If Glitch Tech is Any Indication, the Nickelodeon and Netflix Partnership is a Winning Deal](https://hackernoon.com/if-glitch-tech-is-any-indication-the-nickelodeon-and-netflix-partnership-is-a-winning-deal-5h53ttf)
+### [65. If Glitch Tech is Any Indication, the Nickelodeon and Netflix Partnership is a Winning Deal](https://hackernoon.com/if-glitch-tech-is-any-indication-the-nickelodeon-and-netflix-partnership-is-a-winning-deal-5h53ttf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-2x83uqj.webp?alt=media&token=a66f0668-9d1a-4717-94db-f3596e450b95)
 (Photo used with permission from Eric Robles and Dan Milano)
-
-### [65. Answering All of Your Iron Man Questions](https://hackernoon.com/answering-all-of-your-iron-man-questions)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-gs93pf1.jpeg)
-For those who liked the movies and want to know more about the character, here are all of your Iron Man questions answered.
 
 ### [66. A New Direction for Netflix?](https://hackernoon.com/a-new-direction-for-netflix)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-z9a35ol.jpeg)
 Read this post to get insight into the deal between Netflix and major movie theaters to exhibit "Glass Onion: A Knives Out Mystery" in November 2022.
 
-### [67. Why New Hollywood Is Winning During the Pandemic ](https://hackernoon.com/why-new-hollywood-is-winning-during-the-pandemic-lwq3zzi)
+### [67. Fullmetal Alchemist: Brotherhood - The Pursuit of Happiness](https://hackernoon.com/fullmetal-alchemist-brotherhood-the-pursuit-of-happiness)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-bl93pxq.jpeg)
+Fullmetal Alchemist: Brotherhood touches on themes of family, sacrifice, morality, and the consequences of power. 
+
+### [68. Why New Hollywood Is Winning During the Pandemic ](https://hackernoon.com/why-new-hollywood-is-winning-during-the-pandemic-lwq3zzi)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTolwVCe2KPryOw11aq31tS22Ky1-rl283er4.jpeg?alt=media&token=4f6a3e98-7a0e-435e-8d28-78474d4072a1)
 Remember when Old Hollywood thumbed its nose at Netflix for skipping a wide theatrical release with The Irishman in 2019? No one is scorning Netflix or any of the streaming services anymore.
 
 The COVID-19 pandemic has upended the Old Hollywood distribution system. Movie theaters around the world are teetering on the edge of collapse because of declining attendance and closures during lockdowns. As a result, studios are denied an essential revenue stream to recoup the cost of making films that they’d already teed up for release in 2020 – with No Time to Die and Wonder Woman 1984 being two notable examples.
 
-### [68. Fullmetal Alchemist: Brotherhood - The Pursuit of Happiness](https://hackernoon.com/fullmetal-alchemist-brotherhood-the-pursuit-of-happiness)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-bl93pxq.jpeg)
-Fullmetal Alchemist: Brotherhood touches on themes of family, sacrifice, morality, and the consequences of power. 
+### [69. How to Build a User-Creator Affinity Model for a Short Video Platform](https://hackernoon.com/how-to-build-a-user-creator-affinity-model-for-a-short-video-platform)
+![](https://cdn.hackernoon.com/images/lsDIIdQCayYoreyVyKVsDN2UpdV2-ys93q4x.gif.webp)
+Build a recommendation system on a short-video platform that takes into account user-creator affinity. 
 
-### [69. If Glitch Techs is Any Indication, the Nickelodeon and Netflix Partnership is a Winning Deal](https://hackernoon.com/if-glitch-techs-is-any-indication-the-nickelodeon-and-netflix-partnership-is-a-winning-deal-jd53uco)
+### [70. If Glitch Techs is Any Indication, the Nickelodeon and Netflix Partnership is a Winning Deal](https://hackernoon.com/if-glitch-techs-is-any-indication-the-nickelodeon-and-netflix-partnership-is-a-winning-deal-jd53uco)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-2x83uqj.webp?alt=media&token=a66f0668-9d1a-4717-94db-f3596e450b95)
 (Photo used with permission from Eric Robles and Dan Milano)
 
-### [70. Smart homes are getting mainstream: 85% of Americans bought a smart device in 2020](https://hackernoon.com/smart-homes-are-getting-mainstream-85percent-of-americans-bought-a-smart-device-in-2020-m914355h)
+### [71. Smart homes are getting mainstream: 85% of Americans bought a smart device in 2020](https://hackernoon.com/smart-homes-are-getting-mainstream-85percent-of-americans-bought-a-smart-device-in-2020-m914355h)
 ![](https://cdn.hackernoon.com/images/1vd93toCqMNcR9tYWg4f0FZf0cA2-zc1d34uc.jpeg)
 According to the Safewise study, 85% of Americans bought a smart home device in 2020, and three-quarters of them were 44 or younger.
-
-### [71. How to Build a User-Creator Affinity Model for a Short Video Platform](https://hackernoon.com/how-to-build-a-user-creator-affinity-model-for-a-short-video-platform)
-![](https://cdn.hackernoon.com/images/lsDIIdQCayYoreyVyKVsDN2UpdV2-ys93q4x.gif.webp)
-Build a recommendation system on a short-video platform that takes into account user-creator affinity. 
 
 ### [72. Should We Really Adapt to Streaming Services and Say Goodbye to Old School TV?](https://hackernoon.com/should-we-really-adapt-to-streaming-services-and-say-goodbye-to-old-school-tv)
 ![](https://cdn.hackernoon.com/images/eiht07u5rkbElXUpvGsCBqFARrO2-mvc3x69.jpeg)
@@ -330,13 +334,13 @@ Here are the DC movies coming out in 2023: Shazam, The Flash, Blue Beetle, and A
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-mtc36j6.png)
 Read this post for a deep dive into Netflix's three growth imperatives for 2023..
 
-### [82. What the Amazon/NFL Deal Means for New Hollywood](https://hackernoon.com/what-the-amazonnfl-deal-means-for-new-hollywood)
-![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-14934ya.png)
-The NFL officially joined the streaming era through a $13 billion deal with Amazon in which TNF games air on Amazon Prime. Here's what this moment means.
-
-### [83. Introducing Flatopia: How to Generate Your Own Sitcom with Python and Manim](https://hackernoon.com/introducing-flatopia-how-to-generate-your-own-sitcom-with-python-and-manim)
+### [82. Introducing Flatopia: How to Generate Your Own Sitcom with Python and Manim](https://hackernoon.com/introducing-flatopia-how-to-generate-your-own-sitcom-with-python-and-manim)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-dd023es.jpeg)
 Opensource TV show sitcom and code to make your own episodes.
+
+### [83. What the Amazon/NFL Deal Means for New Hollywood](https://hackernoon.com/what-the-amazonnfl-deal-means-for-new-hollywood)
+![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-14934ya.png)
+The NFL officially joined the streaming era through a $13 billion deal with Amazon in which TNF games air on Amazon Prime. Here's what this moment means.
 
 ### [84. Sony's Web3 Journey: A New Era for the Tech Giant](https://hackernoon.com/sonys-web3-journey-a-new-era-for-the-tech-giant)
 ![](https://cdn.hackernoon.com/images/3pTeNO1AnShySIvjgizFrTlMh2j2-a9033l0.png)

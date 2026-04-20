@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [graphql](https://hackernoon.com/tagged/graphql)
+### Let's learn about [Graphql](https://hackernoon.com/tagged/graphql) via these 140 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 An open source language that queries and manipulated data that moonlights as a runtime for fulfilling queries with existing data.
 
 ### [1. The Fight for a “Transparent” Blockchain](https://hackernoon.com/the-fight-for-a-transparent-blockchain)
@@ -168,13 +170,13 @@ Comparing PARSIQ and the Graph projects: querying the blockchain. Pull and push 
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-d00353l.jpeg)
 While conventional wisdom states we should move to GraphQL entirely, for customer-facing APIs, we need REST. For our own frontends, GraphQL is the answer.
 
-### [42. Here is the Fastest GraphQL Playground](https://hackernoon.com/here-is-the-fastest-graphql-playground-qt2534a8)
-![](https://images.unsplash.com/photo-1558981420-87aa9dad1c89?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-It's been 2 months of Firecamp's GraphQL playground launching, throughout this time I have been discussing with so many folks about their GraphQL usage and experience with Playground.
-
-### [43. API Architecture Style: Differences Between REST API and GraphQL](https://hackernoon.com/api-architecture-style-differences-between-rest-api-and-graphql)
+### [42. API Architecture Style: Differences Between REST API and GraphQL](https://hackernoon.com/api-architecture-style-differences-between-rest-api-and-graphql)
 ![](https://cdn.hackernoon.com/images/aBBfgZPPZyb0YobTc0dCp6i6p7V2-ht037ed.jpeg)
 The battle for the best API framework is a never-ending one. I will explain you the difference between two very popular and frequently used API frameworks.
+
+### [43. Here is the Fastest GraphQL Playground](https://hackernoon.com/here-is-the-fastest-graphql-playground-qt2534a8)
+![](https://images.unsplash.com/photo-1558981420-87aa9dad1c89?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+It's been 2 months of Firecamp's GraphQL playground launching, throughout this time I have been discussing with so many folks about their GraphQL usage and experience with Playground.
 
 ### [44. Step Up Your Game and Start Using Nest](https://hackernoon.com/step-up-your-game-and-start-using-nest)
 ![](https://cdn.hackernoon.com/images/NPpeHHzuHSQz9hZ52qrNTgG9C6a2-ffg35w5.jpeg)
@@ -236,53 +238,53 @@ While GraphQL offers several benefits, there are some potential disadvantages an
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-t0i3pmj.jpeg)
 How to Build a GraphQL eCommerce App from Scratch
 
-### [59. Build Your Own Puppy Playdate Tinder App with Slash GraphQL](https://hackernoon.com/build-your-own-puppy-playdate-tinder-app-with-slash-graphql-tj1h343o)
-![](https://hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-sy313wxv.jpeg)
-Every dog owner wants to find the perfect friends for their new puppy. Now we have an app for that! 
-
-### [60. How to Bypass the Vercel Tax by Using Open-source Alternatives](https://hackernoon.com/bypass-the-vercel-tax-by-using-open-source-alternatives)
+### [59. How to Bypass the Vercel Tax by Using Open-source Alternatives](https://hackernoon.com/bypass-the-vercel-tax-by-using-open-source-alternatives)
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-0qa3laf.jpeg)
 
+
+### [60. Build Your Own Puppy Playdate Tinder App with Slash GraphQL](https://hackernoon.com/build-your-own-puppy-playdate-tinder-app-with-slash-graphql-tj1h343o)
+![](https://hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-sy313wxv.jpeg)
+Every dog owner wants to find the perfect friends for their new puppy. Now we have an app for that! 
 
 ### [61. How To Connect SailsJS with GraphQL Guide](https://hackernoon.com/how-to-connect-sailsjs-with-graphql-guide-jgdm3y7l)
 ![](https://cdn.hackernoon.com/images/xa1rz3y6q.jpg)
 If you're having troubles with organizing API for the Node.js app, using the Sails.js framework with the GraphQL, know that you're not the only one - we've been there too.
 
-### [62. How to Create a Tinder Clone Application in Phở [No-Code Approach]](https://hackernoon.com/how-to-create-a-tinder-clone-application-in-pho-no-code-approach-86fy3y2e)
-![](https://cdn.hackernoon.com/images/rn1i3z0b.jpg)
-In this tutorial, we’ll be creating a Tinder clone, in under 1 hour using Phở Networks, an open-source no-code platform that makes it seamlessly easy to create social applications.
-
-### [63. GraphQL, Streaming, and RESTful API development Come Together in this Open Source Software](https://hackernoon.com/swell-where-graphql-streaming-and-restful-api-development-unite-7hpj312c)
+### [62. GraphQL, Streaming, and RESTful API development Come Together in this Open Source Software](https://hackernoon.com/swell-where-graphql-streaming-and-restful-api-development-unite-7hpj312c)
 ![](https://cdn.hackernoon.com/images/sl1r231z1.jpg)
 Swell is a cross-platform compatible (Mac, Linux, & Windows) desktop application and the leading API dev tool for testing and visualizing steaming TCP connections (ie WebSockets, SSEs, GraphQL subscriptions). Swell functions similarly to Postman, but with the added perks of full streaming and GraphQL support. Being an Open Source project, Swell is 100% free and open to outside contributions.
+
+### [63. How to Create a Tinder Clone Application in Phở [No-Code Approach]](https://hackernoon.com/how-to-create-a-tinder-clone-application-in-pho-no-code-approach-86fy3y2e)
+![](https://cdn.hackernoon.com/images/rn1i3z0b.jpg)
+In this tutorial, we’ll be creating a Tinder clone, in under 1 hour using Phở Networks, an open-source no-code platform that makes it seamlessly easy to create social applications.
 
 ### [64. Intro Guide to the GraphQL API using Node.JS and Apollo](https://hackernoon.com/intro-guide-to-the-graphql-api-using-nodejs-and-apollo)
 ![](https://cdn.hackernoon.com/images/o7di6srkiYgC0zRYYUawjHy1wFf2-i4ss39e9.jpeg)
 GraphQL is the alternative for REST made by Facebook. When Facebook reached the limits of REST API, they had to make something breaking these limits.
 
-### [65. Everything You Need to Know About Web APIs](https://hackernoon.com/everything-you-need-to-know-about-web-apis)
+### [65. Creating a Time Series Database With TDEngine and GraphQL](https://hackernoon.com/creating-a-time-series-database-with-tdengine-and-graphql)
+![](https://cdn.hackernoon.com/images/Huqt7vohmpXmhKD8kCRXNIvCP5D2-zx9363l.jpeg)
+Collecting and querying time-series data from IoT devices with TDEngine and GraphQL
+
+### [66. Everything You Need to Know About Web APIs](https://hackernoon.com/everything-you-need-to-know-about-web-apis)
 ![](https://cdn.hackernoon.com/images/the-world-wide-web-lrtew37toqazrmf2y6k07tci.png)
 Understanding web application programming interfaces (APIs) is important for many jobs in the tech industry. Here are the basics. 
 
-### [66. How To Connect GraphQL On Top of Existing REST API](https://hackernoon.com/how-to-connect-graphql-on-top-of-existing-rest-api-8t1k33dt)
+### [67. How To Connect GraphQL On Top of Existing REST API](https://hackernoon.com/how-to-connect-graphql-on-top-of-existing-rest-api-8t1k33dt)
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-g1e32dx.jpeg)
 Start using GraphQL in legacy portions of your app without breaking any existing contracts with functionality that may still rely on the original REST API.
-
-### [67. Creating a Time Series Database With TDEngine and GraphQL](https://hackernoon.com/creating-a-time-series-database-with-tdengine-and-graphql)
-![](https://cdn.hackernoon.com/images/Huqt7vohmpXmhKD8kCRXNIvCP5D2-zx9363l.jpeg)
-Collecting and querying time-series data from IoT devices with TDEngine and GraphQL
 
 ### [68. GraphQL vs REST: API Design Best Practices For Long-Running Operations](https://hackernoon.com/graphql-vs-rest-api-design-best-practices-for-long-running-operations)
 ![](https://cdn.hackernoon.com/images/IRj9IIbyAHeTBUUb5MBZl3ThjTj2-wj93kad.jpeg)
 Some best practices for API design projects that are intended to work over the course of a long-term operation within a larger organisation using GraphQL
 
-### [69. How to Build a Reddit Clone with React and Dgraph Cloud](https://hackernoon.com/how-to-build-a-reddit-clone-with-react-and-dgraph-cloud-8t15346j)
-![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-ne7736cw.jpeg)
-Social media apps are perfect candidates for using graph databases and GraphQL APIs. The combinations of complex data queries and relationships are endless.
-
-### [70. Leveling Up My GraphQL Skills: Real Time Subscriptions](https://hackernoon.com/leveling-up-my-graphql-skills-real-time-subscriptions)
+### [69. Leveling Up My GraphQL Skills: Real Time Subscriptions](https://hackernoon.com/leveling-up-my-graphql-skills-real-time-subscriptions)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-bv03cr6.jpeg)
 Dive a little deeper to explore real-time data subscriptions by using GraphQL to automatically receive server-side updates with help from a WebSocket consumer.
+
+### [70. How to Build a Reddit Clone with React and Dgraph Cloud](https://hackernoon.com/how-to-build-a-reddit-clone-with-react-and-dgraph-cloud-8t15346j)
+![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-ne7736cw.jpeg)
+Social media apps are perfect candidates for using graph databases and GraphQL APIs. The combinations of complex data queries and relationships are endless.
 
 ### [71. Monorepository in TypeScript: The Story of How we Broke Everything and Made it Better](https://hackernoon.com/monorepository-in-typescript-the-story-of-how-we-broke-everything-and-made-it-better)
 ![](https://cdn.hackernoon.com/images/ix8stRxNvMY5Q3R12XeVokwC1q83-c6r3uu4.jpeg)
@@ -336,13 +338,13 @@ GraphQL is a relatively new way to build user interfaces and APIs for consumers.
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-htp3123.jpeg)
 What's next for API integration? Share your thoughts in Cloud Elements' industry survey to win prizes and contribute to the industry-renowned report.
 
-### [84. The Wild West of GraphQL Security: Lessons Learned Migrating from REST to GraphQL 🐎](https://hackernoon.com/the-wild-west-of-graphql-security-lessons-learned-migrating-from-rest-to-graphql)
-![](https://cdn.hackernoon.com/images/X44biqt9MDhXMGs6i91IBf1pd8u2-pz92y72.jpeg)
-REST offered simplicity, statelessness, and a clear set of rules for developers to follow. It was like the sheriff in an old Western town - bringing order to th
-
-### [85. Relay or Redux? Choosing the Right State Management Solution](https://hackernoon.com/relay-or-redux-choosing-the-right-state-management-solution)
+### [84. Relay or Redux? Choosing the Right State Management Solution](https://hackernoon.com/relay-or-redux-choosing-the-right-state-management-solution)
 ![](https://cdn.hackernoon.com/images/T2HgFV42ljgj7A0M8cb7Cegcy4o1-2g93kv4.jpeg)
 In the rapidly evolving landscape of web development, understanding the differences between state management solutions is crucial. 
+
+### [85. The Wild West of GraphQL Security: Lessons Learned Migrating from REST to GraphQL 🐎](https://hackernoon.com/the-wild-west-of-graphql-security-lessons-learned-migrating-from-rest-to-graphql)
+![](https://cdn.hackernoon.com/images/X44biqt9MDhXMGs6i91IBf1pd8u2-pz92y72.jpeg)
+REST offered simplicity, statelessness, and a clear set of rules for developers to follow. It was like the sheriff in an old Western town - bringing order to th
 
 ### [86. How to Build a Blog with NextJs, Chakra UI, and HyGraph](https://hackernoon.com/how-to-build-a-blog-with-nextjs-chakra-ui-and-hygraph)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-gf93p1q.jpeg)
@@ -356,25 +358,25 @@ In September 2019, Graph Query Language is accepted as a new database query la
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-g1e32dx.jpeg)
 Start using GraphQL in legacy portions of your app without breaking any existing contracts with functionality that can still rely on the original REST API.
 
-### [89. Querying Data With GraphQL & Ballerina](https://hackernoon.com/querying-data-with-graphql-and-ballerina-n53733ek)
-![](https://cdn.hackernoon.com/images/l5zOLSJSCXbNFE632NiK1dIRRaI3-718133xu.jpeg)
-Take look at the basics of GraphQL and how it is supported out-of-the-box with the Ballerina programming language.
-
-### [90. These GraphQL Directives Are Overkill](https://hackernoon.com/these-graphql-directives-are-overkill)
+### [89. These GraphQL Directives Are Overkill](https://hackernoon.com/these-graphql-directives-are-overkill)
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-qh93p7o.gif.webp)
 I think that in 90% of the cases, you don't need @defer and @stream at all.
+
+### [90. Querying Data With GraphQL & Ballerina](https://hackernoon.com/querying-data-with-graphql-and-ballerina-n53733ek)
+![](https://cdn.hackernoon.com/images/l5zOLSJSCXbNFE632NiK1dIRRaI3-718133xu.jpeg)
+Take look at the basics of GraphQL and how it is supported out-of-the-box with the Ballerina programming language.
 
 ### [91. Establish Your Data Team Early Using These Tools and Techniques ](https://hackernoon.com/establish-your-data-team-early-using-these-tools-and-techniques)
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-t5a3pbm.png)
  Start building your data strategy team and architecture as soon as you can. A one-person data team can make a massive difference to your success as you grow. 
 
-### [92. Real-Time GraphQL API Exploration with GraphQuill](https://hackernoon.com/real-time-graphql-api-exploration-with-graphquill-r9k33vn)
-![](https://cdn.hackernoon.com/images/b91e33yu.jpg)
-As software engineers, we use tools built by other devs dozens of times a day. Personally, I use over 15 VS Code extensions. Until my team and I set out to build GraphQuill, I didn’t have the slightest clue about the process of developing and publishing an extension. It’s been a fun and worthwhile experience working within the VS Code extension space, so when my team and I got together to discuss releasing GraphQuill, I insisted we include a behind the scenes look at the development process and what challenged/excited us throughout.
-
-### [93. Your Architecture Cheat Sheet to API Design Styles](https://hackernoon.com/your-architecture-cheat-sheet-to-api-design-styles)
+### [92. Your Architecture Cheat Sheet to API Design Styles](https://hackernoon.com/your-architecture-cheat-sheet-to-api-design-styles)
 ![](https://cdn.hackernoon.com/images/Y56tfSgkuIgpbx3m4OA15Phv3S93-9se3gxv.jpeg)
 Architecture Cheet Sheet – API Design Styles. REST, gRPC, GraphQL, Event Driven Architecture.
+
+### [93. Real-Time GraphQL API Exploration with GraphQuill](https://hackernoon.com/real-time-graphql-api-exploration-with-graphquill-r9k33vn)
+![](https://cdn.hackernoon.com/images/b91e33yu.jpg)
+As software engineers, we use tools built by other devs dozens of times a day. Personally, I use over 15 VS Code extensions. Until my team and I set out to build GraphQuill, I didn’t have the slightest clue about the process of developing and publishing an extension. It’s been a fun and worthwhile experience working within the VS Code extension space, so when my team and I got together to discuss releasing GraphQuill, I insisted we include a behind the scenes look at the development process and what challenged/excited us throughout.
 
 ### [94. Streamlining The Developer Onboarding Process: A How-To Guide](https://hackernoon.com/streamlining-the-developer-onboarding-process-a-how-to-guide-4e2k329t)
 ![](https://cdn.hackernoon.com/images/UjXFxuUNtWZRzI4V8oql8egInq23-co1k28vo.jpeg)
@@ -389,13 +391,13 @@ TL;DR
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlBhQoqjIaMU4EX9kZOsv7rSkzzx1-mz243u9b.webp?alt=media&token=71edc31f-bd30-46eb-8112-1140b1ec192d)
 Introduction
 
-### [97. 2022 Noonies Programming Nominee Roy Derks on GraphQL, React, and More](https://hackernoon.com/2022-noonies-nominee-programming-interview)
-![](https://cdn.hackernoon.com/images/MIq3LAf1OoPW35o7MBmd2s51rcB3-mb93syb.jpeg)
-I’m Roy Derks! A tech speaker, writer and software developer from the Netherlands! I’ve been nominated for the categories below and if you've enjoyed anything 
-
-### [98. Why You Should Relay (Really👀) Give GraphQL Another Chance](https://hackernoon.com/why-you-should-relay-really-give-graphql-another-chance)
+### [97. Why You Should Relay (Really👀) Give GraphQL Another Chance](https://hackernoon.com/why-you-should-relay-really-give-graphql-another-chance)
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-f3a3loo.jpeg)
 In this post, I will explain why I think Relay is a game-changer, how we make it 100x easier to use and adopt, and why you should give it another look.
+
+### [98. 2022 Noonies Programming Nominee Roy Derks on GraphQL, React, and More](https://hackernoon.com/2022-noonies-nominee-programming-interview)
+![](https://cdn.hackernoon.com/images/MIq3LAf1OoPW35o7MBmd2s51rcB3-mb93syb.jpeg)
+I’m Roy Derks! A tech speaker, writer and software developer from the Netherlands! I’ve been nominated for the categories below and if you've enjoyed anything 
 
 ### [99. Using Next.js 13’s Bleeding-Edge Features for Data Fetching](https://hackernoon.com/using-nextjs-13s-bleeding-edge-features-for-data-fetching)
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-bpa3o5c.jpeg)
@@ -413,13 +415,13 @@ Let’s start with the idea of a database, and a basic query. Server taps the da
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYjziSuGeDecNvCZR0j4bivrb6V13-cl8l3t4w.jpeg?alt=media&token=3a75fd4b-f0ed-40c0-bbf9-af3453da8b12)
 I have been working with a US client to build a first-of-its-kind app for managing medical consents. It falls under HIPAA compliance and it’s paramount that we do not allow unauthorized access to user data.
 
-### [103. How to Make Your Lambda Functions Run Faster (and Cheaper)](https://hackernoon.com/how-to-make-your-lambda-functions-run-faster-and-cheaper-gp2034jl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZkfENnt2LdcfkiwMm6iukaGEHnB3-kg431fk.jpeg?alt=media&token=17c9f9e8-4c31-46e5-b68e-284bf156eaac)
-The AWS Lambda service allows us to easily deploy and run our own code, without worrying too much about the underlying infrastructure (when compared to non-serverless technologies). It essentially scales infinitely (with great power comes great responsibility), and can be connected with a bunch of other services, like API Gateway, S3, AppSync, DynamoDB, etc.
-
-### [104. Isomorphic TypeScript APIs are a Gamechanger, Blurring the Line Between Client & Server](https://hackernoon.com/isomorphic-typescript-apis-are-a-gamechanger-blurring-the-line-between-client-and-server)
+### [103. Isomorphic TypeScript APIs are a Gamechanger, Blurring the Line Between Client & Server](https://hackernoon.com/isomorphic-typescript-apis-are-a-gamechanger-blurring-the-line-between-client-and-server)
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-tpe3ouz.jpeg)
 Full-Stack development just reached a whole new level of productivity. Isomorphic TypeScript APIs, as I call them, blur the lines between client and server. 
+
+### [104. How to Make Your Lambda Functions Run Faster (and Cheaper)](https://hackernoon.com/how-to-make-your-lambda-functions-run-faster-and-cheaper-gp2034jl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZkfENnt2LdcfkiwMm6iukaGEHnB3-kg431fk.jpeg?alt=media&token=17c9f9e8-4c31-46e5-b68e-284bf156eaac)
+The AWS Lambda service allows us to easily deploy and run our own code, without worrying too much about the underlying infrastructure (when compared to non-serverless technologies). It essentially scales infinitely (with great power comes great responsibility), and can be connected with a bunch of other services, like API Gateway, S3, AppSync, DynamoDB, etc.
 
 ### [105. Building a Custom Query Language (GQL) for .git Files](https://hackernoon.com/building-a-custom-query-language-gql-for-git-files)
 ![](https://cdn.hackernoon.com/images/dkdP4VfxtrUVSMiq5X0VGwTQuZ23-bnb2kmt.jpeg)
@@ -433,21 +435,21 @@ I have been working on a large AppSync project for a client these past few month
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-ia93ltw.jpeg)
 What was a pipe dream for a long time is now a reality.
 
-### [108. GraphQL, the Universal Query Protocol, and the Free TON Blockchain](https://hackernoon.com/graphql-the-universal-query-protocol-and-the-free-ton-blockchain-n13y325n)
+### [108. Easy Audio Transcription With Whisper Over GraphQL](https://hackernoon.com/easy-audio-transcription-with-whisper-over-graphql)
+![](https://cdn.hackernoon.com/images/NRqsVbNbGFeIfgSxkBcuoeh6GS02-hh03nsb.jpeg)
+Learn to build voice features with OpenAI's Whisper model in a quick, effective way without throwing away your GraphQL backend.
+
+### [109. GraphQL, the Universal Query Protocol, and the Free TON Blockchain](https://hackernoon.com/graphql-the-universal-query-protocol-and-the-free-ton-blockchain-n13y325n)
 ![](https://cdn.hackernoon.com/images/eV5PQYztB3aTpBnYWcEFhU3vsYf2-re8635lc.jpeg)
 What is the universal query protocol GraphQL  and its application in modern blockchain platforms on the example of Free TON
 
-### [109. How to Build a Voting Application for Tech Courses with GraphCMS and Nuxt](https://hackernoon.com/how-to-build-a-voting-application-for-tech-courses-with-graphcms-and-nuxt-v21p37cs)
+### [110. How to Build a Voting Application for Tech Courses with GraphCMS and Nuxt](https://hackernoon.com/how-to-build-a-voting-application-for-tech-courses-with-graphcms-and-nuxt-v21p37cs)
 ![](https://cdn.hackernoon.com/images/iOKnuwYEXZaUvz5goZmkHGWwDAq2-sdej35ut.jpeg)
 Build an application that allows you to vote courses in tech. You will use technologies such as GraphCMS, Nuxt.js, GitHub, TailwindCSS and NPM.
 
-### [110. Creating Appsync API using Amplify CLI](https://hackernoon.com/creating-appsync-api-using-amplify-cli-h4603v1z)
+### [111. Creating Appsync API using Amplify CLI](https://hackernoon.com/creating-appsync-api-using-amplify-cli-h4603v1z)
 ![](https://cdn.hackernoon.com/images/fyi53w3i.jpg)
 While using any services from AWS you can do it via their API,Console or CLI tool like amplify, amplify was designed specifically to work with AWS and to make it easier for developers to deploy applications on the cloud just by running some commands, In this blog i will be showing you how can you create an Appsync API with Amplify, It will have auto generated resolvers for all the queries,mutation and DynamoDB as the database.Yes you read that right everything will be created for you by AWS using cloudformation which acts as template for all the services that you will be needing. So before we get started i encourage you to install Amplify CLI on your computer and configure it with your Credentials. Let’s get started now.
-
-### [111. Easy Audio Transcription With Whisper Over GraphQL](https://hackernoon.com/easy-audio-transcription-with-whisper-over-graphql)
-![](https://cdn.hackernoon.com/images/NRqsVbNbGFeIfgSxkBcuoeh6GS02-hh03nsb.jpeg)
-Learn to build voice features with OpenAI's Whisper model in a quick, effective way without throwing away your GraphQL backend.
 
 ### [112. Reasons Why Everybody Loves The New GraphQL Editor 3.0](https://hackernoon.com/reasons-why-everybody-loves-the-new-graphql-editor-30-9ym3w8a)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQ9Ye8lX44HeXgiNJTqa5yvn0r2H2-3a1d3wod.jpeg?alt=media&token=8a327a48-617e-4b35-91e0-ed6304b3d090)
@@ -457,37 +459,37 @@ We’ve just launched GraphQL Editor 3.0 and I must say it’s nothing like a ye
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTMgodFHH4evRjSdNFNz3dacaM23-q04230kp.jpeg?alt=media&token=83fd7ebd-77be-4c93-9b3e-7f18d26e633a)
 In this article, I'm going to explore graph databases/GraphQL by building a proof of concept blog powered by the recently launched Slash GraphQL - a hosted GraphQL backend.
 
-### [114. Tracking the Worst Sci-Fi Movies With Angular and Slash GraphQL](https://hackernoon.com/tracking-the-worst-sci-fi-movies-with-angular-and-slash-graphql-5kt31qa)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-v2e31mx.jpeg)
-A Slash GraphQL service instance contains everything needed to provide data to an Angular app. Let’s make a fun demonstration using some of the worst movies.
-
-### [115. Cursor vs Offset in GraphQL: Measuring Response Time and Memory in Node.js](https://hackernoon.com/cursor-vs-offset-in-graphql-measuring-response-time-and-memory-in-nodejs)
+### [114. Cursor vs Offset in GraphQL: Measuring Response Time and Memory in Node.js](https://hackernoon.com/cursor-vs-offset-in-graphql-measuring-response-time-and-memory-in-nodejs)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-dj823rg.jpeg)
 Learn how pagination strategy impacts GraphQL API performance in Node.js.
 
-### [116. Unleashing Backend Agility: Empowering Your App With Build-Time GraphQL](https://hackernoon.com/unleashing-backend-agility-empowering-your-app-with-build-time-graphql)
+### [115. Tracking the Worst Sci-Fi Movies With Angular and Slash GraphQL](https://hackernoon.com/tracking-the-worst-sci-fi-movies-with-angular-and-slash-graphql-5kt31qa)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-v2e31mx.jpeg)
+A Slash GraphQL service instance contains everything needed to provide data to an Angular app. Let’s make a fun demonstration using some of the worst movies.
+
+### [116. GraphQL Isn’t Just for Data Anymore — It's Becoming Your Frontend](https://hackernoon.com/graphql-isnt-just-for-data-anymore-its-becoming-your-frontend)
+![](https://cdn.hackernoon.com/images/zDJTbna4ZjS6tru4xC7VaFSrjpp2-ir137tp.png)
+Server-Driven UI with GraphQL & WebAssembly powers dynamic, high-performance frontends with scalable, modular architecture for the next-gen web.
+
+### [117. Unleashing Backend Agility: Empowering Your App With Build-Time GraphQL](https://hackernoon.com/unleashing-backend-agility-empowering-your-app-with-build-time-graphql)
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-yrd3ny3.jpeg)
 The BFF pattern optimizes backends for specific client interfaces. Using GraphQL for it fixes some of its drawbacks, but can we do better? Let’s find out with W
 
-### [117. An Awesome Tool To Quickly Create An Amazon-Like Recommendation Engine ](https://hackernoon.com/an-awesome-tool-to-quickly-create-an-amazon-like-recommendation-engine-8k473whc)
+### [118. An Awesome Tool To Quickly Create An Amazon-Like Recommendation Engine ](https://hackernoon.com/an-awesome-tool-to-quickly-create-an-amazon-like-recommendation-engine-8k473whc)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-zzl3wcp.jpeg?alt=media&token=380af6ab-efa6-4ab9-98e2-9326b9a9e842)
 [TL;DR; Get started using Dgraph's Slash GraphQL product and connect to a Spring Boot application which will act as a simple RESTful recommendation service.]
-
-### [118. GraphQL Isn’t Just for Data Anymore — It's Becoming Your Frontend](https://hackernoon.com/graphql-isnt-just-for-data-anymore-its-becoming-your-frontend)
-![](https://cdn.hackernoon.com/images/zDJTbna4ZjS6tru4xC7VaFSrjpp2-ir137tp.png)
-Server-Driven UI with GraphQL & WebAssembly powers dynamic, high-performance frontends with scalable, modular architecture for the next-gen web.
 
 ### [119. My first Gatsby Experience - A Review](https://hackernoon.com/my-first-gatsby-experience-a-review-v6x333c)
 ![](https://images.unsplash.com/photo-1548211432-b816bbfb4168?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 TLDR; Gatsby is good for react portfolio sites, but worse than NextJs for web apps and much slower to work and more of a hassle than Web Builders/CMS for brochure/primarily static sites.
 
-### [120. Togayo: A Reconfigurable IoT Platform](https://hackernoon.com/device-stacc-a-reconfigurable-iot-platform-6j4e322p)
-![](https://hackernoon.com/images/zFYNwkba5XW3d1RKLMu6ve4KcWE2-ryg23n2.png)
-An open-source IoT platform that uses microcontroller reconfiguration, capability-based peripherals, GraphQL, TimescaleDB, entity component system, and more.
-
-### [121. WunderGraph's Integration with Fauna ](https://hackernoon.com/wundergraphs-integration-with-fauna)
+### [120. WunderGraph's Integration with Fauna ](https://hackernoon.com/wundergraphs-integration-with-fauna)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-nb93r0a.jpeg)
 Fauna is a distributed document-relational database delivered as a cloud API.
+
+### [121. Togayo: A Reconfigurable IoT Platform](https://hackernoon.com/device-stacc-a-reconfigurable-iot-platform-6j4e322p)
+![](https://hackernoon.com/images/zFYNwkba5XW3d1RKLMu6ve4KcWE2-ryg23n2.png)
+An open-source IoT platform that uses microcontroller reconfiguration, capability-based peripherals, GraphQL, TimescaleDB, entity component system, and more.
 
 ### [122. An Introduction To The GraphQL Editor v 4.5 ](https://hackernoon.com/an-introduction-to-the-graphql-editor-v-45-9l1733su)
 ![](https://cdn.hackernoon.com/images/Q9Ye8lX44HeXgiNJTqa5yvn0r2H2-ch1633ou.jpeg)
@@ -499,17 +501,17 @@ Working with the latest tech is fun. It’s fresh and exciting. As developers we
 feel invigorated by being on the bleeding edge. Consider us thrill 
 seekers.
 
-### [124. 2 minute deployments: Jamstack Ecommerce + FaunaDB](https://hackernoon.com/2-minute-deployments-jamstack-ecommerce-faunadb-5zx34m2)
+### [124. Node.js + Angular: Best Practices for Seamless GraphQL API Integration](https://hackernoon.com/nodejs-angular-best-practices-for-seamless-graphql-api-integration)
+![](https://cdn.hackernoon.com/images/arbitrary-webpage-code-displayed-on-a-laptop-screen-jm0o5dq5dgy40f5mevgvbkzl.png)
+Learn best practices for building secure and high-performance GraphQL APIs using Node.js and Angular. This guide covers authentication, CORS handling, error man
+
+### [125. 2 minute deployments: Jamstack Ecommerce + FaunaDB](https://hackernoon.com/2-minute-deployments-jamstack-ecommerce-faunadb-5zx34m2)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fi7UAUFqgnRZcoNV6SfB5nPu8MDW2-4y1j3w8w.jpeg?alt=media&token=37857ae9-ebf7-4bbf-ad1f-9abc8e71e89a)
  managed to build a scaffolding for jamstack applications using Stencil.js and FaunaDB to power the backend. 
 
-### [125. Spending Weekend with GraphQL](https://hackernoon.com/spending-weekend-with-graphql-yk6c3y13)
+### [126. Spending Weekend with GraphQL](https://hackernoon.com/spending-weekend-with-graphql-yk6c3y13)
 ![](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Have you ever experienced an itch you just can’t scratch? If yes, then you will feel my pain. A few days back, everything was fine, I was happily writing code(!) and doing standup meetings regularly. Just before the weekend, my boss called me and shared this problem with me.
-
-### [126. Node.js + Angular: Best Practices for Seamless GraphQL API Integration](https://hackernoon.com/nodejs-angular-best-practices-for-seamless-graphql-api-integration)
-![](https://cdn.hackernoon.com/images/arbitrary-webpage-code-displayed-on-a-laptop-screen-jm0o5dq5dgy40f5mevgvbkzl.png)
-Learn best practices for building secure and high-performance GraphQL APIs using Node.js and Angular. This guide covers authentication, CORS handling, error man
 
 ### [127. Creating A Meme Sharing App Using Slash GraphQL](https://hackernoon.com/creating-a-meme-sharing-app-using-slash-graphql-0j2335ao)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-5l6g33ar.jpeg)
@@ -527,21 +529,21 @@ Generate posts on Dev, Hashnode, and Medium using the same markdown source file 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvBTWKG5mIAPUpw518dIq2QvB4zy2-0c663w0k.png?alt=media&token=0e624abb-6d7a-4cbe-8c89-63459cb930ab)
 A Quick Start Guide to Getting a Java GraphQL API up and Running in no time Using Apifi.
 
-### [131. Getting Started with GraphQL: An In-Depth Introduction](https://hackernoon.com/getting-started-with-graphql-an-in-depth-introduction)
-![](https://cdn.hackernoon.com/images/usLqJmqUA2b5joa695sCkWq4hKD3-7583yjy.jpeg)
-Discover the power of GraphQL with our depth guide! Whether you're a seasoned developer or just starting, learn the essentials of Getting Started with GraphQL.
-
-### [132. How We Built This: A Platform for Crowdsourced Design Patterns](https://hackernoon.com/how-we-built-this-a-platform-for-crowdsourced-design-patterns-kj1j33j9)
+### [131. How We Built This: A Platform for Crowdsourced Design Patterns](https://hackernoon.com/how-we-built-this-a-platform-for-crowdsourced-design-patterns-kj1j33j9)
 ![](https://cdn.hackernoon.com/images/RIrHNG9dalWFs9JTX5jUMGGFlNz2-r25l28kv.jpeg)
 Built with Next, Apollo and MongoDB and deployed with GitHub Actions and Docker.
 
-### [133. Celebrating 10,000+ stars on GitHub repository⭐ ❤️️](https://hackernoon.com/celebrating-10000-stars-on-github-together-cxx3235)
-![](https://cdn.hackernoon.com/images/ww1i3220.jpg)
-Postwoman is celebrating the milestone of reaching 10,000 GitHub stars 🎉
+### [132. Getting Started with GraphQL: An In-Depth Introduction](https://hackernoon.com/getting-started-with-graphql-an-in-depth-introduction)
+![](https://cdn.hackernoon.com/images/usLqJmqUA2b5joa695sCkWq4hKD3-7583yjy.jpeg)
+Discover the power of GraphQL with our depth guide! Whether you're a seasoned developer or just starting, learn the essentials of Getting Started with GraphQL.
 
-### [134. "If Google Lets me Down, I Write About It," Ben Church — Google Writer of the Year Nom](https://hackernoon.com/if-google-lets-me-down-i-write-about-it-ben-church-google-writer-of-the-year-nom-dh7l3utm)
+### [133. "If Google Lets me Down, I Write About It," Ben Church — Google Writer of the Year Nom](https://hackernoon.com/if-google-lets-me-down-i-write-about-it-ben-church-google-writer-of-the-year-nom-dh7l3utm)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-cu533u7c.jpeg?alt=media&token=c7474a7b-9df4-424c-8ad8-2790e2648bb4)
 Ben Church is an engineer from Canada has been nominated as Hacker Noon's Contributor of the Year in our Google story category.  The Noonies are Hacker Noon’s way of getting to know — from a community perspective —  what matters in tech today. So, we asked our Noonie Nominees to tell us. Here’s what Ben had to share.
+
+### [134. Celebrating 10,000+ stars on GitHub repository⭐ ❤️️](https://hackernoon.com/celebrating-10000-stars-on-github-together-cxx3235)
+![](https://cdn.hackernoon.com/images/ww1i3220.jpg)
+Postwoman is celebrating the milestone of reaching 10,000 GitHub stars 🎉
 
 ### [135. Manifold Guide Series Finale: GraphQL, JavaScript, Preprocessor, and SQL](https://hackernoon.com/manifold-guide-series-finale-graphql-javascript-preprocessor-and-sql)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-3e92gg1.jpeg)
@@ -555,13 +557,13 @@ Learn how we transitioned from Redux to MST-GQL while leveraging GraphQL for sta
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-dl835i8.jpeg)
 Successful corporations leverage a customer 360. Check out how Dgraph can provide top-notch analyses quickly and effectively.
 
-### [138. How to sample AppSync resolver logs](https://hackernoon.com/how-to-sample-appsync-resolver-logsarthur-qtn3tb9)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYjziSuGeDecNvCZR0j4bivrb6V13-aud3t3u.jpeg?alt=media&token=d9395918-9754-4e35-bddd-548a46ea3887)
-AppSync has built-in logging integration with CloudWatch Logs (see here for more details on the logging options).
-
-### [139. Apache SeaTunnel Source Connectors 2025: Your Complete Data Integration Guide](https://hackernoon.com/apache-seatunnel-source-connectors-2025-your-complete-data-integration-guide)
+### [138. Apache SeaTunnel Source Connectors 2025: Your Complete Data Integration Guide](https://hackernoon.com/apache-seatunnel-source-connectors-2025-your-complete-data-integration-guide)
 ![](https://cdn.hackernoon.com/images/1xYF9Q2MEDQRYXBY7nlDViaH7ED3-4r03aiz.jpeg)
 From databases to data lakes, SaaS to streaming — SeaTunnel’s ecosystem connects everything.
+
+### [139. How to sample AppSync resolver logs](https://hackernoon.com/how-to-sample-appsync-resolver-logsarthur-qtn3tb9)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYjziSuGeDecNvCZR0j4bivrb6V13-aud3t3u.jpeg?alt=media&token=d9395918-9754-4e35-bddd-548a46ea3887)
+AppSync has built-in logging integration with CloudWatch Logs (see here for more details on the logging options).
 
 ### [140. Lawyer Turned Full-Stack Ruairidh Wynne-McHardy Talks AI in 2020](https://hackernoon.com/lawyer-turned-full-stack-ruairidh-wynne-mchardy-talks-ai-in-2020-z54o3tmk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-6e93tld.jpeg?alt=media&token=e43c3c26-5b1f-457c-b388-92c02130191f)

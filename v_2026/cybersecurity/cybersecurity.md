@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [cybersecurity](https://hackernoon.com/tagged/cybersecurity)
+### Let's learn about [Cybersecurity](https://hackernoon.com/tagged/cybersecurity) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Hacking is not a crime! Or is it? Well, it depends on which hat you are wearing. Find all about Offense-Defense dilemmas, theories, and practicals here!
 
 ### [1. How to Hack Facebook Accounts: 5 Common Vulnerabilities in 2023](https://hackernoon.com/how-to-hack-facebook-accounts-5-common-vulnerabilities-811g37w8)
@@ -103,13 +105,13 @@ Digital fingerprinting, identifying users by hardware params. Learn about parame
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-s56w35n6.jpeg)
 These are the five cybersecurity books that you should start with if you are considering a career within the industry. 
 
-### [26. Cybersecurity Essentials: Practical Web App Security Testing Tips for QA Engineers](https://hackernoon.com/cybersecurity-essentials-practical-web-app-security-testing-tips-for-qa-engineers)
-![](https://cdn.hackernoon.com/images/FkE8sbzeOZgK4PsszzFiDkH0IIF2-z6831kj.jpeg)
-Cybersecurity for QA - web app security: XSS, Header Injections, CSRF, RCE, Command Injection, Web Parameter Tampering, CORS, Content Security Policy (CSP)
-
-### [27. Exploiting the proftpd Linux Server](https://hackernoon.com/exploiting-the-proftpd-linux-server)
+### [26. Exploiting the proftpd Linux Server](https://hackernoon.com/exploiting-the-proftpd-linux-server)
 ![](https://cdn.hackernoon.com/images/1yeuFftUzKRT5YTxuVLPKYa7Uep2-es93r24.jpeg)
 Did you ever wonder how a hacker can compromise a system?  This Behind the Scenes (BTS) walkthrough takes us through a possible scenario using a known exploit.
+
+### [27. Cybersecurity Essentials: Practical Web App Security Testing Tips for QA Engineers](https://hackernoon.com/cybersecurity-essentials-practical-web-app-security-testing-tips-for-qa-engineers)
+![](https://cdn.hackernoon.com/images/FkE8sbzeOZgK4PsszzFiDkH0IIF2-z6831kj.jpeg)
+Cybersecurity for QA - web app security: XSS, Header Injections, CSRF, RCE, Command Injection, Web Parameter Tampering, CORS, Content Security Policy (CSP)
 
 ### [28. You Probably Don't Need OAuth2/OpenID Connect: Here's Why](https://hackernoon.com/you-probably-dont-need-oauth2openid-connect-heres-why)
 ![](https://cdn.hackernoon.com/images/the-universe-clf8x6052000001s62i957wgg.png)
@@ -296,13 +298,13 @@ Let's conduct a penetration testing on a file with a detailed study analysis of 
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-9a93vbv.jpeg)
 As we know dark websites use .onion for their domain extension. 
 
-### [74. Netizens, 2023 is the Year to Up-skill in Cybersecurity](https://hackernoon.com/netizens-2023-is-the-year-to-up-skill-in-cybersecurity)
-![](https://cdn.hackernoon.com/images/tXEFPo4di4UhV67y2dZhPKZWQ9q1-g993pnc.jpeg)
-Stay ahead of the curve in 2023 with these essential cybersecurity courses by EC-Council.
-
-### [75. The Ultimate Guide to Mastering Nmap and Netcat](https://hackernoon.com/the-ultimate-guide-to-mastering-nmap-and-netcat)
+### [74. The Ultimate Guide to Mastering Nmap and Netcat](https://hackernoon.com/the-ultimate-guide-to-mastering-nmap-and-netcat)
 ![](https://cdn.hackernoon.com/images/mCQMNMUuBRQ0LIqGt5Ff1WvWWSL2-el93tp2.jpeg)
 Dive into network security with our guide on Nmap & Netcat. Learn their uses, commands, installation, troubleshooting, and ethical practices.
+
+### [75. Netizens, 2023 is the Year to Up-skill in Cybersecurity](https://hackernoon.com/netizens-2023-is-the-year-to-up-skill-in-cybersecurity)
+![](https://cdn.hackernoon.com/images/tXEFPo4di4UhV67y2dZhPKZWQ9q1-g993pnc.jpeg)
+Stay ahead of the curve in 2023 with these essential cybersecurity courses by EC-Council.
 
 ### [76. 5 Best Browser Extensions For Protecting Your Privacy Online](https://hackernoon.com/the-best-extensions-for-browser-privacy-and-security-zs2f42snc)
 ![](https://cdn.hackernoon.com/drafts/1x1f72sj1.png)
@@ -384,37 +386,37 @@ Do not store your credit card information on Google Chrome! This article discuss
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-c993o39.jpeg)
 Your server room hosts your most important assets, so it deserves proper protection. Here are four physical security strategies to keep your server room secure.
 
-### [96. The NuID Ecosystem: An Improved Identity Layer Putting Identity Ownership In Users’ Hands](https://hackernoon.com/the-nuid-ecosystem-an-improved-identity-layer-putting-identity-ownership-in-users-hands)
+### [96. Why Everyone is Panic-Buying Mac Minis for OpenClaw / Moltbot / Clawdbot?](https://hackernoon.com/why-everyone-is-panic-buying-mac-minis-for-openclaw-moltbot-clawdbot)
+![](https://cdn.hackernoon.com/images/nWB39v91N9bi3Xk4ag6vcPXw32f2-kg33nrw.webp)
+the reality is more nuanced than the hype suggests.
+
+### [97. The NuID Ecosystem: An Improved Identity Layer Putting Identity Ownership In Users’ Hands](https://hackernoon.com/the-nuid-ecosystem-an-improved-identity-layer-putting-identity-ownership-in-users-hands)
 ![](https://cdn.hackernoon.com/images/zaGs6Q0I7SY8qLi6ofbogocZVlJ2-jh93ptx.jpeg)
 The internet grew without an identity layer, meaning it grew without a reliable way of knowing or verifying who you were connecting to which can be dangerous.
 
-### [97. The Ultimate Security Guide for Cryptocurrency Investors](https://hackernoon.com/the-ultimate-security-guide-for-cryptocurrency-investors-w11437zy)
+### [98. The Ultimate Security Guide for Cryptocurrency Investors](https://hackernoon.com/the-ultimate-security-guide-for-cryptocurrency-investors-w11437zy)
 ![](https://cdn.hackernoon.com/images/wYVsaB2md5QrfgtiJtxj5uzlACo2-xczf31b9.jpeg)
 
 
-### [98. 5 Low-Cost Cybersecurity Measures SMBs Can’t Afford to Not Implement](https://hackernoon.com/5-low-cost-cybersecurity-measures-smbs-cant-afford-to-not-implement)
+### [99. 5 Low-Cost Cybersecurity Measures SMBs Can’t Afford to Not Implement](https://hackernoon.com/5-low-cost-cybersecurity-measures-smbs-cant-afford-to-not-implement)
 ![](https://cdn.hackernoon.com/images/fZhsEeLz44RmI0mUOoCNIrv3zOo1-vw831vw.jpeg)
 A successful cyber attack can be devastating; many cybersecurity measures that can help SMBs can be implemented at surprisingly little cost.
 
-### [99. PlayerUnknown’s Battlegrounds Main Menu Is Vulnerable to Hacking](https://hackernoon.com/playerunknowns-battlegrounds-main-menu-is-vulnerable-to-hacking-d483b00a7036)
+### [100. PlayerUnknown’s Battlegrounds Main Menu Is Vulnerable to Hacking](https://hackernoon.com/playerunknowns-battlegrounds-main-menu-is-vulnerable-to-hacking-d483b00a7036)
 ![](https://cdn.hackernoon.com/images/battleground-z3yasxyc9e6aw3cyegmuq2gu.png)
 <strong>Update: </strong>This security hole has been plugged. See my <a href="https://medium.com/@fsufitch/pubg-main-menu-hack-its-fixed-cbad28c706fa" target="_blank">next post</a> for details.
 
-### [100. Inside the Secrets of Physical Penetration Testing](https://hackernoon.com/inside-the-secrets-of-physical-penetration-testing)
+### [101. Inside the Secrets of Physical Penetration Testing](https://hackernoon.com/inside-the-secrets-of-physical-penetration-testing)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-fx032yn.jpeg)
 Not every pen tester hacks computers — physical pen testers use people skills, social engineering, and other physical methods to gain access. Here's how.
 
-### [101. How Secure Is Remote Desktop Protocol (RDP)?](https://hackernoon.com/how-secure-is-remote-desktop-protocol-rdp)
+### [102. How Secure Is Remote Desktop Protocol (RDP)?](https://hackernoon.com/how-secure-is-remote-desktop-protocol-rdp)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-oo93uj5.jpeg)
 Have you ever used a remote desktop? It probably wasn't as secure as you thought.
 
-### [102. ISO/IEC 27035: The Incident Security Incident Management Guide](https://hackernoon.com/isoiec-27035-the-incident-security-incident-management-guide-nt5v354n)
+### [103. ISO/IEC 27035: The Incident Security Incident Management Guide](https://hackernoon.com/isoiec-27035-the-incident-security-incident-management-guide-nt5v354n)
 ![](https://cdn.hackernoon.com/images/sEiTHnmTGDdab0qMfHtb54LxcMe2-wc4033d7.jpeg)
 We will learn about the security incident phases, security incidents response planning (IRP), and Incident Response Team Structures.
-
-### [103. Why Everyone is Panic-Buying Mac Minis for OpenClaw / Moltbot / Clawdbot?](https://hackernoon.com/why-everyone-is-panic-buying-mac-minis-for-openclaw-moltbot-clawdbot)
-![](https://cdn.hackernoon.com/images/nWB39v91N9bi3Xk4ag6vcPXw32f2-kg33nrw.webp)
-the reality is more nuanced than the hype suggests.
 
 ### [104. AI Agents Are Growing Up - And They Need Zero-Trust Parenting](https://hackernoon.com/ai-agents-are-growing-up-and-they-need-zero-trust-parenting)
 ![](https://cdn.hackernoon.com/images/xMFozA8xFqPickG9TmjRqH6mmCS2-5z039sm.jpeg)
@@ -428,121 +430,121 @@ The common vulnerability scoring system (CVSS) is a way to assign scores to vuln
 ![](https://cdn.hackernoon.com/images/c7j321z.jpg)
 Suppose you’ve picked up an Android phone on the street and you saw the 4 apps above. Can you guess the profile of the phone user?
 
-### [107. EC-Council Introduces AI-Powered Ethical Hacking against Cybercrime](https://hackernoon.com/ec-council-introduces-ai-powered-ethical-hacking-against-cybercrime)
+### [107. Anyone Can Be a Victim to a Phishing Scam. Here’s My Story.](https://hackernoon.com/anyone-can-be-a-victim-to-a-phishing-scam-heres-mine)
+![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-ea23dov.png)
+Got a call from 888-373-1969 claiming to be the Chase fraud department? Trust but verify should be your principle to avoid phishing scam!
+
+### [108. EC-Council Introduces AI-Powered Ethical Hacking against Cybercrime](https://hackernoon.com/ec-council-introduces-ai-powered-ethical-hacking-against-cybercrime)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-2g03yfb.jpeg)
 CEH v13 certification equips cybersecurity professionals with essential AI skills to prepare them for a new era of cybercrime
-
-### [108. How to Protect Your Netflix Account from Getting Hacked](https://hackernoon.com/how-to-protect-your-netflix-account-from-getting-hacked-xa343z0f)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVgNQx09RiBRltRNsOrHw0yf0pDZ2-a31d3x8h.jpeg?alt=media&token=3c9a3697-3d76-4117-b14f-8f2bd8c7ad26)
-Netflix accounts getting hacked are the least bit of anyone’s concern. Not because it doesn’t mean anything to us, but we anticipate little harm from it. After all, what more can a hacker do than to watch a few titles, get to see their favorite shows or movies? But that’s not always the case. We have left this issue unsupervised for far too long, and there is harm more significant than we give credit for. 
 
 ### [109. JA3 and JA3S in Security Monitoring of SSL Communication](https://hackernoon.com/ja3-and-ja3s-in-security-monitoring-of-ssl-communication-6e1w348s)
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-er3r295b.jpeg)
 JA3 and JA3S are TLS fingerprinting methods that may be useful in security monitoring to detect and prevent against malicious activity within encrypted traffic.
 
-### [110. Microsoft's Forced Updates: A Critique of the Global IT Outage](https://hackernoon.com/microsofts-forced-updates-a-critique-of-the-global-it-outage)
+### [110. How to Protect Your Netflix Account from Getting Hacked](https://hackernoon.com/how-to-protect-your-netflix-account-from-getting-hacked-xa343z0f)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVgNQx09RiBRltRNsOrHw0yf0pDZ2-a31d3x8h.jpeg?alt=media&token=3c9a3697-3d76-4117-b14f-8f2bd8c7ad26)
+Netflix accounts getting hacked are the least bit of anyone’s concern. Not because it doesn’t mean anything to us, but we anticipate little harm from it. After all, what more can a hacker do than to watch a few titles, get to see their favorite shows or movies? But that’s not always the case. We have left this issue unsupervised for far too long, and there is harm more significant than we give credit for. 
+
+### [111. Microsoft's Forced Updates: A Critique of the Global IT Outage](https://hackernoon.com/microsofts-forced-updates-a-critique-of-the-global-it-outage)
 ![](https://cdn.hackernoon.com/images/WFZ8CuQDbrQL9MxiEq25Wcqg6qv1-il834i6.jpeg)
 A global IT outage caused by a flawed CrowdStrike update on Microsoft Windows reveals vulnerabilities in digital infrastructure, urging better update and cybers
 
-### [111. Hunting Pedophiles On The Dark Web: How I Started Doing It](https://hackernoon.com/hunting-pedophiles-on-the-dark-web-how-i-started-doing-it-7n183y3h)
+### [112. Hunting Pedophiles On The Dark Web: How I Started Doing It](https://hackernoon.com/hunting-pedophiles-on-the-dark-web-how-i-started-doing-it-7n183y3h)
 ![](https://cdn.hackernoon.com/images/24m63hlf.jpg)
 It started when I was 17, a high school senior about to graduate, wondering what career path I wanted to take. At the time I was doing three IT courses, so naturally going to University for Cybersecurity made sense.
-
-### [112. Is WhatsApp Safe?](https://hackernoon.com/is-whatsapp-safe-4b1f3tjm)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYjMQ5ovwY0YTXp30fB6AUAZcstA3-ay1v3twn.jpeg?alt=media&token=0c02576c-b6cd-43ed-8fc8-b8146c9c89b8)
-WhatsApp is the most popular messenger owned by Facebook. According to the official stats, the number of WhatsApp active users has reached 1 billion in 2020. Just imagine, approximately 65 million messages are sent via this social app daily.  Since the app is so popular, it’s very attractive for hackers. In this article, I’ll tell you about the major WhatsApp security threats, which will help you protect your chats and shared media from hackers, WhatsApp spy apps, and keylogging software. 
 
 ### [113. The Authorization Gap No One Wants to Talk About: Why Your API Is Probably Leaking Right Now](https://hackernoon.com/the-authorization-gap-no-one-wants-to-talk-about-why-your-api-is-probably-leaking-right-now)
 ![](https://cdn.hackernoon.com/images/uBhjbZIm34du43FkQ7OopJQf37Y2-c103cv9.jpeg)
 Broken Object Level Authorization (BOLA) is eating the API economy from the inside out. 
 
-### [114. How to Hack a Windows Machine Like a Pro Hacker](https://hackernoon.com/how-to-hack-a-windows-machine-like-a-pro-hacker-3e1v37rz)
+### [114. Is WhatsApp Safe?](https://hackernoon.com/is-whatsapp-safe-4b1f3tjm)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYjMQ5ovwY0YTXp30fB6AUAZcstA3-ay1v3twn.jpeg?alt=media&token=0c02576c-b6cd-43ed-8fc8-b8146c9c89b8)
+WhatsApp is the most popular messenger owned by Facebook. According to the official stats, the number of WhatsApp active users has reached 1 billion in 2020. Just imagine, approximately 65 million messages are sent via this social app daily.  Since the app is so popular, it’s very attractive for hackers. In this article, I’ll tell you about the major WhatsApp security threats, which will help you protect your chats and shared media from hackers, WhatsApp spy apps, and keylogging software. 
+
+### [115. How to Hack a Windows Machine Like a Pro Hacker](https://hackernoon.com/how-to-hack-a-windows-machine-like-a-pro-hacker-3e1v37rz)
 ![](https://cdn.hackernoon.com/images/x7oAbeUtx1YeP5GIalmxyzfySdx2-9g23352v.jpeg)
 In this article, we are going to discuss how we can hack into a windows 10 operating system using some really cool tricks and some highly advanced hardware.
 
-### [115. What is the Difference between Telnet and SSH?](https://hackernoon.com/what-is-the-difference-between-telnet-and-ssh)
+### [116. What is the Difference between Telnet and SSH?](https://hackernoon.com/what-is-the-difference-between-telnet-and-ssh)
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-tn0369y.png)
 Telnet and SSH are network protocols used to manage and access devices remotely. SSH is more secure and preferred because it encrypts data sent over the network
 
-### [116. Multichain Hack and Its Consequences](https://hackernoon.com/multichain-hack-and-its-consequences)
+### [117. Multichain Hack and Its Consequences](https://hackernoon.com/multichain-hack-and-its-consequences)
 ![](https://cdn.hackernoon.com/images/eMAhpJlZRZWKBIGuJh4n8qxPiTK2-yid3pwo.jpeg)
 Details of Multichain hack and how it affected Fantom chain
 
-### [117. How to Run Reverse Shell for Hacking in Linux](https://hackernoon.com/how-to-run-reverse-shell-for-hacking-in-linux-of5i37ob)
+### [118. How to Run Reverse Shell for Hacking in Linux](https://hackernoon.com/how-to-run-reverse-shell-for-hacking-in-linux-of5i37ob)
 ![](https://hackernoon.com/images/x7oAbeUtx1YeP5GIalmxyzfySdx2-hdp3224.jpeg)
 A reverse shell is a hacking vulnerability that the hacker executes .php codes or an executable file in which he gets access to the shell of the target system.
 
-### [118. Ockam Routing: Building End-to-End Channels](https://hackernoon.com/ockam-routing-building-secure-end-to-end-channels)
+### [119. Ockam Routing: Building End-to-End Channels](https://hackernoon.com/ockam-routing-building-secure-end-to-end-channels)
 ![](https://cdn.hackernoon.com/images/46r7B36ZH3SbJMt0oevk5FjrjTH2-gr937l3.jpeg)
 Learn how  to create secure channels over multi-hop, multi-protocol routes which can span various network topologies and transport protocols.
 
-### [119. How My Mother Got Hacked by a Phishing Attack](https://hackernoon.com/how-my-mother-got-hacked-by-a-phishing-attack)
+### [120. How My Mother Got Hacked by a Phishing Attack](https://hackernoon.com/how-my-mother-got-hacked-by-a-phishing-attack)
 ![](https://cdn.hackernoon.com/images/1yeuFftUzKRT5YTxuVLPKYa7Uep2-q6b3os0.jpeg)
 My mom got hacked and probably your mom too.  How a social engineering attack works on vulnerable users.
 
-### [120. Cracking the SANS GSEC Certification](https://hackernoon.com/cracking-the-sans-gsec-certification)
+### [121. Cracking the SANS GSEC Certification](https://hackernoon.com/cracking-the-sans-gsec-certification)
 ![](https://cdn.hackernoon.com/images/QNCA8JvqPdVCGlZ6oq2Y9YeXzqA2-5893mzn.jpeg)
 The SANS GIAC Security Essentials (GSEC) certification is for anyone working in the field of Information Security.
 
-### [121. Every Truth (And Lie) Told in Netflix's 'Zero Day,' Ranked](https://hackernoon.com/every-truth-and-lie-told-in-netflixs-zero-day-ranked)
-![](https://cdn.hackernoon.com/images/l7noBCUFwmcERrcGKL5jHUS0UcV2-ge03h1a.png)
-Is Netflix’s 'Zero Day' realistic? A malware researcher breaks down 3 real cyber threats and 3 myths, separating cybersecurity fact from fiction.
-
-### [122. TLS Cipher Suites: Which Ones to Let Go in 2023?](https://hackernoon.com/tls-cipher-suites-which-ones-to-let-go-in-2023)
-![](https://cdn.hackernoon.com/images/5C55hkvBUqfZLGdAZgaZ6xtHsp02-mbc3azi.png)
-What cipher suites are appropriate to include in TLS configuration, and which ones should be removed to enhance its security?
-
-### [123. What's wrong with stickers in Telegram? Deanonymize anonymous channels in two clicks](https://hackernoon.com/whats-wrong-with-stickers-in-telegram-deanonymize-anonymous-channels-in-two-clicks)
+### [122. What's wrong with stickers in Telegram? Deanonymize anonymous channels in two clicks](https://hackernoon.com/whats-wrong-with-stickers-in-telegram-deanonymize-anonymous-channels-in-two-clicks)
 ![](https://cdn.hackernoon.com/images/TYJUMtiClUZJ10sVuaeuHOy548K2-2k2b3zj3.jpeg)
 Did you know that Telegram stickers can give you away? In this article, I will teach you how to deanonymize anonymous channel authors using a module for Maltego
 
-### [124. The Dangers of SVG Files: A Lesser-Known Vector for XSS Attacks](https://hackernoon.com/the-dangers-of-svg-files-a-lesser-known-vector-for-xss-attacks)
+### [123. Every Truth (And Lie) Told in Netflix's 'Zero Day,' Ranked](https://hackernoon.com/every-truth-and-lie-told-in-netflixs-zero-day-ranked)
+![](https://cdn.hackernoon.com/images/l7noBCUFwmcERrcGKL5jHUS0UcV2-ge03h1a.png)
+Is Netflix’s 'Zero Day' realistic? A malware researcher breaks down 3 real cyber threats and 3 myths, separating cybersecurity fact from fiction.
+
+### [124. TLS Cipher Suites: Which Ones to Let Go in 2023?](https://hackernoon.com/tls-cipher-suites-which-ones-to-let-go-in-2023)
+![](https://cdn.hackernoon.com/images/5C55hkvBUqfZLGdAZgaZ6xtHsp02-mbc3azi.png)
+What cipher suites are appropriate to include in TLS configuration, and which ones should be removed to enhance its security?
+
+### [125. The Dangers of SVG Files: A Lesser-Known Vector for XSS Attacks](https://hackernoon.com/the-dangers-of-svg-files-a-lesser-known-vector-for-xss-attacks)
 ![](https://cdn.hackernoon.com/images/cyber-attack-chaos-clehq8y9c000001s6fbt04fmb.png)
 One lesser-known vector for XSS attacks is the SVG image format. SVGs support JavaScript using the <script> tag, which can be exploited by attackers. 
 
-### [125. 5 Ways to Protect Your Facebook Account from Getting Hacked](https://hackernoon.com/5-ways-to-protect-your-facebook-account-from-getting-hacked-g52p34ox)
+### [126. 5 Ways to Protect Your Facebook Account from Getting Hacked](https://hackernoon.com/5-ways-to-protect-your-facebook-account-from-getting-hacked-g52p34ox)
 ![](https://cdn.hackernoon.com/images/dHj8eLmBbcfeq3hLpwxqrTeyVj82-ch4933em.jpeg)
 If you're wondering how to stop Facebook hackers, here are 5 easy ways to do so. This guide is beginner-friendly and all discussed methods are free.
 
-### [126. Ockam and Redpanda Team Up: Launching the World's First Zero-Trust Streaming Data Platform](https://hackernoon.com/ockam-and-redpanda-team-up-launching-the-worlds-first-zero-trust-streaming-data-platform)
+### [127. Ockam and Redpanda Team Up: Launching the World's First Zero-Trust Streaming Data Platform](https://hackernoon.com/ockam-and-redpanda-team-up-launching-the-worlds-first-zero-trust-streaming-data-platform)
 ![](https://cdn.hackernoon.com/images/46r7B36ZH3SbJMt0oevk5FjrjTH2-ey8319j.jpeg)
 Ockam teamed up with Redpanda to launch Redpanda Connect with Ockam: the first zero-trust streaming data platform. 
 
-### [127. Finding Digital Crimes by Exploring Master File Table (MFT) Records](https://hackernoon.com/finding-digital-crimes-by-exploring-master-file-table-mft-records)
+### [128. Finding Digital Crimes by Exploring Master File Table (MFT) Records](https://hackernoon.com/finding-digital-crimes-by-exploring-master-file-table-mft-records)
 ![](https://cdn.hackernoon.com/images/sEiTHnmTGDdab0qMfHtb54LxcMe2-n7x3kf9.jpeg)
 To explore the MFT records, learn how to locate date and time values in the metadata of a file we create.
 
-### [128. Risk Assessment Vs Vulnerability Assessment: Which Assessment Should You Conduct?](https://hackernoon.com/risk-assessment-vs-vulnerability-assessment-which-assessment-should-you-conduct-xl4i35la)
+### [129. Risk Assessment Vs Vulnerability Assessment: Which Assessment Should You Conduct?](https://hackernoon.com/risk-assessment-vs-vulnerability-assessment-which-assessment-should-you-conduct-xl4i35la)
 ![](https://cdn.hackernoon.com/images/YwUa5RhftmY6pRDT1rzSKMT0bvP2-bo1o341d.jpeg)
 In this blog, we will discuss the different aspects of risk assessment and vulnerability assessment.
 
-### [129. Sektor7 - Malware Development Essentials Course Criticism: Proving an Alternative.](https://hackernoon.com/malware-development-essentials-course-post-curriculum-criticism-proving-an-alternative)
+### [130. Sektor7 - Malware Development Essentials Course Criticism: Proving an Alternative.](https://hackernoon.com/malware-development-essentials-course-post-curriculum-criticism-proving-an-alternative)
 ![](https://cdn.hackernoon.com/images/UCTxNLKvJrYkJsyANsu1SgNAKky2-6c82tm1.jpeg)
 Honest critique on RED TEAM's content, format, and price with alternative, quality resources shared for comprehensive learning
 
-### [130. The Dangers of DeepFake Technology: Exploring the Potential Risks of AI-Generated Videos and Images](https://hackernoon.com/the-dangers-of-deepfake-technology-exploring-the-potential-risks-of-ai-generated-videos-and-images)
+### [131. The Dangers of DeepFake Technology: Exploring the Potential Risks of AI-Generated Videos and Images](https://hackernoon.com/the-dangers-of-deepfake-technology-exploring-the-potential-risks-of-ai-generated-videos-and-images)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-om93qbg.jpeg)
 As much as there may be some positives to deepfake technology, the negatives easily overwhelm the positives in our growing society.
 
-### [131. Hiding Your API Credentials Client Side Using a Proxy Server in React](https://hackernoon.com/hiding-your-api-credentials-client-side-using-a-proxy-server-in-react)
+### [132. Hiding Your API Credentials Client Side Using a Proxy Server in React](https://hackernoon.com/hiding-your-api-credentials-client-side-using-a-proxy-server-in-react)
 ![](https://cdn.hackernoon.com/images/MIq3LAf1OoPW35o7MBmd2s51rcB3-9v93tiu.jpeg)
 When you're writing client-side code to make API requests, you might need a Proxy Server to hide your API Credentials. Let's see how to do this for React apps.
 
-### [132. A Guide to Multi-Party Computation (MPC)](https://hackernoon.com/a-guide-to-multi-party-computation-mpc)
+### [133. A Guide to Multi-Party Computation (MPC)](https://hackernoon.com/a-guide-to-multi-party-computation-mpc)
 ![](https://cdn.hackernoon.com/images/nFGMPDaUJhN2rZiFEyVXNSMVezD3-bl93r9v.jpeg)
 A look at blockchain security innovations for safe and efficient wallets, with a hands-on Python demo.
-
-### [133. AI-Powered Healthcare: Bridging the Personnel Gap](https://hackernoon.com/ai-powered-healthcare-bridging-the-personnel-gap)
-![](https://cdn.hackernoon.com/images/Iqinx7DpeqWKHYOch1C8qGYMqCB2-mk935j7.jpeg)
-The healthcare industry has been grappling with a severe shortage of personnel...
 
 ### [134. What is Broken Access Control and Why Should You Care?](https://hackernoon.com/what-is-broken-access-control-and-why-should-you-care)
 ![](https://cdn.hackernoon.com/images/Kn4L5zAqVCbBAjaF4YFFibdTXsv2-xg93j7h.jpeg)
 With broken access control being one of the most prevalent weaknesses for web applications, it’s important to not only understand it, but to prevent it also.
 
-### [135. Anyone Can Be a Victim to a Phishing Scam. Here’s My Story.](https://hackernoon.com/anyone-can-be-a-victim-to-a-phishing-scam-heres-mine)
-![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-ea23dov.png)
-Got a call from 888-373-1969 claiming to be the Chase fraud department? Trust but verify should be your principle to avoid phishing scam!
+### [135. AI-Powered Healthcare: Bridging the Personnel Gap](https://hackernoon.com/ai-powered-healthcare-bridging-the-personnel-gap)
+![](https://cdn.hackernoon.com/images/Iqinx7DpeqWKHYOch1C8qGYMqCB2-mk935j7.jpeg)
+The healthcare industry has been grappling with a severe shortage of personnel...
 
 ### [136. Life360 Potentially Leaves Its Users’ Sensitive Data at Risk](https://hackernoon.com/life360-potentially-leaves-its-users-sensitive-data-at-risk)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-ki92hek.jpeg)
@@ -566,611 +568,610 @@ In my latest article about “The Rise Of Zero Trust Architecture”, I wrote ab
 ![](https://cdn.hackernoon.com/images/3ekWsCeO1kdRGmVf14agmlnXJBx2-h9w33hq.jpeg)
 A survey shows that 90% of employers consider your social media activity when hiring and a whopping 79% of HR have rejected a candidate because of social media.
 
-### [141. How I Accepted a OSINT Geolocation Challenge, and Won](https://hackernoon.com/how-i-accepted-a-osint-geolocation-challenge-and-won)
+### [141. Free VPNs vs Paid VPNs: What Are You Actually Paying For?](https://hackernoon.com/free-vpns-vs-paid-vpns-what-are-you-actually-paying-for)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-n203bku.png)
+Free VPNs aren't free.
+
+### [142. How I Accepted a OSINT Geolocation Challenge, and Won](https://hackernoon.com/how-i-accepted-a-osint-geolocation-challenge-and-won)
 ![](https://cdn.hackernoon.com/images/1yeuFftUzKRT5YTxuVLPKYa7Uep2-84a306i.jpeg)
 Using OSINT Geolocation tools to locate a physical location from a photograph.
 
-### [142. You're Never Fully Protected Using iMessage](https://hackernoon.com/youre-never-fully-protected-using-imessage)
+### [143. You're Never Fully Protected Using iMessage](https://hackernoon.com/youre-never-fully-protected-using-imessage)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-ud034xq.jpeg)
 This time, I would like to take a closer look at another popular messaging platform — Apple iMessage.
 
-### [143. A Quick Guide to Burner Emails](https://hackernoon.com/a-quick-guide-to-burner-emails)
+### [144. A Quick Guide to Burner Emails](https://hackernoon.com/a-quick-guide-to-burner-emails)
 ![](https://cdn.hackernoon.com/images/an-email-on-fire-clhg4q89h000101s6h5s1372c.png)
 Discover the benefits of burner emails for enhanced privacy and security. Learn about use cases, best online safety practices, and the EmailOnDeck extension.
 
-### [144. I Tried Hacking a Bluetooth Speaker - Here's What Happened Next](https://hackernoon.com/i-tried-hacking-a-bluetooth-speaker-heres-what-happened-next)
+### [145. I Tried Hacking a Bluetooth Speaker - Here's What Happened Next](https://hackernoon.com/i-tried-hacking-a-bluetooth-speaker-heres-what-happened-next)
 ![](https://cdn.hackernoon.com/images/BugaLC6k6haVzqRw5mELajiQSkZ2-xvb3t2q.jpeg)
 In this article, we’ll attempt to hack a Bluetooth speaker using my knowledge of CyberSecurity. 
 
-### [145. EC-Council to Combat AI Chasm: Free Cyber AI Toolkit for Certified Members](https://hackernoon.com/ec-council-to-combat-ai-chasm-free-cyber-ai-toolkit-for-certified-members)
+### [146. EC-Council to Combat AI Chasm: Free Cyber AI Toolkit for Certified Members](https://hackernoon.com/ec-council-to-combat-ai-chasm-free-cyber-ai-toolkit-for-certified-members)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-z283y9u.jpeg)
 EC-Council introduces a first-of-its-kind Cyber AI Toolkit free for all of its certified members.
 
-### [146. Command and Control Frameworks in a Nutshell](https://hackernoon.com/command-and-control-frameworks-in-a-nutshell)
+### [147. Command and Control Frameworks in a Nutshell](https://hackernoon.com/command-and-control-frameworks-in-a-nutshell)
 ![](https://cdn.hackernoon.com/images/bYnj8YlSMrbGYYve1iskmRSuqXg1-aua2dhd.jpeg)
 A glimpse over Command and Control attacks and frameworks, how they happen, and how they can affect our daily lives.
 
-### [147. "Embeddings Aren't Human Readable" And Other Nonsense](https://hackernoon.com/embeddings-arent-human-readable-and-other-nonsense)
+### [148. "Embeddings Aren't Human Readable" And Other Nonsense](https://hackernoon.com/embeddings-arent-human-readable-and-other-nonsense)
 ![](https://cdn.hackernoon.com/images/coteptM8upSZAg9yqoitx9fC4Fu1-v2f33a2.jpeg)
 The research and breakthroughs in embedding inversion attacks make it clear that embeddings are, in fact, reversible back into forms that are fully human readab
 
-### [148. How Biometrics Reshape Payments Worldwide](https://hackernoon.com/how-biometrics-reshape-payments-worldwide)
+### [149. ClickFix Attacks Are Targeting VC and Fintech Talent with New Multi-Stage Loader Techniques](https://hackernoon.com/clickfix-attacks-are-targeting-vc-and-fintech-talent-with-new-multi-stage-loader-techniques)
+![](https://cdn.hackernoon.com/images/l7noBCUFwmcERrcGKL5jHUS0UcV2-vuk3f0j.png)
+New ClickFix attacks target crypto pros via fake LinkedIn job offers. Learn how multi-stage loaders steal assets and how to protect yourself from these threats.
+
+### [150. How Biometrics Reshape Payments Worldwide](https://hackernoon.com/how-biometrics-reshape-payments-worldwide)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-vx92hat.jpeg)
 The applications for biometric recognition are numerous, but in this article, I’ll specifically look into one—bio-acquiring, or biometrics-enabled payments.
 
-### [149. How to Implement JSON Web Token (JWT) in Java Spring Boot](https://hackernoon.com/how-to-implement-json-web-token-jwt-in-java-spring-boot)
-![](https://cdn.hackernoon.com/images/WnT4onrLDxWJByyjiz9SY4adyu73-jz93n7k.jpeg)
-JSON Web Token or JWT has been popular as a way to communicate securely between services. 
-
-### [150. The Lowdown on Udacity's Intro to Cybersecurity Nanodegree ](https://hackernoon.com/the-lowdown-on-udacitys-intro-to-cybersecurity-nanodegree-qw4033pt)
-![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-bd3833to.jpeg)
-This online Nanodegree program with provide you with a strong foundation in cybersecurity skills and workplace-relevant knowledge.
-
-### [151. What Is the GIAC Penetration Tester (GPEN) Certification?](https://hackernoon.com/what-is-the-giac-penetration-tester-gpen-certification)
-![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-0qb3ray.jpeg)
-You need to ensure your resources are put to the best use. With that in mind, it is important to know more about what the GIAC Penetration Tester Certification 
-
-### [152. Never Rely on UUID for Authentication: Generation Vulnerabilities and Best Practices](https://hackernoon.com/never-rely-on-uuid-for-authentication-generation-vulnerabilities-and-best-practices)
+### [151. Never Rely on UUID for Authentication: Generation Vulnerabilities and Best Practices](https://hackernoon.com/never-rely-on-uuid-for-authentication-generation-vulnerabilities-and-best-practices)
 ![](https://cdn.hackernoon.com/images/JECMb0xYBnNikyLdzDenj2nyz8w2-ds83ei2.jpeg)
 The risks and best practices of using UUIDs for authentication, uncovering vulnerabilities, and secure implementation strategies.
 
-### [153. How to Prevent Juice Jacking](https://hackernoon.com/how-to-prevent-juice-jacking)
+### [152. How to Implement JSON Web Token (JWT) in Java Spring Boot](https://hackernoon.com/how-to-implement-json-web-token-jwt-in-java-spring-boot)
+![](https://cdn.hackernoon.com/images/WnT4onrLDxWJByyjiz9SY4adyu73-jz93n7k.jpeg)
+JSON Web Token or JWT has been popular as a way to communicate securely between services. 
+
+### [153. The Lowdown on Udacity's Intro to Cybersecurity Nanodegree ](https://hackernoon.com/the-lowdown-on-udacitys-intro-to-cybersecurity-nanodegree-qw4033pt)
+![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-bd3833to.jpeg)
+This online Nanodegree program with provide you with a strong foundation in cybersecurity skills and workplace-relevant knowledge.
+
+### [154. What Is the GIAC Penetration Tester (GPEN) Certification?](https://hackernoon.com/what-is-the-giac-penetration-tester-gpen-certification)
+![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-0qb3ray.jpeg)
+You need to ensure your resources are put to the best use. With that in mind, it is important to know more about what the GIAC Penetration Tester Certification 
+
+### [155. How to Prevent Juice Jacking](https://hackernoon.com/how-to-prevent-juice-jacking)
 ![](https://cdn.hackernoon.com/images/hlgHsl0PVrQ1u37JtyYe54hxBZi2-cqc3ofw.jpeg)
 Juice jacking occurs when a hacker has infected a USB port with some form of malware or other harmful software. 
 
-### [154. 5 Negative Behavioral Effects of Cyber Security on Organization](https://hackernoon.com/cyber-security-i02g35t1)
+### [156. 5 Negative Behavioral Effects of Cyber Security on Organization](https://hackernoon.com/cyber-security-i02g35t1)
 ![](drafts/nz26r32lb.png)
 The effect of individual behavior on cyber-security is essential to the safety and protection of information or data in corporate organizations, government, financial institutions, and all other organizations you can imagine. The risk of breaching has a negative effect and has severe consequences.
 
-### [155. How I Solved the Passman CTF Challenge with GPT-4](https://hackernoon.com/how-i-solved-the-passman-ctf-challenge-with-gpt-4)
+### [157. How I Solved the Passman CTF Challenge with GPT-4](https://hackernoon.com/how-i-solved-the-passman-ctf-challenge-with-gpt-4)
 ![](https://cdn.hackernoon.com/images/Xqr4CUe3DYeURV7orh73yMqsUxI2-69935ca.jpeg)
 Discover how Chat GPT-4, an AI chatbot, helped crack the Passman challenge in Hack The Box's Cyber Apocalypse event. Ethical hacking meets AI power!
 
-### [156. How to Set Up Portable VirtualBox With Kali Linux](https://hackernoon.com/how-to-set-up-portable-virtualbox-with-kali-linux-pb1535iq)
+### [158. How to Set Up Portable VirtualBox With Kali Linux](https://hackernoon.com/how-to-set-up-portable-virtualbox-with-kali-linux-pb1535iq)
 ![](https://hackernoon.com/images/x7oAbeUtx1YeP5GIalmxyzfySdx2-ed4u32w3.jpeg)
 This a short tutorial on setting up Portable Virtualbox with Kali Linux.
 
-### [157. Jailbreaking an iPhone: Everything You Need to Know](https://hackernoon.com/jailbreaking-an-iphone-everything-you-need-to-know-f5w37m8)
+### [159. Jailbreaking an iPhone: Everything You Need to Know](https://hackernoon.com/jailbreaking-an-iphone-everything-you-need-to-know-f5w37m8)
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-wok335ex.jpeg)
 Do you want more control of your iPhone? Then Jailbreak it. This is everything you need to know to jailbreak your device and the security risks you may face.
 
-### [158. Semantic Data Extraction, Red Teaming, Guardrails, and Shadow AI, Oh My! AI’s Role in Security](https://hackernoon.com/generative-ais-double-edged-sword-unlocking-potential-while-mitigating-risks)
+### [160. Semantic Data Extraction, Red Teaming, Guardrails, and Shadow AI, Oh My! AI’s Role in Security](https://hackernoon.com/generative-ais-double-edged-sword-unlocking-potential-while-mitigating-risks)
 ![](https://cdn.hackernoon.com/images/RKTLEm9j7uOHx7cVmUoVrR8NhLN2-yy134yf.png)
 Generative AI boosts efficiency but introduces security risks like shadow AI, vulnerabilities, and data leaks. Learn how AI can secure AI-driven development.
 
-### [159. Identity and Access Management - IGA, IAM, and PAM Explained](https://hackernoon.com/identity-and-access-management-iga-iam-and-pam-explained)
+### [161. Identity and Access Management - IGA, IAM, and PAM Explained](https://hackernoon.com/identity-and-access-management-iga-iam-and-pam-explained)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-ou034m5.png)
 Identity is becoming less of a tool and more of a strategic framework to secure digital assets and protect data privacy.
 
-### [160. What is Credit Card Skimming and How Do You Prevent it?](https://hackernoon.com/what-is-credit-card-skimming-and-how-do-you-prevent-it)
-![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-a893o64.jpeg)
-This story describes what credit card skimming is and how to prevent it. 
-
-### [161. DNS Queries Explained](https://hackernoon.com/dns-queries-explained-lj523tiu)
+### [162. DNS Queries Explained](https://hackernoon.com/dns-queries-explained-lj523tiu)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FygJ42V6WkCbNgJHwyYf3nUtk5iX2-7f43wpt.jpeg?alt=media&token=a45ca857-537b-4ec7-ac02-0e92a0d6b197)
 DNS is a topic often considered difficult to understand, but the basic workings are actually not hard to grasp. The first fundamental point to grasp is that every domain in existence is linked to an Internet Protocol (IP) address. 
 
-### [162. Deepfake Phishing Grew by 3,000% in 2023 — And It's Just Beginning](https://hackernoon.com/deepfake-phishing-grew-by-3000percent-in-2023-and-its-just-beginning)
+### [163. What is Credit Card Skimming and How Do You Prevent it?](https://hackernoon.com/what-is-credit-card-skimming-and-how-do-you-prevent-it)
+![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-a893o64.jpeg)
+This story describes what credit card skimming is and how to prevent it. 
+
+### [164. Deepfake Phishing Grew by 3,000% in 2023 — And It's Just Beginning](https://hackernoon.com/deepfake-phishing-grew-by-3000percent-in-2023-and-its-just-beginning)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-fm8309x.jpeg)
 Deepfake phishing attempts are growing at an alarming rate, with no sign of slowing down. Here's how you can defend against deepfake phishing attacks.
 
-### [163. Phishing 101: A Beginner's Guide on Phishing Attacks](https://hackernoon.com/phishing-101-a-beginners-guide-on-phishing-attacks)
+### [165. Phishing 101: A Beginner's Guide on Phishing Attacks](https://hackernoon.com/phishing-101-a-beginners-guide-on-phishing-attacks)
 ![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-szb2gj5.jpeg)
 You receive an email asking for your bank details or credit card information. It's urgent, but read this so that you do not become a victim of phishing.
 
-### [164. AI Apocalypse: What Happens When Artificial Intelligence Goes Rogue?](https://hackernoon.com/ai-apocalypse-what-happens-when-artificial-intelligence-goes-rogue)
+### [166. AI Apocalypse: What Happens When Artificial Intelligence Goes Rogue?](https://hackernoon.com/ai-apocalypse-what-happens-when-artificial-intelligence-goes-rogue)
 ![](https://cdn.hackernoon.com/images/BMFkjCZVXbN1RN1TP5kWzwRB3Cu2-dj93rum.jpeg)
 Artificial intelligence is rapidly becoming an integral part of modern society. This article addresses growing concerns about what happens when AI malfunctions.
 
-### [165. Seven things that slow down your VPN and What You Can Do About It](https://hackernoon.com/seven-things-that-can-slow-down-your-vpn-e71f3232)
+### [167. Seven things that slow down your VPN and What You Can Do About It](https://hackernoon.com/seven-things-that-can-slow-down-your-vpn-e71f3232)
 ![](https://cdn.hackernoon.com/images/su6n3220.jpg)
 Those accustomed to Virtual Private Networks probably know what a painful experience is slow connection speed. Paradoxically, VPNs are the #1 go-to software when talking about torrenting (where speed matters a lot), yet, due to their technicality, some sort of a speed drop is inevitable.
 
-### [166. How Much Does the CEH Exam Cost?](https://hackernoon.com/how-much-does-the-ceh-exam-cost-pn4034kj)
+### [168. How Much Does the CEH Exam Cost?](https://hackernoon.com/how-much-does-the-ceh-exam-cost-pn4034kj)
 ![](https://cdn.hackernoon.com/images/EZ56ykcDa6eoHa8EsmfPsUnJ1ai1-488316o.jpeg)
 EC-Council’s Certified Ethical Hacker (CEH) is one of the most established and recognized offensive security certifications. The certification is ANSI-accredited and DoDD 8140-approved because of which the certification in highly valued by security professionals from both the public and private sectors. Since CEH is the gold standard for validating offensive security skills, the CEH certification cost is around $1,199 and the cost to retake the exam is $450.  This article will cover the various processes you have to go through to earn this certification as well as the associated costs. 
 
-### [167. How to Build-in Security as a SaaS Feature: A Guide](https://hackernoon.com/how-to-build-in-security-as-a-saas-feature-a-guide)
+### [169. How to Build-in Security as a SaaS Feature: A Guide](https://hackernoon.com/how-to-build-in-security-as-a-saas-feature-a-guide)
 ![](https://cdn.hackernoon.com/images/46r7B36ZH3SbJMt0oevk5FjrjTH2-o3g301a.png)
 
 
-### [168. What is a Self Destruct Attack in Smart Contracts and How to Prevent Them? 🚨🛡️](https://hackernoon.com/what-is-a-self-destruct-attack-in-smart-contracts-and-how-to-prevent-them)
+### [170. What is a Self Destruct Attack in Smart Contracts and How to Prevent Them? 🚨🛡️](https://hackernoon.com/what-is-a-self-destruct-attack-in-smart-contracts-and-how-to-prevent-them)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1r83lv1.jpeg)
 Uncover smart contract vulnerabilities like self-destruct attacks & how to fortify against them. Dive into security measures for safer blockchain code!
 
-### [169. Black Hat Hacking Forums Get Hacked: Possibly a LulzSec Attack](https://hackernoon.com/black-hat-hacking-forums-get-hacked-possibly-a-lulzsec-attack-2z3a36vr)
+### [171. Black Hat Hacking Forums Get Hacked: Possibly a LulzSec Attack](https://hackernoon.com/black-hat-hacking-forums-get-hacked-possibly-a-lulzsec-attack-2z3a36vr)
 ![](https://cdn.hackernoon.com/drafts/fe2o36z3.png)
 Presently, the world of black hat forums appears to be engulfed in a series of cyberattacks. According to a Telegram channel, on 18th June 2019 it was reported that three leading black hat hacking forums were reportedly exploited, affecting an aggregate of over 260,000 hackers. From the disclosed data, it appears as though the creator of the aforementioned Telegram Channel has access to certain Ukrainian police files which may have led to the leak.
 
-### [170. It's in Your Memory! Memory Forensics in Android](https://hackernoon.com/its-in-your-memory-memory-forensics-in-android-d0103eyl)
+### [172. It's in Your Memory! Memory Forensics in Android](https://hackernoon.com/its-in-your-memory-memory-forensics-in-android-d0103eyl)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFmTsksb9GKgyE1gsS7okfkihN683-ki543tnj.jpeg?alt=media&token=89e09c3a-0139-4dba-ab98-975ac5f4aa6a)
 The numerous fascinating concepts I have learned in past several weeks, needed to be captured. One of them has been memory forensics.
 
-### [171. 12 Red Flags to Look Out For to Avoid Getting Scammed on Facebook Marketplace](https://hackernoon.com/12-red-flags-to-look-out-for-to-avoid-getting-scammed-on-facebook-marketplace)
+### [173. 12 Red Flags to Look Out For to Avoid Getting Scammed on Facebook Marketplace](https://hackernoon.com/12-red-flags-to-look-out-for-to-avoid-getting-scammed-on-facebook-marketplace)
 ![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-oa92hx0.jpeg)
 We have put together this guide to help you avoid getting scammed. There are several red flags buyers and sellers should be mindful of when shopping.
 
-### [172. Do You Need to Hire a Fraud Specialist?](https://hackernoon.com/do-you-need-to-hire-a-fraud-specialist)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-1u93p8e.gif.webp)
-Learn why fraud prevention & cybersecurity matter, the role of a fraud specialist, challenges for business analysts transitioning, and need for SQL skills.
-
-### [173. AppSec: SecDevOps or DevSecOps? Do We Need to Choose? Guide to the What and the Why](https://hackernoon.com/appsec-secdevops-or-devsecops-do-we-need-to-choose-guide-to-the-what-and-the-why)
+### [174. AppSec: SecDevOps or DevSecOps? Do We Need to Choose? Guide to the What and the Why](https://hackernoon.com/appsec-secdevops-or-devsecops-do-we-need-to-choose-guide-to-the-what-and-the-why)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-f2928fv.jpeg)
 The talks emerging around DevSecOps and SecDevOps, define and differentiate the other. While the overall goal may be the same, they are different in practice.
 
-### [174. It’s time for cybersecurity degree programs to get more hands-on](https://hackernoon.com/its-time-for-cybersecurity-degree-programs-to-get-more-hands-on-c31w35rj)
-![](https://cdn.hackernoon.com/images/PsoQTdwgpEb7lovzJcA35w3Xjuz1-rso352z.jpeg)
-Too often, employers find that recent college grads with cybersecurity and IT degrees lack practical skills. It's time to make the curriculum more hands-on.
+### [175. Do You Need to Hire a Fraud Specialist?](https://hackernoon.com/do-you-need-to-hire-a-fraud-specialist)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-1u93p8e.gif.webp)
+Learn why fraud prevention & cybersecurity matter, the role of a fraud specialist, challenges for business analysts transitioning, and need for SQL skills.
 
-### [175. Crypto Wallets Exposed "Mnemonic Phrase Vulnerabilities" (4 Already Fixed)](https://hackernoon.com/crypto-wallets-exposed-mnemonic-phrase-vulnerabilities-4-already-fixed)
+### [176. Crypto Wallets Exposed "Mnemonic Phrase Vulnerabilities" (4 Already Fixed)](https://hackernoon.com/crypto-wallets-exposed-mnemonic-phrase-vulnerabilities-4-already-fixed)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-4c93krk.jpeg)
 MetaMask and Phantom said today that they had patched a security flaw that could, in some cases, allow attackers to obtain mnemonic phrases.
 
-### [176. How To Analyse and Visualize DMARC Reports using Open-Source Tools](https://hackernoon.com/how-to-analyse-and-visualize-dmarc-reports-using-open-source-tools-gnbx3ymy)
+### [177. It’s time for cybersecurity degree programs to get more hands-on](https://hackernoon.com/its-time-for-cybersecurity-degree-programs-to-get-more-hands-on-c31w35rj)
+![](https://cdn.hackernoon.com/images/PsoQTdwgpEb7lovzJcA35w3Xjuz1-rso352z.jpeg)
+Too often, employers find that recent college grads with cybersecurity and IT degrees lack practical skills. It's time to make the curriculum more hands-on.
+
+### [178. How To Analyse and Visualize DMARC Reports using Open-Source Tools](https://hackernoon.com/how-to-analyse-and-visualize-dmarc-reports-using-open-source-tools-gnbx3ymy)
 ![](https://cdn.hackernoon.com/images/eue23yhg.jpg)
 Sending mail might sound easy, but to avoid getting your mail caught in spam filters, and to prevent others from sending spoofed email in your name, you need to employ different preventive methods. One such method is DMARC, which allows domain administrators to apply policies with regard to email authentication. You also have the possibility to get reports sent to you with the results of the applied policy.
 
 
-### [177. OWASP Top 14 Security Practices For Software Developers](https://hackernoon.com/owasp-top-14-security-practices-for-software-developers-c81c312j)
+### [179. OWASP Top 14 Security Practices For Software Developers](https://hackernoon.com/owasp-top-14-security-practices-for-software-developers-c81c312j)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-h5m31q7.jpeg)
 ★ The objective of this guide is to provide a comprehensive review of the security principles with limited scope in terms of information. The primary goal of the software developing team is to use the available information resource to provide and build secure applications for your business and software operations. It could be obtained through the industry-standard implementation of security controls.
 
-### [178. Sia Proposes ‘Supreme Privacy’ Framework to Address Cloud Data Access Vulnerabilities](https://hackernoon.com/sia-proposes-supreme-privacy-framework-to-address-cloud-data-access-vulnerabilities)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-zx02w7e.png)
-Sia offers Supreme Privacy, a model where your data is encrypted, sharded, and stored in such a way that no one but you can access it.
-
-### [179. Adversarial Machine Learning: A Beginner’s Guide to Adversarial Attacks and Defenses](https://hackernoon.com/adversarial-machine-learning-a-beginners-guide-to-adversarial-attacks-and-defenses)
+### [180. Adversarial Machine Learning: A Beginner’s Guide to Adversarial Attacks and Defenses](https://hackernoon.com/adversarial-machine-learning-a-beginners-guide-to-adversarial-attacks-and-defenses)
 ![](https://cdn.hackernoon.com/images/5Ses7KAuiTgK5XYYSGgARBMDpKc2-so037ry.jpeg)
 Learn what's adversarial machine learning, how adversarial attacks work, and ways to defend them.
 
-### [180. Data Breach: What Tesla’s Biggest Insider Threat in 2023 Can Teach Us Going Into 2024](https://hackernoon.com/data-breach-what-teslas-biggest-insider-threat-in-2023-can-teach-us-going-into-2024)
+### [181. Sia Proposes ‘Supreme Privacy’ Framework to Address Cloud Data Access Vulnerabilities](https://hackernoon.com/sia-proposes-supreme-privacy-framework-to-address-cloud-data-access-vulnerabilities)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-zx02w7e.png)
+Sia offers Supreme Privacy, a model where your data is encrypted, sharded, and stored in such a way that no one but you can access it.
+
+### [182. Data Breach: What Tesla’s Biggest Insider Threat in 2023 Can Teach Us Going Into 2024](https://hackernoon.com/data-breach-what-teslas-biggest-insider-threat-in-2023-can-teach-us-going-into-2024)
 ![](https://cdn.hackernoon.com/images/LLrvCNDh4wV2AnDSX99Cw4LuBHV2-qf83x0s.jpeg)
 While the leak is interesting in itself, in this article, we are going to look at the role of fostering loyal employees.
 
-### [181. 7 Steps to a Winning Cloud Migration Strategy](https://hackernoon.com/7-steps-to-a-winning-cloud-migration-strategy-wtem38ka)
+### [183. 7 Steps to a Winning Cloud Migration Strategy](https://hackernoon.com/7-steps-to-a-winning-cloud-migration-strategy-wtem38ka)
 ![](https://cdn.hackernoon.com/drafts/sj4k383q.png)
 Cloud computing has revolutionized IT since the 2000’s, and this revolution is far from over. Formerly, organizations would host their data on-premise as that was the only option available, but with the advancement in technology, and fast-changing business demands, cloud-based solutions started turning out to be a more flexible and powerful option for organizations. There is a mass migration underway to adopt cloud infrastructure and avoid the hassles and operational costs of managing infrastructure in-house. 
 
-### [182. OWASP Top 10 .NET Protection: A Guide (Part 1)](https://hackernoon.com/owasp-top-10-net-protection-a-guide-part-1-w92r3wis)
+### [184. OWASP Top 10 .NET Protection: A Guide (Part 1)](https://hackernoon.com/owasp-top-10-net-protection-a-guide-part-1-w92r3wis)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOujWaQx7FhMxIORYNRgWYZuh1kb2-p8fm3xmw.jpeg?alt=media&token=7c33e06a-e273-4ec7-8527-dbbbba208d24)
 The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
 
 In this article, I want to cover the first part of the TOP 10 vulnerabilities and how to protect against them using .NET.
 
-### [183. Should You Disable Autofill? - Here's How to Protect Your Passwords](https://hackernoon.com/should-you-disable-autofill-heres-how-to-protect-your-passwords-s1q37ve)
+### [185. Should You Disable Autofill? - Here's How to Protect Your Passwords](https://hackernoon.com/should-you-disable-autofill-heres-how-to-protect-your-passwords-s1q37ve)
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-lqf35an.jpeg)
 Password managers are beneficial to have but the autofill feature can be exploited by hackers. You should disable autofill on your browser to protect your data.
 
-### [184. Why Startups aren't Using Ethereum](https://hackernoon.com/why-startups-arent-using-ethereum)
+### [186. Why Startups aren't Using Ethereum](https://hackernoon.com/why-startups-arent-using-ethereum)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-is039y3.jpeg)
 This interview talks about the rising ethereum transaction fees, cross-fi staking and cybersecurity for blockchain startups. 
 
-### [185. 9 Essential Factors to Consider Before You Install A Security System](https://hackernoon.com/9-essential-factors-to-consider-before-you-install-a-security-system-pd4h32am)
+### [187. 9 Essential Factors to Consider Before You Install A Security System](https://hackernoon.com/9-essential-factors-to-consider-before-you-install-a-security-system-pd4h32am)
 ![](https://cdn.hackernoon.com/drafts/er17g32nm.png)
 In the US, a burglary happens every 23 seconds on average. This number is even higher in developing countries. 
 
-### [186. What is URL Masking and How Does It Work?](https://hackernoon.com/what-is-url-masking-and-how-does-it-work)
+### [188. What is URL Masking and How Does It Work?](https://hackernoon.com/what-is-url-masking-and-how-does-it-work)
 ![](https://cdn.hackernoon.com/images/4JuiUcXTrfQDSAlZ04ERxAJG3yR2-p623obq.jpeg)
 Be careful of the latest engineering technique called "URL Masking", it's quite dangerous.
 
-### [187. Satellite OSINT: Space-Based Intelligence in Aerospace Cybersecurity](https://hackernoon.com/satellite-osint-space-based-intelligence-in-aerospace-cybersecurity)
+### [189. Satellite OSINT: Space-Based Intelligence in Aerospace Cybersecurity](https://hackernoon.com/satellite-osint-space-based-intelligence-in-aerospace-cybersecurity)
 ![](https://cdn.hackernoon.com/images/QuyLE6mSm2VUiK1FsYQjwRCdYVT2-04k3ktk.jpeg)
 Employ a cybersecurity technique known as OSINT to perform reconnaissance on satellites to retrieve useful telemetry data.
 
-### [188. Why Hackers Aren't Stopped by Account Lockouts](https://hackernoon.com/why-hackers-arent-stopped-by-account-lockouts)
+### [190. Why Hackers Aren't Stopped by Account Lockouts](https://hackernoon.com/why-hackers-arent-stopped-by-account-lockouts)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-ry032g0.jpeg)
 If you mess up  your password three times, you may be locked out for several minutes. Why doesn't that stop hackers trying to guess passwords?
-
-### [189. Network Security 101: Everything You Need to Know](https://hackernoon.com/network-security-101-everything-you-need-to-know-t5j3745)
-![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-1lk35oj.jpeg)
-Network Security is Vital. Its purpose is to prevent unauthorized users from accessing an organization's network and devices. It is intended to keep data safe. 
-
-### [190. An Intro to Zero Trust Architecture](https://hackernoon.com/an-intro-to-zero-trust-architecture)
-![](https://cdn.hackernoon.com/images/UkEA3d1xIOSBszOAAVYC6dDVCrF3-r393mtp.jpeg)
-Zero Trust isn’t a new concept. It was first presented in 2009 by John Kindervag, a former principal analyst at Forrester Research.
 
 ### [191. How RAT Mutants, in Python, Steal Data and Evade Detection](https://hackernoon.com/how-rat-mutants-in-python-steal-data-and-evade-detection)
 ![](https://cdn.hackernoon.com/images/jvdLkbFkM4Tyl6GKnooa0qdpIl43-qfd3p50.jpeg)
 Even though malicious Python packages are found every day by our security researchers, a new type of malware we call RAT mutants is catching our attention. 
 
-### [192. What Are the Legal Implications of Paying Ransomware Demands?](https://hackernoon.com/what-are-the-legal-implications-of-paying-ransomware-demands)
+### [192. Network Security 101: Everything You Need to Know](https://hackernoon.com/network-security-101-everything-you-need-to-know-t5j3745)
+![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-1lk35oj.jpeg)
+Network Security is Vital. Its purpose is to prevent unauthorized users from accessing an organization's network and devices. It is intended to keep data safe. 
+
+### [193. An Intro to Zero Trust Architecture](https://hackernoon.com/an-intro-to-zero-trust-architecture)
+![](https://cdn.hackernoon.com/images/UkEA3d1xIOSBszOAAVYC6dDVCrF3-r393mtp.jpeg)
+Zero Trust isn’t a new concept. It was first presented in 2009 by John Kindervag, a former principal analyst at Forrester Research.
+
+### [194. What Are the Legal Implications of Paying Ransomware Demands?](https://hackernoon.com/what-are-the-legal-implications-of-paying-ransomware-demands)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-xja3wga.jpeg)
 Can you get in trouble for paying the ransom during a ransomware attack? Here are all the legal implications of a cyberattack.
 
-### [193. How Do Cyber Criminals Launder Money?](https://hackernoon.com/how-do-cyber-criminals-launder-money)
+### [195. Adversarial Machine Learning and Its Role in Fooling AI](https://hackernoon.com/adversarial-machine-learning-and-its-role-in-fooling-ai-3z4k3447)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-uf1n32bl.jpeg)
+shortly after the launch of Face ID, researchers from Vietnam breached it by a 3D face mask. Such attacks against ML-based AI systems come under adversarial machine learning.
+
+### [196. How Do Cyber Criminals Launder Money?](https://hackernoon.com/how-do-cyber-criminals-launder-money)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-qr93rtf.jpeg)
 After cyber criminals steal or extort money, how do they actually spend it? Here are the ways these criminals clean dirty money.
 
-### [194. Video Chatting Might Lead You to Identity Theft and Scams](https://hackernoon.com/how-to-stay-private-on-video-chat-pc5n2g0y)
+### [197. Video Chatting Might Lead You to Identity Theft and Scams](https://hackernoon.com/how-to-stay-private-on-video-chat-pc5n2g0y)
 ![](https://cdn.hackernoon.com/images/lb1a632o0.jpg)
 One might think that the internet was designed for the consumer to remain anonymous and share their ideas without any censorship. But it isn’t the case anymore, especially since the abrupt commercialization of the technology and the rise of social media, which has paved the way for big corporations and regimes to take note of user data and activity, like never before. 
 
-### [195. How online players can secure their privacy while gaming & streaming?](https://hackernoon.com/how-online-players-can-secure-their-privacy-while-gaming-and-streaming-uskk38rk)
-![](https://cdn.hackernoon.com/drafts/ckjo387g.png)
-Ever wondered what would happen if someone ransacks your Steam account and leaves the inventory empty?
-
-### [196. How to Protect Yourself From Sim Swap Attacks](https://hackernoon.com/how-to-protect-yourself-from-sim-swap-attacks-8sn3uoc)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F57hg4kRJb1UsWAKAbul46qUSHw42-4l4x25fi.jpeg?alt=media&token=c8566f20-3425-4105-834e-8ee997d732cf)
-If they can get Jack Dorsey they can get you… learn the simple ways to protect yourself against Sim Swapping Attacks.
-
-### [197. Business Pros Underestimate AI Risks Compared to Tech Teams, Social Links Study Shows](https://hackernoon.com/business-pros-underestimate-ai-risks-compared-to-tech-teams-social-links-study-shows)
+### [198. Business Pros Underestimate AI Risks Compared to Tech Teams, Social Links Study Shows](https://hackernoon.com/business-pros-underestimate-ai-risks-compared-to-tech-teams-social-links-study-shows)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-s3038vp.png)
 Business Professionals Are Half as Concerned as Technical Teams About AI-Driven Threats, Social Links Report Reveals
 
-### [198. Criminal IP: Enhancing Security Solutions Through AWS Marketplace Integration](https://hackernoon.com/criminal-ip-enhancing-security-solutions-through-aws-marketplace-integration)
-![](https://cdn.hackernoon.com/images/zrmhiGUO5YO0UGWoKCzGMHKsbc63-z08352m.jpeg)
- The interconnected tokens of AWS and Criminal IP seamlessly exchange information, allowing users to leverage both platforms' strengths without encountering dat
+### [199. How to Protect Yourself From Sim Swap Attacks](https://hackernoon.com/how-to-protect-yourself-from-sim-swap-attacks-8sn3uoc)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F57hg4kRJb1UsWAKAbul46qUSHw42-4l4x25fi.jpeg?alt=media&token=c8566f20-3425-4105-834e-8ee997d732cf)
+If they can get Jack Dorsey they can get you… learn the simple ways to protect yourself against Sim Swapping Attacks.
 
-### [199. How Hackers Bypass Multifactor Authentication](https://hackernoon.com/how-hackers-bypass-multifactor-authentication)
-![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-bv93pow.jpeg)
-As strong as multifactor authentication is, it's not perfect. Here's how hackers are bypassing MFA — and what you can do about it.
+### [200. How online players can secure their privacy while gaming & streaming?](https://hackernoon.com/how-online-players-can-secure-their-privacy-while-gaming-and-streaming-uskk38rk)
+![](https://cdn.hackernoon.com/drafts/ckjo387g.png)
+Ever wondered what would happen if someone ransacks your Steam account and leaves the inventory empty?
 
-### [200. What is a DNS Attack and How Can You Protect Against It?](https://hackernoon.com/what-is-a-dns-attack-and-how-can-you-protect-against-it)
-![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-ih0365j.jpeg)
-DNS is a protocol that translates human-friendly URLs into IP addresses and a DNS attack is when a hacker exploits vulnerabilities in the DNS service itself. 
-
-### [201. Pros and Cons of Cybersecurity Automation](https://hackernoon.com/pros-and-cons-of-cybersecurity-automation)
-![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-9ra3qir.jpeg)
-As tech develops, automation is becoming the standard. But can automation be applied to cybersecurity successfully, or is a human touch still needed?
+### [201. How Cybercriminals Are Weaponizing Sound Waves](https://hackernoon.com/how-cybercriminals-are-weaponizing-sound-waves)
+![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-r7833oc.jpeg)
+Cyberattacks aren't just phishing and ransomware; now, cybercriminals are even using sound waves to hijack a device. Here's how it works.
 
 ### [202. How to Protect Your Kindle From Hackers](https://hackernoon.com/protect-your-kindle-from-hackers)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-nc03oo6.jpeg)
 On August 6, 2021, findings of a security flaw in Amazon’s Kindle e-reader were disclosed by Slava Makkaeveev, a researcher from Check Point. You can patch it.
 
-### [203. How to Harden K8S: Based On the  Recent Updated NSA's Kubernetes Hardening Guide](https://hackernoon.com/how-to-harden-k8s-based-on-the-recent-updated-nsas-kubernetes-hardening-guide)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-rsa3ipc.jpeg)
-Recently, NSA updated the Kubernetes Hardening Guide, and thus I would like to share these great resources with you and other best practices on K8S security.
+### [203. Criminal IP: Enhancing Security Solutions Through AWS Marketplace Integration](https://hackernoon.com/criminal-ip-enhancing-security-solutions-through-aws-marketplace-integration)
+![](https://cdn.hackernoon.com/images/zrmhiGUO5YO0UGWoKCzGMHKsbc63-z08352m.jpeg)
+ The interconnected tokens of AWS and Criminal IP seamlessly exchange information, allowing users to leverage both platforms' strengths without encountering dat
 
-### [204. Untangling - IAM Policy, S3 Bucket Policy & S3 ACL](https://hackernoon.com/untangling-iam-policy-s3-bucket-policy-and-s3-acl)
-![](https://cdn.hackernoon.com/images/FmTsksb9GKgyE1gsS7okfkihN683-mp337zt.jpeg)
-Demystify AWS IAM, S3 Bucket policy and Access Control Lists. Learn to configure these from scratch
+### [204. How Hackers Bypass Multifactor Authentication](https://hackernoon.com/how-hackers-bypass-multifactor-authentication)
+![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-bv93pow.jpeg)
+As strong as multifactor authentication is, it's not perfect. Here's how hackers are bypassing MFA — and what you can do about it.
 
-### [205. Launching DDos Attacks Using Various Programs and Methods](https://hackernoon.com/launching-ddos-attacks-using-various-programs-and-methods-6n2a367b)
+### [205. What is a DNS Attack and How Can You Protect Against It?](https://hackernoon.com/what-is-a-dns-attack-and-how-can-you-protect-against-it)
+![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-ih0365j.jpeg)
+DNS is a protocol that translates human-friendly URLs into IP addresses and a DNS attack is when a hacker exploits vulnerabilities in the DNS service itself. 
+
+### [206. Pros and Cons of Cybersecurity Automation](https://hackernoon.com/pros-and-cons-of-cybersecurity-automation)
+![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-9ra3qir.jpeg)
+As tech develops, automation is becoming the standard. But can automation be applied to cybersecurity successfully, or is a human touch still needed?
+
+### [207. Launching DDos Attacks Using Various Programs and Methods](https://hackernoon.com/launching-ddos-attacks-using-various-programs-and-methods-6n2a367b)
 ![](https://cdn.hackernoon.com/images/x7oAbeUtx1YeP5GIalmxyzfySdx2-th34340g.gif)
 DDoS attack or Distributed Denial of Service attack is an attack aiming to destroy the service of a website by crashing its server by sending a lot of packets and requests to the server. The hackers usually use tools like the low orbit ion cannon, ping of death, SYN flood, HTTP flood & more. 
 
-### [206. Working with Salesforce APIs? Of CORS!](https://hackernoon.com/working-with-salesforce-apis-of-cors)
+### [208. Untangling - IAM Policy, S3 Bucket Policy & S3 ACL](https://hackernoon.com/untangling-iam-policy-s3-bucket-policy-and-s3-acl)
+![](https://cdn.hackernoon.com/images/FmTsksb9GKgyE1gsS7okfkihN683-mp337zt.jpeg)
+Demystify AWS IAM, S3 Bucket policy and Access Control Lists. Learn to configure these from scratch
+
+### [209. How to Harden K8S: Based On the  Recent Updated NSA's Kubernetes Hardening Guide](https://hackernoon.com/how-to-harden-k8s-based-on-the-recent-updated-nsas-kubernetes-hardening-guide)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-rsa3ipc.jpeg)
+Recently, NSA updated the Kubernetes Hardening Guide, and thus I would like to share these great resources with you and other best practices on K8S security.
+
+### [210. Working with Salesforce APIs? Of CORS!](https://hackernoon.com/working-with-salesforce-apis-of-cors)
 ![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-no93mti.jpeg)
 In this post, we’ll take a closer look at how Cross-Origin Resource Sharing,/CORS, operates. By working with a small Node.js app that interacts with salesforce.
 
-### [207. How Cybercriminals Are Weaponizing Sound Waves](https://hackernoon.com/how-cybercriminals-are-weaponizing-sound-waves)
-![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-r7833oc.jpeg)
-Cyberattacks aren't just phishing and ransomware; now, cybercriminals are even using sound waves to hijack a device. Here's how it works.
-
-### [208. Adversarial Machine Learning and Its Role in Fooling AI](https://hackernoon.com/adversarial-machine-learning-and-its-role-in-fooling-ai-3z4k3447)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-uf1n32bl.jpeg)
-shortly after the launch of Face ID, researchers from Vietnam breached it by a 3D face mask. Such attacks against ML-based AI systems come under adversarial machine learning.
-
-### [209. 5 Popular Hacker Hardware Tools in 2022](https://hackernoon.com/5-popular-hacker-hardware-tools-in-2022)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ks92bxh.jpeg)
-A look at some of the hardware tools that hackers use to access and corrupt your computer.
-
-### [210. A Comprehensive Guide to UAV Digital Forensics With DJI Drones](https://hackernoon.com/a-comprehensive-guide-to-uav-digital-forensics-with-dji-drones)
+### [211. A Comprehensive Guide to UAV Digital Forensics With DJI Drones](https://hackernoon.com/a-comprehensive-guide-to-uav-digital-forensics-with-dji-drones)
 ![](https://cdn.hackernoon.com/images/QuyLE6mSm2VUiK1FsYQjwRCdYVT2-5ny3kuw.png)
 Drone digital forensics is used to investigate UAV crime scenarios. This article researches the best forensics techniques for DJI drones.
 
-### [211. My Experience With LLama2 Both as a Developer and a Hacker](https://hackernoon.com/my-experience-with-llama2-both-as-a-developer-and-a-hacker)
+### [212. 5 Popular Hacker Hardware Tools in 2022](https://hackernoon.com/5-popular-hacker-hardware-tools-in-2022)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ks92bxh.jpeg)
+A look at some of the hardware tools that hackers use to access and corrupt your computer.
+
+### [213. My Experience With LLama2 Both as a Developer and a Hacker](https://hackernoon.com/my-experience-with-llama2-both-as-a-developer-and-a-hacker)
 ![](https://cdn.hackernoon.com/images/x7oAbeUtx1YeP5GIalmxyzfySdx2-t393k40.jpeg)
 Unleash the Power of LLama2: Elevate your AI experience with HackBot! 🚀 Dive into a world where cutting-edge technology meets cybersecurity analysis.
 
-### [212. 5 Top Tech Careers to Consider Studying Towards in 2021](https://hackernoon.com/5-top-tech-careers-to-consider-studying-towards-in-2021-432p313n)
-![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-691j31fz.jpeg)
-Gain entry into IT with knowledge of data science, engineering, cloud computing, cybersecurity, or devops.
-
-### [213. Network Security: Things Most People Don’t Think About](https://hackernoon.com/network-security-things-most-people-dont-think-about)
-![](https://cdn.hackernoon.com/images/125QJTRDxBYOCF63KJz9mn0Vqcg2-tx93ne3.jpeg)
-There are a lot of things most people do not think about that can dramatically increase the level of security on a network
-
-### [214. $275M Research: How was KuCoin, One of the Largest Crypto Exchanges, Hacked?](https://hackernoon.com/dollar275m-research-how-was-kucoin-one-of-the-largest-crypto-exchanges-hacked-jh1i3exb)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkHmjlBgSzubv4ecXBQJFooO88AF2-d9a03trg.jpeg?alt=media&token=d98ed3f9-f526-405a-b3fe-d5711267234f)
-Over the last couple weeks, the hottest crypto market topic was the KuCoin Hack. Hacken Group, the major cryptocurrency exchanges auditor, highly values the need for user awareness of the threats. The issue of preventing such situations is of greater importance at the moment. Therefore, we present the research that was carried out by Hacken specialists. Read the recommendations on what to pay attention to and what to do to avoid such attacks.
-
-### [215. Disinformation-as-a-Service: Content Marketing’s Evil Twin](https://hackernoon.com/disinformation-as-a-service-content-marketings-evil-twin)
+### [214. Disinformation-as-a-Service: Content Marketing’s Evil Twin](https://hackernoon.com/disinformation-as-a-service-content-marketings-evil-twin)
 ![](https://cdn.hackernoon.com/images/3nZg1mO3L1hKsmOFhBFXYNh4Pty2-xia3qjv.jpeg)
 Are you tired of all the BS out there on the internet? It's about to get A LOT worse. Dirt-cheap disinformation-as-a-Service campaigns are a thing now. 
 
-### [216. Using Open Source AWS Amplify JS with Cognito to Secure Angular Apps](https://hackernoon.com/using-open-source-aws-amplify-js-with-cognito-to-secure-angular-apps)
+### [215. 5 Top Tech Careers to Consider Studying Towards in 2021](https://hackernoon.com/5-top-tech-careers-to-consider-studying-towards-in-2021-432p313n)
+![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-691j31fz.jpeg)
+Gain entry into IT with knowledge of data science, engineering, cloud computing, cybersecurity, or devops.
+
+### [216. Network Security: Things Most People Don’t Think About](https://hackernoon.com/network-security-things-most-people-dont-think-about)
+![](https://cdn.hackernoon.com/images/125QJTRDxBYOCF63KJz9mn0Vqcg2-tx93ne3.jpeg)
+There are a lot of things most people do not think about that can dramatically increase the level of security on a network
+
+### [217. $275M Research: How was KuCoin, One of the Largest Crypto Exchanges, Hacked?](https://hackernoon.com/dollar275m-research-how-was-kucoin-one-of-the-largest-crypto-exchanges-hacked-jh1i3exb)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkHmjlBgSzubv4ecXBQJFooO88AF2-d9a03trg.jpeg?alt=media&token=d98ed3f9-f526-405a-b3fe-d5711267234f)
+Over the last couple weeks, the hottest crypto market topic was the KuCoin Hack. Hacken Group, the major cryptocurrency exchanges auditor, highly values the need for user awareness of the threats. The issue of preventing such situations is of greater importance at the moment. Therefore, we present the research that was carried out by Hacken specialists. Read the recommendations on what to pay attention to and what to do to avoid such attacks.
+
+### [218. Using Open Source AWS Amplify JS with Cognito to Secure Angular Apps](https://hackernoon.com/using-open-source-aws-amplify-js-with-cognito-to-secure-angular-apps)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-wl93kqt.jpeg)
 This article shows how to set up the Cognito UserPools JWT authentication flow and how it will integrate with an Angular Web Application. 
 
-### [217. How to Build a Self-Hosted Password Vault: A Step-by-Step Guide](https://hackernoon.com/how-to-build-a-self-hosted-password-vault-a-step-by-step-guide)
+### [219. How to Build a Self-Hosted Password Vault: A Step-by-Step Guide](https://hackernoon.com/how-to-build-a-self-hosted-password-vault-a-step-by-step-guide)
 ![](https://cdn.hackernoon.com/images/BugaLC6k6haVzqRw5mELajiQSkZ2-4f92gcj.jpeg)
 It can be risky to self-host a password vault if a user lacks full security competence and exposes the vault to the internet. 
 
-### [218. How to Protect Your Facebook Account From Being Hacked ](https://hackernoon.com/how-to-protect-your-facebook-account-from-being-hacked)
-![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-ht93s30.jpeg)
-6 ways to protect your Facebook account from being hacked, including how to protect your password, the best privacy settings, and social engineering protection.
+### [220. Ethical Hackers Reveal How to Break Into Any Mobile Device (Legally!)](https://hackernoon.com/ethical-hackers-reveal-how-to-break-into-any-mobile-device-legally)
+![](https://cdn.hackernoon.com/images/qLHsEsYdTzfwRgpBdGL5EA3r9TA2-e903jw7.png)
+A comprehensive guide to mobile penetration testing (pentesting) by Sekurno. Learn essential techniques, tools, and best practices to secure mobile apps
 
-### [219. A Beginner’s Guide to Web3.0 Security](https://hackernoon.com/a-beginners-guide-to-web30-security)
-![](https://cdn.hackernoon.com/images/web-3-and-cybersecurity-cross-together-in-a-matrix-style-theme-around-the-image-use-a-surreal-style-but-with-photo-like-graphics-vg9jvz83vcheb19jjhd939h5.png)
-This article is a comprehensive guide to understanding and preventing Web 3.0 security threats, including common threats and preventative measures.
-
-### [220. Are VPNs Really Safe?](https://hackernoon.com/are-vpns-really-safe)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-fu92axe.jpeg)
-Virtual Private Network (VPN) cloaks your online identity, and shielding your data from prying eyes.
-
-### [221. 20 Data Security Risks Your Company Could Face in 2020](https://hackernoon.com/20-data-security-risks-your-company-could-face-in-2020-uakk32lh)
-![](https://cdn.hackernoon.com/drafts/eo97q32wn.png)
-Today, data security is top of mind for companies, consumers, and regulatory bodies. After years of unfettered participation in the data-driven digital age that was defined by an “anything goes” ethos and a “move fast and break things” mentality, this shifting sentiment is both drastic and welcome.
-
-### [222. How to Hide Credentials in Spring Boot](https://hackernoon.com/how-to-hide-credentials-in-spring-boot)
+### [221. How to Hide Credentials in Spring Boot](https://hackernoon.com/how-to-hide-credentials-in-spring-boot)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-mn92h69.jpeg)
 Use env properties in spring boot to add the environment variables.
 
-### [223. 9 PWA Security Practices to Safeguard From Cyber Threats](https://hackernoon.com/9-pwa-security-practices-to-safeguard-from-cyber-threats)
+### [222. A Beginner’s Guide to Web3.0 Security](https://hackernoon.com/a-beginners-guide-to-web30-security)
+![](https://cdn.hackernoon.com/images/web-3-and-cybersecurity-cross-together-in-a-matrix-style-theme-around-the-image-use-a-surreal-style-but-with-photo-like-graphics-vg9jvz83vcheb19jjhd939h5.png)
+This article is a comprehensive guide to understanding and preventing Web 3.0 security threats, including common threats and preventative measures.
+
+### [223. How to Protect Your Facebook Account From Being Hacked ](https://hackernoon.com/how-to-protect-your-facebook-account-from-being-hacked)
+![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-ht93s30.jpeg)
+6 ways to protect your Facebook account from being hacked, including how to protect your password, the best privacy settings, and social engineering protection.
+
+### [224. Are VPNs Really Safe?](https://hackernoon.com/are-vpns-really-safe)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-fu92axe.jpeg)
+Virtual Private Network (VPN) cloaks your online identity, and shielding your data from prying eyes.
+
+### [225. 20 Data Security Risks Your Company Could Face in 2020](https://hackernoon.com/20-data-security-risks-your-company-could-face-in-2020-uakk32lh)
+![](https://cdn.hackernoon.com/drafts/eo97q32wn.png)
+Today, data security is top of mind for companies, consumers, and regulatory bodies. After years of unfettered participation in the data-driven digital age that was defined by an “anything goes” ethos and a “move fast and break things” mentality, this shifting sentiment is both drastic and welcome.
+
+### [226. 9 PWA Security Practices to Safeguard From Cyber Threats](https://hackernoon.com/9-pwa-security-practices-to-safeguard-from-cyber-threats)
 ![](https://cdn.hackernoon.com/images/AxOqc8iWyUZKRHpqPIp971MivQL2-5h93p0z.jpeg)
 Learn how to safeguard your Progressive Web App against cyber threats by implementing security best practices.
 
-### [224. How to Use Zero Trust Framework for  API Security](https://hackernoon.com/how-to-use-zero-trust-framework-for-api-security)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-jaa2gp9.jpeg)
-This post is an introduction to how to map the requirements of API Security, from Defense-in-Depth to Zero Trust Model.
-
-### [225. MrPhish Tool Simplifies Phishing Simulations for Ethical Hackers Using Termux](https://hackernoon.com/mrphish-tool-simplifies-phishing-simulations-for-ethical-hackers-using-termux)
+### [227. MrPhish Tool Simplifies Phishing Simulations for Ethical Hackers Using Termux](https://hackernoon.com/mrphish-tool-simplifies-phishing-simulations-for-ethical-hackers-using-termux)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bf02v18.webp)
 MrPhish is a Bash-based script designed for phishing social media accounts using port forwarding and OTP bypass controls in Termux.
 
-### [226. Security Considerations in IaaS Deployments](https://hackernoon.com/security-considerations-in-iaas-deployments)
+### [228. How to Use Zero Trust Framework for  API Security](https://hackernoon.com/how-to-use-zero-trust-framework-for-api-security)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-jaa2gp9.jpeg)
+This post is an introduction to how to map the requirements of API Security, from Defense-in-Depth to Zero Trust Model.
+
+### [229. Security Considerations in IaaS Deployments](https://hackernoon.com/security-considerations-in-iaas-deployments)
 ![](https://cdn.hackernoon.com/images/5unChxTmteXA0Tg5iBqQvBnMK492-ub931mj.jpeg)
 Explore crucial security considerations for safeguarding your cloud infrastructure in IaaS deployments.
 
-### [227. Netwalker Ransomware: Everything You Need to Know to Stay Safe](https://hackernoon.com/netwalker-ransomware-everything-you-need-to-know-to-stay-safe)
+### [230. Netwalker Ransomware: Everything You Need to Know to Stay Safe](https://hackernoon.com/netwalker-ransomware-everything-you-need-to-know-to-stay-safe)
 ![](https://cdn.hackernoon.com/images/YkCf930zFRTLwK7MSVzDq3HlEOj2-io93o33.jpeg)
 Ransomware analysis and knowing how Netwalker works are essential for understanding vulnerable points and protecting yourself against Netwalker attacks
 
-### [228. Penetration Testing And Vulnerability Scanning](https://hackernoon.com/penetration-testing-and-vulnerability-scanning)
+### [231. Penetration Testing And Vulnerability Scanning](https://hackernoon.com/penetration-testing-and-vulnerability-scanning)
 ![](https://cdn.hackernoon.com/images/x7oAbeUtx1YeP5GIalmxyzfySdx2-vs83tac.jpeg)
 Dive into the realm of cybersecurity with our in-depth exploration of vulnerability scanning and penetration testing. Uncover the nuances, security issues, and 
 
-### [229. The Stupidest Requests on the Dark Web Come from Regular People](https://hackernoon.com/the-stupidest-requests-on-the-dark-web-come-from-regular-people)
-![](https://cdn.hackernoon.com/images/2mJgjTmSOuYVpIIuuLDsJOrR0s42-jh034n2.jpeg)
-As someone who’s spent time digging through dark web marketplaces, forums, and Telegram groups, I’ve seen it all. Here’s what no one tells you.
-
-### [230. Why You Should Avoid Using Public WiFi](https://hackernoon.com/why-you-should-avoid-using-public-wifi)
-![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-0x926z3.jpeg)
-Why You Should Avoid Using Public WiFi
-
-### [231. Tier 1 Smart Contract Auditors: Hacken, Hashlock, Cyfrin, CertiK, OpenZeppelin, SolidProof](https://hackernoon.com/tier-1-smart-contract-auditors-cyfrin-certik-openzeppelin-solidproof)
+### [232. Tier 1 Smart Contract Auditors: Hacken, Hashlock, Cyfrin, CertiK, OpenZeppelin, SolidProof](https://hackernoon.com/tier-1-smart-contract-auditors-cyfrin-certik-openzeppelin-solidproof)
 ![](https://cdn.hackernoon.com/images/7LrDe0NwaTW40HBSsVuBSPeo2yd2-gt9369y.jpeg)
 Established crypto auditors help secure the industry by validating smart contracts and development teams. 
 
-### [232. A New Era in Cybersecurity: Don Delvy's Smartsatellite "Deus Botrus" Redefines Defense, Networking](https://hackernoon.com/a-new-era-in-cybersecurity-don-delvys-smartsatellite-deus-botrus-redefines-defense-networking)
-![](https://cdn.hackernoon.com/images/fZhsEeLz44RmI0mUOoCNIrv3zOo1-3x830z1.jpeg)
-Don Delvy's groundbreaking solution, the DEFENSE-BASED SMARTSATELLITE is poised to neutralize events like hypersonic threats while securing digital comms.
+### [233. The Stupidest Requests on the Dark Web Come from Regular People](https://hackernoon.com/the-stupidest-requests-on-the-dark-web-come-from-regular-people)
+![](https://cdn.hackernoon.com/images/2mJgjTmSOuYVpIIuuLDsJOrR0s42-jh034n2.jpeg)
+As someone who’s spent time digging through dark web marketplaces, forums, and Telegram groups, I’ve seen it all. Here’s what no one tells you.
 
-### [233. What is the Difference Between Antivirus and Anti-malware?](https://hackernoon.com/what-is-the-difference-between-antivirus-and-anti-malware-efo37u3)
+### [234. Why You Should Avoid Using Public WiFi](https://hackernoon.com/why-you-should-avoid-using-public-wifi)
+![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-0x926z3.jpeg)
+Why You Should Avoid Using Public WiFi
+
+### [235. What is the Difference Between Antivirus and Anti-malware?](https://hackernoon.com/what-is-the-difference-between-antivirus-and-anti-malware-efo37u3)
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-nti355s.jpeg)
 Anti-malware software defends against new malware you may encounter while antivirus software scans for known viruses and searches for any known threats.  
 
-### [234. Exploring Cross-Site Scripting (XSS): Risks, Vulnerabilities, and Prevention Measures](https://hackernoon.com/exploring-cross-site-scripting-xss-risks-vulnerabilities-and-prevention-measures)
+### [236. A New Era in Cybersecurity: Don Delvy's Smartsatellite "Deus Botrus" Redefines Defense, Networking](https://hackernoon.com/a-new-era-in-cybersecurity-don-delvys-smartsatellite-deus-botrus-redefines-defense-networking)
+![](https://cdn.hackernoon.com/images/fZhsEeLz44RmI0mUOoCNIrv3zOo1-3x830z1.jpeg)
+Don Delvy's groundbreaking solution, the DEFENSE-BASED SMARTSATELLITE is poised to neutralize events like hypersonic threats while securing digital comms.
+
+### [237. Exploring Cross-Site Scripting (XSS): Risks, Vulnerabilities, and Prevention Measures](https://hackernoon.com/exploring-cross-site-scripting-xss-risks-vulnerabilities-and-prevention-measures)
 ![](https://cdn.hackernoon.com/images/tWWaDZTMIINIOJvLi1j2zZT6SPn2-ft93ppe.jpeg)
 Cross-site scripting (XSS) is a common web security issue that can expose your web application and its users to various attacks. In this article, you will learn
 
-### [235. 51 Stories To Learn About Cybersecurity Skills](https://hackernoon.com/51-stories-to-learn-about-cybersecurity-skills)
+### [238. 51 Stories To Learn About Cybersecurity Skills](https://hackernoon.com/51-stories-to-learn-about-cybersecurity-skills)
 ![](https://cdn.hackernoon.com/images/github/cybersecurity-skills-700.png)
 Learn everything you need to know about Cybersecurity Skills via these 51 free HackerNoon stories.
 
-### [236. Severe Truth About Serverless Security and Ways to Mitigate Major Risks](https://hackernoon.com/severe-truth-about-serverless-security-and-ways-to-mitigate-major-risks-cd3i3x6f)
+### [239. Severe Truth About Serverless Security and Ways to Mitigate Major Risks](https://hackernoon.com/severe-truth-about-serverless-security-and-ways-to-mitigate-major-risks-cd3i3x6f)
 ![](https://cdn.hackernoon.com/drafts/xi2nn3x7g.png)
 Going serverless is like outsourcing routine tasks to remote pro teams. You get a shorter time to market, lower cost, and better scalability. You focus on features that make your users happy instead of managing a complex infrastructure. You can be more creative and innovative, as a third-party vendor will save you from all the boring tasks.
 
-### [237. My Wireless Router is Better than Yours](https://hackernoon.com/wireless-offensive-ops-weq3z30ja)
+### [240. My Wireless Router is Better than Yours](https://hackernoon.com/wireless-offensive-ops-weq3z30ja)
 ![](https://cdn.hackernoon.com/drafts/qii1n300b.png)
 In other posts I have covered the step-by-step process on how to uncover a hidden SSID, both by just listening to the network channel, or by causing a de-authentication attack. In those articles I assumed that you already had a wireless USB adapter capable of going into monitor mode and also capable of injecting packets. 
 
-### [238. UX Considerations for Better Multi-Factor Authentication](https://hackernoon.com/ux-considerations-for-better-multi-factor-authentication)
+### [241. UX Considerations for Better Multi-Factor Authentication](https://hackernoon.com/ux-considerations-for-better-multi-factor-authentication)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-66832ex.jpeg)
 The success of online safety protocols depends on user experience. Here's how to optimize multi-factor authentication for effortless UX.
 
-### [239. Basics of Machine Learning and its capabilities in Cybersecurity](https://hackernoon.com/how-machine-learning-is-helping-businesses-combat-cyber-threats)
+### [242. When Did Cyber Security Start?](https://hackernoon.com/when-did-cyber-security-start)
+![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-pkb3p6i.jpeg)
+Cybersecurity began between 1970 and 1972 with the publications of the Ware and Anderson reports. The Ware Report set out a number of different security control
+
+### [243. How Free Streaming Websites Could Harm Your Online Security](https://hackernoon.com/how-free-streaming-websites-could-harm-your-online-security-uu3d37bl)
+![](https://cdn.hackernoon.com/images/IPKjUVub7zZXrgyTdZX3FCvQsMp1-qd1b36s2.jpeg)
+Learn how free streaming and online free movies websites could negatively affect your security
+
+### [244. Basics of Machine Learning and its capabilities in Cybersecurity](https://hackernoon.com/how-machine-learning-is-helping-businesses-combat-cyber-threats)
 ![](https://cdn.hackernoon.com/images/GARizudWccO7r3ch90a9EvHxP7t1-u9a3toi.jpeg)
 
 The article explores Machine Learning's vital role in cybersecurity, addressing evolving digital threats. It covers ML's types, iterative process, feature engi
 
-### [240. When Did Cyber Security Start?](https://hackernoon.com/when-did-cyber-security-start)
-![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-pkb3p6i.jpeg)
-Cybersecurity began between 1970 and 1972 with the publications of the Ware and Anderson reports. The Ware Report set out a number of different security control
-
-### [241. How Free Streaming Websites Could Harm Your Online Security](https://hackernoon.com/how-free-streaming-websites-could-harm-your-online-security-uu3d37bl)
-![](https://cdn.hackernoon.com/images/IPKjUVub7zZXrgyTdZX3FCvQsMp1-qd1b36s2.jpeg)
-Learn how free streaming and online free movies websites could negatively affect your security
-
-### [242. A Detailed Guide on Quantum Cryptography with Pros and Cons ](https://hackernoon.com/a-detailed-guide-on-quantum-cryptography-with-pros-and-cons)
+### [245. A Detailed Guide on Quantum Cryptography with Pros and Cons ](https://hackernoon.com/a-detailed-guide-on-quantum-cryptography-with-pros-and-cons)
 ![](https://cdn.hackernoon.com/images/wZKWef8hIWbAtjSo1qHQZY75udV2-uj92ay8.jpeg)
  Is quantum cryptography the next best thing to AES Symmetric Encryption? Let’s find out. Read through a detailed excerpt of how quantum is used in cryptography
 
-### [243. Is the Metaverse Ready for Cyberattacks?](https://hackernoon.com/is-the-metaverse-ready-for-cyberattacks-wj1q3725)
-![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-jik35xg.jpeg)
-The metaverse is the next generation of the Internet. But is the metaverse prepared for cyber attacks? Because it will ultimately face cybersecurity incidents.
-
-### [244. Expert: Facebook, IG App Can Steal Secrets, and Users Can't Turn It Off!](https://hackernoon.com/expert-facebook-ig-app-can-steal-secrets-and-users-cant-turn-it-off)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-o993mp3.jpeg)
-Felix Krause, a former Google engineer who studies privacy, said in a blog post on the 10th that Facebook and Instagram apps track users' browsing behaviors.
-
-### [245. YARA Rules in a Nutshell](https://hackernoon.com/yara-rules-in-a-nutshell-kev3735)
+### [246. YARA Rules in a Nutshell](https://hackernoon.com/yara-rules-in-a-nutshell-kev3735)
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-y95629wz.jpeg)
 YARA rules can be used to help researchers identify and classify malware samples. They are beneficial for reverse engineering or during an incident response. 
 
-### [246. Analyzing the 12/31/2022 Slack Security Incident](https://hackernoon.com/analyzing-the-12312022-slack-security-incident)
+### [247. Is the Metaverse Ready for Cyberattacks?](https://hackernoon.com/is-the-metaverse-ready-for-cyberattacks-wj1q3725)
+![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-jik35xg.jpeg)
+The metaverse is the next generation of the Internet. But is the metaverse prepared for cyber attacks? Because it will ultimately face cybersecurity incidents.
+
+### [248. Expert: Facebook, IG App Can Steal Secrets, and Users Can't Turn It Off!](https://hackernoon.com/expert-facebook-ig-app-can-steal-secrets-and-users-cant-turn-it-off)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-o993mp3.jpeg)
+Felix Krause, a former Google engineer who studies privacy, said in a blog post on the 10th that Facebook and Instagram apps track users' browsing behaviors.
+
+### [249. Analyzing the 12/31/2022 Slack Security Incident](https://hackernoon.com/analyzing-the-12312022-slack-security-incident)
 ![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-8ag3qzj.jpeg)
 On December 31, 2022, Slack reported a security breach that affected some of its customers.
 
-### [247. 75% Of Companies Are Banning the Use of ChatGPT: What Happened?](https://hackernoon.com/75percent-of-companies-are-banning-the-use-of-chatgpt-what-happened)
+### [250. 75% Of Companies Are Banning the Use of ChatGPT: What Happened?](https://hackernoon.com/75percent-of-companies-are-banning-the-use-of-chatgpt-what-happened)
 ![](https://cdn.hackernoon.com/images/G8tDjgYmA3h81VSTsSKlT1xObgI3-j99303m.jpeg)
 Explore the rising concerns over data leaks with ChatGPT. From potential risks around user data privacy to high-profile incidents involving tech giants.
 
-### [248. We Need to Talk About Nigeria and Cybersecurity](https://hackernoon.com/nigeria-and-cyber-security-fp8b3zzs)
+### [251. We Need to Talk About Nigeria and Cybersecurity](https://hackernoon.com/nigeria-and-cyber-security-fp8b3zzs)
 ![](https://cdn.hackernoon.com/drafts/nwa73zy2.png)
 Keeping information secured and protecting the integrity of data over the internet is now becoming a huge and complex task, due to the increasing number of threats to the information security. 
 
-### [249. Apple vs. Microsoft: Who Offers Better Security?](https://hackernoon.com/apple-vs-microsoft-who-offers-better-security)
-![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-yl036wh.jpeg)
-Apple vs Microsoft, which one offers better security between? In this article you will get a detailed explanation how much security each of them have to offer. 
-
-### [250. SecurityMetrics Announces Suite of CMMC Solutions for Defense Contractors of All Sizes](https://hackernoon.com/securitymetrics-announces-suite-of-cmmc-solutions-for-defense-contractors-of-all-sizes)
+### [252. SecurityMetrics Announces Suite of CMMC Solutions for Defense Contractors of All Sizes](https://hackernoon.com/securitymetrics-announces-suite-of-cmmc-solutions-for-defense-contractors-of-all-sizes)
 ![](https://cdn.hackernoon.com/images/4kT8dtPhcJP3CZoJcluK5bR3MMs1-sq83emh.png)
 SecurityMetrics announces new CMMC tool for compliance and validation, helping primes and subcontracts streamline the CMMC process. 
 
-### [251. Scan Kubernetes RBAC with Kubescape and Kubiscan](https://hackernoon.com/scan-kubernetes-rbac-with-kubescape-and-kubiscan)
+### [253. Apple vs. Microsoft: Who Offers Better Security?](https://hackernoon.com/apple-vs-microsoft-who-offers-better-security)
+![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-yl036wh.jpeg)
+Apple vs Microsoft, which one offers better security between? In this article you will get a detailed explanation how much security each of them have to offer. 
+
+### [254. Scan Kubernetes RBAC with Kubescape and Kubiscan](https://hackernoon.com/scan-kubernetes-rbac-with-kubescape-and-kubiscan)
 ![](https://cdn.hackernoon.com/images/yH95UmMywDTjM9jsB6ZVZEkOKY02-qvn2eq2.png)
 Exploring Kubernetes ecosystem tools like Kubiscan and Kubescape to scan and evaluate RBAC model of GKE cluster. 
 
-### [252. Everyone’s ‘Ditching’ the Cloud—But Here’s Why That’s a Lie](https://hackernoon.com/everyones-ditching-the-cloudbut-heres-why-thats-a-lie)
+### [255. Everyone’s ‘Ditching’ the Cloud—But Here’s Why That’s a Lie](https://hackernoon.com/everyones-ditching-the-cloudbut-heres-why-thats-a-lie)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-wp43rv4.png)
 Cloud security booms to $156.25B by 2032 despite on-prem shifts. Hybrid & multi-cloud demand soars, quantum threats loom—your expertise is still key!
 
-### [253. Myths and Misconceptions About Private Browsing](https://hackernoon.com/myths-and-misconceptions-about-private-browsing)
+### [256. Myths and Misconceptions About Private Browsing](https://hackernoon.com/myths-and-misconceptions-about-private-browsing)
 ![](https://cdn.hackernoon.com/images/iKnAyX6wonPP7zZPoUrPycGhfFf2-u2938xp.jpeg)
 Many people who use private browsing incorrectly believe they're protected. Private Browsing doesn't make you anonymous.
 
-### [254. VPN Leaks that Threaten Your Online Privacy Daily](https://hackernoon.com/vpn-leaks-how-to-know-if-your-online-privacy-is-in-danger-ke1c2tvc)
+### [257. VPN Leaks that Threaten Your Online Privacy Daily](https://hackernoon.com/vpn-leaks-how-to-know-if-your-online-privacy-is-in-danger-ke1c2tvc)
 ![](https://cdn.hackernoon.com/drafts/xc2k2t9w.png)
 According to research by GlobalWebIndex, in 2018, around 25% of Internet users have used a VPN service. There are several reasons for this spike in popularity, which you can read about in my previous article. One of the main reasons is the ability to bypass geo-blocks and gain access to, for example, a full Netflix library.
 
-### [255. 5 Notorious Paypal Invoice Scams & How to Avoid Them](https://hackernoon.com/5-notorious-paypal-invoice-scams-and-how-to-avoid-them)
+### [258. 5 Notorious Paypal Invoice Scams & How to Avoid Them](https://hackernoon.com/5-notorious-paypal-invoice-scams-and-how-to-avoid-them)
 ![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-4993xid.jpeg)
 Five examples of what a Paypal invoice scam is, why it works and how to avoid geting scammed by one. 
 
-### [256. 7 Ways to Secure Your Social Media Accounts](https://hackernoon.com/7-ways-to-keep-your-social-media-accounts-safe-nbk32vr)
+### [259. The Noonification: The Metaverse is a Sh*tshow (11/2/2022)](https://hackernoon.com/11-2-2022-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+11/2/2022: Top 5 stories on the Hackernoon homepage!
+
+### [260. AI Security Posture Management (AISPM): How to Handle AI Agent Security](https://hackernoon.com/ai-security-posture-management-aispm-how-to-handle-ai-agent-security)
+![](https://cdn.hackernoon.com/images/ityqFEFXIlVyulqRZcadb5BJJkG3-iy0380m.png)
+Explore how to secure AI agents, protect against prompt injections, and manage cascading AI interactions with AI Security Posture Management (AISPM).
+
+### [261. 7 Ways to Secure Your Social Media Accounts](https://hackernoon.com/7-ways-to-keep-your-social-media-accounts-safe-nbk32vr)
 ![](https://cdn.hackernoon.com/drafts/me6832re.png)
 In the world today, cybersecurity attacks happen every 39 seconds. 300,000 new malware is created every day; our beloved Facebook is attacked 100k+ a day; and, just very recently had a massive security breach. 
 
-### [257. CyberSec Games Part I: 
+### [262. CyberSec Games Part I: 
 Backdoors & Breaches](https://hackernoon.com/cybersec-games-part-i-backdoors-and-breaches-96393b0z)
 ![](https://cdn.hackernoon.com/drafts/fj153ors.png)
 Backdoors & Breaches is an Incident Response Card Game that contains 52 unique cards to help you conduct incident response tabletop exercises and learn attack tactics, tools, and methods.
 
-### [258. AI Security Posture Management (AISPM): How to Handle AI Agent Security](https://hackernoon.com/ai-security-posture-management-aispm-how-to-handle-ai-agent-security)
-![](https://cdn.hackernoon.com/images/ityqFEFXIlVyulqRZcadb5BJJkG3-iy0380m.png)
-Explore how to secure AI agents, protect against prompt injections, and manage cascading AI interactions with AI Security Posture Management (AISPM).
-
-### [259. Programming a Keylogger in Python](https://hackernoon.com/programming-a-keylogger-in-python-b26j3643)
+### [263. Programming a Keylogger in Python](https://hackernoon.com/programming-a-keylogger-in-python-b26j3643)
 ![](https://cdn.hackernoon.com/images/x7oAbeUtx1YeP5GIalmxyzfySdx2-tp1c34as.jpeg)
 A keylogger is a tool designed to record every keystroke on a system for later retrieval. Its purpose is to allow the user to gain access to confidential info.
 
-### [260. Why Cybersecurity for Solar Is Crucial — And Difficult](https://hackernoon.com/why-cybersecurity-for-solar-is-crucial-and-difficult)
-![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-lz83108.jpeg)
-A successful cyberattack targeting solar infrastructure could adversely impact convenience, safety and national security. Here's how to defend solar equipment.
-
-### [261. The Noonification: The Metaverse is a Sh*tshow (11/2/2022)](https://hackernoon.com/11-2-2022-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-11/2/2022: Top 5 stories on the Hackernoon homepage!
-
-### [262. Shrouded Horizons: My Passage to the Dark Web Marketplaces](https://hackernoon.com/shrouded-horizons-my-passage-to-the-dark-web-marketplaces)
-![](https://cdn.hackernoon.com/images/2mJgjTmSOuYVpIIuuLDsJOrR0s42-i98306a.jpeg)
-An account of visiting the Dark Web Marketplaces for the first time.
-
-### [263. The Security Issues in Using Public Wi-Fi  —  “Honeypots” And “Pineapples”](https://hackernoon.com/the-security-issues-in-using-public-wi-fi-honeypots-and-pineapples-okt3u5z)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKLMEr7uGVxVZz8Mt1UVSyVDuk8S2-x8d3xy0.png?alt=media&token=bca17301-1e31-4bd3-b373-a59ed9a4ebee)
-It is a warm and sunny afternoon on a weekend. This is a good time to head to a cafe to chill for a bit with a coffee and pastry. It is also perfect for some web surfing using the free Wi-Fi service. The next thing you would need to know is the Wi-Fi access point (i.e. hotspot) and password. Now you are all set and connect to the Internet. For the average user this is fine, but for cybersecurity experts there is a risk to using free Wi-Fi services.
-
-### [264. How do Hackers Hide Themselves? - A Guide to Staying Anonymous Online](https://hackernoon.com/how-do-hackers-hide-themselves-a-guide-to-staying-anonymous-online)
-![](https://cdn.hackernoon.com/images/BugaLC6k6haVzqRw5mELajiQSkZ2-zwa3tg9.jpeg)
-The world has always been fascinated with Hackers. In this video, we’ll learn about how they hide themselves online. 
-
-### [265. How to Perform a Rogue Raspberry Pi Exploit](https://hackernoon.com/how-to-perform-a-rogue-raspberry-pi-exploit)
-![](https://cdn.hackernoon.com/images/1yeuFftUzKRT5YTxuVLPKYa7Uep2-p893osl.jpeg)
-How a $20 Raspberry Pi can be used as pentest tool and what to look out for to protect your network.
-
-### [266. How WordPress Sites Get Hacked: 5 Common Vulnerabilities & How to Prevent Them](https://hackernoon.com/how-wordpress-sites-get-hacked-5-common-vulnerabilities-and-how-to-prevent-them-kz12375y)
-![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-hn38350t.jpeg)
-WordPress is a popular platform that many use to create their own webpage. Due to its popularity, there is a higher chance of attackers hacking WordPress sites.
-
-### [267. Children Should Begin Learning Cybersecurity the Moment They Switch On Their First Tablet](https://hackernoon.com/children-should-begin-learning-cybersecurity-the-moment-they-switch-on-their-first-tablet)
-![](https://cdn.hackernoon.com/images/yZFyEIY91nfnl3nbZ1PqgsDn77F2-sl82ksm.jpeg)
-Guide on teaching cybersecurity to kids, highlighting crucial steps from their first tablet use, with age-appropriate tips for digital safety.
-
-### [268. The Dark Side of AI: How Prompt Hacking Can Sabotage Your AI Systems](https://hackernoon.com/the-dark-side-of-ai-how-prompt-hacking-can-sabotage-your-ai-systems)
-![](https://cdn.hackernoon.com/images/3dP1h4oDXWfdH1z81Je2nAo7JKq1-jm93r7e.jpeg)
-Protect your AI systems to prevent LLMs prompt hacking & safeguard your data. Learn the risks, impacts, and prevention strategies against this emerging threat. 
-
-### [269. Integrating DAST Into Your CI/CD Pipeline: Benefits and Implementation](https://hackernoon.com/integrating-dast-into-your-cicd-pipeline-benefits-and-implementation)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-5z93pnb.jpeg)
-This article highlights the value of integrating DAST into your CI/CD pipeline, exploring how it can significantly enhance your application's security posture.
-
-### [270. AI-Powered Cybersecurity: Top Use Cases in 2023](https://hackernoon.com/ai-powered-cybersecurity-top-use-cases-in-2023)
-![](https://cdn.hackernoon.com/images/aIiCCpiujnV1ZfSeLNO4SaTzbN83-2rc3t17.jpeg)
-AI made its mark on the cybersecurity sector in 2020, with a value exceeding $10 billion.  
-
-### [271. How to Reduce Your Chances of Being a Victim of Identity Theft](https://hackernoon.com/how-to-reduce-your-chances-of-being-a-victim-of-identity-theft)
-![](https://cdn.hackernoon.com/images/XsEKthXthDfZ2o1uuNElKYPIjPF3-tpd3p5g.jpeg)
-The major causes of identity theft, along with some simple steps you can take to lower your risk of exposure dramatically.
-
-### [272. Password Security And Thoughts On Authentication Methods](https://hackernoon.com/password-security-and-thoughts-on-authentication-methods-dw6u3tuh)
-![](https://cdn.hackernoon.com/images/1yuf73tpt.jpg)
-We use passwords to access personal information and user accounts. With so many applications requiring passwords (e.g. online banking, shopping and social media just to name a few), it can be hard to track and at worst remember. Some applications require users to change their passwords every so often, and that can lead to users forgetting them or getting careless by writing down their password on a piece of paper. That piece of paper can later be misplaced which can lead to worse things. The problem with requiring frequent password changes and applying complexity to passwords is that it can become more complicated for users.
-
-### [273. Maliciously Manipulate Storage Variables in Solidity [A How-To Guide]](https://hackernoon.com/maliciously-manipulate-storage-variables-in-solidity-a-how-to-guide-489r320e)
-![](https://cdn.hackernoon.com/drafts/ld8532kf.png)
-Smart contracts, in general, offer the ability to determine factors and expectations set out by the contract. In the field of programming, factors and expectations can be described as ‘variables’ and ‘conditions’ within the actual code. 
-
-### [274. A Comprehensive Guide to OpenAPI Specification](https://hackernoon.com/a-comprehensive-guide-to-openapi-specification)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-fp93nyt.jpeg)
-OpenAPI Specification (formerly Swagger Specification) is an API description format for REST APIs. An OpenAPI file allows you to describe your entire API.
-
-### [275. Your USB Gadget Could Be Weaponized](https://hackernoon.com/your-usb-gadget-could-be-weaponized)
-![](https://cdn.hackernoon.com/images/1yeuFftUzKRT5YTxuVLPKYa7Uep2-93f3tje.jpeg)
-Cybersecurity experts have been warning us for years about using USB devices.  We look at how an ordinary USB-powered device can be easily weaponized.
-
-### [276. How to Spot Honeypot Crypto Scams](https://hackernoon.com/how-to-spot-honeypot-crypto-scams)
-![](https://cdn.hackernoon.com/images/Bm6Dk7O9xqaIxfKLbfh8LQkOJos2-gta3z6x.jpeg)
-Honeypot Crypto Scam is very common in blockchain industry. Tips are here to avoid such scams and save your money.
-
-### [277. Time Bombs Inside Software: 0-Day Log4Shell is Just the Tip of The Iceberg](https://hackernoon.com/0-day-log4shell-is-serious-but-its-just-the-tip-of-the-iceberg)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-8g035ov.jpeg)
-CVE 2021–45046, says the fix to address CVE-2021–44228 in Apache Log4j 2.15.0 was "incomplete in certain non-default configurations."
-
-### [278. A Beginner's Guide on Ransomware: How To Identify and Prevent Attacks    ](https://hackernoon.com/a-beginners-guide-on-ransomware-how-to-identify-and-prevent-attacks)
-![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-jte2hba.jpeg)
-Ransomware is a different kind of malware.  Find out how to identify and prevent its attacks that encrypt your files and demand a paid ransome for data access. 
-
-### [279. Red Team Phishing Simulations: Using Evilginx2 and GoPhish](https://hackernoon.com/red-team-phishing-simulations-using-evilginx2-and-gophish)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6c82pjq.jpeg)
-I'd like to share my experiences using evilginx2 and gophish for red teaming phishing simulations.
-
-### [280. The Rising Issue of Zombie APIs and Your Increased Attack Surface](https://hackernoon.com/the-rising-issue-of-zombie-apis-and-your-increased-attack-surface)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-vz83wae.jpeg)
-Zombie APIs expand your attack surface. Learn how to identify and manage these hidden threats to secure your infrastructure and protect sensitive data.
-
-### [281. LastPass Confirms Hackers Stole Encrypted Password Vaults... Four Months Ago](https://hackernoon.com/lastpass-confirms-hackers-stole-encrypted-password-vaults-four-months-ago)
-![](https://cdn.hackernoon.com/images/bYnj8YlSMrbGYYve1iskmRSuqXg1-2jb2gnp.jpeg)
-A password vault leak had happened four months ago and LastPass is only telling you that now.
-
-### [282. A Guide to Understanding the Job Roles & Selecting Your Career in Cybersecurity](https://hackernoon.com/a-guide-to-understanding-the-job-roles-and-selecting-your-career-in-cybersecurity)
-![](https://cdn.hackernoon.com/images/wpsdDnj0JHhihkhcMPXtUlLNxt42-mla2dhy.jpeg)
-This article covers the top 20 job roles available in the Cyber Security domain along with the job description in a simplified way.
-
-### [283. The Impact of Biometric Recognition Failures on Security](https://hackernoon.com/the-impact-of-biometric-recognition-failures-on-security)
-![](https://cdn.hackernoon.com/images/PANRc42LdISJfcrRUyUE8eZKyor2-34c3q51.jpeg)
-Discover how failures in biometric recognition methods can impact security in with examples of false acceptance and rejection in biometric verification.
-
-### [284. Protect Angular Code Against Theft and Reverse-Engineering](https://hackernoon.com/protect-angular-code-against-theft-and-reverse-engineering)
+### [264. Protect Angular Code Against Theft and Reverse-Engineering](https://hackernoon.com/protect-angular-code-against-theft-and-reverse-engineering)
 ![](https://cdn.hackernoon.com/images/1JNoLAkx1ZO5O8qO5dcdNjh6RQw1-lbb3hfb.jpeg)
 In this step-by-step guide, you'll learn how to protect your Angular code from being stolen or reverse-engineered, by leveraging the power of Jscrambler.
 
-### [285. Ethical Hackers Reveal How to Break Into Any Mobile Device (Legally!)](https://hackernoon.com/ethical-hackers-reveal-how-to-break-into-any-mobile-device-legally)
-![](https://cdn.hackernoon.com/images/qLHsEsYdTzfwRgpBdGL5EA3r9TA2-e903jw7.png)
-A comprehensive guide to mobile penetration testing (pentesting) by Sekurno. Learn essential techniques, tools, and best practices to secure mobile apps
+### [265. Shrouded Horizons: My Passage to the Dark Web Marketplaces](https://hackernoon.com/shrouded-horizons-my-passage-to-the-dark-web-marketplaces)
+![](https://cdn.hackernoon.com/images/2mJgjTmSOuYVpIIuuLDsJOrR0s42-i98306a.jpeg)
+An account of visiting the Dark Web Marketplaces for the first time.
 
-### [286. Modernizing Secrets Scanning: Part 1–the Problem](https://hackernoon.com/modernizing-secrets-scanning-part-1-the-problem)
+### [266. Why Cybersecurity for Solar Is Crucial — And Difficult](https://hackernoon.com/why-cybersecurity-for-solar-is-crucial-and-difficult)
+![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-lz83108.jpeg)
+A successful cyberattack targeting solar infrastructure could adversely impact convenience, safety and national security. Here's how to defend solar equipment.
+
+### [267. How do Hackers Hide Themselves? - A Guide to Staying Anonymous Online](https://hackernoon.com/how-do-hackers-hide-themselves-a-guide-to-staying-anonymous-online)
+![](https://cdn.hackernoon.com/images/BugaLC6k6haVzqRw5mELajiQSkZ2-zwa3tg9.jpeg)
+The world has always been fascinated with Hackers. In this video, we’ll learn about how they hide themselves online. 
+
+### [268. The Security Issues in Using Public Wi-Fi  —  “Honeypots” And “Pineapples”](https://hackernoon.com/the-security-issues-in-using-public-wi-fi-honeypots-and-pineapples-okt3u5z)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKLMEr7uGVxVZz8Mt1UVSyVDuk8S2-x8d3xy0.png?alt=media&token=bca17301-1e31-4bd3-b373-a59ed9a4ebee)
+It is a warm and sunny afternoon on a weekend. This is a good time to head to a cafe to chill for a bit with a coffee and pastry. It is also perfect for some web surfing using the free Wi-Fi service. The next thing you would need to know is the Wi-Fi access point (i.e. hotspot) and password. Now you are all set and connect to the Internet. For the average user this is fine, but for cybersecurity experts there is a risk to using free Wi-Fi services.
+
+### [269. How to Perform a Rogue Raspberry Pi Exploit](https://hackernoon.com/how-to-perform-a-rogue-raspberry-pi-exploit)
+![](https://cdn.hackernoon.com/images/1yeuFftUzKRT5YTxuVLPKYa7Uep2-p893osl.jpeg)
+How a $20 Raspberry Pi can be used as pentest tool and what to look out for to protect your network.
+
+### [270. How WordPress Sites Get Hacked: 5 Common Vulnerabilities & How to Prevent Them](https://hackernoon.com/how-wordpress-sites-get-hacked-5-common-vulnerabilities-and-how-to-prevent-them-kz12375y)
+![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-hn38350t.jpeg)
+WordPress is a popular platform that many use to create their own webpage. Due to its popularity, there is a higher chance of attackers hacking WordPress sites.
+
+### [271. Children Should Begin Learning Cybersecurity the Moment They Switch On Their First Tablet](https://hackernoon.com/children-should-begin-learning-cybersecurity-the-moment-they-switch-on-their-first-tablet)
+![](https://cdn.hackernoon.com/images/yZFyEIY91nfnl3nbZ1PqgsDn77F2-sl82ksm.jpeg)
+Guide on teaching cybersecurity to kids, highlighting crucial steps from their first tablet use, with age-appropriate tips for digital safety.
+
+### [272. The Dark Side of AI: How Prompt Hacking Can Sabotage Your AI Systems](https://hackernoon.com/the-dark-side-of-ai-how-prompt-hacking-can-sabotage-your-ai-systems)
+![](https://cdn.hackernoon.com/images/3dP1h4oDXWfdH1z81Je2nAo7JKq1-jm93r7e.jpeg)
+Protect your AI systems to prevent LLMs prompt hacking & safeguard your data. Learn the risks, impacts, and prevention strategies against this emerging threat. 
+
+### [273. Integrating DAST Into Your CI/CD Pipeline: Benefits and Implementation](https://hackernoon.com/integrating-dast-into-your-cicd-pipeline-benefits-and-implementation)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-5z93pnb.jpeg)
+This article highlights the value of integrating DAST into your CI/CD pipeline, exploring how it can significantly enhance your application's security posture.
+
+### [274. AI-Powered Cybersecurity: Top Use Cases in 2023](https://hackernoon.com/ai-powered-cybersecurity-top-use-cases-in-2023)
+![](https://cdn.hackernoon.com/images/aIiCCpiujnV1ZfSeLNO4SaTzbN83-2rc3t17.jpeg)
+AI made its mark on the cybersecurity sector in 2020, with a value exceeding $10 billion.  
+
+### [275. Maliciously Manipulate Storage Variables in Solidity [A How-To Guide]](https://hackernoon.com/maliciously-manipulate-storage-variables-in-solidity-a-how-to-guide-489r320e)
+![](https://cdn.hackernoon.com/drafts/ld8532kf.png)
+Smart contracts, in general, offer the ability to determine factors and expectations set out by the contract. In the field of programming, factors and expectations can be described as ‘variables’ and ‘conditions’ within the actual code. 
+
+### [276. How to Reduce Your Chances of Being a Victim of Identity Theft](https://hackernoon.com/how-to-reduce-your-chances-of-being-a-victim-of-identity-theft)
+![](https://cdn.hackernoon.com/images/XsEKthXthDfZ2o1uuNElKYPIjPF3-tpd3p5g.jpeg)
+The major causes of identity theft, along with some simple steps you can take to lower your risk of exposure dramatically.
+
+### [277. Password Security And Thoughts On Authentication Methods](https://hackernoon.com/password-security-and-thoughts-on-authentication-methods-dw6u3tuh)
+![](https://cdn.hackernoon.com/images/1yuf73tpt.jpg)
+We use passwords to access personal information and user accounts. With so many applications requiring passwords (e.g. online banking, shopping and social media just to name a few), it can be hard to track and at worst remember. Some applications require users to change their passwords every so often, and that can lead to users forgetting them or getting careless by writing down their password on a piece of paper. That piece of paper can later be misplaced which can lead to worse things. The problem with requiring frequent password changes and applying complexity to passwords is that it can become more complicated for users.
+
+### [278. A Comprehensive Guide to OpenAPI Specification](https://hackernoon.com/a-comprehensive-guide-to-openapi-specification)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-fp93nyt.jpeg)
+OpenAPI Specification (formerly Swagger Specification) is an API description format for REST APIs. An OpenAPI file allows you to describe your entire API.
+
+### [279. Your USB Gadget Could Be Weaponized](https://hackernoon.com/your-usb-gadget-could-be-weaponized)
+![](https://cdn.hackernoon.com/images/1yeuFftUzKRT5YTxuVLPKYa7Uep2-93f3tje.jpeg)
+Cybersecurity experts have been warning us for years about using USB devices.  We look at how an ordinary USB-powered device can be easily weaponized.
+
+### [280. How to Spot Honeypot Crypto Scams](https://hackernoon.com/how-to-spot-honeypot-crypto-scams)
+![](https://cdn.hackernoon.com/images/Bm6Dk7O9xqaIxfKLbfh8LQkOJos2-gta3z6x.jpeg)
+Honeypot Crypto Scam is very common in blockchain industry. Tips are here to avoid such scams and save your money.
+
+### [281. Red Team Phishing Simulations: Using Evilginx2 and GoPhish](https://hackernoon.com/red-team-phishing-simulations-using-evilginx2-and-gophish)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6c82pjq.jpeg)
+I'd like to share my experiences using evilginx2 and gophish for red teaming phishing simulations.
+
+### [282. A Beginner's Guide on Ransomware: How To Identify and Prevent Attacks    ](https://hackernoon.com/a-beginners-guide-on-ransomware-how-to-identify-and-prevent-attacks)
+![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-jte2hba.jpeg)
+Ransomware is a different kind of malware.  Find out how to identify and prevent its attacks that encrypt your files and demand a paid ransome for data access. 
+
+### [283. Time Bombs Inside Software: 0-Day Log4Shell is Just the Tip of The Iceberg](https://hackernoon.com/0-day-log4shell-is-serious-but-its-just-the-tip-of-the-iceberg)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-8g035ov.jpeg)
+CVE 2021–45046, says the fix to address CVE-2021–44228 in Apache Log4j 2.15.0 was "incomplete in certain non-default configurations."
+
+### [284. The Impact of Biometric Recognition Failures on Security](https://hackernoon.com/the-impact-of-biometric-recognition-failures-on-security)
+![](https://cdn.hackernoon.com/images/PANRc42LdISJfcrRUyUE8eZKyor2-34c3q51.jpeg)
+Discover how failures in biometric recognition methods can impact security in with examples of false acceptance and rejection in biometric verification.
+
+### [285. LastPass Confirms Hackers Stole Encrypted Password Vaults... Four Months Ago](https://hackernoon.com/lastpass-confirms-hackers-stole-encrypted-password-vaults-four-months-ago)
+![](https://cdn.hackernoon.com/images/bYnj8YlSMrbGYYve1iskmRSuqXg1-2jb2gnp.jpeg)
+A password vault leak had happened four months ago and LastPass is only telling you that now.
+
+### [286. The Rising Issue of Zombie APIs and Your Increased Attack Surface](https://hackernoon.com/the-rising-issue-of-zombie-apis-and-your-increased-attack-surface)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-vz83wae.jpeg)
+Zombie APIs expand your attack surface. Learn how to identify and manage these hidden threats to secure your infrastructure and protect sensitive data.
+
+### [287. A Guide to Understanding the Job Roles & Selecting Your Career in Cybersecurity](https://hackernoon.com/a-guide-to-understanding-the-job-roles-and-selecting-your-career-in-cybersecurity)
+![](https://cdn.hackernoon.com/images/wpsdDnj0JHhihkhcMPXtUlLNxt42-mla2dhy.jpeg)
+This article covers the top 20 job roles available in the Cyber Security domain along with the job description in a simplified way.
+
+### [288. Modernizing Secrets Scanning: Part 1–the Problem](https://hackernoon.com/modernizing-secrets-scanning-part-1-the-problem)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ci93pph.jpeg)
 Today I'd like to share some new approaches to secret search at the scanner level.
 
-### [287. 7 Ways to Protect Your Router From Hackers](https://hackernoon.com/7-ways-to-protect-your-router-from-hackers)
+### [289. 7 Ways to Protect Your Router From Hackers](https://hackernoon.com/7-ways-to-protect-your-router-from-hackers)
 ![](https://cdn.hackernoon.com/images/hEUBscNYNUVvnmTjLFI4yTAojM33-pe3374m.jpeg)
 Since we are in the modern technological era, the internet has become an indispensable tool in our modern-day life. As we speak, we need it to communicate, work online, learn online and even do business online. When it comes to internet connectivity, there are many ways to get internet in your home. One of the best ways to access the internet at home or workplace is by investing in a router. With this device in place, you will be able to create a home network that can be used by wireless devices such as smart TVs, home appliances, IP cameras, and so much more. 
 
-### [288. How CEH is Closing the Cybersecurity Talent Gap in the United States](https://hackernoon.com/how-ceh-is-closing-the-cybersecurity-talent-gap-in-the-united-states)
+### [290. How CEH is Closing the Cybersecurity Talent Gap in the United States](https://hackernoon.com/how-ceh-is-closing-the-cybersecurity-talent-gap-in-the-united-states)
 ![](https://cdn.hackernoon.com/images/ethical-implications-of-ai-in-cybersecurity-tunv9r1uyvcaxlh80cfrqihu.png)
 CEH is helping supply a market-ready cybersecurity workforce across sectors like defense, finance, healthcare, and cloud computing
-
-### [289. How Can Password-Free Identity Verification Safeguard User Privacy?](https://hackernoon.com/how-can-password-free-identity-verification-safeguard-user-privacy)
-![](https://cdn.hackernoon.com/images/oga0jJ1d71eh24SRUYLG2fYQSfd2-az93k4f.jpeg)
-Traditional identity verification methods usually have security risks. Unlike these methods, FIDO-based identity verification is much safer and convenient.
-
-### [290. 7 Sneaky Ways Hackers Are Using Machine Learning to Steal Your Data](https://hackernoon.com/7-sneaky-ways-hackers-are-using-machine-learning-to-steal-your-data-d0933w6a)
-![](https://cdn.hackernoon.com/drafts/j2qn3yix.png)
-Machine learning is famous for its ability to analyze large data sets and identify patterns. It is basically a subset of artificial intelligence. Machine learning uses algorithms that leverages previous data-sets and statistical analysis to make assumptions and pass on judgments about behavior.
-The best part, software or computers powered by machine learning algorithms can perform functions that they have not been programmed to perform.
 
 ### [291. AI's Dark Side: OnlyFake's $15 Toolkit for Crafting Cryptocurrency Heist-Ready Identities](https://hackernoon.com/ais-dark-side-onlyfakes-$15-toolkit-for-crafting-cryptocurrency-heist-ready-identities)
 ![](https://cdn.hackernoon.com/images/GwlxHSudjFXp2j21DJ7mg0SknSK2-hu93gua.jpeg)
@@ -1180,839 +1181,840 @@ AI's Dark Side: OnlyFake's $15 Toolkit for Crafting Cryptocurrency Heist-Ready I
 ![](https://cdn.hackernoon.com/images/J4pZks5S5YZcQh7l0C7Ywxe3kB22-3j6o35eo.jpeg)
 Any system in a smart vehicle connecting to the Internet, fleet management software, or an EV charging network is a potential entry point for hackers. 
 
-### [293. How To Start A Career in Cyber Security?](https://hackernoon.com/how-to-start-a-career-in-cyber-security-9j16t2zox)
+### [293. How Can Password-Free Identity Verification Safeguard User Privacy?](https://hackernoon.com/how-can-password-free-identity-verification-safeguard-user-privacy)
+![](https://cdn.hackernoon.com/images/oga0jJ1d71eh24SRUYLG2fYQSfd2-az93k4f.jpeg)
+Traditional identity verification methods usually have security risks. Unlike these methods, FIDO-based identity verification is much safer and convenient.
+
+### [294. 7 Sneaky Ways Hackers Are Using Machine Learning to Steal Your Data](https://hackernoon.com/7-sneaky-ways-hackers-are-using-machine-learning-to-steal-your-data-d0933w6a)
+![](https://cdn.hackernoon.com/drafts/j2qn3yix.png)
+Machine learning is famous for its ability to analyze large data sets and identify patterns. It is basically a subset of artificial intelligence. Machine learning uses algorithms that leverages previous data-sets and statistical analysis to make assumptions and pass on judgments about behavior.
+The best part, software or computers powered by machine learning algorithms can perform functions that they have not been programmed to perform.
+
+### [295. How To Start A Career in Cyber Security?](https://hackernoon.com/how-to-start-a-career-in-cyber-security-9j16t2zox)
 ![](https://cdn.hackernoon.com/drafts/0i16i2z4t.png)
 As we move forward into the age of technology, and as business people, there is one that should always remember. That thing is simply this; the more advanced technology gets, the more danger there is when it comes to cyber threats.
 
-### [294. 10 Emerging Technologies to Look out for in 2021](https://hackernoon.com/10-emerging-technologies-to-look-out-for-in-2021-ur4j37gk)
+### [296. 10 Emerging Technologies to Look out for in 2021](https://hackernoon.com/10-emerging-technologies-to-look-out-for-in-2021-ur4j37gk)
 ![](https://cdn.hackernoon.com/images/xAywf9IK1LWKDY6dn7qOWCY8uqi2-5t6n35ec.jpeg)
 Let's talk about the top 10 growing tech of 2021. All the technologies hold tremendous potential and offer promising career opportunities.
 
-### [295. How Do I Adopt a 'Zero Trust'  Framework?](https://hackernoon.com/how-do-i-adopt-the-zero-trust-framework)
+### [297. How Do I Adopt a 'Zero Trust'  Framework?](https://hackernoon.com/how-do-i-adopt-the-zero-trust-framework)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-rn93v1k.jpeg)
 With increased attack surfaces caused by businesses migrating to the cloud and remote workers, Zero Trust has become cybersecurity's most valuable thing.
 
-### [296. The Basics of Hacking [An Introduction]](https://hackernoon.com/the-basics-of-hacking-an-introduction-iwft31rg)
+### [298. The Basics of Hacking [An Introduction]](https://hackernoon.com/the-basics-of-hacking-an-introduction-iwft31rg)
 ![](https://cdn.hackernoon.com/drafts/8mmq326d.png)
 Today we will begin our journey into the basics of hacking. Let’s not waste any time.
-
-### [297. Facial Recognition Login: Is This The New Security Standard?](https://hackernoon.com/facial-recognition-login-is-this-the-new-security-standard-3o27930qc)
-![](https://cdn.hackernoon.com/drafts/p326g30j5.png)
-Facial recognition could help your business enhance security standards 10X. We explore the business challenges the technology can solve.Thirty thousand. That’s the number of infrared dots used by the latest standard today to create a map of your face for authentication and enable you to securely access your device. The process is as simple as it can get - look right into the camera and the facial login system does the rest. Today, facial recognition login isn’t restricted to unlocking phones, tagging people on social media or scanning crowds for security threats. It’s made its way into gaming, grocery stores, airports and payment platforms. Facial recognition login software and biometric technology are making inroads into building robust security platforms - with a system that’s designed to prevent spoofing by masks or photos. It’s permeated into security and law enforcement, even making paperless travel a reality.
-
-### [298. 5 Most Common Phone Scams: How to Spot Them and Protect Yourself](https://hackernoon.com/5-most-common-phone-scams-how-to-spot-them-and-protect-yourself-iy27371y)
-![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-k9e35zk.jpeg)
-Phone scams, aka Vishing, is an easy and popular method hackers use to trick people into giving out their personal information. These are a few common scams
 
 ### [299. Do Notepad++ Plugins Expose Users to Cyber Threats?](https://hackernoon.com/do-notepad-plugins-expose-users-to-cyber-threats)
 ![](https://cdn.hackernoon.com/images/NWpq4jytojbRAKzDBLrMu6oVgEm2-1od3od1.jpeg)
 Does Notepad++ make it easier for hackers to invade systems? Get to know how you can protect yourself while using Notepad++
 
-### [300. The Vulnerabilities of NFC Payments Need to be Addressed](https://hackernoon.com/the-vulnerabilities-of-nfc-payments-need-to-be-addressed-tl4e37e0)
-![](https://cdn.hackernoon.com/images/5O5F1ZCMRLYcTRCXuHmZRnmps2t2-h51z32yr.jpeg)
-Even though NFC appears to be so easy and convenient, it is not without its vulnerabilities, especially in regards to security. 
+### [300. Facial Recognition Login: Is This The New Security Standard?](https://hackernoon.com/facial-recognition-login-is-this-the-new-security-standard-3o27930qc)
+![](https://cdn.hackernoon.com/drafts/p326g30j5.png)
+Facial recognition could help your business enhance security standards 10X. We explore the business challenges the technology can solve.Thirty thousand. That’s the number of infrared dots used by the latest standard today to create a map of your face for authentication and enable you to securely access your device. The process is as simple as it can get - look right into the camera and the facial login system does the rest. Today, facial recognition login isn’t restricted to unlocking phones, tagging people on social media or scanning crowds for security threats. It’s made its way into gaming, grocery stores, airports and payment platforms. Facial recognition login software and biometric technology are making inroads into building robust security platforms - with a system that’s designed to prevent spoofing by masks or photos. It’s permeated into security and law enforcement, even making paperless travel a reality.
 
-### [301. Your Water Supply is Under Cyber Attack](https://hackernoon.com/your-water-supply-is-under-cyber-attack)
+### [301. 5 Most Common Phone Scams: How to Spot Them and Protect Yourself](https://hackernoon.com/5-most-common-phone-scams-how-to-spot-them-and-protect-yourself-iy27371y)
+![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-k9e35zk.jpeg)
+Phone scams, aka Vishing, is an easy and popular method hackers use to trick people into giving out their personal information. These are a few common scams
+
+### [302. Your Water Supply is Under Cyber Attack](https://hackernoon.com/your-water-supply-is-under-cyber-attack)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-4793pyt.jpeg)
 Water sector cyberattacks have become increasingly common. What is causing the rise in attacks, and what steps are being taken to resolve the issue?
 
-### [302. 5 Tips to Prevent Hackers From Stealing Your Crypto Assets](https://hackernoon.com/5-tips-to-prevent-hackers-from-stealing-your-crypto-assets-e2243zig)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY9rMZWB519Sdc5NCpWOpjM3aWag1-u2f3zig.jpeg?alt=media&token=03a7d145-4ca8-4932-9262-c565f83569e0)
-With the continuing rise of cybercrime and targeting private computers, tablets, and phones, the question is not if but when you will be hacked. So, better safe than sorry, make sure your crypto assets are safe and secure even if your device is breached by sticking to the following tips.
-
-### [303. What is Cyber Grooming?](https://hackernoon.com/what-is-cyber-grooming)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-kf93q4b.jpeg)
-Cyber grooming is one of the most dangerous types of cyber crimes since the victims are teenagers and young kids.
+### [303. The Vulnerabilities of NFC Payments Need to be Addressed](https://hackernoon.com/the-vulnerabilities-of-nfc-payments-need-to-be-addressed-tl4e37e0)
+![](https://cdn.hackernoon.com/images/5O5F1ZCMRLYcTRCXuHmZRnmps2t2-h51z32yr.jpeg)
+Even though NFC appears to be so easy and convenient, it is not without its vulnerabilities, especially in regards to security. 
 
 ### [304. Is That Utility Bill Legit? How to Identify a Utilities Scam](https://hackernoon.com/is-that-utility-bill-legit-how-to-identify-a-utilities-scam)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-f993sa7.jpeg)
 Have you received an unusual or suspicious utility bill? Here's how to tell if it's a scam.
 
-### [305. Custom HTTP Request Signing: A Detailed Guide to Writing a Burp Suite Extension](https://hackernoon.com/a-pentester-took-apart-a-websites-code-to-prove-it-was-totally-pointless)
-![](https://cdn.hackernoon.com/images/TYJUMtiClUZJ10sVuaeuHOy548K2-mg1832pt.png)
-In this article, I'll walk you through how to reverse-engineer Javascript code and show you how to write my Burp Suite extension in practice.
+### [305. What is Cyber Grooming?](https://hackernoon.com/what-is-cyber-grooming)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-kf93q4b.jpeg)
+Cyber grooming is one of the most dangerous types of cyber crimes since the victims are teenagers and young kids.
 
-### [306. 8 Ways Crypto Wallets Can be Hacked ](https://hackernoon.com/8-ways-crypto-wallets-can-be-hacked)
-![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-yzf3jb4.jpeg)
-Today there are a lot of ways how to hack a cryptocurrency wallet. I discuss 8 vulnerabilities for your cryptocurrencies in the wallet and how to protect them.
+### [306. 5 Tips to Prevent Hackers From Stealing Your Crypto Assets](https://hackernoon.com/5-tips-to-prevent-hackers-from-stealing-your-crypto-assets-e2243zig)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY9rMZWB519Sdc5NCpWOpjM3aWag1-u2f3zig.jpeg?alt=media&token=03a7d145-4ca8-4932-9262-c565f83569e0)
+With the continuing rise of cybercrime and targeting private computers, tablets, and phones, the question is not if but when you will be hacked. So, better safe than sorry, make sure your crypto assets are safe and secure even if your device is breached by sticking to the following tips.
 
-### [307. AI Agents Could Be Running Your Security Operations Center (SOC) To Prevent Attacks](https://hackernoon.com/ai-agent-could-be-running-your-security-operations-center-to-prevent-attacks)
-![](https://cdn.hackernoon.com/images/4ktYJul4oHaIGfJAJPOJMZgObXg1-4a42tkz.jpeg)
-As our reliance on AI-enabled hyper-automation increases, we will leverage human expertise to design robust Workflows capable of managing repetitive tasks.
-
-### [308. How to Avoid the Cyber Security Risks that Affect Social Media](https://hackernoon.com/how-to-avoid-the-cyber-security-risks-that-affect-social-media)
-![](https://cdn.hackernoon.com/images/RKMlJx8lfbWMC35XuP6ocaanBzi1-qt93qy3.jpeg)
-From data loss or account hacking to the loss of your hard work, being aware of threats is the first step in preventing falling victim to cyber crimes.
-
-### [309. Women in Cybersecurity with SheSec Pakistan on The HackerNoon Podcast](https://hackernoon.com/women-in-cybersecurity-with-shesec-pakistan-on-the-hackernoon-podcast)
+### [307. Women in Cybersecurity with SheSec Pakistan on The HackerNoon Podcast](https://hackernoon.com/women-in-cybersecurity-with-shesec-pakistan-on-the-hackernoon-podcast)
 ![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-sea3ii9.jpeg)
 Misbah Fatima (Head of Security) and Farza Ashraf (Security Analyst) from Idenfo and SheSec Pakistan talk about how we can increase the number of women in STEM.
 
-### [310. How Secure are the Top Frameworks for Development?](https://hackernoon.com/how-secure-are-the-top-frameworks-for-development)
+### [308. Custom HTTP Request Signing: A Detailed Guide to Writing a Burp Suite Extension](https://hackernoon.com/a-pentester-took-apart-a-websites-code-to-prove-it-was-totally-pointless)
+![](https://cdn.hackernoon.com/images/TYJUMtiClUZJ10sVuaeuHOy548K2-mg1832pt.png)
+In this article, I'll walk you through how to reverse-engineer Javascript code and show you how to write my Burp Suite extension in practice.
+
+### [309. 8 Ways Crypto Wallets Can be Hacked ](https://hackernoon.com/8-ways-crypto-wallets-can-be-hacked)
+![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-yzf3jb4.jpeg)
+Today there are a lot of ways how to hack a cryptocurrency wallet. I discuss 8 vulnerabilities for your cryptocurrencies in the wallet and how to protect them.
+
+### [310. AI Agents Could Be Running Your Security Operations Center (SOC) To Prevent Attacks](https://hackernoon.com/ai-agent-could-be-running-your-security-operations-center-to-prevent-attacks)
+![](https://cdn.hackernoon.com/images/4ktYJul4oHaIGfJAJPOJMZgObXg1-4a42tkz.jpeg)
+As our reliance on AI-enabled hyper-automation increases, we will leverage human expertise to design robust Workflows capable of managing repetitive tasks.
+
+### [311. How to Avoid the Cyber Security Risks that Affect Social Media](https://hackernoon.com/how-to-avoid-the-cyber-security-risks-that-affect-social-media)
+![](https://cdn.hackernoon.com/images/RKMlJx8lfbWMC35XuP6ocaanBzi1-qt93qy3.jpeg)
+From data loss or account hacking to the loss of your hard work, being aware of threats is the first step in preventing falling victim to cyber crimes.
+
+### [312. How Secure are the Top Frameworks for Development?](https://hackernoon.com/how-secure-are-the-top-frameworks-for-development)
 ![](https://cdn.hackernoon.com/images/xWx1eln9Ida9r216TnPyHFrKw1J2-aq93pz6.jpeg)
 If you've seen headlines like "Top Frameworks", have you wondered why they are considered the best? Are cyber security vulnerabilities considered in this case?
 
-### [311. Do NOT Leave GraphQL Exposed Online](https://hackernoon.com/do-not-leave-graphql-exposed-online)
+### [313. Do NOT Leave GraphQL Exposed Online](https://hackernoon.com/do-not-leave-graphql-exposed-online)
 ![](https://cdn.hackernoon.com/images/IRj9IIbyAHeTBUUb5MBZl3ThjTj2-et02fnc.jpeg)
 In this post, I’d like to share my unpopular opinion on what GraphQL is really meant to be.
 
-### [312. What happened After I Scanned 2.6 Million Domains for Exposed .DS_Store Files](https://hackernoon.com/what-happened-after-i-scanned-26-million-domains-for-exposed-ds_store-files)
+### [314. What happened After I Scanned 2.6 Million Domains for Exposed .DS_Store Files](https://hackernoon.com/what-happened-after-i-scanned-26-million-domains-for-exposed-ds_store-files)
 ![](https://cdn.hackernoon.com/images/yVDYqzHTcHRhsOezPV8xukpYVY42-rqa36hu.jpeg)
 
 
-### [313. 9 Things Hollywood Gets Wrong About Hacking](https://hackernoon.com/9-things-hollywood-gets-wrong-about-hacking)
+### [315. 9 Things Hollywood Gets Wrong About Hacking](https://hackernoon.com/9-things-hollywood-gets-wrong-about-hacking)
 ![](https://cdn.hackernoon.com/images/l7noBCUFwmcERrcGKL5jHUS0UcV2-ay93lg1.png)
 Movie hacking ≠ reality: Real cyberattacks rely on phishing, not fast code. Moonlock, MacPaw’s cybersecurity division, reveals how films get it wrong.
 
-### [314. The Importance for Cyber Security in Investment Banking Industry ](https://hackernoon.com/the-need-for-cyber-security-in-investment-banking-industry-o0q2hnl)
-![](https://cdn.hackernoon.com/drafts/vrn82hsk.png)
-Today, finding the best investments takes more than looking for market leaders. The investors today look for companies that has secure systems apart from profit generation, huge market share, strong growth potential, or a reasonable valuation. cybersecurity is a crucial growth-oriented strategy for their portfolio.
-
-### [315. Is TikTok a Security Risk for Businesses?](https://hackernoon.com/is-tiktok-a-security-risk-for-businesses)
+### [316. Is TikTok a Security Risk for Businesses?](https://hackernoon.com/is-tiktok-a-security-risk-for-businesses)
 ![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-t193qz9.jpeg)
 Possible security and ethical concerns on TikTok raise questions about whether businesses should be using the platform.
 
-### [316. Defining the Difference Between EPP, EDR, MDR & XDR](https://hackernoon.com/defining-the-difference-between-epp-edr-mdr-and-xdr)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-fj0355x.jpeg)
-Before going into details about the pros and cons of EPP, EDR and XDR, I want to set the common field and introduce the basics about their differences.
-
-### [317. Cerber Ransomware Explained: How to Protect, Detect, and Recover](https://hackernoon.com/cerber-ransomware-explained-how-to-protect-detect-and-recover)
-![](https://cdn.hackernoon.com/images/YkCf930zFRTLwK7MSVzDq3HlEOj2-g893orl.jpeg)
-This blog post covers Cerber ransomware, infection methods, the working principle, how to remove Cerber ransomware, and how to protect against Cerber. 
-
-### [318. How to Deploy & Monitor Honeypots on GCP with Kibana [Tutorial]](https://hackernoon.com/deploying-and-monitoring-honeypots-on-gcp-with-kibana-nd1d3066)
-![](https://cdn.hackernoon.com/drafts/hy14q30rd.png)
-One of my favourite areas of cybersecurity is SIEM (Security Incident Event Management). In 2017 I wrote a post on how I got a role in cyber security, one of my recommendations was using the Elastic Stack as a SIEM as a start-off point for those looking to understand log analysis and how to investigate incidents. But one of the main gripes people had was, where can they get data to work on in their home environments. This post will focus on setting up a honeypot that already utilises the ELK Stack…
-
-### [319. The “Connection Not Private” Warning Explained](https://hackernoon.com/the-connection-not-private-warning-explained)
+### [317. The “Connection Not Private” Warning Explained](https://hackernoon.com/the-connection-not-private-warning-explained)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-ll92hlz.jpeg)
 Each time you visit a website, your web browser (e.g., Chrome, Safari, or Firefox) first checks for the existence of one of two digital certificates
 
-### [320. How to Tell if Your Twitter Has Been Hacked](https://hackernoon.com/how-to-tell-if-your-twitter-has-been-hacked-g81c37fe)
+### [318. Defining the Difference Between EPP, EDR, MDR & XDR](https://hackernoon.com/defining-the-difference-between-epp-edr-mdr-and-xdr)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-fj0355x.jpeg)
+Before going into details about the pros and cons of EPP, EDR and XDR, I want to set the common field and introduce the basics about their differences.
+
+### [319. The Importance for Cyber Security in Investment Banking Industry ](https://hackernoon.com/the-need-for-cyber-security-in-investment-banking-industry-o0q2hnl)
+![](https://cdn.hackernoon.com/drafts/vrn82hsk.png)
+Today, finding the best investments takes more than looking for market leaders. The investors today look for companies that has secure systems apart from profit generation, huge market share, strong growth potential, or a reasonable valuation. cybersecurity is a crucial growth-oriented strategy for their portfolio.
+
+### [320. Cerber Ransomware Explained: How to Protect, Detect, and Recover](https://hackernoon.com/cerber-ransomware-explained-how-to-protect-detect-and-recover)
+![](https://cdn.hackernoon.com/images/YkCf930zFRTLwK7MSVzDq3HlEOj2-g893orl.jpeg)
+This blog post covers Cerber ransomware, infection methods, the working principle, how to remove Cerber ransomware, and how to protect against Cerber. 
+
+### [321. How to Deploy & Monitor Honeypots on GCP with Kibana [Tutorial]](https://hackernoon.com/deploying-and-monitoring-honeypots-on-gcp-with-kibana-nd1d3066)
+![](https://cdn.hackernoon.com/drafts/hy14q30rd.png)
+One of my favourite areas of cybersecurity is SIEM (Security Incident Event Management). In 2017 I wrote a post on how I got a role in cyber security, one of my recommendations was using the Elastic Stack as a SIEM as a start-off point for those looking to understand log analysis and how to investigate incidents. But one of the main gripes people had was, where can they get data to work on in their home environments. This post will focus on setting up a honeypot that already utilises the ELK Stack…
+
+### [322. How to Tell if Your Twitter Has Been Hacked](https://hackernoon.com/how-to-tell-if-your-twitter-has-been-hacked-g81c37fe)
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-0sf356q.jpeg)
 Twitter is a popular social media platform used to interact with other users via tweets. These four indicators will help tell if your Twitter has been hacked. 
 
-### [321. Log4J Vulnerability: A Legacy of Cybersecurity from Java to Blockchain and Minecraft ](https://hackernoon.com/log4j-vulnerability-a-legacy-of-cybersecurity-from-java-to-blockchain-and-minecraft)
-![](https://cdn.hackernoon.com/images/RHANbxrXjsYoxIMTyKJFleCFJyC3-bp038vb.jpeg)
-The who, what, where, why, and how to fix the Log4j vulnerability. 
-
-### [322. The Rise of Business VPNs and SASE: Securing the Evolving Enterprise Landscape](https://hackernoon.com/the-rise-of-business-vpns-and-sase-securing-the-evolving-enterprise-landscape)
-![](https://cdn.hackernoon.com/images/5oBTEH5hn9MHMoz41E3LIHOJx8i1-7h83xoj.jpeg)
-As businesses increasingly rely on cloud-based resources and remote workforces, the need for robust security solutions grows.
-
-### [323. Secure Coding Practices Every Developer Should Know](https://hackernoon.com/secure-coding-practices-every-developer-should-know)
-![](https://cdn.hackernoon.com/images/OHYkX14AfEgwn2U06uGItMBzFDm1-6993rhk.jpeg)
-This introductory article will help you to understand the best security standards and secure coding practices. 
-
-### [324. Don’t Let Fraud Cost Your Business](https://hackernoon.com/dont-let-fraud-cost-your-business)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ql92ahw.jpeg)
-We’ve all probably received a badly worded email in the past promising us a great fortune or claiming we are winners of a prize draw we didn’t enter. 
-
-### [325. The Rise Of AI & Cyber Security - 8 Must Try Tools In 2022](https://hackernoon.com/the-rise-of-ai-and-cyber-security-8-must-try-tools-in-2022)
-![](https://cdn.hackernoon.com/images/6beDFapIsvcNsu16G9jSBDW6Y603-4w92jqd.gif.webp)
-Know How AI-based cybersecurity tools can provide up to date knowledge of global and industry specific threats to help make critical prioritization decisions
-
-### [326. 7 Ways to Prevent and Mitigate Malware Attacks](https://hackernoon.com/7-ways-to-prevent-and-mitigate-malware-attacks)
-![](https://cdn.hackernoon.com/images/aXkqXpHN0UaTMhM46EEaYT14bZi1-2w03789.jpeg)
-Knowing how to prevent malware attacks or mitigate those that are already on your devices is crucial. Here are seven effective tips you need to adopt to secure 
-
-### [327. 10 Cybersecurity Books Every Business Owner Should Read](https://hackernoon.com/10-cybersecurity-books-every-business-owner-should-read-zwez362j)
-![](https://cdn.hackernoon.com/images/nj2i36pu.jpg)
-Last year, according to MarketWatch.com, data breaches increased by 17%, which makes understanding cybersecurity an absolute must for all of us.
-
-### [328. 4 DeFi Security Risks Explained: Understanding Common Vulnerabilities](https://hackernoon.com/4-defi-security-risks-explained-understanding-common-vulnerabilities)
-![](https://cdn.hackernoon.com/images/dVFQCEaMASf2HLhSBCHxAx2H4IF3-p592ekr.jpeg)
-Vulnerabilities in DeFi contracts led to 44 separate incidents of eye watering losses in 2022. Read about the top four classes of vulnerabilities. 
-
-### [329. True Hackers and the Monsters we Invent](https://hackernoon.com/true-hackers-and-the-monsters-we-invent)
-![](https://cdn.hackernoon.com/images/sWgUkcWK6naafqrMYXQ9swM3irf2-fla2cbf.png)
-Common misconceptions about hacking that makes you vulnerable and how to avoid them.
-
-### [330. The 5 Things Businesses Need to Know to Stop Online Fraud!](https://hackernoon.com/the-5-things-businesses-need-to-know-to-stop-online-fraud)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8q92bqk.jpeg)
-The 5 Things Businesses Need to Know to Stop Online Fraud!
-
-### [331. Everything You Need to Know About a White Hat Hacker](https://hackernoon.com/everything-you-need-to-know-about-a-white-hat-hacker)
-![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-rv0362f.jpeg)
-White hat hackers find and exploit vulnerabilities within a company's network or system with the intention to provide remediation steps to mitigate these risks.
-
-### [332. Cybersecurity Risks Worth Considering in Online Trading](https://hackernoon.com/cybersecurity-risks-worth-considering-in-online-trading)
-![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-yp8311j.jpeg)
-As online trading platforms grow in popularity, hackers increase their attacks. Here are the cybersecurity risks in online trading.
-
-### [333. Advanced Heuristics to Detect Zero-Day Attacks](https://hackernoon.com/advanced-heuristics-to-detect-zero-day-attacks-8e3335lt)
-![](https://cdn.hackernoon.com/images/KrX0hfO0NDMvBgver86nLlvaayt2-sz1845ca.jpeg)
-Zero-Day Attacks are becoming increasingly common and widespread in the world of cybersecurity. Heuristics detection may help to detect such vulnerabilities.
-
-### [334. Why Phishing is Still the Most Successful Hacking Technique](https://hackernoon.com/why-phishing-is-still-the-most-successful-hacking-technique)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-syd3koj.jpeg)
-The reality of this situation is, no one can stop phishing completely. For sure, there are multiple steps a company can use anti-phishing protection.
-
-### [335. When AI Goes Rogue - The Curious Case of Microsoft's Bing Chat](https://hackernoon.com/when-ai-goes-rogue-the-curious-case-of-microsofts-bing-chat)
-![](https://cdn.hackernoon.com/images/o7AnrhiFRpOGjxeBqUyez1lUzlH3-lpa3pbx.jpeg)
-Generative conversational AI like ChatGPT can create innovative opportunities. However, as in the case of Bing Chat, it also can behave erratically. 
-
-### [336. How to Use ChatGPT for Malware Analysis ](https://hackernoon.com/how-to-use-chatgpt-for-malware-analysis)
-![](https://cdn.hackernoon.com/images/FVMkI9EnDphjfwLooVc91pcy0rR2-bmd4x3q.jpeg)
-How exactly is AI useful in addressing malware attacks? Let’s focus on three tasks that can be greatly facilitated with the help of an AI assistant.
-
-### [337. Your Wi-Fi Cameras may be getting Attacked ](https://hackernoon.com/your-wi-fi-cameras-may-be-getting-attacked)
-![](https://cdn.hackernoon.com/images/1yeuFftUzKRT5YTxuVLPKYa7Uep2-0w93pur.jpeg)
-Your Wi-Fi security cameras are probably not secure.  See how we disable our camera network with a simple DoS attack.
-
-### [338. The Importance of IoT Security ](https://hackernoon.com/the-importance-of-iot-security)
-![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-s192h8p.jpeg)
-Let's look at why security is very important for IoT devices
-
-### [339. Homomorphic Encryption — for Web Apps 🤔 (Part 1)](https://hackernoon.com/homomorphic-encryption-for-web-apps-zfa93ysr)
-![](https://cdn.hackernoon.com/drafts/772q3yr3.png)
-Where Do I Start?
-
-### [340. Why 25% of Bitcoin Supply Faces Quantum Threat and What QANplatform Is Doing About It](https://hackernoon.com/why-25percent-of-bitcoin-supply-faces-quantum-threat-and-what-qanplatform-is-doing-about-it)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-vh03b9t.png)
-QANplatform's QAN XLINK passes Hacken security audit, offering quantum-resistant protection for 25% of Bitcoin supply vulnerable to future attacks.
-
-### [341. Web Tracking Revealed: What You Need to Know ](https://hackernoon.com/web-tracking-revealed-what-you-need-to-know)
-![](https://cdn.hackernoon.com/images/RlvxrX3WGnOoYckXvanG0ZcyKyl2-zj93xuo.jpeg)
-Web tracking is where website trackers and organizations monitor users’ behavior online, what they do online, learn which pages they visit, and more.
-
-### [342. The Zomato API Bug That Turns Phone Numbers Into Location Intel](https://hackernoon.com/the-zomato-api-bug-that-turns-phone-numbers-into-location-intel)
+### [323. The Zomato API Bug That Turns Phone Numbers Into Location Intel](https://hackernoon.com/the-zomato-api-bug-that-turns-phone-numbers-into-location-intel)
 ![](https://cdn.hackernoon.com/images/oTzyHSSezgcBN1frVH16swiFeX83-lk83ehm.webp)
 By uploading a phone number, bad actors can extract a user’’ restaurant recommendation history and restaurant coordinates.
 
-### [343. DevSecOps Principles and Key Steps for Securing the CI/CD Pipeline](https://hackernoon.com/devsecops-principles-and-key-steps-for-securing-the-cicd-pipeline)
-![](https://cdn.hackernoon.com/images/f7mvcLjRzefkWf55Afwfc6OSxO93-ts92lu7.jpeg)
-This article will discuss the fundamental principles of DevSecOps and provide key steps for securing your organization’s CI/CD Pipeline.
+### [324. Log4J Vulnerability: A Legacy of Cybersecurity from Java to Blockchain and Minecraft ](https://hackernoon.com/log4j-vulnerability-a-legacy-of-cybersecurity-from-java-to-blockchain-and-minecraft)
+![](https://cdn.hackernoon.com/images/RHANbxrXjsYoxIMTyKJFleCFJyC3-bp038vb.jpeg)
+The who, what, where, why, and how to fix the Log4j vulnerability. 
 
-### [344. Best Domain and Brand Monitoring Tools in the Market Today: A Quick Guide](https://hackernoon.com/a-quick-guide-on-the-best-domain-and-brand-monitoring-tools-in-the-market-today-6b13e32zo)
-![](https://cdn.hackernoon.com/drafts/hj18s32ae.png)
-Brand and domain strategy and protection go hand in hand, as your domain is an integral part of your business identity. Brand abuse is not limited to selling counterfeit goods and copyright infringement, however.
+### [325. The Rise of Business VPNs and SASE: Securing the Evolving Enterprise Landscape](https://hackernoon.com/the-rise-of-business-vpns-and-sase-securing-the-evolving-enterprise-landscape)
+![](https://cdn.hackernoon.com/images/5oBTEH5hn9MHMoz41E3LIHOJx8i1-7h83xoj.jpeg)
+As businesses increasingly rely on cloud-based resources and remote workforces, the need for robust security solutions grows.
 
-### [345. 6 GitHub Repos for DevSecOps in 2024](https://hackernoon.com/6-github-repos-for-devsecops-in-2024)
+### [326. Secure Coding Practices Every Developer Should Know](https://hackernoon.com/secure-coding-practices-every-developer-should-know)
+![](https://cdn.hackernoon.com/images/OHYkX14AfEgwn2U06uGItMBzFDm1-6993rhk.jpeg)
+This introductory article will help you to understand the best security standards and secure coding practices. 
+
+### [327. Don’t Let Fraud Cost Your Business](https://hackernoon.com/dont-let-fraud-cost-your-business)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ql92ahw.jpeg)
+We’ve all probably received a badly worded email in the past promising us a great fortune or claiming we are winners of a prize draw we didn’t enter. 
+
+### [328. The Rise Of AI & Cyber Security - 8 Must Try Tools In 2022](https://hackernoon.com/the-rise-of-ai-and-cyber-security-8-must-try-tools-in-2022)
+![](https://cdn.hackernoon.com/images/6beDFapIsvcNsu16G9jSBDW6Y603-4w92jqd.gif.webp)
+Know How AI-based cybersecurity tools can provide up to date knowledge of global and industry specific threats to help make critical prioritization decisions
+
+### [329. Why 25% of Bitcoin Supply Faces Quantum Threat and What QANplatform Is Doing About It](https://hackernoon.com/why-25percent-of-bitcoin-supply-faces-quantum-threat-and-what-qanplatform-is-doing-about-it)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-vh03b9t.png)
+QANplatform's QAN XLINK passes Hacken security audit, offering quantum-resistant protection for 25% of Bitcoin supply vulnerable to future attacks.
+
+### [330. 7 Ways to Prevent and Mitigate Malware Attacks](https://hackernoon.com/7-ways-to-prevent-and-mitigate-malware-attacks)
+![](https://cdn.hackernoon.com/images/aXkqXpHN0UaTMhM46EEaYT14bZi1-2w03789.jpeg)
+Knowing how to prevent malware attacks or mitigate those that are already on your devices is crucial. Here are seven effective tips you need to adopt to secure 
+
+### [331. Cybersecurity Risks Worth Considering in Online Trading](https://hackernoon.com/cybersecurity-risks-worth-considering-in-online-trading)
+![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-yp8311j.jpeg)
+As online trading platforms grow in popularity, hackers increase their attacks. Here are the cybersecurity risks in online trading.
+
+### [332. The 5 Things Businesses Need to Know to Stop Online Fraud!](https://hackernoon.com/the-5-things-businesses-need-to-know-to-stop-online-fraud)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8q92bqk.jpeg)
+The 5 Things Businesses Need to Know to Stop Online Fraud!
+
+### [333. True Hackers and the Monsters we Invent](https://hackernoon.com/true-hackers-and-the-monsters-we-invent)
+![](https://cdn.hackernoon.com/images/sWgUkcWK6naafqrMYXQ9swM3irf2-fla2cbf.png)
+Common misconceptions about hacking that makes you vulnerable and how to avoid them.
+
+### [334. 10 Cybersecurity Books Every Business Owner Should Read](https://hackernoon.com/10-cybersecurity-books-every-business-owner-should-read-zwez362j)
+![](https://cdn.hackernoon.com/images/nj2i36pu.jpg)
+Last year, according to MarketWatch.com, data breaches increased by 17%, which makes understanding cybersecurity an absolute must for all of us.
+
+### [335. 4 DeFi Security Risks Explained: Understanding Common Vulnerabilities](https://hackernoon.com/4-defi-security-risks-explained-understanding-common-vulnerabilities)
+![](https://cdn.hackernoon.com/images/dVFQCEaMASf2HLhSBCHxAx2H4IF3-p592ekr.jpeg)
+Vulnerabilities in DeFi contracts led to 44 separate incidents of eye watering losses in 2022. Read about the top four classes of vulnerabilities. 
+
+### [336. Everything You Need to Know About a White Hat Hacker](https://hackernoon.com/everything-you-need-to-know-about-a-white-hat-hacker)
+![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-rv0362f.jpeg)
+White hat hackers find and exploit vulnerabilities within a company's network or system with the intention to provide remediation steps to mitigate these risks.
+
+### [337. Advanced Heuristics to Detect Zero-Day Attacks](https://hackernoon.com/advanced-heuristics-to-detect-zero-day-attacks-8e3335lt)
+![](https://cdn.hackernoon.com/images/KrX0hfO0NDMvBgver86nLlvaayt2-sz1845ca.jpeg)
+Zero-Day Attacks are becoming increasingly common and widespread in the world of cybersecurity. Heuristics detection may help to detect such vulnerabilities.
+
+### [338. Your Wi-Fi Cameras may be getting Attacked ](https://hackernoon.com/your-wi-fi-cameras-may-be-getting-attacked)
+![](https://cdn.hackernoon.com/images/1yeuFftUzKRT5YTxuVLPKYa7Uep2-0w93pur.jpeg)
+Your Wi-Fi security cameras are probably not secure.  See how we disable our camera network with a simple DoS attack.
+
+### [339. Why Phishing is Still the Most Successful Hacking Technique](https://hackernoon.com/why-phishing-is-still-the-most-successful-hacking-technique)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-syd3koj.jpeg)
+The reality of this situation is, no one can stop phishing completely. For sure, there are multiple steps a company can use anti-phishing protection.
+
+### [340. When AI Goes Rogue - The Curious Case of Microsoft's Bing Chat](https://hackernoon.com/when-ai-goes-rogue-the-curious-case-of-microsofts-bing-chat)
+![](https://cdn.hackernoon.com/images/o7AnrhiFRpOGjxeBqUyez1lUzlH3-lpa3pbx.jpeg)
+Generative conversational AI like ChatGPT can create innovative opportunities. However, as in the case of Bing Chat, it also can behave erratically. 
+
+### [341. How to Use ChatGPT for Malware Analysis ](https://hackernoon.com/how-to-use-chatgpt-for-malware-analysis)
+![](https://cdn.hackernoon.com/images/FVMkI9EnDphjfwLooVc91pcy0rR2-bmd4x3q.jpeg)
+How exactly is AI useful in addressing malware attacks? Let’s focus on three tasks that can be greatly facilitated with the help of an AI assistant.
+
+### [342. The Importance of IoT Security ](https://hackernoon.com/the-importance-of-iot-security)
+![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-s192h8p.jpeg)
+Let's look at why security is very important for IoT devices
+
+### [343. Homomorphic Encryption — for Web Apps 🤔 (Part 1)](https://hackernoon.com/homomorphic-encryption-for-web-apps-zfa93ysr)
+![](https://cdn.hackernoon.com/drafts/772q3yr3.png)
+Where Do I Start?
+
+### [344. 6 GitHub Repos for DevSecOps in 2024](https://hackernoon.com/6-github-repos-for-devsecops-in-2024)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-4s83v2q.jpeg)
 These are the essential building blocks and tidbits that can help you arrange for a DevSec Ops experiment or build out your own program.
 
-### [346. A Deep Dive Into Market-Leading Blockchain Analytic Solutions](https://hackernoon.com/a-deep-dive-into-market-leading-blockchain-analytic-solutions)
+### [345. Web Tracking Revealed: What You Need to Know ](https://hackernoon.com/web-tracking-revealed-what-you-need-to-know)
+![](https://cdn.hackernoon.com/images/RlvxrX3WGnOoYckXvanG0ZcyKyl2-zj93xuo.jpeg)
+Web tracking is where website trackers and organizations monitor users’ behavior online, what they do online, learn which pages they visit, and more.
+
+### [346. DevSecOps Principles and Key Steps for Securing the CI/CD Pipeline](https://hackernoon.com/devsecops-principles-and-key-steps-for-securing-the-cicd-pipeline)
+![](https://cdn.hackernoon.com/images/f7mvcLjRzefkWf55Afwfc6OSxO93-ts92lu7.jpeg)
+This article will discuss the fundamental principles of DevSecOps and provide key steps for securing your organization’s CI/CD Pipeline.
+
+### [347. Best Domain and Brand Monitoring Tools in the Market Today: A Quick Guide](https://hackernoon.com/a-quick-guide-on-the-best-domain-and-brand-monitoring-tools-in-the-market-today-6b13e32zo)
+![](https://cdn.hackernoon.com/drafts/hj18s32ae.png)
+Brand and domain strategy and protection go hand in hand, as your domain is an integral part of your business identity. Brand abuse is not limited to selling counterfeit goods and copyright infringement, however.
+
+### [348. A Deep Dive Into Market-Leading Blockchain Analytic Solutions](https://hackernoon.com/a-deep-dive-into-market-leading-blockchain-analytic-solutions)
 ![](https://cdn.hackernoon.com/images/RnMZwfsSDPZG9OBXlKwd37WEDsH3-n593y84.jpeg)
 Explore the pros and cons of industry-leading blockchain analytic tools, examining how each solution handles data across the blockchain network.
 
 
-### [347. Securing the Internet of Things: Addressing the Growing Threat of Botnets and Cyber Attacks](https://hackernoon.com/securing-the-internet-of-things-addressing-the-growing-threat-of-botnets-and-cyber-attacks)
+### [349. Securing the Internet of Things: Addressing the Growing Threat of Botnets and Cyber Attacks](https://hackernoon.com/securing-the-internet-of-things-addressing-the-growing-threat-of-botnets-and-cyber-attacks)
 ![](https://cdn.hackernoon.com/images/dKTqs7OPL1ch5GDjrkvyoaYWIOI2-t4134w8.jpeg)
 Internet of things devices has improved our lives tremendously both in our homes and businesses. However, these devices come with some security vulnerabilities.
 
-### [348. How You Can Evaluate the Security of Your NPM Package Dependencies](https://hackernoon.com/how-you-can-evaluate-the-security-of-your-npm-package-dependencies-2vbb3yf2)
-![](https://cdn.hackernoon.com/images/pyfd3y5a.jpg)
-Imagine that you've been working on a node.js project for a few years now. You started or joined it when you were younger. The code works, you can vouch for that it’s good and secure for yourself and your team. But how do you validate all those NPM modules that saved you so much time and effort over the years? It works, nobody has hacked you yet, so why should you bother?
-
-### [349. Cybersecurity + Biomimicry: Why, What, and How We Could Learn from Nature](https://hackernoon.com/cybersecurity-biomimicry-why-what-and-how-we-could-learn-from-nature)
+### [350. Cybersecurity + Biomimicry: Why, What, and How We Could Learn from Nature](https://hackernoon.com/cybersecurity-biomimicry-why-what-and-how-we-could-learn-from-nature)
 ![](https://cdn.hackernoon.com/images/ywzf2Wmk2AecBNXbMjpWtrBaq9G3-ctl2bzl.jpeg)
 Biomimicry is a powerful approach that allows to solve the problems of cybersecurity by looking at it through the lens of nature. 
 
-### [350. How Will The World End? Top 4 Cyber Apocalypse Scenarios](https://hackernoon.com/how-will-the-world-end-top-4-cyber-apocalypse-scenarios)
+### [351. How Will The World End? Top 4 Cyber Apocalypse Scenarios](https://hackernoon.com/how-will-the-world-end-top-4-cyber-apocalypse-scenarios)
 ![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-w693ov3.jpeg)
 Take a look at a few of the cyber security scenarios which could lead to the end of the world, in true science fiction cinematic fashion.
 
-### [351. What Is Passwordless Authentication and How Does It Work? The Magic of FIDO2 and U2F Standards](https://hackernoon.com/what-is-passwordless-authentication-and-how-does-it-work-the-magic-of-fido2-and-u2f-standards)
+### [352. What Is Passwordless Authentication and How Does It Work? The Magic of FIDO2 and U2F Standards](https://hackernoon.com/what-is-passwordless-authentication-and-how-does-it-work-the-magic-of-fido2-and-u2f-standards)
 ![](https://cdn.hackernoon.com/images/rIpGxchk36XsSH1R2Ue2nXDLZZf1-79c3rm2.png)
 Logging into a website or service using the traditional username and password combination isn’t the best or safest way of going about it anymore.
 
-### [352. “Hackers for Hire” Is a Rising Industry That Demands Ethical Considerations](https://hackernoon.com/hackers-for-hire-is-a-rising-industry-that-demands-ethical-considerations)
+### [353. How You Can Evaluate the Security of Your NPM Package Dependencies](https://hackernoon.com/how-you-can-evaluate-the-security-of-your-npm-package-dependencies-2vbb3yf2)
+![](https://cdn.hackernoon.com/images/pyfd3y5a.jpg)
+Imagine that you've been working on a node.js project for a few years now. You started or joined it when you were younger. The code works, you can vouch for that it’s good and secure for yourself and your team. But how do you validate all those NPM modules that saved you so much time and effort over the years? It works, nobody has hacked you yet, so why should you bother?
+
+### [354. “Hackers for Hire” Is a Rising Industry That Demands Ethical Considerations](https://hackernoon.com/hackers-for-hire-is-a-rising-industry-that-demands-ethical-considerations)
 ![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-3993hr3.jpeg)
 The cost of hiring a hacker can go up to thousands of dollars for a well-executed hack. White hat hackers from freelancing sites like Fiverr or Upwork can probe
 
-### [353. Beyond Encryption: The Expanding Role of VPNs in Cybersecurity](https://hackernoon.com/beyond-encryption-the-expanding-role-of-vpns-in-cybersecurity)
+### [355. Beyond Encryption: The Expanding Role of VPNs in Cybersecurity](https://hackernoon.com/beyond-encryption-the-expanding-role-of-vpns-in-cybersecurity)
 ![](https://cdn.hackernoon.com/images/5oBTEH5hn9MHMoz41E3LIHOJx8i1-je83xwi.jpeg)
 Discover the multifaceted role of Virtual Private Networks (VPNs) beyond encryption.
 
-### [354. 5 Most Vulnerable Industries for Data Breaches in 2018](https://hackernoon.com/5-most-vulnerable-industries-for-data-breaches-in-2018-87069dd6e35e)
-![](https://cdn.hackernoon.com/drafts/u6v338y.png)
-In February 2018, the Under Armour hack turned out to be one of the biggest data breaches in history, affecting over 150,000,000 users. The sheer number of victims made it, at the time, a record-breaking data theft, but what's really disturbing about this incident? 
-
-### [355. How 5 Massive Data Breaches Could Have Been Prevented](https://hackernoon.com/recent-data-breaches-and-what-could-have-been-done-to-prevent-them-ux7x3ym7)
+### [356. How 5 Massive Data Breaches Could Have Been Prevented](https://hackernoon.com/recent-data-breaches-and-what-could-have-been-done-to-prevent-them-ux7x3ym7)
 ![](https://cdn.hackernoon.com/drafts/vq9b3y5q.png)
 One of the biggest losses for companies? Inadequate cybersecurity.
 
-### [356. How Employees Can Help Prevent Cybersecurity Threats](https://hackernoon.com/how-employees-can-help-prevent-cybersecurity-threats)
+### [357. 5 Most Vulnerable Industries for Data Breaches in 2018](https://hackernoon.com/5-most-vulnerable-industries-for-data-breaches-in-2018-87069dd6e35e)
+![](https://cdn.hackernoon.com/drafts/u6v338y.png)
+In February 2018, the Under Armour hack turned out to be one of the biggest data breaches in history, affecting over 150,000,000 users. The sheer number of victims made it, at the time, a record-breaking data theft, but what's really disturbing about this incident? 
+
+### [358. How Employees Can Help Prevent Cybersecurity Threats](https://hackernoon.com/how-employees-can-help-prevent-cybersecurity-threats)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-lt930up.jpeg)
 Employees need to be aware of the significance of cyber security because cyber dangers have persisted since the creation of the internet.
 
-### [357. The Basics of Hacking: Part 2](https://hackernoon.com/the-basics-of-hacking-part-2-w1d3368v)
-![](https://cdn.hackernoon.com/drafts/zzgy36ob.png)
-Let’s rock and roll. Below we have a C-program designed to accept and print command line arguments:
+### [359. MCP Is Dead. The CLI Is Winning the AI Agent Stack](https://hackernoon.com/mcp-is-dead-the-cli-is-winning-the-ai-agent-stack)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-dw024n8.jpeg)
+Why developers are ditching bloated agent protocols and turning to the CLI as the most practical foundation for building AI agents in 2026.
 
-### [358. SIM Swap Fraud Prevention and the Role Mobile Network Operators Play](https://hackernoon.com/sim-swap-fraud-prevention-and-the-role-mobile-network-operators-play-o73e3zj0)
-![](https://cdn.hackernoon.com/images/8GbioDNZBPVh0woM6oA51HJmipB3-xg1x31b3.jpeg)
-SIM swap fraud prevention is something everyone should know about to fight identity theft. This article will define SIM swapping and how to prevent it.
-
-### [359. The Hidden Pitfalls of APIs: XSS Attacks in Single Page Applications (SPA)](https://hackernoon.com/the-hidden-pitfalls-of-apis-xss-attacks-in-single-page-applications-spa)
+### [360. The Hidden Pitfalls of APIs: XSS Attacks in Single Page Applications (SPA)](https://hackernoon.com/the-hidden-pitfalls-of-apis-xss-attacks-in-single-page-applications-spa)
 ![](https://cdn.hackernoon.com/images/X44biqt9MDhXMGs6i91IBf1pd8u2-b092yoy.png)
 In our digital city, Cross-Site Scripting (XSS) lurks like a shadowy corner. This sly security flaw can manipulate APIs, turning them into unwitting tools for 
 
-### [360. Ransomware-as-a-Service: SaaS' Evil Twin](https://hackernoon.com/ransomware-as-a-service-saas-evil-twin)
-![](https://cdn.hackernoon.com/images/5XvoNtq6rpdh7Nb9a2doWFT4Nfp1-6c93f6y.jpeg)
-This article will educate you about RaaS groups and protective measures against ransomware attacks. 
+### [361. The Basics of Hacking: Part 2](https://hackernoon.com/the-basics-of-hacking-part-2-w1d3368v)
+![](https://cdn.hackernoon.com/drafts/zzgy36ob.png)
+Let’s rock and roll. Below we have a C-program designed to accept and print command line arguments:
 
-### [361. Biting Back Against Phishers](https://hackernoon.com/biting-back-against-phishers)
-![](https://cdn.hackernoon.com/images/eRpRz2MjskcqbcRSZp4xZaVbjUm1-k3a3jcq.jpeg)
-How one company learned to deal with Phishing attempts that tried to compromise their cybersecurity system and how they learned to fight back against them.
+### [362. SIM Swap Fraud Prevention and the Role Mobile Network Operators Play](https://hackernoon.com/sim-swap-fraud-prevention-and-the-role-mobile-network-operators-play-o73e3zj0)
+![](https://cdn.hackernoon.com/images/8GbioDNZBPVh0woM6oA51HJmipB3-xg1x31b3.jpeg)
+SIM swap fraud prevention is something everyone should know about to fight identity theft. This article will define SIM swapping and how to prevent it.
 
-### [362. 8 Benefits of Computer Vision in the Security Industry](https://hackernoon.com/8-benefits-of-computer-vision-in-the-security-industry)
-![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-lw93of5.jpeg)
-AI has revolutionized the physical security industry with computer vision. Here are eight of the most significant benefits.
-
-### [363. A Tale of Two LLMs: Open Source vs the US Military's LLM Trials](https://hackernoon.com/a-tale-of-two-llms-open-source-vs-the-us-militarys-llm-trials)
-![](https://cdn.hackernoon.com/images/RHANbxrXjsYoxIMTyKJFleCFJyC3-gl93tdj.jpeg)
- This article explores the security posture of open-source LLM projects and the US military's trials of classified LLMs, prominent in the world of AI. 
-
-### [364. GitHACK! We are the vulnerability](https://hackernoon.com/githack-we-are-the-reason-for-the-hack)
-![](https://cdn.hackernoon.com/images/cGfg9TlH1bgGje7eIzVSvxyMCMn2-o3a2kzp.jpeg)
-Github has been hacked. The affected computers cloned the affected repositories. How much is it Github's fault? How can we protect ourselves from this? 
-
-### [365. Everything You Need to Know About Content Security Policy (CSP)](https://hackernoon.com/everything-you-need-to-know-about-content-security-policy-csp-qt2g37wv)
+### [363. Everything You Need to Know About Content Security Policy (CSP)](https://hackernoon.com/everything-you-need-to-know-about-content-security-policy-csp-qt2g37wv)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-ni2o329q.jpeg)
 Content Security Policy (CSP) is an added layer of security that helps to detect and mitigate certain types of attacks including XSS and data injection attacks.
 
-### [366. Crypto Wallet Security 101](https://hackernoon.com/crypto-wallet-security-101)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-ho93llg.jpeg)
-As a 101 guide, I will explain the common reasons for the sudden disappearance of cryptocurrency inside the wallet.
+### [364. 8 Benefits of Computer Vision in the Security Industry](https://hackernoon.com/8-benefits-of-computer-vision-in-the-security-industry)
+![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-lw93of5.jpeg)
+AI has revolutionized the physical security industry with computer vision. Here are eight of the most significant benefits.
 
-### [367. Mapping Risk to Cyber Threats, and Adopt Zero Trust by NIST's CSF](https://hackernoon.com/mapping-risk-to-cyber-threats-and-adopt-zero-trust-by-nists-csf)
+### [365. Ransomware-as-a-Service: SaaS' Evil Twin](https://hackernoon.com/ransomware-as-a-service-saas-evil-twin)
+![](https://cdn.hackernoon.com/images/5XvoNtq6rpdh7Nb9a2doWFT4Nfp1-6c93f6y.jpeg)
+This article will educate you about RaaS groups and protective measures against ransomware attacks. 
+
+### [366. Biting Back Against Phishers](https://hackernoon.com/biting-back-against-phishers)
+![](https://cdn.hackernoon.com/images/eRpRz2MjskcqbcRSZp4xZaVbjUm1-k3a3jcq.jpeg)
+How one company learned to deal with Phishing attempts that tried to compromise their cybersecurity system and how they learned to fight back against them.
+
+### [367. GitHACK! We are the vulnerability](https://hackernoon.com/githack-we-are-the-reason-for-the-hack)
+![](https://cdn.hackernoon.com/images/cGfg9TlH1bgGje7eIzVSvxyMCMn2-o3a2kzp.jpeg)
+Github has been hacked. The affected computers cloned the affected repositories. How much is it Github's fault? How can we protect ourselves from this? 
+
+### [368. A Tale of Two LLMs: Open Source vs the US Military's LLM Trials](https://hackernoon.com/a-tale-of-two-llms-open-source-vs-the-us-militarys-llm-trials)
+![](https://cdn.hackernoon.com/images/RHANbxrXjsYoxIMTyKJFleCFJyC3-gl93tdj.jpeg)
+ This article explores the security posture of open-source LLM projects and the US military's trials of classified LLMs, prominent in the world of AI. 
+
+### [369. Mapping Risk to Cyber Threats, and Adopt Zero Trust by NIST's CSF](https://hackernoon.com/mapping-risk-to-cyber-threats-and-adopt-zero-trust-by-nists-csf)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-vmb3h2t.jpeg)
 NIST's CSF can be a valuable tool for organizations to improve their security maturity. I will  take further steps to align CSF to be more understandable.
 
-### [368. The Blockchain is a Broken Chain After-all](https://hackernoon.com/the-blockchain-is-a-broken-chain-after-all)
+### [370. The Blockchain is a Broken Chain After-all](https://hackernoon.com/the-blockchain-is-a-broken-chain-after-all)
 ![](https://cdn.hackernoon.com/images/o7AnrhiFRpOGjxeBqUyez1lUzlH3-d492cqi.jpeg)
 There are several security issues affecting blockchain. To have a wider adoption, the community must address these issues by implementing appropriate controls
-
-### [369. Security Alert: Identifying Malicious Extensions in Microsoft's VSCode Marketplace](https://hackernoon.com/security-alert-identifying-malicious-extensions-in-microsofts-vscode-marketplace)
-![](https://cdn.hackernoon.com/images/DPivmb3HwpYCw2SjiZFGBpUfC5R2-frd3rkg.jpeg)
-Microsoft vscode remove several extension after finding out, they were using malware to stole user information and credentials such as discord and google chrome
-
-### [370. Protecting Your React.js Source Code with Jscrambler](https://hackernoon.com/protecting-your-reactjs-source-code-with-jscrambler)
-![](https://cdn.hackernoon.com/images/1JNoLAkx1ZO5O8qO5dcdNjh6RQw1-0oa3ktl.jpeg)
-In this step-by-step guide, you'll learn how to protect your React.js application with Jscrambler to prevent code theft and reverse engineering.
 
 ### [371. How Secure Is BeReal?](https://hackernoon.com/how-secure-is-bereal)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-hs93p83.jpeg)
 BeReal is becoming increasingly popular — but it gives some security experts pause. Here's why.
 
-### [372. Corporate Hacking: How It Happens and How to Protect Your Business](https://hackernoon.com/corporate-hacking-how-it-happens-and-how-to-protect-your-business)
+### [372. Crypto Wallet Security 101](https://hackernoon.com/crypto-wallet-security-101)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-ho93llg.jpeg)
+As a 101 guide, I will explain the common reasons for the sudden disappearance of cryptocurrency inside the wallet.
+
+### [373. Security Alert: Identifying Malicious Extensions in Microsoft's VSCode Marketplace](https://hackernoon.com/security-alert-identifying-malicious-extensions-in-microsofts-vscode-marketplace)
+![](https://cdn.hackernoon.com/images/DPivmb3HwpYCw2SjiZFGBpUfC5R2-frd3rkg.jpeg)
+Microsoft vscode remove several extension after finding out, they were using malware to stole user information and credentials such as discord and google chrome
+
+### [374. Protecting Your React.js Source Code with Jscrambler](https://hackernoon.com/protecting-your-reactjs-source-code-with-jscrambler)
+![](https://cdn.hackernoon.com/images/1JNoLAkx1ZO5O8qO5dcdNjh6RQw1-0oa3ktl.jpeg)
+In this step-by-step guide, you'll learn how to protect your React.js application with Jscrambler to prevent code theft and reverse engineering.
+
+### [375. Corporate Hacking: How It Happens and How to Protect Your Business](https://hackernoon.com/corporate-hacking-how-it-happens-and-how-to-protect-your-business)
 ![](https://cdn.hackernoon.com/images/7DtulTMuZUNhuHGe0I2LlQhRAdu1-5r93q7w.jpeg)
 In this article, we’re going to take a look at some of the most common ways that companies get hacked as well as some of the most famous examples.
 
-### [373. Is AI Eavesdropping on You?: Defend Your Passwords From AI Keystroke Pattern Detection](https://hackernoon.com/is-ai-eavesdropping-on-you-defend-your-passwords-from-ai-keystroke-pattern-detection)
-![](https://cdn.hackernoon.com/images/dYS1YGEDJnYvNorgqqKV2VUHJ7e2-8s93kec.jpeg)
-To protect your web application from sound-based attacks or similar side-channel attacks, it is essential to have a multi-layered approach.
-
-### [374. How Did Lendf.Me Lose $25 Million to A Reentrancy Attack? [An Analysis]](https://hackernoon.com/how-did-lendfme-lose-dollar25-million-to-a-reentrancy-attack-an-analysis-091iy32s7)
-![](https://cdn.hackernoon.com/drafts/xg1o32c1.png)
-DeFi or decentralized finance is a growing sector in the blockchain and cryptocurrency space that defines an ecosystem of decentralized applications providing financial services with no governing authority.
-
-### [375. Secure Sessions in JavaScript: Forking Express-Session to Improve Security](https://hackernoon.com/secure-sessions-in-javascript-forking-express-session-to-improve-security-s62c35mk)
-![](https://cdn.hackernoon.com/images/OfBgU60E2IVl4uEe0h0tIxrGUFe2-pa1m3ohx.jpeg)
-If you ever made a webapp in JS, chances are you used Express as a web framework, Passport for user authentication and express-session to maintain users logged in. This article focuses on sessions and how we forked express-session to make it more secure.
-
-### [376. Is Complexity the Enemy of Security?](https://hackernoon.com/is-complexity-the-enemy-of-security)
-![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-b083va1.jpeg)
-We've all heard the cybersecurity mantra "complexity is the enemy of security." But is it true?
-
-### [377. The Telemetry Trap: Why Developer Metrics Corrode the Systems They Claim to Measure](https://hackernoon.com/the-telemetry-trap-why-developer-metrics-corrode-the-systems-they-claim-to-measure)
-![](https://cdn.hackernoon.com/images/ZaUoF8KpR5XpJCS96n75HJMcWQP2-2y03w7v.jpeg)
-66% of developers do not trust the productivity metrics applied to their work. 
-
-### [378. 8 Sources of Cyber Threat & Domain Intelligence for Enterprise Security](https://hackernoon.com/8-sources-of-cyber-threat-and-domain-intelligence-for-enterprise-security-sz2j3xqi)
-![](https://cdn.hackernoon.com/drafts/ne7r3wia.png)
-The cyber threat intelligence market is expected to keep growing with new and improved commercial security products and managed security services. As part of these offerings, comprehensive and accurate threat intelligence sources such as domain intelligence are essential in facilitating threat detection, correlation, mitigation, and response. 
-
-### [379. How to Protect Your Smart Vehicle from Cyberattacks ](https://hackernoon.com/how-to-protect-your-smart-vehicle-from-cyberattacks)
-![](https://cdn.hackernoon.com/images/o7AnrhiFRpOGjxeBqUyez1lUzlH3-zb93pwx.jpeg)
-Smart vehicles make driving a thrill! However, they are vulnerable to cyberattacks. Making smart security choices keeps you safe and your connected ride secure.
-
-### [380. How Weak Social Media Passwords Can Be Cracked with SocialBox in Termux](https://hackernoon.com/how-weak-social-media-passwords-can-be-cracked-with-socialbox-in-termux)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-p0022ep.webp)
-Learn how weak social media passwords can be cracked and why social media cybersecurity matters. Stay safe online.
-
-### [381. Why The Rubber Duck is The Ultimate Hacker Gadget](https://hackernoon.com/why-the-rubber-duck-is-the-ultimate-hacker-gadget)
+### [376. Why The Rubber Duck is The Ultimate Hacker Gadget](https://hackernoon.com/why-the-rubber-duck-is-the-ultimate-hacker-gadget)
 ![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-6e93o2v.jpeg)
 The idea of rubber duck debugging is straightforward. When you are struggling with a problem, you simply ask the duck.
 
-### [382. Network Scanner Working and Implementation](https://hackernoon.com/network-scanner-working-and-implementation)
+### [377. Secure Sessions in JavaScript: Forking Express-Session to Improve Security](https://hackernoon.com/secure-sessions-in-javascript-forking-express-session-to-improve-security-s62c35mk)
+![](https://cdn.hackernoon.com/images/OfBgU60E2IVl4uEe0h0tIxrGUFe2-pa1m3ohx.jpeg)
+If you ever made a webapp in JS, chances are you used Express as a web framework, Passport for user authentication and express-session to maintain users logged in. This article focuses on sessions and how we forked express-session to make it more secure.
+
+### [378. Is AI Eavesdropping on You?: Defend Your Passwords From AI Keystroke Pattern Detection](https://hackernoon.com/is-ai-eavesdropping-on-you-defend-your-passwords-from-ai-keystroke-pattern-detection)
+![](https://cdn.hackernoon.com/images/dYS1YGEDJnYvNorgqqKV2VUHJ7e2-8s93kec.jpeg)
+To protect your web application from sound-based attacks or similar side-channel attacks, it is essential to have a multi-layered approach.
+
+### [379. Is Complexity the Enemy of Security?](https://hackernoon.com/is-complexity-the-enemy-of-security)
+![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-b083va1.jpeg)
+We've all heard the cybersecurity mantra "complexity is the enemy of security." But is it true?
+
+### [380. The Telemetry Trap: Why Developer Metrics Corrode the Systems They Claim to Measure](https://hackernoon.com/the-telemetry-trap-why-developer-metrics-corrode-the-systems-they-claim-to-measure)
+![](https://cdn.hackernoon.com/images/ZaUoF8KpR5XpJCS96n75HJMcWQP2-2y03w7v.jpeg)
+66% of developers do not trust the productivity metrics applied to their work. 
+
+### [381. How Did Lendf.Me Lose $25 Million to A Reentrancy Attack? [An Analysis]](https://hackernoon.com/how-did-lendfme-lose-dollar25-million-to-a-reentrancy-attack-an-analysis-091iy32s7)
+![](https://cdn.hackernoon.com/drafts/xg1o32c1.png)
+DeFi or decentralized finance is a growing sector in the blockchain and cryptocurrency space that defines an ecosystem of decentralized applications providing financial services with no governing authority.
+
+### [382. How to Protect Your Smart Vehicle from Cyberattacks ](https://hackernoon.com/how-to-protect-your-smart-vehicle-from-cyberattacks)
+![](https://cdn.hackernoon.com/images/o7AnrhiFRpOGjxeBqUyez1lUzlH3-zb93pwx.jpeg)
+Smart vehicles make driving a thrill! However, they are vulnerable to cyberattacks. Making smart security choices keeps you safe and your connected ride secure.
+
+### [383. Network Scanner Working and Implementation](https://hackernoon.com/network-scanner-working-and-implementation)
 ![](https://cdn.hackernoon.com/images/x7oAbeUtx1YeP5GIalmxyzfySdx2-d292r7t.jpeg)
 In this blog, we will see how a network mapper works and how we can implement these network security tools in Python for our cybersecurity related projects 
 
-### [383. A Guide to Conducting Privacy Risk Assessments](https://hackernoon.com/a-guide-to-conducting-privacy-risk-assessments)
-![](https://cdn.hackernoon.com/images/VZOWIQVQBFaj3mDciuOGCWOVHm72-xz93prm.jpeg)
-Let’s dive into the details of what a privacy risk assessment is, why it can benefit businesses, and how to conduct one.
+### [384. 8 Sources of Cyber Threat & Domain Intelligence for Enterprise Security](https://hackernoon.com/8-sources-of-cyber-threat-and-domain-intelligence-for-enterprise-security-sz2j3xqi)
+![](https://cdn.hackernoon.com/drafts/ne7r3wia.png)
+The cyber threat intelligence market is expected to keep growing with new and improved commercial security products and managed security services. As part of these offerings, comprehensive and accurate threat intelligence sources such as domain intelligence are essential in facilitating threat detection, correlation, mitigation, and response. 
 
-### [384. A Former Hacker’s 10 Tips on Staying Safe Online](https://hackernoon.com/a-former-hackers-10-tips-on-staying-safe-online)
+### [385. A Former Hacker’s 10 Tips on Staying Safe Online](https://hackernoon.com/a-former-hackers-10-tips-on-staying-safe-online)
 ![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-s892hgy.jpeg)
 While in prison, Hiếu wrote an online security guide for the average internet user. 
-
-### [385. So, You Want to Be a Hacker? ](https://hackernoon.com/so-you-want-to-be-a-hacker)
-![](https://cdn.hackernoon.com/images/Xqr4CUe3DYeURV7orh73yMqsUxI2-9d83jp9.jpeg)
-Explore cybersecurity through Capture The Flag competitions! This article invites beginners to a thrilling CTF event, offering a hands-on way to learn hacking!
 
 ### [386. Gathering Threat Intelligence to Strengthen Security](https://hackernoon.com/gathering-threat-intelligence-to-strengthen-security)
 ![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-eba3iob.jpeg)
 Nour Fateen, a Sales Engineering Manager at Recorded Future, talks to Amy about threat intelligence. They chat about the Threat Intelligence Lifecycle and more.
 
-### [387. I Built an AI Copilot That Thinks in Exploits, Not Prompts](https://hackernoon.com/i-built-an-ai-copilot-that-thinks-in-exploits-not-prompts)
+### [387. A Guide to Conducting Privacy Risk Assessments](https://hackernoon.com/a-guide-to-conducting-privacy-risk-assessments)
+![](https://cdn.hackernoon.com/images/VZOWIQVQBFaj3mDciuOGCWOVHm72-xz93prm.jpeg)
+Let’s dive into the details of what a privacy risk assessment is, why it can benefit businesses, and how to conduct one.
+
+### [388. Threshold Signatures: Their Potential in Blockchain Security and Practical Applications](https://hackernoon.com/threshold-signatures-their-potential-in-blockchain-security-and-practical-applications)
+![](https://cdn.hackernoon.com/images/1R6u8YCgb0hj0skZG5K30MpJPwA2-q293zfn.jpeg)
+This article describes why people need the threshold signature, and what inspiring properties it may bring
+
+### [389. So, You Want to Be a Hacker? ](https://hackernoon.com/so-you-want-to-be-a-hacker)
+![](https://cdn.hackernoon.com/images/Xqr4CUe3DYeURV7orh73yMqsUxI2-9d83jp9.jpeg)
+Explore cybersecurity through Capture The Flag competitions! This article invites beginners to a thrilling CTF event, offering a hands-on way to learn hacking!
+
+### [390. I Built an AI Copilot That Thinks in Exploits, Not Prompts](https://hackernoon.com/i-built-an-ai-copilot-that-thinks-in-exploits-not-prompts)
 ![](https://cdn.hackernoon.com/images/image-of-a-ninja-giving-a-computer-a-brain-ab071hxx1zl1vbbap3i3xnng.png)
 The story of how the AI pentesting assistant, RAWPA, evolved from a static toolkit into a dynamic, learning system. 
 
-### [388. How the Quantum Computer will Change our Lives](https://hackernoon.com/how-the-quantum-computer-will-change-our-lives-im1q34f3)
-![](https://cdn.hackernoon.com/images/AGa6OXjjwjdjGF24YQqLGODirdD2-dur3eu0.jpeg)
-The countdown has now begun. For some it will take 15 years, for others it will only take 10, but the quantum computer is a near reality and is likely to bring about a huge change in the history of mankind.
-
-### [389. How to Secure Video Streaming Against Cyberattacks](https://hackernoon.com/how-to-secure-video-streaming-against-cyberattacks)
+### [391. How to Secure Video Streaming Against Cyberattacks](https://hackernoon.com/how-to-secure-video-streaming-against-cyberattacks)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-uf831qd.jpeg)
 Follow these guidelines to defend video streaming platforms and their users against common cyberattacks.
-
-### [390. The Basics of Hacking: Part 3](https://hackernoon.com/the-basics-of-hacking-part-3-u2ej36x2)
-![](https://cdn.hackernoon.com/drafts/ch10136h9.png)
-So we’ve all compiled programs before, but do you know how your computer divided up and saved the different parts of the program? Be patient, this kind of overwhelmed me at first. Let’s jump in.
-
-### [391. Threshold Signatures: Their Potential in Blockchain Security and Practical Applications](https://hackernoon.com/threshold-signatures-their-potential-in-blockchain-security-and-practical-applications)
-![](https://cdn.hackernoon.com/images/1R6u8YCgb0hj0skZG5K30MpJPwA2-q293zfn.jpeg)
-This article describes why people need the threshold signature, and what inspiring properties it may bring
 
 ### [392. Protect Yourself From Identity Theft By Using Zero-Knowledge Proof, Solidity, and Ethereum](https://hackernoon.com/protect-yourself-from-identity-theft-by-using-zero-knowledge-proof-solidity-and-ethereum)
 ![](https://cdn.hackernoon.com/images/GFxWNaVUGadCuz5svjQlUTu1iz12-ygg3byf.jpeg)
 Blockchain technology, specifically Zero-Knowledge Proof (ZKP), Solidity, and Ethereum can provide a secure and efficient solution to prevent identity theft.
 
-### [393. How to Get a Job in Cybersecurity ](https://hackernoon.com/how-to-get-a-job-in-cybersecurity)
+### [393. How the Quantum Computer will Change our Lives](https://hackernoon.com/how-the-quantum-computer-will-change-our-lives-im1q34f3)
+![](https://cdn.hackernoon.com/images/AGa6OXjjwjdjGF24YQqLGODirdD2-dur3eu0.jpeg)
+The countdown has now begun. For some it will take 15 years, for others it will only take 10, but the quantum computer is a near reality and is likely to bring about a huge change in the history of mankind.
+
+### [394. The Basics of Hacking: Part 3](https://hackernoon.com/the-basics-of-hacking-part-3-u2ej36x2)
+![](https://cdn.hackernoon.com/drafts/ch10136h9.png)
+So we’ve all compiled programs before, but do you know how your computer divided up and saved the different parts of the program? Be patient, this kind of overwhelmed me at first. Let’s jump in.
+
+### [395. Cosmic Rays vs. Code: How a Solar Flare Knocked the Digital Brains Out of 6,000 Airbus Jets](https://hackernoon.com/cosmic-rays-vs-code-how-a-solar-flare-knocked-the-digital-brains-out-of-6000-airbus-jets)
+![](https://cdn.hackernoon.com/images/bI3BzyBanbVxEZqmLV7jRnw6d9o2-e0e36np.png)
+A single 'bit blip' from a solar flare exposed a critical flaw in the Airbus A320's ELAC L104 software, causing a global safety crisis.
+
+### [396. How to Get a Job in Cybersecurity ](https://hackernoon.com/how-to-get-a-job-in-cybersecurity)
 ![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-1u93p92.png)
 Good mentors, and a willingness to take opportunities that come up (and abandon those that aren't working out) can take you a long way in a career.
 
-### [394. How Hackers Host C2 Servers on Google Infrastructure (Google Sheets & Drive)](https://hackernoon.com/how-hackers-host-c2-servers-on-google-infrastructure-google-sheets-and-drive)
+### [397. How Hackers Host C2 Servers on Google Infrastructure (Google Sheets & Drive)](https://hackernoon.com/how-hackers-host-c2-servers-on-google-infrastructure-google-sheets-and-drive)
 ![](https://cdn.hackernoon.com/images/BugaLC6k6haVzqRw5mELajiQSkZ2-3l92gra.jpeg)
 A guide on how to use Google Workspace's Drive and Sheets (formerly G-Suite) to communicate and exfiltrate information natively Drive and Sheets.
 
-### [395. Kubernetes vs Docker: Differences Explained](https://hackernoon.com/kubernetes-vs-docker-differences-explained)
+### [398. Kubernetes vs Docker: Differences Explained](https://hackernoon.com/kubernetes-vs-docker-differences-explained)
 ![](https://cdn.hackernoon.com/images/YkCf930zFRTLwK7MSVzDq3HlEOj2-q993oop.jpeg)
 Learn about Docker and Kubernetes container solutions, and discover the differences between Kubernetes and Docker to choose the one that best suits your needs.
-
-### [396. The CRITICAL Log4j Java Vulnerability: How to Detect and Mitigate It](https://hackernoon.com/the-critical-log4j-java-vulnerability-how-to-detect-and-mitigate-it)
-![](https://cdn.hackernoon.com/images/k9fpdrD7fVYN0J0ujanPHjc50vP2-je035tp.jpeg)
-CVE-2021–44228 (Log4Shell) is an unauthenticated Remote Code Execution(RCE) vulnerability & 0-day exploit which allows an attacker to take over a system
-
-### [397. What is BGP Hijacking and How Do You Prevent It?](https://hackernoon.com/what-is-bgp-hijacking-and-how-do-you-prevent-it)
-![](https://cdn.hackernoon.com/images/125QJTRDxBYOCF63KJz9mn0Vqcg2-goa3nx1.jpeg)
-BGP, which stands for Border Gateway Protocol, is a path vector routing protocol that is used to connect external organizations to each other.
-
-### [398. 7 Most Common Zelle Scams to Watch Out For and How They Work](https://hackernoon.com/7-most-common-zelle-scams-to-watch-out-for-and-how-they-work)
-![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-38b3squ.jpeg)
-A list of the most common Zelle scams on the internet. 
 
 ### [399. 10 Common Scams Targeting Healthcare Workers](https://hackernoon.com/10-common-scams-targeting-healthcare-workers)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-fe83wgz.jpeg)
 With AI and telehealth advances come additional ways for scammers to target healthcare workers. Here are the most common scams.
 
-### [400. Meet Sekurno: HackerNoon Company of the Week](https://hackernoon.com/meet-sekurno-hackernoon-company-of-the-week)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-4s0391h.png)
-This week, we present HackerNoon business blogging partner Sekurno: A proactive cybersecurity consultancy that goes beyond the norm.
-
-### [401. Hack Your App Before Hackers Do: 2025's Mobile Pentesting Playbook](https://hackernoon.com/hack-your-app-before-hackers-do-2025s-mobile-pentesting-playbook)
-![](https://cdn.hackernoon.com/images/ZbUO2yti0kcAIfbn2YUghsw02tS2-u5038x9.png)
-Mobile apps are omnipresent—from social media and enterprise to payment wallets. But most are still open to attack. 
-
-### [402. Why Network Security is an Integral Part of Any Internet-Connected Business](https://hackernoon.com/why-network-security-is-an-integral-part-of-any-internet-connected-business)
-![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-mvc3j5a.jpeg)
-Network security is vital for any internet-connected company. Without it, hackers can steal all the data the business has. Bad network security causes problems 
-
-### [403. HackerOne Finds Massive Security Failure In PayPal’s Login Compartment](https://hackernoon.com/hackerone-finds-massive-security-failure-in-paypals-login-compartment-0ice309j)
-![](https://cdn.hackernoon.com/drafts/h92i32x5.png)
-In today’s highly digitized environment, the capabilities to change our lives for the better are virtually endless. The cooperation of humans and technology - be it hardware of software - has made our lives easier and more productive.
-
-### [404. 10 Common Java Vulnerabilities Every Security Engineer Should Know ](https://hackernoon.com/10-common-java-vulnerabilities-every-security-engineer-should-know-fd4f34dr)
-![](https://cdn.hackernoon.com/images/8GbioDNZBPVh0woM6oA51HJmipB3-lj1n3ucn.jpeg)
-This article covers the most common security vulnerabilities for Java programming
-
-### [405. Denial-of-Service Attacks: A Technical Odyssey from Past to Quantum Future](https://hackernoon.com/denial-of-service-attacks-a-technical-odyssey-from-past-to-quantum-future)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-nj82m9x.jpeg)
-In the intricate realm of cybersecurity, the saga of denial-of-service (DoS) attacks unfolds across the annals of computing history.
-
-### [406. CSMA is More Than XDR — An Introduction to Cybersecurity Mesh Architecture](https://hackernoon.com/csma-is-more-than-xdr-an-introduction-to-cybersecurity-mesh-architecture)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-cc93i9h.jpeg)
-Just consider how many service providers and models are in the picture. Therefore, it is time for a new and better approach — Cybersecurity Mesh Architecture.
-
-### [407. Cosmic Rays vs. Code: How a Solar Flare Knocked the Digital Brains Out of 6,000 Airbus Jets](https://hackernoon.com/cosmic-rays-vs-code-how-a-solar-flare-knocked-the-digital-brains-out-of-6000-airbus-jets)
-![](https://cdn.hackernoon.com/images/bI3BzyBanbVxEZqmLV7jRnw6d9o2-e0e36np.png)
-A single 'bit blip' from a solar flare exposed a critical flaw in the Airbus A320's ELAC L104 software, causing a global safety crisis.
-
-### [408. Protect Your Crypto Wallets With InfoSec - The Three-Tier Wallet System and Crypto-Hygiene](https://hackernoon.com/protect-your-crypto-wallets-with-infosec-the-three-tier-wallet-system-and-crypto-hygiene)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-hkb3ins.jpeg)
-Securing your wallets is essential when protecting digital assets against cyberattacks. Let me share how to use cybersecurity skills to boost crypto-security!
-
-### [409. The Cyber Risks of Electric Vehicles](https://hackernoon.com/the-cyber-risks-of-electric-vehicles)
-![](https://cdn.hackernoon.com/images/IPKjUVub7zZXrgyTdZX3FCvQsMp1-bte3k0f.jpeg)
-With the increase in the popularity of electric vehicles, it is essential to be aware of the potential cyber security risks associated with using them.
-
-### [410. Do Honeypots Still Matter?](https://hackernoon.com/do-honeypots-still-matter)
-![](https://cdn.hackernoon.com/images/RHANbxrXjsYoxIMTyKJFleCFJyC3-2f0346v.png)
-In cybersecurity, honeypots are systems or environments designed to lure attackers. The roots of the honeypot idea go much deeper than digital security though.
-
-### [411. Setting Up Pi Zero for Pi-Fi Hacking](https://hackernoon.com/setting-up-pi-zero-for-pi-fi-hacking)
+### [400. Setting Up Pi Zero for Pi-Fi Hacking](https://hackernoon.com/setting-up-pi-zero-for-pi-fi-hacking)
 ![](https://cdn.hackernoon.com/images/na1LA50pIxdXCxwaer7ISkWR5q52-xcr3ius.png)
 Learn how to set up a headless Raspberry Pi Zero W with SSH and Wi-Fi, and access it remotely using your phone and mobile hotspot. Step-by-step guide.
 
-### [412. A Beginner's Guide to Technical Email Security Controls: Understanding SPF, DKIM, and DMARC](https://hackernoon.com/a-beginners-guide-to-technical-email-marketing-understanding-spf-dkim-and-dmarc-ygcu32te)
-![](https://images.unsplash.com/photo-1557568192-2fafc8b5bdc9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-It wouldn’t be technology without even more acronyms! In today’s version of Buzzword Soup, let’s take a look at SPF, DKIM, and DMARC, and how they may help stop the phishing scourge plaguing our inbox! 
+### [401. What is BGP Hijacking and How Do You Prevent It?](https://hackernoon.com/what-is-bgp-hijacking-and-how-do-you-prevent-it)
+![](https://cdn.hackernoon.com/images/125QJTRDxBYOCF63KJz9mn0Vqcg2-goa3nx1.jpeg)
+BGP, which stands for Border Gateway Protocol, is a path vector routing protocol that is used to connect external organizations to each other.
 
-### [413. No System is Safe](https://hackernoon.com/no-system-is-safe)
+### [402. Meet Sekurno: HackerNoon Company of the Week](https://hackernoon.com/meet-sekurno-hackernoon-company-of-the-week)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-4s0391h.png)
+This week, we present HackerNoon business blogging partner Sekurno: A proactive cybersecurity consultancy that goes beyond the norm.
+
+### [403. The CRITICAL Log4j Java Vulnerability: How to Detect and Mitigate It](https://hackernoon.com/the-critical-log4j-java-vulnerability-how-to-detect-and-mitigate-it)
+![](https://cdn.hackernoon.com/images/k9fpdrD7fVYN0J0ujanPHjc50vP2-je035tp.jpeg)
+CVE-2021–44228 (Log4Shell) is an unauthenticated Remote Code Execution(RCE) vulnerability & 0-day exploit which allows an attacker to take over a system
+
+### [404. 7 Most Common Zelle Scams to Watch Out For and How They Work](https://hackernoon.com/7-most-common-zelle-scams-to-watch-out-for-and-how-they-work)
+![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-38b3squ.jpeg)
+A list of the most common Zelle scams on the internet. 
+
+### [405. Hack Your App Before Hackers Do: 2025's Mobile Pentesting Playbook](https://hackernoon.com/hack-your-app-before-hackers-do-2025s-mobile-pentesting-playbook)
+![](https://cdn.hackernoon.com/images/ZbUO2yti0kcAIfbn2YUghsw02tS2-u5038x9.png)
+Mobile apps are omnipresent—from social media and enterprise to payment wallets. But most are still open to attack. 
+
+### [406. Why Network Security is an Integral Part of Any Internet-Connected Business](https://hackernoon.com/why-network-security-is-an-integral-part-of-any-internet-connected-business)
+![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-mvc3j5a.jpeg)
+Network security is vital for any internet-connected company. Without it, hackers can steal all the data the business has. Bad network security causes problems 
+
+### [407. HackerOne Finds Massive Security Failure In PayPal’s Login Compartment](https://hackernoon.com/hackerone-finds-massive-security-failure-in-paypals-login-compartment-0ice309j)
+![](https://cdn.hackernoon.com/drafts/h92i32x5.png)
+In today’s highly digitized environment, the capabilities to change our lives for the better are virtually endless. The cooperation of humans and technology - be it hardware of software - has made our lives easier and more productive.
+
+### [408. CSMA is More Than XDR — An Introduction to Cybersecurity Mesh Architecture](https://hackernoon.com/csma-is-more-than-xdr-an-introduction-to-cybersecurity-mesh-architecture)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-cc93i9h.jpeg)
+Just consider how many service providers and models are in the picture. Therefore, it is time for a new and better approach — Cybersecurity Mesh Architecture.
+
+### [409. 10 Common Java Vulnerabilities Every Security Engineer Should Know ](https://hackernoon.com/10-common-java-vulnerabilities-every-security-engineer-should-know-fd4f34dr)
+![](https://cdn.hackernoon.com/images/8GbioDNZBPVh0woM6oA51HJmipB3-lj1n3ucn.jpeg)
+This article covers the most common security vulnerabilities for Java programming
+
+### [410. Denial-of-Service Attacks: A Technical Odyssey from Past to Quantum Future](https://hackernoon.com/denial-of-service-attacks-a-technical-odyssey-from-past-to-quantum-future)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-nj82m9x.jpeg)
+In the intricate realm of cybersecurity, the saga of denial-of-service (DoS) attacks unfolds across the annals of computing history.
+
+### [411. Do Honeypots Still Matter?](https://hackernoon.com/do-honeypots-still-matter)
+![](https://cdn.hackernoon.com/images/RHANbxrXjsYoxIMTyKJFleCFJyC3-2f0346v.png)
+In cybersecurity, honeypots are systems or environments designed to lure attackers. The roots of the honeypot idea go much deeper than digital security though.
+
+### [412. Protect Your Crypto Wallets With InfoSec - The Three-Tier Wallet System and Crypto-Hygiene](https://hackernoon.com/protect-your-crypto-wallets-with-infosec-the-three-tier-wallet-system-and-crypto-hygiene)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-hkb3ins.jpeg)
+Securing your wallets is essential when protecting digital assets against cyberattacks. Let me share how to use cybersecurity skills to boost crypto-security!
+
+### [413. The Cyber Risks of Electric Vehicles](https://hackernoon.com/the-cyber-risks-of-electric-vehicles)
+![](https://cdn.hackernoon.com/images/IPKjUVub7zZXrgyTdZX3FCvQsMp1-bte3k0f.jpeg)
+With the increase in the popularity of electric vehicles, it is essential to be aware of the potential cyber security risks associated with using them.
+
+### [414. No System is Safe](https://hackernoon.com/no-system-is-safe)
 ![](https://cdn.hackernoon.com/images/DJOjASifpudBoMc47CmpvMcAODX2-1192lja.png)
 A collection of dialogues and explanations from the movie whoami that give an insight into the world of hacking and cybersecurity.
 
-### [414. What Is the Vulnerability Rating Taxonomy (VRT)?](https://hackernoon.com/what-is-the-vulnerability-rating-taxonomy-vrt)
+### [415. A Beginner's Guide to Technical Email Security Controls: Understanding SPF, DKIM, and DMARC](https://hackernoon.com/a-beginners-guide-to-technical-email-marketing-understanding-spf-dkim-and-dmarc-ygcu32te)
+![](https://images.unsplash.com/photo-1557568192-2fafc8b5bdc9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+It wouldn’t be technology without even more acronyms! In today’s version of Buzzword Soup, let’s take a look at SPF, DKIM, and DMARC, and how they may help stop the phishing scourge plaguing our inbox! 
+
+### [416. What Is the Vulnerability Rating Taxonomy (VRT)?](https://hackernoon.com/what-is-the-vulnerability-rating-taxonomy-vrt)
 ![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-bi93qna.png)
 Developed and open-sourced by Bugcrowd, it’s a system designed to address the inherent shortcomings of CVSS ratings when viewed in isolation. 
 
-### [415. A Comprehensive Guide to Penetration Testing](https://hackernoon.com/a-comprehensive-guide-to-penetration-testing)
+### [417. A Comprehensive Guide to Penetration Testing](https://hackernoon.com/a-comprehensive-guide-to-penetration-testing)
 ![](https://cdn.hackernoon.com/images/9DXzfnEdJXV83VxqSGCZwEvi1oc2-qfa3ohx.jpeg)
 We'll go through the Top 5 Pen Testing Firms in this blog article, as well as what makes them special.
-
-### [416. Are Cybersecurity Careers Future Proof?](https://hackernoon.com/are-cybersecurity-careers-future-proof-he2835p0)
-![](https://cdn.hackernoon.com/images/SJV5nHII2LSDwQnXhFja20oHTdx1-am1924oz.jpeg)
-Are the cybersecurity careers of tomorrow still going to be there in the face of relentless automation? 
-
-### [417. The Noonification: 6 Best SQL Programming Books Ranked by Reviews (12/17/2022)](https://hackernoon.com/12-17-2022-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-12/17/2022: Top 5 stories on the Hackernoon homepage!
 
 ### [418. JavaScript Libraries for Implementing Trendy Technologies in Web Apps in 2024](https://hackernoon.com/javascript-libraries-for-implementing-trendy-technologies-in-web-apps-in-2024)
 ![](https://cdn.hackernoon.com/images/3Y2ElJHvj3dL4J86OiboGUBnaGo2-48832v3.jpeg)
 In this article, you will get acquainted with JavaScript libraries that can help you implement trendy functionalities into your web project.
 
-### [419. Best Practices for Key Security for Your Crypto Wallets](https://hackernoon.com/best-practices-for-key-security-for-your-crypto-wallets)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-lv93s5t.jpeg)
-Cryptographic keys are a requirement for any security system. They manage everything, including data encryption and decryption as well as user authentication.
+### [419. The Noonification: 6 Best SQL Programming Books Ranked by Reviews (12/17/2022)](https://hackernoon.com/12-17-2022-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+12/17/2022: Top 5 stories on the Hackernoon homepage!
 
-### [420. How AI is Changing the Cybersecurity Landscape](https://hackernoon.com/how-ai-is-changing-the-cybersecurity-landscape)
-![](https://cdn.hackernoon.com/images/x7oAbeUtx1YeP5GIalmxyzfySdx2-68a31zp.jpeg)
-Read about how AI can be used in Cybersecurity and if it will affect the jobs of cybersecurity personnel.
+### [420. Are Cybersecurity Careers Future Proof?](https://hackernoon.com/are-cybersecurity-careers-future-proof-he2835p0)
+![](https://cdn.hackernoon.com/images/SJV5nHII2LSDwQnXhFja20oHTdx1-am1924oz.jpeg)
+Are the cybersecurity careers of tomorrow still going to be there in the face of relentless automation? 
 
-### [421. Shortage of Cyber Security Professionals Will Create a Staggering 3.5 Million Unfilled Jobs by 2021](https://hackernoon.com/shortage-of-cyber-security-professionals-will-create-a-staggering-35-million-unfilled-jobs-by-2021-1q4w24d3)
-![](https://cdn.hackernoon.com/drafts/hob1b3yra.png)
-Cyber security issues are becoming more prominent every day, so much so that it's questioning the existence of many startups and small-to-mid scale businesses. Recent trends indicate that cyber security attacks have been at an all-time rise. 
-
-### [422. The Cybersecurity Writing Contest 2022: Round 2 Results Announced!](https://hackernoon.com/the-cybersecurity-writing-contest-2022-round-2-results-announced)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-mc93pjx.jpeg)
-Hackers, the Round 2 Results for the Cybersecurity Writing Contest by Twingate and HackerNoon are here!
-
-### [423. Your Resident McAfee Engineer on Cybersecurity, AI, and Career Growth](https://hackernoon.com/your-resident-mcafee-engineer-on-cybersecurity-ai-and-career-growth)
-![](https://cdn.hackernoon.com/images/3pLKRMSt7lUHnCnu223sc45tfuI3-qo237v1.jpeg)
-Hey! I'm a Software Dev Engineer at McAfee Enterprise; nominated for four 2021 Noonies by writing about Authentication, Remote work, Covid, and Remote Teams.
-
-### [424. XDR and its Components Explained — Open XDR vs. Native XDR](https://hackernoon.com/xdr-and-its-components-explained-open-xdr-vs-native-xdr)
+### [421. XDR and its Components Explained — Open XDR vs. Native XDR](https://hackernoon.com/xdr-and-its-components-explained-open-xdr-vs-native-xdr)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-xi93k0d.jpeg)
 Companies have a few options for extended detection and response (XDR) products. But in general, there are primarily two types of XDR —Open and Native.
 
-### [425. Modernizing Secrets Scanning: Part 2–the Semantic Eureka](https://hackernoon.com/modernizing-secrets-scanning-part-2-the-semantic-eureka)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-i893poj.jpeg)
- In the previous part, we examined different types of secrets, understood the core problems, and hit a dead end. Now we are going to make a breakthrough!
+### [422. Best Practices for Key Security for Your Crypto Wallets](https://hackernoon.com/best-practices-for-key-security-for-your-crypto-wallets)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-lv93s5t.jpeg)
+Cryptographic keys are a requirement for any security system. They manage everything, including data encryption and decryption as well as user authentication.
 
-### [426. Where Do Hackers Live: A Deep Dive into My Website's Security Logs](https://hackernoon.com/where-do-hackers-live-a-deep-dive-into-my-websites-security-logs-bplo36rz)
-![](https://cdn.hackernoon.com/drafts/tq2gy338d.png)
-I was casually doing a security audit on my blog recently and decided to look a little deeper into my security logs. With a bit of Linux command line kung fu, some Golang, and Google sheets, I was able to get a pretty good idea of where the attacks are coming from. 
+### [423. How AI is Changing the Cybersecurity Landscape](https://hackernoon.com/how-ai-is-changing-the-cybersecurity-landscape)
+![](https://cdn.hackernoon.com/images/x7oAbeUtx1YeP5GIalmxyzfySdx2-68a31zp.jpeg)
+Read about how AI can be used in Cybersecurity and if it will affect the jobs of cybersecurity personnel.
+
+### [424. How to Be Careful When Sharing WiFi Password With QR Code](https://hackernoon.com/how-to-be-careful-when-sharing-wifi-password-with-qr-code)
+![](https://cdn.hackernoon.com/images/fQPekEkN2vbRfIIok2xUMNvGcAp2-dyb3nb6.jpeg)
+Share your QR code of your network carefully, mistakes can lead to disaster
+
+### [425. Shortage of Cyber Security Professionals Will Create a Staggering 3.5 Million Unfilled Jobs by 2021](https://hackernoon.com/shortage-of-cyber-security-professionals-will-create-a-staggering-35-million-unfilled-jobs-by-2021-1q4w24d3)
+![](https://cdn.hackernoon.com/drafts/hob1b3yra.png)
+Cyber security issues are becoming more prominent every day, so much so that it's questioning the existence of many startups and small-to-mid scale businesses. Recent trends indicate that cyber security attacks have been at an all-time rise. 
+
+### [426. The Cybersecurity Writing Contest 2022: Round 2 Results Announced!](https://hackernoon.com/the-cybersecurity-writing-contest-2022-round-2-results-announced)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-mc93pjx.jpeg)
+Hackers, the Round 2 Results for the Cybersecurity Writing Contest by Twingate and HackerNoon are here!
 
 ### [427. How to Keep Your Mobile Devices Secure](https://hackernoon.com/how-to-keep-your-mobile-devices-secure)
 ![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-p193nv9.jpeg)
 Our phones are our lifelines. They hold our prized possessions such as photos, music, and texts from our loved ones. So, why wouldn’t we do everything we can to
 
-### [428. Why Your Data has Most Likely Been Stolen and What Can You Do About It](https://hackernoon.com/why-your-data-has-most-likely-been-stolen-and-what-can-you-do-about-it-xc2g32f8)
-![](https://cdn.hackernoon.com/drafts/xa22327z.png)
-I used to consider myself pretty knowledgable about the cyber-world, but then I started learning about cyber-security and reading reports by companies like Shape Security, IBM and Snyk.
+### [428. Your Resident McAfee Engineer on Cybersecurity, AI, and Career Growth](https://hackernoon.com/your-resident-mcafee-engineer-on-cybersecurity-ai-and-career-growth)
+![](https://cdn.hackernoon.com/images/3pLKRMSt7lUHnCnu223sc45tfuI3-qo237v1.jpeg)
+Hey! I'm a Software Dev Engineer at McAfee Enterprise; nominated for four 2021 Noonies by writing about Authentication, Remote work, Covid, and Remote Teams.
 
-### [429. The Fundamentals of RF and Encryption for Cybersecurity Analysts](https://hackernoon.com/the-fundamentals-of-rf-and-encryption-for-cybersecurity-analysts)
+### [429. Modernizing Secrets Scanning: Part 2–the Semantic Eureka](https://hackernoon.com/modernizing-secrets-scanning-part-2-the-semantic-eureka)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-i893poj.jpeg)
+ In the previous part, we examined different types of secrets, understood the core problems, and hit a dead end. Now we are going to make a breakthrough!
+
+### [430. Where Do Hackers Live: A Deep Dive into My Website's Security Logs](https://hackernoon.com/where-do-hackers-live-a-deep-dive-into-my-websites-security-logs-bplo36rz)
+![](https://cdn.hackernoon.com/drafts/tq2gy338d.png)
+I was casually doing a security audit on my blog recently and decided to look a little deeper into my security logs. With a bit of Linux command line kung fu, some Golang, and Google sheets, I was able to get a pretty good idea of where the attacks are coming from. 
+
+### [431. The Fundamentals of RF and Encryption for Cybersecurity Analysts](https://hackernoon.com/the-fundamentals-of-rf-and-encryption-for-cybersecurity-analysts)
 ![](https://cdn.hackernoon.com/images/mCQMNMUuBRQ0LIqGt5Ff1WvWWSL2-n8a3yrv.jpeg)
 Learn the fundamentals of RF, signal analysis, antenna design, and encryption for a career in cybersecurity. Discover key concepts and tools in this beginner's 
 
-### [430. How to Be Careful When Sharing WiFi Password With QR Code](https://hackernoon.com/how-to-be-careful-when-sharing-wifi-password-with-qr-code)
-![](https://cdn.hackernoon.com/images/fQPekEkN2vbRfIIok2xUMNvGcAp2-dyb3nb6.jpeg)
-Share your QR code of your network carefully, mistakes can lead to disaster
+### [432. Why Your Data has Most Likely Been Stolen and What Can You Do About It](https://hackernoon.com/why-your-data-has-most-likely-been-stolen-and-what-can-you-do-about-it-xc2g32f8)
+![](https://cdn.hackernoon.com/drafts/xa22327z.png)
+I used to consider myself pretty knowledgable about the cyber-world, but then I started learning about cyber-security and reading reports by companies like Shape Security, IBM and Snyk.
 
-### [431. 5 Crypto-Stealing Malware Threats: How to Stay Safe and Aware](https://hackernoon.com/5-crypto-stealing-malware-threats-how-to-stay-safe-and-aware)
+### [433. 5 Crypto-Stealing Malware Threats: How to Stay Safe and Aware](https://hackernoon.com/5-crypto-stealing-malware-threats-how-to-stay-safe-and-aware)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-t8a3uf6.jpeg)
 As the crypto landscape continues to grow, staying informed about potential risks is vital to protect oneself from falling victim to these insidious attacks.
 
 
-### [432. Is Cyber Security a Good Career Choice in 2024?](https://hackernoon.com/is-cyber-security-a-good-career-choice-in-2024)
+### [434. Is Cyber Security a Good Career Choice in 2024?](https://hackernoon.com/is-cyber-security-a-good-career-choice-in-2024)
 ![](https://cdn.hackernoon.com/images/eUMe4gjkZdcgsNTQWmVWr1LCKX03-qy936ys.jpeg)
 Is cyber security a good career choice? This is the widely asked questions these days. Explore this article to learn more about Cybersecurity career.
-
-### [433. What Does the Future Hold for Cloud Security?](https://hackernoon.com/what-does-the-future-hold-for-cloud-security-i82e35md)
-![](https://cdn.hackernoon.com/images/c04EFcTv66Zbzhwa4Fz3VAZCs9g2-176p34lt.jpeg)
-Cloud security is something that every business needs to take seriously. In fact, ignoring cloud security could prove to be a fatal move for many organizations.
-
-### [434. GitHub Free Security For Repositories Tools Roundup](https://hackernoon.com/github-security-for-repositories-free-tools-roundup-0233t30n1)
-![](https://cdn.hackernoon.com/drafts/fb33i30y9.png)
-
 
 ### [435. Creating Consciousness in Virtual Worlds](https://hackernoon.com/creating-consciousness-in-virtual-worlds)
 ![](https://cdn.hackernoon.com/images/ai-reality-clh2qnp36000001s640ty1pzc.png)
 With advances in AI, it’s becoming possible to create NPCs that are more believable than ever before. What happens when they question their reality?
 
-### [436. A tale of Red Team Operation (RTO) to hack a company remotely & pivot across the Cloud assets ](https://hackernoon.com/how-i-chained-multiple-cves-and-other-vulnerabilities-during-an-rto-to-pwn-the-company-remotely)
+### [436. What Does the Future Hold for Cloud Security?](https://hackernoon.com/what-does-the-future-hold-for-cloud-security-i82e35md)
+![](https://cdn.hackernoon.com/images/c04EFcTv66Zbzhwa4Fz3VAZCs9g2-176p34lt.jpeg)
+Cloud security is something that every business needs to take seriously. In fact, ignoring cloud security could prove to be a fatal move for many organizations.
+
+### [437. A tale of Red Team Operation (RTO) to hack a company remotely & pivot across the Cloud assets ](https://hackernoon.com/how-i-chained-multiple-cves-and-other-vulnerabilities-during-an-rto-to-pwn-the-company-remotely)
 ![](https://cdn.hackernoon.com/images/wpsdDnj0JHhihkhcMPXtUlLNxt42-0f92d4r.jpeg)
 Pulse VPN exploitation chained with other vulnerabilities during an ongoing Red Team Operation to hack the company remotely. By Dhanesh Dodia - HeyDanny
 
-### [437. Chrome Password Manager Betrayed My Trust 13 Years Ago. I Never Forgot](https://hackernoon.com/chrome-password-manager-betrayed-my-trust-13-years-ago-i-never-forgot)
-![](https://cdn.hackernoon.com/images/y4cEnTakOmPUGSN1KVKdl2WbkYU2-rj82skj.jpeg)
-Chrome's broken trust led to Neulock: a password manager built on user control, not encryption & blind faith. Learn the 3 security principles behind it.
+### [438. GitHub Free Security For Repositories Tools Roundup](https://hackernoon.com/github-security-for-repositories-free-tools-roundup-0233t30n1)
+![](https://cdn.hackernoon.com/drafts/fb33i30y9.png)
 
-### [438. Enter the Cybersecurity, Finance, and Linux Writing Contests: NOW OPEN.](https://hackernoon.com/enter-the-cybersecurity-finance-and-linux-writing-contests-now-open)
+
+### [439. Enter the Cybersecurity, Finance, and Linux Writing Contests: NOW OPEN.](https://hackernoon.com/enter-the-cybersecurity-finance-and-linux-writing-contests-now-open)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-7n93umn.jpeg)
 Good contests come in threes.
 
-### [439. Think Your System’s Safe? These Free Tools Will Prove You Wrong](https://hackernoon.com/think-your-systems-safe-these-free-tools-will-prove-you-wrong)
+### [440. Think Your System’s Safe? These Free Tools Will Prove You Wrong](https://hackernoon.com/think-your-systems-safe-these-free-tools-will-prove-you-wrong)
 ![](https://cdn.hackernoon.com/images/ZbUO2yti0kcAIfbn2YUghsw02tS2-2v0394v.png)
 Learn how to perform a basic vulnerability scan using free tools like Nmap & Nikto. A simple step-by-step guide to find and fix security flaws.
-
-### [440. Enhancing Password Security and Recovery with Next.js 14 and NextAuth.js](https://hackernoon.com/enhancing-password-security-and-recovery-with-nextjs-14-and-nextauthjs)
-![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-jb833fd.jpeg)
-Learn to set up a secure and user-friendly system for password recovery in Next.js, complete with token verification and email notifications.
 
 ### [441. Validating a User Phone Number With SMS on Auth0 Using ZENVIA](https://hackernoon.com/validating-a-user-phone-number-with-sms-on-auth0-using-zenvia)
 ![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-ay92pmh.jpeg)
 Application example using Angular where a simple WEB application will be implemented to validate the user phone by SMS in the authentication.
 
-### [442. Rust in Linux: A Powerful Tool—But How Do We Strike the Right Balance?](https://hackernoon.com/rust-in-linux-a-powerful-toolbut-how-do-we-strike-the-right-balance)
-![](https://cdn.hackernoon.com/images/5VkVIRkcUWcRd8u9t4uAvPauQQR2-7f134y1.png)
-This article explores how Rust can be integrated into the Linux kernel without compromising long-term adaptability.
+### [442. Chrome Password Manager Betrayed My Trust 13 Years Ago. I Never Forgot](https://hackernoon.com/chrome-password-manager-betrayed-my-trust-13-years-ago-i-never-forgot)
+![](https://cdn.hackernoon.com/images/y4cEnTakOmPUGSN1KVKdl2WbkYU2-rj82skj.jpeg)
+Chrome's broken trust led to Neulock: a password manager built on user control, not encryption & blind faith. Learn the 3 security principles behind it.
 
-### [443. Unlocking IaC Part 2: Setting Up Terraform on Windows for AWS](https://hackernoon.com/unlocking-iac-part-2-setting-up-terraform-on-windows-for-aws)
-![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-8p93oc8.png)
-Learn how to set up Terraform on Windows for cybersecurity professionals. Discover the prerequisites and get ready to deploy your first Terraform script.
-
-### [444. Anonymity 3.0: Do We Have a Chance with Web3?](https://hackernoon.com/anonymity-30-do-we-have-a-chance-with-web3)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-l293qc9.jpeg)
-In the digital era, the volume of data generated online keeps on growing. Users leave their information on nearly every site. Will Web3 change this?
-
-### [445. It's Raining Cyber Attacks: Cybersecurity in the Cloud](https://hackernoon.com/its-raining-cyber-attacks-cybersecurity-in-the-cloud-i3783528)
-![](https://cdn.hackernoon.com/images/vI89MS8Ou8OYOnT4ESBSH9HkCrz2-ql4m35a5.jpeg)
-With the latest news and advancements in the cybersecurity world, we will see how these new rules impact modern cloud applications.
-
-
-### [446. Unlocking the Power of Expert Red Teams: How to use Atomic Red Team (ART) to Think Like an Attacker](https://hackernoon.com/unlocking-the-power-of-expert-red-teams-how-to-use-atomic-red-team-art-to-think-like-an-attacker)
-![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-5r93obj.png)
-
-
-### [447. Fake Websites, Fake Companies, Fake Everything: What Can We Do to Protect Ourselves?](https://hackernoon.com/fake-websites-fake-companies-fake-everything-what-can-we-do-to-protect-ourselves)
-![](https://cdn.hackernoon.com/images/RlvxrX3WGnOoYckXvanG0ZcyKyl2-6993nvy.jpeg)
-Malware protection should act the same way, as a set of shields that protect the entire browser from any type of malware, not just traditional threats.
-
-### [448. Apple's iOS 17.2 Update Brings a Much-Needed Security Improvement to iMessage](https://hackernoon.com/apples-ios-172-update-brings-a-much-needed-security-improvement-to-imessage)
-![](https://cdn.hackernoon.com/images/JL5KWy0xnKda4tozyMUBkM0LAR92-u6b3pg8.jpeg)
-In this post, I’ll talk about why this added security matters, what these two new features actually do, and how you can opt into higher levels of security
-
-### [449. Homomorphic Encryption — for Web Apps 🧐 (Part 2)](https://hackernoon.com/homomorphic-encryption-for-web-apps-part-2-vn5m24d7)
-![](https://cdn.hackernoon.com/drafts/4x2ij3ym7.png)
-In case you missed the previous article (Part 1), I gave a very brief introduction on Homomorphic Encryption (HE), talked about Microsoft SEAL’s library, and outlined some of the pain points of learning to use it.
-
-### [450. Fake TikTok Doctors (and Other Deepfake Health Scams)](https://hackernoon.com/fake-tiktok-doctors-and-other-deepfake-health-scams)
-![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-9q038d8.jpeg)
-Have you ever seen a doctor on TikTok promoting sketchy products? It may have been a deepfake. Here are all the details on deepfake health scams.
-
-### [451. How to Combat Cyber Security Threats and Attacks](https://hackernoon.com/how-to-combat-cyber-security-threats-and-attacks)
-![](https://cdn.hackernoon.com/images/hpBoIgdGaLcIxfRSgPCYMMGGly93-8nh3h4r.jpeg)
-Progress in complex technology can result in the ‘progress’ of complex threats. 
-
-### [452. Understanding JWTs from Beginning to End](https://hackernoon.com/understanding-jwts-from-beginning-to-end)
-![](https://cdn.hackernoon.com/images/WnT4onrLDxWJByyjiz9SY4adyu73-ro93jzg.jpeg)
-In this article, we will explore mainly JWT and JWS. In addition, we'll also go through JWE, JWA, and JWK quickly.
-
-### [453. Remembering and Honoring the Cybersecurity Pioneer John McAfee](https://hackernoon.com/remembering-and-honoring-the-cybersecurity-pioneer-john-mcafee)
-![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-5ja3ogq.jpeg)
-One Year Later - Why Does It Still Matter?
-
-### [454. My friends bet me I couldn't make cybersecurity sexy. Here it goes...](https://hackernoon.com/my-friends-bet-me-i-couldnt-make-cybersecurity-sexy-here-goes-cyp3tfh)
-![](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-You know what’s really sexy?
-
-### [455. Building a Serverless Intrusion Detection System on AWS](https://hackernoon.com/building-a-serverless-intrusion-detection-system-on-aws)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-77020as.jpeg)
-By leveraging AWS’s serverless stack and a dash of machine learning, you can create a lightweight Intrusion detection system.
-
-### [456. How to Break Into Cybersecurity Without a Degree or a Million-Dollar Lab](https://hackernoon.com/how-to-break-into-cybersecurity-without-a-degree-or-a-million-dollar-lab)
-![](https://cdn.hackernoon.com/images/ZbUO2yti0kcAIfbn2YUghsw02tS2-zb0370s.png)
-In this blog, we will outline the step-by-step journey to establish a successful cybersecurity career—from the fundamentals to becoming an expert.
-
-### [457. What is Customer Identity and Access Management (CIAM) and What Are its Benefits](https://hackernoon.com/customer-identity-and-access-management-what-is-it-and-what-are-the-benefits-30r32cw)
-![](https://cdn.hackernoon.com/drafts/jghf32lo.png)
-Today's online space is all about identity and at the core of it lies customer identity and access management or CIAM. 
-
-### [458. How to Explain the Internet to Your Kids](https://hackernoon.com/how-to-explain-the-internet-to-your-kids)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-4u93olp.jpeg)
-There is only one way to explain the dangers of the Internet to children: to be there with them. Talk about the good and the bad that that the internet offers.
-
-### [459. How to Choose the Right Messenger](https://hackernoon.com/choosing-the-right-messenger-mm3x2z47)
-![](https://cdn.hackernoon.com/images/dw18240q.jpg)
-One of the most common questions users have when it comes to privacy is about messaging services. It seems almost all of them mention some level of privacy or encryption to entice the user to sign up for their service, but how can you be sure you’re using the most secure, privacy respecting platform?
-
-### [460. Blind Attacks: Understanding CSRF (Cross Site Request Forgery)](https://hackernoon.com/blind-attacks-understanding-csrf-cross-site-request-forgery)
-![](https://cdn.hackernoon.com/images/img-9n93mqp.jpeg)
-This article contains complete (and step-by-step) information about CSRF attacks.
-
-### [461. How To Integrate Security Testing Into Your Software Development Life Cycle](https://hackernoon.com/how-to-integrate-security-testing-into-your-software-development-life-cycle-0pdy36az)
-![](https://cdn.hackernoon.com/drafts/l0i83r15.png)
-
-
-### [462. The Log4j Bug Can't Hurt WordPress - But There's an Ongoing Attack That Can](https://hackernoon.com/the-log4j-bug-cant-hurt-wordpress-but-theres-an-ongoing-attack-that-can)
-![](https://cdn.hackernoon.com/images/25FD7aJjvQXZmpBWsHFW5JYdjMt1-v11378m.jpeg)
-On December 10th, the studio behind the ever-popular sandbox game Minecraft published a blog post detailing a bug it identified in Log4j.
-
-### [463. Why Ledger's Latest Data Breach Exposes the Hidden Risks of Third-Party Dependencies](https://hackernoon.com/why-ledgers-latest-data-breach-exposes-the-hidden-risks-of-third-party-dependencies)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-l103dup.png)
- Ledger data breach via Global-e exposes customer info. No crypto stolen, but phishing attempts surge. Third-party risks examined.
-
-### [464. From Breach to Fallout: The Story of the 2014 Sony Hack ](https://hackernoon.com/from-breach-to-fallout-the-story-of-the-2014-sony-hack)
-![](https://cdn.hackernoon.com/images/tR2AMSkOX1U5a7GyEMAVqR4PUCz2-5n93pap.jpeg)
-Delve into the gripping account of the Sony Hack 2014, exploring the cyber attack's journey from initial breach to widespread fallout.
-
-### [465. Hacked: MetaMask User Lost US$81,000 In ETH](https://hackernoon.com/hacked-metamask-user-lost-us$81000-in-eth)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-mz93jl3.jpeg)
-Crypto investor Jonny Reid shared his experience of stealing encrypted assets in his MetaMask wallet on Twitter.  He is still unable to find the hack.  
-
-### [466. Is There a Place for Trust in Crypto? Taking a Tour of Popular Scams](https://hackernoon.com/is-there-a-place-for-trust-in-crypto-taking-a-tour-of-popular-scams)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ap92d67.jpeg)
-For the last few years, the crypto market has become full of scam schemes undermining users’ trust. 
-
-### [467. Check Point Security Breach: A Leading Cybersecurity Company Has Been Breached](https://hackernoon.com/check-point-a-leading-cybersec-company-has-been-breached-k4r32ux)
-![](https://cdn.hackernoon.com/drafts/azi363r.png)
-Check Point, which bills itself as the leader in cybersecurity solutions, has been breached. Data records of over 5k ZoneAlarm forum users have been hacked.  
-
-### [468. VPN And Cybersecurity Threats: How to be Safe Online](https://hackernoon.com/vpn-and-cybersecurity-threats-how-to-be-safe-online-70av36mp)
-![](https://cdn.hackernoon.com/drafts/an8o36xr.png)
-Virtual Private Network (VPN) is a useful tool for accessing the web anonymously. It is steadily developing as an essential component of reducing the risks we are exposed to when going online. In fact, the impending growth of the VPN market, with the projected value set at $54 billion by 2024, demonstrates the potential of the industry.
-
-### [469. HMAC & Message Authentication Codes  -  Why Using Hashing Alone is NOT Enough for Data Integrity 😼](https://hackernoon.com/hmac-and-message-authentication-codes-why-using-hashing-alone-is-not-enough-for-data-integrity)
-![](https://cdn.hackernoon.com/images/OvBGt46oGAcBSX3jKWMtVuNCZGh2-u793vwx.jpeg)
-In cryptography, a key needs to be random so that attackers can’t detect any patterns, because patterns make it easier for hackers to figure out the key.
-
-### [470. What do we expect in innovation and technology by 2020](https://hackernoon.com/what-do-we-expect-in-innovation-and-technology-by-2020-pql3208)
-![](https://cdn.hackernoon.com/drafts/xufb329d.png)
-With the beginning of a new decade, many users set expectations for the new year. But what are the novelties that will be in technology and innovation
-
-### [471. Best Practices for Web Developers to Protect Against Browser Vulnerabilities](https://hackernoon.com/best-practices-for-web-developers-to-protect-against-browser-vulnerabilities)
-![](https://cdn.hackernoon.com/images/xc4tHTeTFVT2acicoza639IgwXu1-4z93scp.jpeg)
-Discover how to secure your web applications against browser vulnerabilities with this comprehensive guide for web developers
-
-### [472. Some of the Most Common Security Vulnerabilities and Fixes](https://hackernoon.com/some-of-the-most-common-security-vulnerabilities-and-fixes)
-![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-0ta3o5s.jpeg)
-So, which security vulnerability types may be exposing your system to cyberthreats at this very moment? How do vulnerabilities appear? And how can we mitigate?
-
-### [473. Rethinking Remote Access: Why you should Replace Your VPN with a Network as a Service](https://hackernoon.com/perimeter-81-your-best-vpn-for-business-mw57336n)
-![](https://cdn.hackernoon.com/images/d01lf33ww.jpg)
-With the rise of the mobile workforce and cloud transformation, the traditional network we once knew can no longer be trusted. Employees now work remotely from home, cafes, as well as around the world and companies are moving to cloud infrastructure such as AWS, Google Cloud, Azure. 
-
-### [474. Attacks Over The Air — Phreaking HTML Injection](https://hackernoon.com/attacks-over-the-air-phreaking-html-injection)
-![](https://cdn.hackernoon.com/images/n5VHbjGghzMILe9Af9wNpIgpZzJ3-3ke3sy6.jpeg)
-A particular webpage was tracking digital radio chatter and it would display a running log of what its station was hearing.
-
-### [475. 5 Promising Use Cases for Verifiable Credentials](https://hackernoon.com/5-promising-use-cases-for-verifiable-credentials-tu1y348k)
-![](https://cdn.hackernoon.com/images/Gm2wsVXkUTTK65vCcTqzkL1oUsh2-g393wnw.jpeg)
-Verifiable credentials, which provide a system for provable electronic facts and documentation through cryptography and public keys, can seem like an abstract concept. We’re so used to seeing our credentials printed out – the driver’s license, the passport, the insurance card – that sticking codified IDs on a thumb drive or online seems odd and unnecessary. And as anyone who has used a cryptocurrency wallet can attest, the early forms of such decentralized IDs are hardly user friendly.
-
-### [476. Cloud Security Observability: Get Set, Go!](https://hackernoon.com/cloud-security-observability-get-set-go)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-0c93pb0.jpeg)
-The cloud security observability approach involves applying the observability concepts to cloud security operations to gain insights into the health of an app.
-
-### [477. Phishing Campaigns Became a Lot More Sinister in 2024 ](https://hackernoon.com/phishing-campaigns-became-a-lot-more-sinister-in-2024)
-![](https://cdn.hackernoon.com/images/8PD1VpeUnmNNDtbxAs0i2TOWgaM2-hv030u4.jpeg)
-In the second half of 2024, phishing attacks surged by 202% with users receiving at least one advanced phishing message capable of evading security defenses.
-
-### [478. 8 Crucial Tips for Hardening PostgreSQL 14.4 servers in 2022](https://hackernoon.com/8-crucial-tips-for-hardening-postgresql-144-servers-in-2022)
-![](https://cdn.hackernoon.com/images/WgVLUehxmxgNrCz3vWPCb1fnrPF3-yze3qek.jpeg)
-As of July 13th, 2022, there are 135 security flaws reported to the CVE database. Here are 8 essential measures you can take to protect your PostgreSQL server.
-
-### [479. How I Learned To Stop Judging People for Falling Into Cybersecurity Traps](https://hackernoon.com/how-i-learned-to-stop-judging-people-for-falling-into-cybersecurity-traps-tb123wu7)
-![](https://cdn.hackernoon.com/drafts/cfnc3ytq.png)
-It’s all too easy to feel superior to the rest of the world when you work in IT day in and day out. And it’s easy to judge “the common people” for falling victim to cybersecurity scams that your highly trained BS radars would flag in a hot second.
-
-### [480. Building the Network for the WFH Future](https://hackernoon.com/building-the-network-for-the-wfh-future-051r332y)
-![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-mq1l33e0.jpeg)
-A look at building the network of the future for the flexible work revolution
-
-### [481. A New LinkedIn Vulnerability Exposes Jobseekers to Phishing Attacks ](https://hackernoon.com/a-new-linkedin-vulnerability-exposes-jobseekers-to-phishing-attacks-jnce35dq)
-![](https://cdn.hackernoon.com/images/8YCRefWlukO66JWIndxJbsk710W2-jhcc358y.jpeg)
-The latest LinkedIn vulnerability can be exploited by con artists for massive phishing attacks, identity theft, and employment-related scams.
-
-### [482. Qualitative vs. Quantitative Analysis for Cybersecurity](https://hackernoon.com/qualitative-vs-quantitative-analysis-for-cybersecurity)
-![](https://cdn.hackernoon.com/images/08kqxtF0wOR294ukfFuRLXEWE052-0893puq.png)
-Learning where an organization’s most significant vulnerabilities lie is the first step to addressing those risks to stay safe. 
-
-### [483. Defend your Node.js Apps With Jscrambler](https://hackernoon.com/how-to-protect-nodejs-apps-with-jscrambler)
-![](https://cdn.hackernoon.com/images/1JNoLAkx1ZO5O8qO5dcdNjh6RQw1-x2a3fdg.jpeg)
-This tutorial will explain how to integrate Jscrambler seamlessly into the build process of a typical Node.js app in just a few minutes.
-
-### [484. Safeguarding Your Passwords from Cracking: Understanding the Math Concepts](https://hackernoon.com/safeguarding-your-passwords-from-cracking-understanding-the-math-concepts)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-or93okw.jpeg)
-Passwords that seem safe to us are vulnerable to math-based hacking. This is why using concepts like Password Space may be able to make more secure passwords.
-
-### [485. The Cybersecurity Writing Contest by Twingate and HackerNoon](https://hackernoon.com/the-cybersecurity-writing-contest-by-twingate-and-hackernoon)
-![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-rz93z59.jpeg)
-Yasssss The Cybersecurity Writing Contest is here! HackerNoon is excited to host the contest in collaboration with Twingate!
-
-### [486. The First Autonomous AI Cyber Attack Exposed](https://hackernoon.com/the-first-autonomous-ai-cyber-attack-exposed)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-vo0367c.jpeg)
-This article examines the first large‑scale AI‑autonomous cyberattack (GTG‑1002), where an LLM hijacked via MCP became a self‑directed espionage engine.
-
-### [487. 10 Best Practices for Securing Your API](https://hackernoon.com/10-best-practices-for-securing-your-api)
-![](https://cdn.hackernoon.com/images/CZ7bbcxm7qVSC1OK09EBVS1KPhB2-m093pkq.jpeg)
-This is a brief blog on the Top 10 API security practices that can help users to keep their API safe from cyber attacks. 
-
-### [488. What will IBM's Acquisition of Randori Mean for Cybersecurity?](https://hackernoon.com/what-will-ibms-acquisition-of-randori-mean-for-cybersecurity)
-![](https://cdn.hackernoon.com/images/08kqxtF0wOR294ukfFuRLXEWE052-ma93oqj.jpeg)
-IBM announced plans to acquire a leading attack surface management provider and offensive security company Randori.
-
-### [489. IP Geolocation in Cybersecurity Investigations](https://hackernoon.com/ip-geolocation-can-it-still-support-cybersecurity-investigations-34d7eee7b064)
-![](https://cdn.hackernoon.com/drafts/r93w3zdy.png)
-In a world where illegal activities increasingly take place through digital means, cyber perpetrators often remain steps ahead in sophistication compared to those who are chasing after them.
-
-### [490. WormGPT - The Newly Discovered Generative AI Tool for Cybercriminals](https://hackernoon.com/wormgpt-the-newly-discovered-generative-ai-tool-for-cybercriminals)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-hs92fn0.jpeg)
-Writing about how a cybersecurity firm recently discovered new cybercrime tools based on AI!
-
-### [491. The Noonification: Dear America, I Am Breaking Up With You (5/18/2024)](https://hackernoon.com/5-18-2024-noonification)
-![](https://cdn.hackernoon.com/images/noonification_434_pphvrabf4ylxxll0181ysozy.png)
-5/18/2024: Top 5 stories on the HackerNoon homepage!
-
-### [492. 93 Stories To Learn About Networking](https://hackernoon.com/93-stories-to-learn-about-networking)
-![](https://cdn.hackernoon.com/images/github/networking-605.png)
-Learn everything you need to know about Networking via these 93 free HackerNoon stories.
-
-### [493. USAID’s Bureaucracy Stalled Digital Innovation Projects](https://hackernoon.com/usaids-bureaucracy-stalled-digital-innovation-projects)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-da02tjk.png)
-The potential shutdown of USAID represents an opportunity to rethink how we approach  international development.
-
-### [494. How Hackers use Online Job Postings to Infiltrate Organizations](https://hackernoon.com/how-hackers-use-online-job-postings-to-infiltrate-organizations-661v3t3k)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-jp1d3t41.jpeg?alt=media&token=e10b277d-8ef2-4f15-8726-d372223f09e1)
-There’s a lot of talk in the cybersecurity industry about the jobs threat, meaning the gap in qualified professionals to fill the number of open positions in the industry. But, have you thought about the other jobs threat to consider – the online job postings themselves? 
-
-### [495. How To Build a Comprehensive Cybersecurity Strategy](https://hackernoon.com/building-a-comprehensive-cybersecurity-strategy-fi143z0i)
-![](https://cdn.hackernoon.com/drafts/7y1u3z9y.png)
-Is your business equipped to take on the escalating security threats of the digital age? If not, then a smart strategy is needed. Recent reports state that half of the businesses in the United States have reported a data breach. 
-
-### [496. Living With the Lethal Trifecta: How to Run OpenClaw Securely](https://hackernoon.com/living-with-the-lethal-trifecta-a-guide-to-personal-ai-agent-security)
+### [443. Living With the Lethal Trifecta: How to Run OpenClaw Securely](https://hackernoon.com/living-with-the-lethal-trifecta-a-guide-to-personal-ai-agent-security)
 ![](https://cdn.hackernoon.com/images/vefBUCF8yxPj6xGv80vM5rvzpDw2-gcb3lb2.jpeg)
 I run a personal AI agent with access to my health, calendar, and Telegram. Here are security principles that keep the blast radius small.
 
 
-### [497. Cybersecurity Basics, Tech Education and Market Review](https://hackernoon.com/cybersecurity-basics-tech-education-and-market-review-222g31bh)
-![](https://hackernoon.com/images/YwZ5MEcra5SN9FAVXOOkqkhG8LF3-013c31jr.jpeg)
-Cybersecurity is the protection against cyberattacks from devices linked to the Internet, such as hardware, computer software and data.
+### [444. Enhancing Password Security and Recovery with Next.js 14 and NextAuth.js](https://hackernoon.com/enhancing-password-security-and-recovery-with-nextjs-14-and-nextauthjs)
+![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-jb833fd.jpeg)
+Learn to set up a secure and user-friendly system for password recovery in Next.js, complete with token verification and email notifications.
 
-### [498. How Social Engineering is Used to Bypass Your Security...with Ease](https://hackernoon.com/how-social-engineering-is-used-to-bypass-your-securitywith-ease-ww1m3x21)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNP1HxHjfMLM52BcbablJY23ddAW2-b21x28h7.jpeg?alt=media&token=b929017b-3e96-4de7-aac2-2c70c977701f)
-Social Engineering uses influence and persuasion in order to deceive, convince or manipulate. As a result, the social engineer is able to take advantage of people to obtain information with or without the use of technology.
+### [445. Unlocking IaC Part 2: Setting Up Terraform on Windows for AWS](https://hackernoon.com/unlocking-iac-part-2-setting-up-terraform-on-windows-for-aws)
+![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-8p93oc8.png)
+Learn how to set up Terraform on Windows for cybersecurity professionals. Discover the prerequisites and get ready to deploy your first Terraform script.
 
-### [499. David Schwed of Halborn Explores the Culture and Mechanics of Web3 Security](https://hackernoon.com/david-schwed-of-halborn-explores-the-culture-and-mechanics-of-web3-security)
-![](https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-v393qjl.jpeg)
-A conversation with David Schwed, the COO of Halborn on prevailing security concerns in and the future of Web3 security. 
+### [446. Rust in Linux: A Powerful Tool—But How Do We Strike the Right Balance?](https://hackernoon.com/rust-in-linux-a-powerful-toolbut-how-do-we-strike-the-right-balance)
+![](https://cdn.hackernoon.com/images/5VkVIRkcUWcRd8u9t4uAvPauQQR2-7f134y1.png)
+This article explores how Rust can be integrated into the Linux kernel without compromising long-term adaptability.
 
-### [500. Crypto Fraud New Tricks: Victim's MetaMask Wallet Emptied by Resetting Apple ID ](https://hackernoon.com/crypto-fraud-new-tricks-victims-metamask-wallet-emptied-by-resetting-apple-id)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-p193ibg.jpeg)
-By tricking victims into resetting their Apple ID and obtaining a 2FA one-time verification code, the scammers could access their MetaMask and drain the funds.
+### [447. Unlocking the Power of Expert Red Teams: How to use Atomic Red Team (ART) to Think Like an Attacker](https://hackernoon.com/unlocking-the-power-of-expert-red-teams-how-to-use-atomic-red-team-art-to-think-like-an-attacker)
+![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-5r93obj.png)
+
+
+### [448. Fake TikTok Doctors (and Other Deepfake Health Scams)](https://hackernoon.com/fake-tiktok-doctors-and-other-deepfake-health-scams)
+![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-9q038d8.jpeg)
+Have you ever seen a doctor on TikTok promoting sketchy products? It may have been a deepfake. Here are all the details on deepfake health scams.
+
+### [449. Anonymity 3.0: Do We Have a Chance with Web3?](https://hackernoon.com/anonymity-30-do-we-have-a-chance-with-web3)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-l293qc9.jpeg)
+In the digital era, the volume of data generated online keeps on growing. Users leave their information on nearly every site. Will Web3 change this?
+
+### [450. It's Raining Cyber Attacks: Cybersecurity in the Cloud](https://hackernoon.com/its-raining-cyber-attacks-cybersecurity-in-the-cloud-i3783528)
+![](https://cdn.hackernoon.com/images/vI89MS8Ou8OYOnT4ESBSH9HkCrz2-ql4m35a5.jpeg)
+With the latest news and advancements in the cybersecurity world, we will see how these new rules impact modern cloud applications.
+
+
+### [451. Apple's iOS 17.2 Update Brings a Much-Needed Security Improvement to iMessage](https://hackernoon.com/apples-ios-172-update-brings-a-much-needed-security-improvement-to-imessage)
+![](https://cdn.hackernoon.com/images/JL5KWy0xnKda4tozyMUBkM0LAR92-u6b3pg8.jpeg)
+In this post, I’ll talk about why this added security matters, what these two new features actually do, and how you can opt into higher levels of security
+
+### [452. Fake Websites, Fake Companies, Fake Everything: What Can We Do to Protect Ourselves?](https://hackernoon.com/fake-websites-fake-companies-fake-everything-what-can-we-do-to-protect-ourselves)
+![](https://cdn.hackernoon.com/images/RlvxrX3WGnOoYckXvanG0ZcyKyl2-6993nvy.jpeg)
+Malware protection should act the same way, as a set of shields that protect the entire browser from any type of malware, not just traditional threats.
+
+### [453. Homomorphic Encryption — for Web Apps 🧐 (Part 2)](https://hackernoon.com/homomorphic-encryption-for-web-apps-part-2-vn5m24d7)
+![](https://cdn.hackernoon.com/drafts/4x2ij3ym7.png)
+In case you missed the previous article (Part 1), I gave a very brief introduction on Homomorphic Encryption (HE), talked about Microsoft SEAL’s library, and outlined some of the pain points of learning to use it.
+
+### [454. How to Combat Cyber Security Threats and Attacks](https://hackernoon.com/how-to-combat-cyber-security-threats-and-attacks)
+![](https://cdn.hackernoon.com/images/hpBoIgdGaLcIxfRSgPCYMMGGly93-8nh3h4r.jpeg)
+Progress in complex technology can result in the ‘progress’ of complex threats. 
+
+### [455. Understanding JWTs from Beginning to End](https://hackernoon.com/understanding-jwts-from-beginning-to-end)
+![](https://cdn.hackernoon.com/images/WnT4onrLDxWJByyjiz9SY4adyu73-ro93jzg.jpeg)
+In this article, we will explore mainly JWT and JWS. In addition, we'll also go through JWE, JWA, and JWK quickly.
+
+### [456. Building a Serverless Intrusion Detection System on AWS](https://hackernoon.com/building-a-serverless-intrusion-detection-system-on-aws)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-77020as.jpeg)
+By leveraging AWS’s serverless stack and a dash of machine learning, you can create a lightweight Intrusion detection system.
+
+### [457. Remembering and Honoring the Cybersecurity Pioneer John McAfee](https://hackernoon.com/remembering-and-honoring-the-cybersecurity-pioneer-john-mcafee)
+![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-5ja3ogq.jpeg)
+One Year Later - Why Does It Still Matter?
+
+### [458. GitGuardian Reports an 81% Surge of AI-Service Leaks as 29M Secrets Hit Public GitHub](https://hackernoon.com/gitguardian-reports-an-81percent-surge-of-ai-service-leaks-as-29m-secrets-hit-public-github)
+![](https://cdn.hackernoon.com/images/zrmhiGUO5YO0UGWoKCzGMHKsbc63-lc83jci.jpeg)
+In 2025, Developer Commits Using Claude Code Show 3.2% Secret Leak Rate vs. 1.5% Baseline. The Human Factor Remains Critical
+
+### [459. My friends bet me I couldn't make cybersecurity sexy. Here it goes...](https://hackernoon.com/my-friends-bet-me-i-couldnt-make-cybersecurity-sexy-here-goes-cyp3tfh)
+![](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+You know what’s really sexy?
+
+### [460. How to Break Into Cybersecurity Without a Degree or a Million-Dollar Lab](https://hackernoon.com/how-to-break-into-cybersecurity-without-a-degree-or-a-million-dollar-lab)
+![](https://cdn.hackernoon.com/images/ZbUO2yti0kcAIfbn2YUghsw02tS2-zb0370s.png)
+In this blog, we will outline the step-by-step journey to establish a successful cybersecurity career—from the fundamentals to becoming an expert.
+
+### [461. How Weak Social Media Passwords Can Be Cracked with SocialBox in Termux](https://hackernoon.com/how-weak-social-media-passwords-can-be-cracked-with-socialbox-in-termux)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-p0022ep.webp)
+Learn how weak social media passwords can be cracked and why social media cybersecurity matters. Stay safe online.
+
+### [462. How to Explain the Internet to Your Kids](https://hackernoon.com/how-to-explain-the-internet-to-your-kids)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-4u93olp.jpeg)
+There is only one way to explain the dangers of the Internet to children: to be there with them. Talk about the good and the bad that that the internet offers.
+
+### [463. Blind Attacks: Understanding CSRF (Cross Site Request Forgery)](https://hackernoon.com/blind-attacks-understanding-csrf-cross-site-request-forgery)
+![](https://cdn.hackernoon.com/images/img-9n93mqp.jpeg)
+This article contains complete (and step-by-step) information about CSRF attacks.
+
+### [464. Why Ledger's Latest Data Breach Exposes the Hidden Risks of Third-Party Dependencies](https://hackernoon.com/why-ledgers-latest-data-breach-exposes-the-hidden-risks-of-third-party-dependencies)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-l103dup.png)
+ Ledger data breach via Global-e exposes customer info. No crypto stolen, but phishing attempts surge. Third-party risks examined.
+
+### [465. What is Customer Identity and Access Management (CIAM) and What Are its Benefits](https://hackernoon.com/customer-identity-and-access-management-what-is-it-and-what-are-the-benefits-30r32cw)
+![](https://cdn.hackernoon.com/drafts/jghf32lo.png)
+Today's online space is all about identity and at the core of it lies customer identity and access management or CIAM. 
+
+### [466. How to Choose the Right Messenger](https://hackernoon.com/choosing-the-right-messenger-mm3x2z47)
+![](https://cdn.hackernoon.com/images/dw18240q.jpg)
+One of the most common questions users have when it comes to privacy is about messaging services. It seems almost all of them mention some level of privacy or encryption to entice the user to sign up for their service, but how can you be sure you’re using the most secure, privacy respecting platform?
+
+### [467. From Chaos to Quality: A Framework for AI-Assisted Development](https://hackernoon.com/from-chaos-to-quality-a-framework-for-ai-assisted-development)
+![](https://cdn.hackernoon.com/images/XylTjsNwe2afhrxLMheeefFimFV2-mz23bvs.png)
+How I turned AI coding from chaos to production-ready: DevFlow adds security reviews, quality gates, and audit trails to Claude Code, Cursor, Gemini.
+
+### [468. HMAC & Message Authentication Codes  -  Why Using Hashing Alone is NOT Enough for Data Integrity 😼](https://hackernoon.com/hmac-and-message-authentication-codes-why-using-hashing-alone-is-not-enough-for-data-integrity)
+![](https://cdn.hackernoon.com/images/OvBGt46oGAcBSX3jKWMtVuNCZGh2-u793vwx.jpeg)
+In cryptography, a key needs to be random so that attackers can’t detect any patterns, because patterns make it easier for hackers to figure out the key.
+
+### [469. From Breach to Fallout: The Story of the 2014 Sony Hack ](https://hackernoon.com/from-breach-to-fallout-the-story-of-the-2014-sony-hack)
+![](https://cdn.hackernoon.com/images/tR2AMSkOX1U5a7GyEMAVqR4PUCz2-5n93pap.jpeg)
+Delve into the gripping account of the Sony Hack 2014, exploring the cyber attack's journey from initial breach to widespread fallout.
+
+### [470. How To Integrate Security Testing Into Your Software Development Life Cycle](https://hackernoon.com/how-to-integrate-security-testing-into-your-software-development-life-cycle-0pdy36az)
+![](https://cdn.hackernoon.com/drafts/l0i83r15.png)
+
+
+### [471. The Log4j Bug Can't Hurt WordPress - But There's an Ongoing Attack That Can](https://hackernoon.com/the-log4j-bug-cant-hurt-wordpress-but-theres-an-ongoing-attack-that-can)
+![](https://cdn.hackernoon.com/images/25FD7aJjvQXZmpBWsHFW5JYdjMt1-v11378m.jpeg)
+On December 10th, the studio behind the ever-popular sandbox game Minecraft published a blog post detailing a bug it identified in Log4j.
+
+### [472. The Cybersecurity Value Chain: How 25 Companies Fill 72 Foundational Roles](https://hackernoon.com/the-cybersecurity-value-chain-how-25-companies-fill-72-foundational-roles)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-wy03by6.png)
+The Cybersecurity Value Chain maps 72 foundational roles across identity, network, cloud, data, and security operations — filled by just 25 companies.
+
+### [473. Is There a Place for Trust in Crypto? Taking a Tour of Popular Scams](https://hackernoon.com/is-there-a-place-for-trust-in-crypto-taking-a-tour-of-popular-scams)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ap92d67.jpeg)
+For the last few years, the crypto market has become full of scam schemes undermining users’ trust. 
+
+### [474. Best Practices for Web Developers to Protect Against Browser Vulnerabilities](https://hackernoon.com/best-practices-for-web-developers-to-protect-against-browser-vulnerabilities)
+![](https://cdn.hackernoon.com/images/xc4tHTeTFVT2acicoza639IgwXu1-4z93scp.jpeg)
+Discover how to secure your web applications against browser vulnerabilities with this comprehensive guide for web developers
+
+### [475. Some of the Most Common Security Vulnerabilities and Fixes](https://hackernoon.com/some-of-the-most-common-security-vulnerabilities-and-fixes)
+![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-0ta3o5s.jpeg)
+So, which security vulnerability types may be exposing your system to cyberthreats at this very moment? How do vulnerabilities appear? And how can we mitigate?
+
+### [476. Hacked: MetaMask User Lost US$81,000 In ETH](https://hackernoon.com/hacked-metamask-user-lost-us$81000-in-eth)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-mz93jl3.jpeg)
+Crypto investor Jonny Reid shared his experience of stealing encrypted assets in his MetaMask wallet on Twitter.  He is still unable to find the hack.  
+
+### [477. Check Point Security Breach: A Leading Cybersecurity Company Has Been Breached](https://hackernoon.com/check-point-a-leading-cybersec-company-has-been-breached-k4r32ux)
+![](https://cdn.hackernoon.com/drafts/azi363r.png)
+Check Point, which bills itself as the leader in cybersecurity solutions, has been breached. Data records of over 5k ZoneAlarm forum users have been hacked.  
+
+### [478. VPN And Cybersecurity Threats: How to be Safe Online](https://hackernoon.com/vpn-and-cybersecurity-threats-how-to-be-safe-online-70av36mp)
+![](https://cdn.hackernoon.com/drafts/an8o36xr.png)
+Virtual Private Network (VPN) is a useful tool for accessing the web anonymously. It is steadily developing as an essential component of reducing the risks we are exposed to when going online. In fact, the impending growth of the VPN market, with the projected value set at $54 billion by 2024, demonstrates the potential of the industry.
+
+### [479. What do we expect in innovation and technology by 2020](https://hackernoon.com/what-do-we-expect-in-innovation-and-technology-by-2020-pql3208)
+![](https://cdn.hackernoon.com/drafts/xufb329d.png)
+With the beginning of a new decade, many users set expectations for the new year. But what are the novelties that will be in technology and innovation
+
+### [480. Cybersecurity Stocks Drop as Anthropic Launches Claude Code Security Tool](https://hackernoon.com/cybersecurity-stocks-drop-as-anthropic-launches-claude-code-security-tool)
+![](https://cdn.hackernoon.com/images/mugs-falling-to-the-ground-ehyscnc57v8gg489huasuklk.png)
+Cybersecurity stocks fell after AI company Anthropic unveiled Claude Code Security
+
+### [481. Qualitative vs. Quantitative Analysis for Cybersecurity](https://hackernoon.com/qualitative-vs-quantitative-analysis-for-cybersecurity)
+![](https://cdn.hackernoon.com/images/08kqxtF0wOR294ukfFuRLXEWE052-0893puq.png)
+Learning where an organization’s most significant vulnerabilities lie is the first step to addressing those risks to stay safe. 
+
+### [482. 5 Promising Use Cases for Verifiable Credentials](https://hackernoon.com/5-promising-use-cases-for-verifiable-credentials-tu1y348k)
+![](https://cdn.hackernoon.com/images/Gm2wsVXkUTTK65vCcTqzkL1oUsh2-g393wnw.jpeg)
+Verifiable credentials, which provide a system for provable electronic facts and documentation through cryptography and public keys, can seem like an abstract concept. We’re so used to seeing our credentials printed out – the driver’s license, the passport, the insurance card – that sticking codified IDs on a thumb drive or online seems odd and unnecessary. And as anyone who has used a cryptocurrency wallet can attest, the early forms of such decentralized IDs are hardly user friendly.
+
+### [483. Rethinking Remote Access: Why you should Replace Your VPN with a Network as a Service](https://hackernoon.com/perimeter-81-your-best-vpn-for-business-mw57336n)
+![](https://cdn.hackernoon.com/images/d01lf33ww.jpg)
+With the rise of the mobile workforce and cloud transformation, the traditional network we once knew can no longer be trusted. Employees now work remotely from home, cafes, as well as around the world and companies are moving to cloud infrastructure such as AWS, Google Cloud, Azure. 
+
+### [484. Attacks Over The Air — Phreaking HTML Injection](https://hackernoon.com/attacks-over-the-air-phreaking-html-injection)
+![](https://cdn.hackernoon.com/images/n5VHbjGghzMILe9Af9wNpIgpZzJ3-3ke3sy6.jpeg)
+A particular webpage was tracking digital radio chatter and it would display a running log of what its station was hearing.
+
+### [485. 8 Crucial Tips for Hardening PostgreSQL 14.4 servers in 2022](https://hackernoon.com/8-crucial-tips-for-hardening-postgresql-144-servers-in-2022)
+![](https://cdn.hackernoon.com/images/WgVLUehxmxgNrCz3vWPCb1fnrPF3-yze3qek.jpeg)
+As of July 13th, 2022, there are 135 security flaws reported to the CVE database. Here are 8 essential measures you can take to protect your PostgreSQL server.
+
+### [486. Cloud Security Observability: Get Set, Go!](https://hackernoon.com/cloud-security-observability-get-set-go)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-0c93pb0.jpeg)
+The cloud security observability approach involves applying the observability concepts to cloud security operations to gain insights into the health of an app.
+
+### [487. Defend your Node.js Apps With Jscrambler](https://hackernoon.com/how-to-protect-nodejs-apps-with-jscrambler)
+![](https://cdn.hackernoon.com/images/1JNoLAkx1ZO5O8qO5dcdNjh6RQw1-x2a3fdg.jpeg)
+This tutorial will explain how to integrate Jscrambler seamlessly into the build process of a typical Node.js app in just a few minutes.
+
+### [488. Phishing Campaigns Became a Lot More Sinister in 2024 ](https://hackernoon.com/phishing-campaigns-became-a-lot-more-sinister-in-2024)
+![](https://cdn.hackernoon.com/images/8PD1VpeUnmNNDtbxAs0i2TOWgaM2-hv030u4.jpeg)
+In the second half of 2024, phishing attacks surged by 202% with users receiving at least one advanced phishing message capable of evading security defenses.
+
+### [489. How I Learned To Stop Judging People for Falling Into Cybersecurity Traps](https://hackernoon.com/how-i-learned-to-stop-judging-people-for-falling-into-cybersecurity-traps-tb123wu7)
+![](https://cdn.hackernoon.com/drafts/cfnc3ytq.png)
+It’s all too easy to feel superior to the rest of the world when you work in IT day in and day out. And it’s easy to judge “the common people” for falling victim to cybersecurity scams that your highly trained BS radars would flag in a hot second.
+
+### [490. The First Autonomous AI Cyber Attack Exposed](https://hackernoon.com/the-first-autonomous-ai-cyber-attack-exposed)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-vo0367c.jpeg)
+This article examines the first large‑scale AI‑autonomous cyberattack (GTG‑1002), where an LLM hijacked via MCP became a self‑directed espionage engine.
+
+### [491. Is Mythos Really The Internet's Greatest Cybersecurity Risk? Or Just an Anthropic Product Launch?](https://hackernoon.com/is-mythos-really-the-internets-greatest-cybersecurity-risk-or-just-anthropics-product-launch)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-1l03b1t.png)
+Anthropic's Claude Mythos found thousands of zero-days, escaped a sandbox & exhibited covert reasoning. Project Glasswing gives only 40 companies early access.
+
+### [492. Safeguarding Your Passwords from Cracking: Understanding the Math Concepts](https://hackernoon.com/safeguarding-your-passwords-from-cracking-understanding-the-math-concepts)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-or93okw.jpeg)
+Passwords that seem safe to us are vulnerable to math-based hacking. This is why using concepts like Password Space may be able to make more secure passwords.
+
+### [493. Building the Network for the WFH Future](https://hackernoon.com/building-the-network-for-the-wfh-future-051r332y)
+![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-mq1l33e0.jpeg)
+A look at building the network of the future for the flexible work revolution
+
+### [494. A New LinkedIn Vulnerability Exposes Jobseekers to Phishing Attacks ](https://hackernoon.com/a-new-linkedin-vulnerability-exposes-jobseekers-to-phishing-attacks-jnce35dq)
+![](https://cdn.hackernoon.com/images/8YCRefWlukO66JWIndxJbsk710W2-jhcc358y.jpeg)
+The latest LinkedIn vulnerability can be exploited by con artists for massive phishing attacks, identity theft, and employment-related scams.
+
+### [495. WormGPT - The Newly Discovered Generative AI Tool for Cybercriminals](https://hackernoon.com/wormgpt-the-newly-discovered-generative-ai-tool-for-cybercriminals)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-hs92fn0.jpeg)
+Writing about how a cybersecurity firm recently discovered new cybercrime tools based on AI!
+
+### [496. 10 Best Practices for Securing Your API](https://hackernoon.com/10-best-practices-for-securing-your-api)
+![](https://cdn.hackernoon.com/images/CZ7bbcxm7qVSC1OK09EBVS1KPhB2-m093pkq.jpeg)
+This is a brief blog on the Top 10 API security practices that can help users to keep their API safe from cyber attacks. 
+
+### [497. The Cybersecurity Writing Contest by Twingate and HackerNoon](https://hackernoon.com/the-cybersecurity-writing-contest-by-twingate-and-hackernoon)
+![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-rz93z59.jpeg)
+Yasssss The Cybersecurity Writing Contest is here! HackerNoon is excited to host the contest in collaboration with Twingate!
+
+### [498. What will IBM's Acquisition of Randori Mean for Cybersecurity?](https://hackernoon.com/what-will-ibms-acquisition-of-randori-mean-for-cybersecurity)
+![](https://cdn.hackernoon.com/images/08kqxtF0wOR294ukfFuRLXEWE052-ma93oqj.jpeg)
+IBM announced plans to acquire a leading attack surface management provider and offensive security company Randori.
+
+### [499. IP Geolocation in Cybersecurity Investigations](https://hackernoon.com/ip-geolocation-can-it-still-support-cybersecurity-investigations-34d7eee7b064)
+![](https://cdn.hackernoon.com/drafts/r93w3zdy.png)
+In a world where illegal activities increasingly take place through digital means, cyber perpetrators often remain steps ahead in sophistication compared to those who are chasing after them.
+
+### [500. How Hackers use Online Job Postings to Infiltrate Organizations](https://hackernoon.com/how-hackers-use-online-job-postings-to-infiltrate-organizations-661v3t3k)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-jp1d3t41.jpeg?alt=media&token=e10b277d-8ef2-4f15-8726-d372223f09e1)
+There’s a lot of talk in the cybersecurity industry about the jobs threat, meaning the gap in qualified professionals to fill the number of open positions in the industry. But, have you thought about the other jobs threat to consider – the online job postings themselves? 
 

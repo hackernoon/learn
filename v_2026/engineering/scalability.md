@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [scalability](https://hackernoon.com/tagged/scalability)
+### Let's learn about [Scalability](https://hackernoon.com/tagged/scalability) via these 121 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Scalability is the ability of a system, network, or process to handle a growing amount of work or its potential to be enlarged to accommodate that growth. Ensuring scalability is crucial for applications and infrastructures to perform reliably under increased demand and user loads, preventing performance bottlenecks.
+
 ### [1. Subnets are Solving the Crypto Scalability Problem](https://hackernoon.com/subnets-are-solving-the-crypto-scalability-problem)
 ![](https://cdn.hackernoon.com/images/E5pzMBNmQ9SBU6qVMYl6X48inok2-8093klf.jpeg)
 The crypto industry has run into serious scalability issues. But subnets provide the best possible answer to resolve it once and for all.
@@ -45,17 +49,17 @@ Build scalable, reliable, and maintainable applications. Understand basics of sc
 ![](https://cdn.hackernoon.com/images/YXr0nxMhtHTYcIxg5sFngxEQeGk1-ybx3we4.jpeg)
 The evolution, failures and design decisions behind one of the world’s largest real-time, high-frequency and low-latency streaming systems.
 
-### [12. Things to Consider When You are Building a SaaS Product From Scratch](https://hackernoon.com/building-a-saas-product-from-scratch-things-to-consider-e3s32tu)
+### [12. The 7 Leading Requirements Management Software Solutions in 2026](https://hackernoon.com/the-7-leading-requirements-management-software-solutions-in-2026)
+![](https://cdn.hackernoon.com/images/V0mg4ynf9Adqkc3hZJgM5s9qTjy1-7e03e1m.jpeg)
+An in-depth guide to th 7 leading requirements management software solutions in 2026. Compare Jama Connect, DOORS, Polarion, and more to find the right fit. 
+
+### [13. Things to Consider When You are Building a SaaS Product From Scratch](https://hackernoon.com/building-a-saas-product-from-scratch-things-to-consider-e3s32tu)
 ![](drafts/549x03zxx.png)
 SaaS is not a buzzword in 2019! It's a proven, efficient and most widely used model to deliver software to customers. SaaS stands for software as a service, which means the software is delivered as a continuous service over the web/internet where the customer doesn't have to download and install the product on his system. Examples of popular SaaS products include Zoho, Salesforce, Mailchimp, Twilio, etc.
 
-### [13. Ethereum Scaling 101: A Quick Dive Into Understanding Layer 2 and Sidechains](https://hackernoon.com/ethereum-scaling-101-a-quick-dive-into-understanding-layer-2-and-sidechains)
+### [14. Ethereum Scaling 101: A Quick Dive Into Understanding Layer 2 and Sidechains](https://hackernoon.com/ethereum-scaling-101-a-quick-dive-into-understanding-layer-2-and-sidechains)
 ![](https://cdn.hackernoon.com/images/H7wJbpFbwXPju0F4VOalk4s9uq93-1di3rvi.jpeg)
 Today's most popular blockchain scaling solutions like Layer 2, Sidechains, ZK-Rollup and Optimistic Rollups and a detailed breakdown of them.
-
-### [14. The 7 Leading Requirements Management Software Solutions in 2026](https://hackernoon.com/the-7-leading-requirements-management-software-solutions-in-2026)
-![](https://cdn.hackernoon.com/images/V0mg4ynf9Adqkc3hZJgM5s9qTjy1-7e03e1m.jpeg)
-An in-depth guide to th 7 leading requirements management software solutions in 2026. Compare Jama Connect, DOORS, Polarion, and more to find the right fit. 
 
 ### [15. Is MariaDB simply a fork of MySQL?](https://hackernoon.com/is-mariadb-simply-a-fork-of-mysql)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-w993rzk.jpeg)
@@ -131,13 +135,13 @@ Optimizing Nginx for High-Traffic Systems: A Guide to Configuration & Monitoring
 ![](https://cdn.hackernoon.com/images/Ost0Yu7R8YRpFW6b3mNIw0Oq2LX2-6g035pg.jpeg)
 This article describes best practices for standardized logging from the point of view of performance, debuggability, and security. 
 
-### [33. UTXO Stack: The Complete Edition of the RGB++ Protocol Charting Bitcoin's Course](https://hackernoon.com/utxo-stack-the-complete-edition-of-the-rgb-protocol-charting-bitcoins-course)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-hr833kw.png)
-Discover how the RGB++ protocol enhances Bitcoin's scalability and programmability through native solutions. 
-
-### [34. Getting started with Distributed SQL](https://hackernoon.com/getting-started-with-distributed-sql)
+### [33. Getting started with Distributed SQL](https://hackernoon.com/getting-started-with-distributed-sql)
 ![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-ih93qm9.jpeg)
 
+
+### [34. UTXO Stack: The Complete Edition of the RGB++ Protocol Charting Bitcoin's Course](https://hackernoon.com/utxo-stack-the-complete-edition-of-the-rgb-protocol-charting-bitcoins-course)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-hr833kw.png)
+Discover how the RGB++ protocol enhances Bitcoin's scalability and programmability through native solutions. 
 
 ### [35. Architecture Patterns for Beginners: MVC, MVP, and MVVM](https://hackernoon.com/architecture-patterns-for-beginners-mvc-mvp-and-mvvm)
 ![](https://cdn.hackernoon.com/images/3T3bktvLngh9teCvwCOix1OZ12n2-7b03303.png)
@@ -163,13 +167,13 @@ As crypto-mania approached its peak in 2017, it seemed like every project was st
 ![](https://cdn.hackernoon.com/images/TmomnkEduPhXKVzMMPa8AQsBG4e2-0v03c5j.png)
 Building an app that works is one thing. Building an app that keeps working as it grows is another.
 
-### [41. Subnets For Blockchain Scalability: Avalanche vs Internet Computer](https://hackernoon.com/subnets-for-blockchain-scalability-avalanche-vs-internet-computer)
-![](https://cdn.hackernoon.com/images/V39Yb2xg72VhRbv2hBiBnWfQkdJ3-h093s48.jpeg)
-Subnets are a novel blockchain architecture innovation that the Avalanche and Internet Computer blockchains employ.
-
-### [42. Modular Game Engines: Building Scalable Architectures for Next-Gen Online Slots](https://hackernoon.com/modular-game-engines-building-scalable-architectures-for-next-gen-online-slots)
+### [41. Modular Game Engines: Building Scalable Architectures for Next-Gen Online Slots](https://hackernoon.com/modular-game-engines-building-scalable-architectures-for-next-gen-online-slots)
 ![](https://cdn.hackernoon.com/images/oJUpYAF0LFWZEfK7tXb4ezCNFeg2-zp03bp5.jpeg)
 It reveals how modular game engines enable scalable, high-performance online slots. Learn core-feature boundaries, dependency management, and so on.
+
+### [42. Subnets For Blockchain Scalability: Avalanche vs Internet Computer](https://hackernoon.com/subnets-for-blockchain-scalability-avalanche-vs-internet-computer)
+![](https://cdn.hackernoon.com/images/V39Yb2xg72VhRbv2hBiBnWfQkdJ3-h093s48.jpeg)
+Subnets are a novel blockchain architecture innovation that the Avalanche and Internet Computer blockchains employ.
 
 ### [43. Cost Optimization Techniques for AWS DynamoDB in Orchestration Applications](https://hackernoon.com/cost-optimization-techniques-for-aws-dynamodb-in-orchestration-applications)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-x302rnp.jpeg)
@@ -216,256 +220,276 @@ Discover how to leverage Firestore’s built-in real-time listeners as a mainten
 ![](https://cdn.hackernoon.com/images/g8aEx2p7U6gaVsAv99684Pb9T193-bu037hz.png)
 Learn how backpressure helps distributed systems stay resilient under load. Explore real-world patterns to manage flow control, retries, and queue buildup.
 
-### [54. Harnessing the Growth of Digital Agencies](https://hackernoon.com/harnessing-the-growth-of-digital-agencies)
-![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-i4c3pqk.jpeg)
-A look at how small businesses can scale quickly and relatively cheaply by using digital methods for marketing and other such technologies to their advantage.
-
-### [55. 4 Ways to Grow Your Business Without Hiring](https://hackernoon.com/4-ways-to-grow-your-business-without-hiring)
+### [54. 4 Ways to Grow Your Business Without Hiring](https://hackernoon.com/4-ways-to-grow-your-business-without-hiring)
 ![](https://cdn.hackernoon.com/images/WR92p8UlFWeaDqRE8JbF7SnghoK2-ua92bh8.png)
 Growing a company is tough, and it can become even more difficult if entrepreneurs don’t ask the right questions.
 
-### [56. Are You Behind on Cloud Migration?](https://hackernoon.com/are-you-behind-on-cloud-migration)
-![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-jma3p2g.jpeg)
-The cloud is quickly becoming the standard for IT operations. However, concerns still keep some businesses from making that transition.
+### [55. Harnessing the Growth of Digital Agencies](https://hackernoon.com/harnessing-the-growth-of-digital-agencies)
+![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-i4c3pqk.jpeg)
+A look at how small businesses can scale quickly and relatively cheaply by using digital methods for marketing and other such technologies to their advantage.
 
-### [57. Enhancing Scalability with Off-Chain Data Storage in Blockchain Ecosystems](https://hackernoon.com/enhancing-scalability-with-off-chain-data-storage-in-blockchain-ecosystems)
+### [56. Enhancing Scalability with Off-Chain Data Storage in Blockchain Ecosystems](https://hackernoon.com/enhancing-scalability-with-off-chain-data-storage-in-blockchain-ecosystems)
 ![](https://cdn.hackernoon.com/images/urMVMHGdtaYtlg1iSzaSSgO9bHO2-2ob3rl9.jpeg)
 Exploring the role of off-chain data storage in blockchain technology, and how off-chain solutions can enhance scalability.
 
-### [58. The Data Stack’s Next Form Factor: Multi-Agent Systems](https://hackernoon.com/the-data-stacks-next-form-factor-multi-agent-systems)
+### [57. The Data Stack’s Next Form Factor: Multi-Agent Systems](https://hackernoon.com/the-data-stacks-next-form-factor-multi-agent-systems)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-c30230g.png)
 Move beyond data monoliths with Da2a, an open-source agentic data platform using the A2A protocol for decentralized analytics. 
 
-### [59. Blockchain Field Review - What We Should Expect in 2020?](https://hackernoon.com/blockchain-tech-field-review-what-we-should-expect-in-2020-prr32i8)
-![](https://cdn.hackernoon.com/drafts/hnml32k4.png)
-The year 2019 is coming to an end, and the blockchain hype seems to be slowly dying as well as the crypto bubble. But is it really dead or maybe now it has to offer even more than it had in 2017 when the total market capitalization of crypto was near $800 billion? In reality, it was something like a great purge for many unprofessional projects. Without investors throwing money at them, they died, like dotcom bubble projects before them. The general audience begins to understand that the blockchain technology isn't something that makes everything it's applied to revolutionary. It has its own applications, where it can shine, such as finances and supply chains, but also there can be many occasions where blockchain is totally unnecessary. For example, maybe creating a decentralized network for dentists isn’t such a good idea?
+### [58. Are You Behind on Cloud Migration?](https://hackernoon.com/are-you-behind-on-cloud-migration)
+![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-jma3p2g.jpeg)
+The cloud is quickly becoming the standard for IT operations. However, concerns still keep some businesses from making that transition.
 
-### [60. Rethinking Scalability as a Startup Engineer](https://hackernoon.com/rethinking-scalability-as-a-startup-engineer)
+### [59. Rethinking Scalability as a Startup Engineer](https://hackernoon.com/rethinking-scalability-as-a-startup-engineer)
 ![](https://cdn.hackernoon.com/images/vskCeZxRrOYLkQ2aKNOuaybxcsD2-dcj3xr0.png)
 Startups aren't just about algorithms; they're about scaling products and staying financially sustainable.
 
-### [61. Building Actual Peer-to-peer Applications: Outside Misconceptions](https://hackernoon.com/building-actual-peer-to-peer-applications-outside-misconceptions)
-![](https://cdn.hackernoon.com/images/8dTTQIuv5EShl8lg4OPtdq809KB2-j10364b.png)
-Peer-to-peer (P2P) applications are often misunderstood as insecure, illegal file-sharing networks that operate without any servers.
+### [60. Blockchain Field Review - What We Should Expect in 2020?](https://hackernoon.com/blockchain-tech-field-review-what-we-should-expect-in-2020-prr32i8)
+![](https://cdn.hackernoon.com/drafts/hnml32k4.png)
+The year 2019 is coming to an end, and the blockchain hype seems to be slowly dying as well as the crypto bubble. But is it really dead or maybe now it has to offer even more than it had in 2017 when the total market capitalization of crypto was near $800 billion? In reality, it was something like a great purge for many unprofessional projects. Without investors throwing money at them, they died, like dotcom bubble projects before them. The general audience begins to understand that the blockchain technology isn't something that makes everything it's applied to revolutionary. It has its own applications, where it can shine, such as finances and supply chains, but also there can be many occasions where blockchain is totally unnecessary. For example, maybe creating a decentralized network for dentists isn’t such a good idea?
 
-### [62. Pitfalls to Avoid in High-Scale Cloud Applications](https://hackernoon.com/pitfalls-to-avoid-in-high-scale-cloud-applications)
+### [61. Pitfalls to Avoid in High-Scale Cloud Applications](https://hackernoon.com/pitfalls-to-avoid-in-high-scale-cloud-applications)
 ![](https://cdn.hackernoon.com/images/AJEfcLC7g6aPDzGb98ArsOP1IR12-vy0344c.jpeg)
 Learn about the key challenges of building high-scale cloud applications, with real-world examples, practical fixes, and code snippets for success.
+
+### [62. Zero Downtime with Akamai GTM: Multi-Region Load Balancing Made Simple](https://hackernoon.com/zero-downtime-with-akamai-gtm-multi-region-load-balancing-made-simple)
+![](https://cdn.hackernoon.com/images/AEgQOZApOtXMMTXNJ1P6hLuHyaH2-2x039zb.png)
+Akamai GTM provides global load balancing with liveness checks, failover, and routing. Learn how to set it up step-by-step across multiple regions.
 
 ### [63. Common Design Patterns for Building Resilient Systems (Retries & Circuit Breakers)](https://hackernoon.com/common-design-patterns-for-building-resilient-systems-retries-and-circuit-breakers)
 ![](https://cdn.hackernoon.com/images/Ost0Yu7R8YRpFW6b3mNIw0Oq2LX2-9j935xw.jpeg)
 We talk about two design patterns that highlight best practices for building resilient microservices architectures at scale. 
 
-### [64. Supercharge Your Compliance In Web3: Multichain Systems for Brand Security and Throughput](https://hackernoon.com/supercharge-your-compliance-in-web3-multichain-systems-for-brand-security-and-throughput)
-![](https://cdn.hackernoon.com/images/23C6zIiLisbU8JPvF0aDWfQloUW2-9483eb9.jpeg)
-Here’s how brands are leveraging multichain systems in web3.
+### [64. Scalability With AI: Lessons From Real Production Systems ](https://hackernoon.com/scalability-with-ai-lessons-from-real-production-systems)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jz024wu.jpeg)
+Learn how to scale AI systems in production: latency, cost, reliability, and observability lessons from real-world systems.
 
-### [65. What are AI Agents and Why They Matter](https://hackernoon.com/what-are-ai-agents-and-why-they-matter)
-![](https://cdn.hackernoon.com/images/2IMqEZUXShOGobB36FVUqCUQPSc2-qda3jvb.jpeg)
-Discover what AI agents are, how they work, their benefits, and limitations. Your simple guide to why they matter in today’s AI-driven world.
-
-### [66. Building a Distributed Timer Service at Scale: Handling 100K Timers Per Second](https://hackernoon.com/building-a-distributed-timer-service-at-scale-handling-100k-timers-per-second)
+### [65. Building a Distributed Timer Service at Scale: Handling 100K Timers Per Second](https://hackernoon.com/building-a-distributed-timer-service-at-scale-handling-100k-timers-per-second)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-g1036n1.jpeg)
 This article details a horizontally scalable, distributed timer service achieving 100 K timer creations per second with millisecond precision.
 
-### [67. What is Cloud Scalability? Benefits, When and How to Use](https://hackernoon.com/an-introduction-to-cloud-scalability-s17h37w4)
+### [66. What are AI Agents and Why They Matter](https://hackernoon.com/what-are-ai-agents-and-why-they-matter)
+![](https://cdn.hackernoon.com/images/2IMqEZUXShOGobB36FVUqCUQPSc2-qda3jvb.jpeg)
+Discover what AI agents are, how they work, their benefits, and limitations. Your simple guide to why they matter in today’s AI-driven world.
+
+### [67. Supercharge Your Compliance In Web3: Multichain Systems for Brand Security and Throughput](https://hackernoon.com/supercharge-your-compliance-in-web3-multichain-systems-for-brand-security-and-throughput)
+![](https://cdn.hackernoon.com/images/23C6zIiLisbU8JPvF0aDWfQloUW2-9483eb9.jpeg)
+Here’s how brands are leveraging multichain systems in web3.
+
+### [68. What is Cloud Scalability? Benefits, When and How to Use](https://hackernoon.com/an-introduction-to-cloud-scalability-s17h37w4)
 ![](https://cdn.hackernoon.com/images/n0FsdSboZwQ3w9wmzUgbktSlyLl2-125o355e.jpeg)
 In cloud computing, cloud scalability refers to the ability of increasing or decreasing the IT resources to meet changing needs. Scalability is an element of the cloud and is the main driver of its popularity in the business sector.
-
-### [68. Auto Scaling in Cloud Computing with AWS: Top 4 Advantages](https://hackernoon.com/auto-scaling-in-cloud-computing-with-aws-top-4-advantages)
-![](https://cdn.hackernoon.com/images/h3xSiiZTmOSTZyrfzYGqw7Pe3rC2-oa43685.jpeg)
-In this article I have mentioned what auto-scaling is all about and what benefits it holds in a cloud computing environment, especially with respect to Amazon.
 
 ### [69. Why is Cartesi Doubling Down on Ethereum?](https://hackernoon.com/why-is-cartesi-doubling-down-on-ethereum)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-yp03kyc.png)
 Cartesi shifts to strengthen Ethereum's core infrastructure, leveraging its Stage 2 rollup, fraud proofs, and RISC-V tech for enhanced scalability and security.
 
-### [70. The Aftermath of Going Enterprise](https://hackernoon.com/the-aftermath-of-going-enterprise)
+### [70. Auto Scaling in Cloud Computing with AWS: Top 4 Advantages](https://hackernoon.com/auto-scaling-in-cloud-computing-with-aws-top-4-advantages)
+![](https://cdn.hackernoon.com/images/h3xSiiZTmOSTZyrfzYGqw7Pe3rC2-oa43685.jpeg)
+In this article I have mentioned what auto-scaling is all about and what benefits it holds in a cloud computing environment, especially with respect to Amazon.
+
+### [71. The Aftermath of Going Enterprise](https://hackernoon.com/the-aftermath-of-going-enterprise)
 ![](https://cdn.hackernoon.com/images/SWuYxmBe5WPlAjznGj5Fb05Thnl1-xj92fjv.jpeg)
 Factors to consider in scaling your enterprise solution: the do's , the don'ts and the maybe.
 
-### [71. How To Use Modzy API for your ML Project](https://hackernoon.com/how-to-use-modzy-api-for-your-ml-project-lj3p35tb)
-![](https://cdn.hackernoon.com/images/GSN9VJGOaZXMU6zEAhjLZYX4ZXW2-iu3i354x.jpeg)
-Today’s world of machine learning (ML) and artificial intelligence (AI) presents a variety of challenges to organizations, particularly when it comes to product
-
-### [72. Why Private Equity Firms Need to Combine Technical and Product Due Diligence for Smarter Investments](https://hackernoon.com/why-private-equity-firms-need-to-combine-technical-and-product-due-diligence-for-smarter-investments)
-![](https://cdn.hackernoon.com/images/5wnQnTja5ZOAWQ4GUTCKeoQOAH42-gn93pvg.jpeg)
-More firms are doing technical due diligence to mitigate the risk of the fast-dealing days of yore. But don’t overlook the importance of product due diligence.
-
-### [73. Zero Downtime with Akamai GTM: Multi-Region Load Balancing Made Simple](https://hackernoon.com/zero-downtime-with-akamai-gtm-multi-region-load-balancing-made-simple)
-![](https://cdn.hackernoon.com/images/AEgQOZApOtXMMTXNJ1P6hLuHyaH2-2x039zb.png)
-Akamai GTM provides global load balancing with liveness checks, failover, and routing. Learn how to set it up step-by-step across multiple regions.
-
-### [74. Python vs. Spark: When Does It Make Sense to Scale Up?](https://hackernoon.com/python-vs-spark-when-does-it-make-sense-to-scale-up)
-![](https://cdn.hackernoon.com/images/cKs78lxUwmhmmdj8AyccPMXHSzJ3-l2034tm.webp)
-Wondering when to switch from Python to Spark? This practical guide breaks down the real differences, warning signs, and best use cases—so you know exactly when
-
-### [75. Restoring Democracy in the Digital World: The Case for Decentralized Autonomous Companies](https://hackernoon.com/restoring-democracy-in-the-digital-world-the-case-for-decentralized-autonomous-companies)
-![](https://cdn.hackernoon.com/images/restoring-democracy-in-the-digital-world-the-case-for-decentralized-autonomous-companies-clhudtjgs000001s6b9aicdke.png)
-The current status quo is far from what the pioneers of the internet dreamt of, and it's a perspective that many would likely challenge.
-
-### [76. How AI-Native Engineering Boosts Your App’s Scalability](https://hackernoon.com/how-ai-native-engineering-boosts-your-apps-scalability)
+### [72. How AI-Native Engineering Boosts Your App’s Scalability](https://hackernoon.com/how-ai-native-engineering-boosts-your-apps-scalability)
 ![](https://cdn.hackernoon.com/images/DezCoiptrch3iOFRNeQLuw9CcZr1-a282ayy.jpeg)
 AI-native engineering helps apps scale proactively by predicting demand, optimizing performance, and controlling cost through intelligent, automated systems. 
 
-### [77. Angular Destroys React When It Comes to Scaling Enterprise Apps: Here's Why](https://hackernoon.com/angular-destroys-react-when-it-comes-to-scaling-enterprise-apps-heres-why-efqo96i)
-![](https://cdn.hackernoon.com/images/qHMZ8kVymOZI7HXE58IAYCn1UW23-bw03632.png)
-Today, I’ll focus on what makes Angular great if you want to scale your app
+### [73. Why Private Equity Firms Need to Combine Technical and Product Due Diligence for Smarter Investments](https://hackernoon.com/why-private-equity-firms-need-to-combine-technical-and-product-due-diligence-for-smarter-investments)
+![](https://cdn.hackernoon.com/images/5wnQnTja5ZOAWQ4GUTCKeoQOAH42-gn93pvg.jpeg)
+More firms are doing technical due diligence to mitigate the risk of the fast-dealing days of yore. But don’t overlook the importance of product due diligence.
 
-### [78. From Black Friday to Everyday: Architecting Elastic E-Commerce Systems for Peak Performance](https://hackernoon.com/from-black-friday-to-everyday-architecting-elastic-e-commerce-systems-for-peak-performance)
+### [74. How To Use Modzy API for your ML Project](https://hackernoon.com/how-to-use-modzy-api-for-your-ml-project-lj3p35tb)
+![](https://cdn.hackernoon.com/images/GSN9VJGOaZXMU6zEAhjLZYX4ZXW2-iu3i354x.jpeg)
+Today’s world of machine learning (ML) and artificial intelligence (AI) presents a variety of challenges to organizations, particularly when it comes to product
+
+### [75. From Black Friday to Everyday: Architecting Elastic E-Commerce Systems for Peak Performance](https://hackernoon.com/from-black-friday-to-everyday-architecting-elastic-e-commerce-systems-for-peak-performance)
 ![](https://cdn.hackernoon.com/images/a-busy-shopping-mall-sketch-color-wzn9kfapj6s6yveimxu0rfog.png)
 A practical guide on designing elastic and resilient e-commerce systems that can withstand Black Friday–level traffic every day using resilient architecture.
+
+### [76. Architecture for Compliance Scaling Microservices with DDD for High Volume Global Enterprise Systems](https://hackernoon.com/architecture-for-compliance-scaling-microservices-with-ddd-for-high-volume-global-enterprise-systems)
+![](https://cdn.hackernoon.com/images/AMqqeBm4qFS32MeRJPcWyAejo2T2-p923ean.jpeg)
+A technical case study on leveraging Domain-Driven Design (DDD) and Microservices to architect scalable tax compliance engines for high-volume global enterprise
+
+### [77. Python vs. Spark: When Does It Make Sense to Scale Up?](https://hackernoon.com/python-vs-spark-when-does-it-make-sense-to-scale-up)
+![](https://cdn.hackernoon.com/images/cKs78lxUwmhmmdj8AyccPMXHSzJ3-l2034tm.webp)
+Wondering when to switch from Python to Spark? This practical guide breaks down the real differences, warning signs, and best use cases—so you know exactly when
+
+### [78. Restoring Democracy in the Digital World: The Case for Decentralized Autonomous Companies](https://hackernoon.com/restoring-democracy-in-the-digital-world-the-case-for-decentralized-autonomous-companies)
+![](https://cdn.hackernoon.com/images/restoring-democracy-in-the-digital-world-the-case-for-decentralized-autonomous-companies-clhudtjgs000001s6b9aicdke.png)
+The current status quo is far from what the pioneers of the internet dreamt of, and it's a perspective that many would likely challenge.
 
 ### [79. What Are Conflict-free Replicated Data Types (CRDTs)?](https://hackernoon.com/what-are-conflict-free-replicated-data-types-crdts-2u3u35lz)
 ![](https://cdn.hackernoon.com/images/ACHtVy9dCuZip9JIJJEqHZLgBfY2-5y1k34d8.jpeg)
 In a world where most of the apps that we use on the internet are collaborative in nature, conflicts in data are common. Is there a way to avoid it?
 
-### [80. Scalability With AI: Lessons From Real Production Systems ](https://hackernoon.com/scalability-with-ai-lessons-from-real-production-systems)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jz024wu.jpeg)
-Learn how to scale AI systems in production: latency, cost, reliability, and observability lessons from real-world systems.
+### [80. Angular Destroys React When It Comes to Scaling Enterprise Apps: Here's Why](https://hackernoon.com/angular-destroys-react-when-it-comes-to-scaling-enterprise-apps-heres-why-efqo96i)
+![](https://cdn.hackernoon.com/images/qHMZ8kVymOZI7HXE58IAYCn1UW23-bw03632.png)
+Today, I’ll focus on what makes Angular great if you want to scale your app
 
-### [81. Garbage Collection in Erlang Helps Create Scalable Applications](https://hackernoon.com/garbage-collection-in-erlang-helps-create-scalable-applications-kr1g34w5)
+### [81. Building Actual Peer-to-peer Applications: Outside Misconceptions](https://hackernoon.com/building-actual-peer-to-peer-applications-outside-misconceptions)
+![](https://cdn.hackernoon.com/images/8dTTQIuv5EShl8lg4OPtdq809KB2-j10364b.png)
+Peer-to-peer (P2P) applications are often misunderstood as insecure, illegal file-sharing networks that operate without any servers.
+
+### [82. Orchestration vs. Choreography: Navigating the Trade-offs of Modern System Design](https://hackernoon.com/orchestration-vs-choreography-navigating-the-trade-offs-of-modern-system-design)
+![](https://cdn.hackernoon.com/images/orchestra-watercolor-hyc0a8bqdygahtie82bi78d1.png)
+
+
+### [83. Garbage Collection in Erlang Helps Create Scalable Applications](https://hackernoon.com/garbage-collection-in-erlang-helps-create-scalable-applications-kr1g34w5)
 ![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-dg4t31jw.jpeg)
 How garbage collection in Erlang can help you to create scalable applications
 
-### [82. When ML Meets Microservices: Engineering for Scalability and Performance](https://hackernoon.com/when-ml-meets-microservices-engineering-for-scalability-and-performance)
-![](https://cdn.hackernoon.com/images/LScyEEDAJQQCLLt1JDReovQvOm03-0i035ze.png)
-Discover how combining machine learning with microservices architecture enables scalable, high-performance systems by leveraging modular design, efficient data 
-
-### [83. Serverless Databases in 2024: The State of Serverless Solutions for Modern Apps](https://hackernoon.com/serverless-databases-in-2024-the-state-of-serverless-solutions-for-modern-apps)
+### [84. Serverless Databases in 2024: The State of Serverless Solutions for Modern Apps](https://hackernoon.com/serverless-databases-in-2024-the-state-of-serverless-solutions-for-modern-apps)
 ![](https://cdn.hackernoon.com/images/tVmgy1BFDcZK1c7Ty90Zue1TAN93-w9630un.png)
 Explore 2024's top serverless databases, ideal for modern app architectures, with insights on scaling, cost, and performance for developers and startups.
 
-### [84. BNB Chain's opBNB Testnet Aims to Usher In a New Era of Scalability](https://hackernoon.com/bnb-chains-opbnb-testnet-aims-to-usher-in-a-new-era-of-scalability)
+### [85. When ML Meets Microservices: Engineering for Scalability and Performance](https://hackernoon.com/when-ml-meets-microservices-engineering-for-scalability-and-performance)
+![](https://cdn.hackernoon.com/images/LScyEEDAJQQCLLt1JDReovQvOm03-0i035ze.png)
+Discover how combining machine learning with microservices architecture enables scalable, high-performance systems by leveraging modular design, efficient data 
+
+### [86. BNB Chain's opBNB Testnet Aims to Usher In a New Era of Scalability](https://hackernoon.com/bnb-chains-opbnb-testnet-aims-to-usher-in-a-new-era-of-scalability)
 ![](https://cdn.hackernoon.com/images/XEwEsoKKiSM0pGjq4dyeehqOfjj2-bp92p1u.jpeg)
 I interviewed Arnaud Bauer, a Senior Solution Architect at BNB Chain, about the recently launched opBNB Testnet. Here's what we discussed. 
 
-### [85. The Real-World Benefits of Elastic Computing with Low-Code](https://hackernoon.com/the-real-world-benefits-of-elastic-computing-with-low-code-ii2q3w7x)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-tk2a3web.jpeg?alt=media&token=211fae29-50c4-47da-a714-0088c105479b)
-As we move into the cloud computing era, we've seen the floodgates open and waves of new development frameworks taking advantage of every opportunity that cloud computing technologies offer.
-
-### [86. The Volatility Opportunity: Turning Risks Into Rewards With High-Profile Clients](https://hackernoon.com/the-volatility-opportunity-turning-risks-into-rewards-with-high-profile-clients)
+### [87. The Volatility Opportunity: Turning Risks Into Rewards With High-Profile Clients](https://hackernoon.com/the-volatility-opportunity-turning-risks-into-rewards-with-high-profile-clients)
 ![](https://cdn.hackernoon.com/images/c607B5HNDAS3MSR0z51aBARI7Ga2-3p93cyw.jpeg)
 Want your tech company to be recession-proof? Diversifying your client base and offering exceptional service can build antifragility into your organization.
 
-### [87. Angular Signals Are A Game Changer: How They're A Great Fit For Scalable Apps](https://hackernoon.com/angular-signals-are-a-game-changer-how-theyre-a-great-fit-for-scalable-apps)
+### [88. The Real-World Benefits of Elastic Computing with Low-Code](https://hackernoon.com/the-real-world-benefits-of-elastic-computing-with-low-code-ii2q3w7x)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-tk2a3web.jpeg?alt=media&token=211fae29-50c4-47da-a714-0088c105479b)
+As we move into the cloud computing era, we've seen the floodgates open and waves of new development frameworks taking advantage of every opportunity that cloud computing technologies offer.
+
+### [89. Angular Signals Are A Game Changer: How They're A Great Fit For Scalable Apps](https://hackernoon.com/angular-signals-are-a-game-changer-how-theyre-a-great-fit-for-scalable-apps)
 ![](https://cdn.hackernoon.com/images/qHMZ8kVymOZI7HXE58IAYCn1UW23-sh034tb.png)
 Signals are a new concept in Angular that plays well with reactive programming and templates.
 
-### [88. If You Learn to Build Scalable Applications, You Can Change Your Career](https://hackernoon.com/if-you-learn-to-build-scalable-applications-you-can-change-your-career-u179328x)
+### [90. If You Learn to Build Scalable Applications, You Can Change Your Career](https://hackernoon.com/if-you-learn-to-build-scalable-applications-you-can-change-your-career-u179328x)
 ![](https://cdn.hackernoon.com/drafts/yc1f4326g.png)
 What we're up to
 
-### [89. Will Solving Scalability make Crypto Transactions Faster? Not Really](https://hackernoon.com/does-solving-scalability-mean-solving-bitcoin-not-really-kyef311b)
-![](https://cdn.hackernoon.com/drafts/zohn31w9.png)
-The issue of scalability first became apparent in 2017 or so when Bitcoin started to be very actively transacted through the blockchain as it was getting much more traction due to the sudden uptick in price.
-
-### [90. The Future is Stateless: It’s Time To Ensure Your Security Is As Scalable as Your Business](https://hackernoon.com/the-future-is-stateless-its-time-to-ensure-your-security-is-as-scalable-as-your-business)
+### [91. The Future is Stateless: It’s Time To Ensure Your Security Is As Scalable as Your Business](https://hackernoon.com/the-future-is-stateless-its-time-to-ensure-your-security-is-as-scalable-as-your-business)
 ![](https://cdn.hackernoon.com/images/KP6ZZCxmFpeLcptqGSTgnHaC0M82-8093s4d.jpeg)
 Authorization is a crucial pain point software developers inevitably encounter when designing software.
 
-### [91. Why You Should Move Your Corporate Infrastructure to Cloud](https://hackernoon.com/why-you-should-move-your-corporate-infrastructure-to-cloud)
+### [92. Will Solving Scalability make Crypto Transactions Faster? Not Really](https://hackernoon.com/does-solving-scalability-mean-solving-bitcoin-not-really-kyef311b)
+![](https://cdn.hackernoon.com/drafts/zohn31w9.png)
+The issue of scalability first became apparent in 2017 or so when Bitcoin started to be very actively transacted through the blockchain as it was getting much more traction due to the sudden uptick in price.
+
+### [93. Why You Should Move Your Corporate Infrastructure to Cloud](https://hackernoon.com/why-you-should-move-your-corporate-infrastructure-to-cloud)
 ![](https://cdn.hackernoon.com/images/yhxLEezKWWcCfcdCiac1tQe0uW92-lpc3kc9.jpeg)
 Find out what benefits and opportunities you will get by moving your corporate infrastructure to the cloud.
 
-### [92. Redefining Network Solutions for Edge Computing: Ishan Bhatt's Vision for AI and ML Workloads](https://hackernoon.com/redefining-network-solutions-for-edge-computing-ishan-bhatts-vision-for-ai-and-ml-workloads)
+### [94. Understanding the Directions of Technical Data Platforms Scalability](https://hackernoon.com/understanding-the-directions-of-technical-data-platforms-scalability)
+![](https://cdn.hackernoon.com/images/KNMt7Jh6pxNXXKxanTAdm1aNKRN2-0re3p1i.png)
+In this blog we’ll evaluate the direction of scalability and the tradeoffs you might encounter in the decision process.
+
+### [95. Redefining Network Solutions for Edge Computing: Ishan Bhatt's Vision for AI and ML Workloads](https://hackernoon.com/redefining-network-solutions-for-edge-computing-ishan-bhatts-vision-for-ai-and-ml-workloads)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-g8034gw.png)
 Discover Ishan Bhatt's groundbreaking vision for redefining edge computing networks, enabling faster, efficient AI and ML workloads with low-latency solutions.
 
-### [93. Why do you need a Virtual Server? Explained](https://hackernoon.com/why-do-you-need-a-virtual-server-explained)
+### [96. Why do you need a Virtual Server? Explained](https://hackernoon.com/why-do-you-need-a-virtual-server-explained)
 ![](https://cdn.hackernoon.com/images/yhxLEezKWWcCfcdCiac1tQe0uW92-mfa3h77.jpeg)
 In this article, you will learn why you need to migrate from a physical server to a virtual one.
-
-### [94. Scaling Ory Hydra to Two Billion Monthly OAuth2 Flows on a Single PostgreSQL DB](https://hackernoon.com/scaling-ory-hydra-to-two-billion-monthly-oauth2-flows-on-a-single-postgresql-db)
-![](https://cdn.hackernoon.com/images/lDxjeQ5BAlb0tdnXpfJxSsKnz783-qh93n3r.jpeg)
-Ory Hydra is a popular open-source OAuth2 and OpenID Connect server that provides secure authentication and authorization for applications. 
-
-### [95. The Role of Scalability in Bolstering Blockchain Adoption](https://hackernoon.com/the-role-of-scalability-in-bolstering-blockchain-adoption)
-![](https://cdn.hackernoon.com/images/KTsAalOsFZcNRUZ8VTJlXGrvLZo1-7t93po9.jpeg)
-Blockchain technology has grown to become one of the cornerstones of the future of the internet. 
-
-### [96. How The Cloud Turned IT Outsourcing On Its Head](https://hackernoon.com/how-the-cloud-turned-it-outsourcing-on-its-head-o14l325h)
-![](https://cdn.hackernoon.com/drafts/sl1uf36qa.png)
-In my previous article I interviewed Michael to discover just how a decentralized virtual private network might work. This time around, I wanted to learn what the cloud meant for IT professionals like himself: what their work was like before it became an everyday tool, and how they could describe its impact.
 
 ### [97. Decentralized Storage and Data Privacy for Developers](https://hackernoon.com/decentralized-storage-and-data-privacy-for-developers)
 ![](https://cdn.hackernoon.com/images/Y0BCqyw0FHUbHq4C2tHsuY0hIUA3-xs23a4p.jpeg)
 Arcana Network runs on its blockchain, independent of a large centralized entity. have no central storage. Data Privacy on the blockchain.
 
-### [98. Understanding the Directions of Technical Data Platforms Scalability](https://hackernoon.com/understanding-the-directions-of-technical-data-platforms-scalability)
-![](https://cdn.hackernoon.com/images/KNMt7Jh6pxNXXKxanTAdm1aNKRN2-0re3p1i.png)
-In this blog we’ll evaluate the direction of scalability and the tradeoffs you might encounter in the decision process.
+### [98. Scaling Ory Hydra to Two Billion Monthly OAuth2 Flows on a Single PostgreSQL DB](https://hackernoon.com/scaling-ory-hydra-to-two-billion-monthly-oauth2-flows-on-a-single-postgresql-db)
+![](https://cdn.hackernoon.com/images/lDxjeQ5BAlb0tdnXpfJxSsKnz783-qh93n3r.jpeg)
+Ory Hydra is a popular open-source OAuth2 and OpenID Connect server that provides secure authentication and authorization for applications. 
 
-### [99. 9 Web Hosting Tips You Should Know Before Choosing a Dedicated Server](https://hackernoon.com/9-web-hosting-tips-you-should-know-before-choosing-a-dedicated-server-9t2436nr)
-![](https://cdn.hackernoon.com/images/cLNziuagpGY1w5loVIv4J6Zxc0g1-ya2x34qy.jpeg)
-Choosing a dedicated server can be one of the toughest decisions for small businesses. Do you want to invest in dedicated servers as soon as possible? 
+### [99. The Role of Scalability in Bolstering Blockchain Adoption](https://hackernoon.com/the-role-of-scalability-in-bolstering-blockchain-adoption)
+![](https://cdn.hackernoon.com/images/KTsAalOsFZcNRUZ8VTJlXGrvLZo1-7t93po9.jpeg)
+Blockchain technology has grown to become one of the cornerstones of the future of the internet. 
 
-### [100. How to Handle Log Spikes Like the Pros: How Top DevOps Teams Tame Bursty Workloads](https://hackernoon.com/how-to-handle-log-spikes-like-the-pros-how-top-devops-teams-tame-bursty-workloads)
+### [100. How The Cloud Turned IT Outsourcing On Its Head](https://hackernoon.com/how-the-cloud-turned-it-outsourcing-on-its-head-o14l325h)
+![](https://cdn.hackernoon.com/drafts/sl1uf36qa.png)
+In my previous article I interviewed Michael to discover just how a decentralized virtual private network might work. This time around, I wanted to learn what the cloud meant for IT professionals like himself: what their work was like before it became an everyday tool, and how they could describe its impact.
+
+### [101. How to Handle Log Spikes Like the Pros: How Top DevOps Teams Tame Bursty Workloads](https://hackernoon.com/how-to-handle-log-spikes-like-the-pros-how-top-devops-teams-tame-bursty-workloads)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-x8128cg.jpeg)
 Stay ready for traffic surges. DevOps teams use modern observability platforms to handle log spikes with elastic scaling, full ingestion, and clear insights.
 
-### [101. Exploring Taiwanese Start Up Culture](https://hackernoon.com/exploring-taiwanese-start-up-culture-n14v35k6)
+### [102. 9 Web Hosting Tips You Should Know Before Choosing a Dedicated Server](https://hackernoon.com/9-web-hosting-tips-you-should-know-before-choosing-a-dedicated-server-9t2436nr)
+![](https://cdn.hackernoon.com/images/cLNziuagpGY1w5loVIv4J6Zxc0g1-ya2x34qy.jpeg)
+Choosing a dedicated server can be one of the toughest decisions for small businesses. Do you want to invest in dedicated servers as soon as possible? 
+
+### [103. Exploring Taiwanese Start Up Culture](https://hackernoon.com/exploring-taiwanese-start-up-culture-n14v35k6)
 ![](https://cdn.hackernoon.com/images/TjSHiqa7I0QvYdvk55E8klOeu7w2-zdba331n.jpeg)
 Following our hiring survey for Taiwan startups, this story discusses how local companies find talent, and the importance of employer branding for scalability.
 
-### [102. Key Insights and Future Directions for PageRank on Dynamic Graphs](https://hackernoon.com/key-insights-and-future-directions-for-pagerank-on-dynamic-graphs)
+### [104. Key Insights and Future Directions for PageRank on Dynamic Graphs](https://hackernoon.com/key-insights-and-future-directions-for-pagerank-on-dynamic-graphs)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-6z03423.webp)
 Dynamic Frontier improves PageRank updates on dynamic graphs, achieving up to 8.3× speedup and scalable performance on 64-core systems.
 
-### [103. Examining Blockchain's Scaling Landscape](https://hackernoon.com/examining-blockchains-scaling-landscape)
+### [105. Examining Blockchain's Scaling Landscape](https://hackernoon.com/examining-blockchains-scaling-landscape)
 ![](https://cdn.hackernoon.com/images/iumnGL1xp3ghC3RL7cb6UMd6VkE3-0a93vrj.jpeg)
 This article provides an overview of the key techniques emerging to address blockchain's scalability challenges.
 
-### [104. 10 Steps To Digital Transformation While Simultaneously Cutting Costs](https://hackernoon.com/10-steps-to-digital-transformation-while-simultaneously-cutting-costs-164c325v)
+### [106. 10 Steps To Digital Transformation While Simultaneously Cutting Costs](https://hackernoon.com/10-steps-to-digital-transformation-while-simultaneously-cutting-costs-164c325v)
 ![](https://cdn.hackernoon.com/drafts/cf19v3yn0.png)
 Companies Must Transform Or Else (Photo by eelnosiva on Adobe)
 
-### [105. GPU Computing for Machine Learning](https://hackernoon.com/gpu-computing-for-machine-learning-id2b34d6)
+### [107. GPU Computing for Machine Learning](https://hackernoon.com/gpu-computing-for-machine-learning-id2b34d6)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-tn17311w.jpeg)
 By taking advantage of the parallel computing capabilities of GPUs, a significant decrease in computational time can be achieved relative to traditional CPU
 
-### [106. Scaling Ethereum Blockchain Applications via Altcoins
+### [108. Scaling Ethereum Blockchain Applications via Altcoins
 and Chain Solutions](https://hackernoon.com/scaling-ethereum-blockchain-applications-via-altcoins-and-chain-solutions-cv1k34jl)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-9m1534xd.jpeg)
 As you may know, there are differences between horizontal and vertical scaling in distributed systems which we have covered in another article (Horizontal Scaling versus Vertical Scaling in Distributed Systems). So in this article, we take a next step by learning how to scale up Ethereum blockchain applications.  We will also review different scaling solutions for Ethereum blockchain applications. To follow and understand concepts discussed in this article, we are assuming you’ve a basic understanding of blockchain technology and Ethereum. 
 
-### [107. Build Scalable Products by Coding for Future Feature Expansion](https://hackernoon.com/build-scalable-products-by-coding-for-future-feature-expansion)
-![](https://cdn.hackernoon.com/images/DA9nCOSOxLawlEkEqI6ntvPpTRA2-lo037bm.jpeg)
-How to build scalable products by coding for future feature expansion & code deprecation while maintaining a simplified user interface for complex functionality
-
-### [108. DynamoDB Key Partition Strategies for SaaS](https://hackernoon.com/dynamodb-key-partition-strategies-for-saas)
-![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-7t93jiu.jpeg)
-When using Amazon DynamoDB, you need to know how to effectively partition the tenant data in order to prevent performance bottlenecks as the application scales.
-
-### [109. You Should Upgrade Your Authentication System to CIAM Now Before It's Too Late](https://hackernoon.com/you-should-upgrade-your-authentication-system-to-ciam-now-before-its-too-late)
-![](https://cdn.hackernoon.com/images/Q7Ilpvu5bRN22EpJho9JEiSRxSo2-7x833n7.jpeg)
-Adopting CIAM boosts security, trust, and satisfaction, protecting against data breaches in today's digital world.
-
-### [110. The Secret to Faster JSON Queries in MySQL: Generated Columns](https://hackernoon.com/the-secret-to-faster-json-queries-in-mysql-generated-columns)
+### [109. The Secret to Faster JSON Queries in MySQL: Generated Columns](https://hackernoon.com/the-secret-to-faster-json-queries-in-mysql-generated-columns)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-b30203s.png)
 Migration script to make use of stored generated columns in MYSQL. 
 
-### [111. How Startups Can Actually Grow Faster With Cloud Tech](https://hackernoon.com/how-startups-can-actually-grow-faster-with-cloud-tech)
-![](https://cdn.hackernoon.com/images/TgM5Or3DdXMArZizKKtVVo9lbFk1-s343lx6.png)
-Here’s exactly how startups can leverage cloud solutions to boost their growth—without bankrupting themselves in the process.
+### [110. The "No-Code" Scaling Paradox: Why Your Frankenstein Architecture Will Eventually Fail](https://hackernoon.com/the-no-code-scaling-paradox-why-your-frankenstein-architecture-will-eventually-fail)
+![](https://cdn.hackernoon.com/images/oV93AQV9DjVhuDFOoKFxEoC6PKz2-mi83ckj.png)
+An architectural analysis of why No-Code tools fail at scale, focusing on API latency, technical debt, and the ROI of custom software development. 
 
-### [112. How to Choose the Best CMS Architecture for Your Business](https://hackernoon.com/how-to-choose-the-best-cms-architecture-for-your-business-ued35iv)
-![](https://hackernoon.com/images/7ozCA7Y4IVMQnOgZyr0CD9jNPNW2-b311346x.jpeg)
-Regardless of how great your content is, if you have the wrong CMS, your content won’t make even an ounce of impact on your customers.
+### [111. Build Scalable Products by Coding for Future Feature Expansion](https://hackernoon.com/build-scalable-products-by-coding-for-future-feature-expansion)
+![](https://cdn.hackernoon.com/images/DA9nCOSOxLawlEkEqI6ntvPpTRA2-lo037bm.jpeg)
+How to build scalable products by coding for future feature expansion & code deprecation while maintaining a simplified user interface for complex functionality
 
-### [113. Beyond Big O: Understanding Constant Time Complexity](https://hackernoon.com/beyond-big-o-understanding-constant-time-complexity)
+### [112. You Should Upgrade Your Authentication System to CIAM Now Before It's Too Late](https://hackernoon.com/you-should-upgrade-your-authentication-system-to-ciam-now-before-its-too-late)
+![](https://cdn.hackernoon.com/images/Q7Ilpvu5bRN22EpJho9JEiSRxSo2-7x833n7.jpeg)
+Adopting CIAM boosts security, trust, and satisfaction, protecting against data breaches in today's digital world.
+
+### [113. DynamoDB Key Partition Strategies for SaaS](https://hackernoon.com/dynamodb-key-partition-strategies-for-saas)
+![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-7t93jiu.jpeg)
+When using Amazon DynamoDB, you need to know how to effectively partition the tenant data in order to prevent performance bottlenecks as the application scales.
+
+### [114. Beyond Big O: Understanding Constant Time Complexity](https://hackernoon.com/beyond-big-o-understanding-constant-time-complexity)
 ![](https://cdn.hackernoon.com/images/nO7m01AhBMMWkHTD9rNgMyrtM5z2-6803dm1.png)
 Understand O(1) time complexity and why constant-time operations matter for scalable systems and high-performance software.
 
-### [114. Dynamic Frontier PageRank Efficiently Updates Ranks on Dynamic Graphs](https://hackernoon.com/dynamic-frontier-pagerank-efficiently-updates-ranks-on-dynamic-graphs)
+### [115. How to Choose the Best CMS Architecture for Your Business](https://hackernoon.com/how-to-choose-the-best-cms-architecture-for-your-business-ued35iv)
+![](https://hackernoon.com/images/7ozCA7Y4IVMQnOgZyr0CD9jNPNW2-b311346x.jpeg)
+Regardless of how great your content is, if you have the wrong CMS, your content won’t make even an ounce of impact on your customers.
+
+### [116. Dynamic Frontier PageRank Efficiently Updates Ranks on Dynamic Graphs](https://hackernoon.com/dynamic-frontier-pagerank-efficiently-updates-ranks-on-dynamic-graphs)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-v10346s.webp)
 Dynamic Frontier PageRank efficiently updates ranks on dynamic graphs by incrementally processing affected vertices with controlled tolerance levels.
 
-### [115. Venom's Public Testnet Launch Brings Scalable and Licensed Blockchain Solutions to Abu Dhabi Global ](https://hackernoon.com/venoms-public-testnet-launch-brings-scalable-and-licensed-blockchain-solutions-to-abu-dhabi-global)
+### [117. How Startups Can Actually Grow Faster With Cloud Tech](https://hackernoon.com/how-startups-can-actually-grow-faster-with-cloud-tech)
+![](https://cdn.hackernoon.com/images/TgM5Or3DdXMArZizKKtVVo9lbFk1-s343lx6.png)
+Here’s exactly how startups can leverage cloud solutions to boost their growth—without bankrupting themselves in the process.
+
+### [118. Venom's Public Testnet Launch Brings Scalable and Licensed Blockchain Solutions to Abu Dhabi Global ](https://hackernoon.com/venoms-public-testnet-launch-brings-scalable-and-licensed-blockchain-solutions-to-abu-dhabi-global)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-l093pbl.jpeg)
 Venom, the first licenced blockchain in the Abu Dhabi Global Market, has debuted its public testnet.
 
-### [116. Scaling Your App with Engineering-Led Support and Production-Ready SLAs](https://hackernoon.com/scaling-your-app-with-engineering-led-support-and-production-ready-slas)
+### [119. Scaling Your App with Engineering-Led Support and Production-Ready SLAs](https://hackernoon.com/scaling-your-app-with-engineering-led-support-and-production-ready-slas)
 ![](https://cdn.hackernoon.com/images/szRhcSkT6Vb1JUUrwXMB3X2GOqu2-jl92yyk.jpeg)
 Unlock Enterprise Scale with Aptible's Engineering-Led Support and Production-Ready SLAs. 
+
+### [120. MegaTrain Makes 100B Model Training Possible on One GPU](https://hackernoon.com/megatrain-makes-100b-model-training-possible-on-one-gpu)
+![](https://cdn.hackernoon.com/images/1775830578159_18chlsig.png)
+This is a Plain English Papers summary of a research paper called MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU...
+
+### [121. Why Self-Distillation Can Make AI Reasoning Worse](https://hackernoon.com/why-self-distillation-can-make-ai-reasoning-worse)
+![](https://cdn.hackernoon.com/images/1774535709393_arc6uc7g.png)
+This is a Plain English Papers summary of a research paper called Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs? [https://w...
 

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [logging](https://hackernoon.com/tagged/logging)
+### Let's learn about [Logging](https://hackernoon.com/tagged/logging) via these 77 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Logging is the process of recording events that occur within a software system or application, typically to a log file or database. Effective logging is vital for debugging, monitoring performance, security auditing, and understanding system behavior, aiding in troubleshooting and optimization.
+
 ### [1. The 10 Best Node.js Logging Libraries](https://hackernoon.com/the-10-best-nodejs-logging-libraries)
 ![](https://cdn.hackernoon.com/images/nTk093OuS5aOmC7kkc6Lc1M0nqQ2-3f93ps7.png)
 10 of the best Node.js logging libraries + how to get up and running with them. 1. Pino, 2. Winston, 3. Bunyan...
@@ -57,17 +61,17 @@ We use annotations to denote transactional behavior in modern Spring so we have 
 ![](https://cdn.hackernoon.com/images/log-book-r3ju03z2ped2z6kqz4hshp5r.png)
 There is ForwardingServerCallListener that gives calls to the next listener in the chain. We will extend this class and override the method onMessage. 
 
-### [15. Bug Resolution Is So Much Better With Log Analysis](https://hackernoon.com/bug-resolution-is-so-much-better-with-log-analysis)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-b102s64.jpeg)
-Master Google Cloud Log Explorer for effective troubleshooting. Learn log filtering, root cause analysis, and best practices for resolving Kubernetes issues.
+### [15. How to Create Loki Alerts Via PrometheusRule Resource](https://hackernoon.com/how-to-create-loki-alerts-via-prometheusrule-resource)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-e302y1s.png)
+Discover how to create powerful log-based alerts in Loki using PrometheusRule and Grafana Alloy. Set up unified alerting for logs and metrics in K8S.
 
 ### [16. Custom Log Processor Integration – Fluentd vs Vector.dev](https://hackernoon.com/custom-log-processor-integration---fluentd-vs-vectordev)
 ![](https://cdn.hackernoon.com/images/IvJ8puRpCzbvib1VYeG8JSQfwE12-4j93lsl.png)
 By writing your tool, you gain more customization options, versatility, and other enhanced capabilities that can enrich your processing.
 
-### [17. How to Create Loki Alerts Via PrometheusRule Resource](https://hackernoon.com/how-to-create-loki-alerts-via-prometheusrule-resource)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-e302y1s.png)
-Discover how to create powerful log-based alerts in Loki using PrometheusRule and Grafana Alloy. Set up unified alerting for logs and metrics in K8S.
+### [17. Bug Resolution Is So Much Better With Log Analysis](https://hackernoon.com/bug-resolution-is-so-much-better-with-log-analysis)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-b102s64.jpeg)
+Master Google Cloud Log Explorer for effective troubleshooting. Learn log filtering, root cause analysis, and best practices for resolving Kubernetes issues.
 
 ### [18. How to Extract the Maximum Value From Logs](https://hackernoon.com/how-to-extract-the-maximum-value-from-logs)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-ma92soi.jpeg)
@@ -129,13 +133,13 @@ Sidekick is a live application debugger that lets you troubleshoot your applicat
 ![](https://cdn.hackernoon.com/images/gBJBOwYOz2P31vBhBEocoY83zRq1-iw93nx5.jpeg)
 Learn standard practices you should take advantage of when dealing with logging. Make the logging great again.
 
-### [33. Rethinking Logging: Log Less, Learn More](https://hackernoon.com/rethinking-logging-log-less-learn-more)
-![](https://cdn.hackernoon.com/images/wcWkqZXTBwOl5UCRtQgmjKMtfMJ3-0da3xvr.jpeg)
-Save money on logging and reduce MTTR with dynamic log level changes. Change log levels without restarting or target logs to specific users.
-
-### [34. Symfony 7.4: 10 Advanced Logging Patterns You Should Know About](https://hackernoon.com/symfony-74-10-advanced-logging-patterns-you-should-know-about)
+### [33. Symfony 7.4: 10 Advanced Logging Patterns You Should Know About](https://hackernoon.com/symfony-74-10-advanced-logging-patterns-you-should-know-about)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-cr83el9.jpeg)
 Master Symfony 7.4 logging: 10 advanced Monolog patterns. Use FingersCrossed, JSON & Attributes to turn text logs into actionable observability data
+
+### [34. Rethinking Logging: Log Less, Learn More](https://hackernoon.com/rethinking-logging-log-less-learn-more)
+![](https://cdn.hackernoon.com/images/wcWkqZXTBwOl5UCRtQgmjKMtfMJ3-0da3xvr.jpeg)
+Save money on logging and reduce MTTR with dynamic log level changes. Change log levels without restarting or target logs to specific users.
 
 ### [35. 10 Things I Did To Increase CloudTrail Logs Security](https://hackernoon.com/10-things-i-did-to-increase-cloudtrail-logs-security-it2c3510)
 ![](https://hackernoon.com/images/h4ts12uxJmcmmek0Ou5TyGL9hhQ2-w2362xht.jpeg)
@@ -153,89 +157,89 @@ Logging and Monitoring… this I tell you, brother. You can't have one without t
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhQBwqEo8ONbruArF3hRXLWVANjA3-zx3v39ez.webp?alt=media&token=ce13c2be-3db4-4ba4-b68b-dac9a15ae79f)
 An alternative logging strategy to make loggers your friends, not enemies
 
-### [39. The Best Solution Ever For Application Monitoring](https://hackernoon.com/the-best-solution-ever-for-application-monitoring-nzq3tw0)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTMgodFHH4evRjSdNFNz3dacaM23-fa623xsm.jpeg?alt=media&token=f56f33c6-9c8d-4639-a099-b4762dbd4a04)
-Just because we do something one way, doesn’t always mean it is the right way … or even the best way.
-
-### [40. Bugsnag's Diagnostics Tools Benefits Eventbrite](https://hackernoon.com/bugsnags-diagnostics-tools-benefits-eventbrite)
+### [39. Bugsnag's Diagnostics Tools Benefits Eventbrite](https://hackernoon.com/bugsnags-diagnostics-tools-benefits-eventbrite)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9x92bkj.jpeg)
 As Eventbrite neared the release of their rewritten platform in React.js, they knew observability on the frontend was a problem they needed to solve.
 
-### [41. Logging in Observability - Part 1](https://hackernoon.com/logging-in-observability-part-1)
+### [40. The Best Solution Ever For Application Monitoring](https://hackernoon.com/the-best-solution-ever-for-application-monitoring-nzq3tw0)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTMgodFHH4evRjSdNFNz3dacaM23-fa623xsm.jpeg?alt=media&token=f56f33c6-9c8d-4639-a099-b4762dbd4a04)
+Just because we do something one way, doesn’t always mean it is the right way … or even the best way.
+
+### [41. When AI Agents Fail, Who Owns the Fallout?](https://hackernoon.com/when-ai-agents-fail-who-owns-the-fallout)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-zz824fe.jpeg)
+In the world of security and DevOps, AI agents are being pushed from demos into production quickly. 
+
+### [42. Logging in Observability - Part 1](https://hackernoon.com/logging-in-observability-part-1)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-qa93r0n.jpeg)
 rsyslog vs journald vs filebeat
 
-### [42. Power Up Your Logging in Node.js](https://hackernoon.com/power-up-your-logging-in-nodejs)
+### [43. Power Up Your Logging in Node.js](https://hackernoon.com/power-up-your-logging-in-nodejs)
 ![](https://cdn.hackernoon.com/images/9u6FwQhzjdOYa0Qc5R7bA7IyYAR2-7x93glv.jpeg)
 Power up your logging and build good developer habits. As your codebase grows you'll need to debug it more easily and one tool is logging.
-
-### [43. Standardization of Performance Monitoring, Logging, & Exception Handling via a .NET Runtime Wrapper](https://hackernoon.com/standardization-of-performance-monitoring-logging-and-exception-handling-via-a-net-runtime-wrapper-fe9l3sxs)
-![](https://cdn.hackernoon.com/images/tdag3ss3.jpg)
-Several years ago, I wanted to have my own performance monitoring solution, so I could monitor all enterprise applications. Few enterprises implement this core cross-cutting application task across the enterprise in the same way. By the phrases “core” and “cross-cutting” I mean a feature or functionality set that touches all application development; it’s not specific to a single application. I think some functionality that is repeated across the enterprise should be done the same standard way.
 
 ### [44. This New Data Type Is 8 Times Faster Than JSON: Improve Your Semi-Structured Data Analysis](https://hackernoon.com/this-new-data-type-is-8-times-faster-than-json-improve-your-semi-structured-data-analysis)
 ![](https://cdn.hackernoon.com/images/oNIroQpI1FZj2l5g1MSUvunDFzu2-4ae3g4u.jpeg)
 Apache Doris provides a new data type: Variant, for semi-structured data analysis, which enables 8 times faster query performance than JSON with 1/3 storage.
 
-### [45. Never Underestimate Logs When It Comes To System Security](https://hackernoon.com/never-underestimate-logs-when-it-comes-to-system-security)
+### [45. Standardization of Performance Monitoring, Logging, & Exception Handling via a .NET Runtime Wrapper](https://hackernoon.com/standardization-of-performance-monitoring-logging-and-exception-handling-via-a-net-runtime-wrapper-fe9l3sxs)
+![](https://cdn.hackernoon.com/images/tdag3ss3.jpg)
+Several years ago, I wanted to have my own performance monitoring solution, so I could monitor all enterprise applications. Few enterprises implement this core cross-cutting application task across the enterprise in the same way. By the phrases “core” and “cross-cutting” I mean a feature or functionality set that touches all application development; it’s not specific to a single application. I think some functionality that is repeated across the enterprise should be done the same standard way.
+
+### [46. Never Underestimate Logs When It Comes To System Security](https://hackernoon.com/never-underestimate-logs-when-it-comes-to-system-security)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-8n822vt.jpeg)
 Leverage logs with tools like Sumo Logic and AI to enhance security, detect threats, manage costs, and capture all your data for proactive threat prevention.
 
-### [46. Distributed Tracing: What They Did Not Tell Us About It](https://hackernoon.com/distributed-tracing-what-they-did-not-tell-us-about-it)
+### [47. Distributed Tracing: What They Did Not Tell Us About It](https://hackernoon.com/distributed-tracing-what-they-did-not-tell-us-about-it)
 ![](https://cdn.hackernoon.com/images/eHZJoq8k0dNLWKjI1u7JJ2Jsuat1-4v933lm.jpeg)
 Let’s review the main myths, misconceptions, and failures associated with adopting distributed tracing.
 
-### [47. How to Power Up Your Logging in JavaScript](https://hackernoon.com/how-to-power-up-your-logging-in-javascript)
+### [48. How to Power Up Your Logging in JavaScript](https://hackernoon.com/how-to-power-up-your-logging-in-javascript)
 ![](https://cdn.hackernoon.com/images/9u6FwQhzjdOYa0Qc5R7bA7IyYAR2-sj93gzk.png)
 Power up your logging and build good developer habits. As your codebase grows you'll need to debug it more easily and one tool is logging.
 
-### [48. ELK, Loki, and Graylog Were Overkill, So I built Log Bull ](https://hackernoon.com/elk-loki-and-graylog-were-overkill-so-i-built-log-bull)
-![](https://cdn.hackernoon.com/images/p2LL5pub8rPDaWX1IKQ6P0K5dyD2-ze63dhw.png)
-I built Log Bull — the simple alternative to ELK, Loki and Graylog to collect logs from code (Python, Java, Go, JS, PHP, etc.)
-
-### [49. How To Find Your Docker Logs](https://hackernoon.com/how-to-find-your-docker-logs-3pa13ync)
-![](https://cdn.hackernoon.com/drafts/pemm22s8.png)
-There’s a short answer, and a long answer. The short answer, that will satisfy your needs in the vast majority of cases, is:
-
-### [50. Efficient Log Analysis: Harnessing the Power of Regex with BindPlane OP and OpenTelemetry](https://hackernoon.com/efficient-log-analysis-harnessing-the-power-of-regex-with-bindplane-op-and-opentelemetry)
+### [49. Efficient Log Analysis: Harnessing the Power of Regex with BindPlane OP and OpenTelemetry](https://hackernoon.com/efficient-log-analysis-harnessing-the-power-of-regex-with-bindplane-op-and-opentelemetry)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yx93pa2.jpeg)
 Deciphering Complex Logs with Regex
 
-### [51. When AI Agents Fail, Who Owns the Fallout?](https://hackernoon.com/when-ai-agents-fail-who-owns-the-fallout)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-zz824fe.jpeg)
-In the world of security and DevOps, AI agents are being pushed from demos into production quickly. 
+### [50. How To Find Your Docker Logs](https://hackernoon.com/how-to-find-your-docker-logs-3pa13ync)
+![](https://cdn.hackernoon.com/drafts/pemm22s8.png)
+There’s a short answer, and a long answer. The short answer, that will satisfy your needs in the vast majority of cases, is:
 
-### [52. Logging in Observability - Part 2](https://hackernoon.com/logging-in-observability-part-2)
+### [51. Logging in Observability - Part 2](https://hackernoon.com/logging-in-observability-part-2)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-p993p30.jpeg)
 In this article, I want to describe how to work with logs, analyze them in the command line, and we will consider new modern tools to visualize logs.
 
-### [53. Instrumention and Monitoring API in Node.js](https://hackernoon.com/instrumention-and-monitoring-api-in-nodejs-4q1h3u27)
+### [52. Instrumention and Monitoring API in Node.js](https://hackernoon.com/instrumention-and-monitoring-api-in-nodejs-4q1h3u27)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMPW1SNFYvZT6pkCy8ULu38u2cht1-g12d3u9n.jpeg?alt=media&token=d6f0d311-3d11-4638-affd-b380403809eb)
 The concept of instrumentation often refers to tracing where events happen in an application. Many application performance monitoring (APM) tools use it to provide metrics on the inner workings of your application. But sometimes, all you really need are details about API calls.
 
-### [54. How to Archive Web Chat Messages with Amazon IVS Chat Logging](https://hackernoon.com/how-to-archive-web-chat-messages-with-amazon-ivs-chat-logging)
+### [53. How to Archive Web Chat Messages with Amazon IVS Chat Logging](https://hackernoon.com/how-to-archive-web-chat-messages-with-amazon-ivs-chat-logging)
 ![](https://cdn.hackernoon.com/images/7GGjdbIpEWhSoNNMb3i5kpsuefF3-rg92eba.jpeg)
 In our last post, we looked at how to auto-record Amazon Interactive Video Service (Amazon IVS) live streams to an Amazon Simple Storage Service bucket.
 
-### [55. What is Production Blindness?](https://hackernoon.com/what-is-production-blindness)
+### [54. What is Production Blindness?](https://hackernoon.com/what-is-production-blindness)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-j892do3.jpeg)
 Cloud rose to fame on the banner of cutting costs but with its tremendous growth the spend is rocketing. Learn how you can cut down overspend.
 
-### [56. A Brief Introduction to Commit Logs ](https://hackernoon.com/a-brief-introduction-to-commit-logs-fs223tnf)
+### [55. A Brief Introduction to Commit Logs ](https://hackernoon.com/a-brief-introduction-to-commit-logs-fs223tnf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fn56nRV0FfBMIcVkRTJsnebm9p5X2-5ta3tvo.jpeg?alt=media&token=ec5f0abe-7495-421c-bb53-0c6a89a4286e)
 Logs are everywhere in software development. Without them there’d be no relational databases, git version control, or most analytics platforms.
 
-### [57. Top Debugging Methods for Quicker Deployment in Python](https://hackernoon.com/top-debugging-methods-for-quicker-deployment-in-python)
+### [56. Top Debugging Methods for Quicker Deployment in Python](https://hackernoon.com/top-debugging-methods-for-quicker-deployment-in-python)
 ![](https://cdn.hackernoon.com/images/gOION3UpzLYB2bAzKFMIXwcmdD03-c703a4w.jpeg)
 In this article, I will cover most debugging methods, basic and modern ones, introduce some hands-on tools and show some basic configurations and instructions.
 
-### [58. Dead Letter Queue no Elastic Stack](https://hackernoon.com/dead-letter-queue-no-elastic-stack-v4y3uuz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOZwySkE5euQdNfwKZkGHoo5ey9Q2-4u2i3uvj.jpeg?alt=media&token=84221b53-f833-4eb0-b4dc-a3a7a638e1f9)
-Melhore a obsevabilidade da sua Stack Elastic, baseado em fatos reais
+### [57. ELK, Loki, and Graylog Were Overkill, So I built Log Bull ](https://hackernoon.com/elk-loki-and-graylog-were-overkill-so-i-built-log-bull)
+![](https://cdn.hackernoon.com/images/p2LL5pub8rPDaWX1IKQ6P0K5dyD2-ze63dhw.png)
+I built Log Bull — the simple alternative to ELK, Loki and Graylog to collect logs from code (Python, Java, Go, JS, PHP, etc.)
 
-### [59. Unstructured Data Is Trying to Tell You Something - Try Listening to It: The Human Side of Logs](https://hackernoon.com/unstructured-data-is-trying-to-tell-you-something-try-listening-to-it-the-human-side-of-logs)
+### [58. Unstructured Data Is Trying to Tell You Something - Try Listening to It: The Human Side of Logs](https://hackernoon.com/unstructured-data-is-trying-to-tell-you-something-try-listening-to-it-the-human-side-of-logs)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-8k02825.jpeg)
 Structured metrics miss the full story. Learn how unstructured data—logs, feedback, errors—can reveal hidden issues, improving reliability and user experience
+
+### [59. Dead Letter Queue no Elastic Stack](https://hackernoon.com/dead-letter-queue-no-elastic-stack-v4y3uuz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOZwySkE5euQdNfwKZkGHoo5ey9Q2-4u2i3uvj.jpeg?alt=media&token=84221b53-f833-4eb0-b4dc-a3a7a638e1f9)
+Melhore a obsevabilidade da sua Stack Elastic, baseado em fatos reais
 
 ### [60. The Vance Protocol: I Found a Dead Server That Feeds on Your CPU](https://hackernoon.com/the-vance-protocol-i-found-a-dead-server-that-feeds-on-your-cpu)
 ![](https://cdn.hackernoon.com/images/HqBNpfClEPOWXHMUs4YEiALeN2n2-p803blh.png)

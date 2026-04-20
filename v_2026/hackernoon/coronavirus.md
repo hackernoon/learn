@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [coronavirus](https://hackernoon.com/tagged/coronavirus)
+### Let's learn about [Coronavirus](https://hackernoon.com/tagged/coronavirus) via these 409 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
  "Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus." - WHO
 
 ### [1. Coronavirus COVID-19 666 Mark of The Beast Bible Prophecy, Vaccinations & Cryptocurrency](https://hackernoon.com/covid-19-and-the-bibles-666-prophecy-zb2432po)
@@ -115,13 +117,13 @@ I got sick of all the fake news and harmful conspiracy theories, so I wrote a ba
 ![](https://cdn.hackernoon.com/drafts/b9523y8w.png)
 In these difficult days for all of us, I’ve heard all sorts of things. From the fake news sent through Whatsapp, like vitamin C can save your life, to holding your breath in the morning to check if you’ve been hit by COVID-19. The mantra that everyone keeps repeating is “stay at home!”, okay fine, but what exactly does “stay home” mean? The question seems ridiculous when you think of a relatively short period, 15 days? A month? But if we look critically at the situation, we surely realize that it won’t be 15 days, and it won’t be a month. It will be a long, long time. Why am I saying this? Because “stay at home” doesn’t protect us from the virus. Staying at home is to protect our health care facilities from collapse. And I’m not saying that this is wrong. I’m just saying that if we want to protect the health care system from collapse, well then we’ll stay home a long, long time. But in doing so we will irreparably damage the economic system by profoundly changing our social and political model. It is inevitable. Let’s face it and not have too many illusions.
 
-### [29. 5 Ways China Is Using Blockchain Technology Against Coronavirus](https://hackernoon.com/5-ways-china-is-using-blockchain-technology-against-coronavirus-cy1v535wg)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-au82ryo.jpeg)
-We all remember the previous deadly Ebola virus outbreak, which lasted three years from 2013–2016 affected the dominant population of Africa. 
-
-### [30. Why I Dream Of A One World Government & New World Order](https://hackernoon.com/why-i-dream-of-a-one-world-government-and-new-world-order)
+### [29. Why I Dream Of A One World Government & New World Order](https://hackernoon.com/why-i-dream-of-a-one-world-government-and-new-world-order)
 ![](https://cdn.hackernoon.com/images/n93I5XffgXRPdKtQ4cnvtx6pHJO2-4yk36wf.jpeg)
 The One World Government is becoming a reality - just not in the way you might think. 
+
+### [30. 5 Ways China Is Using Blockchain Technology Against Coronavirus](https://hackernoon.com/5-ways-china-is-using-blockchain-technology-against-coronavirus-cy1v535wg)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-au82ryo.jpeg)
+We all remember the previous deadly Ebola virus outbreak, which lasted three years from 2013–2016 affected the dominant population of Africa. 
 
 ### [31. 5 Billion-Dollar Industries Primed for Tech Disruption](https://hackernoon.com/5-billion-dollar-industries-primed-for-tech-disruption-g6jy3xne)
 ![](https://cdn.hackernoon.com/drafts/l88230yj.png)
@@ -139,41 +141,41 @@ As restaurants, shops, airlines and factories shut down around the world, a glob
 ![](https://images.unsplash.com/photo-1561631918-0e0d6af260af?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 No matter where you are on Earth, you can feel the impact of the COVID-19 pandemic. Coronavirus has a negative impact on the industry, tourism, trade, stock markets, and of course, cryptocurrencies. In this article, we will consider how this epidemic has affected the blockchain industry and how it will affect the development of the cryptocurrency industry.
 
-### [35. Covid-19: Analysing The Spread Across Populations](https://hackernoon.com/covid-19-analysing-the-spread-across-populations-8f8t32br)
+### [35. 60+ Ideas to Help Your Startup Survive the Coronavirus Recession](https://hackernoon.com/60-ideas-to-help-your-startup-survive-the-coronavirus-recession-5dzq3y1n)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2t82r7d.jpeg)
+1. Assess your current state
+
+### [36. Covid-19: Analysing The Spread Across Populations](https://hackernoon.com/covid-19-analysing-the-spread-across-populations-8f8t32br)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-2j82rar.jpeg)
 A large portion of mild and asymptomatic cases may go unreported. The data will never be perfect, the true cases are likely much larger as the testing frequency and effectiveness vary in different regions.
 
-### [36. The Pandemic is Deepening our Symbiosis with the Internet](https://hackernoon.com/the-pandemic-is-the-beginning-of-a-deeper-symbiosis-with-the-internet-rh5j32xs)
+### [37. The Pandemic is Deepening our Symbiosis with the Internet](https://hackernoon.com/the-pandemic-is-the-beginning-of-a-deeper-symbiosis-with-the-internet-rh5j32xs)
 ![](https://cdn.hackernoon.com/images/0e3c32x1.jpg)
 A CGI view of the underground network of tree roots and fungi. Screenshot from movie Fantastic Fungi.
-
-### [37. The Magic of Feedback Loops: AI Takes Over](https://hackernoon.com/the-magic-of-feedback-loops-ai-takes-over-xv4032xf)
-![](drafts/md3yf332i.png)
-How did we let the algorithms take over our lives?
 
 ### [38. Open Source Validation Tests for Open Source COVID-19 Ventilator Projects](https://hackernoon.com/open-source-validation-tests-for-open-source-covid-19-ventilator-projects-la8x3y6e)
 ![](https://cdn.hackernoon.com/images/ad9u3yp3.jpg)
 Right now, there are over 40 open-source ventilator projects seeking to save lives by providing last-resort ventilators when there are not enough officially approved ventilators. Some are better than others. The biggest gap between where they are today and being able to save lives tomorrow is testing.
 
-### [39. I Took a COBOL Course and It Wasn't The Worst](https://hackernoon.com/i-took-a-cobol-course-and-it-wasnt-the-worst-z1ba3yrp)
+### [39. The Magic of Feedback Loops: AI Takes Over](https://hackernoon.com/the-magic-of-feedback-loops-ai-takes-over-xv4032xf)
+![](drafts/md3yf332i.png)
+How did we let the algorithms take over our lives?
+
+### [40. I Took a COBOL Course and It Wasn't The Worst](https://hackernoon.com/i-took-a-cobol-course-and-it-wasnt-the-worst-z1ba3yrp)
 ![](https://cdn.hackernoon.com/drafts/w9653yka.png)
 COBOL is in the news again. Millions of people are filing unemployment claims nearly all at once, and the systems to process them are failing. Why? They need to scale to unprecedented levels, they’re written in COBOL, and… we don’t have enough COBOL programmers.
 
-### [40. How Startups and SMEs Can Prepare for the Looming Massive Recession](https://hackernoon.com/how-startups-and-smes-can-prepare-for-the-looming-massive-recession-ng2x3y7p)
+### [41. How Startups and SMEs Can Prepare for the Looming Massive Recession](https://hackernoon.com/how-startups-and-smes-can-prepare-for-the-looming-massive-recession-ng2x3y7p)
 ![](https://cdn.hackernoon.com/drafts/ml9m3yf2.png)
 For months, financial experts around the world had been predicting an end to what has been the longest economic expansion in American history. That expansion propelled US startup activity to new heights, with near-record levels of new business creation for successive years, and cemented the US's place as the premier startup ecosystem in the world. Many believed the economists' warnings to be alarmist, at best.
 
-### [41. The Coronavirus Cover-Up: A Closer Look At Internet Censorship in China](https://hackernoon.com/the-coronavirus-cover-up-a-closer-look-at-internet-censorship-in-china-p3kl31as)
+### [42. The Coronavirus Cover-Up: A Closer Look At Internet Censorship in China](https://hackernoon.com/the-coronavirus-cover-up-a-closer-look-at-internet-censorship-in-china-p3kl31as)
 ![](https://cdn.hackernoon.com/images/8BkL4mBH5ERipEyGcD01by4nzFT2-ow934jo.jpeg)
 I am writing this in transit between Helsinki and Vilnius. I’ve got a mask on, and it’s uncomfortable. But I shouldn’t complain - the mask itself was a godsend - given the nationwide shortage of masks, hand sanitiser and antibacterial wipes in Singapore. 
 
-### [42. I Built a Mental Health App While Stuck in My Tiny Studio in NYC](https://hackernoon.com/i-built-a-mental-health-app-while-stuck-in-my-tiny-studio-in-nyc-ez3a3uf7)
+### [43. I Built a Mental Health App While Stuck in My Tiny Studio in NYC](https://hackernoon.com/i-built-a-mental-health-app-while-stuck-in-my-tiny-studio-in-nyc-ez3a3uf7)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGhW6E5xdOBVVbXvehyb2NktmKEd2-yq43uew.jpeg?alt=media&token=a78ab7c1-ee59-4459-b9dd-e3a502c66bf6)
 Mental health has been a rising issue lately since the pandemic and it caught my attention right away since I was going crazy being stuck in my tiny studio in New York City that has no view. Also, I was consistently looking for ways to help users on Goodnight Journal who expressed depression and anxiety through public journals. Some of the  public journals really got me concerned and think more about features that I can implement to help them feel better. It kind of came naturally that I want to do something about it. I ended up playing around with a bunch of mental health and meditation apps out there and came up with the app called Happy.
-
-### [43. 60+ Ideas to Help Your Startup Survive the Coronavirus Recession](https://hackernoon.com/60-ideas-to-help-your-startup-survive-the-coronavirus-recession-5dzq3y1n)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2t82r7d.jpeg)
-1. Assess your current state
 
 ### [44. The Impact of The Coronavirus On the Future of Remote Work](https://hackernoon.com/the-impact-of-the-coronavirus-on-the-future-of-remote-work-il7l32eq)
 ![](https://cdn.hackernoon.com/drafts/vq4z3y17.png)
@@ -259,13 +261,13 @@ Over the past several months the world has seen many different coronavirus model
 ![](https://images.unsplash.com/photo-1503945438517-f65904a52ce6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 These unprecedented times have pushed us to adapt distinctive lifestyles contrary to what we’ve been used to for a millenia. Industries like finance, law, banking and the public sector where culture has traditionally frowned upon working-from-home, are compelled to succumb to such mandates out of necessity. As much rampant the unfortunate layoffs, hiring freezes, and budget cuts across travel and hospitality industries are, data breaches have been on a steady rise. And this is an important observation that we can’t afford to overlook.
 
-### [65. How to Create a COVID Vaccine Slot Availability Notifier Using Python](https://hackernoon.com/how-to-create-a-covid-vaccine-slot-availability-notifier-using-python-2z3w34s3)
-![](https://cdn.hackernoon.com/images/uaPC3alJGZYWa8bXdj0MJNXLMDC2-8w1434kh.jpeg)
-Coronavirus cases are increasing day by day. It’s very important to get vaccinated. so I tried to create an automated notifier to tell me when a lost opened up.
-
-### [66. Is the Rise of Preschoolers' App Usage a Pandemic Boom or a Paradigm Shift?](https://hackernoon.com/is-the-rise-of-preschoolers-app-usage-a-pandemic-boom-or-a-paradigm-shift-lh8l3eqx)
+### [65. Is the Rise of Preschoolers' App Usage a Pandemic Boom or a Paradigm Shift?](https://hackernoon.com/is-the-rise-of-preschoolers-app-usage-a-pandemic-boom-or-a-paradigm-shift-lh8l3eqx)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-y83g3ehy.jpeg?alt=media&token=0f9cd5fb-cb07-44e5-99f3-2fde32be6936)
 In mid-2020, remote jobs, contactless delivery, and social distancing became the new normal. COVID-19 forced even the conservative education industry to change its rules. Children are not the face of this pandemic, but their academic growth, mental health, and social skills were affected, too. This is an overview of how COVID-19 pandemic affected kids' education, what is predicted for the global online education market, and how EdTech apps for children perform now.
+
+### [66. How to Create a COVID Vaccine Slot Availability Notifier Using Python](https://hackernoon.com/how-to-create-a-covid-vaccine-slot-availability-notifier-using-python-2z3w34s3)
+![](https://cdn.hackernoon.com/images/uaPC3alJGZYWa8bXdj0MJNXLMDC2-8w1434kh.jpeg)
+Coronavirus cases are increasing day by day. It’s very important to get vaccinated. so I tried to create an automated notifier to tell me when a lost opened up.
 
 ### [67. Blockchain in a Post-Crisis Economy](https://hackernoon.com/blockchain-in-a-post-crisis-economy-b32a3yil)
 ![](https://cdn.hackernoon.com/drafts/jai3k33.png)
@@ -275,21 +277,21 @@ Economies are in freefall. People are losing their jobs. Companies, large and sm
 ![](https://cdn.hackernoon.com/drafts/qzcm4ypv.png)
 This lockdown has given us—the privileged few—a chance to read, pick up new habits, "upskill", etc., all by just being connected with the world virtually, like never before. We're all seeing people connecting with faraway family and friends through video conferencing, who had rarely reached out to each other in the pre-Covid-19 world.
 
-### [69. A California Engineer’s “Rational” Preparation for Coronavirus](https://hackernoon.com/a-california-engineers-rational-preparation-for-coronavirus-6u3y32tv)
-![](https://cdn.hackernoon.com/images/zl5s3kek.jpg)
-What will I do if/when Coronavirus (COVID-19) becomes a pandemic ???
-
-### [70. Lessons From GitLab—A $1 Billion Business With 700 Remote Employees ](https://hackernoon.com/lessons-from-gitlaba-dollar1-billion-business-with-700-remote-employees-amn93wep)
+### [69. Lessons From GitLab—A $1 Billion Business With 700 Remote Employees ](https://hackernoon.com/lessons-from-gitlaba-dollar1-billion-business-with-700-remote-employees-amn93wep)
 ![](https://cdn.hackernoon.com/drafts/qw8j3yn5.png)
 A lot has changed since I shared my last article related on COVID-19 (the most recent strain of coronavirus), and how AI and Blockchain professionals and industry experts are tackling the crisis.
 
-### [71. Is Bitcoin Really A Safe Asset During the Coronavirus Pandemic? [Deep Dive]](https://hackernoon.com/is-bitcoin-really-a-safe-asset-during-the-coronavirus-pandemic-deep-dive-i67l328l)
-![](https://cdn.hackernoon.com/images/djs32v3.jpg)
-The outbreak of the coronavirus has disrupted our daily lives. Places that we enjoy our everyday life have become deserted, and we have had restrictions imposed on our day-to-day existence. 
+### [70. A California Engineer’s “Rational” Preparation for Coronavirus](https://hackernoon.com/a-california-engineers-rational-preparation-for-coronavirus-6u3y32tv)
+![](https://cdn.hackernoon.com/images/zl5s3kek.jpg)
+What will I do if/when Coronavirus (COVID-19) becomes a pandemic ???
 
-### [72. Why Apple Will Become More Powerful Amid the COVID-19 Pandemic](https://hackernoon.com/why-apple-will-become-more-powerful-amid-the-covid-19-pandemic-wx1q3231)
+### [71. Why Apple Will Become More Powerful Amid the COVID-19 Pandemic](https://hackernoon.com/why-apple-will-become-more-powerful-amid-the-covid-19-pandemic-wx1q3231)
 ![](https://cdn.hackernoon.com/images/hgqg3koq.jpg)
 Apple will emerge from the COVID-19 pandemic as an even more powerful and important company. Indeed, COVID-19 may prove to be Apple’s finest hour. During the first 30 days of the pandemic’s escalation in the United States, Apple stepped up in significant ways, the most notable example being the formation of a relationship with Google to contain the virus with contact-tracing technology. In addition, Apple has, among other actions: 
+
+### [72. Is Bitcoin Really A Safe Asset During the Coronavirus Pandemic? [Deep Dive]](https://hackernoon.com/is-bitcoin-really-a-safe-asset-during-the-coronavirus-pandemic-deep-dive-i67l328l)
+![](https://cdn.hackernoon.com/images/djs32v3.jpg)
+The outbreak of the coronavirus has disrupted our daily lives. Places that we enjoy our everyday life have become deserted, and we have had restrictions imposed on our day-to-day existence. 
 
 ### [73. The Future of Dating, Kim Kardashian and AI?](https://hackernoon.com/the-future-of-dating-kim-kardashian-and-ai-yt113uvp)
 ![](https://cdn.hackernoon.com/drafts/lcb62ba9.png)
@@ -332,13 +334,13 @@ Introduction
 ![](https://cdn.hackernoon.com/images/29183k9w.gif)
 If you think this is just like any other alarmist and opportunistic post regarding how the world is going to end with this current crisis, it is not…
 
-### [83. COVID-19: How AI Is Helping In The Fight](https://hackernoon.com/covid-19-how-ai-is-helping-in-the-fight-x55l3y7z)
-![](https://cdn.hackernoon.com/drafts/eno2ydp.png)
-In the past decades, the Coronavirus (COVID-19) is one of the most infectious diseases to have spread on our planet Earth. As we have seen that this virus has already created havoc in the entire world, so it becomes necessary to take the help of technology, and here AI comes into the picture.
-
-### [84. How Predictive RBPs with DL can help get a vaccine for Corona faster?](https://hackernoon.com/how-predictive-rbps-with-dl-can-help-get-a-vaccine-for-corona-faster-s74932xg)
+### [83. How Predictive RBPs with DL can help get a vaccine for Corona faster?](https://hackernoon.com/how-predictive-rbps-with-dl-can-help-get-a-vaccine-for-corona-faster-s74932xg)
 ![](https://cdn.hackernoon.com/images/zz2u32a6.gif)
 The entire world is engulfed into a corona pandemic attack. At present, there are 191127 positive cases of noble COVID-19 infection all over the world with total fatalities of 7807 according to a report by the World Health Organization(WHO).
+
+### [84. COVID-19: How AI Is Helping In The Fight](https://hackernoon.com/covid-19-how-ai-is-helping-in-the-fight-x55l3y7z)
+![](https://cdn.hackernoon.com/drafts/eno2ydp.png)
+In the past decades, the Coronavirus (COVID-19) is one of the most infectious diseases to have spread on our planet Earth. As we have seen that this virus has already created havoc in the entire world, so it becomes necessary to take the help of technology, and here AI comes into the picture.
 
 ### [85. Fintechs vs. Incumbents vs. COVID-19: Who Wins?](https://hackernoon.com/fintechs-vs-incumbents-vs-covid-19-who-wins-vo3x304y)
 ![](https://cdn.hackernoon.com/drafts/ilhi3vr1.png)
@@ -356,33 +358,33 @@ As a result of COVID-19 officially being ruled a pandemic, the eLearning economy
 ![](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 It’s not just about Google and what coronavirus website
 
-### [89. Download This Virus](https://hackernoon.com/download-this-virus-ad2f3ym2)
-![](https://cdn.hackernoon.com/images/t5w2e4l.jpg)
-Donating Compute to Fight COVID-19
-
-### [90. Is There Really a Link Between Coronavirus and Bitcoin?](https://hackernoon.com/is-there-really-a-link-between-coronavirus-and-bitcoin-ms3o3wrp)
+### [89. Is There Really a Link Between Coronavirus and Bitcoin?](https://hackernoon.com/is-there-really-a-link-between-coronavirus-and-bitcoin-ms3o3wrp)
 ![](https://cdn.hackernoon.com/drafts/op2h3yi1.png)
 Bitcoin went up, and it was because of the Coronavirus, people said. Then bitcoin went down, and that was also because of the virus. The question is this; has the virus had any effect on bitcoin at all? 
+
+### [90. Download This Virus](https://hackernoon.com/download-this-virus-ad2f3ym2)
+![](https://cdn.hackernoon.com/images/t5w2e4l.jpg)
+Donating Compute to Fight COVID-19
 
 ### [91. Coronavirus: A Test For Modern Technology and Tethics](https://hackernoon.com/coronavirus-a-test-for-modern-technology-and-tethics-trrm3wom)
 ![](https://cdn.hackernoon.com/drafts/oj1as3y3w.png)
 ICYMI: The spread of the new strain of Corona virus known as Covid-19 has caused massive disruption to daily life- be it social or economic.
 
-### [92. The Open Source Ventilator Game Has Changed: AmboVent and Medtronic COVID-19 Ventilators Open Source](https://hackernoon.com/the-open-source-ventilator-game-has-changed-ambovent-and-medtronic-covid-19-ventilators-open-source-s77l3y4s)
-![](https://cdn.hackernoon.com/images/lp583yzk.jpg)
-Today in the world of open-source ventilators, the game changed.
-
-### [93. Clinical Trials on The Blockchain: 4 Companies Changing the Game](https://hackernoon.com/clinical-trials-on-the-blockchain-4-companies-changing-the-game-krlg3wah)
+### [92. Clinical Trials on The Blockchain: 4 Companies Changing the Game](https://hackernoon.com/clinical-trials-on-the-blockchain-4-companies-changing-the-game-krlg3wah)
 ![](https://cdn.hackernoon.com/drafts/dcay3ypb.png)
 The global drug development market is worth more than 350 billion dollars a year, according to ClinicalTrials.gov, which includes the costs of running the studies in addition to the resources used. 
 
-### [94. Corona Virus, But Pixelated](https://hackernoon.com/corona-virus-but-pixelated-updating-oiy3yku)
-![](https://cdn.hackernoon.com/images/0v123yjm.gif)
+### [93. The Open Source Ventilator Game Has Changed: AmboVent and Medtronic COVID-19 Ventilators Open Source](https://hackernoon.com/the-open-source-ventilator-game-has-changed-ambovent-and-medtronic-covid-19-ventilators-open-source-s77l3y4s)
+![](https://cdn.hackernoon.com/images/lp583yzk.jpg)
+Today in the world of open-source ventilators, the game changed.
 
-
-### [95. Coronavirus, Oil Shocks, US-Iran, or PlusToken—What's Behind Bitcoin's Crash?](https://hackernoon.com/coronavirus-oil-shocks-us-iran-or-plustokenwhats-behind-bitcoins-crash-wc1t32io)
+### [94. Coronavirus, Oil Shocks, US-Iran, or PlusToken—What's Behind Bitcoin's Crash?](https://hackernoon.com/coronavirus-oil-shocks-us-iran-or-plustokenwhats-behind-bitcoins-crash-wc1t32io)
 ![](https://cdn.hackernoon.com/drafts/jd56r42j0.png)
 2020 is off to a tumultuous start, with an ongoing global pandemic likely to trigger a global recession. The Dow already experienced its greatest decline since the 2008 crisis, and even cryptocurrency markets are blood red, with Bitcoin suffering its biggest price crash in over a year.
+
+### [95. Corona Virus, But Pixelated](https://hackernoon.com/corona-virus-but-pixelated-updating-oiy3yku)
+![](https://cdn.hackernoon.com/images/0v123yjm.gif)
+
 
 ### [96. 5 useful tools to Work from Home during Coronavirus Pandemic](https://hackernoon.com/5-useful-tools-to-work-from-home-during-coronavirus-pandemic-1z133yip)
 ![](https://cdn.hackernoon.com/drafts/aq1973yzb.png)
@@ -520,13 +522,13 @@ Unprecedented.
 ![](https://images.unsplash.com/photo-1575503802870-45de6a6217c8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Last December, stories started surfacing of a new virus affecting the Chinese city of Wuhan. At the epicenter of the outbreak, Chinese officials started building new hospitals to aid the people in need. What started out as something that looked like a flu epidemic, soon escalated into a full blown pandemic, called the novel coronavirus (SARS-CoV-2).
 
-### [128. I Spent My Summer Using AI To Help Save Greece from COVID-19](https://hackernoon.com/i-spent-my-summer-using-ai-to-help-save-greece-from-covid-19-dd3g3wg6)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNoGGwDyqCyZvG7v7d4GnssOATse2-zot3z8e.jpeg?alt=media&token=fe876cd0-d7f6-41c9-9de3-58cba4fe8ab4)
-It was three months ago when my friend Kimonas asked me if I can help him with a huge secret project that he had on his mind. It was kind of a cheap shot as “huge secret project” are my trigger words.
-
-### [129. Coronavirus is Quietly but Surely Eroding Our Privacy](https://hackernoon.com/coronavirus-is-quietly-but-surely-eroding-our-privacy-wv92301h)
+### [128. Coronavirus is Quietly but Surely Eroding Our Privacy](https://hackernoon.com/coronavirus-is-quietly-but-surely-eroding-our-privacy-wv92301h)
 ![](https://images.unsplash.com/photo-1585559604959-6388fe69c92a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The surreal images of empty streets and planes being turned around mid-air because of COVID-19 casts a dystopian shadow across the world. 
+
+### [129. I Spent My Summer Using AI To Help Save Greece from COVID-19](https://hackernoon.com/i-spent-my-summer-using-ai-to-help-save-greece-from-covid-19-dd3g3wg6)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNoGGwDyqCyZvG7v7d4GnssOATse2-zot3z8e.jpeg?alt=media&token=fe876cd0-d7f6-41c9-9de3-58cba4fe8ab4)
+It was three months ago when my friend Kimonas asked me if I can help him with a huge secret project that he had on his mind. It was kind of a cheap shot as “huge secret project” are my trigger words.
 
 ### [130. 5 Big Data Trends for the Post-Pandemic Future](https://hackernoon.com/5-big-data-trends-for-the-post-pandemic-future-zmx3ux6)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBmaLyXMyJPZwdqjRGxrLUE6jNu52-h42e3uvg.jpeg?alt=media&token=e9fdce7f-983f-4afa-a0c6-6f6d917131a4)
@@ -548,69 +550,69 @@ Around the world, many of us are working from home because of coronavirus (Covid
 ![](https://cdn.hackernoon.com/drafts/kr1a3yrl.png)
 Very early on in the COVID-19 outbreak - before it had even been labelled a global pandemic by the World Health Organisation - multiple supply chain disruptions were announced as a result of the virus’s impact in China, which naturally had significant implications for global trade. Amazon, the world’s largest e-commerce company, experienced such intense supply chain disruptions in the wake of the pandemic that it chose to temporarily cease the shipping of any items considered non-essential - and it isn’t the only company to do so. 
 
-### [135. Cambium Networks and Facebook Team Up For the Sake of Smart Cities](https://hackernoon.com/cambium-network-and-facebook-team-up-for-the-sake-of-smart-cities-kvae3y8k)
-![](https://cdn.hackernoon.com/images/uijf3ygr.jpg)
-Of the many, many lessons we’ve taken away thus far from the coronavirus pandemic, it’s that the world has demonstrated an essential need for wireless connectivity. Recognizing the global demand, Cambium Networks, the former Motorola company, is a global provider of indoor and outdoor wireless solutions that connect people, places, and things. The company enables enterprises, industries, utility companies, service providers, and governments to build powerful communications networks that deliver amazing satisfaction reliability across end-users.
-
-### [136. Five Things You Can Do Now to Prepare for the Return to the Office](https://hackernoon.com/five-things-you-can-do-now-to-prepare-for-the-return-to-the-office-3d293zug)
+### [135. Five Things You Can Do Now to Prepare for the Return to the Office](https://hackernoon.com/five-things-you-can-do-now-to-prepare-for-the-return-to-the-office-3d293zug)
 ![](https://cdn.hackernoon.com/drafts/0q3r3h69.png)
 The crisis has turned the corporate world upside down. Most office workers — including me — have been working from home for more than two months.
 
-### [137. Common Sense for Companies During The COVID-19 Pandemic](https://hackernoon.com/common-sense-for-companies-during-the-covid-19-pandemic-mv8h32hs)
-![](https://cdn.hackernoon.com/drafts/as16w3y2q.png)
-Coronavirus outbreak has been upgraded to a pandemic. Everyone is trying to adjust with the new normal; enterprises have gone remote, and the search rankings of websites are decreasing on Google. The only trending keyword is coronavirus these days. 
+### [136. Cambium Networks and Facebook Team Up For the Sake of Smart Cities](https://hackernoon.com/cambium-network-and-facebook-team-up-for-the-sake-of-smart-cities-kvae3y8k)
+![](https://cdn.hackernoon.com/images/uijf3ygr.jpg)
+Of the many, many lessons we’ve taken away thus far from the coronavirus pandemic, it’s that the world has demonstrated an essential need for wireless connectivity. Recognizing the global demand, Cambium Networks, the former Motorola company, is a global provider of indoor and outdoor wireless solutions that connect people, places, and things. The company enables enterprises, industries, utility companies, service providers, and governments to build powerful communications networks that deliver amazing satisfaction reliability across end-users.
 
-### [138. How Can Contact-Tracing Apps Could Help Limit The Spread Of COVID-19](https://hackernoon.com/how-can-contact-tracing-apps-could-help-limit-the-spread-of-covid-19-fr4332kd)
-![](https://cdn.hackernoon.com/images/d9vt3yze.jpg)
-At the time of writing this article, the total number of COVID-19 cases stands at the 858,892 mark, with more than 40,000 deaths recorded worldwide.
-
-### [139. 196 Stories To Learn About Covid19](https://hackernoon.com/196-stories-to-learn-about-covid19)
+### [137. 196 Stories To Learn About Covid19](https://hackernoon.com/196-stories-to-learn-about-covid19)
 ![](https://cdn.hackernoon.com/images/github/covid19-626.png)
 Learn everything you need to know about Covid19 via these 196 free HackerNoon stories.
 
-### [140. Surviving Coronavirus Pandemic: A Guide for Startups](https://hackernoon.com/surviving-coronavirus-pandemic-a-guide-for-startups-s7513y8s)
+### [138. Common Sense for Companies During The COVID-19 Pandemic](https://hackernoon.com/common-sense-for-companies-during-the-covid-19-pandemic-mv8h32hs)
+![](https://cdn.hackernoon.com/drafts/as16w3y2q.png)
+Coronavirus outbreak has been upgraded to a pandemic. Everyone is trying to adjust with the new normal; enterprises have gone remote, and the search rankings of websites are decreasing on Google. The only trending keyword is coronavirus these days. 
+
+### [139. How Can Contact-Tracing Apps Could Help Limit The Spread Of COVID-19](https://hackernoon.com/how-can-contact-tracing-apps-could-help-limit-the-spread-of-covid-19-fr4332kd)
+![](https://cdn.hackernoon.com/images/d9vt3yze.jpg)
+At the time of writing this article, the total number of COVID-19 cases stands at the 858,892 mark, with more than 40,000 deaths recorded worldwide.
+
+### [140. 4 Ways to Manage Remote Teams](https://hackernoon.com/4-ways-to-manage-remote-teams-rp203ygq)
+![](https://cdn.hackernoon.com/images/bz1rt3y6l.jpg)
+It's a challenging time for teams and organizations that have suddenly jolted to working remotely. For startups and larger organizations, helping their teams with a generous dose of empathy, to enable productivity, is key.
+
+### [141. Surviving Coronavirus Pandemic: A Guide for Startups](https://hackernoon.com/surviving-coronavirus-pandemic-a-guide-for-startups-s7513y8s)
 ![](https://cdn.hackernoon.com/drafts/ijmw3yd2.png)
 Yes, we’re witnessing a crisis unfolding. Not only people get gripped by the coronavirus fear. It’s like a stroke for most businesses — some will recover, some won’t.
 
-### [141. How Coronavirus will Impact Startups and What Could be the Survival Strategy?](https://hackernoon.com/how-coronavirus-will-impact-startups-and-what-could-be-the-survival-strategy-5t4l32wn)
+### [142. How Coronavirus will Impact Startups and What Could be the Survival Strategy?](https://hackernoon.com/how-coronavirus-will-impact-startups-and-what-could-be-the-survival-strategy-5t4l32wn)
 ![](https://cdn.hackernoon.com/images/ua2h52yhd.jpg)
 Originated in China, Coronavirus has affected more than 380,000 people worldwide. The number of people testing positive for COVID-19 is increasing at an exponential rate. Stocks have plunged again on Wall Street and the spread of the pandemic has left the business over the world counting costs.
-
-### [142. 4 Ways to Manage Remote Teams](https://hackernoon.com/4-ways-to-manage-remote-teams-rp203ygq)
-![](https://cdn.hackernoon.com/images/bz1rt3y6l.jpg)
-It's a challenging time for teams and organizations that have suddenly jolted to working remotely. For startups and larger organizations, helping their teams with a generous dose of empathy, to enable productivity, is key.
 
 ### [143. Use Consistency To (Remotely) Lead Your Startup Through A Pandemic](https://hackernoon.com/use-consistency-to-remotely-lead-your-startup-through-a-pandemic-yk1rd3yab)
 ![](https://images.unsplash.com/photo-1583946099379-f9c9cb8bc030?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Since we're in a unique and ever-evolving working world of the future far sooner than expected, I thought I'd share some of the lessons I've learned in how best to keep consistent and guide your team through turbulent times.
 
-### [144. Lets Crowdsource Coronavirus Resources, Grants, Discounts and Freebies](https://hackernoon.com/lets-crowdsource-coronavirus-resources-grants-discounts-and-freebies-s5ae326d)
+### [144. How Developers Can Stay Productive and Healthy during the COVID-19 Outbreak](https://hackernoon.com/how-developers-can-stay-productive-and-healthy-during-the-covid-19-outbreak-as2532bc)
+![](https://cdn.hackernoon.com/drafts/1v8w3kbo.png)
+The coronavirus or COVID-19 disrupted our way of life and brought the whole world to a standstill. In an effort to keep the economy going while containing the rapid spread of the virus, companies have taken a sensible approach by adopting remote working models.
+
+### [145. Lets Crowdsource Coronavirus Resources, Grants, Discounts and Freebies](https://hackernoon.com/lets-crowdsource-coronavirus-resources-grants-discounts-and-freebies-s5ae326d)
 ![](https://cdn.hackernoon.com/drafts/2k8g32ke.png)
 Hey, I'm crowdsourcing a global real-time list of COVID-19 resources, grants, discounts and freebies. Do you want to contribute? 
-
-### [145. The Zeitgeist Digest 01—Tuesday, 4 February, 2020](https://hackernoon.com/the-zeitgeist-digest-01tuesday-4-february-2020-213gc343q)
-![](https://cdn.hackernoon.com/images/wnna34un.gif)
-Streaming the 'spirit of the times' in culture / tech / startups / future and chill, every Tuesday ✌️
 
 ### [146. As Internet Usage Spikes During COVID-19 Pandemic: How Are ISPs Holding Up?](https://hackernoon.com/as-internet-usage-spikes-during-covid-19-pandemic-how-are-isps-holding-up-wr2v32tv)
 ![](https://cdn.hackernoon.com/drafts/p01s3ycm.png)
 As communities worldwide grapple with the reality of an extended COVID-19 induced lock-down, Internet usage has, understandably, significantly increased. As more and more countries are forced into lock-down in an effort to curb the spread of the deadly virus, the growing number of people forced into working remotely and finding online entertainment is seeing the Internet absolutely explode. In fact COVID-19 has pushed up Internet use by a whopping 70 percent in some countries while streaming services are up by more than 12 percent, figures last month revealed. 
 
-### [147. You Owe Your Team Prompt Layoffs and a New Plan](https://hackernoon.com/you-owe-your-team-prompt-layoffs-and-a-new-plan-81dj3yw0)
+### [147. The Zeitgeist Digest 01—Tuesday, 4 February, 2020](https://hackernoon.com/the-zeitgeist-digest-01tuesday-4-february-2020-213gc343q)
+![](https://cdn.hackernoon.com/images/wnna34un.gif)
+Streaming the 'spirit of the times' in culture / tech / startups / future and chill, every Tuesday ✌️
+
+### [148. Italy Launches Contact Tracing App; Proves We Shouldn't Compromise On Privacy?](https://hackernoon.com/italy-launches-contact-tracing-app-proves-we-shouldnt-compromise-on-privacy-u24a3upp)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F925oGK0oYThtQ6BAElmpPp6QXN22-hfo3u68.webp?alt=media&token=7c6c9afb-7677-4b28-ad79-a59e284d9c26)
+Starting on the 15th of June, the Italian Government enabled nationwide downloads of their Contact Tracing app, Immuni. The app allows for effortless tracing of SARS-Cov-2 virus.
+
+### [149. You Owe Your Team Prompt Layoffs and a New Plan](https://hackernoon.com/you-owe-your-team-prompt-layoffs-and-a-new-plan-81dj3yw0)
 ![](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Right now, the start-up community is facing upheaval. Although shelter-in-place rules tend to affect some companies more than others and hopefully will be limited to the short-term, all of us will be in uncharted territory for the rest of the year, as we navigate chaotic capital markets and a possible recession. 
 
-### [148. We created a Covid19 tracking dashboard](https://hackernoon.com/we-created-a-covid19-tracking-dashboard-4d3n3ylw)
+### [150. We created a Covid19 tracking dashboard](https://hackernoon.com/we-created-a-covid19-tracking-dashboard-4d3n3ylw)
 ![](https://cdn.hackernoon.com/images/9f6234u6.jpg)
 So my former coding partner Collins from Microverse and I decided to create a simple dashboard to track the novel coronavirus. This dashboard which is live here offers the following features that differentiate it from the others:
-
-### [149. How Developers Can Stay Productive and Healthy during the COVID-19 Outbreak](https://hackernoon.com/how-developers-can-stay-productive-and-healthy-during-the-covid-19-outbreak-as2532bc)
-![](https://cdn.hackernoon.com/drafts/1v8w3kbo.png)
-The coronavirus or COVID-19 disrupted our way of life and brought the whole world to a standstill. In an effort to keep the economy going while containing the rapid spread of the virus, companies have taken a sensible approach by adopting remote working models.
-
-### [150. Italy Launches Contact Tracing App; Proves We Shouldn't Compromise On Privacy?](https://hackernoon.com/italy-launches-contact-tracing-app-proves-we-shouldnt-compromise-on-privacy-u24a3upp)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F925oGK0oYThtQ6BAElmpPp6QXN22-hfo3u68.webp?alt=media&token=7c6c9afb-7677-4b28-ad79-a59e284d9c26)
-Starting on the 15th of June, the Italian Government enabled nationwide downloads of their Contact Tracing app, Immuni. The app allows for effortless tracing of SARS-Cov-2 virus.
 
 ### [151. How Coronavirus Will Affect Tech Industry](https://hackernoon.com/how-coronavirus-will-affect-tech-industry-s03o3ye0)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6282rmh.jpeg)
@@ -660,37 +662,37 @@ This blog post should not be considered authoritative in any way. It simply an i
 ![](https://cdn.hackernoon.com/drafts/71t3yzw.png)
 More than 140 countries have been affected by the coronavirus pandemic. According to stats, 85K+ people have been affected and the numbers are expected to rise.
 
-### [163. The CoronaVirus' Impact On World Economies: The Good and The Bad](https://hackernoon.com/the-coronavirus-impact-on-world-economies-the-good-and-the-bad-4t5h32tk)
-![](https://images.unsplash.com/photo-1552234876-5fb207d6242b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-In the context of the coronavirus pandemic, governments are taking measures that, together with a general panic, weaken industry and financial markets. As in other areas, the largest conferences in the crypto industry are cancelled and projects are frozen. Bitcoin as the first and foremost cryptocurrency has also suffered from economic shocks, but what will happen next?  
-
-### [164. More Startups Pivoting to the Home Office](https://hackernoon.com/more-startups-pivoting-to-the-home-office-u57g32d9)
+### [163. More Startups Pivoting to the Home Office](https://hackernoon.com/more-startups-pivoting-to-the-home-office-u57g32d9)
 ![](https://cdn.hackernoon.com/drafts/5x4233zsg.png)
 Workspaces are under the microscope again but how are tech workers affected by the flexible workspaces and sharing culture of startups? 
 
 The office petri dish
 
-### [165. How COVID-19 Has Impacted Venture Capital Funding](https://hackernoon.com/how-covid-19-has-impacted-venture-capital-funding-vi593wep)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fzbzf4eUv2QhWbfSK4bieABR5a7f2-i6203t9h.jpeg?alt=media&token=e82724df-5a6c-4a05-8044-e546d2b25aa9)
-Remember when we thought COVID was just a horrible stage in our lives that would disappear after a month of masks and hand sanitizer? Oh, how sweet and naïve we were. As the pandemic marches on and many countries consider a second lockdown, businesses are having to look back on how they have managed these last 7 months and strategize for a corona-filled future.
+### [164. The CoronaVirus' Impact On World Economies: The Good and The Bad](https://hackernoon.com/the-coronavirus-impact-on-world-economies-the-good-and-the-bad-4t5h32tk)
+![](https://images.unsplash.com/photo-1552234876-5fb207d6242b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+In the context of the coronavirus pandemic, governments are taking measures that, together with a general panic, weaken industry and financial markets. As in other areas, the largest conferences in the crypto industry are cancelled and projects are frozen. Bitcoin as the first and foremost cryptocurrency has also suffered from economic shocks, but what will happen next?  
 
-### [166. Amidst COVID-19 Restrictions, How Can AI Help Retailers? ](https://hackernoon.com/amidst-covid-19-restrictions-how-can-ai-help-retailers-f96p32gm)
+### [165. Amidst COVID-19 Restrictions, How Can AI Help Retailers? ](https://hackernoon.com/amidst-covid-19-restrictions-how-can-ai-help-retailers-f96p32gm)
 ![](https://images.unsplash.com/photo-1525338078858-d762b5e32f2c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 COVID-19 has changed the world of retail almost overnight. Its impact on e-Commerce is creating challenges to online retailing, selling & services that no one has imagined in the first quarter of 2020-21.
 
-### [167. Will the Robots (Finally) be Arriving?](https://hackernoon.com/will-the-robots-finally-be-arriving-gi2e32x0)
-![](https://cdn.hackernoon.com/drafts/lk5tk38mj.png)
-Exploring the role of consumer robots before, during, and after the current pandemic
+### [166. How COVID-19 Has Impacted Venture Capital Funding](https://hackernoon.com/how-covid-19-has-impacted-venture-capital-funding-vi593wep)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fzbzf4eUv2QhWbfSK4bieABR5a7f2-i6203t9h.jpeg?alt=media&token=e82724df-5a6c-4a05-8044-e546d2b25aa9)
+Remember when we thought COVID was just a horrible stage in our lives that would disappear after a month of masks and hand sanitizer? Oh, how sweet and naïve we were. As the pandemic marches on and many countries consider a second lockdown, businesses are having to look back on how they have managed these last 7 months and strategize for a corona-filled future.
 
-### [168. How Ad Fraud Impacts the Coronavirus Online Sales Boom](https://hackernoon.com/how-ad-fraud-impacts-the-coronavirus-online-sales-boom-fo4a32yu)
-![](https://cdn.hackernoon.com/drafts/yy19x3yyh.png)
-While the current COVID-19 disease has affected several industries negatively – including the catering, tourism, and real estate sectors –, coronavirus had an unexpected impact on online sales.
-
-### [169. Building a Solid Foundation for an Intelligent Future](https://hackernoon.com/building-a-solid-foundation-for-an-intelligent-future-aw3p3y79)
+### [167. Building a Solid Foundation for an Intelligent Future](https://hackernoon.com/building-a-solid-foundation-for-an-intelligent-future-aw3p3y79)
 ![](https://images.unsplash.com/photo-1552234876-5fb207d6242b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 New Connectivity, Computing, Platform, and Ecosystem
 
 Introduction
+
+### [168. Will the Robots (Finally) be Arriving?](https://hackernoon.com/will-the-robots-finally-be-arriving-gi2e32x0)
+![](https://cdn.hackernoon.com/drafts/lk5tk38mj.png)
+Exploring the role of consumer robots before, during, and after the current pandemic
+
+### [169. How Ad Fraud Impacts the Coronavirus Online Sales Boom](https://hackernoon.com/how-ad-fraud-impacts-the-coronavirus-online-sales-boom-fo4a32yu)
+![](https://cdn.hackernoon.com/drafts/yy19x3yyh.png)
+While the current COVID-19 disease has affected several industries negatively – including the catering, tourism, and real estate sectors –, coronavirus had an unexpected impact on online sales.
 
 ### [170. The Viral Crisis Paradox and Other Covid-19 Economic Observations](https://hackernoon.com/the-viral-crisis-paradox-and-other-covid-19-economic-observations-yzbz3y47)
 ![](https://cdn.hackernoon.com/drafts/lru63y49.png)
@@ -700,13 +702,13 @@ As I write these words we’ve just passed one million known infected with COVID
 ![](https://cdn.hackernoon.com/drafts/x8f23yzb.png)
 Materials and equipment needed
 
-### [172. Will Crypto Market Survive the COVID-19 Outbreak?](https://hackernoon.com/will-crypto-market-survive-the-covid-19-outbreak-t21k322o)
-![](https://images.unsplash.com/photo-1585263560722-4f0345fa2aae?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-COVID-19 fears have plagued the global markets, sending the majority of commodities, equities, and other assets to a bearish journey with no known return ticket. While the global economy is struggling to stay afloat, many countries are urgently trying to figure out plans on how to contain the virus. 
-
-### [173. How to Avoid Awkward Virtual Events](https://hackernoon.com/how-to-avoid-awkward-virtual-events-obf3tog)
+### [172. How to Avoid Awkward Virtual Events](https://hackernoon.com/how-to-avoid-awkward-virtual-events-obf3tog)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnePmJX1ffrXtWlHHBTRNQfy2W392-782632ee.jpeg?alt=media&token=72ebb575-c914-4994-9f75-b8482a7367a7)
 While her pajama set was nice, I was wondering what type of crowd this was. Even before the March shelter-in-place orders, I would have never thought to wear pajamas to an in-person social event. 
+
+### [173. Will Crypto Market Survive the COVID-19 Outbreak?](https://hackernoon.com/will-crypto-market-survive-the-covid-19-outbreak-t21k322o)
+![](https://images.unsplash.com/photo-1585263560722-4f0345fa2aae?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+COVID-19 fears have plagued the global markets, sending the majority of commodities, equities, and other assets to a bearish journey with no known return ticket. While the global economy is struggling to stay afloat, many countries are urgently trying to figure out plans on how to contain the virus. 
 
 ### [174. Our Data-Driven Approach to Making Sense of the 2020 Presidential Election](https://hackernoon.com/our-data-driven-approach-to-making-sense-of-the-2020-presidential-election-ery3yqa)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnFGMPDaUJhN2rZiFEyVXNSMVezD3-mm2b4t4z.webp?alt=media&token=96936e9f-7eb2-47c1-92c9-5e4eab603400)
@@ -724,30 +726,30 @@ Many days have gone by, since the outbreak of Coronavirus. This coronavirus pand
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-ds2d31z7.jpeg)
 Long wait times, passwords sent by mail, and shutdowns thwart applicants
 
-### [178. How to Prepare Your Company for Remote Work](https://hackernoon.com/how-to-prepare-your-company-for-remote-work-5ddv3yka)
-![](https://cdn.hackernoon.com/images/9eug2yfb.jpg)
-The corona-virus outbreak continues to spread throughout the world. More and more companies are seizing their public operations and business owners all over are encouraging their employees to work from home. The Times calls this the “World's Largest Work-From-Home Experiment” and unlike some companies that were prepared for this, many are diving in headfirst, without any time to prepare. 
-
-### [179. Have You Thanked Technology Today?](https://hackernoon.com/have-you-thanked-technology-today-c2o33yrk)
+### [178. Have You Thanked Technology Today?](https://hackernoon.com/have-you-thanked-technology-today-c2o33yrk)
 ![](https://cdn.hackernoon.com/drafts/jn443yt7.png)
 The coronavirus has challenged all aspects of our lives. Healthcare notwithstanding, one of the biggest challenges has been in trying to keep as much of our lives as possible running as normal. Technology might already have altered the way we work, rest and play for good – but it’s been even more crucial during a period where people are working from home and avoiding large gatherings in the US and the rest of the world. In this post I’ll look at how tech is rising to the coronavirus challenge to keep the world moving. 
 
-### [180. An Overview of the Bluetooth Contact Tracing Protocol by Apple & Google](https://hackernoon.com/an-overview-of-the-bluetooth-contact-tracing-protocol-by-apple-and-google-qz7j3y6d)
-![](https://cdn.hackernoon.com/images/xiwq3ydw.jpg)
+### [179. How to Prepare Your Company for Remote Work](https://hackernoon.com/how-to-prepare-your-company-for-remote-work-5ddv3yka)
+![](https://cdn.hackernoon.com/images/9eug2yfb.jpg)
+The corona-virus outbreak continues to spread throughout the world. More and more companies are seizing their public operations and business owners all over are encouraging their employees to work from home. The Times calls this the “World's Largest Work-From-Home Experiment” and unlike some companies that were prepared for this, many are diving in headfirst, without any time to prepare. 
 
-
-### [181. The Impact of COVID-19 on Apple Search Ads](https://hackernoon.com/the-impact-of-covid-19-on-apple-search-ads-lucx24x3)
-![](https://images.unsplash.com/photo-1503852460961-aa7ffdd3d64d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Since the beginning of 2020, the whole world has been all about the outbreak of the coronavirus, also referred to as COVID-19. Labeled a pandemic on March 11, the epidemic affects practically every country and every individual, changing the way we interact, work, study, entertain ourselves, shop, work out, etc.  
-
-### [182. 4 Zoom Tweaks To Improve The Quality of Your WFH Meetings](https://hackernoon.com/4-zoom-tweaks-to-improve-the-quality-of-your-wfh-meetings-rz3o327t)
-![](https://images.unsplash.com/photo-1585224907690-cbaf12e38471?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-The Coronavirus outbreak is no less than a fortune for Zoom. The cloud meetings app has seen enormous growth that roots from the disruption of normal routine due to lockdowns everywhere. From the surge of Zoom app downloads worldwide to the company almost doubling its annual revenue, 2020 may have a bad start for most of us but for Zoom it’s their heydays.
-
-### [183. What Does the Future of Human Resources Look Like for Tech in a Post-COVID-19 Era?](https://hackernoon.com/what-does-the-future-of-human-resources-look-like-for-tech-in-a-post-covid-19-era-1ki348d)
+### [180. What Does the Future of Human Resources Look Like for Tech in a Post-COVID-19 Era?](https://hackernoon.com/what-does-the-future-of-human-resources-look-like-for-tech-in-a-post-covid-19-era-1ki348d)
 ![](https://cdn.hackernoon.com/images/QdRQJW6V96b8SQtJgBmzVkZNOfl2-64631a5.jpeg)
 When COVID-19 reared its ugly head back in March, employers realized that they needed to brace for the worst. For many companies, human resources (HR) have been scrambling to put together plans to help their respective company weather the storm, providing mechanisms for
 employees to work from home.
+
+### [181. 4 Zoom Tweaks To Improve The Quality of Your WFH Meetings](https://hackernoon.com/4-zoom-tweaks-to-improve-the-quality-of-your-wfh-meetings-rz3o327t)
+![](https://images.unsplash.com/photo-1585224907690-cbaf12e38471?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+The Coronavirus outbreak is no less than a fortune for Zoom. The cloud meetings app has seen enormous growth that roots from the disruption of normal routine due to lockdowns everywhere. From the surge of Zoom app downloads worldwide to the company almost doubling its annual revenue, 2020 may have a bad start for most of us but for Zoom it’s their heydays.
+
+### [182. An Overview of the Bluetooth Contact Tracing Protocol by Apple & Google](https://hackernoon.com/an-overview-of-the-bluetooth-contact-tracing-protocol-by-apple-and-google-qz7j3y6d)
+![](https://cdn.hackernoon.com/images/xiwq3ydw.jpg)
+
+
+### [183. The Impact of COVID-19 on Apple Search Ads](https://hackernoon.com/the-impact-of-covid-19-on-apple-search-ads-lucx24x3)
+![](https://images.unsplash.com/photo-1503852460961-aa7ffdd3d64d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Since the beginning of 2020, the whole world has been all about the outbreak of the coronavirus, also referred to as COVID-19. Labeled a pandemic on March 11, the epidemic affects practically every country and every individual, changing the way we interact, work, study, entertain ourselves, shop, work out, etc.  
 
 ### [184. Could COVID-19 Help Bring About The Media Revolution We Need?](https://hackernoon.com/could-covid-19-help-bring-about-the-media-revolution-we-need-uo5232n8)
 ![](https://cdn.hackernoon.com/images/7ee63yze.jpg)
@@ -773,17 +775,17 @@ The best tech stories published on hackernoon.com in the last 48 hours. Sign up
 ![](https://cdn.hackernoon.com/drafts/70ad3y2c.png)
 Why “forced” distributed teams are not indicative of what remote work is usually like
 
-### [190. How the Pandemic is Transforming the Gaming Industry](https://hackernoon.com/how-the-pandemic-is-transforming-the-gaming-industry-zj1p3z4g)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fd8BGyexueOMcAfrQZQfiuCC8nfW2-2c1q3wnu.jpeg?alt=media&token=57fd8a5b-3e35-4fc4-b464-25c9e0f3e433)
-The Coronavirus has shed light on innumerable industrial and sociopolitical problems: our fractured healthcare system, racial disparity in access to emergency services, the crushing failures of capitalism more generally. 
-
-### [191. Blockchain’s Role in Post Covid-19 World [An Analysis]](https://hackernoon.com/blockchains-role-in-post-covid-19-world-an-analysis-eddi329r)
+### [190. Blockchain’s Role in Post Covid-19 World [An Analysis]](https://hackernoon.com/blockchains-role-in-post-covid-19-world-an-analysis-eddi329r)
 ![](https://cdn.hackernoon.com/images/d6bl3yh7.jpg)
 Over the years of its existence, the crypto industry has constantly been under attack by numerous enemies — from malicious hackers exploiting the weaknesses of the young market to hostile governments regarding it as an imminent threat to their authority. 
 
-### [192. Mass Transit In a Post COVID-19 World](https://hackernoon.com/mass-transit-in-a-post-covid-19-world-pseg3ywr)
+### [191. Mass Transit In a Post COVID-19 World](https://hackernoon.com/mass-transit-in-a-post-covid-19-world-pseg3ywr)
 ![](https://cdn.hackernoon.com/drafts/nh4o33iw.png)
 As I write this on April 18, 2020, there are over 156,000 global deaths due to COVID-19, which is actually a tiny percent, however, this disease is incredibly communicable and is still not well understood.
+
+### [192. How the Pandemic is Transforming the Gaming Industry](https://hackernoon.com/how-the-pandemic-is-transforming-the-gaming-industry-zj1p3z4g)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fd8BGyexueOMcAfrQZQfiuCC8nfW2-2c1q3wnu.jpeg?alt=media&token=57fd8a5b-3e35-4fc4-b464-25c9e0f3e433)
+The Coronavirus has shed light on innumerable industrial and sociopolitical problems: our fractured healthcare system, racial disparity in access to emergency services, the crushing failures of capitalism more generally. 
 
 ### [193. Comparative Study Of Best Time-Series Models For Pandemic Response](https://hackernoon.com/comparative-study-of-best-time-series-models-for-pandemic-respons-ef1v3usz)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlBswupY3cpUoiqV21ZkS63RSU902-yfbr3uot.jpeg?alt=media&token=23c54a28-e5c0-4b5b-9131-adfc5427fe7b)
@@ -820,37 +822,37 @@ COVID-19 has had a significant effect on nearly every facet of life, including t
 ![](https://cdn.hackernoon.com/drafts/in11o3y85.png)
 Restaurants have been hit hard by COVID-19. With massive closures and layoffs around the world, it's been a tough road for hospitality these past few weeks. It can be extremely overwhelming to look at the big picture, but luckily, there are restaurant tech innovators stepping up to the plate.
 
-### [201. Universal Basic Income: "Threat or Menace?"](https://hackernoon.com/universal-basic-income-threat-or-menace-sz152w4j)
+### [201. Our Hospitals Are Overrun: How We Made a COVID-19 Bot to Help Out](https://hackernoon.com/our-hospitals-are-overrun-how-we-made-a-covid-19-bot-to-help-out-83793yd7)
+![](https://images.unsplash.com/photo-1521931961826-fe48677230a5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+COVID-19 Prescreening SMS Bot
+
+### [202. Universal Basic Income: "Threat or Menace?"](https://hackernoon.com/universal-basic-income-threat-or-menace-sz152w4j)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVK3VPElfEfgTBhNrSSYpDaCpam42-bud2w7z.jpeg?alt=media&token=51074fd7-0c5a-47e9-bc24-a3a02dcb96e3)
 This Slack discussion by austin, Dane and Patrick Lee (Mentor) occurred in hackernoon's official #slogging-beta channel, and has been edited for readability.
-
-### [202. What Would Sigmund Freud Do? Advice on Remote Work and Marriage Counseling During The Pandemic](https://hackernoon.com/what-would-sigmund-freud-do-advice-on-remote-work-and-marriage-counseling-during-the-pandemic-l54e31ms)
-![](https://cdn.hackernoon.com/images/ulHLOrUUeTTHEKRJOCtpfWl7DLB3-39c31z8.jpeg)
-If you’re thinking about leaving the corporate world and becoming a freelancer, have you considered how that shift might impact your relationship with your wife, husband, or partner?
 
 ### [203. How to Build Neural Network that Recognizes People Wearing Masks](https://hackernoon.com/how-to-build-neural-network-that-recognizes-people-wearing-masks-rj5x32l2)
 ![](https://cdn.hackernoon.com/images/0t7o3y3t.jpg)
 CDC officially recommends wearing face masks (even though not everyone complies). Meanwhile, governments in European countries like Spain, Ukraine, or certain regions in Italy require everyone, big or small, to wear masks all the time, when shopping, walking a dog, or plainly going outside. Breaking the requirements could result in a hefty fine.
 
-### [204. Succeeding In Challenging Times: Marketing During The Coronavirus [An Overview]](https://hackernoon.com/succeeding-in-challenging-times-marketing-during-the-coronavirus-an-overview-un8p326h)
+### [204. What Would Sigmund Freud Do? Advice on Remote Work and Marriage Counseling During The Pandemic](https://hackernoon.com/what-would-sigmund-freud-do-advice-on-remote-work-and-marriage-counseling-during-the-pandemic-l54e31ms)
+![](https://cdn.hackernoon.com/images/ulHLOrUUeTTHEKRJOCtpfWl7DLB3-39c31z8.jpeg)
+If you’re thinking about leaving the corporate world and becoming a freelancer, have you considered how that shift might impact your relationship with your wife, husband, or partner?
+
+### [205. Succeeding In Challenging Times: Marketing During The Coronavirus [An Overview]](https://hackernoon.com/succeeding-in-challenging-times-marketing-during-the-coronavirus-an-overview-un8p326h)
 ![](https://cdn.hackernoon.com/images/62l32hq.jpg)
 COVID-19 has turned the whole world upside down. It’s changed our personal lives, our businesses and the way we spend our days. No matter where we live, what we do, our race, nationality or status, everyone has been impacted in some way. The uncertainty created by this rapidly deepening global crisis has left all of us vulnerable to anxiety, stress and worrying about the future. It’s no wonder that everyone — including technology and blockchain companies — are re-evaluating the way they do business, revisiting their budget and expenses and modifying their operations.
 
-### [205. 3 Life Savers During Covid Lockdown](https://hackernoon.com/3-life-savers-during-covid-lockdown-132l3ycg)
+### [206. 3 Life Savers During Covid Lockdown](https://hackernoon.com/3-life-savers-during-covid-lockdown-132l3ycg)
 ![](https://images.unsplash.com/photo-1497171156029-51dfc973e5f9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 A little different post than my side-project or coding-related stories. Don't worry it's not about the Chinese virus Covid19, at least not directly.
 
-### [206. Our Hospitals Are Overrun: How We Made a COVID-19 Bot to Help Out](https://hackernoon.com/our-hospitals-are-overrun-how-we-made-a-covid-19-bot-to-help-out-83793yd7)
-![](https://images.unsplash.com/photo-1521931961826-fe48677230a5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-COVID-19 Prescreening SMS Bot
-
-### [207. The Working from Home Puzzle](https://hackernoon.com/the-working-from-home-puzzle-qt2f3yg0)
-![](https://cdn.hackernoon.com/drafts/vh343k5l.png)
-Working from home — WFH in short — is one of the most debated topics these days. Recent events have compelled many organizations to close their offices and force their employees to work from home. All aspects of the working experience are now being done remotely.
-
-### [208. Blockchain Innovation to Revive the Tourism Industry in the Post-pandemic World](https://hackernoon.com/blockchain-innovation-to-revive-the-tourism-industry-in-the-post-pandemic-world-dx3z302e)
+### [207. Blockchain Innovation to Revive the Tourism Industry in the Post-pandemic World](https://hackernoon.com/blockchain-innovation-to-revive-the-tourism-industry-in-the-post-pandemic-world-dx3z302e)
 ![](https://cdn.hackernoon.com/drafts/yl752bqz.png)
 The coronavirus pandemic affected most global industries and, probably, the tourism industry the most. One of the biggest hit was taken by airlines, with an estimate of 44% fall below 2019’s revenue Actually, in the US, “The impact on travel is six or seven times greater than the 9/11 attacks,” according to Roger Dow, president and CEO of the US Travel Association. Stepping into the post-pandemic days, the world is desperate for solutions that could revive the tourism industry.
+
+### [208. The Working from Home Puzzle](https://hackernoon.com/the-working-from-home-puzzle-qt2f3yg0)
+![](https://cdn.hackernoon.com/drafts/vh343k5l.png)
+Working from home — WFH in short — is one of the most debated topics these days. Recent events have compelled many organizations to close their offices and force their employees to work from home. All aspects of the working experience are now being done remotely.
 
 ### [209. How Australian Internet Usage Has Changed Through COVID-19](https://hackernoon.com/how-australian-internet-usage-has-changed-through-covid-19-x5r3yey)
 ![](https://cdn.hackernoon.com/drafts/rehg3vdj.png)
@@ -872,13 +874,13 @@ How to make your brand shine out of competitors during a recession? How can cust
 ![](https://cdn.hackernoon.com/images/qqlp3yqo.gif)
 Illustration by Mat Voyce
 
-### [214. Hacking Your Sleep Cycle](https://hackernoon.com/hacking-your-sleep-cycle-ihf3u20)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-411q3uee.jpeg?alt=media&token=ff9cf367-b36d-48da-82b9-a7d9d7fc1154)
-No one is sleeping well. There is a lot of uncertainty in the world and it’s not just from the pandemic - the economic downturn and struggle for equal rights seems to be overshadowing the pandemic. People are reporting strange and vivid dreams and nightmares and with it trouble falling asleep, staying asleep, and feeling rested when they wake up. It’s time to start hacking our minds so we can get the sleep we need to maintain our best health.
-
-### [215. 590 Stories To Learn About Remote Work](https://hackernoon.com/590-stories-to-learn-about-remote-work)
+### [214. 590 Stories To Learn About Remote Work](https://hackernoon.com/590-stories-to-learn-about-remote-work)
 ![](https://cdn.hackernoon.com/images/github/remote-work-209.png)
 Learn everything you need to know about Remote Work via these 590 free HackerNoon stories.
+
+### [215. Hacking Your Sleep Cycle](https://hackernoon.com/hacking-your-sleep-cycle-ihf3u20)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-411q3uee.jpeg?alt=media&token=ff9cf367-b36d-48da-82b9-a7d9d7fc1154)
+No one is sleeping well. There is a lot of uncertainty in the world and it’s not just from the pandemic - the economic downturn and struggle for equal rights seems to be overshadowing the pandemic. People are reporting strange and vivid dreams and nightmares and with it trouble falling asleep, staying asleep, and feeling rested when they wake up. It’s time to start hacking our minds so we can get the sleep we need to maintain our best health.
 
 ### [216. Cybersecurity in The Post-Pandemic Economy](https://hackernoon.com/cybersecurity-in-the-post-pandemic-economy-trr3w21)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-weh3t0t.jpeg?alt=media&token=bd8f10b4-a487-44fb-9786-c02ac20b0738)
@@ -892,38 +894,38 @@ A few weeks ago MariaDB launched their new database-as-a-service (DBaaS), SkySQL
 ![](https://cdn.hackernoon.com/drafts/uu14323o.png)
 To say that the Coronavirus is leaving an incredible impact on the world today would be a gross understatement. 
 
-### [219. The Real Impact of COVID-19 on Blockchain Payments](https://hackernoon.com/the-real-impact-of-covid-19-on-blockchain-payments-v8y3xao)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgvjvF0384Zhm1ejkXTAA2NSObZu2-nm583u2q.jpeg?alt=media&token=bdc03812-6499-4aa9-a43e-a81bb3d386b6)
-Cryptocurrencies such as bitcoin are slowly making a transition from speculative investment instruments to payments. Special attention to payment habits and the financial life cycle as the COVID-19 pandemic leads to more calls for dematerialization of payments.
-
-### [220. Lean Business Model: What Entrepreneurs Need To Do in Times of Crisis](https://hackernoon.com/lean-business-model-what-entrepreneurs-need-to-do-in-times-of-crisis-k78v2479)
+### [219. Lean Business Model: What Entrepreneurs Need To Do in Times of Crisis](https://hackernoon.com/lean-business-model-what-entrepreneurs-need-to-do-in-times-of-crisis-k78v2479)
 ![](https://cdn.hackernoon.com/drafts/h2hk3yc6.png)
 “Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it’s the only thing that ever has.”- Margaret Mead
+
+### [220. The Real Impact of COVID-19 on Blockchain Payments](https://hackernoon.com/the-real-impact-of-covid-19-on-blockchain-payments-v8y3xao)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgvjvF0384Zhm1ejkXTAA2NSObZu2-nm583u2q.jpeg?alt=media&token=bdc03812-6499-4aa9-a43e-a81bb3d386b6)
+Cryptocurrencies such as bitcoin are slowly making a transition from speculative investment instruments to payments. Special attention to payment habits and the financial life cycle as the COVID-19 pandemic leads to more calls for dematerialization of payments.
 
 ### [221. Coronavirus – The Technology Sector is Running at 86%](https://hackernoon.com/coronavirus---the-technology-sector-is-running-at-86percent)
 ![](https://cdn.hackernoon.com/images/XXnVE6wWDdRB1qhxX29XaEtgOA73-pb93kjd.jpeg)
 For tech industry as a whole, the level of activity in June was 86%, up from 75% at the start of May, and this after hitting a low of 50% at the start of April.
 
-### [222. A Data-Backed Look At the Post-Coronavirus Cybersecurity Landscape](https://hackernoon.com/a-data-backed-look-at-the-post-coronavirus-cybersecurity-landscape-ys1s317k)
+### [222. Business Survival Strategies for a Post-Pandemic World](https://hackernoon.com/business-survival-strategies-for-a-post-pandemic-world-4k3l3wkn)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4f5ICth1VtW89TTLwF6mNVT05c83-a21y3wgj.jpeg?alt=media&token=2f323714-4816-4235-baca-d3da63e72b78)
+Today everybody talks and thinks about keeping up and surviving in a dynamically changing world. Changes have caught us on the hop, and social isolation is a new normal. But we can’t isolate ourselves from each other at all and forever. Humans are social and tribal beings. 
+
+### [223. A Data-Backed Look At the Post-Coronavirus Cybersecurity Landscape](https://hackernoon.com/a-data-backed-look-at-the-post-coronavirus-cybersecurity-landscape-ys1s317k)
 ![](https://cdn.hackernoon.com/images/25FD7aJjvQXZmpBWsHFW5JYdjMt1-m12n31w8.jpeg)
 Not so long ago, the buzz in cybersecurity circles was all about COVID-19 and how malicious actors were exploiting the panic via a wave of targeted phishing attempts. Well, much to everyone's relief, the trend didn't last long. Some of that is due to security firms getting the word out so quickly, and some of it is due to the general public becoming more aware of potential threats and behaving with more care as they encounter suspicious situations.
 
 
-### [223. Business Survival Strategies for a Post-Pandemic World](https://hackernoon.com/business-survival-strategies-for-a-post-pandemic-world-4k3l3wkn)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4f5ICth1VtW89TTLwF6mNVT05c83-a21y3wgj.jpeg?alt=media&token=2f323714-4816-4235-baca-d3da63e72b78)
-Today everybody talks and thinks about keeping up and surviving in a dynamically changing world. Changes have caught us on the hop, and social isolation is a new normal. But we can’t isolate ourselves from each other at all and forever. Humans are social and tribal beings. 
-
-### [224. Thriving Scams amid Covid-19 Pandemic](https://hackernoon.com/thriving-scams-amid-covid-19-pandemic-103u3w9x)
-![](https://cdn.hackernoon.com/images/r74p83vog.jpg)
-Pretending to be the IRS for selling fake vaccines, scammers have kicked in scammers and hackers are playing with people's emotions to cash in the opportunity since the coronavirus pandemic began.
+### [224. How Engineering Managers Can Organize Remote Workflow](https://hackernoon.com/how-engineering-managers-can-organize-remote-workflow-2c193yfp)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-pe82rix.jpeg)
+It’s been two weeks since we took action and made working from home mandatory for all the team members. Our top priority remains the health and safety of our team members. We have a responsibility to support our communities through the health crisis caused by COVID-19.
 
 ### [225. Post-COVID: How To Grow Your Startup as a First-Time Entrepreneur ](https://hackernoon.com/post-covid-how-to-grow-your-startup-as-a-first-time-entrepreneur-8wu3t4m)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7ZocCpQ5hhRfkQVrSQ4RrP58qIF2-f48i3wjv.jpeg?alt=media&token=71ae036c-8597-4859-904c-85b6a933f01d)
 The unprecedented situation of the COVID-19 has shaken everyone. The rate at which the COVID cases are rising each day is agonizing. 
 
-### [226. How Engineering Managers Can Organize Remote Workflow](https://hackernoon.com/how-engineering-managers-can-organize-remote-workflow-2c193yfp)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-pe82rix.jpeg)
-It’s been two weeks since we took action and made working from home mandatory for all the team members. Our top priority remains the health and safety of our team members. We have a responsibility to support our communities through the health crisis caused by COVID-19.
+### [226. Thriving Scams amid Covid-19 Pandemic](https://hackernoon.com/thriving-scams-amid-covid-19-pandemic-103u3w9x)
+![](https://cdn.hackernoon.com/images/r74p83vog.jpg)
+Pretending to be the IRS for selling fake vaccines, scammers have kicked in scammers and hackers are playing with people's emotions to cash in the opportunity since the coronavirus pandemic began.
 
 ### [227. Creative Ways Companies are Keeping Teams Sane And Connected Through WFH Mandate](https://hackernoon.com/creative-ways-companies-are-keeping-teams-sane-and-connected-through-wfh-mandate-kcb324j4)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-td82r16.jpeg)
@@ -949,79 +951,79 @@ On March 11, the World Health Organization (WHO) declared the coronavirus a pand
 ![](https://images.unsplash.com/photo-1585252406583-b474fb5f5ade?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The role of a PR specialists is to stay sober and level-headed. To me, a crisis is nothing but a crush test for business. I adopt new communication tactics, new strategies, and totally reinvent the processes. 
 
-### [233. On The (Failed) Digitization of Our Social Lives](https://hackernoon.com/on-the-failed-digitization-of-our-social-lives-o81u3was)
-![](https://cdn.hackernoon.com/drafts/msj132mn.png)
-If you told me two months ago that today would be the first day of quarantine that I would digitally get pen to paper, two-months-ago-me would have been outraged at quarantine-me. With no competition for my attention, I assumed that every creative pursuit that I’d put off for lack of time would come bursting out of me in a personal Renaissance like Bob Dylan producing The Basement Tapes. If Shakespeare wrote King Lear during plague quarantine, surely I could do something during my quarantine.
-
-### [234. Are Robots Effective During a Coronavirus Pandemic?](https://hackernoon.com/are-robots-effective-in-coronavirus-pandemic-ja5p3yr8)
+### [233. Are Robots Effective During a Coronavirus Pandemic?](https://hackernoon.com/are-robots-effective-in-coronavirus-pandemic-ja5p3yr8)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-su03ob6.jpeg)
 We are at a time when we are not prepared with resources and planning to handle the pandemics like COVID-19. Just as humans are not ready to tackle the disease, robots alongside too are quite behind the abilities to combat the problem. 
+
+### [234. On The (Failed) Digitization of Our Social Lives](https://hackernoon.com/on-the-failed-digitization-of-our-social-lives-o81u3was)
+![](https://cdn.hackernoon.com/drafts/msj132mn.png)
+If you told me two months ago that today would be the first day of quarantine that I would digitally get pen to paper, two-months-ago-me would have been outraged at quarantine-me. With no competition for my attention, I assumed that every creative pursuit that I’d put off for lack of time would come bursting out of me in a personal Renaissance like Bob Dylan producing The Basement Tapes. If Shakespeare wrote King Lear during plague quarantine, surely I could do something during my quarantine.
 
 ### [235. Interviewing The Wild: John McAfee Talks](https://hackernoon.com/interviewing-the-wild-john-mcafee-talks-ejbp30xj)
 ![](https://cdn.hackernoon.com/drafts/gd5w3w56.png)
 With John McAfee, it’s hard to tell where the myth ends and reality begins. Nearly everyone recognizes the antivirus McAfee program rooted on many PCs that brought him his first fortune in the 90s; the subsequent details of McAfee’s life grow hazy, frenzied, unhinged. 
 
-### [236. How The Coronavirus Outbreak Is Affecting Our Mobile Society](https://hackernoon.com/how-the-coronavirus-outbreak-is-affecting-our-mobile-society-ig7w2426)
-![](https://cdn.hackernoon.com/drafts/kb1yv3yi7.png)
-Credit: Shonagh Rae
-
-### [237. President Trump's Attempt To Monopolise Potential COVID-19 Vaccine Is Not Helping](https://hackernoon.com/president-trump-attempt-to-monopolise-potential-covid-19-vaccine-is-not-helping-2q7f32kv)
+### [236. President Trump's Attempt To Monopolise Potential COVID-19 Vaccine Is Not Helping](https://hackernoon.com/president-trump-attempt-to-monopolise-potential-covid-19-vaccine-is-not-helping-2q7f32kv)
 ![](https://cdn.hackernoon.com/drafts/311e3yf9.png)
 US President Donald Trump has attempted to monopolise a coronavirus vaccine currently being developed by a German pharmaceutical manufacturer, in what the press are now referring to as a “filthy proposal in times of pandemic”. The President, who initially dismissed the novel coronavirus as something outside the realm of his concern, has left the world in shock with his handling of the unprecedented health crisis so far, with the US’s closest ally the UK in “disbelief” at the President’s incredibly slow response and his tweets, which initially sought to downplay the spread of the COVID-19 virus. 
 
-### [238. Starting a SaaS Business During Covid: My 5 Year Journey](https://hackernoon.com/starting-a-saas-business-during-covid-my-5-year-journey-bm3p3tp3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBSsoxi2iYzcaKh9ApR4P0qdRpy82-phj3tsd.jpeg?alt=media&token=176462b8-8711-495d-8244-af2355a7fb38)
-In September 2020, I went all in working for myself. The COVID Pandemic and my cushy engineering manager job made it a hard decision. However, it wasn't one I made overnight. In fact, It took me five years to wrap my head around it. I can divide that time into three entrepreneurial seasons of my life. Each season taught me essential lessons that provided enough insight into changing the course of my career.
-
-### [239. On Not Doing Free Work for 'The Experience' + More with Melinda B. Lewis](https://hackernoon.com/on-not-doing-free-work-for-the-experience-more-with-melinda-b-lewis-6zc53uzu)
+### [237. On Not Doing Free Work for 'The Experience' + More with Melinda B. Lewis](https://hackernoon.com/on-not-doing-free-work-for-the-experience-more-with-melinda-b-lewis-6zc53uzu)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-069c3upt.jpeg?alt=media&token=acba1d32-f8d2-42be-9a83-68a0245af311)
 Melinda B. Lewis has been nominated for two Hacker Noon awards this year, and we're really excited to have her onboard. In this interview: saying no to working for free, millennial experiences of student loans, and digital detoxes.  
 
-### [240. How to Use Data to Run More Effective Virtual Meetings](https://hackernoon.com/how-to-use-data-to-run-more-effective-virtual-meetings-2k2h3y2u)
-![](https://cdn.hackernoon.com/drafts/kgas3y8r.png)
-One heavily discussed topic in the context of this current global crisis is running effective virtual meetings. We needed to adapt to remote work quickly. Engineering is different these days. The difference between work and home has become blurry. People have a hard time setting boundaries between work hours and home hours.
-
-### [241. A Call To Action: Let's Not Waste The Opportunity Coronavirus Offers Us](https://hackernoon.com/a-call-to-action-lets-not-waste-the-opportunity-coronavirus-offers-us-4x13c3wjo)
-![](https://cdn.hackernoon.com/drafts/z11c3wbq.png)
-Half of the world is in quarantine due to the corona-virus outbreak, and most of the people have no clue how to use this time for developing new skills.
-
-### [242. [Infographic] How Telehealth and Telemedicine are Hacking the Healthcare System](https://hackernoon.com/infographic-how-telehealth-and-telemedicine-are-hacking-the-healthcare-system-eu1t3u5m)
+### [238. [Infographic] How Telehealth and Telemedicine are Hacking the Healthcare System](https://hackernoon.com/infographic-how-telehealth-and-telemedicine-are-hacking-the-healthcare-system-eu1t3u5m)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-9g2p3ue9.webp?alt=media&token=22e3a88f-8b02-4bb5-b381-16ee900061b4)
 Soon after COVID-19 hit the world, hospitals across the country started quickly filling up with new patients and forcing some of the long-term care patients out of hospitals. Most of those long-term care patients now can’t go to hospitals due to how vulnerable they are to getting COVID-19. In order to still receive the attention and care that they need, many have turned to telemedicine. Technologies like video conferencing, data monitoring, and smartphone apps that are used to help keep and eye on and treat patients have all seen usage start to spike. CareClix, a virtual health company which has over 20 million users, saw a 50% rise in usage in March alone and Zipnosis, another virtual health company, reported a 3,600% increase in virtual visits over the course of just 11 days in February. The idea of telehealth is not a new concept - as early as 1924, Radio New Magazine featured an illustration of a physician attending to his patient via video. In 1967, the University of Miami’s medical school worked with the local fire department to help set up a system where emergency patient info could be transferred remotely.
 
-### [243. To Offshore Or Not To Offshore? That Is The Post-Pandemic Question](https://hackernoon.com/to-offshore-or-not-to-offshore-that-is-the-post-pandemic-question-mj5z33az)
+### [239. How The Coronavirus Outbreak Is Affecting Our Mobile Society](https://hackernoon.com/how-the-coronavirus-outbreak-is-affecting-our-mobile-society-ig7w2426)
+![](https://cdn.hackernoon.com/drafts/kb1yv3yi7.png)
+Credit: Shonagh Rae
+
+### [240. Starting a SaaS Business During Covid: My 5 Year Journey](https://hackernoon.com/starting-a-saas-business-during-covid-my-5-year-journey-bm3p3tp3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBSsoxi2iYzcaKh9ApR4P0qdRpy82-phj3tsd.jpeg?alt=media&token=176462b8-8711-495d-8244-af2355a7fb38)
+In September 2020, I went all in working for myself. The COVID Pandemic and my cushy engineering manager job made it a hard decision. However, it wasn't one I made overnight. In fact, It took me five years to wrap my head around it. I can divide that time into three entrepreneurial seasons of my life. Each season taught me essential lessons that provided enough insight into changing the course of my career.
+
+### [241. To Offshore Or Not To Offshore? That Is The Post-Pandemic Question](https://hackernoon.com/to-offshore-or-not-to-offshore-that-is-the-post-pandemic-question-mj5z33az)
 ![](https://cdn.hackernoon.com/images/GSXGZs6DKwVz4C2rZHNVdUp8fm63-wo2v325j.jpeg)
 We take a closer look at the existing trends and forecasts to see whether an offshoring industry is indeed immune to the crisis.
 
-### [244. If COVID-19 Isn't Stressing You Out, YouTube Could Be](https://hackernoon.com/if-covid-19-isnt-stressing-you-out-youtube-could-be-ih3x3uv4)
+### [242. How to Use Data to Run More Effective Virtual Meetings](https://hackernoon.com/how-to-use-data-to-run-more-effective-virtual-meetings-2k2h3y2u)
+![](https://cdn.hackernoon.com/drafts/kgas3y8r.png)
+One heavily discussed topic in the context of this current global crisis is running effective virtual meetings. We needed to adapt to remote work quickly. Engineering is different these days. The difference between work and home has become blurry. People have a hard time setting boundaries between work hours and home hours.
+
+### [243. A Call To Action: Let's Not Waste The Opportunity Coronavirus Offers Us](https://hackernoon.com/a-call-to-action-lets-not-waste-the-opportunity-coronavirus-offers-us-4x13c3wjo)
+![](https://cdn.hackernoon.com/drafts/z11c3wbq.png)
+Half of the world is in quarantine due to the corona-virus outbreak, and most of the people have no clue how to use this time for developing new skills.
+
+### [244. How Restaurants Need to Rethink Their Models and Digitally Transform](https://hackernoon.com/how-restaurants-need-to-rethink-their-models-and-digitally-transform-w9l3wl9)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fd8BGyexueOMcAfrQZQfiuCC8nfW2-pc2g3w02.jpeg?alt=media&token=1ed30aea-23ac-4933-8422-6c920c7bd253)
+The National Restaurant Industry reported $120 billion in industry wide losses during the months of March, April and May. They expect that to double by the end of the year.
+
+### [245. If COVID-19 Isn't Stressing You Out, YouTube Could Be](https://hackernoon.com/if-covid-19-isnt-stressing-you-out-youtube-could-be-ih3x3uv4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FE94jeG4kuxf5Akvr1TBep1bZVSg1-eb4a3x08.jpeg?alt=media&token=e51e3e67-bbf5-4239-bb39-e7c7d12b9858)
 Are you worried about the health or livelihoods of you and your loved ones? It's important to remember that you're not alone. The CDC takes your stress seriously enough during the pandemic that they have published signs and guidelines for detecting and handling stress and anxiety.
 
 The CDC suggests to manage your own stress you consider taking the following steps:
 
-### [245. How Restaurants Need to Rethink Their Models and Digitally Transform](https://hackernoon.com/how-restaurants-need-to-rethink-their-models-and-digitally-transform-w9l3wl9)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fd8BGyexueOMcAfrQZQfiuCC8nfW2-pc2g3w02.jpeg?alt=media&token=1ed30aea-23ac-4933-8422-6c920c7bd253)
-The National Restaurant Industry reported $120 billion in industry wide losses during the months of March, April and May. They expect that to double by the end of the year.
-
-### [246. Bitcoin’s First Great Crisis Is Setting The Stage For A Digital-First New Normal](https://hackernoon.com/bitcoins-first-great-crisis-is-setting-the-stage-for-a-digital-first-new-normal-fa2r3ycy)
-![](https://cdn.hackernoon.com/drafts/6d4z3ysd.png)
-The novel coronavirus might not be the world’s first pandemic or even the deadliest. But the virus has set the stage for a truly unprecedented time of global harmony. 
-
-### [247. Tracking H1N1pdm09, the Hantavirus, and G4 EA H1N1 w/ Data Mining](https://hackernoon.com/tracking-h1n1pdm09-the-hantavirus-and-g4-ea-h1n1-w-data-mining-0xf3zs6)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgpabZ3ae5AMod6NEaJWlcWwdp7G2-lz1x13qi.jpeg?alt=media&token=119419c6-a78b-4244-b240-a151f440492a)
-After the start of this whole Covid19 pandemic, worries of other viruses have been making rounds. These worries have ranged from variations of the Hantavirus showing up in China, to newly reoccurring worries of H1N1 strains. While people aren't too worried about widespread animal to human and human to human transmission, the same was thought about in regards to Covid19. While it is less likely these viruses are worth a concern, their data at least to some regard is worth exploring.
-
-### [248. The State of Infrastructure Security Amidst this Pandemic](https://hackernoon.com/the-state-of-infrastructure-security-amidst-this-pandemic-veu3u0d)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fmo4QqxFHw7VaWyoxBYDINm61A003-hqw3uvv.jpeg?alt=media&token=e8df0619-9da1-4c18-8ae6-f5a91f14d0fb)
-Around mid-March, news filtered out of a cyberattack that hit the U.S. Health and Human Services (HHS) Department. Amid battling a pandemic, the HHS cyberinfrastructure was overloaded, but the HHS Secretary Alex Azar claimed that "we had no penetration into our networks, we had no degradation of the functioning of our networks." 
-
-### [249. Face Masks, Oil’s Crash, and a Bitcoin Bloodbath: How Can Investors Survive Corona-geddon?](https://hackernoon.com/face-masks-oils-crash-and-a-bitcoin-bloodbath-how-can-investors-survive-corona-geddon-4v6n3y9z)
+### [246. Face Masks, Oil’s Crash, and a Bitcoin Bloodbath: How Can Investors Survive Corona-geddon?](https://hackernoon.com/face-masks-oils-crash-and-a-bitcoin-bloodbath-how-can-investors-survive-corona-geddon-4v6n3y9z)
 ![](https://cdn.hackernoon.com/drafts/epde3ymg.png)
 The world has caught a chill. As efforts to contain COVID-19 aka the coronavirus heat up, global stock markets—the barometers for the world’s economic health—are flashing red. Compounding the virus fears was news of a Saudi-Russian conflict over oil prices, enough to catalyze a systemic collapse in global stock markets, with U.S. stocks counting their worst single-day losses since the 2008 financial crisis. Upon opening on March 9, U.S. stocks plunged so rapidly that the circuit breakers were triggered for the first time since 1997. 
 
-### [250. 5 Business Lessons from IBM Surveyed CEOs for a Post-Pandemic World ](https://hackernoon.com/5-business-lessons-from-ibm-surveyed-ceos-for-a-post-pandemic-world)
+### [247. Bitcoin’s First Great Crisis Is Setting The Stage For A Digital-First New Normal](https://hackernoon.com/bitcoins-first-great-crisis-is-setting-the-stage-for-a-digital-first-new-normal-fa2r3ycy)
+![](https://cdn.hackernoon.com/drafts/6d4z3ysd.png)
+The novel coronavirus might not be the world’s first pandemic or even the deadliest. But the virus has set the stage for a truly unprecedented time of global harmony. 
+
+### [248. Tracking H1N1pdm09, the Hantavirus, and G4 EA H1N1 w/ Data Mining](https://hackernoon.com/tracking-h1n1pdm09-the-hantavirus-and-g4-ea-h1n1-w-data-mining-0xf3zs6)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgpabZ3ae5AMod6NEaJWlcWwdp7G2-lz1x13qi.jpeg?alt=media&token=119419c6-a78b-4244-b240-a151f440492a)
+After the start of this whole Covid19 pandemic, worries of other viruses have been making rounds. These worries have ranged from variations of the Hantavirus showing up in China, to newly reoccurring worries of H1N1 strains. While people aren't too worried about widespread animal to human and human to human transmission, the same was thought about in regards to Covid19. While it is less likely these viruses are worth a concern, their data at least to some regard is worth exploring.
+
+### [249. 5 Business Lessons from IBM Surveyed CEOs for a Post-Pandemic World ](https://hackernoon.com/5-business-lessons-from-ibm-surveyed-ceos-for-a-post-pandemic-world)
 ![](https://cdn.hackernoon.com/images/GSXGZs6DKwVz4C2rZHNVdUp8fm63-aw0357u.jpeg)
 After the uncertainty of the year 2020, we have to admit: the new order came up from the chaos, and as a result, the business priorities were reconfigured too.
+
+### [250. The State of Infrastructure Security Amidst this Pandemic](https://hackernoon.com/the-state-of-infrastructure-security-amidst-this-pandemic-veu3u0d)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fmo4QqxFHw7VaWyoxBYDINm61A003-hqw3uvv.jpeg?alt=media&token=e8df0619-9da1-4c18-8ae6-f5a91f14d0fb)
+Around mid-March, news filtered out of a cyberattack that hit the U.S. Health and Human Services (HHS) Department. Amid battling a pandemic, the HHS cyberinfrastructure was overloaded, but the HHS Secretary Alex Azar claimed that "we had no penetration into our networks, we had no degradation of the functioning of our networks." 
 
 ### [251. How Technology Companies Have Reinvented Their Business Models During Pandemic Times](https://hackernoon.com/how-technology-companies-have-reinvented-their-business-models-during-pandemic-times-wzme30mz)
 ![](https://cdn.hackernoon.com/drafts/u41kw3wy6.png)
@@ -1035,93 +1037,93 @@ As the recent events in China, a coronavirus outbreak has led the entire world t
 ![](https://cdn.hackernoon.com/drafts/571d24df.png)
 The COVID-19 Global Hackathon is an opportunity for developers to build software solutions that drive social impact, with the aim of tackling some of the challenges related to the current coronavirus (COVID-19) pandemic.
 
-### [254. A Timely Reminder Not To Take Ourselves Too Seriously](https://hackernoon.com/literally-just-abusing-my-editorial-authority-to-post-a-video-everyone-should-watch-again-u24l3u78)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-jcd3u3s.jpeg?alt=media&token=ac4df5c7-e4fe-4a48-8f7f-f91f79fca4f3)
-But also, I genuinely believe—as we all reach peak isolation-fatigue, and move back into more familiar living and working routines—this clip contains an important message:
-
-### [255. Reopening the Economy: Only the Paranoid Survive](https://hackernoon.com/reopening-the-economy-only-the-paranoid-survive-2w683yk1)
-![](drafts/aio23ynb.png)
-The great lock down has helped to slow the spread of Covid-19. But it also came at a great cost to the global economy. Unlike a recession, many nonessential businesses have been closed with no clear timetable to reopen. The initial jobless claims in the US have swelled to more than 26 million since mid-March. While we see some glimmers of hope, we are not out of the woods yet. Businesses are anxious to reopen but we are also concerned with the health risks associated with it. The dilemma is if we reopen too quickly, we might risk triggering a second wave of Coronavirus which could be even worse.
-
-### [256. I Never Thought Compassion Would Pay Me Back in Such A Wonderful Way](https://hackernoon.com/i-never-thought-compassion-would-pay-me-back-in-such-a-wonderful-way-t83u3y4n)
-![](https://cdn.hackernoon.com/drafts/10402b5i.png)
-As soon as the World Health Organization declared Corona Virus to be a global pandemic, there was an immense quick heat fired up around the globe, with people being highly concerned about their survival amidst these hard times. People actually started to stock up for months, according to CNN, grocery stores ran out of the daily use products, and basically, it was all depicting the scenario of the end of times. 
-
-### [257. Can Your Smartpones Actually Help in Early COVID-19 Detection?](https://hackernoon.com/can-your-smartpones-actually-help-in-early-covid-19-detection-aa5r3y6b)
-![](https://images.unsplash.com/photo-1527335480088-278dbeec0ad5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Our smartphones have already played an important role in this virus pandemic. Whether in defining your location’s degree of contagion or providing data on your movements to help assess the threat of infection - smartphones do come to the rescue.
-
-### [258. Face Masks: The Key to Flattening the Curve for COVID-19 [Infographic]](https://hackernoon.com/face-masks-the-key-to-flattening-the-curve-for-covid-19-5z1h327l)
-![](https://cdn.hackernoon.com/drafts/b5893y7v.png)
-Wearing a face mask has recently become a norm for people across the country as the CDC has resolved that all Americans should wear a face covering when in public to slow the spread. The WHO recommends wearing a face mask if either you are caring for a person that is suspected of having COVID-19 or you yourself are sneezing, coughing, or sick. The WHO also stresses that face masks are only effective if you use them properly, and are not a replacement for frequent handwashing or hand sanitizing. The CDC advises wearing a face mask in a public setting where social distancing is impractical or in areas where transmission can easily happen. The CDC stresses that face masks do not replace other social distancing measures and should be made at home or made of cloth, rather than surgical masks or N95 masks.
-
-### [259. 8 Steps for Crisis Management Plan](https://hackernoon.com/8-steps-for-crisis-management-plan-ia8k3yfg)
-![](https://cdn.hackernoon.com/drafts/ucu3yim.png)
-In the nearest future, worldwide economies will face one of the most powerful financial crises since 2008. There are a lot of reasons for it, but the root cause is coronavirus covid-19.
-
-### [260. How Recession May Impact The Tech Hiring](https://hackernoon.com/how-recession-may-impact-the-tech-hiring-lj653vlc)
-![](https://images.unsplash.com/photo-1487528278747-ba99ed528ebc?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-As recession fears continue to mount, recruiters are preparing to face hiring conditions not experienced in over a decade.
-
-### [261. 100 Stories To Learn About Remote](https://hackernoon.com/100-stories-to-learn-about-remote)
+### [254. 100 Stories To Learn About Remote](https://hackernoon.com/100-stories-to-learn-about-remote)
 ![](https://cdn.hackernoon.com/images/github/remote-723.png)
 Learn everything you need to know about Remote via these 100 free HackerNoon stories.
 
-### [262. Tech VS Human Capital: Chinese and Western Approaches to COVID-19](https://hackernoon.com/tech-vs-human-capital-chinese-and-western-approaches-to-covid-19-mj1e3w0f)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fr3bY0WDRZhNnfrUdRGvlKILXiEI2-whc32qf.jpeg?alt=media&token=ed5003a0-7363-4c06-b3b9-b6f697bb56a5)
-Countries around the world have taken different measures to slow down or stop the spread of the virus. While China, South Korea, and Taiwan quickly dove into AI-powered screening and tracking, western democracies took a more human-driven direction. Almost ten months after the WHO declared the pandemic a global emergency, has one approach proven better than the other?
+### [255. I Never Thought Compassion Would Pay Me Back in Such A Wonderful Way](https://hackernoon.com/i-never-thought-compassion-would-pay-me-back-in-such-a-wonderful-way-t83u3y4n)
+![](https://cdn.hackernoon.com/drafts/10402b5i.png)
+As soon as the World Health Organization declared Corona Virus to be a global pandemic, there was an immense quick heat fired up around the globe, with people being highly concerned about their survival amidst these hard times. People actually started to stock up for months, according to CNN, grocery stores ran out of the daily use products, and basically, it was all depicting the scenario of the end of times. 
 
-### [263. I Asked 100 People What They Learned From Lockdown: Here's What They Said](https://hackernoon.com/i-asked-100-people-what-they-learned-from-lockdown-heres-what-they-said-1i2835yc)
+### [256. A Timely Reminder Not To Take Ourselves Too Seriously](https://hackernoon.com/literally-just-abusing-my-editorial-authority-to-post-a-video-everyone-should-watch-again-u24l3u78)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-jcd3u3s.jpeg?alt=media&token=ac4df5c7-e4fe-4a48-8f7f-f91f79fca4f3)
+But also, I genuinely believe—as we all reach peak isolation-fatigue, and move back into more familiar living and working routines—this clip contains an important message:
+
+### [257. Reopening the Economy: Only the Paranoid Survive](https://hackernoon.com/reopening-the-economy-only-the-paranoid-survive-2w683yk1)
+![](drafts/aio23ynb.png)
+The great lock down has helped to slow the spread of Covid-19. But it also came at a great cost to the global economy. Unlike a recession, many nonessential businesses have been closed with no clear timetable to reopen. The initial jobless claims in the US have swelled to more than 26 million since mid-March. While we see some glimmers of hope, we are not out of the woods yet. Businesses are anxious to reopen but we are also concerned with the health risks associated with it. The dilemma is if we reopen too quickly, we might risk triggering a second wave of Coronavirus which could be even worse.
+
+### [258. How Recession May Impact The Tech Hiring](https://hackernoon.com/how-recession-may-impact-the-tech-hiring-lj653vlc)
+![](https://images.unsplash.com/photo-1487528278747-ba99ed528ebc?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+As recession fears continue to mount, recruiters are preparing to face hiring conditions not experienced in over a decade.
+
+### [259. Can Your Smartpones Actually Help in Early COVID-19 Detection?](https://hackernoon.com/can-your-smartpones-actually-help-in-early-covid-19-detection-aa5r3y6b)
+![](https://images.unsplash.com/photo-1527335480088-278dbeec0ad5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Our smartphones have already played an important role in this virus pandemic. Whether in defining your location’s degree of contagion or providing data on your movements to help assess the threat of infection - smartphones do come to the rescue.
+
+### [260. Face Masks: The Key to Flattening the Curve for COVID-19 [Infographic]](https://hackernoon.com/face-masks-the-key-to-flattening-the-curve-for-covid-19-5z1h327l)
+![](https://cdn.hackernoon.com/drafts/b5893y7v.png)
+Wearing a face mask has recently become a norm for people across the country as the CDC has resolved that all Americans should wear a face covering when in public to slow the spread. The WHO recommends wearing a face mask if either you are caring for a person that is suspected of having COVID-19 or you yourself are sneezing, coughing, or sick. The WHO also stresses that face masks are only effective if you use them properly, and are not a replacement for frequent handwashing or hand sanitizing. The CDC advises wearing a face mask in a public setting where social distancing is impractical or in areas where transmission can easily happen. The CDC stresses that face masks do not replace other social distancing measures and should be made at home or made of cloth, rather than surgical masks or N95 masks.
+
+### [261. 8 Steps for Crisis Management Plan](https://hackernoon.com/8-steps-for-crisis-management-plan-ia8k3yfg)
+![](https://cdn.hackernoon.com/drafts/ucu3yim.png)
+In the nearest future, worldwide economies will face one of the most powerful financial crises since 2008. There are a lot of reasons for it, but the root cause is coronavirus covid-19.
+
+### [262. I Asked 100 People What They Learned From Lockdown: Here's What They Said](https://hackernoon.com/i-asked-100-people-what-they-learned-from-lockdown-heres-what-they-said-1i2835yc)
 ![](https://cdn.hackernoon.com/images/m1JWnUaHzSX3LPHoHfOainoiYvq2-rfg3fug.jpeg)
 I asked 100 people on reddit what fundamental lessons they learned  as a result of quarantine, hopefully you can get some insight on how other people have been
+
+### [263. Tech VS Human Capital: Chinese and Western Approaches to COVID-19](https://hackernoon.com/tech-vs-human-capital-chinese-and-western-approaches-to-covid-19-mj1e3w0f)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fr3bY0WDRZhNnfrUdRGvlKILXiEI2-whc32qf.jpeg?alt=media&token=ed5003a0-7363-4c06-b3b9-b6f697bb56a5)
+Countries around the world have taken different measures to slow down or stop the spread of the virus. While China, South Korea, and Taiwan quickly dove into AI-powered screening and tracking, western democracies took a more human-driven direction. Almost ten months after the WHO declared the pandemic a global emergency, has one approach proven better than the other?
 
 ### [264. Let's Watch Dogs Sniff Out COVID in Finland and Imagine Our Future ](https://hackernoon.com/lets-watch-dogs-sniff-out-covid-in-finland-and-imagine-our-future-di9h311g)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-juj25n7.jpeg)
 Researchers are trying to test whether dogs can detect saliva samples from COVID-19-infected patients in a recent study. The results are positive.
 
-### [265. COVID-19 State of Work: How is everyone coping with sudden remoteness? 🤔](https://hackernoon.com/covid-19-state-of-work-how-is-everyone-coping-with-sudden-remoteness-hss3ul2)
-![](https://cdn.hackernoon.com/images/foen3y82.jpg)
-I am sure you would have thought to yourself, "How has COVID-19 impacted our lives?" Particularly, just like me, you would be curious to know the impact on our work-life.
-
-### [266. Fighting Coronavirus: Singapore Tests a Disinfection Robot That Capable of Cleaning Large Areas](https://hackernoon.com/fighting-coronavirus-singapore-tests-a-disinfection-robot-that-capable-of-cleaning-large-areas-8p793yrk)
+### [265. Fighting Coronavirus: Singapore Tests a Disinfection Robot That Capable of Cleaning Large Areas](https://hackernoon.com/fighting-coronavirus-singapore-tests-a-disinfection-robot-that-capable-of-cleaning-large-areas-8p793yrk)
 ![](https://cdn.hackernoon.com/drafts/xbxb3yvu.png)
 Scientists in Singapore have invented a disinfecting robot that imitates human gestures to help cleaning staff overwhelmed since the start of the coronavirus crisis. The "XDBOT" is a rectangular box-shaped robot mounted on wheels and armed with an articulated arm which can be operated remotely. He can reach places that are difficult to clean with great dexterity, such as the space under beds or tables.
 
-### [267. 5 Tips To Make Work from Home Productive](https://hackernoon.com/5-tips-to-make-work-from-home-productive-hl7l32eu)
+### [266. 5 Tips To Make Work from Home Productive](https://hackernoon.com/5-tips-to-make-work-from-home-productive-hl7l32eu)
 ![](https://cdn.hackernoon.com/drafts/b2q3yuz.png)
 2020 is a year of unprecedented things. COVID-19 (coronavirus) has already infected more than 2 million people worldwide and it is not slowing down. Because of the mandatory quarantine and social distancing, many people are working from home for the first time in their lives. 
 
-### [268. What COVID-19 Means for the Future of Work From Home](https://hackernoon.com/what-covid-19-means-for-the-future-of-work-from-home-5a3n3yi0)
-![](https://cdn.hackernoon.com/drafts/ys2p3yjz.png)
-The worldwide lockdown following the coronavirus pandemic was truly a time for remote work to shine if there ever was one. With most of the globe’s workforce being stranded in their homes and away from the office, the only solution for most was to move their labor to the remote setting.
+### [267. COVID-19 State of Work: How is everyone coping with sudden remoteness? 🤔](https://hackernoon.com/covid-19-state-of-work-how-is-everyone-coping-with-sudden-remoteness-hss3ul2)
+![](https://cdn.hackernoon.com/images/foen3y82.jpg)
+I am sure you would have thought to yourself, "How has COVID-19 impacted our lives?" Particularly, just like me, you would be curious to know the impact on our work-life.
 
-### [269. How COVID-19 Has Impacted Media Consumption by Generation](https://hackernoon.com/how-covid-19-has-impacted-media-consumption-by-generation-gc31321z)
+### [268. How COVID-19 Has Impacted Media Consumption by Generation](https://hackernoon.com/how-covid-19-has-impacted-media-consumption-by-generation-gc31321z)
 ![](https://cdn.hackernoon.com/images/pc3j1GAWRagyVJ1k5IqIj3o32Pj2-ft93m3n.jpeg)
 Due to the frenzy of pandemic-included quarantines, it’s no surprise that media consumption has seen a massive increase. People’s time that would have otherwise been spent perusing malls or going to live events, is now being spent on the sofa.
 
-### [270. Improving Outcomes while Protecting Privacy During COVID-19: Contact Tracing Apps ](https://hackernoon.com/improving-outcomes-while-protecting-privacy-during-covid-19-contact-tracing-apps-fc9232j7)
-![](https://cdn.hackernoon.com/images/XR52Ex1spjWq2OeI8sWmSCn7kQ52-q093ws8.jpeg)
-In recent weeks my colleagues at CriticalBlue/Approov have been following the race to build contact tracing smartphone apps in the worldwide fight against COVID-19. Such apps are a powerful weapon in controlling the growth of infection by automating the scaling of the contact tracing process. 
+### [269. What COVID-19 Means for the Future of Work From Home](https://hackernoon.com/what-covid-19-means-for-the-future-of-work-from-home-5a3n3yi0)
+![](https://cdn.hackernoon.com/drafts/ys2p3yjz.png)
+The worldwide lockdown following the coronavirus pandemic was truly a time for remote work to shine if there ever was one. With most of the globe’s workforce being stranded in their homes and away from the office, the only solution for most was to move their labor to the remote setting.
 
-### [271. Work From Home 101](https://hackernoon.com/work-from-home-101-of8d3vss)
-![](https://cdn.hackernoon.com/drafts/ub7c3ywa.png)
-Last year I broke my meniscus and had surgery. As a result, I cried a lot and worked from home for 3 months. It’s safe to say that nothing about this lockdown has surprised me, not even the part of not being able to leave the house. When life gives you lemons, write a Medium article, right? This are a few things that a picked along the way, and had actually worked great for me.
-
-### [272. How to Process Pandemics Data from WHO.int](https://hackernoon.com/how-to-process-covid-19-data-from-whoint-dj1v3uw5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fd3qk0hxJgjhef6b7702LeYwLmbA3-d6aw3ud3.png?alt=media&token=270c57ed-c3f4-46fe-8c31-266e3667f269)
-This article and the repo referenced here is intended to help Data Scientists and data processing professionals to handle and manage data related to the COVID-19 disease outbreak. I hope this information helps researchers to find new ways of analysis to defeat the COVID-10 disease outbreak, as well as empower them to solve more complex math calc using less time.
-
-### [273. Is COVID-19 Turning Into A War On Privacy?](https://hackernoon.com/is-covid-19-turning-into-a-war-on-privacy-9n4q3ve2)
-![](https://cdn.hackernoon.com/images/39n3ye2.jpg)
-The old axiom that one should never waste a good crisis, appears to be the driving force behind one of Big-Tech's biggest rivalries seen in Google and Apple that are now working together in an unorthodox partnership to create the ultimate privacy buster -  a coronavirus tracking app.
-
-### [274. COVID-19 Pandemic Is Causing The Demand For On-Demand Apps To Skyrocket](https://hackernoon.com/covid-19-pandemic-is-causing-the-demand-for-on-demand-apps-to-skyrocket-ov6y320f)
+### [270. COVID-19 Pandemic Is Causing The Demand For On-Demand Apps To Skyrocket](https://hackernoon.com/covid-19-pandemic-is-causing-the-demand-for-on-demand-apps-to-skyrocket-ov6y320f)
 ![](https://cdn.hackernoon.com/images/mki3y92.jpg)
 The world is under a complete lockdown ever since the Corona pandemic outbreak. There are thousands of new cases reported every day, and the death rate in all the affected countries is increasing. Doctors and other health experts are toiling hard to bring the situation under their control. Since there is no medicinal cure for it yet, they are finding it hard to help the infected people. Around 176 countries in the world are facing this crisis at present. People are advised to:
 
-### [275. How COVID-19 Is Changing The Way We Deliver Software In Brazil [Analysis]](https://hackernoon.com/how-covid-19-is-changing-the-way-we-deliver-software-in-brazil-analysis-w9bp3yge)
+### [271. Improving Outcomes while Protecting Privacy During COVID-19: Contact Tracing Apps ](https://hackernoon.com/improving-outcomes-while-protecting-privacy-during-covid-19-contact-tracing-apps-fc9232j7)
+![](https://cdn.hackernoon.com/images/XR52Ex1spjWq2OeI8sWmSCn7kQ52-q093ws8.jpeg)
+In recent weeks my colleagues at CriticalBlue/Approov have been following the race to build contact tracing smartphone apps in the worldwide fight against COVID-19. Such apps are a powerful weapon in controlling the growth of infection by automating the scaling of the contact tracing process. 
+
+### [272. How COVID-19 Is Changing The Way We Deliver Software In Brazil [Analysis]](https://hackernoon.com/how-covid-19-is-changing-the-way-we-deliver-software-in-brazil-analysis-w9bp3yge)
 ![](https://cdn.hackernoon.com/images/r9o3yfb.jpg)
 At SourceLevel, we're in a privileged spot to gather some data on how software engineering teams are dealing with COVID-19, home office, social distancing, and so on.
+
+### [273. How to Process Pandemics Data from WHO.int](https://hackernoon.com/how-to-process-covid-19-data-from-whoint-dj1v3uw5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fd3qk0hxJgjhef6b7702LeYwLmbA3-d6aw3ud3.png?alt=media&token=270c57ed-c3f4-46fe-8c31-266e3667f269)
+This article and the repo referenced here is intended to help Data Scientists and data processing professionals to handle and manage data related to the COVID-19 disease outbreak. I hope this information helps researchers to find new ways of analysis to defeat the COVID-10 disease outbreak, as well as empower them to solve more complex math calc using less time.
+
+### [274. Work From Home 101](https://hackernoon.com/work-from-home-101-of8d3vss)
+![](https://cdn.hackernoon.com/drafts/ub7c3ywa.png)
+Last year I broke my meniscus and had surgery. As a result, I cried a lot and worked from home for 3 months. It’s safe to say that nothing about this lockdown has surprised me, not even the part of not being able to leave the house. When life gives you lemons, write a Medium article, right? This are a few things that a picked along the way, and had actually worked great for me.
+
+### [275. Is COVID-19 Turning Into A War On Privacy?](https://hackernoon.com/is-covid-19-turning-into-a-war-on-privacy-9n4q3ve2)
+![](https://cdn.hackernoon.com/images/39n3ye2.jpg)
+The old axiom that one should never waste a good crisis, appears to be the driving force behind one of Big-Tech's biggest rivalries seen in Google and Apple that are now working together in an unorthodox partnership to create the ultimate privacy buster -  a coronavirus tracking app.
 
 ### [276. A Digital Dollar Should Not Be a Knee-Jerk Response to a Crisis](https://hackernoon.com/a-digital-dollar-should-not-be-a-knee-jerk-response-to-a-crisis-xdcn309v)
 ![](https://cdn.hackernoon.com/drafts/tzi306c.png)
@@ -1151,42 +1153,42 @@ Can Kanye West help the Gap dig itself out of deep hole?
 ![](https://cdn.hackernoon.com/images/ftPZRCtvMhXxqOnL3eNGXNTDVHt1-rgc3wz6.jpeg)
 Reopening businesses after a public health crisis is a complex process that requires a consistent strategy to minimize all possible risks. Contrary to popular belief, it does not amount to disinfection and masks wearing and includes measures like monitoring and data analysis. The following article is an overview of disinfection tunnels and their implications for reopening businesses.
 
-### [283. Post COVID-19: Are We Moving Into A Touchless World?](https://hackernoon.com/post-covid-19-are-we-moving-into-a-touchless-world-hrw3exx)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7VKGhN9WI3PvPAtnBswSforogTU2-e0203tvh.jpeg?alt=media&token=38cd4c94-9115-4154-b8c9-bbe556aef059)
-Perhaps dating back to the beginning of humankind, we have reached out to touch someone. Not just one of the best advertising slogans of modern history, handshakes, hugs, and kisses are ways we touch someone to convey welcome, partnership, love, friendship, empathy, acceptance, and countless other emotions with acquaintances and loved ones. With the threat of virus transmissions now at the forefront of people’s minds, is there a place for the human touch in our future?
+### [283. Fighting Procrastination One Tool at a Time During WFH](https://hackernoon.com/fighting-procrastination-one-tool-at-a-time-during-wfh-2y2n32zo)
+![](https://cdn.hackernoon.com/drafts/rk913yry.png)
+We’ve found ourselves living in somewhat unfamiliar times. Coronavirus has pushed many of us into working from home, whether we’re capable of facilitating WFH work or not. 
 
-### [284. Five Industries That Could See An Influx of Robots](https://hackernoon.com/five-industries-that-could-see-an-influx-of-robots-10ao32u6)
-![](https://images.unsplash.com/photo-1579566346927-c68383817a25?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-The year is 2020, and everyone is excited about the unpredictability of its rollercoaster ride. We are all strapped in and are ready to go, but there are still some vacant seats. The rollercoaster refuses to set sail unless all seats are with occupants. We do not understand this seer nature of 2020 and why it is bringing these new terms and conditions into play. We, however, have some candidates in mind to occupy the vacant seats. Their inevitable existence has been in the shadow of our minds for some time. But now its time to let these cousins of ours into the fold. Enter the robots, and the 2020 rollercoaster ride commences. We as humans, however, insist that we captain the ship and must decide on which route the year should sail since we have more experience.
-
-### [285. 7 Virtual Conferences to Help You Grow Your Business During COVID-19](https://hackernoon.com/7-virtual-conferences-to-help-you-grow-your-business-during-covid-19-mg3n32q1)
-![](https://cdn.hackernoon.com/images/q24w3ya7.jpg)
-In recent times, we were able to witness a lot of big events canceled due to uncertainty. This led many business leaders and professionals to lose their networking opportunities. Networking is the key to build relationships with business leaders. 
-
-### [286. Will Coronavirus Break the Internet?](https://hackernoon.com/will-coronavirus-break-the-internet-1t24329e)
-![](https://cdn.hackernoon.com/images/da4h3yab.jpg)
-More than two thirds of the U.S. population is now stuck at home as more states are creating new restrictions to try to slow the spread of COVID-19. The internet is now being used more than ever as millions are turning to it as an alternative source of social connection, work, and entertainment. In Seattle, one of the cities in the U.S. that was hardest hit by the virus, internet traffic quickly began to rise - from January to March it has risen by an astounding 30%. Other U.S. ISPs are noticing huge spikes in WiFi calling, online gaming, and VPN usage across the country. With a huge number of increased active users, governments and companies alike are making moves to help Americans stay online. One of these steps is the FCC’s Keep Americans Connected pledge that over 70 telecom companies have signed stating that these companies will waive late fees and retain service even with lack of payment. Other companies are making public WiFi networks for students and remote workers. Comcast is setting up public hotspots for free use, Comcast and Spectrum are both offering 2 free months of access to low-income families, and AT&T is suspending broadband usage caps.
-
-### [287. How Robots Will Help Humans in a Post-Pandemic World](https://hackernoon.com/how-robots-will-help-humans-in-a-post-pandemic-world-ew4b3t0o)
+### [284. How Robots Will Help Humans in a Post-Pandemic World](https://hackernoon.com/how-robots-will-help-humans-in-a-post-pandemic-world-ew4b3t0o)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFIuX73y4wGMMcUCWFef8HiDuhTg2-pg404xxy.jpeg?alt=media&token=059e3c07-b0d3-4e34-904e-b23adf2ad404)
 Bet you’ve never heard this one ― the world will never be the same after the pandemic. Among the many negative things it puts us through, there are at least some that advance us towards more automation in our everyday life. Most businesses and government facilities are going digital; there are no lines in the buildings, no unnecessary contact with people, even the amount of paperwork has shrunk. A lot of these tasks are being carried out at least in part with technologies, and today we’ll take a look at the most efficient implementations of service robots, which more than likely are here to stay.
 
-### [288. How Founders Can Adapt to the New Normal ](https://hackernoon.com/how-founders-can-adapt-to-the-new-normal-qc5t32b1)
-![](https://cdn.hackernoon.com/drafts/s4n3y33.png)
-The ongoing pandemic has impacted not only our lives but also the global economy. COVID-19 will stay with us for months to come and it is unlikely that our world will ever look the same. This is the time to adapt.
+### [285. Post COVID-19: Are We Moving Into A Touchless World?](https://hackernoon.com/post-covid-19-are-we-moving-into-a-touchless-world-hrw3exx)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7VKGhN9WI3PvPAtnBswSforogTU2-e0203tvh.jpeg?alt=media&token=38cd4c94-9115-4154-b8c9-bbe556aef059)
+Perhaps dating back to the beginning of humankind, we have reached out to touch someone. Not just one of the best advertising slogans of modern history, handshakes, hugs, and kisses are ways we touch someone to convey welcome, partnership, love, friendship, empathy, acceptance, and countless other emotions with acquaintances and loved ones. With the threat of virus transmissions now at the forefront of people’s minds, is there a place for the human touch in our future?
 
-### [289. Fighting Procrastination One Tool at a Time During WFH](https://hackernoon.com/fighting-procrastination-one-tool-at-a-time-during-wfh-2y2n32zo)
-![](https://cdn.hackernoon.com/drafts/rk913yry.png)
-We’ve found ourselves living in somewhat unfamiliar times. Coronavirus has pushed many of us into working from home, whether we’re capable of facilitating WFH work or not. 
+### [286. Five Industries That Could See An Influx of Robots](https://hackernoon.com/five-industries-that-could-see-an-influx-of-robots-10ao32u6)
+![](https://images.unsplash.com/photo-1579566346927-c68383817a25?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+The year is 2020, and everyone is excited about the unpredictability of its rollercoaster ride. We are all strapped in and are ready to go, but there are still some vacant seats. The rollercoaster refuses to set sail unless all seats are with occupants. We do not understand this seer nature of 2020 and why it is bringing these new terms and conditions into play. We, however, have some candidates in mind to occupy the vacant seats. Their inevitable existence has been in the shadow of our minds for some time. But now its time to let these cousins of ours into the fold. Enter the robots, and the 2020 rollercoaster ride commences. We as humans, however, insist that we captain the ship and must decide on which route the year should sail since we have more experience.
+
+### [287. 7 Virtual Conferences to Help You Grow Your Business During COVID-19](https://hackernoon.com/7-virtual-conferences-to-help-you-grow-your-business-during-covid-19-mg3n32q1)
+![](https://cdn.hackernoon.com/images/q24w3ya7.jpg)
+In recent times, we were able to witness a lot of big events canceled due to uncertainty. This led many business leaders and professionals to lose their networking opportunities. Networking is the key to build relationships with business leaders. 
+
+### [288. Will Coronavirus Break the Internet?](https://hackernoon.com/will-coronavirus-break-the-internet-1t24329e)
+![](https://cdn.hackernoon.com/images/da4h3yab.jpg)
+More than two thirds of the U.S. population is now stuck at home as more states are creating new restrictions to try to slow the spread of COVID-19. The internet is now being used more than ever as millions are turning to it as an alternative source of social connection, work, and entertainment. In Seattle, one of the cities in the U.S. that was hardest hit by the virus, internet traffic quickly began to rise - from January to March it has risen by an astounding 30%. Other U.S. ISPs are noticing huge spikes in WiFi calling, online gaming, and VPN usage across the country. With a huge number of increased active users, governments and companies alike are making moves to help Americans stay online. One of these steps is the FCC’s Keep Americans Connected pledge that over 70 telecom companies have signed stating that these companies will waive late fees and retain service even with lack of payment. Other companies are making public WiFi networks for students and remote workers. Comcast is setting up public hotspots for free use, Comcast and Spectrum are both offering 2 free months of access to low-income families, and AT&T is suspending broadband usage caps.
+
+### [289. How Can I Be Productive When Working From Home?](https://hackernoon.com/how-can-i-be-productive-when-working-from-home-nqa33yic)
+![](https://cdn.hackernoon.com/images/5l17e2gaz.jpg)
+21 Productivity Ideas When Working From Home
+
 
 ### [290. Coronavirus Ushered in the Work-From-Home era, and It’s Here to Stay](https://hackernoon.com/coronavirus-ushered-in-the-work-from-home-era-and-its-here-to-stay-pt3u32sl)
 ![](https://cdn.hackernoon.com/drafts/vrdo2b6p.png)
 A work revolution has been a long time coming, but who would have thought it would take a pandemic to finally usher it in. 
 
-### [291. How Can I Be Productive When Working From Home?](https://hackernoon.com/how-can-i-be-productive-when-working-from-home-nqa33yic)
-![](https://cdn.hackernoon.com/images/5l17e2gaz.jpg)
-21 Productivity Ideas When Working From Home
-
+### [291. How Founders Can Adapt to the New Normal ](https://hackernoon.com/how-founders-can-adapt-to-the-new-normal-qc5t32b1)
+![](https://cdn.hackernoon.com/drafts/s4n3y33.png)
+The ongoing pandemic has impacted not only our lives but also the global economy. COVID-19 will stay with us for months to come and it is unlikely that our world will ever look the same. This is the time to adapt.
 
 ### [292. Let Data Shed Some Light in the Midst of COVID-19](https://hackernoon.com/let-data-shed-some-light-in-the-midst-of-covid-19-k31f326l)
 ![](https://cdn.hackernoon.com/drafts/hho3ycy.png)
@@ -1204,192 +1206,192 @@ Humanity faced pandemics previously. One can recall the Spanish flu epidemic tha
 ![](https://cdn.hackernoon.com/images/3v353ys8.jpg)
 It's currently coronavirus vs. the world, with cases popping up on nearly every continent. While the virus is having drastic effects on our daily habits, it also comes with a heavy impact on the job market.
 
-### [296. The Great Lockdown 2020: Worst Recession Since the Great Depression?](https://hackernoon.com/the-great-lockdown-2020-worst-recession-since-the-great-depression-9tat3ybg)
-![](https://cdn.hackernoon.com/drafts/n59u39f1.png)
-
+### [296. 5 Streaming Apps and Resources to Help You Learn](https://hackernoon.com/5-streaming-apps-and-resources-to-help-you-learn-wmaw3y9b)
+![](https://cdn.hackernoon.com/images/1256t3yib.jpg)
+If you've found yourself binging an embarrassing amount of shows and movies on Netflix, Hulu and Amazon Prime in the past few weeks, you may want to consider dedicating some time to stream learning. Streaming learning programs, classes and webinars can give you some "brain exercise" during a time when we must social distance and inherently increase screen time. 
 
 ### [297. Aarogya Setu: How India’s Contact Tracing Tech Works? And How It Endangers Fundamental Rights](https://hackernoon.com/aarogya-setu-how-indias-contact-tracing-tech-works-and-how-it-endangers-fundamental-rights-q32v3zag)
 ![](https://cdn.hackernoon.com/drafts/uc1i3ytd.png)
 Amid nation-wide lockdown, the Government of India released their contact tracing app, Aarogya Setu.
 
-### [298. Why WFH Could Spell The End of Motoring as We Know it](https://hackernoon.com/why-wfh-could-spell-the-end-of-motoring-as-we-know-it-qax3wkv)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAyspbPX32fhvPLqUsbsDvTB6IVg2-q3183wmu.jpeg?alt=media&token=8ac02e15-a60f-4e39-af5c-9741dbfad71c)
-Covid-19 has thrown us into an era of great uncertainty. Every industry has been impacted by the devastating pandemic in some way or another, and there’s no sign of a return to normal life in the pipeline any time soon. 
+### [298. The Great Lockdown 2020: Worst Recession Since the Great Depression?](https://hackernoon.com/the-great-lockdown-2020-worst-recession-since-the-great-depression-9tat3ybg)
+![](https://cdn.hackernoon.com/drafts/n59u39f1.png)
 
-### [299. How New Tech Will Help Avoid Delivery Delays This Holiday Season](https://hackernoon.com/how-new-tech-will-help-avoid-delivery-delays-this-holiday-season-8f4c3tdj)
+
+### [299. How to Keep Your Immune System Strong During COVID-19](https://hackernoon.com/how-to-keep-your-immune-system-strong-during-covid-19-0g2c3yo9)
+![](https://cdn.hackernoon.com/images/c8l3yiu.jpg)
+With the outbreak of COVID-19, staying healthy and keeping your immune system in tip-top shape has become more important than ever. The immune system is the body’s natural response to disease and infection and consists of a number of cells and organs that work together to fight a variety of intruders, such as bacteria, viruses, parasites, and more. COVID-19 is especially dangerous, as compared to a previously existing virus such as the flu, because it is new. Because it is new, no one has been previously exposed, meaning they aren’t already immune to it and are still at risk, regardless of overall health. When exposed to antigens, which is a foreign object that causes a response from the immune system, there is normally a barrier between the antigen and your body. These antigens can be found nearly everywhere, ranging from public spaces, to inside your home, in the great outdoors, and more. In the case where  an antigen does enter the body, the immune system sends white blood cells to destroy the antigen before it can get worse and reproduce. 
+
+### [300. How New Tech Will Help Avoid Delivery Delays This Holiday Season](https://hackernoon.com/how-new-tech-will-help-avoid-delivery-delays-this-holiday-season-8f4c3tdj)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRwQ8g2oLuscmu819HH7r8U0T0Yw2-ro63txi.jpeg?alt=media&token=fa8595a3-bc60-42b5-8536-b993c6d42f96)
 If every cloud has a silver lining, eCommerce has found one in COVID-19. Due to the fear over risks of infection, consumers, in general, are avoiding in-person shopping in brick-and-mortar stores and choosing to shop online instead. In the first eight months of 2020, online sales generated $497 billion in revenue. Adobe estimates that COVID-19 has lifted eCommerce sales by $107 billion since March. 
 
-### [300. 5 Tips to Successfully Transit to Remote Working during Coronavirus-and Beyond](https://hackernoon.com/5-tips-to-successfully-transit-to-remote-working-during-coronavirus-and-beyond-h73724js)
+### [301. COVID-19: An Alarming but Ideal Time for Real Corporate Leadership ](https://hackernoon.com/covid-19-an-alarming-but-ideal-time-for-real-corporate-leadership-81of3yrt)
+![](https://cdn.hackernoon.com/drafts/d6me32q3.png)
+Many leaders of corporations and entrepreneurs know that a leadership blog from their personal POV is a useful way to build a brand’s relationship with its audience. But in a time of crisis, having a leadership blog takes on a new level of importance -- one that you should consider.
+
+### [302. Why WFH Could Spell The End of Motoring as We Know it](https://hackernoon.com/why-wfh-could-spell-the-end-of-motoring-as-we-know-it-qax3wkv)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAyspbPX32fhvPLqUsbsDvTB6IVg2-q3183wmu.jpeg?alt=media&token=8ac02e15-a60f-4e39-af5c-9741dbfad71c)
+Covid-19 has thrown us into an era of great uncertainty. Every industry has been impacted by the devastating pandemic in some way or another, and there’s no sign of a return to normal life in the pipeline any time soon. 
+
+### [303. 5 Tips to Successfully Transit to Remote Working during Coronavirus-and Beyond](https://hackernoon.com/5-tips-to-successfully-transit-to-remote-working-during-coronavirus-and-beyond-h73724js)
 ![](https://cdn.hackernoon.com/drafts/6ko2y6s.png)
 It has been four months since Coronavirus originated in China's
 Wuhan and the outbreak continues to be on the headlines. On one hand, many employers are getting ready for the possible disruptions that Coronavirus would bring to their business in the long run, such as transportation issues, labor shortages, reduced working hours and low consumer traffic. 
 
-### [301. How COVID-19 Showed Us We Don't Need New Smartphones Every Single Year](https://hackernoon.com/how-covid-19-showed-us-we-dont-need-new-smartphones-every-single-year-ca373yw1)
+### [304. How COVID-19 Showed Us We Don't Need New Smartphones Every Single Year](https://hackernoon.com/how-covid-19-showed-us-we-dont-need-new-smartphones-every-single-year-ca373yw1)
 ![](https://cdn.hackernoon.com/images/sf8n63y2k.jpg)
 The year 2020 has started off quite roughly: the new COVID-19 virus, already dubbed as a pandemic by the World Health Organization, spread across the world quite rapidly, already infecting hundreds of thousands and killing tens of thousands of people.
 
-### [302. Covid-19's Silver Lining for Digital Content Marketers ](https://hackernoon.com/covid-19s-silver-lining-for-digital-content-marketers-kl2bs3y2z)
+### [305. Covid-19's Silver Lining for Digital Content Marketers ](https://hackernoon.com/covid-19s-silver-lining-for-digital-content-marketers-kl2bs3y2z)
 ![](https://cdn.hackernoon.com/images/5u2713yin.jpg)
 The Coronavirus Pandemic is not an opportunity, I know. But I personally believe in looking for the "better" sides, even in the worst-case scenarios (Thanks in large part to The Alchemist Quotes, I guess.)
 
-### [303. 5 Streaming Apps and Resources to Help You Learn](https://hackernoon.com/5-streaming-apps-and-resources-to-help-you-learn-wmaw3y9b)
-![](https://cdn.hackernoon.com/images/1256t3yib.jpg)
-If you've found yourself binging an embarrassing amount of shows and movies on Netflix, Hulu and Amazon Prime in the past few weeks, you may want to consider dedicating some time to stream learning. Streaming learning programs, classes and webinars can give you some "brain exercise" during a time when we must social distance and inherently increase screen time. 
-
-### [304. COVID-19: An Alarming but Ideal Time for Real Corporate Leadership ](https://hackernoon.com/covid-19-an-alarming-but-ideal-time-for-real-corporate-leadership-81of3yrt)
-![](https://cdn.hackernoon.com/drafts/d6me32q3.png)
-Many leaders of corporations and entrepreneurs know that a leadership blog from their personal POV is a useful way to build a brand’s relationship with its audience. But in a time of crisis, having a leadership blog takes on a new level of importance -- one that you should consider.
-
-### [305. An In-Depth Look at Coronavirus, Bitcoin, & the 2008 Housing Bubble](https://hackernoon.com/an-in-depth-look-at-coronavirus-bitcoin-and-the-2008-housing-bubble-3o1k37x2)
+### [306. An In-Depth Look at Coronavirus, Bitcoin, & the 2008 Housing Bubble](https://hackernoon.com/an-in-depth-look-at-coronavirus-bitcoin-and-the-2008-housing-bubble-3o1k37x2)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-n8k35ud.jpeg)
 What do a McMansion buying spree, a pandemic, and a cryptocurrency have in common? It may be surprising but these three things have a lot of stuff in common 
 
-### [306. How Can Hacker Noon's "COVID-20+" Rule Make The World A Better Place In 2021](https://hackernoon.com/how-can-hacker-noons-covid-20-rule-make-the-world-a-better-place-in-2021-ep1t342r)
+### [307. How Can Hacker Noon's "COVID-20+" Rule Make The World A Better Place In 2021](https://hackernoon.com/how-can-hacker-noons-covid-20-rule-make-the-world-a-better-place-in-2021-ep1t342r)
 ![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-cb2131hn.jpeg)
 Do you honestly believe that when the clock strikes midnight tonight, 2020 will be gone for good?!
 
-### [307. How to Keep Your Immune System Strong During COVID-19](https://hackernoon.com/how-to-keep-your-immune-system-strong-during-covid-19-0g2c3yo9)
-![](https://cdn.hackernoon.com/images/c8l3yiu.jpg)
-With the outbreak of COVID-19, staying healthy and keeping your immune system in tip-top shape has become more important than ever. The immune system is the body’s natural response to disease and infection and consists of a number of cells and organs that work together to fight a variety of intruders, such as bacteria, viruses, parasites, and more. COVID-19 is especially dangerous, as compared to a previously existing virus such as the flu, because it is new. Because it is new, no one has been previously exposed, meaning they aren’t already immune to it and are still at risk, regardless of overall health. When exposed to antigens, which is a foreign object that causes a response from the immune system, there is normally a barrier between the antigen and your body. These antigens can be found nearly everywhere, ranging from public spaces, to inside your home, in the great outdoors, and more. In the case where  an antigen does enter the body, the immune system sends white blood cells to destroy the antigen before it can get worse and reproduce. 
-
-### [308. Three Things the Coronavirus Confirmed About Enterprise Security](https://hackernoon.com/three-things-the-coronavirus-confirmed-about-enterprise-security-bx9n32gm)
-![](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-With virtually every non-essential business forced to rely on new technology and embrace different ways of working, the coronavirus pandemic has presented organizations with numerous obstacles. While much attention has been paid to how companies can best navigate these challenges, it’s important that we also recognize another truth emerging from our new normal: enterprise security still leaves much to be desired.
-
-### [309. We Surveyed 365 People To Assess The Current State of Remote Work in the US](https://hackernoon.com/we-surveyed-365-people-to-assess-the-current-state-of-remote-work-in-the-us-e7q3yq7)
-![](https://cdn.hackernoon.com/images/wnwd3y3p.jpg)
-Most U.S. employees now work from home temporarily because of the COVID-19 pandemic. Employees say the top advantages of working remotely are no commute and a more flexible schedule, while the biggest challenges are lack of collaboration and frequent interruptions.
-
-### [310. IoT Can Help Control The COVID-19 Pandemic in 2021](https://hackernoon.com/iot-can-help-control-the-covid-19-pandemic-in-2021-584s31g3)
+### [308. IoT Can Help Control The COVID-19 Pandemic in 2021](https://hackernoon.com/iot-can-help-control-the-covid-19-pandemic-in-2021-584s31g3)
 ![](https://cdn.hackernoon.com/images/O6tLwSAnkuU9PuteuDKHcmH4Lbd2-r240412h.jpeg)
 The Internet of Things is a paradoxical technology: despite its simplicity, it can dramatically improve people’s daily lives and make businesses more profitable and less risky. Yet the majority of companies still hesitate when it comes to the implementation of IoT in business operations. 
 
-### [311. Gaming Industry Having a Boom During Pandemic: Will It Last?](https://hackernoon.com/gaming-industry-having-a-boom-during-pandemic-will-it-last-o51d3u4c)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F25FD7aJjvQXZmpBWsHFW5JYdjMt1-n8273uyv.jpeg?alt=media&token=73281583-e89f-4cdc-a357-92ea28714c1c)
-No matter where you look, the coronavirus has done grievous damage. It has disrupted the lives of millions of people in every way imaginable. It has also upended the global economy in a manner not seen since the Great Depression. At the time of this writing, millions are out of work, and companies are cutting costs in an effort to survive the crisis.
+### [309. Three Things the Coronavirus Confirmed About Enterprise Security](https://hackernoon.com/three-things-the-coronavirus-confirmed-about-enterprise-security-bx9n32gm)
+![](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+With virtually every non-essential business forced to rely on new technology and embrace different ways of working, the coronavirus pandemic has presented organizations with numerous obstacles. While much attention has been paid to how companies can best navigate these challenges, it’s important that we also recognize another truth emerging from our new normal: enterprise security still leaves much to be desired.
+
+### [310. We Surveyed 365 People To Assess The Current State of Remote Work in the US](https://hackernoon.com/we-surveyed-365-people-to-assess-the-current-state-of-remote-work-in-the-us-e7q3yq7)
+![](https://cdn.hackernoon.com/images/wnwd3y3p.jpg)
+Most U.S. employees now work from home temporarily because of the COVID-19 pandemic. Employees say the top advantages of working remotely are no commute and a more flexible schedule, while the biggest challenges are lack of collaboration and frequent interruptions.
+
+### [311. Can We Call Bitcoin a Safe Haven Asset?](https://hackernoon.com/can-we-call-bitcoin-a-safe-haven-asset-oy34325n)
+![](https://cdn.hackernoon.com/drafts/6u303yli.png)
+For the past several weeks we have watched markets crash and burn, well almost, it has been interesting to watch out for the reactions of the crypto commentators who have claimed in the past that bitcoin is a safe haven asset like gold.
 
 ### [312. Is Giving Up Your Office the Right Thing to Do During COVID-19?](https://hackernoon.com/is-giving-up-your-office-the-right-thing-to-do-during-covid-19-me1m3uaa)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxZ8wuhF27GXNmGpPwfGE1iNbXw02-4553uid.jpeg?alt=media&token=f161f536-bfb2-4986-864d-950c60760191)
 The novel coronavirus. COVID-19. Remote working is the new norm, get used to it. Digitalization is the only way to keep the lights on. Looming economic recession. — Yeah, you might be familiar with these phrases already. We all are. But the big question that’s on every digital business owner’s mind right now is, “Should I vacate my office and save on the lease now that my employees are working remotely?” The short answer to this question is, “It depends.” Here’s why.
 
 
-### [313. Life after the Pandemic: IT Outsourcing Trends in 2020](https://hackernoon.com/life-after-the-pandemic-it-outsourcing-trends-in-2020-4f273w2f)
-![](https://cdn.hackernoon.com/drafts/ux6o3h1b.png)
+### [313. Gaming Industry Having a Boom During Pandemic: Will It Last?](https://hackernoon.com/gaming-industry-having-a-boom-during-pandemic-will-it-last-o51d3u4c)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F25FD7aJjvQXZmpBWsHFW5JYdjMt1-n8273uyv.jpeg?alt=media&token=73281583-e89f-4cdc-a357-92ea28714c1c)
+No matter where you look, the coronavirus has done grievous damage. It has disrupted the lives of millions of people in every way imaginable. It has also upended the global economy in a manner not seen since the Great Depression. At the time of this writing, millions are out of work, and companies are cutting costs in an effort to survive the crisis.
 
-
-### [314. Remote Work in the Time of Coronavirus [feat. My Grandma]](https://hackernoon.com/remote-work-in-the-time-of-coronavirus-feat-my-grandma-cb6732mp)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-u682rkm.jpeg)
-I have two questions for you - Do you like good books? Of course, you do. One of these extraordinary good books served as an inspiration for this article's title. Yes, I'm obviously referring to Gabriel García Márquez and his heartbreaking novel - Love in the Time of Cholera.
-
-### [315. COVID-19: How to Set a Strong Recovery Strategy for Your Non-Profit](https://hackernoon.com/covid-19-how-to-set-a-strong-recovery-strategy-for-your-non-profit-z4el3wmb)
+### [314. COVID-19: How to Set a Strong Recovery Strategy for Your Non-Profit](https://hackernoon.com/covid-19-how-to-set-a-strong-recovery-strategy-for-your-non-profit-z4el3wmb)
 ![](https://images.unsplash.com/photo-1538688273852-e29027c0c176?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Across the globe, businesses are shutting their doors, laying off employees, and hunkering down financially in hopes of reemerging when the current pandemic eases. Unfortunately, it isn’t going to be easy, and many won’t make it. Non-profits are finding themselves in the same position. 
 
-### [316. Can We Call Bitcoin a Safe Haven Asset?](https://hackernoon.com/can-we-call-bitcoin-a-safe-haven-asset-oy34325n)
-![](https://cdn.hackernoon.com/drafts/6u303yli.png)
-For the past several weeks we have watched markets crash and burn, well almost, it has been interesting to watch out for the reactions of the crypto commentators who have claimed in the past that bitcoin is a safe haven asset like gold.
+### [315. Life after the Pandemic: IT Outsourcing Trends in 2020](https://hackernoon.com/life-after-the-pandemic-it-outsourcing-trends-in-2020-4f273w2f)
+![](https://cdn.hackernoon.com/drafts/ux6o3h1b.png)
 
-### [317. Bitcoin Is Emerging As The Only Pandemic-Resistant Currency in Our Globalized Economy](https://hackernoon.com/bitcoin-is-emerging-as-the-only-pandemic-resistant-currency-in-our-globalized-economy-sala32al)
-![](https://cdn.hackernoon.com/drafts/ky6w32za.png)
-There is an old saying in trading circles that goes “buy the rumour and sell the news”. As rumours of impending lockdowns and travel bans spread in late February, uncertainty was sowed in international financial markets. 
 
-### [318. Future of Work Post-Pandemic: What Will Our Days Look Like?](https://hackernoon.com/future-of-work-post-pandemic-what-will-our-days-look-like-163e3wmf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4T2cRqkD8sXXwYDVjXgZleE5BTo2-171m3tl2.jpeg?alt=media&token=4fcb070e-f373-4dfa-b33f-3903dc926791)
-The predictions of post-COVID future paint all sorts of wild images, from empty and sterile offices to work-from-home utopias. Without any in-depth analysis, it’s clear none of those extremes will come true. However, what’s also clear is that there will be an impact. In fact, some changes are already in motion, so a good way to be prepared for them is to recognize the ones that matter.
-
-### [319. One More Time For Those In The Back: Social Distancing Is The Solution](https://hackernoon.com/one-more-time-for-those-in-the-back-social-distancing-is-the-solution-o71153ypv)
-![](https://cdn.hackernoon.com/drafts/rv22k2ezv.png)
-Outbreaks like COVID-19 spread exponentially, and that's why social distancing is the key to flatten the curve. 
-
-### [320. COVID-19 Marketing: Between Smart and Insensitive](https://hackernoon.com/covid-19-marketing-between-smart-and-insensitive-ucs3eq0)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlbfKyoYYV0VgbZqjujFkkVKzTls1-8x1w3t9c.jpeg?alt=media&token=b1a7e7d3-34ae-4ea9-95ca-73ab23732101)
-Like other industries, the world of marketing has had to go through a paradigm shift in the era of COVID-19. Just as Zoom has become a household name when it hadn’t been prior, consumer patterns have shifted to adjust to the pandemic. Whether the industry likes it or not, changes in a company’s marketing dynamic are not only happening — they’re also affecting brand image and customer engagement.
-
-### [321. What to Consider When Building a Delivery App to Meet the Increased Demand From the Pandemic ](https://hackernoon.com/what-to-consider-when-building-a-delivery-app-to-meet-the-increased-demand-from-the-pandemic-mfiq32g1)
-![](https://cdn.hackernoon.com/drafts/ecd23ylj.png)
-The outbreak and the onslaught of the COVID-19 has changed the landscape for many businesses. There have been a few staggering revelations that might sound threatening, but for a business optimist, they present lucrative opportunities for new business models.
-
-### [322. Not All The Companies Are The Same](https://hackernoon.com/not-all-the-companies-are-the-same-115d3v4n)
+### [316. Not All The Companies Are The Same](https://hackernoon.com/not-all-the-companies-are-the-same-115d3v4n)
 ![](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 In the context of the coronavirus crisis, many companies began experiencing cash flow shortfalls. In order to avoid the liquidity problem, which eventually may turn into a solvency issue, businesses were forced to cut their operational costs. 
 
-### [323. Did Insurance Companies Benefit From COVID-19?](https://hackernoon.com/did-insurance-companies-benefit-from-covid-19-tx223gdc)
-![](https://cdn.hackernoon.com/images/QdWX77c6s5Skk99abuNLlG6AEZZ2-xqr3g8s.jpeg)
-Lewis Carroll – author of Alice's Adventures in Wonderland – once wrote, “every story has a moral you just need to be clever enough to find it.” The Covid-19 pandemic, for example, has taught us that things can always take an unexpected turn. The question then emerges, how can one protect against this kind of event? The answer is very simple – insurance.
+### [317. Remote Work in the Time of Coronavirus [feat. My Grandma]](https://hackernoon.com/remote-work-in-the-time-of-coronavirus-feat-my-grandma-cb6732mp)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-u682rkm.jpeg)
+I have two questions for you - Do you like good books? Of course, you do. One of these extraordinary good books served as an inspiration for this article's title. Yes, I'm obviously referring to Gabriel García Márquez and his heartbreaking novel - Love in the Time of Cholera.
 
-### [324. Where Will They Try Missouri vs. China? ](https://hackernoon.com/where-will-they-try-missouri-vs-china-ri5d32bf)
-![](https://cdn.hackernoon.com/images/tfbj2ejw.gif)
-ICYMI Missouri, the US state known for great BBQ, is suing China, the nation with 1.393 billion people.
-
-### [325. How Networks Are Coping With Coronavirus Over-Capacity](https://hackernoon.com/how-networks-are-coping-with-coronavirus-over-capacity-o4133us3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYACTGHRyNTaRgPZbpH4vuwh5HnM2-cpn25qo.jpeg?alt=media&token=2573853d-8718-4488-970d-6fd915296af2)
-The internet is now even more critical to the world thanks to shelter-in-place orders and government-mandated shutdowns. Coronavirus has shifted the focus of how many individuals get entertainment and perform work. Remote workers have increased exponentially over the past two months. Network World mentions that large tech corporations are scrambling to securely support a large volume of remote contractors. However, because so many people are using these networks, there's a genuine possibility of traffic overload. In this article, we'll look at how major ISPs are dealing with the massive influx of usage over the coronavirus epidemic.
-
-### [326. Guide on How To Eliminate COVID-19 News](https://hackernoon.com/guide-on-how-to-eliminate-covid-19-news-fi173ubf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-xjh3udc.gif?alt=media&token=46c5f8d9-7c71-49d3-8bec-08f44b1dedd8)
-According to the American press institute, the purpose of news and journalism is to provide citizens with the information they need to make the best possible decisions about their lives, their communities, their societies, and their governments. 
-
-### [327. How the Internet Could Evolve to Fight Fake News During the Corona Pandemic](https://hackernoon.com/how-the-internet-could-evolve-to-fight-fake-news-during-the-corona-pandemic-jacw32x1)
-![](https://cdn.hackernoon.com/drafts/pbs3yil.png)
-The Problem
-
-### [328. COVID19 Can Reach 1 Million Cases in 4 days : What Next?](https://hackernoon.com/covid19-can-reach-1-million-cases-in-4-days-what-next-onim3ytp)
-![](https://cdn.hackernoon.com/images/n37s32yd.jpg)
-By now almost every country has either had cases confirmed within their borders or has set some legal structure in place to battle the spread of the Corona Virus. The United States leads the world with the most cases, currently sitting at over 160K cases confirmed. My twitter feed is saturated with posts about this global pandemic. People are posting about their struggles, their joys, their opinions and occasionally about the facts. It seems this Virus is all that matters right now in the world. But I want to encourage you through this post — there is more to life.
-
-### [329. What is Contact Tracing and Will It Work?](https://hackernoon.com/what-is-contact-tracing-and-will-it-work-hc263yxv)
-![](https://cdn.hackernoon.com/images/pv6d3ye5.jpg)
-As COVID-19 continues to devastate communities around the world, governments’ initial reactions - which were mostly that of surprise and shock - have been replaced with sheer determination to fight off the novel coronavirus by any means possible. Contact tracing is the latest approach, though by no means is it a novel one. 
-
-### [330. Instagram Launches Co-Watching As Part Of Its Campaign Against COVID-19](https://hackernoon.com/instagram-launches-co-watching-as-part-of-its-campaign-against-covid-19-vn413yrf)
-![](https://cdn.hackernoon.com/images/em3t3ykn.jpg)
-Instagram has just launched a co-scroll feature to help you survive the quarantine. According to Tech Crunch, it is officially known as Co-Watching; the feature lets friends (or followers) on a video chat go through posts related to a user’s activity. Co-Watching allegedly allows people to react to social media content in groups of two or more; this would mean that the pastime would no longer be a solo hobby.
-
-### [331. Crypto weekly #5: How is the COVID-19 Pandemic Affecting Companies Worldwide?](https://hackernoon.com/crypto-weekly-5-how-is-the-covid-19-pandemic-affecting-companies-worldwide-do6v30tc)
-![](https://cdn.hackernoon.com/drafts/ze1002b98.png)
-Business owners are answering “How is the COVID-19 pandemic affecting your company?” Detailed answers below!
-
-### [332. Virtual Conferences: Innovating the Conference Industry for the Future](https://hackernoon.com/virtual-conferences-innovating-the-conference-industry-for-the-future-3k1y3vbq)
-![](https://cdn.hackernoon.com/images/85283v67.jpg)
-OK, so maybe we’re all growing a little tired of staring at our computer screens all day. But would you rather be going into an office every day and potentially contracting the coronavirus? What about business travel? If your boss asked you to go on a business trip to a conference that involved airfare and eating out at restaurants, would you be completely comfortable with that right now? Chances are we are constantly weighing the risks and rewards of things these days to make decisions that three months ago were no big deal. Until there’s a vaccine or a cure, chances are we aren’t going to feel totally comfortable getting “back to normal” just yet. Sp what will business start to look like as people get back to normal activities from a distance?
-
-### [333. How These Tech Solutions May Solve  Challenges That Online Teaching Facing](https://hackernoon.com/how-these-tech-solutions-may-solve-challenges-that-online-teaching-facing-zo8s3yg1)
-![](https://cdn.hackernoon.com/drafts/axhf3y9h.png)
-During these pandemic times, one of the biggest concerns for teachers is how they will continue to engage students and keep an eye on their progress from afar. 
-
-### [334. Apple, Microsoft, Alibaba and More Respond To Covd-19 Crisis](https://hackernoon.com/apple-microsoft-alibaba-and-more-respond-to-covd-19-crisis-bf833yo3)
+### [318. Apple, Microsoft, Alibaba and More Respond To Covd-19 Crisis](https://hackernoon.com/apple-microsoft-alibaba-and-more-respond-to-covd-19-crisis-bf833yo3)
 ![](https://cdn.hackernoon.com/drafts/j3da3y1b.png)
 Coronavirus took the world economy with a shock forcing businesses to close their operations amid the spread of the virus. A month ago no one would have thought how daily life would change overnight. Many countries have announced countrywide lockdowns and almost one billion people are already staying at home working remotely or isolating themselves.
 
-### [335. Developing Post-COVID Recognition Culture in Organizations](https://hackernoon.com/developing-post-covid-recognition-culture-in-organizations-ti1t31hq)
-![](https://cdn.hackernoon.com/images/ydssEFW0wAXaMR7dwPPipBFN4A52-7z1231il.jpeg)
-As Yash woke up from his alarm tone, he rushed to get his laptop and quickly wore a clean shirt and a tie before even freshening up. The daily sprint update meeting was about to start in a minute. He swiftly chose a quiet corner in the house and sat in front of the screen, ready to report to his manager. Followed by 6-8 hours of working on his project and simultaneously managing the household chores, he dozed off early to start the same cycle again tomorrow. 
+### [319. Bitcoin Is Emerging As The Only Pandemic-Resistant Currency in Our Globalized Economy](https://hackernoon.com/bitcoin-is-emerging-as-the-only-pandemic-resistant-currency-in-our-globalized-economy-sala32al)
+![](https://cdn.hackernoon.com/drafts/ky6w32za.png)
+There is an old saying in trading circles that goes “buy the rumour and sell the news”. As rumours of impending lockdowns and travel bans spread in late February, uncertainty was sowed in international financial markets. 
 
-### [336. Empowered Contact Tracing Applications for Tackling Covid-19 Proliferation](https://hackernoon.com/empowered-contact-tracing-applications-for-tackling-covid-19-proliferation-ve4h3v2v)
+### [320. Future of Work Post-Pandemic: What Will Our Days Look Like?](https://hackernoon.com/future-of-work-post-pandemic-what-will-our-days-look-like-163e3wmf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4T2cRqkD8sXXwYDVjXgZleE5BTo2-171m3tl2.jpeg?alt=media&token=4fcb070e-f373-4dfa-b33f-3903dc926791)
+The predictions of post-COVID future paint all sorts of wild images, from empty and sterile offices to work-from-home utopias. Without any in-depth analysis, it’s clear none of those extremes will come true. However, what’s also clear is that there will be an impact. In fact, some changes are already in motion, so a good way to be prepared for them is to recognize the ones that matter.
+
+### [321. One More Time For Those In The Back: Social Distancing Is The Solution](https://hackernoon.com/one-more-time-for-those-in-the-back-social-distancing-is-the-solution-o71153ypv)
+![](https://cdn.hackernoon.com/drafts/rv22k2ezv.png)
+Outbreaks like COVID-19 spread exponentially, and that's why social distancing is the key to flatten the curve. 
+
+### [322. How the Internet Could Evolve to Fight Fake News During the Corona Pandemic](https://hackernoon.com/how-the-internet-could-evolve-to-fight-fake-news-during-the-corona-pandemic-jacw32x1)
+![](https://cdn.hackernoon.com/drafts/pbs3yil.png)
+The Problem
+
+### [323. COVID-19 Marketing: Between Smart and Insensitive](https://hackernoon.com/covid-19-marketing-between-smart-and-insensitive-ucs3eq0)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlbfKyoYYV0VgbZqjujFkkVKzTls1-8x1w3t9c.jpeg?alt=media&token=b1a7e7d3-34ae-4ea9-95ca-73ab23732101)
+Like other industries, the world of marketing has had to go through a paradigm shift in the era of COVID-19. Just as Zoom has become a household name when it hadn’t been prior, consumer patterns have shifted to adjust to the pandemic. Whether the industry likes it or not, changes in a company’s marketing dynamic are not only happening — they’re also affecting brand image and customer engagement.
+
+### [324. What to Consider When Building a Delivery App to Meet the Increased Demand From the Pandemic ](https://hackernoon.com/what-to-consider-when-building-a-delivery-app-to-meet-the-increased-demand-from-the-pandemic-mfiq32g1)
+![](https://cdn.hackernoon.com/drafts/ecd23ylj.png)
+The outbreak and the onslaught of the COVID-19 has changed the landscape for many businesses. There have been a few staggering revelations that might sound threatening, but for a business optimist, they present lucrative opportunities for new business models.
+
+### [325. Did Insurance Companies Benefit From COVID-19?](https://hackernoon.com/did-insurance-companies-benefit-from-covid-19-tx223gdc)
+![](https://cdn.hackernoon.com/images/QdWX77c6s5Skk99abuNLlG6AEZZ2-xqr3g8s.jpeg)
+Lewis Carroll – author of Alice's Adventures in Wonderland – once wrote, “every story has a moral you just need to be clever enough to find it.” The Covid-19 pandemic, for example, has taught us that things can always take an unexpected turn. The question then emerges, how can one protect against this kind of event? The answer is very simple – insurance.
+
+### [326. How Networks Are Coping With Coronavirus Over-Capacity](https://hackernoon.com/how-networks-are-coping-with-coronavirus-over-capacity-o4133us3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYACTGHRyNTaRgPZbpH4vuwh5HnM2-cpn25qo.jpeg?alt=media&token=2573853d-8718-4488-970d-6fd915296af2)
+The internet is now even more critical to the world thanks to shelter-in-place orders and government-mandated shutdowns. Coronavirus has shifted the focus of how many individuals get entertainment and perform work. Remote workers have increased exponentially over the past two months. Network World mentions that large tech corporations are scrambling to securely support a large volume of remote contractors. However, because so many people are using these networks, there's a genuine possibility of traffic overload. In this article, we'll look at how major ISPs are dealing with the massive influx of usage over the coronavirus epidemic.
+
+### [327. COVID19 Can Reach 1 Million Cases in 4 days : What Next?](https://hackernoon.com/covid19-can-reach-1-million-cases-in-4-days-what-next-onim3ytp)
+![](https://cdn.hackernoon.com/images/n37s32yd.jpg)
+By now almost every country has either had cases confirmed within their borders or has set some legal structure in place to battle the spread of the Corona Virus. The United States leads the world with the most cases, currently sitting at over 160K cases confirmed. My twitter feed is saturated with posts about this global pandemic. People are posting about their struggles, their joys, their opinions and occasionally about the facts. It seems this Virus is all that matters right now in the world. But I want to encourage you through this post — there is more to life.
+
+### [328. Where Will They Try Missouri vs. China? ](https://hackernoon.com/where-will-they-try-missouri-vs-china-ri5d32bf)
+![](https://cdn.hackernoon.com/images/tfbj2ejw.gif)
+ICYMI Missouri, the US state known for great BBQ, is suing China, the nation with 1.393 billion people.
+
+### [329. Guide on How To Eliminate COVID-19 News](https://hackernoon.com/guide-on-how-to-eliminate-covid-19-news-fi173ubf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-xjh3udc.gif?alt=media&token=46c5f8d9-7c71-49d3-8bec-08f44b1dedd8)
+According to the American press institute, the purpose of news and journalism is to provide citizens with the information they need to make the best possible decisions about their lives, their communities, their societies, and their governments. 
+
+### [330. Crypto weekly #5: How is the COVID-19 Pandemic Affecting Companies Worldwide?](https://hackernoon.com/crypto-weekly-5-how-is-the-covid-19-pandemic-affecting-companies-worldwide-do6v30tc)
+![](https://cdn.hackernoon.com/drafts/ze1002b98.png)
+Business owners are answering “How is the COVID-19 pandemic affecting your company?” Detailed answers below!
+
+### [331. Empowered Contact Tracing Applications for Tackling Covid-19 Proliferation](https://hackernoon.com/empowered-contact-tracing-applications-for-tackling-covid-19-proliferation-ve4h3v2v)
 ![](https://images.unsplash.com/photo-1585411241865-a7762556ce2b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 It goes without saying that China has had the first laugh when it comes to stemming the usurped growth of the covid-19 pandemic.
 
-### [337. 10 Non-Influencers redefining Influence. Opportunity: $1 Million USD Funding to fight COVID-19](https://hackernoon.com/10-non-influencers-redefining-influence-opportunity-dollar1-million-usd-funding-to-fight-covid-19-787v3yyd)
-![](https://cdn.hackernoon.com/images/c3hu3yd7.gif)
-Since my previous article about COVID Innovations, in which I highlighted 20 ordinary professionals and companies undertaking extraordinary actions to drive change to tackle this pandemic, new change makers have emerged on the horizon. Acting as role models worthy of our admiration and attention, more and more industry giants are taking the lead, including:
-
-### [338. Things COVID-19 Taught Us About IoT Edge](https://hackernoon.com/things-covid-19-taught-us-about-iot-edge-3d73w6b)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F16aXPZrpmDX9bXl95jFOIFwB3KM2-qhc3t8j.jpeg?alt=media&token=5a3b6439-4029-423a-9517-8553f60da4d9)
-As we watch various industries react to movement restrictions and new work-from-home environments, it has also caused us to reflect on the future of IoT and the role edge computing will play. We wanted to take this opportunity to share a few observations on how the current situation exemplifies the benefits of edge computing and having remote orchestration capabilities for critical systems through IoT solutions. While we hope that we’ll see a return to a more normal way of life soon, we believe that remotely-orchestrated IoT edge solutions will be an integral part of businesses’ digital strategies well into the future.
-
-### [339. Four Tips For The Newly Minted Remote Student](https://hackernoon.com/four-tips-for-the-newly-minted-remote-student-gm8u32qn)
+### [332. Four Tips For The Newly Minted Remote Student](https://hackernoon.com/four-tips-for-the-newly-minted-remote-student-gm8u32qn)
 ![](https://cdn.hackernoon.com/drafts/uuml339u.png)
 As the classroom of the future changes, the students also need to adapt. As educational institutes are looking at long Coronavirus closures with millions of kids out of school worldwide, they are scrambling to reimagine how they can educate their students. 
 
-### [340. How COVID-19 is Accelerating the Integration of Technology Into Psychotherapy](https://hackernoon.com/how-covid-19-is-accelerating-the-integration-of-technology-into-psychotherapy-v82n3w0t)
+### [333. What is Contact Tracing and Will It Work?](https://hackernoon.com/what-is-contact-tracing-and-will-it-work-hc263yxv)
+![](https://cdn.hackernoon.com/images/pv6d3ye5.jpg)
+As COVID-19 continues to devastate communities around the world, governments’ initial reactions - which were mostly that of surprise and shock - have been replaced with sheer determination to fight off the novel coronavirus by any means possible. Contact tracing is the latest approach, though by no means is it a novel one. 
+
+### [334. 10 Non-Influencers redefining Influence. Opportunity: $1 Million USD Funding to fight COVID-19](https://hackernoon.com/10-non-influencers-redefining-influence-opportunity-dollar1-million-usd-funding-to-fight-covid-19-787v3yyd)
+![](https://cdn.hackernoon.com/images/c3hu3yd7.gif)
+Since my previous article about COVID Innovations, in which I highlighted 20 ordinary professionals and companies undertaking extraordinary actions to drive change to tackle this pandemic, new change makers have emerged on the horizon. Acting as role models worthy of our admiration and attention, more and more industry giants are taking the lead, including:
+
+### [335. Instagram Launches Co-Watching As Part Of Its Campaign Against COVID-19](https://hackernoon.com/instagram-launches-co-watching-as-part-of-its-campaign-against-covid-19-vn413yrf)
+![](https://cdn.hackernoon.com/images/em3t3ykn.jpg)
+Instagram has just launched a co-scroll feature to help you survive the quarantine. According to Tech Crunch, it is officially known as Co-Watching; the feature lets friends (or followers) on a video chat go through posts related to a user’s activity. Co-Watching allegedly allows people to react to social media content in groups of two or more; this would mean that the pastime would no longer be a solo hobby.
+
+### [336. Virtual Conferences: Innovating the Conference Industry for the Future](https://hackernoon.com/virtual-conferences-innovating-the-conference-industry-for-the-future-3k1y3vbq)
+![](https://cdn.hackernoon.com/images/85283v67.jpg)
+OK, so maybe we’re all growing a little tired of staring at our computer screens all day. But would you rather be going into an office every day and potentially contracting the coronavirus? What about business travel? If your boss asked you to go on a business trip to a conference that involved airfare and eating out at restaurants, would you be completely comfortable with that right now? Chances are we are constantly weighing the risks and rewards of things these days to make decisions that three months ago were no big deal. Until there’s a vaccine or a cure, chances are we aren’t going to feel totally comfortable getting “back to normal” just yet. Sp what will business start to look like as people get back to normal activities from a distance?
+
+### [337. How These Tech Solutions May Solve  Challenges That Online Teaching Facing](https://hackernoon.com/how-these-tech-solutions-may-solve-challenges-that-online-teaching-facing-zo8s3yg1)
+![](https://cdn.hackernoon.com/drafts/axhf3y9h.png)
+During these pandemic times, one of the biggest concerns for teachers is how they will continue to engage students and keep an eye on their progress from afar. 
+
+### [338. Developing Post-COVID Recognition Culture in Organizations](https://hackernoon.com/developing-post-covid-recognition-culture-in-organizations-ti1t31hq)
+![](https://cdn.hackernoon.com/images/ydssEFW0wAXaMR7dwPPipBFN4A52-7z1231il.jpeg)
+As Yash woke up from his alarm tone, he rushed to get his laptop and quickly wore a clean shirt and a tie before even freshening up. The daily sprint update meeting was about to start in a minute. He swiftly chose a quiet corner in the house and sat in front of the screen, ready to report to his manager. Followed by 6-8 hours of working on his project and simultaneously managing the household chores, he dozed off early to start the same cycle again tomorrow. 
+
+### [339. Things COVID-19 Taught Us About IoT Edge](https://hackernoon.com/things-covid-19-taught-us-about-iot-edge-3d73w6b)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F16aXPZrpmDX9bXl95jFOIFwB3KM2-qhc3t8j.jpeg?alt=media&token=5a3b6439-4029-423a-9517-8553f60da4d9)
+As we watch various industries react to movement restrictions and new work-from-home environments, it has also caused us to reflect on the future of IoT and the role edge computing will play. We wanted to take this opportunity to share a few observations on how the current situation exemplifies the benefits of edge computing and having remote orchestration capabilities for critical systems through IoT solutions. While we hope that we’ll see a return to a more normal way of life soon, we believe that remotely-orchestrated IoT edge solutions will be an integral part of businesses’ digital strategies well into the future.
+
+### [340. In a Time of Crisis, Data Must Be Able to Defend Itself](https://hackernoon.com/in-a-time-of-crisis-data-must-be-able-to-defend-itself-cz1z3ycn)
+![](https://images.unsplash.com/photo-1461685265823-f8d5d0b08b9b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+From hijacked routers to an attempted hack on the World Health Organization, our time of crisis shows that hackers are opportunists to the core. Health records, social security numbers, IP … everything is fair game, nothing sacred or immune. At least in the current online infrastructure. On a long enough timeline, the probability of a hack nears 100%. 
+
+### [341. How COVID-19 is Accelerating the Integration of Technology Into Psychotherapy](https://hackernoon.com/how-covid-19-is-accelerating-the-integration-of-technology-into-psychotherapy-v82n3w0t)
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-nf93teq.jpeg)
 The COVID-19 pandemic has drastically changed the way we do things, people
 around the globe are adapting to newer ways, and technology is making a ser
-
-### [341. In a Time of Crisis, Data Must Be Able to Defend Itself](https://hackernoon.com/in-a-time-of-crisis-data-must-be-able-to-defend-itself-cz1z3ycn)
-![](https://images.unsplash.com/photo-1461685265823-f8d5d0b08b9b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-From hijacked routers to an attempted hack on the World Health Organization, our time of crisis shows that hackers are opportunists to the core. Health records, social security numbers, IP … everything is fair game, nothing sacred or immune. At least in the current online infrastructure. On a long enough timeline, the probability of a hack nears 100%. 
 
 ### [342. Coronavirus, Cloud Computing and Cybersecurity: A Conversation with Dr. Arun Vishwanath](https://hackernoon.com/coronavirus-cloud-computing-and-cybersecurity-a-conversation-with-dr-arun-vishwanath-5a383zb8)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-s02l3zdw.jpeg?alt=media&token=4ed934df-2e01-43e0-be35-a38be18ff0ca)
@@ -1441,37 +1443,37 @@ In this new age of COVID-19, wound care has become harder than ever. Wound care 
 ![](https://cdn.hackernoon.com/images/vs713yfi.jpg)
 Medicine is taking a turn from physical to digital - by 2025, the digital therapeutics market is projected to hit $7.8 billion. The uses of digital therapeutics range wildly from alleviating symptoms of physiological and neurobehavioral symptoms to therapeutic interventions driven by software and tech to therapies to improve outcomes when combined with regular treatments. They also offer new options to those who have otherwise unmet needs, and can help reduce reliance on medication. Digital therapeutics can also be used in the treatment of diabetes, obesity, cardiovascular, central nervous, respiratory, and gastrointestinal problems. 
 
-### [354. Life Without Google I/O, F8 and the Other Places Developers Learn](https://hackernoon.com/life-without-google-io-f8-and-the-other-places-developers-learn-v63j32z5)
-![](https://cdn.hackernoon.com/drafts/0zate3yop.png)
-The most predictable thing about most conferences used to be that, in the days leading up to them, you would be flooded with e-mails about your registration, new speaker additions and party invites. 
-
-### [355. Mental Health in the Coronavirus Era](https://hackernoon.com/mental-health-in-the-coronavirus-era-w41y3yeo)
+### [354. Mental Health in the Coronavirus Era](https://hackernoon.com/mental-health-in-the-coronavirus-era-w41y3yeo)
 ![](https://cdn.hackernoon.com/images/kw5v3yuu.jpg)
 With the U.S. taking the title of most reported COVID-19 cases in any one nation, staying at home is being pushed more than ever. But staying at home all day every day can have some negative side effects on the mind and body. Social isolation can lead to a multitude of health concerns including heightened risk of high blood pressure, heart disease, cancer, and stroke. Even just short periods of time alone can increase anxiety and depression after only a few days mainly due to the fact that most people rely on one or two close relationships to help them stay level-headed and secure. This is most common in high income earners, those with a graduate degree, married couples, and people over the age of 65. 
 
-### [356. Three Ways Data Scientists are Fighting COVID-19](https://hackernoon.com/three-ways-data-scientists-are-fighting-covid-19-7pk3yyc)
-![](https://cdn.hackernoon.com/images/p113g3w2g.jpg)
-Playing a key role in the fight against the COVID-19 health crisis, data scientists have been working to expand the scope of their analyses to encapsulate foot traffic data, social distancing metrics, and various other forms of recently gathered data relevant to the pandemic. As such, big data is continually enabling the development of groundbreaking research and policymaking derived from concrete, data driven insights, helping mitigate the adverse impacts of the pandemic. Namely, data scientists are using their knowledge and skills to combat COVID-19 through the following key mechanisms:
+### [355. Life Without Google I/O, F8 and the Other Places Developers Learn](https://hackernoon.com/life-without-google-io-f8-and-the-other-places-developers-learn-v63j32z5)
+![](https://cdn.hackernoon.com/drafts/0zate3yop.png)
+The most predictable thing about most conferences used to be that, in the days leading up to them, you would be flooded with e-mails about your registration, new speaker additions and party invites. 
 
-### [357. Fraudulent Ads Exploit COVID-19 Fears on Disney's ESPN.Com](https://hackernoon.com/fraudulent-ads-exploit-covid-19-fears-on-disneys-espncom-ye293v7s)
+### [356. Fraudulent Ads Exploit COVID-19 Fears on Disney's ESPN.Com](https://hackernoon.com/fraudulent-ads-exploit-covid-19-fears-on-disneys-espncom-ye293v7s)
 ![](https://cdn.hackernoon.com/drafts/i9f93y5l.png)
 Scam advertisements across major media outlets originate from DoubleClick and Xandr/AppNexus
+
+### [357. How AI and Data Analytics Will Impact The Era of COVID-19](https://hackernoon.com/how-ai-and-data-analytics-will-impact-the-era-of-covid-19)
+![](https://cdn.hackernoon.com/images/gx2eUSCqbve68OHi5yKdu4VzgMK2-iy93hz5.jpeg)
+Artificial intelligence (AI) and data analytics are rapidly growing trends in the tech world. With increasing potential for innovation, it is paramount that we stay up to date with all the latest developments in this field. According to MarketsandMarkets, the worldwide artificial intelligence (AI) market will increase from USD 58.3 billion in 2021 to USD 309.6 billion by 2026, at a compound annual growth rate (CAGR) of 39.7 percent over the projected period. It seems that every company wants a piece of this growing pie. By 2022 it is expected that 90% of companies will be using some form of artificial intelligence for data analytics purposes.
 
 ### [358. How to Remain Resilient As an Entrepreneur During COVID-19 Pandemic](https://hackernoon.com/how-to-remain-resilient-as-an-entrepreneur-during-covid-19-pandemic-l6l3uba)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEhc03Nu27INkYbM7bi5kpe7qFtI2-493k16pd.png?alt=media&token=ff65c1f7-d229-45f5-95a0-7fc40ff4fbbc)
 These are weird and unsure times in which we live. And while the full effect on our health by the corona virus is not completely established or understood, it is now having significant stress on the economy,the businesses and our personal finances.
 
-### [359. 5 Small Businesses Give a Masterclass in Community During COVID-19](https://hackernoon.com/5-small-businesses-give-a-masterclass-in-community-during-covid-19-v91s3yfb)
+### [359. Three Ways Data Scientists are Fighting COVID-19](https://hackernoon.com/three-ways-data-scientists-are-fighting-covid-19-7pk3yyc)
+![](https://cdn.hackernoon.com/images/p113g3w2g.jpg)
+Playing a key role in the fight against the COVID-19 health crisis, data scientists have been working to expand the scope of their analyses to encapsulate foot traffic data, social distancing metrics, and various other forms of recently gathered data relevant to the pandemic. As such, big data is continually enabling the development of groundbreaking research and policymaking derived from concrete, data driven insights, helping mitigate the adverse impacts of the pandemic. Namely, data scientists are using their knowledge and skills to combat COVID-19 through the following key mechanisms:
+
+### [360. 5 Small Businesses Give a Masterclass in Community During COVID-19](https://hackernoon.com/5-small-businesses-give-a-masterclass-in-community-during-covid-19-v91s3yfb)
 ![](https://cdn.hackernoon.com/drafts/ch6m3y55.png)
 Connecting with your community is a vital part of building awareness, trust, and loyalty. While this is always challenging, COVID-19's socially distancing has made it harder than ever. However, some small businesses have taken customer connection—both digital and in-person—to the next level despite the struggles that a global pandemic brings. 
 
-### [360. Channeling the Ripples of Crisis Towards Mastering Remote Work](https://hackernoon.com/channeling-the-ripples-of-crisis-towards-mastering-remote-work-wk3v32p5)
+### [361. Channeling the Ripples of Crisis Towards Mastering Remote Work](https://hackernoon.com/channeling-the-ripples-of-crisis-towards-mastering-remote-work-wk3v32p5)
 ![](https://images.unsplash.com/photo-1498677231914-50deb6ba4217?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 With the COVID-19 pandemic, the world is facing an unprecedented crisis and are being forced to quickly adjust to a new way of working. All organisations — large and small are facing a trial by fire against drops in productivity with remote work tools as their arsenal.
-
-### [361. How AI and Data Analytics Will Impact The Era of COVID-19](https://hackernoon.com/how-ai-and-data-analytics-will-impact-the-era-of-covid-19)
-![](https://cdn.hackernoon.com/images/gx2eUSCqbve68OHi5yKdu4VzgMK2-iy93hz5.jpeg)
-Artificial intelligence (AI) and data analytics are rapidly growing trends in the tech world. With increasing potential for innovation, it is paramount that we stay up to date with all the latest developments in this field. According to MarketsandMarkets, the worldwide artificial intelligence (AI) market will increase from USD 58.3 billion in 2021 to USD 309.6 billion by 2026, at a compound annual growth rate (CAGR) of 39.7 percent over the projected period. It seems that every company wants a piece of this growing pie. By 2022 it is expected that 90% of companies will be using some form of artificial intelligence for data analytics purposes.
 
 ### [362. Starting an Online Fitness Business](https://hackernoon.com/starting-an-online-fitness-business-i5f3tyk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fq27v0I9Kv6ZH2rGMSNj66gxfsbx1-5m1z3un7.jpeg?alt=media&token=2964e94b-6c4e-47bb-9d45-5885ed529187)
@@ -1493,19 +1495,27 @@ How has technology and the pandemic combined to accelerate change
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-dr1728yo.jpeg?alt=media&token=bcc1bfa5-fa9c-4885-813c-51e4d4cf8f9d)
 Background
 
-### [367. We Looked Into Darknet's Covid-19 Vaccines Scams ](https://hackernoon.com/we-looked-into-darknets-covid-19-vaccines-scams-kt6q32e9)
-![](https://cdn.hackernoon.com/images/eX6e4LvM0rY0xzjuhywYB1FIYPx1-ugbc35xa.jpeg)
-In the past month, we noticed that a dark net search for Covid-19 vaccines returns multiple pages of results, amounting to hundreds of advertisements.
-
-### [368. How Realtors are Using Mobile Technology for Their Benefit](https://hackernoon.com/how-realtors-are-using-mobile-technology-for-their-benefit-u1723xce)
+### [367. How Realtors are Using Mobile Technology for Their Benefit](https://hackernoon.com/how-realtors-are-using-mobile-technology-for-their-benefit-u1723xce)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F34Nifbk1wAcTFAl1R1xBcfSGR4p1-lp263usw.webp?alt=media&token=8ad9302b-4f9e-41bf-9f3a-f840597ced10)
 Realtors are an imperative part of the real estate ecosystem. They are omnipresent when it comes to anything that is related to real estate and so they know every nook and corner of their neighborhood. They know the neighboring properties and their estimated values and everything that their buyers and sellers look for. 
+
+### [368. We Looked Into Darknet's Covid-19 Vaccines Scams ](https://hackernoon.com/we-looked-into-darknets-covid-19-vaccines-scams-kt6q32e9)
+![](https://cdn.hackernoon.com/images/eX6e4LvM0rY0xzjuhywYB1FIYPx1-ugbc35xa.jpeg)
+In the past month, we noticed that a dark net search for Covid-19 vaccines returns multiple pages of results, amounting to hundreds of advertisements.
 
 ### [369. 86 Stories To Learn About Pandemic](https://hackernoon.com/86-stories-to-learn-about-pandemic)
 ![](https://cdn.hackernoon.com/images/github/pandemic-304.png)
 Learn everything you need to know about Pandemic via these 86 free HackerNoon stories.
 
-### [370. Business Life At Times Of Coronavirus ](https://hackernoon.com/business-life-at-times-of-coronavirus-wu4s3y55)
+### [370. Hacking Your Psyche To Prevent Isolation Fatigue](https://hackernoon.com/hacking-your-psyche-to-prevent-isolation-fatigue-aql3ue2)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-vap3uku.jpeg?alt=media&token=bae34fef-b982-4259-a783-ba3c33ff5be8)
+Americans have been reporting increased feelings of depression, anxiety, loneliness, and even hopelessness at least once per week since the start of the COVID pandemic. In fact, at the end of April, 3 in 4 American adults expected a second wave of the virus and supported continued social distancing. 
+
+### [371. Healthy Eating Under Coronavirus Quarantine](https://hackernoon.com/healthy-eating-under-coronavirus-quarantine-s5353yvx)
+![](https://cdn.hackernoon.com/images/jl103ylu.jpg)
+Eating out has become a big part of our lives and with everyone now at home, a lot needs to change to make up for it. Before this lockdown, Americans would eat out on average nearly 6 times per week. Eating at home is still popular - Americans spend around $4,400 annually on food for their fridge; around 7% of their total annual spending. In these past few weeks, however, going to grocery stores has been discouraged and most restaurants have been closed. This has caused many to stock up on a variety of items. Shoppers are stocking up on goods like canned foods, hand sanitizer, toilet paper, and bottled water. Sales for some of these items such as oat milk and medical masks are up by hundreds of percent and other products like frozen and fresh fruit, dried beans, bath and shower wipes, and water all have higher sales that are higher by a noticeable amount. 
+
+### [372. Business Life At Times Of Coronavirus ](https://hackernoon.com/business-life-at-times-of-coronavirus-wu4s3y55)
 ![](https://cdn.hackernoon.com/drafts/1bf33yz6.png)
 Quarantined in a country that has been locked entirely (I’m based in Italy), it’s interesting to notice a few things.
 
@@ -1517,14 +1527,6 @@ Each day I stocked the groceries and food that would keep my family and me for a
 
 I got psychologically prepared for it as I knew it was coming. I didn’t panic because I was prepared. 
 
-### [371. Healthy Eating Under Coronavirus Quarantine](https://hackernoon.com/healthy-eating-under-coronavirus-quarantine-s5353yvx)
-![](https://cdn.hackernoon.com/images/jl103ylu.jpg)
-Eating out has become a big part of our lives and with everyone now at home, a lot needs to change to make up for it. Before this lockdown, Americans would eat out on average nearly 6 times per week. Eating at home is still popular - Americans spend around $4,400 annually on food for their fridge; around 7% of their total annual spending. In these past few weeks, however, going to grocery stores has been discouraged and most restaurants have been closed. This has caused many to stock up on a variety of items. Shoppers are stocking up on goods like canned foods, hand sanitizer, toilet paper, and bottled water. Sales for some of these items such as oat milk and medical masks are up by hundreds of percent and other products like frozen and fresh fruit, dried beans, bath and shower wipes, and water all have higher sales that are higher by a noticeable amount. 
-
-### [372. Hacking Your Psyche To Prevent Isolation Fatigue](https://hackernoon.com/hacking-your-psyche-to-prevent-isolation-fatigue-aql3ue2)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-vap3uku.jpeg?alt=media&token=bae34fef-b982-4259-a783-ba3c33ff5be8)
-Americans have been reporting increased feelings of depression, anxiety, loneliness, and even hopelessness at least once per week since the start of the COVID pandemic. In fact, at the end of April, 3 in 4 American adults expected a second wave of the virus and supported continued social distancing. 
-
 ### [373. Digital Transformation: The Path to Returning to Normal ](https://hackernoon.com/digital-transformation-the-path-to-returning-to-normal-x81532sm)
 ![](https://cdn.hackernoon.com/drafts/ma5s3y1d.png)
 Have you heard of Netflix? Well, that’s not really a question to be asked in this decade. Began their journey as a DVD rental company in 1997, Netflix started their online streaming services in 2007 and today is world's top online entertainment service with over 160 million subscribers in over 190 countries enjoying TV series, documentaries and films. While Netflix came so far, many DVD companies still went with the old business model and disappeared without a trace. So, what Netflix did differently to overthrow its failure that might have been predicted by the standard management models?  
@@ -1533,7 +1535,11 @@ Have you heard of Netflix? Well, that’s not really a question to be asked in t
 ![](https://cdn.hackernoon.com/images/3nz3yvg.jpg)
 You’ve probably never heard about us. We’re lemon.io — a marketplace of vetted developers for startups. 
 
-### [375. Tracking Responses by Corporations and Other Organizations during COVID-19 Pandemic [Wiki]](https://hackernoon.com/tracking-responses-by-corporations-and-other-organizations-during-covid-19-pandemic-wiki-493z32qw)
+### [375. #REMOTEWORK, A PIXELATED SET](https://hackernoon.com/remotework-a-pixelated-set-mg5o3ym8)
+![](https://cdn.hackernoon.com/images/q4u3yak.gif)
+Source,
+
+### [376. Tracking Responses by Corporations and Other Organizations during COVID-19 Pandemic [Wiki]](https://hackernoon.com/tracking-responses-by-corporations-and-other-organizations-during-covid-19-pandemic-wiki-493z32qw)
 ![](https://cdn.hackernoon.com/images/az463yrv.jpg)
 WikiGreed, created by experienced wiki programmers, is a new resource for consumers and workers that want to find out about the good and bad responses to the COVID-19 pandemic by corporations, academic institutions, nonprofits, and other organizations.
 
@@ -1555,35 +1561,35 @@ WikiGreed was put online on 31 March 2020 and formally launched on 23 April 2020
 
 Once the COVID-19 pandemic comes to a conclusion, WikiGreed will continue to make the information collected available and then consider how the wiki's framework and goals can potentially serve other consumer and worker advocacy efforts.
 
-### [376. #REMOTEWORK, A PIXELATED SET](https://hackernoon.com/remotework-a-pixelated-set-mg5o3ym8)
-![](https://cdn.hackernoon.com/images/q4u3yak.gif)
-Source,
-
 ### [377. Impact Of COVID-19 On The U.S. Economy](https://hackernoon.com/impact-of-covid-19-on-the-us-economy-43e3uc5)
 ![](https://cdn.hackernoon.com/drafts/vyf03vqz.png)
 As the novel coronavirus rips through America, its effect is being felt far beyond the over 1.5 million Americans who are confirmed infected. The ill-health, quarantines, and lockdowns that are needed to fight the virus’s spread are freezing the economy. The fluctuating stock market has wiped out three years of gains. A record 3.3 million Americans have applied for unemployment benefits, the highest number ever recorded.
 
-### [378. Is COVID-19 A Blessing In Disguise For The Manufacturing Sector?](https://hackernoon.com/is-covid-19-a-blessing-in-disguise-for-the-manufacturing-sector-z0223zjl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-gvq3zwz.jpeg?alt=media&token=51562c56-7d29-466b-bbc4-9790ace59dfa)
-Before COVID-19 stopped us dead on our tracks, businesses all around the globe already had enough problems to deal with.
-
-### [379. How to Create a Remote Work Policy For Your Accounting Team During the COVID-19 Crisis](https://hackernoon.com/how-to-create-a-remote-work-policy-for-your-accounting-team-during-the-covid-19-crisis-ys1c3wdt)
-![](https://cdn.hackernoon.com/drafts/hv2863v9f.png)
-The COVID-19 pandemic has brought the world to a standstill. With over 5 million global cases and counting, the medical professionals from all over the world have joined hands to find a vaccine. However, until that happens, the only precaution that can be taken is to stay at home. 
-
-### [380. Hacking College During COVID-19](https://hackernoon.com/hacking-college-during-covid-19-edm3utl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-ouj3u5r.jpeg?alt=media&token=46f97d6a-5e16-44af-a65e-d413110839e5)
-In the last few months everything about our lives has either disappeared or gone online. Instead of going out to restaurants we order meals through apps. Instead of going to the grocery store we order groceries through apps. And instead of going into an office or school, many of us are working and going to school online. Online school has some implications for the long term, particularly when it comes to college. College is an important time to network and meet people who will be in your field throughout your lifetime, so what happens to college when everything moves online?
-
-### [381. Coronavirus vs Business: Why Anti-Crisis Steps Taken are not Enough?](https://hackernoon.com/coronavirus-vs-business-why-anti-crisis-steps-taken-are-not-enough-761q3ygt)
-![](https://images.unsplash.com/photo-1586497021114-cd1866deff12?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Simple, self-isolation, accessibility only to critical infrastructure facilities and a lack of protection against infections - this is how COVID-19 met the world. In fairness, it should be noted that all countries of Europe, without exception, have faced large problems, and it is becoming increasingly difficult to find a “green” territory on the world map.
-
-### [382. 3 Major Online Threats Proliferating With The Coronavirus](https://hackernoon.com/3-major-online-threats-proliferating-with-the-coronavirus-a72g3yuq)
+### [378. 3 Major Online Threats Proliferating With The Coronavirus](https://hackernoon.com/3-major-online-threats-proliferating-with-the-coronavirus-a72g3yuq)
 ![](https://cdn.hackernoon.com/drafts/js1de3w1w.png)
 By now, it should go without saying that the internet isn't the safest place in the world. It's an environment that's rife with threats of all kinds. 
 
-### [383. Reputation Management: Q&A With Professionals](https://hackernoon.com/reputation-management-qanda-with-professionals-xao63yd6)
+### [379. Is COVID-19 A Blessing In Disguise For The Manufacturing Sector?](https://hackernoon.com/is-covid-19-a-blessing-in-disguise-for-the-manufacturing-sector-z0223zjl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-gvq3zwz.jpeg?alt=media&token=51562c56-7d29-466b-bbc4-9790ace59dfa)
+Before COVID-19 stopped us dead on our tracks, businesses all around the globe already had enough problems to deal with.
+
+### [380. Coronavirus vs Business: Why Anti-Crisis Steps Taken are not Enough?](https://hackernoon.com/coronavirus-vs-business-why-anti-crisis-steps-taken-are-not-enough-761q3ygt)
+![](https://images.unsplash.com/photo-1586497021114-cd1866deff12?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Simple, self-isolation, accessibility only to critical infrastructure facilities and a lack of protection against infections - this is how COVID-19 met the world. In fairness, it should be noted that all countries of Europe, without exception, have faced large problems, and it is becoming increasingly difficult to find a “green” territory on the world map.
+
+### [381. Hacking College During COVID-19](https://hackernoon.com/hacking-college-during-covid-19-edm3utl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-ouj3u5r.jpeg?alt=media&token=46f97d6a-5e16-44af-a65e-d413110839e5)
+In the last few months everything about our lives has either disappeared or gone online. Instead of going out to restaurants we order meals through apps. Instead of going to the grocery store we order groceries through apps. And instead of going into an office or school, many of us are working and going to school online. Online school has some implications for the long term, particularly when it comes to college. College is an important time to network and meet people who will be in your field throughout your lifetime, so what happens to college when everything moves online?
+
+### [382. How to Create a Remote Work Policy For Your Accounting Team During the COVID-19 Crisis](https://hackernoon.com/how-to-create-a-remote-work-policy-for-your-accounting-team-during-the-covid-19-crisis-ys1c3wdt)
+![](https://cdn.hackernoon.com/drafts/hv2863v9f.png)
+The COVID-19 pandemic has brought the world to a standstill. With over 5 million global cases and counting, the medical professionals from all over the world have joined hands to find a vaccine. However, until that happens, the only precaution that can be taken is to stay at home. 
+
+### [383. The Social Impact of Mixing Business and Medicine](https://hackernoon.com/the-social-impact-of-mixing-business-and-medicine-4z1t3ytx)
+![](https://cdn.hackernoon.com/images/5x8m3y0j.jpg)
+COVID-19 has been hitting the healthcare system pretty hard these last few weeks. In U.S. hospitals they are now facing critical shortages of equipment. As of the end of March, nearly 1 in 4 hospitals have fewer than 100 N95 masks on hand and 1 in 5 reports immediate need for more ventilators. Already back in February, the FDA reported shortages in drugs related to coronavirus. 
+
+### [384. Reputation Management: Q&A With Professionals](https://hackernoon.com/reputation-management-qanda-with-professionals-xao63yd6)
 ![](https://cdn.hackernoon.com/drafts/8dzs2ets.png)
 Today we have a question and answer to help educate the general public about the online reputation management in 2020, the affects the industry is seeing as a result of COVID-19, and how the ORM industry has changed over the last 10 years. We have Nick Cuttonaro and Richart Ruddie providing helpful information.
 
@@ -1591,81 +1597,77 @@ How Is COVID-19 Affecting the Online Reputation Management Industry?
 
 Nick: I’ve seen a lot of instances where CEO’s and companies have needed to make difficult decisions to let employees and vendors go as a result of COVID-19 impacting their businesses. As a result of not approaching the matter with dignity and leadership, they’ve negativity impacted their own reputation and brand. 
 
-### [384. Successful Commerce after COVID-19: Transformation is Key](https://hackernoon.com/successful-commerce-after-covid-19-transformation-is-key-yk2n356z)
+### [385. Successful Commerce after COVID-19: Transformation is Key](https://hackernoon.com/successful-commerce-after-covid-19-transformation-is-key-yk2n356z)
 ![](https://cdn.hackernoon.com/images/xsUoF5axcxSoeH3fgWCicxZzJev1-spe635hq.jpeg)
 Eight industries that are proof that thriving (and not only surviving) is pretty much entirely possible for many business sectors in times of a pandemic.
-
-### [385. Why is Quick Dev Collaboration A Massive Headache?](https://hackernoon.com/why-is-quick-dev-collaboration-a-massive-headache-491k3xe3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAva4yT0CgIeJSuOVZK9DpQIwvT83-vv123yqz.jpeg?alt=media&token=e3f290aa-da96-4009-a950-ce070d6f7995)
-COVID-19 has undoubtedly exacerbated the feeling, but who else thinks collaborating or merely communicating with your teammates on code is far from convenient, especially when it comes to quick problem resolution?
 
 ### [386. The Survival Of Urban Areas](https://hackernoon.com/the-survival-of-urban-areas)
 ![](https://cdn.hackernoon.com/images/Vz02PsfCbQga1SxmztxgUiidpS33-d6637xs.jpeg)
 Through millennia of plagues, wars, and natural disasters, cities have borne witness to and magnified human suffering and death. 
 
-### [387. Privacy In The Time of Coronavirus](https://hackernoon.com/privacy-in-the-time-of-coronavirus-bvbj3y5s)
-![](https://images.unsplash.com/photo-1549825109-8c4470e48a0d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Asymbol of American prosperity was obliterated on September 11, 2001, along with more than 3,000 innocent American lives. It is a day (in the words of President Roosevelt after the attack on Pearl Harbor) that will live in infamy.
+### [387. Why is Quick Dev Collaboration A Massive Headache?](https://hackernoon.com/why-is-quick-dev-collaboration-a-massive-headache-491k3xe3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAva4yT0CgIeJSuOVZK9DpQIwvT83-vv123yqz.jpeg?alt=media&token=e3f290aa-da96-4009-a950-ce070d6f7995)
+COVID-19 has undoubtedly exacerbated the feeling, but who else thinks collaborating or merely communicating with your teammates on code is far from convenient, especially when it comes to quick problem resolution?
 
-### [388. The Social Impact of Mixing Business and Medicine](https://hackernoon.com/the-social-impact-of-mixing-business-and-medicine-4z1t3ytx)
-![](https://cdn.hackernoon.com/images/5x8m3y0j.jpg)
-COVID-19 has been hitting the healthcare system pretty hard these last few weeks. In U.S. hospitals they are now facing critical shortages of equipment. As of the end of March, nearly 1 in 4 hospitals have fewer than 100 N95 masks on hand and 1 in 5 reports immediate need for more ventilators. Already back in February, the FDA reported shortages in drugs related to coronavirus. 
-
-### [389. Why Did We Not Wait For The Official Statement on Quarantine?](https://hackernoon.com/why-did-not-we-wait-for-the-official-statement-on-quarantine-l63n3w41)
-![](https://cdn.hackernoon.com/drafts/mi23w3vj7.png)
-Denis Lagutenko - an entrepreneur, the founder of several projects in the fields of the Internet and affiliate marketing, as well as the owner of the manicure network WOW NAIL, one of the first who did not wait for the government guidance on quarantine and switched his companies to remote work before the official announcement. 
-
-### [390. How Covid-19 Has Affected Entrepreneurs Too ](https://hackernoon.com/how-covid-19-has-affected-entrepreneurs-too-7fj3us3)
+### [388. How Covid-19 Has Affected Entrepreneurs Too ](https://hackernoon.com/how-covid-19-has-affected-entrepreneurs-too-7fj3us3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGK7veNu2YwPzYAfCcceZqB7S3Y33-o61t3uxh.jpeg?alt=media&token=44d8f877-f9d0-4729-a378-4a14b42dd4c6)
 We are aware of how the coronavirus pandemic has affected the labor market and is killing the middle class. However, here I want to talk about how it is also keeping entrepreneurs on their toes. They are as we speak planning for the ‘new normal’ with every update that comes their way.  
 
-### [391. Big Tech’s Coronavirus Response Paves a New Path for Anti-Misinformation Efforts](https://hackernoon.com/big-techs-coronavirus-response-paves-a-new-path-for-anti-misinformation-efforts-5lx3yz7)
+### [389. Privacy In The Time of Coronavirus](https://hackernoon.com/privacy-in-the-time-of-coronavirus-bvbj3y5s)
+![](https://images.unsplash.com/photo-1549825109-8c4470e48a0d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Asymbol of American prosperity was obliterated on September 11, 2001, along with more than 3,000 innocent American lives. It is a day (in the words of President Roosevelt after the attack on Pearl Harbor) that will live in infamy.
+
+### [390. Big Tech’s Coronavirus Response Paves a New Path for Anti-Misinformation Efforts](https://hackernoon.com/big-techs-coronavirus-response-paves-a-new-path-for-anti-misinformation-efforts-5lx3yz7)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnHhPB26ZeifbpjG3zqypMHsdQQH2-f1h3uam.webp?alt=media&token=9ccf9a93-943d-4c26-bc54-a1a3850dfd2e)
 Dealing with misinformation has always been, let’s say, a touchy subject for Big Tech. 
 
-### [392. How Hacking Giving Keeps Communities Strong](https://hackernoon.com/how-hacking-giving-keeps-communities-strong-0ma93ygy)
+### [391. How Hacking Giving Keeps Communities Strong](https://hackernoon.com/how-hacking-giving-keeps-communities-strong-0ma93ygy)
 ![](https://images.unsplash.com/photo-1525026198548-4baa812f1183?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Millions of businesses have shut down their physical work sites due to Coronavirus, many moving to remote online platforms. So too schooling, with educators and children moving to virtual classrooms, even churches are meeting digitally. With all this acceptance of telecommuting, tele-schooling, and tele-attending church, it’s no wonder charity giving is looking to add the “t.”  Hacking giving can help keep our society strong while we are all stuck at home physically distancing ourselves.
 
-### [393. Covid19: What Can MSME Do To Overcome The Challenges](https://hackernoon.com/covid19-what-can-msme-do-to-overcome-the-challenges-zv313yaz)
-![](https://cdn.hackernoon.com/drafts/vc2ig3y6a.png)
-Not long ago I posted a heartfelt 2 cents to the Government (Malaysia) in regards to the MSME (Micro Small Medium Enterprise) challenges, hopefully they might hear our little voices out. 
+### [392. Why Did We Not Wait For The Official Statement on Quarantine?](https://hackernoon.com/why-did-not-we-wait-for-the-official-statement-on-quarantine-l63n3w41)
+![](https://cdn.hackernoon.com/drafts/mi23w3vj7.png)
+Denis Lagutenko - an entrepreneur, the founder of several projects in the fields of the Internet and affiliate marketing, as well as the owner of the manicure network WOW NAIL, one of the first who did not wait for the government guidance on quarantine and switched his companies to remote work before the official announcement. 
 
-### [394. Protecting the Most Vulnerable Populations During COVID-19](https://hackernoon.com/protecting-the-most-vulnerable-populations-during-covid-19-185s3y50)
+### [393. Protecting the Most Vulnerable Populations During COVID-19](https://hackernoon.com/protecting-the-most-vulnerable-populations-during-covid-19-185s3y50)
 ![](https://images.unsplash.com/photo-1580415216044-66e63a65860c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Thousands of COVID-19 deaths have been linked to nursing home residents or their caregivers - but COVID-19 isn’t stopping there. Though hundreds of thousands have been infected, efforts taken by governments such as social distancing have been proven to work. Looking at and comparing cities of similar sizes who enacted social distancing guidelines at different times can give us some insight on how well social distancing works. 
+
+### [394. Covid19: What Can MSME Do To Overcome The Challenges](https://hackernoon.com/covid19-what-can-msme-do-to-overcome-the-challenges-zv313yaz)
+![](https://cdn.hackernoon.com/drafts/vc2ig3y6a.png)
+Not long ago I posted a heartfelt 2 cents to the Government (Malaysia) in regards to the MSME (Micro Small Medium Enterprise) challenges, hopefully they might hear our little voices out. 
 
 ### [395. In Asymmetry WE Trust...And So Should You](https://hackernoon.com/in-asymmetry-we-trustand-so-should-you-0r8632ku)
 ![](https://cdn.hackernoon.com/drafts/prw3y0z.png)
 We are in transition to a new world order. 
 
-### [396. The Sacred Illusion](https://hackernoon.com/the-sacred-illusion-k86k3vae)
-![](https://cdn.hackernoon.com/drafts/msj132mn.png)
-If you told me two months ago that today would be the first day of quarantine that I would digitally get pen to paper, two-months-ago-me would have been outraged at quarantine-me. With no competition for my attention, I assumed that every creative pursuit that I’d put off for lack of time would come bursting out of me in a personal Renaissance like Bob Dylan producing The Basement Tapes. If Shakespeare wrote King Lear during plague quarantine, surely I could do something during my quarantine.
-
-### [397. Could COVID-19 Kickstart Surveillance Culture?](https://hackernoon.com/could-covid-19-kickstart-surveillance-culture-481e32vq)
-![](https://cdn.hackernoon.com/drafts/ji643yvn.png)
-Several months ago, saying that the “cure” that facial recognition offers is worse than the ills it solves would have seemed hyperbolic. But now, the metaphor has become all too literal -- and the medicine it promises isn’t quite so easy to reject when sickness is sweeping the globe. 
-
-### [398. An Apple a Day Keeps the Doctor Away— But With Global Pandemics At Play, Augmented Reality Must Stay](https://hackernoon.com/an-apple-a-day-keeps-the-doctor-away-but-with-global-pandemics-at-play-augmented-reality-must-stay-yb143xal)
+### [396. An Apple a Day Keeps the Doctor Away— But With Global Pandemics At Play, Augmented Reality Must Stay](https://hackernoon.com/an-apple-a-day-keeps-the-doctor-away-but-with-global-pandemics-at-play-augmented-reality-must-stay-yb143xal)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQdRQJW6V96b8SQtJgBmzVkZNOfl2-c353ug1.jpeg?alt=media&token=724c9c9f-47de-4f19-a23b-b921f8763868)
 The scariest thing you never want to hear come from an automated recording from your primary care physician’s office are the words “we are closed indefinitely until things clear up”. 
 
-### [399. The Lessons of Covid-19 for a Digital Decade](https://hackernoon.com/the-lessons-of-covid-19-for-a-digital-decade-u56t3ya2)
-![](https://cdn.hackernoon.com/drafts/qa2f3yh3.png)
-As we struggle with the Covid-19 pandemic, we are also learning some valuable lessons, and not only about how to handle an outbreak on this scale. We can also learn from the ‘success’ of the virus to build a new economic model that is robust enough to withstand another crisis, as well as creating a dynamic digital finance system to carry us through into the next decade and beyond.
+### [397. The Sacred Illusion](https://hackernoon.com/the-sacred-illusion-k86k3vae)
+![](https://cdn.hackernoon.com/drafts/msj132mn.png)
+If you told me two months ago that today would be the first day of quarantine that I would digitally get pen to paper, two-months-ago-me would have been outraged at quarantine-me. With no competition for my attention, I assumed that every creative pursuit that I’d put off for lack of time would come bursting out of me in a personal Renaissance like Bob Dylan producing The Basement Tapes. If Shakespeare wrote King Lear during plague quarantine, surely I could do something during my quarantine.
+
+### [398. Could COVID-19 Kickstart Surveillance Culture?](https://hackernoon.com/could-covid-19-kickstart-surveillance-culture-481e32vq)
+![](https://cdn.hackernoon.com/drafts/ji643yvn.png)
+Several months ago, saying that the “cure” that facial recognition offers is worse than the ills it solves would have seemed hyperbolic. But now, the metaphor has become all too literal -- and the medicine it promises isn’t quite so easy to reject when sickness is sweeping the globe. 
+
+### [399. Evaluating the Performance of SaaS Companies During COVID](https://hackernoon.com/evaluating-the-performance-of-saas-companies-during-covid-qe1p3u5u)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FDJDFSh0fCbh7XBU7ZoTjlrPfPd82-jv193u3v.webp?alt=media&token=8e89ff75-8078-4b21-9185-f90fdb1e8d2e)
+Following companies has a huge advantage – you can actually see every company’s performance by tracking its stocks. As the below table depicts, a few companies like Shopify, RingCentral, Twilio and Docusign have had tremendous growth in the past 6 months. Why – because in one way or another they enable people with ease of access to either office or ecommerce. Let’s look at the highlights of each company’s performance.
 
 ### [400. Technology-Driven Shipping Containers Poised to Solve COVID-19 Hospital Housing Shortage](https://hackernoon.com/technology-driven-shipping-containers-poised-to-solve-covid-19-hospital-housing-shortage-a5lh3yk3)
 ![](https://images.unsplash.com/photo-1527613426441-4da17471b66d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 ::: To efficiently and effectively resolve hospital bed and hospital staff housing deficits nationwide, cargo architecture firm Three Squared designs two custom-outfitted mobile shipping container units—one housing multiple hospital beds for patients, another for housing attending medical staff—complete with electrical and full bathrooms :::
 
-### [401. Evaluating the Performance of SaaS Companies During COVID](https://hackernoon.com/evaluating-the-performance-of-saas-companies-during-covid-qe1p3u5u)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FDJDFSh0fCbh7XBU7ZoTjlrPfPd82-jv193u3v.webp?alt=media&token=8e89ff75-8078-4b21-9185-f90fdb1e8d2e)
-Following companies has a huge advantage – you can actually see every company’s performance by tracking its stocks. As the below table depicts, a few companies like Shopify, RingCentral, Twilio and Docusign have had tremendous growth in the past 6 months. Why – because in one way or another they enable people with ease of access to either office or ecommerce. Let’s look at the highlights of each company’s performance.
-
-### [402. It Isn’t Over: Crisis Communication as Social Distancing is Lifted](https://hackernoon.com/it-isnt-over-crisis-communication-as-social-distancing-is-lifted-7w3b3ymh)
+### [401. It Isn’t Over: Crisis Communication as Social Distancing is Lifted](https://hackernoon.com/it-isnt-over-crisis-communication-as-social-distancing-is-lifted-7w3b3ymh)
 ![](https://cdn.hackernoon.com/drafts/gpju32kz.png)
 Hippocrates and Galen are foundational figures in the history of medicine (remember the Hippocratic Oath) -- but when it came to the plague they had simple guidance -- “Cito, Longe, Tarde,” which translates as “Leave quickly, go far away and come back slowly.”
+
+### [402. The Lessons of Covid-19 for a Digital Decade](https://hackernoon.com/the-lessons-of-covid-19-for-a-digital-decade-u56t3ya2)
+![](https://cdn.hackernoon.com/drafts/qa2f3yh3.png)
+As we struggle with the Covid-19 pandemic, we are also learning some valuable lessons, and not only about how to handle an outbreak on this scale. We can also learn from the ‘success’ of the virus to build a new economic model that is robust enough to withstand another crisis, as well as creating a dynamic digital finance system to carry us through into the next decade and beyond.
 
 ### [403. Pooled Adaptive PCR Testing](https://hackernoon.com/pooled-adaptive-pcr-testing-3r3m3zo1)
 ![](https://images.unsplash.com/photo-1511376868136-742c0de8c9a8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -1675,21 +1677,21 @@ This article proposes adaptive pool testing which involves testing a combined sa
 ![](https://cdn.hackernoon.com/images/m1r3kdu.jpg)
 Don’t get me wrong, it’s a funny title. It starts with how, whereas when you read it you probably wondered why.
 
-### [405. This One Sales Move Could Give Your Startup Its Own V-Shaped Recovery](https://hackernoon.com/this-one-sales-move-could-give-your-startup-its-own-v-shaped-recovery-8b2e325n)
+### [405. We Surveyed 365 People To Assess The Current State of Remote Work in the US](https://hackernoon.com/we-surveyed-365-people-to-assess-the-current-state-of-remote-work-in-the-us-80f63yuz)
+![](https://cdn.hackernoon.com/drafts/wnwd3y3p.png)
+Most U.S. employees now work from home temporarily because of the COVID-19 pandemic. Employees say the top advantages of working remotely are no commute and a more flexible schedule, while the biggest challenges are lack of collaboration and frequent interruptions.
+
+### [406. This One Sales Move Could Give Your Startup Its Own V-Shaped Recovery](https://hackernoon.com/this-one-sales-move-could-give-your-startup-its-own-v-shaped-recovery-8b2e325n)
 ![](https://cdn.hackernoon.com/drafts/n81h3y4x.png)
 Since COVID-19 has been at large and the world in quarantine, selling face-to-face has come to a complete stop. For those businesses who have refused to recognize that we are in a digital age and that at some point in time they would have to either be on-board and adapt, or be eaten up and dissolved, the time is now. You’re either in or you’re out.
-
-### [406. Shockwave Effects On Humanity: Pandemonium in 2020](https://hackernoon.com/shockwave-effects-on-humanity-pandemonium-in-2020-1f5v3wzv)
-![](https://cdn.hackernoon.com/drafts/ls4s3y5f.png)
-At first, you ignore it. Then you label it a ‘them’ problem. They should have known better, acted sooner. You move on with your life. You only start to really pay attention when London and New York get affected. Not unlike terrorist attacks, lives seem to matter more in some places. Could this happen to you?
 
 ### [407. We Are All Responsible for Misinformation Management](https://hackernoon.com/we-are-all-responsible-for-misinformation-management-h1453yu1)
 ![](https://images.unsplash.com/photo-1457694716743-eb419114c894?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Over the last few months misinformation has been spreading almost as quickly as the coronavirus. Social media has been inundated with false claims and misleading statements. 
 
-### [408. We Surveyed 365 People To Assess The Current State of Remote Work in the US](https://hackernoon.com/we-surveyed-365-people-to-assess-the-current-state-of-remote-work-in-the-us-80f63yuz)
-![](https://cdn.hackernoon.com/drafts/wnwd3y3p.png)
-Most U.S. employees now work from home temporarily because of the COVID-19 pandemic. Employees say the top advantages of working remotely are no commute and a more flexible schedule, while the biggest challenges are lack of collaboration and frequent interruptions.
+### [408. Shockwave Effects On Humanity: Pandemonium in 2020](https://hackernoon.com/shockwave-effects-on-humanity-pandemonium-in-2020-1f5v3wzv)
+![](https://cdn.hackernoon.com/drafts/ls4s3y5f.png)
+At first, you ignore it. Then you label it a ‘them’ problem. They should have known better, acted sooner. You move on with your life. You only start to really pay attention when London and New York get affected. Not unlike terrorist attacks, lives seem to matter more in some places. Could this happen to you?
 
 ### [409. Lowering TCO of Enterprise IT Systems during COVID-19](https://hackernoon.com/lowering-tco-of-enterprise-it-systems-during-covid-19-8c2u32wx)
 ![](https://cdn.hackernoon.com/images/741132c2.jpg)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [dart](https://hackernoon.com/tagged/dart)
+### Let's learn about [Dart](https://hackernoon.com/tagged/dart) via these 54 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Dart is an open-source programming language developed by Google, primarily used for building mobile, web, and desktop applications with a single codebase. Its efficiency and cross-platform capabilities are crucial for rapid and consistent software development.
+
 ### [1. A Look Ahead to Programming Languages in 2020](https://hackernoon.com/programming-languages-of-the-future-b61332kd)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-7p93q1g.jpeg)
 Python and JavaScript are the two hottest programming languages today. However, they cannot remain on top forever. Eventually, they must fall out of favour, as all languages do. This is likely to happen within the next decade or so.
@@ -33,13 +37,13 @@ State management in Flutter using RxDart, a reactive functional programming para
 ![](https://cdn.hackernoon.com/images/5fsVCK2bllWuX0JHIqFNx1DULDa2-7693plt.gif.webp)
 How to achieve the negative margins effect that can be seen in CSS in flutter. 
 
-### [9. How to Write Fewer Lines of Code with the OpenAPI Generator](https://hackernoon.com/how-to-write-fewer-lines-of-code-with-the-openapi-generator)
-![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-7r036we.png)
-Hey! I'll start with the main thing - I'm a lazy person. I'm a very, very lazy developer. How can I get rid of the need to write at least part of the code?
-
-### [10. Optimizing Flutter Performance: A Guide to (Async)NotifierProvider, Freezed, and Riverpod Code Gen](https://hackernoon.com/optimizing-flutter-performance-a-guide-to-asyncnotifierprovider-freezed-and-riverpod-code-gen)
+### [9. Optimizing Flutter Performance: A Guide to (Async)NotifierProvider, Freezed, and Riverpod Code Gen](https://hackernoon.com/optimizing-flutter-performance-a-guide-to-asyncnotifierprovider-freezed-and-riverpod-code-gen)
 ![](https://cdn.hackernoon.com/images/7MHXxJGH4YduN32lsrzKF5xaGq52-jh930i3.jpeg)
 iscover how to turbocharge your Flutter app's performance with AsyncNotifierProvider and NotifierProvider from Riverpod. 
+
+### [10. How to Write Fewer Lines of Code with the OpenAPI Generator](https://hackernoon.com/how-to-write-fewer-lines-of-code-with-the-openapi-generator)
+![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-7r036we.png)
+Hey! I'll start with the main thing - I'm a lazy person. I'm a very, very lazy developer. How can I get rid of the need to write at least part of the code?
 
 ### [11. Comparing the Best TypeScript Alternatives [Part I]](https://hackernoon.com/comparing-the-best-typescript-alternatives-part-i)
 ![](https://cdn.hackernoon.com/images/XIlys8PrM8eJ7n0qjETjuC0lbkB2-dze3qzq.jpeg)
@@ -105,13 +109,13 @@ Use location and permission handler packages to access user location. With that 
 ![](https://cdn.hackernoon.com/images/y3uk89KMZnfiawpEREPict96IDp2-q0937uk.jpeg)
 The most important Data structures explained in code for cracking the coding interview. Understand and learn how to implement them. Crack the interview
 
-### [27. Creating and Releasing an App with Flutter: Part I](https://hackernoon.com/creating-and-releasing-an-app-with-flutter-part-i)
-![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-hf93kf3.png)
-This is the first article in a series in which we will create an application from scratch and publish it on different platforms.
-
-### [28. Firebase Played Us!](https://hackernoon.com/firebase-played-us)
+### [27. Firebase Played Us!](https://hackernoon.com/firebase-played-us)
 ![](https://cdn.hackernoon.com/images/cGfg9TlH1bgGje7eIzVSvxyMCMn2-gx92khd.jpeg)
 My email had the solution all this time! Upon checking my email after days of stagnation on this issue, I found a notification email from Firebase.
+
+### [28. Creating and Releasing an App with Flutter: Part I](https://hackernoon.com/creating-and-releasing-an-app-with-flutter-part-i)
+![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-hf93kf3.png)
+This is the first article in a series in which we will create an application from scratch and publish it on different platforms.
 
 ### [29. Explaining Clean Architecture in Flutter Applications [Part 1: Theory]](https://hackernoon.com/explaining-clean-architecture-in-flutter-applications-part-1-theory)
 ![](https://cdn.hackernoon.com/images/o7di6srkiYgC0zRYYUawjHy1wFf2-okee39ck.jpeg)
@@ -137,37 +141,37 @@ The Flutter charting library Graphic has a well-designed interaction system for 
 ![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-n1a2nme.jpeg)
 The tutorial is a complete guide for beginners on flutter app development from installation and setup to state-management and firebase as backend services.
 
-### [35. 10 Most Sought-After Programming Languages You Should Learn In 2021](https://hackernoon.com/10-most-sought-after-programming-languages-you-should-learn-in-2021-g813333s)
-![](https://cdn.hackernoon.com/images/pAcvoQhfWVcc6iAV8V8vLYABz8C3-oya33fd.jpeg)
-If you are working on any technology and want to know which programming language is best for you then you can follow this article.
-
-### [36. A Guide to Creating Fun User Polls and Surveys With QuickBlox in Your Flutter App](https://hackernoon.com/a-guide-to-creating-fun-user-polls-and-surveys-with-quickblox-in-your-flutter-app)
+### [35. A Guide to Creating Fun User Polls and Surveys With QuickBlox in Your Flutter App](https://hackernoon.com/a-guide-to-creating-fun-user-polls-and-surveys-with-quickblox-in-your-flutter-app)
 ![](https://cdn.hackernoon.com/images/NVnLl8J6S2fKhSABWDLGrB376Vi1-5gb3suq.jpeg)
 In this article, we’ll learn how we can utilize the QuickBlox SDK to create polls and surveys in your Flutter chat applications.
 
-### [37. How to Design Screens & Widgets In Flutter](https://hackernoon.com/how-to-design-screens-and-widgets-in-flutter)
-![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-3b92p1z.jpeg)
-In this blog, we will create new card buttons, that'll be displayed in the grid view. Each button UI will take the user to a sub-page like Events, Temples, etc.
+### [36. 10 Most Sought-After Programming Languages You Should Learn In 2021](https://hackernoon.com/10-most-sought-after-programming-languages-you-should-learn-in-2021-g813333s)
+![](https://cdn.hackernoon.com/images/pAcvoQhfWVcc6iAV8V8vLYABz8C3-oya33fd.jpeg)
+If you are working on any technology and want to know which programming language is best for you then you can follow this article.
 
-### [38. Highlights Of Flutter 3.3 Released During Flutter Vikings Conference](https://hackernoon.com/highlights-of-flutter-33-released-during-flutter-vikings-conference)
-![](https://cdn.hackernoon.com/images/hiUZ3kTdzPTGnBr5D5Gh5tfoK4h1-ubb3oqf.jpeg)
-In the name of God, this year’s third release of Flutter 3.3 is here.
-
-### [39. The Grammar of Graphics](https://hackernoon.com/the-grammar-of-graphics)
-![](https://cdn.hackernoon.com/images/tQwc4Btf5APUdWJPC4xGAJ5T9UE2-cnb37yj.jpeg)
-This work displays the flexibility and diversity of the Grammar of Graphics, and also shows beginners the basic concepts of the Grammar of Graphics.
-
-### [40. Flutter Dependency Injection – Complete Guide Using GetIt](https://hackernoon.com/flutter-dependency-injection-complete-guide-using-getit)
+### [37. Flutter Dependency Injection – Complete Guide Using GetIt](https://hackernoon.com/flutter-dependency-injection-complete-guide-using-getit)
 ![](https://cdn.hackernoon.com/images/KQSiU0nufhcyDb0h8zAs4pA3Nev1-4o03axl.jpeg)
 Learn what dependency and dependency injection is and common dependency injection methods
 
-### [41. Improving the User Experience in Flutter](https://hackernoon.com/improving-the-user-experience-in-flutter)
-![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-jy92puj.jpeg)
-Improve user experience with feedback from Snack Bars, Progress Indicator, and Alert Dialog Boxes In Flutter.
+### [38. How to Design Screens & Widgets In Flutter](https://hackernoon.com/how-to-design-screens-and-widgets-in-flutter)
+![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-3b92p1z.jpeg)
+In this blog, we will create new card buttons, that'll be displayed in the grid view. Each button UI will take the user to a sub-page like Events, Temples, etc.
 
-### [42.  Using the New Google ML Kit Document Scanner for Flutter Apps](https://hackernoon.com/using-the-new-google-ml-kit-document-scanner-for-flutter-apps)
+### [39. Highlights Of Flutter 3.3 Released During Flutter Vikings Conference](https://hackernoon.com/highlights-of-flutter-33-released-during-flutter-vikings-conference)
+![](https://cdn.hackernoon.com/images/hiUZ3kTdzPTGnBr5D5Gh5tfoK4h1-ubb3oqf.jpeg)
+In the name of God, this year’s third release of Flutter 3.3 is here.
+
+### [40. The Grammar of Graphics](https://hackernoon.com/the-grammar-of-graphics)
+![](https://cdn.hackernoon.com/images/tQwc4Btf5APUdWJPC4xGAJ5T9UE2-cnb37yj.jpeg)
+This work displays the flexibility and diversity of the Grammar of Graphics, and also shows beginners the basic concepts of the Grammar of Graphics.
+
+### [41.  Using the New Google ML Kit Document Scanner for Flutter Apps](https://hackernoon.com/using-the-new-google-ml-kit-document-scanner-for-flutter-apps)
 ![](https://cdn.hackernoon.com/images/Rbb8wVGKB4dgfV0jb8NOb0bOaLx1-7ba3tek.jpeg)
 The Document Scanner is a new feature in the Google MLKit Flutter package. It allows users to convert physical documents into digital formats.
+
+### [42. Improving the User Experience in Flutter](https://hackernoon.com/improving-the-user-experience-in-flutter)
+![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-jy92puj.jpeg)
+Improve user experience with feedback from Snack Bars, Progress Indicator, and Alert Dialog Boxes In Flutter.
 
 ### [43. Why Flutter has Gutters 💪](https://hackernoon.com/why-flutter-has-gutters-4ei3u6w)
 ![](https://cdn.hackernoon.com/images/7v4t3hlf.jpg)
@@ -201,17 +205,17 @@ Exploring Dart Fundamentals: Variables, Types, Constants, and Operators
 ![](https://cdn.hackernoon.com/images/NVnLl8J6S2fKhSABWDLGrB376Vi1-wfk3sdf.jpeg)
 In this article, we’ll learn how we can utilize the QuickBlox SDK to create a react-to-message feature in our Flutter chat applications.
 
-### [51. Exploring Dart Fundamentals — Part 3: Dart Functions and Parameter Types ](https://hackernoon.com/exploring-dart-fundamentals-part-3-dart-functions-and-parameter-types)
-![](https://cdn.hackernoon.com/images/xnExhhWVgGRFDoTG4pYFD7lqIng1-q7822kc.jpeg)
-Exploring Dart Functions and Parameter Types — Positional Arguments, One-Line Function, Optional Parameters.
-
-### [52. Exploring Dart Fundamentals - Part 5: Inheritance and Method Overriding](https://hackernoon.com/exploring-dart-fundamentals-part-5-inheritance-and-method-overriding-in-dart)
+### [51. Exploring Dart Fundamentals - Part 5: Inheritance and Method Overriding](https://hackernoon.com/exploring-dart-fundamentals-part-5-inheritance-and-method-overriding-in-dart)
 ![](https://cdn.hackernoon.com/images/xnExhhWVgGRFDoTG4pYFD7lqIng1-va82vfz.jpeg)
 Learn about inheritance in object-oriented programming and how subclassing and superclassing work.
 
-### [53. Exploring Dart Fundamentals — Part 2: Dart Control Flow Statement ](https://hackernoon.com/exploring-dart-fundaments-part-2-dart-control-flow-statement)
+### [52. Exploring Dart Fundamentals — Part 2: Dart Control Flow Statement ](https://hackernoon.com/exploring-dart-fundaments-part-2-dart-control-flow-statement)
 ![](https://cdn.hackernoon.com/images/xnExhhWVgGRFDoTG4pYFD7lqIng1-t5a22k2.jpeg)
 Enter the world of Dart programming, the fundamental control flow structures of Dart 3, including if-else blocks, if-else-if blocks, switch statements, and more
+
+### [53. Exploring Dart Fundamentals — Part 3: Dart Functions and Parameter Types ](https://hackernoon.com/exploring-dart-fundamentals-part-3-dart-functions-and-parameter-types)
+![](https://cdn.hackernoon.com/images/xnExhhWVgGRFDoTG4pYFD7lqIng1-q7822kc.jpeg)
+Exploring Dart Functions and Parameter Types — Positional Arguments, One-Line Function, Optional Parameters.
 
 ### [54. Exploring Dart Fundamentals - Part 4: Data Structures and Null Safety in Dart ](https://hackernoon.com/exploring-dart-fundamentals-part-4-data-structures-and-null-safety-in-dart)
 ![](https://cdn.hackernoon.com/images/xnExhhWVgGRFDoTG4pYFD7lqIng1-u282sk8.jpeg)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [authentication](https://hackernoon.com/tagged/authentication)
+### Let's learn about [Authentication](https://hackernoon.com/tagged/authentication) via these 216 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Authentication is the process of verifying the identity of a user, system, or application, ensuring that only legitimate entities gain access to protected resources. It is a fundamental security measure crucial for protecting data and maintaining system integrity.
+
 ### [1. Using Session Cookies Vs. JWT for Authentication](https://hackernoon.com/using-session-cookies-vs-jwt-for-authentication-sd2v3vci)
 ![](https://cdn.hackernoon.com/images/t6yk3y1h.jpg)
 HTTP is a stateless protocol and is used to transmit data. It enables the communication between the client side and the server side. It was originally established to build a connection between web browsers and web servers.
@@ -105,13 +109,13 @@ In this blog post, we will discuss how to integrate Google Identity Services int
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-3493swa.jpeg)
 This article is part 2 of "Let's build and deploy a full stack MERN web application".
 
-### [27. How to Secure Your Flask Application with Ory Kratos and Ory Keto](https://hackernoon.com/how-to-secure-your-flask-application-with-ory-kratos-and-ory-keto)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-rn93hg5.jpeg)
-How to secure a flask application using Ory Kratos and Keto to easily add authentication features into your program without needing lines and lines of code.
-
-### [28. Designing Functional Authentication and Authorization Systems](https://hackernoon.com/designing-functional-authentication-and-authorization-systems)
+### [27. Designing Functional Authentication and Authorization Systems](https://hackernoon.com/designing-functional-authentication-and-authorization-systems)
 ![](https://cdn.hackernoon.com/images/ZgWtnLhNQ1Q13Um4rTs807oBHZf1-2l82vjc.jpeg)
 In this article, we are going to talk about a system for performing authentication and authorization securely. 
+
+### [28. How to Secure Your Flask Application with Ory Kratos and Ory Keto](https://hackernoon.com/how-to-secure-your-flask-application-with-ory-kratos-and-ory-keto)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-rn93hg5.jpeg)
+How to secure a flask application using Ory Kratos and Keto to easily add authentication features into your program without needing lines and lines of code.
 
 ### [29. Authentication Middleware in Express Gateway using JWT](https://hackernoon.com/authentication-middleware-in-express-gateway-using-jwt-km40360p)
 ![](https://images.unsplash.com/36/e6mVuK2jQlWxKt3eAnQT_image.jpg?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -145,13 +149,13 @@ This tutorial involves going through a step-by-step guide on how to set up the F
 ![](https://cdn.hackernoon.com/drafts/xm4ze3yvv.png)
 HMACs and MACs are authentication codes and are often the backbone of JWT authentication systems. Let's take a look at how they work!
 
-### [37. Authentication in React with Firebase](https://hackernoon.com/authentication-in-react-with-firebase-qc3x3vjl)
-![](https://images.unsplash.com/photo-1519337718347-749509f114a8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Sometimes we want to implement authentication for multiple reasons and we don't want to create an API just for the authentication or maybe we are not backend developers. That's why Firebase provides authentication backend services easy to use. It supports authentication using passwords, phone numbers, popular social networks like Google, Facebook and Twitter, and more.
-
-### [38. Never Rely on UUID for Authentication: Generation Vulnerabilities and Best Practices](https://hackernoon.com/never-rely-on-uuid-for-authentication-generation-vulnerabilities-and-best-practices)
+### [37. Never Rely on UUID for Authentication: Generation Vulnerabilities and Best Practices](https://hackernoon.com/never-rely-on-uuid-for-authentication-generation-vulnerabilities-and-best-practices)
 ![](https://cdn.hackernoon.com/images/JECMb0xYBnNikyLdzDenj2nyz8w2-ds83ei2.jpeg)
 The risks and best practices of using UUIDs for authentication, uncovering vulnerabilities, and secure implementation strategies.
+
+### [38. Authentication in React with Firebase](https://hackernoon.com/authentication-in-react-with-firebase-qc3x3vjl)
+![](https://images.unsplash.com/photo-1519337718347-749509f114a8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Sometimes we want to implement authentication for multiple reasons and we don't want to create an API just for the authentication or maybe we are not backend developers. That's why Firebase provides authentication backend services easy to use. It supports authentication using passwords, phone numbers, popular social networks like Google, Facebook and Twitter, and more.
 
 ### [39. Authentication using the Amazon Cognito to an Angular application](https://hackernoon.com/authentication-using-the-amazon-cognito-to-an-angular-application)
 ![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-ys92ksy.jpeg)
@@ -226,18 +230,18 @@ Application example built with React with authentication using the Auth0 service
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-fz932w6.jpeg)
 Amazon Elastic Kubernetes Service (EKS) is one of the leading managed Kubernetes solutions.
 
-### [57. So, Like, What is an API Key Really? And How Does it Provide Security?](https://hackernoon.com/so-like-what-is-an-api-key-really-and-how-does-it-provide-security)
+### [57. How To Create A User Portal On Airtable With Sync Inc And React](https://hackernoon.com/how-to-create-a-user-portal-on-airtable-with-sync-inc-and-react-nd1c35h9)
+![](https://cdn.hackernoon.com/images/nUXzVZ9txdgpJy0AIouC9R4THH13-5w9r327s.png)
+In this tutorial, you’ll see how to build a scalable, secure, and flexible client portal on Airtable using Sync Inc, Cotter, and Next.js.
+
+### [58. So, Like, What is an API Key Really? And How Does it Provide Security?](https://hackernoon.com/so-like-what-is-an-api-key-really-and-how-does-it-provide-security)
 ![](https://cdn.hackernoon.com/images/VoliPy4PhDefuF3Ry84BTJ9Bv8V2-9i93vqw.jpeg)
 An API key is a secret code that gets you inside. Yeah it does!
 
-### [58. The Future of Authentication](https://hackernoon.com/the-future-of-authentication-qhbi3ahu)
+### [59. The Future of Authentication](https://hackernoon.com/the-future-of-authentication-qhbi3ahu)
 ![](https://images.unsplash.com/photo-1533709752211-118fcaf03312?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Strong authentication's war is fought not in the trenches of password management along with more complex passwords, passphrases, or even better multifactor authentication. Instead, this war must start with
 fundamental authentication processes as none of the current options will become a long-lasting silver bullet.
-
-### [59. How To Create A User Portal On Airtable With Sync Inc And React](https://hackernoon.com/how-to-create-a-user-portal-on-airtable-with-sync-inc-and-react-nd1c35h9)
-![](https://cdn.hackernoon.com/images/nUXzVZ9txdgpJy0AIouC9R4THH13-5w9r327s.png)
-In this tutorial, you’ll see how to build a scalable, secure, and flexible client portal on Airtable using Sync Inc, Cotter, and Next.js.
 
 ### [60. Using OAuth Authentication to Serve Static Internal Documentation ](https://hackernoon.com/using-oauth-authentication-to-serve-static-internal-documentation)
 ![](https://cdn.hackernoon.com/images/KLWopdD8nMNFrlEbvhSNqn6YAW72-6392hwh.jpeg)
@@ -247,13 +251,13 @@ Let's walk through how to deploy Docusaurus behind an OAuth proxy which will for
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-hs93ov0.jpeg)
 Make use of Firebase Cloud Functions and Firestore to Authenticate in Flutter. SingInWithEmailAndPassword, HTTP Callables and Trigger, and more.
 
-### [62. Build DevOps for Secure Auth API Gateway using Nodejs, Aptible Terraform and Redis](https://hackernoon.com/build-devops-for-secure-auth-api-gateway-using-nodejs-aptible-terraform-and-redis)
-![](https://cdn.hackernoon.com/images/GFxWNaVUGadCuz5svjQlUTu1iz12-r9g3dxc.jpeg)
-Building a secure and scalable API gateway is crucial to modern software development.
-
-### [63. JSON Web Token: How To Secure Your Data With JWT](https://hackernoon.com/json-web-token-how-to-secure-your-data-with-jwt-8j5o3wzb)
+### [62. JSON Web Token: How To Secure Your Data With JWT](https://hackernoon.com/json-web-token-how-to-secure-your-data-with-jwt-8j5o3wzb)
 ![](https://images.unsplash.com/photo-1516637090014-cb1ab78511f5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 A JSON Web Token (JWT) is an open standard (RFC 7519) that defines a way for securely transferring information between two parties. It can be used for an authentication system. As this information is digitally signed, it can be verified and trusted.
+
+### [63. Build DevOps for Secure Auth API Gateway using Nodejs, Aptible Terraform and Redis](https://hackernoon.com/build-devops-for-secure-auth-api-gateway-using-nodejs-aptible-terraform-and-redis)
+![](https://cdn.hackernoon.com/images/GFxWNaVUGadCuz5svjQlUTu1iz12-r9g3dxc.jpeg)
+Building a secure and scalable API gateway is crucial to modern software development.
 
 ### [64. Adding Auth Flow Using SuperTokens into a React and Hasura GraphQL App](https://hackernoon.com/adding-auth-flow-using-supertokens-into-a-react-and-hasura-graphql-app)
 ![](https://cdn.hackernoon.com/images/tVmgy1BFDcZK1c7Ty90Zue1TAN93-ida2kpw.jpeg)
@@ -277,13 +281,13 @@ for authentication and shows how to restrict access to your server using the HT
 ![](https://cdn.hackernoon.com/images/kVpjfmfbglT2utAK2vk9aw1Y7e23-8da3h08.jpeg)
 Are JWTs really dead, or are they just misunderstood? In this article, Patrick Lee Scott explores the usage of JWTs in a web3 world.
 
-### [69. A Brief History in Authentication](https://hackernoon.com/a-brief-history-in-authentication-b9920dee28ae)
-![](https://cdn.hackernoon.com/drafts/vqr33pu.png)
-Photo Credits: Edward Tin
-
-### [70. Overriding the SuperTokens APIs for Custom Usecases](https://hackernoon.com/overriding-the-supertokens-apis-for-custom-usecases)
+### [69. Overriding the SuperTokens APIs for Custom Usecases](https://hackernoon.com/overriding-the-supertokens-apis-for-custom-usecases)
 ![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-ih026ci.jpeg)
 In this blog we discuss how to customize the auth APIs provided by SuperTokens using its “Override” feature"
+
+### [70. A Brief History in Authentication](https://hackernoon.com/a-brief-history-in-authentication-b9920dee28ae)
+![](https://cdn.hackernoon.com/drafts/vqr33pu.png)
+Photo Credits: Edward Tin
 
 ### [71. Connecting an Apigee Edge API Proxy with Auth0 Platform](https://hackernoon.com/connecting-an-apigee-edge-api-proxy-with-auth0-platform-pf1l3159)
 ![](https://cdn.hackernoon.com/images/q8ku2ExJMKWNhYx8Au7HZY4brUo1-pf5q31na.jpeg)
@@ -299,17 +303,17 @@ the essential purpose of these assessments were to provide organizations with th
 ![](https://cdn.hackernoon.com/images/Z7fkxfDpjOT4JTLVKWPSiyFHz1j1-ql82n5e.png)
 Learn how to build a secure, real-time collaborative document editor with Next.js, Appwrite, Liveblocks, and Permit.io using ReBAC.
 
-### [74. How to Implement Multi-Device Authentication System with FastAPI, Redis, and JWT](https://hackernoon.com/how-to-implement-multi-device-authentication-system-with-fastapi-redis-and-jwt)
+### [74. Secure Your NestJS App: How to Implement Authentication With Auth0](https://hackernoon.com/secure-your-nestjs-app-how-to-implement-authentication-with-auth0)
+![](https://cdn.hackernoon.com/images/522HUnTfSIbvDbyhWY3RIecYcZy2-qb034z1.jpeg)
+This guide will walk you through securing your NestJS app using Auth0.
+
+### [75. How to Implement Multi-Device Authentication System with FastAPI, Redis, and JWT](https://hackernoon.com/how-to-implement-multi-device-authentication-system-with-fastapi-redis-and-jwt)
 ![](https://cdn.hackernoon.com/images/NGxqBinxp6TjZNefNTICTcmtBA92-t102tmt.png)
 You know how you can sign-in to  multiple devices on Google and sign-out from on one device through another, well, I tried to implement that using Redis
 
-### [75. Secure Sessions in JavaScript: Forking Express-Session to Improve Security](https://hackernoon.com/secure-sessions-in-javascript-forking-express-session-to-improve-security-s62c35mk)
+### [76. Secure Sessions in JavaScript: Forking Express-Session to Improve Security](https://hackernoon.com/secure-sessions-in-javascript-forking-express-session-to-improve-security-s62c35mk)
 ![](https://cdn.hackernoon.com/images/OfBgU60E2IVl4uEe0h0tIxrGUFe2-pa1m3ohx.jpeg)
 If you ever made a webapp in JS, chances are you used Express as a web framework, Passport for user authentication and express-session to maintain users logged in. This article focuses on sessions and how we forked express-session to make it more secure.
-
-### [76. Secure Your NestJS App: How to Implement Authentication With Auth0](https://hackernoon.com/secure-your-nestjs-app-how-to-implement-authentication-with-auth0)
-![](https://cdn.hackernoon.com/images/522HUnTfSIbvDbyhWY3RIecYcZy2-qb034z1.jpeg)
-This guide will walk you through securing your NestJS app using Auth0.
 
 ### [77. How to Configure Your Preferred User Stores to Authenticate Users using WSO2](https://hackernoon.com/how-to-configure-your-preferred-user-stores-to-authenticate-users-using-wso2-f6bn3yw9)
 ![](https://images.unsplash.com/photo-1581291519195-ef11498d1cf2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -331,13 +335,13 @@ Most of the developers have heard for Google’s product called Firebase. It’s
 ![](https://cdn.hackernoon.com/images/CU9T26Y1hNgrvyNxGX0jRAJfpM12-u183g2s.jpeg)
 Master Node.js auth with Knex, Redis, and Express. Craft a secure, efficient user flow with ease.
 
-### [82. Enhancing Password Security and Recovery with Next.js 14 and NextAuth.js](https://hackernoon.com/enhancing-password-security-and-recovery-with-nextjs-14-and-nextauthjs)
-![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-jb833fd.jpeg)
-Learn to set up a secure and user-friendly system for password recovery in Next.js, complete with token verification and email notifications.
-
-### [83. Validating a User Phone Number With SMS on Auth0 Using ZENVIA](https://hackernoon.com/validating-a-user-phone-number-with-sms-on-auth0-using-zenvia)
+### [82. Validating a User Phone Number With SMS on Auth0 Using ZENVIA](https://hackernoon.com/validating-a-user-phone-number-with-sms-on-auth0-using-zenvia)
 ![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-ay92pmh.jpeg)
 Application example using Angular where a simple WEB application will be implemented to validate the user phone by SMS in the authentication.
+
+### [83. Enhancing Password Security and Recovery with Next.js 14 and NextAuth.js](https://hackernoon.com/enhancing-password-security-and-recovery-with-nextjs-14-and-nextauthjs)
+![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-jb833fd.jpeg)
+Learn to set up a secure and user-friendly system for password recovery in Next.js, complete with token verification and email notifications.
 
 ### [84. Setting Up NextJS 13 with Auth0 and Sub-Domains: A Guide to Multi-Tenancy Web Apps](https://hackernoon.com/unlocking-auth0-sub-domains-a-guide-to-setting-up-nextjs-13-and-auth0-for-multi-tenan-web-apps)
 ![](https://cdn.hackernoon.com/images/A7coZ0uhYMgPNXXtkg7aiDfCsxT2-oq930od.jpeg)
@@ -359,13 +363,13 @@ Traditional vs zero trust? Learn how zero trust outperforms the traditional mode
 ![](https://cdn.hackernoon.com/images/Z7fkxfDpjOT4JTLVKWPSiyFHz1j1-t822nk4.png)
 This article explores how to implement a permission system in Langflow workflows using Permit.io’s ABAC capabilities.
 
-### [89. Hashing, Salting, and Verifying Passwords in NodeJS, Python, Golang, and Java](https://hackernoon.com/hashing-salting-and-verifying-passwords-in-nodejs-python-golang-and-java)
-![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-ki92im4.jpeg)
-How to hash and salt passwords in different languages and why it's important to do so
-
-### [90. Setting Up Auth0 Authentication with Expo Router: A Complete Guide](https://hackernoon.com/setting-up-auth0-authentication-with-expo-router-a-complete-guide)
+### [89. Setting Up Auth0 Authentication with Expo Router: A Complete Guide](https://hackernoon.com/setting-up-auth0-authentication-with-expo-router-a-complete-guide)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-r703203.jpeg)
 Setting Up Auth0 Authentication with Expo Router: A Complete Guide
+
+### [90. Hashing, Salting, and Verifying Passwords in NodeJS, Python, Golang, and Java](https://hackernoon.com/hashing-salting-and-verifying-passwords-in-nodejs-python-golang-and-java)
+![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-ki92im4.jpeg)
+How to hash and salt passwords in different languages and why it's important to do so
 
 ### [91. What Is a JSON Web Token (JWT)?](https://hackernoon.com/what-is-a-json-web-token-jwt)
 ![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-fia2jru.jpeg)
@@ -375,21 +379,21 @@ JWTs or JSON Web Tokens are most commonly used to identify an authenticated user
 ![](https://cdn.hackernoon.com/images/iXCm3zWDOTZHqv2OaG7ki6lYrmf1-t623ado.jpeg)
 This guide will walk you through securing a Node.js MCP server from the ground up using JWT.
 
-### [93. Common Attack Vectors that Authentication Services are Faced With](https://hackernoon.com/common-attack-vectors-that-authentication-services-are-faced-with)
-![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-cu93o1h.jpeg)
-Hacking user accounts on many websites is still easier than it could and should be. This blog post helps you secure your application against identity theft.
+### [93. Revoking Access to JWT tokens with a Blacklist/Deny List](https://hackernoon.com/revoking-access-to-jwt-tokens-with-a-blacklistdeny-list)
+![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-b093i4i.jpeg)
+Learn how to maintain a JWT blacklist / deny list using an in-memory data cache.
 
 ### [94. Nextjs User Login Authentication in 5 Simple Steps Using Auth0](https://hackernoon.com/nextjs-user-login-authentication-in-5-simple-steps-using-auth0)
 ![](https://cdn.hackernoon.com/images/Y0kXG115Z7VorP4rguIGxwn3FoD3-4x93mqt.jpeg)
 In this post we are going to discuss, how you can set up a user Login authentication using Auth0 in Next.js projects.
 
-### [95. Authorization With User Roles (RBAC)](https://hackernoon.com/authorization-with-user-roles-rbac)
+### [95. Common Attack Vectors that Authentication Services are Faced With](https://hackernoon.com/common-attack-vectors-that-authentication-services-are-faced-with)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-cu93o1h.jpeg)
+Hacking user accounts on many websites is still easier than it could and should be. This blog post helps you secure your application against identity theft.
+
+### [96. Authorization With User Roles (RBAC)](https://hackernoon.com/authorization-with-user-roles-rbac)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ra93ofr.jpeg)
 Authorization is all about answering the question “Is this user allowed to do a certain operation?”. In this post we go over how you can implement RBAC
-
-### [96. Revoking Access to JWT tokens with a Blacklist/Deny List](https://hackernoon.com/revoking-access-to-jwt-tokens-with-a-blacklistdeny-list)
-![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-b093i4i.jpeg)
-Learn how to maintain a JWT blacklist / deny list using an in-memory data cache.
 
 ### [97. From Passwords to Passwordless Authentication](https://hackernoon.com/from-passwords-to-passwordless-authentication-le12351o)
 ![](https://cdn.hackernoon.com/images/A57WDNF5CuO7ymx1AAFFHo5gMRE2-beu34ux.jpeg)
@@ -453,41 +457,41 @@ A passwordless approach is not the end-all-be-all for data security, but it is t
 ![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-k4a2kzx.png)
 Learn how to connect a self-hosted SuperTokens core to a database with or without Docker
 
-### [112. An Essential Guide to IAM (Identity Access Management) in 2022](https://hackernoon.com/an-essential-guide-to-iam-identity-access-management-in-2022)
+### [112. Session vs JWT vs OAuth2: The Complete Authentication Strategy](https://hackernoon.com/session-vs-jwt-vs-oauth2-the-complete-authentication-strategy)
+![](https://cdn.hackernoon.com/images/JdAMnkKbQwN94BHuIt3Fhdifbbv2-1o438dt.jpeg)
+Compare Session, JWT & OAuth2 authentication strategies. Learn when to use each method with architecture diagrams, pros/cons & decision frameworks.
+
+### [113. An Essential Guide to IAM (Identity Access Management) in 2022](https://hackernoon.com/an-essential-guide-to-iam-identity-access-management-in-2022)
 ![](https://cdn.hackernoon.com/images/1IxM7GKLYDakgfi63gsyfgYPLG83-ay92pip.jpeg)
 The term IAM is one of the common you hear in cloud-native environments. What does such a system do? A fast and pragmatic introduction to IAM
-
-### [113. Deploying SuperTokens with React and NodeJS on Vercel](https://hackernoon.com/deploying-supertokens-with-react-and-nodejs-on-vercel)
-![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-5f92j9z.jpeg)
-This tutorial will guide you on how to add SuperTokens to a React and Express app deployed on Vercel
 
 ### [114. How Can You Improve Your Cybersecurity With Continuous Authentication](https://hackernoon.com/how-can-you-improve-your-cybersecurity-with-continuous-authentication-3e5a943889f6)
 ![](https://cdn.hackernoon.com/drafts/b81t33o9.png)
 Standard authentication methods such as multi-factor authentication (MFA) and one-time passwords work as filters at the entrance of the protected perimeter. But what if someone managed to trick these filters or changed the user after their successful login? Cyber attackers may steal credentials of legitimate users and even one-time passcodes using malware and different phishing techniques. In the companies without special employee monitoring software, employees often nonchalantly share their logins and passwords with colleagues. Finally, there’s always a risk of someone getting a hold of a corporate device such as a laptop or smartphone with full access to the corporate network, critical resources, and applications.
 
-### [115. Implementing Google Authentication and Fetching Mails from Scratch Using Python Django](https://hackernoon.com/implementing-google-authentication-and-fetching-mails-from-scratch-using-python-django-qidv36j7)
-![](https://cdn.hackernoon.com/drafts/cs4n2d42.png)
-Google Authentication and Fetching mails from scratch means without using any module which has already set up this authentication process. 
+### [115. Deploying SuperTokens with React and NodeJS on Vercel](https://hackernoon.com/deploying-supertokens-with-react-and-nodejs-on-vercel)
+![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-5f92j9z.jpeg)
+This tutorial will guide you on how to add SuperTokens to a React and Express app deployed on Vercel
 
-### [116. Session vs JWT vs OAuth2: The Complete Authentication Strategy](https://hackernoon.com/session-vs-jwt-vs-oauth2-the-complete-authentication-strategy)
-![](https://cdn.hackernoon.com/images/JdAMnkKbQwN94BHuIt3Fhdifbbv2-1o438dt.jpeg)
-Compare Session, JWT & OAuth2 authentication strategies. Learn when to use each method with architecture diagrams, pros/cons & decision frameworks.
-
-### [117. Kerberoasting: A Gateway to Privilege Escalation in Enterprise Networks](https://hackernoon.com/kerberoasting-a-gateway-to-privilege-escalation-in-enterprise-networks)
+### [116. Kerberoasting: A Gateway to Privilege Escalation in Enterprise Networks](https://hackernoon.com/kerberoasting-a-gateway-to-privilege-escalation-in-enterprise-networks)
 ![](https://cdn.hackernoon.com/images/tX6cWE9O7teWKJaCyqBXooCsDAl1-ie03470.png)
 Hackers in today's digital world are constantly creating innovative ways to access systems and steal data, especially in more interconnected business networks. 
+
+### [117. Implementing Google Authentication and Fetching Mails from Scratch Using Python Django](https://hackernoon.com/implementing-google-authentication-and-fetching-mails-from-scratch-using-python-django-qidv36j7)
+![](https://cdn.hackernoon.com/drafts/cs4n2d42.png)
+Google Authentication and Fetching mails from scratch means without using any module which has already set up this authentication process. 
 
 ### [118. An In-Depth Comparison of OAuth and JWT (JSON Web Tokens)](https://hackernoon.com/an-in-depth-comparison-of-oauth-and-jwt-json-web-tokens)
 ![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-bn92jvt.jpeg)
 Learn about the difference between JWT Token and OAuth
 
-### [119. Understanding Roles-Based Access Control (RBAC)](https://hackernoon.com/understanding-roles-based-access-control-rbac)
-![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-rt93pva.png)
-Learn about RBAC and advantages + disadvantages compared to ABAC.
-
-### [120. The Pain Of Making A Blockchain App From Scratch](https://hackernoon.com/the-pain-of-making-a-blockchain-app-from-scratch)
+### [119. The Pain Of Making A Blockchain App From Scratch](https://hackernoon.com/the-pain-of-making-a-blockchain-app-from-scratch)
 ![](https://cdn.hackernoon.com/images/NrFSc2nZgpMUPlzQHq8IsPpbsq83-vr93zn5.jpeg)
 So easy, an ape could do it. Thoughts from the lead developer and Top Ape at SnowApe, a Web3 real money gaming project that made a blockchain app from scratch.
+
+### [120. Understanding Roles-Based Access Control (RBAC)](https://hackernoon.com/understanding-roles-based-access-control-rbac)
+![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-rt93pva.png)
+Learn about RBAC and advantages + disadvantages compared to ABAC.
 
 ### [121. How Face ID and Touch ID Work: A Gentle Introduction to WebAthn](https://hackernoon.com/how-face-id-and-touch-id-works-a-gentle-introduction-to-webathn)
 ![](https://cdn.hackernoon.com/images/3pLKRMSt7lUHnCnu223sc45tfuI3-l5a3gxo.jpeg)
@@ -505,13 +509,13 @@ Having secure authentication measures in place isn't optional. We cover everythi
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-al13oaa.jpeg)
 Authentication is the most important part of any application. Learn more about it!
 
-### [125. The Achilles Heel of Authentication in 2020](https://hackernoon.com/the-achilles-heel-of-authentication-in-2020-it1q33x9)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-n2173uji.jpeg?alt=media&token=d93522fa-daf4-4df6-bac8-ba5fceac0dac)
-I spoke to developers all over the world to find out what are the most pressing authentication pain points in 2020?  The results are in.
-
-### [126. The Difference Between OAuth 2.0 And Session Management](https://hackernoon.com/the-difference-between-oauth-20-and-session-management-b75s3wlm)
+### [125. The Difference Between OAuth 2.0 And Session Management](https://hackernoon.com/the-difference-between-oauth-20-and-session-management-b75s3wlm)
 ![](https://cdn.hackernoon.com/drafts/8v4j3vw5.png)
 There seems to be a lot of misinformation on when OAuth 2.0 (henceforth referred to as OAuth) is appropriate for use. A lot of developers confuse OAuth with web session management and hence end up using the wrong protocol / set of technologies. This, in turn, leads to security issues. This article will clarify when to use regular session management solutions and when to use any one of the OAuth flows.
+
+### [126. The Achilles Heel of Authentication in 2020](https://hackernoon.com/the-achilles-heel-of-authentication-in-2020-it1q33x9)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-n2173uji.jpeg?alt=media&token=d93522fa-daf4-4df6-bac8-ba5fceac0dac)
+I spoke to developers all over the world to find out what are the most pressing authentication pain points in 2020?  The results are in.
 
 ### [127. Learnings From The Meow Bot Attack on Our MongoDB Databases](https://hackernoon.com/learnings-from-the-meow-bot-attack-on-our-mongodb-databases-y22q3zs8)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfKLo0ZgXOChn89OrFSNFFcWx60T2-d05r3wve.png?alt=media&token=5828d3d5-e98b-45a5-9ceb-454a355a497e)
@@ -529,33 +533,33 @@ Mutual Human Authorization is a digital communication protocol that SharePass is
 ![](https://cdn.hackernoon.com/images/T6r7N1Q06lSE0ZrpHoiOCPa0HzS2-gz830p1.png)
 Discover how SCIM improves enterprise IAM complementing SSO for automated authentication and authorization.
 
-### [131. Google's Authenticator App Explained and Reviewed](https://hackernoon.com/googles-authenticator-app-explained-and-reviewed-b01f3unt)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FdJ7MzRYbq8et9JjFyKAEWhkCfPO2-kh2o3uer.jpeg?alt=media&token=fb9321fd-ddb4-4051-bc41-8806b4050ac2)
-Such a cool-sounding term, I had to find out its meaning and purpose. So here is the story.
-
-### [132. Templating in Software Development: Taking a Deeper Look](https://hackernoon.com/templating-in-software-development-taking-a-deeper-look)
-![](https://cdn.hackernoon.com/images/bK6famsVejQnj0vqeEXJK8YRaZX2-v892t1q.png)
-Explore how templating in software development can streamline your projects.
-
-### [133. What Developers Mean When They Talk About API](https://hackernoon.com/what-developers-mean-when-they-talk-about-api-w19b3yir)
-![](https://cdn.hackernoon.com/drafts/v31d3yru.png)
-API has become one of those catch-all terms that developers throw around without really considering the context. On any given week, you will come across discussions like "How to use the Twitter API", "New framework X is great because it has a low API surface", and "Best practices for building an API."
-
-### [134. Authenticate Users Via Face Recognition On Your Website or App](https://hackernoon.com/authenticate-users-via-face-recognition-on-your-website-or-app)
+### [131. Authenticate Users Via Face Recognition On Your Website or App](https://hackernoon.com/authenticate-users-via-face-recognition-on-your-website-or-app)
 ![](https://cdn.hackernoon.com/images/jYhXQXM6eHTnDHPN4dl9GZIxCO73-sp92igi.jpeg)
 Learn how to authenticate users on a typical website or web application via face recognition instead of the traditional login/password pair.
 
-### [135. NFTs for Authorized User Registration - Part 1](https://hackernoon.com/nfts-for-authorized-user-registration-part-1)
+### [132. Google's Authenticator App Explained and Reviewed](https://hackernoon.com/googles-authenticator-app-explained-and-reviewed-b01f3unt)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FdJ7MzRYbq8et9JjFyKAEWhkCfPO2-kh2o3uer.jpeg?alt=media&token=fb9321fd-ddb4-4051-bc41-8806b4050ac2)
+Such a cool-sounding term, I had to find out its meaning and purpose. So here is the story.
+
+### [133. A Beginner-Friendly Guide to Phone Authentication With FirebaseUI in React](https://hackernoon.com/a-beginner-friendly-guide-to-phone-authentication-with-firebaseui-in-react)
+![](https://cdn.hackernoon.com/images/hPxuWwdsVdX5m8RoVpgA3hChIn42-6h035lr.png)
+How to implement phone number authentication in your React app using Firebase and FirebaseUI. This step-by-step guide covers setup, OTP handling, reCAPTCHA, etc
+
+### [134. Templating in Software Development: Taking a Deeper Look](https://hackernoon.com/templating-in-software-development-taking-a-deeper-look)
+![](https://cdn.hackernoon.com/images/bK6famsVejQnj0vqeEXJK8YRaZX2-v892t1q.png)
+Explore how templating in software development can streamline your projects.
+
+### [135. What Developers Mean When They Talk About API](https://hackernoon.com/what-developers-mean-when-they-talk-about-api-w19b3yir)
+![](https://cdn.hackernoon.com/drafts/v31d3yru.png)
+API has become one of those catch-all terms that developers throw around without really considering the context. On any given week, you will come across discussions like "How to use the Twitter API", "New framework X is great because it has a low API surface", and "Best practices for building an API."
+
+### [136. NFTs for Authorized User Registration - Part 1](https://hackernoon.com/nfts-for-authorized-user-registration-part-1)
 ![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-ji93lyw.jpeg)
 How does using an NFT as part of an MFA login work? Here's how. 
 
-### [136. Identity, Authentication, and Authorization: An Extensive Guide to Get You Up to Speed](https://hackernoon.com/identity-authentication-and-authorization-an-extensive-guide-to-get-you-up-to-speed)
+### [137. Identity, Authentication, and Authorization: An Extensive Guide to Get You Up to Speed](https://hackernoon.com/identity-authentication-and-authorization-an-extensive-guide-to-get-you-up-to-speed)
 ![](https://cdn.hackernoon.com/images/a-lock-on-a-locker-o8fdsg693bv4tb8h05qbhsbk.png)
 In this post, we will dive deeper and demystify how apps actually implement authentication. Do it right, and you barely notice it.
-
-### [137. A Beginner-Friendly Guide to Phone Authentication With FirebaseUI in React](https://hackernoon.com/a-beginner-friendly-guide-to-phone-authentication-with-firebaseui-in-react)
-![](https://cdn.hackernoon.com/images/hPxuWwdsVdX5m8RoVpgA3hChIn42-6h035lr.png)
-How to implement phone number authentication in your React app using Firebase and FirebaseUI. This step-by-step guide covers setup, OTP handling, reCAPTCHA, etc
 
 ### [138. Passwordless Authentication: Is it Time to Bid Farewell to Passwords?](https://hackernoon.com/passwordless-authentication-is-it-time-to-bid-farewell-to-passwords)
 ![](https://cdn.hackernoon.com/images/Q7Ilpvu5bRN22EpJho9JEiSRxSo2-zq93pfg.jpeg)
@@ -565,57 +569,57 @@ The digital-first world demands everyone to authenticate themselves before avail
 ![](https://cdn.hackernoon.com/images/UGSJMB4obWTl7VaZGGwskKeOCBr1-613931yd.jpeg)
 Password generators are now in abundance. Particularly surprising are the many web applications for this purpose.
 
-### [140. Authentication Tools For Developers: A Comparison](https://hackernoon.com/comparing-authentication-tools-for-developers-h83my2d45)
-![](https://cdn.hackernoon.com/images/203je2do6.jpg)
-When I first started learning to code, I went through more tutorials than I can count. I built so many todo list apps that I can’t even use a todo list without wondering if someone built it as a tutorial then turned it into a product. I learned CRUD (create, read, update, delete). I learned frameworks (React, Angular, Vue). I learned so much, but in every tutorial, something was missing. Something critical.
+### [140. 6 Login Methods Every Developer Should Know](https://hackernoon.com/6-login-methods-every-developer-should-know)
+![](https://cdn.hackernoon.com/images/hxgB3A2KjtPk4sJXB1ezGnusKBx1-ix1386q.png)
+Confused by cookies, tokens, and API keys? This guide breaks down 6 common authentication methods — Basic Auth, Cookies, Tokens, API Keys, OTP, and SSO!
 
 ### [141. How to Authenticate With OpenID Connect and Apache APISIX](https://hackernoon.com/how-to-authenticate-with-openid-connect-and-apache-apisix)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-0ch2d1k.jpeg)
 In this post, I want to demo how to use OpenID Connect using Google underneath and then switch to Azure.
 
-### [142. 6 Login Methods Every Developer Should Know](https://hackernoon.com/6-login-methods-every-developer-should-know)
-![](https://cdn.hackernoon.com/images/hxgB3A2KjtPk4sJXB1ezGnusKBx1-ix1386q.png)
-Confused by cookies, tokens, and API keys? This guide breaks down 6 common authentication methods — Basic Auth, Cookies, Tokens, API Keys, OTP, and SSO!
+### [142. How to Automate WordPress Workflows Using the REST API](https://hackernoon.com/how-to-automate-wordpress-workflows-using-the-rest-api)
+![](https://cdn.hackernoon.com/images/digital-workflow-yhmp8dsjmtd3yquwfcd5t0gk.png)
+Learn practical WordPress REST API automation patterns for bulk content ops, maintenance, and integrations that save hours every week.
 
-### [143. Unlocking the Magic of Zero-Knowledge-Proofs—Part 2: Artificial Reasoning and Limits of Information](https://hackernoon.com/unlocking-the-magic-of-zero-knowledge-proofspart-2-artificial-reasoning-and-limits-of-information)
-![](https://cdn.hackernoon.com/images/a-mystical-door-dntscuec6se55hgrmmh72ngc.png)
-Explore the fusion of cryptography, metaphysics, and human ingenuity in unraveling the mysteries of ZKP.
-
-### [144. AssumeRoleWithWebIdentity WHAT?! Debugging the Github to AWS OIDC InvalidIdentityToken Failure Loop](https://hackernoon.com/assumerolewithwebidentity-what-debugging-the-github-to-aws-oidc-invalididentitytoken-failure-loop)
+### [143. AssumeRoleWithWebIdentity WHAT?! Debugging the Github to AWS OIDC InvalidIdentityToken Failure Loop](https://hackernoon.com/assumerolewithwebidentity-what-debugging-the-github-to-aws-oidc-invalididentitytoken-failure-loop)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6792cbk.jpeg)
 We encountered the InvalidIdentityToken error with the AssumeRoleWithWebIdentity method - we'll dive into how to fix it.
 
-### [145. What If Your Unique Typing Style Could Become Your Seamless Password? ](https://hackernoon.com/what-if-your-unique-typing-style-could-become-your-seamless-password)
+### [144. Authentication Tools For Developers: A Comparison](https://hackernoon.com/comparing-authentication-tools-for-developers-h83my2d45)
+![](https://cdn.hackernoon.com/images/203je2do6.jpg)
+When I first started learning to code, I went through more tutorials than I can count. I built so many todo list apps that I can’t even use a todo list without wondering if someone built it as a tutorial then turned it into a product. I learned CRUD (create, read, update, delete). I learned frameworks (React, Angular, Vue). I learned so much, but in every tutorial, something was missing. Something critical.
+
+### [145. Unlocking the Magic of Zero-Knowledge-Proofs—Part 2: Artificial Reasoning and Limits of Information](https://hackernoon.com/unlocking-the-magic-of-zero-knowledge-proofspart-2-artificial-reasoning-and-limits-of-information)
+![](https://cdn.hackernoon.com/images/a-mystical-door-dntscuec6se55hgrmmh72ngc.png)
+Explore the fusion of cryptography, metaphysics, and human ingenuity in unraveling the mysteries of ZKP.
+
+### [146. What If Your Unique Typing Style Could Become Your Seamless Password? ](https://hackernoon.com/what-if-your-unique-typing-style-could-become-your-seamless-password)
 ![](https://cdn.hackernoon.com/images/oG6XGdB74NQlC9xxEAAuFZ4BOTD2-rm032ds.png)
 Design a keystroke pattern based authenticator using ML methods like CNN/RNN-LSTM with real world examples and code. 
 
-### [146. Introduction to IDaaS and its Applications ](https://hackernoon.com/introduction-to-idaas-and-its-applications-evv31uc)
-![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-tpb358h.jpeg)
-If you're reading this article, you might be interested to learn how to implement user management for your application, understanding the complete picture of how identity management services work. That's what we'll do in this article. You'll learn what is Identity as a Service (IDaaS), why to use such a service, what is Single Sign-On (SSO), and IDaaS platforms.
-
-### [147. Authentication Vs. Authorization [Infographic]](https://hackernoon.com/authentication-vs-authorization-infographic-si183wpw)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQ7Ilpvu5bRN22EpJho9JEiSRxSo2-5c4j3t6l.jpeg?alt=media&token=8acd613d-3ac6-4ec4-971d-03f31fe3b02b)
-In online protection systems, authentication and authorization play an important role. They confirm the user's identity and grant your website or application access. In order to decide which combination of web tools best fits your security needs, it is important that you notice their differences.
-
-### [148. How to Implement a Forgot Password Flow (With Pseudo Code)](https://hackernoon.com/how-to-implement-a-forgot-password-flow-with-pseudo-code-7u1j379a)
+### [147. How to Implement a Forgot Password Flow (With Pseudo Code)](https://hackernoon.com/how-to-implement-a-forgot-password-flow-with-pseudo-code-7u1j379a)
 ![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-nn1t351c.jpeg)
 What should happen on the backend when a user forgets their password? Read to find a pseudo code implementation of the simplest way to reset passwords securely.
 
-### [149. A Quick Guide to JSON Web Token [JWT]](https://hackernoon.com/a-quick-guide-to-json-web-token-jwt)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-029a35hv.png)
-JSON Web Token (JWT) is an open standard (RFC 7519) for securely transmitting information between parties as JSON objects.
+### [148. Introduction to IDaaS and its Applications ](https://hackernoon.com/introduction-to-idaas-and-its-applications-evv31uc)
+![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-tpb358h.jpeg)
+If you're reading this article, you might be interested to learn how to implement user management for your application, understanding the complete picture of how identity management services work. That's what we'll do in this article. You'll learn what is Identity as a Service (IDaaS), why to use such a service, what is Single Sign-On (SSO), and IDaaS platforms.
+
+### [149. Authentication Vs. Authorization [Infographic]](https://hackernoon.com/authentication-vs-authorization-infographic-si183wpw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQ7Ilpvu5bRN22EpJho9JEiSRxSo2-5c4j3t6l.jpeg?alt=media&token=8acd613d-3ac6-4ec4-971d-03f31fe3b02b)
+In online protection systems, authentication and authorization play an important role. They confirm the user's identity and grant your website or application access. In order to decide which combination of web tools best fits your security needs, it is important that you notice their differences.
 
 ### [150. Storing Passwords In A Database: A Better Way to Do So](https://hackernoon.com/storing-passwords-in-a-database-a-better-way-to-do-so)
 ![](https://cdn.hackernoon.com/images/WnT4onrLDxWJByyjiz9SY4adyu73-r3832ct.jpeg)
 Discover the best practices for securely storing passwords in a database. Explore the risks of plain text storage and the advantages of using hashing functions 
 
-### [151. Digital Identity Around the World: Why Some Countries are Embracing Self Sovereign Identity Quicker ](https://hackernoon.com/digital-identity-around-the-world-why-some-countries-are-embracing-self-sovereign-identity-quicker)
+### [151. A Quick Guide to JSON Web Token [JWT]](https://hackernoon.com/a-quick-guide-to-json-web-token-jwt)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-029a35hv.png)
+JSON Web Token (JWT) is an open standard (RFC 7519) for securely transmitting information between parties as JSON objects.
+
+### [152. Digital Identity Around the World: Why Some Countries are Embracing Self Sovereign Identity Quicker ](https://hackernoon.com/digital-identity-around-the-world-why-some-countries-are-embracing-self-sovereign-identity-quicker)
 ![](https://cdn.hackernoon.com/images/fDZAtQYemgbAqeVjLuXPALBn1i02-3xj35zw.jpeg)
 This article outlines the questions and logistics to consider when countries adopt or adapt new privacy laws and self-sovereign identity.
-
-### [152. How Zero Trust Vendors are Concealing the Truth About This Robust Mechanism?](https://hackernoon.com/how-zero-trust-vendors-are-concealing-the-truth-about-this-robust-mechanism)
-![](https://cdn.hackernoon.com/images/2tpuiYthxsOQJf3tqfV9SwnabOu1-6n93pmz.jpeg)
-With the increasing cybersecurity risks and breaches in the past couple of years, businesses are now moving with a clear vision to incorporate zero-trust architecture into their platforms. 
 
 ### [153. Keycloak Client-Aware Access Control](https://hackernoon.com/keycloak-client-aware-access-control)
 ![](https://cdn.hackernoon.com/images/7e3SCWBZDNgbPVcyw16PSltE6xk2-br23fzs.png)
@@ -625,249 +629,253 @@ Keycloak's realm model allows any user in a realm to authenticate any registered
 ![](https://cdn.hackernoon.com/images/Z7fkxfDpjOT4JTLVKWPSiyFHz1j1-5302q3g.png)
 Learn how to implement secure, scalable Role-Based Access Control (RBAC) in a Next.js app with Permit.io, managing user permissions and enhancing app security.
 
-### [155. SSO Infrastructure Cyber Attacks - Learn How to Detect Early and Mitigate the Risk](https://hackernoon.com/sso-infrastructure-cyber-attacks-learn-how-to-detect-early-and-mitigate-the-risk)
+### [155. How Zero Trust Vendors are Concealing the Truth About This Robust Mechanism?](https://hackernoon.com/how-zero-trust-vendors-are-concealing-the-truth-about-this-robust-mechanism)
+![](https://cdn.hackernoon.com/images/2tpuiYthxsOQJf3tqfV9SwnabOu1-6n93pmz.jpeg)
+With the increasing cybersecurity risks and breaches in the past couple of years, businesses are now moving with a clear vision to incorporate zero-trust architecture into their platforms. 
+
+### [156. SSO Infrastructure Cyber Attacks - Learn How to Detect Early and Mitigate the Risk](https://hackernoon.com/sso-infrastructure-cyber-attacks-learn-how-to-detect-early-and-mitigate-the-risk)
 ![](https://cdn.hackernoon.com/images/2tpuiYthxsOQJf3tqfV9SwnabOu1-fm93qcu.jpeg)
 With the increasing cybersecurity threats, businesses are now more concerned about cybersecurity hygiene and are swiftly adopting security mechanisms, like single sign-on (SSO). 
 
-### [156. Identity Governance: Why Enterprises Don’t Implement It?](https://hackernoon.com/identity-governance-why-enterprises-dont-implement-it-e02xh30v4)
+### [157. Bolstering Your Business: A Look into Angular's Security Features](https://hackernoon.com/bolstering-your-business-a-look-into-angulars-security-features)
+![](https://cdn.hackernoon.com/images/qy7Cp5s27aVyiN2mc7Pw4hsvBbD2-2k932jx.jpeg)
+This blog post has given you a better understanding of the security landscape of Angular's web applications. 
+
+### [158. Identity Governance: Why Enterprises Don’t Implement It?](https://hackernoon.com/identity-governance-why-enterprises-dont-implement-it-e02xh30v4)
 ![](https://cdn.hackernoon.com/drafts/tk25130fu.png)
 Maintaining the digital environment of an enterprise is a complex task and it takes more than technology to make things right. Businesses are in continuous need of regulatory controls like identity governance to maintain their brand value and simultaneously control their resources. 
 
-### [157. Configuring Single Sign-On for Zoom With WSO2 Identity Server](https://hackernoon.com/configuring-single-sign-on-for-zoom-with-wso2-identity-server-1q7d3y8z)
+### [159. Configuring Single Sign-On for Zoom With WSO2 Identity Server](https://hackernoon.com/configuring-single-sign-on-for-zoom-with-wso2-identity-server-1q7d3y8z)
 ![](https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 In the wake of remote working, Zoom has become one of the most 
 essential tools for video conferencing. This blog discusses how you can 
 configure single sign-on (SSO) for Zoom with WSO2 Identity Server.
 
-### [158. JSON Web Auth Using Angular 8 and NodeJS](https://hackernoon.com/json-web-auth-using-angular-8-and-nodejs-1mt3124)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fc19IlEQcgCXavk4OhbVTzHb68O12-8k5q313o.jpeg?alt=media&token=10a0ed86-039f-4ae3-92e6-7478bbacca48)
-The article is about interfacing an Angular 8 Project with a secure backend API. The Backend will be running on Node.JS. The security that will underlay the interfacing will be JSON Web Tokens.
-
-### [159. Bolstering Your Business: A Look into Angular's Security Features](https://hackernoon.com/bolstering-your-business-a-look-into-angulars-security-features)
-![](https://cdn.hackernoon.com/images/qy7Cp5s27aVyiN2mc7Pw4hsvBbD2-2k932jx.jpeg)
-This blog post has given you a better understanding of the security landscape of Angular's web applications. 
-
 ### [160. NFTs for Authorized User Registration - Part 2](https://hackernoon.com/nfts-for-authorized-user-registration-part-2)
 ![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-2193lcw.jpeg)
 How can NFTs be used as part of an authorized user registration? Here's how. 
 
-### [161. The Noonification: Tailwindcss? Ill Pass (8/27/2023)](https://hackernoon.com/8-27-2023-noonification)
+### [161. JSON Web Auth Using Angular 8 and NodeJS](https://hackernoon.com/json-web-auth-using-angular-8-and-nodejs-1mt3124)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fc19IlEQcgCXavk4OhbVTzHb68O12-8k5q313o.jpeg?alt=media&token=10a0ed86-039f-4ae3-92e6-7478bbacca48)
+The article is about interfacing an Angular 8 Project with a secure backend API. The Backend will be running on Node.JS. The security that will underlay the interfacing will be JSON Web Tokens.
+
+### [162. The Noonification: Tailwindcss? Ill Pass (8/27/2023)](https://hackernoon.com/8-27-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_4_bmlescrtoiqbt966dp3b8ek2.png)
 8/27/2023: Top 5 stories on the Hackernoon homepage!
 
-### [162. Jwenky: An Express API Server with User Authentication](https://hackernoon.com/jwenky-an-express-api-server-with-user-authentication-ei283u1t)
+### [163. Jwenky: An Express API Server with User Authentication](https://hackernoon.com/jwenky-an-express-api-server-with-user-authentication-ei283u1t)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fk4xviiCgvdNvYLiQpYos3Pe5rHR2-kiu3up9.jpeg?alt=media&token=5891a108-4a3d-4cc9-9714-b2b128b06aa7)
 Jwenky is an API server coded in Express framework. 
 
-### [163. 80% Devices in 2023 Are Already Passkey-Ready: Apple, Microsoft, and Google Pushing It Even Higher](https://hackernoon.com/80percent-devices-in-2023-are-already-passkey-ready-apple-microsoft-and-google-pushing-it-even-higher)
+### [164. 80% Devices in 2023 Are Already Passkey-Ready: Apple, Microsoft, and Google Pushing It Even Higher](https://hackernoon.com/80percent-devices-in-2023-are-already-passkey-ready-apple-microsoft-and-google-pushing-it-even-higher)
 ![](https://cdn.hackernoon.com/images/UZ6wFWTEMdUyAkWYm8hNbRxONzp1-vv93vyp.jpeg)
 Since the 3 digital leaders, Apple, Google, and Microsoft, are pushing passkeys as the new login standard, the current technical support for passkeys is high
 
-### [164. 4 Dangers of Sticking with Outdated MFA Methods](https://hackernoon.com/4-dangers-of-sticking-with-outdated-mfa-methods)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-r703ain.jpeg)
-Adopting Multifactor Authentication is just the start of securing your digital systems, but outdated MFA methods can still present vulnerabilities if unchecked.
-
-### [165. The Business Costs of Compromised Passwords](https://hackernoon.com/the-business-costs-of-compromised-passwords-3s3834bx)
-![](https://cdn.hackernoon.com/images/G1hdk0kwQEckZIgQj3wUNk7uYNq2-ab1l313x.jpeg)
-Passwords and Their Ability to Bring Down Even the Largest of Enterprises
-
-### [166. What is OAuth (Open Authorization) and Why is it Important?](https://hackernoon.com/what-is-oauth-open-authorization-and-why-is-it-important-ao7g35ly)
-![](https://cdn.hackernoon.com/images/6kyWRUf5yVh84FRLRMec4J2o2rj1-kx1n34rt.gif)
-First of all, we want the users to be authenticated - confirming that the users are who they say they are. Then, authorize them - to enable selective access.
-
-### [167. 16 Best Practices For Securing Your APIs with Apache APISIX - Part 1](https://hackernoon.com/16-best-practices-for-securing-your-apis-with-apache-apisix-part-1)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-6x82htv.jpeg)
-Learn how to fortify your APIs with Apache APISIX, implementing top security practices, including authentication, authorization, and rate limiting.
-
-### [168. An Introduction to Code Signing Architectures and Techniques](https://hackernoon.com/an-introduction-to-code-signing-architectures-and-techniques-jy5p340z)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fs09HL7eOMEYkiTsSo7FQIOVxzOh1-a42q31hl.jpeg?alt=media&token=05c9718a-aa37-4f9a-af4f-c3d0dc82c158)
-In the recent past, many technology firms were being targeted by hackers to tamper and corrupt the source code. These attacks heavily impact brand reputation and also leads to huge losses for firms victimized. To tackle this scenario, Code Signing techniques can be used for safeguarding the code integrity and to provide authenticity of the author to the end-user by providing digital signatures. Code Signing provides secure and trusted distribution of software preventing tampering, corruption and forgery. Code signing improves end-user confidence in software/code integrity and sender authenticity.
-
-### [169. The Role of Identity and Access Management in The Security of Your Business](https://hackernoon.com/the-role-of-identity-and-access-management-in-the-security-of-your-business)
-![](https://cdn.hackernoon.com/images/KP6ZZCxmFpeLcptqGSTgnHaC0M82-sl93p0v.jpeg)
-Identity and Access Management (IAM) plays a critical role in safeguarding your digital assets and ensuring secure access for authorized users.
-
-### [170. Biometrics And The Future Of Tracking](https://hackernoon.com/biometrics-and-the-future-of-tracking-4w2i31yb)
-![](https://cdn.hackernoon.com/images/cOQz5YBkj3Xe1lxHP9geLfFICj22-cyn31d7.jpeg)
-Almost any organization experiences one of the main problems with the personnel policy - personnel discipline. It is particularly relevant for large companies. Here are several unpleasant consequences that this problem leads to. First of all, these are quite tangible hidden costs due to insufficient production of goods and services, foregone turnover, loss of important customers, and other losses from the irrational use of working time by employees. Let's say an employee takes 15-20 extra minutes every day to be late, protract a lunch break, have smoke breaks, go home early, and other things. Shouldn't be too hard to calculate that eventually it all takes an entire working day from one working month. In reality, people spend much more working time on personal needs: up to 35%. 
-
-### [171. The ABCs of Identity, Authentication, and Authorization - Part 1](https://hackernoon.com/the-abcs-of-identity-authentication-and-authorization-part-1)
-![](https://cdn.hackernoon.com/images/NoGcGnD6czcqoiF8Vt6H71QTqVs1-m993xmv.jpeg)
-Gain a high-level understanding of the key concepts of identity, authentication, and authorization.
-
-### [172. Best Practises For Protecting Your Email](https://hackernoon.com/best-practises-for-protecting-your-email-ro9236qo)
-![](https://images.unsplash.com/photo-1557200134-90327ee9fafa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Ever get a Microsoft security alert email? One out of every 412 emails contains a malware attack. It doesn’t matter if you’re just a person sitting comfortably at home or a dedicated worker pushing one email after the other with short breaks of sweet old coffee. Every one of us is susceptible to these attacks and in a slightly twisted way we should all expect them. They could come in all shapes or sizes, and if you don’t want to lose a speech for your “Dyno week” conference that you spent a 100 hours writing maybe you shouldn’t let your friend open an email link with the subject line “Nude pictures of Anna Kournikova.”
-
-### [173. Auth in a React App with AWS: How Does It Really Work?](https://hackernoon.com/auth-in-a-react-app-with-aws-how-does-it-really-work)
-![](https://cdn.hackernoon.com/images/jGfwSsAK0iRj1yWIK1Ik1RpJ4dW2-875932tj.jpeg)
-For this Tech Stack in 10, I'm diving into some best practices for using authentication in your full stack application with AWS Cognito, DynamoDB, and AppSync.
-
-### [174. How To Improve Your Signup Flows](https://hackernoon.com/how-to-improve-your-signup-flows-uwn3tl7)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaKQN9Uc9Rvfu45vnun7Rgrahcd43-wh2r3ugi.jpeg?alt=media&token=b87bf8fc-1b80-40bb-8adb-852214268df6)
-Login and signup processes are one of the most underrated tasks when building and upgrading a website or platform... or multiple ones. However, on this kind of development tasks, implications go far beyond asking for an email and a password: security issues, user experience, customer profiling, different tech stacks compatibility and adaptation...
-
-### [175. Introduction to Cryptography: Vigenère Cipher [Part 2]](https://hackernoon.com/introduction-to-cryptography-vigenere-cipher-part-2-xo1s31k9)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-8r1c31pk.png)
-Hi again and welcome back to part 2 of the basic cryptography. Previously we discuss about what is cryptography and how fundamental and ancient problem it is in communication science. We talk about ceaser's cipher and how easy it is to break. We also talk about Substitution Cipher which was slight improvement to Ceaser' cipher but can easily be cracked using Frequency analysis technique.
-
-### [176. 16 Best Practices For Securing Your APIs with Apache APISIX - Part 2](https://hackernoon.com/16-best-practices-for-securing-your-apis-with-apache-apisix-part-2)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-q882im4.jpeg)
-Learn 16 advanced tips to keep your APIs safe with Apache APISIX.
-
-### [177. JWT vs Sessions Is the Wrong Debate](https://hackernoon.com/jwt-vs-sessions-is-the-wrong-debate)
+### [165. JWT vs Sessions Is the Wrong Debate](https://hackernoon.com/jwt-vs-sessions-is-the-wrong-debate)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ol023yg.jpeg)
 Every tutorial forces you to pick one, then spends 2000 words explaining why the other one is terrible.
 
-### [178. Machine Identities in Small Businesses: The Key to Security and Efficiency](https://hackernoon.com/machine-identities-in-small-businesses-the-key-to-security-and-efficiency)
-![](https://cdn.hackernoon.com/images/HNHZSZJIRJZ2zjn85YyE8weo1Gp1-nc834ku.jpeg)
-Learn how small businesses can safeguard their digital assets by effectively managing machine identities amidst evolving cybersecurity challenges.
+### [166. 4 Dangers of Sticking with Outdated MFA Methods](https://hackernoon.com/4-dangers-of-sticking-with-outdated-mfa-methods)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-r703ain.jpeg)
+Adopting Multifactor Authentication is just the start of securing your digital systems, but outdated MFA methods can still present vulnerabilities if unchecked.
 
-### [179. Biometric Authentication - Working, Methods, and Use Cases](https://hackernoon.com/biometric-authentication-working-methods-and-use-cases-3z2a377p)
-![](https://cdn.hackernoon.com/images/9ECDBUF1rnW0u3QHFsF2YQCRKTo1-v42m37rt.png)
-Biometrics is a scientific term for the physical or behavioral characteristics of humans. Biometric authentication is biometrically enabled data protection.
+### [167. The Business Costs of Compromised Passwords](https://hackernoon.com/the-business-costs-of-compromised-passwords-3s3834bx)
+![](https://cdn.hackernoon.com/images/G1hdk0kwQEckZIgQj3wUNk7uYNq2-ab1l313x.jpeg)
+Passwords and Their Ability to Bring Down Even the Largest of Enterprises
 
-### [180. Unveiling the Intricacies of Zero-Knowledge Proofs and Their Varied Implementations](https://hackernoon.com/unveiling-the-intricacies-of-zero-knowledge-proofs-and-their-varied-implementations)
+### [168. 16 Best Practices For Securing Your APIs with Apache APISIX - Part 1](https://hackernoon.com/16-best-practices-for-securing-your-apis-with-apache-apisix-part-1)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-6x82htv.jpeg)
+Learn how to fortify your APIs with Apache APISIX, implementing top security practices, including authentication, authorization, and rate limiting.
+
+### [169. What is OAuth (Open Authorization) and Why is it Important?](https://hackernoon.com/what-is-oauth-open-authorization-and-why-is-it-important-ao7g35ly)
+![](https://cdn.hackernoon.com/images/6kyWRUf5yVh84FRLRMec4J2o2rj1-kx1n34rt.gif)
+First of all, we want the users to be authenticated - confirming that the users are who they say they are. Then, authorize them - to enable selective access.
+
+### [170. The Role of Identity and Access Management in The Security of Your Business](https://hackernoon.com/the-role-of-identity-and-access-management-in-the-security-of-your-business)
+![](https://cdn.hackernoon.com/images/KP6ZZCxmFpeLcptqGSTgnHaC0M82-sl93p0v.jpeg)
+Identity and Access Management (IAM) plays a critical role in safeguarding your digital assets and ensuring secure access for authorized users.
+
+### [171. An Introduction to Code Signing Architectures and Techniques](https://hackernoon.com/an-introduction-to-code-signing-architectures-and-techniques-jy5p340z)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fs09HL7eOMEYkiTsSo7FQIOVxzOh1-a42q31hl.jpeg?alt=media&token=05c9718a-aa37-4f9a-af4f-c3d0dc82c158)
+In the recent past, many technology firms were being targeted by hackers to tamper and corrupt the source code. These attacks heavily impact brand reputation and also leads to huge losses for firms victimized. To tackle this scenario, Code Signing techniques can be used for safeguarding the code integrity and to provide authenticity of the author to the end-user by providing digital signatures. Code Signing provides secure and trusted distribution of software preventing tampering, corruption and forgery. Code signing improves end-user confidence in software/code integrity and sender authenticity.
+
+### [172. Biometrics And The Future Of Tracking](https://hackernoon.com/biometrics-and-the-future-of-tracking-4w2i31yb)
+![](https://cdn.hackernoon.com/images/cOQz5YBkj3Xe1lxHP9geLfFICj22-cyn31d7.jpeg)
+Almost any organization experiences one of the main problems with the personnel policy - personnel discipline. It is particularly relevant for large companies. Here are several unpleasant consequences that this problem leads to. First of all, these are quite tangible hidden costs due to insufficient production of goods and services, foregone turnover, loss of important customers, and other losses from the irrational use of working time by employees. Let's say an employee takes 15-20 extra minutes every day to be late, protract a lunch break, have smoke breaks, go home early, and other things. Shouldn't be too hard to calculate that eventually it all takes an entire working day from one working month. In reality, people spend much more working time on personal needs: up to 35%. 
+
+### [173. How To Improve Your Signup Flows](https://hackernoon.com/how-to-improve-your-signup-flows-uwn3tl7)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaKQN9Uc9Rvfu45vnun7Rgrahcd43-wh2r3ugi.jpeg?alt=media&token=b87bf8fc-1b80-40bb-8adb-852214268df6)
+Login and signup processes are one of the most underrated tasks when building and upgrading a website or platform... or multiple ones. However, on this kind of development tasks, implications go far beyond asking for an email and a password: security issues, user experience, customer profiling, different tech stacks compatibility and adaptation...
+
+### [174. Auth in a React App with AWS: How Does It Really Work?](https://hackernoon.com/auth-in-a-react-app-with-aws-how-does-it-really-work)
+![](https://cdn.hackernoon.com/images/jGfwSsAK0iRj1yWIK1Ik1RpJ4dW2-875932tj.jpeg)
+For this Tech Stack in 10, I'm diving into some best practices for using authentication in your full stack application with AWS Cognito, DynamoDB, and AppSync.
+
+### [175. The ABCs of Identity, Authentication, and Authorization - Part 1](https://hackernoon.com/the-abcs-of-identity-authentication-and-authorization-part-1)
+![](https://cdn.hackernoon.com/images/NoGcGnD6czcqoiF8Vt6H71QTqVs1-m993xmv.jpeg)
+Gain a high-level understanding of the key concepts of identity, authentication, and authorization.
+
+### [176. Best Practises For Protecting Your Email](https://hackernoon.com/best-practises-for-protecting-your-email-ro9236qo)
+![](https://images.unsplash.com/photo-1557200134-90327ee9fafa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Ever get a Microsoft security alert email? One out of every 412 emails contains a malware attack. It doesn’t matter if you’re just a person sitting comfortably at home or a dedicated worker pushing one email after the other with short breaks of sweet old coffee. Every one of us is susceptible to these attacks and in a slightly twisted way we should all expect them. They could come in all shapes or sizes, and if you don’t want to lose a speech for your “Dyno week” conference that you spent a 100 hours writing maybe you shouldn’t let your friend open an email link with the subject line “Nude pictures of Anna Kournikova.”
+
+### [177. Introduction to Cryptography: Vigenère Cipher [Part 2]](https://hackernoon.com/introduction-to-cryptography-vigenere-cipher-part-2-xo1s31k9)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-8r1c31pk.png)
+Hi again and welcome back to part 2 of the basic cryptography. Previously we discuss about what is cryptography and how fundamental and ancient problem it is in communication science. We talk about ceaser's cipher and how easy it is to break. We also talk about Substitution Cipher which was slight improvement to Ceaser' cipher but can easily be cracked using Frequency analysis technique.
+
+### [178. Unveiling the Intricacies of Zero-Knowledge Proofs and Their Varied Implementations](https://hackernoon.com/unveiling-the-intricacies-of-zero-knowledge-proofs-and-their-varied-implementations)
 ![](https://cdn.hackernoon.com/images/AUjxENwAM1TIF6x3EOCgwb3Vq7s1-rvk2nia.jpeg)
 Zero-knowledge proofs' guardians surround a central lock, symbolizing digital privacy. A visual metaphor for privacy in the digital age.
 
-### [181. Agents Can Pay and Talk—So Why Can’t They Register?](https://hackernoon.com/agents-can-pay-and-talkso-why-cant-they-register)
+### [179. 16 Best Practices For Securing Your APIs with Apache APISIX - Part 2](https://hackernoon.com/16-best-practices-for-securing-your-apis-with-apache-apisix-part-2)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-q882im4.jpeg)
+Learn 16 advanced tips to keep your APIs safe with Apache APISIX.
+
+### [180. Agents Can Pay and Talk—So Why Can’t They Register?](https://hackernoon.com/agents-can-pay-and-talkso-why-cant-they-register)
 ![](https://cdn.hackernoon.com/images/MR8527Iuz1fnviKbbxNt2AGmOnc2-ma83g13.jpeg)
 AgentDoor is drop-in middleware that lets AI agents register, authenticate, and pay for your API. No browser, no forms, no CAPTCHA. Under 500ms onboarding. 
 
-### [182. MFA Vs. 2FA: Which Is Better And More Secure](https://hackernoon.com/mfa-vs-2fa-which-is-better-and-more-secure-t5l34bt)
+### [181. Biometric Authentication - Working, Methods, and Use Cases](https://hackernoon.com/biometric-authentication-working-methods-and-use-cases-3z2a377p)
+![](https://cdn.hackernoon.com/images/9ECDBUF1rnW0u3QHFsF2YQCRKTo1-v42m37rt.png)
+Biometrics is a scientific term for the physical or behavioral characteristics of humans. Biometric authentication is biometrically enabled data protection.
+
+### [182. Machine Identities in Small Businesses: The Key to Security and Efficiency](https://hackernoon.com/machine-identities-in-small-businesses-the-key-to-security-and-efficiency)
+![](https://cdn.hackernoon.com/images/HNHZSZJIRJZ2zjn85YyE8weo1Gp1-nc834ku.jpeg)
+Learn how small businesses can safeguard their digital assets by effectively managing machine identities amidst evolving cybersecurity challenges.
+
+### [183. MFA Vs. 2FA: Which Is Better And More Secure](https://hackernoon.com/mfa-vs-2fa-which-is-better-and-more-secure-t5l34bt)
 ![](https://hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-nhq34hm.jpeg)
 Your 8-character password with numbers, symbols, lowercase, uppercase, and special letters are not enough to shoo away hackers! What to do then? Find out here.
 
-### [183. Your React App Wants Web3Auth—Here’s How to Make It Happen](https://hackernoon.com/your-react-app-wants-web3authheres-how-to-make-it-happen)
+### [184. Your React App Wants Web3Auth—Here’s How to Make It Happen](https://hackernoon.com/your-react-app-wants-web3authheres-how-to-make-it-happen)
 ![](https://cdn.hackernoon.com/images/ToB035TKwHU4BKmOceflLThogWv2-f303zp5.jpeg)
 Integrate Apple Login with Web3Auth Nomodal in a c. Learn authentication, smart contract deployment, and wallet interactions in Web3.
 
-### [184. The HackerNoon Podcast: Let's Talk About Sec, Baby](https://hackernoon.com/the-hackernoon-podcast-lets-talk-about-sec-baby-rd3037hk)
+### [185. The HackerNoon Podcast: Let's Talk About Sec, Baby](https://hackernoon.com/the-hackernoon-podcast-lets-talk-about-sec-baby-rd3037hk)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-9wr37tn.jpeg)
 Amy Tom talks to Jeff Morris, VP of Product & Solutions Marketing at Couchbase, and Mike Schwartz, Founder & CEO of Gluu on The HackerNoon Podcast
 
-### [185. A React HOC for AWS Cognito to Simplify User Authentication](https://hackernoon.com/a-react-hoc-for-aws-cognito-uv1kz398h)
+### [186. A React HOC for AWS Cognito to Simplify User Authentication](https://hackernoon.com/a-react-hoc-for-aws-cognito-uv1kz398h)
 ![](https://cdn.hackernoon.com/images/uo1mk39os.jpg)
 TL;DR: AWS Cognito offers robust handling of user Authentication flows, including via Social Providers such as Google and Facebook. Here we describe a Higher Order Component for your ReactJS Web App, and how to configure Cognito.
 
-### [186. How To Protect Your Online Applications From Pass-the-Cookie Cyber Attacks](https://hackernoon.com/how-to-protect-your-online-applications-from-pass-the-cookie-cyber-attacks-ld5m35o1)
+### [187. How To Protect Your Online Applications From Pass-the-Cookie Cyber Attacks](https://hackernoon.com/how-to-protect-your-online-applications-from-pass-the-cookie-cyber-attacks-ld5m35o1)
 ![](https://cdn.hackernoon.com/images/kSf6yHsGdebbIJMdtcNxXs8OQGn1-dn1g33b8.jpeg)
 How to strengthen your online apps against cloud service attacks such as ‘pass-the-cookie’ attacks.
 
-### [187. System Architecture: Moving Authentication to the API Gateway](https://hackernoon.com/system-architecture-moving-authentication-to-the-api-gateway)
+### [188. System Architecture: Moving Authentication to the API Gateway](https://hackernoon.com/system-architecture-moving-authentication-to-the-api-gateway)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-f092bnu.jpeg)
 When exposing an application to the outside world, consider a Reverse-Proxy or an API Gateway to protect it from attacks.
-
-### [188. How Big Tech is Working Towards a Password-Free Future](https://hackernoon.com/how-big-tech-is-working-towards-a-password-free-future-7t2x3u6z)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FG1hdk0kwQEckZIgQj3wUNk7uYNq2-1ul3uv6.jpeg?alt=media&token=147d0728-660b-4a5a-ba09-1ad4569c5a99)
-A 2019 research conducted by HYPR showed that 78% of people forgot their passwords and required a reset within the last 90 days. Passwords aren’t just difficult to manage, they are inconvenient, insecure, and expensive because passwords are just too easy to guess, hack or intercept and what’s more, the legacy of password reuse is leading to constant attack and account vulnerabilities.
 
 ### [189. Support Zero Trust With Strong Authentication Practices](https://hackernoon.com/support-zero-trust-with-strong-authentication-practices)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-5h83wcz.jpeg)
 Zero trust is based on three main principles: authentication, authorization, and continuous validation. Here's how to strengthen your authentication practices.
 
-### [190. Ensuring Security: A Guide for Web and Mobile Application Development](https://hackernoon.com/ensuring-security-a-guide-for-web-and-mobile-application-development-cx9235cl)
-![](https://cdn.hackernoon.com/images/SArfhdU0RIb1QC1K2EGh1Fnbn7G3-7k1c3734.jpeg)
-Authentication and authorization for modern web and mobile applications are a key part of most development cycles. This story outlines some considerations. 
-
-### [191. How to Streamline your Login Experience via Passwordless SSO](https://hackernoon.com/how-to-streamline-your-login-experience-via-passwordless-sso)
+### [190. How to Streamline your Login Experience via Passwordless SSO](https://hackernoon.com/how-to-streamline-your-login-experience-via-passwordless-sso)
 ![](https://cdn.hackernoon.com/images/pcdUw3ZUs9SXnExuvop60EA5HQ02-mfb30zx.png)
 Using YooniK technology to create a passwordless single sign-on experience using the OpenID Connect protocol.
 
-### [192. Are Social Logins More Secure?](https://hackernoon.com/are-social-logins-more-secure)
+### [191. Ensuring Security: A Guide for Web and Mobile Application Development](https://hackernoon.com/ensuring-security-a-guide-for-web-and-mobile-application-development-cx9235cl)
+![](https://cdn.hackernoon.com/images/SArfhdU0RIb1QC1K2EGh1Fnbn7G3-7k1c3734.jpeg)
+Authentication and authorization for modern web and mobile applications are a key part of most development cycles. This story outlines some considerations. 
+
+### [192. How Big Tech is Working Towards a Password-Free Future](https://hackernoon.com/how-big-tech-is-working-towards-a-password-free-future-7t2x3u6z)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FG1hdk0kwQEckZIgQj3wUNk7uYNq2-1ul3uv6.jpeg?alt=media&token=147d0728-660b-4a5a-ba09-1ad4569c5a99)
+A 2019 research conducted by HYPR showed that 78% of people forgot their passwords and required a reset within the last 90 days. Passwords aren’t just difficult to manage, they are inconvenient, insecure, and expensive because passwords are just too easy to guess, hack or intercept and what’s more, the legacy of password reuse is leading to constant attack and account vulnerabilities.
+
+### [193. Are Social Logins More Secure?](https://hackernoon.com/are-social-logins-more-secure)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-fhj3784.jpeg)
 Social logins are more secure than the traditional username/password.
 
-### [193. Digital Authentication: Notes on The Road To Passwordless Authentication](https://hackernoon.com/digital-authentication-notes-on-the-road-to-passwordless-authentication)
+### [194. Digital Authentication: Notes on The Road To Passwordless Authentication](https://hackernoon.com/digital-authentication-notes-on-the-road-to-passwordless-authentication)
 ![](https://cdn.hackernoon.com/images/XsEKthXthDfZ2o1uuNElKYPIjPF3-3s03a53.jpeg)
 An introduction to the most popular authentication strategies along with some emerging solutions.
-
-### [194. How You Can Add Multi-Factor Authentication To Your Application](https://hackernoon.com/how-you-can-add-multi-factor-authentication-to-your-application-x34w31hv)
-![](https://cdn.hackernoon.com/images/Ufc2YrIwjEfm7luIouHZ5YYPX7H2-ttn28oq.jpeg)
-In light of countless security breaches across the industry, multi-factor authentication is becoming increasingly popular. Let's look at the available options!
 
 ### [195. How to Build an Authentication Flow with React Navigation v5 ](https://hackernoon.com/how-to-build-an-authentication-flow-with-react-navigation-v5)
 ![](https://cdn.hackernoon.com/images/n5ld9fKE5xhTwn7KxPGA8cNuAi42-zx93ka5.jpeg)
 In this tutorial I will be building two screens i.e. a signup screen and a signin screen using react navigation v5
 
-### [196. Do Passwordless Technologies Have an Impact on Cybersecurity?](https://hackernoon.com/do-passwordless-technologies-have-an-impact-on-cybersecurity-mc2p37wv)
-![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-6c1g32gm.jpeg)
-Contrary to popular belief, traditional passwords are not the best way to protect sensitive information on our digital devices.
+### [196. How You Can Add Multi-Factor Authentication To Your Application](https://hackernoon.com/how-you-can-add-multi-factor-authentication-to-your-application-x34w31hv)
+![](https://cdn.hackernoon.com/images/Ufc2YrIwjEfm7luIouHZ5YYPX7H2-ttn28oq.jpeg)
+In light of countless security breaches across the industry, multi-factor authentication is becoming increasingly popular. Let's look at the available options!
 
-### [197. Why IAM Architects Prescribe Enterprise Application Security](https://hackernoon.com/why-iam-architects-prescribe-enterprise-application-security-st2237u6)
-![](https://cdn.hackernoon.com/images/2tpuiYthxsOQJf3tqfV9SwnabOu1-kz4z35zz.jpeg)
-The widespread use of modern applications by enterprises come at a cost of data breaches. For this reason, Identity and access management or IAM architects have
-
-### [198. The GIA Certificate of Blockchain: Mo Kumarsi on Rev3al’s Vision for Blockchain Security](https://hackernoon.com/the-gia-certificate-of-blockchain-mo-kumarsi-on-rev3als-vision-for-blockchain-security)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-bk0340j.png)
-Rev3al aims to revolutionize blockchain security with innovative authentication solutions, offering trusted protection for digital assets against fraud.
-
-### [199. Building an Airtight Security Funnel Step-by-Step](https://hackernoon.com/building-an-airtight-security-funnel-step-by-step)
-![](https://cdn.hackernoon.com/images/XsEKthXthDfZ2o1uuNElKYPIjPF3-xha3hrd.jpeg)
-In this article, we’ll walk through SharePass’s patent-pending security funnel, providing a step-by-step guide to building out your security pipeline.
-
-### [200. How to Build Software With Low Vendor Lock-in](https://hackernoon.com/how-to-build-software-with-low-vendor-lock-in)
-![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-s9126px.jpeg)
-We discuss some thought processes on how vendors can build software with low vendor lock-in.
-
-### [201. Bootstrapping Laravel + Admiral: Auth Without the Boilerplate](https://hackernoon.com/bootstrapping-laravel-admiral-auth-without-the-boilerplate)
+### [197. Bootstrapping Laravel + Admiral: Auth Without the Boilerplate](https://hackernoon.com/bootstrapping-laravel-admiral-auth-without-the-boilerplate)
 ![](https://cdn.hackernoon.com/images/FPQfbJY2fYbkpykIFnuaI2Xsd9v2-64038jd.jpeg)
 Learn how to bootstrap a modern admin using Laravel 12, Sanctum, and the open-source Admiral admin panel. 
 
-### [202. You Should Upgrade Your Authentication System to CIAM Now Before It's Too Late](https://hackernoon.com/you-should-upgrade-your-authentication-system-to-ciam-now-before-its-too-late)
+### [198. Building an Airtight Security Funnel Step-by-Step](https://hackernoon.com/building-an-airtight-security-funnel-step-by-step)
+![](https://cdn.hackernoon.com/images/XsEKthXthDfZ2o1uuNElKYPIjPF3-xha3hrd.jpeg)
+In this article, we’ll walk through SharePass’s patent-pending security funnel, providing a step-by-step guide to building out your security pipeline.
+
+### [199. Do Passwordless Technologies Have an Impact on Cybersecurity?](https://hackernoon.com/do-passwordless-technologies-have-an-impact-on-cybersecurity-mc2p37wv)
+![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-6c1g32gm.jpeg)
+Contrary to popular belief, traditional passwords are not the best way to protect sensitive information on our digital devices.
+
+### [200. Why IAM Architects Prescribe Enterprise Application Security](https://hackernoon.com/why-iam-architects-prescribe-enterprise-application-security-st2237u6)
+![](https://cdn.hackernoon.com/images/2tpuiYthxsOQJf3tqfV9SwnabOu1-kz4z35zz.jpeg)
+The widespread use of modern applications by enterprises come at a cost of data breaches. For this reason, Identity and access management or IAM architects have
+
+### [201. The GIA Certificate of Blockchain: Mo Kumarsi on Rev3al’s Vision for Blockchain Security](https://hackernoon.com/the-gia-certificate-of-blockchain-mo-kumarsi-on-rev3als-vision-for-blockchain-security)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-bk0340j.png)
+Rev3al aims to revolutionize blockchain security with innovative authentication solutions, offering trusted protection for digital assets against fraud.
+
+### [202. How to Build Software With Low Vendor Lock-in](https://hackernoon.com/how-to-build-software-with-low-vendor-lock-in)
+![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-s9126px.jpeg)
+We discuss some thought processes on how vendors can build software with low vendor lock-in.
+
+### [203. You Should Upgrade Your Authentication System to CIAM Now Before It's Too Late](https://hackernoon.com/you-should-upgrade-your-authentication-system-to-ciam-now-before-its-too-late)
 ![](https://cdn.hackernoon.com/images/Q7Ilpvu5bRN22EpJho9JEiSRxSo2-7x833n7.jpeg)
 Adopting CIAM boosts security, trust, and satisfaction, protecting against data breaches in today's digital world.
 
-### [203. What is Single Sign-On about?](https://hackernoon.com/what-is-single-sign-on-about-w9j355k)
+### [204. What is Single Sign-On about?](https://hackernoon.com/what-is-single-sign-on-about-w9j355k)
 ![](https://cdn.hackernoon.com/images/XIBTIWbnW6bDMYIgFoSIVNGlOyd2-ig1v32hi.jpeg)
 We hate filling out forms, right? What if we can skip it? Thanks to single sign-on, it is possible. 
 
-### [204. Modern Authentication Isn’t Enough on It's Own](https://hackernoon.com/modern-authentication-isnt-enough-on-its-own)
+### [205. Modern Authentication Isn’t Enough on It's Own](https://hackernoon.com/modern-authentication-isnt-enough-on-its-own)
 ![](https://cdn.hackernoon.com/images/ygPLOE7WD9cN6QorK3zudHlVykh1-4w038oy.png)
 Modern authentication improves login experiences, but it’s not true modernization. Learn why SSO alone isn’t enough.
 
-### [205. Why File Storage Needs an Authentication Layer and How 3DPass Is Doing It for 3D](https://hackernoon.com/why-file-storage-needs-an-authentication-layer-and-how-3dpass-is-doing-it-for-3d)
+### [206. Why File Storage Needs an Authentication Layer and How 3DPass Is Doing It for 3D](https://hackernoon.com/why-file-storage-needs-an-authentication-layer-and-how-3dpass-is-doing-it-for-3d)
 ![](https://cdn.hackernoon.com/images/iNLk14dLqyLNGd9qaCkTFuZMH1O2-9q13mfy.jpeg)
 The internet has a storage problem. Not because we don’t have enough space, storage is (relatively) cheap. What it has is an authenticity problem...
 
-### [206. The Ultimate Guide To Custom Role Based Access Without Third Party Libraries](https://hackernoon.com/the-ultimate-guide-to-custom-role-based-access-without-third-party-libraries-pt1031mx)
+### [207. The Ultimate Guide To Custom Role Based Access Without Third Party Libraries](https://hackernoon.com/the-ultimate-guide-to-custom-role-based-access-without-third-party-libraries-pt1031mx)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-3f1528g9.jpeg?alt=media&token=c26db394-dff8-41d4-81f1-7bcabb8a2038)
 Here, we have four roles: Sme, Sponsor, Admin, Operations.Initially, we had only 3 roles.Operations role was added later and Operations user has permissions similar to the Admin user.In the code, we had to replace every instance of if (user.type == USER_TYPES.ADMIN) with if (user.type == USER_TYPES.ADMIN || user.type == USER_TYPES.OPERATIONS).As this is time consuming and we can also miss many instances, we have created a roles module. In the roles module,the roles are defined along with their respective permissions as seen in Code (Part-III). Based on the permissions for each role, we will evaluate the authorization for the user in each of our controller methods.If the user has access, only then he will be granted the resources.
 
-### [207. Setting up 2FA on 9 Popular Apps & Services Before Safer Internet Day](https://hackernoon.com/setting-up-2fa-on-9-popular-apps-and-services-before-safer-internet-day)
+### [208. Setting up 2FA on 9 Popular Apps & Services Before Safer Internet Day](https://hackernoon.com/setting-up-2fa-on-9-popular-apps-and-services-before-safer-internet-day)
 ![](https://cdn.hackernoon.com/images/0L71IrTWolV9Lo85mUUoKsIdmwu2-v943aas.jpeg)
 How to enable 2FA and what is two-factor authentification is. Set it up before Safety Internet Day which is celebrated on February 8 and make you apps secure
 
-### [208. 3 Reasons for B2C Enterprises to Implement Single Sign-on Authentication](https://hackernoon.com/3-reasons-why-b2c-enterprises-should-use-single-sign-on-authentication-511qq3xgu)
+### [209. 3 Reasons for B2C Enterprises to Implement Single Sign-on Authentication](https://hackernoon.com/3-reasons-why-b2c-enterprises-should-use-single-sign-on-authentication-511qq3xgu)
 ![](https://cdn.hackernoon.com/images/la1sa3xk4.jpg)
 Single sign-on authentication, or SSO, is becoming more commonplace as the digital revolution continues to evolve. With numerous benefits for customers and companies alike, SSO helps streamline user experience, aid movement between applications and services, and secure the transfer of pertinent information about customers between organizations.
 
-### [209. How To Improve Banking App Security With GPS Data](https://hackernoon.com/how-to-improve-banking-app-security-with-gps-data-fh6435cg)
+### [210. How To Improve Banking App Security With GPS Data](https://hackernoon.com/how-to-improve-banking-app-security-with-gps-data-fh6435cg)
 ![](https://cdn.hackernoon.com/images/kgcx32m6.jpg)
 Mobile-based fintech solutions are becoming the first port of call for many financial services, as people embrace the simplicity, cost-effectiveness and speed of mobile payments. However, digital fraud is rising as fast, if not faster, and thus fraud monitoring based on robust customer authentication have become as important as the services mCommerce has to offer customers.
 
-### [210. How Routee's Two Factor Authentication Works](https://hackernoon.com/how-routees-two-factor-authentication-works-io2s36gy)
+### [211. How Routee's Two Factor Authentication Works](https://hackernoon.com/how-routees-two-factor-authentication-works-io2s36gy)
 ![](https://cdn.hackernoon.com/drafts/2hqm369o.png)
 Two Factor Authentication or Two Factor Verification is a service used to confirm a user’s identity by combining two different elements. For example, Routee service combines a unique code with a verified phone number. This service can be used as part of an app or a website sign up process to increase security for the services offered.
 
-### [211. The Myth of “Unhackable” Biometrics (and What Attackers Actually Try)](https://hackernoon.com/the-myth-of-unhackable-biometrics-and-what-attackers-actually-try)
+### [212. The Myth of “Unhackable” Biometrics (and What Attackers Actually Try)](https://hackernoon.com/the-myth-of-unhackable-biometrics-and-what-attackers-actually-try)
 ![](https://cdn.hackernoon.com/images/zcVh1nxVfaXYUcbnb6pafWKJtRs1-wh13gyj.png)
 Biometrics feel unhackable—until you learn how spoofing works.
 
-### [212. How Law Enforcement Agencies are Using Biometrics](https://hackernoon.com/how-law-enforcement-agencies-are-using-biometrics-jgv37so)
+### [213. How Law Enforcement Agencies are Using Biometrics](https://hackernoon.com/how-law-enforcement-agencies-are-using-biometrics-jgv37so)
 ![](https://cdn.hackernoon.com/images/9ECDBUF1rnW0u3QHFsF2YQCRKTo1-md4j37nw.jpeg)
 Here's why law enforcement agencies like the FBI and police use biometric technology to enhance their security and to protect them from unauthorized access.
 
-### [213. Bringing Top 5 Unconventional Identity Verification Solutions to The Table](https://hackernoon.com/bringing-top-5-unconventional-identity-verification-solutions-to-the-table-7gq35ce)
+### [214. Bringing Top 5 Unconventional Identity Verification Solutions to The Table](https://hackernoon.com/bringing-top-5-unconventional-identity-verification-solutions-to-the-table-7gq35ce)
 ![](https://cdn.hackernoon.com/images/ZIV290tW1obRHjEwAxtVpqvYky43-zu1k34dp.jpeg)
 Enterprises must not think twice before integrating themselves with AI-powered online identity verification processes to combat chargeback, counterfeits
 
-### [214. Biometrics and Mobile Apps: Reducing Friction with a Focus on Security](https://hackernoon.com/biometrics-and-mobile-apps-reducing-friction-with-a-focus-on-security-e9s34lz)
+### [215. Biometrics and Mobile Apps: Reducing Friction with a Focus on Security](https://hackernoon.com/biometrics-and-mobile-apps-reducing-friction-with-a-focus-on-security-e9s34lz)
 ![](https://hackernoon.com/images/O5xJMw1jMUUs0IpuUM5A5wRItnI2-9w1n3f9l.jpeg)
 The future of biometrics in the mobile paradigm is bright. But what does this mean for users? 
 
-### [215. Extending Your Login Flow With Auth0 Actions](https://hackernoon.com/extending-your-login-flow-with-auth0-actions)
+### [216. Extending Your Login Flow With Auth0 Actions](https://hackernoon.com/extending-your-login-flow-with-auth0-actions)
 ![](https://cdn.hackernoon.com/images/3pLKRMSt7lUHnCnu223sc45tfuI3-pf137to.jpeg)
 In this article, I am going to explain what is Auth0 Actions, why to use them, and how to set one up.
 

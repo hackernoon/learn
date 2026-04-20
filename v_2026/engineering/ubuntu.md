@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ubuntu](https://hackernoon.com/tagged/ubuntu)
+### Let's learn about [Ubuntu](https://hackernoon.com/tagged/ubuntu) via these 62 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Ubuntu is a popular open-source Linux operating system, widely used for desktops, servers, and cloud computing environments. Known for its stability, security, and extensive community support, it provides a versatile and robust platform for a wide range of computing needs.
+
 ### [1. Debian Package Management](https://hackernoon.com/debian-package-management)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-w992gjx.jpeg)
 Tutorial on creating deb packages and installing them using apt-get
@@ -176,13 +180,13 @@ Hi, happy to join your community. This is my first post, so I start from the sim
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-re93kv7.jpeg)
 When building projects one of the annoying parts is setting up stuff like web servers, relational databases, and caching. Here's my solution to all that.
 
-### [44. Building a Simple Battery Tracker with Python: A Step-by-Step Guide](https://hackernoon.com/building-a-simple-battery-tracker-with-python-a-step-by-step-guide)
-![](https://cdn.hackernoon.com/images/zpA8BwP5iRUp1Yp5aGImZfUk4uw1-ve830ix.jpeg)
-Learn to create a battery tracker on Linux using Python, accessing system data and alerts, simplified with a desktop entry.
-
-### [45. 13 Reasons Why I Have a Love Affair With Linux](https://hackernoon.com/13-reasons-why-i-have-a-love-affair-with-linux)
+### [44. 13 Reasons Why I Have a Love Affair With Linux](https://hackernoon.com/13-reasons-why-i-have-a-love-affair-with-linux)
 ![](https://cdn.hackernoon.com/images/linux-cliq7v10i000001s64blr7e3c.png)
 In this article, I want to share with you 13 of the many reasons why I keep coming back to Linux and why I think you might just fall in love with it too.
+
+### [45. Building a Simple Battery Tracker with Python: A Step-by-Step Guide](https://hackernoon.com/building-a-simple-battery-tracker-with-python-a-step-by-step-guide)
+![](https://cdn.hackernoon.com/images/zpA8BwP5iRUp1Yp5aGImZfUk4uw1-ve830ix.jpeg)
+Learn to create a battery tracker on Linux using Python, accessing system data and alerts, simplified with a desktop entry.
 
 ### [46. RaspberryPi: Technology Overload - LAMP🕯 to UASP🐝](https://hackernoon.com/raspberrypi-technology-overload-lamp-to-uasp)
 ![](https://cdn.hackernoon.com/images/ZPH1phY9EEX1BB6hjSNi0ds2zk03-eo932th.jpeg)
@@ -192,37 +196,37 @@ In this article, I want to share with you 13 of the many reasons why I keep comi
 ![](https://cdn.hackernoon.com/drafts/6ckt3yo9.png)
 There are fundamental differences between developing general-purpose software applications and making software for embedded systems. Embedded systems software generally runs on resource-constrained hardware, in contrast to general-purpose server or client applications that run on more capable hardware. 
 
-### [48. How to Install and run Swift on a Linux Machine](https://hackernoon.com/how-to-install-and-run-swift-on-a-linux-machine)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-f003n08.jpeg)
-How to install and run Swift on Linux
-
-### [49. 3 Ubuntu Alternatives for better User Experience](https://hackernoon.com/3-ubuntu-alternatives-for-better-user-experience-wdk36ia)
-![](https://cdn.hackernoon.com/images/iiQNFBzOOWZcfUVWdwE1hhKhkLv2-koj735c8.jpeg)
-Are you bored of using Ubuntu too? Check out these awesome alternatives to change your taste.
-
-### [50. How to Deploy the Aptible CLI on Ubuntu 22.04](https://hackernoon.com/how-to-deploy-the-aptible-cli-on-ubuntu-2204)
-![](https://cdn.hackernoon.com/images/q6t9kyVqaAbMWMb9XJWOGmM6iV92-k3835ew.jpeg)
-A guide that helps you deploy the Aptible CLI tool on an Ubuntu Linux distribution.
-
-### [51. Setting Up a Windows Subsystem for Linux](https://hackernoon.com/setting-up-a-windows-subsystem-for-linux)
-![](https://cdn.hackernoon.com/images/fSZTVEH3Gcgnyfh4wc1erUt9Szq1-eyg3r24.jpeg)
-Discover how installing WSL can revolutionize your development workflow, bridging the gap between Windows and Linux for seamless website development. 
-
-### [52. Turning the Company’s PC Into a Personal “Vercel-Like” Platform](https://hackernoon.com/turning-the-companys-pc-into-a-personal-vercel-like-platform)
-![](https://cdn.hackernoon.com/images/Y6CZkfnk8oe63Rp5nL2u1gJAPc63-zj92tbq.png)
-A quick look at how I turned my company's PC into a personal vercel-like platform.
-
-### [53. How to Properly Install JetBrains Toolbox on Linux (Kubuntu/Ubuntu)](https://hackernoon.com/how-to-properly-install-jetbrains-toolbox-on-linux-kubuntuubuntu)
+### [48. How to Properly Install JetBrains Toolbox on Linux (Kubuntu/Ubuntu)](https://hackernoon.com/how-to-properly-install-jetbrains-toolbox-on-linux-kubuntuubuntu)
 ![](https://cdn.hackernoon.com/images/birdUy9rf7bDlRNnnz6XwUs8GiD3-t2820gx.png)
 Install JetBrains Toolbox on Ubuntu/Kubuntu like a pro. Step-by-step guide with terminal commands, menu integration, and autostart setup.
 
-### [54. Why More Developers Should Use Linux](https://hackernoon.com/why-more-developers-should-use-linux)
-![](https://cdn.hackernoon.com/images/INL4cGxrwnR0r7FDyWTj45Z5Oxy1-df92grl.jpeg)
-Linux, best OS for developers. Linux, Windows, Ubuntu, macOS, Powerful yet resource-friendly, free, open-source, Command-Line, distro and desktop environment
+### [49. How to Install and run Swift on a Linux Machine](https://hackernoon.com/how-to-install-and-run-swift-on-a-linux-machine)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-f003n08.jpeg)
+How to install and run Swift on Linux
 
-### [55. Precious Advice for Technology - That Gentle Poke  ](https://hackernoon.com/precious-advice-for-technology-that-gentle-poke)
+### [50. 3 Ubuntu Alternatives for better User Experience](https://hackernoon.com/3-ubuntu-alternatives-for-better-user-experience-wdk36ia)
+![](https://cdn.hackernoon.com/images/iiQNFBzOOWZcfUVWdwE1hhKhkLv2-koj735c8.jpeg)
+Are you bored of using Ubuntu too? Check out these awesome alternatives to change your taste.
+
+### [51. How to Deploy the Aptible CLI on Ubuntu 22.04](https://hackernoon.com/how-to-deploy-the-aptible-cli-on-ubuntu-2204)
+![](https://cdn.hackernoon.com/images/q6t9kyVqaAbMWMb9XJWOGmM6iV92-k3835ew.jpeg)
+A guide that helps you deploy the Aptible CLI tool on an Ubuntu Linux distribution.
+
+### [52. Setting Up a Windows Subsystem for Linux](https://hackernoon.com/setting-up-a-windows-subsystem-for-linux)
+![](https://cdn.hackernoon.com/images/fSZTVEH3Gcgnyfh4wc1erUt9Szq1-eyg3r24.jpeg)
+Discover how installing WSL can revolutionize your development workflow, bridging the gap between Windows and Linux for seamless website development. 
+
+### [53. Turning the Company’s PC Into a Personal “Vercel-Like” Platform](https://hackernoon.com/turning-the-companys-pc-into-a-personal-vercel-like-platform)
+![](https://cdn.hackernoon.com/images/Y6CZkfnk8oe63Rp5nL2u1gJAPc63-zj92tbq.png)
+A quick look at how I turned my company's PC into a personal vercel-like platform.
+
+### [54. Precious Advice for Technology - That Gentle Poke  ](https://hackernoon.com/precious-advice-for-technology-that-gentle-poke)
 ![](https://cdn.hackernoon.com/images/a-finger-poking-a-little-robot-yw5s17uys5g8fvqww3va6mt5.png)
 Technology, like living beings, often behaves in unpredictable ways. Be gentle, keep optimistic. Poke gently as much as you can. 
+
+### [55. Why More Developers Should Use Linux](https://hackernoon.com/why-more-developers-should-use-linux)
+![](https://cdn.hackernoon.com/images/INL4cGxrwnR0r7FDyWTj45Z5Oxy1-df92grl.jpeg)
+Linux, best OS for developers. Linux, Windows, Ubuntu, macOS, Powerful yet resource-friendly, free, open-source, Command-Line, distro and desktop environment
 
 ### [56. A Guide to Setting up Laravel in Ubuntu](https://hackernoon.com/a-guide-to-setting-up-laravel-in-ubuntu-dp223tv9)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtRlgiMUxJzR7GTO3g6rqwvhzPjG2-qz193w06.jpeg?alt=media&token=a76f8455-0279-4594-87b2-bae33ae1a433)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [job-hunting](https://hackernoon.com/tagged/job-hunting)
+### Let's learn about [Job Hunting](https://hackernoon.com/tagged/job-hunting) via these 118 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Job hunting is the process of seeking and applying for employment. It is a critical activity for career advancement and personal financial stability, requiring strategic planning, networking, and effective self-presentation.
+
 ### [1. Add the "Linkedin Helped Me Get the Job" Badge to Your Profile](https://hackernoon.com/add-the-linkedin-helped-me-get-the-job-badge-to-your-profile)
 ![](https://cdn.hackernoon.com/images/aCJAUxoCsZXrtVbGMNCrUF3fKTQ2-5lb3ub1.jpeg)
 LinkedIn, the world's best professional platform launched a small badge beside the text “helped me get the job” under the job position.
@@ -38,17 +42,17 @@ I have attempted to build a Notion template which serves as a job application tr
 ![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-hw82tl2.png)
 Some questions that don't just show you are worth hiring, but also show whether the company is worth hiring into.
 
-### [10. ADPList Matches Laid-Off Designers with Mentors for Free](https://hackernoon.com/adplist-matches-laid-off-designers-with-mentors-for-free-rk2g32wj)
+### [10. How I Received 3 Front End Engineer Offers in a Tough Market as a Non-CS Graduate](https://hackernoon.com/how-i-received-3-front-end-engineer-offers-in-a-tough-market-as-a-non-cs-graduate)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6283lop.jpeg)
+Discover how a non-CS background led to securing multiple offers as a Frontend/Software Engineer, overcoming challenges in job hunting.
+
+### [11. ADPList Matches Laid-Off Designers with Mentors for Free](https://hackernoon.com/adplist-matches-laid-off-designers-with-mentors-for-free-rk2g32wj)
 ![](https://cdn.hackernoon.com/images/E94jeG4kuxf5Akvr1TBep1bZVSg1-cj4v32yx.jpeg)
 ADPLIst is a free community that matches designers and mentors. The new platform has more than 5,000 designers and mentors.
 
-### [11. When To Start Applying For Web Developer Jobs](https://hackernoon.com/when-to-start-applying-for-web-developer-jobs-ln703wh4)
+### [12. When To Start Applying For Web Developer Jobs](https://hackernoon.com/when-to-start-applying-for-web-developer-jobs-ln703wh4)
 ![](https://cdn.hackernoon.com/images/yv273v7d.jpg)
 When I was in the process of learning web development, I was always thinking to myself: “Am I ready to start applying for jobs”, “How many things do I need to know before I start applying for jobs”, “When should I start applying for jobs”. These are probably one of the most important questions in your web development career and ones most people struggle with.
-
-### [12. How I Received 3 Front End Engineer Offers in a Tough Market as a Non-CS Graduate](https://hackernoon.com/how-i-received-3-front-end-engineer-offers-in-a-tough-market-as-a-non-cs-graduate)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6283lop.jpeg)
-Discover how a non-CS background led to securing multiple offers as a Frontend/Software Engineer, overcoming challenges in job hunting.
 
 ### [13. The Final Guide on Landing a Software Engineering Role at a FAANG Company](https://hackernoon.com/the-final-guide-on-landing-a-software-engineering-role-at-a-faang-company)
 ![](https://cdn.hackernoon.com/images/77fdrPu4ybMLx0OjzBBTzNBhT1f2-4qc3e1d.jpeg)
@@ -102,17 +106,17 @@ We try, we fail or we succeed but we always learn.
 ![](https://cdn.hackernoon.com/images/iWyiPHeSffVd0q7cGprXTrQalGX2-cj93obo.jpeg)
 With over 10 years of experience as a hiring manager for software engineers, I've compiled a list of the many recurring questions I've received from job seekers
 
-### [26. How to Work in Web 3, Cryptocurrency?](https://hackernoon.com/how-to-work-in-web-3-cryptocurrency)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-6zc3ijq.jpeg)
-This article will help readers sort out the types of jobs in this field and the mindsets and traits they should have if they want to apply for those positions.
+### [26. The 2025 Job Market Reality Check: Why Old-School Job Search Tactics Are Dead](https://hackernoon.com/the-2025-job-market-reality-check-why-old-school-job-search-tactics-are-dead)
+![](https://cdn.hackernoon.com/images/VfV5V4tjJpZrQPrHASJ6Xn5fRCH3-ee138nt.png)
+The 2025 job market isn't just tough—it's officially broken.
 
 ### [27. The Ultimate Guide to Software Development Job Interview Prep ](https://hackernoon.com/the-ultimate-guide-to-software-development-job-interview-prep)
 ![](https://cdn.hackernoon.com/images/IzGq6ZjAP5bDH89ofBqoSUWRLuy1-p793p04.jpeg)
 
 
-### [28. The 2025 Job Market Reality Check: Why Old-School Job Search Tactics Are Dead](https://hackernoon.com/the-2025-job-market-reality-check-why-old-school-job-search-tactics-are-dead)
-![](https://cdn.hackernoon.com/images/VfV5V4tjJpZrQPrHASJ6Xn5fRCH3-ee138nt.png)
-The 2025 job market isn't just tough—it's officially broken.
+### [28. How to Work in Web 3, Cryptocurrency?](https://hackernoon.com/how-to-work-in-web-3-cryptocurrency)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-6zc3ijq.jpeg)
+This article will help readers sort out the types of jobs in this field and the mindsets and traits they should have if they want to apply for those positions.
 
 ### [29. 77% Of Hiring Managers Say Job Hopping Is A Red Flag](https://hackernoon.com/77percent-of-hiring-managers-say-job-hopping-is-a-red-flag)
 ![](https://cdn.hackernoon.com/images/CFe2OEutzHPpZu5ypBrXf2VsWPW2-wf9388q.jpeg)
@@ -134,13 +138,13 @@ Here’s the secret to getting a recruiter to work harder for you.
 ![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-3m0371d.jpeg)
 Working at Fortinet is a unique experience.  Its one that can grow your career and pay you well, if you know what your getting into.  
 
-### [34. How I Got a Tech Job In Berlin](https://hackernoon.com/how-i-got-a-tech-job-in-berlin-ihxb3ygw)
-![](https://cdn.hackernoon.com/drafts/jv5y3yon.png)
-This is for people currently working and residing outside of Europe, who are looking for jobs in Berlin/Europe. There are many opportunities here, as the startup scene in Berlin is on the rise. I've been working as a Software Developer for the last 5 years, out of which I spent a year and a half in Berlin. Like many developers out there, moving abroad for work is a personal dream, and most people materialize that dream by doing a Masters from abroad, and working from there. For me, the story was a little different. 
-
-### [35. How to Ace Your Interview Assignment to Land Your Next Front-end Job](https://hackernoon.com/how-to-ace-your-interview-assignment-to-land-your-next-front-end-job)
+### [34. How to Ace Your Interview Assignment to Land Your Next Front-end Job](https://hackernoon.com/how-to-ace-your-interview-assignment-to-land-your-next-front-end-job)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-2gb3hly.jpeg)
 Let’s have a quick look at how to make your next front-end interview assignment look as good as possible.
+
+### [35. How I Got a Tech Job In Berlin](https://hackernoon.com/how-i-got-a-tech-job-in-berlin-ihxb3ygw)
+![](https://cdn.hackernoon.com/drafts/jv5y3yon.png)
+This is for people currently working and residing outside of Europe, who are looking for jobs in Berlin/Europe. There are many opportunities here, as the startup scene in Berlin is on the rise. I've been working as a Software Developer for the last 5 years, out of which I spent a year and a half in Berlin. Like many developers out there, moving abroad for work is a personal dream, and most people materialize that dream by doing a Masters from abroad, and working from there. For me, the story was a little different. 
 
 ### [36. How to Write a Python Script to Scale Your Data Science Job Applications](https://hackernoon.com/how-to-write-a-python-script-to-scale-your-data-science-job-applications-g16l33fm)
 ![](https://cdn.hackernoon.com/images/jAJgo4aiCTXwCqKDJMiq9TyBt412-o72o3338.jpeg)
@@ -166,13 +170,13 @@ With over 10 years of experience as a hiring manager for software engineers, I'v
 ![](https://cdn.hackernoon.com/images/a-robot-prepares-to-make-software-inside-a-computer-clduh1g9k000001s62caz6ei3.png)
 The Ultimate List of Job Hunting Resources for Software Developers covers resources for resuming writing, job application management, and coding interview prep.
 
-### [42. 5 Things To Ask About the Engineering Team to Avoid Taking a Job From Hell](https://hackernoon.com/5-things-to-ask-about-the-engineering-team-to-avoid-taking-a-job-from-hell-h0453uj4)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-9lf3u9s.jpeg?alt=media&token=868977a4-f6b8-460a-a7a4-be7c1e134aef)
-Anyone with enough job experience knows that some jobs can leave you completely exhausted at the end of the day — while others make you excited, proud, and willing to do more. Sometimes people experience these opposite effects from jobs that are in fact quite similar in terms of responsibilities. So what can account for this difference?
-
-### [43. What Exactly Am I Making a Resume For?](https://hackernoon.com/what-exactly-am-i-making-a-resume-for)
+### [42. What Exactly Am I Making a Resume For?](https://hackernoon.com/what-exactly-am-i-making-a-resume-for)
 ![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-q582tue.jpeg)
 A resume serves EXACTLY one purpose: to entice the recipient to call you for an interview.
+
+### [43. 5 Things To Ask About the Engineering Team to Avoid Taking a Job From Hell](https://hackernoon.com/5-things-to-ask-about-the-engineering-team-to-avoid-taking-a-job-from-hell-h0453uj4)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-9lf3u9s.jpeg?alt=media&token=868977a4-f6b8-460a-a7a4-be7c1e134aef)
+Anyone with enough job experience knows that some jobs can leave you completely exhausted at the end of the day — while others make you excited, proud, and willing to do more. Sometimes people experience these opposite effects from jobs that are in fact quite similar in terms of responsibilities. So what can account for this difference?
 
 ### [44. How I Tried to Automate Job Applications as a Software Engineer in Canada (and Failed)](https://hackernoon.com/how-i-tried-to-automate-job-applications-as-a-software-engineer-in-canada-and-failed)
 ![](https://cdn.hackernoon.com/images/tCXEVEaSkWSIDCzncRobuIJk7b43-k882q5o.jpeg)
@@ -186,13 +190,13 @@ Remote work has become increasingly popular in recent years thanks to the shift 
 ![](https://cdn.hackernoon.com/images/dekqFKbCjYP7GoUnRP2jptMYXsC3-en830l2.jpeg)
 In this blog, we'll explore the most common mistakes that candidates make when applying for remote positions.
 
-### [47. 15 Secrets Every Job Seeker Needs to Know](https://hackernoon.com/15-secrets-every-job-seeker-needs-to-know)
-![](https://cdn.hackernoon.com/images/azAByOWivJOBmZzVX5O8IADX2ZG3-xb93pyv.jpeg)
-There are a lot of things that job seekers need to know in order to be successful in their search. However, there are some secrets that can be even more helpful
-
-### [48. The Basics Of Getting A Job](https://hackernoon.com/the-basics-of-getting-a-job)
+### [47. The Basics Of Getting A Job](https://hackernoon.com/the-basics-of-getting-a-job)
 ![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-gb93z3h.jpeg)
 Getting hired needs applicants to complete some steps; writing resume/CV, cover letter, popular interview questions, general interview advice, choosing a job.
+
+### [48. 15 Secrets Every Job Seeker Needs to Know](https://hackernoon.com/15-secrets-every-job-seeker-needs-to-know)
+![](https://cdn.hackernoon.com/images/azAByOWivJOBmZzVX5O8IADX2ZG3-xb93pyv.jpeg)
+There are a lot of things that job seekers need to know in order to be successful in their search. However, there are some secrets that can be even more helpful
 
 ### [49. 9 Things You Might Be Missing From Your Job Search Strategy](https://hackernoon.com/9-things-you-might-be-missing-from-your-job-search-strategy)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-8w93s3e.jpeg)
@@ -222,53 +226,53 @@ With over 10 years of experience as a hiring manager for software engineers, I'v
 ![](https://cdn.hackernoon.com/images/VqjDIFsH34em3imm3yPAQGnh5oM2_1r6127ig.jpeg)
 This method can help IT professionals at any level - junior, senior, middle - and in any programming field - Android, iOS, frontend, backend, fullstack, etc.
 
-### [56. Finding Your Ideal Workplace: Beyond Salary, What Truly Matters in a Job?](https://hackernoon.com/finding-your-ideal-workplace-beyond-salary-what-truly-matters-in-a-job)
-![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-3p82ttv.jpeg)
-Improve your job search by including the corporate culture, the community it serves, the products it creates, and how it fits into the work you're called to do.
+### [56. The Front Door Problem: Breaking Into Big Tech Without a "Top-Tier" Degree](https://hackernoon.com/the-front-door-problem-breaking-into-big-tech-without-a-top-tier-degree)
+![](https://cdn.hackernoon.com/images/8NEjY3nDnKP9s4jxSyfm2Hb7pZI3-wx83e19.png)
+No Ivy League? No problem. Learn how to break into Big Tech by bypassing the "pedigree trap" through strategic networking, proof of work, and storytelling.
 
 ### [57. How I Successfully Ended My One Week Job Hunt](https://hackernoon.com/how-i-successfully-ended-my-one-week-job-hunt)
 ![](https://cdn.hackernoon.com/images/uiOb0Rkt9yS93a8NdRiv1MqQRh92-ld637ii.jpeg)
 After spending months studying front end development (HTML, CSS, JavaScript, React, and Git), and weeks building my portfolio, I landed a job in one week!
 
-### [58. How to Prepare for a Product Manager Interview [Part 3-From Zero to Product Manager]](https://hackernoon.com/how-to-prepare-for-a-product-manager-interview-part-3-from-zero-to-product-manager-ct2932z2)
+### [58. Finding Your Ideal Workplace: Beyond Salary, What Truly Matters in a Job?](https://hackernoon.com/finding-your-ideal-workplace-beyond-salary-what-truly-matters-in-a-job)
+![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-3p82ttv.jpeg)
+Improve your job search by including the corporate culture, the community it serves, the products it creates, and how it fits into the work you're called to do.
+
+### [59. How to Prepare for a Product Manager Interview [Part 3-From Zero to Product Manager]](https://hackernoon.com/how-to-prepare-for-a-product-manager-interview-part-3-from-zero-to-product-manager-ct2932z2)
 ![](https://images.unsplash.com/photo-1549923746-c502d488b3ea?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 This article is Part 3 of the ongoing series From Zero to Product Manager. A set of articles that help you transition to a Product Management role. In this post, I provide tips to look for jobs and prepare for your interview.
 
-### [59. 5 Successful Strategies for Finding a Job in Tech](https://hackernoon.com/5-successful-strategies-for-finding-a-job-in-tech-vj463uul)
+### [60. 5 Successful Strategies for Finding a Job in Tech](https://hackernoon.com/5-successful-strategies-for-finding-a-job-in-tech-vj463uul)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtTB1guMEEpTjqSrWivQoD1ErY6n2-nc1d3uf4.jpeg?alt=media&token=e30e3bd6-0c26-4600-bcbc-aacbaaeba883)
 The COVID-19 pandemic has changed the way people search for jobs, but it is still possible to find a rewarding tech job. To make your job-hunt successful, utilize multiple strategies at the same time. Let’s take a look at the most effective ones.
 
-### [60. Talent for Tech? Job Tips From 5 Top Women in Tech](https://hackernoon.com/talent-for-tech-tips-for-how-to-get-a-job-from-5-top-women-in-tech-kxf648m0)
+### [61. Talent for Tech? Job Tips From 5 Top Women in Tech](https://hackernoon.com/talent-for-tech-tips-for-how-to-get-a-job-from-5-top-women-in-tech-kxf648m0)
 ![](https://cdn.hackernoon.com/images/zq4kRoY1koM2G9ICsR601fXkYy22-44bf48br.jpeg)
 As the technology sector expands, there are exponential opportunities for people from all backgrounds and disciplines to carve out new careers for yourself. 
 
-### [61. "True Pain is the Inability to Breathe" - Muhammad Bilal, CEO of BreatheIO](https://hackernoon.com/true-pain-is-the-inability-to-breathe-muhammad-bilal-ceo-of-breatheio-iq603392)
+### [62. "True Pain is the Inability to Breathe" - Muhammad Bilal, CEO of BreatheIO](https://hackernoon.com/true-pain-is-the-inability-to-breathe-muhammad-bilal-ceo-of-breatheio-iq603392)
 ![](https://hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-xy2s33lh.jpeg)
 I find that work and personal life are just categoricals, that only come to play with respect to space, not even time.
 
-### [62. FAQs For a Software Engineering Hiring Manager - Part 3 of 5: Portfolios & GitHubs](https://hackernoon.com/faqs-for-a-software-engineering-hiring-manager-part-3-of-5-portfolios-and-githubs)
+### [63. FAQs For a Software Engineering Hiring Manager - Part 3 of 5: Portfolios & GitHubs](https://hackernoon.com/faqs-for-a-software-engineering-hiring-manager-part-3-of-5-portfolios-and-githubs)
 ![](https://cdn.hackernoon.com/images/iWyiPHeSffVd0q7cGprXTrQalGX2-dj93o42.jpeg)
 With over 10 years of experience as a hiring manager for software engineers, I've compiled a list of the many recurring questions I've received from job seekers
-
-### [63. That Time I Applied to 600 Jobs](https://hackernoon.com/that-time-i-applied-to-600-jobs-877a3yzx)
-![](https://cdn.hackernoon.com/drafts/fn4838so.png)
-“I love job searching,” says no one ever.
 
 ### [64. Job Mobility Slows Amidst Recession Fears and Tech Layoffs ](https://hackernoon.com/job-mobility-slows-amidst-recession-fears-and-tech-layoffs)
 ![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-oca3o4e.jpeg)
 The Great Resignation might be waning among knowledge workers. Enter: The Great Disengagement.
 
-### [65. Cybersecurity Job Hunting, Pen-Testing Study Plans, and Certifications on a Budget](https://hackernoon.com/cybersecurity-job-hunting-pen-testing-study-plans-and-certifications-on-a-budget)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ni93p6e.jpeg)
-In light of recent debates and scandals about cybersecurity education and job search, I want to provide my own views and insights about learning pen-testing.
+### [65. That Time I Applied to 600 Jobs](https://hackernoon.com/that-time-i-applied-to-600-jobs-877a3yzx)
+![](https://cdn.hackernoon.com/drafts/fn4838so.png)
+“I love job searching,” says no one ever.
 
 ### [66. Team Red: Long Lost Contact](https://hackernoon.com/team-red-long-lost-contact)
 ![](https://cdn.hackernoon.com/images/G6OScDcbO2V5YjMMDu4VMossUhU2-vi93qst.jpeg)
 Linus Chen is a research scientist who was given an opportunity to interview for a Volga during a global pandemic, the largest e-commerce company. 
 
-### [67. The Front Door Problem: Breaking Into Big Tech Without a "Top-Tier" Degree](https://hackernoon.com/the-front-door-problem-breaking-into-big-tech-without-a-top-tier-degree)
-![](https://cdn.hackernoon.com/images/8NEjY3nDnKP9s4jxSyfm2Hb7pZI3-wx83e19.png)
-No Ivy League? No problem. Learn how to break into Big Tech by bypassing the "pedigree trap" through strategic networking, proof of work, and storytelling.
+### [67. Cybersecurity Job Hunting, Pen-Testing Study Plans, and Certifications on a Budget](https://hackernoon.com/cybersecurity-job-hunting-pen-testing-study-plans-and-certifications-on-a-budget)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ni93p6e.jpeg)
+In light of recent debates and scandals about cybersecurity education and job search, I want to provide my own views and insights about learning pen-testing.
 
 ### [68. I Tried All the Top Resume Builders So You Don’t Have To](https://hackernoon.com/i-tried-all-the-top-resume-builders-so-you-dont-have-to)
 ![](https://cdn.hackernoon.com/images/bLdaprtmQ8Z3nbLJlVjDKsP21Uo2-6l836m9.jpeg)
@@ -278,13 +282,13 @@ There are a lot of resume builders out there now, and it felt overwhelming to fi
 ![](https://cdn.hackernoon.com/images/dekqFKbCjYP7GoUnRP2jptMYXsC3-1qj37w8.jpeg)
 Finding a remote job can be hard when you don’t know the best websites to go to. This list of remote job sites will help you find a work-from-home job easily.
 
-### [70. 81 Stories To Learn About Job Search](https://hackernoon.com/81-stories-to-learn-about-job-search)
-![](https://cdn.hackernoon.com/images/github/job-search-955.png)
-Learn everything you need to know about Job Search via these 81 free HackerNoon stories.
-
-### [71. FAQs For a Software Engineering Hiring Manager - Part 1 of 5: Resumes](https://hackernoon.com/faqs-for-a-software-engineering-hiring-manager-part-1-of-5-resumes)
+### [70. FAQs For a Software Engineering Hiring Manager - Part 1 of 5: Resumes](https://hackernoon.com/faqs-for-a-software-engineering-hiring-manager-part-1-of-5-resumes)
 ![](https://cdn.hackernoon.com/images/iWyiPHeSffVd0q7cGprXTrQalGX2-bi93okl.jpeg)
 With over 10 years of experience as a hiring manager for software engineers, I've compiled a list of the many recurring questions I've received from job seekers
+
+### [71. 81 Stories To Learn About Job Search](https://hackernoon.com/81-stories-to-learn-about-job-search)
+![](https://cdn.hackernoon.com/images/github/job-search-955.png)
+Learn everything you need to know about Job Search via these 81 free HackerNoon stories.
 
 ### [72. Sometimes Job-Searching IS Just About Who You Know...](https://hackernoon.com/sometimes-job-searching-is-just-about-who-you-know)
 ![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-ml82t1b.jpeg)
@@ -322,37 +326,37 @@ Looking for work can be challenging, especially if you don't know where to start
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-np1377h.gif.webp)
 Hello World! This is Sidra, Business Development Representative from HackerNoon's smart and lean Sales team. Today, I'm here with exciting news - WE ARE HIRING!
 
-### [81. Examples and Expert Tips for a Winning Job Search - Junior Software Engineer Resumes](https://hackernoon.com/examples-and-expert-tips-for-a-winning-job-search-junior-software-engineer-resumes)
-![](https://cdn.hackernoon.com/images/QRqitUIXi9Z5pvAY0aAnCzCu0002-my02uan.png)
-Effective tips for Junior Software Engineers to perfect their CV.
-
-### [82. I Hit “Apply” 142 Times—and Heard Back Twice](https://hackernoon.com/i-hit-apply-142-timesand-heard-back-twice)
+### [81. I Hit “Apply” 142 Times—and Heard Back Twice](https://hackernoon.com/i-hit-apply-142-timesand-heard-back-twice)
 ![](https://cdn.hackernoon.com/images/jRwwcVG82DMtp3zTIazacx3SGRa2-i0038mn.png)
 Student tired of internship ghosting builds a one-click Chrome extension that finds recruiters and sends follow-up emails—open-source help wanted.
+
+### [82. Examples and Expert Tips for a Winning Job Search - Junior Software Engineer Resumes](https://hackernoon.com/examples-and-expert-tips-for-a-winning-job-search-junior-software-engineer-resumes)
+![](https://cdn.hackernoon.com/images/QRqitUIXi9Z5pvAY0aAnCzCu0002-my02uan.png)
+Effective tips for Junior Software Engineers to perfect their CV.
 
 ### [83. How One Math Major's Journey Led to a Career in Data Science](https://hackernoon.com/how-one-math-majors-journey-led-to-a-career-in-data-science)
 ![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-h203h45.jpeg)
 A Data Scientist shares her story about getting starting in Data Science as a single mom and tips so you can get started in Data Science, too!
 
-### [84. How The Great Recession Led Me To Innovate Now](https://hackernoon.com/how-the-great-recession-lead-me-to-innovate-now-ac153tsc)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnePmJX1ffrXtWlHHBTRNQfy2W392-7o2n32b4.jpeg?alt=media&token=a67df975-4ca9-4b13-9082-21754c9fb194)
-We all know startups are supposed to solve problems. And, 2020 has been a record-setting year for problems.
-
-### [85. I Went From 166 Rejections to an Offer—Here Are The 5 Rules That Worked For Me](https://hackernoon.com/i-went-from-166-rejections-to-an-offerhere-are-the-5-rules-that-worked-for-me)
+### [84. I Went From 166 Rejections to an Offer—Here Are The 5 Rules That Worked For Me](https://hackernoon.com/i-went-from-166-rejections-to-an-offerhere-are-the-5-rules-that-worked-for-me)
 ![](https://cdn.hackernoon.com/images/utrrS4gs9nPc1i8z2qupQFJNhhK2-xw43jos.png)
 A few months back, I sent out 166 applications, pouring my heart into each one, hoping for a breakthrough. But the reality was harsh.
 
-### [86. Why We're Pivoting After Making $109,000 in Revenue Last Year](https://hackernoon.com/why-were-pivoting-after-making-dollar109000-in-revenue-last-year-pcf732xb)
-![](https://cdn.hackernoon.com/images/xk1n54yyo.jpg)
-It’s Time for a Change
+### [85. How The Great Recession Led Me To Innovate Now](https://hackernoon.com/how-the-great-recession-lead-me-to-innovate-now-ac153tsc)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnePmJX1ffrXtWlHHBTRNQfy2W392-7o2n32b4.jpeg?alt=media&token=a67df975-4ca9-4b13-9082-21754c9fb194)
+We all know startups are supposed to solve problems. And, 2020 has been a record-setting year for problems.
+
+### [86. I Got Laid Off Recently, So I'm Letting Go of the Project I Believed In the Most](https://hackernoon.com/i-got-laid-off-recently-so-im-letting-go-of-the-project-i-believed-in-the-most)
+![](https://cdn.hackernoon.com/images/uvTzvi71xVhveYmHowncWS1I8cm2-4703d70.png)
+Built with love, now up for grabs: a crypto tipping platform for GitHub devs.
 
 ### [87. Here's Why You Shouldn't Focus on Job Openings When Deciding What Programming Language to Learn](https://hackernoon.com/why-you-shouldnt-focus-on-job-openings-when-deciding-what-programming-language-to-learn)
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-en93p45.jpeg)
 When deciding what programming language to learn everyone I talk to is only concerned with one metric: the total number of jobs for a given technology.
 
-### [88. I Got Laid Off Recently, So I'm Letting Go of the Project I Believed In the Most](https://hackernoon.com/i-got-laid-off-recently-so-im-letting-go-of-the-project-i-believed-in-the-most)
-![](https://cdn.hackernoon.com/images/uvTzvi71xVhveYmHowncWS1I8cm2-4703d70.png)
-Built with love, now up for grabs: a crypto tipping platform for GitHub devs.
+### [88. Why We're Pivoting After Making $109,000 in Revenue Last Year](https://hackernoon.com/why-were-pivoting-after-making-dollar109000-in-revenue-last-year-pcf732xb)
+![](https://cdn.hackernoon.com/images/xk1n54yyo.jpg)
+It’s Time for a Change
 
 ### [89. 3 Ways to Win the Negotiation for What You Want From Your Next Job](https://hackernoon.com/3-ways-to-win-the-negotiation-for-what-you-want-from-your-next-job-kax3ud2)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY8OnbrBlePVzFHizwYeYKtHAbMn1-x0a628kg.jpeg?alt=media&token=c2c9f52e-526f-4a01-9a43-dada10c1c946)
@@ -386,45 +390,45 @@ Learn about ghost jobs and valid offers in 2025's job market. Ilia shares Linked
 ![](https://cdn.hackernoon.com/images/AqYX8DaByfOj7QKAO2JKsnQ0rvL2-s03y35v3.jpeg)
 Struggling to decide to find a suitable resume template? Follow this easy guide to pick the best option and create a beautiful resume for your dream tech job.
 
-### [97. The Power of AI in Recruiting: How The Business World is Changing for Good](https://hackernoon.com/the-power-of-ai-in-recruiting-how-the-business-world-is-changing-for-good-i22635af)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-o0s297l.jpeg)
-AI drastically improved the world around us in many different ways. However, there are still many notable concerns with regard to overall impact on employment.
-
-### [98. Debunking Hiring Superstitions: Things That Aren't Really a Thing](https://hackernoon.com/debunking-hiring-superstitions-things-that-arent-really-a-thing)
-![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-x00246d.jpeg)
-Things that job-seekers believe might be happening to harm their job search which really aren't happening. 
-
-### [99. Fast-Track Your Career Development with Data Science Help](https://hackernoon.com/fast-track-your-career-development-with-data-science-help-kbe3uid)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQm5Zt97kNTh4Dad09fgnLo3EPU32-ep1l3u0v.png?alt=media&token=38f59e35-d5bd-4689-9dd4-e4c94396de9b)
-If you’re in the market for a new job in tech, you’ve undoubtedly seen the huge need for data scientists. Data science is one of the hottest fields right now with hundreds of new roles added every day. Even better, these roles are often highly paid, with the average median salary for a US-based data scientist topping $113,000 (Glassdoor). Data scientists also report a high degree of satisfaction with their jobs, which makes this career path a great choice for data-minded women in tech. 
-
-### [100. ArtemisFlow: A Local-First Job Tracker I Built](https://hackernoon.com/artemisflow-a-local-first-job-tracker-i-built)
+### [97. ArtemisFlow: A Local-First Job Tracker I Built](https://hackernoon.com/artemisflow-a-local-first-job-tracker-i-built)
 ![](https://cdn.hackernoon.com/images/eEKnKNvz4GhzakXZkv2SzcmgnG73-th93cr9.png)
 ArtemisFlow is a local-first job tracker built for tech candidates. No accounts, no backend, and no external database.
 
-### [101. Software Testing as a Job to Enter the Tech Space](https://hackernoon.com/software-testing-as-a-job-to-enter-the-tech-space)
+### [98. Fast-Track Your Career Development with Data Science Help](https://hackernoon.com/fast-track-your-career-development-with-data-science-help-kbe3uid)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQm5Zt97kNTh4Dad09fgnLo3EPU32-ep1l3u0v.png?alt=media&token=38f59e35-d5bd-4689-9dd4-e4c94396de9b)
+If you’re in the market for a new job in tech, you’ve undoubtedly seen the huge need for data scientists. Data science is one of the hottest fields right now with hundreds of new roles added every day. Even better, these roles are often highly paid, with the average median salary for a US-based data scientist topping $113,000 (Glassdoor). Data scientists also report a high degree of satisfaction with their jobs, which makes this career path a great choice for data-minded women in tech. 
+
+### [99. Debunking Hiring Superstitions: Things That Aren't Really a Thing](https://hackernoon.com/debunking-hiring-superstitions-things-that-arent-really-a-thing)
+![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-x00246d.jpeg)
+Things that job-seekers believe might be happening to harm their job search which really aren't happening. 
+
+### [100. The Power of AI in Recruiting: How The Business World is Changing for Good](https://hackernoon.com/the-power-of-ai-in-recruiting-how-the-business-world-is-changing-for-good-i22635af)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-o0s297l.jpeg)
+AI drastically improved the world around us in many different ways. However, there are still many notable concerns with regard to overall impact on employment.
+
+### [101. Gen Z Doesn’t Hate Work — They Hate the AI That Filters Them Out](https://hackernoon.com/gen-z-doesnt-hate-work-they-hate-the-ai-that-filters-them-out)
+![](https://cdn.hackernoon.com/images/gP4opxfmPrZit0pOkDoEn6Cq7Vl1-7403bue.png)
+This article explores how AI, layered onto outdated hiring systems, is failing Gen Z and modern talent. It challenges traditional recruitment models and propose
+
+### [102. Software Testing as a Job to Enter the Tech Space](https://hackernoon.com/software-testing-as-a-job-to-enter-the-tech-space)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-7l92eeg.jpeg)
 Software testing is a tech job that doesn’t get as much attention as it deserves.
 
-### [102. Job Descriptions and Their Fictional Hiring Expectations](https://hackernoon.com/job-descriptions-and-their-fictional-hiring-expectations)
+### [103. Job Descriptions and Their Fictional Hiring Expectations](https://hackernoon.com/job-descriptions-and-their-fictional-hiring-expectations)
 ![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-hq82tqa.jpeg)
 Don't let a bad job description keep you from applying to what might be a great job. Because in many cases, that description bears NO resemblance to the job.
-
-### [103. Gen Z Doesn’t Hate Work — They Hate the AI That Filters Them Out](https://hackernoon.com/gen-z-doesnt-hate-work-they-hate-the-ai-that-filters-them-out)
-![](https://cdn.hackernoon.com/images/gP4opxfmPrZit0pOkDoEn6Cq7Vl1-7403bue.png)
-This article explores how AI, layered onto outdated hiring systems, is failing Gen Z and modern talent. It challenges traditional recruitment models and propose
 
 ### [104. The Secrets of Success: How Young Men Can Make Their Fortune](https://hackernoon.com/the-secrets-of-success-how-young-men-can-make-their-fortune)
 ![](https://cdn.hackernoon.com/images/Dh779CmdTWcT0wfGv6t0L3Zkjkj1-t4a3lx6.jpeg)
 One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series.
 
-### [105. How to Cold Email Career Prospects for Advice When You're Still a Student](https://hackernoon.com/how-to-cold-email-career-prospects-for-advice-when-youre-still-a-student-pt3f3uw1)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-hi303uum.jpeg?alt=media&token=84b3afeb-3a52-48d2-9959-050965d88e0a)
-Every week, I receive a handful of LinkedIn requests from students of all ages/nationalities seeking to get into consulting. Cold-emailing is the right approach: getting to know a company from the inside will help during the interview process, and shows that the candidate cares enough about the role to do some due diligence. It's also important to gauge how potential future co-workers treat soon-to-be graduates. 
-
-### [106. Tech Workers Need More Than the Average U.S. Salary And This Is Why](https://hackernoon.com/tech-workers-need-more-than-the-average-us-salary-and-this-is-why)
+### [105. Tech Workers Need More Than the Average U.S. Salary And This Is Why](https://hackernoon.com/tech-workers-need-more-than-the-average-us-salary-and-this-is-why)
 ![](https://cdn.hackernoon.com/images/CFe2OEutzHPpZu5ypBrXf2VsWPW2-fa9389q.jpeg)
 And according to recent data compiled by Indeed, job seekers are 75% more likely to apply for a job that displays salary information over those that don’t.
+
+### [106. How to Cold Email Career Prospects for Advice When You're Still a Student](https://hackernoon.com/how-to-cold-email-career-prospects-for-advice-when-youre-still-a-student-pt3f3uw1)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-hi303uum.jpeg?alt=media&token=84b3afeb-3a52-48d2-9959-050965d88e0a)
+Every week, I receive a handful of LinkedIn requests from students of all ages/nationalities seeking to get into consulting. Cold-emailing is the right approach: getting to know a company from the inside will help during the interview process, and shows that the candidate cares enough about the role to do some due diligence. It's also important to gauge how potential future co-workers treat soon-to-be graduates. 
 
 ### [107. Job Listed As In-Office? You Might Be Able To Go Remote](https://hackernoon.com/job-listed-as-in-office-you-might-be-able-to-go-remote)
 ![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-4y82tg9.jpeg)
@@ -442,17 +446,17 @@ The article highlights 3 common CV mistakes: rating skill levels, including pers
 ![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-up93qar.jpeg)
 
 
-### [111. Introducing: The Gun.io Telegram Bot](https://hackernoon.com/introducing-the-gunio-telegram-bot-5z1u37lq)
+### [111. From Jock to VP: Using Your Sports Experience to Build a Career ](https://hackernoon.com/from-jock-to-vp-using-your-sports-experience-to-build-a-career)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-e413bhl.png)
+You are an athlete, and that means more than just putting a ball through a hoop, running fast, jumping high.
+
+### [112. Introducing: The Gun.io Telegram Bot](https://hackernoon.com/introducing-the-gunio-telegram-bot-5z1u37lq)
 ![](https://cdn.hackernoon.com/images/uhbSNoeWaKOii6prUfZNW2GE4zo1-qjhb35li.jpeg)
 The Gun.io Telegram bot streamlines the job searching process for software developers by integrating their job searching tools with their Telegram workflow.
 
-### [112. Negotiating Salary and Benefits for Your Job Offers](https://hackernoon.com/negotiating-salary-and-benefits-for-your-job-offers-9o2e37jr)
+### [113. Negotiating Salary and Benefits for Your Job Offers](https://hackernoon.com/negotiating-salary-and-benefits-for-your-job-offers-9o2e37jr)
 ![](https://cdn.hackernoon.com/images/69WgOCZVNPNiaNo1IgmC2r450Q62-7h9356u.jpeg)
 How to negotiate a higher salary at your tech job, without having to upset the stakeholders involved.
-
-### [113. From Jock to VP: Using Your Sports Experience to Build a Career ](https://hackernoon.com/from-jock-to-vp-using-your-sports-experience-to-build-a-career)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-e413bhl.png)
-You are an athlete, and that means more than just putting a ball through a hoop, running fast, jumping high.
 
 ### [114. The Job Market Is Broken - But That's Not The Whole Story](https://hackernoon.com/the-job-market-is-broken-but-thats-not-the-whole-story)
 ![](https://cdn.hackernoon.com/images/a-were-not-hiring-sign-ezu8spx8gf4b2ybo57uuqcwo.png)

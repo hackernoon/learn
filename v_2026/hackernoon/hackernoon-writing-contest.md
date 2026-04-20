@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [hackernoon-writing-contest](https://hackernoon.com/tagged/hackernoon-writing-contest)
+### Let's learn about [Hackernoon Writing Contest](https://hackernoon.com/tagged/hackernoon-writing-contest) via these 86 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Write about what you love and make money doing so!
 
 ### [1. It's Time to #EnterTheMetaverse Writing Contest by The Sandbox](https://hackernoon.com/enter-the-metaverse-writing-contest-presented-to-you-by-the-sandbox)
@@ -84,13 +86,13 @@ Heyo! Here we are with the Round 4 of the Debugging Writing Contest powered by�
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-zf93qhz.jpeg)
 Hackers! We are back with the Round 3 results announcement of one of the BIGGEST writing contests - The DeFi Writing Contest by SORA & HackerNoon. 
 
-### [21. Can Blockchain Make AI Systems More Transparent? Share Your Thoughts to Win From $2000](https://hackernoon.com/can-blockchain-make-ai-systems-more-transparent-share-your-thoughts-to-win-from-$2000)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-e1032ov.webp)
-Join the #blockchain Writing Contest and share your insights on decentralized AI, cloud, or dePIN. Win up to $2,000! Contest open Feb 5–May 7, 2025.
-
-### [22. The Blockchain Writing Contest 2022: Final Results Announced!](https://hackernoon.com/the-blockchain-writing-contest-2022-final-results-announced)
+### [21. The Blockchain Writing Contest 2022: Final Results Announced!](https://hackernoon.com/the-blockchain-writing-contest-2022-final-results-announced)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-hk93ldg.png)
 The final results announcement of the Blockchain Writing Contest brought to you by HackerNoon and Tatum is here!
+
+### [22. Can Blockchain Make AI Systems More Transparent? Share Your Thoughts to Win From $2000](https://hackernoon.com/can-blockchain-make-ai-systems-more-transparent-share-your-thoughts-to-win-from-$2000)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-e1032ov.webp)
+Join the #blockchain Writing Contest and share your insights on decentralized AI, cloud, or dePIN. Win up to $2,000! Contest open Feb 5–May 7, 2025.
 
 ### [23. The Cybersecurity Writing Contest 2022: Round 4 Results Announced!](https://hackernoon.com/the-cybersecurity-writing-contest-2022-round-4-results-announced)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-pd93p0l.jpeg)
@@ -108,13 +110,13 @@ HackerNoon is super excited to bring a premium writing contest for web devs, th
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-ci83wgc.jpeg)
 Happy Holidays, Hackers! We are happy to be back with another winner announcement of the DevOps Writing Contest by Aptible and HackerNoon!
 
-### [27. Want to Win From 15,000 USDT? Tell Us How Creditcoin is Building Trust in On-Chain Lending](https://hackernoon.com/want-to-win-from-15000-usdt-tell-us-how-creditcoin-is-building-trust-in-on-chain-lending)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-6z034jw.png)
-Submit your stories under #creditcoin and explore how Creditcoin is revolutionizing blockchain solutions while creating trust in decentralized finance.
-
-### [28. #Web3 Writing Contest 2022: Round 3 Results Announced!](https://hackernoon.com/web3-writing-contest-2022-round-3-results-announced)
+### [27. #Web3 Writing Contest 2022: Round 3 Results Announced!](https://hackernoon.com/web3-writing-contest-2022-round-3-results-announced)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-c293zrv.jpeg)
 Hey Hackers! Welcome to the third round of results announcement of the #Web3 Writing Contest!
+
+### [28. Want to Win From 15,000 USDT? Tell Us How Creditcoin is Building Trust in On-Chain Lending](https://hackernoon.com/want-to-win-from-15000-usdt-tell-us-how-creditcoin-is-building-trust-in-on-chain-lending)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-6z034jw.png)
+Submit your stories under #creditcoin and explore how Creditcoin is revolutionizing blockchain solutions while creating trust in decentralized finance.
 
 ### [29. The #Blockchain Writing Contest: May 2022 Results Announced!](https://hackernoon.com/the-blockchain-writing-contest-may-2022-results-announced)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-70l3zby.jpeg)
@@ -128,13 +130,13 @@ Win Your Share of 15,000 USDT in the Spacecoin Writing Contest! 🚀 Explore how
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-zi930z9.jpeg)
 Winner announcement of the Branding Writing Contest by HackerNoon and LogoDesign.net! 
 
-### [32. How Has Sci-fi Influenced Space Exploration? Answer Now to Win from 15,000 USDT](https://hackernoon.com/how-has-sci-fi-influenced-space-exploration-answer-now-to-win-from-15000-usdt)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-2803388.png)
-Join the Spacecoin Writing Contest to explore how science fiction has shaped space technology and win your share of a 15,000 USDT prize pool!
-
-### [33. The Future of Finance Writing Contest 2022: Round 2 Results Announced!](https://hackernoon.com/the-future-of-finance-writing-contest-2022-round-2-results-announced)
+### [32. The Future of Finance Writing Contest 2022: Round 2 Results Announced!](https://hackernoon.com/the-future-of-finance-writing-contest-2022-round-2-results-announced)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-cb93o36.jpeg)
 Fellow Hackers, it’s THAT time again. We have the results for the winners of the #Future of Finance writing contest Round 2.
+
+### [33. How Has Sci-fi Influenced Space Exploration? Answer Now to Win from 15,000 USDT](https://hackernoon.com/how-has-sci-fi-influenced-space-exploration-answer-now-to-win-from-15000-usdt)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-2803388.png)
+Join the Spacecoin Writing Contest to explore how science fiction has shaped space technology and win your share of a 15,000 USDT prize pool!
 
 ### [34. The Bitcoin Mining Writing Contest  by GoMining: Results Announced! ](https://hackernoon.com/the-bitcoin-mining-writing-contest-by-gomining-results-announced)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-95832bt.jpeg)
@@ -148,49 +150,49 @@ For the Web3 writing contest, HackerNoon has partnered with Octopus Network to 
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-l093q3j.jpeg)
 Heyo Hackers! The Round 2 results announcement of The DeFi Writing Contest by SORA & HackerNoon is FINALLY Here!
 
-### [37. Calling All Writers: Learn What The Ethereum Writing Contest Is All About](https://hackernoon.com/calling-all-writers-learn-what-the-ethereum-writing-contest-is-all-about)
-![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-ti0335e.png)
-In this AMA with Linda from DeGate, we discuss the Ethereum Writing Contest and some tips for our contestants.
-
-### [38. Start Writing, Start Making Money, and Start Voting for the Startups of the Year](https://hackernoon.com/start-writing-start-making-money-and-start-voting-for-the-startups-of-the-year)
+### [37. Start Writing, Start Making Money, and Start Voting for the Startups of the Year](https://hackernoon.com/start-writing-start-making-money-and-start-voting-for-the-startups-of-the-year)
 ![](https://cdn.hackernoon.com/images/making-money-clhjgy32h000001s662pjfjwb.png)
 Big things are happening! Read on to learn more about how you can make money and make a difference for a startup that is near and dear to your heart.
+
+### [38. Calling All Writers: Learn What The Ethereum Writing Contest Is All About](https://hackernoon.com/calling-all-writers-learn-what-the-ethereum-writing-contest-is-all-about)
+![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-ti0335e.png)
+In this AMA with Linda from DeGate, we discuss the Ethereum Writing Contest and some tips for our contestants.
 
 ### [39. Answer to Win from $2000: How Does Aleph Cloud Support Decentralized AI Development?](https://hackernoon.com/answer-to-win-from-$2000-how-does-aleph-cloud-support-decentralized-ai-development)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-1s038vx.png)
 Explore how Aleph Cloud supports decentralized AI development for a chance to win up to $2000 in the #blockchain Writing Contest
 
-### [40. The #Web3 Writing Contest 2022: Round 5 Results Announced!](https://hackernoon.com/the-web3-writing-contest-2022-round-5-results-announced)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-y093o82.jpeg)
-Heyo, welcome to our monthly results announcement for the Web3 Writing Contest by HackerNoon and Octopus Network!
-
-### [41. The Unity Writing Contest by Tatum Games: Winners Announced!](https://hackernoon.com/the-unity-writing-contest-by-tatum-games-winners-announced)
+### [40. The Unity Writing Contest by Tatum Games: Winners Announced!](https://hackernoon.com/the-unity-writing-contest-by-tatum-games-winners-announced)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-d5a339u.jpeg)
 Game devs, assemble! The winners of the Unity Writing Contest by Tatum Games and HackerNoon are announced.
+
+### [41. The #Web3 Writing Contest 2022: Round 5 Results Announced!](https://hackernoon.com/the-web3-writing-contest-2022-round-5-results-announced)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-y093o82.jpeg)
+Heyo, welcome to our monthly results announcement for the Web3 Writing Contest by HackerNoon and Octopus Network!
 
 ### [42. Write About an Underrated Real-World Blockchain Use Case To Win From 15,000 USDT](https://hackernoon.com/write-about-an-underrated-blockchain-use-case-to-win-from-15000-usdt)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-vh034ew.png)
 Share an underrated blockchain use case for a chance to win from a 15,000 USDT prize pool in the Spacecoin Writing Contest. Submit by April 7, 2025 to enter!
 
-### [43. The Growth Marketing Writing Contest: Round 2 Results Announced!](https://hackernoon.com/the-growth-marketing-writing-contest-round-2-results-announced)
-![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-m0930v2.jpeg)
-Growth Marketers, Assemble! The second round results of the  Growth Marketing Writing Contest are here!
-
-### [44. The Linux Writing Contest 2022: Final Results Announced!](https://hackernoon.com/the-linux-writing-contest-2022-final-results-announced)
-![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-qqd3z4s.jpeg)
-The Linux Writing Contest by Linode and HackerNoon has come to an end. It’s time to celebrate the final round winners.
-
-### [45. The Future of Finance Writing Contest 2022: Final Results Announcement!](https://hackernoon.com/the-future-of-finance-writing-contest-2022-final-results-announcement)
+### [43. The Future of Finance Writing Contest 2022: Final Results Announcement!](https://hackernoon.com/the-future-of-finance-writing-contest-2022-final-results-announcement)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-fh93z6n.jpeg)
 Hackers, Assemble! Here we are with the final results announcement of the Future of Finance Writing Contest!
 
-### [46. The Web Development Writing Contest: Round 3 Finalists Announced!](https://hackernoon.com/the-web-development-writing-contest-round-3-finalists-announced)
-![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-ml93xec.jpeg)
-Here we are with the shortlisted finalists from the final round of the Web Development Writing Contest by IONOS and HackerNoon.
+### [44. The Growth Marketing Writing Contest: Round 2 Results Announced!](https://hackernoon.com/the-growth-marketing-writing-contest-round-2-results-announced)
+![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-m0930v2.jpeg)
+Growth Marketers, Assemble! The second round results of the  Growth Marketing Writing Contest are here!
 
-### [47. The Cybersecurity Writing Contest 2022: Round 5 Results Announced!](https://hackernoon.com/the-cybersecurity-writing-contest-2022-round-5-results-announced)
+### [45. The Linux Writing Contest 2022: Final Results Announced!](https://hackernoon.com/the-linux-writing-contest-2022-final-results-announced)
+![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-qqd3z4s.jpeg)
+The Linux Writing Contest by Linode and HackerNoon has come to an end. It’s time to celebrate the final round winners.
+
+### [46. The Cybersecurity Writing Contest 2022: Round 5 Results Announced!](https://hackernoon.com/the-cybersecurity-writing-contest-2022-round-5-results-announced)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-wf93q3d.jpeg)
 Hackers, Assemble! Here we are with the fifth round’s results announcement of the Cybersecurity Writing Contest by Twingate & HackerNoon!
+
+### [47. The Web Development Writing Contest: Round 3 Finalists Announced!](https://hackernoon.com/the-web-development-writing-contest-round-3-finalists-announced)
+![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-ml93xec.jpeg)
+Here we are with the shortlisted finalists from the final round of the Web Development Writing Contest by IONOS and HackerNoon.
 
 ### [48. The Future of Finance Writing Contest 2022: Round 1 Results Announced!](https://hackernoon.com/the-future-of-finance-writing-contest-2022-round-1-results-announced)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-yzo3z70.jpeg)
@@ -237,25 +239,25 @@ HackerNoon brings you Writing Contest Lite: Galvanize content curation on your k
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-bgb3wwy.png)
 The results of round 3 of the #MobileDebugging Writing Contest by Sentry and HackerNoon are here!
 
-### [59. Meet Spacecoin: HackerNoon Company of the Week](https://hackernoon.com/meet-spacecoin-hackernoon-company-of-the-week)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-h72320j.png)
-Meet Spacecoin, the first Decentralized Physical Infrastructure Network (DePIN) project to harness blockchain and Low Earth Orbit (LEO) communication satellites
+### [59. #Debugging Writing Contest 2022: Round 2 Results Announced](https://hackernoon.com/debugging-writing-contest-2022-round-2-results-announced)
+![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-mfd3zm8.jpeg)
+The wait is over. The Round 2 results for Debugging Writing Contest held with Sentry are here!!
 
 ### [60. The #MobileDebugging Writing Contest: Round 4 Results Announced!](https://hackernoon.com/the-mobiledebugging-writing-contest-round-4-results-announced)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-q193pq0.png)
 Welcome to the round 4 winners announcement for the Mobile Debugging Writing Contest by Sentry! 
 
-### [61. #Debugging Writing Contest 2022: Round 2 Results Announced](https://hackernoon.com/debugging-writing-contest-2022-round-2-results-announced)
-![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-mfd3zm8.jpeg)
-The wait is over. The Round 2 results for Debugging Writing Contest held with Sentry are here!!
-
-### [62. #blockchain-API Writing Contest Deadline Extended: Check Out dRPC’s Tips for Writing a Strong Entry ](https://hackernoon.com/blockchain-api-writing-contest-deadline-extended-check-out-drpcs-tips-for-writing-a-strong-entry)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-rr031dm.png)
-Explore dRPC's insights on blockchainAPIs and Web3. Take advantage of the extended deadline of the #blockchain-api contest. Submit by Sep 27 for $1000 in prizes
-
-### [63. The Growth Marketing Writing Contest: Round 6 Results Announced!](https://hackernoon.com/the-growth-marketing-writing-contest-round-6-results-announced)
+### [61. The Growth Marketing Writing Contest: Round 6 Results Announced!](https://hackernoon.com/the-growth-marketing-writing-contest-round-6-results-announced)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-p99305v.jpeg)
 The final results announcement of the Growth Marketing Writing Contest by HackerNoon and mParticle is here!
+
+### [62. Meet Spacecoin: HackerNoon Company of the Week](https://hackernoon.com/meet-spacecoin-hackernoon-company-of-the-week)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-h72320j.png)
+Meet Spacecoin, the first Decentralized Physical Infrastructure Network (DePIN) project to harness blockchain and Low Earth Orbit (LEO) communication satellites
+
+### [63. #blockchain-API Writing Contest Deadline Extended: Check Out dRPC’s Tips for Writing a Strong Entry ](https://hackernoon.com/blockchain-api-writing-contest-deadline-extended-check-out-drpcs-tips-for-writing-a-strong-entry)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-rr031dm.png)
+Explore dRPC's insights on blockchainAPIs and Web3. Take advantage of the extended deadline of the #blockchain-api contest. Submit by Sep 27 for $1000 in prizes
 
 ### [64. Write About Spacecoin's Mission to Decentralize the Internet and Win From 15,000 USDT](https://hackernoon.com/write-about-spacecoins-mission-to-decentralize-the-internet-and-win-from-a-15000-usdt-prize-pool)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-9m033lx.png)
@@ -273,13 +275,13 @@ Imagine a world where you have complete control over the information your algori
 ![](https://cdn.hackernoon.com/images/MHkQf7uHaKe7zkk0VYcmXUBqfEg1-q2a3p7l.jpeg)
 Start your product-led journey and fuel growth strategy by connecting product management and marketing teams.
 
-### [68. Calling All Writers: Learn What The Decentralize-AI Writing Contest Is All About From The ICP Team](https://hackernoon.com/calling-all-writers-learn-what-the-decentralize-ai-writing-contest-is-all-about-from-the-icp-team)
-![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-d5833gt.png)
-In this AMA with Jessie Mongeon from ICP US HUB, we discuss the Decentralize-AI Writing Contest and got some tips for our contestants.
-
-### [69. Write About the Best Purpose-Driven Blockchain You Know to Win from 15,000 USDT](https://hackernoon.com/write-about-the-best-purpose-driven-blockchain-you-know-to-win-from-15000-usdt)
+### [68. Write About the Best Purpose-Driven Blockchain You Know to Win from 15,000 USDT](https://hackernoon.com/write-about-the-best-purpose-driven-blockchain-you-know-to-win-from-15000-usdt)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-0w0371g.png)
 Highlight a blockchain project built with purpose. Share how it delivers real impact for a chance to win from 15,000 USDT in the Spacecoin Writing Contest.
+
+### [69. Calling All Writers: Learn What The Decentralize-AI Writing Contest Is All About From The ICP Team](https://hackernoon.com/calling-all-writers-learn-what-the-decentralize-ai-writing-contest-is-all-about-from-the-icp-team)
+![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-d5833gt.png)
+In this AMA with Jessie Mongeon from ICP US HUB, we discuss the Decentralize-AI Writing Contest and got some tips for our contestants.
 
 ### [70. Scary-good Writing Tips: Learn How to Write a Listicle](https://hackernoon.com/scary-good-writing-tips-learn-how-to-write-a-listicle)
 ![](https://cdn.hackernoon.com/images/XuKNPOceOhhkL8aZ84LeWDAxdWH2-2oc3x70.gif.webp)
@@ -289,17 +291,17 @@ In honor of spooky season, we want to share tricks & tips for writing scary good
 ![](https://cdn.hackernoon.com/images/distopyan-city-with-green-background-clin7p0od000001s620d46mhg.png)
 Big Tech's recent actions blur the line between science fiction and reality. On a brighter note, HackerNoon is offering a chance to win a share of the $3000!!! 
 
-### [72. 8 Counterintuitive Tips for Crushing Your AI for Digital Marketing Goals](https://hackernoon.com/8-counterintuitive-tips-for-crushing-your-ai-for-digital-marketing-goals)
+### [72. Turns Out, a Little Competition Goes a Long Way—Especially When it Comes to Content](https://hackernoon.com/turns-out-a-little-competition-goes-a-long-wayespecially-when-it-comes-to-content)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-5z738lv.png)
+HackerNoon Writing Contests drive revenue and engagement—sponsors get brand exposure and quality content, the community gets to compete and create.
+
+### [73. 8 Counterintuitive Tips for Crushing Your AI for Digital Marketing Goals](https://hackernoon.com/8-counterintuitive-tips-for-crushing-your-ai-for-digital-marketing-goals)
 ![](https://cdn.hackernoon.com/images/iUlo2EZALBMiZlCH9AW2iq6D8423-naa3pt0.jpeg)
 With so much to learn and so many ways to go wrong, it can seem impossible to be successful with AI. But there are ways to get the most out of your investment.
 
-### [73. Calling All Writers: Learn What The Bitcoin Writing Contest Is All About From The Rootstock Team](https://hackernoon.com/calling-all-writers-learn-what-the-bitcoin-writing-contest-is-all-about-from-the-rootstock-team)
+### [74. Calling All Writers: Learn What The Bitcoin Writing Contest Is All About From The Rootstock Team](https://hackernoon.com/calling-all-writers-learn-what-the-bitcoin-writing-contest-is-all-about-from-the-rootstock-team)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-1v833oe.jpeg)
 In this AMA with Olia Dukova and Marco Dinis Santos from Rootstock, we discuss the Bitcoin Writing Contest and get some tips for our contestants.
-
-### [74. Turns Out, a Little Competition Goes a Long Way—Especially When it Comes to Content](https://hackernoon.com/turns-out-a-little-competition-goes-a-long-wayespecially-when-it-comes-to-content)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-5z738lv.png)
-HackerNoon Writing Contests drive revenue and engagement—sponsors get brand exposure and quality content, the community gets to compete and create.
 
 ### [75. The Cybersecurity Writing Contest 2022: Round 1 Results Announced!](https://hackernoon.com/the-cybersecurity-writing-contest-2022-round-1-results-announced)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-pje3z96.jpeg)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [digital-health](https://hackernoon.com/tagged/digital-health)
+### Let's learn about [Digital Health](https://hackernoon.com/tagged/digital-health) via these 64 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Digital health refers to the use of technology to improve health and wellness, revolutionizing patient care, medical accessibility, and public health initiatives. It is crucial for modernizing healthcare delivery and making it more efficient and personalized.
+
 ### [1. Navigating Big Data's Potential and Privacy in Modern Medicine](https://hackernoon.com/navigating-big-datas-potential-and-privacy-in-modern-medicine)
 ![](https://cdn.hackernoon.com/images/a-golden-compass-ccbjjrnsr64i09s76cxgk0mh.png)
 How can we harness big data to advance healthcare while protecting sensitive patient information? This article explores and answers that question.
@@ -41,13 +45,13 @@ The use of technology has become an integral part of modern life. While it can h
 ![](https://cdn.hackernoon.com/images/pIGapHGH9NNT6tb7uPaRnsVFH123-mj1j31sc.jpeg)
 Biological nanomachines are nano-sized tools used for the monitoring, diagnostic, and treatment of disease at the molecular scale. 
 
-### [11. 7 Healthcare Technology Trends to Watch Out for in 2022](https://hackernoon.com/7-healthcare-technology-trends-to-watch-out-for-in-2022)
-![](https://cdn.hackernoon.com/images/ugaobWewtYPAVT6RQtec1aj5rRc2-kq137sy.jpeg)
-Explore the latest technology trends that will shape the healthcare industry in 2022 and beyond.
-
-### [12. 10 Emerging Technology Trends in Healthcare for 2023 and Beyond](https://hackernoon.com/10-emerging-technology-trends-in-healthcare-for-2023-and-beyond)
+### [11. 10 Emerging Technology Trends in Healthcare for 2023 and Beyond](https://hackernoon.com/10-emerging-technology-trends-in-healthcare-for-2023-and-beyond)
 ![](https://cdn.hackernoon.com/images/jpeb1HS3qxWLLOzVFlvfYkWYPiw1-9g93pt5.jpeg)
 Want to know what healthcare technology trends will emerge in 2023 and beyond? Read on for the trends that healthcare providers and organizations will look for.
+
+### [12. 7 Healthcare Technology Trends to Watch Out for in 2022](https://hackernoon.com/7-healthcare-technology-trends-to-watch-out-for-in-2022)
+![](https://cdn.hackernoon.com/images/ugaobWewtYPAVT6RQtec1aj5rRc2-kq137sy.jpeg)
+Explore the latest technology trends that will shape the healthcare industry in 2022 and beyond.
 
 ### [13. An Intro to MedPaLM: ChatGPT's Healthcare-Focused "Cousin" ](https://hackernoon.com/an-intro-to-medpalm-chatgpts-healthcare-focused-cousin)
 ![](https://cdn.hackernoon.com/images/GPWtDVRw0oWCLyyZB3TTzZ7tkpD3-5u93pxl.png)
@@ -57,13 +61,13 @@ ChatGPT for healthcare? Learn everything you need to know about MedPaLM, a new L
 ![](https://cdn.hackernoon.com/images/079Wz6S2KhQJ0URsuKI8VSU3TBS2-pba3oho.jpeg)
 Discover some of the top healthcare software development companies to work with and understand the crucial factors to consider when choosing the right one. 
 
-### [15. Transformative Healthtech Ideas That Can Solve Healthcare Crisis ](https://hackernoon.com/transformative-healthtech-ideas-that-can-solve-healthcare-crisis)
-![](https://cdn.hackernoon.com/images/63DJgDLQAJfSC5MDDFvFFsjuRK62-ym93pxm.jpeg)
-The year 2021 was a banner year for digital health with around $57 billion invested into the sector. Telemedicine and mental health were among the verticals that received the most investment dollars. It was also the year when value-based healthcare became evidently complemented by technology, a tendency being accelerated by the pandemic.
-
-### [16. Have You Heard? AI Can Edit Genes Now](https://hackernoon.com/have-you-heard-ai-can-edit-genes-now)
+### [15. Have You Heard? AI Can Edit Genes Now](https://hackernoon.com/have-you-heard-ai-can-edit-genes-now)
 ![](https://cdn.hackernoon.com/images/63DJgDLQAJfSC5MDDFvFFsjuRK62-xuf3lsd.jpeg)
 Artificial intelligence and healthcare have long been friends. That friendship has grown to include even gene-editing thanks to AI helping with CRISPR errors.
+
+### [16. Transformative Healthtech Ideas That Can Solve Healthcare Crisis ](https://hackernoon.com/transformative-healthtech-ideas-that-can-solve-healthcare-crisis)
+![](https://cdn.hackernoon.com/images/63DJgDLQAJfSC5MDDFvFFsjuRK62-ym93pxm.jpeg)
+The year 2021 was a banner year for digital health with around $57 billion invested into the sector. Telemedicine and mental health were among the verticals that received the most investment dollars. It was also the year when value-based healthcare became evidently complemented by technology, a tendency being accelerated by the pandemic.
 
 ### [17. Blockchain Technology Improves Data Authentication and Transparency in Healthcare](https://hackernoon.com/blockchain-technology-improves-data-authentication-and-transparency-in-healthcare)
 ![](https://cdn.hackernoon.com/images/l0gewdfjijZd0STFMn9DxYq6dfC2-ge02fyx.jpeg)
@@ -109,25 +113,25 @@ Digital advances are here to aid the Oil and Gas companies in transcending the l
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-jw1t358m.jpeg)
 A look at how telemedicine and telehealth are the future of healthcare. 
 
-### [28. Eye Strain Headaches: What To Do When Your Eyes and Your Head Hurt](https://hackernoon.com/eye-strain-headaches-what-to-do-when-your-eyes-and-your-head-hurt-bpbf35vg)
-![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-l2a935j5.jpeg)
-Do you suffer from headaches with pain behind and around your eyes? That's called an eyestrain headache; you can find out how to prevent them in this article.
-
-### [29. How Social Influence on Leaderboards Fuels-or Hinders-Fitness Motivation](https://hackernoon.com/how-social-influence-on-leaderboards-fuels-or-hinders-fitness-motivation)
+### [28. How Social Influence on Leaderboards Fuels-or Hinders-Fitness Motivation](https://hackernoon.com/how-social-influence-on-leaderboards-fuels-or-hinders-fitness-motivation)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-mu030z7.jpeg)
 Leaderboards boost motivation through social influence, foster accountability, and shift exercise reference points, sometimes increasing or reducing activities.
 
-### [30. The Rapid Acceleration of Digital Health [infographic]](https://hackernoon.com/the-rapid-acceleration-of-digital-health-infographic-6m2x229g)
-![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-z0933ma.jpeg)
-The embracement of technology is a two-sided process and doctors need patient support in order to completely change.
-
-### [31. Gamified Surveys and Cognitive Load Detection in mHealth: Conclusion, Acknowledgment, and References](https://hackernoon.com/gamified-surveys-and-cognitive-load-detection-in-mhealth-conclusion-acknowledgment-and-references)
+### [29. Gamified Surveys and Cognitive Load Detection in mHealth: Conclusion, Acknowledgment, and References](https://hackernoon.com/gamified-surveys-and-cognitive-load-detection-in-mhealth-conclusion-acknowledgment-and-references)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-9p02pfs.webp)
 This study explores gamified mHealth surveys and machine learning-based cognitive load detection, aiming to improve patient engagement and survey completion.
 
-### [32. How AI-Powered Wearables Are Changing Modern Healthcare](https://hackernoon.com/how-ai-powered-wearables-are-changing-modern-healthcare)
+### [30. Eye Strain Headaches: What To Do When Your Eyes and Your Head Hurt](https://hackernoon.com/eye-strain-headaches-what-to-do-when-your-eyes-and-your-head-hurt-bpbf35vg)
+![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-l2a935j5.jpeg)
+Do you suffer from headaches with pain behind and around your eyes? That's called an eyestrain headache; you can find out how to prevent them in this article.
+
+### [31. How AI-Powered Wearables Are Changing Modern Healthcare](https://hackernoon.com/how-ai-powered-wearables-are-changing-modern-healthcare)
 ![](https://cdn.hackernoon.com/images/r3gYx3x0McWsE40yvk4ZOqAwKU93-7p0394h.png)
 AI-powered wearables are changing healthcare—detecting illness early, monitoring mental health, and shifting diagnosis from clinics to your wrist.
+
+### [32. The Rapid Acceleration of Digital Health [infographic]](https://hackernoon.com/the-rapid-acceleration-of-digital-health-infographic-6m2x229g)
+![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-z0933ma.jpeg)
+The embracement of technology is a two-sided process and doctors need patient support in order to completely change.
 
 ### [33. Discussing The Applications of AI Chatbots in Healthcare at the World Economic Forum](https://hackernoon.com/why-the-world-economic-forum-wants-ai-chatbots-in-healthcare-kg5h3uxl)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7oCE53LyUmbFajIrfCAiJwiRIP23-d85l3u99.png?alt=media&token=03b7db7e-59fe-44f9-8c49-965f5f351db3)
@@ -145,17 +149,17 @@ Read this article to learn more about AI potential in the healthcare industry.
 ![](https://cdn.hackernoon.com/images/cPo9MrVZm5O0aHz2gKvPg31Y4E22-6u01cke.jpeg)
 Social media algorithms often show material that makes us anxious, angry, or sad because it keeps us engaged and clicking - this is known as doomsurfing.
 
-### [37. What Do You Know About IoMT -  Internet of Medical Things: A Slogging Thread](https://hackernoon.com/what-do-you-know-about-iomt-internet-of-medical-things-a-slogging-thread-9t4h332k)
+### [37. The Power of Prior Activity and Group Size in Digital Health Leaderboards](https://hackernoon.com/the-power-of-prior-activity-and-group-size-in-digital-health-leaderboards)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-9n031yx.jpeg)
+Leaderboard size and users’ prior activity shape how competition and social influence affect fitness, with impacts differing for active and less active users.
+
+### [38. What Do You Know About IoMT -  Internet of Medical Things: A Slogging Thread](https://hackernoon.com/what-do-you-know-about-iomt-internet-of-medical-things-a-slogging-thread-9t4h332k)
 ![](https://cdn.hackernoon.com/images/9HUB5XcnrzboujIZVfzkLT9PHqI3-z7u33df.jpeg)
 This Slack discussion by Sadia Mehmood, BitcoinPetar, Rianke Krugel, anthony watson and Utsav Jaiswal occurred in slogging's official #introductions channel, and has been edited for readability.
 
-### [38. How Digital Health Platforms Should Secure Patient Data Now the CURES Act is Live](https://hackernoon.com/how-digital-health-platforms-should-secure-patient-data-now-the-cures-act-is-live)
+### [39. How Digital Health Platforms Should Secure Patient Data Now the CURES Act is Live](https://hackernoon.com/how-digital-health-platforms-should-secure-patient-data-now-the-cures-act-is-live)
 ![](https://cdn.hackernoon.com/images/YwwEktrlhMb4MTielGbSG69Kxgm1-qp6r357c.jpeg)
 Now that Americans theoretically have instant access to their medical records, digital health platforms must ensure they secure this data.
-
-### [39. The Power of Prior Activity and Group Size in Digital Health Leaderboards](https://hackernoon.com/the-power-of-prior-activity-and-group-size-in-digital-health-leaderboards)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-9n031yx.jpeg)
-Leaderboard size and users’ prior activity shape how competition and social influence affect fitness, with impacts differing for active and less active users.
 
 ### [40. Scripps Health's System Continuously Plagues After The Weekend Cyberattack](https://hackernoon.com/scripps-healths-system-continuously-plagues-after-the-weekend-cyberattack-1r1z3517)
 ![](https://cdn.hackernoon.com/images/BBI4uafnQ4OCFmXy2jVhnPiddJB2-ao2534ee.jpeg)
@@ -177,25 +181,25 @@ Does your eyes get dry or watery while staring at a screen? Or do you experience
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3g02sij.jpeg)
 We can expect to see exciting futuristic consumer technologies such as smart fabrics that, hopefully, will improve our lives.
 
-### [45. IIoT in the Healthcare Industry Can Free Up Hospital Beds](https://hackernoon.com/iiot-in-the-healthcare-industry-can-free-up-hospital-beds-2n57334z)
-![](https://cdn.hackernoon.com/images/8UPqRftsM0P1hwOU7JepqhoubeC2-6j2533wt.jpeg)
-The applications of IIoT in healthcare can be much more than smart sensors and smart hospitals. IIoT can help healthcare institutions in providing personalized.
+### [45. Gamified Surveys and Cognitive Load Detection in mHealth: Limitations](https://hackernoon.com/gamified-surveys-and-cognitive-load-detection-in-mhealth-limitations)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6f02phb.webp)
+This study explores gamified mHealth surveys and machine learning-based cognitive load detection, aiming to improve patient engagement and survey completion.
 
-### [46. AI, Blockchain, and Healthcare: The Three Musketeers](https://hackernoon.com/ai-blockchain-and-healthcare-the-three-musketeers)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-bn13o5v.jpeg)
-Combining AI, Blockchain, with Healthcare may help solve some of the most challenging problems in the health sector today.
-
-### [47. Healthcare Marketing Tips in 2021](https://hackernoon.com/healthcare-marketing-tips-in-2021-ms9355q)
+### [46. Healthcare Marketing Tips in 2021](https://hackernoon.com/healthcare-marketing-tips-in-2021-ms9355q)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-0s34357u.jpeg)
 We recommend tools, approaches, and methodologies to build a competitive marketing strategy to make people fall in love with your digital health solution.
 
-### [48. Can Digital Therapeutics Help in Times of Coronavirus Crisis?](https://hackernoon.com/can-digital-therapeutics-help-in-times-of-coronavirus-crisis-yi1t32o5)
+### [47. IIoT in the Healthcare Industry Can Free Up Hospital Beds](https://hackernoon.com/iiot-in-the-healthcare-industry-can-free-up-hospital-beds-2n57334z)
+![](https://cdn.hackernoon.com/images/8UPqRftsM0P1hwOU7JepqhoubeC2-6j2533wt.jpeg)
+The applications of IIoT in healthcare can be much more than smart sensors and smart hospitals. IIoT can help healthcare institutions in providing personalized.
+
+### [48. AI, Blockchain, and Healthcare: The Three Musketeers](https://hackernoon.com/ai-blockchain-and-healthcare-the-three-musketeers)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-bn13o5v.jpeg)
+Combining AI, Blockchain, with Healthcare may help solve some of the most challenging problems in the health sector today.
+
+### [49. Can Digital Therapeutics Help in Times of Coronavirus Crisis?](https://hackernoon.com/can-digital-therapeutics-help-in-times-of-coronavirus-crisis-yi1t32o5)
 ![](https://cdn.hackernoon.com/images/vs713yfi.jpg)
 Medicine is taking a turn from physical to digital - by 2025, the digital therapeutics market is projected to hit $7.8 billion. The uses of digital therapeutics range wildly from alleviating symptoms of physiological and neurobehavioral symptoms to therapeutic interventions driven by software and tech to therapies to improve outcomes when combined with regular treatments. They also offer new options to those who have otherwise unmet needs, and can help reduce reliance on medication. Digital therapeutics can also be used in the treatment of diabetes, obesity, cardiovascular, central nervous, respiratory, and gastrointestinal problems. 
-
-### [49. Gamified Surveys and Cognitive Load Detection in mHealth: Limitations](https://hackernoon.com/gamified-surveys-and-cognitive-load-detection-in-mhealth-limitations)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6f02phb.webp)
-This study explores gamified mHealth surveys and machine learning-based cognitive load detection, aiming to improve patient engagement and survey completion.
 
 ### [50. 7 Tips for Evaluating Healthtech Software Development Companies](https://hackernoon.com/7-tips-for-evaluating-healthtech-software-development-companies-w438334v)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-0o2r33pc.jpeg)
@@ -209,41 +213,41 @@ In this article, we’ll be diving deeper into the Relevance and Risk of Smartp
 ![](https://cdn.hackernoon.com/images/27nO2zKZviNKrKF87tszw9vZO5D2-zja3vit.jpeg)
 As the digital health wagon moves on, patients are starting to take the lead thanks to health wearables, better communication with doctors and new technology.
 
-### [53. A Brief Intro to 8 Ways AI Could Improve Patient Care](https://hackernoon.com/a-brief-intro-to-8-ways-ai-could-improve-patient-care)
-![](https://cdn.hackernoon.com/images/HCvLoxm6d5QlXDMDXErYVzI43hQ2-dua3j1u.jpeg)
-How much data does a hospital produce each day? How much information are they capable of storing, analyzing, and sharing with physicians and patients? 
-
-### [54. How Telemedicine Serves Nursing Home Needs [Infographic]](https://hackernoon.com/how-telemedicine-hacked-nursing-home-needs-infographic-ao1335pe)
-![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-jo935mx.jpeg)
-Telehealth has made the quality of care better for nursing home residents.  Learn more about how the digital health transformation is changing the game.
-
-### [55. Outdated to Upgraded: Debugging Digital Transformation for Turbocharged Business Expansion](https://hackernoon.com/outdated-to-upgraded-debugging-digital-transformation-for-turbocharged-business-expansion)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7p92g6i.jpeg)
-Unlock the power of digital transformation to propel your business forward. Discover how to leave outdated practices behind and embrace modern strategies.
-
-### [56. How an Improved Working Relationship Between Employer and Employee Could be the Key to Cybersecurity](https://hackernoon.com/how-an-improved-working-relationship-between-employer-and-employee-could-be-the-key-to-cybersecurity-uh4v3w42)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-y73z3w6h.jpeg?alt=media&token=a5206311-851a-4654-970d-0a25094b3ced)
-In a lot of organizations, the focus on cybersecurity has always been on building secure infrastructure and while the idea good in theory, it may not necessarily keep all your data safe. You need to consider the impact of a good working relationship and the understanding of how people think.
-
-### [57. Gamified Surveys and Cognitive Load Detection in mHealth: Results and Discussion](https://hackernoon.com/gamified-surveys-and-cognitive-load-detection-in-mhealth-results-and-discussion)
+### [53. Gamified Surveys and Cognitive Load Detection in mHealth: Results and Discussion](https://hackernoon.com/gamified-surveys-and-cognitive-load-detection-in-mhealth-results-and-discussion)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ik02pp6.webp)
 This study explores gamified mHealth surveys and machine learning-based cognitive load detection, aiming to improve patient engagement and survey completion.
 
-### [58. A Guide to HIPAA Compliance in 2021 & Its Benefits](https://hackernoon.com/a-guide-to-hipaa-compliance-in-2021-and-its-benefits)
-![](https://cdn.hackernoon.com/images/R8aLhmiN8rUgojf5QE8E0wAqhU73-o35g354j.jpeg)
-Following HIPAA laws provides a higher level of safety for your corporation and its leaders. 
+### [54. Outdated to Upgraded: Debugging Digital Transformation for Turbocharged Business Expansion](https://hackernoon.com/outdated-to-upgraded-debugging-digital-transformation-for-turbocharged-business-expansion)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7p92g6i.jpeg)
+Unlock the power of digital transformation to propel your business forward. Discover how to leave outdated practices behind and embrace modern strategies.
 
-### [59. Gamified Surveys and Cognitive Load Detection in mHealth: Abstract and Introduction](https://hackernoon.com/gamified-surveys-and-cognitive-load-detection-in-mhealth-abstract-and-introduction)
+### [55. A Brief Intro to 8 Ways AI Could Improve Patient Care](https://hackernoon.com/a-brief-intro-to-8-ways-ai-could-improve-patient-care)
+![](https://cdn.hackernoon.com/images/HCvLoxm6d5QlXDMDXErYVzI43hQ2-dua3j1u.jpeg)
+How much data does a hospital produce each day? How much information are they capable of storing, analyzing, and sharing with physicians and patients? 
+
+### [56. How Telemedicine Serves Nursing Home Needs [Infographic]](https://hackernoon.com/how-telemedicine-hacked-nursing-home-needs-infographic-ao1335pe)
+![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-jo935mx.jpeg)
+Telehealth has made the quality of care better for nursing home residents.  Learn more about how the digital health transformation is changing the game.
+
+### [57. Gamified Surveys and Cognitive Load Detection in mHealth: Abstract and Introduction](https://hackernoon.com/gamified-surveys-and-cognitive-load-detection-in-mhealth-abstract-and-introduction)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-re22p4o.webp)
 This study explores gamified mHealth surveys and machine learning-based cognitive load detection, aiming to improve patient engagement and survey completion.
 
-### [60. New Book Release For Self-Assessing Your Digital Habits](https://hackernoon.com/new-book-release-for-self-assessing-your-digital-habits-d3173uji)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0zwaFlsHFIhWQXe7ovKEJhrk5WD3-hq123udh.webp?alt=media&token=7b27a7f1-e502-40f8-8e19-3954d0d72ab5)
-Raising awareness around digital health as the world moves back to life beyond the screen
+### [58. How an Improved Working Relationship Between Employer and Employee Could be the Key to Cybersecurity](https://hackernoon.com/how-an-improved-working-relationship-between-employer-and-employee-could-be-the-key-to-cybersecurity-uh4v3w42)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-y73z3w6h.jpeg?alt=media&token=a5206311-851a-4654-970d-0a25094b3ced)
+In a lot of organizations, the focus on cybersecurity has always been on building secure infrastructure and while the idea good in theory, it may not necessarily keep all your data safe. You need to consider the impact of a good working relationship and the understanding of how people think.
 
-### [61. "I don't want anyone to go through what I went through" - with I-Ally Founder Lucinda Koza](https://hackernoon.com/i-dont-want-anyone-to-go-through-what-i-went-through-with-i-ally-founder-lucinda-koza)
+### [59. A Guide to HIPAA Compliance in 2021 & Its Benefits](https://hackernoon.com/a-guide-to-hipaa-compliance-in-2021-and-its-benefits)
+![](https://cdn.hackernoon.com/images/R8aLhmiN8rUgojf5QE8E0wAqhU73-o35g354j.jpeg)
+Following HIPAA laws provides a higher level of safety for your corporation and its leaders. 
+
+### [60. "I don't want anyone to go through what I went through" - with I-Ally Founder Lucinda Koza](https://hackernoon.com/i-dont-want-anyone-to-go-through-what-i-went-through-with-i-ally-founder-lucinda-koza)
 ![](https://cdn.hackernoon.com/images/nLX1qPiMuBYsuH5URRmkTnNrFpA3-6s036ez.jpeg)
 Interview with I-Ally Founder Lucinda Koza where reveals she wants to save millennial family caregivers from a broken system
+
+### [61. New Book Release For Self-Assessing Your Digital Habits](https://hackernoon.com/new-book-release-for-self-assessing-your-digital-habits-d3173uji)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0zwaFlsHFIhWQXe7ovKEJhrk5WD3-hq123udh.webp?alt=media&token=7b27a7f1-e502-40f8-8e19-3954d0d72ab5)
+Raising awareness around digital health as the world moves back to life beyond the screen
 
 ### [62. Gamified Surveys and Cognitive Load Detection in mHealth: Methods](https://hackernoon.com/gamified-surveys-and-cognitive-load-detection-in-mhealth-methods)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-7q02p3m.webp)

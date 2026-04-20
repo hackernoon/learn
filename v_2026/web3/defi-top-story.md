@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [defi-top-story](https://hackernoon.com/tagged/defi-top-story)
+### Let's learn about [Defi Top Story](https://hackernoon.com/tagged/defi-top-story) via these 191 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A DeFi top story highlights significant news or developments in Decentralized Finance, a rapidly growing blockchain-based financial ecosystem. These stories cover innovations, market trends, and regulatory discussions that impact the future of open and permissionless financial services.
+
 ### [1. USDT vs USDC: Which Can Earn You A Better ROI?](https://hackernoon.com/usdt-vs-usdc-which-can-earn-you-a-better-roi-cm7z3z5g)
 ![](https://cdn.hackernoon.com/drafts/vk1u3wax.png)
 Do you remember when stablecoins were still just for hedging risks? In the crypto industry, just about anything can become a source of profit – including stablecoins. But which of the USD-pegged coins should you buy to maximize your earnings?
@@ -231,29 +235,29 @@ Running on the AMM model, liquidity pools have proved to be a secure and efficie
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FyZ5bGLBH3QdwmkcDn6GbYphig3S2-qc363zp3.jpeg?alt=media&token=185b6500-e7cb-4dae-b41a-9e67785aae2f)
 DeFi has been making a lot of noise recently, but it’s perhaps more established than most people think. 
 
-### [58. Trader Joe’s Case Analysis: Why Multi-Auditing of DeFi Projects is Important](https://hackernoon.com/trader-joes-case-analysis-why-multi-auditing-of-defi-projects-is-important-hw3f370a)
+### [58. Fixed DeFi: Crossing the Growth Hurdle](https://hackernoon.com/fixed-defi-crossing-the-growth-hurdle)
+![](https://cdn.hackernoon.com/images/l2eAYc6mZ4MZ1oc7JNZ3j2rWfTH2-lu93sun.jpeg)
+How to make fixed rates available across every corner of DeFi
+
+### [59. Trader Joe’s Case Analysis: Why Multi-Auditing of DeFi Projects is Important](https://hackernoon.com/trader-joes-case-analysis-why-multi-auditing-of-defi-projects-is-important-hw3f370a)
 ![](https://cdn.hackernoon.com/images/MLnsq7NpDgZ26ehHQCC8eKDXc3F2-d81338hp.jpeg)
 Blockchain technology and smart contracts are significant innovations with huge potential, but, the technology is only as secure as the code written for it. 
 
-### [59. Is It Time To Overhaul The DeFi Ecosystem Already?](https://hackernoon.com/is-it-time-to-overhaul-the-defi-ecosystem-already-c12o32z0)
+### [60. Is It Time To Overhaul The DeFi Ecosystem Already?](https://hackernoon.com/is-it-time-to-overhaul-the-defi-ecosystem-already-c12o32z0)
 ![](https://cdn.hackernoon.com/images/HEHDqKbgItNYwCer8smofHHDbrP2-y2j32xh.jpeg)
 The trend in 2020 is unmistakable: the decentralized finance movement, by far the most impactful trend and continues to grow. 
-
-### [60. Fixed DeFi: Crossing the Growth Hurdle](https://hackernoon.com/fixed-defi-crossing-the-growth-hurdle)
-![](https://cdn.hackernoon.com/images/l2eAYc6mZ4MZ1oc7JNZ3j2rWfTH2-lu93sun.jpeg)
-How to make fixed rates available across every corner of DeFi
 
 ### [61. DeFi Adoption: How Far Are We from It and What Problems Need Solving?](https://hackernoon.com/defi-adoption-how-far-are-we-from-it-and-what-problems-need-solving)
 ![](https://cdn.hackernoon.com/images/LfIWgEvv7eQxowzxo2fYPBh2gAo1-jrd3p5c.jpeg)
 DeFi is an alternative to the traditional financial system, since it offers many benefits and improvements but to become adopted, it must solve many challenges
 
-### [62. Deeper Joins the Polkadot DeFi Alliance](https://hackernoon.com/deeper-joins-the-polkadot-defi-alliance-abh33i8)
-![](https://cdn.hackernoon.com/images/dfnkKGGdaveDKSte2xzbUj73T6z2-i61w35xz.jpeg)
-Deeper Joins the Polkadot DeFi Alliance
-
-### [63. The Defi Writing Contest: Round 3 Results Announced!](https://hackernoon.com/the-defi-writing-contest-round-3-results-announced)
+### [62. The Defi Writing Contest: Round 3 Results Announced!](https://hackernoon.com/the-defi-writing-contest-round-3-results-announced)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-zf93qhz.jpeg)
 Hackers! We are back with the Round 3 results announcement of one of the BIGGEST writing contests - The DeFi Writing Contest by SORA & HackerNoon. 
+
+### [63. Deeper Joins the Polkadot DeFi Alliance](https://hackernoon.com/deeper-joins-the-polkadot-defi-alliance-abh33i8)
+![](https://cdn.hackernoon.com/images/dfnkKGGdaveDKSte2xzbUj73T6z2-i61w35xz.jpeg)
+Deeper Joins the Polkadot DeFi Alliance
 
 ### [64. Why NFTs Are Overtaking DeFi as the Hottest Blockchain Trend](https://hackernoon.com/why-nfts-are-overtaking-defi-as-the-hottest-blockchain-trend-8kq3z6e)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgbbZc326AXQMcvl1ild19AKLIvx2-zhf3t0h.png?alt=media&token=b1ca660d-237d-4a1d-a9e4-b22911882db3)
@@ -292,13 +296,13 @@ DeFi put blockchain on the map last year, drawing the attention of both regulato
 In this article here, we will examine some of the top trading strategies you can use to make money in the cryptocurrency bear market.
 
 
-### [73. Here's Why The On-Chain Derivatives Market Continues To Propel DeFi](https://hackernoon.com/heres-why-the-on-chain-derivatives-market-continues-to-propel-defi-u23v33ih)
-![](https://cdn.hackernoon.com/images/MpcvA71zYnUAWdju1AQMhvykWFU2-xw1a363w.jpeg)
-the segment reached a milestone of $41 billion – the amount of user funds locked in DeFi almost doubled since January. Such figures are understandable, considering
-
-### [74. Is DeFi the Answer to Southeast Asia’s Financial Woes?](https://hackernoon.com/is-defi-the-answer-to-southeast-asias-financial-woes-nnx34n0)
+### [73. Is DeFi the Answer to Southeast Asia’s Financial Woes?](https://hackernoon.com/is-defi-the-answer-to-southeast-asias-financial-woes-nnx34n0)
 ![](https://cdn.hackernoon.com/images/fbnUVjnl8Hh4qtRO7PCOLjKggfn1-2yg32ii.jpeg)
 At that time, the global population seemed to be hopeful for the quick resolution of the problem – yet, the virus not only doesn’t seem to go away,
+
+### [74. Here's Why The On-Chain Derivatives Market Continues To Propel DeFi](https://hackernoon.com/heres-why-the-on-chain-derivatives-market-continues-to-propel-defi-u23v33ih)
+![](https://cdn.hackernoon.com/images/MpcvA71zYnUAWdju1AQMhvykWFU2-xw1a363w.jpeg)
+the segment reached a milestone of $41 billion – the amount of user funds locked in DeFi almost doubled since January. Such figures are understandable, considering
 
 ### [75. DeFi Promises A Free "Launch" But Everybody Knows That There Are No Free Lunches](https://hackernoon.com/defi-promises-a-free-launch-but-everybody-knows-that-there-are-no-free-lunches-u5313zn2)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrrklQPNbspZjuipgqdjB7er0G6e2-z7k230o.jpeg?alt=media&token=1199940a-4deb-4d27-8588-d77dda5d094b)
@@ -312,17 +316,17 @@ Different statistics in the cryptocurrency industry aren’t always entwined. So
 ![](https://cdn.hackernoon.com/images/EBNEt8ZDkqPFfK65oD0aZyPRqBk1-2qo39io.jpeg)
 Inside the One DeFi Hack With a Happy Ending
 
-### [78. Same Old Villains Get Clobbered By The New Heroes of The Financial Markets - Redditors](https://hackernoon.com/same-old-villains-get-clobbered-by-the-new-heroes-of-the-financial-markets-redditors-8p3s32wf)
-![](https://cdn.hackernoon.com/images/sZgLpNbOPtQFz0sTBASstUpb7kG2-rb3934sr.jpeg)
-They kept buying GameStop shares, and kept buying, and kept buying… and the giant who had bet on the failure of the little guy fell.
+### [78. Meet DeFi. The Changer of Life. ](https://hackernoon.com/meet-defi-the-changer-of-life)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-a893vzd.jpeg)
+These days, if you mention that ‘decentralized finance (DeFi) is revolutionary’ you may get more than a couple of eye-rolls. 
 
 ### [79. Cryptocurrency Regulations: A Ruse Or An Essential To Decentralized Finance?](https://hackernoon.com/cryptocurrency-regulations-a-ruse-or-an-essential-to-decentralized-finance)
 ![](https://cdn.hackernoon.com/images/xC2EA4fmH7drPQTliecLxzRLYl53-n593qoo.jpeg)
 Cryptocurrency regulation is one controversial topic with all the buzz right now. Let's find out what this phenomenon could mean for the ecosystem. 
 
-### [80. Meet DeFi. The Changer of Life. ](https://hackernoon.com/meet-defi-the-changer-of-life)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-a893vzd.jpeg)
-These days, if you mention that ‘decentralized finance (DeFi) is revolutionary’ you may get more than a couple of eye-rolls. 
+### [80. Same Old Villains Get Clobbered By The New Heroes of The Financial Markets - Redditors](https://hackernoon.com/same-old-villains-get-clobbered-by-the-new-heroes-of-the-financial-markets-redditors-8p3s32wf)
+![](https://cdn.hackernoon.com/images/sZgLpNbOPtQFz0sTBASstUpb7kG2-rb3934sr.jpeg)
+They kept buying GameStop shares, and kept buying, and kept buying… and the giant who had bet on the failure of the little guy fell.
 
 ### [81. A Solana Transaction is Almost as Low Impact as a Google Search and Requires Much Less Energy](https://hackernoon.com/a-solana-transaction-is-almost-as-low-impact-as-a-google-search-and-requires-much-less-energy)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-x503a7b.jpeg)
@@ -336,22 +340,22 @@ For much of the world’s population, banking has been a regular part of life fo
 ![](https://cdn.hackernoon.com/images/4tMa4RB9uXN9YkzLoCtb4ZeclZM2-uo037kj.jpeg)
 Two of my friends seemed puzzled this past summer when I would mention how Bullish I was on Avalanche. Back then AVAX was hardly in the limelight, hard to acquire, and sitting around $14.
 
-### [84. WTF is Impermanent Loss in DeFi and How To Avoid It?](https://hackernoon.com/wtf-is-impermanent-loss-in-defi-and-how-to-avoid-it)
-![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-9b03fez.jpeg)
-What exactly is impermanent loss, how does it happen, and most importantly how can you mitigate the risk associated with it?
-
-### [85. The Defi Writing Contest: Round 2 Results Announced!](https://hackernoon.com/the-defi-writing-contest-round-2-results-announced)
+### [84. The Defi Writing Contest: Round 2 Results Announced!](https://hackernoon.com/the-defi-writing-contest-round-2-results-announced)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-l093q3j.jpeg)
 Heyo Hackers! The Round 2 results announcement of The DeFi Writing Contest by SORA & HackerNoon is FINALLY Here!
 
-### [86. 2017 Vs 2020 in crypto:
+### [85. WTF is Impermanent Loss in DeFi and How To Avoid It?](https://hackernoon.com/wtf-is-impermanent-loss-in-defi-and-how-to-avoid-it)
+![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-9b03fez.jpeg)
+What exactly is impermanent loss, how does it happen, and most importantly how can you mitigate the risk associated with it?
+
+### [86. Lucia Protocol Introduces a Visionary Undercollateralized Lending Protocol ](https://hackernoon.com/lucia-protocol-introduces-a-visionary-undercollateralized-lending-protocol)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-5g93s6a.jpeg)
+Lucia is allowing users to have access to credit. It offers DeFi to the mainstream.
+
+### [87. 2017 Vs 2020 in crypto:
 any chance to replicate "success"?](https://hackernoon.com/2017-vs-2020-in-crypto-any-chance-to-replicate-success-ocm3zdo)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0QUQpD0VCsgAaYPa5e24rYsNMx62-af73wgq.jpeg?alt=media&token=981acc21-a848-4b4b-a4b1-4fa97f769f4f)
 It is not a big secret, that a lot of market players are trying to compare the current situation on the crypto market with the phenomenon we saw in 2017. Back then, in October, the BTC price was 2 times lower and ICO made the market super attractive for scammers (so as  DeFi now). Should we really be prepared for a rally starting from now? 
-
-### [87. Lucia Protocol Introduces a Visionary Undercollateralized Lending Protocol ](https://hackernoon.com/lucia-protocol-introduces-a-visionary-undercollateralized-lending-protocol)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-5g93s6a.jpeg)
-Lucia is allowing users to have access to credit. It offers DeFi to the mainstream.
 
 ### [88. Kava Launches Harvest.io - World’s First Cross-chain Money Market ](https://hackernoon.com/kava-launches-harvestio-worlds-first-cross-chain-money-market-zp1q3w7n)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-olz3wnh.jpeg?alt=media&token=ae5cd0b5-45cf-489f-91bd-b5b581d6cb43)
@@ -365,151 +369,151 @@ Meta Hollywood has chosen SOMA Finance as the issuing partner for their upcoming
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkR1wd1i8kvf1QvFzAqati1XYfno1-jq3s3zwv.jpeg?alt=media&token=302cf0fb-7c3c-47d8-953f-5d09524dc911)
 By adding UniSwap liquidity to BSC, JNTR, JNTR/b, and JNTR/e investors are presented with new DeFi options bridging ERC20 and BEP20 pools.
 
-### [91. The Defi Ecosystem: Risk Reduction by Defi Insurance](https://hackernoon.com/the-defi-ecosystem-risk-reduction-by-defi-insurance)
+### [91. Everyone Wants DeFi Yield. Almost Nobody Understands the Machine Making It](https://hackernoon.com/everyone-wants-defi-yield-almost-nobody-understands-the-machine-making-it)
+![](https://cdn.hackernoon.com/images/GoqSaxyXKeMaYVOBSOy5aLbbhFA3-oq83d4a.png)
+A deep dive into where DeFi yield actually comes from, unpacking trading activity, leverage, private credit, and incentives behind today’s crypto interest rate
+
+### [92. The Defi Ecosystem: Risk Reduction by Defi Insurance](https://hackernoon.com/the-defi-ecosystem-risk-reduction-by-defi-insurance)
 ![](https://cdn.hackernoon.com/images/pK7XskpzubX28QBdjalA82ASDky1-06c3r5u.jpeg)
 Everything you need to know about DeFi insurance 
 
-### [92. DeFi Evolution For Finance Liberation: Future Wave Of Finance](https://hackernoon.com/defi-evolution-for-finance-liberation-future-wave-of-finance)
+### [93. DeFi Evolution For Finance Liberation: Future Wave Of Finance](https://hackernoon.com/defi-evolution-for-finance-liberation-future-wave-of-finance)
 ![](https://cdn.hackernoon.com/images/exkCkjfXuIaw6ADgYlKwSzfWG1k1-1w93pnn.jpeg)
 In 2022 may mark a turning point for decentralized finance (DeFi), which enables customers to conduct financial transactions without the use of middlemen.
-
-### [93. A N00b's Guide to Decentralized Finance (DeFi)](https://hackernoon.com/a-n00bs-guide-to-decentralized-finance-defi-sa2a3xsw)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6a5X22MK86Pp4XrXBVZNGMjWIxJ3-g0263umv.png?alt=media&token=ca2410b9-dcd0-48c4-aa64-68035c387456)
-We’re all aware of traditional financial products and services. However, since the emergence of blockchain technology, the concept of Decentralized Finance, aka DeFi, has been on the rise.
 
 ### [94. Web3 and DeFi: Collaborators OR Competitors?](https://hackernoon.com/web3-and-defi-collaborators-or-competitors)
 ![](https://cdn.hackernoon.com/images/euySAj3Lhofxlt6dpicCLpyd4Rr2-e5b3yi0.jpeg)
 Web3 and DeFi are hot and trendy topics these days. What does Web3 actually mean? How do Web3 and DeFi impact each other? What's the best Web3 example?
 
-### [95. Almost 50% of All DAI is Locked in Compound As Collateral And This Could Be Problematic](https://hackernoon.com/almost-50percent-of-all-dai-is-locked-in-compound-as-collateral-and-this-could-be-problematic-lu433xh5)
+### [95. A N00b's Guide to Decentralized Finance (DeFi)](https://hackernoon.com/a-n00bs-guide-to-decentralized-finance-defi-sa2a3xsw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6a5X22MK86Pp4XrXBVZNGMjWIxJ3-g0263umv.png?alt=media&token=ca2410b9-dcd0-48c4-aa64-68035c387456)
+We’re all aware of traditional financial products and services. However, since the emergence of blockchain technology, the concept of Decentralized Finance, aka DeFi, has been on the rise.
+
+### [96. Almost 50% of All DAI is Locked in Compound As Collateral And This Could Be Problematic](https://hackernoon.com/almost-50percent-of-all-dai-is-locked-in-compound-as-collateral-and-this-could-be-problematic-lu433xh5)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSwepmJNMSIMECdXaWIT8wlEJCD93-riy3xyc.gif?alt=media&token=92b249cf-dc17-4b22-8359-b770387b6369)
 Compound is a DeFi lending and borrowing protocol built on Ethereum. Users can use it to borrow certain ERC-20 tokens by depositing another token as collateral. At the same time, they earn interest in supplying liquidity.
 
-### [96. Oracles, P2P Insurance, And DeFi - An Interview with Umbrella Network, Polkacover & Bridge Mutual](https://hackernoon.com/oracles-p2p-insurance-and-defi-an-interview-with-umbrella-network-polkacover-and-bridge-mutual-h5k33sw)
+### [97. Oracles, P2P Insurance, And DeFi - An Interview with Umbrella Network, Polkacover & Bridge Mutual](https://hackernoon.com/oracles-p2p-insurance-and-defi-an-interview-with-umbrella-network-polkacover-and-bridge-mutual-h5k33sw)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-bo5a332m.jpeg)
 Interviewing Umbrella Network, Polkacover, and Bridge Mutual Insurance
 
-### [97. The Projects Working to Lower Ethereum Gas Fees](https://hackernoon.com/ethereum-gas-fees-are-there-any-projects-working-to-optimize-eth-gas-fees)
+### [98. The Projects Working to Lower Ethereum Gas Fees](https://hackernoon.com/ethereum-gas-fees-are-there-any-projects-working-to-optimize-eth-gas-fees)
 ![](https://cdn.hackernoon.com/images/IfUODTXhvnYvbRHkY9YZSyjHTvE3-cd13sdf.jpeg)
 As more investors try their hand at DeFi, gas fees are shooting over the roof, making engaging with decentralized apps uneconomical for most users. 
 
-### [98. Are Multi-chain DeFi Protocols The Way Forward?](https://hackernoon.com/are-multi-chain-de-fi-protocols-the-way-forward)
-![](https://cdn.hackernoon.com/images/dtiTZ34DEOYjRllFy6f7ZVo8gtG2-5u9r35tk.png)
-Are you curious to know if we are going to have a future of multi-chain DeFi protocols? 
-
-### [99. How DeFi Helps Businesses Innovate More Efficiently](https://hackernoon.com/how-defi-helps-businesses-innovate-more-efficiently)
-![](https://cdn.hackernoon.com/images/Eyd11IOsuMUc5xXLd3KU8kjUXhh1-12a3pz3.jpeg)
-DeFi is helping solve some of the biggest challenges that businesses face today. Here's how
-
-### [100. Explaining How DeFi Startups Raise Money to a 5-Year-Old ](https://hackernoon.com/explaining-how-defi-startups-raise-money-to-a-5-year-old)
+### [99. Explaining How DeFi Startups Raise Money to a 5-Year-Old ](https://hackernoon.com/explaining-how-defi-startups-raise-money-to-a-5-year-old)
 ![](https://cdn.hackernoon.com/images/XfkAcRQSKZeCWfyOwsqkFfN3Gxf2-pfk3prq.gif.webp)
  This tale is for laymen that wish to understand how DeFi companies raise money at the initial stage. 
 
-### [101. A Guide to Liquid Staking Tokens](https://hackernoon.com/a-guide-to-liquid-staking-tokens)
-![](https://cdn.hackernoon.com/images/SNkDpvdu7pTt1J6clyL9fJIE0Jo2-dk931d7.jpeg)
-With LSTs users can earn yields on their staked tokens while retaining liquidity. Explore what LSTs are, how they work, and platforms enabling this.
+### [100. Are Multi-chain DeFi Protocols The Way Forward?](https://hackernoon.com/are-multi-chain-de-fi-protocols-the-way-forward)
+![](https://cdn.hackernoon.com/images/dtiTZ34DEOYjRllFy6f7ZVo8gtG2-5u9r35tk.png)
+Are you curious to know if we are going to have a future of multi-chain DeFi protocols? 
 
-### [102. I Started An Open Source Project To Help DeFi Developers and Companies](https://hackernoon.com/i-started-an-open-source-project-to-help-defi-developers-and-companies-7v1y3w2b)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FET4IJJCNUpaSMq1bfuPlxFNpAGy1-ve3d3xgd.png?alt=media&token=2084f005-c4ee-4291-b036-f3d57a2068af)
-Most of the DeFi projects are built on the Ethereum blockchain, so I thought that would be cool to collaborate with the community by giving some tools to make the development easier for everyone. 
+### [101. How DeFi Helps Businesses Innovate More Efficiently](https://hackernoon.com/how-defi-helps-businesses-innovate-more-efficiently)
+![](https://cdn.hackernoon.com/images/Eyd11IOsuMUc5xXLd3KU8kjUXhh1-12a3pz3.jpeg)
+DeFi is helping solve some of the biggest challenges that businesses face today. Here's how
 
-### [103. 184 Stories To Learn About Defi Top Story](https://hackernoon.com/184-stories-to-learn-about-defi-top-story)
+### [102. 184 Stories To Learn About Defi Top Story](https://hackernoon.com/184-stories-to-learn-about-defi-top-story)
 ![](https://cdn.hackernoon.com/images/github/defi-top-story-570.png)
 Learn everything you need to know about Defi Top Story via these 184 free HackerNoon stories.
+
+### [103. A Guide to Liquid Staking Tokens](https://hackernoon.com/a-guide-to-liquid-staking-tokens)
+![](https://cdn.hackernoon.com/images/SNkDpvdu7pTt1J6clyL9fJIE0Jo2-dk931d7.jpeg)
+With LSTs users can earn yields on their staked tokens while retaining liquidity. Explore what LSTs are, how they work, and platforms enabling this.
 
 ### [104. DeFi Godfathers Andre Cronje and Anton Nell Step Down, Leaving Associated Tokens in Freefall](https://hackernoon.com/defi-godfathers-andre-cronje-and-anton-nell-step-down-leaving-associated-tokens-in-freefall)
 ![](https://cdn.hackernoon.com/images/PqBokrbZnUh88uMPTuuAuDPfPi53-wm93lu2.jpeg)
 DeFi leaders Andre Cronje and senior solutions architect Antone Nell close their chapter in the crypto/defi space.
 
-### [105. Cake DeFi Partners with Gaming Giant Razer to Bring Millions of Gamers to DeFi ](https://hackernoon.com/cake-defi-partners-with-gaming-giant-razer-to-bring-millions-of-gamers-to-defi)
+### [105. I Started An Open Source Project To Help DeFi Developers and Companies](https://hackernoon.com/i-started-an-open-source-project-to-help-defi-developers-and-companies-7v1y3w2b)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FET4IJJCNUpaSMq1bfuPlxFNpAGy1-ve3d3xgd.png?alt=media&token=2084f005-c4ee-4291-b036-f3d57a2068af)
+Most of the DeFi projects are built on the Ethereum blockchain, so I thought that would be cool to collaborate with the community by giving some tools to make the development easier for everyone. 
+
+### [106. Cake DeFi Partners with Gaming Giant Razer to Bring Millions of Gamers to DeFi ](https://hackernoon.com/cake-defi-partners-with-gaming-giant-razer-to-bring-millions-of-gamers-to-defi)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-0ya3u3q.jpeg)
 Cake DeFi has announced the beginning of a gaming collaboration with Razer Silver, backed by Razer Inc, to welcome a million of gamers to DeFi. 
-
-### [106. On-chain Options Trading and SSOVs on Ethereum L2s: An Analysis](https://hackernoon.com/on-chain-options-trading-and-ssovs-on-ethereum-l2s-an-analysis)
-![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-4w93rlf.jpeg)
-Contrary to options trading where you exercise an option at its expiration data  exercising your options trades with SSOVs is a little bit different
 
 ### [107. The Key to Unlocking Liquid Staking Derivatives ](https://hackernoon.com/the-key-to-unlocking-liquid-staking-derivatives)
 ![](https://cdn.hackernoon.com/images/E5pzMBNmQ9SBU6qVMYl6X48inok2-8ag3ryw.gif.webp)
 Liquid Staking Derivatives play a very important role in DeFi, for example, 20% of the total value locked in crypto is in LSDs.
 
-### [108. 4 Reasons Why I Ditched My Savings Account For Stablecoins](https://hackernoon.com/4-reasons-why-i-ditched-my-savings-account-for-stablecoins)
-![](https://cdn.hackernoon.com/images/sfQknZf4O7UosDlKIOiuZijVOk63-y093n0e.jpeg)
-Learn why stablecoins are a great alternative to traditional bank accounts and a hedge against inflation. 
-
-### [109. Decentralized Autonomous (dis)Organization](https://hackernoon.com/decentralized-autonomous-disorganization)
+### [108. Decentralized Autonomous (dis)Organization](https://hackernoon.com/decentralized-autonomous-disorganization)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-1893pvt.jpeg)
 DAOs want to change the way businesses make choices altogether. Do we actually need that, though?
 
 
 
-### [110. FTX? Crypto Winter? - But Some TVLs Keep Rising](https://hackernoon.com/ftx-crypto-winter-but-some-tvls-keep-rising)
+### [109. On-chain Options Trading and SSOVs on Ethereum L2s: An Analysis](https://hackernoon.com/on-chain-options-trading-and-ssovs-on-ethereum-l2s-an-analysis)
+![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-4w93rlf.jpeg)
+Contrary to options trading where you exercise an option at its expiration data  exercising your options trades with SSOVs is a little bit different
+
+### [110. 4 Reasons Why I Ditched My Savings Account For Stablecoins](https://hackernoon.com/4-reasons-why-i-ditched-my-savings-account-for-stablecoins)
+![](https://cdn.hackernoon.com/images/sfQknZf4O7UosDlKIOiuZijVOk63-y093n0e.jpeg)
+Learn why stablecoins are a great alternative to traditional bank accounts and a hedge against inflation. 
+
+### [111. FTX? Crypto Winter? - But Some TVLs Keep Rising](https://hackernoon.com/ftx-crypto-winter-but-some-tvls-keep-rising)
 ![](https://cdn.hackernoon.com/images/BGPJgyOxZXdpI9mLj83kvUHMgtS2-gu93rph.jpeg)
 Despite the crypto winter, total value locked (TVL) for many DeFi protocols is rapidly rising. Even in the direct aftermath of the FTX collapse.
-
-### [111. Institutional Investors Are FINALLY Giving DeFi The Attention It Deserves](https://hackernoon.com/institutional-investors-are-finally-giving-defi-the-attention-it-deserves-1r1o3z7d)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4LKlOHT8BtURWNF54Dmjj74h57s2-yfdt3w8f.jpeg?alt=media&token=7a2aa781-e9be-44e9-9227-f1c595f87e00)
-Excitably, I FINALLY get to announce that institutions are pouring nearly 58 million dollars a week into Bitcoin! Oh, and Jr over there, Ethereum is seeing nearly $10M/USD in trades, weekly. 
 
 ### [112. Scaling Up Your Crypto Project with Cross-Chain Web3](https://hackernoon.com/scaling-up-your-crypto-project-with-cross-chain-web3)
 ![](https://cdn.hackernoon.com/images/KrNvmdw10kSMdTv0h9mWXKS0iHc2-us93rvl.jpeg)
 Why is cross-chain Web3 important? What is the best cross-chain solution? How to scale up with Rubic’s Cross-Chain Swap tools? All the answers are right here!
 
-### [113. Decentralized Autonomous Organizations or DAOs Are The Future of Management: An Overview](https://hackernoon.com/decentralized-autonomous-organizations-or-daos-are-the-future-of-management-an-overview)
+### [113. Institutional Investors Are FINALLY Giving DeFi The Attention It Deserves](https://hackernoon.com/institutional-investors-are-finally-giving-defi-the-attention-it-deserves-1r1o3z7d)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4LKlOHT8BtURWNF54Dmjj74h57s2-yfdt3w8f.jpeg?alt=media&token=7a2aa781-e9be-44e9-9227-f1c595f87e00)
+Excitably, I FINALLY get to announce that institutions are pouring nearly 58 million dollars a week into Bitcoin! Oh, and Jr over there, Ethereum is seeing nearly $10M/USD in trades, weekly. 
+
+### [114. Decentralized Autonomous Organizations or DAOs Are The Future of Management: An Overview](https://hackernoon.com/decentralized-autonomous-organizations-or-daos-are-the-future-of-management-an-overview)
 ![](https://cdn.hackernoon.com/images/PsbYH0Gf7bSdaWavmIxhltNrJig1-bx5z3oth.jpeg)
 With the recent Vitalik Buterin's article on decentralized governance we go to further expand upon DAOs topic and the future of off-chain voting.
 
-### [114. Non-Ethereum Systems Race To Develop DeFi-Friendly Capabilities](https://hackernoon.com/non-ethereum-systems-race-to-develop-defi-friendly-capabilities-7o5m3w5y)
+### [115. Non-Ethereum Systems Race To Develop DeFi-Friendly Capabilities](https://hackernoon.com/non-ethereum-systems-race-to-develop-defi-friendly-capabilities-7o5m3w5y)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FF7uGeKK3PTZFc7q3LXtIhfD7uo73-ky3r3xtm.jpeg?alt=media&token=775b862c-8b85-4895-944b-90708162f7a9)
 Cryptocurrency aims to make money and payments accessible to everyone globally, no matter where they are located. The Decentralized Finance (DeFi) movement helps in taking a step towards that goal by creating an open, global alternative to the financial services that are in use today to anyone with a smartphone and an internet connection. 
 
-### [115. DeFi Crypto Lending Is The Transformative Use Case The Industry Has Been Waiting For](https://hackernoon.com/defi-crypto-lending-is-the-transformative-use-case-the-industry-has-been-waiting-for-0k1o3z9v)
+### [116. DeFi Crypto Lending Is The Transformative Use Case The Industry Has Been Waiting For](https://hackernoon.com/defi-crypto-lending-is-the-transformative-use-case-the-industry-has-been-waiting-for-0k1o3z9v)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FiwYYV1LriEaT7d6rN7rWN595K7w1-ua1j3ttv.jpeg?alt=media&token=4121887e-b14c-4c39-8b86-bacb9dcb3590)
 As Decentralized Finance continues to mature and establish footholds in global commerce, the time for its potential to deliver a user-first banking experience has arrived. 
 
-### [116. Crypto Weekly #6: Is DeFi All Show And No Substance? ](https://hackernoon.com/crypto-weekly-6-is-defi-all-show-and-no-substance-4p1t3wru)
+### [117. Crypto Weekly #6: Is DeFi All Show And No Substance? ](https://hackernoon.com/crypto-weekly-6-is-defi-all-show-and-no-substance-4p1t3wru)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrrklQPNbspZjuipgqdjB7er0G6e2-671p28pv.jpeg?alt=media&token=00b4c588-238b-49b7-aeba-3cbf7cbcc985)
 Is DeFi the killer app for blockchain or is it just hype based on the imperfection of the market? The more interesting question, though, is: how long will this growth continue? 
 
-### [117. What Is It About Blockchain That Seduces Normies: An Analysis Through Free TON's Lens](https://hackernoon.com/what-is-it-about-blockchain-that-seduces-normies-an-analysis-through-free-tons-lens-294v33s0)
+### [118. What Is It About Blockchain That Seduces Normies: An Analysis Through Free TON's Lens](https://hackernoon.com/what-is-it-about-blockchain-that-seduces-normies-an-analysis-through-free-tons-lens-294v33s0)
 ![](https://cdn.hackernoon.com/images/v6WxeZKmn3XLcnGFkevPft6MID23-zx2r35co.jpeg)
 Making blockchain more tangible to the average person will help attract millions of people.
 
-### [118. Smart Contract Security is Complicated, but Totally Worth it](https://hackernoon.com/smart-contract-security-is-complicated-but-totally-worth-it)
+### [119. Smart Contract Security is Complicated, but Totally Worth it](https://hackernoon.com/smart-contract-security-is-complicated-but-totally-worth-it)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-6503oky.jpeg)
 Just like other types of software, smart contracts can have bugs, be manipulated, and get hacked.  
 
-### [119. DeFi: Another Instance of Too Little, Too Late?](https://hackernoon.com/defi-another-instance-of-too-little-too-late-24353wds)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0QUQpD0VCsgAaYPa5e24rYsNMx62-dv593efr.jpeg?alt=media&token=3e52b379-8f72-44a3-b164-305c445babbb)
-Dozens of new DeFi coins appear every day. 90% of them may not even exist in a week. Most of the created tokens do not have enough liquidity and are designed to collect money quickly and disappear for good. 
-
-### [120. DeFi Lacked Cohesion and Automation - Until Now](https://hackernoon.com/defi-lacked-cohesion-and-automation-until-now-1w1p34wg)
-![](https://cdn.hackernoon.com/images/Gqwuvh1IQEa6N9f3vMkmDaFpxRk2-dp2n31av.jpeg)
-DeFi is finally providing viable use cases for cryptocurrencies beyond being a speculative value storage.
-
-### [121. Open Codebase and DAP Launch to Incentivize Network Participation [AVA Labs Update]](https://hackernoon.com/open-codebase-and-dap-launch-to-incentivize-network-participation-ava-labs-update-w7ge324w)
+### [120. Open Codebase and DAP Launch to Incentivize Network Participation [AVA Labs Update]](https://hackernoon.com/open-codebase-and-dap-launch-to-incentivize-network-participation-ava-labs-update-w7ge324w)
 ![](https://cdn.hackernoon.com/images/c4m3y7d.jpg)
 Blockchains are notoriously challenging network structures to scale, both in performance - such as latencies, throughput, and number of validators - as well as in feature sets - such as customizability of the bytecode that the blockchain executes. 
+
+### [121. DeFi: Another Instance of Too Little, Too Late?](https://hackernoon.com/defi-another-instance-of-too-little-too-late-24353wds)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0QUQpD0VCsgAaYPa5e24rYsNMx62-dv593efr.jpeg?alt=media&token=3e52b379-8f72-44a3-b164-305c445babbb)
+Dozens of new DeFi coins appear every day. 90% of them may not even exist in a week. Most of the created tokens do not have enough liquidity and are designed to collect money quickly and disappear for good. 
 
 ### [122. Reducing the Risks in DeFi Will Take Time and Experimenting - Unhashed #6](https://hackernoon.com/reducing-the-risks-in-defi-will-take-time-and-experimenting-unhashed-6-gcp349g)
 ![](https://cdn.hackernoon.com/images/J4wbz3JAj4ck2KKzkB83S10DntP2-acas33n8.jpeg)
 Unhashed is a QnA series where I speak with top execs of new and established blockchain projects to unravel the mystery of blockchain & crypto.
 
-### [123. Everyone Wants DeFi Yield. Almost Nobody Understands the Machine Making It](https://hackernoon.com/everyone-wants-defi-yield-almost-nobody-understands-the-machine-making-it)
-![](https://cdn.hackernoon.com/images/GoqSaxyXKeMaYVOBSOy5aLbbhFA3-oq83d4a.png)
-A deep dive into where DeFi yield actually comes from, unpacking trading activity, leverage, private credit, and incentives behind today’s crypto interest rate
+### [123. DeFi Lacked Cohesion and Automation - Until Now](https://hackernoon.com/defi-lacked-cohesion-and-automation-until-now-1w1p34wg)
+![](https://cdn.hackernoon.com/images/Gqwuvh1IQEa6N9f3vMkmDaFpxRk2-dp2n31av.jpeg)
+DeFi is finally providing viable use cases for cryptocurrencies beyond being a speculative value storage.
 
 ### [124. SoulSwap Finance Interview: The New DeFi Protocol on Fantom](https://hackernoon.com/soulswap-finance-interview-the-new-defi-protocol-on-fantom)
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-k493htz.jpeg)
 In this post we'll look at SoulSwap Finance, how it works and how it fits into the DeFi ecosystem on Fantom.
 
-### [125. #Yield-Farm Like a Degen: With NDSU Alums Aaron Knudtson, and Ted Zipoy](https://hackernoon.com/yield-farm-like-a-degen-with-ndsu-alums-aaron-knudtson-and-ted-zipoy)
-![](https://cdn.hackernoon.com/images/4tMa4RB9uXN9YkzLoCtb4ZeclZM2-vt03737.jpeg)
-Blockchain and digital assets are attracting the best minds in the tech space. And nowhere is that more evident than in the Defi Space like these NDSU Alumni
-
-### [126. An Intro to Yield Farming: Understanding the Mechanics and Maximizing ROI in the DeFi Ecosystem](https://hackernoon.com/an-intro-to-yield-farming-understanding-the-mechanics-and-maximizing-roi-in-the-defi-ecosystem)
+### [125. An Intro to Yield Farming: Understanding the Mechanics and Maximizing ROI in the DeFi Ecosystem](https://hackernoon.com/an-intro-to-yield-farming-understanding-the-mechanics-and-maximizing-roi-in-the-defi-ecosystem)
 ![](https://cdn.hackernoon.com/images/SNkDpvdu7pTt1J6clyL9fJIE0Jo2-j393skd.jpeg)
 With the rapidly growing popularity of DeFi, this article dives deep into the mechanics of yield farming and tips on maximizing returns for passive income.
+
+### [126. #Yield-Farm Like a Degen: With NDSU Alums Aaron Knudtson, and Ted Zipoy](https://hackernoon.com/yield-farm-like-a-degen-with-ndsu-alums-aaron-knudtson-and-ted-zipoy)
+![](https://cdn.hackernoon.com/images/4tMa4RB9uXN9YkzLoCtb4ZeclZM2-vt03737.jpeg)
+Blockchain and digital assets are attracting the best minds in the tech space. And nowhere is that more evident than in the Defi Space like these NDSU Alumni
 
 ### [127. The Rudiments Of Smart Contract Vulnerabilities](https://hackernoon.com/the-rudiments-of-smart-contract-vulnerabilities)
 ![](https://cdn.hackernoon.com/images/SriMznQtryZziSh37WCMXQIdCFW2-z393q14.jpeg)
@@ -519,61 +523,61 @@ We've seen smart contracts give DeFi the ultimate edge over CeFi. However, being
 ![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-jby3old.jpeg)
 Is decentralization fair for everyone? This Week On Planet Internet, Utsav Jaiswal, Sidra Ijaz, and Amy Tom talk about the decentralization movement. What's the latest with DeFi? Can AI & decentralization be friends? 🥺
 
-### [129. Worried About Recent Layoffs? Bit.com is Looking For Talent and Plans to Double its Workforce ](https://hackernoon.com/worried-about-recent-layoffs-bitcom-is-looking-for-talent-and-plans-to-double-its-workforce)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-rdc3uqz.jpeg)
-The second-largest crypto options exchange, Bit.com aims to double its workforce amidst layoffs.
-
-### [130. The Problem With CeFi Exchanges & Why We Need DeFi Now More Than Ever](https://hackernoon.com/the-problem-with-cefi-exchanges-and-why-we-need-defi-now-more-than-ever)
+### [129. The Problem With CeFi Exchanges & Why We Need DeFi Now More Than Ever](https://hackernoon.com/the-problem-with-cefi-exchanges-and-why-we-need-defi-now-more-than-ever)
 ![](https://cdn.hackernoon.com/images/SNkDpvdu7pTt1J6clyL9fJIE0Jo2-8f93te1.jpeg)
 Too many are taking the collapse of FTX (a CeFi exchange) as a shake up their belief in DeFi. Simplifying the meltdown and why we need DeFi now more than ever.
 
-### [131. Can IDOs #RightTheWrongs of ICOs and IEOs?](https://hackernoon.com/can-idos-rightthewrongs-of-icos-and-ieos-vx1s35on)
+### [130. Worried About Recent Layoffs? Bit.com is Looking For Talent and Plans to Double its Workforce ](https://hackernoon.com/worried-about-recent-layoffs-bitcom-is-looking-for-talent-and-plans-to-double-its-workforce)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-rdc3uqz.jpeg)
+The second-largest crypto options exchange, Bit.com aims to double its workforce amidst layoffs.
+
+### [131. Decentralized Autonomous Organizations Fueling a Gaming & Cultural Renaissance](https://hackernoon.com/decentralized-autonomous-organizations-fueling-a-gaming-and-cultural-renaissance)
+![](https://cdn.hackernoon.com/images/BGPJgyOxZXdpI9mLj83kvUHMgtS2-o493s10.jpeg)
+Deep dive into the concept of the gamified DAO and learn how users can participate in the project development via voting
+
+### [132. Can IDOs #RightTheWrongs of ICOs and IEOs?](https://hackernoon.com/can-idos-rightthewrongs-of-icos-and-ieos-vx1s35on)
 ![](https://cdn.hackernoon.com/images/9UDtVcAinBWyvc94PVXp3wLA8wV2-zmb5371y.jpeg)
 Crypto startups are stacking up to launch their IDOs on DEX platforms like Polkastarter, DuckSTARTER, SpacePort, BSCPad and a few other leading platforms.
 
-### [132. DeFi Isn’t the Only Place Where Innovations Are Happening ](https://hackernoon.com/defi-isnt-the-only-place-where-innovations-are-happening-29k3z4q)
+### [133. DeFi Isn’t the Only Place Where Innovations Are Happening ](https://hackernoon.com/defi-isnt-the-only-place-where-innovations-are-happening-29k3z4q)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F39ieEwJup1daC7vYK74Xq3c6xJw2-cwp3zp8.jpeg?alt=media&token=73068dfa-d553-4add-b5e4-91fbe71b2417)
 DeFi has been the leading narrative in the crypto space in 2020 with its pulsating innovation and stellar growth. Not only has the entire concept of financial services been turned on its head but we've also witnessed some of the speediest development in tech of all time. In the savage unforgiving decentralized landscape, competition is fierce and protocols are required to iterate almost daily to survive.
 
-### [133. Badger Dao Interface Hack: Do We Need to Panic?](https://hackernoon.com/badger-dao-interface-hack-do-we-need-to-panic)
+### [134. Badger Dao Interface Hack: Do We Need to Panic?](https://hackernoon.com/badger-dao-interface-hack-do-we-need-to-panic)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-i8037lg.jpeg)
 The Badger DAO attack was conceptually very different from the more traditional attack in DeFi. Those traditional ones are aimed at exploiting vulnerabilities in the code of smart contracts of the protocols, otherwise called bugs. We are familiar with flash loan attacks that use uncollateralised loans across a multitude of protocols to manipulate certain markets and pump-and-dump certain assets. We also know about reentrancy attacks that exploit the logic of execution of functions inside a smart contract. However, the Badger DAO exploit was both more and less ingenious at once.
 
-### [134. The Dark Side of DeFi: The Wild West of Decentralization ](https://hackernoon.com/the-dark-side-of-defi-the-wild-west-of-decentralization)
+### [135. The Dark Side of DeFi: The Wild West of Decentralization ](https://hackernoon.com/the-dark-side-of-defi-the-wild-west-of-decentralization)
 ![](https://cdn.hackernoon.com/images/63DJgDLQAJfSC5MDDFvFFsjuRK62-93d3p0s.jpeg)
 The mystic world of decentralized finance sparks up discussions. In 2022, the industry is suffering from multiple cyber attacks. Is this the end for DeFi?
 
-### [135. "CBDCs Appear Positive And Doubtful At The Same Time" - Sean Noga](https://hackernoon.com/cbdcs-appear-positive-and-doubtful-at-the-same-time-sean-noga-px2935o7)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-e74o37bt.jpeg)
-This article talks about CBDCs, DeFi and blockchain. The article discusses the digital yuan and why it won't change the world order. 
-
-### [136. DeFi Continues To Defy Odds While Ducking Questions on Scalability. For How Long?](https://hackernoon.com/defi-continues-to-defy-odds-while-ducking-questions-on-scalability-for-how-long-vu433wic)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsZ5UlmC40YcazlXlbOf4nV7TqkL2-4n3n4wuu.jpeg?alt=media&token=2f03da46-5890-4c1d-b89e-51b55eeed808)
-The term DeFi, short for "decentralized finance," has been entering the lexicon of the tech world for the last few years, yet only gaining real popularity recently. 
-
-### [137. How Do DeFi Lending Protocols Work?](https://hackernoon.com/how-do-defi-lending-protocols-work)
+### [136. How Do DeFi Lending Protocols Work?](https://hackernoon.com/how-do-defi-lending-protocols-work)
 ![](https://cdn.hackernoon.com/images/SNkDpvdu7pTt1J6clyL9fJIE0Jo2-xm93s0q.jpeg)
 Whether you're a seasoned DeFi user or newbie, explore how lending protocols work, benefits and limitations, and how to get started in the DeFi ecosystem. 
 
-### [138. Decentralized Exchanges Must Put An End To DeFi Token Rug Pulls](https://hackernoon.com/decentralized-exchanges-must-put-an-end-to-defi-token-rug-pulls-3v1j3z4o)
+### [137. DeFi Continues To Defy Odds While Ducking Questions on Scalability. For How Long?](https://hackernoon.com/defi-continues-to-defy-odds-while-ducking-questions-on-scalability-for-how-long-vu433wic)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsZ5UlmC40YcazlXlbOf4nV7TqkL2-4n3n4wuu.jpeg?alt=media&token=2f03da46-5890-4c1d-b89e-51b55eeed808)
+The term DeFi, short for "decentralized finance," has been entering the lexicon of the tech world for the last few years, yet only gaining real popularity recently. 
+
+### [138. "CBDCs Appear Positive And Doubtful At The Same Time" - Sean Noga](https://hackernoon.com/cbdcs-appear-positive-and-doubtful-at-the-same-time-sean-noga-px2935o7)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-e74o37bt.jpeg)
+This article talks about CBDCs, DeFi and blockchain. The article discusses the digital yuan and why it won't change the world order. 
+
+### [139. Decentralized Exchanges Must Put An End To DeFi Token Rug Pulls](https://hackernoon.com/decentralized-exchanges-must-put-an-end-to-defi-token-rug-pulls-3v1j3z4o)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1lfYwE02G9XyNkuUScSuoIh8D0L2-s5t346p.jpeg?alt=media&token=36d321a2-f41b-40ed-94c5-43f29c8d5b24)
 In the cryptocurrency industry, there are currently two hot trends. On the one hand, there is DeFi, or decentralized finance. On the other, there are decentralized exchanges. Both segments intertwine for many different reasons, yet they are also very different from one another, 
-
-### [139. DeFi's Recent Sudden Boom Could Be Dangerous But We're Taking Steps To Mitigate The Risks](https://hackernoon.com/defis-recent-sudden-boom-could-be-dangerous-but-were-taking-steps-to-mitigate-the-risks-m0513yr9)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNAtGTVOGPkg5D6cWEGrGuLkCfJQ2-111v3yhn.jpeg?alt=media&token=f2dfecc3-c077-4433-ae79-fcfcaaa90051)
-The crypto field is lively as ever in 2020, from platform tokens and the halvings of various PoW coins including bitcoin at the beginning of the year to the explosion of DeFi, and Filecoin's imminent mainnet launch. 
 
 ### [140. DeFi Will Replace The Global Financial System](https://hackernoon.com/defi-will-replace-the-global-financial-system-nn2834mk)
 ![](https://cdn.hackernoon.com/images/QXsXg7hvkgUim8nVzmpA0TNWPaL2-tkb28mk.jpeg)
 There's no denying that DeFi will play a major role in finance of the future, and the U.S. Commodity Futures Trading Commission looked at the problems with regulating it this week. 
 
-### [141. The World's 6.6 Trillion per Day Forex Market Will Migrate On-Chain - Lalo Bazzi](https://hackernoon.com/the-worlds-66-trillion-per-day-forex-market-will-migrate-on-chain-lalo-bazzi)
+### [141. DeFi's Recent Sudden Boom Could Be Dangerous But We're Taking Steps To Mitigate The Risks](https://hackernoon.com/defis-recent-sudden-boom-could-be-dangerous-but-were-taking-steps-to-mitigate-the-risks-m0513yr9)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNAtGTVOGPkg5D6cWEGrGuLkCfJQ2-111v3yhn.jpeg?alt=media&token=f2dfecc3-c077-4433-ae79-fcfcaaa90051)
+The crypto field is lively as ever in 2020, from platform tokens and the halvings of various PoW coins including bitcoin at the beginning of the year to the explosion of DeFi, and Filecoin's imminent mainnet launch. 
+
+### [142. The World's 6.6 Trillion per Day Forex Market Will Migrate On-Chain - Lalo Bazzi](https://hackernoon.com/the-worlds-66-trillion-per-day-forex-market-will-migrate-on-chain-lalo-bazzi)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-23039aj.jpeg)
 This article talks about stablecoins, FATF VASP regulations and how decentralized stablecoins protocol can bridge the fiat and crypto market. 
-
-### [142. Decentralized Autonomous Organizations Fueling a Gaming & Cultural Renaissance](https://hackernoon.com/decentralized-autonomous-organizations-fueling-a-gaming-and-cultural-renaissance)
-![](https://cdn.hackernoon.com/images/BGPJgyOxZXdpI9mLj83kvUHMgtS2-o493s10.jpeg)
-Deep dive into the concept of the gamified DAO and learn how users can participate in the project development via voting
 
 ### [143. 68 Stories To Learn About Defi Solutions](https://hackernoon.com/68-stories-to-learn-about-defi-solutions)
 ![](https://cdn.hackernoon.com/images/github/defi-solutions-465.png)
@@ -587,13 +591,13 @@ With the development of DeFi as a viable alternative to centralized lenders, cou
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJ4wbz3JAj4ck2KKzkB83S10DntP2-vro3uhg.jpeg?alt=media&token=5f3a0502-2e19-4917-871a-6f63dd09ce9f)
 The “DeFi financial revolution”, as many are calling it, is a promising solution to the global unbanked crisis, even if not anything else. 
 
-### [146. CEO Waykichain "Gordon Gao" Explores the Potential of Synths](https://hackernoon.com/what-is-the-potential-of-synths-in-defi-47173zuh)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpxtbZrdmt0VrZ3Z4asVTcVTnXOB2-je53wp1.jpeg?alt=media&token=97e5ff27-b183-4a9e-b20b-db622a2e4b51)
-If you let me choose the best concept of DeFi, I vote for synths. The power of such protocols starts with TVL.
-
-### [147. Can Blockchain Lead Towards Self-Incentivized Open Source Development?](https://hackernoon.com/can-blockchain-lead-towards-self-incentivized-open-source-development-f41f3wyx)
+### [146. Can Blockchain Lead Towards Self-Incentivized Open Source Development?](https://hackernoon.com/can-blockchain-lead-towards-self-incentivized-open-source-development-f41f3wyx)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fz1Yj4qzQTdRXZnuAnfLn7c9juIm2-yk223xkl.jpeg?alt=media&token=2742b33f-870b-4dd4-b7f6-2c80f463828c)
 Long before the invention of Bitcoin, the computerized world has become dependent on open source developers. Some pieces of code such as Internet browsers, operating systems, and code libraries have become so essential that it is unanimously agreed upon that they should not be controlled by a single company, who might charge exorbitant fees for their usage, withhold the software from certain users for any reason, or do other nefarious things with the code. 
+
+### [147. CEO Waykichain "Gordon Gao" Explores the Potential of Synths](https://hackernoon.com/what-is-the-potential-of-synths-in-defi-47173zuh)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpxtbZrdmt0VrZ3Z4asVTcVTnXOB2-je53wp1.jpeg?alt=media&token=97e5ff27-b183-4a9e-b20b-db622a2e4b51)
+If you let me choose the best concept of DeFi, I vote for synths. The power of such protocols starts with TVL.
 
 ### [148. Modern Conflicts and Crypto Are Making TradFi and CeFi Irrelevant](https://hackernoon.com/modern-conflicts-and-crypto-is-making-tradfi-and-cefi-irrelevant)
 ![](https://cdn.hackernoon.com/images/dUCmohZfVPWDTACP8mAawqIN5812-o8a3ida.jpeg)
@@ -625,13 +629,13 @@ The latest addition to the DYP platform is the farming dApp with an integrated r
 ![](https://cdn.hackernoon.com/images/0occow2Rm7Zauw41hUhjTOc8N7C2-zv036fw.jpeg)
 The financial freedom offered by DeFi has led to the invitation of hackers' attempts to manipulate cryptocurrency security measures totaling billions. 
 
-### [155. DAOMaker and Eminence Included in The Biggest DeFi Hacks of 2020](https://hackernoon.com/daomaker-and-eminence-included-in-the-biggest-defi-hacks-of-2020-mc3y31n3)
-![](https://cdn.hackernoon.com/images/kHmjlBgSzubv4ecXBQJFooO88AF2-2u2r31nk.jpeg)
-Decentralized finance (DeFi) was created back in 2015, when the pioneer application, MakerDAO, allowed any crypto holders to take out loans in the DAI stablecoin. Years of steady growth followed and a palpable buzz around DeFi started to emerge in the crypto community, leading to the breakout year that was 2020. 
-
-### [156. Can Uniswap Be Left Behind?](https://hackernoon.com/can-uniswap-be-left-behind)
+### [155. Can Uniswap Be Left Behind?](https://hackernoon.com/can-uniswap-be-left-behind)
 ![](https://cdn.hackernoon.com/images/KrNvmdw10kSMdTv0h9mWXKS0iHc2-kca3m80.png)
 With newly-launched DEXs, Uniswap V3 is running late. That’s the project that carved out a niche one day and conquered the crypto market. Let’s face the music - even titans can lose over time. The next-gen platform that looks ahead of the pack is Algebra.Finance.
+
+### [156. DAOMaker and Eminence Included in The Biggest DeFi Hacks of 2020](https://hackernoon.com/daomaker-and-eminence-included-in-the-biggest-defi-hacks-of-2020-mc3y31n3)
+![](https://cdn.hackernoon.com/images/kHmjlBgSzubv4ecXBQJFooO88AF2-2u2r31nk.jpeg)
+Decentralized finance (DeFi) was created back in 2015, when the pioneer application, MakerDAO, allowed any crypto holders to take out loans in the DAI stablecoin. Years of steady growth followed and a palpable buzz around DeFi started to emerge in the crypto community, leading to the breakout year that was 2020. 
 
 ### [157. Cybersecurity In DeFi](https://hackernoon.com/cybersecurity-in-defi)
 ![](https://cdn.hackernoon.com/images/SriMznQtryZziSh37WCMXQIdCFW2-nya3qe0.jpeg)
@@ -641,41 +645,41 @@ Defi is a relatively new industry. However, if the insecurity issues persist at 
 ![](https://cdn.hackernoon.com/images/vYOLLmRseHY95oOkhhN2aMkAW613-f6639rd.jpeg)
 In DeFi We Trust, should we? Let's discover the potential risks of DeFi and understand them fully before we commit to something we don't fully understand.
 
-### [159. DeFi: How Does it Compare Against Centralized Finance?](https://hackernoon.com/defi-how-does-it-compare-against-centralized-finance-3e3i3zuj)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnxtWKMHuO1UKGUbmzmzTuQsBx4H2-tc3y37kz.jpeg?alt=media&token=51fb433c-43a2-4065-8b06-881d49596c79)
-To answer this question we must make some considerations and compare them with the traditional system of finance, because only by analyzing those aspects will we be able to understand whether DeFi in its entirety is actually convenient.
-
-### [160. The Defi Red Notice ](https://hackernoon.com/the-defi-red-notice)
+### [159. The Defi Red Notice ](https://hackernoon.com/the-defi-red-notice)
 ![](https://cdn.hackernoon.com/images/MildjKUxEYMxiz4D3zS1sb2wm2C3-mv93vdk.jpeg)
 The Red Notice on Do Kwon, and how Tornado Cash fits into the equation. The United States clamp down on DeFi and Money laundering. What's the future of DeFi?
+
+### [160. DeFi: How Does it Compare Against Centralized Finance?](https://hackernoon.com/defi-how-does-it-compare-against-centralized-finance-3e3i3zuj)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnxtWKMHuO1UKGUbmzmzTuQsBx4H2-tc3y37kz.jpeg?alt=media&token=51fb433c-43a2-4065-8b06-881d49596c79)
+To answer this question we must make some considerations and compare them with the traditional system of finance, because only by analyzing those aspects will we be able to understand whether DeFi in its entirety is actually convenient.
 
 ### [161. Bringing DeFi to Bitcoin Ecosystem: Because, What Else?](https://hackernoon.com/bringing-defi-to-bitcoin-ecosystem-because-what-else-l72h3zgu)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQfA1v9ObeHMPzZT3UmwLNkw8mbT2-5y1r3zb1.jpeg?alt=media&token=0293dbe0-68da-4529-878c-651bb3ccaf2d)
 It’s time to build DeFi money lego on the Bitcoin ecosystem.
 
-### [162. Regulating Crypto Exchanges: What Does it Mean For Crypto and DeFi?](https://hackernoon.com/regulating-of-crypto-exchanges-what-does-it-mean-for-crypto-and-defi)
-![](https://cdn.hackernoon.com/images/AScrXRUG0tVfEzp2EDQUzlZHQFz1-8x93hag.jpeg)
-Is the regulation of crypto a good thing or a bad thing? Why the benefits might (indirectly) outweigh the costs in the end.
-
-### [163. For DeFi To Continue Marching, We Need To Build Bridges, NOT Burn Them](https://hackernoon.com/for-defi-to-continue-marching-we-need-to-build-bridges-not-burn-them-4yb3zbw)
-![](https://cdn.hackernoon.com/images/85rTx4V5FLZVJnzfYogvFrmV0GY2-o1163w52.jpeg)
-Globalization and liberalization in the 1990s changed the divided global economy into what was to become a single market, thus, making our global economy a hustling global village with free movement of capital, freedom of establishment and freedom of services. 
-
-### [164. From Confusion to Clarity - How I Learned to Understand DEFI](https://hackernoon.com/from-confusion-to-clarity-how-i-learned-to-understand-defi)
+### [162. From Confusion to Clarity - How I Learned to Understand DEFI](https://hackernoon.com/from-confusion-to-clarity-how-i-learned-to-understand-defi)
 ![](https://cdn.hackernoon.com/images/fog-clearing-up-to-reveal-sun-clixov85v000001s62rfpb7vg.png)
 I embarked on a journey to immerse myself in the vision of decentralized finance, despite being a non-crypto trader...
 
-### [165. Crypto-ing it Real this Halloween with KingSwap: The First Cryptoween Limited Edition NFTs](https://hackernoon.com/crypto-ing-it-real-this-halloween-with-kingswap-the-first-cryptoween-limited-edition-nfts-5h1w3wgx)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0eMjycVrXXPNFBrZOeKwU1PZeM92-bgb3wph.png?alt=media&token=6875183c-7457-4746-afbb-4d2e58662281)
-KingSwap is the first to offer non-fungible tokens that give owners access to exclusive airdrops.
+### [163. Regulating Crypto Exchanges: What Does it Mean For Crypto and DeFi?](https://hackernoon.com/regulating-of-crypto-exchanges-what-does-it-mean-for-crypto-and-defi)
+![](https://cdn.hackernoon.com/images/AScrXRUG0tVfEzp2EDQUzlZHQFz1-8x93hag.jpeg)
+Is the regulation of crypto a good thing or a bad thing? Why the benefits might (indirectly) outweigh the costs in the end.
 
-### [166. How to Get a Stablecoin Loan: A Beginners Guide](https://hackernoon.com/how-to-get-a-stablecoin-loan-a-beginners-guide)
+### [164. For DeFi To Continue Marching, We Need To Build Bridges, NOT Burn Them](https://hackernoon.com/for-defi-to-continue-marching-we-need-to-build-bridges-not-burn-them-4yb3zbw)
+![](https://cdn.hackernoon.com/images/85rTx4V5FLZVJnzfYogvFrmV0GY2-o1163w52.jpeg)
+Globalization and liberalization in the 1990s changed the divided global economy into what was to become a single market, thus, making our global economy a hustling global village with free movement of capital, freedom of establishment and freedom of services. 
+
+### [165. How to Get a Stablecoin Loan: A Beginners Guide](https://hackernoon.com/how-to-get-a-stablecoin-loan-a-beginners-guide)
 ![](https://cdn.hackernoon.com/images/UiiBQAFwsDV8RRrwTfvsr2mKSU23-6v03a3a.jpeg)
 Review the criteria a project can use to choose a lending platform. Steps that users need to follow to take out a stablecoin loan.
 
-### [167. DeFi Saver Launches Recipe Creator](https://hackernoon.com/defi-saver-launches-recipe-creator-t61p22ql)
+### [166. DeFi Saver Launches Recipe Creator](https://hackernoon.com/defi-saver-launches-recipe-creator-t61p22ql)
 ![](https://cdn.hackernoon.com/images/2MAXdU1DYxVqUyrGMOFGhWhaLNx2-lu3733v8.jpeg)
 DeFi Saver introduced Recipe Creator, an advanced defi transactions builder that lets you combine multiple actions from different protocols in one transaction.
+
+### [167. Crypto-ing it Real this Halloween with KingSwap: The First Cryptoween Limited Edition NFTs](https://hackernoon.com/crypto-ing-it-real-this-halloween-with-kingswap-the-first-cryptoween-limited-edition-nfts-5h1w3wgx)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0eMjycVrXXPNFBrZOeKwU1PZeM92-bgb3wph.png?alt=media&token=6875183c-7457-4746-afbb-4d2e58662281)
+KingSwap is the first to offer non-fungible tokens that give owners access to exclusive airdrops.
 
 ### [168. Will DeFi Bring Together Liquidity, Inclusion, And Adoption?](https://hackernoon.com/will-defi-bring-together-liquidity-inclusion-and-adoption-1o3p3xbn)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FotTVAlbXjtPUhl3OmsPNuxYoXXo2-mzb32yh.jpeg?alt=media&token=268fc926-a40a-4ba7-a903-ae7233970373)
@@ -693,13 +697,13 @@ YFIDapp is an upcoming decentralized finance project committed to creating an el
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-no035o9.jpeg)
 Two products are live today: DeFi News aApp on Telegram and Dash.fun (open beta)
 
-### [172. Compliance is an Evolving Target and We'll See How the Regulatory Landscape Evolves - Ben DiScipio](https://hackernoon.com/compliance-is-an-evolving-target-and-well-see-how-the-regulatory-landscape-evolves-ben-discipio)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-cp139id.jpeg)
-This article talks about DeFi, Regulations and if DeFi should be regulated. 
-
-### [173. Top 3 Risks of DeFi Lending & How to Mitigate Them](https://hackernoon.com/top-3-risks-of-defi-lending-and-how-to-mitigate-them)
+### [172. Top 3 Risks of DeFi Lending & How to Mitigate Them](https://hackernoon.com/top-3-risks-of-defi-lending-and-how-to-mitigate-them)
 ![](https://cdn.hackernoon.com/images/SNkDpvdu7pTt1J6clyL9fJIE0Jo2-ip93t3w.jpeg)
 Discover the risks of DeFi lending and how to mitigate them: smart contract vulnerabilities, liquidity fluctuations, and regulatory challenges. Read on!
+
+### [173. Compliance is an Evolving Target and We'll See How the Regulatory Landscape Evolves - Ben DiScipio](https://hackernoon.com/compliance-is-an-evolving-target-and-well-see-how-the-regulatory-landscape-evolves-ben-discipio)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-cp139id.jpeg)
+This article talks about DeFi, Regulations and if DeFi should be regulated. 
 
 ### [174. Tackling Inflation in DeFi: DefHold Vs. EWF Pools Vs. Whale Club](https://hackernoon.com/tackling-inflation-in-defi-defhold-vs-ewf-pools-vs-whale-club-zn2c348e)
 ![](https://cdn.hackernoon.com/images/7LrDe0NwaTW40HBSsVuBSPeo2yd2-wn8315h.jpeg)
@@ -709,17 +713,17 @@ The enormous growth of the Decentralized Finance (DeFi) sector in recent years h
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FqwlVSFUNhGO3DAw4hoBd17XGTAC2-ks72ywa.jpeg?alt=media&token=0284cd6a-080c-44e6-a9e0-b777310fc5ab)
 dYdX and Antonio Juliano Zhuoxun Yin Brendan Chou Everett Hu just sent me this handy mail announcing a partnership with StarkWare and their scalability engine, StarkEx.
 
-### [176. 2020 Review and 2021 Outlook - Our Continuous Pursuit of Breakthroughs, Excellence and Win-Wins](https://hackernoon.com/2020-review-and-2021-outlook-our-continuous-pursuit-of-breakthroughs-excellence-and-win-wins-rh1a33d9)
+### [176. A Wake-Up Call From Curve Finance's Security Incident and Conclusions We Should All Make](https://hackernoon.com/a-wake-up-call-from-curve-finances-security-incident-and-conclusions-we-should-all-make)
+![](https://cdn.hackernoon.com/images/a-telephone-ringing-kxofn2sz6il8v9qzs3h32ii2.png)
+Some thoughts on the $100M security breach Curve Finance faced due to a Vyper bug.
+
+### [177. 2020 Review and 2021 Outlook - Our Continuous Pursuit of Breakthroughs, Excellence and Win-Wins](https://hackernoon.com/2020-review-and-2021-outlook-our-continuous-pursuit-of-breakthroughs-excellence-and-win-wins-rh1a33d9)
 ![](https://cdn.hackernoon.com/images/ISddYUL8uSe6hRvVE8USNCtLCko1-jv73338.jpeg)
 BitMax: our continuous pursuit of breakthrough, excellence and win-win
 
-### [177. CEXs Still Competing To List Tokens But DeFi Mining Support Will Be The Key](https://hackernoon.com/cexs-still-competing-to-list-tokens-but-defi-mining-support-will-be-the-key-nl2i3z7c)
+### [178. CEXs Still Competing To List Tokens But DeFi Mining Support Will Be The Key](https://hackernoon.com/cexs-still-competing-to-list-tokens-but-defi-mining-support-will-be-the-key-nl2i3z7c)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1lfYwE02G9XyNkuUScSuoIh8D0L2-fr1j3zz2.jpeg?alt=media&token=7701d9a4-ba48-40c7-9165-767c459575bf)
 No one can deny the current success of decentralized finance, or DeFi. A lot of enthusiasts have shown a keen interest in exploring the yield farming aspect. Finding these projects at an early stage makes a world of difference. Slowly but surely, more exchanges provide access to DeFi mining at an early stage. 
-
-### [178. A Wake-Up Call From Curve Finance's Security Incident and Conclusions We Should All Make](https://hackernoon.com/a-wake-up-call-from-curve-finances-security-incident-and-conclusions-we-should-all-make)
-![](https://cdn.hackernoon.com/images/a-telephone-ringing-kxofn2sz6il8v9qzs3h32ii2.png)
-Some thoughts on the $100M security breach Curve Finance faced due to a Vyper bug.
 
 ### [179. Will DeFi Bring Global Revolution to the Traditional Finance Space?](https://hackernoon.com/will-defi-bring-global-revolution-to-the-traditional-finance-space-de1l379t)
 ![](https://cdn.hackernoon.com/images/DEVYchay15OdKb7A8KxxpnlT1ce2-39835nx.jpeg)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [solid-principles](https://hackernoon.com/tagged/solid-principles)
+### Let's learn about [Solid Principles](https://hackernoon.com/tagged/solid-principles) via these 54 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+SOLID principles are five design principles intended to make software designs more understandable, flexible, and maintainable. Adhering to these principles is essential for developing robust, scalable, and high-quality object-oriented software systems.
+
 ### [1. SOLID Principles in Smart Contract Development](https://hackernoon.com/solid-principles-in-smart-contract-development)
 ![](https://cdn.hackernoon.com/images/lokbjQEefQRUe8qF8EHzsPop2hP2-7te3xsi.jpeg)
 Explore the application of SOLID principles in the world of smart contract development.
@@ -136,21 +140,21 @@ To mutate is to evolve. It was proposed by Sir Charles Darwin and we use it in t
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-cba3z06.jpeg)
 Hello, guys. This is the second article about SOLID principles with Javascript examples. In my previous article I described what are patterns in general, what is SOLID and why we should use them. If you haven't read it, pls, read it now and continue read current article after the previous one.
 
-### [34. Rules of Thumb for Software Engineering](https://hackernoon.com/-software-rules-of-thumb-there-are-quite-a-few-rulesprinciples-that-get-thrown-around-in-the-q9u367n)
-![](https://cdn.hackernoon.com/images/j2vc36qo.jpg)
-There are quite a few rules/principles that get thrown around in the software world. Some that come to mind are SOLID principles, Design Patterns, Do one thing and do it well, etc. I totally stand by all of them and believe our world would be a much better place if these principles are followed more.
-
-### [35. SOLID Principles in JavaScript: What Does the "S" Stand For?](https://hackernoon.com/solid-principles-in-javascript-what-does-the-s-stand-for)
+### [34. SOLID Principles in JavaScript: What Does the "S" Stand For?](https://hackernoon.com/solid-principles-in-javascript-what-does-the-s-stand-for)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-bq93idb.jpeg)
 In this article, we will discuss what is SOLID principles, why we should intend them. Also, we will take a look at examples of "S" principle using Javascript.
 
-### [36. Can You Make a Bug on Purpose? ](https://hackernoon.com/can-you-make-a-bug-on-purpose)
-![](https://cdn.hackernoon.com/images/6NntkWOAQNfaPgaqGyH7qhbpUBa2-qm83bqt.jpeg)
-At first glance, the question “Can you make a bug on purpose?” may seem banal. However, if you think about it, everything doesn't seem so obvious anymore. 
+### [35. Rules of Thumb for Software Engineering](https://hackernoon.com/-software-rules-of-thumb-there-are-quite-a-few-rulesprinciples-that-get-thrown-around-in-the-q9u367n)
+![](https://cdn.hackernoon.com/images/j2vc36qo.jpg)
+There are quite a few rules/principles that get thrown around in the software world. Some that come to mind are SOLID principles, Design Patterns, Do one thing and do it well, etc. I totally stand by all of them and believe our world would be a much better place if these principles are followed more.
 
-### [37. SOLID Principles In Practice With Python And UML Examples in 2025](https://hackernoon.com/solid-principles-in-practice-with-python-and-uml-examples-in-2025)
+### [36. SOLID Principles In Practice With Python And UML Examples in 2025](https://hackernoon.com/solid-principles-in-practice-with-python-and-uml-examples-in-2025)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-de02010.jpeg)
 SOLID principles explained with Python & UML. Simple, practical examples for writing clean, future-proof code.
+
+### [37. Can You Make a Bug on Purpose? ](https://hackernoon.com/can-you-make-a-bug-on-purpose)
+![](https://cdn.hackernoon.com/images/6NntkWOAQNfaPgaqGyH7qhbpUBa2-qm83bqt.jpeg)
+At first glance, the question “Can you make a bug on purpose?” may seem banal. However, if you think about it, everything doesn't seem so obvious anymore. 
 
 ### [38. Code to an Interface: Everything You Need to Know](https://hackernoon.com/code-to-an-interface-everything-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/yZi53v9tVybsXwdXldRGugWuUiE3-l382404.jpeg)
@@ -207,13 +211,13 @@ Discover how Zen principles like Wabi-Sabi and The Middle Way can transform your
 ![](https://cdn.hackernoon.com/images/Ob9kFijXSIcJhuUQL5RVRJumQB22-bi93ipb.jpeg)
 Learn how to write reliable and professional-looking React code using "Wishful Programming" aka "Top-Down Code Design". Great for coders of all levels.
 
-### [51. Rethinking Encapsulation: From Private to Public by Design](https://hackernoon.com/rethinking-encapsulation-from-private-to-public-by-design)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rg0230o.jpeg)
-Access modifiers have long been seen as essential to safe and clean code. But they’re ultimately a low-level mechanism for expressing high-level ideas.
-
-### [52. Writing Scalable and Maintainable React Code with SOLID Principles](https://hackernoon.com/writing-scalable-and-maintainable-react-code-with-solid-principles)
+### [51. Writing Scalable and Maintainable React Code with SOLID Principles](https://hackernoon.com/writing-scalable-and-maintainable-react-code-with-solid-principles)
 ![](https://cdn.hackernoon.com/images/code-displayed-on-a-laptop-ilpn2r316ilf6ixi6ymsicir.png)
 Learn how to apply SOLID principles in React to write scalable, maintainable, and reusable components for cleaner and more efficient code.
+
+### [52. Rethinking Encapsulation: From Private to Public by Design](https://hackernoon.com/rethinking-encapsulation-from-private-to-public-by-design)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rg0230o.jpeg)
+Access modifiers have long been seen as essential to safe and clean code. But they’re ultimately a low-level mechanism for expressing high-level ideas.
 
 ### [53. The Noonification: Is OpenAIs Sora in Trouble Yet? (6/18/2024)](https://hackernoon.com/6-18-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_204_bizlfy5w8tmi8jqddquvsk2p.png)

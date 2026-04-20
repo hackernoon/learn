@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [react](https://hackernoon.com/tagged/react)
+### Let's learn about [React](https://hackernoon.com/tagged/react) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Reteaching people basic web skills since 2013.
 
 ### [1. 5 Best JavaScript Frameworks in 2017](https://hackernoon.com/5-best-javascript-frameworks-in-2017-7a63b3870282)
@@ -240,13 +242,13 @@ So why you need another Headless CMS? For a change, with this one, you won't wo
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-lr93wsw.jpeg)
 Welcome to this comprehensive guide on parallel routes in Next.js.
 
-### [60. How to Publish a React Component as a Package to Npm](https://hackernoon.com/how-to-publish-a-react-component-as-a-package-to-npm)
-![](https://cdn.hackernoon.com/images/hPxuWwdsVdX5m8RoVpgA3hChIn42-j0m2u9u.jpeg)
-This is a step-by-step approach to publishing a react component as a package to the npm registry
-
-### [61. Stop Using State for React Forms, There is a Much Better Way!](https://hackernoon.com/stop-using-state-for-react-forms-there-is-a-much-better-way)
+### [60. Stop Using State for React Forms, There is a Much Better Way!](https://hackernoon.com/stop-using-state-for-react-forms-there-is-a-much-better-way)
 ![](https://cdn.hackernoon.com/images/7rdAduifQcWGRnhzEF317ht4Fbv2-rzc32zm.jpeg)
 Learn how to optimize the performance of react forms by replacing useState with the native feature of JavaScript.
+
+### [61. How to Publish a React Component as a Package to Npm](https://hackernoon.com/how-to-publish-a-react-component-as-a-package-to-npm)
+![](https://cdn.hackernoon.com/images/hPxuWwdsVdX5m8RoVpgA3hChIn42-j0m2u9u.jpeg)
+This is a step-by-step approach to publishing a react component as a package to the npm registry
 
 ### [62. Package Your React App with Spring Boot [A How-To Guide]](https://hackernoon.com/package-your-react-app-with-spring-boot-a-how-to-guide-cdfm329w)
 ![](https://cdn.hackernoon.com/images/561y3yuv.jpg)
@@ -256,13 +258,13 @@ A little backstory on how this started. My team needed to save some on money on 
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-j2036jc.jpeg)
 Following part one of this tutorial, we will be building the frontend side of this project.
 
-### [64. API Error Handling in React](https://hackernoon.com/api-error-handling-in-react)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-mo93snq.jpeg)
-I will tell you what formats for common handlers exist and why it is better to agree on a single format with the backend than to fence a new solution every time
-
-### [65. Streaming in Next.js 15: WebSockets vs Server-Sent Events](https://hackernoon.com/streaming-in-nextjs-15-websockets-vs-server-sent-events)
+### [64. Streaming in Next.js 15: WebSockets vs Server-Sent Events](https://hackernoon.com/streaming-in-nextjs-15-websockets-vs-server-sent-events)
 ![](https://cdn.hackernoon.com/images/cCF3vyfU64ajyP6O080VcMiZY0O2-h00300g.jpeg)
 Next.js supports both WebSockets and Server-Sent Events (SSE), making it an excellent choice for building scalable real-time applications.
+
+### [65. API Error Handling in React](https://hackernoon.com/api-error-handling-in-react)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-mo93snq.jpeg)
+I will tell you what formats for common handlers exist and why it is better to agree on a single format with the backend than to fence a new solution every time
 
 ### [66. 5 Most Popular React UI Component Libraries](https://hackernoon.com/5-most-popular-react-ui-component-libraries-5sx3t9c)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPSAg5ijEefbKXa7Mqz3dBvZqmfj2-x53h3uht.jpeg?alt=media&token=996e2b90-c0fa-4691-b531-260d3b8286f6)
@@ -296,14 +298,14 @@ Here we will run through a brief tutorial about how to create a React component 
 ![](https://cdn.hackernoon.com/images/XyqHIwK0xDMOGdIf5iTNW4CrLjb2-2wn33iy.png)
 A benchmark comparison and analysis between Qwik and Next.js 13.
 
-### [74. React Native vs.Flutter vs. Ionic Which is Challenging Platform for Your App](https://hackernoon.com/react-native-vsflutter-vs-ionic-which-is-challenging-platform-for-your-app-623qp3yqm)
+### [74. How to Build a Shopping Cart with Next.js and Zustand: State Management with TypeScript](https://hackernoon.com/how-to-build-a-shopping-cart-with-nextjs-and-zustand-state-management-with-typescript)
+![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-li93uaf.jpeg)
+Learn how to manage a React global state with Zustand and TypeScript. Practical guide and code samples. Persist global state in localStorage.
+
+### [75. React Native vs.Flutter vs. Ionic Which is Challenging Platform for Your App](https://hackernoon.com/react-native-vsflutter-vs-ionic-which-is-challenging-platform-for-your-app-623qp3yqm)
 ![](https://cdn.hackernoon.com/images/ri3pz3ypc.jpg)
 Smartphone apps have changed the way we used our phones previously. With the growing use of smartphone & its high-end processors, the app also has to perform well to make it worthwhile. You probably have noticed that most of the high performing apps with impressive designs and animations are downloaded the most. It means that if your app is not performing well or it serves lousy user experience, you will be out of the race. It does not just end up losing your valuable customers but also affects your business & its value.
 
-
-### [75. How to Build a Shopping Cart with Next.js and Zustand: State Management with TypeScript](https://hackernoon.com/how-to-build-a-shopping-cart-with-nextjs-and-zustand-state-management-with-typescript)
-![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-li93uaf.jpeg)
-Learn how to manage a React global state with Zustand and TypeScript. Practical guide and code samples. Persist global state in localStorage.
 
 ### [76. How to Build a Profitable NFT Marketplace with React, Solidity, and CometChat](https://hackernoon.com/how-to-build-a-profitable-nft-marketplace-with-react-solidity-and-cometchat)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-0293sfv.jpeg)
@@ -337,13 +339,13 @@ Fetching data asynchronously with Redux Thunk was always too much of a hassle fo
 ![](https://cdn.hackernoon.com/images/Hcp7GOWt9sT1u05G6yNtUCn7pia2-omb3oy9.jpeg)
 This article compares two powerful open-source front-end technologies, Angular and React. 
 
-### [84. Winning "Contributor of the Year 2022 - React.js" is an Honor ](https://hackernoon.com/winning-contributor-of-the-year-2022-reactjs-is-an-honor)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-5193ra9.gif.webp)
-Winning the title is a testament to the hard work and dedication I have put into learning and improving my skills as a React developer.
-
-### [85. Implement Form Validation in React Without Any Libraries](https://hackernoon.com/implement-form-validation-in-react-without-any-libraries)
+### [84. Implement Form Validation in React Without Any Libraries](https://hackernoon.com/implement-form-validation-in-react-without-any-libraries)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-1v93oq3.jpeg)
 You don’t need a fancy library when you have HTML5 and Constraint API to implement Form Validation and Submission in React.
+
+### [85. Winning "Contributor of the Year 2022 - React.js" is an Honor ](https://hackernoon.com/winning-contributor-of-the-year-2022-reactjs-is-an-honor)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-5193ra9.gif.webp)
+Winning the title is a testament to the hard work and dedication I have put into learning and improving my skills as a React developer.
 
 ### [86. Top 5 React Interview Questions in 2022](https://hackernoon.com/top-5-react-interview-questions-in-2022)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-ok93q4o.jpeg)
@@ -423,13 +425,13 @@ This article outlines how to smoothly deploy a React App through Github while av
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-bhu3wfv.jpeg?alt=media&token=88946c73-ead8-442d-8946-3b35bae519bd)
 For the past few years, Frontend developers have shown partiality towards React, with Vue.js and Angular tagging behind closely. Comparative interest in Vue has held back a bit due to the long-awaited and somewhat delayed Vue 3.0 release. Similarly, the interest in Angular has decreased due to the long delay in shipping Ivy (its frontend renderer).
 
-### [105. A Step-by-Step Guide to Building a Simple Next.js 13 Blog](https://hackernoon.com/a-step-by-step-guide-to-building-a-simple-nextjs-13-blog)
-![](https://cdn.hackernoon.com/images/rIVD9uGtDyTmdfox8lpMYgJi5AZ2-wv93vgf.jpeg)
-Building a simple blog with Next.js 13
-
-### [106. Using ChatGPT to Code an Entire Portfolio Website](https://hackernoon.com/using-chatgpt-to-code-an-entire-portfolio-website)
+### [105. Using ChatGPT to Code an Entire Portfolio Website](https://hackernoon.com/using-chatgpt-to-code-an-entire-portfolio-website)
 ![](https://cdn.hackernoon.com/images/UPj89hwu6vfiCaqSkcDwX8zhXPO2-ugm2h07.png)
 Using ChatGPT to create a custom portfolio website in record time! I discuss ChatGPT's strengths, weaknesses, and tip and tricks to use while coding. 
+
+### [106. A Step-by-Step Guide to Building a Simple Next.js 13 Blog](https://hackernoon.com/a-step-by-step-guide-to-building-a-simple-nextjs-13-blog)
+![](https://cdn.hackernoon.com/images/rIVD9uGtDyTmdfox8lpMYgJi5AZ2-wv93vgf.jpeg)
+Building a simple blog with Next.js 13
 
 ### [107. When and How to Use useMemo in React](https://hackernoon.com/when-and-how-to-use-usememo-in-react)
 ![](https://cdn.hackernoon.com/images/D59iQWrw9NWwRKT3HJ1zyatfnf02-yc93plg.jpeg)
@@ -633,13 +635,13 @@ In this article, we're going to walk through some of the basic setup for Slash G
 ![](https://cdn.hackernoon.com/images/5e2xv3y79.jpg)
 This blog post will help you build powerful search UI experiences similar to Airbnb's. I will do this using ReactiveSearch - the most popular React UI components library for building search interfaces. I will do this by breaking down the UI into components so this will be helpful to build any search UI. In the process, you will also learn about about how to work with ElasticSearch.
 
-### [157. Setting Up a Backend for React App in 15 Minutes](https://hackernoon.com/setting-up-a-backend-for-react-app-in-15-minutes-yg1n3wmd)
-![](https://cdn.hackernoon.com/drafts/262kq3wnk.png)
-Recently I have introduced Directual on Hackernoon (see Low-code for hackers). Now I would like to continue with absolutely practical post. First, I will show the general scheme of combining Directual and React, and then you will find the live-demo of building an app from scratch to production-ready Docker-container.
-
-### [158. React Image Reordering Grid Drag and Drop (Desktop and Mobile)](https://hackernoon.com/react-image-reordering-grid-drag-and-drop-desktop-and-mobile)
+### [157. React Image Reordering Grid Drag and Drop (Desktop and Mobile)](https://hackernoon.com/react-image-reordering-grid-drag-and-drop-desktop-and-mobile)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-yz92ghp.jpeg)
 Full story of my implementation of the DnD feature on mobile devices with examples on codesandbox.
+
+### [158. Setting Up a Backend for React App in 15 Minutes](https://hackernoon.com/setting-up-a-backend-for-react-app-in-15-minutes-yg1n3wmd)
+![](https://cdn.hackernoon.com/drafts/262kq3wnk.png)
+Recently I have introduced Directual on Hackernoon (see Low-code for hackers). Now I would like to continue with absolutely practical post. First, I will show the general scheme of combining Directual and React, and then you will find the live-demo of building an app from scratch to production-ready Docker-container.
 
 ### [159. Takeaways on Building a React Based App with Electron](https://hackernoon.com/publishing-a-react-based-app-with-electron-and-nodejs-f5ec44169366)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-e503adx.png)
@@ -657,13 +659,13 @@ Building user interfaces is also now possible using a JavaScript library named R
 ![](https://cdn.hackernoon.com/drafts/peq3xg8.png)
 At Leave Me Alone we use Google and Microsoft OAuth for user sign in. To do this we redirect the user to the relevant login page, the user input their details, and is then directed back to our site and logged in. An unfortunate result of this is that our analytics report a great deal of referral traffic coming from “accounts.google.com” and “login.microsoft.com”. 
 
-### [163. 2019 in Frontend Development: JS, TS, React, Vue & More](https://hackernoon.com/a-recap-of-frontend-development-in-2019-n91o3bum)
-![](https://cdn.hackernoon.com/images/txr3bsx.jpg)
-Originally published on gitconnected.com
-
-### [164. How to Set up ReCAPTCHA in Your React Application](https://hackernoon.com/how-to-set-up-recaptcha-in-your-react-application)
+### [163. How to Set up ReCAPTCHA in Your React Application](https://hackernoon.com/how-to-set-up-recaptcha-in-your-react-application)
 ![](https://cdn.hackernoon.com/images/fJowWHavL0XT8jKc2lCn9VB199e2-7we20og.jpeg)
 reCAPTCHA is a tool that can protect your applications from fraudulent actions.
+
+### [164. 2019 in Frontend Development: JS, TS, React, Vue & More](https://hackernoon.com/a-recap-of-frontend-development-in-2019-n91o3bum)
+![](https://cdn.hackernoon.com/images/txr3bsx.jpg)
+Originally published on gitconnected.com
 
 ### [165. 12 Fun Challenges to Learn React Native](https://hackernoon.com/12-fun-challenges-to-learn-react-native-1m4g3egq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQYEGAV74JcR17hx9Oej6aJp5WKd2-8h8j3xlt.png?alt=media&token=45522113-c934-44c5-9b01-ca57ba38aea5)
@@ -701,13 +703,13 @@ People aren’t clear about React-Bootstrap vs Reactstrap. If you want to know, 
 ![](https://cdn.hackernoon.com/images/tRxiCl2rZwfH05Gq3drx5CjaYlH2-hne39ph.gif)
 To create an animated heart ❤️ use:  react-animated-heart.
 
-### [174. React + Express + Typescript Boilerplate with Performance and Extended Functionality](https://hackernoon.com/full-stack-react-typescript-express-project-with-advanced-features-ts4m308w)
-![](https://cdn.hackernoon.com/drafts/3p1jz30sr.png)
-Why Another Boilerplate
-
-### [175. Next.js vs React: Who Wins the Battle?](https://hackernoon.com/nextjs-vs-react-who-wins-the-battle)
+### [174. Next.js vs React: Who Wins the Battle?](https://hackernoon.com/nextjs-vs-react-who-wins-the-battle)
 ![](https://cdn.hackernoon.com/images/7DtulTMuZUNhuHGe0I2LlQhRAdu1-yza3pzb.jpeg)
 There are two popular options for creating web applications with React: Next.js and React Router. Both have their pros and cons, but which one.
+
+### [175. React + Express + Typescript Boilerplate with Performance and Extended Functionality](https://hackernoon.com/full-stack-react-typescript-express-project-with-advanced-features-ts4m308w)
+![](https://cdn.hackernoon.com/drafts/3p1jz30sr.png)
+Why Another Boilerplate
 
 ### [176. Bridging Design and Development: Creating an Open-Source Portfolio Website Template for Designers](https://hackernoon.com/bridging-design-and-development-creating-an-open-source-portfolio-website-template-for-designers)
 ![](https://cdn.hackernoon.com/images/ZxYrjLtEfXcqbau0aq9QJo7Kb162-yj0341n.png)
@@ -741,13 +743,13 @@ In PART ONE of this tutorial, we coded the smart contract part of this applicati
 ![](https://cdn.hackernoon.com/images/541r0RExUOQ3nFAQs7oJuST9Axf2-6m5i31qd.jpeg)
 Build Hamburger Menu in ReactJS. Using this method you can create different types of Hamburger Menu. How to build Hamburger Menu?
 
-### [184. Introducing Tailwind CSS: Pros and Cons of Tailwind](https://hackernoon.com/introducing-tailwind-css-pros-and-cons-of-tailwind-hd2k3zt2)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNDIHgstQxNhYNQKgsXo6NLuPg9m1-wm2d3xqe.jpeg?alt=media&token=81bddab1-f820-4d74-8b7a-67978082e561)
-As you might notice, Tailwind CSS has become popular among the developer community. I'm a big Tailwind fan and recently, I've built several React projects with Tailwind CSS. In this article, I'll describe why Tailwind CSS has brought so much value to the front-end development community.
-
-### [185. React Tutorial: How To Build a Virtualized List with Infinite Scroll and a Hook](https://hackernoon.com/react-tutorial-how-to-build-a-virtualized-list-with-infinite-scroll-and-a-hook-3x1w3611)
+### [184. React Tutorial: How To Build a Virtualized List with Infinite Scroll and a Hook](https://hackernoon.com/react-tutorial-how-to-build-a-virtualized-list-with-infinite-scroll-and-a-hook-3x1w3611)
 ![](https://cdn.hackernoon.com/images/jgvl75J01zfc9i0NsYvVgqlVkkh2-tcnz39ku.jpeg)
 When rendering a large set of data (e.g. list, table, etc.) in React, we all face performance/memory troubles. However, we can use the technique of DOM recycling to solve the troubles.
+
+### [185. Introducing Tailwind CSS: Pros and Cons of Tailwind](https://hackernoon.com/introducing-tailwind-css-pros-and-cons-of-tailwind-hd2k3zt2)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNDIHgstQxNhYNQKgsXo6NLuPg9m1-wm2d3xqe.jpeg?alt=media&token=81bddab1-f820-4d74-8b7a-67978082e561)
+As you might notice, Tailwind CSS has become popular among the developer community. I'm a big Tailwind fan and recently, I've built several React projects with Tailwind CSS. In this article, I'll describe why Tailwind CSS has brought so much value to the front-end development community.
 
 ### [186. Tutorial: Building A Hangman Game With React Hooks](https://hackernoon.com/tutorial-building-a-hangman-game-with-react-hooks-c22c354a)
 ![](https://cdn.hackernoon.com/images/ZwjO7PEdYqYaLstPk7RrFT7qwdn1-wf2v37z4.jpeg)
@@ -805,17 +807,17 @@ I never know which frontend framework is my favorite. So, I put them all to the 
 ![](https://cdn.hackernoon.com/images/u3PwjTbcjTYeKEwwfOj8yq9247G2-sz1s3159.jpeg)
 Much time has passed since the birth of AngularJS. In fact, AngularJS is already outdated, and given how fast front-end technologies grow, its value will depreciate further as new frameworks gain popularity and conquer the open-source community.
 
-### [200. A Guide to Building an Image Generator with React and OpenAI](https://hackernoon.com/a-guide-to-building-an-image-generator-with-react-and-openai)
+### [200. The Top React Reporting Tools](https://hackernoon.com/the-top-react-reporting-tools)
+![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-vk03462.png)
+Explore the top React reporting tools and their notable features for your applications in this review of leading options.
+
+### [201. A Guide to Building an Image Generator with React and OpenAI](https://hackernoon.com/a-guide-to-building-an-image-generator-with-react-and-openai)
 ![](https://cdn.hackernoon.com/images/GFxWNaVUGadCuz5svjQlUTu1iz12-9pd36hu.jpeg)
 This guide has discussed the steps involved in building an image generator with React and OpenAI. 
 
-### [201. Integrate Face Recognition in Your Web Application in 5 Minutes](https://hackernoon.com/integrate-face-recognition-in-your-web-application-in-5-minutes)
+### [202. Integrate Face Recognition in Your Web Application in 5 Minutes](https://hackernoon.com/integrate-face-recognition-in-your-web-application-in-5-minutes)
 ![](https://cdn.hackernoon.com/images/TuZs7lYkToZkOwnvwaCU8cXCSGJ2-j293o93.png)
 In this blog, I will be introducing you to Faceio’s face recognition authentication and I will be building a simple app to showcase the way to integrate it.
-
-### [202. The Top React Reporting Tools](https://hackernoon.com/the-top-react-reporting-tools)
-![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-vk03462.png)
-Explore the top React reporting tools and their notable features for your applications in this review of leading options.
 
 ### [203. Building a Stateful Bottom Sheet Component in React](https://hackernoon.com/building-a-stateful-bottom-sheet-component-in-react)
 ![](https://cdn.hackernoon.com/images/yQlDE7WyH8agYkQFBq6KSDhPamH3-nx94uy5.jpeg)
@@ -841,13 +843,13 @@ This blog post is a small tutorial in which I show you how you can create a grad
 ![](https://cdn.hackernoon.com/images/K19Ut5KCZFSiuWGZtFpWBYbdXH53-gw93ooj.jpeg)
 The Micro Frontend style of architecture design does for the frontend of an application what microservices do for the backend.
 
-### [209. How to Give Your React Navbar Search Functionality](https://hackernoon.com/how-to-give-your-react-navbar-search-functionality)
-![](https://cdn.hackernoon.com/images/ZuuM3fSjXmf2oETrekt5pezKail2-hm93qji.jpeg)
-This article shows you how to configure the search input. How to show / hide it, change the caption, add an icon, handle callback and how to style it;
-
-### [210. How <Suspense /> and Components Streaming works in Next.js](https://hackernoon.com/how-lesssuspense-greater-and-components-streaming-works-in-nextjs)
+### [209. How <Suspense /> and Components Streaming works in Next.js](https://hackernoon.com/how-lesssuspense-greater-and-components-streaming-works-in-nextjs)
 ![](https://cdn.hackernoon.com/images/Y26OVi0lSWPunl54mcBvdXRVdlX2-q193y2h.jpeg)
 Dive into Next.js's <Suspense />, exploring component streaming and chunked encoding. Learn how it optimizes content delivery for a seamless user experience.
+
+### [210. How to Give Your React Navbar Search Functionality](https://hackernoon.com/how-to-give-your-react-navbar-search-functionality)
+![](https://cdn.hackernoon.com/images/ZuuM3fSjXmf2oETrekt5pezKail2-hm93qji.jpeg)
+This article shows you how to configure the search input. How to show / hide it, change the caption, add an icon, handle callback and how to style it;
 
 ### [211. Create a Ruby on Rails (Rails-Postgresql-React) App using Docker Compose](https://hackernoon.com/create-a-ruby-on-rails-rails-postgresql-react-app-using-docker-compose)
 ![](https://cdn.hackernoon.com/images/1T3oCWdeB5Ngves2c7TUliJbvAL2-6d229lp.jpeg)
@@ -881,13 +883,13 @@ Use zsh functions to create command line alias that determines local package man
 ![](https://images.unsplash.com/photo-1548345680-f5475ea5df84?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 This post will cover a topic that has been key in many applications and will focus on a solution working fully on the background and the most interesting part of all: working from Android 4.4 (SDK 19) to the most recent version at the time of writing which is Android Oreo (SDK 27).
 
-### [219. Deploy a React App to Heroku with Bitbucket pipelines](https://hackernoon.com/deploy-a-react-app-to-heroku-with-bitbucket-pipelines-3de3uac)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrZXnnoiU31XKlWHDg0i8isa9kQs1-fy8m2a53.png?alt=media&token=756f7379-7e0a-475a-83ca-4b39ba17f1d6)
-Hello world!
-
-### [220. How To Send Emails with Nodejs and EmailJS Module](https://hackernoon.com/how-to-send-emails-with-nodejs-and-emailjs-module-dk1133dx)
+### [219. How To Send Emails with Nodejs and EmailJS Module](https://hackernoon.com/how-to-send-emails-with-nodejs-and-emailjs-module-dk1133dx)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-w915313g.jpeg)
 It’s 2021 and JavaScript has taken over the development landscape. At this point there is a JavaScript library or framework for everything. So you have a few different options if you want to send emails directly from your browser side code. For example you can always just include your email handle in a link. If your users have their system set up correctly a simple click will open their email account with your email in the mailto: slot(aka send). However as a developer this seems less than ideal because it requires  that your users have the proper set up to handle the action. 
+
+### [220. Deploy a React App to Heroku with Bitbucket pipelines](https://hackernoon.com/deploy-a-react-app-to-heroku-with-bitbucket-pipelines-3de3uac)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrZXnnoiU31XKlWHDg0i8isa9kQs1-fy8m2a53.png?alt=media&token=756f7379-7e0a-475a-83ca-4b39ba17f1d6)
+Hello world!
 
 ### [221. React: Redux Reducer With Object](https://hackernoon.com/react-redux-reducer-with-object)
 ![](https://cdn.hackernoon.com/images/bJhO5rQ8YEXR3EYepSwWj0CImyZ2-ni93rlt.jpeg)
@@ -897,13 +899,13 @@ Many developers using React use Redux for state management. React Redux lets the
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-5h93sb8.jpeg)
 Now, it's time for you to learn the ultimate trick in building a decentralized voting system.
 
-### [223. You Might Not Need Controlled Components - A React Story](https://hackernoon.com/you-might-not-need-controlled-components-fy1g360o)
-![](https://cdn.hackernoon.com/drafts/8y1t136om.png)
-If you'll go to the official React website it says that the recommended way to use inputs is to control them via React state. It also mentions that in some cases you can go with an uncontrolled option but do not say what are these cases explicitly. Let’s try to dive into it and see the pros and cons of this approach.
-
-### [224. How to Create a Modern Skeleton Loader in React to Improve User Experience](https://hackernoon.com/how-to-create-a-modern-skeleton-loader-in-react-to-improve-user-experience)
+### [223. How to Create a Modern Skeleton Loader in React to Improve User Experience](https://hackernoon.com/how-to-create-a-modern-skeleton-loader-in-react-to-improve-user-experience)
 ![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-mqg3sbm.jpeg)
 Improve user experience with a skeleton loader in React. Mimic page layout with placeholder boxes for text and images while actual content loads.
+
+### [224. You Might Not Need Controlled Components - A React Story](https://hackernoon.com/you-might-not-need-controlled-components-fy1g360o)
+![](https://cdn.hackernoon.com/drafts/8y1t136om.png)
+If you'll go to the official React website it says that the recommended way to use inputs is to control them via React state. It also mentions that in some cases you can go with an uncontrolled option but do not say what are these cases explicitly. Let’s try to dive into it and see the pros and cons of this approach.
 
 ### [225. How to Manage Reusable UI Components](https://hackernoon.com/how-to-manage-reusable-ui-components-iu1x32up)
 ![](https://cdn.hackernoon.com/images/tz1mk3yx7.jpg)
@@ -1037,13 +1039,13 @@ Higher Order Components are actually a design pattern derived from the compositi
 ![](https://cdn.hackernoon.com/images/MIq3LAf1OoPW35o7MBmd2s51rcB3-cz0378l.jpeg)
 Using GraphQL together with TypeScript can have huge advantages, as you can use your GraphQL schema to create TypeScript type definitions on the fly!
 
-### [258. The Best 10 React Development Tools](https://hackernoon.com/the-10-best-react-development-tools)
-![](https://cdn.hackernoon.com/images/4sYzMFfsifXntKzPUjgUipJUb1K2-e81377f.jpeg)
-In this article, we will talk about the top 10 React development tools in depth.
-
-### [259. Gatsby Won Against Next.js in this Heads Up Competition](https://hackernoon.com/gatsby-won-against-nextjs-in-this-heads-up-competition-xa7p3ysc)
+### [258. Gatsby Won Against Next.js in this Heads Up Competition](https://hackernoon.com/gatsby-won-against-nextjs-in-this-heads-up-competition-xa7p3ysc)
 ![](https://cdn.hackernoon.com/images/t71b2e95.gif)
 A comparison of static site generators and how server-side rendering hurt performance
+
+### [259. The Best 10 React Development Tools](https://hackernoon.com/the-10-best-react-development-tools)
+![](https://cdn.hackernoon.com/images/4sYzMFfsifXntKzPUjgUipJUb1K2-e81377f.jpeg)
+In this article, we will talk about the top 10 React development tools in depth.
 
 ### [260. How to Build a Glorious Web3.0 DAO with React, Solidity, and CometChat](https://hackernoon.com/how-to-build-a-glorious-web30-dao-with-react-solidity-and-cometchat)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-ln93r29.jpeg)
@@ -1069,13 +1071,13 @@ Learn everything you need to know about Front End Development via these 302 free
 ![](https://cdn.hackernoon.com/images/m0lHZxJFuqhBFL6Q8Csl4Zdjzf12-0b93zfa.jpeg)
 Learn how to generate dynamic PDFs by taking inputs from user. Some of the use-cases include generating invoices, resumes, reports based on data.
 
-### [266. Enzyme Is Dead — Here's How You Can Migrate](https://hackernoon.com/enzyme-is-dead-heres-how-you-can-migrate)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1z92h8u.jpeg)
-Enzyme is dead and will no longer release official adapters compatible with future versions of React.
-
-### [267. Getting Started with React Server Components: A Step-by-Step Tutorial](https://hackernoon.com/getting-started-with-react-server-components-a-step-by-step-tutorial)
+### [266. Getting Started with React Server Components: A Step-by-Step Tutorial](https://hackernoon.com/getting-started-with-react-server-components-a-step-by-step-tutorial)
 ![](https://cdn.hackernoon.com/images/server-dominating-browser-app-vwxprqjxpd9yweh29tgedg0x.png)
 React Server Components are a new feature that lets you build apps that combining the interactivity of client-side apps with the performance of server rendering
+
+### [267. Enzyme Is Dead — Here's How You Can Migrate](https://hackernoon.com/enzyme-is-dead-heres-how-you-can-migrate)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1z92h8u.jpeg)
+Enzyme is dead and will no longer release official adapters compatible with future versions of React.
 
 ### [268. The Best Complex Frontend Architecture: What You Need to Know About Feature-Sliced Design](https://hackernoon.com/the-best-complex-frontend-architecture-what-you-need-to-know-about-feature-sliced-design)
 ![](https://cdn.hackernoon.com/images/9XknCnZTKoYkhLw6ANWS7J1i9RQ2-lv833hd.jpeg)
@@ -1117,17 +1119,17 @@ React components are simply functions. Some are created with classes, better kno
 ![](https://cdn.hackernoon.com/images/chatbot-app-clc8nr6nj000001s6eel4a0b4.png)
 this tutorial walks through the process of building a react chat application using the MinChat chat sdk and React.js .
 
-### [278. How to Build an Ethereum Transaction App with React and Solidity: Part 1](https://hackernoon.com/build-your-own-ethereum-transaction-app-with-react-and-solidity-part-1)
+### [278. Is There a High Demand for React Programmers?](https://hackernoon.com/is-there-a-high-demand-for-react-programmers-lm2737sx)
+![](https://cdn.hackernoon.com/images/Y76EDykTOcVA82Su65bt4Ms454W2-8t8x35uk.png)
+React.js is one of the most demanding frameworks on the market; it is now used by 31.3 percent of all professionals globally. Netflix, PayPal, eBay, Airbnb, and other leading IT companies utilise the tool to develop scalable, easy-to-maintain systems. Why are corporations so interested in implementing React.js? 
+
+### [279. How to Build an Ethereum Transaction App with React and Solidity: Part 1](https://hackernoon.com/build-your-own-ethereum-transaction-app-with-react-and-solidity-part-1)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-66039eh.jpeg)
 This tutorial will teach you how to build a decentralized blockchain application from the ground up that will interact with a ReactJs frontend.
 
-### [279. How to Build a Web3 Game eShop with React, Solidity, and CometChat](https://hackernoon.com/how-to-build-a-web3-game-eshop-with-react-solidity-and-cometchat)
+### [280. How to Build a Web3 Game eShop with React, Solidity, and CometChat](https://hackernoon.com/how-to-build-a-web3-game-eshop-with-react-solidity-and-cometchat)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-fx93ru8.jpeg)
 Web3 development is officially the new way to build web applications, and if you are not there yet, you need to catch up. The way to master building web3...
-
-### [280. Is There a High Demand for React Programmers?](https://hackernoon.com/is-there-a-high-demand-for-react-programmers-lm2737sx)
-![](https://cdn.hackernoon.com/images/Y76EDykTOcVA82Su65bt4Ms454W2-8t8x35uk.png)
-React.js is one of the most demanding frameworks on the market; it is now used by 31.3 percent of all professionals globally. Netflix, PayPal, eBay, Airbnb, and other leading IT companies utilise the tool to develop scalable, easy-to-maintain systems. Why are corporations so interested in implementing React.js? 
 
 ### [281. Introducing An Open Source Backend Server for Mobile & Web Developers](https://hackernoon.com/introducing-appwrite-an-open-source-backend-server-for-mobile-and-web-developers-jkrw31jq)
 ![](https://cdn.hackernoon.com/images/9o1nh317j.jpg)
@@ -1141,37 +1143,37 @@ This post will help you to learn how to deploy your React applications to produc
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVoLzrWnqALUBiqBNBl46VipwZuk2-hg3q28u6.png?alt=media&token=c1d7691e-1cc3-4f01-95ad-1e492342c3fc)
 Take advantage of React virtual DOM and create a single page application that behaves as a multiple page application. React Router DOM is a great tool to make this possible; in this article, I will explain how to use it.
 
-### [284. The Most In-demand Web Technologies of 2022](https://hackernoon.com/the-most-in-demand-web-technologies-of-2022)
-![](https://cdn.hackernoon.com/images/ZHAz9wv9l3eZzNLiVyAUACoJBo03-0ui309m.jpeg)
-If you want to join the Freelancing market, a good first step would be to actually understand what the market is looking for; what technologies are popular...
-
-### [285. Exploring Cross-Site Scripting (XSS): Risks, Vulnerabilities, and Prevention Measures](https://hackernoon.com/exploring-cross-site-scripting-xss-risks-vulnerabilities-and-prevention-measures)
+### [284. Exploring Cross-Site Scripting (XSS): Risks, Vulnerabilities, and Prevention Measures](https://hackernoon.com/exploring-cross-site-scripting-xss-risks-vulnerabilities-and-prevention-measures)
 ![](https://cdn.hackernoon.com/images/tWWaDZTMIINIOJvLi1j2zZT6SPn2-ft93ppe.jpeg)
 Cross-site scripting (XSS) is a common web security issue that can expose your web application and its users to various attacks. In this article, you will learn
+
+### [285. The Most In-demand Web Technologies of 2022](https://hackernoon.com/the-most-in-demand-web-technologies-of-2022)
+![](https://cdn.hackernoon.com/images/ZHAz9wv9l3eZzNLiVyAUACoJBo03-0ui309m.jpeg)
+If you want to join the Freelancing market, a good first step would be to actually understand what the market is looking for; what technologies are popular...
 
 ### [286. Why Rust is Meant to Replace C](https://hackernoon.com/why-rust-is-meant-to-replace-c-xf8l3yei)
 ![](https://cdn.hackernoon.com/drafts/6iu63y8i.png)
 The Rust programming language is an ambitious project of the Mozilla Foundation – a language that claims to be the next step in evolution of C and C++. Over the years of existence of these languages some of their basic flaws still haven’t been fixed, like segmentation errors, manual memory control, risks of memory leaks and unpredictable compiler behavior. Rust was created to solve these problems while improving security and performance along the way.
 
-### [287. Integrating Redux to your React App [A Step by Step Guide]](https://hackernoon.com/integrating-redux-to-your-react-app-a-step-by-step-guide-x02z32jb)
-![](https://cdn.hackernoon.com/drafts/vz3qu3y8i.png)
-My first approach to React was enough to fall in love with this framework: it's easy to work with, has a simple syntax, and it's so fast that you can build a simple application in less than a day.
-
-### [288. Designer to Developer Handoff: How to Build a React Component from a Figma Design File](https://hackernoon.com/designer-to-developer-handoff-how-to-build-a-react-component-from-a-design-file)
+### [287. Designer to Developer Handoff: How to Build a React Component from a Figma Design File](https://hackernoon.com/designer-to-developer-handoff-how-to-build-a-react-component-from-a-design-file)
 ![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-u7r313r.jpeg)
 AWS Amplify allows you to build an application from Figma and import the components into React. With the help of Amplify, the tool creates reusable components
 
-### [289. React Hooks In Depth Part #1: Introduction](https://hackernoon.com/react-hooks-63192d1d)
+### [288. Integrating Redux to your React App [A Step by Step Guide]](https://hackernoon.com/integrating-redux-to-your-react-app-a-step-by-step-guide-x02z32jb)
+![](https://cdn.hackernoon.com/drafts/vz3qu3y8i.png)
+My first approach to React was enough to fall in love with this framework: it's easy to work with, has a simple syntax, and it's so fast that you can build a simple application in less than a day.
+
+### [289. Heatmap Visualization With Deck.gl ](https://hackernoon.com/heatmap-visualization-with-deckgl)
+![](https://cdn.hackernoon.com/images/lmcwhIPXHyPIgqoOoDrA9xd8umf1-67b3p4n.jpeg)
+Heatmaps are a very popular type of geo data visualization that are commonly used to display large amounts of location-based data.
+
+### [290. React Hooks In Depth Part #1: Introduction](https://hackernoon.com/react-hooks-63192d1d)
 ![](https://cdn.hackernoon.com/images/ssoy2gs8.jpg)
 Note: This is the first article in a series of articles where we will cover React Hooks in Depth and try to understand their usage.
 
-### [290. Implement Password Validation With Strength Meter From Scratch With React Hooks](https://hackernoon.com/implement-password-validation-with-strength-meter-from-scratch-with-react-hooks)
+### [291. Implement Password Validation With Strength Meter From Scratch With React Hooks](https://hackernoon.com/implement-password-validation-with-strength-meter-from-scratch-with-react-hooks)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-owb3peb.jpeg)
 Security is a priority when building apps and you want to let users know how strong their passwords are during sign up while giving good user experience.
-
-### [291. Heatmap Visualization With Deck.gl ](https://hackernoon.com/heatmap-visualization-with-deckgl)
-![](https://cdn.hackernoon.com/images/lmcwhIPXHyPIgqoOoDrA9xd8umf1-67b3p4n.jpeg)
-Heatmaps are a very popular type of geo data visualization that are commonly used to display large amounts of location-based data.
 
 ### [292. The Ugly Side of React Hooks](https://hackernoon.com/update-react-request-for-comment-to-the-ugly-side-of-react-hooks-8l3b3eha)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4p7fglDaoVNMZqZvIciuHwFTkC52-v61e3tbh.jpeg?alt=media&token=97486381-8d9a-4de2-a40c-4e49eed61d71)
@@ -1234,13 +1236,13 @@ Unlock the power of data storytelling with Highcharts & React, crafting vibrant 
 ![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-ua23ii8.jpeg)
 Data visualization helps you transform your unorganized data in an organized and valuable way that conveys the right message to your audience without words.
 
-### [307. Implement Dark Mode in Your React Apps Using SCSS [A Step By Step Guide]](https://hackernoon.com/implement-dark-mode-in-your-react-apps-using-scss-a-step-by-step-guide-u6fd329h)
-![](https://cdn.hackernoon.com/images/iv14u2al5.jpg)
-Implementing dark mode is as simple as calling a toggle on your classes.
-
-### [308. How to Pass Components Via Props in React](https://hackernoon.com/how-to-pass-components-via-props-in-react)
+### [307. How to Pass Components Via Props in React](https://hackernoon.com/how-to-pass-components-via-props-in-react)
 ![](https://cdn.hackernoon.com/images/PzR8ZTkpXKV9Jijt5uz2hfy9Gi33-zb83xgp.jpeg)
 Advanced React techniques like passing components as props for enhanced reusability and building dynamic interfaces effortlessly
+
+### [308. Implement Dark Mode in Your React Apps Using SCSS [A Step By Step Guide]](https://hackernoon.com/implement-dark-mode-in-your-react-apps-using-scss-a-step-by-step-guide-u6fd329h)
+![](https://cdn.hackernoon.com/images/iv14u2al5.jpg)
+Implementing dark mode is as simple as calling a toggle on your classes.
 
 ### [309. How to Upload A CSV File In Python](https://hackernoon.com/how-to-upload-a-csv-file-in-python)
 ![](https://cdn.hackernoon.com/images/0sm1KIKmbZhu9AD2GAr4cKywoN43-f493nwb.jpeg)
@@ -1290,13 +1292,13 @@ This is the story how a customer made me loose $1000 on moving stuff by 1px. It 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZcvfyVxI3KNhEQxQ9H6wfvhdWlW2-tr6a3utu.webp?alt=media&token=c6160efd-fffd-4e73-89c2-257928f0fb83)
 Ever wondered why developers are going for Axios over fetch? As we are aware both are the means to deal with HTTP or XMLHttp requests, Both are capable of making all types of API calls (get, post,put.. etc.). Both are based on Promise API which is native to ES6. But what are the major points to be noted?
 
-### [321. How to Integrate the Paytm Payment Gateway in Your React Native Apps](https://hackernoon.com/how-to-integrate-the-paytm-payment-gateway-in-your-react-native-apps)
-![](https://cdn.hackernoon.com/images/F6gvkieDEJMJM2OCYAgi8dwAoeE3-nocg39ar.jpeg)
-A step-by-step guide to integrating the paytm payment gateway in React Native Apps.
-
-### [322. How Atoms Fixed Flux](https://hackernoon.com/how-atoms-fixed-flux)
+### [321. How Atoms Fixed Flux](https://hackernoon.com/how-atoms-fixed-flux)
 ![](https://cdn.hackernoon.com/images/dgMWclIH0hOQrGwUJQcwZOCc97j1-r2d3pzt.jpeg)
 The Flux architecture echoes throughout modern React state managers. Atomic libraries fulfill the original vision of Flux better than Flux ever could.
+
+### [322. How to Integrate the Paytm Payment Gateway in Your React Native Apps](https://hackernoon.com/how-to-integrate-the-paytm-payment-gateway-in-your-react-native-apps)
+![](https://cdn.hackernoon.com/images/F6gvkieDEJMJM2OCYAgi8dwAoeE3-nocg39ar.jpeg)
+A step-by-step guide to integrating the paytm payment gateway in React Native Apps.
 
 ### [323. Authentication Using the Auth0 to a React Application](https://hackernoon.com/authentication-using-the-auth0-to-an-react-application)
 ![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-jl92jth.jpeg)
@@ -1306,42 +1308,42 @@ Application example built with React with authentication using the Auth0 service
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-6x930s6.jpeg)
 I am sure that when you first begin learning full-stack web development using the MERN stack, you will have questions.
 
-### [325. Top 15 React Interview Questions & Answers You Need To Know in 2022](https://hackernoon.com/top-15-react-interview-questions-and-answers-you-need-to-know-in-2022)
+### [325. How To Create A User Portal On Airtable With Sync Inc And React](https://hackernoon.com/how-to-create-a-user-portal-on-airtable-with-sync-inc-and-react-nd1c35h9)
+![](https://cdn.hackernoon.com/images/nUXzVZ9txdgpJy0AIouC9R4THH13-5w9r327s.png)
+In this tutorial, you’ll see how to build a scalable, secure, and flexible client portal on Airtable using Sync Inc, Cotter, and Next.js.
+
+### [326. Top 15 React Interview Questions & Answers You Need To Know in 2022](https://hackernoon.com/top-15-react-interview-questions-and-answers-you-need-to-know-in-2022)
 ![](https://cdn.hackernoon.com/images/7DtulTMuZUNhuHGe0I2LlQhRAdu1-wl93pht.jpeg)
 In this article, we'll go over some of the most common React interview questions and how to answer them.
 
-### [326. How To Simplify Your Application State Management](https://hackernoon.com/how-to-simplify-your-application-state-management-as6n3wz8)
+### [327. How To Simplify Your Application State Management](https://hackernoon.com/how-to-simplify-your-application-state-management-as6n3wz8)
 ![](https://cdn.hackernoon.com/images/sv5x3wol.gif)
 The Introduction
 
-### [327. How to Transition from Full-Stack Developer to Web3 Pioneer in 2022](https://hackernoon.com/how-to-transition-from-full-stack-developer-to-web3-pioneer-in-2022)
+### [328. How to Transition from Full-Stack Developer to Web3 Pioneer in 2022](https://hackernoon.com/how-to-transition-from-full-stack-developer-to-web3-pioneer-in-2022)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-de93ih7.jpeg)
 Looking to dive into Web3 development? Here is an intro and quick example of how full-stack developers can get started in the decentralized web.
-
-### [328. How to Learn Enough React to be Dangerous](https://hackernoon.com/how-to-learn-enough-react-to-be-dangerous)
-![](https://cdn.hackernoon.com/images/aMtiSULDw4Tkj5LGaCQak8Pcy4D2-i0038fs.jpeg)
-Most of React courses are outdated. Best up to date resources to learn React in 2021 NetNinja Codeevolution.
-Focus on Hooks and functional components
 
 ### [329. Infinite Scrolling vs Pagination: Making the Right Choice for React Apps](https://hackernoon.com/infinite-scrolling-vs-pagination-making-the-right-choice-for-react-apps)
 ![](https://cdn.hackernoon.com/images/vcNYDkWp01cxcapxGeAByVkmA6j1-kj837ri.jpeg)
 Though infinite scrolling & pagination offer viable options for handling large datasets in React applications, check here what suites you best.
 
-### [330. How to Develop a Signup system with React, Redux, and Rails](https://hackernoon.com/how-to-develop-a-signup-system-with-react-redux-and-rails-1g1k32nh)
+### [330. How to Learn Enough React to be Dangerous](https://hackernoon.com/how-to-learn-enough-react-to-be-dangerous)
+![](https://cdn.hackernoon.com/images/aMtiSULDw4Tkj5LGaCQak8Pcy4D2-i0038fs.jpeg)
+Most of React courses are outdated. Best up to date resources to learn React in 2021 NetNinja Codeevolution.
+Focus on Hooks and functional components
+
+### [331. How to Develop a Signup system with React, Redux, and Rails](https://hackernoon.com/how-to-develop-a-signup-system-with-react-redux-and-rails-1g1k32nh)
 ![](https://cdn.hackernoon.com/drafts/457xp3yhk.png)
 I have always been fascinated with one’s ability to create or recreate. Software development for gives me a way to translate my imaginations into useful tangible things. The feeling I get after going through challenges to figure out how to put my ideas together, is incomparable. Full-stack development is the combination of both front-end technologies and back-end technologies to create a fully functional application. In this tutorial, we are going to combine front-end technology called React and Redux with a back-end technology called Rails to create a simple sign-up system.
 
-### [331. Cats Taking Over: How to Make a Random Cat Image Generator With React and Cat API](https://hackernoon.com/cats-taking-over-how-to-make-a-random-cat-image-generator-with-react-and-cat-api-ke3s3wrg)
+### [332. Cats Taking Over: How to Make a Random Cat Image Generator With React and Cat API](https://hackernoon.com/cats-taking-over-how-to-make-a-random-cat-image-generator-with-react-and-cat-api-ke3s3wrg)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FU6xUV5JDfIempveh8o2Whnpj8qh2-wt283wxf.jpeg?alt=media&token=a328d26a-7056-421c-9adf-0b3173dc87a4)
 Easy guide to filling your life with (more) internet cats by making a random cat image generator with React and Cat API. If you prefer video format then I have already made a video on YT:
 
-### [332. How to Use React to Replace useEffect](https://hackernoon.com/how-to-use-react-to-replace-useeffect)
+### [333. How to Use React to Replace useEffect](https://hackernoon.com/how-to-use-react-to-replace-useeffect)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-75a3syg.jpeg)
 useEffect is a hook that allows us to perform side effects in function components. It combines componentDidMount, componentDidUpdate, and componentWillUnmount 
-
-### [333. How To Create A User Portal On Airtable With Sync Inc And React](https://hackernoon.com/how-to-create-a-user-portal-on-airtable-with-sync-inc-and-react-nd1c35h9)
-![](https://cdn.hackernoon.com/images/nUXzVZ9txdgpJy0AIouC9R4THH13-5w9r327s.png)
-In this tutorial, you’ll see how to build a scalable, secure, and flexible client portal on Airtable using Sync Inc, Cotter, and Next.js.
 
 ### [334. How to Create Your First React Profile Page!](https://hackernoon.com/how-to-create-your-first-react-profile-page)
 ![](https://cdn.hackernoon.com/images/X2VpP4YrC8b6gvjvq2TCepEGRtQ2-ema339a.gif.webp)
@@ -1351,37 +1353,37 @@ Creating a profile page in React is not only essential but also super fun! It le
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-p093psu.jpeg)
 In this tutorial, we will start with creating the game board.
 
-### [336. Reactive Programming](https://hackernoon.com/reactive-programming)
-![](https://hackernoon.imgix.net/hn-images/1*U1dLLKv5ivCsAc1vUxIU5w.png)
-Mostly Front-end developers who are listening <strong>Reactive </strong>word first time they confuse it with <strong>React </strong>library. Actually it’s completely different.
-
-### [337. 5 JavaScript Trends To Watch Out In 2020](https://hackernoon.com/5-javascript-trends-to-watch-out-in-2020-x92c3ykt)
+### [336. 5 JavaScript Trends To Watch Out In 2020](https://hackernoon.com/5-javascript-trends-to-watch-out-in-2020-x92c3ykt)
 ![](https://cdn.hackernoon.com/images/9z243ynr.jpg)
 You think JavaScript will fade away in 2020, wait till you read this study! 
 
-### [338. React Component Testing Guide: Jest and RTL](https://hackernoon.com/react-component-testing-guide-jest-and-rtl-rx2533uz)
+### [337. Reactive Programming](https://hackernoon.com/reactive-programming)
+![](https://hackernoon.imgix.net/hn-images/1*U1dLLKv5ivCsAc1vUxIU5w.png)
+Mostly Front-end developers who are listening <strong>Reactive </strong>word first time they confuse it with <strong>React </strong>library. Actually it’s completely different.
+
+### [338. How to Use Ink-ui to Build Beautiful CLI Tools Like OpenAI’s Codex](https://hackernoon.com/how-to-use-ink-ui-to-build-beautiful-cli-tools-like-openais-codex)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-n302uz4.jpeg)
+The React invasion continues: Terminals aren’t safe anymore! How to use ink.js to build beautiful CLI tools your users will love.
+
+### [339. React Component Testing Guide: Jest and RTL](https://hackernoon.com/react-component-testing-guide-jest-and-rtl-rx2533uz)
 ![](https://hackernoon.com/images/DHOqXwtCIKY1Gm9k9zgzeImIqrk2-gx5733db.jpeg)
 This guide takes you through the basics of creating tests for React components using Jest and React Testing Library.
 
-### [339. Learning ReactJS From Scratch](https://hackernoon.com/learning-reactjs-from-scratch-pe153ubv)
+### [340. Learning ReactJS From Scratch](https://hackernoon.com/learning-reactjs-from-scratch-pe153ubv)
 ![](https://cdn.hackernoon.com/images/z2xg2bpo.jpg)
 React is a product of Facebook. It is a very flexible and efficient JavaScript library for building interactive user interfaces. React forms the view layer of the web application which is technically the frontend. This makes it easier to make web applications with essential features such as reusable components, state management, DOM rendering and many more which are explained later. React is mainly used in making single-page web applications. In this article we’ll see the fundamentals of react library and why is it so popular.
-
-### [340. Building a React App with Rails API](https://hackernoon.com/building-a-react-app-with-rails-api-nv7537w1)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-pn1d376v.jpeg)
-In this article, I will try to go through some important points of how to set up and build a Rails API with react as front-end.
 
 ### [341. Best Tools For Building Your First MERN Application](https://hackernoon.com/best-tools-for-building-your-first-mern-application)
 ![](https://hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-7np28iz.jpeg)
 Top tools to use when building your next awesome web application using the MERN stack
 
-### [342. Fetch Data From an API in React.js Using React Hooks ](https://hackernoon.com/fetch-data-from-an-api-in-reactjs-using-react-hooks)
+### [342. Building a React App with Rails API](https://hackernoon.com/building-a-react-app-with-rails-api-nv7537w1)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-pn1d376v.jpeg)
+In this article, I will try to go through some important points of how to set up and build a Rails API with react as front-end.
+
+### [343. Fetch Data From an API in React.js Using React Hooks ](https://hackernoon.com/fetch-data-from-an-api-in-reactjs-using-react-hooks)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-da13oxf.jpeg)
 Create a web page that takes a city name as input and provides weather data about the city.
-
-### [343. How to Use Ink-ui to Build Beautiful CLI Tools Like OpenAI’s Codex](https://hackernoon.com/how-to-use-ink-ui-to-build-beautiful-cli-tools-like-openais-codex)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-n302uz4.jpeg)
-The React invasion continues: Terminals aren’t safe anymore! How to use ink.js to build beautiful CLI tools your users will love.
 
 ### [344. Using Cypress and Jenkins for React E2E Testing](https://hackernoon.com/using-cypress-and-jenkins-for-react-e2e-testing)
 ![](https://cdn.hackernoon.com/images/niWRiBq2IZav07eFxPUSfD39Cbw2-km03oh3.jpeg)
@@ -1391,29 +1393,29 @@ Learn React E2E Testing with Cypress and Jenkins.
 ![](https://cdn.hackernoon.com/images/iHKErLv7KAegkfw3m5jwsrsy3J63-n8g3n0i.jpeg)
 An exact clone of youtube with all functionalities from View count to Subscribe to everything (Without Youtube Api) Using Firebase, FFmpeg, And React
 
-### [346. An Overview of Server Side and Isomorphic Async Rendering](https://hackernoon.com/an-overview-of-server-side-and-isomorphic-async-rendering-hr743bsa)
-![](images/gg1g3ad4.jpg)
-This article is aimed at developers who are interested in Server Side Rendering (SSR) but don’t know where to start or developers who are familiar with SSR but want more info on using async code splitting with SSR. If you are interested in optimizations to achieve faster page load times and smoother UX experiences, this is for you too.
-
-### [347. Top 30 Free and Paid Courses and Tutorials to Learn React in 2021 ](https://hackernoon.com/top-30-free-and-paid-courses-and-tutorials-to-learn-react-in-2021)
+### [346. Top 28 Free and Paid Courses and Tutorials to Learn React](https://hackernoon.com/top-30-free-and-paid-courses-and-tutorials-to-learn-react-in-2021)
 ![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-kc039c2.jpeg)
 Check the list of the most popular platforms to learn React. Here is a list of YouTube channels, teaching marketplaces like Udemy for all-level developers.
+
+### [347. An Overview of Server Side and Isomorphic Async Rendering](https://hackernoon.com/an-overview-of-server-side-and-isomorphic-async-rendering-hr743bsa)
+![](images/gg1g3ad4.jpg)
+This article is aimed at developers who are interested in Server Side Rendering (SSR) but don’t know where to start or developers who are familiar with SSR but want more info on using async code splitting with SSR. If you are interested in optimizations to achieve faster page load times and smoother UX experiences, this is for you too.
 
 ### [348. The Best Front-End Frameworks for UI/UX: Future-Proof Careers ](https://hackernoon.com/the-best-front-end-frameworks-for-uiux-future-proof-careers)
 ![](https://cdn.hackernoon.com/images/RnMZwfsSDPZG9OBXlKwd37WEDsH3-kc93obp.jpeg)
 The Best Front-end frameworks are future-proof and supply the best design solution to the UI experts. There are diverse options in the market for C++ and Java
 
-### [349. How to Deploy Modern Apps with AWS Amplify](https://hackernoon.com/how-to-deploy-modern-apps-with-aws-amplify)
+### [349. Embed an In-browser Code Preview into Your React Application with Sandpack](https://hackernoon.com/embed-an-in-browser-code-preview-into-your-react-application-with-sandpack)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-6903nvp.jpeg)
+Sandpack is a react library that helps you to add a live, in-browser coding environment to your react application easily.
+
+### [350. How to Deploy Modern Apps with AWS Amplify](https://hackernoon.com/how-to-deploy-modern-apps-with-aws-amplify)
 ![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-ep1d30hg.jpeg)
 Deploying a web app to AWS Amplify provides a way to host your frontend web app on the internet using its services for free which provisions a URL you can share
 
-### [350. How to Get Your Personal Website to the Next Level ](https://hackernoon.com/how-to-get-your-personal-website-to-the-next-level)
+### [351. How to Get Your Personal Website to the Next Level ](https://hackernoon.com/how-to-get-your-personal-website-to-the-next-level)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-ond3wqx.jpeg)
 The portfolio, in a sense, is a longer version of a Resume. In modern times, it’s important to showcase your work by uploading your portfolio to a website.
-
-### [351. Embed an In-browser Code Preview into Your React Application with Sandpack](https://hackernoon.com/embed-an-in-browser-code-preview-into-your-react-application-with-sandpack)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-6903nvp.jpeg)
-Sandpack is a react library that helps you to add a live, in-browser coding environment to your react application easily.
 
 ### [352. Using Client Components to Display React Server Components](https://hackernoon.com/using-client-components-to-display-react-server-components)
 ![](https://cdn.hackernoon.com/images/4bJFgJbS5WfBSw6S3fP1fTBHqKf1-hr92flv.jpeg)
@@ -1435,49 +1437,49 @@ In this post, I’d like to share my unpopular opinion on what GraphQL is really
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWvW28jEl4jUjfwJehRmZlkXmrQw2-7x5030lw.png?alt=media&token=8365cabe-bae3-4af9-94b1-3b7d4264a16f)
 NextJS is becoming a de facto framework for modern web development. In this article we will build a starter repo that you can use for every new project.
 
-### [357. MAPSTATETOPROPS & MAPDISPATCHTOPROPS: The Bad Boys of React-Redux](https://hackernoon.com/mapstatetoprops-and-mapdispatchtoprops-the-bad-boys-of-react-redux-46ig37i3)
+### [357. Top Advanced Data Grids for React](https://hackernoon.com/top-advanced-data-grids-for-react)
+![](https://cdn.hackernoon.com/images/RZ6M8wddNoQliZd5obFbiLEw8e42-my034zt.jpeg)
+This article focuses on ready-to-use React data grid components, which provide high-demand features out-of-the-box.
+
+### [358. MAPSTATETOPROPS & MAPDISPATCHTOPROPS: The Bad Boys of React-Redux](https://hackernoon.com/mapstatetoprops-and-mapdispatchtoprops-the-bad-boys-of-react-redux-46ig37i3)
 ![](https://cdn.hackernoon.com/images/lz1cf2chf.jpg)
 INTRODUCTION
 
-### [358. Choosing Between React, Gatsby, Next.js For Your Frontend](https://hackernoon.com/choosing-between-react-gatsby-nextjs-for-your-frontend)
+### [359. Choosing Between React, Gatsby, Next.js For Your Frontend](https://hackernoon.com/choosing-between-react-gatsby-nextjs-for-your-frontend)
 ![](https://cdn.hackernoon.com/images/ZHAz9wv9l3eZzNLiVyAUACoJBo03-ja930rz.jpeg)
  React, Gatsby, Next.js. Which of the three should you choose for your frontend web development and what should you understand before you make the decision?
-
-### [359. Top Advanced Data Grids for React](https://hackernoon.com/top-advanced-data-grids-for-react)
-![](https://cdn.hackernoon.com/images/RZ6M8wddNoQliZd5obFbiLEw8e42-my034zt.jpeg)
-This article focuses on ready-to-use React data grid components, which provide high-demand features out-of-the-box.
 
 ### [360. Adding a 'Sign In' Button to your React Navbar](https://hackernoon.com/adding-a-sign-in-button-to-your-react-navbar)
 ![](https://cdn.hackernoon.com/images/ZuuM3fSjXmf2oETrekt5pezKail2-2c93q57.jpeg)
 This article shows you how to implement the sign in button in the react navigation bar.
 
-### [361. Angular vs React vs Vue: The Most Versatile Programming Language for 2020](https://hackernoon.com/angular-vs-react-vs-vue-the-most-versatile-programming-language-for-2020-j3bh339m)
-![](https://cdn.hackernoon.com/drafts/1a1dx36nx.png)
-Front end development has never been so popular earlier than now.  The powerful comeback of javascript has gained an enormous advantage and the single age applications easily replaced the old traditional web apps. The apps are now more powerful with the more focus over the first gate for your app, called the user interface. 
-
-### [362. React App Configuration with TypeScript and Webpack](https://hackernoon.com/react-app-configuration-with-typescript-and-webpack-zy1q354b)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-a01k35n8.jpeg)
-A step by step guide on how to create a React project from scratch, with TypeScript and Webpack.
-
-### [363. Optimizing State Management in React Applications: From Small to Large-Scale](https://hackernoon.com/optimizing-state-management-in-react-applications-from-small-to-large-scale)
-![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-1793ymm.jpeg)
-Learn techniques for handling state effectively in large-scale React applications. 
-
-### [364. How to Transport Your Components Anywhere With React Portals](https://hackernoon.com/how-to-transport-your-components-anywhere-with-react-portals)
+### [361. How to Transport Your Components Anywhere With React Portals](https://hackernoon.com/how-to-transport-your-components-anywhere-with-react-portals)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-mb93pph.jpeg)
 To solve this problem, we can teleport the modal out of its own component and into another part of our template using createPortal.
 
-### [365. Filtering And Processing Data With useFilter Hook In React](https://hackernoon.com/filtering-and-processing-data-with-usefilter-hook-in-react-1d1834hc)
+### [362. Angular vs React vs Vue: The Most Versatile Programming Language for 2020](https://hackernoon.com/angular-vs-react-vs-vue-the-most-versatile-programming-language-for-2020-j3bh339m)
+![](https://cdn.hackernoon.com/drafts/1a1dx36nx.png)
+Front end development has never been so popular earlier than now.  The powerful comeback of javascript has gained an enormous advantage and the single age applications easily replaced the old traditional web apps. The apps are now more powerful with the more focus over the first gate for your app, called the user interface. 
+
+### [363. React App Configuration with TypeScript and Webpack](https://hackernoon.com/react-app-configuration-with-typescript-and-webpack-zy1q354b)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-a01k35n8.jpeg)
+A step by step guide on how to create a React project from scratch, with TypeScript and Webpack.
+
+### [364. Filtering And Processing Data With useFilter Hook In React](https://hackernoon.com/filtering-and-processing-data-with-usefilter-hook-in-react-1d1834hc)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-kk1k29ew.jpeg)
 A React hook to filter large amount of data using  Web Worker.
 
-### [366. Announcing Winds 2.0 — an Electron App with Support for RSS & Podcasts](https://hackernoon.com/announcing-winds-2-0-an-electron-app-with-support-for-rss-podcasts-d13dbe812477)
-![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-qw8381u.gif.webp)
-<strong>UPDATE</strong>: <a href="https://medium.com/@nparsons08/winds-2-0-public-beta-f0d27634ef91" target="_blank">https://medium.com/@nparsons08/winds-2-0-public-beta-f0d27634ef91</a>
-
-### [367. 10 Cool Data Table Libraries with Advanced Features](https://hackernoon.com/10-cool-data-table-libraries-with-advanced-features-nb4e35l2)
+### [365. 10 Cool Data Table Libraries with Advanced Features](https://hackernoon.com/10-cool-data-table-libraries-with-advanced-features-nb4e35l2)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-yh1k35i8.jpeg)
 JavaScript is on the list of requirements for a position as a web developer in any IT company at the moment. It is hard to imagine building modern web applications without JavaScript. This programming language provides IT specialists with an effective and relatively easy way to create interactive applications able to comply with the tastes of any picky customer. The choice of the JS libraries and frameworks adds dedicated followers to this language. 
+
+### [366. Optimizing State Management in React Applications: From Small to Large-Scale](https://hackernoon.com/optimizing-state-management-in-react-applications-from-small-to-large-scale)
+![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-1793ymm.jpeg)
+Learn techniques for handling state effectively in large-scale React applications. 
+
+### [367. Announcing Winds 2.0 — an Electron App with Support for RSS & Podcasts](https://hackernoon.com/announcing-winds-2-0-an-electron-app-with-support-for-rss-podcasts-d13dbe812477)
+![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-qw8381u.gif.webp)
+<strong>UPDATE</strong>: <a href="https://medium.com/@nparsons08/winds-2-0-public-beta-f0d27634ef91" target="_blank">https://medium.com/@nparsons08/winds-2-0-public-beta-f0d27634ef91</a>
 
 ### [368. How to Create a React Project From Scratch With TypeScript and Vite](https://hackernoon.com/how-to-create-a-react-project-from-scratch-with-typescript-and-vite)
 ![](https://cdn.hackernoon.com/images/creating-a-project-from-nothing-clhl4kzyp000001s6bbi6gdyu.png)
@@ -1491,81 +1493,81 @@ In this article, we will create a live broadcasting app that can accommodate num
 ![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-2092hoh.jpeg)
 Application example built with React and adding the Material UI CSS framework using the @mui/material library.
 
-### [371. How to Build a Web 3.0 App Using React, Solidity, Ethers.js, Hardhat, and Metamask](https://hackernoon.com/how-to-build-a-web-30-app-using-react-solidity-ethersjs-hardhat-and-metamask)
+### [371. Enhance Your Photos with the CSS Contrast, Brightness, Saturation, and Sepia Functions](https://hackernoon.com/enhance-your-photos-with-the-css-contrast-brightness-saturation-and-sepia-functions)
+![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-t6g3s5m.jpeg)
+Create custom Instagram filters using React and CSS. Adjust contrast, brightness, saturation, apply the sepia effect or convert images to grayscale.
+
+### [372. How to Build a Web 3.0 App Using React, Solidity, Ethers.js, Hardhat, and Metamask](https://hackernoon.com/how-to-build-a-web-30-app-using-react-solidity-ethersjs-hardhat-and-metamask)
 ![](https://cdn.hackernoon.com/images/MPQxyfch0lZHKZM3k3hMies8Fpv1-4593muh.jpeg)
 In this article, we will create a simple full-stack application using React, Hardhat, Solidity, Ethers.js, and Metamask that can be used as a boilerplate.
 
-### [372. The New Next.js and SWR Clients: What You Need to Know](https://hackernoon.com/the-new-nextjs-and-swr-clients-what-you-need-to-know)
+### [373. The New Next.js and SWR Clients: What You Need to Know](https://hackernoon.com/the-new-nextjs-and-swr-clients-what-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-yf93os5.jpeg)
 So that's it, we are now using SWR as our default data fetching library, giving you all the benefits, like optimistic updates while consuming WunderGraph APIs. 
 
-### [373. How I Remade 2048 Using React](https://hackernoon.com/how-i-remade-2048-using-react-viw37rc)
+### [374. How I Remade 2048 Using React](https://hackernoon.com/how-i-remade-2048-using-react-viw37rc)
 ![](https://cdn.hackernoon.com/images/JnwMdaVZrzSOfLb9FHlT2x1vsd62-i3ej35y1.jpeg)
 Today you will learn how to build your own clone of the 2048 game in React.
 
-### [374. Memoization in React: Powerful Tool or Hidden Pitfall?](https://hackernoon.com/memoization-in-react-powerful-tool-or-hidden-pitfall)
+### [375. Memoization in React: Powerful Tool or Hidden Pitfall?](https://hackernoon.com/memoization-in-react-powerful-tool-or-hidden-pitfall)
 ![](https://cdn.hackernoon.com/images/7XhQwEsk1Eg58rZqKidDiZMpsI93-e193679.png)
 Discover how overusing memoization in React apps can lead to performance issues. Learn where it fails and how to avoid these hidden traps in your development.
-
-### [375. Enhance Your Photos with the CSS Contrast, Brightness, Saturation, and Sepia Functions](https://hackernoon.com/enhance-your-photos-with-the-css-contrast-brightness-saturation-and-sepia-functions)
-![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-t6g3s5m.jpeg)
-Create custom Instagram filters using React and CSS. Adjust contrast, brightness, saturation, apply the sepia effect or convert images to grayscale.
 
 ### [376. Crucial React Design Patterns Every Dev Should Know](https://hackernoon.com/crucial-react-design-patterns-every-dev-should-know)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-b493p9s.jpeg)
 Checkout the various React Design Patterns to use in building React components that are extensible and reusable for your next React project.
 
-### [377. Top 7 Dark-Themed Admin Templates For Your Next Project](https://hackernoon.com/top-7-dark-themed-admin-templates-for-your-next-project-we193u6i)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-kko4vgi.jpeg?alt=media&token=6238f933-67ce-4a47-a801-b8a63c70b02c)
-If you don’t have any definite preferences in design, you should try dark colors, because dark themes look so stylish and become more and more popular. That is why we decided to find the most amazing React, Angular and Vue admin templates with dark themes. If you ever googled admin templates then you probably know that there are tons of them and that is fine to be on the fence about which one to choose. If you are not sure whether to use admin dashboards templates or not you can read the article about the benefits of admin templates. The incorrect choice of an admin template may lead to a giant waste of time and money – so it’s the decision you should think about for a while. 
+### [377. Canvas And React: A Simple Guide To Data Charts](https://hackernoon.com/canvas-and-react-a-simple-guide-to-data-charts)
+![](https://cdn.hackernoon.com/images/lmcwhIPXHyPIgqoOoDrA9xd8umf1-lec3x6m.jpeg)
+The power of canvas. Make your data visualizations flexible and performant. 
 
 ### [378. Protect Your Application by Hiding API Keys and Tokens in React - Beginners guide](https://hackernoon.com/protect-your-application-by-hiding-api-keys-and-tokens-in-react)
 ![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-4s93rlj.jpeg)
 Discover how to hide your API keys and tokens in React using environment variables with Vite and nodejs. Protect the security of your services.
 
-### [379. How to Refactor Your React Application And Connect with Redux](https://hackernoon.com/how-to-refactor-your-react-application-and-connect-with-redux-fu203ugh)
+### [379. Top 7 Dark-Themed Admin Templates For Your Next Project](https://hackernoon.com/top-7-dark-themed-admin-templates-for-your-next-project-we193u6i)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-kko4vgi.jpeg?alt=media&token=6238f933-67ce-4a47-a801-b8a63c70b02c)
+If you don’t have any definite preferences in design, you should try dark colors, because dark themes look so stylish and become more and more popular. That is why we decided to find the most amazing React, Angular and Vue admin templates with dark themes. If you ever googled admin templates then you probably know that there are tons of them and that is fine to be on the fence about which one to choose. If you are not sure whether to use admin dashboards templates or not you can read the article about the benefits of admin templates. The incorrect choice of an admin template may lead to a giant waste of time and money – so it’s the decision you should think about for a while. 
+
+### [380. How to Refactor Your React Application And Connect with Redux](https://hackernoon.com/how-to-refactor-your-react-application-and-connect-with-redux-fu203ugh)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FLJ9Zfx9Luld4QRV8mU0yiqcsw532-fi163uou.jpeg?alt=media&token=daa3cfd1-7bfe-4546-b8f2-08e156f46e5c)
 Introduction
 
-### [380. Canvas And React: A Simple Guide To Data Charts](https://hackernoon.com/canvas-and-react-a-simple-guide-to-data-charts)
-![](https://cdn.hackernoon.com/images/lmcwhIPXHyPIgqoOoDrA9xd8umf1-lec3x6m.jpeg)
-The power of canvas. Make your data visualizations flexible and performant. 
-
-### [381. Having (More) Fun Creating Components with the Lightning Design System for React](https://hackernoon.com/having-more-fun-creating-components-with-the-lightning-design-system-for-react)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-ue0376l.jpeg)
-Check out how easy it is to create a custom component using the Lightning Design System for React and some very detailed blueprints
-
-### [382. Adding Auth Flow Using SuperTokens into a React and Hasura GraphQL App](https://hackernoon.com/adding-auth-flow-using-supertokens-into-a-react-and-hasura-graphql-app)
+### [381. Adding Auth Flow Using SuperTokens into a React and Hasura GraphQL App](https://hackernoon.com/adding-auth-flow-using-supertokens-into-a-react-and-hasura-graphql-app)
 ![](https://cdn.hackernoon.com/images/tVmgy1BFDcZK1c7Ty90Zue1TAN93-ida2kpw.jpeg)
 
+
+### [382. Having (More) Fun Creating Components with the Lightning Design System for React](https://hackernoon.com/having-more-fun-creating-components-with-the-lightning-design-system-for-react)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-ue0376l.jpeg)
+Check out how easy it is to create a custom component using the Lightning Design System for React and some very detailed blueprints
 
 ### [383. How To Create React Apps From Scratch: [Part 1 - Setting Up]](https://hackernoon.com/how-to-create-react-apps-from-scratch-part-1-setting-up-medr33z6)
 ![](https://cdn.hackernoon.com/images/6d1i33v9.jpg)
 Since React is currently one of the most in-demand front-end technology, I have decided to start a course series that intends to show you how to create the React js app from scratch to finish. 
 
-### [384. Playwright and Chrome Browser Testing in Heroku: A Beginner's Guide](https://hackernoon.com/playwright-and-chrome-browser-testing-in-heroku-a-beginners-guide)
-![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-9z724gc.jpeg)
-This blog will show you how to run automated end-to-end Playwright tests for your React app with Headless Chrome on Heroku.
-
-### [385. Higher Order Components (HOC) In React: Beginners Guide](https://hackernoon.com/higher-order-components-hoc-in-react-beginners-guide-2l13335m)
+### [384. Higher Order Components (HOC) In React: Beginners Guide](https://hackernoon.com/higher-order-components-hoc-in-react-beginners-guide-2l13335m)
 ![](https://hackernoon.com/images/541r0RExUOQ3nFAQs7oJuST9Axf2-0367373o.jpeg)
 In this tutorial, we are going to learn what is higher-order components, the syntax of higher-order components, and how to use HOC in React.
+
+### [385. Playwright and Chrome Browser Testing in Heroku: A Beginner's Guide](https://hackernoon.com/playwright-and-chrome-browser-testing-in-heroku-a-beginners-guide)
+![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-9z724gc.jpeg)
+This blog will show you how to run automated end-to-end Playwright tests for your React app with Headless Chrome on Heroku.
 
 ### [386. Compilation of the Most Common React.js Interview Questions](https://hackernoon.com/compilation-of-the-most-common-reactjs-interview-questions)
 ![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-x3032i7.webp)
 A comprehensive collection of React technical questions to help you prepare for frontend interviews.
 
-### [387. Bootstrap 5 Basics](https://hackernoon.com/bootstrap-5-basics-85113ujs)
+### [387. Struggling to Pick a Charting Library for React? These 10 Options Cover It All](https://hackernoon.com/struggling-to-pick-a-charting-library-for-react-these-10-options-cover-it-all)
+![](https://cdn.hackernoon.com/images/RZ6M8wddNoQliZd5obFbiLEw8e42-iqa3apt.jpeg)
+Explore 10 powerful open-source charting libraries for React to help you visualize complex business data, dashboards, timelines, and more.
+
+### [388. Bootstrap 5 Basics](https://hackernoon.com/bootstrap-5-basics-85113ujs)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZcvfyVxI3KNhEQxQ9H6wfvhdWlW2-7tc03ucq.webp?alt=media&token=253f09c5-bb89-40c4-8078-9d4514666a3b)
 The world’s most popular open-source framework used by developers with HTML, CSS, and JavaScript is ready to roll out the new release - Bootstrap 5  anytime soon!
 
-### [388. How CORS (Cross-Origin Resource Sharing) Works?](https://hackernoon.com/how-cors-cross-origin-resource-sharing-works-292z32g0)
+### [389. How CORS (Cross-Origin Resource Sharing) Works?](https://hackernoon.com/how-cors-cross-origin-resource-sharing-works-292z32g0)
 ![](https://images.unsplash.com/photo-1496123989857-a6b172164681?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 If you are a web developer, you must have seen the ‘CORS’ error appearing often on your screen when you try to call the API. But, Why does it happen?
-
-### [389. How Redux Observable Made Ajax Calls Great Again](https://hackernoon.com/how-redux-observable-made-ajax-calls-great-again-1p583y3h)
-![](https://cdn.hackernoon.com/drafts/p02cz32dy.png)
-I am building my own SaaS application using React library for the user interface. What I like about react you don’t have to use it in a SPA (single page application).
 
 ### [390. Managing Multi-Environment Configurations For React Applications with Tanzu](https://hackernoon.com/managing-multi-environment-configurations-for-react-applications-with-tanzu-2j2631do)
 ![](https://cdn.hackernoon.com/images/82dYFuavVVh4WYKNKyjj4OBt0cf1-ln1431eb.jpeg)
@@ -1575,9 +1577,9 @@ CRA allows you to easily build apps as static/minified files. Because everything
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-wy93n7v.jpeg)
 Previously I wrote about RTK, this story will cover other details of its use.
 
-### [392. Premium Chat Module For Your React Native App](https://hackernoon.com/premium-chat-module-for-your-react-native-app-cv2n3uus)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-s33328zt.png?alt=media&token=33f316df-135d-4d78-aafc-09c626f5d641)
-At Instamobile, we’re building a ton of complex features to save time and energy for React Native developers across the world. One of these complex features is the chat functionality, which is a must have in almost all mobile apps nowadays. In this tutorial, we’ll learn how to add a React Native Chat into any mobile app with only a few lines of code.
+### [392. How Redux Observable Made Ajax Calls Great Again](https://hackernoon.com/how-redux-observable-made-ajax-calls-great-again-1p583y3h)
+![](https://cdn.hackernoon.com/drafts/p02cz32dy.png)
+I am building my own SaaS application using React library for the user interface. What I like about react you don’t have to use it in a SPA (single page application).
 
 ### [393. 5 Reasons to Convert from React to Next.js](https://hackernoon.com/5-reasons-to-convert-from-react-to-nextjs)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-c993qjb.jpeg)
@@ -1587,37 +1589,37 @@ React itself is a great solution already. But why are there many guides on "How 
 ![](https://cdn.hackernoon.com/images/3vn6gVC40lf9EZovJoHLxSOK5Gr1-b893sf5.jpeg)
 I'm so excited to show you how I built a keystroke application for Windows that was inspired by KeyCastr.
 
-### [395. The Most Definitive React Hooks Cheat Sheet for 2020](https://hackernoon.com/the-most-definitive-react-hooks-cheat-sheet-for-2020-19ed33on)
+### [395. Premium Chat Module For Your React Native App](https://hackernoon.com/premium-chat-module-for-your-react-native-app-cv2n3uus)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-s33328zt.png?alt=media&token=33f316df-135d-4d78-aafc-09c626f5d641)
+At Instamobile, we’re building a ton of complex features to save time and energy for React Native developers across the world. One of these complex features is the chat functionality, which is a must have in almost all mobile apps nowadays. In this tutorial, we’ll learn how to add a React Native Chat into any mobile app with only a few lines of code.
+
+### [396. The Most Definitive React Hooks Cheat Sheet for 2020](https://hackernoon.com/the-most-definitive-react-hooks-cheat-sheet-for-2020-19ed33on)
 ![](https://cdn.hackernoon.com/images/xll33oz.jpg)
 With the introduction of React hooks since the 16.8 version, we have changed the way we write React application. Indeed, we can now leverage React features, such as state and side effects, within function components. 
 
-### [396. Localizing Your React-Native App [A How-To Guide]](https://hackernoon.com/localizing-your-react-native-app-a-how-to-guide-mm2o3y8t)
+### [397. Localizing Your React-Native App [A How-To Guide]](https://hackernoon.com/localizing-your-react-native-app-a-how-to-guide-mm2o3y8t)
 ![](https://cdn.hackernoon.com/images/8vpb3wde.jpg)
 Localization means adapting your app’s translations to suite your customers’ specific country or region. Supporting multiple languages (including RTL) is a critical feature for any successful mobile app, since it opens up the user base to a much larger pool of people, and also improves the user experience tremendously.
-
-### [397. Struggling to Pick a Charting Library for React? These 10 Options Cover It All](https://hackernoon.com/struggling-to-pick-a-charting-library-for-react-these-10-options-cover-it-all)
-![](https://cdn.hackernoon.com/images/RZ6M8wddNoQliZd5obFbiLEw8e42-iqa3apt.jpeg)
-Explore 10 powerful open-source charting libraries for React to help you visualize complex business data, dashboards, timelines, and more.
 
 ### [398. How We Built Our Software Documentation On Docusaurus](https://hackernoon.com/how-we-built-our-software-documentation-on-docusaurus)
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-7293ln4.jpeg)
 To cover our bases, we needed to improve and expand our documentation and this time, we wanted to make it scalable with Docusaurus.
 
-### [399. React useState() Made Easy for Beginners](https://hackernoon.com/react-usestate-made-easy-for-beginners)
-![](https://cdn.hackernoon.com/images/FpKROxxtLBRmSsCCb4lxCS7LBVr2-3j93toq.jpeg)
-A beginner's guide to React useState(), simplified and made easy.
-
-### [400. A Beginner's Guide To Using React Native Camera](https://hackernoon.com/a-beginners-guide-to-using-react-native-camera-aj243xwn)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-av1b28oq.png?alt=media&token=a858f5fb-6631-47ac-b2e6-0e6d22c6e00c)
-Capturing Memories! Camera in our smartphones allows us to quickly capture amazing moments in our lives. Moments which we most likely can never return to, but we can safely capture them up in the form of photos and videos. 
-
-### [401. A Guide to Embedding and Playing YouTube Videos in React Native Apps](https://hackernoon.com/a-guide-to-embedding-and-playing-youtube-videos-in-react-native-apps-ef4y3308)
+### [399. A Guide to Embedding and Playing YouTube Videos in React Native Apps](https://hackernoon.com/a-guide-to-embedding-and-playing-youtube-videos-in-react-native-apps-ef4y3308)
 ![](https://cdn.hackernoon.com/images/TIJzydIu3tguQ0D6uODERgXfGTW2-vqc3o9s.jpeg)
 Embedding and playing YouTube videos in your React Native app is seamless and a more affordable way of displaying videos in your app
 
-### [402. Automating Your Job Application with ChatGPT](https://hackernoon.com/automating-your-job-application-with-chatgpt)
+### [400. React useState() Made Easy for Beginners](https://hackernoon.com/react-usestate-made-easy-for-beginners)
+![](https://cdn.hackernoon.com/images/FpKROxxtLBRmSsCCb4lxCS7LBVr2-3j93toq.jpeg)
+A beginner's guide to React useState(), simplified and made easy.
+
+### [401. Automating Your Job Application with ChatGPT](https://hackernoon.com/automating-your-job-application-with-chatgpt)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-d793mjz.jpeg)
 How to Automate Job Application with ChatGPT in 3 Steps
+
+### [402. A Beginner's Guide To Using React Native Camera](https://hackernoon.com/a-beginners-guide-to-using-react-native-camera-aj243xwn)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-av1b28oq.png?alt=media&token=a858f5fb-6631-47ac-b2e6-0e6d22c6e00c)
+Capturing Memories! Camera in our smartphones allows us to quickly capture amazing moments in our lives. Moments which we most likely can never return to, but we can safely capture them up in the form of photos and videos. 
 
 ### [403. Scalability: the Lost Level of React State Management](https://hackernoon.com/scalability-the-lost-level-of-react-state-management)
 ![](https://cdn.hackernoon.com/images/dgMWclIH0hOQrGwUJQcwZOCc97j1-qva3p6x.jpeg)
@@ -1627,13 +1629,13 @@ Apps grow. The React world often recommends half-baked solutions for state manag
 ![](https://cdn.hackernoon.com/images/rqSZjnOmxMTt3bDGw2yUD21lTzj2-km83x0f.jpeg)
 Discover lesser-known React Native tricks & advanced techniques to elevate app development. Unleash its full potential in mobile innovation!
 
-### [405. Top 12+ React Boilerplates and Starter Kits for 2024](https://hackernoon.com/top-12-react-boilerplates-and-starter-kits-for-2024)
-![](https://cdn.hackernoon.com/images/SFsbtjO6xoXZQmI9d6SeRPSFgnH2-ix837g4.jpeg)
-What criteria do you use when choosing a React boilerplate?  We made a comparison of boilerplates by features and analyzed each of them
-
-### [406. A New Two Repo Approach to React Native Development That Will Help You Boost Team Efficiency](https://hackernoon.com/a-new-two-repo-approach-to-react-native-development-that-will-help-you-boost-team-efficiency)
+### [405. A New Two Repo Approach to React Native Development That Will Help You Boost Team Efficiency](https://hackernoon.com/a-new-two-repo-approach-to-react-native-development-that-will-help-you-boost-team-efficiency)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-2aa3qpt.jpeg)
 Develop React Native code without building the native binaries, or work on the native parts without the business logic in JS? You can have both, here's how!
+
+### [406. Top 12+ React Boilerplates and Starter Kits for 2024](https://hackernoon.com/top-12-react-boilerplates-and-starter-kits-for-2024)
+![](https://cdn.hackernoon.com/images/SFsbtjO6xoXZQmI9d6SeRPSFgnH2-ix837g4.jpeg)
+What criteria do you use when choosing a React boilerplate?  We made a comparison of boilerplates by features and analyzed each of them
 
 ### [407. Creating New Gatsby Theme with Typescript, MDX, and Theme-UI](https://hackernoon.com/creating-new-gatsby-theme-with-typescript-mdx-and-theme-ui-tz1c3u3u)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHPI5sRRfsdZQD9DuckEymhfLoM32-ke3528ip.jpeg?alt=media&token=aa04a73a-279f-4cc0-8176-cdc24c3c0c1d)
@@ -1643,33 +1645,33 @@ Gatsby Themes provide a powerful way to share an opinionated set of configuratio
 ![](https://cdn.hackernoon.com/images/LuN3UOtBADcZwhrhLneCTnjGXw43-qia31bq.jpeg)
 <AnimateIn/> is a reusable React component that I’ve made to drop in whenever I want to quickly add some animation effects to my projects.
 
-### [409. Why You Should Choose Angular or Vue over React for Your New Web Application](https://hackernoon.com/why-you-should-choose-angular-or-vue-over-react-for-your-new-web-application)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gl82qas.jpeg)
-An article that describes the advantages of the front-end frameworks Angular and Vue over the front-end React library.
-
-### [410. 50+ GitHub Repositories Every Front-End Developer Needs](https://hackernoon.com/50-github-repositories-every-front-end-developer-needs)
+### [409. 50+ GitHub Repositories Every Front-End Developer Needs](https://hackernoon.com/50-github-repositories-every-front-end-developer-needs)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-aj93qau.jpeg)
 50+ Github Repositories Every Front-end Developer Needs
 
-### [411. The 9 Mistakes JavaScript Developers Make the Most](https://hackernoon.com/the-9-mistakes-javascript-developers-make-the-most)
+### [410. The 9 Mistakes JavaScript Developers Make the Most](https://hackernoon.com/the-9-mistakes-javascript-developers-make-the-most)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-4f93sgn.jpeg)
 In this article, we'll take a look at some of the most common JavaScript mistakes and how to avoid them.
 
-### [412. 10 Things Every Beginner Should Know When Learning Javascript And React](https://hackernoon.com/10-things-every-beginner-should-know-when-learning-javascript-and-react-c46c3w4y)
+### [411. Why You Should Choose Angular or Vue over React for Your New Web Application](https://hackernoon.com/why-you-should-choose-angular-or-vue-over-react-for-your-new-web-application)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gl82qas.jpeg)
+An article that describes the advantages of the front-end frameworks Angular and Vue over the front-end React library.
+
+### [412. Protecting Your React.js Source Code with Jscrambler](https://hackernoon.com/protecting-your-reactjs-source-code-with-jscrambler)
+![](https://cdn.hackernoon.com/images/1JNoLAkx1ZO5O8qO5dcdNjh6RQw1-0oa3ktl.jpeg)
+In this step-by-step guide, you'll learn how to protect your React.js application with Jscrambler to prevent code theft and reverse engineering.
+
+### [413. 10 Things Every Beginner Should Know When Learning Javascript And React](https://hackernoon.com/10-things-every-beginner-should-know-when-learning-javascript-and-react-c46c3w4y)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-5882roz.jpeg)
 React is build on top of pure Javascript for the most part.  Here you will learn about 10 Javascript concepts that will help you write better React code.
-
-### [413. Adding GIFs to Your React Native Application Using Giphy API](https://hackernoon.com/adding-gifs-to-your-react-native-application-using-giphy-api-ai1w3u2l)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-v8v28wl.png?alt=media&token=8d813df6-bb05-4684-95c0-fea6a3668e9f)
-Giphy is the largest library providing one of the most popular forms of media widely used for chatting –  GIFs or Graphics Interchange Format and stickers. The most popular social media apps such as WhatsApp, Instagram, Slack, Skype and Twitter (to mention a few) use Giphy’s technology to provide GIF content and Stickers for their chat users to improve the chatting experience. 
 
 ### [414. Supercharge Your JavaScript Dockerfile for High-Performance Production Deployments.](https://hackernoon.com/supercharge-your-javascript-dockerfile-for-high-performance-production-deployments)
 ![](https://cdn.hackernoon.com/images/bKYjS2C6Rxcv14egxakvrg8O65x1-bma3p6k.jpeg)
 A step-by-step guide on writing a Dockerfile for a NestJS project.
 
-### [415. Protecting Your React.js Source Code with Jscrambler](https://hackernoon.com/protecting-your-reactjs-source-code-with-jscrambler)
-![](https://cdn.hackernoon.com/images/1JNoLAkx1ZO5O8qO5dcdNjh6RQw1-0oa3ktl.jpeg)
-In this step-by-step guide, you'll learn how to protect your React.js application with Jscrambler to prevent code theft and reverse engineering.
+### [415. Adding GIFs to Your React Native Application Using Giphy API](https://hackernoon.com/adding-gifs-to-your-react-native-application-using-giphy-api-ai1w3u2l)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-v8v28wl.png?alt=media&token=8d813df6-bb05-4684-95c0-fea6a3668e9f)
+Giphy is the largest library providing one of the most popular forms of media widely used for chatting –  GIFs or Graphics Interchange Format and stickers. The most popular social media apps such as WhatsApp, Instagram, Slack, Skype and Twitter (to mention a few) use Giphy’s technology to provide GIF content and Stickers for their chat users to improve the chatting experience. 
 
 ### [416. Reasons to Write Code On Paper](https://hackernoon.com/reasons-to-write-code-on-paper-57q3tpj)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhHXqnCUCd5UEYXq3ifLsdK87mrj2-cn8p3xy5.jpeg?alt=media&token=a494e835-c768-40e8-b771-1525802843ea)
@@ -1683,73 +1685,73 @@ Started as a simple charting tool for monitoring a snow depth near the owner’s
 ![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-wy3335uw.jpeg)
 Recently we decided to make our templates jQuery-free. Please enjoy this list of admin dashboard templates without jQuery dependencies.
 
-### [419. Styled Components:  The Essentials to Get Started](https://hackernoon.com/styled-components-essentials-to-get-you-started-g117t3fqr)
-![](https://cdn.hackernoon.com/drafts/qi11n3fq4.png)
-Photo by Hello I’m Nik 🇬🇧 on Unsplash
+### [419. How to Develop a React Native Library for Telegram’s TDLib: Part 1](https://hackernoon.com/how-to-develop-a-react-native-library-for-telegrams-tdlib-part-1)
+![](https://cdn.hackernoon.com/images/raD3IjEsJBWIqwoxcjk2om7YGHm1-vd73ed5.png)
+Getting started with Telegram TDLib in React Native: Exploring authorization, user profile retrieval, and the first steps into native code.
 
 ### [420. Maps on the Web Using React and Mapbox](https://hackernoon.com/maps-on-the-web-using-react-and-mapbox)
 ![](https://cdn.hackernoon.com/images/qGiS8EEpW3RAc4RCe4FOZyoNK362-bmg34ff.jpeg)
 I will illustrate how to use Mapbox with React and explain how these technologies work together.
 
-### [421.  How To Debug React Native Debugger](https://hackernoon.com/how-to-debug-react-native-debugger-rw1p3tzb)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7hNScric1WcTcZqxOlzpN8s54n43-uu573xnj.jpeg?alt=media&token=98d3b936-23fd-4bc2-bd68-01efcb3ebc11)
-React Native Debugger is a powerful tool that helps developers debug React Native applications more quickly. It provides a suite of impressive features, such as UI inspector, redux inspector, breakpoints and networking inspector. In this article, we are going to learn how to install and use the React Native Debugger, which will boost your development productivity by an order of magnitude.
-
-### [422. How I Use AI in Frontend Development](https://hackernoon.com/how-i-use-ai-in-frontend-development)
-![](https://cdn.hackernoon.com/images/kPMWeqKHrERbWZ4wSgIwTb4IiRh1-ixg31iy.png)
-In this article, I want to tell you what AI tools I use in the development of my Web projects to simplify my work.
-
-### [423. The Tech Stack of a Solo-Developer to build a SaaS With React and AWS](https://hackernoon.com/the-tech-stack-of-a-solo-developer-to-build-a-saas-with-react-and-aws)
-![](https://cdn.hackernoon.com/images/Z7ZkCzqpkBdXJ4DMKYwft6zCe9q1-ga873568.jpeg)
-My stack to build a SaaS with Next JS and serverless backend. A full-stack react SaaS boilerplate template to kickstart any project.
-
-### [424. How To Build WordPress App with React Native Part #5: Home Screen](https://hackernoon.com/build-wordpress-app-with-react-native-5-home-screen-hobf32tq)
-![](https://cdn.hackernoon.com/images/dt2832iu.jpg)
-This series intends to show how I build an app to serve content from my WordPress blog by using react-native. Since my blog is talking about react-native, the series and the articles are interconnected. We will learn how to set-up many packages that make our lives comfortable and learn how to deal with WordPress APIs. Here, the most prominent features talked about in the book are the dark theme, offline mode, infinite scroll and many more. You can discover much more in this series. this inspiration to do this tutorial series came from the React Native App Templates from instamobile
-
-### [425. React Native ECharts VS Victory Native VS React Native Chart Kit: Which Solution is Better?](https://hackernoon.com/react-native-echarts-vs-victory-native-vs-react-native-chart-kit-which-solution-is-better)
+### [421. React Native ECharts VS Victory Native VS React Native Chart Kit: Which Solution is Better?](https://hackernoon.com/react-native-echarts-vs-victory-native-vs-react-native-chart-kit-which-solution-is-better)
 ![](https://cdn.hackernoon.com/images/vJcrvKCc3hh6oCV6ujhOFQ6v9dN2-p093rdh.jpeg)
 In this article, we will compare three popular chart libraries in the React Native community: React Native ECharts, Victory Native, and React Native Chart Kit.
 
-### [426. How to Develop a React Native Library for Telegram’s TDLib: Part 1](https://hackernoon.com/how-to-develop-a-react-native-library-for-telegrams-tdlib-part-1)
-![](https://cdn.hackernoon.com/images/raD3IjEsJBWIqwoxcjk2om7YGHm1-vd73ed5.png)
-Getting started with Telegram TDLib in React Native: Exploring authorization, user profile retrieval, and the first steps into native code.
+### [422. Styled Components:  The Essentials to Get Started](https://hackernoon.com/styled-components-essentials-to-get-you-started-g117t3fqr)
+![](https://cdn.hackernoon.com/drafts/qi11n3fq4.png)
+Photo by Hello I’m Nik 🇬🇧 on Unsplash
 
-### [427. Why You Should be Learning about the Remix Framework ](https://hackernoon.com/why-you-should-be-learning-about-the-remix-framework)
-![](https://cdn.hackernoon.com/images/YhQrn2uriTN9SEA31DxtfMz7glu1-nla3yql.jpeg)
-Are you looking to build an app with minimal effort? With Remix, you can do just that! Learn how this relatively new web framework compares.
+### [423.  How To Debug React Native Debugger](https://hackernoon.com/how-to-debug-react-native-debugger-rw1p3tzb)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7hNScric1WcTcZqxOlzpN8s54n43-uu573xnj.jpeg?alt=media&token=98d3b936-23fd-4bc2-bd68-01efcb3ebc11)
+React Native Debugger is a powerful tool that helps developers debug React Native applications more quickly. It provides a suite of impressive features, such as UI inspector, redux inspector, breakpoints and networking inspector. In this article, we are going to learn how to install and use the React Native Debugger, which will boost your development productivity by an order of magnitude.
 
-### [428. In North Korea, Front End Devs Face Platform Inconsistencies That You Might Not Know Even Existed](https://hackernoon.com/dealing-with-platform-inconsistencies-as-a-north-korean-front-end-developer-frdm3rp6)
-![](https://cdn.hackernoon.com/images/036od3rfp.jpg)
-You’re a North Korean engineer who’s been selected to develop a new government project. It’s an HTML form, which North Korean political leaders will fill in for [REDACTED] purposes.
+### [424. How I Use AI in Frontend Development](https://hackernoon.com/how-i-use-ai-in-frontend-development)
+![](https://cdn.hackernoon.com/images/kPMWeqKHrERbWZ4wSgIwTb4IiRh1-ixg31iy.png)
+In this article, I want to tell you what AI tools I use in the development of my Web projects to simplify my work.
 
-### [429. Over 40, With no Technical Background, This is How I Learned a Frontend Framework in 2 Weeks](https://hackernoon.com/over-40-with-no-technical-background-this-is-how-i-learned-a-frontend-framework-in-2-weeks)
+### [425. How To Build WordPress App with React Native Part #5: Home Screen](https://hackernoon.com/build-wordpress-app-with-react-native-5-home-screen-hobf32tq)
+![](https://cdn.hackernoon.com/images/dt2832iu.jpg)
+This series intends to show how I build an app to serve content from my WordPress blog by using react-native. Since my blog is talking about react-native, the series and the articles are interconnected. We will learn how to set-up many packages that make our lives comfortable and learn how to deal with WordPress APIs. Here, the most prominent features talked about in the book are the dark theme, offline mode, infinite scroll and many more. You can discover much more in this series. this inspiration to do this tutorial series came from the React Native App Templates from instamobile
+
+### [426. The Tech Stack of a Solo-Developer to build a SaaS With React and AWS](https://hackernoon.com/the-tech-stack-of-a-solo-developer-to-build-a-saas-with-react-and-aws)
+![](https://cdn.hackernoon.com/images/Z7ZkCzqpkBdXJ4DMKYwft6zCe9q1-ga873568.jpeg)
+My stack to build a SaaS with Next JS and serverless backend. A full-stack react SaaS boilerplate template to kickstart any project.
+
+### [427. Over 40, With no Technical Background, This is How I Learned a Frontend Framework in 2 Weeks](https://hackernoon.com/over-40-with-no-technical-background-this-is-how-i-learned-a-frontend-framework-in-2-weeks)
 ![](https://cdn.hackernoon.com/images/dH5TBmoEbZTGp8KEaGc3Ga3ntjC2-4993tuv.jpeg)
 Over 40, with no technical background, this is how I learned a Frontend Framework in 2 weeks.
 
-### [430. Intro to React CSS Modules](https://hackernoon.com/intro-to-react-css-modules-9w8c3yn8)
-![](https://cdn.hackernoon.com/images/0xcso3yec.jpg)
-CSS Modules helps you create independent and customized cascading style sheets for any .js file rendering HTML in your React application.
+### [428. Why You Should be Learning about the Remix Framework ](https://hackernoon.com/why-you-should-be-learning-about-the-remix-framework)
+![](https://cdn.hackernoon.com/images/YhQrn2uriTN9SEA31DxtfMz7glu1-nla3yql.jpeg)
+Are you looking to build an app with minimal effort? With Remix, you can do just that! Learn how this relatively new web framework compares.
 
-### [431. Angular v14's New Features](https://hackernoon.com/angular-v14s-new-features)
+### [429. In North Korea, Front End Devs Face Platform Inconsistencies That You Might Not Know Even Existed](https://hackernoon.com/dealing-with-platform-inconsistencies-as-a-north-korean-front-end-developer-frdm3rp6)
+![](https://cdn.hackernoon.com/images/036od3rfp.jpg)
+You’re a North Korean engineer who’s been selected to develop a new government project. It’s an HTML form, which North Korean political leaders will fill in for [REDACTED] purposes.
+
+### [430. Angular v14's New Features](https://hackernoon.com/angular-v14s-new-features)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-w193mzb.jpeg)
 Angular v14 is available. Here are the new features and improvements from this new version such as streamlined page titles, ng modules and new commands.
 
-### [432. Hooked on React's Array Destructuring Pattern](https://hackernoon.com/hooked-on-reacts-array-destructuring-pattern-ed32y3smn)
-![](https://cdn.hackernoon.com/drafts/r839b3sw8.png)
-The other day I was reading up on the legendary React God Dan Ambrov’s great but very un-TLDR post on useEffect.
+### [431. Intro to React CSS Modules](https://hackernoon.com/intro-to-react-css-modules-9w8c3yn8)
+![](https://cdn.hackernoon.com/images/0xcso3yec.jpg)
+CSS Modules helps you create independent and customized cascading style sheets for any .js file rendering HTML in your React application.
 
-### [433. Building a Documentation Website for Your Open-source Project Using Docusaurus​](https://hackernoon.com/building-a-documentation-website-for-your-open-source-project-using-docusaurus)
+### [432. Building a Documentation Website for Your Open-source Project Using Docusaurus​](https://hackernoon.com/building-a-documentation-website-for-your-open-source-project-using-docusaurus)
 ![](https://cdn.hackernoon.com/images/vJcrvKCc3hh6oCV6ujhOFQ6v9dN2-nq93p9e.jpeg)
 If you're interested in building a documentation website for your open-source project, this guide can be a great reference.
 
-### [434. Mastering useReducer for Complex State Management](https://hackernoon.com/mastering-usereducer-for-complex-state-management)
-![](https://cdn.hackernoon.com/images/illustrate-react-code-displayed-on-a-desktop-screen-mn4qaqlyfyrvdue1zthq7mif.png)
-Complex state management in ReactJS with React's useReducer() explained with beginner as well as advanced examples.
+### [433. Hooked on React's Array Destructuring Pattern](https://hackernoon.com/hooked-on-reacts-array-destructuring-pattern-ed32y3smn)
+![](https://cdn.hackernoon.com/drafts/r839b3sw8.png)
+The other day I was reading up on the legendary React God Dan Ambrov’s great but very un-TLDR post on useEffect.
 
-### [435. Building a Fully Functional Youtube Clone Using Firebase, FFmpeg, And React [Part-2]](https://hackernoon.com/building-a-fully-functional-youtube-clone-using-firebase-ffmpeg-and-react-part-2)
+### [434. Building a Fully Functional Youtube Clone Using Firebase, FFmpeg, And React [Part-2]](https://hackernoon.com/building-a-fully-functional-youtube-clone-using-firebase-ffmpeg-and-react-part-2)
 ![](https://cdn.hackernoon.com/images/iHKErLv7KAegkfw3m5jwsrsy3J63-nkm3nyn.jpeg)
 An exact clone of youtube with all functionalities from View count to Subscribe to everything (Without Youtube Api) Using Firebase, FFmpeg, And React
+
+### [435. Mastering useReducer for Complex State Management](https://hackernoon.com/mastering-usereducer-for-complex-state-management)
+![](https://cdn.hackernoon.com/images/illustrate-react-code-displayed-on-a-desktop-screen-mn4qaqlyfyrvdue1zthq7mif.png)
+Complex state management in ReactJS with React's useReducer() explained with beginner as well as advanced examples.
 
 ### [436. Making a React Chat App Using Socket.io](https://hackernoon.com/making-a-react-chat-app-using-socketio)
 ![](https://cdn.hackernoon.com/images/9ln0OHvfuhgKBqQIuNFg8jiCzrI2-28a37gg.jpeg)
@@ -1760,9 +1762,9 @@ How to build your own chat with React? Create a powerful chat application in 5 s
 ![](https://cdn.hackernoon.com/images/azoUWx83HEPfNN4mzBevmiiqamD3-9b92fhm.jpeg)
 Building a Full Stack NFT minting Dapp using Hardhat, ethers.js, Next.js, and TailwindCSS
 
-### [438. Build an AI Chatbot Faster Than Your Morning Coffee Run With This Guide](https://hackernoon.com/build-an-ai-chatbot-faster-than-your-morning-coffee-run-with-this-guide)
-![](https://cdn.hackernoon.com/images/m6OvIAdfE8XXYN2x7hNbCvMdhAk2-kl133ii.jpeg)
-Learn how to build an AI-powered chatbot using React, Vite, and Cohere's API. 
+### [438. How to Build a Slack Clone with React, Firebase, and CometChat](https://hackernoon.com/how-to-build-a-slack-clone-with-react-firebase-and-cometchat-3r3037kq)
+![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-pvbo331k.jpeg)
+In this tutorial, we will be combining the full power of React, Firebase, and CometChat to build a slack clone that will leave you mind-blown.
 
 ### [439. A Quick Guide To The render() Method in React](https://hackernoon.com/a-quick-guide-to-the-render-method-in-react)
 ![](https://cdn.hackernoon.com/images/PzR8ZTkpXKV9Jijt5uz2hfy9Gi33-vv83lv8.jpeg)
@@ -1772,47 +1774,47 @@ In this guide, we’ll try to shed light on what render() is, what it does, and 
 ![](https://cdn.hackernoon.com/images/SS37gCNcHuOiFreNUNVPCPiYFb83-zp93kn6.jpeg)
 React Props & State two terms beginners often confused by their functionalities. Here is a detailed comparison between React State vs Props you need to know.
 
-### [441. Free Tools That Will Help You Grow As A Front-End Developer In 2021](https://hackernoon.com/free-tools-that-will-help-you-grow-as-a-front-end-developer-in-2021-ssx334e)
+### [441. Build an AI Chatbot Faster Than Your Morning Coffee Run With This Guide](https://hackernoon.com/build-an-ai-chatbot-faster-than-your-morning-coffee-run-with-this-guide)
+![](https://cdn.hackernoon.com/images/m6OvIAdfE8XXYN2x7hNbCvMdhAk2-kl133ii.jpeg)
+Learn how to build an AI-powered chatbot using React, Vite, and Cohere's API. 
+
+### [442. Free Tools That Will Help You Grow As A Front-End Developer In 2021](https://hackernoon.com/free-tools-that-will-help-you-grow-as-a-front-end-developer-in-2021-ssx334e)
 ![](https://hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-i6l330n.jpeg)
 You only need this post to become a Front-end Developer because this post has nearly unlimited amount of every type of resources covering everything you....
 
-### [442. MUI (Material-UI) Releases v5 of its Core React Components](https://hackernoon.com/mui-material-ui-releases-v5-of-its-core-react-components)
+### [443. MUI (Material-UI) Releases v5 of its Core React Components](https://hackernoon.com/mui-material-ui-releases-v5-of-its-core-react-components)
 ![](https://cdn.hackernoon.com/images/MR29WSibpKb19UivRTcjcGWkGyn1-a2035cq.png)
 MUI (Material-UI) releases v5 of its core React components - brings advanced styling and customization features, new components, and more.
 
-### [443. The New Features of React 19: What You Need to Know](https://hackernoon.com/the-new-features-of-react-19-what-you-need-to-know)
-![](https://cdn.hackernoon.com/images/Wj8C4GEIgvdN0skdOLTGPSSAyTD2-6sc336l.jpeg)
-For developers looking to stay ahead of the React race, understanding new React 19 features is essential.
+### [444. 10 Useful JavaScript Functions to Learn](https://hackernoon.com/10-useful-javascript-functions-to-learn)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-s6s3o8z.jpeg)
+Read about the 10 must-know JavaScript array functions.
 
-### [444. Custom React Hook For Tracking Clicks Outside of the Component](https://hackernoon.com/custom-react-hook-for-tracking-clicks-outside-of-the-component-si9n36xs)
+### [445. Custom React Hook For Tracking Clicks Outside of the Component](https://hackernoon.com/custom-react-hook-for-tracking-clicks-outside-of-the-component-si9n36xs)
 ![](https://images.unsplash.com/photo-1519810410960-332413a4e48f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 react-cool-onclickoutside is a React hook to trigger callback when user clicks outside of the target component(s) area. It's a useful logic for UI interaction design (IxD) like dismiss a dropdown menu, modal or tooltip etc. Help you guys ❤️ it.
 
 ⚡️ Live demo: https://react-cool-onclickoutside.netlify.app
 
-### [445. 10 Useful JavaScript Functions to Learn](https://hackernoon.com/10-useful-javascript-functions-to-learn)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-s6s3o8z.jpeg)
-Read about the 10 must-know JavaScript array functions.
+### [446. The New Features of React 19: What You Need to Know](https://hackernoon.com/the-new-features-of-react-19-what-you-need-to-know)
+![](https://cdn.hackernoon.com/images/Wj8C4GEIgvdN0skdOLTGPSSAyTD2-6sc336l.jpeg)
+For developers looking to stay ahead of the React race, understanding new React 19 features is essential.
 
-### [446. 4 Tips & Tricks That Will Make Your ReactJS Code More Clear and Reliable](https://hackernoon.com/4-tips-and-tricks-that-will-make-your-reactjs-code-more-clear-and-reliable)
-![](https://cdn.hackernoon.com/images/jbvDqjDxpkThWOWvBvlJNkaqIKl1-nm02fac.jpeg)
-Here is a list of amazing tricks that you can use to improve your React application quickly without changing too much about your processes or too much effort. 
-
-### [447. Monitoring An Element As It Enters Or Leaves the Viewport Efficiently in React](https://hackernoon.com/monitoring-an-element-as-it-enters-or-leaves-the-viewport-efficiently-in-react-vy5k321e)
-![](https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Recently, I released the react-cool-inview, it's a React hook that monitors an element enters or leaves the viewport (or another element) with performant and efficient way, using Intersection Observer. It's lightweight and super flexible, which can cover all the cases that you need, like lazy-loading images and videos, infinite scrolling web app, triggering animations, tracking impressions, and more. Try it you will 👍🏻 it!
-
-### [448. The Essential Guide to Building an NFT Auction Site with React, Solidity, and CometChat](https://hackernoon.com/the-essential-guide-to-building-an-nft-auction-site-with-react-solidity-and-cometchat)
+### [447. The Essential Guide to Building an NFT Auction Site with React, Solidity, and CometChat](https://hackernoon.com/the-essential-guide-to-building-an-nft-auction-site-with-react-solidity-and-cometchat)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-y593ro2.jpeg)
 This tutorial shows you how to build an NFT auction site using React, Solidity, and CometChat. We will use React for the front end and Solidity for the smart co
 
-### [449. Checkers on React - Part 1 - Project Configuration and Initialization](https://hackernoon.com/checkers-on-react-part-1-project-configuration-and-initialization)
+### [448. 4 Tips & Tricks That Will Make Your ReactJS Code More Clear and Reliable](https://hackernoon.com/4-tips-and-tricks-that-will-make-your-reactjs-code-more-clear-and-reliable)
+![](https://cdn.hackernoon.com/images/jbvDqjDxpkThWOWvBvlJNkaqIKl1-nm02fac.jpeg)
+Here is a list of amazing tricks that you can use to improve your React application quickly without changing too much about your processes or too much effort. 
+
+### [449. Monitoring An Element As It Enters Or Leaves the Viewport Efficiently in React](https://hackernoon.com/monitoring-an-element-as-it-enters-or-leaves-the-viewport-efficiently-in-react-vy5k321e)
+![](https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Recently, I released the react-cool-inview, it's a React hook that monitors an element enters or leaves the viewport (or another element) with performant and efficient way, using Intersection Observer. It's lightweight and super flexible, which can cover all the cases that you need, like lazy-loading images and videos, infinite scrolling web app, triggering animations, tracking impressions, and more. Try it you will 👍🏻 it!
+
+### [450. Checkers on React - Part 1 - Project Configuration and Initialization](https://hackernoon.com/checkers-on-react-part-1-project-configuration-and-initialization)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-sj93rfu.jpeg)
  I want to start a series of stories where I will try to implement a Checkers game. 
-
-### [450. React Native Apple App of the Day Animation Part I : Setup UI](https://hackernoon.com/react-native-apple-app-of-the-day-animation-1-setup-ui-it1xo321p)
-![](https://cdn.hackernoon.com/images/as1xi32fi.jpg)
-In this tutorial, we are going to create React Native Shared Element Transition by replicating Apple app of the day as an example. This tutorial will address an interesting aspect of using React Animation and Dimensions to making images look cool. Here, we are not going to use any external react plugins. All the required components like Image, Animated, Dimensions are provided by the react-native package.this tutorial inspired from React native ecommerce template 
 
 ### [451. A Beginner’s Guide to React Hooks and How to Use Them](https://hackernoon.com/a-beginners-guide-to-react-hooks-and-how-to-use-them)
 ![](https://cdn.hackernoon.com/images/a-computer-on-a-hook-clcpsybxq000201s6cnsrb8r0.png)
@@ -1822,73 +1824,73 @@ Hooks are also useful because they allow you to split your code into smaller, re
 ![](https://cdn.hackernoon.com/images/NYsEt0jSD0Ttv4Gl8UDQGzu9Q9C3-8nc3m9c.jpeg)
 JSWorld Conference is the number one JavaScript Conference in the world, and I share a summary of all the talks with you. Part II
 
-### [453. React Internals: Basic Concepts and Notes](https://hackernoon.com/react-internals-basic-concepts-and-notes-7v2f350t)
+### [453. React Native Apple App of the Day Animation Part I : Setup UI](https://hackernoon.com/react-native-apple-app-of-the-day-animation-1-setup-ui-it1xo321p)
+![](https://cdn.hackernoon.com/images/as1xi32fi.jpg)
+In this tutorial, we are going to create React Native Shared Element Transition by replicating Apple app of the day as an example. This tutorial will address an interesting aspect of using React Animation and Dimensions to making images look cool. Here, we are not going to use any external react plugins. All the required components like Image, Animated, Dimensions are provided by the react-native package.this tutorial inspired from React native ecommerce template 
+
+### [454. React Internals: Basic Concepts and Notes](https://hackernoon.com/react-internals-basic-concepts-and-notes-7v2f350t)
 ![](https://cdn.hackernoon.com/images/nuST4U0AkMa1imTW9yZi0UhVAay1-mjv35mb.jpeg)
 An introductory lesson to React internals based on React Fiber.
 
-### [454. How to use context API in React](https://hackernoon.com/how-to-use-context-api-in-react-ud4o3v8f)
+### [455. How to use context API in React](https://hackernoon.com/how-to-use-context-api-in-react-ud4o3v8f)
 ![](https://cdn.hackernoon.com/images/gp1d3vsm.jpg)
 What is context API
 
-### [455. Planby 2.0 + React: Implementation of Schedules, Timeline, and Music ](https://hackernoon.com/planby-20-react-implementation-of-schedules-timeline-and-music)
+### [456. Planby 2.0 + React: Implementation of Schedules, Timeline, and Music ](https://hackernoon.com/planby-20-react-implementation-of-schedules-timeline-and-music)
 ![](https://cdn.hackernoon.com/images/Da9uhRI9WRWQWuWeXGdikUrycUR2-nnd3oiy.jpeg)
 Planby is a component for a quick implementation of EPG, schedules, music events, timelines and many more ideas
 
-### [456. How to Build a Slack Clone with React, Firebase, and CometChat](https://hackernoon.com/how-to-build-a-slack-clone-with-react-firebase-and-cometchat-3r3037kq)
-![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-pvbo331k.jpeg)
-In this tutorial, we will be combining the full power of React, Firebase, and CometChat to build a slack clone that will leave you mind-blown.
+### [457. How I Made a YouTube Video With React](https://hackernoon.com/how-i-made-a-youtube-video-with-react)
+![](https://cdn.hackernoon.com/images/oUS9HxHnMOackh1UhEDoXjMokWv1-qgd2efa.png)
+I wanted a good animation for my first YouTube video. But with no experience with tools like After Effects, what can I do? React JS to the rescue!
 
-### [457. Improve Your Application Performance With React Hooks](https://hackernoon.com/improve-your-application-performance-with-react-hooks-7r3d35p1)
+### [458. Improve Your Application Performance With React Hooks](https://hackernoon.com/improve-your-application-performance-with-react-hooks-7r3d35p1)
 ![](https://hackernoon.com/images/7FWGsynngiU89ohyitGw0qxV0L42-f82a28xg.jpeg)
 React Hooks are a powerful technique liked by many developers. They allow the use of React features like state managing or the use of lifecycle methods.
 
-### [458. How to Optimize React Performace by Using useRef Hooks](https://hackernoon.com/how-to-optimize-react-performace-by-using-useref-hooks-4t1n315h)
+### [459. How to Optimize React Performace by Using useRef Hooks](https://hackernoon.com/how-to-optimize-react-performace-by-using-useref-hooks-4t1n315h)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRudziJU9ZEcBSDbKuskBkqN4ZgG3-486s28nm.jpeg?alt=media&token=4b7e0a6d-e654-41dc-9a6f-e480f6392413)
 And how we stopped our React Context re-rendering everything
-
-### [459. How I Made a YouTube Video With React](https://hackernoon.com/how-i-made-a-youtube-video-with-react)
-![](https://cdn.hackernoon.com/images/oUS9HxHnMOackh1UhEDoXjMokWv1-qgd2efa.png)
-I wanted a good animation for my first YouTube video. But with no experience with tools like After Effects, what can I do? React JS to the rescue!
 
 ### [460. Supercharge Your React Applications: 7 Best Practices and Techniques](https://hackernoon.com/supercharge-your-react-applications-7-best-practices-and-techniques)
 ![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-s0a3yrl.jpeg)
 When a React application is optimized, loading times are significantly reduced, allowing users to quickly access content and start interacting without unnecessa
 
-### [461. Boosting React App Performance: A Guide to Lazy Loading and Suspense](https://hackernoon.com/boosting-react-app-performance-a-guide-to-lazy-loading-and-suspense)
+### [461. How to Create PR Review Apps with Render](https://hackernoon.com/create-apps-to-automatically-review-pull-requests-with-render)
+![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-0n93lwk.jpeg)
+By making it simple to visually review changes, PR review apps make it more likely that code reviewers will actually do so.
+
+### [462. Boosting React App Performance: A Guide to Lazy Loading and Suspense](https://hackernoon.com/boosting-react-app-performance-a-guide-to-lazy-loading-and-suspense)
 ![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-1993wm6.jpeg)
 Lazy loading is a strategy that defers the loading of non-essential resources until they are needed, reducing the initial loading time and improving the overall
 
-### [462. 16 Commands For Every Use Case to Set Up React Apps in Seconds ⚡🚀](https://hackernoon.com/16-commands-to-set-up-react-apps-for-every-use-in-seconds)
+### [463. 16 Commands For Every Use Case to Set Up React Apps in Seconds ⚡🚀](https://hackernoon.com/16-commands-to-set-up-react-apps-for-every-use-in-seconds)
 ![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-gr03gzz.jpeg)
 In this article, I have handpicked 16 commands to set up your React apps in seconds.
 
-### [463. I Just Finished a Coding Bootcamp... Was It Worth It?](https://hackernoon.com/i-just-finished-a-coding-bootcamp-was-it-worth-it-2l3y30pk)
+### [464. I Just Finished a Coding Bootcamp... Was It Worth It?](https://hackernoon.com/i-just-finished-a-coding-bootcamp-was-it-worth-it-2l3y30pk)
 ![](https://cdn.hackernoon.com/drafts/oj9y63wuu.png)
 Long story short: F*ck Yes!
-
-### [464. How to Create PR Review Apps with Render](https://hackernoon.com/create-apps-to-automatically-review-pull-requests-with-render)
-![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-0n93lwk.jpeg)
-By making it simple to visually review changes, PR review apps make it more likely that code reviewers will actually do so.
 
 ### [465. Essential Guide to Building a Decentralized eCommerce Platform with React and Solidity (Part 1)](https://hackernoon.com/essential-guide-to-building-a-decentralized-ecommerce-platform-with-react-and-solidity-part-1)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-j2a3l3m.jpeg)
 The demand for Web3.0 solutions is at an all-time high, but there isn't enough material available to usher in the army of developers required to fill the job op
 
-### [466. How to Create and Publish Your First NPM Package](https://hackernoon.com/how-to-create-and-publish-your-first-npm-package)
+### [466. React Vs. Vue: Who Takes The Prize](https://hackernoon.com/react-vs-vue-who-takes-the-prize-oq1633op)
+![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-pg3833gq.jpeg)
+we’ve put together this convenient guide to popular frameworks, to help you better understand the use cases of Vue vs. React.
+
+### [467. How to Create and Publish Your First NPM Package](https://hackernoon.com/how-to-create-and-publish-your-first-npm-package)
 ![](https://cdn.hackernoon.com/images/MM8znQHHo5PO8CucT9ftiFOGCOD2-7893usd.jpeg)
 A Comprehensive Guide To Creating and Publishing Your First NPM Package
 
-### [467. [DIY] AirBnB Clone with React Native Part 5: Loading Modal Implementation](https://hackernoon.com/diyairbnb-clone-with-react-native-part-5-loading-modal-implementation-aa1b3325g)
+### [468. [DIY] AirBnB Clone with React Native Part 5: Loading Modal Implementation](https://hackernoon.com/diyairbnb-clone-with-react-native-part-5-loading-modal-implementation-aa1b3325g)
 ![](https://cdn.hackernoon.com/drafts/911av32e5.png)
 AirBnB Clone with React Native Part 5: Loading Modal Implementation
 
-### [468. The Crazy Problems with Creating PDFs on the Frontend](https://hackernoon.com/the-crazy-problems-with-creating-pdfs-on-the-frontend)
+### [469. The Crazy Problems with Creating PDFs on the Frontend](https://hackernoon.com/the-crazy-problems-with-creating-pdfs-on-the-frontend)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-fi0376u.png)
 
-
-### [469. React Vs. Vue: Who Takes The Prize](https://hackernoon.com/react-vs-vue-who-takes-the-prize-oq1633op)
-![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-pg3833gq.jpeg)
-we’ve put together this convenient guide to popular frameworks, to help you better understand the use cases of Vue vs. React.
 
 ### [470. Senior Web Developers Are Using These 11 Design Patterns to Write Squeaky Clean React Code](https://hackernoon.com/senior-web-developers-are-using-these-11-design-patterns-to-write-squeaky-clean-react-code)
 ![](https://cdn.hackernoon.com/images/YpXxsUjOJbVehoteB0eyPeom5do1-oy03c2q.png)
@@ -1910,13 +1912,13 @@ When to Choose React? When to Choose Angular? Features of React Features of Angu
 ![](https://cdn.hackernoon.com/drafts/3134735tb.png)
 I can list down the reasons for “why” to do in-house, but I’ll refrain. Since you are landing here I assume you will know your why’s.
 
-### [475. Top 15 Ideas for React Apps that Web Devs Can Build in 2022](https://hackernoon.com/top-15-ideas-for-react-apps-that-web-devs-can-build-in-2022)
-![](https://cdn.hackernoon.com/images/9ln0OHvfuhgKBqQIuNFg8jiCzrI2-t4337z8.jpeg)
-Choose one of these React project ideas and build your next React application in 2022! 
-
-### [476. Why I Ditched Wordpress to Save My Music Release and What I Did After](https://hackernoon.com/ditching-wordpress-saved-my-music-release-d63g32i9)
+### [475. Why I Ditched Wordpress to Save My Music Release and What I Did After](https://hackernoon.com/ditching-wordpress-saved-my-music-release-d63g32i9)
 ![](https://cdn.hackernoon.com/drafts/vao325k.png)
 I’m a Chapman Stick player turned web developer. I’ve had a Wordpress site for my Electronic Prog-Rock music project since 2014, much before I started my career as a web developer in 2017. Since becoming a developer, I’ve wanted to rebuild the website but, a combination of time, lack of design chops, and a bit of ignorance of how to migrate all the plugin tools Wordpress provides delayed my project.
+
+### [476. Top 15 Ideas for React Apps that Web Devs Can Build in 2022](https://hackernoon.com/top-15-ideas-for-react-apps-that-web-devs-can-build-in-2022)
+![](https://cdn.hackernoon.com/images/9ln0OHvfuhgKBqQIuNFg8jiCzrI2-t4337z8.jpeg)
+Choose one of these React project ideas and build your next React application in 2022! 
 
 ### [477. WYSIWYG HTML Editors and Accelerating Development with React, Angular, and Vue](https://hackernoon.com/wysiwyg-html-editors-and-accelerating-development-with-react-angular-and-vue)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-br93pn6.jpeg)
@@ -1942,13 +1944,13 @@ Introduction
 ![](https://cdn.hackernoon.com/images/q4jUepDWV5h0iWw9JO2xESWTeNz1-lha3ijb.jpeg)
 In this blog, I am going to be sharing with you the Roadmap and the Resources that you require to become a Full Stack Developer.
 
-### [483. A Method That Will Help You Clone Netflix With Micro Frontends The Right Way](https://hackernoon.com/a-method-that-will-help-you-clone-netflix-with-micro-frontends-the-right-way-bes33jq)
-![](https://cdn.hackernoon.com/images/LeC71VGz92YOpmCgKQPIb6211Dk1-qu7n32mg.jpeg)
-I created a Netflix clone using Piral: an open-source framework for creating modular applications.
-
-### [484. This Simple App Lets You See How Hollywood Uses Color to Mess With Your Emotions](https://hackernoon.com/this-simple-app-lets-you-see-how-hollywood-uses-color-to-mess-with-your-emotions)
+### [483. This Simple App Lets You See How Hollywood Uses Color to Mess With Your Emotions](https://hackernoon.com/this-simple-app-lets-you-see-how-hollywood-uses-color-to-mess-with-your-emotions)
 ![](https://cdn.hackernoon.com/images/rwA7IPj2F2NcuLHM6krzJfXXwIj1-ic239be.png)
 Learn how color grading works, what color targets are, and build your own palette-based grading tool in React — from scratch and with purpose.
+
+### [484. A Method That Will Help You Clone Netflix With Micro Frontends The Right Way](https://hackernoon.com/a-method-that-will-help-you-clone-netflix-with-micro-frontends-the-right-way-bes33jq)
+![](https://cdn.hackernoon.com/images/LeC71VGz92YOpmCgKQPIb6211Dk1-qu7n32mg.jpeg)
+I created a Netflix clone using Piral: an open-source framework for creating modular applications.
 
 ### [485. The Seven Best Admin Templates And Themes in React](https://hackernoon.com/the-seven-best-admin-templates-and-themes-in-react-sd17331h)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-0rr33c0.jpeg)
@@ -1970,47 +1972,47 @@ This tutorial series was inspired by React native template which helps us buil
 ![](https://cdn.hackernoon.com/images/pPlHbtxam1csdO9PX26LdzqMbv42-1c92ipm.jpeg)
 Understanding Android development frameworks will help you pick the right one for your mobile app, letting you make better decisions on how to develop.
 
-### [490. How to Build a Blog with Strapi, Netlify, and React 👨‍💻](https://hackernoon.com/how-to-build-a-blog-with-strapi-netlify-and-react-8yv318d)
-![](https://cdn.hackernoon.com/images/1YXFIyZr1ESaAbiPktwpv7ignz73-y51r3unr.jpeg)
-How to Build a Blog with Strapi, Netlify, and React 👨‍💻
-
-### [491. GatsbyJS: Everything to Know About This React-Based Static Site Generator](https://hackernoon.com/gatsbyjs-everything-to-know-about-this-react-based-static-site-generator)
+### [490. GatsbyJS: Everything to Know About This React-Based Static Site Generator](https://hackernoon.com/gatsbyjs-everything-to-know-about-this-react-based-static-site-generator)
 ![](https://cdn.hackernoon.com/images/YhQrn2uriTN9SEA31DxtfMz7glu1-oha3ss5.jpeg)
 GatsbyJS is a fantastic static site generator for React-based websites. I broke it down in this article if you're curious to learn more about this framework.
 
-### [492. Top 3 React Custom hooks in current project](https://hackernoon.com/top-3-react-custom-hooks-in-current-project)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ii932p0.jpeg)
-Custom hooks are an amazing thing that happened with React. It brings to us the ability to create beautiful components and move a lot of business logic to hooks
+### [491. How to Build a Blog with Strapi, Netlify, and React 👨‍💻](https://hackernoon.com/how-to-build-a-blog-with-strapi-netlify-and-react-8yv318d)
+![](https://cdn.hackernoon.com/images/1YXFIyZr1ESaAbiPktwpv7ignz73-y51r3unr.jpeg)
+How to Build a Blog with Strapi, Netlify, and React 👨‍💻
+
+### [492. Build a Decentralized Freelancer Marketplace With React, Solidity, and CometChat](https://hackernoon.com/build-a-decentralized-freelancer-marketplace-with-react-solidity-and-cometchat)
+![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-m093ov5.jpeg)
+Learn how to build a decentralized freelance marketplace like Upwork using React, Solidity, and CometChat.
 
 ### [493. The Noonification: Best Examples of Apps Written in React.js (9/10/2023)](https://hackernoon.com/9-10-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_331_u5vc12psdt1oi94yav3hx2o6.png)
 9/10/2023: Top 5 stories on the Hackernoon homepage!
 
-### [494. Web Dev in 2023: Angular vs. React Battle for Dominance](https://hackernoon.com/web-dev-in-2023-angular-vs-react-battle-for-dominance)
+### [494. Top 3 React Custom hooks in current project](https://hackernoon.com/top-3-react-custom-hooks-in-current-project)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ii932p0.jpeg)
+Custom hooks are an amazing thing that happened with React. It brings to us the ability to create beautiful components and move a lot of business logic to hooks
+
+### [495. Web Dev in 2023: Angular vs. React Battle for Dominance](https://hackernoon.com/web-dev-in-2023-angular-vs-react-battle-for-dominance)
 ![](https://cdn.hackernoon.com/images/osANa311i1Tv04kIhmAbiwf1UfD3-cfb3xny.jpeg)
 In the ever-evolving landscape of web development, Angular and React continue to be two powerhouse options for front-end development. 
 
-### [495. How I Built a Vendor Stall for Small Businesses to Sell Goods Online in Three Weekends](https://hackernoon.com/how-i-built-a-vendor-stall-for-small-businesses-to-sell-goods-online-in-three-weekends-swep32l5)
+### [496. How I Built a Vendor Stall for Small Businesses to Sell Goods Online in Three Weekends](https://hackernoon.com/how-i-built-a-vendor-stall-for-small-businesses-to-sell-goods-online-in-three-weekends-swep32l5)
 ![](https://cdn.hackernoon.com/drafts/behd32uw.png)
 You can build an enterprise-grade app with low-level knowledge thanks to the myriad of robust services covering every aspect of a web product’s needs. In this article, I explore how I built an app over a couple of weekends in lockdown with not a lot of work.
 
-### [496. This Color Tool Turns Any Image Into a Wes Anderson Fever Dream](https://hackernoon.com/this-color-tool-turns-any-image-into-a-wes-anderson-fever-dream)
+### [497. This Color Tool Turns Any Image Into a Wes Anderson Fever Dream](https://hackernoon.com/this-color-tool-turns-any-image-into-a-wes-anderson-fever-dream)
 ![](https://cdn.hackernoon.com/images/rwA7IPj2F2NcuLHM6krzJfXXwIj1-q7139kj.png)
 Ditch RGB. Use LAB to extract, apply, and fine-tune color palettes that make your images look like they belong on the big screen.
 
-### [497. Build a Decentralized Freelancer Marketplace With React, Solidity, and CometChat](https://hackernoon.com/build-a-decentralized-freelancer-marketplace-with-react-solidity-and-cometchat)
-![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-m093ov5.jpeg)
-Learn how to build a decentralized freelance marketplace like Upwork using React, Solidity, and CometChat.
+### [498. The React Virtual DOM Explained](https://hackernoon.com/the-react-virtual-dom-explained)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-0a03qfa.jpeg)
+Virtual DOM Is Just A Virtual Copy Of The Actual Object That The DOM Has Created For A Specific Node And...
 
-### [498. Exploring the Adapter Pattern in React (With an Example!)](https://hackernoon.com/exploring-the-adapter-pattern-in-react-with-an-example)
+### [499. Exploring the Adapter Pattern in React (With an Example!)](https://hackernoon.com/exploring-the-adapter-pattern-in-react-with-an-example)
 ![](https://cdn.hackernoon.com/images/isRsYlyOSdTsT7TtYTbFTk5hbEv1-yda3xkd.jpeg)
 How can the adapter pattern improve the readability and reusability of your React components?
 
-### [499. Are my Component Names Too Long? Vue.js Component Naming Best Practices](https://hackernoon.com/how-to-write-shorter-component-names-in-vuejs-o04a3wtw)
+### [500. Are my Component Names Too Long? Vue.js Component Naming Best Practices](https://hackernoon.com/how-to-write-shorter-component-names-in-vuejs-o04a3wtw)
 ![](https://cdn.hackernoon.com/images/nau3wyr.jpg)
 When naming your (Vue.js) components, you might sometimes be worried that the names are getting very long. In this article, we take a closer look at how long is too long and what are the most important best practices when it comes to naming your components.
-
-### [500. A Look Into my Writing Process: Interview With Serhii Rubets, Full-Stack Software Engineer](https://hackernoon.com/a-look-into-my-writing-process-interview-with-serhii-rubets-full-stack-software-engineer)
-![](https://cdn.hackernoon.com/images/S0zuR5PfGFN2e1h8xuRZHD1SPBK2-q9f3hcd.jpeg)
-This is a small interview with Serhii Rubets, a Fullstack JS Engineer with 7 years of experience. 
 

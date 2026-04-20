@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [dapp](https://hackernoon.com/tagged/dapp)
+### Let's learn about [Dapp](https://hackernoon.com/tagged/dapp) via these 82 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A DApp (decentralized application) is an application that operates on a blockchain or peer-to-peer network rather than a centralized server. DApps offer enhanced security, transparency, and censorship resistance, paving the way for a more open internet.
+
 ### [1. Dive Into dApps: Your Ultimate Guide to Start Crafting Them Today!](https://hackernoon.com/dive-into-dapps-your-ultimate-guide-to-start-crafting-them-today)
 ![](https://cdn.hackernoon.com/images/0jygIIZvqRNKC4CORjLZ7NDB7B62-3oa38el.jpeg)
 We will start creating a dApp and learn how to secure funding for its further development.
@@ -130,13 +134,13 @@ Hashmasks are a new experiment in crypto art. But 30% of the project's Name Chan
 ![](https://cdn.hackernoon.com/drafts/uv1r3si5.png)
 In today’s world, it is impossible not to acknowledge the impact of technology on development and organizational growth. The use of technology is practically indispensable; it is present in every sector and industry, in small, medium, or large enterprises. 
 
-### [33. Join to Write Data Into Your First Decentralized Database](https://hackernoon.com/join-to-write-data-into-your-first-decentralized-database)
-![](https://cdn.hackernoon.com/images/TbYt28nVKoQeF1PsWFlYhbkBat42-kz93r3c.jpeg)
-The DB3 Network is a start-up project to build a decentralized, permissionless platform for programmable data processing.
-
-### [34. Creating a P2P, Messaging App on Web3 Using Substrate & Ionic - Introducing Uke - BOG#002](https://hackernoon.com/creating-a-p2p-messaging-app-on-web3-using-substrate-and-ionic-introducing-uke-bog002)
+### [33. Creating a P2P, Messaging App on Web3 Using Substrate & Ionic - Introducing Uke - BOG#002](https://hackernoon.com/creating-a-p2p-messaging-app-on-web3-using-substrate-and-ionic-introducing-uke-bog002)
 ![](https://cdn.hackernoon.com/images/9vtRqXPYjXc1LRCXVTELc59Myu63-u7a3nbu.png)
 Creating a peer to peer messaging app and protocol.
+
+### [34. Join to Write Data Into Your First Decentralized Database](https://hackernoon.com/join-to-write-data-into-your-first-decentralized-database)
+![](https://cdn.hackernoon.com/images/TbYt28nVKoQeF1PsWFlYhbkBat42-kz93r3c.jpeg)
+The DB3 Network is a start-up project to build a decentralized, permissionless platform for programmable data processing.
 
 ### [35. How to Create a Decentralized Marketplace for Agricultural Products on the Rootstock (RSK)](https://hackernoon.com/how-to-create-a-decentralized-marketplace-for-agricultural-products-on-the-rsk-testnet)
 ![](https://cdn.hackernoon.com/images/dYS1YGEDJnYvNorgqqKV2VUHJ7e2-iy236kz.png)
@@ -154,13 +158,13 @@ About a year ago I was excited to hear about the growing number of Decentralized
 ![](https://cdn.hackernoon.com/images/KdLcZRM9ufXhHJgOghOg1qfq8q02-qtf3w8u.jpeg)
 W﻿hat a time to be alive! If you're a millennial like me and lived through the internet boom, followed by the social media explosion, you can only be excited about Web3. And if you aren't, you probably don't know enough about it.
 
-### [39. How to Build DApp on Rootstock with Next.js, Typescript, and Solidity](https://hackernoon.com/how-to-build-dapp-on-rootstock-with-nextjs-typescript-and-solidity)
-![](https://cdn.hackernoon.com/images/messaging-app-user-interface-qerc1mcje88vj7uvjo2uxh9o.png)
-Step-by-step guide to building a DApp on Rootstock with Next.js, TypeScript, and Solidity. Learn how to set up your development environment.
-
-### [40. The Getblock Theory: A Developers Guide](https://hackernoon.com/the-getblock-theory-a-developers-guide)
+### [39. The Getblock Theory: A Developers Guide](https://hackernoon.com/the-getblock-theory-a-developers-guide)
 ![](https://cdn.hackernoon.com/images/sWgUkcWK6naafqrMYXQ9swM3irf2-sa031rq.png)
 Getblock is a practical choice for Web3 projects seeking a balance between cost, ease of use, and reliable access to blockchain networks.
+
+### [40. How to Build DApp on Rootstock with Next.js, Typescript, and Solidity](https://hackernoon.com/how-to-build-dapp-on-rootstock-with-nextjs-typescript-and-solidity)
+![](https://cdn.hackernoon.com/images/messaging-app-user-interface-qerc1mcje88vj7uvjo2uxh9o.png)
+Step-by-step guide to building a DApp on Rootstock with Next.js, TypeScript, and Solidity. Learn how to set up your development environment.
 
 ### [41. "New Users Only See The Casino Aspect & Deny DeFi's Real Innovations" - Darren Mayberry of dappOS](https://hackernoon.com/new-users-only-see-the-casino-aspect-and-deny-defis-real-innovations-darren-mayberry-of-dappos)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-od93q0w.jpeg)
@@ -174,13 +178,13 @@ Unlock the secrets of efficient data handling in Solidity with Linked Lists. Div
 ![](https://cdn.hackernoon.com/images/9vtRqXPYjXc1LRCXVTELc59Myu63-24036am.webp)
 Learn how to build and compose decentralized applications (dApps) on the Polkadot network. 
 
-### [44. How to Trade Crypto on Uniswap for Beginners](https://hackernoon.com/how-to-trade-crypto-on-uniswap-for-beginners)
-![](https://cdn.hackernoon.com/images/Bm6Dk7O9xqaIxfKLbfh8LQkOJos2-uxb3x9p.jpeg)
-Uniswap is a decentralized finance platform that allows users to buy, sell, or trade digital assets such as Ether (ETH), ERC20 tokens, and DAI stable coins.
-
-### [45. Introducing the Uke Alpha - The First Wallet-less Blockchain Chat App That's Going to Break Web3](https://hackernoon.com/introducing-the-uke-alpha-the-first-wallet-less-blockchain-chat-app-thats-going-to-break-web3)
+### [44. Introducing the Uke Alpha - The First Wallet-less Blockchain Chat App That's Going to Break Web3](https://hackernoon.com/introducing-the-uke-alpha-the-first-wallet-less-blockchain-chat-app-thats-going-to-break-web3)
 ![](https://cdn.hackernoon.com/images/9vtRqXPYjXc1LRCXVTELc59Myu63-rzg3ozh.jpeg)
 Walletless web3 messaging, now implemented for your messaging pleasure.
+
+### [45. How to Trade Crypto on Uniswap for Beginners](https://hackernoon.com/how-to-trade-crypto-on-uniswap-for-beginners)
+![](https://cdn.hackernoon.com/images/Bm6Dk7O9xqaIxfKLbfh8LQkOJos2-uxb3x9p.jpeg)
+Uniswap is a decentralized finance platform that allows users to buy, sell, or trade digital assets such as Ether (ETH), ERC20 tokens, and DAI stable coins.
 
 ### [46. What Are The Benefits Of Having DApps Run 100% On-Chain?](https://hackernoon.com/what-are-the-benefits-of-having-dapps-run-100percent-on-chain)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ss931tz.jpeg)
@@ -190,25 +194,25 @@ DApps on most blockchains don't run their full applications on chain, which is a
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxIDSZmbOYwcFaYqLMYTkmiRcb5i1-5p532ls.webp?alt=media&token=54a0b529-1fbf-4613-bb2c-2d2cedef6303)
 I always find it troublesome for me to deploy and interact with Tezos’s Smart Contract at my job as a Software Engineer in my company. So, I decided to build a tool (web app) to solve my problem.
 
-### [48. Build Your Own Payment Solution that Accepts Crypto](https://hackernoon.com/build-your-own-payment-solution-that-accepts-crypto)
-![](https://cdn.hackernoon.com/images/dYS1YGEDJnYvNorgqqKV2VUHJ7e2-7y635wp.png)
-Roll up your sleeves, follow the steps, and before you know it, you'll be accepting crypto like a pro!
-
-### [49. The Establishment of Decentralized Application Programming Interface (DAPI) and Blockchain Oracles](https://hackernoon.com/the-establishment-of-decentralized-application-programming-interface-dapi-and-blockchain-oracles)
+### [48. The Establishment of Decentralized Application Programming Interface (DAPI) and Blockchain Oracles](https://hackernoon.com/the-establishment-of-decentralized-application-programming-interface-dapi-and-blockchain-oracles)
 ![](https://cdn.hackernoon.com/images/dm0NIVFX87QelDnxmjfCQ3RAT1N2-hc931pe.jpeg)
 How the emergence of Decentralized API (DAPI) and blockchain oracle is revolutionizing the off-chain and on-chain data transmission
+
+### [49. Build Your Own Payment Solution that Accepts Crypto](https://hackernoon.com/build-your-own-payment-solution-that-accepts-crypto)
+![](https://cdn.hackernoon.com/images/dYS1YGEDJnYvNorgqqKV2VUHJ7e2-7y635wp.png)
+Roll up your sleeves, follow the steps, and before you know it, you'll be accepting crypto like a pro!
 
 ### [50. The Evolving Landscape of Prediction Markets](https://hackernoon.com/the-evolving-landscape-of-prediction-markets-6i3m33dc)
 ![](https://cdn.hackernoon.com/images/cT8lxgLKhUhRO9BLUhzsVToeIUf1-h4l35di.jpeg)
 An examination of how the cryptocurrency industry is revolutionizing the prediction market space.
 
-### [51. Tera creates financial instruments for the economy without borders](https://hackernoon.com/tera-creates-financial-instruments-for-the-economy-without-bounds-sgxu32ak)
-![](https://cdn.hackernoon.com/images/05q32nu.jpg)
-The risk-hedging instruments in digital economic space were added to the Tera decentralized platform: “Token-option” and “Ambassador”.
-
-### [52. How to Onboard New Users With Coinbase Wallet](https://hackernoon.com/how-to-onboard-new-users-with-coinbase-wallet)
+### [51. How to Onboard New Users With Coinbase Wallet](https://hackernoon.com/how-to-onboard-new-users-with-coinbase-wallet)
 ![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-ht93ihz.jpeg)
 Learn how to make onboarding new users to your web3 dapps easier by using Coinbase Wallet, then see how it's done with the included project and code samples.
+
+### [52. Tera creates financial instruments for the economy without borders](https://hackernoon.com/tera-creates-financial-instruments-for-the-economy-without-bounds-sgxu32ak)
+![](https://cdn.hackernoon.com/images/05q32nu.jpg)
+The risk-hedging instruments in digital economic space were added to the Tera decentralized platform: “Token-option” and “Ambassador”.
 
 ### [53. Flare Just Airdropped 4.279 Billion Tokens: The Largest Drop in Crypto History](https://hackernoon.com/flare-just-airdropped-4279-billion-tokens-the-largest-drop-in-crypto-history)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-dw93osb.jpeg)
@@ -218,26 +222,26 @@ Flare, a layer one blockchain for building applications that utilize data from o
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-e092hls.png)
 The OMP token sale will last for 30 days or until the hard cap of 645 BNB is met.
 
-### [55. Bridging the Gap Between Traditional Finance and Cryptocurrencies](https://hackernoon.com/bridging-the-gap-between-traditional-finance-and-cryptocurrencies-lw27a3zx6)
+### [55. Exploring the Technical Integration of OpenRTB with a Crypto-Native Advertising Platform](https://hackernoon.com/exploring-the-technical-integration-of-openrtb-with-a-crypto-native-advertising-platforms)
+![](https://cdn.hackernoon.com/images/qQyocHsWbMczkyxgRp3TUDFdoNx1-web3ta7.jpeg)
+Explore blockchain's potential in digital advertising with OpenRTB integration, on-chain smart contracts, and innovative publisher solutions.
+
+### [56. Bridging the Gap Between Traditional Finance and Cryptocurrencies](https://hackernoon.com/bridging-the-gap-between-traditional-finance-and-cryptocurrencies-lw27a3zx6)
 ![](https://cdn.hackernoon.com/images/fh24e3z8f.jpg)
 While traditional finance, which includes banking, investment, and insurance, has been around for at least a century, the digital currency market is relatively younger. Bitcoin, the first ever cryptocurrency, was released in January 2009 and did not gain much traction outside enthusiast communities until a couple years later. Over the past few years, however, applications of the technology have proliferated, with major technology companies such as IBM and Microsoft exploring its use cases to augment or replace existing financial processes.
 
-
-### [56. Exploring the Technical Integration of OpenRTB with a Crypto-Native Advertising Platform](https://hackernoon.com/exploring-the-technical-integration-of-openrtb-with-a-crypto-native-advertising-platforms)
-![](https://cdn.hackernoon.com/images/qQyocHsWbMczkyxgRp3TUDFdoNx1-web3ta7.jpeg)
-Explore blockchain's potential in digital advertising with OpenRTB integration, on-chain smart contracts, and innovative publisher solutions.
 
 ### [57. The Noonification: How to Implement a Merkle Tree in Solidity (11/12/2023)](https://hackernoon.com/11-12-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_136_l78ir24one732l56gfzm9xzy.png)
 11/12/2023: Top 5 stories on the Hackernoon homepage!
 
-### [58. Everything You Need to Know About Canceled Transactions – and How They Break Dapp UX](https://hackernoon.com/everything-you-need-to-know-about-canceled-transactions-and-how-they-break-dapp-ux-ao16d3395)
-![](https://cdn.hackernoon.com/drafts/c9q33in.png)
-Is your Dapp displaying incorrect information to users? It probably is — through no fault of your own.
-
-### [59. Introducing Compounding Rewards Feature For Dapp Staking](https://hackernoon.com/introducing-compounding-rewards-feature-for-dapp-staking)
+### [58. Introducing Compounding Rewards Feature For Dapp Staking](https://hackernoon.com/introducing-compounding-rewards-feature-for-dapp-staking)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-aj93tww.jpeg)
 Astar is introducing its new compounding rewards features which will allow users to claim their staked rewards which will automatically be restaked. 
+
+### [59. Everything You Need to Know About Canceled Transactions – and How They Break Dapp UX](https://hackernoon.com/everything-you-need-to-know-about-canceled-transactions-and-how-they-break-dapp-ux-ao16d3395)
+![](https://cdn.hackernoon.com/drafts/c9q33in.png)
+Is your Dapp displaying incorrect information to users? It probably is — through no fault of your own.
 
 ### [60. Building Your Own Crowdfunding Dapp Using Infura and Linea](https://hackernoon.com/building-your-own-crowdfunding-dapp-using-infura-and-linea)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-yh92tp5.jpeg)
@@ -263,13 +267,13 @@ Enter a new dimension in Web3 gaming with SENSO DAPP. Mint exclusive NFT avatars
 ![](https://cdn.hackernoon.com/images/MPQxyfch0lZHKZM3k3hMies8Fpv1-4q0367u.jpeg)
 A decentralized app (dApp) is a digital application or a program that resides and executes on a blockchain or peer-to-peer network of computers 
 
-### [66. Unlocking the Polygon Universe: Kresus Unveils Revolutionary Dapp Marketplace](https://hackernoon.com/unlocking-the-polygon-universe-kresus-unveils-revolutionary-dapp-marketplace)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-gg93vef.jpeg)
-Kresus SuperApp unveils the Kresus Marketplace, revolutionizing the exploration of dapps in the Polygon ecosystem and offering seamless navigation.
-
-### [67. Can We Eliminate the Need for Crypto Wallets in dApps?](https://hackernoon.com/can-we-eliminate-the-need-for-crypto-wallets-in-dapps)
+### [66. Can We Eliminate the Need for Crypto Wallets in dApps?](https://hackernoon.com/can-we-eliminate-the-need-for-crypto-wallets-in-dapps)
 ![](https://cdn.hackernoon.com/images/nBdoW8QYRDe9SsSWMEq8GSCsU6p2-f1936za.jpeg)
 By using one of these methods, a user no longer needs a wallet. Applications can sign transactions on behalf of users. 
+
+### [67. Unlocking the Polygon Universe: Kresus Unveils Revolutionary Dapp Marketplace](https://hackernoon.com/unlocking-the-polygon-universe-kresus-unveils-revolutionary-dapp-marketplace)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-gg93vef.jpeg)
+Kresus SuperApp unveils the Kresus Marketplace, revolutionizing the exploration of dapps in the Polygon ecosystem and offering seamless navigation.
 
 ### [68. The Noonification: Omnity Network Launches Omnity AI  (8/11/2024)](https://hackernoon.com/8-11-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_301_lyia2o0omq9xl0c739xj2tby.png)
@@ -283,41 +287,41 @@ Explore the roadmap for this NFT Marketplace dApp, addressing current limitation
 ![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-hy83bzo.jpeg)
 LendFi announces the launch of its innovative app, now available for download on both the iOS Store and Google PlayStore. 
 
-### [71. How the Telos Build System Emulates NASA's RFP Model](https://hackernoon.com/how-the-telos-build-system-emulates-nasas-rfp-model)
-![](https://cdn.hackernoon.com/images/X0ZiuvGkzJavGCUC5LPCM2rNusI3-0se3f2h.jpeg)
-Telos is beginning to look like the most promising L1 option in blockchain, as it consistently outperforms competitors, including Solana, on every front.
+### [71. Welcome to Decent Land Labs](https://hackernoon.com/welcome-to-decent-land-labs)
+![](https://cdn.hackernoon.com/images/88xQqjRtttXGhP9pAmIP0Lc0irC3-tea3gin.jpeg)
+Discover the journey of Decent Land Labs, from its inception in 2021 to its refined mission and introduction of the Molecular Execution Machine. Dive in!
 
 ### [72. Revolutionizing Digital Assets: Secure NFT dApp with Blockchain & Deep Learning](https://hackernoon.com/revolutionizing-digital-assets-secure-nft-dapp-with-blockchain-and-deep-learning)
 ![](https://cdn.hackernoon.com/images/a-silver-pool-of-water-sketch-color-sl5gnjfcwa205qpqevo0xzeo.png)
 We introduce an innovative decentralized application (dApp) for secure NFT management, leveraging blockchain (Goerli, Solidity) and deep learning
 
-### [73. LABEL Foundation’s Tracks Launches Web3 Music dApp on LG Smart TVs](https://hackernoon.com/label-foundations-tracks-launches-web3-music-dapp-on-lg-smart-tvs)
+### [73. How the Telos Build System Emulates NASA's RFP Model](https://hackernoon.com/how-the-telos-build-system-emulates-nasas-rfp-model)
+![](https://cdn.hackernoon.com/images/X0ZiuvGkzJavGCUC5LPCM2rNusI3-0se3f2h.jpeg)
+Telos is beginning to look like the most promising L1 option in blockchain, as it consistently outperforms competitors, including Solana, on every front.
+
+### [74. LABEL Foundation’s Tracks Launches Web3 Music dApp on LG Smart TVs](https://hackernoon.com/label-foundations-tracks-launches-web3-music-dapp-on-lg-smart-tvs)
 ![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-pc833ms.jpeg)
 Tracks, the innovative Web3 music streaming dApp created by LABEL Foundation and built on the BNB Chain, is now available on LG Smart TVs 
 
-### [74. Medical Data Protection: Empowering a Privacy-driven Future With Web 3](https://hackernoon.com/medical-data-protection-empowering-a-privacy-driven-future-with-web-3)
+### [75. Medical Data Protection: Empowering a Privacy-driven Future With Web 3](https://hackernoon.com/medical-data-protection-empowering-a-privacy-driven-future-with-web-3)
 ![](https://cdn.hackernoon.com/images/GwlxHSudjFXp2j21DJ7mg0SknSK2-s0a3z0g.jpeg)
 Let’s imagine a blockchain network, or maybe a depersonalized application (dApp), that ensures maximum patient awareness and participation.
 
-### [75. Welcome to Decent Land Labs](https://hackernoon.com/welcome-to-decent-land-labs)
-![](https://cdn.hackernoon.com/images/88xQqjRtttXGhP9pAmIP0Lc0irC3-tea3gin.jpeg)
-Discover the journey of Decent Land Labs, from its inception in 2021 to its refined mission and introduction of the Molecular Execution Machine. Dive in!
+### [76. The Blockchain Infrastructure that Caters to Web3.0 Needs](https://hackernoon.com/the-blockchain-infrastructure-that-caters-to-web30-needs)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-px932t4.jpeg)
+The Blockchain infrastructure that caters to Web3.0 needs
 
-### [76. Introducing the CENNZnet DApp and NFT Hackathon](https://hackernoon.com/introducing-the-cennznet-dapp-and-nft-hackathon)
+### [77. Introducing the CENNZnet DApp and NFT Hackathon](https://hackernoon.com/introducing-the-cennznet-dapp-and-nft-hackathon)
 ![](https://cdn.hackernoon.com/images/cdoWDbRZxubjFcNnjse22PoFjfE2-dx035r9.jpeg)
 Calling all aspiring DApp devs and aspiring NFT creators. Join us at CENNZnet for our 3-week hackathon in partnership with Gitcoin. 
-
-### [77. DSCVR Launches Canvas: A Massive Leap For Web3 Social Embedded Apps](https://hackernoon.com/dscvr-launches-canvas-a-massive-leap-for-web3-social-embedded-apps)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-wg82zw7.png)
-Canvas is also built to support existing Frames and Solana Blinks so developers in these ecosystems can easily share their apps on DSCVR.
 
 ### [78. Building the Future: Design & Implementation of a Secure NFT Marketplace dApp](https://hackernoon.com/building-the-future-design-and-implementation-of-a-secure-nft-marketplace-dapp)
 ![](https://cdn.hackernoon.com/images/a-future-marketplace-sketch-color-dv96g67g7y4mfkr7nf9m7oqz.png)
 Explore the meticulous design and implementation process of our NFT Marketplace dApp, detailing secure wallet connections, AI-powered NFT generation, etc.
 
-### [79. The Blockchain Infrastructure that Caters to Web3.0 Needs](https://hackernoon.com/the-blockchain-infrastructure-that-caters-to-web30-needs)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-px932t4.jpeg)
-The Blockchain infrastructure that caters to Web3.0 needs
+### [79. DSCVR Launches Canvas: A Massive Leap For Web3 Social Embedded Apps](https://hackernoon.com/dscvr-launches-canvas-a-massive-leap-for-web3-social-embedded-apps)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-wg82zw7.png)
+Canvas is also built to support existing Frames and Solana Blinks so developers in these ecosystems can easily share their apps on DSCVR.
 
 ### [80. L3s — the Ultimate Scaling Dream](https://hackernoon.com/l3s-the-ultimate-scaling-dream)
 ![](https://cdn.hackernoon.com/images/yvqSk94LhvZA0wrvmh06TtNU2Fy1-jq93v69.jpeg)

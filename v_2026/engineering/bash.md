@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [bash](https://hackernoon.com/tagged/bash)
+### Let's learn about [Bash](https://hackernoon.com/tagged/bash) via these 58 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Bash (Bourne Again SHell) is a Unix shell and command language, commonly used as the default login shell for many Linux distributions and macOS. It is essential for scripting and automating administrative tasks, providing powerful command-line control over operating systems.
+
 ### [1. How To Install Bash On Windows 10](https://hackernoon.com/how-to-install-bash-on-windows-10-lqb73yj3)
 ![](https://cdn.hackernoon.com/drafts/l1143y25.png)
 Microsoft recently joined hands with Canonical (the parent company of Ubuntu) to bring the entire userland into Windows, minus the Linux Kernel. So as a result, you, as a developer, get access to the whole range of Ubuntu command-line tools and utilities with bash shell integrated with Windows. Let’s look at how we can install Bash on Windows 10 and take full advantage of the new feature.
@@ -81,13 +85,13 @@ Ready to dig deep into your Linux filesystem? An exploratory look at some of the
 ![](https://cdn.hackernoon.com/images/2URpjmJLkjVeYGsWZeCo2hCb90Y2-iw93qey.jpeg)
 How to know the difference in shell and terminal
 
-### [21. Supercharge Your JavaScript Dockerfile for High-Performance Production Deployments.](https://hackernoon.com/supercharge-your-javascript-dockerfile-for-high-performance-production-deployments)
-![](https://cdn.hackernoon.com/images/bKYjS2C6Rxcv14egxakvrg8O65x1-bma3p6k.jpeg)
-A step-by-step guide on writing a Dockerfile for a NestJS project.
-
-### [22. Warp: The Terminal For the Modern Developers](https://hackernoon.com/warp-the-terminal-for-the-modern-developers)
+### [21. Warp: The Terminal For the Modern Developers](https://hackernoon.com/warp-the-terminal-for-the-modern-developers)
 ![](https://cdn.hackernoon.com/images/k8BF5t8U11R5my0bz3n6LRmj7sN2-9vc3gsh.png)
 Today, I’m proud to officially introduce Warp, a from-first-principles reinvention of the terminal to make it work better for developers and teams. 
+
+### [22. Supercharge Your JavaScript Dockerfile for High-Performance Production Deployments.](https://hackernoon.com/supercharge-your-javascript-dockerfile-for-high-performance-production-deployments)
+![](https://cdn.hackernoon.com/images/bKYjS2C6Rxcv14egxakvrg8O65x1-bma3p6k.jpeg)
+A step-by-step guide on writing a Dockerfile for a NestJS project.
 
 ### [23. I Found The One Tool To Sort All Your Pictures Like A Boss](https://hackernoon.com/i-found-the-one-tool-to-sort-all-your-pictures-like-a-boss-rkdz32o7)
 ![](https://cdn.hackernoon.com/drafts/7911u2bgg.png)
@@ -97,13 +101,13 @@ For years I have been frustrated and I wanted to find a proper way of sorting my
 ![](https://cdn.hackernoon.com/images/3C88ZQ52TgTvnwhy8oOm1sUC7cE3-y392k36.jpeg)
 create a beautiful custom shell setup on your Linux/macOS with oh-my-zsh
 
-### [25. Programming With Shell for Automation](https://hackernoon.com/programming-with-shell-7d3n02esk)
-![](https://cdn.hackernoon.com/drafts/rc3oo2elf.png)
-Most of the programmers use programming languages such as C,C++, Python, Javascript. They use shell for many tasks . But most of them don’t know that they can program with shell for automating stuff that we find ourselves doing over and over again.
-
-### [26. Creating API with Bash Code in AWS Lambda and API Gateway](https://hackernoon.com/creating-api-with-bash-code-in-aws-lambda-and-api-gateway-2v4n3yp4)
+### [25. Creating API with Bash Code in AWS Lambda and API Gateway](https://hackernoon.com/creating-api-with-bash-code-in-aws-lambda-and-api-gateway-2v4n3yp4)
 ![](https://cdn.hackernoon.com/images/db8x3k5q.jpg)
 Amazon web services (AWS) is a powerful platform for almost every webservice you can imagine. With AWS API Gateway and Lambda you are able to create REST API’s with ease! API gateway is enables you to create the API. Lambda lets you execute code when the API is invoked. This code can be in many programming languages like Python or Node.JS.
+
+### [26. Programming With Shell for Automation](https://hackernoon.com/programming-with-shell-7d3n02esk)
+![](https://cdn.hackernoon.com/drafts/rc3oo2elf.png)
+Most of the programmers use programming languages such as C,C++, Python, Javascript. They use shell for many tasks . But most of them don’t know that they can program with shell for automating stuff that we find ourselves doing over and over again.
 
 ### [27. Kubernetes in Docker: Adding Nodes Dynamically to a Kind Cluster](https://hackernoon.com/kubernetes-in-docker-adding-nodes-dynamically-to-a-kind-cluster)
 ![](https://cdn.hackernoon.com/images/LsfCbad48DNKMmZVHsje6zL3blp1-oe82phw.jpeg)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ide](https://hackernoon.com/tagged/ide)
+### Let's learn about [Ide](https://hackernoon.com/tagged/ide) via these 68 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+An Integrated Development Environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development, streamlining coding, debugging, and testing workflows. It matters by significantly increasing developer productivity and reducing errors through integrated tools and intelligent features.
+
 ### [1. Setting up Atom as a Python IDE [A How To Guide]](https://hackernoon.com/setting-up-atom-as-a-python-ide-a-how-to-guide-o6dd37ff)
 ![](drafts/wj83b36bf.png)
 In this article, I demonstrate how you can setup and maintain a python friendly development environment from within Atom.  Ideally, a developer wants to reduce the amount of window/application switching as much as possible and create repeatable workflows.  
@@ -127,17 +131,17 @@ I believe Replit is an exciting tool that will undoubtedly transform the way we 
 ![](https://cdn.hackernoon.com/images/Xc0KXgvV5JdgW2DnkpC3TTUBpoY2-zd93pn4.jpeg)
 Learn how to update your Rstudio open source software and why you should keep it up to date.
 
-### [32. This Web IDE Runs Your Code in the Cloud—Without Melting Your Laptop](https://hackernoon.com/this-web-ide-runs-your-code-in-the-cloudwithout-melting-your-laptop)
-![](https://cdn.hackernoon.com/images/sAd13E0eNAPXnl8EkBslX1JTeSB2-i223dee.png)
-The project is built on the principle of microservice architecture, which allows you to divide functionality into independent services. 
+### [32. Best Online Code Editors To Use In 2022🚀](https://hackernoon.com/best-online-code-editors-to-use-in-2021-8p1q327n)
+![](https://cdn.hackernoon.com/images/bFFEe4dIUoXgbouiLfgW9PI9b8q1-4m1h35m1.jpeg)
+Are you looking for the Best Online Code editors? Here is the collection of Best Online Code Editors For Web Developers.
 
 ### [33. How To Make Correct Line Endings](https://hackernoon.com/how-to-make-correct-line-endings-f4j3t7h)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FakEBIg10DrPMiavDpnZxfHb098y2-yral3ur2.jpeg?alt=media&token=7e251c31-05ee-4ea8-a291-1b10d1c28c97)
 Ever had the problem where you submit a pull request and the diff is waaaaay bigger than it should be? The code looks identical but GitHub is telling you that it's all different! This is typically due to a difference in line endings. Unix systems (Linux and Mac) default to the LF (line feed) character for line breaks. Windows on the other hand is "special" and defaults to CR/LF (carriage return AND line feed).
 
-### [34. Best Online Code Editors To Use In 2022🚀](https://hackernoon.com/best-online-code-editors-to-use-in-2021-8p1q327n)
-![](https://cdn.hackernoon.com/images/bFFEe4dIUoXgbouiLfgW9PI9b8q1-4m1h35m1.jpeg)
-Are you looking for the Best Online Code editors? Here is the collection of Best Online Code Editors For Web Developers.
+### [34. This Web IDE Runs Your Code in the Cloud—Without Melting Your Laptop](https://hackernoon.com/this-web-ide-runs-your-code-in-the-cloudwithout-melting-your-laptop)
+![](https://cdn.hackernoon.com/images/sAd13E0eNAPXnl8EkBslX1JTeSB2-i223dee.png)
+The project is built on the principle of microservice architecture, which allows you to divide functionality into independent services. 
 
 ### [35. Online Playgrounds to Learn Every Tech Stack on the Web](https://hackernoon.com/online-playgrounds-to-learn-every-tech-stack-on-the-web)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-3x93zzf.jpeg)
@@ -165,21 +169,21 @@ RT-Thread Studio has the features of project creation and management, code editi
 ![](https://cdn.hackernoon.com/images/uaoBDRuz3ify2SsQVyDQmBDRXS52-5o643fh8.jpeg)
 Editor Config is an INI format based configuration system that let you establish project level coding standard; It allows configuring: indentation style, indentation size, line width and more. It helps in reducing the effort required to bring each team member to the consistent coding standards by automatically importing and applying the configuration to IDE.
 
-### [41. Website Builder Tool Quarkly Goes Into Open Beta](https://hackernoon.com/website-builder-tool-quarkly-goes-into-open-beta-lbg31ih)
+### [41. Deploying Ethereum Smart Contracts via Remix IDE](https://hackernoon.com/deploying-ethereum-smart-contracts-via-remix-ide)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-c693ont.jpeg)
+Deploying a smart contract to the Ethereum Network is not as complicated as the process may appear. You only need to finish eight steps to get yours online. 
+
+### [42. Website Builder Tool Quarkly Goes Into Open Beta](https://hackernoon.com/website-builder-tool-quarkly-goes-into-open-beta-lbg31ih)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJBshzpA8zGSiRffpRm1SPbfzxvO2-9f244xko.jpeg?alt=media&token=0503eb31-c62e-4cf3-be8a-e4bc909742eb)
 My name is Alex, and I’m a co-founder and lead developer at Quarkly.io. Quarkly is a project made by our small team of designers and developers, aimed at helping similar teams. Our goal with Quarkly is to make the life and workflow of designer-developer pairs easier, allowing them to work both independently and collaboratively, all in one environment.
 
-### [42. Triple Your Results With These Top 8 VSCode Extensions](https://hackernoon.com/triple-your-results-with-these-top-8-vscode-extensions-mhm3tnt)
+### [43. Triple Your Results With These Top 8 VSCode Extensions](https://hackernoon.com/triple-your-results-with-these-top-8-vscode-extensions-mhm3tnt)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FbEQD24qLHgPFML0RCgzwiVvGwMM2-ex303xwz.jpeg?alt=media&token=d3cb9f32-ef3a-4d2b-a706-5e4021a9d701)
 We all use some VS Code extensions for our day to day development and are always on a hunt for more useful extensions. Here is a list of mine and how I use them:
 
-### [43. My Experience of Working with PyCharm JetBrains IDE](https://hackernoon.com/my-experience-of-working-with-pycharm-jetbrains-ide-4m103uku)
+### [44. My Experience of Working with PyCharm JetBrains IDE](https://hackernoon.com/my-experience-of-working-with-pycharm-jetbrains-ide-4m103uku)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNb5UWzYU8LcYBeB1CmSteO3qx6D2-18j3u5s.jpeg?alt=media&token=9aea4e5e-8a2c-4874-b85d-05711ea5b0a3)
 I always wanted to learn to code but was unable to give ample time because of my schedule. Thanks to Covid19, I started my python journey started recently in the lockdown. 
-
-### [44. Deploying Ethereum Smart Contracts via Remix IDE](https://hackernoon.com/deploying-ethereum-smart-contracts-via-remix-ide)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-c693ont.jpeg)
-Deploying a smart contract to the Ethereum Network is not as complicated as the process may appear. You only need to finish eight steps to get yours online. 
 
 ### [45. Top 6 IDEs for Developers to Compile C++ Programs in 2021](https://hackernoon.com/top-6-ides-for-developers-to-compile-c-programs-in-2021)
 ![](https://cdn.hackernoon.com/images/PA0fnWDjxvVYx1SHEh857BzHi0d2-aqpe364a.jpeg)
@@ -225,13 +229,13 @@ Do you know what percentage of people do not use Ctrl+F when searching text on p
 ![](https://images.unsplash.com/photo-1577894947058-cfdae4276bef?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Over the Easter weekend, a four day weekend characterised by lockdowns all over the world, I decided to use the extra time I had at home to start a new project and learn a new skill. By the end of the weekend I was proud to release my first VSCode extension: ngrok for VSCode.
 
-### [56. How To Code Faster with Hundreds of Shortcuts in TeaCode](https://hackernoon.com/how-to-code-faster-with-hundreds-of-shortcuts-in-teacode-kp193uwv)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FyDmMFh4NATNgxCk6ui4eGX7cq4S2-h7253umu.webp?alt=media&token=6ec295ee-a357-4a39-bb9f-4d8c7f89503e)
-TeaCode is a time-saving app from Apptorium that gives you an enormous library of expendable code snippets for any programming language. Instead of typing the whole action, you can only put down the expander and it with unfold into a full section of code. Every time you use an expander, you save loads of efforts on hand-coding every line. Plus, you can create your own expanders in any language.
-
-### [57. An IDE Plugin for Gamified Continuous Integration: Conclusions](https://hackernoon.com/an-ide-plugin-for-gamified-continuous-integration-conclusions)
+### [56. An IDE Plugin for Gamified Continuous Integration: Conclusions](https://hackernoon.com/an-ide-plugin-for-gamified-continuous-integration-conclusions)
 ![](https://cdn.hackernoon.com/images/4HK5qyMbWfetPhAavzyTZrEb90N2-ny83168.jpeg)
 In this paper, researchers present an IntelliJ plugin designed to seamlessly integrate Gamekins’ gamification elements into the IDE.
+
+### [57. How To Code Faster with Hundreds of Shortcuts in TeaCode](https://hackernoon.com/how-to-code-faster-with-hundreds-of-shortcuts-in-teacode-kp193uwv)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FyDmMFh4NATNgxCk6ui4eGX7cq4S2-h7253umu.webp?alt=media&token=6ec295ee-a357-4a39-bb9f-4d8c7f89503e)
+TeaCode is a time-saving app from Apptorium that gives you an enormous library of expendable code snippets for any programming language. Instead of typing the whole action, you can only put down the expander and it with unfold into a full section of code. Every time you use an expander, you save loads of efforts on hand-coding every line. Plus, you can create your own expanders in any language.
 
 ### [58. An IDE Plugin for Gamified Continuous Integration: Intellij Plugin for Gamekins](https://hackernoon.com/an-ide-plugin-for-gamified-continuous-integration-intellij-plugin-for-gamekins)
 ![](https://cdn.hackernoon.com/images/4HK5qyMbWfetPhAavzyTZrEb90N2-6j831yb.jpeg)
@@ -253,17 +257,17 @@ In this paper, researchers present an IntelliJ plugin designed to seamlessly int
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBnMb3F4vjTb8PuRduWJNBwABhlb2-w4c3uz7.jpeg?alt=media&token=4bebce43-c8a5-4c25-8ef0-8a0a5e0aad14)
 I recently had a large amount of data to refactor out of HTML and into JSON. The details about how I achieved this is a whole different article. What I want to document for myself (and maybe others will find it useful, even if it's only a refresher) are the various code expand and collapse options.
 
-### [63. Introducing Free-To-Use IDE For Embedded Developers](https://hackernoon.com/introducting-free-to-use-ide-for-embedded-developers-f94c3w03)
+### [63. The HackerNoon Newsletter: IBM Researchers Create Mini AI Model That Predicts the Future (2/21/2025)](https://hackernoon.com/2-21-2025-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_116_w7dxd0joi72s7mqoxkiwllnb.png)
+2/21/2025: Top 5 stories on the HackerNoon homepage!
+
+### [64. Introducing Free-To-Use IDE For Embedded Developers](https://hackernoon.com/introducting-free-to-use-ide-for-embedded-developers-f94c3w03)
 ![](https://cdn.hackernoon.com/images/4rv33vo8.jpg)
 RT-Thread Studio IDE V1.1 is released with 7 New Features.
 
 What is RT-Thread Studio IDE:
 
 RT-Thread Studio is a one-stop development tool that has an easy-to-use graphical configuration system and a wealth of software packages and components resources, which is built to make the IoT development more simple and efficient.
-
-### [64. The HackerNoon Newsletter: IBM Researchers Create Mini AI Model That Predicts the Future (2/21/2025)](https://hackernoon.com/2-21-2025-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_116_w7dxd0joi72s7mqoxkiwllnb.png)
-2/21/2025: Top 5 stories on the HackerNoon homepage!
 
 ### [65. How To Block Security Vulnerabilities from Penetrating Your Code](https://hackernoon.com/how-to-block-security-vulnerabilities-from-penetrating-your-code-okbj3v0p)
 ![](https://images.unsplash.com/photo-1520697830682-bbb6e85e2b0b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -273,11 +277,11 @@ As continuous software deployments grow and become the accepted standard, securi
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FyNJbnhbn2DgfeSxltc11PDdlv293-ds323tbx.jpeg?alt=media&token=069ca584-1d5c-427a-b390-0e3a212f90ca)
 The integrated development environment (IDE) software plays an important role in embedded development, it can reduce repetitive work, minimize the difficulty of project development, improve work efficiency both in speed and quality, and accelerate the overall product development process.
 
-### [67. RT-Thread Studio IoT IDE v2.1.0 Update: Fresh Boards, NXP, and MicroChip](https://hackernoon.com/rt-thread-studio-iot-ide-v210-update-fresh-boards-nxp-and-microchip-fg3n33mm)
-![](https://cdn.hackernoon.com/images/yNJbnhbn2DgfeSxltc11PDdlv293-9m3532fu.jpeg)
-RT-Thread Studio V2.1.0 offers a tool associated with tutorials, which helps developers create the BSP visually. Developers can now easily make a board support 
-
-### [68. First-Hand Experience of Applying Nielsen's Usability Heuritics in Design](https://hackernoon.com/first-hand-experience-of-applying-nielsens-usability-heuritics-in-design)
+### [67. First-Hand Experience of Applying Nielsen's Usability Heuritics in Design](https://hackernoon.com/first-hand-experience-of-applying-nielsens-usability-heuritics-in-design)
 ![](https://cdn.hackernoon.com/images/6P7PmV5wEuZCuIB7haREkN3Q5UH2-kk3w35ft.jpeg)
 Normal Nielsen's 10 heuristics can be abstract and hard to apply. Here is how we applied the “Match Between System and the Real World” principle.
+
+### [68. RT-Thread Studio IoT IDE v2.1.0 Update: Fresh Boards, NXP, and MicroChip](https://hackernoon.com/rt-thread-studio-iot-ide-v210-update-fresh-boards-nxp-and-microchip-fg3n33mm)
+![](https://cdn.hackernoon.com/images/yNJbnhbn2DgfeSxltc11PDdlv293-9m3532fu.jpeg)
+RT-Thread Studio V2.1.0 offers a tool associated with tutorials, which helps developers create the BSP visually. Developers can now easily make a board support 
 

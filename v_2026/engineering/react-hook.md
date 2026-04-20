@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [react-hook](https://hackernoon.com/tagged/react-hook)
+### Let's learn about [React Hook](https://hackernoon.com/tagged/react-hook) via these 60 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+React Hooks are functions that let you
+
 ### [1. How to use componentWillMount with Functional Components in React](https://hackernoon.com/how-to-use-componentwillmount-with-functional-components-in-react-fc143u9d)
 ![](https://cdn.hackernoon.com/drafts/mv1331n3.png)
 Functional components are far more efficient than class based components. Less code is needed to be written to achieve the same goal.
@@ -208,13 +212,13 @@ What is a React custom hook and how to build one to fetch data
 ![](https://cdn.hackernoon.com/drafts/pr17t3yk8.png)
 React Hooks have been around since React 16.8 and remain as popular and in demand as ever. They have introduced a completely new way of handling components in React, which may lead you to reevaluate your approach to coding on a fundamental level. Having already been established as the most beloved front-end framework according to Stackoverflow popularity polls, React went above and beyond with the introduction of Hooks.
 
-### [52. This Is Why React Team's useEffect Strategy Shines (CodePen Examples Inside)](https://hackernoon.com/this-is-why-react-teams-useeffect-strategy-shines-codepen-examples-inside)
-![](https://cdn.hackernoon.com/images/Bf6xbPmhtTcARlzNXM2oktEZuh22-pi92n6p.jpeg)
-Explore how the useEffect hook affects React performance. Learn why it runs after rendering and how it can optimize your app.
-
-### [53. Why Do You Love Frontend Development in ReactJS? [Writing Prompt]](https://hackernoon.com/why-do-you-love-frontend-development-in-reactjs-writing-prompt)
+### [52. Why Do You Love Frontend Development in ReactJS? [Writing Prompt]](https://hackernoon.com/why-do-you-love-frontend-development-in-reactjs-writing-prompt)
 ![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-pl93nn2.jpeg)
 Here are some writing prompts on web development using React.
+
+### [53. This Is Why React Team's useEffect Strategy Shines (CodePen Examples Inside)](https://hackernoon.com/this-is-why-react-teams-useeffect-strategy-shines-codepen-examples-inside)
+![](https://cdn.hackernoon.com/images/Bf6xbPmhtTcARlzNXM2oktEZuh22-pi92n6p.jpeg)
+Explore how the useEffect hook affects React performance. Learn why it runs after rendering and how it can optimize your app.
 
 ### [54. How To Create a Search Engine for Any Table Using a Custom React Hook](https://hackernoon.com/how-to-create-a-search-engine-for-any-table-using-a-custom-react-hook-gxm3u21)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fs9eUkDomDPhgVT7d6Sz0ksigK823-uu1l3yms.jpeg?alt=media&token=b8d57865-8266-4fa1-a4dd-b73b09989ac8)

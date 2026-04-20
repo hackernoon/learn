@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [email](https://hackernoon.com/tagged/email)
+### Let's learn about [Email](https://hackernoon.com/tagged/email) via these 122 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 If I ever start out an email with "As previously stated" just know that I'm mad at you.
 
 ### [1. Create a Temporary Gmail Account With Python](https://hackernoon.com/create-a-temporary-gmail-account-with-python)
@@ -91,14 +93,14 @@ In case you are not in raptures when corporations persistently feed you with tar
 ![](https://cdn.hackernoon.com/images/oEevWswN2vfPMhTFlGQfXPeFXDe2-k0633fmp.png)
 Check out these alternatives to Gmail that will give you more control over how and where your emails are stored, and keep your inbox organized.
 
-### [23. The Best Free Email Template Builders and Editors](https://hackernoon.com/the-best-free-email-template-builders-and-editors-86313123)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FdXBjlPsnzFexvfwFeH6Ocgg3WKH2-1t5g3wr8.jpeg?alt=media&token=3743e0f1-a902-4357-8503-6f095c0629a1)
-In 2020 when the Covid pandemic has taken over the World, necessitating people to stay at home, email marketing has become one of the most viable tools for drawing attention to the brand, promoting products, and driving traffic. That why email builders are an important part of our list of tools to build emails.
-
-### [24. How to Track Email Effectiveness in Mixpanel Analytics w/Latenode.com](https://hackernoon.com/how-to-track-email-effectiveness-in-mixpanel-analytics-wlatenodecom)
+### [23. How to Track Email Effectiveness in Mixpanel Analytics w/Latenode.com](https://hackernoon.com/how-to-track-email-effectiveness-in-mixpanel-analytics-wlatenodecom)
 ![](https://cdn.hackernoon.com/images/an-email-icon-on-a-laptop-screen-cles6r9g2000201s60w8y67f1.png)
 Learn how to seamlessly incorporate Mixpanel analytics into your email communication by integrating it with Mailgun using Latenode.com automation platform. 
 
+
+### [24. The Best Free Email Template Builders and Editors](https://hackernoon.com/the-best-free-email-template-builders-and-editors-86313123)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FdXBjlPsnzFexvfwFeH6Ocgg3WKH2-1t5g3wr8.jpeg?alt=media&token=3743e0f1-a902-4357-8503-6f095c0629a1)
+In 2020 when the Covid pandemic has taken over the World, necessitating people to stay at home, email marketing has become one of the most viable tools for drawing attention to the brand, promoting products, and driving traffic. That why email builders are an important part of our list of tools to build emails.
 
 ### [25. What are extortion emails and what can be done? By Jason Nelson](https://hackernoon.com/what-are-extortion-emails-and-what-can-be-done-by-jason-nelson-8uyv30ot)
 ![](https://cdn.hackernoon.com/drafts/3i10r304l.png)
@@ -128,13 +130,13 @@ There are 2 ways to mail merge in Gmail. You can either use a Google add-on that
 ![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-n08319d.jpeg)
 Looking to get more people to engage with your emails? We have you covered with 5 actionable tips you can start using today!
 
-### [32. Ham vs Spam: How to Identify and Classify Spam E-mail](https://hackernoon.com/ham-vs-spam-how-to-identify-and-classify-spam-e-mail)
-![](https://cdn.hackernoon.com/images/a-million-emails-abstract-n5ercmq2r6mpkjzdhr0jh01y.png)
-In this project, some of the machine learning tools were used to see how they perform as classifiers for Ham and Spam emails.
-
-### [33. Social Media Who? Why Email Marketing is the Ultimate Conversion Machine](https://hackernoon.com/social-media-who-why-email-marketing-is-the-ultimate-conversion-machine)
+### [32. Social Media Who? Why Email Marketing is the Ultimate Conversion Machine](https://hackernoon.com/social-media-who-why-email-marketing-is-the-ultimate-conversion-machine)
 ![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-u493p7t.jpeg)
 The best thing about email marketing is that you own your audience!
+
+### [33. Ham vs Spam: How to Identify and Classify Spam E-mail](https://hackernoon.com/ham-vs-spam-how-to-identify-and-classify-spam-e-mail)
+![](https://cdn.hackernoon.com/images/a-million-emails-abstract-n5ercmq2r6mpkjzdhr0jh01y.png)
+In this project, some of the machine learning tools were used to see how they perform as classifiers for Ham and Spam emails.
 
 ### [34. Automating Newsletters Generation from RSS Feeds Using Platypush](https://hackernoon.com/automating-newsletters-generation-from-rss-feeds-using-platypush-il1p3tln)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQTdu6Xy6ybX5moDaFNuGeYEDmX83-3o91823.jpeg?alt=media&token=d71a0ad7-1afe-488e-992f-3d022ea93af0)
@@ -149,13 +151,13 @@ regex for email addresses - it is possible
 ![](https://cdn.hackernoon.com/images/GvnAPwSjd2d7NY8tMSWpEb6fEy63-ol93q3d.jpeg)
 
 
-### [37. Get The Most Out Of Everything You Read  Using Python](https://hackernoon.com/get-the-most-out-of-everything-you-read-using-python-kw1o3uiz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5Zz7llkxJtRqaIJy2BQzv4g5Yvm1-147z3uwh.jpeg?alt=media&token=2de6f78e-751c-4d2f-9818-1d321031067f)
-Imagine reading something, and never losing track of that information.
-
-### [38. How to Use ChatGPT to E-mail Like a Pro](https://hackernoon.com/how-to-use-chatgpt-to-e-mail-like-a-pro)
+### [37. How to Use ChatGPT to E-mail Like a Pro](https://hackernoon.com/how-to-use-chatgpt-to-e-mail-like-a-pro)
 ![](https://cdn.hackernoon.com/images/5bUHPRn0Elfz3IyYaf07EC5rOao2-278337s.jpeg)
 The article offers tips for writing professional emails using ChatGPT, emphasizing the importance of email etiquette at work. 
+
+### [38. Get The Most Out Of Everything You Read  Using Python](https://hackernoon.com/get-the-most-out-of-everything-you-read-using-python-kw1o3uiz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5Zz7llkxJtRqaIJy2BQzv4g5Yvm1-147z3uwh.jpeg?alt=media&token=2de6f78e-751c-4d2f-9818-1d321031067f)
+Imagine reading something, and never losing track of that information.
 
 ### [39. zkEmail Account in Noir & Aztec - Part 1](https://hackernoon.com/zkemail-account-in-noir-and-aztec-part-1)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bd02rtu.jpeg)
@@ -187,13 +189,13 @@ Compare ClickUp Email and Missive to streamline your workflow and cut costs.
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-hx92b1w.jpeg)
 Anybody who has ever used an API won’t question the benefits you get when using it and will probably notice the load of work it takes upon itself. The variety of APIs will fit any developer’s needs, so if you want your app to quote Marvel movies, there’s an API for that. But that’s a separate topic for discussion, because today we’re going to have a look at itinerary planners.
 
-### [46. An Assembly Model for Evaluating Email Marketing Metrics](https://hackernoon.com/an-assembly-model-for-evaluating-email-marketing-metrics-jbcb3280)
-![](https://cdn.hackernoon.com/images/iixm3ftn.gif)
-How do you know that your emails are effective and bring you more benefit than harm? In this article, we (dashly.io) will tell you which metrics are used in email marketing, which of them are more reliable, in what cases each of them should be important to you, and, most importantly, how and with what tools you can influence them.
-
-### [47. How Spike Replaces Slack as the Leading Communications Tool](https://hackernoon.com/how-spike-replaces-slack-as-the-leading-communications-tool)
+### [46. How Spike Replaces Slack as the Leading Communications Tool](https://hackernoon.com/how-spike-replaces-slack-as-the-leading-communications-tool)
 ![](https://cdn.hackernoon.com/images/8XNzGveuOJaoGXYGO2zNhOfmd7N2-ix93obr.jpeg)
 
+
+### [47. An Assembly Model for Evaluating Email Marketing Metrics](https://hackernoon.com/an-assembly-model-for-evaluating-email-marketing-metrics-jbcb3280)
+![](https://cdn.hackernoon.com/images/iixm3ftn.gif)
+How do you know that your emails are effective and bring you more benefit than harm? In this article, we (dashly.io) will tell you which metrics are used in email marketing, which of them are more reliable, in what cases each of them should be important to you, and, most importantly, how and with what tools you can influence them.
 
 ### [48. Implementing Google Authentication and Fetching Mails from Scratch Using Python Django](https://hackernoon.com/implementing-google-authentication-and-fetching-mails-from-scratch-using-python-django-qidv36j7)
 ![](https://cdn.hackernoon.com/drafts/cs4n2d42.png)
@@ -223,17 +225,17 @@ Today, I found out that I have a lot of open tabs related to emails. Let's close
 ![](https://cdn.hackernoon.com/images/dm80U3VH3zdUSsmMuCzCh15HuUl2-oni2ooc.jpeg)
 This article will share ten tips to help you create an informative and effective professional email signature to improve your communication - with examples.
 
-### [55. Introducing a Simple NPM Module with Email Templates](https://hackernoon.com/introducing-a-simple-npm-module-with-email-templates)
+### [55. Meet The Entrepreneur: Dvir Ben Aroya, Co-Founder & CEO, Spike ](https://hackernoon.com/meet-the-entrepreneur-dvir-ben-aroya-co-founder-and-ceo-spike)
+![](https://cdn.hackernoon.com/images/uwdds9GP9oRGK8rZBtabE59fB8P2-n493v97.jpeg)
+Dvir has over 20 years of executive experience leading technology and internet companies.
+
+### [56. Introducing a Simple NPM Module with Email Templates](https://hackernoon.com/introducing-a-simple-npm-module-with-email-templates)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-pe03765.jpeg)
 From novice developers to experienced ones, most are involved in sending emails programmatically. Read on to know the need for a default email template package.
 
-### [56. How to Hustle Your Way to 1.5 Million Newsletter Subscribers](https://hackernoon.com/how-to-hustle-your-way-to-15-million-newsletter-subscribers)
+### [57. How to Hustle Your Way to 1.5 Million Newsletter Subscribers](https://hackernoon.com/how-to-hustle-your-way-to-15-million-newsletter-subscribers)
 ![](https://cdn.hackernoon.com/images/SfOPbgSoOZVukPd7mPBLJTpTHF32-wyjk35qf.jpeg)
 This article takes you through the growth journey of The Hustle and the lessons that startups can learn from their growth over the years and how to apply them. 
-
-### [57. Meet The Entrepreneur: Dvir Ben Aroya, Co-Founder & CEO, Spike ](https://hackernoon.com/meet-the-entrepreneur-dvir-ben-aroya-co-founder-and-ceo-spike)
-![](https://cdn.hackernoon.com/images/uwdds9GP9oRGK8rZBtabE59fB8P2-n493v97.jpeg)
-Dvir has over 20 years of executive experience leading technology and internet companies.
 
 ### [58. Email Marketing For Tech: A Definitive Guide](https://hackernoon.com/email-marketing-for-tech-a-definitive-guide-0i1134if)
 ![](https://cdn.hackernoon.com/images/elSxFAxSKrdQdNKR1XbMJp3CF4f1-cv2m33j1.png)
@@ -256,53 +258,53 @@ When did email become the weakest security link? Email was never intended to tra
 Don’t you manage your affairs, both business and personal, via emails and
 messengers? Sure, you do. It’s convenient and saves tons of time. Colleagues need email to send reports, entrepreneurs to exchange ideas, journalists to send confidential articles for publication, and so on. But there is one issue we all face - a data breach. People aware of this problem and have already found a solution - encrypted email.
 
-### [63. 12 Ways You Can Use Email to Nurture Leads to Conversion](https://hackernoon.com/12-ways-you-can-use-email-to-nurture-leads-to-conversion-64ey3wz1)
-![](https://cdn.hackernoon.com/drafts/n3iu38zy.png)
-In Dashly, we prepared 12 examples if emails which can be used to nurture your leads. But for starters, let’s define our concepts. 
-
-### [64. 6 Code Optimization Tips For Building Email Templates ](https://hackernoon.com/6-code-optimization-tips-for-building-email-templates)
+### [63. 6 Code Optimization Tips For Building Email Templates ](https://hackernoon.com/6-code-optimization-tips-for-building-email-templates)
 ![](https://cdn.hackernoon.com/images/fish-with-laptop-clc6q95dn000901s6f5l25zia.png)
 The LLazyEmail project is working on a third email template right now. The main goal is to spend less time converting the next template into pieces. 
 
-### [65. Building Leave Me Alone in the Open](https://hackernoon.com/building-leave-me-alone-in-the-open-7721274af173)
-![](https://cdn.hackernoon.com/hn-images/1*JYGU_MEBZaJfWw4HnQtvcg.jpeg)
-Our new approach to making and launching
+### [64. 12 Ways You Can Use Email to Nurture Leads to Conversion](https://hackernoon.com/12-ways-you-can-use-email-to-nurture-leads-to-conversion-64ey3wz1)
+![](https://cdn.hackernoon.com/drafts/n3iu38zy.png)
+In Dashly, we prepared 12 examples if emails which can be used to nurture your leads. But for starters, let’s define our concepts. 
 
-### [66. Sending Emails With Ruby](https://hackernoon.com/sending-emails-with-ruby)
-![](https://cdn.hackernoon.com/images/bsM9zYoeeNQuIt7EG6jLMc0Ss9Q2-9493j1f.jpeg)
-This tutorial is tailored is aimed at  helping you implement sending emails with Ruby.
-
-### [67. How to Increase Your Newsletter Subscribers: 7 Proven Ways](https://hackernoon.com/how-to-increase-your-newsletter-subscribers-7-proven-ways)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-nq93ps2.gif.webp)
-1. Make Registration Simple I'm not implying that your users don't have their heads, but some websites are really hard to sign up for.
-
-### [68. Interactive AMP Emails: Transforming the Future of Emails](https://hackernoon.com/interactive-amp-emails-transforming-the-future-of-emails)
-![](https://cdn.hackernoon.com/images/email-icon-on-a-laptop-cli2u6iyo000001s67y763eqf.png)
-Email marketing is among the highest ROI-generating channels. But, with time, as other platforms innovated, emails remained static. Given its potential to positively impact a business’s growth trajectory, it doesn't evolve like other technologies. 
-
-### [69. How to Show Live Status Updates in Emails](https://hackernoon.com/how-to-show-live-status-updates-in-emails)
+### [65. How to Show Live Status Updates in Emails](https://hackernoon.com/how-to-show-live-status-updates-in-emails)
 ![](https://cdn.hackernoon.com/images/1UGAwvkVHecZ5lhzWp5y3DtzRh82-zy239ez.jpeg)
 I got a speeding ticket... However I learned a great new lesson about live data in email campaigns. Learn how to show the payment status or even a countdown.
 
-### [70. How to Change Your Email Signature in Outlook](https://hackernoon.com/how-to-change-your-email-signature-in-outlook)
-![](https://cdn.hackernoon.com/images/n5jC2PDrb9hJje5wDf8NTMHI6YY2-fj93ole.jpeg)
-Learn how to edit or update your Outlook signature on desktop, web, and mobile. Quickly change your Outlook signature with these simple steps.
+### [66. Building Leave Me Alone in the Open](https://hackernoon.com/building-leave-me-alone-in-the-open-7721274af173)
+![](https://cdn.hackernoon.com/hn-images/1*JYGU_MEBZaJfWw4HnQtvcg.jpeg)
+Our new approach to making and launching
 
-### [71. 6 Ways to Prevent Emails From Landing in Gmail’s Spam Folder](https://hackernoon.com/6-ways-to-prevent-emails-from-landing-in-gmails-spam-folder)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-q793puz.jpeg)
-Let's go back to your inbox and help you get away from your spam folder forever.
+### [67. Sending Emails With Ruby](https://hackernoon.com/sending-emails-with-ruby)
+![](https://cdn.hackernoon.com/images/bsM9zYoeeNQuIt7EG6jLMc0Ss9Q2-9493j1f.jpeg)
+This tutorial is tailored is aimed at  helping you implement sending emails with Ruby.
 
-### [72. Why Do Investors Say "No"?  ](https://hackernoon.com/why-do-investors-say-no)
+### [68. How to Increase Your Newsletter Subscribers: 7 Proven Ways](https://hackernoon.com/how-to-increase-your-newsletter-subscribers-7-proven-ways)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-nq93ps2.gif.webp)
+1. Make Registration Simple I'm not implying that your users don't have their heads, but some websites are really hard to sign up for.
+
+### [69. Interactive AMP Emails: Transforming the Future of Emails](https://hackernoon.com/interactive-amp-emails-transforming-the-future-of-emails)
+![](https://cdn.hackernoon.com/images/email-icon-on-a-laptop-cli2u6iyo000001s67y763eqf.png)
+Email marketing is among the highest ROI-generating channels. But, with time, as other platforms innovated, emails remained static. Given its potential to positively impact a business’s growth trajectory, it doesn't evolve like other technologies. 
+
+### [70. How Do Hackers Get Phishing Emails Past Filters?](https://hackernoon.com/how-do-hackers-get-phishing-emails-past-filters)
+![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-sa03890.jpeg)
+Email spam filters keep getting better — so why do phishing emails keep getting through? Here are the strategies hackers are using so you can protect yourself.
+
+### [71. Why Do Investors Say "No"?  ](https://hackernoon.com/why-do-investors-say-no)
 ![](https://cdn.hackernoon.com/images/sZWSQ6YzqYX15mpfVAfpju6dlJq2-gq93z59.jpeg)
 All startups hunt for capital, and in order to attract it from investors or funds they need, first of all, to contact them.
 
-### [73. How To Boost Your Email Conversions With An Email Preferences Page ](https://hackernoon.com/what-is-an-email-preference-page-2k1a35ve)
+### [72. How to Change Your Email Signature in Outlook](https://hackernoon.com/how-to-change-your-email-signature-in-outlook)
+![](https://cdn.hackernoon.com/images/n5jC2PDrb9hJje5wDf8NTMHI6YY2-fj93ole.jpeg)
+Learn how to edit or update your Outlook signature on desktop, web, and mobile. Quickly change your Outlook signature with these simple steps.
+
+### [73. 6 Ways to Prevent Emails From Landing in Gmail’s Spam Folder](https://hackernoon.com/6-ways-to-prevent-emails-from-landing-in-gmails-spam-folder)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-q793puz.jpeg)
+Let's go back to your inbox and help you get away from your spam folder forever.
+
+### [74. How To Boost Your Email Conversions With An Email Preferences Page ](https://hackernoon.com/what-is-an-email-preference-page-2k1a35ve)
 ![](https://hackernoon.com/images/2jNr69Chr7MY7NuWeByHEXp1lMt1-fn3s44fz.jpeg)
 You can control your unsubscribe rate! An email preference page is a powerful tool to keep your email subscribers engaged & your unsubscribe rate down. 
-
-### [74. How Do Hackers Get Phishing Emails Past Filters?](https://hackernoon.com/how-do-hackers-get-phishing-emails-past-filters)
-![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-sa03890.jpeg)
-Email spam filters keep getting better — so why do phishing emails keep getting through? Here are the strategies hackers are using so you can protect yourself.
 
 ### [75. Using Python for Sending Email Notifications (Code Examples Included)](https://hackernoon.com/using-python-for-sending-email-notifications-code-examples-included)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-a693055.jpeg)
@@ -312,17 +314,17 @@ Check four ways to send emails using python (smtplib, AWS SES, Gmail and SuprSen
 ![](https://hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-7ys34xy.jpeg)
 Considering the above discussed DOs & DON’Ts of email signature can increase your chance of getting a response by over 40%. 
 
-### [77. 4 Innovative Email and Instant Messaging Platforms in 2022](https://hackernoon.com/4-innovative-email-and-instant-messaging-platforms-in-2022)
+### [77. How to Manage Exchange Online DNS Records for SPF, DKIM, and DMARC  with PowerShell](https://hackernoon.com/how-to-manage-exchange-online-dns-records-for-spf-dkim-and-dmarc-with-powershell)
+![](https://cdn.hackernoon.com/images/lh9bYEEAoyTpHOAcH2LdYuRteSX2-mn02cxv.png)
+In this article, I will explain how you can improve your organization's email reputation on the Internet with Exchange Online and some PowerShell.
+
+### [78. 4 Innovative Email and Instant Messaging Platforms in 2022](https://hackernoon.com/4-innovative-email-and-instant-messaging-platforms-in-2022)
 ![](https://cdn.hackernoon.com/images/RiPhiXYF9KfeRRAioiKdMfCoTM63-ive3nc7.jpeg)
 We will explore a list of the most efficient platforms for collaboration and communication that may be utilized in today’s hyper-digitalized world.
 
-### [78. How to Pick the Best Email Marketing Platform](https://hackernoon.com/how-to-pick-the-best-email-marketing-platform-g51l3wfd)
+### [79. How to Pick the Best Email Marketing Platform](https://hackernoon.com/how-to-pick-the-best-email-marketing-platform-g51l3wfd)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-8l213wi7.jpeg?alt=media&token=65a4e1d7-bb8a-4e8d-9ada-831f381a3216)
 Email marketing, where many view it as a dying industry, is still very active - by 2024, it is estimated that more than 361 billion emails will be sent each and every day. This massive resource is already being utilized by many different companies to market a wide array of products and services. Email marketing can be much more effective than other forms of marketing campaigns - email marketing campaigns have been shown to acquire 40 times more customers than Twitter and Facebook campaigns combined. Email offers can also make customers spend more than twice as much with a special email offer. Marketing professionals say that email engagement is their top metric for measuring content performance, that email is one of their top free and organic distribution channels, and that email newsletters are their most used form of content marketing. 
-
-### [79. How to Manage Exchange Online DNS Records for SPF, DKIM, and DMARC  with PowerShell](https://hackernoon.com/how-to-manage-exchange-online-dns-records-for-spf-dkim-and-dmarc-with-powershell)
-![](https://cdn.hackernoon.com/images/lh9bYEEAoyTpHOAcH2LdYuRteSX2-mn02cxv.png)
-In this article, I will explain how you can improve your organization's email reputation on the Internet with Exchange Online and some PowerShell.
 
 ### [80. Inbox zero is a lie you tell yourself](https://hackernoon.com/inbox-zero-is-a-lie-you-tell-yourself-okj359b)
 ![](https://cdn.hackernoon.com/images/DOv1GE1EGiU3q3ll6rlUhMPuX0r1-za2036ux.jpeg)
@@ -381,57 +383,57 @@ A look at how safe your emails are and what you can do to protect them from cybe
 ![](https://cdn.hackernoon.com/images/SITWnH2OUwMzIRYixM7bp9xv10y2-jp1v35dk.jpeg)
 The high ROI of email marketing, which is, by the way, is around 120%, fosters using such approaches as cold email for sales. 
 
-### [94. 9 Super-Effective Practices to Find Email Addresses in Fewer Than 1 Minute](https://hackernoon.com/9-super-effective-practices-to-find-email-addresses-in-fewer-than-1-minute-mg1h3311)
-![](https://cdn.hackernoon.com/images/kRULdOYUVYfC3l7CIG0Ch4t6NhA3-7w173372.jpeg)
-Want to know how to find email addresses in simple and effective ways? Here’s the tips, tricks, and tools to find email addresses effectively in under a minute.
-
-### [95. Apache DolphinScheduler Email Alert Setup Guide for Enterprise Needs](https://hackernoon.com/apache-dolphinscheduler-email-alert-setup-guide-for-enterprise-needs)
+### [94. Apache DolphinScheduler Email Alert Setup Guide for Enterprise Needs](https://hackernoon.com/apache-dolphinscheduler-email-alert-setup-guide-for-enterprise-needs)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-nh03dag.jpeg)
 Master Apache DolphinScheduler Email alerts! 
+
+### [95. 9 Super-Effective Practices to Find Email Addresses in Fewer Than 1 Minute](https://hackernoon.com/9-super-effective-practices-to-find-email-addresses-in-fewer-than-1-minute-mg1h3311)
+![](https://cdn.hackernoon.com/images/kRULdOYUVYfC3l7CIG0Ch4t6NhA3-7w173372.jpeg)
+Want to know how to find email addresses in simple and effective ways? Here’s the tips, tricks, and tools to find email addresses effectively in under a minute.
 
 ### [96. Email Configuration in Microsoft Dynamics: Linking The Email Field with Outlook](https://hackernoon.com/email-configuration-in-microsoft-dynamics-linking-the-email-field-with-outlook-op4c355y)
 ![](https://cdn.hackernoon.com/images/Xvj38qOQtIau3Xndv3vCWA3xrot1-6811i34qx.jpeg)
 Learn by our our practice how to set up MS Dynamics email configuration and link Email field in CRM with Outlook Web App
 
-### [97. On Amazon Email Template](https://hackernoon.com/on-amazon-email-template-ban3tqn)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxXA98orcf7S2e7CkX9qNExnzLGb2-sb193u4k.jpeg?alt=media&token=f2a8ee15-7607-4833-a82b-a24ea070d4d1)
-In case you haven't heard, Amazon accidentally sent an email template to a user early this year.
-
-### [98. Did Political Candidates Use Psychological Tricks in Their Emails?](https://hackernoon.com/did-political-candidates-use-psychological-tricks-in-their-emails)
+### [97. Did Political Candidates Use Psychological Tricks in Their Emails?](https://hackernoon.com/did-political-candidates-use-psychological-tricks-in-their-emails)
 ![](https://cdn.hackernoon.com/images/a-wizard-inside-somebodys-e-mail-box-clf1tu7ji000201s6dgj7gbqd.png)
  Arvind Narayanan discusses whether or not political candidates use psychological tricks in their e-mails to supporters.
 
-### [99. 6 Interesting Email Marketing Facts to Quiz your Coworkers On](https://hackernoon.com/6-interesting-email-marketing-facts-to-quiz-your-coworkers-on-xl353w4v)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnKnmGns1pQemWwHF5F7WHTGgri62-vy2t28x8.jpeg?alt=media&token=9df2c19c-38c3-4a48-9359-a439f28352c8)
-Do you know any of these email marketing facts? I believe everyone in online business and marketing should know these.
+### [98. On Amazon Email Template](https://hackernoon.com/on-amazon-email-template-ban3tqn)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxXA98orcf7S2e7CkX9qNExnzLGb2-sb193u4k.jpeg?alt=media&token=f2a8ee15-7607-4833-a82b-a24ea070d4d1)
+In case you haven't heard, Amazon accidentally sent an email template to a user early this year.
 
-### [100. Email is Not Dead: Response Time is Everything](https://hackernoon.com/email-is-not-dead-response-time-is-everything-sq3w36dw)
+### [99. Email is Not Dead: Response Time is Everything](https://hackernoon.com/email-is-not-dead-response-time-is-everything-sq3w36dw)
 ![](https://images.unsplash.com/photo-1579275542618-a1dfed5f54ba?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Email has been going strong for over 50 years but according to many news outlets, including Forbes, The Telegraph, and The Wall Street Journal, email’s use has gone down drastically. But the data tells a different story; it is estimated that by 2022, 126.7 trillion emails will be sent. In 2017, 90% of all Americans of all ages, from 15 all the way to 65 and up, checked their emails regularly. Even Gen Z checks their email - and quite often too. More than half check their emails several times each day. So in the end, email is alive and well and is still commonly used for personal and business applications. Using email for business can be a tricky endeavor however.
+
+### [100. 6 Interesting Email Marketing Facts to Quiz your Coworkers On](https://hackernoon.com/6-interesting-email-marketing-facts-to-quiz-your-coworkers-on-xl353w4v)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnKnmGns1pQemWwHF5F7WHTGgri62-vy2t28x8.jpeg?alt=media&token=9df2c19c-38c3-4a48-9359-a439f28352c8)
+Do you know any of these email marketing facts? I believe everyone in online business and marketing should know these.
 
 ### [101. What is Email Deliverability Why Should You Care?](https://hackernoon.com/what-is-email-deliverability-why-should-you-care-eh1235oz)
 ![](https://cdn.hackernoon.com/images/kBFlERI1RKaN72A1qHWVXxP5C972-rr2634ne.jpeg)
 From carefully choosing your email service provider, tracking sender behavior, there are different ways you can improve your email deliverability with results.
 
-### [102. The Essential Guide to Email Security: Threats, Costs, and Strategies](https://hackernoon.com/the-essential-guide-to-email-security-threats-costs-and-strategies-3y5j3ujn)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fc04EFcTv66Zbzhwa4Fz3VAZCs9g2-cl2b3us9.jpeg?alt=media&token=112d2535-f534-48a8-aeca-7386f1cfb147)
-We all use email on a regular basis, but we aren’t always cognizant of the email security standards we use. If a hacker gains access to your account, or manages to fool you into downloading an attachment with malware via email, it could have devastating consequences for your business.
-
-### [103. Simple Strategies and Templates for Business Email Signatures](https://hackernoon.com/simple-strategies-and-templates-for-business-email-signatures-tx1q22l6)
-![](https://cdn.hackernoon.com/images/dm80U3VH3zdUSsmMuCzCh15HuUl2-364g21ux.jpeg)
-Discover extremely effective strategies for managing business email signatures - What you need to know to get started: basic elements, templates, and more.
-
-### [104. How to Fix Outlook Email Search Not Working on Windows or Mac [SOLVED]](https://hackernoon.com/how-to-fix-outlook-email-search-not-working-on-windows-or-mac-solved)
+### [102. How to Fix Outlook Email Search Not Working on Windows or Mac [SOLVED]](https://hackernoon.com/how-to-fix-outlook-email-search-not-working-on-windows-or-mac-solved)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-fw039ys.jpeg)
 Here are 3 ways to troubleshoot when Outlook email search isn't working.
 
-### [105. 5 Auto-Message Sequences You Can Run Right Now](https://hackernoon.com/5-auto-message-sequences-you-can-run-right-now-t6et3yxd)
-![](https://cdn.hackernoon.com/drafts/9r4c3y3l.png)
-In Dashly, we adore auto messages. It saves us lots of time, as they automatically generate and warm up leads. In this article, we share an easy way for you to create a message chain right now if you have never done this before. Here’s a list of five auto messages sequence which will be beneficial to both you and your clients. 
+### [103. The Essential Guide to Email Security: Threats, Costs, and Strategies](https://hackernoon.com/the-essential-guide-to-email-security-threats-costs-and-strategies-3y5j3ujn)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fc04EFcTv66Zbzhwa4Fz3VAZCs9g2-cl2b3us9.jpeg?alt=media&token=112d2535-f534-48a8-aeca-7386f1cfb147)
+We all use email on a regular basis, but we aren’t always cognizant of the email security standards we use. If a hacker gains access to your account, or manages to fool you into downloading an attachment with malware via email, it could have devastating consequences for your business.
 
-### [106. Google Workspace: Migration from WiseStamp to Bybrand](https://hackernoon.com/google-workspace-email-signature-manager-migration-from-wisestamp-to-bybrand-vg1i37bp)
+### [104. Simple Strategies and Templates for Business Email Signatures](https://hackernoon.com/simple-strategies-and-templates-for-business-email-signatures-tx1q22l6)
+![](https://cdn.hackernoon.com/images/dm80U3VH3zdUSsmMuCzCh15HuUl2-364g21ux.jpeg)
+Discover extremely effective strategies for managing business email signatures - What you need to know to get started: basic elements, templates, and more.
+
+### [105. Google Workspace: Migration from WiseStamp to Bybrand](https://hackernoon.com/google-workspace-email-signature-manager-migration-from-wisestamp-to-bybrand-vg1i37bp)
 ![](https://cdn.hackernoon.com/images/dm80U3VH3zdUSsmMuCzCh15HuUl2-ll9v340h.jpeg)
 Migrating from one email signature manager to another can be a huge task. See full steps of Migration from WiseStamp To Bybrand for Google Workspace
+
+### [106. 5 Auto-Message Sequences You Can Run Right Now](https://hackernoon.com/5-auto-message-sequences-you-can-run-right-now-t6et3yxd)
+![](https://cdn.hackernoon.com/drafts/9r4c3y3l.png)
+In Dashly, we adore auto messages. It saves us lots of time, as they automatically generate and warm up leads. In this article, we share an easy way for you to create a message chain right now if you have never done this before. Here’s a list of five auto messages sequence which will be beneficial to both you and your clients. 
 
 ### [107. Why Do Cold Emails Need Anti-Spam Filtering Service](https://hackernoon.com/why-do-cold-emails-need-anti-spam-filtering-service-3j7i3219)
 ![](https://cdn.hackernoon.com/drafts/0p1c43zwc.png)
@@ -445,29 +447,29 @@ Newsletters are great tools for keeping your business fresh in the minds of cust
 ![](https://cdn.hackernoon.com/images/3RGNYL2CBgVmVU29FWcPGj6NvdO2-p44k314e.jpeg)
 Managed Service Providers are responsible for IT services and infrastructure in an organization, typically hired to bridge lack of internal technical expertise.
 
-### [110. Manage Your Emails Like You Manage Your Passwords](https://hackernoon.com/manage-your-emails-like-you-manage-your-passwords-j16q357c)
-![](https://cdn.hackernoon.com/images/Lg5s4vghu0QduEUn0wBD7H4yTQF2-udis21qf.jpeg)
-Add an extra security layer for the protection of your emails. 
-
-### [111. How Technological Breakthroughs Are Powering Psychotherapy](https://hackernoon.com/how-technological-breakthroughs-are-powering-psychotherapy-s32c342d)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-z51234l0.jpeg)
-A few years back, maybe you did not envisage there would be this tremendous transformation that has taken place in psychotherapy; neither did I. Breakthroughs in technology have afforded us the opportunity of accessing online therapy from the comfort of our homes and in real-time.
-
-### [112. How to Manage a Customer Support Team from Home](https://hackernoon.com/how-to-manage-a-customer-support-team-from-home-hy8h3ye0)
-![](https://images.unsplash.com/photo-1553775282-20af80779df7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-The world as we know it has changed. Companies are scrambling to find ways to stay afloat and make the remote work model "work." Of all the departments, the customer service department is the hardest hit. Imagine being at the front line, managing cancelled subscriptions, angry and confused customers filing for disputes and what not. Imagine having to do all this from HOME and making sure your performance remains optimal at all times. It's tough. For employees, more so for managers and leaders who have to manage a vast team with no processes in place. 
-
-### [113. Cold E-mailing: The Wonders It Could Do for You](https://hackernoon.com/cold-e-mailing-the-wonders-it-could-do-for-you)
+### [110. Cold E-mailing: The Wonders It Could Do for You](https://hackernoon.com/cold-e-mailing-the-wonders-it-could-do-for-you)
 ![](https://cdn.hackernoon.com/images/a-mailbox-in-the-middle-of-a-snowstorm-clfhdxnxv000001s6c1ssfb8w.png)
 Aleksandr Volodarsky goes over the benefits of cold e-mailing.
 
-### [114. 9 Best Practices for Email List Management](https://hackernoon.com/9-best-practices-for-email-list-management)
-![](https://cdn.hackernoon.com/images/tvoqHPbjrOUJUMKkoJCSEdQAHQq2-9053o1r.jpeg)
-Wondering how to increase ROI from your email list? Here, we are sharing some tried-and-tested tips on and practices on managing email list like a pro.
+### [111. Manage Your Emails Like You Manage Your Passwords](https://hackernoon.com/manage-your-emails-like-you-manage-your-passwords-j16q357c)
+![](https://cdn.hackernoon.com/images/Lg5s4vghu0QduEUn0wBD7H4yTQF2-udis21qf.jpeg)
+Add an extra security layer for the protection of your emails. 
 
-### [115. NetEaseMail Slashes Dev Time by More Than Half With DolphinScheduler](https://hackernoon.com/neteasemail-slashes-dev-time-by-more-than-half-with-dolphinscheduler)
+### [112. How Technological Breakthroughs Are Powering Psychotherapy](https://hackernoon.com/how-technological-breakthroughs-are-powering-psychotherapy-s32c342d)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-z51234l0.jpeg)
+A few years back, maybe you did not envisage there would be this tremendous transformation that has taken place in psychotherapy; neither did I. Breakthroughs in technology have afforded us the opportunity of accessing online therapy from the comfort of our homes and in real-time.
+
+### [113. How to Manage a Customer Support Team from Home](https://hackernoon.com/how-to-manage-a-customer-support-team-from-home-hy8h3ye0)
+![](https://images.unsplash.com/photo-1553775282-20af80779df7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+The world as we know it has changed. Companies are scrambling to find ways to stay afloat and make the remote work model "work." Of all the departments, the customer service department is the hardest hit. Imagine being at the front line, managing cancelled subscriptions, angry and confused customers filing for disputes and what not. Imagine having to do all this from HOME and making sure your performance remains optimal at all times. It's tough. For employees, more so for managers and leaders who have to manage a vast team with no processes in place. 
+
+### [114. NetEaseMail Slashes Dev Time by More Than Half With DolphinScheduler](https://hackernoon.com/neteasemail-slashes-dev-time-by-more-than-half-with-dolphinscheduler)
 ![](https://cdn.hackernoon.com/images/1xYF9Q2MEDQRYXBY7nlDViaH7ED3-hm037xj.jpeg)
 NetEase Mail faced challenges managing lots of data and tasks, so they brought in DolphinScheduler to streamline the process.
+
+### [115. 9 Best Practices for Email List Management](https://hackernoon.com/9-best-practices-for-email-list-management)
+![](https://cdn.hackernoon.com/images/tvoqHPbjrOUJUMKkoJCSEdQAHQq2-9053o1r.jpeg)
+Wondering how to increase ROI from your email list? Here, we are sharing some tried-and-tested tips on and practices on managing email list like a pro.
 
 ### [116. The HackerNoon Newsletter: Ham vs Spam: How to Identify and Classify Spam E-mail (3/8/2025)](https://hackernoon.com/3-8-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_846_egz2nugc14q5opavnamo2pc1.png)

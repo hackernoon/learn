@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [nintendo-switch](https://hackernoon.com/tagged/nintendo-switch)
+### Let's learn about [Nintendo Switch](https://hackernoon.com/tagged/nintendo-switch) via these 87 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+The Nintendo Switch is a hybrid video game console developed by Nintendo, capable of functioning both as a home console and a portable device. Its versatility has broadened gaming accessibility and redefined how and where people play games.
+
 ### [1. How to Use PKHex On Switch to Mod Pokemon Scarlet & Violet](https://hackernoon.com/how-to-mod-pokemon-scarlet-and-violet-with-pkhex)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-1l93tdv.jpeg)
 Here's how to use PKHex on the Nintendo Switch to edit what Pokemon are in your party. 
@@ -221,13 +225,13 @@ Games being delayed is understandable. You don't want to ship out a mess, howeve
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-f893fjn.jpeg)
 The best Wii series games have sold copies numbering in the tens of millions, creating an entire subgenre that no other franchise could easily replicate.
 
-### [56. The OLED Nintendo Switch: Is it Worth It?](https://hackernoon.com/the-oled-nintendo-switch-is-it-worth-it)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-8q037gw.jpeg)
-In this slogging post, our gaming writers discuss the new OLED Nintendo Switch, whether it is worth the money and if its upgrades merit a purchase.
-
-### [57. Review:  Post Void (Switch) ](https://hackernoon.com/review-post-void-switch)
+### [56. Review:  Post Void (Switch) ](https://hackernoon.com/review-post-void-switch)
 ![](https://cdn.hackernoon.com/images/I1RqXC8kOKSDaHHAC47plKSr25v1-x5a30t2.jpeg)
 Post Void is one of the fastest - and most disturbing - games I played in a LONG time.
+
+### [57. The OLED Nintendo Switch: Is it Worth It?](https://hackernoon.com/the-oled-nintendo-switch-is-it-worth-it)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-8q037gw.jpeg)
+In this slogging post, our gaming writers discuss the new OLED Nintendo Switch, whether it is worth the money and if its upgrades merit a purchase.
 
 ### [58. The Top Yikes of Pokémon Scarlet and Violet](https://hackernoon.com/the-top-yikes-of-pokemon-scarlet-and-violet)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-a393uq6.jpeg)
@@ -257,13 +261,13 @@ This article explores Nintendo's past console releases to try and determine what
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-zv93kfy.jpeg)
 2021's Sumire is an incredible story that is illustrated with an incredible art style and soundtrack and is only enhanced by its short length adding context.
 
-### [65. Will the Next New Pokémon Game be a Diamond and Pearl Remake?](https://hackernoon.com/will-the-next-new-pokemon-game-be-a-diamond-and-pearl-remake-89p33o6)
-![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-yo2833dp.jpeg)
-Fans have speculated that the next new Pokemon game could be a Pokemon Diamond and Pearl remake, based on historical trends in the company's release cycle.
-
-### [66. Disney Dreamlight Valley Launches Early Access in September, New Gameplay Trailer Released](https://hackernoon.com/disney-dreamlight-valley-launches-early-access-in-september-new-gameplay-trailer-released)
+### [65. Disney Dreamlight Valley Launches Early Access in September, New Gameplay Trailer Released](https://hackernoon.com/disney-dreamlight-valley-launches-early-access-in-september-new-gameplay-trailer-released)
 ![](https://cdn.hackernoon.com/images/vPyXHEWKAWbkwvDOjXDcEuZTrEg2-lya3nd9.jpeg)
 Gameloft and Nintendo revealed some new footage of the upcoming life-sim adventure game, Disney Dreamlight Valley, which hits Nintendo Switch in September.
+
+### [66. Will the Next New Pokémon Game be a Diamond and Pearl Remake?](https://hackernoon.com/will-the-next-new-pokemon-game-be-a-diamond-and-pearl-remake-89p33o6)
+![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-yo2833dp.jpeg)
+Fans have speculated that the next new Pokemon game could be a Pokemon Diamond and Pearl remake, based on historical trends in the company's release cycle.
 
 ### [67. Is a New Nintendo Switch Model Coming in 2021?](https://hackernoon.com/is-a-new-nintendo-switch-model-coming-in-2021-whp33xa)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-jq3h32t3.jpeg)
@@ -277,25 +281,25 @@ With so many options available, you might ask yourself, which controllers are th
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-xdn33vl.jpeg)
 KOEI TECMO America announced that Team Ninja will present the Ninja Gaiden: Master Collection for major platform release on current and next-gen consoles.
 
-### [70. Will Pokémon Legends: Arceus Live Up to the Hype?](https://hackernoon.com/will-pokemon-legends-arceus-live-up-to-the-hype)
-![](https://cdn.hackernoon.com/images/sEVHo7GjLfYwVu0eY2zD6t877F73-zt83oay.jpeg)
-Pokémon Legends looks to be the open world makeover Pokémon fans have craved. However, mixed signals from recent trailers leave me more skeptical than hopeful. 
-
-### [71. Bayonetta 3 Release Date and New Features (Switch Exclusive)](https://hackernoon.com/bayonetta-3-release-date-and-new-features-switch-exclusive)
+### [70. Bayonetta 3 Release Date and New Features (Switch Exclusive)](https://hackernoon.com/bayonetta-3-release-date-and-new-features-switch-exclusive)
 ![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-og033tp.jpeg)
 The newest trailer for Bayonetta 3 just released, bringing with it a whole slew of information and secrets for keen eyes to find.
 
-### [72. Is the Switch Pro Really Nintendo's Next Console?](https://hackernoon.com/is-the-switch-pro-really-nintendos-next-console)
+### [71. Will Pokémon Legends: Arceus Live Up to the Hype?](https://hackernoon.com/will-pokemon-legends-arceus-live-up-to-the-hype)
+![](https://cdn.hackernoon.com/images/sEVHo7GjLfYwVu0eY2zD6t877F73-zt83oay.jpeg)
+Pokémon Legends looks to be the open world makeover Pokémon fans have craved. However, mixed signals from recent trailers leave me more skeptical than hopeful. 
+
+### [72. 121 Stories To Learn About Nintendo](https://hackernoon.com/121-stories-to-learn-about-nintendo)
+![](https://cdn.hackernoon.com/images/github/nintendo-826.png)
+Learn everything you need to know about Nintendo via these 121 free HackerNoon stories.
+
+### [73. Is the Switch Pro Really Nintendo's Next Console?](https://hackernoon.com/is-the-switch-pro-really-nintendos-next-console)
 ![](https://cdn.hackernoon.com/images/4Utmua7swbeKmKkzfFUMrMiP41x2-ct92igi.jpeg)
 A look into the latest valid information regarding the Nintendo Switch Pro. 
 
-### [73. Not the Nintendo Switch Pro We Were Looking For, But it's Something](https://hackernoon.com/not-the-nintendo-switch-pro-we-were-looking-for-but-its-something-yu5437nm)
+### [74. Not the Nintendo Switch Pro We Were Looking For, But it's Something](https://hackernoon.com/not-the-nintendo-switch-pro-we-were-looking-for-but-its-something-yu5437nm)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-dngi35ba.jpeg)
 The Nintendo Switch console is getting an update. Nintendo has officially unveiled the Nintendo Switch OLED Model due out in early October.
-
-### [74. 121 Stories To Learn About Nintendo](https://hackernoon.com/121-stories-to-learn-about-nintendo)
-![](https://cdn.hackernoon.com/images/github/nintendo-826.png)
-Learn everything you need to know about Nintendo via these 121 free HackerNoon stories.
 
 ### [75. Mario Party Superstars: Why a Return to Form is the Best Thing for the Series](https://hackernoon.com/mario-party-superstars-why-a-return-to-form-is-the-best-thing-for-the-series)
 ![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-650335u.jpeg)
@@ -317,13 +321,13 @@ Learn everything you need to know about Nintendo Switch via these 84 free Hacker
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-ni3233ha.jpeg)
 Just in time for Nintendo Day, you can purchase the new Nintendo Switch: Mario Red & Blue Edition console at multiple online retailers.
 
-### [80. The Legend of Zelda: Breath of the Wild Sequel Set for 2022 Launch](https://hackernoon.com/the-legend-of-zelda-breath-of-the-wild-sequel-set-for-2022-launch-wr1a37fc)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-pp4g35ir.jpeg)
-Nintendo has officially revealed The Legend of Zelda: Breath of the Wild with a new reveal teaser at the Nintendo Direct event for E3 2021.
-
-### [81. .Hack//G.U Last Recode Rated for Nintendo Switch: Is it Coming Soon?](https://hackernoon.com/hackgu-last-recode-rated-for-nintendo-switch-is-it-coming-soon-5y2637kk)
+### [80. .Hack//G.U Last Recode Rated for Nintendo Switch: Is it Coming Soon?](https://hackernoon.com/hackgu-last-recode-rated-for-nintendo-switch-is-it-coming-soon-5y2637kk)
 ![](https://cdn.hackernoon.com/images/I1RqXC8kOKSDaHHAC47plKSr25v1-s3ch37q3.jpeg)
 We now know that .Hack//G.U. Last Recode COULD potentially be coming to the Nintendo Switch in the near future thanks to a leak from a very familiar place. 
+
+### [81. The Legend of Zelda: Breath of the Wild Sequel Set for 2022 Launch](https://hackernoon.com/the-legend-of-zelda-breath-of-the-wild-sequel-set-for-2022-launch-wr1a37fc)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-pp4g35ir.jpeg)
+Nintendo has officially revealed The Legend of Zelda: Breath of the Wild with a new reveal teaser at the Nintendo Direct event for E3 2021.
 
 ### [82. Nerds Talking About Fire Emblem: Three Houses](https://hackernoon.com/nerds-talking-about-fire-emblem-three-houses-w2q345q)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-iti34pz.jpeg)

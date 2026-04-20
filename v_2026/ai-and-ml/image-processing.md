@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [image-processing](https://hackernoon.com/tagged/image-processing)
+### Let's learn about [Image Processing](https://hackernoon.com/tagged/image-processing) via these 81 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Image processing is the manipulation of digital images using algorithms, often to enhance, analyze, or transform them for various applications. It matters across fields like medical imaging, computer vision, and graphic design, enabling machines to 'see' and interpret visual data.
+
 ### [1. Boosting Your App's Intelligence: Leveraging OpenAI and JS File API](https://hackernoon.com/boosting-your-apps-intelligence-leveraging-openai-and-js-file-api-integration)
 ![](https://cdn.hackernoon.com/images/wmWlJ9kWduhdUN4zFBLm1GV0d3r2-nlj3tce.jpeg)
 You will learn HOW OpenAI can be leveraged to enhance JS File API on the example of Smart Image Recognition
@@ -41,13 +45,13 @@ One of the most crucial maxims that I internalized during my career in web engin
 ![](https://cdn.hackernoon.com/images/2jmT8Pmc7QMn8DtMC0v9qnNrnKa2-lc50331u.jpeg)
 Simple image manipulations with WebAssembly and AssemblyScript in the web browser.
 
-### [11. Building a FastAPI OCR Microservice](https://hackernoon.com/building-a-fastapi-ocr-microservice)
-![](https://cdn.hackernoon.com/images/rD3ZPSbOTDVcZgugSUvaEY2oV0x1-r393n3z.jpeg)
-In this article, I will try to explain basic ideas on how to create your own OCR service for free, using python, fastAPI, tesseract, redis, celery and docker.
-
-### [12. How to Fix Profile Image Upload Headaches with Filestack Workflows](https://hackernoon.com/how-to-fix-profile-image-upload-headaches-with-filestack-workflows)
+### [11. How to Fix Profile Image Upload Headaches with Filestack Workflows](https://hackernoon.com/how-to-fix-profile-image-upload-headaches-with-filestack-workflows)
 ![](https://cdn.hackernoon.com/images/0sm1KIKmbZhu9AD2GAr4cKywoN43-l503bh9.jpeg)
 Stop babysitting profile pictures. Learn how Filestack Workflows turn image uploads into scalable, async, and lightning-fast experiences.
+
+### [12. Building a FastAPI OCR Microservice](https://hackernoon.com/building-a-fastapi-ocr-microservice)
+![](https://cdn.hackernoon.com/images/rD3ZPSbOTDVcZgugSUvaEY2oV0x1-r393n3z.jpeg)
+In this article, I will try to explain basic ideas on how to create your own OCR service for free, using python, fastAPI, tesseract, redis, celery and docker.
 
 ### [13. How To Resize an Image Correctly in JavaScript](https://hackernoon.com/how-to-resize-an-image-correctly-in-javascript-4548336j)
 ![](https://cdn.hackernoon.com/images/hkBZtu6tTdTc6vjV74oOnoegICk1-fnc379s.jpeg)
@@ -85,26 +89,26 @@ With the e-commerce boom, entrepreneurs have learned that conventional strategie
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-u493p58.jpeg)
 In this article, I will take you on a journey through the process of creating a scanner that is not only functional but also visually stunning.
 
-### [22. Relearning Packer: 4 Common Myths About Image Automation Debunked ](https://hackernoon.com/relearning-packer-4-common-myths-about-image-automation-debunked)
+### [22. Playing Poker with Computer Vision](https://hackernoon.com/playing-poker-with-computer-vision)
+![](https://cdn.hackernoon.com/images/oiI9sqHxZ8SDEPY3jnQCYIpMn3v1-aci307v.jpeg)
+The function of the program is to start an infinite loop that reads a certain area of the screen where the poker table is.
+
+### [23. Relearning Packer: 4 Common Myths About Image Automation Debunked ](https://hackernoon.com/relearning-packer-4-common-myths-about-image-automation-debunked)
 ![](https://cdn.hackernoon.com/images/NLTPhGUmKmgSWcEJUniqSGe49bS2-qr03b4g.png)
 Discover and debunk four common myths about image automation using HashiCorp Packer.
 
-
-### [23. Playing Poker with Computer Vision](https://hackernoon.com/playing-poker-with-computer-vision)
-![](https://cdn.hackernoon.com/images/oiI9sqHxZ8SDEPY3jnQCYIpMn3v1-aci307v.jpeg)
-The function of the program is to start an infinite loop that reads a certain area of the screen where the poker table is.
 
 ### [24. How To Optimize Images in Django Using ImageEngine](https://hackernoon.com/how-to-optimize-images-in-django-using-imageengine)
 ![](https://cdn.hackernoon.com/images/aCIjlH1H4dbEIL1I3whRaYLLCS13-kqeu342s.jpeg)
 Learn how to optimize images in Django using an easy-to-use ImageCDN. ImageEngine automatically serves your images in next-gen formats on the global CDN.
 
-### [25. PULSE: Photo Upsampling Makes Blurry Faces 60 Times Sharper](https://hackernoon.com/pulse-photo-upsampling-makes-blurry-faces-60-times-sharper-s32p32px)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-zc1t347e.jpeg)
-The new PULSE: Photo Upsampling algorithm transforms a blurry image into a high-resolution image.
-
-### [26. I Found The One Tool To Sort All Your Pictures Like A Boss](https://hackernoon.com/i-found-the-one-tool-to-sort-all-your-pictures-like-a-boss-rkdz32o7)
+### [25. I Found The One Tool To Sort All Your Pictures Like A Boss](https://hackernoon.com/i-found-the-one-tool-to-sort-all-your-pictures-like-a-boss-rkdz32o7)
 ![](https://cdn.hackernoon.com/drafts/7911u2bgg.png)
 For years I have been frustrated and I wanted to find a proper way of sorting my pictures. I had photos coming from several devices, and made manual copies on my laptop and on my external hard drive. I ended up with tons of folders and a lot of duplicates. 
+
+### [26. PULSE: Photo Upsampling Makes Blurry Faces 60 Times Sharper](https://hackernoon.com/pulse-photo-upsampling-makes-blurry-faces-60-times-sharper-s32p32px)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-zc1t347e.jpeg)
+The new PULSE: Photo Upsampling algorithm transforms a blurry image into a high-resolution image.
 
 ### [27. High Quality 8x Upscaling with AI!](https://hackernoon.com/high-quality-8x-upscaling-with-ai)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-7g137c3.jpeg)
@@ -202,13 +206,13 @@ What is Canva? Canva is a software product that helps designers of any skill lev
 ![](https://cdn.hackernoon.com/images/0sm1KIKmbZhu9AD2GAr4cKywoN43-vi93jr5.jpeg)
 OCR software enables the digitization of essential data in paper documents and photographs.
 
-### [51. Speed up AMP pages with an Image CDN](https://hackernoon.com/speed-up-amp-pages-with-an-image-cdn-3g2b3w4z)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaCIjlH1H4dbEIL1I3whRaYLLCS13-zq2i3ewu.jpeg?alt=media&token=1f8e8a99-cedf-44b6-a9fb-aab2c515e987)
-It takes a lot of time and effort to build a profitable website that offers great user experience on any given device type. When you start from a clean slate, you have to take care of everything on your own: browser compatibility, performance, responsive design, discoverability and a whole slew of other factors. 
-
-### [52. From 50 Pages of Handwritten Notes to a Digital Manuscript with Python and AI](https://hackernoon.com/from-50-pages-of-handwritten-notes-to-a-digital-manuscript-with-python-and-ai)
+### [51. From 50 Pages of Handwritten Notes to a Digital Manuscript with Python and AI](https://hackernoon.com/from-50-pages-of-handwritten-notes-to-a-digital-manuscript-with-python-and-ai)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3r023jp.jpeg)
 Apple's HEIC (High-Efficiency Image Container) is great for saving space, but not so great for compatibility.
+
+### [52. Speed up AMP pages with an Image CDN](https://hackernoon.com/speed-up-amp-pages-with-an-image-cdn-3g2b3w4z)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaCIjlH1H4dbEIL1I3whRaYLLCS13-zq2i3ewu.jpeg?alt=media&token=1f8e8a99-cedf-44b6-a9fb-aab2c515e987)
+It takes a lot of time and effort to build a profitable website that offers great user experience on any given device type. When you start from a clean slate, you have to take care of everything on your own: browser compatibility, performance, responsive design, discoverability and a whole slew of other factors. 
 
 ### [53. This Is How Easy it Is to Read and Display Images](https://hackernoon.com/this-is-how-easy-it-is-to-read-and-display-images)
 ![](https://cdn.hackernoon.com/images/IhwaXpJHotbQjTYSlIjXeTnE7ST2-vkc3k5r.jpeg)
@@ -222,13 +226,13 @@ Learn how to implement fast image upload functionality to improve user engagemen
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-6m93uz2.jpeg?alt=media&token=71673579-1203-4534-84db-74eecc103055)
 Pillow is Python Imaging Library that is free and open-source an additional library for the Python programming language that adds support for opening, manipulating, and saving in a variety of extension.
 
-### [56. Implementing Handwritten Text Recognition to Automate Clinical Trials](https://hackernoon.com/implementing-handwritten-text-recognition-to-automate-clinical-trials)
-![](https://cdn.hackernoon.com/images/eZz9OTcJQidkMckOPmIPVbApjoO2-a393o4p.jpeg)
-Manual processing of data (overviews, summaries,study reports) is significantly slowed down and inefficient.AI-driven handwritten text recognition is a solution
-
-### [57. A Beginner's Guide: Responsive Images With srcset](https://hackernoon.com/a-beginners-guide-responsive-images-with-srcset)
+### [56. A Beginner's Guide: Responsive Images With srcset](https://hackernoon.com/a-beginners-guide-responsive-images-with-srcset)
 ![](https://cdn.hackernoon.com/images/qEyR6rrtSuQYAumVgjwd7lxvi9L2-el93ulx.jpeg)
 Learn how to use srcset to support different device pixel ratios with imgix.
+
+### [57. Implementing Handwritten Text Recognition to Automate Clinical Trials](https://hackernoon.com/implementing-handwritten-text-recognition-to-automate-clinical-trials)
+![](https://cdn.hackernoon.com/images/eZz9OTcJQidkMckOPmIPVbApjoO2-a393o4p.jpeg)
+Manual processing of data (overviews, summaries,study reports) is significantly slowed down and inefficient.AI-driven handwritten text recognition is a solution
 
 ### [58. 5 Common Mistakes to Avoid When Adding Images to Your Website](https://hackernoon.com/5-common-mistakes-to-avoid-when-adding-images-to-your-website-v51a31ro)
 ![](https://cdn.hackernoon.com/images/KmlsFvL7j2hCUzC1BghAQNHqMUQ2-y3v32kh.jpeg)
@@ -290,37 +294,41 @@ Revolutionize defect analysis with TM-CNN! Spot tiny flaws in magnetic structure
 ![](https://cdn.hackernoon.com/images/making-a-photo-smaller-xnrty6rdu92wn67pumutikxm.png)
 Image Compression become easy. Tired of compression limits and upload. Try use our IMGCentury Image Compressor for Unlimited Compressions for Free. No Ads
 
-### [73. Dynamic Image Watermarking Made Simple with imgproxy and Apache APISIX](https://hackernoon.com/dynamic-image-watermarking-made-simple-with-imgproxy-and-apache-apisix)
+### [73. Image Optimization and Transformation with Cloudinary](https://hackernoon.com/image-optimization-and-transformation-with-cloudinary-jn1m23yk2)
+![](https://cdn.hackernoon.com/images/yk1m3y05.jpg)
+The web is now dominated with more visual content than ever hence the need to consider ways of delivering these images with the smallest possible file size while maintaining optimal visual quality.
+
+### [74. Dynamic Image Watermarking Made Simple with imgproxy and Apache APISIX](https://hackernoon.com/dynamic-image-watermarking-made-simple-with-imgproxy-and-apache-apisix)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-0k92l2a.png)
 Easily add dynamic watermarks to images using imgproxy and Apache APISIX with this step-by-step guide.
 
-### [74. Automating the Removal and Replacement of Image Backgrounds ](https://hackernoon.com/automating-the-removal-and-replacement-of-image-backgrounds)
+### [75. Automating the Removal and Replacement of Image Backgrounds ](https://hackernoon.com/automating-the-removal-and-replacement-of-image-backgrounds)
 ![](https://cdn.hackernoon.com/images/qEyR6rrtSuQYAumVgjwd7lxvi9L2-ocg3pfu.jpeg)
 For the ultimate design versatility and precision, use @imgix to automate image background removal and replacement at scale.
-
-### [75. Image Optimization and Transformation with Cloudinary](https://hackernoon.com/image-optimization-and-transformation-with-cloudinary-jn1m23yk2)
-![](https://cdn.hackernoon.com/images/yk1m3y05.jpg)
-The web is now dominated with more visual content than ever hence the need to consider ways of delivering these images with the smallest possible file size while maintaining optimal visual quality.
 
 ### [76. How I Built My First AI App: The Story Behind Photfix](https://hackernoon.com/how-i-built-my-first-ai-app-the-story-behind-photfix)
 ![](https://cdn.hackernoon.com/images/Ypd51NKs1cZR2ZQpvYOdThUZwLd2-p30390w.png)
 I built my first AI app, Photfix, to upscale and enhance low-quality images. From slow APIs to GPU tuning and Docker optimizations.
 
-### [77. Feature/Permission Policies Overview](https://hackernoon.com/featurepermission-policies-overview-8li3tl5)
+### [77. Image to Photo Earns a 28 Proof of Usefulness Score by Building an Online Tool to Enhance and Restore Old Photos](https://hackernoon.com/image-to-photo-earns-a-28-proof-of-usefulness-score-by-building-an-online-tool-to-enhance-and-restore-old-photos)
+![](https://cdn.hackernoon.com/images/a-split-scene-showing-a-faded-damaged-old-photograph-transforming-into-a-vibrant-high-resolution-image-through-an-ai-powered-digital-interface-symbolizing-memory-restoration-snv37bty9dh1nwlimchvp39x.png)
+Image to Photo scores 28 on Proof of Usefulness, using AI to restore old photos by enhancing color, sharpness, and detail.
+
+### [78. Feature/Permission Policies Overview](https://hackernoon.com/featurepermission-policies-overview-8li3tl5)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaCIjlH1H4dbEIL1I3whRaYLLCS13-qv463uhh.jpeg?alt=media&token=df6c4474-a66c-45fb-bc84-c0bee5ab2616)
 It's already challenging enough to create a website that is blazing fast, adheres to all the latest best practices and offers optimal experience for various network conditions and device types.
 
 As the website and its codebase evolves over time, it can become even harder to maintain the desired user experience over time. To prevent UX deterioration, it’s often a good idea to place guardrails which ensure that crucial website elements, such as images, hold to a certain criteria. In this article, we are going to look at a robust mechanism which helps to steer your website in the right direction - an HTTP header called Feature Policies.
 
-### [78. 5 Ways to Load Less Imagery to Increase Ranking and Client Happiness](https://hackernoon.com/5-ways-to-load-less-imagery-to-increase-ranking-and-client-happiness)
-![](https://cdn.hackernoon.com/images/PG9GJ9It2FOXrr2T8EAC6UYf0Vj1-b5e3euw.jpeg)
-Improve your ranking by both search engines and humans by not forcing the client to download unnecessary imagery.
-
 ### [79. Dynamically Processing User-Generated Images for Trust, Personalization and Efficiency](https://hackernoon.com/dynamically-processing-ugis-for-trust-personalization-and-efficiency)
 ![](https://cdn.hackernoon.com/images/qEyR6rrtSuQYAumVgjwd7lxvi9L2-zga3pyb.jpeg)
 We’ll show you how to programmatically optimize and standardize user-generated images for better web performance, design consistency, and credibility.
 
-### [80. Understanding Image Types: A Developer's Guide](https://hackernoon.com/understanding-image-types-a-developers-guide)
+### [80. 5 Ways to Load Less Imagery to Increase Ranking and Client Happiness](https://hackernoon.com/5-ways-to-load-less-imagery-to-increase-ranking-and-client-happiness)
+![](https://cdn.hackernoon.com/images/PG9GJ9It2FOXrr2T8EAC6UYf0Vj1-b5e3euw.jpeg)
+Improve your ranking by both search engines and humans by not forcing the client to download unnecessary imagery.
+
+### [81. Understanding Image Types: A Developer's Guide](https://hackernoon.com/understanding-image-types-a-developers-guide)
 ![](https://cdn.hackernoon.com/images/qEyR6rrtSuQYAumVgjwd7lxvi9L2-rr93rvy.jpeg)
 In this guide, we'll show you all of the major image types on the internet, and when and how to use them for maximum image quality and optimal file size.
 

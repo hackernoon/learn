@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [nft-top-story](https://hackernoon.com/tagged/nft-top-story)
+### Let's learn about [Nft Top Story](https://hackernoon.com/tagged/nft-top-story) via these 105 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+An NFT top story refers to a significant or trending news piece related to Non-Fungible Tokens, highlighting major developments, sales, or trends within the rapidly evolving NFT market. It matters by keeping the community informed about key events that shape the future of digital asset ownership and the creator economy.
+
 ### [1. How To Mint Your First NFT (Non-Fungible Token) For Free](https://hackernoon.com/how-to-mint-your-first-nft-non-fungible-token-for-free-b42j33ek)
 ![](https://hackernoon.com/images/IZH5VrBxylTJuG6oTbU11LwJemA3-tijt3ffs.jpeg)
 How to create and mint NFT (non-fungible token) for free at Opensea, Rariable and Mintable. How to promote and sell NFT tokens
@@ -101,13 +105,13 @@ It all started with Vitalik Buterin appearing in Ashton and Mila’s kitchen…
 ![](https://cdn.hackernoon.com/images/HvpAvSh4fdRJmPl3ogYCgRsbXIz1-7r92a4d.jpeg)
 some NFTs may function as security tokens without the knowledge of the buyer, but how do you distinguish NFTs from security tokens 
 
-### [26. "NFTs Are the ‘What’s Next’ of Collectibles & Fandom" - Jawad Ashraf of Terra Virtua](https://hackernoon.com/nfts-are-the-whats-next-of-collectibles-and-fandom-jawad-ashraf-of-terra-virtua-9p2k33d4)
-![](https://cdn.hackernoon.com/images/QdRQJW6V96b8SQtJgBmzVkZNOfl2-j5x33ls.jpeg)
-When the game ‘Cryptokitties’ first released in 2017, the mainstream market was blown away, like a kid in a candy store
-
-### [27. Is Value of NFT Fake or Real? An Economic Interpretation](https://hackernoon.com/is-value-of-nft-fake-or-real-an-economic-interpretation)
+### [26. Is Value of NFT Fake or Real? An Economic Interpretation](https://hackernoon.com/is-value-of-nft-fake-or-real-an-economic-interpretation)
 ![](https://cdn.hackernoon.com/images/y7pDfkn3crSKFphWLd3smEC2DCE3-g04532ic.jpeg)
 Does NFT actually represent something with genuine value?
+
+### [27. "NFTs Are the ‘What’s Next’ of Collectibles & Fandom" - Jawad Ashraf of Terra Virtua](https://hackernoon.com/nfts-are-the-whats-next-of-collectibles-and-fandom-jawad-ashraf-of-terra-virtua-9p2k33d4)
+![](https://cdn.hackernoon.com/images/QdRQJW6V96b8SQtJgBmzVkZNOfl2-j5x33ls.jpeg)
+When the game ‘Cryptokitties’ first released in 2017, the mainstream market was blown away, like a kid in a candy store
 
 ### [28. Most focused top 3 NFT projects - Why - “Utility as an in-game avatar to DeFi”](https://hackernoon.com/most-focused-top-3-nft-projects-why-utility-as-an-in-game-avatar-to-defi-rmm3784)
 ![](https://cdn.hackernoon.com/images/ZCZiTG9f6wgSEtFVIS1Hddo21bX2-5y9353d.png)
@@ -129,13 +133,13 @@ As more and more artists and collectors turn to NFTs - museums are starting to t
 ![](https://cdn.hackernoon.com/images/JwmstrvE0ReIdu5QIWfQUm68TTE2-92i3huc.jpeg)
 NFTs will pay off your loans, get you a Lambo, and make you popular with the girls. Or so the NFT influencers say. This is the Rise of the NFT Fakefluencers.
 
-### [33. NFTs in the 2nd Half of 2023: Shot Down or New Peak of Popularity?](https://hackernoon.com/nfts-in-the-2nd-half-of-2023-shot-down-or-new-peak-of-popularity)
-![](https://cdn.hackernoon.com/images/dNDmbEwasQUhkkwuUypXDwTWtqI2-ak93thw.jpeg)
-Projects that manage to create real-world utility will be the frontrunners of the space in the second half of 2023 and beyond.
-
-### [34. 🎮 Reddit Has Onboarded More People Into NFTs Than OpenSea ](https://hackernoon.com/reddit-has-onboarded-more-people-into-nfts-than-opensea-or-crypto-player-one)
+### [33. 🎮 Reddit Has Onboarded More People Into NFTs Than OpenSea ](https://hackernoon.com/reddit-has-onboarded-more-people-into-nfts-than-opensea-or-crypto-player-one)
 ![](https://cdn.hackernoon.com/images/BvBqrRvEqhNz9wT9U2y5GCOmr5E3-q793rdf.jpeg)
 Learn how Reddit onboarded 3 million people into NFTs. 
+
+### [34. NFTs in the 2nd Half of 2023: Shot Down or New Peak of Popularity?](https://hackernoon.com/nfts-in-the-2nd-half-of-2023-shot-down-or-new-peak-of-popularity)
+![](https://cdn.hackernoon.com/images/dNDmbEwasQUhkkwuUypXDwTWtqI2-ak93thw.jpeg)
+Projects that manage to create real-world utility will be the frontrunners of the space in the second half of 2023 and beyond.
 
 ### [35. This NFT is Untradeable ...](https://hackernoon.com/this-nft-is-untradeable)
 ![](https://cdn.hackernoon.com/images/6mVPapzqxvMaigWum3MQNiMJ55E3-tdd3l8i.jpeg)
@@ -145,13 +149,13 @@ With Soulbound NFTs, NFT's can represent much more of who you are and not just w
 ![](https://cdn.hackernoon.com/images/gofDlTzYvZcB6HgvLfhISeZAOfu1-ii13ssq.jpeg)
 An NFT drop is a huge milestone for any project, new or existing.  But, like most things, NFT drops have pros and cons. This article will look at both.
 
-### [37. NFTs Are Back—And This Time, They Actually Do Something](https://hackernoon.com/nfts-are-backand-this-time-they-actually-do-something)
-![](https://cdn.hackernoon.com/images/RrXJtkPPKZWNRCuHlWJyINqGIZ72-nr0341n.jpeg)
-NFTs aren't just art but are transforming digital ownership, redefining industries & unlocking opportunities in gaming, music, finance & many other industrties.
-
-### [38. Nobody Buys an NFT Just for Art](https://hackernoon.com/nobody-buys-an-nft-just-for-art)
+### [37. Nobody Buys an NFT Just for Art](https://hackernoon.com/nobody-buys-an-nft-just-for-art)
 ![](https://cdn.hackernoon.com/images/IZH5VrBxylTJuG6oTbU11LwJemA3-2d936e0.jpeg)
 How to add value and utility to NFT, how to promote NFT, NFT marketing
+
+### [38. NFTs Are Back—And This Time, They Actually Do Something](https://hackernoon.com/nfts-are-backand-this-time-they-actually-do-something)
+![](https://cdn.hackernoon.com/images/RrXJtkPPKZWNRCuHlWJyINqGIZ72-nr0341n.jpeg)
+NFTs aren't just art but are transforming digital ownership, redefining industries & unlocking opportunities in gaming, music, finance & many other industrties.
 
 ### [39. NFTs can Become a Cornerstone of DeFi](https://hackernoon.com/nfts-can-become-a-cornerstone-of-defi-dpo34po)
 ![](https://cdn.hackernoon.com/images/dfnkKGGdaveDKSte2xzbUj73T6z2-8uj36xk.jpeg)
@@ -161,17 +165,17 @@ The $69.3 million paid for the NFT Everydays: The First 5,000 Days by the digita
 ![](https://cdn.hackernoon.com/images/gxGS5MOkjZXIajVKGAzLENuLqEQ2-pn93z82.jpeg)
 What was once touted as a lazy-man’s trade has emerged to be the anchoring technology of Web 3.0. 
 
-### [41. Getting Started in the World of NFT Collectibles](https://hackernoon.com/getting-started-in-the-world-of-nft-collectibles-7v843772)
-![](https://cdn.hackernoon.com/images/dfnkKGGdaveDKSte2xzbUj73T6z2-kb1g3ak7.jpeg)
-Now that NFTs are back on the rise, many investors are trying to find a way in, but it can be hard to identify value in the enigmatic world of collectibles.
+### [41. How Phala Drives Innovation for Metaverse Games and NFT IDs](https://hackernoon.com/how-phala-drives-innovation-for-metaverse-games-and-nft-ids)
+![](https://cdn.hackernoon.com/images/uVG6qHoS8cSSnOwxRFe9F0RtRd42-r693lgm.jpeg)
+The development of Web3 Metaverse game meets many limitations, with the support of fat contract in real-time compute-intensive talks, low latency can solve them
 
 ### [42. OpenSea: A Wolf in Sheep's Clothing?](https://hackernoon.com/opensea-a-wolf-in-sheeps-clothing)
 ![](https://cdn.hackernoon.com/images/tOnArrILSDcevoBmc7vIUv6UrQI3-svy35ty.jpeg)
 An active NFT trader shares an evidence of OpenSea negligence and shoddy support when it comes to user data protection. 
 
-### [43. How Phala Drives Innovation for Metaverse Games and NFT IDs](https://hackernoon.com/how-phala-drives-innovation-for-metaverse-games-and-nft-ids)
-![](https://cdn.hackernoon.com/images/uVG6qHoS8cSSnOwxRFe9F0RtRd42-r693lgm.jpeg)
-The development of Web3 Metaverse game meets many limitations, with the support of fat contract in real-time compute-intensive talks, low latency can solve them
+### [43. Getting Started in the World of NFT Collectibles](https://hackernoon.com/getting-started-in-the-world-of-nft-collectibles-7v843772)
+![](https://cdn.hackernoon.com/images/dfnkKGGdaveDKSte2xzbUj73T6z2-kb1g3ak7.jpeg)
+Now that NFTs are back on the rise, many investors are trying to find a way in, but it can be hard to identify value in the enigmatic world of collectibles.
 
 ### [44. Aping into NFTs: Here's Why You Should](https://hackernoon.com/aping-into-nfts-heres-why-you-should-pc3n37c8)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-as3f3796.jpeg)
@@ -193,13 +197,13 @@ It’s not blockchain gaming’s job to convert users to crypto heads. But focus
 ![](https://cdn.hackernoon.com/images/Qba5s3Jm3tf7wieS5ydYonkEJSh2-ao23dpt.jpeg)
 NFTs are inherently treacherous and right-clickers, collectors, and artists worldwide are falling for their deception.
 
-### [49. Digital Ownership Will Soon Be More Important Than Physical Proof](https://hackernoon.com/digital-ownership-will-soon-be-more-important-than-physical-proof)
-![](https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-1t93qh9.jpeg)
-When Bitcoin was first created, no one knew that it would change the world.
-
-### [50. A Newbie’s Cheat Sheet: Creating a Custom 10k NFT Collection with Developers](https://hackernoon.com/a-newbies-cheat-sheet-creating-a-custom-10k-nft-collection-with-developers)
+### [49. A Newbie’s Cheat Sheet: Creating a Custom 10k NFT Collection with Developers](https://hackernoon.com/a-newbies-cheat-sheet-creating-a-custom-10k-nft-collection-with-developers)
 ![](https://cdn.hackernoon.com/images/hSDaxtEYfGNo8mgfBiubmced0sJ2-gpb3pi8.jpeg)
 Detailed guide to the world of nft collections from idea to realization. It's useful for all beginners how to create your own collection and not to miscalculate
+
+### [50. Digital Ownership Will Soon Be More Important Than Physical Proof](https://hackernoon.com/digital-ownership-will-soon-be-more-important-than-physical-proof)
+![](https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-1t93qh9.jpeg)
+When Bitcoin was first created, no one knew that it would change the world.
 
 ### [51. AnRKey X NFT Sales Reach Top 10 in the World on Rarible](https://hackernoon.com/anrkey-x-nft-sales-reach-top-10-in-the-world-on-rarible-2e1v33u7)
 ![](https://cdn.hackernoon.com/images/dfnkKGGdaveDKSte2xzbUj73T6z2-8tv356s.jpeg)
@@ -217,21 +221,21 @@ Blockchain provides decentralized consensus to its consumers. Blockchain allows 
 ![](https://cdn.hackernoon.com/images/v6WxeZKmn3XLcnGFkevPft6MID23-kvub36tf.jpeg)
 A herd of cartoon cats, a video of LeBron, a digital painting of 5,000 thumbnails - all of this has recently been turned into NFT tokens - a new tool for digital art buying and selling. NFT tokens are a hype topic in the world of cryptocurrencies today: three years ago, the entire NFT market was worth no more than $ 42 million, and by the end of 2020 it had grown by 705% to $ 338 million.
 
-### [55. Adopting The Dynamics of NFTs To Raise Cancer Awareness](https://hackernoon.com/adopting-the-dynamics-of-nfts-to-raise-cancer-awareness)
-![](https://cdn.hackernoon.com/images/9pJTTlb5KCZ8VFkW8j08MGG1R082-i8a3s4u.jpeg)
-Don't miss out this NFT collection. The art is stunning and holders have access to fruitful benefits while empower women who fight against cancer & raise awaren
-
-### [56. DeFi Godfathers Andre Cronje and Anton Nell Step Down, Leaving Associated Tokens in Freefall](https://hackernoon.com/defi-godfathers-andre-cronje-and-anton-nell-step-down-leaving-associated-tokens-in-freefall)
+### [55. DeFi Godfathers Andre Cronje and Anton Nell Step Down, Leaving Associated Tokens in Freefall](https://hackernoon.com/defi-godfathers-andre-cronje-and-anton-nell-step-down-leaving-associated-tokens-in-freefall)
 ![](https://cdn.hackernoon.com/images/PqBokrbZnUh88uMPTuuAuDPfPi53-wm93lu2.jpeg)
 DeFi leaders Andre Cronje and senior solutions architect Antone Nell close their chapter in the crypto/defi space.
 
-### [57. Top White Label NFT Marketplace ](https://hackernoon.com/top-white-label-nft-marketplaces)
-![](https://cdn.hackernoon.com/images/DsuCa7P65sfGlEajj7y4VYtrrEh2-oo93hux.jpeg)
-Get your insights towards the top white label NFT marketplace that performs well in the crypto sphere that attracts huge audience towards their marketplace.
+### [56. Adopting The Dynamics of NFTs To Raise Cancer Awareness](https://hackernoon.com/adopting-the-dynamics-of-nfts-to-raise-cancer-awareness)
+![](https://cdn.hackernoon.com/images/9pJTTlb5KCZ8VFkW8j08MGG1R082-i8a3s4u.jpeg)
+Don't miss out this NFT collection. The art is stunning and holders have access to fruitful benefits while empower women who fight against cancer & raise awaren
 
-### [58. How Biometrics Can Solve the Issues With NFTs](https://hackernoon.com/how-biometrics-can-solve-the-issues-with-nfts)
+### [57. How Biometrics Can Solve the Issues With NFTs](https://hackernoon.com/how-biometrics-can-solve-the-issues-with-nfts)
 ![](https://cdn.hackernoon.com/images/A4JSMF8KeKZDhK6benXc4ynf0xZ2-4f93om2.jpeg)
 Are there any NFTs drawbacks or pitfalls that need to be looked at and addressed? Can biometrics be the solution to the main NFTs problems?
+
+### [58. Top White Label NFT Marketplace ](https://hackernoon.com/top-white-label-nft-marketplaces)
+![](https://cdn.hackernoon.com/images/DsuCa7P65sfGlEajj7y4VYtrrEh2-oo93hux.jpeg)
+Get your insights towards the top white label NFT marketplace that performs well in the crypto sphere that attracts huge audience towards their marketplace.
 
 ### [59. How 22 Year-Old Emery Kelly, An Indie Artist Found Success with NFTs, Talent, and Social Media](https://hackernoon.com/how-22-year-old-emery-kelly-an-indie-artist-found-success-with-nfts-talent-and-social-media)
 ![](https://cdn.hackernoon.com/images/wmozfzvpGwTGCZUFwlz1Iui17G62-q433h6d.jpeg)
@@ -261,46 +265,46 @@ Have you ever held onto an event ticket from a memorable night?
 ![](https://cdn.hackernoon.com/images/amazon-colorful-nfts-collectibles-clfstr6py000201s6bxjtgjs1.png)
 So while on the surface it may seem like the crypto industry has slowed down, it hasn’t stalled development.
 
-### [66. Twitter's  Hexagon NFT pfp: All Show With Unanswered Questions on Scams, Bullying, & Centralization](https://hackernoon.com/twitters-hexagon-nft-pfp-all-show-with-unanswered-questions-on-scams-bullying-and-centralization)
-![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-jm23awv.jpeg)
-A few thoughts on Twitter’s NFT nightmare
-
-### [67. 🎮 This Company Launched the First Web3 Game on the Epic Game Store. Now, They're Back...](https://hackernoon.com/this-company-launched-the-first-web3-game-on-the-epic-game-store-now-theyre-back)
+### [66. 🎮 This Company Launched the First Web3 Game on the Epic Game Store. Now, They're Back...](https://hackernoon.com/this-company-launched-the-first-web3-game-on-the-epic-game-store-now-theyre-back)
 ![](https://cdn.hackernoon.com/images/BvBqrRvEqhNz9wT9U2y5GCOmr5E3-ou93rdu.jpeg)
 
 
-### [68. The Permanence of NFTs: Building an NFT Platform That Would Stand the Test of Time](https://hackernoon.com/the-permanence-of-nfts-building-an-nft-platform-that-would-stand-the-test-of-time-7t1835f1)
-![](https://hackernoon.com/images/5WOwyMXQMXWzPWfaJxVZ2F8L3tf1-ce7r27yw.jpeg)
-How do we ensure that non-fungible tokens (NFTs) are reliably stored to last? More on the current issues of storing NFTs and how we're changing the industry. 
-
-### [69. Top 22 NFT Podcasts For NFT Novices & Masterminds This Nifty 2022](https://hackernoon.com/top-22-nft-podcasts-for-nft-novices-and-masterminds-this-nifty-2022)
-![](https://cdn.hackernoon.com/images/4LKlOHT8BtURWNF54Dmjj74h57s2-m193gm8.jpeg)
-We know you’re curious to learn more about NFTs. 2021 was a HUGE BOOM of nothing but ‘NFT this' and NFT that'- so which 22 podcasts should you listen to!? 
-
-### [70. NFT Twitter: 16 NFT Influencers to Follow on Twitter in 2022](https://hackernoon.com/nft-twitter-16-nft-influencers-to-follow-on-twitter-in-2022)
+### [67. NFT Twitter: 16 NFT Influencers to Follow on Twitter in 2022](https://hackernoon.com/nft-twitter-16-nft-influencers-to-follow-on-twitter-in-2022)
 ![](https://cdn.hackernoon.com/images/O6cGdKVM77VtTdgZ9yACmWzxild2-ve92iqv.jpeg)
 In this article, will discuss on Top NFT Influencers in 2022, The Biggest NFT Influencers to follow in 2022 and Best Top NFT Influencers on Twitter and YouTube.
 
-### [71. 🎮 Apple Clarifies its Stance on NFTs](https://hackernoon.com/apple-clarifies-its-stance-on-nfts)
-![](https://cdn.hackernoon.com/images/BvBqrRvEqhNz9wT9U2y5GCOmr5E3-9ic3rg8.jpeg)
-Apple released an update to their App Store Review Guidelines, and they talked about NFTs. Read on to learn how it can affect the broader NFT ecosystem.
+### [68. Twitter's  Hexagon NFT pfp: All Show With Unanswered Questions on Scams, Bullying, & Centralization](https://hackernoon.com/twitters-hexagon-nft-pfp-all-show-with-unanswered-questions-on-scams-bullying-and-centralization)
+![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-jm23awv.jpeg)
+A few thoughts on Twitter’s NFT nightmare
 
-### [72. Queen Elizabeth’s death inundates the crypto world with Innumerable NFTs and Meme Coins](https://hackernoon.com/queen-elizabeths-death-inundates-the-crypto-world-with-innumerable-nfts-and-meme-coins)
+### [69. The Permanence of NFTs: Building an NFT Platform That Would Stand the Test of Time](https://hackernoon.com/the-permanence-of-nfts-building-an-nft-platform-that-would-stand-the-test-of-time-7t1835f1)
+![](https://hackernoon.com/images/5WOwyMXQMXWzPWfaJxVZ2F8L3tf1-ce7r27yw.jpeg)
+How do we ensure that non-fungible tokens (NFTs) are reliably stored to last? More on the current issues of storing NFTs and how we're changing the industry. 
+
+### [70. Top 22 NFT Podcasts For NFT Novices & Masterminds This Nifty 2022](https://hackernoon.com/top-22-nft-podcasts-for-nft-novices-and-masterminds-this-nifty-2022)
+![](https://cdn.hackernoon.com/images/4LKlOHT8BtURWNF54Dmjj74h57s2-m193gm8.jpeg)
+We know you’re curious to learn more about NFTs. 2021 was a HUGE BOOM of nothing but ‘NFT this' and NFT that'- so which 22 podcasts should you listen to!? 
+
+### [71. Queen Elizabeth’s death inundates the crypto world with Innumerable NFTs and Meme Coins](https://hackernoon.com/queen-elizabeths-death-inundates-the-crypto-world-with-innumerable-nfts-and-meme-coins)
 ![](https://cdn.hackernoon.com/images/s7Uy4vUGHkagAvzLcOwQqTObOP03-lc93ojy.jpeg)
 The death of Queen Elizabeth has sparked the invention of innumerable so-called “meme coins” looking to capitalize on this misfortune occasion. 
 
+
+### [72. 🎮 Apple Clarifies its Stance on NFTs](https://hackernoon.com/apple-clarifies-its-stance-on-nfts)
+![](https://cdn.hackernoon.com/images/BvBqrRvEqhNz9wT9U2y5GCOmr5E3-9ic3rg8.jpeg)
+Apple released an update to their App Store Review Guidelines, and they talked about NFTs. Read on to learn how it can affect the broader NFT ecosystem.
 
 ### [73. Why Knights of Degen Belongs on Your 2023 NFT Watchlist](https://hackernoon.com/why-knights-of-degen-belongs-on-your-2023-nft-watchlist)
 ![](https://cdn.hackernoon.com/images/0xgxm0rlq5Pn6VKRpdJqG5IU7w03-xc93sgy.jpeg)
 Don't have time to read the full Knights of Degen whitepaper and uncover the crypto-infused sports gambling platform they're creating? I've got you covered.
 
-### [74. How Blockchain Technology can Change Whisky Investment](https://hackernoon.com/how-blockchain-technology-can-change-whisky-investment)
-![](https://cdn.hackernoon.com/images/JtRlUPmtXteTEsm9UoZ1CoCO5Ir2-05f3pz2.png)
-Whisky, often also referred to as “Liquid Gold”, has long been a traded commodity. Trading spirits in wooden casks, where the spirits’ value increases as a vintage item, are relatively stable investments but have been limited to smaller elite communities of investors who can afford the costs and have the connection with distilleries or people in the spirits business. This has not only created a huge barrier of entry into whisky investment, but also effectively barred a larger community of collectors and whisky lovers from participating.
-
-### [75. Can Sporting Events Rejuvenate "NFT+Sports" This Time Around?](https://hackernoon.com/can-sporting-events-rejuvenate-nft-sports-this-time-around)
+### [74. Can Sporting Events Rejuvenate "NFT+Sports" This Time Around?](https://hackernoon.com/can-sporting-events-rejuvenate-nft-sports-this-time-around)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-bmi37xb.png)
 In the first quarter of 2021, NFT sales exceeded $1.5 billion, 20 times of the fourth quarter of 2020, which is the highest period of ever since NFT developed.
+
+### [75. How Blockchain Technology can Change Whisky Investment](https://hackernoon.com/how-blockchain-technology-can-change-whisky-investment)
+![](https://cdn.hackernoon.com/images/JtRlUPmtXteTEsm9UoZ1CoCO5Ir2-05f3pz2.png)
+Whisky, often also referred to as “Liquid Gold”, has long been a traded commodity. Trading spirits in wooden casks, where the spirits’ value increases as a vintage item, are relatively stable investments but have been limited to smaller elite communities of investors who can afford the costs and have the connection with distilleries or people in the spirits business. This has not only created a huge barrier of entry into whisky investment, but also effectively barred a larger community of collectors and whisky lovers from participating.
 
 ### [76. Designing Token Templates With The Token Taxonomy Framework](https://hackernoon.com/designing-token-templates-with-the-token-taxonomy-framework)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-od93poq.jpeg)
@@ -310,25 +314,25 @@ The concept of tokenization might seem complex but using the token taxonomy fram
 ![](https://cdn.hackernoon.com/images/9m7y4HDRM6TH4i48YoTufBD7tig2-0c839fq.jpeg)
 Naked Metas NFT Collection - A non binary species of metamorphs unique with their own metastones that live to explore in the Ethereum Blockchain. 
 
-### [78. Why Should You Want NFTs in Gaming Even If You Don't Play?](https://hackernoon.com/why-should-you-want-nfts-in-gaming-even-if-you-dont-play)
-![](https://cdn.hackernoon.com/images/gx2eUSCqbve68OHi5yKdu4VzgMK2-mc93r5g.jpeg)
-NFTs claim to bring positive change to the games industry because of their links to the blockchain and their decentralised design being wildly different.
-
-### [79. Buffalo Hunting & NFTs: A Lesson in Manipulation and the Power of NFTs as a Marketing Tool](https://hackernoon.com/buffalo-hunting-and-nfts-a-lesson-in-manipulation-and-the-power-of-nfts-as-a-marketing-tool)
+### [78. Buffalo Hunting & NFTs: A Lesson in Manipulation and the Power of NFTs as a Marketing Tool](https://hackernoon.com/buffalo-hunting-and-nfts-a-lesson-in-manipulation-and-the-power-of-nfts-as-a-marketing-tool)
 ![](https://cdn.hackernoon.com/images/HvpAvSh4fdRJmPl3ogYCgRsbXIz1-dy93qk1.jpeg)
 NFTs offer unique attributes like exclusivity, rarity, and authenticity, but they must be properly utilized by businesses to have real value. NFTs are ideal for
+
+### [79. Why Should You Want NFTs in Gaming Even If You Don't Play?](https://hackernoon.com/why-should-you-want-nfts-in-gaming-even-if-you-dont-play)
+![](https://cdn.hackernoon.com/images/gx2eUSCqbve68OHi5yKdu4VzgMK2-mc93r5g.jpeg)
+NFTs claim to bring positive change to the games industry because of their links to the blockchain and their decentralised design being wildly different.
 
 ### [80. Interest in Play-to-Earn Games Soars as Covid-19 Fallout Fails To Deter Gamers](https://hackernoon.com/interest-in-play-to-earn-games-soars-as-covid-19-fallout-fails-to-deter-gamers)
 ![](https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-5q03eql.png)
 In an economy suffering from low wages and pandemic lockdowns, play-to-earn has become an attractive option for those sitting at home.
 
-### [81. Top 10 NFT Sales In 2021 That Broke All the Records](https://hackernoon.com/top-10-nft-sales-in-2021-that-broke-all-the-records)
-![](https://cdn.hackernoon.com/images/9AiOcdXgmeh5Y5nFje7uh8sf8xv2-il93mhc.jpeg)
-NFTs have become a creative and commercial revolution. Here are the top 10 largest NFT sales of 2021 that broke all the records for NFT sales in the past.
-
-### [82. Examining The Viability of The Play-to-Earn Marketplaces](https://hackernoon.com/examining-the-viability-of-the-play-to-earn-marketplaces)
+### [81. Examining The Viability of The Play-to-Earn Marketplaces](https://hackernoon.com/examining-the-viability-of-the-play-to-earn-marketplaces)
 ![](https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-sg23gw7.png)
 There is a real chance that playing video games could become a career for more and more people. 
+
+### [82. Top 10 NFT Sales In 2021 That Broke All the Records](https://hackernoon.com/top-10-nft-sales-in-2021-that-broke-all-the-records)
+![](https://cdn.hackernoon.com/images/9AiOcdXgmeh5Y5nFje7uh8sf8xv2-il93mhc.jpeg)
+NFTs have become a creative and commercial revolution. Here are the top 10 largest NFT sales of 2021 that broke all the records for NFT sales in the past.
 
 ### [83. AdRunner Mints 10,000 NFT's for its User-Owned Metaverse Ad Platform](https://hackernoon.com/adrunner-mints-10000-nfts-for-its-user-owned-metaverse-ad-platform)
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-s593hwd.jpeg)
@@ -378,13 +382,13 @@ highlights were responsible for this, just as we witnessed their mass adoption a
 ![](https://cdn.hackernoon.com/images/TSWdWlY82mNSHSHN1M2SL9p84jc2-go93qhc.jpeg)
 Taking a look at current trends, this piece looks  into the future of the NFT market. 
 
-### [94. The Story Of An Emmy-Winning Duo On How To Bring Pro IP Creation To NFTs](https://hackernoon.com/the-story-of-an-emmy-winning-duo-on-how-to-bring-pro-ip-creation-to-nfts)
-![](https://cdn.hackernoon.com/images/If1LWFxy0uQ2rOpJXw7EB6p4f1B3-di53d34.jpeg)
-Adam Jeffcoat shares tips on how to make an NFT collection stand out in the oversaturated market with the GORECATS series of NFTs and his own experience. 
-
-### [95. How the Metaverse Has the Potential to Bring About the Mass Adoption of Crypto Currencies](https://hackernoon.com/how-the-metaverse-has-the-potential-to-bring-about-the-mass-adoption-of-crypto-currencies)
+### [94. How the Metaverse Has the Potential to Bring About the Mass Adoption of Crypto Currencies](https://hackernoon.com/how-the-metaverse-has-the-potential-to-bring-about-the-mass-adoption-of-crypto-currencies)
 ![](https://cdn.hackernoon.com/images/HvpAvSh4fdRJmPl3ogYCgRsbXIz1-30930zh.jpeg)
 If the metaverse becomes a place where we spend most of our time, one area I expect to see a huge impact is in our use of digital currencies.
+
+### [95. The Story Of An Emmy-Winning Duo On How To Bring Pro IP Creation To NFTs](https://hackernoon.com/the-story-of-an-emmy-winning-duo-on-how-to-bring-pro-ip-creation-to-nfts)
+![](https://cdn.hackernoon.com/images/If1LWFxy0uQ2rOpJXw7EB6p4f1B3-di53d34.jpeg)
+Adam Jeffcoat shares tips on how to make an NFT collection stand out in the oversaturated market with the GORECATS series of NFTs and his own experience. 
 
 ### [96. NFT: Is GIFs Selling For Millions of Dollars The Economy of The Future?](https://hackernoon.com/nft-is-gifs-selling-for-millions-of-dollars-the-economy-of-the-future-l35r34ni)
 ![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-bq193fif.jpeg)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [kafka](https://hackernoon.com/tagged/kafka)
+### Let's learn about [Kafka](https://hackernoon.com/tagged/kafka) via these 91 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Apache Kafka is a distributed streaming platform that enables real-time processing of data streams, acting as a high-throughput, fault-tolerant message broker. It's crucial for building scalable, resilient data pipelines and real-time analytics applications, underpinning many modern data architectures.
+
 ### [1. Setting up Kafka on Docker for Local Development](https://hackernoon.com/setting-up-kafka-on-docker-for-local-development)
 ![](https://cdn.hackernoon.com/images/ytHm0Rre9BVDv1aC08GvG7El0JO2-ogb3ou1.jpeg)
 In a world where data is king, Kafka is a valuable tool for developers and data engineers to learn.
@@ -93,13 +97,13 @@ A quick start for running Kafka in docker container, and a working example of a 
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-j892k4r.jpeg)
 Deploying Kafka on Kubernetes is a low-effort approach to setting up an event-driven architecture to support your API ecosystem in the cloud.
 
-### [24. 10 Days of .Net Aspire: Day 5 — Integrating Apache Kafka ](https://hackernoon.com/10-days-of-net-aspire-day-5-integrating-apache-kafka)
-![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-vx332lz.png)
-Learn how to integrate the Apache Kafka component into your .Net Aspire project using Visual Studio 2022.
-
-### [25. The Streaming Bridges - A Kafka, RabbitMQ, MQTT and CoAP Example to Learn More](https://hackernoon.com/the-streaming-bridges-a-kafka-rabbitmq-mqtt-and-coap-example-to-learn-more)
+### [24. The Streaming Bridges - A Kafka, RabbitMQ, MQTT and CoAP Example to Learn More](https://hackernoon.com/the-streaming-bridges-a-kafka-rabbitmq-mqtt-and-coap-example-to-learn-more)
 ![](https://cdn.hackernoon.com/images/XKjmz9tZa8XTDU9MqcuFluHFxfj2-qh022fg.jpeg)
 How can we use data stream and what does that mean? Does Kotlin really offers an alternative?
+
+### [25. 10 Days of .Net Aspire: Day 5 — Integrating Apache Kafka ](https://hackernoon.com/10-days-of-net-aspire-day-5-integrating-apache-kafka)
+![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-vx332lz.png)
+Learn how to integrate the Apache Kafka component into your .Net Aspire project using Visual Studio 2022.
 
 ### [26. Kafka Connect Framework: Creating a Real-Time Data Pipeline Using CDC](https://hackernoon.com/kafka-connect-framework-creating-a-real-time-data-pipeline-using-cdc-af193udt)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FclCz91vommg0luTXMiVXOim3uqv2-jp773ui8.jpeg?alt=media&token=b7b5ed3f-120f-4ea0-9cd6-93d769bd8350)
@@ -145,13 +149,13 @@ This is a self-contained demo using Materialize to process data IoT devices data
 ![](https://cdn.hackernoon.com/images/azl4EWxAVGg2mbguVk2eyyavMV73-bw93poc.jpeg)
 Prep for an Apache Kafka interview by reading this questions! Aimed at juniors. 
 
-### [37. Introduction to Event Streaming with Kafka and Kafdrop](https://hackernoon.com/introduction-to-event-streaming-with-kafka-and-kafdrop-sncj32c8)
-![](https://cdn.hackernoon.com/drafts/bf2l6326u.png)
-Event sourcing, eventual consistency, microservices, CQRS... These are quickly becoming household names in mainstream application development. But do you know what makes them tick? What are the basic building blocks required to assemble complex, business-centric applications from fine-grained services without turning the lot into a big ball of mud?
-
-### [38. 5 Problems and Their Solutions With Creating a High-Load Service Using .NET and Kafka](https://hackernoon.com/five-problems-and-their-solutions-when-creating-a-high-load-service-using-net-and-kafka)
+### [37. 5 Problems and Their Solutions With Creating a High-Load Service Using .NET and Kafka](https://hackernoon.com/five-problems-and-their-solutions-when-creating-a-high-load-service-using-net-and-kafka)
 ![](https://cdn.hackernoon.com/images/ZNvZI6myUaa4r4tUwA4Hf1ZxccX2-nyf35jy.png)
 Specifics and complications of creating a high-load service using .NET and Kafka.
+
+### [38. Introduction to Event Streaming with Kafka and Kafdrop](https://hackernoon.com/introduction-to-event-streaming-with-kafka-and-kafdrop-sncj32c8)
+![](https://cdn.hackernoon.com/drafts/bf2l6326u.png)
+Event sourcing, eventual consistency, microservices, CQRS... These are quickly becoming household names in mainstream application development. But do you know what makes them tick? What are the basic building blocks required to assemble complex, business-centric applications from fine-grained services without turning the lot into a big ball of mud?
 
 ### [39. Kafka Message Testing: How to Write Integration Tests ](https://hackernoon.com/kafka-message-testing-how-to-write-integration-tests)
 ![](https://cdn.hackernoon.com/images/MQ5fUOiNSpXFtgak1Nkj9tyaEBL2-f5334kt.jpeg)
@@ -161,13 +165,13 @@ This article offers an approach to writing integration tests for Kafka-based app
 ![](https://cdn.hackernoon.com/images/oJcyiih3JxQIYnSJChKYcEE1zXE3-za5q3wro.jpeg)
 In this part i would be talking about the serving layer of the Lambda Architecture. Serving layer is derived either by performing computation on batch data to arrive at a view that is mid way from speed layer and batch layer 
 
-### [41. Node.js Tutorial: How to Build a Simple Event-Driven Application With Kafka](https://hackernoon.com/nodejs-tutorial-how-to-build-a-simple-event-driven-application-with-kafka)
-![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-n9823os.jpeg)
-Build a real-time event-driven app with Node.js and Kafka on Heroku. Follow this step-by-step guide to set up, deploy, and manage your application efficiently.
-
-### [42. Take your Materialized Views to the Next Level by Joining MySQL and Postgres](https://hackernoon.com/take-your-materialized-views-to-the-next-level-by-joining-mysql-and-postgres)
+### [41. Take your Materialized Views to the Next Level by Joining MySQL and Postgres](https://hackernoon.com/take-your-materialized-views-to-the-next-level-by-joining-mysql-and-postgres)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-2g03lwn.jpeg)
 
+
+### [42. Node.js Tutorial: How to Build a Simple Event-Driven Application With Kafka](https://hackernoon.com/nodejs-tutorial-how-to-build-a-simple-event-driven-application-with-kafka)
+![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-n9823os.jpeg)
+Build a real-time event-driven app with Node.js and Kafka on Heroku. Follow this step-by-step guide to set up, deploy, and manage your application efficiently.
 
 ### [43. Boosting Integration Test Performance with EmbeddedKafka and GraalVM](https://hackernoon.com/boosting-integration-test-performance-with-embeddedkafka-and-graalvm)
 ![](https://cdn.hackernoon.com/images/MQ5fUOiNSpXFtgak1Nkj9tyaEBL2-0383438.jpeg)
@@ -177,108 +181,108 @@ In this article, I want to share my experience with creating a native image for 
 ![](https://cdn.hackernoon.com/images/azl4EWxAVGg2mbguVk2eyyavMV73-q393o7q.jpeg)
 In my first few months learning Apache Kafka, I drew up a blog post on the fundamental concepts behind implementing it. 
 
-### [45. Resolving Complex JSON in Kafka Source Using Apache SeaTunnel](https://hackernoon.com/resolving-complex-json-in-kafka-source-using-apache-seatunnel)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2692fmp.jpeg)
-Use the extension of UDF functions to parse the nested JSON data from Kafka sources.
+### [45. I Built 10 Pokemon Agents That Learn From Each Other Using Kafka and Flink](https://hackernoon.com/i-built-10-pokemon-agents-that-learn-from-each-other-using-kafka-and-flink)
+![](https://cdn.hackernoon.com/images/QpXjEM8zsiZJPvjc7UP80C6Srfk1-1aa3e3y.png)
+The agent runs headless inside a stereOS VM with no display server. It reads game memory directly from known RAM addresses.
 
 ### [46. Comparing Apache Kafka with Oracle Transactional Event Queues (TEQ) as Microservices Event Mesh](https://hackernoon.com/comparing-apache-kafka-with-oracle-transactional-event-queues-teq-as-microservices-event-mesh)
 ![](https://cdn.hackernoon.com/images/oFcXyPmJpqb3FOyA7YV2WMjGWmq2-qeh3rst.jpeg)
 This blog contrasts and compares transactional and message delivery behavior of Kafka with the converged Oracle DB and Oracle Transactional Event Queues/AQ
 
-### [47. Choosing Between Enterprise Messaging and Event Streaming For Your Architecture](https://hackernoon.com/choosing-between-enterprise-messaging-and-event-streaming-for-your-architecture-br1e3178)
+### [47. Resolving Complex JSON in Kafka Source Using Apache SeaTunnel](https://hackernoon.com/resolving-complex-json-in-kafka-source-using-apache-seatunnel)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2692fmp.jpeg)
+Use the extension of UDF functions to parse the nested JSON data from Kafka sources.
+
+### [48. Choosing Between Enterprise Messaging and Event Streaming For Your Architecture](https://hackernoon.com/choosing-between-enterprise-messaging-and-event-streaming-for-your-architecture-br1e3178)
 ![](https://cdn.hackernoon.com/images/IV0JQLsMeUPtnTkzLruhJAkpC5F2-cu303119.jpeg)
 Comparing Enterprise messaging and event streaming across different dimensions to see  how they excel at solving different but related messaging problems
 
-### [48. RocksDB Is Steadily Eating the Database World](https://hackernoon.com/rocksdb-is-steadily-eating-the-database-world-na6132ax)
+### [49. RocksDB Is Steadily Eating the Database World](https://hackernoon.com/rocksdb-is-steadily-eating-the-database-world-na6132ax)
 ![](https://cdn.hackernoon.com/images/7ckt3ymi.jpg)
 Technical design. Because one of the most common use cases of the new databases is storing data that is generated by high-throughput sources, it is important that the store engine is able to handle write-intensive workloads, all while offering acceptable read performance. RocksDB implements what is known in the database literature as a log-structured merge tree aka LSM tree.
 
-### [49. Kafka Schema Evolution: A Guide to the Confluent Schema Registry](https://hackernoon.com/kafka-schema-evolution-a-guide-to-the-confluent-schema-registry)
+### [50. Kafka Schema Evolution: A Guide to the Confluent Schema Registry](https://hackernoon.com/kafka-schema-evolution-a-guide-to-the-confluent-schema-registry)
 ![](https://cdn.hackernoon.com/images/q6t9kyVqaAbMWMb9XJWOGmM6iV92-nc937vp.png)
 Learn Kafka Schema Evolution: Understand, Manage & Scale Data Streams with Confluent Schema Registry. Essential for Data Engineers & Architects.
 
-### [50. How to Easily Stream Data From a Headless BI and SQL Engine](https://hackernoon.com/headless-bi-with-streaming-data)
-![](https://cdn.hackernoon.com/images/SjMazuIdJof1ePvaop4FOqSinVE2-zpe3ne6.jpeg)
-Now, you can use Cube to build data modeling, caching, and access control layers on top of streaming SQL, just as with cloud data warehouses.
-
-### [51. How the ZooKeeper Solves the Dining Philosophers Problem](https://hackernoon.com/how-the-zookeeper-solves-the-dining-philosophers-problem-ge1g37n3)
-![](https://cdn.hackernoon.com/images/GC9RoJyAaIPBM3D4BhhHg0bwLDL2-812t35k2.jpeg)
-In this blog by Paul Brebner, Instaclustr's tech evangelist explains the Apache ZooKeeper using the famous dining philosophers problem.
-
-### [52. Building Production-Grade RAG Systems for Document AI: What It Actually Takes](https://hackernoon.com/building-production-grade-rag-systems-for-document-ai-what-it-actually-takes)
+### [51. Building Production-Grade RAG Systems for Document AI: What It Actually Takes](https://hackernoon.com/building-production-grade-rag-systems-for-document-ai-what-it-actually-takes)
 ![](https://cdn.hackernoon.com/images/Mh0a9y24gsYgLjaFzX4HcixqyDx2-ji83ex6.png)
 Learn to build production-grade RAG for enterprise PDFs. Focus on robust ingestion, hybrid retrieval, security, and traceability to move beyond demos.
 
-### [53. Data Pipelines and Expiring Dictionaries](https://hackernoon.com/data-pipelines-and-expiring-dictionaries-ub583tpy)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-ymf3tax.jpeg?alt=media&token=3be3a68a-899a-4643-be04-6c50c33670c4)
-Designing a data pipeline comes with its own set of problems. Take lambda architecture for example. In the batch layer, if data somewhere in the past is incorrect, you’d have to run the computation function on the whole (possibly terabytes large) dataset, the result of which would be absorbed in serving layer and are reflected. 
+### [52. How to Easily Stream Data From a Headless BI and SQL Engine](https://hackernoon.com/headless-bi-with-streaming-data)
+![](https://cdn.hackernoon.com/images/SjMazuIdJof1ePvaop4FOqSinVE2-zpe3ne6.jpeg)
+Now, you can use Cube to build data modeling, caching, and access control layers on top of streaming SQL, just as with cloud data warehouses.
+
+### [53. How the ZooKeeper Solves the Dining Philosophers Problem](https://hackernoon.com/how-the-zookeeper-solves-the-dining-philosophers-problem-ge1g37n3)
+![](https://cdn.hackernoon.com/images/GC9RoJyAaIPBM3D4BhhHg0bwLDL2-812t35k2.jpeg)
+In this blog by Paul Brebner, Instaclustr's tech evangelist explains the Apache ZooKeeper using the famous dining philosophers problem.
 
 ### [54. Transitive Compatibility Types in Schema Registry for Apache Kafka](https://hackernoon.com/transitive-compatibility-types-in-schema-registry-for-apache-kafka)
 ![](https://cdn.hackernoon.com/images/rcB8Mm3bjPP7Q6vcfU8FYlvDNoV2-zy134ig.webp)
 Apache Kafka provides Schema Registry capabilities. There are three types of transitive compatibility. 
 
-### [55. Minimizing Rebalance Downtime: Optimizing Stateless Kafka Streams Apps (x450)](https://hackernoon.com/minimizing-rebalance-downtime-optimizing-stateless-kafka-streams-apps-x450)
+### [55. Data Pipelines and Expiring Dictionaries](https://hackernoon.com/data-pipelines-and-expiring-dictionaries-ub583tpy)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-ymf3tax.jpeg?alt=media&token=3be3a68a-899a-4643-be04-6c50c33670c4)
+Designing a data pipeline comes with its own set of problems. Take lambda architecture for example. In the batch layer, if data somewhere in the past is incorrect, you’d have to run the computation function on the whole (possibly terabytes large) dataset, the result of which would be absorbed in serving layer and are reflected. 
+
+### [56. Minimizing Rebalance Downtime: Optimizing Stateless Kafka Streams Apps (x450)](https://hackernoon.com/minimizing-rebalance-downtime-optimizing-stateless-kafka-streams-apps-x450)
 ![](https://cdn.hackernoon.com/images/gFDOPhILD1XXChVXvtTpo42RgoO2-dz93sme.jpeg)
 With a single config change, reduce rebalance downtime for your stateless Kafka Streams Apps from 45s to <100ms!!
 
-### [56. Apache Kafka’s New Tiered Storage: What Developers Need to Know](https://hackernoon.com/apache-kafkas-new-tiered-storage-what-developers-need-to-know)
+### [57. Apache Kafka’s New Tiered Storage: What Developers Need to Know](https://hackernoon.com/apache-kafkas-new-tiered-storage-what-developers-need-to-know)
 ![](https://cdn.hackernoon.com/images/a-tiered-cake-that-says-kafka-on-every-level-zntk7u5dqlvtn6bym1wd02y1.png)
 Learn how open source Apache Kafka's Tiered Storage transforms data retention economics, enabling affordable long-term storage while maintaining performance.
 
-### [57. Apache Kafka: How Does It Work?](https://hackernoon.com/apache-kafka-how-does-it-work-pj2233vu)
-![](https://cdn.hackernoon.com/images/BlCSta4jJVYw03SJXvedwpUMtnL2-ea3j33vh.jpeg)
-This article was originally posted to the Confluent blog.
-
-### [58. I Built 10 Pokemon Agents That Learn From Each Other Using Kafka and Flink](https://hackernoon.com/i-built-10-pokemon-agents-that-learn-from-each-other-using-kafka-and-flink)
-![](https://cdn.hackernoon.com/images/QpXjEM8zsiZJPvjc7UP80C6Srfk1-1aa3e3y.png)
-The agent runs headless inside a stereOS VM with no display server. It reads game memory directly from known RAM addresses.
-
-### [59. Top 5 Cloud Skills That Will Matter The Most in 2026](https://hackernoon.com/top-5-cloud-skills-that-will-matter-the-most-in-2026)
+### [58. Top 5 Cloud Skills That Will Matter The Most in 2026](https://hackernoon.com/top-5-cloud-skills-that-will-matter-the-most-in-2026)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3n0244q.jpeg)
 The cloud skills of the future are not about knowing one cloud provider better than another. 
+
+### [59. Apache Kafka: How Does It Work?](https://hackernoon.com/apache-kafka-how-does-it-work-pj2233vu)
+![](https://cdn.hackernoon.com/images/BlCSta4jJVYw03SJXvedwpUMtnL2-ea3j33vh.jpeg)
+This article was originally posted to the Confluent blog.
 
 ### [60. What are Pub/Sub Systems](https://hackernoon.com/what-are-pubsub-systems)
 ![](https://cdn.hackernoon.com/images/q6t9kyVqaAbMWMb9XJWOGmM6iV92-2x9382r.png)
 Pub/sub, short for publish/subscribe, are systems that allow communication between different components or services in a distributed architecture.
 
-### [61. Kafka Administration and Monitoring UI Tools](https://hackernoon.com/kafka-administration-and-monitoring-ui-tools-ksr2tta)
+### [61. Reliable Testing with Kafka: Isolation Techniques](https://hackernoon.com/streamlining-kafka-integration-testing-isolation-with-testcontainers-and-spring-boot-31)
+![](https://cdn.hackernoon.com/images/MQ5fUOiNSpXFtgak1Nkj9tyaEBL2-n28345b.jpeg)
+Kafka integration testing with Testcontainers and Spring Boot 3.1, ensuring test isolation and full message access for reliable and efficient tests.
+
+### [62. Kafka Administration and Monitoring UI Tools](https://hackernoon.com/kafka-administration-and-monitoring-ui-tools-ksr2tta)
 ![](https://cdn.hackernoon.com/drafts/csyp2t26.png)
 Kafka itself comes with command line tools that can do all the 
 administration tasks, but those tools aren’t very convenient because 
 they are not integrated into one tool and you need to run a different 
 tool for different tasks. Moreover, it is getting difficult to work with them when your clusters grow large or when you have several clusters.
 
-### [62. 5 Things Every Apache Kafka Dev Needs To Know: A Performance and Architectural Deep Dive](https://hackernoon.com/5-things-every-apache-kafka-dev-needs-to-know-a-performance-and-architectural-deep-dive-wp8i3408)
+### [63. 5 Things Every Apache Kafka Dev Needs To Know: A Performance and Architectural Deep Dive](https://hackernoon.com/5-things-every-apache-kafka-dev-needs-to-know-a-performance-and-architectural-deep-dive-wp8i3408)
 ![](https://cdn.hackernoon.com/images/tgvJj8JY30O04OhsS8g0ZonhbGx1-rc1n31gw.jpeg)
 Here are five tips on how Kafka works and how you can get started with Apache Kafka.
-
-### [63. Reliable Testing with Kafka: Isolation Techniques](https://hackernoon.com/streamlining-kafka-integration-testing-isolation-with-testcontainers-and-spring-boot-31)
-![](https://cdn.hackernoon.com/images/MQ5fUOiNSpXFtgak1Nkj9tyaEBL2-n28345b.jpeg)
-Kafka integration testing with Testcontainers and Spring Boot 3.1, ensuring test isolation and full message access for reliable and efficient tests.
 
 ### [64. Lambda Architecture Batch Layer: Visualizing All Time Taxi Data [Part 3]](https://hackernoon.com/lambda-architecture-batch-layer-visualizing-all-time-taxi-data-part-3-n74l31lq)
 ![](https://cdn.hackernoon.com/images/oJcyiih3JxQIYnSJChKYcEE1zXE3-jc693w8f.jpeg)
 In this part i would be talking about the batch layer of the Lambda Architecture. Batch layer is computed by applying a function to the whole historical dataset, to answer some high level questions which cannot be answered by either speed layer or serving layer. The computations typically take hours or days to run, and the results are stored usually in a distributed file system (although this is not a requirement). For example, the queries that might need to be answered would range from the beginning of the dataset to now, in our case, till date how many cabs have served how many passengers, or what is the total distance driven by all the cabs. In this article i would try to answer questions like these based on the dataset that i have. The code for the article can be found here.
 
-### [65. Debezium Introduction: Another Change Data Capture Tool](https://hackernoon.com/debezium-introduction-another-change-data-capture-tool-ht1m3urm)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FbZKJKTyvaqUNUHd11JlPgPsyqiC3-xf533w78.webp?alt=media&token=826bcc18-321b-484b-bc0c-2352dbd4df69)
-Building an enterprise data warehouse can be either relatively straightforward or very sophisticated. It depends on many factors, such as the conceptual data model complexity and the variety of source systems. In many cases, applying the Change Data Capture (CDC) approach can make the data integration simpler. Fortunately, there are plenty of CDC tools available in the market, many of which are easy-to-use and affordable, while others are cumbersome and expensive (for what it is).
-
-### [66. Understanding Kafka Partitions: How to Get the Most out of Your Kafka Cluster](https://hackernoon.com/understanding-kafka-partitions-how-to-get-the-most-out-of-your-kafka-cluster-vaji36zv)
-![](https://cdn.hackernoon.com/drafts/mepk32ad.png)
-This blog provides an overview around the two fundamental concepts in Apache Kafka: Topics and Partitions. While developing and scaling our Anomalia Machina application we have discovered that distributed applications using Kafka and Cassandra clusters require careful tuning to achieve close to linear scalability, and critical variables included the number of Kafka topics and partitions. In this blog, we test that theory and answer questions like “What impact does increasing partitions have on throughput?” and “Is there an optimal number of partitions for a cluster to maximize write throughput?” And more!
-
-### [67. Why Regulated Enterprises Can’t Just “Use Kafka” — and What to Run Instead](https://hackernoon.com/why-regulated-enterprises-cant-just-use-kafka-and-what-to-run-instead)
-![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-tt02gut.jpeg)
-How to modernize messaging in regulated industries: Kubernetes-native platforms for air-gapped, zero-egress environments with full security control.
-
-### [68. Building a Distributed Timer Service at Scale: Handling 100K Timers Per Second](https://hackernoon.com/building-a-distributed-timer-service-at-scale-handling-100k-timers-per-second)
+### [65. Building a Distributed Timer Service at Scale: Handling 100K Timers Per Second](https://hackernoon.com/building-a-distributed-timer-service-at-scale-handling-100k-timers-per-second)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-g1036n1.jpeg)
 This article details a horizontally scalable, distributed timer service achieving 100 K timer creations per second with millisecond precision.
 
-### [69. Deploy Your Application with Kafka and Docker in 20 Minutes ](https://hackernoon.com/deploy-your-application-with-kafka-and-docker-in-20-minutes)
+### [66. Debezium Introduction: Another Change Data Capture Tool](https://hackernoon.com/debezium-introduction-another-change-data-capture-tool-ht1m3urm)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FbZKJKTyvaqUNUHd11JlPgPsyqiC3-xf533w78.webp?alt=media&token=826bcc18-321b-484b-bc0c-2352dbd4df69)
+Building an enterprise data warehouse can be either relatively straightforward or very sophisticated. It depends on many factors, such as the conceptual data model complexity and the variety of source systems. In many cases, applying the Change Data Capture (CDC) approach can make the data integration simpler. Fortunately, there are plenty of CDC tools available in the market, many of which are easy-to-use and affordable, while others are cumbersome and expensive (for what it is).
+
+### [67. Deploy Your Application with Kafka and Docker in 20 Minutes ](https://hackernoon.com/deploy-your-application-with-kafka-and-docker-in-20-minutes)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-tna3prt.jpeg)
 In this tutorial, we'll walk you through how to use Docker, Kafka, and Kubernetes to deploy a simple application.
+
+### [68. Understanding Kafka Partitions: How to Get the Most out of Your Kafka Cluster](https://hackernoon.com/understanding-kafka-partitions-how-to-get-the-most-out-of-your-kafka-cluster-vaji36zv)
+![](https://cdn.hackernoon.com/drafts/mepk32ad.png)
+This blog provides an overview around the two fundamental concepts in Apache Kafka: Topics and Partitions. While developing and scaling our Anomalia Machina application we have discovered that distributed applications using Kafka and Cassandra clusters require careful tuning to achieve close to linear scalability, and critical variables included the number of Kafka topics and partitions. In this blog, we test that theory and answer questions like “What impact does increasing partitions have on throughput?” and “Is there an optimal number of partitions for a cluster to maximize write throughput?” And more!
+
+### [69. Why Regulated Enterprises Can’t Just “Use Kafka” — and What to Run Instead](https://hackernoon.com/why-regulated-enterprises-cant-just-use-kafka-and-what-to-run-instead)
+![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-tt02gut.jpeg)
+How to modernize messaging in regulated industries: Kubernetes-native platforms for air-gapped, zero-egress environments with full security control.
 
 ### [70. Understanding Kafka with Factorio](https://hackernoon.com/understanding-kafka-with-factorio)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-r502p6u.jpeg)
@@ -291,13 +295,13 @@ Thanks to Tom de Ruijter, [https://medium.co
 ![](https://cdn.hackernoon.com/drafts/mi1l32up.png)
 I’ve assisted several large clients in building a microservices-style architecture using Kafka as a messaging backbone, having a reasonably good understanding of its abilities and the use cases that really bring them out. But I’m not a Kafka apologist by any stretch; any technology that has gone through such a rapid adoption curve is bound to polarise its audience and rub certain developers up a wrong way, and Kafka is no exception. Like anything else, you need to invest a significant amount of time in getting across Kafka and event streaming in general, before you become fully proficient and can harness its might. And be prepared to face one or two frustrations, to put it mildly, along the way.
 
-### [72. A Brief Introduction to Commit Logs ](https://hackernoon.com/a-brief-introduction-to-commit-logs-fs223tnf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fn56nRV0FfBMIcVkRTJsnebm9p5X2-5ta3tvo.jpeg?alt=media&token=ec5f0abe-7495-421c-bb53-0c6a89a4286e)
-Logs are everywhere in software development. Without them there’d be no relational databases, git version control, or most analytics platforms.
-
-### [73. Turbocharging AI Sentiment Analysis: How We Hit 50K RPS with GPU Micro-services](https://hackernoon.com/turbocharging-ai-sentiment-analysis-how-we-hit-50k-rps-with-gpu-micro-services)
+### [72. Turbocharging AI Sentiment Analysis: How We Hit 50K RPS with GPU Micro-services](https://hackernoon.com/turbocharging-ai-sentiment-analysis-how-we-hit-50k-rps-with-gpu-micro-services)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8j02u8h.jpeg)
 The sentiment analysis stack was one big codebase for data ingestion, model inference, logging, and storage. It worked great, until traffic shot up.
+
+### [73. A Brief Introduction to Commit Logs ](https://hackernoon.com/a-brief-introduction-to-commit-logs-fs223tnf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fn56nRV0FfBMIcVkRTJsnebm9p5X2-5ta3tvo.jpeg?alt=media&token=ec5f0abe-7495-421c-bb53-0c6a89a4286e)
+Logs are everywhere in software development. Without them there’d be no relational databases, git version control, or most analytics platforms.
 
 ### [74. For Entry-Level Data Engineers: How to Build a Simple but Solid Data Architecture](https://hackernoon.com/for-entry-level-data-engineers-how-to-build-a-simple-but-solid-data-architecture)
 ![](https://cdn.hackernoon.com/images/oNIroQpI1FZj2l5g1MSUvunDFzu2-uxc374l.jpeg)
@@ -319,29 +323,29 @@ Discover how combining machine learning with microservices architecture enables 
 ![](https://cdn.hackernoon.com/images/KEGfMoHXoLeZJUxizg8AEw6tvLz1-9x93yjx.jpeg)
 Unlock the Power of Real-Time Data with Kafka: A Deep Dive into the Fast and Scalable System Design Championed by Kafka. Learn More!
 
-### [79. The Noonification: Everything Missing in Cosmos DeFi (12/28/2023)](https://hackernoon.com/12-28-2023-noonification)
-![](https://cdn.hackernoon.com/images/noonification_540_oe6zcscimgwikspex3d9lwr4.png)
-12/28/2023: Top 5 stories on the HackerNoon homepage!
-
-### [80. Real-Time Data Processing with Kafka Streams: Simplifying Stream Processing Applications](https://hackernoon.com/real-time-data-processing-with-kafka-streams-simplifying-stream-processing-applications)
-![](https://cdn.hackernoon.com/images/q6t9kyVqaAbMWMb9XJWOGmM6iV92-wk83cuh.png)
-Explore Kafka Streams: a Java library for building scalable, fault-tolerant stream processing apps. Learn how to simplify real-time data processing.
-
-### [81. Using dbt with Materialize and Redpanda](https://hackernoon.com/how-to-use-dbt-with-materialize-and-redpanda)
-![](https://cdn.hackernoon.com/images/tRW6o57hoNezh0iZnOdGsW3dKI02-xl0396e.jpeg)
-
-
-### [82. Run a Flink Kafka Job from DolphinScheduler (Standalone VM Setup)](https://hackernoon.com/run-a-flink-kafka-job-from-dolphinscheduler-standalone-vm-setup)
+### [79. Run a Flink Kafka Job from DolphinScheduler (Standalone VM Setup)](https://hackernoon.com/run-a-flink-kafka-job-from-dolphinscheduler-standalone-vm-setup)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-v202314.jpeg)
 Configure Kafka + Flink networking, package a Kafka consumer JAR, upload it, and run it as a scheduled Flink task node end-to-end.
 
-### [83. How to Stream XML messages from IBM MQ into Kafka into MongoDB](https://hackernoon.com/how-to-stream-xml-messages-from-ibm-mq-into-kafka-into-mongodb-x2163w2i)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FcGtm9B6GHOR95GT5kJwnR8gdd9s2-yp4z3tcw.gif?alt=media&token=a8fdaaac-0467-4427-bb77-cf240364df2d)
-Let’s imagine we have XML data on a queue in IBM MQ, and we want to ingest it into Kafka to then use downstream, perhaps in an application or maybe to stream to a NoSQL store like MongoDB.
+### [80. The Noonification: Everything Missing in Cosmos DeFi (12/28/2023)](https://hackernoon.com/12-28-2023-noonification)
+![](https://cdn.hackernoon.com/images/noonification_540_oe6zcscimgwikspex3d9lwr4.png)
+12/28/2023: Top 5 stories on the HackerNoon homepage!
 
-### [84. Why Your Debezium CDC Stream Is Full of __debezium_unavailable_value (and How to Fix It)](https://hackernoon.com/why-your-debezium-cdc-stream-is-full-of-__debezium_unavailable_value-and-how-to-fix-it)
+### [81. Real-Time Data Processing with Kafka Streams: Simplifying Stream Processing Applications](https://hackernoon.com/real-time-data-processing-with-kafka-streams-simplifying-stream-processing-applications)
+![](https://cdn.hackernoon.com/images/q6t9kyVqaAbMWMb9XJWOGmM6iV92-wk83cuh.png)
+Explore Kafka Streams: a Java library for building scalable, fault-tolerant stream processing apps. Learn how to simplify real-time data processing.
+
+### [82. Why Your Debezium CDC Stream Is Full of __debezium_unavailable_value (and How to Fix It)](https://hackernoon.com/why-your-debezium-cdc-stream-is-full-of-__debezium_unavailable_value-and-how-to-fix-it)
 ![](https://cdn.hackernoon.com/images/atp3CpewbyYApOAsn8AwYyUriE53-3n03ced.png)
 If you see __debezium_unavailable_value in your Debezium CDC stream, it’s not a bug; it’s PostgreSQL and Debezium being honest about what they don’t know.
+
+### [83. Using dbt with Materialize and Redpanda](https://hackernoon.com/how-to-use-dbt-with-materialize-and-redpanda)
+![](https://cdn.hackernoon.com/images/tRW6o57hoNezh0iZnOdGsW3dKI02-xl0396e.jpeg)
+
+
+### [84. How to Stream XML messages from IBM MQ into Kafka into MongoDB](https://hackernoon.com/how-to-stream-xml-messages-from-ibm-mq-into-kafka-into-mongodb-x2163w2i)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FcGtm9B6GHOR95GT5kJwnR8gdd9s2-yp4z3tcw.gif?alt=media&token=a8fdaaac-0467-4427-bb77-cf240364df2d)
+Let’s imagine we have XML data on a queue in IBM MQ, and we want to ingest it into Kafka to then use downstream, perhaps in an application or maybe to stream to a NoSQL store like MongoDB.
 
 ### [85. Unveiling Kafka-Streams-Cassandra-State-Store](https://hackernoon.com/unveiling-kafka-streams-cassandra-state-store)
 ![](https://cdn.hackernoon.com/images/gFDOPhILD1XXChVXvtTpo42RgoO2-0w93pyj.jpeg)
@@ -359,13 +363,13 @@ Today is a big day for Kuma! Kuma 1.0 is now generally available with over 70 f
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-j5020w0.png)
 The culprit behind SeaTunnel Kafka Connector "OutOfMemory" found.
 
-### [89. The System Design Paradox: Why Your Principal Engineer Asks for Less, Not More](https://hackernoon.com/the-system-design-paradox-why-your-principal-engineer-asks-for-less-not-more)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rs023sp.jpeg)
-Microservices, Kafka, sharding, event sourcing... these are the words of the gods, the hallmarks of a real senior engineer, right?
-
-### [90. Designing Robust Real‑Time Pipelines with Flink, Kafka, and an OLAP Store](https://hackernoon.com/designing-robust-realtime-pipelines-with-flink-kafka-and-an-olap-store)
+### [89. Designing Robust Real‑Time Pipelines with Flink, Kafka, and an OLAP Store](https://hackernoon.com/designing-robust-realtime-pipelines-with-flink-kafka-and-an-olap-store)
 ![](https://cdn.hackernoon.com/images/atp3CpewbyYApOAsn8AwYyUriE53-cw03cdd.png)
 Design a real-time event pipeline with Kafka, Flink, an OLAP store, and a warehouse where every event is processed only once.
+
+### [90. The System Design Paradox: Why Your Principal Engineer Asks for Less, Not More](https://hackernoon.com/the-system-design-paradox-why-your-principal-engineer-asks-for-less-not-more)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rs023sp.jpeg)
+Microservices, Kafka, sharding, event sourcing... these are the words of the gods, the hallmarks of a real senior engineer, right?
 
 ### [91. Getting Started with Spring Cloud Stream](https://hackernoon.com/getting-started-with-spring-cloud-stream-l84p2w5b)
 ![](https://cdn.hackernoon.com/drafts/a41ac2wet.png)

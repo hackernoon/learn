@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [web](https://hackernoon.com/tagged/web)
+### Let's learn about [Web](https://hackernoon.com/tagged/web) via these 193 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+The Web refers to the World Wide Web, a global system of interconnected computer networks that uses standard communication protocols to link billions of devices. It is the primary platform for information sharing, communication, and digital services worldwide.
+
 ### [1. 11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 ![](https://hackernoon.com/hn-images/1*Y1xY5s_DFPRaZzTwpfb_WQ.png)
 I’ve always found flexbox pretty easy to work with — a breath of fresh air after years of floating and clearfixing.
@@ -78,13 +82,13 @@ Application example built with Angular 14 and adding the Google reCAPTCHA v3 com
 ![](https://cdn.hackernoon.com/images/IO69gv8W6RUFb2xGQu7nv0kowxQ2-2e93721.jpeg)
 Learn about Twig and Timber web development, and how the Hounder team uses these tools to create stunning custom themes in word press.
 
-### [20. Web Scraping and the Battle for Open Internet](https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i)
-![](https://cdn.hackernoon.com/images/sf742tjf.jpg)
-A few years ago, Cambridge Analytica made netizens concerned regarding the gathering of their online data. At that time, affected or interested users had little knowledge of how big the big-data industry actually was.
-
-### [21. Adding the social media share buttons component to an Angular application](https://hackernoon.com/adding-the-social-media-share-buttons-component-to-an-angular-application)
+### [20. Adding the social media share buttons component to an Angular application](https://hackernoon.com/adding-the-social-media-share-buttons-component-to-an-angular-application)
 ![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-o192mzb.jpeg)
 Application example built with Angular 14 and adding the social media share buttons component using the ngx-sharebuttons library.
+
+### [21. Web Scraping and the Battle for Open Internet](https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i)
+![](https://cdn.hackernoon.com/images/sf742tjf.jpg)
+A few years ago, Cambridge Analytica made netizens concerned regarding the gathering of their online data. At that time, affected or interested users had little knowledge of how big the big-data industry actually was.
 
 ### [22. The Dangers of DeepFake Technology: Exploring the Potential Risks of AI-Generated Videos and Images](https://hackernoon.com/the-dangers-of-deepfake-technology-exploring-the-potential-risks-of-ai-generated-videos-and-images)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-om93qbg.jpeg)
@@ -130,13 +134,13 @@ This article will cover how to jump into Web3 development right without getting 
 ![](https://cdn.hackernoon.com/images/web-apps-clcrky607000101s6hi1l47sb.png)
 In 1999, the conversation around the web focused on its power as a new media.
 
-### [33. How To Resize an Image Correctly in JavaScript](https://hackernoon.com/how-to-resize-an-image-correctly-in-javascript-4548336j)
-![](https://cdn.hackernoon.com/images/hkBZtu6tTdTc6vjV74oOnoegICk1-fnc379s.jpeg)
-JavaScript implementation of so-called Seam Carving algorithm for the content-aware image resizing and objects removal. Dynamic programming approach is applied 
-
-### [34. Why localStorage Still Crashes Your Website in 2023](https://hackernoon.com/why-localstorage-still-crashes-your-website-in-2023)
+### [33. Why localStorage Still Crashes Your Website in 2023](https://hackernoon.com/why-localstorage-still-crashes-your-website-in-2023)
 ![](https://cdn.hackernoon.com/images/IDrwnuUpw3ciQtHAlLVk7zUZSpN2-6ba3yvb.jpeg)
 How to deal with the Browser SecurityError: The operation is insecure or localStorage is not defined. 
+
+### [34. How To Resize an Image Correctly in JavaScript](https://hackernoon.com/how-to-resize-an-image-correctly-in-javascript-4548336j)
+![](https://cdn.hackernoon.com/images/hkBZtu6tTdTc6vjV74oOnoegICk1-fnc379s.jpeg)
+JavaScript implementation of so-called Seam Carving algorithm for the content-aware image resizing and objects removal. Dynamic programming approach is applied 
 
 ### [35. TypeScript Interfaces and Types: A Comparison](https://hackernoon.com/typescript-interfaces-and-types-a-comparison)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-xk93pij.jpeg)
@@ -202,17 +206,17 @@ envisioning a web that revolves around the user, not the server and not the Bloc
 ![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-0id2mt6.jpeg)
 Application example built with Angular 14 and adding the notification component using the ngx-toastr library.
 
-### [51. Chatbot Examples - Which Are the Best Chatbots on the Web?](https://hackernoon.com/chatbot-examples-which-are-the-best-chatbots-on-the-web-xb1vq30nb)
-![](https://cdn.hackernoon.com/drafts/3e1ux30ci.png)
-Even if you don’t have a chatbox on your website, you have definitely encountered one before. Facebook, eBay, Domino’s Pizza, and Universal Studios are some of the big names that have their own chatbots.
-
-### [52. How To Build an Absurdly Backwards Compatible Website](https://hackernoon.com/how-to-build-an-absurdly-backwards-compatible-website)
+### [51. How To Build an Absurdly Backwards Compatible Website](https://hackernoon.com/how-to-build-an-absurdly-backwards-compatible-website)
 ![](https://cdn.hackernoon.com/images/LLNXiPKIsZM5IWTNJfmlBf6EZjZ2-cv92fpm.jpeg)
 Let’s face it: the internet is broken.
 
-### [53. The “Connection Not Private” Warning Explained](https://hackernoon.com/the-connection-not-private-warning-explained)
+### [52. The “Connection Not Private” Warning Explained](https://hackernoon.com/the-connection-not-private-warning-explained)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-ll92hlz.jpeg)
 Each time you visit a website, your web browser (e.g., Chrome, Safari, or Firefox) first checks for the existence of one of two digital certificates
+
+### [53. Chatbot Examples - Which Are the Best Chatbots on the Web?](https://hackernoon.com/chatbot-examples-which-are-the-best-chatbots-on-the-web-xb1vq30nb)
+![](https://cdn.hackernoon.com/drafts/3e1ux30ci.png)
+Even if you don’t have a chatbox on your website, you have definitely encountered one before. Facebook, eBay, Domino’s Pizza, and Universal Studios are some of the big names that have their own chatbots.
 
 ### [54. Adding the Material UI CSS framework to a React Application](https://hackernoon.com/adding-the-material-ui-css-framework-to-a-react-application)
 ![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-2092hoh.jpeg)
@@ -245,25 +249,25 @@ The net can be thought of as a gigantic battlefield. Today there are a few impen
 ![](https://cdn.hackernoon.com/images/OujWaQx7FhMxIORYNRgWYZuh1kb2-f893qhs.jpeg)
 Hi everyone! There are a lot of tips and tricks about CSS styling. But not in this article. Today I want to talk about how to use CSS more efficiently and make 
 
-### [61. 15 Essential GitHub Repos for Web Developers in 2021](https://hackernoon.com/15-essential-github-repos-for-web-developers-in-2021)
+### [61. How to Build a Slack Clone with React, Firebase, and CometChat](https://hackernoon.com/how-to-build-a-slack-clone-with-react-firebase-and-cometchat-3r3037kq)
+![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-pvbo331k.jpeg)
+In this tutorial, we will be combining the full power of React, Firebase, and CometChat to build a slack clone that will leave you mind-blown.
+
+### [62. 15 Essential GitHub Repos for Web Developers in 2021](https://hackernoon.com/15-essential-github-repos-for-web-developers-in-2021)
 ![](https://cdn.hackernoon.com/images/SX77kQ7AuphQDZQhV7OSkx49OZc2-3e5d4923.jpeg)
 Using Github Repositories can be a helpful tool to learn coding. Here are 15 Most Valuable GitHub Repos for Web Devs in 2021 and what you can learn from them. 
 
-### [62. SwifWeb Libraries: SweetAlert2](https://hackernoon.com/swifweb-libraries-sweetalert2)
+### [63. SwifWeb Libraries: SweetAlert2](https://hackernoon.com/swifweb-libraries-sweetalert2)
 ![](https://cdn.hackernoon.com/images/cnk75wzdkHOamvwE3F8u3w3Q3Ni1-67935qi.png)
 Enhance your SwifWeb app with SweetAlert2. Learn benefits & implement customizable alerts to replace boring JS pop-ups for better user experience.
-
-### [63. React Internals: Basic Concepts and Notes](https://hackernoon.com/react-internals-basic-concepts-and-notes-7v2f350t)
-![](https://cdn.hackernoon.com/images/nuST4U0AkMa1imTW9yZi0UhVAay1-mjv35mb.jpeg)
-An introductory lesson to React internals based on React Fiber.
 
 ### [64. Web3 vs the Traditional Web: A Look at Web3's Benefits](https://hackernoon.com/web3-vs-the-traditional-web-a-look-at-web3s-benefits)
 ![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-0k92dw4.jpeg)
 A look at Web3 and the traditional web
 
-### [65. How to Build a Slack Clone with React, Firebase, and CometChat](https://hackernoon.com/how-to-build-a-slack-clone-with-react-firebase-and-cometchat-3r3037kq)
-![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-pvbo331k.jpeg)
-In this tutorial, we will be combining the full power of React, Firebase, and CometChat to build a slack clone that will leave you mind-blown.
+### [65. React Internals: Basic Concepts and Notes](https://hackernoon.com/react-internals-basic-concepts-and-notes-7v2f350t)
+![](https://cdn.hackernoon.com/images/nuST4U0AkMa1imTW9yZi0UhVAay1-mjv35mb.jpeg)
+An introductory lesson to React internals based on React Fiber.
 
 ### [66. Mapping the Internet: A Visualization of the Web](https://hackernoon.com/mapping-the-internet-a-visualization-of-the-web)
 ![](https://cdn.hackernoon.com/images/NurxgavEyNRrMmXFXGblTedELjN2-wx92b5u.jpeg)
@@ -289,13 +293,13 @@ HTTP (Hypertext Transfer Protocol) is the language that web browsers and web ser
 ![](https://cdn.hackernoon.com/images/hRDOVk3kuFUKcdoCm3DRio5srhh1-o5p3s5q.jpeg)
 Web Scraping for fun: With 'requests-html'
 
-### [72. Adding the ESLint to an Angular Application](https://hackernoon.com/adding-the-eslint-to-an-angular-application)
-![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-vq92rvb.jpeg)
-Application example built with Angular 14 and adding the ESLint using @angular-eslint/schematics library.
-
-### [73. How To Build Your First Website For A Client - Workflow and Tools ](https://hackernoon.com/how-to-build-your-first-website-for-a-client-workflow-and-tools-hq3e35u3)
+### [72. How To Build Your First Website For A Client - Workflow and Tools ](https://hackernoon.com/how-to-build-your-first-website-for-a-client-workflow-and-tools-hq3e35u3)
 ![](https://cdn.hackernoon.com/images/CKm5QWycYDYVoSD7SPg8hYqgO7p1-ptw37mb.png)
 So you want to earn money by making websites? Five years ago, I was in your shoes searching for an article like this one. 
+
+### [73. Adding the ESLint to an Angular Application](https://hackernoon.com/adding-the-eslint-to-an-angular-application)
+![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-vq92rvb.jpeg)
+Application example built with Angular 14 and adding the ESLint using @angular-eslint/schematics library.
 
 ### [74. An Interview With CSS Creator Håkon Wium Lie](https://hackernoon.com/an-interview-with-css-creator-hakon-wium-lie)
 ![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-m693pji.jpeg)
@@ -313,13 +317,13 @@ Coronavirus cases are increasing day by day. It’s very important to get vaccin
 ![](https://cdn.hackernoon.com/images/dqny325z.jpg)
 Today we’ll talk about accessibility.
 
-### [78. How Can I Use Selenium to Automate Shadow DOM Elements?](https://hackernoon.com/how-can-i-use-selenium-to-automate-shadow-dom-elements)
-![](https://cdn.hackernoon.com/images/2EHqLYnBA1e6rDsHRwLC7iNmRov2-6993ptt.jpeg)
-In this blog, we highlighted the automation of the shadow DOM elements using the selenium web driver. 
-
-### [79. How the Financial Times Struck a Balance Between Free and Paid Content, and How NYT Iterated on It](https://hackernoon.com/how-the-financial-times-struck-a-balance-between-free-and-paid-content-and-how-nyt-iterated-on-it)
+### [78. How the Financial Times Struck a Balance Between Free and Paid Content, and How NYT Iterated on It](https://hackernoon.com/how-the-financial-times-struck-a-balance-between-free-and-paid-content-and-how-nyt-iterated-on-it)
 ![](https://cdn.hackernoon.com/images/sJwjgWMePCRCww2FEBtUo8iYsiL2-04c2h8t.jpeg)
 Martin Nisenholtz is the former CEO of New York Times Digital and former SVP of Digital Operations at New York Times. 
+
+### [79. How Can I Use Selenium to Automate Shadow DOM Elements?](https://hackernoon.com/how-can-i-use-selenium-to-automate-shadow-dom-elements)
+![](https://cdn.hackernoon.com/images/2EHqLYnBA1e6rDsHRwLC7iNmRov2-6993ptt.jpeg)
+In this blog, we highlighted the automation of the shadow DOM elements using the selenium web driver. 
 
 ### [80. You’ll Need to Use a Proxy Server, Sooner or Later](https://hackernoon.com/youll-need-to-use-a-proxy-server-sooner-or-later)
 ![](https://cdn.hackernoon.com/images/ibRkmu5aVJXXD6liofFFR23PdGC2-oef3rmj.jpeg)
@@ -341,21 +345,21 @@ In Javascript, we have numerous ways to check if something is or is not a number
 ![](https://cdn.hackernoon.com/images/Bf6xbPmhtTcARlzNXM2oktEZuh22-erb2nl1.jpeg)
 Explore the functionality and benefits of Scroll Snap, a powerful CSS feature that enhances scrolling experience.
 
-### [85. How to Set Up SSH Login Notifications with IP geolocation](https://hackernoon.com/how-to-set-up-ssh-login-notifications-with-ip-geolocation)
+### [85. Session vs JWT Authentication — How They Work, Key Differences, and Real-World Examples](https://hackernoon.com/session-vs-jwt-authentication-how-they-work-key-differences-and-real-world-examples)
+![](https://cdn.hackernoon.com/images/RorqHI48UWh6kChB2Jym2FfruNB3-ze53a9s.png)
+While both achieve the goal of verifying a user’s identity, they work in different ways.
+
+### [86. How to Set Up SSH Login Notifications with IP geolocation](https://hackernoon.com/how-to-set-up-ssh-login-notifications-with-ip-geolocation)
 ![](https://cdn.hackernoon.com/images/AQhsuGMPQkPt8eLEzbGXKQrpXej2-7n93kjv.jpeg)
 Server admins commonly use SSH to login to Linux servers. It is also good to setup SSH notification with IP geolocation for better security. 
 
-### [86. An Essential Guide to Binary Representation of Floating-Point Numbers](https://hackernoon.com/an-essential-guide-to-binary-representation-of-floating-point-numbers-uw2n37tc)
+### [87. An Essential Guide to Binary Representation of Floating-Point Numbers](https://hackernoon.com/an-essential-guide-to-binary-representation-of-floating-point-numbers-uw2n37tc)
 ![](https://cdn.hackernoon.com/images/hkBZtu6tTdTc6vjV74oOnoegICk1-kul39ik.jpeg)
 Have you ever wondered how computers store the floating-point numbers like `3.1415` (𝝿) or in the memory which consists of a bunch of ones and zeroes?
 
-### [87. Coding By Hands vs. Visual Website Builder](https://hackernoon.com/coding-by-hands-vs-visual-website-builder-g61n3wc8)
+### [88. Coding By Hands vs. Visual Website Builder](https://hackernoon.com/coding-by-hands-vs-visual-website-builder-g61n3wc8)
 ![](https://cdn.hackernoon.com/drafts/rs6f2bbm.png)
 It is a web developer’s dream to get clients who understand development requirements. As a web developer you might be fluent in CSS, JavaScript, PHP, and of course, HTML. Hand coding skill is what makes a web developer indispensable.
-
-### [88. Session vs JWT Authentication — How They Work, Key Differences, and Real-World Examples](https://hackernoon.com/session-vs-jwt-authentication-how-they-work-key-differences-and-real-world-examples)
-![](https://cdn.hackernoon.com/images/RorqHI48UWh6kChB2Jym2FfruNB3-ze53a9s.png)
-While both achieve the goal of verifying a user’s identity, they work in different ways.
 
 ### [89. SwifWeb Libraries: Animate.css](https://hackernoon.com/swifweb-libraries-animatecss)
 ![](https://cdn.hackernoon.com/images/cnk75wzdkHOamvwE3F8u3w3Q3Ni1-yl935x7.jpeg)
@@ -369,13 +373,13 @@ With this website, you get to run performance, lighthouse, core web vitals, visu
 ![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-1792my3.jpeg)
 Application example built with Angular 15 and hosted on GitHub Pages using GitHub Actions.
 
-### [92. An Intro to Web Design and UI/UX Trends in 2023](https://hackernoon.com/an-intro-to-web-design-and-uiux-trends-in-2023)
-![](https://cdn.hackernoon.com/images/gtWkIzhMArXTjBVEGXFWVFsGrp92-cob3qxt.png)
-The trend of brutalism, which breaks the rules and catches people's attention, allows for the addition of interesting elements like screaming fonts.
-
-### [93. Meet the Writer: HackerNoon's Contributor Nikita Starichenko, SWE at Snap Inc.](https://hackernoon.com/meet-the-writer-hackernoons-contributor-nikita-starichenko-swe-at-snap-inc)
+### [92. Meet the Writer: HackerNoon's Contributor Nikita Starichenko, SWE at Snap Inc.](https://hackernoon.com/meet-the-writer-hackernoons-contributor-nikita-starichenko-swe-at-snap-inc)
 ![](https://cdn.hackernoon.com/images/OujWaQx7FhMxIORYNRgWYZuh1kb2-4993p0r.jpeg)
 From Engineering to Surfing!
+
+### [93. An Intro to Web Design and UI/UX Trends in 2023](https://hackernoon.com/an-intro-to-web-design-and-uiux-trends-in-2023)
+![](https://cdn.hackernoon.com/images/gtWkIzhMArXTjBVEGXFWVFsGrp92-cob3qxt.png)
+The trend of brutalism, which breaks the rules and catches people's attention, allows for the addition of interesting elements like screaming fonts.
 
 ### [94. A Blockchain Answer to Moxie’s ‘Impressions of Web3’](https://hackernoon.com/a-blockchain-answer-to-moxies-impressions-of-web3)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-wz93jsq.jpeg)
@@ -405,13 +409,13 @@ With blockchain, Web3 users get more freedom, privacy and access to the same soc
 ![](https://cdn.hackernoon.com/images/7DtulTMuZUNhuHGe0I2LlQhRAdu1-0193q0o.jpeg)
 In this article, I'll share 7 optimization tips that every JavaScript developer should know.
 
-### [101. The Internet is Broken, But The Metaverse and Web 3.0 Could be the Solution](https://hackernoon.com/the-internet-is-broken-but-the-metaverse-and-web-30-could-be-the-solution)
-![](https://cdn.hackernoon.com/images/zaVyJ3dcr6YgXE0hJ3QabUCHwFi1-ph139l2.jpeg)
-What is the major issue with the internet today, and how can Web 3.0 fix it?
-
-### [102. Anemoia and the Birth of New Words From Tumblr](https://hackernoon.com/anemoia-and-the-birth-of-new-words-from-tumblr)
+### [101. Anemoia and the Birth of New Words From Tumblr](https://hackernoon.com/anemoia-and-the-birth-of-new-words-from-tumblr)
 ![](https://cdn.hackernoon.com/images/sJwjgWMePCRCww2FEBtUo8iYsiL2-ehd2h34.jpeg)
 Writer John Koenig created a Tumblr blog called The Dictionary of Obscure Sorrows.
+
+### [102. The Internet is Broken, But The Metaverse and Web 3.0 Could be the Solution](https://hackernoon.com/the-internet-is-broken-but-the-metaverse-and-web-30-could-be-the-solution)
+![](https://cdn.hackernoon.com/images/zaVyJ3dcr6YgXE0hJ3QabUCHwFi1-ph139l2.jpeg)
+What is the major issue with the internet today, and how can Web 3.0 fix it?
 
 ### [103. An Interview with the Creator of JSON Douglas Crockford](https://hackernoon.com/an-interview-with-the-creator-of-json-douglas-crockford)
 ![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-rb93obi.jpeg)
@@ -470,13 +474,13 @@ A DDoS attack is a very common cyber-attack. In this article, you will learn abo
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-b993139.jpeg)
 
 
-### [117. Light My Web Exploration Fire ](https://hackernoon.com/light-my-web-exploration-fire)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-lo93vgk.jpeg)
-Like-minded people created their own communities, rather than joining one that already exists. 
-
-### [118. An E-commerce Platform Charged Me for an Out-of-Stock Item and How it was Resolved](https://hackernoon.com/how-an-e-commerce-platform-charged-me-for-an-out-of-stock-item-and-how-i-got-my-money-back)
+### [117. An E-commerce Platform Charged Me for an Out-of-Stock Item and How it was Resolved](https://hackernoon.com/how-an-e-commerce-platform-charged-me-for-an-out-of-stock-item-and-how-i-got-my-money-back)
 ![](https://cdn.hackernoon.com/images/sWgUkcWK6naafqrMYXQ9swM3irf2-ld93px7.jpeg)
 My crazy experience when buying products from a popular ecommerce platform.
+
+### [118. Light My Web Exploration Fire ](https://hackernoon.com/light-my-web-exploration-fire)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-lo93vgk.jpeg)
+Like-minded people created their own communities, rather than joining one that already exists. 
 
 ### [119. Keyboard Layouts and Their Place in the Web](https://hackernoon.com/keyboard-layouts-and-their-place-in-the-web)
 ![](https://cdn.hackernoon.com/images/consumers-looking-at-different-keyboards-at-an-apple-kiosk-cle5wi5vo000001s69swz9ut2.png)
@@ -486,43 +490,43 @@ How come QWERTY became the most popular keyboard, despite the fact that it might
 ![](https://cdn.hackernoon.com/drafts/4m5d3y47.png)
 As all aspects of life continue to evolve fully into the digital age, businesses have come to the realization that owning an online presence is a prerequisite for their brands to remain relevant. However, some businesspersons, while trying to adopt this online approach, they make critical mistakes that backfire on their brands, both online and offline.
 
-### [121. Tips For A Successful Concurrent Requests With Async/Await And Promise.all](https://hackernoon.com/tips-for-a-successful-concurrent-requests-with-asyncawait-and-promiseall-rk1l34f4)
-![](https://cdn.hackernoon.com/images/CfwKcq2ny4hfMjglXzZ0Z89fz1R2-u86l36f2.jpeg)
-Let's talk about concurrency, async/await, promise.all, and lightning web components
-
-### [122. SaaS Landing Page Optimization: 5 Hacks To Get More Conversions](https://hackernoon.com/saas-landing-page-optimization-5-hacks-to-get-more-conversions-n24q3506)
-![](https://cdn.hackernoon.com/images/U3HTcrgO6EMPGU7DGd8kFoRBrvZ2-ht1z34m6.jpeg)
-Here are 5 hacks to help you optimize your SaaS landing page for more conversions. A landing page is a webpage that initiates a conversation and closes a deal.
-
-### [123. JavaScript Loops: for/forEach/for.. in/for.. of Explained](https://hackernoon.com/javascript-loops-forforeachfor-infor-of-explained)
+### [121. JavaScript Loops: for/forEach/for.. in/for.. of Explained](https://hackernoon.com/javascript-loops-forforeachfor-infor-of-explained)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-8293sm4.jpeg)
 There are quite a few ways in Javascript to loop through an array of items or any other iterable item in Javascript. You may have seen them:
 
 
 
+### [122. Tips For A Successful Concurrent Requests With Async/Await And Promise.all](https://hackernoon.com/tips-for-a-successful-concurrent-requests-with-asyncawait-and-promiseall-rk1l34f4)
+![](https://cdn.hackernoon.com/images/CfwKcq2ny4hfMjglXzZ0Z89fz1R2-u86l36f2.jpeg)
+Let's talk about concurrency, async/await, promise.all, and lightning web components
+
+### [123. SaaS Landing Page Optimization: 5 Hacks To Get More Conversions](https://hackernoon.com/saas-landing-page-optimization-5-hacks-to-get-more-conversions-n24q3506)
+![](https://cdn.hackernoon.com/images/U3HTcrgO6EMPGU7DGd8kFoRBrvZ2-ht1z34m6.jpeg)
+Here are 5 hacks to help you optimize your SaaS landing page for more conversions. A landing page is a webpage that initiates a conversation and closes a deal.
+
 ### [124. Why Don't More People Use Brave?](https://hackernoon.com/why-dont-more-people-use-brave-q7993v21)
 ![](https://cdn.hackernoon.com/images/kba23y2d.jpg)
 When Brave came out, my world didn’t change. I figured there was no reason to change browsers in a post Internet Explorer world. After all, Google already controls most of my information, why on earth would I want to introduce something new into our almost exclusive relationship.
 
-### [125. The Monetization Model for A Decentralized Web/dWeb [Deep Dive]](https://hackernoon.com/the-monetization-model-for-a-decentralized-webdweb-deep-dive-ish032kz)
-![](https://cdn.hackernoon.com/drafts/ul27c18zp.png)
-This is a second article in the ‘Decentralized web / dWeb’ series. To get an idea on what the dWeb is please check — this article.
-
-### [126. HashKey Capital's Deng Chao Talks About Market Developments and the Future of Web3 in 2023](https://hackernoon.com/hashkey-groups-deng-chao-talks-about-market-developments-and-the-future-of-web3-in-2023)
+### [125. HashKey Capital's Deng Chao Talks About Market Developments and the Future of Web3 in 2023](https://hackernoon.com/hashkey-groups-deng-chao-talks-about-market-developments-and-the-future-of-web3-in-2023)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-0ka3pwy.jpeg)
 Deng Chao, a representative of HashKey Group, a blockchain-focused investment firm, discusses the market developments in the web3 space in 2022. 
+
+### [126. The Monetization Model for A Decentralized Web/dWeb [Deep Dive]](https://hackernoon.com/the-monetization-model-for-a-decentralized-webdweb-deep-dive-ish032kz)
+![](https://cdn.hackernoon.com/drafts/ul27c18zp.png)
+This is a second article in the ‘Decentralized web / dWeb’ series. To get an idea on what the dWeb is please check — this article.
 
 ### [127. Understanding Nullish Coalescing (or ??) in Javascript](https://hackernoon.com/understanding-nullish-coalescing-or-in-javascript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-psb3ojm.jpeg)
 The nullish coalescing operator is useful in situations where something can be returned as either null or undefined, and helps us tighten up our code.
 
-### [128. Adding the internationalization (i18n) component to an Angular application](https://hackernoon.com/adding-the-internationalization-i18n-component-to-an-angular-application)
-![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-60c2m3z.jpeg)
-Application example built with Angular 14 and adding the map Leaflet component using the leaflet library.
-
-### [129. How to Add the AWS WAF CAPTCHA to an Angular Application](https://hackernoon.com/how-to-add-the-aws-waf-captcha-to-an-angular-application)
+### [128. How to Add the AWS WAF CAPTCHA to an Angular Application](https://hackernoon.com/how-to-add-the-aws-waf-captcha-to-an-angular-application)
 ![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-n502brq.webp)
 In this article, we will create a WEB application using the latest version of Angular and integrate the AWS WAF CAPTCHA challenge to protect against bots.
+
+### [129. Adding the internationalization (i18n) component to an Angular application](https://hackernoon.com/adding-the-internationalization-i18n-component-to-an-angular-application)
+![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-60c2m3z.jpeg)
+Application example built with Angular 14 and adding the map Leaflet component using the leaflet library.
 
 ### [130. How You Can Combat Misinformation on the Internet](https://hackernoon.com/how-you-can-combat-misinformation-on-the-internet)
 ![](https://cdn.hackernoon.com/images/cUnYWnwoOxRA63XEvD6SXPvcFMD3-py92it3.jpeg)
@@ -540,66 +544,66 @@ The GAM3 Awards seek to become the Grammys of web3 gaming, and have been created
 ![](https://cdn.hackernoon.com/images/hfzyDMUs8NM8oj1r5fb9K6U3nBq2-7293ocr.jpeg)
 Web3 refers to the third generation of the World Wide Web. How is web3 relevant to you? Is web3 real?
 
-### [134. Distributed Data Store and Transaction Sagas](https://hackernoon.com/distributed-data-store-and-transaction-sagas)
+### [134. Come on, Don't Just Rely on Traditional SEO - Your Website Needs to Be AI-Ready](https://hackernoon.com/come-on-dont-just-rely-on-traditional-seo-your-website-needs-to-be-ai-ready)
+![](https://cdn.hackernoon.com/images/kD48RlTBDfZHZq7AXbAYSPcRGPH3-1a03inm.jpeg)
+AI searchability means structuring your site so that AI can easily understand and extract your content.
+
+### [135. Distributed Data Store and Transaction Sagas](https://hackernoon.com/distributed-data-store-and-transaction-sagas)
 ![](https://cdn.hackernoon.com/images/pOpsVzOyO7aNXcPV5o7YwaaAcN43-14e3r4z.jpeg)
 This is a tutorial on how to create a distributed data store by implementing a leader based replication.
-
-### [135. Striking the Right Balance: A Guide to Effective Unit and E2E Testing](https://hackernoon.com/striking-the-right-balance-a-guide-to-effective-unit-and-e2e-testing)
-![](https://cdn.hackernoon.com/images/balance-edasmh23ncauk27avg6aidmt.png)
-This comprehensive guideline assists in decision-making regarding testing at different levels - from Unit to End-to-end. It offers practical practices, rules of
 
 ### [136. What is the Difference Between Encryption, Hashing and Salting?](https://hackernoon.com/what-is-the-difference-between-encryption-hashing-and-salting)
 ![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-fna2jlu.jpeg)
 There are several security concepts and techniques, but each one has its purpose and I will introduce their concepts and practices in this article.
 
-### [137. Come on, Don't Just Rely on Traditional SEO - Your Website Needs to Be AI-Ready](https://hackernoon.com/come-on-dont-just-rely-on-traditional-seo-your-website-needs-to-be-ai-ready)
-![](https://cdn.hackernoon.com/images/kD48RlTBDfZHZq7AXbAYSPcRGPH3-1a03inm.jpeg)
-AI searchability means structuring your site so that AI can easily understand and extract your content.
+### [137. Striking the Right Balance: A Guide to Effective Unit and E2E Testing](https://hackernoon.com/striking-the-right-balance-a-guide-to-effective-unit-and-e2e-testing)
+![](https://cdn.hackernoon.com/images/balance-edasmh23ncauk27avg6aidmt.png)
+This comprehensive guideline assists in decision-making regarding testing at different levels - from Unit to End-to-end. It offers practical practices, rules of
 
-### [138. The Features and Benefits of AngularJS for Web Application Development ](https://hackernoon.com/the-features-and-benefits-of-angularjs-for-web-application-development-ct6832je)
+### [138. Offline-First JavaScript for Space Missions: How JS Thrives in Low-Connectivity Environments](https://hackernoon.com/offline-first-javascript-for-space-missions-how-js-thrives-in-low-connectivity-environments)
+![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-cy238ol.png)
+The use of offline-first strategies by JavaScript enables space missions to function. 
+
+### [139. Cut Load Times in Half with These Next.js Tweaks](https://hackernoon.com/cut-load-times-in-half-with-these-nextjs-tweaks)
+![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-pp036y4.png)
+To enhance your Next.js application performance you should prevent typical mistakes while applying essential optimization techniques. Discover methods to reduce
+
+### [140. Five Simple Steps to Convert Dashboard Charts Into PDFs](https://hackernoon.com/five-simple-steps-to-convert-dashboard-charts-into-pdfs)
+![](https://cdn.hackernoon.com/images/lmcwhIPXHyPIgqoOoDrA9xd8umf1-23932zb.jpeg)
+The article offers a concise guide on exporting dashboard charts to PDFs using jsPDF, demonstrating the process with clear examples and minimal code.
+
+### [141. The Features and Benefits of AngularJS for Web Application Development ](https://hackernoon.com/the-features-and-benefits-of-angularjs-for-web-application-development-ct6832je)
 ![](https://cdn.hackernoon.com/images/nWGVk8pX1kbphUeUH9soaziHVBz1-wj83355q.jpeg)
 If you are looking for a structural framework for dynamic applications, AngularJS is the ideal choice. 
 
-### [139. Trends in Web and Network Cybersecurity](https://hackernoon.com/trends-in-web-and-network-cybersecurity-gtuc3055)
+### [142. Trends in Web and Network Cybersecurity](https://hackernoon.com/trends-in-web-and-network-cybersecurity-gtuc3055)
 ![](https://cdn.hackernoon.com/drafts/bbua301e.png)
 Today, cyber-attacks are a growing concern for many businesses, organizations, institutions, and everybody who uses the internet to provide or get services. As criminals devise new ways to compromise the traditional and modern security solutions, it is becoming more challenging protecting web and network systems.  
 
 
-### [140. Cut Load Times in Half with These Next.js Tweaks](https://hackernoon.com/cut-load-times-in-half-with-these-nextjs-tweaks)
-![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-pp036y4.png)
-To enhance your Next.js application performance you should prevent typical mistakes while applying essential optimization techniques. Discover methods to reduce
-
-### [141. Understanding the Magic of 'this' in JavaScript](https://hackernoon.com/understanding-the-magic-of-this-in-javascript)
+### [143. Understanding the Magic of 'this' in JavaScript](https://hackernoon.com/understanding-the-magic-of-this-in-javascript)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-b793y6e.jpeg)
 It's something used all the time in Javascript, but often what it refers to is a mystery. Let's look at how this works in Javascript in different contexts.
 
-### [142. Five Simple Steps to Convert Dashboard Charts Into PDFs](https://hackernoon.com/five-simple-steps-to-convert-dashboard-charts-into-pdfs)
-![](https://cdn.hackernoon.com/images/lmcwhIPXHyPIgqoOoDrA9xd8umf1-23932zb.jpeg)
-The article offers a concise guide on exporting dashboard charts to PDFs using jsPDF, demonstrating the process with clear examples and minimal code.
-
-### [143. Offline-First JavaScript for Space Missions: How JS Thrives in Low-Connectivity Environments](https://hackernoon.com/offline-first-javascript-for-space-missions-how-js-thrives-in-low-connectivity-environments)
-![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-cy238ol.png)
-The use of offline-first strategies by JavaScript enables space missions to function. 
-
-### [144. How I Made a Ten Line Ruby Script to Get My 1st Jab](https://hackernoon.com/how-i-made-a-ten-line-ruby-script-to-get-my-1st-jab-0q6o31hf)
-![](https://cdn.hackernoon.com/images/urXXuvx13FewEHbKSbD0UhxWJNm2-45j3425.jpeg)
-Use a Ruby script to get the jab in India
-
-### [145. Top 5 Google Chrome Features You Probably Missed](https://hackernoon.com/top-5-google-chrome-features-you-probably-missed)
+### [144. Top 5 Google Chrome Features You Probably Missed](https://hackernoon.com/top-5-google-chrome-features-you-probably-missed)
 ![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-r28210x.jpeg)
 Explore the Top 5 hidden Google Chrome features in this comprehensive guide. From time-saving shortcuts to customizable settings
 
-### [146. How I Improved My Website Performance Score from 35 to 100](https://hackernoon.com/how-i-improved-my-website-performance-score-from-35-to-100)
+### [145. How I Made a Ten Line Ruby Script to Get My 1st Jab](https://hackernoon.com/how-i-made-a-ten-line-ruby-script-to-get-my-1st-jab-0q6o31hf)
+![](https://cdn.hackernoon.com/images/urXXuvx13FewEHbKSbD0UhxWJNm2-45j3425.jpeg)
+Use a Ruby script to get the jab in India
+
+### [146. Conditional Rendering in Vue](https://hackernoon.com/conditional-rendering-in-vue)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-d393s9g.jpeg)
+v-if and v-show are two ways to conditionally render content in Vue. 
+
+### [147. How I Improved My Website Performance Score from 35 to 100](https://hackernoon.com/how-i-improved-my-website-performance-score-from-35-to-100)
 ![](https://cdn.hackernoon.com/images/a-website-clics8ilh000301s68byfg21s.png)
 Discover the steps I took to skyrocket my website performance score from 35 to a perfect 100. Learn about leveraging Next.js, optimizing images, choosing the ri
 
-### [147. A Review of Arrays in Javascript ](https://hackernoon.com/a-review-of-arrays-in-javascript)
+### [148. A Review of Arrays in Javascript ](https://hackernoon.com/a-review-of-arrays-in-javascript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-lde3sxq.jpeg)
 Arrays in Javascript are a simple, one-dimensional way to store simple sets of data. Arrays are non-unique, which means they can store duplicates (unlike sets).
-
-### [148. Conditional Rendering in Vue](https://hackernoon.com/conditional-rendering-in-vue)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-d393s9g.jpeg)
-v-if and v-show are two ways to conditionally render content in Vue. 
 
 ### [149. There Are Web Products Everywhere You Turn ](https://hackernoon.com/there-are-web-products-everywhere-you-turn)
 ![](https://cdn.hackernoon.com/images/sJwjgWMePCRCww2FEBtUo8iYsiL2-jfg2c7f.jpeg)
@@ -613,125 +617,125 @@ In part 1, we learned how to create a simple Twitter bot with Node.js. In this a
 ![](https://cdn.hackernoon.com/images/5unChxTmteXA0Tg5iBqQvBnMK492-rx93une.jpeg)
 Make your web app accessible to everyone with Filestack's features and tools for maximizing accessibility.
 
-### [152. Adding the map TomTom component to an Angular application](https://hackernoon.com/adding-the-map-tomtom-component-to-an-angular-application)
-![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-1u92l2c.jpeg)
-Application example built with Angular 14 and adding the map component using the @tomtom-international/web-sdk-maps library.
-
-### [153. 0G Foundation and OnePiece Labs Launch Groundbreaking Web3 and AI Incubator](https://hackernoon.com/0g-foundation-and-onepiece-labs-launch-groundbreaking-web3-and-ai-incubator)
+### [152. 0G Foundation and OnePiece Labs Launch Groundbreaking Web3 and AI Incubator](https://hackernoon.com/0g-foundation-and-onepiece-labs-launch-groundbreaking-web3-and-ai-incubator)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-rg834un.jpeg)
 The 0G Foundation and OnePiece Labs have joined forces to launch a pioneering incubation program.
 
-### [154. Using Atom Text Editor As IDE](https://hackernoon.com/using-atom-text-editor-as-ide-11163tpr)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FcCikG4UTw9XE6IXz9kH8Viec8473-z63r3uqf.jpeg?alt=media&token=b7a1ec40-ba62-4402-bfd4-386bda9086da)
-Let's set up your computer so it's ready to code.
+### [153. Adding the map TomTom component to an Angular application](https://hackernoon.com/adding-the-map-tomtom-component-to-an-angular-application)
+![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-1u92l2c.jpeg)
+Application example built with Angular 14 and adding the map component using the @tomtom-international/web-sdk-maps library.
+
+### [154. A Closer Look at Immediately Invoked Function Expressions (IIFE) in JavaScript](https://hackernoon.com/a-closer-look-at-immediately-invoked-function-expressions-iife-in-javascript)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-0393spr.jpeg)
+Immediately invoked function expressions, or IIFE, are functions that are run as soon as you define the function. 
 
 ### [155. 9 Types of Essential Tools for Every Web Developer](https://hackernoon.com/9-types-of-essential-tools-for-every-web-developer)
 ![](https://cdn.hackernoon.com/images/7HBp5xP3IUTNg8YggEwNatXsfy62-4z0267x.jpeg)
 As the web gets more complex, the demands on developers grow in turn. These are 9 essential tools that every web developer should use in their processes. 
 
-### [156. A Closer Look at Immediately Invoked Function Expressions (IIFE) in JavaScript](https://hackernoon.com/a-closer-look-at-immediately-invoked-function-expressions-iife-in-javascript)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-0393spr.jpeg)
-Immediately invoked function expressions, or IIFE, are functions that are run as soon as you define the function. 
+### [156. Using Atom Text Editor As IDE](https://hackernoon.com/using-atom-text-editor-as-ide-11163tpr)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FcCikG4UTw9XE6IXz9kH8Viec8473-z63r3uqf.jpeg?alt=media&token=b7a1ec40-ba62-4402-bfd4-386bda9086da)
+Let's set up your computer so it's ready to code.
 
-### [157. The Great Comeback Of HTML Widgets](https://hackernoon.com/the-great-comeback-of-html-widgets-48p34xf)
+### [157. DeFi is Evolving Cryptocurrency into a Unity](https://hackernoon.com/defi-is-evolving-cryptocurrency-into-a-unity)
+![](https://cdn.hackernoon.com/images/sWgUkcWK6naafqrMYXQ9swM3irf2-7w92com.jpeg)
+Evolution of Cryptocurrency and DeFi to Web 3.0
+
+### [158. The Great Comeback Of HTML Widgets](https://hackernoon.com/the-great-comeback-of-html-widgets-48p34xf)
 ![](https://hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-meu29vy.jpeg)
 Do you remind those web widgets all websites have been using in the 90s? Guess what, they're coming back. 
 
-### [158. Dealing With ICANN: My Experience](https://hackernoon.com/dealing-with-icann-my-experience)
+### [159. Dealing With ICANN: My Experience](https://hackernoon.com/dealing-with-icann-my-experience)
 ![](https://cdn.hackernoon.com/images/dealing-with-icann-my-experience-cle7kidra000001s6g7tz00nl.png)
 Peter Sunde Kolmisoppi talks about his experience dealing with ICANN.
-
-### [159. DeFi is Evolving Cryptocurrency into a Unity](https://hackernoon.com/defi-is-evolving-cryptocurrency-into-a-unity)
-![](https://cdn.hackernoon.com/images/sWgUkcWK6naafqrMYXQ9swM3irf2-7w92com.jpeg)
-Evolution of Cryptocurrency and DeFi to Web 3.0
 
 ### [160. Elevate Your Code Quality with Effective Unit Testing](https://hackernoon.com/elevate-your-code-quality-with-effective-unit-testing)
 ![](https://cdn.hackernoon.com/images/anfJV6KSo1bThcpN0mDFqo1MKQp2-pg835ub.jpeg)
 Dive into a comprehensive guide on unit testing that emphasizes aligning tests with user interactions, maintaining semantic structure, and optimizing component.
 
-### [161. Web 3.0: Decentralizing the Internet](https://hackernoon.com/web-30-decentralizing-the-internet)
-![](https://cdn.hackernoon.com/images/87ppnPt0XmT0uMN1AdmyG6Ffbbv1-qqa3gkl.jpeg)
-Web 3.0 opens a new future where users and distributed machines can interact with data, value, and even other counterparties via peer-to-peer networks without the need for third parties. Therefore, Web 3.0 is considered a new generation of the world wide web to increase user utility and the number of online applications in exploiting the power of the current decentralized network.
-
-### [162. The Ultimate NestJS Dockfile for Optimized Production Image and Local Development](https://hackernoon.com/the-ultimate-nestjs-dockfile-for-optimized-production-image-and-local-development)
+### [161. The Ultimate NestJS Dockfile for Optimized Production Image and Local Development](https://hackernoon.com/the-ultimate-nestjs-dockfile-for-optimized-production-image-and-local-development)
 ![](https://cdn.hackernoon.com/images/XyqHIwK0xDMOGdIf5iTNW4CrLjb2-r1a367l.jpeg)
 The ultimate NestJS Dockfile for optimized production image and local development.
 
-### [163. Enhancing Web Performance: Strategies for Efficient Resource Fetching and Prioritization](https://hackernoon.com/enhancing-web-performance-strategies-for-efficient-resource-fetching-and-prioritization)
+### [162. Web 3.0: Decentralizing the Internet](https://hackernoon.com/web-30-decentralizing-the-internet)
+![](https://cdn.hackernoon.com/images/87ppnPt0XmT0uMN1AdmyG6Ffbbv1-qqa3gkl.jpeg)
+Web 3.0 opens a new future where users and distributed machines can interact with data, value, and even other counterparties via peer-to-peer networks without the need for third parties. Therefore, Web 3.0 is considered a new generation of the world wide web to increase user utility and the number of online applications in exploiting the power of the current decentralized network.
+
+### [163. Vue Amsterdam 2022: Part V - Reusable Widgets That Work!](https://hackernoon.com/vue-amsterdam-2022-part-v-reusable-widgets-that-work)
+![](https://cdn.hackernoon.com/images/NYsEt0jSD0Ttv4Gl8UDQGzu9Q9C3-4p93od9.jpeg)
+How to build accessible reusable widgets and reusable components with the help of ARIA (Accessible Rich Internet Application)
+
+### [164. Enhancing Web Performance: Strategies for Efficient Resource Fetching and Prioritization](https://hackernoon.com/enhancing-web-performance-strategies-for-efficient-resource-fetching-and-prioritization)
 ![](https://cdn.hackernoon.com/images/anfJV6KSo1bThcpN0mDFqo1MKQp2-kj835qm.jpeg)
 Discover powerful strategies to optimize web performance through efficient resource fetching and prioritization techniques. Learn about preconnect, DNS-prefetch
-
-### [164. CSS Grid Layout: How It Works](https://hackernoon.com/css-grid-layout-how-it-works-r0q3334)
-![](https://cdn.hackernoon.com/images/A0JT0kWjB2UTOGzv9jXoh17Xc5H2-hv7e35s2.jpeg)
-What is the "Grid" in CSS? How can I use "Grid" in CSS? Read this article by Nima Owji to learn how to use grid layout in CSS!
 
 ### [165. What Storage to Choose When Hosting a Website: HDD, SSD, NVMe?](https://hackernoon.com/what-storage-to-choose-when-hosting-a-website-hdd-ssd-nvme)
 ![](https://cdn.hackernoon.com/images/e4LQkB0qKpOHnRts3rMaOKGjzoU2-ve93pqm.jpeg)
 Today, we want to guide you through the specificity of each storage device and its implementation to help you choose the optimal solution for your web project.
 
-### [166. Vue Amsterdam 2022: Part V - Reusable Widgets That Work!](https://hackernoon.com/vue-amsterdam-2022-part-v-reusable-widgets-that-work)
-![](https://cdn.hackernoon.com/images/NYsEt0jSD0Ttv4Gl8UDQGzu9Q9C3-4p93od9.jpeg)
-How to build accessible reusable widgets and reusable components with the help of ARIA (Accessible Rich Internet Application)
+### [166. CSS Grid Layout: How It Works](https://hackernoon.com/css-grid-layout-how-it-works-r0q3334)
+![](https://cdn.hackernoon.com/images/A0JT0kWjB2UTOGzv9jXoh17Xc5H2-hv7e35s2.jpeg)
+What is the "Grid" in CSS? How can I use "Grid" in CSS? Read this article by Nima Owji to learn how to use grid layout in CSS!
 
-### [167. Building 'The Builder' - The Road from Commit to Production in 13s](https://hackernoon.com/building-the-builder-the-road-from-commit-to-production-in-13s)
-![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-s1a3pfh.jpeg)
-How we built "The Builder": the challenges we faced and how to build a modern, reliable, and quick continuous integration and deployment system.
-
-### [168. The Critical Role of Architecture in Going From Chaos to Clarity](https://hackernoon.com/the-critical-role-of-architecture-in-going-from-chaos-to-clarity)
+### [167. The Critical Role of Architecture in Going From Chaos to Clarity](https://hackernoon.com/the-critical-role-of-architecture-in-going-from-chaos-to-clarity)
 ![](https://cdn.hackernoon.com/images/9XknCnZTKoYkhLw6ANWS7J1i9RQ2-hb534fv.jpeg)
 Discover why software architecture matters, key concepts like cohesion and coupling, and how to build scalable, maintainable projects in React, Vue, Svelte.
 
-### [169. How to Get Started Using the EyeDropper API with JavaScript](https://hackernoon.com/how-to-get-started-using-the-eyedropper-api-with-javascript)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-eb13o94.jpeg)
-With the new EyeDropper API in Chromium, websites can let visitors pick colors from anywhere on their screen
+### [168. Building 'The Builder' - The Road from Commit to Production in 13s](https://hackernoon.com/building-the-builder-the-road-from-commit-to-production-in-13s)
+![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-s1a3pfh.jpeg)
+How we built "The Builder": the challenges we faced and how to build a modern, reliable, and quick continuous integration and deployment system.
 
-### [170. An Overview of Cyber Insurance for MSPs](https://hackernoon.com/an-overview-of-cyber-insurance-for-msps)
+### [169. An Overview of Cyber Insurance for MSPs](https://hackernoon.com/an-overview-of-cyber-insurance-for-msps)
 ![](https://cdn.hackernoon.com/images/YkCf930zFRTLwK7MSVzDq3HlEOj2-6zb3p3m.jpeg)
 Cyber insurance is a type of insurance policy designed to protect businesses and individuals against losses resulting from cyber attacks and data breaches. 
 
-### [171. Making User Activity on Your Website CO2 Neutral ](https://hackernoon.com/making-user-activity-on-your-website-co2-neutral)
+### [170. How to Get Started Using the EyeDropper API with JavaScript](https://hackernoon.com/how-to-get-started-using-the-eyedropper-api-with-javascript)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-eb13o94.jpeg)
+With the new EyeDropper API in Chromium, websites can let visitors pick colors from anywhere on their screen
+
+### [171. Making a Greener Web With Demand-Responsive Design](https://hackernoon.com/making-a-greener-web-with-demand-responsive-design)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bh92g2a.jpeg)
+The concept of demand-responsive design builds off of the concept of responsive design.
+
+### [172. Making User Activity on Your Website CO2 Neutral ](https://hackernoon.com/making-user-activity-on-your-website-co2-neutral)
 ![](https://cdn.hackernoon.com/images/tZ0w7tNyNdOu1l4RMLr6PGbBC0B2-oje3orj.jpeg)
 Enrex continually looks for innovative methods in applying offsetting services in digital industries. 
 
-### [172. How to Apply Web Scraping in Marketing](https://hackernoon.com/how-to-apply-web-scraping-in-marketing-4b1q370l)
+### [173. How to Apply Web Scraping in Marketing](https://hackernoon.com/how-to-apply-web-scraping-in-marketing-4b1q370l)
 ![](https://cdn.hackernoon.com/images/in3crj3SW7RfyEXvtwHYOwaslgk2-8lm35ay.jpeg)
 Both large and small businesses rely more and more on web crawling to boost their marketing efforts.
-
-### [173. Making a Greener Web With Demand-Responsive Design](https://hackernoon.com/making-a-greener-web-with-demand-responsive-design)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bh92g2a.jpeg)
-The concept of demand-responsive design builds off of the concept of responsive design.
 
 ### [174. Google Analytics vs Mikros: Exploring Key Differences](https://hackernoon.com/google-analytics-vs-mikros-exploring-key-differences)
 ![](https://cdn.hackernoon.com/images/pSzvmZKgKwPoSyAJcDt4YqVm5lf1-ov93tip.jpeg)
 All the Key differences between Google analytics and Mikros and highlighted here in this blog
 
-### [175. Why Would Google Be Against the URL??](https://hackernoon.com/why-would-google-be-against-the-url-fg1i3yo5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7WQ9b4pKMFYEtjfPjKV4fWOdxSO2-y13u3ub2.webp?alt=media&token=538a812d-dcf7-4a76-9942-e3f471ab9a96)
-Google wants to change a major part of web browsing by killing the URL, in parts though. After their first step was successful, here’s what they plan for the second step.
-
-### [176. Learn to Detect & Prevent JSD Attacks With This Guide](https://hackernoon.com/learn-to-detect-and-prevent-jsd-attacks-with-this-guide)
+### [175. Learn to Detect & Prevent JSD Attacks With This Guide](https://hackernoon.com/learn-to-detect-and-prevent-jsd-attacks-with-this-guide)
 ![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-v2036i4.png)
 Whatever weakness is there in JS, attackers will use it to disturb the flow of the beautiful empire of JS.
+
+### [176. What APIs Have Meant for Enterprise Security – And Why We Can Never Go Back](https://hackernoon.com/what-apis-have-meant-for-enterprise-security---and-why-we-can-never-go-back)
+![](https://cdn.hackernoon.com/images/WaM9YikXl6X1gmSgV2m0gBfcCNU2-tn93p4w.jpeg)
+While APIs are often the unsung heroes that keep workflows running smoothly, their rise in popularity has forever changed enterprise security.
 
 ### [177. The Internet I Know Has Changed: Autoplay Video Ads Have Hurt The User Experience](https://hackernoon.com/the-internet-i-know-has-changed-autoplay-video-ads-have-hurt-the-user-experience)
 ![](https://cdn.hackernoon.com/images/video-ads-dvepwdx6civla1wm9ieasrde.png)
 Nowadays, all major websites use video ads so people have no choice but to open these sites. The website creators know about this.
 
-### [178. What APIs Have Meant for Enterprise Security – And Why We Can Never Go Back](https://hackernoon.com/what-apis-have-meant-for-enterprise-security---and-why-we-can-never-go-back)
-![](https://cdn.hackernoon.com/images/WaM9YikXl6X1gmSgV2m0gBfcCNU2-tn93p4w.jpeg)
-While APIs are often the unsung heroes that keep workflows running smoothly, their rise in popularity has forever changed enterprise security.
+### [178. Why Would Google Be Against the URL??](https://hackernoon.com/why-would-google-be-against-the-url-fg1i3yo5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7WQ9b4pKMFYEtjfPjKV4fWOdxSO2-y13u3ub2.webp?alt=media&token=538a812d-dcf7-4a76-9942-e3f471ab9a96)
+Google wants to change a major part of web browsing by killing the URL, in parts though. After their first step was successful, here’s what they plan for the second step.
 
 ### [179. Hosting an Angular application on GitHub Pages using Travis CI](https://hackernoon.com/using-travis-ci-to-host-an-angular-app-on-github-pages-f8x35pj)
 ![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-2kf2mv2.jpeg)
 Application example built with Angular 15 and hosted on GitHub Pages using Travis CI.
 
-### [180. 12-Step Checklist for Releasing a Website](https://hackernoon.com/12-step-checklist-for-releasing-a-website-ei5034lz)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-8v4y34i5.jpeg)
-Releasing a website is a stressful and important moment. And you want to make sure everything is ready.
-
-### [181. How to put a div in the center using Flexbox](https://hackernoon.com/how-to-put-a-div-in-the-center-using-flexbox-ua1h31ng)
+### [180. How to put a div in the center using Flexbox](https://hackernoon.com/how-to-put-a-div-in-the-center-using-flexbox-ua1h31ng)
 ![](https://cdn.hackernoon.com/images/A0JT0kWjB2UTOGzv9jXoh17Xc5H2-qf12315g.jpeg)
 How to put a div in the center using Flexbox? My name is Nima Owji and I want to show you how to put a div in the center using Flexbox.
+
+### [181. 12-Step Checklist for Releasing a Website](https://hackernoon.com/12-step-checklist-for-releasing-a-website-ei5034lz)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-8v4y34i5.jpeg)
+Releasing a website is a stressful and important moment. And you want to make sure everything is ready.
 
 ### [182. The Story of How I Got My First Job in IT with Perseverance and a Plan](https://hackernoon.com/the-story-of-how-i-got-my-first-job-in-it-with-perseverance-and-a-plan)
 ![](https://cdn.hackernoon.com/images/SX77kQ7AuphQDZQhV7OSkx49OZc2-rj93ke4.jpeg)
@@ -745,25 +749,25 @@ A tale of how yass static site generator was born, after so many yak shavings an
 ![](https://cdn.hackernoon.com/images/h9b7qT3N3yZgJ52xNXAawcWd9cY2-u41s32mq.jpeg)
 A bad front-end development will affect your business, as well as your customer base. The first impression of a website is key.
 
-### [185. How I Became a CTO with Noonies Nominee Sonny Alves Dias](https://hackernoon.com/how-i-became-a-cto-with-noonies-nominee-sonny-alves-dias)
-![](https://cdn.hackernoon.com/images/5ZmiyWebQcgzkkVANit1176aFLP2-eh237sy.jpeg)
-As someone both in the crypto and the gaming industry, I believe that the most exciting technology of the present is Bitcoin because it has the power to change 
-
-### [186. Developing Web Apps on Product Hunt with Nima Owji, 2021 Noonies Nominee](https://hackernoon.com/developing-web-apps-on-product-hunt-with-nima-owji-2021-noonies-nominee)
+### [185. Developing Web Apps on Product Hunt with Nima Owji, 2021 Noonies Nominee](https://hackernoon.com/developing-web-apps-on-product-hunt-with-nima-owji-2021-noonies-nominee)
 ![](https://cdn.hackernoon.com/images/A0JT0kWjB2UTOGzv9jXoh17Xc5H2-860396o.jpeg)
 Hey Everybody! I’m Nima Owji. I’m a web developer and app researcher.
 
-### [187. What's the Link Between Web Automation and Web Proxies?](https://hackernoon.com/whats-the-link-between-web-automation-and-web-proxies-ip3h3ws3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FbL5w3nZcVgV4jXbNfplR6fAoUCB2-tn1j3uvc.jpeg?alt=media&token=e9902a30-1134-4d9f-a5d0-b751131f6d67)
-Web automation and web scraping are quite popular among people out there. That’s mainly because people tend to use web scraping and other similar automation technologies to grab information they want from the internet. The internet can be considered as one of the biggest sources of information. If we can use that wisely, we will be able to scrape lots of important facts. However, it is important for us to use appropriate methodologies to get the most out of web scraping. That’s where proxies come into play. 
+### [186. How I Became a CTO with Noonies Nominee Sonny Alves Dias](https://hackernoon.com/how-i-became-a-cto-with-noonies-nominee-sonny-alves-dias)
+![](https://cdn.hackernoon.com/images/5ZmiyWebQcgzkkVANit1176aFLP2-eh237sy.jpeg)
+As someone both in the crypto and the gaming industry, I believe that the most exciting technology of the present is Bitcoin because it has the power to change 
 
-### [188. Five Web 2.0 Marketing Approaches Revolutionizing Web 3.0: A Comprehensive Guide](https://hackernoon.com/five-web-20-marketing-approaches-revolutionizing-web-30-a-comprehensive-guide)
+### [187. Five Web 2.0 Marketing Approaches Revolutionizing Web 3.0: A Comprehensive Guide](https://hackernoon.com/five-web-20-marketing-approaches-revolutionizing-web-30-a-comprehensive-guide)
 ![](https://cdn.hackernoon.com/images/fFVIyW7nrbMfa9b43zV1FCiLrDo2-cug3upd.jpeg)
 The world of blockchain moves like crazy. Really. 
 
-### [189. Is Web 3 Really the Future of the Web or Just Another Buzzword?](https://hackernoon.com/is-web-3-really-the-future-of-the-web-or-just-another-buzzword)
+### [188. Is Web 3 Really the Future of the Web or Just Another Buzzword?](https://hackernoon.com/is-web-3-really-the-future-of-the-web-or-just-another-buzzword)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-fh93j6f.png)
 Is Web 3.0 really the future of the the internet and how is it different from the two previous generations of the internet?  How did it change since the past?
+
+### [189. What's the Link Between Web Automation and Web Proxies?](https://hackernoon.com/whats-the-link-between-web-automation-and-web-proxies-ip3h3ws3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FbL5w3nZcVgV4jXbNfplR6fAoUCB2-tn1j3uvc.jpeg?alt=media&token=e9902a30-1134-4d9f-a5d0-b751131f6d67)
+Web automation and web scraping are quite popular among people out there. That’s mainly because people tend to use web scraping and other similar automation technologies to grab information they want from the internet. The internet can be considered as one of the biggest sources of information. If we can use that wisely, we will be able to scrape lots of important facts. However, it is important for us to use appropriate methodologies to get the most out of web scraping. That’s where proxies come into play. 
 
 ### [190. Benefits of Magento Ecommerce in the Times of Coronavirus](https://hackernoon.com/benefits-of-magento-ecommerce-in-the-times-of-coronavirus-k91b3tn0)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FL4BDFhQg5sTGSzTC1BiB4g4XgbE2-hd113uxz.jpeg?alt=media&token=59326145-de50-40ca-9d59-8a5a22dc0c0a)
@@ -773,11 +777,11 @@ The entire globe has been engulfed by the pandemic of Covid-19 and the worldwide
 ![](https://cdn.hackernoon.com/images/m1JWnUaHzSX3LPHoHfOainoiYvq2-nu2s3f08.jpeg)
 How to make handling the viewport on mobile less awful, correctly fill the viewport, and get correct specific viewport sizes.
 
-### [192. Wicked Cool Experience: Nostalgic and Fun Wicked Coolkit](https://hackernoon.com/wicked-cool-experience-nostalgic-and-fun-wicked-coolkit-lp7x359w)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-66n356d.jpeg)
-Feel like learning something new? Want to experience Web 1.0 again? You definitely want to test-drive the Wicked Coolkit.
-
-### [193. Explaining The Role of Cryptography During COVID-19 [A DIY Guide]](https://hackernoon.com/explaining-the-role-of-cryptography-during-covid-19-a-diy-guide-pr5n30t9)
+### [192. Explaining The Role of Cryptography During COVID-19 [A DIY Guide]](https://hackernoon.com/explaining-the-role-of-cryptography-during-covid-19-a-diy-guide-pr5n30t9)
 ![](https://cdn.hackernoon.com/images/m1r3kdu.jpg)
 Don’t get me wrong, it’s a funny title. It starts with how, whereas when you read it you probably wondered why.
+
+### [193. Wicked Cool Experience: Nostalgic and Fun Wicked Coolkit](https://hackernoon.com/wicked-cool-experience-nostalgic-and-fun-wicked-coolkit-lp7x359w)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-66n356d.jpeg)
+Feel like learning something new? Want to experience Web 1.0 again? You definitely want to test-drive the Wicked Coolkit.
 

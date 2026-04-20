@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [continuous-integration](https://hackernoon.com/tagged/continuous-integration)
+### Let's learn about [Continuous Integration](https://hackernoon.com/tagged/continuous-integration) via these 156 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 A vital process in software development and delivery, where code changes from multiple contributors on a single software project are continuously integrated
 
 ### [1. Continuous Integration. CircleCI vs Travis CI vs Jenkins](https://hackernoon.com/continuous-integration-circleci-vs-travis-ci-vs-jenkins-41a1c2bd95f5)
@@ -239,13 +241,13 @@ There is plenty of content out there describing what Continuous Integration, Con
 ![](https://cdn.hackernoon.com/images/fsi3yg3.jpg)
 We think of bugs as being in code but that’s just the end of the story. Bugs are a human problem. You fix one bug in code but you prevent future bugs by helping humans to work better.
 
-### [59. 5 Tools That Will Help You Improve Code Reviews on GitHub](https://hackernoon.com/5-tools-that-will-help-you-improve-code-reviews-on-github)
-![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-5a93uam.jpeg)
-In this article, we’ll consider five tools and integrations that can significantly improve your code review experience on GitHub.
-
-### [60. DevOps in a Nutshell](https://hackernoon.com/devops-in-a-nutshell)
+### [59. DevOps in a Nutshell](https://hackernoon.com/devops-in-a-nutshell)
 ![](https://cdn.hackernoon.com/images/8TYrRgo0HFPExnKBzEy9yKwK4W12-owc3r0h.jpeg)
 A snapshot of DevOps is a look at some of the process, best practices and mindset required to apply DevOps effectively.
+
+### [60. 5 Tools That Will Help You Improve Code Reviews on GitHub](https://hackernoon.com/5-tools-that-will-help-you-improve-code-reviews-on-github)
+![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-5a93uam.jpeg)
+In this article, we’ll consider five tools and integrations that can significantly improve your code review experience on GitHub.
 
 ### [61. Configuring Parallel Tests with Semaphore CI 2.0, RSpec, Cypress and Jest](https://hackernoon.com/configuring-parallel-tests-with-semaphore-ci-20-rspec-cypress-and-jest-3pp310s)
 ![](https://cdn.hackernoon.com/images/E24EbX15XQZvYPaITR5WEGVmupv2-lsf31av.jpeg)
@@ -299,13 +301,13 @@ We'll run through how to build and configure a CI/CD pipeline to deploy your bus
 ![](https://cdn.hackernoon.com/images/9S1vwdm8BSSIM68NViog8lnaQPi2-ap92l8o.jpeg)
 Learn how to automate your python backend application deployment continuously with Github actions.
 
-### [74. Improving the Working Environment for Developers - In 3 Stages Only](https://hackernoon.com/3-stages-of-improving-the-working-environment-for-developers-bm2tj3bpv)
-![](https://cdn.hackernoon.com/images/zar38iv.jpg)
-… and incidentally establishing DevOps.
-
-### [75. What Is the Difference Between Continuous Delivery and Continuous Deployment?](https://hackernoon.com/what-is-the-difference-between-continuous-delivery-and-continuous-deployment)
+### [74. What Is the Difference Between Continuous Delivery and Continuous Deployment?](https://hackernoon.com/what-is-the-difference-between-continuous-delivery-and-continuous-deployment)
 ![](https://cdn.hackernoon.com/images/Ue2WsVZ3b5N6Mq5kzuAJ85bVGYD2-wl93o1q.jpeg)
 Continuous Delivery and Continuous Deployment are two complementary practices that help teams get their software into the hands of users faster.
+
+### [75. Improving the Working Environment for Developers - In 3 Stages Only](https://hackernoon.com/3-stages-of-improving-the-working-environment-for-developers-bm2tj3bpv)
+![](https://cdn.hackernoon.com/images/zar38iv.jpg)
+… and incidentally establishing DevOps.
 
 ### [76. With GitHub Actions, you don’t have to do boring tasks manually ever again](https://hackernoon.com/with-github-actions-you-dont-have-to-do-boring-tasks-manually-ever-again-301p356e)
 ![](https://cdn.hackernoon.com/images/nK3UZs3tWBP6DTC1gpQ5Lz7Kiye2-9ij3831.jpeg)
@@ -319,29 +321,29 @@ A quintessential piece for anyone working with distributed systems is the Fallac
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fec8Z6KvJRRX64jAZmXiQ3hcoS282-zue2t7i.jpeg?alt=media&token=6bfa2ae8-ae0e-4177-91cb-e052859ce682)
 Developers tend to go for getting things working, ending up with a working program, lacking the quality you would like to see. In this article I will explain how to get quality code as well.
 
-### [79. Why Continuous Integration Is Essential in Agile Development](https://hackernoon.com/why-continuous-integration-is-essential-in-agile-development)
-![](https://cdn.hackernoon.com/images/PkV2XzJhL4eISFLTiFkKC9zikEG2-wz93phy.jpeg)
-The agile software development model means releasing software faster, but that doesn't mean you can skip out on quality.
-
-### [80. RBAC: The Bouncer With a Code of Conduct in the DevOps Dance Hall](https://hackernoon.com/rbac-the-bouncer-with-a-code-of-conduct-in-the-devops-dance-hall)
+### [79. RBAC: The Bouncer With a Code of Conduct in the DevOps Dance Hall](https://hackernoon.com/rbac-the-bouncer-with-a-code-of-conduct-in-the-devops-dance-hall)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-mj82nwr.jpeg)
 RBAC (Role-Based Access Control) ensures secure and efficient CI/CD pipelines, granting authorized access to orchestrate development processes.
+
+### [80. Why Continuous Integration Is Essential in Agile Development](https://hackernoon.com/why-continuous-integration-is-essential-in-agile-development)
+![](https://cdn.hackernoon.com/images/PkV2XzJhL4eISFLTiFkKC9zikEG2-wz93phy.jpeg)
+The agile software development model means releasing software faster, but that doesn't mean you can skip out on quality.
 
 ### [81. Project-as-Code: The Catalyst DevOps Needs](https://hackernoon.com/project-as-code-the-catalyst-devops-needs-atu732wt)
 ![](https://cdn.hackernoon.com/images/bbtv32c9.jpg)
 If you are familiar with Docker, Terraform, and the CI platforms (eg: Jenkins, CircleCI, Codeship), you already know the power of Declarative DevOps. It can make development easier by being repeatable, predictable, and fast. Supporting technologies both hide complexities and offer important reuse by supporting simple structured syntax in an easy to create and read file. Each technology has codified much of its domain allowing developers to author and instrument with nothing more than a text editor. 
 
-### [82. How to Use Platypush to Set Up Self-Hosted CI/CD Git Pipelines ](https://hackernoon.com/how-to-use-platypush-to-set-up-self-hosted-cicd-git-pipelines-6r2q33ln)
+### [82. Troubleshooting CI Test Failures in Ember JS with Jenkins: A Journey of Discoveries](https://hackernoon.com/troubleshooting-ci-test-failures-in-ember-js-with-jenkins-a-journey-of-discoveries)
+![](https://cdn.hackernoon.com/images/d6QiRgU7NsNsPX7dEKR8N1fwcu43-6qa2o62.jpeg)
+The story unfolds with a common challenge: encountering errors exclusively in the continuous integration environment, distinct from the local development setup
+
+### [83. How to Use Platypush to Set Up Self-Hosted CI/CD Git Pipelines ](https://hackernoon.com/how-to-use-platypush-to-set-up-self-hosted-cicd-git-pipelines-6r2q33ln)
 ![](https://cdn.hackernoon.com/images/QTdu6Xy6ybX5moDaFNuGeYEDmX83-y42z13ue.jpeg)
 How to use Platypush to set up self-hosted build and test pipelines for your Gitlab and Github projects.
 
-### [83. How to Improve Your CI/CD Workflow Using GitHub Actions](https://hackernoon.com/how-to-improve-your-cicd-workflow-using-github-actions-oj4b3v3j)
+### [84. How to Improve Your CI/CD Workflow Using GitHub Actions](https://hackernoon.com/how-to-improve-your-cicd-workflow-using-github-actions-oj4b3v3j)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-xy82rsj.jpeg)
 GitHub Actions is one of the most powerful tools that you can use if you are storing our code on this service repository. The idea is simple, you can design a complex workflow using automated tasks (called actions) in order to be activated and run when a commit is done in your repository.
-
-### [84. Troubleshooting CI Test Failures in Ember JS with Jenkins: A Journey of Discoveries](https://hackernoon.com/troubleshooting-ci-test-failures-in-ember-js-with-jenkins-a-journey-of-discoveries)
-![](https://cdn.hackernoon.com/images/d6QiRgU7NsNsPX7dEKR8N1fwcu43-6qa2o62.jpeg)
-The story unfolds with a common challenge: encountering errors exclusively in the continuous integration environment, distinct from the local development setup
 
 ### [85. Winning At Web Accessibility in 2021 With These Tools for Developers](https://hackernoon.com/winning-at-web-accessibility-in-2021-with-these-tools-for-developers-el2h31nt)
 ![](https://cdn.hackernoon.com/images/vs58yHu80FMCBlLC590ASRmc8Hl1-3d1t31lj.jpeg)
@@ -372,13 +374,13 @@ By investing in IoT, you will have access to valuable information about end-user
 ![](https://cdn.hackernoon.com/images/799o32mf.jpg)
 Automating The Automation Behind DevOps
 
-### [92. A-Z Of DevOps: Managing Multiple Environments With The Help Of These Tools](https://hackernoon.com/a-z-of-devops-managing-multiple-environments-with-the-help-of-these-tools-n6x3thm)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-jri3wkl.jpeg?alt=media&token=f426108c-935c-479a-8074-3cf6c984b9e1)
-In most DevOps settings you’ll find that there are multiple environments in the pipeline. You might have conditions that change the environment based on which branch was merged or when a branch is tagged for release. There are a number of reasons you want to have more than just a production environment, the biggest reason being testing.
-
-### [93. How I Got My CI/CD Act together With Heroku Flow](https://hackernoon.com/how-i-got-my-cicd-act-together-with-heroku-flow)
+### [92. How I Got My CI/CD Act together With Heroku Flow](https://hackernoon.com/how-i-got-my-cicd-act-together-with-heroku-flow)
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-rgt32nw.jpeg)
 If you want to go all in on Heroku, you can use a series of solutions called Heroku Flow to configure all your CI/CD without any third parties.
+
+### [93. A-Z Of DevOps: Managing Multiple Environments With The Help Of These Tools](https://hackernoon.com/a-z-of-devops-managing-multiple-environments-with-the-help-of-these-tools-n6x3thm)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-jri3wkl.jpeg?alt=media&token=f426108c-935c-479a-8074-3cf6c984b9e1)
+In most DevOps settings you’ll find that there are multiple environments in the pipeline. You might have conditions that change the environment based on which branch was merged or when a branch is tagged for release. There are a number of reasons you want to have more than just a production environment, the biggest reason being testing.
 
 ### [94. API Integration in 2021 and a Look at Insights from 2020](https://hackernoon.com/api-integration-in-2021-and-a-look-at-insights-from-2020-hq4a31ce)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-htp3123.jpeg)
@@ -388,13 +390,13 @@ What's next for API integration? Share your thoughts in Cloud Elements' industry
 ![](https://cdn.hackernoon.com/images/FtAKnbEBeGRzh957W48fET1OZHC2-ila3kz7.jpeg)
 In the common paradigm, dedicated QA teams solely focus on product quality. QAOps enables an efficient quality assurance process.
 
-### [96. An IDE Plugin for Gamified Continuous Integration: Acknowledgement and References](https://hackernoon.com/an-ide-plugin-for-gamified-continuous-integration-acknowledgement-and-references)
-![](https://cdn.hackernoon.com/images/4HK5qyMbWfetPhAavzyTZrEb90N2-2c8310p.jpeg)
-In this paper, researchers present an IntelliJ plugin designed to seamlessly integrate Gamekins’ gamification elements into the IDE.
-
-### [97. 5 Ways to Overcome CI/CD Challenges](https://hackernoon.com/5-ways-to-overcome-cicd-challenges)
+### [96. 5 Ways to Overcome CI/CD Challenges](https://hackernoon.com/5-ways-to-overcome-cicd-challenges)
 ![](https://cdn.hackernoon.com/images/QcUecoGJmUaHFSMQOD8G5r7ZSjz2-oy93oqg.jpeg)
 5 Challenges of CI/CD - how you can solve them!
+
+### [97. An IDE Plugin for Gamified Continuous Integration: Acknowledgement and References](https://hackernoon.com/an-ide-plugin-for-gamified-continuous-integration-acknowledgement-and-references)
+![](https://cdn.hackernoon.com/images/4HK5qyMbWfetPhAavzyTZrEb90N2-2c8310p.jpeg)
+In this paper, researchers present an IntelliJ plugin designed to seamlessly integrate Gamekins’ gamification elements into the IDE.
 
 ### [98. 5 Best Microservices CI/CD Tools You Need to Check Out](https://hackernoon.com/5-best-microservices-cicd-tools-you-need-to-check-out-dj1637s4)
 ![](https://cdn.hackernoon.com/images/0DxhR2wKkBWFVTrMKykkOMUzoev2-8d1jx350a.jpeg)
@@ -408,13 +410,13 @@ The interaction among many tools in the design & development space all point to 
 ![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-zsa3pek.jpeg)
 Last week, the 2023 State of CD report was released. One of the many interesting sections in this year's report looked at DevOps-related technologies. 
 
-### [101. Automatic Cross-Platform Deployments with Electron on a Travis CI Server](https://hackernoon.com/automatic-cross-platform-deployments-with-electron-on-a-travis-ci-server-vf8q3yyq)
-![](https://cdn.hackernoon.com/images/8d4z73ye0.jpg)
-This is a tutorial on how to setup an Electron app on Travis CI, so that new versions are deployed to Github Releases with a simple pull request.
-
-### [102. Go With the CI/CD Flow: Using Heroku Flow With Gitflow Branching](https://hackernoon.com/go-with-the-cicd-flow-using-heroku-flow-with-gitflow-branching)
+### [101. Go With the CI/CD Flow: Using Heroku Flow With Gitflow Branching](https://hackernoon.com/go-with-the-cicd-flow-using-heroku-flow-with-gitflow-branching)
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-8fu32wx.jpeg)
 In this article, we walk you through how to set up Heroku Flow for CI/CD using a dev and main branch and a staging and production app.
+
+### [102. Automatic Cross-Platform Deployments with Electron on a Travis CI Server](https://hackernoon.com/automatic-cross-platform-deployments-with-electron-on-a-travis-ci-server-vf8q3yyq)
+![](https://cdn.hackernoon.com/images/8d4z73ye0.jpg)
+This is a tutorial on how to setup an Electron app on Travis CI, so that new versions are deployed to Github Releases with a simple pull request.
 
 ### [103. DevOps vs DevSecOps: Comparing the Two Battle cards](https://hackernoon.com/devops-vs-devsecops-comparing-the-two-battle-cards)
 ![](https://cdn.hackernoon.com/images/9BAvTQAqgIa0lwOFxgtOYA7uw0M2-9s83xs8.jpeg)
@@ -432,25 +434,25 @@ An Overview of DevSecOps and How to Automate It
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-qb1s39s5.jpeg)
 In this world of cross-functional teams and microservice architecture, DevOps skills become increasingly important, and that starts with understanding CI/CD
 
-### [107. Effective Strategies for Continuous Integration Testing With Software Testing Services](https://hackernoon.com/effective-strategies-for-continuous-integration-testing-with-software-testing-services)
-![](https://cdn.hackernoon.com/images/wU02k1ia4mUhfr8UpI2DDYtkSGk2-3s93yhz.jpeg)
-To make CI work seamlessly, it's crucial to employ effective strategies, and often, software testing services play a critical role in achieving this.
-
-### [108. 6 Virtual DevOps Conferences to Attend in 2021](https://hackernoon.com/6-virtual-devops-conferences-to-attend-in-2021-qb133357)
-![](https://cdn.hackernoon.com/images/vI89MS8Ou8OYOnT4ESBSH9HkCrz2-qi2b32s3.jpeg)
-Free to distribute and use in any form
-
-### [109. Your Definitive GitOps Guide For DevOps Experts And Newbies](https://hackernoon.com/your-definitive-gitops-guide-for-devops-experts-and-newbies)
+### [107. Your Definitive GitOps Guide For DevOps Experts And Newbies](https://hackernoon.com/your-definitive-gitops-guide-for-devops-experts-and-newbies)
 ![](https://cdn.hackernoon.com/images/eZLaaX4pv3hXfgmMhUJ311PQUNJ2-ya93u2i.jpeg)
 This GitOps guide discusses continuous integration vs continuous delivery, what is GitOps, 5 best GitOps practices, ArgoCD vs Flux2, continuous integration, etc
 
-### [110. Testops and the emergence of Quality Intelligence](https://hackernoon.com/testops-and-the-emergence-of-quality-intelligence)
-![](https://cdn.hackernoon.com/images/raGhmDwWexNlQS43IROoXEGPbFk1-qub34h8.jpeg)
-Learn how TestOps emerges as a fresh mindset and set of approaches aimed at optimizing testing practices to seamlessly integrate with the CI/CD pipeline
+### [108. Effective Strategies for Continuous Integration Testing With Software Testing Services](https://hackernoon.com/effective-strategies-for-continuous-integration-testing-with-software-testing-services)
+![](https://cdn.hackernoon.com/images/wU02k1ia4mUhfr8UpI2DDYtkSGk2-3s93yhz.jpeg)
+To make CI work seamlessly, it's crucial to employ effective strategies, and often, software testing services play a critical role in achieving this.
 
-### [111. An IDE Plugin for Gamified Continuous Integration: Conclusions](https://hackernoon.com/an-ide-plugin-for-gamified-continuous-integration-conclusions)
+### [109. An IDE Plugin for Gamified Continuous Integration: Conclusions](https://hackernoon.com/an-ide-plugin-for-gamified-continuous-integration-conclusions)
 ![](https://cdn.hackernoon.com/images/4HK5qyMbWfetPhAavzyTZrEb90N2-ny83168.jpeg)
 In this paper, researchers present an IntelliJ plugin designed to seamlessly integrate Gamekins’ gamification elements into the IDE.
+
+### [110. 6 Virtual DevOps Conferences to Attend in 2021](https://hackernoon.com/6-virtual-devops-conferences-to-attend-in-2021-qb133357)
+![](https://cdn.hackernoon.com/images/vI89MS8Ou8OYOnT4ESBSH9HkCrz2-qi2b32s3.jpeg)
+Free to distribute and use in any form
+
+### [111. Testops and the emergence of Quality Intelligence](https://hackernoon.com/testops-and-the-emergence-of-quality-intelligence)
+![](https://cdn.hackernoon.com/images/raGhmDwWexNlQS43IROoXEGPbFk1-qub34h8.jpeg)
+Learn how TestOps emerges as a fresh mindset and set of approaches aimed at optimizing testing practices to seamlessly integrate with the CI/CD pipeline
 
 ### [112. Measuring DevOps Metrics: A How-To Guide](https://hackernoon.com/measuring-devops-metrics-a-how-to-guide-ot113ztl)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-ur73wkv.jpeg?alt=media&token=e8ffb359-4160-42f2-aac8-802dc2a6c501)
@@ -464,29 +466,29 @@ In this paper, researchers present an IntelliJ plugin designed to seamlessly int
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-6h039gy.jpeg)
 If you're playing a loser's game, a winning strategy is to simply try to avoid making mistakes and let your opponent beat himself.
 
-### [115. Software Version Control for N00BS](https://hackernoon.com/software-version-control-for-n00bs-ws3433jj)
+### [115. Your CI System is a Terrible Compliance System of Record - Here are 5 Reasons Why](https://hackernoon.com/your-ci-system-is-a-terrible-compliance-system-of-record-here-are-5-reasons-why)
+![](https://cdn.hackernoon.com/images/zXpyvtRlXIRFAE1zNnfUvrVZ0292-8y93ody.jpeg)
+Jenkins, GitLab, Travis, Circle CI are great for DevOps but not so great for your compliance records - here's why. 
+
+### [116. Software Version Control for N00BS](https://hackernoon.com/software-version-control-for-n00bs-ws3433jj)
 ![](https://cdn.hackernoon.com/images/BhJEeRh64dRZDVWSwvuqi0gN6xP2-yx21339v.png)
 Software configuration management is a complex issue to implement, where programmers do not document anything and the entire process is done "ad hoc".
 
-### [116. Understanding CI/CD in Software Development](https://hackernoon.com/understanding-cicd-in-software-development)
+### [117. Understanding CI/CD in Software Development](https://hackernoon.com/understanding-cicd-in-software-development)
 ![](https://cdn.hackernoon.com/images/a-laptop-displaying-code-cs6n9ol0s2kab12scf43cidf.png)
 Explore the dynamic world of Continuous Integration and Continuous Deployment (CI/CD) in software development.
-
-### [117. Your CI System is a Terrible Compliance System of Record - Here are 5 Reasons Why](https://hackernoon.com/your-ci-system-is-a-terrible-compliance-system-of-record-here-are-5-reasons-why)
-![](https://cdn.hackernoon.com/images/zXpyvtRlXIRFAE1zNnfUvrVZ0292-8y93ody.jpeg)
-Jenkins, GitLab, Travis, Circle CI are great for DevOps but not so great for your compliance records - here's why. 
 
 ### [118. Continuous Integration: An Essential Guide](https://hackernoon.com/continuous-integration-an-essential-guide)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-d692ndv.jpeg)
 Continuous integration (CI) is a process by which we verify our project upon every change that occurs in the codebase.
 
-### [119. DevOps and Telco Sofwarisation - Part 1](https://hackernoon.com/devops-and-telco-sofwarisation-part-1-ng2j31f0)
-![](https://cdn.hackernoon.com/images/jwCKHXEmb3h3GdWaPUs7OgSEMoC3-uwr2835.png)
-In this series of articles, we will explore the convergence happening between the IT and Telecom industries, which is referred to as “Telco Softwarisation”. 
-
-### [120. Boosting Developer Engagement in Software Testing with Gamification](https://hackernoon.com/boosting-developer-engagement-in-software-testing-with-gamification)
+### [119. Boosting Developer Engagement in Software Testing with Gamification](https://hackernoon.com/boosting-developer-engagement-in-software-testing-with-gamification)
 ![](https://cdn.hackernoon.com/images/block-of-code-on-a-laptop-screen-vm99m2ytow4epi4mx14oc6ur.png)
 Learn how gamification and CI can overcome the challenges of motivation in software testing, driving developers to integrate testing regularly. 
+
+### [120. DevOps and Telco Sofwarisation - Part 1](https://hackernoon.com/devops-and-telco-sofwarisation-part-1-ng2j31f0)
+![](https://cdn.hackernoon.com/images/jwCKHXEmb3h3GdWaPUs7OgSEMoC3-uwr2835.png)
+In this series of articles, we will explore the convergence happening between the IT and Telecom industries, which is referred to as “Telco Softwarisation”. 
 
 ### [121. Effortlessly Deploy a Docker Image to ECR with GitHub Actions](https://hackernoon.com/effortlessly-deploy-a-docker-image-to-ecr-with-github-actions)
 ![](https://cdn.hackernoon.com/images/9gE8Tr4eNOQs1QRV8GGfM1N6No73-4w93ppx.jpeg)
@@ -500,13 +502,13 @@ In this post, I show you how to build and push the Octopus Deploy underwater app
 ![](https://cdn.hackernoon.com/images/ZSnNpZ3GejgVSxqs3EyP38vlsLL2-op13a3w.jpeg)
 AI is speeding up code generation—but delivery is slowing down. Learn why testing, not coding, is the bottleneck in modern software development.
 
-### [124. An IDE Plugin for Gamified Continuous Integration: Abstract and Introduction](https://hackernoon.com/an-ide-plugin-for-gamified-continuous-integration-abstract-and-introduction)
-![](https://cdn.hackernoon.com/images/4HK5qyMbWfetPhAavzyTZrEb90N2-0o831my.jpeg)
-In this paper, researchers present an IntelliJ plugin designed to seamlessly integrate Gamekins’ gamification elements into the IDE.
-
-### [125. Code Quality Guardians: The Power of Continuous Integration in Software Development](https://hackernoon.com/code-quality-guardians-the-power-of-continuous-integration-in-software-development)
+### [124. Code Quality Guardians: The Power of Continuous Integration in Software Development](https://hackernoon.com/code-quality-guardians-the-power-of-continuous-integration-in-software-development)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-qk93rpt.jpeg)
 Why continuous integration? Because it defends your code base.
+
+### [125. An IDE Plugin for Gamified Continuous Integration: Abstract and Introduction](https://hackernoon.com/an-ide-plugin-for-gamified-continuous-integration-abstract-and-introduction)
+![](https://cdn.hackernoon.com/images/4HK5qyMbWfetPhAavzyTZrEb90N2-0o831my.jpeg)
+In this paper, researchers present an IntelliJ plugin designed to seamlessly integrate Gamekins’ gamification elements into the IDE.
 
 ### [126. Building the Foundation: The Benefits of Early Software Engineering Education](https://hackernoon.com/building-the-foundation-the-benefits-of-early-software-engineering-education)
 ![](https://cdn.hackernoon.com/images/children-using-laptops-in-a-classroom-xru4jvilco261ingnzsrciz3.png)
@@ -516,65 +518,65 @@ Early exposure to version control and continuous integration in CS education ben
 ![](https://cdn.hackernoon.com/images/FL7JmXQf34VEW1TJcKJlKvuDn9u2-rrm3pve.jpeg)
 Discover how to integrate Jira and Salesforce in a few clicks. Check out this step-by-step guide for a Jira Salesforce integration with ZigiOps.
 
-### [128. You Need to Make Better Code Reviews™](https://hackernoon.com/how-to-make-great-code-reviewstm-9yp3oq3)
+### [128. Teaching High School Students Software Engineering: Prerequisites](https://hackernoon.com/teaching-high-school-students-software-engineering-prerequisites)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-8983z71.png)
+Explore project development with Linux, GitHub, and CI in our summer coding sessions, mastering essential tools and techniques for seamless collaboration.
+
+### [129. You Need to Make Better Code Reviews™](https://hackernoon.com/how-to-make-great-code-reviewstm-9yp3oq3)
 ![](https://cdn.hackernoon.com/images/nemg3or4.jpg)
 Code reviews and the pull request are the basic building blocks in many software engineers’ life (The Workflow). They prevent bugs, mistakes, and help distribute the knowledge around a code base in small units of changes. They are, also — and specially code reviews — more an art than a science, and so everyone makes mistakes here. Things as random as the relationship that different contributors have between them, influence whether something is approved, overlooked, ignored or requests changes.
-
-### [129. The CI/CD Model Development Process](https://hackernoon.com/the-cicd-model-development-process-862a37tw)
-![](https://cdn.hackernoon.com/images/dXI1QRJ8zNgLlqk3LlqfBXRzniJ3-mej335r2.jpeg)
-Continuous Integration (CI) and Continuous Delivery (CD) are staples of a modern software development workflow that enable developers to release their code rapi
 
 ### [130. A Guide to Efficient DevOps Pipelines](https://hackernoon.com/a-guide-to-efficient-devops-pipelines)
 ![](https://cdn.hackernoon.com/images/m72bmcDdzHOrG3tFshlZQsYEzRn2-coc348u.jpeg)
 In this article, we will explore best practices for creating efficient DevOps pipelines with practical insights and examples.
 
-### [131. Teaching High School Students Software Engineering: Prerequisites](https://hackernoon.com/teaching-high-school-students-software-engineering-prerequisites)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-8983z71.png)
-Explore project development with Linux, GitHub, and CI in our summer coding sessions, mastering essential tools and techniques for seamless collaboration.
+### [131. The CI/CD Model Development Process](https://hackernoon.com/the-cicd-model-development-process-862a37tw)
+![](https://cdn.hackernoon.com/images/dXI1QRJ8zNgLlqk3LlqfBXRzniJ3-mej335r2.jpeg)
+Continuous Integration (CI) and Continuous Delivery (CD) are staples of a modern software development workflow that enable developers to release their code rapi
 
-### [132. Cloud-nomad Architecture: What You Need to Know ](https://hackernoon.com/cloud-nomad-architecture-what-you-need-to-know)
-![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-uf93rev.jpeg)
-Learn about repatriation and consolidation trends, why it's a step forward, not a step back, and the core idea of cloud-nomad architecture. 
-
-### [133. How to Get Setup With Xcode Cloud](https://hackernoon.com/how-to-get-setup-with-xcode-cloud)
+### [132. How to Get Setup With Xcode Cloud](https://hackernoon.com/how-to-get-setup-with-xcode-cloud)
 ![](https://cdn.hackernoon.com/images/jDpmEvX2s9NOjteuQqYzwKALIDn2-vm02phy.png)
 Learn how to setup Xcode Cloud for your own apps.
+
+### [133. Cloud-nomad Architecture: What You Need to Know ](https://hackernoon.com/cloud-nomad-architecture-what-you-need-to-know)
+![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-uf93rev.jpeg)
+Learn about repatriation and consolidation trends, why it's a step forward, not a step back, and the core idea of cloud-nomad architecture. 
 
 ### [134. An IDE Plugin for Gamified Continuous Integration: Gamification Elements of Gamekins](https://hackernoon.com/an-ide-plugin-for-gamified-continuous-integration-gamification-elements-of-gamekins)
 ![](https://cdn.hackernoon.com/images/4HK5qyMbWfetPhAavzyTZrEb90N2-j7831uc.jpeg)
 In this paper, researchers present an IntelliJ plugin designed to seamlessly integrate Gamekins’ gamification elements into the IDE.
 
-### [135. Pull Request Testing on Kubernetes: How to Test Locally and on GitHub Workflows](https://hackernoon.com/pull-request-testing-on-kubernetes-how-to-test-locally-and-on-github-workflows)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-ic02l4b.jpeg)
-
+### [135. Keep Your Indexes Fresh With This Real-time Pipeline](https://hackernoon.com/keep-your-indexes-fresh-with-this-real-time-pipeline)
+![](https://cdn.hackernoon.com/images/dkjgV1JZZIZLBTFGKK4nRc3It7M2-lz036wa.gif.webp)
+CocoIndex continuously watches source changes and keeps derived data in sync, with low latency and minimal performance overhead.
 
 ### [136. How Kubernetes Can Make Your High Load Project Viable in 2020](https://hackernoon.com/how-kubernetes-can-make-your-high-load-project-viable-in-2020-qved3yyt)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3y82rri.jpeg)
 Kubernetes is an open-source container orchestration system that is designed to help you build a scalable infrastructure using high load approaches on a weak server. In this article, we’ll show you why Kubernetes is worth using in 2020.
 
-### [137. Guide To Pursue DevOps Agile Development Cycle And Develop a Better Software](https://hackernoon.com/guide-to-pursue-devops-agile-development-cycle-yj18321e)
+### [137. Pull Request Testing on Kubernetes: How to Test Locally and on GitHub Workflows](https://hackernoon.com/pull-request-testing-on-kubernetes-how-to-test-locally-and-on-github-workflows)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-ic02l4b.jpeg)
+
+
+### [138. Guide To Pursue DevOps Agile Development Cycle And Develop a Better Software](https://hackernoon.com/guide-to-pursue-devops-agile-development-cycle-yj18321e)
 ![](https://cdn.hackernoon.com/drafts/vp7f32mo.png)
 The rise of DevOps and Agile methodologies is apparent to anyone closely following the business world. Just last year, there was an 18 percent increase in DevOps adoption. Most business owners see the benefits of embracing both DevOps and Agile. With these methodologies in place, developers are able to get projects done in a timely and efficient manner.
-
-### [138. Keep Your Indexes Fresh With This Real-time Pipeline](https://hackernoon.com/keep-your-indexes-fresh-with-this-real-time-pipeline)
-![](https://cdn.hackernoon.com/images/dkjgV1JZZIZLBTFGKK4nRc3It7M2-lz036wa.gif.webp)
-CocoIndex continuously watches source changes and keeps derived data in sync, with low latency and minimal performance overhead.
 
 ### [139. Deployments: The Irrational Fear of Them](https://hackernoon.com/deployments-the-irrational-fear-of-them)
 ![](https://cdn.hackernoon.com/images/BmY63ePjY9PXWBDNINRbyojfcK92-c20342k.jpeg)
 The anxiety of deployments is real. Let's take a stab at understanding the human emotions related to deployment and learn best practices to minimize the fear.
 
-### [140. DevOps and Telco Softwarisation - Part 2: A Simple CI/CD Example](https://hackernoon.com/devops-and-telco-softwarisation-part-2-a-simple-cicd-example-z93q31ck)
+### [140. Implementing CI/CD Pipelines with AWS CodePipeline and CodeBuild](https://hackernoon.com/implementing-cicd-pipelines-with-aws-codepipeline-and-codebuild)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yn93s7n.png)
+Explore the implementation of  CI/CD pipelines using AWS CodePipeline and CodeBuild, streamlining the development and deployment processes.
+
+### [141. DevOps and Telco Softwarisation - Part 2: A Simple CI/CD Example](https://hackernoon.com/devops-and-telco-softwarisation-part-2-a-simple-cicd-example-z93q31ck)
 ![](https://cdn.hackernoon.com/images/vs58yHu80FMCBlLC590ASRmc8Hl1-j61t3178.jpeg)
 Image courtesy of Pixabay
 
-### [141. Test Automation With Cypress vs. Keploy: A Comprehensive Comparison](https://hackernoon.com/test-automation-with-cypress-vs-keploy-a-comprehensive-comparison)
+### [142. Test Automation With Cypress vs. Keploy: A Comprehensive Comparison](https://hackernoon.com/test-automation-with-cypress-vs-keploy-a-comprehensive-comparison)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1g82q53.jpeg)
 Explore the strengths of Cypress and Keploy for test automation: speed, efficiency, and robustness in software testing.
-
-### [142. Implementing CI/CD Pipelines with AWS CodePipeline and CodeBuild](https://hackernoon.com/implementing-cicd-pipelines-with-aws-codepipeline-and-codebuild)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yn93s7n.png)
-Explore the implementation of  CI/CD pipelines using AWS CodePipeline and CodeBuild, streamlining the development and deployment processes.
 
 ### [143. The Importance of a Continuous Delivery Culture](https://hackernoon.com/the-importance-of-a-continuous-delivery-culture-6d3b3w0j)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSnhq2R1AhrcVU2y5TKCrutBJCqx1-qui3wfs.jpeg?alt=media&token=7c28b4ea-7fd9-4f2c-98ce-8b9b4e9df1d4)
@@ -608,31 +610,31 @@ High school students learn software engineering skills, including automated test
 ![](https://hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-uj8j3fbk.jpeg)
 Benefits of Automation Testing, Strategies and Best Practices. Get unique insights on how to implement automation testing fast!
 
-### [150. Mea Culpa, Renovate for Everything](https://hackernoon.com/mea-culpa-renovate-for-everything)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-1h82mux.jpeg)
-Renovate does indeed manage Kotlin Scriptings since 2022.
-
-### [151. How to Get the Most Out of Heroku CI](https://hackernoon.com/how-to-get-the-most-out-of-heroku-ci-k6c53yul)
-![](https://images.unsplash.com/photo-1559510981-10719ce4266a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Continuous integration and continuous delivery (CI/CD) are best practices in today’s software engineering development process.
-
-### [152. Introducing High School Students to Version Control, Continuous Integration, and Quality Assurance](https://hackernoon.com/introducing-high-school-students-to-version-control-continuous-integration-and-quality-assurance)
+### [150. Introducing High School Students to Version Control, Continuous Integration, and Quality Assurance](https://hackernoon.com/introducing-high-school-students-to-version-control-continuous-integration-and-quality-assurance)
 ![](https://cdn.hackernoon.com/images/children-using-laptops-in-a-classroom-joqlbo9rpcumkuark8e3zex3.png)
 High school students learn software engineering skills, including automated testing and version control, during a summer project at Wayne State University.
 
-### [153. ModelOps Series: Deploying AI Models Into Production](https://hackernoon.com/modelops-series-deploying-ai-models-into-production-z17p32wt)
+### [151. Mea Culpa, Renovate for Everything](https://hackernoon.com/mea-culpa-renovate-for-everything)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-1h82mux.jpeg)
+Renovate does indeed manage Kotlin Scriptings since 2022.
+
+### [152. How to Get the Most Out of Heroku CI](https://hackernoon.com/how-to-get-the-most-out-of-heroku-ci-k6c53yul)
+![](https://images.unsplash.com/photo-1559510981-10719ce4266a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Continuous integration and continuous delivery (CI/CD) are best practices in today’s software engineering development process.
+
+### [153. From Maturity to Capability: The Evolution of DevOps Models](https://hackernoon.com/from-maturity-to-capability-the-evolution-of-devops-models)
+![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-epa3pf6.jpeg)
+In this post, I explain why a maturity model isn't appropriate and what you should use instead.
+
+### [154. ModelOps Series: Deploying AI Models Into Production](https://hackernoon.com/modelops-series-deploying-ai-models-into-production-z17p32wt)
 ![](https://cdn.hackernoon.com/images/GSN9VJGOaZXMU6zEAhjLZYX4ZXW2-6x1835i3.jpeg)
 In this installment of the ModelOps Blog Series, we will transition from what it takes to build AI models to the process of deploying into production.
 
-### [154. On Creating the Right Test Strategy for Your Project: A Guide from the COO](https://hackernoon.com/on-creating-the-right-test-strategy-for-your-project-a-guide-from-the-coo)
+### [155. On Creating the Right Test Strategy for Your Project: A Guide from the COO](https://hackernoon.com/on-creating-the-right-test-strategy-for-your-project-a-guide-from-the-coo)
 ![](https://cdn.hackernoon.com/images/R72g11CLbqfo3Dii8GWiXRvUH6t1-tpa3heq.jpeg)
 A test strategy is a set of high-level definitions that determine how software testing processes are going to be performed, driving our decisions on how to invest our testing efforts. Creating a well-thought test strategy is crucial to understanding the overall scope of your project, and what testing approaches, tools and skills are required in order to develop a successful product that provides a great user experience.
 
-### [155. ModelOps Series: Pushing Model Container Images to Production](https://hackernoon.com/modelops-series-pushing-model-container-images-to-production-uk6832wt)
+### [156. ModelOps Series: Pushing Model Container Images to Production](https://hackernoon.com/modelops-series-pushing-model-container-images-to-production-uk6832wt)
 ![](https://cdn.hackernoon.com/images/GSN9VJGOaZXMU6zEAhjLZYX4ZXW2-v07t35ia.jpeg)
 Containerization is important for models to function properly once production begins. Leveraging continuous integration/deployment is will improve efficiency 
-
-### [156. From Maturity to Capability: The Evolution of DevOps Models](https://hackernoon.com/from-maturity-to-capability-the-evolution-of-devops-models)
-![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-epa3pf6.jpeg)
-In this post, I explain why a maturity model isn't appropriate and what you should use instead.
 

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [electronics](https://hackernoon.com/tagged/electronics)
+### Let's learn about [Electronics](https://hackernoon.com/tagged/electronics) via these 61 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Electronics is the science and technology of controlling electric current for various applications, forming the fundamental building blocks of all modern technological devices. It underpins everything from computers and communication systems to smart devices, driving innovation across industries.
+
 ### [1. Turn your old useless laptop screen into an external monitor](https://hackernoon.com/https-medium-com-akshaykore-diy-monitor-410ac3bbb6b9)
 ![](hn-images/1*_gCWTqscCNCqVQ3NPlwqng@2x.jpeg)
 For far too long I possessed an old Dell Studio laptop. It served me well for a good 5 years with a number of service centre visits, battery and hard disk replacements, formats and OS upgrades. From the past few years I have ditched the old laptop for a Macbook. Yet still, I never bothered to dispose of it. After all it still works (slow af but works!). <em>What if there is an ‘emergency’ situation where I need to use this ancient piece of technology?</em> I tried selling it, but the act itself and the price I get for it is honestly not worth it. Giving it to someone for free feels like a punishment to the person (most smartphones have better specs). Disposing it off just doesn’t feel right (yeah right! That’s the middle class in me speaking. Also not very good for the environment).
@@ -95,13 +99,13 @@ In the world of audio devices, wireless earbuds are a relatively recent inventio
 ![](https://cdn.hackernoon.com/images/LEymvvrtvURIHWScxGtFiYzJjRf2-w8833rg.jpeg)
 A brushless DC (BLDC) motor is one of the most popular electrical motors with a broad scope of applications.
 
-### [23. The Cyber Risks of Electric Vehicles](https://hackernoon.com/the-cyber-risks-of-electric-vehicles)
-![](https://cdn.hackernoon.com/images/IPKjUVub7zZXrgyTdZX3FCvQsMp1-bte3k0f.jpeg)
-With the increase in the popularity of electric vehicles, it is essential to be aware of the potential cyber security risks associated with using them.
-
-### [24. 2n3904 Circuit: Multisim's BJT Circuit Simulation and Analysis](https://hackernoon.com/2n3904-circuit-multisims-bjt-circuit-simulation-and-analysis-2ux34kn)
+### [23. 2n3904 Circuit: Multisim's BJT Circuit Simulation and Analysis](https://hackernoon.com/2n3904-circuit-multisims-bjt-circuit-simulation-and-analysis-2ux34kn)
 ![](https://cdn.hackernoon.com/images/RZt0yM8SgIUNrPSs6HZC4XqU8KA2-fha033aa.jpeg)
 2n3904 Circuit: Multisim's BJT Circuit Simulation and Analysis
+
+### [24. The Cyber Risks of Electric Vehicles](https://hackernoon.com/the-cyber-risks-of-electric-vehicles)
+![](https://cdn.hackernoon.com/images/IPKjUVub7zZXrgyTdZX3FCvQsMp1-bte3k0f.jpeg)
+With the increase in the popularity of electric vehicles, it is essential to be aware of the potential cyber security risks associated with using them.
 
 ### [25. How to Unlock the Power of Custom USB Endpoints w/RaspberryPi PICO and PYUSB](https://hackernoon.com/how-to-unlock-the-power-of-custom-usb-endpoints-wraspberrypi-pico-and-pyusb)
 ![](https://cdn.hackernoon.com/images/PtsGBt2kzygziFTwJ0Jb7QC03I33-8tb3pil.jpeg)
@@ -183,34 +187,34 @@ Learn how long do Macbooks actually last and get tips on how to make them last l
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fvj8MHnCWrPYV3UVqXl12RKEVDzp1-dz3j10sh.gif?alt=media&token=f0d2c34b-6cbb-4924-a5a4-898d16509d87)
 In case you missed our latest update, Elimo Engineering designed a small, powerful Linux System-on-Module, designed for low cost and fast system integration. It’s FOSS and OSHW and sports all of the following:
 
-### [45. The Noonification: If Youre a Facebook User, Thousands of Companies Are Watching You (1/19/2024)](https://hackernoon.com/1-19-2024-noonification)
-![](https://cdn.hackernoon.com/images/noonification_348_mutz89xq33v0cwpqtiwv6206.png)
-1/19/2024: Top 5 stories on the HackerNoon homepage!
-
-### [46. Electronics and Software Development Explained: A Look Inside Contract Engineering](https://hackernoon.com/electronics-and-software-development-explained-a-look-inside-contract-engineering)
+### [45. Electronics and Software Development Explained: A Look Inside Contract Engineering](https://hackernoon.com/electronics-and-software-development-explained-a-look-inside-contract-engineering)
 ![](https://cdn.hackernoon.com/images/LEymvvrtvURIHWScxGtFiYzJjRf2-yjb38mm.png)
 Integra Sources CTO shares their working practices. Learn about our project phases, risk management, team synchronization, and client communication.
 
+
+### [46. The Noonification: If Youre a Facebook User, Thousands of Companies Are Watching You (1/19/2024)](https://hackernoon.com/1-19-2024-noonification)
+![](https://cdn.hackernoon.com/images/noonification_348_mutz89xq33v0cwpqtiwv6206.png)
+1/19/2024: Top 5 stories on the HackerNoon homepage!
 
 ### [47. 5 Studio Mixers for Home Recording](https://hackernoon.com/5-studio-mixers-for-home-and-medium-studios)
 ![](https://cdn.hackernoon.com/images/gJIQIg1YPxb5RjSISA8RrkbCDv83-gve3zht.jpeg)
 The top studio mixers are1. Yamaha MG10XU, 2. G-Mark MR80s, 3. Yamaha MW 12CX 4. PreSonus AR8c, and 5. Boss Gigcaster 8
 
-### [48. Arduino UNO Board: Under The Hood](https://hackernoon.com/arduino-uno-board-under-the-hood-3iz3z78)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhtQ1vXMH8NXHOcaIYKJXosWvFQ83-z8eh3wj4.jpeg?alt=media&token=d878b4a5-a2cc-42d9-b165-f703162bae6e)
-This article gives you a complete description of the very famous Arduino UNO board. The article discusses the hardware technicalities and programming of the board. If you are a beginner then, you may find this article very useful.
+### [48. Turn Your Raspberry Pi Pico into a Robot That Obeys Lines Like a Pro](https://hackernoon.com/turn-your-raspberry-pi-pico-into-a-robot-that-obeys-lines-like-a-pro)
+![](https://cdn.hackernoon.com/images/KdFaj53xL6V34fcCNOkQfrZDbIp1-3t0385y.jpeg)
+A line follower is a type of autonomous robot that can detect and follow a line drawn on the floor, typically a black line.
 
-### [49. Samsung to Continue Expansion Plans, R&D Investments Despite Decline in Demand](https://hackernoon.com/samsung-to-continue-expansion-plans-randd-investments-despite-decline-in-demand)
-![](https://cdn.hackernoon.com/images/gFpkiE74dQYFbv6hDUCCcIQa9083-0t93pih.jpeg)
-Samsung is planning to expand its business overseas despite losses in operations. It also aims at introducing AI-tech-supported smart devices in the future.
-
-### [50. How Computers Are Designed for Extreme Environments](https://hackernoon.com/how-computers-are-designed-for-extreme-environments)
+### [49. How Computers Are Designed for Extreme Environments](https://hackernoon.com/how-computers-are-designed-for-extreme-environments)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-ea035xg.jpeg)
 Some computers have to operate in extreme cold and heat, and even in space. How are these devices designed to withstand such environments?
 
-### [51. Turn Your Raspberry Pi Pico into a Robot That Obeys Lines Like a Pro](https://hackernoon.com/turn-your-raspberry-pi-pico-into-a-robot-that-obeys-lines-like-a-pro)
-![](https://cdn.hackernoon.com/images/KdFaj53xL6V34fcCNOkQfrZDbIp1-3t0385y.jpeg)
-A line follower is a type of autonomous robot that can detect and follow a line drawn on the floor, typically a black line.
+### [50. Samsung to Continue Expansion Plans, R&D Investments Despite Decline in Demand](https://hackernoon.com/samsung-to-continue-expansion-plans-randd-investments-despite-decline-in-demand)
+![](https://cdn.hackernoon.com/images/gFpkiE74dQYFbv6hDUCCcIQa9083-0t93pih.jpeg)
+Samsung is planning to expand its business overseas despite losses in operations. It also aims at introducing AI-tech-supported smart devices in the future.
+
+### [51. Arduino UNO Board: Under The Hood](https://hackernoon.com/arduino-uno-board-under-the-hood-3iz3z78)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhtQ1vXMH8NXHOcaIYKJXosWvFQ83-z8eh3wj4.jpeg?alt=media&token=d878b4a5-a2cc-42d9-b165-f703162bae6e)
+This article gives you a complete description of the very famous Arduino UNO board. The article discusses the hardware technicalities and programming of the board. If you are a beginner then, you may find this article very useful.
 
 ### [52. Meet Riemann Computing: Data Compression, CubeSats, and 2024's Electronics Startup of the Year](https://hackernoon.com/meet-riemann-computing-data-compression-cubesats-and-2024s-electronics-startup-of-the-year)
 ![](https://cdn.hackernoon.com/images/c1Ohy0yZfNXdxE4Uh5p1cxRUYis1-yp134mh.jpeg)

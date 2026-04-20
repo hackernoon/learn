@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [quicknode](https://hackernoon.com/tagged/quicknode)
+### Let's learn about [Quicknode](https://hackernoon.com/tagged/quicknode) via these 102 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Enter QuickNode's decentralized internet writing contest today! Win from a whopping $5000 prize pool.
 
 ### [1. The Objective Need for Decentralization: Reality Consensus](https://hackernoon.com/the-objective-need-for-decentralization-reality-consensus)
@@ -99,13 +101,13 @@ Filing for bankruptcy is complicated and sometimes difficult to understand.
 ![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-nz92i9g.jpeg)
 Warren Buffett vs. Elon Musk - Inflation vs. Bitcoin
 
-### [25. When DeFi Meets TradeFi: Comdex Co-founder, Abhishek Singh, Discusses Commodities In Crypto](https://hackernoon.com/when-defi-meets-tradefi-comdex-co-founder-abhishek-singh-discusses-commodities-in-crypto)
-![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-vz93n5t.jpeg)
-A discussion with Abhishek Singh, Co-founder and CEO of Comdex on the recent crypto crash, features of a robust DeFi infrastructure layer, and much more.
-
-### [26. Who Showed Up to Dogepalooza and Who Cares? (Much Surprise)](https://hackernoon.com/who-showed-up-to-dogepalooza-and-who-cares-much-surprise)
+### [25. Who Showed Up to Dogepalooza and Who Cares? (Much Surprise)](https://hackernoon.com/who-showed-up-to-dogepalooza-and-who-cares-much-surprise)
 ![](https://cdn.hackernoon.com/images/pmSgrHz6e1OixmkxLQBo8DIkHL22-w8i3meq.jpeg)
 What happened at the first-ever Dogecoin-themed charity music festival Dogepalooza? Hear it from the perspective of one of the performers there, Rito Rhymes.
+
+### [26. When DeFi Meets TradeFi: Comdex Co-founder, Abhishek Singh, Discusses Commodities In Crypto](https://hackernoon.com/when-defi-meets-tradefi-comdex-co-founder-abhishek-singh-discusses-commodities-in-crypto)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-vz93n5t.jpeg)
+A discussion with Abhishek Singh, Co-founder and CEO of Comdex on the recent crypto crash, features of a robust DeFi infrastructure layer, and much more.
 
 ### [27. Introducing $NOIR, the World’s first Phygital Wine Token](https://hackernoon.com/introducing-$noir-the-worlds-first-phygital-wine-token)
 ![](https://cdn.hackernoon.com/images/8i1Y52roOTNq2f5EspzwYrMvFXy2-o893vun.jpeg)
@@ -209,13 +211,13 @@ This article breaks down everything you need to know about the origin of money a
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-2p93jxa.jpeg)
 NFT Loans allows borrowers to use the NFTs they own to access the liquidity they need - in a safe, secure and anonymous way. We'll look into this system more.
 
-### [52. The Decentralized Internet Writing Contest by QuickNode and HackerNoon](https://hackernoon.com/the-decentralized-internet-writing-contest-by-quicknode-and-hackernoon)
-![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-qu93zik.jpeg)
-Hey, Hackers! The Decentralized Internet Writing Contest has just got BIGGER! HackerNoon is excited to host the contest in collaboration with QuickNode! 
-
-### [53. Decentralized Storage Networks — An Explainer](https://hackernoon.com/decentralized-storage-networks-an-explainer)
+### [52. Decentralized Storage Networks — An Explainer](https://hackernoon.com/decentralized-storage-networks-an-explainer)
 ![](https://cdn.hackernoon.com/images/73Ez3YFrsmQwSpzv4caRBk2QIb53-29e3rx7.jpeg)
 A comprehensive analysis of decentralized storage networks, technologies behind them, benefits, use cases, current issues, and an overview of DSN offerings
+
+### [53. The Decentralized Internet Writing Contest by QuickNode and HackerNoon](https://hackernoon.com/the-decentralized-internet-writing-contest-by-quicknode-and-hackernoon)
+![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-qu93zik.jpeg)
+Hey, Hackers! The Decentralized Internet Writing Contest has just got BIGGER! HackerNoon is excited to host the contest in collaboration with QuickNode! 
 
 ### [54. 7th US President Andrew Jackson's Thoughts on Cryptocurrency](https://hackernoon.com/7th-us-president-andrew-jacksons-thoughts-on-cryptocurrency)
 ![](https://cdn.hackernoon.com/images/ulHLOrUUeTTHEKRJOCtpfWl7DLB3-p093kgr.jpeg)
@@ -257,13 +259,13 @@ Top 10 DAO projects that create Web3 and new crypto industries! The most interes
 ![](https://cdn.hackernoon.com/images/QSTw1Dvib9TyrPWsWt3PmtqHUds1-waa3mxh.jpeg)
 The level of transparency that DAOs provide could lead to better relationships between organizations and their members, workers, and even the general public.
 
-### [64. What Crypto and Rap Have to Do with the War in Ukraine](https://hackernoon.com/what-crypto-and-rap-have-to-do-with-the-war-in-ukraine)
-![](https://cdn.hackernoon.com/images/tOnArrILSDcevoBmc7vIUv6UrQI3-xfd3kjs.jpeg)
-Support Ukraine and peace all over the world and help avoid a Russia-caused humanitarian crisis in Europe by making crypto donations through Aid For Ukraine. 
-
-### [65. The Luna & Ust Crash: Fall of an Ecosystem left with only 1 Winner](https://hackernoon.com/the-luna-and-ust-crash-fall-of-an-ecosystem-left-with-only-1-winner)
+### [64. The Luna & Ust Crash: Fall of an Ecosystem left with only 1 Winner](https://hackernoon.com/the-luna-and-ust-crash-fall-of-an-ecosystem-left-with-only-1-winner)
 ![](https://cdn.hackernoon.com/images/8f0bxioSmDMzyQgfpdDQYbZ5ZLi1-lnc3pr7.jpeg)
 The Luna Story: the sudden rise and fall of a cryptocurrency ecosystem that left only one winner in the clamourous aftermath of a sudden market crash. 
+
+### [65. What Crypto and Rap Have to Do with the War in Ukraine](https://hackernoon.com/what-crypto-and-rap-have-to-do-with-the-war-in-ukraine)
+![](https://cdn.hackernoon.com/images/tOnArrILSDcevoBmc7vIUv6UrQI3-xfd3kjs.jpeg)
+Support Ukraine and peace all over the world and help avoid a Russia-caused humanitarian crisis in Europe by making crypto donations through Aid For Ukraine. 
 
 ### [66. How to Earn Crypto Passive Income in 2022](https://hackernoon.com/how-to-earn-crypto-passive-income-in-2022)
 ![](https://cdn.hackernoon.com/images/OWwusqtd11XIq9iOOIyuavuCQ7p2-yq93tcx.jpeg)
@@ -285,13 +287,13 @@ Imagine ecentralized YouTube, Facebook, Gmail. Are we there yet and what will th
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-9093i0i.jpeg)
 In this story we’ll look at the evolution of decentralized exchanges as well as the EUTXO protocol and the WingRiders platform.
 
-### [71. Art (R)evolution: NFTastic art](https://hackernoon.com/art-revolution-nftastic-art)
-![](https://cdn.hackernoon.com/images/CW9ZwDCl1kQCd0dp6RiIobclACV2-cfc3k6s.jpeg)
-Some cool artworks that recreate new vision of art.
-
-### [72. How to Deploy Your Decentralized Application on 4EVERLAND](https://hackernoon.com/how-to-deploy-your-decentralized-application-on-4everland)
+### [71. How to Deploy Your Decentralized Application on 4EVERLAND](https://hackernoon.com/how-to-deploy-your-decentralized-application-on-4everland)
 ![](https://cdn.hackernoon.com/images/5ukB3BAlCWS2eAsd6FYVZcgPbzH2-hk93li8.jpeg)
 How to deploy a Decentralized Application on 4EVERLAND
+
+### [72. Art (R)evolution: NFTastic art](https://hackernoon.com/art-revolution-nftastic-art)
+![](https://cdn.hackernoon.com/images/CW9ZwDCl1kQCd0dp6RiIobclACV2-cfc3k6s.jpeg)
+Some cool artworks that recreate new vision of art.
 
 ### [73. Using Hedonic Regression for CryptoPunks NFT Valuation ](https://hackernoon.com/using-hedonic-regression-for-cryptopunks-nft-valuation)
 ![](https://cdn.hackernoon.com/images/TYAy8YXF3pNC96IPW15fOOqYix43-1ob3kr2.jpeg)
@@ -321,45 +323,45 @@ Hey Hackers! The wait is over! Here we are with the results announcement for The
 ![](https://cdn.hackernoon.com/images/OrZsakIxdNbSXibciLwU48PzRMf1-hs93l7z.jpeg)
 DAOs can improve the nature of corporate governance and empower activist investors to push for change at organizations.
 
-### [80. LYS Labs Moves Beyond Data and Aims to Become the Operating System for Automated Global Finance](https://hackernoon.com/lys-labs-moves-beyond-data-and-aims-to-become-the-operating-system-for-automated-global-finance)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-wq13gg8.jpeg)
-The company recently announced its seed round with participation from Alchemy Ventures, Auros Global, and Frachtis, among others.
-
-### [81. QuickNode VP of Product Josh Neuroth on Blockchain Infrastructure, Rollups, and Web3 Innovation](https://hackernoon.com/quicknode-vp-of-product-josh-neuroth-on-blockchain-infrastructure-rollups-and-web3-innovation)
+### [80. QuickNode VP of Product Josh Neuroth on Blockchain Infrastructure, Rollups, and Web3 Innovation](https://hackernoon.com/quicknode-vp-of-product-josh-neuroth-on-blockchain-infrastructure-rollups-and-web3-innovation)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-dq836fr.png)
 Gain insights from QuickNode's Josh Neuroth on blockchain infrastructure challenges, the potential of rollups, and advice for aspiring Web3 innovators.
 
-### [82. A Learner's Introduction to The Decentralized Internet](https://hackernoon.com/an-introduction-to-the-decentralized-internet)
+### [81. A Learner's Introduction to The Decentralized Internet](https://hackernoon.com/an-introduction-to-the-decentralized-internet)
 ![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-ofd25h6.jpeg)
 The decentralized internet is a topic of discussion for every internet user. Find out why Web 3.0 is most talked about and why it is significant in tech.
 
-### [83. How To Bring DAOs To Web3 Instead of Discord](https://hackernoon.com/how-to-bring-daos-to-web3-instead-of-discord)
+### [82. How To Bring DAOs To Web3 Instead of Discord](https://hackernoon.com/how-to-bring-daos-to-web3-instead-of-discord)
 ![](https://cdn.hackernoon.com/images/4yZk6uF7ACgE2LpjpRIp7Ne6THG3-73a3kbl.gif.webp)
 How to bring DAO's to Web3 community platforms instead of Discord and Slack with on chain governance tools and crypto rewards to improve DAO participation. 
 
-### [84. My Comments on the U.S. Fed's CBDC Paper](https://hackernoon.com/my-comments-on-the-us-feds-cbdc-paper)
+### [83. My Comments on the U.S. Fed's CBDC Paper](https://hackernoon.com/my-comments-on-the-us-feds-cbdc-paper)
 ![](https://cdn.hackernoon.com/images/ICvvvtdXpZZcQuVy9ax1QV8DIsx1-s492ef7.jpeg)
 Thoughts on the US Federal Reserve's CBDC paper and request for comments from the writer of the Digital Universal Drachma white paper.
 
-### [85. There’s No Quick-Fix to Poor DeFi Accessibility, But There’s Hope: ReSource Co-Founder, David Casey](https://hackernoon.com/theres-no-quick-fix-to-poor-defi-accessibility-but-theres-hope-resource-co-founder-david-casey)
+### [84. There’s No Quick-Fix to Poor DeFi Accessibility, But There’s Hope: ReSource Co-Founder, David Casey](https://hackernoon.com/theres-no-quick-fix-to-poor-defi-accessibility-but-theres-hope-resource-co-founder-david-casey)
 ![](https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-tz93hoa.jpeg)
 We caught up with David Casey, Co-founder and CEO of ReSource Protocol, for a quick chat where we tried to pick his brains as much as possible. And as expected, we received some amazing insights from him regarding the crypto and DeFi industry. He spoke about the ReSource Protocol, the problem they are trying to solve, and more. In addition, David also shared his thoughts on stablecoins and their future. He also mentioned a few developments in the crypto, DeFi, and NFT space that have caught his attention.   
 
-### [86. True Meaning Of DAOs — Understanding A New, Emerging Phenomenon](https://hackernoon.com/true-meaning-of-daos-understanding-a-new-emerging-phenomenon)
+### [85. True Meaning Of DAOs — Understanding A New, Emerging Phenomenon](https://hackernoon.com/true-meaning-of-daos-understanding-a-new-emerging-phenomenon)
 ![](https://cdn.hackernoon.com/images/zaVyJ3dcr6YgXE0hJ3QabUCHwFi1-ik93oon.jpeg)
 DAOs set out to replace organizations as we know them today with an approach of openness and decentralization. But what are DAOs really?
 
-### [87. Hackable DAOs Follow Hackable Protocols, and the Internet Has Noticed ](https://hackernoon.com/hackable-daos-follow-hackable-protocols-and-the-internet-has-noticed)
+### [86. Hackable DAOs Follow Hackable Protocols, and the Internet Has Noticed ](https://hackernoon.com/hackable-daos-follow-hackable-protocols-and-the-internet-has-noticed)
 ![](https://cdn.hackernoon.com/images/VTRwfugfYcWJUoweuxQunFNrBoy1-nrf3dfa.jpeg)
 The simple answer to question - “Who controls any DAO?” is a protocol. The problem is that protocols are developed by somebody. Protocols need to be updated. 
 
-### [88. Five Killer Twitter Tips for Crypto Projects ](https://hackernoon.com/five-killer-twitter-tips-for-crypto-projects)
+### [87. Five Killer Twitter Tips for Crypto Projects ](https://hackernoon.com/five-killer-twitter-tips-for-crypto-projects)
 ![](https://cdn.hackernoon.com/images/qe9B8VoRTVeeGI1ZORu6CPIgUn62-h693ve8.jpeg)
 Five Killer Twitter Tips for Crypto Projects to grow on Twitter.
 
-### [89. 3 Ways to Increase NFT Adoption Among Artists](https://hackernoon.com/3-ways-to-increase-nft-adoption-among-artists)
+### [88. 3 Ways to Increase NFT Adoption Among Artists](https://hackernoon.com/3-ways-to-increase-nft-adoption-among-artists)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-k393m6h.jpeg)
 Let's talk about challenges and opportunities to increase adoption of art NFTs. 
+
+### [89. LYS Labs Moves Beyond Data and Aims to Become the Operating System for Automated Global Finance](https://hackernoon.com/lys-labs-moves-beyond-data-and-aims-to-become-the-operating-system-for-automated-global-finance)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-wq13gg8.jpeg)
+The company recently announced its seed round with participation from Alchemy Ventures, Auros Global, and Frachtis, among others.
 
 ### [90. Inside the Unseen War Between Shared and Custom Blockchain Nodes](https://hackernoon.com/inside-the-unseen-war-between-shared-and-custom-blockchain-nodes)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5b02vfj.jpeg)
@@ -400,13 +402,13 @@ Read more about:
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-tx023r3.jpeg)
 The collaboration leverages QuickNode's enterprise-grade infrastructure, Fuse's user-centric Web3 payment solution stack
 
-### [99. On Cryptocurrency & War ](https://hackernoon.com/on-cryptocurrency-and-war)
-![](https://cdn.hackernoon.com/images/4RtWP8vmvJXsI1v2vKixmc6n3SG2-8t93lgw.jpeg)
-Cryptocurrency can be used for pizza...and war? This article looks at how Russia and Ukraine are both using crypto to their advantage. 
-
-### [100. Exploring NFT Galleries with Benjamin Agostini](https://hackernoon.com/exploring-nft-galleries-with-benjamin-agostini)
+### [99. Exploring NFT Galleries with Benjamin Agostini](https://hackernoon.com/exploring-nft-galleries-with-benjamin-agostini)
 ![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-41b3lbk.jpeg)
 In this NFC interview, we spoke with Benjamin Agostini, Co-Founder of TheSafeBox.io. We discussed NFT art and galleries, and the future of NFTs and marketing.
+
+### [100. On Cryptocurrency & War ](https://hackernoon.com/on-cryptocurrency-and-war)
+![](https://cdn.hackernoon.com/images/4RtWP8vmvJXsI1v2vKixmc6n3SG2-8t93lgw.jpeg)
+Cryptocurrency can be used for pizza...and war? This article looks at how Russia and Ukraine are both using crypto to their advantage. 
 
 ### [101. Why Deflationary Stablecoin Projects are the Future of DeFi](https://hackernoon.com/why-deflationary-stablecoin-projects-are-the-future-of-defi)
 ![](https://cdn.hackernoon.com/images/pxtbZrdmt0VrZ3Z4asVTcVTnXOB2-cx93i6c.jpeg)

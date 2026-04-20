@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [web-app-development](https://hackernoon.com/tagged/web-app-development)
+### Let's learn about [Web App Development](https://hackernoon.com/tagged/web-app-development) via these 133 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Web app development is the process of creating software applications that run on web servers and are accessed via a web browser over the internet. It is fundamental to building dynamic, interactive online platforms and services.
+
 ### [1. Angular vs React vs Vue: Which is the Best Choice for 2019?](https://hackernoon.com/angular-vs-react-vs-vue-which-is-the-best-choice-for-2019-16ce0deb3847)
 ![](https://cdn.hackernoon.com/images/7m4a23g7.jpg)
 
@@ -152,22 +156,22 @@ A scan of over 2.6 million domains revealed over 1000 publicly exposed git direc
 ![](https://images.unsplash.com/photo-1423784346385-c1d4dac9893a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The global headcount of app developers is growing exponentially. Paradoxically, the gap between mobile and web app development expertise continues to grow as well. New trends in the field, such as artificial intelligence, blockchain, IoT, cybersecurity, VR and AR, demand new competencies that companies often lack, even within in-house development teams. 
 
-### [38. Making a React Chat App Using Socket.io](https://hackernoon.com/making-a-react-chat-app-using-socketio)
+### [38. Replicache vs. The World: Solving Web App Sync Challenges with Cutting-Edge Technology](https://hackernoon.com/replicache-vs-the-world-solving-web-app-sync-challenges-with-cutting-edge-technology)
+![](https://cdn.hackernoon.com/images/LFjJNn7AzuOPmmN10tW5JT47Ns33-4d833cv.png)
+Using a local first sync engine to solve hard problems in web development
+
+### [39. Making a React Chat App Using Socket.io](https://hackernoon.com/making-a-react-chat-app-using-socketio)
 ![](https://cdn.hackernoon.com/images/9ln0OHvfuhgKBqQIuNFg8jiCzrI2-28a37gg.jpeg)
 How to build your own chat with React? Create a powerful chat application in 5 simple steps with the help of web application generator.
 
 
-### [39. Replicache vs. The World: Solving Web App Sync Challenges with Cutting-Edge Technology](https://hackernoon.com/replicache-vs-the-world-solving-web-app-sync-challenges-with-cutting-edge-technology)
-![](https://cdn.hackernoon.com/images/LFjJNn7AzuOPmmN10tW5JT47Ns33-4d833cv.png)
-Using a local first sync engine to solve hard problems in web development
-
-### [40. The Web Development Courses to Help you Kickstart a Career in Web Development](https://hackernoon.com/the-web-development-courses-to-help-you-kickstart-a-career-in-web-development)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-5g93zc2.jpeg)
-If you want to learn web development and become a web developer, or looking for web development resources like books, online courses, and tutorials, but are not
-
-### [41. Enlarge your DRY :  How to Share Values Between Web App Backend and Frontend](https://hackernoon.com/enlarge-your-dry-how-to-share-values-between-web-app-backend-and-frontend-mo2e33bc)
+### [40. Enlarge your DRY :  How to Share Values Between Web App Backend and Frontend](https://hackernoon.com/enlarge-your-dry-how-to-share-values-between-web-app-backend-and-frontend-mo2e33bc)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-6xx32hc.jpeg)
 REST API endpoints paths list which backend uses to route API requests and frontend uses to make backend API requests.
+
+### [41. The Web Development Courses to Help you Kickstart a Career in Web Development](https://hackernoon.com/the-web-development-courses-to-help-you-kickstart-a-career-in-web-development)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-5g93zc2.jpeg)
+If you want to learn web development and become a web developer, or looking for web development resources like books, online courses, and tutorials, but are not
 
 ### [42. Django Tutorials: Building a Web App from Scratch](https://hackernoon.com/django-tutorials-building-a-web-app-from-scratch-r32z33xc)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-f42i28an.jpeg)
@@ -282,37 +286,37 @@ Let's be honest, what other use is there for generative AI than working with cat
 ![](https://cdn.hackernoon.com/images/21TrQ67EfiP0js4daHPiznWdV1z2-xqb20uu.jpeg)
 Discover a streamlined approach to creating web applications by integrating the server and client in one repository.
 
-### [70. How to Integrate Weather Tracking into Web Applications with PHP](https://hackernoon.com/how-to-integrate-weather-tracking-into-web-applications-with-php)
+### [70. The 1MB Challenge: Can You Build a Modern App with Zero Dependencies?](https://hackernoon.com/the-1mb-challenge-can-you-build-a-modern-app-with-zero-dependencies)
+![](https://cdn.hackernoon.com/images/4C9XGbBXTfWCpZ7icj0NdFe3DYE2-jz8241u.jpeg)
+Tired of massive node_modules? Learn how to build a modern, reactive SPA using zero dependencies with native Web Components, Proxies, and the History API.
+
+### [71. How to Integrate Weather Tracking into Web Applications with PHP](https://hackernoon.com/how-to-integrate-weather-tracking-into-web-applications-with-php)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-0f831cm.jpeg)
 Learn how to integrate weather tracking into your web applications using PHP. 
 
-### [71. The Possibilities for Innovation Within the JavaScript Ecosystem](https://hackernoon.com/the-possibilities-for-innovation-within-the-javascript-ecosystem)
+### [72. The Possibilities for Innovation Within the JavaScript Ecosystem](https://hackernoon.com/the-possibilities-for-innovation-within-the-javascript-ecosystem)
 ![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-w8035ed.jpeg)
 Can You Master the Rapidly Evolving JS Ecosystem? Discover how to discover and satisfy users' requirements to remain competitive in the marketplace.
-
-### [72. 19 Top Websites Built With Django Web Framework](https://hackernoon.com/19-top-websites-built-with-django-web-framework)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-pw037jg.jpeg)
-Softformance has published a list of the most popular Django-based websites built with Django web framework. Softformance used to use Plone CMS – Python and Zop
 
 ### [73. Quickly Create an Angular Datagrid in Your Web Application](https://hackernoon.com/quickly-create-an-angular-datagrid-in-your-web-application)
 ![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-0e9345y.png)
 Learn how to quickly create an Angular datagrid in your web application. See more from Wijmo today.
 
-### [74. The 1MB Challenge: Can You Build a Modern App with Zero Dependencies?](https://hackernoon.com/the-1mb-challenge-can-you-build-a-modern-app-with-zero-dependencies)
-![](https://cdn.hackernoon.com/images/4C9XGbBXTfWCpZ7icj0NdFe3DYE2-jz8241u.jpeg)
-Tired of massive node_modules? Learn how to build a modern, reactive SPA using zero dependencies with native Web Components, Proxies, and the History API.
+### [74. 19 Top Websites Built With Django Web Framework](https://hackernoon.com/19-top-websites-built-with-django-web-framework)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-pw037jg.jpeg)
+Softformance has published a list of the most popular Django-based websites built with Django web framework. Softformance used to use Plone CMS – Python and Zop
 
-### [75. Cloud-based Vs. Web-based Applications: A  Detailed Comparison of Features & Key Aspects](https://hackernoon.com/cloud-based-vs-web-based-applications-a-detailed-comparison-of-features-and-key-aspects)
-![](https://cdn.hackernoon.com/images/ZI6rcoTwwzWS1AH495rMgbPSeWl1-j0837ey.jpeg)
-Cloud and web apps seem interchangeable to many. Is it true? Not at all. However, both are similar but not the same. Read this article to know the difference.
+### [75. Learn How Build a Progressive Web App in Minutes with Next.js](https://hackernoon.com/learn-how-build-a-progressive-web-app-in-minutes-with-nextjs)
+![](https://cdn.hackernoon.com/images/VmaTNcEmQ5SwZmi4bIfNbMkafYA2-iw037h6.png)
+Explore Next.js's new native PWA support to easily create powerful, app-like web experiences with offline caching, push notifications, and seamless updates.
 
 ### [76. Using Webiny Headless CMS With Starter Kits for Gatsby, NextJS](https://hackernoon.com/using-webiny-headless-cms-with-starter-kits-for-gatsby-nextjs)
 ![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-jo934v2.jpeg)
 You can spin up a Webiny instance on your own cloud infrastructure in minutes, and use one of our 1-click starters to get build a frontend quickly.
 
-### [77. Learn How Build a Progressive Web App in Minutes with Next.js](https://hackernoon.com/learn-how-build-a-progressive-web-app-in-minutes-with-nextjs)
-![](https://cdn.hackernoon.com/images/VmaTNcEmQ5SwZmi4bIfNbMkafYA2-iw037h6.png)
-Explore Next.js's new native PWA support to easily create powerful, app-like web experiences with offline caching, push notifications, and seamless updates.
+### [77. Cloud-based Vs. Web-based Applications: A  Detailed Comparison of Features & Key Aspects](https://hackernoon.com/cloud-based-vs-web-based-applications-a-detailed-comparison-of-features-and-key-aspects)
+![](https://cdn.hackernoon.com/images/ZI6rcoTwwzWS1AH495rMgbPSeWl1-j0837ey.jpeg)
+Cloud and web apps seem interchangeable to many. Is it true? Not at all. However, both are similar but not the same. Read this article to know the difference.
 
 ### [78. From Novice to Expert: How I Mastered Web Development](https://hackernoon.com/from-novice-to-expert-how-i-mastered-web-development)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-u3g3yhw.jpeg)
@@ -330,13 +334,13 @@ Write a custom extension engine for web applications to allow users to write the
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-px93ppz.jpeg)
 Find out when start-ups and scale-ups should leverage Design Systems to develop new apps features and the main benefits it offers to keep costs at a minimum
 
-### [82. Designing a Pure Python Web Framework](https://hackernoon.com/designing-a-pure-python-web-framework)
-![](https://cdn.hackernoon.com/images/0Np1JGEamwWg7c1MJViBUhCdsEf1-lp334pz.jpeg)
-A look at how Reflex, the open-source framework empowering Python developers to build web apps faster, works under the hood.
-
-### [83. The Difference Between Web Apps and Websites Explained](https://hackernoon.com/the-difference-between-web-apps-and-websites-explained-9c2134zu)
+### [82. The Difference Between Web Apps and Websites Explained](https://hackernoon.com/the-difference-between-web-apps-and-websites-explained-9c2134zu)
 ![](https://cdn.hackernoon.com/images/5xThcNeVYFUq8lAaKdNX08Xn6Pk2-q03r33x8.jpeg)
 In this article, you will learn all about the difference between a website and a web application, the intricacies and how much it costs to develop both options.
+
+### [83. Designing a Pure Python Web Framework](https://hackernoon.com/designing-a-pure-python-web-framework)
+![](https://cdn.hackernoon.com/images/0Np1JGEamwWg7c1MJViBUhCdsEf1-lp334pz.jpeg)
+A look at how Reflex, the open-source framework empowering Python developers to build web apps faster, works under the hood.
 
 ### [84. How to Build an AI-Powered Web Application With Next.js and TensorFlow.js: A Guide](https://hackernoon.com/how-to-build-an-ai-powered-web-application-with-nextjs-and-tensorflowjs-a-guide)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-q7033qa.webp)
@@ -348,149 +352,149 @@ earn how Aptible and Kubernetes work together to create robust environments, ens
 
 
 
-### [86. WebRTC: All You Need To Know About its Advantages and Technical Challenges](https://hackernoon.com/webrtc-all-you-need-to-know-about-its-advantages-and-technical-challenges-bsby3y8y)
-![](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-WebRTC is a browser technology designed to transfer streaming data between browsers or applications using point-to-point transmission technology. This technology is attractive because it allows you to establish the connection between users using only a browser. For many developers, when they learn about WebRTC, this becomes a discovery: you can create a video chat without using a third-party server, you only need a browser — and this is cool!
-
-### [87. Turning the Company’s PC Into a Personal “Vercel-Like” Platform](https://hackernoon.com/turning-the-companys-pc-into-a-personal-vercel-like-platform)
+### [86. Turning the Company’s PC Into a Personal “Vercel-Like” Platform](https://hackernoon.com/turning-the-companys-pc-into-a-personal-vercel-like-platform)
 ![](https://cdn.hackernoon.com/images/Y6CZkfnk8oe63Rp5nL2u1gJAPc63-zj92tbq.png)
 A quick look at how I turned my company's PC into a personal vercel-like platform.
 
-### [88. The Features and Benefits of AngularJS for Web Application Development ](https://hackernoon.com/the-features-and-benefits-of-angularjs-for-web-application-development-ct6832je)
-![](https://cdn.hackernoon.com/images/nWGVk8pX1kbphUeUH9soaziHVBz1-wj83355q.jpeg)
-If you are looking for a structural framework for dynamic applications, AngularJS is the ideal choice. 
+### [87. WebRTC: All You Need To Know About its Advantages and Technical Challenges](https://hackernoon.com/webrtc-all-you-need-to-know-about-its-advantages-and-technical-challenges-bsby3y8y)
+![](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+WebRTC is a browser technology designed to transfer streaming data between browsers or applications using point-to-point transmission technology. This technology is attractive because it allows you to establish the connection between users using only a browser. For many developers, when they learn about WebRTC, this becomes a discovery: you can create a video chat without using a third-party server, you only need a browser — and this is cool!
 
-### [89. 7 Reasons to Use Automated Tests in Selenium, JUnit5, and Gauge Framework ](https://hackernoon.com/7-reasons-to-use-automated-tests-in-selenium-junit5-and-gauge-framework)
+### [88. 7 Reasons to Use Automated Tests in Selenium, JUnit5, and Gauge Framework ](https://hackernoon.com/7-reasons-to-use-automated-tests-in-selenium-junit5-and-gauge-framework)
 ![](https://cdn.hackernoon.com/images/Xc0KXgvV5JdgW2DnkpC3TTUBpoY2-un93ps9.jpeg)
 Using automated tests to optimize your web application using Selenium, JUnit5, and Gauge Framework.
+
+### [89. The Features and Benefits of AngularJS for Web Application Development ](https://hackernoon.com/the-features-and-benefits-of-angularjs-for-web-application-development-ct6832je)
+![](https://cdn.hackernoon.com/images/nWGVk8pX1kbphUeUH9soaziHVBz1-wj83355q.jpeg)
+If you are looking for a structural framework for dynamic applications, AngularJS is the ideal choice. 
 
 ### [90. Design Philosophies You Should Embrace When Creating Web Applications For Users With Disabilities](https://hackernoon.com/design-philosophies-you-should-embrace-when-creating-web-applications-for-users-with-disabilities)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-1th31mp.gif.webp)
 It might be challenging to create an accessible online application in.NET, but ensuring that all users can view your web content is critical. 
 
-### [91. From Platform Paralysis to Production: Why We Chose Netlify and Railway](https://hackernoon.com/from-platform-paralysis-to-production-why-we-chose-netlify-and-railway)
-![](https://cdn.hackernoon.com/images/5I0cM99pblO6ylG6e1azeitl5513-na23a39.png)
-Escape deployment platform paralysis:Why we chose Netlify+Railway for our FastAPI React app.
-
-### [92. 7 New CSS Features That Will Smoothen Your Web Development](https://hackernoon.com/7-new-css-features-that-will-smoothen-your-web-development)
+### [91. 7 New CSS Features That Will Smoothen Your Web Development](https://hackernoon.com/7-new-css-features-that-will-smoothen-your-web-development)
 ![](https://cdn.hackernoon.com/images/wpvXFGHGEBfULhtpljrFYq9VmDJ3-7193ob9.png)
 You all must be familiar with the importance of CSS. How is it an invertible part of web development? When a person decides to step ahead in web development, HT
+
+### [92. Choosing Between Debounce and Throttle - The Web App Duel](https://hackernoon.com/choosing-between-debounce-and-throttle-the-web-app-duel)
+![](https://cdn.hackernoon.com/images/L79Bn4QauxVT0oBr1v6HT1hm9Sg1-3p93rr9.jpeg)
+Elevate Your React or JavaScript-based Applications Performance to the Next Level with debounce and throttle techniques
 
 ### [93. How to Generate Test Code with Playwright](https://hackernoon.com/how-to-generate-test-code-with-playwright)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-gd93uic.jpeg)
 Today you will learn how to generate the code for your tests.
 
-### [94. Shall I Use ADD or COPY in the Dockerfile - What's the Difference?](https://hackernoon.com/shall-i-use-add-or-copy-in-the-dockerfile-whats-the-difference-ogr3t0l)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-vj4b3ulw.jpeg?alt=media&token=50a6bc7f-e2b5-492f-94cc-5df8a1c1c74c)
-Every developer and every team faces confusion about COPY and ADD in the Dockerfile at some point. When I get this question, first I usually give the technical background, which is this:
-
-### [95. Maximizing Accessibility in Your Web App with Filestack](https://hackernoon.com/maximizing-accessibility-in-your-web-app-with-filestack)
+### [94. Maximizing Accessibility in Your Web App with Filestack](https://hackernoon.com/maximizing-accessibility-in-your-web-app-with-filestack)
 ![](https://cdn.hackernoon.com/images/5unChxTmteXA0Tg5iBqQvBnMK492-rx93une.jpeg)
 Make your web app accessible to everyone with Filestack's features and tools for maximizing accessibility.
+
+### [95. Shall I Use ADD or COPY in the Dockerfile - What's the Difference?](https://hackernoon.com/shall-i-use-add-or-copy-in-the-dockerfile-whats-the-difference-ogr3t0l)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-vj4b3ulw.jpeg?alt=media&token=50a6bc7f-e2b5-492f-94cc-5df8a1c1c74c)
+Every developer and every team faces confusion about COPY and ADD in the Dockerfile at some point. When I get this question, first I usually give the technical background, which is this:
 
 ### [96. A New Chapter for Enterprise Low-Code: Transitioning to Open Source](https://hackernoon.com/a-new-chapter-for-enterprise-low-code-transitioning-to-open-source)
 ![](https://cdn.hackernoon.com/images/R2ag4GqSKMZmCQAv8V75xwfSfmi2-d8e3o49.png)
 Co-founder and CEO of Noodl, James Haliburton, announces their transition to an open-source model. This significant shift aims to empower developers and democra
 
-### [97. Choosing Between Debounce and Throttle - The Web App Duel](https://hackernoon.com/choosing-between-debounce-and-throttle-the-web-app-duel)
-![](https://cdn.hackernoon.com/images/L79Bn4QauxVT0oBr1v6HT1hm9Sg1-3p93rr9.jpeg)
-Elevate Your React or JavaScript-based Applications Performance to the Next Level with debounce and throttle techniques
-
-### [98. JavaScript Pie vs Bar Charts: Choose the Right Data Visualization Tool](https://hackernoon.com/javascript-pie-vs-bar-charts-choose-the-right-data-visualization-tool-szh32ju)
+### [97. JavaScript Pie vs Bar Charts: Choose the Right Data Visualization Tool](https://hackernoon.com/javascript-pie-vs-bar-charts-choose-the-right-data-visualization-tool-szh32ju)
 ![](https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Did you know that approximately 65% of people are visual learners? Hence, for most of us, pictures are easier to understand than text. For instance, the incumbent U.S. President prefers the information accompanied by visual aids like maps, charts, graphs, and photos, according to Reuters.
 
-### [99. 6 Key Benefits of Custom Web App Development](https://hackernoon.com/6-key-benefits-of-custom-web-app-development)
+### [98. 6 Key Benefits of Custom Web App Development](https://hackernoon.com/6-key-benefits-of-custom-web-app-development)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-v903710.jpeg)
 A well-designed custom web app needs creativity and planning. All we need to have is a clear understanding and vision of what we want to achieve to do it.
+
+### [99. How to Define an Active Menu Item in a Phoenix Framework Through Short-Circuit Evaluation](https://hackernoon.com/how-to-define-an-active-menu-item-in-a-phoenix-framework-through-short-circuit-evaluation)
+![](https://cdn.hackernoon.com/images/dZ3TG9R6Y7aVtcAYqwIkEWHvAah2-5t83kzx.jpeg)
+Use Elixir's short-circuit evaluation syntax to build lists and make it easier to define active menu item in Phoenix Framework.
 
 ### [100. Mobile or Web: What Platform Should You Launch Your App On?](https://hackernoon.com/mobile-or-web-what-platform-should-you-launch-your-app-on)
 ![](https://cdn.hackernoon.com/images/ZEXO22W1auWOWobkpmnuT1gqiIO2-8x037fr.png)
 Not sure what type of app you need and the budget is limited? Here we've explained the difference between web and mobile app Read the article to make a decision
 
-### [101. How to Define an Active Menu Item in a Phoenix Framework Through Short-Circuit Evaluation](https://hackernoon.com/how-to-define-an-active-menu-item-in-a-phoenix-framework-through-short-circuit-evaluation)
-![](https://cdn.hackernoon.com/images/dZ3TG9R6Y7aVtcAYqwIkEWHvAah2-5t83kzx.jpeg)
-Use Elixir's short-circuit evaluation syntax to build lists and make it easier to define active menu item in Phoenix Framework.
+### [101. Privacy Isn’t a Feature, It’s an Obligation](https://hackernoon.com/privacy-isnt-a-feature-its-an-obligation)
+![](https://cdn.hackernoon.com/images/ZPH1phY9EEX1BB6hjSNi0ds2zk03-qc9380y.jpeg)
+Privacy isn't optional. See how we built with per-user AES-256 encryption, private AI inference, and custom security review skills to protect relationships.
 
-### [102. This Web App Turns Any Image Into a Retro Fever Dream—No Photoshop Needed](https://hackernoon.com/this-web-app-turns-any-image-into-a-retro-fever-dreamno-photoshop-needed)
-![](https://cdn.hackernoon.com/images/rwA7IPj2F2NcuLHM6krzJfXXwIj1-g2839py.png)
-Explore advanced image editing techniques with color palettes, HSV model, contrast, and noise adjustments for enhanced creative control in photo manipulation.
-
-### [103. 3 Web Design Factors to Ponder Before Starting an E-commerce Venture](https://hackernoon.com/3-web-design-factors-to-ponder-before-starting-an-e-commerce-venture-lw2c316q)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2npbxc92MlU8q7vlUuQou0Fdir72-zw1x31mu.jpeg?alt=media&token=368141e3-f551-4aad-b622-07bfff62c1ba)
-Developing a website for an e-commerce venture is a process that needs to be done with deft care. Starting a website is easy, but to maintain it is the real deal. That's why you need to start the process with all the precautions and preparation as anything can go wrong. Web design and development is very difficult and can look impossible to perfect, especially for the newcomers.
-
-### [104. Optimizing Web Apps for High Traffic: Load Balancing, Caching, Database Performance](https://hackernoon.com/optimizing-web-apps-for-high-traffic-load-balancing-caching-database-performance)
+### [102. Optimizing Web Apps for High Traffic: Load Balancing, Caching, Database Performance](https://hackernoon.com/optimizing-web-apps-for-high-traffic-load-balancing-caching-database-performance)
 ![](https://cdn.hackernoon.com/images/oTZ8b9FUzDSBeVCoipwJ5IEuU823-se93t1r.jpeg)
 We live with the constant need for web apps to effectively process high volumes of data exchange. In this, we explore some tried and tested techniques to do so.
 
-### [105. How To Approach Custom Web App Development](https://hackernoon.com/how-to-approach-custom-web-app-development-m37j35ob)
+### [103. This Web App Turns Any Image Into a Retro Fever Dream—No Photoshop Needed](https://hackernoon.com/this-web-app-turns-any-image-into-a-retro-fever-dreamno-photoshop-needed)
+![](https://cdn.hackernoon.com/images/rwA7IPj2F2NcuLHM6krzJfXXwIj1-g2839py.png)
+Explore advanced image editing techniques with color palettes, HSV model, contrast, and noise adjustments for enhanced creative control in photo manipulation.
+
+### [104. From Platform Paralysis to Production: Why We Chose Netlify and Railway](https://hackernoon.com/from-platform-paralysis-to-production-why-we-chose-netlify-and-railway)
+![](https://cdn.hackernoon.com/images/5I0cM99pblO6ylG6e1azeitl5513-na23a39.png)
+Escape deployment platform paralysis:Why we chose Netlify+Railway for our FastAPI React app.
+
+### [105. 3 Web Design Factors to Ponder Before Starting an E-commerce Venture](https://hackernoon.com/3-web-design-factors-to-ponder-before-starting-an-e-commerce-venture-lw2c316q)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2npbxc92MlU8q7vlUuQou0Fdir72-zw1x31mu.jpeg?alt=media&token=368141e3-f551-4aad-b622-07bfff62c1ba)
+Developing a website for an e-commerce venture is a process that needs to be done with deft care. Starting a website is easy, but to maintain it is the real deal. That's why you need to start the process with all the precautions and preparation as anything can go wrong. Web design and development is very difficult and can look impossible to perfect, especially for the newcomers.
+
+### [106. How To Approach Custom Web App Development](https://hackernoon.com/how-to-approach-custom-web-app-development-m37j35ob)
 ![](https://cdn.hackernoon.com/images/z8w8Yavu0rMg2zqNVwJGkaVlTbA2-3gds33zg.jpeg)
 Web App Development is typically less resource-consuming since the web app development process can be much faster and easier.
 
-### [106. Dependency Injection with Symfony: Streamlining Code Management for Efficiency](https://hackernoon.com/dependency-injection-with-symfony-streamlining-code-management-for-efficiency)
+### [107. Dependency Injection with Symfony: Streamlining Code Management for Efficiency](https://hackernoon.com/dependency-injection-with-symfony-streamlining-code-management-for-efficiency)
 ![](https://cdn.hackernoon.com/images/9Lp56cU2QZNqCiTmaYPijWLLpdW2-4e93pj0.jpeg)
 Explore the capabilities of Symfony Dependency Injection and enhance your application's scalability with this insightful article.
 
-### [107. How To Protect Your Online Applications From Pass-the-Cookie Cyber Attacks](https://hackernoon.com/how-to-protect-your-online-applications-from-pass-the-cookie-cyber-attacks-ld5m35o1)
+### [108. How To Protect Your Online Applications From Pass-the-Cookie Cyber Attacks](https://hackernoon.com/how-to-protect-your-online-applications-from-pass-the-cookie-cyber-attacks-ld5m35o1)
 ![](https://cdn.hackernoon.com/images/kSf6yHsGdebbIJMdtcNxXs8OQGn1-dn1g33b8.jpeg)
 How to strengthen your online apps against cloud service attacks such as ‘pass-the-cookie’ attacks.
 
-### [108. Web Application Templates with Perfect Design in 2022](https://hackernoon.com/web-application-templates-with-perfect-design-in-2022)
+### [109. Web Application Templates with Perfect Design in 2022](https://hackernoon.com/web-application-templates-with-perfect-design-in-2022)
 ![](https://cdn.hackernoon.com/images/a2n9GodCotfUHvvM9KmOiHPmLci1-hh039kd.jpeg)
 This is our rating of the best Web App Templates. Keep reading to know which ones they are and how they can speed up and improve your web development practice!
 
-### [109. Building an AI-Powered Summarizer using NodeJS and ApyHub API To Make Meetings Easy](https://hackernoon.com/building-an-ai-powered-meeting-transcript-summarizer-using-nodejs-and-ai-api)
+### [110. Building an AI-Powered Summarizer using NodeJS and ApyHub API To Make Meetings Easy](https://hackernoon.com/building-an-ai-powered-meeting-transcript-summarizer-using-nodejs-and-ai-api)
 ![](https://cdn.hackernoon.com/images/iw96xFHYu5YYESkLFCussAQaVpj1-ut837ry.jpeg)
 Learn to build an AI-driven meeting transcript summarizer with NodeJS and ApyHub API. 
 
-### [110. Everything You Need to Know About Progressive Web Apps](https://hackernoon.com/everything-you-need-to-know-about-progressive-web-apps)
+### [111. Everything You Need to Know About Progressive Web Apps](https://hackernoon.com/everything-you-need-to-know-about-progressive-web-apps)
 ![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-5653o5t.jpeg)
 Will your company benefit from PWA development? Read who, when, and how should use it or should NOT. Find the PWA features support comparison in major platforms
 
-### [111. Making Front End Development a Piece of Cake with Webix](https://hackernoon.com/making-front-end-development-a-piece-of-cake-with-webix)
+### [112. Making Front End Development a Piece of Cake with Webix](https://hackernoon.com/making-front-end-development-a-piece-of-cake-with-webix)
 ![](https://cdn.hackernoon.com/images/6EORd3lScrVTxxVB0ulAUeFzv0E2-bva3h58.jpeg)
 What can help you to speed up the development process, and why is it Webix? Let's find out in the article!
 
-### [112. UNCTEC 2021, My Journey As A Programmer And My Biggest Success So Far](https://hackernoon.com/unctec-2021-my-journey-as-a-programmer-and-my-biggest-success-so-far-qku34bn)
+### [113. UNCTEC 2021, My Journey As A Programmer And My Biggest Success So Far](https://hackernoon.com/unctec-2021-my-journey-as-a-programmer-and-my-biggest-success-so-far-qku34bn)
 ![](https://hackernoon.com/images/fVuhe82SGbS3NBWFs8a56LqPcGG3-q7a37p1.jpeg)
 UNCTEC is the UN Model of Tec de Monterrey Cuernavaca and had its first vitual edition in March 2021.
 
-### [113. 7 Surprisingly Powerful Tips To Skyrocket Your Business With Progressive Web Apps](https://hackernoon.com/7-surprisingly-powerful-tips-to-skyrocket-your-business-with-progressive-web-apps-o3x3to9)
+### [114. 7 Surprisingly Powerful Tips To Skyrocket Your Business With Progressive Web Apps](https://hackernoon.com/7-surprisingly-powerful-tips-to-skyrocket-your-business-with-progressive-web-apps-o3x3to9)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXmbSypT6XAV8MmSSJ5f3kQTf7x93-n61q3uu0.jpeg?alt=media&token=9518330b-997e-4a44-a1d7-95a5ac5634c4)
 We all love mobile apps. They are easy to use owing to their great design; they are fast and provide a level of accessibility that neither the business nor the consumer can have with a conventional website.
 
-### [114. Should You Ever Build an App on Someone Else’s Platform? ](https://hackernoon.com/should-you-ever-build-an-app-on-someone-elses-platform-o93t33nl)
+### [115. Should You Ever Build an App on Someone Else’s Platform? ](https://hackernoon.com/should-you-ever-build-an-app-on-someone-elses-platform-o93t33nl)
 ![](https://cdn.hackernoon.com/images/rKocO3hoZmdF4gqcCmbPoRC7PeI3-tj1k33r7.jpeg)
 We've developed a Slack bot, but does it make good business sense to build an app on a platform wholly controlled by a bigger company?
 
-### [115. PHP Classes Use Case for Database Management in a Document Builder](https://hackernoon.com/php-classes-use-case-for-database-management-in-a-document-builder)
+### [116. PHP Classes Use Case for Database Management in a Document Builder](https://hackernoon.com/php-classes-use-case-for-database-management-in-a-document-builder)
 ![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-p093ry5.jpeg)
 App that uploads user content to be rendered as a sequentially paginated, accessible, performant, responsive design, illustrated serial content document
-
-### [116. Integrate Appwrite APIs and SDK for Svelte](https://hackernoon.com/integrate-appwrite-apis-and-sdk-for-svelte-uy6c310e)
-![](https://cdn.hackernoon.com/images/PS8hMJYbctWKb61wkjdO9AWa6fe2-bl2f31nq.jpeg)
-Appwrite announces the release of the Appwrite SDK for Svelte. This SDK joins other SDKs to integrate Appwrite with your web, mobile, and desktop apps.
 
 ### [117. Working With LLMs for a Whole Year: The Lessons I Picked Up Along the Way](https://hackernoon.com/working-with-llms-for-a-whole-year-the-lessons-i-picked-up-along-the-way)
 ![](https://cdn.hackernoon.com/images/L79Bn4QauxVT0oBr1v6HT1hm9Sg1-0b239ny.png)
 How Not to Mess Up Your AI Build (and Actually Save Time)
 
-### [118. How to Add a Dark Theme to a Web App Without Begging a Designer for Help](https://hackernoon.com/how-to-add-a-dark-theme-to-a-web-app-without-begging-a-designer-for-help)
-![](https://cdn.hackernoon.com/images/Xz7CchdsFuUl9RRNbfKhQp4qjGE3-hg639pn.jpeg)
-Find out how to add a dark theme to your web app by yourself. Improve accessibility of your application in a blink of an eye.
+### [118. Integrate Appwrite APIs and SDK for Svelte](https://hackernoon.com/integrate-appwrite-apis-and-sdk-for-svelte-uy6c310e)
+![](https://cdn.hackernoon.com/images/PS8hMJYbctWKb61wkjdO9AWa6fe2-bl2f31nq.jpeg)
+Appwrite announces the release of the Appwrite SDK for Svelte. This SDK joins other SDKs to integrate Appwrite with your web, mobile, and desktop apps.
 
 ### [119. Enhancing Application Stability and Security with Heroku Logplex](https://hackernoon.com/enhancing-application-stability-and-security-with-heroku-logplex)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-jz83wwz.jpeg)
 Enhance your app's stability, performance, and security with Heroku Logplex, a centralized logging solution for effective log management and analysis.
 
-### [120. Azure App Configuration for Advanced Feature Flag Management in ASP.NET Core](https://hackernoon.com/azure-app-configuration-for-advanced-feature-flag-management-in-aspnet-core)
+### [120. How to Add a Dark Theme to a Web App Without Begging a Designer for Help](https://hackernoon.com/how-to-add-a-dark-theme-to-a-web-app-without-begging-a-designer-for-help)
+![](https://cdn.hackernoon.com/images/Xz7CchdsFuUl9RRNbfKhQp4qjGE3-hg639pn.jpeg)
+Find out how to add a dark theme to your web app by yourself. Improve accessibility of your application in a blink of an eye.
+
+### [121. Azure App Configuration for Advanced Feature Flag Management in ASP.NET Core](https://hackernoon.com/azure-app-configuration-for-advanced-feature-flag-management-in-aspnet-core)
 ![](https://cdn.hackernoon.com/images/sHlS9kz5JWgDC6Irc6Iw1ZTwUGE2-2hd30ep.jpeg)
 Learn how to use Feature Flags in ASP.NET Core apps and read values from Azure App Configuration.
-
-### [121. A Closer Look at the Web Accessibility Initiative](https://hackernoon.com/a-closer-look-at-the-web-accessibility-initiative)
-![](https://cdn.hackernoon.com/images/usLqJmqUA2b5joa695sCkWq4hKD3-ha93yok.jpeg)
-Discover the significance of the Web Accessibility Initiative (WAI) in creating an inclusive online space for all users.
 
 ### [122. Developing Web Apps on Product Hunt with Nima Owji, 2021 Noonies Nominee](https://hackernoon.com/developing-web-apps-on-product-hunt-with-nima-owji-2021-noonies-nominee)
 ![](https://cdn.hackernoon.com/images/A0JT0kWjB2UTOGzv9jXoh17Xc5H2-860396o.jpeg)
@@ -500,39 +504,43 @@ Hey Everybody! I’m Nima Owji. I’m a web developer and app researcher.
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-o9b2ckr.jpeg)
 In this post, I'll describe the reason behind sticky sessions, available alternatives, and how to implement them via Apache APISIX.
 
-### [124. 4 reasons to use React in your next Frontend Project](https://hackernoon.com/4-reasons-to-use-react-in-your-next-frontend-project)
+### [124. A Closer Look at the Web Accessibility Initiative](https://hackernoon.com/a-closer-look-at-the-web-accessibility-initiative)
+![](https://cdn.hackernoon.com/images/usLqJmqUA2b5joa695sCkWq4hKD3-ha93yok.jpeg)
+Discover the significance of the Web Accessibility Initiative (WAI) in creating an inclusive online space for all users.
+
+### [125. 4 reasons to use React in your next Frontend Project](https://hackernoon.com/4-reasons-to-use-react-in-your-next-frontend-project)
 ![](https://cdn.hackernoon.com/images/WXXGGd4rPWYhtAZUmeftwq2hnlC2-yz436ey.jpeg)
 With all its stardom and technical excellence, React will remain the superstar of web app development. However, one of the most significant aspects of using Rea
 
-### [125. What Lessons We Learn From Creating Healthcare Web App](https://hackernoon.com/what-lessons-we-learn-from-creating-healthcare-web-app-im2q3ug5)
+### [126. What Lessons We Learn From Creating Healthcare Web App](https://hackernoon.com/what-lessons-we-learn-from-creating-healthcare-web-app-im2q3ug5)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNx4D7w44LoYJrGfOa8EqoB3jcFE2-8b4c3us4.jpeg?alt=media&token=40566b42-ae87-4ffe-a64e-b2dcfd148cb8)
 Since the healthcare topic is quite popular now, I decided to share with you our exciting experience in developing a web application for patients. It was a large and severe project which IntexSoft’s (the company I work in) team was working on for several years.
 
-### [126. Website vs Web App: Which Is The Right One For Your Business](https://hackernoon.com/website-vs-web-app-which-is-the-right-one-for-your-business-836d3548)
+### [127. Website vs Web App: Which Is The Right One For Your Business](https://hackernoon.com/website-vs-web-app-which-is-the-right-one-for-your-business-836d3548)
 ![](https://hackernoon.com/images/8LMGRWBB5OPe2sLuyoeotvZCkOL2-sl2u333h.jpeg)
 Yes, there are differences between websites and web apps – some subtle, others quite distinct – and you do need to understand them to get those tasty benefits.
 
-### [127. Using Lazy Loadable Components Can Lead to CLS Duality and Slow Connections](https://hackernoon.com/using-lazy-loadable-components-can-lead-to-cls-duality-and-slow-connections)
+### [128. Using Lazy Loadable Components Can Lead to CLS Duality and Slow Connections](https://hackernoon.com/using-lazy-loadable-components-can-lead-to-cls-duality-and-slow-connections)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-v693ha7.jpeg)
 Why lazy loadable components can cause CLS on slower connections and how to prevent it.
 
-### [128. Off to the Races: 3 Effective Strategies to Mitigate Race Conditions](https://hackernoon.com/off-to-the-races-3-effective-strategies-to-mitigate-race-conditions)
+### [129. Off to the Races: 3 Effective Strategies to Mitigate Race Conditions](https://hackernoon.com/off-to-the-races-3-effective-strategies-to-mitigate-race-conditions)
 ![](https://cdn.hackernoon.com/images/9sASmBtFWlMkHgytNFUV0pp0rSp2-7n93xod.jpeg)
 The right strategies can help you avoid race conditions. Learn 3 ways to combat them from Aha! principal software engineer Kyle d'Oliveira.
 
-### [129. The Noonification: Laravel Envoy - How to Automate the Boring Stuff (7/10/2024)](https://hackernoon.com/7-10-2024-noonification)
+### [130. The Noonification: Laravel Envoy - How to Automate the Boring Stuff (7/10/2024)](https://hackernoon.com/7-10-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_867_ur0csyh91vnshdqe9dk5q6sh.png)
 7/10/2024: Top 5 stories on the HackerNoon homepage!
 
-### [130. App Gạo is a New & Digitized Charity Experience](https://hackernoon.com/app-gao-is-a-new-and-digitalized-charity-experience)
+### [131. App Gạo is a New & Digitized Charity Experience](https://hackernoon.com/app-gao-is-a-new-and-digitalized-charity-experience)
 ![](https://cdn.hackernoon.com/images/5TxSKeAF3CcWXWmY7W61z1Gfdib2-mw2374p.jpeg)
 In the times of COVID-19, how do we help others and ensure that we give them the help that they need? Here's how some Vietnamese students managed to do it.
 
-### [131. Storybook V2 Comic Book Builder: Part 3, A Comic Book Result](https://hackernoon.com/storybook-v2-comic-book-builder-part-3-a-comic-book-result)
+### [132. Storybook V2 Comic Book Builder: Part 3, A Comic Book Result](https://hackernoon.com/storybook-v2-comic-book-builder-part-3-a-comic-book-result)
 ![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-cs93ri4.jpeg)
 This is an Example Comic Book, “Hyenas2” that resulted from a sequentially paginated, accessible, performant, responsive design, illustrated serial content docu
 
-### [132. Common Web App Design Mistakes (and How to Actually Fix Them)](https://hackernoon.com/common-web-app-design-mistakes-and-how-to-actually-fix-them)
+### [133. Common Web App Design Mistakes (and How to Actually Fix Them)](https://hackernoon.com/common-web-app-design-mistakes-and-how-to-actually-fix-them)
 ![](https://cdn.hackernoon.com/images/web-design-abstract-a3mhb3vc0fw47qmf0b40p33c.png)
 So before your next big launch, let’s walk through the most common web app design mistakes that trip developers up. 
 

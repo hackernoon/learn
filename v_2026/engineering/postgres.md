@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [postgres](https://hackernoon.com/tagged/postgres)
+### Let's learn about [Postgres](https://hackernoon.com/tagged/postgres) via these 71 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Postgres is a short-hand for PostgreSQL, a robust open-source object-relational database system acclaimed for its reliability, feature set, and performance. It's a go-to choice for complex data management needs in many applications and enterprises.
+
 ### [1. Using Postgres Effectively in Spring Boot Applications](https://hackernoon.com/using-postgres-effectively-in-spring-boot-applications)
 ![](https://cdn.hackernoon.com/images/a16j1YV6cXc33fiuCa00z09Aqgs2-8ta3rey.jpeg)
 Spring Boot supports Postgres. Just add dependencies, create a database, connect to it, and create an entity, repository, and controller.
@@ -57,21 +61,21 @@ Discover the challenges of PostgreSQL's traditional TOAST mechanism for data com
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FobVckMvRNjQOwaNCSENwevHESfo1-gi3c3t7z.jpeg?alt=media&token=aa0b9cc3-14c7-4f8d-aafb-b36858789ed2)
 PGSync is a change data capture tool for moving data from Postgres to Elasticsearch. It allows you to keep Postgres as your source-of-truth and expose structured denormalized documents in Elasticsearch.
 
-### [15. Introducing Agentic Postgres, the Database for AI Agents](https://hackernoon.com/introducing-agentic-postgres-the-database-for-ai-agents)
-![](https://cdn.hackernoon.com/images/e4ofSuQppSUsutiFu2ksDnDqqEf1-5813bql.png)
-Tiger Data launches Agentic Postgres, the database built for agents. Instant database forks, native vector + BM25 search, MCP for AI agents. Start Free.
-
-### [16. PostgreSQL Table Partitioning: Boosting Performance and Management](https://hackernoon.com/postgresql-table-partitioning-boosting-performance-and-management)
+### [15. PostgreSQL Table Partitioning: Boosting Performance and Management](https://hackernoon.com/postgresql-table-partitioning-boosting-performance-and-management)
 ![](https://cdn.hackernoon.com/images/ab2g0DBp0TdSueYypDOFv02tQX93-mwa3a2q.jpeg)
 Partitioning is a powerful way to boost your PostgreSQL performance, but it's not a one-size-fits-all. Learn if PostgreSQL partitioning is a solution for you. 
 
-### [17. How To Decode Django Sessions in PostgreSQL](https://hackernoon.com/how-to-decode-django-sessions-in-postgresql-k81133ni)
+### [16. How To Decode Django Sessions in PostgreSQL](https://hackernoon.com/how-to-decode-django-sessions-in-postgresql-k81133ni)
 ![](https://cdn.hackernoon.com/images/87TektCts2aPzLfLjzdBJnicMFK2-j2g331v.jpeg)
 When solving a problem that requires you to link a user's session data to their actual user object, Postgres comes in handy.
 
-### [18. Connecting GraphQL with Java Spring Boot and Postgres or MySQL](https://hackernoon.com/connecting-graphql-with-java-spring-boot-and-postgres-or-mysql-gfan3y6o)
+### [17. Connecting GraphQL with Java Spring Boot and Postgres or MySQL](https://hackernoon.com/connecting-graphql-with-java-spring-boot-and-postgres-or-mysql-gfan3y6o)
 ![](https://cdn.hackernoon.com/images/cmls3yzm.jpg)
 GraphQL is revolutionising the way developers build APIs. It lets you query precisely what you want. Nothing more, nothing less! It also gives you the flexibility to query related objects in a single round trip, unlike the REST APIs. 
+
+### [18. Introducing Agentic Postgres, the Database for AI Agents](https://hackernoon.com/introducing-agentic-postgres-the-database-for-ai-agents)
+![](https://cdn.hackernoon.com/images/e4ofSuQppSUsutiFu2ksDnDqqEf1-5813bql.png)
+Tiger Data launches Agentic Postgres, the database built for agents. Instant database forks, native vector + BM25 search, MCP for AI agents. Start Free.
 
 ### [19. Streamlining Your Django Development Environment with Docker Containers](https://hackernoon.com/streamlining-your-django-development-environment-with-docker-containers)
 ![](https://cdn.hackernoon.com/images/i8wjiA7B7Jgx14UpIdWex1e5TiZ2-hg92ojk.jpeg)
@@ -109,13 +113,13 @@ Ever wondered how streams are working in Node.js? I had. So far I know that usin
 ![](https://cdn.hackernoon.com/images/W8O8r27oUwUryhNHNMOvKfQBLNn2-nb1e33jt.jpeg)
 The purpose of this article is not to determine which database is the best but to help determine which is a fit for your specific project. 
 
-### [28. Introduction to RDS Proxy: Exploring with Benchmarks in Go](https://hackernoon.com/introduction-to-rds-proxy-exploring-with-benchmarks-in-go-82u34rl)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-yyw28of.jpeg)
-A deep dive into the performance characteristics of RDS Proxy vs RDS
-
-### [29. How To Create A User Portal On Airtable With Sync Inc And React](https://hackernoon.com/how-to-create-a-user-portal-on-airtable-with-sync-inc-and-react-nd1c35h9)
+### [28. How To Create A User Portal On Airtable With Sync Inc And React](https://hackernoon.com/how-to-create-a-user-portal-on-airtable-with-sync-inc-and-react-nd1c35h9)
 ![](https://cdn.hackernoon.com/images/nUXzVZ9txdgpJy0AIouC9R4THH13-5w9r327s.png)
 In this tutorial, you’ll see how to build a scalable, secure, and flexible client portal on Airtable using Sync Inc, Cotter, and Next.js.
+
+### [29. Introduction to RDS Proxy: Exploring with Benchmarks in Go](https://hackernoon.com/introduction-to-rds-proxy-exploring-with-benchmarks-in-go-82u34rl)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-yyw28of.jpeg)
+A deep dive into the performance characteristics of RDS Proxy vs RDS
 
 ### [30. An In-depth Look Into MySQL Vs. PostgreSQL](https://hackernoon.com/an-in-depth-look-into-mysql-vs-postgresql)
 ![](https://cdn.hackernoon.com/images/MPssFvtaIoei47vjzmnRtmTNFAk1-3q92lpe.jpeg)
@@ -141,15 +145,15 @@ As the leading fulfilment platform for digital commerce in India, Delhivery fulf
 ![](https://cdn.hackernoon.com/images/beblZEhJ1PWLoW3RKjMA8bH69ug1-jt83284.jpeg)
 Learn how to streamline database management by building a CRUD app with Node.js, PostgreSQL, and Prisma in this comprehensive guide.
 
-### [36. Top 12 FAQs About PostgreSQL](https://hackernoon.com/top-12-faqs-about-postgresql-je263uwk)
+### [36. Percentile Approximation Vs. Averages](https://hackernoon.com/percentile-approximation-vs-averages)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-zq13o6g.jpeg)
+Get a primer on percentile approximations and why they're useful for time-series data analysis.
+
+### [37. Top 12 FAQs About PostgreSQL](https://hackernoon.com/top-12-faqs-about-postgresql-je263uwk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaHcUME45O0Sw3JLt9OGFJpazIvO2-zkf28bk.jpeg?alt=media&token=04b451dd-90f1-42de-a416-082eee2c0c14)
 PostgreSQL is an open-source, object-relational database management 
 system (ORDBMS) available for all major platforms including Linux, UNIX,
  Windows, and OS X. It allows you to add custom functions developed using different programming languages  such as C/C++, Java, etc. It is designed to handle a range of workloads, from single machines to data warehouses or Web services with many concurrent users. It is the default database for macOS Server.
-
-### [37. Percentile Approximation Vs. Averages](https://hackernoon.com/percentile-approximation-vs-averages)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-zq13o6g.jpeg)
-Get a primer on percentile approximations and why they're useful for time-series data analysis.
 
 ### [38. Changing Database Column in Rails 5](https://hackernoon.com/changing-database-column-in-rails-5-6y1cq3ye7)
 ![](https://cdn.hackernoon.com/images/o117s3y97.jpg)
@@ -179,25 +183,25 @@ An exploration of AlloyDB's architecture and design, focussing on its storage en
 ![](https://cdn.hackernoon.com/images/HLrsBayFqhcB1EmVxXEK9dpIzRv2-w1d3qqu.jpeg)
 This small golang mistake could cost your business a million-dollar problem. You could easily avoid the mistake read the blog
 
-### [45. How to Build a Decoupled Microservice Using Materialize](https://hackernoon.com/how-to-build-a-decoupled-microservices-using-materialize)
-![](https://cdn.hackernoon.com/images/tRW6o57hoNezh0iZnOdGsW3dKI02-ni93ilt.jpeg)
-One way to handle data in microservice architectures is to use decoupled microservices architecture. This form of architecture can bring many benefits.
+### [45. Debugging with Render: Two Effective Methods](https://hackernoon.com/debugging-with-render-two-effective-methods)
+![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-fon2pgs.jpeg)
+When you use Render to deploy your Node.js application with Postgres database, you can debug easily with integrated tools like Datadog and Log Streams.
 
 ### [46. Here's How Developers Can Ensure Sensitive Data Does Not Accidentally Reach Another Device](https://hackernoon.com/heres-how-developers-can-ensure-sensitive-data-does-not-accidentally-reach-another-device)
 ![](https://cdn.hackernoon.com/images/6aLeZwiW4uMXV3ZJYpqEoQagebM2-820349i.jpeg)
 This tutorial will walk you through how to build a Remix app using Clerk as an authentication layer.
 
-### [47. Debugging with Render: Two Effective Methods](https://hackernoon.com/debugging-with-render-two-effective-methods)
-![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-fon2pgs.jpeg)
-When you use Render to deploy your Node.js application with Postgres database, you can debug easily with integrated tools like Datadog and Log Streams.
+### [47. How to Build a Decoupled Microservice Using Materialize](https://hackernoon.com/how-to-build-a-decoupled-microservices-using-materialize)
+![](https://cdn.hackernoon.com/images/tRW6o57hoNezh0iZnOdGsW3dKI02-ni93ilt.jpeg)
+One way to handle data in microservice architectures is to use decoupled microservices architecture. This form of architecture can bring many benefits.
 
-### [48. Efficient Database Migration with Dynamic Queries ](https://hackernoon.com/efficient-database-migration-with-dynamic-queries)
-![](https://cdn.hackernoon.com/images/JVuR2U7vEzdHAibZhEVpkxrPcq62-xr93ltn.gif.webp)
-
-
-### [49. Location, Location, Location! PostGIS and Heroku Postgres](https://hackernoon.com/location-location-location-postgis-and-heroku-postgres)
+### [48. Location, Location, Location! PostGIS and Heroku Postgres](https://hackernoon.com/location-location-location-postgis-and-heroku-postgres)
 ![](https://cdn.hackernoon.com/images/locations-on-a-map-ub0odfn0vbz772e3eicq5zjt.png)
 In this article, I’ll show you how to get a PostGIS-enabled Postgres instance running on Heroku. Then, I’ll run some sample queries on the database,
+
+### [49. Efficient Database Migration with Dynamic Queries ](https://hackernoon.com/efficient-database-migration-with-dynamic-queries)
+![](https://cdn.hackernoon.com/images/JVuR2U7vEzdHAibZhEVpkxrPcq62-xr93ltn.gif.webp)
+
 
 ### [50. How to Set up a Heroku Postgres Database with Librato](https://hackernoon.com/how-to-set-up-a-heroku-postgres-database-with-librato-xl2v31gl)
 ![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-8te31zc.jpeg)
@@ -231,13 +235,13 @@ Learn how time-weighted averages are calculated, why they’re so powerful for d
 ![](https://cdn.hackernoon.com/images/YK5sesApjfYn5xLqQleCGoS3F1G2-04g3hx3.jpeg)
 This article will show you a real-life optimization story and how PostgreSQL row count estimation can go very wrong when trying to get a faster query plan
 
-### [58. How to Test Your Postgres Business Logic with Jest Plugin](https://hackernoon.com/test-postgres-with-jest-plugin-only)
-![](https://cdn.hackernoon.com/images/RxSPwEmdsEecWuUEMTXHzk0SkQU2-3593o61.jpeg)
-With great power comes great responsibility and the bigger the project gets the easier it is to break something. Therefore you should test Postgres logic!
-
-### [59. SQL Databases Vs. NOSQL Databases](https://hackernoon.com/sql-databases-vs-nosql-databases-ja3g3yy9)
+### [58. SQL Databases Vs. NOSQL Databases](https://hackernoon.com/sql-databases-vs-nosql-databases-ja3g3yy9)
 ![](https://cdn.hackernoon.com/drafts/i61hj2ep2.png)
 The decision to choose a database  for project is not that simple. But when it comes to choosing a database, the biggest decisions is picking a relational (SQL) or non-relational (NoSQL) data structure.
+
+### [59. How to Test Your Postgres Business Logic with Jest Plugin](https://hackernoon.com/test-postgres-with-jest-plugin-only)
+![](https://cdn.hackernoon.com/images/RxSPwEmdsEecWuUEMTXHzk0SkQU2-3593o61.jpeg)
+With great power comes great responsibility and the bigger the project gets the easier it is to break something. Therefore you should test Postgres logic!
 
 ### [60. Tutorial: Build AdonisJS API to store your Raspberry Pi Temperature](https://hackernoon.com/tutorial-build-adonisjs-api-to-store-your-raspberry-pi-temperature)
 ![](https://cdn.hackernoon.com/images/tRW6o57hoNezh0iZnOdGsW3dKI02-e2039gt.jpeg)
@@ -256,13 +260,13 @@ Let's walk through this journey. My journey. Maybe it helps someone else avoid t
 ![](https://cdn.hackernoon.com/images/y1WdnXcY6SeRgxHTuQD8HWkMV4L2-8bx35ej.jpeg)
 Express is one of the most popular JavaScript frameworks for building backend APIs and Postgres is a really popular relational database. How do we connect them?
 
-### [64. Scaling Ory Hydra to Two Billion Monthly OAuth2 Flows on a Single PostgreSQL DB](https://hackernoon.com/scaling-ory-hydra-to-two-billion-monthly-oauth2-flows-on-a-single-postgresql-db)
-![](https://cdn.hackernoon.com/images/lDxjeQ5BAlb0tdnXpfJxSsKnz783-qh93n3r.jpeg)
-Ory Hydra is a popular open-source OAuth2 and OpenID Connect server that provides secure authentication and authorization for applications. 
-
-### [65. SQL Data Modification Commands With Examples: A Fast and Easy Guide](https://hackernoon.com/sql-data-modification-commands-with-examples-a-fast-and-easy-guide)
+### [64. SQL Data Modification Commands With Examples: A Fast and Easy Guide](https://hackernoon.com/sql-data-modification-commands-with-examples-a-fast-and-easy-guide)
 ![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-c203ez4.png)
 In this article, we’ll explore these commands with practical examples.
+
+### [65. Scaling Ory Hydra to Two Billion Monthly OAuth2 Flows on a Single PostgreSQL DB](https://hackernoon.com/scaling-ory-hydra-to-two-billion-monthly-oauth2-flows-on-a-single-postgresql-db)
+![](https://cdn.hackernoon.com/images/lDxjeQ5BAlb0tdnXpfJxSsKnz783-qh93n3r.jpeg)
+Ory Hydra is a popular open-source OAuth2 and OpenID Connect server that provides secure authentication and authorization for applications. 
 
 ### [66. New WAL Archiving Tool ‘pgrwl’ Delivers Zero Data Loss for PostgreSQL in Containerized Environments](https://hackernoon.com/new-wal-archiving-tool-pgrwl-delivers-zero-data-loss-for-postgresql-in-containerized-environments)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8302xqu.jpeg)

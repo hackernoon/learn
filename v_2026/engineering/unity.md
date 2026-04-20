@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [unity](https://hackernoon.com/tagged/unity)
+### Let's learn about [Unity](https://hackernoon.com/tagged/unity) via these 103 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Game development in Unity FTW!
 
 ### [1. 6 Best WebGL Libraries for Perfect 3D Web Graphics](https://hackernoon.com/6-best-webgl-libraries-for-perfect-3d-web-graphics)
@@ -63,13 +65,13 @@ Explore the world of Unity AI and learn how to design smart NPCs and enemy behav
 ![](https://cdn.hackernoon.com/images/rrt6IgK8skZjRRFXMecCXxLN5Pm1-2ce4rns.jpeg)
 We consider the main ways of asynchronous programming in Unity: discuss pros and cons, illustrate code examples, and show practical examples.
 
-### [16. How to Create a 2D Character Controller in Unity: Part 1](https://hackernoon.com/how-to-create-a-2d-character-controller-in-unity-part-1)
-![](https://cdn.hackernoon.com/images/6ZjcKcI9g0Z82M6fsOifYDYB5t33-ehl32eh.jpeg)
-Explore creating a 2D character controller in Unity 2023 with our new tutorial. Learn to integrate physics and movement for your platformer game.
-
-### [17. Creating a 2D Platformer in Unity: The Beginning](https://hackernoon.com/creating-a-2d-platformer-in-unity-the-beginning)
+### [16. Creating a 2D Platformer in Unity: The Beginning](https://hackernoon.com/creating-a-2d-platformer-in-unity-the-beginning)
 ![](https://cdn.hackernoon.com/images/6ZjcKcI9g0Z82M6fsOifYDYB5t33-kzn32ou.jpeg)
 Dive into game development with our guide on creating a 2D platformer in Unity. Learn the essentials of setting up, designing levels, and more. Start now!
+
+### [17. How to Create a 2D Character Controller in Unity: Part 1](https://hackernoon.com/how-to-create-a-2d-character-controller-in-unity-part-1)
+![](https://cdn.hackernoon.com/images/6ZjcKcI9g0Z82M6fsOifYDYB5t33-ehl32eh.jpeg)
+Explore creating a 2D character controller in Unity 2023 with our new tutorial. Learn to integrate physics and movement for your platformer game.
 
 ### [18. Using an Enum-Based Event Bus Pattern In Unity](https://hackernoon.com/using-an-enum-based-event-bus-pattern-in-unity)
 ![](https://cdn.hackernoon.com/images/rrt6IgK8skZjRRFXMecCXxLN5Pm1-8e94rja.jpeg)
@@ -107,13 +109,13 @@ From concept to playable environments, explore level design in Unity and learn t
 ![](https://cdn.hackernoon.com/images/ogLjQOI8STUK2kIzi4UX9fhl1za2-oda3ya5.jpeg)
 Learn how to optimize the performance of your Unity games and boost FPS for a smoother gameplay experience.
 
-### [27. Build NFT Games "Play to Earn" With Unity in 2022](https://hackernoon.com/build-nft-games-play-to-earn-with-unity-in-2022)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-uf92ajb.jpeg)
-Would you like to create your own NFT based games, With the release of Unity 8.6 and its built-in support for NFTs. we'll take a look at how Unity can be used.
-
-### [28. Unity, Unreal Remain Popular Game Engines Among Developers But What Do Indie Studios Use?](https://hackernoon.com/unity-unreal-remain-popular-game-engines-among-developers-but-what-do-indie-studios-use)
+### [27. Unity, Unreal Remain Popular Game Engines Among Developers But What Do Indie Studios Use?](https://hackernoon.com/unity-unreal-remain-popular-game-engines-among-developers-but-what-do-indie-studios-use)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-px92gap.jpeg)
 We break down professional game developer profiles based on the studios they work for. Are you one of them?
+
+### [28. Build NFT Games "Play to Earn" With Unity in 2022](https://hackernoon.com/build-nft-games-play-to-earn-with-unity-in-2022)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-uf92ajb.jpeg)
+Would you like to create your own NFT based games, With the release of Unity 8.6 and its built-in support for NFTs. we'll take a look at how Unity can be used.
 
 ### [29. Exploring Unity DOTS and ECS: Is it a Game Changer?](https://hackernoon.com/exploring-unity-dots-and-ecs-is-it-a-game-changer)
 ![](https://cdn.hackernoon.com/images/6ZjcKcI9g0Z82M6fsOifYDYB5t33-dag3r88.jpeg)
@@ -147,33 +149,33 @@ Explore how the power of analytics propels game balancing and tuning, unveiling 
 ![](https://cdn.hackernoon.com/images/jtVLKrro4baVKcPoJLGgxbXiw3F2-xd93yix.jpeg)
 Unveil game-changing insights and trends with hidden gems of game analytics. Empower game developers with data-driven strategies for success.
 
-### [37. The Science Behind the Fun: Why Game Analytics Matter in Modern Game Development](https://hackernoon.com/the-science-behind-the-fun-why-game-analytics-matter-in-modern-game-development)
-![](https://cdn.hackernoon.com/images/z5L7cZprQRgVvL7bpydqTnZfaqu1-7893wsm.jpeg)
-Uncover the science behind the fun! Explore why game analytics matter in modern development, driving data-driven decisions and optimizing player experiences.
-
-### [38. Monetizing Your Unity Games: Strategies for Success](https://hackernoon.com/monetizing-your-unity-games-strategies-for-success)
+### [37. Monetizing Your Unity Games: Strategies for Success](https://hackernoon.com/monetizing-your-unity-games-strategies-for-success)
 ![](https://cdn.hackernoon.com/images/CLJGRgOwFwc1ixXJRlMWRRfsjQY2-xl931h5.jpeg)
 Monetize Unity games for success with strategies like in-app purchases, ads, subscriptions, and user engagement.
+
+### [38. The Science Behind the Fun: Why Game Analytics Matter in Modern Game Development](https://hackernoon.com/the-science-behind-the-fun-why-game-analytics-matter-in-modern-game-development)
+![](https://cdn.hackernoon.com/images/z5L7cZprQRgVvL7bpydqTnZfaqu1-7893wsm.jpeg)
+Uncover the science behind the fun! Explore why game analytics matter in modern development, driving data-driven decisions and optimizing player experiences.
 
 ### [39. Memory Mastery: Comparing Unity and .NET Garbage Collection](https://hackernoon.com/memory-mastery-comparing-unity-and-net-garbage-collection)
 ![](https://cdn.hackernoon.com/images/rrt6IgK8skZjRRFXMecCXxLN5Pm1-hre4rrg.jpeg)
 Learn the differences between garbage collection in Unity and .NET, then go deep into the specifics of memory management in Unity.
 
-### [40. Mastering Unity's Coroutines](https://hackernoon.com/mastering-unitys-coroutines)
-![](https://cdn.hackernoon.com/images/hxgB3A2KjtPk4sJXB1ezGnusKBx1-cg93tvo.jpeg)
-Coroutines is one of the easiest ways to implement asynchronous behavior in your game. Learning this building block is a must for any aspiring game developer. 
-
-### [41. Rider 2023.1: Discovering New Features for Unity Developers](https://hackernoon.com/rider-20231-release-discovering-new-features-for-unity-developers)
+### [40. Rider 2023.1: Discovering New Features for Unity Developers](https://hackernoon.com/rider-20231-release-discovering-new-features-for-unity-developers)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-phb3rlz.gif.webp)
 Rider 2023.1 enhances Unity dev experience with Android debugging via USB, UI Toolkit templates & DOTS support, making it a top IDE for Unity developers.
 
-### [42. Creating a Troll-Free Oasis: Preventing Trolling in Your Game from the Ground Up](https://hackernoon.com/creating-a-troll-free-oasis-preventing-trolling-in-your-game-from-the-ground-up)
-![](https://cdn.hackernoon.com/images/a2VF9enqB4aFgm50MRRoNNLHuC62-bk93yqo.jpeg)
-Build a troll-free gaming community. Learn strategies, moderation, and fostering positivity for an inclusive and enjoyable experience.
+### [41. Mastering Unity's Coroutines](https://hackernoon.com/mastering-unitys-coroutines)
+![](https://cdn.hackernoon.com/images/hxgB3A2KjtPk4sJXB1ezGnusKBx1-cg93tvo.jpeg)
+Coroutines is one of the easiest ways to implement asynchronous behavior in your game. Learning this building block is a must for any aspiring game developer. 
 
-### [43. Unity Realtime Multiplayer, Part 7: Architectures in Different Genres](https://hackernoon.com/unity-realtime-multiplayer-part-7-architectures-in-different-genres)
+### [42. Unity Realtime Multiplayer, Part 7: Architectures in Different Genres](https://hackernoon.com/unity-realtime-multiplayer-part-7-architectures-in-different-genres)
 ![](https://cdn.hackernoon.com/images/rrt6IgK8skZjRRFXMecCXxLN5Pm1-wr94uxf.png)
 Network architecture patterns impact player interactions and but come with their own pros and cons. The choice depends on the genre and interaction scenarios. 
+
+### [43. Creating a Troll-Free Oasis: Preventing Trolling in Your Game from the Ground Up](https://hackernoon.com/creating-a-troll-free-oasis-preventing-trolling-in-your-game-from-the-ground-up)
+![](https://cdn.hackernoon.com/images/a2VF9enqB4aFgm50MRRoNNLHuC62-bk93yqo.jpeg)
+Build a troll-free gaming community. Learn strategies, moderation, and fostering positivity for an inclusive and enjoyable experience.
 
 ### [44. The Hacker's Nemesis: Strengthening Game Security to Ward Off Intrusions](https://hackernoon.com/the-hackers-nemesis-strengthening-game-security-to-ward-off-intrusions)
 ![](https://cdn.hackernoon.com/images/5unChxTmteXA0Tg5iBqQvBnMK492-bia3chb.jpeg)
@@ -255,13 +257,13 @@ Create an augmented reality (AR) face swapping demo application with Unity, AR F
 ![](https://cdn.hackernoon.com/images/JeBgHPQeI0WmFOLxM1PhW4kJs9L2-yb93tkb.jpeg)
 My team & I was working on an AR&VR project — around mid-2017, the most difficult problem that we faced was integrating custom payment gateways to our app.
 
-### [64. The Unity Writing Contest: Round 1 Finalists Announced!](https://hackernoon.com/the-unity-writing-contest-round-1-finalists-announced)
-![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-5l9303g.jpeg)
-It’s time to celebrate the amazing content pieces shortlisted as finalists for the first round of the Unity Writing Contest by Tatum Games and HackerNoon! 
-
-### [65. The Unity Writing Contest: Round 3 Finalists Announced!](https://hackernoon.com/the-unity-writing-contest-round-3-finalists-announced)
+### [64. The Unity Writing Contest: Round 3 Finalists Announced!](https://hackernoon.com/the-unity-writing-contest-round-3-finalists-announced)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-jq93vmq.jpeg)
 HackerNoon and Tatum Games are happy to announce the finalists for the third and final round of the Unity Writing Contest!
+
+### [65. The Unity Writing Contest: Round 1 Finalists Announced!](https://hackernoon.com/the-unity-writing-contest-round-1-finalists-announced)
+![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-5l9303g.jpeg)
+It’s time to celebrate the amazing content pieces shortlisted as finalists for the first round of the Unity Writing Contest by Tatum Games and HackerNoon! 
 
 ### [66. 5 Mind-Blowing Real-World Applications Made with Unity — Taking Gaming Technology to the Next Level!](https://hackernoon.com/5-mind-blowing-real-world-applications-made-with-unity-taking-gaming-technology-to-the-next-level)
 ![](https://cdn.hackernoon.com/images/u2k77ByJr5VLCUMKNSByrygxHl93-zw93q9y.jpeg)
@@ -357,41 +359,41 @@ I spoke to their excellent game AI engineer Alessia Nigretti to get some insight
 ![](https://cdn.hackernoon.com/images/zckzAU7gH5dDcR9k3jVDnFjT6Kx1-uo4d3316.jpeg)
 Wonder how the leading mobile games companies test their apps' functionality and performance? Here are some of their insights!
 
-### [89. The Noonification: The Issue With Crypto Transactions Today (7/16/2023)](https://hackernoon.com/7-16-2023-noonification)
-![](https://cdn.hackernoon.com/images/noonification_865_h4stjq3mshlcxmaps06zeu2f.png)
-7/16/2023: Top 5 stories on the Hackernoon homepage!
-
-### [90. The Noonification: The Chaos Goblin Approach to Game Development in Unity (7/31/2023)](https://hackernoon.com/7-31-2023-noonification)
-![](https://cdn.hackernoon.com/images/noonification_934_hksjnssgf9tbmdv0p7abfboz.png)
-7/31/2023: Top 5 stories on the Hackernoon homepage!
-
-### [91. The Noonification: CryptoHayes Has It Right and Wrong (4/26/2023)](https://hackernoon.com/4-26-2023-noonification)
+### [89. The Noonification: CryptoHayes Has It Right and Wrong (4/26/2023)](https://hackernoon.com/4-26-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 4/26/2023: Top 5 stories on the Hackernoon homepage!
 
-### [92. The Noonification: The Power of Achieving Flow State in DevEx (8/6/2023)](https://hackernoon.com/8-6-2023-noonification)
-![](https://cdn.hackernoon.com/images/noonification_666_yg3uen2ngfnbq85gcfhgwmym.png)
-8/6/2023: Top 5 stories on the Hackernoon homepage!
-
-### [93. Using Unity's Networking Features to Prevent and Manage Trolling in Multiplayer Games](https://hackernoon.com/using-unitys-networking-features-to-prevent-and-manage-trolling-in-multiplayer-games)
+### [90. Using Unity's Networking Features to Prevent and Manage Trolling in Multiplayer Games](https://hackernoon.com/using-unitys-networking-features-to-prevent-and-manage-trolling-in-multiplayer-games)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-fu93xeq.jpeg)
 If you've ever been part of or created a multiplayer game, you probably know all too well the frustrating and disruptive impact of trolling behavior.
+
+### [91. The Noonification: The Issue With Crypto Transactions Today (7/16/2023)](https://hackernoon.com/7-16-2023-noonification)
+![](https://cdn.hackernoon.com/images/noonification_865_h4stjq3mshlcxmaps06zeu2f.png)
+7/16/2023: Top 5 stories on the Hackernoon homepage!
+
+### [92. The Noonification: The Chaos Goblin Approach to Game Development in Unity (7/31/2023)](https://hackernoon.com/7-31-2023-noonification)
+![](https://cdn.hackernoon.com/images/noonification_934_hksjnssgf9tbmdv0p7abfboz.png)
+7/31/2023: Top 5 stories on the Hackernoon homepage!
+
+### [93. The Noonification: The Power of Achieving Flow State in DevEx (8/6/2023)](https://hackernoon.com/8-6-2023-noonification)
+![](https://cdn.hackernoon.com/images/noonification_666_yg3uen2ngfnbq85gcfhgwmym.png)
+8/6/2023: Top 5 stories on the Hackernoon homepage!
 
 ### [94. The Noonification: Massa (7/30/2023)](https://hackernoon.com/7-30-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_994_ctqsw6nd94pxs51zmepe0r6v.png)
 7/30/2023: Top 5 stories on the Hackernoon homepage!
 
-### [95. The Noonification: Moai (7/28/2023)](https://hackernoon.com/7-28-2023-noonification)
+### [95. The Noonification: The Unity Writing Contest by Tatum Games: Winners Announced! (9/26/2023)](https://hackernoon.com/9-26-2023-noonification)
+![](https://cdn.hackernoon.com/images/noonification_343_vpds7ghcf89lzmdkfm2usy8p.png)
+9/26/2023: Top 5 stories on the Hackernoon homepage!
+
+### [96. The Noonification: Moai (7/28/2023)](https://hackernoon.com/7-28-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_106_k1x28ib5auudtl23uikh95vl.png)
 7/28/2023: Top 5 stories on the Hackernoon homepage!
 
-### [96. The Noonification: Exploring Unity DOTS and ECS: Is it a Game Changer? (7/18/2023)](https://hackernoon.com/7-18-2023-noonification)
+### [97. The Noonification: Exploring Unity DOTS and ECS: Is it a Game Changer? (7/18/2023)](https://hackernoon.com/7-18-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_301_wtzu49kzto6axjo52p8qhbyw.png)
 7/18/2023: Top 5 stories on the Hackernoon homepage!
-
-### [97. The Noonification: The Unity Writing Contest by Tatum Games: Winners Announced! (9/26/2023)](https://hackernoon.com/9-26-2023-noonification)
-![](https://cdn.hackernoon.com/images/noonification_343_vpds7ghcf89lzmdkfm2usy8p.png)
-9/26/2023: Top 5 stories on the Hackernoon homepage!
 
 ### [98. The Noonification: To Guarantee Your Success, You Have to Burn Your Boats (8/24/2023)](https://hackernoon.com/8-24-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_424_g0l4vrrs10v5nru03cj5dpvi.png)

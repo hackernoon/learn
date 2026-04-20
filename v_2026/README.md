@@ -11,4 +11,4 @@ Orders technology blog posts by editor determined subject matters and community 
 * [Cybersecurity](./cybersecurity/README.md) - Stay safe online. Security vulnerabilities, ethical hacking, data privacy, and the ever-evolving cyber threat landscape.
 * [Web3](./web3/README.md) - Decentralized technologies, blockchain development, DeFi protocols, NFTs, and the future of the internet.
 * [Business](./business/README.md) - Startups, marketing, product management, fintech, leadership, and strategies for growing businesses in the digital age.
-* [HackerNoon](./hackernoon/README.md) - Stories about tech culture, gaming, writing, productivity, open source, and everything else in the HackerNoon universe.
+* [HackerNoon](./hackernoon/README.md) - Blog posts about tech culture, gaming, writing, productivity, open source, and everything else in the HackerNoon universe.

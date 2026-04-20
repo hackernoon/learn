@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [openai](https://hackernoon.com/tagged/openai)
+### Let's learn about [Openai](https://hackernoon.com/tagged/openai) via these 437 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+OpenAI is an AI research and deployment company whose mission is to ensure that artificial general intelligence benefits all of humanity. OpenAI is a leader in AI innovation, developing powerful models like GPT and DALL-E that are transforming various industries.
+
 ### [1. Boosting Your App's Intelligence: Leveraging OpenAI and JS File API](https://hackernoon.com/boosting-your-apps-intelligence-leveraging-openai-and-js-file-api-integration)
 ![](https://cdn.hackernoon.com/images/wmWlJ9kWduhdUN4zFBLm1GV0d3r2-nlj3tce.jpeg)
 You will learn HOW OpenAI can be leveraged to enhance JS File API on the example of Smart Image Recognition
@@ -13,13 +17,13 @@ ChatGPT-5 and AGI is on the way and it is bound to change the world as we know i
 ![](https://cdn.hackernoon.com/images/a-robot-using-an-old-desktop-computer-cli2wen6i000001s6098tesjf.png)
 A powerful tool that allows you to query documents locally without the need for an internet connection. Whether you're a researcher, dev, or just curious about 
 
-### [4. How to Use ChatGPT for Python Programming](https://hackernoon.com/how-to-use-chatgpt-for-python-programming)
-![](https://cdn.hackernoon.com/images/2lw2eoJaRDWCFQZC7lfDev9awoC3-nok2nmw.jpeg)
-ChatGPT is a large language model developed by OpneAI. Here are some ways you can use ChatGPT for Python programming.
-
-### [5. A Guide to Moving, Copying, or Sharing ChatGPT Conversations](https://hackernoon.com/a-guide-to-moving-copying-or-sharing-chatgpt-conversations)
+### [4. A Guide to Moving, Copying, or Sharing ChatGPT Conversations](https://hackernoon.com/a-guide-to-moving-copying-or-sharing-chatgpt-conversations)
 ![](https://cdn.hackernoon.com/images/robots-working-at-a-moving-company-sketch-artstyle-hnrzq7r2yrcnkm5gwt4gew11.png)
 Learn how to export and import your ChatGPT conversations easily.
+
+### [5. How to Use ChatGPT for Python Programming](https://hackernoon.com/how-to-use-chatgpt-for-python-programming)
+![](https://cdn.hackernoon.com/images/2lw2eoJaRDWCFQZC7lfDev9awoC3-nok2nmw.jpeg)
+ChatGPT is a large language model developed by OpneAI. Here are some ways you can use ChatGPT for Python programming.
 
 ### [6. ChatGPT Go Libraries: A Comparison With Examples](https://hackernoon.com/chatgpt-go-libraries-a-comparison-with-examples)
 ![](https://cdn.hackernoon.com/images/a-programming-robot-clg4kncw2000001s6hq1p2sej.png)
@@ -166,113 +170,113 @@ Learn how a discussion with ChatGPT turned into CassIO, an amazing library for A
 ![](https://cdn.hackernoon.com/images/mtSwKC0EcCVi41252swVE5fO3213-nch3k9z.jpeg)
 This story reveals what people are looking for by summarizing what they need after 100+ user interviews
 
-### [42. Your AI Chatbot Just Leaked Customer Data to OpenAI. Here’s How it Happened and How to Prevent it](https://hackernoon.com/your-ai-chatbot-just-leaked-customer-data-to-openai-heres-how-it-happened-and-how-to-prevent-it)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-n0022gr.jpeg)
-Your AI chatbot just leaked customer data to OpenAI. Here’s how it happened and how to prevent it.
-
-### [43. American Equity, by Sam Altman (with comments & highlights)](https://hackernoon.com/american-equity-by-sam-altman-with-comments-and-highlights)
+### [42. American Equity, by Sam Altman (with comments & highlights)](https://hackernoon.com/american-equity-by-sam-altman-with-comments-and-highlights)
 ![](https://cdn.hackernoon.com/images/depict-a-utopia-in-which-poverty-is-eliminated-and-every-citizens-basic-needs-are-guaranteed-clbbep8fn000301s6bznycwbr.png)
 Sam Altman is the CEO of  OpenAI, the creator behind ChatGPT. In this essay, he proposes a solution to achieve an American utopia where poverty is eliminated.
 
-### [44. GPT-4 Launches as the Next Generation of Artificial Intelligence Large Language Models](https://hackernoon.com/gpt-4-launches-as-the-next-generation-of-artificial-intelligence-large-language-models)
+### [43. GPT-4 Launches as the Next Generation of Artificial Intelligence Large Language Models](https://hackernoon.com/gpt-4-launches-as-the-next-generation-of-artificial-intelligence-large-language-models)
 ![](https://cdn.hackernoon.com/images/Fs6yMNLemSQFopm3m8hIZVuGaqN2-r893n5k.jpeg)
 OpenAI is pepping things up with the release of GPT-4, a more capable model than previous versions. 
 
-### [45. OpenAI Levels Up: Dive Deep into the Exciting Updates of ChatGPT!](https://hackernoon.com/openai-levels-up-dive-deep-into-the-exciting-updates-of-chatgpt)
+### [44. OpenAI Levels Up: Dive Deep into the Exciting Updates of ChatGPT!](https://hackernoon.com/openai-levels-up-dive-deep-into-the-exciting-updates-of-chatgpt)
 ![](https://cdn.hackernoon.com/images/IZH5VrBxylTJuG6oTbU11LwJemA3-rt937n2.jpeg)
 All about new ChatGPT's updates from Open AI
 
-### [46. AI Agents for Beginners: Building Your First AI Agent](https://hackernoon.com/ai-agents-for-beginners-building-your-first-ai-agent)
+### [45. AI Agents for Beginners: Building Your First AI Agent](https://hackernoon.com/ai-agents-for-beginners-building-your-first-ai-agent)
 ![](https://cdn.hackernoon.com/images/522HUnTfSIbvDbyhWY3RIecYcZy2-mb03fzx.jpeg)
 Build your first real AI agent with this simple guide for beginners—learn, code, and create smart tools that take action.
 
-### [47. A Brief Intro to the GPT-3 Algorithm ](https://hackernoon.com/a-brief-intro-to-the-gpt-3-algorithm-t31f37k5)
+### [46. A Brief Intro to the GPT-3 Algorithm ](https://hackernoon.com/a-brief-intro-to-the-gpt-3-algorithm-t31f37k5)
 ![](https://cdn.hackernoon.com/images/Wv5DQfjl9zLHwfScnBmWYFlP7si2-3st2q88.jpeg)
 OpenAI GPT-3 is the most powerful language model. It has the capacity to generate paragraphs so naturally that they sound like a real human wrote them.
 
-### [48. Build Your Own AI Chatbot on Your Local PC — Online and Offline](https://hackernoon.com/build-your-own-ai-chatbot-on-your-local-pc-online-and-offline)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-31022s9.png)
-You can easily build a personal AI chatbot that runs both online (using OpenAI GPT) and offline (using Ollama local models) right from your local machine. 
-
-### [49. 3 Different Organizations and How They Use OpenAI Technology](https://hackernoon.com/3-different-platforms-and-how-they-use-openai-technology)
+### [47. 3 Different Organizations and How They Use OpenAI Technology](https://hackernoon.com/3-different-platforms-and-how-they-use-openai-technology)
 ![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-c2a3o49.jpeg)
 A look at 3 different platforms and how they are using OpenAI technology
 
-### [50. 100 Days of AI Day 3: Leveraging AI for Prompt Engineering and Inference](https://hackernoon.com/100-days-of-ai-day-3-leveraging-ai-for-prompt-engineering-and-inference)
+### [48. 100 Days of AI Day 3: Leveraging AI for Prompt Engineering and Inference](https://hackernoon.com/100-days-of-ai-day-3-leveraging-ai-for-prompt-engineering-and-inference)
 ![](https://cdn.hackernoon.com/images/Y14t1a3ZEoT7RE6300ayez7dRN83-iw83crc.jpeg)
 100 Days of AI Day 3, we enhance products with inference, leveraging LLMs for insights in tech without data expertise.
 
-### [51. OpenAI's Rate Limit: A Guide to Exponential Backoff for LLM Evaluation](https://hackernoon.com/openais-rate-limit-a-guide-to-exponential-backoff-for-llm-evaluation)
+### [49. OpenAI's Rate Limit: A Guide to Exponential Backoff for LLM Evaluation](https://hackernoon.com/openais-rate-limit-a-guide-to-exponential-backoff-for-llm-evaluation)
 ![](https://cdn.hackernoon.com/images/9S1vwdm8BSSIM68NViog8lnaQPi2-e7820ob.jpeg)
 This article will teach you how to run evaluations using any LLM model without succumbing to the dreaded "OpenAI Rate Limit" exception.
 
-### [52. GPT-4V Unveiled: From Detecting Emotions to Ordering Food - You Won't Believe What Else It Can Do!](https://hackernoon.com/gpt-4v-unveiled-from-detecting-emotions-to-ordering-food-you-wont-believe-what-else-it-can-do)
+### [50. GPT-4V Unveiled: From Detecting Emotions to Ordering Food - You Won't Believe What Else It Can Do!](https://hackernoon.com/gpt-4v-unveiled-from-detecting-emotions-to-ordering-food-you-wont-believe-what-else-it-can-do)
 ![](https://cdn.hackernoon.com/images/IZH5VrBxylTJuG6oTbU11LwJemA3-rsm3aht.jpeg)
 GPT-4V Unveiled: From Detecting Emotions to Ordering Food - You Won't Believe What Else It Can Do!
 
-### [53. ChatGPT vs Copilot vs Programmers: Who's Coming Out on Top?](https://hackernoon.com/chatgpt-vs-copilot-vs-programmers-whos-coming-out-on-top)
-![](https://cdn.hackernoon.com/images/u9GiHUrKXAb43BcKSHXVMlkqOEX2-2i93otb.jpeg)
-Explore the current state of AI assisted coding by comparing the suggestions of OpenAI ChatGPT and Codex to Microsoft Copilot to hand-written code. 
-
-### [54. Vibe-Coding's Missing Piece is Vibe-Testing](https://hackernoon.com/vibe-codings-missing-piece-is-vibe-testing)
+### [51. Vibe-Coding's Missing Piece is Vibe-Testing](https://hackernoon.com/vibe-codings-missing-piece-is-vibe-testing)
 ![](https://cdn.hackernoon.com/images/4qClgAKUoGVNSn1MOppgDtZ3zVq2-v913e2c.png)
 What to expect from AI-powered quality assurance services? The most reasonable approach comes from crowd-testing platforms.
 
-### [55. Check Out All the Cool Stuff You Can Do With ChatGPT](https://hackernoon.com/check-out-all-the-cool-stuff-you-can-do-with-chatgpt)
+### [52. ChatGPT vs Copilot vs Programmers: Who's Coming Out on Top?](https://hackernoon.com/chatgpt-vs-copilot-vs-programmers-whos-coming-out-on-top)
+![](https://cdn.hackernoon.com/images/u9GiHUrKXAb43BcKSHXVMlkqOEX2-2i93otb.jpeg)
+Explore the current state of AI assisted coding by comparing the suggestions of OpenAI ChatGPT and Codex to Microsoft Copilot to hand-written code. 
+
+### [53. Check Out All the Cool Stuff You Can Do With ChatGPT](https://hackernoon.com/check-out-all-the-cool-stuff-you-can-do-with-chatgpt)
 ![](https://cdn.hackernoon.com/images/check-out-all-the-cool-stuff-you-can-do-with-chat-gpt-clbr45i0z000001s69d7n14x4.png)
 Ben Tossell goes over exciting examples of ChatGPT.
+
+### [54. The Only API You Need!](https://hackernoon.com/the-only-api-you-need)
+![](https://cdn.hackernoon.com/images/Xqr4CUe3DYeURV7orh73yMqsUxI2-2bb35ge.jpeg)
+"The Only API" is an open-source SDK that allows developers to query for anything they need in any data format. It has limitless capabilities. Try it now!
+
+### [55. Will AI Put Product Managers Out of Work?](https://hackernoon.com/will-ai-put-product-managers-out-of-work)
+![](https://cdn.hackernoon.com/images/TLmbbABJmKb8SkSInjeEkfcFCAy1-bqa3o5u.jpeg)
+Many people believe that AI might eventually take over our jobs. But is this really true? Can AI do everything as well as humans can?
 
 ### [56. Bard and ChatGPT — A Head To Head Comparison](https://hackernoon.com/bard-and-chatgpt-a-head-to-head-comparison)
 ![](https://cdn.hackernoon.com/images/mtSwKC0EcCVi41252swVE5fO3213-ewe3k63.jpeg)
 Comparing both large language models side by side and also explaining which one is the better of the two.
 
-### [57. The Only API You Need!](https://hackernoon.com/the-only-api-you-need)
-![](https://cdn.hackernoon.com/images/Xqr4CUe3DYeURV7orh73yMqsUxI2-2bb35ge.jpeg)
-"The Only API" is an open-source SDK that allows developers to query for anything they need in any data format. It has limitless capabilities. Try it now!
-
-### [58. Will AI Put Product Managers Out of Work?](https://hackernoon.com/will-ai-put-product-managers-out-of-work)
-![](https://cdn.hackernoon.com/images/TLmbbABJmKb8SkSInjeEkfcFCAy1-bqa3o5u.jpeg)
-Many people believe that AI might eventually take over our jobs. But is this really true? Can AI do everything as well as humans can?
-
-### [59. OpenAI Saga Part 4: The firing & unfiring of CEO Sam Altman FINALLY explained](https://hackernoon.com/openai-saga-part-4-the-firing-and-unfiring-of-ceo-sam-altman-finally-explained)
+### [57. OpenAI Saga Part 4: The firing & unfiring of CEO Sam Altman FINALLY explained](https://hackernoon.com/openai-saga-part-4-the-firing-and-unfiring-of-ceo-sam-altman-finally-explained)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-q0037j2.png)
 Toxic Genius, Tender Offers, it really was about the money after all. 
 
-### [60. Personalized GPTs are here, and I have mixed feelings about them ](https://hackernoon.com/personalized-gpts-are-here-and-i-have-mixed-feelings-about-them)
-![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-1w8406q.jpeg)
-Any paying customer can now create their own version of ChatGPT using personalized, private data that is not normally available on the world wide web. 
-
-### [61. How I Built (and Sold) an AI-Powered Gift Idea Generator](https://hackernoon.com/how-i-built-and-sold-an-ai-powered-gift-idea-generator)
+### [58. How I Built (and Sold) an AI-Powered Gift Idea Generator](https://hackernoon.com/how-i-built-and-sold-an-ai-powered-gift-idea-generator)
 ![](https://cdn.hackernoon.com/images/yKEdvhrW3TU9dae25UjSl9lhScy2-sj93rh8.jpeg)
 Building and selling an AI-powered gift idea generator that makes the process of gift-giving enjoyable.
 
-### [62. ChatGPT in Software Engineering: A Glimpse Into the Future](https://hackernoon.com/chatgpt-in-software-engineering-a-glimpse-into-the-future)
+### [59. Personalized GPTs are here, and I have mixed feelings about them ](https://hackernoon.com/personalized-gpts-are-here-and-i-have-mixed-feelings-about-them)
+![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-1w8406q.jpeg)
+Any paying customer can now create their own version of ChatGPT using personalized, private data that is not normally available on the world wide web. 
+
+### [60. ChatGPT in Software Engineering: A Glimpse Into the Future](https://hackernoon.com/chatgpt-in-software-engineering-a-glimpse-into-the-future)
 ![](https://cdn.hackernoon.com/images/uUy2hcEeUBUzpB2avIU9bM9u8Gt2-1093lqc.jpeg)
 How ChatGPT can support the software development lifecycle and provide a glimpse into the future of human-AI collaboration in software engineering
 
-### [63. The HackerNoon Newsletter: Brands, Find the Right HackerNoon Services for You  (11/12/2025)](https://hackernoon.com/11-12-2025-newsletter)
+### [61. Your AI Chatbot Just Leaked Customer Data to OpenAI. Here’s How it Happened and How to Prevent it](https://hackernoon.com/your-ai-chatbot-just-leaked-customer-data-to-openai-heres-how-it-happened-and-how-to-prevent-it)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-n0022gr.jpeg)
+Your AI chatbot just leaked customer data to OpenAI. Here’s how it happened and how to prevent it.
+
+### [62. The HackerNoon Newsletter: Brands, Find the Right HackerNoon Services for You  (11/12/2025)](https://hackernoon.com/11-12-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_401_q5qn1rqqqnducdfgbt9ji5gi.png)
 11/12/2025: Top 5 stories on the HackerNoon homepage!
 
-### [64. How to Build Your Personal GPTs: From Zero to AI Hero](https://hackernoon.com/how-to-build-your-personal-gpts-from-zero-to-ai-hero)
+### [63. How to Build Your Personal GPTs: From Zero to AI Hero](https://hackernoon.com/how-to-build-your-personal-gpts-from-zero-to-ai-hero)
 ![](https://cdn.hackernoon.com/images/IZH5VrBxylTJuG6oTbU11LwJemA3-c793bow.jpeg)
 How to Build Your Personal GPTs: a step-by-step guide
 
-### [65. This New Prompting Technique Makes AI Outputs Actually Usable](https://hackernoon.com/this-new-prompting-technique-makes-ai-outputs-actually-usable)
+### [64. This New Prompting Technique Makes AI Outputs Actually Usable](https://hackernoon.com/this-new-prompting-technique-makes-ai-outputs-actually-usable)
 ![](https://cdn.hackernoon.com/images/fQ3ljX4IApV5YZkU17g2MxX2i8r2-gw536h3.jpeg)
 Structured meta-prompting is a technique that dynamically generates JSON schemas for solutions before performing tasks. 
 
-### [66. 75% Of Companies Are Banning the Use of ChatGPT: What Happened?](https://hackernoon.com/75percent-of-companies-are-banning-the-use-of-chatgpt-what-happened)
+### [65. 75% Of Companies Are Banning the Use of ChatGPT: What Happened?](https://hackernoon.com/75percent-of-companies-are-banning-the-use-of-chatgpt-what-happened)
 ![](https://cdn.hackernoon.com/images/G8tDjgYmA3h81VSTsSKlT1xObgI3-j99303m.jpeg)
 Explore the rising concerns over data leaks with ChatGPT. From potential risks around user data privacy to high-profile incidents involving tech giants.
 
-### [67. What is OpenAI Hiding?](https://hackernoon.com/what-is-openai-hiding)
+### [66. What is OpenAI Hiding?](https://hackernoon.com/what-is-openai-hiding)
 ![](https://cdn.hackernoon.com/images/img-5782qbb.jpeg)
 OpenAI is rushing to build an advanced AI that can deliver advanced reasoning capabilities under a tightly-knit project code-named Strawberry.
 
-### [68. GPT-4 Explained: ChatGPT's Big Brother is Here to Disrupt Everything](https://hackernoon.com/gpt-4-explained-chatgpts-big-brother-is-here-to-disrupt-everything)
+### [67. GPT-4 Explained: ChatGPT's Big Brother is Here to Disrupt Everything](https://hackernoon.com/gpt-4-explained-chatgpts-big-brother-is-here-to-disrupt-everything)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-8y93lw5.jpeg)
 If you thought ChatGPT was good, just wait until you try GPT-4.
+
+### [68. Build Your Own AI Chatbot on Your Local PC — Online and Offline](https://hackernoon.com/build-your-own-ai-chatbot-on-your-local-pc-online-and-offline)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-31022s9.png)
+You can easily build a personal AI chatbot that runs both online (using OpenAI GPT) and offline (using Ollama local models) right from your local machine. 
 
 ### [69. Chronological Feed: Sam Altman Fired by OpenAI Board & Hired By Microsoft CEO Satya Nadella (maybe)](https://hackernoon.com/chronological-feed-sam-altman-fired-by-openai-board-and-hired-by-microsoft-ceo-satya-nadella-maybe)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-nj8349p.jpeg)
@@ -303,25 +307,25 @@ Meta’s chief AI scientist isn’t impressed by ChatGPT.
 We worship ChatGPT like a virtual god, but what is truly at the core of this artificial intelligence technology? 
 
 
-### [76. Predicted Outputs: The OpenAI Feature You Probably Missed](https://hackernoon.com/predicted-outputs-the-openai-feature-you-probably-missed)
-![](https://cdn.hackernoon.com/images/tzRA5K6hM1dOPXoOr3MltXHaoav1-24031y7.jpeg)
-By using  thecprediction parameter in OpenAI Chat Completions, Predicted Outputs allow developers to speed up API responses from Chat Completions. 
-
-### [77. Too Many AIs With Too Many Terrible Names: How to Choose Your AI Model](https://hackernoon.com/too-many-ais-with-too-many-terrible-names-how-to-choose-your-ai-model)
+### [76. Too Many AIs With Too Many Terrible Names: How to Choose Your AI Model](https://hackernoon.com/too-many-ais-with-too-many-terrible-names-how-to-choose-your-ai-model)
 ![](https://cdn.hackernoon.com/images/kqO57DhpVeTCl6dvNccTuxNEpiQ2-c40363n.png)
 AI labs have flooded us with so many new models that I'm struggling to keep up.
+
+### [77. Predicted Outputs: The OpenAI Feature You Probably Missed](https://hackernoon.com/predicted-outputs-the-openai-feature-you-probably-missed)
+![](https://cdn.hackernoon.com/images/tzRA5K6hM1dOPXoOr3MltXHaoav1-24031y7.jpeg)
+By using  thecprediction parameter in OpenAI Chat Completions, Predicted Outputs allow developers to speed up API responses from Chat Completions. 
 
 ### [78. FastAPI Got Me an OpenAPI Spec Really... Fast](https://hackernoon.com/fastapi-got-me-an-openapi-spec-really-fast)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-s983eqc.jpeg)
 When API First isn’t an option, FastAPI can save teams time by allowing existing RESTful microservices to be fully documented and consumed using OpenAPI .
 
-### [79. Tired of Broken Chatbots? This AI Upgrade Fixes Everything](https://hackernoon.com/tired-of-broken-chatbots-this-ai-upgrade-fixes-everything)
-![](https://cdn.hackernoon.com/images/8HKl6FNr4PcR7BVek2SN7D8BNL42-yr039mn.png)
-Discover how function calling transforms AI.  Learn implementation differences between OpenAI and Azure OpenAI, with practical code examples.
-
-### [80. DOE vs. Github: A Brave New World of Software Piracy](https://hackernoon.com/doe-vs-github-a-brave-new-world-of-software-piracy)
+### [79. DOE vs. Github: A Brave New World of Software Piracy](https://hackernoon.com/doe-vs-github-a-brave-new-world-of-software-piracy)
 ![](https://cdn.hackernoon.com/images/illustrate-a-piracy-logo-rnu5vs8natnx9gofbxodl8nm.png)
 Navigate the legal battle between DOE and Github, on copyright infringement and open source licenses, through this HackerNoon Legal PDF feature. 
+
+### [80. Tired of Broken Chatbots? This AI Upgrade Fixes Everything](https://hackernoon.com/tired-of-broken-chatbots-this-ai-upgrade-fixes-everything)
+![](https://cdn.hackernoon.com/images/8HKl6FNr4PcR7BVek2SN7D8BNL42-yr039mn.png)
+Discover how function calling transforms AI.  Learn implementation differences between OpenAI and Azure OpenAI, with practical code examples.
 
 ### [81. How to Use Ink-ui to Build Beautiful CLI Tools Like OpenAI’s Codex](https://hackernoon.com/how-to-use-ink-ui-to-build-beautiful-cli-tools-like-openais-codex)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-n302uz4.jpeg)
@@ -375,29 +379,29 @@ ChatGPT can conduct a video chat with you as different characters like an interv
 ![](https://cdn.hackernoon.com/images/a-robot-in-court-getting-sued-uw9ma60m9mmsbhlj97xujaww.png)
 Will OpenAI store deleted data? New court order. In May 2025, OpenAI’s data retention practices moved from a niche legal topic to a board-level risk.
 
-### [94. How to Chat With Your Data Using OpenAI, Pinecone, Airbyte and Langchain: A Guide](https://hackernoon.com/how-to-chat-with-your-data-using-openai-pinecone-airbyte-and-langchain-a-guide)
-![](https://cdn.hackernoon.com/images/rGWF1RDlLZchb3zju0HpnW7gT6X2-w793rfz.jpeg)
-Learn how to build an AI chat bot for your own data within 40 minutes. An end-to-end LLM tutorial.
-
-### [95. What it's really like to try the new AI (read: chatGPT) powered Bing Search?](https://hackernoon.com/what-its-really-like-to-try-the-new-ai-read-chatgpt-powered-bing-search)
-![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-1dh3psh.jpeg)
-And not, it does not involve Sidney going sentient iykyk
-
-### [96. 100 Days of AI Day 1: From Newsletter to Podcast, Leveraging AI for Audio Transformation](https://hackernoon.com/100-days-of-ai-day-1-from-newsletter-to-podcast-leveraging-ai-for-audio-transformation)
+### [94. 100 Days of AI Day 1: From Newsletter to Podcast, Leveraging AI for Audio Transformation](https://hackernoon.com/100-days-of-ai-day-1-from-newsletter-to-podcast-leveraging-ai-for-audio-transformation)
 ![](https://cdn.hackernoon.com/images/Y14t1a3ZEoT7RE6300ayez7dRN83-ka93bie.jpeg)
 How to use the OpenAI API to convert your newsletter into a podcast. Part of the 100 Days of AI.
 
-### [97. Using Reinforcement Learning to Build a Self-Learning Grasping Robot ](https://hackernoon.com/using-reinforcement-learning-to-build-a-self-learning-grasping-robot-ld2m31w1)
-![](https://cdn.hackernoon.com/images/KcprLk4Phdbq8U03uh2akQ5JY6K2-qqa828or.jpeg)
-Tips and tricks to build an autonomous grasping Kuka robot
+### [95. How to Chat With Your Data Using OpenAI, Pinecone, Airbyte and Langchain: A Guide](https://hackernoon.com/how-to-chat-with-your-data-using-openai-pinecone-airbyte-and-langchain-a-guide)
+![](https://cdn.hackernoon.com/images/rGWF1RDlLZchb3zju0HpnW7gT6X2-w793rfz.jpeg)
+Learn how to build an AI chat bot for your own data within 40 minutes. An end-to-end LLM tutorial.
+
+### [96. What it's really like to try the new AI (read: chatGPT) powered Bing Search?](https://hackernoon.com/what-its-really-like-to-try-the-new-ai-read-chatgpt-powered-bing-search)
+![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-1dh3psh.jpeg)
+And not, it does not involve Sidney going sentient iykyk
+
+### [97. Could This Be the Best AI Video Generation Model? Alibaba Releases Wan 2.2](https://hackernoon.com/could-this-be-the-best-ai-video-generation-model-alibaba-releases-wan-22)
+![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-780398l.png)
+Alibaba's Wan 2.2 delivers cinematic quality video generation with 27B parameters but only 14B active per step.
 
 ### [98. How to Call ChatGPT with OpenAI's APIs](https://hackernoon.com/how-to-call-chatgpt-with-openais-apis)
 ![](https://cdn.hackernoon.com/images/fBrG3kzr9Fgwc2vTonctd5hmnHC3-cx93psi.jpeg)
 Learn how Plivo is exploring the potential of ChatGPT to help automate text messaging and voice calls using OpenAI's APIs.
 
-### [99. Could This Be the Best AI Video Generation Model? Alibaba Releases Wan 2.2](https://hackernoon.com/could-this-be-the-best-ai-video-generation-model-alibaba-releases-wan-22)
-![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-780398l.png)
-Alibaba's Wan 2.2 delivers cinematic quality video generation with 27B parameters but only 14B active per step.
+### [99. Using Reinforcement Learning to Build a Self-Learning Grasping Robot ](https://hackernoon.com/using-reinforcement-learning-to-build-a-self-learning-grasping-robot-ld2m31w1)
+![](https://cdn.hackernoon.com/images/KcprLk4Phdbq8U03uh2akQ5JY6K2-qqa828or.jpeg)
+Tips and tricks to build an autonomous grasping Kuka robot
 
 ### [100. How to Quickly Summarize YouTube Videos Using Gemini, ChatGPT, Claude, and Perplexity in 2024](https://hackernoon.com/how-to-quickly-summarize-youtube-videos-using-gemini-chatgpt-claude-and-perplexity-in-2024)
 ![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-gb824nc.jpeg)
@@ -416,29 +420,29 @@ Its Interim CEO? Mira Murati, OpenAI's CTO for past 5 years. She went to the sam
 ![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-robot-world-clf0ootfi000201s67cqnfywd.png)
 Here are three predictions on what hype surrounding ChatGPT signals for the future.
 
-### [104. The Limits of Coauthoring With ChatGPT](https://hackernoon.com/the-limits-of-coauthoring-with-chatgpt)
-![](https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-rtj3pxp.jpeg)
-ChatGPT is a useful tool for exploring creative writing, but it also has its limitations. The algorithm has  certain restrictions yet it is fun to use
-
-### [105. Linux Foundation Launches Agentic AI Group to Set Standards for Autonomous Systems](https://hackernoon.com/linux-foundation-launches-agentic-ai-group-to-set-standards-for-autonomous-systems)
+### [104. Linux Foundation Launches Agentic AI Group to Set Standards for Autonomous Systems](https://hackernoon.com/linux-foundation-launches-agentic-ai-group-to-set-standards-for-autonomous-systems)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3y023zh.jpeg)
 OpenAI, Anthropic, Block, and other major tech players have united to launch the Agentic AI Foundation.
 
-### [106. On Choosing the Right AI Embedding Platform: A Developer's Guide ](https://hackernoon.com/on-choosing-the-right-ai-embedding-platform-a-developers-guide)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-u603ngp.png)
-Compare OpenAI embeddings, Pinecone, and Weaviate for vector search. Detailed pricing, performance benchmarks, code examples, and production deployment guides.
+### [105. The Limits of Coauthoring With ChatGPT](https://hackernoon.com/the-limits-of-coauthoring-with-chatgpt)
+![](https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-rtj3pxp.jpeg)
+ChatGPT is a useful tool for exploring creative writing, but it also has its limitations. The algorithm has  certain restrictions yet it is fun to use
+
+### [106. INSANE One-click MCP AI Agent Hits the Market ](https://hackernoon.com/insane-one-click-mcp-ai-agent-hits-the-market)
+![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-ly038iu.png)
+Genspark AI has emerged as a formidable new player in the AI agent space, positioning itself as a comprehensive super agent.
 
 ### [107. 30 World-Changing Prompts: OpenAI's AI Singularity, Deep Research Has Arrived](https://hackernoon.com/30-world-changing-prompts-openais-ai-singularity-deep-research-has-arrived)
 ![](https://cdn.hackernoon.com/images/9SBj6OzMvXOEhDxTjjuu75pLYnp1-1p63am2.webp)
 Deep Research Prompts: Explore 30 ambitous, impactful ideas using emerging tech to tackle global crises. Discover research with world-changing potential.
 
-### [108. INSANE One-click MCP AI Agent Hits the Market ](https://hackernoon.com/insane-one-click-mcp-ai-agent-hits-the-market)
-![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-ly038iu.png)
-Genspark AI has emerged as a formidable new player in the AI agent space, positioning itself as a comprehensive super agent.
-
-### [109. How to Leverage ChatGPT/Bard to Learn Cloud Computing Fast!](https://hackernoon.com/how-to-leverage-chatgptbard-to-learn-cloud-computing-fast)
+### [108. How to Leverage ChatGPT/Bard to Learn Cloud Computing Fast!](https://hackernoon.com/how-to-leverage-chatgptbard-to-learn-cloud-computing-fast)
 ![](https://cdn.hackernoon.com/images/XPuFFkfzXFNTCh6Yox9dTUHayx72-a093uxx.jpeg)
 Generative AI tools ChatGPT, Bard learn Cloud Computing fast guide for Cloud Certification exams, solutions architects, software engineers, teachers, AI, and ML
+
+### [109. Stop the LLM From Rambling: Using Penalties to Control Repetition](https://hackernoon.com/stop-the-llm-from-rambling-using-penalties-to-control-repetition)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1z02397.jpeg)
+A practical guide to penalty settings that reduce repetition and fluff in LLM outputs—without making the text weird.
 
 ### [110. Experts Remain Divided on ChatGPT's Effectiveness Despite Claims of Readiness for Mass Adoption](https://hackernoon.com/experts-remain-divided-on-chatgpts-effectiveness-despite-claims-of-readiness-for-mass-adoption)
 ![](https://cdn.hackernoon.com/images/7CexDvuBSNeKoGETWgpCUr5Ix4D3-jo93581.jpeg)
@@ -456,49 +460,49 @@ Integrate any Python function into ChatGPT in a single line of code.
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-j593mj2.jpeg)
 Logan Kilpatrick is working at OpenAI in developer relations. He shares his insights on large language models, ChatGPT, and the developer landscape with OpenAI.
 
-### [114. Is Microsoft's AI Copilot the Future of Work?](https://hackernoon.com/is-microsofts-ai-copilot-the-future-of-work)
+### [114. Grok Just Got a Voice (And It’s Cheaper Than Your OpenAI Bill)](https://hackernoon.com/grok-just-got-a-voice-and-its-cheaper-than-your-openai-bill)
+![](https://cdn.hackernoon.com/images/87auQkFXtlRmkv1sPfia4rz7RUT2-ku03dcq.png)
+The API is compatible with the OpenAI Realtime API specification.
+
+### [115. Is Microsoft's AI Copilot the Future of Work?](https://hackernoon.com/is-microsofts-ai-copilot-the-future-of-work)
 ![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-q3831t7.jpeg)
 Microsoft offers a glimpse into a future where AI significantly bolsters workplace productivity.
 
-### [115. Here’s How OpenAI is Perpetuating Unhealthy Stereotypes](https://hackernoon.com/heres-why-openai-is-perpetuating-unhealthy-stereotypes)
+### [116. OpenAI Bought TBPN Because PR Can’t Keep Up With AI](https://hackernoon.com/openai-bought-tbpn-because-pr-cant-keep-up-with-ai)
+![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-rs83bt9.jpeg)
+Read this post to understand why OpenAI bought a media company, TBPN.
+
+### [117. Here’s How OpenAI is Perpetuating Unhealthy Stereotypes](https://hackernoon.com/heres-why-openai-is-perpetuating-unhealthy-stereotypes)
 ![](https://cdn.hackernoon.com/images/OcKZV0hrjvVfptthXram9cZoGAa2-90m3pgi.jpeg)
 There has been a lot of buzz about OpenA GPT-3, now having the largest neural network. Does it mean the AI problem has been solved?
 
-### [116. On OpenAI Failed Board Coup of Sam Altman & the Danger of Leaving AI Fate in the Hands of a Few](https://hackernoon.com/on-openai-failed-board-coup-of-sam-altman-and-the-danger-of-leaving-ai-fate-in-the-hands-of-a-few)
-![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-tii339w.jpeg)
-New Board: Bret Taylor (who forced elon buy twitter), Larry Summers (who made sexist comment @ Harvard), & Adam D'Angelo (who ousted Sam with the defunct Board)
-
-### [117. How to Analyze Anything - Master Data Analysis With ChatGPT (Beginner's Tutorial)](https://hackernoon.com/how-to-analyze-anything-master-data-analysis-with-chatgpt-beginners-tutorial)
-![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-n9822qp.jpeg)
-Today, we’re diving into an exciting feature within ChatGPT that has the potential to enhance your productivity by 10, 20, 30, or even 40%.
-
-### [118. How AI is Changing the Cybersecurity Landscape](https://hackernoon.com/how-ai-is-changing-the-cybersecurity-landscape)
-![](https://cdn.hackernoon.com/images/x7oAbeUtx1YeP5GIalmxyzfySdx2-68a31zp.jpeg)
-Read about how AI can be used in Cybersecurity and if it will affect the jobs of cybersecurity personnel.
-
-### [119. Create LLM Playground in 10 minutes (with LiteLLM)](https://hackernoon.com/create-llm-playground-in-10-minutes-with-litellm)
-![](https://cdn.hackernoon.com/images/bykiwN5VCAWtqt2zfMjEk6GD6sD3-8nc3tbb.jpeg)
-Today, we’re going to to create a playground to evaluate multiple LLM Providers in less than 10 minutes using LiteLLM. 
-
-### [120. ChadGPT: How to Turn OpenAI’s Chatbot into a Republican and What We Can Learn From This](https://hackernoon.com/chadgpt-how-to-turn-openais-chatbot-into-a-republican-and-what-we-can-learn-from-this)
+### [118. ChadGPT: How to Turn OpenAI’s Chatbot into a Republican and What We Can Learn From This](https://hackernoon.com/chadgpt-how-to-turn-openais-chatbot-into-a-republican-and-what-we-can-learn-from-this)
 ![](https://cdn.hackernoon.com/images/Qba5s3Jm3tf7wieS5ydYonkEJSh2-7na3lz0.jpeg)
 I tested ChatGPT for political biases, using roleplaying prompts, with some interesting results.
 
-### [121. Microsoft’s Minotaur Moment](https://hackernoon.com/microsofts-minotaur-moment)
-![](https://cdn.hackernoon.com/images/bI3BzyBanbVxEZqmLV7jRnw6d9o2-kc93kkv.jpeg)
-Is Microsoft the Minotaur with its powerful OpenAI and GitHub combination? Can young Theseus fight back for open innovation of human intelligence?
+### [119. On OpenAI Failed Board Coup of Sam Altman & the Danger of Leaving AI Fate in the Hands of a Few](https://hackernoon.com/on-openai-failed-board-coup-of-sam-altman-and-the-danger-of-leaving-ai-fate-in-the-hands-of-a-few)
+![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-tii339w.jpeg)
+New Board: Bret Taylor (who forced elon buy twitter), Larry Summers (who made sexist comment @ Harvard), & Adam D'Angelo (who ousted Sam with the defunct Board)
+
+### [120. Create LLM Playground in 10 minutes (with LiteLLM)](https://hackernoon.com/create-llm-playground-in-10-minutes-with-litellm)
+![](https://cdn.hackernoon.com/images/bykiwN5VCAWtqt2zfMjEk6GD6sD3-8nc3tbb.jpeg)
+Today, we’re going to to create a playground to evaluate multiple LLM Providers in less than 10 minutes using LiteLLM. 
+
+### [121. How to Analyze Anything - Master Data Analysis With ChatGPT (Beginner's Tutorial)](https://hackernoon.com/how-to-analyze-anything-master-data-analysis-with-chatgpt-beginners-tutorial)
+![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-n9822qp.jpeg)
+Today, we’re diving into an exciting feature within ChatGPT that has the potential to enhance your productivity by 10, 20, 30, or even 40%.
 
 ### [122. [Transcript] OpenAI DevDay Keynote by Sam Altman & Romain Huet About Assistants API & Custom Models](https://hackernoon.com/transcript-openai-devday-keynote-by-sam-altman-and-romain-huet-about-assistants-api-and-custom-models)
 ![](https://cdn.hackernoon.com/images/sam-altman-impersonating-steve-jobs-giving-a-keynote-in-san-f-rancisco-about-skynets-rapid-progress-chj5c2xecdsk6y60j8ry0xo2.png)
 Video and transcript of opening keynote from OpenAI DevDay — OpenAI’s first developer conference.
 
-### [123. Stop the LLM From Rambling: Using Penalties to Control Repetition](https://hackernoon.com/stop-the-llm-from-rambling-using-penalties-to-control-repetition)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1z02397.jpeg)
-A practical guide to penalty settings that reduce repetition and fluff in LLM outputs—without making the text weird.
+### [123. How AI is Changing the Cybersecurity Landscape](https://hackernoon.com/how-ai-is-changing-the-cybersecurity-landscape)
+![](https://cdn.hackernoon.com/images/x7oAbeUtx1YeP5GIalmxyzfySdx2-68a31zp.jpeg)
+Read about how AI can be used in Cybersecurity and if it will affect the jobs of cybersecurity personnel.
 
-### [124. Grok Just Got a Voice (And It’s Cheaper Than Your OpenAI Bill)](https://hackernoon.com/grok-just-got-a-voice-and-its-cheaper-than-your-openai-bill)
-![](https://cdn.hackernoon.com/images/87auQkFXtlRmkv1sPfia4rz7RUT2-ku03dcq.png)
-The API is compatible with the OpenAI Realtime API specification.
+### [124. Microsoft’s Minotaur Moment](https://hackernoon.com/microsofts-minotaur-moment)
+![](https://cdn.hackernoon.com/images/bI3BzyBanbVxEZqmLV7jRnw6d9o2-kc93kkv.jpeg)
+Is Microsoft the Minotaur with its powerful OpenAI and GitHub combination? Can young Theseus fight back for open innovation of human intelligence?
 
 ### [125. A Year of AI in My Life as an Engineer](https://hackernoon.com/a-year-of-ai-in-my-life-as-an-engineer)
 ![](https://cdn.hackernoon.com/images/zCgaw9MK4KUC4P2sGm2gj3biWPS2-ux03duf.png)
@@ -508,21 +512,21 @@ A senior engineer explains how AI tools changed document writing, code review, a
 ![](https://cdn.hackernoon.com/images/a-robot-dressed-as-a-chef-making-dinner-for-a-group-of-people-clg3099nf000001s68p9y5r5f.png)
 Sean Linehan describes their AI-generated dinner party.
 
-### [127. Introduction and Setup of an AI Project for Web Devs with QwikJS](https://hackernoon.com/introduction-and-setup-of-an-ai-project-for-web-devs-with-qwikjs)
-![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-2892d4n.png)
-In this blog post, we start bootstrapping a web development project using Qwik and get things ready to incorporate AI tooling from OpenAI.
-
-### [128. DeepSeek Releases Cheapest Ever LLM In The World](https://hackernoon.com/deepseek-releases-cheapest-ever-llm-in-the-world)
-![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-9i034z6.png)
-In this edition of This Week in AI Engineering, we go through the latest updates along with some must-know tools to make developing AI agents and apps easier.
-
-### [129. Chatbots Are Breaking Bad with Messed Up Responses](https://hackernoon.com/chatbots-are-breaking-bad-with-messed-up-responses)
+### [127. Chatbots Are Breaking Bad with Messed Up Responses](https://hackernoon.com/chatbots-are-breaking-bad-with-messed-up-responses)
 ![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-du936wl.jpeg)
 This almost maniacal obsession with possessing an all knowing chatbot is sweeping across industries and geographies.
 
-### [130. OpenAI GPT-5.2: The “Cheating” Controversy](https://hackernoon.com/openai-gpt-52-the-cheating-controversy)
+### [128. OpenAI GPT-5.2: The “Cheating” Controversy](https://hackernoon.com/openai-gpt-52-the-cheating-controversy)
 ![](https://cdn.hackernoon.com/images/bI3BzyBanbVxEZqmLV7jRnw6d9o2-d6038xk.png)
 Is OpenAI GPT-5.2 actually better than Google Gemini 3 Pro? If you strip away the extra "thinking" time used in the benchmarks, the gap disappears.
+
+### [129. Introduction and Setup of an AI Project for Web Devs with QwikJS](https://hackernoon.com/introduction-and-setup-of-an-ai-project-for-web-devs-with-qwikjs)
+![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-2892d4n.png)
+In this blog post, we start bootstrapping a web development project using Qwik and get things ready to incorporate AI tooling from OpenAI.
+
+### [130. DeepSeek Releases Cheapest Ever LLM In The World](https://hackernoon.com/deepseek-releases-cheapest-ever-llm-in-the-world)
+![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-9i034z6.png)
+In this edition of This Week in AI Engineering, we go through the latest updates along with some must-know tools to make developing AI agents and apps easier.
 
 ### [131. The SEO Game Changer: Unpacking the Impact of GPT-4](https://hackernoon.com/the-seo-game-changer-unpacking-the-impact-of-gpt-4)
 ![](https://cdn.hackernoon.com/images/nZysEWdmtaS72owMu3hZOpWWHQH2-5e937sf.jpeg)
@@ -536,25 +540,25 @@ Understand the mechanics behind how langchain autonomous agents work.
 ![](https://cdn.hackernoon.com/images/mtSwKC0EcCVi41252swVE5fO3213-vza3k7e.jpeg)
 Comparing Amazon Falcon Lite and OpenAI ChatGPT: A Comprehensive Review of Large Language Models
 
-### [134. Risks of AI: Why It’s Time to Consider the Warnings of Elon Musk and 50,000+ Tech Experts](https://hackernoon.com/risks-of-ai-why-its-time-to-consider-the-warnings-of-elon-musk-and-50000-tech-experts)
-![](https://cdn.hackernoon.com/images/8junFKug2sfmEBRwx97QAlhMBou2-zbc3utq.jpeg)
-AI labs are creating a beast we cannot tame that could “manipulate people to do what it wants.” 
-
-### [135. ChatGPT Python Applications to Make Your Life Easier](https://hackernoon.com/chatgpt-python-applications-to-make-your-life-easier)
+### [134. ChatGPT Python Applications to Make Your Life Easier](https://hackernoon.com/chatgpt-python-applications-to-make-your-life-easier)
 ![](https://cdn.hackernoon.com/images/brKmLUp5k8U41ltCE6kTKmeYa302-wu93ka5.png)
 "ChatGPT Python Applications" is a GitHub repo of Python apps built around ChatGPT model. Well-documented, open-source, and easy to modify repository ever built
 
-### [136. How we Built an Open-Source RAG-based ChatGPT Web App](https://hackernoon.com/how-we-built-an-open-source-rag-based-chatgpt-web-app)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-sg93syb.jpeg)
-Our new AI Tutor is here to usher in a new era of learning efficiency and precision with up-to-date information!
+### [135. Risks of AI: Why It’s Time to Consider the Warnings of Elon Musk and 50,000+ Tech Experts](https://hackernoon.com/risks-of-ai-why-its-time-to-consider-the-warnings-of-elon-musk-and-50000-tech-experts)
+![](https://cdn.hackernoon.com/images/8junFKug2sfmEBRwx97QAlhMBou2-zbc3utq.jpeg)
+AI labs are creating a beast we cannot tame that could “manipulate people to do what it wants.” 
 
-### [137. ChatGPT Writes The Great Gatsby Set in a Zombie Apocalypse](https://hackernoon.com/chatgpt-writes-the-great-gatsby-set-in-a-zombie-apocalypse)
+### [136. ChatGPT Writes The Great Gatsby Set in a Zombie Apocalypse](https://hackernoon.com/chatgpt-writes-the-great-gatsby-set-in-a-zombie-apocalypse)
 ![](https://cdn.hackernoon.com/images/the-great-gatsby-pointing-a-gun-at-a-zombie-clb6ltjud000001s69bw5h2dt.png)
 I told OpenAI's ChatGPT model to write The Great Gatsby, but with zombies. Here's what happened...
 
-### [138. Langchain: Explained and Getting Started](https://hackernoon.com/langchain-explained-and-getting-started)
+### [137. Langchain: Explained and Getting Started](https://hackernoon.com/langchain-explained-and-getting-started)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-e493n7t.png)
 Langchain is a crucial component for developing LLM models. It helps in orchestration and act as building block
+
+### [138. How we Built an Open-Source RAG-based ChatGPT Web App](https://hackernoon.com/how-we-built-an-open-source-rag-based-chatgpt-web-app)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-sg93syb.jpeg)
+Our new AI Tutor is here to usher in a new era of learning efficiency and precision with up-to-date information!
 
 ### [139. A Look Inside OpenAI's Web Crawler and the Continuous Missteps of the FTC](https://hackernoon.com/a-look-inside-openais-web-crawler-and-the-continuous-missteps-of-the-ftc)
 ![](https://cdn.hackernoon.com/images/RslbrPJJMpVSoCm5D7gzfEIZtz83-yta3s61.jpeg)
@@ -564,220 +568,241 @@ OpenAI launches a default opt-in crawler to scrape the Internet, while FTC pursu
 ![](https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-fee3pyi.jpeg)
 ChatGPT can help you assess if a text has been written by an LLM. 
 
-### [141. Googled Tricked OpenAI Into Thinking It Was Ahead (It Wasn't)](https://hackernoon.com/googled-tricked-openai-into-thinking-it-was-ahead-it-wasnt)
-![](https://cdn.hackernoon.com/images/IqkQes3OEWdNt1lODV0ZMI9jWNZ2-mx837ys.jpeg)
-Google has released a cheap, fast and highly capable model to build agentic flows.
+### [141. Mastering ChatGPT in 2024: A 2-Step Guide with Prompt Examples](https://hackernoon.com/mastering-chatgpt-in-2024-a-2-step-guide-with-prompt-examples)
+![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-kl822le.jpeg)
+Learn everything you need to know about ChatGPT in just minutes! 
 
 ### [142. How to Create Your Own AnythingGPT — a Bot That Answers the Way You Want it to](https://hackernoon.com/how-to-create-your-own-anythinggpt-a-bot-that-answers-the-way-you-want-it-to)
 ![](https://cdn.hackernoon.com/images/2v7XLvX2fMR4EErEB0cRTAONxFX2-tvg3z4n.jpeg)
 We will be talking about creating a customized version of ChatGPT that answers questions, taking into account a large knowledge base. 
 
-### [143. Mastering ChatGPT in 2024: A 2-Step Guide with Prompt Examples](https://hackernoon.com/mastering-chatgpt-in-2024-a-2-step-guide-with-prompt-examples)
-![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-kl822le.jpeg)
-Learn everything you need to know about ChatGPT in just minutes! 
+### [143. Googled Tricked OpenAI Into Thinking It Was Ahead (It Wasn't)](https://hackernoon.com/googled-tricked-openai-into-thinking-it-was-ahead-it-wasnt)
+![](https://cdn.hackernoon.com/images/IqkQes3OEWdNt1lODV0ZMI9jWNZ2-mx837ys.jpeg)
+Google has released a cheap, fast and highly capable model to build agentic flows.
 
-### [144. How to Tailor Content Filtering with Azure OpenAI Service in Azure OpenAI Studio](https://hackernoon.com/how-to-tailor-content-filtering-with-azure-openai-service-in-azure-openai-studio)
-![](https://cdn.hackernoon.com/images/duvUKzym5hVqjpkjaUZq8c6iWSf1-jn8239s.jpeg)
-Learn to adjust Azure OpenAI content filters for better AI outputs. Step-by-step guide based on firsthand experience.
-
-### [145. Exploring the Technology and Training Secrets Behind ChatGPT](https://hackernoon.com/exploring-the-technology-and-training-secrets-behind-chatgpt)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oo92gkx.jpeg)
-ChatGPT has gained immense popularity due to its remarkable conversational skills and a wide range of capabilities.
-
-### [146. The Conversational AI Arms Race Has Begun](https://hackernoon.com/the-conversational-ai-arms-race-has-begun)
-![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-h0936sa.jpeg)
-The grown-ups have entered the room. Google and Microsoft have officially entered the conversational AI arms race in search.
-
-### [147. Read the Entire The New York Times Company v. Microsoft Corporation and OpenAI Court Case](https://hackernoon.com/read-the-entire-the-new-york-times-company-v-microsoft-corporation-and-openai-court-case)
+### [144. Read the Entire The New York Times Company v. Microsoft Corporation and OpenAI Court Case](https://hackernoon.com/read-the-entire-the-new-york-times-company-v-microsoft-corporation-and-openai-court-case)
 ![](https://cdn.hackernoon.com/images/the-new-york-times-company-v-microsoft-corporation-and-open-ai-jgf1xfiuc9nxtjpcpqwqy47h.png)
 
 
-### [148. The Google Empire Strikes Back](https://hackernoon.com/the-google-empire-strikes-back)
-![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-kha36b4.jpeg)
-Google has taken an important step in re-claiming the narrative about conversational AI with the launch of Bard, Google's ChatGPT killer.
+### [145. How to Tailor Content Filtering with Azure OpenAI Service in Azure OpenAI Studio](https://hackernoon.com/how-to-tailor-content-filtering-with-azure-openai-service-in-azure-openai-studio)
+![](https://cdn.hackernoon.com/images/duvUKzym5hVqjpkjaUZq8c6iWSf1-jn8239s.jpeg)
+Learn to adjust Azure OpenAI content filters for better AI outputs. Step-by-step guide based on firsthand experience.
 
-### [149. OpenAI Made an AI Detection Tool, So Why Isn’t It Releasing It?](https://hackernoon.com/openai-made-an-ai-detection-tool-so-why-isnt-it-releasing-it)
+### [146. Exploring the Technology and Training Secrets Behind ChatGPT](https://hackernoon.com/exploring-the-technology-and-training-secrets-behind-chatgpt)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oo92gkx.jpeg)
+ChatGPT has gained immense popularity due to its remarkable conversational skills and a wide range of capabilities.
+
+### [147. The Conversational AI Arms Race Has Begun](https://hackernoon.com/the-conversational-ai-arms-race-has-begun)
+![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-h0936sa.jpeg)
+The grown-ups have entered the room. Google and Microsoft have officially entered the conversational AI arms race in search.
+
+### [148. OpenAI Made an AI Detection Tool, So Why Isn’t It Releasing It?](https://hackernoon.com/openai-made-an-ai-detection-tool-so-why-isnt-it-releasing-it)
 ![](https://cdn.hackernoon.com/images/TbRmoxuzTOhn0RB3YDTmDqDcide2-yj033ur.jpeg)
 OpenAI's hesitation to release its AI detection tool raises questions about plagiarism, ethics, and the future of AI in education and business.
 
-### [150. Eight Awesome AI Youtube Videos Under 10 Minutes](https://hackernoon.com/awesome-ai-youtube-videos-under-10-minutes-b1a43ubh)
+### [149. On Choosing the Right AI Embedding Platform: A Developer's Guide ](https://hackernoon.com/on-choosing-the-right-ai-embedding-platform-a-developers-guide)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-u603ngp.png)
+Compare OpenAI embeddings, Pinecone, and Weaviate for vector search. Detailed pricing, performance benchmarks, code examples, and production deployment guides.
+
+### [150. The Google Empire Strikes Back](https://hackernoon.com/the-google-empire-strikes-back)
+![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-kha36b4.jpeg)
+Google has taken an important step in re-claiming the narrative about conversational AI with the launch of Bard, Google's ChatGPT killer.
+
+### [151. Eight Awesome AI Youtube Videos Under 10 Minutes](https://hackernoon.com/awesome-ai-youtube-videos-under-10-minutes-b1a43ubh)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-g87j3u25.jpeg?alt=media&token=ccd9b048-5069-4c18-a4e6-7e66979e3322)
 Machine learning educational content is often in the form of academic papers or blog articles. These resources are incredibly valuable. However, they can sometimes be lengthy and time-consuming. If you just want to learn basic concepts and don’t require all the math and theory behind them, concise machine learning videos may be a better option. 
 
-### [151. How ChatGPT Is Changing the Game](https://hackernoon.com/how-chatgpt-is-changing-the-game)
+### [152. How ChatGPT Is Changing the Game](https://hackernoon.com/how-chatgpt-is-changing-the-game)
 ![](https://cdn.hackernoon.com/images/how-chat-gpt-is-changing-the-game-clbbfhjiy000001s6fnmwh5wx.png)
 Microsoft principal research engineer Shital Shah gives example on how ChatGPT is changing the world.
 
-### [152. A Comparison of GPT-3 and Existing Conversational AI Solutions](https://hackernoon.com/a-comparison-of-gpt-3-and-existing-conversational-ai-solutions-0q2z3z9x)
+### [153. A Comparison of GPT-3 and Existing Conversational AI Solutions](https://hackernoon.com/a-comparison-of-gpt-3-and-existing-conversational-ai-solutions-0q2z3z9x)
 ![](https://cdn.hackernoon.com/images/GPWtDVRw0oWCLyyZB3TTzZ7tkpD3-c02431ri.jpeg)
 Earlier this year, Elon Musk-backed artificial intelligence laboratory, OpenAI, released its latest, much anticipated autoregressive language model, the Generative Pre-trained Transformer 3 (GPT-3). Emerging to much fanfare and slated as the usherer of a new age of artificial intelligence, the number of articles, blog posts, and news pieces about this language model, perhaps match only the number of parameters the GPT-3 learned; 175 billion (Ok, this may be an exaggeration, but you get my point). 
 
-### [153. Why Should Anyone Trust Sam Altman?](https://hackernoon.com/why-should-anyone-trust-sam-altman)
+### [154. Why Should Anyone Trust Sam Altman?](https://hackernoon.com/why-should-anyone-trust-sam-altman)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-yw937gw.jpeg)
 Read this post for a hot take on the appearance before Congress recently by Sam Altman, CEO of OpenAI. Can we trust what he said about regulating AI?
-
-### [154. OpenAI Has Everything Under Control 😎](https://hackernoon.com/openai-has-everything-under-control)
-![](https://cdn.hackernoon.com/images/a-group-of-ai-researchers-zrswh64pcwx5wdx7f8z93fm2.png)
-It looks like large-scale fears about the rise of artificial intelligence have reached the ears of OpenAI.
 
 ### [155. Sam Altman: The Next Big Cult Hero in Tech](https://hackernoon.com/sam-altman-the-next-big-cult-hero-in-tech)
 ![](https://cdn.hackernoon.com/images/HFWIQyXZUkQ1LZbVi8afTyhiP8E3-x683gdu.jpeg)
 If you connect the dots between what drove the love of Steve Jobs and Elon Musk, and recent events, it's clear the new cult hero in tech is OpenAI's Sam Altman.
 
-### [156. ChatGPT Can Transform the Way Businesses Approach Customer Service](https://hackernoon.com/chatgpt-can-transform-the-way-businesses-approach-customer-service)
+### [156. OpenAI Has Everything Under Control 😎](https://hackernoon.com/openai-has-everything-under-control)
+![](https://cdn.hackernoon.com/images/a-group-of-ai-researchers-zrswh64pcwx5wdx7f8z93fm2.png)
+It looks like large-scale fears about the rise of artificial intelligence have reached the ears of OpenAI.
+
+### [157. ChatGPT Can Transform the Way Businesses Approach Customer Service](https://hackernoon.com/chatgpt-can-transform-the-way-businesses-approach-customer-service)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-v292i7p.jpeg)
 Most organizations consider customer service an overhead while it is an opportunity. It allows you to drive continued value from the customer even after a sale.
 
-### [157. OpenAI’s New ChatGPT Voice and Image Options Generate Excitement](https://hackernoon.com/openais-new-chatgpt-voice-and-image-options-generate-excitement)
-![](https://cdn.hackernoon.com/images/nlbb7kYPJSWh1Px3enDoYP3AcYu1-k892jcj.jpeg)
-OpenAI recognizes the risks inherent in its technology and addresses these concerns. The company says its goal is “to build AGI that is safe and beneficial.”
-
-### [158. A Deep Dive on OpenAI's Foundry](https://hackernoon.com/a-deep-dive-on-openais-foundry)
-![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-diving-into-a-pool-full-of-robots-clgcwshol000001s64audehs1.png)
-Nathan Labenz goes over OpenAI's Foundry.
-
-### [159. Everyone is Missing GPT-4o: Why People Prefer it to GPT-5](https://hackernoon.com/everyone-is-missing-gpt-4o-why-people-prefer-it-to-gpt-5)
+### [158. Everyone is Missing GPT-4o: Why People Prefer it to GPT-5](https://hackernoon.com/everyone-is-missing-gpt-4o-why-people-prefer-it-to-gpt-5)
 ![](https://cdn.hackernoon.com/images/9sk1RZ9hRoTmF1dwhC82n9OgiLJ3-ox03b1z.png)
 GPT-5's launch revealed reliability issues, slowing productivity and frustrating users. The key lesson: design systems resilient to model volatility.
 
-### [160. How OpenAI Is Changing the World](https://hackernoon.com/how-openai-is-changing-the-world)
+### [159. How OpenAI Is Changing the World](https://hackernoon.com/how-openai-is-changing-the-world)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-qn23eon.jpeg)
 The uptake of GenAI will increase global GDP by 7%, or nearly $7 trillion, according to Goldman Sachs, and we can thank OpenAI for this eye-watering growth. 
 
-### [161. The OpenAI Is Everywhere, Open Your Eye and Give It Your Retina so It Can See You Too ](https://hackernoon.com/the-openai-is-everywhere-open-your-eye-and-give-it-your-retina-so-it-can-see-you-too)
-![](https://cdn.hackernoon.com/images/QfvpIBb2RGaXRk2ViDOn7tIeoz33-xr92jt6.jpeg)
-OpenAI + Worldcoin = Total Control? A dive into the control construct of the open ai.
+### [160. OpenAI’s New ChatGPT Voice and Image Options Generate Excitement](https://hackernoon.com/openais-new-chatgpt-voice-and-image-options-generate-excitement)
+![](https://cdn.hackernoon.com/images/nlbb7kYPJSWh1Px3enDoYP3AcYu1-k892jcj.jpeg)
+OpenAI recognizes the risks inherent in its technology and addresses these concerns. The company says its goal is “to build AGI that is safe and beneficial.”
 
+### [161. A Deep Dive on OpenAI's Foundry](https://hackernoon.com/a-deep-dive-on-openais-foundry)
+![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-diving-into-a-pool-full-of-robots-clgcwshol000001s64audehs1.png)
+Nathan Labenz goes over OpenAI's Foundry.
 
 ### [162. Dive Into OpenAI's AI-Powered Application Ideas for Your Next Project](https://hackernoon.com/dive-into-openais-ai-powered-application-ideas-for-your-next-project)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-t193qra.jpeg)
 Some cool ideas to try out using the AI API provided by OpenAI. 
 
-### [163. DALLE 3: Improving Image Generation with Better Captions](https://hackernoon.com/dalle-3-improving-image-generation-with-better-captions)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-zi93tiq.jpeg)
-OpenAI’s BEST text-to-image model to date!
-
-### [164. Meta Strikes Back: Introducing LLaMA](https://hackernoon.com/meta-strikes-back-introducing-llama)
-![](https://cdn.hackernoon.com/images/JypOKD4Hf5McguMqED3zmTXpMiH2-7g92pp2.jpeg)
-Meta introduces LLaMA, a 65B parameter model to compete with ChatGPT, while OpenAI plans for AGI, creating a race for advanced language models.
-
-### [165. How to Convert Your API Documentation to an OpenAPI in Less Than 5 Minutes](https://hackernoon.com/how-to-convert-your-api-documentation-to-an-openapi-in-less-than-5-minutes)
+### [163. How to Convert Your API Documentation to an OpenAPI in Less Than 5 Minutes](https://hackernoon.com/how-to-convert-your-api-documentation-to-an-openapi-in-less-than-5-minutes)
 ![](https://cdn.hackernoon.com/images/h9zh5laZcuVhjnaK4lBLPxYH14f2-qw13imx.png)
 Effortlessly convert API documentation to OpenAPI in under 5 minutes with this straightforward guide using Postman and Kevin Swiber's tool
 
-### [166. 100 Days of AI Day 4: Maximizing Productivity & Creativity with ChatGPT](https://hackernoon.com/100-days-of-ai-day-4-maximizing-productivity-and-creativity-with-chatgpt)
-![](https://cdn.hackernoon.com/images/Y14t1a3ZEoT7RE6300ayez7dRN83-1r83j3j.jpeg)
-Explore the power of ChatGPT and LLMs in boosting productivity, creativity, and automation. AI techniques for text, translation, and more.
+### [164. The OpenAI Is Everywhere, Open Your Eye and Give It Your Retina so It Can See You Too ](https://hackernoon.com/the-openai-is-everywhere-open-your-eye-and-give-it-your-retina-so-it-can-see-you-too)
+![](https://cdn.hackernoon.com/images/QfvpIBb2RGaXRk2ViDOn7tIeoz33-xr92jt6.jpeg)
+OpenAI + Worldcoin = Total Control? A dive into the control construct of the open ai.
+
+
+### [165. DALLE 3: Improving Image Generation with Better Captions](https://hackernoon.com/dalle-3-improving-image-generation-with-better-captions)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-zi93tiq.jpeg)
+OpenAI’s BEST text-to-image model to date!
+
+### [166. Meta Strikes Back: Introducing LLaMA](https://hackernoon.com/meta-strikes-back-introducing-llama)
+![](https://cdn.hackernoon.com/images/JypOKD4Hf5McguMqED3zmTXpMiH2-7g92pp2.jpeg)
+Meta introduces LLaMA, a 65B parameter model to compete with ChatGPT, while OpenAI plans for AGI, creating a race for advanced language models.
 
 ### [167. OpenAI Wants to Design How You Live With AI](https://hackernoon.com/openai-wants-to-design-how-you-live-with-ai)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-0w03ls3.png)
 Read this post to dig into the broader implications of OpenAI's acquisition of Jony Ive's startup.
 
-### [168. Davinci Is Bad at Maths: Fine-Tuning ChatGPT Models With NodeJs and OpenAI v4](https://hackernoon.com/davinci-is-bad-at-maths-fine-tuning-chatgpt-models-with-nodejs-and-openai-v4)
+### [168. 100 Days of AI Day 4: Maximizing Productivity & Creativity with ChatGPT](https://hackernoon.com/100-days-of-ai-day-4-maximizing-productivity-and-creativity-with-chatgpt)
+![](https://cdn.hackernoon.com/images/Y14t1a3ZEoT7RE6300ayez7dRN83-1r83j3j.jpeg)
+Explore the power of ChatGPT and LLMs in boosting productivity, creativity, and automation. AI techniques for text, translation, and more.
+
+### [169. Davinci Is Bad at Maths: Fine-Tuning ChatGPT Models With NodeJs and OpenAI v4](https://hackernoon.com/davinci-is-bad-at-maths-fine-tuning-chatgpt-models-with-nodejs-and-openai-v4)
 ![](https://cdn.hackernoon.com/images/CTrBJW5MhvUIWXT9PA0yBXdfTRM2-5v92fkj.jpeg)
 Working examples using NodeJs and the latest version of **OpenAI**'s v4 library to fine tune an AI model.
 
-### [169. Generating and Manipulating Text with Azure OpenAI Services](https://hackernoon.com/generating-and-manipulating-text-with-azure-openai-services)
+### [170. Generating and Manipulating Text with Azure OpenAI Services](https://hackernoon.com/generating-and-manipulating-text-with-azure-openai-services)
 ![](https://cdn.hackernoon.com/images/cdMRGNEQvZYT6a1loPqyXOS12xM2-4693ppk.jpeg)
 Learn to generate or manipulate text using Azure OpenAI service. This tool provides various models with an easy-to-use and efficient text-in, text-out interface
 
-### [170. OpenAI’s DALL·E: Text-to-Image Generation Explained](https://hackernoon.com/openais-dalle-text-to-image-generation-explained-er1h33kg)
+### [171. OpenAI’s DALL·E: Text-to-Image Generation Explained](https://hackernoon.com/openais-dalle-text-to-image-generation-explained-er1h33kg)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-ek2d33jz.jpeg)
 OpenAI just released the paper explaining how DALL-E works! It is called "Zero-Shot Text-to-Image Generation".
 
-### [171. GPT4All: Limitations and References](https://hackernoon.com/gpt4all-limitations-and-references)
+### [172. GPT4All: Limitations and References](https://hackernoon.com/gpt4all-limitations-and-references)
 ![](https://cdn.hackernoon.com/images/a-robot-sweating-and-tired-after-running-a-race-on-a-bright-and-sunny-day-oy42sdov3jveq5yvowde6937.png)
 By enabling access to large language models, the GPT4All project also inherits many of the ethical concerns associated with generative models. 
-
-### [172. How to Radically Simplify Operations by Plugging Your API Gateway into an OpenAPI Spec](https://hackernoon.com/how-to-radically-simplify-operations-by-plugging-your-api-gateway-into-an-openapi-spec-xr263yq4)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fsbu3QiXHqQgdHp7kwrlUNXOei9X2-md303tyf.jpeg?alt=media&token=adf2b822-fb89-4b98-b2c6-1a4f5aa6a79c)
-OpenAPI Spec — The blueprint for your API
 
 ### [173. How to Play Chess Using a GPT-2 Model](https://hackernoon.com/how-to-play-chess-using-a-gpt-2-model-c9323wwi)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfaIWs9SdjVNgN80pYtKQoacjZbm2-d9363ejx.jpeg?alt=media&token=6f0f9b50-a55e-453f-a44d-7391ed07919e)
 OpenAI’s transformer-based language model GPT-2 definitely lives up to the hype. Following the natural evolution of Artificial Intelligence (AI), this generative language model drew a lot of attention by engaging in interviews and appearing in the online text adventure game AI Dungeon. 
 
-### [174. Applications of Artificial Intelligence in Business](https://hackernoon.com/applications-of-artificial-intelligence-in-business-0w9b3vbc)
-![](https://images.unsplash.com/photo-1555255707-c07966088b7b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Artificial Intelligence, the concept of ‘machines with brains’ has been in the spotlight around the last seven decades. A theoretical notion that started as simple rule-based automation in the 1950s' has now grown so much that now the scientists are trying to make human-like robots. The question- What AI might do to us? — has created a lot of controversies in and out of the scientific community.
+### [174. How to Radically Simplify Operations by Plugging Your API Gateway into an OpenAPI Spec](https://hackernoon.com/how-to-radically-simplify-operations-by-plugging-your-api-gateway-into-an-openapi-spec-xr263yq4)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fsbu3QiXHqQgdHp7kwrlUNXOei9X2-md303tyf.jpeg?alt=media&token=adf2b822-fb89-4b98-b2c6-1a4f5aa6a79c)
+OpenAPI Spec — The blueprint for your API
 
 ### [175. 100 Days of AI Day 2: Enhancing Prompt Engineering for ChatGPT](https://hackernoon.com/100-days-of-ai-day-2-enhancing-prompt-engineering-for-chatgpt)
 ![](https://cdn.hackernoon.com/images/Y14t1a3ZEoT7RE6300ayez7dRN83-x383dxq.jpeg)
 On day 2 of 100 Days of AI, we learn prompt engineering tips for optimal AI output.
 
-### [176. Is ChatGPT Sentient?](https://hackernoon.com/is-chatgpt-sentient)
+### [176. Applications of Artificial Intelligence in Business](https://hackernoon.com/applications-of-artificial-intelligence-in-business-0w9b3vbc)
+![](https://images.unsplash.com/photo-1555255707-c07966088b7b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Artificial Intelligence, the concept of ‘machines with brains’ has been in the spotlight around the last seven decades. A theoretical notion that started as simple rule-based automation in the 1950s' has now grown so much that now the scientists are trying to make human-like robots. The question- What AI might do to us? — has created a lot of controversies in and out of the scientific community.
+
+### [177. Is ChatGPT Sentient?](https://hackernoon.com/is-chatgpt-sentient)
 ![](https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-apa3pj7.jpeg)
 While Chat GPT can create pieces of text that sound competent in many fields, its field of know-how only goes as far as its training data set.
 
-### [177. Comparing VERSES AI to OpenAI: A Talk With ChatGPT4](https://hackernoon.com/comparing-verses-ai-to-openai-a-talk-with-chatgpt4)
-![](https://cdn.hackernoon.com/images/mpVEXfdaEmV42zRPLFBMuYWtW4j2-0993vgc.jpeg)
-In a mere 3 question conversation with ChatGPT4, the bot provided a solid basis to understand issues facing LLMs, & advantages of Active Inference AI over LLMs
-
-### [178. An Academic Approach to the Future of AI](https://hackernoon.com/an-academic-approach-to-the-future-of-ai)
-![](https://cdn.hackernoon.com/images/nlbb7kYPJSWh1Px3enDoYP3AcYu1-g492l7a.jpeg)
-There is no greater topic being discussed in the tech world today than Artificial Intelligence (AI), and there is a good reason for it.
-
-### [179. Your Most Frequently Asked HackerNoon Questions, answered by a Shakespearean Bot](https://hackernoon.com/your-most-frequently-asked-hackernoon-questions-answered-by-a-shakespearean-bot)
-![](https://cdn.hackernoon.com/images/a-shakespearean-bot-holding-a-quill-standing-in-front-of-a-futuristic-retro-style-hacker-noon-logo-with-elements-of-technology-and-innovation-in-the-background-clb71dytb000401s68w8r7njy.png)
-Answering Customer Support queries can be a bit boring. So why not spice it up with some Shakespearean word choice? We trained the bot using ChatGPT3 by openai.
-
-### [180. The GPT-5 Problem: Breaking Down the Backlash and User Complaints](https://hackernoon.com/the-gpt-5-problem-breaking-down-the-backlash-and-user-complaints)
+### [178. The GPT-5 Problem: Breaking Down the Backlash and User Complaints](https://hackernoon.com/the-gpt-5-problem-breaking-down-the-backlash-and-user-complaints)
 ![](https://cdn.hackernoon.com/images/0mnhzqxjZbYNITJZaPKyNWpyyF72-8b03da8.jpeg)
 Explore why GPT-5 is facing backlash. From user complaints to industry concerns, we break down the problems and what they mean for AI’s future.
 
-### [181. How DeepSeek Works - Simplified](https://hackernoon.com/how-deepseek-works-simplified)
+### [179. Comparing VERSES AI to OpenAI: A Talk With ChatGPT4](https://hackernoon.com/comparing-verses-ai-to-openai-a-talk-with-chatgpt4)
+![](https://cdn.hackernoon.com/images/mpVEXfdaEmV42zRPLFBMuYWtW4j2-0993vgc.jpeg)
+In a mere 3 question conversation with ChatGPT4, the bot provided a solid basis to understand issues facing LLMs, & advantages of Active Inference AI over LLMs
+
+### [180. An Academic Approach to the Future of AI](https://hackernoon.com/an-academic-approach-to-the-future-of-ai)
+![](https://cdn.hackernoon.com/images/nlbb7kYPJSWh1Px3enDoYP3AcYu1-g492l7a.jpeg)
+There is no greater topic being discussed in the tech world today than Artificial Intelligence (AI), and there is a good reason for it.
+
+### [181. Your Most Frequently Asked HackerNoon Questions, answered by a Shakespearean Bot](https://hackernoon.com/your-most-frequently-asked-hackernoon-questions-answered-by-a-shakespearean-bot)
+![](https://cdn.hackernoon.com/images/a-shakespearean-bot-holding-a-quill-standing-in-front-of-a-futuristic-retro-style-hacker-noon-logo-with-elements-of-technology-and-innovation-in-the-background-clb71dytb000401s68w8r7njy.png)
+Answering Customer Support queries can be a bit boring. So why not spice it up with some Shakespearean word choice? We trained the bot using ChatGPT3 by openai.
+
+### [182. How DeepSeek Works - Simplified](https://hackernoon.com/how-deepseek-works-simplified)
 ![](https://cdn.hackernoon.com/images/IW0DX1dUHwU9EV8vodJDlqPZYcv1-ib0365p.png)
 Today, we’ll be talking about DeepSeek in-depth— including its architecture, and most importantly, how it’s any different from OpenAI’s ChatGPT.
 
-### [182. The Times v. Microsoft/OpenAI: Substantial Technical Collaboration on the Creation of the Models (3)](https://hackernoon.com/the-times-v-microsoftopenai-substantial-technical-collaboration-on-the-creation-of-the-models-3)
+### [183. The Times v. Microsoft/OpenAI: Substantial Technical Collaboration on the Creation of the Models (3)](https://hackernoon.com/the-times-v-microsoftopenai-substantial-technical-collaboration-on-the-creation-of-the-models-3)
 ![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-substantial-technical-collaboration-on-the-creation-of-the-models-3-gajbsqjgrbzy1mzfs4ee76v4.png)
 Plaintiff The New York Times Company is a New York corporation with its headquarters and principal place of business in New York. 
 
-### [183. Breaking Through the Italian ChatGPT Ban with OpenAccessGPT](https://hackernoon.com/breaking-through-the-italian-chatgpt-ban-with-openaccessgpt)
-![](https://cdn.hackernoon.com/images/gVceiXQOkFdoKs30uJaaPVIylVU2-b9a326b.jpeg)
-Italian data authority temporarily bans OpenAI's ChatGPT. OpenAI halts Italian access, offers solutions. Open-source alternative had been released.
-
-### [184. Can You Use OpenAI's ChatGPT Without Leaking Your Business's IP?](https://hackernoon.com/can-you-use-openais-chatgpt-without-leaking-your-businesss-ip)
-![](https://cdn.hackernoon.com/images/tN27l3Y9QffuAcvXaMBKUiHeo9h1-xf92mzp.jpeg)
-Some companies are cautioning against using ChatGPT. What should the rest of us do? 
-
-### [185. The Problem With Persistent AI Memory: It Doesn’t Forget Context](https://hackernoon.com/the-problem-with-persistent-ai-memory-it-doesnt-forget-context)
-![](https://cdn.hackernoon.com/images/pdZGzx9JN3hRlLVRJrvg1rCx5Au1-k0038rf.jpeg)
-LLM memories help but needs change daily. A response length selector (Short/Medium/Long) eliminates frustrating iterations, saving time and boosting efficiency
-
-### [186. OpenAI Is Winning the AI Race, But Losing the Business Game](https://hackernoon.com/openai-is-winning-the-ai-race-but-losing-the-business-game)
+### [184. OpenAI Is Winning the AI Race, But Losing the Business Game](https://hackernoon.com/openai-is-winning-the-ai-race-but-losing-the-business-game)
 ![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-td239wo.webp)
 Whether from ambition, arrogance, or lack of discipline, OpenAI is in trouble today.
 
-### [187. 100 Days of AI, Day 19: Klarna’s AI Chatbot and The Rise of Generative AI in Startups](https://hackernoon.com/100-days-of-ai-day-19-klarnas-ai-chatbot-and-the-rise-of-generative-ai-in-startups)
+### [185. Can You Use OpenAI's ChatGPT Without Leaking Your Business's IP?](https://hackernoon.com/can-you-use-openais-chatgpt-without-leaking-your-businesss-ip)
+![](https://cdn.hackernoon.com/images/tN27l3Y9QffuAcvXaMBKUiHeo9h1-xf92mzp.jpeg)
+Some companies are cautioning against using ChatGPT. What should the rest of us do? 
+
+### [186. Breaking Through the Italian ChatGPT Ban with OpenAccessGPT](https://hackernoon.com/breaking-through-the-italian-chatgpt-ban-with-openaccessgpt)
+![](https://cdn.hackernoon.com/images/gVceiXQOkFdoKs30uJaaPVIylVU2-b9a326b.jpeg)
+Italian data authority temporarily bans OpenAI's ChatGPT. OpenAI halts Italian access, offers solutions. Open-source alternative had been released.
+
+### [187. I Reverse-engineered How 23 'AI-first' Companies Actually Build Their Products](https://hackernoon.com/i-reverse-engineered-how-23-ai-first-companies-actually-build-their-products-and-the-tech-stack-is)
+![](https://cdn.hackernoon.com/images/upv8succOphEcxsO3Wcwub4gupu1-ic03dy5.jpeg)
+So I spend way too much time looking at how companies claiming to be "AI-powered" or "built with AI" actually implement their tech. 
+
+### [188. 100 Days of AI, Day 19: Klarna’s AI Chatbot and The Rise of Generative AI in Startups](https://hackernoon.com/100-days-of-ai-day-19-klarnas-ai-chatbot-and-the-rise-of-generative-ai-in-startups)
 ![](https://cdn.hackernoon.com/images/Y14t1a3ZEoT7RE6300ayez7dRN83-fw9343f.jpeg)
 Klarna leveraged generative AI to create an AI assistant and improve its customer support experience. What can other companies learn from it?
 
-### [188. Using ChatGPT to be More Productive: 100 Days of AI - Day 4](https://hackernoon.com/using-chatgpt-to-be-more-productive-100-days-of-ai-day-4)
+### [189. Disney’s OpenAI-Sora Collapse Could Push It Deeper Into Epic Games](https://hackernoon.com/disneys-openai-sora-collapse-could-push-it-deeper-into-epic-games)
+![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-ex83nsc.png)
+Where does Disney go next with AI following the collapse of its relationship with OpenAI?
+
+### [190. Using ChatGPT to be More Productive: 100 Days of AI - Day 4](https://hackernoon.com/using-chatgpt-to-be-more-productive-100-days-of-ai-day-4)
 ![](https://cdn.hackernoon.com/images/using-a-chatbot-to-help-you-work-rn32ulms6rci8zxn28h4nmr5.png)
 But the point is clear, using ChatGPT, you can be more productive and creative in your daily job. So, knowing some techniques below will help you 
 
-### [189. How to Integrate Ruby With GPT-3](https://hackernoon.com/how-to-integrate-ruby-with-gpt-3)
+### [191. AI Unleashes a 50x Leap in Stem Cell Reprogramming: OpenAI's GPT-4b Micro Changes the Game for Life ](https://hackernoon.com/ai-unleashes-a-50x-leap-in-stem-cell-reprogramming-openais-gpt-4b-micro-changes-the-game-for-life)
+![](https://cdn.hackernoon.com/images/iN6H2UigxKapyOHZ6k4N9srFgsw1-6903ac9.png)
+This article is about collaboration between OpenAI and Retro Biosciences to accelerate life sciences research through AI. 
+
+### [192. How to Integrate Ruby With GPT-3](https://hackernoon.com/how-to-integrate-ruby-with-gpt-3)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ap92izp.jpeg)
 In this guide learn how to integrate OpenAI (GPT-3) with Ruby to add AI tools to your application.
 
-### [190. Why OpenAI Stole the Show at Apple’s WWDC 2024](https://hackernoon.com/why-openai-stole-the-show-at-apples-wwdc-2024)
-![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-ev83fxg.png)
-Read this post to get insight into the significance of Apple integrating its Siri voice assistant with OpenAI's ChatGPT generative AI tool.
-
-### [191. The Atlas Super-Browser: A Security Nightmare Dressed as the Next Big Thing](https://hackernoon.com/the-atlas-super-browser-a-security-nightmare-dressed-as-the-next-big-thing)
+### [193. The Atlas Super-Browser: A Security Nightmare Dressed as the Next Big Thing](https://hackernoon.com/the-atlas-super-browser-a-security-nightmare-dressed-as-the-next-big-thing)
 ![](https://cdn.hackernoon.com/images/4C9XGbBXTfWCpZ7icj0NdFe3DYE2-4d024wi.png)
 Is OpenAI's Atlas browser a security nightmare? This essay explores the deep risks of AI agents, prompt injection, and total privacy loss. 
 
-### [192. How I Tried to Automate Job Applications as a Software Engineer in Canada (and Failed)](https://hackernoon.com/how-i-tried-to-automate-job-applications-as-a-software-engineer-in-canada-and-failed)
-![](https://cdn.hackernoon.com/images/tCXEVEaSkWSIDCzncRobuIJk7b43-k882q5o.jpeg)
-A job hunt quest in a new country, using tech to make the process easier: RSS feeds, server-side scripts, custom Chrome extension and AI to add a personal touch
+### [194. GPT 4.1 is a HUGE Win For Developers](https://hackernoon.com/gpt-41-is-a-huge-win-for-developers)
+![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-wv038e4.png)
+OpenAI has released its new GPT-4.1 model family, introducing three API-exclusive models: GPT-4.1, GPT-4.1 Mini, and GPT-4.1 Nano.
 
-### [193. The Ultimate Resource Guide for Active Inference AI | 2024 Q1](https://hackernoon.com/the-active-inference-ai-revolution-your-ultimate-resource-guide-for-2024)
-![](https://cdn.hackernoon.com/images/mpVEXfdaEmV42zRPLFBMuYWtW4j2-sd83dye.jpeg)
-The Most Complete Repository of Research Links and Educational Content on the VERSES AI Technology & Active Inference AI
+### [195. Why OpenAI Stole the Show at Apple’s WWDC 2024](https://hackernoon.com/why-openai-stole-the-show-at-apples-wwdc-2024)
+![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-ev83fxg.png)
+Read this post to get insight into the significance of Apple integrating its Siri voice assistant with OpenAI's ChatGPT generative AI tool.
 
-### [194. ChatGPT 4.0 Finally Gets a Joke](https://hackernoon.com/chatgpt-40-finally-gets-a-joke)
+### [196. Elon Musk's xAI Releases Grok 3, but is it the World's Smartest AI?](https://hackernoon.com/elon-musks-xai-releases-grok-3-but-is-it-the-worlds-smartest-ai)
+![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-d4034w6.png)
+Elon Musk's xAI has released Grok 3, setting new standards in AI performance with remarkable reasoning capabilities.
+
+### [197. Tutorial: Your First API Request to OpenAI - AI for Web Developers](https://hackernoon.com/tutorial-your-first-api-request-to-openai-ai-for-web-developers)
+![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-yc83stk.png)
+Make API request to OpenAI with fetch and Qwik forms, protect API keys with Qwik actions, and hide secrets with environment variables.
+
+
+### [198. The AI Search Marketshare Race: OpenAI Accounts for 66.5% of 2.5M+ Monthly Citations to HackerNoon](https://hackernoon.com/the-ai-search-marketshare-race-openai-accounts-for-665percent-of-25m-monthly-citations-to-hackernoon)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-eb13ddx.png)
+AI Search Marketshare based on 2.5M monthly human initiated AI calls for HackerNoon blogs: 1. OpenAI 66.5%, 2. Anthropic/AmazonBot 25.5% and 3. Perplexity 8%.
+
+### [199. ChatGPT 4.0 Finally Gets a Joke](https://hackernoon.com/chatgpt-40-finally-gets-a-joke)
 ![](https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-73e3pcf.jpeg)
 Reasoning: ChatGPT4.0 got the joke, ChatGPT3.5 did not
 Creativity: ChatGPT4.0 does a better job.
@@ -785,116 +810,95 @@ Analytics: ChatGPT4.0 is a better programer than ChatGPT3.5
 
 
 
-### [195. Tutorial: Your First API Request to OpenAI - AI for Web Developers](https://hackernoon.com/tutorial-your-first-api-request-to-openai-ai-for-web-developers)
-![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-yc83stk.png)
-Make API request to OpenAI with fetch and Qwik forms, protect API keys with Qwik actions, and hide secrets with environment variables.
+### [200. The Ultimate Resource Guide for Active Inference AI | 2024 Q1](https://hackernoon.com/the-active-inference-ai-revolution-your-ultimate-resource-guide-for-2024)
+![](https://cdn.hackernoon.com/images/mpVEXfdaEmV42zRPLFBMuYWtW4j2-sd83dye.jpeg)
+The Most Complete Repository of Research Links and Educational Content on the VERSES AI Technology & Active Inference AI
 
-
-### [196. Elon Musk's xAI Releases Grok 3, but is it the World's Smartest AI?](https://hackernoon.com/elon-musks-xai-releases-grok-3-but-is-it-the-worlds-smartest-ai)
-![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-d4034w6.png)
-Elon Musk's xAI has released Grok 3, setting new standards in AI performance with remarkable reasoning capabilities.
-
-### [197. Generative AI Clash: OpenAI’s Emotional AI vs. Google’s Enhanced Search](https://hackernoon.com/generative-ai-clash-openais-emotional-ai-vs-googles-enhanced-search)
-![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-1b83e6t.jpeg)
-Read this post for insight into how OpenAI and Google are improving their core generative AI products.
-
-### [198. How a Princeton Student Built An App to Detect ChatGPT in Essays](https://hackernoon.com/how-a-princeton-student-built-an-app-to-detect-chatgpt-in-essays)
+### [201. How a Princeton Student Built An App to Detect ChatGPT in Essays](https://hackernoon.com/how-a-princeton-student-built-an-app-to-detect-chatgpt-in-essays)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ka92hx2.jpeg)
 Edward Tian, a computer science student at Princeton University, saw the power of AI in a class.
 
-### [199. GPT 4.1 is a HUGE Win For Developers](https://hackernoon.com/gpt-41-is-a-huge-win-for-developers)
-![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-wv038e4.png)
-OpenAI has released its new GPT-4.1 model family, introducing three API-exclusive models: GPT-4.1, GPT-4.1 Mini, and GPT-4.1 Nano.
+### [202. How I Tried to Automate Job Applications as a Software Engineer in Canada (and Failed)](https://hackernoon.com/how-i-tried-to-automate-job-applications-as-a-software-engineer-in-canada-and-failed)
+![](https://cdn.hackernoon.com/images/tCXEVEaSkWSIDCzncRobuIJk7b43-k882q5o.jpeg)
+A job hunt quest in a new country, using tech to make the process easier: RSS feeds, server-side scripts, custom Chrome extension and AI to add a personal touch
 
-### [200. I Reverse-engineered How 23 'AI-first' Companies Actually Build Their Products](https://hackernoon.com/i-reverse-engineered-how-23-ai-first-companies-actually-build-their-products-and-the-tech-stack-is)
-![](https://cdn.hackernoon.com/images/upv8succOphEcxsO3Wcwub4gupu1-ic03dy5.jpeg)
-So I spend way too much time looking at how companies claiming to be "AI-powered" or "built with AI" actually implement their tech. 
+### [203. Generative AI Clash: OpenAI’s Emotional AI vs. Google’s Enhanced Search](https://hackernoon.com/generative-ai-clash-openais-emotional-ai-vs-googles-enhanced-search)
+![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-1b83e6t.jpeg)
+Read this post for insight into how OpenAI and Google are improving their core generative AI products.
 
-### [201. AI Unleashes a 50x Leap in Stem Cell Reprogramming: OpenAI's GPT-4b Micro Changes the Game for Life ](https://hackernoon.com/ai-unleashes-a-50x-leap-in-stem-cell-reprogramming-openais-gpt-4b-micro-changes-the-game-for-life)
-![](https://cdn.hackernoon.com/images/iN6H2UigxKapyOHZ6k4N9srFgsw1-6903ac9.png)
-This article is about collaboration between OpenAI and Retro Biosciences to accelerate life sciences research through AI. 
-
-### [202. The Trifecta of AI: Market Adoption, Business Innovation, and Technical Development](https://hackernoon.com/the-trifecta-of-ai-market-adoption-business-innovation-and-technical-development)
+### [204. The Trifecta of AI: Market Adoption, Business Innovation, and Technical Development](https://hackernoon.com/the-trifecta-of-ai-market-adoption-business-innovation-and-technical-development)
 ![](https://cdn.hackernoon.com/images/SWKm2x9pRQVCf2If5uAJdDO9sBt1-tf93lf2.jpeg)
 Explore the three aspects of AI driving the industry: market adoption, business innovation, and technical development. Discover how they shape the future of AI.
 
-### [203. Train a Chatbot on an Entire YouTube Channel for Free!](https://hackernoon.com/train-a-chatbot-on-an-entire-youtube-channel-for-free)
+### [205. Train a Chatbot on an Entire YouTube Channel for Free!](https://hackernoon.com/train-a-chatbot-on-an-entire-youtube-channel-for-free)
 ![](https://cdn.hackernoon.com/images/youtube-to-chatbot-clit5x7q1000101s6f49v7zj6.png)
 Introducing YouTube-to-chatbot — train a chatbot on an ENTIRE YouTube channel 💬 
 
-### [204. Why OpenAI Should Become Open-Source](https://hackernoon.com/why-openai-should-become-open-source)
+### [206. Why OpenAI Should Become Open-Source](https://hackernoon.com/why-openai-should-become-open-source)
 ![](https://cdn.hackernoon.com/images/yHG5sorapIgbG5ewVsx0i5lmB923-h8831d9.jpeg)
 OpenAI is in a high-stakes legal battle with Elon Musk, who is suing the company to open source its groundbreaking AI models like GPT-4. 
 
-### [205. Taking the Azure Open AI Challenge - Day 4: How to Set Up the Azure AI Search Service](https://hackernoon.com/taking-the-azure-open-ai-challenge-day-4-setting-up-the-azure-ai-search-service)
+### [207. Taking the Azure Open AI Challenge - Day 4: How to Set Up the Azure AI Search Service](https://hackernoon.com/taking-the-azure-open-ai-challenge-day-4-setting-up-the-azure-ai-search-service)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-k5r338u.jpeg)
 The article demonstrates how to use Azure AI Search to develop a solution where documents undergo indexing and enrichment through AI skills, enhancing their sea
 
-### [206. The AI Search Marketshare Race: OpenAI Accounts for 66.5% of 2.5M+ Monthly Citations to HackerNoon](https://hackernoon.com/the-ai-search-marketshare-race-openai-accounts-for-665percent-of-25m-monthly-citations-to-hackernoon)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-eb13ddx.png)
-AI Search Marketshare based on 2.5M monthly human initiated AI calls for HackerNoon blogs: 1. OpenAI 66.5%, 2. Anthropic/AmazonBot 25.5% and 3. Perplexity 8%.
-
-### [207. The Public Fears AGI, But Its History May Assuage Concerns ](https://hackernoon.com/the-public-fears-agi-but-its-history-may-assuage-concerns)
+### [208. The Public Fears AGI, But Its History May Assuage Concerns ](https://hackernoon.com/the-public-fears-agi-but-its-history-may-assuage-concerns)
 ![](https://cdn.hackernoon.com/images/ZGIF6TAmPuhwn5Y5HQEFuaGIhw93-28534g3.jpeg)
 Learn how OpenAI’s o3 model redefines ARC-AGI benchmarks while addressing misconceptions about Artificial General Intelligence and AI's evolving role.
-
-### [208. Using ChatGPT to Help Developers in Their Daily Work: Writing a Spring Boot App Together](https://hackernoon.com/using-chatgpt-to-help-developers-in-their-daily-work-writing-a-spring-boot-app-together)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1n93p3d.jpeg)
-In this article, I want to show by example how ChatGPT can help a developer right now. We will make an application and then improve it.
 
 ### [209. Unlock Event-Driven ChatGPT Apps With AImarkdown Script: The Power of Triggers](https://hackernoon.com/unlock-event-driven-chatgpt-apps-with-aimarkdown-script-the-power-of-triggers)
 ![](https://cdn.hackernoon.com/images/k2s7svgbhkVZ5UqFBHR7QLwURtJ2-l6833z3.jpeg)
 This article explores the potential of integrating triggers and events within ChatGPT to create interactive, adaptable content
 
-### [210. OpenAI's Head of Product Leaves the Company](https://hackernoon.com/openais-head-of-product-leaves-the-company)
+### [210. Using ChatGPT to Help Developers in Their Daily Work: Writing a Spring Boot App Together](https://hackernoon.com/using-chatgpt-to-help-developers-in-their-daily-work-writing-a-spring-boot-app-together)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1n93p3d.jpeg)
+In this article, I want to show by example how ChatGPT can help a developer right now. We will make an application and then improve it.
+
+### [211. OpenAI's Head of Product Leaves the Company](https://hackernoon.com/openais-head-of-product-leaves-the-company)
 ![](https://cdn.hackernoon.com/images/a-robot-saying-goodbye-to-another-robot-clflo8tfb000001s6f54r34ud.png)
 OpenAi's Head of Product announces that they're parting ways with the company.
 
-### [211. OpenData Explorer GPT: Unlocking Information through AI](https://hackernoon.com/opendata-explorer-gpt-unlocking-information-through-ai)
+### [212. OpenData Explorer GPT: Unlocking Information through AI](https://hackernoon.com/opendata-explorer-gpt-unlocking-information-through-ai)
 ![](https://cdn.hackernoon.com/images/B17UCPanp9Vs4bVB3yr0yWk94Ft1-s8c3xd4.jpeg)
 Explore Greece's Open Data landscape with the innovative OpenData Explorer GPT, offering insights and access to valuable public information.
 
-### [212. OpenAI o1 - Questionable Empathy](https://hackernoon.com/openai-o1-questoinable-empathy)
+### [213. OpenAI o1 - Questionable Empathy](https://hackernoon.com/openai-o1-questoinable-empathy)
 ![](https://cdn.hackernoon.com/images/u9GiHUrKXAb43BcKSHXVMlkqOEX2-ni23as1.jpeg)
 A discussion of OpenAI's o1 ability to justify statements in the context of empathy. It makes the right decisions but sometimes for the wrong reasons.
 
-### [213. Mistral’s New AI Assistant Sends Shockwaves With 10x the Speed of Chatgpt](https://hackernoon.com/mistrals-new-ai-assistant-sends-shockwaves-with-10x-the-speed-of-chatgpt)
+### [214. Mistral’s New AI Assistant Sends Shockwaves With 10x the Speed of Chatgpt](https://hackernoon.com/mistrals-new-ai-assistant-sends-shockwaves-with-10x-the-speed-of-chatgpt)
 ![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-ux034k3.png)
 Mistral AI has introduced Le Chat, featuring Cerebras-powered Flash Answers for enhanced response speeds. 
 
-### [214. Italy Stopping ChatGPT Is BS: Here's Why](https://hackernoon.com/italy-stopping-chatgpt-is-bs-heres-why)
+### [215. Italy Stopping ChatGPT Is BS: Here's Why](https://hackernoon.com/italy-stopping-chatgpt-is-bs-heres-why)
 ![](https://cdn.hackernoon.com/images/cO4vHBEMNYgIhZDaoJGjpM2rRMK2-3592j2w.png)
 Still, the unusually prompt and firm decision from the Garante has the bitter aftertaste of political clout used to hide fear and ignorance...
 
-### [215. Enterprise AI: Clever Code Or Corporate Coup? Grim Musings On Tech’s Endgame](https://hackernoon.com/enterprise-ai-clever-code-or-corporate-coup-grim-musings-on-techs-endgame)
+### [216. Enterprise AI: Clever Code Or Corporate Coup? Grim Musings On Tech’s Endgame](https://hackernoon.com/enterprise-ai-clever-code-or-corporate-coup-grim-musings-on-techs-endgame)
 ![](https://cdn.hackernoon.com/images/pC9ETKtznagNvUGUgZ8sqefPnUA3-xh133w6.jpeg)
 Businesses are hurtling full speed into an AI-driven future, completely oblivious to the bigger con that's unfolding. Here's a disturbing revelation.
-
-### [216. An API-First Approach For Designing Restful APIs](https://hackernoon.com/an-api-first-approach-for-designing-restful-apis-5tu3zru)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FuXKz33GgQHPV36JWpVwvymY7q7r2-d35n2wk2.jpeg?alt=media&token=ed02ae3d-e1eb-4456-b142-cc09f6e34f9c)
-I’ve been working with Restful APIs for some time now and one thing that I love to do is to talk about APIs.
 
 ### [217. The Copyright Battle Against AI: Closed vs. Open-Source AI](https://hackernoon.com/the-copyright-battle-against-ai-closed-vs-open-source-ai)
 ![](https://cdn.hackernoon.com/images/zaVyJ3dcr6YgXE0hJ3QabUCHwFi1-vv93yj1.jpeg)
 Chris Mammen explains in a recent interview with Vice about AI-generated music, that the law moves slowly and evolves by analogy.
 
-### [218. DIY ChatGPT Plugin Connector](https://hackernoon.com/diy-chatgpt-plugin-connector)
-![](https://cdn.hackernoon.com/images/CHtvSb9SVVOeNcWkkwPLT1CUMWh1-2b92k4p.jpeg)
-How I connected an external app to ChatGPT
-
-### [219. What is GPT-3 and Why Do We Need it?](https://hackernoon.com/what-is-gpt-3-and-why-do-we-need-it-673j34q7)
-![](https://cdn.hackernoon.com/images/IxJPbU6GXBgZTwlYRpGtOdaTq4p1-09k34vb.jpeg)
-GPT has become a hot topic over the last few years, and with good reason. It provides a general-purpose “text in, text out” interface
-
-### [220. Building an AI-Powered Content Moderation System with JavaScript: A Quick Guide](https://hackernoon.com/building-an-ai-powered-content-moderation-system-with-javascript-a-quick-guide)
+### [218. Building an AI-Powered Content Moderation System with JavaScript: A Quick Guide](https://hackernoon.com/building-an-ai-powered-content-moderation-system-with-javascript-a-quick-guide)
 ![](https://cdn.hackernoon.com/images/JiCWhBChsNZ6j6UWMSu6EP66pN52-ta93ylh.jpeg)
 Learn how to leverage OpenAI to quickly build an AI-powered moderation system that automatically detects and filters toxic comments.
 
 
 
-### [221. Using SheetGPT to Create Meta Descriptions for Your Website](https://hackernoon.com/using-sheetgpt-to-create-meta-descriptions-for-your-website)
-![](https://cdn.hackernoon.com/images/ROJuYTNIbIfA2mL4JGsjtQ3IWFf2-d3831bb.jpeg)
-Revolutionize e-commerce meta descriptions creation using SheetGPT's integration with Google Sheets. Quickly generate and optimize hundreds of meta descriptions
+### [219. DIY ChatGPT Plugin Connector](https://hackernoon.com/diy-chatgpt-plugin-connector)
+![](https://cdn.hackernoon.com/images/CHtvSb9SVVOeNcWkkwPLT1CUMWh1-2b92k4p.jpeg)
+How I connected an external app to ChatGPT
+
+### [220. An API-First Approach For Designing Restful APIs](https://hackernoon.com/an-api-first-approach-for-designing-restful-apis-5tu3zru)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FuXKz33GgQHPV36JWpVwvymY7q7r2-d35n2wk2.jpeg?alt=media&token=ed02ae3d-e1eb-4456-b142-cc09f6e34f9c)
+I’ve been working with Restful APIs for some time now and one thing that I love to do is to talk about APIs.
+
+### [221. What is GPT-3 and Why Do We Need it?](https://hackernoon.com/what-is-gpt-3-and-why-do-we-need-it-673j34q7)
+![](https://cdn.hackernoon.com/images/IxJPbU6GXBgZTwlYRpGtOdaTq4p1-09k34vb.jpeg)
+GPT has become a hot topic over the last few years, and with good reason. It provides a general-purpose “text in, text out” interface
 
 ### [222. Microsoft’s LinkedIn Still Sucks, But Outsmarting Its Algorithm Is Hilariously Easy](https://hackernoon.com/microsofts-linkedin-still-sucks-but-outsmarting-its-algorithm-is-hilariously-easy)
 ![](https://cdn.hackernoon.com/images/NnjZG0u7XOWMXjog0XlYi9V3xX03-xk13bbq.png)
@@ -904,326 +908,326 @@ A cheeky experiment uses ChatGPT to slip LinkedIn’s walled garden, proving off
 ![](https://cdn.hackernoon.com/images/DiwEq4qN7KNxAIjEWoKGfmmqi6N2-god3ox1.jpeg)
 Storytime Sam is an app that uses GPT-3 to generate captivating stories for children. It's user-friendly, easy to navigate, and includes a section for parents t
 
-### [224. Breaking Down the Hype: Tech Expert Saida Gould Speaks on the Recent Surge of AI](https://hackernoon.com/breaking-down-the-hype-tech-expert-saida-gould-speaks-on-the-recent-surge-of-ai)
+### [224. Using SheetGPT to Create Meta Descriptions for Your Website](https://hackernoon.com/using-sheetgpt-to-create-meta-descriptions-for-your-website)
+![](https://cdn.hackernoon.com/images/ROJuYTNIbIfA2mL4JGsjtQ3IWFf2-d3831bb.jpeg)
+Revolutionize e-commerce meta descriptions creation using SheetGPT's integration with Google Sheets. Quickly generate and optimize hundreds of meta descriptions
+
+### [225. Breaking Down the Hype: Tech Expert Saida Gould Speaks on the Recent Surge of AI](https://hackernoon.com/breaking-down-the-hype-tech-expert-saida-gould-speaks-on-the-recent-surge-of-ai)
 ![](https://cdn.hackernoon.com/images/iwYYV1LriEaT7d6rN7rWN595K7w1-dg93pjg.jpeg)
 An exclusive interview with Saida Gould, a technology expert who works with major tech companies and participates in the development of new projects.
 
-### [225. OpenAI Releases Its Smartest Developer Tools Yet](https://hackernoon.com/openai-releases-its-smartest-developer-tools-yet)
-![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-pk0383m.png)
-For JavaScript, full-stack, and backend developers, the implications are huge.
-
-### [226. Can You Write an Entire Blog Post With ChatGPT?](https://hackernoon.com/can-you-write-an-entire-blog-post-with-chatgpt)
-![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-e593gc3.jpeg)
-Lets find out if you can write an entire blog post with ChatGPT and what the results are. 
-
-### [227. ChatGPT Translator VS Mine: Which One Is Better?](https://hackernoon.com/chatgpt-translator-vs-mine-which-one-is-better)
-![](https://cdn.hackernoon.com/images/67vgVOry1RW1Yad4psMVNMncZj73-w593kz4.png)
-Does ChatGPT Translator really so good as mentioned in many posts ? 
-
-### [228. My Journey Coauthoring a Novel With ChatGPT (Part 1)](https://hackernoon.com/how-i-coauthored-with-chatgpt-part-1)
-![](https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-ix93o95.jpeg)
-I have started coauthoring a novel with ChatGPT. I am reporting about my experiences with this new technology, and how it can make authors more productive. 
-
-### [229. ChatGPT: Best Pal or Police Informant?](https://hackernoon.com/chatgpt-best-pal-or-police-informant)
-![](https://cdn.hackernoon.com/images/eES7cSMSiohBWCALj0YUabgjiX53-a703bhu.png)
-Is ChatGPT your digital confidant, or a courtroom witness? Discover the chilling truth behind AI surveillance, flagged chats, and your privacy.
-
-### [230. Why OpenAI is Set to Become the Most Lucrative IPO of 2026 on Wall Street](https://hackernoon.com/why-openai-is-set-to-become-the-most-lucrative-ipo-of-2026-on-wall-street)
+### [226. Why OpenAI is Set to Become the Most Lucrative IPO of 2026 on Wall Street](https://hackernoon.com/why-openai-is-set-to-become-the-most-lucrative-ipo-of-2026-on-wall-street)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-ii03erj.jpeg)
 The prospect of OpenAI becoming Wall Street’s largest-ever debut isn’t beyond the realms of possibility, but does it represent value to investors?
 
-### [231. The Evolution of AI and Data Privacy: How ChatGPT Is Shaping the Future of Digital Communication](https://hackernoon.com/the-evolution-of-ai-and-data-privacy-how-chatgpt-is-shaping-the-future-of-digital-communication)
-![](https://cdn.hackernoon.com/images/38sYCxGly0XJbpXftFZ2lYRaKeh1-ny93p8t.jpeg)
-ChatGPT is absorbing data at a faster pace than any other company in history, and if that balloon bursts, the ramifications for privacy will be unparalleled.
+### [227. OpenAI Releases Its Smartest Developer Tools Yet](https://hackernoon.com/openai-releases-its-smartest-developer-tools-yet)
+![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-pk0383m.png)
+For JavaScript, full-stack, and backend developers, the implications are huge.
 
-### [232. 9 Ways to Better Interact With a LLM (Using the Altman Drama!)](https://hackernoon.com/9-ways-to-better-interact-with-a-llm-using-the-altman-drama)
-![](https://cdn.hackernoon.com/images/h42pozfm4scRLxV00TWDEetyEPJ3-j483o5a.jpeg)
-A brief document inspired by OpenAI’s latest drama, capturing the main techniques for interacting with a LLM to make it more relevant for our use case
+### [228. Can You Write an Entire Blog Post With ChatGPT?](https://hackernoon.com/can-you-write-an-entire-blog-post-with-chatgpt)
+![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-e593gc3.jpeg)
+Lets find out if you can write an entire blog post with ChatGPT and what the results are. 
 
-### [233. An Essential Guide on How to Seamlessly Build AI-Enhanced APIs With OpenAI](https://hackernoon.com/an-essential-guide-on-how-to-seamlessly-build-ai-enhanced-apis-with-openai)
-![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-n9a3rar.jpeg)
-Today, we're announcing the WunderGraph OpenAI integration/Agent SDK to simplify the creation of AI-enhanced APIs...
-
-### [234. Is GPT-OSS Really Open? Inside OpenAI’s Most Transparent Model Yet](https://hackernoon.com/is-gpt-oss-really-open-inside-openais-most-transparent-model-yet)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-bk03klf.png)
-OpenAI’s GPT-OSS launch signals a shift toward transparent, local AI models, but questions on data access and safety remain.
-
-### [235. Revolutionizing Playwright Tests with AI](https://hackernoon.com/revolutionizing-playwright-tests-with-ai)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-v282j52.jpeg)
-Auto Playwright is designed to run Playwright tests using AI, offering a seamless and intuitive way to automate testing tasks. 
-
-### [236. A Game of Chess: Pitting ChatGPT Against Stockfish](https://hackernoon.com/a-game-of-chess-pitting-chatgpt-against-stockfish)
-![](https://cdn.hackernoon.com/images/I4p5dYEugHTvWRFwRxB0BVb2ivQ2-kmb31gk.jpeg)
-I conducted an experiment of pitting ChatGPT against Stockfish. 
-
-### [237. Court Finds OpenAI in Violation of German Copyright Law, Orders Damages](https://hackernoon.com/court-finds-openai-in-violation-of-german-copyright-law-orders-damages)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-p903bjr.jpeg)
-German court rules ChatGPT violated copyright by reproducing song lyrics, setting a major precedent for AI training data in Europe.
-
-### [238. The “Delta Framework” for Tech Adoption and an In-Depth Look at ChatGPT](https://hackernoon.com/the-delta-framework-for-tech-adoption-and-an-in-depth-look-at-chatgpt)
-![](https://cdn.hackernoon.com/images/yDzNEtxDiBOvPnjKKI6x4QWaKLL2-af93pn2.jpeg)
-"Explore the dynamic "Delta Framework" for tech adoption and unravel the groundbreaking role of OpenAI's ChatGPT in democratizing access to advanced AI.
-
-### [239. Progressive Context Disclosure and the Token Problem](https://hackernoon.com/progressive-context-disclosure-and-the-token-problem)
+### [229. Progressive Context Disclosure and the Token Problem](https://hackernoon.com/progressive-context-disclosure-and-the-token-problem)
 ![](https://cdn.hackernoon.com/images/8e19qk7sdNULiWmyNSK2jY43pcP2-g903n0c.jpeg)
 Learn how a Progressive Context Disclosure pattern converts large OpenAPI specs into MCP tools, slashing token usage by 96% without sacrificing API coverage.
 
+
+### [230. ChatGPT Translator VS Mine: Which One Is Better?](https://hackernoon.com/chatgpt-translator-vs-mine-which-one-is-better)
+![](https://cdn.hackernoon.com/images/67vgVOry1RW1Yad4psMVNMncZj73-w593kz4.png)
+Does ChatGPT Translator really so good as mentioned in many posts ? 
+
+### [231. ChatGPT: Best Pal or Police Informant?](https://hackernoon.com/chatgpt-best-pal-or-police-informant)
+![](https://cdn.hackernoon.com/images/eES7cSMSiohBWCALj0YUabgjiX53-a703bhu.png)
+Is ChatGPT your digital confidant, or a courtroom witness? Discover the chilling truth behind AI surveillance, flagged chats, and your privacy.
+
+### [232. My Journey Coauthoring a Novel With ChatGPT (Part 1)](https://hackernoon.com/how-i-coauthored-with-chatgpt-part-1)
+![](https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-ix93o95.jpeg)
+I have started coauthoring a novel with ChatGPT. I am reporting about my experiences with this new technology, and how it can make authors more productive. 
+
+### [233. The Evolution of AI and Data Privacy: How ChatGPT Is Shaping the Future of Digital Communication](https://hackernoon.com/the-evolution-of-ai-and-data-privacy-how-chatgpt-is-shaping-the-future-of-digital-communication)
+![](https://cdn.hackernoon.com/images/38sYCxGly0XJbpXftFZ2lYRaKeh1-ny93p8t.jpeg)
+ChatGPT is absorbing data at a faster pace than any other company in history, and if that balloon bursts, the ramifications for privacy will be unparalleled.
+
+### [234. Court Finds OpenAI in Violation of German Copyright Law, Orders Damages](https://hackernoon.com/court-finds-openai-in-violation-of-german-copyright-law-orders-damages)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-p903bjr.jpeg)
+German court rules ChatGPT violated copyright by reproducing song lyrics, setting a major precedent for AI training data in Europe.
+
+### [235. 9 Ways to Better Interact With a LLM (Using the Altman Drama!)](https://hackernoon.com/9-ways-to-better-interact-with-a-llm-using-the-altman-drama)
+![](https://cdn.hackernoon.com/images/h42pozfm4scRLxV00TWDEetyEPJ3-j483o5a.jpeg)
+A brief document inspired by OpenAI’s latest drama, capturing the main techniques for interacting with a LLM to make it more relevant for our use case
+
+### [236. An Essential Guide on How to Seamlessly Build AI-Enhanced APIs With OpenAI](https://hackernoon.com/an-essential-guide-on-how-to-seamlessly-build-ai-enhanced-apis-with-openai)
+![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-n9a3rar.jpeg)
+Today, we're announcing the WunderGraph OpenAI integration/Agent SDK to simplify the creation of AI-enhanced APIs...
+
+### [237. Is GPT-OSS Really Open? Inside OpenAI’s Most Transparent Model Yet](https://hackernoon.com/is-gpt-oss-really-open-inside-openais-most-transparent-model-yet)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-bk03klf.png)
+OpenAI’s GPT-OSS launch signals a shift toward transparent, local AI models, but questions on data access and safety remain.
+
+### [238. A Game of Chess: Pitting ChatGPT Against Stockfish](https://hackernoon.com/a-game-of-chess-pitting-chatgpt-against-stockfish)
+![](https://cdn.hackernoon.com/images/I4p5dYEugHTvWRFwRxB0BVb2ivQ2-kmb31gk.jpeg)
+I conducted an experiment of pitting ChatGPT against Stockfish. 
+
+### [239. Revolutionizing Playwright Tests with AI](https://hackernoon.com/revolutionizing-playwright-tests-with-ai)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-v282j52.jpeg)
+Auto Playwright is designed to run Playwright tests using AI, offering a seamless and intuitive way to automate testing tasks. 
 
 ### [240. GPT4All: An Ecosystem of Open-Source Compressed Language Models](https://hackernoon.com/gpt4all-an-ecosystem-of-open-source-compressed-language-models)
 ![](https://cdn.hackernoon.com/images/a-shiny-and-sleek-new-robot-g61s6pzalz1sc6kgdvs8euh1.png)
 In this paper, we tell the story of GPT4All, a popular open source repository that aims to democratize access to LLMs.
 
-### [241. The Noonification: Ponzi Scheme Victims Beware: There Is No Such Thing As Easy Money (11/23/2023)](https://hackernoon.com/11-23-2023-noonification)
-![](https://cdn.hackernoon.com/images/noonification_733_o13v4rhyp940m5xpjf45lpuo.png)
-11/23/2023: Top 5 stories on the Hackernoon homepage!
-
-### [242. Demystifying AI Adoption in Business: A Guide to Leveraging ChatGPT Technologies With Azure & Google](https://hackernoon.com/demystifying-ai-adoption-in-business-a-guide-to-leveraging-chatgpt-technologies-with-azure-and-google)
-![](https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-h5c3rbf.jpeg)
-There are now ways for organizations to use the power of Large Language Model's to help their office workers be more productive while retaining data ownership.
-
-### [243. Google’s AI Power Moves with Gemini 2.0 and Project Mariner](https://hackernoon.com/googles-ai-power-moves-with-gemini-20-and-project-mariner)
+### [241. Google’s AI Power Moves with Gemini 2.0 and Project Mariner](https://hackernoon.com/googles-ai-power-moves-with-gemini-20-and-project-mariner)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-sa03dpa.png)
 Read this post to understand the significance of Google's latest developments with generative AI and AI agents, Gemini 2.0 and Project Mariner. 
 
-### [244. ChatGPT slipped into people's DMs? Viral Reddit Post Sparks Debate on AI’s Growing Initiative](https://hackernoon.com/chatgpt-slipped-into-peoples-dms-viral-reddit-post-sparks-debate-on-ais-growing-initiative)
-![](https://cdn.hackernoon.com/images/WFZ8CuQDbrQL9MxiEq25Wcqg6qv1-0w0354t.webp)
-Reddit erupts after a viral post claims ChatGPT messaged first, sparking debates about AI's evolving initiative, privacy concerns, and its potential future role
+### [242. The Noonification: Ponzi Scheme Victims Beware: There Is No Such Thing As Easy Money (11/23/2023)](https://hackernoon.com/11-23-2023-noonification)
+![](https://cdn.hackernoon.com/images/noonification_733_o13v4rhyp940m5xpjf45lpuo.png)
+11/23/2023: Top 5 stories on the Hackernoon homepage!
 
-### [245. From OpenAI to Closed AI: Custom Chips Are Closing The Doors—What’s Next? ](https://hackernoon.com/from-openai-to-closed-ai-custom-chips-are-closing-the-doorswhats-next)
+### [243. Everything We Know Right Now About Artificial, the OpenAI Movie](https://hackernoon.com/everything-we-know-right-now-about-artificial-the-openai-movie)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-cc03fwf.png)
+Everything we know about Luca Guadagnino’s OpenAI movie Artificial—Andrew Garfield as Sam Altman, a $40M budget, and a 2026 release.
+
+### [244. The “Delta Framework” for Tech Adoption and an In-Depth Look at ChatGPT](https://hackernoon.com/the-delta-framework-for-tech-adoption-and-an-in-depth-look-at-chatgpt)
+![](https://cdn.hackernoon.com/images/yDzNEtxDiBOvPnjKKI6x4QWaKLL2-af93pn2.jpeg)
+"Explore the dynamic "Delta Framework" for tech adoption and unravel the groundbreaking role of OpenAI's ChatGPT in democratizing access to advanced AI.
+
+### [245. Demystifying AI Adoption in Business: A Guide to Leveraging ChatGPT Technologies With Azure & Google](https://hackernoon.com/demystifying-ai-adoption-in-business-a-guide-to-leveraging-chatgpt-technologies-with-azure-and-google)
+![](https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-h5c3rbf.jpeg)
+There are now ways for organizations to use the power of Large Language Model's to help their office workers be more productive while retaining data ownership.
+
+### [246. From OpenAI to Closed AI: Custom Chips Are Closing The Doors—What’s Next? ](https://hackernoon.com/from-openai-to-closed-ai-custom-chips-are-closing-the-doorswhats-next)
 ![](https://cdn.hackernoon.com/images/pC9ETKtznagNvUGUgZ8sqefPnUA3-43031x3.jpeg)
 OpenAI could be developing chips for rollout in 2026. This isn't just supply chain diversification, but the end of open AI for all. 
 
-### [246. Distil-Whisper: Enhanced Speed and Efficiency in AI Audio Transcription](https://hackernoon.com/distil-whisper-enhanced-speed-and-efficiency-in-ai-audio-transcription)
+### [247. ChatGPT slipped into people's DMs? Viral Reddit Post Sparks Debate on AI’s Growing Initiative](https://hackernoon.com/chatgpt-slipped-into-peoples-dms-viral-reddit-post-sparks-debate-on-ais-growing-initiative)
+![](https://cdn.hackernoon.com/images/WFZ8CuQDbrQL9MxiEq25Wcqg6qv1-0w0354t.webp)
+Reddit erupts after a viral post claims ChatGPT messaged first, sparking debates about AI's evolving initiative, privacy concerns, and its potential future role
+
+### [248. Distil-Whisper: Enhanced Speed and Efficiency in AI Audio Transcription](https://hackernoon.com/distil-whisper-enhanced-speed-and-efficiency-in-ai-audio-transcription)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-uy83syn.jpeg)
 Distil-Whisper explained: a game-changer in AI voice tech, faster, leaner, and retaining high accuracy. Revolutionizing audio transcription!
-
-### [247. Using ChatGPT to Correct ChatGPT](https://hackernoon.com/using-chatgpt-to-correct-chatgpt)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-wy83rbc.jpeg)
-23rd episode of the What's AI podcast with data science expert Ken Jee sharing amazing ChatGPT tips that will blow your mind!
-
-### [248. The New Open AI Agent Builder is Not an Agent Builder At All](https://hackernoon.com/the-new-open-ai-agent-builder-is-not-an-agent-builder-at-all)
-![](https://cdn.hackernoon.com/images/E6xZxGyQ0wcQwbMh2fO1H3jbghy2-fu13gu1.png)
-Many products announced as “AI agents” are not truly agents but workflows with a fancy coat of paint.
 
 ### [249. AI’s Boom vs. Energy Crisis Community: What the 2030 Apocalypse Could Look Like](https://hackernoon.com/ais-boom-vs-energy-crisis-community-what-the-2030-apocalypse-could-look-like)
 ![](https://cdn.hackernoon.com/images/ZGIF6TAmPuhwn5Y5HQEFuaGIhw93-i203688.webp)
 As the world nears 2030 we have an energy crisis of apocalyptically proportions. Will AI be the solution or the problem?
 
-### [250. Artists Leak OpenAI's Sora Video Model, Exposing Controversial Testing Practices](https://hackernoon.com/artists-leak-openais-sora-video-model-exposing-controversial-testing-practices)
+### [250. Using ChatGPT to Correct ChatGPT](https://hackernoon.com/using-chatgpt-to-correct-chatgpt)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-wy83rbc.jpeg)
+23rd episode of the What's AI podcast with data science expert Ken Jee sharing amazing ChatGPT tips that will blow your mind!
+
+### [251. The Problem With Persistent AI Memory: It Doesn’t Forget Context](https://hackernoon.com/the-problem-with-persistent-ai-memory-it-doesnt-forget-context)
+![](https://cdn.hackernoon.com/images/pdZGzx9JN3hRlLVRJrvg1rCx5Au1-k0038rf.jpeg)
+LLM memories help but needs change daily. A response length selector (Short/Medium/Long) eliminates frustrating iterations, saving time and boosting efficiency
+
+### [252. Artists Leak OpenAI's Sora Video Model, Exposing Controversial Testing Practices](https://hackernoon.com/artists-leak-openais-sora-video-model-exposing-controversial-testing-practices)
 ![](https://cdn.hackernoon.com/images/iBh9rMtuFZXWH5bUGCM1D400BU73-uy036fx.jpeg)
 A protest group called "Sora PR Puppets" leaked OpenAI's unreleased Sora video model on Hugging Face.
 
-### [251. Creative Writing VS AI — What's Your Take?](https://hackernoon.com/creative-writing-vs-ai-whats-your-take)
+### [253. Creative Writing VS AI — What's Your Take?](https://hackernoon.com/creative-writing-vs-ai-whats-your-take)
 ![](https://cdn.hackernoon.com/images/WnOgovxiW4WM9EnF2qgL2e07q0f2-o9c3sk9.jpeg)
 AI-generated content has taken over the world as well as our writing and thinking skills. When was last time you didn't take it's help to write your content?
 
-### [252. How DeepSeek’s 9x Lower Price Is Slowing Down Your AI](https://hackernoon.com/how-deepseeks-9x-lower-price-is-slowing-down-your-ai)
-![](https://cdn.hackernoon.com/images/tzRA5K6hM1dOPXoOr3MltXHaoav1-xf031io.webp)
-This experiment has given me valuable insights into the current AI landscape - and I’m excited to see how these trade‑offs evolve
-
-### [253. AI Image Synthesis: What The Future Holds](https://hackernoon.com/ai-image-synthesis-what-the-future-holds-tau33tg)
-![](https://cdn.hackernoon.com/images/3lt3oTQ1E2VDSsiYRoB66xtTC2t2-dk2b2lmb.jpeg)
-A look at the new wave of GPT-3-based image synthesis systems, such as BigSleep and Aleph2Image - and the future of pure computer-originated video.
-
-### [254. Everything We Know Right Now About Artificial, the OpenAI Movie](https://hackernoon.com/everything-we-know-right-now-about-artificial-the-openai-movie)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-cc03fwf.png)
-Everything we know about Luca Guadagnino’s OpenAI movie Artificial—Andrew Garfield as Sam Altman, a $40M budget, and a 2026 release.
-
-### [255. How Problematic Is ChatGPT's Censorship?](https://hackernoon.com/how-problematic-is-chatgpts-censorship)
+### [254. How Problematic Is ChatGPT's Censorship?](https://hackernoon.com/how-problematic-is-chatgpts-censorship)
 ![](https://cdn.hackernoon.com/images/robot-censorship-clgy4nsn9000001s60p3k7ile.png)
 Kevin Fischer explains ChatGPT's censorship and how it's problematic.
 
-### [256. How to Build a Voice Transcription and Translation App with OpenAI Whisper and Streamlit](https://hackernoon.com/building-a-voice-transcription-and-translation-app-with-openai-whisper-and-streamlit-dev-community)
-![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-p403pzj.png)
-With OpenAI's Whisper model, you can leverage its API to transcribe and translate audio from speech to text using Streamlit.
+### [255. AI Image Synthesis: What The Future Holds](https://hackernoon.com/ai-image-synthesis-what-the-future-holds-tau33tg)
+![](https://cdn.hackernoon.com/images/3lt3oTQ1E2VDSsiYRoB66xtTC2t2-dk2b2lmb.jpeg)
+A look at the new wave of GPT-3-based image synthesis systems, such as BigSleep and Aleph2Image - and the future of pure computer-originated video.
+
+### [256. How DeepSeek’s 9x Lower Price Is Slowing Down Your AI](https://hackernoon.com/how-deepseeks-9x-lower-price-is-slowing-down-your-ai)
+![](https://cdn.hackernoon.com/images/tzRA5K6hM1dOPXoOr3MltXHaoav1-xf031io.webp)
+This experiment has given me valuable insights into the current AI landscape - and I’m excited to see how these trade‑offs evolve
 
 ### [257. Cloudflare Gives Website Owners Option to Charge OpenAI Bots for Scraping](https://hackernoon.com/cloudflare-gives-website-owners-option-to-charge-openai-bots-for-scraping)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-0l02yu0.jpeg)
 Cloudflare has launched a private beta feature called Pay per Crawl, whose sole purpose is to let a website owner charge an AI crawler a fixed fee.
 
-### [258. Building an Analysis Service for Automated Test Failures Using OpenAI](https://hackernoon.com/building-an-analysis-service-for-automated-test-failures-using-openai)
-![](https://cdn.hackernoon.com/images/XusFGl80klV8cE3cV1AMrYfTvmv2-0f83yv3.jpeg)
-A look at how to develop a Nightwatch.js plugin which sends the test failure and associated errors to a service which integrates with the OpenAI platform to ana
+### [258. How to Build a Voice Transcription and Translation App with OpenAI Whisper and Streamlit](https://hackernoon.com/building-a-voice-transcription-and-translation-app-with-openai-whisper-and-streamlit-dev-community)
+![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-p403pzj.png)
+With OpenAI's Whisper model, you can leverage its API to transcribe and translate audio from speech to text using Streamlit.
 
 ### [259. OpenAI FINALLY Releases the ChatGPT Agent The Internet Has Been Asking For](https://hackernoon.com/openai-finally-releases-the-chatgpt-agent-the-internet-has-been-asking-for)
 ![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-ur0394l.png)
 The agent can browse the web, use terminals, write code, analyze data, and create reports and so much more.
 
-### [260. Bing vs Bard: an Apples to Apples Comparison](https://hackernoon.com/bing-vs-bard-an-apples-to-apples-comparison)
+### [260. Building an Analysis Service for Automated Test Failures Using OpenAI](https://hackernoon.com/building-an-analysis-service-for-automated-test-failures-using-openai)
+![](https://cdn.hackernoon.com/images/XusFGl80klV8cE3cV1AMrYfTvmv2-0f83yv3.jpeg)
+A look at how to develop a Nightwatch.js plugin which sends the test failure and associated errors to a service which integrates with the OpenAI platform to ana
+
+### [261. Bing vs Bard: an Apples to Apples Comparison](https://hackernoon.com/bing-vs-bard-an-apples-to-apples-comparison)
 ![](https://cdn.hackernoon.com/images/LFyc5KOYgFdJxEkrbp0jDSuygZL2-oe936u0.jpeg)
 Based on the test results, both Microsoft’s Bing and Google’s Bard AIs should be used with caution, especially when it comes to financial data and decisions. 
 
-### [261. The Noonification: The GNU Projects First Milestone (12/3/2022)](https://hackernoon.com/12-3-2022-noonification)
+### [262. The Moment an AI Startup Becomes More Committed Than It Realizes](https://hackernoon.com/the-moment-an-ai-startup-becomes-more-committed-than-it-realizes)
+![](https://cdn.hackernoon.com/images/1vQ6UmzaynWRRSMXjFIX7TLZBpe2-0883j7o.png)
+OpenAI’s Sora shutdown shows a deeper risk: execution can create market certainty before internal commitment is real. A warning for AI startups post-raise.
+
+### [263. The Noonification: The GNU Projects First Milestone (12/3/2022)](https://hackernoon.com/12-3-2022-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 12/3/2022: Top 5 stories on the Hackernoon homepage!
 
-### [262. How Silicon Valley Bank Went Under - And the Tech Execs Who Stepped Up ](https://hackernoon.com/how-silicon-valley-bank-went-under-and-the-tech-execs-who-stepped-up)
-![](https://cdn.hackernoon.com/images/8XNOXRgh02hSlut2mkXST3bfX703-mx93p1i.jpeg)
-As small-scale startups scrambled to make payroll while the future of the tech industry stood threatened, many of its prominent leaders looked for ways to help.
-
-### [263. A Quick OpenAI Model Deprecation Guide](https://hackernoon.com/a-quick-openai-model-deprecation-guide)
+### [264. A Quick OpenAI Model Deprecation Guide](https://hackernoon.com/a-quick-openai-model-deprecation-guide)
 ![](https://cdn.hackernoon.com/images/a-robot-getting-a-retirement-party-oshbef6vd3nflfyosi36jo3u.png)
 On Jan 4, OpenAI will retire 33 models, including GPT-3 (text-davinci-003) and various others. This is OpenAI's biggest model deprecation so far.
 
-### [264. GPT4All-Snoozy: The Emergence of the GPT4All Ecosystem](https://hackernoon.com/gpt4all-snoozy-the-emergence-of-the-gpt4all-ecosystem)
-![](https://cdn.hackernoon.com/images/a-robot-in-an-old-fashioned-pajama-suit-going-to-bed-jllu06tljtur1iv48brl53nn.png)
+### [265. How Silicon Valley Bank Went Under - And the Tech Execs Who Stepped Up ](https://hackernoon.com/how-silicon-valley-bank-went-under-and-the-tech-execs-who-stepped-up)
+![](https://cdn.hackernoon.com/images/8XNOXRgh02hSlut2mkXST3bfX703-mx93p1i.jpeg)
+As small-scale startups scrambled to make payroll while the future of the tech industry stood threatened, many of its prominent leaders looked for ways to help.
 
-
-### [265. Using AI to Analyze Open Source Projects Quickly](https://hackernoon.com/using-ai-to-analyze-open-source-projects-quickly)
+### [266. Using AI to Analyze Open Source Projects Quickly](https://hackernoon.com/using-ai-to-analyze-open-source-projects-quickly)
 ![](https://cdn.hackernoon.com/images/xORKb4Y0I1d07mNETs2GfS2wTrn1-xa733gy.png)
 I used OpenAI to analyze and describe an open source project called GenAIPot. 
 
-### [266. Why Conversational AI Must Be Mindful](https://hackernoon.com/why-conversational-ai-must-be-mindful)
+### [267. GPT4All-Snoozy: The Emergence of the GPT4All Ecosystem](https://hackernoon.com/gpt4all-snoozy-the-emergence-of-the-gpt4all-ecosystem)
+![](https://cdn.hackernoon.com/images/a-robot-in-an-old-fashioned-pajama-suit-going-to-bed-jllu06tljtur1iv48brl53nn.png)
+
+
+### [268. GPT4All: Model Training, Model Access, and Model Evaluation](https://hackernoon.com/gpt4all-model-training-model-access-and-model-evaluation)
+![](https://cdn.hackernoon.com/images/3-colorful-robots-animated-al9rw6tmjbsv6cqo92kkphtu.png)
+We publicly released all data, training code, and model weights for the community to build upon.
+
+### [269. Why Conversational AI Must Be Mindful](https://hackernoon.com/why-conversational-ai-must-be-mindful)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-9i936lg.jpeg)
 Google and Microsoft have stumbled in their attempt to rush conversational Ai to the market. have they killed trust in chatbots? Read this post to learn more.
 
-### [267. 2024 Was a Watershed Moment for Artificial Intelligence](https://hackernoon.com/2024-was-a-watershed-moment-for-artificial-intelligence)
-![](https://cdn.hackernoon.com/images/ZGIF6TAmPuhwn5Y5HQEFuaGIhw93-jl23682.jpeg)
-Explore 2024's AI revolution: groundbreaking advancements, public adaptation, ethical challenges, and the path to a transformative future in AI
-
-### [268. Did OpenAI's o1 Strawberry model just raise the bar for AI in law? ](https://hackernoon.com/did-openais-o1-strawberry-model-just-raise-the-bar-for-ai-in-law)
-![](https://cdn.hackernoon.com/images/6x9fq0q7dMMAVw0b8vO37uBAdTl1-qj333x8.webp)
-OpenAI's 'Strawberry' o1 model sets a new benchmark for  AI in law, shifting from imitation to reasoning. Explore 8 ways it could transform legal practices.
-
-### [269. From AI Assistants to Code Wizards: Can Reinforcement Learning Outcode GPT Models?](https://hackernoon.com/from-ai-assistants-to-code-wizards-can-reinforcement-learning-outcode-gpt-models)
+### [270. From AI Assistants to Code Wizards: Can Reinforcement Learning Outcode GPT Models?](https://hackernoon.com/from-ai-assistants-to-code-wizards-can-reinforcement-learning-outcode-gpt-models)
 ![](https://cdn.hackernoon.com/images/A6GCGrJ6P1ewgQ3kgLWkufcYSvC2-ju83xat.jpeg)
 Large language models can generate highly fluent and but inaccurate text. But Reinforcement learning systems can be far more accurate and cost-effective.
-
-### [270. GPT4All: Model Training, Model Access, and Model Evaluation](https://hackernoon.com/gpt4all-model-training-model-access-and-model-evaluation)
-![](https://cdn.hackernoon.com/images/3-colorful-robots-animated-al9rw6tmjbsv6cqo92kkphtu.png)
-We publicly released all data, training code, and model weights for the community to build upon.
 
 ### [271. 100 Days of AI Day 5: Transcription and Extracting Insight from Podcasts with OpenAI](https://hackernoon.com/100-days-of-ai-day-5-transcription-and-extracting-insight-from-podcasts-with-openai)
 ![](https://cdn.hackernoon.com/images/Y14t1a3ZEoT7RE6300ayez7dRN83-kz83jgi.jpeg)
 Explore podcast insights with OpenAI: Transcribe YouTube conversations & extract wisdom, sparking innovative product ideas.
 
-### [272. Truth Serum For The AI Age: Factiverse To Fight Fake News And Hallucinations](https://hackernoon.com/truth-serum-for-the-ai-age-factiverse-to-fight-fake-news-and-hallucinations)
+### [272. Did OpenAI's o1 Strawberry model just raise the bar for AI in law? ](https://hackernoon.com/did-openais-o1-strawberry-model-just-raise-the-bar-for-ai-in-law)
+![](https://cdn.hackernoon.com/images/6x9fq0q7dMMAVw0b8vO37uBAdTl1-qj333x8.webp)
+OpenAI's 'Strawberry' o1 model sets a new benchmark for  AI in law, shifting from imitation to reasoning. Explore 8 ways it could transform legal practices.
+
+### [273. 2024 Was a Watershed Moment for Artificial Intelligence](https://hackernoon.com/2024-was-a-watershed-moment-for-artificial-intelligence)
+![](https://cdn.hackernoon.com/images/ZGIF6TAmPuhwn5Y5HQEFuaGIhw93-jl23682.jpeg)
+Explore 2024's AI revolution: groundbreaking advancements, public adaptation, ethical challenges, and the path to a transformative future in AI
+
+### [274. Truth Serum For The AI Age: Factiverse To Fight Fake News And Hallucinations](https://hackernoon.com/truth-serum-for-the-ai-age-factiverse-to-fight-fake-news-and-hallucinations)
 ![](https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-wr836p7.jpeg)
 Factiverse has secured €1 million in funding to expand its AI-powered fact-checking platform in the ongoing battle against fake news and AI hallucinations
 
-### [273. How to Have an Automated Blog Promoter With ChatGPT, Twitter, and AWS](https://hackernoon.com/how-to-have-an-automated-blog-promoter-with-chatgpt-twitter-and-aws)
-![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-oy93f4k.jpeg)
-Automated Blog Promotion with ChatGPT: Learn how to promote your blog posts automatically with our AI-powered toolkit. Start promoting your blog posts today!
-
-### [274. AI's New Apex: ChatGPT Enterprise vs. The Startup Spirit](https://hackernoon.com/ais-new-apex-chatgpt-enterprise-vs-the-startup-spirit)
-![](https://cdn.hackernoon.com/images/DmZUxa5LS1arsnP1kPngIAzOcOt1-2a93x3t.jpeg)
-Exploring ChatGPT Enterprise's dominance in AI and its implications for startups. A deep dive into challenges and opportunities in the evolving tech landscape.
-
-### [275. 5 Key Updates Unveiled at OpenAI's DevDay 2024](https://hackernoon.com/5-key-updates-unveiled-at-openais-devday-2024)
-![](https://cdn.hackernoon.com/images/TbRmoxuzTOhn0RB3YDTmDqDcide2-vq034d7.jpeg)
-OpenAI revealed five major updates during 2024’s DevDay. Here’s what they were and how they’ll change ChatGPT for the better. 
-
-### [276. ChatGPT Just Got The Ability To Solve Riddles](https://hackernoon.com/chatgpt-just-got-the-ability-to-solve-riddles)
-![](https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-6w232zd.jpeg)
-OpenAI just announced their newest model: ChatGPT o1.  I give it a go using a riddle that previous models could not solve. Positive results show the progress.
-
-### [277. Snapchat is Opening Up Its AI Chatbot to All Users](https://hackernoon.com/snapchat-is-opening-up-its-ai-chatbot-to-all-users)
-![](https://cdn.hackernoon.com/images/Fo77uwZhWgMVsoOV7AiG54hEvz03-na93ph6.jpeg)
-Snapchat announced today that it is rolling out a new chatbot feature powered by OpenAI's ChatGPT to all Snapchat users. 
-
-### [278. ChatGPT Canvas: A Game-Changer for Writers and Coders](https://hackernoon.com/chatgpt-canvas-a-game-changer-for-writers-and-coders)
-![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-2u024it.jpeg)
-Canvas is designed to enhance users’ interactions with AI for writing and coding projects.
-
-### [279. Understanding AI's Impact on Education](https://hackernoon.com/understanding-ais-impact-on-education)
-![](https://cdn.hackernoon.com/images/zaVyJ3dcr6YgXE0hJ3QabUCHwFi1-bn93zf3.jpeg)
-How "AI smartness" could present an opportunity for education by challenging the notion of grades.
-
-### [280. OpenAI Is Meticulously Destroying All the Allegations Against It](https://hackernoon.com/openai-is-meticulously-destroying-all-the-allegations-against-it)
-![](https://cdn.hackernoon.com/images/taking-apart-a-device-fbw19clcpbkcnkppa56nif4i.png)
-DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
-
-### [281. Why Most AI Startups Are Just Fancy CRUD Apps With a GPT Wrapper](https://hackernoon.com/why-most-ai-startups-are-just-fancy-crud-apps-with-a-gpt-wrapper)
+### [275. Why Most AI Startups Are Just Fancy CRUD Apps With a GPT Wrapper](https://hackernoon.com/why-most-ai-startups-are-just-fancy-crud-apps-with-a-gpt-wrapper)
 ![](https://cdn.hackernoon.com/images/iEB7EVjsMCRFL8jW48kmn53ySU92-qe134r0.png)
 A blunt take on why most AI startups are just simple apps wrapped around GPT—slick on the surface, hollow underneath.
 
-### [282. A Quick Recap of AI Systems](https://hackernoon.com/a-quick-recap-of-ai-systems)
-![](https://cdn.hackernoon.com/images/kD48RlTBDfZHZq7AXbAYSPcRGPH3-mg33eb8.jpeg)
-The past year saw a “real acceleration” in AI progress, experts predict. 
+### [276. How to Have an Automated Blog Promoter With ChatGPT, Twitter, and AWS](https://hackernoon.com/how-to-have-an-automated-blog-promoter-with-chatgpt-twitter-and-aws)
+![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-oy93f4k.jpeg)
+Automated Blog Promotion with ChatGPT: Learn how to promote your blog posts automatically with our AI-powered toolkit. Start promoting your blog posts today!
 
-### [283. Exploring LLMs and AI Education with Luis Serrano](https://hackernoon.com/exploring-llms-and-ai-education-with-luis-serrano)
+### [277. AI's New Apex: ChatGPT Enterprise vs. The Startup Spirit](https://hackernoon.com/ais-new-apex-chatgpt-enterprise-vs-the-startup-spirit)
+![](https://cdn.hackernoon.com/images/DmZUxa5LS1arsnP1kPngIAzOcOt1-2a93x3t.jpeg)
+Exploring ChatGPT Enterprise's dominance in AI and its implications for startups. A deep dive into challenges and opportunities in the evolving tech landscape.
+
+### [278. 5 Key Updates Unveiled at OpenAI's DevDay 2024](https://hackernoon.com/5-key-updates-unveiled-at-openais-devday-2024)
+![](https://cdn.hackernoon.com/images/TbRmoxuzTOhn0RB3YDTmDqDcide2-vq034d7.jpeg)
+OpenAI revealed five major updates during 2024’s DevDay. Here’s what they were and how they’ll change ChatGPT for the better. 
+
+### [279. Exploring LLMs and AI Education with Luis Serrano](https://hackernoon.com/exploring-llms-and-ai-education-with-luis-serrano)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-ja93ody.jpeg)
 Luis shares his personal experience and thoughts on whether a Ph.D. is necessary for working in AI.
 
-### [284. Why is ChatGPT Banned in Italy?](https://hackernoon.com/why-is-chatgpt-banned-in-italy)
-![](https://cdn.hackernoon.com/images/Fo77uwZhWgMVsoOV7AiG54hEvz03-vm93pd4.jpeg)
-ChatGPT, an AI chatbot, has been banned in Italy due to fears it could produce misleading or offensive content without human supervision.
+### [280. ChatGPT Just Got The Ability To Solve Riddles](https://hackernoon.com/chatgpt-just-got-the-ability-to-solve-riddles)
+![](https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-6w232zd.jpeg)
+OpenAI just announced their newest model: ChatGPT o1.  I give it a go using a riddle that previous models could not solve. Positive results show the progress.
 
-### [285. Nvidia Promises 40x Hopper Performance in Blackwell Unveil at GTC 2025](https://hackernoon.com/nvidia-gtc-2025-updates-ernie-45-100x-cheaper-than-gpt-45-google-ai-meets-robots-and-more)
+### [281. Snapchat is Opening Up Its AI Chatbot to All Users](https://hackernoon.com/snapchat-is-opening-up-its-ai-chatbot-to-all-users)
+![](https://cdn.hackernoon.com/images/Fo77uwZhWgMVsoOV7AiG54hEvz03-na93ph6.jpeg)
+Snapchat announced today that it is rolling out a new chatbot feature powered by OpenAI's ChatGPT to all Snapchat users. 
+
+### [282. OpenAI Is Meticulously Destroying All the Allegations Against It](https://hackernoon.com/openai-is-meticulously-destroying-all-the-allegations-against-it)
+![](https://cdn.hackernoon.com/images/taking-apart-a-device-fbw19clcpbkcnkppa56nif4i.png)
+DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
+
+### [283. ChatGPT Canvas: A Game-Changer for Writers and Coders](https://hackernoon.com/chatgpt-canvas-a-game-changer-for-writers-and-coders)
+![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-2u024it.jpeg)
+Canvas is designed to enhance users’ interactions with AI for writing and coding projects.
+
+### [284. Understanding AI's Impact on Education](https://hackernoon.com/understanding-ais-impact-on-education)
+![](https://cdn.hackernoon.com/images/zaVyJ3dcr6YgXE0hJ3QabUCHwFi1-bn93zf3.jpeg)
+How "AI smartness" could present an opportunity for education by challenging the notion of grades.
+
+### [285. A Quick Recap of AI Systems](https://hackernoon.com/a-quick-recap-of-ai-systems)
+![](https://cdn.hackernoon.com/images/kD48RlTBDfZHZq7AXbAYSPcRGPH3-mg33eb8.jpeg)
+The past year saw a “real acceleration” in AI progress, experts predict. 
+
+### [286. On OpenAI, Anthropic, and Block's United Progress to Own How AI Agents Connect](https://hackernoon.com/on-openai-anthropic-and-blocks-united-progress-to-own-how-ai-agents-connect)
+![](https://cdn.hackernoon.com/images/X56tdd0IHOROIv2OuEHgZdRNUc52-td03bdx.png)
+OpenAI, Anthropic, and Block aren’t just collaborating—they’re using the Agentic AI Foundation to shape how AI agents work. This isn’t about open source...
+
+### [287. Nvidia Promises 40x Hopper Performance in Blackwell Unveil at GTC 2025](https://hackernoon.com/nvidia-gtc-2025-updates-ernie-45-100x-cheaper-than-gpt-45-google-ai-meets-robots-and-more)
 ![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-k90366a.png)
 NVIDIA has unveiled significant AI infrastructure and model advancements at GTC 2025, setting the stage for the next generation of reasoning and agentic AI.
 
-### [286. The Noonification: The Case Against Rocky Linux (3/30/2024)](https://hackernoon.com/3-30-2024-noonification)
+### [288. Why is ChatGPT Banned in Italy?](https://hackernoon.com/why-is-chatgpt-banned-in-italy)
+![](https://cdn.hackernoon.com/images/Fo77uwZhWgMVsoOV7AiG54hEvz03-vm93pd4.jpeg)
+ChatGPT, an AI chatbot, has been banned in Italy due to fears it could produce misleading or offensive content without human supervision.
+
+### [289. The Noonification: The Case Against Rocky Linux (3/30/2024)](https://hackernoon.com/3-30-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_615_upoz1rncikck2uqbxr7h99x9.png)
 3/30/2024: Top 5 stories on the HackerNoon homepage!
 
-### [287. OpenAI Launches $50 million AI fund](https://hackernoon.com/openai-launches-$50-million-ai-fund)
+### [290. OpenAI Launches $50 million AI fund](https://hackernoon.com/openai-launches-$50-million-ai-fund)
 ![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-jk0348g.png)
 OpenAI has launched NextGenAI, an alliance uniting 15 leading research institutions with $50M in funding to accelerate scientific breakthroughs.
 
-### [288. Humans Go to War for Machines: A Case of Google and OpenAI](https://hackernoon.com/humans-go-to-war-for-machines-a-case-of-google-and-openai)
-![](https://cdn.hackernoon.com/images/gJIQIg1YPxb5RjSISA8RrkbCDv83-kd93q29.jpeg)
-We thought nothing could beat the value that Google brings to the market, as a search engine. We had no idea we were in for a surprise. 
-
-### [289. Creating a RAG chatbot with NextJS, OpenAI & Dewy](https://hackernoon.com/creating-a-rag-chatbot-with-nextjs-openai-and-dewy)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-by82ld9.jpeg)
-This guide will walk you through building a RAG application using NextJS, the OpenAI API, and Dewy as your knowledge base.
-
-### [290. Why Do People Keep Fantasizing About AI Bringing On the Apocalypse?](https://hackernoon.com/why-do-people-keep-fantasizing-about-ai-bringing-on-the-apocalypse)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-n103d5b.jpeg)
-It’s still early in, but is anyone else exhausted by the levels of drama and hyperventilation surrounding AI?
-
-### [291. The Hidden Flaw in Automated Content Generation](https://hackernoon.com/the-hidden-flaw-in-automated-content-generation)
-![](https://cdn.hackernoon.com/images/pdZGzx9JN3hRlLVRJrvg1rCx5Au1-50038zv.jpeg)
-LLM-powered daily newsletters stuck repeating content? Learn why RAG stops too early and how local caching creates unique, diverse outputs every day.
-
-### [292. SearchGPT: The AI Search Engine That Could DESTROY Google](https://hackernoon.com/searchgpt-the-ai-search-engine-that-could-destroy-google)
-![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-2d823fc.png)
-SearchGPT, a prototype AI search engine by OpenAI, aims to revolutionize web searches by providing summarized, organized information.
-
-### [293. Claude's Latest Version is EPIC for Programmers](https://hackernoon.com/claudes-latest-version-is-epic-for-programmers)
-![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-9l0341g.png)
-Anthropic has released Claude 3.7 Sonnet, integrating both standard response capabilities and extended reasoning within a single model.
-
-### [294. GPT-5.1 Recasts the AI Race Around Predictability](https://hackernoon.com/gpt-51-recasts-the-ai-race-around-predictability)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-w702368.jpeg)
-OpenAI's GPT-5.1 emphasizes control and adaptability over pure performance, marking a shift in AI model development
-
-### [295. The Interface That Talks: How Apps Inside ChatGPT Are Changing Brand&Design Language](https://hackernoon.com/the-interface-that-talks-how-apps-inside-chatgpt-are-changing-brandanddesign-language)
-![](https://cdn.hackernoon.com/images/fkiAHofl2lTojgydkvXas5u0Hep1-4903bm7.png)
-Apps inside ChatGPT turn conversations into services, shifting from attention to intention economy—and making chat the new homepage for every brand. 
-
-### [296. AI Tools That You Know But Don't Use — Bing Image Creator](https://hackernoon.com/ai-tools-that-you-know-but-dont-use-bing-image-creator)
-![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-4d8217v.jpeg)
-Bing’s Image Creator is an AI tool that you probably missed. 
-
-### [297. What the Data Says About AI’s Impact in the Workplace](https://hackernoon.com/what-the-data-says-about-ais-impact-in-the-workplace)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-t4022cg.jpeg)
-Inside OpenAI’s latest report on how millions of workers are using ChatGPT to code, write, analyze, and make decisions faster than ever. 
-
-### [298. How to Get Started With Azure OpenAI Services](https://hackernoon.com/how-to-get-started-with-azure-openai-services)
-![](https://cdn.hackernoon.com/images/cdMRGNEQvZYT6a1loPqyXOS12xM2-3ta3p4p.jpeg)
-This is the first article of a series on Azure OpenAI Services. This article describes how to start and brings you directly to Azure OpenAI Service Studio.
-
-### [299. Let AI Write Your Pytest Suite: A Practical Guide for SDETs](https://hackernoon.com/let-ai-write-your-pytest-suite-a-practical-guide-for-sdets)
+### [291. Let AI Write Your Pytest Suite: A Practical Guide for SDETs](https://hackernoon.com/let-ai-write-your-pytest-suite-a-practical-guide-for-sdets)
 ![](https://cdn.hackernoon.com/images/Mzt2eIH7p0QxOkK00SiRve8dog72-v5035od.jpeg)
  What if your test cases could be auto-generated by AI and automatically verified using Pytest ?
 
-### [300. DeepSeek's Janus Pro, OpenAI o3-mini, Mistral's 24B Parameter Model, and More](https://hackernoon.com/deepseeks-janus-pro-openai-o3-mini-mistrals-24b-parameter-model-and-more)
-![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-9w034ph.png)
-This week, we’re covering DeepSeek’s new Janus-Pro, a multimodal AI agent, OpenAI’s o3-mini with faster reasoning, and Mistral Small 3
+### [292. Humans Go to War for Machines: A Case of Google and OpenAI](https://hackernoon.com/humans-go-to-war-for-machines-a-case-of-google-and-openai)
+![](https://cdn.hackernoon.com/images/gJIQIg1YPxb5RjSISA8RrkbCDv83-kd93q29.jpeg)
+We thought nothing could beat the value that Google brings to the market, as a search engine. We had no idea we were in for a surprise. 
 
-### [301. ChatGPT-4o Launched: Essential Updates and Free Access](https://hackernoon.com/chatgpt-4o-launched-essential-updates-and-free-access)
-![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-09822xp.jpeg)
-GPT-4o is a new model from OpenAI that can understand and generate text, audio, and images quickly and accurately and is cheaper and faster than older models.
+### [293. Why Do People Keep Fantasizing About AI Bringing On the Apocalypse?](https://hackernoon.com/why-do-people-keep-fantasizing-about-ai-bringing-on-the-apocalypse)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-n103d5b.jpeg)
+It’s still early in, but is anyone else exhausted by the levels of drama and hyperventilation surrounding AI?
 
-### [302. ChatGPT: Your Friendly AI Buddy or a Ruthless Digital Snitch Ready to Ruin Your Life?](https://hackernoon.com/chatgpt-your-friendly-ai-buddy-or-a-ruthless-digital-snitch-ready-to-ruin-your-life)
+### [294. Creating a RAG chatbot with NextJS, OpenAI & Dewy](https://hackernoon.com/creating-a-rag-chatbot-with-nextjs-openai-and-dewy)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-by82ld9.jpeg)
+This guide will walk you through building a RAG application using NextJS, the OpenAI API, and Dewy as your knowledge base.
+
+### [295. The New Open AI Agent Builder is Not an Agent Builder At All](https://hackernoon.com/the-new-open-ai-agent-builder-is-not-an-agent-builder-at-all)
+![](https://cdn.hackernoon.com/images/E6xZxGyQ0wcQwbMh2fO1H3jbghy2-fu13gu1.png)
+Many products announced as “AI agents” are not truly agents but workflows with a fancy coat of paint.
+
+### [296. ChatGPT: Your Friendly AI Buddy or a Ruthless Digital Snitch Ready to Ruin Your Life?](https://hackernoon.com/chatgpt-your-friendly-ai-buddy-or-a-ruthless-digital-snitch-ready-to-ruin-your-life)
 ![](https://cdn.hackernoon.com/images/25wSLwpOYNYKfuwCiBECzAH9bHF3-2r136r4.png)
 Ronnie Huss exposes how ChatGPT is silently scanning chats, flagging users, and escalating data to law enforcement. Privacy? It’s already over.
 
-### [303. Satya Is A Grand Master At 4D Chess](https://hackernoon.com/satya-is-a-grand-master-at-4d-chess)
-![](https://cdn.hackernoon.com/images/Ah2jLzMePieEW0CzYzRXo6GsVyA3-k383ws2.jpeg)
-You don't get to play 4D chess without setting up the board first.
+### [297. GPT-5.1 Recasts the AI Race Around Predictability](https://hackernoon.com/gpt-51-recasts-the-ai-race-around-predictability)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-w702368.jpeg)
+OpenAI's GPT-5.1 emphasizes control and adaptability over pure performance, marking a shift in AI model development
+
+### [298. Claude's Latest Version is EPIC for Programmers](https://hackernoon.com/claudes-latest-version-is-epic-for-programmers)
+![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-9l0341g.png)
+Anthropic has released Claude 3.7 Sonnet, integrating both standard response capabilities and extended reasoning within a single model.
+
+### [299. AI Tools That You Know But Don't Use — Bing Image Creator](https://hackernoon.com/ai-tools-that-you-know-but-dont-use-bing-image-creator)
+![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-4d8217v.jpeg)
+Bing’s Image Creator is an AI tool that you probably missed. 
+
+### [300. How to Get Started With Azure OpenAI Services](https://hackernoon.com/how-to-get-started-with-azure-openai-services)
+![](https://cdn.hackernoon.com/images/cdMRGNEQvZYT6a1loPqyXOS12xM2-3ta3p4p.jpeg)
+This is the first article of a series on Azure OpenAI Services. This article describes how to start and brings you directly to Azure OpenAI Service Studio.
+
+### [301. SearchGPT: The AI Search Engine That Could DESTROY Google](https://hackernoon.com/searchgpt-the-ai-search-engine-that-could-destroy-google)
+![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-2d823fc.png)
+SearchGPT, a prototype AI search engine by OpenAI, aims to revolutionize web searches by providing summarized, organized information.
+
+### [302. DeepSeek's Janus Pro, OpenAI o3-mini, Mistral's 24B Parameter Model, and More](https://hackernoon.com/deepseeks-janus-pro-openai-o3-mini-mistrals-24b-parameter-model-and-more)
+![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-9w034ph.png)
+This week, we’re covering DeepSeek’s new Janus-Pro, a multimodal AI agent, OpenAI’s o3-mini with faster reasoning, and Mistral Small 3
+
+### [303. ChatGPT-4o Launched: Essential Updates and Free Access](https://hackernoon.com/chatgpt-4o-launched-essential-updates-and-free-access)
+![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-09822xp.jpeg)
+GPT-4o is a new model from OpenAI that can understand and generate text, audio, and images quickly and accurately and is cheaper and faster than older models.
 
 ### [304. How to Create a ChatGPT Clone (With Context & Context Switching)](https://hackernoon.com/how-to-create-a-chatgpt-clone-with-context-and-context-switching)
 ![](https://cdn.hackernoon.com/images/HAY1V6U8UXYPkXxacvyuaXXDbTZ2-kqa2sy3.jpeg)
@@ -1233,265 +1237,265 @@ When building conversational applications using #GPT3, one of the challenges you
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-be83lri.jpeg)
 Read this post for a perspective on how the saga of Sam Altman's firing from OpenAI and rehiring reflects the power of people and the fragility of brands.
 
-### [306. First Talos, Now GPT-3: A Deep Dive](https://hackernoon.com/first-talos-now-gpt-3-a-deep-dive-8o1p3zof)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6E774J2BygcL7az0I4txmVV4Xfg2-a61y3wm1.jpeg?alt=media&token=e19fac99-e6c5-4a07-874e-33dd9c86493e)
-The island Crete in Greek mythology is strongly associated with the ancient Greek gods. It is the backdrop to many famous Greek myths, my favourite being Talos.
-
-### [307. I Owe OpenAI $5,000 Dollars and Might Lose Access to My Main Tool of Work](https://hackernoon.com/i-owe-openai-dollar5000-dollars-and-might-lose-access-to-my-main-tool-of-work)
-![](https://cdn.hackernoon.com/images/open-ai-clim6eic8000001s66yebef2m.png)
-This is the story of how I, a PhD student, owe @OpenAI $5,000 dollars and might lose access to my main tool of work.
-
-### [308. OpenAI's o3-mini Cracks Wide Open In Front of Indian AI Model](https://hackernoon.com/openais-o3-mini-cracks-wide-open-in-front-of-indian-ai-model)
-![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-e4038ls.png)
-
-
-### [309. OpenAPI Specification v. 3+ Introduction](https://hackernoon.com/openapi-specification-v-3-introduction-c41v3u3i)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfSn0FdIYzffezOPfjIQE1JZnkj03-pd73ujg.jpeg?alt=media&token=b35afb61-fa4c-41b6-bf54-c1ef330a03e4)
-Mental Checklist
-
-### [310. Point-E Enables Users to Create a 3D Object From Simple Text Input](https://hackernoon.com/point-e-enables-users-to-create-a-3d-object-from-simple-text-input)
+### [306. Point-E Enables Users to Create a 3D Object From Simple Text Input](https://hackernoon.com/point-e-enables-users-to-create-a-3d-object-from-simple-text-input)
 ![](https://cdn.hackernoon.com/images/hRDOVk3kuFUKcdoCm3DRio5srhh1-qo93sbs.jpeg)
 OpenAI, the artificial intelligence research organization that created the incredibly intelligent bot ChatGPT and the text-to-image creator DALL-E
 
-### [311. The Times v. Microsoft/OpenAI: Unauthorized Reproduction of Times Works In GPT Model Training (10)](https://hackernoon.com/the-times-v-microsoftopenai-unauthorized-reproduction-of-times-works-in-gpt-model-training-10)
+### [307. First Talos, Now GPT-3: A Deep Dive](https://hackernoon.com/first-talos-now-gpt-3-a-deep-dive-8o1p3zof)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6E774J2BygcL7az0I4txmVV4Xfg2-a61y3wm1.jpeg?alt=media&token=e19fac99-e6c5-4a07-874e-33dd9c86493e)
+The island Crete in Greek mythology is strongly associated with the ancient Greek gods. It is the backdrop to many famous Greek myths, my favourite being Talos.
+
+### [308. The Times v. Microsoft/OpenAI: Unauthorized Reproduction of Times Works In GPT Model Training (10)](https://hackernoon.com/the-times-v-microsoftopenai-unauthorized-reproduction-of-times-works-in-gpt-model-training-10)
 ![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-unauthorized-reproduction-of-times-works-in-gpt-model-training-10-ylh38lv60m0vxbapvf4303hp.png)
 Microsoft and OpenAI created and distributed reproductions of The Times’s content in several, independent ways in the course of training their LLMs and operatin
 
-### [312. Factual Allegations: Open AI's Codex and Copilot Under Scrutiny ](https://hackernoon.com/factual-allegations-open-ais-codex-and-copilot-under-scrutiny)
+### [309. OpenAI's o3-mini Cracks Wide Open In Front of Indian AI Model](https://hackernoon.com/openais-o3-mini-cracks-wide-open-in-front-of-indian-ai-model)
+![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-e4038ls.png)
+
+
+### [310. I Owe OpenAI $5,000 Dollars and Might Lose Access to My Main Tool of Work](https://hackernoon.com/i-owe-openai-dollar5000-dollars-and-might-lose-access-to-my-main-tool-of-work)
+![](https://cdn.hackernoon.com/images/open-ai-clim6eic8000001s66yebef2m.png)
+This is the story of how I, a PhD student, owe @OpenAI $5,000 dollars and might lose access to my main tool of work.
+
+### [311. Factual Allegations: Open AI's Codex and Copilot Under Scrutiny ](https://hackernoon.com/factual-allegations-open-ais-codex-and-copilot-under-scrutiny)
 ![](https://cdn.hackernoon.com/images/open-a-is-building-being-surveiled-b1byf35n7rh9g0f0wp93onhx.png)
 A class action lawsuit delves into the controversy surrounding OpenAI's Codex and GitHub's Copilot, AI systems designed to aid programmers
 
-### [313. The Lowdown on GPT-5 and What It Will Bring](https://hackernoon.com/the-lowdown-on-gpt-5-and-what-it-will-bring)
-![](https://cdn.hackernoon.com/images/JLKehBeMBONvfxPRcUdK8mvpAYz1-k4831i2.png)
-GPT-5 is designed to understand context on a whole new level.
+### [312. OpenAPI Specification v. 3+ Introduction](https://hackernoon.com/openapi-specification-v-3-introduction-c41v3u3i)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfSn0FdIYzffezOPfjIQE1JZnkj03-pd73ujg.jpeg?alt=media&token=b35afb61-fa4c-41b6-bf54-c1ef330a03e4)
+Mental Checklist
 
-### [314. OpenAI o3 is 80% CHEAPER, Apple WWDC 2025's Biggest Update, Mistral's Reasoning Model, and More ](https://hackernoon.com/openai-o3-is-80percent-cheaper-apple-wwdc-2025s-biggest-update-mistrals-reasoning-model-and-more)
+### [313. OpenAI o3 is 80% CHEAPER, Apple WWDC 2025's Biggest Update, Mistral's Reasoning Model, and More ](https://hackernoon.com/openai-o3-is-80percent-cheaper-apple-wwdc-2025s-biggest-update-mistrals-reasoning-model-and-more)
 ![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-7n039fc.png)
 This week, OpenAI released its new o3‑pro model, and made o3-mini 80% cheaper, and Apple open-sourced its on‑device foundational AI to third‑party developers
 
-### [315. Bun just got 60% faster, Doom now runs on TypeScript, and OpenAI launched GPT 4.5 - This Week in JS](https://hackernoon.com/bun-just-got-60percent-faster-doom-now-runs-on-typescript-and-openai-launched-gpt-45-this-week-in-js)
-![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-u0032x4.png)
-This Week in JavaScript includes OpenAI's groundbreaking GPT-4.5 model, Doom running in TypeScript, major Bun updates, and Firefox's privacy controversy,
+### [314. OpenAI Unveils Codex—An AI Dev Assistant Built for JavaScript and React](https://hackernoon.com/openai-unveils-codexan-ai-dev-assistant-built-for-javascript-and-react)
+![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-wy038yw.png)
+Codex is OpenAI’s software engineering agent that helps developers, especially web and JavaScript developers-automate coding tasks.
 
-### [316. Did Alibaba Just Launch the Fastest LLM Ever?](https://hackernoon.com/did-alibaba-just-launch-the-fastest-llm-ever)
+### [315. Did Alibaba Just Launch the Fastest LLM Ever?](https://hackernoon.com/did-alibaba-just-launch-the-fastest-llm-ever)
 ![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-m0037as.jpeg)
 Alibaba Cloud has unveiled Qwen3, its next-generation language model family that introduces both dense and mixture-of-experts (MoE) architectures. 
 
-### [317. Our AI Coding Tool Went Viral, Then Everything Broke. This is What We Learned.](https://hackernoon.com/our-ai-coding-tool-went-viral-then-everything-broke-this-is-what-we-learned)
-![](https://cdn.hackernoon.com/images/2jYs0JJkujYQyGk24vPEhvoPDQA2-0u034km.webp)
-Our AI coding tool went viral at the wrong time, forcing us to pivot and build smarter, learn hard lessons, and ultimately develop a groundbreaking AI Engineer.
-
-### [318. Original GPT4All Model: How We Collected Data and Then Curated It](https://hackernoon.com/original-gpt4all-model-how-we-collected-data-and-then-curated-it)
+### [316. Original GPT4All Model: How We Collected Data and Then Curated It](https://hackernoon.com/original-gpt4all-model-how-we-collected-data-and-then-curated-it)
 ![](https://cdn.hackernoon.com/images/a-robot-absorbing-all-the-data-in-the-world-ls2trdnvybfptddu6r97mtzf.png)
 To train the original GPT4All model, we collected roughly one million prompt-response pairs using the GPT-3.5-Turbo OpenAI API
 
-### [319. OpenAI's Latest Controversy: Scarlett Johansson Takes Legal Action for Unauthorized Voice Use](https://hackernoon.com/openais-latest-controversy-scarlett-johansson-takes-legal-action-for-unauthorized-voice-use)
-![](https://cdn.hackernoon.com/images/TRitLpffkiUte8hEIiq0jTtuhmy2-hi831yp.jpeg)
-OpenAI's new voice model, Sky, sparks controversy as Scarlett Johansson claims it mimics her voice without consent, leading to legal action and ethical debates.
+### [317. Bun just got 60% faster, Doom now runs on TypeScript, and OpenAI launched GPT 4.5 - This Week in JS](https://hackernoon.com/bun-just-got-60percent-faster-doom-now-runs-on-typescript-and-openai-launched-gpt-45-this-week-in-js)
+![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-u0032x4.png)
+This Week in JavaScript includes OpenAI's groundbreaking GPT-4.5 model, Doom running in TypeScript, major Bun updates, and Firefox's privacy controversy,
 
-### [320. AI and Human Creativity Can Totally Coexist—if AI Doesn’t End up Eating the Thing Keeping it Alive](https://hackernoon.com/ai-and-human-creativity-can-totally-coexistif-ai-doesnt-end-up-eating-the-thing-keeping-it-alive)
+### [318. The Lowdown on GPT-5 and What It Will Bring](https://hackernoon.com/the-lowdown-on-gpt-5-and-what-it-will-bring)
+![](https://cdn.hackernoon.com/images/JLKehBeMBONvfxPRcUdK8mvpAYz1-k4831i2.png)
+GPT-5 is designed to understand context on a whole new level.
+
+### [319. AI and Human Creativity Can Totally Coexist—if AI Doesn’t End up Eating the Thing Keeping it Alive](https://hackernoon.com/ai-and-human-creativity-can-totally-coexistif-ai-doesnt-end-up-eating-the-thing-keeping-it-alive)
 ![](https://cdn.hackernoon.com/images/3GwutAJRWQVk90FbpCzdqx8nvyj1-tb03had.png)
 Artists are calling it theft. Fans are calling it soulless. Hayao Miyazaki once called AI-generated art “an insult to life itself”. How should we think about it
+
+### [320. Our AI Coding Tool Went Viral, Then Everything Broke. This is What We Learned.](https://hackernoon.com/our-ai-coding-tool-went-viral-then-everything-broke-this-is-what-we-learned)
+![](https://cdn.hackernoon.com/images/2jYs0JJkujYQyGk24vPEhvoPDQA2-0u034km.webp)
+Our AI coding tool went viral at the wrong time, forcing us to pivot and build smarter, learn hard lessons, and ultimately develop a groundbreaking AI Engineer.
 
 ### [321. What to Do While I Wait for ChatGPT](https://hackernoon.com/what-to-do-while-i-wait-for-chatgpt)
 ![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-lw03cb6.png)
 Laid-off teams, AI ops, and slow GPT replies—one exec vents about replacing staff with ChatGPT while waiting painfully for it to load. 
 
-### [322. OpenAI Unveils Codex—An AI Dev Assistant Built for JavaScript and React](https://hackernoon.com/openai-unveils-codexan-ai-dev-assistant-built-for-javascript-and-react)
-![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-wy038yw.png)
-Codex is OpenAI’s software engineering agent that helps developers, especially web and JavaScript developers-automate coding tasks.
+### [322. OpenAI's Latest Controversy: Scarlett Johansson Takes Legal Action for Unauthorized Voice Use](https://hackernoon.com/openais-latest-controversy-scarlett-johansson-takes-legal-action-for-unauthorized-voice-use)
+![](https://cdn.hackernoon.com/images/TRitLpffkiUte8hEIiq0jTtuhmy2-hi831yp.jpeg)
+OpenAI's new voice model, Sky, sparks controversy as Scarlett Johansson claims it mimics her voice without consent, leading to legal action and ethical debates.
 
-### [323. My Entire Bombshell Conversation With ChatGPT: Word for Word](https://hackernoon.com/my-entire-bombshell-conversation-with-chatgpt-word-for-word)
-![](https://cdn.hackernoon.com/images/9SBj6OzMvXOEhDxTjjuu75pLYnp1-nmb3g0m.jpeg)
-ChatGPT is a conversation model. So I had a conversation with it based on the BOMB-like revelation it gave in an innocuous text message.
+### [323. The Times v. Microsoft/OpenAI: A Business Model Based on Mass Copyright Infringement (8)](https://hackernoon.com/the-times-v-microsoftopenai-a-business-model-based-on-mass-copyright-infringement-8)
+![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-a-business-model-based-on-mass-copyright-infringement-8-gbcpii13mixre9jwbe5qff6s.png)
+ OpenAI started with $1 billion in seed money from its founders, a group of some of the wealthiest technology entrepreneurs and investors and companies
 
 ### [324. Microsoft’s Collaboration with ChatGPT Could Spell Trouble for Google’s Dominance](https://hackernoon.com/microsofts-collaboration-with-chatgpt-could-spell-trouble-for-googles-dominance)
 ![](https://cdn.hackernoon.com/images/typing-in-google-search-engine-but-a-genie-appears-granting-wishes-that-seem-more-human-cldyrduvo000101s676837nci.png)
 What does Microsoft's collaboration with OpenAi mean for the search industry? Will Bing finally be able to challenge Google? Here's what I think
 
-### [325. The Times v. Microsoft/OpenAI: A Business Model Based on Mass Copyright Infringement (8)](https://hackernoon.com/the-times-v-microsoftopenai-a-business-model-based-on-mass-copyright-infringement-8)
-![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-a-business-model-based-on-mass-copyright-infringement-8-gbcpii13mixre9jwbe5qff6s.png)
- OpenAI started with $1 billion in seed money from its founders, a group of some of the wealthiest technology entrepreneurs and investors and companies
-
-### [326. What Is Open AI Foundry and How Does It Change Generative AI?](https://hackernoon.com/what-is-open-ai-foundry-and-how-does-it-change-generative-ai)
+### [325. What Is Open AI Foundry and How Does It Change Generative AI?](https://hackernoon.com/what-is-open-ai-foundry-and-how-does-it-change-generative-ai)
 ![](https://cdn.hackernoon.com/images/cvfuSXRHowhz9YiuIBtTrfog45X2-ek93qdc.jpeg)
 OpenAI Foundry may just be a rumor, but it took the tech news space by storm. Learn what we can expect, when, and who will benefit from Foundry first.
 
-### [327. The Times v. Microsoft/OpenAI: Unlawful Use of The Times’s Work to Create AI Products (1)](https://hackernoon.com/the-times-v-microsoftopenai-unlawful-use-of-the-timess-work-to-create-ai-products-1)
-![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-unlawful-use-of-the-timess-work-to-create-ai-products-1-fdi42c7d276o2zi2ksryghal.png)
- Independent journalism is vital to our democracy. It is also increasingly rare and valuable. For more than 170 years, The Times has given the world deeply...
+### [326. My Entire Bombshell Conversation With ChatGPT: Word for Word](https://hackernoon.com/my-entire-bombshell-conversation-with-chatgpt-word-for-word)
+![](https://cdn.hackernoon.com/images/9SBj6OzMvXOEhDxTjjuu75pLYnp1-nmb3g0m.jpeg)
+ChatGPT is a conversation model. So I had a conversation with it based on the BOMB-like revelation it gave in an innocuous text message.
 
-### [328. The Times v. Microsoft/OpenAI: Groundbreaking, In-Depth Journalism & Breaking News at Great Cost (5)](https://hackernoon.com/the-times-v-microsoftopenai-groundbreaking-in-depth-journalism-and-breaking-news-at-great-cost-5)
-![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-groundbreaking-in-depth-journalism-wgg2kx1h7dk5njhomdpa5ahn.png)
-To produce world-class journalism, The Times invests an enormous amount of time, money, expertise, and talent, both in its newsroom and product, technology.
-
-### [329. Could OpenAI's New iOS App for ChatGPT Raise Fresh Privacy Concerns?](https://hackernoon.com/could-openais-new-ios-chatgpt-app-raise-new-concerns-over-privacy-issues)
-![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-a293g9a.jpeg)
-Privacy advocates and experts are raising questions about the data collection and storage practices employed by the ChatGPT app
-
-### [330. An Open Letter To Mark Zuckerberg: Size Doesn't Matter](https://hackernoon.com/an-open-letter-to-mark-zuckerberg-size-doesnt-matter)
+### [327. An Open Letter To Mark Zuckerberg: Size Doesn't Matter](https://hackernoon.com/an-open-letter-to-mark-zuckerberg-size-doesnt-matter)
 ![](https://cdn.hackernoon.com/images/acbsj5Z7CqMQoFbgULkxI61NfAq1-0f0388d.jpeg)
 Foundational model builders are focusing too much on increasing parameters in training and that may open up new opportunities for more refined smaller models
 
-### [331. Can a Powerful AI Model Be Built on a Budget?](https://hackernoon.com/can-a-powerful-ai-model-be-built-on-a-budget)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-p402tar.jpeg)
-New research challenges the notion that state-of-the-art AI requires billion-dollar training pipelines.
+### [328. The Times v. Microsoft/OpenAI: Unlawful Use of The Times’s Work to Create AI Products (1)](https://hackernoon.com/the-times-v-microsoftopenai-unlawful-use-of-the-timess-work-to-create-ai-products-1)
+![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-unlawful-use-of-the-timess-work-to-create-ai-products-1-fdi42c7d276o2zi2ksryghal.png)
+ Independent journalism is vital to our democracy. It is also increasingly rare and valuable. For more than 170 years, The Times has given the world deeply...
+
+### [329. The Times v. Microsoft/OpenAI: Groundbreaking, In-Depth Journalism & Breaking News at Great Cost (5)](https://hackernoon.com/the-times-v-microsoftopenai-groundbreaking-in-depth-journalism-and-breaking-news-at-great-cost-5)
+![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-groundbreaking-in-depth-journalism-wgg2kx1h7dk5njhomdpa5ahn.png)
+To produce world-class journalism, The Times invests an enormous amount of time, money, expertise, and talent, both in its newsroom and product, technology.
+
+### [330. Could OpenAI's New iOS App for ChatGPT Raise Fresh Privacy Concerns?](https://hackernoon.com/could-openais-new-ios-chatgpt-app-raise-new-concerns-over-privacy-issues)
+![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-a293g9a.jpeg)
+Privacy advocates and experts are raising questions about the data collection and storage practices employed by the ChatGPT app
+
+### [331. OpenAI Returns to Its Roots With First Open-Weight Models Since GPT-2](https://hackernoon.com/openai-returns-to-its-roots-with-first-open-weight-models-since-gpt-2)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-of02085.jpeg)
+OpenAI's release of open-weight 'gpt-oss' models marks a significant shift towards transparency, addressing criticism of its prior secretive approach.
 
 ### [332. The Times v. Microsoft/OpenAI: Almost Two Centuries of High-Quality, Original, Independent News (4)](https://hackernoon.com/the-times-v-microsoftopenai-almost-two-centuries-of-high-quality-original-independent-news-4)
 ![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-almost-two-centuries-of-high-quality-original-independent-news-4-nzxy0vz8ap7k24eqc0b7o4o0.png)
 The New York Times is a trusted source of quality, independent journalism whose mission is to seek the truth and help people understand the world.
 
-### [333. OpenAI Returns to Its Roots With First Open-Weight Models Since GPT-2](https://hackernoon.com/openai-returns-to-its-roots-with-first-open-weight-models-since-gpt-2)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-of02085.jpeg)
-OpenAI's release of open-weight 'gpt-oss' models marks a significant shift towards transparency, addressing criticism of its prior secretive approach.
+### [333. Can a Powerful AI Model Be Built on a Budget?](https://hackernoon.com/can-a-powerful-ai-model-be-built-on-a-budget)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-p402tar.jpeg)
+New research challenges the notion that state-of-the-art AI requires billion-dollar training pipelines.
 
-### [334. AI in Warfare: OpenAI's Policy Shift Regarding Military Usage of Its Tools](https://hackernoon.com/ai-in-warfare-openais-policy-shift-regarding-military-usage-of-its-tools)
-![](https://cdn.hackernoon.com/images/ai-ek58hgqn59l9w8lv7zrcpva4.png)
-ChatGPT maker OpenAI has altered its usage policy to get rid of a prohibition on using its technology for "military and warfare".
-
-### [335. AI-Generated Code and Copyright Infringement: Codex’s Attribution Problem](https://hackernoon.com/ai-generated-code-and-copyright-infringement-codexs-attribution-problem)
+### [334. AI-Generated Code and Copyright Infringement: Codex’s Attribution Problem](https://hackernoon.com/ai-generated-code-and-copyright-infringement-codexs-attribution-problem)
 ![](https://cdn.hackernoon.com/images/create-an-image-of-a-modern-laptop-with-a-sleek-design-the-laptops-screen-should-prominently-display-a-clear-and-well-defined-copyright-symbol-p61hj6gbo8wy5w0fz4i5gpmg.png)
 Discover how AI-generated code faces issues with understanding, attribution, and license compliance.
 
-### [336. Why Altman Is and Isn't Jobs](https://hackernoon.com/why-altman-is-and-isnt-jobs)
-![](https://cdn.hackernoon.com/images/lw8b8Cc9cKMZL953BfS6VcD8zUi1-br83rvi.jpeg)
-In this article, we'll explore why Altman is and isn't Jobs, shedding light on the unique aspects of each situation.
+### [335. AI in Warfare: OpenAI's Policy Shift Regarding Military Usage of Its Tools](https://hackernoon.com/ai-in-warfare-openais-policy-shift-regarding-military-usage-of-its-tools)
+![](https://cdn.hackernoon.com/images/ai-ek58hgqn59l9w8lv7zrcpva4.png)
+ChatGPT maker OpenAI has altered its usage policy to get rid of a prohibition on using its technology for "military and warfare".
 
-### [337. 4 Artificial General Intelligence Milestones We Need](https://hackernoon.com/4-artificial-general-intelligence-milestones-we-need)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-pq93hea.jpeg)
-4 Milestones that researchers in Artificial General Intelligence need to reach to make significant progress in that field of machine learning research.
-
-### [338. The Noonification: Delving Into OpenTelemetry Collector (11/18/2023)](https://hackernoon.com/11-18-2023-noonification)
+### [336. The Noonification: Delving Into OpenTelemetry Collector (11/18/2023)](https://hackernoon.com/11-18-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_824_fmgmkdszplwtauk1mx2lbxl4.png)
 11/18/2023: Top 5 stories on the Hackernoon homepage!
 
-### [339. SearchGPT: Will Googling Become a Boomer Thing to Do?](https://hackernoon.com/searchgpt-will-googling-become-a-boomer-thing-to-do)
-![](https://cdn.hackernoon.com/images/WFZ8CuQDbrQL9MxiEq25Wcqg6qv1-mq834ja.webp)
-Discover SearchGPT: the future of search combining AI with real-time web info for fast, relevant answers. Will Googling become a thing of the past?
+### [337. What the Data Says About AI’s Impact in the Workplace](https://hackernoon.com/what-the-data-says-about-ais-impact-in-the-workplace)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-t4022cg.jpeg)
+Inside OpenAI’s latest report on how millions of workers are using ChatGPT to code, write, analyze, and make decisions faster than ever. 
 
-### [340. OpenAI Is Intertwined With Microsoft and GitHub](https://hackernoon.com/openai-is-intertwined-with-microsoft-and-github)
-![](https://cdn.hackernoon.com/images/a-rainbow-spiral-si2toe8956w8fps787lg6qo3.png)
-DOE vs. Github (amended complaint) Court Filing (Redacted), June 8, 2023, is part of HackerNoon’s Legal PDF Series. 
-
-### [341. I Built a Tool for Mobile and Computer Operator Using Local and Remote LLMs ](https://hackernoon.com/i-built-a-tool-for-mobile-and-computer-operator-using-local-and-remote-llms)
+### [338. I Built a Tool for Mobile and Computer Operator Using Local and Remote LLMs ](https://hackernoon.com/i-built-a-tool-for-mobile-and-computer-operator-using-local-and-remote-llms)
 ![](https://cdn.hackernoon.com/images/7MYT0uqgy8h2HPCJQm5gl7BT9ap1-jt7332m.png)
 I decided to make use of local models while allowing people to use famous closed-source models if they prefer them...
 
-### [342. GPT4All-J: Repository Growth and the Implications of the LLaMA License](https://hackernoon.com/gpt4all-j-repository-growth-and-the-implications-of-the-llama-license)
-![](https://cdn.hackernoon.com/images/a-house-overgrown-by-trees-and-leaves-sketch-style-ph30nhce4s2fs8jmogbldjd9.png)
-The GPT4All repository grew rapidly after its release, gaining over 20000 GitHub stars in just one week
+### [339. Why Altman Is and Isn't Jobs](https://hackernoon.com/why-altman-is-and-isnt-jobs)
+![](https://cdn.hackernoon.com/images/lw8b8Cc9cKMZL953BfS6VcD8zUi1-br83rvi.jpeg)
+In this article, we'll explore why Altman is and isn't Jobs, shedding light on the unique aspects of each situation.
 
-### [343. OpenAI Alignment Departures: What Is the AI Safety Problem?](https://hackernoon.com/openai-alignment-departures-what-is-the-ai-safety-problem)
-![](https://cdn.hackernoon.com/images/c5rKpn8oWPNzALU41hT0JwMb4pw1-if03pjp.jpeg)
-How can AI have affect? How can this affect become the basis for AI alignment, such that whenever it is misused, it can know that there is a penalty for it?
+### [340. The Interface That Talks: How Apps Inside ChatGPT Are Changing Brand&Design Language](https://hackernoon.com/the-interface-that-talks-how-apps-inside-chatgpt-are-changing-brandanddesign-language)
+![](https://cdn.hackernoon.com/images/fkiAHofl2lTojgydkvXas5u0Hep1-4903bm7.png)
+Apps inside ChatGPT turn conversations into services, shifting from attention to intention economy—and making chat the new homepage for every brand. 
 
-### [344. Less Than 1% of People Are Ready for the Future](https://hackernoon.com/less-than-1percent-of-people-are-ready-for-the-future)
-![](https://cdn.hackernoon.com/images/virtual-reality-cliubul4s000101s62rtvgnrn.png)
-The METAVERSE will become fundamental to everyday existence.
+### [341. The Hidden Flaw in Automated Content Generation](https://hackernoon.com/the-hidden-flaw-in-automated-content-generation)
+![](https://cdn.hackernoon.com/images/pdZGzx9JN3hRlLVRJrvg1rCx5Au1-50038zv.jpeg)
+LLM-powered daily newsletters stuck repeating content? Learn why RAG stops too early and how local caching creates unique, diverse outputs every day.
 
-### [345. Inside OpenAI's Path to Becoming a For-Profit Powerhouse](https://hackernoon.com/inside-openais-path-to-becoming-a-for-profit-powerhouse)
-![](https://cdn.hackernoon.com/images/TbRmoxuzTOhn0RB3YDTmDqDcide2-sl030oh.jpeg)
-OpenAI may soon become a for-profit benefit corporation, but it has nonprofit roots. How did the company get to this point, and what does the future hold?
+### [342. SearchGPT: Will Googling Become a Boomer Thing to Do?](https://hackernoon.com/searchgpt-will-googling-become-a-boomer-thing-to-do)
+![](https://cdn.hackernoon.com/images/WFZ8CuQDbrQL9MxiEq25Wcqg6qv1-mq834ja.webp)
+Discover SearchGPT: the future of search combining AI with real-time web info for fast, relevant answers. Will Googling become a thing of the past?
 
-### [346. Google Has Begun Previewing AI Model 10X CHEAPER Than Claude and Grok](https://hackernoon.com/google-has-begun-previewing-ai-model-10x-cheaper-than-claude-and-grok)
+### [343. OpenAI Is Intertwined With Microsoft and GitHub](https://hackernoon.com/openai-is-intertwined-with-microsoft-and-github)
+![](https://cdn.hackernoon.com/images/a-rainbow-spiral-si2toe8956w8fps787lg6qo3.png)
+DOE vs. Github (amended complaint) Court Filing (Redacted), June 8, 2023, is part of HackerNoon’s Legal PDF Series. 
+
+### [344. Google Has Begun Previewing AI Model 10X CHEAPER Than Claude and Grok](https://hackernoon.com/google-has-begun-previewing-ai-model-10x-cheaper-than-claude-and-grok)
 ![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-ix038k0.png)
 Google has launched Gemini 2.5 Flash in preview, bringing controllable reasoning capabilities to their fastest model tier. 
 
-### [347. Alibaba's Claude Killer Enters the Ring](https://hackernoon.com/alibabas-claude-killer-enters-the-ring)
-![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-z9036yp.png)
-Alibaba has officially released QVQ-Max, their first production version of a visual reasoning model.
+### [345. 4 Artificial General Intelligence Milestones We Need](https://hackernoon.com/4-artificial-general-intelligence-milestones-we-need)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-pq93hea.jpeg)
+4 Milestones that researchers in Artificial General Intelligence need to reach to make significant progress in that field of machine learning research.
 
-### [348. How to Deploy LLMs With MindsDB and OpenAI: An Essential Guide](https://hackernoon.com/how-to-deploy-llms-with-mindsdb-and-openai-an-essential-guide)
-![](https://cdn.hackernoon.com/images/deploying-a-rocket-into-space-lxrglkk0txv9w7q8nbrycaxw.png)
-In this article, you will learn how to deploy LLMs with MindsDB and OpenAI.
+### [346. GPT4All-J: Repository Growth and the Implications of the LLaMA License](https://hackernoon.com/gpt4all-j-repository-growth-and-the-implications-of-the-llama-license)
+![](https://cdn.hackernoon.com/images/a-house-overgrown-by-trees-and-leaves-sketch-style-ph30nhce4s2fs8jmogbldjd9.png)
+The GPT4All repository grew rapidly after its release, gaining over 20000 GitHub stars in just one week
 
-### [349. OpenAI and Amazon Agree to $38 Billion Deal](https://hackernoon.com/openai-and-amazon-agree-to-$38-billion-deal)
+### [347. Inside OpenAI's Path to Becoming a For-Profit Powerhouse](https://hackernoon.com/inside-openais-path-to-becoming-a-for-profit-powerhouse)
+![](https://cdn.hackernoon.com/images/TbRmoxuzTOhn0RB3YDTmDqDcide2-sl030oh.jpeg)
+OpenAI may soon become a for-profit benefit corporation, but it has nonprofit roots. How did the company get to this point, and what does the future hold?
+
+### [348. OpenAI and Amazon Agree to $38 Billion Deal](https://hackernoon.com/openai-and-amazon-agree-to-$38-billion-deal)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-bc03bsg.jpeg)
 OpenAI and Amazon have agreed to a $38 billion deal for the next seven years.
 
-### [350. How to Use the OpenAI API and LangChain to Run ChatGPT-Style Questions Over Your Own Files](https://hackernoon.com/how-to-use-the-openai-api-and-langchain-to-run-chatgpt-style-questions-over-your-own-files)
+### [349. OpenAI Alignment Departures: What Is the AI Safety Problem?](https://hackernoon.com/openai-alignment-departures-what-is-the-ai-safety-problem)
+![](https://cdn.hackernoon.com/images/c5rKpn8oWPNzALU41hT0JwMb4pw1-if03pjp.jpeg)
+How can AI have affect? How can this affect become the basis for AI alignment, such that whenever it is misused, it can know that there is a penalty for it?
+
+### [350. Less Than 1% of People Are Ready for the Future](https://hackernoon.com/less-than-1percent-of-people-are-ready-for-the-future)
+![](https://cdn.hackernoon.com/images/virtual-reality-cliubul4s000101s62rtvgnrn.png)
+The METAVERSE will become fundamental to everyday existence.
+
+### [351. Alibaba's Claude Killer Enters the Ring](https://hackernoon.com/alibabas-claude-killer-enters-the-ring)
+![](https://cdn.hackernoon.com/images/2EPmk4FwPcOfhdhPz3CQJgyuGyI3-z9036yp.png)
+Alibaba has officially released QVQ-Max, their first production version of a visual reasoning model.
+
+### [352. How to Deploy LLMs With MindsDB and OpenAI: An Essential Guide](https://hackernoon.com/how-to-deploy-llms-with-mindsdb-and-openai-an-essential-guide)
+![](https://cdn.hackernoon.com/images/deploying-a-rocket-into-space-lxrglkk0txv9w7q8nbrycaxw.png)
+In this article, you will learn how to deploy LLMs with MindsDB and OpenAI.
+
+### [353. How to Use the OpenAI API and LangChain to Run ChatGPT-Style Questions Over Your Own Files](https://hackernoon.com/how-to-use-the-openai-api-and-langchain-to-run-chatgpt-style-questions-over-your-own-files)
 ![](https://cdn.hackernoon.com/images/Lt0iyEalziTpPzsYPpsCWAZ54yn1-0092kzb.jpeg)
 ChatGPT is Not Just For The Web - Query Your Own Files! Tutorial on how to use ChatGPT on your files
-
-### [351. OpenAI Partners With Broadcom to Build 10GW of Custom AI Chips](https://hackernoon.com/openai-partners-with-broadcom-to-build-10gw-of-custom-ai-chips)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-nc0362s.jpeg)
-Deployment is scheduled to begin in the second half of 2026 and complete by the end of 2029.
-
-### [352. OpenAI Just Hit "Code Red": Inside the New ChatGPT Images Update](https://hackernoon.com/openai-just-hit-code-red-inside-the-new-chatgpt-images-update)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-cp0226w.png)
-Is GPT Image 1.5 a Midjourney killer? Or just a panic patch to stop the bleeding?
-
-### [353. Mr. Altman's Imaginarium: Is the Future Far Away?](https://hackernoon.com/mr-altmans-imaginarium-is-the-future-far-away)
-![](https://cdn.hackernoon.com/images/0x83eeedecf21095c3a93b037ca4dac064d1268272-rj032gr.png)
-Reviews show that tech experts are dissatisfied—too much “fluff” and praise for how great the AI-powered future will be. No specs, no data, nothing concrete!
 
 ### [354. The Future of GPT4All](https://hackernoon.com/the-future-of-gpt4all)
 ![](https://cdn.hackernoon.com/images/a-bright-and-futuristic-world-filled-with-robots-z5liazm2rlkc7laxfptz2916.png)
 In the future, we will continue to grow GPT4All, supporting it as the de facto solution for LLM accessibility.
 
-### [355. ChatGPT Can Be Great or Horrible for Private International Law](https://hackernoon.com/chatgpt-can-be-great-or-horrible-for-private-international-law)
-![](https://cdn.hackernoon.com/images/hasiLC8ImbgyxRepIWbYj0wqmIp2-vj93rh4.jpeg)
-Law shares a lot with programming and that can make AI highly relevant to the legal field. 
+### [355. OpenAI Just Hit "Code Red": Inside the New ChatGPT Images Update](https://hackernoon.com/openai-just-hit-code-red-inside-the-new-chatgpt-images-update)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-cp0226w.png)
+Is GPT Image 1.5 a Midjourney killer? Or just a panic patch to stop the bleeding?
 
-### [356. Navigating the AI Landscape: Beyond the Chatbot](https://hackernoon.com/navigating-the-ai-landscape-beyond-the-chatbot)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-l882qan.jpeg)
-The current paradigm of perceiving AI primarily through the lens of chatbots, is a limited view of AI’s true potential.
-
-### [357. The Times v. Microsoft/OpenAI: Unauthorized Reproductions of Times Works in GPT Models (11)](https://hackernoon.com/the-times-v-microsoftopenai-unauthorized-reproductions-of-times-works-in-gpt-models-11)
+### [356. The Times v. Microsoft/OpenAI: Unauthorized Reproductions of Times Works in GPT Models (11)](https://hackernoon.com/the-times-v-microsoftopenai-unauthorized-reproductions-of-times-works-in-gpt-models-11)
 ![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-unauthorized-reproductions-of-times-works-in-gpt-models-11-l7psn5c1mbg91zw67880k0fk.png)
 As further evidence of being trained using unauthorized copies of Times Works, the GPT LLMs themselves have “memorized” copies of many of those same works encod
 
-### [358. I Crafted SEOGenius for ChatGPT, Taking the Legwork Out of Search Optimizing](https://hackernoon.com/i-crafted-seogenius-for-chatgpt-taking-the-legwork-out-of-search-optimizing)
+### [357. ChatGPT Can Be Great or Horrible for Private International Law](https://hackernoon.com/chatgpt-can-be-great-or-horrible-for-private-international-law)
+![](https://cdn.hackernoon.com/images/hasiLC8ImbgyxRepIWbYj0wqmIp2-vj93rh4.jpeg)
+Law shares a lot with programming and that can make AI highly relevant to the legal field. 
+
+### [358. Mr. Altman's Imaginarium: Is the Future Far Away?](https://hackernoon.com/mr-altmans-imaginarium-is-the-future-far-away)
+![](https://cdn.hackernoon.com/images/0x83eeedecf21095c3a93b037ca4dac064d1268272-rj032gr.png)
+Reviews show that tech experts are dissatisfied—too much “fluff” and praise for how great the AI-powered future will be. No specs, no data, nothing concrete!
+
+### [359. Navigating the AI Landscape: Beyond the Chatbot](https://hackernoon.com/navigating-the-ai-landscape-beyond-the-chatbot)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-l882qan.jpeg)
+The current paradigm of perceiving AI primarily through the lens of chatbots, is a limited view of AI’s true potential.
+
+### [360. I Crafted SEOGenius for ChatGPT, Taking the Legwork Out of Search Optimizing](https://hackernoon.com/i-crafted-seogenius-for-chatgpt-taking-the-legwork-out-of-search-optimizing)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-l3f311p.jpeg)
 Imagine crafting titles so SEO-friendly that Google sends you a personal thank-you note 😂
 
-### [359. Filestack Presents: Nerd Up: Scale Up - A Full-Day Online Conference](https://hackernoon.com/filestack-presents-nerd-up-scale-up-a-full-day-online-conference)
+### [361. Filestack Presents: Nerd Up: Scale Up - A Full-Day Online Conference](https://hackernoon.com/filestack-presents-nerd-up-scale-up-a-full-day-online-conference)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-d492iy6.jpeg)
 On February 22, 2023, from 9:30 a.m. to 3:30 p.m. Central Time, Filestack will be hosting a full-day online conference. 
 
-### [360. The HackerNoon Newsletter: How to Get Around Paywalls on Major Websites (12/1/2024)](https://hackernoon.com/12-1-2024-newsletter)
+### [362. The HackerNoon Newsletter: How to Get Around Paywalls on Major Websites (12/1/2024)](https://hackernoon.com/12-1-2024-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_792_poiqpuxmuqwyvhi7m1gr72m5.png)
 12/1/2024: Top 5 stories on the HackerNoon homepage!
 
-### [361. Lessons From the OpenAI Storm: Angel Investors in the Age of aI Revolution](https://hackernoon.com/lessons-from-the-openai-storm-angel-investors-in-the-age-of-ai-revolution)
-![](https://cdn.hackernoon.com/images/i1VU3ZIznRUQmPulYVx51VYIJN72-4d83f08.jpeg)
-The turmoil at OpenAI provides critical lessons for angel investors.
-
-### [362. Buy From Walmart Within ChatGPT: OpenAI Continues Expansion into Consumer Retail Purchasing Behavior](https://hackernoon.com/buy-from-walmart-within-chatgpt-openai-continues-expansion-into-consumer-retail-purchasing-behavior)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-x603nm7.png)
-Instant checkout for Walmart within ChatGPT. OpenAI continues expansion into retail. 
-
-### [363. R.I.P Hoomans: AI Can Think, Read, and Write](https://hackernoon.com/rip-hoomans-ai-can-think-read-and-write-ng233w4b)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXIBTIWbnW6bDMYIgFoSIVNGlOyd2-xdw200r.jpeg?alt=media&token=fbda6200-b9a9-45a7-8ac4-a5e5f0bae993)
-While we feel proud about our human abilities to think and communicate, there is a silent rise of machines, all set to surpass us.  
-
-### [364. The Noonification: A Rock Solid First PHP Developer Interview (8/5/2023)](https://hackernoon.com/8-5-2023-noonification)
-![](https://cdn.hackernoon.com/images/noonification_558_wslzeidgbpyftisz7i79fuim.png)
-8/5/2023: Top 5 stories on the Hackernoon homepage!
-
-### [365. One More Thing in AI: Meta's AI Paradox, Music Copyright Battles, 3D Printing Revolution, and More](https://hackernoon.com/one-more-thing-in-ai-metas-ai-paradox-music-copyright-battles-3d-printing-revolution-and-more)
-![](https://cdn.hackernoon.com/images/AVjFr77HYCX0MsvFuE0rftOItUx1-4ga3ckl.jpeg)
-Explore insights from Meta's Chief AI Scientist on why AI is not a threat to humanity. Get the inside scoop on Square's latest AI features for merchant payments
-
-### [366. The Times v. Microsoft/OpenAI: A Commitment to Quality Journalism (6)](https://hackernoon.com/the-times-v-microsoftopenai-a-commitment-to-quality-journalism-6)
-![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-a-commitment-to-quality-journalism-6-cvo8vn4saj1voyqqswhvl7mg.png)
- It takes enormous resources to publish, on average, more than 250 original articles every day.
-
-### [367. How to Build and Deploy a Blog-to-Audio Service Using OpenAI](https://hackernoon.com/how-to-build-and-deploy-a-blog-to-audio-service-using-openai)
+### [363. How to Build and Deploy a Blog-to-Audio Service Using OpenAI](https://hackernoon.com/how-to-build-and-deploy-a-blog-to-audio-service-using-openai)
 ![](https://cdn.hackernoon.com/images/AGr8KngsfDgFeQNG1b8p0b616hy2-0h03e08.png)
 Learn how to turn any blog post or text into a clear, natural-sounding audio file using OpenAI's text-to-speech API.
 
-### [368. Is Bias in AI Quantifiable?](https://hackernoon.com/is-bias-in-ai-quantifiable)
-![](https://cdn.hackernoon.com/images/F6a0pqebSyMNpnnPJ1pwd1veUwJ2-t1031l4.jpeg)
-Dive deep into the challenges of measuring and mitigating bias in machine learning models, the trade-offs between fairness metrics.
+### [364. Lessons From the OpenAI Storm: Angel Investors in the Age of aI Revolution](https://hackernoon.com/lessons-from-the-openai-storm-angel-investors-in-the-age-of-ai-revolution)
+![](https://cdn.hackernoon.com/images/i1VU3ZIznRUQmPulYVx51VYIJN72-4d83f08.jpeg)
+The turmoil at OpenAI provides critical lessons for angel investors.
+
+### [365. The Times v. Microsoft/OpenAI: A Commitment to Quality Journalism (6)](https://hackernoon.com/the-times-v-microsoftopenai-a-commitment-to-quality-journalism-6)
+![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-a-commitment-to-quality-journalism-6-cvo8vn4saj1voyqqswhvl7mg.png)
+ It takes enormous resources to publish, on average, more than 250 original articles every day.
+
+### [366. One More Thing in AI: Meta's AI Paradox, Music Copyright Battles, 3D Printing Revolution, and More](https://hackernoon.com/one-more-thing-in-ai-metas-ai-paradox-music-copyright-battles-3d-printing-revolution-and-more)
+![](https://cdn.hackernoon.com/images/AVjFr77HYCX0MsvFuE0rftOItUx1-4ga3ckl.jpeg)
+Explore insights from Meta's Chief AI Scientist on why AI is not a threat to humanity. Get the inside scoop on Square's latest AI features for merchant payments
+
+### [367. The Noonification: A Rock Solid First PHP Developer Interview (8/5/2023)](https://hackernoon.com/8-5-2023-noonification)
+![](https://cdn.hackernoon.com/images/noonification_558_wslzeidgbpyftisz7i79fuim.png)
+8/5/2023: Top 5 stories on the Hackernoon homepage!
+
+### [368. R.I.P Hoomans: AI Can Think, Read, and Write](https://hackernoon.com/rip-hoomans-ai-can-think-read-and-write-ng233w4b)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXIBTIWbnW6bDMYIgFoSIVNGlOyd2-xdw200r.jpeg?alt=media&token=fbda6200-b9a9-45a7-8ac4-a5e5f0bae993)
+While we feel proud about our human abilities to think and communicate, there is a silent rise of machines, all set to surpass us.  
 
 ### [369. OpenAI's Motion to Dismiss the Lawsuit: Why They Think They Should Be Let Off the Hook ](https://hackernoon.com/openais-motion-to-dismiss-the-lawsuit-why-they-think-they-should-be-let-off-the-hook)
 ![](https://cdn.hackernoon.com/images/a-fish-falling-off-a-hook-p06dmq1bl2fmrfhhzto6xnne.png)
 DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
 
-### [370. Showcasing Server-side Rendering in Rust — A Dall.E Use-case](https://hackernoon.com/showcasing-server-side-rendering-in-rust-a-dalle-use-case)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-tsb2bcz.jpeg)
-In this post, I want to describe how you can create a webapp with server-side rendering.
+### [370. Is Bias in AI Quantifiable?](https://hackernoon.com/is-bias-in-ai-quantifiable)
+![](https://cdn.hackernoon.com/images/F6a0pqebSyMNpnnPJ1pwd1veUwJ2-t1031l4.jpeg)
+Dive deep into the challenges of measuring and mitigating bias in machine learning models, the trade-offs between fairness metrics.
 
 ### [371. How to Make Your Codebase Searchable With AI (Embeddings or Not)](https://hackernoon.com/how-to-make-your-codebase-searchable-with-ai-embeddings-or-not)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-z402y54.jpeg)
@@ -1501,252 +1505,264 @@ In this post, I want to describe how you can create a webapp with server-side re
 ![](https://cdn.hackernoon.com/images/court-building-b05ozn6cf3cndbuqhehsim70.png)
 Discover the strategic importance of jurisdictional assignment and the role of the San Francisco Division in Doe vs Github. 
 
-### [373. New York Times Files Lawsuit Against OpenAI and Microsoft for Copyright Infringement in AI ](https://hackernoon.com/new-york-times-files-lawsuit-against-openai-for-copyright-infringement-in-ai)
+### [373. Showcasing Server-side Rendering in Rust — A Dall.E Use-case](https://hackernoon.com/showcasing-server-side-rendering-in-rust-a-dalle-use-case)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-tsb2bcz.jpeg)
+In this post, I want to describe how you can create a webapp with server-side rendering.
+
+### [374. New York Times Files Lawsuit Against OpenAI and Microsoft for Copyright Infringement in AI ](https://hackernoon.com/new-york-times-files-lawsuit-against-openai-for-copyright-infringement-in-ai)
 ![](https://cdn.hackernoon.com/images/ysXQQ2Q709W60Kk4TrKE20Gjeam2-do83rnd.jpeg)
 The New York Times claimed to be the "first major American media organisation to sue the companies over copyright issues associated with its written works." 
 
-### [374. Details of the OpenAI Lawsuit: The Plaintiffs' Fail to Plead a Violation of the CCPA](https://hackernoon.com/details-of-the-openai-lawsuit-the-plaintiffs-fail-to-plead-a-violation-of-the-ccpa)
+### [375. Details of the OpenAI Lawsuit: The Plaintiffs' Fail to Plead a Violation of the CCPA](https://hackernoon.com/details-of-the-openai-lawsuit-the-plaintiffs-fail-to-plead-a-violation-of-the-ccpa)
 ![](https://cdn.hackernoon.com/images/a-sword-slicing-through-words-o6rt1wdfwoexgpghbpv5us30.png)
 DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here.
 
-### [375. The Legal Copyright Battle Against AI: An Introduction to the EU’s Requirements](https://hackernoon.com/the-legal-copyright-battle-against-ai-an-introduction-to-the-eus-requirements)
+### [376. The Legal Copyright Battle Against AI: An Introduction to the EU’s Requirements](https://hackernoon.com/the-legal-copyright-battle-against-ai-an-introduction-to-the-eus-requirements)
 ![](https://cdn.hackernoon.com/images/zaVyJ3dcr6YgXE0hJ3QabUCHwFi1-cg93u2k.jpeg)
 In this post, I will provide some relevant background information on the EU’s upcoming AI Act and the debate about transparency requirements.
 
-### [376. The Times v. Microsoft/OpenAI: Subject Matter Jurisdiction under 28 U.S.C. §§ 1331 and 1338a (2)](https://hackernoon.com/the-times-v-microsoftopenai-subject-matter-jurisdiction-under-28-usc-1331-and-1338a-2)
+### [377. OpenAI's Motion to Dismiss: What the Company Had to Say About the Lawsuit and the Plaintiffs](https://hackernoon.com/openais-motion-to-dismiss-what-the-company-had-to-say-about-the-lawsuit-and-the-plaintiffs)
+![](https://cdn.hackernoon.com/images/a-hand-dropping-a-microphone-mnw0d140lq2n5xqpcq7470kl.png)
+DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
+
+### [378. OpenAI Partners With Broadcom to Build 10GW of Custom AI Chips](https://hackernoon.com/openai-partners-with-broadcom-to-build-10gw-of-custom-ai-chips)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-nc0362s.jpeg)
+Deployment is scheduled to begin in the second half of 2026 and complete by the end of 2029.
+
+### [379. The Times v. Microsoft/OpenAI: Subject Matter Jurisdiction under 28 U.S.C. §§ 1331 and 1338a (2)](https://hackernoon.com/the-times-v-microsoftopenai-subject-matter-jurisdiction-under-28-usc-1331-and-1338a-2)
 ![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-subject-matter-jurisdiction-under-28-u-s-c-1331-and-1338-a-2-ah84cxdghs2zfnwhu43vppdu.png)
 The Court has subject matter jurisdiction under 28 U.S.C. §§ 1331 and 1338(a) because this action arises under the Copyright Act of 1976, 17 U.S.C. § 101, et se
 
-### [377. The Times v. Microsoft/OpenAI: Unauthorized Retrieval and Dissemination of Current News (13)](https://hackernoon.com/the-times-v-microsoftopenai-unauthorized-retrieval-and-dissemination-of-current-news-13)
+### [380. The Times v. Microsoft/OpenAI: Unauthorized Retrieval and Dissemination of Current News (13)](https://hackernoon.com/the-times-v-microsoftopenai-unauthorized-retrieval-and-dissemination-of-current-news-13)
 ![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-unauthorized-retrieval-and-dissemination-of-current-news-13-hj2ruowwrj4qi0ah4bynzzwr.png)
 Synthetic search applications built on the GPT LLMs, including Bing Chat and Browse with Bing for ChatGPT, display extensive excerpts or paraphrases 
 
-### [378. GitHub and OpenAI Accused of Violating the California Consumer Privacy Act](https://hackernoon.com/github-and-openai-accused-of-violating-the-california-consumer-privacy-act)
-![](https://cdn.hackernoon.com/images/illustrate-a-heap-of-documents-with-a-large-x-mark-on-them-ocdwqi57tv7g4kchht5uhe0h.png)
-GitHub and OpenAI face allegations of violating the California Consumer Privacy Act (CCPA) by using personal information without proper notice. 
-
-### [379. The Noonification: Asimov Unknowingly Pioneered Modern Prompt Engineering (5/14/2023)](https://hackernoon.com/5-14-2023-noonification)
+### [381. The Noonification: Asimov Unknowingly Pioneered Modern Prompt Engineering (5/14/2023)](https://hackernoon.com/5-14-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 5/14/2023: Top 5 stories on the Hackernoon homepage!
 
-### [380. Why Your AI Coding Assistant Might Be Built on the Wrong Foundation](https://hackernoon.com/why-your-ai-coding-assistant-might-be-built-on-the-wrong-foundation)
-![](https://cdn.hackernoon.com/images/pniu5ezPLEWLZyDCoWb3QK7EgVJ2-m103bcf.jpeg)
-Swedish AI lab claims 25x more efficient architecture than transformers. It could reshape how developers use AI coding assistants. Waitlist open.
-
-### [381. How to Address Bugs, Security, & Reliability: AI for Web Devs](https://hackernoon.com/how-to-address-bugs-security-and-reliability-ai-for-web-devs)
+### [382. How to Address Bugs, Security, & Reliability: AI for Web Devs](https://hackernoon.com/how-to-address-bugs-security-and-reliability-ai-for-web-devs)
 ![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-6183roo.png)
 In this post we'll walk through our existing AI application and address bugs, security, and reliability concerns for most apps and AI apps specifically.
 
 
-### [382. OpenAI's Motion to Dismiss: What the Company Had to Say About the Lawsuit and the Plaintiffs](https://hackernoon.com/openais-motion-to-dismiss-what-the-company-had-to-say-about-the-lawsuit-and-the-plaintiffs)
-![](https://cdn.hackernoon.com/images/a-hand-dropping-a-microphone-mnw0d140lq2n5xqpcq7470kl.png)
-DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
-
-### [383. How I Built FlipACoinFree — A Fast, Fair, Embeddable Coin-Flip Simulator](https://hackernoon.com/how-i-built-flipacoinfree-a-fast-fair-embeddable-coin-flip-simulator)
-![](https://cdn.hackernoon.com/images/tn7kzn3hGLbDUase9x2FACog3792-dm03ggf.png)
-I built FlipACoinFree.com — a fast, ad-free, embeddable coin-flip simulator with server-side randomness, API, and 30+ languages. Here’s how I built it. 
-
-### [384. The Times v. Microsoft/OpenAI: Defendants’ Unauthorized Use and Copying of Times Content (14)](https://hackernoon.com/the-times-v-microsoftopenai-defendants-unauthorized-use-and-copying-of-times-content-14)
-![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-defendants-unauthorized-use-and-copying-of-times-content-14-p7332l5ykfv5k1554ldynakv.png)
-Defendants’ unauthorized reproduction and display of Times Works is willful. Defendants were intimately involved in training, fine-tuning, and otherwise testing
-
-### [385. Here's What Happened During Sam Altman's First Congressional Hearing on Artificial Intelligence](https://hackernoon.com/heres-what-happened-during-sam-altmans-first-congressional-hearing-on-artificial-intelligence)
-![](https://cdn.hackernoon.com/images/hearing-on-court-clij5x2bg000001s667d408j1.png)
-Here’s what happened during OpenAI CEO Sam Altman’s first congressional hearing on artificial intelligence.
-
-### [386. The OpenAI Lawsuit Should Be Dismissed Because Code Can't Be Considered Tangible Goods](https://hackernoon.com/the-openai-lawsuit-should-be-dismissed-because-code-cant-be-considered-tangible-goods)
-![](https://cdn.hackernoon.com/images/money-and-gold-in-bags-fmmjn7e36wn60joe3flvpnl5.png)
-DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
-
-### [387. OpenAI and Microsoft Are Being Sued in California: Here's Why](https://hackernoon.com/openai-and-microsoft-are-being-sued-in-california-heres-why)
-![](https://cdn.hackernoon.com/images/robot-testifying-in-court-hf9me59au25jei85icfj8hpe.png)
-Carissa Véliz goes over why OpenAI and Microsoft are being sued.
-
-### [388. OpenAI's Reply to the Amended Complaint: What They Have to Say](https://hackernoon.com/openais-reply-to-the-amended-complaint-what-they-have-to-say)
+### [383. OpenAI's Reply to the Amended Complaint: What They Have to Say](https://hackernoon.com/openais-reply-to-the-amended-complaint-what-they-have-to-say)
 ![](https://cdn.hackernoon.com/images/a-robot-giving-a-speech-ek0noqlbq8bsyxeiv2yjggoj.png)
 Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023, is part of HackerNoon’s Legal PDF Series. 
 
-### [389. The Times v Microsoft/OpenAI: Unauthorized Public Display of Times Works in GPT Product Outputs (12)](https://hackernoon.com/the-times-v-microsoftopenai-unauthorized-public-display-of-times-works-in-gpt-product-outputs-12)
+### [384. Why Your AI Coding Assistant Might Be Built on the Wrong Foundation](https://hackernoon.com/why-your-ai-coding-assistant-might-be-built-on-the-wrong-foundation)
+![](https://cdn.hackernoon.com/images/pniu5ezPLEWLZyDCoWb3QK7EgVJ2-m103bcf.jpeg)
+Swedish AI lab claims 25x more efficient architecture than transformers. It could reshape how developers use AI coding assistants. Waitlist open.
+
+### [385. GitHub and OpenAI Accused of Violating the California Consumer Privacy Act](https://hackernoon.com/github-and-openai-accused-of-violating-the-california-consumer-privacy-act)
+![](https://cdn.hackernoon.com/images/illustrate-a-heap-of-documents-with-a-large-x-mark-on-them-ocdwqi57tv7g4kchht5uhe0h.png)
+GitHub and OpenAI face allegations of violating the California Consumer Privacy Act (CCPA) by using personal information without proper notice. 
+
+### [386. How I Built FlipACoinFree — A Fast, Fair, Embeddable Coin-Flip Simulator](https://hackernoon.com/how-i-built-flipacoinfree-a-fast-fair-embeddable-coin-flip-simulator)
+![](https://cdn.hackernoon.com/images/tn7kzn3hGLbDUase9x2FACog3792-dm03ggf.png)
+I built FlipACoinFree.com — a fast, ad-free, embeddable coin-flip simulator with server-side randomness, API, and 30+ languages. Here’s how I built it. 
+
+### [387. The Times v Microsoft/OpenAI: Unauthorized Public Display of Times Works in GPT Product Outputs (12)](https://hackernoon.com/the-times-v-microsoftopenai-unauthorized-public-display-of-times-works-in-gpt-product-outputs-12)
 ![](https://cdn.hackernoon.com/images/unauthorized-public-display-of-times-works-in-gpt-product-outputs-12-w1u2gek96ygz3gswsymg6mue.png)
  Defendants directly engaged in the unauthorized public display of Times Works as part of generative output provided by their products built on the GPT models. 
+
+### [388. The Times v. Microsoft/OpenAI: Defendants’ Unauthorized Use and Copying of Times Content (14)](https://hackernoon.com/the-times-v-microsoftopenai-defendants-unauthorized-use-and-copying-of-times-content-14)
+![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-defendants-unauthorized-use-and-copying-of-times-content-14-p7332l5ykfv5k1554ldynakv.png)
+Defendants’ unauthorized reproduction and display of Times Works is willful. Defendants were intimately involved in training, fine-tuning, and otherwise testing
+
+### [389. OpenAI and Microsoft Are Being Sued in California: Here's Why](https://hackernoon.com/openai-and-microsoft-are-being-sued-in-california-heres-why)
+![](https://cdn.hackernoon.com/images/robot-testifying-in-court-hf9me59au25jei85icfj8hpe.png)
+Carissa Véliz goes over why OpenAI and Microsoft are being sued.
 
 ### [390. The Noonification: OpenAI Has Everything Under Control 😎 (7/13/2023)](https://hackernoon.com/7-13-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_379_ytqab8n7y8tyxf96bjb9wasr.png)
 7/13/2023: Top 5 stories on the Hackernoon homepage!
 
-### [391. The Times v. Microsoft/OpenAI: GenAI Products Threaten High-Quality Journalism (7)](https://hackernoon.com/the-times-v-microsoftopenai-genai-products-threaten-high-quality-journalism-7)
+### [391. The OpenAI Lawsuit Should Be Dismissed Because Code Can't Be Considered Tangible Goods](https://hackernoon.com/the-openai-lawsuit-should-be-dismissed-because-code-cant-be-considered-tangible-goods)
+![](https://cdn.hackernoon.com/images/money-and-gold-in-bags-fmmjn7e36wn60joe3flvpnl5.png)
+DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
+
+### [392. Here's What Happened During Sam Altman's First Congressional Hearing on Artificial Intelligence](https://hackernoon.com/heres-what-happened-during-sam-altmans-first-congressional-hearing-on-artificial-intelligence)
+![](https://cdn.hackernoon.com/images/hearing-on-court-clij5x2bg000001s667d408j1.png)
+Here’s what happened during OpenAI CEO Sam Altman’s first congressional hearing on artificial intelligence.
+
+### [393. Buy From Walmart Within ChatGPT: OpenAI Continues Expansion into Consumer Retail Purchasing Behavior](https://hackernoon.com/buy-from-walmart-within-chatgpt-openai-continues-expansion-into-consumer-retail-purchasing-behavior)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-x603nm7.png)
+Instant checkout for Walmart within ChatGPT. OpenAI continues expansion into retail. 
+
+### [394. The Times v. Microsoft/OpenAI: GenAI Products Threaten High-Quality Journalism (7)](https://hackernoon.com/the-times-v-microsoftopenai-genai-products-threaten-high-quality-journalism-7)
 ![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-gen-ai-products-threaten-high-quality-journalism-7-zd76v4vg741y2y5wqirjlyhq.png)
 Making great journalism is harder than ever. Over the past two decades, the traditional business models that supported quality journalism have collapsed
 
-### [392. "Will the Stock Market Reset After the Election?" asks Frederik Bussler ](https://hackernoon.com/will-the-stock-market-reset-after-the-election-asks-frederik-bussler-j4503t40)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-q12j3t6s.jpeg?alt=media&token=1f708d14-7e38-4c84-bd41-80c13f9af170)
-Frederik Bussler, on a mission to democratize data science, has contributed an impressive 27 days, 7 hours, and 41 minutes of reading time to Hacker Noon, with stories on everything from AI and no code to strategic thinking and financial mythbusting. Scroll down to learn more about this prolific contributor. 
-
-### [393. The Noonification: CryptoHayes Has It Right and Wrong (4/26/2023)](https://hackernoon.com/4-26-2023-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-4/26/2023: Top 5 stories on the Hackernoon homepage!
-
-### [394. The Musk-OpenAI Lawsuit: Humanity's Eternal Flaws in the AI Era](https://hackernoon.com/the-musk-openai-lawsuit-humanitys-eternal-flaws-in-the-ai-era)
-![](https://cdn.hackernoon.com/images/UdT0chWJLaYKM1i4qdQ4vA8RlV53-ns02h16.png)
-Exploring the philosophical roots of the Musk-OpenAI conflict: why AI progress repeats humanity's ancient flaws without fundamental change. 
-
-### [395. How to Build and Deploy a LogAnalyzer Agent using Langchain and Sevalla](https://hackernoon.com/how-to-build-and-deploy-a-loganalyzer-agent-using-langchain-and-sevalla)
-![](https://cdn.hackernoon.com/images/AGr8KngsfDgFeQNG1b8p0b616hy2-lt03ei2.png)
-Learn to build a log analyzing agent using Langchain and Sevalla
-
-### [396. The OpenAI Lawsuit: The Company Claims the Plaintiffs Should Not Be Anonymous](https://hackernoon.com/the-openai-lawsuit-the-company-claims-the-plaintiffs-should-not-be-anonymous)
-![](https://cdn.hackernoon.com/images/anomymous-mask-j0oxg4y15h22tjcegx28bqbr.png)
-DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
-
-### [397. The Noonification: Chronological Feed: Sam Altman Fired by OpenAI Board  Hired By Microsoft CEO Satya Nadella (maybe) (11/21/2023)](https://hackernoon.com/11-21-2023-noonification)
-![](https://cdn.hackernoon.com/images/noonification_685_s4huehnujhim69btp567c8pa.png)
-11/21/2023: Top 5 stories on the Hackernoon homepage!
-
-### [398. The HackerNoon Newsletter: Predicted Outputs: The OpenAI Feature You Probably Missed (11/20/2024)](https://hackernoon.com/11-20-2024-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_916_tkcgcxrbg87wovrtxzihsmw5.png)
-11/20/2024: Top 5 stories on the HackerNoon homepage!
-
-### [399. Allegations of Copyright Infringement Against OpenAI, Codex, and GitHub's Copilot](https://hackernoon.com/allegations-of-copyright-infringement-against-openai-codex-and-githubs-copilot)
-![](https://cdn.hackernoon.com/images/a-lawyer-pointing-a-finger-at-the-defendant-f0cq587nejph979ezu677zeg.png)
-DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
-
-### [400. The HackerNoon Newsletter: Agentic AI and the Rise of Outcome Engineering (8/5/2025)](https://hackernoon.com/8-5-2025-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_657_jvjp2wkjfb9eeooifr7vpnn4.png)
-8/5/2025: Top 5 stories on the HackerNoon homepage!
-
-### [401. OpenAI Lawsuit: Here's Where the Plaintiffs' Claims Fail and Why](https://hackernoon.com/openai-lawsuit-heres-where-the-plaintiffs-claims-fail-and-why)
-![](https://cdn.hackernoon.com/images/judges-giving-a-score-of-0-grolhczm0n1gn5uao29ilkqh.png)
-DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
-
-### [402. Plaintiffs Fail to State a Civil Conspiracy Claim Against OpenAI: Details on the OpenAI Lawsuit](https://hackernoon.com/plaintiffs-fail-to-state-a-civil-conspiracy-claim-against-openai-details-on-the-openai-lawsuit)
-![](https://cdn.hackernoon.com/images/newspaper-clippings-on-wall-nrj4a3jyg5avenxicbklyje2.png)
-DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
-
-### [403. The HackerNoon Newsletter: OpenAI Wants to Design How You Live With AI (6/1/2025)](https://hackernoon.com/6-1-2025-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_934_aboeuqt4gv51jnsv9sm07ua2.png)
-6/1/2025: Top 5 stories on the HackerNoon homepage!
-
-### [404. The Copyright Act Preempts State Law Causes of Action: Why the OpenAI Lawsuit Should Be Dismissed](https://hackernoon.com/the-copyright-act-preempts-state-law-causes-of-action-why-the-openai-lawsuit-should-be-dismissed)
+### [395. The Copyright Act Preempts State Law Causes of Action: Why the OpenAI Lawsuit Should Be Dismissed](https://hackernoon.com/the-copyright-act-preempts-state-law-causes-of-action-why-the-openai-lawsuit-should-be-dismissed)
 ![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-the-road-being-blocked-by-words-lngu8851i8s7xc9kaycy03cg.png)
 DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
 
-### [405. The OpenAI Case: What the Company Has to Say Against the Plaintiffs' Claims](https://hackernoon.com/the-openai-case-what-the-company-has-to-say-against-the-plaintiffs-claims)
-![](https://cdn.hackernoon.com/images/a-megaphone-cbfkggl9wx7xqmpsf07d6uja.png)
-Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023, is part of HackerNoon’s Legal PDF Series. 
+### [396. The Noonification: CryptoHayes Has It Right and Wrong (4/26/2023)](https://hackernoon.com/4-26-2023-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+4/26/2023: Top 5 stories on the Hackernoon homepage!
 
-### [406. The HackerNoon Newsletter: Your AI Pitch is Scaring People (4/5/2025)](https://hackernoon.com/4-5-2025-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_317_bzv80kjcvct662iplq9cbmvr.png)
-4/5/2025: Top 5 stories on the HackerNoon homepage!
+### [397. How to Build and Deploy a LogAnalyzer Agent using Langchain and Sevalla](https://hackernoon.com/how-to-build-and-deploy-a-loganalyzer-agent-using-langchain-and-sevalla)
+![](https://cdn.hackernoon.com/images/AGr8KngsfDgFeQNG1b8p0b616hy2-lt03ei2.png)
+Learn to build a log analyzing agent using Langchain and Sevalla
 
-### [407. OpenAI Court Case: Company Claims Plaintiffs Fail to Plead a DMCA Claim](https://hackernoon.com/openai-court-case-company-claims-plaintiffs-fail-to-plead-a-dmca-claim)
-![](https://cdn.hackernoon.com/images/dmca-gewyg52ayc1l4ltck4ll120u.png)
-Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023, is part of HackerNoon’s Legal PDF Series. 
+### [398. "Will the Stock Market Reset After the Election?" asks Frederik Bussler ](https://hackernoon.com/will-the-stock-market-reset-after-the-election-asks-frederik-bussler-j4503t40)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-q12j3t6s.jpeg?alt=media&token=1f708d14-7e38-4c84-bd41-80c13f9af170)
+Frederik Bussler, on a mission to democratize data science, has contributed an impressive 27 days, 7 hours, and 41 minutes of reading time to Hacker Noon, with stories on everything from AI and no code to strategic thinking and financial mythbusting. Scroll down to learn more about this prolific contributor. 
 
-### [408. Why the OpenAI Lawsuit Should Be Dismissed: A Lack of Subject Matter Jurisdiction](https://hackernoon.com/why-the-openai-lawsuit-should-be-dismissed-a-lack-of-subject-matter-jurisdiction)
-![](https://cdn.hackernoon.com/images/an-empty-cup-of-water-llvx1aaadwrkqdklj6y5zmpc.png)
+### [399. The Musk-OpenAI Lawsuit: Humanity's Eternal Flaws in the AI Era](https://hackernoon.com/the-musk-openai-lawsuit-humanitys-eternal-flaws-in-the-ai-era)
+![](https://cdn.hackernoon.com/images/UdT0chWJLaYKM1i4qdQ4vA8RlV53-ns02h16.png)
+Exploring the philosophical roots of the Musk-OpenAI conflict: why AI progress repeats humanity's ancient flaws without fundamental change. 
+
+### [400. The OpenAI Lawsuit: The Company Claims the Plaintiffs Should Not Be Anonymous](https://hackernoon.com/the-openai-lawsuit-the-company-claims-the-plaintiffs-should-not-be-anonymous)
+![](https://cdn.hackernoon.com/images/anomymous-mask-j0oxg4y15h22tjcegx28bqbr.png)
 DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
 
-### [409. OpenAI: Plaintiffs Have Not Pled Removal of CMI - What It All Means](https://hackernoon.com/openai-plaintiifs-have-not-pled-removal-of-cmi-what-it-all-means)
-![](https://cdn.hackernoon.com/images/showcasing-an-item-on-a-stage-in-front-of-a-crowd-txigrlcdrj6zku38w76l7xor.png)
-Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023 is part of HackerNoon’s Legal PDF Series.
+### [401. Allegations of Copyright Infringement Against OpenAI, Codex, and GitHub's Copilot](https://hackernoon.com/allegations-of-copyright-infringement-against-openai-codex-and-githubs-copilot)
+![](https://cdn.hackernoon.com/images/a-lawyer-pointing-a-finger-at-the-defendant-f0cq587nejph979ezu677zeg.png)
+DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
 
-### [410. The OpenAI and Codex Lawsuit: Everything You Need to Know Explained By OpenAI Itself](https://hackernoon.com/the-openai-and-codex-lawsuit-everything-you-need-to-know-explained-by-openai-itself)
+### [402. The OpenAI and Codex Lawsuit: Everything You Need to Know Explained By OpenAI Itself](https://hackernoon.com/the-openai-and-codex-lawsuit-everything-you-need-to-know-explained-by-openai-itself)
 ![](https://cdn.hackernoon.com/images/a-lawyer-in-front-of-a-judge-ffbor3oa5i3jeg93axzqgrvm.png)
 DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here.
 
-### [411. OpenAI Argues That the Plaintiffs' 1202 Claim Should Be Dismissed](https://hackernoon.com/openai-argues-that-the-plaintiffs-1202-claim-should-be-dismissed)
-![](https://cdn.hackernoon.com/images/a-gauntlet-on-the-floor-drbndtgnp9187pigqz3a60o8.png)
+### [403. The HackerNoon Newsletter: Predicted Outputs: The OpenAI Feature You Probably Missed (11/20/2024)](https://hackernoon.com/11-20-2024-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_916_tkcgcxrbg87wovrtxzihsmw5.png)
+11/20/2024: Top 5 stories on the HackerNoon homepage!
+
+### [404. The Noonification: Chronological Feed: Sam Altman Fired by OpenAI Board  Hired By Microsoft CEO Satya Nadella (maybe) (11/21/2023)](https://hackernoon.com/11-21-2023-noonification)
+![](https://cdn.hackernoon.com/images/noonification_685_s4huehnujhim69btp567c8pa.png)
+11/21/2023: Top 5 stories on the Hackernoon homepage!
+
+### [405. Plaintiffs Fail to State a Civil Conspiracy Claim Against OpenAI: Details on the OpenAI Lawsuit](https://hackernoon.com/plaintiffs-fail-to-state-a-civil-conspiracy-claim-against-openai-details-on-the-openai-lawsuit)
+![](https://cdn.hackernoon.com/images/newspaper-clippings-on-wall-nrj4a3jyg5avenxicbklyje2.png)
+DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
+
+### [406. The HackerNoon Newsletter: Agentic AI and the Rise of Outcome Engineering (8/5/2025)](https://hackernoon.com/8-5-2025-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_657_jvjp2wkjfb9eeooifr7vpnn4.png)
+8/5/2025: Top 5 stories on the HackerNoon homepage!
+
+### [407. The OpenAI Case: What the Company Has to Say Against the Plaintiffs' Claims](https://hackernoon.com/the-openai-case-what-the-company-has-to-say-against-the-plaintiffs-claims)
+![](https://cdn.hackernoon.com/images/a-megaphone-cbfkggl9wx7xqmpsf07d6uja.png)
 Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023, is part of HackerNoon’s Legal PDF Series. 
 
-### [412. Plaintiffs in the OpenAI Lawsuit Don't Have a Claim for Unjust Enrichment](https://hackernoon.com/plaintiffs-in-the-openai-lawsuit-dont-have-a-claim-for-unjust-enrichment)
+### [408. The HackerNoon Newsletter: Your AI Pitch is Scaring People (4/5/2025)](https://hackernoon.com/4-5-2025-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_317_bzv80kjcvct662iplq9cbmvr.png)
+4/5/2025: Top 5 stories on the HackerNoon homepage!
+
+### [409. OpenAI Lawsuit: Here's Where the Plaintiffs' Claims Fail and Why](https://hackernoon.com/openai-lawsuit-heres-where-the-plaintiffs-claims-fail-and-why)
+![](https://cdn.hackernoon.com/images/judges-giving-a-score-of-0-grolhczm0n1gn5uao29ilkqh.png)
+DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
+
+### [410. The HackerNoon Newsletter: OpenAI Wants to Design How You Live With AI (6/1/2025)](https://hackernoon.com/6-1-2025-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_934_aboeuqt4gv51jnsv9sm07ua2.png)
+6/1/2025: Top 5 stories on the HackerNoon homepage!
+
+### [411. Why the OpenAI Lawsuit Should Be Dismissed: A Lack of Subject Matter Jurisdiction](https://hackernoon.com/why-the-openai-lawsuit-should-be-dismissed-a-lack-of-subject-matter-jurisdiction)
+![](https://cdn.hackernoon.com/images/an-empty-cup-of-water-llvx1aaadwrkqdklj6y5zmpc.png)
+DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
+
+### [412. OpenAI Court Case: Company Claims Plaintiffs Fail to Plead a DMCA Claim](https://hackernoon.com/openai-court-case-company-claims-plaintiffs-fail-to-plead-a-dmca-claim)
+![](https://cdn.hackernoon.com/images/dmca-gewyg52ayc1l4ltck4ll120u.png)
+Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023, is part of HackerNoon’s Legal PDF Series. 
+
+### [413. Plaintiffs in the OpenAI Lawsuit Don't Have a Claim for Unjust Enrichment](https://hackernoon.com/plaintiffs-in-the-openai-lawsuit-dont-have-a-claim-for-unjust-enrichment)
 ![](https://cdn.hackernoon.com/images/money-being-sucked-up-into-a-vacuum-mi3213t0dvf7ewli7ju8d4jy.png)
 DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
 
-### [413. The Times v. Microsoft/OpenAI: Models Exhibit a Behavior Called “Memorization.” (9)](https://hackernoon.com/the-times-v-microsoftopenai-models-exhibit-a-behavior-called-memorization-9)
+### [414. OpenAI Argues That the Plaintiffs' 1202 Claim Should Be Dismissed](https://hackernoon.com/openai-argues-that-the-plaintiffs-1202-claim-should-be-dismissed)
+![](https://cdn.hackernoon.com/images/a-gauntlet-on-the-floor-drbndtgnp9187pigqz3a60o8.png)
+Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023, is part of HackerNoon’s Legal PDF Series. 
+
+### [415. OpenAI: Plaintiffs Have Not Pled Removal of CMI - What It All Means](https://hackernoon.com/openai-plaintiifs-have-not-pled-removal-of-cmi-what-it-all-means)
+![](https://cdn.hackernoon.com/images/showcasing-an-item-on-a-stage-in-front-of-a-crowd-txigrlcdrj6zku38w76l7xor.png)
+Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023 is part of HackerNoon’s Legal PDF Series.
+
+### [416. The Times v. Microsoft/OpenAI: Models Exhibit a Behavior Called “Memorization.” (9)](https://hackernoon.com/the-times-v-microsoftopenai-models-exhibit-a-behavior-called-memorization-9)
 ![](https://cdn.hackernoon.com/images/the-times-v-microsoft-open-ai-models-exhibit-a-behavior-called-memorization-9-bdytcqm2zodtm5gkj00a737r.png)
 An LLM works by predicting words that are likely to follow a given string of text based on the potentially billions of examples used to train it.
 
-### [414. The HackerNoon Newsletter: OpenAI Wants to Design How You Live With AI (5/24/2025)](https://hackernoon.com/5-24-2025-newsletter)
+### [417. The HackerNoon Newsletter: OpenAI Wants to Design How You Live With AI (5/24/2025)](https://hackernoon.com/5-24-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_85_pcaj9udpzpozgcx9zisvfuxj.png)
 5/24/2025: Top 5 stories on the HackerNoon homepage!
 
-### [415. OpenAI: The Lawsuit Should Be Dismissed Because Plaintiffs Lack Article III Standing](https://hackernoon.com/openai-the-lawsuit-should-be-dismissed-because-plaintiffs-lack-article-iii-standing)
+### [418. OpenAI: The Lawsuit Should Be Dismissed Because Plaintiffs Lack Article III Standing](https://hackernoon.com/openai-the-lawsuit-should-be-dismissed-because-plaintiffs-lack-article-iii-standing)
 ![](https://cdn.hackernoon.com/images/a-standing-statue-falling-down-hrme5hy4eeaxindb8erwv4wh.png)
 DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
 
-### [416. OpenAI's Reply to the Amended Complaint: What Comes Next?](https://hackernoon.com/openais-reply-to-the-amended-complaint-what-comes-next)
+### [419. OpenAI's Reply to the Amended Complaint: What Comes Next?](https://hackernoon.com/openais-reply-to-the-amended-complaint-what-comes-next)
 ![](https://cdn.hackernoon.com/images/the-last-page-of-a-book-mxdvfw2ewbv7kuyv7p7wyz88.png)
 Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023, is part of HackerNoon’s Legal PDF Series. 
 
-### [417. OpenAI's Reply to the Amended Complaint: What Their Argument Is](https://hackernoon.com/openais-reply-to-the-amended-complaint-what-their-argument-is)
+### [420. OpenAI's Reply to the Amended Complaint: What Their Argument Is](https://hackernoon.com/openais-reply-to-the-amended-complaint-what-their-argument-is)
 ![](https://cdn.hackernoon.com/images/a-debate-between-two-people-ssoe0uoyu54po1yhjkfmceab.png)
 Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023 is part of HackerNoon’s Legal PDF Series. 
 
-### [418. Github's Agents and Co-conspirators](https://hackernoon.com/githubs-agents-and-co-conspirators)
+### [421. Github's Agents and Co-conspirators](https://hackernoon.com/githubs-agents-and-co-conspirators)
 ![](https://cdn.hackernoon.com/images/co-conspirators-ulwull5tmyc061ovork3nf2r.png)
 Dive into the world of management, control, and apparent authority that shaped these legal allegations.
 
-### [419. The DMCA Claims Against OpenAI Should Be Dismissed: Here's Why They Do Not Apply ](https://hackernoon.com/the-dmca-claims-against-openai-should-be-dismissed-heres-why-they-do-not-apply)
+### [422. The DMCA Claims Against OpenAI Should Be Dismissed: Here's Why They Do Not Apply ](https://hackernoon.com/the-dmca-claims-against-openai-should-be-dismissed-heres-why-they-do-not-apply)
 ![](https://cdn.hackernoon.com/images/stealing-art-ebdbtu331f5sdy77agu3j0jn.png)
 DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
 
-### [420. The Allegations Against OpenAI Are Too Vague to Hold Water: OpenAI Lawsuit Details](https://hackernoon.com/the-allegations-against-openai-are-too-vague-to-hold-water-openai-lawsuit-details)
+### [423. The Allegations Against OpenAI Are Too Vague to Hold Water: OpenAI Lawsuit Details](https://hackernoon.com/the-allegations-against-openai-are-too-vague-to-hold-water-openai-lawsuit-details)
 ![](https://cdn.hackernoon.com/images/a-cup-of-water-cki3s73lc7y4cvbzt164j7cr.png)
 DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here.
 
-### [421. OpenAI Did Not Breach Any Contract: The Company Alleges There Was No Contract to Begin With](https://hackernoon.com/openai-did-not-breach-any-contract-the-company-alleges-there-was-no-contract-to-begin-with)
+### [424. OpenAI Did Not Breach Any Contract: The Company Alleges There Was No Contract to Begin With](https://hackernoon.com/openai-did-not-breach-any-contract-the-company-alleges-there-was-no-contract-to-begin-with)
 ![](https://cdn.hackernoon.com/images/a-rabbit-in-a-magicians-hat-bfe1ugzchq3yd31nsfy0wu0c.png)
 DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
 
-### [422. OpenAI's Motion to Dismiss: The Notice They Put Out to the World](https://hackernoon.com/openais-motion-to-dismiss-the-notice-they-put-out-to-the-world)
+### [425. OpenAI's Motion to Dismiss: The Notice They Put Out to the World](https://hackernoon.com/openais-motion-to-dismiss-the-notice-they-put-out-to-the-world)
 ![](https://cdn.hackernoon.com/images/a-paper-being-shown-to-the-world-rktu65qrhwh81a2ga41k2s7j.png)
 DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
 
-### [423. OpenAI Believes Its Lawsuit Should Be Thrown Out for Failure to State a Claim Under Rule](https://hackernoon.com/openai-believes-its-lawsuit-should-be-thrown-out-for-failure-to-state-a-claim-under-rule)
-![](https://cdn.hackernoon.com/images/throwing-out-garbage-out-the-window-nefhs1u8a4i2s4phavbmz2o6.png)
-DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
-
-### [424. OpenAI Court Case: Do the Plaintiffs Have a Claim for Negligence?](https://hackernoon.com/openai-court-case-do-the-plaintiffs-have-a-claim-for-negligence)
-![](https://cdn.hackernoon.com/images/a-man-pointing-a-finger-xrnzjmck8l11om0xl9nwyglr.png)
-Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023 is part of HackerNoon’s Legal PDF Series. 
-
-### [425. Was OpenAI Right to Walk Away? Inside the $3B Deal That Sparked a Feeding Frenzy](https://hackernoon.com/was-openai-right-to-walk-away-inside-the-$3b-deal-that-sparked-a-feeding-frenzy)
-![](https://cdn.hackernoon.com/images/F1XBfeQ6DZcCDQztQsjqj9ZEQtD3-ui23cwf.png)
-OpenAI walked, Google poached the founders, and Cognition grabbed the prize. Inside the high-stakes drama of surrounding the (eventual) Windsurf acquisition.
-
-### [426. OpenAI: Company States That Some of the Plaintiffs' Claims Fail](https://hackernoon.com/openai-company-states-that-some-of-the-plaintiffs-claims-fail)
-![](https://cdn.hackernoon.com/images/red-x-on-homework-page-wnrwwmt5gdsldtyjenoc2to5.png)
-Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023 is part of HackerNoon’s Legal PDF Series. 
-
-### [427. The OpenAI Lawsuit: Dissecting and Refuting All of the Plaintiffs' Claims ](https://hackernoon.com/the-openai-lawsuit-dissecting-and-refuting-all-of-the-plaintiffs-claims)
+### [426. The OpenAI Lawsuit: Dissecting and Refuting All of the Plaintiffs' Claims ](https://hackernoon.com/the-openai-lawsuit-dissecting-and-refuting-all-of-the-plaintiffs-claims)
 ![](https://cdn.hackernoon.com/images/cutting-an-apple-a4n4tz6nsxkhfh1skysljwpe.png)
 DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here.
 
-### [428. The Issues That OpenAI Has With the Lawsuit and Why It Believes It Should Be Dismissed](https://hackernoon.com/the-issues-that-openai-has-with-the-lawsuit-and-why-it-believes-it-should-be-dismissed)
-![](https://cdn.hackernoon.com/images/red-x-on-document-qy08xzwp0pfca2s8mkqnu71h.png)
+### [427. OpenAI Believes Its Lawsuit Should Be Thrown Out for Failure to State a Claim Under Rule](https://hackernoon.com/openai-believes-its-lawsuit-should-be-thrown-out-for-failure-to-state-a-claim-under-rule)
+![](https://cdn.hackernoon.com/images/throwing-out-garbage-out-the-window-nefhs1u8a4i2s4phavbmz2o6.png)
 DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
+
+### [428. OpenAI Court Case: Do the Plaintiffs Have a Claim for Negligence?](https://hackernoon.com/openai-court-case-do-the-plaintiffs-have-a-claim-for-negligence)
+![](https://cdn.hackernoon.com/images/a-man-pointing-a-finger-xrnzjmck8l11om0xl9nwyglr.png)
+Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023 is part of HackerNoon’s Legal PDF Series. 
 
 ### [429. OpenAI: Did the Plaintiffs Fail to State a Claim for Unjust Enrichment?](https://hackernoon.com/openai-did-the-plaintiffs-fail-to-state-a-claim-for-unjust-enrichment)
 ![](https://cdn.hackernoon.com/images/a-basketball-missing-the-rim-hel3x6sbzpp8od3arefj5idl.png)
 Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023, is part of HackerNoon’s Legal PDF Series. 
 
-### [430. OpenAI: Their Argument Against the Plaintiffs in the Doe v GitHub Case](https://hackernoon.com/openai-their-argument-against-the-plaintiffs-in-the-doe-v-github-case)
+### [430. Was OpenAI Right to Walk Away? Inside the $3B Deal That Sparked a Feeding Frenzy](https://hackernoon.com/was-openai-right-to-walk-away-inside-the-$3b-deal-that-sparked-a-feeding-frenzy)
+![](https://cdn.hackernoon.com/images/F1XBfeQ6DZcCDQztQsjqj9ZEQtD3-ui23cwf.png)
+OpenAI walked, Google poached the founders, and Cognition grabbed the prize. Inside the high-stakes drama of surrounding the (eventual) Windsurf acquisition.
+
+### [431. The Issues That OpenAI Has With the Lawsuit and Why It Believes It Should Be Dismissed](https://hackernoon.com/the-issues-that-openai-has-with-the-lawsuit-and-why-it-believes-it-should-be-dismissed)
+![](https://cdn.hackernoon.com/images/red-x-on-document-qy08xzwp0pfca2s8mkqnu71h.png)
+DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
+
+### [432. OpenAI: Company States That Some of the Plaintiffs' Claims Fail](https://hackernoon.com/openai-company-states-that-some-of-the-plaintiffs-claims-fail)
+![](https://cdn.hackernoon.com/images/red-x-on-homework-page-wnrwwmt5gdsldtyjenoc2to5.png)
+Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023 is part of HackerNoon’s Legal PDF Series. 
+
+### [433. OpenAI: Their Argument Against the Plaintiffs in the Doe v GitHub Case](https://hackernoon.com/openai-their-argument-against-the-plaintiffs-in-the-doe-v-github-case)
 ![](https://cdn.hackernoon.com/images/phoenix-wright-wh1pwwvcwm8ud24vvp1wu2h9.png)
 Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023 is part of HackerNoon’s Legal PDF Series. 
 
-### [431. The Intro to OpenAI's Reply to the Amended Complaint: A Peek Into the Court Case](https://hackernoon.com/the-intro-to-openais-reply-to-the-amended-complaint-a-peek-into-the-court-case)
+### [434. The Intro to OpenAI's Reply to the Amended Complaint: A Peek Into the Court Case](https://hackernoon.com/the-intro-to-openais-reply-to-the-amended-complaint-a-peek-into-the-court-case)
 ![](https://cdn.hackernoon.com/images/star-wars-opening-ipfm25aza8mi0xy7uf0ck57r.png)
 Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023 is part of HackerNoon’s Legal PDF Series. 
 
-### [432. OpenAI Claims the Allegations Against Them Fail to Satisfy Requirements - OpenAI Lawsuit Details](https://hackernoon.com/openai-claims-the-allegations-against-them-fail-to-satisfy-requirements-openai-lawsuit-details)
+### [435. OpenAI Claims the Allegations Against Them Fail to Satisfy Requirements - OpenAI Lawsuit Details](https://hackernoon.com/openai-claims-the-allegations-against-them-fail-to-satisfy-requirements-openai-lawsuit-details)
 ![](https://cdn.hackernoon.com/images/a-checklist-u4t1d5fl18eh4etphx8fcvsn.png)
 DOE v. GITHUB Court Filing, retrieved on January 26, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
 
-### [433. OpenAI: What Does the Law Actually Say?](https://hackernoon.com/openai-what-does-the-law-actually-say)
+### [436. OpenAI: What Does the Law Actually Say?](https://hackernoon.com/openai-what-does-the-law-actually-say)
 ![](https://cdn.hackernoon.com/images/using-a-magnifying-glass-to-look-at-a-document-epd6edlvts51iiiz0hbd4w19.png)
 Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023, is part of HackerNoon’s Legal PDF Series. 
 
-### [434. OpenAI: A Hunch Does Not Justify Jurisdictional Discovery](https://hackernoon.com/openai-a-hunch-does-not-justify-jurisdictional-discovery)
+### [437. OpenAI: A Hunch Does Not Justify Jurisdictional Discovery](https://hackernoon.com/openai-a-hunch-does-not-justify-jurisdictional-discovery)
 ![](https://cdn.hackernoon.com/images/unearthing-a-dinosaur-fossil-y1jha59aacfbflralxfwgqo5.png)
 Open AI reply to amended complaint Court Filing Kandis A. Westmore, November 3, 2023 is part of HackerNoon’s Legal PDF Series. 
 

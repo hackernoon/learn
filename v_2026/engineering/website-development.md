@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [website-development](https://hackernoon.com/tagged/website-development)
+### Let's learn about [Website Development](https://hackernoon.com/tagged/website-development) via these 247 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 We're well into the 21st century, it's crucial for your business to have a website. Here are guides and explanations on how to develop your own.
 
 ### [1. Web App Development in 2022: Everything You Need to Know](https://hackernoon.com/web-app-development-in-2022-everything-you-need-to-know)
@@ -35,13 +37,13 @@ Here I will show you 3 ways to create cool loading screen or preloader in React.
 ![](https://cdn.hackernoon.com/images/TuZs7lYkToZkOwnvwaCU8cXCSGJ2-j993o9r.jpeg)
 Learn to add face recognition authentication to your web application 
 
-### [9. The Best Way to Create a Web Admin Dashboard for Your Projects](https://hackernoon.com/the-best-way-to-create-a-web-admin-dashboard-for-your-projects-xi3034yz)
-![](https://cdn.hackernoon.com/images/CrLFn92PQjVs1caQdhRv4kvJuG72-n34531u8.jpeg)
-A simple solution at first glance is to opt for a CMS: there are indeed many of them, the most popular being for example Wordpress
-
-### [10. The Lazy Programmer's Guide to Maintaining a Personal Website](https://hackernoon.com/the-lazy-programmers-guide-to-maintaining-a-personal-website)
+### [9. The Lazy Programmer's Guide to Maintaining a Personal Website](https://hackernoon.com/the-lazy-programmers-guide-to-maintaining-a-personal-website)
 ![](https://cdn.hackernoon.com/images/amVQ5swmF5en0QHSH8PsvbTZv6r1-1u92ov0.jpeg)
 A guide for how to build and maintain a personal developer website with minimal effort in 10 easy steps.
+
+### [10. The Best Way to Create a Web Admin Dashboard for Your Projects](https://hackernoon.com/the-best-way-to-create-a-web-admin-dashboard-for-your-projects-xi3034yz)
+![](https://cdn.hackernoon.com/images/CrLFn92PQjVs1caQdhRv4kvJuG72-n34531u8.jpeg)
+A simple solution at first glance is to opt for a CMS: there are indeed many of them, the most popular being for example Wordpress
 
 ### [11. A TCP Flow and HTTP Flow Guide: Changing HTTP Messages](https://hackernoon.com/a-tcp-flow-and-http-flow-guide-changing-http-messages)
 ![](https://cdn.hackernoon.com/images/SnVhdDNm3fMGfftKZO7mnXldvQm2-2f03bnp.jpeg)
@@ -95,13 +97,13 @@ Poorly written code will surely slow down your website loading speed. To enhance
 ![](https://cdn.hackernoon.com/images/XEHZ97Onw1XPeXMH5rWYYmaI5tR2-5sbs35jl.jpeg)
 Learn how to bump up your website load time and improve performance in less than a day with concrete examples
 
-### [24. Web Design Principles That Will Take Centre Stage in 2023](https://hackernoon.com/web-design-principles-that-will-take-centre-stage-in-2023)
-![](https://cdn.hackernoon.com/images/sQ92Mpf2ePeaaNhuqIIynonruY72-5da3oil.jpeg)
-A cursory look at the web design principles will become the norm in 2023. 
-
-### [25. Why localStorage Still Crashes Your Website in 2023](https://hackernoon.com/why-localstorage-still-crashes-your-website-in-2023)
+### [24. Why localStorage Still Crashes Your Website in 2023](https://hackernoon.com/why-localstorage-still-crashes-your-website-in-2023)
 ![](https://cdn.hackernoon.com/images/IDrwnuUpw3ciQtHAlLVk7zUZSpN2-6ba3yvb.jpeg)
 How to deal with the Browser SecurityError: The operation is insecure or localStorage is not defined. 
+
+### [25. Web Design Principles That Will Take Centre Stage in 2023](https://hackernoon.com/web-design-principles-that-will-take-centre-stage-in-2023)
+![](https://cdn.hackernoon.com/images/sQ92Mpf2ePeaaNhuqIIynonruY72-5da3oil.jpeg)
+A cursory look at the web design principles will become the norm in 2023. 
 
 ### [26. 9 Web Apps You Won't Believe Were Made with Webflow](https://hackernoon.com/9-web-apps-you-wont-believe-were-made-with-webflow)
 ![](https://cdn.hackernoon.com/images/EQE4btnh5YZLc9ybRlVhg3Xthkk2-wq93aoj.jpeg)
@@ -189,13 +191,13 @@ Blog website using a static site generator Hugo and deploying it to Netlify
 ![](https://cdn.hackernoon.com/images/bCBB2GMjzbewugLjoqXSG2SWNvO2-m893twi.jpeg)
 Discover the complex infrastructure powering the internet. Learn the web's client-server architecture, protocols, DNS, TCP/IP and many more. 
 
-### [47. How to Become a Successful Web Developer in 2021](https://hackernoon.com/how-to-become-a-successful-web-developer-in-2021-yx1a3wl4)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-grq3wdk.jpeg?alt=media&token=298537f8-7c1c-4d89-9754-d1327de7f81e)
-Alright then, so you have decided your path. You want to become a web developer this year.
-
-### [48. Recreate Windows 98 With CSS](https://hackernoon.com/recreate-windows-98-with-css)
+### [47. Recreate Windows 98 With CSS](https://hackernoon.com/recreate-windows-98-with-css)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-jp93pj5.png)
 I decided to try and recreate Windows 98 using nothing else apart from CSS and HTML.
+
+### [48. How to Become a Successful Web Developer in 2021](https://hackernoon.com/how-to-become-a-successful-web-developer-in-2021-yx1a3wl4)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-grq3wdk.jpeg?alt=media&token=298537f8-7c1c-4d89-9754-d1327de7f81e)
+Alright then, so you have decided your path. You want to become a web developer this year.
 
 ### [49. The wix-fetch Module as the Way to Take Your Website to the Next Level](https://hackernoon.com/the-wix-fetch-module-as-the-way-to-take-your-website-to-the-next-level-n31s33ig)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-83i33wi.jpeg)
@@ -217,15 +219,15 @@ How to get prepared before designing the website? Here are 6 easy tips we have b
 ![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-x02834rw.jpeg)
 Do you know what metrics you should track to see how well your website is performing? Read this post to learn what you should monitor.
 
-### [54. Music for Work](https://hackernoon.com/music-for-work-8aut325c)
+### [54. The 10 Best HTML Editors Website Designers, Developers Should Know About](https://hackernoon.com/the-10-best-html-editors-website-designers-developers-should-know-about)
+![](https://cdn.hackernoon.com/images/Hcp7GOWt9sT1u05G6yNtUCn7pia2-2293m84.jpeg)
+In today’s online world, having a website for your business or organization is mandatory if you want to compete with others for people’s attention. 
+
+### [55. Music for Work](https://hackernoon.com/music-for-work-8aut325c)
 ![](https://cdn.hackernoon.com/drafts/7h1v322j.png)
 Photo by Gorodenkoff at dissolve
 
 
-
-### [55. The 10 Best HTML Editors Website Designers, Developers Should Know About](https://hackernoon.com/the-10-best-html-editors-website-designers-developers-should-know-about)
-![](https://cdn.hackernoon.com/images/Hcp7GOWt9sT1u05G6yNtUCn7pia2-2293m84.jpeg)
-In today’s online world, having a website for your business or organization is mandatory if you want to compete with others for people’s attention. 
 
 ### [56. How I Migrated My WordPress Site to GitHub Pages](https://hackernoon.com/how-i-migrated-my-wordpress-site-to-github-pages)
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-ntb2qe3.png)
@@ -247,13 +249,13 @@ What pulls customers to an E-commerce store?
 ![](https://cdn.hackernoon.com/images/8ky2e6n.jpg)
 The Navigation Timing API provides data that can be used to measure the performance of a web site. Unlike JavaScript-based libraries that have historically been used to collect similar information, the Navigation Timing API can be much more accurate and reliable.
 
-### [61. Velo How-To: On Performance Optimization And Data](https://hackernoon.com/velo-how-to-on-performance-optimization-and-data-e41j35qx)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-9wk35oy.jpeg)
-Using data from database collections or from a 3rd-party source can be a powerful tool to enhance your site's functionality. However, sending a lot of data to the browser from the server can be a time-consuming operation and negatively affect your site's loading time. Therefore, you want to minimize the amount of data that is sent from the server to the browser.  This article lists a number of approaches you can use, whether you're using a dataset or the Data API, to improve your site's performance.
-
-### [62. Here’s All You Need to Know About the CSS Box Model](https://hackernoon.com/heres-all-you-need-to-know-about-the-css-box-model)
+### [61. Here’s All You Need to Know About the CSS Box Model](https://hackernoon.com/heres-all-you-need-to-know-about-the-css-box-model)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-ud93osb.jpeg)
 The CSS box model is a term thrown around in CSS with very little context but is probably the most fundamental thing you can know in CSS.
+
+### [62. Velo How-To: On Performance Optimization And Data](https://hackernoon.com/velo-how-to-on-performance-optimization-and-data-e41j35qx)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-9wk35oy.jpeg)
+Using data from database collections or from a 3rd-party source can be a powerful tool to enhance your site's functionality. However, sending a lot of data to the browser from the server can be a time-consuming operation and negatively affect your site's loading time. Therefore, you want to minimize the amount of data that is sent from the server to the browser.  This article lists a number of approaches you can use, whether you're using a dataset or the Data API, to improve your site's performance.
 
 ### [63. Removing 'Powered by WordPress' in 2023: A Guide](https://hackernoon.com/removing-powered-by-wordpress-in-2023-a-guide)
 ![](https://cdn.hackernoon.com/images/rXG7YlNW7gRJzFPCxRjJJJ13pGF2-ap93ukn.jpeg)
@@ -299,18 +301,18 @@ As someone who’s held both front-end and back-end positions, and even been a h
 ![](https://cdn.hackernoon.com/images/NWpq4jytojbRAKzDBLrMu6oVgEm2-fk93x7x.jpeg)
 Discover how to secure grants for web development innovation and social impact.
 
-### [74. How to Update Your Website Without Loosing Your Google Rankings](https://hackernoon.com/how-to-update-your-website-without-loosing-your-google-rankings)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-oq9316t.jpeg)
-Congratulations you worked on a new website to replace your dated website and need to launch the update without tanking your search results.
+### [74. Wix-Animation Module Implementation: Follow These Tips to Set It Up](https://hackernoon.com/wix-animation-module-implementation-follow-these-tips-to-set-it-up-es1r33c1)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-ami33bn.jpeg)
+The wix-animations module contains functionality for working withanimations. Learn more.
 
 ### [75. 3 Ways You Can Build and Update Websites Using Data Pushes](https://hackernoon.com/3-ways-you-can-build-and-update-websites-using-data-pushes-5l8836s5)
 ![](https://cdn.hackernoon.com/drafts/eis536dp.png)
 
 Data is getting more and more accessible and is increasingly being used to inform the way businesses operate.
 
-### [76. Wix-Animation Module Implementation: Follow These Tips to Set It Up](https://hackernoon.com/wix-animation-module-implementation-follow-these-tips-to-set-it-up-es1r33c1)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-ami33bn.jpeg)
-The wix-animations module contains functionality for working withanimations. Learn more.
+### [76. How to Update Your Website Without Loosing Your Google Rankings](https://hackernoon.com/how-to-update-your-website-without-loosing-your-google-rankings)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-oq9316t.jpeg)
+Congratulations you worked on a new website to replace your dated website and need to launch the update without tanking your search results.
 
 ### [77. The Difference Between Backend, Frontend, Full-stack and Super stack Development](https://hackernoon.com/the-difference-between-backend-frontend-full-stack-and-super-stack-development-da2t37c7)
 ![](https://cdn.hackernoon.com/drafts/zzi3382.png)
@@ -356,29 +358,29 @@ Giving tailored experiences to the people visiting the company website has becom
 ![](https://cdn.hackernoon.com/images/XN21rncAI4cOdFidD1fECxswUZl2-b0e3l9a.jpeg)
 This article will look at five of the most popular ASP.Net-based shopping carts that you can use for your online store.
 
-### [88. 7 Ways to Achieve a Faster Core Web Vitals Score](https://hackernoon.com/7-ways-to-achieve-a-faster-core-web-vitals-score)
-![](https://cdn.hackernoon.com/images/3sNpbcz2b8cXkllGABVD3hGb5Zz1-be93hvb.jpeg)
-Core Web Vitals is one of the ranking factors and learning how to achieve a faster core web vitals score is a good way to get your website to rank higher.
-
-### [89. HTML, CSS and JavaScript Explained Simply](https://hackernoon.com/html-css-and-javascript-explained-simply)
-![](https://cdn.hackernoon.com/images/RGd8gYqtrbhMVZHKJUJnyTAUWol2-cb93hgv.jpeg)
-Learning web development includes understanding & dealing with terms like CSS, Javascript, & HTML. This article aims to bring you up to speed with this concept.
-
-### [90. How To Build A Website With Velo [Beginners Guide]](https://hackernoon.com/how-to-build-a-website-with-velo-beginners-guide-2v24352s)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-ttk3519.jpeg)
-Excited as you are to get started building your website using Velo by Wix, let's take a moment to plan ahead.
-
-### [91. How to Building Fancy List Items in Astro](https://hackernoon.com/how-to-building-fancy-list-items-in-astro)
+### [88. How to Building Fancy List Items in Astro](https://hackernoon.com/how-to-building-fancy-list-items-in-astro)
 ![](https://cdn.hackernoon.com/images/TrD4DzyJu6g677bJSu6xzJ3TxA12-j7f3r9x.jpeg)
 This article shows you how to add custom SVG to any markdown list items in Astro, so you don't have to write custom HTML each time you want to make nice lists.
 
-### [92. An Introductory Guide to Building a Website with Good Quality Code](https://hackernoon.com/an-introductory-guide-to-building-a-website-with-good-quality-code-7v2p34ny)
-![](https://cdn.hackernoon.com/images/MedHIICL4oSJ7Y2rxX4SKFASDIT2-eg93xsh.jpeg)
-Guaranteeing code quality when your website is in the development stage is a colossal task. However, even with a steady number of programming designers, keeping up code quality can be daunting. Without code quality tools and a reliable framework, the entire task can amount to enormous technical debt, doing more harm than good in the long haul.
+### [89. 7 Ways to Achieve a Faster Core Web Vitals Score](https://hackernoon.com/7-ways-to-achieve-a-faster-core-web-vitals-score)
+![](https://cdn.hackernoon.com/images/3sNpbcz2b8cXkllGABVD3hGb5Zz1-be93hvb.jpeg)
+Core Web Vitals is one of the ranking factors and learning how to achieve a faster core web vitals score is a good way to get your website to rank higher.
 
-### [93. Why the Security of Websites and Web Applications Is Vital](https://hackernoon.com/why-the-security-of-websites-and-web-applications-is-vital)
+### [90. HTML, CSS and JavaScript Explained Simply](https://hackernoon.com/html-css-and-javascript-explained-simply)
+![](https://cdn.hackernoon.com/images/RGd8gYqtrbhMVZHKJUJnyTAUWol2-cb93hgv.jpeg)
+Learning web development includes understanding & dealing with terms like CSS, Javascript, & HTML. This article aims to bring you up to speed with this concept.
+
+### [91. How To Build A Website With Velo [Beginners Guide]](https://hackernoon.com/how-to-build-a-website-with-velo-beginners-guide-2v24352s)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-ttk3519.jpeg)
+Excited as you are to get started building your website using Velo by Wix, let's take a moment to plan ahead.
+
+### [92. Why the Security of Websites and Web Applications Is Vital](https://hackernoon.com/why-the-security-of-websites-and-web-applications-is-vital)
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-c193o41.jpeg)
 Security of websites and web applications is becoming more and more vital because hackers evolve and methods of hacking too. Here website security is discussed.
+
+### [93. An Introductory Guide to Building a Website with Good Quality Code](https://hackernoon.com/an-introductory-guide-to-building-a-website-with-good-quality-code-7v2p34ny)
+![](https://cdn.hackernoon.com/images/MedHIICL4oSJ7Y2rxX4SKFASDIT2-eg93xsh.jpeg)
+Guaranteeing code quality when your website is in the development stage is a colossal task. However, even with a steady number of programming designers, keeping up code quality can be daunting. Without code quality tools and a reliable framework, the entire task can amount to enormous technical debt, doing more harm than good in the long haul.
 
 ### [94. How to Make an Animated Card Using CSS Animation](https://hackernoon.com/how-to-make-an-animated-card-using-css-animation)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-w493p61.jpeg)
@@ -388,13 +390,13 @@ Easy-to-understand HTML and CSS tutorials with lots of examples, learn How to cr
 ![](https://cdn.hackernoon.com/images/O6cGdKVM77VtTdgZ9yACmWzxild2-g68v29yw.jpeg)
 Modern website builders can help you create fluid websites that can take your business online while looking crisp and beautiful.
 
-### [96. Why ENV Variables are no Good Anymore](https://hackernoon.com/why-env-variables-are-no-good-anymore)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-44a3q2m.jpeg)
-In this article, we’ll discuss the threats that using .env files poses for secret management while application development and uncover the ways to combat them.
-
-### [97. How To Work with External Database](https://hackernoon.com/how-to-work-with-external-database-b521351x)
+### [96. How To Work with External Database](https://hackernoon.com/how-to-work-with-external-database-b521351x)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-zwz35e5.jpeg)
 When you enable Velo you also automatically get Wix Data, which lets you work with our built-in databases on your site. You may also want to work with data that you maintain in an external database. Velo lets you connect your site to an external database and then work with that database collection in your site just as you would with our built-in collections.
+
+### [97. Why ENV Variables are no Good Anymore](https://hackernoon.com/why-env-variables-are-no-good-anymore)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-44a3q2m.jpeg)
+In this article, we’ll discuss the threats that using .env files poses for secret management while application development and uncover the ways to combat them.
 
 ### [98. Building an uNFT Marketplace Using Next.js, Cosmic and Stripe ](https://hackernoon.com/building-an-unft-marketplace-using-nextjs-cosmic-and-stripe)
 ![](https://cdn.hackernoon.com/images/Jxe9yCMk4BW1cZd1hs3AlUhayZv1-tie3ssk.gif.webp)
@@ -408,26 +410,26 @@ Malware will harm the user experience and SEO ranking of your website which make
 ![](https://cdn.hackernoon.com/images/BTEjqAL3ijV9G4maF7DneBRObD42-1243z42.webp)
 A simple gRPC communication between a web browser and server with an Envoy proxy.
 
-### [101. How To Clone A Famous Job Board Website using Velo by Wix](https://hackernoon.com/how-to-clone-a-famous-job-board-website-using-velo-by-wix-8o8u355x)
+### [101. How I built my Digital Garden using Hugo](https://hackernoon.com/how-i-built-my-digital-garden-using-hugo-kc3p37mn)
+![](https://cdn.hackernoon.com/images/06PnNg2ay2fT422uV5MiKggWCGB3-x31w34pa.jpeg)
+Digital Garden is a collection of notes, resources, ideas, quotes or summaries shared in public. This article explains how I built a digital garden using Hugo.
+
+### [102. How To Clone A Famous Job Board Website using Velo by Wix](https://hackernoon.com/how-to-clone-a-famous-job-board-website-using-velo-by-wix-8o8u355x)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-kdi35l0.jpeg)
 Although you won't build a Clubhouse for Gen Z (no offense), Wix is still great for constructing the go-to website we use every day.
 Any guesses? Job boards. T
 
-### [102. Choosing Python for Web Development: Top 16 Pros and Cons](https://hackernoon.com/choosing-python-for-web-development-top-16-pros-and-cons-y3an3yji)
+### [103. Choosing Python for Web Development: Top 16 Pros and Cons](https://hackernoon.com/choosing-python-for-web-development-top-16-pros-and-cons-y3an3yji)
 ![](https://images.unsplash.com/photo-1507680685605-8dd3c711934b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Did you know that Python was named after Monty Python?
 
-### [103. What is Google AMP (Accelerated Mobile Pages) and Do You Need it for SEO?](https://hackernoon.com/what-is-google-amp-accelerated-mobile-pages-and-do-you-need-it-for-seo)
+### [104. What is Google AMP (Accelerated Mobile Pages) and Do You Need it for SEO?](https://hackernoon.com/what-is-google-amp-accelerated-mobile-pages-and-do-you-need-it-for-seo)
 ![](https://cdn.hackernoon.com/images/5oBTEH5hn9MHMoz41E3LIHOJx8i1-g0a3hxf.jpeg)
 Your website can still rank very first on Google SERP even without AMP. Accelerated Mobile Pages is not a ranking factor on Google and other search engines... 
 
-### [104. Green Web Hosting Providers, Powered By Renewable Energy](https://hackernoon.com/green-web-hosting-providers-powered-by-renewable-energy-im2c3uzw)
+### [105. Green Web Hosting Providers, Powered By Renewable Energy](https://hackernoon.com/green-web-hosting-providers-powered-by-renewable-energy-im2c3uzw)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxsUoF5axcxSoeH3fgWCicxZzJev1-nxh3unm.png?alt=media&token=33f6f24d-9d7f-4c10-bc98-313daf3b3ff9)
 Image Source: Green-Gator
-
-### [105. How I built my Digital Garden using Hugo](https://hackernoon.com/how-i-built-my-digital-garden-using-hugo-kc3p37mn)
-![](https://cdn.hackernoon.com/images/06PnNg2ay2fT422uV5MiKggWCGB3-x31w34pa.jpeg)
-Digital Garden is a collection of notes, resources, ideas, quotes or summaries shared in public. This article explains how I built a digital garden using Hugo.
 
 ### [106. 19+ Javascript Plugins and Data Table Libraries to Make Your Life Easier](https://hackernoon.com/19-javascript-plugins-and-data-table-libraries-to-make-your-life-easier-bd2e355l)
 ![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-2hk35vl.jpeg)
@@ -441,13 +443,13 @@ Web development is still (thankfully) a frontier, where there is little to no of
 ![](https://cdn.hackernoon.com/images/l13yNZx0OPN39hqL2pJ02CRRxsu1-w27831kc.jpeg)
 Fundamental Concepts of Angular for beginners to advanced level developers.
 
-### [109. The Evolution of The Web as We Know It](https://hackernoon.com/the-evolution-of-the-web-as-we-know-it-cs1x3u2x)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFOSBkxRpMMhr0jzqpLzjyr5LuOI3-pg533umt.webp?alt=media&token=d04fada8-3ef0-4013-861d-f8731ffff4eb)
-Website layouts change all the time, and there are more ways than ever to style a layout, with many frameworks available to help simplify the code, whilst keeping sites looking fancy.
-
-### [110. How Are HTML Elements Stacked by Default?](https://hackernoon.com/how-are-html-elements-stacked-by-default)
+### [109. How Are HTML Elements Stacked by Default?](https://hackernoon.com/how-are-html-elements-stacked-by-default)
 ![](https://cdn.hackernoon.com/images/RJQZvFU148YjNOndYa5BZPkZHvc2-4ca2klh.jpeg)
 In this article you'll learn what stacking means in the context of web pages, the different types of elements that are stacked, and the default stacking order.
+
+### [110. The Evolution of The Web as We Know It](https://hackernoon.com/the-evolution-of-the-web-as-we-know-it-cs1x3u2x)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFOSBkxRpMMhr0jzqpLzjyr5LuOI3-pg533umt.webp?alt=media&token=d04fada8-3ef0-4013-861d-f8731ffff4eb)
+Website layouts change all the time, and there are more ways than ever to style a layout, with many frameworks available to help simplify the code, whilst keeping sites looking fancy.
 
 ### [111. 13 Expert Tips to Improve Your Web Application Performance Today](https://hackernoon.com/13-expert-tips-to-improve-your-web-application-performance-today-7x1w378e)
 ![](https://cdn.hackernoon.com/images/fNkvYAeLEnONfuO5f3VxdvONlht2-2jds35hs.jpeg)
@@ -461,59 +463,59 @@ The rise of technology trends has gathered in a way that to gain the attraction 
 ![](https://cdn.hackernoon.com/images/mmNEGbIRDlTDYT9TgWhvl8j9c6D3-rp6433ib.jpeg)
 If you have JavaScript knowledge and want to build an online timer yourself with custom code, you can use Velo's built-in coding editor.
 
-### [114. No-Code Needs To Adapt To Specialists: An Argument](https://hackernoon.com/no-code-needs-to-adapt-to-specialists-an-argument-uo1w328p)
-![](https://cdn.hackernoon.com/images/8LrcfRYMsiSAkTlOxfIKZambCun1-zc5c31fg.jpeg)
-Nobody has time for endless tutorials. To go mainstream, no-code tools must adapt to specialists.
-
-### [115. How to Choose the Perfect Font for Your Website and Advertisements](https://hackernoon.com/how-to-choose-the-perfect-font-for-your-website-and-advertisements)
+### [114. How to Choose the Perfect Font for Your Website and Advertisements](https://hackernoon.com/how-to-choose-the-perfect-font-for-your-website-and-advertisements)
 ![](https://cdn.hackernoon.com/images/igt8CfRKG3PcMuovWgbcGOHCkNK2-rf93plz.jpeg)
 Finding the perfect font for a project can be a challenge. It can take a long time to select the correct font. To make the right choice, there are a few things 
+
+### [115. Wanna Know How I Built My Blog Website Using Lovable?](https://hackernoon.com/wanna-know-how-i-built-my-blog-website-using-lovable)
+![](https://cdn.hackernoon.com/images/building-blocks-abstract-piwh0ci9cv6in9arphux5bd7.png)
+Step-by-step guide to building a modern blog website with Lovable prompts, GitHub sync, and Substack links.
 
 ### [116. Top 10 Tips for Choosing a CMS Platform for Your Website](https://hackernoon.com/top-10-tips-for-choosing-a-cms-platform-for-your-website)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-pu93lhm.jpeg)
 The most effective and dynamic Top 10 Tips that you might want to work on and choose in order to choose the right CMS platform for your business website.
 
-### [117. My Experience Building a Professional Portfolio with Velo](https://hackernoon.com/my-experience-building-a-simple-professional-portfolio-with-velo-7hl33gq)
-![](https://cdn.hackernoon.com/images/rqLhYzJjWATiN82xawdrCnlXZCI3-5sc33v0.jpeg)
-In this article, I go over my experiences building an online portfolio using Velo by Wix. Drag, drop, and finally, add some spice with custom code! 
+### [117. No-Code Needs To Adapt To Specialists: An Argument](https://hackernoon.com/no-code-needs-to-adapt-to-specialists-an-argument-uo1w328p)
+![](https://cdn.hackernoon.com/images/8LrcfRYMsiSAkTlOxfIKZambCun1-zc5c31fg.jpeg)
+Nobody has time for endless tutorials. To go mainstream, no-code tools must adapt to specialists.
 
 ### [118. 5 Useful Tips to Become a
 Successful Software Developer](https://hackernoon.com/5-useful-tips-to-become-a-successful-software-developer)
 ![](https://cdn.hackernoon.com/images/K8wVCBHfHsdlHbbKvfINaEV2wkX2-qn93jnl.jpeg)
 Want to know some foolproof tips to become a software developer? In this guide, we have covered everything for you to know. 
 
-### [119. The API fetch Module as the Way to Accessing 3rd-Party Services ](https://hackernoon.com/the-api-fetch-module-as-the-way-to-accessing-3rd-party-services-l01p35ro)
+### [119. My Experience Building a Professional Portfolio with Velo](https://hackernoon.com/my-experience-building-a-simple-professional-portfolio-with-velo-7hl33gq)
+![](https://cdn.hackernoon.com/images/rqLhYzJjWATiN82xawdrCnlXZCI3-5sc33v0.jpeg)
+In this article, I go over my experiences building an online portfolio using Velo by Wix. Drag, drop, and finally, add some spice with custom code! 
+
+### [120. The API fetch Module as the Way to Accessing 3rd-Party Services ](https://hackernoon.com/the-api-fetch-module-as-the-way-to-accessing-3rd-party-services-l01p35ro)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-fmn35n0.jpeg)
 Using Velo you can write code to access 3rd-party web services. You can call a 3rd-party service directly from your client-side code. However, if you have security concerns, such as exposing API keys, you can call the service from a backend web module.
 
-### [120. How to Build a GatsbyJS Blog (Part 4): Layout and Featured Images](https://hackernoon.com/how-to-build-a-gatsbyjs-blog-part-4-layout-and-featured-images)
+### [121. How to Build a GatsbyJS Blog (Part 4): Layout and Featured Images](https://hackernoon.com/how-to-build-a-gatsbyjs-blog-part-4-layout-and-featured-images)
 ![](https://cdn.hackernoon.com/images/YhQrn2uriTN9SEA31DxtfMz7glu1-ndc3sih.jpeg)
 In part 4 of our "Building a Gatsby Blog" series, we will promote engagement and design cohesion by adding images to our pages and blog posts.
 
-### [121. Velo How-To: API Aggregations](https://hackernoon.com/velo-how-to-api-aggregations-uu1l35nl)
+### [122. Velo How-To: API Aggregations](https://hackernoon.com/velo-how-to-api-aggregations-uu1l35nl)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-e61235ki.jpeg)
 Using the aggregation functionality of the Data API you can perform certain calculations on your collection data, as whole or on groups of items that you define, to retrieve meaningful summaries. You can also add filtering and sorting to your aggregations to retrieve exactly what you need.
 
-### [122. How to Use jQuery: An Introduction to the JavaScript Library](https://hackernoon.com/how-to-use-jquery-an-introduction-to-the-javascript-library-0j903159)
+### [123. How to Use jQuery: An Introduction to the JavaScript Library](https://hackernoon.com/how-to-use-jquery-an-introduction-to-the-javascript-library-0j903159)
 ![](https://cdn.hackernoon.com/images/A0JT0kWjB2UTOGzv9jXoh17Xc5H2-7m1e319y.jpeg)
 jQuery is a JavaScript library that is used on your websites. jQuery is open source material that is used to make Javascript programming easier.
 
-### [123. Utilize The Power of NFTs On Your Website](https://hackernoon.com/utilize-the-power-of-nfts-on-your-website)
+### [124. Utilize The Power of NFTs On Your Website](https://hackernoon.com/utilize-the-power-of-nfts-on-your-website)
 ![](https://cdn.hackernoon.com/images/f4lKkJkseeZDpW6hfd39kjY5Enx1-zj93gz1.jpeg)
 Utilize The Power of NFTs On Your Website
 
-### [124. Creating a Chart JS Scatter Diagram Using 2 Datasets](https://hackernoon.com/creating-a-chart-js-scatter-diagram-using-2-datasets)
+### [125. How to a Make Flutter Screen in 2 Minutes](https://hackernoon.com/how-to-a-make-flutter-screen-in-2-minutes)
+![](https://cdn.hackernoon.com/images/Ry0vGbeiqbbNAwbLPBRkZrIZz2o2-ara2o8u.jpeg)
+I want to show you, how to generate a Flutter screen in a couple of minutes using Codis. 
+
+### [126. Creating a Chart JS Scatter Diagram Using 2 Datasets](https://hackernoon.com/creating-a-chart-js-scatter-diagram-using-2-datasets)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6z92bax.jpeg)
 
 Creating a Chart JS Scatter Diagram Using 2 Datasets
-
-### [125. Wanna Know How I Built My Blog Website Using Lovable?](https://hackernoon.com/wanna-know-how-i-built-my-blog-website-using-lovable)
-![](https://cdn.hackernoon.com/images/building-blocks-abstract-piwh0ci9cv6in9arphux5bd7.png)
-Step-by-step guide to building a modern blog website with Lovable prompts, GitHub sync, and Substack links.
-
-### [126. How to a Make Flutter Screen in 2 Minutes](https://hackernoon.com/how-to-a-make-flutter-screen-in-2-minutes)
-![](https://cdn.hackernoon.com/images/Ry0vGbeiqbbNAwbLPBRkZrIZz2o2-ara2o8u.jpeg)
-I want to show you, how to generate a Flutter screen in a couple of minutes using Codis. 
 
 ### [127. Setting Up WooCommerce on Your WordPress Site](https://hackernoon.com/woocommerce-on-wordpress)
 ![](https://cdn.hackernoon.com/images/Q24aMWe0S4OZsnV3n1I0FkkplFw2-bg93kqg.jpeg)
@@ -524,33 +526,33 @@ WooCommerce is required if you want to create an excellent e-commerce website on
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-yq93oal.jpeg)
 In CSS, it's often necessary to signpost that we want to select an element, but not in specific circumstances - like if it has a certain class. 
 
-### [129. How To Adopt TDD In Your Team](https://hackernoon.com/how-to-adopt-tdd-in-your-team-xu1p35cx)
-![](https://hackernoon.com/images/NpaehOQoGBPqOE9e9tWoQNotegK2-n96d33sk.jpeg)
-This is the first in a series of blog posts in which we outline the benefits of TDD for your organization and what are the projects to consider while adopting this agile process. Link of Part Two.
-
-### [130. A Custom Chart by Using the HTML Component Plainly Explained](https://hackernoon.com/a-custom-chart-by-using-the-html-component-plainly-explained-1h1y33ix)
+### [129. A Custom Chart by Using the HTML Component Plainly Explained](https://hackernoon.com/a-custom-chart-by-using-the-html-component-plainly-explained-1h1y33ix)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-7oo3303.jpeg)
 This example demonstrates how to use the HTML component to embed a chart on a page. This is just one of the many things you can embed in your site using the HTM
+
+### [130. How To Adopt TDD In Your Team](https://hackernoon.com/how-to-adopt-tdd-in-your-team-xu1p35cx)
+![](https://hackernoon.com/images/NpaehOQoGBPqOE9e9tWoQNotegK2-n96d33sk.jpeg)
+This is the first in a series of blog posts in which we outline the benefits of TDD for your organization and what are the projects to consider while adopting this agile process. Link of Part Two.
 
 ### [131. Making your own personal website from scratch](https://hackernoon.com/making-your-own-personal-website-from-scratch)
 ![](https://cdn.hackernoon.com/images/zI8R5BXScMfvRNRdVAYti6JNSad2-bia3idd.jpeg)
 An introduction to HTML and CSS - the foundation and styling for any website
 
-### [132. How To Auto-Translate Websites Without Writing Code](https://hackernoon.com/how-to-auto-translate-websites-without-writing-code-a74e3x9i)
+### [132. How to Use Velo Rendering API for Improved Performance of Website Pages: Tips to Take into Account](https://hackernoon.com/how-to-use-velo-rendering-api-for-improved-performance-of-website-pages-tips-to-take-into-account-lx1g33o9)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-m8h33ew.jpeg)
+When a visitor browses to one of your site's pages, that page needs to be set up before it is displayed. Setting up a page includes adding and positioning all of its elements as well as running code that might retrieve the page's data or perform other setup operations. This process is known as rendering.
+
+### [133. How To Auto-Translate Websites Without Writing Code](https://hackernoon.com/how-to-auto-translate-websites-without-writing-code-a74e3x9i)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fgs44DfrqEGPqYkMKX6ykv4XGdoq2-ooe3un0.jpeg?alt=media&token=b49d1fbe-e01f-4c7a-9277-24fad36be5ae)
 Machine translation has come a long way since the application of neural networks to this task in the middle of the last decade. At the same time, the science of localizing websites to extend coverage to additional markets has grown by leaps and bounds. 
 
-### [133. Building a Post Component with Links, onClick Handling, Text Selection, and Clickability Anywhere.](https://hackernoon.com/building-a-post-component-with-links-onclick-handling-text-selection-and-clickability-anywhere)
+### [134. Building a Post Component with Links, onClick Handling, Text Selection, and Clickability Anywhere.](https://hackernoon.com/building-a-post-component-with-links-onclick-handling-text-selection-and-clickability-anywhere)
 ![](https://cdn.hackernoon.com/images/yQlDE7WyH8agYkQFBq6KSDhPamH3-vga4uhm.jpeg)
 In this article, we will explore how to create a versatile post component in React that supports link navigation and onClick event handling.
 
-### [134. Everything You Need to Know to Create a Free Website](https://hackernoon.com/everything-you-need-to-know-to-create-a-free-website)
+### [135. Everything You Need to Know to Create a Free Website](https://hackernoon.com/everything-you-need-to-know-to-create-a-free-website)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-x793plw.jpeg)
 See what you need to know before you decide to get a free website!
-
-### [135. How to Use Velo Rendering API for Improved Performance of Website Pages: Tips to Take into Account](https://hackernoon.com/how-to-use-velo-rendering-api-for-improved-performance-of-website-pages-tips-to-take-into-account-lx1g33o9)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-m8h33ew.jpeg)
-When a visitor browses to one of your site's pages, that page needs to be set up before it is displayed. Setting up a page includes adding and positioning all of its elements as well as running code that might retrieve the page's data or perform other setup operations. This process is known as rendering.
 
 ### [136. The Difference Between Web Apps and Websites Explained](https://hackernoon.com/the-difference-between-web-apps-and-websites-explained-9c2134zu)
 ![](https://cdn.hackernoon.com/images/5xThcNeVYFUq8lAaKdNX08Xn6Pk2-q03r33x8.jpeg)
@@ -564,17 +566,17 @@ A beginner's guide to integrating a Github repo with Google Sheets using Balleri
 ![](https://cdn.hackernoon.com/images/noonification_714_gsehwcwmnq2bck1jt72y0qng.png)
 1/13/2024: Top 5 stories on the HackerNoon homepage!
 
-### [139. Choosing the Best Builder to Create A Perfect Website](https://hackernoon.com/choosing-the-best-builder-to-create-a-perfect-website-b5a435qn)
-![](https://cdn.hackernoon.com/images/QdWX77c6s5Skk99abuNLlG6AEZZ2-ie9u355o.jpeg)
-A perfect website does not only create a good impression, but it also helps in increasing your customer retention rate. A properly built website considers multiple factors- User Interface, Navigation, Icons, and Menu are a few among them. Now, as you see, the number of businesses going digital is increasing, thus, website builder services are increasing in number as well. It does not matter if you are one of the top app development companies in the USA, or, you sell groceries. The modern era is dependent upon technology and loves comfort. Therefore, you have to get dependent upon the internet as well. Of course not entirely, but for a major part of the business.
-
-### [140. WAF is No Longer Enough: Exploring Four Pillars of Web Security for AWS](https://hackernoon.com/waf-is-no-longer-enough-exploring-four-pillars-of-web-security-for-aws)
+### [139. WAF is No Longer Enough: Exploring Four Pillars of Web Security for AWS](https://hackernoon.com/waf-is-no-longer-enough-exploring-four-pillars-of-web-security-for-aws)
 ![](https://cdn.hackernoon.com/images/hQzFNY9vmtWeNrschOtDtAGgBwa2-g393rs3.jpeg)
 Understand the core four pillars of robust web security using AWS as an example, going beyond WAF include DDoS Protection, API Security, and Bot Management. 
 
-### [141. Front-End Deployment Insights: Experiences and Metric Evaluations of Leading Cloud Platforms](https://hackernoon.com/evaluating-free-website-deployment-platforms-so-you-dont-have-to)
+### [140. Front-End Deployment Insights: Experiences and Metric Evaluations of Leading Cloud Platforms](https://hackernoon.com/evaluating-free-website-deployment-platforms-so-you-dont-have-to)
 ![](https://cdn.hackernoon.com/images/5V69esQ7SCMw9UcpHrWeFSIpkyG3-bq734kb.png)
 Evaluate top free website deployment services like Vercel, Cloudflare Pages, GitHub Pages, and Tencent EdgeOne, focusing on latency, Lighthouse metrics.
+
+### [141. Choosing the Best Builder to Create A Perfect Website](https://hackernoon.com/choosing-the-best-builder-to-create-a-perfect-website-b5a435qn)
+![](https://cdn.hackernoon.com/images/QdWX77c6s5Skk99abuNLlG6AEZZ2-ie9u355o.jpeg)
+A perfect website does not only create a good impression, but it also helps in increasing your customer retention rate. A properly built website considers multiple factors- User Interface, Navigation, Icons, and Menu are a few among them. Now, as you see, the number of businesses going digital is increasing, thus, website builder services are increasing in number as well. It does not matter if you are one of the top app development companies in the USA, or, you sell groceries. The modern era is dependent upon technology and loves comfort. Therefore, you have to get dependent upon the internet as well. Of course not entirely, but for a major part of the business.
 
 ### [142. Finding the Best Chat API: Should You Develop Your Own or Use a Third-Party Solution?](https://hackernoon.com/finding-the-best-chat-api-should-you-develop-your-own-or-use-a-third-party-solution)
 ![](https://cdn.hackernoon.com/images/gzG25VLfJzghBdT1v97jIfj9DE52-t693opx.jpeg)
@@ -612,13 +614,13 @@ Your website failed under load from online traffic. What went wrong? There’s u
 ![](https://cdn.hackernoon.com/images/QYtqiiANcQbDvHpMhaxraQGracr1-7e93rih.png)
 In this blog post, we’ll explore the basics of account-based marketing personalization and discuss some of the benefits you can expect from using it. 
 
-### [151. How to Check Web Accessibility with Lighthouse](https://hackernoon.com/how-to-check-web-accessibility-with-lighthouse)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-u093l6m.jpeg)
-Accessibility should be a top priority for developing new tech. There are many tools available to check whether or not your website is accessible. 
-
-### [152. Understanding Empathetic Design Thinking](https://hackernoon.com/understanding-empathetic-design-thinking)
+### [151. Understanding Empathetic Design Thinking](https://hackernoon.com/understanding-empathetic-design-thinking)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ml93z90.jpeg)
 Empathy is the core of design thinking and problem solving and it allows designers to understand their audience's perspective and create solutions aptly. 
+
+### [152. How to Check Web Accessibility with Lighthouse](https://hackernoon.com/how-to-check-web-accessibility-with-lighthouse)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-u093l6m.jpeg)
+Accessibility should be a top priority for developing new tech. There are many tools available to check whether or not your website is accessible. 
 
 ### [153. Why Proactive WordPress Website Care is Important: A Guide to Long-Term Success](https://hackernoon.com/why-proactive-wordpress-website-care-is-important-a-guide-to-long-term-success)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-xo93xaa.jpeg)
@@ -636,69 +638,69 @@ Full-Stack development just reached a whole new level of productivity. Isomorphi
 ![](https://cdn.hackernoon.com/images/fLJ2N25lXzgKxtgg4SiAfT9VDls1-pt834tk.jpeg)
 We provide an in-depth look at Google's Core Web Vitals, metrics introduced to assess website performance. 
 
-### [157. How to use Javascript's Performance API and measure page performance](https://hackernoon.com/how-to-use-javascripts-performance-api-and-measure-page-performance-jw1i3yf7)
-![](https://cdn.hackernoon.com/images/niy2e8a.jpg)
-The High Resolution Time standard defines a Performance interface that supports client-side latency measurements within applications. The Performance interfaces are considered high resolution because they are accurate to a thousandth of a millisecond (subject to hardware or software constraints). The interfaces support a number of use cases including calculating frame-rates (potentially important in animations) and benchmarking (such as the time to load a resource).
-
-### [158. What Is WordPress Multisite? All You Need to Know](https://hackernoon.com/what-is-wordpress-multisite-all-you-need-to-know)
+### [157. What Is WordPress Multisite? All You Need to Know](https://hackernoon.com/what-is-wordpress-multisite-all-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/TvNas6zO3gMtyd6i7kF12ogzTPO2-7md3od2.jpeg)
 Here is all about WordPress Multisite, identified its benefits and drawbacks, and examined which sorts of users and websites gain the most from it.
+
+### [158. How to use Javascript's Performance API and measure page performance](https://hackernoon.com/how-to-use-javascripts-performance-api-and-measure-page-performance-jw1i3yf7)
+![](https://cdn.hackernoon.com/images/niy2e8a.jpg)
+The High Resolution Time standard defines a Performance interface that supports client-side latency measurements within applications. The Performance interfaces are considered high resolution because they are accurate to a thousandth of a millisecond (subject to hardware or software constraints). The interfaces support a number of use cases including calculating frame-rates (potentially important in animations) and benchmarking (such as the time to load a resource).
 
 ### [159. A Simple Strategy That Makes Your Website Instantly More Valuable](https://hackernoon.com/a-simple-strategy-that-makes-your-website-instantly-more-valuable)
 ![](https://cdn.hackernoon.com/images/3FnIKHGgbNVQq1IJMsgvsFiWteK2-bi93ii3.jpeg)
 Whether you already have a website or plan to build one at some point, if you want it to help your business grow and thrive, then check out this article...
 
-### [160. Using Next.js to Effectively Format a Page and Structure Its SEO](https://hackernoon.com/using-nextjs-to-effectively-format-a-page-and-structure-its-seo)
-![](https://cdn.hackernoon.com/images/KqfopgYCVjenJNeh8DD99wUIl1C2-t593q4n.jpeg)
-Organizing your Next.js application and using its components.
-
-### [161. How Businesses Can Embrace Digital Transformation Using Python Web Development](https://hackernoon.com/how-businesses-can-embrace-digital-transformation-using-python-web-development)
+### [160. How Businesses Can Embrace Digital Transformation Using Python Web Development](https://hackernoon.com/how-businesses-can-embrace-digital-transformation-using-python-web-development)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-1zb3bp7.jpeg)
 Python is a programming language that can provide a significant boost to the usability and functionality of your website. 
 
-### [162. 5 Step Guide on How to Set Up Velo Pay API for a Single-Product Online Payments](https://hackernoon.com/5-step-guide-on-how-to-set-up-velo-pay-api-for-a-single-product-online-payments-ry1v338y)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-eo1433je.jpeg)
-This article describes how you can use the Velo Pay API to collect payments from your site's visitors for a single predefined product, outside the context of a Wix App (like Wix Stores). Throughout this article we're going to use this site to illustrate the process. 
+### [161. Using Next.js to Effectively Format a Page and Structure Its SEO](https://hackernoon.com/using-nextjs-to-effectively-format-a-page-and-structure-its-seo)
+![](https://cdn.hackernoon.com/images/KqfopgYCVjenJNeh8DD99wUIl1C2-t593q4n.jpeg)
+Organizing your Next.js application and using its components.
 
-### [163. 10 Effective Tips To Reduce Website & Mobile App Load Time](https://hackernoon.com/10-effective-tips-to-reduce-website-and-mobile-app-load-time-x6t32pt)
-![](https://cdn.hackernoon.com/images/Wu42GekgXIZe2EfxrilLFOTYv0U2-db4625rw.jpeg)
-Here Are 10 Amazing Tips To Speed Up Your Website or Mobile App and Reduce The Load Time. 
-
-### [164. 108 Stories To Learn About Website Design](https://hackernoon.com/108-stories-to-learn-about-website-design)
+### [162. 108 Stories To Learn About Website Design](https://hackernoon.com/108-stories-to-learn-about-website-design)
 ![](https://cdn.hackernoon.com/images/github/website-design-450.png)
 Learn everything you need to know about Website Design via these 108 free HackerNoon stories.
 
-### [165. What You Don't Know About CSS](https://hackernoon.com/what-you-dont-know-about-css-n7513y3a)
-![](https://images.unsplash.com/photo-1534685785745-60a2cea0ec34?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Since I've been learning CSS, I have met a lot of programmers saying or claiming that CSS is not a hard language or it is not a programming language. However it is or not, it's clear that without CSS, the world of web development wouldn't be the same. 
+### [163. 5 Step Guide on How to Set Up Velo Pay API for a Single-Product Online Payments](https://hackernoon.com/5-step-guide-on-how-to-set-up-velo-pay-api-for-a-single-product-online-payments-ry1v338y)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-eo1433je.jpeg)
+This article describes how you can use the Velo Pay API to collect payments from your site's visitors for a single predefined product, outside the context of a Wix App (like Wix Stores). Throughout this article we're going to use this site to illustrate the process. 
 
-### [166. Static Website Generators: Brief Introduction](https://hackernoon.com/a-brief-introduction-into-static-site-generators-gn8228v3)
+### [164. 10 Effective Tips To Reduce Website & Mobile App Load Time](https://hackernoon.com/10-effective-tips-to-reduce-website-and-mobile-app-load-time-x6t32pt)
+![](https://cdn.hackernoon.com/images/Wu42GekgXIZe2EfxrilLFOTYv0U2-db4625rw.jpeg)
+Here Are 10 Amazing Tips To Speed Up Your Website or Mobile App and Reduce The Load Time. 
+
+### [165. Static Website Generators: Brief Introduction](https://hackernoon.com/a-brief-introduction-into-static-site-generators-gn8228v3)
 ![](https://cdn.hackernoon.com/images/kb1yl28cz.jpg)
 Even in 2020 many developers are used to spinning up a WordPress (or similar software) for content websites. Until recently I've been one of these developers. I was willing to develop a website using technology to get done what I could get done without. My choice of framework wouldn't have been WordPress, but at the end the result is the same: building a system to deliver what a static publishing software could have handled easily. In many cases it simply isn't worth the effort to set up, configure and maintain a fully fledged content management system and store content in a database.
 
-### [167. Top‌ ‌3‌ ‌Drag-n-Drop‌ ‌Page‌ ‌Builders‌ ](https://hackernoon.com/top-3-drag-n-drop-page-builders-062m338d)
-![](https://cdn.hackernoon.com/images/JynY4I2hPXMFDI9SxwSQeeHds6n1-6ur33kp.jpeg)
-Do you want to build a fast, mobile, and high-ranking website with no coding experience? Hiring a developer would make the grade, but could cost you a pretty penny. So how can you nail eye-catching pages for your website without coding wiz? Well, the mighty drag-n-drop page builder might come to your rescue.
+### [166. What You Don't Know About CSS](https://hackernoon.com/what-you-dont-know-about-css-n7513y3a)
+![](https://images.unsplash.com/photo-1534685785745-60a2cea0ec34?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Since I've been learning CSS, I have met a lot of programmers saying or claiming that CSS is not a hard language or it is not a programming language. However it is or not, it's clear that without CSS, the world of web development wouldn't be the same. 
 
-### [168. Boosting Website Performance with Server-Side Rendering](https://hackernoon.com/boosting-website-performance-with-server-side-rendering)
+### [167. Boosting Website Performance with Server-Side Rendering](https://hackernoon.com/boosting-website-performance-with-server-side-rendering)
 ![](https://cdn.hackernoon.com/images/z5L7cZprQRgVvL7bpydqTnZfaqu1-9093uqk.jpeg)
 Enhance website speed and performance with server-side rendering. Learn implementation tips in this guide for improved user experience and SEO.
 
-### [169. The Great Comeback Of HTML Widgets](https://hackernoon.com/the-great-comeback-of-html-widgets-48p34xf)
-![](https://hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-meu29vy.jpeg)
-Do you remind those web widgets all websites have been using in the 90s? Guess what, they're coming back. 
+### [168. Top‌ ‌3‌ ‌Drag-n-Drop‌ ‌Page‌ ‌Builders‌ ](https://hackernoon.com/top-3-drag-n-drop-page-builders-062m338d)
+![](https://cdn.hackernoon.com/images/JynY4I2hPXMFDI9SxwSQeeHds6n1-6ur33kp.jpeg)
+Do you want to build a fast, mobile, and high-ranking website with no coding experience? Hiring a developer would make the grade, but could cost you a pretty penny. So how can you nail eye-catching pages for your website without coding wiz? Well, the mighty drag-n-drop page builder might come to your rescue.
 
-### [170. My Experience Using Velo by Wix: Building a Simple Website](https://hackernoon.com/my-experience-using-velo-by-wix-building-a-simple-website-gs4433ht)
+### [169. My Experience Using Velo by Wix: Building a Simple Website](https://hackernoon.com/my-experience-using-velo-by-wix-building-a-simple-website-gs4433ht)
 ![](https://cdn.hackernoon.com/images/Mtl1pk5ux8XlFZji7ZfrmcSwkHI3-va1b33tn.jpeg)
 Velo is a great platform, used to create both front-end and back-end website bases, it is full stack which is a huge step up from other Wix services
 
-### [171. Web API: Permissions API Documentation](https://hackernoon.com/web-api-permissions-api-documentation-371c3y3l)
-![](https://cdn.hackernoon.com/images/zgr2edi.jpg)
-The Permissions API provides a consistent programmatic way to query the status of API permissions attributed to the current context. For example, the Permissions API can be used to determine if permission to access a particular API has been granted or denied.
+### [170. The Great Comeback Of HTML Widgets](https://hackernoon.com/the-great-comeback-of-html-widgets-48p34xf)
+![](https://hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-meu29vy.jpeg)
+Do you remind those web widgets all websites have been using in the 90s? Guess what, they're coming back. 
 
-### [172. Dealing With ICANN: My Experience](https://hackernoon.com/dealing-with-icann-my-experience)
+### [171. Dealing With ICANN: My Experience](https://hackernoon.com/dealing-with-icann-my-experience)
 ![](https://cdn.hackernoon.com/images/dealing-with-icann-my-experience-cle7kidra000001s6g7tz00nl.png)
 Peter Sunde Kolmisoppi talks about his experience dealing with ICANN.
+
+### [172. Web API: Permissions API Documentation](https://hackernoon.com/web-api-permissions-api-documentation-371c3y3l)
+![](https://cdn.hackernoon.com/images/zgr2edi.jpg)
+The Permissions API provides a consistent programmatic way to query the status of API permissions attributed to the current context. For example, the Permissions API can be used to determine if permission to access a particular API has been granted or denied.
 
 ### [173. Proximity Events Specification: How To Receive Events From Device Proximity Sensors](https://hackernoon.com/proximity-events-specification-how-to-receive-events-from-device-proximity-sensors-3q1c3y74)
 ![](https://cdn.hackernoon.com/images/zwy2ehr.jpg)
@@ -709,25 +711,25 @@ Check the Browser compatibility table carefully before using this in production.
 ![](https://cdn.hackernoon.com/images/3FnIKHGgbNVQq1IJMsgvsFiWteK2-i993iv4.jpeg)
 Learn how to make your website work harder and start converting better the website traffic you already get. 
 
-### [175. 👀 From 0 to 81 Signups in a Day with Product Hunt](https://hackernoon.com/from-0-to-81-signups-in-a-day-with-product-hunt-w4q3e2o)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSOKHzUXvsvaY5Uri0JYuuwjCzpf2-dpb3wsn.jpeg?alt=media&token=a9051504-61a9-4ceb-a194-885a6eee8a95)
-As a developer I've always had a problem : Find new concepts to learn. 👨‍💻
-
-### [176. Velo How-To: Security Checklist](https://hackernoon.com/velo-how-to-security-checklist-p92234cp)
+### [175. Velo How-To: Security Checklist](https://hackernoon.com/velo-how-to-security-checklist-p92234cp)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-35o3412.jpeg)
 In general, your site is secure without you having to do anything. Wix takes care of that for you. However, there are certain situations where you have to take some precautions so that you don't expose your sensitive data to your site's visitors.
 
-### [177. Javascript Methods from Performance Timeline API](https://hackernoon.com/javascript-methods-from-performance-timeline-api-9j1c3ye2)
-![](https://cdn.hackernoon.com/images/tqy2elv.jpg)
-The Performance Timeline API defines extensions to the Performance interface to support client-side latency measurements within applications. The extensions provide interfaces to retrieve performance entry metrics based on specific filter criteria. The standard also includes interfaces that allow an application to define performance observer callbacks that are notified when specific performance events are added to the browser's performance timeline.
-
-### [178. How to Improve Website Ranking & User Experience with Core Web Vitals](https://hackernoon.com/how-to-improve-website-ranking-and-user-experience-with-core-web-vitals)
+### [176. How to Improve Website Ranking & User Experience with Core Web Vitals](https://hackernoon.com/how-to-improve-website-ranking-and-user-experience-with-core-web-vitals)
 ![](https://cdn.hackernoon.com/images/8MyHa2m0xxN2aXT1ACdOlkbhlZ13-uta3od0.jpeg)
 A complete guide to understanding Web core Vitals and improving them to rank your website higher!
 
-### [179. HTML Forms And Elements And How to Use Them](https://hackernoon.com/html-forms-and-elements-and-how-to-use-them-73kk3ypq)
-![](https://cdn.hackernoon.com/images/6e29j2eyr.jpg)
-Whenever dealing with user input, it is advisable to provide a structure so the process can be completed quickly and reliably, also limiting the amount of ‘free form’ input, which can be dangerous to allow in a public site. In HTML5, such a structure is achieved with the use of the form and input tags.
+### [177. 👀 From 0 to 81 Signups in a Day with Product Hunt](https://hackernoon.com/from-0-to-81-signups-in-a-day-with-product-hunt-w4q3e2o)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSOKHzUXvsvaY5Uri0JYuuwjCzpf2-dpb3wsn.jpeg?alt=media&token=a9051504-61a9-4ceb-a194-885a6eee8a95)
+As a developer I've always had a problem : Find new concepts to learn. 👨‍💻
+
+### [178. Javascript Methods from Performance Timeline API](https://hackernoon.com/javascript-methods-from-performance-timeline-api-9j1c3ye2)
+![](https://cdn.hackernoon.com/images/tqy2elv.jpg)
+The Performance Timeline API defines extensions to the Performance interface to support client-side latency measurements within applications. The extensions provide interfaces to retrieve performance entry metrics based on specific filter criteria. The standard also includes interfaces that allow an application to define performance observer callbacks that are notified when specific performance events are added to the browser's performance timeline.
+
+### [179. How to Build a Minimalist’s Blog Site in 2026](https://hackernoon.com/how-to-build-a-minimalists-blog-site-in-2026)
+![](https://cdn.hackernoon.com/images/bI3BzyBanbVxEZqmLV7jRnw6d9o2-jf838rm.jpeg)
+It is 2026, so why on earth would anyone want the most basic website using only html/css for their blog? A tutorial using using Zola, pico.css, and CloudFlare.
 
 ### [180. Unlocking Cosmos: Coinband Agency Propels Your Web 3.0 Project to Stardom](https://hackernoon.com/unlocking-cosmos-coinband-agency-propels-your-web-30-project-to-stardom)
 ![](https://cdn.hackernoon.com/images/swWL2ZFUJkPV8C6ogDAp0DWh9KO2-1183ydz.jpeg)
@@ -737,63 +739,63 @@ Enter Coinband, a stellar agency founded in 2022 by crypto marketing luminaries 
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-ja93jof.jpeg)
 Jeff is the founder of The.com. In this slogging AMA, Jeff shares the origins of The.com, web3 design, programming, and much more.
 
-### [182. 5 Best Free eCommerce Website Builders in 2022](https://hackernoon.com/5-best-free-e-commerce-website-builders-in-2021)
+### [182. HTML Forms And Elements And How to Use Them](https://hackernoon.com/html-forms-and-elements-and-how-to-use-them-73kk3ypq)
+![](https://cdn.hackernoon.com/images/6e29j2eyr.jpg)
+Whenever dealing with user input, it is advisable to provide a structure so the process can be completed quickly and reliably, also limiting the amount of ‘free form’ input, which can be dangerous to allow in a public site. In HTML5, such a structure is achieved with the use of the form and input tags.
+
+### [183. 5 Best Free eCommerce Website Builders in 2022](https://hackernoon.com/5-best-free-e-commerce-website-builders-in-2021)
 ![](https://cdn.hackernoon.com/images/O6cGdKVM77VtTdgZ9yACmWzxild2-zeev29he.jpeg)
 An eCommerce website builder is a tool that allows you to build your own website without any coding knowledge. It’s like a WYSIWYG editor, but for websites.
 
-### [183. Best AI Website Builders to Create a Stunning Website in 2023](https://hackernoon.com/best-website-builders-to-build-your-own-website-jtp3taf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-jhg3t7g.jpeg?alt=media&token=90ad2e21-b9f5-40e6-a442-57b89e8cccc2)
-In the digital age, it is important to have an online presence to market your business on every social media platform. To sell a brand or represent an organization, you need a website that sets you apart from the competition.  A well-organized and responsive website helps you build credibility as a business. Moreover, it costs you less than a designer.
-
-### [184. Should You Choose A Custom-Built Website Or A WordPress Theme?](https://hackernoon.com/should-you-choose-a-custom-built-website-or-a-wordpress-theme-jx1n3t48)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FbcdNBSrILpX6WFZDaIErn6I5Oi03-gf5d3tts.jpeg?alt=media&token=2256ccfb-74f9-46f0-b1e9-f89a996f3eca)
-Many people look forward to creating their own websites or look for opportunities to change it completely. They are often posed with a common question- which site should they choose for their website?  Should they opt for a personalized website or select an existing WordPress theme?
-
-### [185. Pointer Events](https://hackernoon.com/pointer-events-d81c3ylk)
+### [184. Pointer Events](https://hackernoon.com/pointer-events-d81c3ylk)
 ![](https://cdn.hackernoon.com/images/jqy2e08.jpg)
 Much of today's web content assumes the user's pointing device will be a mouse. However, since many devices support other types of pointing 
 input devices, such as pen/stylus and touch surfaces, extensions to the 
 existing pointing device event models are needed. Pointer events address that need.
 
-### [186. 9 Tips and Best Practices for HTML 5 ](https://hackernoon.com/9-tips-and-best-practices-for-html-5-c01137w7)
+### [185. 9 Tips and Best Practices for HTML 5 ](https://hackernoon.com/9-tips-and-best-practices-for-html-5-c01137w7)
 ![](https://cdn.hackernoon.com/images/L2ZzoLGpt8d6cP7hjSEpZluSjt72-z3t35tb.jpeg)
 Read this article to find out the most common HTM5 best practices. 
 
-### [187. Why you should use a CSS framework!](https://hackernoon.com/why-you-should-use-a-css-framework-w4r32sc)
-![](https://cdn.hackernoon.com/images/jm4c32gj.jpg)
+### [186. Should You Choose A Custom-Built Website Or A WordPress Theme?](https://hackernoon.com/should-you-choose-a-custom-built-website-or-a-wordpress-theme-jx1n3t48)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FbcdNBSrILpX6WFZDaIErn6I5Oi03-gf5d3tts.jpeg?alt=media&token=2256ccfb-74f9-46f0-b1e9-f89a996f3eca)
+Many people look forward to creating their own websites or look for opportunities to change it completely. They are often posed with a common question- which site should they choose for their website?  Should they opt for a personalized website or select an existing WordPress theme?
 
+### [187. Best AI Website Builders to Create a Stunning Website in 2023](https://hackernoon.com/best-website-builders-to-build-your-own-website-jtp3taf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-jhg3t7g.jpeg?alt=media&token=90ad2e21-b9f5-40e6-a442-57b89e8cccc2)
+In the digital age, it is important to have an online presence to market your business on every social media platform. To sell a brand or represent an organization, you need a website that sets you apart from the competition.  A well-organized and responsive website helps you build credibility as a business. Moreover, it costs you less than a designer.
 
-### [188. Web Design Ideas For Startups in 2020](https://hackernoon.com/web-design-ideas-for-startups-in-2020-lnam32qw)
-![](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-In today’s digital world, businesses have built a dependency on websites and applications. Be it a retail site for buying clothes, food ordering or almost anything you imagine, there’s a website or app for everything! 
-
-### [189. 7 Surprisingly Powerful Tips To Skyrocket Your Business With Progressive Web Apps](https://hackernoon.com/7-surprisingly-powerful-tips-to-skyrocket-your-business-with-progressive-web-apps-o3x3to9)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXmbSypT6XAV8MmSSJ5f3kQTf7x93-n61q3uu0.jpeg?alt=media&token=9518330b-997e-4a44-a1d7-95a5ac5634c4)
-We all love mobile apps. They are easy to use owing to their great design; they are fast and provide a level of accessibility that neither the business nor the consumer can have with a conventional website.
-
-### [190. Every Website Doesn’t Need to Be a Full App](https://hackernoon.com/every-website-doesnt-need-to-be-a-full-app)
-![](https://cdn.hackernoon.com/images/yrHtmJQEmfbeqMfB9RB9Bc3ESDI2-8203mi9.png)
-Loading spinners. Hydration delays. 300kB for a blog post. There’s a better way to build the web.
-
-### [191. Setting Up a Custom Domain and Claiming a Free SSL Certificate on Firebase](https://hackernoon.com/setting-up-a-custom-domain-and-claiming-a-free-ssl-certificate-on-firebase)
+### [188. Setting Up a Custom Domain and Claiming a Free SSL Certificate on Firebase](https://hackernoon.com/setting-up-a-custom-domain-and-claiming-a-free-ssl-certificate-on-firebase)
 ![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-16f2pm8.jpeg)
 How to easily set up a custom domain with free SSL on Firebase. Secure your website and enhance your online presence with step-by-step instructions.
 
-### [192. How to Create a Multilingual WordPress Site: Best Practices and Tools](https://hackernoon.com/how-to-create-a-multilingual-wordpress-site-best-practices-and-tools)
+### [189. Why you should use a CSS framework!](https://hackernoon.com/why-you-should-use-a-css-framework-w4r32sc)
+![](https://cdn.hackernoon.com/images/jm4c32gj.jpg)
+
+
+### [190. Web Design Ideas For Startups in 2020](https://hackernoon.com/web-design-ideas-for-startups-in-2020-lnam32qw)
+![](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+In today’s digital world, businesses have built a dependency on websites and applications. Be it a retail site for buying clothes, food ordering or almost anything you imagine, there’s a website or app for everything! 
+
+### [191. Every Website Doesn’t Need to Be a Full App](https://hackernoon.com/every-website-doesnt-need-to-be-a-full-app)
+![](https://cdn.hackernoon.com/images/yrHtmJQEmfbeqMfB9RB9Bc3ESDI2-8203mi9.png)
+Loading spinners. Hydration delays. 300kB for a blog post. There’s a better way to build the web.
+
+### [192. 7 Surprisingly Powerful Tips To Skyrocket Your Business With Progressive Web Apps](https://hackernoon.com/7-surprisingly-powerful-tips-to-skyrocket-your-business-with-progressive-web-apps-o3x3to9)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXmbSypT6XAV8MmSSJ5f3kQTf7x93-n61q3uu0.jpeg?alt=media&token=9518330b-997e-4a44-a1d7-95a5ac5634c4)
+We all love mobile apps. They are easy to use owing to their great design; they are fast and provide a level of accessibility that neither the business nor the consumer can have with a conventional website.
+
+### [193. 127 Stories To Learn About Wordpress](https://hackernoon.com/127-stories-to-learn-about-wordpress)
+![](https://cdn.hackernoon.com/images/github/wordpress-106.png)
+Learn everything you need to know about Wordpress via these 127 free HackerNoon stories.
+
+### [194. How to Create a Multilingual WordPress Site: Best Practices and Tools](https://hackernoon.com/how-to-create-a-multilingual-wordpress-site-best-practices-and-tools)
 ![](https://cdn.hackernoon.com/images/ji7oIkZfNJRhnXoNdKvazFcF78N2-8w83zl7.png)
 Learn how to create a multilingual WordPress site with our complete step by step guide. Discover the best practices and tools for your WordPress website.
 
-### [193. How to Build a Minimalist’s Blog Site in 2026](https://hackernoon.com/how-to-build-a-minimalists-blog-site-in-2026)
-![](https://cdn.hackernoon.com/images/bI3BzyBanbVxEZqmLV7jRnw6d9o2-jf838rm.jpeg)
-It is 2026, so why on earth would anyone want the most basic website using only html/css for their blog? A tutorial using using Zola, pico.css, and CloudFlare.
-
-### [194. How to Set Up Azure CDN For Lower Latency and Bandwidth Consumption](https://hackernoon.com/how-to-set-up-azure-cdn-for-lower-latency-and-bandwidth-consumption-0u4y35oy)
+### [195. How to Set Up Azure CDN For Lower Latency and Bandwidth Consumption](https://hackernoon.com/how-to-set-up-azure-cdn-for-lower-latency-and-bandwidth-consumption-0u4y35oy)
 ![](https://cdn.hackernoon.com/images/90mS17sBsoQ9KSmAro1V3bR8PoE3-zu5e3wl4.png)
 A Content Delivery Network (CDN) helps you deliver your content more quickly. Read more on how you can achieve that. 
-
-### [195. 127 Stories To Learn About Wordpress](https://hackernoon.com/127-stories-to-learn-about-wordpress)
-![](https://cdn.hackernoon.com/images/github/wordpress-106.png)
-Learn everything you need to know about Wordpress via these 127 free HackerNoon stories.
 
 ### [196. Migrating My Blog from WordPress to GitHub Pages: Lessons Learned](https://hackernoon.com/migrating-my-blog-from-wordpress-to-github-pages-lessons-learned)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ao82qhu.png)
@@ -807,69 +809,69 @@ Welcome to the first 10 days of the ultimate frontend challenge with me. This ar
 ![](https://cdn.hackernoon.com/images/GRZpzqpoJyMvFZW6lPH4PI3T5HB2-aue3pzj.jpeg)
 Here is a brief guide to getting started with coding and building your website online.
 
-### [199. How-to: Website Benchmarks](https://hackernoon.com/how-to-website-benchmarks-mcw3tmy)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ff6lBzD8nNgeP5MZi6sTqaNu9Qh73-ws1x3uej.jpeg?alt=media&token=cea5e64f-99bd-4638-ad22-e1b73cc9e5f7)
-Time to first byte, first contentful paint, DNS response time, round-trip time, and the list goes on and on. With all of these metrics, how are you supposed to know which are the most important ones that you should monitor?
-
-### [200. Noonies Interview: Meet Juni Nguyen, a Self-taught Web Developer](https://hackernoon.com/noonies-interview-meet-juni-nguyen-a-self-taught-web-developer)
+### [199. Noonies Interview: Meet Juni Nguyen, a Self-taught Web Developer](https://hackernoon.com/noonies-interview-meet-juni-nguyen-a-self-taught-web-developer)
 ![](https://cdn.hackernoon.com/images/HLsUedb7H2OG9SNmac9r2Md0Q773-6z037wd.jpeg)
 2021 Noonies Nominee General Interview with Juni Nguyen.
+
+### [200. How-to: Website Benchmarks](https://hackernoon.com/how-to-website-benchmarks-mcw3tmy)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ff6lBzD8nNgeP5MZi6sTqaNu9Qh73-ws1x3uej.jpeg?alt=media&token=cea5e64f-99bd-4638-ad22-e1b73cc9e5f7)
+Time to first byte, first contentful paint, DNS response time, round-trip time, and the list goes on and on. With all of these metrics, how are you supposed to know which are the most important ones that you should monitor?
 
 ### [201. Most Common Tech Issues to Plague a News Publishing Website — and How to Fix Them](https://hackernoon.com/most-common-tech-issues-that-can-plague-a-news-publishing-website-and-how-to-fix-them-33ae26b7f494)
 ![](https://cdn.hackernoon.com/drafts/gt1v3z51.png)
 Recently, I helped fix many of the technical issues on No Majesty, an independent UK-based news website. As a relatively new platform, it’s had its fair share of technical hiccups.
 
-### [202. How WP-CLI Works: The Command Line Interface For WordPress](https://hackernoon.com/how-wp-cli-works-the-command-line-interface-for-wordpress-pn2f3787)
-![](https://cdn.hackernoon.com/images/cA8035CSgxVfNPLowwjr6nbVDN02-0x6x35bq.jpeg)
-In this article, I'll introduce WordPress CLI  and show how it helps in making management as well as the development of WordPress sites super easier.
-
-### [203. How to Develop Websites Faster and with Maximum Flexibility](https://hackernoon.com/how-to-develop-websites-faster-and-with-maximum-flexibility)
+### [202. How to Develop Websites Faster and with Maximum Flexibility](https://hackernoon.com/how-to-develop-websites-faster-and-with-maximum-flexibility)
 ![](https://cdn.hackernoon.com/images/nUdxNW2ApOgwpvbugwSlcyZSozh2-j36035iw.jpeg)
 Develop websites and e-commerce faster helps you to increase your productivity getting more things done during the day improving your job.
 
-### [204. Next.js Sitemap Generator Script](https://hackernoon.com/nextjs-sitemap-generator-script)
+### [203. A Guide on How to Embed YouTube Videos Responsively](https://hackernoon.com/a-guide-on-how-to-embed-youtube-videos-responsively)
+![](https://cdn.hackernoon.com/images/NaU3BOE6YnOtNpCIV9kfvX1BqL03-i0b3nk4.jpeg)
+Embed YouTube videos into personal sites with a responsive container that plays nice in flex and grid layouts.
+
+### [204. How WP-CLI Works: The Command Line Interface For WordPress](https://hackernoon.com/how-wp-cli-works-the-command-line-interface-for-wordpress-pn2f3787)
+![](https://cdn.hackernoon.com/images/cA8035CSgxVfNPLowwjr6nbVDN02-0x6x35bq.jpeg)
+In this article, I'll introduce WordPress CLI  and show how it helps in making management as well as the development of WordPress sites super easier.
+
+### [205. Save time by Generating Sitemaps Dynamically in NextJS](https://hackernoon.com/save-time-by-generating-dynamic-sitemaps-in-nextjs)
+![](https://cdn.hackernoon.com/images/aaX2FiR6zKUYHarKyrMCP8EjNpr1-cj93i6b.jpeg)
+generate sitemap for next.js under 1 minute
+
+### [206. Next.js Sitemap Generator Script](https://hackernoon.com/nextjs-sitemap-generator-script)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-g082mh1.jpeg)
 Learn how to create your own sitemap generator script for a static Next.js website.
-
-### [205. My Little Journey Constructing LOTUS Website!](https://hackernoon.com/my-little-journey-constructing-lotus-website)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-uo833r7.png)
-The idea for this project emerged from a wide range of scattered pieces of art in our minds, inspired by the great attention to both art and culture.
-
-### [206. Why You Don’t Want to Pay Your Web Developer for Updating your Website](https://hackernoon.com/why-you-dont-want-to-pay-your-web-developer-for-updating-your-website-1w3w3ynu)
-![](https://cdn.hackernoon.com/drafts/w05d3yys.png)
-Most companies prefer to update their own websites using built-in Content Management Systems. However, once in a while, we meet customers who are resilient to this idea and prefer a web developer handling it for them. 
 
 ### [207. Step by Step Guide to Truncating Text in CSS Text](https://hackernoon.com/step-by-step-guide-to-truncating-text-in-css-text)
 ![](https://cdn.hackernoon.com/images/truncating-text-clh0btvhi000001s64s3rfohb.png)
 Learn how to truncate text with CSS, truncate multiple lines and CSS truncate text with ellipsis.
 
-### [208. Uderstanding the Basic Structure of a Website ](https://hackernoon.com/uderstanding-the-basic-structure-of-a-website)
-![](https://cdn.hackernoon.com/images/xY2W6etJxjQsHNcq80kJr9RvKmg1-10h352n.jpeg)
-Webpages can and do look pretty different from one another, but they all tend to share similar standard components.
+### [208. My Little Journey Constructing LOTUS Website!](https://hackernoon.com/my-little-journey-constructing-lotus-website)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-uo833r7.png)
+The idea for this project emerged from a wide range of scattered pieces of art in our minds, inspired by the great attention to both art and culture.
 
-### [209. Best Front-End Settings To Create a PWA [QCObjects Edition]](https://hackernoon.com/best-front-end-settings-to-create-a-pwa-qcobjects-edition-ci2335us)
-![](https://hackernoon.com/images/d3qk0hxJgjhef6b7702LeYwLmbA3-3r4a3ffa.jpeg)
-Here are some recommended settings for a good result doing your first steps creating a PWA using QCObjects:
+### [209. Why You Don’t Want to Pay Your Web Developer for Updating your Website](https://hackernoon.com/why-you-dont-want-to-pay-your-web-developer-for-updating-your-website-1w3w3ynu)
+![](https://cdn.hackernoon.com/drafts/w05d3yys.png)
+Most companies prefer to update their own websites using built-in Content Management Systems. However, once in a while, we meet customers who are resilient to this idea and prefer a web developer handling it for them. 
 
-### [210. A Guide on How to Embed YouTube Videos Responsively](https://hackernoon.com/a-guide-on-how-to-embed-youtube-videos-responsively)
-![](https://cdn.hackernoon.com/images/NaU3BOE6YnOtNpCIV9kfvX1BqL03-i0b3nk4.jpeg)
-Embed YouTube videos into personal sites with a responsive container that plays nice in flex and grid layouts.
-
-### [211. Services That Will Help You Run A Website](https://hackernoon.com/mobile-apps-that-will-help-you-run-a-website-from-the-ground-up-9xy321a)
+### [210. Services That Will Help You Run A Website](https://hackernoon.com/mobile-apps-that-will-help-you-run-a-website-from-the-ground-up-9xy321a)
 ![](https://cdn.hackernoon.com/drafts/z53r32u3.png)
 The idea to create a website came to me in the economics university. I used to make a living as a freelance tech expert and dreamed of monetizing my writings with more profit. A website with mobile app reviews appeared to be the best solution. It matched both my mobile-nerd interests and the rapidly growing market demand.
 
-### [212. Save time by Generating Sitemaps Dynamically in NextJS](https://hackernoon.com/save-time-by-generating-dynamic-sitemaps-in-nextjs)
-![](https://cdn.hackernoon.com/images/aaX2FiR6zKUYHarKyrMCP8EjNpr1-cj93i6b.jpeg)
-generate sitemap for next.js under 1 minute
+### [211. Uderstanding the Basic Structure of a Website ](https://hackernoon.com/uderstanding-the-basic-structure-of-a-website)
+![](https://cdn.hackernoon.com/images/xY2W6etJxjQsHNcq80kJr9RvKmg1-10h352n.jpeg)
+Webpages can and do look pretty different from one another, but they all tend to share similar standard components.
 
-### [213. The Clone Wars of HTML/CSS](https://hackernoon.com/the-clone-wars-of-htmlcss-y4ap360j)
-![](https://cdn.hackernoon.com/drafts/x73r36y0.png)
-Honestly, it is quite common to see people push hard and push through just to move on.  But at what cost? I mean one thing is to be too hung up on reading everything that MDN has to offer (the countless and countless pages of documentation) yet another thing is to mindlessly type things until they semi work. 
+### [212. Best Front-End Settings To Create a PWA [QCObjects Edition]](https://hackernoon.com/best-front-end-settings-to-create-a-pwa-qcobjects-edition-ci2335us)
+![](https://hackernoon.com/images/d3qk0hxJgjhef6b7702LeYwLmbA3-3r4a3ffa.jpeg)
+Here are some recommended settings for a good result doing your first steps creating a PWA using QCObjects:
 
-### [214. The Noonification: Pythons Testing Playbook: Building Bulletproof Code (1/21/2024)](https://hackernoon.com/1-21-2024-noonification)
+### [213. The Noonification: Pythons Testing Playbook: Building Bulletproof Code (1/21/2024)](https://hackernoon.com/1-21-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_565_l315bwdhegcqa3vddk8xyb67.png)
 1/21/2024: Top 5 stories on the HackerNoon homepage!
+
+### [214. The Clone Wars of HTML/CSS](https://hackernoon.com/the-clone-wars-of-htmlcss-y4ap360j)
+![](https://cdn.hackernoon.com/drafts/x73r36y0.png)
+Honestly, it is quite common to see people push hard and push through just to move on.  But at what cost? I mean one thing is to be too hung up on reading everything that MDN has to offer (the countless and countless pages of documentation) yet another thing is to mindlessly type things until they semi work. 
 
 ### [215. 10 Design Tips For E-commerce Sites](https://hackernoon.com/10-design-tips-for-e-commerce-sites-n04c378u)
 ![](https://cdn.hackernoon.com/images/qq7e37i3.jpg)
@@ -879,82 +881,82 @@ Using up-to-date technologies people are able to buy goods and pay for services 
 ![](https://cdn.hackernoon.com/drafts/ob9f32zl.png)
 In the wave of a recent Supreme Court judgment, we take a look at how companies can prevent ADA website accessibility lawsuits. From catching them unawares and potentially even bringing them down as a result of it. Here's everything you need to know about making your website ADA compliant.
 
-### [217. How WordPress Helps you Make Great Websites in 2020](https://hackernoon.com/wordpress-makes-great-websites-2020-jx2j3wa5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fd5BLV0isRiYi2FhvJz3S8Qx8yQH2-qlf3u0t.webp?alt=media&token=507f6db7-dfd5-46bb-9bc7-798c27799c9c)
-Many sites are powered by a CMS (Content Management System) called WordPress. WordPress is an Open Source Software that offers free use of the product. 
-
-### [218. 5 Web Design Tips for Beginners](https://hackernoon.com/5-web-design-tips-for-beginners)
-![](https://cdn.hackernoon.com/images/hX1yfsZiaJTx5abi3rNIMJIWvK72-6e03cmq.jpeg)
-Here is a list of 5 things you didn't know you didn't know about designing a website.
-
-### [219. How Much Does Website Design Cost in 2022?](https://hackernoon.com/how-much-does-website-design-cost-in-2022)
-![](https://cdn.hackernoon.com/images/PujiaIP8UUNyXsP2LNtL8HnEm0r1-sb93hen.png)
-Website design costs are something you need to know before you start designing your website
-
-### [220. How to Choose the Best WordPress Plugin for Your Website ](https://hackernoon.com/how-to-choose-the-best-wordpress-plugin-for-your-website)
+### [217. How to Choose the Best WordPress Plugin for Your Website ](https://hackernoon.com/how-to-choose-the-best-wordpress-plugin-for-your-website)
 ![](https://cdn.hackernoon.com/images/ouLvoLEOrQYlQyfdFuIarFCvCIu1-9w83x9b.jpeg)
 A comprehensive guide to leveraging the power of wordPress plugins. How to find the best WordPress plugin for your needs. 
 
-### [221. WordPress vs Bootstrap: Choosing a Web Design Platform for Your Business](https://hackernoon.com/wordpress-vs-bootstrap-choosing-a-web-design-platform-for-your-business)
-![](https://cdn.hackernoon.com/images/uUFbIVsrWFVlMQDKnyE5UDXL77W2-tj93j0m.jpeg)
-In this article, we will speak about two competing web design platforms that are extremely popular in the current market: WordPress and Bootstrap.
-
-### [222. Reasons Why CSS Grids Are Ideal for Enhancing Responsiveness ](https://hackernoon.com/reasons-why-css-grids-are-ideal-for-enhancing-responsiveness-ry1o36wr)
-![](https://cdn.hackernoon.com/drafts/e71k31al.png)
-When asked about their favorite layout system, front-end devs often discards "CSS grids" and consider it as non-effective since it achieves the same goals of other systems with many more code lines. Especially if responsiveness is required. I've been using css grids for a long time (it's my favorite) and I learned about a case where it's better to opt for css grids rather than other layout systems. 
-
-### [223. A Quick Introduction to Jamstack ](https://hackernoon.com/a-quick-introduction-to-jamstack-jl4l35hj)
-![](https://cdn.hackernoon.com/images/L2ZzoLGpt8d6cP7hjSEpZluSjt72-za9m35rr.jpeg)
-This approach is not a framework but is actually an architectural guideline using many of the tools and skills developers were already familiar with.
-
-### [224. How To Use The Enhanced Search Feature To Drive Higher eCommerce Conversions ](https://hackernoon.com/how-to-use-the-enhanced-search-feature-to-drive-higher-ecommerce-conversions-825333mx)
+### [218. How To Use The Enhanced Search Feature To Drive Higher eCommerce Conversions ](https://hackernoon.com/how-to-use-the-enhanced-search-feature-to-drive-higher-ecommerce-conversions-825333mx)
 ![](https://cdn.hackernoon.com/images/y46WIJa1bDbnlrXQ2UKo462rrDn1-jxq328l.jpeg)
 In this article, I discuss keys techniques to building enhanced search functionality into your website. This includes designing the search bar and more.
 
-### [225. Specifying a Node Version in Netlify Builds](https://hackernoon.com/specifying-a-node-version-in-netlify-builds)
-![](https://cdn.hackernoon.com/images/software-nodes-clgc9xgpr000001s62s4dh2lw.png)
-Often, I need to 'tell' Netlify the Node version for my sites, and often I can't find the correct docs for this. Here's a potential solution, if you can relate.
+### [219. How WordPress Helps you Make Great Websites in 2020](https://hackernoon.com/wordpress-makes-great-websites-2020-jx2j3wa5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fd5BLV0isRiYi2FhvJz3S8Qx8yQH2-qlf3u0t.webp?alt=media&token=507f6db7-dfd5-46bb-9bc7-798c27799c9c)
+Many sites are powered by a CMS (Content Management System) called WordPress. WordPress is an Open Source Software that offers free use of the product. 
 
-### [226. 6 Reasons Why A New Web Design Is Important For Your Company](https://hackernoon.com/6-reasons-why-a-new-web-design-is-important-for-your-company-591i327i)
-![](https://cdn.hackernoon.com/images/0A8DBQaWAYQhDl7pZ77CixaYeB83-7n2t3542.png)
-Your website plays a critical role in customer acquisition and improves overall sales and revenue. However, understanding this significance and realizing the be
+### [220. 5 Web Design Tips for Beginners](https://hackernoon.com/5-web-design-tips-for-beginners)
+![](https://cdn.hackernoon.com/images/hX1yfsZiaJTx5abi3rNIMJIWvK72-6e03cmq.jpeg)
+Here is a list of 5 things you didn't know you didn't know about designing a website.
 
-### [227. A Closer Look at the Web Accessibility Initiative](https://hackernoon.com/a-closer-look-at-the-web-accessibility-initiative)
-![](https://cdn.hackernoon.com/images/usLqJmqUA2b5joa695sCkWq4hKD3-ha93yok.jpeg)
-Discover the significance of the Web Accessibility Initiative (WAI) in creating an inclusive online space for all users.
+### [221. How Much Does Website Design Cost in 2022?](https://hackernoon.com/how-much-does-website-design-cost-in-2022)
+![](https://cdn.hackernoon.com/images/PujiaIP8UUNyXsP2LNtL8HnEm0r1-sb93hen.png)
+Website design costs are something you need to know before you start designing your website
 
-### [228. The Best Practice for Container Queries: Place Them in a Parent Element](https://hackernoon.com/the-best-practice-for-container-queries-place-them-in-a-parent-element)
-![](https://cdn.hackernoon.com/images/TrD4DzyJu6g677bJSu6xzJ3TxA12-kub3r3v.png)
-There's only one best practice that I would recommend when using container queries — that's to place the container in a parent element. 
+### [222. WordPress vs Bootstrap: Choosing a Web Design Platform for Your Business](https://hackernoon.com/wordpress-vs-bootstrap-choosing-a-web-design-platform-for-your-business)
+![](https://cdn.hackernoon.com/images/uUFbIVsrWFVlMQDKnyE5UDXL77W2-tj93j0m.jpeg)
+In this article, we will speak about two competing web design platforms that are extremely popular in the current market: WordPress and Bootstrap.
 
-### [229. 3 Open-Source Web Development Platforms to Consider for Your Next Build](https://hackernoon.com/3-open-source-web-development-platforms-to-consider-for-your-next-build)
-![](https://cdn.hackernoon.com/images/MkGC8J9c4bV1949Wablv3h1PC7i2-ne02o8w.jpeg)
-If you're looking to create a website for your business, blog, or online portfolio, the easiest option is to use an open-source platform to make your website.
-
-### [230. Why Healthcare Facilities Need Professional Websites](https://hackernoon.com/why-healthcare-facilities-need-professional-websites-211u31zs)
-![](https://cdn.hackernoon.com/images/RsfXB70CMDWwVAfR1MayyBOwkHP2-ji3331f3.jpeg)
-Medical centers, hospitals, dental care facilities, and specialists in private practice need a professional website. Learn why. 
-
-### [231. A Wild Ride Through Low-Code Development Platforms: Speed, Thrills, and Spills](https://hackernoon.com/a-wild-ride-through-low-code-development-platforms-speed-thrills-and-spills)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-cd92gpb.jpeg)
-Embark on a thrilling journey through Low-Code Development Platforms, experiencing the speed, thrills, and spills along the way.
-
-### [232. Creating and Debugging Website Routers ](https://hackernoon.com/creating-and-debugging-website-routers-hh1g34aj)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-411a34be.jpeg)
-Creating a router allows you to take complete control when handling certain incoming requests to your site.
-
-### [233. Properties and Events Velo Panel Puzzled Out: Find Answers to Your Questions](https://hackernoon.com/properties-and-events-velo-panel-puzzled-out-find-answers-to-your-questions-z01z335u)
+### [223. Properties and Events Velo Panel Puzzled Out: Find Answers to Your Questions](https://hackernoon.com/properties-and-events-velo-panel-puzzled-out-find-answers-to-your-questions-z01z335u)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-sai33gi.jpeg)
 The Properties and Events panel lets you work with the elements on your 
 site with Velo. You can use Velo with all the elements on your site.
 
-### [234. eCommerce Platform Review: What is WooCommerce?](https://hackernoon.com/ecommerce-platform-review-what-is-woocommerce)
-![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-2s93kr5.jpeg)
-What is WooCommerce? It's a plugin built upon the WordPress platform that allows you to create a web store.
+### [224. A Quick Introduction to Jamstack ](https://hackernoon.com/a-quick-introduction-to-jamstack-jl4l35hj)
+![](https://cdn.hackernoon.com/images/L2ZzoLGpt8d6cP7hjSEpZluSjt72-za9m35rr.jpeg)
+This approach is not a framework but is actually an architectural guideline using many of the tools and skills developers were already familiar with.
 
-### [235. 5 Web Design Mistakes to Watch out for in 2022](https://hackernoon.com/5-web-design-mistakes-to-watch-out-for-in-2022)
+### [225. Reasons Why CSS Grids Are Ideal for Enhancing Responsiveness ](https://hackernoon.com/reasons-why-css-grids-are-ideal-for-enhancing-responsiveness-ry1o36wr)
+![](https://cdn.hackernoon.com/drafts/e71k31al.png)
+When asked about their favorite layout system, front-end devs often discards "CSS grids" and consider it as non-effective since it achieves the same goals of other systems with many more code lines. Especially if responsiveness is required. I've been using css grids for a long time (it's my favorite) and I learned about a case where it's better to opt for css grids rather than other layout systems. 
+
+### [226. The Best Practice for Container Queries: Place Them in a Parent Element](https://hackernoon.com/the-best-practice-for-container-queries-place-them-in-a-parent-element)
+![](https://cdn.hackernoon.com/images/TrD4DzyJu6g677bJSu6xzJ3TxA12-kub3r3v.png)
+There's only one best practice that I would recommend when using container queries — that's to place the container in a parent element. 
+
+### [227. Specifying a Node Version in Netlify Builds](https://hackernoon.com/specifying-a-node-version-in-netlify-builds)
+![](https://cdn.hackernoon.com/images/software-nodes-clgc9xgpr000001s62s4dh2lw.png)
+Often, I need to 'tell' Netlify the Node version for my sites, and often I can't find the correct docs for this. Here's a potential solution, if you can relate.
+
+### [228. 3 Open-Source Web Development Platforms to Consider for Your Next Build](https://hackernoon.com/3-open-source-web-development-platforms-to-consider-for-your-next-build)
+![](https://cdn.hackernoon.com/images/MkGC8J9c4bV1949Wablv3h1PC7i2-ne02o8w.jpeg)
+If you're looking to create a website for your business, blog, or online portfolio, the easiest option is to use an open-source platform to make your website.
+
+### [229. Creating and Debugging Website Routers ](https://hackernoon.com/creating-and-debugging-website-routers-hh1g34aj)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-411a34be.jpeg)
+Creating a router allows you to take complete control when handling certain incoming requests to your site.
+
+### [230. A Wild Ride Through Low-Code Development Platforms: Speed, Thrills, and Spills](https://hackernoon.com/a-wild-ride-through-low-code-development-platforms-speed-thrills-and-spills)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-cd92gpb.jpeg)
+Embark on a thrilling journey through Low-Code Development Platforms, experiencing the speed, thrills, and spills along the way.
+
+### [231. 6 Reasons Why A New Web Design Is Important For Your Company](https://hackernoon.com/6-reasons-why-a-new-web-design-is-important-for-your-company-591i327i)
+![](https://cdn.hackernoon.com/images/0A8DBQaWAYQhDl7pZ77CixaYeB83-7n2t3542.png)
+Your website plays a critical role in customer acquisition and improves overall sales and revenue. However, understanding this significance and realizing the be
+
+### [232. A Closer Look at the Web Accessibility Initiative](https://hackernoon.com/a-closer-look-at-the-web-accessibility-initiative)
+![](https://cdn.hackernoon.com/images/usLqJmqUA2b5joa695sCkWq4hKD3-ha93yok.jpeg)
+Discover the significance of the Web Accessibility Initiative (WAI) in creating an inclusive online space for all users.
+
+### [233. Why Healthcare Facilities Need Professional Websites](https://hackernoon.com/why-healthcare-facilities-need-professional-websites-211u31zs)
+![](https://cdn.hackernoon.com/images/RsfXB70CMDWwVAfR1MayyBOwkHP2-ji3331f3.jpeg)
+Medical centers, hospitals, dental care facilities, and specialists in private practice need a professional website. Learn why. 
+
+### [234. 5 Web Design Mistakes to Watch out for in 2022](https://hackernoon.com/5-web-design-mistakes-to-watch-out-for-in-2022)
 ![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-n10371s.jpeg)
  If you're a growing brand, the last thing you would want to be guilty of is web design mistakes. So check out these 5 web design mistakes to avoid in 2022.
+
+### [235. eCommerce Platform Review: What is WooCommerce?](https://hackernoon.com/ecommerce-platform-review-what-is-woocommerce)
+![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-2s93kr5.jpeg)
+What is WooCommerce? It's a plugin built upon the WordPress platform that allows you to create a web store.
 
 ### [236. Understanding Your Customer Journey Map For Better Website Performance](https://hackernoon.com/understanding-your-customer-journey-map-for-better-website-performance-yl2b33t8)
 ![](https://hackernoon.com/images/NpaehOQoGBPqOE9e9tWoQNotegK2-3m3e33wq.jpeg)
@@ -969,25 +971,25 @@ Yes, there are differences between websites and web apps – some subtle, others
 When I started in web development, the box model was one of the first concepts that really helped me understand what was going on. 
 
 
-### [239. Is it worth it to pay for a premium CDN?](https://hackernoon.com/is-it-worth-it-to-pay-for-a-premium-cdn)
-![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-6u2v35dp.jpeg)
-Short answer: Absolutely! Premium CDNs are easily 3 times faster. It doesn't usually cost that much, unless you run a very high traffic site. 
+### [239. 5 Ways to Load Less Imagery to Increase Ranking and Client Happiness](https://hackernoon.com/5-ways-to-load-less-imagery-to-increase-ranking-and-client-happiness)
+![](https://cdn.hackernoon.com/images/PG9GJ9It2FOXrr2T8EAC6UYf0Vj1-b5e3euw.jpeg)
+Improve your ranking by both search engines and humans by not forcing the client to download unnecessary imagery.
 
 ### [240. Editing a Simple Contact Us Form Using the Velo Web Editor](https://hackernoon.com/editing-a-simple-contact-us-form-using-the-velo-web-editor-yjf334e)
 ![](https://cdn.hackernoon.com/images/oCyQIVJAJmc4P3Id6USm7G9OUZ53-plaj33av.jpeg)
 Creating a contact form with Velo is easy as pie! Wix’s website templates give an absolutely usable and extremely competent contact form.
 
-### [241. Effortlessly Transfer Your Website to a New Host in 6 Simple Steps](https://hackernoon.com/effortlessly-transfer-your-website-to-a-new-host-in-6-simple-steps)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-hs93p0x.jpeg)
-If you want to transfer your website to a new host, this how-to article outlines the step-by-step process for a smooth migration.
-
-### [242. 5 Ways to Load Less Imagery to Increase Ranking and Client Happiness](https://hackernoon.com/5-ways-to-load-less-imagery-to-increase-ranking-and-client-happiness)
-![](https://cdn.hackernoon.com/images/PG9GJ9It2FOXrr2T8EAC6UYf0Vj1-b5e3euw.jpeg)
-Improve your ranking by both search engines and humans by not forcing the client to download unnecessary imagery.
-
-### [243. How to Fix the VS Code Explorer for Content Projects](https://hackernoon.com/how-to-fix-the-vs-code-explorer-for-content-projects)
+### [241. How to Fix the VS Code Explorer for Content Projects](https://hackernoon.com/how-to-fix-the-vs-code-explorer-for-content-projects)
 ![](https://cdn.hackernoon.com/images/NaU3BOE6YnOtNpCIV9kfvX1BqL03-sq9371c.jpeg)
 Stop fighting the VS Code Explorer. Use mixed sort order for content projects.
+
+### [242. Is it worth it to pay for a premium CDN?](https://hackernoon.com/is-it-worth-it-to-pay-for-a-premium-cdn)
+![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-6u2v35dp.jpeg)
+Short answer: Absolutely! Premium CDNs are easily 3 times faster. It doesn't usually cost that much, unless you run a very high traffic site. 
+
+### [243. Effortlessly Transfer Your Website to a New Host in 6 Simple Steps](https://hackernoon.com/effortlessly-transfer-your-website-to-a-new-host-in-6-simple-steps)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-hs93p0x.jpeg)
+If you want to transfer your website to a new host, this how-to article outlines the step-by-step process for a smooth migration.
 
 ### [244. What Is a CDN and Why You Should Use One](https://hackernoon.com/what-is-a-cdn-and-why-you-should-use-one)
 ![](https://cdn.hackernoon.com/images/n8UosJbjvvYmugE00NPMEkPruFh1-reb3sts.jpeg)

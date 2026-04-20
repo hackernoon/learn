@@ -1,147 +1,151 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [operating-systems](https://hackernoon.com/tagged/operating-systems)
-### [1. The World Is Ready for a New Type of Operating System](https://hackernoon.com/the-world-is-ready-for-a-new-type-of-operating-system)
-![](https://cdn.hackernoon.com/images/Ah2jLzMePieEW0CzYzRXo6GsVyA3-k783xp6.jpeg)
-AI and the space industry point the way forward to rethink how we view operating systems. Can we free ourselves and redesign from the ground up?
+### Let's learn about [Operating Systems](https://hackernoon.com/tagged/operating-systems) via these 106 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
 
-### [2. Apple M1 Chip: How To Install Homebrew Using Rosetta](https://hackernoon.com/apple-m1-chip-how-to-install-homebrew-using-rosetta-su12331b)
+Operating systems (OS) are software that manage computer hardware and software resources, providing a foundation for running applications and interacting with devices. Essential for any computing system, an OS handles tasks like memory management, process scheduling, and file system operations.
+
+### [1. Apple M1 Chip: How To Install Homebrew Using Rosetta](https://hackernoon.com/apple-m1-chip-how-to-install-homebrew-using-rosetta-su12331b)
 ![](https://hackernoon.com/images/KECnMDPcEadsrWEAtYTrZtboGmW2-9a6p33gg.jpeg)
 Setup Homebrew In New Apple M1 Chip
 
-### [3. You Should Use Alpine Linux Instead of Ubuntu](https://hackernoon.com/you-should-use-alpine-linux-instead-of-ubuntu-yb193ujt)
+### [2. You Should Use Alpine Linux Instead of Ubuntu](https://hackernoon.com/you-should-use-alpine-linux-instead-of-ubuntu-yb193ujt)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FeCOwFf8MXSXFKFDoIrM9BtMlAJP2-1r8b3u8o.jpeg?alt=media&token=5179b4fe-eaa6-4412-87a8-634480061faa)
 Alpine linux is a linux distribution primarily made for the deploying application on linux distribution and is a rising competitor for the Ubuntu. Alpine Linux is designed for security, simplicity and resource effectivity. It is designed to run directly from RAM.
 
-### [4. Windows Sticky Keys Exploit: The War Veteran That Never Dies](https://hackernoon.com/-windows-sticky-keys-exploit-the-war-veteran-that-never-dies-its-very-likely-that-youve-heard-8ei2duh)
+### [3. Windows Sticky Keys Exploit: The War Veteran That Never Dies](https://hackernoon.com/-windows-sticky-keys-exploit-the-war-veteran-that-never-dies-its-very-likely-that-youve-heard-8ei2duh)
 ![](https://cdn.hackernoon.com/drafts/fe5k2djs.png)
 Did you ever hear of Sticky Keys Exploit? You probably did, since it has been known for ages. It was used as an exploit many times, fought in many windows versions, and it has never been killed. That’s why I’m calling it the “War Veteran”, although it never retired…
 
-### [5. Reboot: A New Operating System for Humanity ](https://hackernoon.com/reboot-a-new-operating-system-for-humanity-up303y8w)
+### [4. Reboot: A New Operating System for Humanity ](https://hackernoon.com/reboot-a-new-operating-system-for-humanity-up303y8w)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FdxhT2FBgyKZjrC5M2iX7S4zuCiC3-f2z3yoz.jpeg?alt=media&token=f3933e65-9c37-4684-9711-8c25c80bdce4)
 It's the end of the world as we know it, humanity is programmable and our operating system is getting a reboot. The question is when the system is back online what will be in its place?
 
-### [6. How To Setup Linux Terminal on Android](https://hackernoon.com/how-to-setup-linux-terminal-on-android-vou31f6)
+### [5. How To Setup Linux Terminal on Android](https://hackernoon.com/how-to-setup-linux-terminal-on-android-vou31f6)
 ![](https://cdn.hackernoon.com/images/pC8BuTLeTrRoIPBWisdjdPFrR6M2-k52b317r.jpeg)
 A terminal is a command line interface used to interact with computers. With MacOS, Linux and even sometimes windows, interacting with the terminal is a pretty common practice for developers. But, not so much with Android. 
 
-### [7. Linux Users and Permissions](https://hackernoon.com/linux-users-and-permissions)
+### [6. Linux Users and Permissions](https://hackernoon.com/linux-users-and-permissions)
 ![](https://cdn.hackernoon.com/images/a-door-requiring-biometric-verification-clixq6383000001s6gi8l4ig1.png)
 In Linux, file permissions are essential to security and determine who can access, modify, or execute files and directories.
 
-### [8. 5 Reasons We Use Open Source FreeBSD as Our Enterprise OS](https://hackernoon.com/5-reasons-we-use-open-source-freebsd-as-our-enterprise-os)
+### [7. 5 Reasons We Use Open Source FreeBSD as Our Enterprise OS](https://hackernoon.com/5-reasons-we-use-open-source-freebsd-as-our-enterprise-os)
 ![](https://cdn.hackernoon.com/images/a1djcrWUwra2U4vtR7uj8JHxoVD3-3v93rc0.jpeg)
 Curious about using the open source FreeBSD operating system in enterprise development environments? This article discusses what you should know.
 
-### [9. Finding the Right Development Tool and Platform for a Vehicle HMI ](https://hackernoon.com/finding-the-right-development-tool-and-platform-for-a-vehicle-hmi)
+### [8. Finding the Right Development Tool and Platform for a Vehicle HMI ](https://hackernoon.com/finding-the-right-development-tool-and-platform-for-a-vehicle-hmi)
 ![](https://cdn.hackernoon.com/images/YUdCgmu42Yh5CZla6sOxIAU6Juq1-y493pgq.jpeg)
 The key challenges and crossroads for selecting a platform and UI Development tool for an Automotive HMI system.
 
-### [10. Faster, Stronger, and 100% More Custom: A Grand Tour of Linux Kernels](https://hackernoon.com/faster-stronger-and-100percent-more-custom-a-grand-tour-of-specialized-linux-kernels)
+### [9. Faster, Stronger, and 100% More Custom: A Grand Tour of Linux Kernels](https://hackernoon.com/faster-stronger-and-100percent-more-custom-a-grand-tour-of-specialized-linux-kernels)
 ![](https://cdn.hackernoon.com/images/fLBpU5b6gad8W2kzAp0BnpycjhT2-sva379s.jpeg)
 Take a deep dive into the world of alternative Linux kernels that offer specialized performance, new features, and additional security.
 
-### [11. Leaving Linux for Mac After 15 Years](https://hackernoon.com/leaving-linux-for-mac-after-15-years-hbe627b1)
+### [10. Leaving Linux for Mac After 15 Years](https://hackernoon.com/leaving-linux-for-mac-after-15-years-hbe627b1)
 ![](https://cdn.hackernoon.com/drafts/7up32tw.png)
 I’m sorry Linux. It’s not me, it’s you. The “year of the Linux desktop” never came to fruition. It was always next year, year after, some year. Now, it’s almost a running joke.
 
-### [12. How to Install Ubuntu on M1 Macbooks Using UTM](https://hackernoon.com/how-to-install-ubuntu-on-m1-macbooks-using-utm)
+### [11. How to Install Ubuntu on M1 Macbooks Using UTM](https://hackernoon.com/how-to-install-ubuntu-on-m1-macbooks-using-utm)
 ![](https://cdn.hackernoon.com/images/dQivUEEj1RcFc2A4GiaE0hI9ypA3-jv93jao.jpeg)
 UTM is an amazing software that allows us to virtualise and emulate different OS's such as, different flavours of Linux, Windows, older version of mac OS etc on
 
-### [13. Install Deb-Multimedia Repositories on Debian and Kali Linux](https://hackernoon.com/install-deb-multimedia-repositories-on-debian-and-kali-linux-vy5o3y4q)
+### [12. Install Deb-Multimedia Repositories on Debian and Kali Linux](https://hackernoon.com/install-deb-multimedia-repositories-on-debian-and-kali-linux-vy5o3y4q)
 ![](https://cdn.hackernoon.com/images/r4423477.jpg)
 Install Deb-Multimedia Repositories on Debian and Kali Linux. In this tutorial I will share a little bit about how to install and use Deb-Multimedia repos in Debian distributions and their derivatives. 
 
-### [14. How to Arrange App Windows Using Mac Keyboard Shortcuts](https://hackernoon.com/how-to-arrange-app-windows-using-mac-keyboard-shortcuts)
+### [13. How to Arrange App Windows Using Mac Keyboard Shortcuts](https://hackernoon.com/how-to-arrange-app-windows-using-mac-keyboard-shortcuts)
 ![](https://cdn.hackernoon.com/images/NYsEt0jSD0Ttv4Gl8UDQGzu9Q9C3-abe3qrr.png)
 An Easier Way to organize application windows in macOS using keyboard shortcuts.
 
-### [15. How to Remove Background Sound in Real-Time for Linux](https://hackernoon.com/how-to-remove-background-sound-in-real-time-for-linux-uvea3w7n)
+### [14. How to Remove Background Sound in Real-Time for Linux](https://hackernoon.com/how-to-remove-background-sound-in-real-time-for-linux-uvea3w7n)
 ![](https://images.unsplash.com/photo-1535406208535-1429839cfd13?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 
 
-### [16. Running SerenityOS, a Love Letter to '90s User Interfaces](https://hackernoon.com/running-serenityos-a-love-letter-to-90s-user-interfaces)
+### [15. Running SerenityOS, a Love Letter to '90s User Interfaces](https://hackernoon.com/running-serenityos-a-love-letter-to-90s-user-interfaces)
 ![](https://cdn.hackernoon.com/images/KhFtC9YYgyQb0IquXuMbz7WYhPH2-26937di.jpeg)
 SerenityOS is a retro inspired operating system for the modern era. This post shows how I got it running on a Mac as well as my experiments with the project's b
 
-### [17. How to Recover Missing Photos On Windows 10](https://hackernoon.com/how-to-recover-missing-photos-on-windows-10)
+### [16. How to Recover Missing Photos On Windows 10](https://hackernoon.com/how-to-recover-missing-photos-on-windows-10)
 ![](https://cdn.hackernoon.com/images/BqqSPJhbbMQZCfzL1mspDZYHYii2-rm036l6.png)
 Lost photos on your Windows 10 system? This blog provide you best method to recover missing or permanently deleted photos from your windows 10 system.
 
-### [18. How Linux Became So Popular](https://hackernoon.com/how-linux-became-so-popular)
+### [17. How Linux Became So Popular](https://hackernoon.com/how-linux-became-so-popular)
 ![](https://cdn.hackernoon.com/images/2URpjmJLkjVeYGsWZeCo2hCb90Y2-vaa3qp8.jpeg)
 How Linux, which started as a hobby project, became a beast that no one in the tech industry could ignore. Not even Bill Gates.
 
-### [19. Can Windows Subsystem for Linux Be a Replacement for Dual-Boot](https://hackernoon.com/can-windows-subsystem-for-linux-replace-dual-boot-3kr32yw)
+### [18. Can Windows Subsystem for Linux Be a Replacement for Dual-Boot](https://hackernoon.com/can-windows-subsystem-for-linux-replace-dual-boot-3kr32yw)
 ![](https://cdn.hackernoon.com/images/0a1n3zkk.jpg)
 Are you one of that guy who just loves the three finger swipe in Windows and almost always ends up using windows for basic web surfing and media consumption? You have tried so hard to install touchegg which promised you the three finger gesture but still failed up anyway. These and many other small reasons have been one of the many reasons that I have been using a dual booted system (Windows & Ubuntu) for the past few years. 
 
-### [20. What happened After I Scanned 2.6 Million Domains for Exposed .DS_Store Files](https://hackernoon.com/what-happened-after-i-scanned-26-million-domains-for-exposed-ds_store-files)
+### [19. What happened After I Scanned 2.6 Million Domains for Exposed .DS_Store Files](https://hackernoon.com/what-happened-after-i-scanned-26-million-domains-for-exposed-ds_store-files)
 ![](https://cdn.hackernoon.com/images/yVDYqzHTcHRhsOezPV8xukpYVY42-rqa36hu.jpeg)
 
 
-### [21. 📚3 Must Read Books for Programmers from Non-traditional Background](https://hackernoon.com/3-must-read-books-for-programmers-from-non-traditional-background)
+### [20. 📚3 Must Read Books for Programmers from Non-traditional Background](https://hackernoon.com/3-must-read-books-for-programmers-from-non-traditional-background)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1292bml.jpeg)
 This article shares three classic books to help a programmer from non-traditional background to get a better understanding of computer system under the hood.
 
-### [22. 20,000 Leagues Under Your Shell](https://hackernoon.com/20000-leagues-under-your-shell)
+### [21. 20,000 Leagues Under Your Shell](https://hackernoon.com/20000-leagues-under-your-shell)
 ![](https://cdn.hackernoon.com/images/fLBpU5b6gad8W2kzAp0BnpycjhT2-57b37kg.jpeg)
 Ready to dig deep into your Linux filesystem? An exploratory look at some of the lesser-known features of /proc, /sys/, and /dev.
 
-### [23. A Complete Guide to Creating a Portable BSD ](https://hackernoon.com/a-complete-guide-to-creating-a-portable-bsd)
+### [22. A Complete Guide to Creating a Portable BSD ](https://hackernoon.com/a-complete-guide-to-creating-a-portable-bsd)
 ![](https://cdn.hackernoon.com/images/3C88ZQ52TgTvnwhy8oOm1sUC7cE3-1d722nt.jpeg)
 Learn how to create a portable operating system using nomadBSD.
 
-### [24. How Microsoft Tipped My Linux Love Over the 'Edge'](https://hackernoon.com/how-microsoft-tipped-my-linux-love-over-the-edge)
+### [23. How Microsoft Tipped My Linux Love Over the 'Edge'](https://hackernoon.com/how-microsoft-tipped-my-linux-love-over-the-edge)
 ![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-7e93n2i.jpeg)
 What a difference one browser made.
 
-### [25. Reflinks vs symlinks vs hard links, and  how they can help machine learning projects](https://hackernoon.com/reflinks-vs-symlinks-vs-hard-links-and-how-they-can-help-machine-learning-projects-wz2ej3xa7)
+### [24. Reflinks vs symlinks vs hard links, and  how they can help machine learning projects](https://hackernoon.com/reflinks-vs-symlinks-vs-hard-links-and-how-they-can-help-machine-learning-projects-wz2ej3xa7)
 ![](https://cdn.hackernoon.com/images/kt2dw3xti.jpg)
 Hard links and symbolic links have been available since time immemorial, and we use them all the time without even thinking about it. In machine learning projects they can help us, when setting up new experiments, to rearrange data files quickly and efficiently in machine learning projects. However, with traditional links, we run the risk of polluting the data files with erroneous edits. In this blog post we’ll go over the details of using links, some cool new stuff in modern file systems (reflinks), and an example of how DVC (Data Version Control, https://dvc.org/) leverages this.
 
-### [26. What is the Best Operating System and Programming Language for a Hacker?](https://hackernoon.com/what-is-the-best-operating-system-and-programming-language-for-a-hacker)
+### [25. What is the Best Operating System and Programming Language for a Hacker?](https://hackernoon.com/what-is-the-best-operating-system-and-programming-language-for-a-hacker)
 ![](https://cdn.hackernoon.com/images/qZcrbLtSQSf7IJIRPcILqD3qXYm1-5s93rk0.jpeg)
 It is the geeky thinker who uses an operating system along with programming and scripting languages to solve problems and automate tedious and monotonous tasks.
 
-### [27. How is Ubuntu a Distribution and Windows an Operating System?](https://hackernoon.com/how-is-ubuntu-a-distribution-and-windows-an-operating-system)
+### [26. How is Ubuntu a Distribution and Windows an Operating System?](https://hackernoon.com/how-is-ubuntu-a-distribution-and-windows-an-operating-system)
 ![](https://cdn.hackernoon.com/images/2URpjmJLkjVeYGsWZeCo2hCb90Y2-nc93qqq.jpeg)
 What is a Linux distribution? Why Linux has so many distributions? Why is Ubuntu called a Linux distribution and not an operating system?
 
-### [28. 5 Simple Ways To Get Rid Of High CPU Usage Troubles on Windows](https://hackernoon.com/5-simple-ways-to-get-rid-of-high-cpu-usage-troubles-on-windows-bk1x3wlm)
+### [27. 5 Simple Ways To Get Rid Of High CPU Usage Troubles on Windows](https://hackernoon.com/5-simple-ways-to-get-rid-of-high-cpu-usage-troubles-on-windows-bk1x3wlm)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-uoc3w9g.jpeg?alt=media&token=da507291-2b0e-4124-93e0-7e604e89cf69)
 Windows 10 operating system designed and built with tons of microtask to macro modules features, just imagine like an electron bombarded in an “Atom”. Alright, let’s get to the business cut the blah blah story.
 
-### [29. Making Apache Superset into a macOS App](https://hackernoon.com/making-apache-superset-into-a-macos-app)
+### [28. Making Apache Superset into a macOS App](https://hackernoon.com/making-apache-superset-into-a-macos-app)
 ![](https://cdn.hackernoon.com/images/58wa4kuNIJajM3BJZrfi08iGajl1-z8a3jyc.jpeg)
 Superset puts most heavy work onto the database side, I was thinking is there may be some possibility to have a Superset.app
+
+### [29. Why Linux is Better Than Windows](https://hackernoon.com/why-linux-is-better-than-windows)
+![](https://cdn.hackernoon.com/images/1arcjN8VoJS4q06DfxWeBnd3phi2-zm93onn.jpeg)
+Around Linux, myths have always wandered that it is a convenient OS exclusively for a narrow circle of people who understand code. 
 
 ### [30. POSIX: An Untold Story](https://hackernoon.com/untouched-posix-5k202dwk)
 ![](https://cdn.hackernoon.com/images/ok43367y.jpg)
 Tapping the keys while sitting in front of black terminal, traversing the huge logs and sipping from a cup of coffee.
 
-### [31. Why Linux is Better Than Windows](https://hackernoon.com/why-linux-is-better-than-windows)
-![](https://cdn.hackernoon.com/images/1arcjN8VoJS4q06DfxWeBnd3phi2-zm93onn.jpeg)
-Around Linux, myths have always wandered that it is a convenient OS exclusively for a narrow circle of people who understand code. 
-
-### [32. What Are the Advantages of Utilizing Cloud-Based Linux Systems?](https://hackernoon.com/what-are-the-advantages-of-utilizing-cloud-based-linux-systems)
+### [31. What Are the Advantages of Utilizing Cloud-Based Linux Systems?](https://hackernoon.com/what-are-the-advantages-of-utilizing-cloud-based-linux-systems)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-g093u0f.jpeg)
 These days, a lot of businesses are concentrating on integrating a cloud-based system into their IT infrastructure because they are more dependable, and strong.
 
-### [33. How Our Open Source OS Pivot Accelerated Product Innovation](https://hackernoon.com/how-our-open-source-os-pivot-accelerated-product-innovation)
+### [32. How Our Open Source OS Pivot Accelerated Product Innovation](https://hackernoon.com/how-our-open-source-os-pivot-accelerated-product-innovation)
 ![](https://cdn.hackernoon.com/images/WSS3Lf51QaVSyt6qWsoJdpD9GCJ3-tua329q.png)
 Learn how a strategic shift in using fully open source software projects altered product development strategy and innovation.
 
-### [34. An Introduction to Open-source Real-time Operating System](https://hackernoon.com/an-introduction-to-open-source-real-time-operating-system-776v3yvm)
+### [33. An Introduction to Open-source Real-time Operating System](https://hackernoon.com/an-introduction-to-open-source-real-time-operating-system-776v3yvm)
 ![](https://cdn.hackernoon.com/images/pl2yp3y8w.jpg)
 Alan Kay said: “Simple things should be simple, complex things should be possible”. This sentence was the inspiration for the founder of RT-Thread to stick to his beliefs. 
 
 Background:
 
-### [35. Windows Versus Linux: An Honest Review](https://hackernoon.com/windows-versus-linux-an-honest-review-hf2x34l9)
+### [34. Windows Versus Linux: An Honest Review](https://hackernoon.com/windows-versus-linux-an-honest-review-hf2x34l9)
 ![](https://cdn.hackernoon.com/images/xztVY4yCcPRLMSHxM6E11tysvDM2-q85q2930.jpeg)
 An honest view of Windows vs Linux: a comparison done by an experienced Linux enthusiast.
+
+### [35. Your AI Has Root Access to Your Life. You Just Don't Know It Yet.](https://hackernoon.com/your-ai-has-root-access-to-your-life-you-just-dont-know-it-yet)
+![](https://cdn.hackernoon.com/images/W2Qsf0ZRaWRPHA4s9ix8TLKSNdw2-7b83e1y.jpeg)
+The tools are getting smarter. The containers they run in haven't changed since 2015.
 
 ### [36. The EVER OS: A Brief Overview of An Operating System Built on Blockchain](https://hackernoon.com/the-ton-os-a-brief-overview-of-an-operating-system-built-on-blockchain-sh3v33ko)
 ![](https://cdn.hackernoon.com/images/dYS1YGEDJnYvNorgqqKV2VUHJ7e2-4v93ufo.png)
@@ -155,13 +159,13 @@ WHAT?
 ![](https://cdn.hackernoon.com/images/IO4GFBvpcnSTXBQ0L13dGLxq6Ep1-ur4p33nv.jpeg)
 A quick productivity tip to save you time by creating a keyboard macro for your email address.
 
-### [39. Deconstructing a Serverless Cloud OS](https://hackernoon.com/deconstructing-a-serverless-cloud-os-o31d3t3b)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzvtTc5L7wgXbe4oh196K0IuAXU43-5b3m3uqx.jpeg?alt=media&token=7b501c18-55ad-4266-b575-ce4b8c29cbb4)
-Responding to the Serverless Revolution
-
-### [40. How Android Permissions Mapped at Kernel's Level](https://hackernoon.com/how-android-permissions-mapped-at-kernels-level-22gx3ydb)
+### [39. How Android Permissions Mapped at Kernel's Level](https://hackernoon.com/how-android-permissions-mapped-at-kernels-level-22gx3ydb)
 ![](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Android, as we all know is based, on top of Linux. 
+
+### [40. Deconstructing a Serverless Cloud OS](https://hackernoon.com/deconstructing-a-serverless-cloud-os-o31d3t3b)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzvtTc5L7wgXbe4oh196K0IuAXU43-5b3m3uqx.jpeg?alt=media&token=7b501c18-55ad-4266-b575-ce4b8c29cbb4)
+Responding to the Serverless Revolution
 
 ### [41. 5 Open-source and Free Operating Systems to Donate via Kivach](https://hackernoon.com/5-open-source-and-free-operating-systems-to-donate-via-kivach)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-o3035z0.png)
@@ -177,22 +181,22 @@ RT-Thread Studio has the features of project creation and management, code editi
 ![](https://cdn.hackernoon.com/images/eUn59ClVtWU6R4iSzcVC45bTj4f1-9a134up.png)
 For months, headlines have fixated on Huawei's limitations in producing advanced 7nm chips, while Apple excels with its cutting-edge 3nm technology.
 
-### [44. 7 Reasons Why You Should Switch
+### [44. MacMan: Your Handbook to Transitioning From Windows to Mac as a Developer [Part 1]](https://hackernoon.com/macman-your-handbook-to-transitioning-from-windows-to-mac-as-a-developer-part-1)
+![](https://cdn.hackernoon.com/images/yfDPdhyYiaMllAGFiuXZSqbn5FA3-9j93mux.gif.webp)
+Enhance transitioning experience from Windows to Mac by reading this article. It includes tips and tricks along with tools which will make the transition easy.
+
+### [45. 7 Reasons Why You Should Switch
 To Linux](https://hackernoon.com/7-reasons-why-you-should-switch-to-linux-rp6f3wd6)
 ![](https://cdn.hackernoon.com/images/l9k83vr9.gif)
 Your current computer or laptop shows the same performance no longer? This is absolutely no reason to choose new hardware and invest money in buying a cut edge device. We know a much more attractive solution. It is Linux! 
 
-### [45. MacMan: Your Handbook to Transitioning From Windows to Mac as a Developer [Part 1]](https://hackernoon.com/macman-your-handbook-to-transitioning-from-windows-to-mac-as-a-developer-part-1)
-![](https://cdn.hackernoon.com/images/yfDPdhyYiaMllAGFiuXZSqbn5FA3-9j93mux.gif.webp)
-Enhance transitioning experience from Windows to Mac by reading this article. It includes tips and tricks along with tools which will make the transition easy.
-
-### [46. Seven UX Lessons from Apple's Big Sur Update](https://hackernoon.com/seven-ux-lessons-from-apples-big-sur-update-6d1y3zqq)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FB5kOTfUlZBgHHO0Tl4UH6x7O7j32-h6172851.png?alt=media&token=a770b219-b678-4894-9413-d0cb83fc6e71)
-The largest tech company in the world recently launched new software.
-
-### [47. Choosing the Right Linux Distro for You](https://hackernoon.com/choosing-the-right-linux-distro-for-you)
+### [46. Choosing the Right Linux Distro for You](https://hackernoon.com/choosing-the-right-linux-distro-for-you)
 ![](https://cdn.hackernoon.com/images/TjveOhbMJYfQjGWe1TaaIEfpH522-fn928u0.jpeg)
 How to choose the right Linux distribution for your personal computer.
+
+### [47. Seven UX Lessons from Apple's Big Sur Update](https://hackernoon.com/seven-ux-lessons-from-apples-big-sur-update-6d1y3zqq)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FB5kOTfUlZBgHHO0Tl4UH6x7O7j32-h6172851.png?alt=media&token=a770b219-b678-4894-9413-d0cb83fc6e71)
+The largest tech company in the world recently launched new software.
 
 ### [48. 13 Reasons Why I Have a Love Affair With Linux](https://hackernoon.com/13-reasons-why-i-have-a-love-affair-with-linux)
 ![](https://cdn.hackernoon.com/images/linux-cliq7v10i000001s64blr7e3c.png)
@@ -222,21 +226,21 @@ Are you bored of using Ubuntu too? Check out these awesome alternatives to chang
 ![](https://cdn.hackernoon.com/images/GX01rbM2IEM2hXtuMBTT3k8lCjO2-6l0343e.webp)
 Explore how a change mgmt. approach inspired by the Kotter’s 8-Step Model drove enterprise digital transformation through fostering mindset and behavior change
 
-### [55. Time Travel Through 2010s Technology: Part 1](https://hackernoon.com/time-travel-through-2010s-technology-part-1-eb193nug)
-![](https://cdn.hackernoon.com/drafts/yq3o3nuq.png)
-We are now close to the end of an important decade for technology, a decade that started without many of the innovations that today we consider part of the norm. Artificial intelligence at home, self-driving cars, wearable devices, supercomputers in our pockets… the 2010s not only changed the technology we use, but also how we communicate and think. Privacy has never been so critical as a selling point, and information bubbles have never been so polarizing. Today, we are at a turning point in the tech industry; it’s not clear what’s going to be the next revolutionary tech segment, or how companies are going to keep convincing customers to upgrade their various devices.
-
-### [56. The Noonification: Can Mankind Survive as an Interplanetary Species?  (10/20/2022)](https://hackernoon.com/10-20-2022-noonification)
+### [55. The Noonification: Can Mankind Survive as an Interplanetary Species?  (10/20/2022)](https://hackernoon.com/10-20-2022-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 10/20/2022: Top 5 stories on the Hackernoon homepage!
 
-### [57. The Anatomy of a Write Operation](https://hackernoon.com/the-anatomy-of-a-write-operation)
+### [56. The Anatomy of a Write Operation](https://hackernoon.com/the-anatomy-of-a-write-operation)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-fp022vd.jpeg)
 When file.write() returns, your data isn't on disk. Trace the 6-layer journey of a write operation from Python buffers to Linux kernel and SSD silicon.
 
-### [58. Creating Homebrew Formulas with GoReleaser](https://hackernoon.com/creating-homebrew-formulas-with-goreleaser)
+### [57. Creating Homebrew Formulas with GoReleaser](https://hackernoon.com/creating-homebrew-formulas-with-goreleaser)
 ![](https://cdn.hackernoon.com/images/ZAK6qVgISET2KN73L4JdrZwIPJp1-q993p8r.jpeg)
 We chose to use GoReleaser with our distro of the OpenTelemetry Collector in order to simplify how we build and support many operating systems and architectures
+
+### [58. Time Travel Through 2010s Technology: Part 1](https://hackernoon.com/time-travel-through-2010s-technology-part-1-eb193nug)
+![](https://cdn.hackernoon.com/drafts/yq3o3nuq.png)
+We are now close to the end of an important decade for technology, a decade that started without many of the innovations that today we consider part of the norm. Artificial intelligence at home, self-driving cars, wearable devices, supercomputers in our pockets… the 2010s not only changed the technology we use, but also how we communicate and think. Privacy has never been so critical as a selling point, and information bubbles have never been so polarizing. Today, we are at a turning point in the tech industry; it’s not clear what’s going to be the next revolutionary tech segment, or how companies are going to keep convincing customers to upgrade their various devices.
 
 ### [59. Android 12 Features, Supported Devices and Everything You Need to Know](https://hackernoon.com/android-12-features-supported-devices-and-everything-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-5q93pou.jpeg)
@@ -254,13 +258,13 @@ FacebookPhoneOS
 ![](https://cdn.hackernoon.com/images/6Uy7JQ8n4CNQTxkGnF5wqNasJDV2-th2p3em9.jpeg)
 The Nexus Operating System - A Bastion for the Internet of Things (IoT) & Beyond.
 
-### [63. Hannes Mehnert on MirageOS and OCaml](https://hackernoon.com/hannes-mehnert-on-mirageos-and-ocaml-naw3tmo)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOlBBYiAclpfCGPi4fQnz4uL5Xa53-gv393ua0.jpeg?alt=media&token=799669e0-bf1e-4829-86f8-29943fa94f5c)
-Our backend engineer, Pavel Argentov, traveled to Marrakech, Morocco to attend the ninth MirageOS retreat, which was held from March 13-19, 2020. The goal of the event is to bring both experienced and brand new MirageOS users together to collaborate and sync various MirageOS subprojects, start new ones, and help each other fix bugs.
-
-### [64. Computer Trojan Attacks: Nature, Development and Prevention](https://hackernoon.com/computer-trojan-attacks-nature-development-and-prevention)
+### [63. Computer Trojan Attacks: Nature, Development and Prevention](https://hackernoon.com/computer-trojan-attacks-nature-development-and-prevention)
 ![](https://cdn.hackernoon.com/images/cPav5sXiU5TWYzb4sHIZoNIMu0c2-is93qjw.jpeg)
 Trojans are nothing more than delivery tactics that cybercriminals employ to further execute any cybersecurity threats—ransomware attacks, spyware attacks etc.
+
+### [64. Hannes Mehnert on MirageOS and OCaml](https://hackernoon.com/hannes-mehnert-on-mirageos-and-ocaml-naw3tmo)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOlBBYiAclpfCGPi4fQnz4uL5Xa53-gv393ua0.jpeg?alt=media&token=799669e0-bf1e-4829-86f8-29943fa94f5c)
+Our backend engineer, Pavel Argentov, traveled to Marrakech, Morocco to attend the ninth MirageOS retreat, which was held from March 13-19, 2020. The goal of the event is to bring both experienced and brand new MirageOS users together to collaborate and sync various MirageOS subprojects, start new ones, and help each other fix bugs.
 
 ### [65. Simplifying the Linux Directory Structure [Part 1] ](https://hackernoon.com/simplifying-the-linux-directory-structure-part-1)
 ![](https://cdn.hackernoon.com/images/NF5eTsbgaMfLdwiUQEx95eJF7792-e892r84.jpeg)
@@ -278,13 +282,13 @@ Why should one use Linux these days? My brief but pleasant history with the late
 ![](https://cdn.hackernoon.com/images/illustrate-a-laptop-screen-displaying-the-microsoft-logo-jriumwtd32tu3pia3pbiwt83.png)
 United States Of America. v. Microsoft Corporation Court Filing by Thomas Penfield Jackson, November 5, 1999, is part of HackerNoon’s Legal PDF Series.
 
-### [69. Why More Developers Should Use Linux](https://hackernoon.com/why-more-developers-should-use-linux)
-![](https://cdn.hackernoon.com/images/INL4cGxrwnR0r7FDyWTj45Z5Oxy1-df92grl.jpeg)
-Linux, best OS for developers. Linux, Windows, Ubuntu, macOS, Powerful yet resource-friendly, free, open-source, Command-Line, distro and desktop environment
-
-### [70. The ABCs of Operating Systems ](https://hackernoon.com/the-abcs-of-operating-systems)
+### [69. The ABCs of Operating Systems ](https://hackernoon.com/the-abcs-of-operating-systems)
 ![](https://cdn.hackernoon.com/images/a-computer-taken-apart-by-a-technician-ui9gsmhfngtq851nednrhlx2.png)
 A cursory introduction to operating systems using the xv6 operating system as a practical example.
+
+### [70. Why More Developers Should Use Linux](https://hackernoon.com/why-more-developers-should-use-linux)
+![](https://cdn.hackernoon.com/images/INL4cGxrwnR0r7FDyWTj45Z5Oxy1-df92grl.jpeg)
+Linux, best OS for developers. Linux, Windows, Ubuntu, macOS, Powerful yet resource-friendly, free, open-source, Command-Line, distro and desktop environment
 
 ### [71. Why and How to Make the Migration from CentOS to Oracle Linux 7 in these Easy Steps](https://hackernoon.com/why-and-how-to-make-the-migration-from-centos-to-oracle-linux-7-in-these-easy-steps-bh4f33lx)
 ![](https://cdn.hackernoon.com/images/iNwiVRRdEKMIRhEtu3vEI8HPOg22-lg5u28d5.jpeg)
@@ -308,14 +312,14 @@ Stop with the rumbling, bro. What is Linux?
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-n4931ni.jpeg)
 An overview of the Linux distro
 
-### [76. 100 Days of Code: Death of Summer on the Island of NixOS](https://hackernoon.com/100-days-of-code-death-of-summer-on-the-island-of-nixos-gd1a3ws8)
+### [76. How to set up a Linux Virtual Machine with Virtual Box](https://hackernoon.com/how-to-set-up-a-linux-virtual-machine-with-virtual-box)
+![](https://cdn.hackernoon.com/images/linux-virtual-machine-clicxrijo000001s6ebht8u4w.png)
+A virtual machine is the software emulation of a physical computer that acts as a separate computer with its operating system (OS), CPU, and storage.
+
+### [77. 100 Days of Code: Death of Summer on the Island of NixOS](https://hackernoon.com/100-days-of-code-death-of-summer-on-the-island-of-nixos-gd1a3ws8)
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-za838i1.jpeg)
 We are a hundred days deep in the Lambda Quadrant part of the galaxy, resting on a deep space Moonad, myself and my crew, my parter and my 
 lovematch, our infant son, and a cat. We study the properties and relations of Haskell abstract entities, enjoying meditating the pure functional programming vibe. It is deep work and we take time and turns. We also watch the second season of Star Trek Discovery and enjoy seeing the bright stars of its universe.
-
-### [77. How to set up a Linux Virtual Machine with Virtual Box](https://hackernoon.com/how-to-set-up-a-linux-virtual-machine-with-virtual-box)
-![](https://cdn.hackernoon.com/images/linux-virtual-machine-clicxrijo000001s6ebht8u4w.png)
-A virtual machine is the software emulation of a physical computer that acts as a separate computer with its operating system (OS), CPU, and storage.
 
 ### [78. What is the Best Way to Test Your Mobile Application? ](https://hackernoon.com/what-is-the-best-way-to-test-your-mobile-application)
 ![](https://cdn.hackernoon.com/images/T0G0oYRxvlUUcpwKlFTCMsO7qYJ3-wva3i4r.jpeg)
@@ -360,17 +364,17 @@ Just because Windows 10 is the latest version of Microsoft doesn’t mean it’s
 ![](https://cdn.hackernoon.com/images/qLR2YtmNmXZaUJh49E7BWmlwn0t1-qva3khu.jpeg)
 A brief and practical overview of Linux philosophy.
 
-### [88. How to Keep Web Programming on an Old Computer](https://hackernoon.com/how-to-keep-web-programming-on-an-old-computer)
-![](https://cdn.hackernoon.com/images/old-computer-j05cw7u548ceex7qkai5uk0m.png)
-For many years, I was working on outdated machines, and I found a few tricks that allowed me to stay productive while doing web development.
+### [88. United States Of America v. Microsoft Corporation: The Time Uncle Sam Took Bill Gates to Court](https://hackernoon.com/united-states-of-america-v-microsoft-corporation-the-time-uncle-sam-took-bill-gates-to-court)
+![](https://cdn.hackernoon.com/images/uncle-sam-vs-bill-gates-hugqys7n9hbvhb0wo0gp5n24.png)
+United States Of America v. Microsoft Corporation Court Filing by Thomas Penfield Jackson is part of HackerNoon’s Legal PDF Series. This is the table of links.
 
 ### [89. The Revival of PasifikaOS - Digital Sovereignty Rises in the Pacific](https://hackernoon.com/the-revival-of-pasifikaos-digital-sovereignty-rises-in-the-pacific)
 ![](https://cdn.hackernoon.com/images/E4pYfD4L6vO8RC4YQzgPS6joiXL2-zf02and.png)
 Denmark and Germany are ditching Microsoft for Linux and LibreOffice, citing digital sovereignty—part of a broader European shift away from US tech dominance.
 
-### [90. United States Of America v. Microsoft Corporation: The Time Uncle Sam Took Bill Gates to Court](https://hackernoon.com/united-states-of-america-v-microsoft-corporation-the-time-uncle-sam-took-bill-gates-to-court)
-![](https://cdn.hackernoon.com/images/uncle-sam-vs-bill-gates-hugqys7n9hbvhb0wo0gp5n24.png)
-United States Of America v. Microsoft Corporation Court Filing by Thomas Penfield Jackson is part of HackerNoon’s Legal PDF Series. This is the table of links.
+### [90. How to Keep Web Programming on an Old Computer](https://hackernoon.com/how-to-keep-web-programming-on-an-old-computer)
+![](https://cdn.hackernoon.com/images/old-computer-j05cw7u548ceex7qkai5uk0m.png)
+For many years, I was working on outdated machines, and I found a few tricks that allowed me to stay productive while doing web development.
 
 ### [91. The Ways in Which AI has Changed the Way We Move, Work, Search and Buy ](https://hackernoon.com/the-ways-in-which-ai-has-changed-the-way-we-move-work-search-and-buy-ad5533lx)
 ![](https://cdn.hackernoon.com/images/q6Bi49pjxyXjrHxoaRaCpxlrHwt2-jk7t335u.jpeg)
@@ -396,22 +400,22 @@ Android is the most popular operating systems these days and especially when you
 ![](https://cdn.hackernoon.com/images/trying-to-stick-a-triangle-into-a-rectangular-hole-xfnl8p9uyr43by7y3uc3cn8v.png)
 United States Of America. v. Microsoft Corporation Court Filing by Thomas Penfield Jackson is part of HackerNoon’s Legal PDF Series. This is part 5 of 57.
 
-### [97. How Components Can Help to Speed Up the Development Process using the RTOS](https://hackernoon.com/how-components-can-help-to-speed-up-the-development-process-using-the-rtos-j026t3yvc)
+### [97. Comparing Threads, Processes, and Programs: Establishing Key Differences](https://hackernoon.com/comparing-threads-processes-and-programs-establishing-key-differences)
+![](https://cdn.hackernoon.com/images/EoVbI98oiigmAxrHs5vIf7ng6qF3-sx9360n.jpeg)
+This is an exciting interview question to check the fundamentals of an interviewee. People often need clarification on these three terms.
+
+### [98. How Components Can Help to Speed Up the Development Process using the RTOS](https://hackernoon.com/how-components-can-help-to-speed-up-the-development-process-using-the-rtos-j026t3yvc)
 ![](https://cdn.hackernoon.com/images/t1xp3y7o.jpg)
 Do you need components when you're working on a real-time operating system? The components such as FinSH console, virtual file system, utest framework, dynamic module, socket abstraction layer, AT commands, POSIX interface, Ulog log, power management, or network framework. If you have these demands, this article may be of interest. 
-
-### [98. How Strong Is Microsoft's Power Level?](https://hackernoon.com/how-strong-is-microsofts-power-level)
-![](https://cdn.hackernoon.com/images/super-saiyan-nep251wltm8lky9y6j57sxx5.png)
-United States Of America. v. Microsoft Corporation Court Filing by Thomas Penfield Jackson is part of HackerNoon’s Legal PDF Series. This is part 3 of 57.
 
 ### [99. Did Microsoft Violate the Sherman Act? Findings of Fact](https://hackernoon.com/did-microsoft-violate-the-sherman-act-findings-of-fact)
 ![](https://cdn.hackernoon.com/images/uncle-sam-using-a-magnifying-glass-macsle5rh24jichb9buoti3i.png)
 United States Of America v. Microsoft Corporation Court Filing by Thomas Penfield Jackson is part of HackerNoon’s Legal PDF Series. This is part 1 of 57.
 United
 
-### [100. Comparing Threads, Processes, and Programs: Establishing Key Differences](https://hackernoon.com/comparing-threads-processes-and-programs-establishing-key-differences)
-![](https://cdn.hackernoon.com/images/EoVbI98oiigmAxrHs5vIf7ng6qF3-sx9360n.jpeg)
-This is an exciting interview question to check the fundamentals of an interviewee. People often need clarification on these three terms.
+### [100. How Strong Is Microsoft's Power Level?](https://hackernoon.com/how-strong-is-microsofts-power-level)
+![](https://cdn.hackernoon.com/images/super-saiyan-nep251wltm8lky9y6j57sxx5.png)
+United States Of America. v. Microsoft Corporation Court Filing by Thomas Penfield Jackson is part of HackerNoon’s Legal PDF Series. This is part 3 of 57.
 
 ### [101. Proof of Applications Barrier to Entry: The Experiences of IBM and Apple](https://hackernoon.com/proof-of-applications-barrier-to-entry-the-experiences-of-ibm-and-apple)
 ![](https://cdn.hackernoon.com/images/steve-jobs-talking-h4owatr04msorfj16vye0yx0.png)

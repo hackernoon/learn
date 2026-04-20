@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [laravel](https://hackernoon.com/tagged/laravel)
+### Let's learn about [Laravel](https://hackernoon.com/tagged/laravel) via these 115 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Laravel is a popular open-source PHP web framework known for its elegant syntax and robust features, designed to simplify common web development tasks. It significantly accelerates the development of modern web applications, from small projects to large-scale enterprises.
+
 ### [1. How To Install Bash On Windows 10](https://hackernoon.com/how-to-install-bash-on-windows-10-lqb73yj3)
 ![](https://cdn.hackernoon.com/drafts/l1143y25.png)
 Microsoft recently joined hands with Canonical (the parent company of Ubuntu) to bring the entire userland into Windows, minus the Linux Kernel. So as a result, you, as a developer, get access to the whole range of Ubuntu command-line tools and utilities with bash shell integrated with Windows. Let’s look at how we can install Bash on Windows 10 and take full advantage of the new feature.
@@ -102,17 +106,17 @@ Optimize infinite scrolling in Laravel with step-by-step instructions for a seam
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-if93rl3.jpeg)
 Introducing Laravel Pennant - a package that enables you to manage access to new system features. 
 
-### [26. 7 Laravel Tips You Should Know](https://hackernoon.com/7-laravel-tips-you-should-know-o15y3yos)
+### [26. Building a Production-Ready Laravel Stack with Traefik and FrankenPHP](https://hackernoon.com/building-a-production-ready-laravel-stack-with-traefik-and-frankenphp)
+![](https://danielpetrica.com/content/images/2025/10/YouTube-Thumbnail---Production-Ready-Docker-Compose-for-Laravel.png)
+A practical guide to deploying a high-performance Laravel stack using Octane, FrankenPHP, and a fully automated Docker Compose workflow.
+
+### [27. 7 Laravel Tips You Should Know](https://hackernoon.com/7-laravel-tips-you-should-know-o15y3yos)
 ![](https://cdn.hackernoon.com/images/ee48j3ys3.jpg)
 Hello, my name is Adrian. After writing an article about 6 Eloquent Tricks Every Laravel Developer Should Know and receiving a better than expected feedback from the readers, I decided to show some more Laravel tips that are used at Weap.
 
-### [27. Using Components in Laravel: A Gentle Introduction](https://hackernoon.com/using-components-in-laravel-a-gentle-introduction)
+### [28. Using Components in Laravel: A Gentle Introduction](https://hackernoon.com/using-components-in-laravel-a-gentle-introduction)
 ![](https://cdn.hackernoon.com/images/nUzRDdHSAqQc7LgE4w8EKypXWpo2-1v236qm.jpeg)
 In recent Laravel projects that I have been working on, I noticed that I reuse a lot of UI components on the same project but also on other coding projects.
-
-### [28. Building a Production-Ready Laravel Stack with Traefik and FrankenPHP](https://hackernoon.com/building-a-production-ready-laravel-stack-with-traefik-and-frankenphp)
-![](https://danielpetrica.com/content/images/2025/10/YouTube-Thumbnail---Production-Ready-Docker-Compose-for-Laravel.png)
-A practical guide to deploying a high-performance Laravel stack using Octane, FrankenPHP, and a fully automated Docker Compose workflow.
 
 ### [29. 10 Use Cases for Using Laravel to Build Web App Development Projects](https://hackernoon.com/10-use-cases-for-using-laravel-to-build-web-app-development-projects)
 ![](https://cdn.hackernoon.com/images/qKVOBtTFXFU2EjOTR1XkAUSEM6v2-yg036qq.jpeg)
@@ -126,13 +130,13 @@ It’s no secret that PHP is sometimes considered a “low-barrier-to-entry” p
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-9s13ork.jpeg)
 Nowadays, the tools we use to browse the internet require us to follow security standards. Otherwise, they tend to flag our web applications/sites as insecure.
 
-### [32. How to Write Browser Tests Using Laravel Dusk ](https://hackernoon.com/how-to-write-browser-tests-using-laravel-dusk)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-on93snz.jpeg)
-An article about what features Laravel Dusk provides for browser-based testing
-
-### [33. Laravel PEST Test Solution - How to Fix the "A Facade Root Has Not Been Set" Problem](https://hackernoon.com/laravel-pest-test-solution-how-to-fix-the-a-facade-root-has-not-been-set-problem)
+### [32. Laravel PEST Test Solution - How to Fix the "A Facade Root Has Not Been Set" Problem](https://hackernoon.com/laravel-pest-test-solution-how-to-fix-the-a-facade-root-has-not-been-set-problem)
 ![](https://cdn.hackernoon.com/images/spraying-pesticide-gcj5vkbocrpqobhfivc1gya7.png)
 Laravel PEST Test Solution - A Facade Root Has Not Been Set
+
+### [33. How to Write Browser Tests Using Laravel Dusk ](https://hackernoon.com/how-to-write-browser-tests-using-laravel-dusk)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-on93snz.jpeg)
+An article about what features Laravel Dusk provides for browser-based testing
 
 ### [34. Make your Product Ready to Scale Using Laravel Queues](https://hackernoon.com/make-your-product-ready-to-scale-using-laravel-queues-dqa237if)
 ![](images/8q1jw38r2.jpg)
@@ -198,13 +202,13 @@ When we start building software, we can see many code's incompatibilities. This 
 ![](https://cdn.hackernoon.com/drafts/msdo30ss.png)
 Swoft is a PHP high performance microservice co-routine framework.
 
-### [50. 40 Must-Known Laravel Tools and Resources](https://hackernoon.com/40-must-known-laravel-tools-and-resources-3o5932le)
-![](https://cdn.hackernoon.com/drafts/k81wd32kl.png)
-Laravel learning resources
-
-### [51. How to Add React.js to Laravel](https://hackernoon.com/how-to-add-reactjs-to-laravel)
+### [50. How to Add React.js to Laravel](https://hackernoon.com/how-to-add-reactjs-to-laravel)
 ![](https://cdn.hackernoon.com/images/zWaijZTsEGUHlbiQytfM9O3ZypD2-6v93jux.jpeg)
 How to add ReactJS to your Laravel project
+
+### [51. 40 Must-Known Laravel Tools and Resources](https://hackernoon.com/40-must-known-laravel-tools-and-resources-3o5932le)
+![](https://cdn.hackernoon.com/drafts/k81wd32kl.png)
+Laravel learning resources
 
 ### [52. Scaling Laravel Applications with Octane](https://hackernoon.com/scaling-laravel-applications-with-octane)
 ![](https://cdn.hackernoon.com/images/JaOWfbn9TYeF1cTD8zpSny4j3kB2-oq92gbi.jpeg)
@@ -222,13 +226,13 @@ It’s 2025, and we've got some exciting trends to kick off the year, including 
 ![](https://cdn.hackernoon.com/images/RC0dvSHTbpYUDvzcg2wjcLpnDVB3-v8b3p9n.jpeg)
 PHP is highly popular, and needs no introduction. But, so are the frameworks, Laravel, and Symfony. This blog shares detailed insights on the two.
 
-### [56. An Introduction to Docker for Web Development](https://hackernoon.com/an-introduction-to-docker-for-web-development-8z3f3tyl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwpMgmYEsvHPWleC9kTVpIRfgvEO2-hhg2b9d.jpeg?alt=media&token=b4b18231-94dd-4002-86b4-a2f3d2d54cfa)
-This is the introduction to a series that was originally published on tech.osteel.me. Only the introduction was brought to Hacker Noon — links to other parts will take you to that other website.
-
-### [57. Why You Don't Need Linux to Develop in PHP](https://hackernoon.com/why-you-dont-need-linux-to-develop-in-php)
+### [56. Why You Don't Need Linux to Develop in PHP](https://hackernoon.com/why-you-dont-need-linux-to-develop-in-php)
 ![](https://cdn.hackernoon.com/images/BHRHoIowwTS3yngr5R2TH4ri1K32-ua93r35.jpeg)
 Why you don't need Linux to develop in PHP? With the introduction of Windows Subsystem for Linux 2 (WSL2), PHP development on Windows has become very easy.
+
+### [57. An Introduction to Docker for Web Development](https://hackernoon.com/an-introduction-to-docker-for-web-development-8z3f3tyl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwpMgmYEsvHPWleC9kTVpIRfgvEO2-hhg2b9d.jpeg?alt=media&token=b4b18231-94dd-4002-86b4-a2f3d2d54cfa)
+This is the introduction to a series that was originally published on tech.osteel.me. Only the introduction was brought to Hacker Noon — links to other parts will take you to that other website.
 
 ### [58. Setting Up Laravel Unit and Security Tests](https://hackernoon.com/setting-up-laravel-unit-and-security-tests)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1992htu.jpeg)
@@ -242,25 +246,25 @@ In this article, we will also go over and configure anything exclusive to PhpSto
 ![](https://cdn.hackernoon.com/images/pDUI21JXq3hUt99Uzg6NBXjyGOB2-8k039f0.jpeg)
 Kubernetes or auto scaling can create a bit of mess in your monitoring data. Learn how to monitor your Laravel application by services instead of hostnames.
 
-### [61. Development-Friendly Laravel Tools & Resources ](https://hackernoon.com/development-friendly-laravel-tools-and-resources)
-![](https://cdn.hackernoon.com/images/RC0dvSHTbpYUDvzcg2wjcLpnDVB3-5p93pmp.jpeg)
-You can improve your productivity in Laravel by using these developer-friendly tools and resources to cut down on time spent on tedious, avoidable tasks.
-
-### [62. The 10+ Best Tools For Laravel Developers🛠](https://hackernoon.com/the-10-best-tools-for-laravel-developers)
+### [61. The 10+ Best Tools For Laravel Developers🛠](https://hackernoon.com/the-10-best-tools-for-laravel-developers)
 ![](https://cdn.hackernoon.com/images/bFFEe4dIUoXgbouiLfgW9PI9b8q1-ae0372z.jpeg)
 Check out the best tools for Laravel developers to boost the workflow.
+
+### [62. Development-Friendly Laravel Tools & Resources ](https://hackernoon.com/development-friendly-laravel-tools-and-resources)
+![](https://cdn.hackernoon.com/images/RC0dvSHTbpYUDvzcg2wjcLpnDVB3-5p93pmp.jpeg)
+You can improve your productivity in Laravel by using these developer-friendly tools and resources to cut down on time spent on tedious, avoidable tasks.
 
 ### [63. Django Vs Laravel: The Ultimate Comparison Guide (2022)](https://hackernoon.com/django-vs-laravel-the-ultimate-comparison-guide-2022)
 ![](https://cdn.hackernoon.com/images/4z5gdgO7I7g1k1jlvl45w0Lv5Tx1-4d93plo.jpeg)
 Are you looking for a comparison and an ultimate guide for Django vs laravel? You got the final destinations with features and benchmarks.
 
-### [64. "Specified key was too long; max key length is 767 bytes" Error in Laravel](https://hackernoon.com/specified-key-was-too-long-max-key-length-is-767-bytes-error-in-laravel-o7133u5m)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FftUCnMhOe2XTZI6pMhyPHKIZ3Ip1-iv1b23el.jpeg?alt=media&token=33f46439-01da-461f-92c9-807c074565d4)
-One of these issues you might stumble across using the PHP framework Laravel is this one:
-
-### [65. The Top Backend Development Frameworks in 2023](https://hackernoon.com/the-top-backend-development-frameworks-in-2023)
+### [64. The Top Backend Development Frameworks in 2023](https://hackernoon.com/the-top-backend-development-frameworks-in-2023)
 ![](https://cdn.hackernoon.com/images/9e01kgY0PyP7vuD45iBObcL80SA3-5993pq1.jpeg)
 Take a look at our annual breakdown of the top web backend frameworks in 2023. Leading the list is the clear leader NodeJS.
+
+### [65. "Specified key was too long; max key length is 767 bytes" Error in Laravel](https://hackernoon.com/specified-key-was-too-long-max-key-length-is-767-bytes-error-in-laravel-o7133u5m)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FftUCnMhOe2XTZI6pMhyPHKIZ3Ip1-iv1b23el.jpeg?alt=media&token=33f46439-01da-461f-92c9-807c074565d4)
+One of these issues you might stumble across using the PHP framework Laravel is this one:
 
 ### [66. Laravel 12 Prompts Guide: Prompt Types, Validation, and an Interactive Seeder Generator Example](https://hackernoon.com/laravel-12-prompts-guide-prompt-types-validation-and-an-interactive-seeder-generator-example)
 ![](https://cdn.hackernoon.com/images/a-modern-developer-terminal-screen-g2a39z739c9zsurvjsf9a8cd.png)
@@ -278,13 +282,13 @@ In this article I would show you how to turn on analytics in the dark side of yo
 ![](https://cdn.hackernoon.com/images/vo1f2gxl.jpg)
 Ok, first of all, this isn’t an article about which framework is better since they have different base languages.
 
-### [70. How to Monitor a Bagisto e-commerce in Real-Time using Inspector](https://hackernoon.com/how-to-monitor-a-bagisto-e-commerce-in-real-time-using-inspector-bz1j3yaw)
-![](https://cdn.hackernoon.com/images/pao32ox.jpg)
-Hi I'm Valerio, software engineer from Italy and CTO at Inspector.
-
-### [71. How Laravel Web Development Can Grow Your Business in 2020 and 2021](https://hackernoon.com/how-laravel-web-development-can-grow-your-business-in-2020-and-2021-fx233zr7)
+### [70. How Laravel Web Development Can Grow Your Business in 2020 and 2021](https://hackernoon.com/how-laravel-web-development-can-grow-your-business-in-2020-and-2021-fx233zr7)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FjQDXU3mqnKYcTEtUfYCAMxuob2H3-fl143wb8.jpeg?alt=media&token=a56e1f6b-8871-4403-9a0e-b5c06c59ab96)
 PHP web frameworks are the most popular sources for web application development. Laravel web development is one of the most important technologies for web application because of the MVC architecture.
+
+### [71. How to Monitor a Bagisto e-commerce in Real-Time using Inspector](https://hackernoon.com/how-to-monitor-a-bagisto-e-commerce-in-real-time-using-inspector-bz1j3yaw)
+![](https://cdn.hackernoon.com/images/pao32ox.jpg)
+Hi I'm Valerio, software engineer from Italy and CTO at Inspector.
 
 ### [72. Replace Comments With Better Code](https://hackernoon.com/replace-comments-with-better-code-2u6v3y3n)
 ![](images/ml1032s5.jpg)
@@ -318,13 +322,13 @@ Laravel has soared in popularity in the last few years. The Laravel community ev
 ![](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Ruby on Rails is a framework based on Ruby programming language, it is mainly used for web development. what do you need to know about it?
 
-### [80. Laravel 8 Features That You Should Know](https://hackernoon.com/laravel-8-features-that-you-should-know-c91d34le)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-7g1e29ys.jpeg)
-This blog talks about why Laravel 8 deserves another look because of several features that makes it perfect for web development.
-
-### [81. Use Laravel and Traefik to Dynamically Configure for Effortless Multi-Domain Management](https://hackernoon.com/use-laravel-and-traefik-to-dynamically-configure-for-effortless-multi-domain-management)
+### [80. Use Laravel and Traefik to Dynamically Configure for Effortless Multi-Domain Management](https://hackernoon.com/use-laravel-and-traefik-to-dynamically-configure-for-effortless-multi-domain-management)
 ![](https://danielpetrica.com/content/images/2025/09/Copy-of-YouTube-Thumbnail---Production-Ready-Docker-Compose-for-Laravel.png)
 Streamline dynamic multi-domain routing in Laravel with Traefik by serving YAML via the HTTP provider for automated, secure, and scalable configuration management. Ideal for Laravel developers and DevOps teams who want to eliminate bulky static files and improve maintainability.
+
+### [81. Laravel 8 Features That You Should Know](https://hackernoon.com/laravel-8-features-that-you-should-know-c91d34le)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-7g1e29ys.jpeg)
+This blog talks about why Laravel 8 deserves another look because of several features that makes it perfect for web development.
 
 ### [82. Dirty Jobs: Debugging Till the Last Minute](https://hackernoon.com/dirty-jobs-debugging-till-the-last-minute)
 ![](https://cdn.hackernoon.com/images/KobPcf5nazNcjh4iUfyRlmitv723-qa92ik2.jpeg)
@@ -334,69 +338,69 @@ Debugging in practice means getting lost on tangents, trying to look good in fro
 ![](https://cdn.hackernoon.com/images/VQx7iyB9wqMNH8Ove9mKoWfVc7R2-xm93psj.jpeg)
 Step by Step Guide to Build the Laravel Web App
 
-### [84. Laravel Under The Hood -  What Are Facades?](https://hackernoon.com/laravel-under-the-hood-what-are-facades)
+### [84. How Deemples CEO David Wong built the largest golf app in Malaysia ](https://hackernoon.com/how-deemples-ceo-david-wong-built-the-largest-golf-app-in-malaysia)
+![](https://cdn.hackernoon.com/images/PIx5Mr9sM3bJgHs2OZL8fQ6HbKI2-5o4c35eh.jpeg)
+Deemples was nominated as one of the best startups in Kuala Lumpur in Startups of the Year hosted by HackerNoon. Here's an interview with its CEO.
+
+### [85. Laravel Under The Hood -  What Are Facades?](https://hackernoon.com/laravel-under-the-hood-what-are-facades)
 ![](https://cdn.hackernoon.com/images/yZi53v9tVybsXwdXldRGugWuUiE3-6n824gk.jpeg)
 Laravel offers an elegant method-calling feature called Facades. They resemble static methods, but well, they are not! What kind of magic is Laravel doing?
-
-### [85. Dynamic Multi-Domain Management in Laravel with Traefik](https://hackernoon.com/dynamic-multi-domain-management-in-laravel-with-traefik)
-![](https://danielpetrica.com/content/images/2025/09/Copy-of-YouTube-Thumbnail---Production-Ready-Docker-Compose-for-Laravel.png)
-Streamline dynamic multi-domain routing in Laravel with Traefik by serving YAML via the HTTP provider.
 
 ### [86. How to Generate Sitemaps Using Laravel on the Fly](https://hackernoon.com/how-to-generate-sitemaps-using-laravel-on-the-fly-al7w3yhv)
 ![](https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 First things first: What is a sitemap?
 
-### [87. How Deemples CEO David Wong built the largest golf app in Malaysia ](https://hackernoon.com/how-deemples-ceo-david-wong-built-the-largest-golf-app-in-malaysia)
-![](https://cdn.hackernoon.com/images/PIx5Mr9sM3bJgHs2OZL8fQ6HbKI2-5o4c35eh.jpeg)
-Deemples was nominated as one of the best startups in Kuala Lumpur in Startups of the Year hosted by HackerNoon. Here's an interview with its CEO.
-
-### [88. An Auction System Needs a Central Clock](https://hackernoon.com/an-auction-system-needs-a-central-clock-e3113zrl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPuORuGm6w5heku18h0n6ohGlli73-ojg3ewm.jpeg?alt=media&token=0ad64ccb-de9c-412c-ac84-7bb6712f5321)
-An Auction Runs by A Clock
-
-### [89. How to Simplify Data Validation in PHP With ValidationMyPhp](https://hackernoon.com/how-to-simplify-data-validation-in-php-with-validationmyphp)
-![](https://cdn.hackernoon.com/images/RXadfDF7FAUpoNxhRqBIwlyiOM02-kh93vwy.jpeg)
-In this article, we'll dive into how ValidationMyPhp simplifies data validation in PHP applications and why it deserves your attention on GitHub.
-
-### [90. A Guide to Setting up Laravel in Ubuntu](https://hackernoon.com/a-guide-to-setting-up-laravel-in-ubuntu-dp223tv9)
+### [87. A Guide to Setting up Laravel in Ubuntu](https://hackernoon.com/a-guide-to-setting-up-laravel-in-ubuntu-dp223tv9)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtRlgiMUxJzR7GTO3g6rqwvhzPjG2-qz193w06.jpeg?alt=media&token=a76f8455-0279-4594-87b2-bae33ae1a433)
 Laravel is a very popular open-source PHP framework aimed at easy development of applications. If you are looking for a new PHP framework, you should give Laravel a try.
 
-### [91. Why You Should Use Laravel PHP Framework for Web Development](https://hackernoon.com/why-you-should-use-laravel-php-framework-for-web-development)
-![](https://cdn.hackernoon.com/images/4M1v4uN1ptWKawlFypubbTs7up73-vt037yx.jpeg)
-Comprehensive guide to web development using laravel framework.
+### [88. How to Simplify Data Validation in PHP With ValidationMyPhp](https://hackernoon.com/how-to-simplify-data-validation-in-php-with-validationmyphp)
+![](https://cdn.hackernoon.com/images/RXadfDF7FAUpoNxhRqBIwlyiOM02-kh93vwy.jpeg)
+In this article, we'll dive into how ValidationMyPhp simplifies data validation in PHP applications and why it deserves your attention on GitHub.
 
-### [92. Coz.jp Will Now Have Beta API Support - Will Also Have n8n & Laravel Integrations](https://hackernoon.com/cozjp-will-now-have-beta-api-support-will-also-have-n8n-and-laravel-integrations)
+### [89. An Auction System Needs a Central Clock](https://hackernoon.com/an-auction-system-needs-a-central-clock-e3113zrl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPuORuGm6w5heku18h0n6ohGlli73-ojg3ewm.jpeg?alt=media&token=0ad64ccb-de9c-412c-ac84-7bb6712f5321)
+An Auction Runs by A Clock
+
+### [90. Coz.jp Will Now Have Beta API Support - Will Also Have n8n & Laravel Integrations](https://hackernoon.com/cozjp-will-now-have-beta-api-support-will-also-have-n8n-and-laravel-integrations)
 ![](https://danielpetrica.com/content/images/2025/11/Blog-Images.png)
 The next evolution of Coz.Jp is on it's in the final testing phase. WE added API support and also created a N8N node for it and a Laravel Plugin. You can now automate your link shortening requirements esily, from your business tools.
 
-### [93. Efficient API Interaction And Consumption With Laravel: A Beginner's Guide](https://hackernoon.com/efficient-api-interaction-and-consumption-with-laravel-a-beginners-guide)
+### [91. Efficient API Interaction And Consumption With Laravel: A Beginner's Guide](https://hackernoon.com/efficient-api-interaction-and-consumption-with-laravel-a-beginners-guide)
 ![](https://cdn.hackernoon.com/images/glJc8wR7pPZxszJ5nouCekLyfcA2-3u02unp.png)
 As a developer, there will come a time when you will need to create your API or consume an external API and interact with it. This is a phase you can’t run from
 
-### [94. You Can Track Code Deployments in New Relic With Laravel Commands: Here's How](https://hackernoon.com/you-can-track-code-deployments-in-new-relic-with-laravel-commands-heres-how)
+### [92. Why You Should Use Laravel PHP Framework for Web Development](https://hackernoon.com/why-you-should-use-laravel-php-framework-for-web-development)
+![](https://cdn.hackernoon.com/images/4M1v4uN1ptWKawlFypubbTs7up73-vt037yx.jpeg)
+Comprehensive guide to web development using laravel framework.
+
+### [93. You Can Track Code Deployments in New Relic With Laravel Commands: Here's How](https://hackernoon.com/you-can-track-code-deployments-in-new-relic-with-laravel-commands-heres-how)
 ![](https://images.unsplash.com/photo-1647427060118-4911c9821b82?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxyb2JvdCUyMGZhY3Rvcnl8ZW58MHx8fHwxNzE2ODkyMjEzfDA&amp;ixlib=rb-4.0.3&amp;q=80&amp;w=2000)
 Simplify New Relic deployments track with a custom Laravel. Track deployments easily without GitHub Actions by using 'php artisan app:deploy-mark'.
+
+### [94. Why I Started Building My Own Containers (and What I Wish Tutorials Told Me)](https://hackernoon.com/why-i-started-building-my-own-containers-and-what-i-wish-tutorials-told-me)
+![](https://cdn.hackernoon.com/images/Qzv3QWeOZubTntN1nWswOvzChUd2-4r82772.png)
+Master the art of building your own containers. Learn a streamlined approach to containerization, avoid common mistakes, and gain the freedom to ship your apps.
 
 ### [95. Explaining Laravel Package Ecosystem](https://hackernoon.com/explaining-laravel-package-ecosystem-zz5e3wrg)
 ![](https://cdn.hackernoon.com/images/ie4963bao.jpg)
 Packages play a big role in the Laravel scene. How big and which packages? To find it out we took the data from the Packagist.org API and filtered out the Laravel packages.
 
-### [96. Why I Started Building My Own Containers (and What I Wish Tutorials Told Me)](https://hackernoon.com/why-i-started-building-my-own-containers-and-what-i-wish-tutorials-told-me)
-![](https://cdn.hackernoon.com/images/Qzv3QWeOZubTntN1nWswOvzChUd2-4r82772.png)
-Master the art of building your own containers. Learn a streamlined approach to containerization, avoid common mistakes, and gain the freedom to ship your apps.
-
-### [97. How to set up NetSuite Token-based Authentication (TBA) in Laravel](https://hackernoon.com/how-to-set-up-netsuite-token-based-authentication-tba-in-laravel)
+### [96. How to set up NetSuite Token-based Authentication (TBA) in Laravel](https://hackernoon.com/how-to-set-up-netsuite-token-based-authentication-tba-in-laravel)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bl02si0.jpeg)
 Learn to set up Token-based Authentication (TBA) in Laravel for NetSuite integration with this step-by-step guide, including code snippets and UI screenshots.
 
-### [98. The HackerNoon Newsletter: The Secret Math Behind Every Creative Breakthrough (1/16/2026)](https://hackernoon.com/1-16-2026-newsletter)
+### [97. The HackerNoon Newsletter: The Secret Math Behind Every Creative Breakthrough (1/16/2026)](https://hackernoon.com/1-16-2026-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_575_ddji6nu3p06aml7m6j4vffql.png)
 1/16/2026: Top 5 stories on the HackerNoon homepage!
 
-### [99. What's New in Laravel 10: A Peek at New and Upcoming Features](https://hackernoon.com/whats-new-in-laravel-10-a-peek-at-new-and-upcoming-features)
+### [98. What's New in Laravel 10: A Peek at New and Upcoming Features](https://hackernoon.com/whats-new-in-laravel-10-a-peek-at-new-and-upcoming-features)
 ![](https://cdn.hackernoon.com/images/FpV7utoiWLd83o2fu2aLmvSwSPL2-bo92kwh.jpeg)
  What to expect in laravel 10: An overview of upcoming features and changes. Laravel v10 is the next major version of Laravel after Laravel v9 and laravel v8
+
+### [99. Dynamic Multi-Domain Management in Laravel with Traefik](https://hackernoon.com/dynamic-multi-domain-management-in-laravel-with-traefik)
+![](https://danielpetrica.com/content/images/2025/09/Copy-of-YouTube-Thumbnail---Production-Ready-Docker-Compose-for-Laravel.png)
+Streamline dynamic multi-domain routing in Laravel with Traefik by serving YAML via the HTTP provider.
 
 ### [100. Frequent Updates Might Not Even Be The Most Weirdest Thing About Laravel](https://hackernoon.com/frequent-updates-might-not-even-be-the-most-weirdest-thing-about-laravel)
 ![](https://cdn.hackernoon.com/images/glJc8wR7pPZxszJ5nouCekLyfcA2-jp02qay.png)
@@ -410,14 +414,14 @@ If there is a framework that offers an exceptional platform for building robust 
 ![](https://cdn.hackernoon.com/images/yZi53v9tVybsXwdXldRGugWuUiE3-87822f9.jpeg)
 PHP 8 has introduced attributes that are quite impressive and powerful, and this article will use them to toggle Laravel routes on and off. How cool is that?
 
-### [103. Laravel Zero - How to Build a TCP Server](https://hackernoon.com/laravel-zero-how-to-build-a-tcp-server)
+### [103. How to Handle All PHP Errors](https://hackernoon.com/how-to-handle-all-php-errors)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-sr93pbm.jpeg)
+Sometimes your PHP application might produce many different types of earnings.
+
+### [104. Laravel Zero - How to Build a TCP Server](https://hackernoon.com/laravel-zero-how-to-build-a-tcp-server)
 ![](https://cdn.hackernoon.com/images/yZi53v9tVybsXwdXldRGugWuUiE3-u7923nk.jpeg)
 Building console applications can be a lot of fun, but also quite challenging. However, Laravel Zero makes it incredibly easy and way more enjoyable!
 
-
-### [104. How to Handle All PHP Errors](https://hackernoon.com/how-to-handle-all-php-errors)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-sr93pbm.jpeg)
-Sometimes your PHP application might produce many different types of earnings.
 
 ### [105. Paypal Integration Package Built With PHP](https://hackernoon.com/paypal-integration-package-built-with-php)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-e4036gt.jpeg)

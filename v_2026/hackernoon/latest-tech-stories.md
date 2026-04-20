@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [latest-tech-stories](https://hackernoon.com/tagged/latest-tech-stories)
+### Let's learn about [Latest Tech Stories](https://hackernoon.com/tagged/latest-tech-stories) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 We publish curious and insightful technologists without pop up ads, paywalls, or a lengthy review process. 
 
 ### [1. 14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
@@ -181,13 +183,13 @@ In a real-world setting, you often only have a small dataset to work with. Model
 ![](https://cdn.hackernoon.com/images/koj5432bm.jpg)
 [Disclaimer - the thoughts in this post are mine alone and the "we" in the title refers to an open-source project where I happen to be the lead developer.]
 
-### [45. 10 Best Platforms To Build a Live Video Streaming Website, App or Service in 2022](https://hackernoon.com/10-best-live-video-streaming-solutions-to-build-live-streaming-website-app-instantly-ea129432d59d)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F82VENCFX3jVmv4rfYnHcSkZ7Wv92-fna3udn.webp?alt=media&token=85e72e8d-9f72-4314-86e5-401ac51ac3a5)
-Whether you’re an enterprise business professional, Individual or content creators, a live streaming platform can be a double-edged sword, it all depends on which platform you prefer to use for your streaming business. 
-
-### [46. 3 Lessons I Learned while Trading on the 24/7 Crypto Market](https://hackernoon.com/3-lessons-i-learned-while-trading-on-the-247-crypto-market-jz1jj34pb)
+### [45. 3 Lessons I Learned while Trading on the 24/7 Crypto Market](https://hackernoon.com/3-lessons-i-learned-while-trading-on-the-247-crypto-market-jz1jj34pb)
 ![](https://cdn.hackernoon.com/drafts/k7vh34nq.png)
 I’m a part-time trader. I trade on stock markets, and recently, at the beginning of 2019, I've tried trading on crypto markets. 
+
+### [46. 10 Best Platforms To Build a Live Video Streaming Website, App or Service in 2022](https://hackernoon.com/10-best-live-video-streaming-solutions-to-build-live-streaming-website-app-instantly-ea129432d59d)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F82VENCFX3jVmv4rfYnHcSkZ7Wv92-fna3udn.webp?alt=media&token=85e72e8d-9f72-4314-86e5-401ac51ac3a5)
+Whether you’re an enterprise business professional, Individual or content creators, a live streaming platform can be a double-edged sword, it all depends on which platform you prefer to use for your streaming business. 
 
 ### [47. Node.js VS JavaScript: Differences & Similarities](https://hackernoon.com/nodejs-vs-javascript-differences-and-similarities-6w1ws22pc)
 ![](https://cdn.hackernoon.com/images/wpkg22tv.jpg)
@@ -595,13 +597,13 @@ school and college days.
 ![](https://cdn.hackernoon.com/drafts/ne4f30ma.png)
 Most of the web apps I build eventually end up needing a background worker. There will be some slow or heavy task that really should run independently, like an integration with a third-party server, a web scraper, PDF creation, something. 
 
-### [147. Why Developers Hate Coding Skills Tests (And What Hiring Managers Can Do To Change That)](https://hackernoon.com/why-developers-hate-coding-skills-8m6u3za1)
-![](https://cdn.hackernoon.com/drafts/yin3z9s.png)
-By Geoff Roberts
-
-### [148. [A Step by Step Guide] Build Your Expert Advisor Telegram Bot to Query Forex Trade Orders via MT4 ](https://hackernoon.com/building-a-telegram-chat-with-a-mt4-forex-trading-expert-advisor-iz13w32be)
+### [147. [A Step by Step Guide] Build Your Expert Advisor Telegram Bot to Query Forex Trade Orders via MT4 ](https://hackernoon.com/building-a-telegram-chat-with-a-mt4-forex-trading-expert-advisor-iz13w32be)
 ![](https://cdn.hackernoon.com/images/h4beg32xe.jpg)
 Introduction
+
+### [148. Why Developers Hate Coding Skills Tests (And What Hiring Managers Can Do To Change That)](https://hackernoon.com/why-developers-hate-coding-skills-8m6u3za1)
+![](https://cdn.hackernoon.com/drafts/yin3z9s.png)
+By Geoff Roberts
 
 ### [149. 30 App Development Ideas for Startups (AI/ML, Blockchain, AR/VR)](https://hackernoon.com/30-simple-app-ideas-for-startups-ai-ml-blockchain-ar-vr-f7cab5de0def)
 ![](https://cdn.hackernoon.com/images/fx5ay30n1.jpg)
@@ -635,13 +637,13 @@ var obj = new CallableObject(); obj(args);
 ![](https://cdn.hackernoon.com/drafts/sool3tca.png)
 Recently, React announced a feature of the React ecosystem — Concurrent Mode. This would allow us to stop or delay the execution of components for the time that we need. It’ll help React apps stay responsive and gracefully adjust to the user’s device capabilities and network speed.
 
-### [157. 10 Reasons Why you Should Learn Artificial Intelligence](https://hackernoon.com/10-reasons-why-you-should-learn-artificial-intelligence-5v6q30vo)
-![](https://cdn.hackernoon.com/drafts/w66n30jg.png)
-Introduction
-
-### [158. Why and where should you still use C/C++ languages?](https://hackernoon.com/why-and-where-should-you-still-use-cc-languages-6l1r838gh)
+### [157. Why and where should you still use C/C++ languages?](https://hackernoon.com/why-and-where-should-you-still-use-cc-languages-6l1r838gh)
 ![](https://cdn.hackernoon.com/drafts/481sm38c3.png)
 From complex databases to self-driving cars, the usage area of C and C++ languages is surprisingly wide. Even today, with a myriad of new & robust programming tools, the two coding languages from 70s cannot be replaced. So what are the common applications of C & C++ today and why we still use them? Let’s find out in this article.
+
+### [158. 10 Reasons Why you Should Learn Artificial Intelligence](https://hackernoon.com/10-reasons-why-you-should-learn-artificial-intelligence-5v6q30vo)
+![](https://cdn.hackernoon.com/drafts/w66n30jg.png)
+Introduction
 
 ### [159. The Problem(s) With Amazon GO](https://hackernoon.com/the-problem-s-with-amazon-go-cb1394aab7d)
 ![](https://cdn.hackernoon.com/drafts/t4ge30te.png)
@@ -929,13 +931,13 @@ It started when I was 17, a high school senior about to graduate, wondering what
 ![](https://cdn.hackernoon.com/images/6m5f3wnm.jpg)
 Back in the days when MySQL was the undisputed open source database champion, there was a sense that people who took their databases seriously would choose PostgreSQL instead. Everyone else chose MySQL; it was fast and it was easy.
 
-### [230. Creating Real-Time Chat App using React And Socket.io with E2E Encryption](https://hackernoon.com/creating-real-time-chat-app-using-react-and-socketio-with-e2e-encryption-b0113u5s)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1ygoOJrOIvNFNp0un0WDg4WhTfk1-bqbe3y0o.gif?alt=media&token=3fe92d69-0a5a-4b5a-89c5-f77857e24bb3)
-Link link: Here is the example of the chat app we are going to build ✌.
-
-### [231. Building A Linux Shell - Part II [A Step-by-Step Guide]](https://hackernoon.com/building-a-linux-shell-part-ii-a-step-by-step-guide-pk203ywg)
+### [230. Building A Linux Shell - Part II [A Step-by-Step Guide]](https://hackernoon.com/building-a-linux-shell-part-ii-a-step-by-step-guide-pk203ywg)
 ![](https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 In the first part of this tutorial, we've built a simple Linux shell that prints a prompt string, reads input, then echoes the input back to the screen. This isn't very much impressive now, is it?
+
+### [231. Creating Real-Time Chat App using React And Socket.io with E2E Encryption](https://hackernoon.com/creating-real-time-chat-app-using-react-and-socketio-with-e2e-encryption-b0113u5s)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1ygoOJrOIvNFNp0un0WDg4WhTfk1-bqbe3y0o.gif?alt=media&token=3fe92d69-0a5a-4b5a-89c5-f77857e24bb3)
+Link link: Here is the example of the chat app we are going to build ✌.
 
 ### [232. How Cryptocurrency is Changing the Banking Industry](https://hackernoon.com/how-cryptocurrency-is-changing-the-banking-industry-gm8831qv)
 ![](https://cdn.hackernoon.com/drafts/dr9n317k.png)
@@ -949,17 +951,17 @@ When I graduated with a Computer Science degree at the end of 2012, Ruby on Rail
 ![](https://cdn.hackernoon.com/drafts/6l1kh35nd.png)
 This is own life story of how I managed to accumulate a Bitcoin without any financial investment.
 
-### [235. How Stream Processing Makes Your Event-Driven Architecture Better](https://hackernoon.com/how-stream-processing-makes-your-event-driven-architecture-better-ep1ht2g6d)
+### [235. Retrieving the URL from Custom Tabs in Android](https://hackernoon.com/retrieving-the-url-from-custom-tabs-in-android-ug263ueh)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-2pm28tn.png?alt=media&token=3020ca25-ce14-439a-82aa-d15929cfb954)
+In my previous article I provided an overview of Custom Tabs, or Chrome Custom Tabs, in Android. In short, this component allows your app to seamlessly transition between application and web content and it’s used by several well known applications including Twitter, The Gaurdian, Tumblr, Stack Overflow, and Feedly. They’re safe, simple to use, and their ability to preemptively load URLS makes them incredibly fast compared to alternatives like WebViews. With this said, using Custom Tabs is the preferred option if you want to give users access to the web without sending them to another app. You can be up and running with a few lines of code.
+
+### [236. How Stream Processing Makes Your Event-Driven Architecture Better](https://hackernoon.com/how-stream-processing-makes-your-event-driven-architecture-better-ep1ht2g6d)
 ![](https://cdn.hackernoon.com/images/yt26c2g9r.jpg)
 If you’re an architect or developer looking at event-driven architectures, stream processing might be just what you need to make your app faster, more scalable, and more decoupled.
 
-### [236. How Emerging Technologies Impact Businesses](https://hackernoon.com/how-emerging-technologies-impact-businesses-4ha73zlb)
+### [237. How Emerging Technologies Impact Businesses](https://hackernoon.com/how-emerging-technologies-impact-businesses-4ha73zlb)
 ![](https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Role of technology in business
-
-### [237. Retrieving the URL from Custom Tabs in Android](https://hackernoon.com/retrieving-the-url-from-custom-tabs-in-android-ug263ueh)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-2pm28tn.png?alt=media&token=3020ca25-ce14-439a-82aa-d15929cfb954)
-In my previous article I provided an overview of Custom Tabs, or Chrome Custom Tabs, in Android. In short, this component allows your app to seamlessly transition between application and web content and it’s used by several well known applications including Twitter, The Gaurdian, Tumblr, Stack Overflow, and Feedly. They’re safe, simple to use, and their ability to preemptively load URLS makes them incredibly fast compared to alternatives like WebViews. With this said, using Custom Tabs is the preferred option if you want to give users access to the web without sending them to another app. You can be up and running with a few lines of code.
 
 ### [238. The World's Most Powerful Deepfake Model was Just Released by Google](https://hackernoon.com/the-worlds-most-powerful-deepfake-model-was-just-released-by-google)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-c193gcv.jpeg)
@@ -1039,13 +1041,13 @@ Image: UnsplashOne of the biggest and current trends in the PCB industry is the 
 ![](https://cdn.hackernoon.com/images/uts32pb.jpg)
 JOIN OUR COMMUNITY Twitter l Telegram
 
-### [257. Why We Are Automating Food Waste Management With AI?](https://hackernoon.com/why-we-are-automating-food-waste-management-with-ai-9b1kp28qk)
-![](https://cdn.hackernoon.com/images/vtu128l9.jpg)
-One-third of the total food produced is wasted according to the Food And Agriculture Association of the United Nations. It is approximately 1.3 billion tonnes and food scarcity is one of the major concerns globally. Isn’t it strange and funny?
-
-### [258. 7 Best Email Verification and Email Verifier Tools for Security and Other Purposes](https://hackernoon.com/7-best-email-verification-and-email-verifier-tools-for-security-and-other-purposes-ffb0326o)
+### [257. 7 Best Email Verification and Email Verifier Tools for Security and Other Purposes](https://hackernoon.com/7-best-email-verification-and-email-verifier-tools-for-security-and-other-purposes-ffb0326o)
 ![](https://cdn.hackernoon.com/drafts/7qdn32w4.png)
 Email verification is a means to ensure the message a sender wishes to send to an address gets delivered. The process works by validating the existence of an email address, so the message sent would not bounce or trigger anti-spam blocking mechanisms on the receiver’s end. Some security solutions may not be equipped to do that, and so the sender can end up on a spam blacklist.
+
+### [258. Why We Are Automating Food Waste Management With AI?](https://hackernoon.com/why-we-are-automating-food-waste-management-with-ai-9b1kp28qk)
+![](https://cdn.hackernoon.com/images/vtu128l9.jpg)
+One-third of the total food produced is wasted according to the Food And Agriculture Association of the United Nations. It is approximately 1.3 billion tonnes and food scarcity is one of the major concerns globally. Isn’t it strange and funny?
 
 ### [259. How Does AirPods Wireless Charging Work](https://hackernoon.com/how-airpods-wireless-charging-works-hs832o0)
 ![](https://cdn.hackernoon.com/drafts/03td32vj.png)
@@ -1099,22 +1101,22 @@ At the beginning of the year, when I started building Archbee, I evaluated some 
 ![](https://cdn.hackernoon.com/images/yc13w324l.jpg)
 Being a designer or web developer is a fabulous possibility to start working as a freelancer. I will bet anything you’ve been reflecting on it thousands of times, that is why you’re here. Don’t drain your energy on infinite searching of the most reliable and beneficial online marketplace to sell your designs, artworks or sell website templates. 
 
-### [272. React Native Vs. Flutter: A Comparison of Pros and Cons](https://hackernoon.com/react-native-vs-flutter-a-comparison-of-pros-and-cons-341gw23vl)
-![](https://cdn.hackernoon.com/images/7dvt23oi.jpg)
-Mobile apps market is projected to hit $188.9 billion in revenue by the year 2020. With rising popularity of mobile apps, it has become mandatory for businesses to have their own mobile apps. All kinds of businesses-- whether a startup or an enterprise-- want to develop advanced mobile apps quickly and at less cost.
-
-### [273. How to Promote a Telegram Crypto Channel](https://hackernoon.com/how-to-promote-a-telegram-crypto-channel-fi1hl3a9q)
+### [272. How to Promote a Telegram Crypto Channel](https://hackernoon.com/how-to-promote-a-telegram-crypto-channel-fi1hl3a9q)
 ![](https://cdn.hackernoon.com/drafts/0a2n3a0h.png)
 The problem of promoting Telegram channels is very relevant even today when the general crypto panic has decreased and not so many people are passionately involved in reading the content from blockchain projects. I will focus on the crypto-thematic channels because it is believed that they need it most. 
 
-### [274. Why Do Tech Guys Need To See New
+### [273. React Native Vs. Flutter: A Comparison of Pros and Cons](https://hackernoon.com/react-native-vs-flutter-a-comparison-of-pros-and-cons-341gw23vl)
+![](https://cdn.hackernoon.com/images/7dvt23oi.jpg)
+Mobile apps market is projected to hit $188.9 billion in revenue by the year 2020. With rising popularity of mobile apps, it has become mandatory for businesses to have their own mobile apps. All kinds of businesses-- whether a startup or an enterprise-- want to develop advanced mobile apps quickly and at less cost.
+
+### [274. Understanding The Block Propagation Problem in Blockchains](https://hackernoon.com/understanding-the-block-propagation-problem-in-blockchains-1t2s3x9b)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FELy3D5qjIEQPxlfLdReo0aw5TNx2-w61n3em0.jpeg?alt=media&token=b056f692-08f8-4374-9f16-0b6f01ab1189)
+The lack of scalability is known to be the foremost obstacle standing in the way of mass adoption of blockchain technology. All existing blockchain projects look for solutions that could improve the performance of their network. 
+
+### [275. Why Do Tech Guys Need To See New
 Joker Movie?](https://hackernoon.com/why-do-tech-guys-need-to-see-new-joker-movie-nl2632up)
 ![](https://cdn.hackernoon.com/drafts/e41q323l.png)
 The moment you step into the (tech) world, you have to pick sides.
-
-### [275. Understanding The Block Propagation Problem in Blockchains](https://hackernoon.com/understanding-the-block-propagation-problem-in-blockchains-1t2s3x9b)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FELy3D5qjIEQPxlfLdReo0aw5TNx2-w61n3em0.jpeg?alt=media&token=b056f692-08f8-4374-9f16-0b6f01ab1189)
-The lack of scalability is known to be the foremost obstacle standing in the way of mass adoption of blockchain technology. All existing blockchain projects look for solutions that could improve the performance of their network. 
 
 ### [276. How to Design Your Custom Web Application](https://hackernoon.com/how-to-design-your-custom-web-application-ow1b32ij)
 ![](https://cdn.hackernoon.com/drafts/0a1nc32ks.png)
@@ -1168,13 +1170,13 @@ Google’s Android 10 update is now live on all Pixel devices and a growing list
 ![](https://cdn.hackernoon.com/drafts/oa13z3z6b.png)
 I’ve organized and executed thousands of influencer marketing campaigns for brands like Depop and my own small businesses, (@pinlord, @potteryforall, @macramemakers) and from experience, I know that the success of each one depends almost exclusively on the quality of influencers that you work with.
 
-### [289. How To Start A Billion Dollar “Unicorn” Startup](https://hackernoon.com/how-to-start-a-billion-dollar-unicorn-startup-42605ace685c)
-![](https://cdn.hackernoon.com/hn-images/1*Md2Dl4XKIhmIBYmoL1ox2A.jpeg)
-I’m not a smart man. BUT…. I started two of the biggest websites on the internet. My first one, Genius aka “Rap Genius” tells you what lyrics mean. The new one, Everipedia, is Wikipedia built on a cryptocurrency called “IQ” that rewards you for educating the masses.
-
-### [290. Make Your Own Typing Tutor App using Python!](https://hackernoon.com/make-your-own-typing-tutor-app-using-python-6i19734se)
+### [289. Make Your Own Typing Tutor App using Python!](https://hackernoon.com/make-your-own-typing-tutor-app-using-python-6i19734se)
 ![](https://cdn.hackernoon.com/drafts/aw18734qb.png)
 When normal people want to learn typing, they use softwares like Typing master. But since we are programmers, we can use our knowledge to write our own typing tutor app. Python, as always will be best for this purpose as it is easy to understand and provides a lot of libraries for our specific purpose. So lets begin!
+
+### [290. How To Start A Billion Dollar “Unicorn” Startup](https://hackernoon.com/how-to-start-a-billion-dollar-unicorn-startup-42605ace685c)
+![](https://cdn.hackernoon.com/hn-images/1*Md2Dl4XKIhmIBYmoL1ox2A.jpeg)
+I’m not a smart man. BUT…. I started two of the biggest websites on the internet. My first one, Genius aka “Rap Genius” tells you what lyrics mean. The new one, Everipedia, is Wikipedia built on a cryptocurrency called “IQ” that rewards you for educating the masses.
 
 ### [291. Best Fintech Startup Ideas of 2019](https://hackernoon.com/best-fintech-startup-ideas-of-2019-yzyj3ysy)
 ![](https://cdn.hackernoon.com/drafts/141043ym9.png)
@@ -1216,17 +1218,17 @@ You still got your android phone, but been eyeing Airpods for a while?
 ![](https://cdn.hackernoon.com/images/t9mk122d.jpg)
 Originally published on melvinkoh.me 
 
-### [301. Why is Python Used for Machine Learning?](https://hackernoon.com/why-python-used-for-machine-learning-u13f922ug)
-![](https://cdn.hackernoon.com/images/tv392249.jpg)
-Machine learning has become the boon for the IT industry. Now, AI and MI are not a science fiction idea as it has evolved to reality. AI helps in doing the work, which is impossible to do manually. 
-
-### [302. Six tips to set up a better HTML document](https://hackernoon.com/six-tips-to-set-up-a-better-html-document-ud1033z3z)
+### [301. Six tips to set up a better HTML document](https://hackernoon.com/six-tips-to-set-up-a-better-html-document-ud1033z3z)
 ![](https://cdn.hackernoon.com/images/u311o3zq5.jpg)
 My first attempt on learning HTML was by myself, through The Odin Project. It was really nice! Great readings, helpful tutorials, and fun projects. My first website was a clone from Google’s homepage, and I got very excited. After about two months of learning front-end languages, I rebuilt this first project and thought that I was already an HTML expert. I couldn’t be more wrong!
 
-### [303. How to use NLP to SQL API?](https://hackernoon.com/how-to-use-nlp-to-sql-api-i31tu30cc)
+### [302. How to use NLP to SQL API?](https://hackernoon.com/how-to-use-nlp-to-sql-api-i31tu30cc)
 ![](https://cdn.hackernoon.com/images/wh2h30sa.jpg)
 Data is useless without the ability to easily get and act on it. The success of future enterprises will combine sophisticated information collection with better user experience, and the Natural Language User Interface comprises much of this user experience.
+
+### [303. Why is Python Used for Machine Learning?](https://hackernoon.com/why-python-used-for-machine-learning-u13f922ug)
+![](https://cdn.hackernoon.com/images/tv392249.jpg)
+Machine learning has become the boon for the IT industry. Now, AI and MI are not a science fiction idea as it has evolved to reality. AI helps in doing the work, which is impossible to do manually. 
 
 ### [304. Why Do Developers Love Working With Google's Go Programming Language?](https://hackernoon.com/googles-go-programming-language-is-going-places-by-how-far-bwbb3dnl)
 ![](https://cdn.hackernoon.com/drafts/lacy3d3o.png)
@@ -1294,13 +1296,13 @@ Docker might be an easy solution as an all-in-one tool for setting up a Local De
 ![](https://cdn.hackernoon.com/images/pc1fu3zgh.jpg)
 To those in the West, internet censorship is often thought of as something that happens ‘elsewhere’ - China or other despotic authoritarian regimes. But increasingly overbearing government regulations have begun to threaten internet freedoms in the West too.
 
-### [320. A simple Event-Sourcing Example Using Lambda and DynamoDB [Includes Snapshots]](https://hackernoon.com/a-simple-event-sourcing-example-with-snapshots-using-lambda-and-dynamodb-kfvu3ry9)
-![](https://cdn.hackernoon.com/drafts/nvy03rh2.png)
-Recently, I have been helping a client implement an event-sourced system. In the process, I put together a very simple demo app which is available on GitHub here.
-
-### [321. What are the benefits of using Firebase for your Mobile App? [Faster and Better](https://hackernoon.com/what-are-the-benefits-of-using-firebase-for-your-mobile-app-faster-and-better-tfii3466)
+### [320. What are the benefits of using Firebase for your Mobile App? [Faster and Better](https://hackernoon.com/what-are-the-benefits-of-using-firebase-for-your-mobile-app-faster-and-better-tfii3466)
 ![](https://cdn.hackernoon.com/drafts/onjx34gw.png)
 As you start planing to develop your Mobile app, One of the question that arises in many peoples mind is that what to use for backend of App? or What to use to store the data of App like users data or any other type of data that app needs to function. 
+
+### [321. A simple Event-Sourcing Example Using Lambda and DynamoDB [Includes Snapshots]](https://hackernoon.com/a-simple-event-sourcing-example-with-snapshots-using-lambda-and-dynamodb-kfvu3ry9)
+![](https://cdn.hackernoon.com/drafts/nvy03rh2.png)
+Recently, I have been helping a client implement an event-sourced system. In the process, I put together a very simple demo app which is available on GitHub here.
 
 ### [322. Linear Regression and its Mathematical implementation](https://hackernoon.com/linear-regression-and-its-mathematical-implementation-sc1ql24o8)
 ![](https://cdn.hackernoon.com/images/h31rz24si.jpg)
@@ -1326,13 +1328,13 @@ I made a new app/service that lets users summarize the deluge of info that comes
 ![](https://cdn.hackernoon.com/images/ln1d3zjf.jpg)
 As we head towards the close of 2019, Rohit and I recently sat down to discuss the year that has been for cryptocurrencies and what it has meant for the industry in general. A major trend this year has been the emergence of new financing avenues through DeFi (Decentralized Finance), and regulatory interest in Stablecoins and government-backed CBDCs (Central Bank Digital Currencies). Consequently, it has led to an influx of new participants (both individuals and institutions) making their first plunge into crypto. 
 
-### [328. Smoke Your Server Using Goroutines](https://hackernoon.com/smoke-your-server-using-goroutines-zau32au)
-![](https://cdn.hackernoon.com/drafts/tqgc3293.png)
-We all want to test our servers and the latency induced by scale. There are different ways to do that one way would be to use postman to send multiple requests. But how do I send concurrent requests? Say I want to a million requests with different levels of concurrency. This can be easily achieved by leveraging the power of Goroutines.
-
-### [329. Apple Cements the Unlikely Rise of Web Components](https://hackernoon.com/apple-cements-the-unlikely-rise-of-web-components-6b1d3g1t)
+### [328. Apple Cements the Unlikely Rise of Web Components](https://hackernoon.com/apple-cements-the-unlikely-rise-of-web-components-6b1d3g1t)
 ![](https://cdn.hackernoon.com/images/ylp32zm.jpg)
 Last month, Apple announced the release of the new beta Apple Music Web Client, giving Apple Music customers the ability to listen to their favorite music from the web instead of only through an installed native app.
+
+### [329. Smoke Your Server Using Goroutines](https://hackernoon.com/smoke-your-server-using-goroutines-zau32au)
+![](https://cdn.hackernoon.com/drafts/tqgc3293.png)
+We all want to test our servers and the latency induced by scale. There are different ways to do that one way would be to use postman to send multiple requests. But how do I send concurrent requests? Say I want to a million requests with different levels of concurrency. This can be easily achieved by leveraging the power of Goroutines.
 
 ### [330. All You Need to Know about Hacker Noon's Transition Off Medium's Software](https://hackernoon.com/all-you-need-to-know-about-hacker-noon-vs-medium-t0fg3zz4)
 ![](https://cdn.hackernoon.com/images/dkbp34po.jpg)
@@ -1358,13 +1360,13 @@ The purpose of this post is to implement and understand Google Deepmind’s pape
 ![](https://cdn.hackernoon.com/drafts/t11m3ds0.png)
 In this post, we’ll go through 3 different periods of the CMS evolution. For each period, we’ll explore the most popular solution(s), their stack, and also how the current market trends are looking like for them. 
 
-### [336. How to Launch a Successful Multi-Vendor E-commerce Marketplace](https://hackernoon.com/how-to-launch-a-successful-multi-vendor-ecommerce-marketplace-3adb4472ecbe)
-![](https://cdn.hackernoon.com/images/oy1v3wgb.jpg)
-Search Google for the highest revenue-generating e-commerce stores, you’ll find names like Amazon, eBay, Walmart, Airbnb, etc. All these online stores work on different business models but the one common thing among them is that they are all multi-vendor marketplaces.
-
-### [337. 6 User Story Mistakes That Cause Confusion During Product Development](https://hackernoon.com/mistakes-product-managers-make-when-writing-user-stories-w71c3tur)
+### [336. 6 User Story Mistakes That Cause Confusion During Product Development](https://hackernoon.com/mistakes-product-managers-make-when-writing-user-stories-w71c3tur)
 ![](https://cdn.hackernoon.com/images/7ws324o.jpg)
 Everyone wants to go Agile today. Teams want to put the user in the center of their product development process while building products. After all, you are building the product for your users, right? 
+
+### [337. How to Launch a Successful Multi-Vendor E-commerce Marketplace](https://hackernoon.com/how-to-launch-a-successful-multi-vendor-ecommerce-marketplace-3adb4472ecbe)
+![](https://cdn.hackernoon.com/images/oy1v3wgb.jpg)
+Search Google for the highest revenue-generating e-commerce stores, you’ll find names like Amazon, eBay, Walmart, Airbnb, etc. All these online stores work on different business models but the one common thing among them is that they are all multi-vendor marketplaces.
 
 ### [338. Building Your First GraphQL Server](https://hackernoon.com/building-your-first-graphql-server-exbh3wpq)
 ![](https://cdn.hackernoon.com/drafts/0i1ej351j.png)
@@ -1436,13 +1438,13 @@ Should we choose a model that gives a flawed but mostly usable coefficient, or s
 ![](https://cdn.hackernoon.com/drafts/q62q3z3h.png)
 Recently, online gifting has become a hot topic in many media. Journalists and bloggers are discussing the new potential market, its volume, and emerging trends. I decided to tap into the subject as well and study some numbers, global problems to be solved there, and what technologies can do it. Let's go!
 
-### [355. GitHub's 32 Most Popular Ruby on Rails Repositories ( July 2019 )](https://hackernoon.com/32-most-popular-rails-repositories-on-github-in-july-2019-t5193yoh)
-![](https://cdn.hackernoon.com/images/7u3b3y2i.jpg)
-This is the list of the most interesting and useful Ruby on Rails open source projects on GitHub collected on July 22. The key criterion I was following while completing my list, was the buzz around the project, its purpose, and prospects, and the date of the update to make sure that the project is still in work and in use.
-
-### [356. Getting Started with the Weaviate Vector Search Engine](https://hackernoon.com/getting-started-with-the-weaviate-search-graph-673q32xn)
+### [355. Getting Started with the Weaviate Vector Search Engine](https://hackernoon.com/getting-started-with-the-weaviate-search-graph-673q32xn)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ft82rav.jpeg)
 Everybody who works with data in any way shape or form knows that one of the most important challenges is searching for the correct answers to your questions. There is a whole set of excellent (open source) search engines available but there is one thing that they can’t do, search and related data based on context.
+
+### [356. GitHub's 32 Most Popular Ruby on Rails Repositories ( July 2019 )](https://hackernoon.com/32-most-popular-rails-repositories-on-github-in-july-2019-t5193yoh)
+![](https://cdn.hackernoon.com/images/7u3b3y2i.jpg)
+This is the list of the most interesting and useful Ruby on Rails open source projects on GitHub collected on July 22. The key criterion I was following while completing my list, was the buzz around the project, its purpose, and prospects, and the date of the update to make sure that the project is still in work and in use.
 
 ### [357. Augmented Reality vs. Mixed Reality vs. Virtual Reality](https://hackernoon.com/augmented-reality-vs-mixed-reality-vs-virtual-reality-ik8730gv)
 ![](https://cdn.hackernoon.com/drafts/s561304v.png)
@@ -1524,17 +1526,17 @@ If you'll go to the official React website it says that the recommended way to u
 ![](https://cdn.hackernoon.com/drafts/mig33848.png)
 
 
-### [377. The Frightening Truth Behind Mind Control and Social Media [Halloween Special]](https://hackernoon.com/looking-for-a-spook-the-frightening-truth-behind-mind-control-and-social-media-matters-of-the-mind-bep32sx)
-![](https://cdn.hackernoon.com/drafts/1d2r3zyk.png)
-
-Let’s talk about the elephant in the room…
-
-### [378. How I Got Myself FIRED as a Software Developer and How You Can Do It Too](https://hackernoon.com/how-to-get-fired-as-a-software-developer-ow1m3z22)
+### [377. How I Got Myself FIRED as a Software Developer and How You Can Do It Too](https://hackernoon.com/how-to-get-fired-as-a-software-developer-ow1m3z22)
 ![](https://cdn.hackernoon.com/drafts/ngt3zd8.png)
 — Hey
 — Hi, yeah, so because of budget constraints we decided to replace you
 — Uhm, ok
 — Ok, thanks
+
+### [378. The Frightening Truth Behind Mind Control and Social Media [Halloween Special]](https://hackernoon.com/looking-for-a-spook-the-frightening-truth-behind-mind-control-and-social-media-matters-of-the-mind-bep32sx)
+![](https://cdn.hackernoon.com/drafts/1d2r3zyk.png)
+
+Let’s talk about the elephant in the room…
 
 ### [379. Is MicroVision Helping to Power Microsoft's HoloLens 2? ](https://hackernoon.com/is-microvision-helping-to-power-microsofts-hololens-2-wfcm3291)
 ![](https://images.unsplash.com/photo-1506031765313-0bc574a405f0?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -1572,33 +1574,33 @@ What's Your Background, and How Did That Lead You to Your Current Role?
 ![](https://cdn.hackernoon.com/images/u72vu31c3.jpg)
 Summary
 
-### [388. A Comprehensive Primer on Artificial Intelligence: Potential and Risks of Robots](https://hackernoon.com/how-artificial-intelligence-is-going-to-change-our-lives-48458706f6a)
+### [388. Character AI in 2025: A Practical Guide and Comparison With ChatGPT, Gemini, & More](https://hackernoon.com/character-ai-in-2025-a-practical-guide-and-comparison-with-chatgpt-gemini-and-more)
+![](https://cdn.hackernoon.com/images/Pf6G3APRqzdDNuJYT4ZxDSEFUkI2-ccf38b2.png)
+Character AI lets you build and chat with AI personas—but how useful is it really? This guide covers its features, flaws, and how it stacks up against tools.
+
+### [389. A Comprehensive Primer on Artificial Intelligence: Potential and Risks of Robots](https://hackernoon.com/how-artificial-intelligence-is-going-to-change-our-lives-48458706f6a)
 ![](https://cdn.hackernoon.com/hn-images/0*-7tj5kDLi9vHj0_E)
 You are most probably reading this article on a smartphone or a computer. When you ask the time by just saying “what’s the time” to Siri on iPhone or to Google Assistant on Android or Cortana on Windows, you are using artificial intelligence. In the last ten years, improvements in artificial intelligence have been quite significant. But more are coming.
 
-### [389. 8 Offline Marketing Techniques to Boost Your Sales!](https://hackernoon.com/8-offline-marketing-techniques-to-boost-your-sales-d898r2yz2)
+### [390. 8 Offline Marketing Techniques to Boost Your Sales!](https://hackernoon.com/8-offline-marketing-techniques-to-boost-your-sales-d898r2yz2)
 ![](https://cdn.hackernoon.com/images/f06l2yhn.jpg)
 Image credit
 
-### [390. Understanding React (Routing) with your Angular Knowledge](https://hackernoon.com/understanding-react-routing-with-your-angular-knowledge-j318s3qaw)
+### [391. Understanding React (Routing) with your Angular Knowledge](https://hackernoon.com/understanding-react-routing-with-your-angular-knowledge-j318s3qaw)
 ![](https://cdn.hackernoon.com/images/dbo3qw4.jpg)
 Welcome to my React learning guide if you’re an Angular developer. On this series, I’ll provide you all the steps to develop the “Getting Started with Angular: Your First App” using React.
 
-### [391. How to Implement Singly Linked List with Ruby](https://hackernoon.com/implementing-singly-linked-list-with-ruby-om2df3ya6)
+### [392. How to Implement Singly Linked List with Ruby](https://hackernoon.com/implementing-singly-linked-list-with-ruby-om2df3ya6)
 ![](https://cdn.hackernoon.com/drafts/8s2eu3yyj.png)
 A list is a collection of elements. A linked List is a list in which each element in the list contains both data and a pointer to one or both neighboring items. Linked List is made up of elements(nodes) which are connected doubly or singly. When the nodes are connected doubly, we refer to such a list  as a doubly-linked list. However, a singly linked list is a sequence of the element where the first node links to the second and the second links to the third and so on in one direction… On the other hand, a singly-linked list has nodes with pointers which always point to the next element in the list. This discussion  focus on singly-linked list. Doubly-linked list  would be discussed in my subsequent article.
 
-### [392. Get the Latest Tech stories via Hacker Noon RSS](https://hackernoon.com/latest-tech-stories-3vin34bd)
+### [393. Get the Latest Tech stories via Hacker Noon RSS](https://hackernoon.com/latest-tech-stories-3vin34bd)
 ![](https://cdn.hackernoon.com/images/dd1x34bx.jpg)
 available via the Hacker Noon RSS (Really Simple Syndication): 
 
-### [393. Best IP Address Intelligence and WHOIS Service Providers with Databases and Lookup Tools](https://hackernoon.com/best-ip-address-intelligence-and-whois-service-providers-with-databases-and-lookup-tools-sk1b32wp)
+### [394. Best IP Address Intelligence and WHOIS Service Providers with Databases and Lookup Tools](https://hackernoon.com/best-ip-address-intelligence-and-whois-service-providers-with-databases-and-lookup-tools-sk1b32wp)
 ![](https://cdn.hackernoon.com/drafts/mq11332mr.png)
 When you need to detect and block threats so they can’t enter and affect your network, IP and domain intelligence solutions can provide exhaustive lists of IP addresses and domain names that may serve as attack vectors. When used correctly, said solutions can expose insightful details about attackers and their infrastructures and help counter threats such as:
-
-### [394. Character AI in 2025: A Practical Guide and Comparison With ChatGPT, Gemini, & More](https://hackernoon.com/character-ai-in-2025-a-practical-guide-and-comparison-with-chatgpt-gemini-and-more)
-![](https://cdn.hackernoon.com/images/Pf6G3APRqzdDNuJYT4ZxDSEFUkI2-ccf38b2.png)
-Character AI lets you build and chat with AI personas—but how useful is it really? This guide covers its features, flaws, and how it stacks up against tools.
 
 ### [395. Telepresence Robots Are the Future of Remote Work – An Interview With Double Robotics](https://hackernoon.com/telepresence-robots-are-the-future-for-remote-workers-an-interview-with-double-robotics-0t7b30iw)
 ![](https://cdn.hackernoon.com/drafts/ua6u30cd.png)
@@ -1643,17 +1645,17 @@ Here, we will add another interesting feature which is a counter. What is a 
 ![](https://cdn.hackernoon.com/images/h14sh38a2.jpg)
 Hello guys, today I am going to talk about JUnit and unit testing, one of the key skills for any software developer. You may already know that JUnit and Mockito are two of the most popular testing libraries for Java applications, and you will find them in almost every Java application classpath. 
 
-### [405. Internet Privacy Tools for 2019](https://hackernoon.com/top-10-best-internet-privacy-tools-of-2019-mg603068)
-![](https://cdn.hackernoon.com/images/0t3tp30ot.jpg)
-Updated - 01/13/20
+### [405. Reasons Behind Creating A Website with Black Background](https://hackernoon.com/reasons-behind-creating-a-website-with-black-background-e1d23yd4)
+![](https://cdn.hackernoon.com/images/2m2ky3ywo.jpg)
+Black has always been—if not the most popular design color—the color which designers talk about the most. It is sophisticated, energetic, mysterious, elegant, powerful, stylish, and the complete opposite of the default white.
 
 ### [406. Shelf Labels In Dynamics 365 For Finance and Operations](https://hackernoon.com/shelf-labels-in-dynamics-365-for-finance-and-operations-k9q32mi)
 ![](https://cdn.hackernoon.com/drafts/m1i320f.png)
 Shelf label is nothing but labels to put on a rack or a shelf where an item is stored. These labels are printed and put on store rack or shelf.  For example, when you go to a supermarket you can see labels are displayed with various information where the product is stored.
 
-### [407. Reasons Behind Creating A Website with Black Background](https://hackernoon.com/reasons-behind-creating-a-website-with-black-background-e1d23yd4)
-![](https://cdn.hackernoon.com/images/2m2ky3ywo.jpg)
-Black has always been—if not the most popular design color—the color which designers talk about the most. It is sophisticated, energetic, mysterious, elegant, powerful, stylish, and the complete opposite of the default white.
+### [407. Internet Privacy Tools for 2019](https://hackernoon.com/top-10-best-internet-privacy-tools-of-2019-mg603068)
+![](https://cdn.hackernoon.com/images/0t3tp30ot.jpg)
+Updated - 01/13/20
 
 ### [408. My App Lets You Sort your Music by Mood [with some help from Spotify's Web API]](https://hackernoon.com/how-to-use-spotifys-web-api-to-sort-your-music-by-mood-tcfd3qbt)
 ![](https://cdn.hackernoon.com/images/ll303qlv.jpg)
@@ -1693,13 +1695,13 @@ So you want to become a data scientist? You have heard so much about data scienc
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKmt2h6pCM6hahhfBJVS4z0H2QtG2-tn2z3xka.jpeg?alt=media&token=d867991a-7e90-4d85-a3e9-5b728e4b7612)
 About two and a half years back, Abhijoy and I reconnected over our mutual interest in cryptocurrencies after almost a decade of lost contact. As we discussed various technologies and related topics which intrigued us in crypto, a recurring theme was “where do you track your portfolio?”. 
 
-### [417. This Bull Run is Fundamentally Different Than the Previous One. Here’s Why](https://hackernoon.com/this-bull-run-is-fundamentally-different-than-the-previous-one-heres-why-tdr03vxg)
-![](https://cdn.hackernoon.com/images/5f193wvl.jpg)
-Everyone knows about the time in 2017 and early 2018 when bitcoin hit over $20,000 USD and Ethereum was sitting nicely at $1,300+. In fact, the total market cap for coins and tokens listed on CoinMarketCap, had just ticked over $800,000,000,000. Everyone was going to be a millionaire.
-
-### [418. Is e-Estonia Built on Blockchain Technologies? [Fact Check]](https://hackernoon.com/e-estonia-is-not-on-blockchain-22iy2gx6)
+### [417. Is e-Estonia Built on Blockchain Technologies? [Fact Check]](https://hackernoon.com/e-estonia-is-not-on-blockchain-22iy2gx6)
 ![](https://cdn.hackernoon.com/images/5i2y92gha.jpg)
 Or is there more to it?
+
+### [418. This Bull Run is Fundamentally Different Than the Previous One. Here’s Why](https://hackernoon.com/this-bull-run-is-fundamentally-different-than-the-previous-one-heres-why-tdr03vxg)
+![](https://cdn.hackernoon.com/images/5f193wvl.jpg)
+Everyone knows about the time in 2017 and early 2018 when bitcoin hit over $20,000 USD and Ethereum was sitting nicely at $1,300+. In fact, the total market cap for coins and tokens listed on CoinMarketCap, had just ticked over $800,000,000,000. Everyone was going to be a millionaire.
 
 ### [419. Como instalar VS Code en Ubuntu 18.04.1 LTS](https://hackernoon.com/como-instalar-vs-code-en-ubuntu-18041-lts-k21h321l)
 ![](https://cdn.hackernoon.com/images/dh1hy2djp.jpg)
@@ -1754,13 +1756,13 @@ The Domain Name System (DNS) as the Internet’s phonebook makes an online entit
 ![](https://cdn.hackernoon.com/images/yjr3zrq.jpg)
 As we know with great power comes great responsibility, on-demand backups are the real saviour if your Dynamo DB got corrupted abruptly. Also, it helps you to meet the compliance requirements for the ages if your client keeps bothering you like your Ex. But I don't have the tenacity to initiate the Backup every day. Hence, I devise a Serverless solution for all the lazy people like me out there to automate the DynamoDB backup. Where, we can explicitly mention the backup intervals, table names and backup retention period. I have achieved this using a conjunction of AWS services like Cloudformation, Lambda and Cloudwatch. 
 
-### [432. OpenJDK Planning to Bring Java to iOS Platform](https://hackernoon.com/openjdk-planning-to-bring-java-to-ios-platform-g5cpu3zvl)
-![](https://cdn.hackernoon.com/images/4nb023zgt.jpg)
-After the announcement of plugins of Gluon Client that support JavaFX & Java on the iPhone devices, co-founder of Gluon and Java Champion, Johan Vos, starts a mailing list, rebooting the discussion of OpenJDK mobile! Let’s have a look at the news on mobile Java front.
-
-### [433. Enabling Virtuals In Mongoose Lean Mode (in a FeathersJs service)](https://hackernoon.com/enabling-virtuals-in-mongoose-lean-mode-in-a-feathersjs-service-99d9ed1c9170)
+### [432. Enabling Virtuals In Mongoose Lean Mode (in a FeathersJs service)](https://hackernoon.com/enabling-virtuals-in-mongoose-lean-mode-in-a-feathersjs-service-99d9ed1c9170)
 ![](https://cdn.hackernoon.com/drafts/gjlx12qo.png)
 Originally published at melvinkoh.me 
+
+### [433. OpenJDK Planning to Bring Java to iOS Platform](https://hackernoon.com/openjdk-planning-to-bring-java-to-ios-platform-g5cpu3zvl)
+![](https://cdn.hackernoon.com/images/4nb023zgt.jpg)
+After the announcement of plugins of Gluon Client that support JavaFX & Java on the iPhone devices, co-founder of Gluon and Java Champion, Johan Vos, starts a mailing list, rebooting the discussion of OpenJDK mobile! Let’s have a look at the news on mobile Java front.
 
 ### [434. Top Product Development Companies (USA & Europe)](https://hackernoon.com/top-product-development-companies-usa-and-europe-9hct3w6c)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-lp82roj.jpeg)
@@ -1786,13 +1788,13 @@ Photo by cloudvisual.co.uk on Unsplash
 ![](https://cdn.hackernoon.com/images/d82i3xtb.jpg)
 People generally think one of the best ways to make money with cryptocurrency is by exchanging or trading them. The fact that the value of the Bitcoin has risen by 10000% since its inception is quite a lucrative proposition for any person seeking to make money.
 
-### [440. Trading Bots vs Humans · Everything you need to know](https://hackernoon.com/trading-bots-vs-humans-everything-you-need-to-know-2k1pfp3zmx)
-![](https://cdn.hackernoon.com/images/mgwv33zsy.jpg)
-Over the past 10 years we've seen the rise and rise of trading bots and Quantitative Funds and we've seen the fall and fall of traditional Asset Managers and Hedge Funds.
-
-### [441. 10 Lessons Startups Can Learn from Instacart’s Growth](https://hackernoon.com/10-lessons-startups-can-learn-from-instacarts-growth-0i1f3wkr)
+### [440. 10 Lessons Startups Can Learn from Instacart’s Growth](https://hackernoon.com/10-lessons-startups-can-learn-from-instacarts-growth-0i1f3wkr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGTa5ej5plAVtWsiam81ThId9crP2-0h2n3wsm.jpeg?alt=media&token=ea759000-b5db-4b2f-9253-c6e849f431e1)
 In 2014, when Instacart launched, nobody imagined that the newly started grocery delivery and pickup service would grow to become the toughest rival of Amazon and DoorDash in the U.S. and Canada. With robust marketing strategies and appealing business plans, Instacart is making headlines in the grocery delivery business segment. 
+
+### [441. Trading Bots vs Humans · Everything you need to know](https://hackernoon.com/trading-bots-vs-humans-everything-you-need-to-know-2k1pfp3zmx)
+![](https://cdn.hackernoon.com/images/mgwv33zsy.jpg)
+Over the past 10 years we've seen the rise and rise of trading bots and Quantitative Funds and we've seen the fall and fall of traditional Asset Managers and Hedge Funds.
 
 ### [442. Crypto Fundamental Analysis, Part II](https://hackernoon.com/crypto-fundamental-analysis-part-ii-ix7fe31e3)
 ![](https://cdn.hackernoon.com/drafts/xi5wq31j1.png)
@@ -1810,15 +1812,15 @@ With over 9 million transactions AdEx Network is currently the largest payment c
 ![](https://cdn.hackernoon.com/images/6dts289v.jpg)
 Stuxnet represents the pinnacle of coding design. This small computer worm, just a half a megabyte in size, managed to infiltrate Iran’s nuclear facilities and destroy about one-fifth of uranium enrichment centrifuges. Furthermore, it was done in such a specific way to prevent political unrest, at least at the level of open conflict.
 
-### [446. 5 Best AI Articles of the Month ](https://hackernoon.com/5-best-ai-articles-of-the-month)
+### [446. Let's Automate Version Number Updates - NOT!](https://hackernoon.com/lets-automate-version-number-updates-not-a91q3x7n)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-wpw28cr.jpeg?alt=media&token=607179ec-5a87-41bc-b4d8-8bbc67d69fb0)
+Say you need to update (bump) your software. It’s currently at version 1.2, all the required changes have been merged, and it’s time to publish version 1.3. That’s really easy, right? Change the version in one file, commit, tag, and push. Done!
+
+### [447. 5 Best AI Articles of the Month ](https://hackernoon.com/5-best-ai-articles-of-the-month)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-ova3fpk.jpeg)
 
 Here are the five best articles related to artificial intelligence in May posted on Hackernoon.
  
-
-### [447. Let's Automate Version Number Updates - NOT!](https://hackernoon.com/lets-automate-version-number-updates-not-a91q3x7n)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-wpw28cr.jpeg?alt=media&token=607179ec-5a87-41bc-b4d8-8bbc67d69fb0)
-Say you need to update (bump) your software. It’s currently at version 1.2, all the required changes have been merged, and it’s time to publish version 1.3. That’s really easy, right? Change the version in one file, commit, tag, and push. Done!
 
 ### [448. WTF is an SPV and Why Satoshi put it in the Bitcoin Whitepaper](https://hackernoon.com/spv-proofs-explained-qd1p3r1q)
 ![](https://cdn.hackernoon.com/images/fg11320k.jpg)
@@ -1856,13 +1858,13 @@ The choice of which framework to use while developing an application depends on 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fbn0zosRtSlgvCHtl7gZX9jN1J0s1-ad303ugj.jpeg?alt=media&token=a3ecabc8-abad-4b8b-a0f7-050a3ae7e62a)
 Social commerce is the fastest-growing segment within the relatively mature e-commerce segment in China. Pinduoduo does almost $145B in annual GMV on top of sales by Alibaba and JD. 
 
-### [457. We Tried Hacking Telegram's Cryptocurrency TON For 3 Straight Weeks [Part I]](https://hackernoon.com/while-ton-is-under-sec-attack-we-were-hacking-for-3-weeks-on-tons-contest-part-1-ll2830ff)
-![](https://cdn.hackernoon.com/images/tan5307p.jpg)
-Summary of https://contest.com/blockchain from BUTTON Wallet Team
-
-### [458. Video Chatting Might Lead You to Identity Theft and Scams](https://hackernoon.com/how-to-stay-private-on-video-chat-pc5n2g0y)
+### [457. Video Chatting Might Lead You to Identity Theft and Scams](https://hackernoon.com/how-to-stay-private-on-video-chat-pc5n2g0y)
 ![](https://cdn.hackernoon.com/images/lb1a632o0.jpg)
 One might think that the internet was designed for the consumer to remain anonymous and share their ideas without any censorship. But it isn’t the case anymore, especially since the abrupt commercialization of the technology and the rise of social media, which has paved the way for big corporations and regimes to take note of user data and activity, like never before. 
+
+### [458. We Tried Hacking Telegram's Cryptocurrency TON For 3 Straight Weeks [Part I]](https://hackernoon.com/while-ton-is-under-sec-attack-we-were-hacking-for-3-weeks-on-tons-contest-part-1-ll2830ff)
+![](https://cdn.hackernoon.com/images/tan5307p.jpg)
+Summary of https://contest.com/blockchain from BUTTON Wallet Team
 
 ### [459. Installing KALI LINUX on a Virtual Machine [A Step by Step Guide]](https://hackernoon.com/kali-linux-on-virtual-machine-al3y30wy)
 ![](https://cdn.hackernoon.com/drafts/cci3230b4.png)
@@ -1900,29 +1902,29 @@ Canonical just did a very interesting thing to the venerable SQLite, one of the 
 ![](https://cdn.hackernoon.com/drafts/7p1mn330q4.png)
 In a perfect world we’d always have a fast, reliable network connection on our mobile devices. Unfortunately, whether you’re driving through the middle of nowhere, surrounded by thousands of other people using their phones, or even in an area that should be a prime location for data, it’s inevitable that you’ll encounter connectivity issues. Luckily, problems like this can be mitigated by storing data locally. 
 
-### [468. How ERP Bridge Can Push Your Business To The Next Level](https://hackernoon.com/how-erp-bridge-can-push-your-business-to-the-next-level-uu9q32tv)
-![](https://cdn.hackernoon.com/drafts/bl1b326e.png)
-Running a business can be a major headache. After all, you’re required to juggle multiple tasks simultaneously. This can make your job significantly difficult. If you’re not careful, you’re going to find yourself overwhelmed with your daily duties. 
+### [468. Untangling - IAM Policy, S3 Bucket Policy & S3 ACL](https://hackernoon.com/untangling-iam-policy-s3-bucket-policy-and-s3-acl)
+![](https://cdn.hackernoon.com/images/FmTsksb9GKgyE1gsS7okfkihN683-mp337zt.jpeg)
+Demystify AWS IAM, S3 Bucket policy and Access Control Lists. Learn to configure these from scratch
 
 ### [469. These Four DevOps Practices Aren't Being Talked About Enough](https://hackernoon.com/these-four-devops-practices-arent-being-talked-about-enough)
 ![](https://cdn.hackernoon.com/images/beNbaikE6KYviWW6DkfP7JIjc7i2-6e530us.png)
 Take a look at these four DevOps best practices devs don't talk about.
 
-### [470. Untangling - IAM Policy, S3 Bucket Policy & S3 ACL](https://hackernoon.com/untangling-iam-policy-s3-bucket-policy-and-s3-acl)
-![](https://cdn.hackernoon.com/images/FmTsksb9GKgyE1gsS7okfkihN683-mp337zt.jpeg)
-Demystify AWS IAM, S3 Bucket policy and Access Control Lists. Learn to configure these from scratch
+### [470. How ERP Bridge Can Push Your Business To The Next Level](https://hackernoon.com/how-erp-bridge-can-push-your-business-to-the-next-level-uu9q32tv)
+![](https://cdn.hackernoon.com/drafts/bl1b326e.png)
+Running a business can be a major headache. After all, you’re required to juggle multiple tasks simultaneously. This can make your job significantly difficult. If you’re not careful, you’re going to find yourself overwhelmed with your daily duties. 
 
 ### [471. HTML & CSS: How to Gain Programming Confidence as a Beginner?](https://hackernoon.com/html-and-css-building-confidence-programming-as-a-beginner-443r9329j)
 ![](https://cdn.hackernoon.com/drafts/ews3250.png)
 Hint to Understanding Proper Element Positioning
 
-### [472. Top 20 AI & Machine Learning Companies In USA & India 2019 Edition](https://hackernoon.com/top-9-ways-artificial-intelligence-is-reinventing-human-resources-8a3l23184)
-![](https://cdn.hackernoon.com/images/c17wt21q9.jpg)
-Need to find the best Artificial Intelligence/Machine Learning companies in India?
-
-### [473. Evaluating Cloud Backup Solutions: AWS vs. Azure vs. Google Cloud](https://hackernoon.com/examining-cloud-backup-solutions-aws-vs-azure-vs-google-cloud-kq6f944v1)
+### [472. Evaluating Cloud Backup Solutions: AWS vs. Azure vs. Google Cloud](https://hackernoon.com/examining-cloud-backup-solutions-aws-vs-azure-vs-google-cloud-kq6f944v1)
 ![](https://cdn.hackernoon.com/drafts/kzaok44kx.png)
 Source: Pixabay
+
+### [473. Top 20 AI & Machine Learning Companies In USA & India 2019 Edition](https://hackernoon.com/top-9-ways-artificial-intelligence-is-reinventing-human-resources-8a3l23184)
+![](https://cdn.hackernoon.com/images/c17wt21q9.jpg)
+Need to find the best Artificial Intelligence/Machine Learning companies in India?
 
 ### [474. How To Compare Documents Similarity using Python and NLP Techniques](https://hackernoon.com/compare-documents-similarity-using-python-or-nlp-0u3032eo)
 ![](https://cdn.hackernoon.com/images/k72pj32ba.jpg)
@@ -1932,13 +1934,13 @@ In this post we are going to build a web application which will compare the simi
 ![](https://cdn.hackernoon.com/images/gu193zm7.jpg)
 You like asynchronous programming, and appreciate the elegance of await, tasks and similar  in making asynchronous programming more intuitive and understandable and while all is good, you will likely find that async debugging  is quite tough!
 
-### [476. All Cryptocurrency Exchanges Fail for the Same Reason](https://hackernoon.com/all-cryptocurrency-exchanges-fail-for-the-same-reason-5ds38s8)
-![](https://cdn.hackernoon.com/images/p3n389y.jpg)
-There’s a major contradiction in the cryptocurrency world right now. The invention of Bitcoin was supposed to bring about the new age of finance; one with trustless transactions, frictionless cross-border transactions, and censorship-proof Internet cash. 
-
-### [477. Interview With Kristof De Spiegeleer: We Need a New Internet Which is Not Owned by a Few](https://hackernoon.com/interview-with-kristof-de-spiegeleer-ec1544dq)
+### [476. Interview With Kristof De Spiegeleer: We Need a New Internet Which is Not Owned by a Few](https://hackernoon.com/interview-with-kristof-de-spiegeleer-ec1544dq)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6982qp1.jpeg)
 Kristof De Spiegeleer is a serial entrepreneur who is the co-founder and chairman of the ThreeFold Foundation, where he is building the next generation of IT infrastructure, leveraging the power of the blockchain.
+
+### [477. All Cryptocurrency Exchanges Fail for the Same Reason](https://hackernoon.com/all-cryptocurrency-exchanges-fail-for-the-same-reason-5ds38s8)
+![](https://cdn.hackernoon.com/images/p3n389y.jpg)
+There’s a major contradiction in the cryptocurrency world right now. The invention of Bitcoin was supposed to bring about the new age of finance; one with trustless transactions, frictionless cross-border transactions, and censorship-proof Internet cash. 
 
 ### [478. How To Handle Form and Validation with React?](https://hackernoon.com/how-to-handle-form-and-validation-with-react-9v143yfs)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZhjIbvXP3nepA31GUobJFO0r40C3-aok2con.png?alt=media&token=8198199e-5bf5-44dc-b0a6-5caa159f6ddf)
@@ -2000,17 +2002,17 @@ The online food delivery industry is growing in leaps and bounds as it offers a 
 ![](https://cdn.hackernoon.com/drafts/2917238nx.png)
 Team productivity drives success to companies in all industries. The role of the team leader is to help the team achieve better results without a professional burning-out. How do you increase team productivity and keep a healthy atmosphere in the office?
 
-### [493. Is Decentralized Internet the Future of VPN & TCP/IP?](https://hackernoon.com/decentralized-internet-the-future-of-vpn-and-tcpip-v52gd36gd)
+### [493. What is Inside The Quantum Realm? - 6  Important Points to Remember](https://hackernoon.com/what-is-inside-the-quantum-realm-6-important-points-to-remember)
+![](https://cdn.hackernoon.com/images/zcvweoRwmVTpxqDnjpmRappzvp42-5993enu.jpeg)
+In the quantum realm, we can't define a particle’s definite position or momentum but only its probability. But STM gives us a way around this. 
+
+### [494. Is Decentralized Internet the Future of VPN & TCP/IP?](https://hackernoon.com/decentralized-internet-the-future-of-vpn-and-tcpip-v52gd36gd)
 ![](https://cdn.hackernoon.com/drafts/iss322o.png)
 Internet censorship is a contentious topic all over the world today. While some advocate it as a safety net restricting access to the dark and illegal portions of the internet, others consider it to be merely a tool used by governments and authorities to conceal information from citizens for religious or political purposes. 
 
-### [494. The Black Hat, the Ethical, and the WHOIS Hacker](https://hackernoon.com/the-black-hat-the-ethical-and-the-whois-hacker-e1a16c35839c)
+### [495. The Black Hat, the Ethical, and the WHOIS Hacker](https://hackernoon.com/the-black-hat-the-ethical-and-the-whois-hacker-e1a16c35839c)
 ![](https://cdn.hackernoon.com/drafts/eq1c3zgh.png)
 Not all hackers are bad. Yet when the term “hack” is used in mainstream media, it is often in the context of cybercrime and black hat activities — e.g., some big organization got its intellectual property worth millions stolen, some people lost their personally identifiable information, etc. Data breach stories never run out!
-
-### [495. What is Inside The Quantum Realm? - 6  Important Points to Remember](https://hackernoon.com/what-is-inside-the-quantum-realm-6-important-points-to-remember)
-![](https://cdn.hackernoon.com/images/zcvweoRwmVTpxqDnjpmRappzvp42-5993enu.jpeg)
-In the quantum realm, we can't define a particle’s definite position or momentum but only its probability. But STM gives us a way around this. 
 
 ### [496. Facial Recognition Tech Raises Some Real Ethical Dilemmas](https://hackernoon.com/facial-recognition-tech-raises-some-real-ethical-dilemmas-5f3625e66fd9)
 ![](https://cdn.hackernoon.com/drafts/o3kq3z44.png)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [python-basics](https://hackernoon.com/tagged/python-basics)
+### Let's learn about [Python Basics](https://hackernoon.com/tagged/python-basics) via these 66 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Python basics cover the fundamental concepts and syntax of the Python programming language, essential for beginners to start coding and understanding core programming principles. Mastering these basics is the gateway to leveraging Python's versatility in data science, web development, and automation.
+
 ### [1. How to Read Text File in Python?](https://hackernoon.com/how-to-read-text-file-in-python)
 ![](https://cdn.hackernoon.com/images/OJljH3PJ19XhnfrEjYPYRLg9Y2s2-uu0363o.jpeg)
 Python provides built-in functions to perform file operations, such as creating, reading, and writing into text files.
@@ -91,13 +95,13 @@ Now, we will move on to the next level and take a closer look at variables in Py
 ![](https://cdn.hackernoon.com/images/PA7takFZySUZchMFd41XWPvyvTz1-1f03ciz.jpeg)
 Python is a language known for being modular. It has an extensive standard library and its simple to use syntax facilitates coding in the language.
 
-### [23. Introduction to Tuples in Python](https://hackernoon.com/introduction-to-tuples-in-python)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-hy93oka.png)
-In this guide, we'll cover how to use Tuples, as well as some of the methods and things you'd want to do with them.
-
-### [24. Master the Basics of Python in 20 Minutes](https://hackernoon.com/master-the-basics-of-python-in-20-minutes)
+### [23. Master the Basics of Python in 20 Minutes](https://hackernoon.com/master-the-basics-of-python-in-20-minutes)
 ![](https://cdn.hackernoon.com/images/XXYK3xoQMhPK6WgGxZcfzaaDPnt1-s993l5p.jpeg)
 Discover the essentials of Python programming in this comprehensive review and guide, designed to help you master the basics. Learn about variables, data types,
+
+### [24. Introduction to Tuples in Python](https://hackernoon.com/introduction-to-tuples-in-python)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-hy93oka.png)
+In this guide, we'll cover how to use Tuples, as well as some of the methods and things you'd want to do with them.
 
 ### [25. Learn Python in 8 Weeks: The 80/20 Learning Plan with Videos, Articles, and Practice Exercises](https://hackernoon.com/learn-python-in-8-weeks-the-8020-learning-plan-with-videos-articles-and-practice-exercises)
 ![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-xra22zc.jpeg)
@@ -111,13 +115,13 @@ As with all other languages, Python has variables that can be defined to hold da
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-7de32nd.jpeg)
 A python substring is a sequence of characters within a string, in this article you will learn various operations related to them and how to use them.
 
-### [28. How to Master Strings in Python: A Comprehensive Beginner's Guide](https://hackernoon.com/how-to-master-strings-in-python-a-comprehensive-beginners-guide)
-![](https://cdn.hackernoon.com/images/mCQMNMUuBRQ0LIqGt5Ff1WvWWSL2-lib3ybc.jpeg)
-Learn essential string manipulation in Python with this comprehensive guide.  Support me on HackerNoon
-
-### [29. Implementing Descriptors in Your Python Code ](https://hackernoon.com/implementing-descriptors-in-your-python-code)
+### [28. Implementing Descriptors in Your Python Code ](https://hackernoon.com/implementing-descriptors-in-your-python-code)
 ![](https://cdn.hackernoon.com/images/ql5j5TZB0tU1vWA4EaF6tI4lfED3-pf93kfy.jpeg)
 Descriptors are one of the features that make Python's OOP so unique. They allow for powerful customization of attribute access and manipulation.
+
+### [29. How to Master Strings in Python: A Comprehensive Beginner's Guide](https://hackernoon.com/how-to-master-strings-in-python-a-comprehensive-beginners-guide)
+![](https://cdn.hackernoon.com/images/mCQMNMUuBRQ0LIqGt5Ff1WvWWSL2-lib3ybc.jpeg)
+Learn essential string manipulation in Python with this comprehensive guide.  Support me on HackerNoon
 
 ### [30. A Complete Guide to Python Dictionaries](https://hackernoon.com/a-complete-guide-to-python-dictionaries)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-jtb3peb.png)
@@ -127,13 +131,13 @@ In this guide, we will cover everything you need to know about Python dictionari
 ![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-e9m32v8.jpeg)
 Let’s start this journey of programming with gaining some knowledge on the Python programming language.
 
-### [32. Learn To Code With Nursery Rhymes and Fairy Tales](https://hackernoon.com/learn-to-code-with-nursery-rhymes-and-fairy-tales)
-![](https://cdn.hackernoon.com/images/NLSlxLXGa8Z0kWKlIoM8jdEQdc92-wzf35j7.jpeg)
-Classic nursery rhymes and fairy tales are translated into Python code in my upcoming picture book that teaches Python programming to beginners. 
-
-### [33. A Complete Guide to Python Lists](https://hackernoon.com/a-complete-guide-to-python-lists)
+### [32. A Complete Guide to Python Lists](https://hackernoon.com/a-complete-guide-to-python-lists)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-mda3pvq.jpeg)
 Let's start with some of the basics, and then dive into useful ways you'll be able to work with lists.
+
+### [33. Learn To Code With Nursery Rhymes and Fairy Tales](https://hackernoon.com/learn-to-code-with-nursery-rhymes-and-fairy-tales)
+![](https://cdn.hackernoon.com/images/NLSlxLXGa8Z0kWKlIoM8jdEQdc92-wzf35j7.jpeg)
+Classic nursery rhymes and fairy tales are translated into Python code in my upcoming picture book that teaches Python programming to beginners. 
 
 ### [34. Took - A Twitter Bot that Tweets Books.](https://hackernoon.com/took-a-twitter-bot-that-tweets-books)
 ![](https://cdn.hackernoon.com/images/BJnS3ZvZLxebm9NMhDkaFzobXfl2-vjb3qs3.jpeg)
@@ -147,13 +151,13 @@ These are some best practices in python being followed by the python community
 ![](https://cdn.hackernoon.com/images/rIVD9uGtDyTmdfox8lpMYgJi5AZ2-wy93ubd.jpeg)
 Welcome to A friendly beginners Python 3 Guide: Where to start. I'm thrilled to be your guide on this learning journey. From setting up your Python environment 
 
-### [37. Python List Comprehension Beginner's Guide](https://hackernoon.com/python-list-comprehension-beginners-guide-c21y3wny)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-86383uuo.jpeg?alt=media&token=81720301-34f1-43b7-a107-4a1b35a71f89)
-Today you’re going to learn about python list comprehension, a very powerful feature of python to use when creating a python List based on certain constraints.
-
-### [38. Your Definitive Handbook For Calling a Function in Python](https://hackernoon.com/your-definitive-handbook-for-calling-a-function-in-python)
+### [37. Your Definitive Handbook For Calling a Function in Python](https://hackernoon.com/your-definitive-handbook-for-calling-a-function-in-python)
 ![](https://cdn.hackernoon.com/images/fms5hEAIFUXalFpkFdSTymA0Cmn2-lo932hn.jpeg)
 Want to write and call functions with Python? Here's a complete step by step guide to help you master this skill.
+
+### [38. Python List Comprehension Beginner's Guide](https://hackernoon.com/python-list-comprehension-beginners-guide-c21y3wny)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-86383uuo.jpeg?alt=media&token=81720301-34f1-43b7-a107-4a1b35a71f89)
+Today you’re going to learn about python list comprehension, a very powerful feature of python to use when creating a python List based on certain constraints.
 
 ### [39. The Surprising Case Of Mutable Default Arguments](https://hackernoon.com/the-surprising-case-of-mutable-default-arguments)
 ![](https://cdn.hackernoon.com/images/BJ5EBqiScSRiuFz3a13c8bHN4z02-te128e0.jpeg)
@@ -168,13 +172,13 @@ In this short article we will use `is` keyword and `==` operator to understand t
 Let's talk about 'for' loops and why they are so important! Anything that requires repetition. 'For' loops are your friends!
 
 
-### [42. [Tutorial] Recognize Handwritten Numbers in Python without any ML-Library](https://hackernoon.com/recognize-written-numbers-in-pure-python-without-any-ml-library-zb3m93wyl)
-![](https://cdn.hackernoon.com/drafts/aa3nt3wpz.png)
-This little image classifier is a showcase of how easy it is to create a functional image classifier using just basic python and some easy to use and well-documented libraries. 
-
-### [43. Python for Beginners, Part 14: E-1 Circle of Squares](https://hackernoon.com/python-for-beginners-part-14-e-1-circle-of-squares)
+### [42. Python for Beginners, Part 14: E-1 Circle of Squares](https://hackernoon.com/python-for-beginners-part-14-e-1-circle-of-squares)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-2zb3inj.jpeg)
 Learn how to write a function that makes a circle of squares!
+
+### [43. [Tutorial] Recognize Handwritten Numbers in Python without any ML-Library](https://hackernoon.com/recognize-written-numbers-in-pure-python-without-any-ml-library-zb3m93wyl)
+![](https://cdn.hackernoon.com/drafts/aa3nt3wpz.png)
+This little image classifier is a showcase of how easy it is to create a functional image classifier using just basic python and some easy to use and well-documented libraries. 
 
 ### [44. Python for Beginners, Part 3: The Turtle Module](https://hackernoon.com/python-for-beginners-part-3-the-turtle-module)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-hq03403.jpeg)
@@ -240,13 +244,13 @@ Let's go over the solution of how to create a circle out of squares, the exercis
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-j893jh0.jpeg)
 Let's cover conditionals and control flow! This includes your Boolean logic combined with Boolean operators combined with if then type of statements!
 
-### [59. Python for Beginners, Part 9: Loops](https://hackernoon.com/python-for-beginners-part-9-loops)
-![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-5a93jro.jpeg)
-In this one, we explore the concept of looping constructs, visually, in computer programming.
-
-### [60. Python for Beginners, Part 17: Boolean Algebra Jiu-Jitsu](https://hackernoon.com/python-for-beginners-part-17-boolean-algebra-jiu-jitsu)
+### [59. Python for Beginners, Part 17: Boolean Algebra Jiu-Jitsu](https://hackernoon.com/python-for-beginners-part-17-boolean-algebra-jiu-jitsu)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-el93j0z.jpeg)
 Let's talk about the most important thing in programming... BOOOOOOOLEAN ALGEBRA. Hmm... Is that a True statement OR False? Watch the video AND find out... Or NOT... Up to you.
+
+### [60. Python for Beginners, Part 9: Loops](https://hackernoon.com/python-for-beginners-part-9-loops)
+![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-5a93jro.jpeg)
+In this one, we explore the concept of looping constructs, visually, in computer programming.
 
 ### [61. Python for Beginners, Part 5: Variables](https://hackernoon.com/python-for-beginners-part-5-variables)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-xw035gw.jpeg)
@@ -256,19 +260,19 @@ We will discover what are variables in this video. How is data stored into varia
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-8yc3jxr.jpeg)
 Let's see how functions accept multiple arguments, or parameters, or inputs. Those are interchangeable terms.
 
-### [63. Python for Beginners, Part 13: Append List-Method](https://hackernoon.com/python-for-beginners-part-13-append-list-method)
-![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-7k93i51.jpeg)
-Let's talk about the append method of a list and how it works
-
-### [64. Mastering Python's 'Magic' Methods: Part 1 ](https://hackernoon.com/mastering-pythons-magic-methods-part-1)
+### [63. Mastering Python's 'Magic' Methods: Part 1 ](https://hackernoon.com/mastering-pythons-magic-methods-part-1)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-lha2ee6.jpeg)
 elve into Python's magic methods and discover their roles in customizing object creation, representation, comparison, attribute access, and more.
 
-### [65. Python for Beginners, Part 16: Dictionaries](https://hackernoon.com/python-for-beginners-part-16-dictionaries)
+### [64. Python for Beginners, Part 16: Dictionaries](https://hackernoon.com/python-for-beginners-part-16-dictionaries)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-k993jhu.jpeg)
 Let's talk about yet another fascinating data structure known as dictionaries. Ever wondered how your iPhone stores phone numbers and then allows for simple and efficient lookups? Well, no need to wonder anymore after you watch this video!
 
-### [66. Python for Beginners, Part 12: Lists of Things](https://hackernoon.com/python-for-beginners-part-12-lists-of-things)
+### [65. Python for Beginners, Part 12: Lists of Things](https://hackernoon.com/python-for-beginners-part-12-lists-of-things)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-dy93i9z.jpeg)
 Let's talk about the list data structure of python and discuss why it's so wonderful.
+
+### [66. Python for Beginners, Part 13: Append List-Method](https://hackernoon.com/python-for-beginners-part-13-append-list-method)
+![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-7k93i51.jpeg)
+Let's talk about the append method of a list and how it works
 

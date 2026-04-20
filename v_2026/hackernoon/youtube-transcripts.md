@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [youtube-transcripts](https://hackernoon.com/tagged/youtube-transcripts)
+### Let's learn about [Youtube Transcripts](https://hackernoon.com/tagged/youtube-transcripts) via these 135 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+YouTube transcripts are text versions of the audio content from YouTube videos, generated automatically or manually. These transcripts improve accessibility for viewers with hearing impairments and enhance content discoverability through search engines, broadening audience reach.
+
 ### [1. How to Talk to ChatGPT: An Intro to Prompt Engineering](https://hackernoon.com/how-to-talk-to-chatgpt-an-intro-to-prompt-engineering)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-uta3kw8.jpeg)
 Prompting is pretty much the only skill you now require to be a master of these new large and powerful generative models such as ChatGPT.
@@ -99,13 +103,13 @@ In this interview I have a conversation with Bayo Adedeji concerning how work at
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-xua3k9d.jpeg)
 Kay, Co-founder and CEO of Zazuu, speaks to me about his platform that allows money transfers across border with ease, his background and journey. 
 
-### [25. Introducing DALL·E: Inspired by GPT-3 and Image-GPT from OpenAI](https://hackernoon.com/introducing-dalle-inspired-by-gpt-3-and-image-gpt-from-openai-oj3131ft)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-341w31om.jpeg)
-DALL-E from Open AI can generate images from text captions. It is very similar to GPT-3 and Image GPT and produces amazing results.
-
-### [26. #FoundersConnect: Odun Eweniyi, Co-Founder of Piggyvest, Africa's Top Savings App](https://hackernoon.com/foundersconnect-odun-eweniyi-co-founder-of-piggyvest-africas-top-savings-app)
+### [25. #FoundersConnect: Odun Eweniyi, Co-Founder of Piggyvest, Africa's Top Savings App](https://hackernoon.com/foundersconnect-odun-eweniyi-co-founder-of-piggyvest-africas-top-savings-app)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-cld3km3.jpeg)
 Odun Eweniyi, coFounder of Piggyvest, FirstCheck Africa and the Feminist Coalition shares her journey with me. 
+
+### [26. Introducing DALL·E: Inspired by GPT-3 and Image-GPT from OpenAI](https://hackernoon.com/introducing-dalle-inspired-by-gpt-3-and-image-gpt-from-openai-oj3131ft)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-341w31om.jpeg)
+DALL-E from Open AI can generate images from text captions. It is very similar to GPT-3 and Image GPT and produces amazing results.
 
 ### [27. Top 5 AI Articles of February 2022 Every Data Scientist Should Read](https://hackernoon.com/top-5-ai-articles-of-february-2022-every-data-scientist-should-read)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ve93jg1.jpeg)
@@ -197,33 +201,33 @@ Ex-Google Tech Lead talks you through the #1 engineering practice: Design Docs.
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-4v93hsj.jpeg)
 Peace interviews Yinka Adewale, CEO of Kudi, a Start-up that offers seamless banking services to communities in Africa.
 
-### [49. VOGUE by Google, MIT, and UW: The AI-Powered Online Fitting Room](https://hackernoon.com/vogue-by-google-mit-and-uw-the-ai-powered-online-fitting-room-qf31313t)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-0c1831do.jpeg)
-Google used a modified StyleGAN2 architecture to create an online fitting room where you can automatically try-on any pants or shirts you want using only an ima
-
-### [50. #FoundersConnect: Jude Dike, CoFounder and CEO of GetEquity](https://hackernoon.com/foundersconnect-jude-dike-cofounder-and-ceo-of-getequity)
+### [49. #FoundersConnect: Jude Dike, CoFounder and CEO of GetEquity](https://hackernoon.com/foundersconnect-jude-dike-cofounder-and-ceo-of-getequity)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-hxd3ndk.jpeg)
 Conversation with Jude Dike, co-Founder of GetEquity, a company democratizing access to startup investment in Africa.
 
-### [51. Top 10 Computer Vision Papers of 2020](https://hackernoon.com/top-10-computer-vision-papers-of-2020-x21s33pp)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-zxu33kb.jpeg)
-This is a video of the 10 most interesting research papers on computer vision in 2020. 
+### [50. VOGUE by Google, MIT, and UW: The AI-Powered Online Fitting Room](https://hackernoon.com/vogue-by-google-mit-and-uw-the-ai-powered-online-fitting-room-qf31313t)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-0c1831do.jpeg)
+Google used a modified StyleGAN2 architecture to create an online fitting room where you can automatically try-on any pants or shirts you want using only an ima
 
-### [52. #FoundersConnect: Eyitayo Ogunmola, Founder of Utiva, an African Ed-tech Startup](https://hackernoon.com/foundersconnect-eyitayo-ogunmola-founder-of-utiva-an-african-ed-tech-startup)
+### [51. #FoundersConnect: Eyitayo Ogunmola, Founder of Utiva, an African Ed-tech Startup](https://hackernoon.com/foundersconnect-eyitayo-ogunmola-founder-of-utiva-an-african-ed-tech-startup)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-x8c3kem.jpeg)
 I speak with Eyitayo Ogunmola, the CEO of Utiva, an education service for Africans and people of colour entering the tech industry.
+
+### [52. Top 10 Computer Vision Papers of 2020](https://hackernoon.com/top-10-computer-vision-papers-of-2020-x21s33pp)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-zxu33kb.jpeg)
+This is a video of the 10 most interesting research papers on computer vision in 2020. 
 
 ### [53. Using AI to Detect and Count Plastic Waste in the Ocean](https://hackernoon.com/using-ai-to-detect-and-count-plastic-waste-in-the-ocean-cu3333nj)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-kf3933cg.jpeg)
 A deep-learning-based algorithm that is able to detect and quantify floating garbage from aerial images of the ocean.
 
-### [54. How to Hack Your Way Into Google (Spoiler Alert: You’ll be Using Wheels)](https://hackernoon.com/how-to-hack-your-way-into-google-spoiler-alert-youll-be-using-wheels-f1r33h7)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-2oi4xlq.jpeg?alt=media&token=9ae04d9e-acd4-40bc-b3ae-c11f90359c79)
-Learn about my secret way for getting into Google.
-
-### [55. #FoundersConnect: Ijeoma Akwiwu, Lawyer, Developer, and Co-founder of Pivo, a Digital Bank](https://hackernoon.com/foundersconnect-ijeoma-akwiwu-lawyer-developer-and-co-founder-of-pivo-a-digital-bank)
+### [54. #FoundersConnect: Ijeoma Akwiwu, Lawyer, Developer, and Co-founder of Pivo, a Digital Bank](https://hackernoon.com/foundersconnect-ijeoma-akwiwu-lawyer-developer-and-co-founder-of-pivo-a-digital-bank)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-5a93q9o.jpeg)
 Peace speaks with Ijeoma Akwiwu, the Co-founder and COO of Pivo, a bank for trade.
+
+### [55. How to Hack Your Way Into Google (Spoiler Alert: You’ll be Using Wheels)](https://hackernoon.com/how-to-hack-your-way-into-google-spoiler-alert-youll-be-using-wheels-f1r33h7)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-2oi4xlq.jpeg?alt=media&token=9ae04d9e-acd4-40bc-b3ae-c11f90359c79)
+Learn about my secret way for getting into Google.
 
 ### [56. Python for Beginners, Part 6: Strings](https://hackernoon.com/python-for-beginners-part-6-strings)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-iq0343j.jpeg)
@@ -237,34 +241,34 @@ What is a convolutional neural network and explanation of one of the best and mo
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-vpb3nxu.jpeg)
 Interview with Kenyan VC, Duncan Muchangi and founder of Unicorn Growth Capital.
 
-### [59. #FoundersConnect: Wale Adetula, Co-Founder of TNC Africa](https://hackernoon.com/foundersconnect-wale-adetula-co-founder-of-tnc-africa)
-![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-z8a3oqt.jpeg)
-Interview with Wale Adetula, the Founder of one of Nigeria's pioneer Media companies, TNC Africa.
-
-### [60. Python for Beginners, Part 10: Primitive Data Types](https://hackernoon.com/python-for-beginners-part-10-primitive-data-types)
-![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-kye3jxv.jpeg)
-Let's cover the awesomeness of primitive data types. What are integers, floats, or strings!? I don't know... Let's find out!
-
-### [61. FoundersConnect: Interview with Kelvin Umechukwu, CEO and co-Founder of Bumpa](https://hackernoon.com/foundersconnect-interview-with-kelvin-umechukwu-ceo-and-co-founder-of-bumpa)
+### [59. FoundersConnect: Interview with Kelvin Umechukwu, CEO and co-Founder of Bumpa](https://hackernoon.com/foundersconnect-interview-with-kelvin-umechukwu-ceo-and-co-founder-of-bumpa)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-dg93ki8.jpeg)
 Kelvin Umechukwu, CEO of Bumpa,  shares his journey into entrepreneurship and the role of community in effecting change. 
 
-### [62. Interview with Atsu Davoh, Founder of Bitsika, on Creating a Payment App in Africa](https://hackernoon.com/interview-with-atsu-davoh-founder-of-bitsika-on-creating-a-payment-app-in-africa)
+### [60. Interview with Atsu Davoh, Founder of Bitsika, on Creating a Payment App in Africa](https://hackernoon.com/interview-with-atsu-davoh-founder-of-bitsika-on-creating-a-payment-app-in-africa)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-k093kp8.jpeg)
 Peace sits down with Atsu Davoh, Founder & CEO of Bitsika. Bitsika is a payments app for making transactions. 
 
-### [63. Python for Beginners, Part 2: Hello World Exercise](https://hackernoon.com/python-for-beginners-part-hello-world-exercise)
-![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-my034b9.jpeg)
-We cover the most basic 'hello world' exercise! This will be fun and now you are on your way to an exciting journey!
+### [61. #FoundersConnect: Wale Adetula, Co-Founder of TNC Africa](https://hackernoon.com/foundersconnect-wale-adetula-co-founder-of-tnc-africa)
+![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-z8a3oqt.jpeg)
+Interview with Wale Adetula, the Founder of one of Nigeria's pioneer Media companies, TNC Africa.
+
+### [62. Python for Beginners, Part 10: Primitive Data Types](https://hackernoon.com/python-for-beginners-part-10-primitive-data-types)
+![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-kye3jxv.jpeg)
+Let's cover the awesomeness of primitive data types. What are integers, floats, or strings!? I don't know... Let's find out!
+
+### [63. How Waymo Combines Lidar and Cameras for 3D Object Detection](https://hackernoon.com/how-waymo-combines-lidar-and-cameras-for-3d-object-detection)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-wba3iv3.jpeg)
+Let us talk about how autonomous vehicles 'see' the world.
 
 ### [64. Python for Beginners, Part 20: For Loops](https://hackernoon.com/python-for-beginners-part-20-for-loops)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-jb93jz7.jpeg)
 Let's talk about 'for' loops and why they are so important! Anything that requires repetition. 'For' loops are your friends!
 
 
-### [65. How Waymo Combines Lidar and Cameras for 3D Object Detection](https://hackernoon.com/how-waymo-combines-lidar-and-cameras-for-3d-object-detection)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-wba3iv3.jpeg)
-Let us talk about how autonomous vehicles 'see' the world.
+### [65. Python for Beginners, Part 2: Hello World Exercise](https://hackernoon.com/python-for-beginners-part-hello-world-exercise)
+![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-my034b9.jpeg)
+We cover the most basic 'hello world' exercise! This will be fun and now you are on your way to an exciting journey!
 
 ### [66. Mark Zuckerberg Wears "My Mom Thinks I'm Cool" Tshirt & Mesh Shorts in 2005 The Facebook Interview ](https://hackernoon.com/mark-zuckerberg-wears-my-mom-thinks-im-cool-tshirt-and-mesh-shorts-in-2005-the-facebook-interview)
 ![](https://cdn.hackernoon.com/images/934YRhnzQ6RgfQPaSqb03NsHlQp2-3m93pe4.jpeg)
@@ -279,50 +283,50 @@ Learn how to write a function that makes a circle of squares!
 ![](https://cdn.hackernoon.com/images/Y14t1a3ZEoT7RE6300ayez7dRN83-kz83jgi.jpeg)
 Explore podcast insights with OpenAI: Transcribe YouTube conversations & extract wisdom, sparking innovative product ideas.
 
-### [69. Interview with the Cofounder of Helicarrier (Formerly, Buycoins) on Crypto in Africa](https://hackernoon.com/interview-with-the-cofounder-of-helicarrier-formerly-buycoins-on-crypto-in-africa)
-![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-cva3j44.jpeg)
-Peace interviews Tomiwa Lasebikan, co-founder and head of product at Helicarrier, a product dedicated to connecting Africans with financial solutions.
-
-### [70. The Founder & CEO of Kudigo Talks About Tech Startups in Ghana](https://hackernoon.com/the-founder-and-ceo-of-kudigo-talks-about-tech-startups-in-ghana)
+### [69. The Founder & CEO of Kudigo Talks About Tech Startups in Ghana](https://hackernoon.com/the-founder-and-ceo-of-kudigo-talks-about-tech-startups-in-ghana)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-9mc3j9q.jpeg)
 Peace interviews Kingsley Abrokwah, serial entrepreneur and founder of Kudigo, a software solution for retail businesses in Africa. 
 
-### [71. Artificial Intelligence: Drawing Inspiration from Human Capabilities](https://hackernoon.com/artificial-intelligence-drawing-inspiration-from-human-capabilities-9q7c311b)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-v11o31gh.jpeg)
-This video is both an introduction to the recent paper Thinking Fast and Slow in AI by Francesca Rossi and her team at IBM, and to Luis Lamb's most recent paper
+### [70. Interview with the Cofounder of Helicarrier (Formerly, Buycoins) on Crypto in Africa](https://hackernoon.com/interview-with-the-cofounder-of-helicarrier-formerly-buycoins-on-crypto-in-africa)
+![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-cva3j44.jpeg)
+Peace interviews Tomiwa Lasebikan, co-founder and head of product at Helicarrier, a product dedicated to connecting Africans with financial solutions.
+
+### [71. #FoundersConnect: Mariam Jimoh, CEO & Founder of Oja (Ethnic Grocery Delivery Startup)](https://hackernoon.com/foundersconnect-mariam-jimoh-ceo-and-founder-of-oja-ethnic-grocery-delivery-startup)
+![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-hz93qp6.jpeg)
+Peace speaks with Mariam about her grocery startup for afrocarribean people living in the diaspora.
 
 ### [72. Python for Beginners, Part 3: The Turtle Module](https://hackernoon.com/python-for-beginners-part-3-the-turtle-module)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-hq03403.jpeg)
 In this part of the Learn Python for Beginners series... We go over how to use the turtle module and learn computer programming in a fun visual way. Things like functions, variables, and more will start to make sense instantly.
 
-### [73. #FoundersConnect: Mariam Jimoh, CEO & Founder of Oja (Ethnic Grocery Delivery Startup)](https://hackernoon.com/foundersconnect-mariam-jimoh-ceo-and-founder-of-oja-ethnic-grocery-delivery-startup)
-![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-hz93qp6.jpeg)
-Peace speaks with Mariam about her grocery startup for afrocarribean people living in the diaspora.
+### [73. Artificial Intelligence: Drawing Inspiration from Human Capabilities](https://hackernoon.com/artificial-intelligence-drawing-inspiration-from-human-capabilities-9q7c311b)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-v11o31gh.jpeg)
+This video is both an introduction to the recent paper Thinking Fast and Slow in AI by Francesca Rossi and her team at IBM, and to Luis Lamb's most recent paper
 
 ### [74. #FoundersConnect: Florence Githinji, Regional Marketing Manager at YellowCard](https://hackernoon.com/foundersconnect-florence-githinji-regional-marketing-manager-at-yellowcard)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-zla3nlr.jpeg)
 Conversation with Florence Githinji, Regional Marketing Manager of Yellowcard.
 
-### [75. #FoundersConnect: Bunmi Akinyemiju, Partner at GreenHouse Capital, Former CEO Venture Garden Group](https://hackernoon.com/foundersconnect-bunmi-akinyemiju-partner-at-greenhouse-capital-former-ceo-venture-garden-group)
-![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-bsc3k86.jpeg)
-I speak with Bunmi Akinyemiju, one of the biggest investors in the African startup space, and Founding Partner at GreenHouse Capital.
-
-### [76. Python for Beginners, Part 18: Logical AND, OR, NOT](https://hackernoon.com/python-for-beginners-part-18-logical-and-or-not)
+### [75. Python for Beginners, Part 18: Logical AND, OR, NOT](https://hackernoon.com/python-for-beginners-part-18-logical-and-or-not)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-kn93j4g.jpeg)
 Let's cover logical AND, OR & NOT..
 
+
+### [76. #FoundersConnect: Bunmi Akinyemiju, Partner at GreenHouse Capital, Former CEO Venture Garden Group](https://hackernoon.com/foundersconnect-bunmi-akinyemiju-partner-at-greenhouse-capital-former-ceo-venture-garden-group)
+![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-bsc3k86.jpeg)
+I speak with Bunmi Akinyemiju, one of the biggest investors in the African startup space, and Founding Partner at GreenHouse Capital.
 
 ### [77. Do you Need to be Great at Math to Start a Career In Cybersecurity?](https://hackernoon.com/do-you-need-to-be-great-at-math-to-start-a-career-in-cybersecurity)
 ![](https://cdn.hackernoon.com/images/BugaLC6k6haVzqRw5mELajiQSkZ2-quh3thj.jpeg)
 Do you really need to be great at Math to have a career in CyberSecurity? Find out more in this YouTube video from CyberSecurity Engineer - Grant Collins.
 
-### [78. Python for Beginners, Part 7: Fun Fun Functions](https://hackernoon.com/python-for-beginners-part-7-fun-fun-functions)
-![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-lkb3jc2.jpeg)
-What are functions? We discuss how functions work and allow you to use clean, reusable code. We do this while visualizing our code through the Turtle library in python.
-
-### [79. #FoundersConnect: Ben Lyon, CEO and CoFounder of Stax, an Offline Payment App for Africans](https://hackernoon.com/foundersconnect-ben-lyon-ceo-and-cofounder-of-stax-an-offline-payment-app-for-africans)
+### [78. #FoundersConnect: Ben Lyon, CEO and CoFounder of Stax, an Offline Payment App for Africans](https://hackernoon.com/foundersconnect-ben-lyon-ceo-and-cofounder-of-stax-an-offline-payment-app-for-africans)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-0me3ns3.jpeg)
 Conversation with Ben Lyon of Hover Developer Services, the parent company of Stax, a simple way to carry out payment services without internet or USSD codes.
+
+### [79. Python for Beginners, Part 7: Fun Fun Functions](https://hackernoon.com/python-for-beginners-part-7-fun-fun-functions)
+![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-lkb3jc2.jpeg)
+What are functions? We discuss how functions work and allow you to use clean, reusable code. We do this while visualizing our code through the Turtle library in python.
 
 ### [80. NVIDIA ADA: Train Your GAN With 1/10th of the Data](https://hackernoon.com/nvidia-ada-train-your-gan-with-110th-of-the-data-jg1e3479)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-sxn34fg.jpeg)
@@ -332,45 +336,45 @@ With this new training method developed by NVIDIA, you can train a powerful gene
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-8y93hsv.jpeg)
 Peace interviews Nadayar Enegesi, the Co-founder and CEO of Eden Life a tech-enabled service that puts its users' home chores on autopilot.
 
-### [82. This AI Prevents Bad Hair Days](https://hackernoon.com/this-ai-prevents-bad-hair-days-uu6c37ei)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-cx273570.jpeg)
-This AI can transfer your hair to see how it would look like before committing to the change.
+### [82. Interview with the Founder of Money Africa: Financial Education, Investing, and More](https://hackernoon.com/interview-with-the-founder-of-money-africa-financial-education-investing-and-more)
+![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-1p93juc.jpeg)
+Peace interviews Oluwatosin Olaseinde, founder of Money Africa and Ladda on her journey as a startup founder, biggest life lessons and future plans.
 
-### [83. #Founders Connect: Moses Enenwali, CEO & Co-founder of Topship (YC W 2022)](https://hackernoon.com/founders-connect-moses-enenwali-ceo-and-co-founder-of-topship-yc-w-2022)
-![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-l193o5f.jpeg)
-Peace speaks with Moses Enenwali, the CEO and Co-founder of Topship, a fast-growing Logistics startup in Africa.
-
-### [84. Yele Bademosi, Founder of Bundle Africa, Talks About Tech Entrepreneurship](https://hackernoon.com/yele-bademosi-founder-of-bundle-africa-talks-about-tech-entrepreneurship)
+### [83. Yele Bademosi, Founder of Bundle Africa, Talks About Tech Entrepreneurship](https://hackernoon.com/yele-bademosi-founder-of-bundle-africa-talks-about-tech-entrepreneurship)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-l6d3j8a.jpeg)
 Peace speaks with Yele Bademosi, founder of Bundle Africa, Microtraction and co-Founder of Nestcoin, in a lengthy and elucidating interview. 
 
-### [85. The co-CEOs of Printivo, Temitope Ekundayo and Ibukun Oloyede on How to Run a Company](https://hackernoon.com/the-co-ceos-of-printivo-temitope-ekundayo-and-ibukun-oloyede-on-how-to-run-a-company)
-![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-dp93kd7.jpeg)
-Peace interviews co-CEOs of Temitope Ekundayo and Ibukun Oloyede or Printivo, a solution enabling small and medium enterprises to print items seamlessly. 
+### [84. #Founders Connect: Moses Enenwali, CEO & Co-founder of Topship (YC W 2022)](https://hackernoon.com/founders-connect-moses-enenwali-ceo-and-co-founder-of-topship-yc-w-2022)
+![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-l193o5f.jpeg)
+Peace speaks with Moses Enenwali, the CEO and Co-founder of Topship, a fast-growing Logistics startup in Africa.
+
+### [85. This AI Prevents Bad Hair Days](https://hackernoon.com/this-ai-prevents-bad-hair-days-uu6c37ei)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-cx273570.jpeg)
+This AI can transfer your hair to see how it would look like before committing to the change.
 
 ### [86. #FoundersConnect with Oluwatomi Solanke, Co-founder/CEO of Trove Finance](https://hackernoon.com/foundersconnect-with-oluwatomi-solanke-co-founderceo-of-trove-finance)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-e793jx5.jpeg)
 Peace interviews Oluwatomi Solanke, co-founder and CEO of Trove Finance, a micro-investment platform that allows Nigerians to invest in foreign stock markets. 
 
-### [87. #FoundersConnect: Interview with Lotanna Nwose, Co-founder of Investsika](https://hackernoon.com/foundersconnect-interview-with-lotanna-nwose-co-founder-of-investsika)
+### [87. The co-CEOs of Printivo, Temitope Ekundayo and Ibukun Oloyede on How to Run a Company](https://hackernoon.com/the-co-ceos-of-printivo-temitope-ekundayo-and-ibukun-oloyede-on-how-to-run-a-company)
+![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-dp93kd7.jpeg)
+Peace interviews co-CEOs of Temitope Ekundayo and Ibukun Oloyede or Printivo, a solution enabling small and medium enterprises to print items seamlessly. 
+
+### [88. 3D Articulated Shape Reconstruction from Videos](https://hackernoon.com/3d-articulated-shape-reconstruction-from-videos-r51m343d)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-u0834uc.jpeg)
+With LASR, you can generate 3D models of humans or animals moving using only a short video as input.
+
+### [89. #FoundersConnect: Interview with Lotanna Nwose, Co-founder of Investsika](https://hackernoon.com/foundersconnect-interview-with-lotanna-nwose-co-founder-of-investsika)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-f2a3kv1.jpeg)
 I sit with Investsika's Co-Founder, Lotanna Nwose and we discuss his passion for stock accessibility and entrepreneurship and desires to provide this in Ghana. 
 
-### [88. #FoundersConnect: Abdul Hassan, CEO & Founder of Mono, Backed by Ycombinator](https://hackernoon.com/foundersconnect-abdul-hassan-ceo-and-founder-of-mono-backed-by-ycombinator)
+### [90. #FoundersConnect: Abdul Hassan, CEO & Founder of Mono, Backed by Ycombinator](https://hackernoon.com/foundersconnect-abdul-hassan-ceo-and-founder-of-mono-backed-by-ycombinator)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-9qc3kav.jpeg)
 #FoundersConnect: Abdul Hassan, CEO & Founder of Mono, Backed by Ycombinator
 
-### [89. #FoundersConnect (Music): Rebecca Inyang Junaid Founder of JustJoJo (Music Publishing)](https://hackernoon.com/foundersconnect-music-rebecca-inyang-junaid-founder-of-justjojo-music-publishing)
+### [91. #FoundersConnect (Music): Rebecca Inyang Junaid Founder of JustJoJo (Music Publishing)](https://hackernoon.com/foundersconnect-music-rebecca-inyang-junaid-founder-of-justjojo-music-publishing)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-3ub3k9t.jpeg)
 A conversation with Rebecca Inyang Junaid, Founder of JustJojo Entertainment, a music agency based in the UK on career, life and experiences. 
-
-### [90. Interview with the Founder of Money Africa: Financial Education, Investing, and More](https://hackernoon.com/interview-with-the-founder-of-money-africa-financial-education-investing-and-more)
-![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-1p93juc.jpeg)
-Peace interviews Oluwatosin Olaseinde, founder of Money Africa and Ladda on her journey as a startup founder, biggest life lessons and future plans.
-
-### [91. 3D Articulated Shape Reconstruction from Videos](https://hackernoon.com/3d-articulated-shape-reconstruction-from-videos-r51m343d)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-u0834uc.jpeg)
-With LASR, you can generate 3D models of humans or animals moving using only a short video as input.
 
 ### [92. #FoundersConnect: Douglas Kendyson of Selar on Hitting Huge Revenue Milestones](https://hackernoon.com/foundersconnect-douglas-kendyson-of-selar-on-hitting-huge-revenue-milestones)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-3vb3jd3.jpeg)
@@ -388,46 +392,46 @@ Peace interviews Yanmo Omorogbe, Co-founder of Invest Bamboo, on her "accidental
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-zm93omy.jpeg)
 Conversation with an OG Founder, Chimezie Emewulu, Co-founder and CEO of Seamfix. 
 
-### [96. Why You Should Never Store Passwords in Web Browsers](https://hackernoon.com/why-you-should-never-store-passwords-in-web-browsers)
-![](https://cdn.hackernoon.com/images/BugaLC6k6haVzqRw5mELajiQSkZ2-62d3ttv.jpeg)
-
-
-### [97. Is Subjective Beauty Something We Can Model with AI?](https://hackernoon.com/is-subjective-beauty-something-we-can-model-with-ai-nf9333ce)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-54e33ge.jpeg)
-This AI reads your brain to generate personally attractive faces. It generates images containing optimal values for personal attractive features.
-
-### [98. #FoundersConnect: Interview with Musty Mustapha, Co-Founder & CTO of Kuda](https://hackernoon.com/foundersconnect-interview-with-musty-mustapha-co-founder-and-cto-of-kuda)
+### [96. #FoundersConnect: Interview with Musty Mustapha, Co-Founder & CTO of Kuda](https://hackernoon.com/foundersconnect-interview-with-musty-mustapha-co-founder-and-cto-of-kuda)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-ej93h16.jpeg)
 Peace Interviews Co-Founder of Kuda Bank, Musty Mustapha on his journey as a tech entrepreneur, experiences and lessons. 
 
-### [99. #FoundersConnect: Moe Odele - Tech Lawyer, Human Rights Advocate & Travel Enthusiast](https://hackernoon.com/foundersconnect-moe-odele-tech-lawyer-human-rights-advocate-and-travel-enthusiast)
-![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-0ya3o35.jpeg)
-Peace speaks to Moe "Moechievous" Odele, about her life and career, growing up in a polygamous family, studying law and finding tech law. 
+### [97. Why You Should Never Store Passwords in Web Browsers](https://hackernoon.com/why-you-should-never-store-passwords-in-web-browsers)
+![](https://cdn.hackernoon.com/images/BugaLC6k6haVzqRw5mELajiQSkZ2-62d3ttv.jpeg)
 
-### [100. 8 Tools Every Data Scientists Should Use](https://hackernoon.com/8-tools-every-data-scientists-should-use)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-4p035vt.jpeg)
-The most useful tools I use daily as a research scientist for finding and reading AI research papers
 
-### [101. #FoundersConnect with Ben Eluan, Co-Founder/ CEO of Flux](https://hackernoon.com/foundersconnect-with-ben-eluan-co-founder-ceo-of-flux)
+### [98. Is Subjective Beauty Something We Can Model with AI?](https://hackernoon.com/is-subjective-beauty-something-we-can-model-with-ai-nf9333ce)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-54e33ge.jpeg)
+This AI reads your brain to generate personally attractive faces. It generates images containing optimal values for personal attractive features.
+
+### [99. #FoundersConnect with Ben Eluan, Co-Founder/ CEO of Flux](https://hackernoon.com/foundersconnect-with-ben-eluan-co-founder-ceo-of-flux)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-v6a3jrq.jpeg)
 Peace interviews Ben Eluan, co-founder and CEO of Flux, a crypto remittance startup built to help individuals and merchants make transactions globally. 
 
-### [102. Python for Beginners, Part 15: Solution Circle of Squares (Exercise)](https://hackernoon.com/python-for-beginners-part-15-solution-circle-of-squares-exercise)
+### [100. #FoundersConnect: Moe Odele - Tech Lawyer, Human Rights Advocate & Travel Enthusiast](https://hackernoon.com/foundersconnect-moe-odele-tech-lawyer-human-rights-advocate-and-travel-enthusiast)
+![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-0ya3o35.jpeg)
+Peace speaks to Moe "Moechievous" Odele, about her life and career, growing up in a polygamous family, studying law and finding tech law. 
+
+### [101. Python for Beginners, Part 15: Solution Circle of Squares (Exercise)](https://hackernoon.com/python-for-beginners-part-15-solution-circle-of-squares-exercise)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-2q93i4e.jpeg)
 Let's go over the solution of how to create a circle out of squares, the exercise which I gave you in the last tutorial.
 
+
+### [102. 8 Tools Every Data Scientists Should Use](https://hackernoon.com/8-tools-every-data-scientists-should-use)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-4p035vt.jpeg)
+The most useful tools I use daily as a research scientist for finding and reading AI research papers
 
 ### [103. #FoundersConnect: Ameyaw Debrah, the Founder of Ameyawdebrah.com | Ghanaian Celebrity Blogger](https://hackernoon.com/foundersconnect-ameyaw-debrah-the-founder-of-ameyawdebrahcom-or-ghanaian-celebrity-blogger)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-8i93kns.jpeg)
 Peace has a conversation with Ameyaw Debrah, Ghanaian celebrity blogger and founder of Ameyawdebrah.com, a lifestyle news blog about media, his life, and more. 
 
-### [104. Python for Beginners, Part 19: Conditionals and Control Flow](https://hackernoon.com/python-for-beginners-part-19-conditionals-and-control-flow)
-![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-j893jh0.jpeg)
-Let's cover conditionals and control flow! This includes your Boolean logic combined with Boolean operators combined with if then type of statements!
-
-### [105. #FoundersConnect: Interview with Michael 'Trojan' Okoh - Co-founder and CTO, ThePeer](https://hackernoon.com/foundersconnect-interview-with-michael-trojan-okoh-co-founder-and-cto-thepeer)
+### [104. #FoundersConnect: Interview with Michael 'Trojan' Okoh - Co-founder and CTO, ThePeer](https://hackernoon.com/foundersconnect-interview-with-michael-trojan-okoh-co-founder-and-cto-thepeer)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-1oc3kay.jpeg)
 22-year old Founder of ThePeer, Michael Trojan Okoh, shares his story with me. 
+
+### [105. Python for Beginners, Part 19: Conditionals and Control Flow](https://hackernoon.com/python-for-beginners-part-19-conditionals-and-control-flow)
+![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-j893jh0.jpeg)
+Let's cover conditionals and control flow! This includes your Boolean logic combined with Boolean operators combined with if then type of statements!
 
 ### [106. Python for Beginners, Part 4: Interactive Shell vs. Script](https://hackernoon.com/python-for-beginners-part-4-interactive-shell-vs-script)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-fb034kt.jpeg)
@@ -445,17 +449,17 @@ Peace interviews Onyeka Akumah, CEO of Farmcrowdy, and co-founder at Plentywaka,
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-xtb3k1h.jpeg)
 I speak with Babajide Duroshola, the General Manager at M-Kopa with years of experience managing startups about his journey and work. 
 
-### [110. What Did AI Bring to Computer Vision?](https://hackernoon.com/what-did-ai-bring-to-computer-vision-zyo34ff)
+### [110. Python for Beginners, Part 17: Boolean Algebra Jiu-Jitsu](https://hackernoon.com/python-for-beginners-part-17-boolean-algebra-jiu-jitsu)
+![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-el93j0z.jpeg)
+Let's talk about the most important thing in programming... BOOOOOOOLEAN ALGEBRA. Hmm... Is that a True statement OR False? Watch the video AND find out... Or NOT... Up to you.
+
+### [111. What Did AI Bring to Computer Vision?](https://hackernoon.com/what-did-ai-bring-to-computer-vision-zyo34ff)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-8hu34ne.jpeg)
 In this video, I will openly share everything about deep nets for computer vision applications, their successes, and the limitations we have yet to address.
 
-### [111. Python for Beginners, Part 9: Loops](https://hackernoon.com/python-for-beginners-part-9-loops)
+### [112. Python for Beginners, Part 9: Loops](https://hackernoon.com/python-for-beginners-part-9-loops)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-5a93jro.jpeg)
 In this one, we explore the concept of looping constructs, visually, in computer programming.
-
-### [112. Python for Beginners, Part 17: Boolean Algebra Jiu-Jitsu](https://hackernoon.com/python-for-beginners-part-17-boolean-algebra-jiu-jitsu)
-![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-el93j0z.jpeg)
-Let's talk about the most important thing in programming... BOOOOOOOLEAN ALGEBRA. Hmm... Is that a True statement OR False? Watch the video AND find out... Or NOT... Up to you.
 
 ### [113. How to Detect Cyber Threats](https://hackernoon.com/how-to-detect-cyber-threats)
 ![](https://cdn.hackernoon.com/images/BugaLC6k6haVzqRw5mELajiQSkZ2-j4f3te2.jpeg)
@@ -465,65 +469,65 @@ Let's talk about the most important thing in programming... BOOOOOOOLEAN ALGEBRA
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-xw035gw.jpeg)
 We will discover what are variables in this video. How is data stored into variables and then how you can retrieve it later for easier access. We will look at all this through a visualization using the Turtle library from Python.
 
-### [115. Python for Beginners, Part 8: Function Arguments](https://hackernoon.com/python-for-beginners-part-8-function-arguments)
-![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-8yc3jxr.jpeg)
-Let's see how functions accept multiple arguments, or parameters, or inputs. Those are interchangeable terms.
-
-### [116. #FoundersConnect with Damilola Olokesusi, Co-founder & CEO of Shuttlers](https://hackernoon.com/foundersconnect-with-damilola-olokesusi-co-founder-and-ceo-of-shuttlers)
+### [115. #FoundersConnect with Damilola Olokesusi, Co-founder & CEO of Shuttlers](https://hackernoon.com/foundersconnect-with-damilola-olokesusi-co-founder-and-ceo-of-shuttlers)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-1s93jec.jpeg)
 Peace interviews Damilola Olokesusi, Co-founder and CEO of Shuttlers, a platform that enables its users access efficient shared transportation in Lagos, Nigeria
+
+### [116. Python for Beginners, Part 8: Function Arguments](https://hackernoon.com/python-for-beginners-part-8-function-arguments)
+![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-8yc3jxr.jpeg)
+Let's see how functions accept multiple arguments, or parameters, or inputs. Those are interchangeable terms.
 
 ### [117. #FoundersConnect: Tomiwa Aladekomo, The Man behind Big Cabal Media (Techcabal & Zikoko)](https://hackernoon.com/foundersconnect-tomiwa-aladekomo-the-man-behind-big-cabal-media-techcabal-and-zikoko)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-cd93kkg.jpeg)
 Peace speaks with Tomiwa Aladekomo, CEO of BigCabal, the parent company of Zikoko, a media company that creates content for African youth, and TechCabal. 
 
-### [118. #FoundersConnect: How Kemi Olawoye Is Building BabyMigo, Nigeria's Largest Parenting Community](https://hackernoon.com/foundersconnect-how-kemi-olawoye-is-building-babymigo-nigerias-largest-parenting-community)
-![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-dv93org.jpeg)
-Kemi shares her journey building Babymigo, Nigeria's largest Parenting Community
+### [118. #FoundersConnect with Iyinoluwa Aboyeji, Co-founder of Andela & Former MD of Flutterwave](https://hackernoon.com/foundersconnect-with-iyinoluwa-aboyeji-co-founder-of-andela-and-former-md-of-flutterwave)
+![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-6v93jqy.jpeg)
+Peace interviews Iyinoluwa Aboyeji, Co-founder of Andela on his career journey across various successful projects; mistakes, insights and much more. 
 
 ### [119. #FoundersConnect with Tito Ovia, Cofounder of Helium Health (#1 Health-Tech Provider in Africa)](https://hackernoon.com/foundersconnect-with-tito-ovia-cofounder-of-helium-health-1-health-tech-provider-in-africa)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-cxa3j1r.jpeg)
 Peace speaks with Tito Ovia, co-founder of Helium Health, a health-tech provider in Nigeria set to digitize hospital processes within the continent.
 
-### [120. #FoundersConnect with Iyinoluwa Aboyeji, Co-founder of Andela & Former MD of Flutterwave](https://hackernoon.com/foundersconnect-with-iyinoluwa-aboyeji-co-founder-of-andela-and-former-md-of-flutterwave)
-![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-6v93jqy.jpeg)
-Peace interviews Iyinoluwa Aboyeji, Co-founder of Andela on his career journey across various successful projects; mistakes, insights and much more. 
+### [120. #FoundersConnect: How Kemi Olawoye Is Building BabyMigo, Nigeria's Largest Parenting Community](https://hackernoon.com/foundersconnect-how-kemi-olawoye-is-building-babymigo-nigerias-largest-parenting-community)
+![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-dv93org.jpeg)
+Kemi shares her journey building Babymigo, Nigeria's largest Parenting Community
 
-### [121. #FoundersConnect: Adia Sowho, CMO of MTN Nigeria](https://hackernoon.com/foundersconnect-adia-sowho-cmo-of-mtn-nigeria)
-![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-th93o5q.jpeg)
-Peace speaks with Adia Sowho, CMO of MTN Nigeria, on her life and journey. This interview is one you definitely should not miss!
-
-### [122. #FoundersConnect - Interview with Rodney Jackson-Cole, Cofounder and CTO at Prospa (YC W21)](https://hackernoon.com/foundersconnect-how-did-yc-influence-growth-at-prospa)
+### [121. #FoundersConnect - Interview with Rodney Jackson-Cole, Cofounder and CTO at Prospa (YC W21)](https://hackernoon.com/foundersconnect-how-did-yc-influence-growth-at-prospa)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-7ya3j5u.jpeg)
 Rodney Jackson-Cole is the CTO of Prospa, a company set out to aid African entrepreneurs. Peace finds out more about his mission and journey in this episode. 
+
+### [122. #FoundersConnect: Adia Sowho, CMO of MTN Nigeria](https://hackernoon.com/foundersconnect-adia-sowho-cmo-of-mtn-nigeria)
+![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-th93o5q.jpeg)
+Peace speaks with Adia Sowho, CMO of MTN Nigeria, on her life and journey. This interview is one you definitely should not miss!
 
 ### [123. How to Create Realistic Slow Motion Videos With AI](https://hackernoon.com/how-to-create-realistic-slow-motion-videos-with-ai-u02m37ez)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-eu3o35f8.jpeg)
 TimeLens can understand the movement of the particles in-between the frames of a video to reconstruct what really happened at a speed even our eyes cannot see.
 
-### [124. #FoundersConnect: How Erika Brodnock, Founder of Kami, Uses Tech to Improve the Lives of Families](https://hackernoon.com/foundersconnect-how-erika-brodnock-founder-of-kami-uses-tech-to-improve-the-lives-of-families)
-![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-gy93pfz.jpeg)
-Peace speaks with Erika Brodnock, Founder of Kami app.
-
-### [125. Python for Beginners, Part 13: Append List-Method](https://hackernoon.com/python-for-beginners-part-13-append-list-method)
-![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-7k93i51.jpeg)
-Let's talk about the append method of a list and how it works
-
-### [126. Python for Beginners, Part 16: Dictionaries](https://hackernoon.com/python-for-beginners-part-16-dictionaries)
+### [124. Python for Beginners, Part 16: Dictionaries](https://hackernoon.com/python-for-beginners-part-16-dictionaries)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-k993jhu.jpeg)
 Let's talk about yet another fascinating data structure known as dictionaries. Ever wondered how your iPhone stores phone numbers and then allows for simple and efficient lookups? Well, no need to wonder anymore after you watch this video!
 
-### [127. Python for Beginners, Part 12: Lists of Things](https://hackernoon.com/python-for-beginners-part-12-lists-of-things)
+### [125. #FoundersConnect: How Erika Brodnock, Founder of Kami, Uses Tech to Improve the Lives of Families](https://hackernoon.com/foundersconnect-how-erika-brodnock-founder-of-kami-uses-tech-to-improve-the-lives-of-families)
+![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-gy93pfz.jpeg)
+Peace speaks with Erika Brodnock, Founder of Kami app.
+
+### [126. Python for Beginners, Part 12: Lists of Things](https://hackernoon.com/python-for-beginners-part-12-lists-of-things)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-dy93i9z.jpeg)
 Let's talk about the list data structure of python and discuss why it's so wonderful.
 
-### [128. #FoundersConnect: Godwin Tom, Serial Entrepreneur, Music Business Mogul & CEO of iMANAGE AFRICA](https://hackernoon.com/foundersconnect-godwin-tom-serial-entrepreneur-music-business-mogul-and-ceo-of-imanage-africa)
-![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-hab3kz8.jpeg)
-Conversation with Godwin Tom, an expert in music management and CEO of iMANAGE Africa on his journey, his work, and the future. 
-
-### [129. #FoundersConnect: Tosin Faniro-Dada, MD /CEO of Endeavor (Nigeria)](https://hackernoon.com/foundersconnect-tosin-faniro-dada-md-ceo-of-endeavor-nigeria)
+### [127. #FoundersConnect: Tosin Faniro-Dada, MD /CEO of Endeavor (Nigeria)](https://hackernoon.com/foundersconnect-tosin-faniro-dada-md-ceo-of-endeavor-nigeria)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-fra3kng.jpeg)
 Peace has a conversation with Tosin Faniro-Dada, the MD & CEO of Endeavor in Nigeria, about her career and her passion for helping entrepreneurs. 
+
+### [128. Python for Beginners, Part 13: Append List-Method](https://hackernoon.com/python-for-beginners-part-13-append-list-method)
+![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-7k93i51.jpeg)
+Let's talk about the append method of a list and how it works
+
+### [129. #FoundersConnect: Godwin Tom, Serial Entrepreneur, Music Business Mogul & CEO of iMANAGE AFRICA](https://hackernoon.com/foundersconnect-godwin-tom-serial-entrepreneur-music-business-mogul-and-ceo-of-imanage-africa)
+![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-hab3kz8.jpeg)
+Conversation with Godwin Tom, an expert in music management and CEO of iMANAGE Africa on his journey, his work, and the future. 
 
 ### [130. #FoundersConnect: Interview with Chijioke Dozie, the CEO of Carbon](https://hackernoon.com/foundersconnect-interview-with-chijioke-dozie-the-ceo-of-carbon)
 ![](https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-xe93hci.jpeg)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [token](https://hackernoon.com/tagged/token)
+### Let's learn about [Token](https://hackernoon.com/tagged/token) via these 92 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+In a digital context, a token often represents a unit of value, utility, or access, commonly used in blockchain for cryptocurrencies or digital assets, facilitating secure transactions and decentralized applications. It matters by enabling new economic models and decentralized systems, empowering users with verifiable ownership and control.
+
 ### [1. Why Locking Liquidity is Important for Cryptocurrency](https://hackernoon.com/why-locking-liquidity-is-important-for-cryptocurrency-qv4d37hd)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-892h3720.jpeg)
 Let us start with understanding what is liquidity for cryptocurrency and why you may want to lock it.
@@ -155,13 +159,13 @@ KRebels is the first project to use non-fungible tokens (NFTs) issued through bl
 ![](https://cdn.hackernoon.com/images/aen3snxECVSRPNcjBRo7qJhmg2A3-r793zku.png)
 Discover the crucial role of market makers in the volatile world of cryptocurrency, exploring their impact on liquidity and token success.
 
-### [38. My vision of the EOS foundation](https://hackernoon.com/my-vision-of-the-eos-foundation-3wk34t9)
-![](https://cdn.hackernoon.com/images/nxtWKMHuO1UKGUbmzmzTuQsBx4H2-36253cs9.png)
-Inside the upcoming EOS Foundation 
-
-### [39. Fair Launch Isn’t Really Fair](https://hackernoon.com/fair-launch-isnt-really-fair)
+### [38. Fair Launch Isn’t Really Fair](https://hackernoon.com/fair-launch-isnt-really-fair)
 ![](https://cdn.hackernoon.com/images/I6QVggMrbmN0sa23QACrMd186Kt2-70a3re4.jpeg)
 Can crypto companies survive and thrive with fair launches depending on community support and do people understand the value of money? What about marketing ?
+
+### [39. My vision of the EOS foundation](https://hackernoon.com/my-vision-of-the-eos-foundation-3wk34t9)
+![](https://cdn.hackernoon.com/images/nxtWKMHuO1UKGUbmzmzTuQsBx4H2-36253cs9.png)
+Inside the upcoming EOS Foundation 
 
 ### [40. TURN Time Into Value](https://hackernoon.com/turn-time-into-value)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-jg93y29.jpeg)
@@ -175,13 +179,13 @@ Amy Tom talks to Yevheniia Shmelkova, the Token Specialist at Mysterium Network 
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-lb92goj.jpeg)
 As soon as the price of the Native Token starts climbing your Twitter feeds will be filled with the high gas fee hue and cry.
 
-### [43. NEO, MATIC and now FLETA Tokens: What do they have in common?](https://hackernoon.com/neo-matic-and-now-fleta-tokens-what-do-they-have-in-common-d41637eq)
-![](https://cdn.hackernoon.com/images/C7LGfLlZs3OY2w0N7r4ePehwKBI2-vk5938ad.jpeg)
-NEO, MATIC and FLETA Blockchain have used 'rebranding' as a pillar of their strategy to drive the adoption of their token and technology within the crypto ecosy
-
-### [44. Crypto Investment Strategy: My 10-Token Portfolio for the Upcoming Cycle](https://hackernoon.com/crypto-investment-strategy-my-10-token-portfolio-for-the-upcoming-cycle)
+### [43. Crypto Investment Strategy: My 10-Token Portfolio for the Upcoming Cycle](https://hackernoon.com/crypto-investment-strategy-my-10-token-portfolio-for-the-upcoming-cycle)
 ![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-36932rg.jpeg)
 Cherry picking 10 tokens to create a master-crafted crypto portfolio to take maximum advantage of the coming market cycle.
+
+### [44. NEO, MATIC and now FLETA Tokens: What do they have in common?](https://hackernoon.com/neo-matic-and-now-fleta-tokens-what-do-they-have-in-common-d41637eq)
+![](https://cdn.hackernoon.com/images/C7LGfLlZs3OY2w0N7r4ePehwKBI2-vk5938ad.jpeg)
+NEO, MATIC and FLETA Blockchain have used 'rebranding' as a pillar of their strategy to drive the adoption of their token and technology within the crypto ecosy
 
 ### [45. Fundamental Analysis of ATOM, NEAR, WLKN, A8, MATIC](https://hackernoon.com/fundamental-analysis-of-atom-near-wlkn-a8-matic)
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-grh3ndn.jpeg)
@@ -195,13 +199,13 @@ Anti Danilevski, KickEX CEO and founder, talks about Top 5 Methods of Running an
 ![](https://cdn.hackernoon.com/images/aen3snxECVSRPNcjBRo7qJhmg2A3-v8a3uz3.png)
 Unlock the Secrets of Token Listing: A Comprehensive Guide to Navigating Your Token Launch. Learn the Do's and Don'ts, Pre-launch Preparations, and Real Success
 
-### [48. Discover the Reason 'Agent-Based Modelling' and 'Tokenomics' Compliment Each Other](https://hackernoon.com/discover-the-reason-agent-based-modelling-and-tokenomics-compliment-each-other)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-k693wto.jpeg)
-Agent-based models have been around for a few decades now. They are one of the main methodologies behind the study of complex systems. 
-
-### [49. 57 Stories To Learn About Token](https://hackernoon.com/57-stories-to-learn-about-token)
+### [48. 57 Stories To Learn About Token](https://hackernoon.com/57-stories-to-learn-about-token)
 ![](https://cdn.hackernoon.com/images/github/token-604.png)
 Learn everything you need to know about Token via these 57 free HackerNoon stories.
+
+### [49. Discover the Reason 'Agent-Based Modelling' and 'Tokenomics' Compliment Each Other](https://hackernoon.com/discover-the-reason-agent-based-modelling-and-tokenomics-compliment-each-other)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-k693wto.jpeg)
+Agent-based models have been around for a few decades now. They are one of the main methodologies behind the study of complex systems. 
 
 ### [50. Navigating the Wild World of WEB3: A Satirical Guide to WEB3 and Staying Sane as a Startup Founder](https://hackernoon.com/navigating-the-wild-world-of-web3-a-satirical-guide-to-web3-and-staying-sane-as-a-startup-founder)
 ![](https://cdn.hackernoon.com/images/JvUgrqBJGHbQVXtXMY1rNpeC87H2-rl93ggy.jpeg)
@@ -223,33 +227,33 @@ The rise of open finance solutions powered by public code exemplifies how the be
 ![](https://cdn.hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-4g1c35p9.jpeg)
 US regulators have done little to provide certainty for buyers and sellers of blockchain-based tokens. A page on the Securities and Exchange Commission's website on the topic of 'initial coin offerings' offers only sparse information in form of "5 things you need to know about ICOs," starting with the somewhat ominous declaration that "ICOs can be securities offerings" -- a message which seems to have found a receptive audience, judging by the growing number of projects offering their assistance with “security token offerings.”  The following examines the viability and efficacy of security tokens in the context of blockchain-based systems for the purpose of securities creation and handling:
 
-### [55. Token Swappers Are Replacing Traditional Crypto-Exchanges: A 2020 Analysis](https://hackernoon.com/token-swappers-are-replacing-traditional-crypto-exchanges-a-2020-analysis-c82p3zg8)
-![](https://cdn.hackernoon.com/images/rrklQPNbspZjuipgqdjB7er0G6e2-go2f23ix.jpeg)
-While cryptocurrencies are powered by decentralized protocols, the trading of cryptocurrencies mostly happens on centralized exchanges. 
-
-### [56. Crypto and the Terrible, Horrible, No Good, Very Schemey Token Listing Sites](https://hackernoon.com/crypto-token-listing-sites-are-an-upsell-scheme-48bce663551b)
+### [55. Crypto and the Terrible, Horrible, No Good, Very Schemey Token Listing Sites](https://hackernoon.com/crypto-token-listing-sites-are-an-upsell-scheme-48bce663551b)
 ![](https://hackernoon.com/hn-images/1*YqTBdy-Xn2WxeVk0mCD_TA.jpeg)
 I’ve seen a lot between launching <a href="http://benjacoin.com" target="_blank">benjaCoin</a> and advising token sales this past year. Highlights include an anonymous token promotion agency asking for six-figure fees, a brand new podcast offering a 20-minute spot for $15k, and a fourth-tier exchange asking for a $400k token listing fee.
 
-### [57. Understanding Ethereum Token Standards](https://hackernoon.com/understanding-ethereum-token-standards)
-![](https://cdn.hackernoon.com/images/MrzdFPyBcTVnSt90dsBoiyYMuyn1-mfa3sn8.jpeg)
-Tokens are an incredibly important part of Ethereum and in Web3. Understanding the standards for each type of token can help you understand how it works.
+### [56. Token Swappers Are Replacing Traditional Crypto-Exchanges: A 2020 Analysis](https://hackernoon.com/token-swappers-are-replacing-traditional-crypto-exchanges-a-2020-analysis-c82p3zg8)
+![](https://cdn.hackernoon.com/images/rrklQPNbspZjuipgqdjB7er0G6e2-go2f23ix.jpeg)
+While cryptocurrencies are powered by decentralized protocols, the trading of cryptocurrencies mostly happens on centralized exchanges. 
 
-### [58. ERC-6551 Has the Potential to Transform NFTs and Gaming ](https://hackernoon.com/erc-6551-has-the-potential-to-transform-nfts-and-gaming)
+### [57. ERC-6551 Has the Potential to Transform NFTs and Gaming ](https://hackernoon.com/erc-6551-has-the-potential-to-transform-nfts-and-gaming)
 ![](https://cdn.hackernoon.com/images/A9fcz4M2ixfPjwj9ZNsnKdoFFzp2-k493t0w.jpeg)
 ERC 6551 Standard will become a game changer in NFT Market and Games which utilizes NFT's. 
 
-### [59. Three Visions on How to Value New Tokens & the Cryptocurrency Market in General](https://hackernoon.com/three-visions-on-how-to-value-new-tokens-and-the-cryptocurrency-market-in-general)
-![](https://cdn.hackernoon.com/images/rUC1fsEJ2IfSZAmF6dNopg6sX0t1-xr93oss.jpeg)
-The whole world is waking up to the fact that despite its trials and tribulations, this new asset class is here to stay. Now, how do we determine its worth?
+### [58. Understanding Ethereum Token Standards](https://hackernoon.com/understanding-ethereum-token-standards)
+![](https://cdn.hackernoon.com/images/MrzdFPyBcTVnSt90dsBoiyYMuyn1-mfa3sn8.jpeg)
+Tokens are an incredibly important part of Ethereum and in Web3. Understanding the standards for each type of token can help you understand how it works.
+
+### [59. How to Script the CF API With `CF OAUTH-TOKEN` and Python](https://hackernoon.com/how-to-script-the-cf-api-with-cf-oauth-token-and-python)
+![](https://cdn.hackernoon.com/images/c4rrgZFfh0SyxNnZKbY7YhBrXN33-ava3ktf.jpeg)
+A bit of Python, a dancing gopher, and proper course etiquette are all you need to know how to log in and loop through the results.
 
 ### [60. It's Time to Give Meme Tokens a Purpose ](https://hackernoon.com/its-time-to-give-meme-tokens-a-purpose-reah3ov6)
 ![](https://cdn.hackernoon.com/images/25FD7aJjvQXZmpBWsHFW5JYdjMt1-4j1335zq.jpeg)
 Each meme token is moving to offer a unique value proposition in a space more known for inside jokes than serious efforts toward innovation. 
 
-### [61. How to Script the CF API With `CF OAUTH-TOKEN` and Python](https://hackernoon.com/how-to-script-the-cf-api-with-cf-oauth-token-and-python)
-![](https://cdn.hackernoon.com/images/c4rrgZFfh0SyxNnZKbY7YhBrXN33-ava3ktf.jpeg)
-A bit of Python, a dancing gopher, and proper course etiquette are all you need to know how to log in and loop through the results.
+### [61. Three Visions on How to Value New Tokens & the Cryptocurrency Market in General](https://hackernoon.com/three-visions-on-how-to-value-new-tokens-and-the-cryptocurrency-market-in-general)
+![](https://cdn.hackernoon.com/images/rUC1fsEJ2IfSZAmF6dNopg6sX0t1-xr93oss.jpeg)
+The whole world is waking up to the fact that despite its trials and tribulations, this new asset class is here to stay. Now, how do we determine its worth?
 
 ### [62. The Craze for NFTS and the Downsides](https://hackernoon.com/the-craze-for-nfts-and-the-downsides)
 ![](https://cdn.hackernoon.com/images/JwmstrvE0ReIdu5QIWfQUm68TTE2-g0937iu.png)
@@ -275,29 +279,29 @@ Where is it better to list tokens on a centralized or decentralized exchange? In
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-jg93r86.jpeg)
 We'll delve here into the process of creating fungible tokens in Obyte, including advantages, customization options, and prices. Let’s explore it!
 
-### [68. Discover Tulipart.com: A Unique Collection of Daily Minted Tulip NFTs spanning 7 Years](https://hackernoon.com/discover-tulipartcom-a-unique-collection-of-daily-minted-tulip-nfts-spanning-7-years)
+### [68. Making a Difference in the Web3 and NFT Space](https://hackernoon.com/making-a-difference-in-the-web3-and-nft-space)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-e292gci.jpeg)
+The combination of unique and meaningful art, charitable focus, community involvement, and creative endeavors makes the Tutti Frutti Women NFT project stand ou
+
+### [69. Discover Tulipart.com: A Unique Collection of Daily Minted Tulip NFTs spanning 7 Years](https://hackernoon.com/discover-tulipartcom-a-unique-collection-of-daily-minted-tulip-nfts-spanning-7-years)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ia93pdw.jpeg)
 Tulipart is a collection of 10,000 unique tulip NFTs. Over a period of 7 years, 4 Tulip NFTs will be minted every day until the goal of 10,000 is reached.
 
-### [69. Biforex Announces Initial Exchange Offering of the 'Art Can Die' Token](https://hackernoon.com/biforex-announces-initial-exchange-offering-of-the-art-can-die-token)
+### [70. Biforex Announces Initial Exchange Offering of the 'Art Can Die' Token](https://hackernoon.com/biforex-announces-initial-exchange-offering-of-the-art-can-die-token)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-0v92gtq.jpeg)
 Biforex, a leading cryptocurrency exchange, has announced the Initial Exchange Offering (IEO) of the Art Can Die token ($DIE) starting on 08/05/2023.
-
-### [70. Making a Difference in the Web3 and NFT Space](https://hackernoon.com/making-a-difference-in-the-web3-and-nft-space)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-e292gci.jpeg)
-The combination of unique and meaningful art, charitable focus, community involvement, and creative endeavors makes the Tutti Frutti Women NFT project stand ou
 
 ### [71. Leading Digital Racing Media Network Veloce Goes Web3](https://hackernoon.com/leading-digital-racing-media-network-veloce-goes-web3)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-obc2p7u.png)
 Veloce, the world’s leading digital racing media network, is diving into the world of Web3 by launching vext token for governance.
 
-### [72. Tokens Represent the Next Generation of Capital](https://hackernoon.com/tokens-represent-the-next-generation-of-capital)
-![](https://cdn.hackernoon.com/images/M7LLFKsJcjNByXnqmIrLgg585v82-2x036d0.jpeg)
-Many central banks are considering digital currencies. The tedious process and costs associated with paper currency prohibit financial inclusion. 
-
-### [73. Tokens and Their Standards](https://hackernoon.com/tokens-and-their-standards)
+### [72. Tokens and Their Standards](https://hackernoon.com/tokens-and-their-standards)
 ![](https://cdn.hackernoon.com/images/iIULlfgJXlcLwLEXLBaijYFcj803-gs83krx.jpeg)
 The text covers the concept of tokens, their types (fungible and non-fungible), and their applications, such as utility tokens and security tokens, etc.
+
+### [73. Tokens Represent the Next Generation of Capital](https://hackernoon.com/tokens-represent-the-next-generation-of-capital)
+![](https://cdn.hackernoon.com/images/M7LLFKsJcjNByXnqmIrLgg585v82-2x036d0.jpeg)
+Many central banks are considering digital currencies. The tedious process and costs associated with paper currency prohibit financial inclusion. 
 
 ### [74. RE: [LA blockchain conference 2021]](https://hackernoon.com/re-la-blockchain-conference-2021)
 ![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-i603oej.jpeg)
@@ -315,33 +319,33 @@ Memecoin Mooky is gearing up for its final presale phase, having raised $900,000
 ![](https://cdn.hackernoon.com/images/wave-sweeping-over-the-world-cli2ejedw000001s6ej86aula.png)
 AltSignals' native token, ASI, has achieved success during its presale phase and continues to demonstrate growth. 
 
-### [78. HAVAH Welcomes IOST as a Validator, Expanding the Boundaries of Interchain Networks](https://hackernoon.com/havah-welcomes-iost-as-a-validator-expanding-the-boundaries-of-interchain-networks)
-![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-5093rgj.jpeg)
-Singapore-based enterprise-level blockchain application platform IOST proudly announces its partnership with HAVAH, the Next Generation Interchain Platform.
-
-### [79. Educational Byte: What are governance tokens and what can they do?](https://hackernoon.com/educational-byte-what-are-governance-tokens-and-what-can-they-do)
+### [78. Educational Byte: What are governance tokens and what can they do?](https://hackernoon.com/educational-byte-what-are-governance-tokens-and-what-can-they-do)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-0o833ed.png)
 Governance tokens give holders the right to participate in the decision-making process of a decentralized ecosystem. Discover how it works!
 
-### [80. How Tokens Are Turning Out To Be The Digital Currency Solution for the 21st Century](https://hackernoon.com/how-token-turned-to-be-a-new-digital-currency-solution-for-the-21st-century-234u36nt)
-![](https://cdn.hackernoon.com/images/9w2936sl.jpg)
-As we all know, the world we live in has evolved significantly. Individuals and companies are looking for new ways to bring their ideas to life, make payments for goods and services, and get enough cash flow to ensure that they stay operational in whatever it is that they choose to do or pursue.
+### [79. HAVAH Welcomes IOST as a Validator, Expanding the Boundaries of Interchain Networks](https://hackernoon.com/havah-welcomes-iost-as-a-validator-expanding-the-boundaries-of-interchain-networks)
+![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-5093rgj.jpeg)
+Singapore-based enterprise-level blockchain application platform IOST proudly announces its partnership with HAVAH, the Next Generation Interchain Platform.
 
-### [81. Tether (USDT) Expands to Kava](https://hackernoon.com/tether-usdt-expands-to-kava)
+### [80. Tether (USDT) Expands to Kava](https://hackernoon.com/tether-usdt-expands-to-kava)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-id92ptc.jpeg)
 Tether's USDT, the world's most liquid, secure, and transparent stablecoin, has successfully launched on Cosmos via Kava.
 
-### [82. Should a Native Token be the Only Holding or is There a Case for Diversification?](https://hackernoon.com/should-a-native-token-be-the-only-holding-or-is-there-a-case-for-diversification)
-![](https://cdn.hackernoon.com/images/zw2JG4uuUeNiBqFtDZUfZ9rYYGE3-gvc3e01.jpeg)
-As a DAO, the concept of holding your native token in the treasury makes sense. 
-
-### [83. Highly Anticipated Chancer Crypto Presale Officially Launches Today](https://hackernoon.com/highly-anticipated-chancer-crypto-presale-officially-launches-today)
+### [81. Highly Anticipated Chancer Crypto Presale Officially Launches Today](https://hackernoon.com/highly-anticipated-chancer-crypto-presale-officially-launches-today)
 ![](https://cdn.hackernoon.com/images/highly-anticipated-chancer-crypto-presale-officially-launches-today-clivqcl86000001s677af45p9.png)
 Chancer, one of the most exciting new Web3 projects of 2023 has officially launched its crypto presale today.
 
-### [84. Analyzing a Crypto Token: A Beginner's Guide ](https://hackernoon.com/analyzing-a-crypto-token-a-beginners-guide)
+### [82. Analyzing a Crypto Token: A Beginner's Guide ](https://hackernoon.com/analyzing-a-crypto-token-a-beginners-guide)
 ![](https://cdn.hackernoon.com/images/MHbB5N3RO3ahx89pQ0MixbwLjz42-p993ugr.jpeg)
 Crypto Investing 101
+
+### [83. How Tokens Are Turning Out To Be The Digital Currency Solution for the 21st Century](https://hackernoon.com/how-token-turned-to-be-a-new-digital-currency-solution-for-the-21st-century-234u36nt)
+![](https://cdn.hackernoon.com/images/9w2936sl.jpg)
+As we all know, the world we live in has evolved significantly. Individuals and companies are looking for new ways to bring their ideas to life, make payments for goods and services, and get enough cash flow to ensure that they stay operational in whatever it is that they choose to do or pursue.
+
+### [84. Should a Native Token be the Only Holding or is There a Case for Diversification?](https://hackernoon.com/should-a-native-token-be-the-only-holding-or-is-there-a-case-for-diversification)
+![](https://cdn.hackernoon.com/images/zw2JG4uuUeNiBqFtDZUfZ9rYYGE3-gvc3e01.jpeg)
+As a DAO, the concept of holding your native token in the treasury makes sense. 
 
 ### [85. Does Token Supply Affect the Price? Everything You Need to Know](https://hackernoon.com/does-token-supply-affect-the-price-everything-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/does-token-supply-affect-price-everything-you-need-to-know-cld9cr57p000001s6ddd18j1d.png)
@@ -361,13 +365,13 @@ It allows developers and users to send tokens, wrap native coins of supported ch
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-jw92pek.jpeg)
 Kava, the Ethereum-powered Layer-1 blockchain on Cosmos, introduces Kava 14: the upgrade enabling seamless conversion of Cosmos assets to ERC20 tokens.
 
-### [89. Secure Tokens are More Successful - Here's Why](https://hackernoon.com/secure-tokens-are-more-successful-heres-why)
-![](https://cdn.hackernoon.com/images/N5j214ghZXYQB4NBgbzyIaVTpMd2-y793oiv.jpeg)
-How important is security in the modern world? It is crucial, especially when it comes to finances, no matter the form. As the novelty of crypto assets starts w
-
-### [90. Ethereum-Powered BTCX Token Secures $1.5M to Pave the Way for Bitcoin Xin Blockchain](https://hackernoon.com/ethereum-powered-btcx-token-secures-$15m-to-pave-the-way-for-bitcoin-xin-blockchain)
+### [89. Ethereum-Powered BTCX Token Secures $1.5M to Pave the Way for Bitcoin Xin Blockchain](https://hackernoon.com/ethereum-powered-btcx-token-secures-$15m-to-pave-the-way-for-bitcoin-xin-blockchain)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-k693rmn.jpeg)
 BTCX Token has secured $1.5 million in pre-seed and seed funding to address the inefficiencies in the cryptocurrency market. 
+
+### [90. Secure Tokens are More Successful - Here's Why](https://hackernoon.com/secure-tokens-are-more-successful-heres-why)
+![](https://cdn.hackernoon.com/images/N5j214ghZXYQB4NBgbzyIaVTpMd2-y793oiv.jpeg)
+How important is security in the modern world? It is crucial, especially when it comes to finances, no matter the form. As the novelty of crypto assets starts w
 
 ### [91. Struct Finance Introduces Tranche-based BTC.B-USDC Vaults, Revolutionizing DeFi on Avalanche](https://hackernoon.com/struct-finance-introduces-tranche-based-btcb-usdc-vaults-revolutionizing-defi-on-avalanche)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-bi93r0o.jpeg)

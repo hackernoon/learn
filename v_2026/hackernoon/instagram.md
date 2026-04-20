@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [instagram](https://hackernoon.com/tagged/instagram)
+### Let's learn about [Instagram](https://hackernoon.com/tagged/instagram) via these 147 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Instagram is the popular social media platform.
 
 ### [1. How to Hack Instagram: 5 Common Vulnerabilities](https://hackernoon.com/how-to-hack-instagram-5-common-methods-and-how-to-fight-them-cl3137pg)
@@ -39,13 +41,13 @@ Santiago explains why Instagram is dead.
 ![](https://cdn.hackernoon.com/hn-images/1*-WOnbpzEecZcFBerlnJtRA.jpeg)
 Photo by RawPixel.com from Pexels.
 
-### [10. How To Get Real Instagram Followers In 2020](https://hackernoon.com/how-to-get-real-instagram-followers-in-2020-kz632hir)
-![](https://cdn.hackernoon.com/drafts/4f2hb2h1l.png)
-In 2020 -- what are you doing to grow the number of followers on your Instagram profile? 
-
-### [11. How to Protect Your Instagram Account from Being Hacked](https://hackernoon.com/how-to-protect-your-instagram-account-from-being-hacked-f6373wb3)
+### [10. How to Protect Your Instagram Account from Being Hacked](https://hackernoon.com/how-to-protect-your-instagram-account-from-being-hacked-f6373wb3)
 ![](https://images.unsplash.com/photo-1523474438810-b04a2480633c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 An Overview
+
+### [11. How To Get Real Instagram Followers In 2020](https://hackernoon.com/how-to-get-real-instagram-followers-in-2020-kz632hir)
+![](https://cdn.hackernoon.com/drafts/4f2hb2h1l.png)
+In 2020 -- what are you doing to grow the number of followers on your Instagram profile? 
 
 ### [12. How to Hack "Action Blocked" on Instagram](https://hackernoon.com/how-to-hack-action-blocked-on-instagram-axa23y1g)
 ![](https://images.unsplash.com/photo-1516251193007-45ef944ab0c6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -95,13 +97,13 @@ Felix Krause, a former Google engineer who studies privacy, said in a blog post 
 ![](https://cdn.hackernoon.com/images/GcVwGdWt0NOW2hpeZAiaqQ9CV9F3-4293owa.jpeg)
 This article explains how to launch a NFT collection for free. Learn how to promote and launch a NFT collection without having to spend any money. 
 
-### [24. 7 Ways to Secure Your Social Media Accounts](https://hackernoon.com/7-ways-to-keep-your-social-media-accounts-safe-nbk32vr)
-![](https://cdn.hackernoon.com/drafts/me6832re.png)
-In the world today, cybersecurity attacks happen every 39 seconds. 300,000 new malware is created every day; our beloved Facebook is attacked 100k+ a day; and, just very recently had a massive security breach. 
-
-### [25. Instagram Reels Performance Benchmarks](https://hackernoon.com/instagram-reels-performance-benchmarks)
+### [24. Instagram Reels Performance Benchmarks](https://hackernoon.com/instagram-reels-performance-benchmarks)
 ![](https://cdn.hackernoon.com/images/Wmp0CLaH0fTfxY1Fj45v5DNDyx22-vw93oq1.jpeg)
 Instagram Reels performance benchmarks for 2022 - Get the latest Instagram Reels insights and understand why you should integrate Reels into your strategy!
+
+### [25. 7 Ways to Secure Your Social Media Accounts](https://hackernoon.com/7-ways-to-keep-your-social-media-accounts-safe-nbk32vr)
+![](https://cdn.hackernoon.com/drafts/me6832re.png)
+In the world today, cybersecurity attacks happen every 39 seconds. 300,000 new malware is created every day; our beloved Facebook is attacked 100k+ a day; and, just very recently had a massive security breach. 
 
 ### [26. Top 6 Linktree Alternatives](https://hackernoon.com/top-6-linktree-alternatives)
 ![](https://cdn.hackernoon.com/images/tSKb1u1s4FNQ0vtmn0i5vI31sc73-fvg3k66.jpeg)
@@ -159,90 +161,90 @@ Previously I wrote an article about the importance of hashtags, and how you can 
 ![](https://cdn.hackernoon.com/drafts/7twj32tw.png)
 There has been some debate around the importance of public 'likes' on social media platforms. Let's discuss this further with sociological insights. 
 
-### [40. From the Genesis of Social Networks and Beyond](https://hackernoon.com/from-the-genesis-of-social-networks-and-beyond)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-hn93qrj.jpeg)
-Social media networks are an interesting space to watch over the next few years because of Web 3 and the decentralisation of the internet changing things.
-
-### [41. Your Instagram Guide To Finding and Communicating With Your Target Audience on Instagram](https://hackernoon.com/your-instagram-guide-to-finding-and-communicating-with-your-target-audience-on-instagram-ada7359f)
-![](https://cdn.hackernoon.com/images/HIkwa581vFV7IgzwhKmy4RWtKNo2-u1p33ji.jpeg)
-Learn how to find your best target audience on Instagram and get a ton of new customers. Reach new or existing customers on Instagram.
-
-### [42. Why We Post Less on Social Media but Scroll More](https://hackernoon.com/why-we-post-less-on-social-media-but-scroll-more)
-![](https://cdn.hackernoon.com/images/ZbaNtQcIVxQm82CIAFZx2f76Mc72-c303ggs.webp)
-We post less but scroll more. Explore why social media is shifting to "posting zero," how AI algorithms fuel doomscrolling, and if we can reclaim the internet.
-
-### [43. The Future Of Programming ](https://hackernoon.com/the-future-of-programming-zqb373an6)
-![](https://cdn.hackernoon.com/images/in1937mu.jpg)
-2019 has been a big year for AR.
-
-### [44. These People Bought and Scammed Their Way to Get Instagram Verification Checkmarks](https://hackernoon.com/these-people-bought-and-scammed-their-way-to-get-instagram-verification-checkmarks)
-![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-8qh2hj4.jpeg)
-A ProPublica investigation determined that Jugenburg’s dubious alter ego was created as part of what appears to be an Instagram account verification scam.
-
-### [45. How to Activate Disappearing Messages on Instagram](https://hackernoon.com/how-to-activate-disappearing-messages-on-instagram)
-![](https://cdn.hackernoon.com/images/bBhbLrt9cuVdCF1JKDXypRGyWH43-jv93pjh.jpeg)
-In this post, you will get complete knowledge of how to hide Instagram messages without deleting them.
-
-### [46. How SoClose For Instagram Provides Revenue for College Athletes](https://hackernoon.com/how-soclose-for-instagram-provides-revenue-for-college-athletes-7x4u3ugk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FskssOeH48yQNdDqRAn28z8IHu6i1-ht1c3u6i.jpeg?alt=media&token=bbf71729-a897-4b6d-abd7-7d4143f80ed4)
-The NCAA recently announced that they will soon be in support of college athletes obtaining brand partnership and sponsorship deals, leaving college athletes all over the nation highly anticipating the 2021-2022 season. 
-
-### [47. Top 5 Instagram Growth Services](https://hackernoon.com/top-5-instagram-growth-services-h82534g2)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRwOni0dRK4bQneKYyVcs8QBYDs22-mh1w3ert.jpeg?alt=media&token=f1986b35-6cc8-45ce-8512-d83656937fa7)
-Instagram is currently one of the top marketing platforms for brands and businesses. With ever-evolving features for content and in-app shopping, there’s no sign of slowing for the social media giant’s prowess and the need for businesses to establish a firm presence. 
-
-### [48. Engineering Instagram Captions: A Structured Prompt for AI Tools](https://hackernoon.com/engineering-instagram-captions-a-structured-prompt-for-ai-tools)
+### [40. Engineering Instagram Captions: A Structured Prompt for AI Tools](https://hackernoon.com/engineering-instagram-captions-a-structured-prompt-for-ai-tools)
 ![](https://cdn.hackernoon.com/images/4QQhIuTcGWPBcSXw0KTQbpwavoG2-b7037tq.png)
 A comprehensive prompt engineering framework that turns AI models into Instagram caption generators. Includes structured inputs, quality gates, and real example
 
-### [49. 7 tips to jazz-up your Instagram account](https://hackernoon.com/7-tips-to-jazz-up-your-instagram-account-tfs32my)
-![](https://cdn.hackernoon.com/images/b8oi32ro.jpg)
-The stronger your social media presence is, the more powerful you are in
-the world of marketing. And over time, Instagram is gaining huge popularity, especially among teens. The stats reveal that Instagram images gain 23% more engagement (on average) than their Facebook counterparts!
+### [41. From the Genesis of Social Networks and Beyond](https://hackernoon.com/from-the-genesis-of-social-networks-and-beyond)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-hn93qrj.jpeg)
+Social media networks are an interesting space to watch over the next few years because of Web 3 and the decentralisation of the internet changing things.
+
+### [42. Your Instagram Guide To Finding and Communicating With Your Target Audience on Instagram](https://hackernoon.com/your-instagram-guide-to-finding-and-communicating-with-your-target-audience-on-instagram-ada7359f)
+![](https://cdn.hackernoon.com/images/HIkwa581vFV7IgzwhKmy4RWtKNo2-u1p33ji.jpeg)
+Learn how to find your best target audience on Instagram and get a ton of new customers. Reach new or existing customers on Instagram.
+
+### [43. Why We Post Less on Social Media but Scroll More](https://hackernoon.com/why-we-post-less-on-social-media-but-scroll-more)
+![](https://cdn.hackernoon.com/images/ZbaNtQcIVxQm82CIAFZx2f76Mc72-c303ggs.webp)
+We post less but scroll more. Explore why social media is shifting to "posting zero," how AI algorithms fuel doomscrolling, and if we can reclaim the internet.
+
+### [44. The Future Of Programming ](https://hackernoon.com/the-future-of-programming-zqb373an6)
+![](https://cdn.hackernoon.com/images/in1937mu.jpg)
+2019 has been a big year for AR.
+
+### [45. These People Bought and Scammed Their Way to Get Instagram Verification Checkmarks](https://hackernoon.com/these-people-bought-and-scammed-their-way-to-get-instagram-verification-checkmarks)
+![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-8qh2hj4.jpeg)
+A ProPublica investigation determined that Jugenburg’s dubious alter ego was created as part of what appears to be an Instagram account verification scam.
+
+### [46. How to Activate Disappearing Messages on Instagram](https://hackernoon.com/how-to-activate-disappearing-messages-on-instagram)
+![](https://cdn.hackernoon.com/images/bBhbLrt9cuVdCF1JKDXypRGyWH43-jv93pjh.jpeg)
+In this post, you will get complete knowledge of how to hide Instagram messages without deleting them.
+
+### [47. How SoClose For Instagram Provides Revenue for College Athletes](https://hackernoon.com/how-soclose-for-instagram-provides-revenue-for-college-athletes-7x4u3ugk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FskssOeH48yQNdDqRAn28z8IHu6i1-ht1c3u6i.jpeg?alt=media&token=bbf71729-a897-4b6d-abd7-7d4143f80ed4)
+The NCAA recently announced that they will soon be in support of college athletes obtaining brand partnership and sponsorship deals, leaving college athletes all over the nation highly anticipating the 2021-2022 season. 
+
+### [48. Top 5 Instagram Growth Services](https://hackernoon.com/top-5-instagram-growth-services-h82534g2)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRwOni0dRK4bQneKYyVcs8QBYDs22-mh1w3ert.jpeg?alt=media&token=f1986b35-6cc8-45ce-8512-d83656937fa7)
+Instagram is currently one of the top marketing platforms for brands and businesses. With ever-evolving features for content and in-app shopping, there’s no sign of slowing for the social media giant’s prowess and the need for businesses to establish a firm presence. 
+
+### [49. Pixelated Social Media Icon GIFs: Facebook, Twitter, LinkedIn, GitHub, YouTube and Instagram](https://hackernoon.com/pixelated-social-media-icon-gifs-facebook-twitter-linkedin-github-youtube-and-instagram-5kn3ad3)
+![](https://cdn.hackernoon.com/images/cicv2ia6.gif)
+Hacker Noon has a new Giphy account. Our first 30 GIFs have created over 2.2 million views. These popular social media icons have been pixelated, greenified and GIF-ed: 
 
 ### [50. Live-streaming Unicorn Tango Shows how Focus can be the Difference](https://hackernoon.com/live-streaming-unicorn-tango-shows-how-focus-can-be-the-difference)
 ![](https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-c994j4t.jpeg)
 From basic filters to complex AR face-changing features, then live-streaming and broadcasting, the evolution of social media has moved at breakneck speed.
 
-### [51. Most Photographed Places in Paris [Facebook Data Analysis]](https://hackernoon.com/most-photographed-places-in-paris-facebook-data-analysis-qj2a332v)
+### [51. 7 tips to jazz-up your Instagram account](https://hackernoon.com/7-tips-to-jazz-up-your-instagram-account-tfs32my)
+![](https://cdn.hackernoon.com/images/b8oi32ro.jpg)
+The stronger your social media presence is, the more powerful you are in
+the world of marketing. And over time, Instagram is gaining huge popularity, especially among teens. The stats reveal that Instagram images gain 23% more engagement (on average) than their Facebook counterparts!
+
+### [52. Most Photographed Places in Paris [Facebook Data Analysis]](https://hackernoon.com/most-photographed-places-in-paris-facebook-data-analysis-qj2a332v)
 ![](https://cdn.hackernoon.com/images/rTrhHLrx9IPDoD8YYbYymdBYWky2-nt2u3191.jpeg)
 I analyzed all locations from Instagram and Facebook to find out the most photographed places in Paris. I also managed to get the data about the expensiveness and popularity during the day. Below you can find my report with a bunch of sexy maps and insightful tables. Enjoy 😉
 
-### [52. Instagram vs. Snapchat: The People's Choice](https://hackernoon.com/instagram-vs-snapchat-the-peoples-choice)
+### [53. Instagram vs. Snapchat: The People's Choice](https://hackernoon.com/instagram-vs-snapchat-the-peoples-choice)
 ![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-1u63512.jpeg)
 The popular social media apps; Instagram and Snapchat have been compared side by side by users. Today's piece discusses both apps and helps you make a decision.
 
-### [53. Khloe Kardashian's Failed Shilling of Febreze [A Deep Dive]](https://hackernoon.com/khloe-kardashians-failed-shilling-of-febreze-a-deep-dive-50uo3z3m)
+### [54. Khloe Kardashian's Failed Shilling of Febreze [A Deep Dive]](https://hackernoon.com/khloe-kardashians-failed-shilling-of-febreze-a-deep-dive-50uo3z3m)
 ![](https://cdn.hackernoon.com/images/wdn23zq3.jpg)
 Khloé Kardashian is one of the many famous influencers. Her posts cost a fortune and brands who can afford it count on her excessive fan base to make it worth it. 
 
-### [54. 5 Free Instagram Video Downloader Apps in 2020 & 2021](https://hackernoon.com/5-free-instagram-video-downloader-apps-in-2020-and-2021-4r3o34di)
+### [55. 5 Free Instagram Video Downloader Apps in 2020 & 2021](https://hackernoon.com/5-free-instagram-video-downloader-apps-in-2020-and-2021-4r3o34di)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9gdx0E3EIzNMBW2e4JaRbSztA3Y2-5r1r3wc7.jpeg?alt=media&token=c8c8ad88-dcaf-4e27-b8e3-562ca5668797)
 Inst Download, FastSave, and Saver Reposter are some of the best free Instagram video downloader apps available today.
 
-### [55. Pixelated Social Media Icon GIFs: Facebook, Twitter, LinkedIn, GitHub, YouTube and Instagram](https://hackernoon.com/pixelated-social-media-icon-gifs-facebook-twitter-linkedin-github-youtube-and-instagram-5kn3ad3)
-![](https://cdn.hackernoon.com/images/cicv2ia6.gif)
-Hacker Noon has a new Giphy account. Our first 30 GIFs have created over 2.2 million views. These popular social media icons have been pixelated, greenified and GIF-ed: 
-
-### [56. Targeting and fake followers: how can we solve the most acute problems of influencer marketing?](https://hackernoon.com/targeting-and-fake-followers-how-to-solve-the-most-acute-problems-of-influencer-marketing-pe1eo3131)
-![](https://cdn.hackernoon.com/drafts/p078d31zv.png)
-Influencer marketing prospects really impress! This market has doubled for the last year and a half and currently amounts to over $2 billion. No wonder! Bloggers give brands access to a huge audience on social networks. Instagram bloggers lead by a wide margin: 69% of marketers promote products with their help. However, there are some obstacles to the growth of this market, because of which small business almost does not risk to use the services of Instagram stars. Their prices are crazy high, guarantees are not always provided, and the selection of relevant influencers is too complicated. Data scientist Arthur Suilin presents problems with the new marketing industry and their solutions. Editor and co-author Egor Perezhogin.
-
-### [57. The Social Proof Paradox](https://hackernoon.com/the-social-proof-paradox-gw4z3y7f)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-8h2j3uyi.jpeg?alt=media&token=26ca1b63-8d3c-4101-bd25-5c188419dbf1)
-“Proof” is one of those words that starts to seem funny if you look at it too long. Interestingly, our current understanding of the word only really took shape in the late 19th century, and its earliest etymology traces back to the Latin ‘probare’, meaning ‘to test’:
-
-### [58. What Does “Link in Bio” Mean and How to Make it More Effective](https://hackernoon.com/what-does-link-in-bio-mean-and-how-to-make-it-more-effective)
+### [56. What Does “Link in Bio” Mean and How to Make it More Effective](https://hackernoon.com/what-does-link-in-bio-mean-and-how-to-make-it-more-effective)
 ![](https://cdn.hackernoon.com/images/tSKb1u1s4FNQ0vtmn0i5vI31sc73-wir3lry.jpeg)
 Always wondered what Link In Bio means? After reading this article, you'll understand what it is, where to find it and how to make your own link more effective.
+
+### [57. Stitching Together My Thoughts on Threads](https://hackernoon.com/stitching-together-my-thoughts-on-threads)
+![](https://cdn.hackernoon.com/images/zaVyJ3dcr6YgXE0hJ3QabUCHwFi1-nxa3zq6.jpeg)
+On Wednesday, Meta expanded its social media empire, with the Instagram-based text app, Threads. We have some thoughts.
+
+### [58. Targeting and fake followers: how can we solve the most acute problems of influencer marketing?](https://hackernoon.com/targeting-and-fake-followers-how-to-solve-the-most-acute-problems-of-influencer-marketing-pe1eo3131)
+![](https://cdn.hackernoon.com/drafts/p078d31zv.png)
+Influencer marketing prospects really impress! This market has doubled for the last year and a half and currently amounts to over $2 billion. No wonder! Bloggers give brands access to a huge audience on social networks. Instagram bloggers lead by a wide margin: 69% of marketers promote products with their help. However, there are some obstacles to the growth of this market, because of which small business almost does not risk to use the services of Instagram stars. Their prices are crazy high, guarantees are not always provided, and the selection of relevant influencers is too complicated. Data scientist Arthur Suilin presents problems with the new marketing industry and their solutions. Editor and co-author Egor Perezhogin.
 
 ### [59. Here’s What You Need to Know About How Instagram Works](https://hackernoon.com/heres-what-you-need-to-know-about-how-instagram-works)
 ![](https://cdn.hackernoon.com/images/instagram-clim3e86x000001s68x9dhe29.png)
 Adam Mosseri (Instagram CEO) just explained exactly how the Instagram algorithm works, and how they rank content in stories, feed, reels & explore.
 
-### [60. Stitching Together My Thoughts on Threads](https://hackernoon.com/stitching-together-my-thoughts-on-threads)
-![](https://cdn.hackernoon.com/images/zaVyJ3dcr6YgXE0hJ3QabUCHwFi1-nxa3zq6.jpeg)
-On Wednesday, Meta expanded its social media empire, with the Instagram-based text app, Threads. We have some thoughts.
+### [60. The Social Proof Paradox](https://hackernoon.com/the-social-proof-paradox-gw4z3y7f)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-8h2j3uyi.jpeg?alt=media&token=26ca1b63-8d3c-4101-bd25-5c188419dbf1)
+“Proof” is one of those words that starts to seem funny if you look at it too long. Interestingly, our current understanding of the word only really took shape in the late 19th century, and its earliest etymology traces back to the Latin ‘probare’, meaning ‘to test’:
 
 ### [61. Virtual Influencers, like Lil Miquela, Post Real Content Just Like You and Me](https://hackernoon.com/virtual-influencers-like-lil-miquela-post-real-content-just-like-you-and-me-994z3z5e)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5TXdLOXAGcZy6b00y7at6PQovaf2-3e183w7e.jpeg?alt=media&token=f80dace9-f2d3-4ee4-bdb2-ce9baa957158)
@@ -296,21 +298,21 @@ Of the major social networks, Instagram is definitely one of the most public. It
 ![](https://cdn.hackernoon.com/images/ab1492hkw.jpg)
 My name is Mads Phikamphon and I'm the founder of Bulk Hackers and Madlisten.
 
-### [74. Twitter Stock Curiously Tanked as People Flock to the App while #InstagramFacebookDown](https://hackernoon.com/twitter-stock-curiously-tanked-as-people-flock-to-the-app-while-instagramfacebookdown)
+### [74. Beyond Being Shadowbanned: Instagram's Process of Demoting and Deleting Posts](https://hackernoon.com/beyond-being-shadowbanned-instagrams-process-of-demoting-and-deleting-posts)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-x603bwr.jpeg)
+In our experiments, we posted comments designed to violate Instagram policies on spam and bullying to our test accounts to trigger deletions and review requests
+
+### [75. Twitter Stock Curiously Tanked as People Flock to the App while #InstagramFacebookDown](https://hackernoon.com/twitter-stock-curiously-tanked-as-people-flock-to-the-app-while-instagramfacebookdown)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-ia6368d.jpeg)
 Is Kanye responsible for Facebook going down?! A Hackernoon watercooler chat. 
 
-### [75. Instagram Tracker – A Must Have Tool for Every Insta Influencer](https://hackernoon.com/instagram-tracker-a-must-have-tool-for-every-insta-influencer-tr303t8z)
+### [76. Instagram Tracker – A Must Have Tool for Every Insta Influencer](https://hackernoon.com/instagram-tracker-a-must-have-tool-for-every-insta-influencer-tr303t8z)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FbcdNBSrILpX6WFZDaIErn6I5Oi03-l11x3tgi.jpeg?alt=media&token=f59ec2c3-8724-4625-aa48-7321ddad9203)
 Instagram has become one of the most popular social media platforms in no time. It is loved for its vibrant interface, photo filters and a host of unique features. Not only is it a great platform to re-unite with old friends and make new ones but also a perfect place to display your talent and turn your passion into profession. 
 
-### [76. Creating Your Instagram Strategy To Gain Quality Followers](https://hackernoon.com/creating-your-instagram-strategy-to-gain-quality-followers-bm4f35dh)
+### [77. Creating Your Instagram Strategy To Gain Quality Followers](https://hackernoon.com/creating-your-instagram-strategy-to-gain-quality-followers-bm4f35dh)
 ![](https://hackernoon.com/images/Egk4QeHIKwhohdHCIbmstmLhCnp2-xf8y29ee.jpeg)
 We're sharing 5 approaches to target your intended interest groups so you can gain more quality Instagram followers in 2021.
-
-### [77. Beyond Being Shadowbanned: Instagram's Process of Demoting and Deleting Posts](https://hackernoon.com/beyond-being-shadowbanned-instagrams-process-of-demoting-and-deleting-posts)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-x603bwr.jpeg)
-In our experiments, we posted comments designed to violate Instagram policies on spam and bullying to our test accounts to trigger deletions and review requests
 
 ### [78. Why Are Virtual Influencers Appealing to Gen Zers?](https://hackernoon.com/why-are-virtual-influencers-appealing-to-gen-zers)
 ![](https://cdn.hackernoon.com/images/vql7I4fl7oNtRPQztWEQC5MRP8F3-io735dt.jpeg)
@@ -328,13 +330,13 @@ No matter if you’re just starting out with your first store, or are running a 
 ![](https://cdn.hackernoon.com/images/1x9ti31h6.jpg)
 Do’s and Don’t’s of Using Hashtags to Be the Real Game Changer of Social Media Marketing.
 
-### [82. 9 Beneficial Tools To Grow Your Social Media in 2020](https://hackernoon.com/9-beneficial-tools-to-grow-your-social-media-in-2020-4v2r3ulj)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVAXGQbLmqTOWH0sDPEJZUYAukTo2-x42n32uv.jpeg?alt=media&token=197f50ac-dec5-40a8-afa3-ce88b043729a)
-If you’re looking for the best tools to grow your social media then look no further. In today’s article we’re going to delve into how you can find the tools that can help you grow your social media presence with the least amount of work possible (we like to be efficient).
-
-### [83. Navigating Lay-Offs in the Tech Industry: My Experience and What It Means](https://hackernoon.com/navigating-lay-offs-in-the-tech-industry-my-experience-and-what-it-means)
+### [82. Navigating Lay-Offs in the Tech Industry: My Experience and What It Means](https://hackernoon.com/navigating-lay-offs-in-the-tech-industry-my-experience-and-what-it-means)
 ![](https://cdn.hackernoon.com/images/y3uk89KMZnfiawpEREPict96IDp2-2m93pqk.jpeg)
 My experience and history of lay-offs
+
+### [83. 9 Beneficial Tools To Grow Your Social Media in 2020](https://hackernoon.com/9-beneficial-tools-to-grow-your-social-media-in-2020-4v2r3ulj)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVAXGQbLmqTOWH0sDPEJZUYAukTo2-x42n32uv.jpeg?alt=media&token=197f50ac-dec5-40a8-afa3-ce88b043729a)
+If you’re looking for the best tools to grow your social media then look no further. In today’s article we’re going to delve into how you can find the tools that can help you grow your social media presence with the least amount of work possible (we like to be efficient).
 
 ### [84. Upcoming Twitter, Instagram, and LinkedIn Features: Unrelease Updates with Nima - Vol. 3 ](https://hackernoon.com/upcoming-twitter-instagram-and-linkedin-features-unrelease-updates-with-nima-vol-3)
 ![](https://cdn.hackernoon.com/images/A0JT0kWjB2UTOGzv9jXoh17Xc5H2-que396h.jpeg)
@@ -344,57 +346,57 @@ The unreleased updates of famous apps like Twitter and Instagram - 3rd Issue
 ![](https://cdn.hackernoon.com/images/5q5VrlKO8ac9SpKWTlyrckGLIT72-ss03nyx.jpeg)
 With the internet become more and more vulnerable to outages and crashes, will the answer to more stability come in the form of more decentralisation?
 
-### [86. TikTok vs Instagram:  Which's Trending More? [Infographic]](https://hackernoon.com/tiktok-vs-instagram-whichs-trending-more-infographic-w1h3u2o)
-![](https://cdn.hackernoon.com/drafts/v6z03ygo.png)
-New social media platforms spring up daily, but not all of them go viral and get downloaded like crazy; not at least like Instagram did in its heyday. There was a point of time when Instagram reigned supreme in the kingdom of most downloaded apps worldwide and no other app could dare challenge that supremacy.
-
-### [87. Graphing How Many Times People Liked my Posts on Instagram](https://hackernoon.com/graphing-how-many-times-people-liked-my-posts-on-instagram)
-![](https://cdn.hackernoon.com/images/uZmMdte5KwasJLTaCYWHQ2zZQwy1-88037dr.png)
-Visualising knowledge in a (somewhat) readable way, so you can flex on your friends and show your data collection skills.
-
-### [88. NFT are Officially on Instagram with the NFT Toolkit 📱](https://hackernoon.com/nft-are-officially-on-instagram-with-the-nft-toolkit)
+### [86. NFT are Officially on Instagram with the NFT Toolkit 📱](https://hackernoon.com/nft-are-officially-on-instagram-with-the-nft-toolkit)
 ![](https://cdn.hackernoon.com/images/QEKwOaPQmAdJzsofGdl67h67WFn1-n5a3q13.jpeg)
 Let’s dive into what we can expect from this NFT toolkit and also touch on the rise of web3’s native social media ecosystem
 
-### [89. 5 Ways to Use the Instagram Conversion Pixel](https://hackernoon.com/5-ways-to-use-the-instagram-conversion-pixel-m51132wi)
-![](https://cdn.hackernoon.com/images/835o32ol.jpg)
-The most important aspect of advertising via social media is to get results and see your marketing efforts working. Facebook owns Instagram making Instagram one of the leading networks for businesses to advertise on. So it only makes sense that business want to see direct results. Instagram offers a conversion pixel through Facebook to help with this. 
+### [87. Why Australia's Under 16 Social Media Ban Matters ](https://hackernoon.com/why-australias-under-16-social-media-ban-matters)
+![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-6503bk8.jpeg)
+Parents try to sidestep Australia’s social media under-16 bans in order to allow children to continue using these platforms. Why the ban matters
+
+### [88. Graphing How Many Times People Liked my Posts on Instagram](https://hackernoon.com/graphing-how-many-times-people-liked-my-posts-on-instagram)
+![](https://cdn.hackernoon.com/images/uZmMdte5KwasJLTaCYWHQ2zZQwy1-88037dr.png)
+Visualising knowledge in a (somewhat) readable way, so you can flex on your friends and show your data collection skills.
+
+### [89. TikTok vs Instagram:  Which's Trending More? [Infographic]](https://hackernoon.com/tiktok-vs-instagram-whichs-trending-more-infographic-w1h3u2o)
+![](https://cdn.hackernoon.com/drafts/v6z03ygo.png)
+New social media platforms spring up daily, but not all of them go viral and get downloaded like crazy; not at least like Instagram did in its heyday. There was a point of time when Instagram reigned supreme in the kingdom of most downloaded apps worldwide and no other app could dare challenge that supremacy.
 
 ### [90. Where Do We Draw the Line in Social Media?](https://hackernoon.com/where-do-we-draw-the-line-in-social-media)
 ![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-x4035dq.jpeg)
 In this slogging thread, the technology channel discussed the pros and cons of Social Media. We covered how it's helpful but can have a negative side effect.
 
-### [91. AI, Automation, And The Lost Art Of Photography](https://hackernoon.com/ai-automation-and-the-lost-art-of-photography-08aj33ol)
+### [91. 5 Ways to Use the Instagram Conversion Pixel](https://hackernoon.com/5-ways-to-use-the-instagram-conversion-pixel-m51132wi)
+![](https://cdn.hackernoon.com/images/835o32ol.jpg)
+The most important aspect of advertising via social media is to get results and see your marketing efforts working. Facebook owns Instagram making Instagram one of the leading networks for businesses to advertise on. So it only makes sense that business want to see direct results. Instagram offers a conversion pixel through Facebook to help with this. 
+
+### [92. AI, Automation, And The Lost Art Of Photography](https://hackernoon.com/ai-automation-and-the-lost-art-of-photography-08aj33ol)
 ![](https://cdn.hackernoon.com/drafts/xq2w32j6.png)
 The art of photography has been changed in many ways by technology over recent years, from the proliferation of filtering and photo-editing apps to social media’s constant inundation of digitally enhanced photographs that make us question what it means to be a photographer. Time Magazine has even taken it so far as to declare that photography is dead, claiming its “puberty” was around the time when technology moved 
 
-### [92. Update on Instagram's Year of Autonomy](https://hackernoon.com/update-on-instagrams-year-of-autonomy)
+### [93. Update on Instagram's Year of Autonomy](https://hackernoon.com/update-on-instagrams-year-of-autonomy)
 ![](https://cdn.hackernoon.com/images/bfow72wADMVhoTK01dZ8eVqhPVl1-sfa3pyc.jpeg)
 In response to "Update on Meta’s Year of Efficiency" written by Facebook CEO Mark Zuckerberg on March 14, 2023, instagram should form a DAO.
 
-### [93. Why Australia's Under 16 Social Media Ban Matters ](https://hackernoon.com/why-australias-under-16-social-media-ban-matters)
-![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-6503bk8.jpeg)
-Parents try to sidestep Australia’s social media under-16 bans in order to allow children to continue using these platforms. Why the ban matters
+### [94. So You Think You've Been Shadowbanned on Instagram, Huh? How to Check and What to Do](https://hackernoon.com/so-you-think-youve-been-shadowbanned-on-instagram-huh-how-to-check-and-what-to-do)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-at03bj4.jpeg)
+If you think you’ve been shadowbanned on Instagram, here’s what you can do. 
 
-### [94. The Great Social Media Showdown: Threads vs. X](https://hackernoon.com/the-great-social-media-showdown-threads-vs-x)
+### [95. The Great Social Media Showdown: Threads vs. X](https://hackernoon.com/the-great-social-media-showdown-threads-vs-x)
 ![](https://cdn.hackernoon.com/images/5wSk8f9DWKMvXF2Axz0zeiU2shR2-n9a3x8w.jpeg)
 See how Meta's new Threads app compares feature-by-feature against X, Twitter's rebranded successor, along with each network's user reception and philosophy.
 
-### [95. Is Your Social Media Actually Social?](https://hackernoon.com/is-social-media-actually-social-rvg432hz)
+### [96. Is Your Social Media Actually Social?](https://hackernoon.com/is-social-media-actually-social-rvg432hz)
 ![](https://cdn.hackernoon.com/drafts/0sbf4321b.png)
 Social media is “social” in the sense it relates to society at large. People seek connection with society to find the communities they belong to, a marketplace for their services and ensure their own welfare as a member of that society. 
 
-### [96. 8 Social Media Scheduler Tools to Grow Your Online Audience](https://hackernoon.com/8-social-media-scheduler-tools-to-grow-your-online-audience-9x3y3w3u)
+### [97. 8 Social Media Scheduler Tools to Grow Your Online Audience](https://hackernoon.com/8-social-media-scheduler-tools-to-grow-your-online-audience-9x3y3w3u)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-av3t3w0i.jpeg?alt=media&token=5c27ed8c-2010-4b61-8a76-316a9ed726c9)
 Social media marketing: this term has certainly become one of the most important for everyone who wishes to have a digital presence. Especially when you are a blogger, influencer, artist, coach, a new startup, or a solo entrepreneur - social media is the place when you can get the maximum attention from your target audience. But, for that, you need to be active on all your social media platforms. You need to post consistently and interact with your followers. This can be a little overwhelming as there are a lot of social platforms to manage at the same time. However, this task can be made easy by using a social media scheduler!
 
-### [97. Snapchat and Instagram Story Ideas: How to Keep Your Account Active](https://hackernoon.com/snapchat-and-instagram-story-ideas-how-to-keep-your-account-active)
+### [98. Snapchat and Instagram Story Ideas: How to Keep Your Account Active](https://hackernoon.com/snapchat-and-instagram-story-ideas-how-to-keep-your-account-active)
 ![](https://cdn.hackernoon.com/images/hvrUiG4CmgZkGs6qw2FaGwD1NBQ2-x392kxp.jpeg)
 Discover authentic Snapchat and Instagram story ideas to connect with your followers and keep your account active. Engage, inspire, and grow!
-
-### [98. Top 10 Places to Find Niche Instagram Hashtags in 2021](https://hackernoon.com/top-10-places-to-find-niche-instagram-hashtags-in-2021-4s1431bq)
-![](https://cdn.hackernoon.com/images/CfBjDJcvh4XjSZMPggNzLdl4h353-pu1b31yv.jpeg)
-The main reason for using hashtags is to make your content discoverable by the right people. See the top 10 places to find hashtags for your audience in 2021.
 
 ### [99. How to Take a Social Media Break: 4 Essential Tips and Tricks](https://hackernoon.com/how-to-take-a-social-media-break-4-essential-tips-and-tricks-c5483zxi)
 ![](https://cdn.hackernoon.com/images/JeJLJhOGw1UlLLa7yUZkQm6W5fp1-01a3182.jpeg)
@@ -404,29 +406,29 @@ Take a social media break; it will result in great things. If you are ready to t
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpBZQHAYFMScWYkzxRTE224kNF8J3-08983u6e.jpeg?alt=media&token=abee3d6e-6cf5-4df1-a121-c979ca6faad8)
 I have seen a lot of Indians suffering due to the TikTok ban recently. A plethora of apps are gaining popularity amidst this ban such as Chingari & Roposo, and now the giant Instagram, has left no stone unturned by launching Reels in India. 
 
-### [101. How to Download Videos from Instagram?](https://hackernoon.com/how-to-download-videos-from-instagram-173l3vip)
-![](https://images.unsplash.com/photo-1505322747495-6afdd3b70760?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Instagram the app by Facebook, is the best social media app. It has users over billions worldwide. It allows you to share videos, images and text messages. You can share this content by posting on your profile or stories.
+### [101. Top 10 Places to Find Niche Instagram Hashtags in 2021](https://hackernoon.com/top-10-places-to-find-niche-instagram-hashtags-in-2021-4s1431bq)
+![](https://cdn.hackernoon.com/images/CfBjDJcvh4XjSZMPggNzLdl4h353-pu1b31yv.jpeg)
+The main reason for using hashtags is to make your content discoverable by the right people. See the top 10 places to find hashtags for your audience in 2021.
 
 ### [102. Instagram Influencer Marketing: The Nuts and Bolts Of It](https://hackernoon.com/instagram-influencer-marketing-the-nuts-and-bolts-of-it-u9383wgc)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F83Q593Q01ZbEJfEJP1UgpqjbzdA3-ok4i3c6y.jpeg?alt=media&token=af68d469-3316-4cfe-9b88-a0a938187911)
 The rise of the internet and social media created a significant impact on our purchasing behavior. A Nielsen survey found that there has been a shift in the effectiveness of advertisements in the favor of peer recommendations. 
 
-### [103. So You Think You've Been Shadowbanned on Instagram, Huh? How to Check and What to Do](https://hackernoon.com/so-you-think-youve-been-shadowbanned-on-instagram-huh-how-to-check-and-what-to-do)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-at03bj4.jpeg)
-If you think you’ve been shadowbanned on Instagram, here’s what you can do. 
+### [103. How to Download Videos from Instagram?](https://hackernoon.com/how-to-download-videos-from-instagram-173l3vip)
+![](https://images.unsplash.com/photo-1505322747495-6afdd3b70760?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Instagram the app by Facebook, is the best social media app. It has users over billions worldwide. It allows you to share videos, images and text messages. You can share this content by posting on your profile or stories.
 
 ### [104. In the Billionaire’s Fight, We’re the Casualties](https://hackernoon.com/in-the-billionaires-fight-were-the-casualties)
 ![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-5y93ugf.jpeg)
 These two men have a combined net worth of $345 billion (!), 150+ million followers (!) and 13+ kids (!). 
 
-### [105. Will Someone Make Attention Apps Cool Again?](https://hackernoon.com/no-attention-for-attention-apps-9u9n3z5j)
-![](https://cdn.hackernoon.com/drafts/u9ew3zkd.png)
-Tinder, Snapchat, Twitter, and Instagram are just a few of the prominent apps that give users a dopamine high as their content gets traction. But these apps have masked fulfillment of the attention need with other core features, which normalize attention-seeking behavior. Tinder lets you meet cool people. Instagram makes you look cool. And Twitter makes you sound cool. Why doesn’t anonymous attention make you cool?
-
-### [106. How We Automated Our Fitness Instagram](https://hackernoon.com/how-we-automated-our-fitness-instagram-nw1432qm)
+### [105. How We Automated Our Fitness Instagram](https://hackernoon.com/how-we-automated-our-fitness-instagram-nw1432qm)
 ![](https://cdn.hackernoon.com/images/q61l03y9k.jpg)
 Our website Bulk Hackers interview people who do great in fitness. A big part of the online fitness is Instagram, so just like everybody else we have an Instagram account.
+
+### [106. Will Someone Make Attention Apps Cool Again?](https://hackernoon.com/no-attention-for-attention-apps-9u9n3z5j)
+![](https://cdn.hackernoon.com/drafts/u9ew3zkd.png)
+Tinder, Snapchat, Twitter, and Instagram are just a few of the prominent apps that give users a dopamine high as their content gets traction. But these apps have masked fulfillment of the attention need with other core features, which normalize attention-seeking behavior. Tinder lets you meet cool people. Instagram makes you look cool. And Twitter makes you sound cool. Why doesn’t anonymous attention make you cool?
 
 ### [107. How Video Consumption Has Impacted the World in the Digital Age](https://hackernoon.com/how-video-consumption-has-impacted-the-world-in-the-digital-age)
 ![](https://cdn.hackernoon.com/images/RO6RV52fTMPrCEva4UGeJPCO5J52-va035pf.jpeg)
@@ -440,21 +442,21 @@ Hoping this post might help you not make cringe mistakes most influencers make w
 ![](https://cdn.hackernoon.com/images/MEd0xnRzO0dpNMKq3mKkl20pPjv1-i3136tm.jpeg)
 Between 2010 and 2014, rates of self-harm, depression, and anxiety among teenage girls doubled; is Instagram to blame?
 
-### [110. A Real Social Dilemma: Meta Threatens to Shut Down Facebook and Instagram in Europe](https://hackernoon.com/a-real-social-dilemma-meta-threatens-to-shut-down-facebook-and-instagram-in-europe)
+### [110. Instagram Creators Should Check If Their Posts Are Being Deemed Political](https://hackernoon.com/instagram-creators-should-check-if-their-posts-are-being-deemed-political)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0u03din.jpeg)
+Instagram “won’t proactively recommend content about politics,” according to a blog post it issued Feb. 9.
+
+### [111. A Real Social Dilemma: Meta Threatens to Shut Down Facebook and Instagram in Europe](https://hackernoon.com/a-real-social-dilemma-meta-threatens-to-shut-down-facebook-and-instagram-in-europe)
 ![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-nh93hfc.jpeg)
 In this slogging thread, our community took the chance to discuss this issue after reading the news that Meta may be shutting down Facebook and Instagram.
 
-### [111. Best Instagram Analytics Tools in 2020](https://hackernoon.com/best-instagram-analytics-tools-in-2020-yxf3ul5)
+### [112. Best Instagram Analytics Tools in 2020](https://hackernoon.com/best-instagram-analytics-tools-in-2020-yxf3ul5)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FoptmhzMYkmWBuVZpgWQG5GINrRa2-nd4l3uj9.jpeg?alt=media&token=82179c09-2aba-4d96-8408-514b341dba2c)
 Many people run their business on Instagram and want to know about their performance by identifying their business insights. Earlier, people also criticized Insta for not providing any analytics tools that describe the performance and optimize their posts. 
 
-### [112. How Often Should You Post On Instagram?](https://hackernoon.com/how-often-should-you-post-on-instagram-li1e3ugn)
+### [113. How Often Should You Post On Instagram?](https://hackernoon.com/how-often-should-you-post-on-instagram-li1e3ugn)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVAXGQbLmqTOWH0sDPEJZUYAukTo2-7849329k.jpeg?alt=media&token=eae09ca4-bc80-4089-b0d7-ef143df5f5f2)
 How often should you post on Instagram? That’s the million dollar question with an easy answer for most, but there’s not a one size fits all approach.
-
-### [113. Instagram Creators Should Check If Their Posts Are Being Deemed Political](https://hackernoon.com/instagram-creators-should-check-if-their-posts-are-being-deemed-political)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0u03din.jpeg)
-Instagram “won’t proactively recommend content about politics,” according to a blog post it issued Feb. 9.
 
 ### [114. Why There Are So Many Twitter Alternatives](https://hackernoon.com/why-there-are-so-many-twitter-alternatives)
 ![](https://cdn.hackernoon.com/images/SOf9mPlnQhQLs0kjIsx4Cv3JU473-rhc3lf6.jpeg)
@@ -478,23 +480,23 @@ Amy Tom talks to Annie about how she grew her page, their obsession over cows, f
 ![](https://cdn.hackernoon.com/drafts/omlk227v.png)
 In recent years, Instagram has grown to become one of the ideal platforms to promote your brand and sell your ideas. With about 1 billion users every month, the platform presents a broad outreach that can help improve your brand penetration. 
 
-### [119. If a Tree Falls and it's not on Linkedin, Who Knows?](https://hackernoon.com/if-a-tree-falls-and-its-not-on-linkedin-who-knows-3v273wse)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F72KEgzEbr1Q2NraNp4qYNhHlZnM2-qy4y3txl.jpeg?alt=media&token=ca56f2b0-8c43-4fe1-a8fe-40408300c8bf)
-It's quite ironic how my reasons for signing up to write an article at Hacker Noon was to purge the frustrations caused by social networks of the day. What happens to be the first thing asked of me as a new member?  It is to edit my profile, and add my social media links: Linkedin, Twitter, Facebook, etc. 
-
-### [120. 5 Best Apps to Make Your Social Media Reels and Stories Glow](https://hackernoon.com/5-best-apps-to-make-your-social-media-reels-and-stories-glow)
+### [119. 5 Best Apps to Make Your Social Media Reels and Stories Glow](https://hackernoon.com/5-best-apps-to-make-your-social-media-reels-and-stories-glow)
 ![](https://cdn.hackernoon.com/images/87imGQdbJngJygKHJNnCqDN974N2-2fb3he8.jpeg)
 Creating multimedia content is hard work; it requires tons of time.
 Here are my personal top apps that made my life so much easier.
 
-### [121. Do We Really Need a Like Button? - The Pros and Cons of Social Media](https://hackernoon.com/do-we-really-need-a-like-button-the-pros-and-cons-of-social-media)
-![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-4w93gkm.jpeg)
-Social media is here to stay. Yet, not everything is beneficial. In this slogging thread, the technology channel discussed the pros and cons of social media.
+### [120. If a Tree Falls and it's not on Linkedin, Who Knows?](https://hackernoon.com/if-a-tree-falls-and-its-not-on-linkedin-who-knows-3v273wse)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F72KEgzEbr1Q2NraNp4qYNhHlZnM2-qy4y3txl.jpeg?alt=media&token=ca56f2b0-8c43-4fe1-a8fe-40408300c8bf)
+It's quite ironic how my reasons for signing up to write an article at Hacker Noon was to purge the frustrations caused by social networks of the day. What happens to be the first thing asked of me as a new member?  It is to edit my profile, and add my social media links: Linkedin, Twitter, Facebook, etc. 
 
-### [122. How to Build a Content Marketing Funnel on Instagram](https://hackernoon.com/how-to-build-a-content-marketing-funnel-on-instagram)
+### [121. How to Build a Content Marketing Funnel on Instagram](https://hackernoon.com/how-to-build-a-content-marketing-funnel-on-instagram)
 ![](https://cdn.hackernoon.com/images/vql7I4fl7oNtRPQztWEQC5MRP8F3-yx035sy.jpeg)
 Content funnel is intended to incite interest among your old followers, attract new ones and convert them into customers. 
 
+
+### [122. Do We Really Need a Like Button? - The Pros and Cons of Social Media](https://hackernoon.com/do-we-really-need-a-like-button-the-pros-and-cons-of-social-media)
+![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-4w93gkm.jpeg)
+Social media is here to stay. Yet, not everything is beneficial. In this slogging thread, the technology channel discussed the pros and cons of social media.
 
 ### [123. How to Write Instagram Ad Copy that Converts](https://hackernoon.com/how-to-write-instagram-ad-copy-that-converts)
 ![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-d513g0l.jpeg)
@@ -512,29 +514,29 @@ We all know that the prevalence of the internet has massively influenced the way
 ![](https://cdn.hackernoon.com/images/em3t3ykn.jpg)
 Instagram has just launched a co-scroll feature to help you survive the quarantine. According to Tech Crunch, it is officially known as Co-Watching; the feature lets friends (or followers) on a video chat go through posts related to a user’s activity. Co-Watching allegedly allows people to react to social media content in groups of two or more; this would mean that the pastime would no longer be a solo hobby.
 
-### [127. How To Find New Influencers via Niche Social Sites, Your Audience's Spouse, and Local Celebrities ](https://hackernoon.com/how-to-find-new-influencers-via-niche-social-sites-your-audiences-spouse-and-local-celebrities-cz3f31nu)
-![](https://cdn.hackernoon.com/images/IiMzzGSlfuaJWS7iBBZnummIBeI3-1zn31kj.jpeg)
-The church of Santa Agueda in Sotillo de la Ribera, Spain, held an incredible secret. But what was more incredible was where the secret was hidden. As technicians were restoring a sculpture of Jesus from the church, they found a time capsule-like message in — get ready for this — Jesus’ butt!
-
-### [128. Creating A Meme Sharing App Using Slash GraphQL](https://hackernoon.com/creating-a-meme-sharing-app-using-slash-graphql-0j2335ao)
+### [127. Creating A Meme Sharing App Using Slash GraphQL](https://hackernoon.com/creating-a-meme-sharing-app-using-slash-graphql-0j2335ao)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-5l6g33ar.jpeg)
  A walkthrough the process of creating a Slash GraphQL backend service to meet the needs of a fictional client, called InstaMeme.
+
+### [128. How To Find New Influencers via Niche Social Sites, Your Audience's Spouse, and Local Celebrities ](https://hackernoon.com/how-to-find-new-influencers-via-niche-social-sites-your-audiences-spouse-and-local-celebrities-cz3f31nu)
+![](https://cdn.hackernoon.com/images/IiMzzGSlfuaJWS7iBBZnummIBeI3-1zn31kj.jpeg)
+The church of Santa Agueda in Sotillo de la Ribera, Spain, held an incredible secret. But what was more incredible was where the secret was hidden. As technicians were restoring a sculpture of Jesus from the church, they found a time capsule-like message in — get ready for this — Jesus’ butt!
 
 ### [129. Instagram Targets Young Users Because They’re More Susceptible to Advertisements](https://hackernoon.com/instagram-targets-young-users-because-theyre-more-susceptible-to-advertisements)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-3a93xbq.jpeg)
 Learn how the company aims to influence young users, create long-term customers, and set trends.
 
-### [130. How Hashtags can Improve Your Instagram Growth (Case Study)](https://hackernoon.com/how-hashtags-can-improve-your-instagram-growth-case-study-z44d3u5w)
+### [130. Deconstructing Sneakers and Instagram Influence with Berlin-Based Designer “All Amin”](https://hackernoon.com/deconstructing-sneakers-and-instagram-influence-with-berlin-based-designer-all-amin-f24237bw)
+![](https://cdn.hackernoon.com/images/ghoqyKXcSpPVImwrUESYYsybnJJ2-e0673gpr.jpeg)
+Designer All Amin has found a way to turn trash into treasure. She started with corsets made out of sneakers and now she has her own brand.
+
+### [131. How Hashtags can Improve Your Instagram Growth (Case Study)](https://hackernoon.com/how-hashtags-can-improve-your-instagram-growth-case-study-z44d3u5w)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fs6YWIKPFxjf0o0PsWPyOdWC1wob2-x0z327h.png?alt=media&token=914e6d82-1cfa-43ad-b034-bc95a0fcf262)
 We wanted to conduct this experiment to show you how you can use organic and genuine techniques to explode your reach on Instagram with very simple techniques, helping you grow with real Instagram Followers.
 
-### [131. Create Instagram Content your Audience Would Actually Like to See](https://hackernoon.com/create-instagram-content-your-audience-would-actually-like-to-see)
+### [132. Create Instagram Content your Audience Would Actually Like to See](https://hackernoon.com/create-instagram-content-your-audience-would-actually-like-to-see)
 ![](https://cdn.hackernoon.com/images/2bL8Ve2IGiP0vEziDpWY80JjirD2-cyxn37lr.jpeg)
 Find out how you can use these three types of content to boost your social media profile on Instagram to grow your brand, get more view and much more. 
-
-### [132. Deconstructing Sneakers and Instagram Influence with Berlin-Based Designer “All Amin”](https://hackernoon.com/deconstructing-sneakers-and-instagram-influence-with-berlin-based-designer-all-amin-f24237bw)
-![](https://cdn.hackernoon.com/images/ghoqyKXcSpPVImwrUESYYsybnJJ2-e0673gpr.jpeg)
-Designer All Amin has found a way to turn trash into treasure. She started with corsets made out of sneakers and now she has her own brand.
 
 ### [133. Avatars Will Emerge as Storytellers](https://hackernoon.com/avatars-will-emerge-as-storytellers-tok3xk3)
 ![](https://cdn.hackernoon.com/drafts/g1s32wj.png)

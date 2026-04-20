@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ethical-hacking](https://hackernoon.com/tagged/ethical-hacking)
+### Let's learn about [Ethical Hacking](https://hackernoon.com/tagged/ethical-hacking) via these 90 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Ethical hacking is the practice of legally identifying vulnerabilities in computer systems and networks with the owner's permission to improve security. This proactive approach is vital for defending against malicious cyberattacks and strengthening digital defenses.
+
 ### [1. 3 Flipper Zero Hacks to Wow Your Friends (and How They Work)](https://hackernoon.com/3-flipper-zero-hacks-to-wow-your-friends-and-how-they-work)
 ![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-yza3p30.png)
 It is theoretically possible to use these Flipper Zero hacks for nefarious purposes, including the tricks in this article. But you know…don’t do that.
@@ -61,13 +65,13 @@ Let's conduct a penetration testing on a file with a detailed study analysis of 
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-9a93vbv.jpeg)
 As we know dark websites use .onion for their domain extension. 
 
-### [16. Top Resources to Learn Ethical Hacking](https://hackernoon.com/top-resources-to-learn-ethical-hacking)
-![](https://cdn.hackernoon.com/images/x7oAbeUtx1YeP5GIalmxyzfySdx2-ip02do3.jpeg)
-In this article, I will list the best resources all over the internet which will help you to be a hacker yourself.
-
-### [17. Turn Your Android into a Hacking Machine: Hydra + Termux Explained](https://hackernoon.com/turn-your-android-into-a-hacking-machine-hydra-termux-explained)
+### [16. Turn Your Android into a Hacking Machine: Hydra + Termux Explained](https://hackernoon.com/turn-your-android-into-a-hacking-machine-hydra-termux-explained)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jm02wu6.webp)
 Learn how to install and use Hydra in Termux for efficient password cracking and security testing on your Android device. 
+
+### [17. Top Resources to Learn Ethical Hacking](https://hackernoon.com/top-resources-to-learn-ethical-hacking)
+![](https://cdn.hackernoon.com/images/x7oAbeUtx1YeP5GIalmxyzfySdx2-ip02do3.jpeg)
+In this article, I will list the best resources all over the internet which will help you to be a hacker yourself.
 
 ### [18. How to Crack a Password Using Hashcat](https://hackernoon.com/how-to-crack-a-password-using-hashcat)
 ![](https://cdn.hackernoon.com/images/x7oAbeUtx1YeP5GIalmxyzfySdx2-4ukb28b2.jpeg)
@@ -121,13 +125,13 @@ There are a number of ways that you can use to run a different operational syste
 ![](https://cdn.hackernoon.com/images/14RpXnj40qWuVUiqdAigrDt10bE3-14a3r3y.gif.webp)
 Demonstrates using Kali Linux Container as an ephemeral host Operating System for anonymous web scraping.  Uses Python and Selenium to automate the Tor Browser.
 
-### [31. The Black Hat, the Ethical, and the WHOIS Hacker](https://hackernoon.com/the-black-hat-the-ethical-and-the-whois-hacker-e1a16c35839c)
-![](https://cdn.hackernoon.com/drafts/eq1c3zgh.png)
-Not all hackers are bad. Yet when the term “hack” is used in mainstream media, it is often in the context of cybercrime and black hat activities — e.g., some big organization got its intellectual property worth millions stolen, some people lost their personally identifiable information, etc. Data breach stories never run out!
-
-### [32. Why Do Ethical Hackers Use Python?](https://hackernoon.com/why-do-ethical-hackers-use-python)
+### [31. Why Do Ethical Hackers Use Python?](https://hackernoon.com/why-do-ethical-hackers-use-python)
 ![](https://cdn.hackernoon.com/images/TWfwlb4tTmWxmGk2EzU1Cc2LDnk1-if13867.jpeg)
 In recent years, Python has allowed ethical hackers to create scripts and automate structured processes. Ethical hacking using Python is helping to identify vulnerabilities and potential threats to computer networks.
+
+### [32. The Black Hat, the Ethical, and the WHOIS Hacker](https://hackernoon.com/the-black-hat-the-ethical-and-the-whois-hacker-e1a16c35839c)
+![](https://cdn.hackernoon.com/drafts/eq1c3zgh.png)
+Not all hackers are bad. Yet when the term “hack” is used in mainstream media, it is often in the context of cybercrime and black hat activities — e.g., some big organization got its intellectual property worth millions stolen, some people lost their personally identifiable information, etc. Data breach stories never run out!
 
 ### [33. 5 CSRF Vulnerabilities Known For Highest Bounty Rewards](https://hackernoon.com/5-csrf-vulnerabilities-known-for-highest-bounty-rewards-rkq3zkh)
 ![](https://cdn.hackernoon.com/drafts/523v3z89.png)
@@ -172,25 +176,25 @@ What is something that is hidden in plain sight.. Can you think of an example?
 ![](https://cdn.hackernoon.com/images/UV50uayrRZMUVnPrxN38YW4WF932-1983xir.jpeg)
 Discover how Large Language Models face prompt manipulation, paving the way for malicious intent, and explore defense strategies against these attacks.
 
-### [43. How Weak Social Media Passwords Can Be Cracked with SocialBox in Termux](https://hackernoon.com/how-weak-social-media-passwords-can-be-cracked-with-socialbox-in-termux)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-p0022ep.webp)
-Learn how weak social media passwords can be cracked and why social media cybersecurity matters. Stay safe online.
-
-### [44. So, You Want to Be a Hacker? ](https://hackernoon.com/so-you-want-to-be-a-hacker)
+### [43. So, You Want to Be a Hacker? ](https://hackernoon.com/so-you-want-to-be-a-hacker)
 ![](https://cdn.hackernoon.com/images/Xqr4CUe3DYeURV7orh73yMqsUxI2-9d83jp9.jpeg)
 Explore cybersecurity through Capture The Flag competitions! This article invites beginners to a thrilling CTF event, offering a hands-on way to learn hacking!
 
-### [45. What Happens to Hackathon Code? ](https://hackernoon.com/how-to-prevent-hackathon-code-ending-up-in-production-jdk3229)
+### [44. What Happens to Hackathon Code? ](https://hackernoon.com/how-to-prevent-hackathon-code-ending-up-in-production-jdk3229)
 ![](https://cdn.hackernoon.com/drafts/pm1v32aw.png)
 Most hackathons are commercial endeavors. Organizers pretend it's for fun and honor, but that's not the real reason. To a certain extent that's fine, it's a break from everyday routine, having some fun, show off your skills as a developer. 
 
-### [46. My 30-Day Journey on a Dark Web Marketplace That Belonged to a Cyber Gang](https://hackernoon.com/my-30-day-journey-on-a-dark-web-marketplace-that-belonged-to-a-cyber-gang)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-az835el.jpeg)
-My 30-Day Journey on a Dark Web Marketplace that belonged to a Cyber Gang that changed my perspective about data breaches.. 
-
-### [47. How I Set Up a Cowrie Honeypot to Capture Real SSH Attacks](https://hackernoon.com/how-i-set-up-a-cowrie-honeypot-to-capture-real-ssh-attacks)
+### [45. How I Set Up a Cowrie Honeypot to Capture Real SSH Attacks](https://hackernoon.com/how-i-set-up-a-cowrie-honeypot-to-capture-real-ssh-attacks)
 ![](https://cdn.hackernoon.com/images/OciSOMOm6Sg3siEjQlp1GWmOnSE2-c80332l.png)
 Simulate real-world SSH attacks with Cowrie, log attacker behavior, and analyze tactics using MITRE ATT&CK in this hands-on honeypot project.
+
+### [46. How Weak Social Media Passwords Can Be Cracked with SocialBox in Termux](https://hackernoon.com/how-weak-social-media-passwords-can-be-cracked-with-socialbox-in-termux)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-p0022ep.webp)
+Learn how weak social media passwords can be cracked and why social media cybersecurity matters. Stay safe online.
+
+### [47. My 30-Day Journey on a Dark Web Marketplace That Belonged to a Cyber Gang](https://hackernoon.com/my-30-day-journey-on-a-dark-web-marketplace-that-belonged-to-a-cyber-gang)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-az835el.jpeg)
+My 30-Day Journey on a Dark Web Marketplace that belonged to a Cyber Gang that changed my perspective about data breaches.. 
 
 ### [48. From Breach to Fallout: The Story of the 2014 Sony Hack ](https://hackernoon.com/from-breach-to-fallout-the-story-of-the-2014-sony-hack)
 ![](https://cdn.hackernoon.com/images/tR2AMSkOX1U5a7GyEMAVqR4PUCz2-5n93pap.jpeg)
@@ -208,13 +212,13 @@ Red and Blue teams are simulated real-world attacks used in organizations to tes
 ![](https://cdn.hackernoon.com/images/gOION3UpzLYB2bAzKFMIXwcmdD03-3h038wt.jpeg)
 Ethical hacking's main goal is to find a system's flaws or vulnerabilities and secure it against hackers.
 
-### [52. 61 Stories To Learn About Ethical Hacking](https://hackernoon.com/61-stories-to-learn-about-ethical-hacking)
-![](https://cdn.hackernoon.com/images/github/ethical-hacking-735.png)
-Learn everything you need to know about Ethical Hacking via these 61 free HackerNoon stories.
-
-### [53. Top Bug Bounty Programmes You Can Participate in Today](https://hackernoon.com/top-bug-bounty-programmes-you-can-participate-in-today)
+### [52. Top Bug Bounty Programmes You Can Participate in Today](https://hackernoon.com/top-bug-bounty-programmes-you-can-participate-in-today)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-uf9310p.jpeg)
 A curated list of bug bounty programs for bug bounty hunters to help them get first bug bounty on vulnerability report.
+
+### [53. 61 Stories To Learn About Ethical Hacking](https://hackernoon.com/61-stories-to-learn-about-ethical-hacking)
+![](https://cdn.hackernoon.com/images/github/ethical-hacking-735.png)
+Learn everything you need to know about Ethical Hacking via these 61 free HackerNoon stories.
 
 ### [54. Creating Cheats for Dead Cells Using Unsafe Rust](https://hackernoon.com/creating-cheats-for-dead-cells-using-unsafe-rust)
 ![](https://cdn.hackernoon.com/images/UCTxNLKvJrYkJsyANsu1SgNAKky2-96e2uhr.jpeg)
@@ -260,13 +264,13 @@ Beginners guide to web security testing for penetration testers and bug bounty h
 ![](https://cdn.hackernoon.com/images/zfQlphmbhUbH2kuGGXnfBkaXMQ43-1o67355w.jpeg)
 
 
-### [65. Installing Virtual Box ON Mac OS](https://hackernoon.com/virtual-box-on-mac-os-cv7l30qi)
-![](https://cdn.hackernoon.com/drafts/3ek3046.png)
-Let's say that just like myself you are in a situation where all you have is a Mac Book Pro, and you have no idea when you will be getting access to a windows system. You want to run Virtual Box, but it turns out that you come across a few issues before you get up and running. In this article we are gonna cover the main issues that arise when installing Virtual Box  on a Mac OS. 
-
-### [66. Getting started with Manual Content Discovery](https://hackernoon.com/getting-started-with-manual-content-discovery)
+### [65. Getting started with Manual Content Discovery](https://hackernoon.com/getting-started-with-manual-content-discovery)
 ![](https://cdn.hackernoon.com/images/Iq1h7VbsRlXgacEYCMttecZPJls2-1ba2ggw.jpeg)
 Understanding Robots.txt, Favicon, Sitemap.xml, HTML Headers and the Framework stack
+
+### [66. Installing Virtual Box ON Mac OS](https://hackernoon.com/virtual-box-on-mac-os-cv7l30qi)
+![](https://cdn.hackernoon.com/drafts/3ek3046.png)
+Let's say that just like myself you are in a situation where all you have is a Mac Book Pro, and you have no idea when you will be getting access to a windows system. You want to run Virtual Box, but it turns out that you come across a few issues before you get up and running. In this article we are gonna cover the main issues that arise when installing Virtual Box  on a Mac OS. 
 
 ### [67. A Glimpse into an Ethical Hacker's High-Tech Workspace](https://hackernoon.com/a-glimpse-into-an-ethical-hackers-high-tech-workspace)
 ![](https://cdn.hackernoon.com/images/j4uo7EaT0bb4O7dOhfswjz8VECB3-6x83wlw.jpeg)
@@ -292,17 +296,17 @@ Explore the story of Syed Shahzaib Shah, one of Pakistan's top ethical hackers, 
 ![](https://cdn.hackernoon.com/images/2mJgjTmSOuYVpIIuuLDsJOrR0s42-gyb30q7.jpeg)
 Have you ever wanted to know what it takes to be a pen tester? Join me and I will tell you a tale about my first experience being a pen tester.
 
-### [73. What is an SQL Injection Attack? How To Prevent SQL Injection Vulnerabilities ](https://hackernoon.com/what-is-an-sql-injection-attack-how-to-prevent-sql-injection-vulnerabilities-xo5r35wz)
+### [73. The Importance Of Bug Bounty Programs](https://hackernoon.com/the-importance-of-bug-bounty-programs-zw15344v)
+![](https://cdn.hackernoon.com/images/olethIkYezffGDr8sRCw1OREkSC2-xj1u33do.jpeg)
+A bug bounty program is one of the elements ensuring projects protection against cyberattacks that does not fully substitute other forms of security testing bug
+
+### [74. What is an SQL Injection Attack? How To Prevent SQL Injection Vulnerabilities ](https://hackernoon.com/what-is-an-sql-injection-attack-how-to-prevent-sql-injection-vulnerabilities-xo5r35wz)
 ![](https://cdn.hackernoon.com/images/dzFGd2zttYPrTqwIEI6BcGDA9um2-bv2228tu.jpeg)
 The best way to prevent SQL injection vulnerabilities is to use a framework that allows you to construct and parameterize queries safely. An ORM works well.
 
-### [74. A Beginner's Introduction To Ethical Hacking](https://hackernoon.com/a-beginners-introduction-to-ethical-hacking-zic6338r)
+### [75. A Beginner's Introduction To Ethical Hacking](https://hackernoon.com/a-beginners-introduction-to-ethical-hacking-zic6338r)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-klbq33a7.jpeg)
 Introduction to ethical hacking, Types of hackers, Skills required for an ethical hacker, ethical hacking tools.
-
-### [75. The Importance Of Bug Bounty Programs](https://hackernoon.com/the-importance-of-bug-bounty-programs-zw15344v)
-![](https://cdn.hackernoon.com/images/olethIkYezffGDr8sRCw1OREkSC2-xj1u33do.jpeg)
-A bug bounty program is one of the elements ensuring projects protection against cyberattacks that does not fully substitute other forms of security testing bug
 
 ### [76. Hackers Tapping into Company Systems to Test Security Features](https://hackernoon.com/hackers-tapping-into-company-systems-to-test-security-features)
 ![](https://cdn.hackernoon.com/images/Y9f32VyCNLbK83pCb1o9XYm6GUO2-0g232oj.jpeg)
@@ -312,13 +316,13 @@ Enhance your cybersecurity with robust application security testing to protect c
 ![](https://cdn.hackernoon.com/images/8qL82uOvbngFBTtXaoUGORAStWY2-0n52320g.jpeg)
 Ethical hacking, also known as penetration testing or pen testing, is getting legal authorization and access to breaking into computers, applications, etc.
 
-### [78. Reviewing a Security Incident: A Case Study in Investigation and Response](https://hackernoon.com/reviewing-a-security-incident-a-case-study-in-investigation-and-response)
-![](https://cdn.hackernoon.com/images/sEiTHnmTGDdab0qMfHtb54LxcMe2-14f3i5w.jpeg)
-Emphasizing the significance of implementing security incident phases, employing advanced technologies to intensify incident management capabilities against cyb
-
-### [79. Global Celebration Marks International Ethical Hackers Day on October 1st](https://hackernoon.com/global-celebration-marks-international-ethical-hackers-day-on-october-1st)
+### [78. Global Celebration Marks International Ethical Hackers Day on October 1st](https://hackernoon.com/global-celebration-marks-international-ethical-hackers-day-on-october-1st)
 ![](https://cdn.hackernoon.com/images/tXEFPo4di4UhV67y2dZhPKZWQ9q1-lg93x1d.png)
 In recognition of their invaluable work, October 1st is celebrated globally as International Ethical Hackers Day, dedicated to honoring these cybersecurity hero
+
+### [79. Reviewing a Security Incident: A Case Study in Investigation and Response](https://hackernoon.com/reviewing-a-security-incident-a-case-study-in-investigation-and-response)
+![](https://cdn.hackernoon.com/images/sEiTHnmTGDdab0qMfHtb54LxcMe2-14f3i5w.jpeg)
+Emphasizing the significance of implementing security incident phases, employing advanced technologies to intensify incident management capabilities against cyb
 
 ### [80. A Guide To Web Security Testing: Part 2 - Analyze the Web Application](https://hackernoon.com/a-guide-to-web-security-testing-part-2-analyze-the-web-application)
 ![](https://cdn.hackernoon.com/images/4JuiUcXTrfQDSAlZ04ERxAJG3yR2-5j1192i.jpeg)

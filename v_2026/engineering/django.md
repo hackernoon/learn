@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [django](https://hackernoon.com/tagged/django)
+### Let's learn about [Django](https://hackernoon.com/tagged/django) via these 132 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. It helps developers build robust and scalable web applications efficiently with its "batteries-included" approach.
+
 ### [1. Top 10 Python Web Frameworks to Learn in 2018](https://hackernoon.com/top-10-python-web-frameworks-to-learn-in-2018-b2ebab969d1a)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-6i03atl.jpeg)
 Frameworks make developers’ lives easier by offering them a structure for application development. They automate the implementation of common solutions, cutting development time and allowing developers to focus more on application logic instead of routine elements.
@@ -123,13 +127,13 @@ Single Tenant vs Multi-Tenant SaaS application example using Django
 ![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-69a3jb4.jpeg)
 If you are looking for the best online courses to learn Django, Flask, and Python web development, then you have come to the right place.
 
-### [31. How To Compare Documents Similarity using Python and NLP Techniques](https://hackernoon.com/compare-documents-similarity-using-python-or-nlp-0u3032eo)
-![](https://cdn.hackernoon.com/images/k72pj32ba.jpg)
-In this post we are going to build a web application which will compare the similarity between two documents. We will learn the very basics of natural language processing (NLP) which is a branch of artificial intelligence that deals with the interaction between computers and humans using the natural language.
-
-### [32. Flix-Finder: Building a Movie Recommendation App With Django and BrightData [Part 1/3]](https://hackernoon.com/flix-finder-building-a-movie-recommendation-app-with-django-and-brightdata-part-13)
+### [31. Flix-Finder: Building a Movie Recommendation App With Django and BrightData [Part 1/3]](https://hackernoon.com/flix-finder-building-a-movie-recommendation-app-with-django-and-brightdata-part-13)
 ![](https://cdn.hackernoon.com/images/hxgB3A2KjtPk4sJXB1ezGnusKBx1-lu938jl.jpeg)
 Using Django & BrightData to build a Movie Recommendation Website! With ability to search through data of various rating agencies, Flix-Finder is a must have!
+
+### [32. How To Compare Documents Similarity using Python and NLP Techniques](https://hackernoon.com/compare-documents-similarity-using-python-or-nlp-0u3032eo)
+![](https://cdn.hackernoon.com/images/k72pj32ba.jpg)
+In this post we are going to build a web application which will compare the similarity between two documents. We will learn the very basics of natural language processing (NLP) which is a branch of artificial intelligence that deals with the interaction between computers and humans using the natural language.
 
 ### [33. Django vs Laravel: An In-Depth Comparison](https://hackernoon.com/django-vs-laravel-an-in-depth-comparison-ls6833id)
 ![](https://cdn.hackernoon.com/images/SBUxTjX1xPRUPmLuyJgdVTexIUL2-trb83321.jpeg)
@@ -289,17 +293,17 @@ When I was first starting with Django, one of the most challenging obstacles I f
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9e02qjk.jpeg)
 Learn to deploy django to production using nginx, gunicorn and cloudflare tunnels.
 
-### [71. How to Improve Django 3.1 View Performance with Async Support](https://hackernoon.com/how-to-improve-django-31-view-performance-with-async-support-vp293488)
+### [71. Django 6.0 Is Here: Background Tasks, Partials, and Why We Might Finally Delete Celery](https://hackernoon.com/django-60-is-here-background-tasks-partials-and-why-we-might-finally-delete-celery)
+![](https://cdn.hackernoon.com/images/a-sleek-modern-illustration-of-a-django-framework-dashboard-r75zzlc30w8i50hzrggemwkx.png)
+Django 6.0 introduces native background tasks, template partials, built-in CSP, and key upgrades that modernize the framework for today’s web apps.
+
+### [72. How to Improve Django 3.1 View Performance with Async Support](https://hackernoon.com/how-to-improve-django-31-view-performance-with-async-support-vp293488)
 ![](https://cdn.hackernoon.com/images/9xpauPIeEyQRYUDnm7rOBnWGLyD2-th1u286n.jpeg)
 Django 3.1 provides support for asynchronous views, allowing developers to make significant performance improvements.
 
-### [72. Price Tracker Application with Django:  Crawling Discounts From Ebay](https://hackernoon.com/price-tracker-application-with-django-or-track-discounts-rw1c32jf)
+### [73. Price Tracker Application with Django:  Crawling Discounts From Ebay](https://hackernoon.com/price-tracker-application-with-django-or-track-discounts-rw1c32jf)
 ![](https://cdn.hackernoon.com/images/9f18p32io.jpg)
 What's up Hackers!
-
-### [73. Django 6.0 Is Here: Background Tasks, Partials, and Why We Might Finally Delete Celery](https://hackernoon.com/django-60-is-here-background-tasks-partials-and-why-we-might-finally-delete-celery)
-![](https://cdn.hackernoon.com/images/a-sleek-modern-illustration-of-a-django-framework-dashboard-r75zzlc30w8i50hzrggemwkx.png)
-Django 6.0 introduces native background tasks, template partials, built-in CSP, and key upgrades that modernize the framework for today’s web apps.
 
 ### [74. How I Got 15,000+ Requests on My Learn to Code App in Less Than 24 Hours!](https://hackernoon.com/how-i-got-15000-requests-on-my-learn-to-code-app-in-less-than-24-hours-e62x3e8s)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FyFUb6ZHLnQV00rZHLcyM0Jwz29v1-tvc3udc.jpeg?alt=media&token=d424b602-a012-462e-9297-936773250626)
@@ -329,13 +333,13 @@ Learn about the basics of Serverless, Docker and deploying a Django (Python) app
 ![](https://cdn.hackernoon.com/drafts/c9ka366i.png)
 Now that Django 3.0 ships with ASGI support out of the box, adding Websockets to your Django app requires no extra dependencies. In this post, you'll learn how to handle Websockets with Django by extending the default ASGI application. We'll go over how to handle Websocket connections, send and receive data, and implement the business logic in a sample ASGI application.
 
-### [81. Implementing Google Authentication and Fetching Mails from Scratch Using Python Django](https://hackernoon.com/implementing-google-authentication-and-fetching-mails-from-scratch-using-python-django-qidv36j7)
-![](https://cdn.hackernoon.com/drafts/cs4n2d42.png)
-Google Authentication and Fetching mails from scratch means without using any module which has already set up this authentication process. 
-
-### [82. Python - Django: You Should Never Put This Stuff in Transactions](https://hackernoon.com/python-django-you-should-never-put-this-stuff-in-transactions)
+### [81. Python - Django: You Should Never Put This Stuff in Transactions](https://hackernoon.com/python-django-you-should-never-put-this-stuff-in-transactions)
 ![](https://cdn.hackernoon.com/images/Laqjm5p3g6cVLjisLmQMnuBv5OI3-zs02qj7.jpeg)
 Transactions are central to Django apps, but if you put the wrong code in transactions, you may cause an outage!
+
+### [82. Implementing Google Authentication and Fetching Mails from Scratch Using Python Django](https://hackernoon.com/implementing-google-authentication-and-fetching-mails-from-scratch-using-python-django-qidv36j7)
+![](https://cdn.hackernoon.com/drafts/cs4n2d42.png)
+Google Authentication and Fetching mails from scratch means without using any module which has already set up this authentication process. 
 
 ### [83. Say No to Python/Django - Use PHP/JQuery Instead](https://hackernoon.com/say-no-to-pythondjango-use-phpjquery-instead)
 ![](https://cdn.hackernoon.com/images/y8yr4yXwQrZtVcjozELvRUEnppR2-w3d2axp.jpeg)
@@ -353,7 +357,11 @@ Softformance has published a list of the most popular Django-based websites buil
 ![](https://cdn.hackernoon.com/drafts/e75c336p.png)
 Django is powerful web framework, but with power comes responsibility. In this article, we will cover common mistakes that are even seasoned Django developers make, yet most successful Django projects need to deal with these sooner or later.
 
-### [87. An Introduction to Web Stacks](https://hackernoon.com/an-introduction-to-web-stacks-9x243z8g)
+### [87. Python Deep Dives: Multiple Inheritances And Mixin Classes](https://hackernoon.com/python-deep-dives-multiple-inheritances-and-mixin-classes-ni2l34ut)
+![](https://cdn.hackernoon.com/images/V8rHe34LNFY72hur3KxuNqnmW3D3-sy9t27bo.jpeg)
+I recently revisited three old posts on Django class-based views that I wrote for this blog, updating them to Django 3.0 (you can find them here and noticed once again that the code base uses mixin classes to increase code reuse. I also realised that mixins are not very popular in Python, so I decided to explore them, brushing up my knowledge of the OOP theory in the meanwhile.
+
+### [88. An Introduction to Web Stacks](https://hackernoon.com/an-introduction-to-web-stacks-9x243z8g)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV8rHe34LNFY72hur3KxuNqnmW3D3-357i279v.jpeg?alt=media&token=869bb898-a469-44f4-b5d9-49ad34211d21)
 Having recently worked with young web developers who were exposed for the first time to proper production infrastructure, I received many questions about the various components that one can find in the architecture of a "Web service". These questions clearly expressed the 
 confusion (and sometimes the frustration) of developers who understand 
@@ -361,63 +369,59 @@ how to create endpoints in a high-level language such as Node.js or Python, but 
 between the user's browser and their framework of choice. Most of the 
 time they don't know why the framework itself is there in the first place.
 
-### [88. Python Deep Dives: Multiple Inheritances And Mixin Classes](https://hackernoon.com/python-deep-dives-multiple-inheritances-and-mixin-classes-ni2l34ut)
-![](https://cdn.hackernoon.com/images/V8rHe34LNFY72hur3KxuNqnmW3D3-sy9t27bo.jpeg)
-I recently revisited three old posts on Django class-based views that I wrote for this blog, updating them to Django 3.0 (you can find them here and noticed once again that the code base uses mixin classes to increase code reuse. I also realised that mixins are not very popular in Python, so I decided to explore them, brushing up my knowledge of the OOP theory in the meanwhile.
-
 ### [89. Build a Dynamic Photo Collection App With Django](https://hackernoon.com/how-to-build-a-dynamic-photo-collection-app-with-django)
 ![](https://cdn.hackernoon.com/images/DCpsItWLWwbwOZsdF8ExfioNuXO2-6z833jc.jpeg)
 Discover how to create a dynamic photo collection app with Django and Cloudinary. Read about its functionalities, and explore noteworthy features. Fork the app.
 
-### [90. The Developer's Guide to Preparing Django Applications for Production](https://hackernoon.com/the-developers-guide-to-preparing-django-applications-for-production-9f2l33kv)
+### [90. Simplify Custom User Models by Open-Sourcing Django-Swap-User](https://hackernoon.com/simplify-custom-user-models-by-open-sourcing-django-swap-user)
+![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-ij93nxw.jpeg)
+if you are tired of copying a custom user model from one project to other ones—use this package. It will do it all for you!
+
+### [91. The Developer's Guide to Preparing Django Applications for Production](https://hackernoon.com/the-developers-guide-to-preparing-django-applications-for-production-9f2l33kv)
 ![](https://cdn.hackernoon.com/images/SWuYxmBe5WPlAjznGj5Fb05Thnl1-9pey1ar1.jpeg)
 Configuration of production and development settings in Django.
 Can we read from different databases? What about getting notifications on view exceptions?
 
-### [91. Simplify Custom User Models by Open-Sourcing Django-Swap-User](https://hackernoon.com/simplify-custom-user-models-by-open-sourcing-django-swap-user)
-![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-ij93nxw.jpeg)
-if you are tired of copying a custom user model from one project to other ones—use this package. It will do it all for you!
-
-### [92. Flask vs Django: Which Should You Learn?](https://hackernoon.com/flask-vs-django-which-should-you-learn-7j3637i8)
-![](https://cdn.hackernoon.com/images/d86puDQud6hYQoYOkqA4LNHV3zz2-bti38ep.jpeg)
-Looking for a Flask vs Django comparison? This article compares the two popular Python frameworks for web, apps, APIs, and backend development.
-
-### [93. 10 Questions for Aswin Ganesh, Noonie Nominee for Functional Programming](https://hackernoon.com/10-questions-for-aswin-ganesh-noonie-nominee-for-functional-programming-cf3n3u74)
+### [92. 10 Questions for Aswin Ganesh, Noonie Nominee for Functional Programming](https://hackernoon.com/10-questions-for-aswin-ganesh-noonie-nominee-for-functional-programming-cf3n3u74)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-u02s3uif.jpeg?alt=media&token=b06fb123-837a-4d38-a560-fe21ed1c1bd4)
 The 2020 #Noonies are here! And they are both much greener and much bigger than last year. Among the 2,000+ deserving humans nominated across 5 categories for over 200 award titles, we discovered Aswin Ganesh from India, who’s has been nominated for Hacker Noon's Contributor of the Year in our Functional Programming category. Without further ado, we present to you, our big techy world in 10 questions, from the perspective of Aswin.
 
-### [94. How to Decide Between Flask and Django For Your Next Idea](https://hackernoon.com/how-to-decide-between-flask-and-django-for-your-next-idea)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-5703f43.jpeg)
-Confused between Django and Flask? Read out the differences between the two and decide to go with Flask or Django development services.
+### [93. Flask vs Django: Which Should You Learn?](https://hackernoon.com/flask-vs-django-which-should-you-learn-7j3637i8)
+![](https://cdn.hackernoon.com/images/d86puDQud6hYQoYOkqA4LNHV3zz2-bti38ep.jpeg)
+Looking for a Flask vs Django comparison? This article compares the two popular Python frameworks for web, apps, APIs, and backend development.
 
+### [94. How to Learn Web Development: HTML, CSS, MERN, and Python - 22 GitHub Repositories to Help You](https://hackernoon.com/how-to-learn-web-development-html-css-mern-and-python-22-github-repositories-to-help-you)
+![](https://cdn.hackernoon.com/images/3fqF3O1TlWgiNvnKd6ig6aFrCtW2-4h02xpk.jpeg)
+To help you on your learning path, I've compiled an ultimate guide to the best GitHub repositories for learning these technologies.
 
 ### [95. A Guide to Protecting your Django Secret and OAuth Keys](https://hackernoon.com/a-guide-to-protecting-your-django-secret-and-oauth-keys-11163zbs)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFOVANRNEUINRIZM9XCBnIQHd78r1-c9653xdk.jpeg?alt=media&token=ae8f5c7c-1494-4c66-81dc-1df8bb864ac5)
 If you've stumbled upon my article, I assume you are working on a Django project and are wondering how to secure your project information, more importantly, security keys. If so, you've come to the right place as I am about to teach you the best method of doing it.
 
-### [96. How to Learn Web Development: HTML, CSS, MERN, and Python - 22 GitHub Repositories to Help You](https://hackernoon.com/how-to-learn-web-development-html-css-mern-and-python-22-github-repositories-to-help-you)
-![](https://cdn.hackernoon.com/images/3fqF3O1TlWgiNvnKd6ig6aFrCtW2-4h02xpk.jpeg)
-To help you on your learning path, I've compiled an ultimate guide to the best GitHub repositories for learning these technologies.
+### [96. How to Decide Between Flask and Django For Your Next Idea](https://hackernoon.com/how-to-decide-between-flask-and-django-for-your-next-idea)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-5703f43.jpeg)
+Confused between Django and Flask? Read out the differences between the two and decide to go with Flask or Django development services.
+
 
 ### [97. Django MongoDB Backend Quickstart: Everything You Need to Know](https://hackernoon.com/django-mongodb-backend-quickstart-everything-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/cQw7KuFmcaauwZH8luWpnCl5PKF2-2f03lk4.webp)
 Follow the quickstart to create a Django application, connect that application to a MongoDB deployment, and interact with the data stored in your database.
 
-### [98. Exploring Django’s Architecture: Key Components for Building Web Apps](https://hackernoon.com/exploring-djangos-architecture-key-components-for-building-web-apps)
-![](https://cdn.hackernoon.com/images/web-applications-cliqreicx000001s62ubpc1ia.png)
-Django: Python web framework. MVT pattern. ORM for database. Views handle requests. Templates generate UI. Middleware for request processing. URL routing.
-
-### [99. Django And Asynchronous Support: A Never Ending Story](https://hackernoon.com/django-and-asynchronous-support-a-never-ending-story-q0233uls)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6sWrtbrOmsOIbrWzrG88lYfV4ch1-x9d23oe.jpeg?alt=media&token=a61343b4-56a2-40c8-9741-7c0ea74a51c9)
-Last year, when Django 3.0 came out there was a lot of buzz in the developer community about how Django 3.0 has support for asynchronous now but what does that mean for most developers? I guess we'll find out.
-
-### [100. Ad Hoc Environments for Django Applications With ECS, Terraform and GitHub Actions](https://hackernoon.com/ad-hoc-environments-for-django-applications-with-ecs-terraform-and-github-actions)
+### [98. Ad Hoc Environments for Django Applications With ECS, Terraform and GitHub Actions](https://hackernoon.com/ad-hoc-environments-for-django-applications-with-ecs-terraform-and-github-actions)
 ![](https://cdn.hackernoon.com/images/ixsN9Zb8Pkcl0i6EizoW9z6RszC3-6fb3o5s.jpeg)
 This article will show how software development teams can build on-demand environments for dog-food testing, quality review, internal and external demos and oth
 
-### [101. Tell Us Why Django is Everyone’s Favorite Backend Web Framework [Writing Prompt]](https://hackernoon.com/tell-us-why-django-is-everyones-favorite-backend-web-framework-writing-prompt)
+### [99. Tell Us Why Django is Everyone’s Favorite Backend Web Framework [Writing Prompt]](https://hackernoon.com/tell-us-why-django-is-everyones-favorite-backend-web-framework-writing-prompt)
 ![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-yna3r3z.jpeg)
 Draw some inspiration from the list of topics in this article and start writing about your experience with web development in Django.
+
+### [100. Exploring Django’s Architecture: Key Components for Building Web Apps](https://hackernoon.com/exploring-djangos-architecture-key-components-for-building-web-apps)
+![](https://cdn.hackernoon.com/images/web-applications-cliqreicx000001s62ubpc1ia.png)
+Django: Python web framework. MVT pattern. ORM for database. Views handle requests. Templates generate UI. Middleware for request processing. URL routing.
+
+### [101. Django And Asynchronous Support: A Never Ending Story](https://hackernoon.com/django-and-asynchronous-support-a-never-ending-story-q0233uls)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6sWrtbrOmsOIbrWzrG88lYfV4ch1-x9d23oe.jpeg?alt=media&token=a61343b4-56a2-40c8-9741-7c0ea74a51c9)
+Last year, when Django 3.0 came out there was a lot of buzz in the developer community about how Django 3.0 has support for asynchronous now but what does that mean for most developers? I guess we'll find out.
 
 ### [102. Learn How to Avoid the N+1 Problem in Django REST Framework](https://hackernoon.com/learn-how-to-avoid-the-n1-problem-in-django-rest-framework)
 ![](https://cdn.hackernoon.com/images/qLFXw9TpduS1Cu2jVtSIcyGoLpk1-wl936b8.jpeg)
@@ -439,17 +443,17 @@ Learn about caching, database optimization, minimizing queries, using CDN, profi
 ![](https://cdn.hackernoon.com/drafts/eb103xoc.png)
 Do you have an app on Heroku using Postgres? Are you running out of database connections? 
 
-### [107. Running Geo Django on ElasticBeanstalk](https://hackernoon.com/running-geo-django-on-elasticbeanstalk-k0l3uww)
+### [107. Python Security Essentials for Your Apps](https://hackernoon.com/python-security-essentials-for-your-apps-you-need-to-know)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-bc93rez.jpeg)
+Protect your Django app against hackers by utilizing built-in middleware, third-party tools, and coding best practices.
+
+### [108. Running Geo Django on ElasticBeanstalk](https://hackernoon.com/running-geo-django-on-elasticbeanstalk-k0l3uww)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-1c1b28gb.jpeg?alt=media&token=5d38b3da-5dc7-4917-bae3-c3eb0d626f42)
 I want to tell you this story because I wasted about 14 hours to realize how to achieve it correctly.
 
-### [108. How We Created Our Own ChatGPT](https://hackernoon.com/how-we-created-our-own-chatgpt)
+### [109. How We Created Our Own ChatGPT](https://hackernoon.com/how-we-created-our-own-chatgpt)
 ![](https://cdn.hackernoon.com/images/T4VcvyZEUzNuKge7Cxo14hBZUMF3-ng93r2p.jpeg)
 Our team decided to write our own chat for working with GPT4 from OpenAI and other ML/LLM models with the ability to customize for the company’s internal needs.
-
-### [109. Python Security Essentials for Your Apps](https://hackernoon.com/python-security-essentials-for-your-apps-you-need-to-know)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-bc93rez.jpeg)
-Protect your Django app against hackers by utilizing built-in middleware, third-party tools, and coding best practices.
 
 ### [110. How to Make Things Less Complicated With Django Model Managers](https://hackernoon.com/how-to-make-things-less-complicated-with-django-model-managers)
 ![](https://cdn.hackernoon.com/images/gtSwy6u1vhgivwjbXJNzIKXLQFB3-ov92lda.jpeg)
@@ -459,13 +463,13 @@ Learn how Django model managers can simplify your code and make complex queries 
 ![](https://cdn.hackernoon.com/images/0G9TxcGbzNgNAZwckuXebn14zC82-5q93chi.jpeg)
 
 
-### [112. Django: The Web Framework That Thinks for You – Here’s Why It’s a Game-Changer](https://hackernoon.com/django-the-web-framework-that-thinks-for-you-heres-why-its-a-game-changer)
-![](https://cdn.hackernoon.com/images/2rcZaH27EQTHa8yVsrEKU05vvX53-ks025cf.jpeg)
-Django is a framework that lets you ship features at lightning speed.
-
-### [113. Discover the Power of Django Signals for Flexible and Scalable Apps](https://hackernoon.com/discover-the-power-of-django-signals-for-flexible-and-scalable-apps)
+### [112. Discover the Power of Django Signals for Flexible and Scalable Apps](https://hackernoon.com/discover-the-power-of-django-signals-for-flexible-and-scalable-apps)
 ![](https://cdn.hackernoon.com/images/qLFXw9TpduS1Cu2jVtSIcyGoLpk1-g993stb.jpeg)
 Discover how Django Signals can enhance your web development skills. Learn about its benefits, working, and built-in signals. 
+
+### [113. Django: The Web Framework That Thinks for You – Here’s Why It’s a Game-Changer](https://hackernoon.com/django-the-web-framework-that-thinks-for-you-heres-why-its-a-game-changer)
+![](https://cdn.hackernoon.com/images/2rcZaH27EQTHa8yVsrEKU05vvX53-ks025cf.jpeg)
+Django is a framework that lets you ship features at lightning speed.
 
 ### [114. Glimpse Into Django Internals for Enterprise Software Developers, BI and Automation](https://hackernoon.com/glimpse-into-django-internals-for-enterprise-software-developers-bi-and-automation)
 ![](https://cdn.hackernoon.com/images/6F8W7n1BOadTKJrkCFq42pDu2m42-cr12z0n.jpeg)
@@ -479,9 +483,9 @@ Build a secure anonymous feedback system using Django, Twilio for SMS, Pinata fo
 ![](https://cdn.hackernoon.com/images/noonification_474_ilj09k695ohtnmwjg748ax96.png)
 11/1/2023: Top 5 stories on the Hackernoon homepage!
 
-### [117. I Replaced My Dev Team with a GenAI Model to Build My New Portfolio. Here's What I Learned.](https://hackernoon.com/i-replaced-my-dev-team-with-a-genai-model-to-build-my-new-portfolio-heres-what-i-learned)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bx0216k.jpeg)
-AI isn't replacing developers; it's augmenting them. I built a complete, production-ready website with an AI partner.
+### [117. 500 Password Resets: A Case Study in the UX Scapegoat](https://hackernoon.com/500-password-resets-a-case-study-in-the-ux-scapegoat)
+![](https://cdn.hackernoon.com/images/eu5dIKsHPOb7HcxKVW5fEwA0U0X2-ya03edw.png)
+A Django developer noticed 500 password resets in 3 weeks. They blamed the UI, but the real culprit was a silent database bug. Read the full postmortem.
 
 ### [118. Embarking on a Quick Project With Django Rest Framework](https://hackernoon.com/embarking-on-a-quick-project-with-django-rest-framework)
 ![](https://cdn.hackernoon.com/images/hNSMEz4Q4oPNGGfNNllOA7g6y2b2-i993wrs.jpeg)
@@ -495,13 +499,13 @@ Struggling with 25k-line Django templates? See how Django 6 inline partials & HT
 ![](https://cdn.hackernoon.com/images/TH2RNK2abshiZhXjR75tfZjkZQm1-8303fpb.png)
 I built MockMyData.io in 10 weeks - a multi-tenant SaaS that generates mock REST APIs. Here's how I handled subdomains, rate limiting, and Redis caching. 
 
-### [121. Togayo: A Reconfigurable IoT Platform](https://hackernoon.com/device-stacc-a-reconfigurable-iot-platform-6j4e322p)
-![](https://hackernoon.com/images/zFYNwkba5XW3d1RKLMu6ve4KcWE2-ryg23n2.png)
-An open-source IoT platform that uses microcontroller reconfiguration, capability-based peripherals, GraphQL, TimescaleDB, entity component system, and more.
-
-### [122. Creating a Ride-a-request Application Using TomTom Maps API](https://hackernoon.com/creating-a-ride-a-request-application-using-tomtom-maps-api)
+### [121. Creating a Ride-a-request Application Using TomTom Maps API](https://hackernoon.com/creating-a-ride-a-request-application-using-tomtom-maps-api)
 ![](https://cdn.hackernoon.com/images/ud7JMucInYgIIScpYlEgFQavCef1-2yc33cy.png)
 The application will allow users to input multiple pick-up and drop-off locations, calculate the optimal route, and display it on a map. 
+
+### [122. Togayo: A Reconfigurable IoT Platform](https://hackernoon.com/device-stacc-a-reconfigurable-iot-platform-6j4e322p)
+![](https://hackernoon.com/images/zFYNwkba5XW3d1RKLMu6ve4KcWE2-ryg23n2.png)
+An open-source IoT platform that uses microcontroller reconfiguration, capability-based peripherals, GraphQL, TimescaleDB, entity component system, and more.
 
 ### [123. Your Django Site Can Get Banned for Ad Fraud You Didn’t Commit](https://hackernoon.com/your-django-site-can-get-banned-for-ad-fraud-you-didnt-commit)
 ![](https://cdn.hackernoon.com/images/ba4rLX7JElaDPxKSilJGsb1NTn33-3y03dik.png)
@@ -511,31 +515,35 @@ A real case where abnormal ad impression patterns on a Django site nearly caused
 ![](https://cdn.hackernoon.com/images/6F8W7n1BOadTKJrkCFq42pDu2m42-ioa2ga9.jpeg)
 Think about helping yourself in the future, or perhaps your colleagues, and make some effort to avoid it beforehand.
 
-### [125. How to Add Full Text Search to Your Django App with django-watson](https://hackernoon.com/how-to-add-full-text-search-to-your-django-app-with-django-watson)
+### [125. I Replaced My Dev Team with a GenAI Model to Build My New Portfolio. Here's What I Learned.](https://hackernoon.com/i-replaced-my-dev-team-with-a-genai-model-to-build-my-new-portfolio-heres-what-i-learned)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bx0216k.jpeg)
+AI isn't replacing developers; it's augmenting them. I built a complete, production-ready website with an AI partner.
+
+### [126. How to Add Full Text Search to Your Django App with django-watson](https://hackernoon.com/how-to-add-full-text-search-to-your-django-app-with-django-watson)
 ![](https://cdn.hackernoon.com/images/Q7bRw6RMSZOUtpMqMbMMmweG3BX2-6402s2v.jpeg)
 Learn how to supercharge your Django app with full-text search using Django-Watson. Dive deep into Postgres magic and boost search functionality.
 
-### [126. The HackerNoon Newsletter: Python: A Deeper Look Into How Django Transactions Work (3/3/2025)](https://hackernoon.com/3-3-2025-newsletter)
+### [127. The HackerNoon Newsletter: Python: A Deeper Look Into How Django Transactions Work (3/3/2025)](https://hackernoon.com/3-3-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_510_abzvgdvt42ohkyxp1rjnp3d7.png)
 3/3/2025: Top 5 stories on the HackerNoon homepage!
 
-### [127. Introducing Myself](https://hackernoon.com/introducing-myself-nj153u43)
+### [128. Introducing Myself](https://hackernoon.com/introducing-myself-nj153u43)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-e6x3uw0.jpeg?alt=media&token=0a4bbc52-7f3a-4257-9ed4-88a34b619c8a)
 I have stumble upon this site looking for some solutions for my Django problem, and I loved it. I decided to signup and share my views on technology and apps development. I'm like 5 years experience PHP and JavaScript developer, although in that time I have developed one Angulajs mobile app. 
 
-### [128. Business Engagement Models for Software Founders](https://hackernoon.com/business-engagement-models-for-software-founders)
+### [129. Business Engagement Models for Software Founders](https://hackernoon.com/business-engagement-models-for-software-founders)
 ![](https://cdn.hackernoon.com/images/r2mufnb8VLUabHTOo79SCaO99mv1-k893k7h.jpeg)
 Businesses are looking for ways to develop software that will help receive a product of the highest quality at the same time.
 
-### [129. 5 Python Frameworks to Leverage for your Next App](https://hackernoon.com/5-python-frameworks-to-leverage-for-your-next-app)
+### [130. 5 Python Frameworks to Leverage for your Next App](https://hackernoon.com/5-python-frameworks-to-leverage-for-your-next-app)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-se93yfs.jpeg)
 
 
-### [130. The Noonification: Is The Rise of Runes a New Era for Bitcoin? (6/14/2024)](https://hackernoon.com/6-14-2024-noonification)
+### [131. The Noonification: Is The Rise of Runes a New Era for Bitcoin? (6/14/2024)](https://hackernoon.com/6-14-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_968_qvaxcfikko35q4nje4j2najn.png)
 6/14/2024: Top 5 stories on the HackerNoon homepage!
 
-### [131. Django vs. Laravel: A Beginners Guide](https://hackernoon.com/django-vs-laravel-a-beginners-guide)
+### [132. Django vs. Laravel: A Beginners Guide](https://hackernoon.com/django-vs-laravel-a-beginners-guide)
 ![](https://cdn.hackernoon.com/images/dXQWhzkJaPNIsfgin1CWcGchcuY2-ep037ao.jpeg)
 Django is a straightforward option to pick up and offers a backend customized according to the users' needs.
 

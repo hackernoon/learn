@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [network-security](https://hackernoon.com/tagged/network-security)
+### Let's learn about [Network Security](https://hackernoon.com/tagged/network-security) via these 103 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Network security encompasses measures taken to protect computer networks and data from unauthorized access, misuse, or disruption. It is crucial for maintaining privacy, data integrity, and operational continuity, safeguarding an organization's digital infrastructure.
+
 ### [1. How to Make a Malicious USB Device and Have Some Harmless Fun](https://hackernoon.com/how-to-make-a-malicious-usb-device-and-have-some-harmless-fun)
 ![](https://cdn.hackernoon.com/images/1yeuFftUzKRT5YTxuVLPKYa7Uep2-lr93syd.jpeg)
 Make an inexpensive BadUSB from an old USB drive and learn about Windows shortcut files and how malicious actors are using .lnk files to spread malware.
@@ -21,13 +25,13 @@ When a hacker spots a system with open ports supporting NetBios, the hopes go hi
 ![](https://cdn.hackernoon.com/images/cLNziuagpGY1w5loVIv4J6Zxc0g1-y02031qt.jpeg)
 In today's complex business networks that comprise many virtual LAN's and subnets, a Layer 3 switch plays an important role in many systems. But do you need this on your network? Let's see.
 
-### [6. Netizens, 2023 is the Year to Up-skill in Cybersecurity](https://hackernoon.com/netizens-2023-is-the-year-to-up-skill-in-cybersecurity)
-![](https://cdn.hackernoon.com/images/tXEFPo4di4UhV67y2dZhPKZWQ9q1-g993pnc.jpeg)
-Stay ahead of the curve in 2023 with these essential cybersecurity courses by EC-Council.
-
-### [7. The Ultimate Guide to Mastering Nmap and Netcat](https://hackernoon.com/the-ultimate-guide-to-mastering-nmap-and-netcat)
+### [6. The Ultimate Guide to Mastering Nmap and Netcat](https://hackernoon.com/the-ultimate-guide-to-mastering-nmap-and-netcat)
 ![](https://cdn.hackernoon.com/images/mCQMNMUuBRQ0LIqGt5Ff1WvWWSL2-el93tp2.jpeg)
 Dive into network security with our guide on Nmap & Netcat. Learn their uses, commands, installation, troubleshooting, and ethical practices.
+
+### [7. Netizens, 2023 is the Year to Up-skill in Cybersecurity](https://hackernoon.com/netizens-2023-is-the-year-to-up-skill-in-cybersecurity)
+![](https://cdn.hackernoon.com/images/tXEFPo4di4UhV67y2dZhPKZWQ9q1-g993pnc.jpeg)
+Stay ahead of the curve in 2023 with these essential cybersecurity courses by EC-Council.
 
 ### [8. What is Subdomain Hijacking and How to Prevent it?](https://hackernoon.com/what-is-subdomain-hijacking-and-how-to-prevent-it-7w1o3ubb)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FoTiYTYuLerOJsmYRVttqIdGESsa2-dz113u7n.jpeg?alt=media&token=93654b3d-ef7d-48a7-9654-368b6bc4df0b)
@@ -167,25 +171,25 @@ Looking for penetration testing tools, which is good. Here is the list of some b
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-j7a3q4u.jpeg)
 This article will dive into understanding & recognizing some cyber threats. It will not cover every example for each attack or every attack. 
 
-### [42. Installing Open-source Software on Your MacOS May Be Coming to an End](https://hackernoon.com/installing-open-source-software-on-your-macos-may-be-coming-to-an-end)
+### [42. Your Phone Still Trusts WEP? Wifi Honey Shows Just How Bad That Is](https://hackernoon.com/your-phone-still-trusts-wep-wifi-honey-shows-just-how-bad-that-is)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1c02vwv.webp)
+Learn how to use Wifi Honey to test wireless security by creating fake access points and monitoring device behavior with simple bash scripting.
+
+### [43. Installing Open-source Software on Your MacOS May Be Coming to an End](https://hackernoon.com/installing-open-source-software-on-your-macos-may-be-coming-to-an-end)
 ![](https://cdn.hackernoon.com/images/ZVMm936JeiSn3robjOroT0m3wrE3-ns0341v.png)
 Apple has made it clear that applications need to be signed (or say notarized) first before you install them. 
-
-### [43. How to Improve Cybersecurity With Digital Twins](https://hackernoon.com/how-to-improve-cybersecurity-with-digital-twins)
-![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-1s832c9.jpeg)
-Digital twins are virtual versions of real-life places or things. How can they be used in cybersecurity?
 
 ### [44. Why OpenTelemetry Should Matter to Network and Systems Admins](https://hackernoon.com/why-opentelemetry-should-matter-to-network-and-systems-admins)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-y193jao.jpeg)
 OpenTelemetry is young, even by internet standards. Born out of the merger of OpenTracing and OpenCensus projects at the Cloud Native Computing Foundation CNCF
 
-### [45. Firewall Configuration: 6 Best Practices to Secure a Business Network](https://hackernoon.com/firewall-configuration-6-best-practices-to-secure-a-business-network)
+### [45. How to Improve Cybersecurity With Digital Twins](https://hackernoon.com/how-to-improve-cybersecurity-with-digital-twins)
+![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-1s832c9.jpeg)
+Digital twins are virtual versions of real-life places or things. How can they be used in cybersecurity?
+
+### [46. Firewall Configuration: 6 Best Practices to Secure a Business Network](https://hackernoon.com/firewall-configuration-6-best-practices-to-secure-a-business-network)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-ip93oxx.jpeg)
 Business success relies on network security. Here are six best practices to secure a business network.
-
-### [46. Your Phone Still Trusts WEP? Wifi Honey Shows Just How Bad That Is](https://hackernoon.com/your-phone-still-trusts-wep-wifi-honey-shows-just-how-bad-that-is)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1c02vwv.webp)
-Learn how to use Wifi Honey to test wireless security by creating fake access points and monitoring device behavior with simple bash scripting.
 
 ### [47. Discovering 10 Cybersecurity Practices for Enhanced IT Infrastructure Protection](https://hackernoon.com/discovering-10-cybersecurity-practices-for-enhanced-it-infrastructure-protection)
 ![](https://cdn.hackernoon.com/images/C9EsKR37QbhulXhxzVP6McyHlXw1-qq935sh.jpeg)
@@ -215,13 +219,13 @@ Learn how Remote Access Trojans (RATs) bypass traditional security measures and 
 ![](https://cdn.hackernoon.com/images/BjxHdKvzvoOkpFI5lFRIGDPpleh1-jn93369.jpeg)
 Human engineers are experts in human nature. They use these skills to gain access to your networks. 
 
-### [54. Top Open Source Vulnerabilities to Watch Out](https://hackernoon.com/top-open-source-vulnerabilities-to-watch-out-991231ap)
-![](https://cdn.hackernoon.com/images/RgWOTEIKFjaPmuk0FKWfkuoejiA2-4a1g236g.jpeg)
-Open Source packages are a mainstay for most software engineering projects. We are so accustomed as developers to run our `npm install` (for Node developers) or
-
-### [55. Smart Home Security: Safeguarding IoT Devices in our Homes](https://hackernoon.com/smart-home-security-safeguarding-iot-devices-in-our-homes)
+### [54. Smart Home Security: Safeguarding IoT Devices in our Homes](https://hackernoon.com/smart-home-security-safeguarding-iot-devices-in-our-homes)
 ![](https://cdn.hackernoon.com/images/HECtFiJYZyfMRVSxjYl0ELfUVpC2-5z93u3o.jpeg)
 Examine IoT devices, network security, privacy, automated solutions, guidelines, future trends, and legislative frameworks in the context of smart home security
+
+### [55. Top Open Source Vulnerabilities to Watch Out](https://hackernoon.com/top-open-source-vulnerabilities-to-watch-out-991231ap)
+![](https://cdn.hackernoon.com/images/RgWOTEIKFjaPmuk0FKWfkuoejiA2-4a1g236g.jpeg)
+Open Source packages are a mainstay for most software engineering projects. We are so accustomed as developers to run our `npm install` (for Node developers) or
 
 ### [56. How an IDS Can Protect Your Business from Cyberattacks](https://hackernoon.com/how-an-ids-can-protect-your-business-from-cyberattacks)
 ![](https://cdn.hackernoon.com/images/BMFkjCZVXbN1RN1TP5kWzwRB3Cu2-2293ur1.jpeg)
@@ -231,13 +235,13 @@ Businesses are mostly under threat from cyberattacks. One of the best ways to pr
 ![](https://cdn.hackernoon.com/images/VlubYxQZAjdYcx2IyZPu7WztEC12-4593he1.jpeg)
 Cybersecurity is the process of protecting systems, networks, and programs from malicious attacks. But why is it important? Let’s find out.
 
-### [58. 3 Key Takeaways from Biden’s Cybersecurity Executive Order](https://hackernoon.com/3-key-takeaways-from-bidens-cybersecurity-executive-order-y3k37sr)
-![](https://cdn.hackernoon.com/images/W9sowFq9zeeK9mLgU5bZNiL19oz2-s1l3502.jpeg)
-Learn more about the consequences of Biden's Executive Order on Improving the Nation’s Cybersecurity on software vendors and government contractors.
-
-### [59. PoW Shield: An Application Layer Proof of Work DDoS Filter](https://hackernoon.com/pow-shield-an-application-layer-proof-of-work-ddos-filter-0u5y35pp)
+### [58. PoW Shield: An Application Layer Proof of Work DDoS Filter](https://hackernoon.com/pow-shield-an-application-layer-proof-of-work-ddos-filter-0u5y35pp)
 ![](https://cdn.hackernoon.com/images/TmTILJD0CbPRHAKdaeRc4R9uSWF2-jo4x37f6.jpeg)
 PoW Shield provides DDoS protection on the OSI application layer by authenticating traffic using a simple proof-of-work validation process.
+
+### [59. 3 Key Takeaways from Biden’s Cybersecurity Executive Order](https://hackernoon.com/3-key-takeaways-from-bidens-cybersecurity-executive-order-y3k37sr)
+![](https://cdn.hackernoon.com/images/W9sowFq9zeeK9mLgU5bZNiL19oz2-s1l3502.jpeg)
+Learn more about the consequences of Biden's Executive Order on Improving the Nation’s Cybersecurity on software vendors and government contractors.
 
 ### [60. Why the Blockchain Might Not Be As Decentralized as You Think](https://hackernoon.com/why-the-blockchain-might-not-be-as-decentralized-as-you-think)
 ![](https://cdn.hackernoon.com/images/a-network-of-computers-mining-crypto-ocek6tfcr3libtfkn5mvkhip.png)
@@ -255,53 +259,53 @@ This article will show how to, using Cilium, tackle the authorization concern an
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHNmzdxufyngZwcRP6WsYZw0R9RE3-os4g3uw2.jpeg?alt=media&token=fa9de8c9-b0b7-4606-92a1-5f66dc0e61ae)
 “The quieter you become the more you are able to hear”
 
-### [64. Do I Need A Degree To Become A Cybersecurity Professional?](https://hackernoon.com/do-i-need-a-degree-to-become-a-cybersecurity-professional-j83y35ka)
-![](https://cdn.hackernoon.com/images/SJV5nHII2LSDwQnXhFja20oHTdx1-un824ev.jpeg)
-Do you need a degree to get started in cybersecurity? And do you need a degree to progress in cybersecurity? The answer is both yes and no.
-
-### [65. SASE Meets Edge AI: Why Security Will Be Decided in the First Millisecond](https://hackernoon.com/sase-meets-edge-ai-why-security-will-be-decided-in-the-first-millisecond)
+### [64. SASE Meets Edge AI: Why Security Will Be Decided in the First Millisecond](https://hackernoon.com/sase-meets-edge-ai-why-security-will-be-decided-in-the-first-millisecond)
 ![](https://cdn.hackernoon.com/images/DkAFlRS1ynWkI66wp6FO4lFeL4I3-3803757.png)
 In security, milliseconds decide trust. Why Edge AI must judge every packet instantly to prevent threats without killing performance.
 
-### [66. An Unboring Guide to Endpoint Detection and Response (EDR)](https://hackernoon.com/an-unboring-guide-to-endpoint-detection-and-response-edr)
-![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-vx035yi.jpeg)
-EDR solutions detect, investigate & eliminate threats as quickly as possible. It generates alerts to notify security professionals so that they can investigate.
+### [65. Do I Need A Degree To Become A Cybersecurity Professional?](https://hackernoon.com/do-i-need-a-degree-to-become-a-cybersecurity-professional-j83y35ka)
+![](https://cdn.hackernoon.com/images/SJV5nHII2LSDwQnXhFja20oHTdx1-un824ev.jpeg)
+Do you need a degree to get started in cybersecurity? And do you need a degree to progress in cybersecurity? The answer is both yes and no.
+
+### [66. Blockchain’s Hidden Centralization Issues](https://hackernoon.com/blockchains-hidden-centralization-issues)
+![](https://cdn.hackernoon.com/images/a-network-of-computers-r14at05lgopopvmgbvzpqli4.png)
+An analysis of blockchain centralization risks across hardware, software, network topology, and governance, with insights into regulatory and economic factors. 
 
 ### [67. Meet AccuKnox, Member of Startups of The Year 2024's Momentum 10 ](https://hackernoon.com/meet-accuknox-member-of-park-ridge-illinois-and-cybersecuritys-momentum-10)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-9e039p8.png)
 Interview with Momentum 10 winner AccuKnox on HackerNoon. Insights on Zero Trust CNAPP, cloud security, ASPM, CWPP, AI security (ModelKnox) & future goals.
 
-### [68. Blockchain’s Hidden Centralization Issues](https://hackernoon.com/blockchains-hidden-centralization-issues)
-![](https://cdn.hackernoon.com/images/a-network-of-computers-r14at05lgopopvmgbvzpqli4.png)
-An analysis of blockchain centralization risks across hardware, software, network topology, and governance, with insights into regulatory and economic factors. 
+### [68. An Unboring Guide to Endpoint Detection and Response (EDR)](https://hackernoon.com/an-unboring-guide-to-endpoint-detection-and-response-edr)
+![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-vx035yi.jpeg)
+EDR solutions detect, investigate & eliminate threats as quickly as possible. It generates alerts to notify security professionals so that they can investigate.
 
 ### [69. Here's Why You Should Get a New Wireless Router](https://hackernoon.com/heres-why-you-should-get-a-new-wireless-router)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-xx03a6u.jpeg)
 My new router not only handles my calls flawlessly but also offers better security, thanks to support for the WPA3 protocol.
 
-### [70. The Best Practices for Securing Your Cloud-Based Applications](https://hackernoon.com/the-best-practices-for-securing-your-cloud-based-applications)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1982r10.png)
-Discover best practices for securing cloud-based applications, ensuring data protection and compliance with essential security measures.
-
-### [71. Zero Trust Network Access (ZTNA): A Useful Framework, but Not A Silver Bullet](https://hackernoon.com/zero-trust-network-access-ztna-a-useful-framework-but-not-a-silver-bullet)
+### [70. Zero Trust Network Access (ZTNA): A Useful Framework, but Not A Silver Bullet](https://hackernoon.com/zero-trust-network-access-ztna-a-useful-framework-but-not-a-silver-bullet)
 ![](https://cdn.hackernoon.com/images/Gt4TyUlkqbMyVgG475UxnXB5nLE2-yt134g4.png)
 This article explains ZTNA, its limitations, and how organizations can avoid pitfalls while leveraging its framework effectively.
 
-### [72. How to Protect Your Company's VPN When You Have a Remote Team](https://hackernoon.com/how-to-protect-your-companys-vpn-when-you-have-a-remote-team)
+### [71. The Best Practices for Securing Your Cloud-Based Applications](https://hackernoon.com/the-best-practices-for-securing-your-cloud-based-applications)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1982r10.png)
+Discover best practices for securing cloud-based applications, ensuring data protection and compliance with essential security measures.
+
+### [72. Brander Group's Vendor-Neutral Strategy Shields Clients from Network Security Vulnerabilities](https://hackernoon.com/brander-groups-vendor-neutral-strategy-shields-clients-from-network-security-vulnerabilities)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-oo03e4w.png)
+Cybersecurity threats are evolving at an alarming rate. From sophisticated malware to state-sponsored attacks, businesses worldwide face a battle.
+
+### [73. How to Protect Your Company's VPN When You Have a Remote Team](https://hackernoon.com/how-to-protect-your-companys-vpn-when-you-have-a-remote-team)
 ![](https://cdn.hackernoon.com/images/BmaLyXMyJPZwdqjRGxrLUE6jNu52-1f93iu9.jpeg)
 Prevent malicious agents from exploiting their VPN connections! However, it's still critical for each employee to exercise cyber hygiene to ensure cybersecurity
 
-### [73. How Do We Measure Blockchain Decentralization?](https://hackernoon.com/how-do-we-measure-blockchain-decentralization)
+### [74. How Do We Measure Blockchain Decentralization?](https://hackernoon.com/how-do-we-measure-blockchain-decentralization)
 ![](https://cdn.hackernoon.com/images/a-network-of-computers-sukiwsdo22g8saejf5ozql3f.png)
 A deep dive into blockchain decentralization metrics, from entropy to Nakamoto coefficients, and how fault tolerance varies between BFT and non-BFT systems.
 
-### [74. Enterprise Cloud Security: Setting Up Structure, Identity-Based Access, and Network Control](https://hackernoon.com/enterprise-cloud-security-setting-up-structure-identity-based-access-and-network-control-8nk933jz)
+### [75. Enterprise Cloud Security: Setting Up Structure, Identity-Based Access, and Network Control](https://hackernoon.com/enterprise-cloud-security-setting-up-structure-identity-based-access-and-network-control-8nk933jz)
 ![](https://hackernoon.com/images/sakENsU3wXMEg5rz1GGwo7zGEVk1-we6o33i9.png)
 Security plays an important role in the Enterprise Cloud Foundation. This article covers the foundational security components that form the cloud foundation.
-
-### [75. Brander Group's Vendor-Neutral Strategy Shields Clients from Network Security Vulnerabilities](https://hackernoon.com/brander-groups-vendor-neutral-strategy-shields-clients-from-network-security-vulnerabilities)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-oo03e4w.png)
-Cybersecurity threats are evolving at an alarming rate. From sophisticated malware to state-sponsored attacks, businesses worldwide face a battle.
 
 ### [76. 59 Stories To Learn About Network Security](https://hackernoon.com/59-stories-to-learn-about-network-security)
 ![](https://cdn.hackernoon.com/images/github/network-security-198.png)
@@ -339,49 +343,49 @@ IT Security protects your business against cyber threats. There are four types o
 ![](https://cdn.hackernoon.com/images/CrNxzMhrObZWRzMJkMdcyD0akF33-r94f35dw.png)
 Cyberattacks do not discriminate between industries, and no matter how big or tiny your organization is, it is vulnerable to them.
 
-### [85. What Are The Cybersecurity Risks Associated With Personal Devices?](https://hackernoon.com/what-are-the-cybersecurity-risks-associated-with-personal-devices-ws5r35yq)
-![](https://cdn.hackernoon.com/images/7SvmCGSzLMQZYOtoPZ8SZdM7YKr1-jhe33ca.jpeg)
-Let's look at some of the most significant risks posed by your personal digital devices, and what we can do to boost your security. 
-
-### [86. How to Improve Network Security and Visibility in 2020 and 2021](https://hackernoon.com/how-to-improve-network-security-and-visibility-in-2020-and-2021-oq3j3zap)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOTVqIN80NTMa9nHRjHHq04M7xtA2-ywe2zr2.jpeg?alt=media&token=f77b64a7-c494-43a2-beec-099acbc0005e)
-With the number of products available, it can be an uphill task to try to ensure robust network security and visibility. This, however, is a task that must be accomplished if you want to be competitive. 
-
-### [87. ProAuth: How I Used Flask and OAuth to Develop a Dynamic Code Authentication App](https://hackernoon.com/proauth-how-i-used-flask-and-oauth-to-develop-a-dynamic-code-authentication-app)
+### [85. ProAuth: How I Used Flask and OAuth to Develop a Dynamic Code Authentication App](https://hackernoon.com/proauth-how-i-used-flask-and-oauth-to-develop-a-dynamic-code-authentication-app)
 ![](https://cdn.hackernoon.com/images/y8UiJ5EfszYO595wZNfUVqnjoIw1-je833ag.gif.webp)
 I built ProAuth, a secure 2FA system using Google Authentication and time-sensitive codes.
 
-### [88. Network Security Basics ](https://hackernoon.com/network-security-basics-o71x3038)
-![](images/6glt23w7.jpg)
-Network security is the practice of preventing and protecting against unauthorized intrusions into any large corporate or smaller home network. 
+### [86. What Are The Cybersecurity Risks Associated With Personal Devices?](https://hackernoon.com/what-are-the-cybersecurity-risks-associated-with-personal-devices-ws5r35yq)
+![](https://cdn.hackernoon.com/images/7SvmCGSzLMQZYOtoPZ8SZdM7YKr1-jhe33ca.jpeg)
+Let's look at some of the most significant risks posed by your personal digital devices, and what we can do to boost your security. 
 
-### [89. Meet the Writer: HackerNoon Contributor Jessica Truong Talks Cybersecurity](https://hackernoon.com/meet-the-writer-hackernoon-contributor-jessica-truong-talks-cybersecurity)
-![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-7a0355v.jpeg)
-Meet Jessica! She is a Cybersecurity enthusiast whose goal is to educate readers of the different topics within Cybersecurity. Check out her HN page for more! 
+### [87. How to Improve Network Security and Visibility in 2020 and 2021](https://hackernoon.com/how-to-improve-network-security-and-visibility-in-2020-and-2021-oq3j3zap)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOTVqIN80NTMa9nHRjHHq04M7xtA2-ywe2zr2.jpeg?alt=media&token=f77b64a7-c494-43a2-beec-099acbc0005e)
+With the number of products available, it can be an uphill task to try to ensure robust network security and visibility. This, however, is a task that must be accomplished if you want to be competitive. 
 
-### [90. SoK: A Stratified Approach to Blockchain Decentralization](https://hackernoon.com/sok-a-stratified-approach-to-blockchain-decentralization)
+### [88. SoK: A Stratified Approach to Blockchain Decentralization](https://hackernoon.com/sok-a-stratified-approach-to-blockchain-decentralization)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-fx036dg.png)
 A framework for assessing blockchain decentralization across multiple layers, introducing the Minimum Decentralization Test (MDT) for security evaluation.
 
-### [91. Blockchain Decentralization: Policy, Regulation, and the Role of Testnets](https://hackernoon.com/blockchain-decentralization-policy-regulation-and-the-role-of-testnets)
+### [89. Blockchain Decentralization: Policy, Regulation, and the Role of Testnets](https://hackernoon.com/blockchain-decentralization-policy-regulation-and-the-role-of-testnets)
 ![](https://cdn.hackernoon.com/images/a-network-of-computers-qlji9ahgv6xfxdgh5miepc42.png)
 Regulators assess blockchain decentralization for crypto classification, while testnets play a key role in network security, governance, and policy decisions.
+
+### [90. Network Security Basics ](https://hackernoon.com/network-security-basics-o71x3038)
+![](images/6glt23w7.jpg)
+Network security is the practice of preventing and protecting against unauthorized intrusions into any large corporate or smaller home network. 
+
+### [91. Meet the Writer: HackerNoon Contributor Jessica Truong Talks Cybersecurity](https://hackernoon.com/meet-the-writer-hackernoon-contributor-jessica-truong-talks-cybersecurity)
+![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-7a0355v.jpeg)
+Meet Jessica! She is a Cybersecurity enthusiast whose goal is to educate readers of the different topics within Cybersecurity. Check out her HN page for more! 
 
 ### [92. Blockchain’s Single Point of Failure? The Software Running It](https://hackernoon.com/blockchains-single-point-of-failure-the-software-running-it)
 ![](https://cdn.hackernoon.com/images/a-network-of-computers-nocyisaqfbot6ike2b45u0re.png)
 Blockchain decentralization depends on diverse software implementations. Centralization in full nodes & wallets introduces security, stability, & liveness risks
 
-### [93. Startup Interview with Tracie Thompson, HackHunter CEO](https://hackernoon.com/startup-interview-with-tracie-thompson-hackhunter-ceo-rk1k35lh)
-![](https://cdn.hackernoon.com/images/BCLJU1pDFmPwG6iT1CAE0FPaMLM2-13e735cz.jpeg)
-HackHunter was nominated as one of the best startups in Docklands, Australia in in HackerNoon’s Startup of the Year. This is interview with their CEO. 
+### [93. How Token Ownership Shapes Blockchain Security](https://hackernoon.com/how-token-ownership-shapes-blockchain-security)
+![](https://cdn.hackernoon.com/images/a-network-of-computers-y0xzn20937ikd77lyzls0wsr.png)
+Token distribution, ownership concentration, and secondary markets shape blockchain economics. Centralization risks impact security, stability, and adoption.
 
 ### [94. Cryptocurrency Economics: Token Distribution, Ownership, and Market Decentralization](https://hackernoon.com/cryptocurrency-economics-token-distribution-ownership-and-market-decentralization)
 ![](https://cdn.hackernoon.com/images/crypto-economics-gayka3pvgi3zmwrobitmli72.png)
 Exploring blockchain tokenomics: how initial distribution, ownership concentration, and secondary markets impact decentralization, security, & system stability.
 
-### [95. How Token Ownership Shapes Blockchain Security](https://hackernoon.com/how-token-ownership-shapes-blockchain-security)
-![](https://cdn.hackernoon.com/images/a-network-of-computers-y0xzn20937ikd77lyzls0wsr.png)
-Token distribution, ownership concentration, and secondary markets shape blockchain economics. Centralization risks impact security, stability, and adoption.
+### [95. Startup Interview with Tracie Thompson, HackHunter CEO](https://hackernoon.com/startup-interview-with-tracie-thompson-hackhunter-ceo-rk1k35lh)
+![](https://cdn.hackernoon.com/images/BCLJU1pDFmPwG6iT1CAE0FPaMLM2-13e735cz.jpeg)
+HackHunter was nominated as one of the best startups in Docklands, Australia in in HackerNoon’s Startup of the Year. This is interview with their CEO. 
 
 ### [96. Eclipse Attacks, Network Clusters & DNS Seeding](https://hackernoon.com/eclipse-attacks-network-clusters-and-dns-seeding)
 ![](https://cdn.hackernoon.com/images/a-network-of-computers-da0ht4x2atdy3ew3x5ii9gai.png)
@@ -391,13 +395,13 @@ Blockchain networks face decentralization risks in topology and bootstrapping. W
 ![](https://cdn.hackernoon.com/images/a-network-of-computers-on-a-map-yygde1uqk97akwdhjui79kyw.png)
 Geographic centralization affects blockchain security. Legal risks and physical hazards threaten decentralization, impacting safety, liveness, and stability.
 
-### [98. Guarding Against the Hidden Threat: Recognizing and Defending Against Malicious Links](https://hackernoon.com/guarding-against-the-hidden-threat-recognizing-and-defending-against-malicious-links)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-n693tm9.jpeg)
-Understanding malicious links and knowing how to spot them is paramount, particularly for businesses safeguarding sensative data.
-
-### [99. Case Studies in Blockchain Decentralization: Bitcoin, Stablecoins, and Wrapped Tokens](https://hackernoon.com/case-studies-in-blockchain-decentralization-bitcoin-stablecoins-and-wrapped-tokens)
+### [98. Case Studies in Blockchain Decentralization: Bitcoin, Stablecoins, and Wrapped Tokens](https://hackernoon.com/case-studies-in-blockchain-decentralization-bitcoin-stablecoins-and-wrapped-tokens)
 ![](https://cdn.hackernoon.com/images/a-network-of-computers-x78r18bkeaddtq44qy3ljzcy.png)
 Analyzing Bitcoin’s decentralization across layers and applying the Minimum Decentralization Test to stablecoins and wrapped tokens to expose governance risks. 
+
+### [99. Guarding Against the Hidden Threat: Recognizing and Defending Against Malicious Links](https://hackernoon.com/guarding-against-the-hidden-threat-recognizing-and-defending-against-malicious-links)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-n693tm9.jpeg)
+Understanding malicious links and knowing how to spot them is paramount, particularly for businesses safeguarding sensative data.
 
 ### [100. Can Blockchain Stay Fair for the Long Haul?](https://hackernoon.com/can-blockchain-stay-fair-for-the-long-haul)
 ![](https://cdn.hackernoon.com/images/a-network-of-computers-i6v958mri9w73udicx8l4nno.png)

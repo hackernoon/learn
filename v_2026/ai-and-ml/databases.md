@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [databases](https://hackernoon.com/tagged/databases)
+### Let's learn about [Databases](https://hackernoon.com/tagged/databases) via these 198 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Databases are organized collections of structured information or data, typically stored electronically in a computer system, enabling efficient storage, retrieval, and management of data. They are foundational to nearly all software applications and information systems.
+
 ### [1. Optimistic and Pessimistic Locking in JPA](https://hackernoon.com/optimistic-and-pessimistic-locking-in-jpa)
 ![](https://cdn.hackernoon.com/images/bu2EcgsBMkb4EPIleKDsMfYfLKF3-ap92iku.jpeg)
 The article explains optimistic and pessimistic locking. We consider a Spring Data JPA application with concurrent transactional code as an example.
@@ -17,33 +21,33 @@ Metabase is a business intelligence tool that lets you access your data in a rea
 ![](https://cdn.hackernoon.com/images/MsR1S76Pr8XibciqwaeZRXTFpAz1-ej93jt9.jpeg)
 This manual describes the process of setting up continuous backups for PostgreSQL databases to safeguard your data from accidental loss in an efficient way. 
 
-### [5. Navigating MySQL Data Types: Strings](https://hackernoon.com/navigating-mysql-data-types-strings)
-![](https://cdn.hackernoon.com/images/7GxDfl4wtJPkTNIEiNlRFbrUwgV2-et03b2i.png)
-This article covers string types in MySQL, how they function, what may go wrong, and how to make safe choices. 
-
-### [6. Navigating the Vector Database Landscape](https://hackernoon.com/navigating-the-vector-database-landscape)
+### [5. Navigating the Vector Database Landscape](https://hackernoon.com/navigating-the-vector-database-landscape)
 ![](https://cdn.hackernoon.com/images/PkV2XzJhL4eISFLTiFkKC9zikEG2-m893his.jpeg)
 Learn about the options for vector databases and how each works.
 
-### [7. How to Erase Expired Docs Automatically with MongoDB (TTL index)](https://hackernoon.com/how-to-erase-expired-docs-automatically-with-mongodb-ttl-index-97283wll)
+### [6. How to Erase Expired Docs Automatically with MongoDB (TTL index)](https://hackernoon.com/how-to-erase-expired-docs-automatically-with-mongodb-ttl-index-97283wll)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fl6vkaTNkp0Z8npP9ZFsiD9kJg1T2-hfi4tpa.jpeg?alt=media&token=7a49f190-187f-4220-9e5c-1022ca695922)
 Recently I needed to delete some documents that I saved in MongoDB after some time. I can think of a few examples of why we would want to delete data after some time:
 
-### [8. 15 Databases, 15 Use Cases—Stop Using the Wrong Database for the Right Problem](https://hackernoon.com/15-databases-15-use-casesstop-using-the-wrong-database-for-the-right-problem)
+### [7. 15 Databases, 15 Use Cases—Stop Using the Wrong Database for the Right Problem](https://hackernoon.com/15-databases-15-use-casesstop-using-the-wrong-database-for-the-right-problem)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-8s034ki.webp)
 Discover 15 types of databases, from relational to vector, and explore their unique use cases in this comprehensive guide for developers.
 
-### [9. Create and Execute Stored Procedure in PHPMyAdmin](https://hackernoon.com/create-and-execute-stored-procedure-in-phpmyadmin-i1z32r0)
+### [8. Create and Execute Stored Procedure in PHPMyAdmin](https://hackernoon.com/create-and-execute-stored-procedure-in-phpmyadmin-i1z32r0)
 ![](https://images.unsplash.com/photo-1548544027-1a96c4c24c7a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 First of all what is Stored Procedure?
 
-### [10. How to Solve Race Conditions in a Booking System](https://hackernoon.com/how-to-solve-race-conditions-in-a-booking-system)
+### [9. How to Solve Race Conditions in a Booking System](https://hackernoon.com/how-to-solve-race-conditions-in-a-booking-system)
 ![](https://cdn.hackernoon.com/images/SnVhdDNm3fMGfftKZO7mnXldvQm2-dfb3rtq.jpeg)
 Race conditions in a database and how you can solve them using techniques such as pessimistic and optimistic concurrency control.
 
-### [11. Fear database changes? Get them under control with CI/CD](https://hackernoon.com/database-changes-can-be-scary-how-r1hy2gfe)
+### [10. Fear database changes? Get them under control with CI/CD](https://hackernoon.com/database-changes-can-be-scary-how-r1hy2gfe)
 ![](https://cdn.hackernoon.com/drafts/f47va2gze.png)
 Developers often fear database changes because a mistake by anyone on your team can lead to a major outage and even data loss. The stakes are higher when changes are not backwards compatible, cannot be rolled back, or impact system performance. This can cause a lack of confidence and slow your team velocity. As a result, database changes are a common failure point in agile and DevOps. 
+
+### [11. Navigating MySQL Data Types: Strings](https://hackernoon.com/navigating-mysql-data-types-strings)
+![](https://cdn.hackernoon.com/images/7GxDfl4wtJPkTNIEiNlRFbrUwgV2-et03b2i.png)
+This article covers string types in MySQL, how they function, what may go wrong, and how to make safe choices. 
 
 ### [12. Why I Built a MongoDB-Powered Message Queue](https://hackernoon.com/why-i-built-a-mongodb-powered-message-queue)
 ![](https://cdn.hackernoon.com/images/XdmeuEudz5d1lCb2DD9t7EDUBDk2-2pa2kyt.jpeg)
@@ -171,22 +175,22 @@ Imagine — You’re in a system design interview and need to pick a database to
 ![](https://cdn.hackernoon.com/images/LFCaL0mBeyY8JHz0m6GDFp0v7go2-ix6f31t8.jpeg)
 When you think about database providers for ASP NET Core apps, you probably think about Entity Framework Core (EF Core), which handles interacting with SQL databases. But what about the NoSQL options? A popular option for NoSQL is MongoDB. So in this article we're going to learn how to create a simple ASP NET Core CRUD API using MongoDB as the database provider.
 
-### [42. Build Data-Driven Web App Without Backend](https://hackernoon.com/how-to-build-data-driven-web-app-without-backend-only-free-options-as6s31bm)
-![](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-During the last couple of decades websites' functionally has increased dramatically - from simple landing pages serving simple static ads to complex progressive web apps whose functionality close to native applications including user authorization, location tracking, bluetooth handling, and offline mode. 
-
-### [43. How To Build An n8n Workflow To Manage Different Databases and Scheduling Workflows](https://hackernoon.com/how-to-build-an-n8n-workflow-to-manage-different-databases-and-scheduling-workflows-sq8h35ld)
+### [42. How To Build An n8n Workflow To Manage Different Databases and Scheduling Workflows](https://hackernoon.com/how-to-build-an-n8n-workflow-to-manage-different-databases-and-scheduling-workflows-sq8h35ld)
 ![](https://cdn.hackernoon.com/images/zhuoO29JlJebgaxanq2fbxKNuEu1-5bw24dh.jpeg)
 Learn how to build an n8n workflow that processes text, stores data in two databases, and sends messages to Slack.
 
-### [44. Top 10 Microsoft SQL Server Tips](https://hackernoon.com/top-10-microsoft-sql-server-tips-dmu327t)
+### [43. Build Data-Driven Web App Without Backend](https://hackernoon.com/how-to-build-data-driven-web-app-without-backend-only-free-options-as6s31bm)
+![](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+During the last couple of decades websites' functionally has increased dramatically - from simple landing pages serving simple static ads to complex progressive web apps whose functionality close to native applications including user authorization, location tracking, bluetooth handling, and offline mode. 
+
+### [44. Vector Storage, Indexing, and Search With MariaDB: What to Know About These New Features](https://hackernoon.com/vector-storage-indexing-and-search-with-mariadb-what-to-know-about-these-new-features)
+![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-2h03a5b.webp)
+Since MariaDB 11.7, you can store vectors for generative AI applications in a single database. Learn more about these new features.
+
+### [45. Top 10 Microsoft SQL Server Tips](https://hackernoon.com/top-10-microsoft-sql-server-tips-dmu327t)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-5il32hi.jpeg)
 There is a lot of information about different T-SQL features.
 I want to tell you about equally useful, but less popular tips for working with this language!
-
-### [45. Vector Storage, Indexing, and Search With MariaDB: What to Know About These New Features](https://hackernoon.com/vector-storage-indexing-and-search-with-mariadb-what-to-know-about-these-new-features)
-![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-2h03a5b.webp)
-Since MariaDB 11.7, you can store vectors for generative AI applications in a single database. Learn more about these new features.
 
 ### [46. Achieving High Availability with MariaDB MaxScale](https://hackernoon.com/achieving-high-availability-with-mariadb-maxscale)
 ![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-s3b350l.png)
@@ -232,21 +236,21 @@ Explore the nuances of MySQL’s DATETIME and TIMESTAMP types, from handling tim
 ![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-wz037vi.jpeg)
 Learn how to use databases from Java
 
-### [57. Digging into Postgres's Lesser Known Features ](https://hackernoon.com/postgres-handles-more-than-you-think-yob124vl)
-![](https://cdn.hackernoon.com/drafts/mw21l2anc.png)
-Postgres Handles More than You Think
-
-### [58. Apache Cassandra Guide: Data Modeling ](https://hackernoon.com/apache-cassandra-guide-data-modeling-i3g3ufi)
+### [57. Apache Cassandra Guide: Data Modeling ](https://hackernoon.com/apache-cassandra-guide-data-modeling-i3g3ufi)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxJsv61scO8V4SfgwV5i2BaJULKY2-s1153ufk.jpeg?alt=media&token=1d72cf63-4142-4d68-ac5d-eb5c1fd43c32)
 Data modeling is probably one of the most important and potentially challenging aspects of Cassandra. CQL will look familiar if you come from a relational background, but the way you use it can be very different.  For our third guide, we will walk you through the process of creating a basic data model. Read part one on Cassandra essentials and part two on bootstrapping.
 
-### [59. Understanding How UUIDs Save Time and Storage](https://hackernoon.com/understanding-how-uuids-save-time-and-storage)
-![](https://cdn.hackernoon.com/images/po2AF1uVMUYujBIJp82uToQNhos1-pw92dfb.jpeg)
-Learn more about the universally unique identifier (UUID) and how using UUID in your QuestDB instance can help reduce query time as well as save storage space.
+### [58. Digging into Postgres's Lesser Known Features ](https://hackernoon.com/postgres-handles-more-than-you-think-yob124vl)
+![](https://cdn.hackernoon.com/drafts/mw21l2anc.png)
+Postgres Handles More than You Think
 
-### [60. What the Heck is GlareDB?](https://hackernoon.com/what-the-heck-is-glaredb)
+### [59. What the Heck is GlareDB?](https://hackernoon.com/what-the-heck-is-glaredb)
 ![](https://cdn.hackernoon.com/images/YmHydCcGCzQzUWBvxb6PtrLtiRg1-gt93sb1.jpeg)
 Learn more about GlareDB and how it can fit in your data stack
+
+### [60. Understanding How UUIDs Save Time and Storage](https://hackernoon.com/understanding-how-uuids-save-time-and-storage)
+![](https://cdn.hackernoon.com/images/po2AF1uVMUYujBIJp82uToQNhos1-pw92dfb.jpeg)
+Learn more about the universally unique identifier (UUID) and how using UUID in your QuestDB instance can help reduce query time as well as save storage space.
 
 ### [61. Active Record Associations in Rails: Beginners Guide](https://hackernoon.com/understanding-active-record-associations-in-rails-6h642tpw)
 ![](https://cdn.hackernoon.com/drafts/llwd2t1e.png)
@@ -292,41 +296,41 @@ Simplicity is the best policy.
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-hy93o1j.jpeg)
 Learn reasons why you should choose SuperTokens as your auth provider and why it pairs so well with Supabase in protecting you and your online infrastructure
 
-### [72. How to Create World Leading Databases](https://hackernoon.com/creating-world-leading-databases-with-harperdb-svp-jaxon-repp)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-j393mip.jpeg)
-Jason Repp is the SVP of HarperDB, a world-leading ﻿database and development platform that is leading the charge in terms of performance, flexibility, and ease.
+### [72. Apache Cassandra: The Database that Helps Uber and Apple De-risk Their AI Projects](https://hackernoon.com/apache-cassandra-the-database-that-helps-uber-and-apple-de-risk-their-ai-projects)
+![](https://cdn.hackernoon.com/images/qiQzyjN6LvaRDmVgSbd9gXT8bty2-ae93pbd.jpeg)
+Large-scale users of Cassandra, like Uber and Apple, exemplify how this database system can effectively lower the risk in AI/ML projects. 
 
 ### [73. How to do Database Read/Write Splitting With Your Browser](https://hackernoon.com/how-to-do-database-readwrite-splitting-with-your-browser)
 ![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-fb93q3r.png)
 A tutorial that explains how a database proxy like MariaDB MaxScale serves as a transparent read/write splitter that scales SQL queries.
 
-### [74. Apache Cassandra: The Database that Helps Uber and Apple De-risk Their AI Projects](https://hackernoon.com/apache-cassandra-the-database-that-helps-uber-and-apple-de-risk-their-ai-projects)
-![](https://cdn.hackernoon.com/images/qiQzyjN6LvaRDmVgSbd9gXT8bty2-ae93pbd.jpeg)
-Large-scale users of Cassandra, like Uber and Apple, exemplify how this database system can effectively lower the risk in AI/ML projects. 
+### [74. How to Create World Leading Databases](https://hackernoon.com/creating-world-leading-databases-with-harperdb-svp-jaxon-repp)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-j393mip.jpeg)
+Jason Repp is the SVP of HarperDB, a world-leading ﻿database and development platform that is leading the charge in terms of performance, flexibility, and ease.
 
-### [75. Why Databases and SQL Matter: The Pillars of Modern App Development](https://hackernoon.com/why-databases-and-sql-matter-the-pillars-of-modern-app-development)
-![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-7g83zpc.jpeg)
-As a beginner, you could be intrigued by the need for relational databases and SQL in software development. This article explains why databases are needed.
-
-### [76. How to Use DAX Studio to Retrieve All Measures in Power BI](https://hackernoon.com/dax-studio-and-power-bi-extract-and-analyze-data-in-greater-detail)
+### [75. How to Use DAX Studio to Retrieve All Measures in Power BI](https://hackernoon.com/dax-studio-and-power-bi-extract-and-analyze-data-in-greater-detail)
 ![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-th939df.jpeg)
 Using DAX Studio to retrieve all measures from a Power BI file is a straightforward process that provides valuable insights.
 
-### [77. How to Handle Database Versioning on Multiple Environments](https://hackernoon.com/how-to-handle-database-versioning-on-multiple-environments-b45a3v51)
+### [76. Why Databases and SQL Matter: The Pillars of Modern App Development](https://hackernoon.com/why-databases-and-sql-matter-the-pillars-of-modern-app-development)
+![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-7g83zpc.jpeg)
+As a beginner, you could be intrigued by the need for relational databases and SQL in software development. This article explains why databases are needed.
+
+### [77. I Spent Two Weeks Testing 8 Databases With the Same Question - Here's What Actually Happened](https://hackernoon.com/i-spent-two-weeks-testing-8-databases-with-the-same-question-heres-what-actually-happened)
+![](https://cdn.hackernoon.com/images/nZUOsUekMgduRcTLAVIl3En9Zs23-yv83dkn.gif.webp)
+The thing nobody tells you about databases: The best one isn't the fastest one. It's the one your team can actually use without calling you at 3 a.m.
+
+### [78. How to Handle Database Versioning on Multiple Environments](https://hackernoon.com/how-to-handle-database-versioning-on-multiple-environments-b45a3v51)
 ![](https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Ok, so here is the situation: you work in a team, and each developer works with a local environment. Or  you have multiple environments. Or... We don't care. The only thing is, you have to handle different versions of databases, and you don't know how to do this safely and efficiently.  
 
-### [78. Does MariaDB Depend on MySQL?](https://hackernoon.com/does-mariadb-depend-on-mysql)
+### [79. Does MariaDB Depend on MySQL?](https://hackernoon.com/does-mariadb-depend-on-mysql)
 ![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-zf03rk0.png)
 Thoughts on how MariaDB is incorrectly perceived merely as a fork of MySQL and how MariaDB is independent from MySQL yet highly compatible
 
-### [79. Data Scraping in Node.js 101](https://hackernoon.com/data-scraping-in-nodejs-101-m32oi31yl)
+### [80. Data Scraping in Node.js 101](https://hackernoon.com/data-scraping-in-nodejs-101-m32oi31yl)
 ![](https://cdn.hackernoon.com/drafts/bfni31n1.png)
 How to gather data without those pesky databases.
-
-### [80. I Spent Two Weeks Testing 8 Databases With the Same Question - Here's What Actually Happened](https://hackernoon.com/i-spent-two-weeks-testing-8-databases-with-the-same-question-heres-what-actually-happened)
-![](https://cdn.hackernoon.com/images/nZUOsUekMgduRcTLAVIl3En9Zs23-yv83dkn.gif.webp)
-The thing nobody tells you about databases: The best one isn't the fastest one. It's the one your team can actually use without calling you at 3 a.m.
 
 ### [81. Getting started with Distributed SQL](https://hackernoon.com/getting-started-with-distributed-sql)
 ![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-ih93qm9.jpeg)
@@ -344,53 +348,53 @@ What's the most efficient way to store market data? SQL or NoSQL? Let's compare 
 ![](https://cdn.hackernoon.com/images/fdI8xgIHRJTxUAsqoZ27qOGzMz33-uv93rxr.jpeg)
 Foursquare is evolving, and its next steps will be powered by the Foursquare Graph
 
-### [85. How I'm Engineering a Versioned Database Storage Engine for Byte-Addressable NVM](https://hackernoon.com/how-im-engineering-a-temporal-database-storage-engine-for-byte-addressable-non-volatile-memory-af1728kl)
-![](https://cdn.hackernoon.com/images/px1aj281j.jpg)
-Feel free to contribute on GitHub 💚
-
-### [86. JDBC Tutorial Part 3: How to Use Database Connection Pools](https://hackernoon.com/jdbc-tutorial-part-3-how-to-use-database-connection-pools)
+### [85. JDBC Tutorial Part 3: How to Use Database Connection Pools](https://hackernoon.com/jdbc-tutorial-part-3-how-to-use-database-connection-pools)
 ![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-qm039d3.jpeg)
 Learn what database connection pools are, why you should use them, and how
 
-### [87. CouchDB vs MariaDB- Which is better?](https://hackernoon.com/couchdb-vs-mariadb-which-is-better-z31435ab)
-![](https://cdn.hackernoon.com/images/AnJzZ0Qd07ZsLxCm8CeCmSoUmRO2-zb2533wg.jpeg)
-In simple terms, a database is a collection of information. It is organized to ensure easy accessibility, management, and updates.
+### [86. How I'm Engineering a Versioned Database Storage Engine for Byte-Addressable NVM](https://hackernoon.com/how-im-engineering-a-temporal-database-storage-engine-for-byte-addressable-non-volatile-memory-af1728kl)
+![](https://cdn.hackernoon.com/images/px1aj281j.jpg)
+Feel free to contribute on GitHub 💚
 
-### [88. A Web3 Native Database: Tableland](https://hackernoon.com/a-web3-native-database-tableland)
+### [87. A Web3 Native Database: Tableland](https://hackernoon.com/a-web3-native-database-tableland)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-zt931t4.jpeg)
 Smart contract developers need a web3 native database to decouple dapps and data. Tableland makes a nice try.
+
+### [88. CouchDB vs MariaDB- Which is better?](https://hackernoon.com/couchdb-vs-mariadb-which-is-better-z31435ab)
+![](https://cdn.hackernoon.com/images/AnJzZ0Qd07ZsLxCm8CeCmSoUmRO2-zb2533wg.jpeg)
+In simple terms, a database is a collection of information. It is organized to ensure easy accessibility, management, and updates.
 
 ### [89. 10 Cool CI/CD Tools For Your Project](https://hackernoon.com/10-cool-cicd-tools-for-your-project-h1163ud7)
 ![](https://cdn.hackernoon.com/drafts/uw4b3w06.png)
 Continuous Integration, shortly called ‘CI’ in DevOps is an important process or a set of processes that are defined and carried out as a part of a pipeline called Build Pipeline or CI Pipeline.
 
-### [90. The Rise of Reusable SQL-based Data Modeling Tools and DataOps services](https://hackernoon.com/the-resurgence-of-sql-based-rdbms-if-there-is-one-analytics-trend-we-can-all-agree-on-it-is-that-we-0iy32i5)
-![](https://cdn.hackernoon.com/images/sem232o6.jpg)
-The resurgence of SQL-based RDBMS
+### [90. How to Navigate Auto-Increment Columns in Relational Databases](https://hackernoon.com/how-to-navigate-auto-increment-columns-in-relational-databases)
+![](https://cdn.hackernoon.com/images/n3kl2GbTdNeZW4LWuQI0srwMqsG2-6n93pi1.jpeg)
+Auto-increment is a database feature that generates unique IDs for new rows. It's supported by most RDBMS and can be implemented using different syntax. 
 
-### [91. How to Use .populate() With mongoDB](https://hackernoon.com/how-to-use-populate-with-mongodb)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-pv931i4.jpeg)
-How to use populate() method with mongoDB to itch data across referenced collections
-
-### [92. The Oracle Database Docker Image Can Supercharge Your DevOps Learning](https://hackernoon.com/the-oracle-database-docker-image-can-supercharge-your-devops-learning-0f4r33z4)
+### [91. The Oracle Database Docker Image Can Supercharge Your DevOps Learning](https://hackernoon.com/the-oracle-database-docker-image-can-supercharge-your-devops-learning-0f4r33z4)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-eqi33t4.jpeg)
 This is a tutorial on how to install, use, and patch the Oracle Database Docker Image. Docker is a PaaS that delivers software in packages called containers.
 
-### [93. Express Setup: Golang and Testcontainers Unwrapped](https://hackernoon.com/express-setup-golang-and-testcontainers-unwrapped)
+### [92. The Rise of Reusable SQL-based Data Modeling Tools and DataOps services](https://hackernoon.com/the-resurgence-of-sql-based-rdbms-if-there-is-one-analytics-trend-we-can-all-agree-on-it-is-that-we-0iy32i5)
+![](https://cdn.hackernoon.com/images/sem232o6.jpg)
+The resurgence of SQL-based RDBMS
+
+### [93. How to Use .populate() With mongoDB](https://hackernoon.com/how-to-use-populate-with-mongodb)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-pv931i4.jpeg)
+How to use populate() method with mongoDB to itch data across referenced collections
+
+### [94. Express Setup: Golang and Testcontainers Unwrapped](https://hackernoon.com/express-setup-golang-and-testcontainers-unwrapped)
 ![](https://cdn.hackernoon.com/images/UEotafwfFeWNbpiTd8aMne1xKrD2-i2f3gf8.jpeg)
 Do we need all of this just to run a couple of integration tests for the database? The answer is obviously no.
 
-### [94. Should You Be Using NoSQL?](https://hackernoon.com/should-you-be-using-nosql-q11i3y58)
+### [95. Should You Be Using NoSQL?](https://hackernoon.com/should-you-be-using-nosql-q11i3y58)
 ![](https://cdn.hackernoon.com/images/oc4f3ye5.jpg)
 NoSQL got quite some hype a few years back. It was going to solve your scaling, uptime, and speed problems. There were trade-offs, of course, but, for a brief moment, seemingly everything we knew about storing and querying data was up for grabs.
 
-### [95. Join to Write Data Into Your First Decentralized Database](https://hackernoon.com/join-to-write-data-into-your-first-decentralized-database)
+### [96. Join to Write Data Into Your First Decentralized Database](https://hackernoon.com/join-to-write-data-into-your-first-decentralized-database)
 ![](https://cdn.hackernoon.com/images/TbYt28nVKoQeF1PsWFlYhbkBat42-kz93r3c.jpeg)
 The DB3 Network is a start-up project to build a decentralized, permissionless platform for programmable data processing.
-
-### [96. How to Navigate Auto-Increment Columns in Relational Databases](https://hackernoon.com/how-to-navigate-auto-increment-columns-in-relational-databases)
-![](https://cdn.hackernoon.com/images/n3kl2GbTdNeZW4LWuQI0srwMqsG2-6n93pi1.jpeg)
-Auto-increment is a database feature that generates unique IDs for new rows. It's supported by most RDBMS and can be implemented using different syntax. 
 
 ### [97. Why Ruby Shall Still Be Relevant in 2021](https://hackernoon.com/why-ruby-shall-still-be-relevant-in-2021-5l2v34la)
 ![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-342131eu.jpeg)
@@ -404,54 +408,54 @@ How to connect various data sources easily and ensure high query performance.
 ![](https://cdn.hackernoon.com/images/W8O8r27oUwUryhNHNMOvKfQBLNn2-h09133mu.jpeg)
 This article will provide an overview on database architectures, including use cases and pros & cons for each of them.
 
-### [100. 121 Stories To Learn About Databases](https://hackernoon.com/121-stories-to-learn-about-databases)
-![](https://cdn.hackernoon.com/images/github/databases-738.png)
-Learn everything you need to know about Databases via these 121 free HackerNoon stories.
-
-### [101. Database Evolution: From Traditional RDBMS to AI-Native and Quantum-Ready Systems](https://hackernoon.com/database-evolution-from-traditional-rdbms-to-ai-native-and-quantum-ready-systems)
+### [100. Database Evolution: From Traditional RDBMS to AI-Native and Quantum-Ready Systems](https://hackernoon.com/database-evolution-from-traditional-rdbms-to-ai-native-and-quantum-ready-systems)
 ![](https://cdn.hackernoon.com/images/bN8L9KD05dR2WJZXHSRkdBO6PM43-u943s2b.jpeg)
 In this article, you will learn about the evolution of modern databases, how they're adapting to AI workloads, what quantum computing means for data storage. 
+
+### [101. 121 Stories To Learn About Databases](https://hackernoon.com/121-stories-to-learn-about-databases)
+![](https://cdn.hackernoon.com/images/github/databases-738.png)
+Learn everything you need to know about Databases via these 121 free HackerNoon stories.
 
 ### [102. The Failed Promises of Extract, Transform, and Load—and What Comes Next](https://hackernoon.com/the-failed-promises-of-extract-transform-and-loadand-what-comes-next)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-1x93ptv.jpeg)
 Faster, Better Insights: Why Networked Data Platforms Matter for Telecommunications Companies
 
 
-### [103. Exploring the CAP Theorem: The Ultimate Battle of Trade-Offs in Distributed Systems](https://hackernoon.com/exploring-the-cap-theorem-the-ultimate-battle-of-trade-offs-in-distributed-systems)
-![](https://cdn.hackernoon.com/images/YSoDoZKf5RhRC9LZYSNFGfxCC8l1-j3c3lcc.jpeg)
-Consistency, availability, and partition tolerance are the three musketeers of distributed systems. They ensure that your system operates correctly. 
-
-### [104. Analyzing 110 Million Comments from Hacker News](https://hackernoon.com/analyzing-110-million-comments-from-hacker-news)
-![](https://cdn.hackernoon.com/images/2yEHZMN6JeQSAmOaVn8T8TtsI7E3-yy94jhz.jpeg)
-In this article, we’ll observe another test with1.1M Hacker News curated comments with numeric fields
-
-### [105. Aerospike Graph: the Latest Entry in the Graph Database Market](https://hackernoon.com/aerospike-graph-the-latest-entry-in-the-graph-database-market)
+### [103. Aerospike Graph: the Latest Entry in the Graph Database Market](https://hackernoon.com/aerospike-graph-the-latest-entry-in-the-graph-database-market)
 ![](https://cdn.hackernoon.com/images/fdI8xgIHRJTxUAsqoZ27qOGzMz33-cg930t7.jpeg)
 The story behind the birth of a new entry in the graph database market and its differentiation in a very densely populated market.
 
-### [106. The Decentralized Database Revolution](https://hackernoon.com/the-decentralized-database-revolution)
+### [104. Exploring the CAP Theorem: The Ultimate Battle of Trade-Offs in Distributed Systems](https://hackernoon.com/exploring-the-cap-theorem-the-ultimate-battle-of-trade-offs-in-distributed-systems)
+![](https://cdn.hackernoon.com/images/YSoDoZKf5RhRC9LZYSNFGfxCC8l1-j3c3lcc.jpeg)
+Consistency, availability, and partition tolerance are the three musketeers of distributed systems. They ensure that your system operates correctly. 
+
+### [105. Analyzing 110 Million Comments from Hacker News](https://hackernoon.com/analyzing-110-million-comments-from-hacker-news)
+![](https://cdn.hackernoon.com/images/2yEHZMN6JeQSAmOaVn8T8TtsI7E3-yy94jhz.jpeg)
+In this article, we’ll observe another test with1.1M Hacker News curated comments with numeric fields
+
+### [106. The Future of Database Administration Is Evolution, Not Extinction](https://hackernoon.com/the-future-of-database-administration-is-evolution-not-extinction)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bc02ubx.jpeg)
+Database administration is evolving rapidly as AI technologies mature. This article examines automation shines, human expertise
+
+### [107. The Decentralized Database Revolution](https://hackernoon.com/the-decentralized-database-revolution)
 ![](https://cdn.hackernoon.com/images/88xQqjRtttXGhP9pAmIP0Lc0irC3-zza2p1w.jpeg)
 Decentralized databases are becoming the backbone of secure, scalable, and user-centric applications. Serverless computing and multi-chain authentications are r
 
-### [107. How to Extract Insights From Your Data](https://hackernoon.com/automate-exploratory-data-analysis-on-databases)
+### [108. How to Extract Insights From Your Data](https://hackernoon.com/automate-exploratory-data-analysis-on-databases)
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-5t93o1h.jpeg)
 Manage data using the HarperDB database. Access your data from HarperDB using Custom Function. Automate EDA with data from the harperDB database using sweetviz.
 
-### [108. How to Use Temporary Tables in MariaDB](https://hackernoon.com/how-to-use-temporary-tables-in-mariadb)
-![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-9r831bx.jpeg)
-Temporary tables are useful for transient data operations. A temporary table only exists for the duration of the session in which it was created
-
-### [109. How to connect SuperTokens to a MySQL or to a PostgreSQL database](https://hackernoon.com/how-to-connect-supertokens-to-a-mysql-or-to-a-postgresql-database)
-![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-k4a2kzx.png)
-Learn how to connect a self-hosted SuperTokens core to a database with or without Docker
-
-### [110. The Hidden Architecture Powering AI Search: Vector Databases Under the Hood](https://hackernoon.com/the-hidden-architecture-powering-ai-search-vector-databases-under-the-hood)
+### [109. The Hidden Architecture Powering AI Search: Vector Databases Under the Hood](https://hackernoon.com/the-hidden-architecture-powering-ai-search-vector-databases-under-the-hood)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-f10238i.jpeg)
 An in-depth look at Vector Databases, their architecture, use cases, and how they differ from traditional databases.
 
-### [111. The Future of Database Administration Is Evolution, Not Extinction](https://hackernoon.com/the-future-of-database-administration-is-evolution-not-extinction)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bc02ubx.jpeg)
-Database administration is evolving rapidly as AI technologies mature. This article examines automation shines, human expertise
+### [110. How to Use Temporary Tables in MariaDB](https://hackernoon.com/how-to-use-temporary-tables-in-mariadb)
+![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-9r831bx.jpeg)
+Temporary tables are useful for transient data operations. A temporary table only exists for the duration of the session in which it was created
+
+### [111. How to connect SuperTokens to a MySQL or to a PostgreSQL database](https://hackernoon.com/how-to-connect-supertokens-to-a-mysql-or-to-a-postgresql-database)
+![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-k4a2kzx.png)
+Learn how to connect a self-hosted SuperTokens core to a database with or without Docker
 
 ### [112. "Specified key was too long; max key length is 767 bytes" Error in Laravel](https://hackernoon.com/specified-key-was-too-long-max-key-length-is-767-bytes-error-in-laravel-o7133u5m)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FftUCnMhOe2XTZI6pMhyPHKIZ3Ip1-iv1b23el.jpeg?alt=media&token=33f46439-01da-461f-92c9-807c074565d4)
@@ -465,21 +469,21 @@ Our first article covered Cassandra essentials: the “what” and “why” abo
 ![](https://cdn.hackernoon.com/images/cbFicVqD1RhLjNOEm6YW7XF9Pim1-p1f37np.png)
 Lambda segregates real-time and offline big data processing. Our pipeline implements separate pipelines for each data type, allowing for efficient processing.
 
-### [115. How RAG Improves Database Management](https://hackernoon.com/how-rag-improves-database-management)
-![](https://cdn.hackernoon.com/images/nv6KMiFIN9g8WjsnwOUaHneH6wc2-fj03ci9.png)
-RAG is transforming database management with accurate retrieval, real-time insights, and natural language querying to help teams manage and understand data inte
-
-### [116. Enhancing PostgreSQL Backup Efficiency: Leveraging pgBackRest and EBS Snapshot](https://hackernoon.com/enhancing-postgresql-backup-efficiency-leveraging-pgbackrest-and-ebs-snapshot)
+### [115. Enhancing PostgreSQL Backup Efficiency: Leveraging pgBackRest and EBS Snapshot](https://hackernoon.com/enhancing-postgresql-backup-efficiency-leveraging-pgbackrest-and-ebs-snapshot)
 ![](https://cdn.hackernoon.com/images/ab2g0DBp0TdSueYypDOFv02tQX93-5ya382h.jpeg)
 pgBackRest is awesome, but it can be quite slow. We mitigated this problem via incorporating EBS snapshots to our backup creation/restore strategy for Postgres.
 
-### [117. Six Ways For Effective Data Visualization With Tableau](https://hackernoon.com/top-six-tricks-for-effective-data-visualization-with-tableau-ma1i32nz)
-![](https://cdn.hackernoon.com/drafts/nn2ju32f4.png)
-Tableau
+### [116. How RAG Improves Database Management](https://hackernoon.com/how-rag-improves-database-management)
+![](https://cdn.hackernoon.com/images/nv6KMiFIN9g8WjsnwOUaHneH6wc2-fj03ci9.png)
+RAG is transforming database management with accurate retrieval, real-time insights, and natural language querying to help teams manage and understand data inte
 
-### [118. RocksDB Is Steadily Eating the Database World](https://hackernoon.com/rocksdb-is-steadily-eating-the-database-world-na6132ax)
+### [117. RocksDB Is Steadily Eating the Database World](https://hackernoon.com/rocksdb-is-steadily-eating-the-database-world-na6132ax)
 ![](https://cdn.hackernoon.com/images/7ckt3ymi.jpg)
 Technical design. Because one of the most common use cases of the new databases is storing data that is generated by high-throughput sources, it is important that the store engine is able to handle write-intensive workloads, all while offering acceptable read performance. RocksDB implements what is known in the database literature as a log-structured merge tree aka LSM tree.
+
+### [118. Six Ways For Effective Data Visualization With Tableau](https://hackernoon.com/top-six-tricks-for-effective-data-visualization-with-tableau-ma1i32nz)
+![](https://cdn.hackernoon.com/drafts/nn2ju32f4.png)
+Tableau
 
 ### [119. How to Set Up PostgreSQL with NestJS and Docker for Fast Local Development: A Quick Guide](https://hackernoon.com/how-to-set-up-postgresql-with-nestjs-and-docker-for-fast-local-development-a-quick-guide)
 ![](https://cdn.hackernoon.com/images/JcQXcQQkIGNvfuLAO6lod8fJIS52-td03bub.jpeg)
@@ -521,86 +525,86 @@ How Can You Sort Through Online Data?
 ![](https://cdn.hackernoon.com/images/E9obLjZ4AzZwwyyRsEYSJfdX9H93-0583hid.jpeg)
 We're about to embark on the fascinating journey of building a data warehouse, guided by our adept Data Architect.
 
-### [129. Here's How to Keep Tempdb From Becoming Your Worst Nightmare](https://hackernoon.com/heres-how-to-keep-tempdb-from-becoming-your-worst-nightmare)
-![](https://cdn.hackernoon.com/images/lh3GIz5KYbVlETykJ0q4yOt71CA3-bq03qik.jpeg)
-Learn how to diagnose and fix SQL Server `tempdb` issues—space bloat, auto-growth, and contention—using targeted queries. Optimize performance with pre-sizing.
-
-### [130. MongoDB 8.0 Upgrade Guide: What You Need to Know Before Upgrading](https://hackernoon.com/mongodb-80-upgrade-guide-what-you-need-to-know-before-upgrading)
+### [129. MongoDB 8.0 Upgrade Guide: What You Need to Know Before Upgrading](https://hackernoon.com/mongodb-80-upgrade-guide-what-you-need-to-know-before-upgrading)
 ![](https://cdn.hackernoon.com/images/cQw7KuFmcaauwZH8luWpnCl5PKF2-aqb3ll9.webp)
 Learn some of the new features of MongoDB 8.0 and the key considerations you should take into account before upgrading to the new version.
 
-### [131. How to Avoid Inconsistency Across Microservices](https://hackernoon.com/how-to-avoid-inconsistency-across-microservices)
+### [130. Here's How to Keep Tempdb From Becoming Your Worst Nightmare](https://hackernoon.com/heres-how-to-keep-tempdb-from-becoming-your-worst-nightmare)
+![](https://cdn.hackernoon.com/images/lh3GIz5KYbVlETykJ0q4yOt71CA3-bq03qik.jpeg)
+Learn how to diagnose and fix SQL Server `tempdb` issues—space bloat, auto-growth, and contention—using targeted queries. Optimize performance with pre-sizing.
+
+### [131. Amazon Neptune Launches a New Analytics Engine and the One Graph Vision](https://hackernoon.com/amazon-neptune-launches-a-new-analytics-engine-and-the-one-graph-vision)
+![](https://cdn.hackernoon.com/images/fdI8xgIHRJTxUAsqoZ27qOGzMz33-ic82q81.jpeg)
+Amazon Neptune, the managed graph database service by AWS, makes analytics faster and more agile while introducing a vision aiming to simplify graph databases.
+
+### [132. How to Avoid Inconsistency Across Microservices](https://hackernoon.com/how-to-avoid-inconsistency-across-microservices)
 ![](https://cdn.hackernoon.com/images/hoI4S7KpadhuZX1xs9IUD2zWQ113-2j94k5d.jpeg)
 In a microservice architecture, you can get dependencies that impose restrictions on the services used
 
-### [132. HarperDB is More Than Just a Database: Here's Why](https://hackernoon.com/harperdb-is-more-than-just-a-database-heres-why-972h371l)
+### [133. HarperDB is More Than Just a Database: Here's Why](https://hackernoon.com/harperdb-is-more-than-just-a-database-heres-why-972h371l)
 ![](https://cdn.hackernoon.com/images/W8O8r27oUwUryhNHNMOvKfQBLNn2-vbs357k.jpeg)
 HarperDB is more than just a database, and for certain users or projects, HarperDB is not serving as a database at all. How can this be possible?
-
-### [133. Amazon Neptune Launches a New Analytics Engine and the One Graph Vision](https://hackernoon.com/amazon-neptune-launches-a-new-analytics-engine-and-the-one-graph-vision)
-![](https://cdn.hackernoon.com/images/fdI8xgIHRJTxUAsqoZ27qOGzMz33-ic82q81.jpeg)
-Amazon Neptune, the managed graph database service by AWS, makes analytics faster and more agile while introducing a vision aiming to simplify graph databases.
 
 ### [134. Intro to Databases: Using Different Data Models and Representing Databases Visually](https://hackernoon.com/intro-to-databases-using-different-data-models-and-representing-databases-visually-bn7c3x37)
 ![](https://cdn.hackernoon.com/drafts/yfd032t0.png)
 As you get into the Databases and Data Science, the first thing that you have to master is the relations between entities in your database. That is important because the data that you use has to be absolutely efficient for its further implementations.
 
-### [135. How to Set up a Heroku Postgres Database with Librato](https://hackernoon.com/how-to-set-up-a-heroku-postgres-database-with-librato-xl2v31gl)
-![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-8te31zc.jpeg)
-In this article, you will learn how to set up a Heroku Postgres database with Librato for automated monitoring.
-
-### [136. Reactive Programming - The New Way to Write Apps?](https://hackernoon.com/reactive-programming-the-new-way-to-write-apps)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-m492a97.jpeg)
-A couple of years ago, Reactive Programming was all the rage, but it had one big issue: reactive stopped as soon as you accessed a SQL database. 
-
-### [137. The HackerNoon Newsletter: Can Technology Help Us Calm Down Road Rage? (1/25/2025)](https://hackernoon.com/1-25-2025-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_569_ivvdmrmyrxc3gty6hc0yugnh.png)
-1/25/2025: Top 5 stories on the HackerNoon homepage!
-
-### [138. Building an Open Source Python Web API Using Django REST Framework (Part Two)](https://hackernoon.com/building-an-open-source-python-web-api-using-django-rest-framework-part-two)
-![](https://cdn.hackernoon.com/images/YvL12sSDKsS3dBX5mZ88aPowp2k2-9wd2yoh.jpeg)
-There are no strict rules on how to plan your work, but scribbling your ideas in a notebook, organising your requirements, and even generating pseudocode helps.
-
-### [139. The Data Stack’s Next Form Factor: Multi-Agent Systems](https://hackernoon.com/the-data-stacks-next-form-factor-multi-agent-systems)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-c30230g.png)
-Move beyond data monoliths with Da2a, an open-source agentic data platform using the A2A protocol for decentralized analytics. 
-
-### [140. “I’m Too Small To Be Targeted,” Is No Longer A Valid Argument in 2021: A Database Security Checklist](https://hackernoon.com/im-too-small-to-be-targeted-is-no-longer-a-valid-argument-in-2021-a-database-security-checklist-ix8c33q5)
-![](https://hackernoon.com/images/87TektCts2aPzLfLjzdBJnicMFK2-f1f33hm.jpeg)
-“I’m too small to be targeted,” is a phrase you might say to yourself. Let’s swiftly get that notion out of our minds. 
-
-### [141. Senior Engineers Should Teach, Not Just Code](https://hackernoon.com/senior-engineers-should-teach-not-just-code)
+### [135. Senior Engineers Should Teach, Not Just Code](https://hackernoon.com/senior-engineers-should-teach-not-just-code)
 ![](https://substackcdn.com/image/fetch/$s_!Cl0L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76290efe-4ee3-414c-9b96-68f5cdd2c0ea_1024x608.png)
 Senior engineers need to learn how to multiply their impact through others. 
 
-### [142. How to Reindex a Database in Elasticsearch](https://hackernoon.com/how-to-reindex-a-database-in-elasticsearch)
-![](https://cdn.hackernoon.com/images/bKYjS2C6Rxcv14egxakvrg8O65x1-li93v1k.jpeg)
-One effective "strike while the iron is hot" technique is to create a test environment immediately after identifying the need.
+### [136. How to Set up a Heroku Postgres Database with Librato](https://hackernoon.com/how-to-set-up-a-heroku-postgres-database-with-librato-xl2v31gl)
+![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-8te31zc.jpeg)
+In this article, you will learn how to set up a Heroku Postgres database with Librato for automated monitoring.
+
+### [137. Reactive Programming - The New Way to Write Apps?](https://hackernoon.com/reactive-programming-the-new-way-to-write-apps)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-m492a97.jpeg)
+A couple of years ago, Reactive Programming was all the rage, but it had one big issue: reactive stopped as soon as you accessed a SQL database. 
+
+### [138. The Data Stack’s Next Form Factor: Multi-Agent Systems](https://hackernoon.com/the-data-stacks-next-form-factor-multi-agent-systems)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-c30230g.png)
+Move beyond data monoliths with Da2a, an open-source agentic data platform using the A2A protocol for decentralized analytics. 
+
+### [139. The HackerNoon Newsletter: Can Technology Help Us Calm Down Road Rage? (1/25/2025)](https://hackernoon.com/1-25-2025-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_569_ivvdmrmyrxc3gty6hc0yugnh.png)
+1/25/2025: Top 5 stories on the HackerNoon homepage!
+
+### [140. Building an Open Source Python Web API Using Django REST Framework (Part Two)](https://hackernoon.com/building-an-open-source-python-web-api-using-django-rest-framework-part-two)
+![](https://cdn.hackernoon.com/images/YvL12sSDKsS3dBX5mZ88aPowp2k2-9wd2yoh.jpeg)
+There are no strict rules on how to plan your work, but scribbling your ideas in a notebook, organising your requirements, and even generating pseudocode helps.
+
+### [141. “I’m Too Small To Be Targeted,” Is No Longer A Valid Argument in 2021: A Database Security Checklist](https://hackernoon.com/im-too-small-to-be-targeted-is-no-longer-a-valid-argument-in-2021-a-database-security-checklist-ix8c33q5)
+![](https://hackernoon.com/images/87TektCts2aPzLfLjzdBJnicMFK2-f1f33hm.jpeg)
+“I’m too small to be targeted,” is a phrase you might say to yourself. Let’s swiftly get that notion out of our minds. 
+
+### [142. Collecting Data from 1.1M Hacker News Curated Comments](https://hackernoon.com/collecting-data-from-11m-hacker-news-curated-comments)
+![](https://cdn.hackernoon.com/images/2yEHZMN6JeQSAmOaVn8T8TtsI7E3-kx94jvc.jpeg)
+In this test we use the data collection of 1.1M Hacker News curated comments with numeric fields from https://zenodo.org/record/45901. 
 
 ### [143. Spacecraft Engineering Models: How to Migrate UML to TypeQL](https://hackernoon.com/spacecraft-engineering-models-how-to-migrate-uml-to-typeql-7t1n37cr)
 ![](https://cdn.hackernoon.com/images/owUeJT0dLubHoWBfQmFO7pNCtvk2-fgjy352d.jpeg)
 How to map UML to TypeQL. Read how the European Space Agency migrated their spacecraft engineering models from UML to TypeQL for use in a TypeDB database.
 
-### [144. Collecting Data from 1.1M Hacker News Curated Comments](https://hackernoon.com/collecting-data-from-11m-hacker-news-curated-comments)
-![](https://cdn.hackernoon.com/images/2yEHZMN6JeQSAmOaVn8T8TtsI7E3-kx94jvc.jpeg)
-In this test we use the data collection of 1.1M Hacker News curated comments with numeric fields from https://zenodo.org/record/45901. 
+### [144. How to Reindex a Database in Elasticsearch](https://hackernoon.com/how-to-reindex-a-database-in-elasticsearch)
+![](https://cdn.hackernoon.com/images/bKYjS2C6Rxcv14egxakvrg8O65x1-li93v1k.jpeg)
+One effective "strike while the iron is hot" technique is to create a test environment immediately after identifying the need.
 
 ### [145. Maximize Cybersecurity with Multiple Databases](https://hackernoon.com/maximize-cybersecurity-with-multiple-databases)
 ![](https://cdn.hackernoon.com/images/AiJJJ2MaO0dN7KCZ73EaYbtGSvk1-nh93p4j.jpeg)
 If securing your company’s intellectual property is such a complex process, how can business leaders efficiently defend their assets? Use multiple databases.
 
 
-### [146. The Megashift Towards Decentralized Edge Computing](https://hackernoon.com/the-megashift-towards-decentralized-edge-computing)
+### [146. How to Use the PostgreSQL Pager With MariaDB Xpand](https://hackernoon.com/how-to-use-the-postgresql-pager-with-mariadb-xpand)
+![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-6793rqe.jpeg)
+
+
+### [147. The Megashift Towards Decentralized Edge Computing](https://hackernoon.com/the-megashift-towards-decentralized-edge-computing)
 ![](https://cdn.hackernoon.com/images/AQnx6YF8HLVs3SE4U603boIBGKq2-xe44335ne.jpeg)
 Why do we need Edge Computing? Why is the cloud not the solution for everything? Why is Edge Computing adoption taking so long? What's the solution to it? 
 
-### [147. How to Use Docker to Template Local Database](https://hackernoon.com/how-to-use-docker-to-template-local-database)
+### [148. How to Use Docker to Template Local Database](https://hackernoon.com/how-to-use-docker-to-template-local-database)
 ![](https://cdn.hackernoon.com/images/docker-orchestrating-databases-like-templates-oy2taofegf00ymkrcmodq5fy.png)
 Resetting a local development database is a common task that can take a lot of time when the database dump is large. When you need to reset your local developme
-
-### [148. How to Use the PostgreSQL Pager With MariaDB Xpand](https://hackernoon.com/how-to-use-the-postgresql-pager-with-mariadb-xpand)
-![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-6793rqe.jpeg)
-
 
 ### [149. Coding Exercise: Database Migration Tool in Nodejs](https://hackernoon.com/coding-exercise-database-migration-tool-in-nodejs)
 ![](https://cdn.hackernoon.com/images/0yHYzlSd9dQMsxzwzMkXROabmPx2-aa0275c.png)
@@ -610,13 +614,13 @@ I've created a small, simple database migration tool for nodejs.
 ![](https://cdn.hackernoon.com/images/MEO1Whp7pdbY2Fmqr6xMgItyqS23-qo93kxa.jpeg)
 This article introduces the design and implementation of metadata storage in Alluxio Master, either on heap and off heap (based on RocksDB).
 
-### [151. Heavy Rotation of Relational Hashicorp Vault Database Secrets in Spring](https://hackernoon.com/how-to-handle-the-expiration-of-hashicorp-vault-database-secrets-in-spring-80qa3y16)
-![](https://cdn.hackernoon.com/drafts/9k113yjs.png)
-Rotate Expiring Spring Cloud Vault Database Credentials Without Downtime
-
-### [152. Vector Search in Databases: FOSDEM's Presentation on Manticore Vector Search](https://hackernoon.com/vector-search-in-databases-fosdems-presentation-on-manticore-vector-search)
+### [151. Vector Search in Databases: FOSDEM's Presentation on Manticore Vector Search](https://hackernoon.com/vector-search-in-databases-fosdems-presentation-on-manticore-vector-search)
 ![](https://cdn.hackernoon.com/images/2yEHZMN6JeQSAmOaVn8T8TtsI7E3-gq832nm.jpeg)
 The latest in vector search for databases from FOSDEM, highlighting advancements, challenges, and future directions.
+
+### [152. Heavy Rotation of Relational Hashicorp Vault Database Secrets in Spring](https://hackernoon.com/how-to-handle-the-expiration-of-hashicorp-vault-database-secrets-in-spring-80qa3y16)
+![](https://cdn.hackernoon.com/drafts/9k113yjs.png)
+Rotate Expiring Spring Cloud Vault Database Credentials Without Downtime
 
 ### [153. How To Add Data Sensitivity Classification Command in SQL Server 2019](https://hackernoon.com/how-to-add-data-sensitivity-classification-command-in-sql-server-2019-g6253ws4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMi8z5HenKGNpOVoDYBJHLVcRhWS2-qx103tnn.jpeg?alt=media&token=9a58a86d-399f-41d0-94a5-1ece0eec26a4)
@@ -638,13 +642,13 @@ Learn how to use C# Testcontainers for MongoDB! If you're developing a dotnet ap
 ![](https://cdn.hackernoon.com/images/L7W9D7rvxcUdXM8vTx8qHl21qSS2-510395a.png)
 In this article, I covered the use of a freeware application called FDR which can help you recover corrupt or damaged MS SQL databases. 
 
-### [158. Bitcoin Doublethink.](https://hackernoon.com/test-5y8c3pqr)
-![](https://cdn.hackernoon.com/drafts/8co3qjd.png)
-For some time now I’ve been making an unassailable and unchallenged argument that Bitcoin and Bitcoin services are no different to the monies and services found in video games. Now, thanks to my favourite gamer, we have one of the best examples yet of “Bitcoin Doublethink”, second only to the very cute Pigsby which uses a “Blockchain” for its database.
-
-### [159. The Hyper-V Admins' Guide to VMware Backup ](https://hackernoon.com/the-hyper-v-admins-guide-to-vmware-backup)
+### [158. The Hyper-V Admins' Guide to VMware Backup ](https://hackernoon.com/the-hyper-v-admins-guide-to-vmware-backup)
 ![](https://cdn.hackernoon.com/images/YkCf930zFRTLwK7MSVzDq3HlEOj2-30a3qwv.jpeg)
 The Hyper-V and VMware virtual environments may seem similar, but upon closer inspection, a number of important differences between these two platforms.
+
+### [159. Bitcoin Doublethink.](https://hackernoon.com/test-5y8c3pqr)
+![](https://cdn.hackernoon.com/drafts/8co3qjd.png)
+For some time now I’ve been making an unassailable and unchallenged argument that Bitcoin and Bitcoin services are no different to the monies and services found in video games. Now, thanks to my favourite gamer, we have one of the best examples yet of “Bitcoin Doublethink”, second only to the very cute Pigsby which uses a “Blockchain” for its database.
 
 ### [160. Lifecycle of a BI Report](https://hackernoon.com/lifecycle-of-a-bi-report)
 ![](https://cdn.hackernoon.com/images/E9obLjZ4AzZwwyyRsEYSJfdX9H93-u8930mz.jpeg)
@@ -658,65 +662,65 @@ Nowadays, most assertions need to be backed with data, as such, it is not uncomm
 ![](https://cdn.hackernoon.com/images/nip9F4hg0FThhkkLJ1jscJIzSTx1-en03k33.png)
 The author examines pros and cons of using UUID vs. auto-increment IDs in databases, exploring performance, overhead, and practical use-cases.
 
-### [163. Creating a Dependable Data Pipeline for Your Small Business](https://hackernoon.com/creating-a-dependable-data-pipeline-for-your-small-business)
-![](https://cdn.hackernoon.com/images/WRKptNOtiSe47ITRD3gJwKrGP4N2-9r93pyz.jpeg)
-In this article, I will be showing you how to build a reliable data pipeline for your small business to improve your productivity and data security.
-
-### [164. Your CI System is a Terrible Compliance System of Record - Here are 5 Reasons Why](https://hackernoon.com/your-ci-system-is-a-terrible-compliance-system-of-record-here-are-5-reasons-why)
+### [163. Your CI System is a Terrible Compliance System of Record - Here are 5 Reasons Why](https://hackernoon.com/your-ci-system-is-a-terrible-compliance-system-of-record-here-are-5-reasons-why)
 ![](https://cdn.hackernoon.com/images/zXpyvtRlXIRFAE1zNnfUvrVZ0292-8y93ody.jpeg)
 Jenkins, GitLab, Travis, Circle CI are great for DevOps but not so great for your compliance records - here's why. 
+
+### [164. Why Most “Data-Driven” Companies Still Make Bad Decisions](https://hackernoon.com/why-most-data-driven-companies-still-make-bad-decisions)
+![](https://cdn.hackernoon.com/images/BkFqkAOSZ4TYWb4dTVKEEawXVpK2-1n83eqi.png)
+Many companies claim to be data-driven, yet decision-making is still slow and manual. Here’s why data alone doesn’t guarantee better business decisions.
 
 ### [165. Freemium or Not? How Subscription Startups Should Decide](https://hackernoon.com/freemium-or-not-how-subscription-startups-should-decide)
 ![](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/712ca203-3172-4504-899a-fbabe30f3c9d/6503716f42de333b51704c0e_Screen_Shot_2023-09-14_at_3.47.38_PM.png?t=1754251133)
 Should your startup offer a free tier? A practical framework for founders to evaluate freemium, trials, conversion math, and acquisition tradeoffs.
 
-### [166. Rails Migrations Are Not Scary [Beginners Guide]](https://hackernoon.com/rails-migrations-are-not-scary-x73g32u2)
+### [166. Creating a Dependable Data Pipeline for Your Small Business](https://hackernoon.com/creating-a-dependable-data-pipeline-for-your-small-business)
+![](https://cdn.hackernoon.com/images/WRKptNOtiSe47ITRD3gJwKrGP4N2-9r93pyz.jpeg)
+In this article, I will be showing you how to build a reliable data pipeline for your small business to improve your productivity and data security.
+
+### [167. Rails Migrations Are Not Scary [Beginners Guide]](https://hackernoon.com/rails-migrations-are-not-scary-x73g32u2)
 ![](https://images.unsplash.com/photo-1520792532857-293bd046307a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 I am a full-stack developer student currently doing the Microverse program, and I've been developing things for months until now. This article is for helping newcomers to Rails to understand Rails migrations by showing some examples and explaining them the best I can.
 
-### [167. How To Manage Sensitive Data Using SQL Data Discovery and Classification](https://hackernoon.com/how-to-manage-sensitive-data-using-sql-data-discovery-and-classification-661g3wpm)
+### [168. How To Manage Sensitive Data Using SQL Data Discovery and Classification](https://hackernoon.com/how-to-manage-sensitive-data-using-sql-data-discovery-and-classification-661g3wpm)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMi8z5HenKGNpOVoDYBJHLVcRhWS2-1m6r3t32.jpeg?alt=media&token=fffe6e7e-1f52-4c93-bb9d-ed3002aec854)
 The 17.5 version of SQL Server Management Studio (SSMS) brought with it a new built-in security tool. Since then, the Data Discovery and Classification feature has become a difference-maker in the protection of sensitive information.
 
-### [168. How to Add Knex to ExpressJS Apps and Connect to a Postgres Database](https://hackernoon.com/how-to-add-knex-to-expressjs-apps-and-connect-to-a-postgres-database-od4p3113)
-![](https://cdn.hackernoon.com/images/y1WdnXcY6SeRgxHTuQD8HWkMV4L2-8bx35ej.jpeg)
-Express is one of the most popular JavaScript frameworks for building backend APIs and Postgres is a really popular relational database. How do we connect them?
-
-### [169. Decentralized Databases Reduce Data Latency With Geographically Distributed Data Centers](https://hackernoon.com/decentralized-databases-reduce-data-latency-with-geographically-distributed-data-centers-fj5t35bf)
-![](https://cdn.hackernoon.com/images/kqdibo10bvdfUwlY6kFF9HQZRpX2-v01c334e.jpeg)
-Latency is caused by offloading processing from an app to an external server. But what if there was a solution to the monolithic common single-cloud geography?
-
-### [170. Hashicorp Vault max_ttl Killed My Spring App](https://hackernoon.com/hashicorp-vault-max_ttl-killed-my-spring-app-zk7p367z)
-![](https://cdn.hackernoon.com/drafts/yl1l3x2p.png)
-How to ensure that expiring Spring Cloud Vault dynamic database secrets are renewed, when reaching Hashicorp Vault’s max_ttl
-
-### [171. Leveraging MariaDB’s MEMORY Storage Engine: Efficient Caching and Performance Optimization](https://hackernoon.com/leveraging-mariadbs-memory-storage-engine-efficient-caching-and-performance-optimization)
+### [169. Leveraging MariaDB’s MEMORY Storage Engine: Efficient Caching and Performance Optimization](https://hackernoon.com/leveraging-mariadbs-memory-storage-engine-efficient-caching-and-performance-optimization)
 ![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-ij83zgr.png)
 Using MariaDB instead of Redis as a fast in-memory cache key-value database
 
-### [172. From Data Mess to Data Mesh: How to Optimize Business Intelligence](https://hackernoon.com/from-data-mess-to-data-mesh-how-to-optimize-business-intelligence)
+### [170. How to Add Knex to ExpressJS Apps and Connect to a Postgres Database](https://hackernoon.com/how-to-add-knex-to-expressjs-apps-and-connect-to-a-postgres-database-od4p3113)
+![](https://cdn.hackernoon.com/images/y1WdnXcY6SeRgxHTuQD8HWkMV4L2-8bx35ej.jpeg)
+Express is one of the most popular JavaScript frameworks for building backend APIs and Postgres is a really popular relational database. How do we connect them?
+
+### [171. Decentralized Databases Reduce Data Latency With Geographically Distributed Data Centers](https://hackernoon.com/decentralized-databases-reduce-data-latency-with-geographically-distributed-data-centers-fj5t35bf)
+![](https://cdn.hackernoon.com/images/kqdibo10bvdfUwlY6kFF9HQZRpX2-v01c334e.jpeg)
+Latency is caused by offloading processing from an app to an external server. But what if there was a solution to the monolithic common single-cloud geography?
+
+### [172. Hashicorp Vault max_ttl Killed My Spring App](https://hackernoon.com/hashicorp-vault-max_ttl-killed-my-spring-app-zk7p367z)
+![](https://cdn.hackernoon.com/drafts/yl1l3x2p.png)
+How to ensure that expiring Spring Cloud Vault dynamic database secrets are renewed, when reaching Hashicorp Vault’s max_ttl
+
+### [173. From Data Mess to Data Mesh: How to Optimize Business Intelligence](https://hackernoon.com/from-data-mess-to-data-mesh-how-to-optimize-business-intelligence)
 ![](https://cdn.hackernoon.com/images/a-mesh-of-data-f1h7zc2vejyfyc958j00wbby.png)
 Digitization as a trend means the world is now generating more data than ever before. How said data is managed is crucial for business and individuals alike. 
 
-### [173. How to Aid Disease Research with a Biomedical Knowledge Graph](https://hackernoon.com/how-to-aid-disease-research-with-a-biomedical-knowledge-graph-sn58359p)
-![](https://cdn.hackernoon.com/images/owUeJT0dLubHoWBfQmFO7pNCtvk2-3o735af.jpeg)
-Building a biomedical knowledge graph using publicly available datasets to better aid disease research and biomedical data modelling.
-
-### [174. Choosing Between SQL and NoSQL—Before the Wrong One Chooses You](https://hackernoon.com/choosing-between-sql-and-nosqlbefore-the-wrong-one-chooses-you)
-![](https://cdn.hackernoon.com/images/5x2UPphn3sPLHrwNs2X0gw0d13y1-hs739ch.png)
-Choosing the right database is one of the most important decisions you’ll make when designing a data-driven application.
-
-### [175. The HackerNoon Newsletter: A Guide on How to Rewire Self-Doubt (2/19/2026)](https://hackernoon.com/2-19-2026-newsletter)
+### [174. The HackerNoon Newsletter: A Guide on How to Rewire Self-Doubt (2/19/2026)](https://hackernoon.com/2-19-2026-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_543_odw1l65eg1du17r7427lf1q2.png)
 2/19/2026: Top 5 stories on the HackerNoon homepage!
 
-### [176. Beginner’s Guide For Easy MongoDB Filters in C#](https://hackernoon.com/beginners-guide-for-easy-mongodb-filters-in-c)
+### [175. Choosing Between SQL and NoSQL—Before the Wrong One Chooses You](https://hackernoon.com/choosing-between-sql-and-nosqlbefore-the-wrong-one-chooses-you)
+![](https://cdn.hackernoon.com/images/5x2UPphn3sPLHrwNs2X0gw0d13y1-hs739ch.png)
+Choosing the right database is one of the most important decisions you’ll make when designing a data-driven application.
+
+### [176. How to Aid Disease Research with a Biomedical Knowledge Graph](https://hackernoon.com/how-to-aid-disease-research-with-a-biomedical-knowledge-graph-sn58359p)
+![](https://cdn.hackernoon.com/images/owUeJT0dLubHoWBfQmFO7pNCtvk2-3o735af.jpeg)
+Building a biomedical knowledge graph using publicly available datasets to better aid disease research and biomedical data modelling.
+
+### [177. Beginner’s Guide For Easy MongoDB Filters in C#](https://hackernoon.com/beginners-guide-for-easy-mongodb-filters-in-c)
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-n4837cf.jpeg)
 Learn the basics of MongoDB Filtering in C# with simple code examples! See how to use the MongoDB FilterDefinitionBuilder to support filtering in MongoDB.
-
-### [177. Exploring Atomicity with DbContextTransaction in .NET and Entity Framework](https://hackernoon.com/exploring-atomicity-with-dbcontexttransaction-in-net-and-entity-framework)
-![](https://cdn.hackernoon.com/images/programming-in-the-evening-mvsgjbh4r7mfpxzhiz9m0is4.png)
-Atomicity is a vital component of the quartet of fundamental transaction properties: Atomicity, Consistency, Isolation, and Durability.
 
 ### [178. Want Everyone Out of the Database? Here’s How the Pros Do It](https://hackernoon.com/want-everyone-out-of-the-database-heres-how-the-pros-do-it)
 ![](https://cdn.hackernoon.com/images/lh3GIz5KYbVlETykJ0q4yOt71CA3-oz439sx.png)
@@ -726,13 +730,13 @@ This article explores how to switch from single-user to multi-user mode in SQL S
 ![](https://cdn.hackernoon.com/images/hQvViCfTxOVba7uSkobJtTErWnu1-ux033qv.png)
 The simple lesson here is to avoid things happening automatically on page-loads as much as possible.
 
-### [180. 10 Steps To Digital Transformation While Simultaneously Cutting Costs](https://hackernoon.com/10-steps-to-digital-transformation-while-simultaneously-cutting-costs-164c325v)
+### [180. Exploring Atomicity with DbContextTransaction in .NET and Entity Framework](https://hackernoon.com/exploring-atomicity-with-dbcontexttransaction-in-net-and-entity-framework)
+![](https://cdn.hackernoon.com/images/programming-in-the-evening-mvsgjbh4r7mfpxzhiz9m0is4.png)
+Atomicity is a vital component of the quartet of fundamental transaction properties: Atomicity, Consistency, Isolation, and Durability.
+
+### [181. 10 Steps To Digital Transformation While Simultaneously Cutting Costs](https://hackernoon.com/10-steps-to-digital-transformation-while-simultaneously-cutting-costs-164c325v)
 ![](https://cdn.hackernoon.com/drafts/cf19v3yn0.png)
 Companies Must Transform Or Else (Photo by eelnosiva on Adobe)
-
-### [181. Why Most “Data-Driven” Companies Still Make Bad Decisions](https://hackernoon.com/why-most-data-driven-companies-still-make-bad-decisions)
-![](https://cdn.hackernoon.com/images/BkFqkAOSZ4TYWb4dTVKEEawXVpK2-1n83eqi.png)
-Many companies claim to be data-driven, yet decision-making is still slow and manual. Here’s why data alone doesn’t guarantee better business decisions.
 
 ### [182. In a Sense, Blockchains are Crappy Databases](https://hackernoon.com/in-a-sense-blockchains-are-crappy-databases)
 ![](https://cdn.hackernoon.com/images/rnGwstlttFhPbGS5nrSVRfEkrBa2-e5e3nff.jpeg)
@@ -758,35 +762,47 @@ MariaDB 11.4 introduced support for packages for stored routines. Packages allow
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXQhDSLYtaOUekQg9NaMrbMtd8mX2-l23z3tu6.jpeg?alt=media&token=f12ec34d-7063-40b2-b10c-7ba874d3d249)
 The first step is to understand what is data governance. Data Governance is an overloaded term and means different things to different people. It has been helpful to define Data Governance based on the outcomes it is supposed to deliver. In my case, Data Governance is any task required for:
 
-### [188. Year of the Graph Newsletter, April 2020: Graphs Power Scientific Research; Business Cases](https://hackernoon.com/year-of-the-graph-newsletter-april-2020-graphs-power-scientific-research-business-cases-mp1f3yfc)
-![](https://cdn.hackernoon.com/drafts/v4r30o5.png)
-Is there life after COVID-19? Of course there is, even though it may be quite different, and it may be hard to get there. But there’s one thing in common in the “before” and “after” pictures: science and technology as the cornerstones of modern society, for better or worse.
-
-### [189. Py-DockerDB: Simplifying Programmatic Database Handling](https://hackernoon.com/py-dockerdb-simplifying-programmatic-database-handling)
+### [188. Py-DockerDB: Simplifying Programmatic Database Handling](https://hackernoon.com/py-dockerdb-simplifying-programmatic-database-handling)
 ![](https://cdn.hackernoon.com/images/t0xlzl7gstV4OIz8ZrrbIWCzWdl1-hs032c5.png)
 Local database setup is deceptively expensive. It introduces variance into your dev environments and bakes hidden assumptions into your codebase. I wanted every
 
-### [190. How Build a Fully Typed Web App Using Next.js, PlanetScale, Drizzle, and Kysely](https://hackernoon.com/how-build-a-fully-typed-web-app-using-nextjs-planetscale-drizzle-and-kysely)
-![](https://cdn.hackernoon.com/images/building-a-statue-ul38lozaiu9sc7zuzfk74733.png)
-Harness the power of PlanetScale, Drizzle ORM, and Kysely Query Builder to develop a scalable fully-typed web app.
+### [189. Year of the Graph Newsletter, April 2020: Graphs Power Scientific Research; Business Cases](https://hackernoon.com/year-of-the-graph-newsletter-april-2020-graphs-power-scientific-research-business-cases-mp1f3yfc)
+![](https://cdn.hackernoon.com/drafts/v4r30o5.png)
+Is there life after COVID-19? Of course there is, even though it may be quite different, and it may be hard to get there. But there’s one thing in common in the “before” and “after” pictures: science and technology as the cornerstones of modern society, for better or worse.
 
-### [191. Heroku Guide: How to Go Live with your Rails App](https://hackernoon.com/heroku-guide-how-to-go-live-with-your-rails-app-6f1734ie)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-4j1028nr.jpeg?alt=media&token=6d18199a-9d8a-4dfe-8b8c-ebdcfc3817ca)
-YAML: literally meaning “Yaml ain’t markup language” can mess you up in the beginning. Rails generates this file for you and you have to change it for Heroku. YAML spacing has to be exact and it’s important to know a tab is not the same as four spaces. 
-
-### [192. 6 Common DynamoDB Issues in 2022](https://hackernoon.com/6-common-dynamodb-issues-in-2022)
+### [190. 6 Common DynamoDB Issues in 2022](https://hackernoon.com/6-common-dynamodb-issues-in-2022)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-5c93l3q.jpeg)
 It’s expected that developers face many of the same issues when starting their NoSQL journey with DynamoDB. This article might clear things up a bit.
 
-### [193. Blockchains: Beyond Vanilla Databases](https://hackernoon.com/blockchain-beyond-a-database-gy2s3vqh)
+### [191. Building Order From a Startup Mess](https://hackernoon.com/building-order-from-a-startup-mess)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9v0214e.jpeg)
+Six months into my first startup role, I rebuilt VALK's product from an engineer-built MVP. Here's what went wrong and what actually worked....
+
+### [192. How Build a Fully Typed Web App Using Next.js, PlanetScale, Drizzle, and Kysely](https://hackernoon.com/how-build-a-fully-typed-web-app-using-nextjs-planetscale-drizzle-and-kysely)
+![](https://cdn.hackernoon.com/images/building-a-statue-ul38lozaiu9sc7zuzfk74733.png)
+Harness the power of PlanetScale, Drizzle ORM, and Kysely Query Builder to develop a scalable fully-typed web app.
+
+### [193. Heroku Guide: How to Go Live with your Rails App](https://hackernoon.com/heroku-guide-how-to-go-live-with-your-rails-app-6f1734ie)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-4j1028nr.jpeg?alt=media&token=6d18199a-9d8a-4dfe-8b8c-ebdcfc3817ca)
+YAML: literally meaning “Yaml ain’t markup language” can mess you up in the beginning. Rails generates this file for you and you have to change it for Heroku. YAML spacing has to be exact and it’s important to know a tab is not the same as four spaces. 
+
+### [194. Why Distributed Systems Rarely Live at Pure CP or AP](https://hackernoon.com/why-distributed-systems-rarely-live-at-pure-cp-or-ap)
+![](https://cdn.hackernoon.com/images/yE0A1CFa8ZTrQCrf5pzws36wxGn2-y0821ev.png)
+Learn why CAP Theorem is not a binary choice, how PACELC fills the gap, and how real systems balance consistency, availability, and latency.
+
+### [195. Blockchains: Beyond Vanilla Databases](https://hackernoon.com/blockchain-beyond-a-database-gy2s3vqh)
 ![](https://cdn.hackernoon.com/images/72p3vjk.jpg)
 Was really confused whether to have the title as “Blockchain: Beyond a database” or “Blockchain: A combination of technology and social engineering” but decided on the former with the expectation that it might come easily in search engines.
 
-### [194. How Database Backends Have Become Overcomplicated](https://hackernoon.com/how-database-backends-have-become-overcomplicated)
+### [196. How Database Backends Have Become Overcomplicated](https://hackernoon.com/how-database-backends-have-become-overcomplicated)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-nx93mu3.jpeg)
 Let's talk about something that has been grinding my gears for quite some time – the mind-boggling overcomplication of database backends.
 
-### [195. No Silver Bullets: The 5 Brass Bullets of Subscription Growth](https://hackernoon.com/no-silver-bullets-the-5-brass-bullets-of-subscription-growth)
+### [197. No Silver Bullets: The 5 Brass Bullets of Subscription Growth](https://hackernoon.com/no-silver-bullets-the-5-brass-bullets-of-subscription-growth)
 ![](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/e5003871-c22c-4df7-97ef-719c3dd92503/651027e9084d0dfd92e0bf8c_716px-Comparison_of_cold_war_ammunition.jpeg?t=1754251148)
 One of the lessons that I wrote about from my time as head of growth at Codecademy is that there are no "silver bullets" for growing a subscription business....
+
+### [198. Replication 101: How Distributed Databases Stay Alive](https://hackernoon.com/replication-101-how-distributed-databases-stay-alive)
+![](https://cdn.hackernoon.com/images/1775657789256_pds0j4i.png)
+Understand the three main replication models and how they shape failure handling, write paths, and consistency guarantees.
 

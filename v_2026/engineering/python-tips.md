@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [python-tips](https://hackernoon.com/tagged/python-tips)
+### Let's learn about [Python Tips](https://hackernoon.com/tagged/python-tips) via these 95 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Python tips provide practical advice, shortcuts, and best practices for writing more efficient, readable, and Pythonic code. These tips help developers enhance their productivity and improve the quality of their Python projects.
+
 ### [1. Setting up Atom as a Python IDE [A How To Guide]](https://hackernoon.com/setting-up-atom-as-a-python-ide-a-how-to-guide-o6dd37ff)
 ![](drafts/wj83b36bf.png)
 In this article, I demonstrate how you can setup and maintain a python friendly development environment from within Atom.  Ideally, a developer wants to reduce the amount of window/application switching as much as possible and create repeatable workflows.  
@@ -115,13 +119,13 @@ Yes, you read that right. If you have been coding for a while and if Python is n
 ![](https://cdn.hackernoon.com/images/tVBbh4roC1QdAahuNGMmAKiH51z1-365734o6.jpeg)
 I built a simple Neural Network using Python that outputs a target number given a specific input number.
 
-### [29. Understanding Unit Testing in Python](https://hackernoon.com/understanding-unit-testing-in-python)
-![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-b4i30v3.jpeg)
-Testing is a method of checking individual units of source code to confirm it works optimally before shipping code to production.
-
-### [30. How to Automate Spreadsheets With Python and Openpyxl](https://hackernoon.com/how-to-automate-spreadsheets-with-python-and-openpyxl)
+### [29. How to Automate Spreadsheets With Python and Openpyxl](https://hackernoon.com/how-to-automate-spreadsheets-with-python-and-openpyxl)
 ![](https://cdn.hackernoon.com/images/8OEWYS39UBMOJyd1oxAydTNFY5i1-ghu39df.jpeg)
 Learn how to perform simple data automation operations, such as Accessing Cell Values, Conditional Formatting, and working with Formula and Calculations.
+
+### [30. Understanding Unit Testing in Python](https://hackernoon.com/understanding-unit-testing-in-python)
+![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-b4i30v3.jpeg)
+Testing is a method of checking individual units of source code to confirm it works optimally before shipping code to production.
 
 ### [31. 10 helpful Python Tips and Tricks for Beginners](https://hackernoon.com/10-helpful-python-tips-and-tricks-for-beginners-64m3wc4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FH4e40rxAhOeaiikKsBeoUGslho13-rd63tnf.jpeg?alt=media&token=35eb18e9-2e43-43d5-a747-04beee389ef8)
@@ -155,13 +159,13 @@ In part 2 of 3, we explore simple altering for Telegram bots when the system sta
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIzBcwKW22YbKX9ISDhGhrR1eFst1-e6g3esh.jpeg?alt=media&token=c7364a0a-26cd-43e7-8d30-299b8c88771b)
 Having to handle exceptions is common in Python and so is having to define your own. Yet, I have seen competing ways of doing so in various projects. The inconsistency comes from Exceptions being something that can easily be subclassed and extended, but also something that can be easily instantiated and used in their base form.
 
-### [39. The Basics of Python OS Module](https://hackernoon.com/the-basics-of-python-os-module-5y1a3eh3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-nqa3uzr.jpeg?alt=media&token=7a6c9faa-c718-442c-b5b5-d2616bf10f0a)
-The OS module is a python module that provides the interface for interacting with the underlying operating system that Python is running. 
-
-### [40. Reversing a Linked List](https://hackernoon.com/reversing-a-linked-list)
+### [39. Reversing a Linked List](https://hackernoon.com/reversing-a-linked-list)
 ![](https://cdn.hackernoon.com/images/XIlys8PrM8eJ7n0qjETjuC0lbkB2-6vc3o3v.jpeg)
 Given the head of a singly linked list, reverse the list, and return the reversed list.
+
+### [40. The Basics of Python OS Module](https://hackernoon.com/the-basics-of-python-os-module-5y1a3eh3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-nqa3uzr.jpeg?alt=media&token=7a6c9faa-c718-442c-b5b5-d2616bf10f0a)
+The OS module is a python module that provides the interface for interacting with the underlying operating system that Python is running. 
 
 ### [41. Python Tricks Every Developer Should Know](https://hackernoon.com/python-tricks-every-developer-should-know-i83c3tcl)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-5en3uhr.png?alt=media&token=aaa2970f-f9dd-4a56-9540-c38e83056961)
@@ -175,29 +179,29 @@ Discover 15 essential Python libraries for data science & machine learning, cove
 ![](https://cdn.hackernoon.com/images/beautiful-and-mysterious-easter-eggs-with-monty-python-and-a-snake-in-the-background-digital-art-claxzytim000001s625ufftmk.png)
 Python lessons for beginner and advanced level at the same time
 
-### [44. How To Get More Out of Writing Tests in Your Development Routine](https://hackernoon.com/how-to-get-more-out-of-writing-tests-in-your-development-routine-uq1623rpe)
-![](https://cdn.hackernoon.com/images/2lfl3taj.jpg)
-TL;DR
-
-### [45. Argument Binding and Introspection In Python](https://hackernoon.com/argument-binding-and-introspection-in-python)
+### [44. Argument Binding and Introspection In Python](https://hackernoon.com/argument-binding-and-introspection-in-python)
 ![](https://cdn.hackernoon.com/images/KLWopdD8nMNFrlEbvhSNqn6YAW72-nm02jua.jpeg)
 Create a Python decorator that will allow for introspecting parameter values of any wrapped function, enabling generic audit & ownership abilities.
+
+### [45. How To Get More Out of Writing Tests in Your Development Routine](https://hackernoon.com/how-to-get-more-out-of-writing-tests-in-your-development-routine-uq1623rpe)
+![](https://cdn.hackernoon.com/images/2lfl3taj.jpg)
+TL;DR
 
 ### [46. Untangling Heavily Nested Python Code](https://hackernoon.com/untangling-heavily-nested-python-code)
 ![](https://cdn.hackernoon.com/images/l7ssEQgsMkaOm6HSQ0nZnhqBalf2-rf92r87.jpeg)
 Reducing the nesting level of code by applying a guard clause.
 
-### [47. A Guide to Improving Your Python Performance Speed](https://hackernoon.com/a-guide-to-improving-your-python-performance-speed-th2835dj)
-![](https://cdn.hackernoon.com/images/scJFRtReiyVdTsEi7KjcSIGTVDE3-19ay22vd.jpeg)
-This guide aims to summarize popular methods for boosting the execution speed of your Python code.
+### [47. Master the Basics of Python in 20 Minutes](https://hackernoon.com/master-the-basics-of-python-in-20-minutes)
+![](https://cdn.hackernoon.com/images/XXYK3xoQMhPK6WgGxZcfzaaDPnt1-s993l5p.jpeg)
+Discover the essentials of Python programming in this comprehensive review and guide, designed to help you master the basics. Learn about variables, data types,
 
 ### [48. Introduction to Tuples in Python](https://hackernoon.com/introduction-to-tuples-in-python)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-hy93oka.png)
 In this guide, we'll cover how to use Tuples, as well as some of the methods and things you'd want to do with them.
 
-### [49. Master the Basics of Python in 20 Minutes](https://hackernoon.com/master-the-basics-of-python-in-20-minutes)
-![](https://cdn.hackernoon.com/images/XXYK3xoQMhPK6WgGxZcfzaaDPnt1-s993l5p.jpeg)
-Discover the essentials of Python programming in this comprehensive review and guide, designed to help you master the basics. Learn about variables, data types,
+### [49. A Guide to Improving Your Python Performance Speed](https://hackernoon.com/a-guide-to-improving-your-python-performance-speed-th2835dj)
+![](https://cdn.hackernoon.com/images/scJFRtReiyVdTsEi7KjcSIGTVDE3-19ay22vd.jpeg)
+This guide aims to summarize popular methods for boosting the execution speed of your Python code.
 
 ### [50. Python Tutorial: How to Make API Requests ](https://hackernoon.com/python-tutorial-how-to-make-api-requests-1i1h3tcw)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMPW1SNFYvZT6pkCy8ULu38u2cht1-wr3k3tii.jpeg?alt=media&token=f0aa3ee1-523c-40b7-8680-fe8ca85f7770)
@@ -211,13 +215,13 @@ Python is an interpreted, high-level, powerful general-purpose programming langu
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-bw5y3rb5.jpeg?alt=media&token=345f2c09-d359-4fb0-9a77-2c5bd6c96071)
 Hi guys,
 
-### [53. Functional Programming in Python For Beginners](https://hackernoon.com/functional-programming-in-python-for-beginners-pez32fk)
-![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-1dg31y5.jpeg)
-Learn about functional programming, pure functions, map(), filter(), zip(), reduce() concepts
-
-### [54. How to Create a Telegram Bot for Monitoring Your Service Uptime in Python (Part 3: Getting Graphs)](https://hackernoon.com/how-to-create-a-telegram-bot-for-monitoring-your-service-uptime-in-python-part-3-getting-graphs)
+### [53. How to Create a Telegram Bot for Monitoring Your Service Uptime in Python (Part 3: Getting Graphs)](https://hackernoon.com/how-to-create-a-telegram-bot-for-monitoring-your-service-uptime-in-python-part-3-getting-graphs)
 ![](https://cdn.hackernoon.com/images/2v7XLvX2fMR4EErEB0cRTAONxFX2-lk93z42.jpeg)
 After a couple of days of using the service described in previous articles, I felt the need to also get graphs directly in Telegram.
+
+### [54. Functional Programming in Python For Beginners](https://hackernoon.com/functional-programming-in-python-for-beginners-pez32fk)
+![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-1dg31y5.jpeg)
+Learn about functional programming, pure functions, map(), filter(), zip(), reduce() concepts
 
 ### [55. Learn Python in 8 Weeks: The 80/20 Learning Plan with Videos, Articles, and Practice Exercises](https://hackernoon.com/learn-python-in-8-weeks-the-8020-learning-plan-with-videos-articles-and-practice-exercises)
 ![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-xra22zc.jpeg)

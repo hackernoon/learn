@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [software-development](https://hackernoon.com/tagged/software-development)
+### Let's learn about [Software Development](https://hackernoon.com/tagged/software-development) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 when it's been 7 hours and you still can't understand your own code...
 
 ### [1. How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
@@ -200,13 +202,13 @@ Strategies for optimizing resource allocation in backend teams, ensuring project
 ![](https://cdn.hackernoon.com/images/FUmMuBwNhpPp6qgj0iLHAWTb8SH3-nag2k3k.jpeg)
 This article reviews in details various aspects to make Application Insights and Serilog combination shine and bring real value to the logs.
 
-### [50. Why (and when) you should use Kubernetes](https://hackernoon.com/why-and-when-you-should-use-kubernetes-8b50915d97d8)
-![](https://cdn.hackernoon.com/images/pixel-art-ships-wheel-simple-white-on-blue-ogj6h0jg2gm9tk82k5r48dry.png)
-Kubernetes is a powerful container management tool that automates the deployment and management of containers. Kubernetes (k8’s) is the next big wave in cloud computing and it’s easy to see why as businesses migrate their infrastructure and architecture to reflect a cloud-native, data-driven era.
-
-### [51. Resolving the CROSSSLOT Keys Error with Redis Cluster-Mode Enabled](https://hackernoon.com/resolving-the-crossslot-keys-error-with-redis-cluster-mode-enabled)
+### [50. Resolving the CROSSSLOT Keys Error with Redis Cluster-Mode Enabled](https://hackernoon.com/resolving-the-crossslot-keys-error-with-redis-cluster-mode-enabled)
 ![](https://cdn.hackernoon.com/images/pDUI21JXq3hUt99Uzg6NBXjyGOB2-7i03cav.jpeg)
 Why "CROSSSLOT Keys in request don't hash to the same slot" error happens in a Redis Cluster, and how to solve it.
+
+### [51. Why (and when) you should use Kubernetes](https://hackernoon.com/why-and-when-you-should-use-kubernetes-8b50915d97d8)
+![](https://cdn.hackernoon.com/images/pixel-art-ships-wheel-simple-white-on-blue-ogj6h0jg2gm9tk82k5r48dry.png)
+Kubernetes is a powerful container management tool that automates the deployment and management of containers. Kubernetes (k8’s) is the next big wave in cloud computing and it’s easy to see why as businesses migrate their infrastructure and architecture to reflect a cloud-native, data-driven era.
 
 ### [52. How to Send SMS Text Messages Using Python](https://hackernoon.com/how-to-send-sms-text-messages-using-python)
 ![](https://cdn.hackernoon.com/images/fBrG3kzr9Fgwc2vTonctd5hmnHC3-ej93vqk.jpeg)
@@ -252,13 +254,13 @@ How you can upgrade your laravel application to version 9
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-xt93s9y.jpeg)
 One of the most frequent operations we perform on an array is removing the last element. There are a few different ways to do this - but one of the most common 
 
-### [63. 5 speed improvements in Python 3.7](https://hackernoon.com/5-speed-improvements-in-python-3-7-1b39d1581d86)
-![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-2p03blc.png)
-Here are the major speed boosts you’ll get with Python 3.7 versus 3.6
-
-### [64. Software Maintenance Types: Corrective, Adaptive, Perfective, and Preventive](https://hackernoon.com/what-do-you-need-to-know-about-software-maintenance-types-as-an-engineer-421335fl)
+### [63. Software Maintenance Types: Corrective, Adaptive, Perfective, and Preventive](https://hackernoon.com/what-do-you-need-to-know-about-software-maintenance-types-as-an-engineer-421335fl)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-49s34gs.png)
 Enhancing product functionality, reducing deterioration, and satisfying the needs of users - all of that is achieved through software maintenance.
+
+### [64. 5 speed improvements in Python 3.7](https://hackernoon.com/5-speed-improvements-in-python-3-7-1b39d1581d86)
+![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-2p03blc.png)
+Here are the major speed boosts you’ll get with Python 3.7 versus 3.6
 
 ### [65. How to Use Type Casting in Typescript](https://hackernoon.com/how-to-use-type-casting-in-typescript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-31a3ofx.jpeg)
@@ -402,17 +404,17 @@ Multi-tenant architecture (MTA) is a software architecture in which a single ins
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-9v93ql7.png)
 How WebFlux threading model works under the hood
 
-### [100. Debian Package Management](https://hackernoon.com/debian-package-management)
+### [100. You Might Be Using eXtreme Go Horse Process and Not Even Know It](https://hackernoon.com/you-might-be-using-extreme-go-horse-process-and-not-even-know-it)
+![](https://cdn.hackernoon.com/images/bYnj8YlSMrbGYYve1iskmRSuqXg1-fpa2hvp.jpeg)
+eXtreme Go Horse (XGH) is a Brazilian meme software development process and should not be taken seriously.
+
+### [101. Debian Package Management](https://hackernoon.com/debian-package-management)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-w992gjx.jpeg)
 Tutorial on creating deb packages and installing them using apt-get
 
-### [101. Stop using .IO Domain Names for Production Traffic](https://hackernoon.com/stop-using-io-domain-names-for-production-traffic-b6aa17eeac20)
+### [102. Stop using .IO Domain Names for Production Traffic](https://hackernoon.com/stop-using-io-domain-names-for-production-traffic-b6aa17eeac20)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-u603bw3.png)
 <em>Note: If you’re a user of </em><a href="https://getstream.io/" target="_blank"><em>Stream</em></a><em>, be sure to update your API client to the latest version for a large improvement in reliability. For those of you on a custom API client, have a look at our updated </em><a href="https://getstream.io/docs_rest/" target="_blank"><em>REST documentation</em></a><em>.</em>
-
-### [102. You Might Be Using eXtreme Go Horse Process and Not Even Know It](https://hackernoon.com/you-might-be-using-extreme-go-horse-process-and-not-even-know-it)
-![](https://cdn.hackernoon.com/images/bYnj8YlSMrbGYYve1iskmRSuqXg1-fpa2hvp.jpeg)
-eXtreme Go Horse (XGH) is a Brazilian meme software development process and should not be taken seriously.
 
 ### [103. 5 Caching Mechanisms to Speed Up Your Application](https://hackernoon.com/5-caching-mechanisms-to-speed-up-your-application)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-tr93or1.jpeg)
@@ -551,29 +553,29 @@ Hi Devs!
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAfhPK3r2CnS0HnAUc2Oiew1S9lr2-2m6p272t.jpeg?alt=media&token=943d6ccf-b897-4633-9aaa-6761a1225a34)
 Have you ever been working on a project and wanted to scroll smoothly through your app?
 
-### [137. Top 10 Machine Learning Frameworks ](https://hackernoon.com/top-10-machine-learning-frameworks-for-2019-h6120305j)
-![](https://cdn.hackernoon.com/drafts/64o634n7.png)
-Machine Learning (ML) is one of the fastest emerging technologies today. ML developers are looking for the right framework for their various kinds of projects for ML application development. Top 10 machine learning frameworks listed here are meeting the contemporary needs of developers in cost-effective ways. Let’s learn about it.
-
-### [138. Fear database changes? Get them under control with CI/CD](https://hackernoon.com/database-changes-can-be-scary-how-r1hy2gfe)
-![](https://cdn.hackernoon.com/drafts/f47va2gze.png)
-Developers often fear database changes because a mistake by anyone on your team can lead to a major outage and even data loss. The stakes are higher when changes are not backwards compatible, cannot be rolled back, or impact system performance. This can cause a lack of confidence and slow your team velocity. As a result, database changes are a common failure point in agile and DevOps. 
-
-### [139. Understanding WhatsApp Architecture ](https://hackernoon.com/understanding-whatsapp-architecture)
+### [137. Understanding WhatsApp Architecture ](https://hackernoon.com/understanding-whatsapp-architecture)
 ![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-7z93o6s.jpeg)
 WhatsApp is one of the most used platforms for messaging. Information is sent immediately, which is why more websites use it for communicating with their users.
 
-### [140. 7 Software Development Trends for 2023 Revealed](https://hackernoon.com/software-development-trends-2020-revealed-spi305m)
-![](images/6i17k30ki.jpg)
-Do you know more than half of the IT projects fail? It’s not much shocking for many of us who are aware of the complexities and dynamic nature of the software development industry.
+### [138. Top 10 Machine Learning Frameworks ](https://hackernoon.com/top-10-machine-learning-frameworks-for-2019-h6120305j)
+![](https://cdn.hackernoon.com/drafts/64o634n7.png)
+Machine Learning (ML) is one of the fastest emerging technologies today. ML developers are looking for the right framework for their various kinds of projects for ML application development. Top 10 machine learning frameworks listed here are meeting the contemporary needs of developers in cost-effective ways. Let’s learn about it.
+
+### [139. System Design in a Nutshell](https://hackernoon.com/system-design-in-a-nutshell)
+![](https://cdn.hackernoon.com/images/pdZGzx9JN3hRlLVRJrvg1rCx5Au1-xp038r5.png)
+Know system design fundamentals: UX components, databases, scaling strategies, security & compliance. Essential guide for developers & system design interviews.
+
+### [140. Fear database changes? Get them under control with CI/CD](https://hackernoon.com/database-changes-can-be-scary-how-r1hy2gfe)
+![](https://cdn.hackernoon.com/drafts/f47va2gze.png)
+Developers often fear database changes because a mistake by anyone on your team can lead to a major outage and even data loss. The stakes are higher when changes are not backwards compatible, cannot be rolled back, or impact system performance. This can cause a lack of confidence and slow your team velocity. As a result, database changes are a common failure point in agile and DevOps. 
 
 ### [141. My Favorite Resources to Learn SQL in Depth](https://hackernoon.com/my-favorite-resources-to-learn-sql-in-depth)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-u392fhh.jpeg)
 Practicing SQL online on sites like SQLZoo or SQLFiddle will help you keep up-to-date and improve your SQL skills.
 
-### [142. System Design in a Nutshell](https://hackernoon.com/system-design-in-a-nutshell)
-![](https://cdn.hackernoon.com/images/pdZGzx9JN3hRlLVRJrvg1rCx5Au1-xp038r5.png)
-Know system design fundamentals: UX components, databases, scaling strategies, security & compliance. Essential guide for developers & system design interviews.
+### [142. 7 Software Development Trends for 2023 Revealed](https://hackernoon.com/software-development-trends-2020-revealed-spi305m)
+![](images/6i17k30ki.jpg)
+Do you know more than half of the IT projects fail? It’s not much shocking for many of us who are aware of the complexities and dynamic nature of the software development industry.
 
 ### [143. How to Use AES-256 Cipher: Python Cryptography Examples](https://hackernoon.com/how-to-use-aes-256-cipher-python-cryptography-examples-6tbh37cr)
 ![](https://cdn.hackernoon.com/drafts/ji2fl3ymk.png)
@@ -596,13 +598,13 @@ I want to tell you about equally useful, but less popular tips for working with 
 ![](https://cdn.hackernoon.com/images/z4FtguZPWCYj9xd2L27NXWvIgDl1-gf83zog.jpeg)
 If you're a thrill seeker and up for a challenge, you're in luck because I'm here to give you a rundown of the top most mind-bending programming languages.
 
-### [148. What Are the Challenges of Learning New JavaScript Frameworks? | GrapeCity JavaScript](https://hackernoon.com/what-are-the-challenges-of-learning-new-javascript-frameworks-or-grapecity-javascript)
-![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-xk934s1.png)
-Learn about the top challenges developer face when they are learning new JavaScript frameworks. See more from GrapeCity today.
-
-### [149. My Top 3 Regex Tools](https://hackernoon.com/my-top-3-regex-tools)
+### [148. My Top 3 Regex Tools](https://hackernoon.com/my-top-3-regex-tools)
 ![](https://cdn.hackernoon.com/images/ltk0qLi8g2XDLgO4ANkpFgRZbe02-xnc3oil.jpeg)
 A regular expression - short regex - is a sequence of characters that defines a search pattern. 
+
+### [149. What Are the Challenges of Learning New JavaScript Frameworks? | GrapeCity JavaScript](https://hackernoon.com/what-are-the-challenges-of-learning-new-javascript-frameworks-or-grapecity-javascript)
+![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-xk934s1.png)
+Learn about the top challenges developer face when they are learning new JavaScript frameworks. See more from GrapeCity today.
 
 ### [150. You're Not Using HTTP Status Codes Right](https://hackernoon.com/youre-not-using-http-status-codes-right)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-nf93rr3.jpeg)
@@ -612,13 +614,13 @@ In this article, we will be discussing some of the common mistakes that develope
 ![](https://cdn.hackernoon.com/images/0r2za3wpu.jpg)
 ﻿A couple of weeks ago I started learning flutter and set out to create a Cookbook. This article explains the procedure of creating a Listview for the main feed of the cookbook in detail. The data is not stored locally, but on my all-time favorite Realtime Database of Firebase.
 
-### [152. A Guide to Angular Signals With Practical Use Cases (Part 1)](https://hackernoon.com/a-guide-to-angular-signals-with-practical-use-cases-part-1)
-![](https://cdn.hackernoon.com/images/MppoGnEe7vYWhYy8162Auiz1Mzj1-er933j0.jpeg)
-Part 1: A detailed exploration of Angular Signals, touching on three use cases and their practical applications.
-
-### [153. How to Setup an Arch Linux Environment for Coding](https://hackernoon.com/how-to-setup-an-arch-linux-environment-for-coding)
+### [152. How to Setup an Arch Linux Environment for Coding](https://hackernoon.com/how-to-setup-an-arch-linux-environment-for-coding)
 ![](https://cdn.hackernoon.com/images/fJowWHavL0XT8jKc2lCn9VB199e2-t093rhk.jpeg)
 Setting up Arch Linux environment for coding.
+
+### [153. A Guide to Angular Signals With Practical Use Cases (Part 1)](https://hackernoon.com/a-guide-to-angular-signals-with-practical-use-cases-part-1)
+![](https://cdn.hackernoon.com/images/MppoGnEe7vYWhYy8162Auiz1Mzj1-er933j0.jpeg)
+Part 1: A detailed exploration of Angular Signals, touching on three use cases and their practical applications.
 
 ### [154. 7 Wastes In Lean Software Development [And How To Prevent Them]](https://hackernoon.com/7-wastes-in-lean-software-development-and-how-to-prevent-them-7bi3tqp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPKYLDw43RfPs4NUIItD67CxXTnm2-7fr3uz6.jpeg?alt=media&token=80f7a7e8-2d5c-4beb-8fdd-cb765d91db20)
@@ -636,30 +638,30 @@ Is the SaaS industry on the brink of collapse? Explore how AI is reshaping softw
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-yy03nvg.jpeg)
 Learn how to send messages from python script to Telegram chat.
 
-### [158. An Overview of OAuth Fundamentals and Flows](https://hackernoon.com/an-overview-of-oauth-fundamentals-and-flows)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-m793qro.jpeg)
-OAuth flows are essentially OAuth-supported methods for verifying permissions and resource owner information.
-
-### [159. The New Wave of Programming Languages: Pony, Zig, Crystal, Vlang, and Julia](https://hackernoon.com/the-new-wave-of-programming-languages-exploring-the-hidden-gems)
+### [158. The New Wave of Programming Languages: Pony, Zig, Crystal, Vlang, and Julia](https://hackernoon.com/the-new-wave-of-programming-languages-exploring-the-hidden-gems)
 ![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-8893r30.jpeg)
 What's new in programming languages? Jump on our review of a new hidden gems to superpower your dev team!
+
+### [159. An Overview of OAuth Fundamentals and Flows](https://hackernoon.com/an-overview-of-oauth-fundamentals-and-flows)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-m793qro.jpeg)
+OAuth flows are essentially OAuth-supported methods for verifying permissions and resource owner information.
 
 ### [160. Building a Data Analytics Platform to Streamline the Temporary Labor Sector](https://hackernoon.com/building-a-data-analytics-platform-to-streamline-the-temporary-labor-sector)
 ![](https://cdn.hackernoon.com/images/JT8PoynXQmYP92waUX1nYlVf9Im1-oz136lk.webp)
 How Maruti Techlabs developed a cutting-edge data analytics platform that optimized workforce management, reduced costs, and maximized productivity.
 
 
-### [161. Picking the low hanging passwords](https://hackernoon.com/picking-the-low-hanging-passwords-b64684fe2c7)
+### [161. Writing Google Apps Script Code Locally in VSCode](https://hackernoon.com/writing-google-apps-script-code-locally-in-vscode)
+![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-vic2o4v.jpeg)
+An easy Set-Up guide to writing google apps script locally with VS code with clasp.
+
+### [162. Picking the low hanging passwords](https://hackernoon.com/picking-the-low-hanging-passwords-b64684fe2c7)
 ![](https://cdn.hackernoon.com/images/story-image-default.jpg)
 According to a not-at-all recent report by Keeper, there’s a 50/50 chance that any user account can be accessed with one of the 25 most common passwords.
 
-### [162. How to Call a Stored Procedure Using Dapper in C#](https://hackernoon.com/how-to-call-a-stored-procedure-using-dapper-in-c)
+### [163. How to Call a Stored Procedure Using Dapper in C#](https://hackernoon.com/how-to-call-a-stored-procedure-using-dapper-in-c)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-v293ysx.jpeg)
 Dapper is a popular and easy-to-use object-relational mapping (ORM) tool for .NET developers. It is lightweight, fast, and provides a simple way to execute SQL 
-
-### [163. Writing Google Apps Script Code Locally in VSCode](https://hackernoon.com/writing-google-apps-script-code-locally-in-vscode)
-![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-vic2o4v.jpeg)
-An easy Set-Up guide to writing google apps script locally with VS code with clasp.
 
 ### [164. How to Make a Web App User Interface with Python](https://hackernoon.com/how-to-make-a-web-app-user-interface-with-python)
 ![](https://cdn.hackernoon.com/images/L8vRjwjNsxM7vpDARQgLLWZiFN43-xt93k4l.png)
@@ -686,13 +688,13 @@ Hello guys, how are you doing? I am again back with answering one of the familia
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-sb1e329l.jpeg)
 Dummy data is randomly generated data that can be substituted for live data. Whether you are a Developer, Software Engineer, or Data Scientist, sometimes you need dummy data to test what you have built, it can be a web app, mobile app, or machine learning model.
 
-### [170. Customer Identification & Fraud Detection from Maruti Techlabs' Playbook: A Banking Case Study](https://hackernoon.com/customer-identification-and-fraud-detection-from-maruti-techlabs-playbook-a-banking-case-study)
-![](https://cdn.hackernoon.com/images/JT8PoynXQmYP92waUX1nYlVf9Im1-jc2353s.webp)
-Voice-based fraud detection offers safe authentication while improving customer service in banking and various industries handling customer calls. 
-
-### [171. Cocoapod as XCFramework With Dependencies](https://hackernoon.com/cocoapod-as-xcframework-with-dependencies)
+### [170. Cocoapod as XCFramework With Dependencies](https://hackernoon.com/cocoapod-as-xcframework-with-dependencies)
 ![](https://cdn.hackernoon.com/images/tOrNL7qeeOS9PMp6GymC5eCd1ig2-mxh3p25.jpeg)
 In this article, we will solve the problem of making XCFramework with dependencies and ship it as a Cocoapod.
+
+### [171. Customer Identification & Fraud Detection from Maruti Techlabs' Playbook: A Banking Case Study](https://hackernoon.com/customer-identification-and-fraud-detection-from-maruti-techlabs-playbook-a-banking-case-study)
+![](https://cdn.hackernoon.com/images/JT8PoynXQmYP92waUX1nYlVf9Im1-jc2353s.webp)
+Voice-based fraud detection offers safe authentication while improving customer service in banking and various industries handling customer calls. 
 
 ### [172. API Error Handling in React](https://hackernoon.com/api-error-handling-in-react)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-mo93snq.jpeg)
@@ -722,21 +724,21 @@ The evolution of n-tier architecture as clean architecture with reference to dom
 ![](https://cdn.hackernoon.com/drafts/pqp632te.png)
 MacOS was first released in 1984, which makes it even older than Windows. At first, it came to light as a graphical user interface, but in 2005 its design and structure were changed to Intel x86 based architecture. Apple’s computers are great pieces of machinery – that’s beyond debate. But why are they so popular among programmers?  
 
-### [179. Basic HTML Tags Classification](https://hackernoon.com/html-tags-ppu30h9)
-![](https://cdn.hackernoon.com/images/3dod3xck.jpg)
-An HTML tag is a special word or letter surrounded by angle brackets, < and >.  HTML tags are the hidden keywords within a web page that define how your web browser must format and display the content. Most tags must have two parts, an opening and a closing part. 
-
-### [180. From Git Flow to CI/CD: A Practical Guide to Implement Git Workflow](https://hackernoon.com/from-git-flow-to-cicd-a-practical-guide-to-implement-git-workflow)
+### [179. From Git Flow to CI/CD: A Practical Guide to Implement Git Workflow](https://hackernoon.com/from-git-flow-to-cicd-a-practical-guide-to-implement-git-workflow)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-gv93n5h.jpeg)
 How to evaluate and improve your current Git workflow, and reduce overhead in development and release processes.
 
-### [181. Kubernetes vs. OpenShift: A Thorough Comparison](https://hackernoon.com/kubernetes-vs-openshift-a-detailed-comparison-7r3z53zlv)
-![](https://cdn.hackernoon.com/images/wo5u34g3.jpg)
-Gartner predicts that by 2022, more than 75% of global organizations will be running containerized applications in production, which is a significant increase from fewer than 30% today
+### [180. Basic HTML Tags Classification](https://hackernoon.com/html-tags-ppu30h9)
+![](https://cdn.hackernoon.com/images/3dod3xck.jpg)
+An HTML tag is a special word or letter surrounded by angle brackets, < and >.  HTML tags are the hidden keywords within a web page that define how your web browser must format and display the content. Most tags must have two parts, an opening and a closing part. 
 
-### [182. 8 Places to Learn System Design and Software Architecture for Technical Interviews](https://hackernoon.com/8-places-to-learn-system-design-and-software-architecture-for-technical-interviews)
+### [181. 8 Places to Learn System Design and Software Architecture for Technical Interviews](https://hackernoon.com/8-places-to-learn-system-design-and-software-architecture-for-technical-interviews)
 ![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-9793r43.jpeg)
 Hello folks, if you are preparing for System design Interview and looking for best resources to master Software design and System design then you have come to the right place. 
+
+### [182. Kubernetes vs. OpenShift: A Thorough Comparison](https://hackernoon.com/kubernetes-vs-openshift-a-detailed-comparison-7r3z53zlv)
+![](https://cdn.hackernoon.com/images/wo5u34g3.jpg)
+Gartner predicts that by 2022, more than 75% of global organizations will be running containerized applications in production, which is a significant increase from fewer than 30% today
 
 ### [183. Using the typeof Operator in TypeScript](https://hackernoon.com/using-the-typeof-operator-in-typescript)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-cw930ye.jpeg)
@@ -746,23 +748,23 @@ Let's look at how typeof works in TypeScript.
 ![](https://cdn.hackernoon.com/images/PuORuGm6w5heku18h0n6ohGlli73-pma34gy.jpeg)
 The Auction Events Platform for Creators is a Laravel PHP web application streaming live video from an auction event, using the LiveKit.
 
-### [185. How To Scrap Product Information With Python & BeautifulSoup Module From Amazon Listings [Tutorial]](https://hackernoon.com/scraping-amazon-product-information-with-python-and-beautifulsoup-yn4s3tgr)
-![](https://cdn.hackernoon.com/drafts/cyle3tcj.png)
-Intro
-
-### [186. Qwik vs Next.js: Speed Comparison](https://hackernoon.com/qwik-vs-nextjs-speed-comparison)
+### [185. Qwik vs Next.js: Speed Comparison](https://hackernoon.com/qwik-vs-nextjs-speed-comparison)
 ![](https://cdn.hackernoon.com/images/XyqHIwK0xDMOGdIf5iTNW4CrLjb2-2wn33iy.png)
 A benchmark comparison and analysis between Qwik and Next.js 13.
 
-### [187. IoT in Manufacturing: What you Need to Know](https://hackernoon.com/iot-in-manufacturing-what-you-need-to-know)
+### [186. How To Scrap Product Information With Python & BeautifulSoup Module From Amazon Listings [Tutorial]](https://hackernoon.com/scraping-amazon-product-information-with-python-and-beautifulsoup-yn4s3tgr)
+![](https://cdn.hackernoon.com/drafts/cyle3tcj.png)
+Intro
+
+### [187. Using Qt: 10 Famous and Successful Cases](https://hackernoon.com/using-qt-10-famous-and-successful-cases)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-5w93miv.jpeg)
+Qt is a toolset that helps developers easily make user interfaces, with a long list of popular apps that such as Adobe and Google Earth that have used it.
+
+### [188. IoT in Manufacturing: What you Need to Know](https://hackernoon.com/iot-in-manufacturing-what-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-e0d3msv.jpeg)
 
 Discover IoT applications in manufacturing and the challenges you could expect if you set your mind on giving your manufacturing facilities an IoT upgrade.
 
-
-### [188. Using Qt: 10 Famous and Successful Cases](https://hackernoon.com/using-qt-10-famous-and-successful-cases)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-5w93miv.jpeg)
-Qt is a toolset that helps developers easily make user interfaces, with a long list of popular apps that such as Adobe and Google Earth that have used it.
 
 ### [189. How to Automate Your Linux Desktop](https://hackernoon.com/how-to-automate-your-linux-desktop)
 ![](https://cdn.hackernoon.com/images/wqkXXujczdZlcmheSURQMA2D8Cd2-5v9290m.jpeg)
@@ -788,13 +790,13 @@ As I was wrapping up this post, my six-year-old daughter asked what I was doing.
 ![](https://cdn.hackernoon.com/images/mInGmayyxOMvm3o6l2iN7KhHCib2-263334by.png)
 A tutorial on creating a JS template engine with parsing and precompilation.
 
-### [195. A Guide to Angular Signals With Practical Use Cases (Part 2)](https://hackernoon.com/a-guide-to-angular-signals-with-practical-use-cases-part-2)
-![](https://cdn.hackernoon.com/images/MppoGnEe7vYWhYy8162Auiz1Mzj1-jx9385b.jpeg)
-Today, we’ll delve deeper into Angular Signals, exploring more real-world scenarios where Angular Signals can be an indispensable tool.
-
-### [196. Understand NeoVim Modes Once and Navigate Them Like a Pro — Here's How](https://hackernoon.com/understand-neovim-modes-once-and-navigate-them-like-a-pro-heres-how)
+### [195. Understand NeoVim Modes Once and Navigate Them Like a Pro — Here's How](https://hackernoon.com/understand-neovim-modes-once-and-navigate-them-like-a-pro-heres-how)
 ![](https://cdn.hackernoon.com/images/IvJ8puRpCzbvib1VYeG8JSQfwE12-hua3l0o.jpeg)
 Neovim's modes can be overwhelming and confusing for the unprepared but once you've familiarized yourself with them, you'll be able to navigate them like a pro.
+
+### [196. A Guide to Angular Signals With Practical Use Cases (Part 2)](https://hackernoon.com/a-guide-to-angular-signals-with-practical-use-cases-part-2)
+![](https://cdn.hackernoon.com/images/MppoGnEe7vYWhYy8162Auiz1Mzj1-jx9385b.jpeg)
+Today, we’ll delve deeper into Angular Signals, exploring more real-world scenarios where Angular Signals can be an indispensable tool.
 
 ### [197. How to Implement Caching Efficiently in NestJS Using Redis](https://hackernoon.com/how-to-implement-caching-efficiently-in-nestjs-using-redis)
 ![](https://cdn.hackernoon.com/images/JaI04JxjP5WiiJKlOeLrImL5dAw2-qo93axy.jpeg)
@@ -808,29 +810,29 @@ How to create a terminal emulator in React and Typescript
 ![](drafts/y788357p.png)
 I have read somewhere that a programmer should learn a new programming language every year ( I think it's code complete, not sure, though), but if you cannot do so, I suggest to at least learn following five programming language to do well in your career.
 
-### [200. How to Handle Asynchronous Data Requests Using Redux Toolkit](https://hackernoon.com/how-to-handle-asynchronous-data-requests-using-redux-toolkit)
-![](https://cdn.hackernoon.com/images/uDPqwahUxKSKSQ17IYMKmh9T5uu1-q0e3vz1.jpeg)
-Fetching data asynchronously with Redux Thunk was always too much of a hassle for developers until Redux Toolkit arrived with so many promising features.
-
-### [201. VS Code Extensions Every Developer Should Know](https://hackernoon.com/vs-code-extensions-every-developer-should-know)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-4e93rc3.jpeg)
-Today, I’ll focus on just 3 classes of extensions: productivity, debugging, and language support.
-
-### [202. We’re Here to Hear About Your Hacktoberfest Contribution!](https://hackernoon.com/were-here-to-hear-about-your-hacktoberfest-contribution)
-![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-4ka3pyd.jpeg)
-Hacktoberfest is here, and this time we want to know everything about your open-source contributions to this season. So, what are you waiting for!
-
-### [203. How to Manage Configurations Easily Using TOML Files](https://hackernoon.com/how-to-manage-configurations-easily-using-toml-files)
+### [200. How to Manage Configurations Easily Using TOML Files](https://hackernoon.com/how-to-manage-configurations-easily-using-toml-files)
 ![](https://cdn.hackernoon.com/images/Hrn1Y8Y3fFZG0TsoWlZhx0pSFq13-rc92p0c.jpeg)
 Central configuration files are a plus for modern Python project structures. TOML files help us store project parameters in a beginner-friendly way.
 
-### [204. The Generational Divide in Software Developers](https://hackernoon.com/the-generational-divide-in-software-developers-bco354a)
-![](https://cdn.hackernoon.com/images/uhqELzxApzXNUnEZuMMvKMOZcaP2-5v9k37pq.jpeg)
-Thirty years ago our managers enabled uninterrupted work.  Today they throw as many interruptions at us as they can manage.  Independent work is derided.
+### [201. How to Handle Asynchronous Data Requests Using Redux Toolkit](https://hackernoon.com/how-to-handle-asynchronous-data-requests-using-redux-toolkit)
+![](https://cdn.hackernoon.com/images/uDPqwahUxKSKSQ17IYMKmh9T5uu1-q0e3vz1.jpeg)
+Fetching data asynchronously with Redux Thunk was always too much of a hassle for developers until Redux Toolkit arrived with so many promising features.
 
-### [205. What Separates the Best Devs From the Crowd: 10 Critical Traits](https://hackernoon.com/what-separates-the-best-devs-from-the-crowd-10-critical-traits)
+### [202. VS Code Extensions Every Developer Should Know](https://hackernoon.com/vs-code-extensions-every-developer-should-know)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-4e93rc3.jpeg)
+Today, I’ll focus on just 3 classes of extensions: productivity, debugging, and language support.
+
+### [203. We’re Here to Hear About Your Hacktoberfest Contribution!](https://hackernoon.com/were-here-to-hear-about-your-hacktoberfest-contribution)
+![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-4ka3pyd.jpeg)
+Hacktoberfest is here, and this time we want to know everything about your open-source contributions to this season. So, what are you waiting for!
+
+### [204. What Separates the Best Devs From the Crowd: 10 Critical Traits](https://hackernoon.com/what-separates-the-best-devs-from-the-crowd-10-critical-traits)
 ![](https://cdn.hackernoon.com/images/KlveZHHB1mTZqcSWAehh7gYTCJH2-w193stt.jpeg)
 To stand out as a dev, you need the right mix of tech skills, soft skills, and character traits (mindset). Mindset is the most neglected but the most important!
+
+### [205. The Generational Divide in Software Developers](https://hackernoon.com/the-generational-divide-in-software-developers-bco354a)
+![](https://cdn.hackernoon.com/images/uhqELzxApzXNUnEZuMMvKMOZcaP2-5v9k37pq.jpeg)
+Thirty years ago our managers enabled uninterrupted work.  Today they throw as many interruptions at us as they can manage.  Independent work is derided.
 
 ### [206. The Case of the Missing Money: How I Used Detective Skills to Track Down a Bug in an App 🔍](https://hackernoon.com/the-case-of-the-missing-money-how-i-used-detective-skills-to-track-down-a-bug-in-an-app)
 ![](https://cdn.hackernoon.com/images/AdEKXA90PKbP2UJmfh51ECNpmNS2-67a3q3q.jpeg)
@@ -840,17 +842,17 @@ Join in as we solve a mysterious bug in a remittance app using detective skills 
 ![](https://cdn.hackernoon.com/drafts/0cq13zr0.png)
 Transitioning into product management can feel like being air-dropped into a war zone. From the moment you hit the ground there are new people and ideas bombarding you from every angle, and everything seems to be on fire. There is no clearly defined way to reach your destination, but you know you can’t just sit there. For most new product managers starting out, this is a critical moment for your career and the habits you build out as a product manager.
 
-### [208. How to Query Multiple Results with Dapper ORM Efficiently ](https://hackernoon.com/how-to-query-multiple-results-with-dapper-orm-efficiently)
+### [208. 8 Reasons Why Emacs is the Best Text Editor for Programming](https://hackernoon.com/8-reasons-why-emacs-is-the-best-text-editor-for-programming-0w4o37ld)
+![](https://cdn.hackernoon.com/images/PRlQ2QaAHYVOG8tmHUwusV8O01m1-ovbw3gee.jpeg)
+Chances are you regularly use Notepad, Visual Studio, or Sublime to write code and edit text. Here's why you should use Emacs instead.
+
+### [209. How to Query Multiple Results with Dapper ORM Efficiently ](https://hackernoon.com/how-to-query-multiple-results-with-dapper-orm-efficiently)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-th93yps.jpeg)
 Dapper is a powerful and lightweight Object-Relational Mapping (ORM) tool for C#. It is designed to be simple and fast, allowing developers to execute SQL query
 
-### [209. Future of Python Language: Bright or Dull?](https://hackernoon.com/future-of-python-language-bright-or-dull-uv41u3xwx)
+### [210. Future of Python Language: Bright or Dull?](https://hackernoon.com/future-of-python-language-bright-or-dull-uv41u3xwx)
 ![](https://cdn.hackernoon.com/images/q141s3xfs.jpg)
 In contemporary times, 126,424 websites are made using the python programming language. Many top-notch companies have developed successful apps by using it. This is why it is considered the language of today and the future.
-
-### [210. 8 Reasons Why Emacs is the Best Text Editor for Programming](https://hackernoon.com/8-reasons-why-emacs-is-the-best-text-editor-for-programming-0w4o37ld)
-![](https://cdn.hackernoon.com/images/PRlQ2QaAHYVOG8tmHUwusV8O01m1-ovbw3gee.jpeg)
-Chances are you regularly use Notepad, Visual Studio, or Sublime to write code and edit text. Here's why you should use Emacs instead.
 
 ### [211. Top Blockchain Development Companies | March 2022](https://hackernoon.com/top-blockchain-development-companies-2019-rebi3zo8)
 ![](https://hackernoon.com/images/cZvjkyTWQzZtoWcnFc128VzhdzG3-51833hd.jpeg)
@@ -872,21 +874,21 @@ It's been a long time since Hypertext Markup Language (HTML) showed up to become
 ![](https://cdn.hackernoon.com/images/IydseHhaP1RRAGISU5o7L5wy3r62-td92hhi.jpeg)
 This is the best way to implement an HTTP client in your Spring Boot microservice.
 
-### [216. What are the Best UI Component Libraries for Angular in 2022?](https://hackernoon.com/what-are-the-best-ui-component-libraries-for-angular-in-2022)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-1h03plm.jpeg)
-It's no secret that Angular is one of the most popular full-stack frameworks with component libraries accessible today. 
-
-### [217. 9 Step Solution to Escape Tutorial Hell Permanently](https://hackernoon.com/9-step-solution-to-escape-tutorial-hell-permanently)
+### [216. 9 Step Solution to Escape Tutorial Hell Permanently](https://hackernoon.com/9-step-solution-to-escape-tutorial-hell-permanently)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-7f93jw9.jpeg)
 Tutorial hell is real and it is very common for newbie developers to fall into it. Check out these 9 steps to escape tutorial hell permanently.
 
-### [218. Node.js Tutorial: How to Build a Video Streaming Application in 10 Minutes](https://hackernoon.com/nodejs-tutorial-how-to-build-a-video-streaming-application-in-10-minutes)
+### [217. What are the Best UI Component Libraries for Angular in 2022?](https://hackernoon.com/what-are-the-best-ui-component-libraries-for-angular-in-2022)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-1h03plm.jpeg)
+It's no secret that Angular is one of the most popular full-stack frameworks with component libraries accessible today. 
+
+### [218. 10 Best Online Courses to Learn Oracle and PL/SQL for Beginners ](https://hackernoon.com/10-best-online-courses-to-learn-oracle-and-plsql-for-beginners)
+![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-o493gfi.jpeg)
+
+
+### [219. Node.js Tutorial: How to Build a Video Streaming Application in 10 Minutes](https://hackernoon.com/nodejs-tutorial-how-to-build-a-video-streaming-application-in-10-minutes)
 ![](https://cdn.hackernoon.com/images/AjW2GKacl2guqCy2y7pi5AGU8U02-gl92hzr.jpeg)
 hi folks, in this blog we will build a Node.js video streaming application in like 10 minutes.
-
-
-### [219. 10 Best Online Courses to Learn Oracle and PL/SQL for Beginners ](https://hackernoon.com/10-best-online-courses-to-learn-oracle-and-plsql-for-beginners)
-![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-o493gfi.jpeg)
 
 
 ### [220. Top 10 Python Web Frameworks: 2020 Edition](https://hackernoon.com/top-10-python-web-frameworks-2020-edition-r1h3u84)
@@ -901,22 +903,22 @@ Learn how to use the Notification Web API to display desktop notifications in Ja
 ![](https://cdn.hackernoon.com/images/6P7PmV5wEuZCuIB7haREkN3Q5UH2-7r93ky7.jpeg)
 Research into the attitudes of professional software developer towards low-code and nocode tools, including recommendations for low-code and nocode tool makers.
 
-### [223. Design Patterns: Exploring Factory Method in Modern C++](https://hackernoon.com/desing-patterns-exploring-factory-method-in-modern-c-hi1h3uvw)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgxaG8fTrVzUm0EeycUPpXSDj69I3-hzb28ul.jpeg?alt=media&token=2af017ce-68c6-4e53-b3a2-b48e24bcce81)
-In software engineering, Creational Design Patterns deal with object creation mechanisms, i.e. try to create objects in a manner suitable to the situation. In addition to this basic or ordinary form of object creation could result in design problems or added complexity to the design. 
-
-### [224. How to Turn A DevOps Pipeline Into a DevSecOps Pipeline: A Shift Left Concept Overview](https://hackernoon.com/how-to-turn-a-devops-pipeline-into-a-devsecops-pipeline-a-shift-left-concept-overview)
+### [223. How to Turn A DevOps Pipeline Into a DevSecOps Pipeline: A Shift Left Concept Overview](https://hackernoon.com/how-to-turn-a-devops-pipeline-into-a-devsecops-pipeline-a-shift-left-concept-overview)
 ![](https://cdn.hackernoon.com/images/jxATC86KARbX8vedj5ZBj31IElB3-hmb3y5z.jpeg)
 Shift Left Concept is a hot topic today. I discuss the main stages of the DevSecOps pipeline, automated security checks in software development, and free tools.
 
-### [225. How to Create Toast Notifications in React Applications](https://hackernoon.com/how-to-create-toast-notifications-in-react-applications)
+### [224. Design Patterns: Exploring Factory Method in Modern C++](https://hackernoon.com/desing-patterns-exploring-factory-method-in-modern-c-hi1h3uvw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgxaG8fTrVzUm0EeycUPpXSDj69I3-hzb28ul.jpeg?alt=media&token=2af017ce-68c6-4e53-b3a2-b48e24bcce81)
+In software engineering, Creational Design Patterns deal with object creation mechanisms, i.e. try to create objects in a manner suitable to the situation. In addition to this basic or ordinary form of object creation could result in design problems or added complexity to the design. 
+
+### [225. Maven vs Gradle: How to Choose the Right Build Tool](https://hackernoon.com/maven-vs-gradle-how-to-choose-the-right-build-tool)
+![](https://cdn.hackernoon.com/images/bu2EcgsBMkb4EPIleKDsMfYfLKF3-q792ia3.jpeg)
+In this article, we will compare Maven and Gradle. The article describes how to choose between them based on the type of project.
+
+### [226. How to Create Toast Notifications in React Applications](https://hackernoon.com/how-to-create-toast-notifications-in-react-applications)
 ![](https://cdn.hackernoon.com/images/ykJxkPDADpgkWhi5rN6fOrTcA5A2-hl93q96.jpeg)
 In this article I will show you how to use Tailwind to add some stylish design elements.
 
-
-### [226. Maven vs Gradle: How to Choose the Right Build Tool](https://hackernoon.com/maven-vs-gradle-how-to-choose-the-right-build-tool)
-![](https://cdn.hackernoon.com/images/bu2EcgsBMkb4EPIleKDsMfYfLKF3-q792ia3.jpeg)
-In this article, we will compare Maven and Gradle. The article describes how to choose between them based on the type of project.
 
 ### [227. How To Understand The Difference Between Statically - Dynamically - Strongly - Weakly Typed Language](https://hackernoon.com/actually-understand-statically-dynamically-strongly-weakly-typed-languages-axbpi3za2)
 ![](https://cdn.hackernoon.com/drafts/i1uvw32u2.png)
@@ -931,29 +933,29 @@ Test impact analysis can help speed up test cycles but not properly managed it c
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-sk93or4.jpeg)
 Pendulum CTO Torsten Stuber discusses a new type of decentralised payment system that aims to replace the current system of bank-to-bank transfers. 
 
-### [230. A crash course on Serverless with AWS : Building APIs with Lambda and Aurora Serverless](https://hackernoon.com/a-crash-course-on-serverless-with-aws-building-apis-with-lambda-and-aurora-serverless-49885c46e37a)
-![](https://cdn.hackernoon.com/drafts/qvs32jg.png)
-Ever since AWS made a serverless option of AWS RDS Aurora generally available, I’ve been on the edge of my seat, eagerly anticipating all the various possibilities. It would mean a breakthrough in building serverless architectures. No more managing connection pools with SQL. No more worrying about capping out available connections. This would make it viable to use serverless for database intensive operations.
-
-### [231. How to Implement a Stake and Reward Contract in Solidity](https://hackernoon.com/how-to-implement-a-stake-and-reward-contract-in-solidity)
+### [230. How to Implement a Stake and Reward Contract in Solidity](https://hackernoon.com/how-to-implement-a-stake-and-reward-contract-in-solidity)
 ![](https://cdn.hackernoon.com/images/9nMyFjQNicRJ5HwksmBytJBySMi2-a0d3sq1.jpeg)
 How to Implement a Stake and Reward Contract in Solidity. Code that you can use in production.
 
-### [232. A Beginner's Guide Formatting Strings as Base64 in CSharp](https://hackernoon.com/a-beginners-guide-formatting-strings-as-base64-in-csharp)
-![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-hy833wi.jpeg)
-Understanding C# string formatting with Base64 can bring many benefits to your programming and software development skills.
+### [231. A crash course on Serverless with AWS : Building APIs with Lambda and Aurora Serverless](https://hackernoon.com/a-crash-course-on-serverless-with-aws-building-apis-with-lambda-and-aurora-serverless-49885c46e37a)
+![](https://cdn.hackernoon.com/drafts/qvs32jg.png)
+Ever since AWS made a serverless option of AWS RDS Aurora generally available, I’ve been on the edge of my seat, eagerly anticipating all the various possibilities. It would mean a breakthrough in building serverless architectures. No more managing connection pools with SQL. No more worrying about capping out available connections. This would make it viable to use serverless for database intensive operations.
+
+### [232. Engineer Onboarding: The Ugly Truth About Ramp-Up Time](https://hackernoon.com/engineer-onboarding-the-ugly-truth-about-ramp-up-time-7e323t9j)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgmOc0oFqu1bhmjIHPPRIHb8K3Vh1-h1v3tms.jpeg?alt=media&token=80c86fcb-ec36-4bd9-a039-82d9fa233bd4)
+Though people often think about the time it takes for a new engineer to start delivering value, they rarely ask themselves how long it takes for them to be fully ramped-up.
 
 ### [233. Scanning 2.6 Million Domains for Exposed .Env Files](https://hackernoon.com/scanning-26-million-domains-for-exposed-env-files)
 ![](https://cdn.hackernoon.com/images/yVDYqzHTcHRhsOezPV8xukpYVY42-n0a3677.jpeg)
 A software developer scanned 2.6 million domains for exposed.env files.
 
-### [234. Integrating Logging Using NLog in ASP.NET Core 3.0 Web App](https://hackernoon.com/integrating-logging-using-nlog-in-aspnet-core-30-web-app-6f1v31be)
+### [234. A Beginner's Guide Formatting Strings as Base64 in CSharp](https://hackernoon.com/a-beginners-guide-formatting-strings-as-base64-in-csharp)
+![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-hy833wi.jpeg)
+Understanding C# string formatting with Base64 can bring many benefits to your programming and software development skills.
+
+### [235. Integrating Logging Using NLog in ASP.NET Core 3.0 Web App](https://hackernoon.com/integrating-logging-using-nlog-in-aspnet-core-30-web-app-6f1v31be)
 ![](https://cdn.hackernoon.com/images/te15p3z84.jpg)
 NLog: It is an open source logging framework that provides a great flexibility and configurable options to log the insights of your application. It allows to select multiple targets like database, cloud services, files, console, etc. at the same time so that user don’t have to maintain different configurations in code. This is the most widely used logging framework out there.
-
-### [235. Engineer Onboarding: The Ugly Truth About Ramp-Up Time](https://hackernoon.com/engineer-onboarding-the-ugly-truth-about-ramp-up-time-7e323t9j)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgmOc0oFqu1bhmjIHPPRIHb8K3Vh1-h1v3tms.jpeg?alt=media&token=80c86fcb-ec36-4bd9-a039-82d9fa233bd4)
-Though people often think about the time it takes for a new engineer to start delivering value, they rarely ask themselves how long it takes for them to be fully ramped-up.
 
 ### [236. Why Should Every Javascript Developer Avoid Using if Statements](https://hackernoon.com/why-should-every-javascript-developer-avoid-using-if-statements)
 ![](https://cdn.hackernoon.com/images/kOX2DcIEvpa0iV4IDCQA7a4iq473-bu93pk5.jpeg)
@@ -1023,13 +1025,13 @@ Libraries make reusing existing code very convenient.
 ![](https://cdn.hackernoon.com/images/n1Uy6VUMBSeD6abnWBhOaNKlge12-ka263tfe.jpeg)
 Python vs PHP vs JavaScript: A Comparative Study in 2021 discussing the UI/UX design, features, complexity, their back ends, and their front ends.
 
-### [253. Redux Form made easy](https://hackernoon.com/redux-form-made-easy-345060c6a700)
-![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-kt035ez.jpeg)
-Learn how to write a generic component that holds the redux-form complexity, knows to get just a JSON that describes the fields, and render a matching redux-form. creating a forms was never so easy and clean.
-
-### [254. Adopting the Repository Pattern for Enhanced Backend Development With FastAPI](https://hackernoon.com/adopting-the-repository-pattern-for-enhanced-backend-development-with-fastapi)
+### [253. Adopting the Repository Pattern for Enhanced Backend Development With FastAPI](https://hackernoon.com/adopting-the-repository-pattern-for-enhanced-backend-development-with-fastapi)
 ![](https://cdn.hackernoon.com/images/9S1vwdm8BSSIM68NViog8lnaQPi2-ea92htx.jpeg)
 In this article, we'll cover the benefits of utilizing the repository pattern in building backend systems with FastAPI. 
+
+### [254. Redux Form made easy](https://hackernoon.com/redux-form-made-easy-345060c6a700)
+![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-kt035ez.jpeg)
+Learn how to write a generic component that holds the redux-form complexity, knows to get just a JSON that describes the fields, and render a matching redux-form. creating a forms was never so easy and clean.
 
 ### [255. How to Get Started With a Clean Architecture Template for NodeJS, Ts.ED and TypeScript](https://hackernoon.com/how-to-get-started-with-a-clean-architecture-template-for-nodejs-tsed-and-typescript)
 ![](https://cdn.hackernoon.com/images/3rNvpQx9qUPzmpydCiVLDrKEaZ03-7n93nnj.jpeg)
@@ -1052,57 +1054,58 @@ I want to tell you about equally useful, but less popular tips for you work!
 ![](drafts/1k3j3zqp.png)
 If you ask any software developer, there’s a decent chance that they have tried their hand at game development. It seems like a natural fit since it uses many of the same skills. What’s more, programmers come into it with the knowledge that most aspiring game makers lack: how to write good code and create effective software.
 
-### [260. Integrating Logging Using NLog in ASP.NET Core 3.0 Web App](https://hackernoon.com/integrating-logging-using-nlog-in-aspnet-core-30-web-app-6k1d3zk3)
-![](https://cdn.hackernoon.com/drafts/te15p3z84.png)
-NLog: It is an open source logging framework that provides a great flexibility and configurable options to log the insights of your application. It allows to select multiple targets like database, cloud services, files, console, etc. at the same time so that user don’t have to maintain different configurations in code. This is the most widely used logging framework out there.
-
-### [261. Alternatives to Create React App](https://hackernoon.com/alternatives-to-create-react-app)
+### [260. Alternatives to Create React App](https://hackernoon.com/alternatives-to-create-react-app)
 ![](https://cdn.hackernoon.com/images/dNNBDAvxyhdzfKhIWAuPr4PE1Zx1-h193lfe.jpeg)
 I see a lot of discussion around CRA being outdated and we should replace it with Vite. This blog discusses CRA's problems and alternatives we can use. 
+
+### [261. Integrating Logging Using NLog in ASP.NET Core 3.0 Web App](https://hackernoon.com/integrating-logging-using-nlog-in-aspnet-core-30-web-app-6k1d3zk3)
+![](https://cdn.hackernoon.com/drafts/te15p3z84.png)
+NLog: It is an open source logging framework that provides a great flexibility and configurable options to log the insights of your application. It allows to select multiple targets like database, cloud services, files, console, etc. at the same time so that user don’t have to maintain different configurations in code. This is the most widely used logging framework out there.
 
 ### [262. Designing a Social Media News Feed System ](https://hackernoon.com/designing-a-social-media-news-feed-system)
 ![](https://cdn.hackernoon.com/images/OAWNH2u4oMfvIQnqBHkGhGDHPN72-t4a3kdf.jpeg)
 Social media newsfeeds must be generated in near real-time based on the feed activity from the people that a user follows.
 
-### [263. How to Implement Face Recognition in Vue.JS with FaceIO](https://hackernoon.com/how-to-implement-face-recognition-in-vuejs-with-faceio)
-![](https://cdn.hackernoon.com/images/TuZs7lYkToZkOwnvwaCU8cXCSGJ2-j993o9r.jpeg)
-Learn to add face recognition authentication to your web application 
-
-### [264. How To Build and Sell APIs](https://hackernoon.com/how-to-build-and-sell-apis)
+### [263. How To Build and Sell APIs](https://hackernoon.com/how-to-build-and-sell-apis)
 ![](https://cdn.hackernoon.com/images/iOKnuwYEXZaUvz5goZmkHGWwDAq2-f69135dn.jpeg)
 Building and selling APIs is a great way to create a new source of passive income.
 
-### [265. Where to Find a Software Engineer Mentor (and How to Benefit From Them)](https://hackernoon.com/where-to-find-a-software-engineer-mentor-and-how-to-benefit-from-them)
+### [264. The Complete Guide to AI Agent Memory Files (CLAUDE.md, AGENTS.md, and Beyond)
+](https://hackernoon.com/the-complete-guide-to-ai-agent-memory-files-claudemd-agentsmd-and-beyond)
+![](https://cdn.hackernoon.com/images/mpDOI8AQeYeu5cc9VGleWjM9xvB2-mu0383b.png)
+Learn how CLAUDE.md, AGENTS.md, and AI memory files work. Covers file hierarchy, auto-memory, @imports, and which files you actually need for your setup.
+
+### [265. How to Implement Face Recognition in Vue.JS with FaceIO](https://hackernoon.com/how-to-implement-face-recognition-in-vuejs-with-faceio)
+![](https://cdn.hackernoon.com/images/TuZs7lYkToZkOwnvwaCU8cXCSGJ2-j993o9r.jpeg)
+Learn to add face recognition authentication to your web application 
+
+### [266. Where to Find a Software Engineer Mentor (and How to Benefit From Them)](https://hackernoon.com/where-to-find-a-software-engineer-mentor-and-how-to-benefit-from-them)
 ![](https://cdn.hackernoon.com/images/utX55NEAiuTliK4iWFTnWPa5bxr2-5gg3pwy.jpeg)
 Want to advance your software development career? Read our article to find out how to find a software engineer mentor and how to benefit from them.
 
-### [266. Creating Callable Objects in JavaScript](https://hackernoon.com/creating-callable-objects-in-javascript-d21l3te1)
+### [267. Creating Callable Objects in JavaScript](https://hackernoon.com/creating-callable-objects-in-javascript-d21l3te1)
 ![](https://cdn.hackernoon.com/images/zay3t8y.jpg)
 var obj = new CallableObject(); obj(args);
 
-### [267. How To Implement The Prefetch Pattern in React Concurrent Mode](https://hackernoon.com/implementing-the-prefetch-pattern-in-react-concurrent-mode-h4r3twc)
+### [268. How To Implement The Prefetch Pattern in React Concurrent Mode](https://hackernoon.com/implementing-the-prefetch-pattern-in-react-concurrent-mode-h4r3twc)
 ![](https://cdn.hackernoon.com/drafts/sool3tca.png)
 Recently, React announced a feature of the React ecosystem — Concurrent Mode. This would allow us to stop or delay the execution of components for the time that we need. It’ll help React apps stay responsive and gracefully adjust to the user’s device capabilities and network speed.
 
-### [268. An Overview of SQL Antipatterns](https://hackernoon.com/an-overview-of-sql-antipatterns)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-l793prm.jpeg)
-I was recently going through my notes of SQL Antipatterns and was shocked to realize how actual this book still is.
-
-### [269. Introducing the Satisfies Operator in TypeScript](https://hackernoon.com/introducing-the-satisfy-operator-in-typescript)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-oq93284.jpeg)
-TypeScript beta 4.9 came with the new satisfies operator. 
-
-### [270. How to Efficiently Generate Test Data With SQL](https://hackernoon.com/how-to-efficiently-generate-test-data-with-sql)
-![](https://cdn.hackernoon.com/images/ZFT8ypYqRcQGo0NU17QYMPRU2zK2-y1s3pm8.jpeg)
-There are a large number of utilities for generating test data. Here are some examples of using SQL queries to generate test data.
-
-### [271. Why and where should you still use C/C++ languages?](https://hackernoon.com/why-and-where-should-you-still-use-cc-languages-6l1r838gh)
+### [269. Why and where should you still use C/C++ languages?](https://hackernoon.com/why-and-where-should-you-still-use-cc-languages-6l1r838gh)
 ![](https://cdn.hackernoon.com/drafts/481sm38c3.png)
 From complex databases to self-driving cars, the usage area of C and C++ languages is surprisingly wide. Even today, with a myriad of new & robust programming tools, the two coding languages from 70s cannot be replaced. So what are the common applications of C & C++ today and why we still use them? Let’s find out in this article.
 
-### [272. Stop Rebuilds! Reload Your Code Live in a Docker Container With Bind Mounts](https://hackernoon.com/stop-rebuilds-reload-your-code-live-in-a-docker-container-with-bind-mounts)
-![](https://cdn.hackernoon.com/images/MPMbNuXqflZiPOzulSvbJDce0ya2-mi13b0r.png)
-Docker lets you change a line of code, stop the container, rebuild the image, and run a new container in minutes.
+### [270. An Overview of SQL Antipatterns](https://hackernoon.com/an-overview-of-sql-antipatterns)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-l793prm.jpeg)
+I was recently going through my notes of SQL Antipatterns and was shocked to realize how actual this book still is.
+
+### [271. Introducing the Satisfies Operator in TypeScript](https://hackernoon.com/introducing-the-satisfy-operator-in-typescript)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-oq93284.jpeg)
+TypeScript beta 4.9 came with the new satisfies operator. 
+
+### [272. How to Efficiently Generate Test Data With SQL](https://hackernoon.com/how-to-efficiently-generate-test-data-with-sql)
+![](https://cdn.hackernoon.com/images/ZFT8ypYqRcQGo0NU17QYMPRU2zK2-y1s3pm8.jpeg)
+There are a large number of utilities for generating test data. Here are some examples of using SQL queries to generate test data.
 
 ### [273. How To Create User Profile Page for E-Commerce Android App](https://hackernoon.com/how-to-create-user-profile-page-for-e-commerce-android-app-gr3131dd)
 ![](https://cdn.hackernoon.com/images/Mma4CsuASuNH6sD2ARQPXKM7m8Q2-4n1e312y.jpeg)
@@ -1120,25 +1123,25 @@ Ockam enables developers to securely connect clients to the InfluxDB database wi
 ![](https://cdn.hackernoon.com/drafts/g1143xdi.png)
 Dynamic programming approach.
 
-### [277. React Hooks: Performance Pitfalls And How To Easily Avoid Them](https://hackernoon.com/adventuring-into-react-hooks-performance-practices-rly36xq)
-![](https://cdn.hackernoon.com/drafts/1ry33627.png)
-From version 16.8.0, React introduced us to a way to use state and other React features without writing a class — React Hooks.
-
-### [278. The Ultimate Jetpack Compose Cheat Sheet](https://hackernoon.com/the-ultimate-jetpack-compose-cheat-sheet)
+### [277. The Ultimate Jetpack Compose Cheat Sheet](https://hackernoon.com/the-ultimate-jetpack-compose-cheat-sheet)
 ![](https://cdn.hackernoon.com/images/Qf32qIA0rKRPvvfxl82cUcPLRV82-o592euu.jpeg)
 This post is not meant to teach you everything about Compose but rather it’ll be more like a roadmap that you can use to learn Compose...
+
+### [278. React Hooks: Performance Pitfalls And How To Easily Avoid Them](https://hackernoon.com/adventuring-into-react-hooks-performance-practices-rly36xq)
+![](https://cdn.hackernoon.com/drafts/1ry33627.png)
+From version 16.8.0, React introduced us to a way to use state and other React features without writing a class — React Hooks.
 
 ### [279. How Do Code Reviews Work at Microsoft? ](https://hackernoon.com/how-code-reviews-work-at-microsoft-qe1t327y)
 ![](https://cdn.hackernoon.com/drafts/ym1g32qo.png)
 Have you ever wondered how one of the largest software companies worldwide ensures high-quality code through code reviewing?
 
-### [280. Applying Angular Runtime Configurations in Dockerized Environments](https://hackernoon.com/applying-angular-runtime-configurations-in-dockerized-environments-kr3a33pr)
-![](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-With the shift to Cloud-first and the rise of managed infrastructure and orchestrations such as EWS, Azure AKS or GCP clusters the application landscape needs to prepare and adjust itself to match newly rising requirements. This is for such nothing new nor unknown, but acknowledging this fact is one and probably the first important step.
-
-### [281. Part 2: Developing Software Requirements, A Case Study](https://hackernoon.com/foo-xv1x3278)
+### [280. Part 2: Developing Software Requirements, A Case Study](https://hackernoon.com/foo-xv1x3278)
 ![](https://cdn.hackernoon.com/drafts/9722s32bl.png)
 This is Part 2 of a 4 part series. Part 1: Why Software Requirements In The Real World Are Hard discusses the challenges of developing requirements and what good ones might look like. This post looks at the requirements development process and its outputs on a real-world project.
+
+### [281. Applying Angular Runtime Configurations in Dockerized Environments](https://hackernoon.com/applying-angular-runtime-configurations-in-dockerized-environments-kr3a33pr)
+![](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+With the shift to Cloud-first and the rise of managed infrastructure and orchestrations such as EWS, Azure AKS or GCP clusters the application landscape needs to prepare and adjust itself to match newly rising requirements. This is for such nothing new nor unknown, but acknowledging this fact is one and probably the first important step.
 
 ### [282. 7 of the Top Best Languages for Web Application Development](https://hackernoon.com/7-of-the-top-best-languages-for-web-application-development-8q1531zd)
 ![](https://cdn.hackernoon.com/images/kUIZO4rrZJZ0z4WQaroP9Kwfuil2-z37331dz.jpeg)
@@ -1156,29 +1159,29 @@ Surviving tech's fast lane: A story of engineers, hype, and staying focused on w
 ![](https://cdn.hackernoon.com/images/zaFsi86habTuCYRikyd3UBKEgKE3-dp93jm2.jpeg)
 In this post, I compare the running times of the most commonly used ways of looping through an array in JavaScript in order to see which one is the fastest
 
-### [286. Vibe Coding - A New System of the World](https://hackernoon.com/vibe-coding-a-new-system-of-the-world)
-![](https://cdn.hackernoon.com/images/MBz75e7HA1N72pZj0sCWNSZv6mJ3-yb535a4.jpeg)
-Is the rise of vibe coding also the end of software engineering? How will vibeware change the nature of the software entrepreneur, and the meaning of work?
-
-### [287. My Best Travel APIs ](https://hackernoon.com/my-best-travel-apis)
+### [286. My Best Travel APIs ](https://hackernoon.com/my-best-travel-apis)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-j592bif.jpeg)
 APIs are useful tools in general but can be made exceptionally useful when combining a number of them to accumulate information to help you plan trips.
 
-### [288. Introducing DChat - Decentralized Chat for All](https://hackernoon.com/introducing-dchat-decentralized-chat-for-all-ya2y3ypo)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfO9kYGB6S1VQQLTLhhfeOmnrcZd2-sc1l3y7g.jpeg?alt=media&token=5c802827-6398-4977-ba57-88df170ff37c)
-Messaging is a core feature of the internet. It was described as the internet’s killer app. It enabled anyone to communicate with anyone else in the world instantly, and for free. Billions of people chat every day.
+### [287. Vibe Coding - A New System of the World](https://hackernoon.com/vibe-coding-a-new-system-of-the-world)
+![](https://cdn.hackernoon.com/images/MBz75e7HA1N72pZj0sCWNSZv6mJ3-yb535a4.jpeg)
+Is the rise of vibe coding also the end of software engineering? How will vibeware change the nature of the software entrepreneur, and the meaning of work?
 
-### [289. How to Temporarily Resolve CORS Error in the Console](https://hackernoon.com/how-to-temporarily-resolve-cors-error-in-the-console)
+### [288. How to Temporarily Resolve CORS Error in the Console](https://hackernoon.com/how-to-temporarily-resolve-cors-error-in-the-console)
 ![](https://cdn.hackernoon.com/images/S7bN1YC1gAWaK0teZwD48hpZxr03-5493q1x.jpeg)
 You may have exhausted all solutions to make your site render on the browser but nothing seems to work. Then, you’ve checked the developer tools console only to get an error saying that CORS is blocking your API requests.
 
-### [290. How to Build a React Component Library From Scratch](https://hackernoon.com/building-a-react-component-library-from-scratch)
-![](https://cdn.hackernoon.com/images/UZsiGCDKLlXnEsYH3wk6XxwvRz82-lpg2fod.jpeg)
-A component library is one of the coolest things a web developer can make, but if you don't know how to make one, let me guide you a bit.
-
-### [291. How to Design a Flexible Database Model](https://hackernoon.com/how-to-design-a-flexible-database-model)
+### [289. How to Design a Flexible Database Model](https://hackernoon.com/how-to-design-a-flexible-database-model)
 ![](https://cdn.hackernoon.com/images/t7jQ5r7J69Xka9L0AUfquWBggzO2-sh93cux.jpeg)
 Handling these business changes at a data store level can be a nightmare for software engineers if the design of the underlying model does not account for adapt
+
+### [290. Introducing DChat - Decentralized Chat for All](https://hackernoon.com/introducing-dchat-decentralized-chat-for-all-ya2y3ypo)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfO9kYGB6S1VQQLTLhhfeOmnrcZd2-sc1l3y7g.jpeg?alt=media&token=5c802827-6398-4977-ba57-88df170ff37c)
+Messaging is a core feature of the internet. It was described as the internet’s killer app. It enabled anyone to communicate with anyone else in the world instantly, and for free. Billions of people chat every day.
+
+### [291. How to Build a React Component Library From Scratch](https://hackernoon.com/building-a-react-component-library-from-scratch)
+![](https://cdn.hackernoon.com/images/UZsiGCDKLlXnEsYH3wk6XxwvRz82-lpg2fod.jpeg)
+A component library is one of the coolest things a web developer can make, but if you don't know how to make one, let me guide you a bit.
 
 ### [292. You don't do Continuous Integration!](https://hackernoon.com/you-dont-do-continuous-integration-vz47534ux)
 ![](https://cdn.hackernoon.com/drafts/rxd7j343u.png)
@@ -1208,197 +1211,196 @@ Despite the popularity of currying and the rise of functional programming (and o
 ![](https://cdn.hackernoon.com/images/kk4UAt4Bb4hqULrGjmE4M4Lfl3B2-aw3n33m7.gif)
 Naturally, the responsibility of choosing the right solution by assessing every aspect of the problem and its possible solutions falls on the shoulders of product managers. As a matter of fact, most common challenges faced by product managers are hefted with the weight of trade-offs. You can learn how to deal with these tradeoffs just by keeping a few things in mind and having a structured decision-making process.
 
-### [299. Understanding Basic Image Processing Algorithms [A Hands-on JavaScript Tutorial]](https://hackernoon.com/understanding-basic-image-processing-algorithms-a-hands-on-javascript-tutorial-8r3u32qk)
-![](https://cdn.hackernoon.com/drafts/pgi32cg.png)
-We've had a lot of digital image processing tools for a long time: Photoshop, Lightroom, GIMP, PhotoScape, and many more. However, in the past few years, one became popular among non-expert users due to its easiness of use and social features: Instagram. Have you ever wondered how Instagram filters work? It is actually pretty simple matrix operations! So simple we can build our own without any external library, just pure and simple HTML + JS. Let's build one now.
+### [299. What is Agentic Testing? ](https://hackernoon.com/what-is-agentic-testing)
+![](https://cdn.hackernoon.com/images/wKqoWofBppfGW3saRGwJ2l7OTr22-fac3eur.png)
+If your test suite breaks every time a button moves, a div changes, or – gods forbid – an A/B test runs, is it really testing anything?
 
 ### [300. An Intro to Algorithms and Data Structures (Javascript Edition)](https://hackernoon.com/an-intro-to-algorithms-and-data-structures-javascript-edition)
 ![](https://cdn.hackernoon.com/images/y9DF7qDWAogeIhqj4FLWzMCkDhk1-s9k3wgf.jpeg)
 Understanding algorithms and data structures are crucial to enhancing your performance 10x more than your peers who don't. This is because you analyze problems.
 
-### [301. 5 Web Dev Tools To Improve Your Productivity](https://hackernoon.com/5-web-dev-tools-to-improve-your-productivity-gp163wmi)
+### [301. Understanding Basic Image Processing Algorithms [A Hands-on JavaScript Tutorial]](https://hackernoon.com/understanding-basic-image-processing-algorithms-a-hands-on-javascript-tutorial-8r3u32qk)
+![](https://cdn.hackernoon.com/drafts/pgi32cg.png)
+We've had a lot of digital image processing tools for a long time: Photoshop, Lightroom, GIMP, PhotoScape, and many more. However, in the past few years, one became popular among non-expert users due to its easiness of use and social features: Instagram. Have you ever wondered how Instagram filters work? It is actually pretty simple matrix operations! So simple we can build our own without any external library, just pure and simple HTML + JS. Let's build one now.
+
+### [302. 5 Web Dev Tools To Improve Your Productivity](https://hackernoon.com/5-web-dev-tools-to-improve-your-productivity-gp163wmi)
 ![](https://images.unsplash.com/photo-1483058712412-4245e9b90334?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Time is always a scarce resource for developers. From aggressive deadlines, to multiple projects, to unexpected requirements, our time is constantly in demand. That's why we're always on the lookout for tools and processes that help us boost productivity. In this article, we'll look at five web development tools that might just give you that extra boost in productivity you need.
 
-### [302. How to Buy a Token on the Uniswap Universal Router with Python](https://hackernoon.com/how-to-buy-a-token-on-the-uniswap-universal-router-with-python)
+### [303. How to Buy a Token on the Uniswap Universal Router with Python](https://hackernoon.com/how-to-buy-a-token-on-the-uniswap-universal-router-with-python)
 ![](https://cdn.hackernoon.com/images/BSuRlJXRsSY4ts74g9AOoVwosku2-vzd2pr2.gif.webp)
 Tutorial on how to buy a token on the Uniswap Universal Router with Python.
-
-### [303. User Authentication in Android using Firebase (Java)](https://hackernoon.com/user-authentication-in-android-using-firebase-java)
-![](https://cdn.hackernoon.com/images/s6Oqrc0EZkg4kONGviNcpShG3T12-uf93nlq.jpeg)
-Firebase is a mobile(Android or iOS) and web application development platform. It provides a suite of cloud-based tools and services offered by Google
 
 ### [304. Comparing Optimistic and Pessimistic Locking With GO and PostgreSQL](https://hackernoon.com/comparing-optimistic-and-pessimistic-locking-with-go-and-postgresql)
 ![](https://cdn.hackernoon.com/images/LDruOynCeFhvHi3906Wfi1uzXy03-3s93pu8.jpeg)
 Comparison between Optimistic and Pessimistic locking with Golang and PostgreSQL
 
-### [305. From Layer1 to zkEVM: Opside's ZK-Rollup LaunchBase Is Offering a Plethora of Choices](https://hackernoon.com/from-layer1-to-zkevm-opsides-zk-rollup-launchbase-is-offering-a-plethora-of-choices)
+### [305. User Authentication in Android using Firebase (Java)](https://hackernoon.com/user-authentication-in-android-using-firebase-java)
+![](https://cdn.hackernoon.com/images/s6Oqrc0EZkg4kONGviNcpShG3T12-uf93nlq.jpeg)
+Firebase is a mobile(Android or iOS) and web application development platform. It provides a suite of cloud-based tools and services offered by Google
+
+### [306. From Layer1 to zkEVM: Opside's ZK-Rollup LaunchBase Is Offering a Plethora of Choices](https://hackernoon.com/from-layer1-to-zkevm-opsides-zk-rollup-launchbase-is-offering-a-plethora-of-choices)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-hc93v5r.jpeg)
 On August 14th, the decentralized ZK-RaaS platform, Opside, announced a major update to its ZK-Rollup LaunchBase.
 
-### [306. Successful Integration of Personal Medical Devices with Mobile Telemedicine Application](https://hackernoon.com/successful-integration-of-personal-medical-devices-with-mobile-telemedicine-application)
+### [307. Successful Integration of Personal Medical Devices with Mobile Telemedicine Application](https://hackernoon.com/successful-integration-of-personal-medical-devices-with-mobile-telemedicine-application)
 ![](https://cdn.hackernoon.com/images/JhOWJh8ylGZIbbIUnc7VCbPV1yl2-rh93n19.png)
 Personal medical device integration with telemedicine application
 
-### [307. GraphQL vs REST: How To Choose One Over The Other](https://hackernoon.com/graphql-vs-rest-how-to-choose-one-over-the-other)
+### [308. GraphQL vs REST: How To Choose One Over The Other](https://hackernoon.com/graphql-vs-rest-how-to-choose-one-over-the-other)
 ![](https://cdn.hackernoon.com/images/bu2EcgsBMkb4EPIleKDsMfYfLKF3-m203akx.jpeg)
 We will look at REST and GraphQL, consider their principles and weigh the pros and cons of both technologies.
 
-### [308. NoSQL: System Design Cheat Sheet](https://hackernoon.com/nosql-system-design-cheat-sheet)
+### [309. NoSQL: System Design Cheat Sheet](https://hackernoon.com/nosql-system-design-cheat-sheet)
 ![](https://cdn.hackernoon.com/images/x2cx7JIyp7MnzU1thrm5j2g7k752-r7931ch.jpeg)
 wide-column stores, graph databases,time series databases, nosql,system design,interview,key-value,databases,document databases,columnar databases
 
-### [309. How To Master Elasticsearch Query DSL](https://hackernoon.com/how-to-master-elasticsearch-query-dsl-454632cg)
+### [310. How To Master Elasticsearch Query DSL](https://hackernoon.com/how-to-master-elasticsearch-query-dsl-454632cg)
 ![](https://cdn.hackernoon.com/drafts/1u1232zg.png)
 Photo by Evgeni Tcherkasski on Unsplash
 
-### [310. Understanding Boolean Methods in Ruby With Examples](https://hackernoon.com/understanding-boolean-methods-in-ruby-with-examples-363n36nu)
+### [311. Understanding Boolean Methods in Ruby With Examples](https://hackernoon.com/understanding-boolean-methods-in-ruby-with-examples-363n36nu)
 ![](https://cdn.hackernoon.com/images/nev3602.jpg)
 Most programming languages have a Data Type called “Boolean”. This is
 a form of data with only two possible values (usually “true” and
 “false”). The Ruby language however does not have a Boolean Data
 Type.
 
-### [311. Elasticsearch in Java Spring Boot: Starter Pack](https://hackernoon.com/elasticsearch-in-java-spring-boot-starter-pack-3kx330h)
+### [312. Elasticsearch in Java Spring Boot: Starter Pack](https://hackernoon.com/elasticsearch-in-java-spring-boot-starter-pack-3kx330h)
 ![](https://cdn.hackernoon.com/images/WnT4onrLDxWJByyjiz9SY4adyu73-sg703zxq.jpeg)
  In this article, I want to teach you how to connect Java Spring Boot 2 with Elasticsearch. We’ll learn how to create an API that’ll call Elasticsearch to produ
 
-### [312. Annotated and Lightweight Git Tags](https://hackernoon.com/annotated-and-lightweight-git-tags-hz6r3ywf)
+### [313. Annotated and Lightweight Git Tags](https://hackernoon.com/annotated-and-lightweight-git-tags-hz6r3ywf)
 ![](https://cdn.hackernoon.com/images/pt1hr3yg2.jpg)
 Tags are a simple aspect of Git, they allow you to identify specific release versions of your code. You can think of a tag as a branch that doesn't change. Once it is created, it loses the ability to change the history of commits.
 
-### [313. A Programmer's Guide to Game Design: The Major Ingredients You Should Know](https://hackernoon.com/a-programmers-guide-to-game-design-the-major-ingredients-you-should-know)
+### [314. A Programmer's Guide to Game Design: The Major Ingredients You Should Know](https://hackernoon.com/a-programmers-guide-to-game-design-the-major-ingredients-you-should-know)
 ![](https://cdn.hackernoon.com/images/IW0DX1dUHwU9EV8vodJDlqPZYcv1-ao035k2.png)
 This article is dedicated to any developer who wants to try something new or exciting (which is game development, yes).
-
-### [314. The Simple & Efficient Way to Enable JWT auth in Laravel By Using PHP-JWT Module](https://hackernoon.com/the-simple-and-efficient-way-to-enable-jwt-auth-in-laravel-a517c3202)
-![](https://cdn.hackernoon.com/drafts/ro18w32q4.png)
-I encounter this issue while working on an application for a client recently. Instead of using a JWT library build for Laravel, I used firebase/php-jwt to generate and authenticate users. Don’t ask why as there were many reasons behind this decision. If you are using any Laravel library for JWT like tymondesigns/jwt-auth then you don’t need this anyway, use the library if you want. 
 
 ### [315. Upload Files Easily and Quickly in NodeJS Using Astro](https://hackernoon.com/upload-files-easily-and-quickly-in-nodejs-using-astro)
 ![](https://cdn.hackernoon.com/images/Ve6JdQOItYcauAkKDILSwLYDpLI2-p993lj7.jpeg)
 How to upload files with Astro, express and multerjs
 
-### [316. Kubernetes Secrets and ConfigMaps](https://hackernoon.com/kubernetes-secrets-and-configmaps)
-![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-6433att.jpeg)
-In this article we will discuss about the applications of Kubernetes ConfigMaps and Secrets.
+### [316. The Simple & Efficient Way to Enable JWT auth in Laravel By Using PHP-JWT Module](https://hackernoon.com/the-simple-and-efficient-way-to-enable-jwt-auth-in-laravel-a517c3202)
+![](https://cdn.hackernoon.com/drafts/ro18w32q4.png)
+I encounter this issue while working on an application for a client recently. Instead of using a JWT library build for Laravel, I used firebase/php-jwt to generate and authenticate users. Don’t ask why as there were many reasons behind this decision. If you are using any Laravel library for JWT like tymondesigns/jwt-auth then you don’t need this anyway, use the library if you want. 
 
 ### [317. How to Use Common EditorConfig as a NuGet Package](https://hackernoon.com/how-to-use-common-editorconfig-as-a-nuget-package)
 ![](https://cdn.hackernoon.com/images/XCbLxne4HhcBPlbrrFbTNz5DUGv1-ck93noz.jpeg)
 The story is about how to create a NuGet package with a .editorconfig and import it to all the projects.
 
-### [318. ✨ Introducing react-cool-img: An easy way to optimize images ](https://hackernoon.com/a-easy-way-to-handle-image-ux-and-performance-with-reactjs-introducing-react-cool-img-u2jt362o)
+### [318. Kubernetes Secrets and ConfigMaps](https://hackernoon.com/kubernetes-secrets-and-configmaps)
+![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-6433att.jpeg)
+In this article we will discuss about the applications of Kubernetes ConfigMaps and Secrets.
+
+### [319. ✨ Introducing react-cool-img: An easy way to optimize images ](https://hackernoon.com/a-easy-way-to-handle-image-ux-and-performance-with-reactjs-introducing-react-cool-img-u2jt362o)
 ![](https://images.unsplash.com/photo-1453000109878-d4619d01587c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 react-cool-img is a lightweight but powerful React.js image component, which helps you handle image UX (user experience) and performance as a professional guy 🤓. It empowers the standard img tag by many cool features without breaking your original development experience. Ideally, it can be an img tag replacement for your React.js project.
 
-### [319. How To Implement localStorage or Firebase Firestore into your JS project](https://hackernoon.com/how-to-implement-localstorage-or-firebase-firestore-into-your-js-project-jiu3u84)
+### [320. How To Implement localStorage or Firebase Firestore into your JS project](https://hackernoon.com/how-to-implement-localstorage-or-firebase-firestore-into-your-js-project-jiu3u84)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fbvb3kXjdajXDKV1wYqJVydnXG7l1-u5k3ujd.jpeg?alt=media&token=4942a316-0a2f-4347-899b-11927928de75)
 I am a great reader, I love books and I try to read as much as I can, no matter the topic, whatever, fantasy, comedy, sci-fi, educational...Books take me to another world, they make me feel, make me think, make me relax and make me disconnect from the day by day schedule. I cannot live without them. 
 
-### [320. Using TypeScript Decorators with esbuild](https://hackernoon.com/using-typescript-decorators-with-esbuild)
+### [321. Using TypeScript Decorators with esbuild](https://hackernoon.com/using-typescript-decorators-with-esbuild)
 ![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-dd93po2.jpeg)
 Learn how to use TypeScript decorators with esbuild and enable modern frameworks like NestJS.
-
-### [321. Top 30 Business Intelligence Consulting Companies](https://hackernoon.com/top-30-business-intelligence-consulting-companies-zq2034ob)
-![](https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-In the information age, data is a vital source for everything: from housekeeping to business management, people need to stay tuned in order to survive. But the tricky thing is that the amount of data available both offline and online is so huge it cannot be traced manually anymore, and it continues to grow. According to Raconteur, each day we publish 500 million tweets, send 294 billion emails, and make five billion search requests. The amount of data generated daily is expected to reach 463 exabytes by 2025. The numbers are mind-blowing, and the first question to arise is: how do we process all this data?
 
 ### [322. AWS S3 as an Image Hosting Service: Everything you need to know](https://hackernoon.com/aws-s3-as-an-image-hosting-service-everything-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/w2Tecf1I0XVvZxdB79jbEVeo2Pb2-sf93oeh.jpeg)
 In today's digital world, images are an essential part of online communication.
 
-### [323. API First Development Approach And How It Can Help to Your Business](https://hackernoon.com/is-api-first-development-approach-right-for-your-business-0lr2b58)
+### [323. Top 30 Business Intelligence Consulting Companies](https://hackernoon.com/top-30-business-intelligence-consulting-companies-zq2034ob)
+![](https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+In the information age, data is a vital source for everything: from housekeeping to business management, people need to stay tuned in order to survive. But the tricky thing is that the amount of data available both offline and online is so huge it cannot be traced manually anymore, and it continues to grow. According to Raconteur, each day we publish 500 million tweets, send 294 billion emails, and make five billion search requests. The amount of data generated daily is expected to reach 463 exabytes by 2025. The numbers are mind-blowing, and the first question to arise is: how do we process all this data?
+
+### [324. API First Development Approach And How It Can Help to Your Business](https://hackernoon.com/is-api-first-development-approach-right-for-your-business-0lr2b58)
 ![](https://cdn.hackernoon.com/images/lovb2b7g.jpg)
 Web APIs have been around for nearly 20 years and but it is from the past few years that software developers have been thinking hard on the concept of API first development approach. 
-
-### [324. Building a Sidebar in React with a Higher-Order Component](https://hackernoon.com/building-a-sidebar-in-react-with-a-higher-order-component)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-6l93pvf.jpeg)
-In this article, I explore one of the use cases of React's higher-order component.
 
 ### [325. ChatGPT - Debugging is the new Coding!](https://hackernoon.com/chatgpt-debugging-is-the-new-coding)
 ![](https://cdn.hackernoon.com/images/sWgUkcWK6naafqrMYXQ9swM3irf2-fq93p5y.jpeg)
 Much has been said about ChatGPTs ability to code but in my experience, ChatGPT is only as good a coder as the programmer guiding it to write the code.
 
-### [326. Maximize Your React Skills: Build a To-Do List App from Start to Finish (with TypeScript + Vite)](https://hackernoon.com/maximize-your-react-skills-build-a-to-do-list-app-from-start-to-finish-with-typescript-vite)
-![](https://cdn.hackernoon.com/images/42fVSCMQWfSi7dcFWQN3DtjfjLC2-1lg3opf.jpeg)
-Master the basics of building an app with React and TS. Learn how to use state, props, and data flow to create a fully functional app.
+### [326. Building a Sidebar in React with a Higher-Order Component](https://hackernoon.com/building-a-sidebar-in-react-with-a-higher-order-component)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-6l93pvf.jpeg)
+In this article, I explore one of the use cases of React's higher-order component.
 
 ### [327. Top 10 Best Pivoting Components for Developers](https://hackernoon.com/top-10-best-pivoting-components-for-developers)
 ![](https://cdn.hackernoon.com/images/pexX6r4fscfmYiYxaNdrKiRC2zz1-ovl30u3.jpeg)
 I tested the ten most popular pivot solutions and wrote an honest opinion on every single one.
 
-### [328. New and Improved PHP Backend Roadmap](https://hackernoon.com/new-and-improved-php-backend-roadmap)
+### [328. Maximize Your React Skills: Build a To-Do List App from Start to Finish (with TypeScript + Vite)](https://hackernoon.com/maximize-your-react-skills-build-a-to-do-list-app-from-start-to-finish-with-typescript-vite)
+![](https://cdn.hackernoon.com/images/42fVSCMQWfSi7dcFWQN3DtjfjLC2-1lg3opf.jpeg)
+Master the basics of building an app with React and TS. Learn how to use state, props, and data flow to create a fully functional app.
+
+### [329. New and Improved PHP Backend Roadmap](https://hackernoon.com/new-and-improved-php-backend-roadmap)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-i993z1q.jpeg)
 we decided to create a step-by-step guide demonstrating the bigger picture and providing easy-to-follow guidelines for people who want to learn PHP.
 
-### [329. JavaScript Promises, Callbacks, and Async/Await for Beginners](https://hackernoon.com/javascript-promises-callbacks-and-asyncawait-pu7432af)
-![](https://cdn.hackernoon.com/images/ryo32ch.jpg)
-ES6 came with many new features, but one of the best features was the official introduction of Promises. Promises allow you to write clean non-callback-centric code without ever having to worry about callback hell. Even if you never write your own promise, knowing how they work is incredibly important, since many newer parts of the JavaScript API use promises instead of callbacks. The core idea behind promises is that a promise represents the result of an asynchronous operation. 
-
-### [330. How I Became a 100x Developer - As a Junior](https://hackernoon.com/how-i-became-a-100x-developer-as-a-junior)
-![](https://cdn.hackernoon.com/images/PAvDPagOxFNLfOhJ2d7DslfLJV03-nc93oec.jpeg)
-The 10x / rockstar developer is a myth. Long live the 100x situational developer!
-
-### [331. How to Become a Top 1% Programmer: The Path You Have to Take](https://hackernoon.com/how-to-become-a-top-1percent-programmer-the-path-you-have-to-take)
+### [330. How to Become a Top 1% Programmer: The Path You Have to Take](https://hackernoon.com/how-to-become-a-top-1percent-programmer-the-path-you-have-to-take)
 ![](https://cdn.hackernoon.com/images/IYXqfnSadehiMIPPHRg7yoAmak12-0d0328p.png)
 So you want to become better than 99% of programmers. But you are doing the exact same things that 99% of programmers are already doing.
 
-### [332. 5 Best VS Code Extensions for Refactoring that Every Dev Should Know](https://hackernoon.com/5-best-vs-code-extensions-for-refactoring-that-every-dev-should-know-d25a3707)
+### [331. 5 Best VS Code Extensions for Refactoring that Every Dev Should Know](https://hackernoon.com/5-best-vs-code-extensions-for-refactoring-that-every-dev-should-know-d25a3707)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-5s9z3518.jpeg)
 If you’re looking at ways to clean up our code, reduce complexity and improve functionality - these refactoring extensions will help you move faster.
 
-### [333. Developing Software for Battery Management Systems (BMS)](https://hackernoon.com/developing-software-for-battery-management-systems-bms)
+### [332. JavaScript Promises, Callbacks, and Async/Await for Beginners](https://hackernoon.com/javascript-promises-callbacks-and-asyncawait-pu7432af)
+![](https://cdn.hackernoon.com/images/ryo32ch.jpg)
+ES6 came with many new features, but one of the best features was the official introduction of Promises. Promises allow you to write clean non-callback-centric code without ever having to worry about callback hell. Even if you never write your own promise, knowing how they work is incredibly important, since many newer parts of the JavaScript API use promises instead of callbacks. The core idea behind promises is that a promise represents the result of an asynchronous operation. 
+
+### [333. How I Became a 100x Developer - As a Junior](https://hackernoon.com/how-i-became-a-100x-developer-as-a-junior)
+![](https://cdn.hackernoon.com/images/PAvDPagOxFNLfOhJ2d7DslfLJV03-nc93oec.jpeg)
+The 10x / rockstar developer is a myth. Long live the 100x situational developer!
+
+### [334. Developing Software for Battery Management Systems (BMS)](https://hackernoon.com/developing-software-for-battery-management-systems-bms)
 ![](https://cdn.hackernoon.com/images/4HK5qyMbWfetPhAavzyTZrEb90N2-4v036j2.jpeg)
 Here, you will get to know more about BMS functionality, as well as battery states and how you can estimate them.
 
-### [334. Streamline Your Software Testing with Batch Testing](https://hackernoon.com/streamline-your-software-testing-with-batch-testing)
+### [335. Streamline Your Software Testing with Batch Testing](https://hackernoon.com/streamline-your-software-testing-with-batch-testing)
 ![](https://cdn.hackernoon.com/images/q3mCkt4AKOMDiAUKAn2E0hYUy1r1-u793r22.jpeg)
 By employing batch testing, we can validate various scenarios and edge cases related to user registration in a consolidated manner. 
 
-### [335. GO Design Patterns: An Introduction to Builder](https://hackernoon.com/go-design-patterns-an-introduction-to-builder)
+### [336. GO Design Patterns: An Introduction to Builder](https://hackernoon.com/go-design-patterns-an-introduction-to-builder)
 ![](https://cdn.hackernoon.com/images/VZCQ0e1Yv2eJAMyEidHksLMysJ73-kea3rrs.jpeg)
 Streamlining Your Code: An Introduction to the Builder Pattern in Go
 
-### [336. Data Lake Mysteries Revealed: Nessie, Dremio, and MinIO Make Waves](https://hackernoon.com/data-lake-mysteries-revealed-nessie-dremio-and-minio-make-waves)
+### [337. Data Lake Mysteries Revealed: Nessie, Dremio, and MinIO Make Waves](https://hackernoon.com/data-lake-mysteries-revealed-nessie-dremio-and-minio-make-waves)
 ![](https://cdn.hackernoon.com/images/jvVzpS01rreJW96FCNIzxddhWIw2-31832mi.jpeg)
 Let's see how Nessie, Dremio and MinIO work together to enhance data quality and collaboration in your data engineering workflows.
 
-### [337. Top Healthcare Software Development Companies](https://hackernoon.com/top-healthcare-software-development-companies-a3757cd6fde7)
+### [338. Top Healthcare Software Development Companies](https://hackernoon.com/top-healthcare-software-development-companies-a3757cd6fde7)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-mlj3z5j.jpeg)
 Technology influences all aspects of human life, and healthcare is no exception. The rapid technological evolution makes hospitals and other healthcare providers look for solutions that simplify and accelerate their routine.
-
-### [338. Build and Deploy a Blazor App Without Touching a Windows Machine](https://hackernoon.com/build-and-deploy-a-blazor-app-without-touching-a-windows-machine-oxp22fj)
-![](https://cdn.hackernoon.com/drafts/prg327t.png)
-Do you want to try out Blazor, but you're not a Windows person? Strictly a Linux developer? You're in luck. One of the goals of .NET Core is to be cross-platform, so today we'll see just how "cross-platform" it really is with Blazor, Microsoft's hot new front end development project.
 
 ### [339. Scrape Google Images with Node JS](https://hackernoon.com/scrape-google-images-with-node-js)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-wk931m4.jpeg)
 This tutorial will teach us to scrape Google Images with Node JS.
 
-### [340. Setting Up MinIO With Quickwit](https://hackernoon.com/setting-up-minio-with-quickwit)
+### [340. Build and Deploy a Blazor App Without Touching a Windows Machine](https://hackernoon.com/build-and-deploy-a-blazor-app-without-touching-a-windows-machine-oxp22fj)
+![](https://cdn.hackernoon.com/drafts/prg327t.png)
+Do you want to try out Blazor, but you're not a Windows person? Strictly a Linux developer? You're in luck. One of the goals of .NET Core is to be cross-platform, so today we'll see just how "cross-platform" it really is with Blazor, Microsoft's hot new front end development project.
+
+### [341. Setting Up MinIO With Quickwit](https://hackernoon.com/setting-up-minio-with-quickwit)
 ![](https://cdn.hackernoon.com/images/jvVzpS01rreJW96FCNIzxddhWIw2-1r832be.jpeg)
 MinIO is the right choice for Quickwit because of its industry-leading performance and scalability. 
 
-### [341. How to Integrate ‘devise’ and ‘omniauth-facebook’ Authentication To Your Rails App](https://hackernoon.com/how-to-integrate-devise-and-omniauth-facebook-authentication-to-your-rails-app-tyiv3xpi)
+### [342. How to Integrate ‘devise’ and ‘omniauth-facebook’ Authentication To Your Rails App](https://hackernoon.com/how-to-integrate-devise-and-omniauth-facebook-authentication-to-your-rails-app-tyiv3xpi)
 ![](https://images.unsplash.com/photo-1511367461989-f85a21fda167?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Introduction
 
-### [342. 8 Best Java Online Courses for Beginners and Experienced Programmers](https://hackernoon.com/10-courses-to-learn-java-in-2019-47r63w3b)
+### [343. 8 Best Java Online Courses for Beginners and Experienced Programmers](https://hackernoon.com/10-courses-to-learn-java-in-2019-47r63w3b)
 ![](https://cdn.hackernoon.com/drafts/a6xq3zun.png)
 If you are a computer science graduate or a programmer who wants to learn Java and looking for some awesome resources like books, tutorials, and online courses then you have come to the right place. 
 
-### [343. Exploring Monads in JavaScript for File Handling](https://hackernoon.com/exploring-monads-in-javascript-for-file-handling)
+### [344. Exploring Monads in JavaScript for File Handling](https://hackernoon.com/exploring-monads-in-javascript-for-file-handling)
 ![](https://cdn.hackernoon.com/images/IvJ8puRpCzbvib1VYeG8JSQfwE12-cca3lth.png)
 Monad is not a fantastical creature or a rare gemstone. Instead, it's a design pattern from the functional programming (FP) paradigm.
 
-### [344. The Clean Code Book for JavaScript Developers: A Quick Summary](https://hackernoon.com/the-clean-code-book-for-javascript-developers-a-quick-summary-m82b373s)
+### [345. The Clean Code Book for JavaScript Developers: A Quick Summary](https://hackernoon.com/the-clean-code-book-for-javascript-developers-a-quick-summary-m82b373s)
 ![](https://cdn.hackernoon.com/images/zaFsi86habTuCYRikyd3UBKEgKE3-p04j35qt.png)
 This blog post summarizes the book “Clean Code” written by Robert Martin on how to write a readable and maintainable code.
-
-### [345. The Complete Guide to AI Agent Memory Files (CLAUDE.md, AGENTS.md, and Beyond)
-](https://hackernoon.com/the-complete-guide-to-ai-agent-memory-files-claudemd-agentsmd-and-beyond)
-![](https://cdn.hackernoon.com/images/mpDOI8AQeYeu5cc9VGleWjM9xvB2-mu0383b.png)
-Learn how CLAUDE.md, AGENTS.md, and AI memory files work. Covers file hierarchy, auto-memory, @imports, and which files you actually need for your setup.
 
 ### [346. Designing an On-Demand Video Streaming Service](https://hackernoon.com/designing-an-on-demand-video-streaming-service)
 ![](https://cdn.hackernoon.com/images/OAWNH2u4oMfvIQnqBHkGhGDHPN72-mfd3lsk.jpeg)
@@ -1408,54 +1410,54 @@ The popular implementations of an on-demand video streaming service are the foll
 ![](https://cdn.hackernoon.com/images/ios-development-zpze3vn87s8rf8dhpmf9jomo.png)
 A Guide to Grand Central Dispatch (GCD) in iOS development
 
-### [348. GitHub Copilot Review: Does it Really Give a 55% Speed Boost to Development?](https://hackernoon.com/github-copilot-review-does-it-really-give-a-55percent-speed-boost-to-development)
-![](https://cdn.hackernoon.com/images/dAcjf9CSWIVr0diVRvfXevBZVfD2-fs835ay.jpeg)
-This article presents a GitHub Copilot review and assesses its impact on enhancing development speed in real-life scenarios.
-
-### [349. Event Bus in Microservice Architecture With RabbitMQ and Python](https://hackernoon.com/event-bus-in-microservice-architecture-with-rabbitmq-and-python)
+### [348. Event Bus in Microservice Architecture With RabbitMQ and Python](https://hackernoon.com/event-bus-in-microservice-architecture-with-rabbitmq-and-python)
 ![](https://cdn.hackernoon.com/images/m1wueblibMad08lcHTUeoFDuGGg2-jb833kz.webp)
 An “Event bus” is a design pattern that enables different parts of a software system to communicate with each other by publishing and subscribing events. Produc
+
+### [349. GitHub Copilot Review: Does it Really Give a 55% Speed Boost to Development?](https://hackernoon.com/github-copilot-review-does-it-really-give-a-55percent-speed-boost-to-development)
+![](https://cdn.hackernoon.com/images/dAcjf9CSWIVr0diVRvfXevBZVfD2-fs835ay.jpeg)
+This article presents a GitHub Copilot review and assesses its impact on enhancing development speed in real-life scenarios.
 
 ### [350. Svelte: Communication Between Components](https://hackernoon.com/svelte-communication-between-components-193i32l5)
 ![](https://images.unsplash.com/photo-1453738773917-9c3eff1db985?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 In this mini-tutorial we are going to see two different ways of communication between components in Svelte 3: a callback passed as prop and event dispatcher.
 
-### [351. Creating React Dashboard Ultimate Guide Part 1: Overview and Analytics Backend](https://hackernoon.com/react-dashboard-ultimate-guide-part-1-overview-and-analytics-backend-tnr3tre)
+### [351. Why Delphi and Python are All You Will Ever Need to Succeed](https://hackernoon.com/why-delphi-and-python-are-all-you-will-ever-need-to-succeed)
+![](https://cdn.hackernoon.com/images/PA0fnWDjxvVYx1SHEh857BzHi0d2-7m13690.jpeg)
+In the oeuvre of practical, stable and usefully general-purpose programming languages are two that have stood the test of time: Object Pascal and Python.
+
+### [352. Creating React Dashboard Ultimate Guide Part 1: Overview and Analytics Backend](https://hackernoon.com/react-dashboard-ultimate-guide-part-1-overview-and-analytics-backend-tnr3tre)
 ![](https://cdn.hackernoon.com/images/kegn3tsa.jpg)
 Below you can see the demo of the final application. Online demo is available here.
 
-### [352. The 5 Leading AI Coding Tools That Engineering Teams Need to Try](https://hackernoon.com/the-5-leading-ai-coding-tools-that-engineering-teams-need-to-try)
+### [353. The 5 Leading AI Coding Tools That Engineering Teams Need to Try](https://hackernoon.com/the-5-leading-ai-coding-tools-that-engineering-teams-need-to-try)
 ![](https://cdn.hackernoon.com/images/engineers-looking-at-a-flow-chart-clgz42kam000001s65sro07mr.png)
 Discover 5 top AI coding tools revolutionising software engineering. Enhance team efficiency, accelerate development, and stay competitive. 
 
-
-### [353. Why Delphi and Python are All You Will Ever Need to Succeed](https://hackernoon.com/why-delphi-and-python-are-all-you-will-ever-need-to-succeed)
-![](https://cdn.hackernoon.com/images/PA0fnWDjxvVYx1SHEh857BzHi0d2-7m13690.jpeg)
-In the oeuvre of practical, stable and usefully general-purpose programming languages are two that have stood the test of time: Object Pascal and Python.
 
 ### [354. Create a Full Autocomplete Search Application with Elasticsearch, Kibana, NestJS and React](https://hackernoon.com/create-a-full-autocomplete-search-application-with-elasticsearch-kibana-nestjs-and-react)
 ![](https://cdn.hackernoon.com/images/JaI04JxjP5WiiJKlOeLrImL5dAw2-yh93n66.jpeg)
 In this article, I will be walking you through how to set up elasticsearch on your PC.
 
-### [355. Procrastination From a Remote Programmer's Perspective](https://hackernoon.com/procrastination-from-a-remote-programmers-perspective-4np31l5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMsR1S76Pr8XibciqwaeZRXTFpAz1-iae3wnd.jpeg?alt=media&token=f3d8c598-ef21-478e-b692-a346c28232c5)
-I've read many articles on procrastination and motivation, but I've always found in them a complete or partial misunderstanding of the problem. Or just inconsistency with my realities – after all, people are different. I'm going to describe what I know from my own experience and what helps me personally. Maybe it will help someone else.
-
-### [356. How to Code a Blog With ASP.NET Core and C#](https://hackernoon.com/coding-a-blog-with-c-tk9p32po)
+### [355. How to Code a Blog With ASP.NET Core and C#](https://hackernoon.com/coding-a-blog-with-c-tk9p32po)
 ![](https://cdn.hackernoon.com/images/br162ggs.jpg)
 Learning by doing
+
+### [356. Procrastination From a Remote Programmer's Perspective](https://hackernoon.com/procrastination-from-a-remote-programmers-perspective-4np31l5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMsR1S76Pr8XibciqwaeZRXTFpAz1-iae3wnd.jpeg?alt=media&token=f3d8c598-ef21-478e-b692-a346c28232c5)
+I've read many articles on procrastination and motivation, but I've always found in them a complete or partial misunderstanding of the problem. Or just inconsistency with my realities – after all, people are different. I'm going to describe what I know from my own experience and what helps me personally. Maybe it will help someone else.
 
 ### [357. Here's What You'd Typically See In A Full Stack Developer Job Description](https://hackernoon.com/heres-what-youd-typically-see-in-a-full-stack-developer-job-description-593b33vu)
 ![](https://cdn.hackernoon.com/images/iFi5tolUgxW81No4JJjbMu7c37s1-mm1h832i8.jpeg)
 If a career as a full-stack developer caught your eye, you’re not alone. It’s one of the most sought-after jobs in the world and many people interested in tech 
 
-### [358. React useRef Hook Explained with Examples](https://hackernoon.com/react-useref-hook-explained-with-examples-cc1z35jx)
-![](https://cdn.hackernoon.com/images/SnVhdDNm3fMGfftKZO7mnXldvQm2-mj4539q9.jpeg)
-Well, we all know that ref helps us to get access to the DOM. But let's consider next situation, we have some React component and we want to know how many times this component was rendered. How can we achieve that? Well, maybe we can use React useEffect and useState hooks to determine that the component was re-rendered. Something like this:
-
-### [359. The Throw Keyword was a Mistake](https://hackernoon.com/the-throw-keyword-was-a-mistake-l9e532di)
+### [358. The Throw Keyword was a Mistake](https://hackernoon.com/the-throw-keyword-was-a-mistake-l9e532di)
 ![](https://cdn.hackernoon.com/drafts/uomg32om.png)
 Exception Handling
+
+### [359. React useRef Hook Explained with Examples](https://hackernoon.com/react-useref-hook-explained-with-examples-cc1z35jx)
+![](https://cdn.hackernoon.com/images/SnVhdDNm3fMGfftKZO7mnXldvQm2-mj4539q9.jpeg)
+Well, we all know that ref helps us to get access to the DOM. But let's consider next situation, we have some React component and we want to know how many times this component was rendered. How can we achieve that? Well, maybe we can use React useEffect and useState hooks to determine that the component was re-rendered. Something like this:
 
 ### [360. Unit Testing Functionality: Testing setTimeout and setInterval](https://hackernoon.com/unit-testing-functionality-testing-settimeout-and-setinterval-9b1i3wqn)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-b41c3w1g.jpeg?alt=media&token=9e106614-9690-4122-bb31-8126f92f067e)
@@ -1469,385 +1471,393 @@ Embark on an expedition of exploration and mapping! Learn how to breathe life in
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bw1236h.jpeg)
 Discover how React 19's new hooks—useActionState, useFormStatus, and useOptimistic—simplify form handling with less boilerplate and cleaner code. 
 
-### [363. Why I’m Jealous of Today’s Builders](https://hackernoon.com/why-im-jealous-of-todays-builders)
+### [363. We Were Promised Jetpacks: Why AI Isn't Accelerating Feature Delivery](https://hackernoon.com/we-were-promised-jetpacks-why-ai-isnt-accelerating-feature-delivery)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-o383eof.png)
+Despite AI coding tools generating more code than ever, engineering productivity lags because these tools excel at building, not debugging or operating systems.
+
+### [364. Why I’m Jealous of Today’s Builders](https://hackernoon.com/why-im-jealous-of-todays-builders)
 ![](https://cdn.hackernoon.com/images/HFWIQyXZUkQ1LZbVi8afTyhiP8E3-ic03j7k.png)
 It's now possible to have an entire AI product team, which empowers solo founders to build faster, reduce cognitive load, and scale smarter with automation. 
 
-### [364. Load Testing for High-Load Distributed Systems](https://hackernoon.com/load-testing-for-high-load-distributed-systems)
+### [365. Load Testing for High-Load Distributed Systems](https://hackernoon.com/load-testing-for-high-load-distributed-systems)
 ![](https://cdn.hackernoon.com/images/Ktvukgb0o4QLh1NPEpCdX8GfSrE3-jxb36x3.jpeg)
 Explore load testing strategies for high-load services, discussing staging, isolation, and emulation. 
 
-### [365. How Should You Estimate Bugs?](https://hackernoon.com/should-you-estimate-bugs-4ocf37t2)
+### [366. How Should You Estimate Bugs?](https://hackernoon.com/should-you-estimate-bugs-4ocf37t2)
 ![](https://cdn.hackernoon.com/drafts/486o313e.png)
 Countless hours have been spent by teams all over the world debating over this. But really, should you?
 
-### [366. How To Code Gas-Less Tokens on Ethereum](https://hackernoon.com/how-to-code-gas-less-tokens-on-ethereum-43u3ew4)
+### [367. How To Code Gas-Less Tokens on Ethereum](https://hackernoon.com/how-to-code-gas-less-tokens-on-ethereum-43u3ew4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9nMyFjQNicRJ5HwksmBytJBySMi2-qp8p2wsp.jpeg?alt=media&token=6e627d74-6eea-497e-b37b-873c0d82ef96)
 
 
-### [367. How to Get Started with Flowbite, an Open Source Tailwind CSS component Library](https://hackernoon.com/how-to-get-started-with-flowbite-an-open-source-tailwind-css-component-library)
+### [368. How to Get Started with Flowbite, an Open Source Tailwind CSS component Library](https://hackernoon.com/how-to-get-started-with-flowbite-an-open-source-tailwind-css-component-library)
 ![](https://cdn.hackernoon.com/images/27nQ7cjAKuMWexJBUQoXd7m4sA33-do937j6.png)
 Learn how to install and get started with Flowbite, an open-source component library built on top of the Tailwind CSS utility classes.
 
-### [368. How to Become a Cloud Developer: Requirements, Salary, and Courses](https://hackernoon.com/how-to-become-a-cloud-developer-requirements-salary-and-courses-694633lj)
+### [369. How to Become a Cloud Developer: Requirements, Salary, and Courses](https://hackernoon.com/how-to-become-a-cloud-developer-requirements-salary-and-courses-694633lj)
 ![](https://cdn.hackernoon.com/images/iFi5tolUgxW81No4JJjbMu7c37s1-ta1nc32d3.jpeg)
 Now is a fantastic time to explore a career in cloud development. Cloud Developers are a hot commodity, as more companies are adopting cloud computing services.
 
-### [369. Ruby On Rails Command Line: Rails Scaffolding Tutorial](https://hackernoon.com/ruby-on-rails-command-line-rails-scaffolding-tutorial-8312j3yhu)
-![](https://cdn.hackernoon.com/images/ac1vq3y8f.jpg)
-Scaffolding in Ruby on Rails refers to the auto-generation of a set of a model, views and a controller usually used for a single database table.
-
-### [370. PHP Frameworks Explained in 5 Simple Questions](https://hackernoon.com/php-frameworks-explained-in-5-simple-questions-uvz31i7)
-![](https://cdn.hackernoon.com/drafts/4l4331jo.png)
-If you are making your first steps in the world of web development, either as a prospective programmer or a potential employer, it won’t be long until you come across PHP. It’s no surprise, as PHP ranks among the most popular web programming languages. On top of that, the whopping 79% of all websites are built on PHP, and the web tools you use daily, like Facebook, Wikipedia, Yahoo, MailChimp, and Pinterest, are among them. 
-
-### [371. Cascading Style Sheets (CSS) for Dummies](https://hackernoon.com/cascading-style-sheets-css-for-dummies)
+### [370. Cascading Style Sheets (CSS) for Dummies](https://hackernoon.com/cascading-style-sheets-css-for-dummies)
 ![](https://cdn.hackernoon.com/images/PM9nNoX7cegr2DQOSuSuYP4k6Sd2-e20261d.jpeg)
 Here is a short tutorial on CSS for beginners.
 
-### [372. 📚 Android Components Architecture in a Modular Word](https://hackernoon.com/android-components-architecture-in-a-modular-word-d0k32i6)
+### [371. Ruby On Rails Command Line: Rails Scaffolding Tutorial](https://hackernoon.com/ruby-on-rails-command-line-rails-scaffolding-tutorial-8312j3yhu)
+![](https://cdn.hackernoon.com/images/ac1vq3y8f.jpg)
+Scaffolding in Ruby on Rails refers to the auto-generation of a set of a model, views and a controller usually used for a single database table.
+
+### [372. PHP Frameworks Explained in 5 Simple Questions](https://hackernoon.com/php-frameworks-explained-in-5-simple-questions-uvz31i7)
+![](https://cdn.hackernoon.com/drafts/4l4331jo.png)
+If you are making your first steps in the world of web development, either as a prospective programmer or a potential employer, it won’t be long until you come across PHP. It’s no surprise, as PHP ranks among the most popular web programming languages. On top of that, the whopping 79% of all websites are built on PHP, and the web tools you use daily, like Facebook, Wikipedia, Yahoo, MailChimp, and Pinterest, are among them. 
+
+### [373. 📚 Android Components Architecture in a Modular Word](https://hackernoon.com/android-components-architecture-in-a-modular-word-d0k32i6)
 ![](https://cdn.hackernoon.com/drafts/bz2ml32hp.png)
 Marvel kotlin sample application using android components architecture in a modular project
 
-### [373. What Is The Ultimate Search Engine For Developers - You.com vs Google vs DDG](https://hackernoon.com/what-is-the-ultimate-search-engine-for-developers-youcom-vs-google-vs-ddg)
+### [374. What Is The Ultimate Search Engine For Developers - You.com vs Google vs DDG](https://hackernoon.com/what-is-the-ultimate-search-engine-for-developers-youcom-vs-google-vs-ddg)
 ![](https://cdn.hackernoon.com/images/vLdnVhWwyhfSFQROZt7q2eW6f5R2-r0n3otp.jpeg)
 I wanted to compare You.com to DuckDuckGo (a popular and also privacy-oriented search engine) and Google, probably the default for most developers.
-
-### [374. 10 Best Python IDEs & Code Editors: 2020 Edition](https://hackernoon.com/10-best-python-ides-and-code-editors-2020-edition-0r4836sw)
-![](https://cdn.hackernoon.com/drafts/yb7f3631.png)
-Since its advent in 1991, Python has been the choice of coders due to its simple features that include ease of understanding and readability of code but not limited to just that. There have been lots of changes in the codebase over time due to the contribution from developers worldwide. Simple syntax and faster execution make Python a favorable language among programmers. It is used widely to create websites and primarily in big data operations. To make the task of running Python programs easier, many IDEs have been developed for programmers. These environments are equally suitable for beginners and advanced coders with a variety of in-built extensions, libraries, and plugins to ease the task of program execution. Let's walk you through these six IDEs that can ease your work with Python:
 
 ### [375. How to Build a Scalable Webhook Delivery System With Kafka, SQS & S3](https://hackernoon.com/how-to-build-a-scalable-webhook-delivery-system-with-kafka-sqs-and-s3)
 ![](https://cdn.hackernoon.com/images/pZn4Fzw7V6NV95cw0QLlvkgc0gM2-pgb3myx.jpeg)
 How to build your own webhook delivery system using Apache Kafka, AWS SQS and S3
 
-### [376. Top 10 Business Development Tools in 2020 and 2021](https://hackernoon.com/top-10-business-development-tools-in-2020-49583zmf)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ss1834p0.jpeg)
-Slack, Rocketbolt, and Trello are among the best business development tools in 2021. In this article, we'll go over 10 tools your business should consider.
+### [376. 10 Best Python IDEs & Code Editors: 2020 Edition](https://hackernoon.com/10-best-python-ides-and-code-editors-2020-edition-0r4836sw)
+![](https://cdn.hackernoon.com/drafts/yb7f3631.png)
+Since its advent in 1991, Python has been the choice of coders due to its simple features that include ease of understanding and readability of code but not limited to just that. There have been lots of changes in the codebase over time due to the contribution from developers worldwide. Simple syntax and faster execution make Python a favorable language among programmers. It is used widely to create websites and primarily in big data operations. To make the task of running Python programs easier, many IDEs have been developed for programmers. These environments are equally suitable for beginners and advanced coders with a variety of in-built extensions, libraries, and plugins to ease the task of program execution. Let's walk you through these six IDEs that can ease your work with Python:
 
-### [377. Getting Your First Job As A Junior Developer: The Psychological Perspective ](https://hackernoon.com/getting-your-first-job-as-a-junior-developer-the-psychological-perspective-cmu3335)
-![](https://hackernoon.com/images/EbNcHc7GyEf5oWemCou6VPeHk0C3-tuf432x0.jpeg)
-Illuminating the psychology behind Junior Dev hiring
-
-### [378. What Is the Difference Between Enum, Varchar and Int Data Types in MySQL](https://hackernoon.com/what-is-the-difference-between-enum-varchar-and-int-data-types-in-mysql)
+### [377. What Is the Difference Between Enum, Varchar and Int Data Types in MySQL](https://hackernoon.com/what-is-the-difference-between-enum-varchar-and-int-data-types-in-mysql)
 ![](https://cdn.hackernoon.com/images/XIlys8PrM8eJ7n0qjETjuC0lbkB2-wc93nxs.jpeg)
 The 'varchar' and 'enum' fields are different types of data types. They are different in terms of performance, easiness to use, and support for feature changes.
 
-### [379. What Is GitOps And Why Is It (Almost) Useless? Part 2](https://hackernoon.com/what-is-gitops-and-why-is-it-almost-useless-part-2)
+### [378. Getting Your First Job As A Junior Developer: The Psychological Perspective ](https://hackernoon.com/getting-your-first-job-as-a-junior-developer-the-psychological-perspective-cmu3335)
+![](https://hackernoon.com/images/EbNcHc7GyEf5oWemCou6VPeHk0C3-tuf432x0.jpeg)
+Illuminating the psychology behind Junior Dev hiring
+
+### [379. Top 10 Business Development Tools in 2020 and 2021](https://hackernoon.com/top-10-business-development-tools-in-2020-49583zmf)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ss1834p0.jpeg)
+Slack, Rocketbolt, and Trello are among the best business development tools in 2021. In this article, we'll go over 10 tools your business should consider.
+
+### [380. What Is GitOps And Why Is It (Almost) Useless? Part 2](https://hackernoon.com/what-is-gitops-and-why-is-it-almost-useless-part-2)
 ![](https://cdn.hackernoon.com/images/mCgXovxRzaUalbCzNWoo2Mwmj6P2-dia3tmn.jpeg)
 I discuss a multiple environments problem in GitOps as well as compare CI Ops vs GitOps. I analyze a rollback procedure, multiple clusters problem, and security
 
-### [380. Choosing Between Ruby on Rails and Laravel for App Development [A How To Guide]](https://hackernoon.com/choosing-between-ruby-on-rails-and-laravel-for-app-development-a-how-to-guide-05bu3bjc)
+### [381. Choosing Between Ruby on Rails and Laravel for App Development [A How To Guide]](https://hackernoon.com/choosing-between-ruby-on-rails-and-laravel-for-app-development-a-how-to-guide-05bu3bjc)
 ![](https://cdn.hackernoon.com/drafts/be1q37lg.png)
 When you are looking for a software development partner for your app idea you obviously want to make sure, that your product will be developed in the best technology possible.
 
-### [381. How To Use Environment Variables In Docker Compose File](https://hackernoon.com/how-to-use-environment-variables-in-docker-compose-file-l2n32ou)
+### [382. How To Use Environment Variables In Docker Compose File](https://hackernoon.com/how-to-use-environment-variables-in-docker-compose-file-l2n32ou)
 ![](https://cdn.hackernoon.com/drafts/ydjr3xdz.png)
 If I want to use different credentials on different servers, environment variables work great with docker compose.
 
-### [382. Popular Codeless Open Source Testing Tools](https://hackernoon.com/popular-codeless-open-source-testing-tools)
+### [383. Popular Codeless Open Source Testing Tools](https://hackernoon.com/popular-codeless-open-source-testing-tools)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ky93jnu.jpeg)
 Programming languages have been a core part of software development. However, popular codeless open source testing tools are making it possible to go without.
 
-### [383. How to Measure Your Technical Debt: 8 Metrics to Consider](https://hackernoon.com/how-to-measure-your-technical-debt-8-metrics-to-consider)
+### [384. How to Measure Your Technical Debt: 8 Metrics to Consider](https://hackernoon.com/how-to-measure-your-technical-debt-8-metrics-to-consider)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-rf33acp.jpeg)
 Technical debt metrics help you to monitor deficiencies in your current codebase. We decided to look at how they work, and pick out the best tracking tools.
 
-### [384. How to Build an Airbnb clone with React and ElasticSearch](https://hackernoon.com/how-to-build-an-airbnb-clone-with-react-and-elasticsearch-822r73yna)
+### [385. How to Build an Airbnb clone with React and ElasticSearch](https://hackernoon.com/how-to-build-an-airbnb-clone-with-react-and-elasticsearch-822r73yna)
 ![](https://cdn.hackernoon.com/images/5e2xv3y79.jpg)
 This blog post will help you build powerful search UI experiences similar to Airbnb's. I will do this using ReactiveSearch - the most popular React UI components library for building search interfaces. I will do this by breaking down the UI into components so this will be helpful to build any search UI. In the process, you will also learn about about how to work with ElasticSearch.
-
-### [385. Part 1: Why Software Requirements In The Real World Are Hard](https://hackernoon.com/why-software-requirements-in-the-real-world-are-hard-953iv3z3d)
-![](https://cdn.hackernoon.com/drafts/flmzl3zfy.png)
-This is the first in a series of posts about my experiences developing software in healthcare with my team over the last few years. For most of that time we’ve worked in eye care, with doctors and patients in major centres in Europe, North America and Australia, as well as with global life science companies, on projects aimed at improving care delivery and patient outcomes. 
 
 ### [386. How to Sort an Array by Date in Javascript](https://hackernoon.com/how-to-sort-an-array-by-date-in-javascript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-3j93ozp.jpeg)
 We've all been in a situation in Javascript where we have a set of data, all with different dates, which we want to sort by date quickly. 
 
-### [387. DONT Use REST for Microservices, OK?](https://hackernoon.com/dont-use-rest-for-micro-services-ju7k328m)
-![](https://images.unsplash.com/photo-1494367067577-502b2c602fcc?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-You shouldn't be using a REST or RESTful interface for communication between your microservices. I'm not saying that to be controversial, I'm saying it because that's not what REST was designed for, it's not what REST is good at and it's definitely not the best nor easiest option out there.
-
-### [388. Exploring Traefik: A Reverse Proxy for Docker](https://hackernoon.com/exploring-traefik-a-reverse-proxy-for-docker)
+### [387. Exploring Traefik: A Reverse Proxy for Docker](https://hackernoon.com/exploring-traefik-a-reverse-proxy-for-docker)
 ![](https://cdn.hackernoon.com/images/ZEXO22W1auWOWobkpmnuT1gqiIO2-yg93pbn.jpeg)
 Learn how to proxy sites and API in a few examples, automate getting certificates and even add some middleware (to add headers for example). YAML tutorial.
 
-### [389. How to Pass Optional Parameters in Typescript](https://hackernoon.com/how-to-pass-optional-parameters-in-typescript)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-f293opt.jpeg)
-If you try to run a function with a different number of parameters than the function actually has, you'll get an error in TypeScript. Here's how to get past it.
+### [388. Part 1: Why Software Requirements In The Real World Are Hard](https://hackernoon.com/why-software-requirements-in-the-real-world-are-hard-953iv3z3d)
+![](https://cdn.hackernoon.com/drafts/flmzl3zfy.png)
+This is the first in a series of posts about my experiences developing software in healthcare with my team over the last few years. For most of that time we’ve worked in eye care, with doctors and patients in major centres in Europe, North America and Australia, as well as with global life science companies, on projects aimed at improving care delivery and patient outcomes. 
+
+### [389. DONT Use REST for Microservices, OK?](https://hackernoon.com/dont-use-rest-for-micro-services-ju7k328m)
+![](https://images.unsplash.com/photo-1494367067577-502b2c602fcc?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+You shouldn't be using a REST or RESTful interface for communication between your microservices. I'm not saying that to be controversial, I'm saying it because that's not what REST was designed for, it's not what REST is good at and it's definitely not the best nor easiest option out there.
 
 ### [390. 7 Best Practices for Speeding Up Code Reviews](https://hackernoon.com/7-best-practices-for-speeding-up-code-reviews)
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-4u93uze.jpeg)
 Code reviews can be painful. But, there are plenty of ways we can make the process a better experience for both the code author and the code reviewer.
 
-### [391. Essential Guide to Image Processing with WebAssembly](https://hackernoon.com/essential-guide-to-image-processing-with-webassembly-q11u33hq)
+### [391. How to Pass Optional Parameters in Typescript](https://hackernoon.com/how-to-pass-optional-parameters-in-typescript)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-f293opt.jpeg)
+If you try to run a function with a different number of parameters than the function actually has, you'll get an error in TypeScript. Here's how to get past it.
+
+### [392. Essential Guide to Image Processing with WebAssembly](https://hackernoon.com/essential-guide-to-image-processing-with-webassembly-q11u33hq)
 ![](https://cdn.hackernoon.com/images/2jmT8Pmc7QMn8DtMC0v9qnNrnKa2-lc50331u.jpeg)
 Simple image manipulations with WebAssembly and AssemblyScript in the web browser.
 
-### [392. AWS ECS vs AWS Lambda Compared](https://hackernoon.com/aws-ecs-vs-aws-lambda-compared)
+### [393. AWS ECS vs AWS Lambda Compared](https://hackernoon.com/aws-ecs-vs-aws-lambda-compared)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-or037ks.jpeg)
 Comparing cloud services? Read our Lambda vs ECS guide. Consider programming language, pricing, and the benefits.
 
-### [393. Ockam Routing: Building End-to-End Channels](https://hackernoon.com/ockam-routing-building-secure-end-to-end-channels)
+### [394. Ockam Routing: Building End-to-End Channels](https://hackernoon.com/ockam-routing-building-secure-end-to-end-channels)
 ![](https://cdn.hackernoon.com/images/46r7B36ZH3SbJMt0oevk5FjrjTH2-gr937l3.jpeg)
 Learn how  to create secure channels over multi-hop, multi-protocol routes which can span various network topologies and transport protocols.
 
-### [394. A Step-By-Step Guide to Unit Testing for Express API](https://hackernoon.com/a-step-by-step-guide-to-unit-testing-for-express-api)
+### [395. A Step-By-Step Guide to Unit Testing for Express API](https://hackernoon.com/a-step-by-step-guide-to-unit-testing-for-express-api)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-3f93pd2.jpeg)
 A detailed step-by-step guide to writing unit tests for your node express API using mocha, chai, sinon, supertest, rewire, and nyc.
 
-### [395. How to Create a Multiple Files Uploader for Your PHP Application](https://hackernoon.com/how-to-create-a-multiple-files-uploader-for-your-php-application)
-![](https://cdn.hackernoon.com/images/0sm1KIKmbZhu9AD2GAr4cKywoN43-5la3ntl.jpeg)
-Developers should know how to make a file uploader with PHP to have a better file upload feature.
-
-### [396. Aptible Enclave: Elevating Data Security in DevOps Environments](https://hackernoon.com/aptible-enclave-elevating-data-security-in-devops-environments)
-![](https://cdn.hackernoon.com/images/1GHguqurCtelzU8lC8jCPdHwMFP2-5h93ygv.jpeg)
-Aptible Enclave fortifies data security in DevOps with its secure infrastructure for database management.
-
-### [397. How ColBERT Helps Developers Overcome the Limits of RAG](https://hackernoon.com/how-colbert-helps-developers-overcome-the-limits-of-rag)
-![](https://cdn.hackernoon.com/images/qiQzyjN6LvaRDmVgSbd9gXT8bty2-4w832us.png)
-Learn about ColBERT, a new way of scoring passage relevance using a BERT language model that substantially solves the problems with dense passage retrieval. 
-
-### [398. How You Can Control Your Smart Home Through a Telegram Bot](https://hackernoon.com/controlling-your-smart-home-over-a-telegram-bot-3z742xc5)
-![](https://cdn.hackernoon.com/drafts/rk17t2xbw.png)
-You’ve got your smart home fully set up. You regularly like to show off with your friends how cool it is to turn on light bulbs, play videos and movies with a hint to your voice assistant, make coffee and adjust the thermostat with a tap on an app. Congratulations! 
-
-### [399. Firebase, SendBird or Socket.io: What's Best To Build A Chat App](https://hackernoon.com/firebase-sendbird-or-socketio-whats-best-to-build-a-chat-app-yb1035sm)
-![](https://cdn.hackernoon.com/images/dMsvaOOJRzcdpnNTefT12X0S40Y2-ft47342b.jpeg)
-Chat solutions can be split into two categories: ready-made chat platforms and technologies for exchanging data between client and server. Which one to choose?
-
-### [400. 3 Steps To Learn Go: Moving From JavaScript and Python to Golang ](https://hackernoon.com/from-javascript-and-python-to-golang-3-steps-to-learn-go-programming-pus32y0)
-![](https://cdn.hackernoon.com/images/mo2a329i.jpg)
-Mastering a programming language takes years of time but learning a new language does not. And Trust me, Nobody is perfect when it comes to coding. As a software engineer, one should be at least familiar with minimum 4–5 different languages or at least he should know how to learn a new language in small amount of time. 
-
-### [401. How to Do Speech Recognition in Python](https://hackernoon.com/how-to-do-speech-recognition-in-python-bk1234w9)
+### [396. How to Do Speech Recognition in Python](https://hackernoon.com/how-to-do-speech-recognition-in-python-bk1234w9)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-bul297q.jpeg)
 In my free time, I am attempting to build my own smart home devices. One feature they will need is speech recognition. While I am not certain yet as to how exactly I want to implement that feature, I thought it would be interesting to dive in and explore different options. The first I wanted to try was the SpeechRecognition library.
 
-### [402. Concurrency in Golang And WorkerPool [Part 1]](https://hackernoon.com/concurrency-in-golang-and-workerpool-part-1-e9n31ao)
-![](https://cdn.hackernoon.com/images/3Ur17PtJhkV5UkAAJFu6z8t0fKg1-cz631ep.jpeg)
-Project Link: https://github.com/Joker666/goworkerpool
+### [397. How to Create a Multiple Files Uploader for Your PHP Application](https://hackernoon.com/how-to-create-a-multiple-files-uploader-for-your-php-application)
+![](https://cdn.hackernoon.com/images/0sm1KIKmbZhu9AD2GAr4cKywoN43-5la3ntl.jpeg)
+Developers should know how to make a file uploader with PHP to have a better file upload feature.
 
-### [403. Using Next.js + Playwright + GitHub Actions to Make a To-Do App](https://hackernoon.com/using-nextjs-playwright-github-actions-to-make-a-to-do-app)
+### [398. Aptible Enclave: Elevating Data Security in DevOps Environments](https://hackernoon.com/aptible-enclave-elevating-data-security-in-devops-environments)
+![](https://cdn.hackernoon.com/images/1GHguqurCtelzU8lC8jCPdHwMFP2-5h93ygv.jpeg)
+Aptible Enclave fortifies data security in DevOps with its secure infrastructure for database management.
+
+### [399. How ColBERT Helps Developers Overcome the Limits of RAG](https://hackernoon.com/how-colbert-helps-developers-overcome-the-limits-of-rag)
+![](https://cdn.hackernoon.com/images/qiQzyjN6LvaRDmVgSbd9gXT8bty2-4w832us.png)
+Learn about ColBERT, a new way of scoring passage relevance using a BERT language model that substantially solves the problems with dense passage retrieval. 
+
+### [400. Stop Rebuilds! Reload Your Code Live in a Docker Container With Bind Mounts](https://hackernoon.com/stop-rebuilds-reload-your-code-live-in-a-docker-container-with-bind-mounts)
+![](https://cdn.hackernoon.com/images/MPMbNuXqflZiPOzulSvbJDce0ya2-mi13b0r.png)
+Docker lets you change a line of code, stop the container, rebuild the image, and run a new container in minutes.
+
+### [401. Firebase, SendBird or Socket.io: What's Best To Build A Chat App](https://hackernoon.com/firebase-sendbird-or-socketio-whats-best-to-build-a-chat-app-yb1035sm)
+![](https://cdn.hackernoon.com/images/dMsvaOOJRzcdpnNTefT12X0S40Y2-ft47342b.jpeg)
+Chat solutions can be split into two categories: ready-made chat platforms and technologies for exchanging data between client and server. Which one to choose?
+
+### [402. How You Can Control Your Smart Home Through a Telegram Bot](https://hackernoon.com/controlling-your-smart-home-over-a-telegram-bot-3z742xc5)
+![](https://cdn.hackernoon.com/drafts/rk17t2xbw.png)
+You’ve got your smart home fully set up. You regularly like to show off with your friends how cool it is to turn on light bulbs, play videos and movies with a hint to your voice assistant, make coffee and adjust the thermostat with a tap on an app. Congratulations! 
+
+### [403. 3 Steps To Learn Go: Moving From JavaScript and Python to Golang ](https://hackernoon.com/from-javascript-and-python-to-golang-3-steps-to-learn-go-programming-pus32y0)
+![](https://cdn.hackernoon.com/images/mo2a329i.jpg)
+Mastering a programming language takes years of time but learning a new language does not. And Trust me, Nobody is perfect when it comes to coding. As a software engineer, one should be at least familiar with minimum 4–5 different languages or at least he should know how to learn a new language in small amount of time. 
+
+### [404. Using Next.js + Playwright + GitHub Actions to Make a To-Do App](https://hackernoon.com/using-nextjs-playwright-github-actions-to-make-a-to-do-app)
 ![](https://cdn.hackernoon.com/images/fPDaWVkv8leWTOQalzsf4nuOStC3-uv93iqs.jpeg)
 A comprehensive Todo app with APIs and E2E tests with GitHub Actions enabled.
 
-### [404. Array Manipulation: Understanding JavaScript Array Methods](https://hackernoon.com/array-manipulation-understanding-javascript-array-methods)
+### [405. Concurrency in Golang And WorkerPool [Part 1]](https://hackernoon.com/concurrency-in-golang-and-workerpool-part-1-e9n31ao)
+![](https://cdn.hackernoon.com/images/3Ur17PtJhkV5UkAAJFu6z8t0fKg1-cz631ep.jpeg)
+Project Link: https://github.com/Joker666/goworkerpool
+
+### [406. Array Manipulation: Understanding JavaScript Array Methods](https://hackernoon.com/array-manipulation-understanding-javascript-array-methods)
 ![](https://cdn.hackernoon.com/images/javascript-code-clchetcqh000001s6ctnl9ezp.png)
 JavaScript arrays are data types that can store a collection of elements. These elements can be of any data type, including numbers, strings, and objects.
 
-### [405. 7 Programming Concepts Everyone Should Know (With Code)](https://hackernoon.com/7-programming-concepts-everyone-should-know-with-code-s028v305x)
+### [407. 7 Programming Concepts Everyone Should Know (With Code)](https://hackernoon.com/7-programming-concepts-everyone-should-know-with-code-s028v305x)
 ![](https://cdn.hackernoon.com/images/xv2bm30ty.jpg)
 Hi Folks , Hope you all programming geeks are doing good. Today, we will discuss about the basic programming design principles and concepts that everyone should be aware about while developing a software . Well, Software Development ain’t easy. Programming/coding can be a real daunting task if not done in the right way. Hope you guys will like this post . So, without wasting time lets get started . [ i will be using JavaScript in here but you can use whatever language you are comfortable with ! ]
 
-### [406. Should you Learn Assembly to Become a Better Programmer?](https://hackernoon.com/should-you-learn-assembly-to-become-a-better-programmer-m02k3498)
+### [408. Should you Learn Assembly to Become a Better Programmer?](https://hackernoon.com/should-you-learn-assembly-to-become-a-better-programmer-m02k3498)
 ![](https://hackernoon.com/images/Qawv7x93HrTrPex77YTTJ6xrxhj2-ks631t2.jpeg)
 Are you going to be writing code anytime soon in assembly? Maybe not, as
 it has very niche use cases. So then why should you bother learning it? Well, before we answer that, let’s take a small look into what assembly even is to better understand how it could help you.
 
-### [407. How To Use Django as Your SaaS Framework](https://hackernoon.com/how-to-use-django-as-your-saas-framework-pol3uwk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaQ7yg4CEDpTDsNvbr567B6gPOEz2-6vpc23tg.jpeg?alt=media&token=11e6bf7f-0872-4a8f-bd9a-878b3a071787)
-The Django Framework has been a popular choice for web development with Python for many years. And for good reason: it leverages Python's ease of modularity to offer a very flexible solution for a variety of applications.
-
-### [408. I Became a Software Engineer in 3 Months - Here's How](https://hackernoon.com/i-became-a-software-engineer-in-3-months-heres-how)
+### [409. I Became a Software Engineer in 3 Months - Here's How](https://hackernoon.com/i-became-a-software-engineer-in-3-months-heres-how)
 ![](https://cdn.hackernoon.com/images/jwVTL7uSEHWwASBwbAaULWbCbnI2-hhf3sif.jpeg)
 I became a software engineer in 3 months and I believe you can too. The secret that helped me succeed is showing up every day and doing the work.
 
-### [409. Unit Test AWS Lambda in Go](https://hackernoon.com/unit-test-aws-lambda-in-go-h85l3ymz)
+### [410. How To Use Django as Your SaaS Framework](https://hackernoon.com/how-to-use-django-as-your-saas-framework-pol3uwk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaQ7yg4CEDpTDsNvbr567B6gPOEz2-6vpc23tg.jpeg?alt=media&token=11e6bf7f-0872-4a8f-bd9a-878b3a071787)
+The Django Framework has been a popular choice for web development with Python for many years. And for good reason: it leverages Python's ease of modularity to offer a very flexible solution for a variety of applications.
+
+### [411. Unit Test AWS Lambda in Go](https://hackernoon.com/unit-test-aws-lambda-in-go-h85l3ymz)
 ![](https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 When I started working in Go and AWS Lambda, one of the difficulties that I faced was unit testing. I had a decent idea about what is unit testing and knew how to do it in Ruby but in Go, I had no idea because I was a beginner.
 
-### [410. Becoming a Blockchain Architect in 10 Steps](https://hackernoon.com/becoming-a-blockchain-architect-in-10-steps-b5945701e9cd)
+### [412. Becoming a Blockchain Architect in 10 Steps](https://hackernoon.com/becoming-a-blockchain-architect-in-10-steps-b5945701e9cd)
 ![](https://cdn.hackernoon.com/drafts/xtr32my.png)
 I managed to do it, you can too.
 
-### [411. 11 Books Every Software Developer Should Read](https://hackernoon.com/11-books-every-software-developer-should-read)
+### [413. 11 Books Every Software Developer Should Read](https://hackernoon.com/11-books-every-software-developer-should-read)
 ![](https://cdn.hackernoon.com/images/hiBZYKUE6eSMbNqS3hVGEQ91emH2-a3036qi.jpeg)
 Here is a list of some of the best books new software developers can learn from.
 
-### [412. Revolution of AI in 2020! Is It Real?](https://hackernoon.com/revolution-of-ai-in-2020-is-it-real-dr6fk2zfd)
+### [414. Revolution of AI in 2020! Is It Real?](https://hackernoon.com/revolution-of-ai-in-2020-is-it-real-dr6fk2zfd)
 ![](https://cdn.hackernoon.com/images/4j2042zkb.jpg)
 Well, if you like reading technology news, you may have come across various facts and stats about the revolutionizing technology: Artificial Intelligence. 
 
-### [413. Kotlin-Spring Boot: Gotchas](https://hackernoon.com/kotlin-spring-boot-gotchas-e267be7ec022)
+### [415. Kotlin-Spring Boot: Gotchas](https://hackernoon.com/kotlin-spring-boot-gotchas-e267be7ec022)
 ![](https://hackernoon.com/hn-images/1*335G-wr9wfI3LlBYgndkLw.png)
 It’s been around 6 months since we adopted Kotlin for our backend services at the company I currently work at. We’ve been migrating an existing java spring boot service to Kotlin.
 
-### [414. Adding Dark Mode to Your Website Using a Single Line of HTML](https://hackernoon.com/adding-dark-mode-to-your-website-using-a-single-line-of-html)
+### [416. Adding Dark Mode to Your Website Using a Single Line of HTML](https://hackernoon.com/adding-dark-mode-to-your-website-using-a-single-line-of-html)
 ![](https://cdn.hackernoon.com/images/8cc7EWW2e9beN0MSU20AgjQpHxK2-bxa2ges.jpeg)
 This weekend, I wanted to explore how I can add dark mode to my website, for the benefit of the ~2 people who read my blog. 
 
-### [415. Top 7 Python Extensions For IntelliJ IDEA](https://hackernoon.com/top-7-python-extensions-for-intellij-idea-9c6t32m3)
+### [417. Top 7 Python Extensions For IntelliJ IDEA](https://hackernoon.com/top-7-python-extensions-for-intellij-idea-9c6t32m3)
 ![](https://cdn.hackernoon.com/images/gwr3219.jpg)
 It's so lonely at the top of Olympus.
 
-### [416. Understanding Ownership and Access Control in Solidity [A Detailed Guide]](https://hackernoon.com/ownership-and-access-control-in-solidity-nn7g3xo3)
+### [418. Understanding Ownership and Access Control in Solidity [A Detailed Guide]](https://hackernoon.com/ownership-and-access-control-in-solidity-nn7g3xo3)
 ![](https://cdn.hackernoon.com/drafts/wq3aa3xmk.png)
 From the simple to the complex, with the code to reuse.
 
-### [417. 10 Best IDE Software to Consider in 2021](https://hackernoon.com/10-best-ide-software-to-consider-in-2021-5l3033el)
+### [419. 10 Best IDE Software to Consider in 2021](https://hackernoon.com/10-best-ide-software-to-consider-in-2021-5l3033el)
 ![](https://cdn.hackernoon.com/images/emhWpoIR4OWOvOJc2f94VGpqLMf2-m93v33he.jpeg)
 The best IDE is based on a programmer’s needs and preferences. While Eclipse and IntelliJ IDEA can do many of the same things, some users may prefer Jetbrains.
 
-### [418. Pynecone: Web Apps in Pure Python](https://hackernoon.com/how-to-build-web-apps-in-pure-python)
+### [420. Pynecone: Web Apps in Pure Python](https://hackernoon.com/how-to-build-web-apps-in-pure-python)
 ![](https://cdn.hackernoon.com/images/web-app-clc8n3083000c01s67bnedek8.png)
 Pynecone is an open-source framework to build web apps in pure Python and deploy with a single command. 
 
-### [419. Routing Life Hacks: Serving a Node.js Express App from a Sub-Folder](https://hackernoon.com/serving-a-nodejs-express-app-from-a-subfolder-a-routing-lifehack-zj2ov35mf)
+### [421. Routing Life Hacks: Serving a Node.js Express App from a Sub-Folder](https://hackernoon.com/serving-a-nodejs-express-app-from-a-subfolder-a-routing-lifehack-zj2ov35mf)
 ![](https://cdn.hackernoon.com/drafts/io2i435al.png)
 Express is probably the most popular web framework for Node.js and tons of tutorials and instructions have already been written. However, most of them don't cover the topic I am going to tell you about. 
 
-### [420. How Scrum Saved My Software Engineering Job](https://hackernoon.com/how-scrum-saved-my-software-engineering-job-il90321s)
-![](https://cdn.hackernoon.com/images/a49d32es.jpg)
-When developers first hear the business has decided to bring in Agile/Scrum, there is a feeling of dread. Agile methodologies are not usually brought in because the “powers-that-be” feel they are getting productive development from their coders. However, if you are an earnest developer you should welcome Agile/Scrum with open arms.
-
-### [421. 10 Microsoft Azure Courses for Beginners to Learn Azure Cloud Computing](https://hackernoon.com/10-microsoft-azure-courses-for-beginners-to-learn-azure-cloud-computing)
+### [422. 10 Microsoft Azure Courses for Beginners to Learn Azure Cloud Computing](https://hackernoon.com/10-microsoft-azure-courses-for-beginners-to-learn-azure-cloud-computing)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-4093hk8.jpeg)
 If you want to learn Microsoft Azure or prepare for AZ-900 or Microsoft Azure fundamentals exam and need the best resources, you have come to the right place.
 
-### [422. Basic Elixir Api Guide](https://hackernoon.com/basic-elixir-api-guide-2h48u3y7z)
-![](https://cdn.hackernoon.com/images/ym4023y9q.jpg)
-Elixir represents relatively new programming language for wider audience. It was published back in 2011, and is in development ever since. His main trait is that adops functional pardigm because it is built on top of Erlang and runs on BEAM(Erlang VM). 
+### [423. How Scrum Saved My Software Engineering Job](https://hackernoon.com/how-scrum-saved-my-software-engineering-job-il90321s)
+![](https://cdn.hackernoon.com/images/a49d32es.jpg)
+When developers first hear the business has decided to bring in Agile/Scrum, there is a feeling of dread. Agile methodologies are not usually brought in because the “powers-that-be” feel they are getting productive development from their coders. However, if you are an earnest developer you should welcome Agile/Scrum with open arms.
 
-### [423. Optimizing String Comparisons in Go](https://hackernoon.com/optimizing-string-comparisons-in-go-7h1b3udm)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ffms5hEAIFUXalFpkFdSTymA0Cmn2-rt383teg.jpeg?alt=media&token=3715a6b5-be53-4170-a6f0-414cabe16dd4)
-Want your Go programs to run faster? Optimizing string comparisons in Go can improve your application’s response time and help scalability. Comparing two strings to see if they’re equal takes processing power, but not all comparisons are the same. 
-
-### [424. 7 AI Coding Techniques That Could Save You 10+ Hours This Week ](https://hackernoon.com/7-ai-coding-techniques-that-could-save-you-10-hours-this-week)
-![](https://cdn.hackernoon.com/images/mpDOI8AQeYeu5cc9VGleWjM9xvB2-bh039ms.png)
-Discover 7 AI coding techniques that save hours weekly, streamline development, and boost productivity for frontend and backend projects
-
-### [425. What is the Basic Structure of a Programming Language?](https://hackernoon.com/what-is-the-basic-structure-of-a-programming-language)
+### [424. What is the Basic Structure of a Programming Language?](https://hackernoon.com/what-is-the-basic-structure-of-a-programming-language)
 ![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-gl93p4w.jpeg)
 Programming languages enable complex applications and efficient issue-solving in modern software development. 
 
 
-### [426. Hiding Members via Explicit Interface Implementation in C#](https://hackernoon.com/hiding-members-via-explicit-interface-implementation-in-c-2c5u3oc1)
+### [425. Basic Elixir Api Guide](https://hackernoon.com/basic-elixir-api-guide-2h48u3y7z)
+![](https://cdn.hackernoon.com/images/ym4023y9q.jpg)
+Elixir represents relatively new programming language for wider audience. It was published back in 2011, and is in development ever since. His main trait is that adops functional pardigm because it is built on top of Erlang and runs on BEAM(Erlang VM). 
+
+### [426. Optimizing String Comparisons in Go](https://hackernoon.com/optimizing-string-comparisons-in-go-7h1b3udm)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ffms5hEAIFUXalFpkFdSTymA0Cmn2-rt383teg.jpeg?alt=media&token=3715a6b5-be53-4170-a6f0-414cabe16dd4)
+Want your Go programs to run faster? Optimizing string comparisons in Go can improve your application’s response time and help scalability. Comparing two strings to see if they’re equal takes processing power, but not all comparisons are the same. 
+
+### [427. Hiding Members via Explicit Interface Implementation in C#](https://hackernoon.com/hiding-members-via-explicit-interface-implementation-in-c-2c5u3oc1)
 ![](https://cdn.hackernoon.com/images/0dzd3o6g.jpg)
 Explicit Interface Implementation is a complex and rarely used technique that allows a single class to inherit from multiple interfaces that have the same method signature. Explicitly implementing each interface, prepending the interface name to the method, allows the same method signature to exist in the same class. I shall not demonstrate that here, but there are plenty of examples of this online. There is another benefit to explicitly implementing an interface, and that is to hide members from being accessed via the class reference. I’ll create an example of this technique using a factory design pattern and Fruit class and a console application that you can step through via F11. If you create a new C# console application in Visual Studio, then copy and paste all of the below code, you can step through (F11) the code to see how it works.
 
-### [427. 10 Best JetBrains IDEs Plugins to Boost Your Productivity in 2021](https://hackernoon.com/10-best-jetbrains-ides-plugins-to-boost-your-productivity-in-2021-1w1r3764)
+### [428. 10 Best JetBrains IDEs Plugins to Boost Your Productivity in 2021](https://hackernoon.com/10-best-jetbrains-ides-plugins-to-boost-your-productivity-in-2021-1w1r3764)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-0dj3588.jpeg)
 I asked devs who use IntelliJ IDEA: what are your favourite plugins to ship quality code fast? Here are the 10 most popular plugins most of the developers mentioned.
-
-### [428. "Rewrite your Software," says Creator of Ruby on Rails](https://hackernoon.com/rewrite-your-software-says-creator-of-ruby-on-rails-707g3u6i)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOlBBYiAclpfCGPi4fQnz4uL5Xa53-1p213ude.jpeg?alt=media&token=67934ac2-a879-4087-a566-227bcaa0c5f8)
-David Heinemeier Hansson is the creator of Ruby on Rails, co-founder & CTO of Basecamp, best-selling author, Le Mans class-winning race car driver, family man, frequent podcast guest, and inspirational conference speaker.
 
 ### [429. How Google’s Python Code Style Guide Can Help You Speed Your Engineering Team](https://hackernoon.com/how-googles-python-code-style-guide-can-help-you-speed-your-engineering-team)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-a393pna.jpeg)
 Creating a consistent style guide for your codebase can help your team be more consistent and productive. Here's how Google's Python Code Style Guide looks like
 
-### [430. Problem-Solving For New Software Developers](https://hackernoon.com/a-problem-solving-workflow-for-junior-software-developers-h4u30ej)
+### [430. "Rewrite your Software," says Creator of Ruby on Rails](https://hackernoon.com/rewrite-your-software-says-creator-of-ruby-on-rails-707g3u6i)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOlBBYiAclpfCGPi4fQnz4uL5Xa53-1p213ude.jpeg?alt=media&token=67934ac2-a879-4087-a566-227bcaa0c5f8)
+David Heinemeier Hansson is the creator of Ruby on Rails, co-founder & CTO of Basecamp, best-selling author, Le Mans class-winning race car driver, family man, frequent podcast guest, and inspirational conference speaker.
+
+### [431. Problem-Solving For New Software Developers](https://hackernoon.com/a-problem-solving-workflow-for-junior-software-developers-h4u30ej)
 ![](https://cdn.hackernoon.com/drafts/ioi33ee.png)
 Becoming an experienced software developer doesn’t mean knowing the solution to every problem, nor does it depend on knowing the entire system and its many edge cases.
 
-### [431. React Native Vs. Flutter: A Comparison of Pros and Cons](https://hackernoon.com/react-native-vs-flutter-a-comparison-of-pros-and-cons-341gw23vl)
+### [432. React Native Vs. Flutter: A Comparison of Pros and Cons](https://hackernoon.com/react-native-vs-flutter-a-comparison-of-pros-and-cons-341gw23vl)
 ![](https://cdn.hackernoon.com/images/7dvt23oi.jpg)
 Mobile apps market is projected to hit $188.9 billion in revenue by the year 2020. With rising popularity of mobile apps, it has become mandatory for businesses to have their own mobile apps. All kinds of businesses-- whether a startup or an enterprise-- want to develop advanced mobile apps quickly and at less cost.
 
-### [432. Tips For Profiling Your Spring Boot Application Using VisualVM](https://hackernoon.com/tips-for-profiling-your-spring-boot-application-using-visualvm-63z3163)
+### [433. Tips For Profiling Your Spring Boot Application Using VisualVM](https://hackernoon.com/tips-for-profiling-your-spring-boot-application-using-visualvm-63z3163)
 ![](https://cdn.hackernoon.com/images/82dYFuavVVh4WYKNKyjj4OBt0cf1-ki2c31ot.jpeg)
 According to Wikipedia, Software profiling is a form of dynamic program analysis that measures, for example, the space (memory) or time complexity of a program, the usage of particular instructions, or the frequency and duration of function calls. 
 
-### [433. Understanding Multiprocessing and Multithreading in Python](https://hackernoon.com/understanding-multiprocessing-and-multithreading-in-python)
+### [434. Understanding Multiprocessing and Multithreading in Python](https://hackernoon.com/understanding-multiprocessing-and-multithreading-in-python)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-h393rnh.jpeg)
 In this article, we will be discussing for the differences between Multithreading and Multiprocessing and how to decide what to use in Python.
 
-### [434. Mastering Full-Text Searches on PDF Documents with Foxit PDF SDK](https://hackernoon.com/mastering-full-text-searches-on-pdf-documents-with-foxit-pdf-sdk)
+### [435. Mastering Full-Text Searches on PDF Documents with Foxit PDF SDK](https://hackernoon.com/mastering-full-text-searches-on-pdf-documents-with-foxit-pdf-sdk)
 ![](https://cdn.hackernoon.com/images/Tg8Fkkdp5cSpeP1n6nQh9Kb7iBs1-brf3xly.jpeg)
 In this article, we will show you how to integrate Foxit PDF SDK with your system to perform accurate full-text search on a PDF document.
-
-### [435. How to Design Your Custom Web Application](https://hackernoon.com/how-to-design-your-custom-web-application-ow1b32ij)
-![](https://cdn.hackernoon.com/drafts/0a1nc32ks.png)
-Millions of businesses use the web/internet as a communication channel. It lets them exchange information with their target audience and allow make fast and secure transactions over the web. However, effective communication can be established when the business is able to store all the necessary data for the means of processing this information for presenting high-quality output to the user.  
 
 ### [436. Paginating Rails with Pagy](https://hackernoon.com/pagination-with-pagy-bulma-oe1m32ik)
 ![](https://cdn.hackernoon.com/drafts/n3p3zib.png)
 After completing the first built of our rails app application, I decided to take it out for a spin. Using Ruby commands that were initially tested on rails console, I built a seed file to populate the database. There were 2 reasons to seed the database. The first was to get an aesthetic feel of the app filled with data. The second was to see how would the app would scale visually with a huge amount of data. 
 
-### [437. 10 Things You Can Do Better While Working With Programmers](https://hackernoon.com/10-things-you-can-do-better-while-working-with-programmers-68f92f671378)
-![](https://hackernoon.com/hn-images/1*nIiqlL7z0bFe_gX6Tiz6tw.jpeg)
-If you had to guess what is it that programmers hate the most, what would you say?
+### [437. How to Design Your Custom Web Application](https://hackernoon.com/how-to-design-your-custom-web-application-ow1b32ij)
+![](https://cdn.hackernoon.com/drafts/0a1nc32ks.png)
+Millions of businesses use the web/internet as a communication channel. It lets them exchange information with their target audience and allow make fast and secure transactions over the web. However, effective communication can be established when the business is able to store all the necessary data for the means of processing this information for presenting high-quality output to the user.  
 
 ### [438. How to Add a Favicon to Your Storybook Application](https://hackernoon.com/how-to-add-a-favicon-to-your-storybook-application)
 ![](https://cdn.hackernoon.com/images/la1uhHPuu1Sw7L7H0U32dhrK8rJ3-eyb3267.jpeg)
 Favicons are small images or icons that appear in the browser tab, bookmarks, and other areas of the browser UI.
 
-### [439. Study Reveals Common Issues Faced by GitHub Copilot Users](https://hackernoon.com/study-reveals-common-issues-faced-by-github-copilot-users)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-oh8314a.jpeg)
-Discover the insights from a comprehensive study on the challenges faced by GitHub Copilot users. 
-
-### [440. Hiding Your API Credentials Client Side Using a Proxy Server in React](https://hackernoon.com/hiding-your-api-credentials-client-side-using-a-proxy-server-in-react)
+### [439. Hiding Your API Credentials Client Side Using a Proxy Server in React](https://hackernoon.com/hiding-your-api-credentials-client-side-using-a-proxy-server-in-react)
 ![](https://cdn.hackernoon.com/images/MIq3LAf1OoPW35o7MBmd2s51rcB3-9v93tiu.jpeg)
 When you're writing client-side code to make API requests, you might need a Proxy Server to hide your API Credentials. Let's see how to do this for React apps.
 
-### [441. Boosting Productivity: A Guide to Implementing a New QA Role for Faster Releases](https://hackernoon.com/boosting-productivity-a-guide-to-implementing-a-new-qa-role-for-faster-releases)
+### [440. 10 Things You Can Do Better While Working With Programmers](https://hackernoon.com/10-things-you-can-do-better-while-working-with-programmers-68f92f671378)
+![](https://hackernoon.com/hn-images/1*nIiqlL7z0bFe_gX6Tiz6tw.jpeg)
+If you had to guess what is it that programmers hate the most, what would you say?
+
+### [441. Study Reveals Common Issues Faced by GitHub Copilot Users](https://hackernoon.com/study-reveals-common-issues-faced-by-github-copilot-users)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-oh8314a.jpeg)
+Discover the insights from a comprehensive study on the challenges faced by GitHub Copilot users. 
+
+### [442. Boosting Productivity: A Guide to Implementing a New QA Role for Faster Releases](https://hackernoon.com/boosting-productivity-a-guide-to-implementing-a-new-qa-role-for-faster-releases)
 ![](https://cdn.hackernoon.com/images/M6msD6vUdrTjVouQfJWkKhtvOem2-r7c3sif.jpeg)
 I'm thrilled to share how I managed to improve our release flow by 20% through the implementation of a system QA role.
 
-### [442. Are Unit Tests a Waste of Your Time?](https://hackernoon.com/are-unit-tests-a-waste-of-your-time-ftw3umv)
+### [443. Are Unit Tests a Waste of Your Time?](https://hackernoon.com/are-unit-tests-a-waste-of-your-time-ftw3umv)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fribvk6MV2HXXHNGYi8VPerAQVvq2-ep103e0g.jpeg?alt=media&token=15ef54a5-6b19-479f-b6c1-5931b710834e)
 Unit tests are just a waste of time: you'll always end up spending more effort maintaining them than writing code
 
-### [443. Top 30 Outsourcing Software Development Companies in 2020](https://hackernoon.com/top-outsourcing-software-development-companies-jm4hv31fs)
+### [444. Top 30 Outsourcing Software Development Companies in 2020](https://hackernoon.com/top-outsourcing-software-development-companies-jm4hv31fs)
 ![](https://cdn.hackernoon.com/drafts/r0msb311u.png)
 Get to know the top software outsourcing company and 29 more runners-up in this latest market research by Explority.
 
-### [444. Flask API Containerization using Docker](https://hackernoon.com/flask-api-containerization-using-docker-2er31go)
+### [445. Flask API Containerization using Docker](https://hackernoon.com/flask-api-containerization-using-docker-2er31go)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-obf28ni.jpeg?alt=media&token=87e5147c-37d0-4872-9824-df538f6eb34f)
 Nowadays, putting shiny new applications in containers seems to be the way of the future, and for good reason. They offer platform portability, hardware efficiency, and enhanced security. In this tutorial, we are going to take a very simple Flask API, put it in a Docker container, and then test it out using Postman.
 
-### [445. Top 8 JavaScript-based Machine Learning Frameworks & Libraries](https://hackernoon.com/top-javascript-based-machine-learning-frameworks-and-libraries-lz92j32w4)
+### [446. Top 8 JavaScript-based Machine Learning Frameworks & Libraries](https://hackernoon.com/top-javascript-based-machine-learning-frameworks-and-libraries-lz92j32w4)
 ![](https://cdn.hackernoon.com/images/h48xq32nh.jpg)
 The incredible growth in new technologies like machine learning has helped web developers build new AI applications in ways easier than ever. In the present day, most AI enthusiasts and developers in the field leverage Python frameworks for AI & machine learning development. But looking around, one may also find that JavaScript-based frameworks are also being implemented in AI.
 
-### [446. 5 Latest Awesome Java Frameworks](https://hackernoon.com/5-latest-awesome-java-frameworks-z015o3zy0)
-![](https://cdn.hackernoon.com/drafts/cw15d3zme.png)
-As an object-oriented and class-based programming language, Java is loaded with numerous opportunities – it is portable, distributed, secure and dynamic. All the latest technologies depend on Java to support various functionalities. Which is why it comes as no surprise that Java reigns as the most popular programming language. It goes the same way with Java Frameworks which are very widely being used by Java developers today. 
-
-### [447. 8 Must-Have Security Tools for Developers](https://hackernoon.com/8-must-have-security-tools-for-developers)
-![](https://cdn.hackernoon.com/images/zhC7DRT3cLRRJGLFZtkQiVKSSSf1-01f370d.jpeg)
-Today, the network perimeter is dead, and attackers have direct access to applications - only a click away from an organization’s sensitive data.
-
-### [448. Bring In The Bots, And Let Them Maintain Our Code!](https://hackernoon.com/bring-in-the-bots-and-let-them-maintain-our-code-gh3s33n9)
-![](https://cdn.hackernoon.com/drafts/wnwmq3eqr.png)
-Learn how to automate away as much maintenance as possible using Renovate, Travis CI, and CodeCov
-
-### [449. How To Build Scalable Serverless Architecture on AWS](https://hackernoon.com/how-to-build-scalable-serverless-architecture-on-aws-yp1l31d6)
+### [447. How To Build Scalable Serverless Architecture on AWS](https://hackernoon.com/how-to-build-scalable-serverless-architecture-on-aws-yp1l31d6)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-me1h31ap.jpeg)
 A majority of companies prefer to focus their resources on other things rather than on scalability, which causes massive problems in the future, especially once they grow to one million users. The objective of building a robust serverless application is to succeed in making it scalable and powerful at the same time.
 
-### [450. Transitioning From VSCode to NeoVim](https://hackernoon.com/transitioning-from-vscode-to-neovim)
+### [448. 5 Latest Awesome Java Frameworks](https://hackernoon.com/5-latest-awesome-java-frameworks-z015o3zy0)
+![](https://cdn.hackernoon.com/drafts/cw15d3zme.png)
+As an object-oriented and class-based programming language, Java is loaded with numerous opportunities – it is portable, distributed, secure and dynamic. All the latest technologies depend on Java to support various functionalities. Which is why it comes as no surprise that Java reigns as the most popular programming language. It goes the same way with Java Frameworks which are very widely being used by Java developers today. 
+
+### [449. 8 Must-Have Security Tools for Developers](https://hackernoon.com/8-must-have-security-tools-for-developers)
+![](https://cdn.hackernoon.com/images/zhC7DRT3cLRRJGLFZtkQiVKSSSf1-01f370d.jpeg)
+Today, the network perimeter is dead, and attackers have direct access to applications - only a click away from an organization’s sensitive data.
+
+### [450. Bring In The Bots, And Let Them Maintain Our Code!](https://hackernoon.com/bring-in-the-bots-and-let-them-maintain-our-code-gh3s33n9)
+![](https://cdn.hackernoon.com/drafts/wnwmq3eqr.png)
+Learn how to automate away as much maintenance as possible using Renovate, Travis CI, and CodeCov
+
+### [451. Transitioning From VSCode to NeoVim](https://hackernoon.com/transitioning-from-vscode-to-neovim)
 ![](https://cdn.hackernoon.com/images/IvJ8puRpCzbvib1VYeG8JSQfwE12-ap93lmt.jpeg)
 As a DevOps engineer, I recently reached a significant milestone: I switched code editors for the fifth time in my career.
 
-### [451. An Intro to Container-Presenter Design Patterns in React ](https://hackernoon.com/an-intro-to-container-presenter-design-patterns-in-react)
+### [452. An Intro to Container-Presenter Design Patterns in React ](https://hackernoon.com/an-intro-to-container-presenter-design-patterns-in-react)
 ![](https://cdn.hackernoon.com/images/ZHAz9wv9l3eZzNLiVyAUACoJBo03-zl930vi.jpeg)
 
 
-### [452. Set up a Flutter app and Implement Google Sign-In Using Firebase](https://hackernoon.com/set-up-a-flutter-app-and-implement-google-sign-in-using-firebase)
+### [453. Set up a Flutter app and Implement Google Sign-In Using Firebase](https://hackernoon.com/set-up-a-flutter-app-and-implement-google-sign-in-using-firebase)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-m903osf.jpeg)
 How to set up a Flutter app and implement Google sign-in using Firebase.
 
-### [453. I Went From No Coding Experience To Creating An Ethereum Application Within One Year](https://hackernoon.com/i-went-from-no-coding-experience-to-creating-an-ethereum-application-within-one-year-k03y35m5)
-![](https://cdn.hackernoon.com/images/ZsqW93kD80YxD4F0ErYukeM6Sem1-w41x35ss.jpeg)
-In this article, I explain how I went from no coding experience to creating my first decentralized application on Ethereum.
-
-### [454. What Are The Different Types of  Malware?](https://hackernoon.com/what-are-the-different-types-of-malware)
-![](https://cdn.hackernoon.com/images/RlvxrX3WGnOoYckXvanG0ZcyKyl2-8ua3nlg.jpeg)
-A walkthrough the different types of malware - from viruses to botnets, ransomware and phishing. Learn more and get protected!
-
-### [455. How to Build a Smooth Authentication Flow System with Firebase](https://hackernoon.com/how-to-build-a-smooth-authentication-flow-system-with-firebase)
-![](https://cdn.hackernoon.com/images/uDPqwahUxKSKSQ17IYMKmh9T5uu1-1493t83.jpeg)
-This tutorial involves going through a step-by-step guide on how to set up the Firebase authentication service, and then a walk-through of how to implement it.
-
-### [456. The Differences between Shared and Private Caching](https://hackernoon.com/the-differences-between-shared-and-private-caching)
+### [454. The Differences between Shared and Private Caching](https://hackernoon.com/the-differences-between-shared-and-private-caching)
 ![](https://cdn.hackernoon.com/images/TlU0qyilehYV4XrjqgkglSwSK413-jme3q1e.png)
 Do you know the difference between private and shared caches ?
 
-### [457. Top 7 Courses to Become a Software Architect or Solution Architect](https://hackernoon.com/top-5-courses-to-become-a-software-architect-or-solution-architect-t05f3650)
+### [455. What Are The Different Types of  Malware?](https://hackernoon.com/what-are-the-different-types-of-malware)
+![](https://cdn.hackernoon.com/images/RlvxrX3WGnOoYckXvanG0ZcyKyl2-8ua3nlg.jpeg)
+A walkthrough the different types of malware - from viruses to botnets, ransomware and phishing. Learn more and get protected!
+
+### [456. I Went From No Coding Experience To Creating An Ethereum Application Within One Year](https://hackernoon.com/i-went-from-no-coding-experience-to-creating-an-ethereum-application-within-one-year-k03y35m5)
+![](https://cdn.hackernoon.com/images/ZsqW93kD80YxD4F0ErYukeM6Sem1-w41x35ss.jpeg)
+In this article, I explain how I went from no coding experience to creating my first decentralized application on Ethereum.
+
+### [457. How to Build a Smooth Authentication Flow System with Firebase](https://hackernoon.com/how-to-build-a-smooth-authentication-flow-system-with-firebase)
+![](https://cdn.hackernoon.com/images/uDPqwahUxKSKSQ17IYMKmh9T5uu1-1493t83.jpeg)
+This tutorial involves going through a step-by-step guide on how to set up the Firebase authentication service, and then a walk-through of how to implement it.
+
+### [458. Introducing Starlite: A New Python Asynchronous API Framework](https://hackernoon.com/introducing-starlite-a-new-python-asynchronous-api-framework)
+![](https://cdn.hackernoon.com/images/5JYihs6acgUdsNw17tx4tfhYYT93-ae137pb.jpeg)
+Introducing the python Starlite API framework - a new async (ASGI) framework built on top of pydantic and Starlette
+
+### [459. Top 7 Courses to Become a Software Architect or Solution Architect](https://hackernoon.com/top-5-courses-to-become-a-software-architect-or-solution-architect-t05f3650)
 ![](https://cdn.hackernoon.com/images/4e1rm36py.jpg)
 Every Programmer wants to grow in their career, but it’s not easy, and if you don’t pay attention to your job, you will likely stay in the same 
 position for many years. The growth in the initial few years is 
@@ -1855,175 +1865,167 @@ generally fast. Still, once you reach the barrier of 5 years, you need
 to decide which direction you want to move like — people management, 
 product management, or software architecture.
 
-### [458. Introducing Starlite: A New Python Asynchronous API Framework](https://hackernoon.com/introducing-starlite-a-new-python-asynchronous-api-framework)
-![](https://cdn.hackernoon.com/images/5JYihs6acgUdsNw17tx4tfhYYT93-ae137pb.jpeg)
-Introducing the python Starlite API framework - a new async (ASGI) framework built on top of pydantic and Starlette
-
-### [459. Upgrading Angular From v8 to v13](https://hackernoon.com/upgrading-angular-from-v8-to-v13)
-![](https://cdn.hackernoon.com/images/LrWNRAIdtCOY8d8u2QJVOs2d1dv1-v793jsg.jpeg)
-Upgrading from Angular 8 to 13 - the most common errors and their respective solutions
-
-### [460. 7 Rules for Writing a Good Commit Message](https://hackernoon.com/7-rules-for-writing-a-good-commit-message)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-iaa3pid.jpeg)
-In this article, we’ll outline a widely accepted yet simple format for good commit messages.
-
-### [461. An Anatomy of Tiny URL Provider Service](https://hackernoon.com/an-anatomy-of-tiny-url-provider-service-1ly31gd)
-![](https://cdn.hackernoon.com/images/eQAboXKgBIZ0OD357lPO5ho4RdA2-xlnz31fv.jpeg)
-In this article, java developers explain the Anatomy of system designing of a URL Shortener Solution or Tiny URL provider Service.
-
-### [462. Optimal Communication Between Microfrontends and Cross-microfrontend Optimization](https://hackernoon.com/optimal-communication-between-microfrontends-and-cross-microfrontend-optimization)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-op92ied.jpeg)
-In this article, we will discuss different options for sharing state and code between micro-frontends and highlight the benefits and drawbacks of each approach.
-
-### [463. 8 Most Popular Weather APIs for 2020](https://hackernoon.com/the-top-8-weather-apis-for-2020-7i1f32oj)
-![](https://cdn.hackernoon.com/drafts/zmhg32cc.png)
-The climate is a hot issue and weather forecasting technology is suddenly cool. The urgent need for innovative weather and environmental conditions forecasting solutions is obvious whether you believe in climate change or not.
-
-### [464. Introducing Tailwind CSS: Pros and Cons of Tailwind](https://hackernoon.com/introducing-tailwind-css-pros-and-cons-of-tailwind-hd2k3zt2)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNDIHgstQxNhYNQKgsXo6NLuPg9m1-wm2d3xqe.jpeg?alt=media&token=81bddab1-f820-4d74-8b7a-67978082e561)
-As you might notice, Tailwind CSS has become popular among the developer community. I'm a big Tailwind fan and recently, I've built several React projects with Tailwind CSS. In this article, I'll describe why Tailwind CSS has brought so much value to the front-end development community.
-
-### [465. Building User Service With GRPC, Node.JS, and MongoDB: The Complete Microservice Tutorial — [Part 2]](https://hackernoon.com/building-user-service-with-grpc-nodejs-and-mongodb-the-complete-microservice-tutorial-part-2-jkw34pt)
-![](https://cdn.hackernoon.com/images/3Ur17PtJhkV5UkAAJFu6z8t0fKg1-g5521kf.jpeg)
-Microservices are about decoupling your system. In a monolith, you build all the components of the software in one large codebase and deploy the software at once. But in the microservice world, we build each component of a large system decoupled from each other.
-
-### [466. Top 5 React Native Starter Kits to Try | Review Guide 2021](https://hackernoon.com/top-5-react-native-starter-kits-to-try-or-review-guide-2021-xeg31dx)
-![](https://cdn.hackernoon.com/images/CPZcQZuKTIRNEmHkkkOCBTvsTyd2-taeh34uw.jpeg)
-Top 5 React Native starter kits with all ready-to-use components to build your first mobile app faster.
-
-### [467. No Mac, No Problem: How to Write Native iOS Apps, Sans Apple](https://hackernoon.com/no-mac-no-problem-how-to-write-native-ios-apps-sans-apple-tma73wqf)
-![](https://cdn.hackernoon.com/drafts/8s823z26.png)
-Photo by Thomas William on Unsplash
-
-### [468. Why is Multi-tenant Analytics Hard to Build and Maintain](https://hackernoon.com/why-is-multi-tenant-analytics-hard-to-build-and-maintain)
+### [460. Why is Multi-tenant Analytics Hard to Build and Maintain](https://hackernoon.com/why-is-multi-tenant-analytics-hard-to-build-and-maintain)
 ![](https://cdn.hackernoon.com/images/tcrjRn2TiKWvCfm3x0SV6vwIE4t2-2x832fm.jpeg)
 Qrvey's turnkey solution to multi-tenant analytics takes the stress out of building and delivering embedded analytics for SaaS applications.
 
-### [469. GIT: Explained in 5 Levels of Difficulty](https://hackernoon.com/git-explained-in-5-levels-of-difficulty)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-gr93ppp.jpeg)
-I will explain GIT in five levels to different audiences.
+### [461. Upgrading Angular From v8 to v13](https://hackernoon.com/upgrading-angular-from-v8-to-v13)
+![](https://cdn.hackernoon.com/images/LrWNRAIdtCOY8d8u2QJVOs2d1dv1-v793jsg.jpeg)
+Upgrading from Angular 8 to 13 - the most common errors and their respective solutions
 
-### [470. Setup a Node.js Application Using PM2](https://hackernoon.com/pm2-to-setup-a-nodejs-application-i3w32zg)
-![](https://cdn.hackernoon.com/images/3h2g32di.jpg)
-What is PM2
+### [462. 7 Rules for Writing a Good Commit Message](https://hackernoon.com/7-rules-for-writing-a-good-commit-message)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-iaa3pid.jpeg)
+In this article, we’ll outline a widely accepted yet simple format for good commit messages.
 
-### [471. Build a Simple Todo App with React Native and TypeScript](https://hackernoon.com/build-a-simple-todo-app-with-react-native-and-typescript)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-lf93yuq.jpeg)
-How To Setup React Native and Create a Simple ToDo App
+### [463. An Anatomy of Tiny URL Provider Service](https://hackernoon.com/an-anatomy-of-tiny-url-provider-service-1ly31gd)
+![](https://cdn.hackernoon.com/images/eQAboXKgBIZ0OD357lPO5ho4RdA2-xlnz31fv.jpeg)
+In this article, java developers explain the Anatomy of system designing of a URL Shortener Solution or Tiny URL provider Service.
 
-### [472. The Best Way to Use Timers in .NET C#](https://hackernoon.com/the-best-way-to-use-timers-in-net-c)
-![](https://cdn.hackernoon.com/images/xRVOalNFPncXbrkPOPL6HNKgUvw1-7zc3q0s.jpeg)
-Best Practice Using Timers in DotNet (.NET) CSharp (C#), Dependency Injection (DI), Inversion of Control (IoC), Test Driven Development (TDD), Unit Testing
+### [464. Optimal Communication Between Microfrontends and Cross-microfrontend Optimization](https://hackernoon.com/optimal-communication-between-microfrontends-and-cross-microfrontend-optimization)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-op92ied.jpeg)
+In this article, we will discuss different options for sharing state and code between micro-frontends and highlight the benefits and drawbacks of each approach.
 
-### [473. Speech Recognition And Speech Synthesis on Angular](https://hackernoon.com/speech-recognition-and-speech-synthesis-on-angular-wj1a3ulr)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYn5tWMJ716SW4g4burnKobHKlAl1-kag3zt7.jpeg?alt=media&token=87eeb9a3-66dc-41cd-acd4-f1737178b55d)
-I was writing a chat bot where a user interacts with a machine learning powered bot, then I wanted to write a general example application for anybody to use it. In this application, there will not be any intelligence. The bot will simply recite what it heard so that anyone can implement his/her own logic. 
+### [465. 8 Most Popular Weather APIs for 2020](https://hackernoon.com/the-top-8-weather-apis-for-2020-7i1f32oj)
+![](https://cdn.hackernoon.com/drafts/zmhg32cc.png)
+The climate is a hot issue and weather forecasting technology is suddenly cool. The urgent need for innovative weather and environmental conditions forecasting solutions is obvious whether you believe in climate change or not.
 
-### [474. The 36 Most Depended Upon NPM Packages](https://hackernoon.com/the-36-most-depended-upon-npm-packages-7gn32h9)
-![](https://cdn.hackernoon.com/images/iw6k2epc.jpg)
-source, https://www.npmjs.com/browse/depended. The ordering, descriptors, and publisher accreditation are coursey of npmjs.com. 
+### [466. Introducing Tailwind CSS: Pros and Cons of Tailwind](https://hackernoon.com/introducing-tailwind-css-pros-and-cons-of-tailwind-hd2k3zt2)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNDIHgstQxNhYNQKgsXo6NLuPg9m1-wm2d3xqe.jpeg?alt=media&token=81bddab1-f820-4d74-8b7a-67978082e561)
+As you might notice, Tailwind CSS has become popular among the developer community. I'm a big Tailwind fan and recently, I've built several React projects with Tailwind CSS. In this article, I'll describe why Tailwind CSS has brought so much value to the front-end development community.
 
-### [475. Why Should you Learn the Leo Programming Language](https://hackernoon.com/why-should-you-learn-the-leo-programming-language)
-![](https://cdn.hackernoon.com/images/86wzQKPMFUVR6smldp1Vr2Pm9582-nb93fac.png)
-New language for web3 private applications
+### [467. Building User Service With GRPC, Node.JS, and MongoDB: The Complete Microservice Tutorial — [Part 2]](https://hackernoon.com/building-user-service-with-grpc-nodejs-and-mongodb-the-complete-microservice-tutorial-part-2-jkw34pt)
+![](https://cdn.hackernoon.com/images/3Ur17PtJhkV5UkAAJFu6z8t0fKg1-g5521kf.jpeg)
+Microservices are about decoupling your system. In a monolith, you build all the components of the software in one large codebase and deploy the software at once. But in the microservice world, we build each component of a large system decoupled from each other.
 
-### [476. 5 Best Courses to Learn MySQL Database for Beginners](https://hackernoon.com/5-best-courses-to-learn-mysql-database-for-beginners)
-![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-wr93jho.jpeg)
-If you are interested in learning SQL with MySQL database then you have come to the right place.
-
-### [477. Tmux & VSCode — Persist Terminals for Productivity and Profit](https://hackernoon.com/tmux-and-vscode-persist-terminals-for-productivity-and-profit)
-![](https://cdn.hackernoon.com/images/L2GfKnpqvpaCzgp24yBMlBZyW5n1-8ha3nld.jpeg)
-Tired of reopening terminal windows every time you come back to a VSCode project? You can pick up right where you left off in a project without having to re-run
-
-### [478. How to Host Your Own Podcast RSS Feed](https://hackernoon.com/how-to-host-your-own-podcast-rss-feed-6d1j38k0)
-![](https://cdn.hackernoon.com/drafts/du1g383y.png)
-I recently started a podcast with my friend Tom Zaragoza called the DEVpreneur. It's a podcast about working on a software / SaaS business as a software developer.
-
-### [479. How LZ77 Data Compression Works](https://hackernoon.com/how-lz77-data-compression-works-yk113te0)
+### [468. How LZ77 Data Compression Works](https://hackernoon.com/how-lz77-data-compression-works-yk113te0)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ft4wxj69O8MbjbTLAlo7WAcL5zdc2-g7833tnp.jpeg?alt=media&token=4eb5f503-2661-40d5-8044-755ac171db91)
 How does the ZIP format work?
 
-### [480. Are Developer Jobs Safe From the Next Recession?](https://hackernoon.com/are-developer-jobs-safe-from-the-next-recession-0edd3xdu)
-![](https://cdn.hackernoon.com/images/yoc9308v.jpg)
-For those of us not buried in sheets of global economic data — i.e., most of us — media speculation of an oncoming recession may seem like a vague and undefined threat. It’s difficult to make heads or tails out of the stream of fast-breaking news about financial predictors, benchmarks and overall anxiety. With all of this muddled information, it’s even more difficult to think about what we’re supposed to do about it.
+### [469. Top 5 React Native Starter Kits to Try | Review Guide 2021](https://hackernoon.com/top-5-react-native-starter-kits-to-try-or-review-guide-2021-xeg31dx)
+![](https://cdn.hackernoon.com/images/CPZcQZuKTIRNEmHkkkOCBTvsTyd2-taeh34uw.jpeg)
+Top 5 React Native starter kits with all ready-to-use components to build your first mobile app faster.
 
-### [481. Dates in JavaScript are Broken. Who Shall Fix them?](https://hackernoon.com/dates-in-javascript-are-broken-who-shall-fix-them)
+### [470. No Mac, No Problem: How to Write Native iOS Apps, Sans Apple](https://hackernoon.com/no-mac-no-problem-how-to-write-native-ios-apps-sans-apple-tma73wqf)
+![](https://cdn.hackernoon.com/drafts/8s823z26.png)
+Photo by Thomas William on Unsplash
+
+### [471. GIT: Explained in 5 Levels of Difficulty](https://hackernoon.com/git-explained-in-5-levels-of-difficulty)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-gr93ppp.jpeg)
+I will explain GIT in five levels to different audiences.
+
+### [472. Build a Simple Todo App with React Native and TypeScript](https://hackernoon.com/build-a-simple-todo-app-with-react-native-and-typescript)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-lf93yuq.jpeg)
+How To Setup React Native and Create a Simple ToDo App
+
+### [473. Setup a Node.js Application Using PM2](https://hackernoon.com/pm2-to-setup-a-nodejs-application-i3w32zg)
+![](https://cdn.hackernoon.com/images/3h2g32di.jpg)
+What is PM2
+
+### [474. The Best Way to Use Timers in .NET C#](https://hackernoon.com/the-best-way-to-use-timers-in-net-c)
+![](https://cdn.hackernoon.com/images/xRVOalNFPncXbrkPOPL6HNKgUvw1-7zc3q0s.jpeg)
+Best Practice Using Timers in DotNet (.NET) CSharp (C#), Dependency Injection (DI), Inversion of Control (IoC), Test Driven Development (TDD), Unit Testing
+
+### [475. Speech Recognition And Speech Synthesis on Angular](https://hackernoon.com/speech-recognition-and-speech-synthesis-on-angular-wj1a3ulr)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYn5tWMJ716SW4g4burnKobHKlAl1-kag3zt7.jpeg?alt=media&token=87eeb9a3-66dc-41cd-acd4-f1737178b55d)
+I was writing a chat bot where a user interacts with a machine learning powered bot, then I wanted to write a general example application for anybody to use it. In this application, there will not be any intelligence. The bot will simply recite what it heard so that anyone can implement his/her own logic. 
+
+### [476. The 36 Most Depended Upon NPM Packages](https://hackernoon.com/the-36-most-depended-upon-npm-packages-7gn32h9)
+![](https://cdn.hackernoon.com/images/iw6k2epc.jpg)
+source, https://www.npmjs.com/browse/depended. The ordering, descriptors, and publisher accreditation are coursey of npmjs.com. 
+
+### [477. 5 Best Courses to Learn MySQL Database for Beginners](https://hackernoon.com/5-best-courses-to-learn-mysql-database-for-beginners)
+![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-wr93jho.jpeg)
+If you are interested in learning SQL with MySQL database then you have come to the right place.
+
+### [478. Why Should you Learn the Leo Programming Language](https://hackernoon.com/why-should-you-learn-the-leo-programming-language)
+![](https://cdn.hackernoon.com/images/86wzQKPMFUVR6smldp1Vr2Pm9582-nb93fac.png)
+New language for web3 private applications
+
+### [479. Dates in JavaScript are Broken. Who Shall Fix them?](https://hackernoon.com/dates-in-javascript-are-broken-who-shall-fix-them)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-mf93yrz.jpeg)
 The Javascript Date constructor is known to have a lot of bugs and issues. Let's look at some of its major flaws so you can avoid them.
 
-### [482. I Tried Hacking a Bluetooth Speaker - Here's What Happened Next](https://hackernoon.com/i-tried-hacking-a-bluetooth-speaker-heres-what-happened-next)
-![](https://cdn.hackernoon.com/images/BugaLC6k6haVzqRw5mELajiQSkZ2-xvb3t2q.jpeg)
-In this article, we’ll attempt to hack a Bluetooth speaker using my knowledge of CyberSecurity. 
+### [480. Tmux & VSCode — Persist Terminals for Productivity and Profit](https://hackernoon.com/tmux-and-vscode-persist-terminals-for-productivity-and-profit)
+![](https://cdn.hackernoon.com/images/L2GfKnpqvpaCzgp24yBMlBZyW5n1-8ha3nld.jpeg)
+Tired of reopening terminal windows every time you come back to a VSCode project? You can pick up right where you left off in a project without having to re-run
 
-### [483. 6 JavaScript Courses To Land Your Next High Paying Job](https://hackernoon.com/6-javascript-courses-to-land-your-next-high-paying-job)
+### [481. How to Host Your Own Podcast RSS Feed](https://hackernoon.com/how-to-host-your-own-podcast-rss-feed-6d1j38k0)
+![](https://cdn.hackernoon.com/drafts/du1g383y.png)
+I recently started a podcast with my friend Tom Zaragoza called the DEVpreneur. It's a podcast about working on a software / SaaS business as a software developer.
+
+### [482. 6 JavaScript Courses To Land Your Next High Paying Job](https://hackernoon.com/6-javascript-courses-to-land-your-next-high-paying-job)
 ![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-rv93htg.jpeg)
 
 
-### [484. Error 429 Too Many Requests: What to Do When You've Been Rate Limited?](https://hackernoon.com/error-429-too-many-requests-what-to-do-when-youve-been-rate-limited-265e32tb)
+### [483. Are Developer Jobs Safe From the Next Recession?](https://hackernoon.com/are-developer-jobs-safe-from-the-next-recession-0edd3xdu)
+![](https://cdn.hackernoon.com/images/yoc9308v.jpg)
+For those of us not buried in sheets of global economic data — i.e., most of us — media speculation of an oncoming recession may seem like a vague and undefined threat. It’s difficult to make heads or tails out of the stream of fast-breaking news about financial predictors, benchmarks and overall anxiety. With all of this muddled information, it’s even more difficult to think about what we’re supposed to do about it.
+
+### [484. I Tried Hacking a Bluetooth Speaker - Here's What Happened Next](https://hackernoon.com/i-tried-hacking-a-bluetooth-speaker-heres-what-happened-next)
+![](https://cdn.hackernoon.com/images/BugaLC6k6haVzqRw5mELajiQSkZ2-xvb3t2q.jpeg)
+In this article, we’ll attempt to hack a Bluetooth speaker using my knowledge of CyberSecurity. 
+
+### [485. Error 429 Too Many Requests: What to Do When You've Been Rate Limited?](https://hackernoon.com/error-429-too-many-requests-what-to-do-when-youve-been-rate-limited-265e32tb)
 ![](https://cdn.hackernoon.com/drafts/4w433yjs.png)
 Your application is running smoothly. Tests have passed. Suddenly you start to see 429 error responses from an API. As the name implies, you have made too many requests and your application has been rate limited. The 429 (Too Many Requests) error is an HTTP status code that often occurs when you've hit a request limitation of an API.
 
-### [485. The Flow Manifesto](https://hackernoon.com/the-flow-manifesto-iq2732s1)
+### [486. The Flow Manifesto](https://hackernoon.com/the-flow-manifesto-iq2732s1)
 ![](https://cdn.hackernoon.com/drafts/jisf32ax.png)
 Return to what works and jettison the fads
 
-### [486. Introduction to Winforms UI Automation with Python & Appium](https://hackernoon.com/introduction-to-winforms-ui-automation-with-python-and-appium-tn2h24pe)
+### [487. Introduction to Winforms UI Automation with Python & Appium](https://hackernoon.com/introduction-to-winforms-ui-automation-with-python-and-appium-tn2h24pe)
 ![](https://images.unsplash.com/photo-1555952494-efd681c7e3f9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Microsoft announced some time ago that Coded UI automation was being deprecated - and that the recommended replacement for testing was Appium with WinAppDriver. 
 
-### [487. 7 VS Code Extensions for Frontend Developers](https://hackernoon.com/7-vs-code-extensions-for-frontend-developers)
+### [488. 7 VS Code Extensions for Frontend Developers](https://hackernoon.com/7-vs-code-extensions-for-frontend-developers)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-k6t35u0.jpeg)
 As a developer, you’re always looking for cutting-edge tools, tricks, and extensions.  Here are 7 tools that'll improve your productivity and efficiency.
 
-### [488. How to Really Use Git: 10 Rules to Make Git More Useful](https://hackernoon.com/how-to-really-use-git-10-rules-to-make-git-more-useful)
+### [489. How to Really Use Git: 10 Rules to Make Git More Useful](https://hackernoon.com/how-to-really-use-git-10-rules-to-make-git-more-useful)
 ![](https://cdn.hackernoon.com/images/xW8Q0uYJUTMJrV73OYEylMCCQOn1-0o92iq8.jpeg)
 Git is awesome if you know how to use it effectively. It's not just a backup system! Here are 10 best practices for version control with Git.
-
-### [489. Top Dev Jokes Of 2019](https://hackernoon.com/top-devjokes-of-2019-se5j32jp)
-![](https://cdn.hackernoon.com/drafts/j41mp32tc.png)
-Having fun while developing is necessary for programmers and developers. No matter how much serious or tough the situation is, one should always take things lightly when it comes to software development. 
 
 ### [490. Top 10 Websites to Learn SQL and Database Online](https://hackernoon.com/top-10-websites-to-learn-sql-and-database-online)
 ![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-po93442.jpeg)
 These are the best places to learn SQL and Database online
 
-### [491. 7 Steps To Prepare A Dataset For An Image-Based AI Project](https://hackernoon.com/7-steps-to-prepare-a-dataset-for-an-image-based-ai-project)
+### [491. Top Dev Jokes Of 2019](https://hackernoon.com/top-devjokes-of-2019-se5j32jp)
+![](https://cdn.hackernoon.com/drafts/j41mp32tc.png)
+Having fun while developing is necessary for programmers and developers. No matter how much serious or tough the situation is, one should always take things lightly when it comes to software development. 
+
+### [492. 7 Steps To Prepare A Dataset For An Image-Based AI Project](https://hackernoon.com/7-steps-to-prepare-a-dataset-for-an-image-based-ai-project)
 ![](https://cdn.hackernoon.com/images/2DFAaGGO5cfymtBKn4bFFAoT6sg2-z2o3x95.jpeg)
 A guide for AI entrepreneurs on how to prepare a dataset for a machine learning project.
 
-### [492. How to Embed AngularJS and React Like a Pro](https://hackernoon.com/how-to-embed-angularjs-and-react-like-a-pro-5y1c31on)
+### [493. How to Embed AngularJS and React Like a Pro](https://hackernoon.com/how-to-embed-angularjs-and-react-like-a-pro-5y1c31on)
 ![](https://cdn.hackernoon.com/images/u3PwjTbcjTYeKEwwfOj8yq9247G2-sz1s3159.jpeg)
 Much time has passed since the birth of AngularJS. In fact, AngularJS is already outdated, and given how fast front-end technologies grow, its value will depreciate further as new frameworks gain popularity and conquer the open-source community.
 
-### [493. How to Call a JavaScript Function from Python Code](https://hackernoon.com/how-to-call-a-javascript-function-from-python-code)
+### [494. How to Call a JavaScript Function from Python Code](https://hackernoon.com/how-to-call-a-javascript-function-from-python-code)
 ![](https://cdn.hackernoon.com/images/L0Cwqqb69MZqdVyaQzSZi07meBQ2-y9a2gcv.jpeg)
 Call JavaScript functions from Python using PythonMonkey. PythonMonkey is a Python library for running JavaScript code inside of Python.
 
-### [494. Larry Wall's "Three Virtues of a Programmer" are Utter Bullshit](https://hackernoon.com/larry-walls-three-virtues-of-a-programmer-are-utter-bullshit-fykp32ck)
+### [495. Larry Wall's "Three Virtues of a Programmer" are Utter Bullshit](https://hackernoon.com/larry-walls-three-virtues-of-a-programmer-are-utter-bullshit-fykp32ck)
 ![](https://cdn.hackernoon.com/drafts/a1ce323b.png)
 The Three Horsemen of the Infocalypse
 
-### [495. How to Remove Duplicates in Go Slices](https://hackernoon.com/how-to-remove-duplicates-in-go-slices)
-![](https://cdn.hackernoon.com/images/uUy2hcEeUBUzpB2avIU9bM9u8Gt2-ww037f2.jpeg)
-Different ways to remove duplicates in slices in Go, a powerful language whose lack of tools makes learning this necessary if you want to make full use of it.
-
-### [496. Top 10 VS Code Extensions to Boost Productivity](https://hackernoon.com/top-10-vs-code-extensions-to-boost-productivity)
-![](https://cdn.hackernoon.com/images/hVgQyg60wLgK2itfYpmG2PlkSKy1-b0n35q3.jpeg)
-A curated list of my top ten VS Code extensions that will supercharge your productivity and make you more effective as a developer.
-
-### [497. How to Write Fewer Lines of Code with the OpenAPI Generator](https://hackernoon.com/how-to-write-fewer-lines-of-code-with-the-openapi-generator)
-![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-7r036we.png)
-Hey! I'll start with the main thing - I'm a lazy person. I'm a very, very lazy developer. How can I get rid of the need to write at least part of the code?
-
-### [498. How I bypassed Regulations to Setup Remote Access for a Client in China](https://hackernoon.com/how-i-bypassed-regulations-to-setup-remote-access-for-a-client-in-china)
+### [496. How I bypassed Regulations to Setup Remote Access for a Client in China](https://hackernoon.com/how-i-bypassed-regulations-to-setup-remote-access-for-a-client-in-china)
 ![](https://cdn.hackernoon.com/images/0L71IrTWolV9Lo85mUUoKsIdmwu2-pa637ub.jpeg)
 Connecting to remote desktop users from China. What remote access program choose to bypass the blocking and how to translate during the session. 
 
-### [499. 10 Things in Engineering We Don't Spend Enough Time On](https://hackernoon.com/10-things-in-engineering-we-dont-spend-enough-time-on)
+### [497. How to Remove Duplicates in Go Slices](https://hackernoon.com/how-to-remove-duplicates-in-go-slices)
+![](https://cdn.hackernoon.com/images/uUy2hcEeUBUzpB2avIU9bM9u8Gt2-ww037f2.jpeg)
+Different ways to remove duplicates in slices in Go, a powerful language whose lack of tools makes learning this necessary if you want to make full use of it.
+
+### [498. How to Write Fewer Lines of Code with the OpenAPI Generator](https://hackernoon.com/how-to-write-fewer-lines-of-code-with-the-openapi-generator)
+![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-7r036we.png)
+Hey! I'll start with the main thing - I'm a lazy person. I'm a very, very lazy developer. How can I get rid of the need to write at least part of the code?
+
+### [499. Top 10 VS Code Extensions to Boost Productivity](https://hackernoon.com/top-10-vs-code-extensions-to-boost-productivity)
+![](https://cdn.hackernoon.com/images/hVgQyg60wLgK2itfYpmG2PlkSKy1-b0n35q3.jpeg)
+A curated list of my top ten VS Code extensions that will supercharge your productivity and make you more effective as a developer.
+
+### [500. 10 Things in Engineering We Don't Spend Enough Time On](https://hackernoon.com/10-things-in-engineering-we-dont-spend-enough-time-on)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-1h3b35zw.jpeg)
 In this article, we’ll look at ten underrated activities in engineering for which allocating more time can be beneficial.
-
-### [500. What You Probably Don't Know About Python Decorators](https://hackernoon.com/the-goodies-of-python-decorators-66r3tsy)
-![](https://cdn.hackernoon.com/images/sz233tfw.jpg)
-if you have ever been interviewed for a developer position, you heard this question:
 

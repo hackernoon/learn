@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [smart-contract-security](https://hackernoon.com/tagged/smart-contract-security)
+### Let's learn about [Smart Contract Security](https://hackernoon.com/tagged/smart-contract-security) via these 56 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Smart contract security involves identifying and mitigating vulnerabilities within self-executing contracts on blockchain networks. Ensuring smart contract security is paramount to prevent financial losses and maintain trust in decentralized applications, protecting users and assets.
+
 ### [1. Hack Solidity: Reentrancy Attack](https://hackernoon.com/hack-solidity-reentrancy-attack)
 ![](https://cdn.hackernoon.com/images/2VftJjxuwsZ19AsybJmsSIp6DX53-g312fv1.jpeg)
 Reentrancy attack is one of the most destructive attacks in Solidity smart contract. It occurs when a function makes an external call to another
@@ -93,17 +97,17 @@ Here are the top 10 providers of smart contract auditing to consider in 2022.
 ![](https://cdn.hackernoon.com/images/E4pYfD4L6vO8RC4YQzgPS6joiXL2-e9026w3.png)
 My journey with Cyfrin Updraft has already taught me invaluable lessons about what it truly means to be a security researcher in the Web3 space.
 
-### [24. Code Is the New Law — and It Doesn’t Negotiate](https://hackernoon.com/code-is-the-new-law-and-it-doesnt-negotiate)
+### [24. Balancer V2 Exploit Explained: Inside the Smart Contract Rounding Error That Cost $120M](https://hackernoon.com/balancer-v2-exploit-explained-inside-the-smart-contract-rounding-error-that-cost-$120m)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-pw03bde.png)
+How a rounding bug in Balancer V2’s Composable Stable Pools led to a $120M exploit—and why continuous audits are now a DeFi must.
+
+### [25. Code Is the New Law — and It Doesn’t Negotiate](https://hackernoon.com/code-is-the-new-law-and-it-doesnt-negotiate)
 ![](https://cdn.hackernoon.com/images/2kTQmpazivYPo9k2xqMD7UaA2983-gl032jk.png)
 Empirical analysis of LLMs, TAPs, and smart contracts shows 100% execution under formal triggers. 
 
-### [25. Trader Joe’s Case Analysis: Why Multi-Auditing of DeFi Projects is Important](https://hackernoon.com/trader-joes-case-analysis-why-multi-auditing-of-defi-projects-is-important-hw3f370a)
+### [26. Trader Joe’s Case Analysis: Why Multi-Auditing of DeFi Projects is Important](https://hackernoon.com/trader-joes-case-analysis-why-multi-auditing-of-defi-projects-is-important-hw3f370a)
 ![](https://cdn.hackernoon.com/images/MLnsq7NpDgZ26ehHQCC8eKDXc3F2-d81338hp.jpeg)
 Blockchain technology and smart contracts are significant innovations with huge potential, but, the technology is only as secure as the code written for it. 
-
-### [26. Balancer V2 Exploit Explained: Inside the Smart Contract Rounding Error That Cost $120M](https://hackernoon.com/balancer-v2-exploit-explained-inside-the-smart-contract-rounding-error-that-cost-$120m)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-pw03bde.png)
-How a rounding bug in Balancer V2’s Composable Stable Pools led to a $120M exploit—and why continuous audits are now a DeFi must.
 
 ### [27. Understanding and Preventing Honeypot Attacks in Smart Contracts 🔐](https://hackernoon.com/understanding-and-preventing-honeypot-attacks-in-smart-contracts)
 ![](https://cdn.hackernoon.com/images/dH5TBmoEbZTGp8KEaGc3Ga3ntjC2-z0833yw.jpeg)
@@ -133,13 +137,13 @@ Most people think that blockchain is completely safe and particularly difficult 
 ![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-8l93pb2.jpeg)
 The HackerNoon podcast on Smart Contract Interoperability, Ethereum, & Crypto with Maciej Baj, t3rn CTO, hosted by Utsav Jaisval.
 
-### [34. How to Solve the Second Task of the Ethernaut Game](https://hackernoon.com/how-to-solve-the-second-task-of-the-ethernaut-game)
-![](https://cdn.hackernoon.com/images/2VftJjxuwsZ19AsybJmsSIp6DX53-ut12jxw.jpeg)
-This is the second part of my series around Ethernaut Game. In this post, we will deal with Level 2: Fallout.
-
-### [35. CredShields Joins Forces With Checkmarx to Bring Smart Contract Security to Enterprise AppSec](https://hackernoon.com/credshields-joins-forces-with-checkmarx-to-bring-smart-contract-security-to-enterprise-appsec)
+### [34. CredShields Joins Forces With Checkmarx to Bring Smart Contract Security to Enterprise AppSec](https://hackernoon.com/credshields-joins-forces-with-checkmarx-to-bring-smart-contract-security-to-enterprise-appsec)
 ![](https://cdn.hackernoon.com/images/zrmhiGUO5YO0UGWoKCzGMHKsbc63-oz029hr.jpeg)
  Nearly half of the largest DeFi breaches trace back to smart contract flaws. Research indicates that up to 89% of smart contracts contain vulnerabilities.
+
+### [35. How to Solve the Second Task of the Ethernaut Game](https://hackernoon.com/how-to-solve-the-second-task-of-the-ethernaut-game)
+![](https://cdn.hackernoon.com/images/2VftJjxuwsZ19AsybJmsSIp6DX53-ut12jxw.jpeg)
+This is the second part of my series around Ethernaut Game. In this post, we will deal with Level 2: Fallout.
 
 ### [36. How to Perform a Smart Contract Audit](https://hackernoon.com/how-to-perform-a-smart-contract-audit)
 ![](https://cdn.hackernoon.com/images/ph9qTJw7SwfBzy2rvEEmMdTsMRq1-df93oku.jpeg)
@@ -149,13 +153,13 @@ Perplexed about how to perform an audit for your smart contracts? This comprehen
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-qp92hvm.jpeg)
 Timelock contracts can reduce the risk of attacks on private wallets by providing a delayed transaction feature.
 
-### [38. The Battle Against DDoS Attacks in Decentralized Finance](https://hackernoon.com/the-battle-against-ddos-attacks-in-decentralized-finance)
-![](https://cdn.hackernoon.com/images/JmKbQ7mMRAZeu3id1Rc2V6W9Eqf2-bl033a8.jpeg)
-Explore how DDoS attacks threaten DeFi platforms, their devastating impact on protocols and users, and the advanced cybersecurity solutions.
-
-### [39. Yul in Solidity: Potential Gas Griefing From Return Data When Transferring Ether?](https://hackernoon.com/yul-in-solidity-potential-gas-griefing-from-return-data-when-transferring-ether)
+### [38. Yul in Solidity: Potential Gas Griefing From Return Data When Transferring Ether?](https://hackernoon.com/yul-in-solidity-potential-gas-griefing-from-return-data-when-transferring-ether)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-0683lww.jpeg)
 Exploring risks in Solidity transfers: Gas griefing, return data handling & mitigations in smart contracts using Yul, Vyper, and EVM.
+
+### [39. The Battle Against DDoS Attacks in Decentralized Finance](https://hackernoon.com/the-battle-against-ddos-attacks-in-decentralized-finance)
+![](https://cdn.hackernoon.com/images/JmKbQ7mMRAZeu3id1Rc2V6W9Eqf2-bl033a8.jpeg)
+Explore how DDoS attacks threaten DeFi platforms, their devastating impact on protocols and users, and the advanced cybersecurity solutions.
 
 ### [40. Security Manager Design Pattern for Solidity Smart Contracts](https://hackernoon.com/this-design-pattern-can-revolutionize-the-security-model-of-your-smart-contracts-and-hackers-hate-it)
 ![](https://cdn.hackernoon.com/images/smart-contracts-on-a-block-chain-clg6licn7000001s6a4dues3d.png)
@@ -165,25 +169,25 @@ This is the first in a planned multi-part series in which I'll write about secur
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-b082h1c.jpeg)
 Flow is a permissionless layer-1 blockchain built to support the high-scale use cases of games, virtual worlds, and the digital assets that power them. 
 
-### [42. Scaling Off-Chain Data and Computation for Smart Contracts](https://hackernoon.com/scaling-off-chain-data-and-computation-for-smart-contracts-59103xhv)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F08kqxtF0wOR294ukfFuRLXEWE052-cno3u8m.jpeg?alt=media&token=3728b2d8-83fb-4e5a-88d4-e81274faecff)
-As storing information on the blockchain becomes more popular, the availability of smart contracts becomes more widespread. They behave according to established parameters, automatically letting events happen once specified conditions are met. 
-
-### [43. The HackerNoon Newsletter: Building a RAG System That Runs Completely Offline (11/13/2025)](https://hackernoon.com/11-13-2025-newsletter)
+### [42. The HackerNoon Newsletter: Building a RAG System That Runs Completely Offline (11/13/2025)](https://hackernoon.com/11-13-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_662_rujc0y75l0pfktm60zbmsgi3.png)
 11/13/2025: Top 5 stories on the HackerNoon homepage!
 
-### [44. Solidity Digest Monthly / April 2023](https://hackernoon.com/solidity-digest-monthly-april-2023)
+### [43. Scaling Off-Chain Data and Computation for Smart Contracts](https://hackernoon.com/scaling-off-chain-data-and-computation-for-smart-contracts-59103xhv)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F08kqxtF0wOR294ukfFuRLXEWE052-cno3u8m.jpeg?alt=media&token=3728b2d8-83fb-4e5a-88d4-e81274faecff)
+As storing information on the blockchain becomes more popular, the availability of smart contracts becomes more widespread. They behave according to established parameters, automatically letting events happen once specified conditions are met. 
+
+### [44. Hypernative and Flare Form Strategic Alliance to Fortify Web3 Security](https://hackernoon.com/hypernative-and-flare-form-strategic-alliance-to-fortify-web3-security)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-4q835lg.jpeg)
+Explore the strategic partnership between Hypernative and Flare aimed at bolstering the security of the Web3 ecosystem. 
+
+### [45. Solidity Digest Monthly / April 2023](https://hackernoon.com/solidity-digest-monthly-april-2023)
 ![](https://cdn.hackernoon.com/images/Iq5imewRW8P0Tf9OM7rD5jz0qT33-hcc2rsn.jpeg)
 The April selection of the latest news, tools and materials from the world of Solidity.
 
-### [45. Smart Contracts Vs Legal Contracts: It's Complicated](https://hackernoon.com/smart-contracts-vs-legal-contracts-its-complicated)
+### [46. Smart Contracts Vs Legal Contracts: It's Complicated](https://hackernoon.com/smart-contracts-vs-legal-contracts-its-complicated)
 ![](https://cdn.hackernoon.com/images/BJaf1TkYNBPc972LirZKnRh5Fvn2-mb11c1p.jpeg)
 Smart contracts operate on a ‘if-then-else’ logic that does not inherently work in lockstep with the natural language of legal contracts. 
-
-### [46. Hypernative and Flare Form Strategic Alliance to Fortify Web3 Security](https://hackernoon.com/hypernative-and-flare-form-strategic-alliance-to-fortify-web3-security)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-4q835lg.jpeg)
-Explore the strategic partnership between Hypernative and Flare aimed at bolstering the security of the Web3 ecosystem. 
 
 ### [47. Why Smart Contract Audits are Critical for Your Business Success](https://hackernoon.com/why-smart-contract-audits-are-critical-for-your-business-success)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-rt93p0c.jpeg)

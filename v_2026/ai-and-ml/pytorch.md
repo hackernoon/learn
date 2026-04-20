@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [pytorch](https://hackernoon.com/tagged/pytorch)
+### Let's learn about [Pytorch](https://hackernoon.com/tagged/pytorch) via these 54 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+PyTorch is an open-source machine learning framework known for its flexibility and ease of use, particularly in deep learning. It is widely adopted by researchers and developers for building and training neural networks, accelerating AI innovation.
+
 ### [1. Yet Another Lightning Hydra Template for ML Experiments](https://hackernoon.com/yet-another-lightning-hydra-template-for-ml-experiments)
 ![](https://cdn.hackernoon.com/images/25vWKjiUBPO2yuVvHjfrDJcFXnv1-dr9363s.jpeg)
 Flexible and scalable template based on PyTorch Lightning and Hydra. Efficient workflow and reproducibility for rapid ML experiments.
@@ -92,13 +96,13 @@ Given the importance of pre-trained Deep Learning models, which Deep Learning fr
 ![](https://cdn.hackernoon.com/images/sqm3y2RrpCOJ4vEb1zhSXrxAev23-hm9e31e7.jpeg)
 Machine Learning, Deep Learning development in production was still broken. ZenML, an extensible, open-source MLOps framework for production-ready ML pipelines.
 
-### [23. How to Get Started With Embeddings](https://hackernoon.com/how-to-get-started-with-embeddings)
-![](https://cdn.hackernoon.com/images/HFUEKwOWUPZSlUykLPDZ2wtZy5O2-gd93g3d.png)
-Getting started with embeddings using open-source tools.
-
-### [24. 'El transformador ilustrado' una traducción al español](https://hackernoon.com/el-transformador-ilustrado-una-traduccion-al-espanol-0y73wwp)
+### [23. 'El transformador ilustrado' una traducción al español](https://hackernoon.com/el-transformador-ilustrado-una-traduccion-al-espanol-0y73wwp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHFUEKwOWUPZSlUykLPDZ2wtZy5O2-3h403w2p.jpeg?alt=media&token=39bfaaac-6549-4644-88a0-70fca5652a73)
 <meta name="monetization" content="$ilp.uphold.com/EXa8i9DQ32qy">
+
+### [24. How to Get Started With Embeddings](https://hackernoon.com/how-to-get-started-with-embeddings)
+![](https://cdn.hackernoon.com/images/HFUEKwOWUPZSlUykLPDZ2wtZy5O2-gd93g3d.png)
+Getting started with embeddings using open-source tools.
 
 ### [25. Building an End-to-End Speech Recognition Model in PyTorch with AssemblyAI](https://hackernoon.com/building-an-end-to-end-speech-recognition-model-in-pytorch-with-assemblyai-5o8s3yry)
 ![](https://cdn.hackernoon.com/drafts/clkv3y9q.png)
@@ -160,13 +164,13 @@ I started using Pytorch to train my models back in early 2018 with 0.3.1 release
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNOQljKc7VidoF3rSpZz9cqbrgRG2-6q993tps.jpeg?alt=media&token=4617a72b-4862-495b-b8d8-a8df871500e4)
 PyTorch has sort of became one of the de facto standard for creating Neural Networks now, and I love its interface. Yet, it is somehow a little difficult for beginners to get a hold of.
 
-### [40. How to Use ASR System for Accurate Transcription Properties of Your Digital Product](https://hackernoon.com/how-to-use-asr-system-for-accurate-transcription-properties-of-your-digital-product-ms3g33em)
-![](https://cdn.hackernoon.com/images/PwSBRp8F5yeW9n5TelpZpofF0YJ3-sa2j33j8.jpeg)
-building an end to end automatic speech recognition system with Wav2vec 2.0. The full blog post shows code samples using python and pytorch.
-
-### [41. What Really Determines the Speed of Your PyTorch Code?](https://hackernoon.com/what-really-determines-the-speed-of-your-pytorch-code)
+### [40. What Really Determines the Speed of Your PyTorch Code?](https://hackernoon.com/what-really-determines-the-speed-of-your-pytorch-code)
 ![](https://cdn.hackernoon.com/images/fC1itSyqNUgnCWRLHHn3oDd8JjE2-bk03n18.png)
 Learn how to benchmark PyTorch and CUDA code correctly. A practical guide to measuring GPU performance using CUDA events.
+
+### [41. How to Use ASR System for Accurate Transcription Properties of Your Digital Product](https://hackernoon.com/how-to-use-asr-system-for-accurate-transcription-properties-of-your-digital-product-ms3g33em)
+![](https://cdn.hackernoon.com/images/PwSBRp8F5yeW9n5TelpZpofF0YJ3-sa2j33j8.jpeg)
+building an end to end automatic speech recognition system with Wav2vec 2.0. The full blog post shows code samples using python and pytorch.
 
 ### [42. Deep Learning at Alibaba Cloud with Alluxio: How To Run PyTorch on HDFS](https://hackernoon.com/deep-learning-at-alibaba-cloud-with-alluxio-how-to-run-pytorch-on-hdfs-nep3uhm)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMEO1Whp7pdbY2Fmqr6xMgItyqS23-pkao3u67.webp?alt=media&token=ac759dff-1842-4e24-9696-86d3fe1f1bbc)
@@ -176,43 +180,47 @@ This tutorial shows how Alibaba Cloud Container team runs PyTorch on HDFS using 
 ![](https://cdn.hackernoon.com/images/nd15v29ad.jpg)
 Recent years have seen a plethora of pre-trained models such as ULMFiT, BERT, GPT,  etc being open-sourced to the NLP community. Given the size of such humungous models, it's nearly impossible to train such networks from scratch considering the amount of data and computation that is required.  This is where a new learning paradigm "Transfer Learning" kicks in. Transfer learning is a research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. 
 
-### [44. Arm, Meta Partner to Improve AI Power Efficiency](https://hackernoon.com/arm-meta-partner-to-improve-ai-power-efficiency)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-74023m0.jpeg)
-Arm and Meta form partnership to optimize AI software for energy-efficient chips used in data centers and devices.
-
-### [45. Implementation Details of Tree-Diffusion: Architecture and Training for Inverse Graphics](https://hackernoon.com/implementation-details-of-tree-diffusion-architecture-and-training-for-inverse-graphics)
-![](https://cdn.hackernoon.com/images/futuristic-architecture-ny3rpwn35e62qvkz9joomvgu.png)
-This article provides the technical implementation details of the Tree-Diffusion architecture using PyTorch and NF-ResNet.
-
-### [46. Reverse Engineering the AI Supply Chain: Why Regex Won't Save Your PyTorch Models](https://hackernoon.com/reverse-engineering-the-ai-supply-chain-why-regex-wont-save-your-pytorch-models)
+### [44. Reverse Engineering the AI Supply Chain: Why Regex Won't Save Your PyTorch Models](https://hackernoon.com/reverse-engineering-the-ai-supply-chain-why-regex-wont-save-your-pytorch-models)
 ![](https://cdn.hackernoon.com/images/GmYF0fRjjzf66dxUi7kwMNErJgv1-et13a4i.png)
 Stop blindly trusting AI models. Veritensor is an open-source CLI that detects RCE malware in Pickle/PyTorch files and verifies Hugging Face integrity. 
 
-### [47. Our GPU Was Idle 77% of the Time. Here's How We Fixed It](https://hackernoon.com/our-gpu-was-idle-77percent-of-the-time-heres-how-we-fixed-it)
+### [45. Our GPU Was Idle 77% of the Time. Here's How We Fixed It](https://hackernoon.com/our-gpu-was-idle-77percent-of-the-time-heres-how-we-fixed-it)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-si024pe.jpeg)
 Pinned memory and non-blocking streams can speed up data transfers.
+
+### [46. Arm, Meta Partner to Improve AI Power Efficiency](https://hackernoon.com/arm-meta-partner-to-improve-ai-power-efficiency)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-74023m0.jpeg)
+Arm and Meta form partnership to optimize AI software for energy-efficient chips used in data centers and devices.
+
+### [47. Implementation Details of Tree-Diffusion: Architecture and Training for Inverse Graphics](https://hackernoon.com/implementation-details-of-tree-diffusion-architecture-and-training-for-inverse-graphics)
+![](https://cdn.hackernoon.com/images/futuristic-architecture-ny3rpwn35e62qvkz9joomvgu.png)
+This article provides the technical implementation details of the Tree-Diffusion architecture using PyTorch and NF-ResNet.
 
 ### [48. The HackerNoon Newsletter: How to Grow Your Reach and Authority as a Writer  (1/28/2026)](https://hackernoon.com/1-28-2026-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_566_nmpm9qe8wuqpe3rrvzmwbngs.png)
 1/28/2026: Top 5 stories on the HackerNoon homepage!
 
-### [49. Implementing Automatic Filtering with PyTorch and Transformers](https://hackernoon.com/implementing-automatic-filtering-with-pytorch-and-transformers)
+### [49. Your PyTorch Model Is Slower Than You Think: This Is the Reason Why](https://hackernoon.com/your-pytorch-model-is-slower-than-you-think-this-is-the-reason-why)
+![](https://cdn.hackernoon.com/images/itKFRHi4jNMdWQ120Mja3BJ6le63-io83bk7.png)
+We’ll cover three categories of hidden bottlenecks I measured on a  real RTX 5060 training loop. None of them are in your model architecture. 
+
+### [50. Implementing Automatic Filtering with PyTorch and Transformers](https://hackernoon.com/implementing-automatic-filtering-with-pytorch-and-transformers)
 ![](https://cdn.hackernoon.com/images/a-laptop-displaying-lines-of-code-on-a-desk-a9fofqdarrpe79ci1e1ih8dw.png)
 Explore the seamless implementation of automatic filtering using PyTorch and the Transformers library.
 
-### [50. Lessons from Testing AI Models on Global Damage Data](https://hackernoon.com/lessons-from-testing-ai-models-on-global-damage-data)
+### [51. Lessons from Testing AI Models on Global Damage Data](https://hackernoon.com/lessons-from-testing-ai-models-on-global-damage-data)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-cx03243.jpeg)
 This article’s results show Faster R-CNN with ResNet backbones beats YOLOv5 for road damage detection, with noted gains and failure case insights. 
 
-### [51. Fair Data Pruning Implementation: Datasets, Methods, and Augmentation](https://hackernoon.com/fair-data-pruning-implementation-datasets-methods-and-augmentation)
+### [52. Fair Data Pruning Implementation: Datasets, Methods, and Augmentation](https://hackernoon.com/fair-data-pruning-implementation-datasets-methods-and-augmentation)
 ![](https://cdn.hackernoon.com/images/computer-vision-cyberpunk-aaulz907xu94zvoyc2yvtmft.png)
 This section details the datasets (CIFAR, TinyImageNet), pruning algorithms (including MetriQ), query model training, score extraction, and data augmentation
-
-### [52. Potholes, Pipelines, and Precision: Benchmarking Object Detectors for Global Road Safety](https://hackernoon.com/potholes-pipelines-and-precision-benchmarking-object-detectors-for-global-road-safety)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-m1032hr.jpeg)
-This article compares YOLOv5 and Faster R-CNN for road damage detection, finding two-stage models with ResNet backbones yield top generalized results.
 
 ### [53. Benchmarking Faster R-CNN and YOLOv5 for Global Road Damage Detection Across Countries](https://hackernoon.com/benchmarking-faster-r-cnn-and-yolov5-for-global-road-damage-detection-across-countries)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-6v032x3.jpeg)
 This article details model choice, tuning, and dataset prep for road damage detection, comparing Faster R-CNN and YOLOv5 on a global multi-country dataset. 
+
+### [54. Potholes, Pipelines, and Precision: Benchmarking Object Detectors for Global Road Safety](https://hackernoon.com/potholes-pipelines-and-precision-benchmarking-object-detectors-for-global-road-safety)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-m1032hr.jpeg)
+This article compares YOLOv5 and Faster R-CNN for road damage detection, finding two-stage models with ResNet backbones yield top generalized results.
 

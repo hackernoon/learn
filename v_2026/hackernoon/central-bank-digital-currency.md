@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [central-bank-digital-currency](https://hackernoon.com/tagged/central-bank-digital-currency)
+### Let's learn about [Central Bank Digital Currency](https://hackernoon.com/tagged/central-bank-digital-currency) via these 54 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A Central Bank Digital Currency (CBDC) is a digital form of a country's fiat currency, issued and backed by its central bank. CBDCs matter as they could revolutionize financial systems, offering potential benefits like increased financial inclusion, improved payment efficiency, and enhanced monetary policy control.
+
 ### [1. The Fed's Disastrous Confusion about Money](https://hackernoon.com/the-feds-disaterous-confusion-about-money)
 ![](https://cdn.hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-acb3tz9.png)
 Money is a contract between two or more parties. The arrangement solves a central challenge in trade referred to as the coincidence of wants problem
@@ -77,41 +81,41 @@ CBDC is a digital liability of a central bank that is widely available to the ge
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-rb835en.png)
  The initiative is set to train 1,000 Nigerians annually in cutting-edge fields such as artificial intelligence and blockchain technology.
 
-### [20. Bitcoin and CBDC - Using the Trend](https://hackernoon.com/bitcoin-and-cbdc-using-the-trend)
-![](https://cdn.hackernoon.com/images/PDUSNhPZdqOLSb59OQHawDU0wR82-gg93noj.jpeg)
-Bitcoin and Central Bank Digital Currencies - CBDC. What is the future of the dollar and money we know? Can Bitcoin change the way we think of the money?
-
-### [21. A CBDC Could Allow Governments to Put Permissions on What You Buy](https://hackernoon.com/a-cbdc-could-allow-governments-to-put-permissions-on-what-you-buy)
+### [20. A CBDC Could Allow Governments to Put Permissions on What You Buy](https://hackernoon.com/a-cbdc-could-allow-governments-to-put-permissions-on-what-you-buy)
 ![](https://cdn.hackernoon.com/images/ZSnNpZ3GejgVSxqs3EyP38vlsLL2-g0936ak.jpeg)
 The European Central Bank (ECB) puts out a call to digital identity experts to participate in a workstream that will contribute to its digital euro rulebook.
+
+### [21. Bitcoin and CBDC - Using the Trend](https://hackernoon.com/bitcoin-and-cbdc-using-the-trend)
+![](https://cdn.hackernoon.com/images/PDUSNhPZdqOLSb59OQHawDU0wR82-gg93noj.jpeg)
+Bitcoin and Central Bank Digital Currencies - CBDC. What is the future of the dollar and money we know? Can Bitcoin change the way we think of the money?
 
 ### [22. Why Nigeria’s “Speed Wallet” Concept is Crucial for CBDC Implementation Projects](https://hackernoon.com/why-nigerias-speed-wallet-concept-is-crucial-for-cbdc-implementation-projects)
 ![](https://cdn.hackernoon.com/images/3pTeNO1AnShySIvjgizFrTlMh2j2-5xqb35jc.jpeg)
 The utilization of the "speed wallet" concept offers a temporary solution on the path to true CBDC implementation that central banks must examine closely.
 
-### [23. Is Money Really Programmable?](https://hackernoon.com/is-money-really-programmable)
-![](https://cdn.hackernoon.com/images/OtJzzAct4ogl0v25V43xSyGcJAt1-yb93te1.jpeg)
-Central Bank Digital Currency is on the verge of being rolled out in the USA, with the possibility that it will replace the cash dollar.
-
-### [24. Now You Understand: Central Bank Digital Currency (CBDC) Explanation and Usage - Part I](https://hackernoon.com/now-you-understand-central-bank-digital-currency-cbdc-explanation-and-usage-part-i)
+### [23. Now You Understand: Central Bank Digital Currency (CBDC) Explanation and Usage - Part I](https://hackernoon.com/now-you-understand-central-bank-digital-currency-cbdc-explanation-and-usage-part-i)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-hq831iq.jpeg)
 Your ultimate guide to CBDC (Central Bank Digital Currency), answering the questions what is it, what are its use cases and its impact on the financial system.
+
+### [24. Is Money Really Programmable?](https://hackernoon.com/is-money-really-programmable)
+![](https://cdn.hackernoon.com/images/OtJzzAct4ogl0v25V43xSyGcJAt1-yb93te1.jpeg)
+Central Bank Digital Currency is on the verge of being rolled out in the USA, with the possibility that it will replace the cash dollar.
 
 ### [25. CBDCs and Soulbound Token Explained](https://hackernoon.com/cbdcs-and-soulbound-token-explained)
 ![](https://cdn.hackernoon.com/images/nKOSdWi6lagDhXrZUO671BuFhX42-i193ulm.jpeg)
 Will CBDCs replace cryptocurrency? Will Soulbound tokens -  as touted by Vitalik Buterin- help to overcome some of NFTs’ challenges? Let’s take a deep dive in!
 
-### [26. Uncovering the Benefits and Risks of Central Bank Digital Currencies: An In-Depth Analysis](https://hackernoon.com/uncovering-the-benefits-and-risks-of-central-bank-digital-currencies-an-in-depth-analysis)
+### [26. Digital Dollars, Digital Yuan, Digital Chaos? The CBDC Arms Race Explained](https://hackernoon.com/digital-dollars-digital-yuan-digital-chaos-the-cbdc-arms-race-explained)
+![](https://cdn.hackernoon.com/images/nq6SaQbrF4TY3NR3lfNqcvLFJI33-hq0243v.jpeg)
+The article highlights the motivations behind CBDC initiatives and evaluates the practical experiments conducted by central banks.
+
+### [27. Uncovering the Benefits and Risks of Central Bank Digital Currencies: An In-Depth Analysis](https://hackernoon.com/uncovering-the-benefits-and-risks-of-central-bank-digital-currencies-an-in-depth-analysis)
 ![](https://cdn.hackernoon.com/images/Y4csCkgtvfUS93jECVxUa0bHSwr2-1ka3r49.jpeg)
 CBDCs, despite their promises of increased economic inclusion, pose a significant threat to our privacy and financial freedom.
 
-### [27. What Emerging American Legislation Means for Crypto Assets and CBDCs](https://hackernoon.com/what-emerging-american-legislation-means-for-crypto-assets-and-cbdcs)
+### [28. What Emerging American Legislation Means for Crypto Assets and CBDCs](https://hackernoon.com/what-emerging-american-legislation-means-for-crypto-assets-and-cbdcs)
 ![](https://cdn.hackernoon.com/images/3pTeNO1AnShySIvjgizFrTlMh2j2-gd036ir.jpeg)
 By normalizing cryptocurrency-related banking services, the American government can help develop a more mature ecosystem to support cryptoassets and CBDCs.
-
-### [28. Digital Dollars, Digital Yuan, Digital Chaos? The CBDC Arms Race Explained](https://hackernoon.com/digital-dollars-digital-yuan-digital-chaos-the-cbdc-arms-race-explained)
-![](https://cdn.hackernoon.com/images/nq6SaQbrF4TY3NR3lfNqcvLFJI33-hq0243v.jpeg)
-The article highlights the motivations behind CBDC initiatives and evaluates the practical experiments conducted by central banks.
 
 ### [29. 59 Stories To Learn About Cbdc](https://hackernoon.com/59-stories-to-learn-about-cbdc)
 ![](https://cdn.hackernoon.com/images/github/cbdc-225.png)
@@ -153,29 +157,29 @@ To paraphrase John K. Galbraith, while many concepts that relate money, venture 
 ![](https://cdn.hackernoon.com/images/3pTeNO1AnShySIvjgizFrTlMh2j2-aa03gpi.png)
 ECCB's Dcash outage provides central bankers, governments, &technology providers with the opportunity to reflect on the challenges emerging from CBDC failures.
 
-### [39. Financial Inclusion Is a Myth: How Gluwa Make Nigeria Borderless Finance Reality](https://hackernoon.com/financial-inclusion-is-a-myth-how-gluwa-make-nigeria-borderless-finance-reality)
-![](https://cdn.hackernoon.com/images/oHWbkjMF6ITjTbWtdfKWfrAExQv1-6j03zk9.jpeg)
-
-
-### [40. Why Understanding Digital Wallets is Key for Central Banks Desiring Widespread CBDC Implementation](https://hackernoon.com/why-understanding-digital-wallets-is-key-for-central-banks-desiring-widespread-cbdc-implementation)
+### [39. Why Understanding Digital Wallets is Key for Central Banks Desiring Widespread CBDC Implementation](https://hackernoon.com/why-understanding-digital-wallets-is-key-for-central-banks-desiring-widespread-cbdc-implementation)
 ![](https://cdn.hackernoon.com/images/3pTeNO1AnShySIvjgizFrTlMh2j2-xx93jvs.jpeg)
 Governments must identify, discuss, and ideate their wallet choices when thinking about CBDCs, incorporating key policy considerations for true defi for all.
 
-### [41. The Future of the Banking Industry](https://hackernoon.com/the-future-of-the-banking-industry-l53x31ul)
+### [40. The Future of the Banking Industry](https://hackernoon.com/the-future-of-the-banking-industry-l53x31ul)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-7p24340t.jpeg)
 It is hard to believe that soon banks will lose their hegemony, but the process is happening and cryptocurrency is a big part of the reason
+
+### [41. A Peek at How Regulation Molds the Scoreboard - Crypto’s Global Ledger](https://hackernoon.com/a-peek-at-how-regulation-molds-the-scoreboard-cryptos-global-ledger)
+![](https://cdn.hackernoon.com/images/22qULrU2ZPb8VRsSedCeA6x7AJ13-2z036n4.png)
+Countries that blend clarity with credibility will succeed in attracting crypto flows, entrepreneurs, and ecosystems.
 
 ### [42. How the Taliban Will Increase Threat Actor Usage of Cryptocurrencies and CBDCs](https://hackernoon.com/how-the-taliban-will-increase-threat-actor-usage-of-cryptocurrencies-and-cbdcs-2d3m37jd)
 ![](https://cdn.hackernoon.com/images/3pTeNO1AnShySIvjgizFrTlMh2j2-ul2js359f.jpeg)
 The Taliban’s return to power presents a distinct use case for cryptocurrencies and central bank digital currencies (CBDCs) alike. 
 
-### [43. A Peek at How Regulation Molds the Scoreboard - Crypto’s Global Ledger](https://hackernoon.com/a-peek-at-how-regulation-molds-the-scoreboard-cryptos-global-ledger)
-![](https://cdn.hackernoon.com/images/22qULrU2ZPb8VRsSedCeA6x7AJ13-2z036n4.png)
-Countries that blend clarity with credibility will succeed in attracting crypto flows, entrepreneurs, and ecosystems.
-
-### [44. CBDCs: Innovation For Better Monetary Policies](https://hackernoon.com/cbdcs-innovation-for-better-monetary-policies-k95y31p6)
+### [43. CBDCs: Innovation For Better Monetary Policies](https://hackernoon.com/cbdcs-innovation-for-better-monetary-policies-k95y31p6)
 ![](https://cdn.hackernoon.com/images/wYVsaB2md5QrfgtiJtxj5uzlACo2-qi1o31y7.jpeg)
 Over the last decade, the monetary policies of Central Banks haven't helped much the global economy and all have failed to meet their targets. Since the global financial crisis of 2008, Central Banks like the ECB have neither succeed to meet their inflation targets nor to restore the economic activity. Central Banks have also failed to innovate and adopt new technologies and systems that may solve many issues. However, the last few months this has changed as they have started to examine the new technologies like DLT or blockchain.
+
+### [44. CBDCs and Privacy: The Battle Between Control and Personal Rights](https://hackernoon.com/cbdcs-and-privacy-the-battle-between-control-and-personal-rights)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-9s93ohl.jpeg)
+Earlier this May 2023, in the US, the state of Florida approved a ban on the use of any central bank digital currency (CBDC) as legal tender.
 
 ### [45. Digital Euro (CBDCs): Closer To Reality Than You Think](https://hackernoon.com/digital-euro-cbdcs-closer-to-reality-than-you-think-3w2l3wqb)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIII69SpKdjNUtrd3UWA2IyJK5E83-pl4w3wmt.jpeg?alt=media&token=bc223be2-4fb4-4ec4-94c6-c62eef88ccc0)
@@ -183,13 +187,13 @@ The ECB (European Central Bank) has published a report stating
 the digital euro is getting closer to be launched. It gives an overview of a
 possible roadmap for implementing the digital euro as well as the advantages and disadvantages of a digital currency in the euro zone. 
 
-### [46. CBDCs and Privacy: The Battle Between Control and Personal Rights](https://hackernoon.com/cbdcs-and-privacy-the-battle-between-control-and-personal-rights)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-9s93ohl.jpeg)
-Earlier this May 2023, in the US, the state of Florida approved a ban on the use of any central bank digital currency (CBDC) as legal tender.
-
-### [47. Are Central Bank Digital Currencies (CBDCs) Legit?](https://hackernoon.com/central-bank-digital-currencies-a-threat-or-a-blessing-rl153uta)
+### [46. Are Central Bank Digital Currencies (CBDCs) Legit?](https://hackernoon.com/central-bank-digital-currencies-a-threat-or-a-blessing-rl153uta)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkuGSv82WVjg0Rg1B2LpgBSZbY7p1-7s73xjo.jpeg?alt=media&token=80da4818-ea58-45d0-902b-8316e9559f28)
 Central bank digital currencies (CBDCs) have been in the rumors since 2013, with China allegedly developing in secrecy a government-issued centralized cryptocurrency to fight off the increasingly popular Bitcoin. But it wasn’t until September 2015 when the Bank of England had publicly discussed for the first time the use of a blockchain-based central bank currency as a way to implement negative interest rates, and March 2016 when the phrase “central bank digital currency” had been coined.
+
+### [47. Financial Inclusion Is a Myth: How Gluwa Make Nigeria Borderless Finance Reality](https://hackernoon.com/financial-inclusion-is-a-myth-how-gluwa-make-nigeria-borderless-finance-reality)
+![](https://cdn.hackernoon.com/images/oHWbkjMF6ITjTbWtdfKWfrAExQv1-6j03zk9.jpeg)
+
 
 ### [48. DeFi— the Solution to Centralized Finance](https://hackernoon.com/defi-the-solution-to-centralized-finance)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-rp93p6p.jpeg)
@@ -207,13 +211,13 @@ CBDCs may be able to help bring stability to the Israeli-Palestinian conflict by
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-3p936c4.jpeg)
 In a significant development on Capitol Hill, U.S. Representative Tom Emmer celebrated the passage of his groundbreaking Anti-CBDC bill. This legislation...
 
-### [52. The Day the Central Bank Said ‘Yes!’ to Blockchain: Nigeria’s eNaira and Gluwa's 'Situationship'🤝🚀](https://hackernoon.com/the-day-the-central-bank-said-yes-to-blockchain-nigerias-enaira-and-gluwas-situationship)
-![](https://cdn.hackernoon.com/images/bBw6lclZnZVSAS64ULonnkXwtDu1-iv03byy.webp)
-The Central Bank of Nigeria first abolished crypto, then they suddenly came to terms with it, and now they even ADOPT IT! Is Gluwa to blame for this or is...
-
-### [53. Surveillance Clash: Into the Congressional Debut of an Anti-CBDC Bill](https://hackernoon.com/surveillance-clash-into-the-congressional-debut-of-an-anti-cbdc-bill)
+### [52. Surveillance Clash: Into the Congressional Debut of an Anti-CBDC Bill](https://hackernoon.com/surveillance-clash-into-the-congressional-debut-of-an-anti-cbdc-bill)
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-xt933jz.jpeg)
 Join the debate on the future of digital currencies and unravel the complexities of this financial privacy showdown!
+
+### [53. The Day the Central Bank Said ‘Yes!’ to Blockchain: Nigeria’s eNaira and Gluwa's 'Situationship'🤝🚀](https://hackernoon.com/the-day-the-central-bank-said-yes-to-blockchain-nigerias-enaira-and-gluwas-situationship)
+![](https://cdn.hackernoon.com/images/bBw6lclZnZVSAS64ULonnkXwtDu1-iv03byy.webp)
+The Central Bank of Nigeria first abolished crypto, then they suddenly came to terms with it, and now they even ADOPT IT! Is Gluwa to blame for this or is...
 
 ### [54. CBDCs: The Gray Area Between Fiat and Cryptocurrencies](https://hackernoon.com/cbdcs-the-gray-area-between-fiat-and-cryptocurrencies)
 ![](https://cdn.hackernoon.com/images/6kzsS7ghh1Ndl8H0bKykVZDvkf23-wdc3uhl.jpeg)

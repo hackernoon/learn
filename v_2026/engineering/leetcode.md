@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [leetcode](https://hackernoon.com/tagged/leetcode)
+### Let's learn about [Leetcode](https://hackernoon.com/tagged/leetcode) via these 72 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+LeetCode is an online platform providing a vast collection of coding problems to help developers practice and master algorithmic challenges. It's an indispensable resource for interview preparation and enhancing programming abilities.
+
 ### [1. 14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 ![](https://cdn.hackernoon.com/images/interview-with-a-computer-developer-clgnf08id000001s698o4eedu.png)
 The process of preparing for coding interviews is anxiety-inducing for many developers. There’s so much material to cover, and often much of it feels irrelevant to what devs are doing in their day jobs, which only adds to the stress.
@@ -77,13 +81,13 @@ The article explores the Sliding Window pattern's efficient application through 
 ![](https://cdn.hackernoon.com/images/rOSkQXtq7FclP5kp7uY7HWXRaLv1-r793oal.jpeg)
 The First Missing Positive problem is an algorithm problem that requires finding the smallest positive integer that is not present in a given unsorted array of 
 
-### [20. 10 LeetCode Patterns to Solve 1000 LeetCode Problems](https://hackernoon.com/10-leetcode-patterns-to-solve-1000-leetcode-problems)
-![](https://cdn.hackernoon.com/images/coding-problems-and-solutions-v83314mn3q8lcsc9o4xqh0u4.png)
-Ever wondered how to master 1000 LeetCode problems in six months? You have a shortcut. By learning these ten patterns, you can solve LeetCode easily.
-
-### [21. How to Go From Noob to Master: Leetcode Contests](https://hackernoon.com/how-to-go-from-noob-to-master-leetcode-contests)
+### [20. How to Go From Noob to Master: Leetcode Contests](https://hackernoon.com/how-to-go-from-noob-to-master-leetcode-contests)
 ![](https://cdn.hackernoon.com/images/CnJv7NYOWaSyKeWa0453Bv8asBJ3-m903dqi.webp)
 How to Master Data Structures and Algorithms and Leetcode and Codeforces Contests for Beginners.
+
+### [21. 10 LeetCode Patterns to Solve 1000 LeetCode Problems](https://hackernoon.com/10-leetcode-patterns-to-solve-1000-leetcode-problems)
+![](https://cdn.hackernoon.com/images/coding-problems-and-solutions-v83314mn3q8lcsc9o4xqh0u4.png)
+Ever wondered how to master 1000 LeetCode problems in six months? You have a shortcut. By learning these ten patterns, you can solve LeetCode easily.
 
 ### [22. Empowering Newbies: Building Confidence Through 600+ LeetCode Solutions – A Guide for Beginners](https://hackernoon.com/empowering-newbies-building-confidence-through-600-leetcode-solutions-a-guide-for-beginners)
 ![](https://cdn.hackernoon.com/images/FnJSyiTSqmPvpvgC9FHggSRb8Gj2-uma32au.jpeg)
@@ -117,13 +121,13 @@ Solving k-th largest element in the array using heap and quickselect
 ![](https://cdn.hackernoon.com/images/3G1ulLKiAIdcU1UfmgecSS7GdE32-t0236v1.jpeg)
 I made a Chrome extension that generates random LeetCode questions for you to practice with every day. Here's how I did it.
 
-### [30. Mastering Leetcode: 6 Problem Picking Patterns for Technical Success](https://hackernoon.com/mastering-leetcode-6-problem-picking-patterns-for-technical-success)
-![](https://cdn.hackernoon.com/images/KnAMG4MVH9V4I5ZQMPzEqIGP8Nc2-u293p7i.jpeg)
-Coding Ninja Says: Accelerate your career by solving leetcode analysis paralysis with additional career advice
-
-### [31. Comparing LLMs' Coding Abilities Across Programming Languages ](https://hackernoon.com/comparing-llms-coding-abilities-across-programming-languages)
+### [30. Comparing LLMs' Coding Abilities Across Programming Languages ](https://hackernoon.com/comparing-llms-coding-abilities-across-programming-languages)
 ![](https://cdn.hackernoon.com/images/tUyDy3WCvhMrS9XRgsoD10WmU5k2-xr83eyd.png)
 Benchmark of 5 LLMs solving LeetCode problems in Python, Java, Rust, Elixir, Oracle SQL and MySQL. Results show language popularity correlates with success.
+
+### [31. Mastering Leetcode: 6 Problem Picking Patterns for Technical Success](https://hackernoon.com/mastering-leetcode-6-problem-picking-patterns-for-technical-success)
+![](https://cdn.hackernoon.com/images/KnAMG4MVH9V4I5ZQMPzEqIGP8Nc2-u293p7i.jpeg)
+Coding Ninja Says: Accelerate your career by solving leetcode analysis paralysis with additional career advice
 
 ### [32. Multiply Strings (LeetCode): An Out of the Box Solution In JavaScript](https://hackernoon.com/multiply-strings-leetcode-an-out-of-the-box-solution-in-javascript)
 ![](https://cdn.hackernoon.com/images/MppoGnEe7vYWhYy8162Auiz1Mzj1-csa3xkr.jpeg)
@@ -166,13 +170,13 @@ Binary Lifting and its use in finding Lowest Common Ancestor (LCA). Explore this
 ![](https://cdn.hackernoon.com/images/u8zdoGfwxzbJbUMX8BISChIErgH2-bza3o6y.jpeg)
 In hamming distance problem, we find the number of positions where the bits are different for the given input with constant time complexity.
 
-### [42. Kotlin Binary Tree Preorder Traversal (A Recursive Solution and Without Using Recursion)](https://hackernoon.com/kotlin-binary-tree-preorder-traversal-a-recursive-solution-and-without-using-recursion)
-![](https://cdn.hackernoon.com/images/uRoI8oauMUSL1OEueHGhCxCQqmY2-zg934py.jpeg)
-This post is about preorder traversal of a binary tree, a method of traversing the tree in which the current node is visited before its children. 
-
-### [43. Mastering Top LeetCode Patterns for Coding Interviews: A 2025 Guide and Strategy](https://hackernoon.com/mastering-top-leetcode-patterns-for-coding-interviews-a-2025-guide-and-strategy)
+### [42. Mastering Top LeetCode Patterns for Coding Interviews: A 2025 Guide and Strategy](https://hackernoon.com/mastering-top-leetcode-patterns-for-coding-interviews-a-2025-guide-and-strategy)
 ![](https://cdn.hackernoon.com/images/YtVOh4VgfNUefCtLyspIrT3aoFt2-bs03m1f.jpeg)
 Master 7 key LeetCode patterns (Sliding Window, Two Pointers, DP & more) for 2025 coding interviews. Includes code examples & 12-week study plan.
+
+### [43. Kotlin Binary Tree Preorder Traversal (A Recursive Solution and Without Using Recursion)](https://hackernoon.com/kotlin-binary-tree-preorder-traversal-a-recursive-solution-and-without-using-recursion)
+![](https://cdn.hackernoon.com/images/uRoI8oauMUSL1OEueHGhCxCQqmY2-zg934py.jpeg)
+This post is about preorder traversal of a binary tree, a method of traversing the tree in which the current node is visited before its children. 
 
 ### [44. Contains Duplicate and Missing Number](https://hackernoon.com/contains-duplicate-and-missing-number)
 ![](https://cdn.hackernoon.com/images/WyL2V0Nj20amUlioe5bpd0cPHF92-ne93q50.jpeg)
@@ -184,13 +188,13 @@ author: Sergei Golitsyn https://t.me/crack_code_interview
 ![](https://cdn.hackernoon.com/images/WyL2V0Nj20amUlioe5bpd0cPHF92-rp93pbk.jpeg)
 You need to solve this: given an integer array nums representing the amount of money of each house, return the maximum amount of money you can rob tonight.
 
-### [46. Is a Given Number the Power of 2? ](https://hackernoon.com/is-a-given-number-the-power-of-2)
-![](https://cdn.hackernoon.com/images/u8zdoGfwxzbJbUMX8BISChIErgH2-id93nty.jpeg)
-In this lesson, we will try to check if the given number is a power of 2. We solve this by writing an efficient algorithm that takes an optimal amount of time.
-
-### [47. Do Not Fear Dynamic Programming (Part 1)](https://hackernoon.com/do-not-fear-dynamic-programming-part-1)
+### [46. Do Not Fear Dynamic Programming (Part 1)](https://hackernoon.com/do-not-fear-dynamic-programming-part-1)
 ![](https://cdn.hackernoon.com/images/Y2fAHbtIx0dvnHB1xqBk1zw8SQl1-gj832ha.jpeg)
 Dyanmic Programming isn't as hard as people think. We'll break it down in this guide.
+
+### [47. Is a Given Number the Power of 2? ](https://hackernoon.com/is-a-given-number-the-power-of-2)
+![](https://cdn.hackernoon.com/images/u8zdoGfwxzbJbUMX8BISChIErgH2-id93nty.jpeg)
+In this lesson, we will try to check if the given number is a power of 2. We solve this by writing an efficient algorithm that takes an optimal amount of time.
 
 ### [48. Implement Queue using Stacks](https://hackernoon.com/implement-queue-using-stacks)
 ![](https://cdn.hackernoon.com/images/WyL2V0Nj20amUlioe5bpd0cPHF92-zl93p1u.jpeg)
@@ -201,29 +205,29 @@ Implement a first in first out (FIFO) queue using only two stacks
 ![](https://cdn.hackernoon.com/images/github/data-structures-398.png)
 Learn everything you need to know about Data Structures via these 87 free HackerNoon stories.
 
-### [50. Power of Four and Reverse Vowels of a String](https://hackernoon.com/power-of-four-and-reverse-vowels-of-a-string)
-![](https://cdn.hackernoon.com/images/WyL2V0Nj20amUlioe5bpd0cPHF92-hg93p0q.jpeg)
-The easiest way how to solve this problem is to divide N on 4 and that is it.
+### [50. Leetcode or Projects — Which One Is Likely to Land You a Tech Job?](https://hackernoon.com/leetcode-or-projects-which-one-is-likely-to-land-you-a-tech-job)
+![](https://cdn.hackernoon.com/images/IYXqfnSadehiMIPPHRg7yoAmak12-0u039o2.webp)
+If your résumé has no strong projects, you might get rejected. On the flip side, if you haven’t done any interview prep, you might bomb the actual interviews.
 
 ### [51. Using the Two-Pointer Kotlin Approach to Solve for the Container with the Most Water](https://hackernoon.com/using-the-two-pointer-kotlin-approach-to-solve-for-the-container-with-the-most-water)
 ![](https://cdn.hackernoon.com/images/uRoI8oauMUSL1OEueHGhCxCQqmY2-1a935bh.jpeg)
 This problem asks us to find the maximum amount of water that can be stored in a container formed by two lines, on a 2-dimensional plane and the x-axis. 
 
-### [52. Leetcode or Projects — Which One Is Likely to Land You a Tech Job?](https://hackernoon.com/leetcode-or-projects-which-one-is-likely-to-land-you-a-tech-job)
-![](https://cdn.hackernoon.com/images/IYXqfnSadehiMIPPHRg7yoAmak12-0u039o2.webp)
-If your résumé has no strong projects, you might get rejected. On the flip side, if you haven’t done any interview prep, you might bomb the actual interviews.
+### [52. Power of Four and Reverse Vowels of a String](https://hackernoon.com/power-of-four-and-reverse-vowels-of-a-string)
+![](https://cdn.hackernoon.com/images/WyL2V0Nj20amUlioe5bpd0cPHF92-hg93p0q.jpeg)
+The easiest way how to solve this problem is to divide N on 4 and that is it.
 
 ### [53. Leetcode Coding Challenge Using Lambda](https://hackernoon.com/leetcode-coding-challenge-using-lambda-2a4c3t41)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2Cg2LUhTzHb4kw0oaj48lUOadgo1-yh8b3uun.jpeg?alt=media&token=0ed05672-c74d-4727-a4ab-2152b8ed2a34)
 I am a big fan of leet code so when we decided to have a code challenge in our team I thought it wouldn’t be a bad idea to build one which should include pretty basic functionalities like:
 
-### [54. Find the Celebrity](https://hackernoon.com/find-the-celebrity)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-j292a5f.jpeg)
-A celebrity is known to everyone, but he does not know anyone at the party.
-
-### [55. Implementing Stack Using Queue](https://hackernoon.com/implementing-stack-using-queue)
+### [54. Implementing Stack Using Queue](https://hackernoon.com/implementing-stack-using-queue)
 ![](https://cdn.hackernoon.com/images/WyL2V0Nj20amUlioe5bpd0cPHF92-au93pk3.jpeg)
 Sergei Golitsyn. Implement a last-in-first-out (LIFO) stack using only two queues. The implemented stack should support all the functions of a normal stack.
+
+### [55. Find the Celebrity](https://hackernoon.com/find-the-celebrity)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-j292a5f.jpeg)
+A celebrity is known to everyone, but he does not know anyone at the party.
 
 ### [56. My Open Source Project: The DSA Guide for Data Structures and Algorithms Students](https://hackernoon.com/my-open-source-project-the-dsa-guide-for-data-structures-and-algorithms-students)
 ![](https://cdn.hackernoon.com/images/ten-thousand-data-structures-and-algorithms-students-learning-from-open-source-mp0majfnmkcriporuytadnqr.png)
@@ -265,19 +269,31 @@ Part 2 on my series about dynamic programming problems and coding techniques to 
 ![](https://cdn.hackernoon.com/images/095cZEAGVSfy5kAjcsc2hOeI6g73-tm92p2g.jpeg)
 Using Kotlin at your technical interviews!
 
-### [66. Reflecting on My Year of Consistent Leetcode Practice and Mistakes to Avoid](https://hackernoon.com/reflecting-on-my-year-of-consistent-leetcode-practice-and-mistakes-to-avoid)
+### [66. The LeetCode Illusion: Why Coding Interviews Don't Measure Engineering Skill](https://hackernoon.com/the-leetcode-illusion-why-coding-interviews-dont-measure-engineering-skill)
+![](https://cdn.hackernoon.com/images/8NEjY3nDnKP9s4jxSyfm2Hb7pZI3-y083en4.png)
+LeetCode interviews measure pattern recall, not engineering skill. Here's why the old model is broken, and what better hiring actually looks like.
+
+### [67. Reflecting on My Year of Consistent Leetcode Practice and Mistakes to Avoid](https://hackernoon.com/reflecting-on-my-year-of-consistent-leetcode-practice-and-mistakes-to-avoid)
 ![](https://cdn.hackernoon.com/images/yJx6Jb9xDbaeUH6oktJcQUQy9xR2-5ra33p4.jpeg)
 A year of consistent leetcode practice in improving problem solving skills
 
-### [67. My Dev Journey in 2023: A Year in Review](https://hackernoon.com/my-dev-journey-in-2023-a-year-in-review)
+### [68. My Dev Journey in 2023: A Year in Review](https://hackernoon.com/my-dev-journey-in-2023-a-year-in-review)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-uh82l2m.jpeg)
 Reflecting on 2023 with my accomplishments and programming goals and seeing where 2024 takes me.
 
-### [68. How to Keep Track of Daily LeetCode Challenges With Todoist and Cloudflare Worker](https://hackernoon.com/how-i-sync-daily-leetcoding-challenge-to-todoist)
+### [69. How to Keep Track of Daily LeetCode Challenges With Todoist and Cloudflare Worker](https://hackernoon.com/how-i-sync-daily-leetcoding-challenge-to-todoist)
 ![](https://cdn.hackernoon.com/images/kTPy8kCxQpYe5Ov2B1DHc2cBliy2-la93hjt.jpeg)
 Automate your daily task with Cloudflare Worker's Cron job with an example using LeetCode and Todoist. Test Cloudflare worker cron trigger using Miniflare.
 
-### [69. The HackerNoon Newsletter: Testing LLMs on Solving Leetcode Problems in 2025 (4/8/2025)](https://hackernoon.com/4-8-2025-newsletter)
+### [70. Most Coding Interview Advice Gets This Wrong](https://hackernoon.com/most-coding-interview-advice-gets-this-wrong)
+![](https://cdn.hackernoon.com/images/8NEjY3nDnKP9s4jxSyfm2Hb7pZI3-6593aw2.png)
+Learn how to succeed in coding interviews by clarifying the problem, thinking out loud, coding cleanly, and handling getting stuck.
+
+### [71. The HackerNoon Newsletter: Testing LLMs on Solving Leetcode Problems in 2025 (4/8/2025)](https://hackernoon.com/4-8-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_16_bi4x81hxifrzihr2ql71ni63.png)
 4/8/2025: Top 5 stories on the HackerNoon homepage!
+
+### [72. The “Grind LeetCode” Advice is Mathematically Stupid (I Scraped 1,500 Questions to Prove It)](https://hackernoon.com/the-grind-leetcode-advice-is-mathematically-stupid-i-scraped-1500-questions-to-prove-it)
+![](https://cdn.hackernoon.com/images/xsrjMqXFbpVQgTScU3xQbSniiHG2-duc3ag2.webp)
+I scraped 1500+ tech interview questions to expose company biases. Stop paying $35/mo for LeetCode Premium. Search your target company's exact data for free. 
 

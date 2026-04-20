@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [cryptocurrency-news](https://hackernoon.com/tagged/cryptocurrency-news)
+### Let's learn about [Cryptocurrency News](https://hackernoon.com/tagged/cryptocurrency-news) via these 125 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 What's new in the world of crypto? Go beyond bitcoin price falling and bitcoin price rising.
 
 ### [1. Security Exchange Commission SEC Has Officially Delisted Long Blockchain Corporation](https://hackernoon.com/security-exchange-commission-sec-has-officially-delisted-long-blockchain-corporation-p11p33l3)
@@ -120,13 +122,13 @@ Gold-backed cryptocurrency is something worth considering if you have doubts abo
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-9103cu4.jpeg)
 Kraken delists Monero (XMR) in the EEA due to regulatory pressures, spotlighting the challenges privacy coins face under stricter EU crypto rules.
 
-### [30. Sounding The Death Knell for Cash Money: How Far Is It?](https://hackernoon.com/sounding-the-death-knell-for-cash-money-how-far-is-it-d4df307g)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ol82q25.jpeg)
-Crypto founders share their views on whether physical currency will disappear altogether
-
-### [31. From Internet Voting to Blockchain Voting: From Good to Better](https://hackernoon.com/from-internet-voting-to-blockchain-voting-from-good-to-better)
+### [30. From Internet Voting to Blockchain Voting: From Good to Better](https://hackernoon.com/from-internet-voting-to-blockchain-voting-from-good-to-better)
 ![](https://cdn.hackernoon.com/images/wb443va6tWfO9ezfAOTebkX324z2-3nb3oho.jpeg)
 If you've perchance stumbled over any of my previous ramblings, you'll know I believe blockchain technology has the potential to revolutionise the way we vote. I've been writing about it for over a year now on Hackernoon. In that time, I've had the chance to speak with some of the foremost experts in the field, Amelia Powers Gardener (now County Commisioner for Utah) and Philipe Andrea (silver-tongued advocate for Voatz), amongst others,  and I've learned a lot about the many ways that blockchain can be used to improve the voting process.
+
+### [31. Sounding The Death Knell for Cash Money: How Far Is It?](https://hackernoon.com/sounding-the-death-knell-for-cash-money-how-far-is-it-d4df307g)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ol82q25.jpeg)
+Crypto founders share their views on whether physical currency will disappear altogether
 
 ### [32. Ethereum Layer 2 is Rising to the Challenge](https://hackernoon.com/ethereum-layer-2-is-rising-to-the-challenge-9jt34v5)
 ![](https://cdn.hackernoon.com/images/oz1pUEKDUySfaYPULScZaKWqlfh1-4db636cl.jpeg)
@@ -172,33 +174,33 @@ a data-driven guide to following crypto news
 ![](https://cdn.hackernoon.com/images/vFiYha41ABf1Dp45qCaR6uxKc6t1-rtc3sz0.jpeg)
 A brief summary of how the number 2 crypto exchange in the world, FTX, comes to its collapse
 
-### [43. Why Countries are Rushing to Adopt Bitcoin as Legal Tender](https://hackernoon.com/why-countries-are-rushing-to-adopt-bitcoin-as-legal-tender-l63k37j2)
-![](https://cdn.hackernoon.com/images/oQ9OCKk50pVg7mdDY84cm8fXJru2-0gm372f.jpeg)
-Why Latin American region is the first to adopt Bitcoin as a legal tender, how does it affect people and local businesses. Which countries next to adopt Bitcoin
-
-### [44. Why the Hottest News at Bitcoin 2022 Was Not About Bitcoin](https://hackernoon.com/why-the-hottest-news-at-bitcoin-2022-was-not-about-bitcoin)
+### [43. Why the Hottest News at Bitcoin 2022 Was Not About Bitcoin](https://hackernoon.com/why-the-hottest-news-at-bitcoin-2022-was-not-about-bitcoin)
 ![](https://cdn.hackernoon.com/images/hfzyDMUs8NM8oj1r5fb9K6U3nBq2-0993ke2.jpeg)
 This year’s Bitcoin 2022 in Miami came after the legalization of Bitcoin in El Salvador in September last year bringing the announcement of Shopify integration
+
+### [44. Why Countries are Rushing to Adopt Bitcoin as Legal Tender](https://hackernoon.com/why-countries-are-rushing-to-adopt-bitcoin-as-legal-tender-l63k37j2)
+![](https://cdn.hackernoon.com/images/oQ9OCKk50pVg7mdDY84cm8fXJru2-0gm372f.jpeg)
+Why Latin American region is the first to adopt Bitcoin as a legal tender, how does it affect people and local businesses. Which countries next to adopt Bitcoin
 
 ### [45. Crypto Crash? Not Really... ](https://hackernoon.com/crypto-crash-not-really)
 ![](https://cdn.hackernoon.com/images/rucLDVUL7ahWimn1vc30lsveGZ92-hua3oj9.png)
 This week's "crypto crash" is more of an "everything crash", and no cause for alarm. Check out the surrounding context and do not fall for media scaremongers
 
-### [46. Crypto Versus the Government](https://hackernoon.com/crypto-versus-the-government)
+### [46. From The Brink of Collapse to a Comeback: Odysee Heads to the Arweave Blockchain](https://hackernoon.com/from-the-brink-of-collapse-to-a-comeback-odysee-heads-to-the-arweave-blockchain)
+![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-vb03dk9.jpeg)
+Odysee transitions to Arweave blockchain, enhancing decentralized media with permanent storage and user control, while moving away from its LBC token.
+
+### [47. Crypto Versus the Government](https://hackernoon.com/crypto-versus-the-government)
 ![](https://cdn.hackernoon.com/images/crypto-versus-the-government-clijy469z000001s6eif31np0.png)
 Updates on crypto markets, regulation, gold-backed crypto, World Economic Forum, Davos, and more. 
 
-### [47. 4 BEST Crypto Coins To Invest In 2022](https://hackernoon.com/4-best-crypto-coins-to-invest-in-2022)
+### [48. 4 BEST Crypto Coins To Invest In 2022](https://hackernoon.com/4-best-crypto-coins-to-invest-in-2022)
 ![](https://cdn.hackernoon.com/images/OWwusqtd11XIq9iOOIyuavuCQ7p2-cc93tvn.jpeg)
 The crypto market has had a rough few months as of late, but now, there are a lot of indications that the market may see a sharp rise very soon in 2022
 
-### [48. Resilient Strategies for Crypto Marketing Success in 2024: Overcoming Regulations and Scandals](https://hackernoon.com/resilient-strategies-for-crypto-marketing-success-in-2024-overcoming-regulations-and-scandals)
+### [49. Resilient Strategies for Crypto Marketing Success in 2024: Overcoming Regulations and Scandals](https://hackernoon.com/resilient-strategies-for-crypto-marketing-success-in-2024-overcoming-regulations-and-scandals)
 ![](https://cdn.hackernoon.com/images/dNDmbEwasQUhkkwuUypXDwTWtqI2-um834fo.jpeg)
 The popularity of the Bitcoin ETFs with institutional investors and the calming of the Federal Reserve’s language has spurred renewed interest in cryptocurrency
-
-### [49. From The Brink of Collapse to a Comeback: Odysee Heads to the Arweave Blockchain](https://hackernoon.com/from-the-brink-of-collapse-to-a-comeback-odysee-heads-to-the-arweave-blockchain)
-![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-vb03dk9.jpeg)
-Odysee transitions to Arweave blockchain, enhancing decentralized media with permanent storage and user control, while moving away from its LBC token.
 
 ### [50. Harnessing The Power of  Blockchain In Growth Markets: An Overview of Agile Dynamics Tech's Report](https://hackernoon.com/harnessing-the-blockchain-an-overview-of-agile-dynamics-techs-report)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ks93p5q.jpeg)
@@ -220,51 +222,51 @@ Odysee removes ads, focusing on creator monetization and decentralization over a
 ![](https://cdn.hackernoon.com/images/rucLDVUL7ahWimn1vc30lsveGZ92-zeb3p20.gif.webp)
 If you lost money on LUNA, know that many millions of others did also, including some very big institutions. Stay strong, follow the tips and come out safely
 
-### [55. Singapore, Named as a Top Technology Hub in 2021, Is Now an Environmental Crypto Pioneer](https://hackernoon.com/singapore-named-as-a-top-technology-hub-in-2021-is-now-an-environmental-crypto-pioneer)
-![](https://cdn.hackernoon.com/images/70E6vxhLbtYA3ZmdTWSQi3gjaem1-sn135jm.jpeg)
-Fintech hub Singapore is set for another pioneering role, which naturally has connections to the world of technology, and that’s environmental crypto. 
+### [55. Sony's Game Changing Leap into Web3: Jumping From PlayStation to Blockchain](https://hackernoon.com/sonys-game-changing-leap-into-web3-jumping-from-playstation-to-blockchain)
+![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-uxa33ib.jpeg)
+In a recent joint venture announcement, Sony Network Communications and Startale Labs have joined forces to create a blockchain platform.
 
 ### [56. Ripple Wins Landmark Legal Battle: XRP Is Officially Not a Security](https://hackernoon.com/ripple-wins-landmark-legal-battle-xrp-is-officially-not-a-security)
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-mb93zez.jpeg)
 In a groundbreaking ruling that is sending shockwaves through the cryptocurrency world, United States District Judge Analisa Torres declared that XRP is...
 
-### [57. Sony's Game Changing Leap into Web3: Jumping From PlayStation to Blockchain](https://hackernoon.com/sonys-game-changing-leap-into-web3-jumping-from-playstation-to-blockchain)
-![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-uxa33ib.jpeg)
-In a recent joint venture announcement, Sony Network Communications and Startale Labs have joined forces to create a blockchain platform.
+### [57. Singapore, Named as a Top Technology Hub in 2021, Is Now an Environmental Crypto Pioneer](https://hackernoon.com/singapore-named-as-a-top-technology-hub-in-2021-is-now-an-environmental-crypto-pioneer)
+![](https://cdn.hackernoon.com/images/70E6vxhLbtYA3ZmdTWSQi3gjaem1-sn135jm.jpeg)
+Fintech hub Singapore is set for another pioneering role, which naturally has connections to the world of technology, and that’s environmental crypto. 
 
 ### [58. Mainstream Media Can Do Better Than Releasing Hyperbolic Articles Against Bitcoin](https://hackernoon.com/mainstream-media-can-do-better-than-releasing-hyperbolic-articles-against-bitcoin)
 ![](https://cdn.hackernoon.com/images/C1NMxASo99bwSkaydbB9HmaaIYz1-1aa3wcb.jpeg)
 Major mainstream media made a coordinated attack on Bitcoin’s energy consumption.
 
-### [59. ‘DubaiCoin’ Leaps 1000% Within 24 Hours after False Claims](https://hackernoon.com/dubaicoin-leaps-1000percent-within-24-hours-after-false-claims-s188311n)
-![](https://cdn.hackernoon.com/images/s7Uy4vUGHkagAvzLcOwQqTObOP03-fho344k.jpeg)
-Dubai's DubaiCoin, $DBIX, is a new central bank digital currency
-
-### [60. Crypto Companies Facilitating 
+### [59. Crypto Companies Facilitating 
 Initiatives to Support Ukraine](https://hackernoon.com/crypto-companies-facilitating-initiatives-to-support-ukraine)
 ![](https://cdn.hackernoon.com/images/uA24mDlEXvMGEgGMYP6tsJ70Sej1-ewa3lif.png)
 Crypto is making it easier for individuals and companies to support humanitarian causes. If anything the ongoing war in Ukraine has proven the need for a decentralized financial system that allows intercontinental transfers that shield anonymity and don’t involve third-parties. There have been plenty of individuals who have answered the financial call to support Ukraine and Ukrainians in that nation’s time of need. Some crypto industry leaders have stepped up to help out and provide humanitarian assistance as well. Here’s a few: 
+
+### [60. ‘DubaiCoin’ Leaps 1000% Within 24 Hours after False Claims](https://hackernoon.com/dubaicoin-leaps-1000percent-within-24-hours-after-false-claims-s188311n)
+![](https://cdn.hackernoon.com/images/s7Uy4vUGHkagAvzLcOwQqTObOP03-fho344k.jpeg)
+Dubai's DubaiCoin, $DBIX, is a new central bank digital currency
 
 ### [61. Why Australia Might Become A Bitcoin Mining Superpower](https://hackernoon.com/why-australia-might-become-a-bitcoin-mining-superpower)
 ![](https://cdn.hackernoon.com/images/C1NMxASo99bwSkaydbB9HmaaIYz1-j493wo9.jpeg)
 Australia seems to have the perfect trifecta of government stability and support, societal adoption, and bountiful sunshine and land for clean energy production
 
-### [62. 5 Countries That Are Betting on Blockchain](https://hackernoon.com/5-countries-that-are-betting-on-blockchain-vhb732c3)
-![](https://images.unsplash.com/photo-1502920514313-52581002a659?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-As cryptocurrency hits the digital wallets of citizens in countries around the world, different governments are reacting in different ways. While some clamp down on the industry, others are seizing the opportunity to take advantage of its rapid growth.
-
-### [63. Lessons From 2022 - The Worst Year for Crypto in History](https://hackernoon.com/lessons-from-2022-the-worst-year-for-crypto-in-history)
+### [62. Lessons From 2022 - The Worst Year for Crypto in History](https://hackernoon.com/lessons-from-2022-the-worst-year-for-crypto-in-history)
 ![](https://cdn.hackernoon.com/images/zmvSBGn2enZUIhIPlpbilt35gCE2-mz93o3v.jpeg)
 Let's think back on the most important things that happened in 2022  with crypto market and look ahead to see what 2023 has in store for us.
 
-### [64. SushiSwap’s Token Launchpad, MISO, Deceived by $3 Million Hack](https://hackernoon.com/sushiswaps-token-launchpad-miso-deceived-by-dollar3-million-hack)
+### [63. 5 Countries That Are Betting on Blockchain](https://hackernoon.com/5-countries-that-are-betting-on-blockchain-vhb732c3)
+![](https://images.unsplash.com/photo-1502920514313-52581002a659?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+As cryptocurrency hits the digital wallets of citizens in countries around the world, different governments are reacting in different ways. While some clamp down on the industry, others are seizing the opportunity to take advantage of its rapid growth.
+
+### [64. Paxful Reimburses All Users Impacted by Celsius Bankruptcy](https://hackernoon.com/paxful-reimburses-all-users-impacted-by-celsius-bankruptcy)
+![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-zr93tg4.jpeg)
+Paxful Saves the Day!
+
+### [65. SushiSwap’s Token Launchpad, MISO, Deceived by $3 Million Hack](https://hackernoon.com/sushiswaps-token-launchpad-miso-deceived-by-dollar3-million-hack)
 ![](https://cdn.hackernoon.com/images/s7Uy4vUGHkagAvzLcOwQqTObOP03-40035s1.jpeg)
 The token platform of a popular DEX SushiSwap, MISO, has become the latest hack victim with $3 million in Ethereum(ETH) stolen in a year full of hacks.
 
-
-### [65. Paxful Reimburses All Users Impacted by Celsius Bankruptcy](https://hackernoon.com/paxful-reimburses-all-users-impacted-by-celsius-bankruptcy)
-![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-zr93tg4.jpeg)
-Paxful Saves the Day!
 
 ### [66. The U.S. Government Reaches Agreement with Voyager: $1.02 Billion Binance Deal to Move Forward](https://hackernoon.com/the-us-government-reaches-agreement-with-voyager-binance-$102-billion-deal-to-move-forward)
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-1293s4x.jpeg)
@@ -290,13 +292,13 @@ Bitcoin was born as a solution to the damage created by money printing. With the
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FqwlVSFUNhGO3DAw4hoBd17XGTAC2-kk423w3x.jpeg?alt=media&token=5e3c9385-0b8c-414b-8515-8e455048e5b7)
 Just about the time today I was writing a LinkedIn post touting the greatness of Huobi Global, BitMEX and founders were drowning in a sea of despair, loneliness, and certain doom in light of CFTC and criminal charges.
 
-### [72. Will High Gas Fees Pose a Roadblock to Blockchain Adoption?](https://hackernoon.com/will-high-gas-fees-pose-a-roadblock-to-blockchain-adoption-zan37v8)
-![](https://cdn.hackernoon.com/images/vhRaS1W3fJdCk0I4SW1VB1zLXQt1-ey153793.jpeg)
-The transaction fees associated with Ethereum are likely to stand in the way of its mass adoption by increasing the cost of using the cryptocurrency. 
-
-### [73. Binance Under Fire: Executives Detained in Nigeria Amid Investigations](https://hackernoon.com/binance-under-fire-executives-detained-in-nigeria-amid-investigations)
+### [72. Binance Under Fire: Executives Detained in Nigeria Amid Investigations](https://hackernoon.com/binance-under-fire-executives-detained-in-nigeria-amid-investigations)
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-8i838k5.jpeg)
 Nigeria’s Department of State Security detained two senior executives of Binance as part of investigations into illicit finance operations.
+
+### [73. Will High Gas Fees Pose a Roadblock to Blockchain Adoption?](https://hackernoon.com/will-high-gas-fees-pose-a-roadblock-to-blockchain-adoption-zan37v8)
+![](https://cdn.hackernoon.com/images/vhRaS1W3fJdCk0I4SW1VB1zLXQt1-ey153793.jpeg)
+The transaction fees associated with Ethereum are likely to stand in the way of its mass adoption by increasing the cost of using the cryptocurrency. 
 
 ### [74. Capitol Building Rioters Under Scanner For Bitcoin Transactions](https://hackernoon.com/capitol-building-rioters-under-scanner-for-bitcoin-transactions-u63133ta)
 ![](https://cdn.hackernoon.com/images/E94jeG4kuxf5Akvr1TBep1bZVSg1-2lmu33bb.jpeg)
@@ -346,25 +348,25 @@ Houston, Texas “Would you ever invest in something you don’t understand?”
 ![](https://cdn.hackernoon.com/images/OWwusqtd11XIq9iOOIyuavuCQ7p2-ez93t63.jpeg)
 In case you missed it, LUNA used to be one of the biggest cryptocurrencies on the planet, but now, it’s absolutely worthless.
 
-### [86. Top Rated Korean Publisher Netmarble is Bringing NFT Collection to Binance NFT](https://hackernoon.com/top-rated-korean-publisher-netmarble-is-bringing-nft-collection-to-binance-nft)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-9c93nlz.jpeg)
-Binance NFT has announced an NFT collection drop in collaboration with Netmarble Corporation, a top developer and publisher in the mobile gaming industry.
-
-### [87. Revolutionizing Transactions: Why Fiat Conversion for Crypto Adoption Is a Game-Changer](https://hackernoon.com/revolutionizing-transactions-why-fiat-conversion-for-crypto-adoption-is-a-game-changer)
+### [86. Revolutionizing Transactions: Why Fiat Conversion for Crypto Adoption Is a Game-Changer](https://hackernoon.com/revolutionizing-transactions-why-fiat-conversion-for-crypto-adoption-is-a-game-changer)
 ![](https://cdn.hackernoon.com/images/EUSB8xFzsYQYNtzv5LBznYvv8kw1-bma3uqs.jpeg)
 Today's organizations are always looking for new ways to innovate and gain an edge in the increasingly competitive digital marketplace. The use of cryptocurrenc
 
-### [88. 75 Stories To Learn About Cryptocurrency News](https://hackernoon.com/75-stories-to-learn-about-cryptocurrency-news)
+### [87. 75 Stories To Learn About Cryptocurrency News](https://hackernoon.com/75-stories-to-learn-about-cryptocurrency-news)
 ![](https://cdn.hackernoon.com/images/github/cryptocurrency-news-287.png)
 Learn everything you need to know about Cryptocurrency News via these 75 free HackerNoon stories.
 
-### [89. Bitcoin's Post-Halving Hash Rate [Analyzed]](https://hackernoon.com/bitcoins-post-halving-hash-rate-analyzed-kbo43zhi)
-![](https://cdn.hackernoon.com/images/kozm3zd3.jpg)
-The cryptocurrency industry has just experienced the most anticipated event, Bitcoin (BTC) 2020 halving. The last 12.5 Bitcoin block has been mined by F2Pool and encoded the message of “NYTimes 09/Apr/2020 With $2.3T Injection, Fed’s Plan Far Exceeds 2008 Rescue.” paying tribute to Satoshi Nakamoto. Antpool was in luck and mined the first 6.25 Bitcoin block.
+### [88. Top Rated Korean Publisher Netmarble is Bringing NFT Collection to Binance NFT](https://hackernoon.com/top-rated-korean-publisher-netmarble-is-bringing-nft-collection-to-binance-nft)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-9c93nlz.jpeg)
+Binance NFT has announced an NFT collection drop in collaboration with Netmarble Corporation, a top developer and publisher in the mobile gaming industry.
 
-### [90. Why Obsessing Over Crypto Headlines Is a Dangerous Investment Habit](https://hackernoon.com/why-obsessing-over-crypto-headlines-is-a-dangerous-investment-habit)
+### [89. Why Obsessing Over Crypto Headlines Is a Dangerous Investment Habit](https://hackernoon.com/why-obsessing-over-crypto-headlines-is-a-dangerous-investment-habit)
 ![](https://cdn.hackernoon.com/images/RrXJtkPPKZWNRCuHlWJyINqGIZ72-t58328s.jpeg)
 Review of dangers of fixating solely on crypto headlines and explores why a nuanced understanding of market dynamics is important for savvy investment
+
+### [90. Bitcoin's Post-Halving Hash Rate [Analyzed]](https://hackernoon.com/bitcoins-post-halving-hash-rate-analyzed-kbo43zhi)
+![](https://cdn.hackernoon.com/images/kozm3zd3.jpg)
+The cryptocurrency industry has just experienced the most anticipated event, Bitcoin (BTC) 2020 halving. The last 12.5 Bitcoin block has been mined by F2Pool and encoded the message of “NYTimes 09/Apr/2020 With $2.3T Injection, Fed’s Plan Far Exceeds 2008 Rescue.” paying tribute to Satoshi Nakamoto. Antpool was in luck and mined the first 6.25 Bitcoin block.
 
 ### [91. Is Tesla Adding Dogecoin as a Payment Option?](https://hackernoon.com/is-tesla-adding-dogecoin-as-a-payment-option)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-ud139vq.jpeg)
@@ -382,13 +384,13 @@ The 5-minute newsletter on the important stuff in finance — reporting what's g
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-ou93sm9.jpeg)
 On April 19th, Elixir Games announced a strategic partnership with Square Enix to focus on “generating visibility and adoption of web3 games".
 
-### [95. From Zero to Hero: the Story Behind Naming a Crypto Giveaway Brand](https://hackernoon.com/from-zero-to-hero-the-story-behind-naming-a-crypto-giveaway-brand)
-![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-6h93spb.jpeg)
-The Art of Personal Branding: How to Showcase Your Unique Voice.
-
-### [96. Ferrari Drives into Europe: Will Now Be Accepting Bitcoin and Crypto Payments](https://hackernoon.com/ferrari-drives-into-europe-will-now-be-accepting-bitcoin-and-crypto-payments)
+### [95. Ferrari Drives into Europe: Will Now Be Accepting Bitcoin and Crypto Payments](https://hackernoon.com/ferrari-drives-into-europe-will-now-be-accepting-bitcoin-and-crypto-payments)
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-8v03au7.jpeg)
 On July 24th, Ferrari announced that Bitcoin and other cryptocurrencies will now be accepted as payment in Europe. 
+
+### [96. From Zero to Hero: the Story Behind Naming a Crypto Giveaway Brand](https://hackernoon.com/from-zero-to-hero-the-story-behind-naming-a-crypto-giveaway-brand)
+![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-6h93spb.jpeg)
+The Art of Personal Branding: How to Showcase Your Unique Voice.
 
 ### [97. Crypto Markets Remain Surprisingly Calm as the Fed Stays the Course on Rate-Hike Plan](https://hackernoon.com/crypto-markets-remain-surprisingly-calm-as-the-fed-stays-the-course-on-rate-hike-plan)
 ![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-owb3gjt.jpeg)
@@ -398,21 +400,21 @@ While BTC bulls have been failing to reach the $30K mark, bears have also had a 
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-4pa3yfc.jpeg)
 Amidst a wave of regulatory scrutiny and charges against prominent cryptocurrency exchanges, the Securities and Exchange Commission just made a startling move..
 
-### [99. US Lawmakers Introduce the 'SEC Stabilization Act' to Fire Chair Gary Gensler and Reform the SEC](https://hackernoon.com/us-lawmakers-introduce-the-sec-stabilization-act-to-fire-chair-gary-gensler-and-reform-the-sec)
-![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-z2a3ykw.jpeg)
-In a bold move to restore accountability and protect American investors, U.S. Congressman have unveiled an ambitious piece of legislation...
-
-### [100. Everything You Need to Know About SEC's Lawsuit Against Bittrex ](https://hackernoon.com/everything-you-need-to-know-about-secs-lawsuit-against-bittrex)
+### [99. Everything You Need to Know About SEC's Lawsuit Against Bittrex ](https://hackernoon.com/everything-you-need-to-know-about-secs-lawsuit-against-bittrex)
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-y593to5.jpeg)
 The SEC alleges that Bittrex earned $1.3 billion in revenue from transaction fees from crypto assets that were “offered and sold as securities”.
 
-### [101. Is the IMF Pressuring Countries to Abolish Crypto?](https://hackernoon.com/is-the-imf-pressuring-countries-to-abolish-crypto)
-![](https://cdn.hackernoon.com/images/oQ9OCKk50pVg7mdDY84cm8fXJru2-hxc3qhc.jpeg)
-The IMF recently took a strong stance against crypto regulations in Argentina, warning of potential legal and financial issues. It's clear the IMF isn't keen on
+### [100. US Lawmakers Introduce the 'SEC Stabilization Act' to Fire Chair Gary Gensler and Reform the SEC](https://hackernoon.com/us-lawmakers-introduce-the-sec-stabilization-act-to-fire-chair-gary-gensler-and-reform-the-sec)
+![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-z2a3ykw.jpeg)
+In a bold move to restore accountability and protect American investors, U.S. Congressman have unveiled an ambitious piece of legislation...
 
-### [102. BitClout Founder Nader Al-Naji Charged with Fraud: SEC and DOJ Unveil $250M Scandal](https://hackernoon.com/bitclout-founder-nader-al-naji-charged-with-fraud-sec-and-doj-unveil-$250m-scandal)
+### [101. BitClout Founder Nader Al-Naji Charged with Fraud: SEC and DOJ Unveil $250M Scandal](https://hackernoon.com/bitclout-founder-nader-al-naji-charged-with-fraud-sec-and-doj-unveil-$250m-scandal)
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-bg83a4l.jpeg)
 Founder of BitClout and DeSo Charged with Defrauding Investors in $250 Million Scandal.
+
+### [102. Is the IMF Pressuring Countries to Abolish Crypto?](https://hackernoon.com/is-the-imf-pressuring-countries-to-abolish-crypto)
+![](https://cdn.hackernoon.com/images/oQ9OCKk50pVg7mdDY84cm8fXJru2-hxc3qhc.jpeg)
+The IMF recently took a strong stance against crypto regulations in Argentina, warning of potential legal and financial issues. It's clear the IMF isn't keen on
 
 ### [103. Exploring the Risk-Averse Shift in Crypto Venture Capital During the Bear Market](https://hackernoon.com/exploring-the-risk-averse-shift-in-crypto-venture-capital-during-the-bear-market)
 ![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-k9d3gn2.jpeg)
@@ -422,29 +424,29 @@ VCs who were keen on their risk management performed better than those who took 
 ![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-wx1b3nyr.jpeg)
 In his research, Gvido reported the discovery of neurons that showed a neural correlation to the price fluctuations of the main cryptocurrencies!
 
-### [105. NYDFS Proposes Cryptocurrency Regulation Update: The Future of Coin Listings and Delistings in NY](https://hackernoon.com/nydfs-proposes-cryptocurrency-regulation-update-the-future-of-coin-listings-and-delistings-in-ny)
-![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-7pb33xd.jpeg)
-In a significant development for the cryptocurrency landscape, the New York State Department of Financial Services has unveiled a substantial update to... 
-
-### [106. Post-ETF Bitcoin: What Happens Next?](https://hackernoon.com/post-etf-bitcoin-what-happens-next)
+### [105. Post-ETF Bitcoin: What Happens Next?](https://hackernoon.com/post-etf-bitcoin-what-happens-next)
 ![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-ny83fh3.png)
 Record highs in U.S. stock indexes, BTC ETF dynamics, and industry updates.
+
+### [106. NYDFS Proposes Cryptocurrency Regulation Update: The Future of Coin Listings and Delistings in NY](https://hackernoon.com/nydfs-proposes-cryptocurrency-regulation-update-the-future-of-coin-listings-and-delistings-in-ny)
+![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-7pb33xd.jpeg)
+In a significant development for the cryptocurrency landscape, the New York State Department of Financial Services has unveiled a substantial update to... 
 
 ### [107. The War Between Coinbase and The SEC: A Battle for Crypto Regulation](https://hackernoon.com/the-war-between-coinbase-and-the-sec-a-battle-for-crypto-regulation)
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-x893s6i.jpeg)
 Coinbase takes a stand against the SEC. Where do you stand?
 
-### [108. Web3 is Making it Easier to Back Ukrainian Resistance](https://hackernoon.com/how-web3-made-it-easier-to-back-ukrainian-resistance-in-the-russia-ukraine-war)
+### [108. Contractor Backdoor: Coinbase Faces $400M Blow in Major Data Breach](https://hackernoon.com/contractor-backdoor-coinbase-faces-$400m-blow-in-major-data-breach)
+![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-wh0384v.jpeg)
+Coinbase Global shares dropped over 7% on Thursday after the crypto exchange revealed a cyberattack that could cost up to $400 million
+
+### [109. Web3 is Making it Easier to Back Ukrainian Resistance](https://hackernoon.com/how-web3-made-it-easier-to-back-ukrainian-resistance-in-the-russia-ukraine-war)
 ![](https://cdn.hackernoon.com/images/k0y4Uj8lffd47tV56OFdW4H5PDf1-ou93m41.jpeg)
 Cryptocurrencies and NFTs have emerged as a powerful new tool to deliver aid to desperate communities, and this time the donations are fast and transparent. 
 
-### [109. My Development Proposals For TheNewBoston: Payment Gateway and  Sidechain](https://hackernoon.com/my-development-proposal-for-thenewboston-payment-gateway-sidechain)
+### [110. My Development Proposals For TheNewBoston: Payment Gateway and  Sidechain](https://hackernoon.com/my-development-proposal-for-thenewboston-payment-gateway-sidechain)
 ![](https://hackernoon.com/images/gpabZ3ae5AMod6NEaJWlcWwdp7G2-2sy33oo.jpeg)
 I have been working on a lot of different proposals for an up and coming cryptocrurrency known as TheNewBoston. TheNewBoston or TNB, if you don't know what it is, is a cryptocurrency created by the channel TheNewBoston. However, what this crypto is, is something beyond anything I have seen for a while. TNB has an insanely fast transaction speeds, is lightweight, and rewards contributors to its ecosystem. It is also slowly being launched, and offering various developer bounties.
-
-### [110. Contractor Backdoor: Coinbase Faces $400M Blow in Major Data Breach](https://hackernoon.com/contractor-backdoor-coinbase-faces-$400m-blow-in-major-data-breach)
-![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-wh0384v.jpeg)
-Coinbase Global shares dropped over 7% on Thursday after the crypto exchange revealed a cyberattack that could cost up to $400 million
 
 ### [111. The Battle Rages On: Binance.US Shifts to Crypto-Only Exchange Amidst Regulatory Pressure](https://hackernoon.com/the-battle-rages-on-binanceus-shifts-to-crypto-only-exchange-amidst-regulatory-pressure)
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-q3b3y6p.jpeg)
@@ -458,13 +460,13 @@ On April 25th, Voyager announced, via Twitter post, that the $1.02 billion Purch
 ![](https://cdn.hackernoon.com/images/rucLDVUL7ahWimn1vc30lsveGZ92-b9f35v1.jpeg)
 Hold the turkey and chestnuts, we roast the SharkTank Millionaire for being a scammer, as well as updates on BTC adoption in more nations and share some funnies
 
-### [114. Bitcoin (BTC) is Still Not Showing Bullish Signs as it Trades Below $42,000](https://hackernoon.com/bitcoin-btc-is-still-not-showing-bullish-signs-as-it-trades-below-$42000)
-![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-hc03dry.jpeg)
-Bitcoin (BTC) is not showing any decisive bullish signs even though the cryptocurrency market is back trading in the green on January 10.
-
-### [115. "Our magic is 360-degree Market Analysis, Trading Signals & Sentiment Analysis" - Spencer Randall](https://hackernoon.com/our-magic-is-360-degree-market-analysis-trading-signals-and-sentiment-analysis-spencer-randall-2u2e3770)
+### [114. "Our magic is 360-degree Market Analysis, Trading Signals & Sentiment Analysis" - Spencer Randall](https://hackernoon.com/our-magic-is-360-degree-market-analysis-trading-signals-and-sentiment-analysis-spencer-randall-2u2e3770)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-mkk37f3.jpeg)
 Houston, Texas “Would you ever invest in something you don’t understand?” Spencer Randall asked me. It is a compelling question, one of the challenges preventing mass cryptocurrency adoption. “People don’t understand Bitcoin and other cryptocurrencies. That’s why we’re here to share our insights, analysis, and make more people aware of this asset class.”
+
+### [115. Bitcoin (BTC) is Still Not Showing Bullish Signs as it Trades Below $42,000](https://hackernoon.com/bitcoin-btc-is-still-not-showing-bullish-signs-as-it-trades-below-$42000)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-hc03dry.jpeg)
+Bitcoin (BTC) is not showing any decisive bullish signs even though the cryptocurrency market is back trading in the green on January 10.
 
 ### [116. The Do's and Don'ts of Starting a Podcast](https://hackernoon.com/the-dos-and-donts-of-starting-a-podcast-ms4137p8)
 ![](https://cdn.hackernoon.com/images/wb443va6tWfO9ezfAOTebkX324z2-tls53cvb.jpeg)
@@ -482,23 +484,27 @@ Coinbase vs. SEC: The battle for cryptocurrency regulation heats up.
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-ao93ztt.jpeg)
 In a political landscape often filled with empty promises, one presidential candidate dares to defy the establishment and champion the cause of cryptocurrency..
 
-### [120. U.S. Representative Partisan Divide: A Pivotal Moment in Tom Emmer's Anti-CBDC Bill](https://hackernoon.com/us-representative-partisan-divide-a-pivotal-moment-in-tom-emmers-anti-cbdc-bill)
+### [120. Jack Dorsey Formalizes Legal Defense to Protect Bitcoin Developers](https://hackernoon.com/jack-dorsey-formalizes-legal-defense-to-protect-bitcoin-developers)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-xm03b8s.jpeg)
+Ex CEO of Twitter Jack Dorsey, Alex Morcos, and Martin White published an email to Bitcoin developers about establishing a Bitcoin Legal Defense Fund.
+
+### [121. U.S. Representative Partisan Divide: A Pivotal Moment in Tom Emmer's Anti-CBDC Bill](https://hackernoon.com/us-representative-partisan-divide-a-pivotal-moment-in-tom-emmers-anti-cbdc-bill)
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-3p936c4.jpeg)
 In a significant development on Capitol Hill, U.S. Representative Tom Emmer celebrated the passage of his groundbreaking Anti-CBDC bill. This legislation...
 
-### [121. Surveillance Clash: Into the Congressional Debut of an Anti-CBDC Bill](https://hackernoon.com/surveillance-clash-into-the-congressional-debut-of-an-anti-cbdc-bill)
+### [122. Surveillance Clash: Into the Congressional Debut of an Anti-CBDC Bill](https://hackernoon.com/surveillance-clash-into-the-congressional-debut-of-an-anti-cbdc-bill)
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-xt933jz.jpeg)
 Join the debate on the future of digital currencies and unravel the complexities of this financial privacy showdown!
 
-### [122. New U.S. Task Force Created to Target Crypto Criminals](https://hackernoon.com/new-us-task-force-created-to-target-crypto-criminals)
-![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-vy93ywn.jpeg)
-The creation of the Darknet Marketplace and Digital Currency Crimes Task Force prominent U.S. law enforcement agencies reflects the commitment to combat...
-
-### [123. Jack Dorsey Formalizes Legal Defense to Protect Bitcoin Developers](https://hackernoon.com/jack-dorsey-formalizes-legal-defense-to-protect-bitcoin-developers)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-xm03b8s.jpeg)
-Ex CEO of Twitter Jack Dorsey, Alex Morcos, and Martin White published an email to Bitcoin developers about establishing a Bitcoin Legal Defense Fund.
+### [123. Nava Emerges from Stealth With $8.3M Seed Round co-led by Polychain and Archetype](https://hackernoon.com/nava-emerges-from-stealth-with-$83m-seed-round-co-led-by-polychain-and-archetype)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-1l83gq9.jpeg)
+Additional investors include FalconX, Hack VC, Seed Club Ventures, Sreeram Kannan (Eigen Labs), Suyang (EigenCloud), Gonçalo Sá (Consensys Diligence), Eskender 
 
 ### [124. Eight Insights from TOKEN2049 Singapore by Vasily Rudomanov, CEO of GetBlock](https://hackernoon.com/eight-insights-from-token2049-singapore-by-vasily-rudomanov-ceo-of-getblock)
 ![](https://cdn.hackernoon.com/images/RjkjiL9XwXYVmCZZiSEhcaQ4lYB2-rv13atl.png)
 GetBlock CEO Vasily Rudomanov shares his key takeaways from the latest TOKEN2049 event in Singapore. 
+
+### [125. New U.S. Task Force Created to Target Crypto Criminals](https://hackernoon.com/new-us-task-force-created-to-target-crypto-criminals)
+![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-vy93ywn.jpeg)
+The creation of the Darknet Marketplace and Digital Currency Crimes Task Force prominent U.S. law enforcement agencies reflects the commitment to combat...
 

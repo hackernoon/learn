@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [internet-of-things](https://hackernoon.com/tagged/internet-of-things)
+### Let's learn about [Internet Of Things](https://hackernoon.com/tagged/internet-of-things) via these 166 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 'The Internet of Things is not a concept; it is a network, the true technology-enabled Network of all networks.' - Edewede Oriwoh
 
 ### [1. How to Configure a Raspberry Pi High Quality Camera](https://hackernoon.com/polising-raspberry-pi-high-quality-camera-3z113u18)
@@ -145,13 +147,13 @@ Our life today is comfortable to a large extent due to smart devices. These thin
 ![](https://hackernoon.com/images/aKVyFcm6oebAVT28NhUyOgQe03G2-sw7t316v.jpeg)
 ﻿Information technology is an ever-evolving field where organizations are exploring specific technology trends, and CxOs are striving to adopt the changing scenarios to compose a better future for the business. Gartner's research president Brian Burke has grouped organizational strategic technology trends into three different categories- people centricity, location independence, and resilient delivery. He also suggests organizational plasticity is the key to strategic tech trends. 
 
-### [36. The Internet of Things will Transform these 7 Industries](https://hackernoon.com/the-internet-of-things-will-transform-these-7-industries-4o48b3roy)
-![](https://cdn.hackernoon.com/images/3r4kk3r68.jpg)
-The Internet of Things (IoT) is a network of physical objects, including vehicles, medical devices and home appliances, that use sensors and APIs to connect to one another and exchange data over the internet. 
-
-### [37. This IoT Expert Built a Smart Home in 3 Months](https://hackernoon.com/this-iot-expert-built-a-smart-home-in-3-months)
+### [36. This IoT Expert Built a Smart Home in 3 Months](https://hackernoon.com/this-iot-expert-built-a-smart-home-in-3-months)
 ![](https://cdn.hackernoon.com/images/mFnZucWAcST49N22ttiobAXr4BS2-jk92jr3.jpeg)
  I interviewed an IoT expert whose forte is synergy between IoT and real estate. He built a fully functional smart home in 3 months
+
+### [37. The Internet of Things will Transform these 7 Industries](https://hackernoon.com/the-internet-of-things-will-transform-these-7-industries-4o48b3roy)
+![](https://cdn.hackernoon.com/images/3r4kk3r68.jpg)
+The Internet of Things (IoT) is a network of physical objects, including vehicles, medical devices and home appliances, that use sensors and APIs to connect to one another and exchange data over the internet. 
 
 ### [38. How We Added Surge Pricing Capabilities to our IoT eScooter with AWS Lambda and SORACOM Funk](https://hackernoon.com/test-yt2l27hk)
 ![](https://cdn.hackernoon.com/drafts/6s2y93xpd.png)
@@ -161,13 +163,13 @@ This article also comes in video form!
 ![](https://cdn.hackernoon.com/images/9vtRqXPYjXc1LRCXVTELc59Myu63-5ka3man.jpeg)
  “Antinet“ - an Internet that goes against what we’ve known.
 
-### [40. 5 Ways to Leverage Obyte and IoT Technology for Innovative Solutions](https://hackernoon.com/5-ways-to-leverage-obyte-and-iot-technology-for-innovative-solutions)
-![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-ge8351l.jpeg)
-DLT is often paired with Internet of Things (IoT) to get some interesting and automatic features in the real world. Let's check what Obyte and IoT can do!
-
-### [41. Securing the Internet of Bio-Nano Things (IoBNT)](https://hackernoon.com/securing-the-internet-of-bio-nano-things-iobnt)
+### [40. Securing the Internet of Bio-Nano Things (IoBNT)](https://hackernoon.com/securing-the-internet-of-bio-nano-things-iobnt)
 ![](https://cdn.hackernoon.com/images/Nw4CrC2dyeUgkhSQnyMucBjijES2-1c833ji.jpeg)
 Discover cutting-edge solutions to protect sensitive bio-nano networks from emerging threats.
+
+### [41. 5 Ways to Leverage Obyte and IoT Technology for Innovative Solutions](https://hackernoon.com/5-ways-to-leverage-obyte-and-iot-technology-for-innovative-solutions)
+![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-ge8351l.jpeg)
+DLT is often paired with Internet of Things (IoT) to get some interesting and automatic features in the real world. Let's check what Obyte and IoT can do!
 
 ### [42. The Top Ten Hottest Trends in Automobile Technology](https://hackernoon.com/the-top-ten-hottest-trends-in-automobile-technology-kk2b322d)
 ![](https://cdn.hackernoon.com/images/fo5g2e9q.jpg)
@@ -189,13 +191,13 @@ What originally started as machine-to-machine communication limited almost exclu
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-0k92exl.jpeg)
 Smart offices are revolutionizing the workplace by introducing new technologies and tools that enable employees to be more productive and efficient. 
 
-### [47. A Path to a Successful IoT Startup](https://hackernoon.com/a-path-to-a-successful-iot-startup-6n2n3yx9)
-![](https://images.unsplash.com/photo-1532188363366-3a1b2ac4a338?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-There are so many industries that are flourishing today, but we’d say the most promising area is anything connected with the IoT — the Internet of Things. Why? Because IoT is taking over more and more areas of our lives, starting from the simple act of connecting your phone to your TV set. For this reason, let’s take a look at:
-
-### [48. Embedded Systems & The Internet of Things (IoT)](https://hackernoon.com/embedded-systems-and-the-internet-of-things-iot)
+### [47. Embedded Systems & The Internet of Things (IoT)](https://hackernoon.com/embedded-systems-and-the-internet-of-things-iot)
 ![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-qs92erw.jpeg)
 Embedded systems play an important role in the Internet of Things ecosystem due to their specific purposes and the internet-connected networks they create.
+
+### [48. A Path to a Successful IoT Startup](https://hackernoon.com/a-path-to-a-successful-iot-startup-6n2n3yx9)
+![](https://images.unsplash.com/photo-1532188363366-3a1b2ac4a338?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+There are so many industries that are flourishing today, but we’d say the most promising area is anything connected with the IoT — the Internet of Things. Why? Because IoT is taking over more and more areas of our lives, starting from the simple act of connecting your phone to your TV set. For this reason, let’s take a look at:
 
 ### [49. Hands-On Project: Oh-My-Bill](https://hackernoon.com/hands-on-project-oh-my-bill)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-ic92dgo.jpeg)
@@ -209,13 +211,13 @@ Although Hartwell’s statement may initially appear to be drowning in hyperbole
 ![](https://cdn.hackernoon.com/images/Se4VZCwmwxe91buHAWoJrDK9Ukf2-5c2o3zx1.jpeg)
 According to the World Economic Forum, in 2020 the entire digital universe has reached 44 Zetabytes of Data.
 
-### [52. Adding IoT To My Home Office Desk  (Part 2)](https://hackernoon.com/adding-iot-to-my-home-office-desk-part-2-bn183wj6)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FCfwKcq2ny4hfMjglXzZ0Z89fz1R2-w82v3zrv.jpeg?alt=media&token=6031e0d7-41f7-4e7e-813c-afe1cd71da3e)
-In part one I discussed the first version/Bluetooth version of my desk upgrade.
-
-### [53. Using APIs and vCards To Make Startup Swag Cool Again ](https://hackernoon.com/using-apis-and-vcards-to-make-startup-swag-cool-again)
+### [52. Using APIs and vCards To Make Startup Swag Cool Again ](https://hackernoon.com/using-apis-and-vcards-to-make-startup-swag-cool-again)
 ![](https://cdn.hackernoon.com/images/XEHZ97Onw1XPeXMH5rWYYmaI5tR2-7vi3lhb.jpeg)
 Learn how we finally managed to find what we call swag market fit with our Startup Select cards and the process that we tried doing before that idea struck.
+
+### [53. Adding IoT To My Home Office Desk  (Part 2)](https://hackernoon.com/adding-iot-to-my-home-office-desk-part-2-bn183wj6)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FCfwKcq2ny4hfMjglXzZ0Z89fz1R2-w82v3zrv.jpeg?alt=media&token=6031e0d7-41f7-4e7e-813c-afe1cd71da3e)
+In part one I discussed the first version/Bluetooth version of my desk upgrade.
 
 ### [54. The Internet of Things (IoT) and the HVAC Industry](https://hackernoon.com/the-internet-of-things-iot-and-hvac-industry-091834eo)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FLLQec3VSzGN4YQFeLD1ZyWgmQQp1-usl3xwl.jpeg?alt=media&token=cd4afaff-d0c9-4feb-9eb4-6f2205edae5d)
@@ -234,21 +236,21 @@ As the Industrial IoT segment is facing many challenges, DevOps for Industrial I
 ![](https://cdn.hackernoon.com/images/QXsXg7hvkgUim8nVzmpA0TNWPaL2-771n28fc.jpeg)
 The rollout of 5G is making even more connections possible, and one of the revolutionary  trends in the connected world is connected cars. Vehicles are getting smarter than ever before, and they’ll be using up a lot of data as more and more get connected to the Internet of Things.
 
-### [58. Technologies That Are Transforming Logistics Industry](https://hackernoon.com/tech-xplore-logistics-industry-is-transformed-with-iot-and-other-it-solutions-8cr328s)
-![](https://cdn.hackernoon.com/drafts/kw2032xf.png)
-How Big is the Number Game?
+### [58. How to Build An Alexa Home Automation System](https://hackernoon.com/how-to-build-an-alexa-home-automation-system-4v4w37gg)
+![](https://cdn.hackernoon.com/images/SlK4OS9FfrSW48OstntaHlaFiox1-82ih35zw.jpeg)
+How to make an IoT-based Smart Home with Arduino IoT Cloud & Alexa using NodeMCU ESP8266 to control 4 home appliances with voice commands.
 
 ### [59. Building for the World That Doesn’t Blink](https://hackernoon.com/building-for-the-world-that-doesnt-blink)
 ![](https://cdn.hackernoon.com/images/KCV8WreFRiaAbHogqXXRsMkRbzM2-hf0389l.png)
 Explore what it means to design resilient edge systems from rugged hardware to embedded intelligence, where failure isn't an option.
 
-### [60. Regulating Chaos: IoT Security Legislation](https://hackernoon.com/regulating-chaos-iot-security-legislation)
+### [60. Technologies That Are Transforming Logistics Industry](https://hackernoon.com/tech-xplore-logistics-industry-is-transformed-with-iot-and-other-it-solutions-8cr328s)
+![](https://cdn.hackernoon.com/drafts/kw2032xf.png)
+How Big is the Number Game?
+
+### [61. Regulating Chaos: IoT Security Legislation](https://hackernoon.com/regulating-chaos-iot-security-legislation)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-sta3o8d.jpeg)
 For many businesses, cybersecurity has become a board-level issue. Cyber threats continue to rank among global dangers, according to the World Economic Forum's Global Risks Report 2021. 
-
-### [61. How to Build An Alexa Home Automation System](https://hackernoon.com/how-to-build-an-alexa-home-automation-system-4v4w37gg)
-![](https://cdn.hackernoon.com/images/SlK4OS9FfrSW48OstntaHlaFiox1-82ih35zw.jpeg)
-How to make an IoT-based Smart Home with Arduino IoT Cloud & Alexa using NodeMCU ESP8266 to control 4 home appliances with voice commands.
 
 ### [62. IoT Product Development Guide for Startups](https://hackernoon.com/iot-product-development-guide-for-startups)
 ![](https://cdn.hackernoon.com/images/dEJxsLmcoLPlFk9kpDm2WNydvLY2-sic3lv2.jpeg)
@@ -266,18 +268,18 @@ Businesses are continuing to jump on the Internet of Things bandwagon and turn t
 ![](drafts/8s1932cq.png)
 Two things that matter most in any business are quality and security,especially when it comes to the digital world. In the hi-techenvironment, everything is fascinating - from innovating to introducingnew technologies and tools.
 
-### [66. Smart Cities: Cybersecurity in the Era of IoT](https://hackernoon.com/smart-cities-cybersecurity-in-the-era-of-iot-6p103zsi)
+### [66. These Three Tech Trends Will Shape 2023](https://hackernoon.com/these-three-tech-trends-will-shape-2023)
+![](https://cdn.hackernoon.com/images/c2qDNOZ07yREr8UJUOrX9KoKG5m2-yp93pb5.jpeg)
+Technologies that shaped the last decade will soon be obsolete as new entrants join the scene. 
+
+### [67. Smart Cities: Cybersecurity in the Era of IoT](https://hackernoon.com/smart-cities-cybersecurity-in-the-era-of-iot-6p103zsi)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhQ098u52DzPm2Y4UITQcQXtLRAk2-8pe3wwe.jpeg?alt=media&token=f907fd7d-63cd-47f8-bdcc-b3058b8ce48b)
 A smart city is representative of urbanization in the digital world. The infrastructure of smart cities is built on embedded Internet of Things (IoT) technology. The smart city promises new opportunities and growth in the urban world. These opportunities include better connectivity, productivity, agility, and innovation. However, it is a known fact that with opportunities come challenges.
 
-### [67. How IoT is Transforming Digital Marketing Industry in 2021](https://hackernoon.com/how-iot-is-transforming-digital-marketing-industry-in-2021-he2u3402)
+### [68. How IoT is Transforming Digital Marketing Industry in 2021](https://hackernoon.com/how-iot-is-transforming-digital-marketing-industry-in-2021-he2u3402)
 ![](https://cdn.hackernoon.com/images/cPav5sXiU5TWYzb4sHIZoNIMu0c2-t11o34ln.jpeg)
 By investing in IoT, you will have access to valuable information about end-user behavior. This will help develop better digital marketing strategies.
 
-
-### [68. These Three Tech Trends Will Shape 2023](https://hackernoon.com/these-three-tech-trends-will-shape-2023)
-![](https://cdn.hackernoon.com/images/c2qDNOZ07yREr8UJUOrX9KoKG5m2-yp93pb5.jpeg)
-Technologies that shaped the last decade will soon be obsolete as new entrants join the scene. 
 
 ### [69. Building Robots for Smarter Cities: How the Manufacturing Process is Everything](https://hackernoon.com/building-robots-for-smarter-cities-how-the-manufacturing-process-is-everything)
 ![](https://cdn.hackernoon.com/images/VYEwS70YrIWwXAI3J8TGbVSlRQL2-vr93pa3.jpeg)
@@ -291,37 +293,37 @@ Nearly two thirds of the global population are city-dwellers. Urbanization, whil
 ![](https://cdn.hackernoon.com/images/KlqT9dMcFwYilzM27rI599sV8ZF2-ed3331l0.jpeg)
 Higher Education is highly influenced by today's digital transformation and technological advances. The student learning experience can be boosted with the use
 
-### [72. Top 7 Security Techniques for Internet of Things](https://hackernoon.com/top-7-security-techniques-for-internet-of-things)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-3k93ksj.jpeg)
-Security is a big concern when it comes to the Internet of Things. That's why it's vital that you take some time to plan ahead and make sure your devices.
+### [72. The Best Practices for Web3 Security Risk Mitigation](https://hackernoon.com/the-best-practices-for-web3-security-risk-mitigation)
+![](https://cdn.hackernoon.com/images/YqzNjVX0nYVlCUWqv4gnCWnKpey1-pa93o3z.jpeg)
+This article highlights the risks and vulnerabilities within the Web3 ecosystem and the best practices for Web3 security risk mitigation. Read on.
 
 ### [73. 28 Topics and Dev Boards Giveaways at the 2022 RT-Thread IoT OS Global Tech Conference](https://hackernoon.com/28-topics-and-dev-boards-giveaways-at-the-2022-rt-thread-iot-os-global-tech-conference)
 ![](https://cdn.hackernoon.com/images/yNJbnhbn2DgfeSxltc11PDdlv293-kg93gcn.jpeg)
 The virtual conference will feature 28 trending topics, starting from June 1 to June 3.
 
-### [74. Benefits of Using IoT and AI Together](https://hackernoon.com/benefits-of-using-iot-and-ai-together-o9263tz0)
+### [74. Top 7 Security Techniques for Internet of Things](https://hackernoon.com/top-7-security-techniques-for-internet-of-things)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-3k93ksj.jpeg)
+Security is a big concern when it comes to the Internet of Things. That's why it's vital that you take some time to plan ahead and make sure your devices.
+
+### [75. Benefits of Using IoT and AI Together](https://hackernoon.com/benefits-of-using-iot-and-ai-together-o9263tz0)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-wh1v3tak.jpeg?alt=media&token=d8a23fc0-19d3-4ace-9534-8505ab4eed30)
 The combination of Artificial Intelligence (AI) and the Internet of Things (IoT) has revolutionized the operations of various industries and businesses. IoT coupled with AI is used to make intellectual machines that imitate smart actions and supports in decision making with minimal human intervention. Used together, these two potent technologies enable enterprises to attain true digital transformation.
-
-### [75. The Best Practices for Web3 Security Risk Mitigation](https://hackernoon.com/the-best-practices-for-web3-security-risk-mitigation)
-![](https://cdn.hackernoon.com/images/YqzNjVX0nYVlCUWqv4gnCWnKpey1-pa93o3z.jpeg)
-This article highlights the risks and vulnerabilities within the Web3 ecosystem and the best practices for Web3 security risk mitigation. Read on.
 
 ### [76. How To Build A Profitable IoT Product in 4 Simple Steps](https://hackernoon.com/four-steps-for-building-a-profitable-iot-product-0hy30zo)
 ![](https://cdn.hackernoon.com/drafts/572i30fw.png)
 Over the last decade, there has been a substantial amount of hype around the Internet of Things (IoT) and how it can be a strategic game changer for businesses. However, it is important to establish that simply investing in IoT is not a winning strategy. Building an IoT product that provides continuous, recurring value requires strategic planning and a focus on solving the right problems in your business.
 
-### [77. How IoT is Shaping the World of Retail Business](https://hackernoon.com/how-iot-is-shaping-the-world-of-retail-d01o2b1w)
+### [77. Why Should Businesses Collaborate With an IoT App Development Company?](https://hackernoon.com/why-should-businesses-collaborate-with-an-iot-app-development-company)
+![](https://cdn.hackernoon.com/images/mkCoeD9E3adXmM1p3AzHHW0wVpt1-rz92d0a.jpeg)
+Considering IoT a true digital transformation enabler, businesses collaborate with IoT app development services providers to gain competitive advantages.
+
+### [78. How IoT is Shaping the World of Retail Business](https://hackernoon.com/how-iot-is-shaping-the-world-of-retail-d01o2b1w)
 ![](https://cdn.hackernoon.com/images/gjrt2bun.jpg)
 Traditional retail’s evolution over the past decade has been driven by digital technology, such as Artificial Intelligence, Machine learning, Big data and the Internet of Things. The latter is forecasted to be deployed by 80% of the global retailers by 2021, as IoT continues to penetrate the retail market.  
 
-### [78. How Blockchain Networks Plan To Interact With The Global Economy](https://hackernoon.com/how-blockchain-networks-plan-to-interact-with-the-global-economy-x6253yyk)
+### [79. How Blockchain Networks Plan To Interact With The Global Economy](https://hackernoon.com/how-blockchain-networks-plan-to-interact-with-the-global-economy-x6253yyk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGwZ4a1OS3uMhvLngHCl9tofBO1J2-kkq73u6e.jpeg?alt=media&token=5a21fee5-a9c9-49d7-a5a2-edd4cf764001)
 Global GDP rose by 2.2% in 2019, the slowest since the financial crisis of 2008 - 2009. Despite the impact of Covid-19, the global economy is expected to expand by 2.4% in 2020.
-
-### [79. Why Should Businesses Collaborate With an IoT App Development Company?](https://hackernoon.com/why-should-businesses-collaborate-with-an-iot-app-development-company)
-![](https://cdn.hackernoon.com/images/mkCoeD9E3adXmM1p3AzHHW0wVpt1-rz92d0a.jpeg)
-Considering IoT a true digital transformation enabler, businesses collaborate with IoT app development services providers to gain competitive advantages.
 
 ### [80. 10 Ways IoT Can Help Environmental Sustainability](https://hackernoon.com/10-ways-iot-can-help-environmental-sustainability-7d2r34bw)
 ![](https://cdn.hackernoon.com/images/rLFesAwgyQOvHLYAbppdcNRBIVt1-z52y26xf.jpeg)
@@ -335,34 +337,34 @@ Time-series data is crucial for IoT device monitoring and data visualization in 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXM8NmGvSK4TaDOyKJpkRmNHMu2l1-gz223xpa.jpeg?alt=media&token=2a3224e3-d024-4dca-98b4-e3dc03ada776)
 The Dark Side of the Smart Revolution
 
-### [83. Staring into the Black Mirror with The Most Connected Man on Earth ](https://hackernoon.com/staring-into-the-black-mirror-with-the-most-connected-man-on-earth)
+### [83. New Business Models That IoT Opens Up For Your Company](https://hackernoon.com/new-business-models-that-iot-opens-up-for-your-company)
+![](https://cdn.hackernoon.com/images/kBXNY4pRm3fr6iiUArR4fCnBJkz1-sk93p2l.jpeg)
+The Internet of Things opens up opportunities for amazing ideas. ✅ This article will help you choose the IoT business model for market success.
+
+### [84. Staring into the Black Mirror with The Most Connected Man on Earth ](https://hackernoon.com/staring-into-the-black-mirror-with-the-most-connected-man-on-earth)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-s2038gg.jpeg)
 All throughout his day, Chris is connected to numerous sensors that collect the data that make up his life.
-
-### [84. Smart Manufacturing: Why Lamborghini, Adidas & Amazon are Adopting It](https://hackernoon.com/smart-manufacturing-why-lamborghini-adidas-and-amazon-are-adopting-it)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-ub035nz.jpeg)
-The manufacturing industry enjoys a rich history of technological evolution. It is also one of the top industries with the highest investment in technology and specifically IoT. As per a Marketsandmarkets report, the global IoT in manufacturing market size is expected to grow from USD 33.2 billion in 2020 to USD 53.8 billion in 2025, at a CAGR of 10.1% in the given period. Technological innovations have transformed various industries, sectors, and companies right from accelerating production, product development, software integrations, improving CX, and more. 
-
 
 ### [85. 5 Reasons to Incorporate IoT in Fitness and Professional Sports](https://hackernoon.com/5-reasons-to-incorporate-iot-in-fitness-and-professional-sports)
 ![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-g3g3kp9.jpeg)
 The sports sector leverages IoT development services to give athletes innovative ways to analyze and enhance their performance. 
 
-### [86. Google Making Fuchsia OS Open For Contributions](https://hackernoon.com/google-making-fuchsia-os-open-for-contributions-6k34310f)
+### [86. Smart Manufacturing: Why Lamborghini, Adidas & Amazon are Adopting It](https://hackernoon.com/smart-manufacturing-why-lamborghini-adidas-and-amazon-are-adopting-it)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-ub035nz.jpeg)
+The manufacturing industry enjoys a rich history of technological evolution. It is also one of the top industries with the highest investment in technology and specifically IoT. As per a Marketsandmarkets report, the global IoT in manufacturing market size is expected to grow from USD 33.2 billion in 2020 to USD 53.8 billion in 2025, at a CAGR of 10.1% in the given period. Technological innovations have transformed various industries, sectors, and companies right from accelerating production, product development, software integrations, improving CX, and more. 
+
+
+### [87. Google Making Fuchsia OS Open For Contributions](https://hackernoon.com/google-making-fuchsia-os-open-for-contributions-6k34310f)
 ![](https://cdn.hackernoon.com/images/J33yYWVPP1bipkEv2CEwK91gsWh2-r2d31r3.jpeg)
 Google is like the charm that Princess of Wales Diana used to carry with her every time she interacted with the public. The platform that Google offers lets its users expand the horizon ever imagined. Google uses open platforms to let the users collaborate with the project to develop something unique. 
 
-### [87. New Business Models That IoT Opens Up For Your Company](https://hackernoon.com/new-business-models-that-iot-opens-up-for-your-company)
-![](https://cdn.hackernoon.com/images/kBXNY4pRm3fr6iiUArR4fCnBJkz1-sk93p2l.jpeg)
-The Internet of Things opens up opportunities for amazing ideas. ✅ This article will help you choose the IoT business model for market success.
-
-### [88. How the IoT Landscape is Changing with Voice-Enabled Technology](https://hackernoon.com/how-the-iot-landscape-is-changing-with-voice-enabled-technology-sm1j3udb)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfaIWs9SdjVNgN80pYtKQoacjZbm2-qlf3el3.png?alt=media&token=b959f37c-62ff-4582-a925-2e10cdba1e91)
-The concept behind the Internet of Things (IoT) has been around for almost four decades. However, this technology didn’t make an impact until the last decade.
-
-### [89. NexOS, Internet of Things (IoT), And Beyond: Part II](https://hackernoon.com/a-bastion-for-the-internet-of-things-iot-and-beyond-part-ii-ljn34sk)
+### [88. NexOS, Internet of Things (IoT), And Beyond: Part II](https://hackernoon.com/a-bastion-for-the-internet-of-things-iot-and-beyond-part-ii-ljn34sk)
 ![](https://cdn.hackernoon.com/images/6Uy7JQ8n4CNQTxkGnF5wqNasJDV2-th2p3em9.jpeg)
 The Nexus Operating System - A Bastion for the Internet of Things (IoT) & Beyond.
+
+### [89. How the IoT Landscape is Changing with Voice-Enabled Technology](https://hackernoon.com/how-the-iot-landscape-is-changing-with-voice-enabled-technology-sm1j3udb)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfaIWs9SdjVNgN80pYtKQoacjZbm2-qlf3el3.png?alt=media&token=b959f37c-62ff-4582-a925-2e10cdba1e91)
+The concept behind the Internet of Things (IoT) has been around for almost four decades. However, this technology didn’t make an impact until the last decade.
 
 ### [90. Machine Learning, 5G and Data Science Will be Critical to the Future of the Internet of Things](https://hackernoon.com/how-machine-learning-5g-and-data-science-will-be-critical-to-the-future-of-the-internet-of-things-q08830b7)
 ![](https://cdn.hackernoon.com/images/fe1u430r0.jpg)
@@ -396,21 +398,21 @@ AI at the edge means that we’re simply moving at least portions of the process
 ![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-5293omr.jpeg)
 In this slogging thread, our tech community discussed the possibility of having a digital doppelganger and how it can impact our lives.
 
-### [98. Smart Hospitals: A Market Overview and Prevailing Trends](https://hackernoon.com/smart-hospitals-a-market-overview-and-prevailing-trends)
+### [98. Monetization Models, Use Cases, and Business Opportunities of IoT Solutions](https://hackernoon.com/monetization-models-use-cases-and-business-opportunities-of-iot-solutions-hw6835uu)
+![](https://cdn.hackernoon.com/images/Uy3K4SPkGtNvqzNaeZD8EYBtt7i2-114733sy.jpeg)
+New IoT applications appear daily. Learn how to ensure your IoT solutions bring revenue and leverage all the benefits of IoT products’ ever-growing demand.
+
+### [99. Smart Hospitals: A Market Overview and Prevailing Trends](https://hackernoon.com/smart-hospitals-a-market-overview-and-prevailing-trends)
 ![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-d9d37o6.jpeg)
 The pandemic has uncovered and amplified the struggles the healthcare sector is facing. From huge doctor workloads to unsatisfied patients to unorganized facilities where employees waste hours searching for critical equipment. Another influential factor is the emergence of “informed patients” who refuse to receive care passively. They ask for more information and demand a say in their treatment choices. Many medical facilities have already turned to healthcare technology companies for a smart hospital makeover, which will help them cope with the pandemic and build their services around the patient. This article provides the market overview of smart hospital technology and highlights some aspects that you can consider before digging into implementation.
 
-### [99. Securing the IoT Edge (Part 1)](https://hackernoon.com/securing-the-iot-edge-part-1-wp1p3t8l)
+### [100. Securing the IoT Edge (Part 1)](https://hackernoon.com/securing-the-iot-edge-part-1-wp1p3t8l)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F16aXPZrpmDX9bXl95jFOIFwB3KM2-321f3t1y.jpeg?alt=media&token=321fc82f-9c87-4516-a2be-e10091fc71bd)
 IoT adoption in enterprises is on the rise. Yet despite interest in the space accelerating, organizations of varying sizes and verticals have run into several roadblocks in implementation. 
 
-### [100. Discovering the Capabilities of IoTeX's Pebble Tracker](https://hackernoon.com/discovering-the-capabilities-of-iotexs-pebble-tracker)
+### [101. Discovering the Capabilities of IoTeX's Pebble Tracker](https://hackernoon.com/discovering-the-capabilities-of-iotexs-pebble-tracker)
 ![](https://cdn.hackernoon.com/images/PbbfrARZ78UfnvwvOMBFrN2mLJi1-na83ph4.jpeg)
 Explore IoTeX's Pebble Tracker: a blockchain IoT device for real-time GPS, climate, motion, & light data. Ideal for logistics, monitoring, fitness, & security.
-
-### [101. Monetization Models, Use Cases, and Business Opportunities of IoT Solutions](https://hackernoon.com/monetization-models-use-cases-and-business-opportunities-of-iot-solutions-hw6835uu)
-![](https://cdn.hackernoon.com/images/Uy3K4SPkGtNvqzNaeZD8EYBtt7i2-114733sy.jpeg)
-New IoT applications appear daily. Learn how to ensure your IoT solutions bring revenue and leverage all the benefits of IoT products’ ever-growing demand.
 
 ### [102. 33 Stories To Learn About Smart Cities](https://hackernoon.com/33-stories-to-learn-about-smart-cities)
 ![](https://cdn.hackernoon.com/images/github/smart-cities-558.png)
@@ -424,13 +426,13 @@ Have you heard about the Internet of Things and Big Data? They are two very tren
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-yk9356m.jpeg)
 Omnichannel eCommerce is a retail strategy that can provide invaluable optimization techniques and insights for businesses to improve the experience.
 
-### [105. How Blockchain Technology Is Improving IoT: Interview with Kalima Blockchain](https://hackernoon.com/how-blockchain-technology-is-improving-iot-interview-with-kalima-blockchain)
-![](https://cdn.hackernoon.com/images/iwYYV1LriEaT7d6rN7rWN595K7w1-b993n2v.jpeg)
-An exclusive interview by Léo Maurice from Kalima Blockchain on Internet of Things and blockchain. Adam Stieb exclusively for Hackernoon.
-
-### [106. Vecna and Ants Have a Lot in Common With the Internet of Things](https://hackernoon.com/vecna-and-ants-have-a-lot-in-common-with-the-internet-of-things)
+### [105. Vecna and Ants Have a Lot in Common With the Internet of Things](https://hackernoon.com/vecna-and-ants-have-a-lot-in-common-with-the-internet-of-things)
 ![](https://cdn.hackernoon.com/images/a-room-full-of-routers-mimicking-each-other-cleipfccg000001s6hrzoakrs.png)
 Vecna and ants have a lot in common with the Internet of Things. Find out how as well as how organizations can drive digital transformation with IoT.
+
+### [106. How Blockchain Technology Is Improving IoT: Interview with Kalima Blockchain](https://hackernoon.com/how-blockchain-technology-is-improving-iot-interview-with-kalima-blockchain)
+![](https://cdn.hackernoon.com/images/iwYYV1LriEaT7d6rN7rWN595K7w1-b993n2v.jpeg)
+An exclusive interview by Léo Maurice from Kalima Blockchain on Internet of Things and blockchain. Adam Stieb exclusively for Hackernoon.
 
 ### [107. Emerging Technologies and Their Impact on Business Strategy](https://hackernoon.com/emerging-technologies-and-their-impact-on-business-strategy)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-0p92ih0.jpeg)
@@ -440,65 +442,65 @@ Companies of all sizes and industries increasingly prioritize technological deve
 ![](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 With billions of connected devices already deployed worldwide and companies resorting to IoT development services more frequently, IoT security issues remain a matter of concern. 
 
-### [109. What is Smart Metering? - Safe and Responsible Consumption](https://hackernoon.com/what-is-smart-metering-safe-and-responsible-consumption-6e4e33gm)
-![](https://cdn.hackernoon.com/images/O6tLwSAnkuU9PuteuDKHcmH4Lbd2-1i7q439z.jpeg)
-In this article, you can learn more about smart metering and its applications, among which are water and electricity conservation.
-
-### [110. How to Leverage IoT and Mobile App Development ?](https://hackernoon.com/how-to-leverage-iot-and-get-profited-in-a-mobile-app-development-solutions-lf1j2g5o)
-![](https://cdn.hackernoon.com/images/4b2d3zx5.jpg)
-Most of the businesses today are looking to leverage on Internet of Things and in due progress achieve Mobile App Development effortlessly. Internet of Things are a befitting technologies especially for the corporate world with emergence of various modern IT Systems. It is a good news for IoT based mobile app developers who have the ability to answer to the current demands in mobile app developments.
-
-### [111. 30 Stories To Learn About Smart Home](https://hackernoon.com/30-stories-to-learn-about-smart-home)
+### [109. 30 Stories To Learn About Smart Home](https://hackernoon.com/30-stories-to-learn-about-smart-home)
 ![](https://cdn.hackernoon.com/images/github/smart-home-390.png)
 Learn everything you need to know about Smart Home via these 30 free HackerNoon stories.
 
-### [112. The IoT At  A Glance](https://hackernoon.com/the-iot-at-glance)
-![](https://cdn.hackernoon.com/images/6Ih8XbFQOBWEzfH3UWPjHl3raHR2-ck93jrj.jpeg)
-The Internet of things (IoT) describes physical objects that connect and exchange data with other systems over the Internet.
+### [110. What is Smart Metering? - Safe and Responsible Consumption](https://hackernoon.com/what-is-smart-metering-safe-and-responsible-consumption-6e4e33gm)
+![](https://cdn.hackernoon.com/images/O6tLwSAnkuU9PuteuDKHcmH4Lbd2-1i7q439z.jpeg)
+In this article, you can learn more about smart metering and its applications, among which are water and electricity conservation.
 
-### [113. Essential Cybersecurity Measures for Healthcare IoT](https://hackernoon.com/essential-cybersecurity-measures-for-healthcare-iot-44cs315n)
-![](https://cdn.hackernoon.com/images/pIGapHGH9NNT6tb7uPaRnsVFH123-pd2531l7.jpeg)
-A zero-day exploit can endanger a person’s life if the devices are not secured with the potential cyber threats in mind. Here are tips to secure healthcare tech
-
-### [114. WTF is Network Slicing?](https://hackernoon.com/wtf-is-network-slicing-cc1g3w3f)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FP0chwBVShcheayE4ADQMyMDSWZQ2-dz2d3ucl.jpeg?alt=media&token=42f1e55d-32ab-4f35-855f-99d942c4cf94)
-The recent progress in communications and sensors have paved the path for the ever-growing development of Internet of Things (IoT) services, where a tremendous number of devices demand access to the transport network, using commonly deployed ﬁxed or wireless access technologies or even mobile Radio Access Network (RAN). 
-
-### [115. When Everything Looks Perfect, Nothing Feels Real](https://hackernoon.com/when-everything-looks-perfect-nothing-feels-real)
+### [111. When Everything Looks Perfect, Nothing Feels Real](https://hackernoon.com/when-everything-looks-perfect-nothing-feels-real)
 ![](https://cdn.hackernoon.com/images/mMD5TbdcyWeeZODA8EhDSeRwBIv1-gu03fpj.jpeg)
 When perfection is automated, authenticity becomes the only scarce resource. Why AI tools must learn to restore content without replacing its soul.
 
-### [116. Using IoT to Solve Housing Problems and Improve Safety](https://hackernoon.com/using-iot-to-solve-housing-problems-and-improve-safety-e85v35px)
-![](https://cdn.hackernoon.com/images/bPmlNlAEHVOM98B8bJEZTMSlYyE3-8k2i33jo.jpeg)
-IoT can help manage air quality and emissions at industrial sites, improve control over electricity, water, and heat meters, and more.
+### [112. How to Leverage IoT and Mobile App Development ?](https://hackernoon.com/how-to-leverage-iot-and-get-profited-in-a-mobile-app-development-solutions-lf1j2g5o)
+![](https://cdn.hackernoon.com/images/4b2d3zx5.jpg)
+Most of the businesses today are looking to leverage on Internet of Things and in due progress achieve Mobile App Development effortlessly. Internet of Things are a befitting technologies especially for the corporate world with emergence of various modern IT Systems. It is a good news for IoT based mobile app developers who have the ability to answer to the current demands in mobile app developments.
 
-### [117. What The IoT Video Revolution Means For Security](https://hackernoon.com/what-the-iot-video-revolution-means-for-security)
+### [113. The IoT At  A Glance](https://hackernoon.com/the-iot-at-glance)
+![](https://cdn.hackernoon.com/images/6Ih8XbFQOBWEzfH3UWPjHl3raHR2-ck93jrj.jpeg)
+The Internet of things (IoT) describes physical objects that connect and exchange data with other systems over the Internet.
+
+### [114. Essential Cybersecurity Measures for Healthcare IoT](https://hackernoon.com/essential-cybersecurity-measures-for-healthcare-iot-44cs315n)
+![](https://cdn.hackernoon.com/images/pIGapHGH9NNT6tb7uPaRnsVFH123-pd2531l7.jpeg)
+A zero-day exploit can endanger a person’s life if the devices are not secured with the potential cyber threats in mind. Here are tips to secure healthcare tech
+
+### [115. What The IoT Video Revolution Means For Security](https://hackernoon.com/what-the-iot-video-revolution-means-for-security)
 ![](https://cdn.hackernoon.com/images/YIYL4o8ZPVTogHRRuxyW7qD65af1-cw831jr.jpeg)
 Video integration in IoT devices reshapes surveillance. Security industry faces challenges and opportunities as cameras become ubiquitous in everyday objects.
 
-### [118. How Is IoT Shaping FinTech in 2023?](https://hackernoon.com/how-is-iot-shaping-fintech-in-2023)
-![](https://cdn.hackernoon.com/images/cellphones-creating-the-world-cli0qygdk000001s6gl2odf4k.png)
-Connected technologies continue to revolutionize modern industries, and the banking and financial industry is no exception. With the advent of digital solutions and artificial intelligence (AI), we’re seeing a major transformation in financial services. 
+### [116. WTF is Network Slicing?](https://hackernoon.com/wtf-is-network-slicing-cc1g3w3f)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FP0chwBVShcheayE4ADQMyMDSWZQ2-dz2d3ucl.jpeg?alt=media&token=42f1e55d-32ab-4f35-855f-99d942c4cf94)
+The recent progress in communications and sensors have paved the path for the ever-growing development of Internet of Things (IoT) services, where a tremendous number of devices demand access to the transport network, using commonly deployed ﬁxed or wireless access technologies or even mobile Radio Access Network (RAN). 
 
-### [119. Are we Able to put Internet of Behaviour (IoB) to Good Use?](https://hackernoon.com/are-we-able-to-put-internet-of-behaviour-iob-to-good-use)
+### [117. Using IoT to Solve Housing Problems and Improve Safety](https://hackernoon.com/using-iot-to-solve-housing-problems-and-improve-safety-e85v35px)
+![](https://cdn.hackernoon.com/images/bPmlNlAEHVOM98B8bJEZTMSlYyE3-8k2i33jo.jpeg)
+IoT can help manage air quality and emissions at industrial sites, improve control over electricity, water, and heat meters, and more.
+
+### [118. Are we Able to put Internet of Behaviour (IoB) to Good Use?](https://hackernoon.com/are-we-able-to-put-internet-of-behaviour-iob-to-good-use)
 ![](https://cdn.hackernoon.com/images/MRCoEFwV3DQ2ec6b0sWoiqraFMT2-cjp35cq.jpeg)
 Internet-connected technologies that gather, integrate, and analyze data about people's behavior in an area are referred to as IoB.
 
-### [120. Insecure IoT Devices Are Becoming Cybersecurity’s Biggest Threat](https://hackernoon.com/insecure-iot-devices-are-becoming-cybersecuritys-biggest-threat)
+### [119. Insecure IoT Devices Are Becoming Cybersecurity’s Biggest Threat](https://hackernoon.com/insecure-iot-devices-are-becoming-cybersecuritys-biggest-threat)
 ![](https://cdn.hackernoon.com/images/Gt4TyUlkqbMyVgG475UxnXB5nLE2-fx134a0.png)
 The IoT revolution also has a dark side, with thousands or even millions of insecure devices opening the door to security catastrophes. 
+
+### [120. How Is IoT Shaping FinTech in 2023?](https://hackernoon.com/how-is-iot-shaping-fintech-in-2023)
+![](https://cdn.hackernoon.com/images/cellphones-creating-the-world-cli0qygdk000001s6gl2odf4k.png)
+Connected technologies continue to revolutionize modern industries, and the banking and financial industry is no exception. With the advent of digital solutions and artificial intelligence (AI), we’re seeing a major transformation in financial services. 
 
 ### [121. Asking For A Friend: Can Blockchain Stop the Borg?](https://hackernoon.com/asking-for-a-friend-can-blockchain-stop-the-borg-8t283za8)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FK8vfrf6WltaSzabW4AfZgp9FsSH2-39z3wr4.jpeg?alt=media&token=6155dd7d-6f95-48a7-8065-e7c2ed74210c)
 Blockchain by nature is a testament to the sanctity of ownership rights: rightful possession, control of usage, and responsible stewardship. 
 
-### [122. IoT as a Multi-Faceted Game Changer in 2021 and Beyond](https://hackernoon.com/iot-as-a-multi-faceted-game-changer-in-2021-and-beyond-aot3woo)
-![](https://cdn.hackernoon.com/images/Ek1EUYRPbVcFAn139JtH3fCnL9i1-5d6p31xp.jpeg)
-There is no second-guessing the predominance of the IT industry, despite the catastrophic effects of the pandemic felt across diverse verticals. 
-
-### [123. 5 Effective Ways to Handle IoT Security Challenges](https://hackernoon.com/5-effective-ways-to-handle-iot-security-challenges-11y3461)
+### [122. 5 Effective Ways to Handle IoT Security Challenges](https://hackernoon.com/5-effective-ways-to-handle-iot-security-challenges-11y3461)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FU3HTcrgO6EMPGU7DGd8kFoRBrvZ2-rq4b3w4g.jpeg?alt=media&token=f08e72d5-7c07-4fcd-9519-b6dbf0295d2f)
 Over the years, the number of devices connected to the Internet has increased exponentially. From a little over 15 billion devices in 2015, over 26.6 billion devices were connected in 2019.
+
+### [123. IoT as a Multi-Faceted Game Changer in 2021 and Beyond](https://hackernoon.com/iot-as-a-multi-faceted-game-changer-in-2021-and-beyond-aot3woo)
+![](https://cdn.hackernoon.com/images/Ek1EUYRPbVcFAn139JtH3fCnL9i1-5d6p31xp.jpeg)
+There is no second-guessing the predominance of the IT industry, despite the catastrophic effects of the pandemic felt across diverse verticals. 
 
 ### [124. Identifying and Resolving Security Issues in Industrial Internet of Things (IIoT)](https://hackernoon.com/identifying-and-resolving-security-issues-in-industrial-internet-of-things-iiot)
 ![](https://cdn.hackernoon.com/images/z5L7cZprQRgVvL7bpydqTnZfaqu1-u293thc.jpeg)
@@ -508,41 +510,41 @@ One of the most significant areas of IoT development has been in the industrial 
 ![](https://cdn.hackernoon.com/images/t7jZ6Z0gw7MqEHrMGVUphVUiw4x2-eg037ze.jpeg)
 Internet of Things has become quite a buzzword these days. But what exactly is IoT, and how can it help you grow your business to new heights?
 
-### [126. Smart Home Technologies that Will Raise the Value of your Home](https://hackernoon.com/smart-home-technologies-that-will-raise-the-value-of-your-home-hh263wru)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-1n1b3wtu.jpeg?alt=media&token=21b8e634-a548-413a-a67b-68c4770dbdac)
-Smart homes are rapidly becoming popular across different demographics, and all for good reasons. For starters, smart security systems can detect break-in attempts and alert the authorities even in your absence. Some smart detectors can detect smoke, moisture level, carbon monoxide among other factors that can harm the home. Smart devices save money and allow convenience and efficiency in a huge way. In addition, smart home devices are easy to install. You only need the right tools and instructions to get started.
-
-### [127. Eco-Big Data Applications in the City: Cleaning Up with IoT and ML](https://hackernoon.com/eco-big-data-applications-in-the-big-city-cleaning-the-metropolis-with-iot-and-ml-si4o3uh8)
+### [126. Eco-Big Data Applications in the City: Cleaning Up with IoT and ML](https://hackernoon.com/eco-big-data-applications-in-the-big-city-cleaning-the-metropolis-with-iot-and-ml-si4o3uh8)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYzEGQJNgVOdJrurLE8axx0eLR623-tll3ufj.webp?alt=media&token=933d6e08-4793-490a-863d-fb38112cf118)
 Digitalization is possible not only in enterprises. Digital transformation is catching up even with cities to make them more convenient for residents and less harmful to the planet. How to quickly monitor garbage cans, the state of forest parks, cycling and air purity with the help of big data, machine learning and the Internet of things?
 
-### [128. Togayo: A Reconfigurable IoT Platform](https://hackernoon.com/device-stacc-a-reconfigurable-iot-platform-6j4e322p)
-![](https://hackernoon.com/images/zFYNwkba5XW3d1RKLMu6ve4KcWE2-ryg23n2.png)
-An open-source IoT platform that uses microcontroller reconfiguration, capability-based peripherals, GraphQL, TimescaleDB, entity component system, and more.
+### [127. Smart Home Technologies that Will Raise the Value of your Home](https://hackernoon.com/smart-home-technologies-that-will-raise-the-value-of-your-home-hh263wru)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-1n1b3wtu.jpeg?alt=media&token=21b8e634-a548-413a-a67b-68c4770dbdac)
+Smart homes are rapidly becoming popular across different demographics, and all for good reasons. For starters, smart security systems can detect break-in attempts and alert the authorities even in your absence. Some smart detectors can detect smoke, moisture level, carbon monoxide among other factors that can harm the home. Smart devices save money and allow convenience and efficiency in a huge way. In addition, smart home devices are easy to install. You only need the right tools and instructions to get started.
 
-### [129. Why Choose Python for Your Next IoT Development Project](https://hackernoon.com/why-choose-python-for-your-next-iot-development-project-ce2t32ck)
+### [128. Why Choose Python for Your Next IoT Development Project](https://hackernoon.com/why-choose-python-for-your-next-iot-development-project-ce2t32ck)
 ![](https://cdn.hackernoon.com/drafts/7vc83kl5.png)
 In recent decades, programmers have been preoccupied with mastering new information, creating algorithms and unique solutions. According to the Stack Overflow Survey, Python is the fastest-growing programming language, which is actively used by software development companies in creating both simple and complex applications. 
 
-### [130. An Introduction to 5G Networks and IoT](https://hackernoon.com/an-introduction-to-5g-networks-and-iot)
-![](https://cdn.hackernoon.com/images/Eao0vsVvsqgnL89xG0Ypg8JFDxN2-xp0368r.png)
-What is IoT? IoT stands for “Internet of Things”, which describes a system of physical devices that are connected through the Internet. These devices can ...
+### [129. Togayo: A Reconfigurable IoT Platform](https://hackernoon.com/device-stacc-a-reconfigurable-iot-platform-6j4e322p)
+![](https://hackernoon.com/images/zFYNwkba5XW3d1RKLMu6ve4KcWE2-ryg23n2.png)
+An open-source IoT platform that uses microcontroller reconfiguration, capability-based peripherals, GraphQL, TimescaleDB, entity component system, and more.
 
-### [131. Pushing AI to the Edge: Use Cases and What is Next [Part 2]](https://hackernoon.com/pushing-ai-to-the-edge-use-cases-and-what-is-next-part-2-sp1y31oz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F16aXPZrpmDX9bXl95jFOIFwB3KM2-n5b3ttf.jpeg?alt=media&token=4a544817-83b3-4651-8a0e-84b2700c0e73)
-In Part One of this two-part Q&A series we highlighted some key considerations for edge AI deployments. In this installment, our questions turn to emerging use cases and key trends for the future.
-
-### [132. A Guide to Enhancing Security at the IoT Edge (Part 2)](https://hackernoon.com/a-guide-to-enhancing-security-at-the-iot-edge-part-2-zc3o3tw7)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F16aXPZrpmDX9bXl95jFOIFwB3KM2-4qk3t25.png?alt=media&token=671488ef-03d9-4b74-b3f5-c610e04e3926)
-The computing landscape has long observed a swing between centralized and distributed architectures, from the mainframe to client-server to the cloud. The next generation of computing is now upon us, representing both a return to the familiar distributed model and a breakthrough in rethinking how we handle data. 
-
-### [133. A Guide to Making a BLE-Enabled Smart Bulb with STM32](https://hackernoon.com/a-guide-to-making-a-ble-enabled-smart-bulb-with-stm32)
+### [130. A Guide to Making a BLE-Enabled Smart Bulb with STM32](https://hackernoon.com/a-guide-to-making-a-ble-enabled-smart-bulb-with-stm32)
 ![](https://cdn.hackernoon.com/images/OjypuneKSVhHYR2oBB8WjCrHaLi1-zfc3hwz.jpeg)
 The aim of this project is to control different home appliances using a web browser or smartphone.
 
-### [134. More Than a Buzzword: Retailers are Going “Phygital” with Their Marketing Strategies](https://hackernoon.com/more-than-a-buzzword-retailers-are-going-phygital-with-their-marketing-strategies-7n6z37ai)
+### [131. An Introduction to 5G Networks and IoT](https://hackernoon.com/an-introduction-to-5g-networks-and-iot)
+![](https://cdn.hackernoon.com/images/Eao0vsVvsqgnL89xG0Ypg8JFDxN2-xp0368r.png)
+What is IoT? IoT stands for “Internet of Things”, which describes a system of physical devices that are connected through the Internet. These devices can ...
+
+### [132. More Than a Buzzword: Retailers are Going “Phygital” with Their Marketing Strategies](https://hackernoon.com/more-than-a-buzzword-retailers-are-going-phygital-with-their-marketing-strategies-7n6z37ai)
 ![](https://cdn.hackernoon.com/images/SqScPlMHtYb11XYQci7LlsUCZ9m2-gqc3593.jpeg)
 What is Phygital? Discover its meaning and explore why brands going “phygital” in order to deliver the excellent customer experience before your competitors do
+
+### [133. Pushing AI to the Edge: Use Cases and What is Next [Part 2]](https://hackernoon.com/pushing-ai-to-the-edge-use-cases-and-what-is-next-part-2-sp1y31oz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F16aXPZrpmDX9bXl95jFOIFwB3KM2-n5b3ttf.jpeg?alt=media&token=4a544817-83b3-4651-8a0e-84b2700c0e73)
+In Part One of this two-part Q&A series we highlighted some key considerations for edge AI deployments. In this installment, our questions turn to emerging use cases and key trends for the future.
+
+### [134. A Guide to Enhancing Security at the IoT Edge (Part 2)](https://hackernoon.com/a-guide-to-enhancing-security-at-the-iot-edge-part-2-zc3o3tw7)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F16aXPZrpmDX9bXl95jFOIFwB3KM2-4qk3t25.png?alt=media&token=671488ef-03d9-4b74-b3f5-c610e04e3926)
+The computing landscape has long observed a swing between centralized and distributed architectures, from the mainframe to client-server to the cloud. The next generation of computing is now upon us, representing both a return to the familiar distributed model and a breakthrough in rethinking how we handle data. 
 
 ### [135. Top Industrial IoT Applications to Spark Innovation](https://hackernoon.com/top-industrial-iot-applications-to-spark-innovation)
 ![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-e893pzv.jpeg)
@@ -556,37 +558,37 @@ The HN team discusses the next big thing in smart home gadgets and what new tech
 ![](https://cdn.hackernoon.com/images/9HUB5XcnrzboujIZVfzkLT9PHqI3-z7u33df.jpeg)
 This Slack discussion by Sadia Mehmood, BitcoinPetar, Rianke Krugel, anthony watson and Utsav Jaiswal occurred in slogging's official #introductions channel, and has been edited for readability.
 
-### [138. IoT Trends in 2021: Driving Innovation in Businesses](https://hackernoon.com/iot-trends-in-2021-driving-innovation-in-businesses-ca2l3460)
-![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-h65i33i6.jpeg)
-Here are the latest IoT trends and key predictions of how the Internet of Things will drive digital transformation of business in 2021.
-
-### [139. Why we Gave Up on the Traditional Firmware Update Process](https://hackernoon.com/why-we-gave-up-on-the-traditional-firmware-update-process)
+### [138. Why we Gave Up on the Traditional Firmware Update Process](https://hackernoon.com/why-we-gave-up-on-the-traditional-firmware-update-process)
 ![](https://cdn.hackernoon.com/images/S0eYqw5MrWTLUxwr9s07qYXinku1-2j037bt.jpeg)
 In this article, I share my experience with making a traditional firmware update and how it slowed down business and describe how to design the IoT platform.
 
-### [140. IoT Devices, Lighting Solutions And Their Adoption After Pandemic](https://hackernoon.com/iot-devices-lighting-solutions-and-their-adoption-after-pandemic-6x2f3uet)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxsUoF5axcxSoeH3fgWCicxZzJev1-xbw3u7c.jpeg?alt=media&token=cc68eea2-4a92-44fb-9ca6-f1366d47e2f2)
-Technology is a compelling resource when it comes to minimizing the chances of covid-19 transmission. While the usefulness in the medical realm is evident and would require a separate discussion, the main focus of our current discussion will be IoT-empowered lighting solutions. Most of the manufacturers dealing in lighting solutions are opting for smart accessibility to minimize human contact. 
+### [139. IoT Trends in 2021: Driving Innovation in Businesses](https://hackernoon.com/iot-trends-in-2021-driving-innovation-in-businesses-ca2l3460)
+![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-h65i33i6.jpeg)
+Here are the latest IoT trends and key predictions of how the Internet of Things will drive digital transformation of business in 2021.
 
-### [141. Things COVID-19 Taught Us About IoT Edge](https://hackernoon.com/things-covid-19-taught-us-about-iot-edge-3d73w6b)
+### [140. Things COVID-19 Taught Us About IoT Edge](https://hackernoon.com/things-covid-19-taught-us-about-iot-edge-3d73w6b)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F16aXPZrpmDX9bXl95jFOIFwB3KM2-qhc3t8j.jpeg?alt=media&token=5a3b6439-4029-423a-9517-8553f60da4d9)
 As we watch various industries react to movement restrictions and new work-from-home environments, it has also caused us to reflect on the future of IoT and the role edge computing will play. We wanted to take this opportunity to share a few observations on how the current situation exemplifies the benefits of edge computing and having remote orchestration capabilities for critical systems through IoT solutions. While we hope that we’ll see a return to a more normal way of life soon, we believe that remotely-orchestrated IoT edge solutions will be an integral part of businesses’ digital strategies well into the future.
 
-### [142. Who Is Going to Benefit From 5G Network?](https://hackernoon.com/who-is-going-to-benefit-from-5g-network-uc203wxl)
-![](https://cdn.hackernoon.com/drafts/jr3r3v18.png)
-With the creation of the Internet, the whole world was turned upside down. It became possible to contact one person to one side of the world from the other side of the world. We can find everything, play online and work conveniently.
+### [141. IoT Devices, Lighting Solutions And Their Adoption After Pandemic](https://hackernoon.com/iot-devices-lighting-solutions-and-their-adoption-after-pandemic-6x2f3uet)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxsUoF5axcxSoeH3fgWCicxZzJev1-xbw3u7c.jpeg?alt=media&token=cc68eea2-4a92-44fb-9ca6-f1366d47e2f2)
+Technology is a compelling resource when it comes to minimizing the chances of covid-19 transmission. While the usefulness in the medical realm is evident and would require a separate discussion, the main focus of our current discussion will be IoT-empowered lighting solutions. Most of the manufacturers dealing in lighting solutions are opting for smart accessibility to minimize human contact. 
 
-### [143. Impact of IoT from Recruiting to the Final Product](https://hackernoon.com/impact-of-iot-from-recruiting-to-the-final-product-2fl32mt)
-![](https://cdn.hackernoon.com/drafts/9k1132oi.png)
-(Source: Image by methodshop from Pixabay) 
-
-### [144. Reinventing Consumer Relationships In IoB](https://hackernoon.com/reinventing-consumer-relationships-in-iob-p31634eg)
+### [142. Reinventing Consumer Relationships In IoB](https://hackernoon.com/reinventing-consumer-relationships-in-iob-p31634eg)
 ![](https://hackernoon.com/images/KEGfMoHXoLeZJUxizg8AEw6tvLz1-h64734wt.jpeg)
 While technological dependency increases for people in personal and professional aspects, IoT has now started to enhance the way humans perceive themselves.
 
-### [145. Building Business Ecosystems Through an Open Edge (Part One)](https://hackernoon.com/building-business-ecosystems-through-an-open-edge-part-one-533131ln)
+### [143. Who Is Going to Benefit From 5G Network?](https://hackernoon.com/who-is-going-to-benefit-from-5g-network-uc203wxl)
+![](https://cdn.hackernoon.com/drafts/jr3r3v18.png)
+With the creation of the Internet, the whole world was turned upside down. It became possible to contact one person to one side of the world from the other side of the world. We can find everything, play online and work conveniently.
+
+### [144. Building Business Ecosystems Through an Open Edge (Part One)](https://hackernoon.com/building-business-ecosystems-through-an-open-edge-part-one-533131ln)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F16aXPZrpmDX9bXl95jFOIFwB3KM2-hl4d3wgw.jpeg?alt=media&token=62c1bfc9-fc79-4b5a-9f9f-6eee92c1eb6d)
 In the rapidly-evolving technology landscape, competitive advantage is based on the ability to innovate rapidly and continuously improve an offering through software- and, increasingly, hardware-defined experiences, not to mention better services.
+
+### [145. Impact of IoT from Recruiting to the Final Product](https://hackernoon.com/impact-of-iot-from-recruiting-to-the-final-product-2fl32mt)
+![](https://cdn.hackernoon.com/drafts/9k1132oi.png)
+(Source: Image by methodshop from Pixabay) 
 
 ### [146. IoT Use Trends Among SMBs: Survey-Based Insights](https://hackernoon.com/iot-use-trends-among-smbs-survey-based-insights-jd2837ol)
 ![](https://cdn.hackernoon.com/images/Uy3K4SPkGtNvqzNaeZD8EYBtt7i2-n32t34bm.jpeg)
@@ -616,13 +618,13 @@ The Internet of Things relies on the interoperation of network nodes. Integra cr
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ft4kFzqF7d1SB5zJhO3wiqCNBiPw2-e7213uaf.jpeg?alt=media&token=cc70bd60-4d6d-4cde-9bf0-90195ba6b6aa)
 Technology is a compelling resource when it comes to minimizing the chances of covid-19 transmission. While the usefulness in the medical realm is evident and would require a separate discussion, the main focus of our current discussion will be IoT-empowered lighting solutions. Most of the manufacturers dealing in lighting solutions are opting for smart accessibility to minimize human contact. 
 
-### [153. Reimagining Smart Home Gadgets: Paving the Way to a Connected Lifestyle](https://hackernoon.com/reimagining-smart-home-gadgets-paving-the-way-to-a-connected-lifestyle)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-sw93mvf.jpeg)
-Driven by the skyrocketing growth of technologies like AI and the Internet of Things (IoT), the smart home market is expected to keep growing at double digits.
-
-### [154. A Rudimentary Introduction to the Internet of Things](https://hackernoon.com/a-rudimentary-introduction-to-the-internet-of-things)
+### [153. A Rudimentary Introduction to the Internet of Things](https://hackernoon.com/a-rudimentary-introduction-to-the-internet-of-things)
 ![](https://cdn.hackernoon.com/images/5VJdor4zbaf9thDrzjg3WiH5UYk1-n293oey.jpeg)
 This is a breakdown of the Internet of Things for beginners. It includes definitions, use cases, and basic concerns.
+
+### [154. Reimagining Smart Home Gadgets: Paving the Way to a Connected Lifestyle](https://hackernoon.com/reimagining-smart-home-gadgets-paving-the-way-to-a-connected-lifestyle)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-sw93mvf.jpeg)
+Driven by the skyrocketing growth of technologies like AI and the Internet of Things (IoT), the smart home market is expected to keep growing at double digits.
 
 ### [155. Building Business Ecosystems Through an Open Edge (Part Two)](https://hackernoon.com/building-business-ecosystems-through-an-open-edge-part-two-lop34ok)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F16aXPZrpmDX9bXl95jFOIFwB3KM2-mw3b3wuy.jpeg?alt=media&token=bd38de73-c257-45c1-a109-ae367d2bf962)
@@ -640,22 +642,22 @@ Since 4G was launched in 2010 the network researchers started exploring the poss
 ![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-23e3p67.jpeg)
 Unlock customer satisfaction and business growth by tapping into the Internet of Behaviors (IoB) - understanding and leveraging human behavior across industries
 
-### [159. On RT-Thread Studio IDE](https://hackernoon.com/on-rt-thread-studio-ide-9cs3tum)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FyNJbnhbn2DgfeSxltc11PDdlv293-ds323tbx.jpeg?alt=media&token=069ca584-1d5c-427a-b390-0e3a212f90ca)
-The integrated development environment (IDE) software plays an important role in embedded development, it can reduce repetitive work, minimize the difficulty of project development, improve work efficiency both in speed and quality, and accelerate the overall product development process.
-
-### [160. After-Hours IoT Hacker John Kinsella has Been Coding Since the 80s ](https://hackernoon.com/after-hours-iot-hacker-john-kinsella-has-been-coding-since-the-80s-jr4n3ttp)
+### [159. After-Hours IoT Hacker John Kinsella has Been Coding Since the 80s ](https://hackernoon.com/after-hours-iot-hacker-john-kinsella-has-been-coding-since-the-80s-jr4n3ttp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-nk253tlx.jpeg?alt=media&token=e4012fbd-a4e3-4463-8263-115337fed144)
 2020 Noonie Nominee, John Kinsella is from the US and has some some simple yet profound advice for makers and writers who might be feeling stuck. Scroll down for a 10-question interview with a veteran computer security industry expert, right after the ad-break. 
 
-### [161. How IoT Can Help Solve the Most Critical Global Waste Problems](https://hackernoon.com/how-iot-can-help-solve-the-most-critical-global-waste-problems-8p9l3yk6)
+### [160. The Use Cases of Assistive Technology for the Visually Impaired and the New Tech in Development](https://hackernoon.com/the-use-cases-of-assistive-technology-for-the-visually-impaired-and-the-new-tech-in-development)
+![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-1u537f6.jpeg)
+At least 2.2 billion people globally have a near or distance visual impairment, the World Health Organization states in its recent report. The adverse influence visual impairments have on people's lives is manifold.
+
+### [161. On RT-Thread Studio IDE](https://hackernoon.com/on-rt-thread-studio-ide-9cs3tum)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FyNJbnhbn2DgfeSxltc11PDdlv293-ds323tbx.jpeg?alt=media&token=069ca584-1d5c-427a-b390-0e3a212f90ca)
+The integrated development environment (IDE) software plays an important role in embedded development, it can reduce repetitive work, minimize the difficulty of project development, improve work efficiency both in speed and quality, and accelerate the overall product development process.
+
+### [162. How IoT Can Help Solve the Most Critical Global Waste Problems](https://hackernoon.com/how-iot-can-help-solve-the-most-critical-global-waste-problems-8p9l3yk6)
 ![](https://cdn.hackernoon.com/images/wtr83y1q.jpg)
 Even though recycling and other waste management methods
 such as waste-to-energy systems and commercial composting have been rising in popularity since the 1960s, still most of the waste ends up in a landfill. Most countries often do not deal with waste management as effectively as needed. According to statista.com, in 2017, the United States alone produced approximately 267.8 million tons of solid waste. Of that, some 139 million tons went to landfills, and only 67 million tons were recycled. However, in the future, cities are expected to achieve zero waste, reduce municipalities’ operational costs, and improve services to citizens, thanks to more efficient and smarter waste collection systems.
-
-### [162. The Use Cases of Assistive Technology for the Visually Impaired and the New Tech in Development](https://hackernoon.com/the-use-cases-of-assistive-technology-for-the-visually-impaired-and-the-new-tech-in-development)
-![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-1u537f6.jpeg)
-At least 2.2 billion people globally have a near or distance visual impairment, the World Health Organization states in its recent report. The adverse influence visual impairments have on people's lives is manifold.
 
 ### [163. Building Business Ecosystems Through an Open Edge (Part Three)](https://hackernoon.com/building-business-ecosystems-through-an-open-edge-part-three-k2f34pi)
 ![](https://cdn.hackernoon.com/images/16aXPZrpmDX9bXl95jFOIFwB3KM2-39k31mr.jpeg)

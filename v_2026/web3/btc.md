@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [btc](https://hackernoon.com/tagged/btc)
+### Let's learn about [Btc](https://hackernoon.com/tagged/btc) via these 182 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 The king of the hill. Do you still hodl?
 
 ### [1. 9 Rules of Crypto Trading That Helped One Trader Go from $1k to $46k in Less Than a Year](https://hackernoon.com/9-rules-of-crypto-trading-that-helped-one-trader-go-from-1k-to-46k-in-less-than-a-year-232689fe5f00)
@@ -202,26 +204,26 @@ Here is no place for the “Impossible” but the fact is, switching Bitcoin to 
 ![](https://cdn.hackernoon.com/images/KTDG30dQiiOjdElfFQnlwPmIprG3-y8a3pj2.jpeg)
 Bitcoin holders that want to use BTC in decentralized finance (DeFi) are currently forced to rely on centralized providers, but there is a way to fix that.
 
-### [48. Can Filecoin Achieve A Market Value of 100 billion Any Time Soon?](https://hackernoon.com/can-filecoin-achieve-a-market-value-of-100-billion-any-time-soon-101x3xjl)
+### [48. What to Expect When Bitcoin Mining Stops](https://hackernoon.com/what-to-expect-when-bitcoin-mining-stops)
+![](https://cdn.hackernoon.com/images/wgdTKHoKNgN48nObNBOTGr0lLis1-cs0311a.png)
+Discover how miners will earn, and how Bitcoin will survive without block rewards in the future!
+
+### [49. Can Filecoin Achieve A Market Value of 100 billion Any Time Soon?](https://hackernoon.com/can-filecoin-achieve-a-market-value-of-100-billion-any-time-soon-101x3xjl)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6192IkNhK6fDk5pJCty9veBXXmt2-js3i3x86.jpeg?alt=media&token=5053db84-c468-4474-bd6d-eaae9e41ac44)
 Filecoin 3 years late，Can it achieve a market value of 100 billion
 Filecoinbe will be able to successfully launch the mainnet this year? which is  three years late.What is the support behind the high-profile storage market?LLab invited Li Bai from the  shiliu pool to have an in-depth discussion with you.
 
-### [49. What to Expect When Bitcoin Mining Stops](https://hackernoon.com/what-to-expect-when-bitcoin-mining-stops)
-![](https://cdn.hackernoon.com/images/wgdTKHoKNgN48nObNBOTGr0lLis1-cs0311a.png)
-Discover how miners will earn, and how Bitcoin will survive without block rewards in the future!
+### [50. Here's All The News Driving Crypto Markets in March 2025](https://hackernoon.com/heres-all-the-news-driving-crypto-markets-in-march-2025)
+![](https://cdn.hackernoon.com/images/IZH5VrBxylTJuG6oTbU11LwJemA3-5t0347i.png)
+After a wild 2024, where AI tokens soared and memecoins reminded us why this space is still a casino at heart, this month feels like a turning point.
 
-### [50. Top 5 Ways You Lost Your Crypto in 2020](https://hackernoon.com/top-5-ways-you-lost-your-crypto-in-2020-fm1h340o)
+### [51. Top 5 Ways You Lost Your Crypto in 2020](https://hackernoon.com/top-5-ways-you-lost-your-crypto-in-2020-fm1h340o)
 ![](https://cdn.hackernoon.com/images/VgSzoNL4XIY17O6a3TsgXw62pdr2-ctu34xq.jpeg)
 Not all crypto products are born equal.
 
-### [51. When Will Ethereum Finally Top Bitcoin?](https://hackernoon.com/when-will-ethereum-finally-top-bitcoin)
+### [52. When Will Ethereum Finally Top Bitcoin?](https://hackernoon.com/when-will-ethereum-finally-top-bitcoin)
 ![](https://cdn.hackernoon.com/images/aNbPAoX7SqdNEerMukMydi4Offl2-aw93twu.jpeg)
 Ethereum is bitcoin's biggest competitor, the Smart-contract originator is the closest cryptocurrency to bitcoin, it stands a chance of climbing to the top.
-
-### [52. Here's All The News Driving Crypto Markets in March 2025](https://hackernoon.com/heres-all-the-news-driving-crypto-markets-in-march-2025)
-![](https://cdn.hackernoon.com/images/IZH5VrBxylTJuG6oTbU11LwJemA3-5t0347i.png)
-After a wild 2024, where AI tokens soared and memecoins reminded us why this space is still a casino at heart, this month feels like a turning point.
 
 ### [53. The Satoshi Mystery Solved: Who Actually is the Father of Bitcoin?](https://hackernoon.com/the-satoshi-mystery-solved-who-actually-is-the-father-of-bitcoin)
 ![](https://cdn.hackernoon.com/images/LfIWgEvv7eQxowzxo2fYPBh2gAo1-0n831pm.jpeg)
@@ -287,26 +289,26 @@ Imagine I told you I created a technology that could revolutionize finance and g
 ![](https://cdn.hackernoon.com/images/WbcCkJaMEOT0QfUrXOPnlD5sfM73-ws93r2r.jpeg)
 NFTs have courted more controversy than any other digital asset. The latest outcry comes from Bitcoin Maximists regarding Ordinals - Bitcoin NFTs.
 
-### [69. The Time to Think In Satoshis Has Come](https://hackernoon.com/the-time-to-think-in-satoshis-has-come)
+### [69. BITLEVEX Secures $50m From GEM Digital](https://hackernoon.com/bitlevex-secures-$50m-from-gem-digital)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-f992aok.jpeg)
+Estonia-based investment platform BITLEVEX announced that it had secured an investment facility totaling $50M from GEM Digital Limited.
+
+### [70. The Time to Think In Satoshis Has Come](https://hackernoon.com/the-time-to-think-in-satoshis-has-come)
 ![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-vm23b49.jpeg)
 If talking in terms of Satoshi will become the norm in the future, thinking in Satoshi must become the norm now to encourage mainstream adoption of Bitcoin.
 
-### [70. The Difference Between Crypto Trading and Crypto Investing](https://hackernoon.com/the-difference-between-crypto-trading-and-crypto-investing)
+### [71. The Difference Between Crypto Trading and Crypto Investing](https://hackernoon.com/the-difference-between-crypto-trading-and-crypto-investing)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-420383y.jpeg)
 You can trade or invest, but not both
 
-### [71. Bitcoin 2021: A Brief Interview with 
+### [72. Bitcoin 2021: A Brief Interview with 
 Changpeng Zhao](https://hackernoon.com/bitcoin-2021-a-brief-interview-with-changpeng-zhao-7jh32js)
 ![](https://cdn.hackernoon.com/images/E94jeG4kuxf5Akvr1TBep1bZVSg1-we213266.jpeg)
 Interview with CZ on BTC in 2021 -- hebelieves the "journey has just started" for BTC, DeFi, and cryptocurrency.
 
-### [72. Bitcoin Enthusiasts Are Letting Altcoins Pass by](https://hackernoon.com/bitcoin-enthusiasts-are-letting-altcoins-pass-by)
+### [73. Bitcoin Enthusiasts Are Letting Altcoins Pass by](https://hackernoon.com/bitcoin-enthusiasts-are-letting-altcoins-pass-by)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-xw02suu.jpeg)
 Bitcoin, which is trying to settle above the psychologically important $100,000 level, gets the most media attention.
-
-### [73. BITLEVEX Secures $50m From GEM Digital](https://hackernoon.com/bitlevex-secures-$50m-from-gem-digital)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-f992aok.jpeg)
-Estonia-based investment platform BITLEVEX announced that it had secured an investment facility totaling $50M from GEM Digital Limited.
 
 ### [74. Bitcoin vs. 'Safe' Investments: Risk is Everywhere](https://hackernoon.com/bitcoin-vs-safe-investments-risk-is-everywhere)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-g913a4m.jpeg)
@@ -344,13 +346,13 @@ Building and operating a Web3 community from scratch is undoubtedly the biggest 
 ![](https://cdn.hackernoon.com/images/a-mountain-with-a-bitcoin-coin-at-the-peak-clb0athuh000101s6h92ucw1i.png)
 The industry has been hit month after month, with 25 crypto exchanges shutting their doors. 
 
-### [83. Did You Miss Bitcoin’s Most Revolutionary Feature Too?](https://hackernoon.com/did-you-miss-bitcoins-most-revolutionary-feature-too-3g1f3xtf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNgBhuMTisXRHJvE5E2S3MKsexy52-pth3tlc.jpeg?alt=media&token=7ab8e256-6982-44b2-bdf4-fb34a0e4912a)
-With bitcoin’s price gaining steam, you may think it’s about to go mainstream.
-
-### [84. The Noonification: Will Programmers Really Be Replaced by AI? (5/13/2023)](https://hackernoon.com/5-13-2023-noonification)
+### [83. The Noonification: Will Programmers Really Be Replaced by AI? (5/13/2023)](https://hackernoon.com/5-13-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 5/13/2023: Top 5 stories on the Hackernoon homepage!
+
+### [84. Did You Miss Bitcoin’s Most Revolutionary Feature Too?](https://hackernoon.com/did-you-miss-bitcoins-most-revolutionary-feature-too-3g1f3xtf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNgBhuMTisXRHJvE5E2S3MKsexy52-pth3tlc.jpeg?alt=media&token=7ab8e256-6982-44b2-bdf4-fb34a0e4912a)
+With bitcoin’s price gaining steam, you may think it’s about to go mainstream.
 
 ### [85. Are Bitcoin ATMs An Anomaly or Just an Aberration?](https://hackernoon.com/are-bitcoin-atms-an-anomaly-or-just-an-aberration-yp1b3x86)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fz4kKjyhsAnMpCOcgQUNFQJPd3mx2-euq3xw7.jpeg?alt=media&token=38c3182a-ce79-42b4-b4b7-ef1787fb4c77)
@@ -360,27 +362,27 @@ The ATM can be considered a staple of traditional finance, even those in most de
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-f830366r.jpeg)
 Stock-to-Flow predicts bitcoin's price will stay above $100,000 from summer to the end of this year. What if that doesn't happen? 
 
-### [87. 2021 Is Bitcoin’s Year: How to Get in on the Digital Gold Rush](https://hackernoon.com/the-2021-digital-gold-rush-for-bitcoin-9q3j33rv)
-![](https://cdn.hackernoon.com/images/QSTw1Dvib9TyrPWsWt3PmtqHUds1-dw2z31rl.jpeg)
-Everyone's pinning their hopes on this new year to bring good fortune,
-and for Bitcoin traders, it couldn't be a better beginning.
+### [87. Bitcoin Price: What Factors Impact it?](https://hackernoon.com/bitcoin-price-what-factors-impact-it)
+![](https://cdn.hackernoon.com/images/LfIWgEvv7eQxowzxo2fYPBh2gAo1-ldi3p4g.jpeg)
+What factors impact the Bitcoin price? Traditionally, we talk about supply, demand, competition, regulation, but liquidity is the king that manages all of them
 
 ### [88. Declare your Bitcoin Today - Practical Advice on Crypto Taxes](https://hackernoon.com/declare-your-bitcoin-today-practical-advice-on-crypto-taxes-cm1033gl)
 ![](https://cdn.hackernoon.com/images/E94jeG4kuxf5Akvr1TBep1bZVSg1-uvcl33jk.jpeg)
 Practical advice on handling crypto gains for retail investors filing U.S. taxes.
 
-### [89. Bitcoin Price: What Factors Impact it?](https://hackernoon.com/bitcoin-price-what-factors-impact-it)
-![](https://cdn.hackernoon.com/images/LfIWgEvv7eQxowzxo2fYPBh2gAo1-ldi3p4g.jpeg)
-What factors impact the Bitcoin price? Traditionally, we talk about supply, demand, competition, regulation, but liquidity is the king that manages all of them
+### [89. 2021 Is Bitcoin’s Year: How to Get in on the Digital Gold Rush](https://hackernoon.com/the-2021-digital-gold-rush-for-bitcoin-9q3j33rv)
+![](https://cdn.hackernoon.com/images/QSTw1Dvib9TyrPWsWt3PmtqHUds1-dw2z31rl.jpeg)
+Everyone's pinning their hopes on this new year to bring good fortune,
+and for Bitcoin traders, it couldn't be a better beginning.
 
-### [90. Institutional Investment Keep Pouring Into Bitcoin](https://hackernoon.com/will-institutional-investment-keep-pouring-into-bitcoin-yp1c35so)
+### [90. Stop Procrastinating: Time to Learn About Bitcoin](https://hackernoon.com/stop-procrastinating-time-to-learn-about-bitcoin-j4w3e03)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FE94jeG4kuxf5Akvr1TBep1bZVSg1-6q1i3tf0.jpeg?alt=media&token=1da20e0b-5e14-4b75-8017-f3f72ba82fd6)
+A plain-talk explanation of crypto for people who just want to get it over with.
+
+### [91. Institutional Investment Keep Pouring Into Bitcoin](https://hackernoon.com/will-institutional-investment-keep-pouring-into-bitcoin-yp1c35so)
 ![](https://cdn.hackernoon.com/images/ICFDnsDmDOZvcYkjBuTkWflsLiF2-3h834ob.jpeg)
 Institutional investment was one of the top talking points for the crypto space in 2020. It was quite understandable, with companies looking to stay positive on their balance sheets and make gains with Bitcoin. 
 
-
-### [91. Stop Procrastinating: Time to Learn About Bitcoin](https://hackernoon.com/stop-procrastinating-time-to-learn-about-bitcoin-j4w3e03)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FE94jeG4kuxf5Akvr1TBep1bZVSg1-6q1i3tf0.jpeg?alt=media&token=1da20e0b-5e14-4b75-8017-f3f72ba82fd6)
-A plain-talk explanation of crypto for people who just want to get it over with.
 
 ### [92. The Future of Finance: Diving Into the World of BTC Staking](https://hackernoon.com/the-future-of-finance-diving-into-the-world-of-btc-staking)
 ![](https://cdn.hackernoon.com/images/wfm0qi0hmxcUYRnXg9j6NlR61V82-9q93pc0.jpeg)
@@ -390,13 +392,13 @@ A look of users can stake Bitcoin
 ![](https://cdn.hackernoon.com/drafts/4bp3076.png)
 Caption: Chaintimes
 
-### [94. Elon Musk and Crypto Markets: "Seriously, playing?" or "Playing seriously"? ](https://hackernoon.com/elon-musk-and-crypto-markets-seriously-playing-or-playing-seriously-r5y35h6)
-![](https://cdn.hackernoon.com/images/0QUQpD0VCsgAaYPa5e24rYsNMx62-9d4x33hz.jpeg)
-Elon Musk and crypto market manipulation - is it a joke or a serious crime?
-
-### [95. To Achieve Global Adoption, Crypto Should Remember Its Roots](https://hackernoon.com/to-achieve-global-adoption-crypto-should-remember-its-roots)
+### [94. To Achieve Global Adoption, Crypto Should Remember Its Roots](https://hackernoon.com/to-achieve-global-adoption-crypto-should-remember-its-roots)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ita3lrg.png)
 From its onset, skepticism of TradFi and hope for a system that puts people ahead of privileged insiders was baked into crypto’s source code. So what happened?
+
+### [95. Elon Musk and Crypto Markets: "Seriously, playing?" or "Playing seriously"? ](https://hackernoon.com/elon-musk-and-crypto-markets-seriously-playing-or-playing-seriously-r5y35h6)
+![](https://cdn.hackernoon.com/images/0QUQpD0VCsgAaYPa5e24rYsNMx62-9d4x33hz.jpeg)
+Elon Musk and crypto market manipulation - is it a joke or a serious crime?
 
 ### [96. Will Bitcoin be Legal in Mexico?](https://hackernoon.com/will-bitcoin-be-legal-in-mexico-zc1vz35z2)
 ![](https://cdn.hackernoon.com/images/ra1xe35y1.jpg)
@@ -507,41 +509,41 @@ Why Microsoft refused to add Bitcoin to its balance sheet?
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-f103ol0.jpeg)
 There is no altcoin cycle. They all move up and down at roughly the same time, regardless of size.
 
-### [123. Bitcoin White Paper: 1. Introduction](https://hackernoon.com/bitcoin-white-paper-1-introduction-q6uu2bgj)
-![](https://cdn.hackernoon.com/images/a8ni2bg0.jpg)
-Commerce on the Internet has come to rely almost exclusively on financial institutions serving a strusted third  parties  to process electronic payments.   While the  system works  well enough formost   transactions,   it   still   suffers   from   the   inherent   weaknesses   of   the   trust   based   model.Completely non-reversible transactions are not really possible, since financial institutions cannotavoid   mediating   disputes.     The   cost   of   mediation   increases   transaction   costs,   limiting   theminimum practical transaction size and cutting off the possibility for small casual transactions, and   there   is   a   broader   cost   in   the   loss   of   ability   to   make   non-reversible   payments   for   non-reversible services.  With the possibility of reversal, the need for trust spreads.  Merchants mustbe wary of their customers, hassling them for more information than they would otherwise need.A certain percentage of fraud is accepted as unavoidable.  These costs and payment uncertainties can be avoided in person by using physical currency, but no mechanism exists to make payments over a communications channel without a trusted party.
-
-### [124. Bitcoin: 2023 Year in Review](https://hackernoon.com/bitcoin-2023-year-in-review)
+### [123. Bitcoin: 2023 Year in Review](https://hackernoon.com/bitcoin-2023-year-in-review)
 ![](https://cdn.hackernoon.com/images/dragon-made-of-bitcoin-wkwycse87w93gswy5fnjbj5u.png)
 In 2023, the Bitcoin landscape was transformed by the introduction of the Ordinals protocol. BitcoinSV charted its own path, focusing on scalability.
 
-### [125. Here Comes a New Wave of Mainstream Bitcoin Adopters](https://hackernoon.com/here-comes-a-new-wave-of-mainstream-bitcoin-adopters-ot4j3y9o)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNgBhuMTisXRHJvE5E2S3MKsexy52-vh2g3yk1.jpeg?alt=media&token=04dd2095-49ca-4742-b1c6-e406c978bf72)
-In the classic “diffusion of innovations” theory, new technology has to progress from innovators to early adopters before it can go mainstream.
+### [124. Bitcoin White Paper: 1. Introduction](https://hackernoon.com/bitcoin-white-paper-1-introduction-q6uu2bgj)
+![](https://cdn.hackernoon.com/images/a8ni2bg0.jpg)
+Commerce on the Internet has come to rely almost exclusively on financial institutions serving a strusted third  parties  to process electronic payments.   While the  system works  well enough formost   transactions,   it   still   suffers   from   the   inherent   weaknesses   of   the   trust   based   model.Completely non-reversible transactions are not really possible, since financial institutions cannotavoid   mediating   disputes.     The   cost   of   mediation   increases   transaction   costs,   limiting   theminimum practical transaction size and cutting off the possibility for small casual transactions, and   there   is   a   broader   cost   in   the   loss   of   ability   to   make   non-reversible   payments   for   non-reversible services.  With the possibility of reversal, the need for trust spreads.  Merchants mustbe wary of their customers, hassling them for more information than they would otherwise need.A certain percentage of fraud is accepted as unavoidable.  These costs and payment uncertainties can be avoided in person by using physical currency, but no mechanism exists to make payments over a communications channel without a trusted party.
 
-### [126. All of the Tools You Need to Get Involved With Bitcoin: Get Ahead of the Game](https://hackernoon.com/all-of-the-tools-you-need-to-get-involved-with-bitcoin-get-ahead-of-the-game)
+### [125. All of the Tools You Need to Get Involved With Bitcoin: Get Ahead of the Game](https://hackernoon.com/all-of-the-tools-you-need-to-get-involved-with-bitcoin-get-ahead-of-the-game)
 ![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-wh932hl.jpeg)
 Moving ever faster towards a techno-anarchist future, humanity is in dire need of a decentralized digital money; Bitcoin is that money.
+
+### [126. Here Comes a New Wave of Mainstream Bitcoin Adopters](https://hackernoon.com/here-comes-a-new-wave-of-mainstream-bitcoin-adopters-ot4j3y9o)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNgBhuMTisXRHJvE5E2S3MKsexy52-vh2g3yk1.jpeg?alt=media&token=04dd2095-49ca-4742-b1c6-e406c978bf72)
+In the classic “diffusion of innovations” theory, new technology has to progress from innovators to early adopters before it can go mainstream.
 
 ### [127. Bitcoin Energy Consumption Explained](https://hackernoon.com/bitcoin-energy-consumption-explained-a9z353q)
 ![](https://cdn.hackernoon.com/images/4PeowQuF3SRSH7HtRcSklqjhMsH3-xug36ji.jpeg)
 Satoshi himself had to address Bitcoins energy consumption concerns, so let’s deep dive into why Bitcoin uses energy, and how it’s used.
 
-### [128. What Everyday Investors Need to Know About a ‘Bitcoin Halving’ ](https://hackernoon.com/what-everyday-investors-need-to-know-about-a-bitcoin-halving)
+### [128. 8 Quotes From Friedrich Nietzsche That Will Convince You of the Future Success of Bitcoin](https://hackernoon.com/8-quotes-from-friedrich-nietzsche-that-will-convince-you-of-the-future-success-of-bitcoin)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-p892ffw.jpeg)
+Yes, you read that right, Friedrich Nietzsche would probably have been a Bitcoiner.
+
+### [129. What Everyday Investors Need to Know About a ‘Bitcoin Halving’ ](https://hackernoon.com/what-everyday-investors-need-to-know-about-a-bitcoin-halving)
 ![](https://cdn.hackernoon.com/images/RrXJtkPPKZWNRCuHlWJyINqGIZ72-fc8348i.jpeg)
 A Bitcoin halving is an in-built, pre-programmed event that takes place every 210,000 blocks, or roughly every four years.
-
-### [129. Six Areas to Keep an Eye on While Crypto Recovers - A 2023 Outlook](https://hackernoon.com/six-areas-to-keep-an-eye-on-while-crypto-recovers-a-2023-outlook)
-![](https://cdn.hackernoon.com/images/rUpKihqU5xWtvjykFGTByUkU2pv2-dz93r2t.jpeg)
-Bing Ventures' research team believes that the crypto market will likely show positive signs of bottoming out in 2023 after an extended bear market.
 
 ### [130. Will the Crypto Lame Duck Ever Take Off?](https://hackernoon.com/will-the-crypto-lame-duck-ever-take-off)
 ![](https://cdn.hackernoon.com/images/rUpKihqU5xWtvjykFGTByUkU2pv2-bke3x9a.jpeg)
 We can say that the market has entered a long grinding stage.
 
-### [131. 8 Quotes From Friedrich Nietzsche That Will Convince You of the Future Success of Bitcoin](https://hackernoon.com/8-quotes-from-friedrich-nietzsche-that-will-convince-you-of-the-future-success-of-bitcoin)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-p892ffw.jpeg)
-Yes, you read that right, Friedrich Nietzsche would probably have been a Bitcoiner.
+### [131. Six Areas to Keep an Eye on While Crypto Recovers - A 2023 Outlook](https://hackernoon.com/six-areas-to-keep-an-eye-on-while-crypto-recovers-a-2023-outlook)
+![](https://cdn.hackernoon.com/images/rUpKihqU5xWtvjykFGTByUkU2pv2-dz93r2t.jpeg)
+Bing Ventures' research team believes that the crypto market will likely show positive signs of bottoming out in 2023 after an extended bear market.
 
 ### [132. 6 Websites Where You Can Pay With Bitcoin (BTC)](https://hackernoon.com/6-websites-where-you-can-pay-with-bitcoin-btc)
 ![](https://cdn.hackernoon.com/images/e4LQkB0qKpOHnRts3rMaOKGjzoU2-k3035ie.jpeg)
@@ -555,7 +557,11 @@ Am I the only one who wonders if Michael Saylor is essentially the Bitcoin “in
 ![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-qta32bm.png)
 If Bitcoin really is the superior system, how or why would anyone allow for Proof-Of-Stake to take over?
 
-### [135. Quick Analysis of the Current BTC Market [Oct 24,19]](https://hackernoon.com/the-reasons-of-the-current-btc-fall-gt4h3nge)
+### [135. Sudden Swing in Bitcoin's Price? It's Leverage, and Lots of It](https://hackernoon.com/sudden-swing-in-bitcoins-price-its-leverage-and-lots-of-it)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-se03hof.png)
+Until circumstances change, don’t be surprised if we get more of these sudden swings—both to the upside and downside.
+
+### [136. Quick Analysis of the Current BTC Market [Oct 24,19]](https://hackernoon.com/the-reasons-of-the-current-btc-fall-gt4h3nge)
 ![](https://cdn.hackernoon.com/images/ka1g326i.jpg)
 Today we wanna show you our view of  BTC/USD and situation on the market. 
 We move inside the  falling wedge , we just reached the price of $7280 and it is a good support and at this point several indicators intersect: 
@@ -566,10 +572,6 @@ We move inside the  falling wedge , we just reached the price of $7280 and it
 I think we will continue to move inside this  wedge and even a possible false break up this  wedge .
 Soon we will talk about the New Year rally, which is likely to be in the black triangle in the range $6800-8400.
 Now you can observe the intersection of the two main MA 200 and 50 - and this is called death cross - a signal for falling. 
-
-### [136. Sudden Swing in Bitcoin's Price? It's Leverage, and Lots of It](https://hackernoon.com/sudden-swing-in-bitcoins-price-its-leverage-and-lots-of-it)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-se03hof.png)
-Until circumstances change, don’t be surprised if we get more of these sudden swings—both to the upside and downside.
 
 ### [137. 114 Stories To Learn About Btc](https://hackernoon.com/114-stories-to-learn-about-btc)
 ![](https://cdn.hackernoon.com/images/github/btc-69.png)
@@ -587,52 +589,52 @@ YFIDapp is an upcoming decentralized finance project committed to creating an el
 ![](https://cdn.hackernoon.com/drafts/w12is360e.png)
 this is derived from a hackernoon community thread. these answers are by @BeastlyBeast. 
 
-### [141. Altcoins Are Running. Here’s What I’m Watching Now.](https://hackernoon.com/altcoins-are-running-heres-what-im-watching-now)
+### [141. How Much Will 1 Bitcoin Be Worth in 2030? (If It Keeps Going Up)](https://hackernoon.com/how-much-will-1-bitcoin-be-worth-in-2030-if-it-keeps-going-up)
+![](https://cdn.hackernoon.com/images/wgdTKHoKNgN48nObNBOTGr0lLis1-x0030j9.png)
+Curious about how much 1 Bitcoin could be worth in 2030? Learn what history, halving cycles, and growth trends reveal about BTC’s future.
+
+### [142. Altcoins Are Running. Here’s What I’m Watching Now.](https://hackernoon.com/altcoins-are-running-heres-what-im-watching-now)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-cj03hfr.jpeg)
 Altcoins often pump at the end of Bitcoin’s rallies. Speculative enthusiasm is back, but watch how the market structure evolves
 
-### [142. Bitcoin in a Nutshell: High Prices for a Cheery Consensus](https://hackernoon.com/bitcoin-in-a-nutshell-high-prices-for-a-cheery-consensus-q01v3755)
+### [143. Bitcoin in a Nutshell: High Prices for a Cheery Consensus](https://hackernoon.com/bitcoin-in-a-nutshell-high-prices-for-a-cheery-consensus-q01v3755)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-4x939hm.jpeg)
 For somebody who hates bitcoin, Warren Buffett sure got one thing right
 
-### [143. Why You Shouldn’t Care About Bitcoin’s Bull or Bear Market](https://hackernoon.com/why-you-shouldnt-care-about-bitcoins-bull-or-bear-market)
+### [144. Why You Shouldn’t Care About Bitcoin’s Bull or Bear Market](https://hackernoon.com/why-you-shouldnt-care-about-bitcoins-bull-or-bear-market)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-mha30do.jpeg)
 Bitcoin's price is zooming. Does that mean it's a bull market? Or the last gasp of a bear market? 
 
 Who cares. It doesn't matter anyway!
 
-### [144. Silvergate’s Loss is Crypto’s Gain](https://hackernoon.com/silvergates-loss-is-cryptos-gain)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-6cb3t3n.jpeg)
-Crypto banker Silvergate Capital is going out of business. One more reason for hope!
-
 ### [145. Bitcoin's Hash Ribbons are Flashing. What does this mean?](https://hackernoon.com/bitcoins-hash-ribbons-are-flashing-what-does-this-mean)
 ![](https://cdn.hackernoon.com/images/bitcoin-miner-anze5ps3bulmgv3t9udz9rfn.png)
 Hash ribbons were a way to tell when miners were in distress. But they haven't worked this year.
 
-### [146. The Case for Hibernation: Has Bitcoin Taken us to the Latest Crypto Winter?](https://hackernoon.com/the-case-for-hibernation-has-bitcoin-taken-us-to-the-latest-crypto-winter)
-![](https://cdn.hackernoon.com/images/8DePMddrVoa1WIeSvJVx4NvSyAf1-rl93i37.jpeg)
-Is Bitcoin set to hibernate between halving events? Or will adoption levels help to improve the cryptocurrency's outlook? 
+### [146. Silvergate’s Loss is Crypto’s Gain](https://hackernoon.com/silvergates-loss-is-cryptos-gain)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-6cb3t3n.jpeg)
+Crypto banker Silvergate Capital is going out of business. One more reason for hope!
 
-### [147. How Much Will 1 Bitcoin Be Worth in 2030? (If It Keeps Going Up)](https://hackernoon.com/how-much-will-1-bitcoin-be-worth-in-2030-if-it-keeps-going-up)
-![](https://cdn.hackernoon.com/images/wgdTKHoKNgN48nObNBOTGr0lLis1-x0030j9.png)
-Curious about how much 1 Bitcoin could be worth in 2030? Learn what history, halving cycles, and growth trends reveal about BTC’s future.
-
-### [148. HODLing Isn’t Enough: Here’s 4 Ways You Can Really Help Bitcoin (No Terminal Needed)](https://hackernoon.com/hodling-isnt-enough-heres-4-ways-you-can-really-help-bitcoin-no-terminal-needed)
+### [147. HODLing Isn’t Enough: Here’s 4 Ways You Can Really Help Bitcoin (No Terminal Needed)](https://hackernoon.com/hodling-isnt-enough-heres-4-ways-you-can-really-help-bitcoin-no-terminal-needed)
 ![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-9303d6e.jpeg)
 Hodling makes you an investor. Participation makes you a pioneer. The network is waiting.
 
-### [149. Bitcoin Pizza Day: Celebrating The Irony](https://hackernoon.com/bitcoin-pizza-day-celebrating-the-irony-ca1334ed)
+### [148. Bitcoin Pizza Day: Celebrating The Irony](https://hackernoon.com/bitcoin-pizza-day-celebrating-the-irony-ca1334ed)
 ![](https://cdn.hackernoon.com/images/9UDtVcAinBWyvc94PVXp3wLA8wV2-y1gg36yt.jpeg)
 Laszlo needed to prove a point; bitcoin can be inherently exchanged for goods, the hardcore attribute of anything that seeks to act as a medium of exchange.
 
 
-### [150. Yet Another Case For Bitcoin Maximalism: Will BTC replace USD?](https://hackernoon.com/yet-another-case-for-bitcoin-maximalism-will-btc-replace-usd-ze2e3wik)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkHmjlBgSzubv4ecXBQJFooO88AF2-un5p3tx8.jpeg?alt=media&token=41294a9e-627c-4638-a87a-09f5b2198a97)
-Bitcoin vs. Dollar (USA), which one will become a global currency in the near future? Over half of the world’s population is aged under 35 and live in emerging markets, where national currencies are considered to be inferior to USD. 
-
-### [151. Stop Thinking Bitcoin Is a Way of Life, It's Our Best Option for Living Life on Our Own Terms](https://hackernoon.com/stop-thinking-bitcoin-is-a-way-of-life-its-our-best-option-for-living-life-on-our-own-terms)
+### [149. Stop Thinking Bitcoin Is a Way of Life, It's Our Best Option for Living Life on Our Own Terms](https://hackernoon.com/stop-thinking-bitcoin-is-a-way-of-life-its-our-best-option-for-living-life-on-our-own-terms)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6b93mf0.jpeg)
 I'm a Bitcoiner, and I'm convinced of the future success of the Bitcoin revolution, even if certain things worry me about the future of Bitcoin.
+
+### [150. The Case for Hibernation: Has Bitcoin Taken us to the Latest Crypto Winter?](https://hackernoon.com/the-case-for-hibernation-has-bitcoin-taken-us-to-the-latest-crypto-winter)
+![](https://cdn.hackernoon.com/images/8DePMddrVoa1WIeSvJVx4NvSyAf1-rl93i37.jpeg)
+Is Bitcoin set to hibernate between halving events? Or will adoption levels help to improve the cryptocurrency's outlook? 
+
+### [151. Yet Another Case For Bitcoin Maximalism: Will BTC replace USD?](https://hackernoon.com/yet-another-case-for-bitcoin-maximalism-will-btc-replace-usd-ze2e3wik)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkHmjlBgSzubv4ecXBQJFooO88AF2-un5p3tx8.jpeg?alt=media&token=41294a9e-627c-4638-a87a-09f5b2198a97)
+Bitcoin vs. Dollar (USA), which one will become a global currency in the near future? Over half of the world’s population is aged under 35 and live in emerging markets, where national currencies are considered to be inferior to USD. 
 
 ### [152. Bitcoin is Less Risky at $35,000 Than at $65,000](https://hackernoon.com/bitcoin-is-less-risky-at-dollar35000-than-at-dollar65000-tik35ar)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-wlc438b0.jpeg)
@@ -654,14 +656,14 @@ Over the past week, Dogecoin (DOGE) was up 20%, compared to a 3% jump in Bitcoin
 ![](https://cdn.hackernoon.com/images/bitcoin-u9gtreby03b3jfsbap5zbpry.png)
 Don't trust Jim Cramer, Verify.
 
-### [157. The Coin That Lived:
+### [157. Flight to Quality in Crypto Explained](https://hackernoon.com/flight-to-quality-in-crypto-explained)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-070331l.webp)
+Right now, we can witness the flight to quality in crypto markets. What should investors do when the flight to quality begins? 
+
+### [158. The Coin That Lived:
 Do We Still Have What Satoshi Wanted for Bitcoin?](https://hackernoon.com/the-coin-that-lived-do-we-still-have-what-satoshi-wanted-for-bitcoin)
 ![](https://cdn.hackernoon.com/images/a-coin-with-a-beard-udj5dmpofzc55ulojsx3gtm7.png)
 Bitcoin challenged Wall Street giants 15 years after Satoshi Nakamoto's whitepaper. But with the rising ETF interest, are we still following Satoshi's vision?
-
-### [158. Flight to Quality in Crypto Explained](https://hackernoon.com/flight-to-quality-in-crypto-explained)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-070331l.webp)
-Right now, we can witness the flight to quality in crypto markets. What should investors do when the flight to quality begins? 
 
 ### [159. BRC721: Unlocking the True Power of NFTs With the Security of Bitcoin](https://hackernoon.com/brc721-unlocking-the-true-power-of-nfts-with-the-security-of-bitcoin)
 ![](https://cdn.hackernoon.com/images/XKAipNGdJXT7wnHSAeRwjDYPCNP2-rcc2o4i.jpeg)
@@ -679,21 +681,21 @@ Since its creation, people have searched for a "use case" for Bitcoin. I just ma
 ![](https://cdn.hackernoon.com/drafts/iabf3297.png)
 Dieser Artikel dient als Auftakt zu Bitcoin und anderen Kryptowährungen über Hackernoon. Das Ziel ist es so viele Menschen wie möglich mit wichtigen Informationen rund um Bitcoin und Co. zu versorgen und sie zum Nachdenken zu bringen.
 
-### [163. Should Crypto-Prices Converge If One Exchange Has Positive Funding Rate While Another Has Negative?](https://hackernoon.com/should-crypto-prices-converge-if-one-exchange-has-positive-funding-rate-while-another-has-negative-zx4p3x3x)
+### [163. Moving Beyond 'Bitcoin, Not Crypto'](https://hackernoon.com/moving-beyond-bitcoin-not-crypto)
+![](https://cdn.hackernoon.com/images/0xgxm0rlq5Pn6VKRpdJqG5IU7w03-3r836yc.jpeg)
+"Bitcoin, not Crypto" not only stifles the growth and understanding of Bitcoin but also alienates potential enthusiasts and innovators in the broader crypto spa
+
+### [164. Should Crypto-Prices Converge If One Exchange Has Positive Funding Rate While Another Has Negative?](https://hackernoon.com/should-crypto-prices-converge-if-one-exchange-has-positive-funding-rate-while-another-has-negative-zx4p3x3x)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-j73p3x4n.jpeg?alt=media&token=eca55165-6f6e-4756-a3dd-253b732e2e58)
 I was revisiting the theory behind Deribit/Bitmex/Bybit ETH/BTC funding rate arbitrager. Given the theory behind funding rates, if one exchange has a negative rate while another has positive it should mean that the prices converge.
-
-### [164. The 5 "S": How They Makes Up The Virtuous Circle of Mass Adoption of Bitcoin](https://hackernoon.com/the-5-s-how-they-makes-up-the-virtuous-circle-of-mass-adoption-of-bitcoin)
-![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-ud039u7.jpeg)
-No to unbridled pseudo-adoption that would see Wall Street take control. Yes to mass adoption one individual at a time.
 
 ### [165. The HackerNoon Newsletter: Why SaaS Pricing Pages Fail  (9/14/2025)](https://hackernoon.com/9-14-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_580_nno5nl8obtw4vwluw0dagb4f.png)
 9/14/2025: Top 5 stories on the HackerNoon homepage!
 
-### [166. Moving Beyond 'Bitcoin, Not Crypto'](https://hackernoon.com/moving-beyond-bitcoin-not-crypto)
-![](https://cdn.hackernoon.com/images/0xgxm0rlq5Pn6VKRpdJqG5IU7w03-3r836yc.jpeg)
-"Bitcoin, not Crypto" not only stifles the growth and understanding of Bitcoin but also alienates potential enthusiasts and innovators in the broader crypto spa
+### [166. The 5 "S": How They Makes Up The Virtuous Circle of Mass Adoption of Bitcoin](https://hackernoon.com/the-5-s-how-they-makes-up-the-virtuous-circle-of-mass-adoption-of-bitcoin)
+![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-ud039u7.jpeg)
+No to unbridled pseudo-adoption that would see Wall Street take control. Yes to mass adoption one individual at a time.
 
 ### [167. What to Expect from Crypto in 2022?](https://hackernoon.com/what-to-expect-from-crypto-in-2022)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-xw03b4q.jpeg)
@@ -703,37 +705,37 @@ Hardly anyone can disagree with the fact that 2021 was quite a year for the cryp
 ![](https://images.unsplash.com/photo-1536799097017-5b57f1a7e56e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 I read academic papers about blockchain for a living. Some of them are groundbreaking, others are pure garbage, but one paper, written by Yong Ming Kow and Caitlin Lustig, appeared to be hard to forget - I am still not sure to which bucket it belongs. 
 
-### [169. What Makes Bitcoin so Groundbreaking and How to Take it Forward ](https://hackernoon.com/the-bitcoin-revolution-what-makes-it-so-different-and-groundbreaking-vfk3xir)
-![](https://cdn.hackernoon.com/images/yv4kb3xs0.jpg)
-Darwin's law of natural selection, commonly known as the survival of the fittest, defines it as the "principle by which each slight variation [of a trait], if useful, is preserved”. 
-
-### [170. The HackerNoon Newsletter: Cypherpunks Write Code: Zooko Wilcox  Zcash (9/21/2025)](https://hackernoon.com/9-21-2025-newsletter)
+### [169. The HackerNoon Newsletter: Cypherpunks Write Code: Zooko Wilcox  Zcash (9/21/2025)](https://hackernoon.com/9-21-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_787_asc376vcrwh09t20ykx6qxm1.png)
 9/21/2025: Top 5 stories on the HackerNoon homepage!
+
+### [170. What Makes Bitcoin so Groundbreaking and How to Take it Forward ](https://hackernoon.com/the-bitcoin-revolution-what-makes-it-so-different-and-groundbreaking-vfk3xir)
+![](https://cdn.hackernoon.com/images/yv4kb3xs0.jpg)
+Darwin's law of natural selection, commonly known as the survival of the fittest, defines it as the "principle by which each slight variation [of a trait], if useful, is preserved”. 
 
 ### [171. Who Will Be The Victors of The Bitcoin Halving Event?](https://hackernoon.com/who-will-be-the-victors-of-the-bitcoin-halving-event-bkcp32bx)
 ![](https://cdn.hackernoon.com/drafts/il8p32lo.png)
 Bitcoin’s halving is just around the corner. It is estimated to take place on May 12th, 2020, and it will slash the reward miners get from 12.5 BTC to 6.25 BTC. Currently, the network produces 1,800 BTC every day, and this is about to be reduced to 900 BTC.
 
-### [172. Stop Saying "Buy Bitcoin" - Say "Own Bitcoin" Instead](https://hackernoon.com/stop-saying-buy-bitcoin-say-own-bitcoin-instead)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o892g0g.jpeg)
-"Study Bitcoin" is also an excellent message.
-
-### [173. Cryptocurrency is Not the Paradigm Shift You’re Thinking About](https://hackernoon.com/cryptocurrency-is-not-the-paradigm-shift-youre-thinking-about)
+### [172. Cryptocurrency is Not the Paradigm Shift You’re Thinking About](https://hackernoon.com/cryptocurrency-is-not-the-paradigm-shift-youre-thinking-about)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-kw839kh.jpeg)
 To see the true value of cryptocurrency, think smaller
+
+### [173. Stop Saying "Buy Bitcoin" - Say "Own Bitcoin" Instead](https://hackernoon.com/stop-saying-buy-bitcoin-say-own-bitcoin-instead)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o892g0g.jpeg)
+"Study Bitcoin" is also an excellent message.
 
 ### [174. Faced With the Demagoguery of Politicians Everywhere in the World, Bitcoin Is Your Best Bulwark](https://hackernoon.com/faced-with-the-demagoguery-of-politicians-everywhere-in-the-world-bitcoin-is-your-best-bulwark)
 ![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-2d839q6.jpeg)
 More than ever, the world needs a monetary system with decentralized, rigorous and serious governance, free from the risk of manipulation and scheming.
 
-### [175. About That Massive Bitcoin Bull Flag](https://hackernoon.com/about-that-massive-bitcoin-bull-flag)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-er33hf6.jpeg)
-One killer bullish trading pattern. Let's hope it plays out differently than last time!
-
-### [176. Ethereum-Powered BTCX Token Secures $1.5M to Pave the Way for Bitcoin Xin Blockchain](https://hackernoon.com/ethereum-powered-btcx-token-secures-$15m-to-pave-the-way-for-bitcoin-xin-blockchain)
+### [175. Ethereum-Powered BTCX Token Secures $1.5M to Pave the Way for Bitcoin Xin Blockchain](https://hackernoon.com/ethereum-powered-btcx-token-secures-$15m-to-pave-the-way-for-bitcoin-xin-blockchain)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-k693rmn.jpeg)
 BTCX Token has secured $1.5 million in pre-seed and seed funding to address the inefficiencies in the cryptocurrency market. 
+
+### [176. About That Massive Bitcoin Bull Flag](https://hackernoon.com/about-that-massive-bitcoin-bull-flag)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-er33hf6.jpeg)
+One killer bullish trading pattern. Let's hope it plays out differently than last time!
 
 ### [177. Get Ready for Bitcoin’s Melt-Up and Altseason](https://hackernoon.com/get-ready-for-bitcoins-melt-up-and-altseason)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-e503a5h.jpeg)

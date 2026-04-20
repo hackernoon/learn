@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [nextjs](https://hackernoon.com/tagged/nextjs)
+### Let's learn about [Nextjs](https://hackernoon.com/tagged/nextjs) via these 211 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Next.js is a flexible React framework that gives you building blocks to create fast web applications. It's used on internet pages like this one :-) 
 
 ### [1. Create React App is Dead! Here are Some Alternatives](https://hackernoon.com/create-react-app-is-dead-here-are-some-alternatives)
@@ -228,29 +230,29 @@ Authentication is a way for applications to confirm user identity before grantin
 ![](https://cdn.hackernoon.com/images/zEt3iwq2jkXsfmxS274Xbr9grdk1-7893q3v.jpeg)
 Learn about software architecture styles and structure partitioning, their implementation, use cases, and a practical TODO example system.
 
-### [57. Creating a Todo App with NextJs & Firebase](https://hackernoon.com/creating-a-todo-app-with-nextjs-and-firebase)
-![](https://cdn.hackernoon.com/images/YlcWytkfRIY64lSLBbuvErBdoUg2-4bo3i86.jpeg)
-Hey devs, welcome to this tutorial; we will build a real-time Todo App with React, NextJs + Firebase.
-
-### [58. Top 15 React Interview Questions & Answers You Need To Know in 2022](https://hackernoon.com/top-15-react-interview-questions-and-answers-you-need-to-know-in-2022)
-![](https://cdn.hackernoon.com/images/7DtulTMuZUNhuHGe0I2LlQhRAdu1-wl93pht.jpeg)
-In this article, we'll go over some of the most common React interview questions and how to answer them.
-
-### [59. Docker Image Optimization - Lean Docker Images for Next.JS](https://hackernoon.com/docker-image-optimization-lean-docker-images-for-nextjs)
-![](https://cdn.hackernoon.com/images/XyqHIwK0xDMOGdIf5iTNW4CrLjb2-usi35my.png)
-Using multi-stage builds to optimize production Docker image for faster deployment.
-
-### [60. How to Use mdx-bundler with Next.js](https://hackernoon.com/how-to-use-mdx-bundler-with-nextjs)
-![](https://cdn.hackernoon.com/images/RI9jFuqpWRXnfpvi7ZpuNpNYoNg2-e103b5g.png)
-A short post on how to get started with mdx-bundler in Next.js
-
-### [61. How To Create A User Portal On Airtable With Sync Inc And React](https://hackernoon.com/how-to-create-a-user-portal-on-airtable-with-sync-inc-and-react-nd1c35h9)
+### [57. How To Create A User Portal On Airtable With Sync Inc And React](https://hackernoon.com/how-to-create-a-user-portal-on-airtable-with-sync-inc-and-react-nd1c35h9)
 ![](https://cdn.hackernoon.com/images/nUXzVZ9txdgpJy0AIouC9R4THH13-5w9r327s.png)
 In this tutorial, you’ll see how to build a scalable, secure, and flexible client portal on Airtable using Sync Inc, Cotter, and Next.js.
 
-### [62. Integrating Stripe Checkout with Next.js Is Easier Than You Think](https://hackernoon.com/integrating-stripe-checkout-with-nextjs-is-easier-than-you-think)
+### [58. Creating a Todo App with NextJs & Firebase](https://hackernoon.com/creating-a-todo-app-with-nextjs-and-firebase)
+![](https://cdn.hackernoon.com/images/YlcWytkfRIY64lSLBbuvErBdoUg2-4bo3i86.jpeg)
+Hey devs, welcome to this tutorial; we will build a real-time Todo App with React, NextJs + Firebase.
+
+### [59. Top 15 React Interview Questions & Answers You Need To Know in 2022](https://hackernoon.com/top-15-react-interview-questions-and-answers-you-need-to-know-in-2022)
+![](https://cdn.hackernoon.com/images/7DtulTMuZUNhuHGe0I2LlQhRAdu1-wl93pht.jpeg)
+In this article, we'll go over some of the most common React interview questions and how to answer them.
+
+### [60. Docker Image Optimization - Lean Docker Images for Next.JS](https://hackernoon.com/docker-image-optimization-lean-docker-images-for-nextjs)
+![](https://cdn.hackernoon.com/images/XyqHIwK0xDMOGdIf5iTNW4CrLjb2-usi35my.png)
+Using multi-stage builds to optimize production Docker image for faster deployment.
+
+### [61. Integrating Stripe Checkout with Next.js Is Easier Than You Think](https://hackernoon.com/integrating-stripe-checkout-with-nextjs-is-easier-than-you-think)
 ![](https://cdn.hackernoon.com/images/lmcwhIPXHyPIgqoOoDrA9xd8umf1-1z033d4.webp)
 Learn how to seamlessly integrate Stripe Checkout with Next.js in this step-by-step guide. Set up a sandbox environment, get your API keys, and start accepting 
+
+### [62. How to Use mdx-bundler with Next.js](https://hackernoon.com/how-to-use-mdx-bundler-with-nextjs)
+![](https://cdn.hackernoon.com/images/RI9jFuqpWRXnfpvi7ZpuNpNYoNg2-e103b5g.png)
+A short post on how to get started with mdx-bundler in Next.js
 
 ### [63. Resolving the FOUC Issue in Next.js App Routes](https://hackernoon.com/resolving-the-fouc-issue-in-nextjs-app-routes)
 ![](https://cdn.hackernoon.com/images/P2cZnKavUpaBLHV8hgggzZsi0TH2-5w830z8.jpeg)
@@ -268,13 +270,13 @@ NextJS is becoming a de facto framework for modern web development. In this arti
 ![](https://cdn.hackernoon.com/images/Pag22dDowMftWpOYNEh2VnQtjy63-w392rau.jpeg)
 Connecting Your Decentralized Application (Dapp) with a Backend: A Step-by-Step Guide.
 
-### [67. Choosing Between React, Gatsby, Next.js For Your Frontend](https://hackernoon.com/choosing-between-react-gatsby-nextjs-for-your-frontend)
-![](https://cdn.hackernoon.com/images/ZHAz9wv9l3eZzNLiVyAUACoJBo03-ja930rz.jpeg)
- React, Gatsby, Next.js. Which of the three should you choose for your frontend web development and what should you understand before you make the decision?
-
-### [68. Dev without Ops - Why we are building The Vercel for Backend](https://hackernoon.com/dev-without-ops-why-we-are-building-the-vercel-for-backend)
+### [67. Dev without Ops - Why we are building The Vercel for Backend](https://hackernoon.com/dev-without-ops-why-we-are-building-the-vercel-for-backend)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-6p93zg1.jpeg)
  It was a great feeling to see my first website live on the internet. 
+
+### [68. Choosing Between React, Gatsby, Next.js For Your Frontend](https://hackernoon.com/choosing-between-react-gatsby-nextjs-for-your-frontend)
+![](https://cdn.hackernoon.com/images/ZHAz9wv9l3eZzNLiVyAUACoJBo03-ja930rz.jpeg)
+ React, Gatsby, Next.js. Which of the three should you choose for your frontend web development and what should you understand before you make the decision?
 
 ### [69. The New Next.js and SWR Clients: What You Need to Know](https://hackernoon.com/the-new-nextjs-and-swr-clients-what-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-yf93os5.jpeg)
@@ -300,25 +302,25 @@ Welcome to code, where the metrics are made up and the points don’t matter. I�
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-0l134uq.png)
 This tutorial series will guide you in creating a decentralized application that leverages Sia's blockchain to ensure user data ownership and privacy.
 
-### [75. How to Build a Web3 Play-To-Earn Platform with Next.js, Typescript, and Solidity](https://hackernoon.com/how-to-build-a-web3-play-to-earn-platform-with-nextjs-typescript-and-solidity)
-![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-0b83wrh.jpeg)
-This course will guide learners through the process of creating a full-stack Blockchain-Based Play-to-Earn dApp including the use of ERC20 tokens.
-
-### [76. 50+ GitHub Repositories Every Front-End Developer Needs](https://hackernoon.com/50-github-repositories-every-front-end-developer-needs)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-aj93qau.jpeg)
-50+ Github Repositories Every Front-end Developer Needs
-
-### [77. Let's Build a Real-Time Collaborative Document Editor Using My Web App Framework of Choice](https://hackernoon.com/lets-build-a-real-time-collaborative-document-editor-using-my-web-app-framework-of-choice)
+### [75. Let's Build a Real-Time Collaborative Document Editor Using My Web App Framework of Choice](https://hackernoon.com/lets-build-a-real-time-collaborative-document-editor-using-my-web-app-framework-of-choice)
 ![](https://cdn.hackernoon.com/images/Z7fkxfDpjOT4JTLVKWPSiyFHz1j1-ql82n5e.png)
 Learn how to build a secure, real-time collaborative document editor with Next.js, Appwrite, Liveblocks, and Permit.io using ReBAC.
 
-### [78. The 9 Mistakes JavaScript Developers Make the Most](https://hackernoon.com/the-9-mistakes-javascript-developers-make-the-most)
-![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-4f93sgn.jpeg)
-In this article, we'll take a look at some of the most common JavaScript mistakes and how to avoid them.
+### [76. How to Build a Web3 Play-To-Earn Platform with Next.js, Typescript, and Solidity](https://hackernoon.com/how-to-build-a-web3-play-to-earn-platform-with-nextjs-typescript-and-solidity)
+![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-0b83wrh.jpeg)
+This course will guide learners through the process of creating a full-stack Blockchain-Based Play-to-Earn dApp including the use of ERC20 tokens.
 
-### [79. Building Dynamic Websites With AI-Generated Content Automation](https://hackernoon.com/building-dynamic-websites-with-ai-generated-content-automation)
+### [77. Building Dynamic Websites With AI-Generated Content Automation](https://hackernoon.com/building-dynamic-websites-with-ai-generated-content-automation)
 ![](https://cdn.hackernoon.com/images/humanoid-robot-browsing-the-internet-tsikq3f48qf4j6lxir5kfvxr.png)
 Come on a journey with me as I create a self-generating news app, powered by automated AI-generated content. 
+
+### [78. 50+ GitHub Repositories Every Front-End Developer Needs](https://hackernoon.com/50-github-repositories-every-front-end-developer-needs)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-aj93qau.jpeg)
+50+ Github Repositories Every Front-end Developer Needs
+
+### [79. The 9 Mistakes JavaScript Developers Make the Most](https://hackernoon.com/the-9-mistakes-javascript-developers-make-the-most)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-4f93sgn.jpeg)
+In this article, we'll take a look at some of the most common JavaScript mistakes and how to avoid them.
 
 ### [80. Secure Your Next.js Apps with Jscrambler](https://hackernoon.com/secure-your-nextjs-apps-with-jscrambler)
 ![](https://cdn.hackernoon.com/images/1JNoLAkx1ZO5O8qO5dcdNjh6RQw1-wd1372g.jpeg)
@@ -360,13 +362,13 @@ Learn how to set up NextJS 13 with Auth0 for a web multi-tenancy app using sub-d
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-l00382d.png)
 JavaScript in 2025 is more powerful, expressive, and efficient than ever.
 
-### [90. Build a Decentralized Voting Dapp with Next.js, TypeScript, Tailwind CSS, and CometChat](https://hackernoon.com/build-a-decentralized-voting-dapp-with-nextjs-typescript-tailwind-css-and-cometchat)
-![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-o193o7o.jpeg)
-In this guide, we will teach you how to build your own decentralized voting dapp using Next.js, TypeScript, Tailwind CSS, and CometChat. 
-
-### [91. How to Create Apple Music's Background Blur Effect Using Blurhash](https://hackernoon.com/how-to-create-apple-musics-background-blur-effect-using-blurhash)
+### [90. How to Create Apple Music's Background Blur Effect Using Blurhash](https://hackernoon.com/how-to-create-apple-musics-background-blur-effect-using-blurhash)
 ![](https://cdn.hackernoon.com/images/RI9jFuqpWRXnfpvi7ZpuNpNYoNg2-jk93pgr.jpeg)
 n this blog post, we'll learn how to create apple music's background blur effect using blurhash.
+
+### [91. Build a Decentralized Voting Dapp with Next.js, TypeScript, Tailwind CSS, and CometChat](https://hackernoon.com/build-a-decentralized-voting-dapp-with-nextjs-typescript-tailwind-css-and-cometchat)
+![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-o193o7o.jpeg)
+In this guide, we will teach you how to build your own decentralized voting dapp using Next.js, TypeScript, Tailwind CSS, and CometChat. 
 
 ### [92. How To Score A Perfect 100 Google Lighthouse Score in Chrome Dev Tools](https://hackernoon.com/how-to-score-a-perfect-100-google-lighthouse-score-in-chrome-dev-tools-8v4833dx)
 ![](https://cdn.hackernoon.com/images/m1JWnUaHzSX3LPHoHfOainoiYvq2-9g3z3f0t.jpeg)
@@ -376,29 +378,29 @@ This is How I Built My Portfolio Site and personal blog using React and NextJS, 
 ![](https://cdn.hackernoon.com/drafts/behd32uw.png)
 You can build an enterprise-grade app with low-level knowledge thanks to the myriad of robust services covering every aspect of a web product’s needs. In this article, I explore how I built an app over a couple of weekends in lockdown with not a lot of work.
 
-### [94. How I Built a Warehouse Management App Called Cardus](https://hackernoon.com/how-i-built-a-warehouse-management-app-called-cardus)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-g092g2h.jpeg)
-A web app that allows users to create and manage their warehouse of items.
-
-### [95. Tutorial For Supabase And Next.js Fans On How To Build A Slack Clone](https://hackernoon.com/tutorial-for-supabase-and-nextjs-fans-on-how-to-build-a-slack-clone-0s1533i7)
-![](https://cdn.hackernoon.com/images/1YXFIyZr1ESaAbiPktwpv7ignz73-ky32337p.png)
-Creating a Slack clone with Supabase and Next.js
-
-### [96. How I Made Next.js and PWA Finally Get Along — With next-pwa-pack](https://hackernoon.com/how-i-made-nextjs-and-pwa-finally-get-along-with-next-pwa-pack)
+### [94. How I Made Next.js and PWA Finally Get Along — With next-pwa-pack](https://hackernoon.com/how-i-made-nextjs-and-pwa-finally-get-along-with-next-pwa-pack)
 ![](https://cdn.hackernoon.com/images/FPQfbJY2fYbkpykIFnuaI2Xsd9v2-1s038ae.jpeg)
 A deep dive into building next-pwa-pack, a zero-config PWA toolkit for Next.js 15 with App Router, SSR, cache sync, and server revalidation.
 
-### [97. 5 reasons to consider Next.js for your next projects](https://hackernoon.com/5-reasons-to-consider-nextjs-for-your-next-projects)
+### [95. How I Built a Warehouse Management App Called Cardus](https://hackernoon.com/how-i-built-a-warehouse-management-app-called-cardus)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-g092g2h.jpeg)
+A web app that allows users to create and manage their warehouse of items.
+
+### [96. 5 reasons to consider Next.js for your next projects](https://hackernoon.com/5-reasons-to-consider-nextjs-for-your-next-projects)
 ![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-ugc3zlc.jpeg)
 Next.js is a framework built on React that gives frontend developers the flexibility of creating modern and scalable apps
 
-### [98. Redesigning Apps Using Ruby On Rails: The Risks and The Risk-Free Approaches](https://hackernoon.com/redesigning-apps-using-ruby-on-rails-the-risks-and-the-risk-free-approaches)
-![](https://cdn.hackernoon.com/images/e7vUCyotkOXpBplDkvlwf6Ksoik2-fu83x0k.jpeg)
-Learn how to apply the new design to a Ruby on Rails app without risks to your business and do that cheaper.
+### [97. Tutorial For Supabase And Next.js Fans On How To Build A Slack Clone](https://hackernoon.com/tutorial-for-supabase-and-nextjs-fans-on-how-to-build-a-slack-clone-0s1533i7)
+![](https://cdn.hackernoon.com/images/1YXFIyZr1ESaAbiPktwpv7ignz73-ky32337p.png)
+Creating a Slack clone with Supabase and Next.js
 
-### [99. Nextjs User Login Authentication in 5 Simple Steps Using Auth0](https://hackernoon.com/nextjs-user-login-authentication-in-5-simple-steps-using-auth0)
+### [98. Nextjs User Login Authentication in 5 Simple Steps Using Auth0](https://hackernoon.com/nextjs-user-login-authentication-in-5-simple-steps-using-auth0)
 ![](https://cdn.hackernoon.com/images/Y0kXG115Z7VorP4rguIGxwn3FoD3-4x93mqt.jpeg)
 In this post we are going to discuss, how you can set up a user Login authentication using Auth0 in Next.js projects.
+
+### [99. Redesigning Apps Using Ruby On Rails: The Risks and The Risk-Free Approaches](https://hackernoon.com/redesigning-apps-using-ruby-on-rails-the-risks-and-the-risk-free-approaches)
+![](https://cdn.hackernoon.com/images/e7vUCyotkOXpBplDkvlwf6Ksoik2-fu83x0k.jpeg)
+Learn how to apply the new design to a Ruby on Rails app without risks to your business and do that cheaper.
 
 ### [100. The 7 Best React Component Libraries for 2022](https://hackernoon.com/the-7-best-react-component-libraries-for-2022)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-tu93slj.jpeg)
@@ -408,13 +410,13 @@ In this article, I will be sharing with you 7 awesome React UI libraries that yo
 ![](https://cdn.hackernoon.com/images/Y0kXG115Z7VorP4rguIGxwn3FoD3-gh93mx7.jpeg)
 In this project, we are going to build GitHub user Search App using Github API. We will design the UI of the app using Tailwind CSS with Next.js as a framework.
 
-### [102. These Full-stack Projects Are a Must for Your 2020 Portfolio 🤯](https://hackernoon.com/these-full-stack-projects-are-a-must-for-your-2020-portfolio-efq3tk7)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-6ci3tty.jpeg?alt=media&token=a0e6e2fb-0c2e-461b-89ed-93f29011e33f)
-Procrastination, we've all dealed with it. But today because of this blog post you will find five full-stack projects you can add to your portfolio before the end of 2020!
-
-### [103. Sending an Invoice and Adding a Payment Reminder in Next.js with Courier API](https://hackernoon.com/sending-an-invoice-and-adding-a-payment-reminder-in-nextjs-with-courier-api)
+### [102. Sending an Invoice and Adding a Payment Reminder in Next.js with Courier API](https://hackernoon.com/sending-an-invoice-and-adding-a-payment-reminder-in-nextjs-with-courier-api)
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-xe93p4y.png)
 How to send invoices and add a payment reminder in Next.js with Courier API. Utilizes React and JavaScript to build services in Node.JS.
+
+### [103. These Full-stack Projects Are a Must for Your 2020 Portfolio 🤯](https://hackernoon.com/these-full-stack-projects-are-a-must-for-your-2020-portfolio-efq3tk7)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-6ci3tty.jpeg?alt=media&token=a0e6e2fb-0c2e-461b-89ed-93f29011e33f)
+Procrastination, we've all dealed with it. But today because of this blog post you will find five full-stack projects you can add to your portfolio before the end of 2020!
 
 ### [104. How We Store User Prefs in Local Storage Using Hooks in Next.js](https://hackernoon.com/how-we-store-user-prefs-in-local-storage-using-hooks-in-nextjs)
 ![](https://cdn.hackernoon.com/images/zsZQillaVuRrxOen4BCovmbZCFD2-cd83rz9.jpeg)
@@ -448,25 +450,25 @@ Where is front-end development heading in 2021? Jay Freestone examines trends an
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-t0i3pmj.jpeg)
 How to Build a GraphQL eCommerce App from Scratch
 
-### [112. Docker for Beginners: Containerizing a Nextjs Application](https://hackernoon.com/docker-for-beginners-containerizing-a-nextjs-application)
-![](https://cdn.hackernoon.com/images/an-app-in-a-container-ohlaicqewia3lyxs801gpxta.png)
-Containerization in it's entirety is an incredibly useful concept. From being able to execute applications in isolation, to being able to port them easily..
-
-### [113. React’s New Server Components Might Be the Death of Bloated Web Apps](https://hackernoon.com/reacts-new-server-components-might-be-the-death-of-bloated-web-apps)
+### [112. React’s New Server Components Might Be the Death of Bloated Web Apps](https://hackernoon.com/reacts-new-server-components-might-be-the-death-of-bloated-web-apps)
 ![](https://cdn.hackernoon.com/images/LsbXkPFja4RyoolNaf9RTJVXHUH2-bk1388q.jpeg)
 A senior-level deep dive into how React Server Components (RSC), SSR, and CSR work together in Next.js 15 — and why server-first rendering is the future.
 
-### [114. Build a Production Ready Restaurant Website with Next.js 12 and Cosmic](https://hackernoon.com/build-a-production-ready-restaurant-website-with-nextjs-12-and-cosmic)
+### [113. Docker for Beginners: Containerizing a Nextjs Application](https://hackernoon.com/docker-for-beginners-containerizing-a-nextjs-application)
+![](https://cdn.hackernoon.com/images/an-app-in-a-container-ohlaicqewia3lyxs801gpxta.png)
+Containerization in it's entirety is an incredibly useful concept. From being able to execute applications in isolation, to being able to port them easily..
+
+### [114. This Open Source Tool Can Spin Up Entire Websites from a Single Prompt](https://hackernoon.com/this-open-source-tool-can-spin-up-entire-websites-from-a-single-prompt)
+![](https://cdn.hackernoon.com/images/FQKsrPUzFMMjzRsg6QHgjdyWIBu1-ad03a1u.png)
+Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.
+
+### [115. Build a Production Ready Restaurant Website with Next.js 12 and Cosmic](https://hackernoon.com/build-a-production-ready-restaurant-website-with-nextjs-12-and-cosmic)
 ![](https://cdn.hackernoon.com/images/Jxe9yCMk4BW1cZd1hs3AlUhayZv1-z793lsi.jpeg)
 How you can use Next.js and Cosmic to create special web pages such as restaurant websites that include restaurant menus that have many images and animations.
 
-### [115. Next vs Gatsby: Comparing Their Approach to Handling Data](https://hackernoon.com/next-vs-gatsby-comparing-their-approach-to-handling-data)
+### [116. Next vs Gatsby: Comparing Their Approach to Handling Data](https://hackernoon.com/next-vs-gatsby-comparing-their-approach-to-handling-data)
 ![](https://cdn.hackernoon.com/images/yMhOXE38QnavAe9BHk5004IUrLn1-ne93vex.jpeg)
 Next.js and Gatsby are modern front-end frameworks based on React.
-
-### [116. This Open Source Tool Can Spin Up Entire Websites from a Single Prompt](https://hackernoon.com/this-open-source-tool-can-spin-up-entire-websites-from-a-single-prompt)
-![](https://cdn.hackernoon.com/images/FQKsrPUzFMMjzRsg6QHgjdyWIBu1-ad03a1u.png)
-Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.
 
 ### [117. Automatic Image Optimization: Next.js 10 New Standards for 2020 ](https://hackernoon.com/automatic-image-optimization-nextjs-10-new-standards-for-2020-dc1h3zlf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXAzN6nKMBMW8TomIi1JTTlWalZD2-hx4i23m3.jpeg?alt=media&token=96a1d9fb-8ffe-40dc-aa7a-a3e5fb9d2feb)
@@ -480,25 +482,25 @@ A simple tutorial for beginners to create an object detector with NextJs.
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-fq02qfu.jpeg)
 You might occasionally see a 404 error in the console log when displaying a YouTube thumbnail. 
 
-### [120. TwNFT - Mint your tweets as NFTs easily and for free](https://hackernoon.com/twnft-mint-your-tweets-as-nfts-easily-and-for-free)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-1g93gzx.jpeg)
-In this post, I introduce TwNFT, an application that lets you mint your tweets as NFTs easily and for free and explain how it works and how I made it.
-
-### [121. How to add Video Call and Voice Call Functionality in a Full Stack Whatsapp Clone](https://hackernoon.com/how-to-add-video-call-and-voice-call-functionality-in-a-full-stack-whatsapp-clone)
-![](https://cdn.hackernoon.com/images/GPJ76xULl7geuFTrXbplNnbeQCf2-9x92x6i.jpeg)
-This blog post demonstrates how to integrate Zegocloud's services for Video Call and Voice Call functionality into a Full Stack WhatsApp Clone.
-
-### [122. Authentication in Web Apps: Connecting Auth0, ASP.NET Core and Nuxt.js](https://hackernoon.com/authentication-in-web-apps-connecting-auth0-aspnet-core-and-nuxtjs-tk1f31eh)
+### [120. Authentication in Web Apps: Connecting Auth0, ASP.NET Core and Nuxt.js](https://hackernoon.com/authentication-in-web-apps-connecting-auth0-aspnet-core-and-nuxtjs-tk1f31eh)
 ![](https://cdn.hackernoon.com/images/LFCaL0mBeyY8JHz0m6GDFp0v7go2-8a8n31p2.png)
 User authentication and authorization can be difficult and time consuming. Getting it wrong can also have disastrous consequences, such as malicious users accessing and stealing personal or sensitive information from your app.
 
-### [123. Configuring WordPress as Headless CMS using REST API with Nextjs](https://hackernoon.com/configuring-wordpress-as-headless-cms-using-rest-api-with-nextjs)
-![](https://cdn.hackernoon.com/images/AbbpFANM30Ztly5WkYIepuDO2Eg2-1v93n9m.jpeg)
-In today’s blog, we are going to see how we can configure WordPress as Headless CMS using REST API with Nextjs. 
+### [121. TwNFT - Mint your tweets as NFTs easily and for free](https://hackernoon.com/twnft-mint-your-tweets-as-nfts-easily-and-for-free)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-1g93gzx.jpeg)
+In this post, I introduce TwNFT, an application that lets you mint your tweets as NFTs easily and for free and explain how it works and how I made it.
 
-### [124. Build an AI Agent That Out-Researches Your Competitors](https://hackernoon.com/build-an-ai-agent-that-out-researches-your-competitors)
+### [122. How to add Video Call and Voice Call Functionality in a Full Stack Whatsapp Clone](https://hackernoon.com/how-to-add-video-call-and-voice-call-functionality-in-a-full-stack-whatsapp-clone)
+![](https://cdn.hackernoon.com/images/GPJ76xULl7geuFTrXbplNnbeQCf2-9x92x6i.jpeg)
+This blog post demonstrates how to integrate Zegocloud's services for Video Call and Voice Call functionality into a Full Stack WhatsApp Clone.
+
+### [123. Build an AI Agent That Out-Researches Your Competitors](https://hackernoon.com/build-an-ai-agent-that-out-researches-your-competitors)
 ![](https://cdn.hackernoon.com/images/FQKsrPUzFMMjzRsg6QHgjdyWIBu1-q7239uu.png)
 Build your own Perplexity-style deep research AI agent using Next.js 15, OpenAI & exa.ai. Complete architectural guide with production-ready TypeScript code.
+
+### [124. Configuring WordPress as Headless CMS using REST API with Nextjs](https://hackernoon.com/configuring-wordpress-as-headless-cms-using-rest-api-with-nextjs)
+![](https://cdn.hackernoon.com/images/AbbpFANM30Ztly5WkYIepuDO2Eg2-1v93n9m.jpeg)
+In today’s blog, we are going to see how we can configure WordPress as Headless CMS using REST API with Nextjs. 
 
 ### [125. What Makes Next.js so Good?](https://hackernoon.com/what-makes-nextjs-so-good)
 ![](https://cdn.hackernoon.com/images/0kymacDO55Vh1xdKhOVvdqBUy7G3-is92nbi.jpeg)
@@ -548,13 +550,13 @@ In this tutorial, we will build a custom email subscription app by integrating r
 ![](https://images.unsplash.com/photo-1489537235181-fc05daed5805?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Hacker Noon Product Update: Overview of What We Deployed in April 2020
 
-### [137. Using Webiny Headless CMS With Starter Kits for Gatsby, NextJS](https://hackernoon.com/using-webiny-headless-cms-with-starter-kits-for-gatsby-nextjs)
-![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-jo934v2.jpeg)
-You can spin up a Webiny instance on your own cloud infrastructure in minutes, and use one of our 1-click starters to get build a frontend quickly.
-
-### [138. Learn How Build a Progressive Web App in Minutes with Next.js](https://hackernoon.com/learn-how-build-a-progressive-web-app-in-minutes-with-nextjs)
+### [137. Learn How Build a Progressive Web App in Minutes with Next.js](https://hackernoon.com/learn-how-build-a-progressive-web-app-in-minutes-with-nextjs)
 ![](https://cdn.hackernoon.com/images/VmaTNcEmQ5SwZmi4bIfNbMkafYA2-iw037h6.png)
 Explore Next.js's new native PWA support to easily create powerful, app-like web experiences with offline caching, push notifications, and seamless updates.
+
+### [138. Using Webiny Headless CMS With Starter Kits for Gatsby, NextJS](https://hackernoon.com/using-webiny-headless-cms-with-starter-kits-for-gatsby-nextjs)
+![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-jo934v2.jpeg)
+You can spin up a Webiny instance on your own cloud infrastructure in minutes, and use one of our 1-click starters to get build a frontend quickly.
 
 ### [139. Why I Switched To Tailwind For Writing CSS](https://hackernoon.com/why-i-switched-to-tailwind-for-writing-css)
 ![](https://cdn.hackernoon.com/images/mXMYDDAHYlZYmKgLFUixTC24a2k1-pla3j1u.jpeg)
@@ -596,248 +598,256 @@ This guide will walk you through building a RAG application using NextJS, the Op
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9n82ohf.jpeg)
 Slack notifications are one of the easiest ways to get notified for smaller teams. 
 
-### [149. Using Next.js 13’s Bleeding-Edge Features for Data Fetching](https://hackernoon.com/using-nextjs-13s-bleeding-edge-features-for-data-fetching)
-![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-bpa3o5c.jpeg)
-The app directory, Streaming, Suspense, and hybrid Server and Client Components were demystified — with a little help from GraphQL + WunderGraph.
+### [149. The Axios Nightmare Is Over: Meet Axios-Fixed](https://hackernoon.com/the-axios-nightmare-is-over-meet-axios-fixed)
+![](https://cdn.hackernoon.com/images/axios-was-compromised-why-developers-are-moving-to-axios-fixed-overnight-s0a5ugjcwa38f02i4q8bk04e.png)
+Axios was compromised in a major supply chain attack affecting 100M+ installs. Learn what happened and how to migrate safely to axios-fixed in minutes.
 
-### [150. Our Communication No Longer Belongs to Us](https://hackernoon.com/our-communication-no-longer-belongs-to-us)
-![](https://cdn.hackernoon.com/images/FQKsrPUzFMMjzRsg6QHgjdyWIBu1-9a1391k.png)
-AI could help you create your own private contact room on WhatsApp 1.0. 
-
-### [151. Implementing Secure Role-Based Access Control (RBAC) in a Next.js Application Using Permit.io](https://hackernoon.com/implementing-secure-role-based-access-control-rbac-in-a-nextjs-application-using-permitio)
+### [150. Implementing Secure Role-Based Access Control (RBAC) in a Next.js Application Using Permit.io](https://hackernoon.com/implementing-secure-role-based-access-control-rbac-in-a-nextjs-application-using-permitio)
 ![](https://cdn.hackernoon.com/images/Z7fkxfDpjOT4JTLVKWPSiyFHz1j1-5302q3g.png)
 Learn how to implement secure, scalable Role-Based Access Control (RBAC) in a Next.js app with Permit.io, managing user permissions and enhancing app security.
 
-### [152. Next.js Authentication Made Easy with Firebase](https://hackernoon.com/nextjs-authentication-made-easy-with-firebase)
+### [151. Using Next.js 13’s Bleeding-Edge Features for Data Fetching](https://hackernoon.com/using-nextjs-13s-bleeding-edge-features-for-data-fetching)
+![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-bpa3o5c.jpeg)
+The app directory, Streaming, Suspense, and hybrid Server and Client Components were demystified — with a little help from GraphQL + WunderGraph.
+
+### [152. Our Communication No Longer Belongs to Us](https://hackernoon.com/our-communication-no-longer-belongs-to-us)
+![](https://cdn.hackernoon.com/images/FQKsrPUzFMMjzRsg6QHgjdyWIBu1-9a1391k.png)
+AI could help you create your own private contact room on WhatsApp 1.0. 
+
+### [153. Next.js Authentication Made Easy with Firebase](https://hackernoon.com/nextjs-authentication-made-easy-with-firebase)
 ![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-cd823ft.jpeg)
 
 Set up secure authentication in your Next.js app with Firebase. Follow this step-by-step guide to quickly integrate Google and Email/Password sign-in methods.
 
-### [153. Building a Production Grade Testnet Faucet With Typescript, Redis and Nextjs](https://hackernoon.com/building-a-production-grade-testnet-faucet-with-typescript-redis-and-nextjs)
+### [154. Building a Production Grade Testnet Faucet With Typescript, Redis and Nextjs](https://hackernoon.com/building-a-production-grade-testnet-faucet-with-typescript-redis-and-nextjs)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-fc02qn4.jpeg)
 In this tutorial, I will teach you how to build your own faucet be it for your team or personal use.
-
-### [154. JavaScript JS0/JSSugar Proposals, Node.js 23, Next.js 15 RC2 and More - This Week in JS](https://hackernoon.com/javascript-js0jssugar-proposals-nodejs-23-nextjs-15-rc2-and-more-this-week-in-js)
-![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-zp031qy.png)
-A look at a controversial proposal about splitting JavaScript, the latest Node.js release, some killer tools, and more.
 
 ### [155. NotionNext: The All-in-One Platform for Building Notion-Powered Websites](https://hackernoon.com/notionnext-the-all-in-one-platform-for-building-notion-powered-websites)
 ![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-hm13fbe.png)
 NotionNext is an open-source project that allows you to build a website directly from your Notion workspace. 
 
-### [156. Isomorphic TypeScript APIs are a Gamechanger, Blurring the Line Between Client & Server](https://hackernoon.com/isomorphic-typescript-apis-are-a-gamechanger-blurring-the-line-between-client-and-server)
+### [156. JavaScript JS0/JSSugar Proposals, Node.js 23, Next.js 15 RC2 and More - This Week in JS](https://hackernoon.com/javascript-js0jssugar-proposals-nodejs-23-nextjs-15-rc2-and-more-this-week-in-js)
+![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-zp031qy.png)
+A look at a controversial proposal about splitting JavaScript, the latest Node.js release, some killer tools, and more.
+
+### [157. Isomorphic TypeScript APIs are a Gamechanger, Blurring the Line Between Client & Server](https://hackernoon.com/isomorphic-typescript-apis-are-a-gamechanger-blurring-the-line-between-client-and-server)
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-tpe3ouz.jpeg)
 Full-Stack development just reached a whole new level of productivity. Isomorphic TypeScript APIs, as I call them, blur the lines between client and server. 
 
-### [157. Building a Medusa WebShop With One Command](https://hackernoon.com/building-a-medusa-webshop-with-one-command)
+### [158. Building a Medusa WebShop With One Command](https://hackernoon.com/building-a-medusa-webshop-with-one-command)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-oa93p8y.jpeg)
 In this article, you will get started with Medusa by building your first headless store with a single command.
 
-### [158. How I Improved My Website Performance Score from 35 to 100](https://hackernoon.com/how-i-improved-my-website-performance-score-from-35-to-100)
+### [159. How I Improved My Website Performance Score from 35 to 100](https://hackernoon.com/how-i-improved-my-website-performance-score-from-35-to-100)
 ![](https://cdn.hackernoon.com/images/a-website-clics8ilh000301s68byfg21s.png)
 Discover the steps I took to skyrocket my website performance score from 35 to a perfect 100. Learn about leveraging Next.js, optimizing images, choosing the ri
 
-### [159. 2025 SEO Strategy: Less Copywriting, More Engineering](https://hackernoon.com/2025-seo-strategy-less-copywriting-more-engineering)
+### [160. 2025 SEO Strategy: Less Copywriting, More Engineering](https://hackernoon.com/2025-seo-strategy-less-copywriting-more-engineering)
 ![](https://cdn.hackernoon.com/images/FQKsrPUzFMMjzRsg6QHgjdyWIBu1-nm23dt2.png)
 AI-generated content is changing the SEO game. Learn how a technical, SEO-first PWA architecture is now non-negotiable.
 
-### [160. Bun just got 60% faster, Doom now runs on TypeScript, and OpenAI launched GPT 4.5 - This Week in JS](https://hackernoon.com/bun-just-got-60percent-faster-doom-now-runs-on-typescript-and-openai-launched-gpt-45-this-week-in-js)
+### [161. Bun just got 60% faster, Doom now runs on TypeScript, and OpenAI launched GPT 4.5 - This Week in JS](https://hackernoon.com/bun-just-got-60percent-faster-doom-now-runs-on-typescript-and-openai-launched-gpt-45-this-week-in-js)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-u0032x4.png)
 This Week in JavaScript includes OpenAI's groundbreaking GPT-4.5 model, Doom running in TypeScript, major Bun updates, and Firefox's privacy controversy,
 
-### [161. Using Next.js to Effectively Format a Page and Structure Its SEO](https://hackernoon.com/using-nextjs-to-effectively-format-a-page-and-structure-its-seo)
+### [162. Using Next.js to Effectively Format a Page and Structure Its SEO](https://hackernoon.com/using-nextjs-to-effectively-format-a-page-and-structure-its-seo)
 ![](https://cdn.hackernoon.com/images/KqfopgYCVjenJNeh8DD99wUIl1C2-t593q4n.jpeg)
 Organizing your Next.js application and using its components.
 
-### [162. How I Made My Next.js Blog Serve Markdown Files for Agent Experience SEO (AX-SEO)](https://hackernoon.com/how-i-made-my-nextjs-blog-serve-markdown-files-for-agent-experience-seo-ax-seo)
+### [163. How I Made My Next.js Blog Serve Markdown Files for Agent Experience SEO (AX-SEO)](https://hackernoon.com/how-i-made-my-nextjs-blog-serve-markdown-files-for-agent-experience-seo-ax-seo)
 ![](https://cdn.hackernoon.com/images/jStFgqJ9QRdiGkR6khwJAgLD6Dl2-gc035w3.png)
 How to serve raw Markdown files in a Next.js blog using middleware and API routes, enabling Agent Experience SEO (AX-SEO).
 
-### [163. How to Add Reactivity to Your Next.js Blog Using Giscus](https://hackernoon.com/how-to-add-reactivity-to-your-nextjs-blog-using-giscus)
+### [164. How to Add Reactivity to Your Next.js Blog Using Giscus](https://hackernoon.com/how-to-add-reactivity-to-your-nextjs-blog-using-giscus)
 ![](https://cdn.hackernoon.com/images/uvPyUdEoEdYV8gHQ4NNQxq9OT3J3-ph93v6d.jpeg)
 Learn how to add A comments & reactions system to your Next.js blog powered by GitHub Discussions using giscus.
-
-### [164. An Intro to Middleware in NextJS 12](https://hackernoon.com/an-intro-to-middleware-in-nextjs-12)
-![](https://cdn.hackernoon.com/images/eUT0WvJnuqUhEFMKqi6Mi1hExjy2-kl0387a.jpeg)
-NextJS 12 was announced yesterday at the NextJS Conf and they announced a new feature called middleware which allows one to modify the response to a request.
 
 ### [165. How to Integrate Next.js with Electron Using React Server Components](https://hackernoon.com/how-to-integrate-nextjs-with-electron-using-react-server-components)
 ![](https://cdn.hackernoon.com/images/bP5Aeu1uqdYhdXVQTdg5r4GGHpB2-a4034yv.jpeg)
 Combining Next.js and Electron app to use React Server Components without opening ports or running HTTP server even on localhost.
 
-### [166. Here's Everything We Learned From the React Native Summit](https://hackernoon.com/heres-everything-we-learned-from-the-react-native-summit)
+### [166. An Intro to Middleware in NextJS 12](https://hackernoon.com/an-intro-to-middleware-in-nextjs-12)
+![](https://cdn.hackernoon.com/images/eUT0WvJnuqUhEFMKqi6Mi1hExjy2-kl0387a.jpeg)
+NextJS 12 was announced yesterday at the NextJS Conf and they announced a new feature called middleware which allows one to modify the response to a request.
+
+### [167. Here's Everything We Learned From the React Native Summit](https://hackernoon.com/heres-everything-we-learned-from-the-react-native-summit)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-m00327w.png)
 Highlights from the deprecation of Create React App, exciting updates from the React Native Summit, and why ES Modules are becoming the standard in JavaScript.
 
-### [167. Integrating React Bricks With an External API](https://hackernoon.com/integrating-react-bricks-with-an-external-api)
+### [168. Integrating React Bricks With an External API](https://hackernoon.com/integrating-react-bricks-with-an-external-api)
 ![](https://cdn.hackernoon.com/images/p2DlsqupxZNOLtKOTUTdrSUOPHo1-kjd321f.jpeg)
 n this tutorial, we will walk through the process of fetching a cat image from The Cat API, and rendering it in a React Bricks application.
 
-### [168. Comparing The Top React Frameworks](https://hackernoon.com/comparing-the-top-react-frameworks)
-![](https://cdn.hackernoon.com/images/EM75J4PMKqgBeCOmKHuHcGvTquh2-kl03uqx.png)
-There are many reasons to switch from traditional CRA to the modern framework of React. 
-
-### [169. The Evolution of Our Tech Stack: Lessons, Optimizations, And Outlooks](https://hackernoon.com/the-evolution-of-our-tech-stack-lessons-optimizations-and-outlooks-2o3534sy)
-![](https://cdn.hackernoon.com/images/VcWHK5AdFBV6vXJjgORS9lu7U9Y2-xah31f9.jpeg)
-How to build a tech stack if you run an early-stage startup.
-
-### [170. Building a Logo Creation App with Next.js, Shadcn/ui, and Lucide React](https://hackernoon.com/building-a-logo-creation-app-with-nextjs-shadcnui-and-lucide-react)
-![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-lr9328v.png)
-Learn how to build a customizable logo builder app with Next.js, shadcn/ui, html2canvas-pro, and Lucide Icons. Follow our step-by-step guide to create and perso
-
-### [171. Building the "Spotify Wrapped" of Product Hunt: A 48-Hour Technical Sprint to Map the Maker Economy](https://hackernoon.com/building-the-spotify-wrapped-of-product-hunt-a-48-hour-technical-sprint-to-map-the-maker-economy)
+### [169. Building the "Spotify Wrapped" of Product Hunt: A 48-Hour Technical Sprint to Map the Maker Economy](https://hackernoon.com/building-the-spotify-wrapped-of-product-hunt-a-48-hour-technical-sprint-to-map-the-maker-economy)
 ![](https://cdn.hackernoon.com/images/A7coZ0uhYMgPNXXtkg7aiDfCsxT2-tl03gpj.png)
 I built a cinematic 'Spotify Wrapped' for Product Hunt makers using Next.js. Discover your 2025 global rank and persona before our Dec 27 launch!
 
-### [172. WordPress Headless + CPT + ACF: How to Build a Flexible Content Platform](https://hackernoon.com/wordpress-headless-cpt-acf-how-to-build-a-flexible-content-platform)
-![](https://cdn.hackernoon.com/images/0y7BMyokOqdVNiJ7B2CKN0YtT1s1-hp03130.jpeg)
-This article will guide you through creating a flexible and dynamic content platform using WordPress as a headless CMS
+### [170. Comparing The Top React Frameworks](https://hackernoon.com/comparing-the-top-react-frameworks)
+![](https://cdn.hackernoon.com/images/EM75J4PMKqgBeCOmKHuHcGvTquh2-kl03uqx.png)
+There are many reasons to switch from traditional CRA to the modern framework of React. 
 
-### [173. How I Built an Engine That Turns Architecture Sketches Into Animations](https://hackernoon.com/how-i-built-an-engine-that-turns-architecture-sketches-into-animations)
-![](https://cdn.hackernoon.com/images/5gfNBThejqRJhy2oHMu7mlXF4zf1-9f03drp.png)
-Learn how to build a "Magic Move" animation engine for Excalidraw from scratch using Next.js and Framer Motion.
+### [171. Building a Logo Creation App with Next.js, Shadcn/ui, and Lucide React](https://hackernoon.com/building-a-logo-creation-app-with-nextjs-shadcnui-and-lucide-react)
+![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-lr9328v.png)
+Learn how to build a customizable logo builder app with Next.js, shadcn/ui, html2canvas-pro, and Lucide Icons. Follow our step-by-step guide to create and perso
 
-### [174. My Checklist for a Production-Ready Website ](https://hackernoon.com/my-checklist-for-a-production-ready-website)
+### [172. The Evolution of Our Tech Stack: Lessons, Optimizations, And Outlooks](https://hackernoon.com/the-evolution-of-our-tech-stack-lessons-optimizations-and-outlooks-2o3534sy)
+![](https://cdn.hackernoon.com/images/VcWHK5AdFBV6vXJjgORS9lu7U9Y2-xah31f9.jpeg)
+How to build a tech stack if you run an early-stage startup.
+
+### [173. My Checklist for a Production-Ready Website ](https://hackernoon.com/my-checklist-for-a-production-ready-website)
 ![](https://cdn.hackernoon.com/images/JOi15EyWqIPHZU1erOY1uv1bBKv2-hb82jnr.jpeg)
 There are many aspects to be considered for a production-ready website. Here is my short list of what to look for.
 
-### [175. Next.js: Firebase Authentication and Middleware for API Routes](https://hackernoon.com/how-to-connect-nextjs-with-firebase-auth-rest-api-ey1y33w0)
-![](https://cdn.hackernoon.com/images/0WPYN2ISngW9DSWUKaXjEqbPln43-k63i33yu.jpeg)
-Recently I made a small web app that requires user accounts. I learned quite a bit about setting up authentication with Firebase on the client-side and using it on the server-side to protected API routes with a middleware pattern similar to Express.js. This post is a recap of what I learned based on this project for future reference. You can find the code for this project on GitHub here.
-
-### [176. Dive into Web3 Contracts with Hardhat and Node.js Vol.3 ](https://hackernoon.com/dive-into-web3-contracts-with-hardhat-and-nodejs-vol3)
-![](https://cdn.hackernoon.com/images/pqJYz114HxWdzUYSfK6DW6LNz123-8o833j5.jpeg)
-Crafting Telegram bot-driven NFTs, and delving into Web3 and blockchain tech for creative enthusiasts.
-
-### [177. Supercharge Your SEO Game: Powered By getStaticProps](https://hackernoon.com/supercharge-your-seo-game-powered-by-getstaticprops-dp1e43ytf)
-![](https://cdn.hackernoon.com/drafts/1xbs3yz5.png)
-This is mainly useful for websites that use React/NextJS with a CMS (Content Management System) integration. No matter, whether it's WordPress, Contentful, Prismic or any other CMS. This concept is highly relevant for companies that require non-engineers to update the content easily. Whether, it's a change in the content, A/B testing or conversion-rate-optimization related. There are many reasons why the content of a website gets updated quite often throughout the year. 
-
-### [178. Authentication Sucks—So This Developer Built a Better Starting Point](https://hackernoon.com/authentication-sucksso-this-developer-built-a-better-starting-point)
-![](https://cdn.hackernoon.com/images/8CfBTbO0zTfDOV5vW30uQ9MRRIk2-pb231yx.png)
-Open Source Full-stack clean authentication template with Next.js, NodeJs, ExpressJs. Features email/OTP, OAuth, RBAC, JWT security, and more. 
-
-### [179. The Noonification: Newton’s Laws in Society: How Social Forces Move Physical Bodies (4/3/2024)](https://hackernoon.com/4-3-2024-noonification)
-![](https://cdn.hackernoon.com/images/noonification_413_kgk3syblvszho7lnt7bcv3ij.png)
-4/3/2024: Top 5 stories on the HackerNoon homepage!
-
-### [180. How a Small Next.js Routing Change Boosted My Google AdSense Revenue](https://hackernoon.com/how-a-small-nextjs-routing-change-boosted-my-google-adsense-revenue)
+### [174. How a Small Next.js Routing Change Boosted My Google AdSense Revenue](https://hackernoon.com/how-a-small-nextjs-routing-change-boosted-my-google-adsense-revenue)
 ![](https://cdn.hackernoon.com/images/a-minimalist-illustration-of-a-fast-loading-modern-website-g7f7s0gg2mmzwgun1bf1joum.png)
 Why Google AdSense ads silently fail on Next.js sites using client-side navigation—and the simple fix that restored impressions and revenue.
 
-### [181. What to Consider When Choose an I18n Library for a Next.js 14 Application](https://hackernoon.com/what-to-consider-when-choose-an-i18n-library-for-a-nextjs-14-application)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6782h9j.png)
-What is the best choice, and how does one go about selecting an i18n library for production? Let’s address this decision-making process.
+### [175. WordPress Headless + CPT + ACF: How to Build a Flexible Content Platform](https://hackernoon.com/wordpress-headless-cpt-acf-how-to-build-a-flexible-content-platform)
+![](https://cdn.hackernoon.com/images/0y7BMyokOqdVNiJ7B2CKN0YtT1s1-hp03130.jpeg)
+This article will guide you through creating a flexible and dynamic content platform using WordPress as a headless CMS
 
-### [182. This One Script Fixed the “Images Drop In Late” Problem](https://hackernoon.com/this-one-script-fixed-the-images-drop-in-late-problem)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gv02300.webp)
-A boring, repeatable image pipeline for Next.js: cap images at 800px, strip metadata, and auto-pick lossless vs lossy WebP so pages feel complete faster.
+### [176. How I Built an Engine That Turns Architecture Sketches Into Animations](https://hackernoon.com/how-i-built-an-engine-that-turns-architecture-sketches-into-animations)
+![](https://cdn.hackernoon.com/images/5gfNBThejqRJhy2oHMu7mlXF4zf1-9f03drp.png)
+Learn how to build a "Magic Move" animation engine for Excalidraw from scratch using Next.js and Framer Motion.
 
-### [183. Real Feedback On My Portfolio That May Help You Improve Yours](https://hackernoon.com/real-feedback-on-my-portfolio-that-may-help-you-improve-yours)
-![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-z21135f9.jpeg)
-Some months ago I posted an article about how I built my first personal portfolio. The feedback was pretty awesome and I got some great ideas.
+### [177. Dive into Web3 Contracts with Hardhat and Node.js Vol.3 ](https://hackernoon.com/dive-into-web3-contracts-with-hardhat-and-nodejs-vol3)
+![](https://cdn.hackernoon.com/images/pqJYz114HxWdzUYSfK6DW6LNz123-8o833j5.jpeg)
+Crafting Telegram bot-driven NFTs, and delving into Web3 and blockchain tech for creative enthusiasts.
 
-### [184. 8 Valuable Lessons I Learned After My Online Dev Radio Reached 700K+ Listens🙏💖](https://hackernoon.com/8-valuable-lessons-i-learned-after-my-online-dev-radio-reached-700k-listens)
-![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-f683uuw.jpeg)
-To celebrate 700K+ listens I decided to write an article where I could take you behind the scenes and share some of the most valuable lessons I've learned.
+### [178. Next.js: Firebase Authentication and Middleware for API Routes](https://hackernoon.com/how-to-connect-nextjs-with-firebase-auth-rest-api-ey1y33w0)
+![](https://cdn.hackernoon.com/images/0WPYN2ISngW9DSWUKaXjEqbPln43-k63i33yu.jpeg)
+Recently I made a small web app that requires user accounts. I learned quite a bit about setting up authentication with Firebase on the client-side and using it on the server-side to protected API routes with a middleware pattern similar to Express.js. This post is a recap of what I learned based on this project for future reference. You can find the code for this project on GitHub here.
 
-### [185. Data Visualization Got Boring, So I Made DataGlass](https://hackernoon.com/data-visualization-got-boring-so-i-made-dataglass)
+### [179. Authentication Sucks—So This Developer Built a Better Starting Point](https://hackernoon.com/authentication-sucksso-this-developer-built-a-better-starting-point)
+![](https://cdn.hackernoon.com/images/8CfBTbO0zTfDOV5vW30uQ9MRRIk2-pb231yx.png)
+Open Source Full-stack clean authentication template with Next.js, NodeJs, ExpressJs. Features email/OTP, OAuth, RBAC, JWT security, and more. 
+
+### [180. Supercharge Your SEO Game: Powered By getStaticProps](https://hackernoon.com/supercharge-your-seo-game-powered-by-getstaticprops-dp1e43ytf)
+![](https://cdn.hackernoon.com/drafts/1xbs3yz5.png)
+This is mainly useful for websites that use React/NextJS with a CMS (Content Management System) integration. No matter, whether it's WordPress, Contentful, Prismic or any other CMS. This concept is highly relevant for companies that require non-engineers to update the content easily. Whether, it's a change in the content, A/B testing or conversion-rate-optimization related. There are many reasons why the content of a website gets updated quite often throughout the year. 
+
+### [181. The Noonification: Newton’s Laws in Society: How Social Forces Move Physical Bodies (4/3/2024)](https://hackernoon.com/4-3-2024-noonification)
+![](https://cdn.hackernoon.com/images/noonification_413_kgk3syblvszho7lnt7bcv3ij.png)
+4/3/2024: Top 5 stories on the HackerNoon homepage!
+
+### [182. Data Visualization Got Boring, So I Made DataGlass](https://hackernoon.com/data-visualization-got-boring-so-i-made-dataglass)
 ![](https://cdn.hackernoon.com/images/3f7QsKZGrybWmQit3VVpYaCa6592-9r0237i.jpeg)
 DataGlass is an AI-powered data visualization tool. 
 
-### [186. The Exciting Journey Of Creating My First Portfolio📂🎉](https://hackernoon.com/the-exciting-journey-of-creating-my-first-portfolio-q4n33yf)
-![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-ye2833qo.jpeg)
-For the last few months, I've been working on a personal portfolio. I've always believed that a separate portfolio is important for any dev since it connects you to future opportunities and it helps you to grow your network.
+### [183. What to Consider When Choose an I18n Library for a Next.js 14 Application](https://hackernoon.com/what-to-consider-when-choose-an-i18n-library-for-a-nextjs-14-application)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6782h9j.png)
+What is the best choice, and how does one go about selecting an i18n library for production? Let’s address this decision-making process.
 
-### [187. An Essential Guide to Rendering your Website](https://hackernoon.com/an-essential-guide-to-rendering-your-website-em1x3tcd)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWvW28jEl4jUjfwJehRmZlkXmrQw2-hre30wv.png?alt=media&token=00154de9-ff5c-44bf-a8f6-4418b475f4e2)
-Back in the day, rendering a website was simple. You needed a web server that served HTML files. Those were static sites. Then developers started using databases and authentication. To achieve that, they needed to manipulate the HTML file before serving it. 
+### [184. This One Script Fixed the “Images Drop In Late” Problem](https://hackernoon.com/this-one-script-fixed-the-images-drop-in-late-problem)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gv02300.webp)
+A boring, repeatable image pipeline for Next.js: cap images at 800px, strip metadata, and auto-pick lossless vs lossy WebP so pages feel complete faster.
 
-### [188. Create Your Own Ethereum NFT Explorer Using NextJS](https://hackernoon.com/create-your-own-ethereum-nft-explorer-using-nextjs)
-![](https://cdn.hackernoon.com/images/BK7OFsoRuJVKILySIKXNvmjW0Ii1-bo03g3j.jpeg)
-An NFT Explorer is a Decentralized Application (dApp) that allows users to get information about an NFT collection from the blockchain.
+### [185. 8 Valuable Lessons I Learned After My Online Dev Radio Reached 700K+ Listens🙏💖](https://hackernoon.com/8-valuable-lessons-i-learned-after-my-online-dev-radio-reached-700k-listens)
+![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-f683uuw.jpeg)
+To celebrate 700K+ listens I decided to write an article where I could take you behind the scenes and share some of the most valuable lessons I've learned.
 
-### [189. Building a Collaborative Whiteboard: Why I Chose HTTP Polling Over WebSockets](https://hackernoon.com/building-a-collaborative-whiteboard-why-i-chose-http-polling-over-websockets)
+### [186. Real Feedback On My Portfolio That May Help You Improve Yours](https://hackernoon.com/real-feedback-on-my-portfolio-that-may-help-you-improve-yours)
+![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-z21135f9.jpeg)
+Some months ago I posted an article about how I built my first personal portfolio. The feedback was pretty awesome and I got some great ideas.
+
+### [187. Building a Collaborative Whiteboard: Why I Chose HTTP Polling Over WebSockets](https://hackernoon.com/building-a-collaborative-whiteboard-why-i-chose-http-polling-over-websockets)
 ![](https://cdn.hackernoon.com/images/cgRa82RBgDRIfaPf0Aw7XCjsB4z2-fx03e25.jpeg)
 This article explains how NodeLand uses a simpler, more pragmatic approach to document synchronization in a collaborative mind-mapping whiteboard. 
 
-### [190. Adding a File Service Plugin to Your Medusa Store: An Essential Guide](https://hackernoon.com/adding-a-file-service-plugin-to-your-medusa-store-an-essential-guide)
+### [188. Adding a File Service Plugin to Your Medusa Store: An Essential Guide](https://hackernoon.com/adding-a-file-service-plugin-to-your-medusa-store-an-essential-guide)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-8q93qlw.jpeg)
 This tutorial will help you to learn how to add a file service plugin in order to be able to add products to your Medusa store via the admin dashboard
 
-### [191. Next.js Sitemap Generator Script](https://hackernoon.com/nextjs-sitemap-generator-script)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-g082mh1.jpeg)
-Learn how to create your own sitemap generator script for a static Next.js website.
+### [189. Create Your Own Ethereum NFT Explorer Using NextJS](https://hackernoon.com/create-your-own-ethereum-nft-explorer-using-nextjs)
+![](https://cdn.hackernoon.com/images/BK7OFsoRuJVKILySIKXNvmjW0Ii1-bo03g3j.jpeg)
+An NFT Explorer is a Decentralized Application (dApp) that allows users to get information about an NFT collection from the blockchain.
 
-### [192. Why Learn Any Other Programming Language When You Can Learn Typescript?](https://hackernoon.com/why-learn-any-other-programming-language-when-you-can-learn-typescript)
-![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-ua036gb.jpeg)
-Use TypeScript in all your projects and all use cases without any limitation. You can now do frontend, backend, infrastructure and machine learning in one progr
+### [190. The Exciting Journey Of Creating My First Portfolio📂🎉](https://hackernoon.com/the-exciting-journey-of-creating-my-first-portfolio-q4n33yf)
+![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-ye2833qo.jpeg)
+For the last few months, I've been working on a personal portfolio. I've always believed that a separate portfolio is important for any dev since it connects you to future opportunities and it helps you to grow your network.
 
-### [193. The Noonification: Sam Bankman-(Never Getting)Fried (4/4/2024)](https://hackernoon.com/4-4-2024-noonification)
-![](https://cdn.hackernoon.com/images/noonification_411_oea27yhg065haty6j5bhn1x2.png)
-4/4/2024: Top 5 stories on the HackerNoon homepage!
+### [191. An Essential Guide to Rendering your Website](https://hackernoon.com/an-essential-guide-to-rendering-your-website-em1x3tcd)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWvW28jEl4jUjfwJehRmZlkXmrQw2-hre30wv.png?alt=media&token=00154de9-ff5c-44bf-a8f6-4418b475f4e2)
+Back in the day, rendering a website was simple. You needed a web server that served HTML files. Those were static sites. Then developers started using databases and authentication. To achieve that, they needed to manipulate the HTML file before serving it. 
 
-### [194. Building a Better Experience for Courseware Management](https://hackernoon.com/building-a-better-experience-for-courseware-management)
+### [192. Building a Better Experience for Courseware Management](https://hackernoon.com/building-a-better-experience-for-courseware-management)
 ![](https://cdn.hackernoon.com/images/40xxZYIYGtVNPrB3zwyCY53ndUQ2-dv91cla.jpeg)
 Courseware as Code is a revolutionary approach to streamlining the production of courseware.
 
-### [195. Save time by Generating Sitemaps Dynamically in NextJS](https://hackernoon.com/save-time-by-generating-dynamic-sitemaps-in-nextjs)
+### [193. Save time by Generating Sitemaps Dynamically in NextJS](https://hackernoon.com/save-time-by-generating-dynamic-sitemaps-in-nextjs)
 ![](https://cdn.hackernoon.com/images/aaX2FiR6zKUYHarKyrMCP8EjNpr1-cj93i6b.jpeg)
 generate sitemap for next.js under 1 minute
 
-### [196. How We Built This: A Platform for Crowdsourced Design Patterns](https://hackernoon.com/how-we-built-this-a-platform-for-crowdsourced-design-patterns-kj1j33j9)
+### [194. Next.js Sitemap Generator Script](https://hackernoon.com/nextjs-sitemap-generator-script)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-g082mh1.jpeg)
+Learn how to create your own sitemap generator script for a static Next.js website.
+
+### [195. The Noonification: Sam Bankman-(Never Getting)Fried (4/4/2024)](https://hackernoon.com/4-4-2024-noonification)
+![](https://cdn.hackernoon.com/images/noonification_411_oea27yhg065haty6j5bhn1x2.png)
+4/4/2024: Top 5 stories on the HackerNoon homepage!
+
+### [196. Why Learn Any Other Programming Language When You Can Learn Typescript?](https://hackernoon.com/why-learn-any-other-programming-language-when-you-can-learn-typescript)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-ua036gb.jpeg)
+Use TypeScript in all your projects and all use cases without any limitation. You can now do frontend, backend, infrastructure and machine learning in one progr
+
+### [197. How We Built This: A Platform for Crowdsourced Design Patterns](https://hackernoon.com/how-we-built-this-a-platform-for-crowdsourced-design-patterns-kj1j33j9)
 ![](https://cdn.hackernoon.com/images/RIrHNG9dalWFs9JTX5jUMGGFlNz2-r25l28kv.jpeg)
 Built with Next, Apollo and MongoDB and deployed with GitHub Actions and Docker.
 
-### [197. New Template Offers Minimal Setup to Get React Working ](https://hackernoon.com/new-template-offers-minimal-setup-to-get-react-working)
+### [198. New Template Offers Minimal Setup to Get React Working ](https://hackernoon.com/new-template-offers-minimal-setup-to-get-react-working)
 ![](https://cdn.hackernoon.com/images/TqZEvjRDPjR7f5kVRi9AZma7pj12-p4035eb.jpeg)
 The initialized project is designed for client-side applications exclusively. 
 
-### [198. How to Share Serializable Data Between React Components in Next.js](https://hackernoon.com/how-to-share-serializable-data-between-react-components-in-nextjs)
+### [199. How to Share Serializable Data Between React Components in Next.js](https://hackernoon.com/how-to-share-serializable-data-between-react-components-in-nextjs)
 ![](https://cdn.hackernoon.com/images/ctaUGkjQdSR2jPBeTNFHo6C7nZk1-z282vh8.png)
 This article demonstrates how you can share any serializable data between React components.
 
-### [199. 🌟 Introducing Universal Image Component: The Ultimate React/NextJS Image Solution!](https://hackernoon.com/introducing-universal-image-component-the-ultimate-reactnextjs-image-solution)
+### [200. 🌟 Introducing Universal Image Component: The Ultimate React/NextJS Image Solution!](https://hackernoon.com/introducing-universal-image-component-the-ultimate-reactnextjs-image-solution)
 ![](https://cdn.hackernoon.com/images/a-cartoon-star-in-the-night-sky-l9udjm5eueboz5amghm4ul2c.png)
 Universal Image Component is the Ultimate React/NextJS Image Solution. It offers a range of modes to suit your needs. From Base64 conversion to CDN optimization
 
-### [200. Making A Browser Console Log Wait Until Page Reloads [A How-To Guide]](https://hackernoon.com/making-a-browser-console-log-wait-until-page-reloads-a-how-to-guide-2j1z3yt9)
+### [201. Making A Browser Console Log Wait Until Page Reloads [A How-To Guide]](https://hackernoon.com/making-a-browser-console-log-wait-until-page-reloads-a-how-to-guide-2j1z3yt9)
 ![](https://cdn.hackernoon.com/drafts/afl3zra.png)
 Ever wanted to create a browser console log that persists after a page reloads? Sure, that isn’t a problem if you enable the “preserve log” option in your developer console, but hear me out.
 
-### [201. Meet the Writer: HackerNoon's Contributor Leandro, Software Engineer](https://hackernoon.com/meet-the-writer-hackernoons-contributor-leandro-software-engineer)
+### [202. Meet the Writer: HackerNoon's Contributor Leandro, Software Engineer](https://hackernoon.com/meet-the-writer-hackernoons-contributor-leandro-software-engineer)
 ![](https://cdn.hackernoon.com/images/rIVD9uGtDyTmdfox8lpMYgJi5AZ2-hk93vcg.jpeg)
 An interview with Leandro Nuñez, HackerNoon contributor, technical writer and software engineer. 
 
-### [202. An Overview of Next.js Router ](https://hackernoon.com/an-overview-of-nextjs-router-2hz32d4)
+### [203. An Overview of Next.js Router ](https://hackernoon.com/an-overview-of-nextjs-router-2hz32d4)
 ![](https://cdn.hackernoon.com/images/2D17XW9VheScfPr4MNJNPZhFHT82-0aa3omy.jpeg)
 These tips and tricks for you on the Next.js router help you make your DX better and code cleaner
 
-### [203. How Build a Fully Typed Web App Using Next.js, PlanetScale, Drizzle, and Kysely](https://hackernoon.com/how-build-a-fully-typed-web-app-using-nextjs-planetscale-drizzle-and-kysely)
+### [204. How Build a Fully Typed Web App Using Next.js, PlanetScale, Drizzle, and Kysely](https://hackernoon.com/how-build-a-fully-typed-web-app-using-nextjs-planetscale-drizzle-and-kysely)
 ![](https://cdn.hackernoon.com/images/building-a-statue-ul38lozaiu9sc7zuzfk74733.png)
 Harness the power of PlanetScale, Drizzle ORM, and Kysely Query Builder to develop a scalable fully-typed web app.
 
-### [204. The HackerNoon Newsletter: AI Race With China Risks Undermining Western Values (7/17/2025)](https://hackernoon.com/7-17-2025-newsletter)
+### [205. The HackerNoon Newsletter: AI Race With China Risks Undermining Western Values (7/17/2025)](https://hackernoon.com/7-17-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_345_w0dfdv7k4eo0n1ugd2h9xquj.png)
 7/17/2025: Top 5 stories on the HackerNoon homepage!
 
-### [205. Stop Guessing Prices: A Dev’s Guide to Smarter Currency Handling in Next.js](https://hackernoon.com/stop-guessing-prices-a-devs-guide-to-smarter-currency-handling-in-nextjs)
+### [206. Stop Guessing Prices: A Dev’s Guide to Smarter Currency Handling in Next.js](https://hackernoon.com/stop-guessing-prices-a-devs-guide-to-smarter-currency-handling-in-nextjs)
 ![](https://cdn.hackernoon.com/images/8tUD2kjxtLQHrVHhCrzmoTFWeZ02-uf03acs.png)
 NextJs pricing page for Postly and Onu is built with detection, normalization, multi-provider FX, caching, and a tiny Switch Currency UI. 
-
-### [206. Casing Can Break Netlify Functions: Here's How](https://hackernoon.com/casing-can-break-netlify-functions-heres-how)
-![](https://cdn.hackernoon.com/images/GWHX2lBFLbMSZ4olDc5OKN28T0h1-hz93r8k.jpeg)
-It may not be apparent when you're working on it locally, but quirks such as this one on Netlify can throw a wrench into your application deployed in prod.
 
 ### [207. The HackerNoon Newsletter: Our Communication No Longer Belongs to Us (8/4/2025)](https://hackernoon.com/8-4-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_865_ny9ghe4ib8x8cdn7nugtizm6.png)
 8/4/2025: Top 5 stories on the HackerNoon homepage!
 
-### [208. An Overview of our PH Launch for AskMakers v2.0](https://hackernoon.com/an-overview-of-our-ph-launch-for-askmakers-v20-lo1k3ua0)
+### [208. Casing Can Break Netlify Functions: Here's How](https://hackernoon.com/casing-can-break-netlify-functions-heres-how)
+![](https://cdn.hackernoon.com/images/GWHX2lBFLbMSZ4olDc5OKN28T0h1-hz93r8k.jpeg)
+It may not be apparent when you're working on it locally, but quirks such as this one on Netlify can throw a wrench into your application deployed in prod.
+
+### [209. Inside Dograh: The Architecture Behind an Open Voice AI Stack](https://hackernoon.com/inside-dograh-the-architecture-behind-an-open-voice-ai-stack)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jn82zsg.jpeg)
+A candid walkthrough of Dograh, the self-hostable voice AI platform built for developers who want full control, tracing, and no platform fees.
+
+### [210. An Overview of our PH Launch for AskMakers v2.0](https://hackernoon.com/an-overview-of-our-ph-launch-for-askmakers-v20-lo1k3ua0)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAX6V6KYiRrcJ5DEcbM6eG8p51rc2-ts3h3uyh.jpeg?alt=media&token=2b8ed01f-9334-4d57-bcfa-b1a9c9d4572d)
 Oh…I am so sleepy…because I launched AskMakers 2.0 on Product Hunt and I have been monitoring it almost without sleeping😪
 
-### [209. The Noonification: The Girl an Inch Tall  (8/10/2023)](https://hackernoon.com/8-10-2023-noonification)
+### [211. The Noonification: The Girl an Inch Tall  (8/10/2023)](https://hackernoon.com/8-10-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_388_vqc0rjy5vwf1qsmy8gewbktc.png)
 8/10/2023: Top 5 stories on the Hackernoon homepage!
 

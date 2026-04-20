@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [k8s](https://hackernoon.com/tagged/k8s)
+### Let's learn about [K8s](https://hackernoon.com/tagged/k8s) via these 121 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+K8s, or Kubernetes, is an open-source container orchestration system for automating deployment, scaling, and management of containerized applications. It is crucial for modern cloud-native development, enabling efficient management of microservices and ensuring high availability.
+
 ### [1. How To Run Docker Linux Containers Natively on Windows](https://hackernoon.com/how-to-run-docker-linux-containers-natively-on-windows-ti1i3uxr)
 ![](https://cdn.hackernoon.com/images/yo203wgs.jpg)
 With Docker Desktop running on WSL 2, users can leverage Linux workspaces and avoid having to maintain both Linux and Windows build scripts.
@@ -163,13 +167,13 @@ Here, we talk about the various components within a Kubernetes architecture. Rea
 ![](https://cdn.hackernoon.com/images/VZCQ0e1Yv2eJAMyEidHksLMysJ73-s11e35m3.jpeg)
 In this post my plan is to create open tcp port scanning tool, use GO and worker pool to make it very fast. Expose it via REST resource, containerise and deploy
 
-### [41. The Apprentice's Guide to Kubernetes](https://hackernoon.com/the-apprentices-guide-to-kubernetes-qp3k3443)
-![](https://cdn.hackernoon.com/images/THenOWOiE3O1dgeM096pYJbOVNi1-iu1d34zu.png)
-Let's dig into Kubernetes, a powerful orchestrator that will ease deployment and automatically manage your applications on a set of machines.
-
-### [42. Kubernetes Explained Simply: Data Extraction With JSON Path [Part 8]](https://hackernoon.com/kubernetes-explained-simply-data-extraction-with-json-path-part-8-wo113159)
+### [41. Kubernetes Explained Simply: Data Extraction With JSON Path [Part 8]](https://hackernoon.com/kubernetes-explained-simply-data-extraction-with-json-path-part-8-wo113159)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-cll3143.jpeg)
 kubectl can pull a lot of data about our deployments and pod.  Most of the time, we humans are the recipients of that information, and kubectl obliges by nicely formatting things in pretty tables.
+
+### [42. The Apprentice's Guide to Kubernetes](https://hackernoon.com/the-apprentices-guide-to-kubernetes-qp3k3443)
+![](https://cdn.hackernoon.com/images/THenOWOiE3O1dgeM096pYJbOVNi1-iu1d34zu.png)
+Let's dig into Kubernetes, a powerful orchestrator that will ease deployment and automatically manage your applications on a set of machines.
 
 ### [43. How to install Devtron over k3s ](https://hackernoon.com/how-to-install-devtron-over-k3s)
 ![](https://cdn.hackernoon.com/images/v7dL1sDTc7b3akTEMwS9V0e6pe43-43lp2by9.jpeg)
@@ -183,18 +187,18 @@ The best of bad advices about CKA
 ![](https://cdn.hackernoon.com/images/v7dL1sDTc7b3akTEMwS9V0e6pe43-jne298j.jpeg)
 The blog includes steps to install & setup minikube and devtron - an opensource software delivery workflow for kubernetes in minikube cluster.
 
-### [46. An Essential Guide to Kubernetes Observability Challenges with Pixie](https://hackernoon.com/an-essential-guide-to-kubernetes-observability-challenges-with-pixie)
-![](https://cdn.hackernoon.com/images/2z5Uye1bV0htpcjACRiol2EgAe53-dx12a1d.jpeg)
-Debugging on K8s is hard
-The main reason that makes Kubernetes observability so difficult is the volatile and dynamic nature of workloads and resources. 
-
-### [47. Viewing K8S Cluster Security from the Perspective of Attackers (Part 1) ](https://hackernoon.com/viewing-k8s-cluster-security-from-the-perspective-of-attackers-part-1)
+### [46. Viewing K8S Cluster Security from the Perspective of Attackers (Part 1) ](https://hackernoon.com/viewing-k8s-cluster-security-from-the-perspective-of-attackers-part-1)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-cl92cqq.jpeg)
 Based on previous penetration testing experience, we have sorted out the possible security issues under the K8S cluster architecture.
 
-### [48. Managing Collectors on K8 – Why We Chose the OpenTelemetry Collector for Odigos](https://hackernoon.com/managing-collectors-on-k8---why-we-chose-the-opentelemetry-collector-for-odigos)
+### [47. Managing Collectors on K8 – Why We Chose the OpenTelemetry Collector for Odigos](https://hackernoon.com/managing-collectors-on-k8---why-we-chose-the-opentelemetry-collector-for-odigos)
 ![](https://cdn.hackernoon.com/images/vCIPt6fGrPTzPcKo2qPixdOYu1G2-q093o1r.jpeg)
 Without proper implementation and continuous configuration of your collectors, observability tools will be limited at best at best and many times ineffectual.
+
+### [48. An Essential Guide to Kubernetes Observability Challenges with Pixie](https://hackernoon.com/an-essential-guide-to-kubernetes-observability-challenges-with-pixie)
+![](https://cdn.hackernoon.com/images/2z5Uye1bV0htpcjACRiol2EgAe53-dx12a1d.jpeg)
+Debugging on K8s is hard
+The main reason that makes Kubernetes observability so difficult is the volatile and dynamic nature of workloads and resources. 
 
 ### [49. The Essential Guide to Pod Eviction On Kubernetes](https://hackernoon.com/the-essential-guide-to-pod-eviction-on-kubernetes-no423ugc)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOCEDgVR7ElMB4EWad0Jw9cKPzT03-2a102882.jpeg?alt=media&token=f7bdf67a-8a9e-4c2a-85f0-1db4e3a2e0ca)
@@ -256,17 +260,17 @@ Kubernetes(K8s) role-based access control is a powerful tool in restricting acce
 ![](https://cdn.hackernoon.com/images/oEYCrZNrzXUMS85TGJm5kEKTpcZ2-i992or3.jpeg)
 Hosting serverless applications outside of cloud on a home server.
 
-### [64. How To Make The Kubernetes Operator Rock: Basic Principles](https://hackernoon.com/how-to-make-the-kubernetes-operator-rock-basic-principles-dp103w00)
+### [64. Potential Use Cases of AI in Kubernetes](https://hackernoon.com/potential-use-cases-of-ai-in-kubernetes)
+![](https://cdn.hackernoon.com/images/u46oty6hSGd7WBIY5gOGUNipCn13-zt93jnr.jpeg)
+See how AI is helping shape the Kubernetes industry and optimize clusters for the future.
+
+### [65. How To Make The Kubernetes Operator Rock: Basic Principles](https://hackernoon.com/how-to-make-the-kubernetes-operator-rock-basic-principles-dp103w00)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-5lpu3ub6.jpeg?alt=media&token=ccef0649-aef6-40b0-a5ca-0a99895b1153)
 This blog post demonstrates how you can use the Operator Lifecycle Manager to deploy a Kubernetes Operator to your cluster. Then, you will use the Operator to spin up an Elastic Cloud on Kubernetes (ECK) cluster.
 
-### [65. A Guide to Kubernetes Autoscaling Tools with Linode Kubernetes Engine](https://hackernoon.com/a-guide-to-kubernetes-autoscaling-tools-with-linode-kubernetes-engine)
+### [66. A Guide to Kubernetes Autoscaling Tools with Linode Kubernetes Engine](https://hackernoon.com/a-guide-to-kubernetes-autoscaling-tools-with-linode-kubernetes-engine)
 ![](https://cdn.hackernoon.com/images/ehWe6W1brvOg54RdOFs1MR4dMPF2-da93g9l.jpeg)
 Learn to use key Kubernetes autoscalers with short examples
-
-### [66. Potential Use Cases of AI in Kubernetes](https://hackernoon.com/potential-use-cases-of-ai-in-kubernetes)
-![](https://cdn.hackernoon.com/images/u46oty6hSGd7WBIY5gOGUNipCn13-zt93jnr.jpeg)
-See how AI is helping shape the Kubernetes industry and optimize clusters for the future.
 
 ### [67. Open-Source Testing Mechanism for Kubernetes Applications](https://hackernoon.com/open-source-testing-mechanism-for-kubernetes-applications)
 ![](https://cdn.hackernoon.com/images/gOION3UpzLYB2bAzKFMIXwcmdD03-m793l20.jpeg)
@@ -284,16 +288,7 @@ The Kubernetes crew just dropped the latest version, k8s 1.26 a few days ago, an
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-i4gu3ufm.jpeg?alt=media&token=a1b9b738-0b4d-4465-aea4-6d9cdaa0e823)
 Intro
 
-### [71. Your Serverless Guide is Ready](https://hackernoon.com/your-serverless-guide-is-ready-bc2i33gz)
-![](https://cdn.hackernoon.com/images/vI89MS8Ou8OYOnT4ESBSH9HkCrz2-h23c33va.jpeg)
-Learn everything you need to know about Serverless, including case studies, essential concepts, guidelines, and best practices.
-
-
-### [72. Setting Up and Managing a Kubernetes Cluster with Kubeadm](https://hackernoon.com/setting-up-and-managing-a-kubernetes-cluster-with-kubeadm)
-![](https://cdn.hackernoon.com/images/containers-tk196ofbl68zspzcqctuzw42.png)
-In this tutorial, we'll explore everything you need to know about Kubeadm commands and how to use them to create & manage cluster components in Kubernetes. 
-
-### [73. 1:1 CKA (Certified Kubernetes Administrator): An Essential Guide](https://hackernoon.com/11-cka-certified-kubernetes-administrator-an-essential-guide)
+### [71. 1:1 CKA (Certified Kubernetes Administrator): An Essential Guide](https://hackernoon.com/11-cka-certified-kubernetes-administrator-an-essential-guide)
 ![](https://cdn.hackernoon.com/images/deploying-a-spaceship-into-outer-space-zme3qt4068xn8vtg63s31u29.png)
 The steps to upgrade are:
 Check what versions are being used.
@@ -301,6 +296,15 @@ Check what is the target version.
 Check the plan.
 Upgrade kubeadm.
 Upgrade kubelet.
+
+### [72. Setting Up and Managing a Kubernetes Cluster with Kubeadm](https://hackernoon.com/setting-up-and-managing-a-kubernetes-cluster-with-kubeadm)
+![](https://cdn.hackernoon.com/images/containers-tk196ofbl68zspzcqctuzw42.png)
+In this tutorial, we'll explore everything you need to know about Kubeadm commands and how to use them to create & manage cluster components in Kubernetes. 
+
+### [73. Your Serverless Guide is Ready](https://hackernoon.com/your-serverless-guide-is-ready-bc2i33gz)
+![](https://cdn.hackernoon.com/images/vI89MS8Ou8OYOnT4ESBSH9HkCrz2-h23c33va.jpeg)
+Learn everything you need to know about Serverless, including case studies, essential concepts, guidelines, and best practices.
+
 
 ### [74. A Guide to Taints and Tolerations, Node Affinity and Node Selector](https://hackernoon.com/a-guide-to-taints-and-tolerations-node-affinity-and-node-selector)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-a092gt5.png)
@@ -330,13 +334,13 @@ Managed Kubernetes is experiencing massive growth in adoption and many organizat
 ![](https://cdn.hackernoon.com/images/eZLaaX4pv3hXfgmMhUJ311PQUNJ2-ovc3ucc.jpeg)
 Application migration to Kubernetes is a hot topic today. I discuss 8 things developers forget during migration to Kubernetes and how to deal quickly with them.
 
-### [81. We're The DevOps Workflow You Were Promised](https://hackernoon.com/were-the-devops-workflow-you-were-promised-i43y33k6)
-![](https://cdn.hackernoon.com/images/19X8ryJRpnWHoRC3YXWrOhkPeF43-0s2h3fac.png)
-host a monolith or microservice-based application; enterprises can layer the platform into their own private cloud cluster on kubernetes
-
-### [82. Distributed Tracing: Past, Present and Future](https://hackernoon.com/distributed-tracing-past-present-and-future)
+### [81. Distributed Tracing: Past, Present and Future](https://hackernoon.com/distributed-tracing-past-present-and-future)
 ![](https://cdn.hackernoon.com/images/0n1tzidZkxMWWQApOm4lqzRXBEC2-aa93rse.jpeg)
 Distributed Tracing is a divisive topic. Once the doyen of every KubeCon, the technology was expected to revolutionize observability.
+
+### [82. We're The DevOps Workflow You Were Promised](https://hackernoon.com/were-the-devops-workflow-you-were-promised-i43y33k6)
+![](https://cdn.hackernoon.com/images/19X8ryJRpnWHoRC3YXWrOhkPeF43-0s2h3fac.png)
+host a monolith or microservice-based application; enterprises can layer the platform into their own private cloud cluster on kubernetes
 
 ### [83. Doing First Steps with the Kubernetes Operator ](https://hackernoon.com/doing-first-steps-with-the-kubernetes-operator-ovgp3yq9)
 ![](https://cdn.hackernoon.com/images/ag4lw3ycg.jpg)
@@ -366,13 +370,13 @@ This guide is for freelancers and small teams who need reliable, inexpensive del
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-zb1s3unq.jpeg?alt=media&token=06d3132c-6845-41f2-b259-b9b42b51efd4)
 Intro
 
-### [90. Kubernetes Tutorial: Merge all the Kubeconfigs! [Part 7]](https://hackernoon.com/kubernetes-tutorial-merge-all-the-kubeconfigs-part-7-qi1a31fd)
-![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-04p31xn.png)
-Once you start managing more than one Kubernetes cluster, you'll start to demand more from your $KUBECONFIG. 
-
-### [91. Common Kubernetes Errors and How to Fix Them](https://hackernoon.com/common-kubernetes-errors-and-how-to-fix-them)
+### [90. Common Kubernetes Errors and How to Fix Them](https://hackernoon.com/common-kubernetes-errors-and-how-to-fix-them)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-ol92rd8.jpeg)
 Discover effective solutions to common Kubernetes errors. Learn troubleshooting tips for configuration issues, image pull errors, node problems & more
+
+### [91. Kubernetes Tutorial: Merge all the Kubeconfigs! [Part 7]](https://hackernoon.com/kubernetes-tutorial-merge-all-the-kubeconfigs-part-7-qi1a31fd)
+![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-04p31xn.png)
+Once you start managing more than one Kubernetes cluster, you'll start to demand more from your $KUBECONFIG. 
 
 ### [92. Inside Kubernetes Scheduling: How Your Pods Fight for a Place to Exist](https://hackernoon.com/inside-kubernetes-scheduling-how-your-pods-fight-for-a-place-to-exist)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-pv02tw6.jpeg)
@@ -382,13 +386,13 @@ Avoid shooting yourself in the foot by understanding widely misunderstood things
 ![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-a9a3i8i.jpeg)
 Kubernetes has become the de-facto standard for managing containerized applications. However, this usage also led to an increased attack surface for K8s. 
 
-### [94. Connecting Dots: Go, Docker and k8s [Part 2]](https://hackernoon.com/connecting-dots-go-docker-and-k8s-part-2-9b7234zn)
-![](https://cdn.hackernoon.com/images/VZCQ0e1Yv2eJAMyEidHksLMysJ73-zzcc36ju.jpeg)
-Nowadays, the successful application often consists of containers and some sort of container management system to ease scaling, reduce downtime, and more.
-
-### [95. An Overview of Kubernetes Security Projects at KubeCon Europe 2023](https://hackernoon.com/an-overview-of-kubernetes-security-projects-at-kubecon-europe-2023)
+### [94. An Overview of Kubernetes Security Projects at KubeCon Europe 2023](https://hackernoon.com/an-overview-of-kubernetes-security-projects-at-kubecon-europe-2023)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-kr930gp.jpeg)
 Kubernetes security is more important than ever, and should be top-of-mind for most teams. Let’s walk through the latest in k8s security solutions from KubeCon.
+
+### [95. Connecting Dots: Go, Docker and k8s [Part 2]](https://hackernoon.com/connecting-dots-go-docker-and-k8s-part-2-9b7234zn)
+![](https://cdn.hackernoon.com/images/VZCQ0e1Yv2eJAMyEidHksLMysJ73-zzcc36ju.jpeg)
+Nowadays, the successful application often consists of containers and some sort of container management system to ease scaling, reduce downtime, and more.
 
 ### [96. Exploring an Open Source Toolkit for Debugging Kubernetes - KoolKits](https://hackernoon.com/exploring-an-open-source-toolkit-for-debugging-kubernetes-koolkits)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-ao92i9t.jpeg)
@@ -426,13 +430,13 @@ Did you know that 90% of applications have 5x more resources than they actually 
 ![](https://images.unsplash.com/photo-1445711005973-54fe2a103826?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 As Kubernetes turns five, we explore the changing face of DevOps in the k8s world.
 
-### [105. Overcoming Challenges in Software Development With Containerization and Orchestration](https://hackernoon.com/overcoming-challenges-in-software-development-with-containerization-and-orchestration)
-![](https://cdn.hackernoon.com/images/PCbcBE4qdvPypLSi23p0GRVQw5W2-5682wgf.jpeg)
-Embark on a journey to seamless software development! Discover effective strategies for overcoming hurdles with containerization and orchestration.
-
-### [106. Kubernetes' Impact on Development](https://hackernoon.com/kubernetes-impact-on-development)
+### [105. Kubernetes' Impact on Development](https://hackernoon.com/kubernetes-impact-on-development)
 ![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-m293jk6.jpeg)
 Kubernetes is the reason containerization has garnered acceptance among enterprises. Whether you like it or not, it has made your life as a developer easy.
+
+### [106. Overcoming Challenges in Software Development With Containerization and Orchestration](https://hackernoon.com/overcoming-challenges-in-software-development-with-containerization-and-orchestration)
+![](https://cdn.hackernoon.com/images/PCbcBE4qdvPypLSi23p0GRVQw5W2-5682wgf.jpeg)
+Embark on a journey to seamless software development! Discover effective strategies for overcoming hurdles with containerization and orchestration.
 
 ### [107. Beginner's Guide To Telepresence: Develop Your K8s Application Locally ](https://hackernoon.com/beginners-guide-to-telepresence-develop-your-k8s-application-locally-mp2531md)
 ![](https://cdn.hackernoon.com/images/Bb1OZNoTnudArUI5AWZzmwrQ5cT2-082n32y4.jpeg)
@@ -450,22 +454,22 @@ If you have embraced the concept of cloud-native computing and principles, you a
 ![](https://cdn.hackernoon.com/images/QZPDOx2fPXgPotcyq5iL0vPtza53-f533ap1.jpeg)
 "I have to use the test environment for a integration test project at 2-3 pm, please don't publish during that time!" 
 
-### [111. Accessing Kubernetes Using Expose API and User Interface Using Sidecar Pattern](https://hackernoon.com/accessing-kubernetes-using-expose-api-and-user-interface-using-sidecar-pattern-9wh13yc5)
-![](https://cdn.hackernoon.com/drafts/hl3v3yho.png)
-Kubernetes is an open-source container-orchestration system for automating application deployment, scaling, and management.
-
-### [112. Navigate Your Way to Production Bliss with Caretta](https://hackernoon.com/navigate-your-way-to-production-bliss-with-caretta)
-![](https://cdn.hackernoon.com/images/3wf1bgnyOMUz8CdPTK5dQJ0Wu712-6pd3on6.jpeg)
-The easiest way to map our cluster: Caretta - a standalone OSS tool, leveraging eBPF technology to be lightweight and frictionless
-
-### [113. How to Deploy Mancala With Minikube - A Beginner's guide](https://hackernoon.com/how-to-deploy-mancala-with-minikube-a-beginners-guide)
-![](https://cdn.hackernoon.com/images/XKjmz9tZa8XTDU9MqcuFluHFxfj2-l7022yv.jpeg)
-What is minikube and how is it related to Kubernetes, which we frequently name k8s?
-
-### [114. Reducing Kubernetes Costs](https://hackernoon.com/reducing-kubernetes-costs)
+### [111. Reducing Kubernetes Costs](https://hackernoon.com/reducing-kubernetes-costs)
 ![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-qx13g3r.jpeg)
 Kubernetes has become the de-facto choice for most users and one aspect that any Kubernetes administrator must look into is managing Kubernetes costs.
 
+
+### [112. How to Deploy Mancala With Minikube - A Beginner's guide](https://hackernoon.com/how-to-deploy-mancala-with-minikube-a-beginners-guide)
+![](https://cdn.hackernoon.com/images/XKjmz9tZa8XTDU9MqcuFluHFxfj2-l7022yv.jpeg)
+What is minikube and how is it related to Kubernetes, which we frequently name k8s?
+
+### [113. Accessing Kubernetes Using Expose API and User Interface Using Sidecar Pattern](https://hackernoon.com/accessing-kubernetes-using-expose-api-and-user-interface-using-sidecar-pattern-9wh13yc5)
+![](https://cdn.hackernoon.com/drafts/hl3v3yho.png)
+Kubernetes is an open-source container-orchestration system for automating application deployment, scaling, and management.
+
+### [114. Navigate Your Way to Production Bliss with Caretta](https://hackernoon.com/navigate-your-way-to-production-bliss-with-caretta)
+![](https://cdn.hackernoon.com/images/3wf1bgnyOMUz8CdPTK5dQJ0Wu712-6pd3on6.jpeg)
+The easiest way to map our cluster: Caretta - a standalone OSS tool, leveraging eBPF technology to be lightweight and frictionless
 
 ### [115. Eliminate Friction in App Delivery to Kubernetes](https://hackernoon.com/eliminate-friction-in-app-delivery-to-kubernetes-gj15321r)
 ![](https://cdn.hackernoon.com/drafts/zy4s32zr.png)
@@ -475,19 +479,23 @@ The last two decades have seen a sea change in the way software is written and d
 ![](https://cdn.hackernoon.com/images/R1AMWjlkESMsBTABP2mKihc858n2-yl6b24xy.gif)
 Kubectl cost is an open source kubectl plugin designed for those who interact regulary with Kubernetes and need to control the costs of their infrastructure.
 
-### [117. Using Codeship to Deploy a Dotnet app on Oracle Kubernetes ](https://hackernoon.com/using-codeship-to-deploy-a-dotnet-app-on-oracle-kubernetes-eo943y5m)
-![](https://images.unsplash.com/photo-1530890448995-4d82724f702c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-So, I was looking at an alternative to Azure DevOps and Jenkins to build a CI CD pipeline for a new project.  A friend had asked me for a recommendation. His wanted to host microservices in Oracle Kubernetes Service. 
-
-### [118. Kubernetes Explained Simply: Data Extraction With JSON Path [Part 8]](https://hackernoon.com/kubernetes-explained-simply-data-extraction-with-json-path-part-8-wd1031k0)
+### [117. Kubernetes Explained Simply: Data Extraction With JSON Path [Part 8]](https://hackernoon.com/kubernetes-explained-simply-data-extraction-with-json-path-part-8-wd1031k0)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-cll3143.jpeg)
 kubectl can pull a lot of data about our deployments and pod.  Most of the time, we humans are the recipients of that information, and kubectl obliges by nicely formatting things in pretty tables.
 
-### [119. Overcoming Challenges Running the Disaggregated Analytics Stack in K8s](https://hackernoon.com/overcoming-challenges-running-the-disaggregated-analytics-stack-in-k8s)
-![](https://cdn.hackernoon.com/images/MEO1Whp7pdbY2Fmqr6xMgItyqS23-t1135c6.jpeg)
-Alluxio brings back data locality for the disaggregated analytics stack in K8s.
+### [118. Using Codeship to Deploy a Dotnet app on Oracle Kubernetes ](https://hackernoon.com/using-codeship-to-deploy-a-dotnet-app-on-oracle-kubernetes-eo943y5m)
+![](https://images.unsplash.com/photo-1530890448995-4d82724f702c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+So, I was looking at an alternative to Azure DevOps and Jenkins to build a CI CD pipeline for a new project.  A friend had asked me for a recommendation. His wanted to host microservices in Oracle Kubernetes Service. 
 
-### [120. How The NSA Says You Should Secure Kubernetes](https://hackernoon.com/how-the-nsa-says-you-should-secure-kubernetes)
+### [119. How The NSA Says You Should Secure Kubernetes](https://hackernoon.com/how-the-nsa-says-you-should-secure-kubernetes)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-sja3i4v.jpeg)
 Security has become a primary consideration for any technological solution. Here are the NSA's recommendations for securing Kubernetes against hackers.
+
+### [120. Why Rebuilding Infrastructure Beats Upgrading It](https://hackernoon.com/why-rebuilding-infrastructure-beats-upgrading-it)
+![](https://cdn.hackernoon.com/images/Qzv3QWeOZubTntN1nWswOvzChUd2-g392cj6.png)
+Build infrastructure that can burn down and bounce back. A guide to Minimal Viable Kubernetes.
+
+### [121. Overcoming Challenges Running the Disaggregated Analytics Stack in K8s](https://hackernoon.com/overcoming-challenges-running-the-disaggregated-analytics-stack-in-k8s)
+![](https://cdn.hackernoon.com/images/MEO1Whp7pdbY2Fmqr6xMgItyqS23-t1135c6.jpeg)
+Alluxio brings back data locality for the disaggregated analytics stack in K8s.
 

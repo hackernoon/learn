@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [react-hooks](https://hackernoon.com/tagged/react-hooks)
+### Let's learn about [React Hooks](https://hackernoon.com/tagged/react-hooks) via these 55 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+React Hooks are functions that let you
+
 ### [1. Cleanup Functions in React’s UseEffect Hook — Explained with examples](https://hackernoon.com/cleanup-functions-in-reacts-useeffect-hook-explained)
 ![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-owa3u68.jpeg)
 Cleanup functions in React’s useEffect hook allow us to stop side effects that no longer need to be executed in the component.
@@ -95,14 +99,14 @@ In this post, I will share my own point of view about React Hooks, and as the ti
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ma93pmc.png)
 A complete guide for using React's useEffect hook
 
-### [24. How to Learn Enough React to be Dangerous](https://hackernoon.com/how-to-learn-enough-react-to-be-dangerous)
+### [24. Infinite Scrolling vs Pagination: Making the Right Choice for React Apps](https://hackernoon.com/infinite-scrolling-vs-pagination-making-the-right-choice-for-react-apps)
+![](https://cdn.hackernoon.com/images/vcNYDkWp01cxcapxGeAByVkmA6j1-kj837ri.jpeg)
+Though infinite scrolling & pagination offer viable options for handling large datasets in React applications, check here what suites you best.
+
+### [25. How to Learn Enough React to be Dangerous](https://hackernoon.com/how-to-learn-enough-react-to-be-dangerous)
 ![](https://cdn.hackernoon.com/images/aMtiSULDw4Tkj5LGaCQak8Pcy4D2-i0038fs.jpeg)
 Most of React courses are outdated. Best up to date resources to learn React in 2021 NetNinja Codeevolution.
 Focus on Hooks and functional components
-
-### [25. Infinite Scrolling vs Pagination: Making the Right Choice for React Apps](https://hackernoon.com/infinite-scrolling-vs-pagination-making-the-right-choice-for-react-apps)
-![](https://cdn.hackernoon.com/images/vcNYDkWp01cxcapxGeAByVkmA6j1-kj837ri.jpeg)
-Though infinite scrolling & pagination offer viable options for handling large datasets in React applications, check here what suites you best.
 
 ### [26. Guide to React Suspense: From Code Splitting to Data Fetching](https://hackernoon.com/the-evolution-of-react-suspense-from-code-splitting-to-data-fetching)
 ![](https://cdn.hackernoon.com/images/TU75aLEAtQahH1ixBhcEmzyyikA2-zy93xia.jpeg)
@@ -160,13 +164,13 @@ Search and filter data using React Hooks and a headless CMS. Searching and filte
 ![](https://cdn.hackernoon.com/images/f8MmnSz4wNTrkyqZnPESxfuXyH93-wz93pml.jpeg)
 The Svix React library now ships with custom React Hooks to make building a custom Portal easier than ever.
 
-### [40. Introduction to React Hooks and Why They are the Wrong Abstraction ](https://hackernoon.com/introduction-to-react-hooks-and-why-they-are-the-wrong-abstraction-ut3m346l)
-![](https://cdn.hackernoon.com/images/0ZS6gkHLHSOQYYrvGTP2fNuXbjK2-8m531dq.png)
-Before I get started, I'd like to express how grateful I am for all of the work that the React team has put in over the years. They've created an awesome framework that in many ways was my introduction to the modern web. They have paved the path for me to believe the ideas I'm about to present and I would not have arrived at these conclusions without their ingenuity.
-
-### [41. 10 GitHub Repositories to Become a React Master](https://hackernoon.com/10-github-repositories-to-become-a-react-master)
+### [40. 10 GitHub Repositories to Become a React Master](https://hackernoon.com/10-github-repositories-to-become-a-react-master)
 ![](https://cdn.hackernoon.com/images/3fqF3O1TlWgiNvnKd6ig6aFrCtW2-zu027ia.jpeg)
 We've curated a list of ten outstanding GitHub repositories that will not only enhance your understanding of React but also empower you to become a React master
+
+### [41. Introduction to React Hooks and Why They are the Wrong Abstraction ](https://hackernoon.com/introduction-to-react-hooks-and-why-they-are-the-wrong-abstraction-ut3m346l)
+![](https://cdn.hackernoon.com/images/0ZS6gkHLHSOQYYrvGTP2fNuXbjK2-8m531dq.png)
+Before I get started, I'd like to express how grateful I am for all of the work that the React team has put in over the years. They've created an awesome framework that in many ways was my introduction to the modern web. They have paved the path for me to believe the ideas I'm about to present and I would not have arrived at these conclusions without their ingenuity.
 
 ### [42. Basic Hooks for Your TypeScript Project](https://hackernoon.com/basic-hooks-for-your-typescript-project)
 ![](https://cdn.hackernoon.com/images/yQlDE7WyH8agYkQFBq6KSDhPamH3-pd94z6w.jpeg)
@@ -200,13 +204,13 @@ Explore how the useEffect hook affects React performance. Learn why it runs afte
 ![](https://cdn.hackernoon.com/images/jgvl75J01zfc9i0NsYvVgqlVkkh2-3mm35sg.jpeg)
 React hooks for forms state and validation, less code more performant.
 
-### [50. How to Enhance React Apps with useTransition Hook](https://hackernoon.com/how-to-enhance-react-apps-with-usetransition-hook)
-![](https://cdn.hackernoon.com/images/dkzJZ83XCqhO5s4yM35QdqYRZ5M2-3m82w7o.png)
-The useTransition hook in React helps manage state updates with a focus on user experience.
-
-### [51. Every Popular React Pattern You Should Know About](https://hackernoon.com/every-popular-react-pattern-you-should-know-about)
+### [50. Every Popular React Pattern You Should Know About](https://hackernoon.com/every-popular-react-pattern-you-should-know-about)
 ![](https://cdn.hackernoon.com/images/8XtM8r0lzANdAd9sFAfeXD2u6M92-9p030kl.webp)
 Learn the most effective React patterns — from HOCs and Render Props to Hooks, Compound Components, Suspense, and Server Components.
+
+### [51. How to Enhance React Apps with useTransition Hook](https://hackernoon.com/how-to-enhance-react-apps-with-usetransition-hook)
+![](https://cdn.hackernoon.com/images/dkzJZ83XCqhO5s4yM35QdqYRZ5M2-3m82w7o.png)
+The useTransition hook in React helps manage state updates with a focus on user experience.
 
 ### [52. Guide to Concurrency in React 18: How and Why](https://hackernoon.com/guide-to-concurrency-in-react-18-how-and-why)
 ![](https://cdn.hackernoon.com/images/TU75aLEAtQahH1ixBhcEmzyyikA2-aob34lc.jpeg)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [excel](https://hackernoon.com/tagged/excel)
+### Let's learn about [Excel](https://hackernoon.com/tagged/excel) via these 72 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Excel is a powerful spreadsheet program by Microsoft, used for data organization, analysis, calculations, and visualization. Excel remains an indispensable tool across industries for everything from financial modeling to project management and data reporting.
+
 ### [1. How to Create Word Documents Within Excel VBA](https://hackernoon.com/how-to-create-word-documents-within-excel-vba-d13333jl)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-w84e285l.jpeg)
 By the end of this article, you’ll be able to create Word documents from within Excel VBA.
@@ -13,13 +17,13 @@ How to get data from API JSON in Excel table with the simplest tutorial with for
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F57hg4kRJb1UsWAKAbul46qUSHw42-btaf25uz.jpeg?alt=media&token=f8fb8422-913e-490b-82f9-dc608e8c336e)
 An accessible introduction to ML - no programming or math required. By the end of this tutorial, you’ll have implemented your first algorithm without touching a single line of code. You’ll use Machine Learning techniques to classify real data using basic functions in Excel. You don’t have to be a genius or a programmer to understand machine learning. Despite the popularized applications of self-driving cars, killer robots, and facial recognition, the foundations of machine learning (ML) are quite simple. This is a chance to get your feet wet and understand the power of these new techniques.
 
-### [4. The Top Java Excel API Libraries](https://hackernoon.com/the-top-java-excel-api-libraries)
-![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-1l0338w.png)
-Explore the top Java Excel API Libraries and their notable features for your applications in this review of leading options.
-
-### [5. The Top C# .NET Spreadsheets](https://hackernoon.com/the-top-c-net-spreadsheets)
+### [4. The Top C# .NET Spreadsheets](https://hackernoon.com/the-top-c-net-spreadsheets)
 ![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-qs0348t.png)
 Explore the top C# .NET spreadsheets and their notable features for your applications in this review of leading options.
+
+### [5. The Top Java Excel API Libraries](https://hackernoon.com/the-top-java-excel-api-libraries)
+![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-1l0338w.png)
+Explore the top Java Excel API Libraries and their notable features for your applications in this review of leading options.
 
 ### [6. My Favorite Free Excel Courses for Programmers, Data Analysts, and IT Professionals](https://hackernoon.com/my-favorite-free-excel-courses-for-programmers-data-analysts-and-it-professionals)
 ![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-2l03g7a.jpeg)
@@ -65,67 +69,67 @@ Antonio Reza gives you the best Excel tips to become a verified pro.
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBj8AxZbmqwQUNAOela0UGCyV6VJ3-op3r3wcw.jpeg?alt=media&token=44bc6be4-473c-497d-a4cb-290aa30a3525)
 Excel offers a huge variety of features and functions that can improve the ability to perform tasks daily. It does not matter that you are a business owner or an office worker, or any casual Excel user, these 10 Excel functions will definitely benefit your performance on Excel spreadsheets. This article will work like Excel training for you because many Excel tutorials and Excel certification include these functions in their courses.
 
-### [17. My Favorite Free Tutorials to Learn Microsoft Excel in Depth](https://hackernoon.com/my-favorite-free-tutorials-to-learn-microsoft-excel-in-depth)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-hl92f23.jpeg)
-Want to learn Microsoft Excel in-depth and need free resources? I have created a list of the best free Excel courses from sites like Udemy and Coursera. 
-
-### [18. Excel Hack: How to Get Currency Data in Excel](https://hackernoon.com/excel-hack-how-to-get-currency-data-in-excel)
-![](https://cdn.hackernoon.com/images/VY9SO7G0uGMU8XepKKdNpCmZ6Fl2-ksb3kwe.jpeg)
-If you want to convert currency data in Excel, here is a step-by-step guide for you using the Excel Stocks function.
-
-### [19. The Fastest Way to Become A Professional Data Analyst](https://hackernoon.com/the-fastest-way-to-become-a-professional-data-analyst)
-![](https://cdn.hackernoon.com/images/the-fastest-way-to-become-a-professional-data-analyst-clctmntv2000001s62z2g6m02.png)
-Sharyph, a tech writer, goes over how to become a professional data analyst.
-
-### [20. How to Send a Text Message Over Excel like Kelly Rowland](https://hackernoon.com/how-to-send-a-text-message-over-excel-like-kelly-rowland-c71v3ek4)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F48P1BGNiO9hj3PMG8bJ4ioujWRo2-z02e3wkp.jpeg?alt=media&token=bcaf53d8-3ef6-4ad5-ba71-64be03a891ed)
-In 2002, Hip Hop and Pop artists, Nelly and Kelly Rowland collaborated and came out with the smooth R&B classic - Dilemma.
-
-### [21. Excel DAYS Function Explained: Calculating Date Differences Between Two Dates!](https://hackernoon.com/excel-days-function-explained-calculating-date-differences-between-two-dates)
-![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-45039op.png)
-DAYS function in Excel is used to calculate the number of days between two dates. 
-
-### [22. Excel Formulas for Assigning Categories by Value Range Using Functions!](https://hackernoon.com/excel-formulas-for-assigning-categories-by-value-range-using-functions)
+### [17. Excel Formulas for Assigning Categories by Value Range Using Functions!](https://hackernoon.com/excel-formulas-for-assigning-categories-by-value-range-using-functions)
 ![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-xt0390u.webp)
 Assigning a category based on a number range is a common practice everywhere in schools, colleges, and offices.
 
-### [23. Top 10 Favorite Google Sheets Features for Everyday Work](https://hackernoon.com/top-10-favorite-google-sheets-features-for-everyday-work)
-![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-xb824pp.jpeg)
-Boost your Google Sheets productivity with ten features proven to help your everyday work.
+### [18. My Favorite Free Tutorials to Learn Microsoft Excel in Depth](https://hackernoon.com/my-favorite-free-tutorials-to-learn-microsoft-excel-in-depth)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-hl92f23.jpeg)
+Want to learn Microsoft Excel in-depth and need free resources? I have created a list of the best free Excel courses from sites like Udemy and Coursera. 
 
-### [24. Excel Dates Showing Numbers? Here's the Quick Fix](https://hackernoon.com/excel-dates-showing-numbers-heres-the-quick-fix)
+### [19. Excel Hack: How to Get Currency Data in Excel](https://hackernoon.com/excel-hack-how-to-get-currency-data-in-excel)
+![](https://cdn.hackernoon.com/images/VY9SO7G0uGMU8XepKKdNpCmZ6Fl2-ksb3kwe.jpeg)
+If you want to convert currency data in Excel, here is a step-by-step guide for you using the Excel Stocks function.
+
+### [20. The Fastest Way to Become A Professional Data Analyst](https://hackernoon.com/the-fastest-way-to-become-a-professional-data-analyst)
+![](https://cdn.hackernoon.com/images/the-fastest-way-to-become-a-professional-data-analyst-clctmntv2000001s62z2g6m02.png)
+Sharyph, a tech writer, goes over how to become a professional data analyst.
+
+### [21. How to Send a Text Message Over Excel like Kelly Rowland](https://hackernoon.com/how-to-send-a-text-message-over-excel-like-kelly-rowland-c71v3ek4)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F48P1BGNiO9hj3PMG8bJ4ioujWRo2-z02e3wkp.jpeg?alt=media&token=bcaf53d8-3ef6-4ad5-ba71-64be03a891ed)
+In 2002, Hip Hop and Pop artists, Nelly and Kelly Rowland collaborated and came out with the smooth R&B classic - Dilemma.
+
+### [22. Excel DAYS Function Explained: Calculating Date Differences Between Two Dates!](https://hackernoon.com/excel-days-function-explained-calculating-date-differences-between-two-dates)
+![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-45039op.png)
+DAYS function in Excel is used to calculate the number of days between two dates. 
+
+### [23. Excel Dates Showing Numbers? Here's the Quick Fix](https://hackernoon.com/excel-dates-showing-numbers-heres-the-quick-fix)
 ![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-pq038mz.png)
 Fix Excel Date Serial Number Formatting Issue. By default, Excel stores Dates as Serial Numbers starting from January 01, 1990.
 
-### [25. Using SheetGPT to Create Meta Descriptions for Your Website](https://hackernoon.com/using-sheetgpt-to-create-meta-descriptions-for-your-website)
+### [24. Top 10 Favorite Google Sheets Features for Everyday Work](https://hackernoon.com/top-10-favorite-google-sheets-features-for-everyday-work)
+![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-xb824pp.jpeg)
+Boost your Google Sheets productivity with ten features proven to help your everyday work.
+
+### [25. How to Extract the Year From Any Date in Excel Using the YEAR Function Effortlessly?](https://hackernoon.com/how-to-extract-the-year-from-any-date-in-excel-using-the-year-function-effortlessly)
+![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-nm2393j.webp)
+The YEAR function in excel will return the year value in 4 digits from the given input date. The YEAR function was introduced in Excel version 1.0.
+
+### [26. Using SheetGPT to Create Meta Descriptions for Your Website](https://hackernoon.com/using-sheetgpt-to-create-meta-descriptions-for-your-website)
 ![](https://cdn.hackernoon.com/images/ROJuYTNIbIfA2mL4JGsjtQ3IWFf2-d3831bb.jpeg)
 Revolutionize e-commerce meta descriptions creation using SheetGPT's integration with Google Sheets. Quickly generate and optimize hundreds of meta descriptions
 
-### [26. 5 Excel Features That Can Grow Your Net Worth in No Time](https://hackernoon.com/5-excel-features-that-can-grow-your-net-worth-in-no-time)
+### [27. 5 Excel Features That Can Grow Your Net Worth in No Time](https://hackernoon.com/5-excel-features-that-can-grow-your-net-worth-in-no-time)
 ![](https://cdn.hackernoon.com/images/jAe8nDJHWuhNTYfeZVmoqHUgxXz2-1i93ppy.jpeg)
 Excel is not only an accounting tool, but also an amazing personal finance tool.
-
-### [27. Mastering Excel Functions for Data Analysis](https://hackernoon.com/mastering-excel-functions-for-data-analysis)
-![](https://cdn.hackernoon.com/images/oEqZYouq78RAW0uvsmsGZcAQCXR2-n993ybs.jpeg)
-Learn how to harness the power of Excel for your data-driven success with this comprehensive guide.
-
-
 
 ### [28. Python Prevails: 57% Choose Python As Their Go-to Data Science Tool](https://hackernoon.com/python-prevails-57percent-choose-python-as-their-go-to-data-science-tool)
 ![](https://cdn.hackernoon.com/images/Xc0KXgvV5JdgW2DnkpC3TTUBpoY2-2c93p4u.jpeg)
 Data science uses advanced tools to extract meaning and answers from data through various programming, statistic, and communicative mechanisms. 
 
-### [29. Top 25 Microsoft Excel Tips That Will  Put You in the Top 1%](https://hackernoon.com/top-25-microsoft-excel-tips-that-will-put-you-in-the-top-1percent)
+### [29. Mastering Excel Functions for Data Analysis](https://hackernoon.com/mastering-excel-functions-for-data-analysis)
+![](https://cdn.hackernoon.com/images/oEqZYouq78RAW0uvsmsGZcAQCXR2-n993ybs.jpeg)
+Learn how to harness the power of Excel for your data-driven success with this comprehensive guide.
+
+
+
+### [30. Top 25 Microsoft Excel Tips That Will  Put You in the Top 1%](https://hackernoon.com/top-25-microsoft-excel-tips-that-will-put-you-in-the-top-1percent)
 ![](https://cdn.hackernoon.com/images/jAe8nDJHWuhNTYfeZVmoqHUgxXz2-ay93pl0.jpeg)
 Top 25 Microsoft Excel Tips That Will  Put You in the Top 1%
 
-### [30. Spreadsheets Don't Scale Well: Here's How 3 Startups Have Overcome Those Limitations ](https://hackernoon.com/spreadsheets-dont-scale-well-heres-how-3-startups-have-overcome-the-limitations-ka5332dj)
+### [31. Spreadsheets Don't Scale Well: Here's How 3 Startups Have Overcome Those Limitations ](https://hackernoon.com/spreadsheets-dont-scale-well-heres-how-3-startups-have-overcome-the-limitations-ka5332dj)
 ![](https://cdn.hackernoon.com/images/b2w3y6x.jpg)
 Spreadsheets are the versatile go-to for a wide array of business practices. Companies use them for everything from finance to marketing analytics. "Just use Excel" has even been the go-to battle cry of data scientists who are frustrated by watching companies waste billions of dollars trying to ramp up analytics programs that they're not ready for. 
-
-### [31. How to Extract the Year From Any Date in Excel Using the YEAR Function Effortlessly?](https://hackernoon.com/how-to-extract-the-year-from-any-date-in-excel-using-the-year-function-effortlessly)
-![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-nm2393j.webp)
-The YEAR function in excel will return the year value in 4 digits from the given input date. The YEAR function was introduced in Excel version 1.0.
 
 ### [32. Is Excel a Security Risk?](https://hackernoon.com/is-excel-a-security-risk)
 ![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-fd93pqo.jpeg)
@@ -156,13 +160,13 @@ If you use Microsoft Word and Excel frequently, you might have repeatedly had th
 ![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-ur9349k.jpeg)
 Learn how GcExcel helps to ensure your application’s code security in these 5 ways!
 
-### [39. Using Minute Function to Extract Minutes From  Input Time Like a Pro](https://hackernoon.com/using-minute-function-to-extract-minutes-from-input-time-like-a-pro)
-![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-0i0392w.webp)
-The MINUTE function is used to extract the minute portion from a given input time value and returns the output as the numerical value.
-
-### [40. Quickly Extract Month Values in Excel with the MONTH Function](https://hackernoon.com/quickly-extract-month-values-in-excel-with-the-month-function)
+### [39. Quickly Extract Month Values in Excel with the MONTH Function](https://hackernoon.com/quickly-extract-month-values-in-excel-with-the-month-function)
 ![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-jq0390o.webp)
 The MONTH function in Excel is used to extract the month number (1 to 12) from a given input date.
+
+### [40. Using Minute Function to Extract Minutes From  Input Time Like a Pro](https://hackernoon.com/using-minute-function-to-extract-minutes-from-input-time-like-a-pro)
+![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-0i0392w.webp)
+The MINUTE function is used to extract the minute portion from a given input time value and returns the output as the numerical value.
 
 ### [41. Excel NOW Function: Real-Time Date & Time in Your Sheets](https://hackernoon.com/excel-now-function-real-time-date-and-time-in-your-sheets)
 ![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-u7039dw.webp)
@@ -188,37 +192,37 @@ Learn how you can create detailed graphs, extensive spreadsheets, and other Exce
 ![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-ij039pw.png)
 DAYS function in Excel is used to calculate the number of days between two dates. It is supported in all modern versions of Excel.
 
-### [47. This Tool Unlocks Unlimited Free Data for Testing, Prototyping, and Demos](https://hackernoon.com/this-tool-unlocks-unlimited-free-data-for-testing-prototyping-and-demos)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gp02ujv.jpeg)
-Bloomer mock tool can generate random mock customised data for free. No limit on number of records that can be generated. 
-
-### [48. Augmented Analytics & Data Storytelling: Covid Ups FP&A Demand](https://hackernoon.com/augmented-analytics-and-data-storytelling-covid-ups-fpanda-demand-w9293tin)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-3sb3tpy.jpeg?alt=media&token=8f4988cc-b1f1-400c-af1a-0e515add3366)
-Businesses need agile tools to quickly identify and communicate actionable insights for more informed decision-making.
-
-### [49. Here's How to Use Excel's EDATE Function to Return a Specific Date In the Past or Future](https://hackernoon.com/heres-how-to-use-excels-edate-function-to-return-a-specific-date-in-the-past-or-future)
+### [47. Here's How to Use Excel's EDATE Function to Return a Specific Date In the Past or Future](https://hackernoon.com/heres-how-to-use-excels-edate-function-to-return-a-specific-date-in-the-past-or-future)
 ![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-9u038l8.png)
 EDATE Function returns a date that is a specified number of months before or after a given start date.
 
-### [50. 7 Essential Things in Excel That You Definitely Need to Master](https://hackernoon.com/7-essential-things-in-excel-that-you-definitely-need-to-master)
-![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-ru831ui.jpeg)
- Learn essential features for efficient data analysis and boost your professional productivity in Excel.
-
-### [51. How to Convert Radians to Degrees in Excel Using Simple Formulas](https://hackernoon.com/how-to-convert-radians-to-degrees-in-excel-using-simple-formulas)
+### [48. How to Convert Radians to Degrees in Excel Using Simple Formulas](https://hackernoon.com/how-to-convert-radians-to-degrees-in-excel-using-simple-formulas)
 ![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-aq339gm.webp)
 In Excel, the RADIANS function directly converts a given degree value into its equivalent radian value. By default, the RADiANS function in Excel
 
-### [52. How to Export Your Data from WordPress](https://hackernoon.com/how-to-export-your-data-from-wordpress-io1p33u7)
+### [49. Augmented Analytics & Data Storytelling: Covid Ups FP&A Demand](https://hackernoon.com/augmented-analytics-and-data-storytelling-covid-ups-fpanda-demand-w9293tin)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-3sb3tpy.jpeg?alt=media&token=8f4988cc-b1f1-400c-af1a-0e515add3366)
+Businesses need agile tools to quickly identify and communicate actionable insights for more informed decision-making.
+
+### [50. This Tool Unlocks Unlimited Free Data for Testing, Prototyping, and Demos](https://hackernoon.com/this-tool-unlocks-unlimited-free-data-for-testing-prototyping-and-demos)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gp02ujv.jpeg)
+Bloomer mock tool can generate random mock customised data for free. No limit on number of records that can be generated. 
+
+### [51. 7 Essential Things in Excel That You Definitely Need to Master](https://hackernoon.com/7-essential-things-in-excel-that-you-definitely-need-to-master)
+![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-ru831ui.jpeg)
+ Learn essential features for efficient data analysis and boost your professional productivity in Excel.
+
+### [52. How to Use Excel TODAY Function? -> Excel 24x7](https://hackernoon.com/how-to-use-excel-today-function-greater-excel-24x7)
+![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-3n0394a.png)
+How to Use Excel TODAY Function? -> Excel 24x7
+
+### [53. How to Export Your Data from WordPress](https://hackernoon.com/how-to-export-your-data-from-wordpress-io1p33u7)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-uof31oc.jpeg)
 A useful selection of tools that will help you export different types of data from WordPress site for migrations, analytics or other purposes.  
 
-### [53. How to Calculate Age from Date of Birth in Excel? -> Excel24x7!](https://hackernoon.com/how-to-calculate-age-from-date-of-birth-in-excel-greater-excel24x7)
+### [54. How to Calculate Age from Date of Birth in Excel? -> Excel24x7!](https://hackernoon.com/how-to-calculate-age-from-date-of-birth-in-excel-greater-excel24x7)
 ![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-z3037wk.png)
 How to Calculate Age from Date of Birth in Excel? -> Excel24x7!
-
-### [54. How to Use Excel TODAY Function? -> Excel 24x7](https://hackernoon.com/how-to-use-excel-today-function-greater-excel-24x7)
-![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-3n0394a.png)
-How to Use Excel TODAY Function? -> Excel 24x7
 
 ### [55. Calculate Workdays in Excel With the NETWORKDAYS Function Like a Pro!](https://hackernoon.com/calculate-workdays-in-excel-with-the-networkdays-function-like-a-pro)
 ![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-ru039s2.webp)
@@ -236,13 +240,13 @@ In Excel, you can easily convert the text string into Sentence Case.
 ![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-hu739cv.webp)
 The WEEKNUM function in Excel is used to return the week number from a given input date.
 
-### [59. How to Calculate ISOWeekNumbers in Excel: Step-by-Step](https://hackernoon.com/how-to-calculate-isoweeknumbers-in-excel-step-by-step)
-![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-vo0391i.png)
-The ISOWEEKNUM function returns the week number of the year based on the given date value in Excel.
-
-### [60. How to Use Excel DATE Function -> Excel 24x7](https://hackernoon.com/how-to-use-excel-date-function-greater-excel-24x7)
+### [59. How to Use Excel DATE Function -> Excel 24x7](https://hackernoon.com/how-to-use-excel-date-function-greater-excel-24x7)
 ![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-ea038mb.png)
 The Excel DATE function is useful when you need dates that update automatically based on other values in your worksheet.
+
+### [60. How to Calculate ISOWeekNumbers in Excel: Step-by-Step](https://hackernoon.com/how-to-calculate-isoweeknumbers-in-excel-step-by-step)
+![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-vo0391i.png)
+The ISOWEEKNUM function returns the week number of the year based on the given date value in Excel.
 
 ### [61. The Best Way to Use the Excel NETWORKDAYS.INTL Function](https://hackernoon.com/the-best-way-to-use-the-excel-networkdaysintl-function)
 ![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-zi439r5.webp)
@@ -252,25 +256,25 @@ The Excel NETWORKDAYS.INTL Function is used to return the number of work days be
 ![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-i6039vy.webp)
 Find the cell addresses that have both the maximum and minimum values in rows and columns. Find the cell address of the cell that contains the maximum value in 
 
-### [63. EOMONTH Function: Simplifying Monthly Financial Calculations in Excel](https://hackernoon.com/eomonth-function-simplifying-monthly-financial-calculations-in-excel)
-![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-gh0383y.png)
-EOMONTH is a simple yet effective Date related Function in the Microsoft Excel. 
-
-### [64. Using Excel's TIME Function to Return Time From Hour, Minute, Seconds!](https://hackernoon.com/using-the-time-function-to-return-time-from-hour-minute-seconds-greaterexcel24x7-rdkiky6)
+### [63. Using Excel's TIME Function to Return Time From Hour, Minute, Seconds!](https://hackernoon.com/using-the-time-function-to-return-time-from-hour-minute-seconds-greaterexcel24x7-rdkiky6)
 ![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-37037eq.png)
 Excel TIME Function is used to create or return a valid Excel time value from individual hour, minute, and second values.
 
-### [65. Learn How to Use the SECOND Function to Retrieve Second Values from Input Time?](https://hackernoon.com/learn-how-to-use-the-second-function-to-retrieve-second-values-from-input-time)
+### [64. EOMONTH Function: Simplifying Monthly Financial Calculations in Excel](https://hackernoon.com/eomonth-function-simplifying-monthly-financial-calculations-in-excel)
+![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-gh0383y.png)
+EOMONTH is a simple yet effective Date related Function in the Microsoft Excel. 
+
+### [65. Sync Excel Worksheets With VBA & the 'Select All Sheets' Method](https://hackernoon.com/sync-excel-worksheets-with-vba-and-the-select-all-sheets-method)
+![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-sh339lv.webp)
+In Excel, you may often work with multiple worksheets or workbooks while managing data. Sometimes, you need to sync data between two or more worksheets. 
+
+### [66. Learn How to Use the SECOND Function to Retrieve Second Values from Input Time?](https://hackernoon.com/learn-how-to-use-the-second-function-to-retrieve-second-values-from-input-time)
 ![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-gm039zf.png)
 The SECOND function in Excel extracts the seconds part of a given input time and returns a number between 0 and 59.
 
-### [66. Quickly Return Hour Values with Excel's HOUR Function!](https://hackernoon.com/quickly-return-hour-values-with-excels-hour-function)
+### [67. Quickly Return Hour Values with Excel's HOUR Function!](https://hackernoon.com/quickly-return-hour-values-with-excels-hour-function)
 ![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-ha039dc.png)
 HOUR function is used to return the hour as a number between 0 and 23 from a given time. 
-
-### [67. Sync Excel Worksheets With VBA & the 'Select All Sheets' Method](https://hackernoon.com/sync-excel-worksheets-with-vba-and-the-select-all-sheets-method)
-![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-sh339lv.webp)
-In Excel, you may often work with multiple worksheets or workbooks while managing data. Sometimes, you need to sync data between two or more worksheets. 
 
 ### [68. Reverse Excel Cell Signs With the Paste Special & VBA in Easy Steps](https://hackernoon.com/reverse-excel-cell-signs-with-the-paste-special-and-vba-in-easy-steps)
 ![](https://cdn.hackernoon.com/images/KRhE4Gz4QZeX1uc46YQTGSYAHND2-6m039bc.webp)

@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [work](https://hackernoon.com/tagged/work)
+### Let's learn about [Work](https://hackernoon.com/tagged/work) via these 212 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Are you working hard or hardly working? I applaud you either way. 
 
 ### [1. 6 Work from Home Positions in AI Data Collection and Data Annotation](https://hackernoon.com/6-work-from-home-positions-in-ai-data-collection-and-data-annotation-hj5932e1)
@@ -165,29 +167,29 @@ Stock options. Many employees of startups and corporations get to hear this term
 ![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-u393olp.jpeg)
 This article addresses things to take note of, before you switch jobs to avoid the "Great regret"
 
-### [41. Top 10 Studies That Will Break All the Productivity Myths You Ever Knew](https://hackernoon.com/top-10-studies-that-will-break-all-the-productivity-myths-you-ever-knew)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-y7b3p3v.jpeg)
-We’ve put together a list of the best productivity studies to help you get the most out of your day.
-
-### [42. 25 Questions Candidates Should Ask in an Interview for Remote Work](https://hackernoon.com/25-questions-candidates-should-ask-in-an-interview-for-remote-work)
+### [41. 25 Questions Candidates Should Ask in an Interview for Remote Work](https://hackernoon.com/25-questions-candidates-should-ask-in-an-interview-for-remote-work)
 ![](https://cdn.hackernoon.com/images/dekqFKbCjYP7GoUnRP2jptMYXsC3-jpb3ku5.jpeg)
 Remote interviews allow companies same time and money on travel expenses, while determining whether a candidate should be hired. 
 
-### [43. Stop Treating Your Team Like Children](https://hackernoon.com/stop-treating-your-team-like-children)
-![](https://cdn.hackernoon.com/images/a-robot-mr-rogers-clfmz8f6w000001s64ejhgu1l.png)
-Patrick Campbell goes over why you shouldn't treat your team like children.
+### [42. Top 10 Studies That Will Break All the Productivity Myths You Ever Knew](https://hackernoon.com/top-10-studies-that-will-break-all-the-productivity-myths-you-ever-knew)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-y7b3p3v.jpeg)
+We’ve put together a list of the best productivity studies to help you get the most out of your day.
 
-### [44. The 20 Highest Paying Cities for Software Engineers in California ](https://hackernoon.com/the-20-highest-paying-cities-for-software-engineers-in-california)
+### [43. The 20 Highest Paying Cities for Software Engineers in California ](https://hackernoon.com/the-20-highest-paying-cities-for-software-engineers-in-california)
 ![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-x6a3op6.jpeg)
 These are the 20 best-paying cities for software engineers in California, as reported by the more than 5 million verified professionals on Blind.
 
-### [45. Coding for Fun and Coding for Work: Why It's Important to Make Coding a Hobby](https://hackernoon.com/coding-for-fun-and-coding-for-work-why-its-important-to-make-coding-a-hobby)
-![](https://cdn.hackernoon.com/images/hm3Gh4d6DYQvr4czxnUrx2w8Sqz1-5892k9f.jpeg)
-If your goal is to have a successful career in coding, your chances of reaching this goal will be higher if programming for you is a hobby.
+### [44. Stop Treating Your Team Like Children](https://hackernoon.com/stop-treating-your-team-like-children)
+![](https://cdn.hackernoon.com/images/a-robot-mr-rogers-clfmz8f6w000001s64ejhgu1l.png)
+Patrick Campbell goes over why you shouldn't treat your team like children.
 
-### [46. Burnout: Recognizing Signs and Taking Action](https://hackernoon.com/burnout-recognizing-signs-and-taking-action)
+### [45. Burnout: Recognizing Signs and Taking Action](https://hackernoon.com/burnout-recognizing-signs-and-taking-action)
 ![](https://cdn.hackernoon.com/images/rTGkuSmEEIdJxS4Bj7H8MUxQhOg2-n893uwo.jpeg)
 Fight back against tech burnout. Learn to recognize the signs, take action, and put preventive strategies in place to thrive in the tech industry.
+
+### [46. Coding for Fun and Coding for Work: Why It's Important to Make Coding a Hobby](https://hackernoon.com/coding-for-fun-and-coding-for-work-why-its-important-to-make-coding-a-hobby)
+![](https://cdn.hackernoon.com/images/hm3Gh4d6DYQvr4czxnUrx2w8Sqz1-5892k9f.jpeg)
+If your goal is to have a successful career in coding, your chances of reaching this goal will be higher if programming for you is a hobby.
 
 ### [47. How I Force Myself to Work](https://hackernoon.com/how-i-force-myself-to-work-0s203yi3)
 ![](https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -202,33 +204,33 @@ out this video:
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-c093psa.jpeg)
 Can We Stop Glamorizing Exhaustion? (Please?)
 
-### [49. Technology or Strategy: How Is the Workplace Being Reimagined?](https://hackernoon.com/technology-or-strategy-how-is-the-workplace-being-reimagined)
-![](https://cdn.hackernoon.com/images/N51l9KE2WvYZKrFLlQ42s1i7e4n1-mp93qja.jpeg)
-The traditional workspace is gradually changing  to a remote workspace. But what is driving the transformation of remote workspaces, technology or strategy?
-
-### [50. Testimonial Driven Development](https://hackernoon.com/testimonial-driven-development-5c1pk3z62)
-![](https://cdn.hackernoon.com/drafts/v51p03zsp.png)
-Build your products based on the testimonials you want to get from your customers
-
-### [51. Forget Quiet Quitting, fatFIRE is the Newest Workplace Trend](https://hackernoon.com/forget-quiet-quitting-fatfire-is-the-newest-workplace-trend)
+### [49. Forget Quiet Quitting, fatFIRE is the Newest Workplace Trend](https://hackernoon.com/forget-quiet-quitting-fatfire-is-the-newest-workplace-trend)
 ![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-o293pwe.jpeg)
 All the talk about quiet quitting makes it seem like everyone hates their jobs and is just sleepwalking through the workday, but that’s not the case -here's why
 
-### [52. Pass On with Care: How to Hand Over Your Work Before You Quit or Go on Holiday](https://hackernoon.com/pass-on-with-care-how-to-hand-over-your-work-before-you-quit-or-go-on-holiday)
+### [50. Technology or Strategy: How Is the Workplace Being Reimagined?](https://hackernoon.com/technology-or-strategy-how-is-the-workplace-being-reimagined)
+![](https://cdn.hackernoon.com/images/N51l9KE2WvYZKrFLlQ42s1i7e4n1-mp93qja.jpeg)
+The traditional workspace is gradually changing  to a remote workspace. But what is driving the transformation of remote workspaces, technology or strategy?
+
+### [51. Pass On with Care: How to Hand Over Your Work Before You Quit or Go on Holiday](https://hackernoon.com/pass-on-with-care-how-to-hand-over-your-work-before-you-quit-or-go-on-holiday)
 ![](https://cdn.hackernoon.com/images/NaZjanwm14XFRBsgnCZGATBb8QP2-d693vd1.jpeg)
 When go on vacation or quit, you should ideally organize your work in a way that those who stay at work do not get lost in chaos. Here is a checklist for you
+
+### [52. Testimonial Driven Development](https://hackernoon.com/testimonial-driven-development-5c1pk3z62)
+![](https://cdn.hackernoon.com/drafts/v51p03zsp.png)
+Build your products based on the testimonials you want to get from your customers
 
 ### [53. One Small Step for You, One Big Step for Your IT Career](https://hackernoon.com/one-small-step-for-you-one-big-step-for-your-it-career)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-7ua2iz5.jpeg)
 We all sometimes try taking on more significant tasks than we can deliver on—it stems directly from our human inability to evaluate complex tasks correctly.
 
-### [54. Developers Created a Culture of Shame and a Toxic Workplace](https://hackernoon.com/developers-created-a-culture-of-shame-and-a-toxic-workplace)
-![](https://cdn.hackernoon.com/images/S20bwqNg2Dc5eOrKxjK2AGe1PCu1-zt93ian.jpeg)
-Open up Twitter or any dev forum really, have a little scroll, and it will not take you long at all to find developers being unpleasant to each other.
-
-### [55. 8 National Parks That Would Be Perfect to Work From This Summer](https://hackernoon.com/8-national-parks-that-would-be-perfect-to-work-from-this-summer)
+### [54. 8 National Parks That Would Be Perfect to Work From This Summer](https://hackernoon.com/8-national-parks-that-would-be-perfect-to-work-from-this-summer)
 ![](https://cdn.hackernoon.com/images/P1XMpcG0kQMzSMGx9o00jemvO2E2-o393jhx.jpeg)
 Who says WFH means staying chained to your desk? Try WFCampsite this summer and check out some of the most amazing National Parks the U.S. has to offer.
+
+### [55. Developers Created a Culture of Shame and a Toxic Workplace](https://hackernoon.com/developers-created-a-culture-of-shame-and-a-toxic-workplace)
+![](https://cdn.hackernoon.com/images/S20bwqNg2Dc5eOrKxjK2AGe1PCu1-zt93ian.jpeg)
+Open up Twitter or any dev forum really, have a little scroll, and it will not take you long at all to find developers being unpleasant to each other.
 
 ### [56. 154 Stories To Learn About Work](https://hackernoon.com/154-stories-to-learn-about-work)
 ![](https://cdn.hackernoon.com/images/github/work-58.png)
@@ -263,50 +265,50 @@ There are a lot of things that job seekers need to know in order to be successfu
 ![](https://cdn.hackernoon.com/drafts/nk263k3g.png)
 “Why does watching a dog be a dog fill one with happiness?” — Jonathan Safran Foer
 
-### [64. Leverage: The Shortcut to Outperforming Everyone](https://hackernoon.com/leverage-the-shortcut-to-outperforming-everyone)
+### [64. Trapped Under a Rubble of Debt and Stuck in a Foreign Country](https://hackernoon.com/trapped-under-a-rubble-of-debt-and-stuck-in-a-foreign-country)
+![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-6192hz0.jpeg)
+L. was trapped. She was ineligible for government assistance and her visa status limits her to U.S. jobs approved by her visa sponsor...
+
+### [65. Leverage: The Shortcut to Outperforming Everyone](https://hackernoon.com/leverage-the-shortcut-to-outperforming-everyone)
 ![](https://cdn.hackernoon.com/images/a-street-race-fast-x6x1tjqzpjyempxjrpegh6ou.png)
 The world doesn’t reward effort. It rewards results. The secret? Leverage.
 
-### [65. Mission Statements, Business Storytelling and Jeff Bezos’s Day 1 Philosophy](https://hackernoon.com/mission-statements-business-storytelling-and-jeff-bezoss-day-1-philosophy)
-![](https://cdn.hackernoon.com/images/jeff-bezos-sitting-on-a-pile-of-amazon-boxes-o4s4wtzb6m7otpqkcjrjsgsb.png)
-A relatable and memorable business story will positively influence every organizational level, inspiring the right strategic actions.
-
-### [66. Trapped Under a Rubble of Debt and Stuck in a Foreign Country](https://hackernoon.com/trapped-under-a-rubble-of-debt-and-stuck-in-a-foreign-country)
-![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-6192hz0.jpeg)
-L. was trapped. She was ineligible for government assistance and her visa status limits her to U.S. jobs approved by her visa sponsor...
+### [66. Three Best Practices for Tackling AI Bias in Recruitment](https://hackernoon.com/three-best-practices-for-tackling-ai-bias-in-recruitment)
+![](https://cdn.hackernoon.com/images/k4oa3fIFvVYzUaPgdNWrpIyp8bz2-u793ohj.jpeg)
+The use of AI-powered recruitment software is an exciting trend, but then what steps have been placed to curb the emergence of bias? This article shares some.
 
 ### [67. Is Quiet Quitting a Sound Strategy?](https://hackernoon.com/is-quiet-quitting-a-sound-strategy)
 ![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-2j93qx5.jpeg)
 What if employees at work mentally check out? They do not become lazy, or irresponsible. Rather, they do what they are being asked to and nothing more. 
 
-### [68. Three Best Practices for Tackling AI Bias in Recruitment](https://hackernoon.com/three-best-practices-for-tackling-ai-bias-in-recruitment)
-![](https://cdn.hackernoon.com/images/k4oa3fIFvVYzUaPgdNWrpIyp8bz2-u793ohj.jpeg)
-The use of AI-powered recruitment software is an exciting trend, but then what steps have been placed to curb the emergence of bias? This article shares some.
+### [68. Mission Statements, Business Storytelling and Jeff Bezos’s Day 1 Philosophy](https://hackernoon.com/mission-statements-business-storytelling-and-jeff-bezoss-day-1-philosophy)
+![](https://cdn.hackernoon.com/images/jeff-bezos-sitting-on-a-pile-of-amazon-boxes-o4s4wtzb6m7otpqkcjrjsgsb.png)
+A relatable and memorable business story will positively influence every organizational level, inspiring the right strategic actions.
 
 ### [69. Re: Sam Altman's American Equity](https://hackernoon.com/re-sam-altmans-american-equity)
 ![](https://cdn.hackernoon.com/images/lease-schedule-auction-vickrey-auction-as-a-response-to-wage-labor-clbcq6sot000001s613a74wmq.png)
 Alternative to Wage-Capitalism: 100% Commission on your earnings, but you bid at Vickrey auction to rent the capital. 
 
-### [70. Embracing Remote Work as a Software Engineer in the Post-COVID Era](https://hackernoon.com/embracing-remote-work-as-a-software-engineer-in-the-post-covid-era)
+### [70. Tired? Burned Out? You Might Just Be Bored](https://hackernoon.com/tired-burned-out-you-might-just-be-bored)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-bj03wpk.jpeg)
+That exhaustion you're feeling? It's not your body begging for rest. It's your mind screaming for stimulation. You're bored out of your mind.
+
+### [71. Embracing Remote Work as a Software Engineer in the Post-COVID Era](https://hackernoon.com/embracing-remote-work-as-a-software-engineer-in-the-post-covid-era)
 ![](https://cdn.hackernoon.com/images/DmZUxa5LS1arsnP1kPngIAzOcOt1-r993p2v.jpeg)
 Explore a software engineer's journey into the digital nomad lifestyle post-COVID, with insights on creating effective remote workspaces and balancing work-life
 
-### [71. Five Things You Can Do Now to Prepare for the Return to the Office](https://hackernoon.com/five-things-you-can-do-now-to-prepare-for-the-return-to-the-office-3d293zug)
+### [72. Five Things You Can Do Now to Prepare for the Return to the Office](https://hackernoon.com/five-things-you-can-do-now-to-prepare-for-the-return-to-the-office-3d293zug)
 ![](https://cdn.hackernoon.com/drafts/0q3r3h69.png)
 The crisis has turned the corporate world upside down. Most office workers — including me — have been working from home for more than two months.
 
-### [72. 10 Tips to Stay Healthy While Working Remotely](https://hackernoon.com/10-tips-to-stay-healthy-while-working-remotely)
+### [73. 10 Tips to Stay Healthy While Working Remotely](https://hackernoon.com/10-tips-to-stay-healthy-while-working-remotely)
 ![](https://cdn.hackernoon.com/images/dekqFKbCjYP7GoUnRP2jptMYXsC3-91a3k7u.jpeg)
 Maintaining a healthy work-life balance is also important for staying fit. When you're working from home, you can take breaks when you need to
 
-### [73. Why We Spend So Much Time at Work on Things that Don't Matter](https://hackernoon.com/why-we-spend-so-much-time-at-work-on-things-that-dont-matter)
+### [74. Why We Spend So Much Time at Work on Things that Don't Matter](https://hackernoon.com/why-we-spend-so-much-time-at-work-on-things-that-dont-matter)
 ![](https://cdn.hackernoon.com/images/2j6BO1kjsCUCp29N5SUkjUwIWzb2-a5b3o0r.gif.webp)
 We focus on trivia at the expense of more important issues. Why does this happen and what we can do about it?
 
-
-### [74. Tired? Burned Out? You Might Just Be Bored](https://hackernoon.com/tired-burned-out-you-might-just-be-bored)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-bj03wpk.jpeg)
-That exhaustion you're feeling? It's not your body begging for rest. It's your mind screaming for stimulation. You're bored out of your mind.
 
 ### [75. How to Give and Receive Feedback ](https://hackernoon.com/how-to-give-and-receive-feedback)
 ![](https://cdn.hackernoon.com/images/RGtlsncbKkeJqWTCSCVmj6W7GSg1-uv93o3c.jpeg)
@@ -329,9 +331,9 @@ Parkinson’s law says that work expands to fill the time available for its comp
 ![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-6592ldz.jpeg)
 It’s legal to pay her such a low rate because she works at what is known as a sheltered workshop...
 
-### [80. The Pursuit of Dopeness](https://hackernoon.com/the-pursuit-of-dopeness-7w3h3yf4)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3n82qcr.jpeg)
-New decade, new you. (Okay it’s usually a new year, not a decade but you get the picture. 
+### [80. Are You Enhanced? A Story About AI and Life in the Near Future](https://hackernoon.com/are-you-enhanced-a-story-about-ai-and-life-in-the-near-future)
+![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-a-humanoid-cyborg-clfta9lq5000001s627jfe0w3.png)
+Tom’s heart sank. He had known this question was coming. He took a deep breath and answered truthfully, “No, I’m not enhanced.”
 
 ### [81. Sharing Is Caring: How to Combat Cybersecurity](https://hackernoon.com/sharing-is-caring-how-to-combat-cybersecurity)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-sz93ptc.jpeg)
@@ -341,49 +343,49 @@ It’s hard for CEOs to manage the growing threat of cybersecurity across their 
 ![](https://cdn.hackernoon.com/images/S20bwqNg2Dc5eOrKxjK2AGe1PCu1-lm93pfr.jpeg)
 How did recruiters get such a strong hold on the software development industry, and what can we do to reduce our dependence upon them?
 
-### [83. Are You Enhanced? A Story About AI and Life in the Near Future](https://hackernoon.com/are-you-enhanced-a-story-about-ai-and-life-in-the-near-future)
-![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-a-humanoid-cyborg-clfta9lq5000001s627jfe0w3.png)
-Tom’s heart sank. He had known this question was coming. He took a deep breath and answered truthfully, “No, I’m not enhanced.”
+### [83. The Pursuit of Dopeness](https://hackernoon.com/the-pursuit-of-dopeness-7w3h3yf4)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3n82qcr.jpeg)
+New decade, new you. (Okay it’s usually a new year, not a decade but you get the picture. 
 
-### [84. Learn How To Reset Team Productivity With These 5 Steps](https://hackernoon.com/learn-how-to-reset-team-productivity-with-these-5-steps-ewe3u08)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUoQ6oMUhNUNgk7Xz5iedAmu6b3W2-9dw3uee.webp?alt=media&token=851d81a0-4738-48ab-a92f-33e79529f977)
-Productivity is a volatile thing in the office. It comes and goes. Just like there are ups and downs in life, some days are more rewarding than others at the workplace too. There will be times when your team would get in a slump and you will have to jumpstart them back to life. 
-
-### [85. One Hour of "Effective" Freelance Work is Worth 3 Hours in a 9-5 Job](https://hackernoon.com/one-hour-of-effective-freelance-work-is-worth-3-hours-in-a-9-5-job)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-i993oax.jpeg)
-One effective freelance working hour is worth two or three regular 9-to-5 working hours.
-
-### [86. Forget Story Points and Use this Instead](https://hackernoon.com/forget-story-points-and-use-this-instead)
-![](https://cdn.hackernoon.com/images/KobPcf5nazNcjh4iUfyRlmitv723-6da2irj.jpeg)
-After decades of using story points estimations, we see its limitations. It ignores the human factor.
-
-### [87. What Does Total Compensation Really Mean?](https://hackernoon.com/what-does-total-compensation-really-mean)
+### [84. What Does Total Compensation Really Mean?](https://hackernoon.com/what-does-total-compensation-really-mean)
 ![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-f493p9h.jpeg)
 It is common to think of compensation purely as salary – money you get paid for the work you do. But many people get compensated with more than just salary.
 
-### [88. How Rampant is COVID in Amazon Warehouses?](https://hackernoon.com/how-rampant-is-covid-in-amazon-warehouses)
-![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-uvb2iu7.jpeg)
-COVID cases in Amazon warehouses continue to pile on, and workers say that the company is cutting down its COVID protocols.
+### [85. Forget Story Points and Use this Instead](https://hackernoon.com/forget-story-points-and-use-this-instead)
+![](https://cdn.hackernoon.com/images/KobPcf5nazNcjh4iUfyRlmitv723-6da2irj.jpeg)
+After decades of using story points estimations, we see its limitations. It ignores the human factor.
 
-### [89. Remote Usability Testing Tools, Here's What to Look For](https://hackernoon.com/remote-usability-testing-tools-heres-what-to-look-for)
+### [86. One Hour of "Effective" Freelance Work is Worth 3 Hours in a 9-5 Job](https://hackernoon.com/one-hour-of-effective-freelance-work-is-worth-3-hours-in-a-9-5-job)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-i993oax.jpeg)
+One effective freelance working hour is worth two or three regular 9-to-5 working hours.
+
+### [87. Learn How To Reset Team Productivity With These 5 Steps](https://hackernoon.com/learn-how-to-reset-team-productivity-with-these-5-steps-ewe3u08)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUoQ6oMUhNUNgk7Xz5iedAmu6b3W2-9dw3uee.webp?alt=media&token=851d81a0-4738-48ab-a92f-33e79529f977)
+Productivity is a volatile thing in the office. It comes and goes. Just like there are ups and downs in life, some days are more rewarding than others at the workplace too. There will be times when your team would get in a slump and you will have to jumpstart them back to life. 
+
+### [88. Remote Usability Testing Tools, Here's What to Look For](https://hackernoon.com/remote-usability-testing-tools-heres-what-to-look-for)
 ![](https://cdn.hackernoon.com/images/AcD8drshdHcLNoO1hEmPiHuHXlh2-o493ru5.jpeg)
 In this blog, you come to realize remote working usability checking out is a notable manner to check your product earlier than and after launch! 
 
-### [90. The Unbundled Work Era: The Time Is Now](https://hackernoon.com/the-unbundled-work-era-the-time-is-now-ym1u35dg)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-c6i3585.jpeg)
-The internet and rise of micro-entrepreneurship
+### [89. How Rampant is COVID in Amazon Warehouses?](https://hackernoon.com/how-rampant-is-covid-in-amazon-warehouses)
+![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-uvb2iu7.jpeg)
+COVID cases in Amazon warehouses continue to pile on, and workers say that the company is cutting down its COVID protocols.
 
-### [91. How Modern Technology Reshapes the Way We Work](https://hackernoon.com/how-modern-technology-reshapes-the-way-we-work)
+### [90. How Modern Technology Reshapes the Way We Work](https://hackernoon.com/how-modern-technology-reshapes-the-way-we-work)
 ![](https://cdn.hackernoon.com/images/6hWIoZ4m0oPrJDtl5IWmGW1ygqw1-lca3nai.jpeg)
 
 
-### [92. Don't Stop at Writing Code, Create Business Value ](https://hackernoon.com/dont-stop-at-writing-code-create-business-value)
-![](https://cdn.hackernoon.com/images/B9T1IUJcMIUtnDyj3ZT2HrbhQmj1-0193o17.jpeg)
-Knowing the business needs/problems can help engineers to grow faster. If you don’t know WHAT and WHY, you can’t think of HOW.
+### [91. The Unbundled Work Era: The Time Is Now](https://hackernoon.com/the-unbundled-work-era-the-time-is-now-ym1u35dg)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-c6i3585.jpeg)
+The internet and rise of micro-entrepreneurship
 
-### [93. What is Attention Residue and Why  is It Your Worst Enemy?](https://hackernoon.com/what-is-attention-residue-and-why-is-it-your-worst-enemy)
+### [92. What is Attention Residue and Why  is It Your Worst Enemy?](https://hackernoon.com/what-is-attention-residue-and-why-is-it-your-worst-enemy)
 ![](https://cdn.hackernoon.com/images/stressed-student-cld9vgh7j000201s655oe5b7s.png)
 The keyboard is on fire, you're typing so fast. But a thought suddenly occurs to you: what about those concert tickets you forgot to buy last night?
+
+### [93. Don't Stop at Writing Code, Create Business Value ](https://hackernoon.com/dont-stop-at-writing-code-create-business-value)
+![](https://cdn.hackernoon.com/images/B9T1IUJcMIUtnDyj3ZT2HrbhQmj1-0193o17.jpeg)
+Knowing the business needs/problems can help engineers to grow faster. If you don’t know WHAT and WHY, you can’t think of HOW.
 
 ### [94. How Shortage of Labor Will Create More AI & Automation Careers](https://hackernoon.com/how-shortage-of-labor-will-create-more-ai-and-automation-careers)
 ![](https://cdn.hackernoon.com/images/EAoWSsrWAFZTtjOYXmIuIN8lRBI2-2x92d93.jpeg)
@@ -393,21 +395,21 @@ Automation and artificial intelligence technology are beginning to make seismic 
 ![](https://cdn.hackernoon.com/images/T4kcprsbf7cV2pYd9KDaXzdT9H83-h993o65.jpeg)
 Get the latest popular cyber jobs with the highest salaries in the world with a complete guide about them with the profile information
 
-### [96. 4 Data Protection Tips for Remote Teams](https://hackernoon.com/4-data-protection-tips-for-remote-teams)
-![](https://cdn.hackernoon.com/images/RHxCR9NxCpYssW4xlvq6rue9ck93-1w9307a.jpeg)
-With remote work becoming more popular, it is easier than ever for companies to have data stolen. Read here for 4 data protection tips for remote teams. 
-
-### [97. The Terrible Truth of Working in Customer Service](https://hackernoon.com/the-terrible-truth-of-working-in-customer-service)
+### [96. The Terrible Truth of Working in Customer Service](https://hackernoon.com/the-terrible-truth-of-working-in-customer-service)
 ![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-fr92ib2.jpeg)
 As we reported on the industry, we invited current and former customer service representatives to contact us. They did.
 
-### [98. Searching for a Unicorn or How to Build an Effective Remote Team](https://hackernoon.com/searching-for-a-unicorn-or-how-to-build-an-effective-remote-team)
-![](https://cdn.hackernoon.com/images/bay1cHXuNyZB4jEjbHe5jfI7UZI3-kw93piu.jpeg)
-Here are 7 essential points for teams that help stay productive in a remote environment.
+### [97. 4 Data Protection Tips for Remote Teams](https://hackernoon.com/4-data-protection-tips-for-remote-teams)
+![](https://cdn.hackernoon.com/images/RHxCR9NxCpYssW4xlvq6rue9ck93-1w9307a.jpeg)
+With remote work becoming more popular, it is easier than ever for companies to have data stolen. Read here for 4 data protection tips for remote teams. 
 
-### [99. How Effective Tech Can Reduce Employee Downtime and Attrition](https://hackernoon.com/how-effective-tech-can-reduce-employee-downtime-and-attrition)
+### [98. How Effective Tech Can Reduce Employee Downtime and Attrition](https://hackernoon.com/how-effective-tech-can-reduce-employee-downtime-and-attrition)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-td93pt3.jpeg)
 In our rapidly evolving work-from-anywhere world, employee downtime and productivity are rising concerns.
+
+### [99. Searching for a Unicorn or How to Build an Effective Remote Team](https://hackernoon.com/searching-for-a-unicorn-or-how-to-build-an-effective-remote-team)
+![](https://cdn.hackernoon.com/images/bay1cHXuNyZB4jEjbHe5jfI7UZI3-kw93piu.jpeg)
+Here are 7 essential points for teams that help stay productive in a remote environment.
 
 ### [100. How to Maintain Productivity with a Flexible Work Schedule](https://hackernoon.com/how-to-maintain-productivity-with-a-flexible-work-schedule)
 ![](https://cdn.hackernoon.com/images/7skvMoTLQPTuwU5MRJrEZ31wECq2-0k93jec.jpeg)
@@ -429,29 +431,29 @@ There is an agreement that if you do your job properly, you will be compensated 
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-mkd3oan.jpeg)
 A look at how to engage in the future of work through digital workspaces
 
-### [105. Everything I Wished I Was Told At Twenty-One](https://hackernoon.com/everything-i-wished-i-was-told-at-twenty-one)
-![](https://cdn.hackernoon.com/images/a-diverse-group-of-20-year-olds-jftafad9re0nhew25maexy9o.png)
-If you're in your early twenties, start learning about what matters in the long run. In simple terms, they are your health, wealth, and relationships.
-
-### [106. 5 Essential Steps to Thrive as an Employee and Master Your Career](https://hackernoon.com/5-essential-steps-to-thrive-as-an-employee-and-master-your-career)
+### [105. 5 Essential Steps to Thrive as an Employee and Master Your Career](https://hackernoon.com/5-essential-steps-to-thrive-as-an-employee-and-master-your-career)
 ![](https://cdn.hackernoon.com/images/UhHDL4AmHANdVUKZIYwn2bfLgtJ3-mha2cbz.jpeg)
 Whether you’re just starting your career or have been in the workforce for years, there are always opportunities to grow and develop your skills.
 
-### [107. Why Everyone Needs an Avatar in a "Socially Distant" World](https://hackernoon.com/why-everyone-needs-an-avatar-in-a-socially-distant-world-na3c3yvd)
-![](https://cdn.hackernoon.com/drafts/xm3x3kzv.png)
-Imagine a future where everyone has a virtual character that they use across multiple platforms. Social media, video conferencing, games, and other online spaces.
+### [106. Essential Email Security Tips Every Business Should Know](https://hackernoon.com/essential-email-security-tips-every-business-should-know)
+![](https://cdn.hackernoon.com/images/tWo2ye14cPQku5qegNQjn7ZEgmy1-fp93pdy.jpeg)
+Protecting your email from cybersecurity threats and attacks is critical for organizations today more than ever.
 
-### [108. Job Mobility Slows Amidst Recession Fears and Tech Layoffs ](https://hackernoon.com/job-mobility-slows-amidst-recession-fears-and-tech-layoffs)
-![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-oca3o4e.jpeg)
-The Great Resignation might be waning among knowledge workers. Enter: The Great Disengagement.
-
-### [109. How to Invest in Your Employees With Skills Based Training](https://hackernoon.com/how-to-invest-in-your-employees-with-skills-based-training)
+### [107. How to Invest in Your Employees With Skills Based Training](https://hackernoon.com/how-to-invest-in-your-employees-with-skills-based-training)
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-fa033z9.png)
 How to Invest in Your Employees With Skills Based Training
 
-### [110. Essential Email Security Tips Every Business Should Know](https://hackernoon.com/essential-email-security-tips-every-business-should-know)
-![](https://cdn.hackernoon.com/images/tWo2ye14cPQku5qegNQjn7ZEgmy1-fp93pdy.jpeg)
-Protecting your email from cybersecurity threats and attacks is critical for organizations today more than ever.
+### [108. Everything I Wished I Was Told At Twenty-One](https://hackernoon.com/everything-i-wished-i-was-told-at-twenty-one)
+![](https://cdn.hackernoon.com/images/a-diverse-group-of-20-year-olds-jftafad9re0nhew25maexy9o.png)
+If you're in your early twenties, start learning about what matters in the long run. In simple terms, they are your health, wealth, and relationships.
+
+### [109. Why Everyone Needs an Avatar in a "Socially Distant" World](https://hackernoon.com/why-everyone-needs-an-avatar-in-a-socially-distant-world-na3c3yvd)
+![](https://cdn.hackernoon.com/drafts/xm3x3kzv.png)
+Imagine a future where everyone has a virtual character that they use across multiple platforms. Social media, video conferencing, games, and other online spaces.
+
+### [110. Job Mobility Slows Amidst Recession Fears and Tech Layoffs ](https://hackernoon.com/job-mobility-slows-amidst-recession-fears-and-tech-layoffs)
+![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-oca3o4e.jpeg)
+The Great Resignation might be waning among knowledge workers. Enter: The Great Disengagement.
 
 ### [111. Adapting to AI-Powered Workplaces and an Automated Future](https://hackernoon.com/adapting-to-ai-powered-workplaces-and-an-automated-future)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-wl93re2.jpeg)
@@ -463,41 +465,41 @@ When you’re having a bad day at work, your mind spirals toward sadness. It’s
 
 
 
-### [113. The Working from Home Puzzle](https://hackernoon.com/the-working-from-home-puzzle-qt2f3yg0)
+### [113. How to Run a Tech Interview Without the Hazing](https://hackernoon.com/how-to-run-a-tech-interview-without-the-hazing)
+![](https://cdn.hackernoon.com/images/CIY3QOaCE5Zq8DSZSQdJnHVHjvf1-ep93i47.jpeg)
+Tech job interviews are awful. We all know it. However, between coding exercises, take-home projects, and technical questions, we are making them worse. 
+
+### [114. The Working from Home Puzzle](https://hackernoon.com/the-working-from-home-puzzle-qt2f3yg0)
 ![](https://cdn.hackernoon.com/drafts/vh343k5l.png)
 Working from home — WFH in short — is one of the most debated topics these days. Recent events have compelled many organizations to close their offices and force their employees to work from home. All aspects of the working experience are now being done remotely.
 
-### [114. You, Work, Input, Output and Value; A Complex Relationship](https://hackernoon.com/you-work-input-output-and-value-a-complex-relationship)
+### [115. You, Work, Input, Output and Value; A Complex Relationship](https://hackernoon.com/you-work-input-output-and-value-a-complex-relationship)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-oi93och.jpeg)
 You determine your VALUE
 
-### [115. Installing a Developer Workstation from Scratch](https://hackernoon.com/installing-a-developer-workstation-from-scratch)
+### [116. Installing a Developer Workstation from Scratch](https://hackernoon.com/installing-a-developer-workstation-from-scratch)
 ![](https://cdn.hackernoon.com/images/MfzjAS5aJtQASHhbBk2J3gunFf23-rfa2ice.jpeg)
 How to automate the installation of a developer workstation, keeping it quick, maintainable and easy learn
-
-### [116. Should I Work At A Startup Or An Established Company?](https://hackernoon.com/should-i-work-at-a-startup-or-an-established-company-fr3f35jr)
-![](https://cdn.hackernoon.com/images/HkmXgPuVwSNu66hEcBWdvrCCWl72-lidi33hu.jpeg)
-A Company vs A Startup. What’s best? In this article, I review my experience working at both startups and companies to help you determine your best route.
 
 ### [117. The Quiet Quitting Trend and Why You Should Not Follow It ](https://hackernoon.com/the-quiet-quitting-trend-and-why-you-should-not-follow-it)
 ![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-jo93pj4.jpeg)
 According to Blind, white-collar tech professionals have lost 100,826 jobs so far this year. Here is how you can avoid getting laid off this time. 
 
-### [118. How to Run a Tech Interview Without the Hazing](https://hackernoon.com/how-to-run-a-tech-interview-without-the-hazing)
-![](https://cdn.hackernoon.com/images/CIY3QOaCE5Zq8DSZSQdJnHVHjvf1-ep93i47.jpeg)
-Tech job interviews are awful. We all know it. However, between coding exercises, take-home projects, and technical questions, we are making them worse. 
+### [118. Should I Work At A Startup Or An Established Company?](https://hackernoon.com/should-i-work-at-a-startup-or-an-established-company-fr3f35jr)
+![](https://cdn.hackernoon.com/images/HkmXgPuVwSNu66hEcBWdvrCCWl72-lidi33hu.jpeg)
+A Company vs A Startup. What’s best? In this article, I review my experience working at both startups and companies to help you determine your best route.
 
 ### [119. 5 Tips for Negotiating Your Compensation](https://hackernoon.com/5-tips-for-negotiating-your-compensation)
 ![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-cka3p6k.jpeg)
 Getting paid what you are worth can be a challenge, especially if you don’t know your worth. 
 
-### [120. The Lost Childhood of Teenage Workers ](https://hackernoon.com/the-lost-childhood-of-teenage-workers)
-![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-zn92igm.jpeg)
-For about a year, I’d been hearing that more Guatemalan immigrants were showing up on factory floors, and that among them were teenagers who worked overnight.
-
-### [121. Enhancing Engineering Cultures with UX Principles](https://hackernoon.com/building-efficient-engineering-cultures-with-ux-design-principles)
+### [120. Enhancing Engineering Cultures with UX Principles](https://hackernoon.com/building-efficient-engineering-cultures-with-ux-design-principles)
 ![](https://cdn.hackernoon.com/images/DOiMJfFjP6MjIvn27mKBDtk74p13-kda3t7g.jpeg)
 How to apply UX design principles to develop supportive and efficient engineering cultures
+
+### [121. The Lost Childhood of Teenage Workers ](https://hackernoon.com/the-lost-childhood-of-teenage-workers)
+![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-zn92igm.jpeg)
+For about a year, I’d been hearing that more Guatemalan immigrants were showing up on factory floors, and that among them were teenagers who worked overnight.
 
 ### [122. 7 Ways MSPs Can Manage a Remote Workforce ](https://hackernoon.com/7-ways-msps-can-manage-a-remote-workforce)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-ri93h48.jpeg)
@@ -508,29 +510,29 @@ With issues like Great resignation coming into prominence MSPs need to create pr
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-yj93nyp.jpeg)
 Here is what you can expect from your first programming job, and let me tell you, it isn't pretty.
 
-### [124. Inspiration On Command: 5 Easy Steps to Never Wait for Creativity Again](https://hackernoon.com/inspiration-on-command-5-easy-steps-to-never-wait-for-creativity-again)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rv02qdj.jpeg)
-Professionals approach creativity differently. They don’t wait for inspiration to strike—they schedule it.
-
-### [125. An Obsession that Could Cost Thousands of Jobs](https://hackernoon.com/an-obsession-that-could-cost-thousands-of-jobs-3c5v3y7p)
-![](images/5cjx3y9d.jpg)
-35,000 people around the world work for the Gupta Family Group of companies. Sanjeev Gupta, the Chair, has invested millions into the UK and other countries, most often in the manufacturing sector.
-
-### [126. Should $CRM Buy $WORK?](https://hackernoon.com/should-dollarcrm-buy-dollarwork-ba223w6o)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-9cy3wa9.jpeg?alt=media&token=0952d721-3df4-4053-841d-c25964ec17e8)
-This Slack discussion by me and Hang occurred in hackernoon's official #slogging-beta channel.
-
-### [127. How Augmented Reality Is Transforming Workplace Training](https://hackernoon.com/how-augmented-reality-is-transforming-workplace-training)
-![](https://cdn.hackernoon.com/images/lxe2pKf4ClTV93ElBeBmPKLVf9I2-md93qlr.jpeg)
-This article explores the potential benefits of augmented reality (AR) in workplace training. AR provides a more engaging and practical learning experience.
-
-### [128. How Dangerous Is It to Be Gig Worker?](https://hackernoon.com/how-dangerous-is-it-to-be-gig-worker)
+### [124. How Dangerous Is It to Be Gig Worker?](https://hackernoon.com/how-dangerous-is-it-to-be-gig-worker)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-he92lfv.jpeg)
 How dangerous is it to be a gig worker in America?
 
-### [129. 10 Ways to Prevent Burnout While Working From Home](https://hackernoon.com/10-ways-to-prevent-burnout-while-working-from-home)
+### [125. Inspiration On Command: 5 Easy Steps to Never Wait for Creativity Again](https://hackernoon.com/inspiration-on-command-5-easy-steps-to-never-wait-for-creativity-again)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rv02qdj.jpeg)
+Professionals approach creativity differently. They don’t wait for inspiration to strike—they schedule it.
+
+### [126. An Obsession that Could Cost Thousands of Jobs](https://hackernoon.com/an-obsession-that-could-cost-thousands-of-jobs-3c5v3y7p)
+![](images/5cjx3y9d.jpg)
+35,000 people around the world work for the Gupta Family Group of companies. Sanjeev Gupta, the Chair, has invested millions into the UK and other countries, most often in the manufacturing sector.
+
+### [127. Should $CRM Buy $WORK?](https://hackernoon.com/should-dollarcrm-buy-dollarwork-ba223w6o)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-9cy3wa9.jpeg?alt=media&token=0952d721-3df4-4053-841d-c25964ec17e8)
+This Slack discussion by me and Hang occurred in hackernoon's official #slogging-beta channel.
+
+### [128. 10 Ways to Prevent Burnout While Working From Home](https://hackernoon.com/10-ways-to-prevent-burnout-while-working-from-home)
 ![](https://cdn.hackernoon.com/images/dekqFKbCjYP7GoUnRP2jptMYXsC3-suc3kos.jpeg)
 While working from home has many benefits, it also has the potential for certain drawbacks. Burnout is a serious risk while working from home.
+
+### [129. How Augmented Reality Is Transforming Workplace Training](https://hackernoon.com/how-augmented-reality-is-transforming-workplace-training)
+![](https://cdn.hackernoon.com/images/lxe2pKf4ClTV93ElBeBmPKLVf9I2-md93qlr.jpeg)
+This article explores the potential benefits of augmented reality (AR) in workplace training. AR provides a more engaging and practical learning experience.
 
 ### [130. Artificial Intelligence Could Bridge Economic Inequalities](https://hackernoon.com/artificial-intelligence-could-bridge-economic-inequalities)
 ![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-3m93rqg.jpeg)
@@ -573,45 +575,45 @@ The workforce is different from anything in education. Of all the differences he
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-rpc3hvc.jpeg)
 In this slogging thread, our community discusses Zeitler's initiative, Coworking Bansko, and nomadic working.
 
-### [140. 4 Tips on How to Incorporate Deep Work in Your Daily Routine](https://hackernoon.com/4-tips-on-how-to-incorporate-deep-work-in-your-daily-routine-9oz37q3)
+### [140. The Importance of Upskilling in Today's Digital Landscape: A Look at the Latest Trends](https://hackernoon.com/the-importance-of-upskilling-in-todays-digital-landscape-a-look-at-the-latest-trends)
+![](https://cdn.hackernoon.com/images/z5L7cZprQRgVvL7bpydqTnZfaqu1-rn93tu1.jpeg)
+This is making it increasingly important for individuals to develop these skills if they want to remain competitive in the job market.
+
+### [141. 4 Tips on How to Incorporate Deep Work in Your Daily Routine](https://hackernoon.com/4-tips-on-how-to-incorporate-deep-work-in-your-daily-routine-9oz37q3)
 ![](https://cdn.hackernoon.com/images/tk9vmzdTi3gZG0MAtATvZ9rcuCs2-b74v35nt.jpeg)
 In a world,  the ability to perform deep work is the most valuable skill in the 21st century, and here’s how you can apply it in your day-to-day routine.
-
-### [141. How to Stop Micromanaging Remote Workers ](https://hackernoon.com/how-to-stop-micromanaging-remote-workers)
-![](https://cdn.hackernoon.com/images/N51l9KE2WvYZKrFLlQ42s1i7e4n1-wz93rb0.jpeg)
-With the adoption of remote work by a greater percentage of the workforce post-pandemic, most companies face issues that were not necessarily present before now
 
 ### [142. How Money Works: Value Created, Reach, and Personal Satisfaction](https://hackernoon.com/how-money-works-value-created-reach-and-personal-satisfaction)
 ![](https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-xp93hu9.jpeg)
 Choosing a career path that will enable you financial solidity is important. Only if you are not struggling financially you will be able to flourish in life 
 
-### [143. This Secret Method Will Help You Become More Effective At Work](https://hackernoon.com/this-secret-method-will-help-you-become-more-effective-at-work-cq1433eh)
-![](https://cdn.hackernoon.com/images/IV0JQLsMeUPtnTkzLruhJAkpC5F2-604t32xn.jpeg)
-The 50/10 method is simple. It says work for fifty minutes; rest for ten minutes.
+### [143. How to Stop Micromanaging Remote Workers ](https://hackernoon.com/how-to-stop-micromanaging-remote-workers)
+![](https://cdn.hackernoon.com/images/N51l9KE2WvYZKrFLlQ42s1i7e4n1-wz93rb0.jpeg)
+With the adoption of remote work by a greater percentage of the workforce post-pandemic, most companies face issues that were not necessarily present before now
 
-### [144. Side Projects: Yay or Nay?](https://hackernoon.com/side-projects-yay-or-nay)
-![](https://cdn.hackernoon.com/images/mmcnbUAlELbkg8hUIlnzWeSpQEy2-za03shj.jpeg)
-I love to build stuff online, but do I have too many side projects?
-
-### [145. Your Shape as a Developer Defines How You Work ](https://hackernoon.com/your-shape-as-a-developer-defines-how-you-work)
-![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-ufa3vpb.jpeg)
-Going all in on a specific technology or learning many at once, but not going deep enough?
-
-### [146. The Robots Will Probably Take Our Jobs, but Should We Really Be Worried?](https://hackernoon.com/the-robots-will-probably-take-our-jobs-but-should-we-really-be-worried)
-![](https://cdn.hackernoon.com/images/6A0suxpEFnQnwNbpvRr1rm4wpI63-4s9354m.jpeg)
-By now, there is no question that artificial intelligence and robots will be a regular part of the workforce in the near future. 
-
-### [147. 5 Things I’ve Learnt From Working at Web3 Startups](https://hackernoon.com/5-things-ive-learnt-from-working-at-web3-startups)
+### [144. 5 Things I’ve Learnt From Working at Web3 Startups](https://hackernoon.com/5-things-ive-learnt-from-working-at-web3-startups)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-3493p82.png)
 Funded by VCs, the promise of remote work and lots and lots of networking parties- sounds like quite a dream right? Kinda. But also not really.
 
-### [148. The Importance of Upskilling in Today's Digital Landscape: A Look at the Latest Trends](https://hackernoon.com/the-importance-of-upskilling-in-todays-digital-landscape-a-look-at-the-latest-trends)
-![](https://cdn.hackernoon.com/images/z5L7cZprQRgVvL7bpydqTnZfaqu1-rn93tu1.jpeg)
-This is making it increasingly important for individuals to develop these skills if they want to remain competitive in the job market.
+### [145. The Robots Will Probably Take Our Jobs, but Should We Really Be Worried?](https://hackernoon.com/the-robots-will-probably-take-our-jobs-but-should-we-really-be-worried)
+![](https://cdn.hackernoon.com/images/6A0suxpEFnQnwNbpvRr1rm4wpI63-4s9354m.jpeg)
+By now, there is no question that artificial intelligence and robots will be a regular part of the workforce in the near future. 
 
-### [149. How We Can Get Young Students Interested in STEM Careers](https://hackernoon.com/how-we-can-get-young-students-interested-in-stem-careers)
+### [146. This Secret Method Will Help You Become More Effective At Work](https://hackernoon.com/this-secret-method-will-help-you-become-more-effective-at-work-cq1433eh)
+![](https://cdn.hackernoon.com/images/IV0JQLsMeUPtnTkzLruhJAkpC5F2-604t32xn.jpeg)
+The 50/10 method is simple. It says work for fifty minutes; rest for ten minutes.
+
+### [147. Your Shape as a Developer Defines How You Work ](https://hackernoon.com/your-shape-as-a-developer-defines-how-you-work)
+![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-ufa3vpb.jpeg)
+Going all in on a specific technology or learning many at once, but not going deep enough?
+
+### [148. How We Can Get Young Students Interested in STEM Careers](https://hackernoon.com/how-we-can-get-young-students-interested-in-stem-careers)
 ![](https://cdn.hackernoon.com/images/EAoWSsrWAFZTtjOYXmIuIN8lRBI2-nb92c83.jpeg)
 For many students, STEM careers may feel like they’re reserved for overachievers and math aficionados. However, for those who have actually pursued careers in STEM, it quickly becomes clear that the field is broad and filled with a wide variety of jobs to pursue. 
+
+### [149. Side Projects: Yay or Nay?](https://hackernoon.com/side-projects-yay-or-nay)
+![](https://cdn.hackernoon.com/images/mmcnbUAlELbkg8hUIlnzWeSpQEy2-za03shj.jpeg)
+I love to build stuff online, but do I have too many side projects?
 
 ### [150. 5 Important Things We Should Stop Neglecting When Hiring](https://hackernoon.com/5-important-things-we-should-stop-neglecting-when-hiring-ypp33sg)
 ![](https://cdn.hackernoon.com/images/KkZqD3Zit1PJVPQ3mJ5dUr7G8Z92-7d1c3zw8.jpeg)
@@ -647,33 +649,33 @@ I am sharing 10 practical ways to embrace mindfulness, focus on wellness, and ma
 ![](https://cdn.hackernoon.com/images/gP4opxfmPrZit0pOkDoEn6Cq7Vl1-fm03b4g.png)
 The resume was invented in the 1400s — and not much has changed since.
 
-### [158. Can Tech Combat Remote Work Burnout?](https://hackernoon.com/can-tech-combat-remote-work-burnout)
-![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-p0a3pch.jpeg)
-With the advent of remote and hybrid work, one thing many employees and companies are trying to overcome is employee burnout. Is technology the solution?
-
-### [159. A Step-By-Step Guide on How to Hire Engineering Managers](https://hackernoon.com/a-step-by-step-guide-on-how-to-hire-engineering-managers)
+### [158. A Step-By-Step Guide on How to Hire Engineering Managers](https://hackernoon.com/a-step-by-step-guide-on-how-to-hire-engineering-managers)
 ![](https://cdn.hackernoon.com/images/Rb23uaREMkalhM7X3fdN0xnYgsT2-mtb37v7.jpeg)
 A complete guide to hiring engineering managers, including how to identify what to interview for. Includes a full interview plan with interview questions.
 
-### [160. How to Sustain Telehealth Success](https://hackernoon.com/how-to-sustain-telehealth-success)
-![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-y893ptr.jpeg)
-Telehealth has taken the medical industry by storm since COVID-19 began. The pandemic might be winding down, but telehealth is here to stay for the future. 
-
-### [161. Striking the Right Balance Between Innovation and Maintenance](https://hackernoon.com/striking-the-right-balance-between-innovation-and-maintenance)
+### [159. Striking the Right Balance Between Innovation and Maintenance](https://hackernoon.com/striking-the-right-balance-between-innovation-and-maintenance)
 ![](https://cdn.hackernoon.com/images/rTGkuSmEEIdJxS4Bj7H8MUxQhOg2-q6a3vd7.jpeg)
 Explore the intricate balance between innovation and maintenance in software development. Uncover strategies to ensure growth while maintaining product integrit
 
-### [162. AI: From ZERO to H...aving A Lot of Questions (Part II)](https://hackernoon.com/ai-from-zero-to-having-a-lot-of-questions-part-ii-v84m32hh)
-![](https://cdn.hackernoon.com/drafts/3y1l28gj.png)
-(If you just landed here, be sure to check Part I)
-
-### [163. You Need Authentic Connections: How to Reframe Your Network Narrative](https://hackernoon.com/you-need-authentic-connections-how-to-reframe-your-network-narrative)
+### [160. You Need Authentic Connections: How to Reframe Your Network Narrative](https://hackernoon.com/you-need-authentic-connections-how-to-reframe-your-network-narrative)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-9ka3ttp.jpeg)
 Reframe Your Networking Narrative: How To Connect Authentically
 
-### [164. Over 50 U.S. Gig Workers Murdered on the Job in the Past Five Years ](https://hackernoon.com/over-50-us-gig-workers-murdered-on-the-job-in-the-past-five-years)
+### [161. Can Tech Combat Remote Work Burnout?](https://hackernoon.com/can-tech-combat-remote-work-burnout)
+![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-p0a3pch.jpeg)
+With the advent of remote and hybrid work, one thing many employees and companies are trying to overcome is employee burnout. Is technology the solution?
+
+### [162. How to Sustain Telehealth Success](https://hackernoon.com/how-to-sustain-telehealth-success)
+![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-y893ptr.jpeg)
+Telehealth has taken the medical industry by storm since COVID-19 began. The pandemic might be winding down, but telehealth is here to stay for the future. 
+
+### [163. Over 50 U.S. Gig Workers Murdered on the Job in the Past Five Years ](https://hackernoon.com/over-50-us-gig-workers-murdered-on-the-job-in-the-past-five-years)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-cxd2hje.jpeg)
 A new study says more than 50 gig workers have been murdered in the U.S. over the past five years.
+
+### [164. AI: From ZERO to H...aving A Lot of Questions (Part II)](https://hackernoon.com/ai-from-zero-to-having-a-lot-of-questions-part-ii-v84m32hh)
+![](https://cdn.hackernoon.com/drafts/3y1l28gj.png)
+(If you just landed here, be sure to check Part I)
 
 ### [165. How to Measure Productivity as a Developer](https://hackernoon.com/how-to-measure-productivity-as-a-developer)
 ![](https://cdn.hackernoon.com/images/NDHVJh0ZXWa5WkYI7DAnJI1tGU72-0393anc.jpeg)
@@ -683,94 +685,94 @@ How can development productivity be measured? And should it be measured at all? 
 ![](https://cdn.hackernoon.com/images/VdThZgqYnkfg78mMLTxGHSjfNDg2-ys93rob.jpeg)
 Embracing the changing face of work: understanding automation's influence and equipping yourself with skills for the future. 
 
-### [167. Shine at Work: 8 Tips to Get Noticed](https://hackernoon.com/shine-at-work-8-tips-to-get-noticed)
-![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-w2037qf.jpeg)
-What matters is how you operate, how you interact with others, or how you look beyond the outcomes to generate value.
+### [167. Navigating Toxicity in the Workplace](https://hackernoon.com/navigating-toxicity-in-the-workplace)
+![](https://cdn.hackernoon.com/images/BB2YpqrhQFNDkmPeyOAC2tyaYwt1-sp93pa4.jpeg)
+Workplace toxicity can imply many different things to different people, much like the elusive chameleon of the working world.
 
-### [168. 17 Skills Improve Managerial Communication in The Workplace](https://hackernoon.com/17-skills-improve-managerial-communication-in-the-workplace-4c2e35le)
-![](https://cdn.hackernoon.com/images/7skvMoTLQPTuwU5MRJrEZ31wECq2-ti7i33gd.jpeg)
-In this article, you’ll discover why communication is a critical skill for a manager and seventeen skills to improve communication at work
+### [168. Breaking Barriers: Remote Work's Impact on Social Mobility in Latin America](https://hackernoon.com/breaking-barriers-remote-works-impact-on-social-mobility-in-latin-america)
+![](https://cdn.hackernoon.com/images/ZSnNpZ3GejgVSxqs3EyP38vlsLL2-w893r3y.jpeg)
+People products include retention plans, smooth onboarding and offboarding processes, and the upcoming launch of their recruitment app.
 
 ### [169. Workers Are Paying the Price Because the U.S. Never Banned Asbestos](https://hackernoon.com/workers-are-paying-the-price-because-the-us-never-banned-asbestos)
 ![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-dda2l6u.jpeg)
 To this day, the U.S. allows hundreds of tons of asbestos to flow in each year from Brazil, primarily for the benefit of two major chemical companies...
 
-### [170. Navigating Toxicity in the Workplace](https://hackernoon.com/navigating-toxicity-in-the-workplace)
-![](https://cdn.hackernoon.com/images/BB2YpqrhQFNDkmPeyOAC2tyaYwt1-sp93pa4.jpeg)
-Workplace toxicity can imply many different things to different people, much like the elusive chameleon of the working world.
+### [170. Gen Z Doesn’t Hate Work — They Hate the AI That Filters Them Out](https://hackernoon.com/gen-z-doesnt-hate-work-they-hate-the-ai-that-filters-them-out)
+![](https://cdn.hackernoon.com/images/gP4opxfmPrZit0pOkDoEn6Cq7Vl1-7403bue.png)
+This article explores how AI, layered onto outdated hiring systems, is failing Gen Z and modern talent. It challenges traditional recruitment models and propose
 
 ### [171. Why Launching a New Project with a Remote Team Is a Good Idea](https://hackernoon.com/why-launching-a-new-project-with-a-remote-team-is-a-good-idea)
 ![](https://cdn.hackernoon.com/images/NaZjanwm14XFRBsgnCZGATBb8QP2-3g93v6j.jpeg)
 Having a remote team in the project will lower expenses and make hiring easier. It will lead to many operational challenges too. Let's see how to address them. 
 
-### [172. What Will the Gig Economy be like in 2022?](https://hackernoon.com/what-will-the-gig-economy-be-like-in-2022)
+### [172. The Human Side of DevOps: How Culture Drives Business Outcomes](https://hackernoon.com/the-human-side-of-devops-how-culture-drives-business-outcomes)
+![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-kja3pnf.jpeg)
+The DevOps structural equation model has several elements related to people and culture, so it's clear that human issues are an important part of the DevOps. 
+
+### [173. What Will the Gig Economy be like in 2022?](https://hackernoon.com/what-will-the-gig-economy-be-like-in-2022)
 ![](https://cdn.hackernoon.com/images/tk9vmzdTi3gZG0MAtATvZ9rcuCs2-3w93lsx.jpeg)
 Any sort of work that doesn't really need an everyday occupation is viewed as a Gig Economy. 
 
-### [173. Gen Z Doesn’t Hate Work — They Hate the AI That Filters Them Out](https://hackernoon.com/gen-z-doesnt-hate-work-they-hate-the-ai-that-filters-them-out)
-![](https://cdn.hackernoon.com/images/gP4opxfmPrZit0pOkDoEn6Cq7Vl1-7403bue.png)
-This article explores how AI, layered onto outdated hiring systems, is failing Gen Z and modern talent. It challenges traditional recruitment models and propose
+### [174. Shine at Work: 8 Tips to Get Noticed](https://hackernoon.com/shine-at-work-8-tips-to-get-noticed)
+![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-w2037qf.jpeg)
+What matters is how you operate, how you interact with others, or how you look beyond the outcomes to generate value.
 
-### [174. Can Data Automation Transform The Workplace?](https://hackernoon.com/can-data-automation-transform-the-workplace-v6ae3zvr)
+### [175. 17 Skills Improve Managerial Communication in The Workplace](https://hackernoon.com/17-skills-improve-managerial-communication-in-the-workplace-4c2e35le)
+![](https://cdn.hackernoon.com/images/7skvMoTLQPTuwU5MRJrEZ31wECq2-ti7i33gd.jpeg)
+In this article, you’ll discover why communication is a critical skill for a manager and seventeen skills to improve communication at work
+
+### [176. The Pros and Cons of Smart Working: My Experience](https://hackernoon.com/the-pros-and-cons-of-smart-working-my-experience)
+![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-9f93wft.jpeg)
+Let’s begin with what I don’t like, and what I feel I'm missing from when I was working from the office; we'll get into the positive aspects later.
+
+### [177. Can Data Automation Transform The Workplace?](https://hackernoon.com/can-data-automation-transform-the-workplace-v6ae3zvr)
 ![](https://cdn.hackernoon.com/drafts/glg83vat.png)
 Every minute, a staggering 1,820 terabytes of data is created around the world. That’s more than 2.5 quintillion bytes every day! This data takes many forms, from Tweets and Instagram posts to the generation of new
 bitcoin. 
 
-### [175. Breaking Barriers: Remote Work's Impact on Social Mobility in Latin America](https://hackernoon.com/breaking-barriers-remote-works-impact-on-social-mobility-in-latin-america)
-![](https://cdn.hackernoon.com/images/ZSnNpZ3GejgVSxqs3EyP38vlsLL2-w893r3y.jpeg)
-People products include retention plans, smooth onboarding and offboarding processes, and the upcoming launch of their recruitment app.
-
-### [176. The Human Side of DevOps: How Culture Drives Business Outcomes](https://hackernoon.com/the-human-side-of-devops-how-culture-drives-business-outcomes)
-![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-kja3pnf.jpeg)
-The DevOps structural equation model has several elements related to people and culture, so it's clear that human issues are an important part of the DevOps. 
-
-### [177. The Pros and Cons of Smart Working: My Experience](https://hackernoon.com/the-pros-and-cons-of-smart-working-my-experience)
-![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-9f93wft.jpeg)
-Let’s begin with what I don’t like, and what I feel I'm missing from when I was working from the office; we'll get into the positive aspects later.
-
-### [178. An Open Letter to My Invisible Employer](https://hackernoon.com/an-open-letter-to-my-invisible-employer-6w193upf)
-![](https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-I have lived 6 years in this corporate life. I have spent my valuable energy, time and patience on you.
-
-### [179. Fostering Trust within Remote Teams](https://hackernoon.com/fostering-trust-within-remote-teams)
+### [178. Fostering Trust within Remote Teams](https://hackernoon.com/fostering-trust-within-remote-teams)
 ![](https://cdn.hackernoon.com/images/rTGkuSmEEIdJxS4Bj7H8MUxQhOg2-zv93unb.jpeg)
 Learn how to build trust within remote tech teams. This guide explores key elements of trust and practical strategies for fostering a unified team.
 
-### [180. Here's Why Software Engineers And Data Scientists Get Fed Up And Quit](https://hackernoon.com/heres-why-software-engineers-and-data-scientists-get-fed-up-and-quit-5x2d353v)
+### [179. Here's Why Software Engineers And Data Scientists Get Fed Up And Quit](https://hackernoon.com/heres-why-software-engineers-and-data-scientists-get-fed-up-and-quit-5x2d353v)
 ![](https://cdn.hackernoon.com/images/SUzTize943XYQNihgnsJCM7Jme82-3jm34oy.jpeg)
 Most developers and software engineers will hit a "technical ceiling" in their career. Why the limit? How do you break through?
 
-### [181. 4 Ways to Introduce New Technology to Work](https://hackernoon.com/4-ways-to-introduce-new-technology-to-work)
-![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-iv0370s.jpeg)
-Every day, there are new tools that come into the market to make us more productive. More so since the global pandemic took hold. 
+### [180. An Open Letter to My Invisible Employer](https://hackernoon.com/an-open-letter-to-my-invisible-employer-6w193upf)
+![](https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+I have lived 6 years in this corporate life. I have spent my valuable energy, time and patience on you.
 
-### [182. My Workstation Must Haves](https://hackernoon.com/my-workstation-must-haves-va2b37n0)
-![](https://cdn.hackernoon.com/images/Y2ehhghfKZe3pE04vku7ZD8kGH53-vah3399.jpeg)
-My workspace is just a small table, but it buries my dreams in it.
-
-### [183. Tech Workers Need More Than the Average U.S. Salary And This Is Why](https://hackernoon.com/tech-workers-need-more-than-the-average-us-salary-and-this-is-why)
+### [181. Tech Workers Need More Than the Average U.S. Salary And This Is Why](https://hackernoon.com/tech-workers-need-more-than-the-average-us-salary-and-this-is-why)
 ![](https://cdn.hackernoon.com/images/CFe2OEutzHPpZu5ypBrXf2VsWPW2-fa9389q.jpeg)
 And according to recent data compiled by Indeed, job seekers are 75% more likely to apply for a job that displays salary information over those that don’t.
 
-### [184. This Is What Disabled Workers Had to Say About Sheltered Workshops](https://hackernoon.com/this-is-what-disabled-workers-had-to-say-about-sheltered-workshops)
-![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-zf92l33.jpeg)
-More than 5,000 disabled adults work in Missouri’s sheltered workshops, some earning less than $1 per hour.
+### [182. 4 Ways to Introduce New Technology to Work](https://hackernoon.com/4-ways-to-introduce-new-technology-to-work)
+![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-iv0370s.jpeg)
+Every day, there are new tools that come into the market to make us more productive. More so since the global pandemic took hold. 
 
-### [185. This Company Got a Huge Loan and Then Moved Its Plant to Another Country](https://hackernoon.com/this-company-got-a-huge-loan-and-then-moved-its-plant-to-another-country)
-![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-7h92iu8.jpeg)
-Nevertheless, the plant’s managers announced that all production would move to FreightCar’s new facility in Mexico...
-
-### [186. Does Your Work as a Data Analyst Matter?](https://hackernoon.com/does-your-work-as-a-data-analyst-matter)
+### [183. Does Your Work as a Data Analyst Matter?](https://hackernoon.com/does-your-work-as-a-data-analyst-matter)
 ![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-c983l8c.png)
 We wonder: Is anyone actually reading this? Does this dashboard change anything?
 
-### [187. A Temp Worker Died Working For FedEx - The Company Only Got Fined $7,000](https://hackernoon.com/a-temp-worker-died-working-for-fedex-the-company-only-got-fined-$7000)
-![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-4192hxy.jpeg)
-Between 2016 and 2019, more than 70 injuries were reported at the site where Stanberry was hurt and Young was fatally injured...
+### [184. My Workstation Must Haves](https://hackernoon.com/my-workstation-must-haves-va2b37n0)
+![](https://cdn.hackernoon.com/images/Y2ehhghfKZe3pE04vku7ZD8kGH53-vah3399.jpeg)
+My workspace is just a small table, but it buries my dreams in it.
 
-### [188. The Best Software HR Can Use in the Workplace to Reduce Workload](https://hackernoon.com/the-best-software-hr-can-use-in-the-workplace-to-reduce-workload)
+### [185. This Is What Disabled Workers Had to Say About Sheltered Workshops](https://hackernoon.com/this-is-what-disabled-workers-had-to-say-about-sheltered-workshops)
+![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-zf92l33.jpeg)
+More than 5,000 disabled adults work in Missouri’s sheltered workshops, some earning less than $1 per hour.
+
+### [186. This Company Got a Huge Loan and Then Moved Its Plant to Another Country](https://hackernoon.com/this-company-got-a-huge-loan-and-then-moved-its-plant-to-another-country)
+![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-7h92iu8.jpeg)
+Nevertheless, the plant’s managers announced that all production would move to FreightCar’s new facility in Mexico...
+
+### [187. The Best Software HR Can Use in the Workplace to Reduce Workload](https://hackernoon.com/the-best-software-hr-can-use-in-the-workplace-to-reduce-workload)
 ![](https://cdn.hackernoon.com/images/frDeWhzZjDacAQUpRCFRiLQSmdx2-l4e3qws.jpeg)
 This article will discuss five of the best tools HR professionals can use to make their lives easier. Workday, Bamboo HR, Zenefits, and Infor are just a few of the software solutions available. These tools help HR professionals and business users optimize workflow processes and provide a consistent experience across platforms. Let's take a look at each one in turn. Which of these tools will you need to use?
+
+### [188. A Temp Worker Died Working For FedEx - The Company Only Got Fined $7,000](https://hackernoon.com/a-temp-worker-died-working-for-fedex-the-company-only-got-fined-$7000)
+![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-4192hxy.jpeg)
+Between 2016 and 2019, more than 70 injuries were reported at the site where Stanberry was hurt and Young was fatally injured...
 
 ### [189. Work is turning your idea into things.](https://hackernoon.com/work-is-turning-your-idea-into-things-igt234ac)
 ![](https://cdn.hackernoon.com/images/hns634ls.jpg)
@@ -805,56 +807,56 @@ Here is a short collection of tech horror stories, their underlying causes, and 
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-5y93uol.jpeg)
 The Dark Side of ‘Hustle Culture’
 
-### [197. 7 Ways to Promote Sustainability in the Workplace](https://hackernoon.com/7-ways-to-promote-sustainability-in-the-workplace)
-![](https://cdn.hackernoon.com/images/pEKa7SH8XTNDOu3Oq1yICsHDDIC2-0b037z2.jpeg)
-We want to work, live, and play in a way that isn’t going to cost us the planet and, where possible, can potentially restore nature to what it once was.
-
-### [198. Bridging the Gap: How Senior Developers Can Pass Down Their Knowledge and Wisdom](https://hackernoon.com/bridging-the-gap-how-senior-developers-can-pass-down-their-knowledge-and-wisdom)
+### [197. Bridging the Gap: How Senior Developers Can Pass Down Their Knowledge and Wisdom](https://hackernoon.com/bridging-the-gap-how-senior-developers-can-pass-down-their-knowledge-and-wisdom)
 ![](https://cdn.hackernoon.com/images/rTGkuSmEEIdJxS4Bj7H8MUxQhOg2-dkb3vhk.jpeg)
 Explore the role of senior developers in bridging knowledge gaps. Uncover strategies to combat knowledge silos, foster collaboration, and drive team growth.
 
-### [199. How Using AI Can Help or Hurt an Organization](https://hackernoon.com/how-using-ai-can-help-or-hurt-an-organization)
+### [198. How Using AI Can Help or Hurt an Organization](https://hackernoon.com/how-using-ai-can-help-or-hurt-an-organization)
 ![](https://cdn.hackernoon.com/images/WaM9YikXl6X1gmSgV2m0gBfcCNU2-l793rg5.jpeg)
 It’s true that there are many ways AI can help an organization, yet it’s crucial to remember that it’s not without its risks.
 
-### [200. Crucial Steps Towards Effective Problem Solving In The Workplace](https://hackernoon.com/crucial-steps-towards-effective-problem-solving-in-the-workplace-p61133x9)
-![](https://cdn.hackernoon.com/images/2yRNw8i4Sthf96A5PoMFRjbH9ay2-j1x635af.jpeg)
-Every business - and everyone - encounters problems, whether it's too few customers, a product now working, or a team not functioning as it should.
+### [199. 7 Ways to Promote Sustainability in the Workplace](https://hackernoon.com/7-ways-to-promote-sustainability-in-the-workplace)
+![](https://cdn.hackernoon.com/images/pEKa7SH8XTNDOu3Oq1yICsHDDIC2-0b037z2.jpeg)
+We want to work, live, and play in a way that isn’t going to cost us the planet and, where possible, can potentially restore nature to what it once was.
 
-### [201. Will 2020 Be The Year You Finally Quit Your Job?](https://hackernoon.com/2020-is-finally-the-year-i-quit-my-job-bqp32km)
+### [200. Will 2020 Be The Year You Finally Quit Your Job?](https://hackernoon.com/2020-is-finally-the-year-i-quit-my-job-bqp32km)
 ![](https://cdn.hackernoon.com/drafts/sf9e32a1.png)
 Every year, every month, every day — I kept telling myself that I will, one day, follow my dreams.  This is the story of how I finally took action and quit my job.
 
 My job was just another regular corporate job at a decent company. However, I always felt that there was so much more I could do. The daily commutes, the pointless meetings, the high pressure projects drained my energy, my soul, my body and mostly, my mind. In addition to this, over the course of the last few years, I dealt with bullying, dealt with aggressive co-workers, with unrealistic deadlines, under-appreciation of hard work. I overcame each challenge and towards the end of 2019, I started seriously contemplating how I was living life.
 
-### [202. Knowing When to Call it Quits: The Power of Letting Go and Moving On](https://hackernoon.com/knowing-when-to-call-it-quits-the-power-of-letting-go-and-moving-on)
-![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-fh93u6d.jpeg)
-Knowing When It’s Over: The Power in Moving On and Letting Go
+### [201. Crucial Steps Towards Effective Problem Solving In The Workplace](https://hackernoon.com/crucial-steps-towards-effective-problem-solving-in-the-workplace-p61133x9)
+![](https://cdn.hackernoon.com/images/2yRNw8i4Sthf96A5PoMFRjbH9ay2-j1x635af.jpeg)
+Every business - and everyone - encounters problems, whether it's too few customers, a product now working, or a team not functioning as it should.
 
-### [203. Did You Quit Your Job to Face an Even Worse Boss?](https://hackernoon.com/did-you-quit-your-job-to-face-an-even-worse-boss)
+### [202. Did You Quit Your Job to Face an Even Worse Boss?](https://hackernoon.com/did-you-quit-your-job-to-face-an-even-worse-boss)
 ![](https://cdn.hackernoon.com/images/KkZqD3Zit1PJVPQ3mJ5dUr7G8Z92-de038xu.jpeg)
 The science behind becoming your own personal tyrant
 
-### [204. How to Deal With Accusations in the Workplace](https://hackernoon.com/how-to-deal-with-accusations-in-the-workplace-mr473wbd)
+### [203. Knowing When to Call it Quits: The Power of Letting Go and Moving On](https://hackernoon.com/knowing-when-to-call-it-quits-the-power-of-letting-go-and-moving-on)
+![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-fh93u6d.jpeg)
+Knowing When It’s Over: The Power in Moving On and Letting Go
+
+### [204. How to Improve the Hiring Process in 2023: 9 Different Ways](https://hackernoon.com/how-to-improve-the-hiring-process-in-2023-9-different-ways)
+![](https://cdn.hackernoon.com/images/SfHwgKuyJhc0GBWrqhVOczemoMl1-ch93r87.jpeg)
+Companies must boost their hiring process and be more competitive to reach out to the best talent. Learn about Proven ways to improve the hiring process.
+
+### [205. Exploring the Art of Creativity](https://hackernoon.com/exploring-the-art-of-creativity)
+![](https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-1t137v3.jpeg)
+Creativity is also more art than science, so we need plenty of time to experiment and fine-tune our experiences.
+
+### [206. How to Deal With Accusations in the Workplace](https://hackernoon.com/how-to-deal-with-accusations-in-the-workplace-mr473wbd)
 ![](https://images.unsplash.com/photo-1568992687947-868a62a9f521?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Employee deceit comes as a serious stun, especially when you put
 time and cost in offering comfort and direction during the employer and employee business relationship. The double-crossing can be destroying both by and by and inside the setting of organization resources. At the point when charges of employee deceptive nature surface, make quick move to decide the veracity of the cases and the degree of misfortunes the organization may endure. In any case, don't come to untimely end results until a full work environment investigation is finished. 
 
-### [205. How To Be a Responsible Employer and a Leader in Times of Workplace Crisis](https://hackernoon.com/how-to-be-a-responsible-employer-and-a-leader-in-times-of-workplace-crisis-4c4q3ynh)
+### [207. How To Be a Responsible Employer and a Leader in Times of Workplace Crisis](https://hackernoon.com/how-to-be-a-responsible-employer-and-a-leader-in-times-of-workplace-crisis-4c4q3ynh)
 ![](https://images.unsplash.com/photo-1530939027401-cca9976c77f7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Based on the type of work you are doing and the capacity in which your workers operate, any or more of the following occupational injuries can occur to your employees.
 
-### [206. Exploring the Art of Creativity](https://hackernoon.com/exploring-the-art-of-creativity)
-![](https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-1t137v3.jpeg)
-Creativity is also more art than science, so we need plenty of time to experiment and fine-tune our experiences.
-
-### [207. How To Find & Do Work That You Love](https://hackernoon.com/how-to-find-do-work-that-you-love-f66cae181681)
+### [208. How To Find & Do Work That You Love](https://hackernoon.com/how-to-find-do-work-that-you-love-f66cae181681)
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-gu02m1v.jpeg)
 Do what your passionate about is not good advice.
-
-### [208. How to Improve the Hiring Process in 2023: 9 Different Ways](https://hackernoon.com/how-to-improve-the-hiring-process-in-2023-9-different-ways)
-![](https://cdn.hackernoon.com/images/SfHwgKuyJhc0GBWrqhVOczemoMl1-ch93r87.jpeg)
-Companies must boost their hiring process and be more competitive to reach out to the best talent. Learn about Proven ways to improve the hiring process.
 
 ### [209. Omnipresent Requests That All Employees Return to the Office: The Best April Fools Prank Ever?](https://hackernoon.com/omnipresent-requests-all-employees-return-to-the-office-the-april-fools-prank-ever)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-lq93hax.jpeg)

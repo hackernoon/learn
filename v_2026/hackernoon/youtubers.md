@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [youtubers](https://hackernoon.com/tagged/youtubers)
+### Let's learn about [Youtubers](https://hackernoon.com/tagged/youtubers) via these 109 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+YouTubers are content creators who produce and upload videos to the YouTube platform, shaping digital culture and influencing audiences through entertainment, education, and commentary. They matter by democratizing media production and creating new forms of digital entrepreneurship and community engagement.
+
 ### [1. How to Talk to ChatGPT: An Intro to Prompt Engineering](https://hackernoon.com/how-to-talk-to-chatgpt-an-intro-to-prompt-engineering)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-uta3kw8.jpeg)
 Prompting is pretty much the only skill you now require to be a master of these new large and powerful generative models such as ChatGPT.
@@ -253,17 +257,17 @@ Ethermore's first-ever let’s play video is being used to showcase a possible n
 ![](https://cdn.hackernoon.com/images/leaders-on-a-mountain-clhsnso68000001s6htut70xb.png)
 It seems like every morning I wake up and there is a brand new revolutionary technology or political movement creating massive ripples in the world. 
 
-### [63. Secrets to Grow a Small Business Without Spending Money](https://hackernoon.com/secrets-to-grow-a-small-business-without-spending-money-mi2o31za)
+### [63. Watch This Before Pursuing a Ph.D. in Machine Learning](https://hackernoon.com/watch-this-before-pursuing-a-phd-in-machine-learning)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-2i93m7m.jpeg)
+Pursuing a Ph.D. in machine learning can be a great way to break into the field and achieve specific research goals, but there might be a better option.
+
+### [64. Secrets to Grow a Small Business Without Spending Money](https://hackernoon.com/secrets-to-grow-a-small-business-without-spending-money-mi2o31za)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-8o4s4xat.jpeg?alt=media&token=78a3dc0e-b9c9-4c52-a1b0-69cb296501f9)
 Ex-Google Tech Lead shares his experience in growing a business from 0 to millions of users fast, and his top tips for you to get going too. 
 
-### [64. DeOldify can Colorize your Black & White Photos with Full Photorealistic Renders](https://hackernoon.com/deoldify-can-colorize-your-black-and-white-photos-with-full-photorealistic-renders-5k2i33c3)
+### [65. DeOldify can Colorize your Black & White Photos with Full Photorealistic Renders](https://hackernoon.com/deoldify-can-colorize-your-black-and-white-photos-with-full-photorealistic-renders-5k2i33c3)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-uf1y33g5.jpeg)
 DeOldify is a technique to colorize and restore old black and white images or even film footage. It was developed by Jason Antic.
-
-### [65. Watch This Before Pursuing a Ph.D. in Machine Learning](https://hackernoon.com/watch-this-before-pursuing-a-phd-in-machine-learning)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-2i93m7m.jpeg)
-Pursuing a Ph.D. in machine learning can be a great way to break into the field and achieve specific research goals, but there might be a better option.
 
 ### [66. New SOTA Image Captioning: ClipCap](https://hackernoon.com/new-sota-image-captioning-clipcap)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-nd13745.jpeg)
@@ -317,13 +321,13 @@ Learn everything you need to know about Youtube via these 124 free HackerNoon st
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-hi2i335c.jpeg)
 What is a convolutional neural network and explanation of one of the best and most used state-of-the-art CNN architecture in 2020: DenseNet.
 
-### [79. OBS for Dummies : How to Record Your Screen](https://hackernoon.com/obs-for-dummies-how-to-record-your-screen-0l1i342l)
-![](https://cdn.hackernoon.com/images/dnIZCMYkBvTHW3k1e565v2Oy2h03-ew6r37a8.gif)
-Wait... OBS..I have heard it somewhere. 
-
-### [80. An Interview with Quadruple Kaggle Grandmaster Chris Deotte from NVIDIA](https://hackernoon.com/an-interview-with-quadruple-kaggle-grandmaster-chris-deotte-from-nvidia)
+### [79. An Interview with Quadruple Kaggle Grandmaster Chris Deotte from NVIDIA](https://hackernoon.com/an-interview-with-quadruple-kaggle-grandmaster-chris-deotte-from-nvidia)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-xc93k82.jpeg)
 In this episode, I interview Chris Deotte, one of the very few Kaggle quadruple grandmasters. 
+
+### [80. OBS for Dummies : How to Record Your Screen](https://hackernoon.com/obs-for-dummies-how-to-record-your-screen-0l1i342l)
+![](https://cdn.hackernoon.com/images/dnIZCMYkBvTHW3k1e565v2Oy2h03-ew6r37a8.gif)
+Wait... OBS..I have heard it somewhere. 
 
 ### [81. How Waymo Combines Lidar and Cameras for 3D Object Detection](https://hackernoon.com/how-waymo-combines-lidar-and-cameras-for-3d-object-detection)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-wba3iv3.jpeg)
@@ -401,13 +405,13 @@ Forward Research introduces the beta release of the Universal Data License (UDL)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-b61c4x0y.jpeg?alt=media&token=c60a2cda-df16-4fa5-9aee-b1f8887c3a5c)
 Ex-Google engineer and YouTuber, TechLead, explains how to have a better time at your job so that you can avoid quitting it.
 
-### [100. How YouTubers Can Improve Their Marketing Strategies in 2021](https://hackernoon.com/how-youtubers-can-improve-their-marketing-strategies-in-2021-ib3c370w)
-![](https://cdn.hackernoon.com/images/c8wTwxgrToh00h79vJ1t3mAiw2M2-wjq29cd.jpeg)
-2020 with its lockdown affected both video creation and consumption, and that resulted in new rules in video marketing.  
-
-### [101. 5 Gaming YouTubers That are Worth a Sub](https://hackernoon.com/5-gaming-youtubers-that-are-worth-a-sub-ef4g337u)
+### [100. 5 Gaming YouTubers That are Worth a Sub](https://hackernoon.com/5-gaming-youtubers-that-are-worth-a-sub-ef4g337u)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-6e3m3374.jpeg)
 There are far too many people sharing their opinions about gaming on the internet but not all of them are for us. These are some people who we enjoy the most. 
+
+### [101. How YouTubers Can Improve Their Marketing Strategies in 2021](https://hackernoon.com/how-youtubers-can-improve-their-marketing-strategies-in-2021-ib3c370w)
+![](https://cdn.hackernoon.com/images/c8wTwxgrToh00h79vJ1t3mAiw2M2-wjq29cd.jpeg)
+2020 with its lockdown affected both video creation and consumption, and that resulted in new rules in video marketing.  
 
 ### [102. From 20 Billion Now to “29 Billion by the End of the Year” (Podcast)](https://hackernoon.com/from-20-billion-now-to-29-billion-by-the-end-of-the-year-podcast)
 ![](https://cdn.hackernoon.com/images/raining-money-clgurtlh5000001s656my5l4a.png)

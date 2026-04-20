@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [windows](https://hackernoon.com/tagged/windows)
+### Let's learn about [Windows](https://hackernoon.com/tagged/windows) via these 110 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Windows is Microsoft's widely used family of graphical operating systems for personal computers, servers, and embedded systems. It is a dominant platform essential for productivity, gaming, and software development for billions of users worldwide.
+
 ### [1. Here's How To Fix Your Ethernet If It's Not Working](https://hackernoon.com/heres-how-to-fix-your-ethernet-if-its-not-working-7r6y3yxw)
 ![](drafts/lc62c36q4.png)
 If your WiFi is working properly but your wired ethernet connection isn't, here's a bunch of things you can do. The first thing you need to do is turn off the WiFi. Right-click on the WiFi icon in the notification area and click "Open Network and Internet Settings". Go to the WiFi tab and use the toggle to turn it off.
@@ -89,13 +93,13 @@ Majority of software programs require a hardware USB dongle in order to produce 
 ![](https://cdn.hackernoon.com/images/gOXkLNjHQSZhHqpMESb54qLJ1V22-nfa3ox3.jpeg)
 This article will guide you through the process of setting up and using he Ducky-script-Fake-Windows-Login!
 
-### [23. Top 25 Employee Monitoring and Time Tracking Apps for Windows/MAC](https://hackernoon.com/top-25-employee-monitoring-and-time-tracking-apps-for-windowsmac-hi1u3w47)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYjMQ5ovwY0YTXp30fB6AUAZcstA3-dyc3w4r.jpeg?alt=media&token=c8874dcf-3194-4745-8c3b-1eb2b26ed5a8)
-Many companies today install various tracking apps on their employees’ computers and check if their team members are productive during the working day. Such an extreme approach to monitoring what the staff is doing is due to the lack of employees’ efficiency at the workplace and to the employer’s desire to prevent data leakage and other unwanted actions. Before we go through the list of the most popular and effective programs to monitor employees’ activities at the workplace, let’s take a look at the most efficient ways to find out if your company is monitoring you.
-
-### [24. Accessing Network Apps Running Inside WSL2 from Other Devices in Your LAN](https://hackernoon.com/accessing-network-ppps-running-inside-wsl2-from-other-devices-in-your-lan)
+### [23. Accessing Network Apps Running Inside WSL2 from Other Devices in Your LAN](https://hackernoon.com/accessing-network-ppps-running-inside-wsl2-from-other-devices-in-your-lan)
 ![](https://cdn.hackernoon.com/images/QK7vp9wmxlaVieu1lzOhgeOOLUn1-px135ce.jpeg)
 In this article, I explain how to tweak Windows and WSL networking to bypass WSL NAT and connect to development servers inside WSL from other devices in LAN.
+
+### [24. Top 25 Employee Monitoring and Time Tracking Apps for Windows/MAC](https://hackernoon.com/top-25-employee-monitoring-and-time-tracking-apps-for-windowsmac-hi1u3w47)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYjMQ5ovwY0YTXp30fB6AUAZcstA3-dyc3w4r.jpeg?alt=media&token=c8874dcf-3194-4745-8c3b-1eb2b26ed5a8)
+Many companies today install various tracking apps on their employees’ computers and check if their team members are productive during the working day. Such an extreme approach to monitoring what the staff is doing is due to the lack of employees’ efficiency at the workplace and to the employer’s desire to prevent data leakage and other unwanted actions. Before we go through the list of the most popular and effective programs to monitor employees’ activities at the workplace, let’s take a look at the most efficient ways to find out if your company is monitoring you.
 
 ### [25. Efficient Data Deduplication: Optimizing Storage Space with NTFS, ZFS, & BTRFS](https://hackernoon.com/efficient-data-deduplication-optimizing-storage-space-with-ntfs-zfs-and-btrfs)
 ![](https://cdn.hackernoon.com/images/bPmlNlAEHVOM98B8bJEZTMSlYyE3-l5w3rtw.jpeg)
@@ -117,17 +121,17 @@ For decades, Windows users have been made fun of by the Linux community for the 
 ![](https://cdn.hackernoon.com/drafts/i0rf3vly.png)
 Sometimes, we need to apply a bit of extra protection to the data on our computers. We might want to protect our tax records from prying eyes, or lock away business plans from our competitors. Or we might just want to ensure that any children with access to our device can't access inappropriate content.
 
-### [30. How I Built 7 Apps in 16 Hours](https://hackernoon.com/how-i-built-7-apps-in-16-hours-f5253eks)
+### [30. 8 Best EPUB Readers for Windows and macOS](https://hackernoon.com/8-best-epub-readers-for-windows-and-macos)
+![](https://cdn.hackernoon.com/images/zUZ8Ab0mp2QRnyF2355js3XhgVq1-gw93ocb.jpeg)
+It is a program that uses for reading books. It is built for Mac and Windows. With an EPUB reader, users can convert EPUB files to pdf documents instantly.
+
+### [31. How I Built 7 Apps in 16 Hours](https://hackernoon.com/how-i-built-7-apps-in-16-hours-f5253eks)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F92yJ4hz2g6Q04EqjO9iS2ci52jW2-oka63ws4.jpeg?alt=media&token=d62a3029-1a1e-4c7f-a716-5e5f89786a8f)
 The Story
 
-### [31. How to Increase Space in C Drive on Windows 10 Without Losing Data](https://hackernoon.com/how-to-increase-space-in-c-drive-on-windows-10-without-losing-data-xn3o34on)
+### [32. How to Increase Space in C Drive on Windows 10 Without Losing Data](https://hackernoon.com/how-to-increase-space-in-c-drive-on-windows-10-without-losing-data-xn3o34on)
 ![](https://cdn.hackernoon.com/images/5HDMb8H8s0gOortFV9sepSSscUR2-xm6v343u.jpeg)
 If you receive a low disk space warning on your C: drive, you may use the Disk Cleanup utility to remove temporary and unwanted downloaded files.
-
-### [32. 8 Best EPUB Readers for Windows and macOS](https://hackernoon.com/8-best-epub-readers-for-windows-and-macos)
-![](https://cdn.hackernoon.com/images/zUZ8Ab0mp2QRnyF2355js3XhgVq1-gw93ocb.jpeg)
-It is a program that uses for reading books. It is built for Mac and Windows. With an EPUB reader, users can convert EPUB files to pdf documents instantly.
 
 ### [33. Collecting and Shipping Windows Events Logs with OpenTelemetry](https://hackernoon.com/collecting-and-shipping-windows-events-logs-with-opentelemetry)
 ![](https://cdn.hackernoon.com/images/illustrate-the-microsoft-windows-logo-clf7vhgy2000001s66sthdli6.png)
@@ -169,13 +173,13 @@ An honest view of Windows vs Linux: a comparison done by an experienced Linux en
 ![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-dn037hh.jpeg)
 Snover is the inventor of Windows PowerShell, an object-based distributed automation engine, scripting language, and command line shell.
 
-### [43. What does your workstation setup look like?](https://hackernoon.com/what-does-your-workstation-setup-look-like-4f2i22tk)
-![](https://cdn.hackernoon.com/images/VK3VPElfEfgTBhNrSSYpDaCpam42-571r22qt.jpeg)
-This Slack discussion by austin, Rianke Krugel, Limarc, Linh and Arthur occurred in hackernoon's official #slogging-beta channel, and has been edited for readability.
-
-### [44. Troubleshooting SSL: Why Your SSL Certificate Isn't Working on Windows](https://hackernoon.com/troubleshooting-ssl-why-your-ssl-certificate-isnt-working-on-windows)
+### [43. Troubleshooting SSL: Why Your SSL Certificate Isn't Working on Windows](https://hackernoon.com/troubleshooting-ssl-why-your-ssl-certificate-isnt-working-on-windows)
 ![](https://cdn.hackernoon.com/images/bN8L9KD05dR2WJZXHSRkdBO6PM43-4ee39ay.png)
 SSL certificates are stored in various file formats, each with its own structure and purpose.
+
+### [44. What does your workstation setup look like?](https://hackernoon.com/what-does-your-workstation-setup-look-like-4f2i22tk)
+![](https://cdn.hackernoon.com/images/VK3VPElfEfgTBhNrSSYpDaCpam42-571r22qt.jpeg)
+This Slack discussion by austin, Rianke Krugel, Limarc, Linh and Arthur occurred in hackernoon's official #slogging-beta channel, and has been edited for readability.
 
 ### [45. Microsoft Urges Users Not to Remove Expired Windows 10 Root Certificate](https://hackernoon.com/microsoft-urges-users-not-to-remove-expired-windows-10-root-certificate-6g1z343l)
 ![](https://cdn.hackernoon.com/images/UGSJMB4obWTl7VaZGGwskKeOCBr1-g3s314z.jpeg)
@@ -185,13 +189,13 @@ The root Windows certificate expires on December 31, but it is still required fo
 ![](https://cdn.hackernoon.com/images/MKieVqsvx0YDydwH5pTKFILRZXp1-5n83zs9.jpeg)
 I threw in some tricks I used to make our Windows EKS nodes start in the 90s rather than the 5 minutes a standard EKS Windows node takes.
 
-### [47. How to Provide Support for React Native Apps on the Windows Platform](https://hackernoon.com/how-to-provide-support-for-react-native-apps-on-the-windows-platform-npr3ulq)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fzp3rAOWQHWWL93woHkQ2snVTogD2-8u2q3u3t.jpeg?alt=media&token=c649ca3f-c72d-47bf-810d-858afe118696)
-React Native is a framework developed by Facebook that is used to build the application on native platforms. It is preferred by most developers, due to its speed, agility, and ability to build hybrid applications in multiple platforms with an interactive user interface (UI). 
-
-### [48. 3 Best DVD Ripper Software for Windows and Mac](https://hackernoon.com/3-best-dvd-ripper-software-for-windows-and-mac-xf323ti0)
+### [47. 3 Best DVD Ripper Software for Windows and Mac](https://hackernoon.com/3-best-dvd-ripper-software-for-windows-and-mac-xf323ti0)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-opi3tdk.jpeg?alt=media&token=ccbca1f6-58cb-45e3-9f56-56212ede1d27)
 We all know that a DVD ripping software works by transferring a video into DVDs, back up or edit a DVD content, as well as to convert a DVD video into the media player and mobile devices playback. 
+
+### [48. How to Provide Support for React Native Apps on the Windows Platform](https://hackernoon.com/how-to-provide-support-for-react-native-apps-on-the-windows-platform-npr3ulq)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fzp3rAOWQHWWL93woHkQ2snVTogD2-8u2q3u3t.jpeg?alt=media&token=c649ca3f-c72d-47bf-810d-858afe118696)
+React Native is a framework developed by Facebook that is used to build the application on native platforms. It is preferred by most developers, due to its speed, agility, and ability to build hybrid applications in multiple platforms with an interactive user interface (UI). 
 
 ### [49. Desktop Application Development in ElectronJS Using Angular](https://hackernoon.com/desktop-application-development-in-electronjs-using-angular-iu1c13159)
 ![](https://cdn.hackernoon.com/images/3i1dm31us.jpg)
@@ -201,14 +205,14 @@ As of today, a program is an interface, a bridge between a computer and a user. 
 ![](https://cdn.hackernoon.com/drafts/7l1122erm.png)
 Looking to get into development? Have a soft spot for old console based RPG games? Why not build Umoria! A Rouge clone created in a day of limited graphics - but nevertheless a very addicting game for the time. I would say one of the more memorable games that got me interested in coding (game was so hard I wanted to reverse engineer the save format).
 
-### [51. 7 Reasons Why You Should Switch
+### [51. Microsoft and ARM: A Rocky Romance A Decade in the Making](https://hackernoon.com/microsoft-and-arm-a-rocky-romance-a-decade-in-the-making)
+![](https://cdn.hackernoon.com/images/UkAeqbeEiOajpjolJeRyMutEDag1-b883ebs.jpeg)
+Microsoft's Copilot+ strategy is brilliant: building unique AI experiences that will become essential for Windows on ARM.
+
+### [52. 7 Reasons Why You Should Switch
 To Linux](https://hackernoon.com/7-reasons-why-you-should-switch-to-linux-rp6f3wd6)
 ![](https://cdn.hackernoon.com/images/l9k83vr9.gif)
 Your current computer or laptop shows the same performance no longer? This is absolutely no reason to choose new hardware and invest money in buying a cut edge device. We know a much more attractive solution. It is Linux! 
-
-### [52. Microsoft and ARM: A Rocky Romance A Decade in the Making](https://hackernoon.com/microsoft-and-arm-a-rocky-romance-a-decade-in-the-making)
-![](https://cdn.hackernoon.com/images/UkAeqbeEiOajpjolJeRyMutEDag1-b883ebs.jpeg)
-Microsoft's Copilot+ strategy is brilliant: building unique AI experiences that will become essential for Windows on ARM.
 
 ### [53. Choosing the Right Linux Distro for You](https://hackernoon.com/choosing-the-right-linux-distro-for-you)
 ![](https://cdn.hackernoon.com/images/TjveOhbMJYfQjGWe1TaaIEfpH522-fn928u0.jpeg)
@@ -238,13 +242,13 @@ QuickBooks users get the option to configure firewall ports automatically or man
 ![](https://cdn.hackernoon.com/images/UCTxNLKvJrYkJsyANsu1SgNAKky2-u602sn4.webp)
 Setting up a dual-boot system on a PC typically requires installing Windows first and then Linux.
 
-### [60. My Personal Guide to SQL Window Functions (Part 1)](https://hackernoon.com/my-personal-guide-to-sql-window-functions-part-1)
-![](https://cdn.hackernoon.com/images/Nppoj6VaOWRfwXBV5J5gk28cCGp2-q393mkd.jpeg)
-First introduced as part of the SQ:2003 Standard and available in MySQL 8.0, window functions in MySQL are compelling, but the syntax can be difficult to grok.
-
-### [61. Deskreen Introduction: Turn Any Device With Browser Into a Secondary Screen](https://hackernoon.com/deskreen-introduction-turn-any-device-with-browser-into-a-secondary-screen-8t2x31a0)
+### [60. Deskreen Introduction: Turn Any Device With Browser Into a Secondary Screen](https://hackernoon.com/deskreen-introduction-turn-any-device-with-browser-into-a-secondary-screen-8t2x31a0)
 ![](https://cdn.hackernoon.com/images/DipgE6KKESPretcbJVvdsr7VoUV2-gm3x314i.jpeg)
 I created Deskreen. It turns any device with a web browser into a secondary screen for your computer
+
+### [61. My Personal Guide to SQL Window Functions (Part 1)](https://hackernoon.com/my-personal-guide-to-sql-window-functions-part-1)
+![](https://cdn.hackernoon.com/images/Nppoj6VaOWRfwXBV5J5gk28cCGp2-q393mkd.jpeg)
+First introduced as part of the SQ:2003 Standard and available in MySQL 8.0, window functions in MySQL are compelling, but the syntax can be difficult to grok.
 
 ### [62. How You Can Build Electron Desktop Application Using React [Beginners]](https://hackernoon.com/how-to-build-electron-apps-with-react-6q6s3789)
 ![](https://cdn.hackernoon.com/images/dv54p379d.jpg)
@@ -270,25 +274,25 @@ Discover how installing WSL can revolutionize your development workflow, bridgin
 ![](https://cdn.hackernoon.com/images/EirlZ30jtYfcFYd5vCeCSjGlSK23-s603arg.jpeg)
 How to get your Flutter Windows Apps successfully published on the Microsoft Partner Center after they've been developed and are ready for distribution.
 
-### [68. The Noonification: Innovation Is Slowing Down (10/19/2022)](https://hackernoon.com/10-19-2022-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-10/19/2022: Top 5 stories on the Hackernoon homepage!
-
-### [69. Quick Guide to Install Node, Yarn, Git and VSCode on Linux, Mac, and Windows](https://hackernoon.com/quick-guide-to-install-node-yarn-git-and-vscode-on-linux-mac-and-windows-9r1i37xl)
+### [68. Quick Guide to Install Node, Yarn, Git and VSCode on Linux, Mac, and Windows](https://hackernoon.com/quick-guide-to-install-node-yarn-git-and-vscode-on-linux-mac-and-windows-9r1i37xl)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-4m1g29oa.jpeg)
 How to install Node, Yarn, Git and VSCode on Linux, Mac and Windows, a simple and easy guide to follow.
+
+### [69. The Noonification: Innovation Is Slowing Down (10/19/2022)](https://hackernoon.com/10-19-2022-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+10/19/2022: Top 5 stories on the Hackernoon homepage!
 
 ### [70. Are Macs Safer than Windows PCs? - Tech Myths Busted](https://hackernoon.com/are-macs-safer-than-windows-pcs-tech-myths-busted-ar2b333y)
 ![](https://cdn.hackernoon.com/images/EiEjP5ucpLUzu682vkKQf2ALqM83-qr3735dn.jpeg)
 The idea that Macs are safer than Windows PCs is a severe misconception among a large ratio of individuals 
 
-### [71. How To Use Cortana In The Microsoft Edge Browser](https://hackernoon.com/how-to-use-cortana-in-the-microsoft-edge-browser-cpcz3w3z)
-![](https://cdn.hackernoon.com/images/4p1a3w0y.jpg)
-Cortana, the menial helper incorporated into Windows 10, empowers you to finish a scope of undertakings by composing or talking easy to use orders into your PC’s amplifier. Empowering Cortana in-program settings in the Microsoft Edge internet browser gives much more advantages.
-
-### [72. How to Perform a Static Analysis of Your Project Executables!](https://hackernoon.com/how-to-perform-a-static-analysis-of-your-project-executables)
+### [71. How to Perform a Static Analysis of Your Project Executables!](https://hackernoon.com/how-to-perform-a-static-analysis-of-your-project-executables)
 ![](https://cdn.hackernoon.com/images/u5R3sDxTIPTfUq8sZd40dIhv4cv2-zv02tgn.jpeg)
 Static analysis of final product executable files will help uncover security, format, optimization, and other issues, not covered by code analysis tools.
+
+### [72. How To Use Cortana In The Microsoft Edge Browser](https://hackernoon.com/how-to-use-cortana-in-the-microsoft-edge-browser-cpcz3w3z)
+![](https://cdn.hackernoon.com/images/4p1a3w0y.jpg)
+Cortana, the menial helper incorporated into Windows 10, empowers you to finish a scope of undertakings by composing or talking easy to use orders into your PC’s amplifier. Empowering Cortana in-program settings in the Microsoft Edge internet browser gives much more advantages.
 
 ### [73. Microsoft's Monopoly in the Operating Systems Market for Intel-Compatible PCs](https://hackernoon.com/microsofts-monopoly-in-the-operating-systems-market-for-intel-compatible-pcs)
 ![](https://cdn.hackernoon.com/images/illustrate-a-laptop-screen-displaying-the-microsoft-logo-jriumwtd32tu3pia3pbiwt83.png)
@@ -310,21 +314,21 @@ Stop with the rumbling, bro. What is Linux?
 ![](https://cdn.hackernoon.com/images/ck9o6vXpcdXfKvtaqfpuVfxXYcg1-ld03ad3.jpeg)
 Learn how to deploy Wazuh on VMware and connect a Windows agent in this step-by-step beginner's guide. Perfect for cybersecurity students and homelab enthusiast
 
-### [78. 10 Must-Try Computer Tricks For Both Mac and Windows](https://hackernoon.com/10-must-try-computer-tricks-for-both-mac-and-windows-n72a31w5)
-![](https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-1. Undo Closing A Tab
-
-### [79. Shamoon: The Modular Computer Virus Created in 2012 to Attack Big Oil](https://hackernoon.com/shamoon-the-modular-computer-virus-created-in-2012-to-attack-big-oil)
+### [78. Shamoon: The Modular Computer Virus Created in 2012 to Attack Big Oil](https://hackernoon.com/shamoon-the-modular-computer-virus-created-in-2012-to-attack-big-oil)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-6x93slf.jpeg)
 Information about the Shamoon virus was first used in 2012 against Saudi oil companies.
 
-### [80. 10 Tricks To Use Your Windows 10 Computer Faster](https://hackernoon.com/10-tricks-to-use-your-windows-10-computer-faster-mih3ufg)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlEnBumnaqqTKtcMN5SXlFPUEy4Z2-5k5j3us7.jpeg?alt=media&token=82da23c5-0ba3-4c5b-bd3e-b31cd917cfdf)
-With approximately 55% of computers using Windows 10 worldwide, it is definitely in everyone's interests that we all learn how to use the newest version of Windows in the most efficient way possible!
+### [79. 10 Must-Try Computer Tricks For Both Mac and Windows](https://hackernoon.com/10-must-try-computer-tricks-for-both-mac-and-windows-n72a31w5)
+![](https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+1. Undo Closing A Tab
 
-### [81. Major Differences Between DOS And Windows](https://hackernoon.com/major-differences-between-dos-and-windows-93ax3yjq)
+### [80. Major Differences Between DOS And Windows](https://hackernoon.com/major-differences-between-dos-and-windows-93ax3yjq)
 ![](https://images.unsplash.com/photo-1469022563428-aa04fef9f5a2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Key Difference
+
+### [81. 10 Tricks To Use Your Windows 10 Computer Faster](https://hackernoon.com/10-tricks-to-use-your-windows-10-computer-faster-mih3ufg)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlEnBumnaqqTKtcMN5SXlFPUEy4Z2-5k5j3us7.jpeg?alt=media&token=82da23c5-0ba3-4c5b-bd3e-b31cd917cfdf)
+With approximately 55% of computers using Windows 10 worldwide, it is definitely in everyone's interests that we all learn how to use the newest version of Windows in the most efficient way possible!
 
 ### [82. Understanding Svchost.exe: the Backbone of Windows 11 Processes](https://hackernoon.com/understanding-svchostexe-the-backbone-of-windows-11-processes)
 ![](https://cdn.hackernoon.com/images/MQBhHY3JhYMo0hRJSnBtaDcbvhD3-jy03bvt.png)
@@ -338,21 +342,21 @@ The motherboard is an integral part of the computer. Nonetheless, it is notoriou
 ![](https://cdn.hackernoon.com/images/BuPUvbzn2DO5ta0WlLCoHCVXLAJ2-lv02eo1.jpeg)
 Fullscreen didn't work and window mode was bugged when trying to play Battlefield 1942. I decided to make a program to solve this issue using Win32 APIs.
 
-### [85. No Sound on Windows 10? Here's the Fix](https://hackernoon.com/no-sound-on-windows-10-heres-the-fix-w01g31zw)
-![](https://cdn.hackernoon.com/images/bZxuxEoE6RXEdIoXJy5RTdLiPE62-912p31he.jpeg)
-Guide can help you restore and repair no sound on Windows 10 using a few simple tricks of the trade. Just follow this easy guide to get you going.
-
-### [86. My Personal Guide to SQL Window Functions (Part 2) ](https://hackernoon.com/my-personal-guide-to-sql-window-functions-part-2)
+### [85. My Personal Guide to SQL Window Functions (Part 2) ](https://hackernoon.com/my-personal-guide-to-sql-window-functions-part-2)
 ![](https://cdn.hackernoon.com/images/Nppoj6VaOWRfwXBV5J5gk28cCGp2-nrf3mow.jpeg)
 First introduced as part of the SQ:2003 Standard and available in MySQL 8.0, window functions in MySQL are compelling, but the syntax can be difficult to grok.
 
-### [87. Vulnerability Of Windows: The Truth](https://hackernoon.com/vulnerability-of-windows-the-truth-v1o3wc0)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FP1EL4ixTKPgRijOg7rLSFtGQMQ72-6v1o252n.png?alt=media&token=09255ce0-1cfc-471b-9b67-fa3ae16ffef0)
-In 2017, DZone wrote a really cool article about a windows exploit that a German student discovered that takes advantage of the trusted binary ‘fodhelper.exe’ that is a part of windows. It is located in System32 and is signed by Microsoft, so when you run it, the UAC prompt (pictured below), which is normally required to run a program as an administrator, is not required.
+### [86. No Sound on Windows 10? Here's the Fix](https://hackernoon.com/no-sound-on-windows-10-heres-the-fix-w01g31zw)
+![](https://cdn.hackernoon.com/images/bZxuxEoE6RXEdIoXJy5RTdLiPE62-912p31he.jpeg)
+Guide can help you restore and repair no sound on Windows 10 using a few simple tricks of the trade. Just follow this easy guide to get you going.
 
-### [88. Comparing Linux and Windows 10 IoT for Your Medical Device](https://hackernoon.com/comparing-linux-and-windows-10-iot-for-your-medical-device-nl3035je)
+### [87. Comparing Linux and Windows 10 IoT for Your Medical Device](https://hackernoon.com/comparing-linux-and-windows-10-iot-for-your-medical-device-nl3035je)
 ![](https://cdn.hackernoon.com/images/LEymvvrtvURIHWScxGtFiYzJjRf2-3r3x34uk.jpeg)
 What is the best OS for medical devices? Should I choose a Microsoft product? Is Linux better than Windows 10 IoT? Read the answers.
+
+### [88. Vulnerability Of Windows: The Truth](https://hackernoon.com/vulnerability-of-windows-the-truth-v1o3wc0)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FP1EL4ixTKPgRijOg7rLSFtGQMQ72-6v1o252n.png?alt=media&token=09255ce0-1cfc-471b-9b67-fa3ae16ffef0)
+In 2017, DZone wrote a really cool article about a windows exploit that a German student discovered that takes advantage of the trusted binary ‘fodhelper.exe’ that is a part of windows. It is located in System32 and is signed by Microsoft, so when you run it, the UAC prompt (pictured below), which is normally required to run a program as an administrator, is not required.
 
 ### [89. 89 Stories To Learn About Windows](https://hackernoon.com/89-stories-to-learn-about-windows)
 ![](https://cdn.hackernoon.com/images/github/windows-230.png)
@@ -366,71 +370,79 @@ The following are the different methods to automatically hide the taskbar on Win
 ![](https://cdn.hackernoon.com/drafts/ktm364i.png)
 Just because Windows 10 is the latest version of Microsoft doesn’t mean it’s immune to slow downs. Here are 10 tips you can try to speed up Windows 10:
 
-### [92. Surviving the IT Support field](https://hackernoon.com/surviving-the-it-support-field-x51m3u0s)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-yu1b3utk.jpeg?alt=media&token=04fdbab4-c05b-4606-a7de-2af530d91f95)
-Hello to everyone out there, I will attempt tell you, in this brief post, how to handle things, and/or generally try to survive in the IT Support field.
-
-### [93. Best Video Editing Programs For Windows in 2022](https://hackernoon.com/best-video-editing-programs-for-windows-in-2022)
-![](https://cdn.hackernoon.com/images/9ch9m9UtVMgz8wCHyFy6jTEFCv52-vy93jmo.jpeg)
-In order to make fantastic films, it's crucial to utilize top-notch video editing software.
-
-### [94. 5 Tips To Extend Your Battery Life On A Windows Laptop](https://hackernoon.com/5-tips-to-extend-your-battery-life-on-a-windows-laptop-xi3u36m5)
-![](https://cdn.hackernoon.com/drafts/dp2o331c.png)
-One of the greatest things about having a laptop is being able to bring it anywhere. However, it's not so great when your laptop is running out of battery and there's no outlet in sight. To keep this from happening, here are some things you can do to extend your laptop's battery life:
-
-### [95. A Brief Introduction to System Drivers](https://hackernoon.com/a-brief-introduction-to-system-drivers-ed2v31v0)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-czu31kx.jpeg)
-All computers operate with hardware, including; soundcards, video cards, USB ports, etc. Just about everything on your PC that ant a software program. 
-
-### [96. United States Of America v. Microsoft Corporation: The Time Uncle Sam Took Bill Gates to Court](https://hackernoon.com/united-states-of-america-v-microsoft-corporation-the-time-uncle-sam-took-bill-gates-to-court)
+### [92. United States Of America v. Microsoft Corporation: The Time Uncle Sam Took Bill Gates to Court](https://hackernoon.com/united-states-of-america-v-microsoft-corporation-the-time-uncle-sam-took-bill-gates-to-court)
 ![](https://cdn.hackernoon.com/images/uncle-sam-vs-bill-gates-hugqys7n9hbvhb0wo0gp5n24.png)
 United States Of America v. Microsoft Corporation Court Filing by Thomas Penfield Jackson is part of HackerNoon’s Legal PDF Series. This is the table of links.
 
-### [97. Enabling Sudo Command on Windows 11: Here's How](https://hackernoon.com/enabling-sudo-command-on-windows-11-heres-how)
-![](https://cdn.hackernoon.com/images/MQBhHY3JhYMo0hRJSnBtaDcbvhD3-d403d0c.png)
-In this latest article, let's check out how to enable Sudo Command on Windows 11 using different methods, while uncovering its power & precautions.
+### [93. Surviving the IT Support field](https://hackernoon.com/surviving-the-it-support-field-x51m3u0s)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-yu1b3utk.jpeg?alt=media&token=04fdbab4-c05b-4606-a7de-2af530d91f95)
+Hello to everyone out there, I will attempt tell you, in this brief post, how to handle things, and/or generally try to survive in the IT Support field.
 
-### [98. How To Speed Up Windows Vista](https://hackernoon.com/how-to-speed-up-windows-vista-pkop3wg0)
-![](https://images.unsplash.com/photo-1530133532239-eda6f53fcf0f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Crippling unused highlights in Windows Vista will accelerate your PC framework. A portion of the highlights that accompany Vista are not regularly helpful for home clients. On the off chance that you don’t utilize these capacities, the Windows framework is stacking programs that you don’t require and expending framework assets — in particular, memory — that could be better utilized for different purposes.
+### [94. Best Video Editing Programs For Windows in 2022](https://hackernoon.com/best-video-editing-programs-for-windows-in-2022)
+![](https://cdn.hackernoon.com/images/9ch9m9UtVMgz8wCHyFy6jTEFCv52-vy93jmo.jpeg)
+In order to make fantastic films, it's crucial to utilize top-notch video editing software.
+
+### [95. Fighting VRAM Overheating: 3 Unexpected Lessons from My First Windows Utility](https://hackernoon.com/fighting-vram-overheating-3-unexpected-lessons-from-my-first-windows-utility)
+![](https://cdn.hackernoon.com/images/xqQcrOPAG6Rl046hNv92Odipmx22-17837k7.png)
+A developer's log on fixing laptop VRAM overheating during AI workloads. Why Memory Junction hits 105°C and how Pulse Throttling solves it without undervolting.
+
+### [96. 5 Tips To Extend Your Battery Life On A Windows Laptop](https://hackernoon.com/5-tips-to-extend-your-battery-life-on-a-windows-laptop-xi3u36m5)
+![](https://cdn.hackernoon.com/drafts/dp2o331c.png)
+One of the greatest things about having a laptop is being able to bring it anywhere. However, it's not so great when your laptop is running out of battery and there's no outlet in sight. To keep this from happening, here are some things you can do to extend your laptop's battery life:
+
+### [97. A Brief Introduction to System Drivers](https://hackernoon.com/a-brief-introduction-to-system-drivers-ed2v31v0)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-czu31kx.jpeg)
+All computers operate with hardware, including; soundcards, video cards, USB ports, etc. Just about everything on your PC that ant a software program. 
+
+### [98. How to Enable Microsoft Message Queue Server in Windows 11: A Quick Guide](https://hackernoon.com/how-to-enable-microsoft-message-queue-server-in-windows-11-a-quick-guide)
+![](https://cdn.hackernoon.com/images/computer-in-a-bedroom-pixel-art-w57y3nm8roc2ie2688a73whf.png)
+MSMQ is a powerful tool that facilitates asynchronous communication between applications, making data exchange seamless and efficient.
 
 ### [99. How to Secure Office 365 & Windows from Ransomware Attacks](https://hackernoon.com/how-to-secure-office-365-and-windows-from-ransomware-attacks-nt413vfs)
 ![](https://cdn.hackernoon.com/drafts/bo303ysh.png)
 It’s no secret that we’re living in uncertain times. Many countries are under partial or full lockdown for the past few weeks, making work from home the new norm for the foreseeable future, at least. 
 
-### [100. End of Windows 7: What Is Next?](https://hackernoon.com/end-of-windows-7-what-is-next-2w3w32rf)
+### [100. How To Speed Up Windows Vista](https://hackernoon.com/how-to-speed-up-windows-vista-pkop3wg0)
+![](https://images.unsplash.com/photo-1530133532239-eda6f53fcf0f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Crippling unused highlights in Windows Vista will accelerate your PC framework. A portion of the highlights that accompany Vista are not regularly helpful for home clients. On the off chance that you don’t utilize these capacities, the Windows framework is stacking programs that you don’t require and expending framework assets — in particular, memory — that could be better utilized for different purposes.
+
+### [101. End of Windows 7: What Is Next?](https://hackernoon.com/end-of-windows-7-what-is-next-2w3w32rf)
 ![](https://cdn.hackernoon.com/drafts/kkge3zua.png)
 Microsoft Windows is one of the most widely used operating systems in the world. It has released a number of versions since it was established in the year 1985. In 2009, Windows 7 was released in the market by Microsoft, and since then, it has been a successful operating system.
 
-### [101. Windows 10 New File Recovery Application](https://hackernoon.com/windows-10-new-file-recovery-application-a82b3u9f)
+### [102. Windows 10 New File Recovery Application](https://hackernoon.com/windows-10-new-file-recovery-application-a82b3u9f)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGL2u4Ho48vbrAlD9O5BAaueWDzy2-jbc3u0d.webp?alt=media&token=71d5b74e-2c49-419c-9a26-345753683424)
 Microsoft released its own File Recovery Tool in the Windows Store, making it a lot simpler to choose which device you need on the off chance that you lose a significant bit of information on your PC.
-
-### [102. How To Make Sure Your Windows 7 PC Stays Safe](https://hackernoon.com/how-to-make-sure-your-windows-7-pc-stays-safe-85n33pj)
-![](https://cdn.hackernoon.com/drafts/rii365p.png)
-Windows 7 has recently joined the club of all Windows operating systems that Microsoft is no longer supporting with security updates. So if you're still running on Windows 7, pretty soon it's going to be full of unpatched security holes.
 
 ### [103. Microsoft Gave Internet Explorer Away and Rewarded Firms That Helped Build Its Usage Share](https://hackernoon.com/microsoft-gave-internet-explorer-away-and-rewarded-firms-that-helped-build-its-usage-share)
 ![](https://cdn.hackernoon.com/images/giving-away-the-world-dtb9i2z3mksagsayk9hznxve.png)
 United States Of America. v. Microsoft Corporation Court Filing by Thomas Penfield Jackson, November 5, 1999 is part of HackerNoon’s Legal PDF Series.
 
-### [104. What are Microsoft Windows Display Drivers? - A Brief Overview](https://hackernoon.com/what-are-microsoft-windows-display-drivers-a-brief-overview-i12w31wv)
+### [104. How To Make Sure Your Windows 7 PC Stays Safe](https://hackernoon.com/how-to-make-sure-your-windows-7-pc-stays-safe-85n33pj)
+![](https://cdn.hackernoon.com/drafts/rii365p.png)
+Windows 7 has recently joined the club of all Windows operating systems that Microsoft is no longer supporting with security updates. So if you're still running on Windows 7, pretty soon it's going to be full of unpatched security holes.
+
+### [105. What are Microsoft Windows Display Drivers? - A Brief Overview](https://hackernoon.com/what-are-microsoft-windows-display-drivers-a-brief-overview-i12w31wv)
 ![](https://cdn.hackernoon.com/images/bZxuxEoE6RXEdIoXJy5RTdLiPE62-0n1s31hd.jpeg)
 Microsoft introduced the Windows Display Driver to drive the video cards installed in the Windows OS.
 
-### [105. How to Personalize Touchpad Gestures for a Seamless Windows 11 Experience!](https://hackernoon.com/how-to-personalize-touchpad-gestures-for-a-seamless-windows-11-experience)
+### [106. How to Personalize Touchpad Gestures for a Seamless Windows 11 Experience!](https://hackernoon.com/how-to-personalize-touchpad-gestures-for-a-seamless-windows-11-experience)
 ![](https://cdn.hackernoon.com/images/MQBhHY3JhYMo0hRJSnBtaDcbvhD3-x003b6w.png)
 The most commonly used fingers in the three-finger gesture are the Point Finger, the Middle Finger, and the Ring Finger.
 
-### [106. How To Enable Microsoft Edge`s New Crapware Blocker](https://hackernoon.com/how-to-enable-microsoft-edges-new-crapware-blocker-vgp33p6)
+### [107. Enabling Sudo Command on Windows 11: Here's How](https://hackernoon.com/enabling-sudo-command-on-windows-11-heres-how)
+![](https://cdn.hackernoon.com/images/MQBhHY3JhYMo0hRJSnBtaDcbvhD3-d403d0c.png)
+In this latest article, let's check out how to enable Sudo Command on Windows 11 using different methods, while uncovering its power & precautions.
+
+### [108. How To Enable Microsoft Edge`s New Crapware Blocker](https://hackernoon.com/how-to-enable-microsoft-edges-new-crapware-blocker-vgp33p6)
 ![](https://cdn.hackernoon.com/drafts/8i2wg36zk.png)
 Microsoft Edge has a new crapware blocker. But the thing is, it isn't enabled by default. The blocker is currently only available in Edge's beta version but it should be available for everyone using the Chromium-based Edge browser with the stable release of Edge 80 in early February.
 
-### [107. How To Enable It Microsoft Edge`s New Crapware Blocker](https://hackernoon.com/how-to-enable-it-microsoft-edges-new-crapware-blocker-n165368g)
+### [109. How To Enable It Microsoft Edge`s New Crapware Blocker](https://hackernoon.com/how-to-enable-it-microsoft-edges-new-crapware-blocker-n165368g)
 ![](https://cdn.hackernoon.com/drafts/8i2wg36zk.png)
 Microsoft Edge has a new crapware blocker. But the thing is, it isn't enabled by default. The blocker is currently only available in Edge's beta version but it should be available for everyone using the Chromium-based Edge browser with the stable release of Edge 80 in early February.
 
-### [108. Viable Alternatives to Windows: The United States v. Microsoft](https://hackernoon.com/viable-alternatives-to-windows-the-united-states-v-microsoft)
+### [110. Viable Alternatives to Windows: The United States v. Microsoft](https://hackernoon.com/viable-alternatives-to-windows-the-united-states-v-microsoft)
 ![](https://cdn.hackernoon.com/images/windows-vs-apple-kiyivjvspjstcq7v9mha9sky.png)
 United States Of America. v. Microsoft Corporation Court Filing by Thomas Penfield Jackson, November 5, 1999, is part of HackerNoon’s Legal PDF Series.
 

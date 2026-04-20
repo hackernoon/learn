@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [statistics](https://hackernoon.com/tagged/statistics)
+### Let's learn about [Statistics](https://hackernoon.com/tagged/statistics) via these 118 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Statistics is the science of collecting, analyzing, interpreting, presenting, and organizing data to derive insights and make informed decisions. It is crucial across all scientific and business fields for understanding patterns, predicting outcomes, and validating hypotheses.
+
 ### [1. Crossentropy, Logloss, and Perplexity: Different Facets of Likelihood](https://hackernoon.com/crossentropy-logloss-and-perplexity-different-facets-of-likelihood)
 ![](https://cdn.hackernoon.com/images/a-robot-playing-with-dice-g782y0ff0enmij1relt7tlij.png)
 We explore the link between three popular loss functions: crossentropy, logloss and perplexity
@@ -50,13 +54,13 @@ Explore an in-depth overview of various neural network layers, their history, ma
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0pUGOyGAvrN9ByMPpdjdodNwCCb2-911p3u0f.jpeg?alt=media&token=f96dae3e-b3e7-4187-8140-0edd2c3baabe)
 Hypothesis tests are significant for evaluating answers to questions concerning samples of data.
 
-### [13. Crunch the Lottery Numbers](https://hackernoon.com/crunch-the-lottery-numbers)
-![](https://cdn.hackernoon.com/images/UFEEcIqHcqP6lvUySxLp5yEcvBD2-8l92lpw.jpeg)
-As we wrap up our journey into the world of lottery data, it's been a wild ride through numbers and probabilities. 
-
-### [14. 3 Data Distributions for Counts in Layman’s Terms](https://hackernoon.com/3-data-distributions-for-counts-in-laymans-terms)
+### [13. 3 Data Distributions for Counts in Layman’s Terms](https://hackernoon.com/3-data-distributions-for-counts-in-laymans-terms)
 ![](https://cdn.hackernoon.com/images/wZtQzVW9IXObe1GeGaINXBF5SRj2-ts32gjb.gif.webp)
 Counts are everywhere, so no matter your background, these data distributions will come in handy.
+
+### [14. Crunch the Lottery Numbers](https://hackernoon.com/crunch-the-lottery-numbers)
+![](https://cdn.hackernoon.com/images/UFEEcIqHcqP6lvUySxLp5yEcvBD2-8l92lpw.jpeg)
+As we wrap up our journey into the world of lottery data, it's been a wild ride through numbers and probabilities. 
 
 ### [15. You Could Be Wrong About Probability](https://hackernoon.com/you-could-be-wrong-about-probability)
 ![](https://cdn.hackernoon.com/images/S0ghfRieyUPrITpL41YNPTuiHxZ2-ub92bty.jpeg)
@@ -194,13 +198,13 @@ We can be warned about upcoming events predominantly occurring under similar cir
 ![](https://images.unsplash.com/photo-1571289868918-f1deff2f7219?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The Data Scientist Creativity Paradox
 
-### [49. What LinkedIn Tells Us About Developer Population in the World](https://hackernoon.com/what-linkedin-tells-us-about-developer-population-in-the-world-2j153yr1)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oz82rop.jpeg)
-There are tons of articles about the number of developers in the world. But most of them either lack good methodology or simply borrow statistics from other resources.
-
-### [50. Tales of the Undead Salmon: Exploring Bonferroni Correction in Multiple Hypothesis Testing](https://hackernoon.com/tales-of-the-undead-salmon-exploring-bonferroni-correction-in-multiple-hypothesis-testing)
+### [49. Tales of the Undead Salmon: Exploring Bonferroni Correction in Multiple Hypothesis Testing](https://hackernoon.com/tales-of-the-undead-salmon-exploring-bonferroni-correction-in-multiple-hypothesis-testing)
 ![](https://cdn.hackernoon.com/images/ZCZYJpvW5SNA4UMOYFVyLFSDdvz2-3ha4tf2.jpeg)
 Bonferroni correction as a solution for multiple comparisons problem in A/B tests. Here is an explanation of how it works with a simulation written in Python.
+
+### [50. What LinkedIn Tells Us About Developer Population in the World](https://hackernoon.com/what-linkedin-tells-us-about-developer-population-in-the-world-2j153yr1)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oz82rop.jpeg)
+There are tons of articles about the number of developers in the world. But most of them either lack good methodology or simply borrow statistics from other resources.
 
 ### [51. Top 7 Most Used Web Frameworks Among Developers Worldwide 2021 [Statistics]](https://hackernoon.com/top-7-most-used-web-frameworks-among-developers-worldwide-2021-statistics)
 ![](https://cdn.hackernoon.com/images/KtYYKlCMo7fVLZfX7FDxpl0iAh83-nob3o1v.jpeg)
@@ -266,51 +270,51 @@ NFT ownership has increased throughout the globe, with Southeast Asian nations s
 ![](https://cdn.hackernoon.com/images/wZtQzVW9IXObe1GeGaINXBF5SRj2-4j02g0d.jpeg)
 ... in a world full of data, we can understand the impact with clever methods. Meet Granger causality.
 
-### [67. The Hundred-Page Machine Learning Book [Review]](https://hackernoon.com/the-hundred-page-machine-learning-book-review-oa123wag)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIMcuZGEyrzRf7UvWytxpfRbJsQ52-u6l3w2a.jpeg?alt=media&token=24317378-a764-4e58-89a4-d78c0939a2e8)
-I first ordered The Hundred-Page Machine Learning book back in May and am only just now finishing it up. In COVID-time, that was about 10 years ago. As you might have inferred, this book is NOT a quick read. What it lacks in easy reading, it makes up for in efficiency. This book swallows up the heavyweight mathematics textbooks and spits out a slim product no thicker than the width of my smartphone. From page one all the way to page 136, Andriy Burkov, the author, does not waste a single word in distilling the most practical concepts in machine learning. You read that right. It is MORE than 100 pages! Sounds like the book has some bias. Get it? Now get ready for my hundred-page book review. Just kidding.
-
-### [68. Equivalence Testing: The Power of Bounded Adaptivity: Acknowledgements and References](https://hackernoon.com/equivalence-testing-the-power-of-bounded-adaptivity-acknowledgements-and-references)
+### [67. Equivalence Testing: The Power of Bounded Adaptivity: Acknowledgements and References](https://hackernoon.com/equivalence-testing-the-power-of-bounded-adaptivity-acknowledgements-and-references)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-7a030wr.png)
 Acknowledgments of the research in Equivalence Testing.
 
-### [69. Key 2022 Statistics in the No-Code/Low-Code Market](https://hackernoon.com/key-2022-statistics-in-the-no-codelow-code-market)
+### [68. The Hundred-Page Machine Learning Book [Review]](https://hackernoon.com/the-hundred-page-machine-learning-book-review-oa123wag)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIMcuZGEyrzRf7UvWytxpfRbJsQ52-u6l3w2a.jpeg?alt=media&token=24317378-a764-4e58-89a4-d78c0939a2e8)
+I first ordered The Hundred-Page Machine Learning book back in May and am only just now finishing it up. In COVID-time, that was about 10 years ago. As you might have inferred, this book is NOT a quick read. What it lacks in easy reading, it makes up for in efficiency. This book swallows up the heavyweight mathematics textbooks and spits out a slim product no thicker than the width of my smartphone. From page one all the way to page 136, Andriy Burkov, the author, does not waste a single word in distilling the most practical concepts in machine learning. You read that right. It is MORE than 100 pages! Sounds like the book has some bias. Get it? Now get ready for my hundred-page book review. Just kidding.
+
+### [69. Logarithmic Scaling: Handling Extreme Data Variability](https://hackernoon.com/logarithmic-scaling-handling-extreme-data-variability)
+![](https://cdn.hackernoon.com/images/data-stacks-on-a-weight-scale-z678jwyigwx6uopps5mba6z2.png)
+Learn how logarithmic scaling helps analyse datasets with extreme variability. 
+
+### [70. Key 2022 Statistics in the No-Code/Low-Code Market](https://hackernoon.com/key-2022-statistics-in-the-no-codelow-code-market)
 ![](https://cdn.hackernoon.com/images/JzNdPMQy2Wbqmkulfq89ISoTUrB3-k493o7b.jpeg)
 We explore a low-code/no-code market poised for exponential growth in the coming years.
 
 
 
-### [70. Logarithmic Scaling: Handling Extreme Data Variability](https://hackernoon.com/logarithmic-scaling-handling-extreme-data-variability)
-![](https://cdn.hackernoon.com/images/data-stacks-on-a-weight-scale-z678jwyigwx6uopps5mba6z2.png)
-Learn how logarithmic scaling helps analyse datasets with extreme variability. 
-
 ### [71. Who even reads HackerNoon?](https://hackernoon.com/who-even-reads-hackernoon)
 ![](https://cdn.hackernoon.com/images/6IXBEcVBMQgaIB4rcJKwxv4QBb32-6s236b1.jpeg)
 You, obviously. And millions of people from around the world. What audience are you advertising to? Who are you writing for? Learn more about our readers here.
 
-### [72. Quantifying Variability: Variance, Standard Deviation, and Coefficient of Variation](https://hackernoon.com/quantifying-variability-variance-standard-deviation-and-coefficient-of-variation-mp4y32rk)
-![](https://cdn.hackernoon.com/drafts/w16a3yzt.png)
-There are many ways to quantify variability, however, here we will focus on the most common ones: variance, standard deviation, and coefficient of variation. In the field of statistics, we typically use different formulas when working with population data and sample data.
-
-### [73. Digital Workspaces: Hacking the Future of Work](https://hackernoon.com/digital-workspaces-hacking-the-future-of-work)
+### [72. Digital Workspaces: Hacking the Future of Work](https://hackernoon.com/digital-workspaces-hacking-the-future-of-work)
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-mkd3oan.jpeg)
 A look at how to engage in the future of work through digital workspaces
 
-### [74. A Single Speed Test is Fun — Hundreds of Them, May Actually be More Accurate](https://hackernoon.com/a-single-speed-test-is-fun-hundreds-of-them-may-actually-be-more-accurate-xk3432zc)
+### [73. A Single Speed Test is Fun — Hundreds of Them, May Actually be More Accurate](https://hackernoon.com/a-single-speed-test-is-fun-hundreds-of-them-may-actually-be-more-accurate-xk3432zc)
 ![](https://cdn.hackernoon.com/drafts/z6i3yuf.png)
 Releasing the first internal build of the NordVPN apps that included NordLynx – our brand new protocol built on the backbone of WireGuard® – was an exciting moment for the team. Everyone started posting their speed test results on Slack and discussing the variance. While most of the time NordLynx outperformed other protocols, there were some cases with slightly worse speed results.
+
+### [74. Quantifying Variability: Variance, Standard Deviation, and Coefficient of Variation](https://hackernoon.com/quantifying-variability-variance-standard-deviation-and-coefficient-of-variation-mp4y32rk)
+![](https://cdn.hackernoon.com/drafts/w16a3yzt.png)
+There are many ways to quantify variability, however, here we will focus on the most common ones: variance, standard deviation, and coefficient of variation. In the field of statistics, we typically use different formulas when working with population data and sample data.
 
 ### [75. Kannada-MNIST:A new handwritten digits dataset in ML town](https://hackernoon.com/kannada-mnista-new-handwritten-digits-dataset-in-ml-town-v81yz30n6)
 ![](https://cdn.hackernoon.com/images/spk3001.jpg)
 TLDR:
 
-### [76. What if Street Crime Statistics Matched Those of Cybercrime?](https://hackernoon.com/if-street-crime-statistics-matched-those-of-cybercrime-mayhem-would-ensue-7x1d3233)
-![](https://cdn.hackernoon.com/drafts/3g2j1329c.png)
-If street crime statistics matched those of cybercrime, our world would resemble the Wild West.
-
-### [77. Causal Analysis – Experimentation (AB Testing) and Statistical Techniques](https://hackernoon.com/causal-analysis-experimentation-ab-testing-and-statistical-techniques)
+### [76. Causal Analysis – Experimentation (AB Testing) and Statistical Techniques](https://hackernoon.com/causal-analysis-experimentation-ab-testing-and-statistical-techniques)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-89834jf.jpeg)
 Causal analysis background and overview of different techniques to perform a causal analysis.
+
+### [77. What if Street Crime Statistics Matched Those of Cybercrime?](https://hackernoon.com/if-street-crime-statistics-matched-those-of-cybercrime-mayhem-would-ensue-7x1d3233)
+![](https://cdn.hackernoon.com/drafts/3g2j1329c.png)
+If street crime statistics matched those of cybercrime, our world would resemble the Wild West.
 
 ### [78. How to Use Psychological Tricks to Bring Numbers to Life](https://hackernoon.com/marketing-numbers-psychological-tricks-that-bring-numbers-to-life-2h1k43902)
 ![](https://cdn.hackernoon.com/drafts/eo1jn39c6.png)
@@ -325,25 +329,25 @@ From some general data to liquidity providers' (LP) reward lists, let’s explor
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGPWtDVRw0oWCLyyZB3TTzZ7tkpD3-gw1w3tbg.jpeg?alt=media&token=794a658d-9d59-4c33-af19-2ecff1f47dfd)
 Conversational AI was always poised to take off in 2020. In fact, Gartner predicted that 80% of businesses would implement some sort of conversational interface by the end of this year. With the emergence of COVID-19 came compounded growth for the category - and I wanted to capture just how far we’ve come. So for the conversationally curious out there, I created this infographic that offers a clear depiction of where conversational AI stands at this very moment in time.
 
-### [81. Why Data Lies (and Your Model Might Too): The Curious Case of Simpson’s Paradox ](https://hackernoon.com/why-data-lies-and-your-model-might-too-the-curious-case-of-simpsons-paradox)
-![](https://cdn.hackernoon.com/images/rOfDHeborBh9C1m9FxhjSI3t94n1-at035kp.jpeg)
-Simpson’s Paradox is a cognitive trap that traps data-crunchers and machine learning tinkerers. 
-
-### [82. Breaking Down Secretary Problem](https://hackernoon.com/breaking-down-secretary-problem-wux3tk9)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvRoU2RubPwNr0c3bCtSNzTL6OQC3-v12c3thi.jpeg?alt=media&token=fcedd68e-3d0c-481f-ad44-c756c311e7d8)
-What did you think of when you had a crush on someone? Did you fantasize about marriage with him/her? When you were in some serious relationship, did you plan marriage with your partner? How did the relationship turn out? Some relationships turn into a marriage, and some don’t. Hearing stories of many friends, I see extremely few people being in a relationship (and later marrying) with only one person whole over their life. 
-
-### [83. Data-Driven Decisions at Scale: A/B Testing Best Practices for Engineering & Data Science Teams](https://hackernoon.com/data-driven-decisions-at-scale-ab-testing-best-practices-for-engineering-and-data-science-teams)
+### [81. Data-Driven Decisions at Scale: A/B Testing Best Practices for Engineering & Data Science Teams](https://hackernoon.com/data-driven-decisions-at-scale-ab-testing-best-practices-for-engineering-and-data-science-teams)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o702046.jpeg)
 Ship features like scientists: randomize, measure, and learn fast.
 
-### [84. How to Obtain A Fully Adaptive Algorithm With Sample Complexity O˜(log log n)](https://hackernoon.com/how-to-obtain-a-fully-adaptive-algorithm-with-sample-complexity-olog-log-n)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-0h03055.jpeg)
-The paper considered the problem of equivalence testing of two distributions (over [n]) in the conditional sampling model.
+### [82. Why Data Lies (and Your Model Might Too): The Curious Case of Simpson’s Paradox ](https://hackernoon.com/why-data-lies-and-your-model-might-too-the-curious-case-of-simpsons-paradox)
+![](https://cdn.hackernoon.com/images/rOfDHeborBh9C1m9FxhjSI3t94n1-at035kp.jpeg)
+Simpson’s Paradox is a cognitive trap that traps data-crunchers and machine learning tinkerers. 
 
-### [85. Calculating a Dynamic Truncated Mean in Power BI Using DAX: A Quick Guide](https://hackernoon.com/calculating-a-dynamic-truncated-mean-in-power-bi-using-dax-a-quick-guide)
+### [83. Breaking Down Secretary Problem](https://hackernoon.com/breaking-down-secretary-problem-wux3tk9)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvRoU2RubPwNr0c3bCtSNzTL6OQC3-v12c3thi.jpeg?alt=media&token=fcedd68e-3d0c-481f-ad44-c756c311e7d8)
+What did you think of when you had a crush on someone? Did you fantasize about marriage with him/her? When you were in some serious relationship, did you plan marriage with your partner? How did the relationship turn out? Some relationships turn into a marriage, and some don’t. Hearing stories of many friends, I see extremely few people being in a relationship (and later marrying) with only one person whole over their life. 
+
+### [84. Calculating a Dynamic Truncated Mean in Power BI Using DAX: A Quick Guide](https://hackernoon.com/calculating-a-dynamic-truncated-mean-in-power-bi-using-dax-a-quick-guide)
 ![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-da03jrq.jpeg)
 By implementing this DAX pattern, you create a robust, dynamic, and outlier-resistant KPI.
+
+### [85. How to Obtain A Fully Adaptive Algorithm With Sample Complexity O˜(log log n)](https://hackernoon.com/how-to-obtain-a-fully-adaptive-algorithm-with-sample-complexity-olog-log-n)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-0h03055.jpeg)
+The paper considered the problem of equivalence testing of two distributions (over [n]) in the conditional sampling model.
 
 ### [86. The Global Expansion of Cybercrime](https://hackernoon.com/the-global-expansion-of-cybercrime)
 ![](https://cdn.hackernoon.com/images/t7wq6Nrzj5eOdhwLy4uVFNiB7FE3-ysa3rdd.jpeg)
@@ -369,41 +373,41 @@ Modern fake news has evolved into a complex organism, carefully designed to hide
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-agi33o1.jpeg)
 I wrote a children's book on data science to inform others who have a hard time understanding data science and machine learning concepts, especially kids!
 
-### [92. Numbers Don't Lie But They Are Easily Misinterpreted All The Time](https://hackernoon.com/numbers-dont-lie-but-they-are-easily-misinterpreted-all-the-time-je47337e)
-![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-mz2a33rs.jpeg)
-therefore a working compromise between these 2 extremes should be found on a case-by-case basis
-
-### [93. The Base Rate Fallacy: Why Your Smartest Model Still Gets It Wrong](https://hackernoon.com/the-base-rate-fallacy-why-your-smartest-model-still-gets-it-wrong)
+### [92. The Base Rate Fallacy: Why Your Smartest Model Still Gets It Wrong](https://hackernoon.com/the-base-rate-fallacy-why-your-smartest-model-still-gets-it-wrong)
 ![](https://cdn.hackernoon.com/images/rOfDHeborBh9C1m9FxhjSI3t94n1-o40387c.jpeg)
 Are AI models as accurate as the validation test says? 
 
-### [94. Polling Error or No Polling Error? The Truth Will Probably Lie Somewhere in the Middle](https://hackernoon.com/polling-error-or-no-polling-error-the-truth-will-probably-lie-somewhere-in-the-middle)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-tv035m5.webp)
-It's unlikely polling error in 2024 will be as big as in 2016/20. It's just as unlikely there will be none. The truth will probably lie somewhere in the middle.
+### [93. Numbers Don't Lie But They Are Easily Misinterpreted All The Time](https://hackernoon.com/numbers-dont-lie-but-they-are-easily-misinterpreted-all-the-time-je47337e)
+![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-mz2a33rs.jpeg)
+therefore a working compromise between these 2 extremes should be found on a case-by-case basis
 
-### [95. EquivTester Samples In Equivalence Testing Algorithm](https://hackernoon.com/equivtester-samples-in-equivalence-testing-algorithm)
+### [94. EquivTester Samples In Equivalence Testing Algorithm](https://hackernoon.com/equivtester-samples-in-equivalence-testing-algorithm)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-qt030y2.jpeg)
 The article takes an example of an EquivTester algorithm and how to convert it into a one-round algorithm, using the COND model.
 
-### [96. How to Choose the Right Payment Gateway for the E-commerce Business](https://hackernoon.com/how-to-choose-the-right-payment-gateway-for-the-e-commerce-business)
-![](https://cdn.hackernoon.com/images/9PsykWneqAgNdAjn4Cyci89ZZxz2-77d37sp.jpeg)
-E-commerce is a promising business area that shows high growth rates each year.
+### [95. Polling Error or No Polling Error? The Truth Will Probably Lie Somewhere in the Middle](https://hackernoon.com/polling-error-or-no-polling-error-the-truth-will-probably-lie-somewhere-in-the-middle)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-tv035m5.webp)
+It's unlikely polling error in 2024 will be as big as in 2016/20. It's just as unlikely there will be none. The truth will probably lie somewhere in the middle.
 
-### [97. Variance Inflation Factor - A Pertinent Statistical Metric for the Discernment of Multicollinearity ](https://hackernoon.com/variance-inflation-factor-a-pertinent-statistical-metric-for-the-discernment-of-multicollinearity)
+### [96. Variance Inflation Factor - A Pertinent Statistical Metric for the Discernment of Multicollinearity ](https://hackernoon.com/variance-inflation-factor-a-pertinent-statistical-metric-for-the-discernment-of-multicollinearity)
 ![](https://cdn.hackernoon.com/images/wfOhdkoK2Ng95bY7s4ahmT5sb9N2-ix93ogq.jpeg)
 
 
-### [98. An Efficient One-Round Adaptive Algorithm In Equivalence Testing](https://hackernoon.com/an-efficient-one-round-adaptive-algorithm-in-equivalence-testing)
+### [97. Stop Deleting Outliers—Here’s What You Should Do Instead](https://hackernoon.com/stop-deleting-outliersheres-what-you-should-do-instead)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-fz02yeb.jpeg)
+Learn 3 simple, effective methods to detect and handle outliers in your data. Improve analysis accuracy and make smarter decisions with clean datasets.
+
+### [98. How to Choose the Right Payment Gateway for the E-commerce Business](https://hackernoon.com/how-to-choose-the-right-payment-gateway-for-the-e-commerce-business)
+![](https://cdn.hackernoon.com/images/9PsykWneqAgNdAjn4Cyci89ZZxz2-77d37sp.jpeg)
+E-commerce is a promising business area that shows high growth rates each year.
+
+### [99. An Efficient One-Round Adaptive Algorithm In Equivalence Testing](https://hackernoon.com/an-efficient-one-round-adaptive-algorithm-in-equivalence-testing)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-mh030o6.jpeg)
 This part presents an O(log log n)-query fully adaptive algorithm. The algorithm is a one-round adaptive tester for the equivalence testing problem in the COND
 
-### [99. Simple Tips For A Successful Application Performance Monitoring](https://hackernoon.com/simple-tips-for-a-successful-application-performance-monitoring-hth31s7)
+### [100. Simple Tips For A Successful Application Performance Monitoring](https://hackernoon.com/simple-tips-for-a-successful-application-performance-monitoring-hth31s7)
 ![](https://cdn.hackernoon.com/images/XdTrpTXzxMgVm8F4Ctu32oQWJki2-rph25as.jpeg)
 You finally went live, congratulations! Now what?
-
-### [100. Stop Deleting Outliers—Here’s What You Should Do Instead](https://hackernoon.com/stop-deleting-outliersheres-what-you-should-do-instead)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-fz02yeb.jpeg)
-Learn 3 simple, effective methods to detect and handle outliers in your data. Improve analysis accuracy and make smarter decisions with clean datasets.
 
 ### [101. E-Commerce as the Cake, Not the Cherry on the Cake](https://hackernoon.com/e-commerce-as-the-cake-not-the-cherry-on-the-cake)
 ![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-ul037is.jpeg)
@@ -421,13 +425,13 @@ Why improvisation kills research, and how to use AI to enforce methodological di
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-ku03zju.jpeg)
 The paper provides a technical analysis of the correctness and complexity of EquivTester using COND model and equivalent distributions.
 
-### [105. Understand The Distributions Used In Equivalence Testing](https://hackernoon.com/understand-the-distributions-used-in-equivalence-testing)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-v2030wy.jpeg)
-The research provides an affirmative answer to the challenge of equivalence testing.
-
-### [106. Winning in Online Skilled Gaming… Err… Gambling! A Look at Optimistic+ and More](https://hackernoon.com/winning-in-online-skilled-gaming-err-gambling-a-look-at-optimistic-and-more-part-04)
+### [105. Winning in Online Skilled Gaming… Err… Gambling! A Look at Optimistic+ and More](https://hackernoon.com/winning-in-online-skilled-gaming-err-gambling-a-look-at-optimistic-and-more-part-04)
 ![](https://cdn.hackernoon.com/images/413euGpz9JcvX40wUDuWJVtHdMz1-m7c35hy.png)
 This series of articles covers the techniques and gyan on winning in skilled games which are variants of Roulette, Wheel of Fortune and Baccarat. 
+
+### [106. Understand The Distributions Used In Equivalence Testing](https://hackernoon.com/understand-the-distributions-used-in-equivalence-testing)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-v2030wy.jpeg)
+The research provides an affirmative answer to the challenge of equivalence testing.
 
 ### [107. From Correlation to Checkerboards: Model-Free Exploratory Data Analysis for Categorical Data Lands](https://hackernoon.com/from-correlation-to-checkerboards-model-free-exploratory-data-analysis-for-categorical-data-lands)
 ![](https://cdn.hackernoon.com/images/c7foikVrUpayRHQy5EYicE5TEVt1-8e13bt3.png)
@@ -441,35 +445,39 @@ In his research, Gvido reported the discovery of neurons that showed a neural c
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-1n0302l.jpeg)
 The research provides an affirmative answer to the challenge of equivalence testing.
 
-### [110. 40% Americans Do Not Know What Affects Their Credit Score](https://hackernoon.com/40percent-americans-do-not-know-what-affects-their-credit-score-ykv9332s)
-![](https://cdn.hackernoon.com/images/s24d362g.gif)
-Your customers’ credit score is one of the most important numbers of their financial lives. This three-digit number is the most used credit scoring model by lenders for evaluating a borrower's creditworthiness or the likelihood that they’ll repay the money. 
-
-### [111. Enhancing Experiment Sensitivity in B2C: A Robust Framework for Heavy-Tailed Metrics](https://hackernoon.com/enhancing-experiment-sensitivity-in-b2c-a-robust-framework-for-heavy-tailed-metrics)
+### [110. Enhancing Experiment Sensitivity in B2C: A Robust Framework for Heavy-Tailed Metrics](https://hackernoon.com/enhancing-experiment-sensitivity-in-b2c-a-robust-framework-for-heavy-tailed-metrics)
 ![](https://cdn.hackernoon.com/images/1SdSepLP9FRSXaTv1pjDPjWzRpf2-xw03c4p.png)
 Boost B2C experiment sensitivity with Cross-Fitted CUPED. Learn how to handle heavy-tailed metrics like ARPU without overfitting. Includes Python code.
 
-### [112. Variance is More Than Just A Statistician's Buzzword](https://hackernoon.com/variance-is-more-than-just-a-statisticians-buzzword-u82v344o)
-![](https://cdn.hackernoon.com/images/IMcuZGEyrzRf7UvWytxpfRbJsQ52-kqc3wp4.jpeg)
-Explaining real world applications and the philosophy of statistical variance through finance, investing, and gambling.
+### [111. 40% Americans Do Not Know What Affects Their Credit Score](https://hackernoon.com/40percent-americans-do-not-know-what-affects-their-credit-score-ykv9332s)
+![](https://cdn.hackernoon.com/images/s24d362g.gif)
+Your customers’ credit score is one of the most important numbers of their financial lives. This three-digit number is the most used credit scoring model by lenders for evaluating a borrower's creditworthiness or the likelihood that they’ll repay the money. 
 
-### [113. The Noonification: Crunch the Lottery Numbers (10/2/2023)](https://hackernoon.com/10-2-2023-noonification)
-![](https://cdn.hackernoon.com/images/noonification_313_oozhkaa4jgezyp0gmxztf6w7.png)
-10/2/2023: Top 5 stories on the Hackernoon homepage!
+### [112. Turning Economic Uncertainty Into Strategic Advantage](https://hackernoon.com/turning-economic-uncertainty-into-strategic-advantage)
+![](https://cdn.hackernoon.com/images/I04XHexU6OYySp2OewICGPPImAu1-u183h4m.jpeg)
+Solving Economic Problems with Data
 
-### [114. Console #17: Japanese Pizza Toast and Turtles](https://hackernoon.com/console-17-japanese-pizza-toast-and-turtles-4z2b326d)
+### [113. Console #17: Japanese Pizza Toast and Turtles](https://hackernoon.com/console-17-japanese-pizza-toast-and-turtles-4z2b326d)
 ![](https://images.unsplash.com/photo-1528137871618-79d2761e3fd5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 01/12/2019
 
-### [115. Frequentist Stats Are Failing Your UX Decisions—Here’s a Better Way](https://hackernoon.com/frequentist-stats-are-failing-your-ux-decisionsheres-a-better-way)
+### [114. Frequentist Stats Are Failing Your UX Decisions—Here’s a Better Way](https://hackernoon.com/frequentist-stats-are-failing-your-ux-decisionsheres-a-better-way)
 ![](https://cdn.hackernoon.com/images/x77QaZHBumSjp8goYrvwKI4fnWr1-s3038nt.png)
 Learn why Bayesian A/B testing offers more intuitive insights than traditional stats, & get practical tips and tools for better UX decisions under uncertainty.
 
-### [116. Key Application Performance Metrics From the Viewpoint of a Statistician-Turned-Developer](https://hackernoon.com/key-application-performance-metrics-from-the-viewpoint-of-a-statistician-turned-developer-lxy32de)
+### [115. The Noonification: Crunch the Lottery Numbers (10/2/2023)](https://hackernoon.com/10-2-2023-noonification)
+![](https://cdn.hackernoon.com/images/noonification_313_oozhkaa4jgezyp0gmxztf6w7.png)
+10/2/2023: Top 5 stories on the Hackernoon homepage!
+
+### [116. Variance is More Than Just A Statistician's Buzzword](https://hackernoon.com/variance-is-more-than-just-a-statisticians-buzzword-u82v344o)
+![](https://cdn.hackernoon.com/images/IMcuZGEyrzRf7UvWytxpfRbJsQ52-kqc3wp4.jpeg)
+Explaining real world applications and the philosophy of statistical variance through finance, investing, and gambling.
+
+### [117. Key Application Performance Metrics From the Viewpoint of a Statistician-Turned-Developer](https://hackernoon.com/key-application-performance-metrics-from-the-viewpoint-of-a-statistician-turned-developer-lxy32de)
 ![](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 You've just released your new app into the wild, live in production. Success! Now what? Your job is done, right? Wrong. Now that you've deployed your code, it's time to monitor it, collect data, and analyze your metrics.
 
-### [117. Election Forecasts, Schmelection Forecasts](https://hackernoon.com/election-forecasts-schmelection-forecasts)
+### [118. Election Forecasts, Schmelection Forecasts](https://hackernoon.com/election-forecasts-schmelection-forecasts)
 ![](https://cdn.hackernoon.com/images/an-american-flag-waving-under-a-stormy-night-tjh5ote9673f1zzlv8kuwh4h.png)
 Will the 2024 US presidential election be more similar to 2016/20 or to 2012? What can forecasts actually tell us? Probably not a lot.
 

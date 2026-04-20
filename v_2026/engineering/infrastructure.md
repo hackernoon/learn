@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [infrastructure](https://hackernoon.com/tagged/infrastructure)
+### Let's learn about [Infrastructure](https://hackernoon.com/tagged/infrastructure) via these 159 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Infrastructure refers to the foundational components required for the operation of a system or enterprise, encompassing hardware, software, networks, and services that support IT operations. Robust infrastructure is essential for reliable performance, scalability, and security of digital systems.
+
 ### [1. The High-Frequency Trading Developer’s Guide: Six Key Components for Low Latency and Scalability](https://hackernoon.com/the-high-frequency-trading-developers-guide-six-key-components-for-low-latency-and-scalability)
 ![](https://cdn.hackernoon.com/images/hGmqlCAR5CPsRUVfNA0UOz6UAeC2-tf8340c.png)
 High-frequency trading (HFT) relies on complex algorithms to profit from small price discrepancies, requiring ultra-low latency and high-speed order execution. 
@@ -14,17 +18,17 @@ Nero Consulting Encourages Businesses to Keep Their Guard Up](https://hackernoon
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-5i93q1d.jpeg)
 Nero Consulting CEO Anthony Oren has watched countless companies suffer from the lack of preventative measures to secure their systems. 
 
-### [4. Using Browser Network Calls for Data Processing: The Search for a Dubai Chocolate Pistachio Shake](https://hackernoon.com/using-browser-network-calls-for-data-processing-the-search-for-a-dubai-chocolate-pistachio-shake)
-![](https://cdn.hackernoon.com/images/pC6MTHbGrrOUGtfQZgWOc8JwOV52-qh2377b.jpeg)
-This article will cover how I got the viral Dubai Chocolate Pistachio Shake using basic network calls and built a scalable cloud infrastructure for ML services.
+### [4. The End of CI/CD Pipelines: The Dawn of Agentic DevOps](https://hackernoon.com/the-end-of-cicd-pipelines-the-dawn-of-agentic-devops)
+![](https://cdn.hackernoon.com/images/ZaUoF8KpR5XpJCS96n75HJMcWQP2-s503a0x.jpeg)
+GitHub's agent fixed my flaky test in 11 minutes. No human wrote code. But when it fails, instead of a stack trace, you get an outcome.
 
 ### [5. Faster than Linux](https://hackernoon.com/faster-than-linux-ii2e3ybp)
 ![](https://cdn.hackernoon.com/images/nr32v3yix.jpg)
 FTL usually refers to "faster than light". A theoretical particle known as a tachyon that powers certain spaceships in the Star Trek universe keeps the plot going for decades through multiple series and and movie franchises.
 
-### [6. The End of CI/CD Pipelines: The Dawn of Agentic DevOps](https://hackernoon.com/the-end-of-cicd-pipelines-the-dawn-of-agentic-devops)
-![](https://cdn.hackernoon.com/images/ZaUoF8KpR5XpJCS96n75HJMcWQP2-s503a0x.jpeg)
-GitHub's agent fixed my flaky test in 11 minutes. No human wrote code. But when it fails, instead of a stack trace, you get an outcome.
+### [6. Using Browser Network Calls for Data Processing: The Search for a Dubai Chocolate Pistachio Shake](https://hackernoon.com/using-browser-network-calls-for-data-processing-the-search-for-a-dubai-chocolate-pistachio-shake)
+![](https://cdn.hackernoon.com/images/pC6MTHbGrrOUGtfQZgWOc8JwOV52-qh2377b.jpeg)
+This article will cover how I got the viral Dubai Chocolate Pistachio Shake using basic network calls and built a scalable cloud infrastructure for ML services.
 
 ### [7. Beyond the Hype: Real-World Challenges of DevOps in Legacy Infrastructure](https://hackernoon.com/beyond-the-hype-real-world-challenges-of-devops-in-legacy-infrastructure)
 ![](https://cdn.hackernoon.com/images/q3t89x0aVgSYIUAnIFOMLvQmXDE3-if93reo.jpeg)
@@ -124,17 +128,17 @@ To understand why embracing Open RAN should be an easy decision and get a better
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-y6k352g.jpeg)
 Meta: KubeMQ, makers of the eponymous Kubernetes-native message queue, has a new web-based tool that promises to make setup a breeze. Let's try it out! 
 
-### [31. Ultimate Guide To Building an Unbeatable Multi-Tenant SaaS Startup With Heroku [Part 1]](https://hackernoon.com/ultimate-guide-to-building-an-unbeatable-multi-tenant-saas-startup-with-heroku-part-1-1iw3ttj)
+### [31. Quicknode: Your One-Stop Web3 Infrastructure Provider](https://hackernoon.com/quicknode-your-one-stop-web3-infrastructure-provider)
+![](https://cdn.hackernoon.com/images/73Ez3YFrsmQwSpzv4caRBk2QIb53-3x93w65.jpeg)
+Quicknode: Your One-Stop Web3 Infrastructure Provider
+
+### [32. Ultimate Guide To Building an Unbeatable Multi-Tenant SaaS Startup With Heroku [Part 1]](https://hackernoon.com/ultimate-guide-to-building-an-unbeatable-multi-tenant-saas-startup-with-heroku-part-1-1iw3ttj)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-bk144xl1.jpeg?alt=media&token=47ec2ca8-c162-4b5d-ad9b-e5540bd22011)
 In this multi-part series, I'll transform a new application into a multi-tenant experience running in the Heroku ecosystem. This article focuses on the object model, design, architecture, and security.
 
-### [32. Developers and Cloud IaaS: Why Devs Should Set Up Their Own Cloud Infrastructure](https://hackernoon.com/developers-and-cloud-iaas-why-devs-should-set-up-their-own-cloud-infrastructure)
+### [33. Developers and Cloud IaaS: Why Devs Should Set Up Their Own Cloud Infrastructure](https://hackernoon.com/developers-and-cloud-iaas-why-devs-should-set-up-their-own-cloud-infrastructure)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-dg93jl1.jpeg)
 Why Infrastructure as a Service (IaaS) still rules, even for developers.
-
-### [33. Quicknode: Your One-Stop Web3 Infrastructure Provider](https://hackernoon.com/quicknode-your-one-stop-web3-infrastructure-provider)
-![](https://cdn.hackernoon.com/images/73Ez3YFrsmQwSpzv4caRBk2QIb53-3x93w65.jpeg)
-Quicknode: Your One-Stop Web3 Infrastructure Provider
 
 ### [34. How To Adjust Size Of A Kubernetes Cluster Using Cluster Autoscaler](https://hackernoon.com/how-to-adjust-size-of-a-kubernetes-cluster-using-cluster-autoscaler-qy1j3t66)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQYCUqng9AEa0N4lY3S8A0lqy52g2-4h2w3t4o.jpeg?alt=media&token=e8c10994-c2ac-47f8-9b15-5502cfcf53be)
@@ -152,37 +156,37 @@ The corona virus has challenged all aspects of our lives. Healthcare not with st
 ![](https://cdn.hackernoon.com/images/cZRwLK2V7qQxUHUoQztpK8ODFnx2-0o93pjt.jpeg)
 Hi all! I'm Dmytro Dziubenko, Co-founder & CTO of Corefy, a white label SaaS platform that empowers clients to launch their own payment systems in a few clicks. Our platform helps numerous payment providers and companies successfully cover all their payment acceptance needs. The key value of our platform for clients is that it eliminates the difficulties of payment provider integrations. After a single integration with us, clients get access to hundreds of ready-made integrations with PSPs and acquirers worldwide, allowing them to connect any payment method easily. 
 
-### [38. The One Config to Rule Them All](https://hackernoon.com/the-one-config-to-rule-them-all)
-![](https://cdn.hackernoon.com/images/HxNfkrh26UTEtXQzDqREGxYItVs2-qj93t6v.jpeg)
-Goplicate - An epic tale about a developer trying to maintain dozens of project config files and finding the one config to bind them and rule them all.
-
-### [39. Smart Trains: A Long Journey to Transportation Revolution](https://hackernoon.com/smart-trains-a-long-journey-to-transportation-revolution-9w2335dq)
-![](https://cdn.hackernoon.com/images/08kqxtF0wOR294ukfFuRLXEWE052-gmz355h.jpeg)
-Smart cars might be the future, but what about high-speed smart trains?
-
-### [40. Reimagining OSS BSS Systems to Shape the Future of the Telecom Industry](https://hackernoon.com/reimagining-ossbss-systems-to-shape-the-future-of-the-telecom-industry)
+### [38. Reimagining OSS BSS Systems to Shape the Future of the Telecom Industry](https://hackernoon.com/reimagining-ossbss-systems-to-shape-the-future-of-the-telecom-industry)
 ![](https://cdn.hackernoon.com/images/hyqOkFeqRQgvxGTQ93NA6xCDctC3-8mk35jo.png)
 OSS and BSS are entities that represent the operational and business sides of the telecom respectively. They enhance the engagement with their customers. 
 
-### [41. 2023 Will Be the Year of Kubernetes (and Other Predictions in the Cloud and Infrastructure Industry)](https://hackernoon.com/2023-will-be-the-year-of-kubernetes-and-other-predictions-in-the-cloud-and-infrastructure-industry)
-![](https://cdn.hackernoon.com/images/8UW42uLsZVZcl75w53aK3DjPvm52-ra93ojs.jpeg)
-Dive into the new year’s top cloud and infra-tech trends, straight from a cloud and infrastructure technology fanatic. 
+### [39. The One Config to Rule Them All](https://hackernoon.com/the-one-config-to-rule-them-all)
+![](https://cdn.hackernoon.com/images/HxNfkrh26UTEtXQzDqREGxYItVs2-qj93t6v.jpeg)
+Goplicate - An epic tale about a developer trying to maintain dozens of project config files and finding the one config to bind them and rule them all.
 
-### [42. Why do we need a through table explained with Rails?](https://hackernoon.com/why-do-we-need-a-through-table-explained-with-rails-w81m3wxw)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmtBLAkEguYa4l9f512PmBq5BHU22-do1c3x4k.jpeg?alt=media&token=75f5811b-1a3c-40f9-9007-eeecc5384a44)
-In a many to many relationship, it's just a table between the entities, but what is the purpose of this table to be between them?
-
-### [43. Google's Jules Starts Surfacing Work on Its Own, Signaling a Shift in AI Coding Assistants](https://hackernoon.com/googles-jules-starts-surfacing-work-on-its-own-signaling-a-shift-in-ai-coding-assistants)
+### [40. Google's Jules Starts Surfacing Work on Its Own, Signaling a Shift in AI Coding Assistants](https://hackernoon.com/googles-jules-starts-surfacing-work-on-its-own-signaling-a-shift-in-ai-coding-assistants)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-iz024s1.jpeg)
 Google is make its Jules coding agent more "proactive," allowing it to surface tasks and respond to events without being explicitly invoked by developers.
 
-### [44. COVID-19 and the Decentralized Economy](https://hackernoon.com/covid-19-and-the-decentralized-economy-lc1f3203)
-![](https://cdn.filestackcontent.com/3wDHIBJUSWCxk02wVAIj)
-Testing the System 
+### [41. Smart Trains: A Long Journey to Transportation Revolution](https://hackernoon.com/smart-trains-a-long-journey-to-transportation-revolution-9w2335dq)
+![](https://cdn.hackernoon.com/images/08kqxtF0wOR294ukfFuRLXEWE052-gmz355h.jpeg)
+Smart cars might be the future, but what about high-speed smart trains?
 
-### [45. Agentic AI and Agentic RAG: Hyped Buzzwords or Game-Changers?](https://hackernoon.com/agentic-ai-and-agentic-rag-hyped-buzzwords-or-game-changers)
+### [42. 2023 Will Be the Year of Kubernetes (and Other Predictions in the Cloud and Infrastructure Industry)](https://hackernoon.com/2023-will-be-the-year-of-kubernetes-and-other-predictions-in-the-cloud-and-infrastructure-industry)
+![](https://cdn.hackernoon.com/images/8UW42uLsZVZcl75w53aK3DjPvm52-ra93ojs.jpeg)
+Dive into the new year’s top cloud and infra-tech trends, straight from a cloud and infrastructure technology fanatic. 
+
+### [43. Why do we need a through table explained with Rails?](https://hackernoon.com/why-do-we-need-a-through-table-explained-with-rails-w81m3wxw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmtBLAkEguYa4l9f512PmBq5BHU22-do1c3x4k.jpeg?alt=media&token=75f5811b-1a3c-40f9-9007-eeecc5384a44)
+In a many to many relationship, it's just a table between the entities, but what is the purpose of this table to be between them?
+
+### [44. Agentic AI and Agentic RAG: Hyped Buzzwords or Game-Changers?](https://hackernoon.com/agentic-ai-and-agentic-rag-hyped-buzzwords-or-game-changers)
 ![](https://cdn.hackernoon.com/images/0FC9YtxD4fbD3T7mPipOt4HSxY42-o8036pg.png)
 Let's dig into the new Agentic AI and Agentic RAG trends to understand what they truly are.
+
+### [45. COVID-19 and the Decentralized Economy](https://hackernoon.com/covid-19-and-the-decentralized-economy-lc1f3203)
+![](https://cdn.filestackcontent.com/3wDHIBJUSWCxk02wVAIj)
+Testing the System 
 
 ### [46. What is Software-Defined Networking and Why Is It the Future of Networking Connections?](https://hackernoon.com/what-is-software-defined-networking-and-why-is-it-the-future-of-networking-connections)
 ![](https://cdn.hackernoon.com/images/125QJTRDxBYOCF63KJz9mn0Vqcg2-q0c3psf.jpeg)
@@ -200,49 +204,49 @@ Choosing the right set of frameworks, database, front-end tools, back-end tools 
 ![](https://cdn.hackernoon.com/images/tfe24J6CMKPLs2KUS0rMCBANAQf1-8a03dvf.png)
 Stop chasing "speed" as a monolith. Data latency and query latency are fundamentally different problems. Optimizing for fresh data often degrades dashboard responsiveness, and vice versa. The real challenge isn't building the fastest system—it's aligning your architecture with actual business needs while managing exponential costs.
 
-### [50. Introduction to AWS Log Insights as CloudWatch Metrics](https://hackernoon.com/introduction-to-aws-log-insights-as-cloudwatch-metrics-e429332l)
-![](https://cdn.hackernoon.com/images/V8rHe34LNFY72hur3KxuNqnmW3D3-a31728x0.jpeg)
-A step-by-step description of how to create an AWS Lambda to convert Cloudwatch LogInsights into metrics
-
-### [51. The Game AI Problem Computers Were Never Built to Solve](https://hackernoon.com/the-game-ai-problem-computers-were-never-built-to-solve)
+### [50. The Game AI Problem Computers Were Never Built to Solve](https://hackernoon.com/the-game-ai-problem-computers-were-never-built-to-solve)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-b2023yz.jpeg)
 An explainer on why brute-force AI fails at grand strategy games, and how hybrid LLM architectures enable long-horizon strategic reasoning.
 
-### [52. The Collapse of the Web: The Sameness & Death of Difference in Tech](https://hackernoon.com/the-collapse-of-the-web-the-sameness-and-death-of-difference-in-tech)
+### [51. The Collapse of the Web: The Sameness & Death of Difference in Tech](https://hackernoon.com/the-collapse-of-the-web-the-sameness-and-death-of-difference-in-tech)
 ![](https://cdn.hackernoon.com/images/77WjQmBCAIQ7dyhZ22Bkui5QTrb2-du03co3.png)
 The web isnt dying, it’s folding in on itself. From OpenAI’s quiet absorption of innovation to the rise of AI-built clones, developers now live in an era where 
 
-### [53. Scaling Your DevOps Environment: Best Practices for Cloud Infrastructure Management](https://hackernoon.com/scaling-your-devops-environment-best-practices-for-cloud-infrastructure-management)
+### [52. Introduction to AWS Log Insights as CloudWatch Metrics](https://hackernoon.com/introduction-to-aws-log-insights-as-cloudwatch-metrics-e429332l)
+![](https://cdn.hackernoon.com/images/V8rHe34LNFY72hur3KxuNqnmW3D3-a31728x0.jpeg)
+A step-by-step description of how to create an AWS Lambda to convert Cloudwatch LogInsights into metrics
+
+### [53. Senior Engineers Know the Hardest Part Isn’t Coding](https://hackernoon.com/senior-engineers-know-the-hardest-part-isnt-coding)
+![](https://substackcdn.com/image/fetch/$s_!bczD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9742e34b-9170-4421-a373-ce9c8377b5a4_1024x608.png)
+The most expensive code I ever wrote solved the wrong problem perfectly. 
+
+### [54. Scaling Your DevOps Environment: Best Practices for Cloud Infrastructure Management](https://hackernoon.com/scaling-your-devops-environment-best-practices-for-cloud-infrastructure-management)
 ![](https://cdn.hackernoon.com/images/yhxLEezKWWcCfcdCiac1tQe0uW92-ti93p27.jpeg)
 We will explore advanced strategies for scaling your DevOps environment while highlighting Serverspace's seamless integration as a global provider. 
 
-### [54. What Exactly Is An “Infrastructure Provider” In Web3?](https://hackernoon.com/what-exactly-is-an-infrastructure-provider-in-web3)
-![](https://cdn.hackernoon.com/images/n93I5XffgXRPdKtQ4cnvtx6pHJO2-cm9369h.jpeg)
-Infrastructure providers play a key role in Web3 development. They will be the roads and highways that enable seamless Web3 communication via secure protocols. 
-
-### [55. Decentralization by Design: How Torram Aligns with Bitcoin’s Core Ethos](https://hackernoon.com/decentralization-by-design-how-torram-aligns-with-bitcoins-core-ethos)
-![](https://cdn.hackernoon.com/images/jgoi77bzYOcNY07u5NNe5t7XwrH3-1v038zd.jpeg)
-Discover how Torram is building a Bitcoin-native, Proof-of-Stake network that brings fast, secure, and decentralized finality to the Bitcoin blockchain.
+### [55. Hope Is Not a Strategy in Fintech](https://hackernoon.com/hope-is-not-a-strategy-in-fintech)
+![](https://substackcdn.com/image/fetch/$s_!g0ic!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a0dbbed-f90a-4ba0-bd4a-6b139f505186_1024x1024.png)
+The shift from mid-level to senior engineering thinking happens when you stop asking “will this work?”
 
 ### [56. The Role of Advanced Digital Services and Convenient Modern Infrastructure in Transportation Systems](https://hackernoon.com/the-role-of-advanced-digital-services-and-convenient-modern-infrastructure-in-transportation-systems)
 ![](https://cdn.hackernoon.com/images/IymvKKTnYPZ9oRrN7IjNRPC4QKr1-d093pid.jpeg)
 Advanced digital services and modern infrastructure enable comfortable transportation systems. Learn from Pavel Krovyakov's experience.
 
-### [57. Hope Is Not a Strategy in Fintech](https://hackernoon.com/hope-is-not-a-strategy-in-fintech)
-![](https://substackcdn.com/image/fetch/$s_!g0ic!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a0dbbed-f90a-4ba0-bd4a-6b139f505186_1024x1024.png)
-The shift from mid-level to senior engineering thinking happens when you stop asking “will this work?”
+### [57. What Exactly Is An “Infrastructure Provider” In Web3?](https://hackernoon.com/what-exactly-is-an-infrastructure-provider-in-web3)
+![](https://cdn.hackernoon.com/images/n93I5XffgXRPdKtQ4cnvtx6pHJO2-cm9369h.jpeg)
+Infrastructure providers play a key role in Web3 development. They will be the roads and highways that enable seamless Web3 communication via secure protocols. 
 
-### [58. Senior Engineers Know the Hardest Part Isn’t Coding](https://hackernoon.com/senior-engineers-know-the-hardest-part-isnt-coding)
-![](https://substackcdn.com/image/fetch/$s_!bczD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9742e34b-9170-4421-a373-ce9c8377b5a4_1024x608.png)
-The most expensive code I ever wrote solved the wrong problem perfectly. 
+### [58. Decentralization by Design: How Torram Aligns with Bitcoin’s Core Ethos](https://hackernoon.com/decentralization-by-design-how-torram-aligns-with-bitcoins-core-ethos)
+![](https://cdn.hackernoon.com/images/jgoi77bzYOcNY07u5NNe5t7XwrH3-1v038zd.jpeg)
+Discover how Torram is building a Bitcoin-native, Proof-of-Stake network that brings fast, secure, and decentralized finality to the Bitcoin blockchain.
 
-### [59. Building Scalable E-commerce Infrastructure on Magento](https://hackernoon.com/building-scalable-e-commerce-infrastructure-on-magento)
+### [59. How Preshent Is Building the Intelligent OS for Regenerative Infrastructure with AI and Blockchain ](https://hackernoon.com/how-preshent-is-building-the-intelligent-os-for-regenerative-infrastructure-with-ai-and-blockchain)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-c103npp.jpeg)
+Learn how Preshent uses AI to automate complex regulations and blockchain to fund green energy, starting with Tribal Nations.
+
+### [60. Building Scalable E-commerce Infrastructure on Magento](https://hackernoon.com/building-scalable-e-commerce-infrastructure-on-magento)
 ![](https://cdn.hackernoon.com/images/VHJV8KQYsCet1ov7cgCYyi6BKTb2-fu134t9.png)
 A guide to help other developers build scalable e-commerce infrastructure on Magento and avoid the pitfalls Ruroc has encountered.
-
-### [60. Best Practices of Cloud Networks Usage in Fintech](https://hackernoon.com/best-practices-of-cloud-networks-usage-in-fintech)
-![](https://cdn.hackernoon.com/images/dGWqB8LEZBhGjcvFXLwmrj7Beog2-qf929zw.jpeg)
-Making good use of a could network first requires firms to consider if they would be meeting their regulatory obligations before ensuring network resilience.
 
 ### [61. KYVE Mainnet Goes Live on Pi Day, Opening The Doors To Truly Trustless Data In Web3](https://hackernoon.com/kyve-mainnet-goes-live-on-pi-day-opening-the-doors-to-truly-trustless-data-in-web3)
 ![](https://cdn.hackernoon.com/images/spaceship-flying-in-space-with-earth-in-the-background-clfjl4vpl000001s6ecpd591b.png)
@@ -252,25 +256,25 @@ KYVE, the decentralized data lake, mainnet officially live, opening the doors to
 ![](https://cdn.hackernoon.com/drafts/766i3zd0.png)
 It took one aquarium thermometer to steal 10GB of data from a Las Vegas casino. The adapter, which lacked basic security policies, was simply not on the security staff’s priority list. It was, however, on the hackers’.
 
-### [63. Ten Things to Know about (Digital) China and Beyond.](https://hackernoon.com/ten-things-to-know-about-digital-china-and-beyond-un1d3ubx)
+### [63. Best Practices of Cloud Networks Usage in Fintech](https://hackernoon.com/best-practices-of-cloud-networks-usage-in-fintech)
+![](https://cdn.hackernoon.com/images/dGWqB8LEZBhGjcvFXLwmrj7Beog2-qf929zw.jpeg)
+Making good use of a could network first requires firms to consider if they would be meeting their regulatory obligations before ensuring network resilience.
+
+### [64. Ten Things to Know about (Digital) China and Beyond.](https://hackernoon.com/ten-things-to-know-about-digital-china-and-beyond-un1d3ubx)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRdOi0KrOFPUq3ekdIakjlarMRRx2-4k3y3u93.jpeg?alt=media&token=faf561a9-b9b7-49ef-9f80-d50b06b87057)
 Today, there are more than 900 million Internet users in China -- about three hundred million more than Europe’s total population. It is also more than twice the total U.S. and Canadian populations combined in 2019.
 
-### [64. Terraform Configuration Syntax Overview](https://hackernoon.com/terraform-configuration-syntax-overview-c91n31ee)
+### [65. Here's How You Can Train Any Agent Just by Talking: OpenClaw-RL Guide](https://hackernoon.com/heres-how-you-can-train-any-agent-just-by-talking-openclaw-rl-guide)
+![](https://cdn.hackernoon.com/images/a-human-talking-to-a-small-robot-sketch-color-d6mu3vdpo6c13fcfto70idpi.png)
+This is a Plain English Papers summary of a research paper called OpenClaw-RL: Train Any Agent Simply by Talking
+
+### [66. Terraform Configuration Syntax Overview](https://hackernoon.com/terraform-configuration-syntax-overview-c91n31ee)
 ![](https://cdn.hackernoon.com/images/ygShC1FWmOW9nqC16JirQ0nzNd53-kv5531qu.jpeg)
 All you need to know to get started about Terraform Syntax.
 
-### [65. How Preshent Is Building the Intelligent OS for Regenerative Infrastructure with AI and Blockchain ](https://hackernoon.com/how-preshent-is-building-the-intelligent-os-for-regenerative-infrastructure-with-ai-and-blockchain)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-c103npp.jpeg)
-Learn how Preshent uses AI to automate complex regulations and blockchain to fund green energy, starting with Tribal Nations.
-
-### [66. How To Manage Infrastructure With Terraform](https://hackernoon.com/how-to-manage-infrastructure-with-terraform-ab2l3u11)
-![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-1a8361m.jpeg)
-What is Terraform?
-
-### [67. What Happens When the Cloud Goes Down? The Hidden Fragility of Our Digital Lives](https://hackernoon.com/what-happens-when-the-cloud-goes-down-the-hidden-fragility-of-our-digital-lives)
-![](https://cdn.hackernoon.com/images/2Sq2WAW3dXc1VMxeyHXSHzbPjo62-z203bj5.jpeg)
-Google's June outage exposed something terrifying: how interconnected we've become. 
+### [67. Infrastructure as Code with APIs: Automating Cloud Resources the Developer Way](https://hackernoon.com/infrastructure-as-code-with-apis-automating-cloud-resources-the-developer-way)
+![](https://cdn.hackernoon.com/images/AGr8KngsfDgFeQNG1b8p0b616hy2-p483fz4.webp)
+Infrastructure as Code is a way to manage cloud resources using code. Learn how to manage a PaaS using APIs. 
 
 ### [68. The Math Trick That Lets Deep Networks Get Smarter Without Falling Apart](https://hackernoon.com/the-math-trick-that-lets-deep-networks-get-smarter-without-falling-apart)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-xu023zy.jpeg)
@@ -342,273 +346,369 @@ The paper's real contribution isn't any single technical detail. It's the recogn
 
 Original post: Read on AIModels.fyi [https://www.aimodels.fyi/papers/arxiv/mhc-manifold-constrained-hyper-connections?utm_source=hackernoon&utm_medium=referral]
 
-### [69. Railroad Infrastructure: How Evertrak is Leading the Way with Sustainable Materials](https://hackernoon.com/railroad-infrastructure-how-evertrak-is-leading-the-way-with-sustainable-materials)
+### [69. How To Manage Infrastructure With Terraform](https://hackernoon.com/how-to-manage-infrastructure-with-terraform-ab2l3u11)
+![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-1a8361m.jpeg)
+What is Terraform?
+
+### [70. Wealth Is Moving Beyond London, New York, and Zurich](https://hackernoon.com/wealth-is-moving-beyond-london-new-york-and-zurich)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ns024h7.webp)
+Wealth is shifting from London and New York to smaller hubs like Belize and Panama in search of efficiency, flexibility, and functional governance.
+
+### [71. Railroad Infrastructure: How Evertrak is Leading the Way with Sustainable Materials](https://hackernoon.com/railroad-infrastructure-how-evertrak-is-leading-the-way-with-sustainable-materials)
 ![](https://cdn.hackernoon.com/images/nyJ3v3rRv5NGM0ueVYbwsOuSUNr1-ls934re.jpeg)
 Railroad Infrastructure: How Evertrak is Leading the Way with Sustainable Materials
 
-### [70. What Is The True Cost of Using Public APIs](https://hackernoon.com/what-is-the-true-cost-of-using-public-apis-lz7x3wn7)
+### [72. What Is The True Cost of Using Public APIs](https://hackernoon.com/what-is-the-true-cost-of-using-public-apis-lz7x3wn7)
 ![](https://cdn.hackernoon.com/images/jf1f3wii.gif)
 How ubiquitous are APIs in today’s development processes? Try asking an engineer how many APIs their project integrates. Most teams won’t know the answer. From analytics tools to maps and cloud hosting, modern applications use a hefty collection of internal and public APIs. Developers use these to quickly assemble applications that would otherwise take much more effort to build. However, there’s a forgotten expense not typically calculated early in a project.
 
-### [71. The Top 5 DevOps Tools and Services to Consider as a Startup](https://hackernoon.com/the-top-5-devops-tools-and-services-to-consider-as-a-startup)
+### [73. Agentic AI Could Break the Old Rules of Job Displacement](https://hackernoon.com/agentic-ai-could-break-the-old-rules-of-job-displacement)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-tw021tt.jpeg)
+This is a Plain English Papers summary of a research paper called Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis of Emergi...
+
+### [74. The Top 5 DevOps Tools and Services to Consider as a Startup](https://hackernoon.com/the-top-5-devops-tools-and-services-to-consider-as-a-startup)
 ![](https://cdn.hackernoon.com/images/TgQzpOkLwEY693DjFbEp1b1xa8d2-gca3p2m.jpeg)
 A collection of DevOps tools can significantly enhance your Software Development Life Cycle (SDLC) and increase engineering productivity.
 
-### [72. Introducing Apron Network: A Gateway to Decentralized Infrastructure Services](https://hackernoon.com/introducing-apron-network-a-gateway-to-decentralized-infrastructure-services-9j3i34o4)
-![](https://cdn.hackernoon.com/images/QFMr2nEbM6TqoSCvnp1wXMfdabi1-3b2i33wv.jpeg)
-Apron Network, a project supported by the Web3 Foundation, received early grants from the Web3 Foundation.
-
-### [73. Building Your Infrastructure With Just a Diagram](https://hackernoon.com/building-your-infrastructure-with-just-a-diagram)
+### [75. Building Your Infrastructure With Just a Diagram](https://hackernoon.com/building-your-infrastructure-with-just-a-diagram)
 ![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-bs93rf9.jpeg)
 This hands-on tutorial will teach you how to create infrastructure via the AWS Application Composer Console.
 
-### [74. Decentralized Computing & Storage vs. Legacy Cloud Solutions](https://hackernoon.com/decentralized-computing-and-storage-vs-legacy-cloud-solutions)
+### [76. Introducing Apron Network: A Gateway to Decentralized Infrastructure Services](https://hackernoon.com/introducing-apron-network-a-gateway-to-decentralized-infrastructure-services-9j3i34o4)
+![](https://cdn.hackernoon.com/images/QFMr2nEbM6TqoSCvnp1wXMfdabi1-3b2i33wv.jpeg)
+Apron Network, a project supported by the Web3 Foundation, received early grants from the Web3 Foundation.
+
+### [77. Tencent’s Tiny Translator: How HY-MT1.5-1.8B Competes With Big Translation APIs](https://hackernoon.com/tencents-tiny-translator-how-hy-mt15-18b-competes-with-big-translation-apis)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9c0220l.jpeg)
+Meet Tencent’s HY-MT1.5-1.8B: a compact translation model built for speed, edge deployment, and surprisingly strong quality.
+
+### [78. Decentralized Computing & Storage vs. Legacy Cloud Solutions](https://hackernoon.com/decentralized-computing-and-storage-vs-legacy-cloud-solutions)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-4w93lpx.jpeg)
 On November 11th, 2021, an Infura outage collapsed large swaths of the Ethereum ecosystem...
 
-### [75. Scaling Our AWS Infrastructure](https://hackernoon.com/scaling-our-aws-infrastructure-l4ca3y9w)
+### [79. Scaling Our AWS Infrastructure](https://hackernoon.com/scaling-our-aws-infrastructure-l4ca3y9w)
 ![](https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 This article is written by Kareem Ayesh and Yasser El-Sayed.
 
-### [76. Improving Security in your Microservices Architecture with Istio](https://hackernoon.com/improving-security-in-your-microservices-architecture-with-istio)
-![](https://cdn.hackernoon.com/images/maEb7A0NgUU58vvWoqJZ6nug0Ik1-3y63aqx.jpeg)
-Security in a microservice architecture with Istio 1.12
-
-### [77. How The Hotstuff Protocol is NOT Secure?](https://hackernoon.com/how-the-hotstuff-protocol-is-not-secure-gf9a32mv)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-at82rcg.jpeg)
-Each participant stores a tree of pending commands locally, in addition to the state variables viewNumber (starting at 1, stores the highest QC it voted to pre-commit), and prepareQC (starts at nil), lockedQC (starts at nil, stores the highest QC it voted to commit). When a “new-view” or round starts, a public function determines the leader from the current participants. 
-
-### [78. How Companies like Netflix Deliver Content Around the World](https://hackernoon.com/how-companies-like-netflix-deliver-content-around-the-world)
+### [80. How Companies like Netflix Deliver Content Around the World](https://hackernoon.com/how-companies-like-netflix-deliver-content-around-the-world)
 ![](https://cdn.hackernoon.com/images/TlU0qyilehYV4XrjqgkglSwSK413-4o93pf6.jpeg)
 Have you ever wondered how companies like Netflix or Spotify is able to delivery videos or songs to you at what seems like lightning fast speed !?
 
 
-### [79. Brave New Word: Exploring the Diverse Niches for Decentralized Physical Infrastructure Networks ](https://hackernoon.com/brave-new-word-exploring-the-diverse-niches-for-decentralized-physical-infrastructure-networks)
+### [81. Improving Security in your Microservices Architecture with Istio](https://hackernoon.com/improving-security-in-your-microservices-architecture-with-istio)
+![](https://cdn.hackernoon.com/images/maEb7A0NgUU58vvWoqJZ6nug0Ik1-3y63aqx.jpeg)
+Security in a microservice architecture with Istio 1.12
+
+### [82. How The Hotstuff Protocol is NOT Secure?](https://hackernoon.com/how-the-hotstuff-protocol-is-not-secure-gf9a32mv)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-at82rcg.jpeg)
+Each participant stores a tree of pending commands locally, in addition to the state variables viewNumber (starting at 1, stores the highest QC it voted to pre-commit), and prepareQC (starts at nil), lockedQC (starts at nil, stores the highest QC it voted to commit). When a “new-view” or round starts, a public function determines the leader from the current participants. 
+
+### [83. The Death of "Dumb Money": Why Stablecoins Are Finally Getting Smart](https://hackernoon.com/the-death-of-dumb-money-why-stablecoins-are-finally-getting-smart)
+![](https://cdn.hackernoon.com/images/dFyQv7nHRSSgywt2HBIGP7g7QuI3-jv83dy7.png)
+How stablecoins evolved from static tokens to programmable assets.
+
+### [84. Brave New Word: Exploring the Diverse Niches for Decentralized Physical Infrastructure Networks ](https://hackernoon.com/brave-new-word-exploring-the-diverse-niches-for-decentralized-physical-infrastructure-networks)
 ![](https://cdn.hackernoon.com/images/PbbfrARZ78UfnvwvOMBFrN2mLJi1-w343mai.jpeg)
 Explore how decentralized infrastructure networks (DePIN) use blockchain technology to transform industries, enhancing efficiency, security, and democratization
 
-### [80. New Spiral Cycle: Why Microservices Are Overrated](https://hackernoon.com/new-spiral-cycle-why-microservices-are-overrated)
-![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-bud3v9f.jpeg)
-Making out why Amazon, Netflix and others are going back to monolith
-
-### [81. The “Best Practice” Trap](https://hackernoon.com/the-best-practice-trap)
+### [85. The “Best Practice” Trap](https://hackernoon.com/the-best-practice-trap)
 ![](https://substackcdn.com/image/fetch/$s_!C2Ty!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f211230-3840-4290-965d-ca4adb27fe3c_1024x572.png)
 Don’t go in with an opinion. Go in with data. Prepare one piece of evidence before you walk into the room or join the call.
 
-### [82. Tencent’s Tiny Translator: How HY-MT1.5-1.8B Competes With Big Translation APIs](https://hackernoon.com/tencents-tiny-translator-how-hy-mt15-18b-competes-with-big-translation-apis)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9c0220l.jpeg)
-Meet Tencent’s HY-MT1.5-1.8B: a compact translation model built for speed, edge deployment, and surprisingly strong quality.
+### [86. New Spiral Cycle: Why Microservices Are Overrated](https://hackernoon.com/new-spiral-cycle-why-microservices-are-overrated)
+![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-bud3v9f.jpeg)
+Making out why Amazon, Netflix and others are going back to monolith
 
-### [83. Turns Out 30% of Your AI Model Is Just Wasted Space](https://hackernoon.com/turns-out-30percent-of-your-ai-model-is-just-wasted-space)
-![](https://arxiv.org/html/2504.11651v1/x1.png)
-AI models aren’t actually too big. New research shows nearly 30% of their size is wasted due to outdated storage assumptions.
-
-### [84. Improving Observability Through Service Level Metrics](https://hackernoon.com/improving-observability-through-service-level-metrics)
+### [87. Improving Observability Through Service Level Metrics](https://hackernoon.com/improving-observability-through-service-level-metrics)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-pp93yc4.jpeg)
 
 
-### [85. Navigating Startup Storms: The Crucial Role of a Product Engineer](https://hackernoon.com/navigating-startup-storms-the-crucial-role-of-a-product-engineer)
-![](https://cdn.hackernoon.com/images/generate-an-image-that-captures-the-dynamic-essence-of-a-startup-journey-symbolizing-challenges-resilience-include-elements-of-growth-technology-tools-and-the-startup-ecosystem-the-image-should-evoke-a-sense-of-adventure-and-the-determination-to-navigate-through-the-stormy-seas-of-entrepreneurs-lv1jut8dupxy7b81h8yn6wx7.png)
-Explore the rollercoaster of startups, the role of a 'Product Engineer,' and crucial lessons for early-stage success.
+### [88. Turns Out 30% of Your AI Model Is Just Wasted Space](https://hackernoon.com/turns-out-30percent-of-your-ai-model-is-just-wasted-space)
+![](https://arxiv.org/html/2504.11651v1/x1.png)
+AI models aren’t actually too big. New research shows nearly 30% of their size is wasted due to outdated storage assumptions.
 
-### [86. Nginx Logs - Fair Database Benchmarks](https://hackernoon.com/nginx-logs-fair-database-benchmarks)
+### [89. Serbia Builds While the West Borrows](https://hackernoon.com/serbia-builds-while-the-west-borrows)
+![](https://substackcdn.com/image/fetch/$s_!dG3S!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6820715-7637-492e-8806-b96da9bc95a3_1024x1536.png)
+I am currently touring industrial parks outside of Belgrade, Serbia.Here, new manufacturing facilities are rising with minimal leverage, driven by a focus on...
+
+### [90. Nginx Logs - Fair Database Benchmarks](https://hackernoon.com/nginx-logs-fair-database-benchmarks)
 ![](https://cdn.hackernoon.com/images/2yEHZMN6JeQSAmOaVn8T8TtsI7E3-2f94jkd.jpeg)
 How one test works to analyse millions of Nginx logs from a live website and what to learn from the analysis results while processing it in a timely way.
 
-### [87. Why You Should Run Multiple Applications on the Same GPU (and Why it's so Difficult) ](https://hackernoon.com/why-you-should-run-multiple-applications-on-the-same-gpu-and-why-its-so-difficult)
+### [91. Navigating Startup Storms: The Crucial Role of a Product Engineer](https://hackernoon.com/navigating-startup-storms-the-crucial-role-of-a-product-engineer)
+![](https://cdn.hackernoon.com/images/generate-an-image-that-captures-the-dynamic-essence-of-a-startup-journey-symbolizing-challenges-resilience-include-elements-of-growth-technology-tools-and-the-startup-ecosystem-the-image-should-evoke-a-sense-of-adventure-and-the-determination-to-navigate-through-the-stormy-seas-of-entrepreneurs-lv1jut8dupxy7b81h8yn6wx7.png)
+Explore the rollercoaster of startups, the role of a 'Product Engineer,' and crucial lessons for early-stage success.
+
+### [92. Why You Should Run Multiple Applications on the Same GPU (and Why it's so Difficult) ](https://hackernoon.com/why-you-should-run-multiple-applications-on-the-same-gpu-and-why-its-so-difficult)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-iy03a00.jpeg)
 While GPUs are being used more and more, many users encounter the problem of not utilizing them properly.
 
-### [88. The Recommendation Engine Behind Your Cart: Design, Build, Maintain](https://hackernoon.com/the-recommendation-engine-behind-your-cart-design-build-maintain)
-![](https://cdn.hackernoon.com/images/tfe24J6CMKPLs2KUS0rMCBANAQf1-3z03d3q.png)
-Explore pipeline design, Kafka/Kinesis decoupling, and the monitoring that prevents “green lights” from lying.
-
-### [89. Africa's Internet Evolution: From Challenges to Connectivity](https://hackernoon.com/africas-internet-evolution-from-challenges-to-connectivity)
+### [93. Africa's Internet Evolution: From Challenges to Connectivity](https://hackernoon.com/africas-internet-evolution-from-challenges-to-connectivity)
 ![](https://cdn.hackernoon.com/images/ahtiEWeKi5Q3mnkSzvRwGRF8Ez63-m902u8y.png)
 Discover in this article why Africa is the least area connected to the internet, what challenges users face and opportunities it brings for the digital economy.
 
-### [90. Subscription Growth: The Momentum You Can’t See](https://hackernoon.com/subscription-growth-the-momentum-you-cant-see)
-![](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/aac82df3-7b97-4254-974b-9886845fd843/Patience_Pays_Off.jpg?t=1750102539)
-In 2017, Codecademy had been struggling to get to $1M MRR. We had set the target multiple times and fallen short repeatedly. In December of that year, Zach (...
+### [94. What Happens When the Cloud Goes Down? The Hidden Fragility of Our Digital Lives](https://hackernoon.com/what-happens-when-the-cloud-goes-down-the-hidden-fragility-of-our-digital-lives)
+![](https://cdn.hackernoon.com/images/2Sq2WAW3dXc1VMxeyHXSHzbPjo62-z203bj5.jpeg)
+Google's June outage exposed something terrifying: how interconnected we've become. 
 
-### [91. Can Large Language Models Develop Gambling Addiction?](https://hackernoon.com/can-large-language-models-develop-gambling-addiction)
-![](https://arxiv.org/html/2509.22818v1/x1.png)
-Instead of vague fixes like "add safety guardrails to your prompts," we have a mechanistic understanding that lets us design targeted interventions.
-
-### [92. Examples of Weird Infrastructure Tests: A Thread](https://hackernoon.com/examples-of-weird-infrastructure-tests-a-thread)
+### [95. Examples of Weird Infrastructure Tests: A Thread](https://hackernoon.com/examples-of-weird-infrastructure-tests-a-thread)
 ![](https://cdn.hackernoon.com/images/a-cute-cat-operating-heavy-machinery-cleyqpcfg000001s62a9t1fmu.png)
 Kane shows examples of the weirdest infrastructure tests.
 
-### [93. How to Scale Global Infrastructure Teams](https://hackernoon.com/how-to-scale-global-infrastructure-teams-1k4u33ug)
+### [96. The Recommendation Engine Behind Your Cart: Design, Build, Maintain](https://hackernoon.com/the-recommendation-engine-behind-your-cart-design-build-maintain)
+![](https://cdn.hackernoon.com/images/tfe24J6CMKPLs2KUS0rMCBANAQf1-3z03d3q.png)
+Explore pipeline design, Kafka/Kinesis decoupling, and the monitoring that prevents “green lights” from lying.
+
+### [97. Subscription Growth: The Momentum You Can’t See](https://hackernoon.com/subscription-growth-the-momentum-you-cant-see)
+![](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/aac82df3-7b97-4254-974b-9886845fd843/Patience_Pays_Off.jpg?t=1750102539)
+In 2017, Codecademy had been struggling to get to $1M MRR. We had set the target multiple times and fallen short repeatedly. In December of that year, Zach (...
+
+### [98. Can Large Language Models Develop Gambling Addiction?](https://hackernoon.com/can-large-language-models-develop-gambling-addiction)
+![](https://arxiv.org/html/2509.22818v1/x1.png)
+Instead of vague fixes like "add safety guardrails to your prompts," we have a mechanistic understanding that lets us design targeted interventions.
+
+### [99. How to Scale Global Infrastructure Teams](https://hackernoon.com/how-to-scale-global-infrastructure-teams-1k4u33ug)
 ![](https://cdn.hackernoon.com/images/zDxKiOq2XxYxNbFVaHVWf50Nhww1-lef33tr.jpeg)
 It's early on in a products lifecycle that it begins to require a global SRE presence. Once you have gained sufficient customer traction, and if your product warrants it, you need to provide them with around the clock availability support to complete the customer support jigsaw.
 
-### [94. How to Use Joblet: Secure Linux Process Execution Made Simple ](https://hackernoon.com/how-to-use-joblet-secure-linux-process-execution-made-simple)
+### [100. How to Use Joblet: Secure Linux Process Execution Made Simple ](https://hackernoon.com/how-to-use-joblet-secure-linux-process-execution-made-simple)
 ![](https://cdn.hackernoon.com/images/BTEjqAL3ijV9G4maF7DneBRObD42-4a036hk.png)
 Joblet is a lightweight process isolation platform that lets you run commands and scripts in secure, resource-controlled environments.
 
-### [95. Running a Global Blockchain Node Infrastructure Ecosystem: How We Do It](https://hackernoon.com/running-a-global-blockchain-node-infrastructure-ecosystem-how-we-do-it-wx3n37ly)
+### [101. Running a Global Blockchain Node Infrastructure Ecosystem: How We Do It](https://hackernoon.com/running-a-global-blockchain-node-infrastructure-ecosystem-how-we-do-it-wx3n37ly)
 ![](https://cdn.hackernoon.com/images/VVaZ6klR4KVpPsarZeof7P9RR1r1-2md35o4.jpeg)
 Blockchain infrastructure is basically the decentralized deployment of different blockchains, and the overlay network that sits on top.
 
-### [96. If You Learn to Build Scalable Applications, You Can Change Your Career](https://hackernoon.com/if-you-learn-to-build-scalable-applications-you-can-change-your-career-u179328x)
+### [102. If You Learn to Build Scalable Applications, You Can Change Your Career](https://hackernoon.com/if-you-learn-to-build-scalable-applications-you-can-change-your-career-u179328x)
 ![](https://cdn.hackernoon.com/drafts/yc1f4326g.png)
 What we're up to
 
-### [97. How to Prepare Your Site for Heavy Traffic](https://hackernoon.com/how-to-prepare-your-site-for-heavy-traffic-r75h3wlf)
+### [103. 4 IaC Services For Your ML Infrastructure All MLOps Leaders Should Know](https://hackernoon.com/4-iac-services-for-your-ml-infrastructure-all-mlops-leaders-should-know)
+![](https://cdn.hackernoon.com/images/machine-learning-team-clhg020kl000001s6gbp5drx4.png)
+Here are 4 IaC services you can use to supercharge your ML infrastructure.
+
+### [104. How to Use ADK, OAuth, and Gemini Enterprise to Power Up Your Agent in Production](https://hackernoon.com/how-to-use-adk-oauth-and-gemini-enterprise-to-power-up-your-agent-in-production)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-e703c6m.webp)
+The promise of AI agents is immense productivity gains. But putting them into production can be a tale of two extremes: surprisingly fast or painfully slow.
+
+### [105. Omni-WorldBench Exposes the Biggest Blind Spot in AI World Modeling](https://hackernoon.com/omni-worldbench-exposes-the-biggest-blind-spot-in-ai-world-modeling)
+![](https://cdn.hackernoon.com/images/1774461124860_b2vlhka8.png)
+This is a Plain English Papers summary of a research paper called Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models [h...
+
+### [106. How to Prepare Your Site for Heavy Traffic](https://hackernoon.com/how-to-prepare-your-site-for-heavy-traffic-r75h3wlf)
 ![](https://cdn.hackernoon.com/drafts/d81d2eul.png)
 1. Monitor your infrastructure. 
 First of all, you should know what's happening with your website. If you're experienced with Prometheus/Grafana, you could use them, but if you’re not, it's not a problem;  you can use any monitoring service, such as DataDog or any other SaaS service, and set it up really quickly. If it's still hard, use pingdom or site24x7, at least to check that your website is still available. 
 
-### [98. 4 IaC Services For Your ML Infrastructure All MLOps Leaders Should Know](https://hackernoon.com/4-iac-services-for-your-ml-infrastructure-all-mlops-leaders-should-know)
-![](https://cdn.hackernoon.com/images/machine-learning-team-clhg020kl000001s6gbp5drx4.png)
-Here are 4 IaC services you can use to supercharge your ML infrastructure.
-
-### [99. Understanding the Business Valuation Logic of Apron Network](https://hackernoon.com/understanding-the-business-valuation-logic-of-apron-network-80t24cq)
+### [107. Understanding the Business Valuation Logic of Apron Network](https://hackernoon.com/understanding-the-business-valuation-logic-of-apron-network-80t24cq)
 ![](https://cdn.hackernoon.com/images/QFMr2nEbM6TqoSCvnp1wXMfdabi1-sneg35c0.jpeg)
 The core of traditional business project strategy is positioning, which is the consensus of the industry. The traditional theoretical framework for positioning strategy was first proposed by Michael Porter. 
 
-### [100. How to Unify the Blockchain Babel With Universal Connectors](https://hackernoon.com/how-to-unify-the-blockchain-babel-with-universal-connectors)
+### [108. How to Unify the Blockchain Babel With Universal Connectors](https://hackernoon.com/how-to-unify-the-blockchain-babel-with-universal-connectors)
 ![](https://cdn.hackernoon.com/images/XrSBp4bJN8TSMp66VB93EwW28Uu2-rq83bvu.jpeg)
 This post delves into the challenges of interoperability within the decentralized finance (DeFi) and blockchain ecosystem. 
 
-### [101. The U.S. Is in Desperate Need of Power Grid Modernization](https://hackernoon.com/the-us-is-in-desperate-need-of-power-grid-modernization)
+### [109. The U.S. Is in Desperate Need of Power Grid Modernization](https://hackernoon.com/the-us-is-in-desperate-need-of-power-grid-modernization)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-j1832aq.jpeg)
 Today's U.S. power grid is vulnerable to natural disasters, cyberattacks, and technical failure. What work is being done to modernize it?
 
-### [102. Andros Wong's Wonder is Providing DAOs with Technical Infrastructure](https://hackernoon.com/andros-wongs-wonder-is-providing-daos-with-technical-infrastructure)
+### [110. Andros Wong's Wonder is Providing DAOs with Technical Infrastructure](https://hackernoon.com/andros-wongs-wonder-is-providing-daos-with-technical-infrastructure)
 ![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-bo03dfw.jpeg)
 Wonder has one key concept and it is that “the future is collaborative”
 
-### [103. Learn About Infrastructure as Code in 5 Minutes and Why You Should Use It](https://hackernoon.com/learn-about-infrastructure-as-code-in-5-minutes-and-why-you-should-use-it)
-![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-vl02hwu.jpeg)
-Infrastructure as Code (IaC) is the process of managing and configuring an infrastructure using configuration files, rather than manually editing configurations
+### [111. I Wrote an AI Survival Guide for People Afraid of Being Replaced](https://hackernoon.com/i-wrote-an-ai-survival-guide-for-people-afraid-of-being-replaced)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-yb021w5.jpeg)
+Don’t Replace Me is a practical AI survival guide for workers navigating job disruption, automation risk, and the future of work.
 
-### [104. 4 Essential Steps To Convert a Kubernetes Fullstack App to Heroku](https://hackernoon.com/4-essential-steps-to-convert-a-kubernetes-fullstack-app-to-heroku-wmm3t5e)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-5k1k4xb8.jpeg?alt=media&token=263265be-d45b-4747-8e13-809cd1a36a67)
-In the last several years, Google’s Kubernetes project has generated huge buzz. The project has grown and evolved into a titan of the cloud infrastructure world. 
+### [112. The Missing Data Problem Behind Broken Computer-Use Agents](https://hackernoon.com/the-missing-data-problem-behind-broken-computer-use-agents)
+![](https://cdn.hackernoon.com/images/1774620970622_pa62mjb8.png)
+This is a Plain English Papers summary of a research paper called CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents [https://ww...
 
-### [105. How to Handle Log Spikes Like the Pros: How Top DevOps Teams Tame Bursty Workloads](https://hackernoon.com/how-to-handle-log-spikes-like-the-pros-how-top-devops-teams-tame-bursty-workloads)
-![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-x8128cg.jpeg)
-Stay ready for traffic surges. DevOps teams use modern observability platforms to handle log spikes with elastic scaling, full ingestion, and clear insights.
-
-### [106. Serverless Benefits And Challenges: 2020 Edition](https://hackernoon.com/serverless-benefits-and-challenges-2020-edition-922t3une)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-5nd3uiy.jpeg?alt=media&token=8b11b3d1-8e66-4693-94d2-853bfadb5757)
-While we know the many benefits of going serverless - reduced costs via pay-per-use pricing models, less operational burden/overhead, instant scalability, increased automation - the challenges are often not addressed as comprehensively. The understandable concerns over migrating can stop any architectural decisions and actions being made for fear of getting it wrong and not having the right resources. This article discusses the common concerns around going serverless and our advice to minimise their impact.
-
-### [107. An Introduction to AWS VPC](https://hackernoon.com/an-introduction-to-aws-vpc-v31x3zlw)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJWREICRBrYdTDwfBcLYr9MPcZ4l2-pe1k3tmc.png?alt=media&token=6dd6f716-452b-40fe-98dd-f834cf272c06)
-VPC is the topic that flies under the radar of many Software Developers, despite being present in every AWS account (well, maybe not for accounts created before 2009...but that's unlikely). There are a few reasons for this I can think of:
-
-### [108. The True Cost of Technical Decisions](https://hackernoon.com/the-true-cost-of-technical-decisions)
+### [113. The True Cost of Technical Decisions](https://hackernoon.com/the-true-cost-of-technical-decisions)
 ![](https://substackcdn.com/image/fetch/$s_!OoM7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc499b97d-3879-4fbd-92d0-f1a31d16d1f3_2816x1536.png)
 Outsource the plumbing. Build the magic. The senior engineer's rule for deciding what to build vs. buy—and why Uber's 2,000 microservices matter.
 
-### [109. Introducing Driftctl: Your IaC Security Belt](https://hackernoon.com/introducing-driftctl-your-iac-security-belt-du58313h)
-![](https://cdn.hackernoon.com/images/R8Es2LKqChZj95MGtbheP1WiujI2-ld1w31kl.png)
-We recently released the first versions of driftctl, a new open-source project for infrastructure developers, DevOps, SRE, and cloud practitioners, with the goal of helping manage all kinds of drifts. 
+### [114. How to Handle Log Spikes Like the Pros: How Top DevOps Teams Tame Bursty Workloads](https://hackernoon.com/how-to-handle-log-spikes-like-the-pros-how-top-devops-teams-tame-bursty-workloads)
+![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-x8128cg.jpeg)
+Stay ready for traffic surges. DevOps teams use modern observability platforms to handle log spikes with elastic scaling, full ingestion, and clear insights.
 
-### [110. Why 70% of Developers Don’t Trust Plugins—and How I Built a Fix](https://hackernoon.com/why-70percent-of-developers-dont-trust-pluginsand-how-i-built-a-fix)
+### [115. Learn About Infrastructure as Code in 5 Minutes and Why You Should Use It](https://hackernoon.com/learn-about-infrastructure-as-code-in-5-minutes-and-why-you-should-use-it)
+![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-vl02hwu.jpeg)
+Infrastructure as Code (IaC) is the process of managing and configuring an infrastructure using configuration files, rather than manually editing configurations
+
+### [116. 4 Essential Steps To Convert a Kubernetes Fullstack App to Heroku](https://hackernoon.com/4-essential-steps-to-convert-a-kubernetes-fullstack-app-to-heroku-wmm3t5e)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-5k1k4xb8.jpeg?alt=media&token=263265be-d45b-4747-8e13-809cd1a36a67)
+In the last several years, Google’s Kubernetes project has generated huge buzz. The project has grown and evolved into a titan of the cloud infrastructure world. 
+
+### [117. Why 70% of Developers Don’t Trust Plugins—and How I Built a Fix](https://hackernoon.com/why-70percent-of-developers-dont-trust-pluginsand-how-i-built-a-fix)
 ![](https://danielpetrica.com/content/images/2026/01/image-1.png)
 Do you suffer from 'Dependency Anxiety'? 60% of Laravel developers spend up to 30 minutes just vetting a single package.
 
-### [111. The Death of "Dumb Money": Why Stablecoins Are Finally Getting Smart](https://hackernoon.com/the-death-of-dumb-money-why-stablecoins-are-finally-getting-smart)
-![](https://cdn.hackernoon.com/images/dFyQv7nHRSSgywt2HBIGP7g7QuI3-jv83dy7.png)
-How stablecoins evolved from static tokens to programmable assets.
+### [118. Serverless Benefits And Challenges: 2020 Edition](https://hackernoon.com/serverless-benefits-and-challenges-2020-edition-922t3une)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-5nd3uiy.jpeg?alt=media&token=8b11b3d1-8e66-4693-94d2-853bfadb5757)
+While we know the many benefits of going serverless - reduced costs via pay-per-use pricing models, less operational burden/overhead, instant scalability, increased automation - the challenges are often not addressed as comprehensively. The understandable concerns over migrating can stop any architectural decisions and actions being made for fear of getting it wrong and not having the right resources. This article discusses the common concerns around going serverless and our advice to minimise their impact.
 
-### [112. Exploring Serverless, Cloud, and On-Premises Architectures](https://hackernoon.com/exploring-serverless-cloud-and-on-premises-architectures)
-![](https://cdn.hackernoon.com/images/ISqbrAAUPfdfaQMQXQ5GUpyoJKl2-jt93soc.jpeg)
-Differences between most used infrastructure architectures for deploying applications, Cloud, On-Premises and Serverless.
+### [119. MOSS-TTS-Nano-100M Brings Multilingual Voice Cloning to CPUs](https://hackernoon.com/moss-tts-nano-100m-brings-multilingual-voice-cloning-to-cpus)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1y0210n.jpeg)
+This is a simplified guide to an AI model called MOSS-TTS-Nano-100M [https://www.aimodels.fyi/models/huggingFace/moss-tts-nano-100m-openmoss-team?utm_source=...
 
-### [113. How to Use ADK, OAuth, and Gemini Enterprise to Power Up Your Agent in Production](https://hackernoon.com/how-to-use-adk-oauth-and-gemini-enterprise-to-power-up-your-agent-in-production)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-e703c6m.webp)
-The promise of AI agents is immense productivity gains. But putting them into production can be a tale of two extremes: surprisingly fast or painfully slow.
+### [120. An Introduction to AWS VPC](https://hackernoon.com/an-introduction-to-aws-vpc-v31x3zlw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJWREICRBrYdTDwfBcLYr9MPcZ4l2-pe1k3tmc.png?alt=media&token=6dd6f716-452b-40fe-98dd-f834cf272c06)
+VPC is the topic that flies under the radar of many Software Developers, despite being present in every AWS account (well, maybe not for accounts created before 2009...but that's unlikely). There are a few reasons for this I can think of:
 
-### [114. The Prompt Trap: Why Your AI Startup Is Building on Rented Land](https://hackernoon.com/the-prompt-trap-why-your-ai-startup-is-building-on-rented-land)
-![](https://cdn.hackernoon.com/images/1sdeCsI7RcMBQLeyOD1lFOWGYXK2-zr83h87.png)
-A wake-up call for AI founders: obsessing over prompts while building on someone else’s platform is a trap.
+### [121. Cohere’s Multilingual Embedding Model for Search, Retrieval, and Recommendations](https://hackernoon.com/coheres-multilingual-embedding-model-for-search-retrieval-and-recommendations)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5g02x3f.jpeg)
+This is a simplified guide to an AI model called Cohere-embed-multilingual-v3.0 [https://www.aimodels.fyi/models/huggingFace/cohere-embed-multilingual-v3.0-c...
 
-### [115. Infrastructure as Code with APIs: Automating Cloud Resources the Developer Way](https://hackernoon.com/infrastructure-as-code-with-apis-automating-cloud-resources-the-developer-way)
-![](https://cdn.hackernoon.com/images/AGr8KngsfDgFeQNG1b8p0b616hy2-p483fz4.webp)
-Infrastructure as Code is a way to manage cloud resources using code. Learn how to manage a PaaS using APIs. 
-
-### [116. ‘Are We Cooked?’ AI Forces a Rethink of What It Means to Be an Engineer](https://hackernoon.com/are-we-cooked-ai-forces-a-rethink-of-what-it-means-to-be-an-engineer)
+### [122. ‘Are We Cooked?’ AI Forces a Rethink of What It Means to Be an Engineer](https://hackernoon.com/are-we-cooked-ai-forces-a-rethink-of-what-it-means-to-be-an-engineer)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-j40230z.jpeg)
 As AI coding agents evolve, they are not just assisting but proactively shaping software development, prompting crucial reflections on future roles.
 
-### [117. The HackerNoon Newsletter: Why ML Can Predict the Weather, but Not Financial Markets (10/8/2025)](https://hackernoon.com/10-8-2025-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_807_qfrxbtkpwvf5hjy8999k4c91.png)
-10/8/2025: Top 5 stories on the HackerNoon homepage!
+### [123. Introducing Driftctl: Your IaC Security Belt](https://hackernoon.com/introducing-driftctl-your-iac-security-belt-du58313h)
+![](https://cdn.hackernoon.com/images/R8Es2LKqChZj95MGtbheP1WiujI2-ld1w31kl.png)
+We recently released the first versions of driftctl, a new open-source project for infrastructure developers, DevOps, SRE, and cloud practitioners, with the goal of helping manage all kinds of drifts. 
 
-### [118. Cloud Infrastructure Can Set Legacy Data Free](https://hackernoon.com/cloud-infrastructure-can-set-legacy-data-free-8maa3y87)
-![](https://images.unsplash.com/photo-1499346030926-9a72daac6c63?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-For a long time, it’s been widely accepted that startup businesses can gain an edge over larger, establishment rivals, due to their lack of legacy tech baggage. For example, modern challenger banks have – in terms of features and UX at least – ran rings around the traditional stalwarts thanks to their modern IT and data systems.
+### [124. Exploring Serverless, Cloud, and On-Premises Architectures](https://hackernoon.com/exploring-serverless-cloud-and-on-premises-architectures)
+![](https://cdn.hackernoon.com/images/ISqbrAAUPfdfaQMQXQ5GUpyoJKl2-jt93soc.jpeg)
+Differences between most used infrastructure architectures for deploying applications, Cloud, On-Premises and Serverless.
 
-### [119. Scale Is Not a Goal: Why Most Software Architectures Are Overbuilt](https://hackernoon.com/scale-is-not-a-goal-why-most-software-architectures-are-overbuilt)
+### [125. Learning Finance by Designing It](https://hackernoon.com/learning-finance-by-designing-it)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gb0215o.jpeg)
+8 months into designing a fintech platform with zero financial background - how domain ignorance slows you down and unexpectedly helps you....
+
+### [126. What Really Happens When You Stop Posting on X for 2 Months](https://hackernoon.com/what-really-happens-when-you-stop-posting-on-x-for-2-months)
+![](https://blog.deeflect.com/medium-img/07-disappeared.jpg)
+I accidentally stopped posting on Twitter for 2 months. Here's what happened to reach, followers, and my work - and what it actually cost me....
+
+### [127. The Prompt Trap: Why Your AI Startup Is Building on Rented Land](https://hackernoon.com/the-prompt-trap-why-your-ai-startup-is-building-on-rented-land)
+![](https://cdn.hackernoon.com/images/1sdeCsI7RcMBQLeyOD1lFOWGYXK2-zr83h87.png)
+A wake-up call for AI founders: obsessing over prompts while building on someone else’s platform is a trap.
+
+### [128. Ping Command Explained: How It Works and When to Use It](https://hackernoon.com/ping-command-explained-how-it-works-and-when-to-use-it)
+![](https://blog.globalping.io/content/images/2025/10/in-depth-ping-guide.png)
+Learn how to use the ping command, interpret results, and run global network tests for free with Globalping....
+
+### [129. The Specialist’s Dilemma Is Breaking Scientific AI](https://hackernoon.com/the-specialists-dilemma-is-breaking-scientific-ai)
+![](https://cdn.hackernoon.com/images/1774620971700_0nvpjiho.png)
+This is a Plain English Papers summary of a research paper called Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale [https://www.aimode...
+
+### [130. The Real Cost of Hiding Technical Failures From Clients](https://hackernoon.com/the-real-cost-of-hiding-technical-failures-from-clients)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-uq021em.jpeg)
+Spinning technical failures into vague reassurances may protect appearances, but it quietly destroys client trust and weakens company culture.
+
+### [131. How to Start Using Globalping Without Getting Overwhelmed](https://hackernoon.com/how-to-start-using-globalping-without-getting-overwhelmed)
+![](https://blog.globalping.io/content/images/2026/03/how-to-get-started-Globalping.png)
+Learn how to get started with Globalping using the web tool, CLI, dashboard, API, and integrations for testing, monitoring, and automation.
+
+### [132. WildDet3D Wants to Break 3D Detection Out of the Benchmark Box](https://hackernoon.com/wilddet3d-wants-to-break-3d-detection-out-of-the-benchmark-box)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jt021kl.jpeg)
+This is a Plain English Papers summary of a research paper called WildDet3D: Scaling Promptable 3D Detection in the Wild [https://www.aimodels.fyi/papers/arx...
+
+### [133. Communication Isn’t the Problem. Retrieval Is.](https://hackernoon.com/communication-isnt-the-problem-retrieval-is)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-l5021xj.jpeg)
+Management failures are often retrieval failures: the information existed, but the system failed to surface it to the right person in time.
+
+### [134. Scale Is Not a Goal: Why Most Software Architectures Are Overbuilt](https://hackernoon.com/scale-is-not-a-goal-why-most-software-architectures-are-overbuilt)
 ![](https://joachimz.me/content/images/2026/01/banner.png)
 Designing for imaginary scale leads to real costs. Why pragmatic systems beat “future-proof” architectures in early products.
 
-### [120. Shannon: a Hero of the Digital Age](https://hackernoon.com/shannon-a-hero-of-the-digital-age)
-![](https://cdn.hackernoon.com/images/9Vlh714LLUQvkeiq6m7fQ0VkEg13-uk93v3e.jpeg)
-A story about a visionary endeavour that proved to be not just successful, but transformative, reshaping the course of history itself.
-
-### [121. The Pricing Model That Boosts ARR and Kills Activation](https://hackernoon.com/the-pricing-model-that-boosts-arr-and-kills-activation)
-![](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/6c7d07be-d76c-45d3-be75-4d44eb0d79e3/image__6_.png?t=1767963492)
-Investors love usage pricing for net revenue retention. Product teams love it for clear tiers and aligned incentives. Consumer apps should still stick to fees.
-
-### [122. Mighty App: Fad or Rad? ](https://hackernoon.com/mighty-app-fad-or-rad)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-od8035eq.jpeg)
-The Mighty App promises a lot and it might seem like a waste of money but, thanks to some quirks, it can be very useful when it comes to downloading at speed. 
-
-### [123. The Blockchain Infrastructure that Caters to Web3.0 Needs](https://hackernoon.com/the-blockchain-infrastructure-that-caters-to-web30-needs)
+### [135. The Blockchain Infrastructure that Caters to Web3.0 Needs](https://hackernoon.com/the-blockchain-infrastructure-that-caters-to-web30-needs)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-px932t4.jpeg)
 The Blockchain infrastructure that caters to Web3.0 needs
 
-### [124. B2B Tech: What is New Enterprise and Why is Everybody Talking About It?](https://hackernoon.com/b2b-tech-what-is-new-enterprise-and-why-is-everybody-talking-about-it)
-![](https://cdn.hackernoon.com/images/8GQanzjUdAYGxBqUi1iFCeJwMiK2-5h93vqp.jpeg)
-"New Enterprise" is an approach to business that is quickly gaining momentum in many sectors, especially tech: We explore what it is and why it is matters. 
+### [136. The Pricing Model That Boosts ARR and Kills Activation](https://hackernoon.com/the-pricing-model-that-boosts-arr-and-kills-activation)
+![](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/6c7d07be-d76c-45d3-be75-4d44eb0d79e3/image__6_.png?t=1767963492)
+Investors love usage pricing for net revenue retention. Product teams love it for clear tiers and aligned incentives. Consumer apps should still stick to fees.
 
-### [125. The Metric Hierarchy Every Subscription Company Needs](https://hackernoon.com/the-metric-hierarchy-every-subscription-company-needs)
+### [137. Cloud Infrastructure Can Set Legacy Data Free](https://hackernoon.com/cloud-infrastructure-can-set-legacy-data-free-8maa3y87)
+![](https://images.unsplash.com/photo-1499346030926-9a72daac6c63?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+For a long time, it’s been widely accepted that startup businesses can gain an edge over larger, establishment rivals, due to their lack of legacy tech baggage. For example, modern challenger banks have – in terms of features and UX at least – ran rings around the traditional stalwarts thanks to their modern IT and data systems.
+
+### [138. Shannon: a Hero of the Digital Age](https://hackernoon.com/shannon-a-hero-of-the-digital-age)
+![](https://cdn.hackernoon.com/images/9Vlh714LLUQvkeiq6m7fQ0VkEg13-uk93v3e.jpeg)
+A story about a visionary endeavour that proved to be not just successful, but transformative, reshaping the course of history itself.
+
+### [139. Bonsai-8B-gguf Shrinks an 8B Model to Just 1.15 GB](https://hackernoon.com/bonsai-8b-gguf-shrinks-an-8b-model-to-just-115-gb)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-q0021yv.jpeg)
+This is a simplified guide to an AI model called Bonsai-8B-gguf [https://www.aimodels.fyi/models/huggingFace/bonsai-8b-gguf-prism-ml?utm_source=hackernoon&ut...
+
+### [140. The Metric Hierarchy Every Subscription Company Needs](https://hackernoon.com/the-metric-hierarchy-every-subscription-company-needs)
 ![](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/fdde9ad8-e031-4f6a-9d3f-b3876b1e19af/Subscription_Metrics.png?t=1749758079)
 I would argue that 99% of companies that are really good at developing tech products do these three things: They have clearly defined metrics that they are t...
 
-### [126. How To Evaluate Potential IT Monitoring Solutions](https://hackernoon.com/how-to-evaluate-potential-it-monitoring-solutions-dd553569)
-![](https://cdn.hackernoon.com/images/yKEunEWGZWWOmvttVGn5qSHWkpR2-ew1m33iq.jpeg)
-Check out top factors you need to consider when choosing IT monitoring tool. Learn how to pick the best solution for your business.
-
-### [127. Overcoming The Most Frequent Monitoring Challenges Engineers Face](https://hackernoon.com/overcoming-the-most-frequent-monitoring-challenges-engineers-face-yq6j31iz)
-![](https://cdn.hackernoon.com/images/yKEunEWGZWWOmvttVGn5qSHWkpR2-mcy312t.jpeg)
-Let’s look at some most frequent monitoring challenges that engineers face, along with monitoring IT tools and how these can be resolved. 
-
-### [128. Serving Structured Data in Alluxio](https://hackernoon.com/serving-structured-data-in-alluxio-ov3o3y5y)
-![](https://cdn.hackernoon.com/drafts/j01t33y2j.png)
-This article introduces Structured Data Management (Developer Preview) available in the latest Alluxio 2.1.0 release, a new effort to provide further benefits to SQL and structured data workloads using Alluxio. The original concept was discussed on Alluxio’s engineering blog. This article is part one of the two articles on the Structured Data Management feature my team worked on. 
-
-### [129. How Embedding an Inbox Feed in Your Application Can Benefit Your Users](https://hackernoon.com/how-embedding-an-inbox-feed-in-your-application-can-benefit-your-users)
-![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-0193i5f.jpeg)
-Inbox Feed is an in-app repository of the notification history so that users don’t miss out on any important information.
-
-### [130. DaaS: A Boon for the Insurance Industry](https://hackernoon.com/daas-a-boon-for-the-insurance-industry-ls10374s)
-![](https://cdn.hackernoon.com/images/3jxjddlQd0Tqv4LcsJ0CKwn7oXg2-f91835yc.jpeg)
-Know the benefits of opting for Desktop-as-a-Service or DaaS provider for the insurance industry - Get Mobility, Cost benefits & much more.
-
-### [131. You Can’t Scale Subscriptions on Freemium and Paid Media](https://hackernoon.com/you-cant-scale-subscriptions-on-freemium-and-paid-media)
-![](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4d160baf-375c-4af3-b2e1-cc207c0aa344/65283324bfb31060ec7a58d2_cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA1L2pvYjk2NS1lbGVtZW50LTgxXzMuanBn.jpg?t=1754251502)
-The most common business plan that I see for subscription products is: Figure out the product Add a free tier Raise a big round to “scale marketing.” Make a ...
-
-### [132. Running A/B Tests You Can’t Measure](https://hackernoon.com/running-ab-tests-you-cant-measure)
-![](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1db23a56-268a-41e0-bd94-990f020bb429/CleanShot_2026-01-09_at_11.19.17.png?t=1767979918)
-A/B testing can be one of the highest-ROI tools in growth. It's a major unlock in optimizing a business. I have personally launched hundreds of tests. When I...
-
-### [133. Serving Structured Data in Alluxio: Example](https://hackernoon.com/serving-structured-data-in-alluxio-example-l1193y6c)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-z282rs6.jpeg)
-In the previous article, I described the concept and design of the Structured Data Service in the Alluxio 2.1.0 release. This article will go through an example to demonstrate how it helps SQL and structured data workloads.
-
-### [134. Launch Readiness Matters More Than Code](https://hackernoon.com/launch-readiness-matters-more-than-code)
+### [141. Launch Readiness Matters More Than Code](https://hackernoon.com/launch-readiness-matters-more-than-code)
 ![](https://substackcdn.com/image/fetch/$s_!rfEE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc91d6447-7dd4-4eb7-8df3-193e5a0904ca_1008x1198.png)
 Launch day reveals what you should have built. Launch readiness is everything else.
 
-### [135. How to Run Huge Models on Cheap Hardware Without the “Quantization Hangover”](https://hackernoon.com/how-to-run-huge-models-on-cheap-hardware-without-the-quantization-hangover)
+### [142. Mighty App: Fad or Rad? ](https://hackernoon.com/mighty-app-fad-or-rad)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-od8035eq.jpeg)
+The Mighty App promises a lot and it might seem like a waste of money but, thanks to some quirks, it can be very useful when it comes to downloading at speed. 
+
+### [143. How To Evaluate Potential IT Monitoring Solutions](https://hackernoon.com/how-to-evaluate-potential-it-monitoring-solutions-dd553569)
+![](https://cdn.hackernoon.com/images/yKEunEWGZWWOmvttVGn5qSHWkpR2-ew1m33iq.jpeg)
+Check out top factors you need to consider when choosing IT monitoring tool. Learn how to pick the best solution for your business.
+
+### [144. Serving Structured Data in Alluxio](https://hackernoon.com/serving-structured-data-in-alluxio-ov3o3y5y)
+![](https://cdn.hackernoon.com/drafts/j01t33y2j.png)
+This article introduces Structured Data Management (Developer Preview) available in the latest Alluxio 2.1.0 release, a new effort to provide further benefits to SQL and structured data workloads using Alluxio. The original concept was discussed on Alluxio’s engineering blog. This article is part one of the two articles on the Structured Data Management feature my team worked on. 
+
+### [145. B2B Tech: What is New Enterprise and Why is Everybody Talking About It?](https://hackernoon.com/b2b-tech-what-is-new-enterprise-and-why-is-everybody-talking-about-it)
+![](https://cdn.hackernoon.com/images/8GQanzjUdAYGxBqUi1iFCeJwMiK2-5h93vqp.jpeg)
+"New Enterprise" is an approach to business that is quickly gaining momentum in many sectors, especially tech: We explore what it is and why it is matters. 
+
+### [146. Overcoming The Most Frequent Monitoring Challenges Engineers Face](https://hackernoon.com/overcoming-the-most-frequent-monitoring-challenges-engineers-face-yq6j31iz)
+![](https://cdn.hackernoon.com/images/yKEunEWGZWWOmvttVGn5qSHWkpR2-mcy312t.jpeg)
+Let’s look at some most frequent monitoring challenges that engineers face, along with monitoring IT tools and how these can be resolved. 
+
+### [147. You Can’t Scale Subscriptions on Freemium and Paid Media](https://hackernoon.com/you-cant-scale-subscriptions-on-freemium-and-paid-media)
+![](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4d160baf-375c-4af3-b2e1-cc207c0aa344/65283324bfb31060ec7a58d2_cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA1L2pvYjk2NS1lbGVtZW50LTgxXzMuanBn.jpg?t=1754251502)
+The most common business plan that I see for subscription products is: Figure out the product Add a free tier Raise a big round to “scale marketing.” Make a ...
+
+### [148. DaaS: A Boon for the Insurance Industry](https://hackernoon.com/daas-a-boon-for-the-insurance-industry-ls10374s)
+![](https://cdn.hackernoon.com/images/3jxjddlQd0Tqv4LcsJ0CKwn7oXg2-f91835yc.jpeg)
+Know the benefits of opting for Desktop-as-a-Service or DaaS provider for the insurance industry - Get Mobility, Cost benefits & much more.
+
+### [149. How Embedding an Inbox Feed in Your Application Can Benefit Your Users](https://hackernoon.com/how-embedding-an-inbox-feed-in-your-application-can-benefit-your-users)
+![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-0193i5f.jpeg)
+Inbox Feed is an in-app repository of the notification history so that users don’t miss out on any important information.
+
+### [150. What It Takes to Design for 5 Million Crypto Users](https://hackernoon.com/what-it-takes-to-design-for-5-million-crypto-users)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-a1021rt.jpeg)
+How I redesigned Merlin by VALK for the Ledger Live integration - two audiences, two design systems, and a compressed timeline....
+
+### [151. The HackerNoon Newsletter: Why ML Can Predict the Weather, but Not Financial Markets (10/8/2025)](https://hackernoon.com/10-8-2025-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_807_qfrxbtkpwvf5hjy8999k4c91.png)
+10/8/2025: Top 5 stories on the HackerNoon homepage!
+
+### [152. Running A/B Tests You Can’t Measure](https://hackernoon.com/running-ab-tests-you-cant-measure)
+![](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1db23a56-268a-41e0-bd94-990f020bb429/CleanShot_2026-01-09_at_11.19.17.png?t=1767979918)
+A/B testing can be one of the highest-ROI tools in growth. It's a major unlock in optimizing a business. I have personally launched hundreds of tests. When I...
+
+### [153. The Frozen Knowledge Problem in AI Image Generation](https://hackernoon.com/the-frozen-knowledge-problem-in-ai-image-generation)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rz021sx.jpeg)
+This is a Plain English Papers summary of a research paper called Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis [https://www.aim...
+
+### [154. Serving Structured Data in Alluxio: Example](https://hackernoon.com/serving-structured-data-in-alluxio-example-l1193y6c)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-z282rs6.jpeg)
+In the previous article, I described the concept and design of the Structured Data Service in the Alluxio 2.1.0 release. This article will go through an example to demonstrate how it helps SQL and structured data workloads.
+
+### [155. The Architecture Behind Smarter AI Agents](https://hackernoon.com/the-architecture-behind-smarter-ai-agents)
+![](https://cdn.hackernoon.com/images/1775830578982_po4ptgt.png)
+Modern AI agents succeed through architecture, not just scale. This paper maps the systems that extend model capabilities.
+
+### [156. The Hidden Cost of Chasing 100% Test Coverage](https://hackernoon.com/the-hidden-cost-of-chasing-100percent-test-coverage)
+![](https://substackcdn.com/image/fetch/$s_!cQXg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a0f1e7a-4560-40b4-ad4f-d16ae2050ca4_1408x768.png)
+Learn why chasing perfect test coverage can slow delivery, increase brittleness, and distract engineering teams from real product risk.
+
+### [157. How to Run Huge Models on Cheap Hardware Without the “Quantization Hangover”](https://hackernoon.com/how-to-run-huge-models-on-cheap-hardware-without-the-quantization-hangover)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-l9023zg.jpeg)
 Want to fine-tune large vision and multimodal models without enterprise GPUs?
+
+### [158. This 20B Search Model Helps AI Systems Find Better Evidence Faster](https://hackernoon.com/this-20b-search-model-helps-ai-systems-find-better-evidence-faster)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-69021cs.jpeg)
+This is a simplified guide to an AI model called context-1 [https://www.aimodels.fyi/models/huggingFace/context-1-chromadb?utm_source=hackernoon&utm_medium=r...
+
+### [159. LG’s EXAONE-4.5-33B Packs Vision, Reasoning, and 262K Context Into One Model](https://hackernoon.com/lgs-exaone-45-33b-packs-vision-reasoning-and-262k-context-into-one-model)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-vd021zg.jpeg)
+This is a simplified guide to an AI model called EXAONE-4.5-33B [https://www.aimodels.fyi/models/huggingFace/exaone-4.5-33b-lgai-exaone?utm_source=hackernoon...
 

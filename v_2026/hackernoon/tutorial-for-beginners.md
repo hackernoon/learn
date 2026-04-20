@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [tutorial-for-beginners](https://hackernoon.com/tagged/tutorial-for-beginners)
+### Let's learn about [Tutorial For Beginners](https://hackernoon.com/tagged/tutorial-for-beginners) via these 113 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A tutorial for beginners provides foundational, step-by-step instructions designed for individuals with little to no prior knowledge on a specific topic. Such resources are essential for onboarding new learners, democratizing access to complex skills, and fostering educational growth.
+
 ### [1. How to Add Script Tags in React](https://hackernoon.com/how-to-add-script-tags-in-react)
 ![](https://cdn.hackernoon.com/images/dNNBDAvxyhdzfKhIWAuPr4PE1Zx1-wb93ldw.jpeg)
 Adding a new script tag and directly appending it to the <head> element of the page is the easiest way to add <script> tags in the React app.
@@ -62,15 +66,15 @@ Learn the basics of the Sliding Window algorithm in JavaScript. Discover how to 
 ![](https://images.unsplash.com/photo-1544890225-2f3faec4cd60?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Make no mistake, the knowledge of hacking is different from a hacker. A hacker is a person, not the skill. And the use of any knowledge is a personal choice and that choice isn’t universal. The same way some politicians are corrupt, some hackers are corrupt. The same way some politicians are good, some hackers are good also. You may be a Satoshi Nakamoto or an Albert Gonzalez, it is your choice. There is nothing wrong with the hacker knowledge. It is all about you. What You’ll Learn
 
-### [16. How To Pack Javascript Code with Webpack](https://hackernoon.com/how-to-pack-javascript-code-with-webpack-hn4y3y1g)
+### [16. How Use Array Methods to Handle API Data](https://hackernoon.com/how-use-array-methods-to-handle-api-data-z5s3wcf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZU0eJAp5VveahOSuhUDdoMF6uE43-g31y28bq.jpeg?alt=media&token=3b29fe31-71e1-4eb8-8e2d-89593b3c03bc)
+Manipulating data is a core skill for any developer. In an API-driven environment, so much of the data you receive is formatted in a way that doesn't directly match the way that your application or UI needs it. Each web service and third-party API is different. This is where the ability to sort, normalize, filter, and manipulate the shape of data comes in.
+
+### [17. How To Pack Javascript Code with Webpack](https://hackernoon.com/how-to-pack-javascript-code-with-webpack-hn4y3y1g)
 ![](https://images.unsplash.com/photo-1536238349444-c05ffb6837e4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 What is Webpack?
 
 Webpack is a module bundler for JavaScript as well as HTML applications. It grabs modular pieces of code compartmentalized in folders. Followed by reconstituting them into a compiled form. Then it's read as a whole by the application. You must be thinking, "Why break up a working code?" As your code scales, so does its complexity. Finding a correlation between each block becomes a challenge.  
-
-### [17. How Use Array Methods to Handle API Data](https://hackernoon.com/how-use-array-methods-to-handle-api-data-z5s3wcf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZU0eJAp5VveahOSuhUDdoMF6uE43-g31y28bq.jpeg?alt=media&token=3b29fe31-71e1-4eb8-8e2d-89593b3c03bc)
-Manipulating data is a core skill for any developer. In an API-driven environment, so much of the data you receive is formatted in a way that doesn't directly match the way that your application or UI needs it. Each web service and third-party API is different. This is where the ability to sort, normalize, filter, and manipulate the shape of data comes in.
 
 ### [18. Build an Array from Scratch in Javascript](https://hackernoon.com/build-an-array-from-scratch-in-javascript-uc4s3yqw)
 ![](https://cdn.hackernoon.com/images/3hy32eh.jpg)
@@ -150,13 +154,13 @@ To get the most out of this article, please make sure that you know basics about
 ![](https://cdn.hackernoon.com/images/hEMjV6xqXnSfBtlhP0SeuEiVSpO2-2a1134tr.jpeg)
 Our random story generator will use a few lists of phrases and every time we run our program, a sentence will be randomly formed by picking phrases from them.
 
-### [37. How To Make Your Own Game in Python](https://hackernoon.com/how-to-make-your-own-game-in-python-2g1e3wn0)
-![](https://cdn.filestackcontent.com/XMYr8bJPTH6a9A31nu23)
-Hi there !
-
-### [38. 3 Best Beginner Flutter Courses to Start With](https://hackernoon.com/3-best-beginner-flutter-courses-to-start-with-qe3j33cq)
+### [37. 3 Best Beginner Flutter Courses to Start With](https://hackernoon.com/3-best-beginner-flutter-courses-to-start-with-qe3j33cq)
 ![](https://cdn.hackernoon.com/images/73P9pi12LrYzJpTGaqI6mlQ9ulR2-302o32qg.jpeg)
 Recommended Flutter courses to take to start your journey of becoming a Flutter developer, based on my own experience by taking the courses myself.
+
+### [38. How To Make Your Own Game in Python](https://hackernoon.com/how-to-make-your-own-game-in-python-2g1e3wn0)
+![](https://cdn.filestackcontent.com/XMYr8bJPTH6a9A31nu23)
+Hi there !
 
 ### [39. 10 Fantastic JavaScript Projects for Beginners](https://hackernoon.com/10-fantastic-javascript-projects-for-beginners)
 ![](https://cdn.hackernoon.com/images/jAe8nDJHWuhNTYfeZVmoqHUgxXz2-4893pmi.jpeg)
@@ -206,13 +210,13 @@ This Javascript Cheatsheet for Spread Operators explains the use case scenarios 
 ![](https://cdn.hackernoon.com/drafts/ld253wcn.png)
 As a student who travels a lot (pub - campus - cafe - home), I tend to carry around my macbook air because its light (and I hate heavy things). However, macbook air isn't really a powerful machine and it often drives me mad when the code I'm trying to run is too heavy to run
 
-### [51. The Dark Side of Ruby on Rails](https://hackernoon.com/the-dark-side-of-ruby-on-rails-80123u24)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpwtNTVrD7BPYArwg776n1wGXP193-g5ig3urx.webp?alt=media&token=a58bc98a-7eac-474a-9934-16769959acda)
-Ruby on Rails framework (RoR) is the dream of every developer. It does pretty much everything for you without much effort, and once you learn it and deeply understand it, you can build an entire website in a couple of hours (Of course, styling it is a different story). The hard part of rails is to understand the magic behind it. 
-
-### [52. An Introduction to Linux and Terminal Basics](https://hackernoon.com/an-introduction-to-linux-and-terminal-basics)
+### [51. An Introduction to Linux and Terminal Basics](https://hackernoon.com/an-introduction-to-linux-and-terminal-basics)
 ![](https://cdn.hackernoon.com/images/17e5RCpR72QAzGX3UCgT734xL922-mc93ipp.jpeg)
 This blog will help you navigate through Linux.
+
+### [52. The Dark Side of Ruby on Rails](https://hackernoon.com/the-dark-side-of-ruby-on-rails-80123u24)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpwtNTVrD7BPYArwg776n1wGXP193-g5ig3urx.webp?alt=media&token=a58bc98a-7eac-474a-9934-16769959acda)
+Ruby on Rails framework (RoR) is the dream of every developer. It does pretty much everything for you without much effort, and once you learn it and deeply understand it, you can build an entire website in a couple of hours (Of course, styling it is a different story). The hard part of rails is to understand the magic behind it. 
 
 ### [53. If You Think 100 Days of Code is Hard: Try One Game a Month Challenge](https://hackernoon.com/if-you-think-100-days-of-code-is-hard-try-one-game-a-month-challenge-ll153y95)
 ![](https://cdn.hackernoon.com/images/49e632v9.jpg)
@@ -238,21 +242,21 @@ In this post, we will see how an action can be dispatched using Redux on login, 
 ![](https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 I worked in marketing and data analysis. After a long time, I decided to change career and leave my 8 to 5 job, to pursue a remote job and start a business of my own. After this point, it's difficult to decide where to look for information and what language to start learning first.  If you don’t have any previous knowledge this could be an impediment to continue with your goal. And a waste of your time trying to find the right resources to start.
 
-### [59. How To Use CSS Sprites: An Ingenious Way of Reducing Page Loading time](https://hackernoon.com/how-to-use-css-sprites-an-ingenious-way-of-reducing-page-loading-time-c72u37yk)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-sx82r48.jpeg)
-Imagine you have six images on your home page. You might proceed with loading the images separately. After all, they are six different images and to be used in six different places. And you might be right ... from your perspective. You also know that loading six different images will force the browser to make six different HTTP requests to the server. And each time it makes a request, a few milliseconds gets added to your page loading time. That's bad news if you have fifty images.
+### [59. How to Connect an Express Application to Postgres Using Sequelize ](https://hackernoon.com/how-to-connect-an-express-application-to-postgres-using-sequelize)
+![](https://cdn.hackernoon.com/images/Y2OaAQy5glhYt11yJqbznON1vDV2-ry82ap6.png)
+This tutorial explains how to use Postgres in your Express application. 
 
 ### [60. Adding Serverless Authentication Microservice to a HTML, CSS and Javascript App](https://hackernoon.com/adding-serverless-authentication-microservice-to-a-html-css-and-javascript-app)
 ![](https://cdn.hackernoon.com/images/ZuuM3fSjXmf2oETrekt5pezKail2-4t93por.jpeg)
 Remembering passwords has become a headache these days.
 
-### [61. Python for Beginners, Part 10: Primitive Data Types](https://hackernoon.com/python-for-beginners-part-10-primitive-data-types)
+### [61. How To Use CSS Sprites: An Ingenious Way of Reducing Page Loading time](https://hackernoon.com/how-to-use-css-sprites-an-ingenious-way-of-reducing-page-loading-time-c72u37yk)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-sx82r48.jpeg)
+Imagine you have six images on your home page. You might proceed with loading the images separately. After all, they are six different images and to be used in six different places. And you might be right ... from your perspective. You also know that loading six different images will force the browser to make six different HTTP requests to the server. And each time it makes a request, a few milliseconds gets added to your page loading time. That's bad news if you have fifty images.
+
+### [62. Python for Beginners, Part 10: Primitive Data Types](https://hackernoon.com/python-for-beginners-part-10-primitive-data-types)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-kye3jxv.jpeg)
 Let's cover the awesomeness of primitive data types. What are integers, floats, or strings!? I don't know... Let's find out!
-
-### [62. How to Connect an Express Application to Postgres Using Sequelize ](https://hackernoon.com/how-to-connect-an-express-application-to-postgres-using-sequelize)
-![](https://cdn.hackernoon.com/images/Y2OaAQy5glhYt11yJqbznON1vDV2-ry82ap6.png)
-This tutorial explains how to use Postgres in your Express application. 
 
 ### [63. 7 Great Resources for Java Beginners](https://hackernoon.com/7-great-resources-for-java-beginners-g51l336l)
 ![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-gxaw331w.jpeg)
@@ -262,75 +266,75 @@ To begin with, the Java programming language is easy enough to learn and has the
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-5sz3zk7.jpeg?alt=media&token=7c3f3036-66fe-43d5-b71d-2c7f0282a485)
 Algorithms for beginners: fundamentals of recursion. 
 
-### [65. A Simple Introduction to Arrays In JavaScript](https://hackernoon.com/a-simple-introduction-to-arrays-in-javascript)
+### [65. The Classification of Programming Languages Based on Type Systems](https://hackernoon.com/the-classification-of-programming-languages-based-on-type-systems)
+![](https://cdn.hackernoon.com/images/PVFFOBwUgvdGgbt8giYgcREA5aB2-ztd3uzp.jpeg)
+Programming languages have different type systems that provide developers with different levels of type safety, flexibility and usability.
+
+### [66. A Simple Introduction to Arrays In JavaScript](https://hackernoon.com/a-simple-introduction-to-arrays-in-javascript)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-5793p3p.jpeg)
 Arrays are one of the most used Data Structures in JavaScript and pretty much any language. 
-
-### [66. Python for Beginners, Part 2: Hello World Exercise](https://hackernoon.com/python-for-beginners-part-hello-world-exercise)
-![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-my034b9.jpeg)
-We cover the most basic 'hello world' exercise! This will be fun and now you are on your way to an exciting journey!
 
 ### [67. Python for Beginners, Part 20: For Loops](https://hackernoon.com/python-for-beginners-part-20-for-loops)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-jb93jz7.jpeg)
 Let's talk about 'for' loops and why they are so important! Anything that requires repetition. 'For' loops are your friends!
 
 
-### [68. The Classification of Programming Languages Based on Type Systems](https://hackernoon.com/the-classification-of-programming-languages-based-on-type-systems)
-![](https://cdn.hackernoon.com/images/PVFFOBwUgvdGgbt8giYgcREA5aB2-ztd3uzp.jpeg)
-Programming languages have different type systems that provide developers with different levels of type safety, flexibility and usability.
+### [68. Python for Beginners, Part 2: Hello World Exercise](https://hackernoon.com/python-for-beginners-part-hello-world-exercise)
+![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-my034b9.jpeg)
+We cover the most basic 'hello world' exercise! This will be fun and now you are on your way to an exciting journey!
 
 ### [69. Your Microcosm: Begin With Virtualization ](https://hackernoon.com/your-microcosm-begin-with-virtualization)
 ![](https://cdn.hackernoon.com/images/oohNv4i0tJTHze4ugb9NJesMdMg2-0g834uq.jpeg)
 HyperV, Virtualization, VirtualBox, VM, Virtual Machine, Containers
 
-### [70. Python for Beginners, Part 14: E-1 Circle of Squares](https://hackernoon.com/python-for-beginners-part-14-e-1-circle-of-squares)
-![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-2zb3inj.jpeg)
-Learn how to write a function that makes a circle of squares!
-
-### [71. foreach Loops in C# – A Beginner's Guide](https://hackernoon.com/foreach-loops-in-c-a-beginners-guide)
+### [70. foreach Loops in C# – A Beginner's Guide](https://hackernoon.com/foreach-loops-in-c-a-beginners-guide)
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-g2833g5.jpeg)
 Throughout this article, I covered the basic syntax of foreach loops in C#, common mistakes to avoid, advanced techniques such as LINQ queries and lambdas
 
-### [72. Introducing Linux Command Line to Beginners](https://hackernoon.com/introducing-linux-command-line-to-beginners)
+### [71. Python for Beginners, Part 14: E-1 Circle of Squares](https://hackernoon.com/python-for-beginners-part-14-e-1-circle-of-squares)
+![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-2zb3inj.jpeg)
+Learn how to write a function that makes a circle of squares!
+
+### [72. HTTP For Beginners - Part 2: Responses](https://hackernoon.com/http-for-beginners-part-2-responses)
+![](https://cdn.hackernoon.com/images/l8IjwGiKy0f84w69douv81sBfUA2-ku93m72.jpeg)
+In this part of the series, I'll demonstrate generating HTTP responses from a simple Node.js Express server.
+
+### [73. Introducing Linux Command Line to Beginners](https://hackernoon.com/introducing-linux-command-line-to-beginners)
 ![](https://cdn.hackernoon.com/images/PM9nNoX7cegr2DQOSuSuYP4k6Sd2-tr9c35aa.jpeg)
 I am learning Linux Command Line, and for this learning-in-public journey, I have chosen to share my notes.
 
-### [73. My Top-Rated Java Tutorials for Coding Newbies](https://hackernoon.com/my-top-rated-java-tutorials-for-coding-newbies-p51g3uco)
+### [74. My Top-Rated Java Tutorials for Coding Newbies](https://hackernoon.com/my-top-rated-java-tutorials-for-coding-newbies-p51g3uco)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FqeIv6rNygoYrUXBwG7uA2lPpLSj2-0c2y3vtw.jpeg?alt=media&token=f2188618-2cd6-409e-a2b4-c48ba6dd3ba1)
 Why Java?
-
-### [74. I Asked #DevTwitter for Advice for Junior Developers; got 50+ Responses ](https://hackernoon.com/i-asked-devtwitter-for-advice-for-junior-developers-got-50-responses-zj62337e)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-rme33br.gif)
-What I would say to myself if I could travel to my past.
 
 ### [75. Python for Beginners, Part 3: The Turtle Module](https://hackernoon.com/python-for-beginners-part-3-the-turtle-module)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-hq03403.jpeg)
 In this part of the Learn Python for Beginners series... We go over how to use the turtle module and learn computer programming in a fun visual way. Things like functions, variables, and more will start to make sense instantly.
 
-### [76. Coding for Gamers: The Long Dark](https://hackernoon.com/learn-to-code-with-games-the-long-dark-1r7c3ylq)
+### [76. I Asked #DevTwitter for Advice for Junior Developers; got 50+ Responses ](https://hackernoon.com/i-asked-devtwitter-for-advice-for-junior-developers-got-50-responses-zj62337e)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-rme33br.gif)
+What I would say to myself if I could travel to my past.
+
+### [77. Coding for Gamers: The Long Dark](https://hackernoon.com/learn-to-code-with-games-the-long-dark-1r7c3ylq)
 ![](https://cdn.hackernoon.com/drafts/lh9v3yp2.png)
 Before I became a programmer I loved to play games. I played games for many years before I even knew the most basic concepts about coding. However these days I see that people are trying to introduce their kids to programming and looking for ways to make programming concepts more approachable. I think that using existing games people love is a great way to do just that. That is why I wanted to start this new coding for gamers blog series. In this tutorial I will show you how to do that by walking you through the process of extracting a feature from a video game called The Long Dark and recreating it on your own.
 
-### [77. Python for Beginners, Part 18: Logical AND, OR, NOT](https://hackernoon.com/python-for-beginners-part-18-logical-and-or-not)
+### [78. Python for Beginners, Part 18: Logical AND, OR, NOT](https://hackernoon.com/python-for-beginners-part-18-logical-and-or-not)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-kn93j4g.jpeg)
 Let's cover logical AND, OR & NOT..
 
 
-### [78. Evolution of Web Design: From HTML to HTML5](https://hackernoon.com/evolution-of-web-design-from-html-to-html5-utnc36xi)
+### [79. How a Beginner can Learn HTML in 4 Hours](https://hackernoon.com/how-a-beginner-can-learn-html-in-4-hours)
+![](https://cdn.hackernoon.com/images/nlqQZkUN8lRmi9mpTQlBS1t1M2l2-aki837zs.jpeg)
+Are you just starting off with Web Development? Then this is your guide to learn the basic concepts behind Hypertext Markup Language (HTML) in just four hours
+
+### [80. Evolution of Web Design: From HTML to HTML5](https://hackernoon.com/evolution-of-web-design-from-html-to-html5-utnc36xi)
 ![](https://cdn.hackernoon.com/images/3j833611.jpg)
 When most people think about evolution, what comes to mind is “the big bang”, usually describing it as way different types of living organisms developed from earlier forms during the history of the earth. Technology has also evolved over time, there are many technologies, major ones being web development, computer systems, software engineering, artificial intelligence and many more. The main focus of this article is on the evolution of Web Design. A deeper dive into HTML which is the backbone of every web page document that you see on the internet today. Yes, other supplements exist e.g. CSS, thats adds design for websites, but without HTML, displaying a webpage document is not possible.
 
-### [79. A Linux, Mac and UNIX Tutorial Of The Top 6 Cool Terminal Commands For Beginners](https://hackernoon.com/a-linux-mac-and-unix-tutorial-of-the-top-6-cool-terminal-commands-for-beginners-ce1z33h8)
+### [81. A Linux, Mac and UNIX Tutorial Of The Top 6 Cool Terminal Commands For Beginners](https://hackernoon.com/a-linux-mac-and-unix-tutorial-of-the-top-6-cool-terminal-commands-for-beginners-ce1z33h8)
 ![](https://cdn.hackernoon.com/images/D8etGeJzeAW3PALAXQXck0zPNv83-dv66326p.jpeg)
 In this tutorial, you'll learn the most common and useful commands that you can run in almost any UNIX-like environment, including Linux and Mac OS X.
-
-### [80. HTTP For Beginners - Part 2: Responses](https://hackernoon.com/http-for-beginners-part-2-responses)
-![](https://cdn.hackernoon.com/images/l8IjwGiKy0f84w69douv81sBfUA2-ku93m72.jpeg)
-In this part of the series, I'll demonstrate generating HTTP responses from a simple Node.js Express server.
-
-### [81. How a Beginner can Learn HTML in 4 Hours](https://hackernoon.com/how-a-beginner-can-learn-html-in-4-hours)
-![](https://cdn.hackernoon.com/images/nlqQZkUN8lRmi9mpTQlBS1t1M2l2-aki837zs.jpeg)
-Are you just starting off with Web Development? Then this is your guide to learn the basic concepts behind Hypertext Markup Language (HTML) in just four hours
 
 ### [82. Python for Beginners, Part 7: Fun Fun Functions](https://hackernoon.com/python-for-beginners-part-7-fun-fun-functions)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-lkb3jc2.jpeg)
@@ -340,21 +344,21 @@ What are functions? We discuss how functions work and allow you to use clean, re
 ![](https://cdn.hackernoon.com/drafts/tdu93v4g.png)
 Are you struggling while starting learning CSS and HTML? Do you feel overwhelmed with sooooo many properties? Don’t they look like the same? Haven’t you tried with a couple of tutorials (that you feel they are easy to do at the moment) but feel you don’t have the knowledge to start from the scratch? 
 
-### [84. Server Security Made Easy: Fortifying with iptables and Knockd](https://hackernoon.com/server-security-made-easy-fortifying-with-iptables-and-knockd)
+### [84. Your Complete Guide to Getting A Job On Blockchain](https://hackernoon.com/your-complete-guide-to-getting-a-job-on-blockchain)
+![](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-gf93oc1.png)
+Blockchain Gaming is One of the Best Methods of Self Employment on Blockchain for People who Don't want A Skill Focused Job AND want to Have Fun while Earning.
+
+### [85. Server Security Made Easy: Fortifying with iptables and Knockd](https://hackernoon.com/server-security-made-easy-fortifying-with-iptables-and-knockd)
 ![](https://cdn.hackernoon.com/images/l61ol1hTJBfErW28zenWXvgU7l52-yb830d7.jpeg)
 I'll show you how to set up a firewall and lock down the whole server for anyone to access with iptables and knockd.
 
-### [85. The Ultimate List of Web 3 Learning Resources for Beginners](https://hackernoon.com/the-ultimate-list-of-web-3-learning-resources-for-beginners)
+### [86. The Ultimate List of Web 3 Learning Resources for Beginners](https://hackernoon.com/the-ultimate-list-of-web-3-learning-resources-for-beginners)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-es93ty1.jpeg)
 A complete lists of resources to help you get started in the Web3 and crypto world.
 
-### [86. How Do I Start Learning Programming if I Don't Know Where to Start?](https://hackernoon.com/how-do-i-start-learning-programming-if-i-dont-know-where-to-start-52113twv)
+### [87. How Do I Start Learning Programming if I Don't Know Where to Start?](https://hackernoon.com/how-do-i-start-learning-programming-if-i-dont-know-where-to-start-52113twv)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FqeIv6rNygoYrUXBwG7uA2lPpLSj2-af3b3vnj.jpeg?alt=media&token=929151c8-fbe3-4308-b8d3-b3d47521f866)
 Software development is a challenging and lucrative career option. Our daily utility items — light bulbs, televisions, cars, banking, shopping — everything is driven by intelligent pieces of codes.
-
-### [87. Your Complete Guide to Getting A Job On Blockchain](https://hackernoon.com/your-complete-guide-to-getting-a-job-on-blockchain)
-![](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-gf93oc1.png)
-Blockchain Gaming is One of the Best Methods of Self Employment on Blockchain for People who Don't want A Skill Focused Job AND want to Have Fun while Earning.
 
 ### [88. Python for Beginners, Part 11: String Slicing](https://hackernoon.com/python-for-beginners-part-11-string-slicing)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-txb3j6c.jpeg)
@@ -415,21 +419,21 @@ Let's cover conditionals and control flow! This includes your Boolean logic comb
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-fb034kt.jpeg)
 We will discuss the difference between an interactive python terminal vs. A python script. 
 
-### [102. What is Artificial Intelligence](https://hackernoon.com/what-is-artificial-intelligence)
-![](https://cdn.hackernoon.com/images/eC7utbILBKZVUqT8ATSa3GQ9vLZ2-ag038ln.jpeg)
-Building an AI system is a complex process of reverse engineering human traits and capabilities in a machine and then leveraging its computing strength...
-
-### [103. Tips New Software Engineers Should Know](https://hackernoon.com/what-new-new-software-engineers-should-know)
+### [102. Tips New Software Engineers Should Know](https://hackernoon.com/what-new-new-software-engineers-should-know)
 ![](https://cdn.hackernoon.com/images/3Vna4om76QPQz8Wmb35XIlnD4GG2-z4928ek.jpeg)
 There is a big disconnect between what we learn while getting a CS degree and writing software that makes money.
 
-### [104. Python for Beginners, Part 9: Loops](https://hackernoon.com/python-for-beginners-part-9-loops)
-![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-5a93jro.jpeg)
-In this one, we explore the concept of looping constructs, visually, in computer programming.
+### [103. What is Artificial Intelligence](https://hackernoon.com/what-is-artificial-intelligence)
+![](https://cdn.hackernoon.com/images/eC7utbILBKZVUqT8ATSa3GQ9vLZ2-ag038ln.jpeg)
+Building an AI system is a complex process of reverse engineering human traits and capabilities in a machine and then leveraging its computing strength...
 
-### [105. Python for Beginners, Part 17: Boolean Algebra Jiu-Jitsu](https://hackernoon.com/python-for-beginners-part-17-boolean-algebra-jiu-jitsu)
+### [104. Python for Beginners, Part 17: Boolean Algebra Jiu-Jitsu](https://hackernoon.com/python-for-beginners-part-17-boolean-algebra-jiu-jitsu)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-el93j0z.jpeg)
 Let's talk about the most important thing in programming... BOOOOOOOLEAN ALGEBRA. Hmm... Is that a True statement OR False? Watch the video AND find out... Or NOT... Up to you.
+
+### [105. Python for Beginners, Part 9: Loops](https://hackernoon.com/python-for-beginners-part-9-loops)
+![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-5a93jro.jpeg)
+In this one, we explore the concept of looping constructs, visually, in computer programming.
 
 ### [106. How to Find Insecure MongoDB Connection Strings in Public GitHub Repositories](https://hackernoon.com/how-to-find-insecure-mongodb-connection-strings-in-public-github-repositories)
 ![](https://cdn.hackernoon.com/images/fJowWHavL0XT8jKc2lCn9VB199e2-sg93l3n.jpeg)
@@ -439,27 +443,27 @@ A guide on how to protect yourself and your projects while on Github.
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-xw035gw.jpeg)
 We will discover what are variables in this video. How is data stored into variables and then how you can retrieve it later for easier access. We will look at all this through a visualization using the Turtle library from Python.
 
-### [108. Python for Beginners, Part 8: Function Arguments](https://hackernoon.com/python-for-beginners-part-8-function-arguments)
-![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-8yc3jxr.jpeg)
-Let's see how functions accept multiple arguments, or parameters, or inputs. Those are interchangeable terms.
-
-### [109. Why Every Emoji, Letter, and Symbol You Type Is Basically Just Math](https://hackernoon.com/why-every-emoji-letter-and-symbol-you-type-is-basically-just-math)
+### [108. Why Every Emoji, Letter, and Symbol You Type Is Basically Just Math](https://hackernoon.com/why-every-emoji-letter-and-symbol-you-type-is-basically-just-math)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-li02ukj.jpeg)
 Explore UTF-8 character encoding, its history, and why it's essential for representing diverse languages and symbols in computer systems efficiently
+
+### [109. Python for Beginners, Part 8: Function Arguments](https://hackernoon.com/python-for-beginners-part-8-function-arguments)
+![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-8yc3jxr.jpeg)
+Let's see how functions accept multiple arguments, or parameters, or inputs. Those are interchangeable terms.
 
 ### [110. How to Immediately Update Components Based on User Interaction with React/Redux](https://hackernoon.com/how-to-immediately-update-components-based-on-user-interaction-with-reactredux)
 ![](https://cdn.hackernoon.com/images/l8IjwGiKy0f84w69douv81sBfUA2-tt93m2z.jpeg)
 How do you get the whole page to reload to show the updated data every time a user makes a change?
 
-### [111. Python for Beginners, Part 13: Append List-Method](https://hackernoon.com/python-for-beginners-part-13-append-list-method)
-![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-7k93i51.jpeg)
-Let's talk about the append method of a list and how it works
-
-### [112. Python for Beginners, Part 16: Dictionaries](https://hackernoon.com/python-for-beginners-part-16-dictionaries)
+### [111. Python for Beginners, Part 16: Dictionaries](https://hackernoon.com/python-for-beginners-part-16-dictionaries)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-k993jhu.jpeg)
 Let's talk about yet another fascinating data structure known as dictionaries. Ever wondered how your iPhone stores phone numbers and then allows for simple and efficient lookups? Well, no need to wonder anymore after you watch this video!
 
-### [113. Python for Beginners, Part 12: Lists of Things](https://hackernoon.com/python-for-beginners-part-12-lists-of-things)
+### [112. Python for Beginners, Part 12: Lists of Things](https://hackernoon.com/python-for-beginners-part-12-lists-of-things)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-dy93i9z.jpeg)
 Let's talk about the list data structure of python and discuss why it's so wonderful.
+
+### [113. Python for Beginners, Part 13: Append List-Method](https://hackernoon.com/python-for-beginners-part-13-append-list-method)
+![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-7k93i51.jpeg)
+Let's talk about the append method of a list and how it works
 

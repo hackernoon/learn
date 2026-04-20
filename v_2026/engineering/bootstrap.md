@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [bootstrap](https://hackernoon.com/tagged/bootstrap)
+### Let's learn about [Bootstrap](https://hackernoon.com/tagged/bootstrap) via these 73 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Bootstrap is a popular open-source CSS framework for developing responsive, mobile-first websites, providing pre-built components and utilities to accelerate front-end development. It matters by enabling rapid and consistent UI development, ensuring websites look great and function well across all devices without extensive custom coding.
+
 ### [1. 10 Fascinating PHP and PHP-friendly admin templates](https://hackernoon.com/10-fascinating-php-admin-templates-4acfb113db7)
 ![](https://cdn.hackernoon.com/images/1zm3zyp.jpg)
 Admin templates that perfectly matches your aesthetic appeal, functionality and tech stack requirements are readily available online. PHP admin templates (or templates that include PHP files) help you start building your PHP project right away.
@@ -41,13 +45,13 @@ Do you enjoy building fast and professional looking pages using React and Bootst
 ![](https://cdn.hackernoon.com/drafts/f62o30nh.png)
 Nowadays websites have become a popular marketing tool. People use them to promote almost everything, starting from products and finishing with services. The aim of the business defines the type of website that is necessary to build. It can be either a web page with a hierarchical structure and various pages or a landing page.
 
-### [11. How to Install Bootstrap 5 on Rails 6](https://hackernoon.com/how-to-install-bootstrap-5-on-rails-6-ved93530)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-23f352k.jpeg)
-Struggling with installing Bootstrap 5 on Rails 6 application? This article will help you.
-
-### [12. Overriding Bootstrap Classes Using CSS](https://hackernoon.com/overriding-bootstrap-classes-using-css-5qjx3y9x)
+### [11. Overriding Bootstrap Classes Using CSS](https://hackernoon.com/overriding-bootstrap-classes-using-css-5qjx3y9x)
 ![](https://cdn.hackernoon.com/images/sR5hH46Da1eASmmQn0mIAV2aVR92-fra3az2.jpeg)
 Are you having a hard time changing some properties of some bootstrap classes with CSS?                                
+
+### [12. How to Install Bootstrap 5 on Rails 6](https://hackernoon.com/how-to-install-bootstrap-5-on-rails-6-ved93530)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-23f352k.jpeg)
+Struggling with installing Bootstrap 5 on Rails 6 application? This article will help you.
 
 ### [13. Understanding CSS Margin and Padding With Simple Analogies](https://hackernoon.com/understanding-css-margin-and-padding-with-simple-analogies-bt1o3y30)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7882quu.jpeg)
@@ -214,7 +218,11 @@ The first time I came across bootstrap was when I was working on the front-end l
 ![](https://cdn.hackernoon.com/images/IgEt6N8htMQVaP8tMcmzHmNxrpJ3-lw7635oe.jpeg)
 If you are developing on the Microsoft these are the most useful software development tools.
 
-### [54. Yes, Your Site Need to Be Mobile Ready](https://hackernoon.com/yes-your-site-need-to-be-mobile-ready-0gu3u9j)
+### [54. "The 4-Day Work Week" and other Insights on Bootstrapped Business with GooseChase CEO Andrew Cross](https://hackernoon.com/the-4-day-work-week-and-other-insights-on-bootstrapped-business-with-goosechase-ceo-andrew-cross)
+![](https://cdn.hackernoon.com/images/wKRvyCKFOmcZFSA441Kw01lEdh43-f0eg35pm.jpeg)
+Inspired by scavenger hunts, GooseChase is an online platform that enables you to create exceptional experiences for your communities. Meet CEO Andrew Cross.
+
+### [55. Yes, Your Site Need to Be Mobile Ready](https://hackernoon.com/yes-your-site-need-to-be-mobile-ready-0gu3u9j)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSLVkLrA7WZWiuHNRTwZIVwgojrZ2-5tbf3up4.jpeg?alt=media&token=a6046930-8b90-4a41-b820-25c27e3ec7bf)
 Och good old days..., when everyone was using computers with their square monitors, you could slap some site in minutes, upload on cheap hosting and everyone is coming right away and enjoying it and saying good words about it and the world is a happy place..., but not today!
 
@@ -237,10 +245,6 @@ People now days have such a short span for waiting and clicking and searching th
 Even Google lost its temper on this, now if your site is not responsive and slow, you'll have a hard time ranking your site to the top Google search positions.
 
 Enough rambling! 
-
-### [55. "The 4-Day Work Week" and other Insights on Bootstrapped Business with GooseChase CEO Andrew Cross](https://hackernoon.com/the-4-day-work-week-and-other-insights-on-bootstrapped-business-with-goosechase-ceo-andrew-cross)
-![](https://cdn.hackernoon.com/images/wKRvyCKFOmcZFSA441Kw01lEdh43-f0eg35pm.jpeg)
-Inspired by scavenger hunts, GooseChase is an online platform that enables you to create exceptional experiences for your communities. Meet CEO Andrew Cross.
 
 ### [56. 6 VueJS Admin Templates With Cool UX Design You Should Check Out](https://hackernoon.com/6-vuejs-admin-templates-with-cool-ux-design-you-should-check-out-z51834zt)
 ![](https://hackernoon.com/images/CPZcQZuKTIRNEmHkkkOCBTvsTyd2-uzjw34jf.jpeg)
@@ -286,21 +290,21 @@ First of all, web development is an interesting discipline because things are al
 ![](https://cdn.hackernoon.com/images/4eb13yb9.jpg)
 Responsive web pages are websites that adjust to different screen sizes. Audi.com, in 2001 was one of the websites to adopt this design.
 
-### [67. WordPress vs Bootstrap: Choosing a Web Design Platform for Your Business](https://hackernoon.com/wordpress-vs-bootstrap-choosing-a-web-design-platform-for-your-business)
+### [67. No Team, No Problem: How I’m Building a Bitcoin Wallet as a Solo Founder](https://hackernoon.com/im-building-a-bitcoin-wallet-as-a-solo-founder-heres-how)
+![](https://cdn.hackernoon.com/images/1z4Rle7v7uTe9oXU49KOC4NcmO22-5103zt7.jpeg)
+Bitcoin has already won as a store of value — but for it to become everyday money, spending it needs to be seamless. Right now, it’s not.
+
+### [68. WordPress vs Bootstrap: Choosing a Web Design Platform for Your Business](https://hackernoon.com/wordpress-vs-bootstrap-choosing-a-web-design-platform-for-your-business)
 ![](https://cdn.hackernoon.com/images/uUFbIVsrWFVlMQDKnyE5UDXL77W2-tj93j0m.jpeg)
 In this article, we will speak about two competing web design platforms that are extremely popular in the current market: WordPress and Bootstrap.
 
-### [68. How to Build a Responsive Page Using Bootstrap](https://hackernoon.com/how-to-build-a-responsive-page-using-bootstrap-cw173tv3)
+### [69. How to Build a Responsive Page Using Bootstrap](https://hackernoon.com/how-to-build-a-responsive-page-using-bootstrap-cw173tv3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FX0UP5eoRqOMMmj2BaUgK3xjSfl32-y373u4w.jpeg?alt=media&token=9f8ed502-1bf9-46b3-b916-c5dbb286f568)
 One of my every project challenge was to build a responsive page with media querys and a few knowledge about how it works, but after it, Bootstrap came to me...
 
-### [69. How to Optimize Your Time When Coding Frontend](https://hackernoon.com/how-to-optimize-your-time-when-coding-frontend-tr5q3yza)
+### [70. How to Optimize Your Time When Coding Frontend](https://hackernoon.com/how-to-optimize-your-time-when-coding-frontend-tr5q3yza)
 ![](https://cdn.hackernoon.com/drafts/p1i3ydc.png)
 I recently took some serious time to improve my skills in front-end HTML and CSS.
-
-### [70. No Team, No Problem: How I’m Building a Bitcoin Wallet as a Solo Founder](https://hackernoon.com/im-building-a-bitcoin-wallet-as-a-solo-founder-heres-how)
-![](https://cdn.hackernoon.com/images/1z4Rle7v7uTe9oXU49KOC4NcmO22-5103zt7.jpeg)
-Bitcoin has already won as a store of value — but for it to become everyday money, spending it needs to be seamless. Right now, it’s not.
 
 ### [71. Why My Project Lacks Recognition On The Platforms](https://hackernoon.com/why-my-project-lacks-recognition-on-the-platforms-dug3t3u)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6cuAXHO1PXQD7SCmcBBNkGQL4F32-vvf23tnv.jpeg?alt=media&token=1bf51280-f163-4e33-9c17-f07995679402)

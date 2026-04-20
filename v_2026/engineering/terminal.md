@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [terminal](https://hackernoon.com/tagged/terminal)
+### Let's learn about [Terminal](https://hackernoon.com/tagged/terminal) via these 62 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A terminal is a text-based interface for interacting with a computer's operating system by typing commands. It is a powerful tool for developers and system administrators, enabling direct and efficient control over system functions and automation.
+
 ### [1. How To Install Bash On Windows 10](https://hackernoon.com/how-to-install-bash-on-windows-10-lqb73yj3)
 ![](https://cdn.hackernoon.com/drafts/l1143y25.png)
 Microsoft recently joined hands with Canonical (the parent company of Ubuntu) to bring the entire userland into Windows, minus the Linux Kernel. So as a result, you, as a developer, get access to the whole range of Ubuntu command-line tools and utilities with bash shell integrated with Windows. Let’s look at how we can install Bash on Windows 10 and take full advantage of the new feature.
@@ -93,13 +97,13 @@ WebP lets you compress your images as efficiently as possible, reducing the size
 ![](https://cdn.hackernoon.com/images/k8BF5t8U11R5my0bz3n6LRmj7sN2-9vc3gsh.png)
 Today, I’m proud to officially introduce Warp, a from-first-principles reinvention of the terminal to make it work better for developers and teams. 
 
-### [24. 16 Commands For Every Use Case to Set Up React Apps in Seconds ⚡🚀](https://hackernoon.com/16-commands-to-set-up-react-apps-for-every-use-in-seconds)
-![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-gr03gzz.jpeg)
-In this article, I have handpicked 16 commands to set up your React apps in seconds.
-
-### [25. SnapPoint: A Hard Reset for Your Dev Machine](https://hackernoon.com/snappoint-a-hard-reset-for-your-dev-machine)
+### [24. SnapPoint: A Hard Reset for Your Dev Machine](https://hackernoon.com/snappoint-a-hard-reset-for-your-dev-machine)
 ![](https://cdn.hackernoon.com/images/A7coZ0uhYMgPNXXtkg7aiDfCsxT2-1m03hm4.jpeg)
 SnapPoint helps developers audit, clean, and realign their system by finding ghost binaries, PATH conflicts, and leftover tool junk.
+
+### [25. 16 Commands For Every Use Case to Set Up React Apps in Seconds ⚡🚀](https://hackernoon.com/16-commands-to-set-up-react-apps-for-every-use-in-seconds)
+![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-gr03gzz.jpeg)
+In this article, I have handpicked 16 commands to set up your React apps in seconds.
 
 ### [26. Exploring the New GitHub CLI](https://hackernoon.com/exploring-the-new-github-cli-uv8a3tee)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFxEkYNTI9jaBSpfhOG60ZLDTffO2-4fn3tn0.png?alt=media&token=aa6e68e0-7391-4e23-ad50-889a4c4d1641)
@@ -157,73 +161,73 @@ MyTimer is a Python project that aims to provide a simple yet efficient timer fo
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-f003n08.jpeg)
 How to install and run Swift on Linux
 
-### [40. Unleashing the Power of the Terminal: Essential Tools Every Developer Should Know](https://hackernoon.com/unleashing-the-power-of-the-terminal-essential-tools-every-developer-should-know)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oi92gad.jpeg)
-This post outlines my list of tools that every developer must have or has heard about ;). 
-
-### [41. GPTerm: Creating Intelligent Terminal Apps with ChatGPT and LLM Models](https://hackernoon.com/gpterm-creating-intelligent-terminal-apps-with-chatgpt-and-llm-models)
+### [40. GPTerm: Creating Intelligent Terminal Apps with ChatGPT and LLM Models](https://hackernoon.com/gpterm-creating-intelligent-terminal-apps-with-chatgpt-and-llm-models)
 ![](https://cdn.hackernoon.com/images/gHMlJKXRQih8J6tFoFPzex5q6ke2-so93puh.jpeg)
 In this article, the exciting realm of making terminal applications smarter is delved into by integrating ChatGPT, a cutting-edge language model.
 
-### [42. Cosmo: The Graph Visualization Tool Built for Your Terminal](https://hackernoon.com/cosmo-the-graph-visualization-tool-built-for-your-terminal)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-74023l8.png)
-Cosmo is a terminal-based interactive graph visualizer that automatically layouts and displays complex data structures for quick exploration.
+### [41. Unleashing the Power of the Terminal: Essential Tools Every Developer Should Know](https://hackernoon.com/unleashing-the-power-of-the-terminal-essential-tools-every-developer-should-know)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oi92gad.jpeg)
+This post outlines my list of tools that every developer must have or has heard about ;). 
 
-### [43. Command Line Confessions: The Embarrassing Questions I Should Have Asked Long Ago](https://hackernoon.com/command-line-confessions-the-embarrassing-questions-i-should-have-asked-long-ago)
+### [42. Command Line Confessions: The Embarrassing Questions I Should Have Asked Long Ago](https://hackernoon.com/command-line-confessions-the-embarrassing-questions-i-should-have-asked-long-ago)
 ![](https://cdn.hackernoon.com/images/6NntkWOAQNfaPgaqGyH7qhbpUBa2-o213dgd.png)
 Explore the command line through funny analogies, uncover essential commands, and get insights from an iOS developer's journey into CLI and terminal's darkness
+
+### [43. How to Capture OAuth Callbacks in CLI and Desktop Apps with Localhost Servers](https://hackernoon.com/how-to-capture-oauth-callbacks-in-cli-and-desktop-apps-with-localhost-servers)
+![](https://cdn.hackernoon.com/images/2GvLYqtExzWQVpFYbHz7jwspTxB2-p203cm6.png)
+The missing guide to implementing secure OAuth flows in command-line tools and desktop apps
 
 ### [44. A Modern Take on the Terminal Experience](https://hackernoon.com/a-modern-take-on-the-terminal-experience)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8o02prs.jpeg)
 Several tools have emerged to enhance the command-line experience, and Warp is one of the latest options aiming to streamline these processes.
 
-### [45. How to Set Up an iPad for Machine Learning Development ](https://hackernoon.com/how-to-set-up-an-ipad-for-machine-learning-development-3x3e3tp6)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3JWT8a2Te1cTkbjecVCA8OBscsF3-ph263t2d.jpeg?alt=media&token=46581c78-c1e8-41c3-85db-9d85d42c62cf)
-If you have an iPad and want to use it as a development tool, you only need to complete 5 steps before using it. In this guide, you'll learn how to:
-
-### [46. A Blazing Fast File Management for Terminal ⚡️](https://hackernoon.com/a-blazing-fast-file-management-for-terminal)
+### [45. A Blazing Fast File Management for Terminal ⚡️](https://hackernoon.com/a-blazing-fast-file-management-for-terminal)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-08835y9.jpeg)
 I will give you 3 solutions not just one to make your life easier in terminal and jump easily between files.
 
-### [47. How to Capture OAuth Callbacks in CLI and Desktop Apps with Localhost Servers](https://hackernoon.com/how-to-capture-oauth-callbacks-in-cli-and-desktop-apps-with-localhost-servers)
-![](https://cdn.hackernoon.com/images/2GvLYqtExzWQVpFYbHz7jwspTxB2-p203cm6.png)
-The missing guide to implementing secure OAuth flows in command-line tools and desktop apps
+### [46. How to Set Up an iPad for Machine Learning Development ](https://hackernoon.com/how-to-set-up-an-ipad-for-machine-learning-development-3x3e3tp6)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3JWT8a2Te1cTkbjecVCA8OBscsF3-ph263t2d.jpeg?alt=media&token=46581c78-c1e8-41c3-85db-9d85d42c62cf)
+If you have an iPad and want to use it as a development tool, you only need to complete 5 steps before using it. In this guide, you'll learn how to:
 
-### [48. Terminal Finance Surpasses $280M TVL: What Makes This Ethena-Incubated DEX Different](https://hackernoon.com/terminal-finance-surpasses-$280m-tvl-what-makes-this-ethena-incubated-dex-different)
+### [47. Terminal Finance Surpasses $280M TVL: What Makes This Ethena-Incubated DEX Different](https://hackernoon.com/terminal-finance-surpasses-$280m-tvl-what-makes-this-ethena-incubated-dex-different)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-ln03btp.png)
 Terminal Finance hits $280M TVL before launch. Ethena-backed DEX transforms yield-bearing stablecoin trading with sUSDe integration.
 
-### [49. A Linux, Mac and UNIX Tutorial Of The Top 6 Cool Terminal Commands For Beginners](https://hackernoon.com/a-linux-mac-and-unix-tutorial-of-the-top-6-cool-terminal-commands-for-beginners-ce1z33h8)
+### [48. A Linux, Mac and UNIX Tutorial Of The Top 6 Cool Terminal Commands For Beginners](https://hackernoon.com/a-linux-mac-and-unix-tutorial-of-the-top-6-cool-terminal-commands-for-beginners-ce1z33h8)
 ![](https://cdn.hackernoon.com/images/D8etGeJzeAW3PALAXQXck0zPNv83-dv66326p.jpeg)
 In this tutorial, you'll learn the most common and useful commands that you can run in almost any UNIX-like environment, including Linux and Mac OS X.
 
-### [50. How to Run Multiple Terminal Commands in ONE, Like a Boss](https://hackernoon.com/run-multiple-terminal-commands-in-one-like-a-boss)
+### [49. How to Run Multiple Terminal Commands in ONE, Like a Boss](https://hackernoon.com/run-multiple-terminal-commands-in-one-like-a-boss)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-4b13o0a.jpeg)
 Buck is a free, open-source and lightweight CLI tool used by developers to group multiple terminal commands into one.
 
-### [51. Real-time Scanning of Other Terminals with Strace](https://hackernoon.com/real-time-scanning-of-other-terminals-with-strace-rx9n3yr0)
+### [50. Real-time Scanning of Other Terminals with Strace](https://hackernoon.com/real-time-scanning-of-other-terminals-with-strace-rx9n3yr0)
 ![](https://cdn.hackernoon.com/images/5o2ce3ywz.jpg)
 Introduction
 
-### [52. Journalot – Building a Git-Backed Journaling CLI That Developers Actually Use](https://hackernoon.com/journalot-building-a-git-backed-journaling-cli-that-developers-actually-use)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9g022i4.jpeg)
-No accounts, no sync services, just markdown files in a git repo. Works on Mac/Linux. MIT licensed.
+### [51. Cosmo: The Graph Visualization Tool Built for Your Terminal](https://hackernoon.com/cosmo-the-graph-visualization-tool-built-for-your-terminal)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-74023l8.png)
+Cosmo is a terminal-based interactive graph visualizer that automatically layouts and displays complex data structures for quick exploration.
 
-### [53. React Ink for CLI: A Gentle Introduction](https://hackernoon.com/react-ink-for-cli-a-gentle-introduction)
+### [52. React Ink for CLI: A Gentle Introduction](https://hackernoon.com/react-ink-for-cli-a-gentle-introduction)
 ![](https://cdn.hackernoon.com/images/eUT0WvJnuqUhEFMKqi6Mi1hExjy2-ov0370n.png)
 React Ink is a library that brings the power of React to designing Command-Line Interfaces.
+
+### [53. Git Commands You're Always Forgetting](https://hackernoon.com/git-commands-youre-always-forgetting)
+![](https://cdn.hackernoon.com/images/qyvXjsqKFBgWZYdxv699upeR7D72-0e839xb.jpeg)
+Did you find yourself cursing at your terminal because you forgot that one Git command? Yeah, me too. So, I decided to put down these Git commands I always forg
 
 ### [54. A Simple Sequential and Parallel Task List Runner for Terminal](https://hackernoon.com/introducing-taskz-ulem3rah)
 ![](https://cdn.hackernoon.com/images/xe2a3r6d.jpg)
 Taskz is a library for Node.js, a simple sequential and parallel task list runner for terminal.
 
-### [55. Git Commands You're Always Forgetting](https://hackernoon.com/git-commands-youre-always-forgetting)
-![](https://cdn.hackernoon.com/images/qyvXjsqKFBgWZYdxv699upeR7D72-0e839xb.jpeg)
-Did you find yourself cursing at your terminal because you forgot that one Git command? Yeah, me too. So, I decided to put down these Git commands I always forg
-
-### [56. Building CLI Tools with Go (Golang): A JSON File Formatter](https://hackernoon.com/building-cli-tools-with-go-golang-a-json-file-formatter)
+### [55. Building CLI Tools with Go (Golang): A JSON File Formatter](https://hackernoon.com/building-cli-tools-with-go-golang-a-json-file-formatter)
 ![](https://cdn.hackernoon.com/images/gS9x989UdEYLqxgBp9uFiQXoXv23-830217o.jpeg)
 
+
+### [56. Journalot – Building a Git-Backed Journaling CLI That Developers Actually Use](https://hackernoon.com/journalot-building-a-git-backed-journaling-cli-that-developers-actually-use)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9g022i4.jpeg)
+No accounts, no sync services, just markdown files in a git repo. Works on Mac/Linux. MIT licensed.
 
 ### [57. No Mouse 30: A Quiet Experiment in Keyboard-First Work](https://hackernoon.com/no-mouse-30-a-quiet-experiment-in-keyboard-first-work)
 ![](https://cdn.hackernoon.com/images/A7coZ0uhYMgPNXXtkg7aiDfCsxT2-y503gp0.png)
@@ -237,15 +241,15 @@ Step 1: Make #02550 your project’s primary color over a beer with a friend for
 ![](https://cdn.hackernoon.com/images/5enyaNtmWrhyRb00Q0s6NyV574m2-s833akr.png)
 ZUSE is an IRC client for your terminal crafted with the elegance and power of Go, Bubble Tea, and Lipgloss. 
 
-### [60. Pioneer Challenge: Overview](https://hackernoon.com/pioneer-challenge-overview-g5i3toc)
+### [60. AI Can't Click Buttons: A Look Into Why Text-Based Programs Are Going To Make A Comeback](https://hackernoon.com/ai-cant-click-buttons-a-look-into-why-text-based-programs-are-going-to-make-a-comeback)
+![](https://cdn.hackernoon.com/images/a-robot-hand-rising-from-a-grave-creepy-bdue68vlzq8zywb0khzdfpua.png)
+Terminal programs like hledger store everything in plain text — making them lightweight, fully yours, and perfect for AI agents.
+
+### [61. Pioneer Challenge: Overview](https://hackernoon.com/pioneer-challenge-overview-g5i3toc)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaWh2qdUgQJcaBsDsLScO9GWeaS13-wx503uvq.png?alt=media&token=c56f8c50-3726-4855-93ab-c06ca25d897e)
 The Terminal hasn't changed much since the 1980s. Every other aspect of your workflow is radically different. Especially in the last decade, we’ve seen companies transform industries with the advent of collaborative software: Figma (collaborative design), Github (collaborate code), G Suite (collaborative Word and Excel) and more.
 
-### [61. Basic Commands That Will Help You Get Started With Terminal](https://hackernoon.com/basic-commands-that-will-help-you-get-started-with-terminal)
+### [62. Basic Commands That Will Help You Get Started With Terminal](https://hackernoon.com/basic-commands-that-will-help-you-get-started-with-terminal)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-3w92e2n.jpeg)
 At first, the command line interface can be overwhelming: it’s an empty screen and a prompt. 
-
-### [62. AI Can't Click Buttons: A Look Into Why Text-Based Programs Are Going To Make A Comeback](https://hackernoon.com/ai-cant-click-buttons-a-look-into-why-text-based-programs-are-going-to-make-a-comeback)
-![](https://cdn.hackernoon.com/images/a-robot-hand-rising-from-a-grave-creepy-bdue68vlzq8zywb0khzdfpua.png)
-Terminal programs like hledger store everything in plain text — making them lightweight, fully yours, and perfect for AI agents.
 

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [internet-censorship](https://hackernoon.com/tagged/internet-censorship)
+### Let's learn about [Internet Censorship](https://hackernoon.com/tagged/internet-censorship) via these 169 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Internet censorship is the control or suppression of what can be accessed, published, or viewed on the internet. It matters as it impacts freedom of speech, access to information, and digital rights, shaping political and social discourse globally.
+
 ### [1. Nintendo Shuts Down Kickstarter Campaign For Violating Animal Crossing Copyrights](https://hackernoon.com/nintendo-shuts-down-kickstarter-campaign-for-violating-animal-crossing-copyrights-ni1o3wi0)
 ![](https://images.unsplash.com/photo-1555864326-5cf22ef123cf?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 A law firm acting for Nintendo of America has shut down a successful Kickstarter campaign for alleged breaches of copyright. According to the gaming giant, the fundraiser used characters and images from the Animal 
@@ -100,13 +104,13 @@ Internet censorship doesn't only affect those breaking the law. The decentralize
 ![](https://hackernoon.com/images/55mgLtvwWdf0kHZQ9QMkL4gmWue2-ak283aoz.jpeg)
 Mass censorship and de-platforming have been normalized at such break-neck speed that a new totalitarian milestone appears almost every month. Fortunately, cryptocurrencies have already paved the road ahead for a brighter, less surveilled future, leading to Web 3.0.
 
-### [25. Plex Slammed By Huge Copyright Coalition For Not Policing Pirates](https://hackernoon.com/plex-slammed-by-huge-copyright-coalition-for-not-policing-pirates-hr3b3vo5)
-![](https://images.unsplash.com/photo-1562412692-26406e1bf600?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Plex has become the latest neutral technology to get slammed for not doing enough to prevent movie and TV show piracy. According to pro-copyright lobby group CreativeFuture, which represents more than 560 companies and organizations, Plex - like Kodi - is a "dangerous digital media player" that has joined the ranks of "internet heavyweights who refuse to take responsibility for the criminal behavior on their platforms."
-
-### [26. Zero People Charged With Online Pirating, Swedish Prosecutor's Office Reports](https://hackernoon.com/0-person-charged-with-online-pirating-swedish-prosecutors-office-report-ipm3ufo)
+### [25. Zero People Charged With Online Pirating, Swedish Prosecutor's Office Reports](https://hackernoon.com/0-person-charged-with-online-pirating-swedish-prosecutors-office-report-ipm3ufo)
 ![](https://images.unsplash.com/photo-1504707748692-419802cf939d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 For the first time in almost a decade, not a single person was charged with a file-sharing or streaming related crime in Sweden during 2019. The news comes from the Prosecutor's Office, which reveals that just 23 offenses were reported during the year, the lowest number since 2010.
+
+### [26. Plex Slammed By Huge Copyright Coalition For Not Policing Pirates](https://hackernoon.com/plex-slammed-by-huge-copyright-coalition-for-not-policing-pirates-hr3b3vo5)
+![](https://images.unsplash.com/photo-1562412692-26406e1bf600?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Plex has become the latest neutral technology to get slammed for not doing enough to prevent movie and TV show piracy. According to pro-copyright lobby group CreativeFuture, which represents more than 560 companies and organizations, Plex - like Kodi - is a "dangerous digital media player" that has joined the ranks of "internet heavyweights who refuse to take responsibility for the criminal behavior on their platforms."
 
 ### [27. The OpenAI Is Everywhere, Open Your Eye and Give It Your Retina so It Can See You Too ](https://hackernoon.com/the-openai-is-everywhere-open-your-eye-and-give-it-your-retina-so-it-can-see-you-too)
 ![](https://cdn.hackernoon.com/images/QfvpIBb2RGaXRk2ViDOn7tIeoz33-xr92jt6.jpeg)
@@ -118,13 +122,13 @@ OpenAI + Worldcoin = Total Control? A dive into the control construct of the ope
 The developer behind the Red Dead Redemption: Damned Enhancement Project is fighting back against a copyright infringement lawsuit filed by Take-Two. Among other things, Johnathan Wyckoff states that he believes he was working within the rules published by Take-Two, which state that 
 the company will not generally take legal action against non-commercial single player projects.
 
-### [29. Popular eBook Platform eBookee Losing Control Of Its Main Domain](https://hackernoon.com/popular-ebook-platform-ebookee-losing-control-of-its-main-domain-4k15313w)
-![](https://images.unsplash.com/photo-1559526324-c1f275fbfa32?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Popular eBook download platform eBookee has lost control of its main .org domain. The suspension was carried out by the Public Domain Registry
-
-### [30. 71 Stories To Learn About Torrent Freak Series](https://hackernoon.com/71-stories-to-learn-about-torrent-freak-series)
+### [29. 71 Stories To Learn About Torrent Freak Series](https://hackernoon.com/71-stories-to-learn-about-torrent-freak-series)
 ![](https://cdn.hackernoon.com/images/github/torrent-freak-series-131.png)
 Learn everything you need to know about Torrent Freak Series via these 71 free HackerNoon stories.
+
+### [30. Popular eBook Platform eBookee Losing Control Of Its Main Domain](https://hackernoon.com/popular-ebook-platform-ebookee-losing-control-of-its-main-domain-4k15313w)
+![](https://images.unsplash.com/photo-1559526324-c1f275fbfa32?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Popular eBook download platform eBookee has lost control of its main .org domain. The suspension was carried out by the Public Domain Registry
 
 ### [31. Russia Pirate Sites Dump 1XBET in Favor of Identical Yet Legal 1XStavka](https://hackernoon.com/russia-pirate-sites-dump-1xbet-in-favor-of-identical-yet-legal-1xstavka-90o312a)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-50m3131.jpeg)
@@ -147,53 +151,53 @@ The developer of action role-playing game Kingdom Come: Deliverance has hilariou
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0GJwih4HJ6MiPCnDan9wzUlbDhX2-2mz3wg2.jpeg?alt=media&token=1d5ef516-733d-4ad9-8102-d15404ac0a70)
 It is no secret that big tech has been actively monitoring and censoring users.  The past three years have seen a big rise in reported censorship events by the likes of  Youtube, Google, Facebook, and Twitter. 
 
-### [36. PortalRooms Going Dark Leaving Behind Millions of Avid Users ](https://hackernoon.com/portalrooms-going-dark-leaving-behind-millions-of-avid-users-lyx311j)
-![](https://images.unsplash.com/photo-1490810194309-344b3661ba39?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-PortalRoms, a popular index for ROM and emulators for a wide range of gaming systems, has disappeared without trace. Up until a few days ago the site was servicing more four million visitors per month with links to download content via torrents. However, after domain issues hit the site last October, history may now be repeating itself for the ten-year-old site.
-
-### [37. A Technical Perspective on Net Neutrality](https://hackernoon.com/a-technical-perspective-on-net-neutrality)
+### [36. A Technical Perspective on Net Neutrality](https://hackernoon.com/a-technical-perspective-on-net-neutrality)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-lv833xq.jpeg)
 Delve into a technical examination of Net Neutrality and Internet fundamentals. 
 
 
 
-### [38. New Study Exposes OpenVPN Fingerprintability, Raising Privacy Concerns](https://hackernoon.com/new-study-exposes-openvpn-fingerprintability-raising-privacy-concerns)
+### [37. New Study Exposes OpenVPN Fingerprintability, Raising Privacy Concerns](https://hackernoon.com/new-study-exposes-openvpn-fingerprintability-raising-privacy-concerns)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-sj030yr.png)
 This research outlines methods to fingerprint OpenVPN traffic, achieving 85% accuracy, raising concerns about VPN blockability and countermeasures.
+
+### [38. PortalRooms Going Dark Leaving Behind Millions of Avid Users ](https://hackernoon.com/portalrooms-going-dark-leaving-behind-millions-of-avid-users-lyx311j)
+![](https://images.unsplash.com/photo-1490810194309-344b3661ba39?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+PortalRoms, a popular index for ROM and emulators for a wide range of gaming systems, has disappeared without trace. Up until a few days ago the site was servicing more four million visitors per month with links to download content via torrents. However, after domain issues hit the site last October, history may now be repeating itself for the ten-year-old site.
 
 ### [39. Microsoft’s LinkedIn Still Sucks, But Outsmarting Its Algorithm Is Hilariously Easy](https://hackernoon.com/microsofts-linkedin-still-sucks-but-outsmarting-its-algorithm-is-hilariously-easy)
 ![](https://cdn.hackernoon.com/images/NnjZG0u7XOWMXjog0XlYi9V3xX03-xk13bbq.png)
 A cheeky experiment uses ChatGPT to slip LinkedIn’s walled garden, proving off-platform links still win—and why MS’s Dismal Platform must pivot or die.
 
-### [40. US Movie Companies Prosecute YTS Users Plus The One With a VPN](https://hackernoon.com/us-movie-companies-prosecute-yts-users-plus-the-one-with-a-vpn-o812319e)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRNrx5pnl6RZYIv9etWzhJ84VDNb2-aw3428dd.jpeg?alt=media&token=3db1cac8-b9c2-4771-9efb-93a0a8331f7e)
-The operator of YTS recently 'settled' a lawsuit that was filed by the US. movie company Wicked Nevada. Soon after, the same movie company joined other filmmakers to sue several users of the notorious torrent site. According to the complaint, the rightsholders know the email addresses that the defendants used to register with at YTS, as well as the VPN IP-address of one user. This raises some questions.
-
-### [41. Clapper: Championing Free Speech Amidst Social Media Censorship Controversies](https://hackernoon.com/clapper-championing-free-speech-amidst-social-media-censorship-controversies)
+### [40. Clapper: Championing Free Speech Amidst Social Media Censorship Controversies](https://hackernoon.com/clapper-championing-free-speech-amidst-social-media-censorship-controversies)
 ![](https://cdn.hackernoon.com/images/an-audience-in-front-of-a-podium-clapping-mf9qyo9daqm0urms71cgj4d2.png)
 Amidst these controversies, Clapper, a social media app designed for adults, has positioned itself as a platform that prioritizes free speech.
+
+### [41. US Movie Companies Prosecute YTS Users Plus The One With a VPN](https://hackernoon.com/us-movie-companies-prosecute-yts-users-plus-the-one-with-a-vpn-o812319e)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRNrx5pnl6RZYIv9etWzhJ84VDNb2-aw3428dd.jpeg?alt=media&token=3db1cac8-b9c2-4771-9efb-93a0a8331f7e)
+The operator of YTS recently 'settled' a lawsuit that was filed by the US. movie company Wicked Nevada. Soon after, the same movie company joined other filmmakers to sue several users of the notorious torrent site. According to the complaint, the rightsholders know the email addresses that the defendants used to register with at YTS, as well as the VPN IP-address of one user. This raises some questions.
 
 ### [42. ‘Hacked’ Netflix MENA Twitter Account Asks For Movie Torrent Recommendations (Updated)](https://hackernoon.com/hacked-netflix-mena-twitter-account-asks-for-movie-torrent-recommendations-updated-yi1q3v3o)
 ![](https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Last night the Twitter account of Netflix in the MENA region suddenly had its 'N' logo replaced with a pirate-themed graphic. Then, in a series of bizarre tweets declaring a hack, followers were asked for recommendations on movie torrents. This morning Netflix apparently regained control and apologized but could there be more to this than meets the eye?
 
-### [43. Japanese Government Approves New Bill to Criminalize Manga Piracy](https://hackernoon.com/japanese-government-approves-new-bill-to-criminalize-manga-piracy-u51m3vbj)
+### [43. The Dark Side of Decentralization: Can We Handle a Truly Free Internet?](https://hackernoon.com/the-dark-side-of-decentralization-can-we-handle-a-truly-free-internet)
+![](https://cdn.hackernoon.com/images/a-fragmented-digital-world-where-internet-nodes-and-connections-are-scattered-and-disconnected-half-of-the-scene-shows-glowing-decentralized-data-blocks-while-the-other-half-is-clouded-with-dark-glitchy-elements-symbolizing-cyber-threats-and-instability-j3qzp81g10j7mf4glwf08idj.png)
+Explore the potential dangers of a completely decentralized internet, examining the challenges and risks associated with absolute online freedom.
+
+### [44. Japanese Government Approves New Bill to Criminalize Manga Piracy](https://hackernoon.com/japanese-government-approves-new-bill-to-criminalize-manga-piracy-u51m3vbj)
 ![](https://images.unsplash.com/photo-1544322230-93ed2cd0898a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The government of Japan has approved a new bill aimed at reducing the 
 downloading of pirated content from the Internet. The new law, which is 
 targeted for Jan 1, 2021, will criminalize the downloading of manga, magazines and academic material with prison sentences of up to two years. Operators of pirate linking sites will also face up to five years behind bars.
 
-### [44. The Illusion of Digital Freedom: Can Web3 Break the Chains of Online Censorship?](https://hackernoon.com/the-illusion-of-digital-freedom-can-web3-break-the-chains-of-online-censorship)
-![](https://cdn.hackernoon.com/images/FCQk117dxbVeF3XsFJpSnseQE372-j033gd1.jpeg)
-Can Web3 dismantle online censorship and restore true digital freedom? Explore the illusion of control and whether decentralization can break the chains.
-
-### [45. The Dark Side of Decentralization: Can We Handle a Truly Free Internet?](https://hackernoon.com/the-dark-side-of-decentralization-can-we-handle-a-truly-free-internet)
-![](https://cdn.hackernoon.com/images/a-fragmented-digital-world-where-internet-nodes-and-connections-are-scattered-and-disconnected-half-of-the-scene-shows-glowing-decentralized-data-blocks-while-the-other-half-is-clouded-with-dark-glitchy-elements-symbolizing-cyber-threats-and-instability-j3qzp81g10j7mf4glwf08idj.png)
-Explore the potential dangers of a completely decentralized internet, examining the challenges and risks associated with absolute online freedom.
-
-### [46. Ebook.bike Holder Is To Get Sanctioned After Failing To Produce Discovery](https://hackernoon.com/ebookbike-holder-is-to-get-sanctioned-after-failing-to-produce-discovery-ix1231pq)
+### [45. Ebook.bike Holder Is To Get Sanctioned After Failing To Produce Discovery](https://hackernoon.com/ebookbike-holder-is-to-get-sanctioned-after-failing-to-produce-discovery-ix1231pq)
 ![](https://images.unsplash.com/photo-1537498425277-c283d32ef9db?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Former Pirate Party Canada leader and Ebook.bike operator Travis McCrea is facing the possibility of crippling sanctions if the plaintiff in his copyright infringement lawsuit has his way. After McCrea failed to produce discovery as ordered by the court, the legal team of author John Van Stry are moving in for the kill, demanding sanctions that have the potential to undermine any chance of McCrea winning his case on the merits.
+
+### [46. Online Censorship in Schools Is Impacting Teachers As Much as Students](https://hackernoon.com/online-censorship-in-schools-is-impacting-teachers-as-much-as-students)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-qm83esp.jpeg)
+A Markup investigation, however, showed these filters have morphed into tools of digital censorship.
 
 ### [47. Layers of Encapsulation: Exploring the TCP/IP Model in Internet Communication](https://hackernoon.com/layers-of-encapsulation-exploring-the-tcpip-model-in-internet-communication)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-2g833cp.jpeg)
@@ -221,49 +225,50 @@ informs TF that once one network shuts it down, five others will take their plac
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-dr931q0.jpeg)
 I﻿n August, thousands of Solana wallets were drained of their funds in an epic GitHub hack. Mitja Goroshevsky, lead dev of GOSH, explains what went down and why
 
-### [53. Online Censorship in Schools Is Impacting Teachers As Much as Students](https://hackernoon.com/online-censorship-in-schools-is-impacting-teachers-as-much-as-students)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-qm83esp.jpeg)
-A Markup investigation, however, showed these filters have morphed into tools of digital censorship.
-
-### [54. Decentralization Levels: Bitcoin's Proof-of-Work vs. Obyte's DAG Approach](https://hackernoon.com/decentralization-levels-bitcoins-proof-of-work-vs-obytes-dag-approach)
-![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-ss835m0.jpeg)
-Bitcoin and Obyte use different tactics to achieve their own version of “decentralization.” Have you ever thought which one of them is less prone to censorship?
-
-### [55. 123 Stories To Learn About Internet Censorship](https://hackernoon.com/123-stories-to-learn-about-internet-censorship)
+### [53. 123 Stories To Learn About Internet Censorship](https://hackernoon.com/123-stories-to-learn-about-internet-censorship)
 ![](https://cdn.hackernoon.com/images/github/internet-censorship-491.png)
 Learn everything you need to know about Internet Censorship via these 123 free HackerNoon stories.
 
-### [56. YggTorrent Website Lost Control Over Its Main Domain](https://hackernoon.com/yggtorrent-website-lost-control-over-its-main-domain-hdm3uci)
+### [54. YggTorrent Website Lost Control Over Its Main Domain](https://hackernoon.com/yggtorrent-website-lost-control-over-its-main-domain-hdm3uci)
 ![](https://images.unsplash.com/photo-1564760290292-23341e4df6ec?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 France's largest torrent site YggTorrent has lost control over its main domain. According to the site's operators, YggTorrent.ws was suspended by the domain registrar without providing additional information. Given that Alexa reports that YggTorrent is one of the most-visited websites in the whole of France, the disruption is likely to affect millions of visitors.
 
-### [57. New Censors and Old Decentralized Internet Dreams](https://hackernoon.com/new-censors-and-old-decentralized-internet-dreams)
+### [55. Decentralization Levels: Bitcoin's Proof-of-Work vs. Obyte's DAG Approach](https://hackernoon.com/decentralization-levels-bitcoins-proof-of-work-vs-obytes-dag-approach)
+![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-ss835m0.jpeg)
+Bitcoin and Obyte use different tactics to achieve their own version of “decentralization.” Have you ever thought which one of them is less prone to censorship?
+
+### [56. New Censors and Old Decentralized Internet Dreams](https://hackernoon.com/new-censors-and-old-decentralized-internet-dreams)
 ![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-c333af9.jpeg)
 The Internet in 2025 is more Balkanized than decentralized, and censorship is taking full advantage of it. 
 
-### [58. Manga Scanlation Communities Are Against Unleashing Enmity](https://hackernoon.com/manga-scanlation-communities-are-against-unleashing-enmity-331031pt)
+### [57. Manga Scanlation Communities Are Against Unleashing Enmity](https://hackernoon.com/manga-scanlation-communities-are-against-unleashing-enmity-331031pt)
 ![](https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Huge scanlation platform MangaDex recently revealed that legal pressures had, among things, restricted its ability to receive donations from users. Following our report, a server administrator connected to several other groups gave us additional insight into these anti-piracy efforts. Amid the hostilities, however, it appears that all the scanlation community really wants is to improve the chances of manga titles arriving in the West.
+
+### [58. 114 Stories To Learn About Piracy](https://hackernoon.com/114-stories-to-learn-about-piracy)
+![](https://cdn.hackernoon.com/images/github/piracy-416.png)
+Learn everything you need to know about Piracy via these 114 free HackerNoon stories.
 
 ### [59. How To Decentralize The Internet?](https://hackernoon.com/how-to-decentralize-the-internet-q33d345l)
 ![](https://cdn.hackernoon.com/images/wb443va6tWfO9ezfAOTebkX324z2-rf9v359r.jpeg)
 Can we decentralize the internet? Or are the blockchains of today not up to task? I speak to Pavel Prigolovko, of TON Labs, to find out how it can be possible.
 
-### [60. 114 Stories To Learn About Piracy](https://hackernoon.com/114-stories-to-learn-about-piracy)
-![](https://cdn.hackernoon.com/images/github/piracy-416.png)
-Learn everything you need to know about Piracy via these 114 free HackerNoon stories.
-
-### [61. The Problem with Centralized Internet](https://hackernoon.com/the-problem-with-centralized-internet-qy1r35q0)
+### [60. The Problem with Centralized Internet](https://hackernoon.com/the-problem-with-centralized-internet-qy1r35q0)
 ![](https://cdn.hackernoon.com/images/MqpxiO0IPyQ2AJiLR8mrAdpCcCT2-n71t33jy.jpeg)
 Corporations' increasing control over the internet is threatening our digital freedom. Let's try and learn why decentralized internet is the future.
 
-### [62. The Evolution of Net Neutrality Laws](https://hackernoon.com/the-evolution-of-net-neutrality-laws)
+### [61. The Evolution of Net Neutrality Laws](https://hackernoon.com/the-evolution-of-net-neutrality-laws)
 ![](https://cdn.hackernoon.com/images/a-laptop-in-court-runn7x1nvyh6evabjvx6z9j8.png)
 Explore the legal journey of Net Neutrality in the United States.
 
-### [63. Let Web3 Flow: Democratizing Data Ownership to Curb Malpractice](https://hackernoon.com/let-web3-flow-democratizing-data-ownership-to-curb-malpractice)
+### [62. Let Web3 Flow: Democratizing Data Ownership to Curb Malpractice](https://hackernoon.com/let-web3-flow-democratizing-data-ownership-to-curb-malpractice)
 ![](https://cdn.hackernoon.com/images/oUpCBEULKUZHqjEV5Uni4MRc2xp1-5ea2klj.jpeg)
 Web3 is the attempt to come full circle in how data is shared by democratizing ownership.
+
+### [63. ‘Pirate’ iTunes Download Site and Three Others Targeted By the RIAA](https://hackernoon.com/pirate-itunes-download-site-and-three-others-targeted-by-the-riaa-fo1p3vjn)
+![](https://images.unsplash.com/photo-1543320777-d4102f7e1aa3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+The RIAA has obtained a DMCA subpoena against Cloudflare in an effort to unmask the operators of several 'pirate' music platforms including one offering iTunes content. The subpoena requires the CDN company to hand over names, addresses and account information of people allegedly behind infringement of tracks by Justin Timberlake, Red Hot Chili Peppers, 
+Selena Gomez and more.
 
 ### [64. John Van Stry Wins Piracy Case, Reducing Damages Claim To $9,000](https://hackernoon.com/john-van-stry-wins-piracy-case-reducing-damages-claim-to-dollar9000-a6f3ued)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRNrx5pnl6RZYIv9etWzhJ84VDNb2-e6j3ubc.jpeg?alt=media&token=58222c98-a5eb-4976-a534-cc9dde30b334)
@@ -274,22 +279,21 @@ claiming to be broke, it remains to be seen whether the amount will ever be reco
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnxtWKMHuO1UKGUbmzmzTuQsBx4H2-ij1v37md.jpeg?alt=media&token=a38beeea-f55f-4453-81ce-18bef6862844)
 However scarce or unknown it may be in the crypto and Blockchain sector, I have never stopped and I have never pulled back, even when even today, in my part, when I talk to him about this technology and of course Bitcoin (BTC), a laugh is what I get.
 
-### [66. ‘Pirate’ iTunes Download Site and Three Others Targeted By the RIAA](https://hackernoon.com/pirate-itunes-download-site-and-three-others-targeted-by-the-riaa-fo1p3vjn)
-![](https://images.unsplash.com/photo-1543320777-d4102f7e1aa3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-The RIAA has obtained a DMCA subpoena against Cloudflare in an effort to unmask the operators of several 'pirate' music platforms including one offering iTunes content. The subpoena requires the CDN company to hand over names, addresses and account information of people allegedly behind infringement of tracks by Justin Timberlake, Red Hot Chili Peppers, 
-Selena Gomez and more.
-
-### [67. Italian Court Orders 'Preventative Measures' Against IPTV Providers](https://hackernoon.com/italian-court-orders-preventative-measures-against-iptv-providers-ay16310h)
+### [66. Italian Court Orders 'Preventative Measures' Against IPTV Providers](https://hackernoon.com/italian-court-orders-preventative-measures-against-iptv-providers-ay16310h)
 ![](https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 An Italian court has ordered 'preventative measures' that requires the websites of 15 'pirate' IPTV providers to be blocked in the country. The complaint was filed by top Italian soccer league Serie A after the IPTV providers reportedly broadcast live matches without permission. How effective the blocks will be remain to be seen, however.
 
-### [68. Proposal to Gab.com and Andrew Torba: Let's Crush "Big Tech" Together](https://hackernoon.com/proposal-to-gabcom-and-andrew-torba-lets-crush-big-tech-together-3e2f33o4)
-![](https://cdn.hackernoon.com/images/gpabZ3ae5AMod6NEaJWlcWwdp7G2-476y13a3.jpeg)
-One of the people in tech that gets an unfair bad rep is Andrew Torba. Infact, I had a Gab account since 2017, and though I am barely active, I don't have many problems with the service.
+### [67. The Illusion of Digital Freedom: Can Web3 Break the Chains of Online Censorship?](https://hackernoon.com/the-illusion-of-digital-freedom-can-web3-break-the-chains-of-online-censorship)
+![](https://cdn.hackernoon.com/images/FCQk117dxbVeF3XsFJpSnseQE372-j033gd1.jpeg)
+Can Web3 dismantle online censorship and restore true digital freedom? Explore the illusion of control and whether decentralization can break the chains.
 
-### [69. 100 Stories To Learn About Online Piracy](https://hackernoon.com/100-stories-to-learn-about-online-piracy)
+### [68. 100 Stories To Learn About Online Piracy](https://hackernoon.com/100-stories-to-learn-about-online-piracy)
 ![](https://cdn.hackernoon.com/images/github/online-piracy-213.png)
 Learn everything you need to know about Online Piracy via these 100 free HackerNoon stories.
+
+### [69. Proposal to Gab.com and Andrew Torba: Let's Crush "Big Tech" Together](https://hackernoon.com/proposal-to-gabcom-and-andrew-torba-lets-crush-big-tech-together-3e2f33o4)
+![](https://cdn.hackernoon.com/images/gpabZ3ae5AMod6NEaJWlcWwdp7G2-476y13a3.jpeg)
+One of the people in tech that gets an unfair bad rep is Andrew Torba. Infact, I had a Gab account since 2017, and though I am barely active, I don't have many problems with the service.
 
 ### [70. The Internet Belongs to Everyone](https://hackernoon.com/the-internet-belongs-to-everyone)
 ![](https://cdn.hackernoon.com/images/dFW9aLMnLpgfjylixlaQdWQLp2C3-f953omh.jpeg)
@@ -300,30 +304,30 @@ Normalizing the behavior of businesses to set the social standards for freedom o
 Media giant ABS-CBN has filed two US lawsuits worth millions of dollars in damages against two men they accuse of supplying pirate IPTV devices to the public. One of the men was arrested earlier this month by Los Angeles 
 Police Department following an undercover sting operation.
 
-### [72. The Subpoena Orders Cloudflare To Hand Over The Identities of Uploaders ](https://hackernoon.com/the-subpoena-orders-cloudflare-to-hand-over-the-identities-of-uploaders-e01031hh)
-![](https://images.unsplash.com/photo-1491198246568-ea47742734b7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Adult movie company AMA Multimedia has obtained a DMCA subpoena from a Washington court to help it track down individuals who uploaded content to various 'tube' sites. The subpoena orders Cloudflare to hand over the identities of uploaders and potentially site operators too but given the way the content seems to be delivered, it remains a question whether the former will be possible.
-
-### [73. From Guy Fawkes to Resistance and Cryptos: A Fight for Freedom](https://hackernoon.com/from-guy-fawkes-to-resistance-and-cryptos-a-fight-for-freedom)
+### [72. From Guy Fawkes to Resistance and Cryptos: A Fight for Freedom](https://hackernoon.com/from-guy-fawkes-to-resistance-and-cryptos-a-fight-for-freedom)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-rw13771.jpeg)
 Do you know why Guy Fawkes masks are symbol of rebellion or even anarchism? Should you wear your own mask too? "Remember, remember, the 5th of November".
 
 
-### [74. Public Dreams: Negotiating a Decentralised Internet](https://hackernoon.com/public-dreams-negotiating-a-decentralized-internet)
+### [73. Public Dreams: Negotiating a Decentralised Internet](https://hackernoon.com/public-dreams-negotiating-a-decentralized-internet)
 ![](https://cdn.hackernoon.com/images/vZKHGrkooTarhUImNHd6CMWOABx1-sw036dz.jpeg)
 Decentralisation is a social engineering structure designed to redistribute power. Who is a decentralised internet for?
+
+### [74. The Subpoena Orders Cloudflare To Hand Over The Identities of Uploaders ](https://hackernoon.com/the-subpoena-orders-cloudflare-to-hand-over-the-identities-of-uploaders-e01031hh)
+![](https://images.unsplash.com/photo-1491198246568-ea47742734b7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Adult movie company AMA Multimedia has obtained a DMCA subpoena from a Washington court to help it track down individuals who uploaded content to various 'tube' sites. The subpoena orders Cloudflare to hand over the identities of uploaders and potentially site operators too but given the way the content seems to be delivered, it remains a question whether the former will be possible.
 
 ### [75. Fake News Vs. Censorship in the Battle for the Internet](https://hackernoon.com/fake-news-vs-censorship-in-the-battle-for-the-internet-u66g33vb)
 ![](https://cdn.hackernoon.com/images/8BkL4mBH5ERipEyGcD01by4nzFT2-j12i35mi.jpeg)
 In 2020, world events like the US general election and COVID-19 pandemic have shown us how both censorship and misinformation can become a political weapon. With lessons learned, how do we balance freedom of speech in 2021? Decentralizing online governance may be the answer.
 
-### [76. Giant Pirate Platform Jetflicks Disguised as Aviation Video Service, US Government Reports](https://hackernoon.com/giant-pirate-platform-jetflicks-disguised-as-aviation-video-service-us-government-reports-rlm3uy2)
-![](https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-After being shut down by the FBI, Jetflicks and associated site iStreamitAll were described by the US Government as two of the largest unauthorized streaming services in the United States. A new filing in the Jetflicks case now reveals that the giant pirate platform ran alongside a fledgling aviation video service that quite literally failed to get off the ground.
-
-### [77. DISH Calls For $9.9m In Damages From Easybox IPTV](https://hackernoon.com/dish-calls-for-dollar99m-in-damages-from-easybox-iptv-9dg3u23)
+### [76. DISH Calls For $9.9m In Damages From Easybox IPTV](https://hackernoon.com/dish-calls-for-dollar99m-in-damages-from-easybox-iptv-9dg3u23)
 ![](https://images.unsplash.com/photo-1547394765-185e1e68f34e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 A lawsuit filed by US broadcaster DISH Network against Easybox IPTV looks set to end with significant cost to the men behind the unlicensed IPTV provider. In a motion for final judgment and permanent injunction, DISH is demanding $9.9m in damages for direct copyright infringement of 66 copyrighted works, broadcast by Easybox without permission.
+
+### [77. Giant Pirate Platform Jetflicks Disguised as Aviation Video Service, US Government Reports](https://hackernoon.com/giant-pirate-platform-jetflicks-disguised-as-aviation-video-service-us-government-reports-rlm3uy2)
+![](https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+After being shut down by the FBI, Jetflicks and associated site iStreamitAll were described by the US Government as two of the largest unauthorized streaming services in the United States. A new filing in the Jetflicks case now reveals that the giant pirate platform ran alongside a fledgling aviation video service that quite literally failed to get off the ground.
 
 ### [78. ApolloTV Streaming App Shuts Down Following ACE Cease-and-Desist Notice](https://hackernoon.com/apollotv-streaming-app-shuts-down-following-ace-cease-and-desist-notice-7z1p3v2i)
 ![](https://images.unsplash.com/photo-1523365280197-f1783db9fe62?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -335,40 +339,40 @@ behind the software, the terms of which he immediately complied with.
 The Watchtower Bible and Tract Society, the supervising body and publisher for the Jehovah’s Witness religious group, is using the DMCA to obtain the identity of a self-proclaimed 'apostate'. In a filing at a New York 
 court, the group demanded that Google should hand over the identity of a person who allegedly uploaded videos of sermons to YouTube without permission.
 
-### [80. VPNs are the Heroes of Our Time](https://hackernoon.com/vpns-are-the-heroes-of-our-time)
+### [80. 149 Stories To Learn About Personal Data](https://hackernoon.com/149-stories-to-learn-about-personal-data)
+![](https://cdn.hackernoon.com/images/github/personal-data-498.png)
+Learn everything you need to know about Personal Data via these 149 free HackerNoon stories.
+
+### [81. VPNs are the Heroes of Our Time](https://hackernoon.com/vpns-are-the-heroes-of-our-time)
 ![](https://cdn.hackernoon.com/images/dFW9aLMnLpgfjylixlaQdWQLp2C3-0h33o5b.jpeg)
 If you don’t like the way social media and other sites track you online ( and even offline), you should try a VPN.
-
-### [81. Judge Asks Author to Consider a Massively Reduced Claim after Suing eBook.bike for Infringement](https://hackernoon.com/judge-asks-author-to-consider-a-massively-reduced-claim-after-suing-ebookbike-for-infringement-nfbh359p)
-![](https://cdn.hackernoon.com/drafts/zww3ymk.png)
-The copyright infringement lawsuit filed by author John van Stry against
-former Pirate Party leader Travis McCrea may be edging closer to financial discomfort.
 
 ### [82. Net Neutrality, the Internet and the Internet Society](https://hackernoon.com/net-neutrality-the-internet-and-the-internet-society)
 ![](https://cdn.hackernoon.com/images/world-wide-web-gdspd3jeoaiz70l5s2gfxsni.png)
 Gain a clear understanding of the Internet and Net Neutrality with comprehensive definitions and explanations.
 
-### [83. Anti-Piracy Chief: Pirated Content is Now Harder to Find in Search Engines](https://hackernoon.com/anti-piracy-chief-pirated-content-is-now-harder-to-find-in-search-engines-0v1o3wgg)
+### [83. Judge Asks Author to Consider a Massively Reduced Claim after Suing eBook.bike for Infringement](https://hackernoon.com/judge-asks-author-to-consider-a-massively-reduced-claim-after-suing-ebookbike-for-infringement-nfbh359p)
+![](https://cdn.hackernoon.com/drafts/zww3ymk.png)
+The copyright infringement lawsuit filed by author John van Stry against
+former Pirate Party leader Travis McCrea may be edging closer to financial discomfort.
+
+### [84. Anti-Piracy Chief: Pirated Content is Now Harder to Find in Search Engines](https://hackernoon.com/anti-piracy-chief-pirated-content-is-now-harder-to-find-in-search-engines-0v1o3wgg)
 ![](https://images.unsplash.com/photo-1585814240392-e35d91ebe5fa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 An anti-piracy memorandum aimed at removing allegedly-infringing content from search engines is beginning to have an effect in Russia. That's 
 according to the chief of the Internet Video Association, an anti-piracy group representing the interests of numerous licensed online video distribution platforms.
 
-### [84. Damned if you do, damned if you don’t: Censorship, Decentralized Networks and Moderation ](https://hackernoon.com/damned-if-you-do-damned-if-you-dont-censorship-decentralized-networks-and-moderation-7d1x3356)
+### [85. Damned if you do, damned if you don’t: Censorship, Decentralized Networks and Moderation ](https://hackernoon.com/damned-if-you-do-damned-if-you-dont-censorship-decentralized-networks-and-moderation-7d1x3356)
 ![](https://cdn.hackernoon.com/images/kCcOgILj0sQb8PPi6clA27E8DZs1-va1y39vh.jpeg)
 The current landscape has given newfound attention to the concept of deplatforming and led many to wonder what the right solution is. 
 
-### [85. ‘Academic’ Torrent Client Hopes to Shake up the Entertainment Industry](https://hackernoon.com/academic-torrent-client-hopes-to-shake-up-the-entertainment-industry-ne1b31tx)
+### [86. Keeping Speech Free: Tools to Improve US Digital Media Literacy and Critical Thinking](https://hackernoon.com/keeping-speech-free-tools-to-improve-us-digital-media-literacy-and-critical-thinking)
+![](https://cdn.hackernoon.com/images/mQUFVAbmqgNLUBs3wXmAoPPpwk22-sb935fs.jpeg)
+Free speech is a pillar stone of democracy, which makes digital media literacy essential for a healthy society. But what is media literacy? 
+
+### [87. ‘Academic’ Torrent Client Hopes to Shake up the Entertainment Industry](https://hackernoon.com/academic-torrent-client-hopes-to-shake-up-the-entertainment-industry-ne1b31tx)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-2s13310x.jpeg)
 Researchers at Delft University of Technology have secured another €3.3 
 million in funding for academic research into the ‘Internet-of-Trust’. The money will in large part be used to continue development on the Tribler BitTorrent client. Professor Johan Pouwelse, who leads the Tribler lab, hopes that the software and underlying technology will shake up the entertainment industry by shifting the balance of power.
-
-### [86. 149 Stories To Learn About Personal Data](https://hackernoon.com/149-stories-to-learn-about-personal-data)
-![](https://cdn.hackernoon.com/images/github/personal-data-498.png)
-Learn everything you need to know about Personal Data via these 149 free HackerNoon stories.
-
-### [87. Keeping Speech Free: Tools to Improve US Digital Media Literacy and Critical Thinking](https://hackernoon.com/keeping-speech-free-tools-to-improve-us-digital-media-literacy-and-critical-thinking)
-![](https://cdn.hackernoon.com/images/mQUFVAbmqgNLUBs3wXmAoPPpwk22-sb935fs.jpeg)
-Free speech is a pillar stone of democracy, which makes digital media literacy essential for a healthy society. But what is media literacy? 
 
 ### [88. MPA Takes Further Action on Pirate Video App TeaTV, Requests Github To Consider 17 U.S. Code](https://hackernoon.com/mpa-takes-further-action-on-pirate-video-app-teatv-requests-github-to-consider-17-us-code-oto3ubj)
 ![](https://images.unsplash.com/photo-1518107616985-bd48230d3b20?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -378,42 +382,42 @@ TeaTV is one of the most popular 'pirate' video apps around, providing ready acc
 ![](https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 After falling into third-party hands the main domain of Kim Dotcom's K.im project is set to be reclaimed. The Isle of Man domain recently expired and was quickly snapped up but, following a dispute process, it could be transferred back to the crypto project in a matter of days. Documents reviewed by TorrentFreak reveal that there was an attempt in December to sell the domain back for $100,000.
 
-### [90. My Open Letter to Jack Dorsey and Everybody on Twitter](https://hackernoon.com/my-open-letter-to-jack-dorsey-and-everybody-on-twitter-f2133uwc)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgpabZ3ae5AMod6NEaJWlcWwdp7G2-v981eoc.png?alt=media&token=ff3a4b7d-05fc-4e87-8801-6c26f910b395)
-Twitter seems like a good product. Even up until the time of this article, I am still using it. However, some questions arise in regards to how Twitter is functioning and even its origin story. 
-
-### [91. DMCA Notices Took Down 14,320 Github Projects in 2019](https://hackernoon.com/dmca-notices-took-down-14320-github-projects-in-2019-7i1o3vlc)
-![](https://images.unsplash.com/photo-1561164517-686f490ee86d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Github has revealed that throughout 2019, the coding hosting platform took down more than 14,300 projects following DMCA complaints. Of the total notices received, only a tiny proportion was contested via counter-notice. Interestingly, the Microsoft-owned platform also reveals that one copyright complaint cannot be detailed as it's the subject of a gagging order.
-
-### [92. Analyzing the Impact of Cloudflare's Disruption on Kiwi Farms Forum Activity and Web Traffic](https://hackernoon.com/analyzing-the-impact-of-cloudflares-disruption-on-kiwi-farms-forum-activity-and-web-traffic)
+### [90. Analyzing the Impact of Cloudflare's Disruption on Kiwi Farms Forum Activity and Web Traffic](https://hackernoon.com/analyzing-the-impact-of-cloudflares-disruption-on-kiwi-farms-forum-activity-and-web-traffic)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-s70386t.png)
 We analyze the impact of Cloudflare's DDoS prevention removal on Kiwi Farms, tracking web traffic spikes, disruptions, and forum recovery across six months in 2
 
-### [93. Texas Court Orders Easybox IPTV to Pay $9.9m in Copyright Infringement Damages](https://hackernoon.com/texas-court-orders-easybox-iptv-to-pay-dollar99m-in-copyright-infringement-damages-t4m3uxx)
+### [91. My Open Letter to Jack Dorsey and Everybody on Twitter](https://hackernoon.com/my-open-letter-to-jack-dorsey-and-everybody-on-twitter-f2133uwc)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgpabZ3ae5AMod6NEaJWlcWwdp7G2-v981eoc.png?alt=media&token=ff3a4b7d-05fc-4e87-8801-6c26f910b395)
+Twitter seems like a good product. Even up until the time of this article, I am still using it. However, some questions arise in regards to how Twitter is functioning and even its origin story. 
+
+### [92. DMCA Notices Took Down 14,320 Github Projects in 2019](https://hackernoon.com/dmca-notices-took-down-14320-github-projects-in-2019-7i1o3vlc)
+![](https://images.unsplash.com/photo-1561164517-686f490ee86d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Github has revealed that throughout 2019, the coding hosting platform took down more than 14,300 projects following DMCA complaints. Of the total notices received, only a tiny proportion was contested via counter-notice. Interestingly, the Microsoft-owned platform also reveals that one copyright complaint cannot be detailed as it's the subject of a gagging order.
+
+### [93. OpenVPN is Open to VPN Fingerprinting: Acknowledgement and References](https://hackernoon.com/openvpn-is-open-to-vpn-fingerprinting-acknowledgement-and-references)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-h2030jg.jpeg)
+This research outlines methods to fingerprint OpenVPN traffic, achieving 85% accuracy, raising concerns about VPN blockability and countermeasures.
+
+### [94. Texas Court Orders Easybox IPTV to Pay $9.9m in Copyright Infringement Damages](https://hackernoon.com/texas-court-orders-easybox-iptv-to-pay-dollar99m-in-copyright-infringement-damages-t4m3uxx)
 ![](https://images.unsplash.com/photo-1505330622279-bf7d7fc918f4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 A judge at a Texas court has ordered two individuals behind the pirate IPTV service Easybox IPTV to pay $9.9m in copyright infringement damages. In a judgment handed down this week, the judge awarded the maximum $150,000 in statutory damages for each of 66 copyrighted works willfully infringed by the defendants via their unlicensed streaming platform.
 
-### [94. Doom Eternal Debacle May Have Dismantled Denuvo DRM on Debut Day](https://hackernoon.com/doom-eternal-debacle-may-have-dismantled-denuvo-drm-on-debut-day-xa1o3v0w)
+### [95. Doom Eternal Debacle May Have Dismantled Denuvo DRM on Debut Day](https://hackernoon.com/doom-eternal-debacle-may-have-dismantled-denuvo-drm-on-debut-day-xa1o3v0w)
 ![](https://images.unsplash.com/photo-1554854044-80ab1a40e12b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 In what appears to be a monumental screw-up somewhere in the game's supply chain, the Denuvo anti-tamper technology deployed on Doom Eternal may have already been compromised. Early purchasers of the game discovered a folder in the game's directory containing an .exe file that can be used to replace the original one protected by Denuvo.
 
-### [95. What Type of Anti-Piracy Campaign Is More Likely to Work on Infringers?](https://hackernoon.com/what-type-of-anti-piracy-campaign-is-more-likely-to-work-on-infringers-k71x3vjh)
+### [96. What Type of Anti-Piracy Campaign Is More Likely to Work on Infringers?](https://hackernoon.com/what-type-of-anti-piracy-campaign-is-more-likely-to-work-on-infringers-k71x3vjh)
 ![](https://images.unsplash.com/photo-1559526324-c1f275fbfa32?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 There have been dozens of anti-piracy campaigns over the years but which ones are more likely to work on illicit consumers? According to some of the findings in a government report published in the UK this week, different approaches may be needed to convince both casual and savvy pirates to stop or reduce their activities.
 
-### [96. When the Internet Outgrows Earth: SpaceCoin and the Future of Off-World Communication](https://hackernoon.com/when-the-internet-outgrows-earth-spacecoin-and-the-future-of-off-world-communication)
-![](https://cdn.hackernoon.com/images/63zm8eNzzcchoQsQYyG63ysmVyz1-xo43bx5.png)
-The current internet was designed for Earth. Space doesn't work that way.
+### [97. Lawsuit Filed Against BitTorrent, The Company Accused of Illegal Profiting](https://hackernoon.com/lawsuit-filed-against-bittorrent-the-company-accused-of-illegal-profiting-7kg3uk5)
+![](https://images.unsplash.com/photo-1479920252409-6e3d8e8d4866?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+A lawsuit filed against BitTorrent owner Rainberry Inc, TRON Foundation's Justin Sun, and one of his colleagues, is based in employment law. However, the allegations it contains could pique interest in Hollywood, with claims that movies including The Lion King were involved in a "fraudulent scheme" to "make a profit from the illegal piracy of those materials."
 
-### [97. As UK Pirates Swarm to Live Sports & Movies, Hardcore Pirates Diminish](https://hackernoon.com/as-uk-pirates-swarm-to-live-sports-and-movies-hardcore-pirates-diminish-4y1o3vj1)
+### [98. As UK Pirates Swarm to Live Sports & Movies, Hardcore Pirates Diminish](https://hackernoon.com/as-uk-pirates-swarm-to-live-sports-and-movies-hardcore-pirates-diminish-4y1o3vj1)
 ![](https://images.unsplash.com/photo-1550645612-83f5d594b671?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The UK's Intellectual Property Office has published the latest edition of its 
 Online Copyright Infringement Tracker report. Illicit consumption of movies increased considerably over the previous period, with a new category of live sports leaping almost to the top of the infringement tables. Interestingly, the report also highlights a significant decrease in hardcore pirates.
-
-### [98. Lawsuit Filed Against BitTorrent, The Company Accused of Illegal Profiting](https://hackernoon.com/lawsuit-filed-against-bittorrent-the-company-accused-of-illegal-profiting-7kg3uk5)
-![](https://images.unsplash.com/photo-1479920252409-6e3d8e8d4866?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-A lawsuit filed against BitTorrent owner Rainberry Inc, TRON Foundation's Justin Sun, and one of his colleagues, is based in employment law. However, the allegations it contains could pique interest in Hollywood, with claims that movies including The Lion King were involved in a "fraudulent scheme" to "make a profit from the illegal piracy of those materials."
 
 ### [99. Cloudflare Agrees to Stop Caching Pirate Content in Japan, If Court Declares Sites Illegal](https://hackernoon.com/cloudflare-agrees-to-stop-caching-pirate-content-in-japan-if-court-declares-sites-illegal-tl1o3vup)
 ![](https://images.unsplash.com/photo-1523537444585-432d2bacc10d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -421,13 +425,13 @@ In 2018, four of Japan's largest manga publishers filed a motion at a Tokyo cour
 sites, including Mangamura replacement Hoshinoromi. The companies now reveal that a settlement has been reached with Cloudflare to "stop the 
 replication" of the sites on its Japan-based servers, if a court declares them illegal.
 
-### [100. OpenVPN is Open to VPN Fingerprinting: Acknowledgement and References](https://hackernoon.com/openvpn-is-open-to-vpn-fingerprinting-acknowledgement-and-references)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-h2030jg.jpeg)
-This research outlines methods to fingerprint OpenVPN traffic, achieving 85% accuracy, raising concerns about VPN blockability and countermeasures.
-
-### [101. Christian Rapper Who Filed Lawsuit Against Katy Perry Gets an Infringement Complaint](https://hackernoon.com/christian-rapper-who-filed-lawsuit-against-katy-perry-gets-an-infringement-complaint-jin3ult)
+### [100. Christian Rapper Who Filed Lawsuit Against Katy Perry Gets an Infringement Complaint](https://hackernoon.com/christian-rapper-who-filed-lawsuit-against-katy-perry-gets-an-infringement-complaint-jin3ult)
 ![](https://images.unsplash.com/photo-1567443024551-f3e3cc2be870?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Katy Perry's writers lost a $2.8m lawsuit against Christian rapper Flame last year over the use of a handful of notes. Musician Adam Neely published a hit video on YouTube slamming the lawsuit but in a bizarre twist, Perry's publisher Warner Chappell has now filed an infringement complaint against Neely. Not only have they claimed all of the advertising revenue from his video, they've turned the entire matter into an unbelievable trainwreck.
+
+### [101. Censorship, Surveillance, and the Splinternet: Why We Need a Decentralized Web](https://hackernoon.com/censorship-surveillance-and-the-splinternet-why-we-need-a-decentralized-web)
+![](https://cdn.hackernoon.com/images/an-interconnected-network-of-computers-x1k7v25g89z50xzn2svxng55.png)
+What if the internet was owned by everyone, not just a few? Get to know how blockchain, privacy and user ownership are shaping the internet of the future.
 
 ### [102. AMD Uses DMCA to Mitigate Massive GPU Source Code Leak (Updated)](https://hackernoon.com/amd-uses-dmca-to-mitigate-massive-gpu-source-code-leak-updated-y21h3wx5)
 ![](https://images.unsplash.com/photo-1514168757508-07ffe9ae125b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -435,79 +439,79 @@ AMD has filed at least two DMCA notices against Github repos that carried
 "stolen" source code relating to AMD's Navi and Arden GPUs, the latter being the processor for the upcoming Xbox Series X. The person claiming 
 responsibility for the leak informs TorrentFreak that if they doesn't get a buyer for the remainder of the code, they will dump the whole lot online.
 
-### [103. Censorship, Surveillance, and the Splinternet: Why We Need a Decentralized Web](https://hackernoon.com/censorship-surveillance-and-the-splinternet-why-we-need-a-decentralized-web)
-![](https://cdn.hackernoon.com/images/an-interconnected-network-of-computers-x1k7v25g89z50xzn2svxng55.png)
-What if the internet was owned by everyone, not just a few? Get to know how blockchain, privacy and user ownership are shaping the internet of the future.
-
-### [104. Internet Archive’s National Emergency Library is “Vile” Says Copyright Alliance](https://hackernoon.com/internet-archives-national-emergency-library-is-vile-says-copyright-alliance-n61h3wli)
+### [103. Internet Archive’s National Emergency Library is “Vile” Says Copyright Alliance](https://hackernoon.com/internet-archives-national-emergency-library-is-vile-says-copyright-alliance-n61h3wli)
 ![](https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Last week the Internet Archive responded to the coronavirus outbreak by offering a new service to "displaced learners". Combining scanned books from three libraries, the Archive offered unlimited borrowing of 1.4 million 
 books, so that people can continue reading while in quarantine. What 
 followed was a huge backlash from publishing and pro-copyright groups, 
 with the Copyright Alliance decribing the actions of IA's operator as "particularly vile."
 
-### [105. The HackerNoon Newsletter: China and Vietnam May Have Cracked The Perfect Recipe for Digital Complacency (11/30/2024)](https://hackernoon.com/11-30-2024-newsletter)
+### [104. The HackerNoon Newsletter: China and Vietnam May Have Cracked The Perfect Recipe for Digital Complacency (11/30/2024)](https://hackernoon.com/11-30-2024-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_991_bpndkgjb910icn9b0auhlsfh.png)
 11/30/2024: Top 5 stories on the HackerNoon homepage!
 
-### [106. 158 Stories To Learn About News](https://hackernoon.com/158-stories-to-learn-about-news)
+### [105. 158 Stories To Learn About News](https://hackernoon.com/158-stories-to-learn-about-news)
 ![](https://cdn.hackernoon.com/images/github/news-576.png)
 Learn everything you need to know about News via these 158 free HackerNoon stories.
 
-### [107. Facebook Deems Copyright Misuse As One of the Site's Major Threats](https://hackernoon.com/facebook-deems-copyright-misuse-as-one-of-the-sites-major-threats-mh1c312e)
+### [106. Facebook Deems Copyright Misuse As One of the Site's Major Threats](https://hackernoon.com/facebook-deems-copyright-misuse-as-one-of-the-sites-major-threats-mh1c312e)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-i3k310j.jpeg)
 Facebook says that it takes abuse and misuse of its 'Rights Manager' system very seriously. The company sees this type of abuse as one of its main challenges and it spends a lot of time making sure that legitimate content isn't blocked. The social media giant made these statements in a recent "Article 17" stakeholder meeting at the EU Commission.
 
-### [108. Decentralization vs. Digital Empires: Can We Escape the Algorithmic Gatekeepers?](https://hackernoon.com/decentralization-vs-digital-empires-can-we-escape-the-algorithmic-gatekeepers)
-![](https://cdn.hackernoon.com/images/mOjW7clshAgZGvtyMxZE7RuHbG82-bm03g5w.jpeg)
-Exploring the clash between decentralization and digital empires — can we escape algorithmic gatekeepers and reclaim control over the web?
-
-### [109. The Future of Information Freedom Might Be 550 Kilometers Above Earth](https://hackernoon.com/the-future-of-information-freedom-might-be-550-kilometers-above-earth)
-![](https://cdn.hackernoon.com/images/kpaucdntXyQkMkVYJ5wxyyjln9a2-vl03bhk.webp)
-Spacecoin’s satellite network aims to end internet censorship by taking information freedom beyond Earth’s borders.
-
-### [110. ACE Scalps Ulango TV App Seizing Domain](https://hackernoon.com/ace-scalps-ulango-tv-app-seizing-domain-bdx31x0)
+### [107. ACE Scalps Ulango TV App Seizing Domain](https://hackernoon.com/ace-scalps-ulango-tv-app-seizing-domain-bdx31x0)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRNrx5pnl6RZYIv9etWzhJ84VDNb2-s81c28b4.jpeg?alt=media&token=6e4d1d11-c5d5-4dad-b7c2-56f6168cb040)
 The Alliance for Creativity and Entertainment has claimed another scalp in the 'pirate' IPTV space. The UlangoTV app provided free access to thousands of unlicensed TV streams but there was also an option to pay for more reliable content. Today, however, its clear it is unlikely to be 
 returning after its domain was taken over by the global anti-piracy coalition.
 
-### [111. Checks, Balances, and Freedom: Censorship vs The Internet](https://hackernoon.com/checks-balances-and-freedom-censorship-vs-the-internet)
+### [108. Checks, Balances, and Freedom: Censorship vs The Internet](https://hackernoon.com/checks-balances-and-freedom-censorship-vs-the-internet)
 ![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-ke13orj.jpeg)
 Who wins in the battle of the internet and freedom of speech? 🥊 Amy Tom, Ellen Stevens, and Zaeem Shoaib chat about censorship and the internet. We all know tha
 
-### [112. Cloudflare Displaying Rare 'Error 451' to German Visitors, Deny Access to a Music Piracy Site](https://hackernoon.com/cloudflare-displaying-rare-error-451-to-german-visitors-deny-access-to-a-music-piracy-site-7am3u7o)
+### [109. Cloudflare Displaying Rare 'Error 451' to German Visitors, Deny Access to a Music Piracy Site](https://hackernoon.com/cloudflare-displaying-rare-error-451-to-german-visitors-deny-access-to-a-music-piracy-site-7am3u7o)
 ![](https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 CDN company Cloudflare is displaying an extremely rare 'Error 451' to German visitors who attempt to access a music piracy site. The message currently affecting DDL-Music.to states that the site has been rendered "Unavailable for Legal Reasons'. Contrary to Cloudflare's own error code guide, no explanatory legal demand specifics have been published.
 
-### [113. 130 Stories To Learn About Copyright](https://hackernoon.com/130-stories-to-learn-about-copyright)
+### [110. 130 Stories To Learn About Copyright](https://hackernoon.com/130-stories-to-learn-about-copyright)
 ![](https://cdn.hackernoon.com/images/github/copyright-729.png)
 Learn everything you need to know about Copyright via these 130 free HackerNoon stories.
 
-### [114. The Art of War: Tutorial For Pirate Sites Owners And Their Antagonists](https://hackernoon.com/the-art-of-war-tutorial-for-pirate-sites-owners-and-their-antagonists-ue21312h)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRNrx5pnl6RZYIv9etWzhJ84VDNb2-046328ug.jpeg?alt=media&token=2fbb5b2e-0c70-4690-94b1-8b921ea54452)
-There have been countless anti-piracy strategies deployed over the years and pirates have deployed their own in response. In the end, the parties "at war" aren't so different and may even benefit from the same techniques. The most fundamental ones aren't new either, having been around for at least 2,500 years.
-
-### [115. The Net Neutrality Debate: Content Charges, Fast Lanes, and ISP Content Providers](https://hackernoon.com/the-net-neutrality-debate-content-charges-fast-lanes-and-isp-content-providers)
+### [111. The Net Neutrality Debate: Content Charges, Fast Lanes, and ISP Content Providers](https://hackernoon.com/the-net-neutrality-debate-content-charges-fast-lanes-and-isp-content-providers)
 ![](https://cdn.hackernoon.com/images/the-internet-mdbxshgl0whz5lriqwfmk7b4.png)
 Explore the ongoing debate surrounding Net Neutrality, covering content-based subscriptions, "fast lanes," ISP content providers, and international ISPs. 
 
-### [116. Net Neutrality: Balancing ISP Power for a Fair Internet](https://hackernoon.com/net-neutrality-balancing-isp-power-for-a-fair-internet)
+### [112. The Art of War: Tutorial For Pirate Sites Owners And Their Antagonists](https://hackernoon.com/the-art-of-war-tutorial-for-pirate-sites-owners-and-their-antagonists-ue21312h)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRNrx5pnl6RZYIv9etWzhJ84VDNb2-046328ug.jpeg?alt=media&token=2fbb5b2e-0c70-4690-94b1-8b921ea54452)
+There have been countless anti-piracy strategies deployed over the years and pirates have deployed their own in response. In the end, the parties "at war" aren't so different and may even benefit from the same techniques. The most fundamental ones aren't new either, having been around for at least 2,500 years.
+
+### [113. Net Neutrality: Balancing ISP Power for a Fair Internet](https://hackernoon.com/net-neutrality-balancing-isp-power-for-a-fair-internet)
 ![](https://cdn.hackernoon.com/images/world-wide-web-ntbw6vglcyubjim2e7msh268.png)
 Discover the research-backed argument for regulating ISPs to protect the Virtuous Cycle of innovation on the Internet.
+
+### [114. The Future of Internet: Why SpaceCoin’s Decentralized Internet Model Matters](https://hackernoon.com/the-future-of-internet-why-spacecoins-decentralized-internet-model-matters)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-g5020kk.jpeg)
+Internet's centralization creates three serious risks at once—censorship, weak connectivity, and poor resilience in internet networks.
+
+### [115. Man Who Sold Pirate IPTV Must Pay £521,000 or Face Five More Years in Prison](https://hackernoon.com/man-who-sold-pirate-iptv-must-pay-pound521000-or-face-five-more-years-in-prison-i11o3v75)
+![](https://images.unsplash.com/photo-1501250987900-211872d97eaa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+A man who was sentenced in 2018 to 4.5 years in prison for selling pirate IPTV devices to pubs and clubs has been ordered to pay £520,000 to the public purse. Failure to come up with the funds will result in John Dodds 
+having his prison sentence extended by an additional five years. The Premier League, which brought the action, welcomed the judgment.
+
+### [116. Activision Subpoenas Ordering a DMCA for Reddit, to Recognize a Modern Warfare's Warzone Leaker](https://hackernoon.com/activision-subpoenas-ordering-a-dmca-for-reddit-to-recognize-a-modern-warfares-warzone-leaker-2mm3uc5)
+![](https://images.unsplash.com/photo-1542744095-0d53267d353e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+In response to the many Call of Duty Warzone leaks appearing online, Activision has been filing aggressive takedowns on copyright grounds. According to documents obtained by TorrentFreak, the gaming giant has also obtained a DMCA subpoena from a US court, which compels Reddit to hand over the personal details of a user who allegedly posted a leaked image to the site.
 
 ### [117. Big Movie Studios Handed a Site-Blocking Injunction Against 86 Piracy Sites](https://hackernoon.com/big-movie-studios-handed-a-site-blocking-injunction-against-86-piracy-sites-e493u4l)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRNrx5pnl6RZYIv9etWzhJ84VDNb2-z3d3uaj.jpeg?alt=media&token=446750f5-8a79-4e10-a8b1-d821419f9d91)
 A judge at the Federal Court of Australia has handed down a site-blocking 
 injunction against 86 piracy-related sites accessible from 115 domains. The application, filed by the MPA including Netflix, plus Roadshow Films and several other studios, targets torrent sites, streaming portals, subtitle sites, and various related unblocking/proxy platforms. All must be rendered inaccessible by 50 local ISPs.
 
-### [118. Man Who Sold Pirate IPTV Must Pay £521,000 or Face Five More Years in Prison](https://hackernoon.com/man-who-sold-pirate-iptv-must-pay-pound521000-or-face-five-more-years-in-prison-i11o3v75)
-![](https://images.unsplash.com/photo-1501250987900-211872d97eaa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-A man who was sentenced in 2018 to 4.5 years in prison for selling pirate IPTV devices to pubs and clubs has been ordered to pay £520,000 to the public purse. Failure to come up with the funds will result in John Dodds 
-having his prison sentence extended by an additional five years. The Premier League, which brought the action, welcomed the judgment.
+### [118. When the Internet Outgrows Earth: SpaceCoin and the Future of Off-World Communication](https://hackernoon.com/when-the-internet-outgrows-earth-spacecoin-and-the-future-of-off-world-communication)
+![](https://cdn.hackernoon.com/images/63zm8eNzzcchoQsQYyG63ysmVyz1-xo43bx5.png)
+The current internet was designed for Earth. Space doesn't work that way.
 
-### [119. Activision Subpoenas Ordering a DMCA for Reddit, to Recognize a Modern Warfare's Warzone Leaker](https://hackernoon.com/activision-subpoenas-ordering-a-dmca-for-reddit-to-recognize-a-modern-warfares-warzone-leaker-2mm3uc5)
-![](https://images.unsplash.com/photo-1542744095-0d53267d353e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-In response to the many Call of Duty Warzone leaks appearing online, Activision has been filing aggressive takedowns on copyright grounds. According to documents obtained by TorrentFreak, the gaming giant has also obtained a DMCA subpoena from a US court, which compels Reddit to hand over the personal details of a user who allegedly posted a leaked image to the site.
+### [119. YTS Claim Makes It More Obvious That Pirates Should Be Vigilant](https://hackernoon.com/yts-claim-makes-it-more-obvious-that-pirates-should-be-vigilant-0pi3u8d)
+![](https://images.unsplash.com/photo-1527689368864-3a821dbccc34?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+One of the most common recurring questions in respect of downloading, sharing and even streaming, is whether service X or platform Y is 'safe' to use, from a copyright-infringement perspective. Recent developments show that no matter how safe users think they are, security is something that should never be taken for granted.
 
 ### [120. ACE Coalition Seizes Four More ‘Pirate’ IPTV Domains](https://hackernoon.com/ace-coalition-seizes-four-more-pirate-iptv-domains-le1o3vcz)
 ![](https://images.unsplash.com/photo-1531432628802-0147522314a9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -521,50 +525,50 @@ This week visitors to pirate music site DDL-Music were greeted with a rare 'Erro
 ![](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Two men who sold piracy-configured set-top boxes and coached the public on how to use them to access infringing content have been sentenced to one-year prison terms under the Fraud Act, suspended for two years. The pair, who supplied 'BlackBox.tv' devices, must also do 120 hours of unpaid work.
 
-### [123. The Future of Internet: Why SpaceCoin’s Decentralized Internet Model Matters](https://hackernoon.com/the-future-of-internet-why-spacecoins-decentralized-internet-model-matters)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-g5020kk.jpeg)
-Internet's centralization creates three serious risks at once—censorship, weak connectivity, and poor resilience in internet networks.
-
-### [124. Anime Fans Find ‘Pirate’ Subtitles in Netflix Streams of City Hunter](https://hackernoon.com/anime-fans-find-pirate-subtitles-in-netflix-streams-of-city-hunter-iz1s3wom)
+### [123. Anime Fans Find ‘Pirate’ Subtitles in Netflix Streams of City Hunter](https://hackernoon.com/anime-fans-find-pirate-subtitles-in-netflix-streams-of-city-hunter-iz1s3wom)
 ![](https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Netflix subscribers in France shared a wry smile over the weekend when a 
 screenshot from the anime movie City Hunter was shared on Twitter. The 
 screenshot revealed that the subtitles hadn't been obtained from an official supplier. Instead, they were apparently culled from a 'pirate' file distributed by an IRC channel specializing in anime content, one that could've been dead for some time.
 
-### [125. Another Lawfirm Sues 'Copyright Troll' Malibu Media](https://hackernoon.com/another-lawfirm-sues-copyright-troll-malibu-media-sn1431jk)
+### [124. Another Lawfirm Sues 'Copyright Troll' Malibu Media](https://hackernoon.com/another-lawfirm-sues-copyright-troll-malibu-media-sn1431jk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRNrx5pnl6RZYIv9etWzhJ84VDNb2-fb462847.jpeg?alt=media&token=9502d777-33d2-42b9-8ff5-f632866e6c11)
 A law firm hired by notorious 'copyright troll' outfit Malibu Media is suing the company over breach of contract and unpaid bills. According to a lawsuit filed this week by The Lomnitzer Law Firm, Malibu 'circumvented' an agreement between the companies by hiring other attorneys to conduct litigation. The law firm is also demanding that Malibu pay more than $280K to settle its debts with the company.
 
-### [126. The Future of the Internet is Community Driven](https://hackernoon.com/the-future-of-the-internet-is-community-driven)
+### [125. The Future of the Internet is Community Driven](https://hackernoon.com/the-future-of-the-internet-is-community-driven)
 ![](https://cdn.hackernoon.com/images/a-network-of-interconnected-computers-which-serve-as-nodes-in-space-jkhktqfatpml262unfqlt3ig.png)
 Discover how the decentralized internet puts power back in users' hands—boosting privacy, cutting out middlemen, and redefining the digital future.
 
-### [127. Jetflick Piracy Trial Experiencing Delay After Canadian Govt Hands Over The Evidence](https://hackernoon.com/jetflick-piracy-trial-experiencing-delay-after-canadian-govt-hands-over-the-evidence-9u173118)
+### [126. Jetflick Piracy Trial Experiencing Delay After Canadian Govt Hands Over The Evidence](https://hackernoon.com/jetflick-piracy-trial-experiencing-delay-after-canadian-govt-hands-over-the-evidence-9u173118)
 ![](https://images.unsplash.com/photo-1542744173-05336fcc7ad4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The trial of six defendants who allegedly operated the 'pirate' streaming service Jetflicks will now take place in July 2020. The delay is in response to Canadian authorities handing over masses of discovery data, including subscriber information and support tickets of the defunct service. The original request for information was made around 22 months ago.
 
-### [128. New Anti-Piracy Campaign Piles On The Scare Tactics But Who’s Scared?](https://hackernoon.com/new-anti-piracy-campaign-piles-on-the-scare-tactics-but-whos-scared-n91l3v8i)
+### [127. New Anti-Piracy Campaign Piles On The Scare Tactics But Who’s Scared?](https://hackernoon.com/new-anti-piracy-campaign-piles-on-the-scare-tactics-but-whos-scared-n91l3v8i)
 ![](https://images.unsplash.com/photo-1523861751938-121b5323b48b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Yet another major anti-piracy campaign launched last week declaring that visiting pirate sites exposes passwords, photos, plus financial and medical 
 records to criminals intent on ruining people's lives. This scare tactic approach is gaining momentum around the globe, with claims that it has a positive effect on the public. But does it, or should it, really?
 
-### [129. YTS Claim Makes It More Obvious That Pirates Should Be Vigilant](https://hackernoon.com/yts-claim-makes-it-more-obvious-that-pirates-should-be-vigilant-0pi3u8d)
-![](https://images.unsplash.com/photo-1527689368864-3a821dbccc34?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-One of the most common recurring questions in respect of downloading, sharing and even streaming, is whether service X or platform Y is 'safe' to use, from a copyright-infringement perspective. Recent developments show that no matter how safe users think they are, security is something that should never be taken for granted.
-
-### [130. How MalwareBytes Once Blocked Pirate Bay Service](https://hackernoon.com/how-malwarebytes-once-blocked-pirate-bay-service-6c2f33jn)
+### [128. How MalwareBytes Once Blocked Pirate Bay Service](https://hackernoon.com/how-malwarebytes-once-blocked-pirate-bay-service-6c2f33jn)
 ![](https://cdn.hackernoon.com/drafts/uz103y9x.png)
 MalwareBytes persistently blocked an essential element of the Pirate Bay platform due to the presence of "a few" cryptocurrency miners on a secondary domain.
 
-### [131. Why Did Kendall Jenner Get Sued For Using a Video of Herself?](https://hackernoon.com/why-did-kendall-jenner-get-sued-for-using-a-video-of-herself-9y2q311r)
+### [129. Why Did Kendall Jenner Get Sued For Using a Video of Herself?](https://hackernoon.com/why-did-kendall-jenner-get-sued-for-using-a-video-of-herself-9y2q311r)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-1og31jq.jpeg)
 Model Kendall Jenner generates considerable sums from her Instagram account but according to a lawsuit filed in California, not all of that is 
 raised legally. The complaint states that Jenner obtained a video of herself taken by a third-party and posted it on Instagram, in breach of copyright law. After gaining almost 23 million views, the owner now wants up to $150,000 in damages.
 
-### [132. Man Who Leaked Pre-Release Movies Online Sentenced to 27 Months Prison](https://hackernoon.com/man-who-leaked-pre-release-movies-online-sentenced-to-27-months-prison-8g1j3vtj)
+### [130. Man Who Leaked Pre-Release Movies Online Sentenced to 27 Months Prison](https://hackernoon.com/man-who-leaked-pre-release-movies-online-sentenced-to-27-months-prison-8g1j3vtj)
 ![](https://images.unsplash.com/photo-1589828515228-4264966889df?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 A UK man who leaked pre-release movies online has been sentenced to 27 months in prison after pleading to one count of conspiracy to defraud. Malik Luqman Farooq of Halifax was part of a group that obtained copies of movies from a post-production company in the United States. In 2018, 
 Farooq was indicted by a federal grand jury in a related case that is yet to go to trial the US.
+
+### [131. The Future of Information Freedom Might Be 550 Kilometers Above Earth](https://hackernoon.com/the-future-of-information-freedom-might-be-550-kilometers-above-earth)
+![](https://cdn.hackernoon.com/images/kpaucdntXyQkMkVYJ5wxyyjln9a2-vl03bhk.webp)
+Spacecoin’s satellite network aims to end internet censorship by taking information freedom beyond Earth’s borders.
+
+### [132. Decentralization vs. Digital Empires: Can We Escape the Algorithmic Gatekeepers?](https://hackernoon.com/decentralization-vs-digital-empires-can-we-escape-the-algorithmic-gatekeepers)
+![](https://cdn.hackernoon.com/images/mOjW7clshAgZGvtyMxZE7RuHbG82-bm03g5w.jpeg)
+Exploring the clash between decentralization and digital empires — can we escape algorithmic gatekeepers and reclaim control over the web?
 
 ### [133. YouTube Refuses to Process DMCA Counternotice for ‘Creepy Bugs’ Cartoon](https://hackernoon.com/youtube-refuses-to-process-dmca-counternotice-for-creepy-bugs-cartoon-9c1o3w59)
 ![](https://images.unsplash.com/photo-1543185377-99cd16011803?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -574,48 +578,48 @@ An artist who uploaded a parody cartoon to YouTube and received a strike against
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-tmg31ze.jpeg)
 A woman who uploaded one of her own photographs to print-on-demand site RedBubble says she has been hit with a takedown notice by Disney. The photograph, which features the 107-year-old The Little Mermaid statue in Copenhagen, apparently violates Disney's rights. According to a copy of the complaint, the statue depicts one of "Disney's Princesses".
 
-### [135. WEF 2023 Summary: Metaverse Control, Online Censorship, and Financial Centralization](https://hackernoon.com/wef-2023-summary-metaverse-control-online-censorship-and-financial-centralization)
+### [135. Centralization Is Not Evil, It Is Just Outdated](https://hackernoon.com/centralization-is-not-evil-it-is-just-outdated)
+![](https://cdn.hackernoon.com/images/oHWbkjMF6ITjTbWtdfKWfrAExQv1-ni127h7.jpeg)
+A shift to a decentralized internet may not be easy but it is happening.
+
+### [136. WEF 2023 Summary: Metaverse Control, Online Censorship, and Financial Centralization](https://hackernoon.com/wef-2023-summary-metaverse-control-online-censorship-and-financial-centralization)
 ![](https://cdn.hackernoon.com/images/world-leaders-share-continental-breakfast-at-the-roundtable-and-decide-for-the-masses-about-how-they-should-live-cle3dhafh000101s6dsrzfbx2.png)
 WEF 2023 Summary: The Urgent Need to Control the Internet, Censor Information, and Centralize Finance
 
-### [136. Viral Headbutt Video Taken Down Following Gogus Copyright Complaints](https://hackernoon.com/viral-headbutt-video-taken-down-following-gogus-copyright-complaints-26h3ubz)
+### [137. Solar and Internet from Space: The Future of Global Connectivity and Energy Supply](https://hackernoon.com/solar-and-internet-from-space-the-future-of-global-connectivity-and-energy-supply)
+![](https://cdn.hackernoon.com/images/SjNRREERAjTChaJIcV0kXGGBApY2-4y029cd.png)
+A broken promise leads to a bigger story: how unreliable power and internet silence voices, and why spacetech may hold the key to global connectivity.
+
+### [138. Viral Headbutt Video Taken Down Following Gogus Copyright Complaints](https://hackernoon.com/viral-headbutt-video-taken-down-following-gogus-copyright-complaints-26h3ubz)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRNrx5pnl6RZYIv9etWzhJ84VDNb2-e4k3u03.jpeg?alt=media&token=4f791e2d-9cc7-4bca-b0a1-0d34ea8b34f9)
 A man from the US became a hero last year when a video of him subduing a man who had headbutted someone in the face went viral. The video has been reposted numerous times since but is regularly taken down following 
 bogus copyright complaints. However, the censorship efforts massively 
 backfired this week when someone tried to delete a Reddit thread using a DMCA anti-circumvention notice. Duh...
-
-### [137. US Congress Starts on New Copyright-Focused Initiative](https://hackernoon.com/us-congress-starts-on-new-copyright-focused-initiative-znp3u1y)
-![](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-A new copyright-focused initiative has got underway in the Senate Judiciary Subcommittee on Intellectual Property. Its goal is to evaluate the 22-year-old Digital Millennium Copyright Act with a view to modernizing the legislation to better deal with today's Internet following the dramatic changes of the last two decades.
-
-### [138. Centralization Is Not Evil, It Is Just Outdated](https://hackernoon.com/centralization-is-not-evil-it-is-just-outdated)
-![](https://cdn.hackernoon.com/images/oHWbkjMF6ITjTbWtdfKWfrAExQv1-ni127h7.jpeg)
-A shift to a decentralized internet may not be easy but it is happening.
 
 ### [139. French ISPs Block Dozens of Pirate Sites Following Movie Industry Action](https://hackernoon.com/french-isps-block-dozens-of-pirate-sites-following-movie-industry-action-er2x3via)
 ![](https://images.unsplash.com/photo-1541336744128-c4b211d13087?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 For several weeks, French Internet users have reported difficulty accessing dozens of unlicensed streaming and torrent sites. It now transpires that 
 following legal action by several movie industry groups, a Paris court handed down a ruling ordering some of the country's top ISPs to prevent their customers from accessing around 36 platforms.
 
-### [140. Solar and Internet from Space: The Future of Global Connectivity and Energy Supply](https://hackernoon.com/solar-and-internet-from-space-the-future-of-global-connectivity-and-energy-supply)
-![](https://cdn.hackernoon.com/images/SjNRREERAjTChaJIcV0kXGGBApY2-4y029cd.png)
-A broken promise leads to a bigger story: how unreliable power and internet silence voices, and why spacetech may hold the key to global connectivity.
+### [140. US Congress Starts on New Copyright-Focused Initiative](https://hackernoon.com/us-congress-starts-on-new-copyright-focused-initiative-znp3u1y)
+![](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+A new copyright-focused initiative has got underway in the Senate Judiciary Subcommittee on Intellectual Property. Its goal is to evaluate the 22-year-old Digital Millennium Copyright Act with a view to modernizing the legislation to better deal with today's Internet following the dramatic changes of the last two decades.
 
 ### [141. Kim Dotcom Domain Case Solved, Followed By Bid To Halt Extradition](https://hackernoon.com/kim-dotcom-domain-case-solved-followed-by-bid-to-halt-extradition-rzg3ubv)
 ![](https://images.unsplash.com/photo-1510519138101-570d1dca3d66?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 After falling into third-party hands, the main domain of Kim Dotcom's K.im project has been returned following a settlement agreement. While this progress is being welcomed by the Megaupload founder, even more serious matters lie on the horizon. Will the New Zealand Supreme Court decide against extradition to the US? Dotcom predicts that while close, the judgment will not go in his favor.
 
-### [142. Court Authorizes ‘Dynamic’ Pirate Site-Blocking in Spain](https://hackernoon.com/court-authorizes-dynamic-pirate-site-blocking-in-spain-oam3uae)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRNrx5pnl6RZYIv9etWzhJ84VDNb2-aqc3u5n.jpeg?alt=media&token=6033469c-b064-4f5e-a0be-2c4787e00610)
-A Spanish court has handed down an order that will compel local ISPs to block pirate sites and services, primarily to prevent the unlicensed distribution of live football matches. Several interesting novelties can be observed in the ruling, including that broadcaster Telefónica Audiovisual Digital can add new sites, IP addresses, and URLs, without judicial oversight.
-
-### [143. What Happened to Megaupload?](https://hackernoon.com/what-happened-to-megaupload-2i21315d)
+### [142. What Happened to Megaupload?](https://hackernoon.com/what-happened-to-megaupload-2i21315d)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-p7m31p2.jpeg)
 Chairman and CEO Mitch Glazier has been oulining some of the RIAA's successes since he joined the industry group. Interestingly, he went straight to the Kim Dotcom and Megaupload case, which he described as a "huge significant victory". While the case hasn't yet gone to trial, its destruction more than eight years ago may be a good enough result for the RIAA.
 
-### [144. Cyber Police Raid Advertising Agency For Working With Pirate Sites](https://hackernoon.com/cyber-police-raid-advertising-agency-for-working-with-pirate-sites-2l1o3vbn)
-![](https://images.unsplash.com/photo-1568581357391-c71a1675ef93?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Authorities in Ukraine report that officers from the cybercrime unit have raided an advertising agency in the capital Kiev for doing business with sites offering pirated movies and TV shows. Images released by the government show masked and armed officers targeting a building and herding out large numbers of employees.
+### [143. Court Authorizes ‘Dynamic’ Pirate Site-Blocking in Spain](https://hackernoon.com/court-authorizes-dynamic-pirate-site-blocking-in-spain-oam3uae)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRNrx5pnl6RZYIv9etWzhJ84VDNb2-aqc3u5n.jpeg?alt=media&token=6033469c-b064-4f5e-a0be-2c4787e00610)
+A Spanish court has handed down an order that will compel local ISPs to block pirate sites and services, primarily to prevent the unlicensed distribution of live football matches. Several interesting novelties can be observed in the ruling, including that broadcaster Telefónica Audiovisual Digital can add new sites, IP addresses, and URLs, without judicial oversight.
+
+### [144. Unofficial Paywall-Free COVID19 Archive Consumes Half a Terabyte of Bandwidth](https://hackernoon.com/unofficial-paywall-free-covid19-archive-consumes-half-a-terabyte-of-bandwidth-g9p3uwj)
+![](https://images.unsplash.com/photo-1584483766114-2cea6facdf57?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+With the world still grappling with the new coronavirus outbreak, an unofficial paywall-free archive of scientific papers is spreading hope, not disease, to the scientific community. Speaking with TF, the operators of the project reveal that since its launch under a week ago, visitors from all over the world to the 5,300+ study resource have consumed almost half a terabyte of bandwidth.
 
 ### [145. Rivendell Makes History By Reporting 500 Millionth Infringing URL To Google](https://hackernoon.com/rivendell-makes-history-by-reporting-500-millionth-infringing-url-to-google-3xi3u9s)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRNrx5pnl6RZYIv9etWzhJ84VDNb2-p9c3ud0.jpeg?alt=media&token=5ec6509d-63c4-4ddc-bac2-f6f5c21cffbc)
@@ -625,9 +629,9 @@ This week anti-piracy company Rivendell made history by reporting its 500 millio
 ![](https://images.unsplash.com/photo-1554177255-61502b352de3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Facebook-owned Instagram has taken down an independently developed API claiming that it violates the anti-circumvention provisions of the DMCA. The complaint claims that the tool 'Instagram-API' allows unauthorized access to Instagram users' posts, which the company says are copyrighted works to which it grants protected access.
 
-### [147. The Galactic Wide Web: The End of Terrestrial Networks](https://hackernoon.com/the-galactic-wide-web-the-end-of-terrestrial-networks)
-![](https://cdn.hackernoon.com/images/x21VprIQHYaYrJEbiyMkN7uuOTH2-1403gwe.png)
-The terrestrial internet is a controlled, taxable utility designed to fail. We're building its successor—a decentralized, orbital mesh network that is permissio
+### [147. Cyber Police Raid Advertising Agency For Working With Pirate Sites](https://hackernoon.com/cyber-police-raid-advertising-agency-for-working-with-pirate-sites-2l1o3vbn)
+![](https://images.unsplash.com/photo-1568581357391-c71a1675ef93?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Authorities in Ukraine report that officers from the cybercrime unit have raided an advertising agency in the capital Kiev for doing business with sites offering pirated movies and TV shows. Images released by the government show masked and armed officers targeting a building and herding out large numbers of employees.
 
 ### [148. Introducing the "Future Web Standards", a new Covenant for  Developers](https://hackernoon.com/introducing-the-future-web-standards-a-new-covenant-for-developers-f9i34wv)
 ![](https://cdn.hackernoon.com/images/gpabZ3ae5AMod6NEaJWlcWwdp7G2-vj5s139m.jpeg)
@@ -645,64 +649,64 @@ Unsurprisingly, I am not a big fan of censorship. The social network known as Pa
 ![](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 South Korean authorities say they have rquested their first ever Interpol 'Red Notice' in an effort to apprehend the suspected operator of a torrent site that indexed around 455,000 copyright works. Information released by the Ministry of Culture and National Police suggests that the unnamed person is Australian. Police are demanding his or her arrest and extradition.
 
-### [152. Unofficial Paywall-Free COVID19 Archive Consumes Half a Terabyte of Bandwidth](https://hackernoon.com/unofficial-paywall-free-covid19-archive-consumes-half-a-terabyte-of-bandwidth-g9p3uwj)
-![](https://images.unsplash.com/photo-1584483766114-2cea6facdf57?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-With the world still grappling with the new coronavirus outbreak, an unofficial paywall-free archive of scientific papers is spreading hope, not disease, to the scientific community. Speaking with TF, the operators of the project reveal that since its launch under a week ago, visitors from all over the world to the 5,300+ study resource have consumed almost half a terabyte of bandwidth.
-
-### [153. Saranya TV's Owner Arested For Broadcasting A Pirated Copy Of The Hit Production](https://hackernoon.com/saranya-tvs-owner-arested-for-broadcasting-a-pirated-copy-of-the-hit-production-rl1431dt)
+### [152. Saranya TV's Owner Arested For Broadcasting A Pirated Copy Of The Hit Production](https://hackernoon.com/saranya-tvs-owner-arested-for-broadcasting-a-pirated-copy-of-the-hit-production-rl1431dt)
 ![](https://images.unsplash.com/photo-1522152302542-71a8e5172aa1?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 On January 9, action thriller movie 'Darbar' enjoyed its theatrical release in India. Bizarrely, just three days later, a pirated copy of the hit production was illegally aired on cable TV. The makers of the movie immediately filed a complaint with police who, according to local reports, have now arrested the channel owner and begun the process of confiscating equipment.
 
-### [154. Russian Watchdog to Place a Blockade on Pirate Apps](https://hackernoon.com/russian-watchdog-to-place-a-blockade-on-pirate-apps-25h3uft)
+### [153. Russian Watchdog to Place a Blockade on Pirate Apps](https://hackernoon.com/russian-watchdog-to-place-a-blockade-on-pirate-apps-25h3uft)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRNrx5pnl6RZYIv9etWzhJ84VDNb2-bwh3uf6.jpeg?alt=media&token=439e3724-e934-44ae-922b-cedc3a363a5e)
 Russia is planning action against apps that facilitate access to pirated content. If app developers don't quickly respond to a request from authorities to cease distribution of their software, telecoms watchdog Roscomnadzor will demand action against platforms such as Google Play and Apple's App Store. Failure to respond could result in ISP blockades.
 
-### [155. Pirate IPTV Supplier One Box Fails to Put up a Defense, Ordered to Pay $3.8m](https://hackernoon.com/pirate-iptv-supplier-one-box-fails-to-put-up-a-defense-ordered-to-pay-dollar38m-hrf3uhd)
-![](https://images.unsplash.com/photo-1498049860654-af1a5c566876?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-In 2019, 'pirate' IPTV supplier One Box TV found itself on the wrong end of a DISH Networks lawsuit. Filed in a Florida court, the complaint alleged that the IPTV supplier was transmitting DISH programming unlawfully via the Internet. After failing to put up a defense, One Box TV and its owner have now been ordered to pay $3.8 million in damages.
+### [154. NBCUniversal Sued For Using New York Photographer's Photos ](https://hackernoon.com/nbcuniversal-sued-for-using-new-york-photographers-photos-qe3h33x8)
+![](https://cdn.hackernoon.com/drafts/g5p3yqh.png)
+New York-based photographer Mark Seliger has filed a copyright infringement lawsuit against NBCUniversal demanding millions of dollars in damages.
 
-### [156. How To Tame The Tech Giants of Silicon Valley](https://hackernoon.com/how-to-tame-the-tech-giants-of-silicon-valley-201i3zzv)
+### [155. How To Tame The Tech Giants of Silicon Valley](https://hackernoon.com/how-to-tame-the-tech-giants-of-silicon-valley-201i3zzv)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN1kgFTyAekhORIW6jnwySXkjyt82-bt2925po.jpeg?alt=media&token=54d34a76-67eb-4cc3-9a18-bfb423722375)
 Everyone's angry at the tech industry these days! Tech companies continue to cement their place as some of the most powerful companies in the world, and taking shots at them has become a popular sport. Most recently, Facebook and Twitter suppressed a controversial New York Post article, raising accusations that the social networks are putting their thumbs on the scale of the upcoming election.
 
-### [157. Nintendo Launching a New Round of DMCA Complaints (Inadvertently Helping Microsoft as Well)](https://hackernoon.com/nintendo-launching-a-new-round-of-dmca-complaints-inadvertently-helping-microsoft-as-well-cu3o3uty)
-![](https://images.unsplash.com/photo-1589774700092-c16cc8d79851?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Nintendo has launched a new wave of DMCA complaints at Google in an effort to make piracy-enabling devices harder to find. In common with previous efforts, the gaming giant is making strategic use of DMCA anti-circumvention notices, to permanently delete listings from search results. 
+### [156. Pirate IPTV Supplier One Box Fails to Put up a Defense, Ordered to Pay $3.8m](https://hackernoon.com/pirate-iptv-supplier-one-box-fails-to-put-up-a-defense-ordered-to-pay-dollar38m-hrf3uhd)
+![](https://images.unsplash.com/photo-1498049860654-af1a5c566876?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+In 2019, 'pirate' IPTV supplier One Box TV found itself on the wrong end of a DISH Networks lawsuit. Filed in a Florida court, the complaint alleged that the IPTV supplier was transmitting DISH programming unlawfully via the Internet. After failing to put up a defense, One Box TV and its owner have now been ordered to pay $3.8 million in damages.
 
-### [158. Peace, War, and Artificial Intelligence](https://hackernoon.com/peace-war-and-artificial-intelligence)
-![](https://cdn.hackernoon.com/images/QfvpIBb2RGaXRk2ViDOn7tIeoz33-s492n2o.jpeg)
-With AI and pursuit of more advanced autonomy for weaponry, we must ask, what intentions will humanity send on rockets to other stars?
-
-### [159. The Invisible Man, Emma, and The Hunt Hit Pirate Sites After Rushed VOD Releases](https://hackernoon.com/the-invisible-man-emma-and-the-hunt-hit-pirate-sites-after-rushed-vod-releases-ea1o3vpt)
+### [157. The Invisible Man, Emma, and The Hunt Hit Pirate Sites After Rushed VOD Releases](https://hackernoon.com/the-invisible-man-emma-and-the-hunt-hit-pirate-sites-after-rushed-vod-releases-ea1o3vpt)
 ![](https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 A decision by Universal Pictures to quickly make movies available on VOD services due to the coronavirus pandemic has resulted in the inevitable. Titles including The Invisible Man, Emma, and The Hunt, which are still in 
 their theatrical windows, are now all available for download on pirate sites, just hours after release.
 
-### [160. NBCUniversal Sued For Using New York Photographer's Photos ](https://hackernoon.com/nbcuniversal-sued-for-using-new-york-photographers-photos-qe3h33x8)
-![](https://cdn.hackernoon.com/drafts/g5p3yqh.png)
-New York-based photographer Mark Seliger has filed a copyright infringement lawsuit against NBCUniversal demanding millions of dollars in damages.
+### [158. Nintendo Launching a New Round of DMCA Complaints (Inadvertently Helping Microsoft as Well)](https://hackernoon.com/nintendo-launching-a-new-round-of-dmca-complaints-inadvertently-helping-microsoft-as-well-cu3o3uty)
+![](https://images.unsplash.com/photo-1589774700092-c16cc8d79851?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Nintendo has launched a new wave of DMCA complaints at Google in an effort to make piracy-enabling devices harder to find. In common with previous efforts, the gaming giant is making strategic use of DMCA anti-circumvention notices, to permanently delete listings from search results. 
 
-### [161. YouTube Fair Use: Documentary Makers Defeat Gaye, Thicke, Bee Gees & Jackson](https://hackernoon.com/youtube-fair-use-documentary-makers-defeat-gaye-thicke-bee-gees-and-jackson-aj1m3v9b)
+### [159. The Galactic Wide Web: The End of Terrestrial Networks](https://hackernoon.com/the-galactic-wide-web-the-end-of-terrestrial-networks)
+![](https://cdn.hackernoon.com/images/x21VprIQHYaYrJEbiyMkN7uuOTH2-1403gwe.png)
+The terrestrial internet is a controlled, taxable utility designed to fail. We're building its successor—a decentralized, orbital mesh network that is permissio
+
+### [160. Peace, War, and Artificial Intelligence](https://hackernoon.com/peace-war-and-artificial-intelligence)
+![](https://cdn.hackernoon.com/images/QfvpIBb2RGaXRk2ViDOn7tIeoz33-s492n2o.jpeg)
+With AI and pursuit of more advanced autonomy for weaponry, we must ask, what intentions will humanity send on rockets to other stars?
+
+### [161. Court Of Appeal Refuses Kim Dotcom's Access To Outlawed Spy Recording](https://hackernoon.com/court-of-appeal-refuses-kim-dotcoms-access-to-outlawed-spy-recording-5ug3uwf)
+![](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+The New Zealand Supreme Court has declined Kim Dotcom's appeal in his bid to access private communications captured illegally by the country's spy agency. Dotcom will still be entitled to damages for the unlawful intrusion into his private life but he says this matter is not about money. Instead, he seeks to hold the GCSB agency accountable for its illegal behavior, for the benefit of all New Zealanders.
+
+### [162. YouTube Fair Use: Documentary Makers Defeat Gaye, Thicke, Bee Gees & Jackson](https://hackernoon.com/youtube-fair-use-documentary-makers-defeat-gaye-thicke-bee-gees-and-jackson-aj1m3v9b)
 ![](https://images.unsplash.com/photo-1521302200778-33500795e128?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 In December 2019 a web-series dedicated to debunking copyright and 
 copying myths was hit with four copyright complaints over the alleged 
 illegal use of tracks from Robin Thicke, Marvin Gate, Bee Gees and Michael Jackson. However, the makers of The Creativity Delusion: Geniuses Steal, decided to fight back and have now defeated every single claim against their video. Fair use, they say, is worth fighting for.
 
-### [162. Movie And TV Show Portal Attacks Google With Odd DMCA Notices](https://hackernoon.com/movie-and-tv-show-portal-attacks-google-with-odd-dmca-notices-6oi3una)
+### [163. Movie And TV Show Portal Attacks Google With Odd DMCA Notices](https://hackernoon.com/movie-and-tv-show-portal-attacks-google-with-odd-dmca-notices-6oi3una)
 ![](https://images.unsplash.com/photo-1535016120720-40c646be5580?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Movie and TV show information portal AlloCiné has reportedly sent a wave of DMCA notices to Google to have allegedly-infringing content taken down. Unfortunately, however, the complaints are littered with clearly erroneous URLs that target everything from Netflix and Amazon listings to news reports from sites like Wired, plus content on rival movie portals such as JustWatch and Rotten Tomatoes.
 
-### [163. Court Of Appeal Refuses Kim Dotcom's Access To Outlawed Spy Recording](https://hackernoon.com/court-of-appeal-refuses-kim-dotcoms-access-to-outlawed-spy-recording-5ug3uwf)
-![](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-The New Zealand Supreme Court has declined Kim Dotcom's appeal in his bid to access private communications captured illegally by the country's spy agency. Dotcom will still be entitled to damages for the unlawful intrusion into his private life but he says this matter is not about money. Instead, he seeks to hold the GCSB agency accountable for its illegal behavior, for the benefit of all New Zealanders.
-
-### [164. Men Selling Pirate TV Boxes Found Guilty Under The Fraud Act](https://hackernoon.com/men-selling-pirate-tv-boxes-found-guilty-under-the-fraud-act-cig3ul5)
-![](https://images.unsplash.com/photo-1516321165247-4aa89a48be28?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Two men who sold piracy-enabled TV boxes and encouraged buyers to access content without an appropriate subscription have been found guilty after a four-day trial in the UK. The individuals, who will be sentenced later this month, face potentially lengthy sentences under the Serious Crime Act 2007 and Fraud Act 2006.
-
-### [165. John Van Stry Claims That Former Piracy Site Owner Is Trying to Bust Him](https://hackernoon.com/john-van-stry-claims-that-former-piracy-site-owner-is-trying-to-bust-him-sig3ui6)
+### [164. John Van Stry Claims That Former Piracy Site Owner Is Trying to Bust Him](https://hackernoon.com/john-van-stry-claims-that-former-piracy-site-owner-is-trying-to-bust-him-sig3ui6)
 ![](https://images.unsplash.com/photo-1550645612-83f5d594b671?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Since early 2019, author John Van Stry has been spending huge sums of money in an effort to bring the former operator of download site eBook.bike to justice. The site itself has been down for months but legal costs are mounting to the point that Van Stry feels there might be an effort to bankrupt him. As a result, a practical win for either side seems a distant proposition.
+
+### [165. Men Selling Pirate TV Boxes Found Guilty Under The Fraud Act](https://hackernoon.com/men-selling-pirate-tv-boxes-found-guilty-under-the-fraud-act-cig3ul5)
+![](https://images.unsplash.com/photo-1516321165247-4aa89a48be28?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Two men who sold piracy-enabled TV boxes and encouraged buyers to access content without an appropriate subscription have been found guilty after a four-day trial in the UK. The individuals, who will be sentenced later this month, face potentially lengthy sentences under the Serious Crime Act 2007 and Fraud Act 2006.
 
 ### [166. Decentralization is a Requirement for the Freedom of Humanity with Today's Tech](https://hackernoon.com/decentralization-is-a-requirement-for-the-freedom-of-humanity-with-todays-tech)
 ![](https://cdn.hackernoon.com/images/iNs5vViQnVRCGru4Z1eBrlD3sBw1-m603old.png)

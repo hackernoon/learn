@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [oracle](https://hackernoon.com/tagged/oracle)
+### Let's learn about [Oracle](https://hackernoon.com/tagged/oracle) via these 86 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Oracle is a leading global provider of enterprise software and cloud services, notably known for its robust database management systems. Oracle technologies are foundational for countless businesses globally, enabling critical data storage, application operations, and business intelligence.
+
 ### [1. How to Migrate from Oracle to PostgreSQL](https://hackernoon.com/how-to-migrate-from-oracle-to-postgresql)
 ![](https://cdn.hackernoon.com/images/pxC9Z1AHJxXEPr168QMVSYr92t13-lja3p4t.jpeg)
 This article explores the most important challenges and solutions of the database migration from Oracle to PostgreSQL. 
@@ -87,29 +91,29 @@ Deno battles Oracle over JavaScript’s trademark. A fight for open-source freed
 ![](https://cdn.hackernoon.com/drafts/na50309x.png)
 Both dbForge Studio and PL/SQL Developer are integrated development environments (IDEs) designed to help with Oracle database developmenttasks and PL/SQL coding productivity. However, just as any two tools,the ones we’re discussing are not exactly the same. Sometimes, it’s very important to know which solution to choose given your specific needs and preferences. In this article, we’ll look at the differences of dbForge Studio and PL/SQL Developer and analyze their strengths and weaknesses in detail.
 
-### [22. How I Prepared for OCP Java SE 11, 2021](https://hackernoon.com/how-i-prepared-for-ocp-java-se-11-2021-uqcx344r)
+### [22. Comparing LLMs' Coding Abilities Across Programming Languages ](https://hackernoon.com/comparing-llms-coding-abilities-across-programming-languages)
+![](https://cdn.hackernoon.com/images/tUyDy3WCvhMrS9XRgsoD10WmU5k2-xr83eyd.png)
+Benchmark of 5 LLMs solving LeetCode problems in Python, Java, Rust, Elixir, Oracle SQL and MySQL. Results show language popularity correlates with success.
+
+### [23. How I Prepared for OCP Java SE 11, 2021](https://hackernoon.com/how-i-prepared-for-ocp-java-se-11-2021-uqcx344r)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-oq8f34g6.jpeg)
 I would like to share with you my experience in obtaining the coveted title of Oracle Certified Professional Java SE 11!
 
-### [23. Node.js vs Java: Why, How, and When to Choose One Over the Other](https://hackernoon.com/nodejs-vs-java-why-how-and-when-to-choose-one-over-the-other-3dcn36m1)
+### [24. Node.js vs Java: Why, How, and When to Choose One Over the Other](https://hackernoon.com/nodejs-vs-java-why-how-and-when-to-choose-one-over-the-other-3dcn36m1)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-yu82rm7.jpeg)
 Recently, my colleagues and I discussed the popularity of a couple of technologies — in particular, Java and node.js. After a brief Internet surfing session, it turned out that these technologies are used by many information giants to develop and maintain their platforms. Below, I will mention only a few of them.
 
-### [24. 2019 Database Trends – SQL vs. NoSQL, Top Databases, Single vs. Multiple Database Use](https://hackernoon.com/2019-database-trends-sql-vs-nosql-top-databases-single-vs-multiple-database-use-ly1cu3z18)
+### [25. 2019 Database Trends – SQL vs. NoSQL, Top Databases, Single vs. Multiple Database Use](https://hackernoon.com/2019-database-trends-sql-vs-nosql-top-databases-single-vs-multiple-database-use-ly1cu3z18)
 ![](https://cdn.hackernoon.com/drafts/pm1e93zn9.png)
 Wondering which databases are trending in 2019? We asked hundreds of developers, engineers, software architects, dev teams, and IT leaders at DeveloperWeek to discover the current NoSQL vs. SQL usage, most popular databases, important metrics to track, and their most time-consuming database management tasks. Get the latest insights on MySQL, MongoDB, PostgreSQL, Redis, and many others to see which database management systems are most favored this year.
 
-### [25. Vagrant with Oracle Database: For When You Need More Than a Container Image!](https://hackernoon.com/vagrant-with-oracle-database-for-when-you-need-more-than-a-container-image-3j1b33pz)
+### [26. Vagrant with Oracle Database: For When You Need More Than a Container Image!](https://hackernoon.com/vagrant-with-oracle-database-for-when-you-need-more-than-a-container-image-3j1b33pz)
 ![](https://cdn.hackernoon.com/images/iNwiVRRdEKMIRhEtu3vEI8HPOg22-4h7q28dd.jpeg)
 I’ve written about my love for Vagrant a few times already here, today I will show the steps to getting an Oracle Database with Vagrant.
 
-### [26. How to Pass the 1Z0-819 Oracle Exam](https://hackernoon.com/how-to-pass-the-1z0-819-oracle-exam)
+### [27. How to Pass the 1Z0-819 Oracle Exam](https://hackernoon.com/how-to-pass-the-1z0-819-oracle-exam)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-4e03o5w.jpeg)
 Recently, I successfully passed the 1Z0-819 Oracle exam. In this article, I will share my prep strategy. 
-
-### [27. Comparing LLMs' Coding Abilities Across Programming Languages ](https://hackernoon.com/comparing-llms-coding-abilities-across-programming-languages)
-![](https://cdn.hackernoon.com/images/tUyDy3WCvhMrS9XRgsoD10WmU5k2-xr83eyd.png)
-Benchmark of 5 LLMs solving LeetCode problems in Python, Java, Rust, Elixir, Oracle SQL and MySQL. Results show language popularity correlates with success.
 
 ### [28. Build a Free Personal Heroku with Oracle Cloud and Dokku](https://hackernoon.com/build-a-free-personal-heroku-with-oracle-cloud-and-dokku)
 ![](https://cdn.hackernoon.com/images/lNiCXBYTucWz536RMFabatihuwM2-bs93lba.jpeg)
@@ -123,27 +127,27 @@ What is Database Modeling?
 ![](https://cdn.hackernoon.com/drafts/7v3t2c30.png)
 There are hundreds of blockchain projects proposing to “disrupt” real-world industries, from insurance to sports betting. It seems like a great way to remove intermediaries and fight fraud. Unfortunately, crypto enthusiasts often forget one thing: as soon as external data is involved, blockchain is in trouble.
 
-### [31. Here's How I Passed The Oracle Certified Professional Examination](https://hackernoon.com/heres-how-i-passed-the-oracle-certified-professional-examination-v84p35rj)
-![](https://cdn.hackernoon.com/images/SnVhdDNm3fMGfftKZO7mnXldvQm2-m29m358u.jpeg)
-In November 2020, I passed the Oracle Certified Professional Java 11 1Z0-819 exam. For me, it was a long journey of 4 months. Sitting with full concentration..
-
-### [32. Fixing Oracle DGMGRL Error During Switchover to a Standby Database](https://hackernoon.com/fixing-oracle-dgmgrl-error-during-switchover-to-a-standby-database)
+### [31. Fixing Oracle DGMGRL Error During Switchover to a Standby Database](https://hackernoon.com/fixing-oracle-dgmgrl-error-during-switchover-to-a-standby-database)
 ![](https://cdn.hackernoon.com/images/y8NpJmORWIQxyPvYCy7MXmsUZq53-8oc3pg1.jpeg)
 Fixing DGMGRL error during switchover.
+
+### [32. Here's How I Passed The Oracle Certified Professional Examination](https://hackernoon.com/heres-how-i-passed-the-oracle-certified-professional-examination-v84p35rj)
+![](https://cdn.hackernoon.com/images/SnVhdDNm3fMGfftKZO7mnXldvQm2-m29m358u.jpeg)
+In November 2020, I passed the Oracle Certified Professional Java 11 1Z0-819 exam. For me, it was a long journey of 4 months. Sitting with full concentration..
 
 ### [33. Rationalizing Chainlink's Price Rise: A Game of Partnerships](https://hackernoon.com/whats-pushing-chainlink-link-price-to-new-records-4mx36hj)
 ![](https://cdn.hackernoon.com/images/4gez36hf.jpg)
 Disclaimer: I don’t stand to gain any benefit from my review of ChainLink. This article is not intended as investment advice. It is just my opinion. As always, DYOR before investing.
 
-### [34. Java Concurrency: Understanding the ‘volatile’ Keyword](https://hackernoon.com/java-concurrency-understanding-the-volatile-keyword-0z2i33nb)
-![](https://cdn.hackernoon.com/images/5BU2hXMFjBPi6elZGcLXvBvDBhW2-c5n2833.jpeg)
-In this article I would like to talk about some particularities and misconceptions about volatile and the semantics of volatile as defined from Java 5 onwards 
-
-### [35. 3 Steps to Creating Purchase Orders via API in Oracle R12](https://hackernoon.com/3-steps-to-creating-purchase-orders-via-api-in-oracle-r12)
+### [34. 3 Steps to Creating Purchase Orders via API in Oracle R12](https://hackernoon.com/3-steps-to-creating-purchase-orders-via-api-in-oracle-r12)
 ![](https://cdn.hackernoon.com/images/the-oracle-interface-displayed-on-a-laptop-screen-fyjd1hhzdzmw0nw9zzlw6g7i.png)
 Creating purchase orders programmatically in Oracle Applications R12 can be done in a reliable and supported way using the Purchasing Documents Open Interface (PDOI). Many developers mistakenly assume that private packages like PO_PDOI_PVT should be called directly, but Oracle does not recommend this approach because it is an internal package that may change across patches […]
 
 The post How to Create a Purchase Order Using API in Oracle Apps R12 [https://vinish.dev/create-purchase-order-using-api-in-oracle-apps-r12] appeared first on Vinish.Dev [https://vinish.dev].
+
+### [35. Java Concurrency: Understanding the ‘volatile’ Keyword](https://hackernoon.com/java-concurrency-understanding-the-volatile-keyword-0z2i33nb)
+![](https://cdn.hackernoon.com/images/5BU2hXMFjBPi6elZGcLXvBvDBhW2-c5n2833.jpeg)
+In this article I would like to talk about some particularities and misconceptions about volatile and the semantics of volatile as defined from Java 5 onwards 
 
 ### [36. Develop XR With Oracle, Ep 4: Health, Digital Twins, Observability, and Metaverse](https://hackernoon.com/develop-xr-with-oracle-ep-4-health-digital-twins-observability-and-metaverse)
 ![](https://cdn.hackernoon.com/images/oFcXyPmJpqb3FOyA7YV2WMjGWmq2-one3o4c.jpeg)
@@ -165,13 +169,13 @@ Twitter v. Elon Musk Court Filing, July 12, 2022 is part of HackerNoon’s Legal
 ![](https://cdn.hackernoon.com/images/apyrcJe7QtSaym51iL1h0F1dxkD2-h792efk.png)
 With Oracle Commerce Cloud being sunset, where should customers look next?
 
-### [41. Playing With Oracle ASM and Multipath Disks - Configuring TrueNAS](https://hackernoon.com/playing-with-oracle-asm-and-multipath-disks-configuring-truenas)
-![](https://cdn.hackernoon.com/images/y8NpJmORWIQxyPvYCy7MXmsUZq53-yq1a3pry.jpeg)
-I gathered multiple articles on creating a testing environment to implement multipath disks on Oracle ASM and condensed all that information in a single article
-
-### [42. The Oracle Database Docker Image Can Supercharge Your DevOps Learning](https://hackernoon.com/the-oracle-database-docker-image-can-supercharge-your-devops-learning-0f4r33z4)
+### [41. The Oracle Database Docker Image Can Supercharge Your DevOps Learning](https://hackernoon.com/the-oracle-database-docker-image-can-supercharge-your-devops-learning-0f4r33z4)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-eqi33t4.jpeg)
 This is a tutorial on how to install, use, and patch the Oracle Database Docker Image. Docker is a PaaS that delivers software in packages called containers.
+
+### [42. Playing With Oracle ASM and Multipath Disks - Configuring TrueNAS](https://hackernoon.com/playing-with-oracle-asm-and-multipath-disks-configuring-truenas)
+![](https://cdn.hackernoon.com/images/y8NpJmORWIQxyPvYCy7MXmsUZq53-yq1a3pry.jpeg)
+I gathered multiple articles on creating a testing environment to implement multipath disks on Oracle ASM and condensed all that information in a single article
 
 ### [43. Automate Customer Creation in Oracle Apps R12 with This Simple API Trick](https://hackernoon.com/automate-customer-creation-in-oracle-apps-r12-with-this-simple-api-trick)
 ![](https://cdn.hackernoon.com/images/arbitrary-graph-on-a-large-computer-screen-knj1kwpwvnnszfcr70npo6b0.png)
@@ -227,29 +231,29 @@ Euler introduces a whole new on-chain price oracle design and improves improve u
 ![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-qu83wov.jpeg)
 To connect to a database and query data, you need to begin by installing Pandas and Sqlalchemy.
 
-### [56. How Blockchain Could Immunize the Internet Against Distrust](https://hackernoon.com/how-blockchain-could-immunize-the-internet-against-distrust-rb5i328c)
-![](https://images.unsplash.com/photo-1531417666976-ed2bdbeb043b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Technology may be powerful, but it’s also fragile. In recent years, a series of events--from Facebook’s Cambridge Analytica scandal to Equifax’s massive data breach--have eroded the public’s trust not only in large companies, but in the Internet itself. The proliferation of fake news has us doubting every article we read. Deepfake photos and videos leave us wondering if we can trust our own eyes, or if what we see is just AI-generated. 
-
-### [57. Enterprise Resource Planning & Critical Infrastructure](https://hackernoon.com/enterprise-resource-planning-and-critical-infrastructure)
+### [56. Enterprise Resource Planning & Critical Infrastructure](https://hackernoon.com/enterprise-resource-planning-and-critical-infrastructure)
 ![](https://cdn.hackernoon.com/images/fcIcYx761qO5PKehbD1Zy0kL3yw2-m883b8e.jpeg)
 The issues IT and Cybersecurity teams face in maintaining and protecting ERP systems, including a lack of transparency with business units.
 
-### [58. SQL Data Modification Commands With Examples: A Quick and Simple Guide](https://hackernoon.com/sql-data-modification-commands-with-examples-a-quick-and-simple-guide)
+### [57. SQL Data Modification Commands With Examples: A Quick and Simple Guide](https://hackernoon.com/sql-data-modification-commands-with-examples-a-quick-and-simple-guide)
 ![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-mz03cdp.png)
 In this article, we’ll explore these commands with practical examples.
+
+### [58. How Blockchain Could Immunize the Internet Against Distrust](https://hackernoon.com/how-blockchain-could-immunize-the-internet-against-distrust-rb5i328c)
+![](https://images.unsplash.com/photo-1531417666976-ed2bdbeb043b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Technology may be powerful, but it’s also fragile. In recent years, a series of events--from Facebook’s Cambridge Analytica scandal to Equifax’s massive data breach--have eroded the public’s trust not only in large companies, but in the Internet itself. The proliferation of fake news has us doubting every article we read. Deepfake photos and videos leave us wondering if we can trust our own eyes, or if what we see is just AI-generated. 
 
 ### [59. Facilitating Failure Resistance with the Dual Oracle Design](https://hackernoon.com/facilitating-failure-resistance-with-the-dual-oracle-design)
 ![](https://cdn.hackernoon.com/images/t03XIzsJKARrMflzDrlxmlIic9U2-azb3qc2.jpeg)
 How Liquity is enabling failure resistance with a dual oracle design 
 
-### [60. How to Master SQL Joins - Inner, Outer, Cross, and Self-Joins With Examples](https://hackernoon.com/how-to-master-sql-joins-inner-outer-cross-and-self-joins-with-examples)
-![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-h803enw.png)
-In this article, we’ll explore various SQL join types with clear explanations and practical examples.
-
-### [61. Evaluating the Performance of vLLM: How Did It Do?](https://hackernoon.com/evaluating-the-performance-of-vllm-how-did-it-do)
+### [60. Evaluating the Performance of vLLM: How Did It Do?](https://hackernoon.com/evaluating-the-performance-of-vllm-how-did-it-do)
 ![](https://cdn.hackernoon.com/images/a-robot-exercising-in-front-of-doctors-animated-dw90vw3pqvufs2okhv2ii2kt.png)
 In this section, we evaluate the performance of vLLM under a variety of workloads.
+
+### [61. How to Master SQL Joins - Inner, Outer, Cross, and Self-Joins With Examples](https://hackernoon.com/how-to-master-sql-joins-inner-outer-cross-and-self-joins-with-examples)
+![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-h803enw.png)
+In this article, we’ll explore various SQL join types with clear explanations and practical examples.
 
 ### [62. Fixing Oracle RAC Node Problems With Addnode: DB Binaries](https://hackernoon.com/fixing-oracle-rac-node-problems-with-addnode-db-binaries)
 ![](https://cdn.hackernoon.com/images/y8NpJmORWIQxyPvYCy7MXmsUZq53-zo93pjj.jpeg)
@@ -259,91 +263,95 @@ Fixing Oracle RAC Node Problems With Addnode: DB Binaries
 ![](https://cdn.hackernoon.com/images/oNIroQpI1FZj2l5g1MSUvunDFzu2-1xd370b.png)
 Flink-Doris-Connector 1.4.0 allows users to ingest a whole database containing thousands of tables into Apache Doris, a real-time analytic database, in one step
 
-### [64. Fixing Garbled Text When Syncing Oracle to Doris with SeaTunnel 2.3.9](https://hackernoon.com/fixing-garbled-text-when-syncing-oracle-to-doris-with-seatunnel-239)
-![](https://cdn.hackernoon.com/images/1xYF9Q2MEDQRYXBY7nlDViaH7ED3-uo0389r.jpeg)
-When using SeaTunnel 2.3.9 to sync data from Oracle to Doris, you may encounter garbled characters.
-
-### [65. How to Develop XR with Oracle Cloud using Hololens, MRTK, and Unity](https://hackernoon.com/how-to-develop-xr-with-oracle-cloud-using-hololens-mrtk-and-unity)
-![](https://cdn.hackernoon.com/images/oFcXyPmJpqb3FOyA7YV2WMjGWmq2-wc93057.jpeg)
-This is the first piece in a series on developing XR applications and experiences using Oracle Database and Hololens for the Metaverse. 
-
-### [66. Is OpenJDK Just a Drop-In Replacement?](https://hackernoon.com/is-openjdk-just-a-drop-in-replacement)
+### [64. Is OpenJDK Just a Drop-In Replacement?](https://hackernoon.com/is-openjdk-just-a-drop-in-replacement)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-qd92fq8.jpeg)
 What are the pitfalls in replacing OracleJDK with OpenJDK? Simon Ritter has some interesting observations in his free new book. Here's the TL;DR.
 
-### [67. Database Management: Creating and Granting User Access in Oracle](https://hackernoon.com/database-management-creating-and-granting-user-access-in-oracle)
+### [65. Fixing Garbled Text When Syncing Oracle to Doris with SeaTunnel 2.3.9](https://hackernoon.com/fixing-garbled-text-when-syncing-oracle-to-doris-with-seatunnel-239)
+![](https://cdn.hackernoon.com/images/1xYF9Q2MEDQRYXBY7nlDViaH7ED3-uo0389r.jpeg)
+When using SeaTunnel 2.3.9 to sync data from Oracle to Doris, you may encounter garbled characters.
+
+### [66. Database Management: Creating and Granting User Access in Oracle](https://hackernoon.com/database-management-creating-and-granting-user-access-in-oracle)
 ![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-d783aik.jpeg)
 Learn how to efficiently manage user access in Oracle databases for seamless data sharing and collaboration among departments.
 
-### [68. Why and How to Make the Migration from CentOS to Oracle Linux 7 in these Easy Steps](https://hackernoon.com/why-and-how-to-make-the-migration-from-centos-to-oracle-linux-7-in-these-easy-steps-bh4f33lx)
-![](https://cdn.hackernoon.com/images/iNwiVRRdEKMIRhEtu3vEI8HPOg22-lg5u28d5.jpeg)
-CentOS to Oracle Linux 7 in 2 Easy Steps.
+### [67. How to Develop XR with Oracle Cloud using Hololens, MRTK, and Unity](https://hackernoon.com/how-to-develop-xr-with-oracle-cloud-using-hololens-mrtk-and-unity)
+![](https://cdn.hackernoon.com/images/oFcXyPmJpqb3FOyA7YV2WMjGWmq2-wc93057.jpeg)
+This is the first piece in a series on developing XR applications and experiences using Oracle Database and Hololens for the Metaverse. 
 
-### [69. SQL Databases Vs. NOSQL Databases](https://hackernoon.com/sql-databases-vs-nosql-databases-ja3g3yy9)
-![](https://cdn.hackernoon.com/drafts/i61hj2ep2.png)
-The decision to choose a database  for project is not that simple. But when it comes to choosing a database, the biggest decisions is picking a relational (SQL) or non-relational (NoSQL) data structure.
+### [68. 9 Signals That Could Determine Whether Oracle Reaches a $1 Trillion Valuation](https://hackernoon.com/9-signals-that-could-determine-whether-oracle-reaches-a-$1-trillion-valuation)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-8f03e8o.png)
+Can Oracle reach a $1 trillion valuation? Explore its AI, cloud (OCI), and enterprise strategy, driving potential market cap growth.
 
-### [70. How to Build a Chatbot That Tells Medieval Tales Using Oracle’s AI Platform](https://hackernoon.com/oracles-new-ai-platform-lets-you-build-chatbots-that-tell-medieval-tales)
+### [69. How to Build a Chatbot That Tells Medieval Tales Using Oracle’s AI Platform](https://hackernoon.com/oracles-new-ai-platform-lets-you-build-chatbots-that-tell-medieval-tales)
 ![](https://cdn.hackernoon.com/images/dBozFWaplZNAQ4RVO8Dm7jfKSHr1-hr036sf.jpeg)
 The Oracle Cloud Infrastructure is one of the big cloud platforms currently available in the market together with AWS, Google Cloud, and Azure.
 
-### [71. 10 Days of .Net Aspire: Day 4 — Using Oracle Component in Visual Studio ](https://hackernoon.com/10-days-of-net-aspire-day-4-using-oracle-component-in-visual-studio)
+### [70. SQL Databases Vs. NOSQL Databases](https://hackernoon.com/sql-databases-vs-nosql-databases-ja3g3yy9)
+![](https://cdn.hackernoon.com/drafts/i61hj2ep2.png)
+The decision to choose a database  for project is not that simple. But when it comes to choosing a database, the biggest decisions is picking a relational (SQL) or non-relational (NoSQL) data structure.
+
+### [71. Why and How to Make the Migration from CentOS to Oracle Linux 7 in these Easy Steps](https://hackernoon.com/why-and-how-to-make-the-migration-from-centos-to-oracle-linux-7-in-these-easy-steps-bh4f33lx)
+![](https://cdn.hackernoon.com/images/iNwiVRRdEKMIRhEtu3vEI8HPOg22-lg5u28d5.jpeg)
+CentOS to Oracle Linux 7 in 2 Easy Steps.
+
+### [72. 10 Days of .Net Aspire: Day 4 — Using Oracle Component in Visual Studio ](https://hackernoon.com/10-days-of-net-aspire-day-4-using-oracle-component-in-visual-studio)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-6i032tl.png)
 Learn how to use the .Net Aspire Oracle component in Visual Studio.
 
-### [72. How to Choose an Oracle That's Right for Your dApp](https://hackernoon.com/how-to-choose-an-oracle-thats-right-for-your-dapp)
+### [73. How to Choose an Oracle That's Right for Your dApp](https://hackernoon.com/how-to-choose-an-oracle-thats-right-for-your-dapp)
 ![](https://cdn.hackernoon.com/images/sSHeZ67cyfSEiL9GaTALBismuZh1-o8a3o9v.jpeg)
 There’s more to oracles than data provision – they also protect against manipulations. 
 
-### [73. Playing With Oracle ASM and Multipath Disks — Benchmarking Your Performance](https://hackernoon.com/playing-with-oracle-asm-and-multipath-disks-benchmarking-your-performance)
+### [74. Playing With Oracle ASM and Multipath Disks — Benchmarking Your Performance](https://hackernoon.com/playing-with-oracle-asm-and-multipath-disks-benchmarking-your-performance)
 ![](https://cdn.hackernoon.com/images/y8NpJmORWIQxyPvYCy7MXmsUZq53-mg93xlw.jpeg)
 Running some tests on Oracle ASM with multipath disks.
 
-### [74. Fixing Oracle RAC Node Problems With Addnode: GRID and DB Binaries](https://hackernoon.com/fixing-oracle-rac-node-problems-with-addnode-grid-and-db-binaries)
+### [75. Fixing Oracle RAC Node Problems With Addnode: GRID and DB Binaries](https://hackernoon.com/fixing-oracle-rac-node-problems-with-addnode-grid-and-db-binaries)
 ![](https://cdn.hackernoon.com/images/y8NpJmORWIQxyPvYCy7MXmsUZq53-ho93x8s.png)
 Fixing Oracle RAC Node Problems With Addnode: DB And GRID Binaries.
 
-### [75. Exploring the World of Crypto: 18 Key Categories of the Digital Economy](https://hackernoon.com/exploring-the-world-of-crypto-18-key-categories-of-the-digital-economy)
+### [76. Exploring the World of Crypto: 18 Key Categories of the Digital Economy](https://hackernoon.com/exploring-the-world-of-crypto-18-key-categories-of-the-digital-economy)
 ![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-9y93du3.png)
 Whether service-based, physical goods, or informational products there are touchpoints at which a digital asset or distributed ledger can improve a system. 
 
-### [76. Develop XR With Oracle Cloud Ep 2: Property Graphs, Data Visualization, and Metaverse](https://hackernoon.com/develop-xr-with-oracle-cloud-ep-2-property-graphs-data-visualization-and-metaverse)
+### [77. Develop XR With Oracle Cloud Ep 2: Property Graphs, Data Visualization, and Metaverse](https://hackernoon.com/develop-xr-with-oracle-cloud-ep-2-property-graphs-data-visualization-and-metaverse)
 ![](https://cdn.hackernoon.com/images/oFcXyPmJpqb3FOyA7YV2WMjGWmq2-v793po6.jpeg)
 Develop XR applications and experiences with Oracle, explore Property Graphs and Analytics, Data Visualization, and Metaverse collaboration.
 
-### [77. Develop XR with Oracle Ep 3: Computer Vision AI, ML, and the Metaverse](https://hackernoon.com/develop-xr-with-oracle-ep-3-computer-vision-ai-ml-and-the-metaverse)
+### [78. Develop XR with Oracle Ep 3: Computer Vision AI, ML, and the Metaverse](https://hackernoon.com/develop-xr-with-oracle-ep-3-computer-vision-ai-ml-and-the-metaverse)
 ![](https://cdn.hackernoon.com/images/oFcXyPmJpqb3FOyA7YV2WMjGWmq2-snd3k37.jpeg)
 This is the third piece in a series on developing XR applications and experiences using Oracle and focuses on XR applications of computer vision AI and ML and i
 
-### [78. SQL Data Modification Commands With Examples: A Fast and Easy Guide](https://hackernoon.com/sql-data-modification-commands-with-examples-a-fast-and-easy-guide)
+### [79. SQL Data Modification Commands With Examples: A Fast and Easy Guide](https://hackernoon.com/sql-data-modification-commands-with-examples-a-fast-and-easy-guide)
 ![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-c203ez4.png)
 In this article, we’ll explore these commands with practical examples.
 
-### [79. Building Geographic Resilience: Innovative Patterns for Oracle Systems](https://hackernoon.com/building-geographic-resilience-innovative-patterns-for-oracle-systems)
+### [80. Building Geographic Resilience: Innovative Patterns for Oracle Systems](https://hackernoon.com/building-geographic-resilience-innovative-patterns-for-oracle-systems)
 ![](https://cdn.hackernoon.com/images/LsletfKnreXPFpkpNyEaDt8Hz9z1-dt03l5e.png)
 Active-active consistency in geo distributed systems requires moving beyond static architectural patterns toward adaptive, observation driven coordinated flow.
 
-### [80. Step-by-Step Guide: Free Real-Time MySQL to Oracle Sync with SeaTunnel](https://hackernoon.com/step-by-step-guide-free-real-time-mysql-to-oracle-sync-with-seatunnel)
+### [81. Step-by-Step Guide: Free Real-Time MySQL to Oracle Sync with SeaTunnel](https://hackernoon.com/step-by-step-guide-free-real-time-mysql-to-oracle-sync-with-seatunnel)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-fa0201n.jpeg)
 When it comes to tools for syncing MySQL to Oracle, besides the traditional OGG, SeaTunnel should definitely be on the list—it’s simply too convenient to use.
 
-### [81. Is Our Technique Effective in Finding Bugs for XPath Expression Processors? An Investigation](https://hackernoon.com/is-our-technique-effective-in-finding-bugs-for-xpath-expression-processors-an-investigation)
+### [82. Is Our Technique Effective in Finding Bugs for XPath Expression Processors? An Investigation](https://hackernoon.com/is-our-technique-effective-in-finding-bugs-for-xpath-expression-processors-an-investigation)
 ![](https://cdn.hackernoon.com/images/an-old-school-detective-investigating-crfnbkkpmpd2dh9u93ykyrj3.png)
 In the evaluation, we sought to investigate whether our technique is effective and efficient in finding bugs for XPath expression processors.
 
-### [82. SQL Recursive Queries - How to Understand Common Table Expressions (CTEs)](https://hackernoon.com/sql-recursive-queries-how-to-understand-common-table-expressions-ctes)
+### [83. SQL Recursive Queries - How to Understand Common Table Expressions (CTEs)](https://hackernoon.com/sql-recursive-queries-how-to-understand-common-table-expressions-ctes)
 ![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-gs03e2d.png)
 This article introduces the WITH clause and demonstrates how recursive CTEs can simplify these operations.
 
-### [83. Who are the Data Brokers Spending Big Bucks to Lobby Congress?](https://hackernoon.com/who-are-the-data-brokers-spending-big-bucks-to-lobby-congress)
+### [84. Who are the Data Brokers Spending Big Bucks to Lobby Congress?](https://hackernoon.com/who-are-the-data-brokers-spending-big-bucks-to-lobby-congress)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-m10350n.jpeg)
 Data brokers’ millions of dollars in lobbying spending in 2020 rivaled that of some Big Tech firms with serious consequences for everyone else in the world.
 
-### [84. Oracle on Lombard Street: The Harrapan Revelation](https://hackernoon.com/oracle-on-lombard-street-the-harrapan-revelation)
+### [85. Oracle on Lombard Street: The Harrapan Revelation](https://hackernoon.com/oracle-on-lombard-street-the-harrapan-revelation)
 ![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-9093mtz.jpeg)
 Why all these wars? What are we REALLY fighting over? is it just oil?
 
-### [85. Educational Byte: How to and why create your own oracle on Obyte?](https://hackernoon.com/educational-byte-how-to-and-why-create-your-own-oracle-on-obyte)
+### [86. Educational Byte: How to and why create your own oracle on Obyte?](https://hackernoon.com/educational-byte-how-to-and-why-create-your-own-oracle-on-obyte)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-ot835l2.png)
 Oracles are like bridges that connect decentralized networks to the outside world. In Obyte, you can create one for any use you want to, without coding.
 

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [startups-top-story](https://hackernoon.com/tagged/startups-top-story)
+### Let's learn about [Startups Top Story](https://hackernoon.com/tagged/startups-top-story) via these 144 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+This tag highlights significant or trending news and insights relevant to the startup ecosystem. It is crucial for entrepreneurs and investors to stay informed about market trends, challenges, and success stories in the dynamic startup world.
+
 ### [1. How To Use the "10/50/99" Approach to Give Feedback](https://hackernoon.com/how-to-use-the-105099-approach-to-give-feedback-1y8433l0)
 ![](https://cdn.hackernoon.com/images/1513a3yiw.jpg)
 And how it reduces the odds you frustrate your team to the brink of leaving
@@ -78,21 +82,21 @@ When was the last time you saw or heard the adjective innovative? Was it some in
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-0b82qug.jpeg)
 When it comes to successful new product development, productivity is key. Entrepreneurs seeking to remain relevant, efficacious and profitable must continuously conceive and develop new products that not only make it to the market, but also deliver great value to target audience members. 
 
-### [20. Best Free Resources for Devs Bootstrapping Indie SaaS Startups in 2020](https://hackernoon.com/best-free-resources-for-devs-bootstrapping-indie-saas-startups-in-2020-996m3xyr)
+### [20. 60+ Ideas to Help Your Startup Survive the Coronavirus Recession](https://hackernoon.com/60-ideas-to-help-your-startup-survive-the-coronavirus-recession-5dzq3y1n)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2t82r7d.jpeg)
+1. Assess your current state
+
+### [21. Best Free Resources for Devs Bootstrapping Indie SaaS Startups in 2020](https://hackernoon.com/best-free-resources-for-devs-bootstrapping-indie-saas-startups-in-2020-996m3xyr)
 ![](https://cdn.hackernoon.com/drafts/k7x32j1.png)
 A breakdown of the best free resources I've found for developers bootstrapping their own indie SaaS businesses in 2020. 🔥
 
-### [21. How to build an effective MVP in 3 steps](https://hackernoon.com/how-to-build-an-effective-mvp-in-3-steps-jc1732dg)
+### [22. How to build an effective MVP in 3 steps](https://hackernoon.com/how-to-build-an-effective-mvp-in-3-steps-jc1732dg)
 ![](https://images.unsplash.com/photo-1510279931157-4ca63af8a363?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Building a startup! You have an epiphany and say to yourself:
 
-### [22. OYO Rooms is Going to Be India's WeWork: A Case Study](https://hackernoon.com/welcome-to-indias-wework-oyo-rooms-dm3j322l)
+### [23. OYO Rooms is Going to Be India's WeWork: A Case Study](https://hackernoon.com/welcome-to-indias-wework-oyo-rooms-dm3j322l)
 ![](https://cdn.hackernoon.com/drafts/yk1j32m7.png)
 Another Softbank Portfolio Company That Has Toxic Culture and No Clear Path to Profitability
-
-### [23. 60+ Ideas to Help Your Startup Survive the Coronavirus Recession](https://hackernoon.com/60-ideas-to-help-your-startup-survive-the-coronavirus-recession-5dzq3y1n)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2t82r7d.jpeg)
-1. Assess your current state
 
 ### [24. Why Spotify’s “Wrapped“ Feature is the Growth Hack of this Decade](https://hackernoon.com/spotifys-growth-hack-of-the-decade-4zr32u8)
 ![](https://cdn.hackernoon.com/images/1ol30p6.jpg)
@@ -184,13 +188,13 @@ It is believed that product managers should help a company do something that mak
 ![](https://cdn.hackernoon.com/drafts/bcm3x3y.png)
 There is a lot of talk about the Minimum Viable Product — a prototype with just enough features to satisfy early customers, and provide feedback for future development. But feature creep often starts much earlier, in the design & development, if not the ideation stage of a project.
 
-### [46. 4 Business Lessons From the Failure of Wework - The 47 Billion Dollar ‘Tech’ Company](https://hackernoon.com/4-business-lessons-from-the-failure-of-wework-the-47-billion-dollar-tech-company-3ahi3201)
-![](drafts/dz1w32sy.png)
-2019 was a rough year for the co-working space company WeWork. At the beginning of the year it was valued at a whopping 47 billion dollars, making it the fourth highest valued startup in the world and at the end it was valued at less than 8 billion dollars by its biggest investor.
-
-### [47. From Labels to NFT: How to Go Viral in a Tokenized Space](https://hackernoon.com/from-labels-to-nft-how-to-go-viral-in-a-tokenized-space)
+### [46. From Labels to NFT: How to Go Viral in a Tokenized Space](https://hackernoon.com/from-labels-to-nft-how-to-go-viral-in-a-tokenized-space)
 ![](https://cdn.hackernoon.com/images/0LnoCAAiCCXuCitlp2trWldfQBd2-ccb33gf.jpeg)
 Web 3.0 is gaining traction. Here's how decentralized technology will fundamentally alter the music industry's landscape in the near future.
+
+### [47. 4 Business Lessons From the Failure of Wework - The 47 Billion Dollar ‘Tech’ Company](https://hackernoon.com/4-business-lessons-from-the-failure-of-wework-the-47-billion-dollar-tech-company-3ahi3201)
+![](drafts/dz1w32sy.png)
+2019 was a rough year for the co-working space company WeWork. At the beginning of the year it was valued at a whopping 47 billion dollars, making it the fourth highest valued startup in the world and at the end it was valued at less than 8 billion dollars by its biggest investor.
 
 ### [48. Treating Your Internet Friends with Respect Starts Right Here at HackerNoon HQ](https://hackernoon.com/treating-your-internet-friends-with-respect-starts-right-here-at-hackernoon-hq-ox2c35cf)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-vlk35qc.jpeg)
@@ -224,13 +228,13 @@ The marketing automation market is predicted to reach $32.6 Billion by 2024, wit
 ![](https://cdn.hackernoon.com/images/18za5Wm34HNNw9NxIYdvYiVetLN2-pza3sez.jpeg)
 Maksim Kamaltdinov is a serial entrepreneur with several projects behind his back. But the recent one became very successful even though the market seemed tricky. We sat down with Maksim and talked about his growth hacks. 
 
-### [56. 5 Lessons from a Failed Startup Birthed Outside the Bay Area](https://hackernoon.com/5-lessons-from-a-failed-startup-birthed-outside-the-bay-area-ceau334m)
-![](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-In 2015, we started Memoratic, an educational platform that aimed to solve a few of the complex problems of our educational system. By streamlining communication between educational institutions, teachers, parents, and students the platform tried to provide incentives to improve performance at the individual and organizational levels. 
-
-### [57. Common Mistakes Startup Owners Should Avoid When Designing a Product: Founder Interview](https://hackernoon.com/common-mistakes-startup-owners-should-avoid-when-designing-a-product-founder-interview)
+### [56. Common Mistakes Startup Owners Should Avoid When Designing a Product: Founder Interview](https://hackernoon.com/common-mistakes-startup-owners-should-avoid-when-designing-a-product-founder-interview)
 ![](https://cdn.hackernoon.com/images/8VvyaRxHc4QwIekCKDNAwvxHJdz1-d793oc1.jpeg)
  What are common startup design mistakes and how to avoid them to achieve the best performance? Sergey Krasotin, an experienced entrepreneur, outlines some.
+
+### [57. 5 Lessons from a Failed Startup Birthed Outside the Bay Area](https://hackernoon.com/5-lessons-from-a-failed-startup-birthed-outside-the-bay-area-ceau334m)
+![](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+In 2015, we started Memoratic, an educational platform that aimed to solve a few of the complex problems of our educational system. By streamlining communication between educational institutions, teachers, parents, and students the platform tried to provide incentives to improve performance at the individual and organizational levels. 
 
 ### [58. When Good Traffic Goes Bad: How to Measure Traffic Quality](https://hackernoon.com/when-good-traffic-goes-bad-how-to-measure-traffic-quality-bpk32ai)
 ![](https://cdn.hackernoon.com/drafts/6xn132j0.png)
@@ -252,13 +256,13 @@ A little more than a month ago, the world officially saw a new entrant to the st
 ![](https://cdn.hackernoon.com/images/czqo38pf.jpg)
 You’re going to spend more time with your co-founder than with your spouse. This is why finding the right one is the one activity you CANNOT afford to rush. If you’re truly passionate about founding a company, you have only two options: compromise or keep on looking.
 
-### [63. 10 Reasons Why Startup Fails](https://hackernoon.com/10-reasons-why-startup-fails-32h3ul8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fm7KaOHuCmoZPJKNxY8yZwc9mc953-n61v3u95.jpeg?alt=media&token=56e739e0-7015-418e-a10c-ffd29f8a2433)
-There are a number of prominent startup examples that have been very successful in the past few decades like Facebook, Instagram, and Airbnb among others. But from these stories of success, quite a number of failure stories are left untouched. According to an estimate 9 out of 10 startups end up failing. Entrepreneurs publish post mortem online and they are quite haunting. The reasons for failure may depend upon various factors like insufficient funding, incompetent team, and lack of motivation. I have compiled a list of 10 reasons which have been the cause of startup failures.
-
-### [64. Startups Of The Year 2023: Asia Winners](https://hackernoon.com/startups-of-the-year-2023-asia-winners)
+### [63. Startups Of The Year 2023: Asia Winners](https://hackernoon.com/startups-of-the-year-2023-asia-winners)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-x38389f.jpeg)
 We are super excited to announce the official list of winners in the Asia region!
+
+### [64. 10 Reasons Why Startup Fails](https://hackernoon.com/10-reasons-why-startup-fails-32h3ul8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fm7KaOHuCmoZPJKNxY8yZwc9mc953-n61v3u95.jpeg?alt=media&token=56e739e0-7015-418e-a10c-ffd29f8a2433)
+There are a number of prominent startup examples that have been very successful in the past few decades like Facebook, Instagram, and Airbnb among others. But from these stories of success, quite a number of failure stories are left untouched. According to an estimate 9 out of 10 startups end up failing. Entrepreneurs publish post mortem online and they are quite haunting. The reasons for failure may depend upon various factors like insufficient funding, incompetent team, and lack of motivation. I have compiled a list of 10 reasons which have been the cause of startup failures.
 
 ### [65. Startup Lessons: What I Learnt Pricing My Product](https://hackernoon.com/blah-6812322s)
 ![](https://cdn.hackernoon.com/images/82bf30ib.jpg)
@@ -332,13 +336,13 @@ Joseph Woodbury of Neighbor.com shares three pieces of advice on how to raise ca
 ![](https://cdn.hackernoon.com/images/rGWF1RDlLZchb3zju0HpnW7gT6X2-vg4031gl.jpeg)
 ?The team has had diverse experiences with OKRs. In this article, we'd like to share our learnings, as well as Airbyte’s OKRs for Q1 2021.
 
-### [83. You Don't Reach Your Business Goals Because You Don't Have Any](https://hackernoon.com/you-dont-reach-your-business-goals-because-you-dont-have-any-ptdo32ag)
-![](https://images.unsplash.com/photo-1521579971123-1192931a1452?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-You know the feeling, don’t you? You dearly wish to reach some business goal, complete an important project, learn a wanted skill. Finally, perhaps after reading some inspirational articles here on Medium, you decide to get up and go. You’re full of enthusiasm, determined to finally JUST DO IT, and all that stuff.
-
-### [84. 5 Reasons Why Your Business Needs VR Today](https://hackernoon.com/5-reasons-why-your-business-needs-vr-today-z31642ul)
+### [83. 5 Reasons Why Your Business Needs VR Today](https://hackernoon.com/5-reasons-why-your-business-needs-vr-today-z31642ul)
 ![](https://cdn.hackernoon.com/images/5hf242ho.jpg)
 Virtual reality opens many new opportunities for businesses, but many companies are missing out because they don’t understand VR’s true potential. While some companies are pushing the envelope with VR implementation in their daily processes and gaining a competitive advantage, others are not even aware of what VR can do. This article will highlight five ways that VR projects can help your business.
+
+### [84. You Don't Reach Your Business Goals Because You Don't Have Any](https://hackernoon.com/you-dont-reach-your-business-goals-because-you-dont-have-any-ptdo32ag)
+![](https://images.unsplash.com/photo-1521579971123-1192931a1452?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+You know the feeling, don’t you? You dearly wish to reach some business goal, complete an important project, learn a wanted skill. Finally, perhaps after reading some inspirational articles here on Medium, you decide to get up and go. You’re full of enthusiasm, determined to finally JUST DO IT, and all that stuff.
 
 ### [85. Freshworks' Journey to India’s First SaaS IPO: A Deep-Dive](https://hackernoon.com/freshworks-journey-to-indias-first-saas-ipo-a-deep-dive)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-y32363m.jpeg)
@@ -356,13 +360,13 @@ Since the Coronavirus breakdown, millions of people are stuck at home; and for t
 ![](https://images.unsplash.com/photo-1548148870-adbf75452257?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Modern startup advice is to launch and grow revenue as quickly as possible, as aggressively as possible.
 
-### [89. D2C101: Lessons Learnt From Studying Most Successful Brands   ](https://hackernoon.com/d2c101-lessons-learnt-from-studying-most-successful-brands-jr5f3vw9)
-![](https://cdn.hackernoon.com/drafts/wudb3yqp.png)
-Retail as an industry is one that is so core to how we live our lives, but is often ignored when thinking about innovation and disruption. When I set out to start this series on D2C brands, I wanted to figure out why we should care about the evolution of retail, and what the new face of this industry looks like. In part 1, I set out to answer the first part of this fundamental question.
-
-### [90. "Affiliate Marketing is NO Longer Limited to Big Brands with Budgets over $100k" - Ivan Baidin ](https://hackernoon.com/affiliate-marketing-is-no-longer-limited-to-big-brands-with-budgets-over-$100k-ivan-baidin)
+### [89. "Affiliate Marketing is NO Longer Limited to Big Brands with Budgets over $100k" - Ivan Baidin ](https://hackernoon.com/affiliate-marketing-is-no-longer-limited-to-big-brands-with-budgets-over-$100k-ivan-baidin)
 ![](https://cdn.hackernoon.com/images/8wlyTs6rS1Ns9rTwC8LtCyE03B52-qd93zjp.jpeg)
 Common mistakes when starting an affiliate marketing, top trends to account for, and forecast for the future development of this marketing channel.
+
+### [90. D2C101: Lessons Learnt From Studying Most Successful Brands   ](https://hackernoon.com/d2c101-lessons-learnt-from-studying-most-successful-brands-jr5f3vw9)
+![](https://cdn.hackernoon.com/drafts/wudb3yqp.png)
+Retail as an industry is one that is so core to how we live our lives, but is often ignored when thinking about innovation and disruption. When I set out to start this series on D2C brands, I wanted to figure out why we should care about the evolution of retail, and what the new face of this industry looks like. In part 1, I set out to answer the first part of this fundamental question.
 
 ### [91. Founder Story: Lessons From Over 25 Years in Silicon Valley](https://hackernoon.com/founder-story-lessons-from-over-25-years-in-silicon-valley)
 ![](https://cdn.hackernoon.com/images/04RBQUokhMcaEo331itGHu88zIw1-n893gzf.jpeg)
@@ -392,13 +396,13 @@ Newbie startups fly HIGH and then fall hard! Here’s why.
 ![](https://cdn.hackernoon.com/drafts/a21k32mp.png)
 Hundreds of startup founders around the globe choose to incorporate their companies in the US to get access to the flourishing startup ecosystem. 
 
-### [98. Pros and Cons of The Gig Economy: Can Remote Workers Be Assets in Small Business?](https://hackernoon.com/pros-and-cons-of-the-gig-economy-can-remote-workers-be-assets-in-small-business-e81d32ss)
-![](https://cdn.hackernoon.com/drafts/y7j93y6z.png)
-Advancements in technology have made it possible for businesses to operate as normal with significantly fewer in-house staff. 
-
-### [99. What's Your Cycle Time?](https://hackernoon.com/align-software-engineering-metrics-to-business-kpis-lfk32hu)
+### [98. What's Your Cycle Time?](https://hackernoon.com/align-software-engineering-metrics-to-business-kpis-lfk32hu)
 ![](https://cdn.hackernoon.com/images/nf1gl32tu.jpg)
 If you can’t answer it, don’t worry, you’re not alone. Many engineering leaders couldn’t tell you without some significant number-crunching. Gaining visibility into performance is only half the battle though. Knowing how to interpret metrics and how to apply them to improving performance is where the magic happens. Many CEOs do not know how to align engineering metrics to business KPIs (revenue, customer retention, etc.). Bringing metrics to your board or non-technical CEO for the first time may be challenging if you are unable to help them bridge the gap.
+
+### [99. Pros and Cons of The Gig Economy: Can Remote Workers Be Assets in Small Business?](https://hackernoon.com/pros-and-cons-of-the-gig-economy-can-remote-workers-be-assets-in-small-business-e81d32ss)
+![](https://cdn.hackernoon.com/drafts/y7j93y6z.png)
+Advancements in technology have made it possible for businesses to operate as normal with significantly fewer in-house staff. 
 
 ### [100. Startup Lessons: Customer Discovery is Invaluable](https://hackernoon.com/startup-lessons-customer-discovery-is-invaluable-85r3z4o)
 ![](https://cdn.hackernoon.com/drafts/uj5f3ztl.png)
@@ -440,17 +444,17 @@ Today what I want to talk to you about is who should influence your marketing de
 ![](https://images.unsplash.com/photo-1514473864811-ce22e6e2a585?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Hey Hackers, 
 
-### [110. Tips For Creating A Long-Lasting Partnership Agreement With Your Startup Cofounder](https://hackernoon.com/tips-for-creating-a-long-lasting-partnership-agreement-with-your-startup-cofounder-9pv323x)
+### [110. Navigating Cloud Costs: How to Achieve Financial Visibility with Cloud Architecture ](https://hackernoon.com/navigating-cloud-costs-how-to-achieve-financial-visibility-with-cloud-architecture)
+![](https://cdn.hackernoon.com/images/LH3OvIiCqscWQ0nzDICIJ1dLCVi1-5gd3p7x.jpeg)
+Cloud Cost Allocation: Architecting for Success 
+
+### [111. Tips For Creating A Long-Lasting Partnership Agreement With Your Startup Cofounder](https://hackernoon.com/tips-for-creating-a-long-lasting-partnership-agreement-with-your-startup-cofounder-9pv323x)
 ![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-7a2r32kt.jpeg)
 Here are a couple of useful tips you can find to be helpful for your future startup business partnership.
 
-### [111. How Startups Can Overcome The Shiny Object Syndrome?](https://hackernoon.com/how-startups-can-overcome-the-shiny-object-syndrome-n5713270)
+### [112. How Startups Can Overcome The Shiny Object Syndrome?](https://hackernoon.com/how-startups-can-overcome-the-shiny-object-syndrome-n5713270)
 ![](https://cdn.hackernoon.com/drafts/ks6mv3y5k.png)
 What's the catch with all these shiny objects, and why they're proven to be dangerous for startups? Well, when something is shining all day long, you simply can't avoid it and take your eyes off it. That's a completely normal and understandable reaction. So, don't worry, there's nothing wrong with you. 
-
-### [112. Navigating Cloud Costs: How to Achieve Financial Visibility with Cloud Architecture ](https://hackernoon.com/navigating-cloud-costs-how-to-achieve-financial-visibility-with-cloud-architecture)
-![](https://cdn.hackernoon.com/images/LH3OvIiCqscWQ0nzDICIJ1dLCVi1-5gd3p7x.jpeg)
-Cloud Cost Allocation: Architecting for Success 
 
 ### [113. Are You Building A Business: Leverage Those 6 Trends](https://hackernoon.com/are-you-building-a-business-leverage-those-6-trends-4o733yg2)
 ![](https://cdn.hackernoon.com/drafts/gq8d33b9.png)
@@ -460,29 +464,29 @@ Google, now Alphabet, surfed the incredible growth of the web, extremely well,
 ![](https://images.unsplash.com/photo-1568598035424-7070b67317d2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Most of you would agree that building a successful business is contingent on hiring the right people. Product, price, and market matter, but without the right team in place, even companies with incredible potential can stall out. However, most startup founders focus heavily on “what” they’re building, without a similar amount of attention being paid to “who” they plan to build it with.
 
-### [115. Founders Writing: How I Made $640 ARR on Reddit](https://hackernoon.com/founders-writing-how-i-made-dollar640-arr-on-reddit-3b2y3z8y)
+### [115. 5 Streaming Apps and Resources to Help You Learn](https://hackernoon.com/5-streaming-apps-and-resources-to-help-you-learn-wmaw3y9b)
+![](https://cdn.hackernoon.com/images/1256t3yib.jpg)
+If you've found yourself binging an embarrassing amount of shows and movies on Netflix, Hulu and Amazon Prime in the past few weeks, you may want to consider dedicating some time to stream learning. Streaming learning programs, classes and webinars can give you some "brain exercise" during a time when we must social distance and inherently increase screen time. 
+
+### [116. Founders Writing: How I Made $640 ARR on Reddit](https://hackernoon.com/founders-writing-how-i-made-dollar640-arr-on-reddit-3b2y3z8y)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FomZHrpefGqUNZRMIPvzh0sRwcv03-ff3h3tu2.jpeg?alt=media&token=b6db8fd9-6849-40f8-9ba6-93c2efda4837)
 This is a “how I use Syften to grow Syften” story.
 
-### [116. What Is Being a FinTech CEO like?](https://hackernoon.com/what-is-being-a-fintech-ceo-like-sl1h337qt)
+### [117. What Is Being a FinTech CEO like?](https://hackernoon.com/what-is-being-a-fintech-ceo-like-sl1h337qt)
 ![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-bq7w3oag.jpeg)
 Big money, get paid. Tom Sosnoff, Co-CEO of tastytrade, and Sean Salas, CEO of Camino Financial, join Amy Tom this week to discuss FinTech startups. What is Wal
-
-### [117. 5 Streaming Apps and Resources to Help You Learn](https://hackernoon.com/5-streaming-apps-and-resources-to-help-you-learn-wmaw3y9b)
-![](https://cdn.hackernoon.com/images/1256t3yib.jpg)
-If you've found yourself binging an embarrassing amount of shows and movies on Netflix, Hulu and Amazon Prime in the past few weeks, you may want to consider dedicating some time to stream learning. Streaming learning programs, classes and webinars can give you some "brain exercise" during a time when we must social distance and inherently increase screen time. 
 
 ### [118. Current Market Outlook: Insights for Seed Stage Founders](https://hackernoon.com/current-market-outlook-insights-for-seed-stage-founders-oj9u3y81)
 ![](https://cdn.hackernoon.com/drafts/3w9l32tk.png)
 This short briefing note is prepared for founders who are considering, or are in the process of raising seed capital. The last few weeks have seen a significant shift in terms of the fundraising atmosphere, and investors’ appetite for risk. 
 
-### [119. WHAT ZUCK SAID ](https://hackernoon.com/what-zuck-said-52j3y57)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzS7Ens3qoUevRb8Om1z17awDmJ93-nno3u2b.png?alt=media&token=f3520187-ee5a-4bc3-99ce-37184ae019f0)
-Zuckerberg is in the news lately for his announcement about his plans to take his workforce remote. 
-
-### [120. Running a Nonprofit: Gary Vee Interviews Scott Harrison, Founder & CEO of Charity Water](https://hackernoon.com/running-a-nonprofit-gary-vee-interviews-scott-harrison-founder-and-ceo-of-charity-water-dq5h33tm)
+### [119. Running a Nonprofit: Gary Vee Interviews Scott Harrison, Founder & CEO of Charity Water](https://hackernoon.com/running-a-nonprofit-gary-vee-interviews-scott-harrison-founder-and-ceo-of-charity-water-dq5h33tm)
 ![](https://cdn.hackernoon.com/images/vs1c36cf.jpg)
 This inspiring video covers Scott’s background story, why he decided to “quit being the worst guy he knew” and start working to serve others through his work at Charity Water.
+
+### [120. WHAT ZUCK SAID ](https://hackernoon.com/what-zuck-said-52j3y57)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzS7Ens3qoUevRb8Om1z17awDmJ93-nno3u2b.png?alt=media&token=f3520187-ee5a-4bc3-99ce-37184ae019f0)
+Zuckerberg is in the news lately for his announcement about his plans to take his workforce remote. 
 
 ### [121. #Don'tBeAJerk as A Viable Marketing Strategy](https://hackernoon.com/how-to-not-be-a-jerk-a-marketing-strategy-2iil32d9)
 ![](https://cdn.hackernoon.com/drafts/8odet323o.png)
@@ -492,13 +496,13 @@ You won't believe how many jerks a person could meet in one day that just being 
 ![](https://cdn.hackernoon.com/images/JZsuT4CAy1Rp1wLIukm5kZ1KkKK2-qh93oy8.jpeg)
  I'm not going to discuss India's most well-known startups. But the ones, driven by women that managed to innovate & upscale excellent B2C products amidst covid
 
-### [123. Pandemic Remote Work != Remote Work](https://hackernoon.com/pandemic-remote-work-remote-work-gf9r32ex)
-![](https://cdn.hackernoon.com/drafts/vq1c32gi.png)
-Have you switched to remote work in the past couple of weeks/days? Well, chances are high you have, or you will. I want to share my words of caution and tips to make pandemic remote work better.
-
-### [124. 3 Business Lessons We (Re)Learned (Re)Watching Moneyball at Waydev](https://hackernoon.com/three-valuable-business-lessons-we-were-reminded-of-while-rewatching-moneyball-a41z32ot)
+### [123. 3 Business Lessons We (Re)Learned (Re)Watching Moneyball at Waydev](https://hackernoon.com/three-valuable-business-lessons-we-were-reminded-of-while-rewatching-moneyball-a41z32ot)
 ![](https://cdn.hackernoon.com/drafts/kh1e330lz.png)
 To help soothe the shock of returning to work after the holidays, we've started a new tradition over at Waydev and kick off the year with a good movie or two. Since it had to be something both entertaining and inspiring, we chose to go with a classic: Moneyball, the 2011 film starring Brad Pitt.
+
+### [124. Pandemic Remote Work != Remote Work](https://hackernoon.com/pandemic-remote-work-remote-work-gf9r32ex)
+![](https://cdn.hackernoon.com/drafts/vq1c32gi.png)
+Have you switched to remote work in the past couple of weeks/days? Well, chances are high you have, or you will. I want to share my words of caution and tips to make pandemic remote work better.
 
 ### [125. The Early Start-up Fallacies and Identifying Your Alphas](https://hackernoon.com/the-early-start-up-fallacies-crk3242)
 ![](https://cdn.hackernoon.com/drafts/pf5f32i3.png)
@@ -525,14 +529,14 @@ Reasons That Will Prompt You To Start Your Startup No. Working in an office as a
 ![](https://cdn.hackernoon.com/images/5raSwaAzqiMSMXoD51IpTZttEpj1-vo1h3g6e.jpeg)
 Start voting for the best startups today! We want to recognize the startups that are changing technology and the world as we know it for the better!
 
-### [131. What I Learnt About A/B Testing by A/B Testing my Landing Page](https://hackernoon.com/what-i-learn-about-ab-testing-zf7p3kii)
-![](https://cdn.hackernoon.com/images/jx9e3zbf.gif)
-In this post, I would share about my experience with and without A/B testing on Howuku landing page and how adopting A/B testing has improved my landing page conversion rates by 60%.
-
-### [132. 10 Things I Wish I Knew About Product Management
+### [131. 10 Things I Wish I Knew About Product Management
 Sooner ](https://hackernoon.com/10-things-i-wish-i-knew-about-product-management-sooner)
 ![](https://cdn.hackernoon.com/images/product-management-h1sf67psgqxkm4gbh9ebxy8v.png)
 A brutally honest, funny take on product management—real lessons, awkward truths, and why “just add a button” is never as simple as it sounds.
+
+### [132. What I Learnt About A/B Testing by A/B Testing my Landing Page](https://hackernoon.com/what-i-learn-about-ab-testing-zf7p3kii)
+![](https://cdn.hackernoon.com/images/jx9e3zbf.gif)
+In this post, I would share about my experience with and without A/B testing on Howuku landing page and how adopting A/B testing has improved my landing page conversion rates by 60%.
 
 ### [133. Startup Interview with Estiuck Al Regun, Founder of DataXpie](https://hackernoon.com/startup-interview-with-estiuck-al-regun-founder-of-dataxpie)
 ![](https://cdn.hackernoon.com/images/1mjzBzdpivbwduWeg1Ud5kRjNQF2-2a735nv.jpeg)
@@ -560,19 +564,19 @@ Ask Josh anything now on Twitter and tune in for LIVE discussion on September
 ![](https://cdn.hackernoon.com/drafts/nzsi3y2n.png)
 People have the tendency to be lax when it comes to protecting their intellectual property. When you’re in the process of developing and brainstorming for different business ideas, it may be hard to see the value of what you’re making if it isn’t tangible yet. 
 
-### [139. How to Build a Product in Public And Get Traction](https://hackernoon.com/how-to-build-a-product-in-public-n91k3xf2)
+### [139. How Copyright Strikes Helped Boost my Freelance Music Career](https://hackernoon.com/how-copyright-strikes-helped-boost-my-freelancing-music-career-j373344g)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-2t6u34kc.jpeg)
+By researching an analysis on why I got a lot of orders, I figured out an issue with the music industry. It’s called “Copyright”.
+
+### [140. How to Build a Product in Public And Get Traction](https://hackernoon.com/how-to-build-a-product-in-public-n91k3xf2)
 ![](https://cdn.hackernoon.com/images/292632b5.jpg)
 Image by Jorge Guillen from Pixabay 
 
 An increasing number of indie makers decide to build in public. Some do it via their blog, on Twitter, on an open page or via communities. But it can be incredibly daunting to makers who are used to build their products in a more private fashion.
 
-### [140. Startups Forging Ahead With Online Accelerators](https://hackernoon.com/startups-forging-ahead-with-online-accelerators-1io33xc)
+### [141. Startups Forging Ahead With Online Accelerators](https://hackernoon.com/startups-forging-ahead-with-online-accelerators-1io33xc)
 ![](https://cdn.hackernoon.com/images/ZngM5e3hu1aXXOwnZLSTQ5yaPrP2-l9k3550.png)
 Nothing has been normal in the year since the world shutdown - but that hasn’t stopped the fintech engine of Singapore from continuing to accelerate. 
-
-### [141. How Copyright Strikes Helped Boost my Freelance Music Career](https://hackernoon.com/how-copyright-strikes-helped-boost-my-freelancing-music-career-j373344g)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-2t6u34kc.jpeg)
-By researching an analysis on why I got a lot of orders, I figured out an issue with the music industry. It’s called “Copyright”.
 
 ### [142. Going public: A Growth Story!](https://hackernoon.com/going-public-a-growth-story-kvm3w4p)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUROolxLXHbYbmcCeFQr8a93oYch1-0363tjv.jpeg?alt=media&token=e2e06ebe-e45e-4ce1-b53a-e1a3ccbc9e54)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [css3](https://hackernoon.com/tagged/css3)
+### Let's learn about [Css3](https://hackernoon.com/tagged/css3) via these 193 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+CSS3 is the latest evolution of Cascading Style Sheets, a stylesheet language used for describing the presentation of a document written in HTML or XML. It is fundamental for web design, enabling rich visual experiences and responsive layouts across devices.
+
 ### [1. The Best CSS Unit For a Responsive Design](https://hackernoon.com/the-best-css-unit-for-a-responsive-design-ku6q37to)
 ![](https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 CSS units are very important when creating a responsive website and you might wonder which one to use considering we have several CSS units. I had the same issue while working on a project, so I did some research on it. In this article, I will show you the most suitable CSS units to use for responsive design.
@@ -98,15 +102,15 @@ Code playgrounds are becoming increasingly popular, with more developers using t
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkcjEynhZoKNHms5xpTHzfYkiC0g2-me593u3r.jpeg?alt=media&token=24a40cbe-1452-4083-a6fa-481f719f1181)
 It is the received wisdom among software developers, as anyone who has so much as had a conversation with one can testify, that the best way to make progress in learning to programme is to “learn by doing”. I am not here to contest that.
 
-### [25. Getting Started with Web Audio API](https://hackernoon.com/getting-started-with-web-audio-api-f6w3yrx)
+### [25. How CSS Position Sticky Really Works: Tips For Beginners](https://hackernoon.com/how-css-position-sticky-really-works-tips-for-beginners-j3v3w51)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FURNa2aCaxtP8OMUPGgqrquAZhU13-mg1s26fc.jpeg?alt=media&token=2ade0927-169d-43d4-99ed-0fa3ffda553a)
+PH: Danny Meneses from Pexels.
+
+### [26. Getting Started with Web Audio API](https://hackernoon.com/getting-started-with-web-audio-api-f6w3yrx)
 ![](https://cdn.hackernoon.com/images/oty2ey8.jpg)
 The Web Audio API provides a powerful and versatile system for 
 controlling audio on the Web, allowing developers to choose audio sources, add effects to audio, create audio visualizations, apply 
 spatial effects (such as panning) and much more.
-
-### [26. How CSS Position Sticky Really Works: Tips For Beginners](https://hackernoon.com/how-css-position-sticky-really-works-tips-for-beginners-j3v3w51)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FURNa2aCaxtP8OMUPGgqrquAZhU13-mg1s26fc.jpeg?alt=media&token=2ade0927-169d-43d4-99ed-0fa3ffda553a)
-PH: Danny Meneses from Pexels.
 
 ### [27. Overriding Bootstrap Classes Using CSS](https://hackernoon.com/overriding-bootstrap-classes-using-css-5qjx3y9x)
 ![](https://cdn.hackernoon.com/images/sR5hH46Da1eASmmQn0mIAV2aVR92-fra3az2.jpeg)
@@ -124,13 +128,13 @@ Have you ever wondered how hard or easy it would be to create your own screen-sh
 ![](https://cdn.hackernoon.com/images/UkCGosn8u8RYCcOvW57o2EE4rZF3-3393b8g.jpeg)
 21 Useful HTML & CSS tips for every project
 
-### [31. Understanding CSS Margin and Padding With Simple Analogies](https://hackernoon.com/understanding-css-margin-and-padding-with-simple-analogies-bt1o3y30)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7882quu.jpeg)
-Photo by Inside Weather on Unsplash
-
-### [32. How to De-Squeeze an Image Using CSS](https://hackernoon.com/how-to-de-squeeze-an-image-using-css-6n6c244c)
+### [31. How to De-Squeeze an Image Using CSS](https://hackernoon.com/how-to-de-squeeze-an-image-using-css-6n6c244c)
 ![](https://cdn.hackernoon.com/drafts/b23u4y7g.png)
 All images have different sizes. But most of the time we want to place an image and define dimensions by ourselves. By default, the whole image squeezed according to the given width and height. For instance, if you want to place an image with a width of 400px and a height of 500px the image will look like this:
+
+### [32. Understanding CSS Margin and Padding With Simple Analogies](https://hackernoon.com/understanding-css-margin-and-padding-with-simple-analogies-bt1o3y30)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7882quu.jpeg)
+Photo by Inside Weather on Unsplash
 
 ### [33. PurgeCSS 2.0 Introduction: Remove Unused CSS From Your Project](https://hackernoon.com/purgecss-20-introduction-remove-unused-css-from-your-project-0i8r322c)
 ![](https://cdn.hackernoon.com/images/w1jb280c.jpg)
@@ -222,13 +226,13 @@ During years I've been using Bootstrap, the most popular UI library for responsi
 ![](https://cdn.hackernoon.com/drafts/jz1k32nv.png)
 Every time one decides to embark on a new adventure it is inevitable to find obstacles and have a few downfalls along the way. In my case, it was more like one of those people you watch on YouTube getting hurt trying to perform some amazing trick…
 
-### [55. CSS3 Media Queries for Responsive Design on Mobile Screens](https://hackernoon.com/css3-media-queries-for-responsive-design-on-mobile-screens-bv343vqv)
-![](https://images.unsplash.com/photo-1559526324-c1f275fbfa32?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-
-
-### [56. Creating Facial Expressions with CSS Animations](https://hackernoon.com/creating-facial-expressions-with-css-animations)
+### [55. Creating Facial Expressions with CSS Animations](https://hackernoon.com/creating-facial-expressions-with-css-animations)
 ![](https://cdn.hackernoon.com/images/XnmRCKEVWBboZ1mYtfKYyUkBFek1-jq83ygo.jpeg)
 Learn how you can use CSS animations to create facial expressions through position, transitions, and opacity.
+
+### [56. CSS3 Media Queries for Responsive Design on Mobile Screens](https://hackernoon.com/css3-media-queries-for-responsive-design-on-mobile-screens-bv343vqv)
+![](https://images.unsplash.com/photo-1559526324-c1f275fbfa32?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+
 
 ### [57. Free Tools That Will Help You Grow As A Front-End Developer In 2021](https://hackernoon.com/free-tools-that-will-help-you-grow-as-a-front-end-developer-in-2021-ssx334e)
 ![](https://hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-i6l330n.jpeg)
@@ -238,21 +242,21 @@ You only need this post to become a Front-end Developer because this post has ne
 ![](https://cdn.hackernoon.com/drafts/x84g2geg.png)
 CSS Animations enable the front-end developer to animate HTML elements which in turn give your website a fun and cool look. In this post, we will take a deep dive into how to use animations in CSS. When you are done, you should have a good understanding of the topic. Try typing the code into your code editor and see how it works. This will help the concepts sink in deeper. Now let us take a look at this example.
 
-### [59. CSS FlexBox Cheat Sheets for Web Developers in 2021](https://hackernoon.com/css-flexbox-cheat-sheets-for-web-developers-in-2021-fx2l31op)
-![](https://cdn.hackernoon.com/images/nTJ2Dz1w2afQFppCmwHO1gpaxgt2-uab31u0.jpeg)
-Here's a Cheat Sheet of everything you can do with CSS flexbox to get started in 2021. Properties with every possible value included. Short-Hands are explained
-
-### [60. Creating Todo Web App Using Vanilla JavaScript](https://hackernoon.com/creating-todo-web-app-using-vanilla-javascript-uk4e3yry)
+### [59. Creating Todo Web App Using Vanilla JavaScript](https://hackernoon.com/creating-todo-web-app-using-vanilla-javascript-uk4e3yry)
 ![](https://cdn.hackernoon.com/images/u1c23yzo.jpg)
 today we will create a basic todo app to understand the basics of javascript. In this web app, one can create notes and delete like Google Keep or Evernote.
 
-### [61. How To Create And Use Skeleton Loader: Simple Example [Part 2]](https://hackernoon.com/how-to-create-and-use-skeleton-loader-simple-example-part-2-5d1y310g)
-![](https://hackernoon.com/images/I99eugiq93NY6mgHOiIaGf3bNCr1-mj8v28wf.gif)
-In this post, we will dive into actual implementation of Skeleton Loader step by step.
+### [60. CSS FlexBox Cheat Sheets for Web Developers in 2021](https://hackernoon.com/css-flexbox-cheat-sheets-for-web-developers-in-2021-fx2l31op)
+![](https://cdn.hackernoon.com/images/nTJ2Dz1w2afQFppCmwHO1gpaxgt2-uab31u0.jpeg)
+Here's a Cheat Sheet of everything you can do with CSS flexbox to get started in 2021. Properties with every possible value included. Short-Hands are explained
 
-### [62. Here’s All You Need to Know About the CSS Box Model](https://hackernoon.com/heres-all-you-need-to-know-about-the-css-box-model)
+### [61. Here’s All You Need to Know About the CSS Box Model](https://hackernoon.com/heres-all-you-need-to-know-about-the-css-box-model)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-ud93osb.jpeg)
 The CSS box model is a term thrown around in CSS with very little context but is probably the most fundamental thing you can know in CSS.
+
+### [62. How To Create And Use Skeleton Loader: Simple Example [Part 2]](https://hackernoon.com/how-to-create-and-use-skeleton-loader-simple-example-part-2-5d1y310g)
+![](https://hackernoon.com/images/I99eugiq93NY6mgHOiIaGf3bNCr1-mj8v28wf.gif)
+In this post, we will dive into actual implementation of Skeleton Loader step by step.
 
 ### [63. Responsive Web Design: Understand And Apply It Once And For All](https://hackernoon.com/responsive-web-design-understand-and-apply-it-once-and-for-all-mh163w3r)
 ![](https://cdn.hackernoon.com/images/n0i3ypi.gif)
@@ -278,13 +282,13 @@ Frameworks have definitely changed a lot about the web development process. Pure
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-y493ohl.jpeg)
 There is a surprising lack of articles on how to make Minecraft chickens in CSS though.
 
-### [67. How to use CSS pseudo-classes :before and :after](https://hackernoon.com/how-to-use-css-pseudo-classes-before-and-after-22xj3ypn)
-![](https://cdn.hackernoon.com/images/z91a93yi2.jpg)
-The CSS :before and :after properties are what also known as pseudo elements. They are used to add something before or after the content of an element. There are a lot of great uses for these pseudo elements, and we are here to explore some of them.
-
-### [68. Making a Gradient Color Generator App Using JavaScript](https://hackernoon.com/making-a-gradient-color-generator-app-using-javascript)
+### [67. Making a Gradient Color Generator App Using JavaScript](https://hackernoon.com/making-a-gradient-color-generator-app-using-javascript)
 ![](https://cdn.hackernoon.com/images/awSK9UBJcfNNXiYmqyT1Ihlw5Hr2-ae03645.jpeg)
 In this article, I have shown you how to make Gradient Color Generator using JavaScript.
+
+### [68. How to use CSS pseudo-classes :before and :after](https://hackernoon.com/how-to-use-css-pseudo-classes-before-and-after-22xj3ypn)
+![](https://cdn.hackernoon.com/images/z91a93yi2.jpg)
+The CSS :before and :after properties are what also known as pseudo elements. They are used to add something before or after the content of an element. There are a lot of great uses for these pseudo elements, and we are here to explore some of them.
 
 ### [69. WebVTT API: Introduction to The Web Video Text Tracks Format](https://hackernoon.com/webvtt-api-introduction-to-the-web-video-text-tracks-format-8qz3yn6)
 ![](https://cdn.hackernoon.com/images/vgy2eey.jpg)
@@ -318,13 +322,13 @@ This effect is so cool and just fun to see. What it comes down to is having a ba
 ![](https://cdn.hackernoon.com/drafts/ce4m3wco.png)
 For some people, the title could look funny or interesting. But it is true because I made that trip, I spent 9 weeks working hard learning HTML and CSS. 
 
-### [76. Top 5 Free HTML and CSS Online Training Courses for Beginners](https://hackernoon.com/top-5-free-html-and-css-online-training-courses-for-beginners-o94e3wkm)
-![](https://images.unsplash.com/photo-1508317469940-e3de49ba902e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-HTML and CSS are two pillars of web development, they are used to create web pages you see every day. HTML provides the structure to your web page and CSS provides them the style to look better. If you want to become a front-end web developer or web designer then a good knowledge of HTML and CSS is a must.
-
-### [77. 17 Most Popular Tools For React Developers](https://hackernoon.com/17-most-popular-tools-for-react-developers)
+### [76. 17 Most Popular Tools For React Developers](https://hackernoon.com/17-most-popular-tools-for-react-developers)
 ![](https://cdn.hackernoon.com/images/FjuQRlqmKcOfiSIuovcoBj5uO053-4yh3710.jpeg)
 Today we will go into learning tools and libraries to help developers in the process of programming with React JS!
+
+### [77. Top 5 Free HTML and CSS Online Training Courses for Beginners](https://hackernoon.com/top-5-free-html-and-css-online-training-courses-for-beginners-o94e3wkm)
+![](https://images.unsplash.com/photo-1508317469940-e3de49ba902e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+HTML and CSS are two pillars of web development, they are used to create web pages you see every day. HTML provides the structure to your web page and CSS provides them the style to look better. If you want to become a front-end web developer or web designer then a good knowledge of HTML and CSS is a must.
 
 ### [78.  CSS Block Element Modifier](https://hackernoon.com/css-design-patternsblock-element-modifiers-qk9e36ut)
 ![](https://cdn.hackernoon.com/images/lj1rv368l.jpg)
@@ -351,17 +355,17 @@ A Beginner's Guide to CSS Grid Layout
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ys9306m.jpeg)
 What is the computed value of the display property for the .child element in the following example?
 
-### [84. How To Make a CSS Game Without Using JavaScript [Step-by-Step Guide]](https://hackernoon.com/level-up-your-css-game-today-making-a-game-with-no-javascript-x71q2b64)
+### [84. How to solve the Z-index issue Within 1 minute😲😲](https://hackernoon.com/how-to-solve-the-z-index-issue-within-1-minute-qs4q3yxf)
+![](https://images.unsplash.com/photo-1479981280584-037818c1297d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+In this blog, I am going to tell one secret tool in the dev console that you can use to debug your next Z-index bug.
+
+### [85. How To Make a CSS Game Without Using JavaScript [Step-by-Step Guide]](https://hackernoon.com/level-up-your-css-game-today-making-a-game-with-no-javascript-x71q2b64)
 ![](https://cdn.hackernoon.com/drafts/fqo3zi8.png)
 CSS, or Cascading Style Sheets, might not be the first language you think of when making games for the web. Heck! It isn’t even a Turing complete
  programming language by itself. As it’s name states, it’s “just” a 
 styling language, no loops, if-else statements or any of those fancy 
 things here.
 
-
-### [85. How to solve the Z-index issue Within 1 minute😲😲](https://hackernoon.com/how-to-solve-the-z-index-issue-within-1-minute-qs4q3yxf)
-![](https://images.unsplash.com/photo-1479981280584-037818c1297d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-In this blog, I am going to tell one secret tool in the dev console that you can use to debug your next Z-index bug.
 
 ### [86. Understanding Optional Chaining in JavaScript ](https://hackernoon.com/understanding-optional-chaining-in-javascript)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-it93pl5.jpeg)
@@ -405,21 +409,21 @@ CSS, Cascading Style Sheets, is a style sheet language that is simple and easy t
 ![](https://cdn.hackernoon.com/images/p7mz3y4u.jpg)
 Without the transition, transform property is able just to turn over the object it is applied to. So, in the most real-life situations (real-life?), these two options are applied together.
 
-### [96. Learn HTML & CSS: The Best FREE Online Resources for Beginners](https://hackernoon.com/learn-html-and-css-the-best-free-online-resources-for-beginners-hr3y3y8w)
-![](https://cdn.hackernoon.com/drafts/1hj9430d3.png)
-If you're curious about getting started with web development, one of the things you will first have to learn is HTML & CSS, this is the base of web development and the first two inseparable tools you'll have to master
-
-### [97. 5 Simple Ways to Replace All String Occurrences in JavaScript](https://hackernoon.com/5-simple-ways-to-replace-all-string-occurrences-in-javascript)
+### [96. 5 Simple Ways to Replace All String Occurrences in JavaScript](https://hackernoon.com/5-simple-ways-to-replace-all-string-occurrences-in-javascript)
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-j992kud.jpeg)
 Have you ever been in a situation where you had a string of text and wanted to replace all of its occurrences with something else?
 
-### [98. My Web Development Journey With Microverse](https://hackernoon.com/my-web-development-journey-with-microverse-xhfg36ac)
-![](https://cdn.hackernoon.com/drafts/r4pm38ie.png)
-HTML and CSS are two of the most popular tools used to create front-end designs for websites. As simple as they may seem from the outside looking in, they can prove to be quite a challenge at times, pulling one into a black hole of design thinking. 
+### [97. Learn HTML & CSS: The Best FREE Online Resources for Beginners](https://hackernoon.com/learn-html-and-css-the-best-free-online-resources-for-beginners-hr3y3y8w)
+![](https://cdn.hackernoon.com/drafts/1hj9430d3.png)
+If you're curious about getting started with web development, one of the things you will first have to learn is HTML & CSS, this is the base of web development and the first two inseparable tools you'll have to master
 
-### [99. Introduction To Styled-Components](https://hackernoon.com/introduction-to-styled-components-lf1333lq)
+### [98. Introduction To Styled-Components](https://hackernoon.com/introduction-to-styled-components-lf1333lq)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-bw9339y.jpeg)
 styled-components is a CSS-in-JS library that helps you to write CSS in a component. Here in this post, I will cover more than basics you need to know.....
+
+### [99. My Web Development Journey With Microverse](https://hackernoon.com/my-web-development-journey-with-microverse-xhfg36ac)
+![](https://cdn.hackernoon.com/drafts/r4pm38ie.png)
+HTML and CSS are two of the most popular tools used to create front-end designs for websites. As simple as they may seem from the outside looking in, they can prove to be quite a challenge at times, pulling one into a black hole of design thinking. 
 
 ### [100. Frontend Development Basics: How to Save Time with SASS/SCSS ](https://hackernoon.com/frontend-development-basics-how-to-save-time-with-sassscss-uoc03yf7)
 ![](https://cdn.hackernoon.com/images/pri19rm.jpg)
@@ -433,33 +437,33 @@ Emmet is a tool designed to help developers save time while writing HTML and CSS
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-oz92kj9.jpeg)
 Mastering CSS selectors doesn't have to be a daunting task. One of the best ways to set yourself up for success is by learning how to group and nest your select
 
-### [103. Bootstrap vs Media Queries: How to Make a Page Responsive](https://hackernoon.com/bootstrap-vs-media-queries-how-to-make-a-page-responsive-3k343z65)
+### [103. CSS Combinators : Mastering the Use of Multiple CSS Selectors](https://hackernoon.com/css-combinators-mastering-the-use-of-multiple-css-selectors)
+![](https://cdn.hackernoon.com/images/Xij1jbniEqeB5PHWSYsIMk1bH1A2-7yb3jc6.jpeg)
+A Complete guide on CSS combinators 2022. You can find everything you need to know about CSS Combinators in this blog.
+
+### [104. Bootstrap vs Media Queries: How to Make a Page Responsive](https://hackernoon.com/bootstrap-vs-media-queries-how-to-make-a-page-responsive-3k343z65)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-wo283z5s.jpeg)
 Using Bootstrap to make a page responsive saves one so much time and memory space. Let's see how this is possible, I have created a dummy web page that has four grids as shown below:
 
-### [104. How To Use CSS Sprites: An Ingenious Way of Reducing Page Loading time](https://hackernoon.com/how-to-use-css-sprites-an-ingenious-way-of-reducing-page-loading-time-c72u37yk)
+### [105. How To Use CSS Sprites: An Ingenious Way of Reducing Page Loading time](https://hackernoon.com/how-to-use-css-sprites-an-ingenious-way-of-reducing-page-loading-time-c72u37yk)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-sx82r48.jpeg)
 Imagine you have six images on your home page. You might proceed with loading the images separately. After all, they are six different images and to be used in six different places. And you might be right ... from your perspective. You also know that loading six different images will force the browser to make six different HTTP requests to the server. And each time it makes a request, a few milliseconds gets added to your page loading time. That's bad news if you have fifty images.
 
-### [105. 8 Ways to Apply UX to Your Website](https://hackernoon.com/8-ways-to-apply-ux-to-your-website-p06g33ns)
+### [106. 8 Ways to Apply UX to Your Website](https://hackernoon.com/8-ways-to-apply-ux-to-your-website-p06g33ns)
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-c89m32ie.jpeg)
 User Experience is a must on the website as that is the thing people experience first. There are 99% chances that the visitor will go whether you have...
 
-### [106. The Different Ways to Start Project using Floats, Flexbox, and Grid CSS](https://hackernoon.com/the-different-ways-to-start-project-using-floats-flexbox-and-grid-css-4x82371n)
+### [107. The Different Ways to Start Project using Floats, Flexbox, and Grid CSS](https://hackernoon.com/the-different-ways-to-start-project-using-floats-flexbox-and-grid-css-4x82371n)
 ![](https://cdn.hackernoon.com/images/h91536w7.jpg)
 As a beginners sometimes we are trying to learn and understand about CSS (Cascading Style Sheets) and the huge amount of documentation and tutorials we can find on internet, as a Microverse student I also spend some time working on different challenges and having the chance to apply this different approaches on my projects like Float, Flexbox and Grid, for sure I have to mention that even after facing some cloning site projects I don't consider myself an expert but this help me to have a better idea about working with this approaches; after my firsts steps I fell like making an article about my experience on this CSS & HTML path and maybe this will help other beginners to have a fast view and better understanding about it.
 
-### [107. 6 Biggest Mistakes With The CSS Grid](https://hackernoon.com/6-biggest-mistakes-with-the-css-grid-d4e3uqu)
+### [108. 6 Biggest Mistakes With The CSS Grid](https://hackernoon.com/6-biggest-mistakes-with-the-css-grid-d4e3uqu)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FofFClF1MZGehnwNrJGwT3HN0EZ32-lbbm3yt1.webp?alt=media&token=b265385c-3770-4dbd-b5b0-0a84c8b07340)
 Introduction
 
-### [108. Journey to Become a Web Developer From Scratch [Step-by-Step Guide]](https://hackernoon.com/journey-to-become-a-web-developer-guide-5j3i32ox)
+### [109. Journey to Become a Web Developer From Scratch [Step-by-Step Guide]](https://hackernoon.com/journey-to-become-a-web-developer-guide-5j3i32ox)
 ![](https://cdn.hackernoon.com/drafts/vu3632hr.png)
 Before getting in, let’s discuss about objectives.
-
-### [109. CSS Combinators : Mastering the Use of Multiple CSS Selectors](https://hackernoon.com/css-combinators-mastering-the-use-of-multiple-css-selectors)
-![](https://cdn.hackernoon.com/images/Xij1jbniEqeB5PHWSYsIMk1bH1A2-7yb3jc6.jpeg)
-A Complete guide on CSS combinators 2022. You can find everything you need to know about CSS Combinators in this blog.
 
 ### [110. Adding Responsive Website Design To Your Web Projects](https://hackernoon.com/good-and-responsive-website-design-is-necessary-for-your-web-projects-psy3x38)
 ![](https://cdn.hackernoon.com/images/v08z3x3i.jpg)
@@ -469,13 +473,13 @@ A Complete guide on CSS combinators 2022. You can find everything you need to kn
 ![](https://cdn.hackernoon.com/images/XpCcNhSinyMKHrKtb4arbd3Nos33-sl93sh6.jpeg)
 Sass is a mature, stable, and powerful professional-grade CSS preprocessor. It is similar to CSS and allows us to design websites in a more effective manner.
 
-### [112. Creating a CSS Visual Cheatsheet](https://hackernoon.com/creating-a-css-visual-cheatsheet-5p1n3wa9)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxMGHPMiKyNV3E6Ps9jdve1nldjg2-v0a3eq8.jpeg?alt=media&token=2684e572-c301-4f28-bdca-65477d01e2a4)
-The other day one of our students asked about possibility of having a CSS cheatsheet to help to decide on the best suited approach when doing this or that layout.
-
-### [113. How To Make Your Page Look Alive with CSS Transitions](https://hackernoon.com/how-to-make-your-page-look-alive-with-css-transitions-cz2f3yes)
+### [112. How To Make Your Page Look Alive with CSS Transitions](https://hackernoon.com/how-to-make-your-page-look-alive-with-css-transitions-cz2f3yes)
 ![](https://cdn.hackernoon.com/drafts/j91p2yy3.png)
 Going Through HTML & CSS courses, I learned A LOT, but surprisingly, I never come across the Transition property up until recently, and I've been loving it ever since.
+
+### [113. Creating a CSS Visual Cheatsheet](https://hackernoon.com/creating-a-css-visual-cheatsheet-5p1n3wa9)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxMGHPMiKyNV3E6Ps9jdve1nldjg2-v0a3eq8.jpeg?alt=media&token=2684e572-c301-4f28-bdca-65477d01e2a4)
+The other day one of our students asked about possibility of having a CSS cheatsheet to help to decide on the best suited approach when doing this or that layout.
 
 ### [114. CSS Positions: Real Examples to Help You Learn](https://hackernoon.com/css-positions-real-examples-to-help-you-learn)
 ![](https://cdn.hackernoon.com/images/ZVaOT4wuYocdOWlS2EVBWtrCK0K3-g282obd.png)
@@ -483,21 +487,21 @@ Let's start with even do you need CSS positions aren't the other properties enou
 
 Say you want to create an navigation..
 
-### [115. Evolution of Web Design: From HTML to HTML5](https://hackernoon.com/evolution-of-web-design-from-html-to-html5-utnc36xi)
-![](https://cdn.hackernoon.com/images/3j833611.jpg)
-When most people think about evolution, what comes to mind is “the big bang”, usually describing it as way different types of living organisms developed from earlier forms during the history of the earth. Technology has also evolved over time, there are many technologies, major ones being web development, computer systems, software engineering, artificial intelligence and many more. The main focus of this article is on the evolution of Web Design. A deeper dive into HTML which is the backbone of every web page document that you see on the internet today. Yes, other supplements exist e.g. CSS, thats adds design for websites, but without HTML, displaying a webpage document is not possible.
-
-### [116. How To Format Your CSS Code as a Professional](https://hackernoon.com/how-to-format-your-css-code-as-a-professional-sa153u32)
+### [115. How To Format Your CSS Code as a Professional](https://hackernoon.com/how-to-format-your-css-code-as-a-professional-sa153u32)
 ![](https://cdn.hackernoon.com/images/9c3r3xjn.jpg)
 As a full-stack web developer, I'm building different websites by writing code every single day. Experiencing several situations including solving problems and fixing errors.
 
-### [117. How To Create CSS Neon Animation](https://hackernoon.com/how-to-create-css-neon-animation-p6133utf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY5pgfcYeb2WkzcbAON1f4rfpLAW2-al1a3und.jpeg?alt=media&token=08587a4a-0427-4e4d-95eb-064f39fe443e)
-Guys! Thank you all 🥳, I've hit a 100 subscribers to my Newsletter and I'm over the moon!
-
-### [118. I Built A Photo Gallery with CSS Animation: Here’s what I learned](https://hackernoon.com/i-built-a-photo-gallery-with-css-animation-heres-what-i-learned-xm123z1b)
+### [116. I Built A Photo Gallery with CSS Animation: Here’s what I learned](https://hackernoon.com/i-built-a-photo-gallery-with-css-animation-heres-what-i-learned-xm123z1b)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fe2577cSSoYRCbZ0PSXJpA9wf1pH2-n53e3hrk.jpeg?alt=media&token=249f9a1d-ac57-4055-a274-4e5e8a21c757)
 The vanilla CSS(without any external JavaScript and CSS libraries) allows animation of HTML elements using CSS properties. This is very powerful and quite simple to learn and use. 
+
+### [117. Evolution of Web Design: From HTML to HTML5](https://hackernoon.com/evolution-of-web-design-from-html-to-html5-utnc36xi)
+![](https://cdn.hackernoon.com/images/3j833611.jpg)
+When most people think about evolution, what comes to mind is “the big bang”, usually describing it as way different types of living organisms developed from earlier forms during the history of the earth. Technology has also evolved over time, there are many technologies, major ones being web development, computer systems, software engineering, artificial intelligence and many more. The main focus of this article is on the evolution of Web Design. A deeper dive into HTML which is the backbone of every web page document that you see on the internet today. Yes, other supplements exist e.g. CSS, thats adds design for websites, but without HTML, displaying a webpage document is not possible.
+
+### [118. How To Create CSS Neon Animation](https://hackernoon.com/how-to-create-css-neon-animation-p6133utf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY5pgfcYeb2WkzcbAON1f4rfpLAW2-al1a3und.jpeg?alt=media&token=08587a4a-0427-4e4d-95eb-064f39fe443e)
+Guys! Thank you all 🥳, I've hit a 100 subscribers to my Newsletter and I'm over the moon!
 
 ### [119. The Art of Naming: CSS Guide](https://hackernoon.com/the-art-of-naming-css-guide-tb1r3w50)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRX8xMnl8Q5fsB6oGTIzeeX6BLfh1-6gb628yq.jpeg?alt=media&token=472dcfa0-459a-4b1a-8996-aa83cb2e7f6a)
@@ -523,33 +527,33 @@ In HTML we use block elements to take up the full width of the page. These diffe
 ![](https://images.unsplash.com/photo-1515041219749-89347f83291a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Many times animations are implemented on a web page to improve the user experience, making it more attractive and intuitive. With the animation property and the @keyframes rule, you can create any animation you have in mind by manipulating a large number of properties. This article shows the basics of making animations using a small project as an example, consisting of four squares jumping into four other squares as they move to the right and end up stacked in a tower.
 
-### [125. Introduction to Pseudo-Class Selectors](https://hackernoon.com/introduction-to-pseudo-class-selectors-ce2b369r)
-![](https://cdn.hackernoon.com/images/3sq369c.jpg)
-What we will cover in this article more specifically is the subject of pseudo-classes! First of all, what pseudo-classes are, you may ask. They are keyword in CSS language that lets you interact with external factors or events, like moving the mouse over an element or visiting a link. We will not cover here all the pseudo-classes but after reading this article you will get the idea! The main idea behind this pseudo-classes is that they expose events in CSS language witch means that is easier to interact with HTML element on web pages. 
-
-### [126. 5 Reasons to Learn HTML & CSS](https://hackernoon.com/5-reasons-to-learn-html-and-css-ff3a33mn)
+### [125. 5 Reasons to Learn HTML & CSS](https://hackernoon.com/5-reasons-to-learn-html-and-css-ff3a33mn)
 ![](https://cdn.hackernoon.com/drafts/5hi36fz.png)
 HTML (HyperText Markup Language) is a basic tool to design web pages that complements itself with CSS (Cascading Style Sheets). So everyone who wants to join the web design world has to learn this tools, but even if you want to be a web back-end developer it would be nice to learn this, therefore we are going to list a few good reasons to do it:
 
-### [127. Exploring Javascript, CSS, and Paint Worklets: Why Put Javascript in Your CSS?](https://hackernoon.com/exploring-javascript-css-and-paint-worklets-why-put-javascript-in-your-css)
+### [126. Exploring Javascript, CSS, and Paint Worklets: Why Put Javascript in Your CSS?](https://hackernoon.com/exploring-javascript-css-and-paint-worklets-why-put-javascript-in-your-css)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-g593wqt.jpeg)
 Putting CSS in Javascript is pretty much the norm these days - but how do we do the opposite? 
+
+### [127. Introduction to Pseudo-Class Selectors](https://hackernoon.com/introduction-to-pseudo-class-selectors-ce2b369r)
+![](https://cdn.hackernoon.com/images/3sq369c.jpg)
+What we will cover in this article more specifically is the subject of pseudo-classes! First of all, what pseudo-classes are, you may ask. They are keyword in CSS language that lets you interact with external factors or events, like moving the mouse over an element or visiting a link. We will not cover here all the pseudo-classes but after reading this article you will get the idea! The main idea behind this pseudo-classes is that they expose events in CSS language witch means that is easier to interact with HTML element on web pages. 
 
 ### [128. Flexbox vs CSS Grid is Not A Thing](https://hackernoon.com/flexbox-vs-css-grid-is-not-a-thing-6t1e3u5a)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-rjf3u7q.jpeg?alt=media&token=949ea537-f0c5-4ddf-afd9-03b0fb288954)
 That’s right. There is NO flexbox vs CSS Grid. It’s just flexbox and CSS grid.
 
-### [129. 8 Platforms: Endless Web Development Possibilities. The Time for Learning to Code is now! ](https://hackernoon.com/8-platforms-endless-web-development-possibilities-the-time-for-learning-to-code-is-now)
+### [129. How Does the CSS Box Model Work? ](https://hackernoon.com/how-does-the-css-box-model-work)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-b493vpr.jpeg)
+Let's think a little bit more about how box models work. 
+
+### [130. 8 Platforms: Endless Web Development Possibilities. The Time for Learning to Code is now! ](https://hackernoon.com/8-platforms-endless-web-development-possibilities-the-time-for-learning-to-code-is-now)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-pj03ooj.jpeg)
 There is no excuse for not learning something anymore. Things are just a click away!
 
-### [130. Why You Should Use CSS Variables [Beginners Guide]](https://hackernoon.com/why-you-should-use-css-variables-beginners-guide-4z9x36qw)
+### [131. Why You Should Use CSS Variables [Beginners Guide]](https://hackernoon.com/why-you-should-use-css-variables-beginners-guide-4z9x36qw)
 ![](https://cdn.hackernoon.com/images/cartoon-of-a-person-shrugging-asking-why-in-a-speech-bubble-yh61z6dzt6jpmm25lpizp482.png)
 Introduction
-
-### [131. How Does the CSS Box Model Work? ](https://hackernoon.com/how-does-the-css-box-model-work)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-b493vpr.jpeg)
-Let's think a little bit more about how box models work. 
 
 ### [132. Internationalization in CSS](https://hackernoon.com/internationalization-in-css)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-id03ngv.jpeg)
@@ -609,17 +613,17 @@ If right run a search for "CSS Grid and Flexbox," you'll find mostly articles or
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkitWXQhay3Wa91bwCv4tErwpIfr2-3i7l3u01.jpeg?alt=media&token=d810ee3c-bb22-4a0e-ae28-3801406830cc)
 Animations are very useful tools to make pages more appealing. I would like to start with what are animations, give some supplementary information, and give some animation syntax examples.
 
-### [146. An Elegant Three Button HTML and JavaScript Audio Animation Player](https://hackernoon.com/an-elegant-three-button-html-and-javascript-audio-animation-player)
+### [146. Need for Speed: 21+ Website Performance Optimization Techniques](https://hackernoon.com/need-for-speed-21-website-performance-optimization-techniques)
+![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-ad92k1y.jpeg)
+We've compiled 21+ tried-and-true ways to optimize performance and make your software scream. 
+
+### [147. An Elegant Three Button HTML and JavaScript Audio Animation Player](https://hackernoon.com/an-elegant-three-button-html-and-javascript-audio-animation-player)
 ![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-6p93ruf.gif.webp)
 The HTML and JavaScript code used to build an accessible and responsive design animation and audio player for the Web.
 
-### [147. Winning on the Web with Cascading Style Sheets (CSS) Animations](https://hackernoon.com/winning-on-the-web-with-cascading-style-sheets-css-animations-aw2m33hw)
+### [148. Winning on the Web with Cascading Style Sheets (CSS) Animations](https://hackernoon.com/winning-on-the-web-with-cascading-style-sheets-css-animations-aw2m33hw)
 ![](https://cdn.hackernoon.com/images/vs58yHu80FMCBlLC590ASRmc8Hl1-sb1x33l4.jpeg)
 Web Animation can be used to attract attention, engage people better, and communicate more clearly and effectively.
-
-### [148. Need for Speed: 21+ Website Performance Optimization Techniques](https://hackernoon.com/need-for-speed-21-website-performance-optimization-techniques)
-![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-ad92k1y.jpeg)
-We've compiled 21+ tried-and-true ways to optimize performance and make your software scream. 
 
 ### [149. 8 CSS Properties to Know if You are a Beginner ](https://hackernoon.com/8-css-properties-to-know-if-you-are-a-beginner-wv2233zg)
 ![](https://cdn.hackernoon.com/images/2lCKbVYzfgXONtu7Xpjc3NWBuQr2-cyj33rt.jpeg)
@@ -634,13 +638,13 @@ CSS is one of those things we see get thrown around but not really explained. If
 ![](https://cdn.hackernoon.com/drafts/e01893vou.png)
 Flexboxes gives web developers control over the location of elements, and their alignment inside the container. This allows you to align the elements vertically and horizontally; change the order of their appearance; set the direction in which all the elements are laid out, and much more.
 
-### [152. How to Create a Dynamic Yelp-Inspired Loader Animation with HTML and CSS](https://hackernoon.com/how-to-create-a-dynamic-yelp-inspired-loader-animation-with-html-and-css)
-![](https://cdn.hackernoon.com/images/C2Edh2NdoUVBNwgozp9BzU9I7Uw1-qn834wg.gif.webp)
-Creating an engaging and visually appealing loader animation can significantly enhance the user experience. In this guide, we’ll explore how to replicate.
-
-### [153. Introducing the Storybook Comic Book Builder](https://hackernoon.com/introducing-the-storybook-comic-book-builder)
+### [152. Introducing the Storybook Comic Book Builder](https://hackernoon.com/introducing-the-storybook-comic-book-builder)
 ![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-ii93ln4.jpeg)
 A Fast Accessible Mobile-First Web Comic Book Builder
+
+### [153. How to Create a Dynamic Yelp-Inspired Loader Animation with HTML and CSS](https://hackernoon.com/how-to-create-a-dynamic-yelp-inspired-loader-animation-with-html-and-css)
+![](https://cdn.hackernoon.com/images/C2Edh2NdoUVBNwgozp9BzU9I7Uw1-qn834wg.gif.webp)
+Creating an engaging and visually appealing loader animation can significantly enhance the user experience. In this guide, we’ll explore how to replicate.
 
 ### [154. How to Start With CSS Displaying Basic Elements in HTML](https://hackernoon.com/how-to-start-with-css-displaying-basic-elements-in-html-tz2t3y5j)
 ![](https://cdn.hackernoon.com/images/n28ha3ytj.jpg)
@@ -678,47 +682,47 @@ In recent years, jobs are shifting more towards Machine Learning(ML), Artificial
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-0392km7.jpeg)
 Have you ever designed a webpage that looks great on screen but turns into a hot mess when you print it out?
 
-### [163. Let’s Make a Pie By Using CSS Gradients](https://hackernoon.com/lets-make-a-pie-by-using-css-gradients-24583vvz)
+### [163. A Very Early Introduction to Building your Own Web App With Code](https://hackernoon.com/a-very-early-introduction-to-building-your-own-web-app-with-code)
+![](https://cdn.hackernoon.com/images/GRZpzqpoJyMvFZW6lPH4PI3T5HB2-aue3pzj.jpeg)
+Here is a brief guide to getting started with coding and building your website online.
+
+### [164. Let’s Make a Pie By Using CSS Gradients](https://hackernoon.com/lets-make-a-pie-by-using-css-gradients-24583vvz)
 ![](https://images.unsplash.com/photo-1507066274042-8a683a1e6ffe?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Nowadays, web pages use CSS and CSS provides a lot of chances to make different things. Gradients and a pie done by using gradients are some example of them.
 
-### [164. Four Simple and Free yet Powerful Website Development Tools for Beginners](https://hackernoon.com/four-simple-and-free-yet-powerful-website-development-tools-for-beginners-kv1432ob)
+### [165. Four Simple and Free yet Powerful Website Development Tools for Beginners](https://hackernoon.com/four-simple-and-free-yet-powerful-website-development-tools-for-beginners-kv1432ob)
 ![](https://cdn.hackernoon.com/images/uei3yzv.gif)
 If you are new to HTML and CSS, you need tools that can help you speed your front-end development process. This is more evident if you are trying to clone an existing website or matching a few of its features.
-
-### [165. A Very Early Introduction to Building your Own Web App With Code](https://hackernoon.com/a-very-early-introduction-to-building-your-own-web-app-with-code)
-![](https://cdn.hackernoon.com/images/GRZpzqpoJyMvFZW6lPH4PI3T5HB2-aue3pzj.jpeg)
-Here is a brief guide to getting started with coding and building your website online.
 
 ### [166. HTML5 and CSS3 Features That Will Help You As a Developer](https://hackernoon.com/html5-and-css3-features-that-will-help-you-as-a-developer-nh773vnr)
 ![](https://cdn.hackernoon.com/drafts/oew32aj.png)
 Do you think HMTL and CSS are easy to learn and they don’t need so much time to hone?. As a Jr. developer, it is so easy to think that HTML and CSS are not a big deal or something that you must worry too much about because they are not programming languages at all.
 
-### [167. Skills That You Need to Have as Web Developer](https://hackernoon.com/skills-that-you-need-to-have-as-web-developer-gh6n3w94)
+### [167. How PostCSS-px-to-Viewport Module Can Help To Create Scalable Interfaces ](https://hackernoon.com/how-postcss-px-to-viewport-module-can-help-to-create-scalable-interfaces-5bi31y2)
+![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-hb2h3whh.png)
+Most mobile and cross-platform web developers have encountered the problem at some point: you need your web app to scale neatly to the device screen size, regardless of which of the many thousands of devices there are out there, but your units only have one design layout width, mainly mobile. Or perhaps you need to create a per-device stylesheet for a truly scalable cross-platform UI, and want to use a scaled version of an original to base it upon. In either case, converting everything by hand is laborious and inconvenient.
+
+### [168. Skills That You Need to Have as Web Developer](https://hackernoon.com/skills-that-you-need-to-have-as-web-developer-gh6n3w94)
 ![](https://cdn.hackernoon.com/drafts/q0nk33ia.png)
 Before I became the person that I am now (Fullstack Software Developer), I
 never believed in spending my precious time learning HTML and CSS.
 Whenever I needed to create a web page, I could go to w3schools, fetch some markup and paste it in my HTML file. I had put my total focus on back-end technologies. I could write very good and optimized algorithms and SQL queries but I could not present my data well on the front side of my applications. 
 
-### [168. How Elements Positioned and Behave on the Web Page](https://hackernoon.com/how-elements-positioned-and-behave-on-the-web-page-cj6b3wbd)
+### [169. How Elements Positioned and Behave on the Web Page](https://hackernoon.com/how-elements-positioned-and-behave-on-the-web-page-cj6b3wbd)
 ![](https://cdn.hackernoon.com/images/xd14l3ykd.jpg)
 It is interesting to everyone who started his journey in web development positioning element through in single display with tons of properties. It comes a time that all elements start behaving itself not in a way we want. 
-
-### [169. How PostCSS-px-to-Viewport Module Can Help To Create Scalable Interfaces ](https://hackernoon.com/how-postcss-px-to-viewport-module-can-help-to-create-scalable-interfaces-5bi31y2)
-![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-hb2h3whh.png)
-Most mobile and cross-platform web developers have encountered the problem at some point: you need your web app to scale neatly to the device screen size, regardless of which of the many thousands of devices there are out there, but your units only have one design layout width, mainly mobile. Or perhaps you need to create a per-device stylesheet for a truly scalable cross-platform UI, and want to use a scaled version of an original to base it upon. In either case, converting everything by hand is laborious and inconvenient.
 
 ### [170. Position Layout property in CSS](https://hackernoon.com/position-layout-property-in-css-7x1g37ln)
 ![](https://cdn.hackernoon.com/images/yL1QdREbzMfWf67Kzhux2JY38L72-tt4135x8.jpeg)
 A tutorial on CSS position property, concepts on absolute position, relative position, fixed position, etc. Article on how and when to use position properties. 
 
-### [171. CSS3 Gradients: The Gradients That Are Not Really Gradients](https://hackernoon.com/css3-gradients-the-gradients-that-are-not-really-gradients-or1j3u72)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-w7e3uyu.gif?alt=media&token=c7caeb1e-5ea7-4874-a237-2793984575db)
-For beginners, it is intuitively difficult to guess that the pattern above is created with CSS gradients. They will be like, “how possibly can it be gradients while all I see are solid colors?” After all, gradients are supposed to be smooth transitions between colors. That is how I used to think two months ago before I start an HTML & CSS course at Microverse. 
-
-### [172. How to put a div in the center using Flexbox](https://hackernoon.com/how-to-put-a-div-in-the-center-using-flexbox-ua1h31ng)
+### [171. How to put a div in the center using Flexbox](https://hackernoon.com/how-to-put-a-div-in-the-center-using-flexbox-ua1h31ng)
 ![](https://cdn.hackernoon.com/images/A0JT0kWjB2UTOGzv9jXoh17Xc5H2-qf12315g.jpeg)
 How to put a div in the center using Flexbox? My name is Nima Owji and I want to show you how to put a div in the center using Flexbox.
+
+### [172. CSS3 Gradients: The Gradients That Are Not Really Gradients](https://hackernoon.com/css3-gradients-the-gradients-that-are-not-really-gradients-or1j3u72)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-w7e3uyu.gif?alt=media&token=c7caeb1e-5ea7-4874-a237-2793984575db)
+For beginners, it is intuitively difficult to guess that the pattern above is created with CSS gradients. They will be like, “how possibly can it be gradients while all I see are solid colors?” After all, gradients are supposed to be smooth transitions between colors. That is how I used to think two months ago before I start an HTML & CSS course at Microverse. 
 
 ### [173. Brief intro to Flexbox](https://hackernoon.com/brief-intro-to-flexbox-fxt3uci)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhHOhvjzDtDR95WPuLODgyfk5OQI2-wo7828kb.png?alt=media&token=20f313ce-2e56-48d8-af5b-cf532680b23f)
@@ -740,21 +744,21 @@ First of all, web development is an interesting discipline because things are al
 ![](https://cdn.hackernoon.com/images/4eb13yb9.jpg)
 Responsive web pages are websites that adjust to different screen sizes. Audi.com, in 2001 was one of the websites to adopt this design.
 
-### [178. How to Design a Grid-based Framework Using the CSS Float Property](https://hackernoon.com/how-to-design-a-grid-based-framework-using-the-css-float-property-on8b3v3v)
-![](drafts/nb1933v3f.png)
-Basic grid-based framework
-
-### [179. Avoid Headaches by Understanding CSS Specificity ](https://hackernoon.com/avoid-headaches-by-understanding-css-specificity-zn193yus)
+### [178. Avoid Headaches by Understanding CSS Specificity ](https://hackernoon.com/avoid-headaches-by-understanding-css-specificity-zn193yus)
 ![](https://cdn.hackernoon.com/images/r140w2guc.jpg)
 Among all the concepts you have to understand in CSS, Specificity is a tricky one; and, it may be the reason why that font-size is not being applied to the element you're trying to target. 
 
-### [180. Writing CSS Rules for a Better Relationship with Stickler CI](https://hackernoon.com/writing-css-rules-for-a-better-relationship-with-stickler-ci-ue513y64)
-![](https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-When you start this way of learning the fundamentals of HTML and CSS you can find a lot of web sites that can help you to know HTML semantic tags, how to name classes, how to write rules for tags, events, animations... and even how to use more advanced models as FlexBox and CSS grid. 
+### [179. How to Design a Grid-based Framework Using the CSS Float Property](https://hackernoon.com/how-to-design-a-grid-based-framework-using-the-css-float-property-on8b3v3v)
+![](drafts/nb1933v3f.png)
+Basic grid-based framework
 
-### [181. An Introduction to CSS for Aspiring Web Designers](https://hackernoon.com/an-introduction-to-css-for-aspiring-web-designers-1hbf3tsq)
+### [180. An Introduction to CSS for Aspiring Web Designers](https://hackernoon.com/an-introduction-to-css-for-aspiring-web-designers-1hbf3tsq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnNN3SeN4bIfwu4ws2FzH60MPhL22-wgj3uxz.jpeg?alt=media&token=d567168d-1170-4d0f-b4b0-2554ebcc9157)
 CSS stands for “Cascading Style Sheets.” It is a formatting language that allows us to visually improve our HTML tags (size, color, font, etc.). As the name suggests, it does it by cascading.
+
+### [181. Writing CSS Rules for a Better Relationship with Stickler CI](https://hackernoon.com/writing-css-rules-for-a-better-relationship-with-stickler-ci-ue513y64)
+![](https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+When you start this way of learning the fundamentals of HTML and CSS you can find a lot of web sites that can help you to know HTML semantic tags, how to name classes, how to write rules for tags, events, animations... and even how to use more advanced models as FlexBox and CSS grid. 
 
 ### [182. Understanding How CSS3 Aspect-Ratio Property Works](https://hackernoon.com/understanding-how-css3-aspect-ratio-property-works-501t333j)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-rr1728ab.jpeg)
@@ -793,13 +797,13 @@ Learn how to leverage form tools and make your website more user friendly
 ![](https://cdn.hackernoon.com/drafts/xyal33pl.png)
 Until recently, I was only browsing the site as a user. Yes, of course, I noticed that the appearance of the pages of sites that I view on the Internet changes over time.
 
-### [191. Improve Your Style of Writing CSS Code [A HOw-To Guide]](https://hackernoon.com/improve-your-style-of-writing-css-code-a-how-to-guide-qs6j32ra)
-![](https://cdn.hackernoon.com/drafts/nt4no3r7c.png)
-                                       Design created by pikisuperstar
-
-### [192. The Secret Trick For Mobile Viewports](https://hackernoon.com/the-secret-trick-for-mobile-viewports)
+### [191. The Secret Trick For Mobile Viewports](https://hackernoon.com/the-secret-trick-for-mobile-viewports)
 ![](https://cdn.hackernoon.com/images/m1JWnUaHzSX3LPHoHfOainoiYvq2-nu2s3f08.jpeg)
 How to make handling the viewport on mobile less awful, correctly fill the viewport, and get correct specific viewport sizes.
+
+### [192. Improve Your Style of Writing CSS Code [A HOw-To Guide]](https://hackernoon.com/improve-your-style-of-writing-css-code-a-how-to-guide-qs6j32ra)
+![](https://cdn.hackernoon.com/drafts/nt4no3r7c.png)
+                                       Design created by pikisuperstar
 
 ### [193. Inverting The Colors on Your PC for Accessibility](https://hackernoon.com/inverting-the-colors-on-your-pc-for-accessibility-615l31gs)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-bnk2849.jpeg)

@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ios-app-development](https://hackernoon.com/tagged/ios-app-development)
+### Let's learn about [Ios App Development](https://hackernoon.com/tagged/ios-app-development) via these 216 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Developing apps for iOS can be tricky. That's why we have these handy articles to help out. 
 
 ### [1. Smoke and Mirrors in Pure UIKit](https://hackernoon.com/smoke-and-mirrors-in-pure-uikit)
@@ -183,13 +185,13 @@ Implementing address autocomplete using SwiftUI and MapKit
 ![](https://cdn.hackernoon.com/images/KKgJo9L6i5hBlUxP8D37SD3t8tl2-lwb340s.jpeg)
 Explore SwiftUI View lifecycle: from initialization to deinitialization, including state updates and rendering for optimized UI
 
-### [46. Building Interactive Maps with Custom Markers in SwiftUI for iOS 17](https://hackernoon.com/building-interactive-maps-with-custom-markers-in-swiftui-for-ios-17)
-![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-pv932k4.jpeg)
-With the release of iOS 17, Apple introduces an exciting enhancement to SwiftUI that revolutionizes how we add markers on maps.
-
-### [47. Building a UDP Server & Client in Swift with Network.framework](https://hackernoon.com/building-a-udp-server-and-client-in-swift-with-networkframework)
+### [46. Building a UDP Server & Client in Swift with Network.framework](https://hackernoon.com/building-a-udp-server-and-client-in-swift-with-networkframework)
 ![](https://cdn.hackernoon.com/images/bGlkhNiHrBZNVvHG7pY87lyhsVR2-1003h1p.jpeg)
 Learn how to use Network.framework in Swift to build a UDP server and client for real-time networking in iOS. 
+
+### [47. Building Interactive Maps with Custom Markers in SwiftUI for iOS 17](https://hackernoon.com/building-interactive-maps-with-custom-markers-in-swiftui-for-ios-17)
+![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-pv932k4.jpeg)
+With the release of iOS 17, Apple introduces an exciting enhancement to SwiftUI that revolutionizes how we add markers on maps.
 
 ### [48. How to Build a Live Streaming App](https://hackernoon.com/how-to-build-a-live-streaming-app)
 ![](https://cdn.hackernoon.com/images/EV8tJPb1ZePGA5hXoES9OSfKWms1-qsa3ohe.jpeg)
@@ -227,23 +229,23 @@ ntroduction
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-uo930bb.jpeg)
 Not many people know how do apps make money. Here's how. 
 
-### [57. Hacking Widgets the Apple Way ](https://hackernoon.com/hacking-widgets-the-apple-way)
-![](https://cdn.hackernoon.com/images/6NntkWOAQNfaPgaqGyH7qhbpUBa2-hp93bir.png)
-This article explores the philosophy of widget design, technical implementation, efficient widget updates, Smart Stack placement, layout tips, and inspiration. 
-
-### [58. Mobile App Development in 2021: Native vs. Cross-Platform Development](https://hackernoon.com/creating-a-mobile-app-in-2021-native-vs-cross-platform-development-5e1m34f7)
+### [57. Mobile App Development in 2021: Native vs. Cross-Platform Development](https://hackernoon.com/creating-a-mobile-app-in-2021-native-vs-cross-platform-development-5e1m34f7)
 ![](https://cdn.hackernoon.com/images/yh6ijmgeppUYwux9kNlTiEhYQw02-wj5q31un.jpeg)
 Mobile Application technology has become advanced with the increasing demands of the users. Developers are coming up with some new and unique methods to make applications pretty easy and efficient. Mobile
 Applications have a significant impact on all types of online businesses and
 service providers.
 
-### [59. How to Set up Custom Domain Names for AppSync](https://hackernoon.com/how-to-set-up-custom-domain-names-for-appsync-jl333t92)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYjziSuGeDecNvCZR0j4bivrb6V13-vg7u3t87.jpeg?alt=media&token=8ef8c6cb-d8f7-4822-8ea7-78598c9690a2)
-One thing that API Gateway supports but you can’t do with AppSync out-of-the-box yet is custom domain names.
+### [58. Hacking Widgets the Apple Way ](https://hackernoon.com/hacking-widgets-the-apple-way)
+![](https://cdn.hackernoon.com/images/6NntkWOAQNfaPgaqGyH7qhbpUBa2-hp93bir.png)
+This article explores the philosophy of widget design, technical implementation, efficient widget updates, Smart Stack placement, layout tips, and inspiration. 
 
-### [60. An Essential Guide to SwiftUI: Reusable UI with Custom Modifiers](https://hackernoon.com/an-essential-guide-to-swiftui-reusable-ui-with-custom-modifiers)
+### [59. An Essential Guide to SwiftUI: Reusable UI with Custom Modifiers](https://hackernoon.com/an-essential-guide-to-swiftui-reusable-ui-with-custom-modifiers)
 ![](https://cdn.hackernoon.com/images/m7D4IDHxAKbDzMYP8u2eMWhKsPi1-jd93xmg.jpeg)
 The goal of this article is to cover some of the different ways to create custom modifiers and styles in SwiftUI.
+
+### [60. How to Set up Custom Domain Names for AppSync](https://hackernoon.com/how-to-set-up-custom-domain-names-for-appsync-jl333t92)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYjziSuGeDecNvCZR0j4bivrb6V13-vg7u3t87.jpeg?alt=media&token=8ef8c6cb-d8f7-4822-8ea7-78598c9690a2)
+One thing that API Gateway supports but you can’t do with AppSync out-of-the-box yet is custom domain names.
 
 ### [61. I Stopped Developing iOS Apps and Switched to Web App Development After 12 Years on The App Store](https://hackernoon.com/i-stopped-developing-ios-apps-and-switched-to-web-app-development-after-12-years-on-the-app-store)
 ![](https://cdn.hackernoon.com/images/QBI79gOovQWG4emm06zWqeGw5UM2-w0031lo.jpeg)
@@ -265,13 +267,13 @@ Learn how Swift continuations bridge legacy callbacks and delegates with async/a
 ![](https://cdn.hackernoon.com/images/b1IQyRpSFpdKmGRUMeZvSQvjewx1-j53w33wv.png)
 Third party libraries can save you a lot of time and effort, here are the top 10 open-source iOS libraries. These will make app development a breeze.
 
-### [66. Android vs iOS: Which Platform to Build Your App for First Is Better?](https://hackernoon.com/android-vs-ios-which-platform-to-build-your-app-for-first-is-better-g41u3ya0)
-![](https://cdn.hackernoon.com/drafts/26ga3yff.png)
-The choice between iOS and Android app development is one of the most critical you need to make before planning your digital startup. iOS and Android both are leading operating systems that match software and hardware components of mobile devices.
-
-### [67. Mastering Swift Structured Concurrency: Dive into Task and Asynchronous/Await](https://hackernoon.com/mastering-swift-structured-concurrency-dive-into-task-and-asynchronous-await)
+### [66. Mastering Swift Structured Concurrency: Dive into Task and Asynchronous/Await](https://hackernoon.com/mastering-swift-structured-concurrency-dive-into-task-and-asynchronous-await)
 ![](https://cdn.hackernoon.com/images/bGlkhNiHrBZNVvHG7pY87lyhsVR2-n603jfd.png)
 A practical guide to mastering Swift structured concurrency: learn how to work with Task, async/await, and avoid common pitfalls.
+
+### [67. Android vs iOS: Which Platform to Build Your App for First Is Better?](https://hackernoon.com/android-vs-ios-which-platform-to-build-your-app-for-first-is-better-g41u3ya0)
+![](https://cdn.hackernoon.com/drafts/26ga3yff.png)
+The choice between iOS and Android app development is one of the most critical you need to make before planning your digital startup. iOS and Android both are leading operating systems that match software and hardware components of mobile devices.
 
 ### [68. A Quick Guide to Displaying Text on Images in Flutter](https://hackernoon.com/a-quick-guide-to-displaying-text-on-images-in-flutter)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-nb03lgm.jpeg)
@@ -289,47 +291,47 @@ Tips, tricks, and necessary steps to migrate your iOS project and its CI/CD pipe
 ![](https://cdn.hackernoon.com/images/EirlZ30jtYfcFYd5vCeCSjGlSK23-pb034sb.jpeg)
 It's now possible to develop and distribute iOS apps without using macOS. Learn how to build ios apps on Linux.
 
-### [72. Apple Hurts Businesses Again: Lumi Wallet Users May Lose Their Money Due To iOS Keychain](https://hackernoon.com/apple-hurts-businesses-again-lumi-wallet-users-may-lose-their-money-due-to-ios-keychain-0b303zxp)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FoX9o3eiQGKR9k553oNL0Uv0AVRp2-232w3e0a.png?alt=media&token=78adc7c4-6f5b-4e0c-afae-9be1306db312)
-By the end of October, all Lumi Wallet users using iOS devices will be logged out of their wallets because of the legal restructuring of the Lumi company. It might lead to thousands of users losing access to their funds forever. 
-
-### [73. Building Testable and Maintainable iOS Apps with Redux](https://hackernoon.com/building-testable-and-maintainable-ios-apps-with-redux)
+### [72. Building Testable and Maintainable iOS Apps with Redux](https://hackernoon.com/building-testable-and-maintainable-ios-apps-with-redux)
 ![](https://cdn.hackernoon.com/images/GMqZlP2GWffok8NZ4mwWDkAUlqC3-84c3fz9.jpeg)
 This guide empowers developers to navigate Redux complexities, ensuring structured, scalable, and maintainable iOS apps and also core principles.
+
+### [73. Apple Hurts Businesses Again: Lumi Wallet Users May Lose Their Money Due To iOS Keychain](https://hackernoon.com/apple-hurts-businesses-again-lumi-wallet-users-may-lose-their-money-due-to-ios-keychain-0b303zxp)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FoX9o3eiQGKR9k553oNL0Uv0AVRp2-232w3e0a.png?alt=media&token=78adc7c4-6f5b-4e0c-afae-9be1306db312)
+By the end of October, all Lumi Wallet users using iOS devices will be logged out of their wallets because of the legal restructuring of the Lumi company. It might lead to thousands of users losing access to their funds forever. 
 
 ### [74. How to Get a Job at Apple as a Developer](https://hackernoon.com/how-to-get-a-job-at-apple-as-a-developer)
 ![](https://cdn.hackernoon.com/images/hlsiIWSKO9TRgT2ZYTF7zzOpqBZ2-39035t2.jpeg)
 The ultimate guide to crack mobile engineer interview. How to get a job at Apple!
 
-### [75. How To Integrate App Tracking Transparency with your iOS Unity Project](https://hackernoon.com/how-to-integrate-app-tracking-transparency-with-your-ios-unity-project-s94935l3)
-![](https://cdn.hackernoon.com/images/Ob1ygaEjRjNQiGY1R2tYEMuWnlo2-oiqk33eq.jpeg)
-ByteSyze SDK covers iOS 14 compliant bases by integrating a custom App Tracking Transparency handler into your Unity iOS project for your ATT-dependent SDK's.
-
-### [76. How Much Do iOS Developers Make in 2022?](https://hackernoon.com/how-much-do-ios-developers-make-in-2022)
+### [75. How Much Do iOS Developers Make in 2022?](https://hackernoon.com/how-much-do-ios-developers-make-in-2022)
 ![](https://cdn.hackernoon.com/images/OmT2g5eRWKeq1I8EO2B2ZGgnlXD3-0m93khv.jpeg)
 Research of iOS developers' salaries based on data from PayScale, Glassdoor, Indeed, and ZipRecruiter.
 
-### [77. Effective Error Handling in iOS](https://hackernoon.com/effective-error-handling-in-ios-py2a338v)
+### [76. How To Integrate App Tracking Transparency with your iOS Unity Project](https://hackernoon.com/how-to-integrate-app-tracking-transparency-with-your-ios-unity-project-s94935l3)
+![](https://cdn.hackernoon.com/images/Ob1ygaEjRjNQiGY1R2tYEMuWnlo2-oiqk33eq.jpeg)
+ByteSyze SDK covers iOS 14 compliant bases by integrating a custom App Tracking Transparency handler into your Unity iOS project for your ATT-dependent SDK's.
+
+### [77. Swift Concurrency—Part 1: Tasks, Executors, and Priority Escalation](https://hackernoon.com/swift-concurrencypart-1-tasks-executors-and-priority-escalation)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-m303bj6.webp)
+Explore how Task works, the differences between Task and Task.detached, task priorities - a complete guide to Swift’s modern approach to asynchronous program.
+
+### [78. Effective Error Handling in iOS](https://hackernoon.com/effective-error-handling-in-ios-py2a338v)
 ![](https://cdn.hackernoon.com/images/I65vGdTMqQZL8HJDyoIczj6dXjy1-mup336r.jpeg)
 Why caring about error handling, and practical improvements to apply on your iOS app. Examples in Swift.
 
-### [78. Top 5 Courses Learn Swift and iOS for Beginners - Best of Lot](https://hackernoon.com/top-5-courses-to-help-you-become-a-swift-and-ios-developer-bs853639)
+### [79. Top 5 Courses Learn Swift and iOS for Beginners - Best of Lot](https://hackernoon.com/top-5-courses-to-help-you-become-a-swift-and-ios-developer-bs853639)
 ![](https://images.unsplash.com/photo-1569012871812-f38ee64cd54c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Hello guys, how are you doing? Are you thinking about learning iOS and Swift to become an iOS App developer and create that next app or game that rock the world? If that’s true then you have come to the right place. In
  this article, I am going to share some of the very best online courses 
 to learn iOS 13 and Swift 5 in 2020  and become the start iOS App developer  you always wanted to be.
 
-### [79. How to Become an iOS Developer: An Essential Guide](https://hackernoon.com/how-to-become-an-ios-developer-an-essential-guide-gy4f34hq)
+### [80. How to Become an iOS Developer: An Essential Guide](https://hackernoon.com/how-to-become-an-ios-developer-an-essential-guide-gy4f34hq)
 ![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-cqgo33hd.jpeg)
 To become an iOS developer you must have the proper hardware and software, and learn the Swift and Objective-C programming languages.
 
-### [80. Memory Management in Swift: Pointers, Object Creation, Copying, Binding, and Collections](https://hackernoon.com/memory-management-in-swift-pointers-object-creation-copying-binding-and-collections)
+### [81. Memory Management in Swift: Pointers, Object Creation, Copying, Binding, and Collections](https://hackernoon.com/memory-management-in-swift-pointers-object-creation-copying-binding-and-collections)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ai83r1q.jpeg)
 Learn manual memory management in Swift with pointers, object creation, copying, binding, and collections—an essential guide for developers.
-
-### [81. Swift Concurrency—Part 1: Tasks, Executors, and Priority Escalation](https://hackernoon.com/swift-concurrencypart-1-tasks-executors-and-priority-escalation)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-m303bj6.webp)
-Explore how Task works, the differences between Task and Task.detached, task priorities - a complete guide to Swift’s modern approach to asynchronous program.
 
 ### [82. Display Hierarchical Data as List with Search Feature](https://hackernoon.com/display-hierarchical-data-as-list-with-search-feature)
 ![](https://cdn.hackernoon.com/images/3x6RIDGPRfQdTyt08TDdyuZSlK63-a923sc6.jpeg)
@@ -351,25 +353,25 @@ Boris, an iOS Developer for more than five years, sits down with HackerNoon in a
 ![](https://cdn.hackernoon.com/images/imTOi6TzD2acj6NBGngoIn24v6x2-cm93uue.jpeg)
 In this article, I will share a method for revering to previous app versions that does not depend on developer builds.
 
-### [87. How to Create Scrollable Lists with Protocol-Oriented Design & UICollectionViewCompositionalLayout](https://hackernoon.com/how-to-create-scrollable-lists-with-protocol-oriented-design-and-uicollectionviewcompositionallayout)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-y583ybu.jpeg)
-
-
-### [88. Is iOS 16 Really Worth Getting? ](https://hackernoon.com/is-ios-16-really-worth-getting)
+### [87. Is iOS 16 Really Worth Getting? ](https://hackernoon.com/is-ios-16-really-worth-getting)
 ![](https://cdn.hackernoon.com/images/GzuFZ9AxaVWByngmHZ3tMW1C6Sz2-aza3o19.jpeg)
 Apple has its own way of gaining eyeballs, and this time it's the beta release of iOS 16. While the recently launched iOS version is gaining all the attention, reactions are mixed, with some still wondering whether iOS 16 is worth getting or not. To address the same, I wanted to share an in-depth analysis of newly introduced features and usability. 
 
-### [89. Understanding Threads to Better Manage Threading in iOS](https://hackernoon.com/understanding-threads-to-better-manage-threading-in-ios)
+### [88. Understanding Threads to Better Manage Threading in iOS](https://hackernoon.com/understanding-threads-to-better-manage-threading-in-ios)
 ![](https://cdn.hackernoon.com/images/928A5MdLmkgtIlxpQv0Ir97p6BG3-kj03dfn.png)
 Using the Thread class in the fundamental way of managing threads in iOS. 
 
-### [90. Why React Native Framework is a Preferred Hybrid Mobile App Platform](https://hackernoon.com/why-react-native-framework-is-a-preferred-hybrid-mobile-app-platform-k57b3yzm)
-![](images/0dr3yb7.jpg)
-Cross-Platform Frameworks have gained popularity over Native mobile development over the years. The primary advantage in using Cross-Platform development approach is that it saves time and reduces development expenses as it uses the same code across Android and iOS platforms.
+### [89. How to Create Scrollable Lists with Protocol-Oriented Design & UICollectionViewCompositionalLayout](https://hackernoon.com/how-to-create-scrollable-lists-with-protocol-oriented-design-and-uicollectionviewcompositionallayout)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-y583ybu.jpeg)
 
-### [91. UI Throwback: Creating a Retro Progress Bar for iOS using CALayers](https://hackernoon.com/ui-throwback-creating-a-retro-progress-bar-for-ios-using-calayers)
+
+### [90. UI Throwback: Creating a Retro Progress Bar for iOS using CALayers](https://hackernoon.com/ui-throwback-creating-a-retro-progress-bar-for-ios-using-calayers)
 ![](https://cdn.hackernoon.com/images/tOrNL7qeeOS9PMp6GymC5eCd1ig2-ey836pq.jpeg)
 Dive into the blend of retro charm and modern iOS development with our guide on creating a nostalgic CALayer-based Progress Bar in iOS.
+
+### [91. Why React Native Framework is a Preferred Hybrid Mobile App Platform](https://hackernoon.com/why-react-native-framework-is-a-preferred-hybrid-mobile-app-platform-k57b3yzm)
+![](images/0dr3yb7.jpg)
+Cross-Platform Frameworks have gained popularity over Native mobile development over the years. The primary advantage in using Cross-Platform development approach is that it saves time and reduces development expenses as it uses the same code across Android and iOS platforms.
 
 ### [92. Lessons From My First Profitable iOS App ($1,400 in 90 Days)](https://hackernoon.com/lessons-from-my-first-profitable-ios-app-$1400-in-90-days)
 ![](https://cdn.hackernoon.com/images/2NAbLiRR7KTJUwpFXUY93J9gBO92-bb2344c.png)
@@ -383,13 +385,13 @@ How to Configure Bundler and Cocoapods for Xcode Cloud: A Comprehensive Guide
 ![](https://cdn.hackernoon.com/images/6NntkWOAQNfaPgaqGyH7qhbpUBa2-y2c3ce6.jpeg)
 Does it make sense to optimize the size of the app, when iPhones performance is outstanding? Or can you devote time entirely to bells and whistles in SwiftUI?
 
-### [95. Protocol-Oriented Programming and Modifying UIKit Components Mimicking SwiftUI](https://hackernoon.com/protocol-oriented-programming-and-modifying-uikit-components-mimicking-swiftui)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-2583mbs.jpeg)
-Protocol-oriented programming is one of the most powerful and flexible tools for competent composition and distribution of responsibility in Swift.
-
-### [96. JSON in Swift: What You Need to Know](https://hackernoon.com/json-in-swift-what-you-need-to-know)
+### [95. JSON in Swift: What You Need to Know](https://hackernoon.com/json-in-swift-what-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/GMqZlP2GWffok8NZ4mwWDkAUlqC3-vz83glo.jpeg)
 Serialize and deserialize JSON for Swift with different ways
+
+### [96. Protocol-Oriented Programming and Modifying UIKit Components Mimicking SwiftUI](https://hackernoon.com/protocol-oriented-programming-and-modifying-uikit-components-mimicking-swiftui)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-2583mbs.jpeg)
+Protocol-oriented programming is one of the most powerful and flexible tools for competent composition and distribution of responsibility in Swift.
 
 ### [97. 8 Factors to Consider When Building an AI App for Android or iOS](https://hackernoon.com/8-factors-to-consider-when-building-an-ai-app-for-android-or-ios)
 ![](https://cdn.hackernoon.com/images/O6cGdKVM77VtTdgZ9yACmWzxild2-rq92gco.jpeg)
@@ -399,41 +401,41 @@ Creating an app with AI for Android and iOS can be a challenging but rewarding t
 ![](https://cdn.hackernoon.com/images/LOpbPEvdGFcRFxrndNvmsZBc0c22-6ud3ic5.jpeg)
 The story of CountThis started with a great marketing creative. I'll tell you how we managed to go from idea to realization of a really cool product.
 
-### [99. Top 10 Open Source iOS Libraries Every Developer Should Replace in 2024](https://hackernoon.com/top-10-open-source-ios-libraries-every-developer-should-replace-in-2024)
-![](https://cdn.hackernoon.com/images/byAWhIPGSMTOokaMHrFsaoOrlfy2-a503y6m.jpeg)
-Replace these 10 legacy libraries with cutting-edge solutions to revitalize your development process.
-
-### [100. The Right Way to Build a Networking Layer in Swift—Part 1: From GET Requests to a Clean APIClient](https://hackernoon.com/the-right-way-to-build-a-networking-layer-in-swiftpart-1-from-get-requests-to-a-clean-apiclient)
+### [99. The Right Way to Build a Networking Layer in Swift—Part 1: From GET Requests to a Clean APIClient](https://hackernoon.com/the-right-way-to-build-a-networking-layer-in-swiftpart-1-from-get-requests-to-a-clean-apiclient)
 ![](https://cdn.hackernoon.com/images/CpkeAJEMz2eUqzIEs5CQZ79cv153-o003je1.png)
 Master Swift networking with async/await. A clean, flexible API layer that’s easy to test and scales without boilerplate or extra dependencies
 
-### [101. The Overview of the Mobile App Development Industry in Singapore [2020]](https://hackernoon.com/the-overview-of-the-mobile-app-development-industry-in-singapore-2020-dkm3ujf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzS7Ens3qoUevRb8Om1z17awDmJ93-66e3u5s.png?alt=media&token=b1f2c19f-d3c1-4a53-95e1-7561aa698664)
-Mobile app development has become an actual topic for many businesses in Singapore and worldwide. Enterprises, startups, and SMEs use custom mobile apps to increase productivity, set business processes, acquire new customers, generate additional revenue — there are plenty of ways how a mobile app can boost a business in the digital era.
+### [100. Top 10 Open Source iOS Libraries Every Developer Should Replace in 2024](https://hackernoon.com/top-10-open-source-ios-libraries-every-developer-should-replace-in-2024)
+![](https://cdn.hackernoon.com/images/byAWhIPGSMTOokaMHrFsaoOrlfy2-a503y6m.jpeg)
+Replace these 10 legacy libraries with cutting-edge solutions to revitalize your development process.
 
-### [102. Breaking Free from Xcode: Unlock AI's Full Potential in iOS](https://hackernoon.com/breaking-free-from-xcode-unlock-ais-full-potential-in-ios)
+### [101. Breaking Free from Xcode: Unlock AI's Full Potential in iOS](https://hackernoon.com/breaking-free-from-xcode-unlock-ais-full-potential-in-ios)
 ![](https://cdn.hackernoon.com/images/LAGYtM7WgMNIEPhN34qow5vplmU2-qj13ang.png)
 While modern "agentic" IDEs ship improvements multiple times a week, Apple’s IDE struggles to keep the pace.
 
-### [103. Navigating the Mobile Debugging Maze: Lessons Learned from My Experiences](https://hackernoon.com/navigating-the-mobile-debugging-maze-lessons-learned-from-my-experiences)
-![](https://cdn.hackernoon.com/images/a2VF9enqB4aFgm50MRRoNNLHuC62-v293vm2.jpeg)
-Gain valuable insights as I navigate the mobile debugging maze, sharing personal lessons and best practices.
+### [102. The Overview of the Mobile App Development Industry in Singapore [2020]](https://hackernoon.com/the-overview-of-the-mobile-app-development-industry-in-singapore-2020-dkm3ujf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzS7Ens3qoUevRb8Om1z17awDmJ93-66e3u5s.png?alt=media&token=b1f2c19f-d3c1-4a53-95e1-7561aa698664)
+Mobile app development has become an actual topic for many businesses in Singapore and worldwide. Enterprises, startups, and SMEs use custom mobile apps to increase productivity, set business processes, acquire new customers, generate additional revenue — there are plenty of ways how a mobile app can boost a business in the digital era.
 
-### [104. Why Custom App Development Solutions Are Becoming More Popular](https://hackernoon.com/why-custom-app-development-solutions-are-becoming-more-popular)
-![](https://cdn.hackernoon.com/images/fNyP0kNO9DbrsOwpViDuPpKplcq1-7h93rpi.jpeg)
-In this article, I’ll throw light on how to create custom apps, some trends related to it, industries utilizing custom app development, the development process,
-
-### [105. Master iOS Multipeer Connectivity and Share Data Across Multiple Devices without Internet Access](https://hackernoon.com/master-ios-multipeer-connectivity-and-share-data-across-multiple-devices-without-internet-access)
+### [103. Master iOS Multipeer Connectivity and Share Data Across Multiple Devices without Internet Access](https://hackernoon.com/master-ios-multipeer-connectivity-and-share-data-across-multiple-devices-without-internet-access)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-f4832di.jpeg)
 Learn how to implement Multipeer Connectivity on Apple devices for direct data exchange without intermediaries.
 
-### [106. Approaching Unit Testing in iOS Correctly](https://hackernoon.com/approaching-unit-testing-in-ios-correctly-lmr3u13)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsKUg89yJOWchW3oscCcEhyRkcjj1-fd2d3uoa.jpeg?alt=media&token=1fa605c5-8559-4ba8-a35a-7e0681e9eda9)
-Why does my application get so buggy after each release?
+### [104. Navigating the Mobile Debugging Maze: Lessons Learned from My Experiences](https://hackernoon.com/navigating-the-mobile-debugging-maze-lessons-learned-from-my-experiences)
+![](https://cdn.hackernoon.com/images/a2VF9enqB4aFgm50MRRoNNLHuC62-v293vm2.jpeg)
+Gain valuable insights as I navigate the mobile debugging maze, sharing personal lessons and best practices.
 
-### [107. How to Publish On the App Store](https://hackernoon.com/how-to-publish-on-the-app-store)
+### [105. Why Custom App Development Solutions Are Becoming More Popular](https://hackernoon.com/why-custom-app-development-solutions-are-becoming-more-popular)
+![](https://cdn.hackernoon.com/images/fNyP0kNO9DbrsOwpViDuPpKplcq1-7h93rpi.jpeg)
+In this article, I’ll throw light on how to create custom apps, some trends related to it, industries utilizing custom app development, the development process,
+
+### [106. How to Publish On the App Store](https://hackernoon.com/how-to-publish-on-the-app-store)
 ![](https://cdn.hackernoon.com/images/3c0Ba4iB54PS3D89K3wjjsbD9Ll1-mp93pg9.jpeg)
 How to publish an app to the app store. Using react native, expo, eas, MongoDB, Express, AWS, and Git to publish a full-stack app to the Apple app store.
+
+### [107. Approaching Unit Testing in iOS Correctly](https://hackernoon.com/approaching-unit-testing-in-ios-correctly-lmr3u13)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsKUg89yJOWchW3oscCcEhyRkcjj1-fd2d3uoa.jpeg?alt=media&token=1fa605c5-8559-4ba8-a35a-7e0681e9eda9)
+Why does my application get so buggy after each release?
 
 ### [108. Why Flutter has Gutters 💪](https://hackernoon.com/why-flutter-has-gutters-4ei3u6w)
 ![](https://cdn.hackernoon.com/images/7v4t3hlf.jpg)
@@ -448,33 +450,33 @@ in popularity among the whole application market. It's increasingly difficult
 for gyms to compete with apps today: taking into account the COVID-19 situation more people switched to the train-from-home regime, using various workout applications. As a part of healthcare, fitness
 and related apps’ popularity among users had tremendous growth over the last several years. Today we face unprecedented interest in various apps under the fitness category, free and accessible for all those who have smartphones.
 
-### [110. OperationQueue + Asynchronous Code: Everything You Need to Know](https://hackernoon.com/operationqueue-asynchronous-code-everything-you-need-to-know)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-6r835rf.png)
-In Swift, using OperationQueue for asynchronous code may seem like pure hell because, under the hood, Operations are considered complete...
-
-### [111. State Management Using Protocol-Oriented Programming + Generics](https://hackernoon.com/state-management-using-protocol-oriented-programming-generics)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-p983l3t.png)
-Learn to manage object states using a protocol-oriented approach, generics, and predefined status transitions for a robust system.
-
-### [112. How to Become an iOS App Developer in 2022](https://hackernoon.com/how-to-become-an-ios-app-developer-in-2022)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-6k93h1i.jpeg)
-iOS application development is the process of creating mobile applications for Apple hardware such as the iPhone and iPad.
-
-### [113. 7 Benefits of Using Flutter For Your Next Software Development Project](https://hackernoon.com/7-benefits-of-using-flutter-for-your-next-software-development-project-o95b35sd)
-![](https://cdn.hackernoon.com/images/j7NF7DOVn3PuOxdKDfy82zIpUjc2-tm2133o7.png)
-Flutter, an open-source reactive framework by Google has become the reason for the real “holy war” in the world of software development: some admire it, whereas
-
-### [114. How to Secure Intranet API with Custom Certificate Authority on iOS](https://hackernoon.com/how-to-secure-intranet-api-with-custom-certificate-authority-on-ios)
-![](https://cdn.hackernoon.com/images/ios-app-clhg2a46t000001s6a2c0h7kz.png)
-In this guide, we will show you how to secure an intranet API with your own Certificate Authority (CA) and make it trusted on an iOS app.
-
-### [115. Securing Text Fields in iOS Apps: Restricting 'Cut,' 'Copy,' and 'Paste' Operations Using Swift](https://hackernoon.com/securing-text-fields-in-ios-apps-restricting-cut-copy-and-paste-operations-using-swift)
+### [110. Securing Text Fields in iOS Apps: Restricting 'Cut,' 'Copy,' and 'Paste' Operations Using Swift](https://hackernoon.com/securing-text-fields-in-ios-apps-restricting-cut-copy-and-paste-operations-using-swift)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ib02pu4.jpeg)
 In this article, we'll explore how to use Swift to restrict "cut," "copy," and "paste" operations in text fields of iOS applications.
 
-### [116. A Comprehensive Guide to Silent Push Notifications in iOS: A Step-by-Step Walkthrough](https://hackernoon.com/a-comprehensive-guide-to-silent-push-notifications-a-step-by-step-walkthrough)
+### [111. How to Secure Intranet API with Custom Certificate Authority on iOS](https://hackernoon.com/how-to-secure-intranet-api-with-custom-certificate-authority-on-ios)
+![](https://cdn.hackernoon.com/images/ios-app-clhg2a46t000001s6a2c0h7kz.png)
+In this guide, we will show you how to secure an intranet API with your own Certificate Authority (CA) and make it trusted on an iOS app.
+
+### [112. OperationQueue + Asynchronous Code: Everything You Need to Know](https://hackernoon.com/operationqueue-asynchronous-code-everything-you-need-to-know)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-6r835rf.png)
+In Swift, using OperationQueue for asynchronous code may seem like pure hell because, under the hood, Operations are considered complete...
+
+### [113. State Management Using Protocol-Oriented Programming + Generics](https://hackernoon.com/state-management-using-protocol-oriented-programming-generics)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-p983l3t.png)
+Learn to manage object states using a protocol-oriented approach, generics, and predefined status transitions for a robust system.
+
+### [114. A Comprehensive Guide to Silent Push Notifications in iOS: A Step-by-Step Walkthrough](https://hackernoon.com/a-comprehensive-guide-to-silent-push-notifications-a-step-by-step-walkthrough)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-3o93mzz.jpeg)
 In this article, I would like to share my experience of implementing Silent Push Notifications in an iOS app.
+
+### [115. How to Become an iOS App Developer in 2022](https://hackernoon.com/how-to-become-an-ios-app-developer-in-2022)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-6k93h1i.jpeg)
+iOS application development is the process of creating mobile applications for Apple hardware such as the iPhone and iPad.
+
+### [116. 7 Benefits of Using Flutter For Your Next Software Development Project](https://hackernoon.com/7-benefits-of-using-flutter-for-your-next-software-development-project-o95b35sd)
+![](https://cdn.hackernoon.com/images/j7NF7DOVn3PuOxdKDfy82zIpUjc2-tm2133o7.png)
+Flutter, an open-source reactive framework by Google has become the reason for the real “holy war” in the world of software development: some admire it, whereas
 
 ### [117. Useful Tips to Avoid Slow Mobile App Development Procedure](https://hackernoon.com/useful-tips-to-avoid-slow-mobile-app-development-procedure-7v303yiz)
 ![](https://cdn.hackernoon.com/drafts/rf993ytl.png)
@@ -508,353 +510,373 @@ For the ninth post of the #30DaysOfSwift series, let's learn Scrollable Cards in
 ![](https://cdn.hackernoon.com/images/928A5MdLmkgtIlxpQv0Ir97p6BG3-qh03dam.png)
 Thread management, Thread execution flags and Thread priority management tool. Let’s get started!
 
-### [125. How React Native Is Shaping Mobile App Development](https://hackernoon.com/how-react-native-is-shaping-mobile-app-development-7v3g3wd7)
+### [125. iOS Event Handling Evolution: UIKit Responder Chain and SwiftUI Gestures](https://hackernoon.com/ios-event-handling-evolution-uikit-responder-chain-and-swiftui-gestures)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-k683brt.jpeg)
+Discover the evolution of iOS event handling. Compare the classic UIKit Responder Chain with modern SwiftUI gestures to master user interactions.
+
+### [126. How React Native Is Shaping Mobile App Development](https://hackernoon.com/how-react-native-is-shaping-mobile-app-development-7v3g3wd7)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHfbV7qGzkScr8DZ1qG0ITCZMePS2-p31s3uuq.jpeg?alt=media&token=23cea0ab-d964-44b7-a42a-f499a647e376)
 Are you a mobile app developer looking for more efficient tools for your projects? Mobile app development is getting tougher and tougher as the market continues to grow. As a developer, you need to develop Apps which meet the demands of your users. To achieve this, adopt the right tools, like the React Native development framework.
 
-### [126. Top 10 Reasons Why Building iOS Apps is More Profitable](https://hackernoon.com/top-10-reasons-why-building-ios-apps-is-more-profitable)
+### [127. Top 10 Reasons Why Building iOS Apps is More Profitable](https://hackernoon.com/top-10-reasons-why-building-ios-apps-is-more-profitable)
 ![](https://cdn.hackernoon.com/images/7ePYzDnv4MNB7XewdJHTB2WjCgp2-h2136i7.jpeg)
 Famous growth metrics will prove that iOS development has a bright future. So what makes developing on iOS more profitable?
 
-### [127. Developing & Distributing iOS apps: Apple Certificates and Provisioning Profiles](https://hackernoon.com/developing-and-distributing-ios-apps-apple-certificates-and-provisioning-profiles-sk3231al)
-![](https://cdn.hackernoon.com/images/bqq1vavQnKeXAOodyo8V8H52q8G2-pv835pk.jpeg)
-What are Apple certificates and provisioning profiles and why do we need them? The certificate is a digital identification you use to sign your iOS apps.
+### [128. The Complete Guide to Migrating From UIKit to SwiftUI in Large Production Apps](https://hackernoon.com/the-complete-guide-to-migrating-from-uikit-to-swiftui-in-large-production-apps)
+![](https://cdn.hackernoon.com/images/bGyqDcobpERFXKWs0AIhTuelhzY2-7p83d16.png)
+Migrating large production iOS apps from UIKit to SwiftUI requires a phased approach to avoid regressions in performance, reliability, and user experience
 
-### [128. How to Secure iOS Apps?](https://hackernoon.com/how-to-secure-ios-apps-4a383tmf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-jz133tny.jpeg?alt=media&token=ca7c4b66-a33d-48dc-8e64-a0627a43cbd2)
-This is the mobile era and pretty much everything these days can happen from our smart phone. Thanks to millions of apps out there which help us in accomplishing anything we want. Whether it is maintaining your schedule (calendar) to managing financial information on the go, all things can be done by mobile apps running on our smart phones. Since these apps have access to so much of confidential information, as developer when we make an app we need to follow highest security standards so that information is not accessed by someone who is not entitled for it. 
-
-### [129. 10 Reasons Why Outsourcing Your Work to a Software Company May be Better](https://hackernoon.com/10-reasons-why-outsourcing-your-work-to-a-software-company-may-be-better)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-oq93165.jpeg)
-There are many strong reasons to outsource software development to an offshore provider. Outsourcing helps you save time, reduce costs, focus on project.
-
-### [130. How to Stop Making Singletons in Swift: A Dependency Injection Guide](https://hackernoon.com/how-to-stop-making-singletons-in-swift-a-dependency-injection-guide)
-![](https://cdn.hackernoon.com/images/ZjHfUBMe6Oa32QVRW6oAooHdb513-fx03c53.jpeg)
-Transition from singletons to dependency injection in a SwiftUI app with minimal effort.
-
-### [131. My Journey: Switching from Android to iOS Development as an Indie Dev](https://hackernoon.com/my-journey-switching-from-android-to-ios-development-as-an-indie-dev)
+### [129. My Journey: Switching from Android to iOS Development as an Indie Dev](https://hackernoon.com/my-journey-switching-from-android-to-ios-development-as-an-indie-dev)
 ![](https://cdn.hackernoon.com/images/JsZXPzS9YEMBFivNKypLw2pSq013-zu03brw.png)
 From Android to iOS: my indie dev journey. Kotlin to Swift, KMP, Play Store struggles, App Store wins, and better iOS revenue.
 
-### [132. Creating the YouTube Subscribe Button Animation in Flutter](https://hackernoon.com/creating-the-youtube-subscribe-button-animation-in-flutter)
-![](https://cdn.hackernoon.com/images/m7D4IDHxAKbDzMYP8u2eMWhKsPi1-wcb39be.jpeg)
-Animations are a reliable way of enhancing your app's UX. Let's learn how to build the YouTube subscribe button animation using Flutter.
-
-### [133. Unlocking Potential: The Evolution of Mobile App Development In 2024](https://hackernoon.com/unlocking-potential-the-evolution-of-mobile-app-development-in-2024)
-![](https://cdn.hackernoon.com/images/pKmIJzGhgpZjPG2TMpb4jrdHxPr2-2b837so.jpeg)
-Explore the future of mobile app development in 2024! Uncover innovative trends and strategies for unlocking your app's full potential. Dive in now!
-
-### [134. Creating iOS Apps: Tips and Tricks I Learned the Hard Way](https://hackernoon.com/creating-ios-apps-tips-and-tricks-i-learned-the-hard-way-uk2z3704)
-![](https://cdn.hackernoon.com/images/Sm9FPUwZubR7V8OGeJtvaZXLd1p1-us16c3bcl.jpeg)
-Creating an iOS App? This is what I would've appreciated knowing before I started building my first one.
-
-### [135. How to Make an App That Is Unbreakable](https://hackernoon.com/how-to-make-an-app-that-is-unbreakable)
-![](https://cdn.hackernoon.com/images/0PnKXzdeU8Px7YXXEvic98yylwz1-yd937tu.jpeg)
-Discover the story of Stops, a real-time public transport app for Samara. Learn how its stability and user preference make it a low-maintenance success.
-
-### [136. Swift Runtime Optimization: Boosting Project Speed with Simple Techniques](https://hackernoon.com/swift-runtime-optimization-boosting-project-speed-with-simple-techniques)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-7g83xt1.jpeg)
-Explore the dynamic world of Swift runtime optimization with this guide, unveiling key techniques to significantly boost project speed.
-
-### [137. The Major Difference Between PWA and Native Apps](https://hackernoon.com/the-major-difference-between-pwa-and-native-apps-6l1q33fn)
-![](https://cdn.hackernoon.com/images/bI8qtI7HUAYME4whVTqvW1Kn5cL2-fz183f6c.jpeg)
-In this article we share our thoughts about difference between PWA and Native Mobile Apps and what best suits business needs.
-
-### [138. How to Create an eLearning App like Coursera](https://hackernoon.com/how-to-create-an-elearning-app-like-coursera)
-![](https://cdn.hackernoon.com/images/q27v0I9Kv6ZH2rGMSNj66gxfsbx1-7z037h1.jpeg)
-Schools and colleges adapting to online modes of education imply a high dependency on modern software.
-
-### [139. Context Menus in iOS 18 - #30DaysOfSwift](https://hackernoon.com/context-menus-in-ios-18-30daysofswift)
-![](https://cdn.hackernoon.com/images/colorful-menus-on-a-phone-yr8xq1i1gau4fl01a97idgea.png)
-Today, let's look at Context Menus. A powerful way to offer additional actions when users long-press or right-click on UI elements.
-
-### [140. Swift Network Error Handling: A Complete Guide to a Production-Ready Layer](https://hackernoon.com/swift-network-error-handling-a-complete-guide-to-a-production-ready-layer)
+### [130. Swift Network Error Handling: A Complete Guide to a Production-Ready Layer](https://hackernoon.com/swift-network-error-handling-a-complete-guide-to-a-production-ready-layer)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-2l83cjp.jpeg)
 Build a production-ready Swift 6 network layer with typed throws, HTTP status enums, and a master response service for cleaner UI-friendly errors.
 
-### [141. Abstract + Flawless App Introduction](https://hackernoon.com/abstract-flawless-app-introduction-yu7q33q1)
-![](https://cdn.hackernoon.com/images/2dbu367r.jpg)
-Hello to all designers here!
+### [131. How to Secure iOS Apps?](https://hackernoon.com/how-to-secure-ios-apps-4a383tmf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-jz133tny.jpeg?alt=media&token=ca7c4b66-a33d-48dc-8e64-a0627a43cbd2)
+This is the mobile era and pretty much everything these days can happen from our smart phone. Thanks to millions of apps out there which help us in accomplishing anything we want. Whether it is maintaining your schedule (calendar) to managing financial information on the go, all things can be done by mobile apps running on our smart phones. Since these apps have access to so much of confidential information, as developer when we make an app we need to follow highest security standards so that information is not accessed by someone who is not entitled for it. 
 
-### [142. How to Create a Custom Toggle Button in iOS 18 - #30DaysOfSwift](https://hackernoon.com/how-to-create-a-custom-toggle-button-in-ios-18-30daysofswift)
-![](https://cdn.hackernoon.com/images/a-light-switch-on-the-wall-qgu3aqjuxwfcq0lcwq71iirc.png)
-Today, we’re going to create a custom toggle button in SwiftUI.
+### [132. Developing & Distributing iOS apps: Apple Certificates and Provisioning Profiles](https://hackernoon.com/developing-and-distributing-ios-apps-apple-certificates-and-provisioning-profiles-sk3231al)
+![](https://cdn.hackernoon.com/images/bqq1vavQnKeXAOodyo8V8H52q8G2-pv835pk.jpeg)
+What are Apple certificates and provisioning profiles and why do we need them? The certificate is a digital identification you use to sign your iOS apps.
+
+### [133. 10 Reasons Why Outsourcing Your Work to a Software Company May be Better](https://hackernoon.com/10-reasons-why-outsourcing-your-work-to-a-software-company-may-be-better)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-oq93165.jpeg)
+There are many strong reasons to outsource software development to an offshore provider. Outsourcing helps you save time, reduce costs, focus on project.
+
+### [134. How to Stop Making Singletons in Swift: A Dependency Injection Guide](https://hackernoon.com/how-to-stop-making-singletons-in-swift-a-dependency-injection-guide)
+![](https://cdn.hackernoon.com/images/ZjHfUBMe6Oa32QVRW6oAooHdb513-fx03c53.jpeg)
+Transition from singletons to dependency injection in a SwiftUI app with minimal effort.
+
+### [135. Creating the YouTube Subscribe Button Animation in Flutter](https://hackernoon.com/creating-the-youtube-subscribe-button-animation-in-flutter)
+![](https://cdn.hackernoon.com/images/m7D4IDHxAKbDzMYP8u2eMWhKsPi1-wcb39be.jpeg)
+Animations are a reliable way of enhancing your app's UX. Let's learn how to build the YouTube subscribe button animation using Flutter.
+
+### [136. How to Make an App That Is Unbreakable](https://hackernoon.com/how-to-make-an-app-that-is-unbreakable)
+![](https://cdn.hackernoon.com/images/0PnKXzdeU8Px7YXXEvic98yylwz1-yd937tu.jpeg)
+Discover the story of Stops, a real-time public transport app for Samara. Learn how its stability and user preference make it a low-maintenance success.
+
+### [137. Swift Runtime Optimization: Boosting Project Speed with Simple Techniques](https://hackernoon.com/swift-runtime-optimization-boosting-project-speed-with-simple-techniques)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-7g83xt1.jpeg)
+Explore the dynamic world of Swift runtime optimization with this guide, unveiling key techniques to significantly boost project speed.
+
+### [138. Unlocking Potential: The Evolution of Mobile App Development In 2024](https://hackernoon.com/unlocking-potential-the-evolution-of-mobile-app-development-in-2024)
+![](https://cdn.hackernoon.com/images/pKmIJzGhgpZjPG2TMpb4jrdHxPr2-2b837so.jpeg)
+Explore the future of mobile app development in 2024! Uncover innovative trends and strategies for unlocking your app's full potential. Dive in now!
+
+### [139. Creating iOS Apps: Tips and Tricks I Learned the Hard Way](https://hackernoon.com/creating-ios-apps-tips-and-tricks-i-learned-the-hard-way-uk2z3704)
+![](https://cdn.hackernoon.com/images/Sm9FPUwZubR7V8OGeJtvaZXLd1p1-us16c3bcl.jpeg)
+Creating an iOS App? This is what I would've appreciated knowing before I started building my first one.
+
+### [140. How to Create an eLearning App like Coursera](https://hackernoon.com/how-to-create-an-elearning-app-like-coursera)
+![](https://cdn.hackernoon.com/images/q27v0I9Kv6ZH2rGMSNj66gxfsbx1-7z037h1.jpeg)
+Schools and colleges adapting to online modes of education imply a high dependency on modern software.
+
+### [141. The Major Difference Between PWA and Native Apps](https://hackernoon.com/the-major-difference-between-pwa-and-native-apps-6l1q33fn)
+![](https://cdn.hackernoon.com/images/bI8qtI7HUAYME4whVTqvW1Kn5cL2-fz183f6c.jpeg)
+In this article we share our thoughts about difference between PWA and Native Mobile Apps and what best suits business needs.
+
+### [142. Context Menus in iOS 18 - #30DaysOfSwift](https://hackernoon.com/context-menus-in-ios-18-30daysofswift)
+![](https://cdn.hackernoon.com/images/colorful-menus-on-a-phone-yr8xq1i1gau4fl01a97idgea.png)
+Today, let's look at Context Menus. A powerful way to offer additional actions when users long-press or right-click on UI elements.
 
 ### [143. App Tracking Transparency in Swift. How to Implement? How to Retrieve IDFA? ](https://hackernoon.com/app-tracking-transparency-in-swift-how-to-implement-how-to-retrieve-idfa)
 ![](https://cdn.hackernoon.com/images/jtT33pyPCcfP9ClQC9m3945bt6B2-d7039f5.png)
 
 
-### [144. Lessons Learned Developing a Mobile Banking Application ](https://hackernoon.com/lessons-learned-developing-a-mobile-banking-application)
+### [144. How to Build Smooth iOS Transitions That Don't Break User Flow ](https://hackernoon.com/how-to-build-smooth-ios-transitions-that-dont-break-user-flow)
+![](https://cdn.hackernoon.com/images/2N8QL9cfkGZ9auqvd12xar6hKjt1-n303d1o.png)
+Build iOS transitions that feel smooth: reduce latency, prevent flashing and layout jumps, use matchedGeometryEffect correctly, and debug jank with Instruments.
+
+### [145. Lessons Learned Developing a Mobile Banking Application ](https://hackernoon.com/lessons-learned-developing-a-mobile-banking-application)
 ![](https://cdn.hackernoon.com/images/mobile-banking-application-vr9or5gvb2xzcazm7zp1mno7.png)
 "Discover the journey of developing a secure and user-friendly mobile banking app, empowering financial management and enhancing accessibility. Read more!"
 
-### [145. How We Helped Bring Hermes to iOS in React Native 0.64](https://hackernoon.com/how-we-helped-bring-hermes-to-ios-in-react-native-064-o32i34y7)
+### [146. Abstract + Flawless App Introduction](https://hackernoon.com/abstract-flawless-app-introduction-yu7q33q1)
+![](https://cdn.hackernoon.com/images/2dbu367r.jpg)
+Hello to all designers here!
+
+### [147. How to Create a Custom Toggle Button in iOS 18 - #30DaysOfSwift](https://hackernoon.com/how-to-create-a-custom-toggle-button-in-ios-18-30daysofswift)
+![](https://cdn.hackernoon.com/images/a-light-switch-on-the-wall-qgu3aqjuxwfcq0lcwq71iirc.png)
+Today, we’re going to create a custom toggle button in SwiftUI.
+
+### [148. How We Helped Bring Hermes to iOS in React Native 0.64](https://hackernoon.com/how-we-helped-bring-hermes-to-ios-in-react-native-064-o32i34y7)
 ![](https://hackernoon.com/images/KJ3mcmAxpUWXf6w3bdTX8dtvKJH2-hln3fc6.jpeg)
 For a long time Hermes was exclusive to Android – it was optimized for running React Native apps on Android only. Now it’s finally available on iOS as well.
 
-### [146. Understanding Parallel Programming: A Guide for Beginners, Part II](https://hackernoon.com/understanding-parallel-programming-a-guide-for-beginners-part-ii)
+### [149. Understanding Parallel Programming: A Guide for Beginners, Part II](https://hackernoon.com/understanding-parallel-programming-a-guide-for-beginners-part-ii)
 ![](https://cdn.hackernoon.com/images/928A5MdLmkgtIlxpQv0Ir97p6BG3-1m03dh7.png)
 Asynchronous code isn't magic; it relies on the RunLoop and shares thread resources. Plan wisely, and offload tasks to avoid delays from resource competition.
 
-### [147. Apple iOS 14 Users Can Now Use Widgets: Here's Why You Need To Develop An iOS Widget For Your App](https://hackernoon.com/apple-ios-14-users-can-now-use-widgets-heres-why-you-need-to-develop-an-ios-widget-for-your-app-1ba733qx)
-![](https://cdn.hackernoon.com/images/lJrVK0SjhJXiFdLYlZUSWQTiY7C2-6v9m332y.jpeg)
-When iOS 14 was launched it turned out that the widgets were affected greatly. They became much smarter, faster, and accessible.
-
-### [148. Why Hybrid App Development is the Way Forward: An Overview](https://hackernoon.com/why-hybrid-app-development-is-the-way-forward-an-overview-ko2k340l)
-![](https://cdn.hackernoon.com/images/57P5msnVsPRPhZOuzBGvywMRyqf1-xte316a.jpeg)
-Mobile apps and web services have been spearheading the digital transformation in the recent decade. The former provide excellent user experience and accessibility whereas the latter offer reliability and consistency across platforms, requiring only a browser to run. So it was only a matter of time before they were combined in what is known as hybrid mobile app development. In fact, this approach has been steadily gaining in popularity over the last years and has already overtaken the native development thanks to cost savings and streamlined process. However, despite its growing popularity, it won’t be suitable for any business. In this article, we’ll look at the main strengths and weaknesses of hybrid apps to help you make an informed choice.
-
-### [149. How to Become an iOS Developer and Start Your Own Business](https://hackernoon.com/how-to-become-an-ios-developer-and-start-your-own-business)
-![](https://cdn.hackernoon.com/images/a-developer-coding-in-a-dark-room-e9glga9cqvusjari0loyke8w.png)
-Kirill, 33 years old, an iOS developer, never worked as a programmer, income from programming: 0. He created his own VPN application for iOS 
-
-### [150. Advantages Of Go Language For Creating Web Servers](https://hackernoon.com/advantages-of-go-language-for-creating-web-servers-fl17346a)
-![](https://hackernoon.com/images/xBLXG4Ce1kbxqmBk0ocYg82ExIK2-af1329vd.jpeg)
-The Go programming language is great choice for web server development and beyond.
-
-### [151. The Complete Guide for using Redux in React Native](https://hackernoon.com/the-complete-guide-for-using-redux-in-react-native-9h1h3uq7)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7hNScric1WcTcZqxOlzpN8s54n43-r4af3yoo.png?alt=media&token=f659e424-3532-4dff-9abf-f8f0e6770c56)
-Redux is a popular React and React Native state management library, meant to be used in complex React and React Native apps where sharing state between multi-level components can get extremely difficult to manage. In this article we are going to learn how to use Redux with React Hooks by building a real React Native app.
-
-### [152. 10 Steps To Create Your First Mobile App ](https://hackernoon.com/10-steps-to-create-your-first-mobile-app-32ce31wd)
-![](https://cdn.hackernoon.com/images/6KvdmgkWJcQ63bMATIRU4CkPwty1-b9102wop.jpeg)
-It may seem daunting to start building an application, but here are 10 steps to building your first mobile app. You need a customer-centric strategy to succeed.
-
-### [153. Meet the Writer: HackerNoon's Contributor Max Kalik, iOS Software Engineer](https://hackernoon.com/meet-the-writer-hackernoons-contributor-max-kalik-ios-software-engineer)
-![](https://cdn.hackernoon.com/images/tOrNL7qeeOS9PMp6GymC5eCd1ig2-4w830lx.jpeg)
-Explore insights from Max, a Software Engineer and tech writer, as he shares his experience in tech writing about iOS, and personal interests.
-
-### [154. 25 Common iOS 16 Issues](https://hackernoon.com/25-common-ios-16-issues)
-![](https://cdn.hackernoon.com/images/w7TWZO2sSLN3mgFfyFNE4YV5S1D3-ip93pkk.jpeg)
-Here are 25 common iOS 16 issues and how you can troubleshoot them.
-
-### [155. How Mobile Weather Apps Help You Survive the Hurricane Season](https://hackernoon.com/how-mobile-weather-apps-help-you-survive-the-hurricane-season)
-![](https://cdn.hackernoon.com/images/buRFBSvxwffor8q32uDsjBeHLbt1-y903zm4.jpeg)
-Mobile weather apps have evolved a lot, raising awareness and allowing people to plan their time with the weather in mind. 
-
-### [156. The Difference Between EnvironmentObject, StateObject, ObservedObject & Observable](https://hackernoon.com/the-difference-between-environmentobject-stateobject-observedobject-and-observable)
+### [150. The Difference Between EnvironmentObject, StateObject, ObservedObject & Observable](https://hackernoon.com/the-difference-between-environmentobject-stateobject-observedobject-and-observable)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0683elh.jpeg)
 In this article, we’ll discuss the differences between the @StateObject, @EnvironmentObject, and @ObservedObject property wrappers.
 
-### [157. How We Built Mobile Weather Widgets That Improved Apple’s](https://hackernoon.com/how-we-built-mobile-weather-widgets-that-improved-apples)
-![](https://cdn.hackernoon.com/images/buRFBSvxwffor8q32uDsjBeHLbt1-pp0375r.jpeg)
-We didn’t want to create “mini versions” of the app – we wanted to surface the most relevant insights in the most accessible way possible.
+### [151. How to Become an iOS Developer and Start Your Own Business](https://hackernoon.com/how-to-become-an-ios-developer-and-start-your-own-business)
+![](https://cdn.hackernoon.com/images/a-developer-coding-in-a-dark-room-e9glga9cqvusjari0loyke8w.png)
+Kirill, 33 years old, an iOS developer, never worked as a programmer, income from programming: 0. He created his own VPN application for iOS 
 
-### [158. The Composable Architecture: Strengths, Trade-Offs, and Performance Tips](https://hackernoon.com/the-composable-architecture-strengths-trade-offs-and-performance-tips)
+### [152. Apple iOS 14 Users Can Now Use Widgets: Here's Why You Need To Develop An iOS Widget For Your App](https://hackernoon.com/apple-ios-14-users-can-now-use-widgets-heres-why-you-need-to-develop-an-ios-widget-for-your-app-1ba733qx)
+![](https://cdn.hackernoon.com/images/lJrVK0SjhJXiFdLYlZUSWQTiY7C2-6v9m332y.jpeg)
+When iOS 14 was launched it turned out that the widgets were affected greatly. They became much smarter, faster, and accessible.
+
+### [153. Why Hybrid App Development is the Way Forward: An Overview](https://hackernoon.com/why-hybrid-app-development-is-the-way-forward-an-overview-ko2k340l)
+![](https://cdn.hackernoon.com/images/57P5msnVsPRPhZOuzBGvywMRyqf1-xte316a.jpeg)
+Mobile apps and web services have been spearheading the digital transformation in the recent decade. The former provide excellent user experience and accessibility whereas the latter offer reliability and consistency across platforms, requiring only a browser to run. So it was only a matter of time before they were combined in what is known as hybrid mobile app development. In fact, this approach has been steadily gaining in popularity over the last years and has already overtaken the native development thanks to cost savings and streamlined process. However, despite its growing popularity, it won’t be suitable for any business. In this article, we’ll look at the main strengths and weaknesses of hybrid apps to help you make an informed choice.
+
+### [154. Advantages Of Go Language For Creating Web Servers](https://hackernoon.com/advantages-of-go-language-for-creating-web-servers-fl17346a)
+![](https://hackernoon.com/images/xBLXG4Ce1kbxqmBk0ocYg82ExIK2-af1329vd.jpeg)
+The Go programming language is great choice for web server development and beyond.
+
+### [155. The Complete Guide for using Redux in React Native](https://hackernoon.com/the-complete-guide-for-using-redux-in-react-native-9h1h3uq7)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7hNScric1WcTcZqxOlzpN8s54n43-r4af3yoo.png?alt=media&token=f659e424-3532-4dff-9abf-f8f0e6770c56)
+Redux is a popular React and React Native state management library, meant to be used in complex React and React Native apps where sharing state between multi-level components can get extremely difficult to manage. In this article we are going to learn how to use Redux with React Hooks by building a real React Native app.
+
+### [156. 10 Steps To Create Your First Mobile App ](https://hackernoon.com/10-steps-to-create-your-first-mobile-app-32ce31wd)
+![](https://cdn.hackernoon.com/images/6KvdmgkWJcQ63bMATIRU4CkPwty1-b9102wop.jpeg)
+It may seem daunting to start building an application, but here are 10 steps to building your first mobile app. You need a customer-centric strategy to succeed.
+
+### [157. 25 Common iOS 16 Issues](https://hackernoon.com/25-common-ios-16-issues)
+![](https://cdn.hackernoon.com/images/w7TWZO2sSLN3mgFfyFNE4YV5S1D3-ip93pkk.jpeg)
+Here are 25 common iOS 16 issues and how you can troubleshoot them.
+
+### [158. Meet the Writer: HackerNoon's Contributor Max Kalik, iOS Software Engineer](https://hackernoon.com/meet-the-writer-hackernoons-contributor-max-kalik-ios-software-engineer)
+![](https://cdn.hackernoon.com/images/tOrNL7qeeOS9PMp6GymC5eCd1ig2-4w830lx.jpeg)
+Explore insights from Max, a Software Engineer and tech writer, as he shares his experience in tech writing about iOS, and personal interests.
+
+### [159. The Composable Architecture: Strengths, Trade-Offs, and Performance Tips](https://hackernoon.com/the-composable-architecture-strengths-trade-offs-and-performance-tips)
 ![](https://cdn.hackernoon.com/images/8DW0GuX17fWS1nlT2rZIqhyo0QP2-6q03flo.png)
 Improve performance in iOS apps using TCA. Learn tips, pitfalls, and real-world data to scale Composable Architecture effectively.
 
-### [159. iOS 14 features Every Developer Must Know](https://hackernoon.com/ios-14-features-every-developer-must-know-2y1l3wp5)
+### [160. How Mobile Weather Apps Help You Survive the Hurricane Season](https://hackernoon.com/how-mobile-weather-apps-help-you-survive-the-hurricane-season)
+![](https://cdn.hackernoon.com/images/buRFBSvxwffor8q32uDsjBeHLbt1-y903zm4.jpeg)
+Mobile weather apps have evolved a lot, raising awareness and allowing people to plan their time with the weather in mind. 
+
+### [161. How to Architect Enterprise-Scale iOS Applications Using Modular SwiftUI](https://hackernoon.com/how-to-architect-enterprise-scale-ios-applications-using-modular-swiftui)
+![](https://cdn.hackernoon.com/images/bGyqDcobpERFXKWs0AIhTuelhzY2-3e83ggr.png)
+SwiftUI is a modular system for building apps. Features share UI primitives without importing each other. 
+
+### [162. iOS 14 features Every Developer Must Know](https://hackernoon.com/ios-14-features-every-developer-must-know-2y1l3wp5)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-sy183wwr.jpeg?alt=media&token=c9d28c63-1fb3-4f37-a614-d2029c7c6cac)
 Apple unveiled the latest version of its iOS operating system, iOS 14, at the WWDC keynote in June 2020.
 
-### [160. My Second Mobile App](https://hackernoon.com/starting-my-mobile-app-journey-with-the-second-app-hwyd227l)
-![](https://cdn.hackernoon.com/drafts/va11e227c.png)
-
-
-### [161. How to Create Custom Transitions in iOS 18 - #30DaysOfSwift](https://hackernoon.com/how-to-create-custom-transitions-in-ios-18-30daysofswift)
+### [163. How to Create Custom Transitions in iOS 18 - #30DaysOfSwift](https://hackernoon.com/how-to-create-custom-transitions-in-ios-18-30daysofswift)
 ![](https://cdn.hackernoon.com/images/a-colorful-clear-transition-between-two-images-g0drek6he3jcobuv0by3xjh6.png)
 In the tenth post of the #30DaysOfSwift series, we’re diving into Custom Transitions and Animations to create seamless page/view transitions in SwiftUI.
 
 
-### [162. Why Mobile Application Development Is Important In Current Scenario?](https://hackernoon.com/why-mobile-application-development-is-important-in-current-scenario)
-![](https://cdn.hackernoon.com/images/Cba4aGD8PWVDoYTcOXjAKGANIOq1-y4e3k3v.jpeg)
-In the current scenario, mobile app development is an essential part of an online business.
+### [164. My Second Mobile App](https://hackernoon.com/starting-my-mobile-app-journey-with-the-second-app-hwyd227l)
+![](https://cdn.hackernoon.com/drafts/va11e227c.png)
 
-### [163. iOs App Development Wars: React Native Vs. Swift](https://hackernoon.com/ios-app-development-wars-react-native-vs-swift)
-![](https://cdn.hackernoon.com/images/yEdfehOz04Tz81ubT9EowaqdqG03-9h136ap.jpeg)
-A comparison of React Native vs Swift for iOS app development ⚡ Which one is more convenient and practical? 
 
-### [164. An Overview of What You Need to Know Before Starting to Develop a Mobile App](https://hackernoon.com/an-overview-of-what-you-need-to-know-before-starting-to-develop-a-mobile-app-of5e33ph)
-![](https://cdn.hackernoon.com/images/0RiQtNe5nHZyu2hZdH2Gt7GOPgm2-sm5s3332.jpeg)
-A complete guide for all who are looking to develop a mobile app. Know the fundamentals of Mobile App Development Process.
-
-### [165. Tips And Tricks For iOS Application Debugging](https://hackernoon.com/tips-and-tricks-for-ios-app-debugging-h9p32pv)
-![](https://cdn.hackernoon.com/images/ii1p53256.jpg)
-App debugging is an essential part of the app development lifecycle. Bugs can be insidious, and we need to find them as fast as possible to get more time for fixing. Yes, of course, it would be great to write code without any issues that work just perfect, but we are people, and it’s a normal thing to make mistakes. In this article, you will read about some useful & fun tools that I prefer to use in my day to day iOS app debugging at Uptech. We will touch a few themes like:
-
-### [166. Mobile App Development Jobs Trending in 2019](https://hackernoon.com/trending-now-the-state-of-mobile-app-development-jobs-p51x040gz)
-![](https://cdn.hackernoon.com/drafts/po1wy40p9.png)
-Motorola cut the cord when it placed the first handheld mobile phone call over 40 years ago. Ever since, the race for smarter mobile development lives on.
-
-### [167. iOS Developer Ravil Khusainov Plays a Major Role in New Apps' Success](https://hackernoon.com/hitting-the-apple-app-store-is-critical-for-any-apps-success-ios-developer-ravil-khusaino)
+### [165. iOS Developer Ravil Khusainov Plays a Major Role in New Apps' Success](https://hackernoon.com/hitting-the-apple-app-store-is-critical-for-any-apps-success-ios-developer-ravil-khusaino)
 ![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-y393qom.jpeg)
 Ravil Khusainov is the sole iOS developer at Lattis, a service that connects people with available scooters and bikes in their area. 
 
-### [168. Why AI Coding Assistants Still Struggle with Mobile App Development](https://hackernoon.com/why-ai-coding-assistants-still-struggle-with-mobile-app-development)
+### [166. Robust Network Layer in Swift via Clean Architecture Approach](https://hackernoon.com/stop-letting-your-ios-network-layer-become-a-junk-drawer)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rs823c6.jpeg)
+Stop shipping “junk drawer” networking code. This guide shows a production-ready Swift network layer with type-safe endpoints and SwiftUI-friendly usage.
+
+### [167. Why Mobile Application Development Is Important In Current Scenario?](https://hackernoon.com/why-mobile-application-development-is-important-in-current-scenario)
+![](https://cdn.hackernoon.com/images/Cba4aGD8PWVDoYTcOXjAKGANIOq1-y4e3k3v.jpeg)
+In the current scenario, mobile app development is an essential part of an online business.
+
+### [168. iOs App Development Wars: React Native Vs. Swift](https://hackernoon.com/ios-app-development-wars-react-native-vs-swift)
+![](https://cdn.hackernoon.com/images/yEdfehOz04Tz81ubT9EowaqdqG03-9h136ap.jpeg)
+A comparison of React Native vs Swift for iOS app development ⚡ Which one is more convenient and practical? 
+
+### [169. An Overview of What You Need to Know Before Starting to Develop a Mobile App](https://hackernoon.com/an-overview-of-what-you-need-to-know-before-starting-to-develop-a-mobile-app-of5e33ph)
+![](https://cdn.hackernoon.com/images/0RiQtNe5nHZyu2hZdH2Gt7GOPgm2-sm5s3332.jpeg)
+A complete guide for all who are looking to develop a mobile app. Know the fundamentals of Mobile App Development Process.
+
+### [170. Why AI Coding Assistants Still Struggle with Mobile App Development](https://hackernoon.com/why-ai-coding-assistants-still-struggle-with-mobile-app-development)
 ![](https://cdn.hackernoon.com/images/KQSiU0nufhcyDb0h8zAs4pA3Nev1-77039vd.jpeg)
 Know why AI coding assistants are not good enough for mobile app development and what can be done to improve them.
 
-### [169. Developers Keep Ruining Apps with This Simple UI Blunder](https://hackernoon.com/developers-keep-ruining-apps-with-this-simple-ui-blunder)
+### [171. Tips And Tricks For iOS Application Debugging](https://hackernoon.com/tips-and-tricks-for-ios-app-debugging-h9p32pv)
+![](https://cdn.hackernoon.com/images/ii1p53256.jpg)
+App debugging is an essential part of the app development lifecycle. Bugs can be insidious, and we need to find them as fast as possible to get more time for fixing. Yes, of course, it would be great to write code without any issues that work just perfect, but we are people, and it’s a normal thing to make mistakes. In this article, you will read about some useful & fun tools that I prefer to use in my day to day iOS app debugging at Uptech. We will touch a few themes like:
+
+### [172. Mobile App Development Jobs Trending in 2019](https://hackernoon.com/trending-now-the-state-of-mobile-app-development-jobs-p51x040gz)
+![](https://cdn.hackernoon.com/drafts/po1wy40p9.png)
+Motorola cut the cord when it placed the first handheld mobile phone call over 40 years ago. Ever since, the race for smarter mobile development lives on.
+
+### [173. Developers Keep Ruining Apps with This Simple UI Blunder](https://hackernoon.com/developers-keep-ruining-apps-with-this-simple-ui-blunder)
 ![](https://cdn.hackernoon.com/images/928A5MdLmkgtIlxpQv0Ir97p6BG3-ag33dai.png)
 The key to smooth performance is to offload non-UI tasks to background threads.
 
-### [170. Heroes Of Mavia Launches Anticipated Game On iOS And Android With Exclusive Mavia Airdrop Program](https://hackernoon.com/heroes-of-mavia-launches-anticipated-game-on-ios-and-android-with-exclusive-mavia-airdrop-program)
+### [174. Heroes Of Mavia Launches Anticipated Game On iOS And Android With Exclusive Mavia Airdrop Program](https://hackernoon.com/heroes-of-mavia-launches-anticipated-game-on-ios-and-android-with-exclusive-mavia-airdrop-program)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-nc8309i.jpeg)
 The game boasts a daily average playtime of 24 minutes and a remarkable 42% day 7 retention rate, indicating its compelling gameplay and engaging content.
 
-### [171. A Guide to Hiring iOS and Android Developers](https://hackernoon.com/a-guide-to-hiring-ios-and-android-developers)
+### [175. A Guide to Hiring iOS and Android Developers](https://hackernoon.com/a-guide-to-hiring-ios-and-android-developers)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-v993yzy.jpeg)
 Hiring mobile app developers can be your first step towards building a mobile app. Read this comprehensive guide to know how to hire iOS and Android developers.
 
-### [172. How to Create a Successful Food Delivery App](https://hackernoon.com/how-to-create-a-successful-food-delivery-app)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-3t93yuu.jpeg)
-
-
-### [173. The Localization Approaches Every Engineering Team Should Know in 2025](https://hackernoon.com/the-localization-approaches-every-engineering-team-should-know-in-2025)
+### [176. The Localization Approaches Every Engineering Team Should Know in 2025](https://hackernoon.com/the-localization-approaches-every-engineering-team-should-know-in-2025)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8f02xdz.png)
 Eight localization techniques, from traditional strategies to emerging backend-first solutions—each with their practical pros and constraints.
 
-### [174. Unconventional Deadlock Fix Inspired by XCTest's "Expectation"](https://hackernoon.com/unconventional-deadlock-fix-inspired-by-xctests-expectation)
-![](https://cdn.hackernoon.com/images/imTOi6TzD2acj6NBGngoIn24v6x2-50c3roo.jpeg)
-An intriguing case of a deadlock solved by drawing inspiration from XCTest's "expectation" mechanism. The exploration from detection to resolution.
+### [177. How to Create a Successful Food Delivery App](https://hackernoon.com/how-to-create-a-successful-food-delivery-app)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-3t93yuu.jpeg)
 
-### [175. Synchronization Challenges in Multithreading](https://hackernoon.com/synchronization-challenges-in-multithreading)
+
+### [178. Synchronization Challenges in Multithreading](https://hackernoon.com/synchronization-challenges-in-multithreading)
 ![](https://cdn.hackernoon.com/images/928A5MdLmkgtIlxpQv0Ir97p6BG3-vr03e8i.jpeg)
 This is the sixth part of a series on Parallel Programming for Beginners. In this article, we’ll explore real-world scenarios and their solutions.
 
-### [176. What KPIs do Mobile App Developers Use to Evaluate App Performance?](https://hackernoon.com/what-kpis-do-mobile-app-developers-use-to-evaluate-app-performance)
-![](https://cdn.hackernoon.com/images/qy7Cp5s27aVyiN2mc7Pw4hsvBbD2-be036on.jpeg)
-These are some basic KPIs that Mobile App Developers use to Evaluate App Performance from marketing, development, and financial perspectives to set priorities. 
-
-### [177. Creating Scrollable Lists using Protocol-Oriented Programming and UICollectionViewFlowLayout](https://hackernoon.com/creating-scrollable-lists-using-protocol-oriented-programming-and-uicollectionviewflowlayout)
-![](https://cdn.hackernoon.com/images/CXxWTcTnTGPBjjje4mL33qBA4p72-zqa3ax1.jpeg)
-Each developer in practice faced the need to make up a screen based on a scrolling list of elements. Or maybe not just one list, but several.
-
-### [178. iOS 14 Privacy Features: It's Time to Rethink Advertising & Marketing Strategies](https://hackernoon.com/ios-14-privacy-features-its-time-to-rethink-advertising-and-marketing-strategies-8z9r35ii)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-ts8835ld.jpeg)
-Two of the world’s most powerful tech titans are on course for a collision. 
-
-### [179. Robust Network Layer in Swift via Clean Architecture Approach](https://hackernoon.com/stop-letting-your-ios-network-layer-become-a-junk-drawer)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rs823c6.jpeg)
-Stop shipping “junk drawer” networking code. This guide shows a production-ready Swift network layer with type-safe endpoints and SwiftUI-friendly usage.
+### [179. Unconventional Deadlock Fix Inspired by XCTest's "Expectation"](https://hackernoon.com/unconventional-deadlock-fix-inspired-by-xctests-expectation)
+![](https://cdn.hackernoon.com/images/imTOi6TzD2acj6NBGngoIn24v6x2-50c3roo.jpeg)
+An intriguing case of a deadlock solved by drawing inspiration from XCTest's "expectation" mechanism. The exploration from detection to resolution.
 
 ### [180. How to Get Setup With Xcode Cloud](https://hackernoon.com/how-to-get-setup-with-xcode-cloud)
 ![](https://cdn.hackernoon.com/images/jDpmEvX2s9NOjteuQqYzwKALIDn2-vm02phy.png)
 Learn how to setup Xcode Cloud for your own apps.
 
-### [181. Ditch AutoLayout, Speed Up Your App: The Old-School Trick That Works](https://hackernoon.com/ditch-autolayout-speed-up-your-app-the-old-school-trick-that-works)
+### [181. Creating Scrollable Lists using Protocol-Oriented Programming and UICollectionViewFlowLayout](https://hackernoon.com/creating-scrollable-lists-using-protocol-oriented-programming-and-uicollectionviewflowlayout)
+![](https://cdn.hackernoon.com/images/CXxWTcTnTGPBjjje4mL33qBA4p72-zqa3ax1.jpeg)
+Each developer in practice faced the need to make up a screen based on a scrolling list of elements. Or maybe not just one list, but several.
+
+### [182. What KPIs do Mobile App Developers Use to Evaluate App Performance?](https://hackernoon.com/what-kpis-do-mobile-app-developers-use-to-evaluate-app-performance)
+![](https://cdn.hackernoon.com/images/qy7Cp5s27aVyiN2mc7Pw4hsvBbD2-be036on.jpeg)
+These are some basic KPIs that Mobile App Developers use to Evaluate App Performance from marketing, development, and financial perspectives to set priorities. 
+
+### [183. iOS 14 Privacy Features: It's Time to Rethink Advertising & Marketing Strategies](https://hackernoon.com/ios-14-privacy-features-its-time-to-rethink-advertising-and-marketing-strategies-8z9r35ii)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-ts8835ld.jpeg)
+Two of the world’s most powerful tech titans are on course for a collision. 
+
+### [184. Designing Reliable App Switch Flows on iOS for Secure Transactions](https://hackernoon.com/designing-reliable-app-switch-flows-on-ios-for-secure-transactions)
+![](https://cdn.hackernoon.com/images/bGyqDcobpERFXKWs0AIhTuelhzY2-y983dj8.png)
+This article explores secure deep linking, state management, callback validation, and observability patterns required to build reliable, production-grade app.
+
+### [185. Ditch AutoLayout, Speed Up Your App: The Old-School Trick That Works](https://hackernoon.com/ditch-autolayout-speed-up-your-app-the-old-school-trick-that-works)
 ![](https://cdn.hackernoon.com/images/928A5MdLmkgtIlxpQv0Ir97p6BG3-pp03e0l.png)
 Manual frame layout. Instead of relying on AutoLayout, you calculate and set frames explicitly. Yes, it means writing more code, but the tradeoff is speed.
 
-### [182. This One Command Lets You Live-Edit UIKit Apps Like It's SwiftUI](https://hackernoon.com/this-one-command-lets-you-live-edit-uikit-apps-like-its-swiftui)
+### [186. This One Command Lets You Live-Edit UIKit Apps Like It's SwiftUI](https://hackernoon.com/this-one-command-lets-you-live-edit-uikit-apps-like-its-swiftui)
 ![](https://cdn.hackernoon.com/images/byAWhIPGSMTOokaMHrFsaoOrlfy2-1413xq2.jpeg)
  Speed up UIKit development with this LLDB trick that lets you live-edit iOS UI in real time—no need to recompile or restart your app.
 
-### [183. How to Build Smooth iOS Transitions That Don't Break User Flow ](https://hackernoon.com/how-to-build-smooth-ios-transitions-that-dont-break-user-flow)
-![](https://cdn.hackernoon.com/images/2N8QL9cfkGZ9auqvd12xar6hKjt1-n303d1o.png)
-Build iOS transitions that feel smooth: reduce latency, prevent flashing and layout jumps, use matchedGeometryEffect correctly, and debug jank with Instruments.
-
-### [184. Integrating Address-Based Location Search in an IOS App: A Step-By-Step Guide](https://hackernoon.com/integrating-address-based-location-search-in-an-ios-app-a-step-by-step-guide)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-zj93nhw.jpeg)
-In this article, we take a look at the fun process of implementing location search by address in an iOS app.
-
-### [185. How to Build an iOS Application: A Guide for QA Engineers](https://hackernoon.com/how-to-build-an-ios-application-a-guide-for-qa-engineers)
-![](https://cdn.hackernoon.com/images/constructing-a-phone-from-scratch-f88fyibby6spprq7dh4j11sj.png)
-You can download the project simply as an archive (using buttons 1 and 2 from the screenshot), but I recommend cloning it via the terminal using Git
-
-### [186. The Noonification: Will Artificial Intelligence Take Over Humans? (9/17/2024)](https://hackernoon.com/9-17-2024-noonification)
-![](https://cdn.hackernoon.com/images/noonification_398_fkkldj1q3zxbxxvl3v7nb05y.png)
-9/17/2024: Top 5 stories on the HackerNoon homepage!
-
-### [187. ColorScheme Related Color Without Assets](https://hackernoon.com/colorscheme-related-color-without-assets)
-![](https://cdn.hackernoon.com/images/p6uuRWMR2lSjBWjYW6ZzY28BriL2-4kc3nkl.jpeg)
-Dynamic SwiftUI.Color changing depending on the current ColorScheme by code without using assets or external dependencies
-
-### [188. What Swift’s Playground Won’t Tell You About Concurrency](https://hackernoon.com/what-swifts-playground-wont-tell-you-about-concurrency)
+### [187. What Swift’s Playground Won’t Tell You About Concurrency](https://hackernoon.com/what-swifts-playground-wont-tell-you-about-concurrency)
 ![](https://cdn.hackernoon.com/images/bGlkhNiHrBZNVvHG7pY87lyhsVR2-tm33lja.png)
 Discover how Swift’s task priorities and execution context impact the actual run order of your code. Real findings from Playground, XCTest, and production-like.
 
-### [189. From Native to React Native](https://hackernoon.com/from-native-to-react-native)
+### [188. Integrating Address-Based Location Search in an IOS App: A Step-By-Step Guide](https://hackernoon.com/integrating-address-based-location-search-in-an-ios-app-a-step-by-step-guide)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-zj93nhw.jpeg)
+In this article, we take a look at the fun process of implementing location search by address in an iOS app.
+
+### [189. How We Built Mobile Weather Widgets That Improved Apple’s](https://hackernoon.com/how-we-built-mobile-weather-widgets-that-improved-apples)
+![](https://cdn.hackernoon.com/images/buRFBSvxwffor8q32uDsjBeHLbt1-pp0375r.jpeg)
+We didn’t want to create “mini versions” of the app – we wanted to surface the most relevant insights in the most accessible way possible.
+
+### [190. How to Build an iOS Application: A Guide for QA Engineers](https://hackernoon.com/how-to-build-an-ios-application-a-guide-for-qa-engineers)
+![](https://cdn.hackernoon.com/images/constructing-a-phone-from-scratch-f88fyibby6spprq7dh4j11sj.png)
+You can download the project simply as an archive (using buttons 1 and 2 from the screenshot), but I recommend cloning it via the terminal using Git
+
+### [191. The Noonification: Will Artificial Intelligence Take Over Humans? (9/17/2024)](https://hackernoon.com/9-17-2024-noonification)
+![](https://cdn.hackernoon.com/images/noonification_398_fkkldj1q3zxbxxvl3v7nb05y.png)
+9/17/2024: Top 5 stories on the HackerNoon homepage!
+
+### [192. ColorScheme Related Color Without Assets](https://hackernoon.com/colorscheme-related-color-without-assets)
+![](https://cdn.hackernoon.com/images/p6uuRWMR2lSjBWjYW6ZzY28BriL2-4kc3nkl.jpeg)
+Dynamic SwiftUI.Color changing depending on the current ColorScheme by code without using assets or external dependencies
+
+### [193. From Native to React Native](https://hackernoon.com/from-native-to-react-native)
 ![](https://cdn.hackernoon.com/images/lHhQJKX9A8Rj1KCWvnM9IMPdK6R2-bd93rdi.png)
 React Native brings down the time to fast prototyping app ideas from weeks to hours, by abstracting out the underlying device on which to deploy the app.
 
-### [190. Bring Your Ideas to Life with the Best iOS App Development Tools](https://hackernoon.com/bring-your-ideas-to-life-with-the-best-ios-app-development-tools)
+### [194. Bring Your Ideas to Life with the Best iOS App Development Tools](https://hackernoon.com/bring-your-ideas-to-life-with-the-best-ios-app-development-tools)
 ![](https://cdn.hackernoon.com/images/jaaI6jvIFlf40Q2QnVoNdqj7s6f2-w5137ey.jpeg)
 iOS development is not an easy task but is in high demand these days. Want to make your iOS App Development process easy? Use these development tools for easy.
 
-### [191. Simple App Development Tips: 7 Reasons Why Your App has Failed](https://hackernoon.com/simple-app-development-tips-7-reasons-why-your-app-has-failed-y65i31zq)
+### [195. Simple App Development Tips: 7 Reasons Why Your App has Failed](https://hackernoon.com/simple-app-development-tips-7-reasons-why-your-app-has-failed-y65i31zq)
 ![](https://cdn.hackernoon.com/images/i7V6wZRvmKRs3QGdSZEkUWHmZDn2-gt3p3187.jpeg)
 Never repeat these mistakes if you want a successful app. Check out what you need to do to ensure your app is well positioned in the market.
 
-### [192. Push Notifications: 4 Tips to Increase Your Click-Through-Rate](https://hackernoon.com/push-notifications-4-tips-to-increase-your-click-through-rate-h3663wg2)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FuzfrM3tYnSVNlCGJOdirB015yKI2-bvv32jz.jpeg?alt=media&token=ec0092b1-3ce3-4914-9082-358d792aeb3d)
-In recent years, there's been a lot of talk about the decrease in push notifications efficiency. At Pushwoosh we've seen during COVID-19 the demand for this communication channel has grown significantly. Why? Push notifications are pretty cheap and allow companies to establish engagement with less resources than with any other channel. 
-
-### [193. Winning App Awards Will Help With Brand Recognition](https://hackernoon.com/winning-app-awards-will-help-with-brand-recognition-r95835i2)
+### [196. Winning App Awards Will Help With Brand Recognition](https://hackernoon.com/winning-app-awards-will-help-with-brand-recognition-r95835i2)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-1pn295k.jpeg)
 Here, we look at the apps awards offered to understand the exact type of apps that are awarded. 
 
-### [194. Should You Develop a Hybrid or a Native App? ](https://hackernoon.com/should-you-develop-a-hybrid-or-a-native-app-uw3332nw)
-![](https://cdn.hackernoon.com/images/NqFBgsMsodTucsTW6YyqzBOeFmI2-y3n2bk5.jpeg)
-With an expanding smartphone market these days, many companies are choosing different ways to include mobile apps in their workflow to expand the market reach.
+### [197. Push Notifications: 4 Tips to Increase Your Click-Through-Rate](https://hackernoon.com/push-notifications-4-tips-to-increase-your-click-through-rate-h3663wg2)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FuzfrM3tYnSVNlCGJOdirB015yKI2-bvv32jz.jpeg?alt=media&token=ec0092b1-3ce3-4914-9082-358d792aeb3d)
+In recent years, there's been a lot of talk about the decrease in push notifications efficiency. At Pushwoosh we've seen during COVID-19 the demand for this communication channel has grown significantly. Why? Push notifications are pretty cheap and allow companies to establish engagement with less resources than with any other channel. 
 
-### [195. The Noonification: BEP 341: Consecutive Block Production (7/7/2024)](https://hackernoon.com/7-7-2024-noonification)
+### [198. The Noonification: BEP 341: Consecutive Block Production (7/7/2024)](https://hackernoon.com/7-7-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_352_wrie9yw2nhdpue5ek14rg0t2.png)
 7/7/2024: Top 5 stories on the HackerNoon homepage!
 
-### [196. The Test Automation Frameworks that Define Software Development](https://hackernoon.com/the-test-automation-frameworks-that-define-software-development)
-![](https://cdn.hackernoon.com/images/X6ClIUbq0ocvy6frnfV1jZRE8xC3-si93kvo.jpeg)
-A test automation framework is a collection of rules or guidelines for generating and designing test cases. It includes a combination of practices and tools that are developed to assist the QA professionals in testing more effectively. Moreover, these set of guidelines may encompass coding standards, object repositories, test-data handling techniques, processes for securing tests results and also data on how to access external resources.
-
-### [197. Asynchronous Programming in iOS: How to Speed Up Enterprise Apps Without Breaking Developers' Brains](https://hackernoon.com/asynchronous-programming-in-ios-how-to-speed-up-enterprise-apps-without-breaking-developers-brains)
-![](https://cdn.hackernoon.com/images/EzHnp28C7hgMa5vdwi6uifQ5Qd62-yo03do9.png)
-Asynchronous programming is a way to organize work in iOS apps.
-
-### [198. A Guide to Understanding Variables in Swift](https://hackernoon.com/a-guide-to-understanding-variables-in-swift)
+### [199. A Guide to Understanding Variables in Swift](https://hackernoon.com/a-guide-to-understanding-variables-in-swift)
 ![](https://cdn.hackernoon.com/images/vFWQHkp2QBcp5uXyjGm6rLWzGU93-sv03c4t.jpeg)
 The only article you need to read to learn everything about variables in Swift.
 Covering each and every concept revolving around variables in swift.
 
-### [199. What We Learned from Working with Modules: Summary](https://hackernoon.com/what-we-learned-from-working-with-modules-summary-3h1q37yx)
-![](https://cdn.hackernoon.com/images/mSNwhNjK4jSxeqYsAKCh9nw9MDY2-8c3t3oml.jpeg)
-Read our overview of the modular architecture. What we learned from working with modules, in Android and iOS. Key takeaways inside.
+### [200. The Test Automation Frameworks that Define Software Development](https://hackernoon.com/the-test-automation-frameworks-that-define-software-development)
+![](https://cdn.hackernoon.com/images/X6ClIUbq0ocvy6frnfV1jZRE8xC3-si93kvo.jpeg)
+A test automation framework is a collection of rules or guidelines for generating and designing test cases. It includes a combination of practices and tools that are developed to assist the QA professionals in testing more effectively. Moreover, these set of guidelines may encompass coding standards, object repositories, test-data handling techniques, processes for securing tests results and also data on how to access external resources.
 
-### [200. The HackerNoon Newsletter: Grand Central Dispatch, Once and for All  (3/16/2025)](https://hackernoon.com/3-16-2025-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_796_y0146jbpqxwucobbcyclbbho.png)
-3/16/2025: Top 5 stories on the HackerNoon homepage!
+### [201. Asynchronous Programming in iOS: How to Speed Up Enterprise Apps Without Breaking Developers' Brains](https://hackernoon.com/asynchronous-programming-in-ios-how-to-speed-up-enterprise-apps-without-breaking-developers-brains)
+![](https://cdn.hackernoon.com/images/EzHnp28C7hgMa5vdwi6uifQ5Qd62-yo03do9.png)
+Asynchronous programming is a way to organize work in iOS apps.
 
-### [201. The Noonification: Limit Cloud Data Costs with MinIO on Equinix (6/30/2024)](https://hackernoon.com/6-30-2024-noonification)
-![](https://cdn.hackernoon.com/images/noonification_279_hem0a2g5e76obwgxoz0771cr.png)
-6/30/2024: Top 5 stories on the HackerNoon homepage!
+### [202. Should You Develop a Hybrid or a Native App? ](https://hackernoon.com/should-you-develop-a-hybrid-or-a-native-app-uw3332nw)
+![](https://cdn.hackernoon.com/images/NqFBgsMsodTucsTW6YyqzBOeFmI2-y3n2bk5.jpeg)
+With an expanding smartphone market these days, many companies are choosing different ways to include mobile apps in their workflow to expand the market reach.
 
-### [202. How to Build an App like Airbnb? — Deciding on Features, Timeline & Cost](https://hackernoon.com/how-to-build-an-app-like-airbnb-deciding-on-features-timeline-and-cost)
+### [203. How to Build an App like Airbnb? — Deciding on Features, Timeline & Cost](https://hackernoon.com/how-to-build-an-app-like-airbnb-deciding-on-features-timeline-and-cost)
 ![](https://cdn.hackernoon.com/images/HDoTrQxLDjSe1SjgtHTVVEibFIq1-qd037l8.png)
 Looking to build an application like Airbnb for Android & iOS platform? Get insights into how to make an app like Airbnb & how much it will cost with WebClues.
 
-### [203. Performance Bottlenecks Hiding on the Client Side and How to Approach Them](https://hackernoon.com/performance-bottlenecks-hiding-on-the-client-side-and-how-to-approach-them)
-![](https://cdn.hackernoon.com/images/0PnKXzdeU8Px7YXXEvic98yylwz1-wb937zc.jpeg)
-I think having a proper understanding of the complexity that comes with various algorithms and data structures can make you a much better software engineer...
+### [204. What We Learned from Working with Modules: Summary](https://hackernoon.com/what-we-learned-from-working-with-modules-summary-3h1q37yx)
+![](https://cdn.hackernoon.com/images/mSNwhNjK4jSxeqYsAKCh9nw9MDY2-8c3t3oml.jpeg)
+Read our overview of the modular architecture. What we learned from working with modules, in Android and iOS. Key takeaways inside.
 
-### [204. The Noonification: Does Size Matter If You an Have iPhone 15? (11/11/2023)](https://hackernoon.com/11-11-2023-noonification)
+### [205. The HackerNoon Newsletter: Grand Central Dispatch, Once and for All  (3/16/2025)](https://hackernoon.com/3-16-2025-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_796_y0146jbpqxwucobbcyclbbho.png)
+3/16/2025: Top 5 stories on the HackerNoon homepage!
+
+### [206. The Noonification: Limit Cloud Data Costs with MinIO on Equinix (6/30/2024)](https://hackernoon.com/6-30-2024-noonification)
+![](https://cdn.hackernoon.com/images/noonification_279_hem0a2g5e76obwgxoz0771cr.png)
+6/30/2024: Top 5 stories on the HackerNoon homepage!
+
+### [207. The Noonification: Does Size Matter If You an Have iPhone 15? (11/11/2023)](https://hackernoon.com/11-11-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_638_xjxkkyu7lf3l13ij65hmd785.png)
 11/11/2023: Top 5 stories on the Hackernoon homepage!
 
-### [205. The HackerNoon Newsletter: Grand Central Dispatch, Once and for All  (3/1/2025)](https://hackernoon.com/3-1-2025-newsletter)
+### [208. Performance Bottlenecks Hiding on the Client Side and How to Approach Them](https://hackernoon.com/performance-bottlenecks-hiding-on-the-client-side-and-how-to-approach-them)
+![](https://cdn.hackernoon.com/images/0PnKXzdeU8Px7YXXEvic98yylwz1-wb937zc.jpeg)
+I think having a proper understanding of the complexity that comes with various algorithms and data structures can make you a much better software engineer...
+
+### [209. The HackerNoon Newsletter: Grand Central Dispatch, Once and for All  (3/1/2025)](https://hackernoon.com/3-1-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_837_s84bju01ik0l762ratnt64jw.png)
 3/1/2025: Top 5 stories on the HackerNoon homepage!
 
-### [206. The “Magic of Tidying for Photos” App — Introduction](https://hackernoon.com/the-magic-of-tidying-for-photos-app-introduction-niz3epb)
+### [210. How Renewals and Restores Affect Transaction IDs in StoreKit 2](https://hackernoon.com/how-renewals-and-restores-affect-transaction-ids-in-storekit-2)
+![](https://cdn.hackernoon.com/images/REDexFinpGRDBj6NnTdrhmIe03z1-n583ddb.jpeg)
+StoreKit 2 transaction IDs change on renewals and restores. Learn why original transaction IDs are key to reliable in-app purchase logic.
+
+### [211. The “Magic of Tidying for Photos” App — Introduction](https://hackernoon.com/the-magic-of-tidying-for-photos-app-introduction-niz3epb)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKTZm536jOaQOVeZasg3FPybG7eb2-qk2b3uro.jpeg?alt=media&token=8c3233f3-7d47-49c1-aa59-da72a06a6056)
 This post shares about the idea of applying Kon Marie organising method to your digital photos, and I developed an IOS app  with AppleML and PhotoKits to solve the problem. I share my reflection on lean product development strategy and my journey of making the app end-to-end using a minimum, iterable tech stack and strategy. 
 
-### [207. The HackerNoon Newsletter: How to Fit an Elephant in a Spreadsheet (2/20/2025)](https://hackernoon.com/2-20-2025-newsletter)
+### [212. The HackerNoon Newsletter: How to Fit an Elephant in a Spreadsheet (2/20/2025)](https://hackernoon.com/2-20-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_75_doc16e17ivcr2vd6ey4os155.png)
 2/20/2025: Top 5 stories on the HackerNoon homepage!
 
-### [208. Optimizing Swift Code: Structure-Oriented Programming or Protocol-Oriented Programming?](https://hackernoon.com/optimizing-swift-code-structure-oriented-programming-or-protocol-oriented-programming)
+### [213. Optimizing Swift Code: Structure-Oriented Programming or Protocol-Oriented Programming?](https://hackernoon.com/optimizing-swift-code-structure-oriented-programming-or-protocol-oriented-programming)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-bl83109.jpeg)
 Discover how structure-oriented programming leverages static dispatch for superior performance without sacrificing abstraction. 
 
-### [209. The HackerNoon Newsletter: The Long Road Home: A Story of Loss, Learning, and Renaissance - PART 4 (11/27/2024)](https://hackernoon.com/11-27-2024-newsletter)
+### [214. The HackerNoon Newsletter: The Long Road Home: A Story of Loss, Learning, and Renaissance - PART 4 (11/27/2024)](https://hackernoon.com/11-27-2024-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_118_qi7vemuvc8dcvd0z9ooipti0.png)
 11/27/2024: Top 5 stories on the HackerNoon homepage!
 
-### [210. Meet Validator: Chainable Form Validation Rules for Swift Apps](https://hackernoon.com/meet-validator-chainable-form-validation-rules-for-swift-apps)
+### [215. Meet Validator: Chainable Form Validation Rules for Swift Apps](https://hackernoon.com/meet-validator-chainable-form-validation-rules-for-swift-apps)
 ![](https://cdn.hackernoon.com/images/Ceus9O6pRZR4c9unqLNaigv0uzF3-gp83rpq.png)
 Validator is a modern, lightweight Swift framework that provides elegant and type-safe input validation.
 
-### [211. Benchmarking Xcode Availability Across Hosted CICD Services](https://hackernoon.com/benchmarking-xcode-availability-across-hosted-cicd-services-nq2x32ge)
+### [216. Benchmarking Xcode Availability Across Hosted CICD Services](https://hackernoon.com/benchmarking-xcode-availability-across-hosted-cicd-services-nq2x32ge)
 ![](https://cdn.hackernoon.com/images/CdA2GWJS37fn9aPl047oAZhHYRC2-uo3z33yo.jpeg)
 Xcode versions are the drumbeat iOS teams all around the world march to. Rapid access to Xcode versions ensures that apps are submitted, and updated on time
 

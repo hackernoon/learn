@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [programming](https://hackernoon.com/tagged/programming)
+### Let's learn about [Programming](https://hackernoon.com/tagged/programming) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning." - Rich Cook, The Wizardry Compiled.
 
 ### [1. How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
@@ -304,21 +306,21 @@ Asynchronous functions are a good and bad thing in JavaScript. The good side is 
 ![](https://cdn.hackernoon.com/drafts/0x44b311i.png)
 Everyone, well, almost everyone, loves video games. So even if you are not going to be a professional game developer or just don’t know for sure, to learn a programming language through practice and creating your own video game project is an excellent idea. Furthermore, it could be a good motivation for your learning. 
 
-### [76. Docker Images: Name Vs. Tag Vs. Digest](https://hackernoon.com/docker-images-name-vs-tag-vs-digest)
-![](https://cdn.hackernoon.com/images/ODWrE2WQt0WhVkvOlFzSlkpo9fj2-ee135dq.jpeg)
-A quick guide to using name, tag, and docker for docker image pull.
-
-### [77. Solving the Dreadful Certificate Issues in Python Requests Module](https://hackernoon.com/solving-the-dreadful-certificate-issues-in-python-requests-module)
+### [76. Solving the Dreadful Certificate Issues in Python Requests Module](https://hackernoon.com/solving-the-dreadful-certificate-issues-in-python-requests-module)
 ![](https://cdn.hackernoon.com/images/fQPekEkN2vbRfIIok2xUMNvGcAp2-x193rm8.jpeg)
 Solve the dreadful certificate issues in Python requests module.
 
-### [78. Concurrent Programming in Python is not what you think it is.](https://hackernoon.com/concurrent-programming-in-python-is-not-what-you-think-it-is-b6439c3f3e6a)
-![](https://cdn.hackernoon.com/images/9y1zw12i8.jpg)
-Originally published on melvinkoh.me
+### [77. Docker Images: Name Vs. Tag Vs. Digest](https://hackernoon.com/docker-images-name-vs-tag-vs-digest)
+![](https://cdn.hackernoon.com/images/ODWrE2WQt0WhVkvOlFzSlkpo9fj2-ee135dq.jpeg)
+A quick guide to using name, tag, and docker for docker image pull.
 
-### [79. How to Resolve the "SyntaxError: Non-Default Argument Follows Default Argument" Error in Python](https://hackernoon.com/how-to-resolve-the-syntaxerror-non-default-argument-follows-default-argument-error-in-python)
+### [78. How to Resolve the "SyntaxError: Non-Default Argument Follows Default Argument" Error in Python](https://hackernoon.com/how-to-resolve-the-syntaxerror-non-default-argument-follows-default-argument-error-in-python)
 ![](https://cdn.hackernoon.com/images/HBFDpaRgFAXp9sXoW0d6LL26mvh1-6m93pqh.jpeg)
 Learn how to resolve the "SyntaxError: non-default argument follows default argument" in Python with this in-depth tutorial. Understand the difference between d
+
+### [79. Concurrent Programming in Python is not what you think it is.](https://hackernoon.com/concurrent-programming-in-python-is-not-what-you-think-it-is-b6439c3f3e6a)
+![](https://cdn.hackernoon.com/images/9y1zw12i8.jpg)
+Originally published on melvinkoh.me
 
 ### [80. Real-world Use Cases of Dynamic Programming](https://hackernoon.com/real-world-use-cases-of-dynamic-programming)
 ![](https://cdn.hackernoon.com/images/a-computer-screen-running-a-program-clivsdk14000001s6gvmk600j.png)
@@ -429,17 +431,17 @@ Flutter has been booming worldwide from the past few years. While there are many
 ![](https://cdn.hackernoon.com/images/FUmMuBwNhpPp6qgj0iLHAWTb8SH3-nag2k3k.jpeg)
 This article reviews in details various aspects to make Application Insights and Serilog combination shine and bring real value to the logs.
 
-### [107. Using Session Cookies Vs. JWT for Authentication](https://hackernoon.com/using-session-cookies-vs-jwt-for-authentication-sd2v3vci)
+### [107. Resolving the CROSSSLOT Keys Error with Redis Cluster-Mode Enabled](https://hackernoon.com/resolving-the-crossslot-keys-error-with-redis-cluster-mode-enabled)
+![](https://cdn.hackernoon.com/images/pDUI21JXq3hUt99Uzg6NBXjyGOB2-7i03cav.jpeg)
+Why "CROSSSLOT Keys in request don't hash to the same slot" error happens in a Redis Cluster, and how to solve it.
+
+### [108. Using Session Cookies Vs. JWT for Authentication](https://hackernoon.com/using-session-cookies-vs-jwt-for-authentication-sd2v3vci)
 ![](https://cdn.hackernoon.com/images/t6yk3y1h.jpg)
 HTTP is a stateless protocol and is used to transmit data. It enables the communication between the client side and the server side. It was originally established to build a connection between web browsers and web servers.
 
-### [108. How AI Bots Code: Comparing Bing, Claude+, Co-Pilot, GPT-4 and Bard](https://hackernoon.com/how-ai-bots-code-comparing-bing-claude-co-pilot-gpt-4-and-bard)
+### [109. How AI Bots Code: Comparing Bing, Claude+, Co-Pilot, GPT-4 and Bard](https://hackernoon.com/how-ai-bots-code-comparing-bing-claude-co-pilot-gpt-4-and-bard)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-u393paa.jpeg)
 In this article, we will compare four of the most advanced AI bots: GPT-4, Bing, Claude+, Bard, and GitHub Co-Pilot, by asking them to solve coding challenges.
-
-### [109. Resolving the CROSSSLOT Keys Error with Redis Cluster-Mode Enabled](https://hackernoon.com/resolving-the-crossslot-keys-error-with-redis-cluster-mode-enabled)
-![](https://cdn.hackernoon.com/images/pDUI21JXq3hUt99Uzg6NBXjyGOB2-7i03cav.jpeg)
-Why "CROSSSLOT Keys in request don't hash to the same slot" error happens in a Redis Cluster, and how to solve it.
 
 ### [110. How to Send SMS Text Messages Using Python](https://hackernoon.com/how-to-send-sms-text-messages-using-python)
 ![](https://cdn.hackernoon.com/images/fBrG3kzr9Fgwc2vTonctd5hmnHC3-ej93vqk.jpeg)
@@ -453,13 +455,13 @@ I can’t for the life of me think of an intro, so…
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4c92adn.png)
 Web 3.0 is introducing new technology fields that combine with decentralized finance (DeFi) elements to blur the lines between web2 and crypto.
 
-### [113. A Beginner's Guide to Data Structures and Algorithms](https://hackernoon.com/a-beginners-guide-to-data-structures-and-algorithms)
-![](https://cdn.hackernoon.com/images/algorithm-on-chalkboard-clcskjxi8000601s60oqzcf1z.png)
-Data structures and algorithms allows you to write better code, solve complex problems, and understand the inner workings of computer programs.
-
-### [114. 14 Open Source SQL Parsers](https://hackernoon.com/14-open-source-sql-parsers)
+### [113. 14 Open Source SQL Parsers](https://hackernoon.com/14-open-source-sql-parsers)
 ![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-k303865.jpeg)
 Parsing SQL queries provides superpowers for monitoring data health. This post describes how to get started on parsing SQL for data observability. 
+
+### [114. A Beginner's Guide to Data Structures and Algorithms](https://hackernoon.com/a-beginners-guide-to-data-structures-and-algorithms)
+![](https://cdn.hackernoon.com/images/algorithm-on-chalkboard-clcskjxi8000601s60oqzcf1z.png)
+Data structures and algorithms allows you to write better code, solve complex problems, and understand the inner workings of computer programs.
 
 ### [115. Genetic Algorithms Explained : A Python Implementation](https://hackernoon.com/genetic-algorithms-explained-a-python-implementation-sd4w374i)
 ![](https://cdn.hackernoon.com/drafts/cqi3ayi.png)
@@ -529,29 +531,29 @@ A beginner-friendly tutorial on how to build hardcore blockchain infrastructure 
 ![](https://cdn.hackernoon.com/images/YCxWeB1114PupVFVYclhZfpceCQ2-t2b3uwd.png)
 What if we told you that a developer without blockchain knowledge can create a multichain dApp in a couple of minutes? Let’s explore how it's possible!
 
-### [132. How to Manipulate Bits in C and C++](https://hackernoon.com/bit-manipulation-in-c-and-c-1cs2bux)
+### [132. Comparing Coding Platforms: LeetCode, CodeWars, CodeSignal, and HackerRank](https://hackernoon.com/comparing-coding-platforms-leetcode-codewars-codesignal-and-hackerrank)
+![](https://cdn.hackernoon.com/images/1eojnKWDB8TsJXHTKDkDlh2mBBo1-nka3sas.jpeg)
+Exploring coding platforms: My insights and experiences shared. Discover the pros and cons of informed choices. Join me on this insightful journey!
+
+### [133. How to Manipulate Bits in C and C++](https://hackernoon.com/bit-manipulation-in-c-and-c-1cs2bux)
 ![](https://images.unsplash.com/photo-1510511459019-5dda7724fd87?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 All data in computer is represented in binary i.e. in 0 or 1. Computers or machines do not understand our languages, they understand bits. Generally programmer do not care about operations at the bit level. But sometimes a programmer has to dive in a deeper level and work on bits.
 
-### [133. How to Listen for Webhooks Using Python](https://hackernoon.com/how-to-listen-for-webhooks-using-python-7g153uad)
+### [134. How to Listen for Webhooks Using Python](https://hackernoon.com/how-to-listen-for-webhooks-using-python-7g153uad)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZU0eJAp5VveahOSuhUDdoMF6uE43-8b5228g6.jpeg?alt=media&token=6cbc4ba2-6c15-4c16-a858-9de382e913fd)
 Webhooks run a large portion of the "magic" that happens between applications. They are sometimes called reverse APIs, callbacks, and even notifications. Many services, such as SendGrid, Stripe, Slack, and GitHub use events to send webhooks as part of their API. This allows your application to listen for events and perform actions when they happen.
-
-### [134. Comparing Coding Platforms: LeetCode, CodeWars, CodeSignal, and HackerRank](https://hackernoon.com/comparing-coding-platforms-leetcode-codewars-codesignal-and-hackerrank)
-![](https://cdn.hackernoon.com/images/1eojnKWDB8TsJXHTKDkDlh2mBBo1-nka3sas.jpeg)
-Exploring coding platforms: My insights and experiences shared. Discover the pros and cons of informed choices. Join me on this insightful journey!
 
 ### [135. The 24 Best CSS Free to Use Buttons (with CodePen Examples) ](https://hackernoon.com/the-24-best-css-free-to-use-buttons-with-codepen-examples)
 ![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-fo93qul.jpeg)
 If you're looking for some awesome CSS buttons, you've come to the right place.  I've curated 24 of my favorite free to use CSS buttons.
 
-### [136. Top C/C++ Machine Learning Libraries For Data Science](https://hackernoon.com/top-cc-machine-learning-libraries-for-data-science-nl183wo1)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlBswupY3cpUoiqV21ZkS63RSU902-zc7v3w7w.jpeg?alt=media&token=1df24dfa-a2e3-4ef4-86ae-70da84377557)
-Importance of C++ in Data Science and Big Data
-
-### [137. The Basics of The Firmware Development Process](https://hackernoon.com/the-basics-of-the-firmware-development-process)
+### [136. The Basics of The Firmware Development Process](https://hackernoon.com/the-basics-of-the-firmware-development-process)
 ![](https://cdn.hackernoon.com/images/LEymvvrtvURIHWScxGtFiYzJjRf2-il92nu0.jpeg)
 Firmware development is a necessary process in creating a new device and an embedded system. All the features and functionality of a device depend on its firmware. In simple words, firmware lies between software and hardware parts. So, it helps run software on a device and makes hardware perform required functions without involving users.
+
+### [137. Top C/C++ Machine Learning Libraries For Data Science](https://hackernoon.com/top-cc-machine-learning-libraries-for-data-science-nl183wo1)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlBswupY3cpUoiqV21ZkS63RSU902-zc7v3w7w.jpeg?alt=media&token=1df24dfa-a2e3-4ef4-86ae-70da84377557)
+Importance of C++ in Data Science and Big Data
 
 ### [138. A Basic Knowledge of Python Can Help You Build Your Own Machine Learning Model](https://hackernoon.com/a-basic-knowledge-of-python-can-help-you-build-your-own-machine-learning-model)
 ![](https://cdn.hackernoon.com/images/IW0DX1dUHwU9EV8vodJDlqPZYcv1-pq034c5.png)
@@ -725,25 +727,25 @@ The focus on enhancing the developer experience is evolving rapidly post COVID, 
 ![](https://cdn.hackernoon.com/images/KnAMG4MVH9V4I5ZQMPzEqIGP8Nc2-y0a3i3u.jpeg)
 How to prep for coding interviews by using patterns to figure out how to guess the most likely questions to be asked in many programming job interviews.
 
-### [181. Advanced JavaScript Tutorial: How to Reload a Page with Location.reload(true)](https://hackernoon.com/advanced-javascript-tutorial-how-to-reload-a-page-with-locationreloadtrue)
-![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-m692k92.jpeg)
-Have you ever felt like you needed to start over and press the refresh button? 
-
-### [182. An Intro to Spring WebFlux Threading Model](https://hackernoon.com/an-intro-to-spring-webflux-threading-model)
+### [181. An Intro to Spring WebFlux Threading Model](https://hackernoon.com/an-intro-to-spring-webflux-threading-model)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-9v93ql7.png)
 How WebFlux threading model works under the hood
 
-### [183. Stop using .IO Domain Names for Production Traffic](https://hackernoon.com/stop-using-io-domain-names-for-production-traffic-b6aa17eeac20)
+### [182. Advanced JavaScript Tutorial: How to Reload a Page with Location.reload(true)](https://hackernoon.com/advanced-javascript-tutorial-how-to-reload-a-page-with-locationreloadtrue)
+![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-m692k92.jpeg)
+Have you ever felt like you needed to start over and press the refresh button? 
+
+### [183. You Might Be Using eXtreme Go Horse Process and Not Even Know It](https://hackernoon.com/you-might-be-using-extreme-go-horse-process-and-not-even-know-it)
+![](https://cdn.hackernoon.com/images/bYnj8YlSMrbGYYve1iskmRSuqXg1-fpa2hvp.jpeg)
+eXtreme Go Horse (XGH) is a Brazilian meme software development process and should not be taken seriously.
+
+### [184. Stop using .IO Domain Names for Production Traffic](https://hackernoon.com/stop-using-io-domain-names-for-production-traffic-b6aa17eeac20)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-u603bw3.png)
 <em>Note: If you’re a user of </em><a href="https://getstream.io/" target="_blank"><em>Stream</em></a><em>, be sure to update your API client to the latest version for a large improvement in reliability. For those of you on a custom API client, have a look at our updated </em><a href="https://getstream.io/docs_rest/" target="_blank"><em>REST documentation</em></a><em>.</em>
 
-### [184. Why It is Important to Monitor Code Quality ](https://hackernoon.com/why-it-is-important-to-monitor-code-quality)
+### [185. Why It is Important to Monitor Code Quality ](https://hackernoon.com/why-it-is-important-to-monitor-code-quality)
 ![](https://cdn.hackernoon.com/images/EcYmLynaRBbkbJ7D5Yqnc48tbNt1-tic3n46.jpeg)
 Code is a book and what the reader gets out of this book will depend on how the code is written.
-
-### [185. You Might Be Using eXtreme Go Horse Process and Not Even Know It](https://hackernoon.com/you-might-be-using-extreme-go-horse-process-and-not-even-know-it)
-![](https://cdn.hackernoon.com/images/bYnj8YlSMrbGYYve1iskmRSuqXg1-fpa2hvp.jpeg)
-eXtreme Go Horse (XGH) is a Brazilian meme software development process and should not be taken seriously.
 
 ### [186. How To Improve Your Backend By Adding Retries to Your API Calls](https://hackernoon.com/how-to-improve-your-backend-by-adding-retries-to-your-api-calls-83r3udx)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMPW1SNFYvZT6pkCy8ULu38u2cht1-924p3ucx.png?alt=media&token=e82ebf64-eb06-4c01-bdfd-61f2aafc3d7e)
@@ -753,25 +755,25 @@ Whether you're making API calls from Node.js or in the browser, connection failu
 ![](https://cdn.hackernoon.com/images/FpKROxxtLBRmSsCCb4lxCS7LBVr2-s0037h6.jpeg)
 With single-page apps taking over the world, this is the perfect time to know how React won the battle of React vs JavaScript and why you should care.
 
-### [188. Using PrismJS as a Syntax Highlighter in React](https://hackernoon.com/using-prismjs-as-a-syntax-highlighter-in-react)
+### [188. Image Processing Algorithms: Adjusting Contrast And Image Brightness](https://hackernoon.com/image-processing-algorithms-adjusting-contrast-and-image-brightness-0y4y318a)
+![](https://cdn.hackernoon.com/images/UXheLrDaNtVh5oUiZl2tIKbYa4H2-521q3193.jpeg)
+Let's take a look at the common approaches for implementing image contrast adjustments. We'll go over histogram stretching and histogram equalization.
+
+### [189. Using PrismJS as a Syntax Highlighter in React](https://hackernoon.com/using-prismjs-as-a-syntax-highlighter-in-react)
 ![](https://cdn.hackernoon.com/images/OJljH3PJ19XhnfrEjYPYRLg9Y2s2-pu136y8.jpeg)
 PrismJS is a library written using JavaScript, which is used for syntax highlighting or code highlighting.
 
-### [189. 40 Best Websites to Learn Programming Online Right Now](https://hackernoon.com/40-best-websites-to-learn-programming-online-right-now-2475327i)
+### [190. 40 Best Websites to Learn Programming Online Right Now](https://hackernoon.com/40-best-websites-to-learn-programming-online-right-now-2475327i)
 ![](https://cdn.hackernoon.com/drafts/i36a32ex.png)
 If you’re new to coding, you’ll be pleased to hear that there are a ton of great resources on the web to help brand new programmers learn programming from scratch. In fact, some of the best programmers in the industry are autodidacts with no formal degree in computer science.
-
-### [190. The React Developer RoadMap](https://hackernoon.com/the-2020-reactjs-developer-roadmap-8q143yan)
-![](https://cdn.hackernoon.com/images/pq25y3ylr.jpg)
-An illustrated guide to becoming a Read JS Developer with links to relevant courses
 
 ### [191. How to Build a Tip Calculator in Python](https://hackernoon.com/how-to-build-a-tip-calculator-in-python)
 ![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-xjh3040.jpeg)
 Learn how to build a tip calculator with an intelligent and thoughtful way to divide payments amongst friends, no matter the number
 
-### [192. Image Processing Algorithms: Adjusting Contrast And Image Brightness](https://hackernoon.com/image-processing-algorithms-adjusting-contrast-and-image-brightness-0y4y318a)
-![](https://cdn.hackernoon.com/images/UXheLrDaNtVh5oUiZl2tIKbYa4H2-521q3193.jpeg)
-Let's take a look at the common approaches for implementing image contrast adjustments. We'll go over histogram stretching and histogram equalization.
+### [192. The React Developer RoadMap](https://hackernoon.com/the-2020-reactjs-developer-roadmap-8q143yan)
+![](https://cdn.hackernoon.com/images/pq25y3ylr.jpg)
+An illustrated guide to becoming a Read JS Developer with links to relevant courses
 
 ### [193. How I Relocated to the US and Found a Job at Roku](https://hackernoon.com/how-i-relocated-to-the-us-and-found-a-job-at-roku)
 ![](https://cdn.hackernoon.com/images/oO6rUouOWRYlzw88QM9pb0KyMIJ3-ksa30ua.jpeg)
@@ -785,21 +787,21 @@ Many people, especially beginners, think that developing a website is purely abo
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-9c93kic.jpeg)
 The Pick utility Type lets us take types based off existing ones, by selecting specific elements from them. Let's look at how it works and when to use it.
 
-### [196. If your goal is to be a software engineer, you've set the bar too low ](https://hackernoon.com/do-you-really-want-to-become-a-software-engineer-zlfi3736)
+### [196. Transforming Vim to a Complete IDE with NeoVim: From Laggy to Efficient](https://hackernoon.com/transforming-vim-to-a-complete-ide-with-neovim-from-laggy-to-efficient)
+![](https://cdn.hackernoon.com/images/pDvJYC69zQULcwlOn1zKE5Nh8sH3-vwb32gf.jpeg)
+Discover the transition from resource-heavy IDEs like Vim to efficient coding with NeoVim.
+
+### [197. If your goal is to be a software engineer, you've set the bar too low ](https://hackernoon.com/do-you-really-want-to-become-a-software-engineer-zlfi3736)
 ![](https://cdn.hackernoon.com/images/fu95r3ew3.jpg)
 When I started coding, it was partially because I thought it’d be cool to make a computer do my bidding. 
 
-### [197. The Complete Guide to Deploying NestJS Application on Render](https://hackernoon.com/the-complete-guide-to-deploying-nestjs-application-on-render)
+### [198. The Complete Guide to Deploying NestJS Application on Render](https://hackernoon.com/the-complete-guide-to-deploying-nestjs-application-on-render)
 ![](https://cdn.hackernoon.com/images/X4ThwtFJeGPTC6vD51nVmiEVYNz1-jai3tk6.jpeg)
 Learn how to seamlessly deploy your NestJS server applications using Render, a powerful alternative to Heroku. 
 
-### [198. How to Show a Modal Dialog in Angular](https://hackernoon.com/how-to-show-a-modal-dialog-in-angular)
+### [199. How to Show a Modal Dialog in Angular](https://hackernoon.com/how-to-show-a-modal-dialog-in-angular)
 ![](https://cdn.hackernoon.com/images/fUG9tQllIdORs3JAidyCdli1ZX03-pw93tvh.jpeg)
 Learn how to show modal dialogs in Angular using @developer-partners/ngx-modal-dialog library.
-
-### [199. Transforming Vim to a Complete IDE with NeoVim: From Laggy to Efficient](https://hackernoon.com/transforming-vim-to-a-complete-ide-with-neovim-from-laggy-to-efficient)
-![](https://cdn.hackernoon.com/images/pDvJYC69zQULcwlOn1zKE5Nh8sH3-vwb32gf.jpeg)
-Discover the transition from resource-heavy IDEs like Vim to efficient coding with NeoVim.
 
 ### [200. A Closer Look at the Top 3 Embedded Databases: SQLite, RocksDB, and DuckDB](https://hackernoon.com/a-closer-look-at-the-top-3-embedded-databases-sqlite-rocksdb-and-duckdb)
 ![](https://cdn.hackernoon.com/images/CgzjJHrXeJOT1kSfhQKayOAghIp1-l193uj5.jpeg)
@@ -829,21 +831,21 @@ Coding patterns like Sliding Window or Two Heaps enhance our “ability to map a
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-7p93q1g.jpeg)
 Python and JavaScript are the two hottest programming languages today. However, they cannot remain on top forever. Eventually, they must fall out of favour, as all languages do. This is likely to happen within the next decade or so.
 
-### [207. A Guide on How TypeScript Parameters Type Works](https://hackernoon.com/a-guide-on-how-typescript-parameters-type-works)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-2b93ktg.jpeg)
-The Parameters type is a utility type in TypeScript that lets us take the arguments of a function, and turn it into a new type. Let's look at how it works.
-
-### [208. Differences Between Includes and Joins in Ruby on Rails](https://hackernoon.com/differences-between-includes-and-joins-in-ruby-on-rails-1r2s35oj)
+### [207. Differences Between Includes and Joins in Ruby on Rails](https://hackernoon.com/differences-between-includes-and-joins-in-ruby-on-rails-1r2s35oj)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-xw1m2a01.jpeg)
 Many of us know about includes, joins but sometimes we confuse about their usage. As I was experimenting with code refactoring in one of my projects, there I have tried these things. So I thought I can share these findings with you guys.
 
-### [209. Top Python Resources for Beginners](https://hackernoon.com/top-python-resources-for-beginners-yi6h3yh0)
-![](https://images.unsplash.com/photo-1555952494-efd681c7e3f9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-New to Python? Or are you already a seasoned developer looking to boost and advance your Python knowledge? We have compiled a bull-pack of recommended resources for anyone looking to learn Python Programming. We have tailored these resources to be suitable for Python developers of all levels but the resources listed will be most-applicable to those still early on the learning curve or already familiar with the basics but not really advanced.
+### [208. A Guide on How TypeScript Parameters Type Works](https://hackernoon.com/a-guide-on-how-typescript-parameters-type-works)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-2b93ktg.jpeg)
+The Parameters type is a utility type in TypeScript that lets us take the arguments of a function, and turn it into a new type. Let's look at how it works.
 
-### [210. A Brief Intro to FLET: Building Flutter Apps with Python](https://hackernoon.com/a-brief-intro-to-flet-building-flutter-apps-with-python)
+### [209. A Brief Intro to FLET: Building Flutter Apps with Python](https://hackernoon.com/a-brief-intro-to-flet-building-flutter-apps-with-python)
 ![](https://cdn.hackernoon.com/images/hRDOVk3kuFUKcdoCm3DRio5srhh1-7o93sia.jpeg)
 FLET enables developers to easily build real-time web, mobile, and desktop apps in Python.
+
+### [210. Top Python Resources for Beginners](https://hackernoon.com/top-python-resources-for-beginners-yi6h3yh0)
+![](https://images.unsplash.com/photo-1555952494-efd681c7e3f9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+New to Python? Or are you already a seasoned developer looking to boost and advance your Python knowledge? We have compiled a bull-pack of recommended resources for anyone looking to learn Python Programming. We have tailored these resources to be suitable for Python developers of all levels but the resources listed will be most-applicable to those still early on the learning curve or already familiar with the basics but not really advanced.
 
 ### [211. Deploying a Kubernetes Cluster on CentOS](https://hackernoon.com/how-to-deploy-kubernetes-cluster-on-centos)
 ![](https://cdn.hackernoon.com/images/vQVev4NFjpTAx2LBcNbvgMET3t13-eu93oea.jpeg)
@@ -867,35 +869,35 @@ Below is a small gif of what we will be building. A simple search box that allow
 ![](https://cdn.hackernoon.com/images/JypOKD4Hf5McguMqED3zmTXpMiH2-hj92p0b.jpeg)
 Learn how to effectively communicate with machines with this 101 post series on Prompt Engineering.
 
-### [216. Understanding JavaScript Prototypes and Its Methods](https://hackernoon.com/understanding-javascript-prototypes-and-its-methods)
-![](https://cdn.hackernoon.com/images/EcYmLynaRBbkbJ7D5Yqnc48tbNt1-bmh3p7o.jpeg)
-Get deeper understanding what is prototype, Object.setPrototypeOf and obj.__proto__ and ways of use it in JavaScript.
-
-### [217. 9 Functional Programming Concepts Everyone Should Know](https://hackernoon.com/9-functional-programming-concepts-everyone-should-know-uy503u21)
+### [216. 9 Functional Programming Concepts Everyone Should Know](https://hackernoon.com/9-functional-programming-concepts-everyone-should-know-uy503u21)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpPX468t5lxWcWjWC6mnoc1uB98G2-q2v2rtr.jpeg?alt=media&token=68bd0cc0-89c0-41c0-aeaf-91abaf573505)
 This article will introduce functional programming concepts that every programmer should know. Let's begin by defining what functional programming is (FP from now on). FP is a programming paradigm where software is written by applying and composing functions. A paradigm is a "Philosophical or theoretical framework of any kind." In other words, FP is a way for us to think of problems as a matter of interconnecting functions.
 
-### [218. Why Coding for Kids is Key to American Business Success](https://hackernoon.com/why-coding-for-kids-is-key-to-american-business-success)
-![](https://cdn.hackernoon.com/images/QCzUXmup1gWrS723VFnOS8C4jQ03-sca3txq.jpeg)
-Teaching kids to code is vital for American business success. It prepares the workforce, bridges skill gaps, and fosters innovation. 
+### [217. Understanding JavaScript Prototypes and Its Methods](https://hackernoon.com/understanding-javascript-prototypes-and-its-methods)
+![](https://cdn.hackernoon.com/images/EcYmLynaRBbkbJ7D5Yqnc48tbNt1-bmh3p7o.jpeg)
+Get deeper understanding what is prototype, Object.setPrototypeOf and obj.__proto__ and ways of use it in JavaScript.
 
-### [219. The 10 Best JavaScript Frameworks to Use in 2023](https://hackernoon.com/the-10-best-javascript-frameworks-to-use-in-2023)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-xr93nmn.jpeg)
-In this blog post, we will explore the top 10 JavaScript frameworks to consider using in 2023, along with their pros and cons.
-
-### [220. Understanding the Sliding Window Pattern: Efficient Utilization Through Examples](https://hackernoon.com/how-to-find-the-longest-substring-without-repeating-characters)
-![](https://cdn.hackernoon.com/images/rOSkQXtq7FclP5kp7uY7HWXRaLv1-k8d32iv.jpeg)
-The article explores the Sliding Window pattern's efficient application through illustrative examples.
-
-### [221. Step-by-Step Guide to Profiles with Spring Boot](https://hackernoon.com/step-by-step-guide-to-profiles-with-spring-boot-ty2n31e3)
-![](https://cdn.hackernoon.com/images/ckFfI22aX2fSYERbWZdYNeY6a0M2-nu2k31vz.jpeg)
-Spring profiles are very useful concept in framework but there are some cothas to catch for mastering it.  Article about how to survive in multi profile set-up.
-
-### [222. PineScript for Beginners: Writing Your First TradingView Indicator](https://hackernoon.com/pinescript-for-beginners-writing-your-first-tradingview-indicator)
+### [218. PineScript for Beginners: Writing Your First TradingView Indicator](https://hackernoon.com/pinescript-for-beginners-writing-your-first-tradingview-indicator)
 ![](https://cdn.hackernoon.com/images/illustrate-arbitrary-financial-charts-kt0lmtmu3t45fmlrs1pdtc44.png)
 Learn to write Pinescript v5 and create your first TradingView indicator. Enhance your trading strategies and gain a competitive edge in the market!
 
 
+
+### [219. Why Coding for Kids is Key to American Business Success](https://hackernoon.com/why-coding-for-kids-is-key-to-american-business-success)
+![](https://cdn.hackernoon.com/images/QCzUXmup1gWrS723VFnOS8C4jQ03-sca3txq.jpeg)
+Teaching kids to code is vital for American business success. It prepares the workforce, bridges skill gaps, and fosters innovation. 
+
+### [220. The 10 Best JavaScript Frameworks to Use in 2023](https://hackernoon.com/the-10-best-javascript-frameworks-to-use-in-2023)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-xr93nmn.jpeg)
+In this blog post, we will explore the top 10 JavaScript frameworks to consider using in 2023, along with their pros and cons.
+
+### [221. Understanding the Sliding Window Pattern: Efficient Utilization Through Examples](https://hackernoon.com/how-to-find-the-longest-substring-without-repeating-characters)
+![](https://cdn.hackernoon.com/images/rOSkQXtq7FclP5kp7uY7HWXRaLv1-k8d32iv.jpeg)
+The article explores the Sliding Window pattern's efficient application through illustrative examples.
+
+### [222. Step-by-Step Guide to Profiles with Spring Boot](https://hackernoon.com/step-by-step-guide-to-profiles-with-spring-boot-ty2n31e3)
+![](https://cdn.hackernoon.com/images/ckFfI22aX2fSYERbWZdYNeY6a0M2-nu2k31vz.jpeg)
+Spring profiles are very useful concept in framework but there are some cothas to catch for mastering it.  Article about how to survive in multi profile set-up.
 
 ### [223. Vector Databases - Basics of Vector Search and Langchain Package in Python](https://hackernoon.com/vector-databases-basics-of-vector-search-and-langchain-package-in-python)
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-cd034af.jpeg)
@@ -909,13 +911,13 @@ Check out this post to see how you can use Python from inside a C# .NET Core app
 ![](drafts/1d1g64567.png)
 A professional-looking site is all about the details: the colors, the graphics, the subtle elements, and the overall look and feel. In this project, I’ll show you how to make beautiful, elegant, and professional-looking links that can help your website stand out. 
 
-### [226. Today I Learned: Pass By Reference on Interface Parameter in Golang](https://hackernoon.com/today-i-learned-pass-by-reference-on-interface-parameter-in-golang-35ee8d8a848e)
-![](https://cdn.hackernoon.com/hn-images/1*a6yBB5K1_k_aetILAqT8iw.png)
-Pass Parameters by Reference in GolangA simple diary about a simple thing that I learned about Pass By Reference in Golangpass by reference on interface parameter in Golang
-
-### [227. Building a Simple Web App with Rust and WebAssembly: A Step-by-Step Guide](https://hackernoon.com/building-a-simple-web-app-with-rust-and-webassembly-a-step-by-step-guide)
+### [226. Building a Simple Web App with Rust and WebAssembly: A Step-by-Step Guide](https://hackernoon.com/building-a-simple-web-app-with-rust-and-webassembly-a-step-by-step-guide)
 ![](https://cdn.hackernoon.com/images/xJY7Mil1Iaawpy4gQe2JjaeojZY2-u0a36xm.jpeg)
 Learn to build a high-performance web application using Rust and WebAssembly.
+
+### [227. Today I Learned: Pass By Reference on Interface Parameter in Golang](https://hackernoon.com/today-i-learned-pass-by-reference-on-interface-parameter-in-golang-35ee8d8a848e)
+![](https://cdn.hackernoon.com/hn-images/1*a6yBB5K1_k_aetILAqT8iw.png)
+Pass Parameters by Reference in GolangA simple diary about a simple thing that I learned about Pass By Reference in Golangpass by reference on interface parameter in Golang
 
 ### [228. How to Use Swift for Web Development](https://hackernoon.com/how-to-use-swift-for-web-development)
 ![](https://cdn.hackernoon.com/images/cnk75wzdkHOamvwE3F8u3w3Q3Ni1-q9d35yp.jpeg)
@@ -975,13 +977,13 @@ Notion, the hottest productivity app of the moment, has been promising an API fo
 ![](https://cdn.hackernoon.com/images/7a9s136pk.jpg)
 I really like C#'s extension method feature. I was trying to experiment it on Typescript with decorators.
 
-### [240. How To Configure Redis + Redis Commander + Docker](https://hackernoon.com/how-to-configurate-redis-redis-commander-docker-616136f2)
-![](https://cdn.hackernoon.com/drafts/9kj33xo0.png)
-I will get redis and redis commander up and running using docker.
-
-### [241. Functional Programming With JavaScript: A Deep Dive](https://hackernoon.com/functional-programming-with-javascript-a-deep-dive)
+### [240. Functional Programming With JavaScript: A Deep Dive](https://hackernoon.com/functional-programming-with-javascript-a-deep-dive)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6693q5x.png)
 Unlock the power of functional programming in JavaScript! Learn key concepts, practical examples, and unleash its potential in your projects.
+
+### [241. How To Configure Redis + Redis Commander + Docker](https://hackernoon.com/how-to-configurate-redis-redis-commander-docker-616136f2)
+![](https://cdn.hackernoon.com/drafts/9kj33xo0.png)
+I will get redis and redis commander up and running using docker.
 
 ### [242. How to Clear the 301/302 Redirection Cache](https://hackernoon.com/how-to-clear-the-301302-redirection-cache-oze33y9v)
 ![](https://cdn.hackernoon.com/images/s98e329t.jpg)
@@ -1016,29 +1018,29 @@ How to Control the "Any" Type to Achieve Ultimate Type Safety With TypeScript.
 ![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-7z93o6s.jpeg)
 WhatsApp is one of the most used platforms for messaging. Information is sent immediately, which is why more websites use it for communicating with their users.
 
-### [250. Creating Command-line Based Chat Room using Python](https://hackernoon.com/creating-command-line-based-chat-room-using-python-oxu3u33)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-1h1c28xs.jpeg?alt=media&token=0ae7c0e3-1841-4776-ac87-2395a7de32c4)
-Simple Chat Room using Python
-
-### [251. My Favorite Resources to Learn SQL in Depth](https://hackernoon.com/my-favorite-resources-to-learn-sql-in-depth)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-u392fhh.jpeg)
-Practicing SQL online on sites like SQLZoo or SQLFiddle will help you keep up-to-date and improve your SQL skills.
-
-### [252. System Design in a Nutshell](https://hackernoon.com/system-design-in-a-nutshell)
+### [250. System Design in a Nutshell](https://hackernoon.com/system-design-in-a-nutshell)
 ![](https://cdn.hackernoon.com/images/pdZGzx9JN3hRlLVRJrvg1rCx5Au1-xp038r5.png)
 Know system design fundamentals: UX components, databases, scaling strategies, security & compliance. Essential guide for developers & system design interviews.
 
-### [253. The Array Methods Coming to JavaScript in 2022](https://hackernoon.com/the-array-methods-coming-to-javascript-in-2022)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-si93yhq.jpeg)
-Javascript is introducing a few new array methods which let us simultaneously copy an array, rather than changing the original. Let's look at how they work.
+### [251. DTO in Python: Ways of implementation](https://hackernoon.com/dto-in-python-an-explanation)
+![](https://cdn.hackernoon.com/images/cSVX7SdKsnY4bRV3KgKzzDctKvD2-qg9374l.jpeg)
+The primary goal of a DTO is to simplify communication between different layers of an application, particularly when transmitting data... 
+
+### [252. Creating Command-line Based Chat Room using Python](https://hackernoon.com/creating-command-line-based-chat-room-using-python-oxu3u33)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-1h1c28xs.jpeg?alt=media&token=0ae7c0e3-1841-4776-ac87-2395a7de32c4)
+Simple Chat Room using Python
+
+### [253. My Favorite Resources to Learn SQL in Depth](https://hackernoon.com/my-favorite-resources-to-learn-sql-in-depth)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-u392fhh.jpeg)
+Practicing SQL online on sites like SQLZoo or SQLFiddle will help you keep up-to-date and improve your SQL skills.
 
 ### [254. How to Use AES-256 Cipher: Python Cryptography Examples](https://hackernoon.com/how-to-use-aes-256-cipher-python-cryptography-examples-6tbh37cr)
 ![](https://cdn.hackernoon.com/drafts/ji2fl3ymk.png)
 Need to encrypt some text with a password or private key in Python? You certainly came to the right place. AES-256 is a solid symmetric cipher that is commonly used to encrypt data for oneself. In other words, the same person who is encrypting the data is typically decrypting it as well (think password manager).
 
-### [255. DTO in Python: Ways of implementation](https://hackernoon.com/dto-in-python-an-explanation)
-![](https://cdn.hackernoon.com/images/cSVX7SdKsnY4bRV3KgKzzDctKvD2-qg9374l.jpeg)
-The primary goal of a DTO is to simplify communication between different layers of an application, particularly when transmitting data... 
+### [255. The Array Methods Coming to JavaScript in 2022](https://hackernoon.com/the-array-methods-coming-to-javascript-in-2022)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-si93yhq.jpeg)
+Javascript is introducing a few new array methods which let us simultaneously copy an array, rather than changing the original. Let's look at how they work.
 
 ### [256. Can AI Really Code? I Put DeepSeek to the Test](https://hackernoon.com/can-ai-really-code-i-put-deepseek-to-the-test)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-j002tpz.png)
@@ -1052,31 +1054,31 @@ How can we create a custom user and password to access MongoDB when using docker
 ![](https://cdn.hackernoon.com/images/FDUgRy4yNwdp4HN61oIOnBbaprl1-99gi34l9.jpeg)
 Express.js framework provides inbuild APIs which are very useful to build fast and scalable applications efficiently with React.js.
 
-### [259. How to hire the best developers](https://hackernoon.com/how-to-hire-the-best-developers-3ac0fa4e3f39)
+### [259. Getting Started Using Open Source FPGA Tools](https://hackernoon.com/getting-started-using-open-source-fpga-tools)
+![](https://cdn.hackernoon.com/images/VHbb9bhIc5hODEs3I76VdZrDClV2-2t93gs9.jpeg)
+In this post we look at some of the most popular open source FPGA tools and discuss the ways we can use them in the design and verification of FPGAs.
+
+### [260. How to hire the best developers](https://hackernoon.com/how-to-hire-the-best-developers-3ac0fa4e3f39)
 ![](https://cdn.hackernoon.com/drafts/h647d3qyi.png)
 Photo by Clem Onojeghuo on Unsplash
 
-### [260. Top 25 C# Programming Tips](https://hackernoon.com/top-25-c-programming-tips-xlo31wv)
+### [261. Top 25 C# Programming Tips](https://hackernoon.com/top-25-c-programming-tips-xlo31wv)
 ![](https://cdn.hackernoon.com/images/OujWaQx7FhMxIORYNRgWYZuh1kb2-cp883515.jpeg)
 Hi everyone! There is a lot of information about different C# features. About various life hacks and best practices in this language. 
 I want to tell you about equally useful, but less popular tips for working with this language.
-
-### [261. Getting Started Using Open Source FPGA Tools](https://hackernoon.com/getting-started-using-open-source-fpga-tools)
-![](https://cdn.hackernoon.com/images/VHbb9bhIc5hODEs3I76VdZrDClV2-2t93gs9.jpeg)
-In this post we look at some of the most popular open source FPGA tools and discuss the ways we can use them in the design and verification of FPGAs.
 
 ### [262. Using JavaScript to Create and Generate UUIDs](https://hackernoon.com/using-javascript-to-create-and-generate-uuids)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-2m93san.jpeg)
 Universally Unique Identifiers (UUIDs) are used everywhere in software development for everything from identifying object elements to DOM elements on a web page
 
-### [263. 12 Best Pre-Installed R Datasets Commonly Used for Statistical Analysis](https://hackernoon.com/12-best-pre-installed-r-datasets-commonly-used-for-statistical-analysis)
+### [263. My Top 3 Regex Tools](https://hackernoon.com/my-top-3-regex-tools)
+![](https://cdn.hackernoon.com/images/ltk0qLi8g2XDLgO4ANkpFgRZbe02-xnc3oil.jpeg)
+A regular expression - short regex - is a sequence of characters that defines a search pattern. 
+
+### [264. 12 Best Pre-Installed R Datasets Commonly Used for Statistical Analysis](https://hackernoon.com/12-best-pre-installed-r-datasets-commonly-used-for-statistical-analysis)
 ![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-r-programming-cler69vs4000301s6772z0sui.png)
 R programming is mostly used in statistical analysis and ML. 
 This article looks at the Best Pre-Installed R Datasets Commonly Used for Statistical Analysis.
-
-### [264. My Top 3 Regex Tools](https://hackernoon.com/my-top-3-regex-tools)
-![](https://cdn.hackernoon.com/images/ltk0qLi8g2XDLgO4ANkpFgRZbe02-xnc3oil.jpeg)
-A regular expression - short regex - is a sequence of characters that defines a search pattern. 
 
 ### [265. 7 Top Programming Languages To Learn in 2021](https://hackernoon.com/7-top-programming-languages-to-learn-before-2020s-over-yn1g3ugk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FR8aLhmiN8rUgojf5QE8E0wAqhU73-bv5z23kz.jpeg?alt=media&token=54085f51-4ef3-4235-98b3-805a52f544cf)
@@ -1118,13 +1120,13 @@ I'm gonna out on a limb here and assume that you know the basics of how a web se
 ![](https://cdn.hackernoon.com/images/7rdAduifQcWGRnhzEF317ht4Fbv2-rzc32zm.jpeg)
 Learn how to optimize the performance of react forms by replacing useState with the native feature of JavaScript.
 
-### [275. Package Your React App with Spring Boot [A How-To Guide]](https://hackernoon.com/package-your-react-app-with-spring-boot-a-how-to-guide-cdfm329w)
-![](https://cdn.hackernoon.com/images/561y3yuv.jpg)
-A little backstory on how this started. My team needed to save some on money on the infrastructure we were requesting and since most of the load for the application we wanted to build would be on the client-side rather than the service side. We decided to see if we could combine a Spring Application with a React app and serve up a single war file.
-
-### [276. The New Wave of Programming Languages: Pony, Zig, Crystal, Vlang, and Julia](https://hackernoon.com/the-new-wave-of-programming-languages-exploring-the-hidden-gems)
+### [275. The New Wave of Programming Languages: Pony, Zig, Crystal, Vlang, and Julia](https://hackernoon.com/the-new-wave-of-programming-languages-exploring-the-hidden-gems)
 ![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-8893r30.jpeg)
 What's new in programming languages? Jump on our review of a new hidden gems to superpower your dev team!
+
+### [276. Package Your React App with Spring Boot [A How-To Guide]](https://hackernoon.com/package-your-react-app-with-spring-boot-a-how-to-guide-cdfm329w)
+![](https://cdn.hackernoon.com/images/561y3yuv.jpg)
+A little backstory on how this started. My team needed to save some on money on the infrastructure we were requesting and since most of the load for the application we wanted to build would be on the client-side rather than the service side. We decided to see if we could combine a Spring Application with a React app and serve up a single war file.
 
 ### [277. How I Solve Problems as a Developer](https://hackernoon.com/how-i-solve-problems-as-a-developer-ow4832v2)
 ![](https://cdn.hackernoon.com/drafts/oa9x3ypz.png)
@@ -1198,13 +1200,13 @@ Disclaimer: This story is not sponsored by Async Profiler.
 ![](https://cdn.hackernoon.com/drafts/ket36sy.png)
 In the past few years, the programming language that has got the highest fame across the globe is Python. The stardom Python has today in the IT industry is sky-high. And why not? Python has got everything that makes it the deserving candidate for the tag of- “Most Demanded Programming language on the Planet.” So, now it’s your time to do something innovative.
 
-### [295. What is the Impact of Quantum Computing on Blockchain and Cryptocurrency?](https://hackernoon.com/what-is-the-impact-of-quantum-computing-on-blockchain-and-cryptocurrency)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8492b2h.jpeg)
-Supercomputers aren’t as powerful as you may think and may fail in modeling complex cryptographic problems, chemical reactions, natural systems, etc. 
-
-### [296. What Does .PHONY Do in a Makefile?](https://hackernoon.com/what-does-phony-do-in-a-makefile)
+### [295. What Does .PHONY Do in a Makefile?](https://hackernoon.com/what-does-phony-do-in-a-makefile)
 ![](https://cdn.hackernoon.com/images/bcFWRJ5sFoP1gqnxXoU3iohjidG2-9i92lhw.jpeg)
 We take a look at what .phony actually does.
+
+### [296. What is the Impact of Quantum Computing on Blockchain and Cryptocurrency?](https://hackernoon.com/what-is-the-impact-of-quantum-computing-on-blockchain-and-cryptocurrency)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8492b2h.jpeg)
+Supercomputers aren’t as powerful as you may think and may fail in modeling complex cryptographic problems, chemical reactions, natural systems, etc. 
 
 ### [297. You Should Publish Your Next.js App to GitHub Pages](https://hackernoon.com/you-should-publish-your-nextjs-app-to-github-pages)
 ![](https://cdn.hackernoon.com/images/JnwMdaVZrzSOfLb9FHlT2x1vsd62-k3834rr.png)
@@ -1218,58 +1220,58 @@ How to evaluate and improve your current Git workflow, and reduce overhead in de
 ![](https://cdn.hackernoon.com/images/FpKROxxtLBRmSsCCb4lxCS7LBVr2-uh93srj.jpeg)
 Being a modern React developer is not only about understanding the core concepts of React but also about getting well-versed with the whole ecosystem of React.
 
-### [300. Are Implicit Operators a Path to Clean Code or a Buggy Nightmare?](https://hackernoon.com/are-implicit-operators-a-path-to-clean-code-or-a-buggy-nightmare)
+### [300. 8 Places to Learn System Design and Software Architecture for Technical Interviews](https://hackernoon.com/8-places-to-learn-system-design-and-software-architecture-for-technical-interviews)
+![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-9793r43.jpeg)
+Hello folks, if you are preparing for System design Interview and looking for best resources to master Software design and System design then you have come to the right place. 
+
+### [301. Are Implicit Operators a Path to Clean Code or a Buggy Nightmare?](https://hackernoon.com/are-implicit-operators-a-path-to-clean-code-or-a-buggy-nightmare)
 ![](https://cdn.hackernoon.com/images/display-clean-code-on-a-computer-screen-l0iifu1urkwiao27ql0y2u5r.png)
 Implicit operators are a C# feature that can make our code more readable and expressive. But beware! Misuse can backfire and cause a great deal of headaches!
 
-### [301. Kubernetes vs. OpenShift: A Thorough Comparison](https://hackernoon.com/kubernetes-vs-openshift-a-detailed-comparison-7r3z53zlv)
-![](https://cdn.hackernoon.com/images/wo5u34g3.jpg)
-Gartner predicts that by 2022, more than 75% of global organizations will be running containerized applications in production, which is a significant increase from fewer than 30% today
-
-### [302. 8 Places to Learn System Design and Software Architecture for Technical Interviews](https://hackernoon.com/8-places-to-learn-system-design-and-software-architecture-for-technical-interviews)
-![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-9793r43.jpeg)
-Hello folks, if you are preparing for System design Interview and looking for best resources to master Software design and System design then you have come to the right place. 
+### [302. Setting Up a Dedicated Database Server on Raspberry Pi](https://hackernoon.com/setting-up-a-dedicated-database-server-on-raspberry-pi)
+![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-jo123rel.jpeg)
+Learn how to set up a MariaDB database server on a Raspberry Pi 4 Model B with 8 GB of RAM that you can connect to your local network through WiFi or Ethernet
 
 ### [303. My Prometheus is Overwhelmed! Help!](https://hackernoon.com/my-prometheus-is-overwhelmed-help-qi1937xj)
 ![](https://cdn.hackernoon.com/images/uhJdIL6cKvOEvhfNdiy1eMmb0YB3-1rb29kk.jpeg)
 Your prometheus monitoring setup is grinding to a halt? You've thrown too much data at it? Don't worry, there's ways to fix this.
 
-### [304. Building An Airbnb-Like Map in Next.js](https://hackernoon.com/building-an-airbnb-like-map-in-nextjs)
+### [304. Kubernetes vs. OpenShift: A Thorough Comparison](https://hackernoon.com/kubernetes-vs-openshift-a-detailed-comparison-7r3z53zlv)
+![](https://cdn.hackernoon.com/images/wo5u34g3.jpg)
+Gartner predicts that by 2022, more than 75% of global organizations will be running containerized applications in production, which is a significant increase from fewer than 30% today
+
+### [305. Building An Airbnb-Like Map in Next.js](https://hackernoon.com/building-an-airbnb-like-map-in-nextjs)
 ![](https://cdn.hackernoon.com/images/XyqHIwK0xDMOGdIf5iTNW4CrLjb2-yuh3veu.png)
 We will be building a proof of concept to create customer Google Maps markers using any React component in a Next.js project using AirBnB as an example
 
-### [305. Why I Built a MongoDB-Powered Message Queue](https://hackernoon.com/why-i-built-a-mongodb-powered-message-queue)
+### [306. Why I Built a MongoDB-Powered Message Queue](https://hackernoon.com/why-i-built-a-mongodb-powered-message-queue)
 ![](https://cdn.hackernoon.com/images/XdmeuEudz5d1lCb2DD9t7EDUBDk2-2pa2kyt.jpeg)
 Reinventing the wheel: a message queue system with MongoDB
 
 
-### [306. Using the typeof Operator in TypeScript](https://hackernoon.com/using-the-typeof-operator-in-typescript)
+### [307. Using the typeof Operator in TypeScript](https://hackernoon.com/using-the-typeof-operator-in-typescript)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-cw930ye.jpeg)
 Let's look at how typeof works in TypeScript.
 
-### [307. Is Java The Best Programming language to Learn First? ](https://hackernoon.com/is-java-a-good-programming-language-to-start-with-b3bv3ziv)
-![](https://cdn.hackernoon.com/images/b216f3z7z.jpg)
-I often receive questions like which is a first programming language to learn? Is Java a good programming language to start with?,  how good Java is as a first programming language? which is the best programming language for beginners, or shall I start with Java or Python?. 
+### [308. How To Push To Git When Your File Is Too Large?](https://hackernoon.com/how-to-push-to-git-when-your-file-is-too-large-bp2e34aa)
+![](https://cdn.hackernoon.com/images/KgSprkAGy8g1EYjNkLRvAmKlzj32-8rw31lb.jpeg)
+Pushing to git when a file is too large (more than 100MB)
 
-### [308. Parsing HTML with Rust: A Simple Tutorial Using Tokio, Reqwest, and Scraper](https://hackernoon.com/parsing-html-with-rust-a-simple-tutorial-using-tokio-reqwest-and-scraper)
+### [309. Parsing HTML with Rust: A Simple Tutorial Using Tokio, Reqwest, and Scraper](https://hackernoon.com/parsing-html-with-rust-a-simple-tutorial-using-tokio-reqwest-and-scraper)
 ![](https://cdn.hackernoon.com/images/6WifzFKsrTU6u6nvz13jxc6dQ1O2-n403hcz.jpeg)
 Learn to parse websites with Rust using Tokio, Reqwest, Scraper.
 
-### [309. Creating Clean Architecture Using Golang](https://hackernoon.com/creating-clean-architecture-using-golang-9h5i3wgr)
+### [310. Is Java The Best Programming language to Learn First? ](https://hackernoon.com/is-java-a-good-programming-language-to-start-with-b3bv3ziv)
+![](https://cdn.hackernoon.com/images/b216f3z7z.jpg)
+I often receive questions like which is a first programming language to learn? Is Java a good programming language to start with?,  how good Java is as a first programming language? which is the best programming language for beginners, or shall I start with Java or Python?. 
+
+### [311. Creating Clean Architecture Using Golang](https://hackernoon.com/creating-clean-architecture-using-golang-9h5i3wgr)
 ![](https://cdn.hackernoon.com/images/in8332xn.jpg)
 Hi guys, I’m a Front-End developer. Before there was a time 2 years working CMS Magento, I like CMS Magento because system clean, and architecture database EAV (Entity — Attribute — Value) but I don’t understand why present I’m dev front-end (I don’t know) in the 2-year current. And present I chance comeback working position Back-End that I like. 
 
-### [310. Setting Up a Dedicated Database Server on Raspberry Pi](https://hackernoon.com/setting-up-a-dedicated-database-server-on-raspberry-pi)
-![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-jo123rel.jpeg)
-Learn how to set up a MariaDB database server on a Raspberry Pi 4 Model B with 8 GB of RAM that you can connect to your local network through WiFi or Ethernet
-
-### [311. Introduction to Object-Oriented Design Patterns ](https://hackernoon.com/introduction-to-object-oriented-design-patterns-397t3yz7)
+### [312. Introduction to Object-Oriented Design Patterns ](https://hackernoon.com/introduction-to-object-oriented-design-patterns-397t3yz7)
 ![](https://cdn.hackernoon.com/images/yt4x2esb.jpg)
 After hitting a certain level of experience & spending quite enough time in the industry, I have realised the importance of designing/architecting system & software. So I have started looking into system/software design & got to know nothing can better start than a Design Pattern. And the first thing I have done is googling "What is Design Pattern?" Hence got the idea of this article. 
-
-### [312. How To Push To Git When Your File Is Too Large?](https://hackernoon.com/how-to-push-to-git-when-your-file-is-too-large-bp2e34aa)
-![](https://cdn.hackernoon.com/images/KgSprkAGy8g1EYjNkLRvAmKlzj32-8rw31lb.jpeg)
-Pushing to git when a file is too large (more than 100MB)
 
 ### [313. How to Create a Responsive Table with HTMX and Django](https://hackernoon.com/how-to-create-a-responsive-table-with-htmx-and-django)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-7ma3iht.jpeg)
@@ -1323,17 +1325,17 @@ Unlock Your Web Development Potential with this Beginner's Guide to HTML, CSS, a
 ![](https://cdn.hackernoon.com/images/SnVhdDNm3fMGfftKZO7mnXldvQm2-1y93ruy.jpeg)
 How to avoid inheritance problems using composition and functional programming
 
-### [326. Top 10 Programming Languages To Learn in 2022](https://hackernoon.com/top-10-programming-languages-to-learn-in-2021-d8h3156)
+### [326. Real-World Examples of Using Design Patterns in Modern PHP](https://hackernoon.com/real-world-examples-of-using-design-patterns-in-modern-php)
+![](https://cdn.hackernoon.com/images/xJY7Mil1Iaawpy4gQe2JjaeojZY2-1d93oaj.jpeg)
+Design patterns are an essential part of software development, providing a common language and best practices for recurring problems.
+
+### [327. Top 10 Programming Languages To Learn in 2022](https://hackernoon.com/top-10-programming-languages-to-learn-in-2021-d8h3156)
 ![](https://hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-ga1831b2.jpeg)
 The craze for learning programming languages is very high. These days people have one question in their mind and that is which programming language should one prefer in 20201 and why? 
 
-### [327. Build a Python App to Alert You When Asteroids Are Close to Earth](https://hackernoon.com/build-a-pyton-app-to-alert-you-for-asteroids-close-to-earth)
+### [328. Build a Python App to Alert You When Asteroids Are Close to Earth](https://hackernoon.com/build-a-pyton-app-to-alert-you-for-asteroids-close-to-earth)
 ![](https://cdn.hackernoon.com/images/3O6oKhmVHLPgbBNX2t1sXDLzMPw2-7qc2gzv.jpeg)
 Combine two APIs to get alerted daily about the closest asteroids passing nearby. Stay safe and have fun at the same time by exploring different APIs
-
-### [328. Real-World Examples of Using Design Patterns in Modern PHP](https://hackernoon.com/real-world-examples-of-using-design-patterns-in-modern-php)
-![](https://cdn.hackernoon.com/images/xJY7Mil1Iaawpy4gQe2JjaeojZY2-1d93oaj.jpeg)
-Design patterns are an essential part of software development, providing a common language and best practices for recurring problems.
 
 ### [329. The Space Industry Needs Skilled Software Engineers, Network
 Engineers, and Coders](https://hackernoon.com/the-space-industry-needs-skilled-software-engineers-network-engineers-and-coders)
@@ -1368,37 +1370,37 @@ Get savvy with Pandas DataFrame updates & appends using dictionaries for smoothe
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-qna3o3f.jpeg)
 Your app has a whole other interface that has more impact on your users, that provides a deeper user experience than your application interface.
 
-### [337. A Guide to Web Scraping With JavaScript and Node.js](https://hackernoon.com/a-guide-to-web-scraping-with-javascript-and-nodejs-i21l3te1)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPaQgAM87SaScUgkZFHPVa9oHigB2-um5a3t9t.jpeg?alt=media&token=479ae740-4f24-4e26-8f32-578e4f3c2d88)
-With the massive increase in the volume of data on the Internet, this technique is becoming increasingly beneficial in retrieving information from websites and applying them for various use cases. Typically, web data extraction involves making a request to the given web page, accessing its HTML code, and parsing that code to harvest some information. Since JavaScript is excellent at manipulating the DOM (Document Object Model) inside a web browser, creating data extraction scripts in Node.js can be extremely versatile. Hence, this tutorial focuses on javascript web scraping.
-
-### [338. Prompt Engineering 101 -  II: Mastering Prompt Crafting with Advanced Techniques](https://hackernoon.com/prompt-engineering-101-ii-mastering-prompt-crafting-with-advanced-techniques)
+### [337. Prompt Engineering 101 -  II: Mastering Prompt Crafting with Advanced Techniques](https://hackernoon.com/prompt-engineering-101-ii-mastering-prompt-crafting-with-advanced-techniques)
 ![](https://cdn.hackernoon.com/images/JypOKD4Hf5McguMqED3zmTXpMiH2-96a2phb.jpeg)
 Learn how to effectively communicate with machines with this 101 post series on Prompt Engineering
 
-### [339. Some insights on Maps in Golang](https://hackernoon.com/some-insights-on-maps-in-golang-rm5v3ywh)
+### [338. A Guide to Web Scraping With JavaScript and Node.js](https://hackernoon.com/a-guide-to-web-scraping-with-javascript-and-nodejs-i21l3te1)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPaQgAM87SaScUgkZFHPVa9oHigB2-um5a3t9t.jpeg?alt=media&token=479ae740-4f24-4e26-8f32-578e4f3c2d88)
+With the massive increase in the volume of data on the Internet, this technique is becoming increasingly beneficial in retrieving information from websites and applying them for various use cases. Typically, web data extraction involves making a request to the given web page, accessing its HTML code, and parsing that code to harvest some information. Since JavaScript is excellent at manipulating the DOM (Document Object Model) inside a web browser, creating data extraction scripts in Node.js can be extremely versatile. Hence, this tutorial focuses on javascript web scraping.
+
+### [339. React Native vs. Native App Development: Making the Right Choice](https://hackernoon.com/react-native-vs-native-app-development-making-the-right-choice)
+![](https://cdn.hackernoon.com/images/EcXqeS9dlwaqAmJhccqLBiD5cfD3-esa3m40.png)
+Discover the key differences between React Native and Native App Development. Make an informed choice for your app development project today!
+
+### [340. Some insights on Maps in Golang](https://hackernoon.com/some-insights-on-maps-in-golang-rm5v3ywh)
 ![](https://cdn.hackernoon.com/images/sm9fj30xl.jpg)
 Article is about maps internal structure, hashes and performance. How data is actually stored inside.
 
-### [340. Contextual Multi-Armed Bandit Problems in Reinforcement Learning](https://hackernoon.com/contextual-multi-armed-bandit-problems-in-reinforcement-learning)
+### [341. Contextual Multi-Armed Bandit Problems in Reinforcement Learning](https://hackernoon.com/contextual-multi-armed-bandit-problems-in-reinforcement-learning)
 ![](https://cdn.hackernoon.com/images/mimWITmtQ4S95mwyk8L8nhBde8r1-xul37rr.jpeg)
 Explore context-based multi-armed bandit problems in RL. Learn to implement LinUCB, Decision Trees, and Neural Networks to solve them.
 
-### [341. Solving Balanced Parentheses Problem Using Regular Expressions](https://hackernoon.com/solving-balanced-parentheses-problem-using-regular-expressions-q82w3y4u)
+### [342. Solving Balanced Parentheses Problem Using Regular Expressions](https://hackernoon.com/solving-balanced-parentheses-problem-using-regular-expressions-q82w3y4u)
 ![](https://images.unsplash.com/photo-1496579538151-212636d0b01c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 
 
-### [342. Go: Handling JSON in MySQL](https://hackernoon.com/go-handling-json-in-mysql-su2h31wg)
+### [343. Go: Handling JSON in MySQL](https://hackernoon.com/go-handling-json-in-mysql-su2h31wg)
 ![](https://cdn.hackernoon.com/images/pbHhPcoSDWY470tliHRnqSk6GMX2-sy4f31uj.jpeg)
 
 
-### [343. Developing an E-Commerce Application Using Java and Spring](https://hackernoon.com/developing-an-e-commerce-application-using-java-and-spring-k82k34oe)
+### [344. Developing an E-Commerce Application Using Java and Spring](https://hackernoon.com/developing-an-e-commerce-application-using-java-and-spring-k82k34oe)
 ![](https://cdn.hackernoon.com/images/Mma4CsuASuNH6sD2ARQPXKM7m8Q2-5pn31q1.jpeg)
 We are going to build an e-commerce application using Java, Spring backend, build web UI in Vue.js, and mobile UI using android. Stay tuned!
-
-### [344. React Native vs. Native App Development: Making the Right Choice](https://hackernoon.com/react-native-vs-native-app-development-making-the-right-choice)
-![](https://cdn.hackernoon.com/images/EcXqeS9dlwaqAmJhccqLBiD5cfD3-esa3m40.png)
-Discover the key differences between React Native and Native App Development. Make an informed choice for your app development project today!
 
 ### [345. How to Create a Phone Number Tracking App in Python](https://hackernoon.com/how-to-create-a-phone-number-tracking-app-in-python-cd2w3t1s)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-bleb3u71.png?alt=media&token=c63a13e0-ead9-4172-8f57-e06a4a4a7c5c)
@@ -1412,21 +1414,21 @@ I have read somewhere that a programmer should learn a new programming language 
 ![](https://images.unsplash.com/photo-1539316814650-83bdbc5339be?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Hi guys, I want to introduce use-places-autocomplete. It's a React.js hook for Google Maps Places Autocomplete. With it you can build your own places autocomplete UI like the following demo easily! Hope you guys 👍🏻 it.
 
-### [348. A Better Guide to Build Apache Superset From source](https://hackernoon.com/a-better-guide-to-build-apache-superset-from-source-6f2ki32n0)
-![](https://cdn.hackernoon.com/drafts/uk1530w0.png)
-In this article, we’ll be deep-diving on how to build Apache Superset from the source. The official documentation is too complicated for a new contributor and thus my attempt to simplify it.
-
-### [349. The Easiest and Hardest Programming Languages to Learn](https://hackernoon.com/the-easiest-and-hardest-programming-languages-to-learn)
+### [348. The Easiest and Hardest Programming Languages to Learn](https://hackernoon.com/the-easiest-and-hardest-programming-languages-to-learn)
 ![](https://cdn.hackernoon.com/images/programmer-typing-on-his-macbook-pro-clh4nnzgo000001s6ddnigd65.png)
 Programming language learning can be an intimidating process, therefore, it is recommended to start with the easiest.
 
-### [350. 10 FREE Docker, Jenkins, and Maven Courses for Programmers and DevOps Engineers](https://hackernoon.com/java-developers-learn-maven-jenkins-and-docker-using-these-free-courses-pnuc320j)
-![](https://cdn.hackernoon.com/images/4g4ei32yn.jpg)
-Docker, Maven, and Jenkins are some of the most popular tools in the DevOps and Java world. Maven helps to organize your project and provide support to build and deploy Java projects while Jenkins can provide continuous integration and delivery by completely automating build and deploy projects.
-
-### [351. How to Manage Configurations Easily Using TOML Files](https://hackernoon.com/how-to-manage-configurations-easily-using-toml-files)
+### [349. How to Manage Configurations Easily Using TOML Files](https://hackernoon.com/how-to-manage-configurations-easily-using-toml-files)
 ![](https://cdn.hackernoon.com/images/Hrn1Y8Y3fFZG0TsoWlZhx0pSFq13-rc92p0c.jpeg)
 Central configuration files are a plus for modern Python project structures. TOML files help us store project parameters in a beginner-friendly way.
+
+### [350. A Better Guide to Build Apache Superset From source](https://hackernoon.com/a-better-guide-to-build-apache-superset-from-source-6f2ki32n0)
+![](https://cdn.hackernoon.com/drafts/uk1530w0.png)
+In this article, we’ll be deep-diving on how to build Apache Superset from the source. The official documentation is too complicated for a new contributor and thus my attempt to simplify it.
+
+### [351. 10 FREE Docker, Jenkins, and Maven Courses for Programmers and DevOps Engineers](https://hackernoon.com/java-developers-learn-maven-jenkins-and-docker-using-these-free-courses-pnuc320j)
+![](https://cdn.hackernoon.com/images/4g4ei32yn.jpg)
+Docker, Maven, and Jenkins are some of the most popular tools in the DevOps and Java world. Maven helps to organize your project and provide support to build and deploy Java projects while Jenkins can provide continuous integration and delivery by completely automating build and deploy projects.
 
 ### [352. How to Implement SMTP Client on C++](https://hackernoon.com/how-to-implement-smtp-client-on-c)
 ![](https://cdn.hackernoon.com/images/9Ein50SbART9202IGW6eoGps2IB3-dyc3psf.jpeg)
@@ -1452,29 +1454,29 @@ Join in as we solve a mysterious bug in a remittance app using detective skills 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fug5x2El2XwO1TKr5vSu192o37hu2-ybv3th9.webp?alt=media&token=ace49843-101d-4b4a-96d2-3859dacfef69)
 I still remember my first day at Outbrain. As part of the Bootcamp (training program), we were required to clone the code from a repository called the trunk (one monolithic repo that contained all our codebase). It took at least half a day to clone and build the whole source code. Over the next year or two in which my team worked with a monorepo, we just suffered — cloning the repo was time-consuming; the slow build/release time frustrated us; flaky tests and bad commits affected all the engineering; and let’s not even mention the IntelliJ indexing time, which easily afforded us time to run down for a chatty coffee break.
 
-### [358. Object-oriented Programming vs. Functional Programming: Which Is Better?](https://hackernoon.com/object-oriented-programming-vs-functional-programming-which-is-better)
-![](https://cdn.hackernoon.com/images/vJZjNRXjG5OwQ3VPCR4tScyGSEC3-5h033vv.jpeg)
-Let’s dive in to learn about object-oriented programming and functional programming. What is object-oriented programming/OOP? What's functional programming/FP? 
-
-### [359. Java Program to Check for Right Angled Triangle](https://hackernoon.com/java-program-to-check-for-right-angled-triangle)
+### [358. Java Program to Check for Right Angled Triangle](https://hackernoon.com/java-program-to-check-for-right-angled-triangle)
 ![](https://cdn.hackernoon.com/images/ysXQQ2Q709W60Kk4TrKE20Gjeam2-s7c3p88.jpeg)
 A simple program in Java to check whether a triangle is right-angled or not.
+
+### [359. Object-oriented Programming vs. Functional Programming: Which Is Better?](https://hackernoon.com/object-oriented-programming-vs-functional-programming-which-is-better)
+![](https://cdn.hackernoon.com/images/vJZjNRXjG5OwQ3VPCR4tScyGSEC3-5h033vv.jpeg)
+Let’s dive in to learn about object-oriented programming and functional programming. What is object-oriented programming/OOP? What's functional programming/FP? 
 
 ### [360. 6 Best SQL Programming Books Ranked by Reviews](https://hackernoon.com/6-best-sql-programming-books-ranked-by-reviews)
 ![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-9sm3f0o.jpeg)
 SQL Practice Problems and SQL for Dummies are some of the best SQL programming books on the market based on review score.
 
-### [361. How to Query Multiple Results with Dapper ORM Efficiently ](https://hackernoon.com/how-to-query-multiple-results-with-dapper-orm-efficiently)
+### [361. 8 Reasons Why Emacs is the Best Text Editor for Programming](https://hackernoon.com/8-reasons-why-emacs-is-the-best-text-editor-for-programming-0w4o37ld)
+![](https://cdn.hackernoon.com/images/PRlQ2QaAHYVOG8tmHUwusV8O01m1-ovbw3gee.jpeg)
+Chances are you regularly use Notepad, Visual Studio, or Sublime to write code and edit text. Here's why you should use Emacs instead.
+
+### [362. How to Query Multiple Results with Dapper ORM Efficiently ](https://hackernoon.com/how-to-query-multiple-results-with-dapper-orm-efficiently)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-th93yps.jpeg)
 Dapper is a powerful and lightweight Object-Relational Mapping (ORM) tool for C#. It is designed to be simple and fast, allowing developers to execute SQL query
 
-### [362. Future of Python Language: Bright or Dull?](https://hackernoon.com/future-of-python-language-bright-or-dull-uv41u3xwx)
+### [363. Future of Python Language: Bright or Dull?](https://hackernoon.com/future-of-python-language-bright-or-dull-uv41u3xwx)
 ![](https://cdn.hackernoon.com/images/q141s3xfs.jpg)
 In contemporary times, 126,424 websites are made using the python programming language. Many top-notch companies have developed successful apps by using it. This is why it is considered the language of today and the future.
-
-### [363. 8 Reasons Why Emacs is the Best Text Editor for Programming](https://hackernoon.com/8-reasons-why-emacs-is-the-best-text-editor-for-programming-0w4o37ld)
-![](https://cdn.hackernoon.com/images/PRlQ2QaAHYVOG8tmHUwusV8O01m1-ovbw3gee.jpeg)
-Chances are you regularly use Notepad, Visual Studio, or Sublime to write code and edit text. Here's why you should use Emacs instead.
 
 ### [364. My Journey to Become a Web Developer](https://hackernoon.com/my-journey-to-become-a-web-developer-sg3l32x6)
 ![](https://images.unsplash.com/reserve/91JuTaUSKaMh2yjB1C4A_IMG_9284.jpg?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -1492,78 +1494,78 @@ There are some great tools and extensions that might help your coding experience
 ![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-tm93tap.jpeg)
 Simulate a backend REST API for React development with json-server. Set up a fake REST API to prototype and mock frontend application.
 
-### [368. Java Algorithms: First Missing Positive (LeetCode)](https://hackernoon.com/java-algorithms-first-missing-positive-leetcode)
+### [368. Handling Job Failures in Quartz with Retries](https://hackernoon.com/handling-job-failures-in-quartz-with-retries)
+![](https://cdn.hackernoon.com/images/bu2EcgsBMkb4EPIleKDsMfYfLKF3-0093smm.gif.webp)
+In this article, we will look at how to handle job failures in Quartz. We'll use an exponential random backoff policy for calculating the time of the next retry
+
+### [369. Java Algorithms: First Missing Positive (LeetCode)](https://hackernoon.com/java-algorithms-first-missing-positive-leetcode)
 ![](https://cdn.hackernoon.com/images/rOSkQXtq7FclP5kp7uY7HWXRaLv1-r793oal.jpeg)
 The First Missing Positive problem is an algorithm problem that requires finding the smallest positive integer that is not present in a given unsorted array of 
 
-### [369. Semantic HTML Tags That Will Boost Your Markup Quality](https://hackernoon.com/semantic-html-tags-that-will-boost-your-markup-quality-v0c03328)
+### [370. Semantic HTML Tags That Will Boost Your Markup Quality](https://hackernoon.com/semantic-html-tags-that-will-boost-your-markup-quality-v0c03328)
 ![](https://cdn.hackernoon.com/images/fh212ded.jpg)
 It's been a long time since Hypertext Markup Language (HTML) showed up to become the basis of the web. Since that time, many things have changed, and some features of the HTML files went from desirable to negative. Thus, a cryptic markup or an obfuscated source code once considered useful things to avoid unauthorized copies, seems to be a nonsense in the fight for positioning in search engine results that we live in today.
 
-### [370. How To Create Truly Responsive Images With Flexbox](https://hackernoon.com/how-to-create-truly-responsive-images-with-flexbox-2z4f3yjj)
+### [371. How To Create Truly Responsive Images With Flexbox](https://hackernoon.com/how-to-create-truly-responsive-images-with-flexbox-2z4f3yjj)
 ![](https://cdn.hackernoon.com/drafts/zt5t53yjc.png)
  If you're trying to learn CSS Flexbox, I bet you've spent some time watching a few tutorials on YouTube. Maybe you've seen the Wes Bos series, that’s a great one. Maybe you're bi-lingual and found some helpful content in your native tongue. Most technical content on the internet is in English, as we know. Yet, sometimes I find some amazing content in my native Portuguese. (Like this remarkably simple to understand tutorial on Flexbox). Finally, how can you not have resorted to the Interneting Is Hard tutorials?
-
-### [371. Handling Job Failures in Quartz with Retries](https://hackernoon.com/handling-job-failures-in-quartz-with-retries)
-![](https://cdn.hackernoon.com/images/bu2EcgsBMkb4EPIleKDsMfYfLKF3-0093smm.gif.webp)
-In this article, we will look at how to handle job failures in Quartz. We'll use an exponential random backoff policy for calculating the time of the next retry
 
 ### [372. Authentication and Authorization with bcrypt In Rails](https://hackernoon.com/authentication-and-authorization-with-bcrypt-in-rails-mw1g3u3l)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-cmf3u24.jpeg?alt=media&token=76f35d1a-1272-4aac-8677-6c40f4dd18ed)
 Introduction
 
-### [373.  JavaScript Spread and Rest Operators: A Guide](https://hackernoon.com/javascript-spread-and-rest-operators-a-guide)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-hq93phx.jpeg)
-Understand Javascript Spread and rest operators
-
-### [374. How to Handle Kubernetes Secrets with ArgoCD and Sops](https://hackernoon.com/how-to-handle-kubernetes-secrets-with-argocd-and-sops-r92d3wt1)
+### [373. How to Handle Kubernetes Secrets with ArgoCD and Sops](https://hackernoon.com/how-to-handle-kubernetes-secrets-with-argocd-and-sops-r92d3wt1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQYCUqng9AEa0N4lY3S8A0lqy52g2-ul5b3w1a.jpeg?alt=media&token=0e7ead72-96a3-44da-81ff-bd4f4f3b0671)
 In this article, we will look into common ways to secure secrets in a Kubernetes application and how to manage them in a GitOps workflow based on ArgoCD with the help of Sops.
+
+### [374.  JavaScript Spread and Rest Operators: A Guide](https://hackernoon.com/javascript-spread-and-rest-operators-a-guide)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-hq93phx.jpeg)
+Understand Javascript Spread and rest operators
 
 ### [375. Publishing a Node.js CLI tool to npm in less than 15 minutes](https://hackernoon.com/publishing-a-nodejs-cli-tool-to-npm-in-less-than-15-minutes)
 ![](https://cdn.hackernoon.com/images/NcYK1Yiu8OUufTdIgnhepJiiVsJ3-4d439be.jpeg)
 Have your Node.js CLI tool up and running, accessible from everywhere in less than 15 minutes.
 
-### [376. What are the Best UI Component Libraries for Angular in 2022?](https://hackernoon.com/what-are-the-best-ui-component-libraries-for-angular-in-2022)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-1h03plm.jpeg)
-It's no secret that Angular is one of the most popular full-stack frameworks with component libraries accessible today. 
-
-### [377. 9 Step Solution to Escape Tutorial Hell Permanently](https://hackernoon.com/9-step-solution-to-escape-tutorial-hell-permanently)
+### [376. 9 Step Solution to Escape Tutorial Hell Permanently](https://hackernoon.com/9-step-solution-to-escape-tutorial-hell-permanently)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-7f93jw9.jpeg)
 Tutorial hell is real and it is very common for newbie developers to fall into it. Check out these 9 steps to escape tutorial hell permanently.
 
-### [378. No-stress CUDA programming using Go and C](https://hackernoon.com/no-stress-cuda-programming-using-go-and-c-fy1y3agf)
+### [377. How Useful are Certificates from Coursera, edX, and Udemy?](https://hackernoon.com/how-useful-are-certificates-from-coursera-edx-and-udemy)
+![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-mc93hil.jpeg)
+
+
+### [378. What are the Best UI Component Libraries for Angular in 2022?](https://hackernoon.com/what-are-the-best-ui-component-libraries-for-angular-in-2022)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-1h03plm.jpeg)
+It's no secret that Angular is one of the most popular full-stack frameworks with component libraries accessible today. 
+
+### [379. No-stress CUDA programming using Go and C](https://hackernoon.com/no-stress-cuda-programming-using-go-and-c-fy1y3agf)
 ![](https://cdn.hackernoon.com/drafts/mq2l3vhf.png)
 Programming CUDA using Go is a bit more complex than in other languages. Although there are some excellent packages, such as mumax, the documentation is poor, lacks examples and it’s difficult to use.
 
-### [379. Make a Feedback Form with PHP [A How-To Guide]](https://hackernoon.com/make-a-feedback-form-with-php-a-how-to-guide-5w6e3b5i)
+### [380. A Beginner's Guide to The Big O Notation](https://hackernoon.com/a-beginners-guide-to-the-big-o-notation-yb7332wf)
+![](https://cdn.hackernoon.com/images/qpo326o.jpg)
+So for anyone studying computer science either in college, boot camps or just self-learning, there is one topic that is always a stumbling block and that is Big O Notations.
+
+### [381. Make a Feedback Form with PHP [A How-To Guide]](https://hackernoon.com/make-a-feedback-form-with-php-a-how-to-guide-5w6e3b5i)
 ![](https://cdn.hackernoon.com/drafts/yb2j3bk5.png)
 It’s time for a web project that has real-life uses.Today I’ll show you how to make a feedback form using a website, a PHP engine, and some mailing magic. Why? 
 
-### [380. Fetching Data And Displaying It On Widget In Flutter](https://hackernoon.com/fetching-data-and-displaying-it-on-widget-in-flutter-mu223yeq)
+### [382. Fetching Data And Displaying It On Widget In Flutter](https://hackernoon.com/fetching-data-and-displaying-it-on-widget-in-flutter-mu223yeq)
 ![](https://cdn.hackernoon.com/drafts/c87929ww.png)
 Fetching data from internet is one of the most common operations that every developers should master. In Flutter, this operation is pretty straightforward. In this post we will learn how to handle data from fetching to displaying it on our mobile apps.
-
-### [381. Node.js Tutorial: How to Build a Video Streaming Application in 10 Minutes](https://hackernoon.com/nodejs-tutorial-how-to-build-a-video-streaming-application-in-10-minutes)
-![](https://cdn.hackernoon.com/images/AjW2GKacl2guqCy2y7pi5AGU8U02-gl92hzr.jpeg)
-hi folks, in this blog we will build a Node.js video streaming application in like 10 minutes.
-
-
-### [382. C++ Template: A Quick Review of C++11/14/17/20 Version](https://hackernoon.com/c-template-a-quick-review-of-c11141720-version-ipg3uqy)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgxaG8fTrVzUm0EeycUPpXSDj69I3-fb928lr.jpeg?alt=media&token=5607b709-82f6-4332-a675-3b4d5b32e3d4)
-I know, it’s been a while since the last time I published something newbies-friendly on my blog. The main reason is that most of my readers are either experienced devs or from C background having modest C++ encounter. But while programming in C++ you need a completely different mindset as both C & C++ belongs to different programming paradigm. And I always strive to show them a better way of doing things in C++. Anyway, I found the topic which is lengthy, reasonably complex(at least it was for me), newbies-friendly as well as energizing for experienced folks(if Modern C++ jargons, rules & features added) i.e. C++ Template. 
 
 ### [383. 10 Best Online Courses to Learn Oracle and PL/SQL for Beginners ](https://hackernoon.com/10-best-online-courses-to-learn-oracle-and-plsql-for-beginners)
 ![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-o493gfi.jpeg)
 
 
-### [384. A Beginner's Guide to The Big O Notation](https://hackernoon.com/a-beginners-guide-to-the-big-o-notation-yb7332wf)
-![](https://cdn.hackernoon.com/images/qpo326o.jpg)
-So for anyone studying computer science either in college, boot camps or just self-learning, there is one topic that is always a stumbling block and that is Big O Notations.
+### [384. Node.js Tutorial: How to Build a Video Streaming Application in 10 Minutes](https://hackernoon.com/nodejs-tutorial-how-to-build-a-video-streaming-application-in-10-minutes)
+![](https://cdn.hackernoon.com/images/AjW2GKacl2guqCy2y7pi5AGU8U02-gl92hzr.jpeg)
+hi folks, in this blog we will build a Node.js video streaming application in like 10 minutes.
 
-### [385. How Useful are Certificates from Coursera, edX, and Udemy?](https://hackernoon.com/how-useful-are-certificates-from-coursera-edx-and-udemy)
-![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-mc93hil.jpeg)
 
+### [385. C++ Template: A Quick Review of C++11/14/17/20 Version](https://hackernoon.com/c-template-a-quick-review-of-c11141720-version-ipg3uqy)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgxaG8fTrVzUm0EeycUPpXSDj69I3-fb928lr.jpeg?alt=media&token=5607b709-82f6-4332-a675-3b4d5b32e3d4)
+I know, it’s been a while since the last time I published something newbies-friendly on my blog. The main reason is that most of my readers are either experienced devs or from C background having modest C++ encounter. But while programming in C++ you need a completely different mindset as both C & C++ belongs to different programming paradigm. And I always strive to show them a better way of doing things in C++. Anyway, I found the topic which is lengthy, reasonably complex(at least it was for me), newbies-friendly as well as energizing for experienced folks(if Modern C++ jargons, rules & features added) i.e. C++ Template. 
 
 ### [386. Advanced Algorithms: Median in Sliding Window](https://hackernoon.com/coding-interview-prep-mastering-median-statistics-in-sliding-windows)
 ![](https://cdn.hackernoon.com/images/TdgUYLplsxcGDGOrh51DgdjaKEB2-p4834w6.jpeg)
@@ -1577,13 +1579,13 @@ The more 9s in an app’s stability score, the higher the app store ratings.
 ![](https://cdn.hackernoon.com/drafts/j3hu32ah.png)
 Life as a website owner can be a tricky one if you’re looking to get the best out of your pages online. The right Content Delivery Network has the potential to supercharge your website’s speed by providing cached static content from servers that are strategically positioned near your user’s geographic location. 
 
-### [389. Mastering Authorization and Authentication With Spring Security](https://hackernoon.com/mastering-authorization-and-authentication-with-spring-security)
-![](https://cdn.hackernoon.com/images/a16j1YV6cXc33fiuCa00z09Aqgs2-2393r5z.jpeg)
-Authentication and authorization are two important concepts in security. This post will teach you how to secure your REST API endpoints with Spring Security. 
-
-### [390. Display Desktop Notifications Using JavaScript](https://hackernoon.com/display-desktop-notifications-using-javascript)
+### [389. Display Desktop Notifications Using JavaScript](https://hackernoon.com/display-desktop-notifications-using-javascript)
 ![](https://cdn.hackernoon.com/images/U4SCXdx97IXFkbcjJsSVwy1SvkG2-ua93qcw.jpeg)
 Learn how to use the Notification Web API to display desktop notifications in JavaScript.
+
+### [390. Mastering Authorization and Authentication With Spring Security](https://hackernoon.com/mastering-authorization-and-authentication-with-spring-security)
+![](https://cdn.hackernoon.com/images/a16j1YV6cXc33fiuCa00z09Aqgs2-2393r5z.jpeg)
+Authentication and authorization are two important concepts in security. This post will teach you how to secure your REST API endpoints with Spring Security. 
 
 ### [391. 8 Things Developers Don't Like About Low-Code and No-Code](https://hackernoon.com/8-things-developers-dont-like-about-low-code-and-no-code)
 ![](https://cdn.hackernoon.com/images/6P7PmV5wEuZCuIB7haREkN3Q5UH2-7r93ky7.jpeg)
@@ -1598,110 +1600,110 @@ In software engineering, Creational Design Patterns deal with object creation me
 In this article I will show you how to use Tailwind to add some stylish design elements.
 
 
-### [394. A Definitive Guide to JavaScript Prototypes](https://hackernoon.com/a-definitive-guide-to-javascript-prototypes-2c263788021e)
-![](https://cdn.hackernoon.com/images/robot-prototypes-lined-up-in-a-row-l7fhv0bp2sq618s46q5qye7x.png)
-With bite-size code snippets and easy explanations.
+### [394. How to fix the Python TypeError: ‘int’ Object is not Iterable](https://hackernoon.com/how-to-fix-the-python-typeerror-int-object-is-not-tterable)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-vmr35ua.jpeg)
+The Python TypeError: 'int'object is not interable is a common error that can be caused by using a loop without the range() method. It can be easily fixed. 
 
-### [395. How To Understand The Difference Between Statically - Dynamically - Strongly - Weakly Typed Language](https://hackernoon.com/actually-understand-statically-dynamically-strongly-weakly-typed-languages-axbpi3za2)
-![](https://cdn.hackernoon.com/drafts/i1uvw32u2.png)
-First of all, what are all these words - Statically - Dynamically - Strongly - Weakly Typed Languages?
-This is how you can classify programming languages:
+### [395. “Python Is Slow” and Other Myths of a Dying Era](https://hackernoon.com/python-is-slow-and-other-myths-of-a-dying-era)
+![](https://cdn.hackernoon.com/images/IiNLlB7F5GQYLVoCrYgTXOEx94e2-hp92gsi.jpeg)
+This article addresses misconceptions and the realities of Python compilers and libraries that enable the writing of ultra-fast programs.
 
 ### [396. How to Create Custom Form Control for the Phone Number Input Field Using Angular](https://hackernoon.com/how-to-create-custom-form-control-for-the-phone-number-input-field-using-angular)
 ![](https://cdn.hackernoon.com/images/ePQndQZnN5VLv3YAqt7I4iFTpNG3-hod3rc7.jpeg)
 Angular developers often find it difficult to integrate a phone number input field.
 
-### [397. “Python Is Slow” and Other Myths of a Dying Era](https://hackernoon.com/python-is-slow-and-other-myths-of-a-dying-era)
-![](https://cdn.hackernoon.com/images/IiNLlB7F5GQYLVoCrYgTXOEx94e2-hp92gsi.jpeg)
-This article addresses misconceptions and the realities of Python compilers and libraries that enable the writing of ultra-fast programs.
+### [397. A Definitive Guide to JavaScript Prototypes](https://hackernoon.com/a-definitive-guide-to-javascript-prototypes-2c263788021e)
+![](https://cdn.hackernoon.com/images/robot-prototypes-lined-up-in-a-row-l7fhv0bp2sq618s46q5qye7x.png)
+With bite-size code snippets and easy explanations.
 
-### [398. Python Web Frameworks Compared: Django vs FastAPI](https://hackernoon.com/python-web-frameworks-compared-django-vs-fastapi)
+### [398. How To Understand The Difference Between Statically - Dynamically - Strongly - Weakly Typed Language](https://hackernoon.com/actually-understand-statically-dynamically-strongly-weakly-typed-languages-axbpi3za2)
+![](https://cdn.hackernoon.com/drafts/i1uvw32u2.png)
+First of all, what are all these words - Statically - Dynamically - Strongly - Weakly Typed Languages?
+This is how you can classify programming languages:
+
+### [399. Python Web Frameworks Compared: Django vs FastAPI](https://hackernoon.com/python-web-frameworks-compared-django-vs-fastapi)
 ![](https://cdn.hackernoon.com/images/NSAqeFwppXVyYopDUm42yXx22oC3-wg93lmd.jpeg)
 Django and FastAPI are, without a doubt, two of the most well-known and widely used frameworks by Python developers. Let's explore their differences. 
 
-### [399. Create a BEP-20 token on BSC With Remix: A Step-By-Step Guide](https://hackernoon.com/create-a-bep-20-token-on-bsc-with-remix-a-step-by-step-guide)
+### [400. Create a BEP-20 token on BSC With Remix: A Step-By-Step Guide](https://hackernoon.com/create-a-bep-20-token-on-bsc-with-remix-a-step-by-step-guide)
 ![](https://cdn.hackernoon.com/images/mtUYYolOaLMo1sHxQK2OPU9mMx83-0993371s.jpeg)
 How to create a BEP-20 token on BSC using Remix.
 
-### [400. How to fix the Python TypeError: ‘int’ Object is not Iterable](https://hackernoon.com/how-to-fix-the-python-typeerror-int-object-is-not-tterable)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-vmr35ua.jpeg)
-The Python TypeError: 'int'object is not interable is a common error that can be caused by using a loop without the range() method. It can be easily fixed. 
-
-### [401. Set Up Airbnb’s Linter (React + Node)](https://hackernoon.com/a-simple-linter-setup-finally-d908877fa09)
-![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-1i83e1d.jpeg)
-A linter flags anything in your code that breaks its pre-defined rules (“style guide”). Each style guide has different opinions about what constitutes “good” JavaScript code. This post uses <a href="https://github.com/airbnb/javascript" target="_blank">Airbnb</a>’s style guide; <a href="https://google.github.io/styleguide/jsguide.html" target="_blank">Google</a>’s is also popular.
-
-### [402. A Beginner's Guide Formatting Strings as Base64 in CSharp](https://hackernoon.com/a-beginners-guide-formatting-strings-as-base64-in-csharp)
+### [401. A Beginner's Guide Formatting Strings as Base64 in CSharp](https://hackernoon.com/a-beginners-guide-formatting-strings-as-base64-in-csharp)
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-hy833wi.jpeg)
 Understanding C# string formatting with Base64 can bring many benefits to your programming and software development skills.
+
+### [402. Set Up Airbnb’s Linter (React + Node)](https://hackernoon.com/a-simple-linter-setup-finally-d908877fa09)
+![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-1i83e1d.jpeg)
+A linter flags anything in your code that breaks its pre-defined rules (“style guide”). Each style guide has different opinions about what constitutes “good” JavaScript code. This post uses <a href="https://github.com/airbnb/javascript" target="_blank">Airbnb</a>’s style guide; <a href="https://google.github.io/styleguide/jsguide.html" target="_blank">Google</a>’s is also popular.
 
 ### [403. Integrating Logging Using NLog in ASP.NET Core 3.0 Web App](https://hackernoon.com/integrating-logging-using-nlog-in-aspnet-core-30-web-app-6f1v31be)
 ![](https://cdn.hackernoon.com/images/te15p3z84.jpg)
 NLog: It is an open source logging framework that provides a great flexibility and configurable options to log the insights of your application. It allows to select multiple targets like database, cloud services, files, console, etc. at the same time so that user don’t have to maintain different configurations in code. This is the most widely used logging framework out there.
 
-### [404. 16 JavaScript Protips [2020 Edition]](https://hackernoon.com/16-javascript-protips-2020-edition-n7et32dd)
-![](https://cdn.hackernoon.com/drafts/q1n3yqk.png)
-When I began learning JavaScript, I made a list of every time-saving trick that I found in other people’s code, on code challenge websites, and anywhere other than the tutorials I was using.
-
-### [405. Why Should Every Javascript Developer Avoid Using if Statements](https://hackernoon.com/why-should-every-javascript-developer-avoid-using-if-statements)
-![](https://cdn.hackernoon.com/images/kOX2DcIEvpa0iV4IDCQA7a4iq473-bu93pk5.jpeg)
-Stop using if statements unless absolutely necessary. Using if statement is a clunky way of writing code and should be avoided wherever possible.
-
-### [406. Top 9 Tips to Improve React Performance](https://hackernoon.com/top-9-tips-to-improve-react-performance)
-![](https://cdn.hackernoon.com/images/OujWaQx7FhMxIORYNRgWYZuh1kb2-9yad35nr.jpeg)
-These 9 tips will help you improve the performance of your React code so that you can make the most out of your software and maximize what you are capable of. 
-
-### [407. How to Create Your Own Dark Website (.onion) on Linux](https://hackernoon.com/how-to-create-your-own-dark-website-onion-on-linux)
+### [404. How to Create Your Own Dark Website (.onion) on Linux](https://hackernoon.com/how-to-create-your-own-dark-website-onion-on-linux)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-9a93vbv.jpeg)
 As we know dark websites use .onion for their domain extension. 
 
-### [408. CromaApp: My First React Native App After 7 Years of Backend Development](https://hackernoon.com/cromaapp-my-first-react-native-app-after-7-years-of-backend-development-f5393y77)
-![](https://cdn.hackernoon.com/images/5a2i3yyk.jpg)
-Well, I had done some javascript development(node.js) in the past but javascript has changed a lot after ES-6. TIll now my main focus has been backend development in java and ruby(RoR mainly). I am going to share my experience on writing my first react native app.
+### [405. 16 JavaScript Protips [2020 Edition]](https://hackernoon.com/16-javascript-protips-2020-edition-n7et32dd)
+![](https://cdn.hackernoon.com/drafts/q1n3yqk.png)
+When I began learning JavaScript, I made a list of every time-saving trick that I found in other people’s code, on code challenge websites, and anywhere other than the tutorials I was using.
+
+### [406. Why Should Every Javascript Developer Avoid Using if Statements](https://hackernoon.com/why-should-every-javascript-developer-avoid-using-if-statements)
+![](https://cdn.hackernoon.com/images/kOX2DcIEvpa0iV4IDCQA7a4iq473-bu93pk5.jpeg)
+Stop using if statements unless absolutely necessary. Using if statement is a clunky way of writing code and should be avoided wherever possible.
+
+### [407. 6 Best NotebookLM Alternatives in 2025: AI-Powered Research & Note-Taking Tools Compared](https://hackernoon.com/6-best-notebooklm-alternatives-in-2025-ai-powered-research-and-note-taking-tools-compared)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-wl02y6n.jpeg)
+Discover the best NotebookLM alternatives in 2025. Compare 6 AI-powered research and note-taking tools to boost productivity, learning, and workflow.
+
+### [408. Top 9 Tips to Improve React Performance](https://hackernoon.com/top-9-tips-to-improve-react-performance)
+![](https://cdn.hackernoon.com/images/OujWaQx7FhMxIORYNRgWYZuh1kb2-9yad35nr.jpeg)
+These 9 tips will help you improve the performance of your React code so that you can make the most out of your software and maximize what you are capable of. 
 
 ### [409. Remix Framework Review](https://hackernoon.com/remix-framework-review)
 ![](https://cdn.hackernoon.com/images/HMfDlkGVkoMk0WzhOX2zil9gTLj1-ta93zk2.jpeg)
 Edge SSR, nested routes, and no client-side state differentiate Remix from Next.js, Gatsby but not best suited for realtime apps and sharing data across routes.
 
-### [410. "Ballerina" Could Become the Programming Language of Integration](https://hackernoon.com/first-glimpse-of-ballerina-language-language-of-integration-q31x31jv)
-![](https://cdn.hackernoon.com/drafts/8rpx31yk.png)
-Ballerina is the latest programming language released 1.0 version on September 10th of this year. There are more than a thousand programming languages out there. Why do you need another programming language? Ballerina language intended to simplify the particular programming domain known as integration. You may be a developer who develops different kinds of web services and intends to interconnect those services. Then the Ballerina language could be your next programming companion.
+### [410. CromaApp: My First React Native App After 7 Years of Backend Development](https://hackernoon.com/cromaapp-my-first-react-native-app-after-7-years-of-backend-development-f5393y77)
+![](https://cdn.hackernoon.com/images/5a2i3yyk.jpg)
+Well, I had done some javascript development(node.js) in the past but javascript has changed a lot after ES-6. TIll now my main focus has been backend development in java and ruby(RoR mainly). I am going to share my experience on writing my first react native app.
 
 ### [411. How Similar Are Programming Languages?](https://hackernoon.com/how-similar-are-programming-languages-9an3u9z)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJESzKual0BTRbyLEZ1aW9hx1DUp1-p773uwv.jpeg?alt=media&token=a50fcc1d-0669-475e-8c5c-38791559dbf1)
 Everyone is saying that programming languages are similar, but just how similar? Does it mean that if you know one programming language you know all the others?
 
-### [412. How to Clean Your Git History](https://hackernoon.com/how-to-clean-your-git-history-ryzb3ydv)
+### [412. "Ballerina" Could Become the Programming Language of Integration](https://hackernoon.com/first-glimpse-of-ballerina-language-language-of-integration-q31x31jv)
+![](https://cdn.hackernoon.com/drafts/8rpx31yk.png)
+Ballerina is the latest programming language released 1.0 version on September 10th of this year. There are more than a thousand programming languages out there. Why do you need another programming language? Ballerina language intended to simplify the particular programming domain known as integration. You may be a developer who develops different kinds of web services and intends to interconnect those services. Then the Ballerina language could be your next programming companion.
+
+### [413. How to Clean Your Git History](https://hackernoon.com/how-to-clean-your-git-history-ryzb3ydv)
 ![](https://cdn.hackernoon.com/images/1x713yhm.jpg)
 An informal talk about some very useful git commands.
 
-### [413. You Don't Need An Expensive Laptop For Coding](https://hackernoon.com/you-dont-need-an-expensive-laptop-for-coding-dtd31uw)
+### [414. You Don't Need An Expensive Laptop For Coding](https://hackernoon.com/you-dont-need-an-expensive-laptop-for-coding-dtd31uw)
 ![](https://cdn.hackernoon.com/images/JESzKual0BTRbyLEZ1aW9hx1DUp1-o81md33z1.jpeg)
 You don't need an expensive laptop to start learning to code. Here is how much money you'll need to spend on a computer for it to work properly.
 
-### [414. How to Compile C/C++ Code in VS Code (Windows)](https://hackernoon.com/how-to-compile-cc-code-in-vs-code-windows-gy4l35g1)
+### [415. How to Compile C/C++ Code in VS Code (Windows)](https://hackernoon.com/how-to-compile-cc-code-in-vs-code-windows-gy4l35g1)
 ![](https://hackernoon.com/images/KECnMDPcEadsrWEAtYTrZtboGmW2-qm1w33vd.jpeg)
 How to Compile C/C++ Code in VS Code (Windows): To compile C/C++ code we need GCC/G++ to compile the code but Windows doesn't have a terminal.
 
-### [415. Object-Oriented Databases And Their Advantages](https://hackernoon.com/object-oriented-databases-and-their-advantages)
+### [416. Object-Oriented Databases And Their Advantages](https://hackernoon.com/object-oriented-databases-and-their-advantages)
 ![](https://cdn.hackernoon.com/images/V4OORvpWBMfsdPL4Cd7eTIK2TqW2-6ta3raf.jpeg)
 Object oriented database is a type of database system that deals with modeling and creation of data as objects. The main advantage of this database is the cons
-
-### [416. Generate Swagger Doc Files From Go Code Using Go-swagger](https://hackernoon.com/generate-swagger-doc-files-from-go-code-using-go-swagger)
-![](https://cdn.hackernoon.com/images/rD3ZPSbOTDVcZgugSUvaEY2oV0x1-sh93obp.png)
-In this article, I will try to explain basic ideas on how to generate swagger docs using go-swagger package.
 
 ### [417. How To Do Calculus with Python: Derivatives Cheat Sheet [Part 1] ](https://hackernoon.com/how-to-do-calculus-with-python-derivatives-cheat-sheet-part-1-zfv3uno)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUyDm9f8gvdV1wSIRs7rz3LsywRo1-vqh3ytm.webp?alt=media&token=8601a0e5-28c1-45ed-9590-b170329aa863)
 This article is really a precursor to cool things you can do with calculus such as the persuit curve which is used in air-to-air missiles, and rocket launch equations.
 
-### [418. Making a Custom Select Component in Vue.js [A How-To Guide]](https://hackernoon.com/how-to-make-a-custom-select-component-in-vuejs-8kt32pj)
+### [418. Generate Swagger Doc Files From Go Code Using Go-swagger](https://hackernoon.com/generate-swagger-doc-files-from-go-code-using-go-swagger)
+![](https://cdn.hackernoon.com/images/rD3ZPSbOTDVcZgugSUvaEY2oV0x1-sh93obp.png)
+In this article, I will try to explain basic ideas on how to generate swagger docs using go-swagger package.
+
+### [419. Making a Custom Select Component in Vue.js [A How-To Guide]](https://hackernoon.com/how-to-make-a-custom-select-component-in-vuejs-8kt32pj)
 ![](https://cdn.hackernoon.com/images/ch8p83yfa.jpg)
 Customizing the design of a select tag is notoriously difficult. Sometimes it's impossible without building your own from scratch using a combination of styled divs with custom JavaScript. In this article, you will learn how to build a Vue.js component that can be styled using completely custom CSS.
-
-### [419. 6 Best NotebookLM Alternatives in 2025: AI-Powered Research & Note-Taking Tools Compared](https://hackernoon.com/6-best-notebooklm-alternatives-in-2025-ai-powered-research-and-note-taking-tools-compared)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-wl02y6n.jpeg)
-Discover the best NotebookLM alternatives in 2025. Compare 6 AI-powered research and note-taking tools to boost productivity, learning, and workflow.
 
 ### [420. How to Debug a Spring WebFlux Application](https://hackernoon.com/how-to-debug-a-spring-webflux-application)
 ![](https://cdn.hackernoon.com/images/EgbcflnJ52QSu5zjHCT9Xao2qAg2-hjb3phc.jpeg)
@@ -1719,13 +1721,13 @@ Learning Go and Black Hat Go are some of the best Go programming books based on 
 ![](https://cdn.hackernoon.com/images/38HofyiaabhY9OfwvsiyXDn1ALa2-33a3k0r.jpeg)
 The two most popular platforms for server-side development in 2022 are Node.js and .NET. The hot topic among developers is .NET Core vs Node.js. 
 
-### [424. Creating Highly-Performant Animations using Web Animations API and React hooks ](https://hackernoon.com/creating-highly-performant-animations-using-web-animations-api-and-react-hooks-k92d3utf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fjgvl75J01zfc9i0NsYvVgqlVkkh2-uj6d3y8q.jpeg?alt=media&token=9371a577-9f09-4dd8-9168-a39979e892ea)
-Using Web Animations API (a.k.a WAAPI) in the React hook way. Let's create highly-performant, flexible and manipulable web animations in the modern world. Hope you guys 👍🏻 it!
-
-### [425. How to Split String Every Nth Character in Python](https://hackernoon.com/how-to-split-string-every-nth-character-in-python)
+### [424. How to Split String Every Nth Character in Python](https://hackernoon.com/how-to-split-string-every-nth-character-in-python)
 ![](https://cdn.hackernoon.com/images/vKkCiEDtULQKYfeHF6ql7Asfhky2-46832xd.jpeg)
 Learn 3 easy ways to split string every nth character in Python using list comprehensions, wrap function and regular expressions.
+
+### [425. Creating Highly-Performant Animations using Web Animations API and React hooks ](https://hackernoon.com/creating-highly-performant-animations-using-web-animations-api-and-react-hooks-k92d3utf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fjgvl75J01zfc9i0NsYvVgqlVkkh2-uj6d3y8q.jpeg?alt=media&token=9371a577-9f09-4dd8-9168-a39979e892ea)
+Using Web Animations API (a.k.a WAAPI) in the React hook way. Let's create highly-performant, flexible and manipulable web animations in the modern world. Hope you guys 👍🏻 it!
 
 ### [426. Correct and Efficient Way to Use Vuex: Part I](https://hackernoon.com/correct-and-efficient-way-to-use-vuex-part-i-wf15432eu)
 ![](https://cdn.hackernoon.com/images/lumk32ac.jpg)
@@ -1747,25 +1749,25 @@ Hello guys, if you are thinking about how to become a Blockchain Developer in 20
 ![](https://cdn.hackernoon.com/drafts/rnr22rn.png)
 Drowsiness detection is a safety technology that can prevent accidents that are caused by drivers who fell asleep while driving.
 
-### [431. How to Securely Host Node-RED in Cloud (For Free), and Safely Expose it to the Internet over HTTPS](https://hackernoon.com/how-to-securely-host-node-red-in-cloud-for-free-and-safely-expose-it-to-the-internet-over-https-hw5d3220)
-![](https://cdn.hackernoon.com/drafts/joi3yn7.png)
-Node-RED bridges the finest pieces and abridges backyard to market delivery. This article intends to teach readers to host a secure & highly available  Node-RED instance. For a couple of weeks, I worked on a project where I need to secure my Node-RED. By going through the blogs and post, everything seems very scattered on the internet and haven't found any article with end-to-end Node-RED execution as a secured frontend client accessible on the web. Thus thought to share my experience with you.
-
-### [432. Deploying a Terraform Remote State Backend with AWS S3 and DynamoDB](https://hackernoon.com/deploying-a-terraform-remote-state-backend-with-aws-s3-and-dynamodb)
-![](https://cdn.hackernoon.com/images/aS1rI6a9qeVbVptJ5ndnqUg1q0P2-iw93pc6.jpeg)
-In this article, we are going to be deep diving into remote state management in terraform. 
-
-### [433. Integrating a Contact Form with EmailJS in React](https://hackernoon.com/integrating-a-contact-form-with-emailjs-in-react)
+### [431. Integrating a Contact Form with EmailJS in React](https://hackernoon.com/integrating-a-contact-form-with-emailjs-in-react)
 ![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-frg307w.jpeg)
 In this tutorial, you’ll learn how to connect a front-end library, React, with EmailJS to receive user messages on your website or mobile applications
 
-### [434. Hadoop Across Multiple Data Centers](https://hackernoon.com/hadoop-across-multiple-data-centers)
-![](https://cdn.hackernoon.com/images/Ktvukgb0o4QLh1NPEpCdX8GfSrE3-pk936wv.png)
-Hadoop cluster across multiple data centers
+### [432. How to Securely Host Node-RED in Cloud (For Free), and Safely Expose it to the Internet over HTTPS](https://hackernoon.com/how-to-securely-host-node-red-in-cloud-for-free-and-safely-expose-it-to-the-internet-over-https-hw5d3220)
+![](https://cdn.hackernoon.com/drafts/joi3yn7.png)
+Node-RED bridges the finest pieces and abridges backyard to market delivery. This article intends to teach readers to host a secure & highly available  Node-RED instance. For a couple of weeks, I worked on a project where I need to secure my Node-RED. By going through the blogs and post, everything seems very scattered on the internet and haven't found any article with end-to-end Node-RED execution as a secured frontend client accessible on the web. Thus thought to share my experience with you.
 
-### [435. Redis Stream vs. Amazon SQS](https://hackernoon.com/redis-stream-vs-amazon-sqs-g21n3y7p)
+### [433. Deploying a Terraform Remote State Backend with AWS S3 and DynamoDB](https://hackernoon.com/deploying-a-terraform-remote-state-backend-with-aws-s3-and-dynamodb)
+![](https://cdn.hackernoon.com/images/aS1rI6a9qeVbVptJ5ndnqUg1q0P2-iw93pc6.jpeg)
+In this article, we are going to be deep diving into remote state management in terraform. 
+
+### [434. Redis Stream vs. Amazon SQS](https://hackernoon.com/redis-stream-vs-amazon-sqs-g21n3y7p)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ftp6aFTlRLkOThidGAKDVPZeNMEw1-2n653ub3.jpeg?alt=media&token=6fbf2c38-c1e2-4fc7-b4cf-99c85fe6e590)
 Do you like boxing fights? This evening I bring you a head-to-head battle between Redis Streams and AWS SQS. If you are interested which technology is better and which will end up on the ground, check it up!
+
+### [435. Hadoop Across Multiple Data Centers](https://hackernoon.com/hadoop-across-multiple-data-centers)
+![](https://cdn.hackernoon.com/images/Ktvukgb0o4QLh1NPEpCdX8GfSrE3-pk936wv.png)
+Hadoop cluster across multiple data centers
 
 ### [436. How To Use Rails Console To Test Rails Models, Associations and Validations](https://hackernoon.com/how-to-use-rails-console-to-test-rails-models-associations-and-validations-w26j3wyw)
 ![](https://images.unsplash.com/photo-1546795729-f3a5d42087f5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -1795,17 +1797,17 @@ The technology that allows us to run our Angular applications on the server is
 ![](https://cdn.hackernoon.com/images/whVRkxiEF6MsL8At1v5fkTAL1AF3-7g92dw6.jpeg)
 Choosing the best programming language to learn first can be overwhelming. We are reviewing popular languages and giving resources to learn them for FREE. 
 
-### [443. React Project Structure: Best Practices](https://hackernoon.com/react-project-structure-best-practices-kh20323x)
+### [443. Understanding isObject Method in JavaScript](https://hackernoon.com/understanding-isobject-method-in-javascript)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-90a3qez.jpeg)
+Hence, in this article, we will see how to create an isObject function and use it to check if an object is actually an object. So, let's get started!
+
+### [444. React Project Structure: Best Practices](https://hackernoon.com/react-project-structure-best-practices-kh20323x)
 ![](https://cdn.hackernoon.com/images/YuHQ8Lhn2IT1way5nhFige44Oky1-tn1w296v.jpeg)
 A more standard way of structuring React applications which scales across frameworks and projects.
 
-### [444. Modern Style of Javascript with Arrow Functions](https://hackernoon.com/modern-style-of-javascript-with-arrow-functions-lg1x3474)
+### [445. Modern Style of Javascript with Arrow Functions](https://hackernoon.com/modern-style-of-javascript-with-arrow-functions-lg1x3474)
 ![](https://images.unsplash.com/photo-1527427337751-fdca2f128ce5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The complete explanation of Arrow functions in Javascript, and how it helps developers to write flexible and consistent code.
-
-### [445. Understanding isObject Method in JavaScript](https://hackernoon.com/understanding-isobject-method-in-javascript)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-90a3qez.jpeg)
-Hence, in this article, we will see how to create an isObject function and use it to check if an object is actually an object. So, let's get started!
 
 ### [446. Top Lesser Known HTML 5 & CSS 3 Tips and Best Practices](https://hackernoon.com/top-lesser-known-html-5-and-css-3-tips-and-best-practices-km1u33l7)
 ![](https://cdn.hackernoon.com/images/OujWaQx7FhMxIORYNRgWYZuh1kb2-1t9d33ss.jpeg)
@@ -1820,97 +1822,97 @@ If you ask any software developer, there’s a decent chance that they have trie
 ![](https://cdn.hackernoon.com/drafts/te15p3z84.png)
 NLog: It is an open source logging framework that provides a great flexibility and configurable options to log the insights of your application. It allows to select multiple targets like database, cloud services, files, console, etc. at the same time so that user don’t have to maintain different configurations in code. This is the most widely used logging framework out there.
 
-### [449. Sharing Reusable Angular Components   ](https://hackernoon.com/sharing-reusable-components-in-angular-to-build-apps-faster-h48z30s4)
-![](https://cdn.hackernoon.com/images/cnb8302h.jpg)
-When building Angular applications you compose the UI of your applications through shared reusable Angular components.
-
-### [450. A Quick Tutorial on Using SQL Expressions for Validation in Oracle APEX](https://hackernoon.com/a-quick-tutorial-on-using-sql-expressions-for-validation-in-oracle-apex)
-![](https://cdn.hackernoon.com/images/HBFDpaRgFAXp9sXoW0d6LL26mvh1-x493vt2.jpeg)
-Learn how to use SQL expressions for validation in Oracle APEX with our quick tutorial. Explore step-by-step instructions and practical examples.
-
-### [451. How To Implement The Prefetch Pattern in React Concurrent Mode](https://hackernoon.com/implementing-the-prefetch-pattern-in-react-concurrent-mode-h4r3twc)
-![](https://cdn.hackernoon.com/drafts/sool3tca.png)
-Recently, React announced a feature of the React ecosystem — Concurrent Mode. This would allow us to stop or delay the execution of components for the time that we need. It’ll help React apps stay responsive and gracefully adjust to the user’s device capabilities and network speed.
-
-### [452. Building Ping Command in Node.js: Practical Guide to Buffers, Sockets, and Bit Manipulation](https://hackernoon.com/building-ping-command-in-nodejs-practical-guide-to-buffers-sockets-and-bit-manipulation)
+### [449. Building Ping Command in Node.js: Practical Guide to Buffers, Sockets, and Bit Manipulation](https://hackernoon.com/building-ping-command-in-nodejs-practical-guide-to-buffers-sockets-and-bit-manipulation)
 ![](https://cdn.hackernoon.com/images/fN6gqyEn1ZWGSnRkRVKQmlxFpdc2-wyh3x51.png)
 Building ping command in Node.js for fun. Short practical guide to buffers, sockets, bit manipulation, performance measurement, and Wireshark.
 
-### [453. How I Cloned a Simple VSCode Using Tauri and ReactJS](https://hackernoon.com/how-i-cloned-a-simple-vscode-using-tauri-and-reactjs)
+### [450. Sharing Reusable Angular Components   ](https://hackernoon.com/sharing-reusable-components-in-angular-to-build-apps-faster-h48z30s4)
+![](https://cdn.hackernoon.com/images/cnb8302h.jpg)
+When building Angular applications you compose the UI of your applications through shared reusable Angular components.
+
+### [451. How I Cloned a Simple VSCode Using Tauri and ReactJS](https://hackernoon.com/how-i-cloned-a-simple-vscode-using-tauri-and-reactjs)
 ![](https://cdn.hackernoon.com/images/3vn6gVC40lf9EZovJoHLxSOK5Gr1-vo93u5w.jpeg)
 How I built a simple code editor like VScode using Tauri and Reactjs
 
-### [454. Introducing the Satisfies Operator in TypeScript](https://hackernoon.com/introducing-the-satisfy-operator-in-typescript)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-oq93284.jpeg)
-TypeScript beta 4.9 came with the new satisfies operator. 
+### [452. A Quick Tutorial on Using SQL Expressions for Validation in Oracle APEX](https://hackernoon.com/a-quick-tutorial-on-using-sql-expressions-for-validation-in-oracle-apex)
+![](https://cdn.hackernoon.com/images/HBFDpaRgFAXp9sXoW0d6LL26mvh1-x493vt2.jpeg)
+Learn how to use SQL expressions for validation in Oracle APEX with our quick tutorial. Explore step-by-step instructions and practical examples.
 
-### [455. Why and where should you still use C/C++ languages?](https://hackernoon.com/why-and-where-should-you-still-use-cc-languages-6l1r838gh)
+### [453. How To Implement The Prefetch Pattern in React Concurrent Mode](https://hackernoon.com/implementing-the-prefetch-pattern-in-react-concurrent-mode-h4r3twc)
+![](https://cdn.hackernoon.com/drafts/sool3tca.png)
+Recently, React announced a feature of the React ecosystem — Concurrent Mode. This would allow us to stop or delay the execution of components for the time that we need. It’ll help React apps stay responsive and gracefully adjust to the user’s device capabilities and network speed.
+
+### [454. Why and where should you still use C/C++ languages?](https://hackernoon.com/why-and-where-should-you-still-use-cc-languages-6l1r838gh)
 ![](https://cdn.hackernoon.com/drafts/481sm38c3.png)
 From complex databases to self-driving cars, the usage area of C and C++ languages is surprisingly wide. Even today, with a myriad of new & robust programming tools, the two coding languages from 70s cannot be replaced. So what are the common applications of C & C++ today and why we still use them? Let’s find out in this article.
 
-### [456. Setting Up Manjaro Linux From Scratch!!](https://hackernoon.com/setting-up-manjaro-linux-from-scratch-e91m2bkc)
-![](https://cdn.hackernoon.com/images/l7j2bxp.jpg)
-STEP 1 : Download an Image File 😉
+### [455. Introducing the Satisfies Operator in TypeScript](https://hackernoon.com/introducing-the-satisfy-operator-in-typescript)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-oq93284.jpeg)
+TypeScript beta 4.9 came with the new satisfies operator. 
 
-### [457. High Performance Text Parsing Using Finite State Machines (FSM)](https://hackernoon.com/high-performance-text-parsing-using-finite-state-machines-fsm-6d3m33j9)
+### [456. High Performance Text Parsing Using Finite State Machines (FSM)](https://hackernoon.com/high-performance-text-parsing-using-finite-state-machines-fsm-6d3m33j9)
 ![](https://cdn.hackernoon.com/images/lVzJ9WZ0WmczSkVF0M97y9MimpT2-8v11r3f4e.jpeg)
 In this article, I compare two parsing methods with a focus on their performance. The first uses regular expressions, the second deterministic finite automaton
 
-### [458. Oracle, IBM, or Open JDK? How to Know Java Vendor Details](https://hackernoon.com/oracle-ibm-or-open-jdk-how-to-know-java-vendor-details)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-1p035r7.jpeg)
-A simple java command that will provide us the vendor details describing what vendors java implementation has been installed on that particular server.
+### [457. Setting Up Manjaro Linux From Scratch!!](https://hackernoon.com/setting-up-manjaro-linux-from-scratch-e91m2bkc)
+![](https://cdn.hackernoon.com/images/l7j2bxp.jpg)
+STEP 1 : Download an Image File 😉
 
-### [459. 8 Free Online Games to Help You Learn Coding](https://hackernoon.com/8-free-online-games-to-help-you-learn-coding-vf1k3wld)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fu3qVo2WROTMxSLc8HT3bCHB2xdA3-8e53wur.jpeg?alt=media&token=9663be73-1d87-43e0-90a2-77b8a711283b)
-To learn coding is not just being familiar or comfortable with the syntax but to understand the logic and improve logical and analytical skills. Every programming language has advantages and disadvantages but the basics are the same to a certain extent. We all know that the best method to learn a programming language is writing codes in it. It is also known that the key developers not just write the code but enjoy doing it. If the basics are not sorted, advanced programming tends to be boring.
-
-### [460. Which Framework Must You Implement for Your Next Project? (Next Js VS React)](https://hackernoon.com/which-framework-must-you-implement-for-your-next-project-next-js-vs-react)
-![](https://cdn.hackernoon.com/images/5P8m2Q0RfeVFUhNsEBG8gdQoQCq1-xb93o8g.jpeg)
-React and Next JS are effective JavaScript frameworks for developing web applications and websites. These frameworks are used by a large community of developers all over the world. Both are open-source projects for developing powerful and interactive web applications, but which should you use? If you are perplexed by the question of Next JS vs React, this blog will be of assistance.
-
-### [461. One Dockerfile is All it Takes: How I Fell in Love With Bake](https://hackernoon.com/one-dockerfile-is-all-it-takes-how-i-fell-in-love-with-bake)
+### [458. One Dockerfile is All it Takes: How I Fell in Love With Bake](https://hackernoon.com/one-dockerfile-is-all-it-takes-how-i-fell-in-love-with-bake)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ht92crz.jpeg)
 Using docker bake for outrageously simple monorepo docker builds.
 
-### [462. Tailwindcss? I'll Pass](https://hackernoon.com/tailwindcss-ill-pass)
-![](https://cdn.hackernoon.com/images/cGfg9TlH1bgGje7eIzVSvxyMCMn2-uv92ler.jpeg)
-Tailwindcss is breaking the frontier of CSS libraries and frameworks. Bootstrap is lagging behind and Vanilla CSS is stationary. Is Tailwind CSS worth it?
+### [459. Oracle, IBM, or Open JDK? How to Know Java Vendor Details](https://hackernoon.com/oracle-ibm-or-open-jdk-how-to-know-java-vendor-details)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-1p035r7.jpeg)
+A simple java command that will provide us the vendor details describing what vendors java implementation has been installed on that particular server.
+
+### [460. 8 Free Online Games to Help You Learn Coding](https://hackernoon.com/8-free-online-games-to-help-you-learn-coding-vf1k3wld)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fu3qVo2WROTMxSLc8HT3bCHB2xdA3-8e53wur.jpeg?alt=media&token=9663be73-1d87-43e0-90a2-77b8a711283b)
+To learn coding is not just being familiar or comfortable with the syntax but to understand the logic and improve logical and analytical skills. Every programming language has advantages and disadvantages but the basics are the same to a certain extent. We all know that the best method to learn a programming language is writing codes in it. It is also known that the key developers not just write the code but enjoy doing it. If the basics are not sorted, advanced programming tends to be boring.
+
+### [461. Which Framework Must You Implement for Your Next Project? (Next Js VS React)](https://hackernoon.com/which-framework-must-you-implement-for-your-next-project-next-js-vs-react)
+![](https://cdn.hackernoon.com/images/5P8m2Q0RfeVFUhNsEBG8gdQoQCq1-xb93o8g.jpeg)
+React and Next JS are effective JavaScript frameworks for developing web applications and websites. These frameworks are used by a large community of developers all over the world. Both are open-source projects for developing powerful and interactive web applications, but which should you use? If you are perplexed by the question of Next JS vs React, this blog will be of assistance.
+
+### [462. API Gateway vs Backend for Frontend (BFF): Use Cases, Similarities and Divergencies ](https://hackernoon.com/api-gateway-vs-backend-for-frontend-bff-use-cases-similarities-and-divergencies)
+![](https://cdn.hackernoon.com/images/pyimV3gzJQQgTbieEIF46aEh9QZ2-fd93o2n.jpeg)
+ In this article, we are going to see what an API Gateway, BFFs, and how they are used for Client-Server communication in a Microservices architecture.
 
 ### [463. How To Customize an OpenAI Chatbot With Embedding](https://hackernoon.com/how-to-customize-an-openai-chatbot-with-embedding)
 ![](https://cdn.hackernoon.com/images/gEL3g8oyQxgbmc8iSk3I4iUT8Ku1-vm93ued.jpeg)
 Learn how to leverage embeddings to have an OpenAI chatbot, built with React and Node.js, respond correctly to specific contextual prompts.
 
-### [464. API Gateway vs Backend for Frontend (BFF): Use Cases, Similarities and Divergencies ](https://hackernoon.com/api-gateway-vs-backend-for-frontend-bff-use-cases-similarities-and-divergencies)
-![](https://cdn.hackernoon.com/images/pyimV3gzJQQgTbieEIF46aEh9QZ2-fd93o2n.jpeg)
- In this article, we are going to see what an API Gateway, BFFs, and how they are used for Client-Server communication in a Microservices architecture.
+### [464. Tailwindcss? I'll Pass](https://hackernoon.com/tailwindcss-ill-pass)
+![](https://cdn.hackernoon.com/images/cGfg9TlH1bgGje7eIzVSvxyMCMn2-uv92ler.jpeg)
+Tailwindcss is breaking the frontier of CSS libraries and frameworks. Bootstrap is lagging behind and Vanilla CSS is stationary. Is Tailwind CSS worth it?
 
-### [465. Create an API to interact with Ethereum Blockchain using Golang PART 1](https://hackernoon.com/create-an-api-to-interact-with-ethereum-blockchain-using-golang-part-1-sqf3z7z)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FET4IJJCNUpaSMq1bfuPlxFNpAGy1-069x3xdv.jpeg?alt=media&token=c7d215a0-2d22-4408-a2f0-daaaa1ca9d9b)
-Hi folks! In this tutorial, we are going to learn how to create a simple REST API to interact with the Ethereum blockchain using Golang. 
-
-### [466. 14 Things I Wish I Knew Before Becoming a Software Engineer](https://hackernoon.com/14-things-i-wish-i-knew-before-becoming-a-software-engineer-r55o3z9y)
-![](https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-A Q&A for students with a Facebook software engineer
-
-### [467. How to solve Unique path problem](https://hackernoon.com/how-to-solve-unique-path-problem-zj4qt30z3)
-![](https://cdn.hackernoon.com/drafts/g1143xdi.png)
-Dynamic programming approach.
-
-### [468. The Idempotence Principle in Software Architecture](https://hackernoon.com/the-idempotence-principle-in-software-architecture)
+### [465. The Idempotence Principle in Software Architecture](https://hackernoon.com/the-idempotence-principle-in-software-architecture)
 ![](https://cdn.hackernoon.com/images/4wWmJ0ILxuQniqJvu4ilUo9QxHB3-g9c3wlc.jpeg)
 This article explains the idempotence principle in software engineering and provides some practical implementations for developers.
 
-### [469. React Hooks: Performance Pitfalls And How To Easily Avoid Them](https://hackernoon.com/adventuring-into-react-hooks-performance-practices-rly36xq)
-![](https://cdn.hackernoon.com/drafts/1ry33627.png)
-From version 16.8.0, React introduced us to a way to use state and other React features without writing a class — React Hooks.
+### [466. 8 Games You Can Play Right In This Article Built With HTML, CSS, and JS ](https://hackernoon.com/8-games-you-can-play-right-in-this-article-built-with-html-css-and-js)
+![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-wk83ytd.jpeg)
+In this article, I have compiled some of my favorite games built only with HTML, CSS, and JavaScript so that you can get inspiration for your future creations.
+
+### [467. Create an API to interact with Ethereum Blockchain using Golang PART 1](https://hackernoon.com/create-an-api-to-interact-with-ethereum-blockchain-using-golang-part-1-sqf3z7z)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FET4IJJCNUpaSMq1bfuPlxFNpAGy1-069x3xdv.jpeg?alt=media&token=c7d215a0-2d22-4408-a2f0-daaaa1ca9d9b)
+Hi folks! In this tutorial, we are going to learn how to create a simple REST API to interact with the Ethereum blockchain using Golang. 
+
+### [468. 14 Things I Wish I Knew Before Becoming a Software Engineer](https://hackernoon.com/14-things-i-wish-i-knew-before-becoming-a-software-engineer-r55o3z9y)
+![](https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+A Q&A for students with a Facebook software engineer
+
+### [469. How to solve Unique path problem](https://hackernoon.com/how-to-solve-unique-path-problem-zj4qt30z3)
+![](https://cdn.hackernoon.com/drafts/g1143xdi.png)
+Dynamic programming approach.
 
 ### [470. The Ultimate Jetpack Compose Cheat Sheet](https://hackernoon.com/the-ultimate-jetpack-compose-cheat-sheet)
 ![](https://cdn.hackernoon.com/images/Qf32qIA0rKRPvvfxl82cUcPLRV82-o592euu.jpeg)
 This post is not meant to teach you everything about Compose but rather it’ll be more like a roadmap that you can use to learn Compose...
 
-### [471. 8 Games You Can Play Right In This Article Built With HTML, CSS, and JS ](https://hackernoon.com/8-games-you-can-play-right-in-this-article-built-with-html-css-and-js)
-![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-wk83ytd.jpeg)
-In this article, I have compiled some of my favorite games built only with HTML, CSS, and JavaScript so that you can get inspiration for your future creations.
+### [471. React Hooks: Performance Pitfalls And How To Easily Avoid Them](https://hackernoon.com/adventuring-into-react-hooks-performance-practices-rly36xq)
+![](https://cdn.hackernoon.com/drafts/1ry33627.png)
+From version 16.8.0, React introduced us to a way to use state and other React features without writing a class — React Hooks.
 
 ### [472. Move All Negative Elements To End](https://hackernoon.com/move-all-negative-elements-to-end)
 ![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-pm93oqe.jpeg)
@@ -1924,13 +1926,13 @@ Have you ever wondered how one of the largest software companies worldwide ensur
 ![](https://cdn.hackernoon.com/images/lr2z3yjd.jpg)
 We all have struggled with keeping our CSS classes ordered, maintainable, and more specific. SASS nesting and the BEM (Block - Element - Modifier) structure will help get us to get rid of this concern.
 
-### [475. Applying Angular Runtime Configurations in Dockerized Environments](https://hackernoon.com/applying-angular-runtime-configurations-in-dockerized-environments-kr3a33pr)
-![](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-With the shift to Cloud-first and the rise of managed infrastructure and orchestrations such as EWS, Azure AKS or GCP clusters the application landscape needs to prepare and adjust itself to match newly rising requirements. This is for such nothing new nor unknown, but acknowledging this fact is one and probably the first important step.
-
-### [476. Part 2: Developing Software Requirements, A Case Study](https://hackernoon.com/foo-xv1x3278)
+### [475. Part 2: Developing Software Requirements, A Case Study](https://hackernoon.com/foo-xv1x3278)
 ![](https://cdn.hackernoon.com/drafts/9722s32bl.png)
 This is Part 2 of a 4 part series. Part 1: Why Software Requirements In The Real World Are Hard discusses the challenges of developing requirements and what good ones might look like. This post looks at the requirements development process and its outputs on a real-world project.
+
+### [476. Applying Angular Runtime Configurations in Dockerized Environments](https://hackernoon.com/applying-angular-runtime-configurations-in-dockerized-environments-kr3a33pr)
+![](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+With the shift to Cloud-first and the rise of managed infrastructure and orchestrations such as EWS, Azure AKS or GCP clusters the application landscape needs to prepare and adjust itself to match newly rising requirements. This is for such nothing new nor unknown, but acknowledging this fact is one and probably the first important step.
 
 ### [477. A Beginner's Guide to JavaScript's The Intersection Observer API](https://hackernoon.com/a-beginners-guide-to-javascripts-the-intersection-observer-api-j8s32rb)
 ![](https://cdn.hackernoon.com/images/leEx3mHDrBYxZrl9s2kuP5yLRXj1-4s1g342g.png)
@@ -1940,53 +1942,53 @@ Have you ever wanted to detect the visibility of an element and create a sleek r
 ![](https://cdn.hackernoon.com/images/m3vb2kho.jpg)
 In this post I am going to show you how to build your own answer finding system with Python. Basically, this automation can find the answer of multiple-choice question from the picture.
 
-### [479. Unpopular Opinion: It’s Harder Than Ever to Be a Good Software Engineer](https://hackernoon.com/unpopular-opinion-its-harder-than-ever-to-be-a-good-software-engineer)
-![](https://cdn.hackernoon.com/images/XngJNWMtTIZm3heX3nSga78V2JV2-mq920vd.jpeg)
-Surviving tech's fast lane: A story of engineers, hype, and staying focused on what truly matters in a changing world
-
-### [480. When and Where to Use REM and EM Units in Web Design?](https://hackernoon.com/when-and-where-to-use-rem-and-em-units-in-web-design)
+### [479. When and Where to Use REM and EM Units in Web Design?](https://hackernoon.com/when-and-where-to-use-rem-and-em-units-in-web-design)
 ![](https://cdn.hackernoon.com/images/n03fti36w1PkUjekluYgfGmOG782-un93r5g.jpeg)
 Get clarity on using REM or EM in web design. This guide explains the differences and helps you choose the best unit for your project's needs.
+
+### [480. Unpopular Opinion: It’s Harder Than Ever to Be a Good Software Engineer](https://hackernoon.com/unpopular-opinion-its-harder-than-ever-to-be-a-good-software-engineer)
+![](https://cdn.hackernoon.com/images/XngJNWMtTIZm3heX3nSga78V2JV2-mq920vd.jpeg)
+Surviving tech's fast lane: A story of engineers, hype, and staying focused on what truly matters in a changing world
 
 ### [481. Implementing Social Login for a React and Backend App](https://hackernoon.com/implementing-social-login-for-a-react-and-backend-app)
 ![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-cv93sn7.jpeg)
 Implementing Social Login: A Step-by-Step Guide in  React with Typescript. How to add Github and Google login for users and taking advantage of the social netwo
 
-### [482. Type Annotation In Python](https://hackernoon.com/type-annotation-in-python)
-![](https://cdn.hackernoon.com/images/BJ5EBqiScSRiuFz3a13c8bHN4z02-o7028up.jpeg)
-Type Annotation are a quick way to validate the actual type of the variables or arguments that are being passed to the functions it is also called type hinting.
-
-### [483. How To Setup a Python Virtual Environment on Windows 10](https://hackernoon.com/how-to-setup-a-python-virtual-environment-on-windows-10-h61f34c6)
-![](https://cdn.hackernoon.com/images/Bj8AxZbmqwQUNAOela0UGCyV6VJ3-rs6r31ac.jpeg)
-Creating a Python Virtual environment will allow you to work on an isolated copy of Python for specific projects without interfering or impacting the working of other ongoing projects.
-
-### [484. How to Create and Publish Your First Private NPM Package](https://hackernoon.com/how-to-create-and-publish-your-first-private-npm-package)
-![](https://cdn.hackernoon.com/images/8mM2KE0AxsYWVKbGNED9BYlrWhP2-tq93nbt.jpeg)
-In this article, I will  show how we can easily create our first private npm package. 
-
-### [485. JavaScript tutorial for Zero-Knowledge Proofs Using SnarkJS and Circom](https://hackernoon.com/javascript-tutorial-for-zero-knowledge-proofs-using-snarkjs-and-circom)
+### [482. JavaScript tutorial for Zero-Knowledge Proofs Using SnarkJS and Circom](https://hackernoon.com/javascript-tutorial-for-zero-knowledge-proofs-using-snarkjs-and-circom)
 ![](https://cdn.hackernoon.com/images/java-script-tutorial-for-zero-knowledge-proofs-clcrjkl7m000001s6cjok8kmg.png)
 In this article, I will show you how you can use zk-SNARK in your JavaScript project by using circom and snarkjs.
 
-### [486. Improving Formik Performance when it's Slow (Material UI)](https://hackernoon.com/improving-formik-performance-when-its-slow-material-ui)
-![](https://cdn.hackernoon.com/images/2CnaTwkypCg3LK5uANIw5XkUw453-xo0374j.jpeg)
-Fix Formik slow performance. Increase Formik performance when using input fields. Happens when you use CSS-In-JS based UI libraries as they keep re-rendering.
+### [483. Type Annotation In Python](https://hackernoon.com/type-annotation-in-python)
+![](https://cdn.hackernoon.com/images/BJ5EBqiScSRiuFz3a13c8bHN4z02-o7028up.jpeg)
+Type Annotation are a quick way to validate the actual type of the variables or arguments that are being passed to the functions it is also called type hinting.
 
-### [487. 100+ Free Pluralsight Courses to learn Python, Java, and Spring Boot ](https://hackernoon.com/100-free-pluralsight-courses-to-learn-python-java-and-spring-boot-ye6i3y0m)
-![](https://cdn.hackernoon.com/images/v821r3yol.jpg)
-Hello guys, I have awesome news to share with you. Pluralsight has announced that all their 7000+ expert-led courses are free for one-month, April 2020, to support people staying at home due to COVID-19.
-
-### [488. Python Static Analysis Tools: Clean Your Code Before Running](https://hackernoon.com/python-static-analysis-tools-clean-your-code-before-running)
+### [484. Python Static Analysis Tools: Clean Your Code Before Running](https://hackernoon.com/python-static-analysis-tools-clean-your-code-before-running)
 ![](https://cdn.hackernoon.com/images/HiQHPtNnSzNaqynCdOJ4cpJyHUt2-0lk3p47.jpeg)
 Review of essential modern Python code static analysis tools.
 
-### [489. Introduction To Maths Behind Neural Networks](https://hackernoon.com/a-6ur13zzx)
+### [485. How To Setup a Python Virtual Environment on Windows 10](https://hackernoon.com/how-to-setup-a-python-virtual-environment-on-windows-10-h61f34c6)
+![](https://cdn.hackernoon.com/images/Bj8AxZbmqwQUNAOela0UGCyV6VJ3-rs6r31ac.jpeg)
+Creating a Python Virtual environment will allow you to work on an isolated copy of Python for specific projects without interfering or impacting the working of other ongoing projects.
+
+### [486. How to Create and Publish Your First Private NPM Package](https://hackernoon.com/how-to-create-and-publish-your-first-private-npm-package)
+![](https://cdn.hackernoon.com/images/8mM2KE0AxsYWVKbGNED9BYlrWhP2-tq93nbt.jpeg)
+In this article, I will  show how we can easily create our first private npm package. 
+
+### [487. Improving Formik Performance when it's Slow (Material UI)](https://hackernoon.com/improving-formik-performance-when-its-slow-material-ui)
+![](https://cdn.hackernoon.com/images/2CnaTwkypCg3LK5uANIw5XkUw453-xo0374j.jpeg)
+Fix Formik slow performance. Increase Formik performance when using input fields. Happens when you use CSS-In-JS based UI libraries as they keep re-rendering.
+
+### [488. 100+ Free Pluralsight Courses to learn Python, Java, and Spring Boot ](https://hackernoon.com/100-free-pluralsight-courses-to-learn-python-java-and-spring-boot-ye6i3y0m)
+![](https://cdn.hackernoon.com/images/v821r3yol.jpg)
+Hello guys, I have awesome news to share with you. Pluralsight has announced that all their 7000+ expert-led courses are free for one-month, April 2020, to support people staying at home due to COVID-19.
+
+### [489. Optimizing Performance in Fabric.js 5: 14 Best Practices and Tips](https://hackernoon.com/optimizing-performance-in-fabricjs-5-14-best-practices-and-tips)
+![](https://cdn.hackernoon.com/images/eEEgu5i7oPT43ELXf3sIwzEfwUF3-4z93pxn.png)
+Learn how to optimize performance in Fabric.js for smooth canvas interactions and rendering. Explore techniques like renderOnAddRemove, enlivenObjects, caching.
+
+### [490. Introduction To Maths Behind Neural Networks](https://hackernoon.com/a-6ur13zzx)
 ![](https://cdn.hackernoon.com/images/e8m3z48.jpg)
 Today, with open source machine learning software libraries such as TensorFlow, Keras or PyTorch we can create neural network, even with a high structural complexity, with just a few lines of code. Having said that, the Math behind neural networks is still a mystery to some of us and having the Math knowledge behind neural networks and deep learning can help us understand what’s happening inside a neural network. It is also helpful in architecture selection, fine-tuning of Deep Learning models, hyperparameters tuning and optimization.
-
-### [490. You don't do Continuous Integration!](https://hackernoon.com/you-dont-do-continuous-integration-vz47534ux)
-![](https://cdn.hackernoon.com/drafts/rxd7j343u.png)
-Today I am going to talk about one misconception made by developers: Continuous Integration is about running automated integration pipelines…
 
 ### [491. How to Use a Hook in a Class Component](https://hackernoon.com/how-to-use-a-hook-in-a-class-component)
 ![](https://cdn.hackernoon.com/images/too6UlyK1RTQqOrRsiS7PVQp20d2-0p93krf.jpeg)
@@ -1994,9 +1996,9 @@ Did you know that you can use hooks in class components?
 
 OK, I'm lying, kind of. You can't use a hook directly in a class component, but you can use a hook in 
 
-### [492. Optimizing Performance in Fabric.js 5: 14 Best Practices and Tips](https://hackernoon.com/optimizing-performance-in-fabricjs-5-14-best-practices-and-tips)
-![](https://cdn.hackernoon.com/images/eEEgu5i7oPT43ELXf3sIwzEfwUF3-4z93pxn.png)
-Learn how to optimize performance in Fabric.js for smooth canvas interactions and rendering. Explore techniques like renderOnAddRemove, enlivenObjects, caching.
+### [492. You don't do Continuous Integration!](https://hackernoon.com/you-dont-do-continuous-integration-vz47534ux)
+![](https://cdn.hackernoon.com/drafts/rxd7j343u.png)
+Today I am going to talk about one misconception made by developers: Continuous Integration is about running automated integration pipelines…
 
 ### [493. Landing A Job At Twitter As A Software Engineer [How I Did It]](https://hackernoon.com/landing-a-job-at-twitter-as-a-software-engineer-how-i-did-it-ls2l3y3z)
 ![](https://cdn.hackernoon.com/images/e14193yaw.jpg)
@@ -2010,23 +2012,23 @@ Investors are always evaluating the amount of risk they are willing to take for 
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-n70397a.jpeg)
 I had to quit DSA and CP within a month because of the overwhelming exhaustion, This blog discusses mistakes that I made while learning DSA and CP.
 
-### [496. This is Your Brain on Factorio](https://hackernoon.com/this-is-your-brain-on-factorio-1h392evx)
-![](https://cdn.hackernoon.com/drafts/yy5l2euw.png)
-So I’m on zero sleep. I decided last night at 3am that it wasn’t worth waiting in bed, hoping to fall asleep anymore, having to wake up at 8am anyway. Being incredibly tired, beyond tired, loopy even, I think, “what to do?” I don’t have much to do to pack before my flight tomorrow, and I’m useless for anything productive...maybe a little Factorio?
-
-### [497. Introducing NodePort Service in Kubernetes](https://hackernoon.com/introducing-nodeport-service-in-kubernetes-ear0360s)
-![](https://cdn.hackernoon.com/drafts/7i36s33v9.png)
-Summary
-
-### [498. Functional Programming is a Lie](https://hackernoon.com/functional-programming-is-a-lie-d269c4240da2)
-![](https://cdn.hackernoon.com/images/a-lie-circling-back-on-itself-eating-its-own-tail-cldn55zmz000001s6gbazafa1.png)
-Or a small rant against Elixir.
-
-### [499. The Essential Guide to Load-Balancing Minecraft Servers with Kong Gateway](https://hackernoon.com/the-essential-guide-to-load-balancing-minecraft-servers-with-kong-gateway-mr3i37aw)
+### [496. The Essential Guide to Load-Balancing Minecraft Servers with Kong Gateway](https://hackernoon.com/the-essential-guide-to-load-balancing-minecraft-servers-with-kong-gateway-mr3i37aw)
 ![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-z48347m.jpeg)
 We're going to explore port forwarding and load balancing with Kong Gateway by spinning up multiple Minecraft servers,
 
-### [500. State Machines Can Help You Solve Complex Programming Problems](https://hackernoon.com/state-machines-can-help-you-solve-complex-programming-problems)
+### [497. This is Your Brain on Factorio](https://hackernoon.com/this-is-your-brain-on-factorio-1h392evx)
+![](https://cdn.hackernoon.com/drafts/yy5l2euw.png)
+So I’m on zero sleep. I decided last night at 3am that it wasn’t worth waiting in bed, hoping to fall asleep anymore, having to wake up at 8am anyway. Being incredibly tired, beyond tired, loopy even, I think, “what to do?” I don’t have much to do to pack before my flight tomorrow, and I’m useless for anything productive...maybe a little Factorio?
+
+### [498. Introducing NodePort Service in Kubernetes](https://hackernoon.com/introducing-nodeport-service-in-kubernetes-ear0360s)
+![](https://cdn.hackernoon.com/drafts/7i36s33v9.png)
+Summary
+
+### [499. State Machines Can Help You Solve Complex Programming Problems](https://hackernoon.com/state-machines-can-help-you-solve-complex-programming-problems)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-wn93o21.jpeg)
 The notion of state machines is extremely useful in programming. It streamlines the process of developing more complicated use case apps.
+
+### [500. Functional Programming is a Lie](https://hackernoon.com/functional-programming-is-a-lie-d269c4240da2)
+![](https://cdn.hackernoon.com/images/a-lie-circling-back-on-itself-eating-its-own-tail-cldn55zmz000001s6gbazafa1.png)
+Or a small rant against Elixir.
 

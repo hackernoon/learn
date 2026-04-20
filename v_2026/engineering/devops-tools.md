@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [devops-tools](https://hackernoon.com/tagged/devops-tools)
+### Let's learn about [Devops Tools](https://hackernoon.com/tagged/devops-tools) via these 242 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+DevOps tools are software applications that facilitate collaboration, automation, and continuous delivery across the software development and operations lifecycle. They are critical for streamlining workflows, improving deployment frequency, and ensuring software quality and reliability.
+
 ### [1. Accelerate Your Pytest Performance for Enhanced Code Quality and Faster Feedback](https://hackernoon.com/accelerate-your-pytest-performance-for-enhanced-code-quality-and-faster-feedback)
 ![](https://cdn.hackernoon.com/images/q3mCkt4AKOMDiAUKAn2E0hYUy1r1-wy93pod.jpeg)
 Integrating Launchable into your pytest testing workflow can help you save substantial time, money and labor.
@@ -127,17 +131,17 @@ While running a self managed elasticsearch cluster like any other database, it's
 ![](https://cdn.hackernoon.com/images/vI89MS8Ou8OYOnT4ESBSH9HkCrz2-aw0346z.jpeg)
 CI/CD is an integral part of any successful DevOps team. This list includes the finest CI/CD tools currently available in the market.
 
-### [32. Automating Node.js Unit Testing With DroneCI Using Jest Framework](https://hackernoon.com/automating-nodejs-unit-testing-with-droneci-using-jest-framework)
+### [32. Networking: How Useful is pyATS in NetDevOps?  ](https://hackernoon.com/networking-how-useful-is-pyats-in-netdevops)
+![](https://cdn.hackernoon.com/images/nfzxvhhEKETh44kJrLda6JEOBMW2-0t93wo0.jpeg)
+Modern networking requires network engineers to adapt to the changing industry, and NetDevOps is the way to go. Automation provides more agility and fewer manua
+
+### [33. Automating Node.js Unit Testing With DroneCI Using Jest Framework](https://hackernoon.com/automating-nodejs-unit-testing-with-droneci-using-jest-framework)
 ![](https://cdn.hackernoon.com/images/vI89MS8Ou8OYOnT4ESBSH9HkCrz2-rmm3pbh.jpeg)
 Unit testing is a crucial part of software development that has grown in popularity over the past few years. 
 
-### [33. Moving from CircleCI to Buildkite: Everything You Need to Know](https://hackernoon.com/moving-from-circleci-to-buildkite-everything-you-need-to-know-o73r37ie)
+### [34. Moving from CircleCI to Buildkite: Everything You Need to Know](https://hackernoon.com/moving-from-circleci-to-buildkite-everything-you-need-to-know-o73r37ie)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-9kp375a.jpeg)
 Buildkite is gaining momentum as an excellent CI tool, and I recently was involved in such a migration from CircleCI and wanted to share my experience.
-
-### [34. Networking: How Useful is pyATS in NetDevOps?  ](https://hackernoon.com/networking-how-useful-is-pyats-in-netdevops)
-![](https://cdn.hackernoon.com/images/nfzxvhhEKETh44kJrLda6JEOBMW2-0t93wo0.jpeg)
-Modern networking requires network engineers to adapt to the changing industry, and NetDevOps is the way to go. Automation provides more agility and fewer manua
 
 ### [35. From DevOps to NetDevOps: Where Are We Now in Networking?](https://hackernoon.com/from-devops-to-netdevops-where-are-we-now-in-networking)
 ![](https://cdn.hackernoon.com/images/nfzxvhhEKETh44kJrLda6JEOBMW2-nx93v2j.jpeg)
@@ -158,13 +162,13 @@ To make the choice between 3 market giants (Azure, AWS, and Google Cloud) cleare
 When choosing between pixels and rems in CSS, you should almost always use rems. It's a simple rule to follow. This article explains why.
 
 
-### [39. Tekton Pipelines in the Azure Kubernetes Service Cluster](https://hackernoon.com/how-to-install-tekton-pipelines-in-the-azure-kubernetes-service-cluster)
-![](https://cdn.hackernoon.com/images/yH95UmMywDTjM9jsB6ZVZEkOKY02-uur2io1.jpeg)
-CI\CD with Tekton Pipelines in AKS serverless Virtual Nodes
-
-### [40. How To Use OpenTelemetry And Jaeger To Implement Distributed Tracing And APM](https://hackernoon.com/how-to-use-opentelemetry-and-jaeger-to-implement-distributed-tracing-and-apm-jcx34fi)
+### [39. How To Use OpenTelemetry And Jaeger To Implement Distributed Tracing And APM](https://hackernoon.com/how-to-use-opentelemetry-and-jaeger-to-implement-distributed-tracing-and-apm-jcx34fi)
 ![](https://cdn.hackernoon.com/images/jXed9vf1PqWWqc2FaVerNOOqaXy2-qa5633ox.jpeg)
 Recent open source contributions to Jaeger and OpenTelemetry pave the way for APM capabilities based on distributed tracing and CNCF stack
+
+### [40. Tekton Pipelines in the Azure Kubernetes Service Cluster](https://hackernoon.com/how-to-install-tekton-pipelines-in-the-azure-kubernetes-service-cluster)
+![](https://cdn.hackernoon.com/images/yH95UmMywDTjM9jsB6ZVZEkOKY02-uur2io1.jpeg)
+CI\CD with Tekton Pipelines in AKS serverless Virtual Nodes
 
 ### [41. Switching from Elastic Stack to Grafana: A Cost-Cutting Success Story](https://hackernoon.com/switching-from-elastic-stack-to-grafana-a-cost-cutting-success-story)
 ![](https://cdn.hackernoon.com/images/mCgXovxRzaUalbCzNWoo2Mwmj6P2-fca3wwu.jpeg)
@@ -194,13 +198,13 @@ Learn to deploy a secure Node.js REST API with MongoDB on Aptible. Build scalabl
 ![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-0s03ofu.jpeg)
 There are key differences between GKE and EKS. While EKS is a market leader, read more to find out why GKE can give EKS a run for its money.
 
-### [48. What We Learned By Dockerizing Our Applications](https://hackernoon.com/what-we-learned-by-dockerizing-our-applications-jk1y3xrx)
-![](https://cdn.hackernoon.com/drafts/av383wy6.png)
-A universal truth we’ve experienced as both an IT software vendor and as an application delivery team is that application owners are constantly trying to deliver better software faster. 
-
-### [49. CI/CD Best Practices for Salesforce DX](https://hackernoon.com/cicd-best-practices-for-salesforce-dx)
+### [48. CI/CD Best Practices for Salesforce DX](https://hackernoon.com/cicd-best-practices-for-salesforce-dx)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-s693h7x.jpeg)
 With digital transformation and the move to online operations, companies are increasingly relying on Salesforce to manage many of their operations. New business needs and opportunities constantly increase the workload of Salesforce teams. In this context, teams are turning to Salesforce CI/CD to automate manual workflows, which help them handle these growing workloads and quickly deliver quality work to their end-users. This article gives you a short overview of how to implement CI-CD in Salesforce DX.
+
+### [49. What We Learned By Dockerizing Our Applications](https://hackernoon.com/what-we-learned-by-dockerizing-our-applications-jk1y3xrx)
+![](https://cdn.hackernoon.com/drafts/av383wy6.png)
+A universal truth we’ve experienced as both an IT software vendor and as an application delivery team is that application owners are constantly trying to deliver better software faster. 
 
 ### [50. Future of Manual Testing: Is Manual Testing dying?](https://hackernoon.com/future-of-manual-testing-is-manual-testing-dying-an1d3zsd)
 ![](https://cdn.hackernoon.com/drafts/y4wa3ztb.png)
@@ -238,21 +242,21 @@ In this post, I discuss some applications of Everything as Code, the benefits, a
 ![](https://cdn.hackernoon.com/images/bKYjS2C6Rxcv14egxakvrg8O65x1-qxg3040.jpeg)
 Explore efficient data compression in proxyless microservices, focusing on challenges, GZIP/Snappy implementation, and deep performance analysis.
 
-### [59. Strategies for Using Config as Code ](https://hackernoon.com/strategies-for-using-config-as-code)
+### [59. Setting Up Jira Azure DevOps Integration in 2022](https://hackernoon.com/setting-up-jira-azure-devops-integration-in-2022)
+![](https://cdn.hackernoon.com/images/r9EisPRfS4YY10PFQfeyl2C65rf2-o3a3ize.png)
+Learn why it makes sense to integrate Azure DevOps, and Jira, and how to efficiently integrate those two tools.
+
+### [60. Strategies for Using Config as Code ](https://hackernoon.com/strategies-for-using-config-as-code)
 ![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-nl93o4s.jpeg)
 This post explains some good practices for using Config as Code and how to adjust your strategy in different situations.
 
-### [60. Migrating from DC/OS to Kubernetes: The Challenges You May Face](https://hackernoon.com/migrating-from-dcos-to-kubernetes-the-challenges-you-may-face-dr40312v)
+### [61. Migrating from DC/OS to Kubernetes: The Challenges You May Face](https://hackernoon.com/migrating-from-dcos-to-kubernetes-the-challenges-you-may-face-dr40312v)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-vgn28lw.jpeg)
 This blog will discuss DC/OS and Kubernetes and what challenges you might face when migrating between these container platforms. 
 
-### [61. What I Learned About DevOps in 2019](https://hackernoon.com/what-i-learned-about-devops-in-2019-s75b32ll)
+### [62. What I Learned About DevOps in 2019](https://hackernoon.com/what-i-learned-about-devops-in-2019-s75b32ll)
 ![](https://cdn.hackernoon.com/images/8zts32du.jpg)
 It was a big year for DevOps adoption. Most of the organizations than ever before are ditching their leadership philosophies, old methodologies, and legacy processes in favor of DevOps to realize speed and agility in today’s constantly evolving technology landscape.
-
-### [62. Setting Up Jira Azure DevOps Integration in 2022](https://hackernoon.com/setting-up-jira-azure-devops-integration-in-2022)
-![](https://cdn.hackernoon.com/images/r9EisPRfS4YY10PFQfeyl2C65rf2-o3a3ize.png)
-Learn why it makes sense to integrate Azure DevOps, and Jira, and how to efficiently integrate those two tools.
 
 ### [63. What are the Benefits of Using Docker Containers & When Should They Be Used?](https://hackernoon.com/what-are-the-benefits-of-using-docker-container-and-when-should-they-be-used)
 ![](https://cdn.hackernoon.com/images/what-are-the-benefits-of-using-docker-container-clbb2mvvj000101s677kj7n1g.png)
@@ -266,13 +270,13 @@ Docker and Kubernetes are powerful tools that can help you in aligning your Mach
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRh8vZk5jv6bGiDbCP7fzfa1y2x22-hq343uma.jpeg?alt=media&token=fb5eb3b2-ddd4-4d15-85f9-019c6388cbfc)
  
 
-### [66. How to Take Full Advantage of useEffect in React](https://hackernoon.com/how-to-take-full-advantage-of-useeffect-in-react)
-![](https://cdn.hackernoon.com/images/zoOctYrZ1RX1tldfBOyGfrmZq7f1-7if3rre.png)
-Optimizing useEffect in React gives you a significant boost in performance and sometimes gets your code rid of nasty bugs.
-
-### [67. How to Secure Containers Using Docker Content Trust](https://hackernoon.com/how-to-secure-containers-using-docker-content-trust)
+### [66. How to Secure Containers Using Docker Content Trust](https://hackernoon.com/how-to-secure-containers-using-docker-content-trust)
 ![](https://cdn.hackernoon.com/images/TVzbYHH4h7RpL2BVldOmrkMuKa72-qk93r5u.jpeg)
 Strong cryptographic assurances are needed to secure data. This is where Docker Content Trust (DCT) comes into the picture.
+
+### [67. How to Take Full Advantage of useEffect in React](https://hackernoon.com/how-to-take-full-advantage-of-useeffect-in-react)
+![](https://cdn.hackernoon.com/images/zoOctYrZ1RX1tldfBOyGfrmZq7f1-7if3rre.png)
+Optimizing useEffect in React gives you a significant boost in performance and sometimes gets your code rid of nasty bugs.
 
 ### [68. An Introduction to DevOps ](https://hackernoon.com/an-introduction-to-devops)
 ![](https://cdn.hackernoon.com/images/xzGWqRsCCCcMmCRudhdkUodDI4h2-8e93pzd.jpeg)
@@ -310,31 +314,31 @@ What happens when you combine an awesome idea with a driven leader? You get an e
 ![](https://cdn.hackernoon.com/images/nA9alYMI5NUiANpljMKiXq5jtcD3-32f3qyy.jpeg)
 How can web2 games seamlessly include web3 elements like NFTs in their games?
 
-### [77. The Basics of GitOps and Secure Deployment in Kubernetes](https://hackernoon.com/the-basics-of-gitops-and-secure-deployment-in-kubernetes-zi56311b)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhITA4n2ImYZmV3wxb3jg8NJ7S9p2-ev4e3wyw.png?alt=media&token=a9f3033a-664a-42f8-96c0-5b7f0683e323)
-Today I would like to discuss secrets and GitOps in the K8S world.
-
-### [78. The Evolution of DevOps to DevSecOps: Integrating Security into the Software Development Lifecycle](https://hackernoon.com/the-evolution-of-devops-to-devsecops-integrating-security-into-the-software-development-lifecycle)
+### [77. The Evolution of DevOps to DevSecOps: Integrating Security into the Software Development Lifecycle](https://hackernoon.com/the-evolution-of-devops-to-devsecops-integrating-security-into-the-software-development-lifecycle)
 ![](https://cdn.hackernoon.com/images/f7mvcLjRzefkWf55Afwfc6OSxO93-eea2lpf.jpeg)
 With the growing demand for fast software delivery, the significance of maintaining strong security has also increased.
 
-### [79. We Built a Modern Data Stack for Startups](https://hackernoon.com/we-built-a-modern-data-stack-for-startups)
-![](https://cdn.hackernoon.com/images/0h5tpNweC4WqvOQCWPG6jfFu0Jl1-ax93qzg.jpeg)
-Here's how we built our data stack at incident.io. If you're a company that cares about data access for all, follow this guide and we guarantee great results.
+### [78. The Basics of GitOps and Secure Deployment in Kubernetes](https://hackernoon.com/the-basics-of-gitops-and-secure-deployment-in-kubernetes-zi56311b)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhITA4n2ImYZmV3wxb3jg8NJ7S9p2-ev4e3wyw.png?alt=media&token=a9f3033a-664a-42f8-96c0-5b7f0683e323)
+Today I would like to discuss secrets and GitOps in the K8S world.
 
-### [80. How To Use Gulp And Prettier on Code Snippets and API Outputs](https://hackernoon.com/how-to-use-gulp-and-prettier-on-code-snippets-and-api-outputs-4r1f31b8)
+### [79. How To Use Gulp And Prettier on Code Snippets and API Outputs](https://hackernoon.com/how-to-use-gulp-and-prettier-on-code-snippets-and-api-outputs-4r1f31b8)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-jrg31pa.jpeg)
 Code editors come with "beautifiers" which programmers can use to make code uniformly and conventionally laid out, aka: "pretty".  
 
-### [81. Docker: Beginner's Guide](https://hackernoon.com/docker-beginners-guide-5e2c31qv)
-![](https://cdn.hackernoon.com/images/LFCaL0mBeyY8JHz0m6GDFp0v7go2-t8ba314i.jpeg)
-If you've been into software or web development for any amount of time, chances are that you at least heard of Docker. Maybe you're like me and have avoided using it because it seems complicated or difficult to set up.
+### [80. We Built a Modern Data Stack for Startups](https://hackernoon.com/we-built-a-modern-data-stack-for-startups)
+![](https://cdn.hackernoon.com/images/0h5tpNweC4WqvOQCWPG6jfFu0Jl1-ax93qzg.jpeg)
+Here's how we built our data stack at incident.io. If you're a company that cares about data access for all, follow this guide and we guarantee great results.
 
-
-### [82. Sending Files from a Remote Ubuntu Machine to Your Local Machine with SSH](https://hackernoon.com/sending-files-from-a-remote-ubuntu-machine-to-your-local-machine-with-ssh)
+### [81. Sending Files from a Remote Ubuntu Machine to Your Local Machine with SSH](https://hackernoon.com/sending-files-from-a-remote-ubuntu-machine-to-your-local-machine-with-ssh)
 ![](https://cdn.hackernoon.com/images/jNWYQww5YjRJsWWwirAmbrDTrgs2-02934xn.jpeg)
 This write-up is aimed at explaining how to transfer files between your remote system and your local machine, using ssh.
 
+
+
+### [82. Docker: Beginner's Guide](https://hackernoon.com/docker-beginners-guide-5e2c31qv)
+![](https://cdn.hackernoon.com/images/LFCaL0mBeyY8JHz0m6GDFp0v7go2-t8ba314i.jpeg)
+If you've been into software or web development for any amount of time, chances are that you at least heard of Docker. Maybe you're like me and have avoided using it because it seems complicated or difficult to set up.
 
 
 ### [83. Comparing The Top 10 Kubernetes CI/CD Tools](https://hackernoon.com/comparing-the-top-10-kubernetes-cicd-tools)
@@ -365,21 +369,21 @@ I have just released an open-source introduction to Bash scripting ebook/guide t
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGWUjrjBGlQKC3CqOzl8LzqqVrX2-ztz3uik.jpeg?alt=media&token=a226c495-d458-407d-8438-3605662e275f)
 To create amazing cloud native applications your platform needs these components: Kubernetes, Continuous Delivery Pipelines, Edge Stack, and Observability. This article will explain the importance of each component.
 
-### [90. How Internal Developer Platforms Impact Your DevOps Team Success](https://hackernoon.com/how-internal-developer-platforms-impact-your-devops-team-success-vp1g34iu)
+### [90. Enable Additional Logs in Azure Pipeline Execution With This Guide](https://hackernoon.com/enable-additional-logs-in-azure-pipeline-execution-with-this-guide)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ok02tkc.jpeg)
+Here we will learn how to enable the feature of getting additional logs.
+
+### [91. How Internal Developer Platforms Impact Your DevOps Team Success](https://hackernoon.com/how-internal-developer-platforms-impact-your-devops-team-success-vp1g34iu)
 ![](https://cdn.hackernoon.com/images/s7cbkotRvZVD8SlJOLe5Odjd5tg1-ab2m3znh.png)
 This article takes a look at DevOps under the hood, with a deep dive into the use of Internal Developer Platforms to improve self-service and developer workflow
 
-### [91. Configuring Bundler and Cocoapods for Xcode Cloud - A Quick Guide](https://hackernoon.com/configuring-bundler-and-cocoapods-for-xcode-cloud-a-quick-guide)
+### [92. Configuring Bundler and Cocoapods for Xcode Cloud - A Quick Guide](https://hackernoon.com/configuring-bundler-and-cocoapods-for-xcode-cloud-a-quick-guide)
 ![](https://cdn.hackernoon.com/images/jNAUqlGwtmQxcp6ZD2ZThzm7l6R2-j293smr.jpeg)
 How to Configure Bundler and Cocoapods for Xcode Cloud: A Comprehensive Guide
 
-### [92. 6 Incredible Productivity Tools for Programmers](https://hackernoon.com/6-incredible-productivity-tools-for-programmers-na2j33i0)
+### [93. 6 Incredible Productivity Tools for Programmers](https://hackernoon.com/6-incredible-productivity-tools-for-programmers-na2j33i0)
 ![](https://cdn.hackernoon.com/images/eZBVdYLNmrWE6T2SjFlyviCtzU62-ev2t2yc4.jpeg)
 Productivity is key when it comes to getting work done with a smile. Burndowns are natural, here is how to minimize them and keep hustling.
-
-### [93. Enable Additional Logs in Azure Pipeline Execution With This Guide](https://hackernoon.com/enable-additional-logs-in-azure-pipeline-execution-with-this-guide)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ok02tkc.jpeg)
-Here we will learn how to enable the feature of getting additional logs.
 
 ### [94. Basic Concepts in Kubernetes](https://hackernoon.com/basic-concepts-in-kubernetes)
 ![](https://cdn.hackernoon.com/images/m72bmcDdzHOrG3tFshlZQsYEzRn2-cf8310l.jpeg)
@@ -405,25 +409,25 @@ There are several circumstances where you need to know the IP of your current ma
 ![](https://hackernoon.com/images/Nx4D7w44LoYJrGfOa8EqoB3jcFE2-c51s3148.jpeg)
 Kubernetes (AKA K8s) is a platform implementing orchestration of containers in a cluster environment. In this article, we review Kubernetes & Containers.
 
-### [100. Yet Another Guide About Bash tricks](https://hackernoon.com/yet-another-guide-about-bash-tricks)
-![](https://cdn.hackernoon.com/images/qLR2YtmNmXZaUJh49E7BWmlwn0t1-fm8535pb.jpeg)
-If your work needs you to use Linux, these Bash Tips can save you plenty of time and effort in your day-to-day operations while streamlining your processes. 
-
-### [101. The Significance of CI/CD in Modern Software Development](https://hackernoon.com/the-significance-of-cicd-in-modern-software-development)
+### [100. The Significance of CI/CD in Modern Software Development](https://hackernoon.com/the-significance-of-cicd-in-modern-software-development)
 ![](https://cdn.hackernoon.com/images/merging-code-together-into-a-computer-zc3cc9jwwohsgvwgr218ditu.png)
 Explore the significance of CI/CD in modern software development. Discover how Continuous Integration and Continuous Deployment enhance software quality.
+
+### [101. How to Become a DevOps Engineer in 2022 (with Resources)](https://hackernoon.com/how-to-become-a-devops-engineer-in-2022-with-resources)
+![](https://cdn.hackernoon.com/images/q4jUepDWV5h0iWw9JO2xESWTeNz1-w6b3drt.jpeg)
+Want to become a DevOps Engineer? Here is a roadmap and resources to become a DevOps engineer.
 
 ### [102. Project-as-Code: The Catalyst DevOps Needs](https://hackernoon.com/project-as-code-the-catalyst-devops-needs-atu732wt)
 ![](https://cdn.hackernoon.com/images/bbtv32c9.jpg)
 If you are familiar with Docker, Terraform, and the CI platforms (eg: Jenkins, CircleCI, Codeship), you already know the power of Declarative DevOps. It can make development easier by being repeatable, predictable, and fast. Supporting technologies both hide complexities and offer important reuse by supporting simple structured syntax in an easy to create and read file. Each technology has codified much of its domain allowing developers to author and instrument with nothing more than a text editor. 
 
-### [103. How to Become a DevOps Engineer in 2022 (with Resources)](https://hackernoon.com/how-to-become-a-devops-engineer-in-2022-with-resources)
-![](https://cdn.hackernoon.com/images/q4jUepDWV5h0iWw9JO2xESWTeNz1-w6b3drt.jpeg)
-Want to become a DevOps Engineer? Here is a roadmap and resources to become a DevOps engineer.
-
-### [104. 6 Simple Steps to Import a Project to Azure Repos from Git](https://hackernoon.com/6-simple-steps-to-import-a-project-to-azure-repos-from-git-p53b338j)
+### [103. 6 Simple Steps to Import a Project to Azure Repos from Git](https://hackernoon.com/6-simple-steps-to-import-a-project-to-azure-repos-from-git-p53b338j)
 ![](https://cdn.hackernoon.com/images/aWeuhEqfLzNsvET8lSU6HiYqFYg1-4c7d32t8.jpeg)
 This article will explain how to import a project from Git to Azure Repos in 6 easy steps.
+
+### [104. Yet Another Guide About Bash tricks](https://hackernoon.com/yet-another-guide-about-bash-tricks)
+![](https://cdn.hackernoon.com/images/qLR2YtmNmXZaUJh49E7BWmlwn0t1-fm8535pb.jpeg)
+If your work needs you to use Linux, these Bash Tips can save you plenty of time and effort in your day-to-day operations while streamlining your processes. 
 
 ### [105. Why DevOps is Important for IT Businesses](https://hackernoon.com/why-devops-is-important-for-it-businesses)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-m593yas.jpeg)
@@ -433,25 +437,25 @@ Know everything about the different phases of devops lifecycle. This will enable
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-t282hab.png)
 Discover how Docker Scout identifies vulnerabilities in images and learn to fix high-severity CVEs, enhancing container security in this comprehensive guide.
 
-### [107. DevOps Tooling for Web 3.0: Building, Deploying, and Scaling Decentralized Applications](https://hackernoon.com/devops-tooling-for-web-30-building-deploying-and-scaling-decentralized-applications)
-![](https://cdn.hackernoon.com/images/interconnected-nodes-in-a-vacuum-b8jw5mqcx7k5qgcr1f7n6bk7.png)
-Web 3.0 development introduces a new dimension to the DevOps landscape which is characterized by decentralized architectures, smart contracts, and blockchain.
-
-### [108. Use LaunchDarkly to Quickly Implement Feature Flags](https://hackernoon.com/use-launchdarkly-to-quickly-implement-feature-flags)
+### [107. Use LaunchDarkly to Quickly Implement Feature Flags](https://hackernoon.com/use-launchdarkly-to-quickly-implement-feature-flags)
 ![](https://cdn.hackernoon.com/images/P5FtlmFUIjOAgCBWx0T4hoAAqvC3-oy92ino.jpeg)
 In this blog post explain what feature flags are and how to implement them using LaunchDarkly.
 
-### [109. How To Stay On Top Of Your Dependency Management](https://hackernoon.com/how-to-stay-on-top-of-your-dependency-management-8ls323n)
-![](https://cdn.hackernoon.com/drafts/4p1j8322u.png)
-Dependencies are exactly what it sounds like - things that you depend on. But take that undeniable statement into your software project and you soon find out that it’s not just you who depends on them. It’s entire teams, processes, projects, infrastructure, and, most important of all, your clients.
+### [108. How to Restrict Access to Kubernetes Services with GitHub OAuth2 Proxy](https://hackernoon.com/how-to-restrict-access-to-kubernetes-services-with-github-oauth2-proxy)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-v493p0i.jpeg)
+How to use OAuth2 Proxy to limit access of internal services only to members of your GitHub organization, with just two ingress annotations.
 
-### [110. Building a Multi-Language Monster Pipeline? Here’s the Smart Way to Do It](https://hackernoon.com/building-a-multi-language-monster-pipeline-heres-the-smart-way-to-do-it)
+### [109. Building a Multi-Language Monster Pipeline? Here’s the Smart Way to Do It](https://hackernoon.com/building-a-multi-language-monster-pipeline-heres-the-smart-way-to-do-it)
 ![](https://cdn.hackernoon.com/images/UqSSCuQ1CiNul1GetXHvGV8nJ3I2-ul038lu.png)
 Instead of forcing every team or process to use the same tech stack, build a modular, interoperable pipeline where each function operates independently.
 
-### [111. How to Restrict Access to Kubernetes Services with GitHub OAuth2 Proxy](https://hackernoon.com/how-to-restrict-access-to-kubernetes-services-with-github-oauth2-proxy)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-v493p0i.jpeg)
-How to use OAuth2 Proxy to limit access of internal services only to members of your GitHub organization, with just two ingress annotations.
+### [110. DevOps Tooling for Web 3.0: Building, Deploying, and Scaling Decentralized Applications](https://hackernoon.com/devops-tooling-for-web-30-building-deploying-and-scaling-decentralized-applications)
+![](https://cdn.hackernoon.com/images/interconnected-nodes-in-a-vacuum-b8jw5mqcx7k5qgcr1f7n6bk7.png)
+Web 3.0 development introduces a new dimension to the DevOps landscape which is characterized by decentralized architectures, smart contracts, and blockchain.
+
+### [111. How To Stay On Top Of Your Dependency Management](https://hackernoon.com/how-to-stay-on-top-of-your-dependency-management-8ls323n)
+![](https://cdn.hackernoon.com/drafts/4p1j8322u.png)
+Dependencies are exactly what it sounds like - things that you depend on. But take that undeniable statement into your software project and you soon find out that it’s not just you who depends on them. It’s entire teams, processes, projects, infrastructure, and, most important of all, your clients.
 
 ### [112. The Top 8 Registries for Containers  ](https://hackernoon.com/the-top-8-registries-for-containers)
 ![](https://cdn.hackernoon.com/images/xzGWqRsCCCcMmCRudhdkUodDI4h2-2p93p40.jpeg)
@@ -478,17 +482,17 @@ Join me as I journey through the AWS Cloud Resume Challenge. In this article (th
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-wi93lea.jpeg)
 Continuous monitoring gives organizations near-instantaneous feedback and insights into performance, environments, and interactions across the DevOps pipeline.
 
-### [118. A Brief Overview of Docker And Its Impact On The Development Ecosystem](https://hackernoon.com/a-brief-overview-of-docker-and-its-impact-on-the-development-ecosystem)
+### [118. How I Use Node.js for DevOps Scripting](https://hackernoon.com/how-i-use-nodejs-for-devops-scripting)
+![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-vc93rm0.jpeg)
+If you're using TypeScript/Node.js to write your application code, you should use them to write your DevOps scripts.
+
+### [119. A Brief Overview of Docker And Its Impact On The Development Ecosystem](https://hackernoon.com/a-brief-overview-of-docker-and-its-impact-on-the-development-ecosystem)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-9593pun.jpeg)
 Docker is an open-source containerizing platform for application services, codes, libraries, configurations, and other dependencies into one package.
 
-### [119. The Various Kinds of Software Tests ](https://hackernoon.com/the-various-kinds-of-software-tests)
+### [120. The Various Kinds of Software Tests ](https://hackernoon.com/the-various-kinds-of-software-tests)
 ![](https://cdn.hackernoon.com/images/9gE8Tr4eNOQs1QRV8GGfM1N6No73-02a3pdh.jpeg)
 In this post, I discuss automated and manual tests, and 2 common types of tests: functional and non-functional.
-
-### [120. How I Use Node.js for DevOps Scripting](https://hackernoon.com/how-i-use-nodejs-for-devops-scripting)
-![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-vc93rm0.jpeg)
-If you're using TypeScript/Node.js to write your application code, you should use them to write your DevOps scripts.
 
 ### [121. Automate EC2 Deployments on AWS with Terraform Modules](https://hackernoon.com/automate-ec2-deployments-on-aws-with-terraform-modules)
 ![](https://cdn.hackernoon.com/images/l82ukgORhpX0BcfZBklvH6MHceU2-7l23tey.jpeg)
@@ -510,316 +514,316 @@ Over 200 ex-Jenkins engineers shared their experience of migration to cloud CI. 
 ![](https://cdn.hackernoon.com/images/VeNIJRCvcqePHfCqciRDzTJm5D62-6c93jp1.jpeg)
 The role of DevOps engineers, their responsibilities, growth opportunities, a set of important soft & hard skills, and most importantly, DevOps trends in 2022.
 
-### [126. The Future Of DevOps: Continuous Design/Continuous Integration](https://hackernoon.com/the-future-of-devops-continuous-designcontinuous-integration-lc1e34r9)
-![](https://hackernoon.com/images/4VIcggRIeThKZhpWOm5Amv080hG2-ii1k3fcz.png)
-The interaction among many tools in the design & development space all point to a new emerging category: “Continuous Design / Continuous Integration" or "CD/CI"
+### [126. Everything you need to know about Helm – Part I](https://hackernoon.com/everything-you-need-to-know-about-helm---part-i)
+![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-cil135nb.jpeg)
+Helm is a package manager for Kubernetes.  In this tutorial we will explore Helm tasks, components, charts, and installations.
 
 ### [127. How to Define Service Level Objectives as Code to Enhance SRE](https://hackernoon.com/how-to-define-service-level-objectives-as-code-to-enhance-sre-01jt34wx)
 ![](https://cdn.hackernoon.com/images/bYofbIxVS1ayc3YlbwmDJGhEUbU2-9w573fhx.jpeg)
 This article introduces how you can define executable Service Level Objectives in code; and why this is such a powerful technique for SRE.
 
-### [128. Everything you need to know about Helm – Part I](https://hackernoon.com/everything-you-need-to-know-about-helm---part-i)
-![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-cil135nb.jpeg)
-Helm is a package manager for Kubernetes.  In this tutorial we will explore Helm tasks, components, charts, and installations.
+### [128. The Future Of DevOps: Continuous Design/Continuous Integration](https://hackernoon.com/the-future-of-devops-continuous-designcontinuous-integration-lc1e34r9)
+![](https://hackernoon.com/images/4VIcggRIeThKZhpWOm5Amv080hG2-ii1k3fcz.png)
+The interaction among many tools in the design & development space all point to a new emerging category: “Continuous Design / Continuous Integration" or "CD/CI"
 
-### [129. The Long and Winding Road to Kubernetes](https://hackernoon.com/the-long-and-winding-road-to-k8s-z53g3zr7)
-![](https://cdn.hackernoon.com/images/zn2s3zmt.jpg)
-A look at why enterprises are slow in moving to Kubernetes.
+### [129. How to Use the PostgreSQL Pager With MariaDB Xpand](https://hackernoon.com/how-to-use-the-postgresql-pager-with-mariadb-xpand)
+![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-6793rqe.jpeg)
+
 
 ### [130. Docker Image vs. Container: What Are the Differences?](https://hackernoon.com/docker-image-vs-container-what-are-the-differences)
 ![](https://cdn.hackernoon.com/images/wER5DOaiyHQO9ahodLZ5vysnJpu1-hs93vug.jpeg)
 Learning the difference between a Docker image vs container is a fundamental concept of containerization that you should understand.
 
-### [131. How to Build a High-Performance DevOps Toolchain ](https://hackernoon.com/how-to-build-a-high-performance-devops-toolchain)
+### [131. The Long and Winding Road to Kubernetes](https://hackernoon.com/the-long-and-winding-road-to-k8s-z53g3zr7)
+![](https://cdn.hackernoon.com/images/zn2s3zmt.jpg)
+A look at why enterprises are slow in moving to Kubernetes.
+
+### [132. How to Build a High-Performance DevOps Toolchain ](https://hackernoon.com/how-to-build-a-high-performance-devops-toolchain)
 ![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-zsa3pek.jpeg)
 Last week, the 2023 State of CD report was released. One of the many interesting sections in this year's report looked at DevOps-related technologies. 
-
-### [132. The $5 Billion DevOps Stranglehold](https://hackernoon.com/the-dollar5-billion-devops-stranglehold-zh3z3wha)
-![](https://cdn.hackernoon.com/images/rn434yjg.jpg)
-Ten years ago NewRelic, DataDog, Splunk, Dynatrace and SolarWinds built tools we loved to use. They were easy to implement and solved problems quickly and efficiently. Each company was known primarily for a single, well-conceived product. NewRelic’s APM. Splunk’s log file analyzer.  DataDog’s server monitor. SolarWinds’ network performance monitor. These companies were beloved by users during the 2000s.
 
 ### [133. DevOps Security: Challenges and Critical Best Practices](https://hackernoon.com/devops-security-challenges-and-critical-best-practices)
 ![](https://cdn.hackernoon.com/images/S3LpnfcK49UWrfKFxMp4NW7MmrI2-62a3z4h.jpeg)
 Explore DevOps security challenges and crucial best practices to protect your software pipeline effectively. Dive in and fortify your DevOps processes!
 
-### [134. I Got a New EKS Cluster Running And Terraform Code in 2 minutes](https://hackernoon.com/i-got-a-new-eks-cluster-running-and-terraform-code-in-2-minutes-ox7v36xr)
+### [134. The $5 Billion DevOps Stranglehold](https://hackernoon.com/the-dollar5-billion-devops-stranglehold-zh3z3wha)
+![](https://cdn.hackernoon.com/images/rn434yjg.jpg)
+Ten years ago NewRelic, DataDog, Splunk, Dynatrace and SolarWinds built tools we loved to use. They were easy to implement and solved problems quickly and efficiently. Each company was known primarily for a single, well-conceived product. NewRelic’s APM. Splunk’s log file analyzer.  DataDog’s server monitor. SolarWinds’ network performance monitor. These companies were beloved by users during the 2000s.
+
+### [135. Your Linux OS has a Chaos Engine - and Nobody Told You](https://hackernoon.com/your-linux-os-has-a-chaos-engine-and-nobody-told-you)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8q8231i.jpeg)
+Linux has shipped a built-in network chaos simulator since kernel 2.6. No install required.
+
+### [136. A Beginner's Guide to AWS Containers - Part 2 ](https://hackernoon.com/a-beginners-guide-to-aws-containers-part-2)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-tf93rzp.png)
+In this 2 part series blog post, you will go through a step-by-guide to understanding the concepts of Containers. 
+
+### [137. I Got a New EKS Cluster Running And Terraform Code in 2 minutes](https://hackernoon.com/i-got-a-new-eks-cluster-running-and-terraform-code-in-2-minutes-ox7v36xr)
 ![](https://cdn.hackernoon.com/images/n72o1369y.jpg)
 AWS EKS + Terraform + Cloudskiff do the job
 
-### [135. How to Use the PostgreSQL Pager With MariaDB Xpand](https://hackernoon.com/how-to-use-the-postgresql-pager-with-mariadb-xpand)
-![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-6793rqe.jpeg)
-
-
-### [136. Running a Docker Container: An Intro for Beginners ](https://hackernoon.com/running-a-docker-container-an-intro-for-beginners)
+### [138. Running a Docker Container: An Intro for Beginners ](https://hackernoon.com/running-a-docker-container-an-intro-for-beginners)
 ![](https://cdn.hackernoon.com/images/wER5DOaiyHQO9ahodLZ5vysnJpu1-8e93qqf.jpeg)
 Learning how to run a Docker container is a key skill that all DevOps engineers must understand to be effective in managing containers.
 
-### [137. The Benefits and Challenges of Implementing DevSecOps](https://hackernoon.com/devsecops-and-secure-software-development-practices-in-the-context-of-modern-challenges)
+### [139. The Benefits and Challenges of Implementing DevSecOps](https://hackernoon.com/devsecops-and-secure-software-development-practices-in-the-context-of-modern-challenges)
 ![](https://cdn.hackernoon.com/images/jxATC86KARbX8vedj5ZBj31IElB3-15a3xxa.png)
 I discuss DevSecOps in current realities. I discuss SCA, MAST, Container Security, ASOC, API Security Testing, Chaos Engineering, SBOM, Policy-as-Code, and more
-
-### [138. The Relationship between DevOps and Platform Engineering](https://hackernoon.com/the-relationship-between-devops-and-platform-engineering)
-![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-ck93o5f.jpeg)
-In this post, you discover where platform engineering fits into your broader software delivery process. 
-
-### [139. What Is The True Cost of Using Public APIs](https://hackernoon.com/what-is-the-true-cost-of-using-public-apis-lz7x3wn7)
-![](https://cdn.hackernoon.com/images/jf1f3wii.gif)
-How ubiquitous are APIs in today’s development processes? Try asking an engineer how many APIs their project integrates. Most teams won’t know the answer. From analytics tools to maps and cloud hosting, modern applications use a hefty collection of internal and public APIs. Developers use these to quickly assemble applications that would otherwise take much more effort to build. However, there’s a forgotten expense not typically calculated early in a project.
 
 ### [140. Scaling Styling Roadblocks Caused by Astro Islands and Slots](https://hackernoon.com/scaling-styling-roadblocks-caused-by-astro-islands-and-slots)
 ![](https://cdn.hackernoon.com/images/TrD4DzyJu6g677bJSu6xzJ3TxA12-0lb365z.jpeg)
 Astro islands and slots cause styling frustrations because they use the display:contents style. This article shows you how to overcome these frustrations. 
 
-### [141. Tracing: An Essential Component of Observability](https://hackernoon.com/tracing-an-essential-component-of-observability)
-![](https://cdn.hackernoon.com/images/generate-an-image-of-a-computer-system-that-has-been-pieced-apart-clesgl7go000001s6889x7wk5.png)
-In this article, I am going to shed light on one important aspect of observability - tracing.
+### [141. The Relationship between DevOps and Platform Engineering](https://hackernoon.com/the-relationship-between-devops-and-platform-engineering)
+![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-ck93o5f.jpeg)
+In this post, you discover where platform engineering fits into your broader software delivery process. 
 
-### [142. 8 Debugging Techniques for Dev & Ops Teams](https://hackernoon.com/8-debugging-techniques-for-dev-and-ops-teams)
-![](https://cdn.hackernoon.com/images/ndmRTSZBXSSVUlE4TsO4u09ZOkO2-7k93om7.jpeg)
-This blog highlights eight debugging techniques that will help Software engineers adopt the DevOps approach to debugging a code.
-
-### [143. A Beginner's Guide to AWS Containers - Part 2 ](https://hackernoon.com/a-beginners-guide-to-aws-containers-part-2)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-tf93rzp.png)
-In this 2 part series blog post, you will go through a step-by-guide to understanding the concepts of Containers. 
-
-### [144. Is Redis the Ultimate Database? Meet the Scalable, Durable, Always-On Powerhouse for Complex Apps](https://hackernoon.com/is-redis-the-ultimate-database-meet-the-scalable-durable-always-on-powerhouse-for-complex-apps)
+### [142. Is Redis the Ultimate Database? Meet the Scalable, Durable, Always-On Powerhouse for Complex Apps](https://hackernoon.com/is-redis-the-ultimate-database-meet-the-scalable-durable-always-on-powerhouse-for-complex-apps)
 ![](https://cdn.hackernoon.com/images/2czVC8uP1VPm8FCbX6aJ9WTneIi1-6x934c8.png)
 Redis is an in-memory database that can be used to store and persist multiple data formats for complex applications.
 
-### [145. Simplifying the Linux Directory Structure [Part 1] ](https://hackernoon.com/simplifying-the-linux-directory-structure-part-1)
+### [143. 8 Debugging Techniques for Dev & Ops Teams](https://hackernoon.com/8-debugging-techniques-for-dev-and-ops-teams)
+![](https://cdn.hackernoon.com/images/ndmRTSZBXSSVUlE4TsO4u09ZOkO2-7k93om7.jpeg)
+This blog highlights eight debugging techniques that will help Software engineers adopt the DevOps approach to debugging a code.
+
+### [144. What Is The True Cost of Using Public APIs](https://hackernoon.com/what-is-the-true-cost-of-using-public-apis-lz7x3wn7)
+![](https://cdn.hackernoon.com/images/jf1f3wii.gif)
+How ubiquitous are APIs in today’s development processes? Try asking an engineer how many APIs their project integrates. Most teams won’t know the answer. From analytics tools to maps and cloud hosting, modern applications use a hefty collection of internal and public APIs. Developers use these to quickly assemble applications that would otherwise take much more effort to build. However, there’s a forgotten expense not typically calculated early in a project.
+
+### [145. Tracing: An Essential Component of Observability](https://hackernoon.com/tracing-an-essential-component-of-observability)
+![](https://cdn.hackernoon.com/images/generate-an-image-of-a-computer-system-that-has-been-pieced-apart-clesgl7go000001s6889x7wk5.png)
+In this article, I am going to shed light on one important aspect of observability - tracing.
+
+### [146. Simplifying the Linux Directory Structure [Part 1] ](https://hackernoon.com/simplifying-the-linux-directory-structure-part-1)
 ![](https://cdn.hackernoon.com/images/NF5eTsbgaMfLdwiUQEx95eJF7792-e892r84.jpeg)
 Linux operating systems run nearly 90% of the world's servers and micro-computers in smart devices. Let's take a look at why.
 
-### [146. Should Deploying Production Infrastructure be Hard?](https://hackernoon.com/deploying-production-infrastructure-should-it-be-hard-ad5ze3288)
+### [147. Should Deploying Production Infrastructure be Hard?](https://hackernoon.com/deploying-production-infrastructure-should-it-be-hard-ad5ze3288)
 ![](https://cdn.hackernoon.com/images/79l324r.jpg)
 Below I'll explain why I built terra_boi to deploy Clientelify, why I think it was downloaded 1,000 times in the first 10 days (despite not promoting it anywhere), and why deploying an application to production shouldn't suck.
 
-### [147. What is Docker and How to Get Started With It](https://hackernoon.com/what-is-docker-and-how-to-get-started-with-it-4l4c3w6j)
+### [148. What is Docker and How to Get Started With It](https://hackernoon.com/what-is-docker-and-how-to-get-started-with-it-4l4c3w6j)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-ix63z58.jpeg?alt=media&token=021bcb8a-cd3a-47c4-90cb-aa0824b83060)
 Containers have been around in Linux for years. It a concept where one or more processes are isolated from the rest of the system. The containers have all the files they need to run those processes independent of the system, which is why they have become a commonly used tool for deployments. 
-
-### [148. 15 Highly-Rated DevOps Tools for 2022](https://hackernoon.com/15-highly-rated-devops-tools-for-2022)
-![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-vb93hcu.jpeg)
-This article looks at the top CI/CD, automation, orchestration, and other DevOps pipeline tools to give you a detailed list of our Top 15 DevOps tools in 2022.
 
 ### [149. How to Extend your DevOps Strategy For Success in the Cloud?](https://hackernoon.com/how-to-extend-your-devops-strategy-for-success-in-the-cloud-col3wee)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaKVyFcm6oebAVT28NhUyOgQe03G2-3r2m3tx0.jpeg?alt=media&token=13c48a56-1aef-4e91-9d84-f37bdf44c07a)
 DevOps and Cloud computing are joined at the hip, now that fact is well appreciated by the organizations that engaged in SaaS cloud and developed applications in the Cloud. During the COVID crisis period, most of the organizations have started using cloud computing services and implementing a cloud-first strategy to establish their remote operations. Similarly, the extended DevOps strategy will make the development process more agile with automated test cases.
 
-### [150. 7 DevOps Myths - Busted](https://hackernoon.com/7-devops-myths-busted-02p3t1c)
+### [150. 15 Highly-Rated DevOps Tools for 2022](https://hackernoon.com/15-highly-rated-devops-tools-for-2022)
+![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-vb93hcu.jpeg)
+This article looks at the top CI/CD, automation, orchestration, and other DevOps pipeline tools to give you a detailed list of our Top 15 DevOps tools in 2022.
+
+### [151. 7 DevOps Myths - Busted](https://hackernoon.com/7-devops-myths-busted-02p3t1c)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmiB88BPVahfVYAbDq8M1r2mExvn2-tj2a3u55.jpeg?alt=media&token=37f2f7c0-860f-41a4-9798-fcfeefab2d3c)
 There are plenty of DevOps myths circulating the developers’ community. This is no surprise, considering how much excitement the DevOps concept has brought over the recent years.
 
-### [151. Revealed: The Most Important DevOps Tools For Newbies](https://hackernoon.com/revealed-the-most-important-devops-tools-for-newbies)
+### [152. Revealed: The Most Important DevOps Tools For Newbies](https://hackernoon.com/revealed-the-most-important-devops-tools-for-newbies)
 ![](https://cdn.hackernoon.com/images/INL4cGxrwnR0r7FDyWTj45Z5Oxy1-zo92g1o.jpeg)
 DevOps is practice/tools to run the services and applications on Cloud infrastructure. Scripting,git,Jenkins,Ansible/Puppet/Chef,Docker,GCP,AWS,Azure
 
-### [152. DevOps Practices for Software Engineers to Learn](https://hackernoon.com/devops-practices-for-software-engineers-to-learn-z32y35ao)
-![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-qb1s39s5.jpeg)
-In this world of cross-functional teams and microservice architecture, DevOps skills become increasingly important, and that starts with understanding CI/CD
-
-### [153. Improving Security in your Microservices Architecture with Istio](https://hackernoon.com/improving-security-in-your-microservices-architecture-with-istio)
-![](https://cdn.hackernoon.com/images/maEb7A0NgUU58vvWoqJZ6nug0Ik1-3y63aqx.jpeg)
-Security in a microservice architecture with Istio 1.12
+### [153. Mastering Python Script Scheduling: Pitfalls and Solutions](https://hackernoon.com/mastering-python-script-scheduling-pitfalls-and-solutions)
+![](https://cdn.hackernoon.com/images/84ZCjra5FfMF1apf1D13Walroqo2-1092wns.jpeg)
+This article is about pitfalls, solutions, and what I've come to in scheduling Python scripts
 
 ### [154. DevOpsDays 2023 Prague Was a Blast](https://hackernoon.com/devopsdays-2023-prague-was-a-blast)
 ![](https://cdn.hackernoon.com/images/3O6oKhmVHLPgbBNX2t1sXDLzMPw2-gr92iwj.jpeg)
 A visitor report of my experience during the DevOpsDays 2023 in Prague.
 
-### [155. Mastering Python Script Scheduling: Pitfalls and Solutions](https://hackernoon.com/mastering-python-script-scheduling-pitfalls-and-solutions)
-![](https://cdn.hackernoon.com/images/84ZCjra5FfMF1apf1D13Walroqo2-1092wns.jpeg)
-This article is about pitfalls, solutions, and what I've come to in scheduling Python scripts
+### [155. DevOps Practices for Software Engineers to Learn](https://hackernoon.com/devops-practices-for-software-engineers-to-learn-z32y35ao)
+![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-qb1s39s5.jpeg)
+In this world of cross-functional teams and microservice architecture, DevOps skills become increasingly important, and that starts with understanding CI/CD
 
-### [156. Amazon Elastic Kubernetes Service (EKS) vs. Azure Kubernetes Service (AKS), A Comparison](https://hackernoon.com/amazon-elastic-kubernetes-service-eks-vs-azure-kubernetes-service-aks-a-comparison)
+### [156. Improving Security in your Microservices Architecture with Istio](https://hackernoon.com/improving-security-in-your-microservices-architecture-with-istio)
+![](https://cdn.hackernoon.com/images/maEb7A0NgUU58vvWoqJZ6nug0Ik1-3y63aqx.jpeg)
+Security in a microservice architecture with Istio 1.12
+
+### [157. Amazon Elastic Kubernetes Service (EKS) vs. Azure Kubernetes Service (AKS), A Comparison](https://hackernoon.com/amazon-elastic-kubernetes-service-eks-vs-azure-kubernetes-service-aks-a-comparison)
 ![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-pn037bb.jpeg)
 Managed Kubernetes is experiencing massive growth in adoption and many organizations are moving their self-managed Kubernetes clusters.
 
-### [157. How Devops Fits In the Fintech World](https://hackernoon.com/how-devops-fits-in-the-fintech-world)
+### [158. How Devops Fits In the Fintech World](https://hackernoon.com/how-devops-fits-in-the-fintech-world)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-vd93of0.jpeg)
 In this article, we’ll explore how DevOps fits into a FinTech world. We’ll look at the approach you should take in developing your unique DevOps culture.
 
-### [158. Implement Your Own Tool Using HCL (Part 2) ](https://hackernoon.com/implement-your-own-tool-using-hcl-part-2)
+### [159. Implement Your Own Tool Using HCL (Part 2) ](https://hackernoon.com/implement-your-own-tool-using-hcl-part-2)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-r693vci.jpeg)
 This is the second part of my HCL series. 
-
-### [159. We're The DevOps Workflow You Were Promised](https://hackernoon.com/were-the-devops-workflow-you-were-promised-i43y33k6)
-![](https://cdn.hackernoon.com/images/19X8ryJRpnWHoRC3YXWrOhkPeF43-0s2h3fac.png)
-host a monolith or microservice-based application; enterprises can layer the platform into their own private cloud cluster on kubernetes
 
 ### [160. Are Your CICD and DevOps Tools Really Helping Developers? ](https://hackernoon.com/are-your-cicd-and-devops-tools-really-helping-developers)
 ![](https://cdn.hackernoon.com/images/5LsVg4XJOmUa8l8P62L80MH0aJx1-ak93k21.jpeg)
 If you are responsible for your team’s CICD and DevOps tools, have you ever asked yourself if the tools you built are really making developers’ lives easier? 
 
-### [161. Measuring DevOps Metrics: A How-To Guide](https://hackernoon.com/measuring-devops-metrics-a-how-to-guide-ot113ztl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-ur73wkv.jpeg?alt=media&token=e8ffb359-4160-42f2-aac8-802dc2a6c501)
-DevOps is supposed to help streamline the process of taking code changes and getting them to production for users to enjoy. But what exactly does it mean for the process to be "streamlined"? One way to answer this is to start measuring metrics.
+### [161. We're The DevOps Workflow You Were Promised](https://hackernoon.com/were-the-devops-workflow-you-were-promised-i43y33k6)
+![](https://cdn.hackernoon.com/images/19X8ryJRpnWHoRC3YXWrOhkPeF43-0s2h3fac.png)
+host a monolith or microservice-based application; enterprises can layer the platform into their own private cloud cluster on kubernetes
 
 ### [162. 7 Common Misconceptions about DevOps Metrics](https://hackernoon.com/7-common-misconceptions-about-devops-metrics)
 ![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-n6a3osw.png)
 Metrics are crucial to DevOps and Continuous Delivery as part of the process of continuous improvement. However, you must balance collecting and displaying data
 
-### [163. Creating a Successful DevOps Strategy for Web3](https://hackernoon.com/creating-a-successful-devops-strategy-for-web3)
-![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-lf92pjq.jpeg)
-Exploring the tools that bring DevOps methodologies and practices to web3 development. 
-
-### [164. A Quick Guide For Creating a Serverless Application with AWS Lambda and API Gateway](https://hackernoon.com/a-quick-guide-for-creating-a-serverless-application-with-aws-lambda-and-api-gateway)
+### [163. A Quick Guide For Creating a Serverless Application with AWS Lambda and API Gateway](https://hackernoon.com/a-quick-guide-for-creating-a-serverless-application-with-aws-lambda-and-api-gateway)
 ![](https://cdn.hackernoon.com/images/uxL6qPzHtYSIO6VSowClROvyZ2Z2-wf93sah.jpeg)
 This guide provides a quick walkthrough of constructing a serverless application leveraging potent AWS services.
 
-### [165. Mobile DevOps Engineer Trends](https://hackernoon.com/mobile-devops-engineer-trends)
-![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-1lc3r57.jpeg)
-Crowned the most coveted occupation in 2021, the ‘DevOps Engineer’ has been instrumental in the growth of the DevOps market. 
+### [164. Measuring DevOps Metrics: A How-To Guide](https://hackernoon.com/measuring-devops-metrics-a-how-to-guide-ot113ztl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-ur73wkv.jpeg?alt=media&token=e8ffb359-4160-42f2-aac8-802dc2a6c501)
+DevOps is supposed to help streamline the process of taking code changes and getting them to production for users to enjoy. But what exactly does it mean for the process to be "streamlined"? One way to answer this is to start measuring metrics.
+
+### [165. Creating a Successful DevOps Strategy for Web3](https://hackernoon.com/creating-a-successful-devops-strategy-for-web3)
+![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-lf92pjq.jpeg)
+Exploring the tools that bring DevOps methodologies and practices to web3 development. 
 
 ### [166. 67 Stories To Learn About Devops Principles](https://hackernoon.com/67-stories-to-learn-about-devops-principles)
 ![](https://cdn.hackernoon.com/images/github/devops-principles-788.png)
 Learn everything you need to know about Devops Principles via these 67 free HackerNoon stories.
 
-### [167. The ABC of DevOps Implementation with Containerization and Docker](https://hackernoon.com/the-abc-of-devops-implementation-with-containerization-and-docker-st1332l7)
-![](https://cdn.hackernoon.com/drafts/4qry32v0.png)
-DevOps is a rage in the IT industry. 
+### [167. Mobile DevOps Engineer Trends](https://hackernoon.com/mobile-devops-engineer-trends)
+![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-1lc3r57.jpeg)
+Crowned the most coveted occupation in 2021, the ‘DevOps Engineer’ has been instrumental in the growth of the DevOps market. 
 
-### [168. Why DevOps Is Important During the COVID-19 Pandemic](https://hackernoon.com/why-devops-is-important-during-the-covid-19-pandemic-6u1i3tul)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmLOAGQJTmpeiJtuqE6akzQVrPnY2-axl3t6i.jpeg?alt=media&token=e9cc877d-d1c4-4ac6-a080-b3310e1d26fe)
-Disruption is the name of the game these days, from current remote work settings due to COVID-19 to even more normal, every-day disruptions (like the process of moving and renovating a home, which I’m currently experiencing first-hand). As a habit-driven developer myself, I have come to the realization that the stable work environment I’ve come to rely on is no more. 
-
-### [169. DevOps, CI/CD, and Containerization: Key to Streamline Software Delivery](https://hackernoon.com/devops-cicd-and-containerization-key-to-streamline-software-delivery)
+### [168. DevOps, CI/CD, and Containerization: Key to Streamline Software Delivery](https://hackernoon.com/devops-cicd-and-containerization-key-to-streamline-software-delivery)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-vu93nao.jpeg)
 Take your organization to new heights with DevOps, CI/CD, and Containerization. Uncover the knowledge about these cutting-edge technologies in an impactful way.
 
-### [170. GitOps. GitOps? What is GitOps?](https://hackernoon.com/gitops-gitops-what-is-gitops)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-3b03nkt.jpeg)
-In this blog we will try to answer all your pressing questions about GitOps and find out how it can help you in the software delivery process.
+### [169. The ABC of DevOps Implementation with Containerization and Docker](https://hackernoon.com/the-abc-of-devops-implementation-with-containerization-and-docker-st1332l7)
+![](https://cdn.hackernoon.com/drafts/4qry32v0.png)
+DevOps is a rage in the IT industry. 
 
-### [171. Your Linux OS has a Chaos Engine - and Nobody Told You](https://hackernoon.com/your-linux-os-has-a-chaos-engine-and-nobody-told-you)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8q8231i.jpeg)
-Linux has shipped a built-in network chaos simulator since kernel 2.6. No install required.
-
-### [172. The Necessity for DevOps Improvement in Government](https://hackernoon.com/the-necessity-for-devops-improvement-in-government)
+### [170. The Necessity for DevOps Improvement in Government](https://hackernoon.com/the-necessity-for-devops-improvement-in-government)
 ![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-i0a3ps6.jpeg)
 DevOps provides a collaborative approach to development and operations so government IT can adapt to today’s challenges and prepare for new digital threats.
 
-### [173. 7 Ways AI is Transforming DevOps](https://hackernoon.com/7-ways-ai-is-transforming-devops)
-![](https://cdn.hackernoon.com/images/h3xSiiZTmOSTZyrfzYGqw7Pe3rC2-rh93j9j.jpeg)
-In this article, we will see how AI is transforming the DevOps universe.
+### [171. GitOps. GitOps? What is GitOps?](https://hackernoon.com/gitops-gitops-what-is-gitops)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-3b03nkt.jpeg)
+In this blog we will try to answer all your pressing questions about GitOps and find out how it can help you in the software delivery process.
 
-### [174. Advanced CI/CD for Android projects using Bitbucket and Bitrise](https://hackernoon.com/advanced-cicd-for-android-projects-using-bitbucket-and-bitrise-s8813y3r)
-![](https://cdn.hackernoon.com/images/xc413yx6.jpg)
+### [172. Why DevOps Is Important During the COVID-19 Pandemic](https://hackernoon.com/why-devops-is-important-during-the-covid-19-pandemic-6u1i3tul)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmLOAGQJTmpeiJtuqE6akzQVrPnY2-axl3t6i.jpeg?alt=media&token=e9cc877d-d1c4-4ac6-a080-b3310e1d26fe)
+Disruption is the name of the game these days, from current remote work settings due to COVID-19 to even more normal, every-day disruptions (like the process of moving and renovating a home, which I’m currently experiencing first-hand). As a habit-driven developer myself, I have come to the realization that the stable work environment I’ve come to rely on is no more. 
 
-
-### [175. Optimizing Agents In Devops Architecture ](https://hackernoon.com/optimizing-agents-in-devops-architecture)
-![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-devops-architecture-bpdzqzgj7puyudm0fw8myuxu.png)
-Agents are processing units that are used to execute a task within a job. These agents are widely used for Devops purpose.
-
-### [176. DevOps as-a-Service OR Do you Really Need a DevOps Team](https://hackernoon.com/devops-as-a-service-or-do-you-really-need-a-devops-team-cc4q32wj)
-![](drafts/ars03yeh.png)
-DevOps as a service is a rising philosophy in purpose development. DevOps as a method moves customary teamwork to development and process team to the make unclear, where lots of the method can be robotic using stackable virtual expansion tools. 
-
-### [177. Globalping - A Community-Powered Global Network Testing Platform - Is Officially Live!](https://hackernoon.com/globalping-a-community-powered-global-network-testing-platform-is-officially-live)
+### [173. Globalping - A Community-Powered Global Network Testing Platform - Is Officially Live!](https://hackernoon.com/globalping-a-community-powered-global-network-testing-platform-is-officially-live)
 ![](https://cdn.hackernoon.com/images/network-connecting-the-world-clinoez2g000101s6d4uth4yy.png)
 A modern RIPE Atlas alternative goes live helping anyone run network tests and latency benchmarks with amazing UI and UX. Fully open source.
 
-### [178. Job Cycle and on Demand Tools of Devops Programming Engineer ](https://hackernoon.com/job-cycle-and-on-demand-tools-of-devops-programming-engineer-6zpq31ju)
-![](https://cdn.hackernoon.com/images/4iJ6w94h3GOudtBc9kEOPUxDjvk2-t71934ao.jpeg)
-What are the roles and responsibilities of DevOps engineer.
+### [174. 7 Ways AI is Transforming DevOps](https://hackernoon.com/7-ways-ai-is-transforming-devops)
+![](https://cdn.hackernoon.com/images/h3xSiiZTmOSTZyrfzYGqw7Pe3rC2-rh93j9j.jpeg)
+In this article, we will see how AI is transforming the DevOps universe.
 
-### [179. The DevOps Tools to Optimize your Workflow](https://hackernoon.com/the-devops-tools-to-optimize-your-workflow)
+### [175. Advanced CI/CD for Android projects using Bitbucket and Bitrise](https://hackernoon.com/advanced-cicd-for-android-projects-using-bitbucket-and-bitrise-s8813y3r)
+![](https://cdn.hackernoon.com/images/xc413yx6.jpg)
+
+
+### [176. Optimizing Agents In Devops Architecture ](https://hackernoon.com/optimizing-agents-in-devops-architecture)
+![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-devops-architecture-bpdzqzgj7puyudm0fw8myuxu.png)
+Agents are processing units that are used to execute a task within a job. These agents are widely used for Devops purpose.
+
+### [177. The DevOps Tools to Optimize your Workflow](https://hackernoon.com/the-devops-tools-to-optimize-your-workflow)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ev93yaf.jpeg)
 Want to take a laugh at yet another boring list, right? I’ll try to surprise you with a list of unique tools that you probably still don’t know!
 
-### [180. New Opensource Tool for One Command Server Deployment and Automation](https://hackernoon.com/new-opensource-tool-for-one-command-server-deployment-and-automation)
-![](https://cdn.hackernoon.com/images/ZjRlVwy9Sccuf8wlwT0EE4D320U2-ci023q4.jpeg)
-CICD -- An one command server deployment tool with lots of features.
+### [178. DevOps as-a-Service OR Do you Really Need a DevOps Team](https://hackernoon.com/devops-as-a-service-or-do-you-really-need-a-devops-team-cc4q32wj)
+![](drafts/ars03yeh.png)
+DevOps as a service is a rising philosophy in purpose development. DevOps as a method moves customary teamwork to development and process team to the make unclear, where lots of the method can be robotic using stackable virtual expansion tools. 
 
-### [181. CI/CD Isn't Just About Efficiency](https://hackernoon.com/cicd-isnt-just-about-efficiency)
+### [179. Job Cycle and on Demand Tools of Devops Programming Engineer ](https://hackernoon.com/job-cycle-and-on-demand-tools-of-devops-programming-engineer-6zpq31ju)
+![](https://cdn.hackernoon.com/images/4iJ6w94h3GOudtBc9kEOPUxDjvk2-t71934ao.jpeg)
+What are the roles and responsibilities of DevOps engineer.
+
+### [180. CI/CD Isn't Just About Efficiency](https://hackernoon.com/cicd-isnt-just-about-efficiency)
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-g593pik.jpeg)
 I’d like to talk about something we don’t bring up quite as often.
 
 Put simply, CI/CD makes us happy.
 
-### [182. Automate AEM Offline Revision Cleanup with This Powerful Bash Script](https://hackernoon.com/automate-aem-offline-revision-cleanup-with-this-powerful-bash-script)
-![](https://cdn.hackernoon.com/images/0xdv1H3SiLXiSmbJdxrqlY0JO5I2-8s13203.png)
-Automate AEM Offline Revision Cleanup with a script that transforms manual maintenance into a one-command operation with built-in safety checks and monitoring.
+### [181. New Opensource Tool for One Command Server Deployment and Automation](https://hackernoon.com/new-opensource-tool-for-one-command-server-deployment-and-automation)
+![](https://cdn.hackernoon.com/images/ZjRlVwy9Sccuf8wlwT0EE4D320U2-ci023q4.jpeg)
+CICD -- An one command server deployment tool with lots of features.
 
-### [183. The Importance of DevOps in Mobile App Development](https://hackernoon.com/the-importance-of-devops-in-mobile-app-development-xu2m3wyk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-d4263w2z.jpeg?alt=media&token=c5b21290-b3bb-4bee-b7f3-70cd64cf448f)
-DevOps is growing vital in modern application development, operations, testing, and delivery. It is no longer a niche strategy. DevOps methodology is embraced by a quarter of leading names in the Forbes Global 2000 list. The mobile application connected with DevOps bridges the gap between development and operations. It emphasises over communication and collaboration, constant integration, QA, and delivery with automatic deployment. The developing, testing, releasing, and upgrading of mobile apps can occur swiftly and more certainly.
-
-### [184. Top 12 DevOps Tools for your DevOps Implementation Plan](https://hackernoon.com/top-12-devops-tools-for-your-devops-implementation-plan-hk2r32kp)
-![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-bk83bwi.jpeg)
-DevOps is a software development and delivery process that helps in emphasizing communication along with cross-functional collaboration between product management, software development, and operations professionals.
-
-### [185. How to Find the Right DevOps Tools for the Project](https://hackernoon.com/how-to-find-the-right-devops-tools-for-the-project)
-![](https://cdn.hackernoon.com/images/HJwyizs8gcdYUffhoL3YJr8gfh22-azc3y5a.jpeg)
-Explaining precisely why generic compilations of the 'Top 10 DevOps Tools' may not effectively address specific use cases.
-
-### [186. How Infrastructure as Code Is Forcing a Revolution in Cost Management](https://hackernoon.com/how-infrastructure-as-code-is-forcing-a-revolution-in-cost-management-gd6r3vt7)
-![](https://cdn.hackernoon.com/images/0jo3yaw.jpg)
-You might have read our beta launch blog post, which describes how Infrastructure as Code (IaC) is driving the third datacenter revolution (the first two being virtualization and the move to public clouds). In this post, I want to go deeper into looking at how IaC is driving a new need and approach to cost visibility and management.
-
-### [187. Reverse Engineering the AI Supply Chain: Why Regex Won't Save Your PyTorch Models](https://hackernoon.com/reverse-engineering-the-ai-supply-chain-why-regex-wont-save-your-pytorch-models)
+### [182. Reverse Engineering the AI Supply Chain: Why Regex Won't Save Your PyTorch Models](https://hackernoon.com/reverse-engineering-the-ai-supply-chain-why-regex-wont-save-your-pytorch-models)
 ![](https://cdn.hackernoon.com/images/GmYF0fRjjzf66dxUi7kwMNErJgv1-et13a4i.png)
 Stop blindly trusting AI models. Veritensor is an open-source CLI that detects RCE malware in Pickle/PyTorch files and verifies Hugging Face integrity. 
 
-### [188. Chaos Engineering: What You Don't Know](https://hackernoon.com/chaos-engineering-what-you-dont-know-h6133zr0)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-ng73zkt.jpeg?alt=media&token=c0ec8b7c-b5b5-4367-8f30-722884a58101)
-With cloud native applications, there's always a chance that something could interrupt your services. Maybe a wire gets unplugged and that brings down your server or one of your services loses network connections that you depend on.
+### [183. What is MLOps and How Kubernetes can Help](https://hackernoon.com/what-is-mlops-and-how-kubernetes-can-help)
+![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-n9035oc.jpeg)
+ Why is #Kubernetes so important for MLOps? Find out in our blog post below. 
+
+
+### [184. Automate AEM Offline Revision Cleanup with This Powerful Bash Script](https://hackernoon.com/automate-aem-offline-revision-cleanup-with-this-powerful-bash-script)
+![](https://cdn.hackernoon.com/images/0xdv1H3SiLXiSmbJdxrqlY0JO5I2-8s13203.png)
+Automate AEM Offline Revision Cleanup with a script that transforms manual maintenance into a one-command operation with built-in safety checks and monitoring.
+
+### [185. How Infrastructure as Code Is Forcing a Revolution in Cost Management](https://hackernoon.com/how-infrastructure-as-code-is-forcing-a-revolution-in-cost-management-gd6r3vt7)
+![](https://cdn.hackernoon.com/images/0jo3yaw.jpg)
+You might have read our beta launch blog post, which describes how Infrastructure as Code (IaC) is driving the third datacenter revolution (the first two being virtualization and the move to public clouds). In this post, I want to go deeper into looking at how IaC is driving a new need and approach to cost visibility and management.
+
+### [186. The Importance of DevOps in Mobile App Development](https://hackernoon.com/the-importance-of-devops-in-mobile-app-development-xu2m3wyk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-d4263w2z.jpeg?alt=media&token=c5b21290-b3bb-4bee-b7f3-70cd64cf448f)
+DevOps is growing vital in modern application development, operations, testing, and delivery. It is no longer a niche strategy. DevOps methodology is embraced by a quarter of leading names in the Forbes Global 2000 list. The mobile application connected with DevOps bridges the gap between development and operations. It emphasises over communication and collaboration, constant integration, QA, and delivery with automatic deployment. The developing, testing, releasing, and upgrading of mobile apps can occur swiftly and more certainly.
+
+### [187. How to Find the Right DevOps Tools for the Project](https://hackernoon.com/how-to-find-the-right-devops-tools-for-the-project)
+![](https://cdn.hackernoon.com/images/HJwyizs8gcdYUffhoL3YJr8gfh22-azc3y5a.jpeg)
+Explaining precisely why generic compilations of the 'Top 10 DevOps Tools' may not effectively address specific use cases.
+
+### [188. Top 12 DevOps Tools for your DevOps Implementation Plan](https://hackernoon.com/top-12-devops-tools-for-your-devops-implementation-plan-hk2r32kp)
+![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-bk83bwi.jpeg)
+DevOps is a software development and delivery process that helps in emphasizing communication along with cross-functional collaboration between product management, software development, and operations professionals.
 
 ### [189. Solarwinds' Loggly and Papertrail Default to Sending Unencrypted Logs](https://hackernoon.com/solarwinds-loggly-and-papertrail-default-to-sending-unencrypted-logs-ga2c37h0)
 ![](https://cdn.hackernoon.com/images/GaLAMSaZtOVWofxsqPz62x2XhNX2-rw7l35q8.jpeg)
 If you follow the Loggly or Papertrail default instructions, your syslog will be configured to send everything over the internet as plain text. 
 
-### [190. 3 ways of recycling third-party code for AWS Lambda](https://hackernoon.com/3-ways-of-recycling-third-party-code-for-aws-lambda-s51h33jr)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-nt3533b6.jpeg)
-In this article, we're discussing AWS Lambda Layers, Lambda Extensions, and Docker image for Lambda. How and when to use which?
-
-### [191. What is MLOps and How Kubernetes can Help](https://hackernoon.com/what-is-mlops-and-how-kubernetes-can-help)
-![](https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-n9035oc.jpeg)
- Why is #Kubernetes so important for MLOps? Find out in our blog post below. 
-
-
-### [192. Amend vs Reset: 4 Simple Ways to Reverse a Git Commit  ](https://hackernoon.com/amend-vs-reset-4-simple-ways-to-reverse-a-git-commit)
+### [190. Amend vs Reset: 4 Simple Ways to Reverse a Git Commit  ](https://hackernoon.com/amend-vs-reset-4-simple-ways-to-reverse-a-git-commit)
 ![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-3w93o97.jpeg)
 If you want to keep your history clean and make your mistake disappear, let me show you 4 different ways to undo a commit.
 
-### [193. How to Select the Best Container Registry](https://hackernoon.com/how-to-select-the-best-container-registry)
-![](https://cdn.hackernoon.com/images/nsYLIDGfDxZyrWgBGcaI57nAUBE2-5t03gy4.jpeg)
-If you are developing any type of containerized application, there will be some concerns for you as a developer or an ops engineer. One such major concern is where to store the container images so that they can be easily and securely accessible at the deployment. This is where container registries come into play by offering a place to store these images. Therefore, selecting the best possible container registry for your specific use case is vital in any containerized application development. Yet, how can we ensure that we select the best possible registry? Let's try to answer that question in this post.
-
-### [194. Scaling an Open Source Project: a Startup Success Story](https://hackernoon.com/how-to-build-and-scale-a-useful-open-source-technology)
+### [191. Scaling an Open Source Project: a Startup Success Story](https://hackernoon.com/how-to-build-and-scale-a-useful-open-source-technology)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-3m93iw1.jpeg)
 16 months after launching Lens — The Kubernetes Platform — as an open source project. How has the project come so far in such a short time?
 
-### [195. Smoothing Out Programming Conveyance With Consistent Joining, Persistent Conveyance, and Foundation](https://hackernoon.com/smoothing-out-programming-conveyance-with-consistent-joining-persistent-conveyance-and-foundation)
-![](https://cdn.hackernoon.com/images/Ndn0GI9HNbao9XU4tVKFd5CBLR92-4193zar.jpeg)
-This DevOps story is about how an organization carried out DevOps practices to further develop their product conveyance process. 
+### [192. Chaos Engineering: What You Don't Know](https://hackernoon.com/chaos-engineering-what-you-dont-know-h6133zr0)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-ng73zkt.jpeg?alt=media&token=c0ec8b7c-b5b5-4367-8f30-722884a58101)
+With cloud native applications, there's always a chance that something could interrupt your services. Maybe a wire gets unplugged and that brings down your server or one of your services loses network connections that you depend on.
 
-### [196. How to Configure TLS for Apache APISIX ](https://hackernoon.com/how-to-configure-tls-for-apache-apisix)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-kt93p84.jpeg)
- In this post, I'll show how to configure TLS for the Apache APISIX API Gateway.
-
-### [197. Kubernetes Best Practices for Maximum Efficiency](https://hackernoon.com/kubernetes-best-practices-for-maximum-efficiency)
+### [193. Kubernetes Best Practices for Maximum Efficiency](https://hackernoon.com/kubernetes-best-practices-for-maximum-efficiency)
 ![](https://cdn.hackernoon.com/images/m72bmcDdzHOrG3tFshlZQsYEzRn2-c783wwo.jpeg)
 See how best practices like embracing CI/CD pipelines and regular updates can help you manage Kubernetes in a more efficient way.
 
-### [198. Exploring Containerization Beyond Kubernetes](https://hackernoon.com/exploring-containerization-beyond-kubernetes)
+### [194. Exploring Containerization Beyond Kubernetes](https://hackernoon.com/exploring-containerization-beyond-kubernetes)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-9o93hq5.jpeg)
 Here's why cloud-based PaaS and Containers make a solid combination for most developers.
 
-### [199. Top 10 Reasons To Love Docker](https://hackernoon.com/top-10-reasons-to-love-docker-rpa536ld)
+### [195. How to Select the Best Container Registry](https://hackernoon.com/how-to-select-the-best-container-registry)
+![](https://cdn.hackernoon.com/images/nsYLIDGfDxZyrWgBGcaI57nAUBE2-5t03gy4.jpeg)
+If you are developing any type of containerized application, there will be some concerns for you as a developer or an ops engineer. One such major concern is where to store the container images so that they can be easily and securely accessible at the deployment. This is where container registries come into play by offering a place to store these images. Therefore, selecting the best possible container registry for your specific use case is vital in any containerized application development. Yet, how can we ensure that we select the best possible registry? Let's try to answer that question in this post.
+
+### [196. 3 ways of recycling third-party code for AWS Lambda](https://hackernoon.com/3-ways-of-recycling-third-party-code-for-aws-lambda-s51h33jr)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-nt3533b6.jpeg)
+In this article, we're discussing AWS Lambda Layers, Lambda Extensions, and Docker image for Lambda. How and when to use which?
+
+### [197. Top 10 Reasons To Love Docker](https://hackernoon.com/top-10-reasons-to-love-docker-rpa536ld)
 ![](https://cdn.hackernoon.com/drafts/qefg32io.png)
 When you first look into Docker, what it does, and how it works, it appears to be a neat tool to help with application packaging and deployment. It's not until you start using it, however, that some of the other benefits that developers love so much show themselves. So, to discover why this tool has become so popular, here are Ten Reasons Why Developers Love Docker.
 
-### [200. Can You Land a Junior Role as a Dev Ops Engineer?](https://hackernoon.com/can-you-land-a-junior-role-as-a-dev-ops-engineer)
+### [198. How to Configure TLS for Apache APISIX ](https://hackernoon.com/how-to-configure-tls-for-apache-apisix)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-kt93p84.jpeg)
+ In this post, I'll show how to configure TLS for the Apache APISIX API Gateway.
+
+### [199. Smoothing Out Programming Conveyance With Consistent Joining, Persistent Conveyance, and Foundation](https://hackernoon.com/smoothing-out-programming-conveyance-with-consistent-joining-persistent-conveyance-and-foundation)
+![](https://cdn.hackernoon.com/images/Ndn0GI9HNbao9XU4tVKFd5CBLR92-4193zar.jpeg)
+This DevOps story is about how an organization carried out DevOps practices to further develop their product conveyance process. 
+
+### [200. Leveraging JMX for Efficient Debugging, Revisited](https://hackernoon.com/debugging-using-jmx-revisited)
+![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-h682ngf.jpeg)
+Learn how to leverage JMX and Spring Boot for advanced debugging and management, enabling efficient monitoring and control of Java applications.
+
+### [201. Can You Land a Junior Role as a Dev Ops Engineer?](https://hackernoon.com/can-you-land-a-junior-role-as-a-dev-ops-engineer)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-bd03ol0.jpeg)
 You'll see "junior" level DevOps and SRE roles. You'll also see several people asking how to get into DevOps or SRE as a junior-level candidate. 
 
-### [201. Cloud-nomad Architecture: What You Need to Know ](https://hackernoon.com/cloud-nomad-architecture-what-you-need-to-know)
+### [202. Cloud-nomad Architecture: What You Need to Know ](https://hackernoon.com/cloud-nomad-architecture-what-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-uf93rev.jpeg)
 Learn about repatriation and consolidation trends, why it's a step forward, not a step back, and the core idea of cloud-nomad architecture. 
-
-### [202. Leveraging JMX for Efficient Debugging, Revisited](https://hackernoon.com/debugging-using-jmx-revisited)
-![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-h682ngf.jpeg)
-Learn how to leverage JMX and Spring Boot for advanced debugging and management, enabling efficient monitoring and control of Java applications.
 
 ### [203. The State of the Continuous Delivery Developer Ecosystem ](https://hackernoon.com/the-state-of-the-continuous-delivery-developer-ecosystem)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-f593oaa.jpeg)
@@ -833,53 +837,53 @@ To optimize your API gateway's performance, learn how to implement advanced rate
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-iw63wd9.jpeg?alt=media&token=211338ad-29c2-4636-98e4-5574bad1b634)
 At some point we've all said the words, "But it works on my machine." It usually happens during testing or when you're trying to get a new project set up. Sometimes it happens when you pull down changes from an updated branch.
 
-### [206. How Kubernetes Can Make Your High Load Project Viable in 2020](https://hackernoon.com/how-kubernetes-can-make-your-high-load-project-viable-in-2020-qved3yyt)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3y82rri.jpeg)
-Kubernetes is an open-source container orchestration system that is designed to help you build a scalable infrastructure using high load approaches on a weak server. In this article, we’ll show you why Kubernetes is worth using in 2020.
-
-### [207. Everything You Need to Know About Continuous Performance Testing](https://hackernoon.com/everything-you-need-to-know-about-continuous-performance-testing)
-![](https://cdn.hackernoon.com/images/NJ7TAb1r97RRjOQX1EaXEyma0qN2-ija3udp.jpeg)
-Continuous Performance testing is essential to DevOps and CI/CD processes. Learn how to do it in this article and start saving time during maintenance cycles!
-
-### [208. Introducing Driftctl: Your IaC Security Belt](https://hackernoon.com/introducing-driftctl-your-iac-security-belt-du58313h)
-![](https://cdn.hackernoon.com/images/R8Es2LKqChZj95MGtbheP1WiujI2-ld1w31kl.png)
-We recently released the first versions of driftctl, a new open-source project for infrastructure developers, DevOps, SRE, and cloud practitioners, with the goal of helping manage all kinds of drifts. 
-
-### [209. The Human Side of DevOps: How Culture Drives Business Outcomes](https://hackernoon.com/the-human-side-of-devops-how-culture-drives-business-outcomes)
+### [206. The Human Side of DevOps: How Culture Drives Business Outcomes](https://hackernoon.com/the-human-side-of-devops-how-culture-drives-business-outcomes)
 ![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-kja3pnf.jpeg)
 The DevOps structural equation model has several elements related to people and culture, so it's clear that human issues are an important part of the DevOps. 
 
-### [210. 5 Years of K8s: DevOps Before and After Kubernetes](https://hackernoon.com/devops-before-and-after-kubernetes-dj1q328p)
-![](https://images.unsplash.com/photo-1445711005973-54fe2a103826?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-As Kubernetes turns five, we explore the changing face of DevOps in the k8s world.
+### [207. How Kubernetes Can Make Your High Load Project Viable in 2020](https://hackernoon.com/how-kubernetes-can-make-your-high-load-project-viable-in-2020-qved3yyt)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3y82rri.jpeg)
+Kubernetes is an open-source container orchestration system that is designed to help you build a scalable infrastructure using high load approaches on a weak server. In this article, we’ll show you why Kubernetes is worth using in 2020.
+
+### [208. Everything You Need to Know About Continuous Performance Testing](https://hackernoon.com/everything-you-need-to-know-about-continuous-performance-testing)
+![](https://cdn.hackernoon.com/images/NJ7TAb1r97RRjOQX1EaXEyma0qN2-ija3udp.jpeg)
+Continuous Performance testing is essential to DevOps and CI/CD processes. Learn how to do it in this article and start saving time during maintenance cycles!
+
+### [209. Introducing Driftctl: Your IaC Security Belt](https://hackernoon.com/introducing-driftctl-your-iac-security-belt-du58313h)
+![](https://cdn.hackernoon.com/images/R8Es2LKqChZj95MGtbheP1WiujI2-ld1w31kl.png)
+We recently released the first versions of driftctl, a new open-source project for infrastructure developers, DevOps, SRE, and cloud practitioners, with the goal of helping manage all kinds of drifts. 
+
+### [210. Comparison of Manual Deployment vs. SaaS Deployment for Static Websites](https://hackernoon.com/comparison-of-manual-deployment-vs-saas-deployment-for-static-websites)
+![](https://cdn.hackernoon.com/images/5V69esQ7SCMw9UcpHrWeFSIpkyG3-kc032v2.jpeg)
+Using mature PaaS and SaaS platforms is not about being lazy but allowing you to focus more on your core tasks.
 
 ### [211. Simple Tips For A Successful Application Performance Monitoring](https://hackernoon.com/simple-tips-for-a-successful-application-performance-monitoring-hth31s7)
 ![](https://cdn.hackernoon.com/images/XdTrpTXzxMgVm8F4Ctu32oQWJki2-rph25as.jpeg)
 You finally went live, congratulations! Now what?
 
-### [212. Comparison of Manual Deployment vs. SaaS Deployment for Static Websites](https://hackernoon.com/comparison-of-manual-deployment-vs-saas-deployment-for-static-websites)
-![](https://cdn.hackernoon.com/images/5V69esQ7SCMw9UcpHrWeFSIpkyG3-kc032v2.jpeg)
-Using mature PaaS and SaaS platforms is not about being lazy but allowing you to focus more on your core tasks.
+### [212. 5 Years of K8s: DevOps Before and After Kubernetes](https://hackernoon.com/devops-before-and-after-kubernetes-dj1q328p)
+![](https://images.unsplash.com/photo-1445711005973-54fe2a103826?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+As Kubernetes turns five, we explore the changing face of DevOps in the k8s world.
 
 ### [213. How Cloud Functions for Machine Learning Can Become True](https://hackernoon.com/how-cloud-functions-for-machine-learning-can-become-true-fs1i31fa)
 ![](https://cdn.hackernoon.com/images/fdg3pfHujyRJVjsQ5nY0dIKKFDB2-e31a3et2.jpeg)
 DeepMux recently announced GPU-powered serverless functions to make your MLOps (DevOps for ML) easier. Let’s talk about Cloud Functions and their use in Machine Learning!
 
-### [214. DevOps Tools That Will Help in Rectifying Errors in the Databases](https://hackernoon.com/devops-tools-that-will-help-in-rectifying-errors-in-the-databases-ti1w3u74)
+### [214. Implementing CI/CD Pipelines with AWS CodePipeline and CodeBuild](https://hackernoon.com/implementing-cicd-pipelines-with-aws-codepipeline-and-codebuild)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yn93s7n.png)
+Explore the implementation of  CI/CD pipelines using AWS CodePipeline and CodeBuild, streamlining the development and deployment processes.
+
+### [215. DevOps Tools That Will Help in Rectifying Errors in the Databases](https://hackernoon.com/devops-tools-that-will-help-in-rectifying-errors-in-the-databases-ti1w3u74)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHeNvQgun0rROacFATpkBF6YYqdx2-eb4c3uil.jpeg?alt=media&token=61bc3c57-00fd-4333-99fe-902669d4d249)
 It is known that the separation between software development teams as well as information technology operations teams that faced many problems in it.  After witnessing this problem, the web-developers came with the idea of developing DevOps which is considered to carry roots in the Agile methodology. The basic function of DevOps is to integrate the set of two teams to improve their collaboration and productivity.
 
-### [215. Why Open Source Conquers The Telecommunications Industry ](https://hackernoon.com/why-open-source-conquers-the-telecommunications-industry-121i33l3)
+### [216. Why Open Source Conquers The Telecommunications Industry ](https://hackernoon.com/why-open-source-conquers-the-telecommunications-industry-121i33l3)
 ![](https://cdn.hackernoon.com/images/jwCKHXEmb3h3GdWaPUs7OgSEMoC3-sl9h2820.jpeg)
 open source invading telco industry
 
-### [216. 3 Types Of User Communication APIs and When To Use Them](https://hackernoon.com/3-types-of-user-communication-apis-and-when-to-use-them)
+### [217. 3 Types Of User Communication APIs and When To Use Them](https://hackernoon.com/3-types-of-user-communication-apis-and-when-to-use-them)
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-5w03753.jpeg)
 This post describes three core types of user communication APIs and in which circumstances you should use them to create the best possible end-user experience.
-
-### [217. Implementing CI/CD Pipelines with AWS CodePipeline and CodeBuild](https://hackernoon.com/implementing-cicd-pipelines-with-aws-codepipeline-and-codebuild)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yn93s7n.png)
-Explore the implementation of  CI/CD pipelines using AWS CodePipeline and CodeBuild, streamlining the development and deployment processes.
 
 ### [218. How to Test the Performance of Your User Authentication Flow](https://hackernoon.com/how-to-test-the-performance-of-your-user-authentication-flow)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-kba3p93.jpeg)
@@ -901,46 +905,46 @@ Improving our DevOps skill can help us become better developers, teammates and m
 ![](https://cdn.hackernoon.com/images/WXXGGd4rPWYhtAZUmeftwq2hnlC2-xui3gzb.jpeg)
 Serverless fits perfectly with DevOps and provides the edge over your competitors.
 
-### [223. Why you Should Get Started Building Containers on Kubernetes](https://hackernoon.com/why-you-should-get-started-building-containers-on-kubernetes)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-1w03n1x.jpeg)
-Kubernetes is ideal for container orchestration. Because of its features, it also comes with complexity. In this article, we will discuss when to use Kubernetes
+### [223. DevOps Testing Strategy: A Detailed Guide for Agile Teams](https://hackernoon.com/devops-testing-strategy-a-detailed-guide-for-agile-teams)
+![](https://cdn.hackernoon.com/images/q4JmpLxJmpe4eNkyo0m1jfxQPft2-920347j.jpeg)
+Continuity is simply a “must” in the development and deployment process to adhere to DevOps’ aim of quality-at-speed deliveries.
 
 ### [224. Simple Yet Effective Advice To Handle Large Releases with DevOps Effortlessly](https://hackernoon.com/simple-yet-effective-advice-to-handle-large-releases-with-devops-effortlessly-66153tj1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-q7b3wgo.jpeg?alt=media&token=b5131c72-5480-4ef5-97ca-999fbb7c40c3)
 When you start working on large scale enterprise systems, handling releases can become complex. You'll have to think about your front-end, microservices, third-party services, and other services. Making sure these things get deployed in the right order and pass integration tests can be tricky once you start working with asynchronous tasks.
 
-### [225. DevOps Testing Strategy: A Detailed Guide for Agile Teams](https://hackernoon.com/devops-testing-strategy-a-detailed-guide-for-agile-teams)
-![](https://cdn.hackernoon.com/images/q4JmpLxJmpe4eNkyo0m1jfxQPft2-920347j.jpeg)
-Continuity is simply a “must” in the development and deployment process to adhere to DevOps’ aim of quality-at-speed deliveries.
+### [225. Why you Should Get Started Building Containers on Kubernetes](https://hackernoon.com/why-you-should-get-started-building-containers-on-kubernetes)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-1w03n1x.jpeg)
+Kubernetes is ideal for container orchestration. Because of its features, it also comes with complexity. In this article, we will discuss when to use Kubernetes
 
 ### [226. Unlocking Freedom from the Cloud: Empower Your Apps with MRSK's Optimal Orchestration](https://hackernoon.com/unlocking-freedom-from-the-cloud-empower-your-apps-with-mrsks-optimal-orchestration)
 ![](https://cdn.hackernoon.com/images/SZGZVBzn9XWfgTF639Yroy1Fu4q1-7l93t5h.png)
 A lightweight alternative to Kubernetes. Powering the likes of Hey.com and Basecamp
 
-### [227. Celebrating 10,000+ stars on GitHub repository⭐ ❤️️](https://hackernoon.com/celebrating-10000-stars-on-github-together-cxx3235)
-![](https://cdn.hackernoon.com/images/ww1i3220.jpg)
-Postwoman is celebrating the milestone of reaching 10,000 GitHub stars 🎉
-
-### [228. Reinforce Your DevOps Toolset With Integrations – A Full Breakdown](https://hackernoon.com/reinforce-your-devops-toolset-with-integrations-a-full-breakdown)
+### [227. Reinforce Your DevOps Toolset With Integrations – A Full Breakdown](https://hackernoon.com/reinforce-your-devops-toolset-with-integrations-a-full-breakdown)
 ![](https://cdn.hackernoon.com/images/FL7JmXQf34VEW1TJcKJlKvuDn9u2-6193vsz.jpeg)
 Improve your DevOps processes with DevOps toolset integrations. Achieve full coordination between your DevOps tools and teams.
 
-### [229. From Production to Dev: Safe Database Copies with MaskDump](https://hackernoon.com/from-production-to-dev-safe-database-copies-with-maskdump)
-![](https://cdn.hackernoon.com/images/birdUy9rf7bDlRNnnz6XwUs8GiD3-9l023m3.png)
-Automate safe database copies for devs. MaskDump anonymizes emails & phones in huge SQL dumps via pipelines. Compare tools, see configs. 
-
-### [230. 166 Stories To Learn About Devops Tools](https://hackernoon.com/166-stories-to-learn-about-devops-tools)
-![](https://cdn.hackernoon.com/images/github/devops-tools-239.png)
-Learn everything you need to know about Devops Tools via these 166 free HackerNoon stories.
-
-### [231. Eliminate Friction in App Delivery to Kubernetes](https://hackernoon.com/eliminate-friction-in-app-delivery-to-kubernetes-gj15321r)
-![](https://cdn.hackernoon.com/drafts/zy4s32zr.png)
-The last two decades have seen a sea change in the way software is written and delivered. Waterfall to iterative to agile, native to hybrid to responsive interfaces, monoliths to microservices, installed to pay-as-you-go SaaS, data centers to private and hybrid clouds, and virtual machines to containers.  As the market constantly evolves, enterprises are facing a ton of choices with increasing complexity.
-
-### [232. Demo: Sticky Sessions with Apache APISIX for Improved Load Balancing](https://hackernoon.com/demo-sticky-sessions-with-apache-apisix-for-improved-load-balancing)
+### [228. Demo: Sticky Sessions with Apache APISIX for Improved Load Balancing](https://hackernoon.com/demo-sticky-sessions-with-apache-apisix-for-improved-load-balancing)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-a3b2cdv.jpeg)
 
 Illustrating sticky sessions with a demo: forwarding requests to the same upstream based on session context, and replicating data for backup. 
+
+### [229. Celebrating 10,000+ stars on GitHub repository⭐ ❤️️](https://hackernoon.com/celebrating-10000-stars-on-github-together-cxx3235)
+![](https://cdn.hackernoon.com/images/ww1i3220.jpg)
+Postwoman is celebrating the milestone of reaching 10,000 GitHub stars 🎉
+
+### [230. From Production to Dev: Safe Database Copies with MaskDump](https://hackernoon.com/from-production-to-dev-safe-database-copies-with-maskdump)
+![](https://cdn.hackernoon.com/images/birdUy9rf7bDlRNnnz6XwUs8GiD3-9l023m3.png)
+Automate safe database copies for devs. MaskDump anonymizes emails & phones in huge SQL dumps via pipelines. Compare tools, see configs. 
+
+### [231. 166 Stories To Learn About Devops Tools](https://hackernoon.com/166-stories-to-learn-about-devops-tools)
+![](https://cdn.hackernoon.com/images/github/devops-tools-239.png)
+Learn everything you need to know about Devops Tools via these 166 free HackerNoon stories.
+
+### [232. Eliminate Friction in App Delivery to Kubernetes](https://hackernoon.com/eliminate-friction-in-app-delivery-to-kubernetes-gj15321r)
+![](https://cdn.hackernoon.com/drafts/zy4s32zr.png)
+The last two decades have seen a sea change in the way software is written and delivered. Waterfall to iterative to agile, native to hybrid to responsive interfaces, monoliths to microservices, installed to pay-as-you-go SaaS, data centers to private and hybrid clouds, and virtual machines to containers.  As the market constantly evolves, enterprises are facing a ton of choices with increasing complexity.
 
 ### [233. Avoiding In-House Development Tools Now May Pay Off Later](https://hackernoon.com/avoiding-in-house-development-tools-now-may-pay-off-later-cq1e36ee)
 ![](https://cdn.hackernoon.com/images/7krw330s.jpg)
@@ -954,17 +958,17 @@ Renovate does indeed manage Kotlin Scriptings since 2022.
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F496ukHyoUvbAHPjt342s7IiAF933-6d53wit.jpeg?alt=media&token=7a3e4df4-0f6c-4375-8beb-660139f8a3a2)
 Congratulations, you’ve successfully implemented data testing in your pipeline! 
 
-### [236. Newsflash - "People with AWS Console Access Tend to Change Things"](https://hackernoon.com/newsflash-people-with-aws-console-access-tend-to-change-things-2k1h330g)
+### [236. From Maturity to Capability: The Evolution of DevOps Models](https://hackernoon.com/from-maturity-to-capability-the-evolution-of-devops-models)
+![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-epa3pf6.jpeg)
+In this post, I explain why a maturity model isn't appropriate and what you should use instead.
+
+### [237. Newsflash - "People with AWS Console Access Tend to Change Things"](https://hackernoon.com/newsflash-people-with-aws-console-access-tend-to-change-things-2k1h330g)
 ![](https://cdn.hackernoon.com/images/R8Es2LKqChZj95MGtbheP1WiujI2-yh8n335p.jpeg)
 This blog post is a written transcript of the FOSDEM Talk: “Infrastructure drifts aren’t like Pokemon, you can’t catch ’em all”, by Stephane Jourdan – CTO and founder
 
-### [237. Improve Your IaC With a Specialized Management Platform](https://hackernoon.com/improve-your-iac-with-a-specialized-management-platform)
+### [238. Improve Your IaC With a Specialized Management Platform](https://hackernoon.com/improve-your-iac-with-a-specialized-management-platform)
 ![](https://cdn.hackernoon.com/images/UXfuOSdr7iSDReRqKsHpVwJYyc33-va137q2.jpeg)
 Most often, there is no point in implementing an in-house solution as the cost and effort of building and maintaining it may exceed its potential benefits.
-
-### [238. From Maturity to Capability: The Evolution of DevOps Models](https://hackernoon.com/from-maturity-to-capability-the-evolution-of-devops-models)
-![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-epa3pf6.jpeg)
-In this post, I explain why a maturity model isn't appropriate and what you should use instead.
 
 ### [239. Understanding the Essential Elements of an End-to-End Setup](https://hackernoon.com/understanding-the-essential-elements-of-an-end-to-end-setup)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-3v93lck.jpeg)

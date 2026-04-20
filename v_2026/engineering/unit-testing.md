@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [unit-testing](https://hackernoon.com/tagged/unit-testing)
+### Let's learn about [Unit Testing](https://hackernoon.com/tagged/unit-testing) via these 134 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Unit testing is a software testing method where individual units or components of a software are tested in isolation to determine if they are fit for use. It is crucial for early defect detection, improving code quality, and facilitating easier refactoring and maintenance.
+
 ### [1. API testing with Jest](https://hackernoon.com/api-testing-with-jest-d1ab74005c0a)
 ![](https://cdn.hackernoon.com/images/djp30zm.jpg)
 
@@ -141,29 +145,29 @@ My top favorite tools for spotting N+1 problems in database queries for Laravel 
 ![](https://cdn.hackernoon.com/images/tbxvDkY42DhRnh2M43vjBIrGBoM2-fhc342e.jpeg)
 Learn how to get better consistency around your automated tests by both fixing your existing flaky tests, and writing better tests going forward!
 
-### [36. How to Use Assertion Scopes to Execute Multiple Assertions in C#](https://hackernoon.com/how-to-use-assertion-scopes-to-execute-multiple-assertions-in-c-1u2s37p2)
+### [36. How to Organize Unit Tests for AI-Generated Code](https://hackernoon.com/how-to-organize-unit-tests-for-ai-generated-code)
+![](https://cdn.hackernoon.com/images/XVE3pTw8qwQ8eOlNqDgS53oAXBJ2-kj83elq.png)
+AI writes code faster than you can review it. Here's a structured unit testing method that keeps your codebase trustworthy and easy to maintain.
+
+### [37. How to Use Assertion Scopes to Execute Multiple Assertions in C#](https://hackernoon.com/how-to-use-assertion-scopes-to-execute-multiple-assertions-in-c-1u2s37p2)
 ![](https://cdn.hackernoon.com/images/pffQtygCu8Uaa9SSArIb41t2PYU2-j75835o8.jpeg)
 Fluent Assertions is a .NET library that provides use with a bunch of useful extension methods that allow us to test our C# code in a more natural way
 
-### [37. Python: Checking API Application Requests to Third-Party Services](https://hackernoon.com/python-checking-api-application-requests-to-third-party-services)
+### [38. Python: Checking API Application Requests to Third-Party Services](https://hackernoon.com/python-checking-api-application-requests-to-third-party-services)
 ![](https://cdn.hackernoon.com/images/RJR62NidzuWvMadph8p0OWg7H8c2-0vf3vsf.jpeg)
 I will show you some examples of how you can verify requests to third-party services in tests using of async FastAPI + httpx and mocks
 
-### [38. Why I Don't Think TDD Is Essential ](https://hackernoon.com/why-i-dont-think-tdd-is-essential)
+### [39. Why I Don't Think TDD Is Essential ](https://hackernoon.com/why-i-dont-think-tdd-is-essential)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-5n92eni.jpeg)
 Test Driven Development puts emphasis on unit over integration tests. The result can be lower quality featuring bugs that are baked into the product.
 
-### [39. An Introduction to Test-Driven Development](https://hackernoon.com/an-introduction-to-test-driven-development-7pat3yeh)
+### [40. An Introduction to Test-Driven Development](https://hackernoon.com/an-introduction-to-test-driven-development-7pat3yeh)
 ![](https://cdn.hackernoon.com/drafts/kr2fp32ex.png)
 Test-driven development (TDD) is all the rage these days and has been a discussion topic for quite some time. If you are brand new to TDD, this article should serve as a good introduction to what TDD is, why it’s useful, what a typical TDD workflow looks like, and when to use TDD.
 
-### [40. How To Get More Out of Writing Tests in Your Development Routine](https://hackernoon.com/how-to-get-more-out-of-writing-tests-in-your-development-routine-uq1623rpe)
+### [41. How To Get More Out of Writing Tests in Your Development Routine](https://hackernoon.com/how-to-get-more-out-of-writing-tests-in-your-development-routine-uq1623rpe)
 ![](https://cdn.hackernoon.com/images/2lfl3taj.jpg)
 TL;DR
-
-### [41. How to Organize Unit Tests for AI-Generated Code](https://hackernoon.com/how-to-organize-unit-tests-for-ai-generated-code)
-![](https://cdn.hackernoon.com/images/XVE3pTw8qwQ8eOlNqDgS53oAXBJ2-kj83elq.png)
-AI writes code faster than you can review it. Here's a structured unit testing method that keeps your codebase trustworthy and easy to maintain.
 
 ### [42. 6 Productivity Practices for New (and Old) Developers ](https://hackernoon.com/6-productivity-practices-for-new-and-old-developers-ym1g3t24)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTMgodFHH4evRjSdNFNz3dacaM23-vr2l3xi1.jpeg?alt=media&token=4f2163d2-d8ab-4849-9857-92ad71fc6bfd)
@@ -177,17 +181,17 @@ The writing of Clojure/Script macro may seem as a wizard senior programming craf
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-oa93q9m.jpeg)
 Basically, we need to ability to write test classes and methods and have the base infrastructure for them.
 
-### [45. How React Testing Library Can Improve Your Mental Health [Part 2]](https://hackernoon.com/how-react-testing-library-can-improve-your-mental-health-part-2-071b31hk)
+### [45. Quality Assurance in Scrum Projects](https://hackernoon.com/quality-assurance-in-scrum-projects)
+![](https://cdn.hackernoon.com/images/HPW4fI2ZMUf9g51zC0XPDJc8Cdb2-3z93mmp.jpeg)
+Scrum is a set of rules for organizing a flexible workflow, which consists of a team approach, working in iterations, focusing on the goal of each iteration.
+
+### [46. How React Testing Library Can Improve Your Mental Health [Part 2]](https://hackernoon.com/how-react-testing-library-can-improve-your-mental-health-part-2-071b31hk)
 ![](https://cdn.hackernoon.com/images/rZ3rn8qcvagyoGK9VRZZGonZwLN2-4bi435f3.jpeg)
 How React Testing Library Can Improve Your Mental Health Part 2
 
-### [46. xUnit: Managing Complex Test Parameters](https://hackernoon.com/xunit-managing-complex-test-parameters-c61j34hx)
+### [47. xUnit: Managing Complex Test Parameters](https://hackernoon.com/xunit-managing-complex-test-parameters-c61j34hx)
 ![](https://cdn.hackernoon.com/images/IiLjzvoDDoY0EkD7DtHRImKjN072-n61232zw.jpeg)
 xUnit support many ways of parameterizing tests, however none of the existing documentation I could find covered the use case of re-using and mixing parameter datasets across different tests. This article shows how this can be done with xUnit in Visual Studio.
-
-### [47. Quality Assurance in Scrum Projects](https://hackernoon.com/quality-assurance-in-scrum-projects)
-![](https://cdn.hackernoon.com/images/HPW4fI2ZMUf9g51zC0XPDJc8Cdb2-3z93mmp.jpeg)
-Scrum is a set of rules for organizing a flexible workflow, which consists of a team approach, working in iterations, focusing on the goal of each iteration.
 
 ### [48. Write Great Unit Tests by Writing Unit Tests that Fail](https://hackernoon.com/write-great-unit-tests-by-writing-unit-tests-that-fail)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-7n9301t.jpeg)
@@ -217,21 +221,21 @@ Have you ever wanted to write unit tests for your code, but you’ve found that 
 ![](https://cdn.hackernoon.com/images/iDiQ3WFgYEWtMhewi7LoGopjPw93-ags31p3.jpeg)
 Let's look at the differences between unit tests and integration tests and when you might prefer one or the other.
 
-### [55. Building A Test Runner in Jest - A How-To Guide](https://hackernoon.com/building-a-test-runner-in-jest-a-how-to-guide-2a2g3wp9)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQZ99ZQuc5eROA3veGaHuSYO84MW2-2r2q3uzo.png?alt=media&token=0da98465-78b4-4643-8b48-a0e68c6f42ed)
-I use Jest nearly every day when working, and it's a fantastic tool. It lets me ship my code with confidence, knowing that I have produced something which works as intended.
-
-### [56. Avoiding the Pitfalls of Unit Test High Code Coverage With TDD](https://hackernoon.com/avoiding-the-pitfalls-of-unit-test-high-code-coverage-with-tdd)
+### [55. Avoiding the Pitfalls of Unit Test High Code Coverage With TDD](https://hackernoon.com/avoiding-the-pitfalls-of-unit-test-high-code-coverage-with-tdd)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6s92igx.jpeg)
 High unit test code coverage is often viewed as a key indicator of code quality, but it's important to focus on the quality of the unit tests, not just the cod
 
-### [57. Testing in Java: The Key Concepts [Part 1: Unit Testing]](https://hackernoon.com/testing-in-java-the-key-concepts-part-1-unit-testing)
-![](https://cdn.hackernoon.com/images/m1niFilZlGUYAN3blcOrJ7nMPqh2-mx83xyp.jpeg)
-In this article, we will explore the key concepts of Java unit testing, including simple code examples, parametrization, exception testing, and annotations.
+### [56. Building A Test Runner in Jest - A How-To Guide](https://hackernoon.com/building-a-test-runner-in-jest-a-how-to-guide-2a2g3wp9)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQZ99ZQuc5eROA3veGaHuSYO84MW2-2r2q3uzo.png?alt=media&token=0da98465-78b4-4643-8b48-a0e68c6f42ed)
+I use Jest nearly every day when working, and it's a fantastic tool. It lets me ship my code with confidence, knowing that I have produced something which works as intended.
 
-### [58. How Good Are We At Writing Tests?](https://hackernoon.com/how-good-are-we-at-writing-tests)
+### [57. How Good Are We At Writing Tests?](https://hackernoon.com/how-good-are-we-at-writing-tests)
 ![](https://cdn.hackernoon.com/images/Qv2DdsHRd0StSYQyRwEQIhPP0B42-cl93qg0.jpeg)
 This is some thoughts about TDD and how things don't always work out perfectly even with the best-written tests when developing new software on a deadline.
+
+### [58. Testing in Java: The Key Concepts [Part 1: Unit Testing]](https://hackernoon.com/testing-in-java-the-key-concepts-part-1-unit-testing)
+![](https://cdn.hackernoon.com/images/m1niFilZlGUYAN3blcOrJ7nMPqh2-mx83xyp.jpeg)
+In this article, we will explore the key concepts of Java unit testing, including simple code examples, parametrization, exception testing, and annotations.
 
 ### [59. Best Practices to Write Unit Tests the Right Way](https://hackernoon.com/best-practices-to-write-unit-tests-the-right-way)
 ![](https://cdn.hackernoon.com/images/48Kocxy7OoWdKR88ffrmRyvlIh53-y59342o.jpeg)
@@ -241,14 +245,14 @@ In this article we will review some best practices and must-have libraries which
 ![](https://cdn.hackernoon.com/images/GWHX2lBFLbMSZ4olDc5OKN28T0h1-3i93gmd.jpeg)
 Besides testing functions, did you know you can test mixins as well? 
 
-### [61. Approaching Unit Testing in iOS Correctly](https://hackernoon.com/approaching-unit-testing-in-ios-correctly-lmr3u13)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsKUg89yJOWchW3oscCcEhyRkcjj1-fd2d3uoa.jpeg?alt=media&token=1fa605c5-8559-4ba8-a35a-7e0681e9eda9)
-Why does my application get so buggy after each release?
-
-### [62. Comprehensive Coverage: 
+### [61. Comprehensive Coverage: 
 The AI Solution To Unit Testing](https://hackernoon.com/comprehensive-coverage-the-ai-solution-to-unit-testing)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1782l1y.jpeg)
 AI automated test generation tools can help improve coverage of source code
+
+### [62. Approaching Unit Testing in iOS Correctly](https://hackernoon.com/approaching-unit-testing-in-ios-correctly-lmr3u13)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsKUg89yJOWchW3oscCcEhyRkcjj1-fd2d3uoa.jpeg?alt=media&token=1fa605c5-8559-4ba8-a35a-7e0681e9eda9)
+Why does my application get so buggy after each release?
 
 ### [63. Learn How to Live with Immutable and Reliable Objects in Java](https://hackernoon.com/learn-how-to-live-with-immutable-and-reliable-objects-in-java)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-3h93jx6.jpeg)
@@ -266,109 +270,109 @@ Learn about IServiceCollection in C# and dependency injection. See how Dependenc
 ![](https://cdn.hackernoon.com/images/lDKs8qfGt7YxR4cez9LjlN9nask2-xi2f32z4.jpeg)
 You're pushing to main, something you've done 100s of times before, and by the time you go to refresh your production environment, you notice something's wrong 
 
-### [67. AI-first Testing is a Dangerous Approach to Code Quality](https://hackernoon.com/ai-first-testing-is-a-dangerous-approach-to-code-quality)
-![](https://cdn.hackernoon.com/images/B9H9YeUy5iZvLI7X1pvmhCVlOjJ2-xm03aeo.png)
-AI fails catastrophically at: Business logic validation, bug detection, and user experience validation.
-
-### [68. ClojureScript Macros: A (Not So) Long Journey [Part I]](https://hackernoon.com/clojurescript-macros-a-not-very-long-journey-part-i-ljf332ie)
+### [67. ClojureScript Macros: A (Not So) Long Journey [Part I]](https://hackernoon.com/clojurescript-macros-a-not-very-long-journey-part-i-ljf332ie)
 ![](https://cdn.hackernoon.com/drafts/bw1762ywp.png)
 I’m learning the Clojure and ClojureScript craft and I must say, I enjoy it. This article explains what leads me on the track of learning Clojure/Script macro. This is the first part of my journey on this topic.
 
-### [69. Test-Driven Development in React: Building Reliable Applications from Scratch](https://hackernoon.com/test-driven-development-in-react-building-reliable-applications-from-scratch)
+### [68. Test-Driven Development in React: Building Reliable Applications from Scratch](https://hackernoon.com/test-driven-development-in-react-building-reliable-applications-from-scratch)
 ![](https://cdn.hackernoon.com/images/BUTKpbdTbNRmCTvmcJcWJp8NMoy2-5r92lve.jpeg)
 Unlocking the Power of Test-Driven Development: Building Robust React Apps with Confidence
 
-### [70. Property-Based Testing: The Diamond Kata, First and Last Line Content](https://hackernoon.com/property-based-testing-the-diamond-kata-first-and-last-line-content-2h1x3tpf)
+### [69. Property-Based Testing: The Diamond Kata, First and Last Line Content](https://hackernoon.com/property-based-testing-the-diamond-kata-first-and-last-line-content-2h1x3tpf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrOw0Onz89OS0UxIVcFu3kwP0u2B3-tj173val.jpeg?alt=media&token=a14b3951-8cc5-49c9-9470-d5a13cc672c3)
 Intro
 
-### [71. Exploring the Benefits of Unit Testing](https://hackernoon.com/exploring-the-benefits-of-unit-testing)
+### [70. Exploring the Benefits of Unit Testing](https://hackernoon.com/exploring-the-benefits-of-unit-testing)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-2693l3r.jpeg)
 In this article, I’ll walk through what I see as the main benefits of unit tests for developers working alone and in teams.
 
-### [72. Software Testing 101: Regression Tests, Unit Tests, Integration Tests, Oh My!](https://hackernoon.com/software-testing-101-regression-tests-unit-tests-integration-tests-oh-my-t87n33sa)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-zo6k330y.jpeg)
-How do you prove that the software is working? How do you know you are not introducing harmful side effects? This is Software Testing 101!
-
-### [73. Basics of Unit Testing in Software Development](https://hackernoon.com/basics-of-unit-testing-in-software-development)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-4k93y2h.jpeg)
-Testing your code is an important part of the software development process. Learn why it's so important and the most common way of testing.
-
-### [74. Java Testing Frameworks: Choosing the Right Tool for the Job - JUnit, AssertJ and Hamcrest](https://hackernoon.com/java-testing-frameworks-choosing-the-right-tool-for-the-job-junit-assertj-and-hamcrest)
+### [71. Java Testing Frameworks: Choosing the Right Tool for the Job - JUnit, AssertJ and Hamcrest](https://hackernoon.com/java-testing-frameworks-choosing-the-right-tool-for-the-job-junit-assertj-and-hamcrest)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-lq82muz.jpeg)
 Checkout my article on JUnit 5 to write better unit tests and improve your code quality.
 
-### [75. 6 Lessons I Learned with Software Testing](https://hackernoon.com/6-lessons-i-learned-with-software-testing-sdo3uz9)
-![](https://images.unsplash.com/photo-1516382799247-87df95d790b7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-For the last few of months I started digging into the software testing world. I really wanted to learn more about how to create more effective tests, refactor code with more confidence and feel safe about adding new features. However, I felt it is little difficult to dive right in this area, that in my point of view, is underestimated.
+### [72. Basics of Unit Testing in Software Development](https://hackernoon.com/basics-of-unit-testing-in-software-development)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-4k93y2h.jpeg)
+Testing your code is an important part of the software development process. Learn why it's so important and the most common way of testing.
 
-### [76. End-to-end Testing using React, Jest, and the TestProject JavaScript OpenSDK](https://hackernoon.com/react-end-to-end-testing-using-jest-and-testproject-javascript-opensdk-112j35yj)
+### [73. Software Testing 101: Regression Tests, Unit Tests, Integration Tests, Oh My!](https://hackernoon.com/software-testing-101-regression-tests-unit-tests-integration-tests-oh-my-t87n33sa)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-zo6k330y.jpeg)
+How do you prove that the software is working? How do you know you are not introducing harmful side effects? This is Software Testing 101!
+
+### [74. IntelliGame in Action: Gamifying JavaScript Unit Tests - Conclusions, and References](https://hackernoon.com/intelligame-in-action-gamifying-javascript-unit-tests-conclusions-and-references)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-4782nic.jpeg)
+Explore how IntelliGame, a gamification plugin for IntelliJ, impacts JavaScript unit testing in a controlled experiment with 152 participants.
+
+### [75. End-to-end Testing using React, Jest, and the TestProject JavaScript OpenSDK](https://hackernoon.com/react-end-to-end-testing-using-jest-and-testproject-javascript-opensdk-112j35yj)
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-2en399y.jpeg)
 Who knows what the future will hold for the world of end-to-end test automation, but TestProject is certainly a platform worth keeping your eye on.
+
+### [76. 6 Lessons I Learned with Software Testing](https://hackernoon.com/6-lessons-i-learned-with-software-testing-sdo3uz9)
+![](https://images.unsplash.com/photo-1516382799247-87df95d790b7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+For the last few of months I started digging into the software testing world. I really wanted to learn more about how to create more effective tests, refactor code with more confidence and feel safe about adding new features. However, I felt it is little difficult to dive right in this area, that in my point of view, is underestimated.
 
 ### [77. Testing Asynchronous JS Code: 2020 Edition](https://hackernoon.com/testing-asynchronous-js-code-2020-edition-en1o3urm)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYnWwzRfXRXMUDjXPAwufZfRd5AV2-f7ct3ehf.jpeg?alt=media&token=fe3e283f-8a7c-4a72-bed6-1c3892846e8f)
 The text you are about to read describes an imaginary dialog between two programmers on their way to discover the orgastic pleasures of a library called asyncFn.
 
-### [78. IntelliGame in Action: Gamifying JavaScript Unit Tests - Conclusions, and References](https://hackernoon.com/intelligame-in-action-gamifying-javascript-unit-tests-conclusions-and-references)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-4782nic.jpeg)
-Explore how IntelliGame, a gamification plugin for IntelliJ, impacts JavaScript unit testing in a controlled experiment with 152 participants.
-
-### [79. Advanced Patterns with the Symfony Clock: MockClock, NativeClock, and More](https://hackernoon.com/advanced-patterns-with-the-symfony-clock-mockclock-nativeclock-and-more)
+### [78. Advanced Patterns with the Symfony Clock: MockClock, NativeClock, and More](https://hackernoon.com/advanced-patterns-with-the-symfony-clock-mockclock-nativeclock-and-more)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-ma03b12.jpeg)
 This article explores non-trivial, production-grade patterns for the Clock component, moving beyond simple “now” calls to integrating with JWT authentication.
 
-### [80. How to Retrofit Tests Into a ReactJS Codebases Without Tests](https://hackernoon.com/how-to-retrofit-tests-into-a-reactjs-codebases-without-tests)
+### [79. How to Retrofit Tests Into a ReactJS Codebases Without Tests](https://hackernoon.com/how-to-retrofit-tests-into-a-reactjs-codebases-without-tests)
 ![](https://cdn.hackernoon.com/images/a-retro-puzzle-sketch-artstyle-w6kocgtbt5bbhyuki4w71sgm.png)
 ReactJs patterns can be a source of mistakes when it comes to the structure of a components hierarchy. 
 
-### [81. A Beginner's Guide to Unit Testing In JavaScript](https://hackernoon.com/a-beginners-guide-to-unit-testing)
+### [80. A Beginner's Guide to Unit Testing In JavaScript](https://hackernoon.com/a-beginners-guide-to-unit-testing)
 ![](https://cdn.hackernoon.com/images/hiBZYKUE6eSMbNqS3hVGEQ91emH2-gy037u1.jpeg)
 In this article, we are going to discuss a testing approach known as unit testing. What are unit tests? How should you implement them? and their benefits.
 
-### [82. Code Coverage: I Don't Think You Know What This Means](https://hackernoon.com/code-coverage-i-dont-think-you-know-what-this-means)
+### [81. Code Coverage: I Don't Think You Know What This Means](https://hackernoon.com/code-coverage-i-dont-think-you-know-what-this-means)
 ![](https://cdn.hackernoon.com/images/6ixVq5iRlvXhMFAD2odSTfEkIhI3-z582wdz.jpeg)
 Code coverage is a poor metric for indicating whether or not your code has been tested well. Instead, we should invert the metric.
 
-### [83. Striking the Right Balance: A Guide to Effective Unit and E2E Testing](https://hackernoon.com/striking-the-right-balance-a-guide-to-effective-unit-and-e2e-testing)
+### [82. Striking the Right Balance: A Guide to Effective Unit and E2E Testing](https://hackernoon.com/striking-the-right-balance-a-guide-to-effective-unit-and-e2e-testing)
 ![](https://cdn.hackernoon.com/images/balance-edasmh23ncauk27avg6aidmt.png)
 This comprehensive guideline assists in decision-making regarding testing at different levels - from Unit to End-to-end. It offers practical practices, rules of
 
-### [84. Unit Testing Made Easier With Pure Functions](https://hackernoon.com/unit-testing-made-easier-with-pure-functions)
+### [83. Unit Testing Made Easier With Pure Functions](https://hackernoon.com/unit-testing-made-easier-with-pure-functions)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-gd92d9o.jpeg)
 By getting used to unit tests, they can start to familiarize themselves with the codebase and make significant progress while facing no risk or stress.
 
-### [85. To Mock, or Not to Mock, That Is the Question](https://hackernoon.com/to-mock-or-not-to-mock-that-is-the-question)
-![](https://cdn.hackernoon.com/images/nVQvUrSrZeNRLK0zHyv8wXbgI3o1-1ld36l0.jpeg)
-Mocking is often seen as a default choice when writing tests. Yet it introduces unnecessary complexety to your system. There are other approaches in testing.
+### [84. AI-first Testing is a Dangerous Approach to Code Quality](https://hackernoon.com/ai-first-testing-is-a-dangerous-approach-to-code-quality)
+![](https://cdn.hackernoon.com/images/B9H9YeUy5iZvLI7X1pvmhCVlOjJ2-xm03aeo.png)
+AI fails catastrophically at: Business logic validation, bug detection, and user experience validation.
 
-### [86. Test-driven Development: How to Write Unit Tests](https://hackernoon.com/test-driven-development-how-to-write-unit-tests)
+### [85. Test-driven Development: How to Write Unit Tests](https://hackernoon.com/test-driven-development-how-to-write-unit-tests)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-my92b9f.jpeg)
 Tests are a way to explicitly set expectations about code. You establish them to allow the machine to check whether your code meets the expectations.
 
-### [87. Everything You Ever Wanted To Know About Unit Testing](https://hackernoon.com/everything-you-ever-wanted-to-know-about-unit-testing-vs3o3yx3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHeNvQgun0rROacFATpkBF6YYqdx2-8ib33uqt.webp?alt=media&token=8e80435a-7b0c-41a2-9be6-63feba965e12)
-Unit testing is utilized to examine small segments of code that can be secluded logically in the system. Frameworks normally managed to do unit testing are JUnit, NUnit, JMockit, PHPUnit, or tools like TestComplete. 
+### [86. If AI Writes the Code, Tests Decide What’s Correct](https://hackernoon.com/if-ai-writes-the-code-tests-decide-whats-correct)
+![](https://capk.me/api/publications/tdd-is-how-i-trust-ai-generated-code/images/hero.png)
+I didn’t trust AI to write my code. Things changed. With tests written first, AI stopped being a risk and started behaving like a serious engineering tool.
+
+### [87. To Mock, or Not to Mock, That Is the Question](https://hackernoon.com/to-mock-or-not-to-mock-that-is-the-question)
+![](https://cdn.hackernoon.com/images/nVQvUrSrZeNRLK0zHyv8wXbgI3o1-1ld36l0.jpeg)
+Mocking is often seen as a default choice when writing tests. Yet it introduces unnecessary complexety to your system. There are other approaches in testing.
 
 ### [88. Misleading Test Coverage and How to Avoid False Confidence](https://hackernoon.com/misleading-test-coverage-and-how-to-avoid-false-confidence)
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-ns83y9e.jpeg)
 Test coverage cannot ensure that the code is highly performant and that it runs error-free when used in unpredictable ways.
 
-### [89. I Pushed my Code to the Master Branch Without Tests](https://hackernoon.com/i-pushed-my-code-to-the-master-branch-without-tests-h21m34fp)
-![](https://cdn.hackernoon.com/images/SWuYxmBe5WPlAjznGj5Fb05Thnl1-iqe1bfy.jpeg)
-Until I stumbled upon TDD, I had never really understood tests. I remember writing a whole project without tests and publishing it. Can you believe it? 
+### [89. Everything You Ever Wanted To Know About Unit Testing](https://hackernoon.com/everything-you-ever-wanted-to-know-about-unit-testing-vs3o3yx3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHeNvQgun0rROacFATpkBF6YYqdx2-8ib33uqt.webp?alt=media&token=8e80435a-7b0c-41a2-9be6-63feba965e12)
+Unit testing is utilized to examine small segments of code that can be secluded logically in the system. Frameworks normally managed to do unit testing are JUnit, NUnit, JMockit, PHPUnit, or tools like TestComplete. 
 
 ### [90. Enhancing Test Stability with Fixtures in Rust](https://hackernoon.com/enhancing-test-stability-with-fixtures-in-rust)
 ![](https://cdn.hackernoon.com/images/XyqHIwK0xDMOGdIf5iTNW4CrLjb2-nhc36u7.jpeg)
 No more awkward test cases. Here's one fixture-based testing framework that cleaned up my Rust unit tests.
 
-### [91. What You Need to Know to Use xUnit in ASP.NET Core](https://hackernoon.com/what-you-need-to-know-for-using-xunit-in-aspnet-core)
+### [91. I Pushed my Code to the Master Branch Without Tests](https://hackernoon.com/i-pushed-my-code-to-the-master-branch-without-tests-h21m34fp)
+![](https://cdn.hackernoon.com/images/SWuYxmBe5WPlAjznGj5Fb05Thnl1-iqe1bfy.jpeg)
+Until I stumbled upon TDD, I had never really understood tests. I remember writing a whole project without tests and publishing it. Can you believe it? 
+
+### [92. What You Need to Know to Use xUnit in ASP.NET Core](https://hackernoon.com/what-you-need-to-know-for-using-xunit-in-aspnet-core)
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-7p8339t.jpeg)
 Learn how to effectively utilize xUnit for testing ASP.NET Core applications, ensuring product quality and reliability.
-
-### [92. Here's How Python Can Help You Write More Maintainable Tests](https://hackernoon.com/heres-how-python-can-help-you-write-more-maintainable-tests)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ow02tln.jpeg)
-A key strategy for reducing reliance on mocks is adopting principles from functional programming, particularly the use of pure functions.
 
 ### [93. The HackerNoon Newsletter: System Design in a Nutshell (11/2/2025)](https://hackernoon.com/11-2-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_418_kbmq7g5asg8imyoe7eb84zqv.png)
@@ -378,156 +382,164 @@ A key strategy for reducing reliance on mocks is adopting principles from functi
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-js8352g.jpeg)
 Explore the power of WebApplicationFactory in ASP.NET Core testing to ensure code quality and prevent issues.
 
-### [95. Everything Technical Project Managers Need to Know About End-to-End Testing ](https://hackernoon.com/everything-technical-project-managers-need-to-know-about-end-to-end-testing)
+### [95. Here's How Python Can Help You Write More Maintainable Tests](https://hackernoon.com/heres-how-python-can-help-you-write-more-maintainable-tests)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ow02tln.jpeg)
+A key strategy for reducing reliance on mocks is adopting principles from functional programming, particularly the use of pure functions.
+
+### [96. Everything Technical Project Managers Need to Know About End-to-End Testing ](https://hackernoon.com/everything-technical-project-managers-need-to-know-about-end-to-end-testing)
 ![](https://cdn.hackernoon.com/images/xhMnPx9gMPcJLvjp4MeKNx1fm7A2-g093von.jpeg)
 End-to-end testing is a technique to test a software’s workflow from start to end to ensure it works as expected.
-
-### [96. An Example of True Test Driven Development in Vue](https://hackernoon.com/an-example-of-true-test-driven-development-in-vue-4v2234or)
-![](https://cdn.hackernoon.com/images/SWuYxmBe5WPlAjznGj5Fb05Thnl1-6lcz1box.jpeg)
-In true TDD, tests must fail, tests must pass, and the code must be refactored.
 
 ### [97. Elevate Your Code Quality with Effective Unit Testing](https://hackernoon.com/elevate-your-code-quality-with-effective-unit-testing)
 ![](https://cdn.hackernoon.com/images/anfJV6KSo1bThcpN0mDFqo1MKQp2-pg835ub.jpeg)
 Dive into a comprehensive guide on unit testing that emphasizes aligning tests with user interactions, maintaining semantic structure, and optimizing component.
 
-### [98. Top Unit Testing Automation Frameworks for Selenium](https://hackernoon.com/top-unit-testing-automation-frameworks-for-selenium)
+### [98. An Example of True Test Driven Development in Vue](https://hackernoon.com/an-example-of-true-test-driven-development-in-vue-4v2234or)
+![](https://cdn.hackernoon.com/images/SWuYxmBe5WPlAjznGj5Fb05Thnl1-6lcz1box.jpeg)
+In true TDD, tests must fail, tests must pass, and the code must be refactored.
+
+### [99. Top Unit Testing Automation Frameworks for Selenium](https://hackernoon.com/top-unit-testing-automation-frameworks-for-selenium)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-gc037rh.jpeg)
 With the introduction of Selenium, automation testing has become an easy task. All you need to do is find an appropriate unit testing framework for Selenium.
 
-### [99. Philosophy of Testing and Rules How to Reliably Test Complex Applications With Python Examples](https://hackernoon.com/philosophy-of-testing-and-rules-how-to-reliably-test-complex-applications-with-python-examples)
+### [100. Philosophy of Testing and Rules How to Reliably Test Complex Applications With Python Examples](https://hackernoon.com/philosophy-of-testing-and-rules-how-to-reliably-test-complex-applications-with-python-examples)
 ![](https://cdn.hackernoon.com/images/hvdsiX2OskZLTRYQJf6q4eisRUB3-c142q0u.jpeg)
 Philosophy of testing and rules how to reliably test complex applications with python examples. How to prepare data for tests and check the results.
 
-### [100. Do you Even Test? You Should and Here's Why ](https://hackernoon.com/do-you-even-test-you-should-and-heres-why)
+### [101. Do you Even Test? You Should and Here's Why ](https://hackernoon.com/do-you-even-test-you-should-and-heres-why)
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-i2c3lag.jpeg)
 In this blog post, we'll discuss why testing is so important and how we build our own testing library to encourage good testing practices...
 
-### [101. Test Scope and Isolation With Eunice](https://hackernoon.com/test-scope-and-isolation-with-eunice-vu1a33h4)
+### [102. Test Scope and Isolation With Eunice](https://hackernoon.com/test-scope-and-isolation-with-eunice-vu1a33h4)
 ![](https://cdn.hackernoon.com/images/hssv37fl.jpg)
 There are often debates on the best way to describe what constitutes a "unit" when unit testing. Considering the scope of tests is an important part of code structure and complementary to how implementation is grouped.
 
-### [102. Why Does it Often Take Nearly a Month to Ship a Few Lines of Code?](https://hackernoon.com/why-does-it-often-take-nearly-a-month-to-ship-a-few-lines-of-code-vq6p30wt)
+### [103. Why Does it Often Take Nearly a Month to Ship a Few Lines of Code?](https://hackernoon.com/why-does-it-often-take-nearly-a-month-to-ship-a-few-lines-of-code-vq6p30wt)
 ![](https://cdn.hackernoon.com/images/nv7d3wo0.jpg)
 Ever wondered why it takes nearly a month to ship out a few lines of code change to the star and reliable customers of your company? When the changes made are formally aligned with the product, marketing and application managers, what stops it from being shipped immediately? Why do managers quote timelines for a maintenance release that seems so "unrealistic" to you? These were the thoughts that were going through my mind during my first few months of writing production-quality code.
 
-### [103. How to Release Great Software Using these 12 Types of Testing](https://hackernoon.com/how-to-release-great-software-using-these-12-types-of-testing)
+### [104. How to Release Great Software Using these 12 Types of Testing](https://hackernoon.com/how-to-release-great-software-using-these-12-types-of-testing)
 ![](https://cdn.hackernoon.com/images/XB8aa7XaH5UcSiyI4yZxMvXyPoq2-6ta3h2a.jpeg)
 Get to know the different types of software testing methods and know the use cases, advantages, objectives to identify the best way to go about testing.
 
-### [104. Tips, Tools, and Best Practices for Optimizing Unit Testing in JavaScript ](https://hackernoon.com/tips-tools-and-best-practices-for-optimizing-unit-testing-in-javascript)
+### [105. Tips, Tools, and Best Practices for Optimizing Unit Testing in JavaScript ](https://hackernoon.com/tips-tools-and-best-practices-for-optimizing-unit-testing-in-javascript)
 ![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-ww93szf.jpeg)
 Learn how to improve the performance of your JavaScript unit tests with this comprehensive guide.
 
-### [105. IntelliGame in Action: Gamifying JavaScript Unit Tests - Abstract and Intro](https://hackernoon.com/intelligame-in-action-gamifying-javascript-unit-tests-abstract-and-intro)
+### [106. IntelliGame in Action: Gamifying JavaScript Unit Tests - Abstract and Intro](https://hackernoon.com/intelligame-in-action-gamifying-javascript-unit-tests-abstract-and-intro)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-td82n44.jpeg)
 Explore how IntelliGame, a gamification plugin for IntelliJ, impacts JavaScript unit testing in a controlled experiment with 152 participants.
 
-### [106. The Software Testing Pyramid: What's It All About](https://hackernoon.com/the-software-testing-pyramid-whats-it-all-about)
+### [107. The Software Testing Pyramid: What's It All About](https://hackernoon.com/the-software-testing-pyramid-whats-it-all-about)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-yz83vhl.jpeg)
 The Software Testing Pyramid: a framework for efficient test coverage, early bug detection, and maintaining software quality with unit, integration, and E2E.
 
-### [107. IntelliGame in Action: Gamifying JavaScript Unit Tests - Background and Related Work](https://hackernoon.com/intelligame-in-action-gamifying-javascript-unit-tests-background-and-related-work)
+### [108. IntelliGame in Action: Gamifying JavaScript Unit Tests - Background and Related Work](https://hackernoon.com/intelligame-in-action-gamifying-javascript-unit-tests-background-and-related-work)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-yy82nsr.jpeg)
 Explore how IntelliGame, a gamification plugin for IntelliJ, impacts JavaScript unit testing in a controlled experiment with 152 participants.
 
-### [108. Getting Started With Unit Testing With Rspec on Ruby With Rails](https://hackernoon.com/getting-started-with-unit-testing-with-rspec-on-ruby-with-rails)
-![](https://cdn.hackernoon.com/images/SIf6b69SzaWHMp5FdfCsjZzccao2-lc93pfs.jpeg)
-Getting started with Unit testing with Rspec on ruby with rails
-
-### [109. Using ChatGPT Like a Junior Dev: Productive, But Needs Checking](https://hackernoon.com/using-chatgpt-like-a-junior-dev-productive-but-needs-checking)
-![](https://cdn.hackernoon.com/images/JVJIRn6dkae4dWWPXAUJzJT4OsC2-wi03kqs.png)
-Treat ChatGPT like a junior dev on your team — helpful, but always needing review.
-
-### [110. To Err is Human, to Test is Divine](https://hackernoon.com/to-err-is-human-to-test-is-divine-1ng5351h)
+### [109. To Err is Human, to Test is Divine](https://hackernoon.com/to-err-is-human-to-test-is-divine-1ng5351h)
 ![](https://cdn.hackernoon.com/images/LY29n1qtC5QZ81u8f9nsyrQZWTy1-uh8j38i8.jpeg)
 We are humans, we forget, we make mistakes, we change things, ideas; This happens when we work solo, imagine when you are in a team!
 
-### [111. Tester Stories:  How I Encountered and Fixed Flaky Tests](https://hackernoon.com/tester-stories-how-i-encountered-and-fixed-flaky-tests-n4en35iz)
-![](https://cdn.hackernoon.com/images/THenOWOiE3O1dgeM096pYJbOVNi1-d3c349n.gif)
-Understand flaky tests with some real-world examples. 
+### [110. Getting Started With Unit Testing With Rspec on Ruby With Rails](https://hackernoon.com/getting-started-with-unit-testing-with-rspec-on-ruby-with-rails)
+![](https://cdn.hackernoon.com/images/SIf6b69SzaWHMp5FdfCsjZzccao2-lc93pfs.jpeg)
+Getting started with Unit testing with Rspec on ruby with rails
 
-### [112. If AI Writes the Code, Tests Decide What’s Correct](https://hackernoon.com/if-ai-writes-the-code-tests-decide-whats-correct)
-![](https://capk.me/api/publications/tdd-is-how-i-trust-ai-generated-code/images/hero.png)
-I didn’t trust AI to write my code. Things changed. With tests written first, AI stopped being a risk and started behaving like a serious engineering tool.
-
-### [113. Writing Your First Software Test](https://hackernoon.com/writing-your-first-software-test)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ie020b5.jpeg)
-From your first “Hello, World” to QA mastery, learn how manual and automated testing build curiosity, confidence, and reliable software quality.
-
-### [114. Current Security Testing Platforms: Verification Methods and More](https://hackernoon.com/current-security-testing-platforms-verification-methods-and-more)
+### [111. Current Security Testing Platforms: Verification Methods and More](https://hackernoon.com/current-security-testing-platforms-verification-methods-and-more)
 ![](https://cdn.hackernoon.com/images/security-abstract-o8vvfrk3vgljhvyq2jqk4x3q.png)
 Currently, we see two main categories of verification activities for vehicle cybersecurity that testing platforms have aimed to support.
+
+### [112. Prompt Engineering for Senior Devs: Scaling Excellence Without Technical Debt](https://hackernoon.com/prompt-engineering-for-senior-devs-scaling-excellence-without-technical-debt)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ir83bwk.jpeg)
+This guide explores the specific prompt engineering patterns senior devs use to generate boilerplate, unit tests, and documentation.
+
+### [113. Using ChatGPT Like a Junior Dev: Productive, But Needs Checking](https://hackernoon.com/using-chatgpt-like-a-junior-dev-productive-but-needs-checking)
+![](https://cdn.hackernoon.com/images/JVJIRn6dkae4dWWPXAUJzJT4OsC2-wi03kqs.png)
+Treat ChatGPT like a junior dev on your team — helpful, but always needing review.
+
+### [114. Tester Stories:  How I Encountered and Fixed Flaky Tests](https://hackernoon.com/tester-stories-how-i-encountered-and-fixed-flaky-tests-n4en35iz)
+![](https://cdn.hackernoon.com/images/THenOWOiE3O1dgeM096pYJbOVNi1-d3c349n.gif)
+Understand flaky tests with some real-world examples. 
 
 ### [115. Code Smell 275 - Missing Test Wrong Path](https://hackernoon.com/code-smell-275-missing-test-wrong-path)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-om03694.jpeg)
 This article highlights the critical need for fail conditions in tests expecting exceptions. 
 
-### [116. Dev Diary #2: Run Away from Nesting Functions in Your Code](https://hackernoon.com/dev-diary-2-run-away-from-nesting-functions-in-your-code)
-![](https://cdn.hackernoon.com/images/hQvViCfTxOVba7uSkobJtTErWnu1-cz032fh.png)
-Discover how the Orchestrator/Actions Pattern can simplify your codebase, making it easier to navigate, test, and maintain. 
-
-### [117. Tackling API Testing Challenges in a Fast-Paced Startup Environment With Keploy](https://hackernoon.com/tackling-api-testing-challenges-in-a-fast-paced-startup-environment-with-keploy)
+### [116. Tackling API Testing Challenges in a Fast-Paced Startup Environment With Keploy](https://hackernoon.com/tackling-api-testing-challenges-in-a-fast-paced-startup-environment-with-keploy)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-2f82q8o.jpeg)
 Navigating API testing challenges in a fast-paced startup: discover solutions & insights for seamless development.
 
-### [118. Just Enough Testing: How Many Automated Tests Should We Write?](https://hackernoon.com/just-enough-testing-how-many-automated-tests-should-we-write)
+### [117. Just Enough Testing: How Many Automated Tests Should We Write?](https://hackernoon.com/just-enough-testing-how-many-automated-tests-should-we-write)
 ![](https://cdn.hackernoon.com/images/FDSLAUqwdlOzoGiZjrvaUOs8iqH2-ak03qjg.jpeg)
 How many automated tests should you write? Just Enough. Just Enough Testing balances the need to ship with the quality your customers deserve.
 
-### [119. IntelliGame in Action: Gamifying JavaScript Unit Tests - Results](https://hackernoon.com/intelligame-in-action-gamifying-javascript-unit-tests-results)
+### [118. Writing Your First Software Test](https://hackernoon.com/writing-your-first-software-test)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ie020b5.jpeg)
+From your first “Hello, World” to QA mastery, learn how manual and automated testing build curiosity, confidence, and reliable software quality.
+
+### [119. Dev Diary #2: Run Away from Nesting Functions in Your Code](https://hackernoon.com/dev-diary-2-run-away-from-nesting-functions-in-your-code)
+![](https://cdn.hackernoon.com/images/hQvViCfTxOVba7uSkobJtTErWnu1-cz032fh.png)
+Discover how the Orchestrator/Actions Pattern can simplify your codebase, making it easier to navigate, test, and maintain. 
+
+### [120. IntelliGame in Action: Gamifying JavaScript Unit Tests - Results](https://hackernoon.com/intelligame-in-action-gamifying-javascript-unit-tests-results)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-vl82nqz.jpeg)
 Explore how IntelliGame, a gamification plugin for IntelliJ, impacts JavaScript unit testing in a controlled experiment with 152 participants.
 
-### [120. These Six A/B Testing Mistakes Are Costing You Big Time](https://hackernoon.com/these-six-ab-testing-mistakes-are-costing-you-big-time)
+### [121. These Six A/B Testing Mistakes Are Costing You Big Time](https://hackernoon.com/these-six-ab-testing-mistakes-are-costing-you-big-time)
 ![](https://cdn.hackernoon.com/images/VfV5V4tjJpZrQPrHASJ6Xn5fRCH3-11039uu.jpeg)
 
 After examining thousands of experiments from top tech companies, I discovered six critical A/B testing mistakes that are squandering your team's hard work.
 
-### [121. IntelliGame in Action: Gamifying JavaScript Unit Tests - Implementation](https://hackernoon.com/intelligame-in-action-gamifying-javascript-unit-tests-implementation)
+### [122. IntelliGame in Action: Gamifying JavaScript Unit Tests - Implementation](https://hackernoon.com/intelligame-in-action-gamifying-javascript-unit-tests-implementation)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-xi82n7c.jpeg)
 Explore how IntelliGame, a gamification plugin for IntelliJ, impacts JavaScript unit testing in a controlled experiment with 152 participants.
 
-### [122. Python Unit Testing is Even More Convenient Than You Might Realize](https://hackernoon.com/python-unit-testing-is-even-more-convenient-than-you-might-realize)
+### [123. Python Unit Testing is Even More Convenient Than You Might Realize](https://hackernoon.com/python-unit-testing-is-even-more-convenient-than-you-might-realize)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1p82qxc.jpeg)
 Learn how to write effective unit tests in Python, explore best practices, common pitfalls, and tools like Keploy for comprehensive testing.
 
-### [123. The Long-Term Benefits of Unit Testing (With Jasmine Examples)](https://hackernoon.com/the-long-term-benefits-of-unit-testing-with-jasmine-examples)
+### [124. The Long-Term Benefits of Unit Testing (With Jasmine Examples)](https://hackernoon.com/the-long-term-benefits-of-unit-testing-with-jasmine-examples)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-v783vhx.jpeg)
 learn how unit testing enhances code quality and accelerates development.
-
-### [124. How to Manipulate DateTime in .NET to Help you Code Better](https://hackernoon.com/how-to-manipulate-datetime-in-net-to-help-you-code-better)
-![](https://cdn.hackernoon.com/images/MVDKlMHR1HPFFF37fXb1X5rn9uk1-1n03az6.jpeg)
-Testing code that uses .NET's `DateTime.Now` sucks!!!!  This is how to mock them, to properly validate DateTime when writing unit tests. 
 
 ### [125. Model Validation in C#: Unit Testing](https://hackernoon.com/model-validation-in-c-unit-testing)
 ![](https://cdn.hackernoon.com/images/sHlS9kz5JWgDC6Irc6Iw1ZTwUGE2-tn834b2.jpeg)
 Explore robust model validation in C#, covering unit testing, BDD, and best practices for enhanced application reliability.
 
-### [126. IntelliGame in Action: Gamifying JavaScript Unit Tests - Experiment](https://hackernoon.com/intelligame-in-action-gamifying-javascript-unit-tests-experiment)
+### [126. How to Manipulate DateTime in .NET to Help you Code Better](https://hackernoon.com/how-to-manipulate-datetime-in-net-to-help-you-code-better)
+![](https://cdn.hackernoon.com/images/MVDKlMHR1HPFFF37fXb1X5rn9uk1-1n03az6.jpeg)
+Testing code that uses .NET's `DateTime.Now` sucks!!!!  This is how to mock them, to properly validate DateTime when writing unit tests. 
+
+### [127. IntelliGame in Action: Gamifying JavaScript Unit Tests - Experiment](https://hackernoon.com/intelligame-in-action-gamifying-javascript-unit-tests-experiment)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-3m82nlz.jpeg)
 Explore how IntelliGame, a gamification plugin for IntelliJ, impacts JavaScript unit testing in a controlled experiment with 152 participants.
 
-### [127. Taking a Look under the Hood to See How Jest Finds Related Tests](https://hackernoon.com/taking-a-look-under-the-hood-to-see-how-jest-finds-related-tests)
+### [128. fcfTest Brings Single-Macro Unit Testing to C++](https://hackernoon.com/fcftest-brings-single-macro-unit-testing-to-c)
+![](https://cdn.hackernoon.com/images/NxL8EatlujUsIH1ORkxIwsEWUB52-id020nl.png)
+Discover fcfTest, an MIT-licensed C++ unit testing library with a single assertion macro, one-header setup, logging, and hierarchical test support.
+
+### [129. Taking a Look under the Hood to See How Jest Finds Related Tests](https://hackernoon.com/taking-a-look-under-the-hood-to-see-how-jest-finds-related-tests)
 ![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-he93sr7.jpeg)
 Learn how Jest finds related tests in an optimal way using the Breadth First Search (BFS) algorithm and how to leverage its API in your local development enviro
 
-### [128. The Importance of Writing Effective Component Tests Before Testing Redux with RTL](https://hackernoon.com/the-importance-of-writing-effective-component-tests-before-testing-redux-with-rtl)
-![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-xv93fs1.jpeg)
-Discover strategy to use when writing unit tests for Redux-connected components using React Testing Library (RTL).
-
-### [129. Why I Fired Myself From Writing Unit Tests (And Hired an AI QA Lead)](https://hackernoon.com/why-i-fired-myself-from-writing-unit-tests-and-hired-an-ai-qa-lead)
+### [130. Why I Fired Myself From Writing Unit Tests (And Hired an AI QA Lead)](https://hackernoon.com/why-i-fired-myself-from-writing-unit-tests-and-hired-an-ai-qa-lead)
 ![](https://cdn.hackernoon.com/images/4QQhIuTcGWPBcSXw0KTQbpwavoG2-fv039nc.png)
 Why manual testing is the new technical debt, and how to automate confidence.
 
-### [130. EasyTdd 0.5.0: Streamlining Mocking with Incremental FluentMock and Other Updates](https://hackernoon.com/easytdd-050-streamlining-mocking-with-incremental-fluentmock-and-other-updates)
-![](https://cdn.hackernoon.com/images/t1bhWneHy1PEjw9MD2QlO6WQLxT2-e90333b.png)
-EasyTdd 0.5.0 introduces Incremental FluentMock—streamlining .NET mocking with less boilerplate, intuitive setups, and improved test case generation.
+### [131. The Importance of Writing Effective Component Tests Before Testing Redux with RTL](https://hackernoon.com/the-importance-of-writing-effective-component-tests-before-testing-redux-with-rtl)
+![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-xv93fs1.jpeg)
+Discover strategy to use when writing unit tests for Redux-connected components using React Testing Library (RTL).
 
-### [131. Writing and Selling Unit Tests: When You Need Them and When You Don't](https://hackernoon.com/writing-and-selling-unit-tests-when-you-need-them-and-when-you-dont)
+### [132. Writing and Selling Unit Tests: When You Need Them and When You Don't](https://hackernoon.com/writing-and-selling-unit-tests-when-you-need-them-and-when-you-dont)
 ![](https://cdn.hackernoon.com/images/Y56tfSgkuIgpbx3m4OA15Phv3S93-ima3hap.jpeg)
 Unit tests help ensure your code works better and prevents bugs. However, that explanation sounds too abstract and impractical for real-world scenarios.
 
-### [132. The Power of Integration Testing Services: Elevating Software Quality and Reliability](https://hackernoon.com/the-power-of-integration-testing-services-elevating-software-quality-and-reliability)
+### [133. EasyTdd 0.5.0: Streamlining Mocking with Incremental FluentMock and Other Updates](https://hackernoon.com/easytdd-050-streamlining-mocking-with-incremental-fluentmock-and-other-updates)
+![](https://cdn.hackernoon.com/images/t1bhWneHy1PEjw9MD2QlO6WQLxT2-e90333b.png)
+EasyTdd 0.5.0 introduces Incremental FluentMock—streamlining .NET mocking with less boilerplate, intuitive setups, and improved test case generation.
+
+### [134. The Power of Integration Testing Services: Elevating Software Quality and Reliability](https://hackernoon.com/the-power-of-integration-testing-services-elevating-software-quality-and-reliability)
 ![](https://cdn.hackernoon.com/images/lomXX2UZfIPxnKUQcPXaSkgZwM62-xz93yrt.jpeg)
 Explore the world of integration testing and its critical role in the field of software development.
 

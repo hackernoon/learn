@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [apps](https://hackernoon.com/tagged/apps)
+### Let's learn about [Apps](https://hackernoon.com/tagged/apps) via these 133 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 With the world revolving more and more around technology, learning about apps is more useful than ever.
 
 ### [1. Upside: What You Need to Know About the Popular App](https://hackernoon.com/upside-what-you-need-to-know-about-the-popular-app)
@@ -27,13 +29,13 @@ In this tutorial, you will learn how to make gradient app bar in flutter ? Befor
 ![](https://hackernoon.com/hn-images/1*eAgrkrXfhsG1Mz6HQIlrxA.png)
 What good can happen when we tap Allow on the pop-up that asks to access our location? Some apps provide a better experience, like Facebook suggesting events nearby. Others — can’t work properly without knowing device location, like Uber or Google Maps.
 
-### [7. Delete These Apps to Speed and Space up Your Phone](https://hackernoon.com/delete-these-apps-to-speed-and-space-up-your-phone-ut1s3tbw)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fx4GfrLIyWBUprWnkgKblVqUAv7i2-sn93t3l.jpeg?alt=media&token=590f27f7-7ef0-4ad9-af36-9265bd83d104)
-Smartphones, the smart technology at our fingertips has geared our lifestyles to optimal levels.
-
-### [8. Smart Tutor App Review: Samsung's Official Remote View App](https://hackernoon.com/smart-tutor-app-review-samsungs-official-remote-view-app)
+### [7. Smart Tutor App Review: Samsung's Official Remote View App](https://hackernoon.com/smart-tutor-app-review-samsungs-official-remote-view-app)
 ![](https://cdn.hackernoon.com/images/gJIQIg1YPxb5RjSISA8RrkbCDv83-kia3srb.jpeg)
 Samsung Smart Tutor app is the last stage of getting customer support to fix an issue on your device. It gives a Samsung operator an access to your phone.
+
+### [8. Delete These Apps to Speed and Space up Your Phone](https://hackernoon.com/delete-these-apps-to-speed-and-space-up-your-phone-ut1s3tbw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fx4GfrLIyWBUprWnkgKblVqUAv7i2-sn93t3l.jpeg?alt=media&token=590f27f7-7ef0-4ad9-af36-9265bd83d104)
+Smartphones, the smart technology at our fingertips has geared our lifestyles to optimal levels.
 
 ### [9. How to Build Your Own Crypto Trading App: A Step-by-Step Tutorial](https://hackernoon.com/how-to-build-your-own-crypto-trading-app-a-step-by-step-tutorial)
 ![](https://cdn.hackernoon.com/images/tvNEQyh3w3SCiWtN102YrKCcynz1-gw93und.jpeg)
@@ -107,17 +109,17 @@ Software applications market has got a thriving and competitive nature – and i
 ![](https://cdn.hackernoon.com/drafts/2q1yp254x.png)
 Looking for a little fun and adventure in your life? 
 
-### [27. Blockchain App Debugging: Bugs You Need to Be Aware Of](https://hackernoon.com/blockchain-app-debugging-bugs-you-need-to-be-aware-of)
+### [27. Top 6 Privacy Note Apps for Linux and Android That Actually Sync](https://hackernoon.com/top-6-privacy-note-apps-for-linux-and-android-that-actually-sync)
+![](https://cdn.hackernoon.com/images/TvF0o3nLchScY6fhu9eXJygi11l1-dr029ei.png)
+Note apps that keep your data private and sync perfectly on Linux and Android. Jot ideas anywhere without worrying about privacy or device limits.
+
+### [28. Blockchain App Debugging: Bugs You Need to Be Aware Of](https://hackernoon.com/blockchain-app-debugging-bugs-you-need-to-be-aware-of)
 ![](https://cdn.hackernoon.com/images/dYS1YGEDJnYvNorgqqKV2VUHJ7e2-2393qhw.jpeg)
  If bugs are discovered, all devices must update to the latest version of the app.
 
-### [28. Want Your Mobile App to Succeed? Address These 6 Issues](https://hackernoon.com/want-your-mobile-app-to-succeed-address-these-6-issues-5817322q)
+### [29. Want Your Mobile App to Succeed? Address These 6 Issues](https://hackernoon.com/want-your-mobile-app-to-succeed-address-these-6-issues-5817322q)
 ![](https://cdn.hackernoon.com/drafts/8ct32dg.png)
 Launching the first mobile app for your million-dollar product idea seems like the way to success in today’s world of Android phones and iPhones. Everyone is using mobile apps nowadays. People can’t imagine their lives without Facebook, Google, or Instagram.
-
-### [29. Top 6 Privacy Note Apps for Linux and Android That Actually Sync](https://hackernoon.com/top-6-privacy-note-apps-for-linux-and-android-that-actually-sync)
-![](https://cdn.hackernoon.com/images/TvF0o3nLchScY6fhu9eXJygi11l1-dr029ei.png)
-Note apps that keep your data private and sync perfectly on Linux and Android. Jot ideas anywhere without worrying about privacy or device limits.
 
 ### [30. Delivering The Competitive Edge In Food Delivery Business By Creating Mobile App](https://hackernoon.com/mobile-apps-delivering-the-competitive-edge-in-food-delivery-business-92i3zqk)
 ![](https://cdn.hackernoon.com/drafts/acg73z36.png)
@@ -204,29 +206,29 @@ W﻿hat a time to be alive! If you're a millennial like me and lived through the
 ![](https://cdn.hackernoon.com/images/DiwEq4qN7KNxAIjEWoKGfmmqi6N2-god3ox1.jpeg)
 Storytime Sam is an app that uses GPT-3 to generate captivating stories for children. It's user-friendly, easy to navigate, and includes a section for parents t
 
-### [51. React Native Plant App UI #6 : Login Screen](https://hackernoon.com/react-native-plant-app-ui-6-login-screen-gco322k)
-![](https://cdn.hackernoon.com/images/fy10p32yn.jpg)
-This tutorial is the sixth part of our React Native Plant App tutorial series. In the previous part, we successfully implemented the Terms of services Modal view and completed the overall UI sections of the Welcome screen. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous part in order to get insight and knowledge of the overall project.
-
-### [52. Common Mistakes to Avoid When Migrating](https://hackernoon.com/common-mistakes-to-avoid-when-migrating)
+### [51. Common Mistakes to Avoid When Migrating](https://hackernoon.com/common-mistakes-to-avoid-when-migrating)
 ![](https://cdn.hackernoon.com/images/FMxPyNbtmbVZMKp6XUVBRhVHKyx1-6q93ni0.jpeg)
 Licensing fees and risk are the main drivers for migrating to Open Source Cloud Foundry or Kubernetes...
 
-### [53. 15 Most Useful Tools for Software Devs in 2021](https://hackernoon.com/15-most-useful-tools-for-software-devs-in-2021-vz4f35b0)
-![](https://cdn.hackernoon.com/images/SX77kQ7AuphQDZQhV7OSkx49OZc2-p52548gl.jpeg)
-I would like to tell you about some tools and software that I use on a daily basis. This article will introduce the top 15 most useful tools for software devs.
+### [52. React Native Plant App UI #6 : Login Screen](https://hackernoon.com/react-native-plant-app-ui-6-login-screen-gco322k)
+![](https://cdn.hackernoon.com/images/fy10p32yn.jpg)
+This tutorial is the sixth part of our React Native Plant App tutorial series. In the previous part, we successfully implemented the Terms of services Modal view and completed the overall UI sections of the Welcome screen. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous part in order to get insight and knowledge of the overall project.
 
-### [54. How Can Contact-Tracing Apps Could Help Limit The Spread Of COVID-19](https://hackernoon.com/how-can-contact-tracing-apps-could-help-limit-the-spread-of-covid-19-fr4332kd)
+### [53. How Can Contact-Tracing Apps Could Help Limit The Spread Of COVID-19](https://hackernoon.com/how-can-contact-tracing-apps-could-help-limit-the-spread-of-covid-19-fr4332kd)
 ![](https://cdn.hackernoon.com/images/d9vt3yze.jpg)
 At the time of writing this article, the total number of COVID-19 cases stands at the 858,892 mark, with more than 40,000 deaths recorded worldwide.
 
-### [55. Hackernews Hunt — A hacker news reader with the summary and clean UI](https://hackernoon.com/hacker-news-hunt-a-new-way-to-read-hacker-news-d2123ef942e7)
-![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-vh838jd.jpeg)
-Every <a href="https://hackernoon.com/tagged/hackernews" target="_blank">hackernews</a> app on the <a href="https://hackernoon.com/tagged/play-store" target="_blank">play store</a> that has been built is exactly like hackernews with few color changes and there are so many of them. I always wanted a good mobile-optimized app for hackernews as I am a big fan of the content of hackernews. Here are the few things I like about hackernews:
+### [54. 15 Most Useful Tools for Software Devs in 2021](https://hackernoon.com/15-most-useful-tools-for-software-devs-in-2021-vz4f35b0)
+![](https://cdn.hackernoon.com/images/SX77kQ7AuphQDZQhV7OSkx49OZc2-p52548gl.jpeg)
+I would like to tell you about some tools and software that I use on a daily basis. This article will introduce the top 15 most useful tools for software devs.
 
-### [56. How to Publish On the App Store](https://hackernoon.com/how-to-publish-on-the-app-store)
+### [55. How to Publish On the App Store](https://hackernoon.com/how-to-publish-on-the-app-store)
 ![](https://cdn.hackernoon.com/images/3c0Ba4iB54PS3D89K3wjjsbD9Ll1-mp93pg9.jpeg)
 How to publish an app to the app store. Using react native, expo, eas, MongoDB, Express, AWS, and Git to publish a full-stack app to the Apple app store.
+
+### [56. Hackernews Hunt — A hacker news reader with the summary and clean UI](https://hackernoon.com/hacker-news-hunt-a-new-way-to-read-hacker-news-d2123ef942e7)
+![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-vh838jd.jpeg)
+Every <a href="https://hackernoon.com/tagged/hackernews" target="_blank">hackernews</a> app on the <a href="https://hackernoon.com/tagged/play-store" target="_blank">play store</a> that has been built is exactly like hackernews with few color changes and there are so many of them. I always wanted a good mobile-optimized app for hackernews as I am a big fan of the content of hackernews. Here are the few things I like about hackernews:
 
 ### [57. 11 Zoom Apps to Make Meetings More Efficient](https://hackernoon.com/11-zoom-apps-to-make-meetings-more-efficient)
 ![](https://cdn.hackernoon.com/images/EQE4btnh5YZLc9ybRlVhg3Xthkk2-t1a3qwh.jpeg)
@@ -236,21 +238,21 @@ While the basic features of Zoom are more than enough for the average team, ther
 ![](https://cdn.hackernoon.com/images/XUoO0NuMTTMIYqK1kG0MOAZHaX83-5n93p3z.jpeg)
 Technology broke modern dating: but here's how it can fix it.
 
-### [59. Why Flutter is the Silver Bullet to Reduce App Development Cost](https://hackernoon.com/why-flutter-is-the-silver-bullet-to-reduce-app-development-cost)
-![](https://cdn.hackernoon.com/images/NPpeHHzuHSQz9hZ52qrNTgG9C6a2-mye3lrx.jpeg)
-Do you have a brilliant app idea, but you're wondering how to reduce app development costs? Don't worry, Flutter can help you develop an app within your budget.
-
-### [60. 5 Useful Apps for Small Businesses](https://hackernoon.com/5-useful-apps-for-small-businesses)
+### [59. 5 Useful Apps for Small Businesses](https://hackernoon.com/5-useful-apps-for-small-businesses)
 ![](https://cdn.hackernoon.com/images/LOpbPEvdGFcRFxrndNvmsZBc0c22-fd93pk6.jpeg)
 Organizing teamwork, submitting bills, scanning documents, and doing inventory—these duties can be carried out swiftly if you know the right app for them. 
 
-### [61. 20 Top Tools And Apps To Generate More Targeted Leads In 2021](https://hackernoon.com/20-top-tools-and-apps-to-generate-more-targeted-leads-in-2021-xr1i33ff)
-![](https://cdn.hackernoon.com/images/D2u2LK1FunaVhdtjpKFRybbAD9t1-jc6q32vg.jpeg)
-If you are wondering what is the best lead generation software, you arereading the right article. Lead generation and acquiring leads isessential for any business, so it is very important to use good toolsto help you with this. This article will tell you everything aboutthe 20 best lead generation apps and tools some of which areconsidered the best free lead generation software currently availableon the market.
+### [60. Why Flutter is the Silver Bullet to Reduce App Development Cost](https://hackernoon.com/why-flutter-is-the-silver-bullet-to-reduce-app-development-cost)
+![](https://cdn.hackernoon.com/images/NPpeHHzuHSQz9hZ52qrNTgG9C6a2-mye3lrx.jpeg)
+Do you have a brilliant app idea, but you're wondering how to reduce app development costs? Don't worry, Flutter can help you develop an app within your budget.
 
-### [62. The Best Shopify Wholesale Apps for 2022](https://hackernoon.com/the-best-shopify-wholesale-apps-for-2022)
+### [61. The Best Shopify Wholesale Apps for 2022](https://hackernoon.com/the-best-shopify-wholesale-apps-for-2022)
 ![](https://cdn.hackernoon.com/images/Kw32eRwbrmeim4If6jSrFZEIpSB3-ct93ozk.jpeg)
 The Best Shopify Wholesale Apps for 2022
+
+### [62. 20 Top Tools And Apps To Generate More Targeted Leads In 2021](https://hackernoon.com/20-top-tools-and-apps-to-generate-more-targeted-leads-in-2021-xr1i33ff)
+![](https://cdn.hackernoon.com/images/D2u2LK1FunaVhdtjpKFRybbAD9t1-jc6q32vg.jpeg)
+If you are wondering what is the best lead generation software, you arereading the right article. Lead generation and acquiring leads isessential for any business, so it is very important to use good toolsto help you with this. This article will tell you everything aboutthe 20 best lead generation apps and tools some of which areconsidered the best free lead generation software currently availableon the market.
 
 ### [63. What Is a Coworking Space?](https://hackernoon.com/what-is-a-coworking-space)
 ![](https://cdn.hackernoon.com/images/ykdPKkvzTNZSTajUY4tUU8nrwMC2-t5037v9.jpeg)
@@ -269,14 +271,14 @@ This tutorial is the third part of our Airbnb Home Screen UI clone using React N
 We want to highlight several applications that make freelance life easier and work more productive.
 
 
-### [67. Social Features: The Secret to Bridging the Gap Between Apps and Users ](https://hackernoon.com/social-features-the-secret-to-bridging-the-gap-between-apps-and-users-5f2n334o)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-gd1o33ag.jpeg)
-With a competitive app market and struggle to keep customers engaged, how can app developers ensure that they keep their users for a longer time? 
-
-### [68. 5 Mobile Apps to Help You Redecorate Your Home](https://hackernoon.com/5-mobile-apps-to-help-you-redecorate-your-home)
+### [67. 5 Mobile Apps to Help You Redecorate Your Home](https://hackernoon.com/5-mobile-apps-to-help-you-redecorate-your-home)
 ![](https://cdn.hackernoon.com/images/6hWIoZ4m0oPrJDtl5IWmGW1ygqw1-f3f3p5p.jpeg)
 Spring is coming, and it's the perfect time to add more color and liven up your home. I will share some apps to help you transform the space around you.
 
+
+### [68. Social Features: The Secret to Bridging the Gap Between Apps and Users ](https://hackernoon.com/social-features-the-secret-to-bridging-the-gap-between-apps-and-users-5f2n334o)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-gd1o33ag.jpeg)
+With a competitive app market and struggle to keep customers engaged, how can app developers ensure that they keep their users for a longer time? 
 
 ### [69. Stay Up-to-Date With Tech News : DevBytes](https://hackernoon.com/stay-up-to-date-with-tech-news-devbytes)
 ![](https://cdn.hackernoon.com/images/yJx6Jb9xDbaeUH6oktJcQUQy9xR2-0y93mh4.jpeg)
@@ -306,235 +308,239 @@ This is the 2nd article documenting what I’ve learned from a series of 10 Trai
 ![](https://cdn.hackernoon.com/drafts/q61w2du6.png)
 When I started writing a small but real growing project, I noticed that the app shouldn’t only work well but also should be well organized. 
 
-### [76. React Native Car Parking Finder App UI Clone #6: Implementing Modal View](https://hackernoon.com/react-native-car-parking-finder-app-ui-clone-6-implementing-modal-view-mm15324i)
-![](https://cdn.hackernoon.com/images/88uo32rn.jpg)
-This tutorial is the sixth part of our React Native Car Parking App UI clone series. In the last part, we successfully implemented the Header section in our map screen as well as organized our code. In this part of the tutorial series, we are going to continue from where we left off in the last part. So, it is recommended to go through all the previous parts of this tutorial series in order to get the full insight and development of the project.
-
-### [77. How to Develop a Messaging App like WhatsApp: Your Handy Guide](https://hackernoon.com/how-to-develop-a-messaging-app-like-whatsapp-your-handy-guide-uk243ya3)
+### [76. How to Develop a Messaging App like WhatsApp: Your Handy Guide](https://hackernoon.com/how-to-develop-a-messaging-app-like-whatsapp-your-handy-guide-uk243ya3)
 ![](https://cdn.hackernoon.com/drafts/7bm23yqt.png)
 WhatsApp, Facebook Messenger, and We Chat apps do not require any introduction. These messaging apps have become more popular than social media, and many entrepreneurs want to capitalize on their popularity. However, it is quite a task to make any new instant messaging app like WhatsApp successful because of intense competition. Let’s go through five formulas to make your messaging app capable of standing firm against the giants. 
 
-### [78. How to Use react-router-native-animate-stack Module](https://hackernoon.com/how-to-use-react-router-native-animate-stack-module-5e4r24n4)
+### [77. React Native Car Parking Finder App UI Clone #6: Implementing Modal View](https://hackernoon.com/react-native-car-parking-finder-app-ui-clone-6-implementing-modal-view-mm15324i)
+![](https://cdn.hackernoon.com/images/88uo32rn.jpg)
+This tutorial is the sixth part of our React Native Car Parking App UI clone series. In the last part, we successfully implemented the Header section in our map screen as well as organized our code. In this part of the tutorial series, we are going to continue from where we left off in the last part. So, it is recommended to go through all the previous parts of this tutorial series in order to get the full insight and development of the project.
+
+### [78. 7 Best Apps for Renters (2026)](https://hackernoon.com/7-best-apps-for-renters-2026)
+![](https://cdn.hackernoon.com/images/V0mg4ynf9Adqkc3hZJgM5s9qTjy1-tn03g4d.jpeg)
+Streamline apartment life with the 7 best essential apps for renters in 2026. Use these tools for finding rentals, paying bills, and getting renters insurance. 
+
+### [79. How to Use react-router-native-animate-stack Module](https://hackernoon.com/how-to-use-react-router-native-animate-stack-module-5e4r24n4)
 ![](https://cdn.hackernoon.com/images/y53x3y0x.gif)
 React Router Native v5 with your desired customisation transition style! 
 
-### [79. The Hidden Cost of “Free” Apps and the Battle for Your Attention ](https://hackernoon.com/the-hidden-cost-of-free-apps-and-the-battle-for-your-attention)
+### [80. The Hidden Cost of “Free” Apps and the Battle for Your Attention ](https://hackernoon.com/the-hidden-cost-of-free-apps-and-the-battle-for-your-attention)
 ![](https://cdn.hackernoon.com/images/an-app-filled-with-apps-sketch-color-mnoz41rwgu79ft2ygt2p2nek.png)
 The “free” model of popular apps often disguises data collection, behavioral profiling, and monetization of user attention.
 
-### [80. Challenges Encountered By Test Data Management In The Healthcare Sector](https://hackernoon.com/challenges-encountered-by-test-data-management-in-the-healthcare-sector)
+### [81. Challenges Encountered By Test Data Management In The Healthcare Sector](https://hackernoon.com/challenges-encountered-by-test-data-management-in-the-healthcare-sector)
 ![](https://cdn.hackernoon.com/images/R8aLhmiN8rUgojf5QE8E0wAqhU73-85a3kzn.jpeg)
 Here is a list of challenges faced by the testers while working and designing the apps for the healthcare industry.
 
-### [81. Using Shopping Apps to Boost Profits Small e-Commerce Entrepreneurs](https://hackernoon.com/using-shopping-apps-to-boost-profits-small-e-commerce-entrepreneurs)
+### [82. Using Shopping Apps to Boost Profits Small e-Commerce Entrepreneurs](https://hackernoon.com/using-shopping-apps-to-boost-profits-small-e-commerce-entrepreneurs)
 ![](https://cdn.hackernoon.com/images/2fC9rSCnVqPsr97x6ZygGFxpdrP2-wc03omi.jpeg)
 By launching an app, you could increase retention rates, take care of your customers’ private data, and provide them with a better shopping experience. 
 
-### [82. Get Rid Of Your Self-Imposed Restrictions: An App Review of Freedom](https://hackernoon.com/get-rid-of-your-self-imposed-restrictions-an-app-review-of-freedom-0o4a359w)
+### [83. Get Rid Of Your Self-Imposed Restrictions: An App Review of Freedom](https://hackernoon.com/get-rid-of-your-self-imposed-restrictions-an-app-review-of-freedom-0o4a359w)
 ![](https://cdn.hackernoon.com/images/VYTbQ9RCY6Madi01sqFPdM88UX52-5m3634g7.jpeg)
 Want to improve your focus so you can get more done? Stop relying on self-discipline and use the Freedom app instead.
 
-### [83. Low-Code vs No-Code: A Buzzword Battle for the Ages](https://hackernoon.com/low-code-vs-no-code-a-buzzword-battle-for-the-ages)
+### [84. Low-Code vs No-Code: A Buzzword Battle for the Ages](https://hackernoon.com/low-code-vs-no-code-a-buzzword-battle-for-the-ages)
 ![](https://cdn.hackernoon.com/images/6pK1p88c2pVd4Zmu94nkdCnULux2-ph02cmo.jpeg)
 Developing apps normally needs experienced programmers who are familiar with development. However, these low-code and no-code apps change the paradigm. 
-
-### [84. Todays 5 Ideas: 31.08.2020](https://hackernoon.com/todays-5-ideas-31082020-0o163tdc)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzNqVKNBomCSqc1mpLKtHL9W90ov2-lc153u7e.jpeg?alt=media&token=0c26084d-4ddb-41f9-b2b0-8b0426c455d2)
-A text editor where Pac-Man will start eating the text whenever you press backspace.
 
 ### [85. Airbnb UI Clone with React Native Part #2 : Recommended Homes View](https://hackernoon.com/airbnb-home-screen-ui-clone-with-react-native-2-recommended-homes-ib1sw320j)
 ![](https://cdn.hackernoon.com/images/1z10323m.jpg)
 This tutorial is the second part of our Airbnb Home Screen UI clone using React Native. In the previous part, we successfully implemented the bottom tab bar and the search bar at the top. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous part for better understanding and insight into the overall project.
 
-### [86. The Next Revolution in the Dating Industry: Will AI Help Me Find a Boyfriend?](https://hackernoon.com/the-next-revolution-in-the-dating-industry-will-ai-help-me-find-a-boyfriend-q74237ij)
+### [86. Todays 5 Ideas: 31.08.2020](https://hackernoon.com/todays-5-ideas-31082020-0o163tdc)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzNqVKNBomCSqc1mpLKtHL9W90ov2-lc153u7e.jpeg?alt=media&token=0c26084d-4ddb-41f9-b2b0-8b0426c455d2)
+A text editor where Pac-Man will start eating the text whenever you press backspace.
+
+### [87. The Next Revolution in the Dating Industry: Will AI Help Me Find a Boyfriend?](https://hackernoon.com/the-next-revolution-in-the-dating-industry-will-ai-help-me-find-a-boyfriend-q74237ij)
 ![](https://cdn.hackernoon.com/images/NqFBgsMsodTucsTW6YyqzBOeFmI2-oa2a2b6e.jpeg)
 Artificial Intelligence-assisted solutions in the dating world are leveraging large volumes of new and old data to analyze user behavior like never before. 
 
-### [87. Todays 5 Ideas: 29.08.2020](https://hackernoon.com/todays-5-ideas-29082020-8l2d3u7a)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzNqVKNBomCSqc1mpLKtHL9W90ov2-9ay3ugs.jpeg?alt=media&token=4ff08076-a1be-419f-81e1-40381a908494)
-A recycling bin that compresses my trash allowing me more space to fill.
-
-### [88. How I Overcame Anxiety and Built an App to Help Others](https://hackernoon.com/how-i-overcame-anxiety-and-built-an-app-to-help-others-862q3yp2)
-![](https://cdn.hackernoon.com/drafts/8t9z32nn.png)
-I may have presented myself as a happy person surrounded by lots of friends. Yes, I’m a happy person and am fortunate to have good friends around me. However, it took me a while to live and think this way. Maybe nothing has really changed around me but I know that the way I look and think through things has completely changed. Now I look at things in a more optimistic way than before. It didn’t happen overnight but it slowly turned me into this way after simply writing down things from my mind to actual writing.
-
-### [89. How To Build An App Business with Success: 3 Basic Tips to Get Started](https://hackernoon.com/how-to-build-an-app-business-with-success-3-basic-tips-to-get-started-tq3l34wy)
+### [88. How To Build An App Business with Success: 3 Basic Tips to Get Started](https://hackernoon.com/how-to-build-an-app-business-with-success-3-basic-tips-to-get-started-tq3l34wy)
 ![](https://cdn.hackernoon.com/images/qdggGPFPznMO5j49ITdAq2NrlP63-m13c214i.jpeg)
 Modern entrepreneurs and tech-savvy innovators around the world are
 increasingly coming to realize that building an app business is one of the most effective routes to fame and fortune. 
 
-### [90. The Secret of Startup Success: Picking The Best Technology for Your App](https://hackernoon.com/the-secret-of-startup-success-picking-the-best-technology-for-your-app-nt3h37q3)
-![](https://cdn.hackernoon.com/images/QRGNf4u0yOPOCrZZP30RqX23xeG2-yc4s35qz.jpeg)
-When picking up the technology for the startup app, the technology stack plays a crucial role. It is a set of frameworks and tools that will be used in social d
+### [89. Todays 5 Ideas: 29.08.2020](https://hackernoon.com/todays-5-ideas-29082020-8l2d3u7a)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzNqVKNBomCSqc1mpLKtHL9W90ov2-9ay3ugs.jpeg?alt=media&token=4ff08076-a1be-419f-81e1-40381a908494)
+A recycling bin that compresses my trash allowing me more space to fill.
 
-### [91. Building an App Inspired by TikTok Insights: A Marketer’s Guide](https://hackernoon.com/building-an-app-inspired-by-tiktok-insights-a-marketers-guide)
-![](https://cdn.hackernoon.com/images/9SoxKAmqupVhKoIItcBFeYXPSNI2-to13d1s.webp)
-From Bumble to Hinge, to figure out how to fill out the blank space in “Tinder, but for..” became the foremost task on the way to developing a following.
+### [90. How I Overcame Anxiety and Built an App to Help Others](https://hackernoon.com/how-i-overcame-anxiety-and-built-an-app-to-help-others-862q3yp2)
+![](https://cdn.hackernoon.com/drafts/8t9z32nn.png)
+I may have presented myself as a happy person surrounded by lots of friends. Yes, I’m a happy person and am fortunate to have good friends around me. However, it took me a while to live and think this way. Maybe nothing has really changed around me but I know that the way I look and think through things has completely changed. Now I look at things in a more optimistic way than before. It didn’t happen overnight but it slowly turned me into this way after simply writing down things from my mind to actual writing.
 
-### [92. Could OpenAI's New iOS App for ChatGPT Raise Fresh Privacy Concerns?](https://hackernoon.com/could-openais-new-ios-chatgpt-app-raise-new-concerns-over-privacy-issues)
+### [91. Could OpenAI's New iOS App for ChatGPT Raise Fresh Privacy Concerns?](https://hackernoon.com/could-openais-new-ios-chatgpt-app-raise-new-concerns-over-privacy-issues)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-a293g9a.jpeg)
 Privacy advocates and experts are raising questions about the data collection and storage practices employed by the ChatGPT app
 
-### [93. 3 Tips on How to Stay Safe in Your Everyday Cyber Life](https://hackernoon.com/3-tips-on-how-to-stay-safe-in-your-everyday-cyber-life-qgx3yjy)
+### [92. Building an App Inspired by TikTok Insights: A Marketer’s Guide](https://hackernoon.com/building-an-app-inspired-by-tiktok-insights-a-marketers-guide)
+![](https://cdn.hackernoon.com/images/9SoxKAmqupVhKoIItcBFeYXPSNI2-to13d1s.webp)
+From Bumble to Hinge, to figure out how to fill out the blank space in “Tinder, but for..” became the foremost task on the way to developing a following.
+
+### [93. The Secret of Startup Success: Picking The Best Technology for Your App](https://hackernoon.com/the-secret-of-startup-success-picking-the-best-technology-for-your-app-nt3h37q3)
+![](https://cdn.hackernoon.com/images/QRGNf4u0yOPOCrZZP30RqX23xeG2-yc4s35qz.jpeg)
+When picking up the technology for the startup app, the technology stack plays a crucial role. It is a set of frameworks and tools that will be used in social d
+
+### [94. 3 Tips on How to Stay Safe in Your Everyday Cyber Life](https://hackernoon.com/3-tips-on-how-to-stay-safe-in-your-everyday-cyber-life-qgx3yjy)
 ![](https://cdn.hackernoon.com/drafts/hz183shx.png)
 Remember your mom always repeating "stay safe" phrase? Well, you should stay safe! Not only in streets, but also in cyberspace. 
-
-### [94. 5 Personal Finance Apps to Take Control of Your Financial Situation](https://hackernoon.com/5-personal-finance-apps-to-take-control-of-your-financial-situation-1h3f37zz)
-![](https://hackernoon.com/images/Wl8LtE0RiJMdcewSwr1rIEpJW6s1-w4fw342c.jpeg)
-Find out which apps to make use of that can help with your spending, budgeting, and tracking your finances.
 
 ### [95. 5 Apps to Check Out for Earth Day](https://hackernoon.com/5-apps-to-check-out-for-earth-day)
 ![](https://cdn.hackernoon.com/images/6hWIoZ4m0oPrJDtl5IWmGW1ygqw1-1hf3p5s.png)
 To prepare for Earth Day, I'd like to share some apps that can help you make your lifestyle more sustainable.
 
 
-### [96. React Native Plant App UI #3 : Implementing Welcome Screen](https://hackernoon.com/react-native-plant-app-ui-3-implementing-welcome-screen-tbr32k3)
-![](https://cdn.hackernoon.com/images/7jft3xzh.jpg)
-This tutorial is the third part of our React Native Plant App tutorial series. In the previous part, we successfully implemented all the components in our './components' folder. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous part in order to get insight and knowledge of the overall project.
+### [96. 5 Personal Finance Apps to Take Control of Your Financial Situation](https://hackernoon.com/5-personal-finance-apps-to-take-control-of-your-financial-situation-1h3f37zz)
+![](https://hackernoon.com/images/Wl8LtE0RiJMdcewSwr1rIEpJW6s1-w4fw342c.jpeg)
+Find out which apps to make use of that can help with your spending, budgeting, and tracking your finances.
 
-### [97. 5 Mobile Apps You Need For Your Next Summer Trip](https://hackernoon.com/5-mobile-apps-you-need-for-your-next-summer-trip)
-![](https://cdn.hackernoon.com/images/6hWIoZ4m0oPrJDtl5IWmGW1ygqw1-jl93p4c.jpeg)
-We’ve shortened the list to 5 essential mobile apps that you’ll need on your vacations, whether you go hiking or sunbathing.
-
-### [98. Optimizing Cybersecurity Apps in the Remote Working Era](https://hackernoon.com/optimizing-cybersecurity-apps-in-the-remote-working-era-ev1n3532)
+### [97. Optimizing Cybersecurity Apps in the Remote Working Era](https://hackernoon.com/optimizing-cybersecurity-apps-in-the-remote-working-era-ev1n3532)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-s0x295e.jpeg)
 The fact that businesses struggle with cyberattacks daily is no longer news; however, outfalls from a global pandemic and cybersecurity statistics
 
-### [99. React Native Plant App UI #5 : Terms of Service Modal](https://hackernoon.com/react-native-plant-app-ui-5-terms-of-service-modal-d3zv3x90)
-![](https://cdn.hackernoon.com/images/c9zd3xcw.jpg)
-This tutorial is the fifth part of our React Native Plant App tutorial series. In the previous part, we successfully implemented the Illustrations section with the image slider and Steps section with animated Delimiter dots. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous part in order to get insight and knowledge of the overall project.
+### [98. React Native Plant App UI #3 : Implementing Welcome Screen](https://hackernoon.com/react-native-plant-app-ui-3-implementing-welcome-screen-tbr32k3)
+![](https://cdn.hackernoon.com/images/7jft3xzh.jpg)
+This tutorial is the third part of our React Native Plant App tutorial series. In the previous part, we successfully implemented all the components in our './components' folder. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous part in order to get insight and knowledge of the overall project.
 
-### [100. Developing Apps On Apple Vs Android](https://hackernoon.com/developing-apps-on-apple-vs-android-dx1b32fo)
-![](https://cdn.hackernoon.com/drafts/n62b32lk.png)
-If you have an interest in building an app, then you have to decide between developing for iOS or Android. If you want to go for both, it is costly and precarious. Choose one platform to build your app and later on launch on the other one once you have established the first version of your app successfully. Below are factors that will help you decide on the platform to build your app.
+### [99. 5 Mobile Apps You Need For Your Next Summer Trip](https://hackernoon.com/5-mobile-apps-you-need-for-your-next-summer-trip)
+![](https://cdn.hackernoon.com/images/6hWIoZ4m0oPrJDtl5IWmGW1ygqw1-jl93p4c.jpeg)
+We’ve shortened the list to 5 essential mobile apps that you’ll need on your vacations, whether you go hiking or sunbathing.
 
-### [101. 5 Best Free Android Personalization Apps in 2023](https://hackernoon.com/5-best-free-android-personalization-apps-in-2023)
+### [100. 5 Best Free Android Personalization Apps in 2023](https://hackernoon.com/5-best-free-android-personalization-apps-in-2023)
 ![](https://cdn.hackernoon.com/images/YatMNwU8SkZaUPtsjTBhLiJvQdy2-c393pgq.jpeg)
 Here are 5 of the coolest and top-notch personalization apps for Android that you should look into this year.  Read the list and download the apps for free!
 
-### [102. 4 Easy-To-Use Apps for Making New Friends in 2021](https://hackernoon.com/4-easy-to-use-apps-for-making-new-friends-in-2021-mp1t35ux)
-![](https://cdn.hackernoon.com/images/Egk4QeHIKwhohdHCIbmstmLhCnp2-l03b2942.jpeg)
-In this article, we share with you a list of the best apps to make new friends. We have studied them carefully to ensure that they are safe to download and use.
+### [101. React Native Plant App UI #5 : Terms of Service Modal](https://hackernoon.com/react-native-plant-app-ui-5-terms-of-service-modal-d3zv3x90)
+![](https://cdn.hackernoon.com/images/c9zd3xcw.jpg)
+This tutorial is the fifth part of our React Native Plant App tutorial series. In the previous part, we successfully implemented the Illustrations section with the image slider and Steps section with animated Delimiter dots. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous part in order to get insight and knowledge of the overall project.
+
+### [102. Developing Apps On Apple Vs Android](https://hackernoon.com/developing-apps-on-apple-vs-android-dx1b32fo)
+![](https://cdn.hackernoon.com/drafts/n62b32lk.png)
+If you have an interest in building an app, then you have to decide between developing for iOS or Android. If you want to go for both, it is costly and precarious. Choose one platform to build your app and later on launch on the other one once you have established the first version of your app successfully. Below are factors that will help you decide on the platform to build your app.
 
 ### [103. A Miniature Guide to Messaging App Development in 2021](https://hackernoon.com/a-miniature-guide-to-messaging-app-development-in-2021-tx1b334n)
 ![](https://cdn.hackernoon.com/images/gFDRQ9gYAST6KJPNJZ4RjMk9Bcf1-cg7t33ay.jpeg)
 How to create a messaging app - what tools and technologies are used in messaging and chat application development process.
 
-### [104. We Need to Teach Silicon Valley to Be Ethical](https://hackernoon.com/we-need-to-teach-silicon-valley-to-be-ethical-ww573bgq)
-![](https://cdn.hackernoon.com/drafts/l2q3btc.png)
-The tech industry’s ethics problem is the longest running game of “Not it.” No one wants to take responsibility for teaching men-children millionaires and honestly, that’s fair. We’re not the ones at the forefront of Silicon Valley, however, someone has to do the dirty work.  
+### [104. 4 Easy-To-Use Apps for Making New Friends in 2021](https://hackernoon.com/4-easy-to-use-apps-for-making-new-friends-in-2021-mp1t35ux)
+![](https://cdn.hackernoon.com/images/Egk4QeHIKwhohdHCIbmstmLhCnp2-l03b2942.jpeg)
+In this article, we share with you a list of the best apps to make new friends. We have studied them carefully to ensure that they are safe to download and use.
 
 ### [105. Mobile Application Prototyping: Risk Management in Technology Domain](https://hackernoon.com/mobile-application-prototyping-risk-management-in-technology-domain-y56b32qh)
 ![](https://images.unsplash.com/photo-1576153192281-d558108925bb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 With the advent of Cognitive Technologies like Artificial Intelligence, IoT, Virtual Reality and Augmented Reality, there are no more standalone projects in Technology Domain. 
 
-### [106. Designing Streamplate](https://hackernoon.com/designing-streamplate-baeea2220f94)
+### [106. We Need to Teach Silicon Valley to Be Ethical](https://hackernoon.com/we-need-to-teach-silicon-valley-to-be-ethical-ww573bgq)
+![](https://cdn.hackernoon.com/drafts/l2q3btc.png)
+The tech industry’s ethics problem is the longest running game of “Not it.” No one wants to take responsibility for teaching men-children millionaires and honestly, that’s fair. We’re not the ones at the forefront of Silicon Valley, however, someone has to do the dirty work.  
+
+### [107. Designing Streamplate](https://hackernoon.com/designing-streamplate-baeea2220f94)
 ![](https://cdn.hackernoon.com/images/OXKdZei7N0R7LqIHMa9j-2025-03-11T16:26:38.358Z-hzr1vy4lasygt46ls44umdeu)
 After 3 years of developing, I’ve begun publicly marketing <a href="https://www.streamplate.com" target="_blank">Streamplate</a>.
 
-### [107. The Growth of the Mobile App Industry Amidst COVID-19](https://hackernoon.com/the-growth-of-the-mobile-app-industry-amidst-covid-19-df3l34g0)
+### [108. The Growth of the Mobile App Industry Amidst COVID-19](https://hackernoon.com/the-growth-of-the-mobile-app-industry-amidst-covid-19-df3l34g0)
 ![](https://cdn.hackernoon.com/images/jARFwoCHYRczCu19vJW9VEdymWc2-365s31in.jpeg)
 In the short term, COVID-19 has unquestionably changed our lives. The virus has spread and mutated exponentially, leaving little time for corporations, organizations, and countries to adapt, survive, and prosper.
 
-### [108. Forget New Year Resolutions: We Need Apps That Help Us Progress](https://hackernoon.com/forget-new-year-resolutions-we-need-apps-that-help-us-progress)
+### [109. Forget New Year Resolutions: We Need Apps That Help Us Progress](https://hackernoon.com/forget-new-year-resolutions-we-need-apps-that-help-us-progress)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-x803726.jpeg)
 Apps can improve your life.
 
-### [109. How to Choose the Best Apps for Your Business](https://hackernoon.com/how-to-choose-the-best-apps-for-your-business-882g3yqo)
-![](https://cdn.hackernoon.com/drafts/qs15o2e3c.png)
-Key strategies to pick the best apps for your business
-
-### [110. React Native Travel Article App UI Clone #5 : Animated Delimiter Dots](https://hackernoon.com/react-native-travel-article-app-ui-clone-5-animated-delimiter-dots-vt1p3xm9)
-![](https://cdn.hackernoon.com/images/hp18t3xbs.jpg)
-This tutorial is the fifth part of our React Native Travel Article App UI clone series. In the previous part, we successfully implemented the Recommendation Section on our List Screen. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous parts in order to get the knowledge and insight into the overall project.
-
-### [111. What KPIs do Mobile App Developers Use to Evaluate App Performance?](https://hackernoon.com/what-kpis-do-mobile-app-developers-use-to-evaluate-app-performance)
-![](https://cdn.hackernoon.com/images/qy7Cp5s27aVyiN2mc7Pw4hsvBbD2-be036on.jpeg)
-These are some basic KPIs that Mobile App Developers use to Evaluate App Performance from marketing, development, and financial perspectives to set priorities. 
-
-### [112. How to Simplify Your Work Using the CAKE.com Suite of Tools](https://hackernoon.com/how-to-simplify-your-work-using-the-cakecom-suite-of-tools)
-![](https://cdn.hackernoon.com/images/jfyKa8ItrCQoyEsVS9qGOCIoaxA2-i4g3slv.jpeg)
-If you want to simplify employees' work on a daily basis suite of tools such as CAKE.com offers, can be perfect solution for your team.
-
-### [113. Scaling Gen Z-Focused Apps: Authenticity, AI Personalization, and Monetizing Niche Communities](https://hackernoon.com/scaling-gen-z-focused-apps-authenticity-ai-personalization-and-monetizing-niche-communities)
-![](https://cdn.hackernoon.com/images/JGVZFxTZFBggextIwcKsJ5H7UXD3-0t03bop.png)
-Learn how to scale Gen Z-focused apps with authenticity, AI personalization, and niche community monetization. Insights from apps with millions of users. 
-
-### [114. Telegram and The Collaborative Community](https://hackernoon.com/telegram-and-the-collaborative-community)
+### [110. Telegram and The Collaborative Community](https://hackernoon.com/telegram-and-the-collaborative-community)
 ![](https://cdn.hackernoon.com/images/KJDMr08XFDY3F7ZfOObc0Lj04k93-fo2192v.jpeg)
 Telegram strives to maintain an active and healthy community of volunteers. However, the big question is, why create these spaces for participation? 
 
 
-### [115. Cloud-based Apps are Essential for Remote Work](https://hackernoon.com/cloud-based-apps-are-essential-for-remote-work-i7483tvq)
+### [111. React Native Travel Article App UI Clone #5 : Animated Delimiter Dots](https://hackernoon.com/react-native-travel-article-app-ui-clone-5-animated-delimiter-dots-vt1p3xm9)
+![](https://cdn.hackernoon.com/images/hp18t3xbs.jpg)
+This tutorial is the fifth part of our React Native Travel Article App UI clone series. In the previous part, we successfully implemented the Recommendation Section on our List Screen. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous parts in order to get the knowledge and insight into the overall project.
+
+### [112. Scaling Gen Z-Focused Apps: Authenticity, AI Personalization, and Monetizing Niche Communities](https://hackernoon.com/scaling-gen-z-focused-apps-authenticity-ai-personalization-and-monetizing-niche-communities)
+![](https://cdn.hackernoon.com/images/JGVZFxTZFBggextIwcKsJ5H7UXD3-0t03bop.png)
+Learn how to scale Gen Z-focused apps with authenticity, AI personalization, and niche community monetization. Insights from apps with millions of users. 
+
+### [113. How to Choose the Best Apps for Your Business](https://hackernoon.com/how-to-choose-the-best-apps-for-your-business-882g3yqo)
+![](https://cdn.hackernoon.com/drafts/qs15o2e3c.png)
+Key strategies to pick the best apps for your business
+
+### [114. How to Simplify Your Work Using the CAKE.com Suite of Tools](https://hackernoon.com/how-to-simplify-your-work-using-the-cakecom-suite-of-tools)
+![](https://cdn.hackernoon.com/images/jfyKa8ItrCQoyEsVS9qGOCIoaxA2-i4g3slv.jpeg)
+If you want to simplify employees' work on a daily basis suite of tools such as CAKE.com offers, can be perfect solution for your team.
+
+### [115. What KPIs do Mobile App Developers Use to Evaluate App Performance?](https://hackernoon.com/what-kpis-do-mobile-app-developers-use-to-evaluate-app-performance)
+![](https://cdn.hackernoon.com/images/qy7Cp5s27aVyiN2mc7Pw4hsvBbD2-be036on.jpeg)
+These are some basic KPIs that Mobile App Developers use to Evaluate App Performance from marketing, development, and financial perspectives to set priorities. 
+
+### [116. Cloud-based Apps are Essential for Remote Work](https://hackernoon.com/cloud-based-apps-are-essential-for-remote-work-i7483tvq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGCflSwZ28dhNcjsPOhbfQceHYC12-2g1a287j.jpeg?alt=media&token=4129be66-b56e-4248-872a-aa5b2024627f)
 Times have changed and the global IT domain has now shifted to a BYOD (Bring Your Own Device) model wherein employees are encouraged to bring their own devices to the office and stay connected. The biggest enabler in this has been the apps based on the cloud that can be accessed from any location- all you need is internet access.
 
-### [116. Top 5 Business App Categories during COVID-19](https://hackernoon.com/top-5-business-app-categories-during-covid-19-yi1f3ti8)
+### [117. Top 5 Business App Categories during COVID-19](https://hackernoon.com/top-5-business-app-categories-during-covid-19-yi1f3ti8)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVe3AyoPITGgKBJVgEOOSga2qxvk2-uf1w3u1y.jpeg?alt=media&token=40cbf0d2-d6fc-4953-b0c1-90cec0839ff7)
 In the business world we have to do research and analysis to get to know what users/market have been looking for. So, here is one of our online analytics regarding the apps that are searched by users. We have been doing research on our test website name https://flutterappworld.com/ and i found that these imagine stat that help you to build apps with target markets that have most searches through Google. This stat is based on Google Website and Google analytics data.
-
-### [117. Mac Apps Trends in 2021: Useful Consumer Insights](https://hackernoon.com/mac-apps-trends-in-2021-useful-consumer-insights-ix1735jk)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-u119294c.jpeg)
-We’ve conducted a survey to find out what apps Mac users like, why, and what they value most when purchasing an app. Let’s dive into the Mac Apps Trends Report.
 
 ### [118. "I'm worried about the divide between good and bad developers" - Karan Shah, Noonie Nominee ](https://hackernoon.com/im-worried-about-the-divide-between-good-and-bad-developers-karan-shah-noonie-nominee-ck353u49)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-ja2u3utb.jpeg?alt=media&token=dced5e83-fda4-4a34-a102-cf64afba9327)
 The Noonies help us find the best Hacker Noon contributors, creating content that helps make developer's lives easier. One of our impressive nominees is Karan Shah from India. 
 
-### [119. React Native Car Parking Finder App UI Clone #4 : Map Markers](https://hackernoon.com/react-native-car-parking-finder-app-ui-clone-4-map-markers-nl1n32i4)
+### [119. Mac Apps Trends in 2021: Useful Consumer Insights](https://hackernoon.com/mac-apps-trends-in-2021-useful-consumer-insights-ix1735jk)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-u119294c.jpeg)
+We’ve conducted a survey to find out what apps Mac users like, why, and what they value most when purchasing an app. Let’s dive into the Mac Apps Trends Report.
+
+### [120. React Native Car Parking Finder App UI Clone #4 : Map Markers](https://hackernoon.com/react-native-car-parking-finder-app-ui-clone-4-map-markers-nl1n32i4)
 ![](https://cdn.hackernoon.com/images/rbm3292.jpg)
 This tutorial is the fourth part of our React Native Car Parking App UI clone series. In the last part, we successfully implemented the car parking spots section. In this part of the tutorial series, we are going to continue from where we left off in the last part. So, it is recommended to go through the previous parts of this tutorial series in order to get the full insight and development of the project.
 
-### [120. How to Make Money from Your Mobile App](https://hackernoon.com/how-to-make-money-from-your-mobile-app)
+### [121. How to Make Money from Your Mobile App](https://hackernoon.com/how-to-make-money-from-your-mobile-app)
 ![](https://cdn.hackernoon.com/images/r5J209e3SrbyHe69SvMMkwwBNNg1-f592l4t.jpeg)
 We've worked with companies all over the world to create incredible mobile applications including online delivery apps and engaged in dating app development.
 
-### [121. How to Improve Online Shopping (Slogging Insights)](https://hackernoon.com/how-to-improve-online-shopping-slogging-insights)
+### [122. How to Improve Online Shopping (Slogging Insights)](https://hackernoon.com/how-to-improve-online-shopping-slogging-insights)
 ![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-4n038uj.jpeg)
 Technology has an impact in many fields. In this slogging thread, we approached this impact in shopping and discussed how it can be advantageous for us.
-
-### [122. Using a Password Manager: My Review of Bitwarden](https://hackernoon.com/using-a-password-manager-my-review-of-bitwarden-w92f352x)
-![](https://hackernoon.com/images/YFhOdA6oizUHgtvTLnQW56oBiV83-bl2j347i.jpeg)
-How using an open-source password manager helped keep all my login and password information safe in one place while freeing up my memory and reducing anxiety.
 
 ### [123. React Native Car Parking Finder App UI Clone #5: Header Section](https://hackernoon.com/react-native-car-parking-finder-app-ui-clone-5-header-section-vvr32hw)
 ![](https://cdn.hackernoon.com/images/u8nf321a.jpg)
 
 This tutorial is the fifth part of our React Native Car Parking App UI clone series. In the last part, we successfully implemented the Map Markers in MapView section. In this part of the tutorial series, we are going to continue from where we left off in the last part. So, it is recommended to go through all the previous parts of this tutorial series in order to get the full insight and development of the project.
 
-### [124. 3 Important Integrations For Your Time Tracking Software](https://hackernoon.com/3-important-integrations-for-your-time-tracking-software-vmi3wc7)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FskssOeH48yQNdDqRAn28z8IHu6i1-jcw31c8.jpeg?alt=media&token=ef3806c5-a5ca-41a1-bfc0-a8d163207ba9)
-Effective time management is critical to success. 
+### [124. Using a Password Manager: My Review of Bitwarden](https://hackernoon.com/using-a-password-manager-my-review-of-bitwarden-w92f352x)
+![](https://hackernoon.com/images/YFhOdA6oizUHgtvTLnQW56oBiV83-bl2j347i.jpeg)
+How using an open-source password manager helped keep all my login and password information safe in one place while freeing up my memory and reducing anxiety.
 
 ### [125. Winning App Awards Will Help With Brand Recognition](https://hackernoon.com/winning-app-awards-will-help-with-brand-recognition-r95835i2)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-1pn295k.jpeg)
 Here, we look at the apps awards offered to understand the exact type of apps that are awarded. 
 
-### [126. A Step-by-Step Guide to Enterprise Mobile App Development](https://hackernoon.com/a-step-by-step-guide-to-enterprise-mobile-app-development)
+### [126. 3 Important Integrations For Your Time Tracking Software](https://hackernoon.com/3-important-integrations-for-your-time-tracking-software-vmi3wc7)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FskssOeH48yQNdDqRAn28z8IHu6i1-jcw31c8.jpeg?alt=media&token=ef3806c5-a5ca-41a1-bfc0-a8d163207ba9)
+Effective time management is critical to success. 
+
+### [127. A Step-by-Step Guide to Enterprise Mobile App Development](https://hackernoon.com/a-step-by-step-guide-to-enterprise-mobile-app-development)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-rk93hb5.jpeg)
 An effective app development process flow spans over six key phases, including a strategy and a UI / UX design.
 
-### [127. Dear Ulysses: It’s Over](https://hackernoon.com/dear-ulysses-its-over)
+### [128. Dear Ulysses: It’s Over](https://hackernoon.com/dear-ulysses-its-over)
 ![](https://cdn.hackernoon.com/images/Ws5EC61yddbWwfrpgLWWIofTPYg1-l303aly.png)
 A long-term Ulysses user reflects on how slow development, sync issues, and a subscription model eroded trust in a once-great writing app.
-
-### [128. 7 Useful Apps You Can Use in China](https://hackernoon.com/7-useful-apps-you-can-use-in-china-7u5s3as3)
-![](https://images.unsplash.com/photo-1508804185872-d7badad00f7d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Nowadays everyone is glued to their phones and it’s no different in China, the mobile phone is an indispensable tool and something we just cannot live without. Hands up if it’s one of the last things you see at night and the first thing you look at in the morning? I knew it! Coming to China, a very different country with a different culture and language, your phone becomes even more vital as it is one thing that makes you feel like you’re at home and keeps you connected to it.
 
 ### [129. 6 Questions Startups Should Ask About Design and Development When Building an App](https://hackernoon.com/6-questions-startups-should-ask-about-design-and-development-when-building-an-app-ez2r3bcy)
 ![](https://cdn.hackernoon.com/drafts/p71ae3bw7.png)
 Design and development play equally important roles when it comes to completing a successful app build. But what happens when your team doesn’t have the resources to hire full development and design teams? You’ve got to be even more strategic and clever in your approach.
 
-### [130. Debt Management on Mobile - An Overview](https://hackernoon.com/knowing-more-about-some-great-apps-for-managing-your-finance-f830s22lw)
+### [130. 7 Useful Apps You Can Use in China](https://hackernoon.com/7-useful-apps-you-can-use-in-china-7u5s3as3)
+![](https://images.unsplash.com/photo-1508804185872-d7badad00f7d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Nowadays everyone is glued to their phones and it’s no different in China, the mobile phone is an indispensable tool and something we just cannot live without. Hands up if it’s one of the last things you see at night and the first thing you look at in the morning? I knew it! Coming to China, a very different country with a different culture and language, your phone becomes even more vital as it is one thing that makes you feel like you’re at home and keeps you connected to it.
+
+### [131. Debt Management on Mobile - An Overview](https://hackernoon.com/knowing-more-about-some-great-apps-for-managing-your-finance-f830s22lw)
 ![](https://cdn.hackernoon.com/drafts/1q2zq22i7.png)
 If you are neck-deep in consumer debt, rest assured you are not the only one. As per the data from U.S. Federal Reserve, American households carried $1.07 trillion in terms of total credit card debts and $8,402 per household as in May 2019. Furthermore, the total Outstanding Consumer Debt in the United States is $3.9  trillion and the total U.S. revolving debt amounts to $1.03 trillion. Medical debt seems to be a growing issue in the United States with numerous Americans going through incredible financial instability, distress, and even bankruptcy. We understand that overall, Americans spend almost $3.5 trillion specifically on health care every year. Moreover, the U.S. average student debt is $32,731,while the total student loans amount to $1.52 trillion.
 
-### [131. How to Choose the Best Apps for Your Business](https://hackernoon.com/how-to-choose-the-best-apps-for-your-business-aa213y06)
+### [132. How to Choose the Best Apps for Your Business](https://hackernoon.com/how-to-choose-the-best-apps-for-your-business-aa213y06)
 ![](https://cdn.hackernoon.com/drafts/qs15o2e3c.png)
 Key strategies to pick the best apps for your business
 
-### [132. Introducing The Expense Sensei Business Expense Tracking App](https://hackernoon.com/introducing-the-expense-sensei-business-expense-tracking-app-4e2g34mf)
+### [133. Introducing The Expense Sensei Business Expense Tracking App](https://hackernoon.com/introducing-the-expense-sensei-business-expense-tracking-app-4e2g34mf)
 ![](https://cdn.hackernoon.com/images/LLAJTBU2mHVUpKFvzTYUlDauBDd2-635u37pp.jpeg)
 Learn more about the story behind Expense Sensei application, and how it can change business expense tracking in IT startups for the better.
 

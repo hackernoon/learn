@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [nestjs](https://hackernoon.com/tagged/nestjs)
+### Let's learn about [Nestjs](https://hackernoon.com/tagged/nestjs) via these 50 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+NestJS is a progressive Node.js framework for building efficient, reliable, and scalable server-side applications, leveraging TypeScript. It combines elements of object-oriented, functional, and reactive programming, providing a robust architecture for enterprise-grade solutions.
+
 ### [1. Quick and Easy CRUD with NestJS, @nestjsx/crud and TestMace](https://hackernoon.com/quick-and-easy-crud-with-nestjs-nestjsxcrud-and-testmace-t9cn313h)
 ![](https://cdn.hackernoon.com/drafts/5n6sq31nn.png)
 These days REST API has become a web applications development standard, allowing to divide web development into two separate parts. There are several mainstream frameworks like Angular, React, Vue, that are used for UI. Backend developers are free to choose from large variety of languages and frameworks. Today I’d like to discuss NestJS framework. We’re going to create a simple CRUD application using Nest and the @nestjsx/crud package.
@@ -93,13 +97,13 @@ A story of how to make NestJS application scale and being able to process thousa
 ![](https://cdn.hackernoon.com/images/SFsbtjO6xoXZQmI9d6SeRPSFgnH2-3n93whv.jpeg)
 NodeJS NestJS boilerplate for fast starting a new backend project based on REST API
 
-### [24. Supercharge Your JavaScript Dockerfile for High-Performance Production Deployments.](https://hackernoon.com/supercharge-your-javascript-dockerfile-for-high-performance-production-deployments)
-![](https://cdn.hackernoon.com/images/bKYjS2C6Rxcv14egxakvrg8O65x1-bma3p6k.jpeg)
-A step-by-step guide on writing a Dockerfile for a NestJS project.
-
-### [25. Secure Your NestJS App: How to Implement Authentication With Auth0](https://hackernoon.com/secure-your-nestjs-app-how-to-implement-authentication-with-auth0)
+### [24. Secure Your NestJS App: How to Implement Authentication With Auth0](https://hackernoon.com/secure-your-nestjs-app-how-to-implement-authentication-with-auth0)
 ![](https://cdn.hackernoon.com/images/522HUnTfSIbvDbyhWY3RIecYcZy2-qb034z1.jpeg)
 This guide will walk you through securing your NestJS app using Auth0.
+
+### [25. Supercharge Your JavaScript Dockerfile for High-Performance Production Deployments.](https://hackernoon.com/supercharge-your-javascript-dockerfile-for-high-performance-production-deployments)
+![](https://cdn.hackernoon.com/images/bKYjS2C6Rxcv14egxakvrg8O65x1-bma3p6k.jpeg)
+A step-by-step guide on writing a Dockerfile for a NestJS project.
 
 ### [26. Here’s How to Integrate Stripe with NestJS Like a Pro](https://hackernoon.com/heres-how-to-integrate-stripe-with-nestjs-like-a-pro)
 ![](https://cdn.hackernoon.com/images/522HUnTfSIbvDbyhWY3RIecYcZy2-1z0342j.png)
@@ -109,13 +113,13 @@ Integrating Stripe with NestJS allows you to build a structured and maintainable
 ![](https://cdn.hackernoon.com/images/NPpeHHzuHSQz9hZ52qrNTgG9C6a2-ffg35w5.jpeg)
 NestJs is an easy-to-learn and powerful framework. The beginner's guide for developers will teach you how to create an application using the NestJS framework.
 
-### [28. How to Master Distributed Cache in Nest.JS](https://hackernoon.com/how-to-master-distributed-cache-in-nestjs)
-![](https://cdn.hackernoon.com/images/EUbQBEJ3uVcGvWy8vGTiMhE1pfl2-580334d.png)
-Caching can be a thorn in any developer’s side. I’ve spent too many hours wrestling with slow APIs and overburdened databases.
-
-### [29. Explaining What a Cache Stampede Is and How to Prevent It Using Redis](https://hackernoon.com/explaining-what-a-cache-stampede-is-and-how-to-prevent-it-using-redis)
+### [28. Explaining What a Cache Stampede Is and How to Prevent It Using Redis](https://hackernoon.com/explaining-what-a-cache-stampede-is-and-how-to-prevent-it-using-redis)
 ![](https://cdn.hackernoon.com/images/522HUnTfSIbvDbyhWY3RIecYcZy2-8p13v2o.jpeg)
 A cache stampede happens when expired cache triggers a flood of backend requests.
+
+### [29. How to Master Distributed Cache in Nest.JS](https://hackernoon.com/how-to-master-distributed-cache-in-nestjs)
+![](https://cdn.hackernoon.com/images/EUbQBEJ3uVcGvWy8vGTiMhE1pfl2-580334d.png)
+Caching can be a thorn in any developer’s side. I’ve spent too many hours wrestling with slow APIs and overburdened databases.
 
 ### [30. MongoDB Support for NestJS Boilerplate With Hexagonal Architecture](https://hackernoon.com/mongodb-support-for-nestjs-boilerplate-with-hexagonal-architecture)
 ![](https://cdn.hackernoon.com/images/SFsbtjO6xoXZQmI9d6SeRPSFgnH2-1fb3806.jpeg)
@@ -153,13 +157,13 @@ This article attempts to demystify microservices by showing devs how to create a
 ![](https://cdn.hackernoon.com/images/C6BDdo0xaFcPBRk1mqlMRJFj4Ug2-yt83aje.jpeg)
 how I built a powerful Telegram bot and API library using NestJS.
 
-### [39. Optimizing User Input With Nest-Commander: A Quick Guide](https://hackernoon.com/optimizing-user-input-with-nest-commander-a-quick-guide)
-![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-ua93w5c.jpeg)
-Learn how to boost the functionality of your Nest-Commander application by incorporating user inputs effectively.
-
-### [40. Building AI Agents Doesn't Have to Be Rocket Science (Spoiler: It's Mostly API Calls)](https://hackernoon.com/building-ai-agents-doesnt-have-to-be-rocket-science-spoiler-its-mostly-api-calls)
+### [39. Building AI Agents Doesn't Have to Be Rocket Science (Spoiler: It's Mostly API Calls)](https://hackernoon.com/building-ai-agents-doesnt-have-to-be-rocket-science-spoiler-its-mostly-api-calls)
 ![](https://cdn.hackernoon.com/images/vErz2xS1pndjxVzieBl5J8ffaJF3-jw03724.png)
 Building AI agents isn’t as complex as it sounds. Learn how modern AI apps are mostly about smart API calls, streaming responses, and clean architecture
+
+### [40. Optimizing User Input With Nest-Commander: A Quick Guide](https://hackernoon.com/optimizing-user-input-with-nest-commander-a-quick-guide)
+![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-ua93w5c.jpeg)
+Learn how to boost the functionality of your Nest-Commander application by incorporating user inputs effectively.
 
 ### [41. NestJS vs. Ditsmod: injection scopes](https://hackernoon.com/injection-scopes-in-nestjs-vs-in-ditsmod)
 ![](https://cdn.hackernoon.com/images/KyHLOrXyjxaQpMxI5f36fYN8d6s2-4092r08.jpeg)

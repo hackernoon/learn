@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [framework](https://hackernoon.com/tagged/framework)
+### Let's learn about [Framework](https://hackernoon.com/tagged/framework) via these 86 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A framework is a standardized set of tools, libraries, and conventions used for building software applications, providing a foundational structure. It accelerates development, promotes best practices, and ensures consistency across projects by offering pre-built components and guidelines.
+
 ### [1. How to Schedule Jobs With Quartz in Spring Boot](https://hackernoon.com/how-to-schedule-jobs-with-quartz-in-spring-boot)
 ![](https://cdn.hackernoon.com/images/bu2EcgsBMkb4EPIleKDsMfYfLKF3-h792hz4.png)
 In this article, we will look at how to schedule tasks using the Quartz framework in Spring Boot. We will consider JobStore, and thread pools.
@@ -149,17 +153,17 @@ Selenium is a widely used tool for automated browser testing. Being an open-sour
 ![](https://cdn.hackernoon.com/images/steve-jobs-storytelling-framework-clhkqyyyt000101s6auk26jl9.png)
 A study from Princeton shows the same parts of the brain light up in both the speaker and the listener of a story.
 
-### [38. Top 10 Development Frameworks in 2020](https://hackernoon.com/2020s-top-10-development-frameworks-vp1j3zuw)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-5yp284e.jpeg?alt=media&token=4dbc0268-221f-47fd-9310-9002477ff6bf)
-Web applications are more important now than ever, and this will only be more true in the future. They’re also becoming much more advanced. As these applications continue to evolve, so does the level of development used to create and deploy them.
-
-### [39. Implementing a Web Service With Go and Fiber](https://hackernoon.com/implementing-a-web-service-with-go-and-fiber)
+### [38. Implementing a Web Service With Go and Fiber](https://hackernoon.com/implementing-a-web-service-with-go-and-fiber)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-hh93si6.jpeg)
 Let’s learn the basics of web development with the help of Go programming language and Fiber framework and write the most uncomplicated web service.
 
-### [40. How A Full Stack Framework Can Make An Impact In Your Business](https://hackernoon.com/how-a-full-stack-framework-can-make-an-impact-in-your-business-j7x3wgi)
+### [39. How A Full Stack Framework Can Make An Impact In Your Business](https://hackernoon.com/how-a-full-stack-framework-can-make-an-impact-in-your-business-j7x3wgi)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fd3qk0hxJgjhef6b7702LeYwLmbA3-eu2f3ezf.jpeg?alt=media&token=638c5297-c317-48da-bd33-61218e70e15a)
 It's been a year since the exhibition of QCObjects in the Web Summit and now a lot of people and companies are interested in placing QCObjects at the very core of its enterprise software solution. But why is it?
+
+### [40. Top 10 Development Frameworks in 2020](https://hackernoon.com/2020s-top-10-development-frameworks-vp1j3zuw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-5yp284e.jpeg?alt=media&token=4dbc0268-221f-47fd-9310-9002477ff6bf)
+Web applications are more important now than ever, and this will only be more true in the future. They’re also becoming much more advanced. As these applications continue to evolve, so does the level of development used to create and deploy them.
 
 ### [41. Beginners Guide to Node.JS](https://hackernoon.com/beginners-guide-to-nodejs-unz3urq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIG0HMPfEyNQx8cRrxAhOnddG5Ch2-7b6w3u6w.jpeg?alt=media&token=7d56e749-0f12-470a-82f7-31f936b35722)
@@ -189,69 +193,69 @@ According to the Amplication website's introduction, it's a tool for creating th
 ![](https://cdn.hackernoon.com/images/cVXa2uNdjhhWNDsY02BpXGEZkZ82-r6920pc.jpeg)
 Resonance is new, and it's my first open-source project of this magnitude.
 
-### [48. DevOps for Quantum Computing: Architecting a Deployment Framework for Hybrid Qiskit Applications](https://hackernoon.com/devops-for-quantum-computing-architecting-a-deployment-framework-for-hybrid-qiskit-applications)
-![](https://cdn.hackernoon.com/images/Pbgi0a9p0yW6IqPCr5uIvhARd8w1-dd03bs0.jpeg)
-Quantum computing is moving from the lab to the enterprise. 
-
-### [49. Why Do You Need A JavaScript Test Framework?](https://hackernoon.com/why-do-you-need-a-javascript-test-framework)
+### [48. Why Do You Need A JavaScript Test Framework?](https://hackernoon.com/why-do-you-need-a-javascript-test-framework)
 ![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-0u93rn4.jpeg)
 The JavaScript testing framework enables you to boost your development workflow significantly. In addition, it increases your team’s speed and efficiency. 
 
-### [50.   How to be a React Native Developer](https://hackernoon.com/how-to-be-a-react-native-developer)
+### [49.   How to be a React Native Developer](https://hackernoon.com/how-to-be-a-react-native-developer)
 ![](https://cdn.hackernoon.com/images/TIxYE68RnPZQWGFaMaXpYV0OQ7Q2-vu13gp0.jpeg)
   How to be a React Native Developer
 
-### [51. Understanding AWS Well-Architected Framework](https://hackernoon.com/understanding-aws-well-architected-framework)
+### [50. Understanding AWS Well-Architected Framework](https://hackernoon.com/understanding-aws-well-architected-framework)
 ![](https://cdn.hackernoon.com/images/YqzNjVX0nYVlCUWqv4gnCWnKpey1-ph93oow.jpeg)
 The AWS Well-Architected Framework (WAF) is a set of best practices used to create highly efficient and cost-effective applications on AWS. Lean more. 
 
-### [52. How to Set up a Framework: A Developer’s Guide](https://hackernoon.com/how-to-set-up-a-framework-a-developers-guide)
+### [51. How to Set up a Framework: A Developer’s Guide](https://hackernoon.com/how-to-set-up-a-framework-a-developers-guide)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-ff93nc4.jpeg)
 New developers often don’t know how to set up a framework for smart contract development to make the process as efficient and secure as possible. 
 
-### [53. What is the MITRE ATT&CK Framework and How You Can Use It](https://hackernoon.com/what-is-the-mitre-attandck-framework-and-how-you-can-use-it)
+### [52. What is the MITRE ATT&CK Framework and How You Can Use It](https://hackernoon.com/what-is-the-mitre-attandck-framework-and-how-you-can-use-it)
 ![](https://cdn.hackernoon.com/images/gOION3UpzLYB2bAzKFMIXwcmdD03-z793trj.jpeg)
 More professionals are entering the cybersecurity sector and developing tools to fight hackers every day. 
 
-### [54. Salesforce: Walled Garden No More](https://hackernoon.com/salesforce-walled-garden-no-more-1dm326g)
+### [53. Salesforce: Walled Garden No More](https://hackernoon.com/salesforce-walled-garden-no-more-1dm326g)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-gq2l32uk.jpeg)
 In just five years the Salesforce ecosystem has transformed from a "walled garden" to an open-sourced driven solution set.
 
-### [55. Some Decisions are Mindless, Other Decisions Require Deep Thinking](https://hackernoon.com/some-decisions-are-mindless-other-decisions-require-deep-thinking-733v3yos)
+### [54. Some Decisions are Mindless, Other Decisions Require Deep Thinking](https://hackernoon.com/some-decisions-are-mindless-other-decisions-require-deep-thinking-733v3yos)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJxdXfxOyjOcXV7GPCy4FWpdnOF33-xn233ehn.jpeg?alt=media&token=9150e3b5-7810-479f-add2-ae49162483c5)
 If you've been working for some time, you might have wondered occasionally if it was time to change jobs. If you are early in your career, you can bet that this is a decision you will need to make in your life.
 
-### [56. Tired of Learning 50 New Concepts to Build a Form? Say Hello to Lighthouse for PHP](https://hackernoon.com/tired-of-learning-50-new-concepts-to-build-a-form-say-hello-to-lighthouse-for-php)
+### [55. Tired of Learning 50 New Concepts to Build a Form? Say Hello to Lighthouse for PHP](https://hackernoon.com/tired-of-learning-50-new-concepts-to-build-a-form-say-hello-to-lighthouse-for-php)
 ![](https://cdn.hackernoon.com/images/QriPdMB1fCQx8C4cHWBrawKvizw1-zr02z6z.png)
 Discover Lighthouse, a PHP framework that embraces simplicity. Learn how to build webapps faster with logic in views, zero-config SQLite, and built-in security.
 
-### [57. Creating Computer Vision Apps Without Building Media Pipelines](https://hackernoon.com/creating-computer-vision-apps-without-building-media-pipelines)
+### [56. Creating Computer Vision Apps Without Building Media Pipelines](https://hackernoon.com/creating-computer-vision-apps-without-building-media-pipelines)
 ![](https://cdn.hackernoon.com/images/s56PdED5UWUugk2195GnedqX1AU2-bh92s81.jpeg)
 An open source multimedia framework to build and deploy computer vision apps in minutes without worrying about media pipelines.
 
-### [58. The 37 Dimensions of the API-as-Product Assessment Framework](https://hackernoon.com/the-37-dimensions-of-the-api-as-product-assessment-framework-521h3w5a)
+### [57. The 37 Dimensions of the API-as-Product Assessment Framework](https://hackernoon.com/the-37-dimensions-of-the-api-as-product-assessment-framework-521h3w5a)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FANOvK6YEO3VsptqSywRdUlk1LnD3-lb2x31hu.jpeg?alt=media&token=cdb044a9-553e-43ee-814d-911e0951d489)
 We’ve developed an API-as-Product Assessment Framework that we’re using to assess public APIs. We’re sharing this framework because you will likely find it to be a useful tool for understanding your own API as a product or set of products.
 
-### [59. ATT&CK vs. D3FEND - Get Everyone On the Same Page](https://hackernoon.com/attandck-vs-d3fend-get-everyone-on-the-same-page)
+### [58. ATT&CK vs. D3FEND - Get Everyone On the Same Page](https://hackernoon.com/attandck-vs-d3fend-get-everyone-on-the-same-page)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-mh23360.jpeg)
 Recently MITRE Engenuity announced significant innovations helping cybersecurity professionals to work under the same language.
 
-### [60. Selenium Testing: Running First Pytest Script](https://hackernoon.com/selenium-testing-running-first-pytest-script-iw193uqb)
+### [59. Selenium Testing: Running First Pytest Script](https://hackernoon.com/selenium-testing-running-first-pytest-script-iw193uqb)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfxHVEYXco2WRkm8ai6bgxpipw7g2-ebc63usv.webp?alt=media&token=34053b28-89de-4952-be3d-56888409a53d)
 Selenium as we know, is an open-source test suite used for cross-platform browser automation. Due to its popularity and ease of use, many compatible test frameworks with respect to different programming languages have been developed to extends support of Selenium for cross browser testing over multiple programming languages. Today we’re going to look into Selenium Python tutorial to run our first automation script using PyUnit framework with Selenium.
+
+### [60. DevOps for Quantum Computing: Architecting a Deployment Framework for Hybrid Qiskit Applications](https://hackernoon.com/devops-for-quantum-computing-architecting-a-deployment-framework-for-hybrid-qiskit-applications)
+![](https://cdn.hackernoon.com/images/Pbgi0a9p0yW6IqPCr5uIvhARd8w1-dd03bs0.jpeg)
+Quantum computing is moving from the lab to the enterprise. 
 
 ### [61. How To Learn Ruby on Rails](https://hackernoon.com/how-to-learn-ruby-on-rails-n9163w7x)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEgZmQfwcdgPufCLcwJmSyMs42r63-1a3q3wkf.jpeg?alt=media&token=18a50d73-def4-4d6e-a58a-6383273942b2)
 How to get around in your first Rails projects
 
-### [62. What I Learned About Automation From Complying With AWS Security Requirements](https://hackernoon.com/what-i-learned-about-automation-from-complying-with-aws-security-requirements-a6aa35xi)
-![](https://cdn.hackernoon.com/images/5Uh5zBPl37dQPqNJU2aSMdEwsXw1-2m2j28de.jpeg)
-Let’s get into the action and dig into some of the key requirements of how to operate workloads securely in AWS.
-
-### [63. NestJS vs. Ditsmod: injection scopes](https://hackernoon.com/injection-scopes-in-nestjs-vs-in-ditsmod)
+### [62. NestJS vs. Ditsmod: injection scopes](https://hackernoon.com/injection-scopes-in-nestjs-vs-in-ditsmod)
 ![](https://cdn.hackernoon.com/images/KyHLOrXyjxaQpMxI5f36fYN8d6s2-4092r08.jpeg)
 Good application modularity is closely related to the injector tree hierarchy that Dependency Injection (DI) creates.
+
+### [63. What I Learned About Automation From Complying With AWS Security Requirements](https://hackernoon.com/what-i-learned-about-automation-from-complying-with-aws-security-requirements-a6aa35xi)
+![](https://cdn.hackernoon.com/images/5Uh5zBPl37dQPqNJU2aSMdEwsXw1-2m2j28de.jpeg)
+Let’s get into the action and dig into some of the key requirements of how to operate workloads securely in AWS.
 
 ### [64. Debugging Angular Applications: The Tool You Need to Know](https://hackernoon.com/debugging-angular-applications-the-tool-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/lmcwhIPXHyPIgqoOoDrA9xd8umf1-dk0354f.jpeg)
@@ -265,13 +269,13 @@ Use Jina to search text or images with the power of deep learning.
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fc04EFcTv66Zbzhwa4Fz3VAZCs9g2-xf1h3ueu.jpeg?alt=media&token=59f43f99-c12e-421e-a050-732a1d225622)
 There are a lot of good personal finance and investment apps on the marketplace, but trying to find an app that does it all is hard. 
 
-### [67. Ditsmod - A New NodeJS Framework Written in TypeScript](https://hackernoon.com/ditsmod-a-new-nodejs-framework-written-in-typescript)
-![](https://cdn.hackernoon.com/images/KyHLOrXyjxaQpMxI5f36fYN8d6s2-7ta2ran.jpeg)
-Ditsmod is a modular framework that is especially well suited for medium and large projects.
-
-### [68. The Noonification: Why We Rewrote Ockam in Rust (7/9/2023)](https://hackernoon.com/7-9-2023-noonification)
+### [67. The Noonification: Why We Rewrote Ockam in Rust (7/9/2023)](https://hackernoon.com/7-9-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_495_m6dtlk63bsmrgv6bl0a1zn6t.png)
 7/9/2023: Top 5 stories on the Hackernoon homepage!
+
+### [68. Ditsmod - A New NodeJS Framework Written in TypeScript](https://hackernoon.com/ditsmod-a-new-nodejs-framework-written-in-typescript)
+![](https://cdn.hackernoon.com/images/KyHLOrXyjxaQpMxI5f36fYN8d6s2-7ta2ran.jpeg)
+Ditsmod is a modular framework that is especially well suited for medium and large projects.
 
 ### [69. FreeEval: The Ethical Concerns](https://hackernoon.com/freeeval-the-ethical-concerns)
 ![](https://cdn.hackernoon.com/images/colors-abstract-fz8hzvna6pgm2574pvlovl8b.png)
@@ -305,21 +309,21 @@ Discover how I created Eicrud, a Node.js framework designed to eliminate technic
 ![](https://cdn.hackernoon.com/images/l2t73kbg.jpg)
 What is a Shadow DOM (shadow tree)
 
-### [77. A Meta-Evaluation of LLMs](https://hackernoon.com/a-meta-evaluation-of-llms)
+### [77. FreeEval: A Modular Framework for Trustworthy and Efficient Evaluation of Large Language Models](https://hackernoon.com/freeeval-a-modular-framework-for-trustworthy-and-efficient-evaluation-of-large-language-models)
+![](https://cdn.hackernoon.com/images/framework-ibwn5am9bd1qtj3wgxtahkfb.png)
+FreeEval is designed with a high-performance infrastructure, including distributed computation and caching strategies
+
+### [78. A Meta-Evaluation of LLMs](https://hackernoon.com/a-meta-evaluation-of-llms)
 ![](https://cdn.hackernoon.com/images/a-robot-being-evaluated-by-his-boss-cartoonish-jkrmpiipm0e860c1lfmgihin.png)
 Meta-evaluation refers to the process of evaluating the fairness, reliability, and validity of evaluation protocols themselves.
 
-### [78. Autonomous APIs are the Future - Interview with Jean Machuca, Founder, QCObjects](https://hackernoon.com/autonomous-apis-are-the-future-interview-with-jean-machuca-founder-qcobjects)
+### [79. Autonomous APIs are the Future - Interview with Jean Machuca, Founder, QCObjects](https://hackernoon.com/autonomous-apis-are-the-future-interview-with-jean-machuca-founder-qcobjects)
 ![](https://cdn.hackernoon.com/images/d3qk0hxJgjhef6b7702LeYwLmbA3-1f93ttl.jpeg)
 QCObjects recognized as Startup of the Year 2021
 
-### [79. FreeEval: Efficient Inference Backends](https://hackernoon.com/freeeval-efficient-inference-backends)
+### [80. FreeEval: Efficient Inference Backends](https://hackernoon.com/freeeval-efficient-inference-backends)
 ![](https://cdn.hackernoon.com/images/circuits-and-wires-digitized-frdt0m1gdjdlfk18d03iye6n.png)
 FreeEval’s high-performance inference backends are designed to efficiently handle the computational demands of large-scale LLM evaluations.
-
-### [80. FreeEval: A Modular Framework for Trustworthy and Efficient Evaluation of Large Language Models](https://hackernoon.com/freeeval-a-modular-framework-for-trustworthy-and-efficient-evaluation-of-large-language-models)
-![](https://cdn.hackernoon.com/images/framework-ibwn5am9bd1qtj3wgxtahkfb.png)
-FreeEval is designed with a high-performance infrastructure, including distributed computation and caching strategies
 
 ### [81. How to Optimize Your Time When Coding Frontend](https://hackernoon.com/how-to-optimize-your-time-when-coding-frontend-tr5q3yza)
 ![](https://cdn.hackernoon.com/drafts/p1i3ydc.png)
@@ -329,17 +333,17 @@ I recently took some serious time to improve my skills in front-end HTML and CSS
 ![](https://cdn.hackernoon.com/images/autonomy-z5q00dp5pzspp3pe993riylo.png)
 In this section, we provide an overview of the current landscape of LLM evaluation methods and the challenges posed by data contamination
 
-### [83. The Noonification: The Issue With Crypto Transactions Today (7/16/2023)](https://hackernoon.com/7-16-2023-noonification)
-![](https://cdn.hackernoon.com/images/noonification_865_h4stjq3mshlcxmaps06zeu2f.png)
-7/16/2023: Top 5 stories on the Hackernoon homepage!
-
-### [84. FreeEval Architecture Overview and Extensible Modular Design](https://hackernoon.com/freeeval-architecture-overview-and-extensible-modular-design)
+### [83. FreeEval Architecture Overview and Extensible Modular Design](https://hackernoon.com/freeeval-architecture-overview-and-extensible-modular-design)
 ![](https://cdn.hackernoon.com/images/architecture-waterpaint-yzs8jtn3asvs3l5owhfpum1l.png)
 FreeEval’s architecture features a modular design that could be separated into Evaluation Methods, Meta-Evaluation, and LLM Inference Backends. 
 
-### [85. The Design and Implementation of FreeEval](https://hackernoon.com/the-design-and-implementation-of-freeeval)
+### [84. The Design and Implementation of FreeEval](https://hackernoon.com/the-design-and-implementation-of-freeeval)
 ![](https://cdn.hackernoon.com/images/design-kcp7qewv2p90a8yi1kgremo3.png)
 In this section, we present the design and implementation of FreeEval, we discuss the framework’s architecture and its key components
+
+### [85. The Noonification: The Issue With Crypto Transactions Today (7/16/2023)](https://hackernoon.com/7-16-2023-noonification)
+![](https://cdn.hackernoon.com/images/noonification_865_h4stjq3mshlcxmaps06zeu2f.png)
+7/16/2023: Top 5 stories on the Hackernoon homepage!
 
 ### [86. Effective Ways To Get More Out Of Vessel Framework](https://hackernoon.com/effective-ways-to-get-more-out-of-vessel-framework-slv3tci)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOlBBYiAclpfCGPi4fQnz4uL5Xa53-6x193tn3.jpeg?alt=media&token=eb1351be-f4b4-4afc-8f6f-af8adfc6031d)

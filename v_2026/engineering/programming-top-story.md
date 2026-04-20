@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [programming-top-story](https://hackernoon.com/tagged/programming-top-story)
+### Let's learn about [Programming Top Story](https://hackernoon.com/tagged/programming-top-story) via these 102 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A programming top story highlights the most impactful or trending news, tutorials, and analyses within the programming world. It serves as an essential resource for developers to stay updated on critical developments, tools, and best practices shaping the industry.
+
 ### [1. Import JSON To Google Sheets - 3 Best Ways To Do It](https://hackernoon.com/3-best-ways-to-import-json-to-google-sheets-ultimate-guide-3k8s24ya)
 ![](https://cdn.hackernoon.com/images/google-sheets-clif2ncmr000001s6cne380k3.png)
 3 ways to pull JSON data into a Google Spreadsheet
@@ -106,13 +110,13 @@ First of all, congratulations! You have come this far. Creating pull requests is
 ![](https://cdn.hackernoon.com/images/7km32xb.jpg)
 By the end of this article, you should have a working mix project that can generate a PDF from an HTML template and json payload.
 
-### [26. HTTP — PATCH Method! I’ve Been Thinking About It All Wrong](https://hackernoon.com/http-patch-method-ive-been-thinking-about-it-all-wrong-vg6z32ru)
-![](https://cdn.hackernoon.com/drafts/x1w364l.png)
-Today I learned, The Reality that People Never Told Me about HTTP-PATCH!
-
-### [27. Accessing Private Instances With An, Internet-Facing, Application Load Balancer in AWS](https://hackernoon.com/accessing-private-instances-with-an-internet-facing-application-load-balancer-in-aws)
+### [26. Accessing Private Instances With An, Internet-Facing, Application Load Balancer in AWS](https://hackernoon.com/accessing-private-instances-with-an-internet-facing-application-load-balancer-in-aws)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-bk93o90.jpeg)
 In this piece, I will be showing you how to deploy a simple python Flask application with an AWS application load balancer.
+
+### [27. HTTP — PATCH Method! I’ve Been Thinking About It All Wrong](https://hackernoon.com/http-patch-method-ive-been-thinking-about-it-all-wrong-vg6z32ru)
+![](https://cdn.hackernoon.com/drafts/x1w364l.png)
+Today I learned, The Reality that People Never Told Me about HTTP-PATCH!
 
 ### [28. Make your Product Ready to Scale Using Laravel Queues](https://hackernoon.com/make-your-product-ready-to-scale-using-laravel-queues-dqa237if)
 ![](images/8q1jw38r2.jpg)
@@ -206,13 +210,13 @@ When deploying complex SaaS platforms, secrets can quickly become the bane of on
 ![](https://images.unsplash.com/photo-1544256718-3bcf237f3974?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 As good as it is, having your own blog outside of Medium is still not a bad idea. It enables you to have another channel you can totally own to communicate with your readers. And who knows, no company can last forever, what if Medium got acquired by some other company or something even worse happen. You can still sleep well at night knowing you won’t lose all your articles.
 
-### [51. Functor Applicative and Monads](https://hackernoon.com/functor-applicative-and-monads-fp1e32eh)
-![](https://images.unsplash.com/photo-1561327712-2e0c75a1a6e6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-I am putting my understanding about functor,Applicative and Monad after spending few days to find out what monad is . Here is what I found. I am using Kotlin to explain with examples
-
-### [52. Executing a T-test in Python ](https://hackernoon.com/executing-a-t-test-in-python)
+### [51. Executing a T-test in Python ](https://hackernoon.com/executing-a-t-test-in-python)
 ![](https://cdn.hackernoon.com/images/TYAy8YXF3pNC96IPW15fOOqYix43-2l92qo8.jpeg)
 In today’s data-driven world, data is generated and consumed on a daily basis. All this data holds countless hidden ideas and information that can be exhausting
+
+### [52. Functor Applicative and Monads](https://hackernoon.com/functor-applicative-and-monads-fp1e32eh)
+![](https://images.unsplash.com/photo-1561327712-2e0c75a1a6e6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+I am putting my understanding about functor,Applicative and Monad after spending few days to find out what monad is . Here is what I found. I am using Kotlin to explain with examples
 
 ### [53. How To Boost Efficiency with Specialized Dictionary Implementations](https://hackernoon.com/how-to-boost-efficiency-with-specialized-dictionary-implementations-oc3b3adq)
 ![](https://images.unsplash.com/photo-1453748866136-b1dd97284f49?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -256,29 +260,29 @@ This write-up is aimed at explaining how to transfer files between your remote s
 
 
 
-### [63. The Top 10 Benefits of Angular for Web Development](https://hackernoon.com/the-top-10-benefits-of-angular-for-web-development)
-![](https://cdn.hackernoon.com/images/3q9BbFdldvgJCloYVOtUJ7Y0Xsq2-oc93ra8.jpeg)
-Angular was designed with performance in mind. It's fast and efficient, making it a great choice for high website traffic.
-
-### [64. Interview: Flask Creator Armin Ronacher](https://hackernoon.com/interview-flask-creator-armin-ronacher-yx3r3wzs)
+### [63. Interview: Flask Creator Armin Ronacher](https://hackernoon.com/interview-flask-creator-armin-ronacher-yx3r3wzs)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMqO5FJu5BqX6pm118RBfsb2Qysq1-k72e3w3b.jpeg?alt=media&token=67e94f1b-1567-4c87-a3c0-474e8c91ad7f)
 Introduction
+
+### [64. The Top 10 Benefits of Angular for Web Development](https://hackernoon.com/the-top-10-benefits-of-angular-for-web-development)
+![](https://cdn.hackernoon.com/images/3q9BbFdldvgJCloYVOtUJ7Y0Xsq2-oc93ra8.jpeg)
+Angular was designed with performance in mind. It's fast and efficient, making it a great choice for high website traffic.
 
 ### [65. Why Developers Should Take Coding Challenges Regularly](https://hackernoon.com/why-developers-should-take-coding-challenges-regularly-5p1u3xmf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FTm1MMcCj79RoycDk04DGipiTXft2-nt2j3ufv.jpeg?alt=media&token=5b37b875-0f62-4f85-b46a-f8ac3077760e)
 First of all, let me start by saying that the ability to solve coding challenges is not a measure of how good a web developer you are, but it can show that you are a great developer and make you stand out from the crowd. Nobody needs coding challenges to create an outstanding web page using HTML, CSS (or it’s frameworks), and maybe even a little JavaScript.
 
-### [66. Improving the Caching Game on Android in Kotlin](https://hackernoon.com/improving-the-caching-game-on-android-in-kotlin-uv2y32cc)
-![](https://cdn.hackernoon.com/drafts/068t3315.png)
-When we develop our applications we mostly have the best internet connections and we tend to not think about the number of requests the app will make to out back end server once it is live in production. 
-
-### [67. The Cost of Using Open Source Software as a Developer: A Tech Lawyer's Perspective](https://hackernoon.com/the-cost-of-using-open-source-software-as-a-developer-a-tech-lawyers-perspective)
+### [66. The Cost of Using Open Source Software as a Developer: A Tech Lawyer's Perspective](https://hackernoon.com/the-cost-of-using-open-source-software-as-a-developer-a-tech-lawyers-perspective)
 ![](https://cdn.hackernoon.com/images/vFtavd329Idu4kMQWv0UubgTkSt1-qt93bj3.png)
 The Price You Pay As A Developer For Using Open Source Software - A Tech Lawyers View
 
-### [68. Leveraging Marqeta to Build a Payment Service in Spring Boot: A How-To Guide](https://hackernoon.com/leveraging-marqeta-to-build-a-payment-service-in-spring-boot-a-how-to-guide)
+### [67. Leveraging Marqeta to Build a Payment Service in Spring Boot: A How-To Guide](https://hackernoon.com/leveraging-marqeta-to-build-a-payment-service-in-spring-boot-a-how-to-guide)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-kr1fg35xg.jpeg)
 After paying an Uber, John Vester decided to dig into the Marqeta API used for payment processing. Hours later, he created a fully functional Payment Service.
+
+### [68. Improving the Caching Game on Android in Kotlin](https://hackernoon.com/improving-the-caching-game-on-android-in-kotlin-uv2y32cc)
+![](https://cdn.hackernoon.com/drafts/068t3315.png)
+When we develop our applications we mostly have the best internet connections and we tend to not think about the number of requests the app will make to out back end server once it is live in production. 
 
 ### [69. The One Tool To Rule All The Text Manipulation Needs Of A Developer](https://hackernoon.com/the-one-tool-to-rule-all-the-text-manipulation-needs-of-a-developer-1pgk3zx2)
 ![](https://cdn.hackernoon.com/drafts/c5fo32um.png)
@@ -349,17 +353,17 @@ Can we read from different databases? What about getting notifications on view e
 ![](https://cdn.hackernoon.com/drafts/8e1l29pb.png)
 Why something so simple keeps bothering us?
 
-### [86. Have We Reached the Age of Modularity Maturity?](https://hackernoon.com/have-we-reached-the-age-of-modularity-maturity)
+### [86. Leviathan Level 2 → Level 3 | Learn Basic Exploitation Techniques](https://hackernoon.com/leviathan-level-2-level-3-or-basic-exploitation-techniques-qas2bua)
+![](https://images.unsplash.com/photo-1572435555646-7ad9a149ad91?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Learn linux command by playing Leviathan wargame from OverTheWire. This wargame doesn’t require any knowledge about programming - just a bit of common sense and some knowledge about basic *nix commands.
+
+### [87. Have We Reached the Age of Modularity Maturity?](https://hackernoon.com/have-we-reached-the-age-of-modularity-maturity)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-d392952.jpeg)
 while microservices come with their perks, the cons are so huge sometimes that they offset the pros. There are more manageable ways to achieve the same result.
 
-### [87. Exclusive Integrated Development Environments to Code The Best In 2020](https://hackernoon.com/exclusive-integrated-development-environments-to-code-the-best-in-2020-431s3xo0)
+### [88. Exclusive Integrated Development Environments to Code The Best In 2020](https://hackernoon.com/exclusive-integrated-development-environments-to-code-the-best-in-2020-431s3xo0)
 ![](https://cdn.hackernoon.com/drafts/ee1e93veu.png)
 Software development or programming is not easy until you are a hardcore programmer. A while back, programmers had to code on dull command prompt screens, run the code on a separate compiler then debug it on some third platform. Today, although, programming needs the same dedication and efforts, it has become easier to code, compile, and debug in the same environment. All thanks to IDE-Integrated Development Environment platforms, which enable coders to perform all the major functions of programming in one place.
-
-### [88. Leviathan Level 2 → Level 3 | Learn Basic Exploitation Techniques](https://hackernoon.com/leviathan-level-2-level-3-or-basic-exploitation-techniques-qas2bua)
-![](https://images.unsplash.com/photo-1572435555646-7ad9a149ad91?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Learn linux command by playing Leviathan wargame from OverTheWire. This wargame doesn’t require any knowledge about programming - just a bit of common sense and some knowledge about basic *nix commands.
 
 ### [89. Coding Does Not Need to Be A Curse](https://hackernoon.com/coding-does-not-need-to-be-a-curse-0t7136z3)
 ![](https://cdn.hackernoon.com/images/21nj3ahs.jpg)

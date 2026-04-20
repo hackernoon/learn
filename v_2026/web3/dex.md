@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [dex](https://hackernoon.com/tagged/dex)
+### Let's learn about [Dex](https://hackernoon.com/tagged/dex) via these 116 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A Decentralized Exchange (DEX) is a cryptocurrency exchange that operates without a central authority, facilitating peer-to-peer trading directly from users' wallets. DEXs enhance security, privacy, and censorship resistance by removing intermediaries from the trading process.
+
 ### [1. Understanding Decentralized Exchanges](https://hackernoon.com/understanding-decentralized-exchanges-51b70ed3fe67)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-px03bzp.jpeg)
 Most of the world’s cryptocurrency trading is done through centralized exchanges such as <a href="http://coinbase.com/" target="_blank">Coinbase/GDax</a>, <a href="http://binance.com/" target="_blank">Binance</a>, <a href="http://bittrex.com/" target="_blank">Bittrex</a>, etc. These exchanges manage a person’s capital (and private keys) and facilitate trading. In the <a href="http://fortune.com/2018/01/31/coincheck-hack-how/" target="_blank">past weeks</a> and <a href="https://bravenewcoin.com/news/mtgox-btc-e-and-the-missing-coins-a-living-timeline-of-the-greatest-cyber-crime-ever/" target="_blank">years</a> there have been some high profile hacks in which a large amount of funds were stolen. It is unlikely that this problem will get solved anytime soon and I would argue that the problem will only get worse. The increase of software and hardware complexity will result in more severe security vulnerabilities such as the recent <a href="https://medium.com/@mattklein123/meltdown-spectre-explained-6bc8634cc0c2" target="_blank">Meltdown and Spectre exploits</a> in Intel’s CPU firmware.
@@ -61,33 +65,33 @@ Predictions for Crypto industry in 2021: DeFi, DEX, STO, ETH 2.0, CBDC and every
 ![](https://cdn.hackernoon.com/images/cZgPgHr3Crb7Vp2PZMcYZSfjTOI3-j04j359y.jpeg)
 This phenomenon severely distorts the real picture of what is happening in the DeFi space and makes this area vulnerable to flash crash attacks.
 
-### [16. Google Workload Identity Federation, OIDC, Dex and TypeScript: Connect your B2B to Gemini and Vertex](https://hackernoon.com/google-workload-identity-federation-oidc-dex-and-typescript-connect-your-b2b-to-gemini-and-vertex)
-![](https://cdn.hackernoon.com/images/2CnaTwkypCg3LK5uANIw5XkUw453-zq0218r.png)
-Google Workload Identity Federation, OIDC, Dex, NodeJS, Artifact registry, and TypeScript: Connect your B2B to Gemini and Vertex
-
-### [17. 3 DeFi Trends to Expect in 2021](https://hackernoon.com/3-defi-trends-to-expect-in-2021-1w1r34ku)
+### [16. 3 DeFi Trends to Expect in 2021](https://hackernoon.com/3-defi-trends-to-expect-in-2021-1w1r34ku)
 ![](https://cdn.hackernoon.com/images/kHmjlBgSzubv4ecXBQJFooO88AF2-vcr315t.jpeg)
 The total value of locked assets in DeFi protocols rose to $19.72 billion, having started the year at just $600M. DEX volumes also rose dramatically: at the start of the year they captured just 0.12% of total market, but by October were soaking up over 15%, led by Uniswap, the AMM that everyone in DeFi seemed to be emulating, trading on, and LP’ing in this year.
 
-### [18. Solana Network Seems Extremely Promising but Isn’t Yet Battle-Tested](https://hackernoon.com/solana-network-seems-extremely-promising-but-isnt-yet-battle-tested)
+### [17. Solana Network Seems Extremely Promising but Isn’t Yet Battle-Tested](https://hackernoon.com/solana-network-seems-extremely-promising-but-isnt-yet-battle-tested)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-ya039u3.jpeg)
 This article talks about cross-chain DEX and how different blockchains such as Solana are distributing the smart contract industry. 
 
-### [19. Fragmented No More: CEO of EYWA Explains Fixing Spread-Out Liquidity and Bridge Security](https://hackernoon.com/fragmented-no-more-ceo-of-eywa-explains-fixing-spread-out-liquidity-and-bridge-security)
+### [18. Fragmented No More: CEO of EYWA Explains Fixing Spread-Out Liquidity and Bridge Security](https://hackernoon.com/fragmented-no-more-ceo-of-eywa-explains-fixing-spread-out-liquidity-and-bridge-security)
 ![](https://cdn.hackernoon.com/images/DCpjqbBx5ORsCpo2MXVSpdKl13j2-0183cse.jpeg)
 Learn how to resolve fragmented liquidity and insecure bridges problems
 
-### [20. 4 Entrepreneurs are Betting Big on Polkadot: Meet Their Projects](https://hackernoon.com/4-entrepreneurs-are-betting-big-on-polkadot-meet-their-projects-8w1m3zrx)
+### [19. 4 Entrepreneurs are Betting Big on Polkadot: Meet Their Projects](https://hackernoon.com/4-entrepreneurs-are-betting-big-on-polkadot-meet-their-projects-8w1m3zrx)
 ![](https://cdn.hackernoon.com/images/gW54tsMEjpSGNI2OvRWVLcsWJtD3-5cv34co.jpeg)
 Touted by some as the “Ethereum Killer”, Polkadot has over 250 projects building on it’s ever-growing ecosystem
 
-### [21. 7 Pillars of Crypto in 2021 - A Look at DeFi, SoFi, and Legislative Regulation](https://hackernoon.com/7-pillars-of-crypto-in-2021-a-look-at-defi-sofi-and-legislative-regulation-a04h32vd)
+### [20. 7 Pillars of Crypto in 2021 - A Look at DeFi, SoFi, and Legislative Regulation](https://hackernoon.com/7-pillars-of-crypto-in-2021-a-look-at-defi-sofi-and-legislative-regulation-a04h32vd)
 ![](https://cdn.hackernoon.com/images/5rS4yrERbxUtfUCTsrb3x2kieP32-8q2f3exw.jpeg)
 Trends in Blockchain and Cryptocurrencies are changing amazingly fast. We can express every year as the blossom of some new thing: 2017 - ICO, 2018 - IEO, 2019 - Stablecoin, 2020 - DeFi. 
 
-### [22. The Current State and Future of Decentralized Exchanges (DEXs) ](https://hackernoon.com/the-current-state-and-future-of-decentralized-exchanges-dexs)
+### [21. The Current State and Future of Decentralized Exchanges (DEXs) ](https://hackernoon.com/the-current-state-and-future-of-decentralized-exchanges-dexs)
 ![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-ts93h1t.jpeg)
 Decentralized Exchanges (DEXs) have undergone a significant evolution since the debut of NXT Asset Exchange, one of the pioneer DEXs to launch in 2014.
+
+### [22. Google Workload Identity Federation, OIDC, Dex and TypeScript: Connect your B2B to Gemini and Vertex](https://hackernoon.com/google-workload-identity-federation-oidc-dex-and-typescript-connect-your-b2b-to-gemini-and-vertex)
+![](https://cdn.hackernoon.com/images/2CnaTwkypCg3LK5uANIw5XkUw453-zq0218r.png)
+Google Workload Identity Federation, OIDC, Dex, NodeJS, Artifact registry, and TypeScript: Connect your B2B to Gemini and Vertex
 
 ### [23. Which DEXs Stand The Best Chance of Besting The Uniswap and Pancakeswap Dominance?](https://hackernoon.com/which-dexs-stand-the-best-chance-of-besting-the-uniswap-and-pancakeswap-dominance-435434h5)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-lc5234uo.jpeg)
@@ -125,13 +129,13 @@ ve(3,3) tokenomics align incentives in DeFi, driving sustainable liquidity and h
 ![](https://cdn.hackernoon.com/images/C7LGfLlZs3OY2w0N7r4ePehwKBI2-sde3s7n.jpeg)
 An overview of Metalswap's working processes and the manner in which it enriches the community. 
 
-### [32. DeFi Learning: What Is a Liquidity Pool?](https://hackernoon.com/defi-learning-what-is-a-liquidity-pool)
-![](https://cdn.hackernoon.com/images/KrNvmdw10kSMdTv0h9mWXKS0iHc2-uzc3nsg.jpeg)
-Running on the AMM model, liquidity pools have proved to be a secure and efficient income source. What is a liquidity pool? How does a liquidity pool work? 
-
-### [33. SMARDEX Becomes Everything: The Single-Contract Protocol That Could Reshape DeFi Architecture](https://hackernoon.com/smardex-becomes-everything-the-single-contract-protocol-that-could-reshape-defi-architecture)
+### [32. SMARDEX Becomes Everything: The Single-Contract Protocol That Could Reshape DeFi Architecture](https://hackernoon.com/smardex-becomes-everything-the-single-contract-protocol-that-could-reshape-defi-architecture)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-2q03dyz.png)
 SMARDEX evolves into Everything Protocol, merging DEX, lending, and perps trading in one contract. February 2026 launch targets DeFi fragmentation.
+
+### [33. DeFi Learning: What Is a Liquidity Pool?](https://hackernoon.com/defi-learning-what-is-a-liquidity-pool)
+![](https://cdn.hackernoon.com/images/KrNvmdw10kSMdTv0h9mWXKS0iHc2-uzc3nsg.jpeg)
+Running on the AMM model, liquidity pools have proved to be a secure and efficient income source. What is a liquidity pool? How does a liquidity pool work? 
 
 ### [34. DEX's And AMM's Fuel DeFi Growth](https://hackernoon.com/dexs-and-amms-fuel-defi-growth)
 ![](https://cdn.hackernoon.com/images/0occow2Rm7Zauw41hUhjTOc8N7C2-ga93sng.jpeg)
@@ -177,13 +181,13 @@ A look at Gleec and how it works.
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-3893jor.jpeg)
 Unizen’s smart exchange aims to address these flaws by merging a centralized (CEX) and decentralized (DEX) architecture, dubbed 'CeDeFi' by the crypto community
 
-### [45. DEXs Are Winning Against CEXs By Reducing Slippage And GAS costs](https://hackernoon.com/dexs-are-winning-against-cexs-by-reducing-slippage-and-gas-costs)
-![](https://cdn.hackernoon.com/images/ILYdCTNvQpWuwSeDNVop7loJYf62-rg0394f.jpeg)
-At the beginning, DEXs replicated the orderbook model of CEX as the market-making mechanism. 
-
-### [46. 1inch is ...Inflationary?](https://hackernoon.com/1inch-is-inflationary-2b3d34pi)
+### [45. 1inch is ...Inflationary?](https://hackernoon.com/1inch-is-inflationary-2b3d34pi)
 ![](https://hackernoon.com/images/2tg2PetPZ1NapEDbkNtZymPuZdO2-4de36uj.png)
 After a user on Reddit informed me the smart contract allows the team to create unlimited tokens, I became interested in traveling further down the wormhole.
+
+### [46. DEXs Are Winning Against CEXs By Reducing Slippage And GAS costs](https://hackernoon.com/dexs-are-winning-against-cexs-by-reducing-slippage-and-gas-costs)
+![](https://cdn.hackernoon.com/images/ILYdCTNvQpWuwSeDNVop7loJYf62-rg0394f.jpeg)
+At the beginning, DEXs replicated the orderbook model of CEX as the market-making mechanism. 
 
 ### [47. Liquidity Matters: Reviewing 10 Popular Decentralized Exchanges in Web3](https://hackernoon.com/liquidity-matters-reviewing-10-popular-decentralized-exchanges-in-web3)
 ![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-ej93e35.jpeg)
@@ -201,21 +205,21 @@ While it’s been quite a chaotic year, the DeFi revolution has proven that the 
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-8f03el4.jpeg)
 This article talks about decentralized asset management services and decentralized trading. 
 
-### [51. Speculative AMMs Are the Future of DeFi](https://hackernoon.com/dextoken-protocol-presenting-the-future-of-defi-ecosystem-lyi3zg1)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIqRVoFRZoLa91LZl4mkFcvYwbO33-x3a3zd9.png?alt=media&token=27adad63-5e4d-4b3e-bf3e-9182d97f5d75)
-Since the last two years, a significant upsurge has taken place in the Defi space. Gone are the days where you had limited options for what you can do with your crypto. 
-
-### [52. DeGate's ZK-Rollup DEX Initiates $1.11m Bug Bounty Program on Immunefi to Enhance Security Measure](https://hackernoon.com/degates-zk-rollup-dex-initiates-$111m-bug-bounty-program-on-immunefi-to-enhance-security-measure)
+### [51. DeGate's ZK-Rollup DEX Initiates $1.11m Bug Bounty Program on Immunefi to Enhance Security Measure](https://hackernoon.com/degates-zk-rollup-dex-initiates-$111m-bug-bounty-program-on-immunefi-to-enhance-security-measure)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o492gxm.jpeg)
 The program will pay out $1.11 million to a hacker who identifies a critical vulnerability in DeGate smart contract.
 
-### [53. The ETH Merge Is (Almost) Upon Us – Here’s What To Actually Expect](https://hackernoon.com/the-eth-merge-is-almost-upon-us---heres-what-to-actually-expect)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-kg93o7h.jpeg)
-With all of the excitement around the upcoming Ethereum Merge, it can be hard to know what is hype and what is real alpha.
-
-### [54. WingRiders is Using Cardano to Build a DEX Based on DAG-Based Technology.](https://hackernoon.com/wingriders-is-using-cardano-to-build-a-dex-based-on-dag-based-technology)
+### [52. WingRiders is Using Cardano to Build a DEX Based on DAG-Based Technology.](https://hackernoon.com/wingriders-is-using-cardano-to-build-a-dex-based-on-dag-based-technology)
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-9093i0i.jpeg)
 In this story we’ll look at the evolution of decentralized exchanges as well as the EUTXO protocol and the WingRiders platform.
+
+### [53. Speculative AMMs Are the Future of DeFi](https://hackernoon.com/dextoken-protocol-presenting-the-future-of-defi-ecosystem-lyi3zg1)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIqRVoFRZoLa91LZl4mkFcvYwbO33-x3a3zd9.png?alt=media&token=27adad63-5e4d-4b3e-bf3e-9182d97f5d75)
+Since the last two years, a significant upsurge has taken place in the Defi space. Gone are the days where you had limited options for what you can do with your crypto. 
+
+### [54. The ETH Merge Is (Almost) Upon Us – Here’s What To Actually Expect](https://hackernoon.com/the-eth-merge-is-almost-upon-us---heres-what-to-actually-expect)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-kg93o7h.jpeg)
+With all of the excitement around the upcoming Ethereum Merge, it can be hard to know what is hype and what is real alpha.
 
 ### [55. Web 3.0 and Centralized Exchanges: How Crypto Exchanges Will Work in the Decentralized Internet Era](https://hackernoon.com/web-30-and-centralized-exchanges-how-crypto-exchanges-will-work-in-the-decentralized-internet-era)
 ![](https://cdn.hackernoon.com/images/0QUQpD0VCsgAaYPa5e24rYsNMx62-f193puw.jpeg)
@@ -229,65 +233,65 @@ For the simple reason that they were giving their users contradictory informatio
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-9gc3qgo.jpeg)
 Polkadex’s is launching Thea, an Interoperable layer that connects the Polkadex blockchain to Ethereum and other blockchains. 
 
-### [58. How to Keep Yourself Safe from Filthy, Dirty Coins  ](https://hackernoon.com/how-to-keep-yourself-safe-from-filthy-dirty-coins-2a1k37lm)
+### [58. How MYX Plans to Become the Clearinghouse For $7.9 Trillion Onchain Derivatives Market ](https://hackernoon.com/how-myx-plans-to-become-the-clearinghouse-for-$79-trillion-onchain-derivatives-market)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-em83ev4.png)
+Consensys leads MYX strategic round ahead of V2 launch, positioning modular derivatives settlement as core Ethereum infrastructure.
+
+### [59. How to Keep Yourself Safe from Filthy, Dirty Coins  ](https://hackernoon.com/how-to-keep-yourself-safe-from-filthy-dirty-coins-2a1k37lm)
 ![](https://cdn.hackernoon.com/images/s3aaUy2891Q0i043SYY3it9CzEB3-ea143ggx.jpeg)
 With the news that January trading volume on decentralized exchanges reached an all-time high (above 55 billion - can you imagine?), unfortunately, an increased risk of money laundering (ML) occurred as well. 
 
-### [59. Get The Professional Tools To Take Your Crypto-Trading To The Next Level](https://hackernoon.com/get-the-professional-tools-to-take-your-crypto-trading-to-the-next-level-me3a34br)
+### [60. Get The Professional Tools To Take Your Crypto-Trading To The Next Level](https://hackernoon.com/get-the-professional-tools-to-take-your-crypto-trading-to-the-next-level-me3a34br)
 ![](https://hackernoon.com/images/Zvn0vrreWXfOpWzLMBzMiizAFVj1-oo1f34ft.jpeg)
 For a long time after the launch of Bitcoin, only insiders and true believers cared about cryptocurrency.
 
-### [60. Where and How To Buy Ripple (XRP)?](https://hackernoon.com/where-and-how-to-buy-ripple-xrp)
+### [61. What Happens When $57 Billion in Liquid Staking Tokens Get Safe Leverage: The Hyperdrive Thesis](https://hackernoon.com/what-happens-when-$57-billion-in-liquid-staking-tokens-get-safe-leverage-the-hyperdrive-thesis)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-qk83gbg.png)
+Hyperdrive launches leverage markets using redemption-based pricing to eliminate liquidation cascades in DeFi. Can it finally make crypto leverage safe?
+
+### [62. Where and How To Buy Ripple (XRP)?](https://hackernoon.com/where-and-how-to-buy-ripple-xrp)
 ![](https://cdn.hackernoon.com/images/Ypdd2zdgN8XDBX9XVlJ5pD5uxJK2-kc92of8.jpeg)
 It is XRPL that makes it possible to validate Ripple transactions in an average of three to five seconds.
 
-### [61. UK FinTech Startup, Plutus, Set to Change Loyalty Marketing With Crypto](https://hackernoon.com/uk-fintech-startup-plutus-set-to-change-loyalty-marketing-with-crypto-uz1w3ydq)
+### [63. UK FinTech Startup, Plutus, Set to Change Loyalty Marketing With Crypto](https://hackernoon.com/uk-fintech-startup-plutus-set-to-change-loyalty-marketing-with-crypto-uz1w3ydq)
 ![](https://cdn.hackernoon.com/drafts/jm4n407c.png)
 Loyalty reward initiatives have become a common concept in today’s marketing scene with most brands using them as an additional avenue for data collection. This has since raised the question about who really benefits from these programmes in the long-run given data has become more valuable than it was. Ideally, consumers are lured into ‘good deals’ in exchange for information that is important in strategic decision making.  
 
-### [62. DeFi Is A Shot In The Arm For The Trade Finance Industry](https://hackernoon.com/defi-is-a-shot-in-the-arm-for-the-trade-finance-industry-5o2k34p3)
+### [64. DeFi Is A Shot In The Arm For The Trade Finance Industry](https://hackernoon.com/defi-is-a-shot-in-the-arm-for-the-trade-finance-industry-5o2k34p3)
 ![](https://cdn.hackernoon.com/images/qPvInZDEbHeo8m82rWCBzbT3vS52-c23234gb.jpeg)
 DeFi disrupting trade finance
-
-### [63. Metaverse Will Need a Very Human Touch to Really Reach People ](https://hackernoon.com/metaverse-will-need-a-very-human-touch-to-really-reach-people)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-4803eqa.jpeg)
-By introducing an NFT-identity label (Smartee ID), users can be verified and incentivized to interact and connect in real-world situations.
-
-### [64. What Happens When $57 Billion in Liquid Staking Tokens Get Safe Leverage: The Hyperdrive Thesis](https://hackernoon.com/what-happens-when-$57-billion-in-liquid-staking-tokens-get-safe-leverage-the-hyperdrive-thesis)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-qk83gbg.png)
-Hyperdrive launches leverage markets using redemption-based pricing to eliminate liquidation cascades in DeFi. Can it finally make crypto leverage safe?
 
 ### [65. Meet The Women In Tech: SynFutures Co-Founder and COO Wenny C. and The Next Chapter of DeFi Innovati](https://hackernoon.com/meet-the-women-in-tech-synfutures-co-founder-and-coo-wenny-c-and-the-next-chapter-of-defi-innovati)
 ![](https://cdn.hackernoon.com/images/c1zYUhWR2LVC7EzFfthLs9pBidA2-45038cm.jpeg)
 SynFutures is redefining decentralized derivatives by blending centralized performance with DeFi transparency.
 
-### [66. How MYX Plans to Become the Clearinghouse For $7.9 Trillion Onchain Derivatives Market ](https://hackernoon.com/how-myx-plans-to-become-the-clearinghouse-for-$79-trillion-onchain-derivatives-market)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-em83ev4.png)
-Consensys leads MYX strategic round ahead of V2 launch, positioning modular derivatives settlement as core Ethereum infrastructure.
+### [66. Metaverse Will Need a Very Human Touch to Really Reach People ](https://hackernoon.com/metaverse-will-need-a-very-human-touch-to-really-reach-people)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-4803eqa.jpeg)
+By introducing an NFT-identity label (Smartee ID), users can be verified and incentivized to interact and connect in real-world situations.
 
 ### [67. Pantos Aims to Fix Insecure and Clunky State of Web3 Apps with Multichain Token System](https://hackernoon.com/pantos-aims-to-fix-insecure-and-clunky-state-of-web3-apps-with-multichain-token-system)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-en93pye.jpeg)
 Pantos has released the beta version of its multichain token system to the public.
 
-### [68. A Brief Overview of NFT in 2 Minutes](https://hackernoon.com/a-brief-overview-of-nft-in-2-minutes)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-ux93p4p.jpeg)
-Let's have a quick look at the overview of what NFT is.
-
-### [69. 5 Biggest Challenges That DEX Users Face](https://hackernoon.com/5-biggest-challenges-that-dex-users-face)
+### [68. 5 Biggest Challenges That DEX Users Face](https://hackernoon.com/5-biggest-challenges-that-dex-users-face)
 ![](https://cdn.hackernoon.com/images/rMG3OAUqC1PWRJWF42X0HzilLP13-k683th1.jpeg)
 The evolution of DeFi and the challenges facing decentralized exchanges (DEXs) in mainstream adoption.
 
-### [70. TiDefi CEO on Improving the Trading Experience on DEXs](https://hackernoon.com/tidefi-ceo-on-improving-the-trading-experience-on-dexs)
-![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-6c93no9.jpeg)
-Discussion on the trading experiences for users on DEXs and how it may evolve in the future.
+### [69. A Brief Overview of NFT in 2 Minutes](https://hackernoon.com/a-brief-overview-of-nft-in-2-minutes)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-ux93p4p.jpeg)
+Let's have a quick look at the overview of what NFT is.
 
-### [71. Two-Minute Decentralization: The DEX vs. CEX Battle Behind the Hyperliquid Incident](https://hackernoon.com/two-minute-decentralization-the-dex-vs-cex-battle-behind-the-hyperliquid-incident)
+### [70. Two-Minute Decentralization: The DEX vs. CEX Battle Behind the Hyperliquid Incident](https://hackernoon.com/two-minute-decentralization-the-dex-vs-cex-battle-behind-the-hyperliquid-incident)
 ![](https://cdn.hackernoon.com/images/bYCexUWLiRQ4UzitZo1dfr0t6So1-dv1369z.png)
 Combining CEX efficiency with DEX transparency may well be the next development stage for crypto trading—not ideological opposition but a fusion of advantages.
 
-### [72. How to Spot Scam Tokens on DEX - Detailed Guide](https://hackernoon.com/how-to-spot-scam-tokens-on-dex-detailed-guide)
+### [71. How to Spot Scam Tokens on DEX - Detailed Guide](https://hackernoon.com/how-to-spot-scam-tokens-on-dex-detailed-guide)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-de0208n.jpeg)
 This guide is written for developers, traders, and anyone who uses decentralized exchanges (DEXs) and wants to avoid losing money on scam tokens.
+
+### [72. TiDefi CEO on Improving the Trading Experience on DEXs](https://hackernoon.com/tidefi-ceo-on-improving-the-trading-experience-on-dexs)
+![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-6c93no9.jpeg)
+Discussion on the trading experiences for users on DEXs and how it may evolve in the future.
 
 ### [73. Facilitating Failure Resistance with the Dual Oracle Design](https://hackernoon.com/facilitating-failure-resistance-with-the-dual-oracle-design)
 ![](https://cdn.hackernoon.com/images/t03XIzsJKARrMflzDrlxmlIic9U2-azb3qc2.jpeg)
@@ -355,21 +359,21 @@ We continue our journey in the areas of decentralized finance (DeFi) and today w
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-fc93ojv.jpeg)
 Decentralized cryptocurrency exchange Dexalot has launched its new trading platform, the Dexalot Subnet, on the Avalanche network. 
 
-### [89. Evolution of Crypto-Exchanges From CEXs to DEXs: The Journey From Mt. Gox to Uniswap](https://hackernoon.com/evolution-of-crypto-exchanges-from-cexs-to-dexs-the-journey-from-mt-gox-to-uniswap-b83d33vj)
+### [89. Kinetex to Integrate With 1inch to Boost Liquidity In Cross-Chain Swaps: What You Need to Know](https://hackernoon.com/kinetex-to-integrate-with-1inch-to-boost-liquidity-in-cross-chain-swaps-what-you-need-to-know)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-r78328k.jpeg)
+According to Tigran Bolshoi, co-founder of Kinetex, 1inch stands out as one of the top liquidity aggregators in the DeFi market.
+
+### [90. Evolution of Crypto-Exchanges From CEXs to DEXs: The Journey From Mt. Gox to Uniswap](https://hackernoon.com/evolution-of-crypto-exchanges-from-cexs-to-dexs-the-journey-from-mt-gox-to-uniswap-b83d33vj)
 ![](https://cdn.hackernoon.com/images/cV6H2W5Zw6NvtZQNigFYp0hcFpd2-9x828eb.jpeg)
 Centralized and decentralized exchanges and their evolution in time
 
-### [90. 78 Stories To Learn About Dex](https://hackernoon.com/78-stories-to-learn-about-dex)
+### [91. 78 Stories To Learn About Dex](https://hackernoon.com/78-stories-to-learn-about-dex)
 ![](https://cdn.hackernoon.com/images/github/dex-829.png)
 Learn everything you need to know about Dex via these 78 free HackerNoon stories.
 
-### [91. The Difference Between a CEX and a DEX: Exploring the Pros and Cons](https://hackernoon.com/the-difference-between-a-cex-and-a-dex-exploring-the-pros-and-cons)
+### [92. The Difference Between a CEX and a DEX: Exploring the Pros and Cons](https://hackernoon.com/the-difference-between-a-cex-and-a-dex-exploring-the-pros-and-cons)
 ![](https://cdn.hackernoon.com/images/Bm6Dk7O9xqaIxfKLbfh8LQkOJos2-zzd3x4d.jpeg)
 The Difference Between a CEX and a DEX: Exploring the Pros and Cons of centralized and decentralized crypto exchanges.
-
-### [92. Kinetex to Integrate With 1inch to Boost Liquidity In Cross-Chain Swaps: What You Need to Know](https://hackernoon.com/kinetex-to-integrate-with-1inch-to-boost-liquidity-in-cross-chain-swaps-what-you-need-to-know)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-r78328k.jpeg)
-According to Tigran Bolshoi, co-founder of Kinetex, 1inch stands out as one of the top liquidity aggregators in the DeFi market.
 
 ### [93. Crypto Trading on Centralized vs. Decentralized Exchanges](https://hackernoon.com/crypto-trading-on-centralized-vs-decentralized-exchanges)
 ![](https://cdn.hackernoon.com/images/UxIVBYXKcBbupDdae4FrLTdB2Dv2-e2a3zfz.jpeg)
@@ -379,77 +383,77 @@ On a centralized exchange, users do not have control over their funds, as they a
 ![](https://cdn.hackernoon.com/images/ecMOMxkcdiQcfFoKdLHyrTUAYYX2-atvc35mg.jpeg)
 Uniswap can facilitate the exchange of tokens without relying on the conventional architecture of an order book method and curb liquidity issues simultaneously.
 
-### [95. Bringing DeFi to Cosmos: How the Gravity DEX Protocol Came to be](https://hackernoon.com/bringing-defi-to-cosmos-how-the-gravity-dex-protocol-came-to-be)
-![](https://cdn.hackernoon.com/images/ITwlV96ShKf9Qc8OdsLWcE5MToF2-35137g3.jpeg)
-The Gravity DEX protocol is finally live. Users will be able to experience the protocol when Emeris, the first platform to support it, launches in beta.
-
-### [96. WingRiders DEX Aims to Address Scalability Issues Faced by Ethereum Dapps](https://hackernoon.com/this-cardano-based-dex-aims-to-address-scalability-issues-faced-by-ethereum-dapps)
+### [95. WingRiders DEX Aims to Address Scalability Issues Faced by Ethereum Dapps](https://hackernoon.com/this-cardano-based-dex-aims-to-address-scalability-issues-faced-by-ethereum-dapps)
 ![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-n492ed0.jpeg)
 Scalability is currently one of the largest concerns for the Ethereum network. The network still suffers from slow transactions and high gas costs.
+
+### [96. Bringing DeFi to Cosmos: How the Gravity DEX Protocol Came to be](https://hackernoon.com/bringing-defi-to-cosmos-how-the-gravity-dex-protocol-came-to-be)
+![](https://cdn.hackernoon.com/images/ITwlV96ShKf9Qc8OdsLWcE5MToF2-35137g3.jpeg)
+The Gravity DEX protocol is finally live. Users will be able to experience the protocol when Emeris, the first platform to support it, launches in beta.
 
 ### [97. OSWAP Token: Incentivizing Liquidity Provision in Oswap Pools](https://hackernoon.com/oswap-token-incentivizing-liquidity-provision-in-oswap-pools)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-3c93rzn.png)
 OSWAP token reflects the success of the Oswap protocol and rewards the liquidity providers. It automatically appreciates at a rate that depends on Oswap TVL.
 
-### [98. The Down-Low on Decentralized Finance (DeFi): Where Does The Money Come From?](https://hackernoon.com/the-down-low-on-decentralized-finance-defi-where-does-the-money-come-from-vi3i35rt)
-![](https://cdn.hackernoon.com/images/PsbYH0Gf7bSdaWavmIxhltNrJig1-394q3oe4.png)
-Where does money in DeFi come from? How to earn on DeFi? Many of us might have heard that somewhere, somehow, there is that magical place in DeFi where you can 
+### [98. How a Trader Chooses a Decentralized Exchange](https://hackernoon.com/how-a-trader-chooses-a-decentralized-exchange)
+![](https://cdn.hackernoon.com/images/oW2m1EljTXhcHCWRYWYblUfSYx53-fdb3e9m.png)
+DEX market share just hit 18% of spot and 19% of futures volume. The platforms aren't equal. Here's how to compare what actually matters for execution.
 
 ### [99. DeFi Needs Innovation Badly](https://hackernoon.com/defi-needs-innovation-badly)
 ![](https://cdn.hackernoon.com/images/innovation-clj2s2hvt000401s6em895hpw.png)
 DeFi is often described as the Wild West, where black hat fellows seek out and exploit loopholes within the system.
 
-### [100. Komodo Introduces “Komodo Wallet”: the Ultimate Decentralized Non-Custodial Solution](https://hackernoon.com/komodo-introduces-komodo-wallet-the-ultimate-decentralized-non-custodial-solution)
+### [100. The Down-Low on Decentralized Finance (DeFi): Where Does The Money Come From?](https://hackernoon.com/the-down-low-on-decentralized-finance-defi-where-does-the-money-come-from-vi3i35rt)
+![](https://cdn.hackernoon.com/images/PsbYH0Gf7bSdaWavmIxhltNrJig1-394q3oe4.png)
+Where does money in DeFi come from? How to earn on DeFi? Many of us might have heard that somewhere, somehow, there is that magical place in DeFi where you can 
+
+### [101. Komodo Introduces “Komodo Wallet”: the Ultimate Decentralized Non-Custodial Solution](https://hackernoon.com/komodo-introduces-komodo-wallet-the-ultimate-decentralized-non-custodial-solution)
 ![](https://cdn.hackernoon.com/images/a-wallet-that-can-hold-the-world-zlss0asgpnqpfy1m0ubwgpys.png)
 Komodo Introduces “Komodo Wallet”: the Ultimate Decentralized Non-Custodial Solution, launches Komodo SDK. 
 
-### [101. DODO Launches DEXpert Platform for Decentralized Exchange Development](https://hackernoon.com/dodo-launches-dexpert-platform-for-decentralized-exchange-development)
+### [102. DODO Launches DEXpert Platform for Decentralized Exchange Development](https://hackernoon.com/dodo-launches-dexpert-platform-for-decentralized-exchange-development)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-qk03601.png)
 DODO, a decentralized finance (DeFi) protocol, announced today the release of DEXpert, a toolkit designed for building and managing decentralized exchanges.
 
-### [102. AAX Exchange On a Hiring Spree, Scouting for Talent Amid the Recent Crypto Layoffs ](https://hackernoon.com/aax-exchange-on-a-hiring-spree-scouting-for-talent-amid-the-recent-crypto-layoffs)
+### [103. AAX Exchange On a Hiring Spree, Scouting for Talent Amid the Recent Crypto Layoffs ](https://hackernoon.com/aax-exchange-on-a-hiring-spree-scouting-for-talent-amid-the-recent-crypto-layoffs)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-1o93spe.jpeg)
 AAX Exchange is hiring hundreds of professionals as part of its ambition to quadruple its workforce this year.
 
-### [103. $1M KCC Unicorn Contest: Presenting the Award-Winning Projects](https://hackernoon.com/$1m-kcc-unicorn-contest-presenting-the-award-winning-projects)
+### [104. $1M KCC Unicorn Contest: Presenting the Award-Winning Projects](https://hackernoon.com/$1m-kcc-unicorn-contest-presenting-the-award-winning-projects)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-o993hu1.jpeg)
 KuCoin Community Chain (KCC) has announced the KCC Unicorn Contest has ended, with 14 projects winning an incentive prize pool of approximately $1 million, incl
 
-### [104. Can Ancient Math Principles Still Drive Today’s Most Advanced Finance Systems?](https://hackernoon.com/can-ancient-math-principles-still-drive-todays-most-advanced-finance-systems)
+### [105. Can Ancient Math Principles Still Drive Today’s Most Advanced Finance Systems?](https://hackernoon.com/can-ancient-math-principles-still-drive-todays-most-advanced-finance-systems)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-k802yw8.jpeg)
 What keeps DeFi running? The answer lies in the math. Explore the equations behind DEXs, trading strategies, and liquidity engines.
 
-### [105. Decentralizing the Future: Insights From Wilson Duarte of Hercules](https://hackernoon.com/decentralizing-the-future-insights-from-wilson-duarte-of-hercules)
+### [106. Decentralizing the Future: Insights From Wilson Duarte of Hercules](https://hackernoon.com/decentralizing-the-future-insights-from-wilson-duarte-of-hercules)
 ![](https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-bl82sox.jpeg)
 A conversation with Wilson Duarte on the growing popularity of decentralized exchanges and the crucial security measures they need to implement.
 
-### [106. Top 10 DeFi-nitions You Need to Know to Jump into Decentralized Finance ](https://hackernoon.com/top-10-defi-nitions-you-need-to-know-to-jump-into-decentralized-finance)
-![](https://cdn.hackernoon.com/images/Er9l1aaSORMilFBv0rLGyF38tBv2-d093kr5.jpeg)
-DeFi protocols are pushing the boundaries of financial technology in a high-risk, high-reward game. Here are some of the basic terms, defined in plain English
-
-### [107. Centralized vs Decentralized Exchanges: Making Informed Crypto Trading Decisions](https://hackernoon.com/centralized-vs-decentralized-exchanges-making-informed-crypto-trading-decisions)
-![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-r793xsu.jpeg)
-Two prominent types of exchanges in the crypto world are centralized exchanges (CEX) and decentralized exchanges (DEX). Each has its own set of characteristics.
-
-### [108. ApeX Protocol Unveils Initiatives For Its Sustainable Growth In DeFi](https://hackernoon.com/apex-protocol-unveils-initiatives-to-elevate-token-value-and-market-positioning)
+### [107. ApeX Protocol Unveils Initiatives For Its Sustainable Growth In DeFi](https://hackernoon.com/apex-protocol-unveils-initiatives-to-elevate-token-value-and-market-positioning)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-7y832x4.jpeg)
 ApeX Protocol is embarking on a strategic initiative to reduce the total token supply by 50%, from 1,000,000,000 to 500,000,000 $APEX.
 
-### [109. How a Trader Chooses a Decentralized Exchange](https://hackernoon.com/how-a-trader-chooses-a-decentralized-exchange)
-![](https://cdn.hackernoon.com/images/oW2m1EljTXhcHCWRYWYblUfSYx53-fdb3e9m.png)
-DEX market share just hit 18% of spot and 19% of futures volume. The platforms aren't equal. Here's how to compare what actually matters for execution.
+### [108. Centralized vs Decentralized Exchanges: Making Informed Crypto Trading Decisions](https://hackernoon.com/centralized-vs-decentralized-exchanges-making-informed-crypto-trading-decisions)
+![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-r793xsu.jpeg)
+Two prominent types of exchanges in the crypto world are centralized exchanges (CEX) and decentralized exchanges (DEX). Each has its own set of characteristics.
+
+### [109. Top 10 DeFi-nitions You Need to Know to Jump into Decentralized Finance ](https://hackernoon.com/top-10-defi-nitions-you-need-to-know-to-jump-into-decentralized-finance)
+![](https://cdn.hackernoon.com/images/Er9l1aaSORMilFBv0rLGyF38tBv2-d093kr5.jpeg)
+DeFi protocols are pushing the boundaries of financial technology in a high-risk, high-reward game. Here are some of the basic terms, defined in plain English
 
 ### [110. Multipool Secures Strategic Investment From Industry Giant Kronos Research](https://hackernoon.com/multipool-secures-strategic-investment-from-industry-giant-kronos-research)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-ql838ah.jpeg)
 This marks the first step in a long and fruitful partnership that will bring stability, awareness and access to a suite of full decentralized tools currently in
 
-### [111. "Only the Code Can Be Trusted," Says Atomex Co-Founder, Igor](https://hackernoon.com/only-the-code-can-be-trusted-says-atomex-co-founder-igor)
-![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-d7037xb.jpeg)
-We're working on algorithms for automatic market-matching to allow users to provide liquidity to atomic swap exchange; without transaction confirmation.
-
-### [112. Orion Unveils Solution To Uniswap Fee Model Following Governance Decision](https://hackernoon.com/orion-unveils-solution-to-uniswap-fee-model-following-governance-decision)
+### [111. Orion Unveils Solution To Uniswap Fee Model Following Governance Decision](https://hackernoon.com/orion-unveils-solution-to-uniswap-fee-model-following-governance-decision)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-dk8332e.jpeg)
 Orion has unveiled a novel solution for DeFi protocols and dApps seeking Liquidity Provider (LP) incentives following Uniswap’s halving of liquidity fee.
+
+### [112. "Only the Code Can Be Trusted," Says Atomex Co-Founder, Igor](https://hackernoon.com/only-the-code-can-be-trusted-says-atomex-co-founder-igor)
+![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-d7037xb.jpeg)
+We're working on algorithms for automatic market-matching to allow users to provide liquidity to atomic swap exchange; without transaction confirmation.
 
 ### [113. The True Value of Emeris in DeFi](https://hackernoon.com/the-true-value-of-emeris-in-defi)
 ![](https://cdn.hackernoon.com/images/ITwlV96ShKf9Qc8OdsLWcE5MToF2-9c438ei.png)

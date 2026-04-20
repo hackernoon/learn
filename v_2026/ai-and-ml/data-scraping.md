@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [data-scraping](https://hackernoon.com/tagged/data-scraping)
+### Let's learn about [Data Scraping](https://hackernoon.com/tagged/data-scraping) via these 70 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Data scraping is the process of extracting data from websites or other sources, crucial for market research, competitive analysis, and populating databases for various applications. It matters by enabling organizations to gather valuable public information at scale, fueling insights and data-driven strategies.
+
 ### [1. How To Scrape Google With Python](https://hackernoon.com/how-to-scrape-google-with-python-bo7d2tal)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ad82qhh.jpeg)
 Ever since Google Web Search API deprecation in 2011, I've been searching for an alternative. I need a way to get links from Google search into my Python script. So I made my own, and here is a quick guide on scraping Google searches with requests and Beautiful Soup.
@@ -169,17 +173,17 @@ What are alternative data and how to use web scraping to build datasets for fina
 ![](https://cdn.hackernoon.com/images/0FC9YtxD4fbD3T7mPipOt4HSxY42-skg3hui.png)
 Everything you need to know to automate, optimize and streamline the data collection process in your organization!
 
-### [43. The A-Z of Web Scraping in 2020 [A How-To Guide]](https://hackernoon.com/the-a-z-of-web-scraping-in-2020-a-how-to-guide-sg263y8d)
+### [43. How is Web Crawling Used in Data Science](https://hackernoon.com/how-is-web-crawling-used-in-data-science)
+![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-8p93i8k.jpeg)
+No-Code tools for collecting data for your Data Science project
+
+### [44. The A-Z of Web Scraping in 2020 [A How-To Guide]](https://hackernoon.com/the-a-z-of-web-scraping-in-2020-a-how-to-guide-sg263y8d)
 ![](https://images.unsplash.com/photo-1577566091746-1f285479dfc3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Web data extraction or web scraping in 2020 is the only way to get desired data if owners of a web site don't grant access to their users through API.
 
-### [44. Scraping with Selenium 101: The Big Hole on Data Scientists Toolset [Part 1]](https://hackernoon.com/scraping-with-selenium-101-the-big-hole-on-data-scientists-toolset-part-1-8h5l3wl8)
+### [45. Scraping with Selenium 101: The Big Hole on Data Scientists Toolset [Part 1]](https://hackernoon.com/scraping-with-selenium-101-the-big-hole-on-data-scientists-toolset-part-1-8h5l3wl8)
 ![](https://cdn.hackernoon.com/images/0xi3vh5.jpg)
 Usually forgotten in all Data Science masters and courses, Web Scraping is, in my honest opinion a basic tool in the Data Scientist toolset, as is the tool for getting and therefore using external data from your organization when public databases are not available.
-
-### [45. How is Web Crawling Used in Data Science](https://hackernoon.com/how-is-web-crawling-used-in-data-science)
-![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-8p93i8k.jpeg)
-No-Code tools for collecting data for your Data Science project
 
 ### [46. How To Scrape Amazon Using Python Scrapy Library [Tutorial]](https://hackernoon.com/tutorial-how-to-scrape-amazon-using-python-scrapy-f6x32qm)
 ![](https://cdn.hackernoon.com/drafts/h91bh32s7.png)
@@ -245,13 +249,13 @@ Learn everything you need to know about Data Scraping via these 53 free HackerNo
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-0n03ud2.jpeg)
 if you’re an Australian adult on Facebook, your public photos, posts, and other data are being scraped to train their AI models.
 
-### [62. Las 15 preguntas más frecuentes sobre Web Scraping](https://hackernoon.com/las-15-preguntas-mas-frecuentes-sobre-web-scraping-3oq3u8z)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOG9n36ItN0crakVoRUc7aVHtDgo2-ff5m3uxk.webp?alt=media&token=cb00ea19-4169-4eaf-8bfc-726bd394831c)
-Previously published at https://www.octoparse.es/blog/15-preguntas-frecuentes-sobre-web-scraping
-
-### [63. How To Build a First Strike OTM Call Options Watchlist from Cashtags wHAOR](https://hackernoon.com/how-to-build-a-first-strike-otm-call-options-watchlist-from-cashtags-whaor-ulo3z0g)
+### [62. How To Build a First Strike OTM Call Options Watchlist from Cashtags wHAOR](https://hackernoon.com/how-to-build-a-first-strike-otm-call-options-watchlist-from-cashtags-whaor-ulo3z0g)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fn9eggiRjwbXTjS41heeQ1SNjHGj2-7o53wko.jpeg?alt=media&token=6821c1c6-e5ee-426a-9e42-454e67c86af7)
 Today, We're going to build a script that scrapes Twitter to gather stock ticker symbols. We'll use those symbols to scrape yahoo finance for stock Options data. To ensure we can download all the Options data, we’ll make each web request with High Availability Onion Routing. In the end, we’ll do some Pandas magic to pull the first out of the money call contract for each symbol into the final watchlist.
+
+### [63. Las 15 preguntas más frecuentes sobre Web Scraping](https://hackernoon.com/las-15-preguntas-mas-frecuentes-sobre-web-scraping-3oq3u8z)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOG9n36ItN0crakVoRUc7aVHtDgo2-ff5m3uxk.webp?alt=media&token=cb00ea19-4169-4eaf-8bfc-726bd394831c)
+Previously published at https://www.octoparse.es/blog/15-preguntas-frecuentes-sobre-web-scraping
 
 ### [64. Where Do I Find the Right Social Media Marketing Data? ](https://hackernoon.com/where-do-i-find-the-right-social-media-marketing-data)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-be93v9b.jpeg)
@@ -274,11 +278,11 @@ This article discusses the security risks of using auto-increment fields in API 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOG9n36ItN0crakVoRUc7aVHtDgo2-co553u5s.jpeg?alt=media&token=4320bb2a-e516-45dc-a71d-fb9a16c56978)
 Por favor clic el artículo original：http://www.octoparse.es/blog/70-fuentes-de-datos-gratuitas-en-2020
 
-### [69. How Can The Travel Industry Benefit From Data Scraping](https://hackernoon.com/how-can-the-travel-industry-benefit-from-data-scraping-la1032g4)
-![](https://cdn.hackernoon.com/drafts/h51d3zpj.png)
-The travel industry is a major service sector in most countries these days. It is also a major employment and revenue provider. This demands a lot of constant innovation and maintenance. The travel industry is a dynamic industry where the needs and preferences of a customer change every moment. The market players in this field need to keep up with the trends in the industry, the choices of the customers and even on the details of their own historical performance to perform better as time progresses. Thus, as you would presume, the companies working in the travel sector need a lot of data from multiple sources and a pipeline to assess and use that data for insights and recommendations. 
-
-### [70. How to Use Web Scraping to Empower Marketing Decisions](https://hackernoon.com/how-to-use-web-scraping-to-empower-marketing-decisions-scraper-api)
+### [69. How to Use Web Scraping to Empower Marketing Decisions](https://hackernoon.com/how-to-use-web-scraping-to-empower-marketing-decisions-scraper-api)
 ![](https://cdn.hackernoon.com/images/mcc9E4sAMhXLeWTXF8kQoH8kaQL2-eb93qhq.jpeg)
 Learn how to leverage web scraping in marketing. In this article, we unpack use cases and tips for getting started. 
+
+### [70. How Can The Travel Industry Benefit From Data Scraping](https://hackernoon.com/how-can-the-travel-industry-benefit-from-data-scraping-la1032g4)
+![](https://cdn.hackernoon.com/drafts/h51d3zpj.png)
+The travel industry is a major service sector in most countries these days. It is also a major employment and revenue provider. This demands a lot of constant innovation and maintenance. The travel industry is a dynamic industry where the needs and preferences of a customer change every moment. The market players in this field need to keep up with the trends in the industry, the choices of the customers and even on the details of their own historical performance to perform better as time progresses. Thus, as you would presume, the companies working in the travel sector need a lot of data from multiple sources and a pipeline to assess and use that data for insights and recommendations. 
 

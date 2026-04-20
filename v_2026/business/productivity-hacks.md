@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [productivity-hacks](https://hackernoon.com/tagged/productivity-hacks)
+### Let's learn about [Productivity Hacks](https://hackernoon.com/tagged/productivity-hacks) via these 121 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Productivity hacks are strategies and tools designed to improve efficiency and output in work or daily tasks, valuable for maximizing time and effort. Implementing these can lead to better time management, reduced stress, and increased overall effectiveness.
+
 ### [1. These 6 AI Tools Will 10x Your Productivity](https://hackernoon.com/these-6-ai-tools-will-10x-your-productivity)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-af93l6h.jpeg)
 While non-AI tools can also be useful, these specific tools have significantly improved my efficiency and performance. 
@@ -228,29 +232,29 @@ Everyone seems to be strapped for time these days and desperate to get more done
 ![](https://cdn.hackernoon.com/images/OkskACwfJSV9GlgHDeK1JUJXAot2-dq3333du.jpeg)
 Here are four techniques that can help your reclaim your control over your time: Time Blocking, Color-Coding, Batching, and Calendar Audits.
 
-### [57. 50 Remote Teams Share Their Best Practices For #WorkingFromHome 🏡 [Part 1]](https://hackernoon.com/50-remote-teams-share-their-best-practices-for-workingfromhome-part-1-9239328l)
-![](https://cdn.hackernoon.com/images/tfra3ktx.jpg)
-Since the Coronavirus breakdown, millions of people are stuck at home; and for those who are still in the job market — are working from home too. The so-called “social distancing” measures have increased the Internet usage all around the world by 50–70%. Streaming has also jumped by at least 12%, according to Forbes.
-
-### [58. Can Music Improve Your Productivity While Working at Home](https://hackernoon.com/can-music-improve-your-productivity-while-working-at-home)
+### [57. Can Music Improve Your Productivity While Working at Home](https://hackernoon.com/can-music-improve-your-productivity-while-working-at-home)
 ![](https://cdn.hackernoon.com/images/1seq4qrrDNXISpIKTdvprog5bNr2-z393vpu.jpeg)
 If you're looking for ways to get more done and stay productive at home, music can help you achieve this goal.
 
-### [59. How to Do Meetings You Don't Hate](https://hackernoon.com/how-to-do-meetings-you-dont-hate)
+### [58. 50 Remote Teams Share Their Best Practices For #WorkingFromHome 🏡 [Part 1]](https://hackernoon.com/50-remote-teams-share-their-best-practices-for-workingfromhome-part-1-9239328l)
+![](https://cdn.hackernoon.com/images/tfra3ktx.jpg)
+Since the Coronavirus breakdown, millions of people are stuck at home; and for those who are still in the job market — are working from home too. The so-called “social distancing” measures have increased the Internet usage all around the world by 50–70%. Streaming has also jumped by at least 12%, according to Forbes.
+
+### [59. There’s Always Room for Optimization: How I Use Sheets, Jira, Arc, and AI to Run My Work](https://hackernoon.com/theres-always-room-for-optimization-how-i-use-sheets-jira-arc-and-ai-to-run-my-work)
+![](https://cdn.hackernoon.com/images/9yVQlB3V4whYDO31Y34yQWZ9Mgg2-9fa3c97.jpeg)
+74% of new web pages already contain AI content. But optimization was never really about the tool. It was always about the habit.
+
+### [60. How to Do Meetings You Don't Hate](https://hackernoon.com/how-to-do-meetings-you-dont-hate)
 ![](https://cdn.hackernoon.com/images/WR92p8UlFWeaDqRE8JbF7SnghoK2-y892b9l.jpeg)
 Meetings keep increasing in length and frequency, to the point where executives spend around 23 hours a week in them.
 
-### [60. Sleep, Learning and Memory](https://hackernoon.com/sleep-learning-and-memory)
+### [61. Sleep, Learning and Memory](https://hackernoon.com/sleep-learning-and-memory)
 ![](https://cdn.hackernoon.com/images/9Q1mwl4AceR1BCQdYpRPGSpNYIv2-dt93oq6.png)
 What impact can sleep deprivation have on our ability to learn? What measures can we take to ensure a good night's sleep and facilitate knowledge acquisition?
 
-### [61. How to Stay Focused When Coding: 8 Productivity Tips](https://hackernoon.com/how-to-stay-focused-when-coding-8-productivity-tips)
+### [62. How to Stay Focused When Coding: 8 Productivity Tips](https://hackernoon.com/how-to-stay-focused-when-coding-8-productivity-tips)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-n3136ie.jpeg)
 Your well-being, routines, motivations and how effectively you plan, all play a role in your ability to remain focused while coding.
-
-### [62. There’s Always Room for Optimization: How I Use Sheets, Jira, Arc, and AI to Run My Work](https://hackernoon.com/theres-always-room-for-optimization-how-i-use-sheets-jira-arc-and-ai-to-run-my-work)
-![](https://cdn.hackernoon.com/images/9yVQlB3V4whYDO31Y34yQWZ9Mgg2-9fa3c97.jpeg)
-74% of new web pages already contain AI content. But optimization was never really about the tool. It was always about the habit.
 
 ### [63. Examine the Budget of the Day’s Time](https://hackernoon.com/examine-the-budget-of-the-days-time)
 ![](https://cdn.hackernoon.com/images/ZtuZGtc0DdTsudmzUvyyyxl9l4L2-y393phc.jpeg)
@@ -264,33 +268,33 @@ This pandemic is the perfect time to focus on your side hustle
 ![](https://cdn.hackernoon.com/images/f5OhrnPO0gTVZN3otlacGj04qEz1-okbf3y19.jpeg)
 Let's be honest, starting a business can be challenging, but for many people (like me) - it's a lifelong dream. Although many people feel more comfortable starting a business with a co-founder - it's not always the best decision.
 
-### [66. 4 Productivity Hacks That Yield Quick Results](https://hackernoon.com/4-productivity-hacks-that-yield-quick-results-o52c3uhd)
+### [66. Elevate Your Night Shift Productivity Levels: 8 Strategies for Thriving - Not Just Surviving](https://hackernoon.com/elevate-your-night-shift-productivity-levels-8-strategies-for-thriving-not-just-surviving)
+![](https://cdn.hackernoon.com/images/7sQauLsj4gOL7k9lNCkjKuyQeKh1-ar034jy.jpeg)
+Having a night shift schedule is a challenge worth conquering. Here are a few techniques that can help you thrive in your field, even when working late hours.
+
+### [67. 4 Productivity Hacks That Yield Quick Results](https://hackernoon.com/4-productivity-hacks-that-yield-quick-results-o52c3uhd)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVy8F9TD8MnRuffSPhFqEdcbGjh13-uv3i3ut3.jpeg?alt=media&token=9c1da34c-f058-4c91-83cd-02c40ecacdcd)
 Having trouble hitting deadlines and staying focused? Well, have no fear! This article will introduce four productivity hacks that almost anyone can implement immediately and see fast results.
-
-### [67. 10 Ways Tech Is Increasing Workplace Productivity](https://hackernoon.com/10-ways-tech-is-increasing-workplace-productivity-844a35op)
-![](https://cdn.hackernoon.com/images/QeCdtI6bLjfR6igFYGBA8ujjHvq2-80y348l.jpeg)
-Productivity in business is the continual effort of applying new methods and techniques. In simple words, productivity is getting quality work done quickly.
 
 ### [68. Here's Why Productivity Hacks Don't Work—And What You Should Be Focusing on Instead](https://hackernoon.com/heres-why-productivity-hacks-dont-workand-what-you-should-be-focusing-on-instead)
 ![](https://cdn.hackernoon.com/images/7sQauLsj4gOL7k9lNCkjKuyQeKh1-ad035lp.png)
 Here’s the hard truth — productivity hacks don’t work if you don’t show up consistently.  It’s less about optimizing every moment and more about small steps.
 
-### [69. 7 Strategies for Maximum Productivity](https://hackernoon.com/7-strategies-for-maximum-productivity-69453w2p)
+### [69. 10 Ways Tech Is Increasing Workplace Productivity](https://hackernoon.com/10-ways-tech-is-increasing-workplace-productivity-844a35op)
+![](https://cdn.hackernoon.com/images/QeCdtI6bLjfR6igFYGBA8ujjHvq2-80y348l.jpeg)
+Productivity in business is the continual effort of applying new methods and techniques. In simple words, productivity is getting quality work done quickly.
+
+### [70. 7 Strategies for Maximum Productivity](https://hackernoon.com/7-strategies-for-maximum-productivity-69453w2p)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-xc3l3we6.jpeg?alt=media&token=21d20df4-b03e-4885-84a2-ff4dab580d77)
 You are reading this because of one of two reasons. Either you want to be more productive, or you are looking for all that time that you lose during the day. You woke up early, worked all day and it still seems that your code or project did not move anywhere. 
 
-### [70. Elevate Your Night Shift Productivity Levels: 8 Strategies for Thriving - Not Just Surviving](https://hackernoon.com/elevate-your-night-shift-productivity-levels-8-strategies-for-thriving-not-just-surviving)
-![](https://cdn.hackernoon.com/images/7sQauLsj4gOL7k9lNCkjKuyQeKh1-ar034jy.jpeg)
-Having a night shift schedule is a challenge worth conquering. Here are a few techniques that can help you thrive in your field, even when working late hours.
-
-### [71. Productivity, Procrastination, and Cat Reels](https://hackernoon.com/productivity-procrastination-and-cat-reels)
-![](https://cdn.hackernoon.com/images/colorful-cats-abstract-ldjv3rc5bn5n5m092z5on6tk.png)
-Discover why procrastination happens and how to boost productivity by understanding your brain's needs. Learn simple techniques like the Pomodoro method
-
-### [72. Productivity Hack: How Developers can Reduce Context Switching](https://hackernoon.com/productivity-hack-how-developers-can-reduce-context-switching)
+### [71. Productivity Hack: How Developers can Reduce Context Switching](https://hackernoon.com/productivity-hack-how-developers-can-reduce-context-switching)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-s90359r.png)
 Context switching prevents developers from finishing tasks quickly. Let's look at how to avoid constant context switching to improve productivity.
+
+### [72. Productivity, Procrastination, and Cat Reels](https://hackernoon.com/productivity-procrastination-and-cat-reels)
+![](https://cdn.hackernoon.com/images/colorful-cats-abstract-ldjv3rc5bn5n5m092z5on6tk.png)
+Discover why procrastination happens and how to boost productivity by understanding your brain's needs. Learn simple techniques like the Pomodoro method
 
 ### [73. Making The Case for Integrated File Annotation with Popular SaaS Tools](https://hackernoon.com/making-the-case-for-integrated-file-annotation-with-popular-saas-tools-p9q3zul)
 ![](https://cdn.hackernoon.com/images/hCcb8EweEcNyUqDLHD2K4tN9I5C3-ay6s3wqj.jpeg)
@@ -332,45 +336,45 @@ Over time, habits will compound into excellent or disastrous answers to our dail
 ![](https://cdn.hackernoon.com/images/k3MV9z1HANZv9IG3UhobNcADCI93-2ai3129.jpeg)
 2020 will go down in history as the year that turned the trend that was working from home into the norm for businesses across the globe. Everyone who can feasibly work from home is now doing so.
 
-### [83. Hard Work Is Dead: Why Leverage (Not Hustle) Rules the Creator Economy](https://hackernoon.com/hard-work-is-dead-why-leverage-not-hustle-rules-the-creator-economy)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-0s036sw.jpeg)
-The industrial-age formula “work harder = get more” is broken. In the creator economy, leverage—not effort—determines results.
-
-### [84. Life Hacks You Wish You Knew Growing Up](https://hackernoon.com/life-hacks-you-wish-you-knew-growing-up)
-![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-a2137kt.jpeg)
-In this thread, our community shared the main lessons they've learned throughout lo life - from exercising to investing in education and seizing the day.
-
-### [85. Bored? Good. That Means Your Brain Is Working](https://hackernoon.com/bored-good-that-means-your-brain-is-working)
+### [83. Bored? Good. That Means Your Brain Is Working](https://hackernoon.com/bored-good-that-means-your-brain-is-working)
 ![](https://cdn.hackernoon.com/images/a-photograph-of-a-young-man-sitting-alone-at-a-wooden-desk-in-a-dimly-lit-room-resting-his-head-on-his-hand-with-a-bored-expression-rdzghdvctsw8fhzwmidqtslw.png)
 "Your greatest productivity tool isn’t another app—it’s boredom. 
 
-### [86. 85 Stories To Learn About Productivity Hacks](https://hackernoon.com/85-stories-to-learn-about-productivity-hacks)
+### [84. 85 Stories To Learn About Productivity Hacks](https://hackernoon.com/85-stories-to-learn-about-productivity-hacks)
 ![](https://cdn.hackernoon.com/images/github/productivity-hacks-407.png)
 Learn everything you need to know about Productivity Hacks via these 85 free HackerNoon stories.
 
-### [87. How I Use Emacs to Get Things Done](https://hackernoon.com/how-i-use-emacs-to-get-things-done)
+### [85. Life Hacks You Wish You Knew Growing Up](https://hackernoon.com/life-hacks-you-wish-you-knew-growing-up)
+![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-a2137kt.jpeg)
+In this thread, our community shared the main lessons they've learned throughout lo life - from exercising to investing in education and seizing the day.
+
+### [86. How I Use Emacs to Get Things Done](https://hackernoon.com/how-i-use-emacs-to-get-things-done)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-q492ghg.png)
 I use emacs for nearly all of my daily computing needs. Here's how I do it.
 
-### [88. 6 Strategies and Tools to Manage Multiple Jobs Effectively](https://hackernoon.com/6-strategies-and-tools-to-manage-multiple-jobs-effectively)
+### [87. 6 Strategies and Tools to Manage Multiple Jobs Effectively](https://hackernoon.com/6-strategies-and-tools-to-manage-multiple-jobs-effectively)
 ![](https://cdn.hackernoon.com/images/m9JBS4HuFHgt9h0AOMHgC4YWlgJ2-mw834o8.jpeg)
 I was really stressed out when I had to manage multiple jobs for the first time. However, these strategies/tools helped me overcome it.
 
-### [89. A Morning Walk Can Improve Your Productivity and Boost Cognitive Function](https://hackernoon.com/a-morning-walk-can-improve-your-productivity-and-boost-cognitive-function-rm2s357x)
+### [88. A Morning Walk Can Improve Your Productivity and Boost Cognitive Function](https://hackernoon.com/a-morning-walk-can-improve-your-productivity-and-boost-cognitive-function-rm2s357x)
 ![](https://cdn.hackernoon.com/images/IO4GFBvpcnSTXBQ0L13dGLxq6Ep1-njr33wo.jpeg)
 Starting your day with a morning walk has a large positive impact on your productivity.
+
+### [89. How to Get Your Mind in Hand](https://hackernoon.com/how-to-get-your-mind-in-hand)
+![](https://cdn.hackernoon.com/images/ZtuZGtc0DdTsudmzUvyyyxl9l4L2-a193pm8.jpeg)
+How to Live on 24 Hours a Day, by Arnold Bennett is part of HackerNoon’s Book Blog Post series. Chapter VII: Controlling the Mind
 
 ### [90. Top 7 Productivity Tips that can Boost your Performance](https://hackernoon.com/top-7-productivity-tips-that-can-boost-your-performance)
 ![](https://cdn.hackernoon.com/images/ZI6rcoTwwzWS1AH495rMgbPSeWl1-ut93prp.jpeg)
 Productivity at work can make all the difference when trying to achieve your goals. Readout 7 productivity tips that anyone can implement to improve performanc
 
-### [91. How to Get Your Mind in Hand](https://hackernoon.com/how-to-get-your-mind-in-hand)
-![](https://cdn.hackernoon.com/images/ZtuZGtc0DdTsudmzUvyyyxl9l4L2-a193pm8.jpeg)
-How to Live on 24 Hours a Day, by Arnold Bennett is part of HackerNoon’s Book Blog Post series. Chapter VII: Controlling the Mind
-
-### [92. Put Your Binge-Watching Habit to Use and Learn a Language](https://hackernoon.com/put-your-binge-watching-habit-to-use-and-learn-a-language-nw2p351b)
+### [91. Put Your Binge-Watching Habit to Use and Learn a Language](https://hackernoon.com/put-your-binge-watching-habit-to-use-and-learn-a-language-nw2p351b)
 ![](https://hackernoon.com/images/6x0Ln6XhbsfVAZCzyMpOSlyCXms2-q8t334n.jpeg)
 So you’ve worked your way through all the good TV shows and movies? Next step: use your binge-watching habit to learn a new language. Here’s how.
+
+### [92. Getting Into a Flow State and Bringing Your A-Game](https://hackernoon.com/getting-into-a-flow-state-and-bringing-your-a-game)
+![](https://cdn.hackernoon.com/images/fSVzTMvZAKWoDWRyByAW36ZMx8m2-8wa3sgn.jpeg)
+The flow state: A state of hyperfocus where you perform at an amazing level. Read about our different approaches to getting into this wellspring of focus.
 
 ### [93. Optimizing Your Bookmark Bar for Distraction-Free Work](https://hackernoon.com/optimizing-your-bookmark-bar-for-distraction-free-work)
 ![](https://cdn.hackernoon.com/images/YfOBDzhprSOPFyuHZ8ilH0sWCJi2-q3a3fgr.jpeg)
@@ -380,65 +384,65 @@ A simple hack on your browser that can get you more focused and keep you out of 
 ![](https://cdn.hackernoon.com/images/vGF5saoqFuWIKHH53yqFSzhnNxV2-p483mg0.jpeg)
 Breaking away from conventional advice, it highlights creative techniques and the latest tools aimed at enhancing not just efficiency but also job satisfaction 
 
-### [95. How To Maintain Your Focus Whilst Running Multiple Businesses](https://hackernoon.com/how-to-maintain-your-focus-whilst-running-multiple-businesses)
+### [95. Getting Started With the Cult of Cognitive Walking](https://hackernoon.com/getting-started-with-the-cult-of-cognitive-walking)
+![](https://cdn.hackernoon.com/images/oRrc1XjOivXThYbwovbyF9tZD5R2-xz039i3.jpeg)
+Doing our best creative work sometimes means tricking ourselves into leaving our minds alone. Here are six things to try while walking to achieve this.
+
+### [96. How To Maintain Your Focus Whilst Running Multiple Businesses](https://hackernoon.com/how-to-maintain-your-focus-whilst-running-multiple-businesses)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-i793h67.jpeg)
 Focusing your energy whilst managing multiple businesses.
-
-### [96. Getting Into a Flow State and Bringing Your A-Game](https://hackernoon.com/getting-into-a-flow-state-and-bringing-your-a-game)
-![](https://cdn.hackernoon.com/images/fSVzTMvZAKWoDWRyByAW36ZMx8m2-8wa3sgn.jpeg)
-The flow state: A state of hyperfocus where you perform at an amazing level. Read about our different approaches to getting into this wellspring of focus.
 
 ### [97. How to Get 80% of Your Work Done in the First 2 Hours](https://hackernoon.com/how-to-get-80percent-of-your-work-done-in-the-first-2-hours)
 ![](https://cdn.hackernoon.com/images/TiLFLgXgukcx47bZac9fCGpJAE42-r893nqr.jpeg)
 As soon as you wake up your brain is much more receptive to what you watch and listen to.
 
-### [98. Getting Started With the Cult of Cognitive Walking](https://hackernoon.com/getting-started-with-the-cult-of-cognitive-walking)
-![](https://cdn.hackernoon.com/images/oRrc1XjOivXThYbwovbyF9tZD5R2-xz039i3.jpeg)
-Doing our best creative work sometimes means tricking ourselves into leaving our minds alone. Here are six things to try while walking to achieve this.
-
-### [99. 69 Stories To Learn About Productivity Tools](https://hackernoon.com/69-stories-to-learn-about-productivity-tools)
+### [98. 69 Stories To Learn About Productivity Tools](https://hackernoon.com/69-stories-to-learn-about-productivity-tools)
 ![](https://cdn.hackernoon.com/images/github/productivity-tools-860.png)
 Learn everything you need to know about Productivity Tools via these 69 free HackerNoon stories.
 
-### [100. Work Interrupted: Context Switching Is A Mind Killer](https://hackernoon.com/work-interrupted-context-switching-is-a-mind-killer-s78837qo)
+### [99. Work Interrupted: Context Switching Is A Mind Killer](https://hackernoon.com/work-interrupted-context-switching-is-a-mind-killer-s78837qo)
 ![](https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-mb1035l4.jpeg)
 Our human brains cannot correctly control multitasking and context switching, affecting our productivity and well-being.
+
+### [100. Productivity 101: How to Implement the Pomodoro Productivity Technique](https://hackernoon.com/productivity-101-how-to-implement-the-pomodoro-productivity-technique)
+![](https://cdn.hackernoon.com/images/ZI6rcoTwwzWS1AH495rMgbPSeWl1-51g3h31.jpeg)
+If you’re looking to be more productive in your life, you may have heard of the Pomodoro productivity hack or technique. 
 
 ### [101. Contributing to Open Source Privacy Projects is Easier Than You Think](https://hackernoon.com/contributing-to-open-source-privacy-projects-is-easier-than-you-think)
 ![](https://cdn.hackernoon.com/images/3O6oKhmVHLPgbBNX2t1sXDLzMPw2-dw0375k.jpeg)
 I am sure that feel bored with your work from time to time. See how to solve it with a simple lifehack: Contribute to a privacy-related project.
 
-### [102. How to Overcome Resistance and Become More Productive Person](https://hackernoon.com/how-to-overcome-resistance-and-become-more-productive-yr6l3t5g)
+### [102. Change for Better: The Exponential Art of Kaizen](https://hackernoon.com/change-for-better-the-exponential-art-of-kaizen-yl6y353l)
+![](https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-y0i35j4.jpeg)
+Kaizen is deceptively simple and utterly brilliant.
+
+### [103. How to Overcome Resistance and Become More Productive Person](https://hackernoon.com/how-to-overcome-resistance-and-become-more-productive-yr6l3t5g)
 ![](https://cdn.hackernoon.com/drafts/5o9p3t61.png)
 The greatest projects humankind has undertaken are not acknowledged for their ease of execution. Obviously, they are great because they are incredibly hard to do.
 
-### [103. Productivity 101: How to Implement the Pomodoro Productivity Technique](https://hackernoon.com/productivity-101-how-to-implement-the-pomodoro-productivity-technique)
-![](https://cdn.hackernoon.com/images/ZI6rcoTwwzWS1AH495rMgbPSeWl1-51g3h31.jpeg)
-If you’re looking to be more productive in your life, you may have heard of the Pomodoro productivity hack or technique. 
-
-### [104. Change for Better: The Exponential Art of Kaizen](https://hackernoon.com/change-for-better-the-exponential-art-of-kaizen-yl6y353l)
-![](https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-y0i35j4.jpeg)
-Kaizen is deceptively simple and utterly brilliant.
+### [104. Benefits of Automation Through API Integration ](https://hackernoon.com/benefits-of-automation-through-api-integration)
+![](https://cdn.hackernoon.com/images/DzDrHxDCeoPeFgtDYNXybro96KK2-qx11cwo.jpeg)
+This piece is about the benefits of using API system to enhance productivity and ease of work.
 
 ### [105. 12 Productivity Hacks to Help Makers Maintain Laser Focus](https://hackernoon.com/how-to-be-more-productive-as-a-maker-u01m309c)
 ![](https://cdn.hackernoon.com/drafts/1pl3xpx.png)
 Most makers, founders, side-hustlers, and hackers have a tonne of responsibilities outside of their their personal projects: full-time jobs, friends and families, school. 
 
-### [106. Benefits of Automation Through API Integration ](https://hackernoon.com/benefits-of-automation-through-api-integration)
-![](https://cdn.hackernoon.com/images/DzDrHxDCeoPeFgtDYNXybro96KK2-qx11cwo.jpeg)
-This piece is about the benefits of using API system to enhance productivity and ease of work.
+### [106. Second-Order Outcomes: Why You Don't Always Get What You Want](https://hackernoon.com/second-order-outcomes-why-you-dont-always-get-what-you-want)
+![](https://cdn.hackernoon.com/images/x21VprIQHYaYrJEbiyMkN7uuOTH2-km03ta5.jpeg)
+Want more success, creativity, or clarity? This essay explores how letting go of outcomes may be the smartest strategy you’ve never tried. 
 
-### [107. Life Hacks: Hardwon Wisdom from Four Months Caffeine-Free](https://hackernoon.com/life-hacks-hardwon-wisdom-from-four-months-of-caffeine-free-c22031xp)
-![](https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-731431tp.jpeg)
-I used to be a coffee addict. And then, the deceptive Lady Caffeine of House Lannister started collecting her debts.
-
-### [108. The Midnight Lesson Planner: How to Reclaim Your Evenings and Ignite Your Classroom](https://hackernoon.com/the-midnight-lesson-planner-how-to-reclaim-your-evenings-and-ignite-your-classroom)
+### [107. The Midnight Lesson Planner: How to Reclaim Your Evenings and Ignite Your Classroom](https://hackernoon.com/the-midnight-lesson-planner-how-to-reclaim-your-evenings-and-ignite-your-classroom)
 ![](https://cdn.hackernoon.com/images/4QQhIuTcGWPBcSXw0KTQbpwavoG2-ng139fv.png)
 Turn your Sunday night prep struggle into a pedagogical masterpiece with one copy-paste instruction.
 
-### [109. Second-Order Outcomes: Why You Don't Always Get What You Want](https://hackernoon.com/second-order-outcomes-why-you-dont-always-get-what-you-want)
-![](https://cdn.hackernoon.com/images/x21VprIQHYaYrJEbiyMkN7uuOTH2-km03ta5.jpeg)
-Want more success, creativity, or clarity? This essay explores how letting go of outcomes may be the smartest strategy you’ve never tried. 
+### [108. Hard Work Is Dead: Why Leverage (Not Hustle) Rules the Creator Economy](https://hackernoon.com/hard-work-is-dead-why-leverage-not-hustle-rules-the-creator-economy)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-0s036sw.jpeg)
+The industrial-age formula “work harder = get more” is broken. In the creator economy, leverage—not effort—determines results.
+
+### [109. Life Hacks: Hardwon Wisdom from Four Months Caffeine-Free](https://hackernoon.com/life-hacks-hardwon-wisdom-from-four-months-of-caffeine-free-c22031xp)
+![](https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-731431tp.jpeg)
+I used to be a coffee addict. And then, the deceptive Lady Caffeine of House Lannister started collecting her debts.
 
 ### [110. The Noonification: Why Hasnt Solana Died Yet? (11/17/2023)](https://hackernoon.com/11-17-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_834_zunaljiuhava1mfx3bojixb3.png)
@@ -464,21 +468,21 @@ Decide what’s most important to you and how to spend more time on the things t
 ![](https://cdn.hackernoon.com/images/lcVWSndgxSULK3exvDW6tCWUo382-fa9j3po4.jpeg)
 The access to information we have thanks to the advance of technology is at a fascinating increase. This is how it affects our ability to perceive information.
 
-### [116. The First Step: Just Take it 'Bird by Bird'](https://hackernoon.com/the-first-step-just-take-it-bird-by-bird-6p4335xi)
-![](https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-nm1x35t0.jpeg)
-Sometimes, it is about thriving. Sometimes, it is about surviving. We would be wise to adjust our strategies accordingly.
-
-### [117. How I Find Order in Everyday Chaos ](https://hackernoon.com/how-i-find-order-in-everyday-chaos)
+### [116. How I Find Order in Everyday Chaos ](https://hackernoon.com/how-i-find-order-in-everyday-chaos)
 ![](https://cdn.hackernoon.com/images/ID5vpYFPVyMYcsLE5TUbYLZp6n73-oc93p0r.jpeg)
 Tips for improving your productivity amidst even the most chaotic days.  
 
-### [118. Team Productivity Doesn’t Have to Suffer When You Go Remote](https://hackernoon.com/team-productivity-doesnt-have-to-suffer-when-you-go-remote-lo1b24oy)
-![](https://cdn.hackernoon.com/images/hk573ylx.gif)
-So what to do when your remote team struggles with getting things done?
+### [117. The First Step: Just Take it 'Bird by Bird'](https://hackernoon.com/the-first-step-just-take-it-bird-by-bird-6p4335xi)
+![](https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-nm1x35t0.jpeg)
+Sometimes, it is about thriving. Sometimes, it is about surviving. We would be wise to adjust our strategies accordingly.
 
-### [119. How to Fix the VS Code Explorer for Content Projects](https://hackernoon.com/how-to-fix-the-vs-code-explorer-for-content-projects)
+### [118. How to Fix the VS Code Explorer for Content Projects](https://hackernoon.com/how-to-fix-the-vs-code-explorer-for-content-projects)
 ![](https://cdn.hackernoon.com/images/NaU3BOE6YnOtNpCIV9kfvX1BqL03-sq9371c.jpeg)
 Stop fighting the VS Code Explorer. Use mixed sort order for content projects.
+
+### [119. Team Productivity Doesn’t Have to Suffer When You Go Remote](https://hackernoon.com/team-productivity-doesnt-have-to-suffer-when-you-go-remote-lo1b24oy)
+![](https://cdn.hackernoon.com/images/hk573ylx.gif)
+So what to do when your remote team struggles with getting things done?
 
 ### [120. The Noonification: How to Mint Your Name.HackerNoon Web3 Identity Namespace (12/6/2023)](https://hackernoon.com/12-6-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_46_a3qt00j9zi40x1xesl7f8m5p.png)

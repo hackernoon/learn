@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [software-engineer](https://hackernoon.com/tagged/software-engineer)
+### Let's learn about [Software Engineer](https://hackernoon.com/tagged/software-engineer) via these 127 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Why did the developer go broke? Because he used up all his cache. - Elijah Manor
 
 ### [1. A Simple Introduction to Software Development](https://hackernoon.com/a-simple-introduction-to-software-development)
@@ -130,13 +132,13 @@ I have outlined five simple steps to develop a growth mindset as a software deve
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FbvlydFw6QPX3Ckw9dTjO3T0NbYn1-lx5g3u6h.jpeg?alt=media&token=05c8190e-bab0-4c4a-a0e3-a8a55048771f)
 One of the largest misconceptions about succeeding as a software engineer is that people think if they simply work hard, they will become successful and will receive the recognition they deserve. They couldn’t be further from the truth.
 
-### [32. How to Get the Most Out of Your University Life as a Software Engineer](https://hackernoon.com/how-to-get-the-most-out-of-your-university-life-as-a-software-engineer)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-hg82ovv.png)
-Join organizations, auditing tough classes, choosing the right professors, here are my top tips for thriving in university.
-
-### [33. Importance and Method of Naming in Software Engineering](https://hackernoon.com/3-approaches-to-naming-in-software-engineering)
+### [32. Importance and Method of Naming in Software Engineering](https://hackernoon.com/3-approaches-to-naming-in-software-engineering)
 ![](https://cdn.hackernoon.com/images/f8ChYF2U4MRmYNmy61YoItMITZl2-fv93qg9.jpeg)
 Having self-explanatory names can significantly improve the maintainability of a software without putting any significant effort.
+
+### [33. How to Get the Most Out of Your University Life as a Software Engineer](https://hackernoon.com/how-to-get-the-most-out-of-your-university-life-as-a-software-engineer)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-hg82ovv.png)
+Join organizations, auditing tough classes, choosing the right professors, here are my top tips for thriving in university.
 
 ### [34. How To Break The “Senior Engineer” Career Ceiling](https://hackernoon.com/how-to-break-the-senior-engineer-career-ceiling-ouz32e2)
 ![](https://cdn.hackernoon.com/drafts/5xbr32pn.png)
@@ -160,13 +162,13 @@ Kubernetes needs no introduction in this cloud-native world. It was born when I 
 ![](https://cdn.hackernoon.com/images/b5231P8LeEXgyFhV2U3HZfCT2Z72-cdfv3fuo.jpeg)
 8 painfully learnt ideas about software engineering that may challenge your assumptions and help you get better faster
 
-### [39. Confessions of a Serial Interviewer](https://hackernoon.com/confessions-of-a-serial-interviewer-mz183yim)
-![](https://cdn.hackernoon.com/drafts/021tj32y1.png)
-I bombed completely at my first big job interview. It included whiteboard-coding and questions about multithreading and I hadn't prepared nearly enough. Instead of saying I don't know, I ranted on for a good couple of minutes about anything tangential I could come up with, hoping I'd get in the vicinity of the answer–I never did. Fortunately when the ego takes a hit, a willingness to improve kicks in.
-
-### [40. Dan Abramov Says Goodbye to Meta](https://hackernoon.com/dan-abramov-says-goodbye-to-meta)
+### [39. Dan Abramov Says Goodbye to Meta](https://hackernoon.com/dan-abramov-says-goodbye-to-meta)
 ![](https://cdn.hackernoon.com/images/a-man-looking-at-the-sunset-dur4uo4w9mcst353xwpjynop.png)
 Dan Abramov announces that he's leaving Meta.
+
+### [40. Confessions of a Serial Interviewer](https://hackernoon.com/confessions-of-a-serial-interviewer-mz183yim)
+![](https://cdn.hackernoon.com/drafts/021tj32y1.png)
+I bombed completely at my first big job interview. It included whiteboard-coding and questions about multithreading and I hadn't prepared nearly enough. Instead of saying I don't know, I ranted on for a good couple of minutes about anything tangential I could come up with, hoping I'd get in the vicinity of the answer–I never did. Fortunately when the ego takes a hit, a willingness to improve kicks in.
 
 ### [41. Sharing My Learnings After Leaving a Big Tech Company](https://hackernoon.com/sharing-my-learnings-after-leaving-a-big-tech-company-zzn33gs)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-3q513trt.jpeg?alt=media&token=8c479cff-1d86-4bf6-8201-dee5c90d68e6)
@@ -176,13 +178,13 @@ Ex-Google TechLead explains his learnings from leaving Google.
 ![](https://cdn.hackernoon.com/images/uhJdIL6cKvOEvhfNdiy1eMmb0YB3-yd2k3ubg.jpeg)
 This article gives sample software engineering interview questions, as well as my approach to conducting efficient interviews.
 
-### [43. 7 Things I’ve Learned as a Software Developer](https://hackernoon.com/7-universal-tips-for-software-developers)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-h593pv3.jpeg)
-In this Blog Post, I share some of the things I have learned so far while working as a Software Developer.
-
-### [44. A Conversation With Amazon Software Engineer Anam Alvi](https://hackernoon.com/a-conversation-with-amazon-software-engineer-anam-alvi)
+### [43. A Conversation With Amazon Software Engineer Anam Alvi](https://hackernoon.com/a-conversation-with-amazon-software-engineer-anam-alvi)
 ![](https://cdn.hackernoon.com/images/fwgZUZnZBFUlehtFRCG0lWsTj3B3-hfa3obu.jpeg)
 Anam Alvi is a software engineer working in Amazon's security division. Read her story from growing up in Toronto to joining Hackathons across the country.
+
+### [44. 7 Things I’ve Learned as a Software Developer](https://hackernoon.com/7-universal-tips-for-software-developers)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-h593pv3.jpeg)
+In this Blog Post, I share some of the things I have learned so far while working as a Software Developer.
 
 ### [45. How Much Money Do 'Normal' Software Engineers Make?](https://hackernoon.com/how-much-money-to-normal-software-engineers-make-l58h3bcq)
 ![](https://cdn.hackernoon.com/images/oq223bg0.jpg)
@@ -243,13 +245,13 @@ Without organization, backlogs get messy quickly, and issues can’t be prioriti
 ![](https://cdn.hackernoon.com/images/JeJLJhOGw1UlLLa7yUZkQm6W5fp1-jln31e3.jpeg)
 Here are 3 amazing software engineering podcasts recommendations that will help you become a better software engineer.
 
-### [59. A TypeScript tale -  Episode I](https://hackernoon.com/a-typescript-tale-episode-1-q9pa315r)
-![](https://cdn.hackernoon.com/drafts/ioqv31l3.png)
-The first of a series of articles about TypeScript.
-
-### [60. A Software Engineer's Playbook for Starting a New Gig](https://hackernoon.com/a-software-engineers-playbook-for-starting-a-new-gig)
+### [59. A Software Engineer's Playbook for Starting a New Gig](https://hackernoon.com/a-software-engineers-playbook-for-starting-a-new-gig)
 ![](https://cdn.hackernoon.com/images/amVQ5swmF5en0QHSH8PsvbTZv6r1-x192r7c.jpeg)
 Tips for how to succeed in your first weeks at a new job or project as a software engineer.
+
+### [60. A TypeScript tale -  Episode I](https://hackernoon.com/a-typescript-tale-episode-1-q9pa315r)
+![](https://cdn.hackernoon.com/drafts/ioqv31l3.png)
+The first of a series of articles about TypeScript.
 
 ### [61. Minecraft, Engineering, and The Incremental Mindset](https://hackernoon.com/minecraft-engineering-and-the-incremental-mindset)
 ![](https://cdn.hackernoon.com/images/l61lXLP6ciWhnSiMVtVqNgQvDJ62-t903mv9.png)
@@ -279,135 +281,135 @@ What’s the overall performance of your engineering team? Let’s look at how w
 ![](https://cdn.hackernoon.com/images/IYXqfnSadehiMIPPHRg7yoAmak12-5n0336t.jpeg)
 Do you know 80% of software engineers are not able to become senior software engineers? 
 
-### [68. Inside Business Insider's Story About a Failed American Tech Dream](https://hackernoon.com/inside-business-insiders-story-about-a-failed-american-tech-dream)
-![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-ru037uw.jpeg)
-We've all been there at one point in our careers, haven't we?
-
-### [69. Getting to the Promised Land of Software Engineering](https://hackernoon.com/getting-to-the-promised-land-of-software-engineering)
+### [68. Getting to the Promised Land of Software Engineering](https://hackernoon.com/getting-to-the-promised-land-of-software-engineering)
 ![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-vl93o2s.jpeg)
 A software engineer navigating the benefits of good communication in a remote workplace
 
 
-### [70. Love Code and Write Words - Viacheslav Aksenov 2022 Noonies Nominee Writer Interview ](https://hackernoon.com/love-code-and-write-words-viacheslav-aksenov-2022-noonies-nominee-writer-interview)
-![](https://cdn.hackernoon.com/images/IydseHhaP1RRAGISU5o7L5wy3r62-88c3owj.jpeg)
-Hi! This is a small interview about my path in tech and some advice to beginners.
+### [69. Inside Business Insider's Story About a Failed American Tech Dream](https://hackernoon.com/inside-business-insiders-story-about-a-failed-american-tech-dream)
+![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-ru037uw.jpeg)
+We've all been there at one point in our careers, haven't we?
 
-### [71. 5 Useful Tips to Become a
+### [70. 5 Useful Tips to Become a
 Successful Software Developer](https://hackernoon.com/5-useful-tips-to-become-a-successful-software-developer)
 ![](https://cdn.hackernoon.com/images/K8wVCBHfHsdlHbbKvfINaEV2wkX2-qn93jnl.jpeg)
 Want to know some foolproof tips to become a software developer? In this guide, we have covered everything for you to know. 
 
-### [72. Every Engineer Needs to Write More, Here's Why](https://hackernoon.com/every-engineer-needs-to-write-more-heres-why)
+### [71. Every Engineer Needs to Write More, Here's Why](https://hackernoon.com/every-engineer-needs-to-write-more-heres-why)
 ![](https://cdn.hackernoon.com/images/SsdagWnBR4ZjD0TJQkJMVmy1vEg1-hpa3uub.jpeg)
 My perspective on writing changed once I started working full-time as a software engineer.
 
 
 
+### [72. Love Code and Write Words - Viacheslav Aksenov 2022 Noonies Nominee Writer Interview ](https://hackernoon.com/love-code-and-write-words-viacheslav-aksenov-2022-noonies-nominee-writer-interview)
+![](https://cdn.hackernoon.com/images/IydseHhaP1RRAGISU5o7L5wy3r62-88c3owj.jpeg)
+Hi! This is a small interview about my path in tech and some advice to beginners.
+
 ### [73. Tech Career Stories: From Frontend Developer to Principal Software Engineer](https://hackernoon.com/tech-career-stories-from-frontend-developer-to-principal-software-engineer)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-5513cii.jpeg)
 50+ books and resources that help me in my journey in tech.
 
-### [74. How to Set up a Framework: A Developer’s Guide](https://hackernoon.com/how-to-set-up-a-framework-a-developers-guide)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-ff93nc4.jpeg)
-New developers often don’t know how to set up a framework for smart contract development to make the process as efficient and secure as possible. 
-
-### [75. Code Smell 271 - The Hollywood Principle](https://hackernoon.com/code-smell-271-the-hollywood-principle)
+### [74. Code Smell 271 - The Hollywood Principle](https://hackernoon.com/code-smell-271-the-hollywood-principle)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-9s034x5.jpeg)
 The [Hollywood Principle] is a software design principle emphasizing loose coupling between components.
 
-### [76. Meet the Writer: HackerNoon Contributor Daniil Sitdikov, Software Engineer](https://hackernoon.com/meet-the-writer-hackernoon-contributor-daniil-sitdikov-software-engineer)
+### [75. Meet the Writer: HackerNoon Contributor Daniil Sitdikov, Software Engineer](https://hackernoon.com/meet-the-writer-hackernoon-contributor-daniil-sitdikov-software-engineer)
 ![](https://cdn.hackernoon.com/images/pDvJYC69zQULcwlOn1zKE5Nh8sH3-fk93qwe.jpeg)
 Daniil Sitdikov is a senior software engineer with experience in frontend and backend. In his free time, he enjoys creating experimental pet projects. 
 
-### [77. Manage Your Investment Portfolio Like a Pro: A How-To Guide](https://hackernoon.com/manage-your-investment-portfolio-like-a-pro-a-how-to-guide-zv1e34g8)
+### [76. How to Set up a Framework: A Developer’s Guide](https://hackernoon.com/how-to-set-up-a-framework-a-developers-guide)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-ff93nc4.jpeg)
+New developers often don’t know how to set up a framework for smart contract development to make the process as efficient and secure as possible. 
+
+### [77. The Terminal-Centered AI Workflow That Works](https://hackernoon.com/the-terminal-centered-ai-workflow-that-works)
+![](https://joachimz.me/images/blog/how-ai-changed-my-workflow-as-a-software-engineer.webp)
+The smartest AI setup is not the flashiest one. Build a flexible workflow that stays useful through pricing changes and tool shifts.
+
+### [78. Manage Your Investment Portfolio Like a Pro: A How-To Guide](https://hackernoon.com/manage-your-investment-portfolio-like-a-pro-a-how-to-guide-zv1e34g8)
 ![](https://cdn.hackernoon.com/images/BamvTIAhDQTWIhpCo8cqPm438Yw2-zaa3xhs.jpeg)
 You don't have to be a financial expert to manage your investments yourself.
 
-### [78. How I Got a Job at Google (as a Software Engineer)](https://hackernoon.com/how-i-got-a-job-at-google-as-a-software-engineer-l44833cq)
+### [79. How I Got a Job at Google (as a Software Engineer)](https://hackernoon.com/how-i-got-a-job-at-google-as-a-software-engineer-l44833cq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-bp384xmx.jpeg?alt=media&token=a798a7f2-1c08-4993-966c-758261aa01f0)
 Ex-Google Tech Lead explains how he landed a job offer at Google as a software engineer.  Get your beautiful website started at http://squarespace.com/techlead, use code TECHLEAD for 10% off.
 
 The road to Google took me a brutal 10 years to travel.  Even still, most never make it.  I share the story about the path I took that led me to success, and all the failures and missteps on the way there.  Let me know your thoughts in the comments below.
 
-### [79. Meet the Writer: HackerNoon's Contributor Dmitrii Ivashchenko, Software Engineer](https://hackernoon.com/meet-the-writer-hackernoons-contributor-dmitrii-ivashchenko-software-engineer)
-![](https://cdn.hackernoon.com/images/rrt6IgK8skZjRRFXMecCXxLN5Pm1-4c935hf.jpeg)
-Hello everyone, my name is Dmitrii Ivashchenko, and I am a lead software engineer with over 10 years of experience in developing mobile games and backend system
-
-### [80. Agile: How to Write User Stories for Beginners](https://hackernoon.com/agile-how-to-write-user-stories-for-beginners)
-![](https://cdn.hackernoon.com/images/QRqitUIXi9Z5pvAY0aAnCzCu0002-a902ugw.jpeg)
-User Stories are a fundamental part of Agile and Scrum. 
-
-### [81. 12 Effective Communication Tips Every Software Engineer Should Imbibe ](https://hackernoon.com/12-effective-communication-tips-every-software-engineer-should-imbibe)
+### [80. 12 Effective Communication Tips Every Software Engineer Should Imbibe ](https://hackernoon.com/12-effective-communication-tips-every-software-engineer-should-imbibe)
 ![](https://cdn.hackernoon.com/images/pPX468t5lxWcWjWC6mnoc1uB98G2-bl93ifk.jpeg)
 How to improve your communication skills as a software engineer and increase your effectivity
 
-### [82. Five Common Reasons Why Data Integration Projects Fail](https://hackernoon.com/the-5-major-reasons-my-data-integration-projects-failed-5p2aq31be)
+### [81. Agile: How to Write User Stories for Beginners](https://hackernoon.com/agile-how-to-write-user-stories-for-beginners)
+![](https://cdn.hackernoon.com/images/QRqitUIXi9Z5pvAY0aAnCzCu0002-a902ugw.jpeg)
+User Stories are a fundamental part of Agile and Scrum. 
+
+### [82. Meet the Writer: HackerNoon's Contributor Dmitrii Ivashchenko, Software Engineer](https://hackernoon.com/meet-the-writer-hackernoons-contributor-dmitrii-ivashchenko-software-engineer)
+![](https://cdn.hackernoon.com/images/rrt6IgK8skZjRRFXMecCXxLN5Pm1-4c935hf.jpeg)
+Hello everyone, my name is Dmitrii Ivashchenko, and I am a lead software engineer with over 10 years of experience in developing mobile games and backend system
+
+### [83. Five Common Reasons Why Data Integration Projects Fail](https://hackernoon.com/the-5-major-reasons-my-data-integration-projects-failed-5p2aq31be)
 ![](https://cdn.hackernoon.com/drafts/8l2cb31ks.png)
 It’s 3 AM. My alarm goes off and I groggily climb out of bed and crack open my laptop. One of our biggest customers needs their data delivered by 9 AM, and I’m getting up before sunrise to triple-check every data point before their delivery. Our data platform was built with hundreds of data audits, but this customer’s delivery was just too complex to feel 100% confident that we’ve captured all potential issues. This scenario would soon become a typical morning for me. Wake up. Coffee. Pray to the data gods for an inbox without 500 Zendesk ticket escalations.
 
-### [83. Don’t Be a Humble Developer](https://hackernoon.com/dont-be-a-humble-developer)
+### [84. Scalability With AI: Lessons From Real Production Systems ](https://hackernoon.com/scalability-with-ai-lessons-from-real-production-systems)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jz024wu.jpeg)
+Learn how to scale AI systems in production: latency, cost, reliability, and observability lessons from real-world systems.
+
+### [85. Don’t Be a Humble Developer](https://hackernoon.com/dont-be-a-humble-developer)
 ![](https://cdn.hackernoon.com/images/i6hjslzIRdYmQax95k2k6db7wCH2-m193s69.jpeg)
 Discover the vital role of communication, the art of self-promotion, and how past achievements shape future triumphs. 
 
-### [84. What Startup Equity Compensation Means For Developers: Part I](https://hackernoon.com/what-startup-equity-compensation-means-for-developers-part-i-v0c3wil)
+### [86. What Startup Equity Compensation Means For Developers: Part I](https://hackernoon.com/what-startup-equity-compensation-means-for-developers-part-i-v0c3wil)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBamvTIAhDQTWIhpCo8cqPm438Yw2-k773xf4.jpeg?alt=media&token=06d82776-e636-449d-8504-900404fab730)
 It’s not a secret that most founders get most of the equity because they quit their jobs, fundraise money, or put on their own to start a venture.
 
-### [85. The Future Of Development: Is It Better to Work As A Freelancer?](https://hackernoon.com/the-future-of-development-is-it-better-to-work-as-a-freelancer)
+### [87. The Future Of Development: Is It Better to Work As A Freelancer?](https://hackernoon.com/the-future-of-development-is-it-better-to-work-as-a-freelancer)
 ![](https://cdn.hackernoon.com/images/I3okItszmFTiLlRDfueu4W3T5r92-r1830xl.jpeg)
 By focusing on personal branding and leveraging these tools, developers can achieve greater financial potential and flexibility within a year or two.
 
-### [86. 7 Tips To Help You Hire Good Software Developers](https://hackernoon.com/7-tips-to-help-you-hire-good-software-developers-c31s3wk8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-pok287l.jpeg?alt=media&token=e66d3af6-0ace-40db-9882-3812ef9a2095)
-In order for your company to compete with every other business in your sector, you have to expand. Without that, you'll be left in the dust, as your competition will deliver products with more efficiency, automate the management of their pipelines, and create applications and services that allow them to scale at will.
-
-### [87. How Should Engineering Leaders Handle Code Ownership Challenges?](https://hackernoon.com/how-should-engineering-leaders-handle-code-ownership-challenges)
+### [88. How Should Engineering Leaders Handle Code Ownership Challenges?](https://hackernoon.com/how-should-engineering-leaders-handle-code-ownership-challenges)
 ![](https://cdn.hackernoon.com/images/ojSdI4tVIxUSuoz0H6IGOPjWPpu2-na139zs.jpeg)
 Code ownership might not be a pressing concern when you have a small team, but when you scale to hundreds of developers, the dynamics change significantly.
 
-### [88. Keep Sharing Context: How to Enable Better and Faster Product Decisions](https://hackernoon.com/product-managing-a-team-how-to-enable-better-and-faster-product-decisions-ir3m3tq1)
+### [89. 7 Tips To Help You Hire Good Software Developers](https://hackernoon.com/7-tips-to-help-you-hire-good-software-developers-c31s3wk8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-pok287l.jpeg?alt=media&token=e66d3af6-0ace-40db-9882-3812ef9a2095)
+In order for your company to compete with every other business in your sector, you have to expand. Without that, you'll be left in the dust, as your competition will deliver products with more efficiency, automate the management of their pipelines, and create applications and services that allow them to scale at will.
+
+### [90. Keep Sharing Context: How to Enable Better and Faster Product Decisions](https://hackernoon.com/product-managing-a-team-how-to-enable-better-and-faster-product-decisions-ir3m3tq1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGsh3fmpheYQwIPKBkd2v4WdsjV63-c9a3tq9.jpeg?alt=media&token=d98c491b-6240-452b-8718-3f02b4485925)
 “So, what do you think?” — says the Product Manager after a product strategy presentation to his team
 
-### [89. The Terminal-Centered AI Workflow That Works](https://hackernoon.com/the-terminal-centered-ai-workflow-that-works)
-![](https://joachimz.me/images/blog/how-ai-changed-my-workflow-as-a-software-engineer.webp)
-The smartest AI setup is not the flashiest one. Build a flexible workflow that stays useful through pricing changes and tool shifts.
-
-### [90. Corporate Titles Are a Trap—This Is How Real Engineers Win](https://hackernoon.com/corporate-titles-are-a-trapthis-is-how-real-engineers-win)
+### [91. Corporate Titles Are a Trap—This Is How Real Engineers Win](https://hackernoon.com/corporate-titles-are-a-trapthis-is-how-real-engineers-win)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-dm02u3i.jpeg)
 Engineers should detach from corporate titles and organizational loyalty, and instead align their careers with a personal mission or purpose.
-
-### [91. Practical Examples of Using ML in Cybersecurity](https://hackernoon.com/practical-examples-of-using-ml-in-cybersecurity-u1v3uc8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaBBfgZPPZyb0YobTc0dCp6i6p7V2-np413uj9.jpeg?alt=media&token=12cc654c-4ba5-4a1b-adcd-1e9b2c19c78e)
-In this era, technology has become a basic necessity due to its compactness and handiness. This alleviation in the use of technology has also welcomed new problems. One of the most crucial issues is security. Devices contain personal and critical data which is usually misused if it is not secured. This is why the functioning of cybersecurity uses Machine language and Artificial Intelligence. It implements protection tools to create a wall between user and hacker. 
 
 ### [92. Investment Management Software Streamlines Processes for Real Estate Investors and Managers](https://hackernoon.com/investment-management-software-streamlines-processes-for-real-estate-investors-and-managers)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-vq93ore.jpeg)
 Agora Real is an investment management system for real estate investors and managers.
 
-### [93. Software Engineers Are the Heroes the Planet Needs to Halt Climate Change](https://hackernoon.com/software-engineers-are-the-heroes-the-planet-needs-to-halt-climate-change-ym4w35bj)
-![](https://cdn.hackernoon.com/images/LnejRJC9WNcsaaiwFAWC4KW6gIE3-zo3f331r.jpeg)
-Engineers all over the world are beginning to mobilize under a unified mission of moving the needle towards an emissions-free planet.
+### [93. Practical Examples of Using ML in Cybersecurity](https://hackernoon.com/practical-examples-of-using-ml-in-cybersecurity-u1v3uc8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaBBfgZPPZyb0YobTc0dCp6i6p7V2-np413uj9.jpeg?alt=media&token=12cc654c-4ba5-4a1b-adcd-1e9b2c19c78e)
+In this era, technology has become a basic necessity due to its compactness and handiness. This alleviation in the use of technology has also welcomed new problems. One of the most crucial issues is security. Devices contain personal and critical data which is usually misused if it is not secured. This is why the functioning of cybersecurity uses Machine language and Artificial Intelligence. It implements protection tools to create a wall between user and hacker. 
 
-### [94. Meet the Writer: HackerNoon's Contributor Darryl Bayliss, Software Engineer](https://hackernoon.com/meet-the-writer-hackernoons-contributor-darryl-bayliss-software-engineer)
-![](https://cdn.hackernoon.com/images/jDpmEvX2s9NOjteuQqYzwKALIDn2-7h82qao.jpeg)
-Hear about Darryl Bayliss, Hacker Noon Contributor
-
-### [95. Honey Bees Are a Surprisingly Great Analogy to Becoming an Alpha Engineer ](https://hackernoon.com/honey-bees-are-a-surprisingly-great-analogy-to-becoming-an-alpha-engineer)
+### [94. Honey Bees Are a Surprisingly Great Analogy to Becoming an Alpha Engineer ](https://hackernoon.com/honey-bees-are-a-surprisingly-great-analogy-to-becoming-an-alpha-engineer)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7f02uzx.jpeg)
 The bee colony teaches us that in times of crisis, clarity emerges. When a system faces extinction, that's when the most important transformations occur.
 
-### [96. Scalability With AI: Lessons From Real Production Systems ](https://hackernoon.com/scalability-with-ai-lessons-from-real-production-systems)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jz024wu.jpeg)
-Learn how to scale AI systems in production: latency, cost, reliability, and observability lessons from real-world systems.
+### [95. Software Engineers Are the Heroes the Planet Needs to Halt Climate Change](https://hackernoon.com/software-engineers-are-the-heroes-the-planet-needs-to-halt-climate-change-ym4w35bj)
+![](https://cdn.hackernoon.com/images/LnejRJC9WNcsaaiwFAWC4KW6gIE3-zo3f331r.jpeg)
+Engineers all over the world are beginning to mobilize under a unified mission of moving the needle towards an emissions-free planet.
 
-### [97. Identify Your Investment Risk Profile, Develop a Winning Strategy, Work It](https://hackernoon.com/identify-your-investment-risk-profile-develop-a-winning-strategy-work-it-xd4h3utt)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBamvTIAhDQTWIhpCo8cqPm438Yw2-ke73y1o.jpeg?alt=media&token=ee871ed9-6766-4a7c-9116-8fc737f5202a)
-If you learned how to save money successfully, sooner or later, many of us will be faced the question: “How can we invest our hard-earned money profitably — assets like shares, stocks, bonds, funds, certificates or gold?”
+### [96. Meet the Writer: HackerNoon's Contributor Darryl Bayliss, Software Engineer](https://hackernoon.com/meet-the-writer-hackernoons-contributor-darryl-bayliss-software-engineer)
+![](https://cdn.hackernoon.com/images/jDpmEvX2s9NOjteuQqYzwKALIDn2-7h82qao.jpeg)
+Hear about Darryl Bayliss, Hacker Noon Contributor
 
-### [98. Spotting a Short-Sighted Developer in the Wild ](https://hackernoon.com/spotting-a-short-sighted-developer-in-the-wild)
+### [97. Spotting a Short-Sighted Developer in the Wild ](https://hackernoon.com/spotting-a-short-sighted-developer-in-the-wild)
 ![](https://cdn.hackernoon.com/images/JuibfN6SAjPNqw6d8Y7rUhC5ij12-jc92kry.jpeg)
 A list of clues for identifying the short-sighted developers. Programmer who think short-term and make mistakes in the early days of their career. Suffer later.
+
+### [98. Identify Your Investment Risk Profile, Develop a Winning Strategy, Work It](https://hackernoon.com/identify-your-investment-risk-profile-develop-a-winning-strategy-work-it-xd4h3utt)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBamvTIAhDQTWIhpCo8cqPm438Yw2-ke73y1o.jpeg?alt=media&token=ee871ed9-6766-4a7c-9116-8fc737f5202a)
+If you learned how to save money successfully, sooner or later, many of us will be faced the question: “How can we invest our hard-earned money profitably — assets like shares, stocks, bonds, funds, certificates or gold?”
 
 ### [99. 15 Things I Wish I'd Known As a Junior Developer](https://hackernoon.com/15-things-i-wish-id-known-as-a-junior-developer-0f223wzg)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FbLQVnaI0nBYjqbryLYHp5mD7BWj1-ymc3zpf.jpeg?alt=media&token=4c57a612-19c8-4301-963a-22c09e3f7052)
@@ -417,17 +419,17 @@ What Is the Difference Between a Junior and a Senior Software Developer?
 ![](https://cdn.hackernoon.com/drafts/y1163yxg.png)
 I'm working on a system for positive behavioral recognition and metrics using Firebase and React. This is a hobby/side project that I work on usually on nights and weekends.
 
-### [101. Incident Management Process: How to Train For The Tech-Fu ](https://hackernoon.com/incident-management-process-how-to-train-for-the-tech-fu-80133uqt)
+### [101. The Best Engineering Teams Share These Four Traits](https://hackernoon.com/the-best-engineering-teams-share-these-four-traits)
+![](https://joachimz.me/content/images/2026/02/team-blog-1.png)
+The best engineering teams share four traits: full commitment to decisions, separating ideas from identity, pragmatic judgment, and informed captains.
+
+### [102. Incident Management Process: How to Train For The Tech-Fu ](https://hackernoon.com/incident-management-process-how-to-train-for-the-tech-fu-80133uqt)
 ![](https://images.unsplash.com/photo-1530417838433-4b24dd3f72d4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 A well-known expression states “Hope for the best and prepare for the worst” — I was repeating it to myself over and over again while traveling between countries and offices with my 6 hours long, 220 slides, just-theory-no-practice incident management training. It was a fantastic experience, and I got great feedback. But today, three years later, I think it was one of the most stupid ideas of mine.
 
-### [102. "I Write to Learn" Karim Fanous, VP Engineering @ strongDM](https://hackernoon.com/i-write-to-learn-karim-fanous-vp-engineering-strongdm)
+### [103. "I Write to Learn" Karim Fanous, VP Engineering @ strongDM](https://hackernoon.com/i-write-to-learn-karim-fanous-vp-engineering-strongdm)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-w80325j.jpeg)
 Karim Fanous, a software engineer and a Hacker Noon contributor, tells us how he leverages writing to be a better learner, lessons learned and guilty pleasures.
-
-### [103. The Best Engineering Teams Share These Four Traits](https://hackernoon.com/the-best-engineering-teams-share-these-four-traits)
-![](https://joachimz.me/content/images/2026/02/team-blog-1.png)
-The best engineering teams share four traits: full commitment to decisions, separating ideas from identity, pragmatic judgment, and informed captains.
 
 ### [104. Federico Carrizo’s Proficiency in Software Engineering is Bringing LATAM into the Modern World](https://hackernoon.com/federico-carrizos-proficiency-in-software-engineering-is-bringing-latam-into-the-modern-world)
 ![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-q893re9.jpeg)
@@ -470,17 +472,17 @@ With new technology solutions and digital tools emerging all the time, the state
 ![](https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 I’ve just finished my first 30 days as a Product Manager moving from my previous Frontend Developer role in the Oberlo Growth team. I decided it’s also a good time to pause and reflect on all that has happened in my first month.
 
-### [114. Data Science Careers: What to Expect in the Future](https://hackernoon.com/the-future-of-data-scientists-ip1j3t38)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIMcuZGEyrzRf7UvWytxpfRbJsQ52-qh8i3tyy.jpeg?alt=media&token=24fb664a-3f21-4ffe-ada7-08cdece5c393)
-In the fall of 2012, I remember my mother telling me about an article that said data scientists are the new, sexy profession. The moment stuck with me because nobody wants to hear their parents utter the word, “sexy”. Unbeknownst to me at the time, this Harvard Business Review article is claimed to be the catalyst for the huge onslaught of students entering the data science field. This wave of “data enthusiasm” would come to have a heavy influence on my own career trajectory.
+### [114. Handling Negative Feedback: Turning Criticism into Career Growth](https://hackernoon.com/handling-negative-feedback-turning-criticism-into-career-growth)
+![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-sm833xk.png)
+Learn how to handle negative feedback from your team to boost your career growth. Embrace criticism, manage ego, and create a feedback-rich environment for succ
 
 ### [115. Meet the Writer: Matt Sokola on Helping People Feel Less Lonely on their Programming Journey](https://hackernoon.com/meet-the-writer-matt-sokola-on-helping-people-feel-less-lonely-on-their-programming-journey)
 ![](https://cdn.hackernoon.com/images/JnwMdaVZrzSOfLb9FHlT2x1vsd62-cf03gs8.jpeg)
 Matt Sokola is a software engineer whose latest Hacker Noon Top story was on building a clone of the 2048 game with React and TypeScript.
 
-### [116. Handling Negative Feedback: Turning Criticism into Career Growth](https://hackernoon.com/handling-negative-feedback-turning-criticism-into-career-growth)
-![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-sm833xk.png)
-Learn how to handle negative feedback from your team to boost your career growth. Embrace criticism, manage ego, and create a feedback-rich environment for succ
+### [116. Data Science Careers: What to Expect in the Future](https://hackernoon.com/the-future-of-data-scientists-ip1j3t38)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIMcuZGEyrzRf7UvWytxpfRbJsQ52-qh8i3tyy.jpeg?alt=media&token=24fb664a-3f21-4ffe-ada7-08cdece5c393)
+In the fall of 2012, I remember my mother telling me about an article that said data scientists are the new, sexy profession. The moment stuck with me because nobody wants to hear their parents utter the word, “sexy”. Unbeknownst to me at the time, this Harvard Business Review article is claimed to be the catalyst for the huge onslaught of students entering the data science field. This wave of “data enthusiasm” would come to have a heavy influence on my own career trajectory.
 
 ### [117. Most Outages Don’t Start in Your Database — They Start in Your Cache](https://hackernoon.com/most-outages-dont-start-in-your-database-they-start-in-your-cache)
 ![](https://cdn.hackernoon.com/images/g8aEx2p7U6gaVsAv99684Pb9T193-ix12xgm.png)

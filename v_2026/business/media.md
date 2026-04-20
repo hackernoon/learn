@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [media](https://hackernoon.com/tagged/media)
+### Let's learn about [Media](https://hackernoon.com/tagged/media) via these 145 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Media refers to the various means of mass communication, including television, radio, newspapers, magazines, and the internet, used to deliver news, entertainment, and information. It plays a pivotal role in shaping public opinion and disseminating culture.
+
 ### [1. How to Get Around Paywalls on Major Websites](https://hackernoon.com/how-to-get-around-paywalls-on-major-websites)
 ![](https://cdn.hackernoon.com/images/n5jC2PDrb9hJje5wDf8NTMHI6YY2-dq034ia.jpeg)
 Get around paywalls and read premium articles for free! I tested 10 effective methods that actually work. Find out which one’s right for you.
@@ -113,7 +117,11 @@ Feedback? I'd love to hear it at ryan@yourstack.com.
 Cheers,
 Ryan Hoover (@rrhoover)
 
-### [26. Responsive Web Design: Understand And Apply It Once And For All](https://hackernoon.com/responsive-web-design-understand-and-apply-it-once-and-for-all-mh163w3r)
+### [26. An Easy Way to Develop Your Own Apple Metal Plugin and Integrate It Into DaVinci Resolve](https://hackernoon.com/an-easy-way-to-develop-your-own-apple-metal-plugin-and-integrate-it-into-davinci-resolve)
+![](https://cdn.hackernoon.com/images/axpOMeVu5mOw7PG3SCf6nWuhyyz1-v6e30vj.jpeg)
+The Easy way to Develop Your Own Apple Metal Plugin and Integrate It into Davinci Resolve
+
+### [27. Responsive Web Design: Understand And Apply It Once And For All](https://hackernoon.com/responsive-web-design-understand-and-apply-it-once-and-for-all-mh163w3r)
 ![](https://cdn.hackernoon.com/images/n0i3ypi.gif)
 As a Microverse student for one month, I realized that my first clone webpages didn’t have a responsive layout. I was using pixels in the Navbars, percentages in one section and rem in another, I didn’t have a rule or a standard procedure. The goal was to make it look like the original webpage IN MY SCREEN.
 
@@ -125,13 +133,9 @@ When I started having these issues, I made a lot of research on the subject,
 but I was still a little confused about it. This article’s goal is to create a
 simple and direct rule to achieve the required responsiveness any developer needs in their code.
 
-### [27. The 11 Pieces of Advice I Would Give to My Younger Self — Thoughts on Building 'The Information'](https://hackernoon.com/the-11-pieces-of-advice-i-would-give-to-my-younger-self-thoughts-on-building-the-information)
+### [28. The 11 Pieces of Advice I Would Give to My Younger Self — Thoughts on Building 'The Information'](https://hackernoon.com/the-11-pieces-of-advice-i-would-give-to-my-younger-self-thoughts-on-building-the-information)
 ![](https://cdn.hackernoon.com/images/cghqQrtmSOTNLSRjhqjWrlcWt743-kya3tvn.jpeg)
 Ten years after founding The Information, the tech journalist–CEO contemplates everything she wishes she’d known from the start.
-
-### [28. An Easy Way to Develop Your Own Apple Metal Plugin and Integrate It Into DaVinci Resolve](https://hackernoon.com/an-easy-way-to-develop-your-own-apple-metal-plugin-and-integrate-it-into-davinci-resolve)
-![](https://cdn.hackernoon.com/images/axpOMeVu5mOw7PG3SCf6nWuhyyz1-v6e30vj.jpeg)
-The Easy way to Develop Your Own Apple Metal Plugin and Integrate It into Davinci Resolve
 
 ### [29. Characterizing Cable News Bias: Discussing What It All Means](https://hackernoon.com/characterizing-cable-news-bias-discussing-what-it-all-means)
 ![](https://cdn.hackernoon.com/images/2-tv-anchors-having-a-discussion-v1xc6phdr91wad0r8n5nqz92.png)
@@ -149,13 +153,13 @@ Transform your SaaS brand's approach with non-CTA CTAs: Where every blog post, d
 ![](https://images.unsplash.com/photo-1579275530126-af715aa21c6c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 GenZ-ers seem to like political and international news so journalists are now moving to TikTok.
 
-### [33. The Reddit Paradox: How AI is Driving Users Back to the Internet’s Most Un-AI Misfit ](https://hackernoon.com/the-reddit-paradox-how-ai-is-driving-users-back-to-the-internets-most-un-ai-misfit)
-![](https://cdn.hackernoon.com/images/pC9ETKtznagNvUGUgZ8sqefPnUA3-n8032mz.jpeg)
-Why the sudden Internet exodus to a 19-year-old platform? Here's how AI and psychology are fueling Reddit’s growth.
-
-### [34. Every DC Movie That Got Canceled in 2022](https://hackernoon.com/every-dc-movie-that-got-canceled-in-2022)
+### [33. Every DC Movie That Got Canceled in 2022](https://hackernoon.com/every-dc-movie-that-got-canceled-in-2022)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-om93p2a.jpeg)
 Here are all of the DC films that were canceled in 2022: Batgirl, Man of Steel 2, Wonder Woman 3, and a Black Adam sequel. 
+
+### [34. The Reddit Paradox: How AI is Driving Users Back to the Internet’s Most Un-AI Misfit ](https://hackernoon.com/the-reddit-paradox-how-ai-is-driving-users-back-to-the-internets-most-un-ai-misfit)
+![](https://cdn.hackernoon.com/images/pC9ETKtznagNvUGUgZ8sqefPnUA3-n8032mz.jpeg)
+Why the sudden Internet exodus to a 19-year-old platform? Here's how AI and psychology are fueling Reddit’s growth.
 
 ### [35. Mark Zuckerberg's Modern-Day Empire: Is He Too Powerful?](https://hackernoon.com/mark-zuckerbergs-modern-day-empire-is-he-too-powerful)
 ![](https://cdn.hackernoon.com/images/Zsb71bWROKg0qI1Z0N5VpdHGjly1-fq93ywp.jpeg)
@@ -169,21 +173,21 @@ These are 10 tips that every founder needs to do early to begin PR efforts
 ![](https://cdn.hackernoon.com/images/nyJ3v3rRv5NGM0ueVYbwsOuSUNr1-c4b3pkq.png)
 Did you know? Two out of three journalists say their work has been impacted by economic uncertainty. 
 
-### [38. Here We Go Again: 21 Saucy Predictions for 2021](https://hackernoon.com/here-we-go-again-21-saucy-predictions-for-2021-w01p34ro)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-xv1b2885.jpeg)
-21 Predictions for 2021
-
-### [39. Dissecting Video Games and If They Are Art: A Non-Gamer's Analysis](https://hackernoon.com/dissecting-video-games-and-if-they-are-art-a-non-gamers-analysis)
+### [38. Dissecting Video Games and If They Are Art: A Non-Gamer's Analysis](https://hackernoon.com/dissecting-video-games-and-if-they-are-art-a-non-gamers-analysis)
 ![](https://cdn.hackernoon.com/images/c7rTLBU070RkHrswxCs9VEPlxrv2-tk83go8.jpeg)
 Are video games truly art or just another piece of tech made to be bought, played, and forgotten?
 
-### [40. Hallyu for Idiots: Understand the Korean Wave via Parasite and K-dramas](https://hackernoon.com/hallyu-for-idiots-understand-the-korean-wave-via-parasite-and-k-dramas-n1cm3abj)
-![](https://cdn.hackernoon.com/images/o2i1s33sm.gif)
-Feature Picture: Parasite - Best movie of the decade, in my opinion. As well as 2019 Best Picture according to the Academy Awards. 
+### [39. Here We Go Again: 21 Saucy Predictions for 2021](https://hackernoon.com/here-we-go-again-21-saucy-predictions-for-2021-w01p34ro)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-xv1b2885.jpeg)
+21 Predictions for 2021
 
-### [41. The Rise of Refurbished Phones — Except in the U.S.](https://hackernoon.com/the-rise-of-refurbished-phones-except-in-the-us)
+### [40. The Rise of Refurbished Phones — Except in the U.S.](https://hackernoon.com/the-rise-of-refurbished-phones-except-in-the-us)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-cc93nzi.jpeg)
 Refurbished phones are becoming more and more popular, but the U.S. is lagging behind in sales. Here's a look at why.
+
+### [41. Hallyu for Idiots: Understand the Korean Wave via Parasite and K-dramas](https://hackernoon.com/hallyu-for-idiots-understand-the-korean-wave-via-parasite-and-k-dramas-n1cm3abj)
+![](https://cdn.hackernoon.com/images/o2i1s33sm.gif)
+Feature Picture: Parasite - Best movie of the decade, in my opinion. As well as 2019 Best Picture according to the Academy Awards. 
 
 ### [42. The Noonification: Our World Has Become a WWE Stage (8/31/2023)](https://hackernoon.com/8-31-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_42_jvskwds43bs17nv01bp0gfn4.png)
@@ -205,13 +209,13 @@ Brian Condenanza, tech investor, explains some of the least discussed dangers of
 ![](https://cdn.hackernoon.com/images/Fs6yMNLemSQFopm3m8hIZVuGaqN2-is93n84.jpeg)
 In light of Susan Wojcicki's departure as the CEO of Youtube, what is the future of the company like?
 
-### [47. Is it Necessary for a UX/UI Designer to Know How to Code?](https://hackernoon.com/is-it-necessary-for-a-uxui-designer-to-know-how-to-code)
-![](https://cdn.hackernoon.com/images/Hr4zJaE09hYutGUApRLUdnqle5d2-1z938zw.jpeg)
-Coding skills aren't a must for UX/UI designers, yet offer advantages: better dev communication, enhanced projects, new ideas, confidence.
-
-### [48. Clapper Launches “the Newsroom” to Promote Unbiased News and Combat Censorship](https://hackernoon.com/clapper-launches-the-newsroom-to-promote-unbiased-news-and-combat-censorship)
+### [47. Clapper Launches “the Newsroom” to Promote Unbiased News and Combat Censorship](https://hackernoon.com/clapper-launches-the-newsroom-to-promote-unbiased-news-and-combat-censorship)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-s5832sf.png)
 Clapper, a platform designed for adults seeking a censorship-free space, is making waves with its latest offering: The Clapper Newsroom.
+
+### [48. Is it Necessary for a UX/UI Designer to Know How to Code?](https://hackernoon.com/is-it-necessary-for-a-uxui-designer-to-know-how-to-code)
+![](https://cdn.hackernoon.com/images/Hr4zJaE09hYutGUApRLUdnqle5d2-1z938zw.jpeg)
+Coding skills aren't a must for UX/UI designers, yet offer advantages: better dev communication, enhanced projects, new ideas, confidence.
 
 ### [49. Support Independent Tech Media By Investing in Hacker Noon](https://hackernoon.com/support-independent-tech-media-by-investing-in-hacker-noon-right-now-151996345af2)
 ![](https://cdn.hackernoon.com/images/support-independent-journalism-by-supporting-hackernoon-nrj4mimqw9hnx120c0jwf2vs.png)
@@ -237,41 +241,41 @@ Mark Zuckerberg says abandoning fact-checking is about fostering "free speech," 
 ![](https://cdn.hackernoon.com/images/a-news-anchor-with-a-demon-whispering-in-his-ear-ostllmqi8ica9m918m2rhrws.png)
 The increasing trend of political polarization in the U.S. is reflected in media consumption patterns that indicate partisan polarization.
 
-### [55. Stop Using Fake Quotations You Found on the Internet](https://hackernoon.com/stop-using-fake-quotations-you-found-on-the-internet-sn153evq)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FE94jeG4kuxf5Akvr1TBep1bZVSg1-5u3w3tch.jpeg?alt=media&token=9c413081-0a23-4517-adb2-624dfc1eab2d)
-The Internet is full of people seeking and sharing useful information. Yet, news stories are subject to constant skepticism — the political views and motivations of legitimate news outlets are under constant scrutiny.
+### [55. "Traditional Media Exhibit Bias Against Crypto", Alena Afanaseva CEO BeInCypto News Media ](https://hackernoon.com/traditional-media-exhibit-bias-against-crypto-alena-afanaseva-ceo-beincypto-news-media)
+![](https://cdn.hackernoon.com/images/XEwEsoKKiSM0pGjq4dyeehqOfjj2-m5b2pvy.jpeg)
+I recently sat down with the CEO of BeInCrypto Alena Afanaseva to discuss the rise of crypto journalism and the recent spate of anti-crypto narratives..........
 
 ### [56. Netflix Brings Out the Big Guns](https://hackernoon.com/netflix-brings-out-the-big-guns)
 ![](https://cdn.hackernoon.com/images/theater-announcement-clj5m9udk000601s60a34ckcf.png)
 It was a big weekend for Netflix as the live streaming platform gave subscribers a taste of what's in store for 2023 and beyond. 
 
-### [57. "Traditional Media Exhibit Bias Against Crypto", Alena Afanaseva CEO BeInCypto News Media ](https://hackernoon.com/traditional-media-exhibit-bias-against-crypto-alena-afanaseva-ceo-beincypto-news-media)
-![](https://cdn.hackernoon.com/images/XEwEsoKKiSM0pGjq4dyeehqOfjj2-m5b2pvy.jpeg)
-I recently sat down with the CEO of BeInCrypto Alena Afanaseva to discuss the rise of crypto journalism and the recent spate of anti-crypto narratives..........
+### [57. Stop Using Fake Quotations You Found on the Internet](https://hackernoon.com/stop-using-fake-quotations-you-found-on-the-internet-sn153evq)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FE94jeG4kuxf5Akvr1TBep1bZVSg1-5u3w3tch.jpeg?alt=media&token=9c413081-0a23-4517-adb2-624dfc1eab2d)
+The Internet is full of people seeking and sharing useful information. Yet, news stories are subject to constant skepticism — the political views and motivations of legitimate news outlets are under constant scrutiny.
 
 ### [58. The News DAO?](https://hackernoon.com/the-news-dao)
 ![](https://cdn.hackernoon.com/images/2kAZlaRVjHVXG4EijEmap26m5q03-7592c4e.jpeg)
 Form a News DAO against the usual news agencies where we can find out the truth about things, without censorship from the 'owners'.
 
-### [59. Three Reasons Behind Ludicrous Spending in Streaming Media](https://hackernoon.com/reasons-behind-ludicrous-spending-in-streaming-media-7rk32mn)
-![](https://cdn.hackernoon.com/images/no34321r.jpg)
-Netflix spent $16 billion in 2019 on producing and acquiring new content. Amazon pursued its originals journey with $6 billion. Quibi, a yet to launch streaming service raised a billion dollars to create a catalog for millennials.
-
-### [60. Why The Queen’s Gambit Was the #1 Show in 12 Countries ](https://hackernoon.com/why-the-queens-gambit-was-the-1-show-in-12-countries-vr3k31mj)
-![](https://cdn.hackernoon.com/images/1AwNJVkdvPQmjZ8YM8zZf2UMguc2-ffe210d.png)
-The Chess Show on Netflix | The Queen's Gambit
-
-### [61. The 59 Best Technology Journalism Stories Published in 2020](https://hackernoon.com/the-59-best-technology-journalism-stories-published-in-2020-i02831nb)
-![](https://cdn.hackernoon.com/images/8LbJUg9T3yRy2Ksu0dtKFV4WUih2-q0kd3epv.jpeg)
-In a year dominated by pandemic, there was also a lot of notable technology news and analysis. 
-
-### [62. How the PR Industry is Being Disrupted by the Use of AI and Other Technological Innovations](https://hackernoon.com/how-the-pr-industry-is-being-disrupted-by-the-use-of-ai-and-other-technological-innovations)
+### [59. How the PR Industry is Being Disrupted by the Use of AI and Other Technological Innovations](https://hackernoon.com/how-the-pr-industry-is-being-disrupted-by-the-use-of-ai-and-other-technological-innovations)
 ![](https://cdn.hackernoon.com/images/dfnkKGGdaveDKSte2xzbUj73T6z2-xd932y5.jpeg)
 Research shows that E-PR Online's vast selection of media outlets is a significant advantage for clients looking to reach their target audience effectively.
 
-### [63. Media Titans: Murdochs vs Ellisons](https://hackernoon.com/media-titans-murdochs-vs-ellisons)
+### [60. Three Reasons Behind Ludicrous Spending in Streaming Media](https://hackernoon.com/reasons-behind-ludicrous-spending-in-streaming-media-7rk32mn)
+![](https://cdn.hackernoon.com/images/no34321r.jpg)
+Netflix spent $16 billion in 2019 on producing and acquiring new content. Amazon pursued its originals journey with $6 billion. Quibi, a yet to launch streaming service raised a billion dollars to create a catalog for millennials.
+
+### [61. Media Titans: Murdochs vs Ellisons](https://hackernoon.com/media-titans-murdochs-vs-ellisons)
 ![](https://cdn.hackernoon.com/images/bI3BzyBanbVxEZqmLV7jRnw6d9o2-440387t.png)
 Move over Murdochs, Ellisons are the new media titans
+
+### [62. Why The Queen’s Gambit Was the #1 Show in 12 Countries ](https://hackernoon.com/why-the-queens-gambit-was-the-1-show-in-12-countries-vr3k31mj)
+![](https://cdn.hackernoon.com/images/1AwNJVkdvPQmjZ8YM8zZf2UMguc2-ffe210d.png)
+The Chess Show on Netflix | The Queen's Gambit
+
+### [63. The 59 Best Technology Journalism Stories Published in 2020](https://hackernoon.com/the-59-best-technology-journalism-stories-published-in-2020-i02831nb)
+![](https://cdn.hackernoon.com/images/8LbJUg9T3yRy2Ksu0dtKFV4WUih2-q0kd3epv.jpeg)
+In a year dominated by pandemic, there was also a lot of notable technology news and analysis. 
 
 ### [64. Video Transcoding And Optimization For Web With ffmpeg Made Easy](https://hackernoon.com/video-transcoding-and-optimization-for-web-with-ffmpeg-made-easy-ikbg2g0w)
 ![](https://cdn.hackernoon.com/drafts/ylci2gvc.png)
@@ -289,41 +293,41 @@ When Tom and I started Genius in 2009, we wanted to build something that would g
 ![](https://cdn.hackernoon.com/drafts/h2c33w8k.png)
 In today’s digital world, both standard and social media channels are renowned for having a huge effect on our daily lives. From the ways we communicate and share content, to the ways we keep up to date with the world around us, social media has, and continues to have a disruptive effect on how we view the world. Cryptocurrencies have been no exception. 
 
-### [68. 3 Daily Newsletters Worth Subscribing 📰](https://hackernoon.com/3-daily-newsletters-worth-subscribing-3i2i3wqw)
-![](https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-On any given day, you'll find tons of stories that are seemingly important, some moving, others hilarious/weird. 
-
-### [69. Orchestrating All The Things: Owning Tech, Data, Media, AI, Writing, and Content](https://hackernoon.com/orchestrating-all-the-things-owning-tech-data-media-ai-writing-and-content)
-![](https://cdn.hackernoon.com/images/fdI8xgIHRJTxUAsqoZ27qOGzMz33-vu93mss.jpeg)
-On AI-generated content, writing, new, old, and broken media, platforms, models, audiences, and body parts.
-
-### [70. How The Media is Killing Technological Progress](https://hackernoon.com/how-the-media-is-killing-technological-progress)
+### [68. How The Media is Killing Technological Progress](https://hackernoon.com/how-the-media-is-killing-technological-progress)
 ![](https://cdn.hackernoon.com/images/the-media-is-killing-technological-progress-clijzjvy8000001s6el8y07ty.png)
 How do we create media that supports progress, positivity and competing opinions?
 
-### [71. Startups of The Year: Meet the Media Industry](https://hackernoon.com/startups-of-the-year-meet-the-media-industry)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-ea033hf.png)
-This series will detail our Startups of the Year key industries and demonstrate how HackerNoon can help you explore them further. Today's Industry: Media!
+### [69. 3 Daily Newsletters Worth Subscribing 📰](https://hackernoon.com/3-daily-newsletters-worth-subscribing-3i2i3wqw)
+![](https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+On any given day, you'll find tons of stories that are seemingly important, some moving, others hilarious/weird. 
+
+### [70. Orchestrating All The Things: Owning Tech, Data, Media, AI, Writing, and Content](https://hackernoon.com/orchestrating-all-the-things-owning-tech-data-media-ai-writing-and-content)
+![](https://cdn.hackernoon.com/images/fdI8xgIHRJTxUAsqoZ27qOGzMz33-vu93mss.jpeg)
+On AI-generated content, writing, new, old, and broken media, platforms, models, audiences, and body parts.
+
+### [71. How to Create AR Filters if You're Non-technical, Step by Step](https://hackernoon.com/how-to-create-ar-filters-if-youre-non-technical-step-by-step)
+![](https://cdn.hackernoon.com/images/c9SqgYvW6pgyc9Wud58MuOrxmit2-7n93ss5.jpeg)
+This article will teach you how to create AR filters from scratch, step by step.
 
 ### [72. Enhancing Netflix's Deep Personalization: The Full Potential Of Its Current AI Recommender Systems](https://hackernoon.com/enhancing-netflixs-deep-personalization-the-full-potential-of-its-current-ai-recommender-systems)
 ![](https://cdn.hackernoon.com/images/XgyZNRLs4IfiAQYtrOhP1YGjI5j2-yb93xnf.jpeg)
 Optimizing Netflix's ML ranker outcomes for a more efficient and accurate deep personalization experience of subscribers' long and short-term viewing preference
 
-### [73. How to Create AR Filters if You're Non-technical, Step by Step](https://hackernoon.com/how-to-create-ar-filters-if-youre-non-technical-step-by-step)
-![](https://cdn.hackernoon.com/images/c9SqgYvW6pgyc9Wud58MuOrxmit2-7n93ss5.jpeg)
-This article will teach you how to create AR filters from scratch, step by step.
+### [73. Startups of The Year: Meet the Media Industry](https://hackernoon.com/startups-of-the-year-meet-the-media-industry)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-ea033hf.png)
+This series will detail our Startups of the Year key industries and demonstrate how HackerNoon can help you explore them further. Today's Industry: Media!
 
 ### [74. Responding to Online War Propaganda on LinkedIn: Who Do the Rules Protect?](https://hackernoon.com/responding-online-war-propaganda-on-linkedin-who-do-the-rules-protect)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-g793hj7.jpeg)
 I am from Ukraine, and I’m trying to use my LinkedIn in order to spread the truth about the war that is going on right now.
 
-### [75. Top 22 NFT Podcasts For NFT Novices & Masterminds This Nifty 2022](https://hackernoon.com/top-22-nft-podcasts-for-nft-novices-and-masterminds-this-nifty-2022)
-![](https://cdn.hackernoon.com/images/4LKlOHT8BtURWNF54Dmjj74h57s2-m193gm8.jpeg)
-We know you’re curious to learn more about NFTs. 2021 was a HUGE BOOM of nothing but ‘NFT this' and NFT that'- so which 22 podcasts should you listen to!? 
-
-### [76. Could COVID-19 Help Bring About The Media Revolution We Need?](https://hackernoon.com/could-covid-19-help-bring-about-the-media-revolution-we-need-uo5232n8)
+### [75. Could COVID-19 Help Bring About The Media Revolution We Need?](https://hackernoon.com/could-covid-19-help-bring-about-the-media-revolution-we-need-uo5232n8)
 ![](https://cdn.hackernoon.com/images/7ee63yze.jpg)
 On friday 20th of March, I and many thousands of UK business owners, self-employed workers and unemployed workers eagerly tuned into the 5pm news, hoping to catch a vital update on whether the government would be offering us the essential aid that we need to survive the coming 3 months. What followed was an ‘unprecedented’ broadcast (I’m going to take a shot every time Rishi Sunak says this word from now on) promising support.
+
+### [76. Top 22 NFT Podcasts For NFT Novices & Masterminds This Nifty 2022](https://hackernoon.com/top-22-nft-podcasts-for-nft-novices-and-masterminds-this-nifty-2022)
+![](https://cdn.hackernoon.com/images/4LKlOHT8BtURWNF54Dmjj74h57s2-m193gm8.jpeg)
+We know you’re curious to learn more about NFTs. 2021 was a HUGE BOOM of nothing but ‘NFT this' and NFT that'- so which 22 podcasts should you listen to!? 
 
 ### [77. How We Revamped an Online Newspaper with Ruby on Rails, React, and NodeJS](https://hackernoon.com/how-we-revamped-an-online-newspaper-with-ruby-on-rails-react-and-nodejs-g0433wim)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMqO5FJu5BqX6pm118RBfsb2Qysq1-0al3w0v.jpeg?alt=media&token=67832f75-c55a-47d1-a941-5e73c32b7876)
@@ -333,25 +337,25 @@ The Village is an online city newspaper owned by the Redefine brand. It r
 ![](https://cdn.hackernoon.com/images/a-crowd-of-people-at-a-bar-looking-up-at-the-tv-vh4v9u0jqqenb4j9e35jbg13.png)
 The program clusters are consistent over time, although there are a few periods of major movement between months. 
 
-### [79. Navigating the Art of Presales Pitches Part 1: Beyond Pitch Minimalism](https://hackernoon.com/navigating-the-art-of-presales-pitches-part-1-beyond-pitch-minimalism)
-![](https://cdn.hackernoon.com/images/3Y9ALq144VXGjZNpyP2B2m3jTqh1-g5831un.jpeg)
-Navigating the Art of Presales Pitches Part 1: Beyond Pitch Minimalism
-
-### [80. How I Manage Over a Dozen Startups](https://hackernoon.com/how-i-manage-over-a-dozen-startups)
+### [79. How I Manage Over a Dozen Startups](https://hackernoon.com/how-i-manage-over-a-dozen-startups)
 ![](https://cdn.hackernoon.com/images/806D5cByiXTuXu9YldkNPRwtIMg2-ht83g9a.jpeg)
 Use this framework to efficiently juggle business growth and personal development without missing a beat.
 
-### [81. I am a Big Believer in Deep Work - Interview With Omri Hurwitz, Tech Marketer & Media Strategist ](https://hackernoon.com/i-am-a-big-believer-in-deep-work-interview-with-omri-hurwitz-tech-marketer-and-media-strategist)
+### [80. Navigating the Art of Presales Pitches Part 1: Beyond Pitch Minimalism](https://hackernoon.com/navigating-the-art-of-presales-pitches-part-1-beyond-pitch-minimalism)
+![](https://cdn.hackernoon.com/images/3Y9ALq144VXGjZNpyP2B2m3jTqh1-g5831un.jpeg)
+Navigating the Art of Presales Pitches Part 1: Beyond Pitch Minimalism
+
+### [81. Roxom Global Raises $17.9M: Is Bitcoin-Backed Media the Future?](https://hackernoon.com/roxom-global-raises-$179m-is-bitcoin-backed-media-the-future)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-4z03ll8.jpeg)
+Bitcoin project Roxom Global raises $17.9M, launching BTC treasury and media network RoxomTV. What does this mean for Bitcoin's future?
+
+### [82. I am a Big Believer in Deep Work - Interview With Omri Hurwitz, Tech Marketer & Media Strategist ](https://hackernoon.com/i-am-a-big-believer-in-deep-work-interview-with-omri-hurwitz-tech-marketer-and-media-strategist)
 ![](https://cdn.hackernoon.com/images/uwdds9GP9oRGK8rZBtabE59fB8P2-eb13akb.jpeg)
 An Interview with Omri Hurwitz, Tech Marketer & Media Strategist 
 
-### [82. Sony's Web3 Journey: A New Era for the Tech Giant](https://hackernoon.com/sonys-web3-journey-a-new-era-for-the-tech-giant)
+### [83. Sony's Web3 Journey: A New Era for the Tech Giant](https://hackernoon.com/sonys-web3-journey-a-new-era-for-the-tech-giant)
 ![](https://cdn.hackernoon.com/images/3pTeNO1AnShySIvjgizFrTlMh2j2-a9033l0.png)
 Sony's recent partnership with Circle positions Soneium well in the world of Web3.
-
-### [83. Roxom Global Raises $17.9M: Is Bitcoin-Backed Media the Future?](https://hackernoon.com/roxom-global-raises-$179m-is-bitcoin-backed-media-the-future)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-4z03ll8.jpeg)
-Bitcoin project Roxom Global raises $17.9M, launching BTC treasury and media network RoxomTV. What does this mean for Bitcoin's future?
 
 ### [84. The Worms of Purgatory: When the Hunter Becomes the Hunted](https://hackernoon.com/the-worms-of-purgatory-when-the-hunter-becomes-the-hunted)
 ![](https://cdn.hackernoon.com/images/QYzb7n1h53OsOwTjYTWktTEsJ9w2-f693tn0.jpeg)
@@ -361,17 +365,17 @@ Man's tinkering created monsters; now, humanity's remnants battle them in the ru
 ![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-r28210x.jpeg)
 Explore the Top 5 hidden Google Chrome features in this comprehensive guide. From time-saving shortcuts to customizable settings
 
-### [86. How to Change Location on Hulu](https://hackernoon.com/how-to-change-location-on-hulu)
+### [86. "Why Don't I Have a Computer?" David Letterman Asked Bill Gates in 1995](https://hackernoon.com/why-dont-i-have-a-computer-david-letterman-asked-bill-gates-in-1995)
+![](https://cdn.hackernoon.com/images/microsoft-ceo-bill-gates-explains-to-latenight-tv-show-host-david-letterman-that-you-can-consume-any-content-anytime-via-the-internet-cle4kdckp000001s63r4zbqs0.png)
+Bill Gates explains the origins of Microsoft and tries to convince Dave to get a computer. (Air Date 11/27/1995)
+
+### [87. How to Change Location on Hulu](https://hackernoon.com/how-to-change-location-on-hulu)
 ![](https://cdn.hackernoon.com/images/UVe3px5yQufCmDrPNwaC9SKFqfb2-og03545.jpeg)
 Are you looking for a way to change location on Hulu? Then, you have come to the right place because this content will tell you the easiest way to change Hulu 
 
-### [87. Biometrics: A Beacon of Trust in the Digital Media Landscape](https://hackernoon.com/biometrics-a-beacon-of-trust-in-the-digital-media-landscape)
+### [88. Biometrics: A Beacon of Trust in the Digital Media Landscape](https://hackernoon.com/biometrics-a-beacon-of-trust-in-the-digital-media-landscape)
 ![](https://cdn.hackernoon.com/images/A4JSMF8KeKZDhK6benXc4ynf0xZ2-9883a6k.jpeg)
 This new article delves into the challenges plaguing the digital media landscape and proposes the adoption of biometrics as a potential solution.
-
-### [88. "Why Don't I Have a Computer?" David Letterman Asked Bill Gates in 1995](https://hackernoon.com/why-dont-i-have-a-computer-david-letterman-asked-bill-gates-in-1995)
-![](https://cdn.hackernoon.com/images/microsoft-ceo-bill-gates-explains-to-latenight-tv-show-host-david-letterman-that-you-can-consume-any-content-anytime-via-the-internet-cle4kdckp000001s63r4zbqs0.png)
-Bill Gates explains the origins of Microsoft and tries to convince Dave to get a computer. (Air Date 11/27/1995)
 
 ### [89. "They're Noncreative People Who Are Controlling Creative Things" Joe Rogan on Suits [2007 Interview]](https://hackernoon.com/theyre-noncreative-people-who-are-controlling-creative-things-joe-rogan-on-suits-2007-interview)
 ![](https://cdn.hackernoon.com/images/934YRhnzQ6RgfQPaSqb03NsHlQp2-0h93poe.jpeg)
@@ -401,57 +405,57 @@ Gitcoin Media and Tech grants both need to be separated on the basis of matching
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-fa032bt.png)
 Uncover the top media startups of 2024, redefining content creation, distribution, and engagement in the digital age.
 
-### [96. CEO of Crypto Media Outlet Spills The Beans on Establishing Authority in the Crypto Space](https://hackernoon.com/ceo-of-crypto-media-outlet-spills-the-beans-on-establishing-authority-in-the-crypto-space)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-dy02tvp.jpeg)
-Sebastian Scheplitz, CEO of The Coinomist, we will give you an overview of the key aspects of building a successful crypto media outlet.
-
-### [97. Characterizing Cable News Bias: The Methodology You Have to Understand ](https://hackernoon.com/characterizing-cable-news-bias-the-methodology-you-have-to-understand)
+### [96. Characterizing Cable News Bias: The Methodology You Have to Understand ](https://hackernoon.com/characterizing-cable-news-bias-the-methodology-you-have-to-understand)
 ![](https://cdn.hackernoon.com/images/words-breaking-out-of-a-tv-screen-colorful-tczr7evl8yz24l0ap57kgz89.png)
 Using NexisUni, we obtained all transcripts from Fox News, MSNBC, and CNN from January 2020 to December 2020, a total of 14,000 transcripts.
+
+### [97. Section 230: What Is It and Does It Need to Change?](https://hackernoon.com/section-230-what-is-it-and-does-it-need-to-change)
+![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-pd93w1d.jpeg)
+Everyone’s favorite punching bag, Section 230 of the Communications Decency Act of 1996, made its way to the Supreme Court this week in Gonzalez v. Google. 
 
 ### [98. Revolutionizing Digital Art: Atriv and Flare Join Forces to Simplify NFT Creation and Trading](https://hackernoon.com/revolutionizing-digital-art-atriv-and-flare-join-forces-to-simplify-nft-creation-and-trading)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-8d93q9v.jpeg)
 Atriv and Flare have teamed up to make creating and trading NFTs as simple as sending a text message.
 
-### [99. Section 230: What Is It and Does It Need to Change?](https://hackernoon.com/section-230-what-is-it-and-does-it-need-to-change)
-![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-pd93w1d.jpeg)
-Everyone’s favorite punching bag, Section 230 of the Communications Decency Act of 1996, made its way to the Supreme Court this week in Gonzalez v. Google. 
+### [99. CEO of Crypto Media Outlet Spills The Beans on Establishing Authority in the Crypto Space](https://hackernoon.com/ceo-of-crypto-media-outlet-spills-the-beans-on-establishing-authority-in-the-crypto-space)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-dy02tvp.jpeg)
+Sebastian Scheplitz, CEO of The Coinomist, we will give you an overview of the key aspects of building a successful crypto media outlet.
 
 ### [100. The Promising Future of Internet Media With AI and Blockchain](https://hackernoon.com/the-promising-future-of-internet-media-with-ai-and-blockchain)
 ![](https://cdn.hackernoon.com/images/social-media-based-on-artificial-intlligence-and-blockchain-clgl37efd000001s6hr9z7ytq.png)
 AI and blockchain have pros and cons, and we've only started seeing their prowess in many fields, including medic/social media. 
 
-### [101. 67 Stories To Learn About Media](https://hackernoon.com/67-stories-to-learn-about-media)
-![](https://cdn.hackernoon.com/images/github/media-318.png)
-Learn everything you need to know about Media via these 67 free HackerNoon stories.
-
-### [102. Modern PR: Results Driven Brand Awareness & Demand Generation ](https://hackernoon.com/modern-pr-results-driven-brand-awareness-and-demand-generation)
+### [101. Modern PR: Results Driven Brand Awareness & Demand Generation ](https://hackernoon.com/modern-pr-results-driven-brand-awareness-and-demand-generation)
 ![](https://cdn.hackernoon.com/images/uwdds9GP9oRGK8rZBtabE59fB8P2-2e237y4.jpeg)
 Modern PR: The Next Generation Of Brand Awareness & Demand Generation 
 
-### [103. The Two Most Important Things To Remember When Doing Modern PR](https://hackernoon.com/the-two-most-important-things-to-remember-when-doing-modern-pr)
-![](https://cdn.hackernoon.com/images/uwdds9GP9oRGK8rZBtabE59fB8P2-y593pkn.jpeg)
+### [102. 67 Stories To Learn About Media](https://hackernoon.com/67-stories-to-learn-about-media)
+![](https://cdn.hackernoon.com/images/github/media-318.png)
+Learn everything you need to know about Media via these 67 free HackerNoon stories.
 
-
-### [104. From Layoff to Launch: Connectech ID's Vision for Indonesia's Tech Community](https://hackernoon.com/from-layoff-to-launch-connectech-ids-vision-for-indonesias-tech-community)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-hf02ppc.jpeg)
-Discover Media Sari's journey with Connectech ID, a digital marketing agency empowering tech startups through community engagement and innovative strategies
-
-### [105. Meet the Writer: HackerNoon's Contributor George Anadiotis, Orchestrator](https://hackernoon.com/meet-the-writer-hackernoons-contributor-george-anadiotis-orchestrator)
-![](https://cdn.hackernoon.com/images/fdI8xgIHRJTxUAsqoZ27qOGzMz33-zw93m0e.jpeg)
-On what it means to be an orchestrator and why the more i get into tech, the more i want to go analog.
-
-### [106. Egor Kosolapov, Art Director and Graphic Designer: “We Aim to Set the Trends”](https://hackernoon.com/egor-kosolapov-art-director-and-graphic-designer-we-aim-to-set-the-trends)
+### [103. Egor Kosolapov, Art Director and Graphic Designer: “We Aim to Set the Trends”](https://hackernoon.com/egor-kosolapov-art-director-and-graphic-designer-we-aim-to-set-the-trends)
 ![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-wj0395b.jpeg)
 Award-winning art director Egor Kosolapov on setting visual trends— from Moscow roots to The Daily Wire, shaping brands for Ben Shapiro & Jordan Peterson.
 
-### [107. Media Moves: Katy Koob Joins Dastan to Drive Decentralized Growth](https://hackernoon.com/media-moves-katy-koob-joins-dastan-to-drive-decentralized-growth)
+### [104. The Two Most Important Things To Remember When Doing Modern PR](https://hackernoon.com/the-two-most-important-things-to-remember-when-doing-modern-pr)
+![](https://cdn.hackernoon.com/images/uwdds9GP9oRGK8rZBtabE59fB8P2-y593pkn.jpeg)
+
+
+### [105. Media Moves: Katy Koob Joins Dastan to Drive Decentralized Growth](https://hackernoon.com/media-moves-katy-koob-joins-dastan-to-drive-decentralized-growth)
 ![](https://cdn.hackernoon.com/images/nyJ3v3rRv5NGM0ueVYbwsOuSUNr1-dnb34g6.png)
 Katy Koob is the newly appointed Vice President of Revenue at Dastan, the parent company of Decrypt and Rug Radio.
 
-### [108. HackerNoon Decoded 2024: Celebrating Our Media Community!](https://hackernoon.com/hackernoon-decoded-2024-celebrating-our-media-community)
+### [106. Meet the Writer: HackerNoon's Contributor George Anadiotis, Orchestrator](https://hackernoon.com/meet-the-writer-hackernoons-contributor-george-anadiotis-orchestrator)
+![](https://cdn.hackernoon.com/images/fdI8xgIHRJTxUAsqoZ27qOGzMz33-zw93m0e.jpeg)
+On what it means to be an orchestrator and why the more i get into tech, the more i want to go analog.
+
+### [107. HackerNoon Decoded 2024: Celebrating Our Media Community!](https://hackernoon.com/hackernoon-decoded-2024-celebrating-our-media-community)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-y51348t.png)
 Explore HackerNoon Decoded: The Best of Media in 2024—top stories, standout writers, and the readers who shaped the discourse!
+
+### [108. From Layoff to Launch: Connectech ID's Vision for Indonesia's Tech Community](https://hackernoon.com/from-layoff-to-launch-connectech-ids-vision-for-indonesias-tech-community)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-hf02ppc.jpeg)
+Discover Media Sari's journey with Connectech ID, a digital marketing agency empowering tech startups through community engagement and innovative strategies
 
 ### [109. What's the Future of Media? Substack, Decentralized Media, and MultiTouchpoint Marketing](https://hackernoon.com/whats-the-future-of-media-substack-decentralized-media-and-multitouchpoint-marketing)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-nc92aqo.png)
@@ -498,61 +502,61 @@ Discover the six dynamic corporate video trends for 2023 that you absolutely nee
 ![](https://cdn.hackernoon.com/images/wyLN3yhwtVaMAIlYJR1nlsHsErN2-3w93idz.jpeg)
 The Metaverse Insider is proud to announce a partnership with MILC as part of its evolving Metaverse ecosystem.
 
-### [120. Media Products vs The Rest: The High Leverage Phenomenon In Media Products](https://hackernoon.com/media-products-vs-the-rest-the-high-leverage-phenomenon-in-media-products-9gv3x70)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY14t1a3ZEoT7RE6300ayez7dRN83-owm3ui3.jpeg?alt=media&token=0386c527-0fc2-492d-8163-a4e8da6fb042)
-Hulu purchased the rights of Seinfeld in 2015 for $150 Million. For the same deal after 4 years Netflix wrote a check of $400 Million. During these 4 years, neither Larry David nor Jerry Seinfeld (creators of Seinfeld) has done any new work for the show. 
-
-### [121. Startups of the Year 2024: 8,350 Startups Nominated in the Messaging & Communications Industry](https://hackernoon.com/startups-of-the-year-2024-8350-startups-nominated-in-the-messaging-and-communications-industry)
+### [120. Startups of the Year 2024: 8,350 Startups Nominated in the Messaging & Communications Industry](https://hackernoon.com/startups-of-the-year-2024-8350-startups-nominated-in-the-messaging-and-communications-industry)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-2z033du.png)
 HackerNoon is pleased to announce the nominees for Startups of The Year, featuring the most innovative companies in the Messaging & Communications industry.
+
+### [121. The Noonification: The Top Winners and Losers of Crypto in 2023 (3/13/2024)](https://hackernoon.com/3-13-2024-noonification)
+![](https://cdn.hackernoon.com/images/noonification_326_cqe1zp1g3aawc4i6vk9ujdc1.png)
+3/13/2024: Top 5 stories on the HackerNoon homepage!
 
 ### [122. M.E.M.E. - Manipulating Encoded Media's Expression](https://hackernoon.com/meme-manipulating-encoded-medias-expression)
 ![](https://cdn.hackernoon.com/images/2sLc7X5hFPN7TGEKRyfISDS8fci2-wsb2jnt.jpeg)
 How memes influence us. Are they only a form of fun or a way to manipulate the masses.
 
-### [123. The Noonification: The Top Winners and Losers of Crypto in 2023 (3/13/2024)](https://hackernoon.com/3-13-2024-noonification)
-![](https://cdn.hackernoon.com/images/noonification_326_cqe1zp1g3aawc4i6vk9ujdc1.png)
-3/13/2024: Top 5 stories on the HackerNoon homepage!
-
-### [124. Debunking 5 Common Web3 Communications Myths](https://hackernoon.com/debunking-5-common-web3-communications-myths)
+### [123. Debunking 5 Common Web3 Communications Myths](https://hackernoon.com/debunking-5-common-web3-communications-myths)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-cs82phl.jpeg)
 Discover how to navigate the evolving Web3 landscape with effective PR strategies, debunking myths, and fostering trust amidst market resurgence.
+
+### [124. Media Products vs The Rest: The High Leverage Phenomenon In Media Products](https://hackernoon.com/media-products-vs-the-rest-the-high-leverage-phenomenon-in-media-products-9gv3x70)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY14t1a3ZEoT7RE6300ayez7dRN83-owm3ui3.jpeg?alt=media&token=0386c527-0fc2-492d-8163-a4e8da6fb042)
+Hulu purchased the rights of Seinfeld in 2015 for $150 Million. For the same deal after 4 years Netflix wrote a check of $400 Million. During these 4 years, neither Larry David nor Jerry Seinfeld (creators of Seinfeld) has done any new work for the show. 
 
 ### [125. Stop Compromising Your UX for Display Ad Revenue: It's Not Worth It](https://hackernoon.com/stop-compromising-your-ux-for-display-ad-revenue-its-not-worth-it-jk7433e1)
 ![](https://cdn.hackernoon.com/images/prLps5s1SBOhm3wA5My1AEQrJyl1-ep2b33sp.jpeg)
 Banner ads can make website visitors uncomfortable, but they are a big source of revenue. This article covers how to balance your user's experience & your ads.
 
-### [126. Avatars Will Emerge as Storytellers](https://hackernoon.com/avatars-will-emerge-as-storytellers-tok3xk3)
-![](https://cdn.hackernoon.com/drafts/g1s32wj.png)
-Humans rule the world.
+### [126. Spotting Daily News Hooks: A Guide for Companies](https://hackernoon.com/how-companies-can-create-news-hooks-that-editors-actually-publish)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-e2023u6.jpeg)
+A strong news hook is always a balance: useful for the reader and convenient for the journalist.
 
-### [127. Facebook: Brazen Censorship or a Tactical Solution to a Sophisticated Social Ask?](https://hackernoon.com/facebook-brazen-censorship-or-a-tactical-solution-to-a-sophisticated-social-ask-kj2a34f5)
-![](https://cdn.hackernoon.com/images/3Y7YY5NBjTRjpvBd5CdT6EtwU9i1-ojg310h.jpeg)
-We are entering a completely new supra-state level of regulation. This function that has suddenly gone to Facebook as a state has all the chances to contribute 
-
-### [128. Unlocking PR: How Businesses Can Conquer Their Publicity Phobias](https://hackernoon.com/unlocking-pr-how-businesses-can-conquer-their-publicity-phobias)
+### [127. Unlocking PR: How Businesses Can Conquer Their Publicity Phobias](https://hackernoon.com/unlocking-pr-how-businesses-can-conquer-their-publicity-phobias)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-06020fu.jpeg)
 Businesses want it—but they’re afraid of it.
 
-### [129. Do Not Buy a Computer from Walmart, and Related Advice](https://hackernoon.com/do-not-buy-a-computer-from-walmart-and-related-advice)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-0n039c9.jpeg)
-How do you feel about your ability to give advice? Depends on the topic. Do you have advice for me? Do not buy a computer from Walmart.
-
-### [130. Meet Self-Employed in Austria, Startups of The Year 2024 Nominee](https://hackernoon.com/meet-self-employed-in-austria-startups-of-the-year-2024-nominee)
+### [128. Meet Self-Employed in Austria, Startups of The Year 2024 Nominee](https://hackernoon.com/meet-self-employed-in-austria-startups-of-the-year-2024-nominee)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7e02qbw.png)
 Self-Employed in Austria is both a platform and a community dedicated to empowering English-speaking individuals who want to become self-employed in Austria.
 
-### [131. Debunking the Top 5 PR Myths](https://hackernoon.com/debunking-the-top-5-pr-myths)
+### [129. Avatars Will Emerge as Storytellers](https://hackernoon.com/avatars-will-emerge-as-storytellers-tok3xk3)
+![](https://cdn.hackernoon.com/drafts/g1s32wj.png)
+Humans rule the world.
+
+### [130. Facebook: Brazen Censorship or a Tactical Solution to a Sophisticated Social Ask?](https://hackernoon.com/facebook-brazen-censorship-or-a-tactical-solution-to-a-sophisticated-social-ask-kj2a34f5)
+![](https://cdn.hackernoon.com/images/3Y7YY5NBjTRjpvBd5CdT6EtwU9i1-ojg310h.jpeg)
+We are entering a completely new supra-state level of regulation. This function that has suddenly gone to Facebook as a state has all the chances to contribute 
+
+### [131. Do Not Buy a Computer from Walmart, and Related Advice](https://hackernoon.com/do-not-buy-a-computer-from-walmart-and-related-advice)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-0n039c9.jpeg)
+How do you feel about your ability to give advice? Depends on the topic. Do you have advice for me? Do not buy a computer from Walmart.
+
+### [132. Debunking the Top 5 PR Myths](https://hackernoon.com/debunking-the-top-5-pr-myths)
 ![](https://cdn.hackernoon.com/images/zKwg5J9EIaY4Lwc4oisx5NE50BF2-lc139rj.jpeg)
 Getting press coverage for your startup can be tricky.  Avoid these 5 PR misconceptions.
 
-### [132. How AI and Machine Learning Are Infiltrating the Media Industry](https://hackernoon.com/how-ai-and-machine-learning-are-infiltrating-the-media-industry-bt6y3yeg)
+### [133. How AI and Machine Learning Are Infiltrating the Media Industry](https://hackernoon.com/how-ai-and-machine-learning-are-infiltrating-the-media-industry-bt6y3yeg)
 ![](https://cdn.hackernoon.com/drafts/eu13p3y01.png)
 For the past few years now, the increasing digitalization of customer journeys and the exponential improvement of cloud technologies and computing capacities have invited media groups to rethink the way they do business. If it sounds like I’m using long words to say “digital disruption”, trust your instinct. Many of these disruptions have been centered around the mountains of data media groups have access to, and what Artificial Intelligence (AI) (and machine learning more specifically) could do with it. Indeed, while artificial intelligence has been fully embraced by a plethora of pure players (Spotify, Netflix, Buzzfeed, Disney…) traditional actors are still lagging, and now see the technology as a shortcut to a much-needed renewed growth.
-
-### [133. Spotting Daily News Hooks: A Guide for Companies](https://hackernoon.com/how-companies-can-create-news-hooks-that-editors-actually-publish)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-e2023u6.jpeg)
-A strong news hook is always a balance: useful for the reader and convenient for the journalist.
 
 ### [134. The Disintermediation of the Media: How Bad Journalism Came To Be And Why It Persists](https://hackernoon.com/why-we-have-bad-news-the-disintermediation-of-the-media-wphc36tv)
 ![](https://cdn.hackernoon.com/images/182l32mt.jpg)
@@ -578,13 +582,13 @@ Lam Thuy Vo is a seasoned journalist who marries data analysis with on-the-groun
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfmuD1Mz4bpXT4FryVfXKWRe40Pj1-20193ww4.jpeg?alt=media&token=8019cb96-4b68-4f2b-93ce-5fa40232a78a)
 Social media over the last five years has become a growing and dominant source of information and news for hundreds of millions of individuals all over the world. Social media is always in your pocket on your smartphone.
 
-### [140. Google Blunts Header Bidding By “Drying Out” the Competition](https://hackernoon.com/google-blunts-header-bidding-by-drying-out-the-competition)
-![](https://cdn.hackernoon.com/images/drying-something-out-fkc8sr76yv2nxut1a957q0h4.png)
-It's just what the pros do!
-
-### [141. The Noonification: The 11 Pieces of Advice I Would Give to My Younger Self — Thoughts on Building The Information (8/29/2023)](https://hackernoon.com/8-29-2023-noonification)
+### [140. The Noonification: The 11 Pieces of Advice I Would Give to My Younger Self — Thoughts on Building The Information (8/29/2023)](https://hackernoon.com/8-29-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_383_qx42n3f69bmjifb4b4xuf2x5.png)
 8/29/2023: Top 5 stories on the Hackernoon homepage!
+
+### [141. Google Blunts Header Bidding By “Drying Out” the Competition](https://hackernoon.com/google-blunts-header-bidding-by-drying-out-the-competition)
+![](https://cdn.hackernoon.com/images/drying-something-out-fkc8sr76yv2nxut1a957q0h4.png)
+It's just what the pros do!
 
 ### [142. Top Articles This Week In Tech: WN 14](https://hackernoon.com/top-articles-this-week-in-tech-wn-14-al763y27)
 ![](https://cdn.hackernoon.com/images/u92719mw.jpg)

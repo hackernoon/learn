@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [computer-vision](https://hackernoon.com/tagged/computer-vision)
+### Let's learn about [Computer Vision](https://hackernoon.com/tagged/computer-vision) via these 346 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Harnessing Artificial Intelligence to teach computers and systems how to  obtain meaningful information from Images. We look at tricks of the trade, evolving techniques and so forth.
 
 ### [1. Introducing Drag Your GAN: Drag Objects to Create New Images](https://hackernoon.com/introducing-drag-your-gan-drag-objects-to-create-new-images)
@@ -308,73 +310,73 @@ Training a Neural Network from scratch suffers two main problems. First, a very 
 ![](https://hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-e44e3uw8.gif)
 Depth estimation and stereo image super-resolution are well-known tasks in the field of computer vision. To help researchers get high-quality training data for these tasks, industry-leading lightfield hardware provider Leia Inc. used their social media app, Holopix™, to create Holopix50k, the world’s largest “in-the-wild” stereo image dataset.
 
-### [76. 8 Benefits of Computer Vision in the Security Industry](https://hackernoon.com/8-benefits-of-computer-vision-in-the-security-industry)
+### [76. Playing Poker with Computer Vision](https://hackernoon.com/playing-poker-with-computer-vision)
+![](https://cdn.hackernoon.com/images/oiI9sqHxZ8SDEPY3jnQCYIpMn3v1-aci307v.jpeg)
+The function of the program is to start an infinite loop that reads a certain area of the screen where the poker table is.
+
+### [77. 8 Benefits of Computer Vision in the Security Industry](https://hackernoon.com/8-benefits-of-computer-vision-in-the-security-industry)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-lw93of5.jpeg)
 AI has revolutionized the physical security industry with computer vision. Here are eight of the most significant benefits.
 
-### [77. Efficient NeRFs for Real-Time Portrait Synthesis (RAD-NeRF)](https://hackernoon.com/efficient-nerfs-for-real-time-portrait-synthesis-rad-nerf)
+### [78. Efficient NeRFs for Real-Time Portrait Synthesis (RAD-NeRF)](https://hackernoon.com/efficient-nerfs-for-real-time-portrait-synthesis-rad-nerf)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-h7a3ljl.jpeg)
 We’ve heard of deepfakes, we’ve heard of NeRFs, and we’ve seen these kinds of applications allowing you to recreate someone’s face and pretty much make him say whatever you want.
-
-### [78. Playing Poker with Computer Vision](https://hackernoon.com/playing-poker-with-computer-vision)
-![](https://cdn.hackernoon.com/images/oiI9sqHxZ8SDEPY3jnQCYIpMn3v1-aci307v.jpeg)
-The function of the program is to start an infinite loop that reads a certain area of the screen where the poker table is.
 
 ### [79. The State of AI in 2022: An End-of-Year Recap of the Machine Learning Industry](https://hackernoon.com/the-state-of-ai-in-2022-an-end-of-year-recap-of-the-machine-learning-industry)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-wva3kzp.jpeg)
 An 8-minute AI rewind with results and limitations of all the hottest AI models shared in 2022!
 
-### [80. How Machine Generated Virtual Assistants can 10x Your Productivity in 2022](https://hackernoon.com/how-machine-generated-virtual-assistants-can-10x-your-productivity-in-2022)
+### [80. YOLO Jungle: С3, C2F, C3K2 — What Do They Even Mean?](https://hackernoon.com/yolo-jungle-s3-c2f-c3k2-what-do-they-even-mean)
+![](https://cdn.hackernoon.com/images/wtbtBaJlPORareDWo7AAoAx51Yf1-dl139f0.png)
+How modern YOLO architectures — including C3, C2f, C3K, and C3K2 blocks — build on the Cross-Stage Partial (CSP) concept to boost efficiency.
+
+### [81. How Machine Generated Virtual Assistants can 10x Your Productivity in 2022](https://hackernoon.com/how-machine-generated-virtual-assistants-can-10x-your-productivity-in-2022)
 ![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-2md37iq.jpeg)
 AI assistant technology is in many ways similar to a traditional chatbot but integrates next-generation machine learning, AR/VR and data science.
-
-### [81. Google Unveils Its Most Promising Text-to-Video Model Yet: Lumiere](https://hackernoon.com/google-unveils-its-most-promising-text-to-video-model-yet-lumiere)
-![](https://cdn.hackernoon.com/images/OjTeRhc0SEbypqZ4jlXRwi5DzWJ2-vd821rr.jpeg)
-Sometimes simplicity is key to getting the best results. And that's what Lumiere by Google offers.
 
 ### [82. BlobGAN: A BIG step for GANs](https://hackernoon.com/blobgan-a-big-step-for-gans)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-3ja3fg0.gif.webp)
 BlobGAN allows for unreal manipulation of images, made super easily controlling simple blobs. All these small blobs represent an object, and you can move them around or make them bigger, smaller, or even remove them, and it will have the same effect on the object it represents in the image. This is so cool!
 
-### [83. Top 10 Computer Vision Papers of 2021: HackerNoon Edition](https://hackernoon.com/top-10-computer-vision-papers-of-2021-hackernoon-edition)
+### [83. Google Unveils Its Most Promising Text-to-Video Model Yet: Lumiere](https://hackernoon.com/google-unveils-its-most-promising-text-to-video-model-yet-lumiere)
+![](https://cdn.hackernoon.com/images/OjTeRhc0SEbypqZ4jlXRwi5DzWJ2-vd821rr.jpeg)
+Sometimes simplicity is key to getting the best results. And that's what Lumiere by Google offers.
+
+### [84. Top 10 Computer Vision Papers of 2021: HackerNoon Edition](https://hackernoon.com/top-10-computer-vision-papers-of-2021-hackernoon-edition)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-xa0371e.jpeg)
 The 10 most interesting computer vision papers in 2021 with video demos, articles, code, and paper reference.
 
-### [84. PULSE: Photo Upsampling Makes Blurry Faces 60 Times Sharper](https://hackernoon.com/pulse-photo-upsampling-makes-blurry-faces-60-times-sharper-s32p32px)
+### [85. PULSE: Photo Upsampling Makes Blurry Faces 60 Times Sharper](https://hackernoon.com/pulse-photo-upsampling-makes-blurry-faces-60-times-sharper-s32p32px)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-zc1t347e.jpeg)
 The new PULSE: Photo Upsampling algorithm transforms a blurry image into a high-resolution image.
 
-### [85. 70-Page Report on the COCO Dataset and Object Detection [Part 2]](https://hackernoon.com/70-page-report-on-the-coco-dataset-and-object-detection-part-2)
+### [86. 70-Page Report on the COCO Dataset and Object Detection [Part 2]](https://hackernoon.com/70-page-report-on-the-coco-dataset-and-object-detection-part-2)
 ![](https://cdn.hackernoon.com/images/MfP1Esr4iOQrdtlTrwvCVMHCY5x2-gwi3o1a.jpeg)
 This blog is part 1 of (and contains a link to) a 70+ page report was created to quickly find data resources and/or assets for a given dataset and a specific ta
 
-### [86. Top Computer Vision Applications and Opportunities](https://hackernoon.com/top-computer-vision-applications-and-opportunities)
+### [87. Understanding GAN Mode Collapse: Causes and Solutions](https://hackernoon.com/understanding-gan-mode-collapse-causes-and-solutions)
+![](https://cdn.hackernoon.com/images/Stolt6tEO4bBbtH98cxI4xo7luw1-32434hr.png)
+Explore the causes of GAN mode collapse, including catastrophic forgetting and discriminator overfitting, to enhance the diversity of AI-generated outputs.
+
+### [88. Top Computer Vision Applications and Opportunities](https://hackernoon.com/top-computer-vision-applications-and-opportunities)
 ![](https://cdn.hackernoon.com/images/p7YPcRGGTcVnRt4s40YNNbWzSpy1-24m3osj.jpeg)
 Computer vision applications have become ever-present and can be found in every industry nowadays. In this article, we look deep at AI.
 
-### [87. 8 Companies Using Machine Learning in Cool Ways](https://hackernoon.com/8-companies-using-machine-learning-in-cool-ways-0v1x3zor)
+### [89. 8 Companies Using Machine Learning in Cool Ways](https://hackernoon.com/8-companies-using-machine-learning-in-cool-ways-0v1x3zor)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-q4t28io.jpeg?alt=media&token=332e8980-0407-4424-9a61-3c84b2665fa2)
 When asked what advice he'd give to world leaders, Elon Musk replied, "Implement a protocol to control the development of Artificial Intelligence." 
 
-### [88. YOLO Jungle: С3, C2F, C3K2 — What Do They Even Mean?](https://hackernoon.com/yolo-jungle-s3-c2f-c3k2-what-do-they-even-mean)
-![](https://cdn.hackernoon.com/images/wtbtBaJlPORareDWo7AAoAx51Yf1-dl139f0.png)
-How modern YOLO architectures — including C3, C2f, C3K, and C3K2 blocks — build on the Cross-Stage Partial (CSP) concept to boost efficiency.
-
-### [89. Face Recognition On The Wall; Google's AutoML Edge Democratizes ML For All](https://hackernoon.com/face-recognition-on-the-wall-googles-automl-edge-democratizes-ml-for-all-zti73xrz)
+### [90. Face Recognition On The Wall; Google's AutoML Edge Democratizes ML For All](https://hackernoon.com/face-recognition-on-the-wall-googles-automl-edge-democratizes-ml-for-all-zti73xrz)
 ![](https://cdn.hackernoon.com/images/5ual3xbr.jpg)
 Machine learning can be complex and overwhelming. Luckily Google is on its way to democratize machine learning by providing Google AutoML, a Google Cloud tool to handle all the complexity of machine learning for common use cases. 
 
-### [90. Single Image 3D Scene Reconstruction: A Review of Recent Advances](https://hackernoon.com/single-image-3d-scene-reconstruction-a-review-of-recent-advances)
+### [91. Single Image 3D Scene Reconstruction: A Review of Recent Advances](https://hackernoon.com/single-image-3d-scene-reconstruction-a-review-of-recent-advances)
 ![](https://cdn.hackernoon.com/images/IJhFMwVaBRcr32HBWrb0PQgonCe2-fcg4mq1.jpeg)
 Take a deep dive into 3-D computer vision and explore the transition from 2D to 3D environments.
 
-### [91. Detecting Humans in Smart Homes with Computer Vision](https://hackernoon.com/detecting-humans-in-smart-homes-with-computer-vision-95n371l)
+### [92. Detecting Humans in Smart Homes with Computer Vision](https://hackernoon.com/detecting-humans-in-smart-homes-with-computer-vision-95n371l)
 ![](https://cdn.hackernoon.com/images/LEymvvrtvURIHWScxGtFiYzJjRf2-h3g35sa.jpeg)
 Learn more about OpenCV, how you can use it to identify and track people in real-time, and what challenges you can meet.
-
-### [92. Understanding GAN Mode Collapse: Causes and Solutions](https://hackernoon.com/understanding-gan-mode-collapse-causes-and-solutions)
-![](https://cdn.hackernoon.com/images/Stolt6tEO4bBbtH98cxI4xo7luw1-32434hr.png)
-Explore the causes of GAN mode collapse, including catastrophic forgetting and discriminator overfitting, to enhance the diversity of AI-generated outputs.
 
 ### [93. How to Use Model Playground for No-Code Model Building](https://hackernoon.com/how-to-use-model-playground-for-no-code-model-building)
 ![](https://cdn.hackernoon.com/images/MKAdxUMXoNXiEXrHfUE8utCAQm83-1403avk.gif)
@@ -388,45 +390,45 @@ A guide to using the open-source tool FiftyOne to download the Kinetics dataset 
 ![](https://cdn.hackernoon.com/images/eAbwA4TqyLe7rkYAK8BUafIPLfK2-yd83eq7.jpeg)
 The GPT-4 Vision AI model has made significant strides in transforming how we approach daily tasks and hobbies. 
 
-### [96. 7 Real-World Applications of AI in Healthcare](https://hackernoon.com/7-real-world-applications-of-ai-in-healthcare-eu15031jt)
-![](https://images.unsplash.com/photo-1554734867-bf3c00a49371?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-
-
-### [97. Counting Objects by Estimating a Density Map With Convolutional Neural Networks](https://hackernoon.com/counting-objects-by-estimating-a-density-map-with-convolutional-neural-networks-dk1333sj)
-![](https://cdn.hackernoon.com/images/D56RD4i5NmY2Ho3se699rJXCCxG3-6f2p33n1.jpeg)
-## Introduction
-
-### [98. Eight Awesome AI Youtube Videos Under 10 Minutes](https://hackernoon.com/awesome-ai-youtube-videos-under-10-minutes-b1a43ubh)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-g87j3u25.jpeg?alt=media&token=ccd9b048-5069-4c18-a4e6-7e66979e3322)
-Machine learning educational content is often in the form of academic papers or blog articles. These resources are incredibly valuable. However, they can sometimes be lengthy and time-consuming. If you just want to learn basic concepts and don’t require all the math and theory behind them, concise machine learning videos may be a better option. 
-
-### [99. Optical Character Recognition Technology for Business Owners](https://hackernoon.com/optical-character-recognition-technology-for-business-owners)
-![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-8ib34oe.jpeg)
-How to use Machine learning, Deep learning and Computer Vision for building Optical Character Recognition (OCR) solution for text recognition.
-
-### [100. EagleEye Introduction: Outdoor Video Surveillance Analytics & Facial Recognition Software](https://hackernoon.com/eagleeye-outdoor-video-surveillance-analytics-and-facial-recognition-62r3nnb)
-![](https://cdn.hackernoon.com/images/512c3n1u.jpg)
-I did lot of research as well developed this software system using various Machine learning methods. I have spent around one year on this project to implement this technology for a local state government. Unfortunately It didn't materialised. But I am interested in contributing to open source community. It can accurately identify, segment, recognise objects in video feeds (92 types of semantic attributes of a person in video feeds). The most interesting part is the accuracy of our facial recognition of wild shots from street cctv cameras.
-
-### [101. Even Disney is Investing in AI: A Look at Face Re-Aging for Visual Effects](https://hackernoon.com/even-disney-is-investing-in-ai-a-look-at-face-re-aging-for-visual-effects)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-w8a3k86.jpeg)
-Whether it be for fun in a Snapchat filter, for a movie, or even to remove a few riddles, we all have a utility in mind for being able to change our age in a picture.
-
-### [102. Labubu Authenticity Guide](https://hackernoon.com/labubu-authenticity-guide)
+### [96. Labubu Authenticity Guide](https://hackernoon.com/labubu-authenticity-guide)
 ![](https://cdn.hackernoon.com/images/nxtWKMHuO1UKGUbmzmzTuQsBx4H2-2k03alf.png)
 Do you ever get that rush when the latest drop is released? But with high demand comes the risk of counterfeit products, especially on online marketplaces
 
-### [103. ShaRF: Create a 3D Model of an Object Using Just a Single Image](https://hackernoon.com/sharf-create-a-3d-model-of-an-object-using-just-a-single-image-ot4933xq)
+### [97. 7 Real-World Applications of AI in Healthcare](https://hackernoon.com/7-real-world-applications-of-ai-in-healthcare-eu15031jt)
+![](https://images.unsplash.com/photo-1554734867-bf3c00a49371?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+
+
+### [98. Counting Objects by Estimating a Density Map With Convolutional Neural Networks](https://hackernoon.com/counting-objects-by-estimating-a-density-map-with-convolutional-neural-networks-dk1333sj)
+![](https://cdn.hackernoon.com/images/D56RD4i5NmY2Ho3se699rJXCCxG3-6f2p33n1.jpeg)
+## Introduction
+
+### [99. Eight Awesome AI Youtube Videos Under 10 Minutes](https://hackernoon.com/awesome-ai-youtube-videos-under-10-minutes-b1a43ubh)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-g87j3u25.jpeg?alt=media&token=ccd9b048-5069-4c18-a4e6-7e66979e3322)
+Machine learning educational content is often in the form of academic papers or blog articles. These resources are incredibly valuable. However, they can sometimes be lengthy and time-consuming. If you just want to learn basic concepts and don’t require all the math and theory behind them, concise machine learning videos may be a better option. 
+
+### [100. Optical Character Recognition Technology for Business Owners](https://hackernoon.com/optical-character-recognition-technology-for-business-owners)
+![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-8ib34oe.jpeg)
+How to use Machine learning, Deep learning and Computer Vision for building Optical Character Recognition (OCR) solution for text recognition.
+
+### [101. EagleEye Introduction: Outdoor Video Surveillance Analytics & Facial Recognition Software](https://hackernoon.com/eagleeye-outdoor-video-surveillance-analytics-and-facial-recognition-62r3nnb)
+![](https://cdn.hackernoon.com/images/512c3n1u.jpg)
+I did lot of research as well developed this software system using various Machine learning methods. I have spent around one year on this project to implement this technology for a local state government. Unfortunately It didn't materialised. But I am interested in contributing to open source community. It can accurately identify, segment, recognise objects in video feeds (92 types of semantic attributes of a person in video feeds). The most interesting part is the accuracy of our facial recognition of wild shots from street cctv cameras.
+
+### [102. Even Disney is Investing in AI: A Look at Face Re-Aging for Visual Effects](https://hackernoon.com/even-disney-is-investing-in-ai-a-look-at-face-re-aging-for-visual-effects)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-w8a3k86.jpeg)
+Whether it be for fun in a Snapchat filter, for a movie, or even to remove a few riddles, we all have a utility in mind for being able to change our age in a picture.
+
+### [103. Top 15 Datasets for Autonomous Driving](https://hackernoon.com/top-15-datasets-for-autonomous-driving-ea2u35ej)
+![](https://cdn.hackernoon.com/images/fl5CJVyh8tSOSbowsznA9Sb8XYu2-wd3735er.jpeg)
+A2D2, ApolloScape, and Berkeley DeepDrive are among the best autonomous driving datasets available today. 
+
+### [104. ShaRF: Create a 3D Model of an Object Using Just a Single Image](https://hackernoon.com/sharf-create-a-3d-model-of-an-object-using-just-a-single-image-ot4933xq)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-t7e337y.gif)
 ShaRF stands for Shape-conditioned Radiance Fields from a Single View. The  goal is to take a picture of a real-life object, and translate this into a 3D scene.
 
-### [104. A Quick Guide to Image Processing in Computer Vision Using OpenCV](https://hackernoon.com/a-quick-guide-to-image-processing-in-computer-vision-using-opencv-igb233gc)
+### [105. A Quick Guide to Image Processing in Computer Vision Using OpenCV](https://hackernoon.com/a-quick-guide-to-image-processing-in-computer-vision-using-opencv-igb233gc)
 ![](https://cdn.hackernoon.com/images/8bRKH1vnh8MX4AkBHxzo96TtWKh1-6i833e6.jpeg)
 The image processing library which stands for Open-Source Computer Vision Library was invented by intel in 1999 and written in C/C++
-
-### [105. Top 15 Datasets for Autonomous Driving](https://hackernoon.com/top-15-datasets-for-autonomous-driving-ea2u35ej)
-![](https://cdn.hackernoon.com/images/fl5CJVyh8tSOSbowsznA9Sb8XYu2-wd3735er.jpeg)
-A2D2, ApolloScape, and Berkeley DeepDrive are among the best autonomous driving datasets available today. 
 
 ### [106. RANSAC, OLS, PCA: 3 Ways to Draw a Straight Line Across a Set of Points](https://hackernoon.com/ransac-ols-pca-3-ways-to-draw-a-straight-line-across-a-set-of-points-828q34ds)
 ![](https://hackernoon.com/images/nWlZdvoZ5HSWpchUYI2oK0Go3WX2-ju87341k.jpeg)
@@ -436,13 +438,13 @@ How I approached solving an interview task for autonomous driving from 3 differe
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-p8036bc.jpeg)
 Object detection is a product of Computer Vision and is a very effective technique to precisely locate items of different shapes and sizes and label them.
 
-### [108. What is General Video Recognition?](https://hackernoon.com/what-is-general-video-recognition)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-n9a3lsh.gif.webp)
-We’ve seen AI generate text, then generate images and most recently even generate short videos
-
-### [109. Python is a Video Latency Suicide Note: How I Hit 29 FPS with Zero-Copy C++ ONNX](https://hackernoon.com/python-is-a-video-latency-suicide-note-how-i-hit-29-fps-with-zero-copy-c-onnx)
+### [108. Python is a Video Latency Suicide Note: How I Hit 29 FPS with Zero-Copy C++ ONNX](https://hackernoon.com/python-is-a-video-latency-suicide-note-how-i-hit-29-fps-with-zero-copy-c-onnx)
 ![](https://cdn.hackernoon.com/images/ooz70Z6mIrNBoHJWAaQhPY2W6Zu2-nid2eoz.png)
 Scaling AI for the real world requires peeling back the layers of abstraction we've gotten too comfortable with.
+
+### [109. What is General Video Recognition?](https://hackernoon.com/what-is-general-video-recognition)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-n9a3lsh.gif.webp)
+We’ve seen AI generate text, then generate images and most recently even generate short videos
 
 ### [110. 5 Intriguing Applications of Computer Vision in Smart Cities](https://hackernoon.com/5-intriguing-applications-of-computer-vision-in-smart-cities)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-9q93o3v.jpeg)
@@ -452,33 +454,33 @@ Computer vision will radically change smart technology. Here are five ways it's 
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-ek2d33jz.jpeg)
 OpenAI just released the paper explaining how DALL-E works! It is called "Zero-Shot Text-to-Image Generation".
 
-### [112. How to Spot a DeepFake in 2021](https://hackernoon.com/how-to-spot-a-deepfake-in-2021-yd1v3539)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-zt1b35qo.jpeg)
-How to Spot a Deep Fake in 2021. Breakthrough US Army technology using artificial intelligence to find deepfakes.
-
-### [113. How to Get Better Datasets for Your Computer Vision Task](https://hackernoon.com/how-to-get-better-datasets-for-you-computer-vision-task)
+### [112. How to Get Better Datasets for Your Computer Vision Task](https://hackernoon.com/how-to-get-better-datasets-for-you-computer-vision-task)
 ![](https://cdn.hackernoon.com/images/enAUmgG9fMMHjw3YZvbuPhcMTkK2-tnb3keo.jpeg)
 Here are some tips to improve your dataset collection
+
+### [113. How to Spot a DeepFake in 2021](https://hackernoon.com/how-to-spot-a-deepfake-in-2021-yd1v3539)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-zt1b35qo.jpeg)
+How to Spot a Deep Fake in 2021. Breakthrough US Army technology using artificial intelligence to find deepfakes.
 
 ### [114. 70-Page Report on the COCO Dataset and Object Detection [Part 3]](https://hackernoon.com/70-page-report-on-the-coco-dataset-and-object-detection-part-3)
 ![](https://cdn.hackernoon.com/images/MfP1Esr4iOQrdtlTrwvCVMHCY5x2-aca3o4j.jpeg)
 
 
-### [115. AI and Machine Learning for Manufacturing Industry: Use Cases](https://hackernoon.com/ai-for-manufacturing-industry-lbh3nku)
+### [115. Image Segmentation: Tips and Tricks from 39 Kaggle Competitions](https://hackernoon.com/image-segmentation-tips-and-tricks-from-39-kaggle-competitions-rp3t3v7u)
+![](https://cdn.hackernoon.com/images/sz193yei.jpg)
+Imagine if you could get all the tips and tricks you need to hammer a Kaggle competition. I have gone over 39 Kaggle competitions including
+
+### [116. AI and Machine Learning for Manufacturing Industry: Use Cases](https://hackernoon.com/ai-for-manufacturing-industry-lbh3nku)
 ![](https://cdn.hackernoon.com/drafts/1o2m3n05.png)
 Artificial Intelligence(AI) has already proven to solve some of the complex problems across the wide array of industries like automobile, education, healthcare, e-commerce, agriculture etc. and yield greater productivity, smart solutions, improved security and care, business intelligence with the aid of predictive, prescriptive and descriptive analytics. So what can AI do for Manufacturing Industry?
 
-### [116. Building Real-Time Vehicle Detection System](https://hackernoon.com/building-real-time-vehicle-detection-system-0d1g3t0g)
+### [117. Building Real-Time Vehicle Detection System](https://hackernoon.com/building-real-time-vehicle-detection-system-0d1g3t0g)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXK7pxqJ8lxXQmTOPuTJv3pkWTr93-cu6o3eqq.jpeg?alt=media&token=b7d55c4f-5970-4c86-a3fe-28666093ee3f)
 From vehicle counting and smart parking systems to Autonomous Driving Assistant Systems, the demand for detecting cars, buses, and motorbikes is increasing and soon will be as common of an application as face detection.
 
 And of course, they need to run real-time to be usable in most real-world applications, because who will rely on an Autonomous Driving Assistant Systems if it cannot detect cars in front of us while driving. 
 
 In this post, I will show you how you can implement your own car detector using pre-trained models that are available for download: MobileNet SSD and Xailient Car Detector.
-
-### [117. Image Segmentation: Tips and Tricks from 39 Kaggle Competitions](https://hackernoon.com/image-segmentation-tips-and-tricks-from-39-kaggle-competitions-rp3t3v7u)
-![](https://cdn.hackernoon.com/images/sz193yei.jpg)
-Imagine if you could get all the tips and tricks you need to hammer a Kaggle competition. I have gone over 39 Kaggle competitions including
 
 ### [118. How You Can Make a Naruto Hand Signs Classifier using Deep Learning](https://hackernoon.com/how-you-can-make-a-naruto-hand-signs-classifier-using-deep-learning-ovc23vkc)
 ![](https://cdn.hackernoon.com/drafts/p9ci2es3.png)
@@ -488,96 +490,96 @@ Introduction: (How I got the idea and the process of how the dataset was develop
 ![](https://cdn.hackernoon.com/images/VQee2H7b9MdqlHMpVjYYgK9YsSu2-dt0385t.jpeg)
 You can easily make changes to your dataset using DVC to handle data versioning. This will let you extend your models to handle more generic data.
 
-### [120. Infinite Nature: Fly Into a 2D Image and Explore it as a Drone](https://hackernoon.com/infinite-nature-fly-into-a-2d-image-and-explore-it-as-a-drone-yc1a347h)
+### [120. Autonomous Driving Lidar Perception Stack with PCL: An Algorithmic Implementation](https://hackernoon.com/autonomous-driving-lidar-perception-stack-with-pcl-an-algorithmic-implementation)
+![](https://cdn.hackernoon.com/images/nWlZdvoZ5HSWpchUYI2oK0Go3WX2-i503ggm.jpeg)
+C++ pipeline for LiDAR-based autonomous driving.
+
+### [121. Infinite Nature: Fly Into a 2D Image and Explore it as a Drone](https://hackernoon.com/infinite-nature-fly-into-a-2d-image-and-explore-it-as-a-drone-yc1a347h)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-041y34j2.jpeg)
 The next step for view synthesis: Perpetual View Generation, where the goal is to take an image to fly into it and explore the landscape!
 
 
 
-### [121. How Computer Vision is Taking Over Manufacturing and Retail](https://hackernoon.com/how-computer-vision-is-taking-over-manufacturing-and-retail-wnjb3yh1)
+### [122. How Computer Vision is Taking Over Manufacturing and Retail](https://hackernoon.com/how-computer-vision-is-taking-over-manufacturing-and-retail-wnjb3yh1)
 ![](https://images.unsplash.com/photo-1569950044272-e04b4b26300a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 AI continues to take over almost every industry ripe with data. Computer vision expands AI’s capabilities, allowing machines to not only process data, but also gather information on their own, which unlocks completely new opportunities for businesses. According to research by ABI, total shipments of computer vision sensors and cameras will reach 16.9 million by 2025. 
 
-### [122. Machine Vision Technology in Production: Use Cases](https://hackernoon.com/machine-vision-technology-in-production-use-cases-je5x3ysv)
-![](https://cdn.hackernoon.com/images/ij1k3yiv.jpg)
-We at TaQadam produce different computer vision technologies. In this blog we tell about using machine vision in production for some common use-cases. 
-
-### [123. Autonomous Driving Lidar Perception Stack with PCL: An Algorithmic Implementation](https://hackernoon.com/autonomous-driving-lidar-perception-stack-with-pcl-an-algorithmic-implementation)
-![](https://cdn.hackernoon.com/images/nWlZdvoZ5HSWpchUYI2oK0Go3WX2-i503ggm.jpeg)
-C++ pipeline for LiDAR-based autonomous driving.
-
-### [124. DeOldify can Colorize your Black & White Photos with Full Photorealistic Renders](https://hackernoon.com/deoldify-can-colorize-your-black-and-white-photos-with-full-photorealistic-renders-5k2i33c3)
+### [123. DeOldify can Colorize your Black & White Photos with Full Photorealistic Renders](https://hackernoon.com/deoldify-can-colorize-your-black-and-white-photos-with-full-photorealistic-renders-5k2i33c3)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-uf1y33g5.jpeg)
 DeOldify is a technique to colorize and restore old black and white images or even film footage. It was developed by Jason Antic.
 
-### [125. Use Cascade Models to Get Better Speed and Accuracy in Computer Vision Tasks](https://hackernoon.com/use-cascade-models-to-get-better-speed-and-accuracy-in-computer-vision-tasks)
+### [124. Use Cascade Models to Get Better Speed and Accuracy in Computer Vision Tasks](https://hackernoon.com/use-cascade-models-to-get-better-speed-and-accuracy-in-computer-vision-tasks)
 ![](https://cdn.hackernoon.com/images/enAUmgG9fMMHjw3YZvbuPhcMTkK2-3s936ym.jpeg)
 Great way to improve your Computer Vision models metrics
+
+### [125. Machine Vision Technology in Production: Use Cases](https://hackernoon.com/machine-vision-technology-in-production-use-cases-je5x3ysv)
+![](https://cdn.hackernoon.com/images/ij1k3yiv.jpg)
+We at TaQadam produce different computer vision technologies. In this blog we tell about using machine vision in production for some common use-cases. 
 
 ### [126. How Does Facial Recognition Work with Face Masks? [Explained]](https://hackernoon.com/how-does-facial-recognition-work-with-face-masks-explained-cc2u3yj2)
 ![](https://cdn.hackernoon.com/drafts/vu37q2b0k.png)
 With the spread of COVID-19 wearing face masks became obligatory. At least for most of the population. This created a problem for the current identification systems. For example, Apple’s FaceID struggled to recognize faces with masks. 
 
 
-### [127. Understanding Convolution Neural Networks](https://hackernoon.com/understanding-convolution-neural-networks-up1c3u3x)
+### [127. How to Train a Semi-Supervised Classifier With Pseudo-Labeling and CNN Embeddings](https://hackernoon.com/how-to-train-a-semi-supervised-classifier-with-pseudo-labeling-and-cnn-embeddings)
+![](https://cdn.hackernoon.com/images/BOE0iqj4QRhEO8V96OYWNy92gCf2-5n83fzq.png)
+Extract features with a pretrained CNN, cluster unlabeled images, propagate labels with pseudo-labelling, and train a semi-supervised classifier. 
+
+### [128. Understanding Convolution Neural Networks](https://hackernoon.com/understanding-convolution-neural-networks-up1c3u3x)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOvaCqNx60UdKeLwcXr1nDRzHyp83-zy5t3ugs.jpeg?alt=media&token=3d7a6ccc-60ec-4495-959f-ad0ed669f733)
 
 
-### [128. Innovation Opportunities in Data, AI, AR, Robots, Biotech, More [Overview]](https://hackernoon.com/innovation-opportunities-in-data-ai-ar-robots-biotech-more-overview-8zfr3vhx)
+### [129. Innovation Opportunities in Data, AI, AR, Robots, Biotech, More [Overview]](https://hackernoon.com/innovation-opportunities-in-data-ai-ar-robots-biotech-more-overview-8zfr3vhx)
 ![](https://cdn.hackernoon.com/drafts/8zbo3yxx.png)
 Digital Technology is everywhere and it is redefining how we live, communicate, and work. Most importantly, it accelerates how we innovate.
 
-### [129. How Synthetic Data is Accelerating Computer Vision](https://hackernoon.com/how-synthetic-data-is-accelerating-computer-vision-xp153w6q)
+### [130. How Synthetic Data is Accelerating Computer Vision](https://hackernoon.com/how-synthetic-data-is-accelerating-computer-vision-xp153w6q)
 ![](https://cdn.hackernoon.com/drafts/kw2n3v3z.png)
 In the spring of 1993, a Harvard statistics professor named Donald Rubin sat down to write a paper. Rubin’s paper would go on to change the way that artificial intelligence is researched and practiced, but its stated goal was more modest: analyze data from the 1990 U.S. census, while preserving the anonymity of its respondents. 
 
-### [130. The Shortcomings of Computer-controlled Robots](https://hackernoon.com/the-shortcomings-of-computer-controlled-robots)
+### [131. The Shortcomings of Computer-controlled Robots](https://hackernoon.com/the-shortcomings-of-computer-controlled-robots)
 ![](https://cdn.hackernoon.com/images/cPav5sXiU5TWYzb4sHIZoNIMu0c2-vp93rli.jpeg)
 Computer-controlled robots are monotonous. They are mostly able to perform a sequence of processing operations that is fixed by the equipment configuration and 
-
-### [131. Computer Vision Could Improve Health and Workplace Safety](https://hackernoon.com/computer-vision-could-improve-health-and-workplace-safety-qob93bp3)
-![](https://cdn.hackernoon.com/images/hut536r1.jpg)
-Recent developments in the field of training Neural Networks (Deep Learning) and advanced algorithm training platforms like Google’s TensorFlow and hardware accelerators from Intel (OpenVino), Nvidia (TensorRT) etc., have empowered developers to train and optimize complex Neural Networks in small edge devices like Smart Phones or Single Board Computers. 
 
 ### [132. Understanding Anomaly Detection and How It Can Benefit Your Company](https://hackernoon.com/understanding-anomaly-detection-and-how-it-can-benefit-your-company)
 ![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-jff3vnt.jpeg)
 What is anomaly detection? How does it work? And how can you incorporate it into your company’s processes and workflows?  Let's find out!
 
-### [133. How to Train a Semi-Supervised Classifier With Pseudo-Labeling and CNN Embeddings](https://hackernoon.com/how-to-train-a-semi-supervised-classifier-with-pseudo-labeling-and-cnn-embeddings)
-![](https://cdn.hackernoon.com/images/BOE0iqj4QRhEO8V96OYWNy92gCf2-5n83fzq.png)
-Extract features with a pretrained CNN, cluster unlabeled images, propagate labels with pseudo-labelling, and train a semi-supervised classifier. 
+### [133. Computer Vision Could Improve Health and Workplace Safety](https://hackernoon.com/computer-vision-could-improve-health-and-workplace-safety-qob93bp3)
+![](https://cdn.hackernoon.com/images/hut536r1.jpg)
+Recent developments in the field of training Neural Networks (Deep Learning) and advanced algorithm training platforms like Google’s TensorFlow and hardware accelerators from Intel (OpenVino), Nvidia (TensorRT) etc., have empowered developers to train and optimize complex Neural Networks in small edge devices like Smart Phones or Single Board Computers. 
 
 ### [134. New SOTA Image Captioning: ClipCap](https://hackernoon.com/new-sota-image-captioning-clipcap)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-nd13745.jpeg)
 We’ve seen AI generate images from other images using GANs. Then, there were models able to generate questionable images using text. In early 2021, DALL-E was published, beating all previous attempts to generate images from text input using CLIP, a model that links images with text as a guide. A very similar task called image captioning may sound really simple but is, in fact, just as complex. It is the ability of a machine to generate a natural description of an image.
 
-### [135. Unwrapping Wine Labels - How We Trained A Neural Network To Do It](https://hackernoon.com/unwrapping-wine-labels-how-we-trained-a-neural-network-to-do-it-291r3x6j)
+### [135. The Role of RLHF in Mitigating Bias and Improving AI Model Fairness](https://hackernoon.com/the-role-of-rlhf-in-mitigating-bias-and-improving-ai-model-fairness)
+![](https://cdn.hackernoon.com/images/gDLUA3GN9NSofV2bTjZ51kcLbwd2-4d821kl.jpeg)
+RLHF is an innovative approach to mitigating bias in LLMs. It incorporates human input in the training process to reduce bias and improve fairness.
+
+### [136. Unwrapping Wine Labels - How We Trained A Neural Network To Do It](https://hackernoon.com/unwrapping-wine-labels-how-we-trained-a-neural-network-to-do-it-291r3x6j)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN1IRbPItNzNv9lMZnlj7EQkNI7s1-z77n2uwz.jpeg?alt=media&token=995390a8-2f95-48eb-82ad-45fffefa8dc7)
 In the previous article, it was described a six-point method to unwrap wine labels. Finding anchor points were performed with Hough transform. It gave fair results for good labels, but for many real cases it was quite unstable, and the efforts to tune it didn’t help much. It became clear at some point, Hough transform itself wasn’t capable of handling the variety of label forms, so the next step was training a neural network.
 
-### [136. How Can Enterprises Utilize Edge Computer Vision?](https://hackernoon.com/how-can-enterprises-utilize-edge-computer-vision)
-![](https://cdn.hackernoon.com/images/IeL5qYiVuqZ5qJJR6StQy0ssjby2-5fi3i11.jpeg)
-Business applications of computer vision technology for Enterprises, retail analytics, edge computing, intrusion detection and monitoring
-
-### [137. Things You Need to Know Before Installing a Facial Recognition System](https://hackernoon.com/things-you-need-to-know-before-installing-a-facial-recognition-system)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-zb93w0e.jpeg)
-With the help of a facial recognition system, federal agents could capture a person suspected of illegal activity. 
-
-### [138. Could Self-Driving Cars Make Traffic Worse?](https://hackernoon.com/could-self-driving-cars-make-traffic-worse)
+### [137. Could Self-Driving Cars Make Traffic Worse?](https://hackernoon.com/could-self-driving-cars-make-traffic-worse)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-ta034h4.jpeg)
 Most people think self-driving cars will improve traffic and safety — but that may not be correct. Here are some traffic issues self-driving cars could cause.
 
-### [139. US Intelligence Eyes AI and Video Data for Tracking Individuals and Vehicles](https://hackernoon.com/us-intelligence-eyes-ai-and-video-data-for-tracking-individuals-and-vehicles)
+### [138. US Intelligence Eyes AI and Video Data for Tracking Individuals and Vehicles](https://hackernoon.com/us-intelligence-eyes-ai-and-video-data-for-tracking-individuals-and-vehicles)
 ![](https://cdn.hackernoon.com/images/ZSnNpZ3GejgVSxqs3EyP38vlsLL2-7v830iv.jpeg)
 IARPA’s Video LINC program could be repurposed to spy on protesters, enforce 15-minute smart city compliance: perspective
 
-### [140. How Computer Vision Turns Images Into Arrays](https://hackernoon.com/how-computer-vision-turns-images-into-arrays)
+### [139. How Can Enterprises Utilize Edge Computer Vision?](https://hackernoon.com/how-can-enterprises-utilize-edge-computer-vision)
+![](https://cdn.hackernoon.com/images/IeL5qYiVuqZ5qJJR6StQy0ssjby2-5fi3i11.jpeg)
+Business applications of computer vision technology for Enterprises, retail analytics, edge computing, intrusion detection and monitoring
+
+### [140. Things You Need to Know Before Installing a Facial Recognition System](https://hackernoon.com/things-you-need-to-know-before-installing-a-facial-recognition-system)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-zb93w0e.jpeg)
+With the help of a facial recognition system, federal agents could capture a person suspected of illegal activity. 
+
+### [141. How Computer Vision Turns Images Into Arrays](https://hackernoon.com/how-computer-vision-turns-images-into-arrays)
 ![](https://cdn.hackernoon.com/images/k637U4fYr0RGVspCP5s7dpkuIBG2-1413e0c.jpeg)
 How Images are turned into arrays in Computer Vision
-
-### [141. The Role of RLHF in Mitigating Bias and Improving AI Model Fairness](https://hackernoon.com/the-role-of-rlhf-in-mitigating-bias-and-improving-ai-model-fairness)
-![](https://cdn.hackernoon.com/images/gDLUA3GN9NSofV2bTjZ51kcLbwd2-4d821kl.jpeg)
-RLHF is an innovative approach to mitigating bias in LLMs. It incorporates human input in the training process to reduce bias and improve fairness.
 
 ### [142. CVPR 2021 Best Paper Award: GIRAFFE Controllable Image Generation](https://hackernoon.com/cvpr-2021-best-paper-award-giraffe-controllable-image-generation-oei37kb)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-0fr35f2.jpeg)
@@ -601,28 +603,28 @@ This is exactly what I tackled in the Alexa Prize SimBot Challenge where we buil
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWjrvhlSLkPX8OhBVNYZoqjJsbbp1-a5393tcu.jpeg?alt=media&token=5bde92a7-be3d-4f15-a439-b06f11b75a60)
 When a human sees an object, certain neurons in our brain’s visual cortex light up with activity, but when we take hallucinogenic drugs, these drugs overwhelm our serotonin receptors and lead to the distorted visual perception of colours and shapes. Similarly, deep neural networks that are modelled on structures in our brain, stores data in huge tables of numeric coefficients, which defy direct human comprehension. But when these neural network’s activation is overstimulated (virtual drugs), we get phenomenons like neural dreams and neural hallucinations. Dreams are the mental conjectures that are produced by our brain when the perceptual apparatus shuts down, whereas hallucinations are produced when this perceptual apparatus becomes hyperactive. In this blog, we will discuss how this phenomenon of hallucination in neural networks can be utilized to perform the task of image inpainting.
 
-### [147. Would You Swipe Right for an AI Profile?](https://hackernoon.com/would-you-swipe-right-for-an-ai-profile-lr4033v4)
+### [147. Understanding Topology Awareness in Graph Neural Networks](https://hackernoon.com/understanding-topology-awareness-in-graph-neural-networks-impacts-on-generalization-and-structural)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-16035ra.png)
+Explore the influence of topology awareness on the generalization performance of Graph Neural Networks (GNNs) in this comprehensive study. 
+
+### [148. Would You Swipe Right for an AI Profile?](https://hackernoon.com/would-you-swipe-right-for-an-ai-profile-lr4033v4)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-yov33wp.jpeg)
 Most of us are convinced that we can dissociate humans from machines, but is it really the case?  Would you swipe right for an AI-generated profile? 
 
-### [148. What is Automatic Number Plate Recognition (ANPR) System](https://hackernoon.com/what-is-automatic-number-plate-recognition-anpr-system-t9fy36je)
+### [149. What is Automatic Number Plate Recognition (ANPR) System](https://hackernoon.com/what-is-automatic-number-plate-recognition-anpr-system-t9fy36je)
 ![](https://cdn.hackernoon.com/drafts/jgcg36rx.png)
 Computer vision is a multidisciplinary field of study that teaches computers to interpret images and videos just like humans. The most
 challenging area in computer vision is Object Detection which deals in
 recognizing multiple objects in an image or video and classifying them
 accordingly.
 
-### [149. Understanding Topology Awareness in Graph Neural Networks](https://hackernoon.com/understanding-topology-awareness-in-graph-neural-networks-impacts-on-generalization-and-structural)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-16035ra.png)
-Explore the influence of topology awareness on the generalization performance of Graph Neural Networks (GNNs) in this comprehensive study. 
-
-### [150. Using AI to Detect and Count Plastic Waste in the Ocean](https://hackernoon.com/using-ai-to-detect-and-count-plastic-waste-in-the-ocean-cu3333nj)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-kf3933cg.jpeg)
-A deep-learning-based algorithm that is able to detect and quantify floating garbage from aerial images of the ocean.
-
-### [151. Driving Impact in the U.S. Property Insurance Industry with Engineer Sathish Kumar](https://hackernoon.com/driving-impact-in-the-us-property-insurance-industry-with-engineer-sathish-kumar)
+### [150. Driving Impact in the U.S. Property Insurance Industry with Engineer Sathish Kumar](https://hackernoon.com/driving-impact-in-the-us-property-insurance-industry-with-engineer-sathish-kumar)
 ![](https://cdn.hackernoon.com/images/hAIOr5Wt5ZgalZEgw4QLgOMBa003-ur93t47.jpeg)
 Automation hits the US property insurance industry. Inspecting a property will soon be done with nothing but a few photos.
+
+### [151. Using AI to Detect and Count Plastic Waste in the Ocean](https://hackernoon.com/using-ai-to-detect-and-count-plastic-waste-in-the-ocean-cu3333nj)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-kf3933cg.jpeg)
+A deep-learning-based algorithm that is able to detect and quantify floating garbage from aerial images of the ocean.
 
 ### [152. LensAI: Associative Advertising as An Inevitable Evil](https://hackernoon.com/lensai-associative-advertising-as-an-inevitable-evil-qk123wgx)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FLHp5X6qmvgNu6LGELaaXTkA1IBk1-v693wtt.jpeg?alt=media&token=f78d3861-8cf6-480e-94f6-c5d548708fd9)
@@ -648,761 +650,765 @@ In this article, I would like to share my own experience of developing a smart c
 ![](https://cdn.hackernoon.com/images/NpsDztafunWaPYn5Lt1sidxTE6w1-zc034ih.png)
 I worked on optimizing object detection for autonomous vehicles using Atrous Spatial Pyramid Pooling (ASPP) and Transfer Learning. 
 
-### [158. 5 Reasons Our Cities Are Not Full of Autonomously Flying Drones (Yet!)](https://hackernoon.com/5-reasons-our-cities-are-not-full-of-autonomously-flying-drones-yet)
-![](https://cdn.hackernoon.com/images/n0bZ07MOiMM3MaBkeAeT7Ww8bZG3-xcl3ocr.jpeg)
-We are slowly but surely moving towards a world where autonomous drones will play a major role. In this article, I will show you what stopes them today.
-
-### [159. Optimize Model Training with a Data Streaming Client](https://hackernoon.com/optimize-model-training-with-a-data-streaming-client)
+### [158. Optimize Model Training with a Data Streaming Client](https://hackernoon.com/optimize-model-training-with-a-data-streaming-client)
 ![](https://cdn.hackernoon.com/images/gftycAYCOWhE0ZzqqjbIzKFUvIt1-2x92h57.jpeg)
 Were you ever annoyed when you had to pull a massive dataset (versioned using DVC) before training your model? 
+
+### [159. 5 Reasons Our Cities Are Not Full of Autonomously Flying Drones (Yet!)](https://hackernoon.com/5-reasons-our-cities-are-not-full-of-autonomously-flying-drones-yet)
+![](https://cdn.hackernoon.com/images/n0bZ07MOiMM3MaBkeAeT7Ww8bZG3-xcl3ocr.jpeg)
+We are slowly but surely moving towards a world where autonomous drones will play a major role. In this article, I will show you what stopes them today.
 
 ### [160. AI Image Magic: Creating HD Photos and Funny Cartoons With StyleGANEX](https://hackernoon.com/ai-image-magic-creating-hd-photos-and-funny-cartoons-with-styleganex)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-th93nvc.jpeg)
 StyleGANEX: Enhancing Image Manipulation with Dilated Convolutions
 
 
-### [161. "You may also like..." How To Use Convolutional Neural Networks](https://hackernoon.com/you-may-also-like-how-to-use-convolutional-neural-networks-rh3b35tt)
-![](https://cdn.hackernoon.com/images/8xNQTIFg1xeWlaQzwWEXvZTggdf1-1rs3502.jpeg)
-How to use a Convolutional Neural Network to suggest visually similar products, just like Amazon or Netflix use to keep you coming back for more.
-
-### [162. The Hitchhikers's Guide to PyTorch for Data Scientists](https://hackernoon.com/the-hitchhikerss-guide-to-pytorch-for-data-scientists-ux1i3td4)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNOQljKc7VidoF3rSpZz9cqbrgRG2-6q993tps.jpeg?alt=media&token=4617a72b-4862-495b-b8d8-a8df871500e4)
-PyTorch has sort of became one of the de facto standard for creating Neural Networks now, and I love its interface. Yet, it is somehow a little difficult for beginners to get a hold of.
-
-### [163. 10 Computer Vision Startups on Product Hunt with the Most Upvotes](https://hackernoon.com/10-computer-vision-startups-on-product-hunt-with-the-most-upvotes-lm3v34de)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-v9b34rd.jpeg)
-From self-driving cars and facial recognition to AI surveillance and GANs, computer vision tech has been the poster child of the AI industry in recent years. With such a collaborative global data science community, the advancements have come both from research teams, big tech, and computer vision startups alike. 
-
-### [164. Implementing Edge Detection with Python and OpenCV: A Step-by-Step Guide](https://hackernoon.com/implementing-edge-detection-with-python-and-opencv-a-step-by-step-guide)
+### [161. Implementing Edge Detection with Python and OpenCV: A Step-by-Step Guide](https://hackernoon.com/implementing-edge-detection-with-python-and-opencv-a-step-by-step-guide)
 ![](https://cdn.hackernoon.com/images/SXo7ksFFJtZMnAYFKWnS9rMCeyd2-ol132mx.jpeg)
 Edge detection is fundamental in computer vision, allowing us to identify object boundaries within images
 
-### [165. Dino in the Machine: Surviving the Transformer Latency Trap in C++](https://hackernoon.com/dino-in-the-machine-surviving-the-transformer-latency-trap-in-c)
+### [162. "You may also like..." How To Use Convolutional Neural Networks](https://hackernoon.com/you-may-also-like-how-to-use-convolutional-neural-networks-rh3b35tt)
+![](https://cdn.hackernoon.com/images/8xNQTIFg1xeWlaQzwWEXvZTggdf1-1rs3502.jpeg)
+How to use a Convolutional Neural Network to suggest visually similar products, just like Amazon or Netflix use to keep you coming back for more.
+
+### [163. Dino in the Machine: Surviving the Transformer Latency Trap in C++](https://hackernoon.com/dino-in-the-machine-surviving-the-transformer-latency-trap-in-c)
 ![](https://cdn.hackernoon.com/images/ooz70Z6mIrNBoHJWAaQhPY2W6Zu2-3ea2ej3.png)
 Migrating from YOLO to Grounding DINO exposed brutal CPU cache limits, ONNX traps, and why INT8 quantization beats “max optimization.
 
-### [166. The Machines Are Watching You: Top 10 Computer Vision Applications](https://hackernoon.com/the-machines-are-watching-you-top-10-computer-vision-applications)
+### [164. The Hitchhikers's Guide to PyTorch for Data Scientists](https://hackernoon.com/the-hitchhikerss-guide-to-pytorch-for-data-scientists-ux1i3td4)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNOQljKc7VidoF3rSpZz9cqbrgRG2-6q993tps.jpeg?alt=media&token=4617a72b-4862-495b-b8d8-a8df871500e4)
+PyTorch has sort of became one of the de facto standard for creating Neural Networks now, and I love its interface. Yet, it is somehow a little difficult for beginners to get a hold of.
+
+### [165. 10 Computer Vision Startups on Product Hunt with the Most Upvotes](https://hackernoon.com/10-computer-vision-startups-on-product-hunt-with-the-most-upvotes-lm3v34de)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-v9b34rd.jpeg)
+From self-driving cars and facial recognition to AI surveillance and GANs, computer vision tech has been the poster child of the AI industry in recent years. With such a collaborative global data science community, the advancements have come both from research teams, big tech, and computer vision startups alike. 
+
+### [166. Strategy for Incorporating Data Engineering for Computer Vision in Autonomous Driving](https://hackernoon.com/strategy-for-incorporating-data-engineering-for-computer-vision-in-autonomous-driving)
+![](https://cdn.hackernoon.com/images/l32fmOvuyhdVd9IaxWuZeQoprAA3-5ib37ru.jpeg)
+Learn how data engineering supports autonomous driving perception through annotation workflows, dataset augmentation, synthetic data generation, and versioning.
+
+### [167. The Machines Are Watching You: Top 10 Computer Vision Applications](https://hackernoon.com/the-machines-are-watching-you-top-10-computer-vision-applications)
 ![](https://cdn.hackernoon.com/images/6oURERrW0bbTgV7cg6Vc1q0aNLo1-xeg38ez.jpeg)
 Innovative Computer vision applications can be found in every industry these days. Here is the list of top 10 CV applications
 
-### [167. How Data Selection Impacts Model Performance: An AMA with SiaSearch](https://hackernoon.com/how-data-selection-impacts-model-performance-an-ama-with-siasearch-xk9233fe)
+### [168. How Data Selection Impacts Model Performance: An AMA with SiaSearch](https://hackernoon.com/how-data-selection-impacts-model-performance-an-ama-with-siasearch-xk9233fe)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-er3d33zh.jpeg)
 SiaSearch is a Berlin-based AI startup on a mission to accelerate computer vision application development. 
-
-### [168. Face Data Augmentation - Part 1: Geometric Transformation](https://hackernoon.com/face-data-augmentation-part-1-geometric-transformation)
-![](https://cdn.hackernoon.com/images/Stolt6tEO4bBbtH98cxI4xo7luw1-73533k2.png)
-In this article, I will show how your dataset of human faces can be enriched by 3D geometry transformation to improve the performance of your model.
 
 ### [169. High-Resolution Photorealistic Image Translation in Real Time](https://hackernoon.com/high-resolution-photorealistic-image-translation-in-real-time-5m4f34im)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-v32634x8.jpeg)
 You can apply any design, lighting, or graphics style to your 4K image in real-time using this new machine learning-based approach
 
-### [170. Why AI Needs to Lose (a Little) to Recognize Your Face Better](https://hackernoon.com/why-ai-needs-to-lose-a-little-to-recognize-your-face-better)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-on0349i.png)
-A review of Face Recognition loss functions, exploring advancements from ArcFace to modern adaptive and prototype-based methods for improved accuracy.
+### [170. Face Data Augmentation - Part 1: Geometric Transformation](https://hackernoon.com/face-data-augmentation-part-1-geometric-transformation)
+![](https://cdn.hackernoon.com/images/Stolt6tEO4bBbtH98cxI4xo7luw1-73533k2.png)
+In this article, I will show how your dataset of human faces can be enriched by 3D geometry transformation to improve the performance of your model.
 
-### [171. How Can Banks Embrace Computer Vision Technologies to Effectively Compete?](https://hackernoon.com/how-can-banks-embrace-computer-vision-technologies-to-effectively-compete)
-![](https://cdn.hackernoon.com/images/WRKptNOtiSe47ITRD3gJwKrGP4N2-4793rea.jpeg)
-In this article, we are going to look at different ways financial institutions can leverage computer vision technologies for more efficiency.
-
-### [172. 3D Models at City Scale!](https://hackernoon.com/3d-models-at-city-scale)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-q2237ao.jpeg)
-Last year we saw NeRF, NeRV, and other networks able to create 3D models and small scenes from images using artificial intelligence. Now, we are taking a small step and generating a bit more complex models: whole cities. Yes, you’ve heard that right, this week’s paper is about generating city-scale 3D scenes with high-quality details at any scale. It works from satellite view to ground-level with a single model. How amazing is that?! We went from one object that looked okay to a whole city in a year! What’s next!? I can’t even imagine.
-
-### [173. StyleCLIPDraw: Text-to-Drawing Synthesis with Artistic Control](https://hackernoon.com/styleclipdraw-text-to-drawing-synthesis-with-artistic-control)
+### [171. StyleCLIPDraw: Text-to-Drawing Synthesis with Artistic Control](https://hackernoon.com/styleclipdraw-text-to-drawing-synthesis-with-artistic-control)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-mi137ut.jpeg)
 Have you ever dreamed of taking the style of a picture, like this cool TikTok drawing style on the left, and applying it to a new picture of your choice? Well, I did, and it has never been easier to do. In fact, you can even achieve that from only text and can try it right now with this new method and their Google Colab notebook available for everyone (see references). 
 
-### [174. Harnessing Metaverse Technology to Build Your Brand Application](https://hackernoon.com/harnessing-metaverse-technology-to-build-your-brand-application)
-![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-syg34ji.jpeg)
-Let’s talk about what technologies are used in metaverse development and how businesses can create their own metaverse applications.
+### [172. How Can Banks Embrace Computer Vision Technologies to Effectively Compete?](https://hackernoon.com/how-can-banks-embrace-computer-vision-technologies-to-effectively-compete)
+![](https://cdn.hackernoon.com/images/WRKptNOtiSe47ITRD3gJwKrGP4N2-4793rea.jpeg)
+In this article, we are going to look at different ways financial institutions can leverage computer vision technologies for more efficiency.
 
-### [175. Rust at the Edge: How Rust Improves AI Systems for Real-Time Computer Vision in Manufacturing](https://hackernoon.com/rust-at-the-edge-how-rust-improves-ai-systems-for-real-time-computer-vision-in-manufacturing)
-![](https://cdn.hackernoon.com/images/N51l9KE2WvYZKrFLlQ42s1i7e4n1-u703a3t.png)
-By bridging deep learning research in Python with safe, high-performance deployment in Rust, we could unlock the true potential of AI.
+### [173. 3D Models at City Scale!](https://hackernoon.com/3d-models-at-city-scale)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-q2237ao.jpeg)
+Last year we saw NeRF, NeRV, and other networks able to create 3D models and small scenes from images using artificial intelligence. Now, we are taking a small step and generating a bit more complex models: whole cities. Yes, you’ve heard that right, this week’s paper is about generating city-scale 3D scenes with high-quality details at any scale. It works from satellite view to ground-level with a single model. How amazing is that?! We went from one object that looked okay to a whole city in a year! What’s next!? I can’t even imagine.
 
-### [176. How to Easily Deploy ML Models to Production](https://hackernoon.com/how-to-easily-deploy-ml-models-to-production-su1u3z1f)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ffdg3pfHujyRJVjsQ5nY0dIKKFDB2-nl7y3ev9.jpeg?alt=media&token=aa001063-5331-4e3d-aa5e-2698c4597b53)
-One of the known truths of the Machine Learning(ML) world is that it takes a lot longer to deploy ML models to production than to develop it.¹
+### [174. Why AI Needs to Lose (a Little) to Recognize Your Face Better](https://hackernoon.com/why-ai-needs-to-lose-a-little-to-recognize-your-face-better)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-on0349i.png)
+A review of Face Recognition loss functions, exploring advancements from ArcFace to modern adaptive and prototype-based methods for improved accuracy.
 
-### [177. Russian Scientists Develop First Text-to-Image Architecture Using Image Prior, Latent Diffusion](https://hackernoon.com/russian-scientists-develop-first-text-to-image-architecture-using-image-prior-latent-diffusion)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7r02t7p.jpeg)
-Researchers have developed a text-to-image generation model called Kandinsky that uses a novel latent diffusion model to produce images that appear natural.
-
-### [178. Can AI and Computer Vision Replace Human Intuition?](https://hackernoon.com/can-ai-and-computer-vision-replace-human-intuition-1k1f37vk)
-![](https://cdn.hackernoon.com/images/c3D56KjxAMXlRkIKKEUthZr2rFh1-6m1f334q.jpeg)
-Computer vision now lives with us with exceptional AI capabilities. Learn how AI and computer vision is playing a key role in outsmarting human beings.
-
-### [179. How to Kalman Filter Your Way Out](https://hackernoon.com/how-to-kalman-filter-your-way-out-tw1j34gc)
-![](https://cdn.hackernoon.com/images/ElocZktX1oW690bthCmwgWPNm6W2-sy5o31sn.jpeg)
-Learn how to use Kalman filters to minimize uncertainty with multi-sensory arrays
-
-### [180. WildlifeDatasets: an Open-source Toolkit for Animal Re-identification: MegaDescriptor – Methodology](https://hackernoon.com/wildlifedatasets-an-open-source-toolkit-for-animal-re-identification-megadescriptor-methodology)
+### [175. WildlifeDatasets: an Open-source Toolkit for Animal Re-identification: MegaDescriptor – Methodology](https://hackernoon.com/wildlifedatasets-an-open-source-toolkit-for-animal-re-identification-megadescriptor-methodology)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-mk82rie.jpeg)
 This paper presents an opensource toolkit intended primarily for ecologists and computer-vision/machine-learning researchers for wildlife re-identification.
 
-### [181. Kannada-MNIST:A new handwritten digits dataset in ML town](https://hackernoon.com/kannada-mnista-new-handwritten-digits-dataset-in-ml-town-v81yz30n6)
-![](https://cdn.hackernoon.com/images/spk3001.jpg)
-TLDR:
+### [176. Rust at the Edge: How Rust Improves AI Systems for Real-Time Computer Vision in Manufacturing](https://hackernoon.com/rust-at-the-edge-how-rust-improves-ai-systems-for-real-time-computer-vision-in-manufacturing)
+![](https://cdn.hackernoon.com/images/N51l9KE2WvYZKrFLlQ42s1i7e4n1-u703a3t.png)
+By bridging deep learning research in Python with safe, high-performance deployment in Rust, we could unlock the true potential of AI.
 
-### [182. Stop Drowning in AI Models: A 3-Pillar Framework for Evaluation](https://hackernoon.com/stop-drowning-in-ai-models-a-3-pillar-framework-for-evaluation)
+### [177. Harnessing Metaverse Technology to Build Your Brand Application](https://hackernoon.com/harnessing-metaverse-technology-to-build-your-brand-application)
+![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-syg34ji.jpeg)
+Let’s talk about what technologies are used in metaverse development and how businesses can create their own metaverse applications.
+
+### [178. Stop Drowning in AI Models: A 3-Pillar Framework for Evaluation](https://hackernoon.com/stop-drowning-in-ai-models-a-3-pillar-framework-for-evaluation)
 ![](https://cdn.hackernoon.com/images/Xp8lrydLD5e6nsBKYP5pDl5cWWz1-8s13dt7.png)
 A practical 3-pillar framework for evaluating computer vision models in production.
 
-### [183. An Intro to Edge Computer Vision: Technologies, Applications, Use Cases and Key Models](https://hackernoon.com/an-intro-to-edge-computer-vision-technologies-applications-use-cases-and-key-models)
-![](https://cdn.hackernoon.com/images/IeL5qYiVuqZ5qJJR6StQy0ssjby2-bh93iba.jpeg)
-introduction to computer vision technologies, applications, use cases and key models.
+### [179. Building Ultra-Lightweight Image Classifiers with TinyVision (Part 1)](https://hackernoon.com/building-ultra-lightweight-image-classifiers-with-tinyvision-part-1)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-dz83e43.webp)
+Explore ultra-lightweight image classifiers using compact CNNs and handcrafted features, achieving strong accuracy with minimal parameters.
 
-### [184. How I Created a Simpsons Dataset for Instance Segmentation](https://hackernoon.com/how-i-created-a-simpsons-dataset-for-instance-segmentation-k3413tsf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNOQljKc7VidoF3rSpZz9cqbrgRG2-8o283t75.jpeg?alt=media&token=5524ed1e-8281-4d22-bb55-1ba3b354a828)
-This post is about creating your own custom dataset for Image Segmentation/Object Detection. It provides an end-to-end perspective on what goes on in a real-world image detection/segmentation project.
-
-### [185. How IBM's Stance on Face Recognition Will Affect the AI Industry](https://hackernoon.com/how-ibms-stance-on-face-recognition-will-affect-the-ai-industry-sj83usm)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-6xg3uux.jpeg?alt=media&token=f8d8f6b8-d669-41b1-8c17-b4494a0bb16f)
-In a letter to congress sent on June 8th, IBM’s CEO Arvind Krishna made a bold statement regarding the company’s policy toward facial recognition. “IBM no longer offers general purpose IBM facial recognition or analysis software,” says Krishna. 
-
-### [186. Intro to Image Processing in Python with Pillow](https://hackernoon.com/intro-to-image-processing-in-python-with-pillow-hv1c3wd3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-6m93uz2.jpeg?alt=media&token=71673579-1203-4534-84db-74eecc103055)
-Pillow is Python Imaging Library that is free and open-source an additional library for the Python programming language that adds support for opening, manipulating, and saving in a variety of extension.
-
-### [187. The Need for Privacy Protection in Computer Vision Applications](https://hackernoon.com/the-need-for-privacy-protection-in-computer-vision-applications)
-![](https://cdn.hackernoon.com/images/IeL5qYiVuqZ5qJJR6StQy0ssjby2-d093isn.jpeg)
-This article describes why privacy concerns should be top of mind while building or adopting computer vision based applications
-
-### [188. Enhancing Robotics with Instance Segmentation: Achieving Precise Object Localization](https://hackernoon.com/enhancing-robotics-with-instance-segmentation-achieving-precise-object-localization)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-jr93pmc.jpeg)
-Boosting Automation with Instance Segmentation: Accurate Object Localization for Industrial Robots
-
-### [189. CVPR 2022 Best Paper Honorable Mention: Dual-Shutter Optical Vibration Sensing](https://hackernoon.com/cvpr-2022-best-paper-honorable-mention-dual-shutter-optical-vibration-sensing)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-bva3kuw.jpeg)
-TLDR: They reconstruct sound using cameras and a laser beam on any vibrating surface, allowing them to isolate music instruments, focus on a specific speaker, remove ambient noises, and many more amazing applications.Watch the video to learn more and hear some crazy results!
-
-### [190. From Fixed Labels to Prompts: How Vision-Language Models Are Re-Wiring Object Detection](https://hackernoon.com/from-fixed-labels-to-prompts-how-vision-language-models-are-re-wiring-object-detection)
+### [180. From Fixed Labels to Prompts: How Vision-Language Models Are Re-Wiring Object Detection](https://hackernoon.com/from-fixed-labels-to-prompts-how-vision-language-models-are-re-wiring-object-detection)
 ![](https://cdn.hackernoon.com/images/YcwxQUnZCFgU8hOVbVjHrYv2ksE3-4u13buw.png)
 How open-vocabulary vision-language object detectors overcome closed-set limits, with VOC/COCO/LVIS benchmarks and a hybrid recipe for fast edge deployment. 
 
-### [191. Breaking Down Stable Video Diffusion: The Next Frontier in AI Imaging](https://hackernoon.com/breaking-down-stable-video-diffusion-the-next-frontier-in-ai-imaging)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-0vb3rpf.jpeg)
-Stability AI's most recent model Stable Video Diffusion (SVD) explained...
+### [181. How to Easily Deploy ML Models to Production](https://hackernoon.com/how-to-easily-deploy-ml-models-to-production-su1u3z1f)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ffdg3pfHujyRJVjsQ5nY0dIKKFDB2-nl7y3ev9.jpeg?alt=media&token=aa001063-5331-4e3d-aa5e-2698c4597b53)
+One of the known truths of the Machine Learning(ML) world is that it takes a lot longer to deploy ML models to production than to develop it.¹
 
-### [192. Creating Computer Vision Apps Without Building Media Pipelines](https://hackernoon.com/creating-computer-vision-apps-without-building-media-pipelines)
+### [182. Russian Scientists Develop First Text-to-Image Architecture Using Image Prior, Latent Diffusion](https://hackernoon.com/russian-scientists-develop-first-text-to-image-architecture-using-image-prior-latent-diffusion)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7r02t7p.jpeg)
+Researchers have developed a text-to-image generation model called Kandinsky that uses a novel latent diffusion model to produce images that appear natural.
+
+### [183. Can AI and Computer Vision Replace Human Intuition?](https://hackernoon.com/can-ai-and-computer-vision-replace-human-intuition-1k1f37vk)
+![](https://cdn.hackernoon.com/images/c3D56KjxAMXlRkIKKEUthZr2rFh1-6m1f334q.jpeg)
+Computer vision now lives with us with exceptional AI capabilities. Learn how AI and computer vision is playing a key role in outsmarting human beings.
+
+### [184. An Intro to Edge Computer Vision: Technologies, Applications, Use Cases and Key Models](https://hackernoon.com/an-intro-to-edge-computer-vision-technologies-applications-use-cases-and-key-models)
+![](https://cdn.hackernoon.com/images/IeL5qYiVuqZ5qJJR6StQy0ssjby2-bh93iba.jpeg)
+introduction to computer vision technologies, applications, use cases and key models.
+
+### [185. How to Kalman Filter Your Way Out](https://hackernoon.com/how-to-kalman-filter-your-way-out-tw1j34gc)
+![](https://cdn.hackernoon.com/images/ElocZktX1oW690bthCmwgWPNm6W2-sy5o31sn.jpeg)
+Learn how to use Kalman filters to minimize uncertainty with multi-sensory arrays
+
+### [186. Kannada-MNIST:A new handwritten digits dataset in ML town](https://hackernoon.com/kannada-mnista-new-handwritten-digits-dataset-in-ml-town-v81yz30n6)
+![](https://cdn.hackernoon.com/images/spk3001.jpg)
+TLDR:
+
+### [187. Enhancing Robotics with Instance Segmentation: Achieving Precise Object Localization](https://hackernoon.com/enhancing-robotics-with-instance-segmentation-achieving-precise-object-localization)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-jr93pmc.jpeg)
+Boosting Automation with Instance Segmentation: Accurate Object Localization for Industrial Robots
+
+### [188. Intro to Image Processing in Python with Pillow](https://hackernoon.com/intro-to-image-processing-in-python-with-pillow-hv1c3wd3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-6m93uz2.jpeg?alt=media&token=71673579-1203-4534-84db-74eecc103055)
+Pillow is Python Imaging Library that is free and open-source an additional library for the Python programming language that adds support for opening, manipulating, and saving in a variety of extension.
+
+### [189. The Need for Privacy Protection in Computer Vision Applications](https://hackernoon.com/the-need-for-privacy-protection-in-computer-vision-applications)
+![](https://cdn.hackernoon.com/images/IeL5qYiVuqZ5qJJR6StQy0ssjby2-d093isn.jpeg)
+This article describes why privacy concerns should be top of mind while building or adopting computer vision based applications
+
+### [190. How I Created a Simpsons Dataset for Instance Segmentation](https://hackernoon.com/how-i-created-a-simpsons-dataset-for-instance-segmentation-k3413tsf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNOQljKc7VidoF3rSpZz9cqbrgRG2-8o283t75.jpeg?alt=media&token=5524ed1e-8281-4d22-bb55-1ba3b354a828)
+This post is about creating your own custom dataset for Image Segmentation/Object Detection. It provides an end-to-end perspective on what goes on in a real-world image detection/segmentation project.
+
+### [191. CVPR 2022 Best Paper Honorable Mention: Dual-Shutter Optical Vibration Sensing](https://hackernoon.com/cvpr-2022-best-paper-honorable-mention-dual-shutter-optical-vibration-sensing)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-bva3kuw.jpeg)
+TLDR: They reconstruct sound using cameras and a laser beam on any vibrating surface, allowing them to isolate music instruments, focus on a specific speaker, remove ambient noises, and many more amazing applications.Watch the video to learn more and hear some crazy results!
+
+### [192. How IBM's Stance on Face Recognition Will Affect the AI Industry](https://hackernoon.com/how-ibms-stance-on-face-recognition-will-affect-the-ai-industry-sj83usm)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-6xg3uux.jpeg?alt=media&token=f8d8f6b8-d669-41b1-8c17-b4494a0bb16f)
+In a letter to congress sent on June 8th, IBM’s CEO Arvind Krishna made a bold statement regarding the company’s policy toward facial recognition. “IBM no longer offers general purpose IBM facial recognition or analysis software,” says Krishna. 
+
+### [193. Creating Computer Vision Apps Without Building Media Pipelines](https://hackernoon.com/creating-computer-vision-apps-without-building-media-pipelines)
 ![](https://cdn.hackernoon.com/images/s56PdED5UWUugk2195GnedqX1AU2-bh92s81.jpeg)
 An open source multimedia framework to build and deploy computer vision apps in minutes without worrying about media pipelines.
 
-### [193. 5 Best Data Curation Tools for Computer Vision in 2021](https://hackernoon.com/5-best-data-curation-tools-for-computer-vision-in-2021-fp1i34vi)
-![](https://cdn.hackernoon.com/images/fl5CJVyh8tSOSbowsznA9Sb8XYu2-8gt34qv.jpeg)
-In this article, we’ll dive into the importance of data curation for computer vision, as well as review the top data curation tools on the market.
-
-### [194. How I Built a Facial Recognition Application Using JavaScript and the Luxand.cloud API](https://hackernoon.com/how-i-built-a-facial-recognition-application-using-javascript-and-the-luxandcloud-api)
-![](https://cdn.hackernoon.com/images/fCLBrul2vhTkS42mI06IuAdfkyN2-wf934s9.png)
-Building a facial recognition application with JavaScript is not a daunting task. In this blog post, I'll walk you through the journey of developing one.
-
-### [195. The Challenges of Running Computer Vision on the Edge](https://hackernoon.com/the-challenges-of-running-computer-vision-on-the-edge-9h3t3wpx)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrqXwujCLKFQo2fkr8Ddftjnycyo1-8p5031iq.jpeg?alt=media&token=e49ad3eb-a50a-4df4-9273-6fab2eaa3f74)
-Artificial intelligence (AI) is the field of making computers able to act intelligently, to make decisions in real environments that will have favorable outcomes. 
-
-### [196. 214 Stories To Learn About Computer Vision](https://hackernoon.com/214-stories-to-learn-about-computer-vision)
-![](https://cdn.hackernoon.com/images/github/computer-vision-741.png)
-Learn everything you need to know about Computer Vision via these 214 free HackerNoon stories.
-
-### [197. Top Tips For Competing in a Kaggle Competition](https://hackernoon.com/top-tips-for-competing-in-a-kaggle-competition-pxn31qo)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-utk31n7.png)
-Hi, my name is Prashant Kikani and in this blog post, I share some tricks and tips to compete in Kaggle competitions and some code snippets which help in achieving results in limited resources. Here is my Kaggle profile.
-
-### [198. Stereoscopic Imaging Technologies for PC Game Developers](https://hackernoon.com/stereoscopic-imaging-technologies-for-pc-game-developers)
-![](https://cdn.hackernoon.com/images/3-d-glasses-mwhcgvwqyygntld2bfi58t5p.png)
-The principles of stereoscopic imaging, its evolution, and impact on PC game development. Learn from the expertise of Konstantin Morshnev
-
-### [199. Mind Mapping, Creative Thinking, And The Augmented Reality (AR) Technologies Driving Them](https://hackernoon.com/mind-mapping-creative-thinking-and-the-augmented-reality-ar-technologies-driving-them-5j2h3zau)
-![](https://cdn.hackernoon.com/images/OMgVeNOtOtXhBvLJL5UcfTxsRHC3-ro163e3z.jpeg)
-Scientists have dedicated centuries to studying our brain, trying to understand how this super-powerful computer is wired, how it comprehends the world, testing the limits of its capabilities. 
-
-### [200. Russian Scientists Unveil Open-Source Image Generator With a Groundbreaking Diffusion Method](https://hackernoon.com/russian-scientists-unveil-open-source-image-generator-with-a-groundbreaking-diffusion-method)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-xa02ssx.jpeg)
-Researchers have developed a text-to-image generation model called Kandinsky that uses a novel latent diffusion model to produce images that appear natural.
-
-### [201. Beyond Pretty Videos: 5 Surprising Ideas Behind PAN, The AI That Simulates Reality](https://hackernoon.com/beyond-pretty-videos-5-surprising-ideas-behind-pan-the-ai-that-simulates-reality)
-![](https://cdn.hackernoon.com/images/iN6H2UigxKapyOHZ6k4N9srFgsw1-n503apj.png)
-PAN is a new AI model that uses a Large Language Model as its autoregressive world model to predict the future, solving rapid time decay with a novel approach.
-
-### [202. How to Kalman Filter Your Way Out (Part 2: Updating Your Prediction)](https://hackernoon.com/how-to-kalman-filter-your-way-out-part-2-updating-your-prediction-q21o31qk)
-![](https://cdn.hackernoon.com/images/ElocZktX1oW690bthCmwgWPNm6W2-l96i312u.jpeg)
-Part II describes how to use Kalman filters to minimize uncertainty when using multi-sensor arrays
-
-### [203. Computer Vision Applications: The Development and Deployment Processes ](https://hackernoon.com/computer-vision-applications-the-development-and-deployment-processes-mv2p3ehh)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrqXwujCLKFQo2fkr8Ddftjnycyo1-om6p3ysx.jpeg?alt=media&token=937f2d79-0136-45d8-9713-1e65bce1d199)
-‘Computer Vision’ (CV) refers to processing visual data as a human would with their eyes, so that we can make conclusions about what is in an image. Once we know what is in an image, we can make our application respond, much like a human would when processing visual data. This is what enables technology like self-driving cars.
-
-### [204. How the Use of Machine Learning is Challenging the Retail Apocalypse](https://hackernoon.com/how-the-use-of-machine-learning-is-challenging-the-retail-apocalypse-7a6y31ao)
-![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-0w2b312u.jpeg)
-Whether retailers like it or not, the future of retail is here, in the form of smart algorithms. Machine learning will change much of the industry's norms, often for the better. Retail trends point to the store of the future being automated using the latest technology. Brick & Mortar, physical retail... however you like to call it, your favourite real-world store is about to get a whole lot more digital. Whether that's the best idea remains to be seen.
-
-### [205. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: Subject Agreement Across Videos](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-subject-agreement-across-videos)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-j08313o.jpeg)
-In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
-
-### [206. New AI "LightCap" Shrinks Image Captioning for Your Phone, Runs on CPU](https://hackernoon.com/new-ai-lightcap-shrinks-image-captioning-for-your-phone-runs-on-cpu)
+### [194. New AI "LightCap" Shrinks Image Captioning for Your Phone, Runs on CPU](https://hackernoon.com/new-ai-lightcap-shrinks-image-captioning-for-your-phone-runs-on-cpu)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-wo030mq.png)
 LightCap: a tiny, fast image captioner using CLIP & distillation. 75% smaller, SOTA on COCO (136.6 CIDEr), 188ms/CPU. Ready for mobile!
 
-### [207. Typographic Attacks on Vision-LLMs: Evaluating Adversarial Threats in Autonomous Driving Systems](https://hackernoon.com/typographic-attacks-on-vision-llms-evaluating-adversarial-threats-in-autonomous-driving-systems)
-![](https://cdn.hackernoon.com/images/a-high-speed-chase-ralus9mjbh5svbnk8k81qth7.png)
-This paper explores the critical safety risk of typographic attacks against Vision-Large-Language-Models integrated into autonomous driving systems.
+### [195. Breaking Down Stable Video Diffusion: The Next Frontier in AI Imaging](https://hackernoon.com/breaking-down-stable-video-diffusion-the-next-frontier-in-ai-imaging)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-0vb3rpf.jpeg)
+Stability AI's most recent model Stable Video Diffusion (SVD) explained...
 
-### [208. This AI Prevents Bad Hair Days](https://hackernoon.com/this-ai-prevents-bad-hair-days-uu6c37ei)
+### [196. Beyond Pretty Videos: 5 Surprising Ideas Behind PAN, The AI That Simulates Reality](https://hackernoon.com/beyond-pretty-videos-5-surprising-ideas-behind-pan-the-ai-that-simulates-reality)
+![](https://cdn.hackernoon.com/images/iN6H2UigxKapyOHZ6k4N9srFgsw1-n503apj.png)
+PAN is a new AI model that uses a Large Language Model as its autoregressive world model to predict the future, solving rapid time decay with a novel approach.
+
+### [197. How I Built a Facial Recognition Application Using JavaScript and the Luxand.cloud API](https://hackernoon.com/how-i-built-a-facial-recognition-application-using-javascript-and-the-luxandcloud-api)
+![](https://cdn.hackernoon.com/images/fCLBrul2vhTkS42mI06IuAdfkyN2-wf934s9.png)
+Building a facial recognition application with JavaScript is not a daunting task. In this blog post, I'll walk you through the journey of developing one.
+
+### [198. 5 Best Data Curation Tools for Computer Vision in 2021](https://hackernoon.com/5-best-data-curation-tools-for-computer-vision-in-2021-fp1i34vi)
+![](https://cdn.hackernoon.com/images/fl5CJVyh8tSOSbowsznA9Sb8XYu2-8gt34qv.jpeg)
+In this article, we’ll dive into the importance of data curation for computer vision, as well as review the top data curation tools on the market.
+
+### [199. 214 Stories To Learn About Computer Vision](https://hackernoon.com/214-stories-to-learn-about-computer-vision)
+![](https://cdn.hackernoon.com/images/github/computer-vision-741.png)
+Learn everything you need to know about Computer Vision via these 214 free HackerNoon stories.
+
+### [200. How to Kalman Filter Your Way Out (Part 2: Updating Your Prediction)](https://hackernoon.com/how-to-kalman-filter-your-way-out-part-2-updating-your-prediction-q21o31qk)
+![](https://cdn.hackernoon.com/images/ElocZktX1oW690bthCmwgWPNm6W2-l96i312u.jpeg)
+Part II describes how to use Kalman filters to minimize uncertainty when using multi-sensor arrays
+
+### [201. The Challenges of Running Computer Vision on the Edge](https://hackernoon.com/the-challenges-of-running-computer-vision-on-the-edge-9h3t3wpx)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrqXwujCLKFQo2fkr8Ddftjnycyo1-8p5031iq.jpeg?alt=media&token=e49ad3eb-a50a-4df4-9273-6fab2eaa3f74)
+Artificial intelligence (AI) is the field of making computers able to act intelligently, to make decisions in real environments that will have favorable outcomes. 
+
+### [202. Russian Scientists Unveil Open-Source Image Generator With a Groundbreaking Diffusion Method](https://hackernoon.com/russian-scientists-unveil-open-source-image-generator-with-a-groundbreaking-diffusion-method)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-xa02ssx.jpeg)
+Researchers have developed a text-to-image generation model called Kandinsky that uses a novel latent diffusion model to produce images that appear natural.
+
+### [203. Stereoscopic Imaging Technologies for PC Game Developers](https://hackernoon.com/stereoscopic-imaging-technologies-for-pc-game-developers)
+![](https://cdn.hackernoon.com/images/3-d-glasses-mwhcgvwqyygntld2bfi58t5p.png)
+The principles of stereoscopic imaging, its evolution, and impact on PC game development. Learn from the expertise of Konstantin Morshnev
+
+### [204. Top Tips For Competing in a Kaggle Competition](https://hackernoon.com/top-tips-for-competing-in-a-kaggle-competition-pxn31qo)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-utk31n7.png)
+Hi, my name is Prashant Kikani and in this blog post, I share some tricks and tips to compete in Kaggle competitions and some code snippets which help in achieving results in limited resources. Here is my Kaggle profile.
+
+### [205. Mind Mapping, Creative Thinking, And The Augmented Reality (AR) Technologies Driving Them](https://hackernoon.com/mind-mapping-creative-thinking-and-the-augmented-reality-ar-technologies-driving-them-5j2h3zau)
+![](https://cdn.hackernoon.com/images/OMgVeNOtOtXhBvLJL5UcfTxsRHC3-ro163e3z.jpeg)
+Scientists have dedicated centuries to studying our brain, trying to understand how this super-powerful computer is wired, how it comprehends the world, testing the limits of its capabilities. 
+
+### [206. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: Subject Agreement Across Videos](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-subject-agreement-across-videos)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-j08313o.jpeg)
+In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
+
+### [207. How the Use of Machine Learning is Challenging the Retail Apocalypse](https://hackernoon.com/how-the-use-of-machine-learning-is-challenging-the-retail-apocalypse-7a6y31ao)
+![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-0w2b312u.jpeg)
+Whether retailers like it or not, the future of retail is here, in the form of smart algorithms. Machine learning will change much of the industry's norms, often for the better. Retail trends point to the store of the future being automated using the latest technology. Brick & Mortar, physical retail... however you like to call it, your favourite real-world store is about to get a whole lot more digital. Whether that's the best idea remains to be seen.
+
+### [208. Computer Vision Applications: The Development and Deployment Processes ](https://hackernoon.com/computer-vision-applications-the-development-and-deployment-processes-mv2p3ehh)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrqXwujCLKFQo2fkr8Ddftjnycyo1-om6p3ysx.jpeg?alt=media&token=937f2d79-0136-45d8-9713-1e65bce1d199)
+‘Computer Vision’ (CV) refers to processing visual data as a human would with their eyes, so that we can make conclusions about what is in an image. Once we know what is in an image, we can make our application respond, much like a human would when processing visual data. This is what enables technology like self-driving cars.
+
+### [209. This AI Prevents Bad Hair Days](https://hackernoon.com/this-ai-prevents-bad-hair-days-uu6c37ei)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-cx273570.jpeg)
 This AI can transfer your hair to see how it would look like before committing to the change.
-
-### [209. Strategy for Incorporating Data Engineering for Computer Vision in Autonomous Driving](https://hackernoon.com/strategy-for-incorporating-data-engineering-for-computer-vision-in-autonomous-driving)
-![](https://cdn.hackernoon.com/images/l32fmOvuyhdVd9IaxWuZeQoprAA3-5ib37ru.jpeg)
-Learn how data engineering supports autonomous driving perception through annotation workflows, dataset augmentation, synthetic data generation, and versioning.
 
 ### [210. 7 Reasons Why Your Automation Efforts Are Failing Right Now](https://hackernoon.com/7-reasons-why-your-automation-efforts-are-failing-right-now-86e3uyk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-yp1128sl.png?alt=media&token=56a9dc0e-857d-45df-af1b-0735aa3855d5)
 “Companies that failed to incorporate automation in their roadmap experienced a 25% drop in their customer retention,” concluded a survey by Gartner. 
 
-### [211. Enabling Business Operations With Computer Vision: Interview With Tanay Dixit, CPO of Wobot.ai](https://hackernoon.com/enabling-business-operations-with-computer-vision-interview-with-tanay-dixit-cpo-of-wobotai)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-fx037mo.jpeg)
-HackerNoon good company with Tanay Dixit, co-founder, and CPO of Wobot.ai.
-
-### [212. Using Sparse R-CNN As A Detection Model](https://hackernoon.com/using-sparse-r-cnn-as-a-detection-model-e79c353i)
-![](https://cdn.hackernoon.com/images/4F5pzHJaTTXJgqhRA6JsYLYRhIH3-j554224t.jpeg)
-Today, we are going to discuss a method proposed by researchers from four institutions one of which is ByteDance AI Lab (known for their TikTok App).
-
-### [213. This Open-Source Image Generator From Russian Scientists Uses A Novel Approach to Diffusion](https://hackernoon.com/this-open-source-image-generator-from-russian-scientists-uses-a-novel-approach-to-diffusion)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gl02sb1.jpeg)
-Researchers have developed a text-to-image generation model called Kandinsky that uses a novel latent diffusion model to produce images that appear natural.
-
-### [214. How Do Deep Neural Networks Work?](https://hackernoon.com/how-do-deep-neural-networks-work-gg183xp8)
-![](https://cdn.hackernoon.com/drafts/m1773vt6.png)
-Every day we are facing AI and neural network in some ways: from common phone use through face detection, speech or image recognition to more sophisticated — self-driving cars, gene-disease predictions, etc. We think it is time to finally sort out what AI consists of, what neural network is  and how it works.
-
-### [215. 3D Articulated Shape Reconstruction from Videos](https://hackernoon.com/3d-articulated-shape-reconstruction-from-videos-r51m343d)
+### [211. 3D Articulated Shape Reconstruction from Videos](https://hackernoon.com/3d-articulated-shape-reconstruction-from-videos-r51m343d)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-u0834uc.jpeg)
 With LASR, you can generate 3D models of humans or animals moving using only a short video as input.
 
-### [216. A Self-supervised Attention Mechanism To Help With Dense Optical Flow Estimation](https://hackernoon.com/a-self-supervised-attention-mechanism-to-help-with-dense-optical-flow-estimation-eju3xh2)
+### [212. This Open-Source Image Generator From Russian Scientists Uses A Novel Approach to Diffusion](https://hackernoon.com/this-open-source-image-generator-from-russian-scientists-uses-a-novel-approach-to-diffusion)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gl02sb1.jpeg)
+Researchers have developed a text-to-image generation model called Kandinsky that uses a novel latent diffusion model to produce images that appear natural.
+
+### [213. A Budding Fascination With Computer Vision](https://hackernoon.com/a-budding-fascination-with-computer-vision)
+![](https://cdn.hackernoon.com/images/qTcPwbByQMh0D1gXvMMPioAGQNn1-1c83xn2.jpeg)
+Since its introduction, computer vision and object detection algorithms have continuously advanced. They started out simple and have since evolved...
+
+### [214. Russian Scientists Develop AI That Outsmarts Top Image Models With a Surprisingly Simple Trick](https://hackernoon.com/russian-scientists-develop-ai-that-outsmarts-top-image-models-with-a-surprisingly-simple-trick)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jm02sh4.jpeg)
+Researchers have developed a text-to-image generation model called Kandinsky that uses a novel latent diffusion model to produce images that appear natural.
+
+### [215. Enabling Business Operations With Computer Vision: Interview With Tanay Dixit, CPO of Wobot.ai](https://hackernoon.com/enabling-business-operations-with-computer-vision-interview-with-tanay-dixit-cpo-of-wobotai)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-fx037mo.jpeg)
+HackerNoon good company with Tanay Dixit, co-founder, and CPO of Wobot.ai.
+
+### [216. Using Sparse R-CNN As A Detection Model](https://hackernoon.com/using-sparse-r-cnn-as-a-detection-model-e79c353i)
+![](https://cdn.hackernoon.com/images/4F5pzHJaTTXJgqhRA6JsYLYRhIH3-j554224t.jpeg)
+Today, we are going to discuss a method proposed by researchers from four institutions one of which is ByteDance AI Lab (known for their TikTok App).
+
+### [217. How Do Deep Neural Networks Work?](https://hackernoon.com/how-do-deep-neural-networks-work-gg183xp8)
+![](https://cdn.hackernoon.com/drafts/m1773vt6.png)
+Every day we are facing AI and neural network in some ways: from common phone use through face detection, speech or image recognition to more sophisticated — self-driving cars, gene-disease predictions, etc. We think it is time to finally sort out what AI consists of, what neural network is  and how it works.
+
+### [218. Building a Production-Ready Traffic Violation Detection System with YOLOv8 and DeepSORT](https://hackernoon.com/building-a-production-ready-traffic-violation-detection-system-with-yolov8-and-deepsort)
+![](https://cdn.hackernoon.com/images/FmrrjcxLsfNHiUMWNcb7R95jc842-3j03dzj.jpeg)
+How I built a production-ready traffic violation detection system using YOLOv8, DeepSORT, OpenCV, and hybrid ML pipelines.
+
+### [219. A Self-supervised Attention Mechanism To Help With Dense Optical Flow Estimation](https://hackernoon.com/a-self-supervised-attention-mechanism-to-help-with-dense-optical-flow-estimation-eju3xh2)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWjrvhlSLkPX8OhBVNYZoqjJsbbp1-ku4q3ubi.jpeg?alt=media&token=e55afcee-f5a6-434a-90e3-b9b173a62f2d)
 Multi-object Tracking using self-supervised deep learning
 
-### [217. Introduction to My Computer Vision Project: ArtLine](https://hackernoon.com/introduction-to-my-computer-vision-project-artline-0f3a3wm6)
+### [220. Introducing NVIDIA's EditGAN: Alter Images Instantly via Quick Sketches](https://hackernoon.com/introducing-nvidias-editgan-alter-images-instantly-via-quick-sketches)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-yv037oj.gif.webp)
+EditGAN allows you to control any feature from quick drafts, and it will only edit what you want keeping the rest of the image the same! 
+
+### [221. Introduction to My Computer Vision Project: ArtLine](https://hackernoon.com/introduction-to-my-computer-vision-project-artline-0f3a3wm6)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIKVYtETZOjT1VA2r2iXKvLy3fo92-csi3wur.jpeg?alt=media&token=46377b5f-1de3-4773-a37f-f63475fbf2cc)
 ArtLine is based on Deep-Learning algorithms that will take your image input and transform it into a line art. I started this project as fun project but was excited to see how it turned out. The results from this model are so good that it is almost equal to the line art by an artist.
 
-### [218. Computer Vision Is Fun To Play With](https://hackernoon.com/computer-vision-is-fun-to-play-with-6z193ujj)
+### [222. Computer Vision Is Fun To Play With](https://hackernoon.com/computer-vision-is-fun-to-play-with-6z193ujj)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYAmrkN69Wabu4Agcs2hBM7PwETh1-fa2l28bw.jpeg?alt=media&token=07a793cc-0293-4d41-ba32-24da775f5fcd)
 
 I work as a Software Engineer at Endtest.
 
-### [219. Russian Scientists Develop AI That Outsmarts Top Image Models With a Surprisingly Simple Trick](https://hackernoon.com/russian-scientists-develop-ai-that-outsmarts-top-image-models-with-a-surprisingly-simple-trick)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jm02sh4.jpeg)
-Researchers have developed a text-to-image generation model called Kandinsky that uses a novel latent diffusion model to produce images that appear natural.
-
-### [220. A Budding Fascination With Computer Vision](https://hackernoon.com/a-budding-fascination-with-computer-vision)
-![](https://cdn.hackernoon.com/images/qTcPwbByQMh0D1gXvMMPioAGQNn1-1c83xn2.jpeg)
-Since its introduction, computer vision and object detection algorithms have continuously advanced. They started out simple and have since evolved...
-
-### [221. Introducing NVIDIA's EditGAN: Alter Images Instantly via Quick Sketches](https://hackernoon.com/introducing-nvidias-editgan-alter-images-instantly-via-quick-sketches)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-yv037oj.gif.webp)
-EditGAN allows you to control any feature from quick drafts, and it will only edit what you want keeping the rest of the image the same! 
-
-### [222. What is R-CNN? - Summarizing Regions with CNN Features](https://hackernoon.com/what-is-r-cnn-summarizing-regions-with-cnn-features)
+### [223. What is R-CNN? - Summarizing Regions with CNN Features](https://hackernoon.com/what-is-r-cnn-summarizing-regions-with-cnn-features)
 ![](https://cdn.hackernoon.com/images/0B6otOsIL4f8s4wa8LooI6NQbmC3-jc337mi.jpeg)
 This R-CNN Summary breaks down the research into Object Detection and Image Segmentation done to develop Computer Vision and improve ML learning speeds.
 
-### [223. How To Creat an Audible Object Detector [DIY Tutorial]](https://hackernoon.com/how-to-creat-an-audible-object-detector-diy-tutorial-9dd03yx8)
-![](https://cdn.hackernoon.com/images/5uo3yig.jpg)
-For people with vision problems. 
-
-### [224. AI Rewind: A Year of Amazing Machine Learning Papers  ](https://hackernoon.com/ai-rewind-2020-a-year-of-amazing-papers-or-the-future-of-ai-gary-marcus-fei-fei-li-luis-lamb-66o315d)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-8j2331cx.jpeg)
-A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. 
-
-### [225. Why Deep Learning is not Enough for Video Content Analysis](https://hackernoon.com/heres-why-deep-learning-is-not-enough-for-video-content-analysis)
+### [224. Why Deep Learning is not Enough for Video Content Analysis](https://hackernoon.com/heres-why-deep-learning-is-not-enough-for-video-content-analysis)
 ![](https://cdn.hackernoon.com/images/QrGVKEreJlWsUAMZMxw5DFt4JY03-1ta3wjd.jpeg)
 Deep Learning gets a ton of traction from technology enthusiasts. But can it match the effectiveness standards that the public hold it to?
 
-### [226. SDEdit Helps Regular People Do Complex Graphic Design Tasks](https://hackernoon.com/sdedit-helps-regular-people-do-complex-graphic-design-tasks-61aq3738)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-oz1f35ck.jpeg)
-Say goodbye to complex GAN and transformer architectures for image generation. This new method can generate new images from any user-based inputs.
+### [225. How To Creat an Audible Object Detector [DIY Tutorial]](https://hackernoon.com/how-to-creat-an-audible-object-detector-diy-tutorial-9dd03yx8)
+![](https://cdn.hackernoon.com/images/5uo3yig.jpg)
+For people with vision problems. 
 
-### [227. A Data-centric Approach to Class-specific Bias in Image Data Augmentation: Conclusion and Limitation](https://hackernoon.com/a-data-centric-approach-to-class-specific-bias-in-image-data-augmentation-conclusion-and-limitation)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8302pn6.jpeg)
-Data augmentation enhances model generalization in computer vision but may introduce biases, impacting class accuracy unevenly.
+### [226. AI Rewind: A Year of Amazing Machine Learning Papers  ](https://hackernoon.com/ai-rewind-2020-a-year-of-amazing-papers-or-the-future-of-ai-gary-marcus-fei-fei-li-luis-lamb-66o315d)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-8j2331cx.jpeg)
+A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. 
 
-### [228. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: Experiments](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-experiments)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-ug8313s.jpeg)
-In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
-
-### [229. The 2021 AI Rewind: HackerNoon Edition](https://hackernoon.com/the-2021-ai-rewind-hackernoon-edition)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-hf137b2.jpeg)
-A curated list of the latest breakthroughs in AI and Data Science by release date with a clear video explanation
-
-### [230. LightCap Framework: Lightweight Components for Efficient Image Captioning on Edge Devices](https://hackernoon.com/lightcap-framework-lightweight-components-for-efficient-image-captioning-on-edge-devices)
+### [227. LightCap Framework: Lightweight Components for Efficient Image Captioning on Edge Devices](https://hackernoon.com/lightcap-framework-lightweight-components-for-efficient-image-captioning-on-edge-devices)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-tb030rf.jpeg)
 LightCap uses CLIP’s grid features, a visual concept extractor, cross-modal modulator, TinyBERT fusion, and ensemble heads for efficient captioning.
 
-### [231. How to Train DeepLabV3 with MobileNetV2 Using TensorFlow](https://hackernoon.com/how-to-train-deeplabv3-with-mobilenetv2-using-tensorflow)
-![](https://cdn.hackernoon.com/images/the-text-tensor-flow-profiler-on-a-laptop-screen-w1v3ib8jeehhx1zqhzof5m1z.png)
-Fine-tune DeepLabV3-MobileNetV2 with TensorFlow Model Garden: prepare TFRecords, configure training on Oxford-IIIT Pets, and export a ready-to-use model.
+### [228. SDEdit Helps Regular People Do Complex Graphic Design Tasks](https://hackernoon.com/sdedit-helps-regular-people-do-complex-graphic-design-tasks-61aq3738)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-oz1f35ck.jpeg)
+Say goodbye to complex GAN and transformer architectures for image generation. This new method can generate new images from any user-based inputs.
 
-### [232. Extending GNN Learning: 11 Additional Framework Applications](https://hackernoon.com/extending-gnn-learning-11-additional-framework-applications)
+### [229. A Data-centric Approach to Class-specific Bias in Image Data Augmentation: Conclusion and Limitation](https://hackernoon.com/a-data-centric-approach-to-class-specific-bias-in-image-data-augmentation-conclusion-and-limitation)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8302pn6.jpeg)
+Data augmentation enhances model generalization in computer vision but may introduce biases, impacting class accuracy unevenly.
+
+### [230. The 2021 AI Rewind: HackerNoon Edition](https://hackernoon.com/the-2021-ai-rewind-hackernoon-edition)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-hf137b2.jpeg)
+A curated list of the latest breakthroughs in AI and Data Science by release date with a clear video explanation
+
+### [231. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: Experiments](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-experiments)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-ug8313s.jpeg)
+In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
+
+### [232. Build a Visual Document Indexing Pipeline with ColPali and Qdrant](https://hackernoon.com/build-a-visual-document-indexing-pipeline-with-colpali-and-qdrant)
+![](https://cdn.hackernoon.com/images/dkjgV1JZZIZLBTFGKK4nRc3It7M2-qe539av.png)
+Build a unified visual document index from multiple file formats—including PDFs, images, and slides—using CocoIndex and ColPali, No OCR needed.
+
+### [233. Extending GNN Learning: 11 Additional Framework Applications](https://hackernoon.com/extending-gnn-learning-11-additional-framework-applications)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-4j0343e.png)
 Discover a framework that enhances GNN learning, enabling fair k-shot learning and fairness constraint for equitable predictive performance in structural groups
 
-### [233. How We Automate 80-100% of Media Workflows with Cognitive Computing](https://hackernoon.com/how-we-automate-80-100percent-of-media-workflows-with-cognitive-computing)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-y993kdo.jpeg)
-Here's how you can use cognitive computing to automate media & entertainment workflows and stramline video production.
-
-### [234. Is Subjective Beauty Something We Can Model with AI?](https://hackernoon.com/is-subjective-beauty-something-we-can-model-with-ai-nf9333ce)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-54e33ge.jpeg)
-This AI reads your brain to generate personally attractive faces. It generates images containing optimal values for personal attractive features.
-
-### [235. When AI Learns to See the Unknown: Wrapping Up the OW‑VISCap Study](https://hackernoon.com/when-ai-learns-to-see-the-unknown-wrapping-up-the-owviscap-study)
+### [234. When AI Learns to See the Unknown: Wrapping Up the OW‑VISCap Study](https://hackernoon.com/when-ai-learns-to-see-the-unknown-wrapping-up-the-owviscap-study)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-g9036qj.jpeg)
 Masked attention and contrastive loss improve caption accuracy and reduce overlapping predictions.
+
+### [235. How We Automate 80-100% of Media Workflows with Cognitive Computing](https://hackernoon.com/how-we-automate-80-100percent-of-media-workflows-with-cognitive-computing)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-y993kdo.jpeg)
+Here's how you can use cognitive computing to automate media & entertainment workflows and stramline video production.
 
 ### [236. New Dataset PerSense-D Enables Model-Agnostic Dense Object Segmentation](https://hackernoon.com/new-dataset-persense-d-enables-model-agnostic-dense-object-segmentation)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-k503bvi.png)
 PerSense-D is a new benchmark dataset for personalized dense image segmentation, advancing AI accuracy in crowded visual environments.
 
-### [237. Top 3 Advantages of Video Annotation](https://hackernoon.com/top-3-advantages-of-video-annotation-mt2z34xj)
+### [237. See, Track, Describe: How OW‑VISCap Lets AI Tell the Story Behind Every Frame](https://hackernoon.com/see-track-describe-how-owviscap-lets-ai-tell-the-story-behind-every-frame)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-u003669.jpeg)
+This article introduces OW‑VISCap, a unified framework for open‑world video instance segmentation and object‑centric captioning.
+
+### [238. Is Subjective Beauty Something We Can Model with AI?](https://hackernoon.com/is-subjective-beauty-something-we-can-model-with-ai-nf9333ce)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-54e33ge.jpeg)
+This AI reads your brain to generate personally attractive faces. It generates images containing optimal values for personal attractive features.
+
+### [239. Top 3 Advantages of Video Annotation](https://hackernoon.com/top-3-advantages-of-video-annotation-mt2z34xj)
 ![](https://cdn.hackernoon.com/images/CtGRzx6nCFXKl8TBuSmKgC1CxiN2-f91o33e9.jpeg)
 The 3 Major Advantages of Annotating Video with the Innotescus Video Annotation Canvas.
 
-### [238. Build a Visual Document Indexing Pipeline with ColPali and Qdrant](https://hackernoon.com/build-a-visual-document-indexing-pipeline-with-colpali-and-qdrant)
-![](https://cdn.hackernoon.com/images/dkjgV1JZZIZLBTFGKK4nRc3It7M2-qe539av.png)
-Build a unified visual document index from multiple file formats—including PDFs, images, and slides—using CocoIndex and ColPali, No OCR needed.
-
-### [239. How the Retail Industry is Implementing Machine Learning and Deep Learning ](https://hackernoon.com/how-the-retail-industry-is-implementing-machine-learning-and-deep-learning-p86r32qh)
-![](https://cdn.hackernoon.com/images/aaxs3yib.jpg)
-Stores are changing. We see it happening before our eyes, even if we don’t always realize it. Little by little, they are becoming just one extra step in an increasingly complex customer journey. Thanks to digitalisation and retail automation, the store is no longer an end in itself, but a mean of serving the needs of the brand at large. The quality of the experience, a feeling of belonging and recognition, the comfort of the purchase… all these parameters now matter as much as sales per square meter, and must therefore submit themselves to the optimizations prescribed by Data Science and its “intelligent algorithms” (aka artificial Intelligence in the form of machine learning and deep learning).
-
-### [240. Teaching AI to See and Speak: Inside the OW‑VISCap Approach](https://hackernoon.com/teaching-ai-to-see-and-speak-inside-the-owviscap-approach)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-if0369x.jpeg)
-This article outlines the OW‑VISCap framework, which jointly detects, segments, and captions both seen and unseen objects within a video.
-
-### [241. Deep Neural Networks Are Addressing Challenges in Computer Vision](https://hackernoon.com/deep-neural-networks-are-addressing-challenges-in-computer-vision)
-![](https://cdn.hackernoon.com/images/JT8PoynXQmYP92waUX1nYlVf9Im1-ur0368j.jpeg)
-Computer vision techniques are developed to enable computers to “see” and draw analysis from digital images or streaming videos. 
-
-### [242. How AI Can Spot Wildfires Faster Than Humans ](https://hackernoon.com/how-ai-can-spot-wildfires-faster-than-humans-nc2g37nq)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-cv1e35m0.jpeg)
-Here's how artificial intelligence can be used to reduce fire detection time from an average of 40 minutes to less than five minutes!
-
-
-### [243. How Multi-Stage Reasoning Helps AI Understand What Cities Mean](https://hackernoon.com/how-multi-stage-reasoning-helps-ai-understand-what-cities-mean)
-![](https://arxiv.org/html/2601.10477v1/x1.png)
-How a new vision-language AI uses multi-stage reasoning to identify schools, parks, and hospitals—going beyond pixels to understand cities.
-
-### [244. A Data-centric Approach to Class-specific Bias in Image Data Augmentation: Abstract and Intro](https://hackernoon.com/a-data-centric-approach-to-class-specific-bias-in-image-data-augmentation-abstract-and-intro)
+### [240. A Data-centric Approach to Class-specific Bias in Image Data Augmentation: Abstract and Intro](https://hackernoon.com/a-data-centric-approach-to-class-specific-bias-in-image-data-augmentation-abstract-and-intro)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7e02p0q.jpeg)
 Data augmentation enhances model generalization in computer vision but may introduce biases, impacting class accuracy unevenly.
 
-### [245. Automotive Companies only Access 5% of their Vehicle Data](https://hackernoon.com/automotive-companies-only-access-5percent-of-their-vehicle-data-712i334q)
-![](https://cdn.hackernoon.com/images/fl5CJVyh8tSOSbowsznA9Sb8XYu2-qr4y33zt.jpeg)
-Only 5% of autonomous driving sensor data is used for product development today. Better data infrastructure holds the keys to progress.
+### [241. How the Retail Industry is Implementing Machine Learning and Deep Learning ](https://hackernoon.com/how-the-retail-industry-is-implementing-machine-learning-and-deep-learning-p86r32qh)
+![](https://cdn.hackernoon.com/images/aaxs3yib.jpg)
+Stores are changing. We see it happening before our eyes, even if we don’t always realize it. Little by little, they are becoming just one extra step in an increasingly complex customer journey. Thanks to digitalisation and retail automation, the store is no longer an end in itself, but a mean of serving the needs of the brand at large. The quality of the experience, a feeling of belonging and recognition, the comfort of the purchase… all these parameters now matter as much as sales per square meter, and must therefore submit themselves to the optimizations prescribed by Data Science and its “intelligent algorithms” (aka artificial Intelligence in the form of machine learning and deep learning).
+
+### [242. How Multi-Stage Reasoning Helps AI Understand What Cities Mean](https://hackernoon.com/how-multi-stage-reasoning-helps-ai-understand-what-cities-mean)
+![](https://arxiv.org/html/2601.10477v1/x1.png)
+How a new vision-language AI uses multi-stage reasoning to identify schools, parks, and hospitals—going beyond pixels to understand cities.
+
+### [243. Teaching AI to See and Speak: Inside the OW‑VISCap Approach](https://hackernoon.com/teaching-ai-to-see-and-speak-inside-the-owviscap-approach)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-if0369x.jpeg)
+This article outlines the OW‑VISCap framework, which jointly detects, segments, and captions both seen and unseen objects within a video.
+
+### [244. Deep Neural Networks Are Addressing Challenges in Computer Vision](https://hackernoon.com/deep-neural-networks-are-addressing-challenges-in-computer-vision)
+![](https://cdn.hackernoon.com/images/JT8PoynXQmYP92waUX1nYlVf9Im1-ur0368j.jpeg)
+Computer vision techniques are developed to enable computers to “see” and draw analysis from digital images or streaming videos. 
+
+### [245. How AI Can Spot Wildfires Faster Than Humans ](https://hackernoon.com/how-ai-can-spot-wildfires-faster-than-humans-nc2g37nq)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-cv1e35m0.jpeg)
+Here's how artificial intelligence can be used to reduce fire detection time from an average of 40 minutes to less than five minutes!
+
 
 ### [246. Adding Random Horizontal Flipping Contributes To Augmentation-Induced Bias](https://hackernoon.com/adding-random-horizontal-flipping-contributes-to-augmentation-induced-bias)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9e02q8k.jpeg)
 Data augmentation enhances model generalization in computer vision but may introduce biases, impacting class accuracy unevenly.
 
-### [247. The Future of Image Recognition and Computer Vision](https://hackernoon.com/the-future-of-image-recognition-and-computer-vision-gy1u32cr)
-![](https://cdn.hackernoon.com/drafts/d0hja3tac.png)
-Fifty years ago, computers couldn't do much other than mathematical calculations - they just weren't powerful enough. Today, they can do just about anything. Even your mobile phone is powerful enough to process video in real-time to track objects. I'm talking about computer vision, and we've only begun to find applications for this technology.
+### [247. Automotive Companies only Access 5% of their Vehicle Data](https://hackernoon.com/automotive-companies-only-access-5percent-of-their-vehicle-data-712i334q)
+![](https://cdn.hackernoon.com/images/fl5CJVyh8tSOSbowsznA9Sb8XYu2-qr4y33zt.jpeg)
+Only 5% of autonomous driving sensor data is used for product development today. Better data infrastructure holds the keys to progress.
 
-### [248. See, Track, Describe: How OW‑VISCap Lets AI Tell the Story Behind Every Frame](https://hackernoon.com/see-track-describe-how-owviscap-lets-ai-tell-the-story-behind-every-frame)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-u003669.jpeg)
-This article introduces OW‑VISCap, a unified framework for open‑world video instance segmentation and object‑centric captioning.
+### [248. Building a DIY Image-Based Part Inspection System: No Expensive Hardware Needed](https://hackernoon.com/building-a-diy-image-based-part-inspection-system-no-expensive-hardware-needed)
+![](https://cdn.hackernoon.com/images/9CsCbyaVczaBJmLoFtPMLYIpEO52-fe13db7.jpeg)
+An image-based part inspection system that extracts geometric features directly from images and converts them into measurable, CAD-ready representations.
 
-### [249. WildlifeDatasets: an Open-source Toolkit for Animal Re-identification: Ablation Studies](https://hackernoon.com/wildlifedatasets-an-open-source-toolkit-for-animal-re-identification-ablation-studies)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5u82qpv.jpeg)
-This paper presents an opensource toolkit intended primarily for ecologists and computer-vision/machine-learning researchers for wildlife re-identification.
+### [249. VEATIC: Familiarity and Enjoyment Ratings & References](https://hackernoon.com/veatic-familiarity-and-enjoyment-ratings-and-references)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-78832w3.jpeg)
+In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
 
 ### [250. 5 Benefits of Interactive Whiteboards in Business](https://hackernoon.com/5-benefits-of-interactive-whiteboards-in-business)
 ![](https://cdn.hackernoon.com/images/Egk4QeHIKwhohdHCIbmstmLhCnp2-2z92iow.jpeg)
 Interactive whiteboards are the evolution of classroom whiteboards and non-electronic whiteboards in the workplace. Their existence is not always new, but recently the benefits of their meetings and presentations have become the forefront of modern business.
 
-### [251. VEATIC: Familiarity and Enjoyment Ratings & References](https://hackernoon.com/veatic-familiarity-and-enjoyment-ratings-and-references)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-78832w3.jpeg)
-In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
+### [251. The Future of Image Recognition and Computer Vision](https://hackernoon.com/the-future-of-image-recognition-and-computer-vision-gy1u32cr)
+![](https://cdn.hackernoon.com/drafts/d0hja3tac.png)
+Fifty years ago, computers couldn't do much other than mathematical calculations - they just weren't powerful enough. Today, they can do just about anything. Even your mobile phone is powerful enough to process video in real-time to track objects. I'm talking about computer vision, and we've only begun to find applications for this technology.
 
-### [252. The OpenCV Journey Part II: Canny Edge Detection](https://hackernoon.com/the-opencv-journey-part-ii-canny-edge-detection)
-![](https://cdn.hackernoon.com/images/O2DQwR2oEgVO9dzTvmBHaCIbbD82-aha2r1o.jpeg)
-This is an article on Canny Edge Detection, starting with the theoretical background, to the custom implementation of the algorithm.
+### [252. WildlifeDatasets: an Open-source Toolkit for Animal Re-identification: Ablation Studies](https://hackernoon.com/wildlifedatasets-an-open-source-toolkit-for-animal-re-identification-ablation-studies)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5u82qpv.jpeg)
+This paper presents an opensource toolkit intended primarily for ecologists and computer-vision/machine-learning researchers for wildlife re-identification.
 
-### [253. Stem Cells and Wafer Thin 3D Printing: How Cosmetic Dentistry Will Rid Itself of Invasive Procedure ](https://hackernoon.com/stem-cells-and-wafer-thin-3d-printing-how-cosmetic-dentistry-will-rid-itself-of-invasive-procedure-pd253u6g)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaBxCRG4PdBeC4Gw5xSpatovTWXC2-jd4r3tro.jpeg?alt=media&token=dc1f7d62-34a0-4a71-b522-9367f5714e1c)
-Veneers have become one of the biggest crazes in cosmetic dentistry, with celebrity adopters inspiring many to take the procedure in the pursuit of the perfect smile. 
-
-### [254. Building a Production-Ready Traffic Violation Detection System with YOLOv8 and DeepSORT](https://hackernoon.com/building-a-production-ready-traffic-violation-detection-system-with-yolov8-and-deepsort)
-![](https://cdn.hackernoon.com/images/FmrrjcxLsfNHiUMWNcb7R95jc842-3j03dzj.jpeg)
-How I built a production-ready traffic violation detection system using YOLOv8, DeepSORT, OpenCV, and hybrid ML pipelines.
-
-### [255. Welcome to the Multimodal AI Era](https://hackernoon.com/welcome-to-the-multimodal-ai-era)
-![](https://cdn.hackernoon.com/images/XF5E2LJrRZWP1hf2V5FOqLpxvaM2-u40349y.webp)
-Explore the rise of multimodal AI, a new frontier in artificial intelligence that integrates text, images, audio, and video for a more holistic approach. 
-
-### [256. Synthesizing Images of Marine Plastic Using Deep Convolutional Generative Adversarial Networks](https://hackernoon.com/synthesizing-images-of-marine-plastic-using-deep-convolutional-generative-adversarial-networks)
-![](https://cdn.hackernoon.com/images/1HXA1i7N41OPVjZWsNnp1Bdi72p2-lt038vu.png)
-A generative approach towards synthesizing images of marine plastic using DCGANs
-
-### [257. What is Automated Number Plate Recognition (ANPR)?](https://hackernoon.com/what-is-automated-number-plate-recognition-anpr)
-![](https://cdn.hackernoon.com/images/ke1hlYaQJMUXnRKEFqvGYvi0PGB2-nw6363s.jpeg)
-In this guide, we'll go over everything you need to know about Automatic Number Plate Recognition (ANPR) solutions, such as how they work, how they're used etc
-
-### [258. Experiments and Evaluation: Benchmarking OW‑VISCap Across Open‑World Video Tasks](https://hackernoon.com/experiments-and-evaluation-benchmarking-owviscap-across-openworld-video-tasks)
+### [253. Experiments and Evaluation: Benchmarking OW‑VISCap Across Open‑World Video Tasks](https://hackernoon.com/experiments-and-evaluation-benchmarking-owviscap-across-openworld-video-tasks)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-bt0368o.jpeg)
 This article evaluates OW‑VISCap on open‑ and closed‑world segmentation and dense video object captioning, setting new benchmarks on multiple datasets.
 
-### [259. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: Related Work](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-related-work)
+### [254. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: Related Work](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-related-work)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-ej831ew.jpeg)
 In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
 
-### [260. How we Used Gesture Recognition to Save Lives (And Tons of Gold and Diamonds!)](https://hackernoon.com/how-we-used-gesture-recognition-to-save-lives-and-tons-of-gold-and-diamonds)
-![](https://cdn.hackernoon.com/images/cGyV1n0lXTOEpcDK4OQ8HHN6U482-pja3ocf.jpeg)
-We are Warden AI Lab, a Latvia-based start-up studio focusing on gesture recognition and behavioral video analytics.
+### [255. The OpenCV Journey Part II: Canny Edge Detection](https://hackernoon.com/the-opencv-journey-part-ii-canny-edge-detection)
+![](https://cdn.hackernoon.com/images/O2DQwR2oEgVO9dzTvmBHaCIbbD82-aha2r1o.jpeg)
+This is an article on Canny Edge Detection, starting with the theoretical background, to the custom implementation of the algorithm.
 
-### [261. WildlifeDatasets: an Open-source Toolkit for Animal Re-identification: the WildlifeDatasets Toolkit](https://hackernoon.com/wildlifedatasets-an-open-source-toolkit-for-animal-re-identification-the-wildlifedatasets-toolkit)
+### [256. What is Automated Number Plate Recognition (ANPR)?](https://hackernoon.com/what-is-automated-number-plate-recognition-anpr)
+![](https://cdn.hackernoon.com/images/ke1hlYaQJMUXnRKEFqvGYvi0PGB2-nw6363s.jpeg)
+In this guide, we'll go over everything you need to know about Automatic Number Plate Recognition (ANPR) solutions, such as how they work, how they're used etc
+
+### [257. Welcome to the Multimodal AI Era](https://hackernoon.com/welcome-to-the-multimodal-ai-era)
+![](https://cdn.hackernoon.com/images/XF5E2LJrRZWP1hf2V5FOqLpxvaM2-u40349y.webp)
+Explore the rise of multimodal AI, a new frontier in artificial intelligence that integrates text, images, audio, and video for a more holistic approach. 
+
+### [258. WildlifeDatasets: an Open-source Toolkit for Animal Re-identification: the WildlifeDatasets Toolkit](https://hackernoon.com/wildlifedatasets-an-open-source-toolkit-for-animal-re-identification-the-wildlifedatasets-toolkit)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4e82qkp.jpeg)
 This paper presents an opensource toolkit intended primarily for ecologists and computer-vision/machine-learning researchers for wildlife re-identification.
 
-### [262. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: More About Stimuli](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-more-about-stimuli)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-2z831eu.jpeg)
-In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
+### [259. How we Used Gesture Recognition to Save Lives (And Tons of Gold and Diamonds!)](https://hackernoon.com/how-we-used-gesture-recognition-to-save-lives-and-tons-of-gold-and-diamonds)
+![](https://cdn.hackernoon.com/images/cGyV1n0lXTOEpcDK4OQ8HHN6U482-pja3ocf.jpeg)
+We are Warden AI Lab, a Latvia-based start-up studio focusing on gesture recognition and behavioral video analytics.
 
-### [263. Develop XR with Oracle Ep 3: Computer Vision AI, ML, and the Metaverse](https://hackernoon.com/develop-xr-with-oracle-ep-3-computer-vision-ai-ml-and-the-metaverse)
-![](https://cdn.hackernoon.com/images/oFcXyPmJpqb3FOyA7YV2WMjGWmq2-snd3k37.jpeg)
-This is the third piece in a series on developing XR applications and experiences using Oracle and focuses on XR applications of computer vision AI and ML and i
+### [260. Typographic Attacks on Vision-LLMs: Evaluating Adversarial Threats in Autonomous Driving Systems](https://hackernoon.com/typographic-attacks-on-vision-llms-evaluating-adversarial-threats-in-autonomous-driving-systems)
+![](https://cdn.hackernoon.com/images/a-high-speed-chase-ralus9mjbh5svbnk8k81qth7.png)
+This paper explores the critical safety risk of typographic attacks against Vision-Large-Language-Models integrated into autonomous driving systems.
 
-### [264. Computer Vision Applications are Everywhere: Top Use cases in 2021](https://hackernoon.com/computer-vision-applications-are-everywhere-top-use-cases-in-2021-3g62341d)
-![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-ih83f7d.jpeg)
-Computer vision applications have become ubiquitous nowadays. It’s hard to think of a domain where the ability of computers to “see” what’s going on around them has not yet been leveraged. 
+### [261. Synthesizing Images of Marine Plastic Using Deep Convolutional Generative Adversarial Networks](https://hackernoon.com/synthesizing-images-of-marine-plastic-using-deep-convolutional-generative-adversarial-networks)
+![](https://cdn.hackernoon.com/images/1HXA1i7N41OPVjZWsNnp1Bdi72p2-lt038vu.png)
+A generative approach towards synthesizing images of marine plastic using DCGANs
 
-### [265. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: Abstract and Intro](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-abstract-and-intro)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-wt832w1.jpeg)
-In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
+### [262. Stem Cells and Wafer Thin 3D Printing: How Cosmetic Dentistry Will Rid Itself of Invasive Procedure ](https://hackernoon.com/stem-cells-and-wafer-thin-3d-printing-how-cosmetic-dentistry-will-rid-itself-of-invasive-procedure-pd253u6g)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaBxCRG4PdBeC4Gw5xSpatovTWXC2-jd4r3tro.jpeg?alt=media&token=dc1f7d62-34a0-4a71-b522-9367f5714e1c)
+Veneers have become one of the biggest crazes in cosmetic dentistry, with celebrity adopters inspiring many to take the procedure in the pursuit of the perfect smile. 
 
-### [266. Turning Flat Images into 3D Worlds: The Math and Mechanics Behind Stereo Vision](https://hackernoon.com/turning-flat-images-into-3d-worlds-the-math-and-mechanics-behind-stereo-vision)
+### [263. Turning Flat Images into 3D Worlds: The Math and Mechanics Behind Stereo Vision](https://hackernoon.com/turning-flat-images-into-3d-worlds-the-math-and-mechanics-behind-stereo-vision)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8202vp6.png)
 The Stereo Vision Process is the foundation of stereoscopic vision and depth perception.
 
-### [267. Defect Detection, AI Style: How TM-CNN Is Changing Materials Science](https://hackernoon.com/defect-detection-ai-style-how-tm-cnn-is-changing-materials-science)
+### [264. Defect Detection, AI Style: How TM-CNN Is Changing Materials Science](https://hackernoon.com/defect-detection-ai-style-how-tm-cnn-is-changing-materials-science)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-040340f.jpeg)
 TM-CNN detects defects in magnetic patterns with 98.8% accuracy, blending template matching and CNNs for efficient material analysis!
 
-### [268. Comprehensive Overview of GNN Experiments: Hardware, Hyperparameters, and Findings](https://hackernoon.com/comprehensive-overview-of-gnn-experiments-hardware-hyperparameters-and-findings)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yl03363.png)
-This appendix details the experimental setup, hardware, hyperparameters, and additional results confirming GNN performance and findings across datasets. 
+### [265. Develop XR with Oracle Ep 3: Computer Vision AI, ML, and the Metaverse](https://hackernoon.com/develop-xr-with-oracle-ep-3-computer-vision-ai-ml-and-the-metaverse)
+![](https://cdn.hackernoon.com/images/oFcXyPmJpqb3FOyA7YV2WMjGWmq2-snd3k37.jpeg)
+This is the third piece in a series on developing XR applications and experiences using Oracle and focuses on XR applications of computer vision AI and ML and i
 
-### [269. Unfair Generalization in Graph Neural Networks (GNNs)](https://hackernoon.com/unfair-generalization-in-graph-neural-networks-gnns)
+### [266. Unfair Generalization in Graph Neural Networks (GNNs)](https://hackernoon.com/unfair-generalization-in-graph-neural-networks-gnns)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-w10347b.png)
 Learn how GNNs exhibit unfair generalization when comparing test groups with significant structural distance differences. 
 
-### [270. The OpenCV Journey Part I: The Setup and Basics](https://hackernoon.com/the-opencv-journey-part-i-the-setup-and-basics)
+### [267. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: More About Stimuli](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-more-about-stimuli)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-2z831eu.jpeg)
+In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
+
+### [268. Computer Vision Applications are Everywhere: Top Use cases in 2021](https://hackernoon.com/computer-vision-applications-are-everywhere-top-use-cases-in-2021-3g62341d)
+![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-ih83f7d.jpeg)
+Computer vision applications have become ubiquitous nowadays. It’s hard to think of a domain where the ability of computers to “see” what’s going on around them has not yet been leveraged. 
+
+### [269. Comprehensive Overview of GNN Experiments: Hardware, Hyperparameters, and Findings](https://hackernoon.com/comprehensive-overview-of-gnn-experiments-hardware-hyperparameters-and-findings)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yl03363.png)
+This appendix details the experimental setup, hardware, hyperparameters, and additional results confirming GNN performance and findings across datasets. 
+
+### [270. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: Abstract and Intro](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-abstract-and-intro)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-wt832w1.jpeg)
+In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
+
+### [271. The OpenCV Journey Part I: The Setup and Basics](https://hackernoon.com/the-opencv-journey-part-i-the-setup-and-basics)
 ![](https://cdn.hackernoon.com/images/O2DQwR2oEgVO9dzTvmBHaCIbbD82-1w92u3b.jpeg)
 Computer Vision is a fascinating discipline/category/subdivision of ML that combines artificial intelligence, image processing, and machine learning techniques.
-
-### [271. Artificial Intelligence Technology Trends That Matter for Business in 2022](https://hackernoon.com/artificial-intelligence-technology-trends-that-matter-for-business-in-2022)
-![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-fd93lwe.jpeg)
-Discover the top AI trends that are increasing in 2022 and will determine how companies can leverage the AI technology in the future.
 
 ### [272. 33 Stories To Learn About Image Recognition](https://hackernoon.com/33-stories-to-learn-about-image-recognition)
 ![](https://cdn.hackernoon.com/images/github/image-recognition-115.png)
 Learn everything you need to know about Image Recognition via these 33 free HackerNoon stories.
 
-### [273. AI in the Retail Industry: 10 Computer Vision Startups to Follow in 2021](https://hackernoon.com/ai-in-the-retail-industry-10-computer-vision-startups-to-follow-in-2021-9d4v37b5)
-![](https://cdn.hackernoon.com/images/fl5CJVyh8tSOSbowsznA9Sb8XYu2-4d2335cm.jpeg)
-AI-enhanced retail holds the promise to eliminate operational inefficiencies and provide shoppers with frictionless in-store experiences.
+### [273. A Developer’s Guide to Fixing Computer Vision Annotations](https://hackernoon.com/a-developers-guide-to-fixing-computer-vision-annotations)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-nj03d96.jpeg)
+Why most AI vision models fail in production and how better data annotation—not new architectures—can boost accuracy from 4% to 72%.
 
-### [274. Hybrid AI for Personal Medicine](https://hackernoon.com/hybrid-ai-for-personal-medicine-y8213z9y)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-b8h3zst.jpeg?alt=media&token=55f6cc3c-b17a-40cd-abe3-922239c228f9)
-Neural networks gave us a powerful and cheap-to-use tool for solving problems of forecasting, computer vision, and text analysis. However, at the same time, they brought the problem of inaccuracy, which is presented as the “norm” and “black box” for deep networks, the derivation of which is difficult to understand and improve. 
+### [274. Understanding the Generalization Performance of GNNs: Topology Awareness and Future Directions](https://hackernoon.com/understanding-the-generalization-performance-of-gnns-topology-awareness-and-future-directions)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-22034su.png)
+This conclusion summarizes insights on how topology awareness affects GNN generalization performance. 
 
 ### [275. A Data-centric Approach to Class-specific Bias in Image Data Augmentation: Appendices A-L](https://hackernoon.com/a-data-centric-approach-to-class-specific-bias-in-image-data-augmentation-appendices-a-l)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-lc02q7g.jpeg)
 Data augmentation enhances model generalization in computer vision but may introduce biases, impacting class accuracy unevenly.
 
-### [276. Visualizing Object Detection Data in TensorFlow with TFRecords](https://hackernoon.com/visualizing-object-detection-data-in-tensorflow-with-tfrecords)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-4c03b1t.png)
-Visualize TensorFlow object detection data with TFRecords, bounding boxes, and masks while evaluating accuracy using mAP metrics.
-
-### [277. On Food Waste and Relevance of Privacy: Noonies Nominee Paran Sonthalia](https://hackernoon.com/on-food-waste-and-relevance-of-privacy-noonies-nominee-paran-sonthalia)
-![](https://cdn.hackernoon.com/images/0ckKrDhhOpS8pWahO6o8mt3AT392-3k037o7.jpeg)
-Noonies 2021 nominee, Paran Sonthalia, is still a Berkley student. But that didn't stop him on the mission of reducing food waste. Hear more from him here.
-
-### [278. Understanding the Generalization Performance of GNNs: Topology Awareness and Future Directions](https://hackernoon.com/understanding-the-generalization-performance-of-gnns-topology-awareness-and-future-directions)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-22034su.png)
-This conclusion summarizes insights on how topology awareness affects GNN generalization performance. 
-
-### [279. Framework for Analyzing Topology Awareness and Generalization in Graph Neural Networks](https://hackernoon.com/framework-for-analyzing-topology-awareness-and-generalization-in-graph-neural-networks)
+### [276. Framework for Analyzing Topology Awareness and Generalization in Graph Neural Networks](https://hackernoon.com/framework-for-analyzing-topology-awareness-and-generalization-in-graph-neural-networks)
 ![](https://cdn.hackernoon.com/images/graph-nerfz7xygnro93j6n6bo13rq.png)
 Explore the relationship between topology awareness and generalization performance in GNNs using metric distortion. 
+
+### [277. Artificial Intelligence Technology Trends That Matter for Business in 2022](https://hackernoon.com/artificial-intelligence-technology-trends-that-matter-for-business-in-2022)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-fd93lwe.jpeg)
+Discover the top AI trends that are increasing in 2022 and will determine how companies can leverage the AI technology in the future.
+
+### [278. AI in the Retail Industry: 10 Computer Vision Startups to Follow in 2021](https://hackernoon.com/ai-in-the-retail-industry-10-computer-vision-startups-to-follow-in-2021-9d4v37b5)
+![](https://cdn.hackernoon.com/images/fl5CJVyh8tSOSbowsznA9Sb8XYu2-4d2335cm.jpeg)
+AI-enhanced retail holds the promise to eliminate operational inefficiencies and provide shoppers with frictionless in-store experiences.
+
+### [279. Comparative Study of YOLOv5 and YOLOv8 for Challenging Aquatic Object Detection](https://hackernoon.com/comparative-study-of-yolov5-and-yolov8-for-challenging-aquatic-object-detection)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-th032tp.jpeg)
+Tests in blurry microfluidic images show YOLOv8 more adaptable, while YOLOv5 may need task-specific tweaks for hard marine debris.
 
 ### [280. The Specifics Of Data Affect Augmentation-Induced Bias](https://hackernoon.com/the-specifics-of-data-affect-augmentation-induced-bias)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-tb02pyr.jpeg)
 Data augmentation enhances model generalization in computer vision but may introduce biases, impacting class accuracy unevenly.
 
-### [281. WildlifeDatasets: an Open-source Toolkit for Animal Re-identification: Conclusion and References](https://hackernoon.com/wildlifedatasets-an-open-source-toolkit-for-animal-re-identification-conclusion-and-references)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-aa82qlk.jpeg)
-This paper presents an opensource toolkit intended primarily for ecologists and computer-vision/machine-learning researchers for wildlife re-identification.
+### [281. Hybrid AI for Personal Medicine](https://hackernoon.com/hybrid-ai-for-personal-medicine-y8213z9y)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-b8h3zst.jpeg?alt=media&token=55f6cc3c-b17a-40cd-abe3-922239c228f9)
+Neural networks gave us a powerful and cheap-to-use tool for solving problems of forecasting, computer vision, and text analysis. However, at the same time, they brought the problem of inaccuracy, which is presented as the “norm” and “black box” for deep networks, the derivation of which is difficult to understand and improve. 
 
-### [282. IoT Can Help Control The COVID-19 Pandemic in 2021](https://hackernoon.com/iot-can-help-control-the-covid-19-pandemic-in-2021-584s31g3)
-![](https://cdn.hackernoon.com/images/O6tLwSAnkuU9PuteuDKHcmH4Lbd2-r240412h.jpeg)
-The Internet of Things is a paradoxical technology: despite its simplicity, it can dramatically improve people’s daily lives and make businesses more profitable and less risky. Yet the majority of companies still hesitate when it comes to the implementation of IoT in business operations. 
+### [282. On Food Waste and Relevance of Privacy: Noonies Nominee Paran Sonthalia](https://hackernoon.com/on-food-waste-and-relevance-of-privacy-noonies-nominee-paran-sonthalia)
+![](https://cdn.hackernoon.com/images/0ckKrDhhOpS8pWahO6o8mt3AT392-3k037o7.jpeg)
+Noonies 2021 nominee, Paran Sonthalia, is still a Berkley student. But that didn't stop him on the mission of reducing food waste. Hear more from him here.
 
-### [283. How An AI Understands Scenes: Panoptic Scene Graph Generation.](https://hackernoon.com/how-an-ai-understands-scenes-panoptic-scene-graph-generation)
-![](https://cdn.hackernoon.com/images/Stolt6tEO4bBbtH98cxI4xo7luw1-n6d3wc1.jpeg)
-Explore the groundbreaking AI technology of Panoptic Scene Graph Generation with Transformers for a deeper understanding of visual scenes.
+### [283. How to Train DeepLabV3 with MobileNetV2 Using TensorFlow](https://hackernoon.com/how-to-train-deeplabv3-with-mobilenetv2-using-tensorflow)
+![](https://cdn.hackernoon.com/images/the-text-tensor-flow-profiler-on-a-laptop-screen-w1v3ib8jeehhx1zqhzof5m1z.png)
+Fine-tune DeepLabV3-MobileNetV2 with TensorFlow Model Garden: prepare TFRecords, configure training on Oxford-IIIT Pets, and export a ready-to-use model.
 
-### [284. A Developer’s Guide to Fixing Computer Vision Annotations](https://hackernoon.com/a-developers-guide-to-fixing-computer-vision-annotations)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-nj03d96.jpeg)
-Why most AI vision models fail in production and how better data annotation—not new architectures—can boost accuracy from 4% to 72%.
-
-### [285. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: VEATIC Dataset](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-veatic-dataset)
+### [284. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: VEATIC Dataset](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-veatic-dataset)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-4p8319n.jpeg)
 In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
 
-### [286. Major Image Recognition And Annotation Trends](https://hackernoon.com/major-image-recognition-and-annotation-trends-cog3u54)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F16RPkltydUW1JomMv4ydzcnuNHo1-4w323u5u.webp?alt=media&token=0acac130-c69f-40cd-8ed6-6deaf964e072)
-Image recognition and annotation technologies are evolving. New techniques that allow you to solve a wide variety of tasks quickly appear. We are happy to present five major trends in image recognition and annotation.
-
-### [287. Comparative Study of YOLOv5 and YOLOv8 for Challenging Aquatic Object Detection](https://hackernoon.com/comparative-study-of-yolov5-and-yolov8-for-challenging-aquatic-object-detection)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-th032tp.jpeg)
-Tests in blurry microfluidic images show YOLOv8 more adaptable, while YOLOv5 may need task-specific tweaks for hard marine debris.
-
-### [288. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: Discussion](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-discussion)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-tr832ge.jpeg)
-In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
-
-### [289. A Comparative Review of Open‑World, Closed‑World, and Captioning Methods for Video Segmentation](https://hackernoon.com/a-comparative-review-of-openworld-closedworld-and-captioning-methods-for-video-segmentation)
+### [285. A Comparative Review of Open‑World, Closed‑World, and Captioning Methods for Video Segmentation](https://hackernoon.com/a-comparative-review-of-openworld-closedworld-and-captioning-methods-for-video-segmentation)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-e3036gu.jpeg)
 This article surveys prior open‑world and closed‑world video segmentation frameworks, situating OW‑VISCap’s innovations in object queries and captioning.
 
-### [290. Class-specific Bias in Image Data Augmentation: Data Augmentation Robustness Scouting](https://hackernoon.com/class-specific-bias-in-image-data-augmentation-data-augmentation-robustness-scouting)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-b502qux.jpeg)
-Data augmentation enhances model generalization in computer vision but may introduce biases, impacting class accuracy unevenly.
+### [286. WildlifeDatasets: an Open-source Toolkit for Animal Re-identification: Conclusion and References](https://hackernoon.com/wildlifedatasets-an-open-source-toolkit-for-animal-re-identification-conclusion-and-references)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-aa82qlk.jpeg)
+This paper presents an opensource toolkit intended primarily for ecologists and computer-vision/machine-learning researchers for wildlife re-identification.
 
-### [291. What Did AI Bring to Computer Vision?](https://hackernoon.com/what-did-ai-bring-to-computer-vision-zyo34ff)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-8hu34ne.jpeg)
-In this video, I will openly share everything about deep nets for computer vision applications, their successes, and the limitations we have yet to address.
+### [287. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: Discussion](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-discussion)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-tr832ge.jpeg)
+In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
 
-### [292. 10 Security Products to Protect Your Smart Home](https://hackernoon.com/10-security-products-to-protect-your-smart-home-l64l37am)
-![](https://cdn.hackernoon.com/drafts/l3or37v5.png)
-In your smart home, you must have equipped lots of smart devices that streamline your life. At first glance, it seems attractive that your smart home provides tons of benefits. But, have you thought about its security? Without securing your smart home, it is not possible to attain its benefits for the long-term. Therefore, you need to invest in certain decent quality security products that can protect your smart home. They are capable to save your time and money. They only focus on providing exceptional security to your smart home. Let’s take a look at these useful security products:
+### [288. IoT Can Help Control The COVID-19 Pandemic in 2021](https://hackernoon.com/iot-can-help-control-the-covid-19-pandemic-in-2021-584s31g3)
+![](https://cdn.hackernoon.com/images/O6tLwSAnkuU9PuteuDKHcmH4Lbd2-r240412h.jpeg)
+The Internet of Things is a paradoxical technology: despite its simplicity, it can dramatically improve people’s daily lives and make businesses more profitable and less risky. Yet the majority of companies still hesitate when it comes to the implementation of IoT in business operations. 
 
-### [293. Using AWS Rekognition to Power Object Detection for Recommendations and Content Moderation](https://hackernoon.com/using-aws-rekognition-to-power-object-detection-for-recommendations-and-content-moderation)
+### [289. How An AI Understands Scenes: Panoptic Scene Graph Generation.](https://hackernoon.com/how-an-ai-understands-scenes-panoptic-scene-graph-generation)
+![](https://cdn.hackernoon.com/images/Stolt6tEO4bBbtH98cxI4xo7luw1-n6d3wc1.jpeg)
+Explore the groundbreaking AI technology of Panoptic Scene Graph Generation with Transformers for a deeper understanding of visual scenes.
+
+### [290. Major Image Recognition And Annotation Trends](https://hackernoon.com/major-image-recognition-and-annotation-trends-cog3u54)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F16RPkltydUW1JomMv4ydzcnuNHo1-4w323u5u.webp?alt=media&token=0acac130-c69f-40cd-8ed6-6deaf964e072)
+Image recognition and annotation technologies are evolving. New techniques that allow you to solve a wide variety of tasks quickly appear. We are happy to present five major trends in image recognition and annotation.
+
+### [291. Using AWS Rekognition to Power Object Detection for Recommendations and Content Moderation](https://hackernoon.com/using-aws-rekognition-to-power-object-detection-for-recommendations-and-content-moderation)
 ![](https://cdn.hackernoon.com/images/zzCVKKf4HmhmYWwslTcyZFmXYKL2-t732lug.webp)
 How to build a system that automatically detects and categorizes objects in media as soon as users upload it, storing the results in a database for future use.
 
-### [294. WildlifeDatasets: an Open-source Toolkit for Animal Re-identification: Performance Evaluation](https://hackernoon.com/wildlifedatasets-an-open-source-toolkit-for-animal-re-identification-performance-evaluation)
+### [292. WildlifeDatasets: an Open-source Toolkit for Animal Re-identification: Performance Evaluation](https://hackernoon.com/wildlifedatasets-an-open-source-toolkit-for-animal-re-identification-performance-evaluation)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-p382qau.jpeg)
 This paper presents an opensource toolkit intended primarily for ecologists and computer-vision/machine-learning researchers for wildlife re-identification.
 
-### [295. Alternative Architectures Have Variable Effect On Augmentation-Induced Bias ](https://hackernoon.com/alternative-architectures-have-variable-effect-on-augmentation-induced-bias)
+### [293. Alternative Architectures Have Variable Effect On Augmentation-Induced Bias ](https://hackernoon.com/alternative-architectures-have-variable-effect-on-augmentation-induced-bias)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-qk02qf3.jpeg)
 Data augmentation enhances model generalization in computer vision but may introduce biases, impacting class accuracy unevenly.
 
-### [296. How Two College Students Are Solving The Problem Of Food Waste](https://hackernoon.com/how-two-college-students-are-solving-the-problem-of-food-waste)
-![](https://cdn.hackernoon.com/images/ec5ExNllSsMuJ8mpsiklMn85GGJ2-sn8w37dy.jpeg)
-Paran Sonthalia, DeWaste CEO and a college student, shares his experience of what it's like working on a food waste solution in the middle of the pandemic.
+### [294. Class-specific Bias in Image Data Augmentation: Data Augmentation Robustness Scouting](https://hackernoon.com/class-specific-bias-in-image-data-augmentation-data-augmentation-robustness-scouting)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-b502qux.jpeg)
+Data augmentation enhances model generalization in computer vision but may introduce biases, impacting class accuracy unevenly.
 
-### [297. Building a DIY Image-Based Part Inspection System: No Expensive Hardware Needed](https://hackernoon.com/building-a-diy-image-based-part-inspection-system-no-expensive-hardware-needed)
-![](https://cdn.hackernoon.com/images/9CsCbyaVczaBJmLoFtPMLYIpEO52-fe13db7.jpeg)
-An image-based part inspection system that extracts geometric features directly from images and converts them into measurable, CAD-ready representations.
+### [295. What Did AI Bring to Computer Vision?](https://hackernoon.com/what-did-ai-bring-to-computer-vision-zyo34ff)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-8hu34ne.jpeg)
+In this video, I will openly share everything about deep nets for computer vision applications, their successes, and the limitations we have yet to address.
 
-### [298. Why TM-CNN Is a Material Scientist's New Best Friend](https://hackernoon.com/why-tm-cnn-is-a-material-scientists-new-best-friend)
+### [296. The Effect Of Data Augmentation-Induced Class-Specific Bias Is Influenced By Data, Regularization ](https://hackernoon.com/the-effect-of-data-augmentation-induced-class-specific-bias-is-influenced-by-data-regularization)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-sj02p17.jpeg)
+Data augmentation enhances model generalization in computer vision but may introduce biases, impacting class accuracy unevenly.
+
+### [297. What Makes "Good" Fashion Image Tagging](https://hackernoon.com/what-makes-good-fashion-image-tagging)
+![](https://cdn.hackernoon.com/images/TcybBCvdt2M89VjM7b9MkeCNhIi1-zle3tlp.jpeg)
+Fashion image tagging is infamously tedious for eCommerce. But, how can AI help create accurate tags--and go a step beyond in understanding fashion information?
+
+### [298. 10 Security Products to Protect Your Smart Home](https://hackernoon.com/10-security-products-to-protect-your-smart-home-l64l37am)
+![](https://cdn.hackernoon.com/drafts/l3or37v5.png)
+In your smart home, you must have equipped lots of smart devices that streamline your life. At first glance, it seems attractive that your smart home provides tons of benefits. But, have you thought about its security? Without securing your smart home, it is not possible to attain its benefits for the long-term. Therefore, you need to invest in certain decent quality security products that can protect your smart home. They are capable to save your time and money. They only focus on providing exceptional security to your smart home. Let’s take a look at these useful security products:
+
+### [299. Why TM-CNN Is a Material Scientist's New Best Friend](https://hackernoon.com/why-tm-cnn-is-a-material-scientists-new-best-friend)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-e1034lu.jpeg)
 Revolutionize defect analysis with TM-CNN! Spot tiny flaws in magnetic structures. Automates annotations for faster results.
 
-### [299. Splitting Hairs: Exploring the Interrelationship of Machine Learning and AI](https://hackernoon.com/splitting-hairs-exploring-the-interrelationship-of-machine-learning-and-ai)
+### [300. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: Outlier Processing](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-outlier-processing)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-4a832nk.jpeg)
+In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
+
+### [301. Splitting Hairs: Exploring the Interrelationship of Machine Learning and AI](https://hackernoon.com/splitting-hairs-exploring-the-interrelationship-of-machine-learning-and-ai)
 ![](https://cdn.hackernoon.com/images/k637U4fYr0RGVspCP5s7dpkuIBG2-9pa3ds0.jpeg)
 Navigating the Nuances: The Relationship and Differences Between AI and Machine Learning
 
 
-### [300. What Makes "Good" Fashion Image Tagging](https://hackernoon.com/what-makes-good-fashion-image-tagging)
-![](https://cdn.hackernoon.com/images/TcybBCvdt2M89VjM7b9MkeCNhIi1-zle3tlp.jpeg)
-Fashion image tagging is infamously tedious for eCommerce. But, how can AI help create accurate tags--and go a step beyond in understanding fashion information?
+### [302. How Two College Students Are Solving The Problem Of Food Waste](https://hackernoon.com/how-two-college-students-are-solving-the-problem-of-food-waste)
+![](https://cdn.hackernoon.com/images/ec5ExNllSsMuJ8mpsiklMn85GGJ2-sn8w37dy.jpeg)
+Paran Sonthalia, DeWaste CEO and a college student, shares his experience of what it's like working on a food waste solution in the middle of the pandemic.
 
-### [301. Russian Scientists Identify Why Older Text-to-Image Models Couldn’t Create Realistic Images](https://hackernoon.com/russian-scientists-identify-why-older-text-to-image-models-couldnt-create-realistic-images)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-nl02sxm.jpeg)
-Researchers have developed a text-to-image generation model called Kandinsky that uses a novel latent diffusion model to produce images that appear natural.
-
-### [302. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: Annotation Details](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-annotation-details)
+### [303. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: Annotation Details](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-annotation-details)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-l9831hz.jpeg)
 In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
 
-### [303. The Effect Of Data Augmentation-Induced Class-Specific Bias Is Influenced By Data, Regularization ](https://hackernoon.com/the-effect-of-data-augmentation-induced-class-specific-bias-is-influenced-by-data-regularization)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-sj02p17.jpeg)
-Data augmentation enhances model generalization in computer vision but may introduce biases, impacting class accuracy unevenly.
+### [304. Russian Scientists Identify Why Older Text-to-Image Models Couldn’t Create Realistic Images](https://hackernoon.com/russian-scientists-identify-why-older-text-to-image-models-couldnt-create-realistic-images)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-nl02sxm.jpeg)
+Researchers have developed a text-to-image generation model called Kandinsky that uses a novel latent diffusion model to produce images that appear natural.
 
-### [304. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: Outlier Processing](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-outlier-processing)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-4a832nk.jpeg)
-In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
-
-### [305. Case Study: Evaluating GNN Performance Using Shortest-Path Distance for Generalization and Fairness](https://hackernoon.com/case-study-evaluating-gnn-performance-using-shortest-path-distance-for-generalization-and-fairness)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-b5033i1.png)
-This case study demonstrates the application of shortest-path distance to evaluate GNN performance on structural subgroups. 
-
-### [306. Russian Scientists Say New AI Architecture Produces State-of-the-Art Text-to-Image Synthesis](https://hackernoon.com/russian-scientists-say-new-ai-architecture-produces-state-of-the-art-text-to-image-synthesis)
+### [305. Russian Scientists Say New AI Architecture Produces State-of-the-Art Text-to-Image Synthesis](https://hackernoon.com/russian-scientists-say-new-ai-architecture-produces-state-of-the-art-text-to-image-synthesis)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jg02ttv.jpeg)
 Researchers have developed a text-to-image generation model called Kandinsky that uses a novel latent diffusion model to produce images that appear natural.
 
-### [307. Fabio Manganiello on Home-Made Computer Vision, IoT, Automation, AI](https://hackernoon.com/fabio-manganiello-on-home-made-computer-vision-iot-automation-ai-4f7a3t79)
+### [306. Case Study: Evaluating GNN Performance Using Shortest-Path Distance for Generalization and Fairness](https://hackernoon.com/case-study-evaluating-gnn-performance-using-shortest-path-distance-for-generalization-and-fairness)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-b5033i1.png)
+This case study demonstrates the application of shortest-path distance to evaluate GNN performance on structural subgroups. 
+
+### [307. WildlifeDatasets: an Open-source Toolkit for Animal Re-identification: Abstract and Introduction](https://hackernoon.com/wildlifedatasets-an-open-source-toolkit-for-animal-re-identification-abstract-and-introduction)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8282r8a.jpeg)
+This paper presents an opensource toolkit intended primarily for ecologists and computer-vision/machine-learning researchers for wildlife re-identification.
+
+### [308. Fabio Manganiello on Home-Made Computer Vision, IoT, Automation, AI](https://hackernoon.com/fabio-manganiello-on-home-made-computer-vision-iot-automation-ai-4f7a3t79)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-0t6j3twk.jpeg?alt=media&token=68c8701c-c4f1-4e59-ad5d-a95057e136fe)
 Fabio Manganiello writes about solutions he's discovered while building a platform, library of plugins and an API to connect/manage any device and service through any backend, allowing users to easily set up any kind of automation. Fabio is based in Amsterdam, the Netherlands, and has been nominated for a 2020 #Noonie for exceptional contributions to the IoT tag category on Hacker Noon.
 
-### [308. Russian Scientists Create AI That Generates Images People Actually Love](https://hackernoon.com/russian-scientists-create-ai-that-generates-images-people-actually-love)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1y02s60.jpeg)
+### [309. Russian Scientists Demo AI That Can Turn Simple Text Into Stunning Images](https://hackernoon.com/russian-scientists-demo-ai-that-can-turn-simple-text-into-stunning-images)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oy02sor.jpeg)
 Researchers have developed a text-to-image generation model called Kandinsky that uses a novel latent diffusion model to produce images that appear natural.
 
-### [309. Optical Character Recognition Algorithms Can Redefine Business Processes](https://hackernoon.com/optical-character-recognition-algorithms-can-redefine-business-processes)
-![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-7ck3jfc.jpeg)
-Entering data and moving it from one place to another is a time-consuming, repetitive task. 
-
-### [310. The AI Monthly Top 3  Papers of October 2021](https://hackernoon.com/the-ai-monthly-top-3-papers-of-october-2021)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-j0037pu.jpeg)
-The 3 most interesting research papers of October 2021!
+### [310. Russian Scientists Create AI That Generates Images People Actually Love](https://hackernoon.com/russian-scientists-create-ai-that-generates-images-people-actually-love)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1y02s60.jpeg)
+Researchers have developed a text-to-image generation model called Kandinsky that uses a novel latent diffusion model to produce images that appear natural.
 
 ### [311. What is Human Pose Estimation?](https://hackernoon.com/what-is-human-pose-estimation)
 ![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-pt036lt.jpeg)
 Part of the broader artificial intelligence and computer vision realms, human pose estimation (HPE) technology has been gradually making its presence seen in all kinds of software apps and hardware solutions. Still, human pose estimation seemed to be stuck at the edge, failing to cross into mainstream adoption. 
 
-### [312.  Face Data Augmentation - Part 2: Image Synthesis](https://hackernoon.com/face-data-augmentation-part-2-image-synthesis)
+### [312. Optical Character Recognition Algorithms Can Redefine Business Processes](https://hackernoon.com/optical-character-recognition-algorithms-can-redefine-business-processes)
+![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-7ck3jfc.jpeg)
+Entering data and moving it from one place to another is a time-consuming, repetitive task. 
+
+### [313. The AI Monthly Top 3  Papers of October 2021](https://hackernoon.com/the-ai-monthly-top-3-papers-of-october-2021)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-j0037pu.jpeg)
+The 3 most interesting research papers of October 2021!
+
+### [314.  Face Data Augmentation - Part 2: Image Synthesis](https://hackernoon.com/face-data-augmentation-part-2-image-synthesis)
 ![](https://cdn.hackernoon.com/images/Stolt6tEO4bBbtH98cxI4xo7luw1-1y63387.png)
 In this paper, I present methods for generating synthetic images for face augmentation using recently presented GANs.
 
-### [313. The Noonification: The Best Practices For DevOps Pipelines  (9/23/2023)](https://hackernoon.com/9-23-2023-noonification)
-![](https://cdn.hackernoon.com/images/noonification_673_ry1874xaqx2iuhsnkz476bx8.png)
-9/23/2023: Top 5 stories on the Hackernoon homepage!
-
-### [314. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: Conclusion](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-conclusion)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-7a8311y.jpeg)
-In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
-
-### [315. Reviewing “OpenPose - Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields”](https://hackernoon.com/reviewing-openpose-realtime-multi-person-2d-pose-estimation-using-part-affinity-fields)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-9xa3qdf.jpeg)
-OpenPose is an open-source multi-person detection system supporting the body, hand, foot, and facial key points. The system uses a multi-stage CNN.
-
-### [316. Image Annotation Business Models [Reviewed]](https://hackernoon.com/image-annotation-business-models-reviewed-0y4a32zk)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-kh82quf.jpeg)
-In the rise of robotics, computer vision and image processing cameras, image annotation comes as the first step to get the right AI training data for Deep Learning models. Whether you build an app to allow users to snap fashion items at the store as a new omni-channel sales or use machine vision installed at edge device at the industrial facility to monitor anomalies: it starts with training massive image data sets.
-
-### [317. A New Approach to 3D Scene Understanding: Replacing Heavy Segmentation Models for a 16x Speedup](https://hackernoon.com/a-new-approach-to-3d-scene-understanding-replacing-heavy-segmentation-models-for-a-16x-speedup)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-ug032kk.png)
-This research introduces Open-YOLO 3D, a novel method using 2D object detectors for high-speed, open-vocabulary 3D instance segmentation.
-
-### [318. Deep Learning, Protein Folding Algorithms, Computer Vision, Math, and AI Research #Noonies2021](https://hackernoon.com/noonies-nominee-emil-bogomolov-a-mathematician-and-ai-researcher)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-rg03odd.jpeg)
-Emil Bogomolov has been nominated as the Hackernoon Contributor of the Year - Computer Vision.
-
-### [319. WildlifeDatasets: an Open-source Toolkit for Animal Re-identification: Abstract and Introduction](https://hackernoon.com/wildlifedatasets-an-open-source-toolkit-for-animal-re-identification-abstract-and-introduction)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8282r8a.jpeg)
-This paper presents an opensource toolkit intended primarily for ecologists and computer-vision/machine-learning researchers for wildlife re-identification.
-
-### [320. On the Topology Awareness and Generalization Performance of Graph Neural Networks: Main Results](https://hackernoon.com/on-the-topology-awareness-and-generalization-performance-of-graph-neural-networks-main-results)
+### [315. On the Topology Awareness and Generalization Performance of Graph Neural Networks: Main Results](https://hackernoon.com/on-the-topology-awareness-and-generalization-performance-of-graph-neural-networks-main-results)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ul034gb.png)
 Explore the main results on GNN generalization performance, highlighting how structural distance affects accuracy disparities across subgroups. 
 
-### [321. Facial Recognition Benefits, Applications, and Issues Businesses Should Consider](https://hackernoon.com/facial-recognition-benefits-applications-and-issues-businesses-should-consider)
+### [316. VEATIC: Video-based Emotion and Affect Tracking in Context Dataset: Conclusion](https://hackernoon.com/veatic-video-based-emotion-and-affect-tracking-in-context-dataset-conclusion)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-7a8311y.jpeg)
+In this paper, researchers introduce VEATIC dataset for human affect recognition, addressing limitations in existing datasets, enabling context-based inference.
+
+### [317. The Noonification: The Best Practices For DevOps Pipelines  (9/23/2023)](https://hackernoon.com/9-23-2023-noonification)
+![](https://cdn.hackernoon.com/images/noonification_673_ry1874xaqx2iuhsnkz476bx8.png)
+9/23/2023: Top 5 stories on the Hackernoon homepage!
+
+### [318. Visualizing Object Detection Data in TensorFlow with TFRecords](https://hackernoon.com/visualizing-object-detection-data-in-tensorflow-with-tfrecords)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-4c03b1t.png)
+Visualize TensorFlow object detection data with TFRecords, bounding boxes, and masks while evaluating accuracy using mAP metrics.
+
+### [319. Deep Learning, Protein Folding Algorithms, Computer Vision, Math, and AI Research #Noonies2021](https://hackernoon.com/noonies-nominee-emil-bogomolov-a-mathematician-and-ai-researcher)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-rg03odd.jpeg)
+Emil Bogomolov has been nominated as the Hackernoon Contributor of the Year - Computer Vision.
+
+### [320. A New Approach to 3D Scene Understanding: Replacing Heavy Segmentation Models for a 16x Speedup](https://hackernoon.com/a-new-approach-to-3d-scene-understanding-replacing-heavy-segmentation-models-for-a-16x-speedup)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-ug032kk.png)
+This research introduces Open-YOLO 3D, a novel method using 2D object detectors for high-speed, open-vocabulary 3D instance segmentation.
+
+### [321. Reviewing “OpenPose - Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields”](https://hackernoon.com/reviewing-openpose-realtime-multi-person-2d-pose-estimation-using-part-affinity-fields)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-9xa3qdf.jpeg)
+OpenPose is an open-source multi-person detection system supporting the body, hand, foot, and facial key points. The system uses a multi-stage CNN.
+
+### [322. Image Annotation Business Models [Reviewed]](https://hackernoon.com/image-annotation-business-models-reviewed-0y4a32zk)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-kh82quf.jpeg)
+In the rise of robotics, computer vision and image processing cameras, image annotation comes as the first step to get the right AI training data for Deep Learning models. Whether you build an app to allow users to snap fashion items at the store as a new omni-channel sales or use machine vision installed at edge device at the industrial facility to monitor anomalies: it starts with training massive image data sets.
+
+### [323. Exploring Topology Awareness, Generalization, and Active Learning in Graph Neural Networks](https://hackernoon.com/exploring-topology-awareness-generalization-and-active-learning-in-graph-neural-networks)
+![](https://cdn.hackernoon.com/images/graph-csfkvupotfkmgftdrq9ci496.png)
+Review the nature of topology awareness in GNNs, including its impact on generalization, and active learning challenges. 
+
+### [324. WildlifeDatasets: an Open-source Toolkit for Animal Re-identification: Related Work](https://hackernoon.com/wildlifedatasets-an-open-source-toolkit-for-animal-re-identification-related-work)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-lp82rg8.jpeg)
+This paper presents an opensource toolkit intended primarily for ecologists and computer-vision/machine-learning researchers for wildlife re-identification.
+
+### [325. Facial Recognition Benefits, Applications, and Issues Businesses Should Consider](https://hackernoon.com/facial-recognition-benefits-applications-and-issues-businesses-should-consider)
 ![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-c193jy9.jpeg)
 Facial recognition is everywhere. What once started as an attribute specific to sci-fi movies is now a part of everyday life: we rely on facial recognition every time we unlock our phones, tag friends in a Facebook post, or go through customs. 
 
-### [322. Russian Scientists Demo AI That Can Turn Simple Text Into Stunning Images](https://hackernoon.com/russian-scientists-demo-ai-that-can-turn-simple-text-into-stunning-images)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oy02sor.jpeg)
-Researchers have developed a text-to-image generation model called Kandinsky that uses a novel latent diffusion model to produce images that appear natural.
+### [326. Underwater Visual Localization Using Machine Learning and LSTM: Method](https://hackernoon.com/underwater-visual-localization-using-machine-learning-and-lstm-method)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-8y82qsy.jpeg)
+This paper explores using machine learning and LSTM for visual localization in underwater environments, achieving accurate positioning with underwater datasets.
 
-### [323. How Deep Learning Can Help Quantify, Monitor, and Remove Marine Plastic: The DeepPlastic Way](https://hackernoon.com/how-deep-learning-can-help-quantify-monitor-and-remove-marine-plastic-the-deepplastic-way)
+### [327. How Deep Learning Can Help Quantify, Monitor, and Remove Marine Plastic: The DeepPlastic Way](https://hackernoon.com/how-deep-learning-can-help-quantify-monitor-and-remove-marine-plastic-the-deepplastic-way)
 ![](https://cdn.hackernoon.com/images/1HXA1i7N41OPVjZWsNnp1Bdi72p2-tu337dm.jpeg)
 Towards a generalized object detector capable of identifying and quantifying sub-surface plastic around the world 
 
 
-### [324. Exploring Topology Awareness, Generalization, and Active Learning in Graph Neural Networks](https://hackernoon.com/exploring-topology-awareness-generalization-and-active-learning-in-graph-neural-networks)
-![](https://cdn.hackernoon.com/images/graph-csfkvupotfkmgftdrq9ci496.png)
-Review the nature of topology awareness in GNNs, including its impact on generalization, and active learning challenges. 
-
-### [325. WildlifeDatasets: an Open-source Toolkit for Animal Re-identification: Related Work](https://hackernoon.com/wildlifedatasets-an-open-source-toolkit-for-animal-re-identification-related-work)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-lp82rg8.jpeg)
-This paper presents an opensource toolkit intended primarily for ecologists and computer-vision/machine-learning researchers for wildlife re-identification.
-
-### [326. How to Create Realistic Slow Motion Videos With AI](https://hackernoon.com/how-to-create-realistic-slow-motion-videos-with-ai-u02m37ez)
+### [328. How to Create Realistic Slow Motion Videos With AI](https://hackernoon.com/how-to-create-realistic-slow-motion-videos-with-ai-u02m37ez)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-eu3o35f8.jpeg)
 TimeLens can understand the movement of the particles in-between the frames of a video to reconstruct what really happened at a speed even our eyes cannot see.
 
-### [327. How AI from Driver Technologies Company Helps To Protect the Motorists](https://hackernoon.com/how-ai-from-driver-technologies-company-helps-to-protect-the-motorists-e9h31sz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fq3Qaf7DkkyP4pF9VVfaVjLrIV1I2-u02831k2.jpeg?alt=media&token=a324e3e1-413f-40ab-9aee-aaf4f1c020c2)
-Across the world, more than 1.3 million people die in car accidents, and over 50 million people are seriously injured every year. That’s nearly 4,000 people each day. Drivers in developing nations are most at risk. Only 54% of the world’s motor vehicles are in developing countries, but 90% of the world’s fatal car accidents occur in those countries. Even within the wealthiest countries vehicle-related injury and death are directly correlated to personal and neighborhood incomes.
-
-### [328. Train YOLO in 10 Epochs: A Lean Recipe for Marine Micro-Object Detection](https://hackernoon.com/train-yolo-in-10-epochs-a-lean-recipe-for-marine-micro-object-detection)
+### [329. Train YOLO in 10 Epochs: A Lean Recipe for Marine Micro-Object Detection](https://hackernoon.com/train-yolo-in-10-epochs-a-lean-recipe-for-marine-micro-object-detection)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-11034zr.jpeg)
 Class imbalance (80% Artemia) and SSIM/MSE checks ensure quality across 50 mg, 100 mg, and control images before YOLO training.
 
-### [329. Underwater Visual Localization Using Machine Learning and LSTM: Method](https://hackernoon.com/underwater-visual-localization-using-machine-learning-and-lstm-method)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-8y82qsy.jpeg)
-This paper explores using machine learning and LSTM for visual localization in underwater environments, achieving accurate positioning with underwater datasets.
-
-### [330. Need Precision Plankton Counts? Why YOLOv5 Shines, But YOLOv8 Adapts](https://hackernoon.com/need-precision-plankton-counts-why-yolov5-shines-but-yolov8-adapts)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-un0349y.jpeg)
-YOLOv5 hits 97% precision on zooplankton; YOLOv8’s DFL handles class imbalance, boosting excrement hits despite scant labels.
+### [330. How AI from Driver Technologies Company Helps To Protect the Motorists](https://hackernoon.com/how-ai-from-driver-technologies-company-helps-to-protect-the-motorists-e9h31sz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fq3Qaf7DkkyP4pF9VVfaVjLrIV1I2-u02831k2.jpeg?alt=media&token=a324e3e1-413f-40ab-9aee-aaf4f1c020c2)
+Across the world, more than 1.3 million people die in car accidents, and over 50 million people are seriously injured every year. That’s nearly 4,000 people each day. Drivers in developing nations are most at risk. Only 54% of the world’s motor vehicles are in developing countries, but 90% of the world’s fatal car accidents occur in those countries. Even within the wealthiest countries vehicle-related injury and death are directly correlated to personal and neighborhood incomes.
 
 ### [331. Big Tech, "I Want To Tell You That I Love You"](https://hackernoon.com/big-tech-i-want-to-tell-you-that-i-love-you-e3263x36)
 ![](https://cdn.hackernoon.com/drafts/ym18h4x6x.png)
 Credit : Emmanuel Chaligné
 
-### [332. On Investing In People Over Ideas or Apps with AI YouTuber Louis Bouchard](https://hackernoon.com/on-investing-in-people-over-ideas-or-apps-with-ai-youtuber-louis-bouchard)
+### [332. Need Precision Plankton Counts? Why YOLOv5 Shines, But YOLOv8 Adapts](https://hackernoon.com/need-precision-plankton-counts-why-yolov5-shines-but-yolov8-adapts)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-un0349y.jpeg)
+YOLOv5 hits 97% precision on zooplankton; YOLOv8’s DFL handles class imbalance, boosting excrement hits despite scant labels.
+
+### [333. On Investing In People Over Ideas or Apps with AI YouTuber Louis Bouchard](https://hackernoon.com/on-investing-in-people-over-ideas-or-apps-with-ai-youtuber-louis-bouchard)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-co03706.jpeg)
 An interview with Louis, an AI YouTuber known as What’s AI, and a research scientist at designstripe.
 
-### [333. Drop the Heavyweights: YOLO‑Based 3D Segmentation Outpaces SAM/CLIP](https://hackernoon.com/drop-the-heavyweights-yolobased-3d-segmentation-outpaces-samclip)
+### [334. Drop the Heavyweights: YOLO‑Based 3D Segmentation Outpaces SAM/CLIP](https://hackernoon.com/drop-the-heavyweights-yolobased-3d-segmentation-outpaces-samclip)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-4d0337u.jpeg)
 Open‑YOLO 3D replaces costly SAM/CLIP steps with 2D detection, LG label‑maps, and parallelized visibility, enabling fast and accurate 3D OV segmentation.
 
-### [334. Underwater Visual Localization Using Machine Learning and LSTM: Introduction](https://hackernoon.com/underwater-visual-localization-using-machine-learning-and-lstm-introduction)
+### [335. Underwater Visual Localization Using Machine Learning and LSTM: Introduction](https://hackernoon.com/underwater-visual-localization-using-machine-learning-and-lstm-introduction)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6t82qr9.jpeg)
 This paper explores using machine learning and LSTM for visual localization in underwater environments, achieving accurate positioning with underwater datasets.
 
-### [335. Optimizing GNNs: A Sampling-Based Solution to the k-Center Problem](https://hackernoon.com/optimizing-gnns-a-sampling-based-solution-to-the-k-center-problem)
+### [336. Optimizing GNNs: A Sampling-Based Solution to the k-Center Problem](https://hackernoon.com/optimizing-gnns-a-sampling-based-solution-to-the-k-center-problem)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-1q033xb.png)
 Modified greedy and sampling algorithms solve Eq. (6) in GNNs for the k-center problem, with a running time complexity of O(k) and O(kn) respectively.
 
-### [336. Few-Shot Personalization of YOLOv8 with Object-Conditioned Bags of Instances](https://hackernoon.com/few-shot-personalization-of-yolov8-with-object-conditioned-bags-of-instances)
+### [337. Few-Shot Personalization of YOLOv8 with Object-Conditioned Bags of Instances](https://hackernoon.com/few-shot-personalization-of-yolov8-with-object-conditioned-bags-of-instances)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-fo033uc.png)
 Multi-order stats enrich embeddings, avert neural collapse, and boost cross-domain accuracy while supporting lifelong instance updates.
 
-### [337. LightCap’s Success on Nocaps: Limitations and Opportunities for Growth](https://hackernoon.com/lightcaps-success-on-nocaps-limitations-and-opportunities-for-growth)
+### [338. LightCap’s Success on Nocaps: Limitations and Opportunities for Growth](https://hackernoon.com/lightcaps-success-on-nocaps-limitations-and-opportunities-for-growth)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-fn03z2g.jpeg)
 LightCap excels on Nocaps across domains. Future work includes efficient CLIP, end-to-end training, and more pre-training data for better results.
 
-### [338. Machine Vision Software: Beyond the Lens](https://hackernoon.com/machine-vision-software-beyond-the-lens)
+### [339. Machine Vision Software: Beyond the Lens](https://hackernoon.com/machine-vision-software-beyond-the-lens)
 ![](https://cdn.hackernoon.com/images/camera-lens-hw0grpkkprsv70kiyye45svo.png)
 Enter the world of machine vision software, where tech mimics human sight. Explore its mechanics, real-world applications, and ethical challenges it presents
-
-### [339. Related Work on Closed‑Set 3D Segmentation, Open‑Vocabulary 2D Recognition, and SAM/CLIP‑Based 3D Ap](https://hackernoon.com/related-work-on-closedset-3d-segmentation-openvocabulary-2d-recognition-and-samclipbased-3d-ap)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-bw033cv.jpeg)
-This section reviews closed‑vocabulary 3D methods, open‑vocabulary 2D recognition, and emerging open‑vocabulary 3D segmentation approaches using SAM/CLIP. 
 
 ### [340. No SAM, No CLIP, No Problem: How Open‑YOLO 3D Segments Faster](https://hackernoon.com/no-sam-no-clip-no-problem-how-openyolo-3d-segments-faster)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-uf033dz.jpeg)
 Open‑YOLO 3D uses 2D object detection instead of heavy SAM/CLIP for open‑vocabulary 3D segmentation, achieving SOTA results with up to 16× faster inference.
 
-### [341. I Chose Emergency Healthcare After Losing My Friends in a Terrorist Attack: CEO Xena Vision](https://hackernoon.com/i-chose-emergency-healthcare-after-losing-my-friends-in-a-terrorist-attack-ceo-xena-vision)
+### [341. Related Work on Closed‑Set 3D Segmentation, Open‑Vocabulary 2D Recognition, and SAM/CLIP‑Based 3D Ap](https://hackernoon.com/related-work-on-closedset-3d-segmentation-openvocabulary-2d-recognition-and-samclipbased-3d-ap)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-bw033cv.jpeg)
+This section reviews closed‑vocabulary 3D methods, open‑vocabulary 2D recognition, and emerging open‑vocabulary 3D segmentation approaches using SAM/CLIP. 
+
+### [342. AI and Automation, What's Next? A Take Over Or a Symbiosis?](https://hackernoon.com/ai-and-automation-whats-next-a-take-over-or-a-symbiosis-it273eas)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFJIrYdLfbJen29Z5gsbPZeDDhyz1-473q3ovz.jpeg?alt=media&token=b20b5d0b-c760-40b4-867d-04c297413dcd)
+Rethinking the future we want not the one that will befall us. We are in charge of our destiny.
+
+### [343. I Chose Emergency Healthcare After Losing My Friends in a Terrorist Attack: CEO Xena Vision](https://hackernoon.com/i-chose-emergency-healthcare-after-losing-my-friends-in-a-terrorist-attack-ceo-xena-vision)
 ![](https://cdn.hackernoon.com/images/ec5ExNllSsMuJ8mpsiklMn85GGJ2-sn8w37dy.jpeg)
 Next Generation Emergency Recognition Technology of Brave New World! 
 There is nothing more precious than having a second chance to live!
 
-### [342. Underwater Visual Localization Using Machine Learning and LSTM: Experiments, and References](https://hackernoon.com/underwater-visual-localization-using-machine-learning-and-lstm-experiments-and-references)
+### [344. Underwater Visual Localization Using Machine Learning and LSTM: Experiments, and References](https://hackernoon.com/underwater-visual-localization-using-machine-learning-and-lstm-experiments-and-references)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-w782qgq.jpeg)
 This paper explores using machine learning and LSTM for visual localization in underwater environments, achieving accurate positioning with underwater datasets.
 
-### [343. AI and Automation, What's Next? A Take Over Or a Symbiosis?](https://hackernoon.com/ai-and-automation-whats-next-a-take-over-or-a-symbiosis-it273eas)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFJIrYdLfbJen29Z5gsbPZeDDhyz1-473q3ovz.jpeg?alt=media&token=b20b5d0b-c760-40b4-867d-04c297413dcd)
-Rethinking the future we want not the one that will befall us. We are in charge of our destiny.
-
-### [344. Underwater Visual Localization Using Machine Learning and LSTM: Datasets](https://hackernoon.com/underwater-visual-localization-using-machine-learning-and-lstm-datasets)
+### [345. Underwater Visual Localization Using Machine Learning and LSTM: Datasets](https://hackernoon.com/underwater-visual-localization-using-machine-learning-and-lstm-datasets)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-8782qkw.jpeg)
 This paper explores using machine learning and LSTM for visual localization in underwater environments, achieving accurate positioning with underwater datasets.
 
-### [345. How to Create Realistic Slow Motion Videos With AI](https://hackernoon.com/how-to-create-realistic-slow-motion-videos-with-ai-ph2l37e4)
+### [346. How to Create Realistic Slow Motion Videos With AI](https://hackernoon.com/how-to-create-realistic-slow-motion-videos-with-ai-ph2l37e4)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-eu3o35f8.jpeg)
 TimeLens can understand the movement of the particles in-between the frames of a video to reconstruct what really happened at a speed even our eyes cannot see.
 

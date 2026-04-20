@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [developer](https://hackernoon.com/tagged/developer)
+### Let's learn about [Developer](https://hackernoon.com/tagged/developer) via these 220 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 “Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.” – Patrick McKenzie
 
 ### [1. What is a Full Stack Developer and How Do You Become One? ](https://hackernoon.com/6-essential-tips-on-how-to-become-a-full-stack-developer-1d10965aaead)
@@ -132,13 +134,13 @@ At the #LockdownConf event streamed two weeks ago, Emma Bostian, Dhawal Shah and
 ![](https://cdn.hackernoon.com/drafts/et2gn33gv.png)
 Getting stuck in a programming problem is a very common thing. 
 
-### [33. Earn 50 ROSE tokens in the Oasis Second State Hackathon - A Step by Step Guide](https://hackernoon.com/earn-50-rose-tokens-in-the-oasis-second-state-hackathon-a-step-by-step-guide-901w3wkh)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpaSE3gvLy1NGp7gqSgGshdcyrO72-a8dz3x9i.png?alt=media&token=96f82294-4d0f-4cee-aa84-9477c704982d)
-Public blockchains enable us to build decentralized web applications (Dapps) that are censorship-resistant and have built-in economic incentives. 
-
-### [34. Developer or Engineer? Does It Make a Difference?](https://hackernoon.com/developer-or-engineer-does-it-make-a-difference-ss4s3tk4)
+### [33. Developer or Engineer? Does It Make a Difference?](https://hackernoon.com/developer-or-engineer-does-it-make-a-difference-ss4s3tk4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV9J0kJWT15dwSuG3CLQTn9lZjeE3-dqj3u4j.png?alt=media&token=7a864507-c796-400b-bf4a-6292fb836dd2)
 From the desk of a brilliant weirdo #1:
+
+### [34. Earn 50 ROSE tokens in the Oasis Second State Hackathon - A Step by Step Guide](https://hackernoon.com/earn-50-rose-tokens-in-the-oasis-second-state-hackathon-a-step-by-step-guide-901w3wkh)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpaSE3gvLy1NGp7gqSgGshdcyrO72-a8dz3x9i.png?alt=media&token=96f82294-4d0f-4cee-aa84-9477c704982d)
+Public blockchains enable us to build decentralized web applications (Dapps) that are censorship-resistant and have built-in economic incentives. 
 
 ### [35. Polyglot Developer: To be, or Not To be ?](https://hackernoon.com/polyglot-developer-to-be-or-not-to-be-de947be14090)
 ![](https://hackernoon.com/images/1*Ig1LPzMglLvd8H1KMMl5Ew.gif)
@@ -193,37 +195,37 @@ The phone interview started with the founder explaining the format, followed by 
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-9093ppw.jpeg)
 I have outlined five simple steps to develop a growth mindset as a software developer.
 
-### [48. What Will be the 3 Biggest Software Development Trends of 2022?](https://hackernoon.com/what-will-be-the-3-biggest-software-development-trends-of-2022)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-x603ndv.jpeg)
-The number of software developers globally is due to almost double by 2030, yet InterSystems research has found that more than 8 out of 10 developers currently feel they work in a pressured environment. Creating a better experience for developers is key for inciting innovation, but the current data environment continues to evolve in ways that challenge the experience at every turn.
-
-### [49. How to Build a Slack Clone with React, Firebase, and CometChat](https://hackernoon.com/how-to-build-a-slack-clone-with-react-firebase-and-cometchat-3r3037kq)
+### [48. How to Build a Slack Clone with React, Firebase, and CometChat](https://hackernoon.com/how-to-build-a-slack-clone-with-react-firebase-and-cometchat-3r3037kq)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-pvbo331k.jpeg)
 In this tutorial, we will be combining the full power of React, Firebase, and CometChat to build a slack clone that will leave you mind-blown.
 
-### [50. Rethinking Programming: The Network in the Language](https://hackernoon.com/rethinking-programming-the-network-in-the-language-kn3z3y55)
-![](https://cdn.hackernoon.com/drafts/b325c3y6l.png)
-With the emergence of microservices architecture, applications are developed by using a large number of smaller programs. These programs are built individually and deployed into a platform where they can scale independently. These programs communicate with each other over the network through simple Application Programming Interfaces (APIs). With the disaggregated and network distributed nature of these applications, developers have to deal with the Fallacies of Distributed Computing as part of their application logic.
+### [49. What Will be the 3 Biggest Software Development Trends of 2022?](https://hackernoon.com/what-will-be-the-3-biggest-software-development-trends-of-2022)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-x603ndv.jpeg)
+The number of software developers globally is due to almost double by 2030, yet InterSystems research has found that more than 8 out of 10 developers currently feel they work in a pressured environment. Creating a better experience for developers is key for inciting innovation, but the current data environment continues to evolve in ways that challenge the experience at every turn.
 
-### [51. You Needn’t Be Perfect as Software Developers, Live Your Life](https://hackernoon.com/you-neednt-be-perfect-as-a-software-developers-live-your-life)
+### [50. You Needn’t Be Perfect as Software Developers, Live Your Life](https://hackernoon.com/you-neednt-be-perfect-as-a-software-developers-live-your-life)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-qr93pf2.jpeg)
 We know that the software community has a multidisciplinary structure. In such a situation, you should not feel inadequate.
+
+### [51. Rethinking Programming: The Network in the Language](https://hackernoon.com/rethinking-programming-the-network-in-the-language-kn3z3y55)
+![](https://cdn.hackernoon.com/drafts/b325c3y6l.png)
+With the emergence of microservices architecture, applications are developed by using a large number of smaller programs. These programs are built individually and deployed into a platform where they can scale independently. These programs communicate with each other over the network through simple Application Programming Interfaces (APIs). With the disaggregated and network distributed nature of these applications, developers have to deal with the Fallacies of Distributed Computing as part of their application logic.
 
 ### [52. How to Get Started Streaming on Twitch](https://hackernoon.com/how-to-get-started-streaming-on-twitch)
 ![](https://cdn.hackernoon.com/images/too6UlyK1RTQqOrRsiS7PVQp20d2-7693nrq.jpeg)
 Twitch is a great place to learn in public. I'll cover tools, tips, and workflows to help you get started with streaming.
 
-### [53. [Announcement] NEM is Launching The Symbol Blockchain with A Native Token (1 XEM = 1 XYM)](https://hackernoon.com/announcement-nem-is-launching-the-symbol-blockchain-with-a-native-token-1-xem-1-xym-xm533wfe)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F90qcTDZylSdjsiMkNkRpUPZogGr1-9h253tep.jpeg?alt=media&token=c0377105-fcb0-4082-b1ec-e3d4f33deb36)
-The NEM blockchain has come a long way since its launch back in 2015. As one of the earliest and most prominent blockchain platforms, it has built a solid community globally, with XEM.
-
-### [54. Developers Want to Code. Hence Serverless.](https://hackernoon.com/developers-want-to-code-hence-serverless)
+### [53. Developers Want to Code. Hence Serverless.](https://hackernoon.com/developers-want-to-code-hence-serverless)
 ![](https://cdn.hackernoon.com/images/QdWX77c6s5Skk99abuNLlG6AEZZ2-kf93krp.jpeg)
 How serverless is fulfilling the original promise of cloud.
 
-### [55. Grant Michael Leingang founded BLVCK DIVMOND in his father’s garage when he was 23](https://hackernoon.com/grant-michael-leingang-founded-blvck-divmond-in-his-fathers-garage-when-he-was-23)
+### [54. Grant Michael Leingang founded BLVCK DIVMOND in his father’s garage when he was 23](https://hackernoon.com/grant-michael-leingang-founded-blvck-divmond-in-his-fathers-garage-when-he-was-23)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-b03737es.jpeg)
 A brief overview of digital entrepreneurship with Grant Michael Leingang, President of BLVCK DIVMOND.
+
+### [55. [Announcement] NEM is Launching The Symbol Blockchain with A Native Token (1 XEM = 1 XYM)](https://hackernoon.com/announcement-nem-is-launching-the-symbol-blockchain-with-a-native-token-1-xem-1-xym-xm533wfe)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F90qcTDZylSdjsiMkNkRpUPZogGr1-9h253tep.jpeg?alt=media&token=c0377105-fcb0-4082-b1ec-e3d4f33deb36)
+The NEM blockchain has come a long way since its launch back in 2015. As one of the earliest and most prominent blockchain platforms, it has built a solid community globally, with XEM.
 
 ### [56. 31 Lessons Learned From 10,000 Hours of Programming](https://hackernoon.com/31-lessons-learned-from-10000-hours-of-programming-la4z37mv)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-j04x3740.jpeg)
@@ -261,13 +263,13 @@ About OWASP:The Open Web Application Security Project (OWASP) is a non-profit en
 ![](https://cdn.hackernoon.com/images/FpKROxxtLBRmSsCCb4lxCS7LBVr2-sz037s0.jpeg)
 Tailwind as a framework is designed for optimum performance and fewer style clashes. Learn 10 reasons to choose Tailwind CSS for your next project.
 
-### [65. 5 Developer Tools Worth the Money to Boost Your Productivity](https://hackernoon.com/5-developer-tools-worth-the-money-to-boost-your-productivity)
-![](https://cdn.hackernoon.com/images/9UlvSh9ttdMj2eri9LzNcvR8FgB3-t993kkn.png)
-Tools that help you develop faster or more efficiently can easily pay for themselves in terms of time saved, because, as they also say, time is money.
-
-### [66. The Future of WebAssembly Through the Eyes of a Veteran Kubernetes Engineer](https://hackernoon.com/the-future-of-webassembly-through-the-eyes-of-a-veteran-kubernetes-engineer)
+### [65. The Future of WebAssembly Through the Eyes of a Veteran Kubernetes Engineer](https://hackernoon.com/the-future-of-webassembly-through-the-eyes-of-a-veteran-kubernetes-engineer)
 ![](https://cdn.hackernoon.com/images/i3sOyDOKT8Xafz5bIr24ZiJSNk03-toa3u3f.jpeg)
 After years of investment in Kubernetes, why should devs care about WebAssembly? By bringing these 2 technologies together, it's possible to get more out of K8s
+
+### [66. 5 Developer Tools Worth the Money to Boost Your Productivity](https://hackernoon.com/5-developer-tools-worth-the-money-to-boost-your-productivity)
+![](https://cdn.hackernoon.com/images/9UlvSh9ttdMj2eri9LzNcvR8FgB3-t993kkn.png)
+Tools that help you develop faster or more efficiently can easily pay for themselves in terms of time saved, because, as they also say, time is money.
 
 ### [67. From Cook to Code: My Journey of Becoming a Software Engineer](https://hackernoon.com/from-cook-to-code-my-journey-of-becoming-a-software-engineer)
 ![](https://cdn.hackernoon.com/images/a-chef-inside-a-five-star-hotels-kitchen-who-is-stirring-a-pot-with-his-left-hand-and-typing-on-a-laptop-with-his-right-all-the-while-enjoying-himself-clejl48pb000001s6gtbz6ny0.png)
@@ -285,29 +287,29 @@ When developers just start investing, it is quite easy to make investment mistak
 ![](https://cdn.hackernoon.com/images/dczXvEBvJfWsaxxe2SJRofQxzXg2-0lc3ov4.png)
 Everyone is familiar with CI and CD processes, but whatever happened to Continuous Feedback? Leveraging observability in dev creates a new type of dev process 
 
-### [71. I Got a Job as a Developer at 16, and You Can Too](https://hackernoon.com/i-got-a-job-as-a-developer-at-16-and-you-can-too-xg2q31ls)
-![](https://cdn.hackernoon.com/images/2lCKbVYzfgXONtu7Xpjc3NWBuQr2-n01f314i.jpeg)
-This is my story about how I got a job as a web developer at 16 using reddit while having 0 experience
-
-### [72. Why Should You Hire Full-Stack Developers for Your Project? ](https://hackernoon.com/why-should-you-hire-full-stack-developers-for-your-project)
-![](https://cdn.hackernoon.com/images/Wqg8ztsDQ8WI3agTrA7FRN1AAal2-z193pot.jpeg)
-What advantages do they have compared to other software engineers? This article will guide you about full-stack developers and talk about their importance.
-
-### [73. Using a Product-Led Growth Mindset to Improve User Experience](https://hackernoon.com/using-a-product-led-growth-mindset-to-improve-user-experience)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-6393kc1.jpeg)
-How changing the development mindset to a product-led-growth one can improve the user experience by focusing the thought process for the team's members.
-
-### [74. How C# Lost Some of Its Original Elegance](https://hackernoon.com/how-c-lost-some-of-its-original-elegance)
+### [71. How C# Lost Some of Its Original Elegance](https://hackernoon.com/how-c-lost-some-of-its-original-elegance)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3y823o4.png)
 A longtime C# developer reflects on how rapid language evolution, new keywords, and feature creep may be making C# less elegant.
 
-### [75. Top Skills You Need to Become a Metaverse Developer](https://hackernoon.com/top-skills-you-need-to-become-a-metaverse-developer)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-vg93qgl.jpeg)
-To be a successful metaverse developer, you have to be conversant with all the prospective skills of the Metaverse accompanying the development fluency.
+### [72. I Got a Job as a Developer at 16, and You Can Too](https://hackernoon.com/i-got-a-job-as-a-developer-at-16-and-you-can-too-xg2q31ls)
+![](https://cdn.hackernoon.com/images/2lCKbVYzfgXONtu7Xpjc3NWBuQr2-n01f314i.jpeg)
+This is my story about how I got a job as a web developer at 16 using reddit while having 0 experience
 
-### [76. 7 Basic Rules to Make Developer`s Life Better](https://hackernoon.com/7-basic-rules-to-make-developers-life-better-828h3y44)
+### [73. Why Should You Hire Full-Stack Developers for Your Project? ](https://hackernoon.com/why-should-you-hire-full-stack-developers-for-your-project)
+![](https://cdn.hackernoon.com/images/Wqg8ztsDQ8WI3agTrA7FRN1AAal2-z193pot.jpeg)
+What advantages do they have compared to other software engineers? This article will guide you about full-stack developers and talk about their importance.
+
+### [74. Using a Product-Led Growth Mindset to Improve User Experience](https://hackernoon.com/using-a-product-led-growth-mindset-to-improve-user-experience)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-6393kc1.jpeg)
+How changing the development mindset to a product-led-growth one can improve the user experience by focusing the thought process for the team's members.
+
+### [75. 7 Basic Rules to Make Developer`s Life Better](https://hackernoon.com/7-basic-rules-to-make-developers-life-better-828h3y44)
 ![](https://cdn.hackernoon.com/drafts/gst32al.png)
 As people, we have a superpower; it is the power of perception. As the famous saying goes, life is 10% what happens to us and 90% how we respond to it.
+
+### [76. Top Skills You Need to Become a Metaverse Developer](https://hackernoon.com/top-skills-you-need-to-become-a-metaverse-developer)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-vg93qgl.jpeg)
+To be a successful metaverse developer, you have to be conversant with all the prospective skills of the Metaverse accompanying the development fluency.
 
 ### [77. Solid Benefits of Authentication Without Passwords: Passwordless Identity Platforms Simply Explained](https://hackernoon.com/solid-benefits-of-authentication-without-passwords-passwordless-identity-platforms-simply-explained-x11033xx)
 ![](https://hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-jvh33a5.jpeg)
@@ -317,17 +319,17 @@ First take a look at the current state of password-based authentication, and the
 ![](https://cdn.hackernoon.com/images/l61lXLP6ciWhnSiMVtVqNgQvDJ62-bv93466.jpeg)
 It's easy to sit down and try to get straight to work, but it's important to have the right tools, extensions, and themes to make you the most productive.
 
-### [79. Talking to a Developer [Part 1]](https://hackernoon.com/talking-to-a-developer-part-1-145r3z1i)
+### [79. Why You Should Customize Your Bash Terminal And How To Do It](https://hackernoon.com/why-you-should-customize-your-bash-terminal-and-how-to-do-it-np1z3z8f)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmDsj2387wdN4dArKgC2UNVj38ru1-7je3wy5.jpeg?alt=media&token=97648237-617a-4c1e-96ed-b82226011715)
+The Linux bash shell is quite the wonder. With it, you can interact with the operating system in very powerful and flexible ways. To do that, you make use of one of many terminal emulators, such as GNOME Terminal, Guake, Terminator, or xterm.
+
+### [80. Talking to a Developer [Part 1]](https://hackernoon.com/talking-to-a-developer-part-1-145r3z1i)
 ![](https://cdn.hackernoon.com/drafts/bc3tc3zyu.png)
 Approaching a developer in the wild might seem intimidating. We have a bad habit of mixing words and phrases into our vocabulary that make us sound like Geordi La Forge geeking out on how warp engines function.
 
-### [80. Make Your Way Out Of Developer’s Block 👨‍💻](https://hackernoon.com/make-your-way-out-of-developers-block-4l3g30cz)
+### [81. Make Your Way Out Of Developer’s Block 👨‍💻](https://hackernoon.com/make-your-way-out-of-developers-block-4l3g30cz)
 ![](https://cdn.hackernoon.com/images/zqa4307w.jpg)
 
-
-### [81. Why You Should Customize Your Bash Terminal And How To Do It](https://hackernoon.com/why-you-should-customize-your-bash-terminal-and-how-to-do-it-np1z3z8f)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmDsj2387wdN4dArKgC2UNVj38ru1-7je3wy5.jpeg?alt=media&token=97648237-617a-4c1e-96ed-b82226011715)
-The Linux bash shell is quite the wonder. With it, you can interact with the operating system in very powerful and flexible ways. To do that, you make use of one of many terminal emulators, such as GNOME Terminal, Guake, Terminator, or xterm.
 
 ### [82. Developers Created a Culture of Shame and a Toxic Workplace](https://hackernoon.com/developers-created-a-culture-of-shame-and-a-toxic-workplace)
 ![](https://cdn.hackernoon.com/images/S20bwqNg2Dc5eOrKxjK2AGe1PCu1-zt93ian.jpeg)
@@ -397,28 +399,28 @@ If nothing else, we’ve learned by way of pandemic both the strength of our Int
 ![](https://cdn.hackernoon.com/images/PM9nNoX7cegr2DQOSuSuYP4k6Sd2-1d7z35uq.png)
 What is Git and how do you use it? Learn about Git in this intro to programming article.
 
-### [99. Ranting as a Front-End Developer: Skills, Expectations, and the Full Stack Journey](https://hackernoon.com/ranting-as-a-front-end-developer-skills-expectations-and-the-full-stack-journey)
+### [99. Five Steps to Take After Making
+a Mistake as a Developer](https://hackernoon.com/five-steps-to-take-after-making-a-mistake-as-a-developer)
+![](https://cdn.hackernoon.com/images/Ry3dvtehKYTIVEzZwYIMiIAdY103-03934bx.jpeg)
+How I recovered from dropping a Production Database and other stories.
+
+### [100. Ranting as a Front-End Developer: Skills, Expectations, and the Full Stack Journey](https://hackernoon.com/ranting-as-a-front-end-developer-skills-expectations-and-the-full-stack-journey)
 ![](https://cdn.hackernoon.com/images/lsrpqdnkG3dZmeCVhPouglp4K6J3-vg9319n.jpeg)
 From newbie coder to jack of all trades: the wild ride of a front-end dev in the ever-changing tech world!
 
-### [100. What is all the Fuss about Full Stack Developers?](https://hackernoon.com/what-is-all-the-fuss-about-full-stack-developers)
+### [101. Exploring Developer Experience on ZKRUs: An In-Depth Analysis](https://hackernoon.com/exploring-developer-experience-on-zkrus-an-in-depth-analysis)
+![](https://cdn.hackernoon.com/images/JNuKcaRO9ogvXzLwR9r8ripU4X83-yun36up.jpeg)
+A data-driven deep dive into ZKRU developer experience including StarkNet, zkSync, Polygon and Scroll.
+
+### [102. What is all the Fuss about Full Stack Developers?](https://hackernoon.com/what-is-all-the-fuss-about-full-stack-developers)
 ![](https://cdn.hackernoon.com/images/vGTndpvYhNgt3UzMT2OHaSkMes52-u693h4y.jpeg)
 A Full- stack developer is someone who possesses proficiency in each subcaste of the tech stack. 
 So, originally, let’s see from the seeker’s perspective.
 
 
-### [101. Five Steps to Take After Making
-a Mistake as a Developer](https://hackernoon.com/five-steps-to-take-after-making-a-mistake-as-a-developer)
-![](https://cdn.hackernoon.com/images/Ry3dvtehKYTIVEzZwYIMiIAdY103-03934bx.jpeg)
-How I recovered from dropping a Production Database and other stories.
-
-### [102. How Developers Should Invest Their Time](https://hackernoon.com/how-developers-should-invest-their-time-2e1b3uww)
+### [103. How Developers Should Invest Their Time](https://hackernoon.com/how-developers-should-invest-their-time-2e1b3uww)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBamvTIAhDQTWIhpCo8cqPm438Yw2-dn73yut.jpeg?alt=media&token=170faa19-f37f-4020-a91d-f2b6dde64c46)
 In today’s, in the past and probably in the future world — the time is more valuable than money, and the right time waits for no one. Hence, we have to make the most out of it to succeed in life.
-
-### [103. Exploring Developer Experience on ZKRUs: An In-Depth Analysis](https://hackernoon.com/exploring-developer-experience-on-zkrus-an-in-depth-analysis)
-![](https://cdn.hackernoon.com/images/JNuKcaRO9ogvXzLwR9r8ripU4X83-yun36up.jpeg)
-A data-driven deep dive into ZKRU developer experience including StarkNet, zkSync, Polygon and Scroll.
 
 ### [104. My Challenge to Excel Users: I Dare you to Learn How to Code](https://hackernoon.com/my-challenge-to-excel-users-i-dare-you-to-learn-how-to-code-w31b3tae)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIGXI0VtzPmVCh9D2pnvTqBtHrHJ3-61gl2jqm.jpeg?alt=media&token=86c5eeae-af9e-4c7e-9730-4063992fa01a)
@@ -440,25 +442,25 @@ Lumos Labs is building a metaverse for BUIDLers (devs) & ecosystem enablers to s
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-mqb3pky.jpeg)
 Tech innovation has become the driving force of our economy, having an immense contribution to economic growth.
 
-### [109. The No-Code Movement - A Developer's Perspective](https://hackernoon.com/the-no-code-movement-a-developers-perspective)
-![](https://cdn.hackernoon.com/images/rTGkuSmEEIdJxS4Bj7H8MUxQhOg2-uz93rb1.jpeg)
-Explore the 'No-Code' movement from a developer's perspective. Discover how embracing these tools can enhance software development speed and efficiency.
-
-### [110. Tech Tales for the Literary Geek: 5 Must-Read Books for the Programming Bibliophile](https://hackernoon.com/tech-tales-for-the-literary-geek-5-must-read-books-for-the-programming-bibliophile)
+### [109. Tech Tales for the Literary Geek: 5 Must-Read Books for the Programming Bibliophile](https://hackernoon.com/tech-tales-for-the-literary-geek-5-must-read-books-for-the-programming-bibliophile)
 ![](https://cdn.hackernoon.com/images/CGlSTvM9xYbY6lpVuTjsSxX1IPU2-lk93ujg.jpeg)
 Code, Coffee, & Cognition: Unlocking New Worlds - 5 Exquisite Reads for the Tech-Infused Bibliophile 📚☕️✨
 
-### [111. 7 Tips on How a Junior IT Professional Can Find a Job Today](https://hackernoon.com/7-tips-on-how-a-junior-it-professional-can-find-a-job-today)
-![](https://cdn.hackernoon.com/images/16ChB2rveuMbaKoi890weUEWtCC3-fc93qwz.png)
-The competition between even the experienced candidates with vast experience is tough; for junior tech talents finding their first job is a real challenge.
+### [110. The No-Code Movement - A Developer's Perspective](https://hackernoon.com/the-no-code-movement-a-developers-perspective)
+![](https://cdn.hackernoon.com/images/rTGkuSmEEIdJxS4Bj7H8MUxQhOg2-uz93rb1.jpeg)
+Explore the 'No-Code' movement from a developer's perspective. Discover how embracing these tools can enhance software development speed and efficiency.
 
-### [112. Finding the Right Technical Partner for Your Startup](https://hackernoon.com/finding-the-right-technical-partner-for-your-startup)
+### [111. Finding the Right Technical Partner for Your Startup](https://hackernoon.com/finding-the-right-technical-partner-for-your-startup)
 ![](https://cdn.hackernoon.com/images/04RBQUokhMcaEo331itGHu88zIw1-htc3bmu.jpeg)
 A first-person account of how Founder and Entrepreneur Adil Kurt-Eli found the right technical partner for his startup.
 
-### [113. MongoDB 8.0 Upgrade Guide: What You Need to Know Before Upgrading](https://hackernoon.com/mongodb-80-upgrade-guide-what-you-need-to-know-before-upgrading)
+### [112. MongoDB 8.0 Upgrade Guide: What You Need to Know Before Upgrading](https://hackernoon.com/mongodb-80-upgrade-guide-what-you-need-to-know-before-upgrading)
 ![](https://cdn.hackernoon.com/images/cQw7KuFmcaauwZH8luWpnCl5PKF2-aqb3ll9.webp)
 Learn some of the new features of MongoDB 8.0 and the key considerations you should take into account before upgrading to the new version.
+
+### [113. 7 Tips on How a Junior IT Professional Can Find a Job Today](https://hackernoon.com/7-tips-on-how-a-junior-it-professional-can-find-a-job-today)
+![](https://cdn.hackernoon.com/images/16ChB2rveuMbaKoi890weUEWtCC3-fc93qwz.png)
+The competition between even the experienced candidates with vast experience is tough; for junior tech talents finding their first job is a real challenge.
 
 ### [114. Gas Pump Skimmer Fraudsters Want Your Credit Card Number - NEM Catapult To The Rescue!](https://hackernoon.com/gas-pump-skimmer-fraudsters-want-your-credit-card-number-nems-catapult-to-the-rescue-hg28z3qpv)
 ![](https://cdn.hackernoon.com/images/jq2cl3q6w.jpg)
@@ -472,13 +474,13 @@ In this post, I discuss automated and manual tests, and 2 common types of tests:
 ![](https://cdn.hackernoon.com/images/BamvTIAhDQTWIhpCo8cqPm438Yw2-zaa3xhs.jpeg)
 You don't have to be a financial expert to manage your investments yourself.
 
-### [117. The Strong Game of Developer To Entrepreneur](https://hackernoon.com/the-strong-game-of-developer-to-entrepreneur-a0p3uip)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPcfwPDCyf3ZKODSBkwR1r1bcWeW2-8w1l3ubb.jpeg?alt=media&token=548a3172-4a3f-422c-8df5-86b5620a4047)
-The title of CEO/Founder seems cool but it's all about burning our hands and heads by Hustling. It's not like a general race where once you run quick and finish before anyone else and win the game. To be honest, entrepreneurship is like slowly moving with high efforts for success.
-
-### [118. Developer Hackathon by {{Company}} & HackerNoon?](https://hackernoon.com/developer-hackathon-by-company-and-hackernoon)
+### [117. Developer Hackathon by {{Company}} & HackerNoon?](https://hackernoon.com/developer-hackathon-by-company-and-hackernoon)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-lo83e96.png)
 Drive API adoption and evergreen SEO with HackerNoon’s 6-12 month remote hackathons. Reach 4M+ developers and build a lasting technical ecosystem today.
+
+### [118. The Strong Game of Developer To Entrepreneur](https://hackernoon.com/the-strong-game-of-developer-to-entrepreneur-a0p3uip)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPcfwPDCyf3ZKODSBkwR1r1bcWeW2-8w1l3ubb.jpeg?alt=media&token=548a3172-4a3f-422c-8df5-86b5620a4047)
+The title of CEO/Founder seems cool but it's all about burning our hands and heads by Hustling. It's not like a general race where once you run quick and finish before anyone else and win the game. To be honest, entrepreneurship is like slowly moving with high efforts for success.
 
 ### [119. 19 Apps and Websites All Student Developers Should Check Out](https://hackernoon.com/19-apps-and-websites-all-student-developers-should-check-out)
 ![](https://cdn.hackernoon.com/images/Z7fkxfDpjOT4JTLVKWPSiyFHz1j1-xn02d72.jpeg)
@@ -488,71 +490,71 @@ In this world of technology, there are various apps built to ease the life and w
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-6m93ovn.jpeg)
 Polkadot is experiencing significant growth in terms of developer adoption. It continues to add full-time developers at a higher rate than any other blockchain
 
-### [121. What is DevSecOps? - 7 Best Practices for Effective Automation in 2021](https://hackernoon.com/what-is-devsecops-7-best-practices-for-effective-automation-in-2021-r71p34u8)
+### [121. Toon Filters And Video Transformation in EbSynth [Part 2]](https://hackernoon.com/toon-filters-and-video-transformation-in-ebsynth-part-2-jl2834xq)
+![](https://hackernoon.com/images/8pdJMQzYUYPbw7qxle35w5vRoHC3-3ie0340b.jpeg)
+Using EbSynth and Insta Toon to create awesome cell shaded painted videos/GIF. 
+
+### [122. What is DevSecOps? - 7 Best Practices for Effective Automation in 2021](https://hackernoon.com/what-is-devsecops-7-best-practices-for-effective-automation-in-2021-r71p34u8)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXarpLFJfLZP560gfF90WJNiJyC63-q7163wl1.jpeg?alt=media&token=c826eb07-1856-403b-a0e0-cf6fe00f04fd)
 DevSecOps is the theory of incorporating security activities within the process of DevOps.
 
-### [122. Git Commands Cheat Sheet That Could Save you From a Headache](https://hackernoon.com/git-commands-cheat-sheet-that-could-save-you-from-a-headache-nm3u31oq)
+### [123. Git Commands Cheat Sheet That Could Save you From a Headache](https://hackernoon.com/git-commands-cheat-sheet-that-could-save-you-from-a-headache-nm3u31oq)
 ![](https://cdn.hackernoon.com/images/QyAjPSH5fVS6Xi0iNUkeB4pzthH2-m6t250k.jpeg)
 This Git command sheet is for non-beginners and is mainly dedicated to fixing Git mistakes.
 
-### [123. 3 Life Savers During Covid Lockdown](https://hackernoon.com/3-life-savers-during-covid-lockdown-132l3ycg)
+### [124. 3 Life Savers During Covid Lockdown](https://hackernoon.com/3-life-savers-during-covid-lockdown-132l3ycg)
 ![](https://images.unsplash.com/photo-1497171156029-51dfc973e5f9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 A little different post than my side-project or coding-related stories. Don't worry it's not about the Chinese virus Covid19, at least not directly.
-
-### [124. Toon Filters And Video Transformation in EbSynth [Part 2]](https://hackernoon.com/toon-filters-and-video-transformation-in-ebsynth-part-2-jl2834xq)
-![](https://hackernoon.com/images/8pdJMQzYUYPbw7qxle35w5vRoHC3-3ie0340b.jpeg)
-Using EbSynth and Insta Toon to create awesome cell shaded painted videos/GIF. 
 
 ### [125. Installing a Developer Workstation from Scratch](https://hackernoon.com/installing-a-developer-workstation-from-scratch)
 ![](https://cdn.hackernoon.com/images/MfzjAS5aJtQASHhbBk2J3gunFf23-rfa2ice.jpeg)
 How to automate the installation of a developer workstation, keeping it quick, maintainable and easy learn
 
-### [126. Brainpower And Brainberries: 7 Food Ideas to Hack your Brain](https://hackernoon.com/brainpower-and-brainberries-7-food-ideas-to-hack-your-brain-foodfordevelopers-e5o329j)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5l82qvl.jpeg)
-Are you a programmer who wants to know what are the best food that would best fit your lifestyle? Developers and programmers can have very demanding jobs. They stay up for long hours and require a lot of brainpower in order to get their work done and meet their deadlines.
-
-### [127. Reviewing The 2020 Tech Lead Developer Survey by Couchbase (Podcast Transcript)](https://hackernoon.com/reviewing-the-2020-tech-lead-developer-survey-by-couchbase-podcast-transcript-qi1f35nh)
+### [126. Reviewing The 2020 Tech Lead Developer Survey by Couchbase (Podcast Transcript)](https://hackernoon.com/reviewing-the-2020-tech-lead-developer-survey-by-couchbase-podcast-transcript-qi1f35nh)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-3a935py.jpeg)
 Amy Tom talks to Matt Groves, the Senior Product Marketing Manager at Couchbase, and Brant Burnett, the Systems Architect at CenterEdge Software.
+
+### [127. Brainpower And Brainberries: 7 Food Ideas to Hack your Brain](https://hackernoon.com/brainpower-and-brainberries-7-food-ideas-to-hack-your-brain-foodfordevelopers-e5o329j)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5l82qvl.jpeg)
+Are you a programmer who wants to know what are the best food that would best fit your lifestyle? Developers and programmers can have very demanding jobs. They stay up for long hours and require a lot of brainpower in order to get their work done and meet their deadlines.
 
 ### [128. The Developer Experience With nuxt 3: Here's What You Need to Know](https://hackernoon.com/the-developer-experience-with-nuxt-3-heres-what-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/NYsEt0jSD0Ttv4Gl8UDQGzu9Q9C3-hwa30gb.jpeg)
 Vue Amsterdam - the Most Special & Largest Vue Conference in the World - I share a summary of all the talks. Nuxt 3 | Mohsen Vaziri
 
-### [129. Improving Open-source Software Security for Java Developers](https://hackernoon.com/improving-open-source-software-security-for-java-developers-n2z37dv)
+### [129. Nikita Chashchinskii Is Unifying the Cryptocurrency Industry
+With Drivechain](https://hackernoon.com/nikita-chashchinskii-is-unifying-the-cryptocurrency-industry-with-drivechain)
+![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-3893qek.jpeg)
+The project is being developed with Drivechain and is positioned to make the world of cryptocurrency more transparent, and more secure at the same time. 
+
+### [130. Improving Open-source Software Security for Java Developers](https://hackernoon.com/improving-open-source-software-security-for-java-developers-n2z37dv)
 ![](https://cdn.hackernoon.com/images/oTiYTYuLerOJsmYRVttqIdGESsa2-s81y35bh.jpeg)
 How can security be stepped up for the open-source Java ecosystem?
 Enforcing automated scans before components are published is one of the ways.
 
-### [130. A Comprehensive Review of My Experiences With Leading AppChain Node Providers](https://hackernoon.com/a-comprehensive-review-of-my-experiences-with-leading-appchain-node-providers)
+### [131. A Comprehensive Review of My Experiences With Leading AppChain Node Providers](https://hackernoon.com/a-comprehensive-review-of-my-experiences-with-leading-appchain-node-providers)
 ![](https://cdn.hackernoon.com/images/AAvRQ9Lfl7XAv3nn0ZvtGlvzdLG2-6d93u3a.jpeg)
 As a developer exploring the exciting world of appChains, I had the opportunity to work with various leading node providers and witness firsthand how they transform blockchain technology. AppChains while leveraging the security also concedes cost advantages of underlying Layer 1 blockchains. With appChains, developers like me, can unlock endless possibilities and elevate our decentralized applications to new heights. Hence, an increasing number of developers are seen resorting to this efficient solution to address scalability, interoperability, and modularity. If we talk about nodes, then nodes are not just responsible for exchanging data on blockchains but are also an excellent approach to engaging with blockchains.
-
-### [131. Nikita Chashchinskii Is Unifying the Cryptocurrency Industry
-With Drivechain](https://hackernoon.com/nikita-chashchinskii-is-unifying-the-cryptocurrency-industry-with-drivechain)
-![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-3893qek.jpeg)
-The project is being developed with Drivechain and is positioned to make the world of cryptocurrency more transparent, and more secure at the same time. 
 
 ### [132. How I Made a Ten Line Ruby Script to Get My 1st Jab](https://hackernoon.com/how-i-made-a-ten-line-ruby-script-to-get-my-1st-jab-0q6o31hf)
 ![](https://cdn.hackernoon.com/images/urXXuvx13FewEHbKSbD0UhxWJNm2-45j3425.jpeg)
 Use a Ruby script to get the jab in India
 
-### [133. Your Dev Skills Deserve Recognition, so Hack the Email of Your Boss](https://hackernoon.com/your-dev-skills-deserve-recognition-so-hack-the-email-of-your-boss)
-![](https://cdn.hackernoon.com/images/dFW9aLMnLpgfjylixlaQdWQLp2C3-4213ovm.jpeg)
-Starting a career as a new software engineer is no easy feat. 
-
-### [134. What Developers Should Expect From Working in a Startup](https://hackernoon.com/what-developers-should-expect-from-working-in-a-startup-4w1j33mb)
-![](https://cdn.hackernoon.com/images/iAtPvYoeT6WohkCVWxoFW6cpFV02-mp1z3fyi.jpeg)
-We continue sharing our team's ideas and opinions. This time we talked with Alexey Simatov, our senior developer. He has come a long way and gained profound career experience in both startup and corporate.
-
-### [135. 3 Key Web3 Careers for Developers: Protocols, Smart Contracts, Apps](https://hackernoon.com/3-key-web3-careers-for-developers-protocols-smart-contracts-apps)
+### [133. 3 Key Web3 Careers for Developers: Protocols, Smart Contracts, Apps](https://hackernoon.com/3-key-web3-careers-for-developers-protocols-smart-contracts-apps)
 ![](https://cdn.hackernoon.com/images/VQHzs3YzsjZrqby5Li4NH82bDPt2-84a3tap.jpeg)
 Breaking down what different job postings mean by "Web3 Developer" title.
 
-### [136. 5 Ways A Bad Dev Hire Will Cost Your Company More Than You Think](https://hackernoon.com/5-ways-a-bad-dev-hire-will-cost-your-company-more-than-you-think-7vq83wv0)
+### [134. 5 Ways A Bad Dev Hire Will Cost Your Company More Than You Think](https://hackernoon.com/5-ways-a-bad-dev-hire-will-cost-your-company-more-than-you-think-7vq83wv0)
 ![](https://cdn.hackernoon.com/drafts/y5v3wki.png)
 Locating and securing a knowledgeable and reputable software developer is no easy task. It can take weeks, months or even years to locate the perfect candidate, and there are very few companies who can afford to wait an extended amount of time to fill their roster. 
+
+### [135. Your Dev Skills Deserve Recognition, so Hack the Email of Your Boss](https://hackernoon.com/your-dev-skills-deserve-recognition-so-hack-the-email-of-your-boss)
+![](https://cdn.hackernoon.com/images/dFW9aLMnLpgfjylixlaQdWQLp2C3-4213ovm.jpeg)
+Starting a career as a new software engineer is no easy feat. 
+
+### [136. What Developers Should Expect From Working in a Startup](https://hackernoon.com/what-developers-should-expect-from-working-in-a-startup-4w1j33mb)
+![](https://cdn.hackernoon.com/images/iAtPvYoeT6WohkCVWxoFW6cpFV02-mp1z3fyi.jpeg)
+We continue sharing our team's ideas and opinions. This time we talked with Alexey Simatov, our senior developer. He has come a long way and gained profound career experience in both startup and corporate.
 
 ### [137. 7 Tips To Help You Hire Good Software Developers](https://hackernoon.com/7-tips-to-help-you-hire-good-software-developers-c31s3wk8)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-pok287l.jpeg?alt=media&token=e66d3af6-0ace-40db-9882-3812ef9a2095)
@@ -576,65 +578,65 @@ Today I am going to share an exciting case study's outcome. It is about the mood
 
 I will dive into this based on a super big study we
 
-### [142. Once Upon a Time in Software Development](https://hackernoon.com/once-upon-a-time-in-software-development-uf3u3uij)
-![](https://cdn.hackernoon.com/drafts/s61v32j8.png)
-Some years ago, when I finished my studies. I worked in a small company with some friends and teammates. You know, it’s the common developer road: you studied a lot to pass algorithms class, math, sciences, and your deontology course to have ethics principles. At the end, some company hired you with a lot of promises about: good job, good salary and good opportunities for your career in software. Basically, it was the dream job after 4, 5, or 10 years of studies.
-
-### [143. How To Improve Developer Effectiveness With Feedback Loops](https://hackernoon.com/how-to-improve-developer-effectiveness-with-feedback-loops-zz1g31kw)
+### [142. How To Improve Developer Effectiveness With Feedback Loops](https://hackernoon.com/how-to-improve-developer-effectiveness-with-feedback-loops-zz1g31kw)
 ![](https://cdn.hackernoon.com/images/YACTGHRyNTaRgPZbpH4vuwh5HnM2-4oj31k3.jpeg)
 At it's heart, software engineering is a series of feedback loops. 
+
+### [143. Once Upon a Time in Software Development](https://hackernoon.com/once-upon-a-time-in-software-development-uf3u3uij)
+![](https://cdn.hackernoon.com/drafts/s61v32j8.png)
+Some years ago, when I finished my studies. I worked in a small company with some friends and teammates. You know, it’s the common developer road: you studied a lot to pass algorithms class, math, sciences, and your deontology course to have ethics principles. At the end, some company hired you with a lot of promises about: good job, good salary and good opportunities for your career in software. Basically, it was the dream job after 4, 5, or 10 years of studies.
 
 ### [144. Why Developers Need to Learn Blockchain](https://hackernoon.com/why-developers-need-to-learn-blockchain)
 ![](https://cdn.hackernoon.com/images/developers-looking-at-a-blockchain-diagram-on-a-whiteboard-clhzrvt6e000001s64m745106.png)
 Unlocking the Power of Blockchain: A Look into Polkadot's Potential for Developers
 
-### [145. My Dev Journey in 2022: A Year in Review](https://hackernoon.com/my-dev-journey-in-2022-a-year-in-review)
-![](https://cdn.hackernoon.com/images/yJx6Jb9xDbaeUH6oktJcQUQy9xR2-g5c3kpk.jpeg)
-Developer life in 2022
-
-### [146. Why You Should Use Laravel PHP Framework for Web Development](https://hackernoon.com/why-you-should-use-laravel-php-framework-for-web-development)
-![](https://cdn.hackernoon.com/images/4M1v4uN1ptWKawlFypubbTs7up73-vt037yx.jpeg)
-Comprehensive guide to web development using laravel framework.
-
-### [147. Mobile DevOps Engineer Trends](https://hackernoon.com/mobile-devops-engineer-trends)
-![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-1lc3r57.jpeg)
-Crowned the most coveted occupation in 2021, the ‘DevOps Engineer’ has been instrumental in the growth of the DevOps market. 
-
-### [148. Opside Litepaper V2 Released: Introducing a Multi-chain ZK-PoW Mechanism](https://hackernoon.com/opside-litepaper-v2-released-introducing-a-multi-chain-zk-pow-mechanism)
+### [145. Opside Litepaper V2 Released: Introducing a Multi-chain ZK-PoW Mechanism](https://hackernoon.com/opside-litepaper-v2-released-introducing-a-multi-chain-zk-pow-mechanism)
 ![](https://cdn.hackernoon.com/images/4HK5qyMbWfetPhAavzyTZrEb90N2-5r93tpg.jpeg)
 Opside introduces a multi-chain ZK-PoW mechanism with the release of Litepaper V2. 
 
-### [149. 11 Great Tips From A Guy Who Leveled Up From Intern To Dev](https://hackernoon.com/11-great-tips-from-a-guy-who-leveled-up-from-intern-to-dev-au1b34zt)
-![](https://cdn.hackernoon.com/images/1Hf0RC7AzlhNXuwQ4v3IJeY9NN12-88ac33k4.jpeg)
-This is an article that expresses a few major learnings I would like to take away and mistakes I wouldn’t want to commit again from my journey
+### [146. My Dev Journey in 2022: A Year in Review](https://hackernoon.com/my-dev-journey-in-2022-a-year-in-review)
+![](https://cdn.hackernoon.com/images/yJx6Jb9xDbaeUH6oktJcQUQy9xR2-g5c3kpk.jpeg)
+Developer life in 2022
 
-### [150. Launching Your Open Source Product in Just 3 Weeks (And Only Spend $10!): A Guide](https://hackernoon.com/launching-your-open-source-product-in-just-3-weeks-and-only-spend-$10-a-guide)
+### [147. Launching Your Open Source Product in Just 3 Weeks (And Only Spend $10!): A Guide](https://hackernoon.com/launching-your-open-source-product-in-just-3-weeks-and-only-spend-$10-a-guide)
 ![](https://cdn.hackernoon.com/images/a-rocket-launching-into-space-clj3jvnxk000001s6e0zqalwe.png)
 Who says you need unlimited resources or time? All you need is some caffeine-fueled motivation and like-minded devs ready to bring ideas into reality.
 
-### [151. The Secret Weapon of Developers Who Want to Sleep at Night](https://hackernoon.com/the-secret-weapon-of-developers-who-want-to-sleep-at-night)
-![](https://cdn.hackernoon.com/images/aoMAH4WrpgMhe41v6cxpU11HWqw2_ccra1p1g.jpeg)
-Clean code is your secret weapon. It’s the key to fewer late-night debugging sessions, fewer headaches for your future self, and more time for yourself.
-
-### [152. Using the XR Double Diamond Process to Compare the Designer vs Developer Path](https://hackernoon.com/using-the-xr-double-diamond-process-to-compare-the-designer-vs-developer-path)
+### [148. Using the XR Double Diamond Process to Compare the Designer vs Developer Path](https://hackernoon.com/using-the-xr-double-diamond-process-to-compare-the-designer-vs-developer-path)
 ![](https://cdn.hackernoon.com/images/O48St6jAstaDXE821TokyYkBKB43-rx6q32fu.jpeg)
 How to pick the right path in the XR career. Whether it's augmented, virtual or mixed reality - you'll have to choose whether to become a designer or developer.
 
-### [153. How To Start Investing - Developer Edition](https://hackernoon.com/how-to-start-investing-developer-edition-vj263x7u)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBamvTIAhDQTWIhpCo8cqPm438Yw2-dt73y2m.jpeg?alt=media&token=f818893e-a299-4d07-b529-0693a7f31d98)
-Having money in the bank that is just giving you zero profit and killing your capital instead of making more money is not going to help you achieve your financial goals.
+### [149. Why You Should Use Laravel PHP Framework for Web Development](https://hackernoon.com/why-you-should-use-laravel-php-framework-for-web-development)
+![](https://cdn.hackernoon.com/images/4M1v4uN1ptWKawlFypubbTs7up73-vt037yx.jpeg)
+Comprehensive guide to web development using laravel framework.
 
-### [154. How to Bridge the Developer Experience Gap with raise.dev](https://hackernoon.com/how-to-bridge-the-developer-experience-gap-with-raisedev-x0323wcx)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fi6BW1kIw2ohbQskQtMo5XBDbB242-w42825ft.png?alt=media&token=4af0f2a4-d532-4c22-acd3-3a6c94902728)
-I founded Raise.dev to help every developer advance their career. 
+### [150. Mobile DevOps Engineer Trends](https://hackernoon.com/mobile-devops-engineer-trends)
+![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-1lc3r57.jpeg)
+Crowned the most coveted occupation in 2021, the ‘DevOps Engineer’ has been instrumental in the growth of the DevOps market. 
 
-### [155. Don't Miss the GITEX Global DevSlam on Cybersecurity, Coding, Web3, and More](https://hackernoon.com/dont-miss-the-gitex-global-devslam-on-cybersecurity-coding-web3-and-more)
+### [151. 11 Great Tips From A Guy Who Leveled Up From Intern To Dev](https://hackernoon.com/11-great-tips-from-a-guy-who-leveled-up-from-intern-to-dev-au1b34zt)
+![](https://cdn.hackernoon.com/images/1Hf0RC7AzlhNXuwQ4v3IJeY9NN12-88ac33k4.jpeg)
+This is an article that expresses a few major learnings I would like to take away and mistakes I wouldn’t want to commit again from my journey
+
+### [152. Don't Miss the GITEX Global DevSlam on Cybersecurity, Coding, Web3, and More](https://hackernoon.com/dont-miss-the-gitex-global-devslam-on-cybersecurity-coding-web3-and-more)
 ![](https://cdn.hackernoon.com/images/gpU7nrneOkgXeUVXG9uPwKqRgYM2-rve3o5l.jpeg)
 From 10-14 October 2022, GITEX GLOBAL, the world’s largest and most inclusive tech event will take place in Dubai and shall host 4,000+ companies
 
-### [156. Yunfan (Kevin) Yang: Revolutionizing Developer Workflows With AI Terminal Technology](https://hackernoon.com/yunfan-kevin-yang-revolutionizing-developer-workflows-with-ai-terminal-technology)
+### [153. The Secret Weapon of Developers Who Want to Sleep at Night](https://hackernoon.com/the-secret-weapon-of-developers-who-want-to-sleep-at-night)
+![](https://cdn.hackernoon.com/images/aoMAH4WrpgMhe41v6cxpU11HWqw2_ccra1p1g.jpeg)
+Clean code is your secret weapon. It’s the key to fewer late-night debugging sessions, fewer headaches for your future self, and more time for yourself.
+
+### [154. How To Start Investing - Developer Edition](https://hackernoon.com/how-to-start-investing-developer-edition-vj263x7u)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBamvTIAhDQTWIhpCo8cqPm438Yw2-dt73y2m.jpeg?alt=media&token=f818893e-a299-4d07-b529-0693a7f31d98)
+Having money in the bank that is just giving you zero profit and killing your capital instead of making more money is not going to help you achieve your financial goals.
+
+### [155. Yunfan (Kevin) Yang: Revolutionizing Developer Workflows With AI Terminal Technology](https://hackernoon.com/yunfan-kevin-yang-revolutionizing-developer-workflows-with-ai-terminal-technology)
 ![](https://cdn.hackernoon.com/images/hAIOr5Wt5ZgalZEgw4QLgOMBa003-b593zoj.jpeg)
 The future of terminal. Integrating OpenAI Codex with terminal technology to improve the efficiency and speed of software development.
+
+### [156. How to Bridge the Developer Experience Gap with raise.dev](https://hackernoon.com/how-to-bridge-the-developer-experience-gap-with-raisedev-x0323wcx)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fi6BW1kIw2ohbQskQtMo5XBDbB242-w42825ft.png?alt=media&token=4af0f2a4-d532-4c22-acd3-3a6c94902728)
+I founded Raise.dev to help every developer advance their career. 
 
 ### [157. 5 Successful Startups With Outsourced Development](https://hackernoon.com/5-successful-startups-with-outsourced-development-rr1l3wn8)
 ![](https://cdn.hackernoon.com/drafts/q72983vnd.png)
@@ -644,13 +646,13 @@ Hiring talented software developers is a huge expense for business, even more so
 ![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-ufa3vpb.jpeg)
 Going all in on a specific technology or learning many at once, but not going deep enough?
 
-### [159. 👀 From 0 to 81 Signups in a Day with Product Hunt](https://hackernoon.com/from-0-to-81-signups-in-a-day-with-product-hunt-w4q3e2o)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSOKHzUXvsvaY5Uri0JYuuwjCzpf2-dpb3wsn.jpeg?alt=media&token=a9051504-61a9-4ceb-a194-885a6eee8a95)
-As a developer I've always had a problem : Find new concepts to learn. 👨‍💻
-
-### [160. Opside Pre-alpha Incentive Testnet Launch: Public zkEVM and PoW ZKP Mining Unveiled](https://hackernoon.com/opside-pre-alpha-incentive-testnet-launch-public-zkevm-and-pow-zkp-mining-unveiled)
+### [159. Opside Pre-alpha Incentive Testnet Launch: Public zkEVM and PoW ZKP Mining Unveiled](https://hackernoon.com/opside-pre-alpha-incentive-testnet-launch-public-zkevm-and-pow-zkp-mining-unveiled)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-x793p81.jpeg)
 We are thrilled to announce the official launch of Opside's first Public zkEVM Chain. 
+
+### [160. 👀 From 0 to 81 Signups in a Day with Product Hunt](https://hackernoon.com/from-0-to-81-signups-in-a-day-with-product-hunt-w4q3e2o)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSOKHzUXvsvaY5Uri0JYuuwjCzpf2-dpb3wsn.jpeg?alt=media&token=a9051504-61a9-4ceb-a194-885a6eee8a95)
+As a developer I've always had a problem : Find new concepts to learn. 👨‍💻
 
 ### [161. Here's How Developers Can Build Their Own Personal Brand](https://hackernoon.com/heres-how-developers-can-build-their-own-personal-brand)
 ![](https://cdn.hackernoon.com/images/541r0RExUOQ3nFAQs7oJuST9Axf2-bd03518.png)
@@ -672,35 +674,35 @@ Talented and dedicated employees are important for any business. And, it’s not
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-f1a3m3t.jpeg)
 To foster greater community involvement in PoS and to ensure the continued security and stability of Opside, the team has compiled an FAQ.
 
-### [166. Using An Existing Blogging Platform vs Building A Blog From Scratch](https://hackernoon.com/using-an-existing-blogging-platform-vs-building-a-blog-from-scratch-wn2535hf)
+### [166. Implementing the Four Essential Metrics for Accelerating DevOps](https://hackernoon.com/implementing-the-four-essential-metrics-for-accelerating-devops)
+![](https://cdn.hackernoon.com/images/TtO149Go1EbgZTTZh3T0qLeAIDQ2-j1c3urx.png)
+Dr. Nicole Forsgren, Jez Humble, and Gene Kim published the results of their years of research developed upon 23 000 datasets from international companies. 
+
+### [167. Using An Existing Blogging Platform vs Building A Blog From Scratch](https://hackernoon.com/using-an-existing-blogging-platform-vs-building-a-blog-from-scratch-wn2535hf)
 ![](https://cdn.hackernoon.com/images/iOKnuwYEXZaUvz5goZmkHGWwDAq2-6b4h33c6.jpeg)
 The article aims to answer the question whether developers should use an existing blogging platform or build a blog from scratch
 
-### [167. The Best Error Ever: Firebase Errors for Humans](https://hackernoon.com/the-best-error-ever-firebase-errors-for-humans-xcbe3yc8)
+### [168. The Best Error Ever: Firebase Errors for Humans](https://hackernoon.com/the-best-error-ever-firebase-errors-for-humans-xcbe3yc8)
 ![](https://cdn.hackernoon.com/drafts/y1163yxg.png)
 I'm working on a system for positive behavioral recognition and metrics using Firebase and React. This is a hobby/side project that I work on usually on nights and weekends.
-
-### [168. The 6 Best Platforms To Create Chatbots Without Additional Programming](https://hackernoon.com/the-6-best-platforms-to-create-chatbots-without-additional-programming-c64u37em)
-![](https://cdn.hackernoon.com/images/yF19oSEApiUFeS8PrCk7jwguRav2-yds369a.jpeg)
-Today I want to share a small review of simple platforms for creating bots without any knowledge of programming languages
 
 ### [169. My Journey Building an Open Source Project](https://hackernoon.com/my-journey-building-an-open-source-project)
 ![](https://cdn.hackernoon.com/images/8RnQ1oF39OYpmEH7Id1bSlmWcKr1-ega2v4f.jpeg)
 Sidi details their open-source journey and where they are now.
 
-### [170. Implementing the Four Essential Metrics for Accelerating DevOps](https://hackernoon.com/implementing-the-four-essential-metrics-for-accelerating-devops)
-![](https://cdn.hackernoon.com/images/TtO149Go1EbgZTTZh3T0qLeAIDQ2-j1c3urx.png)
-Dr. Nicole Forsgren, Jez Humble, and Gene Kim published the results of their years of research developed upon 23 000 datasets from international companies. 
+### [170. The 6 Best Platforms To Create Chatbots Without Additional Programming](https://hackernoon.com/the-6-best-platforms-to-create-chatbots-without-additional-programming-c64u37em)
+![](https://cdn.hackernoon.com/images/yF19oSEApiUFeS8PrCk7jwguRav2-yds369a.jpeg)
+Today I want to share a small review of simple platforms for creating bots without any knowledge of programming languages
 
-### [171. Best Tips For An Effective Remote Working](https://hackernoon.com/best-tips-for-an-effective-remote-working-t31h33pz)
+### [171. How to Hire a Crypto Developer: Key Skills and Knowledge to Look For](https://hackernoon.com/how-to-hire-a-crypto-developer-key-skills-and-knowledge-to-look-for)
+![](https://cdn.hackernoon.com/images/oU46VypYStbB8tUQSVRq4Mf3Ca32-i893uvf.jpeg)
+Learn the essential skills and knowledge to effectively hire a crypto developer. Discover the key factors for success in just one concise guide.
+
+### [172. Best Tips For An Effective Remote Working](https://hackernoon.com/best-tips-for-an-effective-remote-working-t31h33pz)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-snn33xv.jpeg)
 The pandemic changed the world of work dramatically
 
 In this article, I will show you how you can make the most of remote working and how to do it like a pro!
-
-### [172. How to Hire a Crypto Developer: Key Skills and Knowledge to Look For](https://hackernoon.com/how-to-hire-a-crypto-developer-key-skills-and-knowledge-to-look-for)
-![](https://cdn.hackernoon.com/images/oU46VypYStbB8tUQSVRq4Mf3Ca32-i893uvf.jpeg)
-Learn the essential skills and knowledge to effectively hire a crypto developer. Discover the key factors for success in just one concise guide.
 
 ### [173. Getting Started with Microsoft's PowerShell](https://hackernoon.com/getting-started-with-microsofts-powershell)
 ![](https://cdn.hackernoon.com/images/sakENsU3wXMEg5rz1GGwo7zGEVk1-uv2376q.jpeg)
@@ -714,34 +716,34 @@ Make your next hackathon better for developers. Learn how Devpost's game-changin
 ![](https://cdn.hackernoon.com/images/software-development-hmghgw23uazx7422c0yttrf1.png)
 When building components in Astro, you might not want to use Astro files
 
-### [176. The Pros and Cons To Losing Yourself in a Problem](https://hackernoon.com/the-pros-and-cons-to-losing-yourself-in-a-problem-qk143tcl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIGXI0VtzPmVCh9D2pnvTqBtHrHJ3-ne272jdu.jpeg?alt=media&token=bdc2c22c-3d2f-4028-a31d-a82c2d95fbe3)
-You find yourself fully committed to solving a problem, you think if I just do x then it's smooth sailings and it'll all be done. A couple hours pass and you've nailed x, but actually y and z seem pretty challenging, and now you have to fix x in order to make y and z as slick as possible. 
-
-### [177. 175 Stories To Learn About Developer](https://hackernoon.com/175-stories-to-learn-about-developer)
+### [176. 175 Stories To Learn About Developer](https://hackernoon.com/175-stories-to-learn-about-developer)
 ![](https://cdn.hackernoon.com/images/github/developer-858.png)
 Learn everything you need to know about Developer via these 175 free HackerNoon stories.
 
-### [178. Project Management Mastery: 3 Tips for The Well Rounded Developer](https://hackernoon.com/project-management-mastery-3-tips-for-the-well-rounded-developer-h02f35z3)
-![](https://cdn.hackernoon.com/images/HGlNWMAdaFXja0kPGXrfiga4nIq2-tje29z3.jpeg)
-As a developer, you need to do more than ship code: you must deliver consistently, on time, and keep people updated. Check out these 3 project management tips.
-
-### [179. I almost quit my job until I learned from these mistakes.](https://hackernoon.com/i-almost-quit-my-job-until-i-learned-from-these-mistakes-wr7q37k9)
-![](https://hackernoon.com/images/vJZjNRXjG5OwQ3VPCR4tScyGSEC3-v24e3517.jpeg)
-Have you ever been frustrated and felt like quitting? Well, wanting to quit one's job is normal, but little did I know. These are my biggest mistakes & lessons.
-
-### [180. A Developer's Guide to Writing for the Internet](https://hackernoon.com/a-developers-guide-to-writing-for-the-internet)
+### [177. A Developer's Guide to Writing for the Internet](https://hackernoon.com/a-developers-guide-to-writing-for-the-internet)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-xqa3mz8.jpeg)
 In this article, we’ll be sharing some of the best tips and tricks to make writing easy and effective for developers.
 
-### [181. Holochain Community Hackathons](https://hackernoon.com/holochain-community-hackathons-3n3032m7)
+### [178. The Pros and Cons To Losing Yourself in a Problem](https://hackernoon.com/the-pros-and-cons-to-losing-yourself-in-a-problem-qk143tcl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIGXI0VtzPmVCh9D2pnvTqBtHrHJ3-ne272jdu.jpeg?alt=media&token=bdc2c22c-3d2f-4028-a31d-a82c2d95fbe3)
+You find yourself fully committed to solving a problem, you think if I just do x then it's smooth sailings and it'll all be done. A couple hours pass and you've nailed x, but actually y and z seem pretty challenging, and now you have to fix x in order to make y and z as slick as possible. 
+
+### [179. Project Management Mastery: 3 Tips for The Well Rounded Developer](https://hackernoon.com/project-management-mastery-3-tips-for-the-well-rounded-developer-h02f35z3)
+![](https://cdn.hackernoon.com/images/HGlNWMAdaFXja0kPGXrfiga4nIq2-tje29z3.jpeg)
+As a developer, you need to do more than ship code: you must deliver consistently, on time, and keep people updated. Check out these 3 project management tips.
+
+### [180. I almost quit my job until I learned from these mistakes.](https://hackernoon.com/i-almost-quit-my-job-until-i-learned-from-these-mistakes-wr7q37k9)
+![](https://hackernoon.com/images/vJZjNRXjG5OwQ3VPCR4tScyGSEC3-v24e3517.jpeg)
+Have you ever been frustrated and felt like quitting? Well, wanting to quit one's job is normal, but little did I know. These are my biggest mistakes & lessons.
+
+### [181. Ali Ragimov Revolutionized a Popular Streaming Service With a Web-Based Media Player](https://hackernoon.com/ali-ragimov-revolutionized-a-popular-streaming-service-with-a-web-based-media-player)
+![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-5q93rwi.jpeg)
+Ali Ragimov created a customer media player based on Shaka Player for Okko, a Russian streaming platform. 
+
+### [182. Holochain Community Hackathons](https://hackernoon.com/holochain-community-hackathons-3n3032m7)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3b82qjg.jpeg)
 
 Holochain Hackathons promote a sense of building, community and collaboration and perhaps most importantly — they’re fun! Whether you want to learn more about Holochain or you’re an experienced Holochain developer ready to launch your next great idea, we would love to see you at our next Hackathon. The possibilities for what hApps can be created are truly endless and we’re so excited to see what you will build next. Join us for an agent-centric, self-organized experience and hands-on learning about Holochain!
-
-### [182. Ali Ragimov Revolutionized a Popular Streaming Service With a Web-Based Media Player](https://hackernoon.com/ali-ragimov-revolutionized-a-popular-streaming-service-with-a-web-based-media-player)
-![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-5q93rwi.jpeg)
-Ali Ragimov created a customer media player based on Shaka Player for Okko, a Russian streaming platform. 
 
 ### [183. The Essentials of Writing a Good Bug Report](https://hackernoon.com/the-essentials-of-writing-a-good-bug-report)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-mf93lum.jpeg)
@@ -751,105 +753,105 @@ A good bug report can make a big difference to a developer's career.
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-8v03h4t.png)
 Explore SpoonOS's Developer Call S1, a key initiative for AI agents on Web3. Learn how it empowers developers to build sophisticated on-chain agents.
 
-### [185. Overcome Developer Burnout - Here Are 6 Ways How](https://hackernoon.com/overcome-developer-burnout-here-are-6-ways-how)
-![](https://cdn.hackernoon.com/images/0sm1KIKmbZhu9AD2GAr4cKywoN43-e093jok.jpeg)
-We all know how it feels to be tired from work. You’ve had a few late nights, you’re feeling the pressure of a deadline, or you’re a little under the weather. You can’t wait for the weekend to arrive so you can unwind before doing it all over again. 
+### [185. 3 Simple Reasons Why Coding Pixel Perfect Designs is So Painful](https://hackernoon.com/3-simple-reasons-why-coding-pixel-perfect-designs-is-so-painful)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-6h93loi.jpeg)
+Pains of coding pixel perfect design. Solution to automatically convert Figma designs into Flutter widgets.
 
 ### [186. Meet the Writer: Sergey Prilutskiy is The Co-founder of Blockchain Company, MixBytes](https://hackernoon.com/meet-the-writer-sergey-prilutskiy-is-the-co-founder-of-blockchain-company-mixbytes)
 ![](https://cdn.hackernoon.com/images/ju805FJCAPOE7DWpBvKE3ZSHtVs2-np237na.jpeg)
 Short interview with Sergey Prilutskiy, developer, researcher, security specialist, co-founder of MixBytes company, and Hackernoon author.
 
-### [187. What No One Tells Developers About Leveraging Their Network For Rewards](https://hackernoon.com/what-no-one-tells-developers-about-leveraging-their-network-for-rewards-nut337a)
-![](https://cdn.hackernoon.com/images/kBGOtoMQdzPscN7GzXtlPZkMm5t1-5e1f355o.jpeg)
-Some referral programs allow developers to recommend platforms or services to their counterparts, it is a simple process and the rewards can be very enticing.
+### [187. Overcome Developer Burnout - Here Are 6 Ways How](https://hackernoon.com/overcome-developer-burnout-here-are-6-ways-how)
+![](https://cdn.hackernoon.com/images/0sm1KIKmbZhu9AD2GAr4cKywoN43-e093jok.jpeg)
+We all know how it feels to be tired from work. You’ve had a few late nights, you’re feeling the pressure of a deadline, or you’re a little under the weather. You can’t wait for the weekend to arrive so you can unwind before doing it all over again. 
 
 ### [188. The Ethics of Machine Learning: Understanding the Role of Developers and Designers](https://hackernoon.com/the-ethics-of-machine-learning-understanding-the-role-of-developers-and-designers)
 ![](https://cdn.hackernoon.com/images/IhwaXpJHotbQjTYSlIjXeTnE7ST2-w093j65.jpeg)
 We know that the whole world is fascinated by the tools that are using Machine learning and deep learning algorithms and they are fun to use. 
 
-### [189. 3 Simple Reasons Why Coding Pixel Perfect Designs is So Painful](https://hackernoon.com/3-simple-reasons-why-coding-pixel-perfect-designs-is-so-painful)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-6h93loi.jpeg)
-Pains of coding pixel perfect design. Solution to automatically convert Figma designs into Flutter widgets.
+### [189. What No One Tells Developers About Leveraging Their Network For Rewards](https://hackernoon.com/what-no-one-tells-developers-about-leveraging-their-network-for-rewards-nut337a)
+![](https://cdn.hackernoon.com/images/kBGOtoMQdzPscN7GzXtlPZkMm5t1-5e1f355o.jpeg)
+Some referral programs allow developers to recommend platforms or services to their counterparts, it is a simple process and the rewards can be very enticing.
 
-### [190. Benefits of Financial Independence For Software Engineers](https://hackernoon.com/benefits-of-financial-independence-for-software-engineers-7m1o3u4n)
+### [190. Developers ignore most marketing — but not all of it ](https://hackernoon.com/developers-ignore-most-marketing-but-not-all-of-it)
+![](https://cdn.hackernoon.com/images/developer-marketing-oubvo170itzl5n2wb8uzgkoq.png)
+Developers ignore most marketing — here's what actually works: hands-on testing, peer content, and why hackathons drive real adoption.
+
+### [191. Benefits of Financial Independence For Software Engineers](https://hackernoon.com/benefits-of-financial-independence-for-software-engineers-7m1o3u4n)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBamvTIAhDQTWIhpCo8cqPm438Yw2-p673yt5.jpeg?alt=media&token=de734278-7e7f-454a-bb9e-38c1324f422d)
 If you read this post, chances that you are a software developer who is seeking financial advice for smart money-saving or investment or early retirement.
-
-### [191. 8 Tips To Reinvent Your Project Meetings And Win](https://hackernoon.com/8-tips-to-reinvent-your-project-meetings-and-win-98m3w0k)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBnMb3F4vjTb8PuRduWJNBwABhlb2-uv1x3u03.gif?alt=media&token=d0e8e4b3-89cf-401c-a91b-1d09be6b9209)
-In a typical project meeting most attendees do not contribute but attend just to hear the conversation. A large amount of developer time is wasted. This drains resources from the project and can create a scheduling nightmare.
 
 ### [192. Tackling API Testing Challenges in a Fast-Paced Startup Environment With Keploy](https://hackernoon.com/tackling-api-testing-challenges-in-a-fast-paced-startup-environment-with-keploy)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-2f82q8o.jpeg)
 Navigating API testing challenges in a fast-paced startup: discover solutions & insights for seamless development.
 
-### [193. Identity Crisis: A Story of DevRel's Journey](https://hackernoon.com/identity-crisis-a-story-of-devrels-journey)
-![](https://cdn.hackernoon.com/images/fFh5wVWN0MbJSA4HoYqx7TZgy482-ute3u4p.jpeg)
-Both developer advocates and the field of DevRel are experiencing an identity crisis. This blog presents a somber view of that crisis and suggests a solution.
-
-### [194. Building Notification Systems as a Developer: Routing and Preferences](https://hackernoon.com/building-notification-systems-as-a-developer-routing-and-preferences)
+### [193. Building Notification Systems as a Developer: Routing and Preferences](https://hackernoon.com/building-notification-systems-as-a-developer-routing-and-preferences)
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-vi0373s.jpeg)
 In this article, you’ll learn how to set up routing for your notifications data and design user preferences so that you can make the most out of each message. 
 
-### [195. 2021: Reviewing and Kaizen-ing My Programming and Writing Life](https://hackernoon.com/2021-reviewing-and-kaizen-ing-my-programming-and-writing-life)
+### [194. Identity Crisis: A Story of DevRel's Journey](https://hackernoon.com/identity-crisis-a-story-of-devrels-journey)
+![](https://cdn.hackernoon.com/images/fFh5wVWN0MbJSA4HoYqx7TZgy482-ute3u4p.jpeg)
+Both developer advocates and the field of DevRel are experiencing an identity crisis. This blog presents a somber view of that crisis and suggests a solution.
+
+### [195. 8 Tips To Reinvent Your Project Meetings And Win](https://hackernoon.com/8-tips-to-reinvent-your-project-meetings-and-win-98m3w0k)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBnMb3F4vjTb8PuRduWJNBwABhlb2-uv1x3u03.gif?alt=media&token=d0e8e4b3-89cf-401c-a91b-1d09be6b9209)
+In a typical project meeting most attendees do not contribute but attend just to hear the conversation. A large amount of developer time is wasted. This drains resources from the project and can create a scheduling nightmare.
+
+### [196. 2021: Reviewing and Kaizen-ing My Programming and Writing Life](https://hackernoon.com/2021-reviewing-and-kaizen-ing-my-programming-and-writing-life)
 ![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-e403few.jpeg)
 Writing this personal review on how my year went is kind of emotional. I have always procrastinated writing or avoided it the previous years
-
-### [196. Why I Think VueJS Is Exciting with Noonies Nominee Rushikesh Mhetre](https://hackernoon.com/why-i-think-vuejs-is-exciting-with-noonies-nominee-rushikesh-mhetre)
-![](https://cdn.hackernoon.com/images/KabR25RjPfUXthb4Ppf4MEBeaxT2-n713677.jpeg)
-How I became the best at what I do
 
 ### [197. Important Aspects of using GitLive](https://hackernoon.com/important-aspects-of-using-gitlive-kzx35uj)
 ![](https://cdn.hackernoon.com/images/Me51eRmjseehUR6RChnB4fGlpEM2-du835pz.jpeg)
 I’m Sunny, and I’m a junior developer at GitLive. Since we are making a tool by developers, for developers, I wanted to share how I use our own product on a day to day basis.
 
-### [198. Python Unit Testing is Even More Convenient Than You Might Realize](https://hackernoon.com/python-unit-testing-is-even-more-convenient-than-you-might-realize)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1p82qxc.jpeg)
-Learn how to write effective unit tests in Python, explore best practices, common pitfalls, and tools like Keploy for comprehensive testing.
-
-### [199. DITL of a Software Engineer: On Working With Serverless Like](https://hackernoon.com/ditl-of-a-software-engineer-on-working-with-serverless-like-1kk3tl2)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-6fc3uq5.jpeg?alt=media&token=9861e054-2215-45b6-b5fc-f853e6a87c0c)
-Want to know what actually goes on under the platform and behind the screens at Dashbird? We recently sat down for a Q&A with our CTO, Marek Tihkan, on leading and managing an engineering team. Today, we speak to Alex, one of the engineers on the Development team. In this Q&A Alex gives you his insights and some visibility into what his days are like, and shares his perspective as a developer on working with serverless and the learning curves of this new way of computing.
-
-### [200. Tips To Supercharge Your Productivity As A Developer](https://hackernoon.com/how-to-supercharge-your-productivity-as-a-developer-vn8734mu)
-![](https://cdn.hackernoon.com/images/hk9l34ea.jpg)
-I gave a talk about this topic a couple of months ago at forloop Summit Lagos, Nigeria. I decided to write a blog post out of it so here it goes.
-
-### [201. 3 Key Questions You Need To Answer Before You Push That Code](https://hackernoon.com/3-key-questions-you-need-to-answer-before-you-push-that-code-151e37ke)
-![](https://cdn.hackernoon.com/images/VYFvDJGGenPQZq5ySkJyLo2Vbmr1-848427jx.jpeg)
-Before you commit that code and push it to the server deployment, ask yourself these three questions.
-
-### [202. The Place of Emotional Intelligence in the World of Developers](https://hackernoon.com/the-place-of-emotional-intelligence-in-the-world-of-developers)
+### [198. The Place of Emotional Intelligence in the World of Developers](https://hackernoon.com/the-place-of-emotional-intelligence-in-the-world-of-developers)
 ![](https://cdn.hackernoon.com/images/rTGkuSmEEIdJxS4Bj7H8MUxQhOg2-1s93s1n.jpeg)
 Explore the pivotal role of Emotional Intelligence in a developer's career. Discover why EI matters in tech, how to nurture it, and common EI pitfalls to avoid.
 
-### [203. How to Build an App like Airbnb? — Deciding on Features, Timeline & Cost](https://hackernoon.com/how-to-build-an-app-like-airbnb-deciding-on-features-timeline-and-cost)
+### [199. Why I Think VueJS Is Exciting with Noonies Nominee Rushikesh Mhetre](https://hackernoon.com/why-i-think-vuejs-is-exciting-with-noonies-nominee-rushikesh-mhetre)
+![](https://cdn.hackernoon.com/images/KabR25RjPfUXthb4Ppf4MEBeaxT2-n713677.jpeg)
+How I became the best at what I do
+
+### [200. DITL of a Software Engineer: On Working With Serverless Like](https://hackernoon.com/ditl-of-a-software-engineer-on-working-with-serverless-like-1kk3tl2)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-6fc3uq5.jpeg?alt=media&token=9861e054-2215-45b6-b5fc-f853e6a87c0c)
+Want to know what actually goes on under the platform and behind the screens at Dashbird? We recently sat down for a Q&A with our CTO, Marek Tihkan, on leading and managing an engineering team. Today, we speak to Alex, one of the engineers on the Development team. In this Q&A Alex gives you his insights and some visibility into what his days are like, and shares his perspective as a developer on working with serverless and the learning curves of this new way of computing.
+
+### [201. Python Unit Testing is Even More Convenient Than You Might Realize](https://hackernoon.com/python-unit-testing-is-even-more-convenient-than-you-might-realize)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1p82qxc.jpeg)
+Learn how to write effective unit tests in Python, explore best practices, common pitfalls, and tools like Keploy for comprehensive testing.
+
+### [202. How to Build an App like Airbnb? — Deciding on Features, Timeline & Cost](https://hackernoon.com/how-to-build-an-app-like-airbnb-deciding-on-features-timeline-and-cost)
 ![](https://cdn.hackernoon.com/images/HDoTrQxLDjSe1SjgtHTVVEibFIq1-qd037l8.png)
 Looking to build an application like Airbnb for Android & iOS platform? Get insights into how to make an app like Airbnb & how much it will cost with WebClues.
 
-### [204. The Role of Front-End Development in Website Design](https://hackernoon.com/the-role-of-front-end-development-in-website-design-pi4637c3)
-![](https://cdn.hackernoon.com/images/h9b7qT3N3yZgJ52xNXAawcWd9cY2-u41s32mq.jpeg)
-A bad front-end development will affect your business, as well as your customer base. The first impression of a website is key.
+### [203. 3 Key Questions You Need To Answer Before You Push That Code](https://hackernoon.com/3-key-questions-you-need-to-answer-before-you-push-that-code-151e37ke)
+![](https://cdn.hackernoon.com/images/VYFvDJGGenPQZq5ySkJyLo2Vbmr1-848427jx.jpeg)
+Before you commit that code and push it to the server deployment, ask yourself these three questions.
+
+### [204. Tips To Supercharge Your Productivity As A Developer](https://hackernoon.com/how-to-supercharge-your-productivity-as-a-developer-vn8734mu)
+![](https://cdn.hackernoon.com/images/hk9l34ea.jpg)
+I gave a talk about this topic a couple of months ago at forloop Summit Lagos, Nigeria. I decided to write a blog post out of it so here it goes.
 
 ### [205. Code Oasis: Your Secret Garden for Internal Development](https://hackernoon.com/code-oasis-your-secret-garden-for-internal-development)
 ![](https://cdn.hackernoon.com/images/k3nyIJoEc6Qbkwo8GjTUcp649Sk2-tf93ya9.jpeg)
 Discover the benefits of IDPs, how to implement them, and how they can improve data accuracy, efficiency, collaboration, security, and customer experience.
 
-### [206. Meet Code Daddy and Full Stack Developer, Clint Veasey](https://hackernoon.com/meet-code-daddy-and-full-stack-developer-clint-veasey)
+### [206. The Role of Front-End Development in Website Design](https://hackernoon.com/the-role-of-front-end-development-in-website-design-pi4637c3)
+![](https://cdn.hackernoon.com/images/h9b7qT3N3yZgJ52xNXAawcWd9cY2-u41s32mq.jpeg)
+A bad front-end development will affect your business, as well as your customer base. The first impression of a website is key.
+
+### [207. Meet Code Daddy and Full Stack Developer, Clint Veasey](https://hackernoon.com/meet-code-daddy-and-full-stack-developer-clint-veasey)
 ![](https://cdn.hackernoon.com/images/PG9GJ9It2FOXrr2T8EAC6UYf0Vj1-lu93iqb.jpeg)
 My latest HackerNoon Top Story was about my most pressing concern in life and the giant that towers over my internal psychological geography: my firstborn Son.
 
-### [207. The Noonification: Patience is Beautiful  (6/18/2023)](https://hackernoon.com/6-18-2023-noonification)
+### [208. Log Slow Postgres Query Plans Automatically: An Introduction to auto-explain](https://hackernoon.com/log-slow-postgres-query-plans-automatically-an-introduction-to-auto-explain)
+![](https://cdn.hackernoon.com/images/watt8zT07gNBxczXhRQaSEgQQ0e2-0h0367o.jpeg)
+Automatically log slow query plans with auto_explain and learn how to fix the problematic PostgreSQL queries that are slowing you down.
+
+### [209. The Noonification: Patience is Beautiful  (6/18/2023)](https://hackernoon.com/6-18-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 6/18/2023: Top 5 stories on the Hackernoon homepage!
-
-### [208. Creator-User-Buyer Is a Mouthful. It’s also the Biggest Trend in Enterprise Software.](https://hackernoon.com/creator-user-buyer-is-a-mouthful-its-also-the-biggest-trend-in-enterprise-software-qz4w32sk)
-![](https://images.unsplash.com/photo-1531539134685-27d854339120?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-If you want to see the future of software, watch what product teams are buying or building.
-
-### [209. Stadia and the Coming New Gaming World Order](https://hackernoon.com/stadia-and-the-coming-new-gaming-world-order-ge1uo306q)
-![](https://cdn.hackernoon.com/drafts/571sf30g6.png)
-Ever since personal computers started to make their way into homes in the 1980s, they've revolutionized almost every aspect of modern life. We now use them to write, shop, communicate with friends and family and do countless other daily tasks. Since the beginning, however, there's one thing that we've used computers to do more than anything else: play games.
 
 ### [210. RT-Thread Studio IDE Upgrades into v2.0 to Support More Kinds of Projects!](https://hackernoon.com/rt-thread-studio-ide-upgrades-into-v200-to-support-more-kinds-of-projects-561l34eq)
 ![](https://cdn.hackernoon.com/images/yNJbnhbn2DgfeSxltc11PDdlv293-9r531bo.jpeg)
@@ -857,39 +859,43 @@ WE ARE IN DECEMBER and 2021 is just around the corner. We are so thrilled to rel
 
 RT-Thread Studio Integrated Development Environment (IDE) was launched in 2019, with a powerful graphic configuration system and 270+ out-of-box software packages and a wide range of components resources. All of this offers a way for developers to simplify the complexity of software development. Now let’s head to New Features of RT-Thread Studio v2.0! 
 
-### [211. Log Slow Postgres Query Plans Automatically: An Introduction to auto-explain](https://hackernoon.com/log-slow-postgres-query-plans-automatically-an-introduction-to-auto-explain)
-![](https://cdn.hackernoon.com/images/watt8zT07gNBxczXhRQaSEgQQ0e2-0h0367o.jpeg)
-Automatically log slow query plans with auto_explain and learn how to fix the problematic PostgreSQL queries that are slowing you down.
+### [211. Stadia and the Coming New Gaming World Order](https://hackernoon.com/stadia-and-the-coming-new-gaming-world-order-ge1uo306q)
+![](https://cdn.hackernoon.com/drafts/571sf30g6.png)
+Ever since personal computers started to make their way into homes in the 1980s, they've revolutionized almost every aspect of modern life. We now use them to write, shop, communicate with friends and family and do countless other daily tasks. Since the beginning, however, there's one thing that we've used computers to do more than anything else: play games.
 
-### [212. Survey Says: Only 7% of Developers Want to Work for FAANG](https://hackernoon.com/survey-says-only-7percent-of-developers-want-to-work-for-faang)
+### [212. Creator-User-Buyer Is a Mouthful. It’s also the Biggest Trend in Enterprise Software.](https://hackernoon.com/creator-user-buyer-is-a-mouthful-its-also-the-biggest-trend-in-enterprise-software-qz4w32sk)
+![](https://images.unsplash.com/photo-1531539134685-27d854339120?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+If you want to see the future of software, watch what product teams are buying or building.
+
+### [213. Survey Says: Only 7% of Developers Want to Work for FAANG](https://hackernoon.com/survey-says-only-7percent-of-developers-want-to-work-for-faang)
 ![](https://cdn.hackernoon.com/images/svFLkpnkgzdnFVRAK4SCku4IIuG3-5f92nym.jpeg)
 47% of developers say the community’s biggest problem is bad project managers. But that's only the beginning.
 
-### [213. How Important is a College Degree if You Want a Job in Tech?](https://hackernoon.com/how-important-is-a-college-degree-if-you-want-a-job-in-tech-ho1q3urd)
+### [214. How Important is a College Degree if You Want a Job in Tech?](https://hackernoon.com/how-important-is-a-college-degree-if-you-want-a-job-in-tech-ho1q3urd)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3A85qIm6nIQQMupj0NCg3JAoI7k1-wtd23j5.png?alt=media&token=320a1a47-feab-4638-a69f-b5a49cbaf6d7)
 Recently, I’ve seen people discuss on Twitter about whether a college degree is required to get into a tech job and if having one gives you any competitive advantage over the self-taught ones. I believe I can add a cent or two to that discussion. I am going to tell my story and experience so it might encourage others.
 
-### [214. How I Wrote and Sent Newsletters that Got 50% Open Rates and Less Than 0.5% Unsubscribes](https://hackernoon.com/how-i-write-and-send-out-newsletters-that-get-almost-50percent-open-rates-and-less-than-05percent-unsubscribes-r7r3663)
-![](https://cdn.hackernoon.com/drafts/rz6m36fo.png)
-Lots of times, I have mentioned that I love blogging and writing.
-
-### [215. Avo CEO At DevRelCon Earth 2020: How To Improve Developer Productivity With These Cool Tools](https://hackernoon.com/avo-ceo-at-devrelcon-earth-2020-how-to-improve-developer-productivity-with-these-cool-tools-4yx3tim)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0M0docZPmedG5HdgT1BbkGiLeWj2-xpb3xc8.jpeg?alt=media&token=17338bb4-e2ef-430b-be13-e322bd550c1f)
-Stef Olafsdottir, Avo’s CEO, speaks about developer productivity at DevRelCon Earth 2020.
-
-### [216. DolphinScheduler Adds First-Ever gRPC Task Plugin, Thanks to OSPP 2025 Contributor Haibo Zhao](https://hackernoon.com/dolphinscheduler-adds-first-ever-grpc-task-plugin-thanks-to-ospp-2025-contributor-haibo-zhao)
+### [215. DolphinScheduler Adds First-Ever gRPC Task Plugin, Thanks to OSPP 2025 Contributor Haibo Zhao](https://hackernoon.com/dolphinscheduler-adds-first-ever-grpc-task-plugin-thanks-to-ospp-2025-contributor-haibo-zhao)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ly023k2.jpeg)
 Apache DolphinScheduler just gained a brand-new gRPC Task Plugin.
 
-### [217. Insights from Helping Devs at the Google Fest in Singapore](https://hackernoon.com/key-learning-during-facilitating-developers-in-google-developer-fest-esd32e0)
+### [216. How I Wrote and Sent Newsletters that Got 50% Open Rates and Less Than 0.5% Unsubscribes](https://hackernoon.com/how-i-write-and-send-out-newsletters-that-get-almost-50percent-open-rates-and-less-than-05percent-unsubscribes-r7r3663)
+![](https://cdn.hackernoon.com/drafts/rz6m36fo.png)
+Lots of times, I have mentioned that I love blogging and writing.
+
+### [217. Avo CEO At DevRelCon Earth 2020: How To Improve Developer Productivity With These Cool Tools](https://hackernoon.com/avo-ceo-at-devrelcon-earth-2020-how-to-improve-developer-productivity-with-these-cool-tools-4yx3tim)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0M0docZPmedG5HdgT1BbkGiLeWj2-xpb3xc8.jpeg?alt=media&token=17338bb4-e2ef-430b-be13-e322bd550c1f)
+Stef Olafsdottir, Avo’s CEO, speaks about developer productivity at DevRelCon Earth 2020.
+
+### [218. Insights from Helping Devs at the Google Fest in Singapore](https://hackernoon.com/key-learning-during-facilitating-developers-in-google-developer-fest-esd32e0)
 ![](https://cdn.hackernoon.com/drafts/476u32o0.png)
 Here's the theme for this week. This topic enlightens me as a perspective of someone who has never been to Developer related events, moreover even as facilitate a developer workshop (or study jam).
 
-### [218. "Never Invest Without A Plan" and Other Mistakes That Developers Should Avoid When Investing](https://hackernoon.com/never-invest-without-a-plan-and-other-mistakes-that-developers-should-avoid-when-investing-mj2y31ww)
+### [219. "Never Invest Without A Plan" and Other Mistakes That Developers Should Avoid When Investing](https://hackernoon.com/never-invest-without-a-plan-and-other-mistakes-that-developers-should-avoid-when-investing-mj2y31ww)
 ![](https://cdn.hackernoon.com/images/BamvTIAhDQTWIhpCo8cqPm438Yw2-2y3h3xaw.jpeg)
 When developers just start investing, it is quite easy to make investment mistakes at the beginning, like investing without a plan.
 
-### [219. How to Create a Stock Market Price Watcher Using Ruby](https://hackernoon.com/how-to-create-a-stock-market-price-watcher-using-ruby-q6e23zoe)
+### [220. How to Create a Stock Market Price Watcher Using Ruby](https://hackernoon.com/how-to-create-a-stock-market-price-watcher-using-ruby-q6e23zoe)
 ![](https://cdn.hackernoon.com/drafts/9s15k3ys1.png)
 For my first ever wrote article, I've decided to write about web scraping and how I built a Stock Market Watcher using Ruby and Nokogiri Gem.
 

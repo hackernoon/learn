@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [nintendo](https://hackernoon.com/tagged/nintendo)
+### Let's learn about [Nintendo](https://hackernoon.com/tagged/nintendo) via these 129 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Nintendo is a multinational consumer electronics and video game company renowned for its iconic consoles and popular game franchises. It has profoundly shaped the gaming industry with innovative hardware and beloved characters.
+
 ### [1. The Ace Attorney Timeline: All Phoenix Wright Games in Chronological Order](https://hackernoon.com/the-ace-attorney-timeline-all-phoenix-wright-games-in-chronological-order-9p5r37xi)
 ![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-hwz533v6.jpeg)
 Wondering how you can follow Ace Attorney's story from its earliest point to its latest? Check out the article to follow the chronology of every major case!
@@ -93,13 +97,13 @@ The 10 strongest dog Pokémon are Boltund, Stoutland, Smeargle, Houndoom, Arcani
 ![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-qfe34p4.jpeg)
 Check out the top 10 best Zelda games throughout the franchise, ranked by their sales.
 
-### [24. The Strongest Pokémon Champions Ranked ](https://hackernoon.com/the-strongest-pokemon-champions-ranked-q0x33dk)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-cn4632pf.jpeg)
-Cynthia is the strongest of the Pokemon Champions, followed by Leon, Iris, Steven, Blue, Lance, Diantha, Alder, and Wallace ranked in terms of strength.
-
-### [25. From Dominance to Competition: A Story of Nintendo's Journey in the Gaming Industry](https://hackernoon.com/from-dominance-to-competition-a-story-of-nintendos-journey-in-the-gaming-industry)
+### [24. From Dominance to Competition: A Story of Nintendo's Journey in the Gaming Industry](https://hackernoon.com/from-dominance-to-competition-a-story-of-nintendos-journey-in-the-gaming-industry)
 ![](https://cdn.hackernoon.com/images/Fs6yMNLemSQFopm3m8hIZVuGaqN2-5zb3nm8.jpeg)
 For much of the 20th century, Nintendo dominated the playing card market in Japan the same way it would dominate the video game industry decades later. 
+
+### [25. The Strongest Pokémon Champions Ranked ](https://hackernoon.com/the-strongest-pokemon-champions-ranked-q0x33dk)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-cn4632pf.jpeg)
+Cynthia is the strongest of the Pokemon Champions, followed by Leon, Iris, Steven, Blue, Lance, Diantha, Alder, and Wallace ranked in terms of strength.
 
 ### [26. Will There be More Mario and Luigi Games?](https://hackernoon.com/will-there-be-more-mario-and-luigi-games)
 ![](https://cdn.hackernoon.com/images/4Utmua7swbeKmKkzfFUMrMiP41x2-qxa2drc.jpeg)
@@ -141,13 +145,13 @@ The Phoenix Wright: Ace Attorney trilogy has no bad cases. But that doesn't mean
 ![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-ne134vy.jpeg)
 In recognition of the newly-announced Forgotten Land title, here are the top 10 Kirby games ranked by how much they sold.
 
-### [36. The 10 Best Wii U Games of All Time Ranked by Sales](https://hackernoon.com/the-10-best-wii-u-games-of-all-time-ranked-by-sales-y3x370r)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-402u35ig.jpeg)
-Although the console didn't sell well, the Wii U offered great games. Here are the best Wii U Games of all time according to sales numbers. 
-
-### [37. All WarioWare Games Ranked by Sales](https://hackernoon.com/all-warioware-games-ranked-by-sales)
+### [36. All WarioWare Games Ranked by Sales](https://hackernoon.com/all-warioware-games-ranked-by-sales)
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-s8h3fm8.jpeg)
 There are few games that manage to reach the extremely fast pace of WarioWare. This series collects many extremely short minigames, combining them into one big package of rapidly-changing fun. Though it stars Wario as the titular character, these games have little to do with his platformer titles or even his long-time rival Mario. Instead, he simply provides the groundwork for wacky minigames players wouldn’t find anywhere else. That just makes it more interesting to see how well all WarioWare games are ranked amongst themselves in terms of copies sold. After all, these games are popular for more reasons than brand recognition.
+
+### [37. The 10 Best Wii U Games of All Time Ranked by Sales](https://hackernoon.com/the-10-best-wii-u-games-of-all-time-ranked-by-sales-y3x370r)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-402u35ig.jpeg)
+Although the console didn't sell well, the Wii U offered great games. Here are the best Wii U Games of all time according to sales numbers. 
 
 ### [38. All The Pokémon Games in Chronological Order ](https://hackernoon.com/all-the-pokemon-games-in-chronological-order)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-xm036fj.jpeg)
@@ -217,13 +221,13 @@ The Nintendo Wii is an incredibly successful video game console. Its games have 
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-oi3n3421.jpeg)
 Fire Emblem Three Houses meme culture has continued to grow far beyond the release of the game. Here are 25 of the best Fire Emblem Three Houses memes.
 
-### [55. 10 Best Game Boy Color Games Ranked by Sales](https://hackernoon.com/10-best-game-boy-color-games-ranked-by-sales-z4r37hp)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-i21735rs.jpeg)
-The Game Boy and the Game Boy Color had a great catalog of games, but they couldn't all be smash hits. Here are the best Game Boy Color games ranked by sales. 
-
-### [56. 7 Best Star Fox Games Ranked by Sales](https://hackernoon.com/7-best-star-fox-games-ranked-by-sales)
+### [55. 7 Best Star Fox Games Ranked by Sales](https://hackernoon.com/7-best-star-fox-games-ranked-by-sales)
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-obg3f6x.jpeg)
 Star Fox is a series that has suffered from bad luck after its first few releases, much like the Wario Land games. Though there are still many fans of the action-packed space battles found within, some games focused too much on experimental features while others suffered from a lack of innovation. Currently, there’s no word on if or how the series will continue from here. But the unfortunate decline of the franchise doesn’t erase its previous successes. It’s still possible to look back on how all Star Fox games are ranked amongst each other based on copies sold, which can give a pretty good idea as to what worked and what fell flat.
+
+### [56. 10 Best Game Boy Color Games Ranked by Sales](https://hackernoon.com/10-best-game-boy-color-games-ranked-by-sales-z4r37hp)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-i21735rs.jpeg)
+The Game Boy and the Game Boy Color had a great catalog of games, but they couldn't all be smash hits. Here are the best Game Boy Color games ranked by sales. 
 
 ### [57. 5 Best Platformers on the Nintendo Switch](https://hackernoon.com/5-best-platformers-on-the-nintendo-switch-tx1737qr)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-l31u35eo.jpeg)
@@ -297,13 +301,13 @@ A blast from the past as I revisit Biker Mice From Mars for the SNES.
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-f893fjn.jpeg)
 The best Wii series games have sold copies numbering in the tens of millions, creating an entire subgenre that no other franchise could easily replicate.
 
-### [75. The OLED Nintendo Switch: Is it Worth It?](https://hackernoon.com/the-oled-nintendo-switch-is-it-worth-it)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-8q037gw.jpeg)
-In this slogging post, our gaming writers discuss the new OLED Nintendo Switch, whether it is worth the money and if its upgrades merit a purchase.
-
-### [76. Most Popular Vintage Video Games and Why They Are Still Worth Playing Today](https://hackernoon.com/most-popular-vintage-video-games-and-why-they-are-still-worth-playing-today)
+### [75. Most Popular Vintage Video Games and Why They Are Still Worth Playing Today](https://hackernoon.com/most-popular-vintage-video-games-and-why-they-are-still-worth-playing-today)
 ![](https://cdn.hackernoon.com/images/VSIG7Tr3MCe2NYaFsyIDjivam4z2-3k83cxx.jpeg)
 These are top vintage video games! 
+
+### [76. The OLED Nintendo Switch: Is it Worth It?](https://hackernoon.com/the-oled-nintendo-switch-is-it-worth-it)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-8q037gw.jpeg)
+In this slogging post, our gaming writers discuss the new OLED Nintendo Switch, whether it is worth the money and if its upgrades merit a purchase.
 
 ### [77. Shovelware and Asset Flipping: What Happened to Quality Control at Nintendo?](https://hackernoon.com/shovelware-and-asset-flipping-what-happened-to-quality-control-at-nintendo)
 ![](https://cdn.hackernoon.com/images/CcvytrG2gnUKenRGfjKIfd8Wh152-m4436cw.jpeg)
@@ -317,13 +321,13 @@ Poor performance and lazy pokemon design in Pokemon Scarlet and Violet are among
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-f66t3w37.jpeg?alt=media&token=a74bc310-2cbf-4db1-ac91-73318137ae3f)
 Japan is home to many things, but perhaps its most unique element is its unparalleled otaku (nerd) culture.
 
-### [80. What are the Best Indie Games on Switch?](https://hackernoon.com/what-are-the-best-indie-games-on-switch)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-m013718.jpeg)
-Nintendo is one of the biggest video game publishers in the world. In this Slogging thread, the team at Hackernoon discuss the best indie games on Switch.
-
-### [81. 5 Hardest Achievements in Stardew Valley from a Veteran Farmer](https://hackernoon.com/5-hardest-achievements-in-stardew-valley-from-a-veteran-farmer)
+### [80. 5 Hardest Achievements in Stardew Valley from a Veteran Farmer](https://hackernoon.com/5-hardest-achievements-in-stardew-valley-from-a-veteran-farmer)
 ![](https://cdn.hackernoon.com/images/D59iQWrw9NWwRKT3HJ1zyatfnf02-v893ra6.jpeg)
 In this article, we will explore which goals are the hardest to achieve in Stardew Valley.
+
+### [81. What are the Best Indie Games on Switch?](https://hackernoon.com/what-are-the-best-indie-games-on-switch)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-m013718.jpeg)
+Nintendo is one of the biggest video game publishers in the world. In this Slogging thread, the team at Hackernoon discuss the best indie games on Switch.
 
 ### [82. The GPD Win 3: A New Alternative for the Nintendo Switch](https://hackernoon.com/the-gpd-win-3-a-new-alternative-for-the-nintendo-switch-sz3z33c4)
 ![](https://cdn.hackernoon.com/images/QpJCy9MPBwgAaV54lnFEiBZXONA3-vs7w33ms.jpeg)
@@ -345,13 +349,13 @@ Aspyr Media and Lucasfilm Games confirmed that Star Wars: Knights of the Old Rep
 ![](https://images.unsplash.com/photo-1533702165324-66678e2069b2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 As I've continued my dive down the rabbit hole that is assembly, I've found a buoy to grab onto: NES programming.
 
-### [87. 5 Nintendo Franchises that Should Come Back](https://hackernoon.com/5-nintendo-franchises-that-should-come-back-qmp37z7)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-sq16356k.jpeg)
-There's no denying that there's a lot of great Nintendo franchises, but the company can't focus on all of them. Here are 5 Nintendo franchises we want back. 
-
-### [88. Should the Next Nintendo Console Be a New Nintendo Switch?](https://hackernoon.com/should-the-next-nintendo-console-be-a-new-nintendo-switch)
+### [87. Should the Next Nintendo Console Be a New Nintendo Switch?](https://hackernoon.com/should-the-next-nintendo-console-be-a-new-nintendo-switch)
 ![](https://cdn.hackernoon.com/images/IagORLorgab1vulL2f2r05xXVLo2-od93dlj.jpeg)
 This article explores Nintendo's past console releases to try and determine what its next gaming console will be.
+
+### [88. 5 Nintendo Franchises that Should Come Back](https://hackernoon.com/5-nintendo-franchises-that-should-come-back-qmp37z7)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-sq16356k.jpeg)
+There's no denying that there's a lot of great Nintendo franchises, but the company can't focus on all of them. Here are 5 Nintendo franchises we want back. 
 
 ### [89. 5 of the Most Iconic Weapons in Gaming](https://hackernoon.com/5-of-the-most-iconic-weapons-in-gaming-v61v33fw)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-zq15332v.jpeg)
@@ -361,21 +365,21 @@ Weapons are easily some of the most iconic parts of gaming, being plastered all 
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-ejj035xb.jpeg)
 In this slogging post, the team at HackerNoon discuss our E3 2021 gaming predictions. 
 
-### [91. Super Smash Bros: 5 Characters We Could See in The Future](https://hackernoon.com/super-smash-bros-5-characters-we-could-see-in-the-future-lj2m33wh)
+### [91. Disney Dreamlight Valley Launches Early Access in September, New Gameplay Trailer Released](https://hackernoon.com/disney-dreamlight-valley-launches-early-access-in-september-new-gameplay-trailer-released)
+![](https://cdn.hackernoon.com/images/vPyXHEWKAWbkwvDOjXDcEuZTrEg2-lya3nd9.jpeg)
+Gameloft and Nintendo revealed some new footage of the upcoming life-sim adventure game, Disney Dreamlight Valley, which hits Nintendo Switch in September.
+
+### [92. Super Smash Bros: 5 Characters We Could See in The Future](https://hackernoon.com/super-smash-bros-5-characters-we-could-see-in-the-future-lj2m33wh)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-cm3r281e.jpeg)
 Super Smash Bros. has a great roster that's always increasing. Here are the characters that could appear in the game in the near future.
 
-### [92. Pokémon Legends: Arceus Revealed Alongside Diamond and Pearl Remakes](https://hackernoon.com/pokemon-legends-arceus-revealed-alongside-diamond-and-pearl-remakes-7tl33gb)
+### [93. Pokémon Legends: Arceus Revealed Alongside Diamond and Pearl Remakes](https://hackernoon.com/pokemon-legends-arceus-revealed-alongside-diamond-and-pearl-remakes-7tl33gb)
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-65j33pr.jpeg)
 The Pokémon Company has revealed Pokémon Legends: Arceus, a single-player open-world Pokémon RPG set to release worldwide in early 2022. 
 
-### [93. Will the Next New Pokémon Game be a Diamond and Pearl Remake?](https://hackernoon.com/will-the-next-new-pokemon-game-be-a-diamond-and-pearl-remake-89p33o6)
+### [94. Will the Next New Pokémon Game be a Diamond and Pearl Remake?](https://hackernoon.com/will-the-next-new-pokemon-game-be-a-diamond-and-pearl-remake-89p33o6)
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-yo2833dp.jpeg)
 Fans have speculated that the next new Pokemon game could be a Pokemon Diamond and Pearl remake, based on historical trends in the company's release cycle.
-
-### [94. Disney Dreamlight Valley Launches Early Access in September, New Gameplay Trailer Released](https://hackernoon.com/disney-dreamlight-valley-launches-early-access-in-september-new-gameplay-trailer-released)
-![](https://cdn.hackernoon.com/images/vPyXHEWKAWbkwvDOjXDcEuZTrEg2-lya3nd9.jpeg)
-Gameloft and Nintendo revealed some new footage of the upcoming life-sim adventure game, Disney Dreamlight Valley, which hits Nintendo Switch in September.
 
 ### [95. Will There be a Nintendo Switch VR Headset?](https://hackernoon.com/will-there-be-a-nintendo-switch-vr-headset)
 ![](https://cdn.hackernoon.com/images/wyLN3yhwtVaMAIlYJR1nlsHsErN2-l293lf5.jpeg)
@@ -397,37 +401,37 @@ The HackerNoon community discusses what our favourite video game controllers are
 ![](https://cdn.hackernoon.com/images/github/pokemon-493.png)
 Learn everything you need to know about Pokemon via these 46 free HackerNoon stories.
 
-### [100. What's Your Favorite Handheld Portable Gaming System?](https://hackernoon.com/whats-your-favorite-handheld-portable-gaming-system-tgv33xs)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-ce2i337c.jpeg)
-This Slogging thread talks about the most-loved portable gaming consoles across multiple generations of gaming.
-
-### [101. The Life and Times of the Nintendo 3DS: Answering All of Your Nintendo 3DS Questions](https://hackernoon.com/the-life-and-times-of-the-nintendo-3ds-answering-all-of-your-nintendo-3ds-questions)
+### [100. The Life and Times of the Nintendo 3DS: Answering All of Your Nintendo 3DS Questions](https://hackernoon.com/the-life-and-times-of-the-nintendo-3ds-answering-all-of-your-nintendo-3ds-questions)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-vr93p4a.jpeg)
 This is a long time coming; the Nintendo 3DS isn’t young, but it’s still sad to see it go. With that in mind, let’s take a look at the life of the 3DS, and let
 
-### [102. What's New in Gaming: June 2021](https://hackernoon.com/whats-new-in-gaming-june-2021-rw3435cj)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-go2b35kd.jpeg)
-Hackernoon presents the latest and interesting news, trends, and events emerging in the gaming world. Read the latest gaming industry stories on Hacker Noon, where 10k+ technologists publish stories for 4M+ monthly readers. 
+### [101. What's Your Favorite Handheld Portable Gaming System?](https://hackernoon.com/whats-your-favorite-handheld-portable-gaming-system-tgv33xs)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-ce2i337c.jpeg)
+This Slogging thread talks about the most-loved portable gaming consoles across multiple generations of gaming.
 
-### [103. Super Mario Land Review (Nintendo Game Boy)](https://hackernoon.com/super-mario-land-review-nintendo-game-boy)
+### [102. Super Mario Land Review (Nintendo Game Boy)](https://hackernoon.com/super-mario-land-review-nintendo-game-boy)
 ![](https://cdn.hackernoon.com/images/gd0SQf7WPsYcZnyCjkdJj8hy9mA3-fi138o4.jpeg)
 Mario's debut on a handheld console leaves a bit to be desired but its historical importance cannot be denied. Learn why in this Super Mario Land review!
+
+### [103. What's New in Gaming: June 2021](https://hackernoon.com/whats-new-in-gaming-june-2021-rw3435cj)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-go2b35kd.jpeg)
+Hackernoon presents the latest and interesting news, trends, and events emerging in the gaming world. Read the latest gaming industry stories on Hacker Noon, where 10k+ technologists publish stories for 4M+ monthly readers. 
 
 ### [104. Will Pokémon Legends: Arceus Live Up to the Hype?](https://hackernoon.com/will-pokemon-legends-arceus-live-up-to-the-hype)
 ![](https://cdn.hackernoon.com/images/sEVHo7GjLfYwVu0eY2zD6t877F73-zt83oay.jpeg)
 Pokémon Legends looks to be the open world makeover Pokémon fans have craved. However, mixed signals from recent trailers leave me more skeptical than hopeful. 
 
-### [105. Is the Switch Pro Really Nintendo's Next Console?](https://hackernoon.com/is-the-switch-pro-really-nintendos-next-console)
+### [105. 121 Stories To Learn About Nintendo](https://hackernoon.com/121-stories-to-learn-about-nintendo)
+![](https://cdn.hackernoon.com/images/github/nintendo-826.png)
+Learn everything you need to know about Nintendo via these 121 free HackerNoon stories.
+
+### [106. Is the Switch Pro Really Nintendo's Next Console?](https://hackernoon.com/is-the-switch-pro-really-nintendos-next-console)
 ![](https://cdn.hackernoon.com/images/4Utmua7swbeKmKkzfFUMrMiP41x2-ct92igi.jpeg)
 A look into the latest valid information regarding the Nintendo Switch Pro. 
 
-### [106. Not the Nintendo Switch Pro We Were Looking For, But it's Something](https://hackernoon.com/not-the-nintendo-switch-pro-we-were-looking-for-but-its-something-yu5437nm)
+### [107. Not the Nintendo Switch Pro We Were Looking For, But it's Something](https://hackernoon.com/not-the-nintendo-switch-pro-we-were-looking-for-but-its-something-yu5437nm)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-dngi35ba.jpeg)
 The Nintendo Switch console is getting an update. Nintendo has officially unveiled the Nintendo Switch OLED Model due out in early October.
-
-### [107. 121 Stories To Learn About Nintendo](https://hackernoon.com/121-stories-to-learn-about-nintendo)
-![](https://cdn.hackernoon.com/images/github/nintendo-826.png)
-Learn everything you need to know about Nintendo via these 121 free HackerNoon stories.
 
 ### [108. Mario Party Superstars: Why a Return to Form is the Best Thing for the Series](https://hackernoon.com/mario-party-superstars-why-a-return-to-form-is-the-best-thing-for-the-series)
 ![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-650335u.jpeg)
@@ -441,33 +445,33 @@ In exciting Smash Bros news, Kazuya from Tekken has been announced as the next D
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-p5v342t.jpeg)
 Nintendo released its end of the fiscal year results for investors this month. The Nintendo Switch and games boasted some pretty staggering sales figures.
 
-### [111. 84 Stories To Learn About Nintendo Switch](https://hackernoon.com/84-stories-to-learn-about-nintendo-switch)
-![](https://cdn.hackernoon.com/images/github/nintendo-switch-343.png)
-Learn everything you need to know about Nintendo Switch via these 84 free HackerNoon stories.
-
-### [112. The Noonification: Should the Next Nintendo Console Be a New Nintendo Switch? (3/4/2023)](https://hackernoon.com/3-4-2023-noonification)
+### [111. The Noonification: Should the Next Nintendo Console Be a New Nintendo Switch? (3/4/2023)](https://hackernoon.com/3-4-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 3/4/2023: Top 5 stories on the Hackernoon homepage!
+
+### [112. 84 Stories To Learn About Nintendo Switch](https://hackernoon.com/84-stories-to-learn-about-nintendo-switch)
+![](https://cdn.hackernoon.com/images/github/nintendo-switch-343.png)
+Learn everything you need to know about Nintendo Switch via these 84 free HackerNoon stories.
 
 ### [113. Multiple Online Retailers Restock Nintendo Switch: Mario Red & Blue Edition](https://hackernoon.com/multiple-online-retailers-restock-nintendo-switch-mario-red-and-blue-edition-txz33xp)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-ni3233ha.jpeg)
 Just in time for Nintendo Day, you can purchase the new Nintendo Switch: Mario Red & Blue Edition console at multiple online retailers.
 
-### [114. Highlights from E3 2021: Bethesda Rises Again and Nintendo Steals the Show](https://hackernoon.com/highlights-from-e3-2021-bethesda-rises-again-and-nintendo-steals-the-show-du4e37h4)
-![](https://cdn.hackernoon.com/images/VyvcKdbWHbTaN3QzRCQQS7pXASq1-a94i3584.jpeg)
-In this article, we'll discuss what HackerNoon contributors thought about the E3 2021 online conference.
-
-### [115. The Legend of Zelda: Breath of the Wild Sequel Set for 2022 Launch](https://hackernoon.com/the-legend-of-zelda-breath-of-the-wild-sequel-set-for-2022-launch-wr1a37fc)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-pp4g35ir.jpeg)
-Nintendo has officially revealed The Legend of Zelda: Breath of the Wild with a new reveal teaser at the Nintendo Direct event for E3 2021.
-
-### [116. 5 Games That Should be Ported to Modern Consoles](https://hackernoon.com/5-games-that-should-be-ported-to-modern-consoles)
+### [114. 5 Games That Should be Ported to Modern Consoles](https://hackernoon.com/5-games-that-should-be-ported-to-modern-consoles)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0vj3jnd.jpeg)
 Sometimes it feels like a lot of classic video games are stuck in the past. That's why it's nice to see older games like these get ported to modern consoles.
 
-### [117. .Hack//G.U Last Recode Rated for Nintendo Switch: Is it Coming Soon?](https://hackernoon.com/hackgu-last-recode-rated-for-nintendo-switch-is-it-coming-soon-5y2637kk)
+### [115. Highlights from E3 2021: Bethesda Rises Again and Nintendo Steals the Show](https://hackernoon.com/highlights-from-e3-2021-bethesda-rises-again-and-nintendo-steals-the-show-du4e37h4)
+![](https://cdn.hackernoon.com/images/VyvcKdbWHbTaN3QzRCQQS7pXASq1-a94i3584.jpeg)
+In this article, we'll discuss what HackerNoon contributors thought about the E3 2021 online conference.
+
+### [116. .Hack//G.U Last Recode Rated for Nintendo Switch: Is it Coming Soon?](https://hackernoon.com/hackgu-last-recode-rated-for-nintendo-switch-is-it-coming-soon-5y2637kk)
 ![](https://cdn.hackernoon.com/images/I1RqXC8kOKSDaHHAC47plKSr25v1-s3ch37q3.jpeg)
 We now know that .Hack//G.U. Last Recode COULD potentially be coming to the Nintendo Switch in the near future thanks to a leak from a very familiar place. 
+
+### [117. The Legend of Zelda: Breath of the Wild Sequel Set for 2022 Launch](https://hackernoon.com/the-legend-of-zelda-breath-of-the-wild-sequel-set-for-2022-launch-wr1a37fc)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-pp4g35ir.jpeg)
+Nintendo has officially revealed The Legend of Zelda: Breath of the Wild with a new reveal teaser at the Nintendo Direct event for E3 2021.
 
 ### [118. Nerds Talking About Fire Emblem: Three Houses](https://hackernoon.com/nerds-talking-about-fire-emblem-three-houses-w2q345q)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-iti34pz.jpeg)
@@ -497,21 +501,21 @@ During the latest Nintendo Direct, Capcom revealed new details on Monster Hunter
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-6a6a34zj.jpeg)
 Nintendo has a plethora of games on its video game systems. The HackerNoon community discusses what our favourite first-party Nintendo franchises are.
 
-### [125. Super Nintendo World at Universal Studios Japan Opens March 18th](https://hackernoon.com/super-nintendo-world-at-universal-studios-japan-opens-march-18th-ud16334u)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-v21s33m4.jpeg)
-After many delays, Super Nintendo World at Universal Studios Japan looks to finally open later this month.
-
-### [126. Which console do you think has better exclusives?](https://hackernoon.com/which-console-do-you-think-has-better-exclusives-hc19345p)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-bul29rf.jpeg)
-Exclusives have been a thing in video games for decades, and there's been a constant debate on which console has the better exclusives. Here's our preferences. 
-
-### [127. Square Enix Reveals Dragon Quest 12: The Flames of Fate](https://hackernoon.com/square-enix-reveals-dragon-quest-12-the-flames-of-fate-k9o34ju)
+### [125. Square Enix Reveals Dragon Quest 12: The Flames of Fate](https://hackernoon.com/square-enix-reveals-dragon-quest-12-the-flames-of-fate-k9o34ju)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-4t4x34xv.jpeg)
 Dragon Quest is returning. Square Enix officially confirmed the next game in the series, Dragon Quest 12: The Flames of Fate during an anniversary livestream.
 
-### [128. The Noonification: 5 Gaming Franchises That Need to Return (9/16/2024)](https://hackernoon.com/9-16-2024-noonification)
+### [126. Super Nintendo World at Universal Studios Japan Opens March 18th](https://hackernoon.com/super-nintendo-world-at-universal-studios-japan-opens-march-18th-ud16334u)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-v21s33m4.jpeg)
+After many delays, Super Nintendo World at Universal Studios Japan looks to finally open later this month.
+
+### [127. The Noonification: 5 Gaming Franchises That Need to Return (9/16/2024)](https://hackernoon.com/9-16-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_305_hkoqvzebavxoxwatu393ue14.png)
 9/16/2024: Top 5 stories on the HackerNoon homepage!
+
+### [128. Which console do you think has better exclusives?](https://hackernoon.com/which-console-do-you-think-has-better-exclusives-hc19345p)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-bul29rf.jpeg)
+Exclusives have been a thing in video games for decades, and there's been a constant debate on which console has the better exclusives. Here's our preferences. 
 
 ### [129. Tony Hawk Nintendo Switch: Pro Skater 1+2 Arriving June](https://hackernoon.com/tony-hawk-nintendo-switch-pro-skater-12-arriving-june-i813343r)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-2j834ze.jpeg)

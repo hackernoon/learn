@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [redux](https://hackernoon.com/tagged/redux)
+### Let's learn about [Redux](https://hackernoon.com/tagged/redux) via these 63 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 An open source javascript library, commonly used with libraries like React or Angular for building user interfaces. It is used for centralizing and managing application state.
 
 ### [1. Handling Loading Actions: The Proper Way in Redux](https://hackernoon.com/handling-loading-actions-the-proper-way-in-redux-t3k36e8)
@@ -87,13 +89,13 @@ INTRODUCTION
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FLJ9Zfx9Luld4QRV8mU0yiqcsw532-fi163uou.jpeg?alt=media&token=daa3cfd1-7bfe-4546-b8f2-08e156f46e5c)
 Introduction
 
-### [22. How Redux Observable Made Ajax Calls Great Again](https://hackernoon.com/how-redux-observable-made-ajax-calls-great-again-1p583y3h)
-![](https://cdn.hackernoon.com/drafts/p02cz32dy.png)
-I am building my own SaaS application using React library for the user interface. What I like about react you don’t have to use it in a SPA (single page application).
-
-### [23. More Features of the RTK Query](https://hackernoon.com/more-features-of-the-rtk-query)
+### [22. More Features of the RTK Query](https://hackernoon.com/more-features-of-the-rtk-query)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-wy93n7v.jpeg)
 Previously I wrote about RTK, this story will cover other details of its use.
+
+### [23. How Redux Observable Made Ajax Calls Great Again](https://hackernoon.com/how-redux-observable-made-ajax-calls-great-again-1p583y3h)
+![](https://cdn.hackernoon.com/drafts/p02cz32dy.png)
+I am building my own SaaS application using React library for the user interface. What I like about react you don’t have to use it in a SPA (single page application).
 
 ### [24. React-Redux Flow: Detailed Guide](https://hackernoon.com/react-redux-flow-detailed-guide-zm2k3un3)
 ![](https://cdn.hackernoon.com/drafts/v9i307e.png)
@@ -147,13 +149,13 @@ It’s been a while since I started learning JavaScript and, like other language
 ![](https://cdn.hackernoon.com/images/tVmgy1BFDcZK1c7Ty90Zue1TAN93-ix83x6m.jpeg)
 Enhance your React skills with 'The Ultimate React State Management Handbook. 
 
-### [37. The Boring React State Management Guide](https://hackernoon.com/the-boring-react-state-management-guide-ee173ufl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhdM20yUI6ChD2ed6xyFy8ggpXgT2-d16o337f.jpeg?alt=media&token=0ceace17-f14c-48cf-aa4c-0cb0a0d5145c)
-What is State?
-
-### [38. My Experience with Zustand… I Love it!](https://hackernoon.com/my-experience-with-zustand-i-love-it)
+### [37. My Experience with Zustand… I Love it!](https://hackernoon.com/my-experience-with-zustand-i-love-it)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-n993otj.jpeg)
 I just tried Zustand, and it seems very refreshing and straightforward. There's minimal boilerplate.
+
+### [38. The Boring React State Management Guide](https://hackernoon.com/the-boring-react-state-management-guide-ee173ufl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhdM20yUI6ChD2ed6xyFy8ggpXgT2-d16o337f.jpeg?alt=media&token=0ceace17-f14c-48cf-aa4c-0cb0a0d5145c)
+What is State?
 
 ### [39. How React Testing Library Can Improve Your Mental Health [Part 1]](https://hackernoon.com/how-react-testing-library-can-improve-your-mental-health-part-1-rzo31s7)
 ![](https://cdn.hackernoon.com/images/rZ3rn8qcvagyoGK9VRZZGonZwLN2-ss5c35ou.jpeg)
@@ -167,87 +169,91 @@ This article is a mix of arguments, reality checks and a code solution at the en
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-pr93q3i.jpeg)
 So, in the basic scenario when there are no needs in the redux, I will only use the hook itself without heavy libraries just for the small feature.
 
-### [42. Your Guide To Learning Redux](https://hackernoon.com/your-guide-to-learning-redux-r37e35sd)
+### [42. How We Lost 9 Months to Invisible Architecture Decay (And Fixed It in 3)](https://hackernoon.com/how-we-lost-9-months-to-invisible-architecture-decay-and-fixed-it-in-3)
+![](https://cdn.hackernoon.com/images/the-silent-killer-of-codebases-how-architecture-decision-degradation-destroys-velocity-p2zx6hrzkdpcu6yjhimumib8.png)
+Architecture Decision Degradation (ADD) quietly kills velocity. Learn how it happens, the warning signs, and how to fix it with real-world patterns.
+
+### [43. Your Guide To Learning Redux](https://hackernoon.com/your-guide-to-learning-redux-r37e35sd)
 ![](https://hackernoon.com/images/541r0RExUOQ3nFAQs7oJuST9Axf2-ke8t37c2.jpeg)
 What is Redux : A beginners guide. Redux is very important if you're using state in your web app. Especially if you're React Developer then you must learn Redux
 
-### [43. Introducing Spin: a Universal Feedback Loop System in Swift](https://hackernoon.com/introducing-spin-a-universal-feedback-loop-system-in-swift-rg2i3yab)
+### [44. Introducing Spin: a Universal Feedback Loop System in Swift](https://hackernoon.com/introducing-spin-a-universal-feedback-loop-system-in-swift-rg2i3yab)
 ![](https://cdn.hackernoon.com/drafts/1ct3kqr.png)
 The need for architectural patterns in swift applications
 
-### [44. Сurrying 101: A Quick Guide for JavaScript Devs](https://hackernoon.com/surrying-101-a-quick-guide-for-javascript-devs)
+### [45. Сurrying 101: A Quick Guide for JavaScript Devs](https://hackernoon.com/surrying-101-a-quick-guide-for-javascript-devs)
 ![](https://cdn.hackernoon.com/images/Gp8uHyvp6hehmnC1gXMD6uAheaF2-h203btt.jpeg)
 The essence of currying is simple: to take a function of any arity (number of expected arguments) and make it into a unary function.
 
-### [45. Smart Strategy To Create Login Function in React Native Using Powerful Tools](https://hackernoon.com/smart-strategy-to-create-login-function-in-react-native-using-powerful-tools-uad3tpr)
+### [46. Smart Strategy To Create Login Function in React Native Using Powerful Tools](https://hackernoon.com/smart-strategy-to-create-login-function-in-react-native-using-powerful-tools-uad3tpr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F8oZeaAPF91XePcSkRL9j69sbGbH2-ig4x19zt.jpeg?alt=media&token=b4e02bff-45cb-48f6-85de-6f8d96c4e608)
 In this post, we will see how an action can be dispatched using Redux on login, and set the app state accordingly.
 
-### [46. The Simple React and Redux Implementation Tutorial](https://hackernoon.com/the-simple-react-and-redux-implementation-tutorial-wqx3unb)
+### [47. The Simple React and Redux Implementation Tutorial](https://hackernoon.com/the-simple-react-and-redux-implementation-tutorial-wqx3unb)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FLppwspfnqfNlJXernlHBaU4zzgZ2-60133znl.webp?alt=media&token=9e7a0730-15fa-4177-9085-fcdb01aa3bb6)
 Last month I started making some implementations of Redux in some React projects. In the beginning, it took me a while to understand how to set up everything. Because it is a little complex to set up. But it will help a lot to store the data of an app.
-
-### [47. A Detailed Guide to State Management in iOS](https://hackernoon.com/the-comprehensive-guide-to-the-state-management-in-ios-d6w30to)
-![](https://cdn.hackernoon.com/drafts/zan30dy.png)
-There are many challenges in the software development, but there is one beast that tends to screw things up much more often than the others: the problem of app’s state management and data propagation.
 
 ### [48. Relay or Redux? Choosing the Right State Management Solution](https://hackernoon.com/relay-or-redux-choosing-the-right-state-management-solution)
 ![](https://cdn.hackernoon.com/images/T2HgFV42ljgj7A0M8cb7Cegcy4o1-2g93kv4.jpeg)
 In the rapidly evolving landscape of web development, understanding the differences between state management solutions is crucial. 
 
-### [49. Building a Fully Functional Youtube Clone Using Firebase, FFmpeg, And React [Part-3]](https://hackernoon.com/building-a-fully-functional-youtube-clone-using-firebase-ffmpeg-and-react-part-3)
+### [49. A Detailed Guide to State Management in iOS](https://hackernoon.com/the-comprehensive-guide-to-the-state-management-in-ios-d6w30to)
+![](https://cdn.hackernoon.com/drafts/zan30dy.png)
+There are many challenges in the software development, but there is one beast that tends to screw things up much more often than the others: the problem of app’s state management and data propagation.
+
+### [50. Building a Fully Functional Youtube Clone Using Firebase, FFmpeg, And React [Part-3]](https://hackernoon.com/building-a-fully-functional-youtube-clone-using-firebase-ffmpeg-and-react-part-3)
 ![](https://cdn.hackernoon.com/images/iHKErLv7KAegkfw3m5jwsrsy3J63-qc93n25.jpeg)
 An exact clone of youtube with all functionalities from View count to Subscribe to everything (Without Youtube Api) Using Firebase, FFmpeg, And React
 
-### [50. Why I Use RTK Query for API Calls in React](https://hackernoon.com/why-i-use-rtk-query-for-api-calls-in-react)
+### [51. Why I Use RTK Query for API Calls in React](https://hackernoon.com/why-i-use-rtk-query-for-api-calls-in-react)
 ![](https://cdn.hackernoon.com/images/bHnRlPu5SmfrpVa2FZEtXZIAmpl1-acc3eki.jpeg)
 The RTK Query part of the Redux Essentials tutorial is phenomenal, but I feel like the gem that is RTK query is getting lost. 
 
-### [51. Understanding the useState hook in React with Basic Usage](https://hackernoon.com/understanding-the-usestate-hook-in-react-with-basic-usage-iu1y3zes)
+### [52. Understanding the useState hook in React with Basic Usage](https://hackernoon.com/understanding-the-usestate-hook-in-react-with-basic-usage-iu1y3zes)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-ck103zhe.jpeg?alt=media&token=6cb83905-d8a8-4912-bc21-c14634bea34f)
 useState is a React hook function that allows us to use state and other React features without writing a class. In React every function name begins with "use". 
 
-### [52. How to Use Redux in a Project](https://hackernoon.com/how-to-use-redux-in-a-project)
+### [53. How to Use Redux in a Project](https://hackernoon.com/how-to-use-redux-in-a-project)
 ![](https://cdn.hackernoon.com/images/1W3dv3tgGtYsS9uFXn75FQWYeSE2-yb933n5.png)
 Redux is JavaScript library which is use for centralized state management .
 
-### [53. Integrating Redux to your React App — A Step by Step Guide](https://hackernoon.com/integrating-redux-to-your-react-app-a-step-by-step-guide)
+### [54. Integrating Redux to your React App — A Step by Step Guide](https://hackernoon.com/integrating-redux-to-your-react-app-a-step-by-step-guide)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-n192hwy.jpeg)
 Integrating Redux into a React application can seem like a daunting task, but with a solid understanding of the basics, it can be a breeze.
 
-### [54. IKODIX Helps to Create Admin Panel Fullstack Apps for Your Databases](https://hackernoon.com/ikodix-helps-to-create-admin-panel-fullstack-apps-for-your-databases)
+### [55. IKODIX Helps to Create Admin Panel Fullstack Apps for Your Databases](https://hackernoon.com/ikodix-helps-to-create-admin-panel-fullstack-apps-for-your-databases)
 ![](https://cdn.hackernoon.com/images/y9OVFPjdpVUENC2T7pL1sZSvNIY2-mk2eg35ws.jpeg)
 IKODIX is an online code generator for admin panel full-stack applications for any relational database. 
 
-### [55. When You Should use Redux with APIs](https://hackernoon.com/when-you-should-use-redux-with-apis-9mm3ue6)
+### [56. When You Should use Redux with APIs](https://hackernoon.com/when-you-should-use-redux-with-apis-9mm3ue6)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxhxIHrEzi3SBMYELnrv2z6bOT6D2-qr673u8x.webp?alt=media&token=7f725373-729d-4087-b5c8-14da16738d2e)
 Have you been studying React and heard about Redux at some point, right? You get interested and start learning the concepts behind Redux, everything cool until now, but then you start working on a project that makes some API calls and you start wondering, when should I use Redux?
 
-### [56. Announcing Redux-Ruleset NPM Module](https://hackernoon.com/announcing-redux-ruleset-zkq365m)
+### [57. Announcing Redux-Ruleset NPM Module](https://hackernoon.com/announcing-redux-ruleset-zkq365m)
 ![](https://cdn.hackernoon.com/images/1rp32sl.jpg)
 Managing data-flows can be quite tricky in javascript. A pattern that really fascinated me over the last years is the flux architecture from facebook. Especially the redux implementation. But redux just tells you how to store your data and how to update the state. It’s really liberal in how to manage data-flows. So really awesome data-flow middleware libs where born like redux-saga and redux-observable.
 
-### [57. Are React and RTK Query a New Easy Way for Redux?](https://hackernoon.com/are-react-and-rtk-query-a-new-easy-way-for-redux)
+### [58. Are React and RTK Query a New Easy Way for Redux?](https://hackernoon.com/are-react-and-rtk-query-a-new-easy-way-for-redux)
 ![](https://cdn.hackernoon.com/images/udqQGF1DFAZyTogTJSWSK069Y3J2-a903bou.png)
 We're figuring out how to simplify queries in react-redux using the redux toolkit. We write lightweight queries with RTK query. Is it suitable for everything? 
 
-### [58. 3 Basic Principles You MUST Know Before Using Redux](https://hackernoon.com/3-basic-principles-you-must-know-before-using-redux-es6o3y1c)
+### [59. 3 Basic Principles You MUST Know Before Using Redux](https://hackernoon.com/3-basic-principles-you-must-know-before-using-redux-es6o3y1c)
 ![](https://cdn.hackernoon.com/images/jcy1tgd.jpg)
 
 
-### [59. Why is Redux State Immutable?](https://hackernoon.com/why-is-redux-state-immutable)
+### [60. Why is Redux State Immutable?](https://hackernoon.com/why-is-redux-state-immutable)
 ![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-y7226bp.jpeg)
 This blog covers an analysis of why redux state is immutable and how you should go about modifying state in your Redux applications
 
-### [60. Get Better at Using React Library And Continuous Deployment](https://hackernoon.com/get-better-at-using-react-library-and-continuous-deployment)
+### [61. Get Better at Using React Library And Continuous Deployment](https://hackernoon.com/get-better-at-using-react-library-and-continuous-deployment)
 ![](https://cdn.hackernoon.com/images/u8zdoGfwxzbJbUMX8BISChIErgH2-dcf3oqq.jpeg)
 How To Master React Library And Continuous Deployment
 
-### [61. How to Immediately Update Components Based on User Interaction with React/Redux](https://hackernoon.com/how-to-immediately-update-components-based-on-user-interaction-with-reactredux)
+### [62. How to Immediately Update Components Based on User Interaction with React/Redux](https://hackernoon.com/how-to-immediately-update-components-based-on-user-interaction-with-reactredux)
 ![](https://cdn.hackernoon.com/images/l8IjwGiKy0f84w69douv81sBfUA2-tt93m2z.jpeg)
 How do you get the whole page to reload to show the updated data every time a user makes a change?
 
-### [62. The Importance of Writing Effective Component Tests Before Testing Redux with RTL](https://hackernoon.com/the-importance-of-writing-effective-component-tests-before-testing-redux-with-rtl)
+### [63. The Importance of Writing Effective Component Tests Before Testing Redux with RTL](https://hackernoon.com/the-importance-of-writing-effective-component-tests-before-testing-redux-with-rtl)
 ![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-xv93fs1.jpeg)
 Discover strategy to use when writing unit tests for Redux-connected components using React Testing Library (RTL).
 

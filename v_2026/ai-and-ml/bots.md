@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [bots](https://hackernoon.com/tagged/bots)
+### Let's learn about [Bots](https://hackernoon.com/tagged/bots) via these 66 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 There's no such thing as bad bots. It's just people using bots to do bad things.
 
 ### [1. How to Create and Deploy a Telegram Bot?](https://hackernoon.com/how-to-create-and-deploy-a-telegram-bot-2addd8aec6b4)
@@ -95,13 +97,13 @@ Organizations are always looking for ways to make their data analysis process mo
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-dj03uq0.jpeg)
 Facebook's aggressive crawling practiced and bad behavior of its user agent, “facebookexternalhit.” Site site owners report strain on their web hosting servers
 
-### [24. 7 AI-powered Chatbots](https://hackernoon.com/7-amazing-ai-powered-chatbots-1tr32la)
-![](https://images.unsplash.com/photo-1526045612212-70caf35c14df?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-If you’re a millennial, you’ll know SmarterChild, the first-ever instant messaging bot with natural language comprehension ability. It was developed in 2000 and demonstrated exceptional wit, which most of today’s bot cannot. SmarterChild used to chat with about 2,50,000 humans every day with funny, sad, and sarcastic emotions. Today, we’ve traveled a distance with technologies like AI, ML, NLP, etc. and bots like Xiaocle have passed Turing tests of 10 minutes (i.e. users couldn’t identify that they’re talking to a bot for about 10 minutes).
-
-### [25. Top 5 Anti-Scraping Measures You Need To Know](https://hackernoon.com/top-5-anti-scraping-measures-you-need-to-know)
+### [24. Top 5 Anti-Scraping Measures You Need To Know](https://hackernoon.com/top-5-anti-scraping-measures-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/0FC9YtxD4fbD3T7mPipOt4HSxY42-81036hx.jpeg)
 Let's dig into the most popular anti-scraping measures on the market to become a real scraping ninja!
+
+### [25. 7 AI-powered Chatbots](https://hackernoon.com/7-amazing-ai-powered-chatbots-1tr32la)
+![](https://images.unsplash.com/photo-1526045612212-70caf35c14df?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+If you’re a millennial, you’ll know SmarterChild, the first-ever instant messaging bot with natural language comprehension ability. It was developed in 2000 and demonstrated exceptional wit, which most of today’s bot cannot. SmarterChild used to chat with about 2,50,000 humans every day with funny, sad, and sarcastic emotions. Today, we’ve traveled a distance with technologies like AI, ML, NLP, etc. and bots like Xiaocle have passed Turing tests of 10 minutes (i.e. users couldn’t identify that they’re talking to a bot for about 10 minutes).
 
 ### [26. 5 Case Studies that Prove Bots Are Here to Help Businesses Scale](https://hackernoon.com/bots-have-arrived-in-the-enterprise-5-case-studies-id1p42xx)
 ![](https://cdn.hackernoon.com/drafts/xg1j42hs.png)
@@ -147,18 +149,18 @@ Check the obstacles currently standing in the way of sustainability in Web3 gami
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzgGHfhtOwcTsqtS2qCkb5T9tWLn1-7th3wmo.jpeg?alt=media&token=00e330b1-2330-454c-966b-b6f0f36f8c97)
 Don’t you think that a great many mobile apps would be a lot more convenient if they had voice control? And I don’t mean chatting with a banking bot. In most cases, voice navigation or a conversational form-filling is just enough.
 
-### [37. DOOM CAPTCHA: Are Video Games the Future of CAPTCHA?](https://hackernoon.com/doom-captcha-are-video-games-the-future-of-captcha)
-![](https://cdn.hackernoon.com/images/0FC9YtxD4fbD3T7mPipOt4HSxY42-sf031c2.png)
-Let's take a look at DOOM CAPTCHA, a trending technology in the world of human/bot distinction!
-
-### [38. The Role of Bots in API Attacks](https://hackernoon.com/the-role-of-bots-in-api-attacks)
-![](https://cdn.hackernoon.com/images/weLOES2VLegueuTvFSl0i89kWdR2-0ca3yet.jpeg)
-Currently, the total number of public and private APIs in use globally is estimated to be around 200 million. There is no way that attackers would miss them.
-
-### [39. Beyond Native Bots: Integrating Generative AI and Third-Party Intelligence into ServiceNow](https://hackernoon.com/beyond-native-bots-integrating-generative-ai-and-third-party-intelligence-into-servicenow)
+### [37. Beyond Native Bots: Integrating Generative AI and Third-Party Intelligence into ServiceNow](https://hackernoon.com/beyond-native-bots-integrating-generative-ai-and-third-party-intelligence-into-servicenow)
 ![](https://cdn.hackernoon.com/images/tC2nCPJSnhRGSWtjrfm0BZCZcez2-iy83e16.png)
 A practitioner's perspective on building enterprise-grade intelligent virtual agents that go far beyond what out-of-the-box tooling can deliver.
 
+
+### [38. DOOM CAPTCHA: Are Video Games the Future of CAPTCHA?](https://hackernoon.com/doom-captcha-are-video-games-the-future-of-captcha)
+![](https://cdn.hackernoon.com/images/0FC9YtxD4fbD3T7mPipOt4HSxY42-sf031c2.png)
+Let's take a look at DOOM CAPTCHA, a trending technology in the world of human/bot distinction!
+
+### [39. The Role of Bots in API Attacks](https://hackernoon.com/the-role-of-bots-in-api-attacks)
+![](https://cdn.hackernoon.com/images/weLOES2VLegueuTvFSl0i89kWdR2-0ca3yet.jpeg)
+Currently, the total number of public and private APIs in use globally is estimated to be around 200 million. There is no way that attackers would miss them.
 
 ### [40. IEO and Trading Bots to Help You Win Each Battle](https://hackernoon.com/ieo-and-trading-bots-to-help-you-win-each-battle-vl1ll312u)
 ![](https://cdn.hackernoon.com/images/uy1gv31x8.jpg)
@@ -193,51 +195,51 @@ Learn everything you need to know about Telegram via these 52 free HackerNoon st
 ![](https://cdn.hackernoon.com/images/fuxWrCcK6uTzYk0oPIMFkG8AbQ62-4ec3uyp.jpeg)
 In this article, we’re going to show you how to create tooling that alerts you via Telegram if your node is jailed. 
 
-### [48. Who Inhabits The Digital Grasslands?](https://hackernoon.com/who-inhabits-the-digital-grasslands)
+### [48. I Was Tired of SSH — So I Built an AI Agent That Lets Me Check My Terminal From My Phone](https://hackernoon.com/i-was-tired-of-ssh-so-i-built-an-ai-agent-that-lets-me-check-my-terminal-from-my-phone)
+![](https://cdn.hackernoon.com/images/7FXa4Fv4cBYjaDSi17nfy4TGa6j1-t483b9s.png)
+CMDOP is a lightweight agent that lets you check your terminal from your phone — through NAT, no VPN, no port forwarding.
+
+### [49. Who Inhabits The Digital Grasslands?](https://hackernoon.com/who-inhabits-the-digital-grasslands)
 ![](https://cdn.hackernoon.com/images/f8BYJeIDX3XWNp5B7R7DeBUEAUn2-b1239my.png)
 Explore the digital world's wild inhabitants—from AI agents to trojans—and learn how to stay safe in today’s bot-driven online ecosystem.
 
-### [49. Saying No to Bots is Saying No to Automation](https://hackernoon.com/why-you-should-start-using-bots-today-yss32km)
+### [50. Saying No to Bots is Saying No to Automation](https://hackernoon.com/why-you-should-start-using-bots-today-yss32km)
 ![](https://cdn.hackernoon.com/images/gndw32jb.jpg)
 Why You Should Start Using Bots Today
 
-### [50. Spam Bots and Why They Matter in Elon Musk's Twitter Deal](https://hackernoon.com/spam-bots-and-why-they-matter-in-elon-musks-twitter-deal)
+### [51. Spam Bots and Why They Matter in Elon Musk's Twitter Deal](https://hackernoon.com/spam-bots-and-why-they-matter-in-elon-musks-twitter-deal)
 ![](https://cdn.hackernoon.com/images/gx2eUSCqbve68OHi5yKdu4VzgMK2-qp93xm2.png)
 
 
-### [51. I Got Laid Off Recently, So I'm Letting Go of the Project I Believed In the Most](https://hackernoon.com/i-got-laid-off-recently-so-im-letting-go-of-the-project-i-believed-in-the-most)
+### [52. I Got Laid Off Recently, So I'm Letting Go of the Project I Believed In the Most](https://hackernoon.com/i-got-laid-off-recently-so-im-letting-go-of-the-project-i-believed-in-the-most)
 ![](https://cdn.hackernoon.com/images/uvTzvi71xVhveYmHowncWS1I8cm2-4703d70.png)
 Built with love, now up for grabs: a crypto tipping platform for GitHub devs.
 
-### [52. Building Your Own Discord Bot With Python Is Easy ](https://hackernoon.com/building-your-own-discord-bot-with-python-is-easy-pcn34w1)
+### [53. Building Your Own Discord Bot With Python Is Easy ](https://hackernoon.com/building-your-own-discord-bot-with-python-is-easy-pcn34w1)
 ![](https://cdn.hackernoon.com/images/deH2YIhcPLMTC3ynPNZ9rvPEsA62-473p34ae.jpeg)
 Create your own Discord Server in just Four Lines of Code with Python
-
-### [53. Hostile Web Bots: Why Modern Bots are Difficult to Detect and Defeat (and How to Do it Anyway)](https://hackernoon.com/hostile-web-bots-why-modern-bots-are-difficult-to-detect-and-defeat-and-how-to-do-it-anyway)
-![](https://cdn.hackernoon.com/images/hQzFNY9vmtWeNrschOtDtAGgBwa2-11b3vox.png)
-Explore the current state of hostile bots, their multifaceted applications, the ingenious ways threat actors are using them, and how to defeat them!
 
 ### [54. New AutoPost Bot Floods Guest Post Forms](https://hackernoon.com/new-autopost-bot-floods-guest-post-forms)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-f7a3va5.png)
 Unidentified bad bots begins flooding guest post submission forms with prewritten and AI generated content designed to land hyperlinks onto websites. 
 
-### [55. CI/CD Isn't Just About Efficiency](https://hackernoon.com/cicd-isnt-just-about-efficiency)
-![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-g593pik.jpeg)
-I’d like to talk about something we don’t bring up quite as often.
-
-Put simply, CI/CD makes us happy.
+### [55. Hostile Web Bots: Why Modern Bots are Difficult to Detect and Defeat (and How to Do it Anyway)](https://hackernoon.com/hostile-web-bots-why-modern-bots-are-difficult-to-detect-and-defeat-and-how-to-do-it-anyway)
+![](https://cdn.hackernoon.com/images/hQzFNY9vmtWeNrschOtDtAGgBwa2-11b3vox.png)
+Explore the current state of hostile bots, their multifaceted applications, the ingenious ways threat actors are using them, and how to defeat them!
 
 ### [56. Cloudflare's AI Labyrinth Bankrupts Data Scrapers](https://hackernoon.com/cloudflares-ai-labyrinth-bankrupts-data-scrapers)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-rx031pz.jpeg)
 Cloudflare's AI Labyrinth has Bankrupted Data Scrapers. A major scraping company lost $2.3 million in the first week after the new free tool was launched
 
-### [57. The 6 Best Platforms To Create Chatbots Without Additional Programming](https://hackernoon.com/the-6-best-platforms-to-create-chatbots-without-additional-programming-c64u37em)
+### [57. CI/CD Isn't Just About Efficiency](https://hackernoon.com/cicd-isnt-just-about-efficiency)
+![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-g593pik.jpeg)
+I’d like to talk about something we don’t bring up quite as often.
+
+Put simply, CI/CD makes us happy.
+
+### [58. The 6 Best Platforms To Create Chatbots Without Additional Programming](https://hackernoon.com/the-6-best-platforms-to-create-chatbots-without-additional-programming-c64u37em)
 ![](https://cdn.hackernoon.com/images/yF19oSEApiUFeS8PrCk7jwguRav2-yds369a.jpeg)
 Today I want to share a small review of simple platforms for creating bots without any knowledge of programming languages
-
-### [58. I Was Tired of SSH — So I Built an AI Agent That Lets Me Check My Terminal From My Phone](https://hackernoon.com/i-was-tired-of-ssh-so-i-built-an-ai-agent-that-lets-me-check-my-terminal-from-my-phone)
-![](https://cdn.hackernoon.com/images/7FXa4Fv4cBYjaDSi17nfy4TGa6j1-t483b9s.png)
-CMDOP is a lightweight agent that lets you check your terminal from your phone — through NAT, no VPN, no port forwarding.
 
 ### [59. Data Privacy In Social Media Matters and Here's Why](https://hackernoon.com/data-privacy-in-social-media-matters-and-heres-why-8g2e33mh)
 ![](https://cdn.hackernoon.com/images/Q7Ilpvu5bRN22EpJho9JEiSRxSo2-je2n33uq.jpeg)
@@ -247,21 +249,21 @@ In the past few years, privacy fears amongst social media users have augmented t
 ![](https://cdn.hackernoon.com/images/EoydxKsyF2ewqlBIICdPpPqSRLb2-aa1b31uv.jpeg)
 How To Increase Your Wordpress Security And Defend Your Applications From Automated Bots. Learn how to integrate reCAPTCHAs into Wordpress.
 
-### [61. 20 Tips for Selling on Depop App: 2021 Edition](https://hackernoon.com/20-tips-for-selling-on-depop-app-2021-edition-0a1p31rm)
+### [61. How to Build an AI-Powered WhatsApp Bot That Analyzes Images Using Python and Vision Models](https://hackernoon.com/how-i-built-an-ai-powered-whatsapp-bot-that-analyzes-images-using-python-and-vision-models)
+![](https://cdn.hackernoon.com/images/SpyyNn0DiuTGW5f8Hz85qIlQtBq1-nm03gim.png)
+This tutorial shows you how to build a WhatsApp bot that accepts images, analyzes them using AI vision models, and responds with intelligent insights. 
+
+### [62. 20 Tips for Selling on Depop App: 2021 Edition](https://hackernoon.com/20-tips-for-selling-on-depop-app-2021-edition-0a1p31rm)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fs1VuL6fho1PzUH867eZ9vOr3Nsj2-sob728nb.jpeg?alt=media&token=65e58c7b-e58c-4a8a-8b2c-a414a7d7246e)
 Selling on Depop can be your full-time job and produce fairly good money if you take it seriously.
 
-### [62. The Automated Spam War: Why Hosting Providers Only Fight Back After the Damage Is Done?](https://hackernoon.com/the-automated-spam-war-why-are-hosting-providers-only-fighting-back-after-the-damage-is-done)
+### [63. The Automated Spam War: Why Hosting Providers Only Fight Back After the Damage Is Done?](https://hackernoon.com/the-automated-spam-war-why-are-hosting-providers-only-fighting-back-after-the-damage-is-done)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-t913ucz.jpeg)
 Automated form spam that has made running a website feel like an endless game of whack-a-mole with bots
 
-### [63. Bot Strategies: Manipulating Democratic Discourse](https://hackernoon.com/bot-strategies-manipulating-democratic-discourse-j02834ie)
+### [64. Bot Strategies: Manipulating Democratic Discourse](https://hackernoon.com/bot-strategies-manipulating-democratic-discourse-j02834ie)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-tko343z.jpeg?alt=media&token=ea880d39-2b91-4f67-927d-0f074dc2bdfb)
 Two-thirds of Americans know what bots are, from a strictly negative perspective—and not without good reason. Malicious bot activity has evolved over time, from hackers using bots to infect millions of devices with malware to the more modern usage as spreaders of propaganda, fake news, and false social media accounts. 
-
-### [64. How to Build an AI-Powered WhatsApp Bot That Analyzes Images Using Python and Vision Models](https://hackernoon.com/how-i-built-an-ai-powered-whatsapp-bot-that-analyzes-images-using-python-and-vision-models)
-![](https://cdn.hackernoon.com/images/SpyyNn0DiuTGW5f8Hz85qIlQtBq1-nm03gim.png)
-This tutorial shows you how to build a WhatsApp bot that accepts images, analyzes them using AI vision models, and responds with intelligent insights. 
 
 ### [65. Streamline Bot Logic with Power Virtual Agents and PowerFX](https://hackernoon.com/streamline-bot-logic-with-power-virtual-agents-and-powerfx)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ip93plc.jpeg)

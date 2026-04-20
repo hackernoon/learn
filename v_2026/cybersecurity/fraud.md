@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [fraud](https://hackernoon.com/tagged/fraud)
+### Let's learn about [Fraud](https://hackernoon.com/tagged/fraud) via these 81 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Fraud refers to deceptive practices or misrepresentations made for personal gain, often involving financial transactions or digital systems. Understanding and combating fraud is essential for protecting individuals, businesses, and the integrity of digital economies and online interactions.
+
 ### [1. How to Avoid Credit Card Skimming: 5 Tips to Keep Your Information Safe](https://hackernoon.com/how-to-avoid-credit-card-skimming-5-tips-to-keep-your-information-safe)
 ![](https://cdn.hackernoon.com/images/FPmit8QxzXa6LLCPU0N2AMvjLCP2-um93r4d.jpeg)
 Credit card skimming occurs when someone places an electronic device on or near a credit card reader. This device captures and stores your credit card details.
@@ -97,33 +101,33 @@ Facebook, the Goliath of social networks, seems content with giving only lip ser
 ![](https://cdn.hackernoon.com/images/jn6QAFI6mFcja7QvUMwuSnXS9no1-kp93n56.jpeg)
 There are more and more altcoins. But how do you know it's not a scam? How do you know if a coin is worth paying attention to? We tell you in this column. 
 
-### [25. The Ups and Downs of the Theranos Saga](https://hackernoon.com/the-ups-and-downs-of-the-theranos-saga)
-![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-c2037hj.jpeg)
-Theranos did some things that we should imitate, but it also did some things we should avoid. What should we pick up from the story of Theranos?
-
-### [26. U.S. Virgin Islands Lawsuit Finally Calls Time On Meta’s Profitable Scam Ad Machine](https://hackernoon.com/us-virgin-islands-lawsuit-finally-calls-time-on-metas-profitable-scam-ad-machine)
+### [25. U.S. Virgin Islands Lawsuit Finally Calls Time On Meta’s Profitable Scam Ad Machine](https://hackernoon.com/us-virgin-islands-lawsuit-finally-calls-time-on-metas-profitable-scam-ad-machine)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-4o03dta.png)
 The U.S. Virgin Islands is accusing Meta of deliberately profiting from scam advertising.
 
-### [27. US v. Sam Bankman-Fried: Read in Full Unsealed Criminal Charges Filing against SBF by the SEC](https://hackernoon.com/us-v-sam-bankman-fried-read-in-full-unsealed-criminal-charges-filing-against-sbf-by-the-sec)
-![](https://cdn.hackernoon.com/images/unsealed-criminal-charges-filing-by-the-sec-against-sbf-clbpxrxd1000101s6bn1m9x82.png)
-When your nickname is in the official filing by the SEC, you know you're in big trouble. 
+### [26. The Ups and Downs of the Theranos Saga](https://hackernoon.com/the-ups-and-downs-of-the-theranos-saga)
+![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-c2037hj.jpeg)
+Theranos did some things that we should imitate, but it also did some things we should avoid. What should we pick up from the story of Theranos?
 
-### [28. How To Use Change Data Capture for Fraud Detection](https://hackernoon.com/how-to-use-change-data-capture-for-fraud-detection)
+### [27. How To Use Change Data Capture for Fraud Detection](https://hackernoon.com/how-to-use-change-data-capture-for-fraud-detection)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-xj93vpa.jpeg)
 Still relying on overnight processes to drive your decision making? Maybe it’s time to consider an evaluation of your CDC pattern that uses new technology.
+
+### [28. US v. Sam Bankman-Fried: Read in Full Unsealed Criminal Charges Filing against SBF by the SEC](https://hackernoon.com/us-v-sam-bankman-fried-read-in-full-unsealed-criminal-charges-filing-against-sbf-by-the-sec)
+![](https://cdn.hackernoon.com/images/unsealed-criminal-charges-filing-by-the-sec-against-sbf-clbpxrxd1000101s6bn1m9x82.png)
+When your nickname is in the official filing by the SEC, you know you're in big trouble. 
 
 ### [29. How Fraud Will Be Fought in the Metaverse](https://hackernoon.com/how-fraud-will-be-fought-in-the-metaverse)
 ![](https://cdn.hackernoon.com/images/WyQd3nAxXKOtiqu2H1Ygv16EdOt1-k9048g3.png)
 Everybody is talking about the metaverse. But how exactly will companies protect themselves against fraud in this new virtual world? AI is the answer. 
 
-### [30. How Artificial Intelligence is Transforming Fraud Detection in Financial Services](https://hackernoon.com/how-artificial-intelligence-is-transforming-fraud-detection-in-financial-services)
-![](https://cdn.hackernoon.com/images/6PEWadnAYmWJYSqFFjTkODbldQR2-hhi3p1k.jpeg)
-In this article, you will find the common types of financial fraud and how artificial intelligence is transforming fraud detection in financial services.
-
-### [31. Southeast Asian Casinos Are Helping Global Cybercrime](https://hackernoon.com/southeast-asian-casinos-are-helping-global-cybercrime)
+### [30. Southeast Asian Casinos Are Helping Global Cybercrime](https://hackernoon.com/southeast-asian-casinos-are-helping-global-cybercrime)
 ![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-mt82mrf.jpeg)
 In a single recent criminal investigation, Singapore police seized more than $2 billion in money laundered from a syndicate with alleged ties to organized crime
+
+### [31. How Artificial Intelligence is Transforming Fraud Detection in Financial Services](https://hackernoon.com/how-artificial-intelligence-is-transforming-fraud-detection-in-financial-services)
+![](https://cdn.hackernoon.com/images/6PEWadnAYmWJYSqFFjTkODbldQR2-hhi3p1k.jpeg)
+In this article, you will find the common types of financial fraud and how artificial intelligence is transforming fraud detection in financial services.
 
 ### [32. In Plain English: SBF allegedly misappropriated FTX Customers' Deposits to Fund Alameda](https://hackernoon.com/grand-jury-charges-sbf-with-conspiracy-to-commit-wire-fraud-on-customers)
 ![](https://cdn.hackernoon.com/images/wire-fraud-clbpx3hh0000001s6blxr2xzr.png)
@@ -149,33 +153,33 @@ ReThink Cybersecurity - Cyber Wellness  the New Healthly Livign Trend
 ![](https://cdn.hackernoon.com/images/decentralization-or-centralization-of-the-finance-system-white-boy-clamv2jao000301s61wjq1eeg.png)
 Feature Image: ‘centralization or decentralization of finance, white boy’, midjourney AI
 
-### [38. Time to MOVEit: What You Can Do After a Big Hack! ](https://hackernoon.com/time-to-moveit-what-you-can-do-after-a-big-hack)
-![](https://cdn.hackernoon.com/images/computer-hack-q4l1ytkp1u7asy3ywpvs6ndr.png)
-Over 230 companies were recently affected by a significant cyber-attack after hackers found a way to break into the MOVEit file transfer tool.
-
-### [39. Craig Wright: The Wei Dai Lies.](https://hackernoon.com/craig-wright-the-wei-dai-lies)
+### [38. Craig Wright: The Wei Dai Lies.](https://hackernoon.com/craig-wright-the-wei-dai-lies)
 ![](https://cdn.hackernoon.com/images/CAcyW0TDYpO2jN4akOzK89C58H03-p082vqn.jpeg)
 And again, our cosplaying con man Craig Wright just can’t keep a Bitcoin origin story straight.
 
-### [40. The Holidays are Here! Beware of Chargebacks](https://hackernoon.com/the-holidays-are-here-beware-of-chargebacks)
-![](https://cdn.hackernoon.com/images/kxV4mNREhncO3nMdm91HbMWoVEv2-tja3pnd.jpeg)
-Holiday season helps to maximize sales but also comes with more chargebacks and fraud orders. Merchants today must make every effort to detect and avoid fraud
+### [39. Time to MOVEit: What You Can Do After a Big Hack! ](https://hackernoon.com/time-to-moveit-what-you-can-do-after-a-big-hack)
+![](https://cdn.hackernoon.com/images/computer-hack-q4l1ytkp1u7asy3ywpvs6ndr.png)
+Over 230 companies were recently affected by a significant cyber-attack after hackers found a way to break into the MOVEit file transfer tool.
 
-### [41. The Crypto Space is Rife With Scams - How Do You Avoid Falling for One?](https://hackernoon.com/the-crypto-space-is-rife-with-scams-how-do-you-avoid-falling-for-one)
+### [40. The Crypto Space is Rife With Scams - How Do You Avoid Falling for One?](https://hackernoon.com/the-crypto-space-is-rife-with-scams-how-do-you-avoid-falling-for-one)
 ![](https://cdn.hackernoon.com/images/iwYYV1LriEaT7d6rN7rWN595K7w1-3893nbw.jpeg)
 Those who prefer to keep their funds safe should keep a sharp eye out for potential perils in the crypto sphere.
 
-### [42. Waiting for Your Tax Refund? Don't Fall for These Scams](https://hackernoon.com/waiting-for-your-tax-refund-dont-fall-for-these-scams)
+### [41. The Holidays are Here! Beware of Chargebacks](https://hackernoon.com/the-holidays-are-here-beware-of-chargebacks)
+![](https://cdn.hackernoon.com/images/kxV4mNREhncO3nMdm91HbMWoVEv2-tja3pnd.jpeg)
+Holiday season helps to maximize sales but also comes with more chargebacks and fraud orders. Merchants today must make every effort to detect and avoid fraud
+
+### [42. A Buyer's Guide To Cyber Insurance, Cyber Liability, and Fraud Protection](https://hackernoon.com/a-buyers-guide-to-cyber-insurance-cyber-liability-and-fraud-protection-h0c837n3)
+![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-2c8336vq.jpeg)
+Cyber insurance can be a great way to protect your company against cybersecurity risks like fraud. But what are you liable for and what does insurance cover?
+
+### [43. Waiting for Your Tax Refund? Don't Fall for These Scams](https://hackernoon.com/waiting-for-your-tax-refund-dont-fall-for-these-scams)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-ue832ku.jpeg)
 As taxpayers wait for refunds, they should keep their guard up; scams don't end after the filing deadline. Here are the scam warning signs to watch out for.
 
-### [43. 49 Stories To Learn About Fraud](https://hackernoon.com/49-stories-to-learn-about-fraud)
+### [44. 49 Stories To Learn About Fraud](https://hackernoon.com/49-stories-to-learn-about-fraud)
 ![](https://cdn.hackernoon.com/images/github/fraud-477.png)
 Learn everything you need to know about Fraud via these 49 free HackerNoon stories.
-
-### [44. A Buyer's Guide To Cyber Insurance, Cyber Liability, and Fraud Protection](https://hackernoon.com/a-buyers-guide-to-cyber-insurance-cyber-liability-and-fraud-protection-h0c837n3)
-![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-2c8336vq.jpeg)
-Cyber insurance can be a great way to protect your company against cybersecurity risks like fraud. But what are you liable for and what does insurance cover?
 
 ### [45. How Machine Learning is Transforming Biotech](https://hackernoon.com/how-machine-learning-is-transforming-biotech)
 ![](https://cdn.hackernoon.com/images/kwPnBZ4vScOSaFyo89lXKtiYOGE3-q592i6t.jpeg)
@@ -205,25 +209,25 @@ Venture capital investments are risky because of disingenuous startup founders. 
 ![](https://cdn.hackernoon.com/images/commodities-fraud-clbq6zi6p000101s623kb9pxk.png)
 Commodities fraud refer to possible price manipulation of digital assets. 
 
-### [52. The Future of Fraud: Preparing for the Fraud of Tomorrow](https://hackernoon.com/the-future-of-fraud-preparing-for-the-fraud-of-tomorrow)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1l93na8.jpeg)
-From the advent of Web 3.0 solutions to the rise of AI systems, there’s now growing concern that these modern solutions could soon be used against us.
-
-### [53. How to Design a Fraud-Resistant Hiring Process for Remote Teams](https://hackernoon.com/how-to-design-a-fraud-resistant-hiring-process-for-remote-teams)
+### [52. How to Design a Fraud-Resistant Hiring Process for Remote Teams](https://hackernoon.com/how-to-design-a-fraud-resistant-hiring-process-for-remote-teams)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-m30383a.jpeg)
 Remote work has opened the floodgates to fraudulent applicants. To avoid these threats, companies must design hiring processes that combat fraud.
 
-### [54. How to Prevent Fraudulent Credit Card Use](https://hackernoon.com/how-to-prevent-fraudulent-credit-card-use)
+### [53. The Future of Fraud: Preparing for the Fraud of Tomorrow](https://hackernoon.com/the-future-of-fraud-preparing-for-the-fraud-of-tomorrow)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1l93na8.jpeg)
+From the advent of Web 3.0 solutions to the rise of AI systems, there’s now growing concern that these modern solutions could soon be used against us.
+
+### [54. SBF knowingly 'devised a scheme' to defraud Alameda investors, per Grand Jury Indictment ](https://hackernoon.com/sbf-knowingly-devised-a-scheme-to-defraud-alameda-investors-per-grand-jury-indictment)
+![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-gn93qdg.jpeg)
+Among the 8 counts of charges against SBF, this is Count 3 - conspiracy to commit Wire Fraud against lenders. 
+
+### [55. How to Prevent Fraudulent Credit Card Use](https://hackernoon.com/how-to-prevent-fraudulent-credit-card-use)
 ![](https://cdn.hackernoon.com/images/3q9BbFdldvgJCloYVOtUJ7Y0Xsq2-xb037tj.jpeg)
 A stolen credit card is unlikely to cost you huge monetary loss and will be a major hassle, which is why it’s critical to take precautions in the first place.
 
-### [55. Are NFTs Used in Money Laundering Schemes?](https://hackernoon.com/are-nfts-used-in-money-laundering-schemes)
+### [56. Are NFTs Used in Money Laundering Schemes?](https://hackernoon.com/are-nfts-used-in-money-laundering-schemes)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-ye93ixf.jpeg)
 There’s a lot of buzz around non-fungible tokens (NFTs), especially in the last year and even recently. Hundreds of — maybe thousands — projects and marketplaces are initiated across the world every new day. Even though Ethereum remains the major blockchain network for minting NFTs, new blockchains are popping up for the same purpose.
-
-### [56. SBF knowingly 'devised a scheme' to defraud Alameda investors, per Grand Jury Indictment ](https://hackernoon.com/sbf-knowingly-devised-a-scheme-to-defraud-alameda-investors-per-grand-jury-indictment)
-![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-gn93qdg.jpeg)
-Among the 8 counts of charges against SBF, this is Count 3 - conspiracy to commit Wire Fraud against lenders. 
 
 ### [57. Fighting Fraud: How to Better Protect Your Exchange Held Assets?](https://hackernoon.com/fighting-fraud-how-to-better-protect-your-exchange-held-assets-h9x3zlw)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0QUQpD0VCsgAaYPa5e24rYsNMx62-ol6a3wwc.jpeg?alt=media&token=f638f5ab-882a-49b2-a41d-4e784e250463)
@@ -237,25 +241,25 @@ Anti-fraud platforms use strict rules to detect cookie stuffing, checking change
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRKMlJx8lfbWMC35XuP6ocaanBzi1-0kk3w0m.jpeg?alt=media&token=3d4a2ad6-1e61-4564-8a4a-57a958f529dd)
 It’s fair to say that most of the marketing predictions for 2020 were somewhat scuppered by the Covid-19 pandemic. 
 
-### [60. Englishman Who Fooled America](https://hackernoon.com/englishman-who-fooled-america-y71c3u8c)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-els3ut3.gif?alt=media&token=ffb21807-cd01-48ab-9712-c72231e7be4e)
-
-
-### [61. Preventing Fraud in Fintech](https://hackernoon.com/preventing-fraud-in-fintech)
-![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-hy93pgb.jpeg)
-The fintech industry is a prime target for fraudsters. Here are 4 methods of fraud prevention in the industry.
-
-### [62. How to Prevent Coupon and Promo Fraud](https://hackernoon.com/how-to-prevent-coupon-and-promo-fraud)
+### [60. How to Prevent Coupon and Promo Fraud](https://hackernoon.com/how-to-prevent-coupon-and-promo-fraud)
 ![](https://cdn.hackernoon.com/images/kxV4mNREhncO3nMdm91HbMWoVEv2-hx93p0u.jpeg)
 What is coupon fraud? How to combat coupon abuse and prevent coupon fraud that keep your business safe?
 
-### [63. Unemployment Insurance Fraud Rose During the Pandemic ](https://hackernoon.com/unemployment-insurance-fraud-rose-during-the-pandemic)
-![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-e0c2h34.jpeg)
-A ProPublica investigation reveals that much of the fraud has been organized — both in the U.S. and abroad.
+### [61. Englishman Who Fooled America](https://hackernoon.com/englishman-who-fooled-america-y71c3u8c)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-els3ut3.gif?alt=media&token=ffb21807-cd01-48ab-9712-c72231e7be4e)
 
-### [64. The Power of Market Disruption: How to Detect Fraud With Graph Data](https://hackernoon.com/the-power-of-market-disruption-how-to-detect-fraud-with-graph-data)
+
+### [62. Preventing Fraud in Fintech](https://hackernoon.com/preventing-fraud-in-fintech)
+![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-hy93pgb.jpeg)
+The fintech industry is a prime target for fraudsters. Here are 4 methods of fraud prevention in the industry.
+
+### [63. The Power of Market Disruption: How to Detect Fraud With Graph Data](https://hackernoon.com/the-power-of-market-disruption-how-to-detect-fraud-with-graph-data)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-eb03ecq.png)
 Market disruptors pave the way for innovation and break barriers once considered bulletproof. PuppyGraph uses market disruption and graph data to detect fraud.
+
+### [64. Unemployment Insurance Fraud Rose During the Pandemic ](https://hackernoon.com/unemployment-insurance-fraud-rose-during-the-pandemic)
+![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-e0c2h34.jpeg)
+A ProPublica investigation reveals that much of the fraud has been organized — both in the U.S. and abroad.
 
 ### [65. Why Phone Malware Is Still A Problem](https://hackernoon.com/why-phone-malware-is-still-a-problem)
 ![](https://cdn.hackernoon.com/images/RKMlJx8lfbWMC35XuP6ocaanBzi1-90a3gzt.jpeg)
@@ -265,29 +269,29 @@ Mobile malware has grown to be a $100 billion problem. From ad fraud to data the
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-ku93q0v.jpeg)
 As John Ray said, it's just plain old embezzlement, and not the sophisticated type.  
 
-### [67. Can Blockchain Technology Put an End to Electoral Fraud?](https://hackernoon.com/can-blockchain-technology-put-an-end-to-electoral-fraud)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-ik93ipu.jpeg)
-There’s been a huge buzz around blockchain technology lately, and it seems the whole world’s catching the fever. With all the hype that Web3 is getting, it doesn’t look like the global buzz will end anytime soon.
-
-### [68. Deepfake Scams Are Getting Too Good: Would You Fall for One?](https://hackernoon.com/deepfake-scams-are-getting-too-good-would-you-fall-for-one)
+### [67. Deepfake Scams Are Getting Too Good: Would You Fall for One?](https://hackernoon.com/deepfake-scams-are-getting-too-good-would-you-fall-for-one)
 ![](https://cdn.hackernoon.com/images/lmVJUSxzywboNoJRb9HpnrCPFFD2-du038yp.png)
 Deepfake scams are fooling pros with AI-generated voices and faces. Learn how they work, and how to spot and stop them before it’s too late.
+
+### [68. Can Blockchain Technology Put an End to Electoral Fraud?](https://hackernoon.com/can-blockchain-technology-put-an-end-to-electoral-fraud)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-ik93ipu.jpeg)
+There’s been a huge buzz around blockchain technology lately, and it seems the whole world’s catching the fever. With all the hype that Web3 is getting, it doesn’t look like the global buzz will end anytime soon.
 
 ### [69. Protect Your Phone: How Cybercriminals Can Swipe Your Cash](https://hackernoon.com/protect-your-phone-how-cybercriminals-can-swipe-your-cash)
 ![](https://cdn.hackernoon.com/images/1gLiUUcjWqRmuMqSPwYfDt8f1Pr1-2u93wpw.jpeg)
 SIM swapping persists as a longstanding issue primarily due to scammers consistently identifying individuals to defraud.
 
-### [70. BitClout Founder Nader Al-Naji Charged with Fraud: SEC and DOJ Unveil $250M Scandal](https://hackernoon.com/bitclout-founder-nader-al-naji-charged-with-fraud-sec-and-doj-unveil-$250m-scandal)
-![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-bg83a4l.jpeg)
-Founder of BitClout and DeSo Charged with Defrauding Investors in $250 Million Scandal.
+### [70. Your Django Site Can Get Banned for Ad Fraud You Didn’t Commit](https://hackernoon.com/your-django-site-can-get-banned-for-ad-fraud-you-didnt-commit)
+![](https://cdn.hackernoon.com/images/ba4rLX7JElaDPxKSilJGsb1NTn33-3y03dik.png)
+A real case where abnormal ad impression patterns on a Django site nearly caused an ad network ban — and the application-level mitigation that reduced the risk.
 
 ### [71. Per Grand Jury, SBF *knowingly* misappropriates FTX customers' deposits to fund Alameda](https://hackernoon.com/per-grand-jury-sbf-knowingly-misappropriates-ftx-customers-deposits-to-fund-alameda)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-u793qnq.jpeg)
 SBF is accused of not only conspiring to commit wire fraud but also having committed wire fraud against FTX customers, per criminal charges by the SEC.
 
-### [72. Your Django Site Can Get Banned for Ad Fraud You Didn’t Commit](https://hackernoon.com/your-django-site-can-get-banned-for-ad-fraud-you-didnt-commit)
-![](https://cdn.hackernoon.com/images/ba4rLX7JElaDPxKSilJGsb1NTn33-3y03dik.png)
-A real case where abnormal ad impression patterns on a Django site nearly caused an ad network ban — and the application-level mitigation that reduced the risk.
+### [72. BitClout Founder Nader Al-Naji Charged with Fraud: SEC and DOJ Unveil $250M Scandal](https://hackernoon.com/bitclout-founder-nader-al-naji-charged-with-fraud-sec-and-doj-unveil-$250m-scandal)
+![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-bg83a4l.jpeg)
+Founder of BitClout and DeSo Charged with Defrauding Investors in $250 Million Scandal.
 
 ### [73. How Online Merchants Can Reduce Credit Card Fraud](https://hackernoon.com/how-online-merchants-can-reduce-credit-card-fraud-4d3s31ey)
 ![](https://cdn.hackernoon.com/images/kxV4mNREhncO3nMdm91HbMWoVEv2-gn2o31xd.jpeg)
@@ -313,15 +317,15 @@ Internet fraud has been growing. From credit card fraud and fake users to ad fra
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-jy93x1f.jpeg)
 Insider threats are becoming more prevalent in the digital threat landscape. How can nonprofits that require copious outside assistance keep data safe?
 
-### [79. US Senators Raise the Alarm on North Korea’s Crypto Misuse](https://hackernoon.com/us-senators-raise-the-alarm-on-north-koreas-crypto-misuse)
+### [79. The $500 Fraud Tax: The Most Expensive Subscription You Never Signed Up For](https://hackernoon.com/the-$500-fraud-tax-the-most-expensive-subscription-you-never-signed-up-for)
+![](https://cdn.hackernoon.com/images/avGqkMatGKV9PoqFmbhu83bXR5E3-iq03a3w.png)
+Fraud costs everyone: $6T globally, $500 per U.S. household. It’s the hidden tax draining wallets, businesses, and innovation—without you signing up. 
+
+### [80. US Senators Raise the Alarm on North Korea’s Crypto Misuse](https://hackernoon.com/us-senators-raise-the-alarm-on-north-koreas-crypto-misuse)
 ![](https://cdn.hackernoon.com/images/FxOPrOy8iKSOrQnduKodRq32HnQ2-9693u3n.jpeg)
 US senators probe North Korea's crypto use for nuclear programs. As tech evolves, ethical values and people empowerment are vital for effective solutions.
 
-### [80. Sam Bankman-Fried's Bail Has Been Revoked Allegedly Due to Witness Tampering](https://hackernoon.com/sam-bankman-frieds-bail-has-been-revoked-allegedly-due-to-witness-tampering)
+### [81. Sam Bankman-Fried's Bail Has Been Revoked Allegedly Due to Witness Tampering](https://hackernoon.com/sam-bankman-frieds-bail-has-been-revoked-allegedly-due-to-witness-tampering)
 ![](https://cdn.hackernoon.com/images/FxOPrOy8iKSOrQnduKodRq32HnQ2-tk93tkd.jpeg)
 Cryptocurrency mogul faces trial; accusations of witness tampering and fraud surface.
-
-### [81. The $500 Fraud Tax: The Most Expensive Subscription You Never Signed Up For](https://hackernoon.com/the-$500-fraud-tax-the-most-expensive-subscription-you-never-signed-up-for)
-![](https://cdn.hackernoon.com/images/avGqkMatGKV9PoqFmbhu83bXR5E3-iq03a3w.png)
-Fraud costs everyone: $6T globally, $500 per U.S. household. It’s the hidden tax draining wallets, businesses, and innovation—without you signing up. 
 

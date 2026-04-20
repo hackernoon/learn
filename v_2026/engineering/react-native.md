@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [react-native](https://hackernoon.com/tagged/react-native)
+### Let's learn about [React Native](https://hackernoon.com/tagged/react-native) via these 275 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 In case you wanted to complicate native app development by adding web-based technologies.
 
 ### [1. React Native: How to Setup Your First App](https://hackernoon.com/react-native-how-to-setup-your-first-app-a36c450a8a2f)
@@ -165,21 +167,21 @@ Here are 7 best hybrid mobile app development frameworks you should start using 
 ![](https://cdn.hackernoon.com/drafts/0m4ti32vk.png)
 It is not wrong if we say that we are living on our mobile phone screens and our world has been succumbed within mobile phone applications. There is a huge development market for smart phone application development. There have been popular mobile applications generating revenue cycles that are hard to ignore. Some of the popular mobile phone applications in the running are: Facebook, Instagram, Pinterest, Snapchat, etc.
 
-### [41. Top 5 React Native Starter Kits to Try | Review Guide 2021](https://hackernoon.com/top-5-react-native-starter-kits-to-try-or-review-guide-2021-xeg31dx)
+### [41. How To Build a WhatsApp Clone in React Native: Beginner’s Guide [Part 2]](https://hackernoon.com/how-to-build-a-whatsapp-clone-in-react-native-beginners-guide-part-2)
+![](https://cdn.hackernoon.com/images/iHKErLv7KAegkfw3m5jwsrsy3J63-fm837k9.jpeg)
+A Non-Comparable WhatsApp Clone made using react-native (Expo) and Firebase
+
+### [42. Top 5 React Native Starter Kits to Try | Review Guide 2021](https://hackernoon.com/top-5-react-native-starter-kits-to-try-or-review-guide-2021-xeg31dx)
 ![](https://cdn.hackernoon.com/images/CPZcQZuKTIRNEmHkkkOCBTvsTyd2-taeh34uw.jpeg)
 Top 5 React Native starter kits with all ready-to-use components to build your first mobile app faster.
 
-### [42. No Mac, No Problem: How to Write Native iOS Apps, Sans Apple](https://hackernoon.com/no-mac-no-problem-how-to-write-native-ios-apps-sans-apple-tma73wqf)
+### [43. No Mac, No Problem: How to Write Native iOS Apps, Sans Apple](https://hackernoon.com/no-mac-no-problem-how-to-write-native-ios-apps-sans-apple-tma73wqf)
 ![](https://cdn.hackernoon.com/drafts/8s823z26.png)
 Photo by Thomas William on Unsplash
 
-### [43. Build a Simple Todo App with React Native and TypeScript](https://hackernoon.com/build-a-simple-todo-app-with-react-native-and-typescript)
+### [44. Build a Simple Todo App with React Native and TypeScript](https://hackernoon.com/build-a-simple-todo-app-with-react-native-and-typescript)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-lf93yuq.jpeg)
 How To Setup React Native and Create a Simple ToDo App
-
-### [44. How To Build a WhatsApp Clone in React Native: Beginner’s Guide [Part 2]](https://hackernoon.com/how-to-build-a-whatsapp-clone-in-react-native-beginners-guide-part-2)
-![](https://cdn.hackernoon.com/images/iHKErLv7KAegkfw3m5jwsrsy3J63-fm837k9.jpeg)
-A Non-Comparable WhatsApp Clone made using react-native (Expo) and Firebase
 
 ### [45. Send Push Notifications via OneSignal by Building a React Native app [A How-To Guide]](https://hackernoon.com/send-push-notifications-via-onesignal-by-building-a-react-native-app-a-how-to-guide-pyag322r)
 ![](https://cdn.hackernoon.com/images/pe5x28zq.jpg)
@@ -217,15 +219,15 @@ React is a JavaScript library developed by Facebook for building modern applicat
 ![](https://cdn.hackernoon.com/images/JKdKyQvIDYXgoO2zfYAgaimo6qH2-9sb3uu8.jpeg)
 Are you frustrated to run same scripts again & again before resuming your work?? Here is a simple solution to automate starting those scripts before you start.
 
-### [54. What Are The Best Cross-Platform App Development Frameworks: 2020 Edition](https://hackernoon.com/what-are-the-best-cross-platform-app-development-frameworks-2020-edition-mq143urc)
+### [54. Optimizing React Native Project Structure: The Modular Architecture Approach](https://hackernoon.com/optimizing-react-native-project-structure-the-modular-architecture-approach)
+![](https://cdn.hackernoon.com/images/raD3IjEsJBWIqwoxcjk2om7YGHm1-jai3bzh.jpeg)
+Streamline React Native projects with modular architecture for better organization and efficiency."
+
+### [55. What Are The Best Cross-Platform App Development Frameworks: 2020 Edition](https://hackernoon.com/what-are-the-best-cross-platform-app-development-frameworks-2020-edition-mq143urc)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHxX5zpJrSjbKoBatGSx5asOP36H2-9f8u3uxh.jpeg?alt=media&token=29ecd577-ae8d-4b93-93c0-4ce3daac94ec)
 Written by Yuriy Luchaninov, JavaScript Group Leader at MobiDev.
 
 Microsoft replaced React Native with Electron for a new version of Skype on Windows 10. Meanwhile, the Shopify engineering team decided to build all-new mobile apps using React Native. While the Google team is releasing a new version of Dart DevTools for performance analysis and debugging of Flutter code, Microsoft is working on .NET MAUI - the next generation framework for building native cross-platform apps across mobile and desktop. 
-
-### [55. Optimizing React Native Project Structure: The Modular Architecture Approach](https://hackernoon.com/optimizing-react-native-project-structure-the-modular-architecture-approach)
-![](https://cdn.hackernoon.com/images/raD3IjEsJBWIqwoxcjk2om7YGHm1-jai3bzh.jpeg)
-Streamline React Native projects with modular architecture for better organization and efficiency."
 
 ### [56. Embedding Phaser3 Games into  React 18 Function Components with useEffects](https://hackernoon.com/embedding-phaser3-games-into-react-18-function-components-with-useeffects)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-g792hi9.jpeg)
@@ -303,65 +305,65 @@ I just started learning React Native and I have to admit that, it’s super easy
 ![](https://cdn.hackernoon.com/images/9hxBW3C9X2fGSRUEBo7K2WIOiQt2-8ph37uc.png)
 We built an opensource alternative of Google Photos using react-native, to showcase the project "box", which aims to liberate people's data and privacy by web3
 
-### [75. Ionic vs React Native: What to go For When Building a Mobile App](https://hackernoon.com/ionic-vs-react-native-what-to-go-for-when-building-a-mobile-app)
+### [75. The AI Revolution Is Putting Flutter and React Native at Risk](https://hackernoon.com/the-ai-revolution-is-putting-flutter-and-react-native-at-risk)
+![](https://capk.me/api/publications/flutter-and-rn-wont-survive/images/hero.jpg)
+Cross-platform frameworks solved yesterday's problem. In the AI era, spec-first development with native code generation may be the smarter approach.
+
+### [76. Ionic vs React Native: What to go For When Building a Mobile App](https://hackernoon.com/ionic-vs-react-native-what-to-go-for-when-building-a-mobile-app)
 ![](https://cdn.hackernoon.com/images/xWx1eln9Ida9r216TnPyHFrKw1J2-xpd3jvs.jpeg)
 In this article, we compare Frameworks: Ionic vs React Native, and learn about what the better option is for your usecase.
 
-### [76. Who Would Win Between Flutter and React Native](https://hackernoon.com/who-would-win-between-flutter-and-react-native)
+### [77. Who Would Win Between Flutter and React Native](https://hackernoon.com/who-would-win-between-flutter-and-react-native)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-6j931yx.jpeg)
 This Flutter Vs. React Native comparison is going to be fun so stick with me till the end and you will have an answer to which one's worthy of your app idea.
 
-### [77. How to Build a Live Video Streaming App Using the Agora React Native SDK](https://hackernoon.com/how-to-build-a-live-video-streaming-app-using-the-agora-react-native-sdk)
+### [78. How to Build a Live Video Streaming App Using the Agora React Native SDK](https://hackernoon.com/how-to-build-a-live-video-streaming-app-using-the-agora-react-native-sdk)
 ![](https://cdn.hackernoon.com/images/vWYxlvCtYLdrvKGaEfm2hYijrQL2-5wc3hoh.png)
 In this article, we will create a live broadcasting app that can accommodate numerous broadcasters and entertain thousands of users using the Agora Video SDK.
 
-### [78. The New Next.js and SWR Clients: What You Need to Know](https://hackernoon.com/the-new-nextjs-and-swr-clients-what-you-need-to-know)
+### [79. The New Next.js and SWR Clients: What You Need to Know](https://hackernoon.com/the-new-nextjs-and-swr-clients-what-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-yf93os5.jpeg)
 So that's it, we are now using SWR as our default data fetching library, giving you all the benefits, like optimistic updates while consuming WunderGraph APIs. 
 
-### [79. Building a Bitcoin Wallet from Scratch: Two Months of Solo Development Insights](https://hackernoon.com/building-a-bitcoin-wallet-from-scratch-two-months-of-solo-development-insights)
+### [80. Building a Bitcoin Wallet from Scratch: Two Months of Solo Development Insights](https://hackernoon.com/building-a-bitcoin-wallet-from-scratch-two-months-of-solo-development-insights)
 ![](https://cdn.hackernoon.com/images/1z4Rle7v7uTe9oXU49KOC4NcmO22-bw73wg4.webp)
 Follow my solo journey building a Bitcoin wallet from scratch. Technical challenges, architecture decisions, and lessons learned over two months of development.
 
-### [80. Showing Video Ads in React Native - Part 2: Android (including Audio Play)](https://hackernoon.com/showing-video-ads-in-react-native-part-2-android-including-audio-play)
+### [81. Showing Video Ads in React Native - Part 2: Android (including Audio Play)](https://hackernoon.com/showing-video-ads-in-react-native-part-2-android-including-audio-play)
 ![](https://cdn.hackernoon.com/images/kofGrn4RZVOGnCwWDKl8zCB0yz02-xf93gzq.jpeg)
 This is a step by step guide on how to show video ads in react native on Android devices with audio play and other relevant features to monetise your app easily
-
-### [81. To go (or not to go) React Native way](https://hackernoon.com/to-go-or-not-to-go-react-native-way-70513ca5e871)
-![](https://hackernoon.com/hn-images/1*UYDCNBLjs8XqUgnqjXmzAQ.png)
-Instead, just strong and weak sides of that JavaScript framework (as any other technology has) and certain use cases to consider. And we are here to tell you about that:)
 
 ### [82. Extract Prominent Colors from an Image Using Machine Learning](https://hackernoon.com/extract-prominent-colors-from-an-image-using-machine-learning-vy2w33rx)
 ![](https://cdn.hackernoon.com/images/R6507c4EXKgxg9k3n3jShT2bxz73-zop53tcf.jpeg)
 This article explains how I found a nice and simple algorithm to extract prominent colors out of an image.
 
-### [83. Premium Chat Module For Your React Native App](https://hackernoon.com/premium-chat-module-for-your-react-native-app-cv2n3uus)
+### [83. To go (or not to go) React Native way](https://hackernoon.com/to-go-or-not-to-go-react-native-way-70513ca5e871)
+![](https://hackernoon.com/hn-images/1*UYDCNBLjs8XqUgnqjXmzAQ.png)
+Instead, just strong and weak sides of that JavaScript framework (as any other technology has) and certain use cases to consider. And we are here to tell you about that:)
+
+### [84. Premium Chat Module For Your React Native App](https://hackernoon.com/premium-chat-module-for-your-react-native-app-cv2n3uus)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-s33328zt.png?alt=media&token=33f316df-135d-4d78-aafc-09c626f5d641)
 At Instamobile, we’re building a ton of complex features to save time and energy for React Native developers across the world. One of these complex features is the chat functionality, which is a must have in almost all mobile apps nowadays. In this tutorial, we’ll learn how to add a React Native Chat into any mobile app with only a few lines of code.
 
-### [84. Localizing Your React-Native App [A How-To Guide]](https://hackernoon.com/localizing-your-react-native-app-a-how-to-guide-mm2o3y8t)
+### [85. Localizing Your React-Native App [A How-To Guide]](https://hackernoon.com/localizing-your-react-native-app-a-how-to-guide-mm2o3y8t)
 ![](https://cdn.hackernoon.com/images/8vpb3wde.jpg)
 Localization means adapting your app’s translations to suite your customers’ specific country or region. Supporting multiple languages (including RTL) is a critical feature for any successful mobile app, since it opens up the user base to a much larger pool of people, and also improves the user experience tremendously.
 
-### [85. Flutter vs. React Native - What to Choose in 2021?](https://hackernoon.com/flutter-vs-react-native-what-to-choose-in-2021-ik1n35ta)
-![](https://cdn.hackernoon.com/images/QRGNf4u0yOPOCrZZP30RqX23xeG2-dk573349.jpeg)
-With many startups choosing Flutter for MVP development recently, React Native is facing tough competition from Flutter.
-
-### [86. A Beginner's Guide To Using React Native Camera](https://hackernoon.com/a-beginners-guide-to-using-react-native-camera-aj243xwn)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-av1b28oq.png?alt=media&token=a858f5fb-6631-47ac-b2e6-0e6d22c6e00c)
-Capturing Memories! Camera in our smartphones allows us to quickly capture amazing moments in our lives. Moments which we most likely can never return to, but we can safely capture them up in the form of photos and videos. 
-
-### [87. A Guide to Embedding and Playing YouTube Videos in React Native Apps](https://hackernoon.com/a-guide-to-embedding-and-playing-youtube-videos-in-react-native-apps-ef4y3308)
+### [86. A Guide to Embedding and Playing YouTube Videos in React Native Apps](https://hackernoon.com/a-guide-to-embedding-and-playing-youtube-videos-in-react-native-apps-ef4y3308)
 ![](https://cdn.hackernoon.com/images/TIJzydIu3tguQ0D6uODERgXfGTW2-vqc3o9s.jpeg)
 Embedding and playing YouTube videos in your React Native app is seamless and a more affordable way of displaying videos in your app
 
-### [88. How to Boost Your Coding Productivity with Plop](https://hackernoon.com/how-to-boost-your-coding-productivity-with-plop-hr1t3u2c)
+### [87. Flutter vs. React Native - What to Choose in 2021?](https://hackernoon.com/flutter-vs-react-native-what-to-choose-in-2021-ik1n35ta)
+![](https://cdn.hackernoon.com/images/QRGNf4u0yOPOCrZZP30RqX23xeG2-dk573349.jpeg)
+With many startups choosing Flutter for MVP development recently, React Native is facing tough competition from Flutter.
+
+### [88. A Beginner's Guide To Using React Native Camera](https://hackernoon.com/a-beginners-guide-to-using-react-native-camera-aj243xwn)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-av1b28oq.png?alt=media&token=a858f5fb-6631-47ac-b2e6-0e6d22c6e00c)
+Capturing Memories! Camera in our smartphones allows us to quickly capture amazing moments in our lives. Moments which we most likely can never return to, but we can safely capture them up in the form of photos and videos. 
+
+### [89. How to Boost Your Coding Productivity with Plop](https://hackernoon.com/how-to-boost-your-coding-productivity-with-plop-hr1t3u2c)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-kb123uz5.jpeg?alt=media&token=e872ed8e-c1f8-4d95-afde-251e7d023abe)
 I can’t remember when I first heard the phrase “work smarter, not harder”, but I’m always on the lookout for ways to improve my coding productivity and get the most out of my time, especially when writing code or managing projects. I recently discovered Plop, a micro-generator framework, and now I wonder how I ever managed without it!
-
-### [89. The AI Revolution Is Putting Flutter and React Native at Risk](https://hackernoon.com/the-ai-revolution-is-putting-flutter-and-react-native-at-risk)
-![](https://capk.me/api/publications/flutter-and-rn-wont-survive/images/hero.jpg)
-Cross-platform frameworks solved yesterday's problem. In the AI era, spec-first development with native code generation may be the smarter approach.
 
 ### [90. Advanced Tricks in React Native Programming for Mobile Development](https://hackernoon.com/advanced-tricks-in-react-native-programming-for-mobile-development)
 ![](https://cdn.hackernoon.com/images/rqSZjnOmxMTt3bDGw2yUD21lTzj2-km83x0f.jpeg)
@@ -383,25 +385,25 @@ Giphy is the largest library providing one of the most popular forms of media wi
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-74035ck.jpeg)
 Security is one of the most important factors for mobile apps development. Get the necessary steps for Securing React Native Application.
 
-### [95.  How To Debug React Native Debugger](https://hackernoon.com/how-to-debug-react-native-debugger-rw1p3tzb)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7hNScric1WcTcZqxOlzpN8s54n43-uu573xnj.jpeg?alt=media&token=98d3b936-23fd-4bc2-bd68-01efcb3ebc11)
-React Native Debugger is a powerful tool that helps developers debug React Native applications more quickly. It provides a suite of impressive features, such as UI inspector, redux inspector, breakpoints and networking inspector. In this article, we are going to learn how to install and use the React Native Debugger, which will boost your development productivity by an order of magnitude.
+### [95. How to Develop a React Native Library for Telegram’s TDLib: Part 1](https://hackernoon.com/how-to-develop-a-react-native-library-for-telegrams-tdlib-part-1)
+![](https://cdn.hackernoon.com/images/raD3IjEsJBWIqwoxcjk2om7YGHm1-vd73ed5.png)
+Getting started with Telegram TDLib in React Native: Exploring authorization, user profile retrieval, and the first steps into native code.
 
-### [96. How To Build WordPress App with React Native Part #5: Home Screen](https://hackernoon.com/build-wordpress-app-with-react-native-5-home-screen-hobf32tq)
-![](https://cdn.hackernoon.com/images/dt2832iu.jpg)
-This series intends to show how I build an app to serve content from my WordPress blog by using react-native. Since my blog is talking about react-native, the series and the articles are interconnected. We will learn how to set-up many packages that make our lives comfortable and learn how to deal with WordPress APIs. Here, the most prominent features talked about in the book are the dark theme, offline mode, infinite scroll and many more. You can discover much more in this series. this inspiration to do this tutorial series came from the React Native App Templates from instamobile
-
-### [97. React Native ECharts VS Victory Native VS React Native Chart Kit: Which Solution is Better?](https://hackernoon.com/react-native-echarts-vs-victory-native-vs-react-native-chart-kit-which-solution-is-better)
+### [96. React Native ECharts VS Victory Native VS React Native Chart Kit: Which Solution is Better?](https://hackernoon.com/react-native-echarts-vs-victory-native-vs-react-native-chart-kit-which-solution-is-better)
 ![](https://cdn.hackernoon.com/images/vJcrvKCc3hh6oCV6ujhOFQ6v9dN2-p093rdh.jpeg)
 In this article, we will compare three popular chart libraries in the React Native community: React Native ECharts, Victory Native, and React Native Chart Kit.
 
-### [98. Making the Case for Why React Native is Garbage](https://hackernoon.com/making-the-case-for-why-react-native-is-garbage-xl4l31gb)
+### [97.  How To Debug React Native Debugger](https://hackernoon.com/how-to-debug-react-native-debugger-rw1p3tzb)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7hNScric1WcTcZqxOlzpN8s54n43-uu573xnj.jpeg?alt=media&token=98d3b936-23fd-4bc2-bd68-01efcb3ebc11)
+React Native Debugger is a powerful tool that helps developers debug React Native applications more quickly. It provides a suite of impressive features, such as UI inspector, redux inspector, breakpoints and networking inspector. In this article, we are going to learn how to install and use the React Native Debugger, which will boost your development productivity by an order of magnitude.
+
+### [98. How To Build WordPress App with React Native Part #5: Home Screen](https://hackernoon.com/build-wordpress-app-with-react-native-5-home-screen-hobf32tq)
+![](https://cdn.hackernoon.com/images/dt2832iu.jpg)
+This series intends to show how I build an app to serve content from my WordPress blog by using react-native. Since my blog is talking about react-native, the series and the articles are interconnected. We will learn how to set-up many packages that make our lives comfortable and learn how to deal with WordPress APIs. Here, the most prominent features talked about in the book are the dark theme, offline mode, infinite scroll and many more. You can discover much more in this series. this inspiration to do this tutorial series came from the React Native App Templates from instamobile
+
+### [99. Making the Case for Why React Native is Garbage](https://hackernoon.com/making-the-case-for-why-react-native-is-garbage-xl4l31gb)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-ri2b3tfl.jpeg?alt=media&token=2b76d3b3-f2f0-40f9-9e4d-c5b7324d8e24)
 Ex-Google/ex-Facebook TechLead presents the case against the React Native cross-platform mobile app framework.  Join my interview training prep here http://techinterviewpro.com/
-
-### [99. How to Develop a React Native Library for Telegram’s TDLib: Part 1](https://hackernoon.com/how-to-develop-a-react-native-library-for-telegrams-tdlib-part-1)
-![](https://cdn.hackernoon.com/images/raD3IjEsJBWIqwoxcjk2om7YGHm1-vd73ed5.png)
-Getting started with Telegram TDLib in React Native: Exploring authorization, user profile retrieval, and the first steps into native code.
 
 ### [100. Angular v14's New Features](https://hackernoon.com/angular-v14s-new-features)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-w193mzb.jpeg)
@@ -467,21 +469,21 @@ This article will show you how to develop progressive web app with react. You ca
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-v6k33nm.jpeg)
 Today we’re going to draw directions route on a map in React Native, showcasing the path between two different locations. We’re going to make use of react-native-maps which is a powerful library, allowing us to draw polylines between multiple coordinates. We are also going to use Google Directions API, in order to fetch precise directions routes between two coordinates.
 
-### [116. React vs Angular: A Fresh Look at This Programming Debate](https://hackernoon.com/react-vs-angular-a-fresh-look-at-this-programming-debate)
+### [116. Setting Up Auth0 Authentication with Expo Router: A Complete Guide](https://hackernoon.com/setting-up-auth0-authentication-with-expo-router-a-complete-guide)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-r703203.jpeg)
+Setting Up Auth0 Authentication with Expo Router: A Complete Guide
+
+### [117. React vs Angular: A Fresh Look at This Programming Debate](https://hackernoon.com/react-vs-angular-a-fresh-look-at-this-programming-debate)
 ![](https://cdn.hackernoon.com/images/n9uGIYN6nPa0y5U5xpRtPWt8jx52-t7lz35es.jpeg)
 In this blog, we'll look at Angular and React, their capabilities, and how ReactJS differs from AngularJS in the sections ahead.
-
-### [117. A Modern Stack to Build a Real-time Event-driven App](https://hackernoon.com/a-modern-stack-to-build-a-real-time-event-driven-app)
-![](https://cdn.hackernoon.com/images/WZtg48M08LggSTf2SeXXr1KnHFm2-ps93qh6.jpeg)
-The rise of real-time event-driven applications has led to the development of modern technology stacks that can handle large volumes of events in real time.
 
 ### [118. How to Improve Your Web Development Process With React ](https://hackernoon.com/how-to-improve-your-web-development-process-with-react)
 ![](https://cdn.hackernoon.com/images/HnR6U4BnZAUnqDPTYjvqNrpaj653-x593okh.jpeg)
 React is a powerful JavaScript library that has revolutionized the way developers build web applications.
 
-### [119. Setting Up Auth0 Authentication with Expo Router: A Complete Guide](https://hackernoon.com/setting-up-auth0-authentication-with-expo-router-a-complete-guide)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-r703203.jpeg)
-Setting Up Auth0 Authentication with Expo Router: A Complete Guide
+### [119. A Modern Stack to Build a Real-time Event-driven App](https://hackernoon.com/a-modern-stack-to-build-a-real-time-event-driven-app)
+![](https://cdn.hackernoon.com/images/WZtg48M08LggSTf2SeXXr1KnHFm2-ps93qh6.jpeg)
+The rise of real-time event-driven applications has led to the development of modern technology stacks that can handle large volumes of events in real time.
 
 ### [120. How To Build a WordPress App with React Native Part #3: the Navigation](https://hackernoon.com/build-a-wordpress-app-with-react-native-3-the-navigation-qs1r32je)
 ![](https://cdn.hackernoon.com/images/bdcq32cx.jpg)
@@ -503,13 +505,13 @@ In this post, I'm going to share my React Native project structure, configuratio
 ![](https://cdn.hackernoon.com/images/oBJp5NI1CqWkTYoCtrcit0KrDza2-1v93jyw.jpeg)
 In React Native, the FlatList component works well to render a long list of data. 
 
-### [125. How React Native App Development can be a cost effective solution for Mobile App Development](https://hackernoon.com/how-react-native-app-development-can-be-a-cost-effective-solution-for-mobile-app-development-m77vv3ziq)
-![](https://cdn.hackernoon.com/drafts/5l1m3zsl.png)
-Over the last decade or so, Mobile Apps have played a very crucial role in shaping up the future of businesses, both large and small. As a result, it is has become mandatory for companies to include a mobile app, in its business promotion scheme of things. Businesses, old or new, small orbig, all are looking at enhancing their prospects, with the potential of amobile app.
-
-### [126. Easier Charting in React Native Using Apache ECharts — the Solution You Have Been Looking for](https://hackernoon.com/easier-charting-in-react-native-using-apache-echarts-the-solution-you-have-been-looking-for)
+### [125. Easier Charting in React Native Using Apache ECharts — the Solution You Have Been Looking for](https://hackernoon.com/easier-charting-in-react-native-using-apache-echarts-the-solution-you-have-been-looking-for)
 ![](https://cdn.hackernoon.com/images/vJcrvKCc3hh6oCV6ujhOFQ6v9dN2-fg93p3d.jpeg)
 We have developed an open-source graphics library for react native APP, which is based on Apache ECharts and uses RNSVG or RNSkia for rendering. 
+
+### [126. How React Native App Development can be a cost effective solution for Mobile App Development](https://hackernoon.com/how-react-native-app-development-can-be-a-cost-effective-solution-for-mobile-app-development-m77vv3ziq)
+![](https://cdn.hackernoon.com/drafts/5l1m3zsl.png)
+Over the last decade or so, Mobile Apps have played a very crucial role in shaping up the future of businesses, both large and small. As a result, it is has become mandatory for companies to include a mobile app, in its business promotion scheme of things. Businesses, old or new, small orbig, all are looking at enhancing their prospects, with the potential of amobile app.
 
 ### [127. A Beginner's Guide to Performance Optimization Using React.memo()](https://hackernoon.com/a-beginners-guide-to-performance-optimization-using-reactmemo-lk1n34qy)
 ![](https://cdn.hackernoon.com/images/aHcUME45O0Sw3JLt9OGFJpazIvO2-eb9287d.jpeg)
@@ -527,17 +529,17 @@ In this post, we are reviewing the best databases for React Native to help you c
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-2u2y3tbk.jpeg?alt=media&token=88ac4502-b36a-43b1-8d65-d9b4dca26e5d)
 We know the array methods of javascript. We used it in simple programming, right? But today we will see how to use it in real life programming.
 
-### [131. Records And Tuples Usage In React](https://hackernoon.com/records-and-tuples-usage-in-react-qo103uqo)
+### [131. The Real Fix for React Native + pnpm: Hoist Everything](https://hackernoon.com/the-real-fix-for-react-native-pnpm-hoist-everything)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oj0222b.jpeg)
+Learn why React Native projects break under pnpm’s default linking, and why switching to node-linker=hoisted is the simplest, most reliable fix in monorepos.
+
+### [132. Records And Tuples Usage In React](https://hackernoon.com/records-and-tuples-usage-in-react-qo103uqo)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F8fEI9xkzAKR8f3GlkTak2hzTJek1-vwfd3uzm.png?alt=media&token=1a7a1c29-54b7-446e-9434-ff6d4c39811b)
 Records & Tuples, a very interesting proposal, has just reached stage 2 at TC39.
 
-### [132. The Best Way to Do React Native Charting in 2023](https://hackernoon.com/the-best-way-to-do-react-native-charting-in-2023)
+### [133. The Best Way to Do React Native Charting in 2023](https://hackernoon.com/the-best-way-to-do-react-native-charting-in-2023)
 ![](https://cdn.hackernoon.com/images/vJcrvKCc3hh6oCV6ujhOFQ6v9dN2-v8a3p90.jpeg)
 An excellent solution for React Native charting in 2023.
-
-### [133. The Real Fix for React Native + pnpm: Hoist Everything](https://hackernoon.com/the-real-fix-for-react-native-pnpm-hoist-everything)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oj0222b.jpeg)
-Learn why React Native projects break under pnpm’s default linking, and why switching to node-linker=hoisted is the simplest, most reliable fix in monorepos.
 
 ### [134. Revolutionizing Data with React Native ECharts 1.1: Now More Interactive!](https://hackernoon.com/revolutionizing-data-with-react-native-echarts-11-now-more-interactive)
 ![](https://cdn.hackernoon.com/images/vJcrvKCc3hh6oCV6ujhOFQ6v9dN2-3m93vgs.jpeg)
@@ -567,13 +569,13 @@ TikTok has unveiled Lynx, an exciting new approach to cross-platform app develop
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fzp3rAOWQHWWL93woHkQ2snVTogD2-q9273u6x.jpeg?alt=media&token=9ab89412-b542-4abf-816e-c545d56dc7da)
 React Native is a framework developed by Facebook that is used to build the application on native platforms. It is preferred by most developers, due to its speed, agility, and ability to build hybrid applications in multiple platforms with an interactive user interface (UI). 
 
-### [141. Learning React Native Has Never Been Easier For A Beginner In 2021](https://hackernoon.com/learning-react-native-has-never-been-easier-for-a-beginner-in-2021-c4t3w09)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FTIJzydIu3tguQ0D6uODERgXfGTW2-3j1633o0.jpeg?alt=media&token=288e045f-723f-46b3-a105-e2bd9cee6d0b)
-If you already have some programming experience and you’re interested in learning React Native, there are a few methods that are faster than the traditional route of learning. Most tutorials, books and courses are targeted towards non-programmers, wasting your time with the basics. But if you have programming experience, here’s how to learn React Native practically in a fraction of the time.
-
-### [142. 60fps: Powerful Tricks & Tools To Stop TypeScript and Javascript Jank](https://hackernoon.com/60fps-powerful-tricks-and-tools-to-stop-typescript-and-javascript-jank-r71p35qn)
+### [141. 60fps: Powerful Tricks & Tools To Stop TypeScript and Javascript Jank](https://hackernoon.com/60fps-powerful-tricks-and-tools-to-stop-typescript-and-javascript-jank-r71p35qn)
 ![](https://cdn.hackernoon.com/images/jUStUdAbF5REyx3aRsPxuqmqVUQ2-m5bg33kn.jpeg)
 Keep web apps and sites smooth and interactive while processing with these tricks and tools.
+
+### [142. Learning React Native Has Never Been Easier For A Beginner In 2021](https://hackernoon.com/learning-react-native-has-never-been-easier-for-a-beginner-in-2021-c4t3w09)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FTIJzydIu3tguQ0D6uODERgXfGTW2-3j1633o0.jpeg?alt=media&token=288e045f-723f-46b3-a105-e2bd9cee6d0b)
+If you already have some programming experience and you’re interested in learning React Native, there are a few methods that are faster than the traditional route of learning. Most tutorials, books and courses are targeted towards non-programmers, wasting your time with the basics. But if you have programming experience, here’s how to learn React Native practically in a fraction of the time.
 
 ### [143. The Best React Component Libraries to Make Your Life Easier](https://hackernoon.com/the-best-react-component-libraries-to-make-your-life-easier)
 ![](https://cdn.hackernoon.com/images/yEPQ6i4CCAdpczrPlRcHgxdggFC2-j403636.jpeg)
@@ -619,13 +621,13 @@ So, you want to build a music site with React Native. That’s not an ordinary t
 ![](https://cdn.hackernoon.com/drafts/xrij32y5.png)
 This tutorial is the fourth chapter of our implementation of an AirBnB clone in React Native. In previous chapters, we’ve successfully implemented email authentication with Firebase. In case you need to get caught up, here are links to parts 1–3:
 
-### [154. How to Understand the Difference Between Function & Class Components in React](https://hackernoon.com/how-to-understand-the-difference-between-function-and-class-components-in-react-np2j31ct)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-k218288y.jpeg)
-Class Components provide access to more features like (state), but with Hooks that's not valid anymore.
-
-### [155. How I Approached My Organization's Rebranding As a Software Engineer](https://hackernoon.com/how-i-approached-my-organizations-rebranding-as-a-software-engineer)
+### [154. How I Approached My Organization's Rebranding As a Software Engineer](https://hackernoon.com/how-i-approached-my-organizations-rebranding-as-a-software-engineer)
 ![](https://cdn.hackernoon.com/images/UPj89hwu6vfiCaqSkcDwX8zhXPO2-7da2hx8.png)
 An engineer's journey to solving tech debt while rebranding a mobile application from Agora to Kojo.
+
+### [155. How to Understand the Difference Between Function & Class Components in React](https://hackernoon.com/how-to-understand-the-difference-between-function-and-class-components-in-react-np2j31ct)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-k218288y.jpeg)
+Class Components provide access to more features like (state), but with Hooks that's not valid anymore.
 
 ### [156. Turning Your Website Into A Mobile App Really Fast With React Native](https://hackernoon.com/turning-your-website-into-a-mobile-app-really-fast-with-react-native-emp349h)
 ![](https://cdn.hackernoon.com/images/MPQxyfch0lZHKZM3k3hMies8Fpv1-37c334ch.jpeg)
@@ -647,13 +649,13 @@ As you already know, our team is a huge fan of React Native and we have publishe
 ![](https://cdn.hackernoon.com/images/62am3zg4.jpg)
 This tutorial is the third part of our implementation of the Apple app of the day Animation in React native. Therefore, it is suggested to go through part one and two of this tutorial series in order to get the full insight into the app and make ourself comfortable with all the implementations. In the second part of this tutorial, we successfully implemented the enlarge-image animation when we click or press on any image. Here, we are going to add the text section to the enlarged pop-up animation and also close the animation.this tutorial inspired from React native ecommerce template.
 
-### [161. Flutter vs. React Native: What App Developers Should Know About Cross-Platform Mobile Development](https://hackernoon.com/flutter-vs-react-native-what-app-developers-should-know-about-cross-platform-mobile-development-1zak32n1)
-![](https://cdn.hackernoon.com/drafts/xp1gm3ypo.png)
-Bringing a spirit of novelty in the mobile development industry just recently, hybrid app development has become one of the most popular and fast-growing trends today. Now, it is considered as one of the most effective choices by many app developers and business owners. 
-
-### [162. How To Build WordPress App with React Native Part #17: Fixing react-native-render-html](https://hackernoon.com/build-wordpress-app-with-react-native-17-fix-react-native-render-html-3s5w432sg)
+### [161. How To Build WordPress App with React Native Part #17: Fixing react-native-render-html](https://hackernoon.com/build-wordpress-app-with-react-native-17-fix-react-native-render-html-3s5w432sg)
 ![](https://cdn.hackernoon.com/images/bn3v32xl.jpg)
 This series intends to show how I build app to serve content from my WordPress blog by using react native. Since, my blog is talking about react-native, the series and the articles are interconnected. We will learn how to set-up many packages that make our lives comfortable and learn how to deal with WordPress APIs. Here, the most prominent features talked about in the book are the dark theme , offline mode, infinite scroll and many more. You can discover much more in this series.this inspiration to do this tutorial series came from the React Native App Templates from instamobile
+
+### [162. Flutter vs. React Native: What App Developers Should Know About Cross-Platform Mobile Development](https://hackernoon.com/flutter-vs-react-native-what-app-developers-should-know-about-cross-platform-mobile-development-1zak32n1)
+![](https://cdn.hackernoon.com/drafts/xp1gm3ypo.png)
+Bringing a spirit of novelty in the mobile development industry just recently, hybrid app development has become one of the most popular and fast-growing trends today. Now, it is considered as one of the most effective choices by many app developers and business owners. 
 
 ### [163. Cross-Platform App Development – Is Flutter a Worthy Choice?](https://hackernoon.com/cross-platform-app-development---is-flutter-a-worthy-choice)
 ![](https://cdn.hackernoon.com/images/GTa5ej5plAVtWsiam81ThId9crP2-fq93vpq.jpeg)
@@ -663,45 +665,45 @@ Get answers to 'Is Flutter a Worthy Choice for your app development?' Read this 
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-jk93rfm.jpeg)
 
 
-### [165. How to Program with React Native: Lessons & Best Practices](https://hackernoon.com/how-to-program-with-react-native-lessons-and-best-practices)
-![](https://cdn.hackernoon.com/images/lmNkEcOTDAakdXo3WqhKHpwu7dm2-mp137gb.jpeg)
-Here are some lessons and best practices I've compiled after 2 years with React Native. 
-
-### [166. React Native WebView Plugin Introduction](https://hackernoon.com/react-native-webview-plugin-introduction-ps1u3urr)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-4ut3uwd.gif?alt=media&token=00caf32e-f22a-4269-a06c-69ed43644329)
-In React Native, WebViews enable access to any web portal in the mobile app itself. In other words, a web view allows us to open the web URLs inside the app interface. While React Native provides us with a built-it web view component, but we are going to use react-native-webview plugin in this tutorial, since it is more powerful. React Native WebView is a modern, well-supported, and cross-platform WebView for React Native.
-
-### [167. React Native Vs. Flutter: The Ultimate Comparison](https://hackernoon.com/react-native-vs-flutter-the-ultimate-comparison-vps35ja)
-![](https://cdn.hackernoon.com/images/j7NF7DOVn3PuOxdKDfy82zIpUjc2-tlo34cz.jpeg)
-The aim of this article is to provide the readers with the full information on the two frameworks for mobile app development - React Native and Flutter
-
-### [168. How to Publish On the App Store](https://hackernoon.com/how-to-publish-on-the-app-store)
+### [165. How to Publish On the App Store](https://hackernoon.com/how-to-publish-on-the-app-store)
 ![](https://cdn.hackernoon.com/images/3c0Ba4iB54PS3D89K3wjjsbD9Ll1-mp93pg9.jpeg)
 How to publish an app to the app store. Using react native, expo, eas, MongoDB, Express, AWS, and Git to publish a full-stack app to the Apple app store.
 
-### [169. Why Should You Choose React Native Over Other Platforms? ](https://hackernoon.com/why-it-is-beneficial-to-choose-react-native-over-other-platforms-8y37930mu)
-![](https://cdn.hackernoon.com/images/ol37730n8.jpg)
-Respond Native is a framework for cross-platform mobile app development for iOS and Android. If you need to spare time, money, and staff assets essentially, at that point React Native is the perfect business arrangement. This dynamic technology gives customary and present day strategies for cross platform mobile app development. 
+### [166. How to Program with React Native: Lessons & Best Practices](https://hackernoon.com/how-to-program-with-react-native-lessons-and-best-practices)
+![](https://cdn.hackernoon.com/images/lmNkEcOTDAakdXo3WqhKHpwu7dm2-mp137gb.jpeg)
+Here are some lessons and best practices I've compiled after 2 years with React Native. 
 
-### [170. How to Reduce Your Crash Rate ](https://hackernoon.com/how-to-reduce-your-crash-rate)
+### [167. React Native WebView Plugin Introduction](https://hackernoon.com/react-native-webview-plugin-introduction-ps1u3urr)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-4ut3uwd.gif?alt=media&token=00caf32e-f22a-4269-a06c-69ed43644329)
+In React Native, WebViews enable access to any web portal in the mobile app itself. In other words, a web view allows us to open the web URLs inside the app interface. While React Native provides us with a built-it web view component, but we are going to use react-native-webview plugin in this tutorial, since it is more powerful. React Native WebView is a modern, well-supported, and cross-platform WebView for React Native.
+
+### [168. How to Reduce Your Crash Rate ](https://hackernoon.com/how-to-reduce-your-crash-rate)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-4093qmb.jpeg)
 Hand-in-hand with this decision was the need to find an error monitoring solution that could handle RN apps. 
 
-### [171. Smart Strategy To Create Login Function in React Native Using Powerful Tools](https://hackernoon.com/smart-strategy-to-create-login-function-in-react-native-using-powerful-tools-uad3tpr)
+### [169. React Native Vs. Flutter: The Ultimate Comparison](https://hackernoon.com/react-native-vs-flutter-the-ultimate-comparison-vps35ja)
+![](https://cdn.hackernoon.com/images/j7NF7DOVn3PuOxdKDfy82zIpUjc2-tlo34cz.jpeg)
+The aim of this article is to provide the readers with the full information on the two frameworks for mobile app development - React Native and Flutter
+
+### [170. Why Should You Choose React Native Over Other Platforms? ](https://hackernoon.com/why-it-is-beneficial-to-choose-react-native-over-other-platforms-8y37930mu)
+![](https://cdn.hackernoon.com/images/ol37730n8.jpg)
+Respond Native is a framework for cross-platform mobile app development for iOS and Android. If you need to spare time, money, and staff assets essentially, at that point React Native is the perfect business arrangement. This dynamic technology gives customary and present day strategies for cross platform mobile app development. 
+
+### [171. ScreenSafe: A Technical Chronicle of On-Device AI and Privacy-First Architecture](https://hackernoon.com/screensafe-a-technical-chronicle-of-on-device-ai-and-privacy-first-architecture)
+![](https://cdn.hackernoon.com/images/uhQJUAo2vvfdVypOkWo4H8QPNG63-nh72vfy.png)
+Building local AI is hell. Here is the engineering roadmap for running privacy-first LLMs on iOS and Android.
+
+### [172. Smart Strategy To Create Login Function in React Native Using Powerful Tools](https://hackernoon.com/smart-strategy-to-create-login-function-in-react-native-using-powerful-tools-uad3tpr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F8oZeaAPF91XePcSkRL9j69sbGbH2-ig4x19zt.jpeg?alt=media&token=b4e02bff-45cb-48f6-85de-6f8d96c4e608)
 In this post, we will see how an action can be dispatched using Redux on login, and set the app state accordingly.
 
-### [172. How to Build Landmark Recognition App with React Native and Vision AI ](https://hackernoon.com/how-to-build-landmark-recognition-app-with-react-native-and-vision-ai-r21s34uj)
+### [173. How to Build Landmark Recognition App with React Native and Vision AI ](https://hackernoon.com/how-to-build-landmark-recognition-app-with-react-native-and-vision-ai-r21s34uj)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxcBRnQbsGCTrom5xuzwoxpuYWrJ3-zg6a3wfy.jpeg?alt=media&token=5a0f210b-be89-47eb-b5e4-95aefceee0b7)
 In this article, we cover the second part of our two part series. We will create a React Native application that makes use of the Firebase Cloud Function that we created in the first part. Here I will cover building the application in detail. If you want to skip ahead to the finish line, the full code is available here.
 
-### [173. 15 VSCode Extensions to Boost your Productivity in React](https://hackernoon.com/15-vscode-extensions-to-boost-your-productivity-in-react)
+### [174. 15 VSCode Extensions to Boost your Productivity in React](https://hackernoon.com/15-vscode-extensions-to-boost-your-productivity-in-react)
 ![](https://cdn.hackernoon.com/images/1X2qGRirdcc08LTLOxTlP7XfZn83-bva3oki.jpeg)
 In this article, I will share the VSCode extensions I used for react development and productivity.
-
-### [174. ScreenSafe: A Technical Chronicle of On-Device AI and Privacy-First Architecture](https://hackernoon.com/screensafe-a-technical-chronicle-of-on-device-ai-and-privacy-first-architecture)
-![](https://cdn.hackernoon.com/images/uhQJUAo2vvfdVypOkWo4H8QPNG63-nh72vfy.png)
-Building local AI is hell. Here is the engineering roadmap for running privacy-first LLMs on iOS and Android.
 
 ### [175. 5 Easy Steps To Create A React Project With Serverless User Authentication](https://hackernoon.com/5-easy-steps-to-create-a-react-project-with-serverless-user-authentication-vtr33tp)
 ![](https://cdn.hackernoon.com/images/W5izFfGlYhbYTvxHUaWKeV8Zmlu2-a946324a.jpeg)
@@ -723,97 +725,97 @@ In this post, we are going to continue from where we left off in our last part o
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-tm93zow.jpeg)
 Rex Solution used the eyeson API to add live video, audio, data and to store recordings easily to the covid testing application project.
 
-### [180. [React Native Development] Camping Spots Finder App UI Clone Part I - Map view UI](https://hackernoon.com/camping-spots-finder-app-ui-clone-with-react-native-1-map-view-ui-8muy303x)
-![](https://cdn.hackernoon.com/images/l63ww304u.jpg)
-This inspiration for this tutorial came from a real estate template that enables us to build fully functional ready to deploy mobile applications that anyone can use to build their own React Native application. This tutorial replicates the coding implementations and designs from the Youtube video tutorial by React UI Kit for the Camping Spots Finder App clone. The video tutorial features speed coding with quick implementations which may be difficult for beginners to grasp. So, this tutorial series breaks down the video into different sections. It also provides step by step guide which will be very easy for anyone to grasp and implement their own app.
-
-### [181. Why Use the Pressable Component Over the Touchable Components](https://hackernoon.com/why-use-the-pressable-component-over-the-touchable-components)
+### [180. Why Use the Pressable Component Over the Touchable Components](https://hackernoon.com/why-use-the-pressable-component-over-the-touchable-components)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5d92ary.jpeg)
 A definitive guide on when you should use the Pressable component and when you should (or shouldn't) use the Touchable components.
 
-### [182. If You Want to Simplify Your Life as a Mobile App Developer, Expo is a Great Choice](https://hackernoon.com/if-you-want-to-simplify-your-life-as-a-mobile-app-developer-expo-is-a-great-choice)
-![](https://cdn.hackernoon.com/images/K6nbRnEkABhQO0l9CYNAnvO14ah1-r603wsl.png)
-Discover why Expo is the ultimate toolkit for React Native developers. Simplify app development with quick setup
+### [181. [React Native Development] Camping Spots Finder App UI Clone Part I - Map view UI](https://hackernoon.com/camping-spots-finder-app-ui-clone-with-react-native-1-map-view-ui-8muy303x)
+![](https://cdn.hackernoon.com/images/l63ww304u.jpg)
+This inspiration for this tutorial came from a real estate template that enables us to build fully functional ready to deploy mobile applications that anyone can use to build their own React Native application. This tutorial replicates the coding implementations and designs from the Youtube video tutorial by React UI Kit for the Camping Spots Finder App clone. The video tutorial features speed coding with quick implementations which may be difficult for beginners to grasp. So, this tutorial series breaks down the video into different sections. It also provides step by step guide which will be very easy for anyone to grasp and implement their own app.
+
+### [182. 10 Questions for Aswin Ganesh, Noonie Nominee for Functional Programming](https://hackernoon.com/10-questions-for-aswin-ganesh-noonie-nominee-for-functional-programming-cf3n3u74)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-u02s3uif.jpeg?alt=media&token=b06fb123-837a-4d38-a560-fe21ed1c1bd4)
+The 2020 #Noonies are here! And they are both much greener and much bigger than last year. Among the 2,000+ deserving humans nominated across 5 categories for over 200 award titles, we discovered Aswin Ganesh from India, who’s has been nominated for Hacker Noon's Contributor of the Year in our Functional Programming category. Without further ado, we present to you, our big techy world in 10 questions, from the perspective of Aswin.
 
 ### [183. What Everyone Is Getting Wrong About React Native Modals](https://hackernoon.com/the-right-way-to-build-react-native-modals)
 ![](https://cdn.hackernoon.com/images/fcg4LulCqMWo1vfVO5HURp4qfxr1-hr93oeu.jpeg)
 Do you find using modals in React Native to be a bit of a pain? This article teaches you how to get a better development experience with them.
 
-### [184.   How to be a React Native Developer](https://hackernoon.com/how-to-be-a-react-native-developer)
+### [184. If You Want to Simplify Your Life as a Mobile App Developer, Expo is a Great Choice](https://hackernoon.com/if-you-want-to-simplify-your-life-as-a-mobile-app-developer-expo-is-a-great-choice)
+![](https://cdn.hackernoon.com/images/K6nbRnEkABhQO0l9CYNAnvO14ah1-r603wsl.png)
+Discover why Expo is the ultimate toolkit for React Native developers. Simplify app development with quick setup
+
+### [185.   How to be a React Native Developer](https://hackernoon.com/how-to-be-a-react-native-developer)
 ![](https://cdn.hackernoon.com/images/TIxYE68RnPZQWGFaMaXpYV0OQ7Q2-vu13gp0.jpeg)
   How to be a React Native Developer
 
-### [185. JavaScript Closures Explained to Kids](https://hackernoon.com/javascript-closures-explained-to-kids-n31r33d7)
+### [186. JavaScript Closures Explained to Kids](https://hackernoon.com/javascript-closures-explained-to-kids-n31r33d7)
 ![](https://cdn.hackernoon.com/images/CYFmHUGsNnfKEDXHiA6ryqY4Emq1-et1w37m8.jpeg)
 How to explain JavaScript Closure to a 5 years old kid
 
-### [186. Car Parking Finder App UI Clone with React Native #1 : Map View](https://hackernoon.com/react-native-car-parking-finder-app-ui-clone-1-map-view-7hn32go)
+### [187. Car Parking Finder App UI Clone with React Native #1 : Map View](https://hackernoon.com/react-native-car-parking-finder-app-ui-clone-1-map-view-7hn32go)
 ![](https://cdn.hackernoon.com/images/n0z232fx.jpg)
 This Car Parking Finder App UI clone tutorial series was inspired by the  React Native App Templates that provides us with a dynamic, fully-coded starter kit written in React Native that anyone can use to build their own store locator React Native application or initiate their own startup.
 
-### [187. What is React Native Used For: A Short Guide](https://hackernoon.com/what-is-react-native-used-for-a-short-guide)
+### [188. What is React Native Used For: A Short Guide](https://hackernoon.com/what-is-react-native-used-for-a-short-guide)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-l793n6c.jpeg)
 React Native what is? For those who do not know, React Native or RN is an open-source framework that allows you to build apps on multiple platforms like iOS or Android and web applications, using the very same code base. 
 
-### [188. The FAQs of React Native](https://hackernoon.com/the-faqs-of-react-native-5f183tnr)
+### [189. The FAQs of React Native](https://hackernoon.com/the-faqs-of-react-native-5f183tnr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-uad3tyc.jpeg?alt=media&token=ff0be117-816f-4a80-94db-5a1ef6a1eb0c)
 React Native is a framework created by Facebook that is used for building native apps using React. It is mainly used for developing applications for Android, iOS, and Web. It an open-source framework. So, today we will be checking out the 13 most asked React Native questions.
 
-### [189. 10 Questions for Aswin Ganesh, Noonie Nominee for Functional Programming](https://hackernoon.com/10-questions-for-aswin-ganesh-noonie-nominee-for-functional-programming-cf3n3u74)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-u02s3uif.jpeg?alt=media&token=b06fb123-837a-4d38-a560-fe21ed1c1bd4)
-The 2020 #Noonies are here! And they are both much greener and much bigger than last year. Among the 2,000+ deserving humans nominated across 5 categories for over 200 award titles, we discovered Aswin Ganesh from India, who’s has been nominated for Hacker Noon's Contributor of the Year in our Functional Programming category. Without further ado, we present to you, our big techy world in 10 questions, from the perspective of Aswin.
-
-### [190. A Quick Way To Implement Infinite Scroll in React Native](https://hackernoon.com/a-quick-way-to-implement-infinite-scroll-in-react-native)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-8782poz.jpeg)
-In this tutorial, I show you how you can set up infinite scroll in react native.
-
-### [191. Developing Cross-platform Mobile Applications with Xamarin](https://hackernoon.com/developing-cross-platform-mobile-applications-with-xamarin)
+### [190. Developing Cross-platform Mobile Applications with Xamarin](https://hackernoon.com/developing-cross-platform-mobile-applications-with-xamarin)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-e4930w3.jpeg)
 Xamarin is a cross-platform development tool that allows building truly cross-platform mobile apps with power-packed functionality and native user experience.
+
+### [191. A Quick Way To Implement Infinite Scroll in React Native](https://hackernoon.com/a-quick-way-to-implement-infinite-scroll-in-react-native)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-8782poz.jpeg)
+In this tutorial, I show you how you can set up infinite scroll in react native.
 
 ### [192. Airbnb UI Clone with React Native Part #3 : Home View Around The World Section](https://hackernoon.com/airbnb-home-screen-ui-clone-with-react-native-3-home-around-the-world-9z3en32qu)
 ![](https://cdn.hackernoon.com/images/2e3eh32bg.jpg)
 This tutorial is the third part of our Airbnb Home Screen UI clone using React Native. In the previous part, we successfully implemented the Category and Airbnb plus sections. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous parts for better understanding and insight into the overall project.
 
-### [193. How to Protect React Native Apps With Jscrambler](https://hackernoon.com/how-to-protect-react-native-apps-with-jscrambler)
+### [193. I Built My Own Chat Instead of Relying on Jivo or LiveChat: Here's How](https://hackernoon.com/i-built-my-own-chat-instead-of-relying-on-jivo-or-livechat-heres-how)
+![](https://cdn.hackernoon.com/images/FPQfbJY2fYbkpykIFnuaI2Xsd9v2-4703agw.png)
+In this post, I’ll go through how I built it: the architecture, the contexts for sockets and state, and the UI components that tied it all together.
+
+### [194. How to Protect React Native Apps With Jscrambler](https://hackernoon.com/how-to-protect-react-native-apps-with-jscrambler)
 ![](https://cdn.hackernoon.com/images/1JNoLAkx1ZO5O8qO5dcdNjh6RQw1-1r13a7a.jpeg)
 In this step-by-step guide, you'll learn how to protect your React Native mobile application with Jscrambler to prevent code theft and tampering.
 
-### [194. My Roadmap For Making a Popular Workout App From Scratch](https://hackernoon.com/my-roadmap-for-making-a-popular-workout-app-from-scratch-4c143z4i)
+### [195. My Roadmap For Making a Popular Workout App From Scratch](https://hackernoon.com/my-roadmap-for-making-a-popular-workout-app-from-scratch-4c143z4i)
 ![](https://cdn.hackernoon.com/images/Ytr4R1YWnCUT3SpLtnWDF3yML0o2-as3q31xx.jpeg)
 First, welcome to my series of “My Roadmap For Making a Popular Workout App”. I will share with you my trip to make my workout app into a popular mobile app.
 
-### [195. The Difference Between Web Apps and Websites Explained](https://hackernoon.com/the-difference-between-web-apps-and-websites-explained-9c2134zu)
+### [196. The Difference Between Web Apps and Websites Explained](https://hackernoon.com/the-difference-between-web-apps-and-websites-explained-9c2134zu)
 ![](https://cdn.hackernoon.com/images/5xThcNeVYFUq8lAaKdNX08Xn6Pk2-q03r33x8.jpeg)
 In this article, you will learn all about the difference between a website and a web application, the intricacies and how much it costs to develop both options.
-
-### [196. Car Parking Finder App UI Clone with React Native #2 : Scrolling/Swiping Transition](https://hackernoon.com/react-native-car-parking-finder-app-ui-clone-2-scrollingswiping-transition-hi10y32ws)
-![](https://cdn.hackernoon.com/images/lqv327y.jpg)
-This tutorial is the second part of our React Native Car Parking App UI clone series. In the previous part, we successfully implemented the MapView section as well as separated different UI sections for the map screen. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous part in order to establish the basis and get insight into the overall project.
 
 ### [197. How To Build WordPress App with React Native Part #4: Add Font Icon](https://hackernoon.com/build-wordpress-app-with-react-native-4-add-font-icon-021ec323b)
 ![](https://cdn.hackernoon.com/images/tf383zks.jpg)
 This series intends to show how I build an app to serve content from my WordPress blog by using react-native. Since my blog is talking about react-native, the series and the articles are interconnected. We will learn how to set-up many packages that make our lives comfortable and learn how to deal with WordPress APIs. Here, the most prominent features talked about in the book are the dark theme, offline mode, infinite scroll and many more. You can discover much more in this series. this inspiration to do this tutorial series came from the React Native App Templates from instamobile
 
-### [198. How React Native Is Shaping Mobile App Development](https://hackernoon.com/how-react-native-is-shaping-mobile-app-development-7v3g3wd7)
+### [198. Car Parking Finder App UI Clone with React Native #2 : Scrolling/Swiping Transition](https://hackernoon.com/react-native-car-parking-finder-app-ui-clone-2-scrollingswiping-transition-hi10y32ws)
+![](https://cdn.hackernoon.com/images/lqv327y.jpg)
+This tutorial is the second part of our React Native Car Parking App UI clone series. In the previous part, we successfully implemented the MapView section as well as separated different UI sections for the map screen. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous part in order to establish the basis and get insight into the overall project.
+
+### [199. How React Native Is Shaping Mobile App Development](https://hackernoon.com/how-react-native-is-shaping-mobile-app-development-7v3g3wd7)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHfbV7qGzkScr8DZ1qG0ITCZMePS2-p31s3uuq.jpeg?alt=media&token=23cea0ab-d964-44b7-a42a-f499a647e376)
 Are you a mobile app developer looking for more efficient tools for your projects? Mobile app development is getting tougher and tougher as the market continues to grow. As a developer, you need to develop Apps which meet the demands of your users. To achieve this, adopt the right tools, like the React Native development framework.
 
-### [199. I Built My Own Chat Instead of Relying on Jivo or LiveChat: Here's How](https://hackernoon.com/i-built-my-own-chat-instead-of-relying-on-jivo-or-livechat-heres-how)
-![](https://cdn.hackernoon.com/images/FPQfbJY2fYbkpykIFnuaI2Xsd9v2-4703agw.png)
-In this post, I’ll go through how I built it: the architecture, the contexts for sockets and state, and the UI components that tied it all together.
-
-### [200. React Native vs Flutter 2020: A Detailed Comparison](https://hackernoon.com/react-native-vs-flutter-2019-comparison-l23430da)
-![](https://cdn.hackernoon.com/images/b82t3012.jpg)
-
-
-### [201. React vs. Vue vs. Angular: Which Framework is Best for Developers in 2025?](https://hackernoon.com/react-vs-vue-vs-angular-which-framework-is-best-for-developers-in-2025)
+### [200. React vs. Vue vs. Angular: Which Framework is Best for Developers in 2025?](https://hackernoon.com/react-vs-vue-vs-angular-which-framework-is-best-for-developers-in-2025)
 ![](https://cdn.hackernoon.com/images/X7y6djS0q0heeEAghUKs3FNYjvz2-my03dxi.jpeg)
 Compare React, Vue, and Angular in 2025. Discover how each framework fares on performance, learning, and community support for future-ready web development.
 
-### [202. A Guide for Building Apps with Nested Stacks](https://hackernoon.com/a-guide-for-building-apps-with-nested-stacks-ka1034iv)
+### [201. A Guide for Building Apps with Nested Stacks](https://hackernoon.com/a-guide-for-building-apps-with-nested-stacks-ka1034iv)
 ![](https://cdn.hackernoon.com/images/uYyliVoD7Sg2p8vgvyTlCbH8QpD2-qdi313r.jpeg)
 Learn how to build an app with a nested stack, drawer, and bottom-tab navigators.
+
+### [202. React Native vs Flutter 2020: A Detailed Comparison](https://hackernoon.com/react-native-vs-flutter-2019-comparison-l23430da)
+![](https://cdn.hackernoon.com/images/b82t3012.jpg)
+
 
 ### [203. Finding the Best Chat API: Should You Develop Your Own or Use a Third-Party Solution?](https://hackernoon.com/finding-the-best-chat-api-should-you-develop-your-own-or-use-a-third-party-solution)
 ![](https://cdn.hackernoon.com/images/gzG25VLfJzghBdT1v97jIfj9DE52-t693opx.jpeg)
@@ -827,14 +829,14 @@ New in React 18, New features in react 18
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-dm5t35dk.jpeg)
 We are excited to announce the availability of Courier’s newest provider, Courier Push! We have released Inbox and Toast; two open-source React components
 
-### [206. A Job Interview Made Me Wonder If Mobile Apps Truly Are Inclusive](https://hackernoon.com/a-job-interview-made-me-wonder-if-mobile-apps-truly-are-inclusive)
-![](https://cdn.hackernoon.com/images/generate-image-that-can-be-used-to-describe-mobile-accessibility-fwsndidjj3n99od44p89gwmc.png)
-Discover simple ways to make your mobile app more inclusive and accessible for everyone.
-
-### [207. A Short Guide to React Native App Development](https://hackernoon.com/a-short-guide-to-react-native-app-development-5f2c3t7q)
+### [206. A Short Guide to React Native App Development](https://hackernoon.com/a-short-guide-to-react-native-app-development-5f2c3t7q)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7fB3v4lspCQH54SO2v2psFXuMjg1-dz312tf5.jpeg?alt=media&token=1d010373-9be0-45dd-b1e4-03565761a3a3)
 React Native is undoubtedly one of the most widely used cross-platform frameworks for creating native-like apps. This framework can be
 easily used for developing brand-new apps from scratch and even in existing iOS or Android projects. 
+
+### [207. A Job Interview Made Me Wonder If Mobile Apps Truly Are Inclusive](https://hackernoon.com/a-job-interview-made-me-wonder-if-mobile-apps-truly-are-inclusive)
+![](https://cdn.hackernoon.com/images/generate-image-that-can-be-used-to-describe-mobile-accessibility-fwsndidjj3n99od44p89gwmc.png)
+Discover simple ways to make your mobile app more inclusive and accessible for everyone.
 
 ### [208. Creating Applications with React Native: 5 Important Tips](https://hackernoon.com/creating-applications-with-react-native-5-important-tips-ci4s37mq)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-nf1c37rz.jpeg)
@@ -864,13 +866,13 @@ This React Native Plant App UI clone tutorial series was inspired by the React 
 ![](https://cdn.hackernoon.com/images/46p32c3.jpg)
 This series intends to show how I build an app to serve content from my WordPress blog by using react-native. Since my blog is talking about react-native, the series and the articles are interconnected. We will learn how to set-up many packages that make our lives comfortable and learn how to deal with WordPress APIs. Here, the most prominent features talked about in the book are the dark theme, offline mode, infinite scroll and many more. You can discover much more in this series. this inspiration to do this tutorial series came from the React Native App Templates from instamobile
 
-### [215. How To Build WordPress App with React Native Part #10:  Save Bookmark Feature](https://hackernoon.com/build-wordpress-app-with-react-native-10-save-bookmark-vb26t32hn)
-![](https://cdn.hackernoon.com/images/5y1y32oy.jpg)
-We are going to learn how to bookmark the articles so that we can easily access them in our Bookmark screen later. The process is simple. We are going to save post id to Asyncstorage from the SinglePost screen and then fetch the articles on the bookmark screen. Here, we are going to add the bookmark icon to the SinglePost screen and configure its functionality.
-
-### [216. How To Build WordPress Client App with React Native Part #20: Saving Data to Cache](https://hackernoon.com/build-wordpress-client-app-with-react-native-20-saving-data-to-cache-ja1bz32ln)
+### [215. How To Build WordPress Client App with React Native Part #20: Saving Data to Cache](https://hackernoon.com/build-wordpress-client-app-with-react-native-20-saving-data-to-cache-ja1bz32ln)
 ![](https://cdn.hackernoon.com/images/ajga323y.jpg)
 This series intends to show how I build an app to serve content from my WordPress blog by using react-native. Since my blog is talking about react-native, the series and the articles are interconnected. We will learn how to set-up many packages that make our lives comfortable and learn how to deal with WordPress APIs. Here, the most prominent features talked about in the book are the dark theme, offline mode, infinite scroll and many more. You can discover much more in this series. this inspiration to do this tutorial series came from the React Native App Templates from instamobile
+
+### [216. How To Build WordPress App with React Native Part #10:  Save Bookmark Feature](https://hackernoon.com/build-wordpress-app-with-react-native-10-save-bookmark-vb26t32hn)
+![](https://cdn.hackernoon.com/images/5y1y32oy.jpg)
+We are going to learn how to bookmark the articles so that we can easily access them in our Bookmark screen later. The process is simple. We are going to save post id to Asyncstorage from the SinglePost screen and then fetch the articles on the bookmark screen. Here, we are going to add the bookmark icon to the SinglePost screen and configure its functionality.
 
 ### [217. 7 React Native Libraries For Ultimate UX You Never Experienced](https://hackernoon.com/7-react-native-libraries-for-ultimate-ux-you-never-experienced)
 ![](https://cdn.hackernoon.com/images/tO2i3lvprcMCSRMi7KafLi0msi43-bv93f8l.png)
@@ -880,53 +882,53 @@ Explore 7 Best React Native libraries that elevate user experience to new height
 ![](https://cdn.hackernoon.com/images/88uo32rn.jpg)
 This tutorial is the sixth part of our React Native Car Parking App UI clone series. In the last part, we successfully implemented the Header section in our map screen as well as organized our code. In this part of the tutorial series, we are going to continue from where we left off in the last part. So, it is recommended to go through all the previous parts of this tutorial series in order to get the full insight and development of the project.
 
-### [219. Why Startups Prefer React Native for Mobile App Development](https://hackernoon.com/why-startups-prefer-react-native-for-mobile-app-development-3a2w3y2u)
-![](https://cdn.hackernoon.com/drafts/zz19j3y62.png)
-As per the latest reports; the year 2025 will witness a 5.8 Billion app user base!
-
-### [220. Leveraging Salesforce Using Mobile Applications Written (Once) In React Native ](https://hackernoon.com/leveraging-salesforce-using-mobile-applications-written-once-in-react-native)
+### [219. Leveraging Salesforce Using Mobile Applications Written (Once) In React Native ](https://hackernoon.com/leveraging-salesforce-using-mobile-applications-written-once-in-react-native)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-bv0363p.jpeg)
 In the next part of his series, John Vester introduces Android and iOS mobile applications using React Native to read data from Salesforce.
 
-### [221. The Major Difference Between PWA and Native Apps](https://hackernoon.com/the-major-difference-between-pwa-and-native-apps-6l1q33fn)
-![](https://cdn.hackernoon.com/images/bI8qtI7HUAYME4whVTqvW1Kn5cL2-fz183f6c.jpeg)
-In this article we share our thoughts about difference between PWA and Native Mobile Apps and what best suits business needs.
+### [220. Why Startups Prefer React Native for Mobile App Development](https://hackernoon.com/why-startups-prefer-react-native-for-mobile-app-development-3a2w3y2u)
+![](https://cdn.hackernoon.com/drafts/zz19j3y62.png)
+As per the latest reports; the year 2025 will witness a 5.8 Billion app user base!
 
-### [222. How to Use react-router-native-animate-stack Module](https://hackernoon.com/how-to-use-react-router-native-animate-stack-module-5e4r24n4)
+### [221. How to Use react-router-native-animate-stack Module](https://hackernoon.com/how-to-use-react-router-native-animate-stack-module-5e4r24n4)
 ![](https://cdn.hackernoon.com/images/y53x3y0x.gif)
 React Router Native v5 with your desired customisation transition style! 
+
+### [222. The Major Difference Between PWA and Native Apps](https://hackernoon.com/the-major-difference-between-pwa-and-native-apps-6l1q33fn)
+![](https://cdn.hackernoon.com/images/bI8qtI7HUAYME4whVTqvW1Kn5cL2-fz183f6c.jpeg)
+In this article we share our thoughts about difference between PWA and Native Mobile Apps and what best suits business needs.
 
 ### [223. Appwrite 0.6 is Live with Full Flutter Support](https://hackernoon.com/appwrite-06-is-live-with-full-flutter-support-5g8p3zkv)
 ![](https://cdn.hackernoon.com/images/cx7a3v59.jpg)
 We are incredibly excited to announce the release of Appwrite 0.6. The new Appwrite version is our 10th release since we launched the project eight months ago, and it has some exciting new features.
 
-### [224. Understanding the useState hook in React with Basic Usage](https://hackernoon.com/understanding-the-usestate-hook-in-react-with-basic-usage-iu1y3zes)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-ck103zhe.jpeg?alt=media&token=6cb83905-d8a8-4912-bc21-c14634bea34f)
-useState is a React hook function that allows us to use state and other React features without writing a class. In React every function name begins with "use". 
+### [224. Lessons Learned Developing a Mobile Banking Application ](https://hackernoon.com/lessons-learned-developing-a-mobile-banking-application)
+![](https://cdn.hackernoon.com/images/mobile-banking-application-vr9or5gvb2xzcazm7zp1mno7.png)
+"Discover the journey of developing a secure and user-friendly mobile banking app, empowering financial management and enhancing accessibility. Read more!"
 
 ### [225. React vs React Native: A Pocket Guide for Beginners](https://hackernoon.com/react-vs-react-native-a-pocket-guide-for-beginners)
 ![](https://cdn.hackernoon.com/images/RnMZwfsSDPZG9OBXlKwd37WEDsH3-4jc3pmd.jpeg)
 React and React Native are front-end technologies that use component-driven development and are known for crafting attractive User Interfaces.
 
-### [226. How To Build WordPress Client App with React Native Part #13: Configuring Firebase Database](https://hackernoon.com/build-wordpress-client-app-with-react-native-13-configuring-firebase-g73v232nt)
+### [226. Understanding the useState hook in React with Basic Usage](https://hackernoon.com/understanding-the-usestate-hook-in-react-with-basic-usage-iu1y3zes)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-ck103zhe.jpeg?alt=media&token=6cb83905-d8a8-4912-bc21-c14634bea34f)
+useState is a React hook function that allows us to use state and other React features without writing a class. In React every function name begins with "use". 
+
+### [227. How To Build WordPress Client App with React Native Part #13: Configuring Firebase Database](https://hackernoon.com/build-wordpress-client-app-with-react-native-13-configuring-firebase-g73v232nt)
 ![](https://cdn.hackernoon.com/images/pc46332bk.jpg)
 In this chapter, we are going to implement the Contact screen. This screen is specially for contacting the developer and writer of articles. The users can use it to send a personal message to the developer. For the implementation, we are going to use two main packages. One is tcomb-form-native and the other is react-native-firebase. The tcomb package is to handle the form validation. And, react-native-firebase to connect react native app to real time firebase database.
-
-### [227. Generative AI in JavaScript? Microsoft GenAIScript, Svelte 5, Next.js 15 and More - This Week in JS](https://hackernoon.com/generative-ai-in-javascript-microsoft-genaiscript-svelte-5-nextjs-15-and-more-this-week-in-js)
-![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-xe031sw.png)
-In this edition of This Week in Javascript, we’ve got some game-changing updates on Microsoft’s GenAIScript, the long-awaited Svelte 5 update, and more.
 
 ### [228. Airbnb UI Clone with React Native Part #4 : Animate Top Tag Section](https://hackernoon.com/airbnb-home-screen-ui-clone-with-react-native-4-animate-top-tag-section-p61b43xxs)
 ![](https://cdn.hackernoon.com/images/nqdh3zz9.jpg)
 This tutorial is the fourth part of our Airbnb Home Screen UI clone using React Native. In the previous part, we successfully implemented the Home Around The World sections with home packages. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous parts for better insight and knowledge of the overall project.
 
-### [229. Lessons Learned Developing a Mobile Banking Application ](https://hackernoon.com/lessons-learned-developing-a-mobile-banking-application)
-![](https://cdn.hackernoon.com/images/mobile-banking-application-vr9or5gvb2xzcazm7zp1mno7.png)
-"Discover the journey of developing a secure and user-friendly mobile banking app, empowering financial management and enhancing accessibility. Read more!"
-
-### [230. How to Use Redux in a Project](https://hackernoon.com/how-to-use-redux-in-a-project)
+### [229. How to Use Redux in a Project](https://hackernoon.com/how-to-use-redux-in-a-project)
 ![](https://cdn.hackernoon.com/images/1W3dv3tgGtYsS9uFXn75FQWYeSE2-yb933n5.png)
 Redux is JavaScript library which is use for centralized state management .
+
+### [230. Generative AI in JavaScript? Microsoft GenAIScript, Svelte 5, Next.js 15 and More - This Week in JS](https://hackernoon.com/generative-ai-in-javascript-microsoft-genaiscript-svelte-5-nextjs-15-and-more-this-week-in-js)
+![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-xe031sw.png)
+In this edition of This Week in Javascript, we’ve got some game-changing updates on Microsoft’s GenAIScript, the long-awaited Svelte 5 update, and more.
 
 ### [231. How We Helped Bring Hermes to iOS in React Native 0.64](https://hackernoon.com/how-we-helped-bring-hermes-to-ios-in-react-native-064-o32i34y7)
 ![](https://hackernoon.com/images/KJ3mcmAxpUWXf6w3bdTX8dtvKJH2-hln3fc6.jpeg)
@@ -936,53 +938,53 @@ For a long time Hermes was exclusive to Android – it was optimized for runni
 ![](https://cdn.hackernoon.com/images/1z10323m.jpg)
 This tutorial is the second part of our Airbnb Home Screen UI clone using React Native. In the previous part, we successfully implemented the bottom tab bar and the search bar at the top. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous part for better understanding and insight into the overall project.
 
-### [233. How To Build WordPress App with React Native Part #19: Offline Notifications](https://hackernoon.com/build-wordpress-app-with-react-native-19-notify-user-when-offline-xrvn325t)
+### [233. Your Quickstart Guide to Building Apps With React Expo](https://hackernoon.com/your-quickstart-guide-to-building-apps-with-react-expo)
+![](https://cdn.hackernoon.com/images/future-of-app-development-u3utwqgc6kec6v6xj010ymb7.png)
+Beginner's guide to the ways you can quickly start mobile development, test in the web and using the Expo Go simulator.
+
+### [234. How To Build WordPress App with React Native Part #19: Offline Notifications](https://hackernoon.com/build-wordpress-app-with-react-native-19-notify-user-when-offline-xrvn325t)
 ![](https://cdn.hackernoon.com/images/9no32rl.jpg)
 Here, we are going to integrate the offline mode to the app. This feature is very handy when we are out of connection and we can still access some of the features in the app. Here, we are just going to notify the network status and cache the data using react-native-NetInfo package. Caching will help to pull the data from the AsyncStorage during the offline mode.so this app inspired from React native template from instamobile
 
-### [234. React Native is The Perfect Choice for Your Next Mobile App: Here's Why](https://hackernoon.com/react-native-is-the-perfect-choice-for-your-next-mobile-app-heres-why)
+### [235. React Native is The Perfect Choice for Your Next Mobile App: Here's Why](https://hackernoon.com/react-native-is-the-perfect-choice-for-your-next-mobile-app-heres-why)
 ![](https://cdn.hackernoon.com/images/258VucDozubOWfPhUDxtfX6xNW63-5a75355g.jpeg)
 In this article, we will talk about why React Native is one of the best technologies currently in the market for app development.
 
-### [235. Why a Majority of Startups Prefer ReactJS](https://hackernoon.com/why-a-majority-of-startups-prefer-reactjs-ih3y33jt)
-![](https://cdn.hackernoon.com/images/MqpxiO0IPyQ2AJiLR8mrAdpCcCT2-qx683343.jpeg)
-Just like progress in other tech fields, front-end web development is advancing too. Let's try and understand why ReactJS development is a startup favorite?
-
-### [236. How To Build WordPress App with React Native Part #6 : Html renderer](https://hackernoon.com/build-wordpress-app-with-react-native-6-html-renderer-4ar632mm)
-![](https://cdn.hackernoon.com/images/onvx32vy.jpg)
-Now, we need to display the excerpt of the overall post on the list. For that, we are going to make use of components from the react-native-render-html package. And, we need to display the published date of the article as well. For that, we are going to make use of the moment package which provides the moment.js configurations. In order to use these packages, we need to install them first. For that, we need to use the command from the following code snippet:
+### [236. Here’s Everything I Learned Building a Bitcoin Wallet from Scratch in 4 Months](https://hackernoon.com/heres-everything-i-learned-building-a-bitcoin-wallet-from-scratch-in-4-months)
+![](https://cdn.hackernoon.com/images/1z4Rle7v7uTe9oXU49KOC4NcmO22-2k32qjr.webp)
+I built a Bitcoin wallet solo in 4 months using BitcoinJS and React Native. Here’s everything I learned about infra, engineering, and building in public. 
 
 ### [237. Shrink Your Lottie Animations by 80% with the .lottie Format](https://hackernoon.com/shrink-your-lottie-animations-by-80percent-with-the-lottie-format)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-pp02z4k.jpeg)
 Instead of a raw JSON file, a .lottie animation is a zipped archive that shrinks file size by 70-80% compared to plain JSON.
 
-### [238. The Complete Guide for using Redux in React Native](https://hackernoon.com/the-complete-guide-for-using-redux-in-react-native-9h1h3uq7)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7hNScric1WcTcZqxOlzpN8s54n43-r4af3yoo.png?alt=media&token=f659e424-3532-4dff-9abf-f8f0e6770c56)
-Redux is a popular React and React Native state management library, meant to be used in complex React and React Native apps where sharing state between multi-level components can get extremely difficult to manage. In this article we are going to learn how to use Redux with React Hooks by building a real React Native app.
+### [238. Why a Majority of Startups Prefer ReactJS](https://hackernoon.com/why-a-majority-of-startups-prefer-reactjs-ih3y33jt)
+![](https://cdn.hackernoon.com/images/MqpxiO0IPyQ2AJiLR8mrAdpCcCT2-qx683343.jpeg)
+Just like progress in other tech fields, front-end web development is advancing too. Let's try and understand why ReactJS development is a startup favorite?
 
-### [239. Stay Up-to-Date: Migrating to React 18 with Confidence](https://hackernoon.com/stay-up-to-date-migrating-to-react-18-with-confidence)
+### [239. How To Build WordPress App with React Native Part #6 : Html renderer](https://hackernoon.com/build-wordpress-app-with-react-native-6-html-renderer-4ar632mm)
+![](https://cdn.hackernoon.com/images/onvx32vy.jpg)
+Now, we need to display the excerpt of the overall post on the list. For that, we are going to make use of components from the react-native-render-html package. And, we need to display the published date of the article as well. For that, we are going to make use of the moment package which provides the moment.js configurations. In order to use these packages, we need to install them first. For that, we need to use the command from the following code snippet:
+
+### [240. Stay Up-to-Date: Migrating to React 18 with Confidence](https://hackernoon.com/stay-up-to-date-migrating-to-react-18-with-confidence)
 ![](https://cdn.hackernoon.com/images/usLqJmqUA2b5joa695sCkWq4hKD3-ui93ynu.jpeg)
 The benefits of migrating to React 18 with confidence. Explore its powerful features, step-by-step migration guidance, and optimization strategies.
 
-### [240. How To Build WordPress Client App with React Native Part #8: SinglePost View](https://hackernoon.com/build-wordpress-client-app-with-react-native-8-singlepost-px1j5328a)
+### [241. The Complete Guide for using Redux in React Native](https://hackernoon.com/the-complete-guide-for-using-redux-in-react-native-9h1h3uq7)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7hNScric1WcTcZqxOlzpN8s54n43-r4af3yoo.png?alt=media&token=f659e424-3532-4dff-9abf-f8f0e6770c56)
+Redux is a popular React and React Native state management library, meant to be used in complex React and React Native apps where sharing state between multi-level components can get extremely difficult to manage. In this article we are going to learn how to use Redux with React Hooks by building a real React Native app.
+
+### [242. How To Build WordPress Client App with React Native Part #8: SinglePost View](https://hackernoon.com/build-wordpress-client-app-with-react-native-8-singlepost-px1j5328a)
 ![](https://cdn.hackernoon.com/images/6y2032o5.jpg)
 Since we have the list of articles in the Home Screen, we need to display full articles as well. For that, we are going to create the SinglePost screen which will display the overall article. Here, we will learn how to fetch a single article from the WordPress API.
 
-### [241. Enhancing React Native Applications with MOXY Boilerplate](https://hackernoon.com/enhancing-react-native-applications-with-moxy-boilerplate-hg1l3txk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F8UnlNRsaAZbUFF2Hh6ZRSVH26Vv1-b2b3tl5.jpeg?alt=media&token=3a8ae0c6-3593-47a0-a588-220db673248a)
-Background
-
-### [242. Set or Update New Title and Meta Tag - Angular](https://hackernoon.com/set-or-update-new-title-and-meta-tag-angular)
+### [243. Set or Update New Title and Meta Tag - Angular](https://hackernoon.com/set-or-update-new-title-and-meta-tag-angular)
 ![](https://cdn.hackernoon.com/images/cQl7wiaiASfuhxRVkDJeXz6A5Qh2-y403da3.jpeg)
 Set or Update new Title and Meta Tag- Angular
 
-### [243. Your Quickstart Guide to Building Apps With React Expo](https://hackernoon.com/your-quickstart-guide-to-building-apps-with-react-expo)
-![](https://cdn.hackernoon.com/images/future-of-app-development-u3utwqgc6kec6v6xj010ymb7.png)
-Beginner's guide to the ways you can quickly start mobile development, test in the web and using the Expo Go simulator.
-
-### [244. Here’s Everything I Learned Building a Bitcoin Wallet from Scratch in 4 Months](https://hackernoon.com/heres-everything-i-learned-building-a-bitcoin-wallet-from-scratch-in-4-months)
-![](https://cdn.hackernoon.com/images/1z4Rle7v7uTe9oXU49KOC4NcmO22-2k32qjr.webp)
-I built a Bitcoin wallet solo in 4 months using BitcoinJS and React Native. Here’s everything I learned about infra, engineering, and building in public. 
+### [244. Enhancing React Native Applications with MOXY Boilerplate](https://hackernoon.com/enhancing-react-native-applications-with-moxy-boilerplate-hg1l3txk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F8UnlNRsaAZbUFF2Hh6ZRSVH26Vv1-b2b3tl5.jpeg?alt=media&token=3a8ae0c6-3593-47a0-a588-220db673248a)
+Background
 
 ### [245. Car Parking Finder App UI Clone with React Native #3 : Parking Spot Cards](https://hackernoon.com/react-native-car-parking-finder-app-ui-clone-3-parking-spot-cards-7q1rv32vo)
 ![](https://cdn.hackernoon.com/images/a8m32et.jpg)
@@ -1024,21 +1026,21 @@ This tutorial is the second part of our Amazon UI clone using React Native. In t
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-m10386p.jpeg)
 Effectively & efficiently managing remote developers can be challenging. This article explains the do's and don'ts of managing remote react native developers. 
 
-### [255. React Native Travel Article App UI Clone #5 : Animated Delimiter Dots](https://hackernoon.com/react-native-travel-article-app-ui-clone-5-animated-delimiter-dots-vt1p3xm9)
-![](https://cdn.hackernoon.com/images/hp18t3xbs.jpg)
-This tutorial is the fifth part of our React Native Travel Article App UI clone series. In the previous part, we successfully implemented the Recommendation Section on our List Screen. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous parts in order to get the knowledge and insight into the overall project.
-
-### [256. Understanding React Rendering Without the Buzzwords](https://hackernoon.com/understanding-react-rendering-without-the-buzzwords)
+### [255. Understanding React Rendering Without the Buzzwords](https://hackernoon.com/understanding-react-rendering-without-the-buzzwords)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-wr02vky.jpeg)
 React is often praised for being “declarative,” “efficient,” and “component-based.” But those words don’t mean much when you’re stuck wondering why your compone
 
-### [257. Tutorial: How to Integrate Google Maps into React Native](https://hackernoon.com/tutorial-how-to-integrate-google-maps-into-react-native-4k1i3ujs)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7hNScric1WcTcZqxOlzpN8s54n43-965h3ytm.webp?alt=media&token=97c2c1e8-8ee7-4b82-884b-09a2cf67e742)
-You might have seen Google Maps in almost all the apps these days. Some mobile apps are displaying their outlet locations, track users (like Uber), showing nearby places, etc. So, it shows the importance of maps support in mobile apps. Today, we are going to integrate Google Maps in a React Native app step by step, using the popular React Native Maps package.
+### [256. React Native Travel Article App UI Clone #5 : Animated Delimiter Dots](https://hackernoon.com/react-native-travel-article-app-ui-clone-5-animated-delimiter-dots-vt1p3xm9)
+![](https://cdn.hackernoon.com/images/hp18t3xbs.jpg)
+This tutorial is the fifth part of our React Native Travel Article App UI clone series. In the previous part, we successfully implemented the Recommendation Section on our List Screen. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous parts in order to get the knowledge and insight into the overall project.
 
-### [258. How Multiple Valtio Instances Broke My React Native App](https://hackernoon.com/how-multiple-valtio-instances-broke-my-react-native-app)
+### [257. How Multiple Valtio Instances Broke My React Native App](https://hackernoon.com/how-multiple-valtio-instances-broke-my-react-native-app)
 ![](https://cdn.hackernoon.com/images/code-displayed-on-a-laptop-screen-jef6rndgg5hhw61x5g1um5ey.png)
 A single .npmrc line broke everything. Here’s how pnpm’s hoisting created duplicate Valtio instances—and how I fixed it.
+
+### [258. Tutorial: How to Integrate Google Maps into React Native](https://hackernoon.com/tutorial-how-to-integrate-google-maps-into-react-native-4k1i3ujs)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7hNScric1WcTcZqxOlzpN8s54n43-965h3ytm.webp?alt=media&token=97c2c1e8-8ee7-4b82-884b-09a2cf67e742)
+You might have seen Google Maps in almost all the apps these days. Some mobile apps are displaying their outlet locations, track users (like Uber), showing nearby places, etc. So, it shows the importance of maps support in mobile apps. Today, we are going to integrate Google Maps in a React Native app step by step, using the popular React Native Maps package.
 
 ### [259. "I'm worried about the divide between good and bad developers" - Karan Shah, Noonie Nominee ](https://hackernoon.com/im-worried-about-the-divide-between-good-and-bad-developers-karan-shah-noonie-nominee-ck353u49)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-ja2u3utb.jpeg?alt=media&token=dced5e83-fda4-4a34-a102-cf64afba9327)
@@ -1052,25 +1054,25 @@ This tutorial is the third and final part of our Amazon UI clone using React Nat
 ![](https://cdn.hackernoon.com/images/rbm3292.jpg)
 This tutorial is the fourth part of our React Native Car Parking App UI clone series. In the last part, we successfully implemented the car parking spots section. In this part of the tutorial series, we are going to continue from where we left off in the last part. So, it is recommended to go through the previous parts of this tutorial series in order to get the full insight and development of the project.
 
-### [262. The Quick Guide To Thinking Scientifically About Your Acne](https://hackernoon.com/the-quick-guide-to-thinking-scientifically-about-your-acne-tvm3w0v)
+### [262. Shopify Case Study: Understanding Caching Patterns Using a Simple MVP](https://hackernoon.com/shopify-case-study-understanding-caching-patterns-using-a-simple-mvp)
+![](https://cdn.hackernoon.com/images/JvjCOSrRbJTj3eDxmY8zFRxYoRF3-nc8316z.jpeg)
+A case study running a small simulation to observe the effects of cache-aside on latency and the effects of additional optimization.
+
+### [263. The Quick Guide To Thinking Scientifically About Your Acne](https://hackernoon.com/the-quick-guide-to-thinking-scientifically-about-your-acne-tvm3w0v)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJ3izhlzSjLdPSkOBMvE0KAVPMxf2-cc6v3ead.jpeg?alt=media&token=32b0d85a-26a6-4728-84bf-78bd55970ac1)
 "For every complex problem, there's a solution that is simple, neat, and wrong." - H.L. Mencken
 
-### [263. Why Learn Any Other Programming Language When You Can Learn Typescript?](https://hackernoon.com/why-learn-any-other-programming-language-when-you-can-learn-typescript)
+### [264. Why Learn Any Other Programming Language When You Can Learn Typescript?](https://hackernoon.com/why-learn-any-other-programming-language-when-you-can-learn-typescript)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-ua036gb.jpeg)
 Use TypeScript in all your projects and all use cases without any limitation. You can now do frontend, backend, infrastructure and machine learning in one progr
-
-### [264. How To Build WordPress App with React Native Part #18: Changing Theme Functionality](https://hackernoon.com/build-wordpress-app-with-react-native-18-changing-theme-it5n32oq)
-![](https://cdn.hackernoon.com/images/t51v326n.jpg)
-
 
 ### [265. From Native to React Native](https://hackernoon.com/from-native-to-react-native)
 ![](https://cdn.hackernoon.com/images/lHhQJKX9A8Rj1KCWvnM9IMPdK6R2-bd93rdi.png)
 React Native brings down the time to fast prototyping app ideas from weeks to hours, by abstracting out the underlying device on which to deploy the app.
 
-### [266. Shopify Case Study: Understanding Caching Patterns Using a Simple MVP](https://hackernoon.com/shopify-case-study-understanding-caching-patterns-using-a-simple-mvp)
-![](https://cdn.hackernoon.com/images/JvjCOSrRbJTj3eDxmY8zFRxYoRF3-nc8316z.jpeg)
-A case study running a small simulation to observe the effects of cache-aside on latency and the effects of additional optimization.
+### [266. How To Build WordPress App with React Native Part #18: Changing Theme Functionality](https://hackernoon.com/build-wordpress-app-with-react-native-18-changing-theme-it5n32oq)
+![](https://cdn.hackernoon.com/images/t51v326n.jpg)
+
 
 ### [267. React Native Car Parking Finder App UI Clone #5: Header Section](https://hackernoon.com/react-native-car-parking-finder-app-ui-clone-5-header-section-vvr32hw)
 ![](https://cdn.hackernoon.com/images/u8nf321a.jpg)
@@ -1089,21 +1091,21 @@ Here, we are going to implement the Categories screen. This screen will contain 
 ![](https://cdn.hackernoon.com/images/fYVbYndEJLfYQQm4S9QdpdLRZVD3-5s038vz.png)
 Toffee is a debt tracking and management app designed to turn financial stress into momentum. 
 
-### [271. How To Build WordPress Client App with React Native Part #14: Implementing Settings Screen](https://hackernoon.com/build-wordpress-client-app-with-react-native-14-implementing-settings-screen-gi49i32rk)
-![](https://cdn.hackernoon.com/images/k1h832m9.jpg)
-Now, we need to goto Setting.js file and implement a Contact menu option UI in order to navigate to the Contact screen. For that, we need to use the code from the following code snippet in the Setting.js file:
-
-### [272. How To Build WordPress Client App with React Native Part #11: Remove Bookmark Feature](https://hackernoon.com/build-wordpress-client-app-with-react-native-11-remove-bookmark-932ul32ud)
+### [271. How To Build WordPress Client App with React Native Part #11: Remove Bookmark Feature](https://hackernoon.com/build-wordpress-client-app-with-react-native-11-remove-bookmark-932ul32ud)
 ![](https://cdn.hackernoon.com/images/91p323p.jpg)
 Here, we are going to implement the removing of the bookmark from the articles. This case is simpler than saving the bookmarks. Here, we are going to define a function called removeBookMark. For that, we need to use the code from the following code snippet:
 
-### [273. How to Ask Users for App Ratings and Open Google Play Store (React Native)](https://hackernoon.com/how-to-ask-users-for-app-ratings-and-open-google-play-store-react-native-3m4f3ud3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fdu18xmnIgUdzNuBz0ILmP1Rnm9M2-ehh3yyq.webp?alt=media&token=e4459266-dc70-4952-a66f-38b2914bc688)
-User ratings are very valuable to business as they play a crucial part in people's purchasing decisions; be it restaurants, movie tickets or in the current context, our react native app. You must have seen prompts when you are surfing through any android app or playing games, that ask you to rate the app in google play store.
+### [272. How To Build WordPress Client App with React Native Part #14: Implementing Settings Screen](https://hackernoon.com/build-wordpress-client-app-with-react-native-14-implementing-settings-screen-gi49i32rk)
+![](https://cdn.hackernoon.com/images/k1h832m9.jpg)
+Now, we need to goto Setting.js file and implement a Contact menu option UI in order to navigate to the Contact screen. For that, we need to use the code from the following code snippet in the Setting.js file:
 
-### [274. How to Start Simulator Without Using Android Studio and Xcode: An Essential Guide](https://hackernoon.com/how-to-start-simulator-without-using-android-studio-and-xcode-an-essential-guide)
+### [273. How to Start Simulator Without Using Android Studio and Xcode: An Essential Guide](https://hackernoon.com/how-to-start-simulator-without-using-android-studio-and-xcode-an-essential-guide)
 ![](https://cdn.hackernoon.com/images/7aiOZEGF8UQGV5tL8ResAAiZgMi1-ug7a35zc.jpeg)
 Life is too short to start our simulator using conventional ways. Here is the hack.
+
+### [274. How to Ask Users for App Ratings and Open Google Play Store (React Native)](https://hackernoon.com/how-to-ask-users-for-app-ratings-and-open-google-play-store-react-native-3m4f3ud3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fdu18xmnIgUdzNuBz0ILmP1Rnm9M2-ehh3yyq.webp?alt=media&token=e4459266-dc70-4952-a66f-38b2914bc688)
+User ratings are very valuable to business as they play a crucial part in people's purchasing decisions; be it restaurants, movie tickets or in the current context, our react native app. You must have seen prompts when you are surfing through any android app or playing games, that ask you to rate the app in google play store.
 
 ### [275. From Developer to Visionary: The Entrepreneurial Journey of Myroslav Koval](https://hackernoon.com/from-developer-to-visionary-the-entrepreneurial-journey-of-myroslav-koval)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-qy138yg.png)

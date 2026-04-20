@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [brick_trade](https://hackernoon.com/tagged/brick_trade)
+### Let's learn about [Brick_trade](https://hackernoon.com/tagged/brick_trade) via these 53 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Brick trade typically refers to trading in physical or tangible assets, such as real estate or specific commodities. It matters for understanding market dynamics and investment opportunities in traditional or emerging asset classes.
+
 ### [1. Spray, Pray, and Go Away: Investing is an Art](https://hackernoon.com/spray-pray-and-go-away-investing-is-an-art)
 ![](https://cdn.hackernoon.com/images/QiHttKD2fWgdSL9mr8kJ7JAwOKA2-3293qb4.jpeg)
 It is the knowledge that I'm going to die that creates the focus that I bring to being alive. The urgency of accomplishment.
@@ -57,13 +61,13 @@ Good contests come in threes.
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-sa93qpg.jpeg)
 Decentralized finance has apparently solved the limitations known with Centralized finance.
 
-### [15. Could Tether (USDT) Go the Way of Terra USD (UST)?](https://hackernoon.com/could-tether-usdt-go-the-way-of-terra-usd-ust)
-![](https://cdn.hackernoon.com/images/QSTw1Dvib9TyrPWsWt3PmtqHUds1-kr93olq.jpeg)
-Holding a lion's share of total stablecoin market for years, USDT began to lose ground to its competitors. According to The Block statistics, currently, USDT accounts for 47.99% of total stablecoin supply. As of January 2021, 1st, USDT accounted for as much as 74.17% of the stablecoin market.
-
-### [16. Build to Rent DAO: Pioneering the Concept of 'Rent-to-Earn'](https://hackernoon.com/build-to-rent-dao-pioneering-the-concept-of-rent-to-earn)
+### [15. Build to Rent DAO: Pioneering the Concept of 'Rent-to-Earn'](https://hackernoon.com/build-to-rent-dao-pioneering-the-concept-of-rent-to-earn)
 ![](https://cdn.hackernoon.com/images/mMixbeHVzGdPo2DZmeov7qh7kjG2-0gd3kk8.jpeg)
 Real estate tokenization system allows users to rent objects from a decentralized autonomous organization or DAO instead of buying it. 
+
+### [16. Could Tether (USDT) Go the Way of Terra USD (UST)?](https://hackernoon.com/could-tether-usdt-go-the-way-of-terra-usd-ust)
+![](https://cdn.hackernoon.com/images/QSTw1Dvib9TyrPWsWt3PmtqHUds1-kr93olq.jpeg)
+Holding a lion's share of total stablecoin market for years, USDT began to lose ground to its competitors. According to The Block statistics, currently, USDT accounts for 47.99% of total stablecoin supply. As of January 2021, 1st, USDT accounted for as much as 74.17% of the stablecoin market.
 
 ### [17. The Decentralized Internet as the First Step Toward Post-Money Economy](https://hackernoon.com/the-decentralized-internet-as-the-first-step-toward-post-money-economy)
 ![](https://cdn.hackernoon.com/images/leM3ytinaQWoWJkT6E2ffqbZ9go2-x1c2n4p.jpeg)
@@ -104,13 +108,13 @@ Elrond is helping to mainstream DeFi by popularizing decentralized lending and b
 ![](https://cdn.hackernoon.com/images/wRNYvtpOEveLDNeF8rW4HD5W26D2-xra3xji.jpeg)
 Using Blockchain to Disrupt the Property Market
 
-### [26. Are We Close to Abolishing Physical Money and Bank Cards?](https://hackernoon.com/are-we-close-to-abolishing-physical-money-and-bank-cards)
-![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-jo93kco.jpeg)
-In this slogging thread, our tech community discussed how implementing a microchip on our hands can be an innovative option instead of our bank cards. 
-
-### [27. How to Buy Twitter by Building a Crowdfunding Web3 Dapp](https://hackernoon.com/how-to-buy-twitter-by-building-a-crowdfunding-web3-dapp)
+### [26. How to Buy Twitter by Building a Crowdfunding Web3 Dapp](https://hackernoon.com/how-to-buy-twitter-by-building-a-crowdfunding-web3-dapp)
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-gv93u54.jpeg)
 We’ll consider how we could build our own crowdfunding Web3 decentralized app (“dapp"). Ready to take on Elon?
+
+### [27. Are We Close to Abolishing Physical Money and Bank Cards?](https://hackernoon.com/are-we-close-to-abolishing-physical-money-and-bank-cards)
+![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-jo93kco.jpeg)
+In this slogging thread, our tech community discussed how implementing a microchip on our hands can be an innovative option instead of our bank cards. 
 
 ### [28. How to Earn FREE Crypto in 2022](https://hackernoon.com/how-to-earn-free-crypto-in-2022)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-jx931xt.jpeg)
@@ -188,29 +192,29 @@ How to make money on "relief" during the Bear Market
 ![](https://cdn.hackernoon.com/images/github/future-of-finance-742.png)
 Learn everything you need to know about Future Of Finance via these 143 free HackerNoon stories.
 
-### [47. 5 Cryptocurrencies With the Most Long-Term Potential](https://hackernoon.com/5-cryptocurrencies-with-the-most-long-term-potential)
+### [47. Central African Republic Adopts Bitcoin as Official Currency](https://hackernoon.com/central-african-republic-adopts-bitcoin-as-official-currency)
+![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-os93oz0.jpeg)
+In this thread, our community discusses the potential impacts of Bitcoin adoption as legal tender in the Central African Republic.
+
+### [48. 5 Cryptocurrencies With the Most Long-Term Potential](https://hackernoon.com/5-cryptocurrencies-with-the-most-long-term-potential)
 ![](https://cdn.hackernoon.com/images/OWwusqtd11XIq9iOOIyuavuCQ7p2-su93tak.jpeg)
 Trying to figure out how to make money with cryptocurrency isn’t all that easy, but there’s one thing for sure: it’s definitely worth it. 
 
-### [48. What Will the Gig Economy be like in 2022?](https://hackernoon.com/what-will-the-gig-economy-be-like-in-2022)
+### [49. What Will the Gig Economy be like in 2022?](https://hackernoon.com/what-will-the-gig-economy-be-like-in-2022)
 ![](https://cdn.hackernoon.com/images/tk9vmzdTi3gZG0MAtATvZ9rcuCs2-3w93lsx.jpeg)
 Any sort of work that doesn't really need an everyday occupation is viewed as a Gig Economy. 
-
-### [49. Central African Republic Adopts Bitcoin as Official Currency](https://hackernoon.com/central-african-republic-adopts-bitcoin-as-official-currency)
-![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-os93oz0.jpeg)
-In this thread, our community discusses the potential impacts of Bitcoin adoption as legal tender in the Central African Republic.
 
 ### [50. 43 Stories To Learn About Brick_trade](https://hackernoon.com/43-stories-to-learn-about-brick_trade)
 ![](https://cdn.hackernoon.com/images/github/brick_trade-502.png)
 Learn everything you need to know about Brick_trade via these 43 free HackerNoon stories.
 
-### [51. Saving Your Money in a Crisis With Cryptocurrencies](https://hackernoon.com/saving-your-money-in-a-crisis-with-cryptocurrencies)
-![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-goh3jfb.jpeg)
-In DeFi, the yield on deposits in dollar stablecoins reaches 15-20%. I discuss the risks and where to invest for a conservated crypto-investor in 2022.
-
-### [52. DeFi— the Solution to Centralized Finance](https://hackernoon.com/defi-the-solution-to-centralized-finance)
+### [51. DeFi— the Solution to Centralized Finance](https://hackernoon.com/defi-the-solution-to-centralized-finance)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-rp93p6p.jpeg)
 DeFi is a major financial breakthrough that validates the opinion that computers and technology are taking over and might even take over quicker than projected.
+
+### [52. Saving Your Money in a Crisis With Cryptocurrencies](https://hackernoon.com/saving-your-money-in-a-crisis-with-cryptocurrencies)
+![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-goh3jfb.jpeg)
+In DeFi, the yield on deposits in dollar stablecoins reaches 15-20%. I discuss the risks and where to invest for a conservated crypto-investor in 2022.
 
 ### [53. Don't Be Fooled By Insanely High APYs?](https://hackernoon.com/dont-be-fooled-by-insanely-high-apys)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-gp93mjd.jpeg)

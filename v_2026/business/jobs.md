@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [jobs](https://hackernoon.com/tagged/jobs)
+### Let's learn about [Jobs](https://hackernoon.com/tagged/jobs) via these 125 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Jobs represent employment opportunities, particularly within the dynamic tech sector, offering roles across various specialties. Understanding job market trends and requirements is vital for individual career development and for organizations seeking talent to drive innovation.
+
 ### [1. My Terrible Experience Applying for a Job at Crossover for Work](https://hackernoon.com/my-terrible-experience-applying-for-a-job-at-crossover-for-work-hr2c34hr)
 ![](https://cdn.hackernoon.com/images/m4QBpFGz2jOCYvxjx2wHuZ1uNeO2-f82l34za.jpeg)
 Crossover for Work advertises dozens of jobs all the time, many of them highly paid, many for senior developers and architects. Everyone works from home. 
@@ -136,13 +140,13 @@ Wondering how to prepare for coding interviews? Here is your guide to prepare an
 ![](https://cdn.hackernoon.com/images/wr3933583.jpg)
 Software engineers seem to be in demand, but there are a lot of contradictory threads and information out there. Articles have even come out that question whether you really want to actually be a software engineer or whether you want to actually use your software engineering skills to create your own systems. 
 
-### [34. The New Future of Work Paradigm](https://hackernoon.com/the-new-future-of-work-paradigm)
-![](https://cdn.hackernoon.com/images/cyQXDCY7GOY4EiwaH8tgBTX8LoS2-n593mtx.jpeg)
-The New Future of Work Paradigm
-
-### [35. How to Ace Your Interview Assignment to Land Your Next Front-end Job](https://hackernoon.com/how-to-ace-your-interview-assignment-to-land-your-next-front-end-job)
+### [34. How to Ace Your Interview Assignment to Land Your Next Front-end Job](https://hackernoon.com/how-to-ace-your-interview-assignment-to-land-your-next-front-end-job)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-2gb3hly.jpeg)
 Let’s have a quick look at how to make your next front-end interview assignment look as good as possible.
+
+### [35. The New Future of Work Paradigm](https://hackernoon.com/the-new-future-of-work-paradigm)
+![](https://cdn.hackernoon.com/images/cyQXDCY7GOY4EiwaH8tgBTX8LoS2-n593mtx.jpeg)
+The New Future of Work Paradigm
 
 ### [36. Check Out the Top Jobs of the Metaverse!](https://hackernoon.com/check-out-the-top-jobs-of-the-metaverse)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-sy93qdu.jpeg)
@@ -152,17 +156,17 @@ What jobs are possible in the future of a metaverse?
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9Gby6PELpjQmxFLF10XleF0L1T53-93oi3up2.jpeg?alt=media&token=38d7908f-8d6c-4c96-9d86-5f58cd2b1015)
 To become a product manager, I had to first ascertain what transferrable skills I had that would be relevant in product management and was ready to develop new ones that I did not yet have.
 
-### [38. AI May Be Coming for Your Job: What You Need to Do to Stop It](https://hackernoon.com/ai-may-be-coming-for-your-job-what-you-need-to-do-to-stop-it)
+### [38. Popular Web3 Recruiter Owen Healy Shares His Insights Into The Blockchain Job Market](https://hackernoon.com/popular-web3-recruiter-owen-healy-shares-insights-into-the-blockchain-job-market)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-xs92fcx.jpeg)
+Owen Healy, the founder of Owen Healy Blockchain Talent and a leading pioneer in blockchain recruitment, sits down to discuss web3 recruitment and its challenge
+
+### [39. AI May Be Coming for Your Job: What You Need to Do to Stop It](https://hackernoon.com/ai-may-be-coming-for-your-job-what-you-need-to-do-to-stop-it)
 ![](https://cdn.hackernoon.com/images/XWM5uWRLl0fG1IB4hFpQDTfH0xz1-u692rez.jpeg)
 It is only a matter of time, AI will surely take over human jobs in many sectors. To mitigate the inevitable disruption by this Technology, upskilling is needed
 
-### [39. The growing pains of becoming an Intermediate developer](https://hackernoon.com/growing-pains-becoming-an-intermediate-developer-y03ee38yw)
+### [40. The growing pains of becoming an Intermediate developer](https://hackernoon.com/growing-pains-becoming-an-intermediate-developer-y03ee38yw)
 ![](https://cdn.hackernoon.com/images/hqzs35dx.jpg)
 
-
-### [40. Popular Web3 Recruiter Owen Healy Shares His Insights Into The Blockchain Job Market](https://hackernoon.com/popular-web3-recruiter-owen-healy-shares-insights-into-the-blockchain-job-market)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-xs92fcx.jpeg)
-Owen Healy, the founder of Owen Healy Blockchain Talent and a leading pioneer in blockchain recruitment, sits down to discuss web3 recruitment and its challenge
 
 ### [41. What AI Will Do To Data Science](https://hackernoon.com/what-ai-will-do-to-data-science)
 ![](https://cdn.hackernoon.com/images/lw8b8Cc9cKMZL953BfS6VcD8zUi1-wo03ztv.png)
@@ -208,13 +212,13 @@ A job hunt quest in a new country, using tech to make the process easier: RSS fe
 ![](https://cdn.hackernoon.com/images/1gXU03t5E4MEV2CvITPNPjUit0z2-0t93cwk.jpeg)
 No experience with coding? No problem. There’s lots of room in web3. Here's a few tips for job searching in the space.
 
-### [52. 5 Best Career Path for Experienced Java Developers](https://hackernoon.com/the-5-most-career-accelerating-job-options-for-senior-devs-in-2020-mi373ubz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMQzhgEvAeOXyPo3IjFRz4IZU3K83-gs9r3u3f.jpeg?alt=media&token=682fe930-dac7-4928-ba54-a302c94501ba)
-If you are an experienced developer or a senior Java programmer, like someone with more than 5 to 8 years of experience, and wondering how to get to the next level, then you have come to the right place. 
-
-### [53. How to Land an Internship at Zomato by Cold Messaging on LinkedIn](https://hackernoon.com/how-to-land-an-internship-at-zomato-by-cold-messaging-on-linkedin)
+### [52. How to Land an Internship at Zomato by Cold Messaging on LinkedIn](https://hackernoon.com/how-to-land-an-internship-at-zomato-by-cold-messaging-on-linkedin)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-iw93paq.jpeg)
 This blog covers everything from the importance of LinkedIn in getting an internship to a detailed hiring process I went through to get an internship at Zomato.
+
+### [53. 5 Best Career Path for Experienced Java Developers](https://hackernoon.com/the-5-most-career-accelerating-job-options-for-senior-devs-in-2020-mi373ubz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMQzhgEvAeOXyPo3IjFRz4IZU3K83-gs9r3u3f.jpeg?alt=media&token=682fe930-dac7-4928-ba54-a302c94501ba)
+If you are an experienced developer or a senior Java programmer, like someone with more than 5 to 8 years of experience, and wondering how to get to the next level, then you have come to the right place. 
 
 ### [54. 15 Best Places to Find a Remote Software Developer Job](https://hackernoon.com/15-best-places-to-find-a-remote-software-developer-job)
 ![](https://cdn.hackernoon.com/images/7WmzA4fccTahxyPj50SRqR6Dg5b2-r4v35rs.jpeg)
@@ -224,13 +228,13 @@ Remote work has become increasingly popular in recent years thanks to the shift 
 ![](https://cdn.hackernoon.com/images/xXh2IVzxSdbdOajIMYS2Kt0aAIx1-yw93po4.jpeg)
 Here's what to understand about the "future of work" particularly for jobseekers.
 
-### [56. 15 Secrets Every Job Seeker Needs to Know](https://hackernoon.com/15-secrets-every-job-seeker-needs-to-know)
-![](https://cdn.hackernoon.com/images/azAByOWivJOBmZzVX5O8IADX2ZG3-xb93pyv.jpeg)
-There are a lot of things that job seekers need to know in order to be successful in their search. However, there are some secrets that can be even more helpful
-
-### [57. The Basics Of Getting A Job](https://hackernoon.com/the-basics-of-getting-a-job)
+### [56. The Basics Of Getting A Job](https://hackernoon.com/the-basics-of-getting-a-job)
 ![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-gb93z3h.jpeg)
 Getting hired needs applicants to complete some steps; writing resume/CV, cover letter, popular interview questions, general interview advice, choosing a job.
+
+### [57. 15 Secrets Every Job Seeker Needs to Know](https://hackernoon.com/15-secrets-every-job-seeker-needs-to-know)
+![](https://cdn.hackernoon.com/images/azAByOWivJOBmZzVX5O8IADX2ZG3-xb93pyv.jpeg)
+There are a lot of things that job seekers need to know in order to be successful in their search. However, there are some secrets that can be even more helpful
 
 ### [58. Trapped Under a Rubble of Debt and Stuck in a Foreign Country](https://hackernoon.com/trapped-under-a-rubble-of-debt-and-stuck-in-a-foreign-country)
 ![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-6192hz0.jpeg)
@@ -264,13 +268,13 @@ Finally, your onboarding experience won’t be without its challenges. Be kind t
 ![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-1j13b7r.jpeg)
 Discover the Opportunity Card (Chancenkarte), Germany's innovative immigration policy aimed at attracting skilled workers from non-EU countries.
 
-### [66. Why Giving Developers The Freedom Of Choice Is Not Easy](https://hackernoon.com/why-giving-developers-the-freedom-of-choice-is-not-easy-ttj936m9)
+### [66. How Will Technology Affect the Job Market? Key Insights from the WEF's 'Future of Jobs' Report](https://hackernoon.com/how-will-technology-affect-the-job-market-key-insights-from-the-wefs-future-of-jobs-report)
+![](https://cdn.hackernoon.com/images/4jGydks65TessvY97OpPBE5hoCD3-1o93smd.jpeg)
+The survey shows that more and more businesses are expected to adopt new and frontier technologies and broaden their digital access.
+
+### [67. Why Giving Developers The Freedom Of Choice Is Not Easy](https://hackernoon.com/why-giving-developers-the-freedom-of-choice-is-not-easy-ttj936m9)
 ![](https://cdn.hackernoon.com/images/2kfu3rrb.gif)
 It’s a fact that software developers are in great demand these days, to say the least… The growing need for building more tech products vs. well-trained resources is out of balance.
-
-### [67. How to Work in Tech Without  Technical Experience](https://hackernoon.com/how-to-work-in-tech-without-technical-experience)
-![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-2t935js.jpeg)
-Learn what are the best entry level IT jobs. I describe briefly what QA engineer, product owner, scrum master, UX/UI designer, CSM and technical writer do. It's
 
 ### [68. A Short History of Graphic Design Jobs](https://hackernoon.com/a-short-history-of-graphic-design-jobs)
 ![](https://cdn.hackernoon.com/images/j0VcnIj58mOSDbu7dw8c43rhpYC2-8492hi2.jpeg)
@@ -280,9 +284,9 @@ Graphic Designers and Artists are in high demand, but with advancements in softw
 ![](https://cdn.hackernoon.com/images/nmvoCgnJiwhTkV1QRzw1bJaFDhJ2-lq93sbz.jpeg)
 Having a strong online presence accelerates your career and gives you optionality. Yet, many knowledge workers are getting left behind.
 
-### [70. How Will Technology Affect the Job Market? Key Insights from the WEF's 'Future of Jobs' Report](https://hackernoon.com/how-will-technology-affect-the-job-market-key-insights-from-the-wefs-future-of-jobs-report)
-![](https://cdn.hackernoon.com/images/4jGydks65TessvY97OpPBE5hoCD3-1o93smd.jpeg)
-The survey shows that more and more businesses are expected to adopt new and frontier technologies and broaden their digital access.
+### [70. How to Work in Tech Without  Technical Experience](https://hackernoon.com/how-to-work-in-tech-without-technical-experience)
+![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-2t935js.jpeg)
+Learn what are the best entry level IT jobs. I describe briefly what QA engineer, product owner, scrum master, UX/UI designer, CSM and technical writer do. It's
 
 ### [71. Radiologists Won't Be Losing Their Jobs to AI Anytime Soon](https://hackernoon.com/radiologists-wont-be-losing-their-jobs-to-ai-anytime-soon)
 ![](https://cdn.hackernoon.com/images/ai-and-radiologists-clit40gz9000201s6g1dzaq1p.png)
@@ -300,17 +304,17 @@ The Great Resignation might be waning among knowledge workers. Enter: The Grea
 ![](https://cdn.hackernoon.com/drafts/5o2su30od.png)
 Working remotely is no longer just a dream. If you can afford a decent laptop and access to the internet, combine it with solid work skills and that gives you a pretty good chance to find a remote job. Professionals in many industries including entrepreneurs, marketers, writers and of course software engineers have already chosen this route. 
 
-### [75. HR by Spreadsheet vs. HR by Algorithm](https://hackernoon.com/hr-by-spreadsheet-vs-hr-by-algorithm-a3103egz)
+### [75. How to Write an Impressive Resume As a Teenager](https://hackernoon.com/how-to-write-an-impressive-resume-as-a-teenager)
+![](https://cdn.hackernoon.com/images/QCzUXmup1gWrS723VFnOS8C4jQ03-oja3ub9.jpeg)
+A good resume can showcase your skills and potential to employers. I will provide a step-by-step guide on writing an impressive resume as a teenager.
+
+### [76. HR by Spreadsheet vs. HR by Algorithm](https://hackernoon.com/hr-by-spreadsheet-vs-hr-by-algorithm-a3103egz)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9Ccr8ENvdfa1S9fx2DnirTcMz6i2-4ru3t98.jpeg?alt=media&token=c2afd640-b4a1-4d83-b075-fd204c5e626e)
 If you are a human resources manager, your job is obsolete — you are no longer needed. It is only a matter of time before you are shown the door. Automation in human resources — the process of enhancing the efficiency of the HR departments by freeing employees from tedious manual tasks — is already here.
 
-### [76. Adopt a DevOps Culture Before Looking for DevOps Engineers](https://hackernoon.com/adopt-a-devops-culture-before-looking-for-devops-engineers-do533uol)
+### [77. Adopt a DevOps Culture Before Looking for DevOps Engineers](https://hackernoon.com/adopt-a-devops-culture-before-looking-for-devops-engineers-do533uol)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaOMBiR4535W8zWy17Ay54mCQux13-kbb28d0.jpeg?alt=media&token=338e3ae7-bc93-425f-b117-cd757707b693)
 Job specs for DevOps engineer jobs often mention a vast variety of duties and responsibilities. Are they hiring for a single role or a whole team?
-
-### [77. How to Write an Impressive Resume As a Teenager](https://hackernoon.com/how-to-write-an-impressive-resume-as-a-teenager)
-![](https://cdn.hackernoon.com/images/QCzUXmup1gWrS723VFnOS8C4jQ03-oja3ub9.jpeg)
-A good resume can showcase your skills and potential to employers. I will provide a step-by-step guide on writing an impressive resume as a teenager.
 
 ### [78. 81 Stories To Learn About Job Search](https://hackernoon.com/81-stories-to-learn-about-job-search)
 ![](https://cdn.hackernoon.com/images/github/job-search-955.png)
@@ -332,33 +336,33 @@ This article provides 12 mistakes every PM should avoid during the job interview
 ![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-lv82tq1.jpeg)
 More reflections on job hunting right now, my own job search, and what I'm hearing from folks with boots on the ground.
 
-### [83. Popular Online Courses: The Best One To Enhance Your Copywriting ](https://hackernoon.com/popular-online-courses-the-best-one-to-enhance-your-copywriting)
-![](https://cdn.hackernoon.com/images/fgVJUbA0JxgMFfVOMHfuWIWOJxu1-94i2opc.jpeg)
-Learn and enhance your copywriting, with the best online courses available. 
-
-### [84. Job Hunting for Newbies ](https://hackernoon.com/job-hunting-for-newbies)
-![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-ca03aci.jpeg)
-Looking for work can be challenging, especially if you don't know where to start. Thinking of you, we decided to share a few hacks to help you nail the job.
-
-### [85. HackerNoon is Looking for Sales Superstars. Apply Now!](https://hackernoon.com/hacker-noon-is-looking-for-sales-superstars-apply-now)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-np1377h.gif.webp)
-Hello World! This is Sidra, Business Development Representative from HackerNoon's smart and lean Sales team. Today, I'm here with exciting news - WE ARE HIRING!
-
-### [86. Unlock the Magic of a Technical Mindset: Your Key to Success in Life and Jobs!](https://hackernoon.com/unlock-the-magic-of-a-technical-mindset-your-key-to-success-in-life-and-jobs)
-![](https://cdn.hackernoon.com/images/qbjdMko7eFaiqBJgAApmsjilPv83-41a3lr5.jpeg)
-Hey there, fellow truth-seekers! Are you tired of crossing your fingers, avoiding black cats, and sacrificing your lunch to appease ancient superstitions? 
-
-### [87. You should shadow your dream job to launch your dream career](https://hackernoon.com/you-should-shadow-your-dream-job-to-launch-your-dream-career-873437dr)
-![](https://cdn.hackernoon.com/images/BRQs3qM34WRAiBHnhyY2DfBjj0I3-93i29ud.jpeg)
-A blog post all about how I went on a job shadow with a web developer and software developer. I learned about APIS, javascript, and object oriented programming.
-
-### [88. I Asked AI to Predict 2026’s Hottest AI Job — Here’s What It Said](https://hackernoon.com/i-asked-ai-to-predict-2026s-hottest-ai-job-heres-what-it-said)
+### [83. I Asked AI to Predict 2026’s Hottest AI Job — Here’s What It Said](https://hackernoon.com/i-asked-ai-to-predict-2026s-hottest-ai-job-heres-what-it-said)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6t0223e.jpeg)
 The role sits at the intersection of human psychology, data ethics, and generative technology. 
 
-### [89. The Best Way to Find Software Developer Jobs in Switzerland](https://hackernoon.com/the-best-way-to-find-software-developer-jobs-in-switzerland)
+### [84. Popular Online Courses: The Best One To Enhance Your Copywriting ](https://hackernoon.com/popular-online-courses-the-best-one-to-enhance-your-copywriting)
+![](https://cdn.hackernoon.com/images/fgVJUbA0JxgMFfVOMHfuWIWOJxu1-94i2opc.jpeg)
+Learn and enhance your copywriting, with the best online courses available. 
+
+### [85. Job Hunting for Newbies ](https://hackernoon.com/job-hunting-for-newbies)
+![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-ca03aci.jpeg)
+Looking for work can be challenging, especially if you don't know where to start. Thinking of you, we decided to share a few hacks to help you nail the job.
+
+### [86. HackerNoon is Looking for Sales Superstars. Apply Now!](https://hackernoon.com/hacker-noon-is-looking-for-sales-superstars-apply-now)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-np1377h.gif.webp)
+Hello World! This is Sidra, Business Development Representative from HackerNoon's smart and lean Sales team. Today, I'm here with exciting news - WE ARE HIRING!
+
+### [87. Unlock the Magic of a Technical Mindset: Your Key to Success in Life and Jobs!](https://hackernoon.com/unlock-the-magic-of-a-technical-mindset-your-key-to-success-in-life-and-jobs)
+![](https://cdn.hackernoon.com/images/qbjdMko7eFaiqBJgAApmsjilPv83-41a3lr5.jpeg)
+Hey there, fellow truth-seekers! Are you tired of crossing your fingers, avoiding black cats, and sacrificing your lunch to appease ancient superstitions? 
+
+### [88. The Best Way to Find Software Developer Jobs in Switzerland](https://hackernoon.com/the-best-way-to-find-software-developer-jobs-in-switzerland)
 ![](https://cdn.hackernoon.com/images/Pge19rPKUBWxG7wfaNEYPGRfvNk2-ssc3pum.png)
 If you want to find a job in Switzerland - This step by step guide tells you: how to find job, what is important when applying and what are the formalities!
+
+### [89. You should shadow your dream job to launch your dream career](https://hackernoon.com/you-should-shadow-your-dream-job-to-launch-your-dream-career-873437dr)
+![](https://cdn.hackernoon.com/images/BRQs3qM34WRAiBHnhyY2DfBjj0I3-93i29ud.jpeg)
+A blog post all about how I went on a job shadow with a web developer and software developer. I learned about APIS, javascript, and object oriented programming.
 
 ### [90. Tech Jobs Are Among The Best Paying Jobs In 2021](https://hackernoon.com/tech-jobs-are-among-the-best-paying-jobs-in-2021-qd2634qz)
 ![](https://cdn.hackernoon.com/images/kE9GqcNb5zNXCSntuirx0nLsBV52-7po3406.jpeg)
@@ -368,25 +372,25 @@ Tech jobs have gained an increasingly important status in the modern world. See 
 ![](https://cdn.hackernoon.com/drafts/x8lu4zp7.png)
 Whether you used GPS to get to work or added a recommended add-on item to your online shopping cart, AI has likely touched your life in one way or another this very day. But does the increasing presence of AI in our day-to-day actually benefit us in more than just adding convenience to our lives? For tech pros, the answer is likely yes.
 
-### [92. Here's Why You Shouldn't Focus on Job Openings When Deciding What Programming Language to Learn](https://hackernoon.com/why-you-shouldnt-focus-on-job-openings-when-deciding-what-programming-language-to-learn)
-![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-en93p45.jpeg)
-When deciding what programming language to learn everyone I talk to is only concerned with one metric: the total number of jobs for a given technology.
-
-### [93. Is Automation Jeopardizing Our Future?](https://hackernoon.com/is-automation-jeopardizing-our-future-e62y351v)
-![](https://cdn.hackernoon.com/images/TlxW1eiEj8dpaMviPOGjZeh9oCx2-y5pk34qw.gif)
-Is automation jeopardizing our future? What's its impact on our future and the job market? And how can we cope up?
-
-### [94. The Importance of Upskilling in Today's Digital Landscape: A Look at the Latest Trends](https://hackernoon.com/the-importance-of-upskilling-in-todays-digital-landscape-a-look-at-the-latest-trends)
+### [92. The Importance of Upskilling in Today's Digital Landscape: A Look at the Latest Trends](https://hackernoon.com/the-importance-of-upskilling-in-todays-digital-landscape-a-look-at-the-latest-trends)
 ![](https://cdn.hackernoon.com/images/z5L7cZprQRgVvL7bpydqTnZfaqu1-rn93tu1.jpeg)
 This is making it increasingly important for individuals to develop these skills if they want to remain competitive in the job market.
 
-### [95. Reopening the Economy: Only the Paranoid Survive](https://hackernoon.com/reopening-the-economy-only-the-paranoid-survive-2w683yk1)
-![](drafts/aio23ynb.png)
-The great lock down has helped to slow the spread of Covid-19. But it also came at a great cost to the global economy. Unlike a recession, many nonessential businesses have been closed with no clear timetable to reopen. The initial jobless claims in the US have swelled to more than 26 million since mid-March. While we see some glimmers of hope, we are not out of the woods yet. Businesses are anxious to reopen but we are also concerned with the health risks associated with it. The dilemma is if we reopen too quickly, we might risk triggering a second wave of Coronavirus which could be even worse.
+### [93. Here's Why You Shouldn't Focus on Job Openings When Deciding What Programming Language to Learn](https://hackernoon.com/why-you-shouldnt-focus-on-job-openings-when-deciding-what-programming-language-to-learn)
+![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-en93p45.jpeg)
+When deciding what programming language to learn everyone I talk to is only concerned with one metric: the total number of jobs for a given technology.
 
-### [96. Flaunt Your Job Title on Your Profile Page](https://hackernoon.com/flaunt-your-job-title-on-your-profile-page)
+### [94. Is Automation Jeopardizing Our Future?](https://hackernoon.com/is-automation-jeopardizing-our-future-e62y351v)
+![](https://cdn.hackernoon.com/images/TlxW1eiEj8dpaMviPOGjZeh9oCx2-y5pk34qw.gif)
+Is automation jeopardizing our future? What's its impact on our future and the job market? And how can we cope up?
+
+### [95. Flaunt Your Job Title on Your Profile Page](https://hackernoon.com/flaunt-your-job-title-on-your-profile-page)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-7bd32he.jpeg)
 Your profile page can now harbor more details about you, including your current and past job titles, company and location. Find out more in this story!
+
+### [96. Reopening the Economy: Only the Paranoid Survive](https://hackernoon.com/reopening-the-economy-only-the-paranoid-survive-2w683yk1)
+![](drafts/aio23ynb.png)
+The great lock down has helped to slow the spread of Covid-19. But it also came at a great cost to the global economy. Unlike a recession, many nonessential businesses have been closed with no clear timetable to reopen. The initial jobless claims in the US have swelled to more than 26 million since mid-March. While we see some glimmers of hope, we are not out of the woods yet. Businesses are anxious to reopen but we are also concerned with the health risks associated with it. The dilemma is if we reopen too quickly, we might risk triggering a second wave of Coronavirus which could be even worse.
 
 ### [97. 300 Million Jobs Could Potentially Be Lost to Automation](https://hackernoon.com/300-million-jobs-could-potentially-be-lost-to-automation)
 ![](https://cdn.hackernoon.com/images/robot-going-to-work-clh9k6rzi000001s6dd3y4535.png)
@@ -400,13 +404,13 @@ Hello Everyone,
 ![](https://cdn.hackernoon.com/images/Pge19rPKUBWxG7wfaNEYPGRfvNk2-d20323l.png)
 SwissDevJobs.ch is a platform connecting IT professionals with top jobs in Switzerland, offering salary transparency and developer-focused resources.
 
-### [100. Is AI Really Taking Your Job?: The Answer Is More Nuanced Than You Think](https://hackernoon.com/is-ai-really-taking-your-job-the-answer-is-more-nuanced-than-you-think)
-![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-rz83xto.jpeg)
-A new study highlights that AI adds jobs rather than destroys them
-
-### [101. The Noonification: Uber Still Cant Turn a Profit (10/25/2022)](https://hackernoon.com/10-25-2022-noonification)
+### [100. The Noonification: Uber Still Cant Turn a Profit (10/25/2022)](https://hackernoon.com/10-25-2022-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 10/25/2022: Top 5 stories on the Hackernoon homepage!
+
+### [101. Is AI Really Taking Your Job?: The Answer Is More Nuanced Than You Think](https://hackernoon.com/is-ai-really-taking-your-job-the-answer-is-more-nuanced-than-you-think)
+![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-rz83xto.jpeg)
+A new study highlights that AI adds jobs rather than destroys them
 
 ### [102. Hacking Remote Work for Pay Equity](https://hackernoon.com/hacking-remote-work-for-pay-equity-y2s31lm)
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-gh831lf.jpeg)
@@ -432,17 +436,17 @@ For the better part of a year, the 25-year-old wouldn’t respond when spoken to
 ![](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 In the context of the coronavirus crisis, many companies began experiencing cash flow shortfalls. In order to avoid the liquidity problem, which eventually may turn into a solvency issue, businesses were forced to cut their operational costs. 
 
-### [108. A Look at the Healthcare Jobs of the Future](https://hackernoon.com/a-look-at-the-healthcare-jobs-of-the-future-811h31lh)
+### [108. The Secrets of Success: How Young Men Can Make Their Fortune](https://hackernoon.com/the-secrets-of-success-how-young-men-can-make-their-fortune)
+![](https://cdn.hackernoon.com/images/Dh779CmdTWcT0wfGv6t0L3Zkjkj1-t4a3lx6.jpeg)
+One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series.
+
+### [109. A Look at the Healthcare Jobs of the Future](https://hackernoon.com/a-look-at-the-healthcare-jobs-of-the-future-811h31lh)
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-fu931nb.jpeg)
 A look at the healthcare prediction trends of the future and how it's been accelerated by COVID-19.
 
-### [109. Will the Workforce Be Taken Over By AI?](https://hackernoon.com/will-the-workforce-be-taken-over-by-ai)
+### [110. Will the Workforce Be Taken Over By AI?](https://hackernoon.com/will-the-workforce-be-taken-over-by-ai)
 ![](https://cdn.hackernoon.com/images/zaGs6Q0I7SY8qLi6ofbogocZVlJ2-vn93x0j.jpeg)
 In a 2019 study by Wells Fargo, researchers concluded robots could eliminate up to 200,000 jobs in banking alone in the next ten years. 
-
-### [110. The Secrets of Success: How Young Men Can Make Their Fortune](https://hackernoon.com/the-secrets-of-success-how-young-men-can-make-their-fortune)
-![](https://cdn.hackernoon.com/images/Dh779CmdTWcT0wfGv6t0L3Zkjkj1-t4a3lx6.jpeg)
-One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series.
 
 ### [111. Finding Opportunities In The Metaverse](https://hackernoon.com/finding-opportunities-in-the-metaverse)
 ![](https://cdn.hackernoon.com/images/faFzqpkdjHbgm7DjAZ1PKJZynoC2-bdb3cwz.jpeg)
@@ -476,17 +480,17 @@ A look at some of the notable jobs in the booming legal cannabis industry.
 ![](https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-i1q35zi.jpeg)
 There is an eternal conflict between our internal passions and the external needs of the workforce. Accept this struggle and strive to find meaning.
 
-### [119. Introducing The Cosmos Jobs Board Built on The Promise Protocol](https://hackernoon.com/introducing-the-cosmos-jobs-board-built-on-the-promise-protocol-jd1w3zve)
+### [119. The Noonification: The FBI, Apple, and the San Bernardino Massacre (10/3/2023)](https://hackernoon.com/10-3-2023-noonification)
+![](https://cdn.hackernoon.com/images/noonification_941_hintb3ujcxl7kq0o1qosp7df.png)
+10/3/2023: Top 5 stories on the Hackernoon homepage!
+
+### [120. Introducing The Cosmos Jobs Board Built on The Promise Protocol](https://hackernoon.com/introducing-the-cosmos-jobs-board-built-on-the-promise-protocol-jd1w3zve)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPLJvlaQJxYdnmfEMH03KmwWiqUr1-uki3tsi.jpeg?alt=media&token=29aa098d-9e58-492f-a831-a626834ac76a)
 Discover how Interchain Foundation intends to support the Internet of People in addition to the Internet of Blockchains.As we well know, the goal of Cosmos Network since its birth has always been to become the “Internet of Blockchains”, thus bringing in the crypto industry the missing piece for true mass adoption.
 
-### [120. The Job Market Is Broken - But That's Not The Whole Story](https://hackernoon.com/the-job-market-is-broken-but-thats-not-the-whole-story)
+### [121. The Job Market Is Broken - But That's Not The Whole Story](https://hackernoon.com/the-job-market-is-broken-but-thats-not-the-whole-story)
 ![](https://cdn.hackernoon.com/images/a-were-not-hiring-sign-ezu8spx8gf4b2ybo57uuqcwo.png)
 Struggling in the job market? Stop complaining and start winning! Learn how students and laid-off pros can stand out with proactive steps, CV tips, and LinkedIn
-
-### [121. The Noonification: The FBI, Apple, and the San Bernardino Massacre (10/3/2023)](https://hackernoon.com/10-3-2023-noonification)
-![](https://cdn.hackernoon.com/images/noonification_941_hintb3ujcxl7kq0o1qosp7df.png)
-10/3/2023: Top 5 stories on the Hackernoon homepage!
 
 ### [122. The Importance of Continuous Learning in Blockchain and Web3 Careers](https://hackernoon.com/the-importance-of-continuous-learning-in-blockchain-and-web3-careers)
 ![](https://cdn.hackernoon.com/images/xw4ok8QMaeU0JeAxccqs7PJW16o1-1b03bnp.png)

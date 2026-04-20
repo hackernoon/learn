@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [digital-art](https://hackernoon.com/tagged/digital-art)
+### Let's learn about [Digital Art](https://hackernoon.com/tagged/digital-art) via these 86 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Digital art is any artistic work or practice that uses digital technology as part of the creative process or presentation, essential for pushing creative boundaries and exploring new mediums. It allows artists to experiment with interactive, generative, and immersive experiences.
+
 ### [1. Welcome to the Museum of AI Hallucinations](https://hackernoon.com/welcome-to-the-museum-of-ai-hallucinations)
 ![](https://cdn.hackernoon.com/images/Znlcl8NNXjfpUWlNisWs7cZ7FXE2-r463fud.png)
 Explore how AI hallucinations, often seen as flaws, can fuel human creativity. Discover DALL-E 3s power to imagine the surreal and inspire artistic breakthrough
@@ -74,13 +78,13 @@ The heroes of memes have recently returned from the past. And not for nothing, a
 ![](https://cdn.hackernoon.com/images/54t322c.jpg)
 Last October was something of a watershed moment for contemporary generative art with the first sale by auction of a portrait generated with the help of artificial intelligence (AI) for $432,500, titled “Portrait of Edmond Belamy”. The event garnered a huge level of public interest, and received widespread media coverage across several major outlets, including the NY Times, the Washington Post and the Miami Herald, and from leading online Art news platforms Artsy and Artnet, among others. Aside from the final sale price greatly exceeding the original estimated sale price of $10,000, one of the most interesting aspects of this episode was how it was characterized by the media at large. 
 
-### [19. How to Succeed in the NFT Art World as an Artist ](https://hackernoon.com/how-to-succeed-in-the-nft-art-world-as-an-artist-ui3o359l)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-z1ds3crh.jpeg)
-This article talks about NFT based digital art and how artists can succeed in the world of crypto art by selling their artwork to users. 
-
-### [20. Making A Drawing Application on the Desmos Graphing Calculator](https://hackernoon.com/making-a-drawing-application-on-the-desmos-graphing-calculator)
+### [19. Making A Drawing Application on the Desmos Graphing Calculator](https://hackernoon.com/making-a-drawing-application-on-the-desmos-graphing-calculator)
 ![](https://cdn.hackernoon.com/images/uZmMdte5KwasJLTaCYWHQ2zZQwy1-ty130iy.png)
 Drawing Bowser from Super Mario Bros in the Desmos Graphing Calculator.
+
+### [20. How to Succeed in the NFT Art World as an Artist ](https://hackernoon.com/how-to-succeed-in-the-nft-art-world-as-an-artist-ui3o359l)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-z1ds3crh.jpeg)
+This article talks about NFT based digital art and how artists can succeed in the world of crypto art by selling their artwork to users. 
 
 ### [21. Urpflanze JavaScript Library for Generative Art and Creative Coding](https://hackernoon.com/urpflanze-javascript-library-for-generative-art-and-creative-coding-suz31e4)
 ![](https://cdn.hackernoon.com/images/76UDdFG8y2NxNctRI2dDzRpYrno1-z41t35hm.jpeg)
@@ -151,13 +155,13 @@ What are hottest NFT trends and what to expect in the field of digital art?
 ![](https://cdn.hackernoon.com/drafts/gvl3yjr.png)
 AI artist, Al Gahaku, will “paint” more in a second than an artist's lifetime but the depth of human to human experience is lost until AI becomes human. 
 
-### [38. I Bought This Image For $1,500 (and I sold it for +50% in two weeks) Using NFTs](https://hackernoon.com/i-bought-this-image-for-dollar1500-and-i-sold-it-for-50percent-in-two-weeks-using-nfts-cs3e35z7)
-![](https://cdn.hackernoon.com/images/NoGGwDyqCyZvG7v7d4GnssOATse2-ip1235gd.jpeg)
-NFTs are the newest hype. Millions of dollars in transactions and to tell you the truth, I love how they disrupted the art gallery space. 
-
-### [39. Ayesha Mubarak Ali: A Pakistani Digital Artist Setting New Horizons with Her Unique Work](https://hackernoon.com/ayesha-mubarak-ali-a-pakistani-digital-artist-setting-new-horizons-with-her-unique-work)
+### [38. Ayesha Mubarak Ali: A Pakistani Digital Artist Setting New Horizons with Her Unique Work](https://hackernoon.com/ayesha-mubarak-ali-a-pakistani-digital-artist-setting-new-horizons-with-her-unique-work)
 ![](https://cdn.hackernoon.com/images/wkYX0jprsnXB5w5lc5pLxILwyID3-ree3ten.jpeg)
 Today’s rapidly evolving technological advancements and inventions have given a new meaning to the field of arts.
+
+### [39. I Bought This Image For $1,500 (and I sold it for +50% in two weeks) Using NFTs](https://hackernoon.com/i-bought-this-image-for-dollar1500-and-i-sold-it-for-50percent-in-two-weeks-using-nfts-cs3e35z7)
+![](https://cdn.hackernoon.com/images/NoGGwDyqCyZvG7v7d4GnssOATse2-ip1235gd.jpeg)
+NFTs are the newest hype. Millions of dollars in transactions and to tell you the truth, I love how they disrupted the art gallery space. 
 
 ### [40. Future of NFTs - why art is just the beginning](https://hackernoon.com/future-of-nfts-why-art-is-just-the-beginning-s01q374u)
 ![](https://cdn.hackernoon.com/images/0QUQpD0VCsgAaYPa5e24rYsNMx62-i13d35i1.jpeg)
@@ -227,13 +231,13 @@ Stickers platform has become a very popular NFT platform when it comes to digita
 ![](https://cdn.hackernoon.com/images/tg2n3z8p.jpg)
 I had the immense pleasure of attending several creative coding workshops on April 4th. They were streamed live on the SpacyCloud Twitch channel. There were additional sessions involving Hydra, Raspberry Pi, Haskell, and more. However for this post I want to focus on the first session which was a P5JS tutorial. In this post I hope to translate the P5JS tutorial into a written format, for posterity and to share what I learned. I'm going to review what was taught in the live session. Hopefully SpacyCloud will have another live stream in the future so I can catch up on what I missed. Here is the landing page for the event schedule.
 
-### [57. Non-Fungible Tokens Are The Future](https://hackernoon.com/non-fungible-tokens-are-the-future-mp3732fc)
-![](https://cdn.hackernoon.com/images/tbhXjSpTpPfJ3vmIUISN6bt5Rf42-l96833do.jpeg)
-How NFTs are the changing the game for owning a piece for true art.
-
-### [58. Purr-fect New NFT Collection Who Keeps Waving Good Luck Back to its Collector](https://hackernoon.com/purr-fect-new-nft-collection-who-keeps-waving-good-luck-back-to-its-collector-n52037re)
+### [57. Purr-fect New NFT Collection Who Keeps Waving Good Luck Back to its Collector](https://hackernoon.com/purr-fect-new-nft-collection-who-keeps-waving-good-luck-back-to-its-collector-n52037re)
 ![](https://cdn.hackernoon.com/images/KWNh76I41xRhQ3gw3iRUg9Ui8oy1-rq25357m.jpeg)
 Meow! The Lucky Maneki NFT is prowling around the blockchain spreading good luck and fortune to all who collect them!
+
+### [58. Non-Fungible Tokens Are The Future](https://hackernoon.com/non-fungible-tokens-are-the-future-mp3732fc)
+![](https://cdn.hackernoon.com/images/tbhXjSpTpPfJ3vmIUISN6bt5Rf42-l96833do.jpeg)
+How NFTs are the changing the game for owning a piece for true art.
 
 ### [59. What the Heck is a Numiz?](https://hackernoon.com/what-the-heck-is-a-numiz-41e32cd)
 ![](https://cdn.hackernoon.com/images/wb443va6tWfO9ezfAOTebkX324z2-lggo3cq5.jpeg)
@@ -255,34 +259,34 @@ One of the potential applications of AI in the web3 ecosystem is the creation of
 ![](https://cdn.hackernoon.com/images/hvrUiG4CmgZkGs6qw2FaGwD1NBQ2-al93ski.jpeg)
 I interviewed kertburger, a 2D and 3D digital artist on finding one's creative expression and how he got started with NFTs as a digital artist. 
 
-### [64. Facilitating Creativity with Expressive Programming](https://hackernoon.com/facilitating-creativity-with-expressive-programming-e25m32dx)
-![](https://cdn.hackernoon.com/images/mhvkk6KUEVTNeqCUtnp7I3aXzsC2-q2e35ob.jpeg)
-Programming for art is easier than ever before with the help of high-level programming languages and programming libraries. Learn about some of the exciting Jav
-
-### [65. Revolutionizing Digital Art: Atriv and Flare Join Forces to Simplify NFT Creation and Trading](https://hackernoon.com/revolutionizing-digital-art-atriv-and-flare-join-forces-to-simplify-nft-creation-and-trading)
+### [64. Revolutionizing Digital Art: Atriv and Flare Join Forces to Simplify NFT Creation and Trading](https://hackernoon.com/revolutionizing-digital-art-atriv-and-flare-join-forces-to-simplify-nft-creation-and-trading)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-8d93q9v.jpeg)
 Atriv and Flare have teamed up to make creating and trading NFTs as simple as sending a text message.
 
-### [66. Colexion a Celebrity NFT Platform Raises $5 Million from Polygon, Titan Ventures and Maven Capital](https://hackernoon.com/colexion-a-celebrity-nft-platform-raises-$5-million-from-polygon-titan-ventures-and-maven-capital)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-p7k3mcc.jpeg)
-Colexion NFT Platform Raises $5 Million in Funding to expand operations in Asia. 
+### [65. Facilitating Creativity with Expressive Programming](https://hackernoon.com/facilitating-creativity-with-expressive-programming-e25m32dx)
+![](https://cdn.hackernoon.com/images/mhvkk6KUEVTNeqCUtnp7I3aXzsC2-q2e35ob.jpeg)
+Programming for art is easier than ever before with the help of high-level programming languages and programming libraries. Learn about some of the exciting Jav
 
-### [67. The Internet Is Already Moving On From The Ghibli Craze to Something Different](https://hackernoon.com/the-internet-is-already-moving-on-from-the-ghibli-craze-to-something-different)
+### [66. The Internet Is Already Moving On From The Ghibli Craze to Something Different](https://hackernoon.com/the-internet-is-already-moving-on-from-the-ghibli-craze-to-something-different)
 ![](https://cdn.hackernoon.com/images/8ImzGfL6j6b5Wp5a46do4QxGOQ12-gj037pm.gif.webp)
 ChatGPT's visual culture has taken a sharp turn — from dreamy Ghibli-inspired art to boxed-up, hyper-personalized action figures.
+
+### [67. Colexion a Celebrity NFT Platform Raises $5 Million from Polygon, Titan Ventures and Maven Capital](https://hackernoon.com/colexion-a-celebrity-nft-platform-raises-$5-million-from-polygon-titan-ventures-and-maven-capital)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-p7k3mcc.jpeg)
+Colexion NFT Platform Raises $5 Million in Funding to expand operations in Asia. 
 
 ### [68. NFT Development: 7 Powerful Tips and Hacks to Enable You To
 create a Successful Digital Art Project](https://hackernoon.com/nft-development-7-powerful-tips-and-hacks-to-enable-you-to-create-a-successful-digital-art-project)
 ![](https://cdn.hackernoon.com/images/5owqBVhLgrWV411KBP0raAlFnaF2-pr93wo4.jpeg)
 Many people look forward to participating in NFT development. The field has become popular, thanks to the major successes of various NFT projects. 
 
-### [69. Art NFTs in the Tech Sphere in 2024](https://hackernoon.com/art-nfts-in-the-tech-sphere-in-2024)
-![](https://cdn.hackernoon.com/images/Yoj7AaME6ZVgWNPPSMfk11l0JO63-dg133sm.png)
-NFTs in digital art, understanding their potential, ownership rights, and key cases shaping the industry in 2024.
-
-### [70. Famous 3D Artist Gal Yosef Announces Meta Eagle Club Collection Backed by Fine Art Eden Gallery](https://hackernoon.com/famous-3d-artist-gal-yosef-announces-meta-eagle-club-collection-backed-by-fine-art-eden-gallery)
+### [69. Famous 3D Artist Gal Yosef Announces Meta Eagle Club Collection Backed by Fine Art Eden Gallery](https://hackernoon.com/famous-3d-artist-gal-yosef-announces-meta-eagle-club-collection-backed-by-fine-art-eden-gallery)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-p003cix.jpeg)
 Famous 3D Artist Gal Yoseh Launches 3D NFT Collection as the NFT’s Become Mainstream. 
+
+### [70. Art NFTs in the Tech Sphere in 2024](https://hackernoon.com/art-nfts-in-the-tech-sphere-in-2024)
+![](https://cdn.hackernoon.com/images/Yoj7AaME6ZVgWNPPSMfk11l0JO63-dg133sm.png)
+NFTs in digital art, understanding their potential, ownership rights, and key cases shaping the industry in 2024.
 
 ### [71. Art in the Age of AI: Mariam Brian's Pioneering Vision for Holo Art](https://hackernoon.com/art-in-the-age-of-ai-mariam-brians-pioneering-vision-for-holo-art)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-sv83wsu.jpeg)
@@ -332,19 +336,19 @@ The markets are down and crypto has been falling — so it’s the perfect time 
 ![](https://cdn.hackernoon.com/images/7vNeiaeqACSFgnGt08rT5acqtfA2-3z2g334r.jpeg)
 Now that the online art marketplaces are finally going mainstream, how can the experience be matched to other online marketplaces? Data might be the key.
 
-### [83. Exploring NFT Galleries with Benjamin Agostini](https://hackernoon.com/exploring-nft-galleries-with-benjamin-agostini)
-![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-41b3lbk.jpeg)
-In this NFC interview, we spoke with Benjamin Agostini, Co-Founder of TheSafeBox.io. We discussed NFT art and galleries, and the future of NFTs and marketing.
-
-### [84. Senshi: 5,555 Unique NFTs Inspired by 3D Art](https://hackernoon.com/senshi-is-the-revolutionary-nft-project-that-has-drawn-attention-from-aspiring-artists-and-investors)
+### [83. Senshi: 5,555 Unique NFTs Inspired by 3D Art](https://hackernoon.com/senshi-is-the-revolutionary-nft-project-that-has-drawn-attention-from-aspiring-artists-and-investors)
 ![](https://cdn.hackernoon.com/images/DzTCviIqAeNUfl4kZlK12Pobr033-gv93ohm.jpeg)
 Senshi is the newest NFT project that is set to disrupt the industry. This project has 5,555 unique 3D NFTs and collectibles. Senshi is the latest project that
 
-### [85. Devised for Design: Top FIGMA Plugins](https://hackernoon.com/devised-for-design-top-figma-plugins)
-![](https://cdn.hackernoon.com/images/Cfwe0pJuMhOf8QQSqtCV3PuD5Bh1-vf037n7.jpeg)
-Figma has been top of its game since its launch in 2016. Here's a list of our team's 12 most used plugins.
+### [84. Exploring NFT Galleries with Benjamin Agostini](https://hackernoon.com/exploring-nft-galleries-with-benjamin-agostini)
+![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-41b3lbk.jpeg)
+In this NFC interview, we spoke with Benjamin Agostini, Co-Founder of TheSafeBox.io. We discussed NFT art and galleries, and the future of NFTs and marketing.
 
-### [86. Moving Beyond OpenSea](https://hackernoon.com/moving-beyond-opensea)
+### [85. Moving Beyond OpenSea](https://hackernoon.com/moving-beyond-opensea)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-8v93lli.jpeg)
 A look into some of the issues with OpenSea, and some of the disruptors out there providing solutions
+
+### [86. Devised for Design: Top FIGMA Plugins](https://hackernoon.com/devised-for-design-top-figma-plugins)
+![](https://cdn.hackernoon.com/images/Cfwe0pJuMhOf8QQSqtCV3PuD5Bh1-vf037n7.jpeg)
+Figma has been top of its game since its launch in 2016. Here's a list of our team's 12 most used plugins.
 

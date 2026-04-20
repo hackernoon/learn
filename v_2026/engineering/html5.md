@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [html5](https://hackernoon.com/tagged/html5)
+### Let's learn about [Html5](https://hackernoon.com/tagged/html5) via these 122 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+HTML5 is the latest major revision of the Hypertext Markup Language, crucial for structuring web content, supporting multimedia, and enhancing interactive capabilities across modern browsers. It matters by forming the foundational structure of virtually all websites, enabling rich, dynamic, and accessible user experiences on the web.
+
 ### [1. How To Write Semantic HTML](https://hackernoon.com/how-to-write-semantic-html-dkq3ulo)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfLcpK1xNykXN0a6Y4nGDUtw9rFs1-gpcd23oh.jpeg?alt=media&token=fe199bc9-d30d-4bd4-a9ac-843245aab45a)
 As a Microverse Student in the last time, I have been struggling with some HTML and CSS projects. They challenged me to learn new features of these technologies all the time. My projects were made gradually trying to follow good practices but none was as striking for me as the use of semantic HTML. 
@@ -79,33 +83,33 @@ Topping off the 6 best HTML programming books based on Amazon reviews is HTML & 
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-9i93knh.jpeg)
 Check out how easy it is to start building a custom React Native application that leverages the Salesforce platform and the Salesforce Mobile SDK.
 
-### [20. Coding a Fractal Tree With JavaScript and HTML5](https://hackernoon.com/coding-a-fractal-tree-with-javascript-and-html5)
-![](https://cdn.hackernoon.com/images/rkwIJ0KfoAY5hq5MQKlh3yuiv273-ka338by.jpeg)
-Let's code a Fractal Tree! Nothing weird, Vanilla JavaScript and the Canvas API.
-
-### [21. Overriding Bootstrap Classes Using CSS](https://hackernoon.com/overriding-bootstrap-classes-using-css-5qjx3y9x)
+### [20. Overriding Bootstrap Classes Using CSS](https://hackernoon.com/overriding-bootstrap-classes-using-css-5qjx3y9x)
 ![](https://cdn.hackernoon.com/images/sR5hH46Da1eASmmQn0mIAV2aVR92-fra3az2.jpeg)
 Are you having a hard time changing some properties of some bootstrap classes with CSS?                                
 
-### [22. Creating a Screen Sharing Application With JavaScript](https://hackernoon.com/creating-a-screen-sharing-application-with-javascript)
+### [21. Creating a Screen Sharing Application With JavaScript](https://hackernoon.com/creating-a-screen-sharing-application-with-javascript)
 ![](https://cdn.hackernoon.com/images/n9Ke2bdHGjd78LxYbPMAVSFOZKk1-hi93wen.jpeg)
 Have you ever wondered how hard or easy it would be to create your own screen-sharing application? Learn how today using HTML, CSS & JavaScript.
 
-### [23. 21 Valuable HTML & CSS Code Snippets for Web Developers ](https://hackernoon.com/21-valuable-html-and-css-code-snippets-for-web-developers)
+### [22. 21 Valuable HTML & CSS Code Snippets for Web Developers ](https://hackernoon.com/21-valuable-html-and-css-code-snippets-for-web-developers)
 ![](https://cdn.hackernoon.com/images/UkCGosn8u8RYCcOvW57o2EE4rZF3-3393b8g.jpeg)
 21 Useful HTML & CSS tips for every project
 
-### [24. How to Take a Photo in Your Browser with JavaScript](https://hackernoon.com/how-to-take-a-photo-in-your-browser-with-javascript)
+### [23. How to Take a Photo in Your Browser with JavaScript](https://hackernoon.com/how-to-take-a-photo-in-your-browser-with-javascript)
 ![](https://cdn.hackernoon.com/images/gOwV3zyGmeT8JMIen6q15s57Fti2-eof2irx.jpeg)
 Modern browsers are more powerful than ever before. We can do many things in the browser with JavaScript now, we'll capture images in the browser with js.
 
-### [25. CSS Underdog Rule: position: sticky;](https://hackernoon.com/css-underdog-rule-position-sticky-0z2t3y7r)
+### [24. CSS Underdog Rule: position: sticky;](https://hackernoon.com/css-underdog-rule-position-sticky-0z2t3y7r)
 ![](https://cdn.hackernoon.com/drafts/sf5v2kff.png)
 PH: Hitarth Jadhav from Pexels
 
-### [26. How to Add Prefix or Suffix to Each New Line in JavaScript](https://hackernoon.com/how-to-add-prefix-or-suffix-to-each-new-line-in-javascript)
+### [25. How to Add Prefix or Suffix to Each New Line in JavaScript](https://hackernoon.com/how-to-add-prefix-or-suffix-to-each-new-line-in-javascript)
 ![](https://cdn.hackernoon.com/images/HBFDpaRgFAXp9sXoW0d6LL26mvh1-gc93pff.jpeg)
 Learn how to add a prefix or suffix to each new line in JavaScript with our step-by-step tutorial. Create a user-friendly online tool using JS.
+
+### [26. Coding a Fractal Tree With JavaScript and HTML5](https://hackernoon.com/coding-a-fractal-tree-with-javascript-and-html5)
+![](https://cdn.hackernoon.com/images/rkwIJ0KfoAY5hq5MQKlh3yuiv273-ka338by.jpeg)
+Let's code a Fractal Tree! Nothing weird, Vanilla JavaScript and the Canvas API.
 
 ### [27. The Best Way to Create A Simple Calculator Using HTML And JavaScript](https://hackernoon.com/the-best-way-to-create-a-simple-calculator-using-html-and-javascript)
 ![](https://cdn.hackernoon.com/images/JSaxrLjaDCaWRN9D8n1PidRQgin1-uj93ugj.jpeg)
@@ -186,13 +190,13 @@ Learning web development is a journey an aspiring software engineer should consi
 ![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-tx23gm7.jpeg)
 A review of some of the HTML attributes you might want to use.
 
-### [46. Do You Really Understand the Viewport](https://hackernoon.com/do-you-really-understand-the-viewport-lv663ye4)
-![](https://cdn.hackernoon.com/drafts/9ij33y0w.png)
-If you are a web developer, you must have heard about viewport, and the below line may seem familiar to you.
-
-### [47. Making a Gradient Color Generator App Using JavaScript](https://hackernoon.com/making-a-gradient-color-generator-app-using-javascript)
+### [46. Making a Gradient Color Generator App Using JavaScript](https://hackernoon.com/making-a-gradient-color-generator-app-using-javascript)
 ![](https://cdn.hackernoon.com/images/awSK9UBJcfNNXiYmqyT1Ihlw5Hr2-ae03645.jpeg)
 In this article, I have shown you how to make Gradient Color Generator using JavaScript.
+
+### [47. Do You Really Understand the Viewport](https://hackernoon.com/do-you-really-understand-the-viewport-lv663ye4)
+![](https://cdn.hackernoon.com/drafts/9ij33y0w.png)
+If you are a web developer, you must have heard about viewport, and the below line may seem familiar to you.
 
 ### [48. Is HTML, CSS, and JavaScript Enough for Front-End Development? The Sad Truth](https://hackernoon.com/is-html-css-and-javascript-enough-for-front-end-development-the-sad-truth)
 ![](https://cdn.hackernoon.com/images/ahtiEWeKi5Q3mnkSzvRwGRF8Ez63-4202tkx.jpeg)
@@ -206,13 +210,13 @@ The HTML evolution from HTML 2 to HTML 5 has seen an enormous shift of things wh
 ![](https://cdn.hackernoon.com/drafts/ce4m3wco.png)
 For some people, the title could look funny or interesting. But it is true because I made that trip, I spent 9 weeks working hard learning HTML and CSS. 
 
-### [51. Top 5 Free HTML and CSS Online Training Courses for Beginners](https://hackernoon.com/top-5-free-html-and-css-online-training-courses-for-beginners-o94e3wkm)
-![](https://images.unsplash.com/photo-1508317469940-e3de49ba902e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-HTML and CSS are two pillars of web development, they are used to create web pages you see every day. HTML provides the structure to your web page and CSS provides them the style to look better. If you want to become a front-end web developer or web designer then a good knowledge of HTML and CSS is a must.
-
-### [52. 17 Most Popular Tools For React Developers](https://hackernoon.com/17-most-popular-tools-for-react-developers)
+### [51. 17 Most Popular Tools For React Developers](https://hackernoon.com/17-most-popular-tools-for-react-developers)
 ![](https://cdn.hackernoon.com/images/FjuQRlqmKcOfiSIuovcoBj5uO053-4yh3710.jpeg)
 Today we will go into learning tools and libraries to help developers in the process of programming with React JS!
+
+### [52. Top 5 Free HTML and CSS Online Training Courses for Beginners](https://hackernoon.com/top-5-free-html-and-css-online-training-courses-for-beginners-o94e3wkm)
+![](https://images.unsplash.com/photo-1508317469940-e3de49ba902e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+HTML and CSS are two pillars of web development, they are used to create web pages you see every day. HTML provides the structure to your web page and CSS provides them the style to look better. If you want to become a front-end web developer or web designer then a good knowledge of HTML and CSS is a must.
 
 ### [53. Building Your Own BMI Calculator: A Step-by-Step Guide](https://hackernoon.com/building-your-own-bmi-calculator-a-step-by-step-guide)
 ![](https://cdn.hackernoon.com/images/36JsQ9cMvBffzf3fNJjP0R8jnwg2-wa93pl6.jpeg)
@@ -281,57 +285,57 @@ What is WebRTC?
 ![](https://cdn.hackernoon.com/images/AYB9eDR8idWuEw5Ug26VN7f93PA2-n9c2nby.jpeg)
 Explore all Nobel Prize winners by country through an interactive tag cloud and learn how you can create your own JavaScript-based tag (word) clouds with ease.
 
-### [69. Learn HTML & CSS: The Best FREE Online Resources for Beginners](https://hackernoon.com/learn-html-and-css-the-best-free-online-resources-for-beginners-hr3y3y8w)
-![](https://cdn.hackernoon.com/drafts/1hj9430d3.png)
-If you're curious about getting started with web development, one of the things you will first have to learn is HTML & CSS, this is the base of web development and the first two inseparable tools you'll have to master
-
-### [70. 5 Simple Ways to Replace All String Occurrences in JavaScript](https://hackernoon.com/5-simple-ways-to-replace-all-string-occurrences-in-javascript)
+### [69. 5 Simple Ways to Replace All String Occurrences in JavaScript](https://hackernoon.com/5-simple-ways-to-replace-all-string-occurrences-in-javascript)
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-j992kud.jpeg)
 Have you ever been in a situation where you had a string of text and wanted to replace all of its occurrences with something else?
+
+### [70. Learn HTML & CSS: The Best FREE Online Resources for Beginners](https://hackernoon.com/learn-html-and-css-the-best-free-online-resources-for-beginners-hr3y3y8w)
+![](https://cdn.hackernoon.com/drafts/1hj9430d3.png)
+If you're curious about getting started with web development, one of the things you will first have to learn is HTML & CSS, this is the base of web development and the first two inseparable tools you'll have to master
 
 ### [71. How to Master Nested CSS Selectors: Tips to Get Started](https://hackernoon.com/how-to-master-nested-css-selectors-tips-to-get-started)
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-oz92kj9.jpeg)
 Mastering CSS selectors doesn't have to be a daunting task. One of the best ways to set yourself up for success is by learning how to group and nest your select
 
-### [72. 8 Ways to Apply UX to Your Website](https://hackernoon.com/8-ways-to-apply-ux-to-your-website-p06g33ns)
+### [72. CSS Combinators : Mastering the Use of Multiple CSS Selectors](https://hackernoon.com/css-combinators-mastering-the-use-of-multiple-css-selectors)
+![](https://cdn.hackernoon.com/images/Xij1jbniEqeB5PHWSYsIMk1bH1A2-7yb3jc6.jpeg)
+A Complete guide on CSS combinators 2022. You can find everything you need to know about CSS Combinators in this blog.
+
+### [73. 8 Ways to Apply UX to Your Website](https://hackernoon.com/8-ways-to-apply-ux-to-your-website-p06g33ns)
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-c89m32ie.jpeg)
 User Experience is a must on the website as that is the thing people experience first. There are 99% chances that the visitor will go whether you have...
 
-### [73. Journey to Become a Web Developer From Scratch [Step-by-Step Guide]](https://hackernoon.com/journey-to-become-a-web-developer-guide-5j3i32ox)
+### [74. Journey to Become a Web Developer From Scratch [Step-by-Step Guide]](https://hackernoon.com/journey-to-become-a-web-developer-guide-5j3i32ox)
 ![](https://cdn.hackernoon.com/drafts/vu3632hr.png)
 Before getting in, let’s discuss about objectives.
-
-### [74. CSS Combinators : Mastering the Use of Multiple CSS Selectors](https://hackernoon.com/css-combinators-mastering-the-use-of-multiple-css-selectors)
-![](https://cdn.hackernoon.com/images/Xij1jbniEqeB5PHWSYsIMk1bH1A2-7yb3jc6.jpeg)
-A Complete guide on CSS combinators 2022. You can find everything you need to know about CSS Combinators in this blog.
 
 ### [75. How To Make Your Page Look Alive with CSS Transitions](https://hackernoon.com/how-to-make-your-page-look-alive-with-css-transitions-cz2f3yes)
 ![](https://cdn.hackernoon.com/drafts/j91p2yy3.png)
 Going Through HTML & CSS courses, I learned A LOT, but surprisingly, I never come across the Transition property up until recently, and I've been loving it ever since.
 
-### [76. How To Start Coding Right Now](https://hackernoon.com/how-to-start-coding-right-now-bpl3t0b)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEjYyD0PqUZRcx0JTABR6NG6YpNd2-d2423u33.jpeg?alt=media&token=8213af64-6462-4b2e-b041-e6d1184b8a25)
-What if someones asks you to build a website today, would you think that is possible?
-
-### [77. How to Use the HTML <canvas> Element to Draw Shapes, Text, and Animations](https://hackernoon.com/how-to-use-the-html-lesscanvasgreater-element-to-draw-shapes-text-and-animations)
+### [76. How to Use the HTML <canvas> Element to Draw Shapes, Text, and Animations](https://hackernoon.com/how-to-use-the-html-lesscanvasgreater-element-to-draw-shapes-text-and-animations)
 ![](https://cdn.hackernoon.com/images/vErz2xS1pndjxVzieBl5J8ffaJF3-401353v.png)
 Learn what makes the HTML <canvas> tag unique, how it handles pixels instead of DOM elements, and how to draw and create interactive graphics directly in the br
+
+### [77. How To Start Coding Right Now](https://hackernoon.com/how-to-start-coding-right-now-bpl3t0b)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEjYyD0PqUZRcx0JTABR6NG6YpNd2-d2423u33.jpeg?alt=media&token=8213af64-6462-4b2e-b041-e6d1184b8a25)
+What if someones asks you to build a website today, would you think that is possible?
 
 ### [78. How To Format Your CSS Code as a Professional](https://hackernoon.com/how-to-format-your-css-code-as-a-professional-sa153u32)
 ![](https://cdn.hackernoon.com/images/9c3r3xjn.jpg)
 As a full-stack web developer, I'm building different websites by writing code every single day. Experiencing several situations including solving problems and fixing errors.
 
-### [79. How To Create CSS Neon Animation](https://hackernoon.com/how-to-create-css-neon-animation-p6133utf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY5pgfcYeb2WkzcbAON1f4rfpLAW2-al1a3und.jpeg?alt=media&token=08587a4a-0427-4e4d-95eb-064f39fe443e)
-Guys! Thank you all 🥳, I've hit a 100 subscribers to my Newsletter and I'm over the moon!
-
-### [80. I Built A Photo Gallery with CSS Animation: Here’s what I learned](https://hackernoon.com/i-built-a-photo-gallery-with-css-animation-heres-what-i-learned-xm123z1b)
+### [79. I Built A Photo Gallery with CSS Animation: Here’s what I learned](https://hackernoon.com/i-built-a-photo-gallery-with-css-animation-heres-what-i-learned-xm123z1b)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fe2577cSSoYRCbZ0PSXJpA9wf1pH2-n53e3hrk.jpeg?alt=media&token=249f9a1d-ac57-4055-a274-4e5e8a21c757)
 The vanilla CSS(without any external JavaScript and CSS libraries) allows animation of HTML elements using CSS properties. This is very powerful and quite simple to learn and use. 
 
-### [81. 6 Easy Ways to Improve Accessibility in HTML Tables](https://hackernoon.com/6-easy-ways-to-improve-accessibility-in-html-tables)
+### [80. 6 Easy Ways to Improve Accessibility in HTML Tables](https://hackernoon.com/6-easy-ways-to-improve-accessibility-in-html-tables)
 ![](https://cdn.hackernoon.com/images/Hcp7GOWt9sT1u05G6yNtUCn7pia2-lt93o19.jpeg)
 HTML tables are a great way of visually representing data in a tabular format. 
+
+### [81. How To Create CSS Neon Animation](https://hackernoon.com/how-to-create-css-neon-animation-p6133utf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY5pgfcYeb2WkzcbAON1f4rfpLAW2-al1a3und.jpeg?alt=media&token=08587a4a-0427-4e4d-95eb-064f39fe443e)
+Guys! Thank you all 🥳, I've hit a 100 subscribers to my Newsletter and I'm over the moon!
 
 ### [82. The Art of Naming: CSS Guide](https://hackernoon.com/the-art-of-naming-css-guide-tb1r3w50)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRX8xMnl8Q5fsB6oGTIzeeX6BLfh1-6gb628yq.jpeg?alt=media&token=472dcfa0-459a-4b1a-8996-aa83cb2e7f6a)
@@ -345,9 +349,9 @@ One of the main drivers of business success is good customer relations. Companie
 ![](https://cdn.hackernoon.com/images/e178Xecok0TlGP5gaTutNkU1thY2-ck4533hz.jpeg)
 Making project is a fun as well as a challenging task. 
 
-### [85. 8 Platforms: Endless Web Development Possibilities. The Time for Learning to Code is now! ](https://hackernoon.com/8-platforms-endless-web-development-possibilities-the-time-for-learning-to-code-is-now)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-pj03ooj.jpeg)
-There is no excuse for not learning something anymore. Things are just a click away!
+### [85. Offline-First JavaScript for Space Missions: How JS Thrives in Low-Connectivity Environments](https://hackernoon.com/offline-first-javascript-for-space-missions-how-js-thrives-in-low-connectivity-environments)
+![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-cy238ol.png)
+The use of offline-first strategies by JavaScript enables space missions to function. 
 
 ### [86. How To Nail Video Email Marketing With Seasonal Email Campaigns](https://hackernoon.com/how-to-nail-video-email-marketing-with-seasonal-email-campaigns-hbl3uoe)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3PxSKEhvFqZ819yqYvAvURGdxi73-xg1v3uro.jpeg?alt=media&token=ed66eb1e-43fb-4787-8a62-6cdadfeb2854)
@@ -357,29 +361,29 @@ Ah, so you've decided to use video marketing. A wise choice indeed, seeing as, a
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-b493vpr.jpeg)
 Let's think a little bit more about how box models work. 
 
-### [88. Internationalization in CSS](https://hackernoon.com/internationalization-in-css)
+### [88. 8 Platforms: Endless Web Development Possibilities. The Time for Learning to Code is now! ](https://hackernoon.com/8-platforms-endless-web-development-possibilities-the-time-for-learning-to-code-is-now)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-pj03ooj.jpeg)
+There is no excuse for not learning something anymore. Things are just a click away!
+
+### [89. Internationalization in CSS](https://hackernoon.com/internationalization-in-css)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-id03ngv.jpeg)
 Internationalization In CSS
 
 Prepare your designs for an international audience.
 
-### [89. Why Does HTML Think “chucknorris" Is A Color? And 10 More FAQs, Answered](https://hackernoon.com/why-does-html-think-chucknorris-is-a-color-and-10-more-faqs-answered-fp4p3t0t)
+### [90. Why Does HTML Think “chucknorris" Is A Color? And 10 More FAQs, Answered](https://hackernoon.com/why-does-html-think-chucknorris-is-a-color-and-10-more-faqs-answered-fp4p3t0t)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaHcUME45O0Sw3JLt9OGFJpazIvO2-et4r28np.jpeg?alt=media&token=a05a3fb9-ca1c-4919-9eaf-2f70a4dd647f)
 HTML, Hypertext Markup Language,  is the standard markup language used mainly for creating pages to display on World Wide Web (WWW). It is
 very simple, easy to learn, and allows you to create amazing websites. So, today we will be checking out the 11 most asked questions about HTML.
 
-### [90. Offline-First JavaScript for Space Missions: How JS Thrives in Low-Connectivity Environments](https://hackernoon.com/offline-first-javascript-for-space-missions-how-js-thrives-in-low-connectivity-environments)
-![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-cy238ol.png)
-The use of offline-first strategies by JavaScript enables space missions to function. 
+### [91. Creating a Video Background on Your Website with HTML and CSS](https://hackernoon.com/creating-a-video-background-on-your-website-with-html-and-css)
+![](https://cdn.hackernoon.com/images/NkLh6IFgpcMQGDGQJJVnxe79PVp1-s0l3k4z.jpeg)
+Learn how to create an engaging video background for your website using HTML and CSS.
 
-### [91. Implementing Dynamic Tags in Astro](https://hackernoon.com/implementing-dynamic-tags-in-astro)
+### [92. Implementing Dynamic Tags in Astro](https://hackernoon.com/implementing-dynamic-tags-in-astro)
 ![](https://cdn.hackernoon.com/images/NaU3BOE6YnOtNpCIV9kfvX1BqL03-wt93osx.jpeg)
 Astro has dynamic tags — a way to accept an element or component as a prop. And they're totally different than React's polymorphic as prop pattern.
 
-
-### [92. Creating a Video Background on Your Website with HTML and CSS](https://hackernoon.com/creating-a-video-background-on-your-website-with-html-and-css)
-![](https://cdn.hackernoon.com/images/NkLh6IFgpcMQGDGQJJVnxe79PVp1-s0l3k4z.jpeg)
-Learn how to create an engaging video background for your website using HTML and CSS.
 
 ### [93. Free Courses for Learning HTML: 2020 Edition](https://hackernoon.com/free-courses-for-learning-html-2020-edition-9g5l3wea)
 ![](https://images.unsplash.com/photo-1461632830798-3adb3034e4c8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -393,62 +397,62 @@ Today I am sharing with you this advanced CSS & HTML tutorial where we are going
 ![](https://images.unsplash.com/photo-1534685785745-60a2cea0ec34?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Since I've been learning CSS, I have met a lot of programmers saying or claiming that CSS is not a hard language or it is not a programming language. However it is or not, it's clear that without CSS, the world of web development wouldn't be the same. 
 
-### [96. What is the HLS Streaming Protocol and How Does it Work?](https://hackernoon.com/what-is-the-hls-streaming-protocol-and-how-does-it-work-xw1534sp)
-![](https://hackernoon.com/images/BvZojDJjKgUlcjswNQapIQirZt03-ym2836dm.jpeg)
-HTML5 live streaming solutions have become more popular lately. One of them is the HLS protocol. There are some reasons why this is so popular, the most important of which is that RTMP lost its support by the end of 2020. 
-
-### [97. Set or Update New Title and Meta Tag - Angular](https://hackernoon.com/set-or-update-new-title-and-meta-tag-angular)
+### [96. Set or Update New Title and Meta Tag - Angular](https://hackernoon.com/set-or-update-new-title-and-meta-tag-angular)
 ![](https://cdn.hackernoon.com/images/cQl7wiaiASfuhxRVkDJeXz6A5Qh2-y403da3.jpeg)
 Set or Update new Title and Meta Tag- Angular
 
-### [98. An Elegant Three Button HTML and JavaScript Audio Animation Player](https://hackernoon.com/an-elegant-three-button-html-and-javascript-audio-animation-player)
-![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-6p93ruf.gif.webp)
-The HTML and JavaScript code used to build an accessible and responsive design animation and audio player for the Web.
+### [97. What is the HLS Streaming Protocol and How Does it Work?](https://hackernoon.com/what-is-the-hls-streaming-protocol-and-how-does-it-work-xw1534sp)
+![](https://hackernoon.com/images/BvZojDJjKgUlcjswNQapIQirZt03-ym2836dm.jpeg)
+HTML5 live streaming solutions have become more popular lately. One of them is the HLS protocol. There are some reasons why this is so popular, the most important of which is that RTMP lost its support by the end of 2020. 
 
-### [99. 11 Overlooked HTML Tags That Can Make Your Pages Pop](https://hackernoon.com/11-overlooked-html-tags-that-can-make-your-pages-pop)
+### [98. 11 Overlooked HTML Tags That Can Make Your Pages Pop](https://hackernoon.com/11-overlooked-html-tags-that-can-make-your-pages-pop)
 ![](https://cdn.hackernoon.com/images/IYXqfnSadehiMIPPHRg7yoAmak12-ex03aqv.webp)
 Learn about 11 hidden HTML tags that can make your web development easier, improve your website’s functionality, and boost SEO. Great for beginners and experts!
 
-### [100. HTML Fundamentals: How To Get Started [Part 1]](https://hackernoon.com/html-fundamentals-how-to-get-started-part-1-4v25318t)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-t9z28jj.jpeg)
-If you are here to begin your journey to become a full-stack developer, understanding the basics of HTML will be your first stepping stone. Or if you are here to simply learn how to build an awesome website of your own, I have got your back. This could be used as an ultimate HTML cheat sheet for beginners. 
-
-### [101. Need for Speed: 21+ Website Performance Optimization Techniques](https://hackernoon.com/need-for-speed-21-website-performance-optimization-techniques)
+### [99. Need for Speed: 21+ Website Performance Optimization Techniques](https://hackernoon.com/need-for-speed-21-website-performance-optimization-techniques)
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-ad92k1y.jpeg)
 We've compiled 21+ tried-and-true ways to optimize performance and make your software scream. 
 
-### [102. How to Create a Dynamic Yelp-Inspired Loader Animation with HTML and CSS](https://hackernoon.com/how-to-create-a-dynamic-yelp-inspired-loader-animation-with-html-and-css)
-![](https://cdn.hackernoon.com/images/C2Edh2NdoUVBNwgozp9BzU9I7Uw1-qn834wg.gif.webp)
-Creating an engaging and visually appealing loader animation can significantly enhance the user experience. In this guide, we’ll explore how to replicate.
+### [100. An Elegant Three Button HTML and JavaScript Audio Animation Player](https://hackernoon.com/an-elegant-three-button-html-and-javascript-audio-animation-player)
+![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-6p93ruf.gif.webp)
+The HTML and JavaScript code used to build an accessible and responsive design animation and audio player for the Web.
 
-### [103. Introducing the Storybook Comic Book Builder](https://hackernoon.com/introducing-the-storybook-comic-book-builder)
+### [101. HTML Fundamentals: How To Get Started [Part 1]](https://hackernoon.com/html-fundamentals-how-to-get-started-part-1-4v25318t)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-t9z28jj.jpeg)
+If you are here to begin your journey to become a full-stack developer, understanding the basics of HTML will be your first stepping stone. Or if you are here to simply learn how to build an awesome website of your own, I have got your back. This could be used as an ultimate HTML cheat sheet for beginners. 
+
+### [102. Introducing the Storybook Comic Book Builder](https://hackernoon.com/introducing-the-storybook-comic-book-builder)
 ![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-ii93ln4.jpeg)
 A Fast Accessible Mobile-First Web Comic Book Builder
+
+### [103. How to Create a Dynamic Yelp-Inspired Loader Animation with HTML and CSS](https://hackernoon.com/how-to-create-a-dynamic-yelp-inspired-loader-animation-with-html-and-css)
+![](https://cdn.hackernoon.com/images/C2Edh2NdoUVBNwgozp9BzU9I7Uw1-qn834wg.gif.webp)
+Creating an engaging and visually appealing loader animation can significantly enhance the user experience. In this guide, we’ll explore how to replicate.
 
 ### [104. 9 Tips and Best Practices for HTML 5 ](https://hackernoon.com/9-tips-and-best-practices-for-html-5-c01137w7)
 ![](https://cdn.hackernoon.com/images/L2ZzoLGpt8d6cP7hjSEpZluSjt72-z3t35tb.jpeg)
 Read this article to find out the most common HTM5 best practices. 
 
-### [105. How I Built A 2D Platformer Using Unity3D game engine](https://hackernoon.com/how-i-built-a-2d-platformer-using-unity3d-game-engine-y54w32o7)
+### [105. What is 'Lazy' loading in CSS for page speed](https://hackernoon.com/use-lazy-for-lightning-fast-webpage-loading)
+![](https://cdn.hackernoon.com/images/ZooZQzFE7INYxlbDjBNNxqTpP8g2-v303x7h.jpeg)
+The loading attribute of the <img> element is a powerful tool that empowers web developers to optimize image loading. 
+
+### [106. How I Built A 2D Platformer Using Unity3D game engine](https://hackernoon.com/how-i-built-a-2d-platformer-using-unity3d-game-engine-y54w32o7)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-k482rsl.jpeg)
 Forest Assassin is a 2D adventure platformer game with easy controls and fun gameplay, which helps every one to get started, this is a classic platformer game with wonderfully designed characters and world. 
 
-### [106. How To Add a Favicon to Your Site](https://hackernoon.com/how-to-add-a-favicon-to-your-site-r41c3378)
+### [107. How To Add a Favicon to Your Site](https://hackernoon.com/how-to-add-a-favicon-to-your-site-r41c3378)
 ![](https://cdn.hackernoon.com/images/eBnY8xTcaxaMfjxWwEvOiXESbqX2-k5p32wz.jpeg)
 Adding a Favicon to Your Site
 
-### [107. Why You Should Use Semantic Elements Even If They Add No Visual Effect To Your Web Page.](https://hackernoon.com/why-you-should-add-html5-markup-even-if-there-is-no-visual-effect-on-the-page-f49u32ca)
+### [108. Why You Should Use Semantic Elements Even If They Add No Visual Effect To Your Web Page.](https://hackernoon.com/why-you-should-add-html5-markup-even-if-there-is-no-visual-effect-on-the-page-f49u32ca)
 ![](https://cdn.hackernoon.com/drafts/q24u3yj2.png)
 Wouldn’t it be easier if for our HTML tags, we had to focus on only <div>’s and <span>’s rather than considering the various HTML5  tags like <article> and <section>? Well, allow me to share an experience that
 will surely tweak that thought.
 
-### [108. Semantic HTML: What, Why, and How](https://hackernoon.com/semantic-html-what-why-and-how)
+### [109. Semantic HTML: What, Why, and How](https://hackernoon.com/semantic-html-what-why-and-how)
 ![](https://cdn.hackernoon.com/images/l8IjwGiKy0f84w69douv81sBfUA2-g5f3mu1.png)
 There are around 100 semantic HTML elements - don't build what HTML hands to you on a silver platter.
-
-### [109. What is 'Lazy' loading in CSS for page speed](https://hackernoon.com/use-lazy-for-lightning-fast-webpage-loading)
-![](https://cdn.hackernoon.com/images/ZooZQzFE7INYxlbDjBNNxqTpP8g2-v303x7h.jpeg)
-The loading attribute of the <img> element is a powerful tool that empowers web developers to optimize image loading. 
 
 ### [110. Let’s Make a Pie By Using CSS Gradients](https://hackernoon.com/lets-make-a-pie-by-using-css-gradients-24583vvz)
 ![](https://images.unsplash.com/photo-1507066274042-8a683a1e6ffe?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -458,13 +462,13 @@ Nowadays, web pages use CSS and CSS provides a lot of chances to make different 
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-9va2k3k.jpeg)
 Knowing how to use forEach in JavaScript is an important first step in writing code that is optimized for speed and efficiency. 
 
-### [112. What is Web Accessibility and Why You Should Care](https://hackernoon.com/what-is-web-accessibility-and-why-you-should-care-qu1g32wr)
-![](https://cdn.hackernoon.com/drafts/sb7o3227.png)
-It's amazing how easily we tend to forget about some set of people who don't have the ability to use the web to its fullness because of some form of impairedness or the other. When building websites, web designers often forget(or not in the habit) to make their sites accessible by people of less abilities such as blindness, deafness and so on.
-
-### [113. CSS3 Gradients: The Gradients That Are Not Really Gradients](https://hackernoon.com/css3-gradients-the-gradients-that-are-not-really-gradients-or1j3u72)
+### [112. CSS3 Gradients: The Gradients That Are Not Really Gradients](https://hackernoon.com/css3-gradients-the-gradients-that-are-not-really-gradients-or1j3u72)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-w7e3uyu.gif?alt=media&token=c7caeb1e-5ea7-4874-a237-2793984575db)
 For beginners, it is intuitively difficult to guess that the pattern above is created with CSS gradients. They will be like, “how possibly can it be gradients while all I see are solid colors?” After all, gradients are supposed to be smooth transitions between colors. That is how I used to think two months ago before I start an HTML & CSS course at Microverse. 
+
+### [113. What is Web Accessibility and Why You Should Care](https://hackernoon.com/what-is-web-accessibility-and-why-you-should-care-qu1g32wr)
+![](https://cdn.hackernoon.com/drafts/sb7o3227.png)
+It's amazing how easily we tend to forget about some set of people who don't have the ability to use the web to its fullness because of some form of impairedness or the other. When building websites, web designers often forget(or not in the habit) to make their sites accessible by people of less abilities such as blindness, deafness and so on.
 
 ### [114. Uderstanding the Basic Structure of a Website ](https://hackernoon.com/uderstanding-the-basic-structure-of-a-website)
 ![](https://cdn.hackernoon.com/images/xY2W6etJxjQsHNcq80kJr9RvKmg1-10h352n.jpeg)
@@ -478,13 +482,13 @@ First of all, web development is an interesting discipline because things are al
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-nq02qvj.jpeg)
 Recently I had a project which involved drawing a flow consisting of interconnected blocks. Here's how I tackled it.
 
-### [117. How to Design a Grid-based Framework Using the CSS Float Property](https://hackernoon.com/how-to-design-a-grid-based-framework-using-the-css-float-property-on8b3v3v)
-![](drafts/nb1933v3f.png)
-Basic grid-based framework
-
-### [118. How to Build a Responsive Page Using Bootstrap](https://hackernoon.com/how-to-build-a-responsive-page-using-bootstrap-cw173tv3)
+### [117. How to Build a Responsive Page Using Bootstrap](https://hackernoon.com/how-to-build-a-responsive-page-using-bootstrap-cw173tv3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FX0UP5eoRqOMMmj2BaUgK3xjSfl32-y373u4w.jpeg?alt=media&token=9f8ed502-1bf9-46b3-b916-c5dbb286f568)
 One of my every project challenge was to build a responsive page with media querys and a few knowledge about how it works, but after it, Bootstrap came to me...
+
+### [118. How to Design a Grid-based Framework Using the CSS Float Property](https://hackernoon.com/how-to-design-a-grid-based-framework-using-the-css-float-property-on8b3v3v)
+![](drafts/nb1933v3f.png)
+Basic grid-based framework
 
 ### [119. What is HTML? - A Guide for Beginners](https://hackernoon.com/what-is-html-a-guide-for-beginners)
 ![](https://cdn.hackernoon.com/images/ocWHzppXsmWRtRpX3dMjAmnpLjw1-i8d2kak.jpeg)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [quality-assurance](https://hackernoon.com/tagged/quality-assurance)
+### Let's learn about [Quality Assurance](https://hackernoon.com/tagged/quality-assurance) via these 131 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Quality Assurance (QA) is a systematic process ensuring that products or services meet specified requirements and quality standards. It is critical for preventing defects and improving overall reliability and customer satisfaction, encompassing the entire development lifecycle.
+
 ### [1. Software QA: Solving Issues with Combinatorial Test Design](https://hackernoon.com/software-qa-solving-issues-with-combinatorial-test-design)
 ![](https://cdn.hackernoon.com/images/FkE8sbzeOZgK4PsszzFiDkH0IIF2-fo931cj.jpeg)
 Combinatorial test design, k-way testing, pairwise testing, software testing challenges, critical errors, test case design techniques, software QA
@@ -161,13 +165,13 @@ Businesses continue to move forward on the digital acceleration path provoked by
 ![](https://cdn.hackernoon.com/drafts/6p1732mn.png)
 It would be way easier for managers if they could only draw a flow chart explaining how code review works. The manager then would email all the peers, telling everyone should follow the new process.
 
-### [41. Better Application Acceptance With LogRocket](https://hackernoon.com/better-application-acceptance-with-logrocket-522p36fw)
-![](https://cdn.hackernoon.com/images/hgq63622.jpg)
-Application Acceptance
-
-### [42. Explore the Top 5 Test Management Solutions for Banking](https://hackernoon.com/explore-the-top-5-test-management-solutions-for-banking)
+### [41. Explore the Top 5 Test Management Solutions for Banking](https://hackernoon.com/explore-the-top-5-test-management-solutions-for-banking)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-xia3u8p.jpeg)
 Banks are under greater scrutiny than most businesses when it comes to the quality of their software. Quality Assurance in Banking is a tricky matter. 
+
+### [42. Better Application Acceptance With LogRocket](https://hackernoon.com/better-application-acceptance-with-logrocket-522p36fw)
+![](https://cdn.hackernoon.com/images/hgq63622.jpg)
+Application Acceptance
 
 ### [43. Software Testing Trends to Watch 2021](https://hackernoon.com/software-testing-trends-to-watch-2021-733y33ue)
 ![](https://cdn.hackernoon.com/images/GwtSLychDFVQnp9pa3AqtIpWQ073-661h33x9.jpeg)
@@ -205,46 +209,46 @@ The AI Solution To Unit Testing](https://hackernoon.com/comprehensive-coverage-t
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1782l1y.jpeg)
 AI automated test generation tools can help improve coverage of source code
 
-### [51. A Quick Guide to Software Testing Life Cycle](https://hackernoon.com/a-quick-guide-to-software-testing-life-cycle)
-![](https://cdn.hackernoon.com/images/3HwHZmmyjEado2N6PyNciMtJesN2-y68635j8.jpeg)
-A complete guide on STLC, a series of specific steps taken during the testing process to meet all software quality objectives. 
-
-### [52. It's Not a Bug, It's a Feature: How to act like an experienced QA engineer](https://hackernoon.com/the-path-to-reliability-how-a-qa-engineer-should-act-in-non-standard-situations)
+### [51. It's Not a Bug, It's a Feature: How to act like an experienced QA engineer](https://hackernoon.com/the-path-to-reliability-how-a-qa-engineer-should-act-in-non-standard-situations)
 ![](https://cdn.hackernoon.com/images/b0DrSlmjbqcK5MDqBfo1ZKUhOvZ2-6m832bq.png)
 Six testing situations that will trap every QA engineer. How a QA engineer should act in non-standard situations.
+
+### [52. A Quick Guide to Software Testing Life Cycle](https://hackernoon.com/a-quick-guide-to-software-testing-life-cycle)
+![](https://cdn.hackernoon.com/images/3HwHZmmyjEado2N6PyNciMtJesN2-y68635j8.jpeg)
+A complete guide on STLC, a series of specific steps taken during the testing process to meet all software quality objectives. 
 
 ### [53. How to Cultivate a Collaborative DevOps Culture ](https://hackernoon.com/how-to-cultivate-a-collaborative-devops-culture-ds1x334q)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-ogx31dx.png)
 Learn about key roles involved in DevOps, their skills and responsibilities, and ways DevOps automation can reduce the communication gap.
 
-### [54. The Step-by-step Guide to Prioritizing Test Cases in End-to-end Testing](https://hackernoon.com/the-step-by-step-guide-to-prioritizing-test-cases-in-end-to-end-testing)
-![](https://cdn.hackernoon.com/images/banana-on-a-table-clfjllqm2000101s611ja3j8i.png)
-In this article, I will demonstrate the testing approach I’ve been using successfully in a project I’ve been working on for the past 8 years.
-
-### [55. Developing a Test Plan and Test Strategy for Your Business](https://hackernoon.com/developing-a-test-plan-and-test-strategy-for-your-business)
+### [54. Developing a Test Plan and Test Strategy for Your Business](https://hackernoon.com/developing-a-test-plan-and-test-strategy-for-your-business)
 ![](https://cdn.hackernoon.com/images/CVw706rHydac4zCU7RNVeuuGFz13-hpb3jkj.jpeg)
 Red Flags That Show Your Project Needs a Test Plan and a Test Strategy
 
-### [56. Types of Crypto Wallets and How to Choose Best Crypto wallet](https://hackernoon.com/5-best-practices-for-qa-teams-0y1i31e0)
+### [55. The Step-by-step Guide to Prioritizing Test Cases in End-to-end Testing](https://hackernoon.com/the-step-by-step-guide-to-prioritizing-test-cases-in-end-to-end-testing)
+![](https://cdn.hackernoon.com/images/banana-on-a-table-clfjllqm2000101s611ja3j8i.png)
+In this article, I will demonstrate the testing approach I’ve been using successfully in a project I’ve been working on for the past 8 years.
+
+### [56. API Automation: 5 Areas to Focus on](https://hackernoon.com/api-automation-5-areas-to-focus-on)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ue92aoe.jpeg)
+API automation goes beyond testing: here are 5 automation areas to focus on in your API program.
+
+### [57. Types of Crypto Wallets and How to Choose Best Crypto wallet](https://hackernoon.com/5-best-practices-for-qa-teams-0y1i31e0)
 ![](https://cdn.hackernoon.com/images/1CX70Mj6Vpend8NpmIgWJwciyeH2-hs94311l.jpeg)
 For software quality-assurance testers and engineers, acquiring new skills has never been more important. However, according to the O * NET Career Portal, the number of QA jobs is expected to grow modestly over the next decade - if "faster than average" —7%, so this growth will not match the skyrocketing demand for information-security practitioners and software. Developers.
 
-
-### [57. API Automation: 5 Areas to Focus on](https://hackernoon.com/api-automation-5-areas-to-focus-on)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ue92aoe.jpeg)
-API automation goes beyond testing: here are 5 automation areas to focus on in your API program.
 
 ### [58.  11 Tips for Effective Software Testing and Quality Assurance](https://hackernoon.com/11-tips-for-effective-software-testing-and-quality-assurance)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-g6a3pra.jpeg)
 
 
-### [59. Top 5 Test Automation Tools to Improve Your Workflow](https://hackernoon.com/top-5-test-automation-tools-to-improve-your-workflow-a3h35fe)
-![](https://cdn.hackernoon.com/images/tXV8wvWWHbgrdKQj3Qo6ae4ULRa2-2l3435tg.jpeg)
-In this article, we invite you to discover our choice of the 5 automation tools that you should imperatively have tried or implemented within your organization.
-
-### [60. How to Limit the Ever-growing Execution Time of E2E Tests](https://hackernoon.com/how-to-limit-the-ever-growing-execution-time-of-e2e-tests)
+### [59. How to Limit the Ever-growing Execution Time of E2E Tests](https://hackernoon.com/how-to-limit-the-ever-growing-execution-time-of-e2e-tests)
 ![](https://cdn.hackernoon.com/images/programmer-waiting-for-his-code-to-run-clg3ijs85000001s64yi3h8mk.png)
 Maintaining the same E2E coverage will require more and more tests—and their execution time will add up.
+
+### [60. Top 5 Test Automation Tools to Improve Your Workflow](https://hackernoon.com/top-5-test-automation-tools-to-improve-your-workflow-a3h35fe)
+![](https://cdn.hackernoon.com/images/tXV8wvWWHbgrdKQj3Qo6ae4ULRa2-2l3435tg.jpeg)
+In this article, we invite you to discover our choice of the 5 automation tools that you should imperatively have tried or implemented within your organization.
 
 ### [61. Automation Testing for Beginners](https://hackernoon.com/automation-testing-for-beginners)
 ![](https://cdn.hackernoon.com/images/q4JmpLxJmpe4eNkyo0m1jfxQPft2-3j93jpm.jpeg)
@@ -254,45 +258,45 @@ In basic, Automation testing is how to automate tests execution, manage tests da
 ![](https://cdn.hackernoon.com/images/q3YCEH66fkhIRoxjKxDDARoxEsw1-zn0367n.png)
 Without proper localization, a defect can become a hot potato tossed between frontend, backend, and any development team. 
 
-### [63. Real-time Notifications for Jenkins Jobs with CatLight](https://hackernoon.com/real-time-notifications-for-jenkins-jobs-with-catlight-pa3b3ymq)
+### [63. Basics of Unit Testing in Software Development](https://hackernoon.com/basics-of-unit-testing-in-software-development)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-4k93y2h.jpeg)
+Testing your code is an important part of the software development process. Learn why it's so important and the most common way of testing.
+
+### [64. Real-time Notifications for Jenkins Jobs with CatLight](https://hackernoon.com/real-time-notifications-for-jenkins-jobs-with-catlight-pa3b3ymq)
 ![](https://cdn.hackernoon.com/drafts/7v7d3ytm.png)
 Before deep into, I would like to say this will be useful if you are managing multiple Jenkins jobs which you think is a little bit complex 😊
 
-### [64. 12 Common Software Testing Misconceptions Debunked](https://hackernoon.com/12-common-software-testing-misconceptions-debunked-0e3734th)
+### [65. 12 Common Software Testing Misconceptions Debunked](https://hackernoon.com/12-common-software-testing-misconceptions-debunked-0e3734th)
 ![](https://cdn.hackernoon.com/images/ZI6rcoTwwzWS1AH495rMgbPSeWl1-qy1931v3.jpeg)
 Software testing is as important as software development. There are many misconceptions surrounding software testing. Let's clear them all.
-
-### [65. Basics of Unit Testing in Software Development](https://hackernoon.com/basics-of-unit-testing-in-software-development)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-4k93y2h.jpeg)
-Testing your code is an important part of the software development process. Learn why it's so important and the most common way of testing.
 
 ### [66. The Significance of Using a Standardized QA Procedure](https://hackernoon.com/the-significance-of-using-a-standardized-qa-procedure-9n5y35av)
 ![](https://cdn.hackernoon.com/images/R8aLhmiN8rUgojf5QE8E0wAqhU73-nr93576.jpeg)
 By standardization, we do not expect you to do expensive changes in your complete quality assurance procedure. 
 
-### [67. Testing ChatGPT's Understanding of White Lies ](https://hackernoon.com/testing-chatgpts-understanding-of-white-lies)
-![](https://cdn.hackernoon.com/images/Qba5s3Jm3tf7wieS5ydYonkEJSh2-7e93lxc.jpeg)
-ChatGPT can formulate a white lie, but only if prompted for. Most worryingly, ChatGPT may think it's a good idea to launch a nuclear second strike.
-
-### [68. Proactive QA Monitoring in Production: Catching Production Issues Before the Customer Does](https://hackernoon.com/proactive-qa-monitoring-in-production-catching-production-issues-before-the-customer-does)
+### [67. Proactive QA Monitoring in Production: Catching Production Issues Before the Customer Does](https://hackernoon.com/proactive-qa-monitoring-in-production-catching-production-issues-before-the-customer-does)
 ![](https://cdn.hackernoon.com/images/aRiuUMLUBSMqrMjtGcBIfDyZGKf2-qg03bbm.png)
 Implement Proactive QA Monitoring to catch production defects instantly, stop manufacturing waste, and protect your brand's reputation.
 
-### [69. Building a QA Ecosystem: How Bootstrapping Led to Global Impact](https://hackernoon.com/building-a-qa-ecosystem-how-bootstrapping-led-to-global-impact)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-cb03d2n.png)
-Bootstrapped QA leaders Kualitee and Kualitatem blend AI and human insight to build a global, proactive quality assurance ecosystem.
+### [68. Testing ChatGPT's Understanding of White Lies ](https://hackernoon.com/testing-chatgpts-understanding-of-white-lies)
+![](https://cdn.hackernoon.com/images/Qba5s3Jm3tf7wieS5ydYonkEJSh2-7e93lxc.jpeg)
+ChatGPT can formulate a white lie, but only if prompted for. Most worryingly, ChatGPT may think it's a good idea to launch a nuclear second strike.
 
-### [70. Tips About TestNG Listeners In Selenium WebDriver With Examples](https://hackernoon.com/tips-about-testng-listeners-in-selenium-webdriver-with-examples-ds1631dr)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-eef3150.jpeg)
-There are different interfaces provided by Java that allows you to modify TestNG behaviour. These interfaces are further known as TestNG Listeners in Selenium WebDriver. TestNG Listeners also allows you to customize the tests logs or report according to your project requirements. TestNG Listeners in Selenium WebDriver are modules that listens to certain events and keep track of test execution while performing some action at every stage of test execution.
-
-### [71. Monetizing Digital Solutions with Progressive Quality Assurance](https://hackernoon.com/monetizing-digital-solutions-with-progressive-quality-assurance)
+### [69. Monetizing Digital Solutions with Progressive Quality Assurance](https://hackernoon.com/monetizing-digital-solutions-with-progressive-quality-assurance)
 ![](https://cdn.hackernoon.com/images/3HwHZmmyjEado2N6PyNciMtJesN2-0993vdh.jpeg)
 This blog will discuss the significance of quality assurance as a pivotal aspect of revenue generation and effective monetization of digital resources. 
 
-### [72. Data Pipeline Testing: The 3 Levels Most Teams Miss](https://hackernoon.com/data-pipeline-testing-the-3-levels-most-teams-miss)
+### [70. Building a QA Ecosystem: How Bootstrapping Led to Global Impact](https://hackernoon.com/building-a-qa-ecosystem-how-bootstrapping-led-to-global-impact)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-cb03d2n.png)
+Bootstrapped QA leaders Kualitee and Kualitatem blend AI and human insight to build a global, proactive quality assurance ecosystem.
+
+### [71. Data Pipeline Testing: The 3 Levels Most Teams Miss](https://hackernoon.com/data-pipeline-testing-the-3-levels-most-teams-miss)
 ![](https://cdn.hackernoon.com/images/RYjawQtRyeUt7SxWneoVtbkqUUI2-1w23ds0.jpeg)
 Dashboards don’t represent actual state, models degrade unnoticed, and incidents show up as “weird numbers” instead of errors.
+
+### [72. Tips About TestNG Listeners In Selenium WebDriver With Examples](https://hackernoon.com/tips-about-testng-listeners-in-selenium-webdriver-with-examples-ds1631dr)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-eef3150.jpeg)
+There are different interfaces provided by Java that allows you to modify TestNG behaviour. These interfaces are further known as TestNG Listeners in Selenium WebDriver. TestNG Listeners also allows you to customize the tests logs or report according to your project requirements. TestNG Listeners in Selenium WebDriver are modules that listens to certain events and keep track of test execution while performing some action at every stage of test execution.
 
 ### [73. 93 Stories To Learn About QA (Quality Assurance) ](https://hackernoon.com/93-stories-to-learn-about-qa)
 ![](https://cdn.hackernoon.com/images/github/qa-58.png)
@@ -302,24 +306,24 @@ Learn everything you need to know about Qa via these 93 free HackerNoon stories.
 ![](https://cdn.hackernoon.com/images/etp8JnU7t9fFCcotnOFXQba4Iyj2-7xa3a22.jpeg)
 Explore the seamless integration of Jira and Azure DevOps with Exalate, bridging the gap for efficient collaboration and data flow.
 
-### [75. How To Make A Record of Selenium Test](https://hackernoon.com/procedure-to-record-a-selenium-test-5v3p328b)
+### [75. Achieving Reliable E2E Tests in Cypress: Overcome cy.wait Pitfalls](https://hackernoon.com/achieving-reliable-e2e-tests-in-cypress-overcome-cywait-pitfalls)
+![](https://cdn.hackernoon.com/images/cKCxFfA9IVdG6vHC0yfNYlk6sfg2-n802ufd.jpeg)
+Learn why Cypress tests become flaky when reusing cy.wait with repeated requests, how times: 1 fixes it, and why UI-based testing is the most reliable strategy.
+
+### [76. 7 Steps to Effectively Implement Test Automation for Video Games](https://hackernoon.com/7-steps-to-effectively-implement-test-automation-for-video-games)
+![](https://cdn.hackernoon.com/images/3JYKsoiQfLWPDpguQcfofJPWedE3-ar93jwh.jpeg)
+Test automation ensures overall software efficiency and accelerates its development process. But how do we successfully implement it for video game testing? 
+
+### [77. How To Make A Record of Selenium Test](https://hackernoon.com/procedure-to-record-a-selenium-test-5v3p328b)
 ![](https://cdn.hackernoon.com/images/pv6832lw.jpg)
 Selenium is a open-source free and automation testing tool for web applications across all different browsers. It is quite similar as HP QuickTest Pro (QTP, currently UFT). However, Selenium mainly focused on automating web-based applications. So the testing done using Selenium tool is referred as Selenium Testing. 
 
 In order to record a test, follow the given steps:
 Step 1 : Open Mozilla Firefox web browser, go to tools and click on Selenium IDE. There type the link
 
-### [76. Achieving Reliable E2E Tests in Cypress: Overcome cy.wait Pitfalls](https://hackernoon.com/achieving-reliable-e2e-tests-in-cypress-overcome-cywait-pitfalls)
-![](https://cdn.hackernoon.com/images/cKCxFfA9IVdG6vHC0yfNYlk6sfg2-n802ufd.jpeg)
-Learn why Cypress tests become flaky when reusing cy.wait with repeated requests, how times: 1 fixes it, and why UI-based testing is the most reliable strategy.
-
-### [77. Getting started with API Testing](https://hackernoon.com/getting-started-with-api-testing-801n3u5u)
+### [78. Getting started with API Testing](https://hackernoon.com/getting-started-with-api-testing-801n3u5u)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJACST3hqNeVQZbNqdn4a7fzRm9x1-7l5g3xpa.jpeg?alt=media&token=abd8dcba-d952-411f-b013-148e5a602063)
 API testing focuses on testing the business logic or the functionality of the application. Using API testing you are also validating the data responses, as well as ensuring whether your APIs are performant and secure.
-
-### [78. 7 Steps to Effectively Implement Test Automation for Video Games](https://hackernoon.com/7-steps-to-effectively-implement-test-automation-for-video-games)
-![](https://cdn.hackernoon.com/images/3JYKsoiQfLWPDpguQcfofJPWedE3-ar93jwh.jpeg)
-Test automation ensures overall software efficiency and accelerates its development process. But how do we successfully implement it for video game testing? 
 
 ### [79. 4 Quality Assurance Cures for "Nightmare" IT Releases](https://hackernoon.com/4-quality-assurance-cures-for-nightmare-it-releases)
 ![](https://cdn.hackernoon.com/images/NexxBo1gTUUt3hNSdYgaZSKNEzU2-5ib3scg.jpeg)
@@ -329,33 +333,33 @@ Bad news – releases fail. Good news – it’s in your power to prevent them. 
 ![](https://cdn.hackernoon.com/images/wU02k1ia4mUhfr8UpI2DDYtkSGk2-3s93yhz.jpeg)
 To make CI work seamlessly, it's crucial to employ effective strategies, and often, software testing services play a critical role in achieving this.
 
-### [81. 7 Steps to Improve Software Quality](https://hackernoon.com/7-sensible-steps-to-improve-software-quality-5d5ff302e83a)
+### [81. Software Intelligence: How to Take Quality Control in 6 Practical Steps](https://hackernoon.com/software-intelligence-how-to-take-quality-control-in-6-practical-steps-ui2i31lk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOC13LVjJYbPovJkJpfm26FvM3fP2-js1k3wiz.jpeg?alt=media&token=688bbc9c-c8ee-4264-bf50-374ddfae2d08)
+Lead Photo by Max Duzij on Unsplash
+
+### [82. 7 Steps to Improve Software Quality](https://hackernoon.com/7-sensible-steps-to-improve-software-quality-5d5ff302e83a)
 ![](https://cdn.hackernoon.com/images/the-best-programming-code-in-the-world-en6vl7bs9znv23sk4k8dh06j.png)
 Software bugs are called “bugs” for a reason: These pests have been around for a long time, they always turn up in code at the most inopportune times, and there’s no proven way to eradicate their existence.
-
-### [82. It's All About Quality: Top 5 Trends in QA and Testing](https://hackernoon.com/its-all-about-quality-top-5-trends-in-qa-and-testing)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-zf036yr.jpeg)
-Top five quality assurance and testing trends that you need to follow!
 
 ### [83. 13 Tips on Writing Powerful Test Cases That You Need to Know](https://hackernoon.com/13-tips-on-writing-powerful-test-cases-that-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/EFourIMH3NfzbMz3nJuO3CtiwOa2-h593ruc.jpeg)
 Test cases are software development safety net unless they are poorly written. Here are my 13 tips on writing powerful and trustworthy test cases. 
 
-### [84. Software Intelligence: How to Take Quality Control in 6 Practical Steps](https://hackernoon.com/software-intelligence-how-to-take-quality-control-in-6-practical-steps-ui2i31lk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOC13LVjJYbPovJkJpfm26FvM3fP2-js1k3wiz.jpeg?alt=media&token=688bbc9c-c8ee-4264-bf50-374ddfae2d08)
-Lead Photo by Max Duzij on Unsplash
+### [84. It's All About Quality: Top 5 Trends in QA and Testing](https://hackernoon.com/its-all-about-quality-top-5-trends-in-qa-and-testing)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-zf036yr.jpeg)
+Top five quality assurance and testing trends that you need to follow!
 
 ### [85. 4 Common Web App Vulnerabilities and How to Combat Them](https://hackernoon.com/4-common-web-app-vulnerabilities-and-how-to-combat-them-vp40233o)
 ![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-ppvr33ev.jpeg)
 Expert's advice on how to protect a web application against malicious attacks, accidental damage, and commonly known vulnerabilities in 2021.
 
-### [86. Selenium Exceptions as the Way to Get More Robust Testing Scripts: the Truth](https://hackernoon.com/selenium-exceptions-as-the-way-to-get-more-robust-testing-scripts-the-truth-7vv33ri)
-![](https://cdn.hackernoon.com/images/fxHVEYXco2WRkm8ai6bgxpipw7g2-p1g33q0.jpeg)
-Exceptions in Selenium are unavoidable. Here are 49 most common Selenium exceptions which might occur while performing Selenium Test Automation.
-
-### [87. How to Apply Lean Production Principles in Software Development](https://hackernoon.com/how-to-apply-lean-production-principles-in-software-development-2i1k3yqv)
+### [86. How to Apply Lean Production Principles in Software Development](https://hackernoon.com/how-to-apply-lean-production-principles-in-software-development-2i1k3yqv)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9m82q4j.jpeg)
 Lean production is not a new concept. It comes from the manufacturing industry and was polished by Toyota in the seventies. However, Lean manufacturing principles turned out to be so practical and universal that they can be used to create innovations in other industries as well. In the Information Technology (IT) sphere, they are frequently used with the Six Sigma Principles, and in this article, we will explain what each principle means for Lean software development. 
+
+### [87. Selenium Exceptions as the Way to Get More Robust Testing Scripts: the Truth](https://hackernoon.com/selenium-exceptions-as-the-way-to-get-more-robust-testing-scripts-the-truth-7vv33ri)
+![](https://cdn.hackernoon.com/images/fxHVEYXco2WRkm8ai6bgxpipw7g2-p1g33q0.jpeg)
+Exceptions in Selenium are unavoidable. Here are 49 most common Selenium exceptions which might occur while performing Selenium Test Automation.
 
 ### [88. How Next-Generation Supply Chain Tracking Is Improving Quality Assurance in the Cannabis Industry](https://hackernoon.com/how-next-generation-supply-chain-tracking-is-improving-quality-assurance-in-the-cannabis-industry-ul69365d)
 ![](https://cdn.hackernoon.com/drafts/nw17364i.png)
@@ -369,33 +373,33 @@ An effective testing strategy involves implementing appropriate types of tests a
 ![](https://cdn.hackernoon.com/images/zaK1YG1Kj6VrF2Y5rSLCZgofWs33-ur1y313w.jpeg)
 Building a product, we face the moment that we need more types of tests. Screenshot, UI, API, or Performance? There are many of them and every one is designed for other purposes.
 
-### [91. Automation Testing Versus Manual Testing Guidelines](https://hackernoon.com/automation-testing-versus-manual-testing-guidelines-auet3ypv)
-![](https://cdn.hackernoon.com/drafts/vkgp3ygc.png)
-Software development goes through six main stages, otherwise known as the software development lifecycle. They are planning, design, development, testing, deployment, and maintenance. After development, the next phase involving quality assurance and testing is crucial to the success of the software. Proper QA testing identifies redundancies, inconsistencies, bugs, and defects in a newly developed product. Without this process, there’s no way to find out the ability of the product to survive in the real world and to work as intended for many years. 
-
-### [92. How the DevOps Model Redefines QA Best Practices](https://hackernoon.com/how-the-devops-model-redefines-qa-best-practices-8f1t3t7u)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRVcFdUwHCyMh8MJkGOoa7M37SGl1-dbr3ur0.jpeg?alt=media&token=9c35e650-15ad-4627-860b-3138d4508f1e)
-Shorter development cycles and faster innovation are the basic characteristics of the DevOps model. It has swept the market with new ideas and incredible solutions, leading to 74% adoption by global enterprises. The reasons are different, but the top ones are the ability to recover from a failure in less than 60 minutes, minimization of support cases by 37%, and overall need to “put out fires”. No wonder that Quality Assurance, as a stage of the software development process, had to adapt to the new reality of the DevOps model and change its traditional approaches. 
-
-### [93. Thoughts After The Colonial Pipeline/Darkside Cyber Attack](https://hackernoon.com/thoughts-after-the-colonial-pipelinedarkside-cyber-attack-ap3g35pn)
+### [91. Thoughts After The Colonial Pipeline/Darkside Cyber Attack](https://hackernoon.com/thoughts-after-the-colonial-pipelinedarkside-cyber-attack-ap3g35pn)
 ![](https://cdn.hackernoon.com/images/T0G0oYRxvlUUcpwKlFTCMsO7qYJ3-r774349k.jpeg)
 When preparing a strategy to defend from cyber attacks, when the threat is continuous, it is only logical that the response should be continuous too. 
 
-### [94. How to Test Financial Applications Effectively](https://hackernoon.com/how-to-test-financial-applications-effectively)
+### [92. Automation Testing Versus Manual Testing Guidelines](https://hackernoon.com/automation-testing-versus-manual-testing-guidelines-auet3ypv)
+![](https://cdn.hackernoon.com/drafts/vkgp3ygc.png)
+Software development goes through six main stages, otherwise known as the software development lifecycle. They are planning, design, development, testing, deployment, and maintenance. After development, the next phase involving quality assurance and testing is crucial to the success of the software. Proper QA testing identifies redundancies, inconsistencies, bugs, and defects in a newly developed product. Without this process, there’s no way to find out the ability of the product to survive in the real world and to work as intended for many years. 
+
+### [93. How to Test Financial Applications Effectively](https://hackernoon.com/how-to-test-financial-applications-effectively)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-4p036d0.jpeg)
 There are several key types of test cases in QA you can’t avoid dealing with banking and financial applications. Here is the checklist for it
 
-### [95. What is the Best Way to Test Your Mobile Application? ](https://hackernoon.com/what-is-the-best-way-to-test-your-mobile-application)
+### [94. How the DevOps Model Redefines QA Best Practices](https://hackernoon.com/how-the-devops-model-redefines-qa-best-practices-8f1t3t7u)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRVcFdUwHCyMh8MJkGOoa7M37SGl1-dbr3ur0.jpeg?alt=media&token=9c35e650-15ad-4627-860b-3138d4508f1e)
+Shorter development cycles and faster innovation are the basic characteristics of the DevOps model. It has swept the market with new ideas and incredible solutions, leading to 74% adoption by global enterprises. The reasons are different, but the top ones are the ability to recover from a failure in less than 60 minutes, minimization of support cases by 37%, and overall need to “put out fires”. No wonder that Quality Assurance, as a stage of the software development process, had to adapt to the new reality of the DevOps model and change its traditional approaches. 
+
+### [95. ISTQB Certification: How to Prepare and Why Take It](https://hackernoon.com/istqb-certification-how-to-prepare-and-why-take-it)
+![](https://cdn.hackernoon.com/images/0Ui3fM0Cs4cj1mm6LZ5a13fULrd2-ue93kco.jpeg)
+Basics of ISTQB certification, the structure of the exam, some tips on preparation and life after certification.
+
+### [96. What is the Best Way to Test Your Mobile Application? ](https://hackernoon.com/what-is-the-best-way-to-test-your-mobile-application)
 ![](https://cdn.hackernoon.com/images/T0G0oYRxvlUUcpwKlFTCMsO7qYJ3-wva3i4r.jpeg)
 Mobile applications are inevitable parts of our lives. To function as expected, each app needs proper software testing to ensure a delightful user experience
 
-### [96. How to Pick a Test Management Solution: 5 Mistakes to Avoid](https://hackernoon.com/how-to-pick-a-test-management-solution-5-mistakes-to-avoid)
+### [97. How to Pick a Test Management Solution: 5 Mistakes to Avoid](https://hackernoon.com/how-to-pick-a-test-management-solution-5-mistakes-to-avoid)
 ![](https://cdn.hackernoon.com/images/aFRCsjemclgZ10CJqg57Mrei3392-ol937qn.jpeg)
 How to choose a test management tool and not regret it later? Simple: avoid these 5 mistakes while you review all of the test management solutions available.
-
-### [97. ISTQB Certification: How to Prepare and Why Take It](https://hackernoon.com/istqb-certification-how-to-prepare-and-why-take-it)
-![](https://cdn.hackernoon.com/images/0Ui3fM0Cs4cj1mm6LZ5a13fULrd2-ue93kco.jpeg)
-Basics of ISTQB certification, the structure of the exam, some tips on preparation and life after certification.
 
 ### [98. Test Smarter, Not Harder: How Purpose-Built Test Management Tools Outperform Spreadsheets](https://hackernoon.com/test-smarter-not-harder-how-purpose-built-test-management-tools-outperform-spreadsheets)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-sn02vz9.jpeg)
@@ -405,21 +409,21 @@ Why modern test management tools outperform spreadsheets when organising data.
 ![](https://cdn.hackernoon.com/images/JSYkNpLpvpMeZRD7gvzhrP1FwxJ2-am8o35hm.jpeg)
 Crypto-related testing ​in fintech app: How to find the balance between ​losses due to mistake and fast delivery 
 
-### [100. 9 Tips To Make Regression Testing More Effective](https://hackernoon.com/9-tips-to-make-regression-testing-more-effective-uj4n33il)
-![](https://cdn.hackernoon.com/images/91eb32da.jpg)
-With the surging rise in the number of mobile app users in the entire world, it’s a high time that brands should focus on delivering seamless functioning of mobile apps. Hence mobile app testing is one of the ways to achieve this goal. This shows the importance of including regression testing in your mobile application development lifecycle.
-
-### [101. Quality Assurance as an Ideal Assistant for Successful Digital Transformations](https://hackernoon.com/quality-assurance-as-an-ideal-assistant-for-successful-digital-transformations)
+### [100. Quality Assurance as an Ideal Assistant for Successful Digital Transformations](https://hackernoon.com/quality-assurance-as-an-ideal-assistant-for-successful-digital-transformations)
 ![](https://cdn.hackernoon.com/images/NexxBo1gTUUt3hNSdYgaZSKNEzU2-9b933l9.jpeg)
 Digital transformation provides great opportunities for improved business functioning. However, it's not a one-off activity.
 
-### [102. Why Using Static Analysis Is Hard](https://hackernoon.com/why-using-static-analysis-is-hard-n02m3vt0)
-![](https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Using static analysis is hard, counter-intuitive and not-automatic. We want to answer some questions related to the use of static analyzers: why this is hard for some users and what are the solutions to help.
+### [101. 9 Tips To Make Regression Testing More Effective](https://hackernoon.com/9-tips-to-make-regression-testing-more-effective-uj4n33il)
+![](https://cdn.hackernoon.com/images/91eb32da.jpg)
+With the surging rise in the number of mobile app users in the entire world, it’s a high time that brands should focus on delivering seamless functioning of mobile apps. Hence mobile app testing is one of the ways to achieve this goal. This shows the importance of including regression testing in your mobile application development lifecycle.
 
-### [103. How We Handle Software QA at Blue Label Labs](https://hackernoon.com/how-we-handle-software-qa-at-blue-label-labs-tl1a3znb)
+### [102. How We Handle Software QA at Blue Label Labs](https://hackernoon.com/how-we-handle-software-qa-at-blue-label-labs-tl1a3znb)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnUjiEoah3BVfLaGbCW7ud5hq2av1-9p53wt0.jpeg?alt=media&token=c1e75f4c-fe21-42bc-9417-dd0369d7385b)
 Many businesses have a process they undergo before the products are shipped off to stores across the country or globe – it shouldn’t come as much of a surprise, but software QA is much the same. When you build a piece of software, whether a mobile app or otherwise, the first goal is to get design elements in place then from there, you ensure that the app functions as intended, meaning it both “looks right” and “behaves correctly” much like when building a physical product. 
+
+### [103. Why Using Static Analysis Is Hard](https://hackernoon.com/why-using-static-analysis-is-hard-n02m3vt0)
+![](https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Using static analysis is hard, counter-intuitive and not-automatic. We want to answer some questions related to the use of static analyzers: why this is hard for some users and what are the solutions to help.
 
 ### [104. How to Release Great Software Using these 12 Types of Testing](https://hackernoon.com/how-to-release-great-software-using-these-12-types-of-testing)
 ![](https://cdn.hackernoon.com/images/XB8aa7XaH5UcSiyI4yZxMvXyPoq2-6ta3h2a.jpeg)
@@ -437,45 +441,45 @@ In this article, I’ll walk you through some of them and explain how they will 
 ![](https://cdn.hackernoon.com/images/Hy2QPbHLY8PeZwgJZcrHykJBMcZ2-0n93omw.jpeg)
 With new technology solutions and digital tools emerging all the time, the state of software testing is constantly changing. 
 
-### [108. Functional Testing Service: How to Ensure a Smooth User Flow](https://hackernoon.com/functional-testing-service-how-to-ensure-a-smooth-user-flow)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-gda3h78.jpeg)
-Making use of a functional testing service can help software development projects by ensuring that it will have a smooth user flow when properly deployed.
-
-### [109. To Err is Human, to Test is Divine](https://hackernoon.com/to-err-is-human-to-test-is-divine-1ng5351h)
+### [108. To Err is Human, to Test is Divine](https://hackernoon.com/to-err-is-human-to-test-is-divine-1ng5351h)
 ![](https://cdn.hackernoon.com/images/LY29n1qtC5QZ81u8f9nsyrQZWTy1-uh8j38i8.jpeg)
 We are humans, we forget, we make mistakes, we change things, ideas; This happens when we work solo, imagine when you are in a team!
 
-### [110. QA + Marketing: Can Testers Help Marketers and Vice Versa?](https://hackernoon.com/qa-marketing-can-testers-help-marketers-and-vice-versa-8w4g33w9)
+### [109. Functional Testing Service: How to Ensure a Smooth User Flow](https://hackernoon.com/functional-testing-service-how-to-ensure-a-smooth-user-flow)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-gda3h78.jpeg)
+Making use of a functional testing service can help software development projects by ensuring that it will have a smooth user flow when properly deployed.
+
+### [110. Ethical QA Engineer: A New Profession for the Era of Autonomous AI](https://hackernoon.com/ethical-qa-engineer-a-new-profession-for-the-era-of-autonomous-ai)
+![](https://cdn.hackernoon.com/images/Qj3COukq04QAeBUqYJI2CMqN4QV2-0613ocr.png)
+Learn how Ethical Bugs differ from code defects, why they cost millions, and how to prevent them
+
+### [111. QA + Marketing: Can Testers Help Marketers and Vice Versa?](https://hackernoon.com/qa-marketing-can-testers-help-marketers-and-vice-versa-8w4g33w9)
 ![](https://cdn.hackernoon.com/images/IApWK8a7IKh6BEakHDWofWslU7N2-byh833xs.jpeg)
 What can testers do for marketers? And how does this unusual alliance help business?
 
-### [111. It is Time To Have A Quality Control For WordPress plugins](https://hackernoon.com/it-is-time-to-have-a-quality-control-for-wordpress-plugins-5v15318s)
-![](https://cdn.hackernoon.com/images/PZbDuFJOtgfshyld0GXV8wXYdxc2-h4j31is.jpeg)
-When a post on Facebook, on Christmas Eve, about the poor quality of WordPress plug-ins gets hundreds of replies within a few hours you know you are not alone.
-
-### [112. Writing Your First Software Test](https://hackernoon.com/writing-your-first-software-test)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ie020b5.jpeg)
-From your first “Hello, World” to QA mastery, learn how manual and automated testing build curiosity, confidence, and reliable software quality.
-
-### [113. How to Start with Autotests](https://hackernoon.com/how-to-start-with-autotests)
+### [112. How to Start with Autotests](https://hackernoon.com/how-to-start-with-autotests)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-0h93n5q.jpeg)
 This article is about the approach one could take to ensure the autotests initiative is not rejected.
 
-### [114. Ethical QA Engineer: A New Profession for the Era of Autonomous AI](https://hackernoon.com/ethical-qa-engineer-a-new-profession-for-the-era-of-autonomous-ai)
-![](https://cdn.hackernoon.com/images/Qj3COukq04QAeBUqYJI2CMqN4QV2-0613ocr.png)
-Learn how Ethical Bugs differ from code defects, why they cost millions, and how to prevent them
+### [113. It is Time To Have A Quality Control For WordPress plugins](https://hackernoon.com/it-is-time-to-have-a-quality-control-for-wordpress-plugins-5v15318s)
+![](https://cdn.hackernoon.com/images/PZbDuFJOtgfshyld0GXV8wXYdxc2-h4j31is.jpeg)
+When a post on Facebook, on Christmas Eve, about the poor quality of WordPress plug-ins gets hundreds of replies within a few hours you know you are not alone.
+
+### [114. Writing Your First Software Test](https://hackernoon.com/writing-your-first-software-test)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ie020b5.jpeg)
+From your first “Hello, World” to QA mastery, learn how manual and automated testing build curiosity, confidence, and reliable software quality.
 
 ### [115. "We Don't Expect Software to Work Any Longer": A Non-trivial Interview with Natallia Shauchenka](https://hackernoon.com/we-dont-expect-software-to-work-any-longer-a-non-trivial-interview-with-natallia-shauchenka-mq4d32gm)
 ![](https://cdn.hackernoon.com/images/dj343loy.jpg)
 To kick off this interview, can you tell us what companies you have worked for?
 
-### [116. Visual Testing of Patternlab and Drupal](https://hackernoon.com/visual-testing-of-patternlab-and-drupal-764u37vp)
-![](https://images.unsplash.com/photo-1502068898470-ad70c83938be?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-What is Patternlab?
-
-### [117. Continuous Testing: What it is, Why You Need it, and How to Do it](https://hackernoon.com/continuous-testing-what-it-is-why-you-need-it-and-how-to-do-it)
+### [116. Continuous Testing: What it is, Why You Need it, and How to Do it](https://hackernoon.com/continuous-testing-what-it-is-why-you-need-it-and-how-to-do-it)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-c493lwj.jpeg)
 Without the right quality assurance measures in place, the risk of a product or application failing is far greater,consequences for the business are more severe
+
+### [117. Visual Testing of Patternlab and Drupal](https://hackernoon.com/visual-testing-of-patternlab-and-drupal-764u37vp)
+![](https://images.unsplash.com/photo-1502068898470-ad70c83938be?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+What is Patternlab?
 
 ### [118. Quality Assurance in Pentesting: Tester Accreditation](https://hackernoon.com/quality-assurance-in-pentesting-tester-accreditation)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-xd93ik6.jpeg)
@@ -497,13 +501,13 @@ Digital data is the new gold, and hackers will stop at nothing to get yours. In 
 ![](https://cdn.hackernoon.com/drafts/3631e31e1.png)
 System testing is one of the stages of the whole software system testing lifecycle (STLC), which comprises three others: unit testing, integration testing, and acceptance testing. Each of these stages has their objectives and technical features. This article dedicated to one of the most volumetric phases.So system testing is a software testing which executing on an accomplished integrated system with a purpose to find out if the structure, functional, data and other issues comply with initial stakeholders’ requirements. The main goal of executing this fraction is to checkup functional, as well as non-functional requirements in the system on the whole. Herewith testers detecting such defects as the wrong usage of system resources, unexpected combinations at the user level, incompatibility with an environment, unintended scenarios, absence of functionality or its’ incorrect performance and ect.Let’s have a simple example for a better understanding of how does this testing phase is executing. Imagine you are an electric guitar manufacturer. Electric guitar consists of many details such as fretboard, tunes, body, volume/tone controls, electronic fillings etc. Let’s say you completed chips and boards installation into the guitar body. Each of them has exact functions and resemble, in our case, separate units. But altogether, this units shape an integration system. In order to make sure they work properly you run a test-drive. So, actually, this verification procedure of integration system calls system testing. It shall be carried out on a systematic basis during the construction process to avoid unexpected surprise on the final chord. There is a big chance that off-color element in the very beginning stage of the whole product development lifecycle can roll back entire project.Within system testing stage the following types of tests should be executed:
 
-### [123. Learning from Experience: A Tester's Perspective](https://hackernoon.com/learning-from-experience-a-testers-perspective-sa7k358x)
-![](https://cdn.hackernoon.com/images/B14XLuqZpVbLR8chBR4JWwZByOb2-mfg358a.jpeg)
-Testers are engineers. They can perform academic researches. They can apply programming to create the tools which benefit the team.
-
-### [124. Revolutionizing QA: My Journey to Creating a Unique Audit That Cuts Costs and Boosts Efficiency](https://hackernoon.com/revolutionizing-qa-my-journey-to-creating-a-unique-audit-that-cuts-costs-and-boosts-efficiency)
+### [123. Revolutionizing QA: My Journey to Creating a Unique Audit That Cuts Costs and Boosts Efficiency](https://hackernoon.com/revolutionizing-qa-my-journey-to-creating-a-unique-audit-that-cuts-costs-and-boosts-efficiency)
 ![](https://cdn.hackernoon.com/images/canr13jliwSq7PGeHEPGuWo2UYo1-iu339no.jpeg)
 Discover how a QA veteran turned years of hands-on experience into a powerful AI-enhanced audit system that identifies inefficiencies, cuts costs, and boosts te
+
+### [124. Learning from Experience: A Tester's Perspective](https://hackernoon.com/learning-from-experience-a-testers-perspective-sa7k358x)
+![](https://cdn.hackernoon.com/images/B14XLuqZpVbLR8chBR4JWwZByOb2-mfg358a.jpeg)
+Testers are engineers. They can perform academic researches. They can apply programming to create the tools which benefit the team.
 
 ### [125. Why is Mobile Geolocation Testing Essential for Quality Assurance](https://hackernoon.com/how-to-perform-mobile-geolocation-testing-and-why-it-is-important-pj4r4306y)
 ![](https://cdn.hackernoon.com/images/vh4qt304d.jpg)
@@ -521,13 +525,13 @@ Early testing is one of the software testing principles that often gets neglecte
 ![](https://cdn.hackernoon.com/images/zckzAU7gH5dDcR9k3jVDnFjT6Kx1-xh1h34tt.jpeg)
 In this episode of Quality Sense, Federico has a conversation with Tristan Lombard, where they talked about the role of community building in software testing.
 
-### [129. Fine-tune Your Product In No Time](https://hackernoon.com/fine-tune-your-product-in-no-time-8fw3tc8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1lsFkBiXT8S7FYoJbPfiTk7AaLW2-sl53uv0.jpeg?alt=media&token=ffe61514-3c7c-4c2b-81d8-5632529847bb)
-Being experts in the IT industry, we at QAWERK know about the importance of testing and want to share this knowledge as we believe high-quality software is the key to success.
-
-### [130. Quality Sense Podcast: Erika Chestnut on Calendly's Test Automation Strategy](https://hackernoon.com/quality-sense-podcast-erika-chestnut-on-calendlys-test-automation-strategy-vx5c34kx)
+### [129. Quality Sense Podcast: Erika Chestnut on Calendly's Test Automation Strategy](https://hackernoon.com/quality-sense-podcast-erika-chestnut-on-calendlys-test-automation-strategy-vx5c34kx)
 ![](https://cdn.hackernoon.com/images/zckzAU7gH5dDcR9k3jVDnFjT6Kx1-i92o34dw.jpeg)
 In this episode of Quality Sense, Federico has a conversation with Erika Chestnut, Head of QA at Calendly. 
+
+### [130. Fine-tune Your Product In No Time](https://hackernoon.com/fine-tune-your-product-in-no-time-8fw3tc8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1lsFkBiXT8S7FYoJbPfiTk7AaLW2-sl53uv0.jpeg?alt=media&token=ffe61514-3c7c-4c2b-81d8-5632529847bb)
+Being experts in the IT industry, we at QAWERK know about the importance of testing and want to share this knowledge as we believe high-quality software is the key to success.
 
 ### [131. On Creating the Right Test Strategy for Your Project: A Guide from the COO](https://hackernoon.com/on-creating-the-right-test-strategy-for-your-project-a-guide-from-the-coo)
 ![](https://cdn.hackernoon.com/images/R72g11CLbqfo3Dii8GWiXRvUH6t1-tpa3heq.jpeg)

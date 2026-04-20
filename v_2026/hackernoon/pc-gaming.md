@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [pc-gaming](https://hackernoon.com/tagged/pc-gaming)
+### Let's learn about [Pc Gaming](https://hackernoon.com/tagged/pc-gaming) via these 96 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+PC gaming involves playing video games on personal computers, often leveraging high-performance hardware for superior graphics and gameplay. It's a thriving segment of the gaming industry, known for its strong community and innovation.
+
 ### [1. The Metro Games in Chronological Order: A Postapocalyptic Masterpiece](https://hackernoon.com/the-metro-games-in-chronological-order-a-postapocalyptic-masterpiece)
 ![](https://cdn.hackernoon.com/images/0ND921QitCePbuLAJQgufmkRClY2-r0a39x9.jpeg)
 The Metro games have a linear storyline starting with Metro 2033, followed by Metro: Last Light, and concluding with Metro: Exodus.
@@ -185,22 +189,22 @@ Video games are weaving their pixel magic into everyone's lives, from your tech-
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-yiaz35y2.jpeg)
 It's only natural to want to experience anime in a new medium. While not as common as their console counterparts, the Anime games on PC are still plenty of fun
 
-### [47. Why VTOL VR Is One Of The Best VR Games Around](https://hackernoon.com/vtol-vr-is-one-of-the-best-vr-games-around)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-tk93p4a.jpeg)
-VTOL VR's simplistic visual design belies the incredibly fun and accessible experience the title brings thanks to its perfect use of VR's intractability. 
-
-### [48. 5 Best Power Strips for Gaming in 2022](https://hackernoon.com/best-power-strip-for-gaming)
+### [47. 5 Best Power Strips for Gaming in 2022](https://hackernoon.com/best-power-strip-for-gaming)
 ![](https://cdn.hackernoon.com/images/ZFjrjKyru3ZAtV6LHrpdLvoZTLv2-k91035up.jpeg)
 We’ve lined up the best power strips for gaming in 2021 to help you build an epic gaming setup and ensure an uninterrupted gaming experience
 
 
-### [49. 5 Best Roblox Survival Games](https://hackernoon.com/5-best-roblox-survival-games-is1o34xo)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-kqn344i.jpeg)
-Survival games are some of the most fun you can have on Roblox. Here are five paticularly fun ones to challenge yourself with. See if you can survive them!
+### [48. Why VTOL VR Is One Of The Best VR Games Around](https://hackernoon.com/vtol-vr-is-one-of-the-best-vr-games-around)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-tk93p4a.jpeg)
+VTOL VR's simplistic visual design belies the incredibly fun and accessible experience the title brings thanks to its perfect use of VR's intractability. 
 
-### [50. How to Show FPS in Apex Legends on PC](https://hackernoon.com/how-to-show-fps-in-apex-legends-on-pc-r81l34k9)
+### [49. How to Show FPS in Apex Legends on PC](https://hackernoon.com/how-to-show-fps-in-apex-legends-on-pc-r81l34k9)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-2t4i345t.jpeg)
 There are more than a few ways to show FPS in Apex Legends on PC. Here are three paticularly easy ways to see it as well as an explanation of what they tell you
+
+### [50. 5 Best Roblox Survival Games](https://hackernoon.com/5-best-roblox-survival-games-is1o34xo)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-kqn344i.jpeg)
+Survival games are some of the most fun you can have on Roblox. Here are five paticularly fun ones to challenge yourself with. See if you can survive them!
 
 ### [51. 4 Best HDMI 2.1 Gaming Monitors for Xbox Series X, PS5, and PC](https://hackernoon.com/4-best-hdmi-21-gaming-monitors-for-xbox-series-x-ps5-and-pc)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-zy037tw.jpeg)
@@ -286,21 +290,21 @@ We asked the question that has kept us up at night about gaming. In this sloggin
 A gaming PC can be a pricey investment. Even more reason to guard it with the best antivirus. Here are the 3 best antivrus software for Gaming PCs in 2021.
 
 
-### [71. 5 Hardest Achievements in Stardew Valley from a Veteran Farmer](https://hackernoon.com/5-hardest-achievements-in-stardew-valley-from-a-veteran-farmer)
-![](https://cdn.hackernoon.com/images/D59iQWrw9NWwRKT3HJ1zyatfnf02-v893ra6.jpeg)
-In this article, we will explore which goals are the hardest to achieve in Stardew Valley.
-
-### [72. Punk Wars Review: A Fallout Inspired City Builder (PC)](https://hackernoon.com/punk-wars-review-a-fallout-inspired-city-builder-pc)
+### [71. Punk Wars Review: A Fallout Inspired City Builder (PC)](https://hackernoon.com/punk-wars-review-a-fallout-inspired-city-builder-pc)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-3l737k1.jpeg)
 Is this steampunk city builder a diamond in the rough or simply scrap metal? Check out our full review of Punk Wars!
 
-### [73. Why is it so Hard to Find a PS5 for Sale? ](https://hackernoon.com/why-is-it-so-hard-to-find-a-ps5-for-sale)
-![](https://cdn.hackernoon.com/images/bWf7Y9sKoce7uN7b8MgFPMs2uXm1-4d037zx.jpeg)
-PS5 was released last year on November 12, 2020. It is Sony’s best PlayStation and it is Sony's fastest-selling PlayStation, with more than 10 million consoles sold so far. PS5 came with many new features where it supported gaming up to 8k at 120Hz, a digital edition and an enhanced PS5 controller were some of the few main highlights.
+### [72. 5 Hardest Achievements in Stardew Valley from a Veteran Farmer](https://hackernoon.com/5-hardest-achievements-in-stardew-valley-from-a-veteran-farmer)
+![](https://cdn.hackernoon.com/images/D59iQWrw9NWwRKT3HJ1zyatfnf02-v893ra6.jpeg)
+In this article, we will explore which goals are the hardest to achieve in Stardew Valley.
 
-### [74. Top 5 Simulation Devices for Sports Enthusiasts in 2022](https://hackernoon.com/top-5-simulation-devices-for-sports-enthusiasts-in-2022)
+### [73. Top 5 Simulation Devices for Sports Enthusiasts in 2022](https://hackernoon.com/top-5-simulation-devices-for-sports-enthusiasts-in-2022)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-m593ok2.jpeg)
 Here is a list of the top five sport simulation devices, followed by a brief description of each one.
+
+### [74. Why is it so Hard to Find a PS5 for Sale? ](https://hackernoon.com/why-is-it-so-hard-to-find-a-ps5-for-sale)
+![](https://cdn.hackernoon.com/images/bWf7Y9sKoce7uN7b8MgFPMs2uXm1-4d037zx.jpeg)
+PS5 was released last year on November 12, 2020. It is Sony’s best PlayStation and it is Sony's fastest-selling PlayStation, with more than 10 million consoles sold so far. PS5 came with many new features where it supported gaming up to 8k at 120Hz, a digital edition and an enhanced PS5 controller were some of the few main highlights.
 
 ### [75. Cloudborn Demo Takes GDC By Storm With Many Wowed By Gameplay](https://hackernoon.com/cloudborn-demo-takes-gdc-by-storm-with-many-wowed-by-gameplay)
 ![](https://cdn.hackernoon.com/images/QL9DyBlq8KSasvotrjiBlCBkxLx2-st837z9.jpeg)
@@ -322,17 +326,17 @@ Standing Stone Games announced the launch of the Isle of Dread expansion for the
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-l51135ob.jpeg)
 Immersive Gaming Hive is an interesting new kind of software that claims to dramatically change the way you listen in games. But how much? We discuss that. 
 
-### [80. Business Trends and Gamer Behavior in Esports on PC and Console](https://hackernoon.com/business-trends-and-gamer-behavior-in-esports-on-pc-and-console)
+### [80. Dominate Your Gaming Experience: a Guide for Finding the Perfect Gaming Mouse](https://hackernoon.com/dominate-your-gaming-experience-a-guide-for-finding-the-perfect-gaming-mouse)
+![](https://cdn.hackernoon.com/images/ai4C2ZOAbOhki4gYVPSgGcUgJXv2-cea3lod.jpeg)
+In this guide, we'll explore what makes the perfect gaming mouse and how to choose the right one for your gaming style.
+
+### [81. Business Trends and Gamer Behavior in Esports on PC and Console](https://hackernoon.com/business-trends-and-gamer-behavior-in-esports-on-pc-and-console)
 ![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-f49362k.jpeg)
  Regulators and competitors like Sony are giving much flak to the proposed Microsoft-Activision tie-up.
 
-### [81. 5 Best Controllers for PC Gaming](https://hackernoon.com/5-best-controllers-for-pc-gaming)
+### [82. 5 Best Controllers for PC Gaming](https://hackernoon.com/5-best-controllers-for-pc-gaming)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-2p135dp.jpeg)
 With so many options available, you might ask yourself, which controllers are the best for PC gaming? Here are the top 5 best controllers for your PC.
-
-### [82. Dominate Your Gaming Experience: a Guide for Finding the Perfect Gaming Mouse](https://hackernoon.com/dominate-your-gaming-experience-a-guide-for-finding-the-perfect-gaming-mouse)
-![](https://cdn.hackernoon.com/images/ai4C2ZOAbOhki4gYVPSgGcUgJXv2-cea3lod.jpeg)
-In this guide, we'll explore what makes the perfect gaming mouse and how to choose the right one for your gaming style.
 
 ### [83. Go Fast When You Play the 5 Best Racing Games of All Time](https://hackernoon.com/go-fast-when-you-play-the-5-best-racing-games-of-all-time)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-3z93v2m.jpeg)
@@ -342,13 +346,13 @@ Today, we can't imagine the world of gaming without racing games.
 ![](https://cdn.hackernoon.com/images/IagORLorgab1vulL2f2r05xXVLo2-aod3l2c.jpeg)
 Racing games are addicting and adrenaline inducing. Even more so when you have a racing wheel to simulate a real racing experience!
 
-### [85. How I Replaced Gaming with Coding and Became a Web Developer](https://hackernoon.com/how-i-replaced-gaming-with-coding-and-became-a-web-developer)
-![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-a5822ty.jpeg)
-A personal journey from early gaming days to becoming a web developer, sharing experiences with classic games, learning, and the transition to freelancing.
-
-### [86. The Best Mechanical Keyboards for Gamers](https://hackernoon.com/the-best-mechanical-keyboards-for-gamers)
+### [85. The Best Mechanical Keyboards for Gamers](https://hackernoon.com/the-best-mechanical-keyboards-for-gamers)
 ![](https://cdn.hackernoon.com/images/ySvJWvmLFuNYXIa6D1MX7Q5YmsZ2-uzc3ute.jpeg)
 This article takes a look at some of the best mechanical keyboards for gamers. 
+
+### [86. How I Replaced Gaming with Coding and Became a Web Developer](https://hackernoon.com/how-i-replaced-gaming-with-coding-and-became-a-web-developer)
+![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-a5822ty.jpeg)
+A personal journey from early gaming days to becoming a web developer, sharing experiences with classic games, learning, and the transition to freelancing.
 
 ### [87. Assassin’s Creed Valhalla-Wrath of the Druids DLC Review (PC)](https://hackernoon.com/assassins-creed-valhalla-wrath-of-the-druids-dlc-review-pc-98v377l)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-1j8i3565.jpeg)
@@ -358,27 +362,35 @@ Assassin's Creed Valhalla's Wrath of the Druids expansion brings a new land, new
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-ou93sm9.jpeg)
 On April 19th, Elixir Games announced a strategic partnership with Square Enix to focus on “generating visibility and adoption of web3 games".
 
-### [89. What are the Most Overrated Games Out There?](https://hackernoon.com/what-are-the-most-overrated-games-out-there)
+### [89. Why Is RAM So Expensive in 2026? How AI Data Centres Broke the PC Market](https://hackernoon.com/why-is-ram-so-expensive-in-2026-how-ai-data-centres-broke-the-pc-market)
+![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-sv83ba4.jpeg)
+RAM is expensive in 2026 because AI data centres operated by Amazon, Meta, Microsoft, Alphabet, and Oracle are collectively spending $166 billion on RAM
+
+### [90. What are the Most Overrated Games Out There?](https://hackernoon.com/what-are-the-most-overrated-games-out-there)
 ![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-5x138xs.jpeg)
 With so many games available to us, some don't deserve the same praise. In this slogging thread, the gaming channel discussed what are the most overrated games
 
-### [90. A 144hz Laptop Is the Way to Go for Gaming in 2023](https://hackernoon.com/a-144hz-laptop-is-the-way-to-go-for-gaming-in-2023)
+### [91. A 144hz Laptop Is the Way to Go for Gaming in 2023](https://hackernoon.com/a-144hz-laptop-is-the-way-to-go-for-gaming-in-2023)
 ![](https://cdn.hackernoon.com/images/yaJ7zZuvZsfESQX7YzwhXWpPo8H2-fz93r8q.jpeg)
 In this article, we delve into the benefits and advantages of the 144Hz laptop, a cutting-edge device that has garnered immense popularity among gamers in 2023.
 
-### [91. Metro Exodus PC Enhanced Edition Release Date Set for May 6th](https://hackernoon.com/metro-exodus-pc-enhanced-edition-release-date-set-for-may-6th-511o243v)
+### [92. Fighting VRAM Overheating: 3 Unexpected Lessons from My First Windows Utility](https://hackernoon.com/fighting-vram-overheating-3-unexpected-lessons-from-my-first-windows-utility)
+![](https://cdn.hackernoon.com/images/xqQcrOPAG6Rl046hNv92Odipmx22-17837k7.png)
+A developer's log on fixing laptop VRAM overheating during AI workloads. Why Memory Junction hits 105°C and how Pulse Throttling solves it without undervolting.
+
+### [93. Metro Exodus PC Enhanced Edition Release Date Set for May 6th](https://hackernoon.com/metro-exodus-pc-enhanced-edition-release-date-set-for-may-6th-511o243v)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-d9b634hi.jpeg)
 Metro Exodus is going to receive a free PC Enhanced Edition, which launches on May 6. It will be a free upgrade to all existing owners of the game .
 
-### [92. What’s your Favorite Feature in The Sims Universe?](https://hackernoon.com/whats-your-favorite-feature-in-the-sims-universe)
+### [94. What’s your Favorite Feature in The Sims Universe?](https://hackernoon.com/whats-your-favorite-feature-in-the-sims-universe)
 ![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-gx038vr.jpeg)
 The HackerNoon gaming community discussed The Sims world, our favorite features, versions, and what is coming next for this game
 
-### [93. What if Malware isn’t Slowing Down Your Games?](https://hackernoon.com/what-if-malware-isnt-slowing-down-your-games)
+### [95. What if Malware isn’t Slowing Down Your Games?](https://hackernoon.com/what-if-malware-isnt-slowing-down-your-games)
 ![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-c9034ma.jpeg)
 Most experienced gamers realize that many different kinds of malware can slow down their games. 
 
-### [94. Biomutant Video Showcases Unedited Gameplay Captured on PC](https://hackernoon.com/biomutant-video-showcases-unedited-gameplay-captured-on-pc-1y1434c9)
+### [96. Biomutant Video Showcases Unedited Gameplay Captured on PC](https://hackernoon.com/biomutant-video-showcases-unedited-gameplay-captured-on-pc-1y1434c9)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-l7bq345u.jpeg)
 THQ Nordic dropped some amazing, new footage of the upcoming Biomutant game showing the PC gameplay experience ahead of the May 2021 launch.
 

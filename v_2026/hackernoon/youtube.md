@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [youtube](https://hackernoon.com/tagged/youtube)
+### Let's learn about [Youtube](https://hackernoon.com/tagged/youtube) via these 152 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 The website everyone goes to when they want to be entertained while eating lunch.
 
 ### [1. How to Access YouTube in Restricted Areas — 10 Methods](https://hackernoon.com/how-to-access-youtube-in-restricted-areas-10-methods)
@@ -88,29 +90,29 @@ Ex-Google Tech Lead talks about building a side-hustle and making $40K/month in 
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-h693l3t.jpeg)
 Large language models are a specific type of machine learning-based algorithm that understand and can generate language
 
-### [22. I Built an AI Prompt That Actually Writes YouTube Scripts Worth Watching](https://hackernoon.com/i-built-an-ai-prompt-that-actually-writes-youtube-scripts-worth-watching)
-![](https://cdn.hackernoon.com/images/4QQhIuTcGWPBcSXw0KTQbpwavoG2-0c237j8.png)
-I built a structured prompt framework that transforms any AI into a YouTube script specialist.
-
-### [23. Build a Fully Functional Youtube Clone Using Firebase, FFmpeg, And React. Part 1](https://hackernoon.com/build-a-fully-functional-youtube-clone-using-firebase-ffmpeg-and-react-part-1)
+### [22. Build a Fully Functional Youtube Clone Using Firebase, FFmpeg, And React. Part 1](https://hackernoon.com/build-a-fully-functional-youtube-clone-using-firebase-ffmpeg-and-react-part-1)
 ![](https://cdn.hackernoon.com/images/iHKErLv7KAegkfw3m5jwsrsy3J63-n8g3n0i.jpeg)
 An exact clone of youtube with all functionalities from View count to Subscribe to everything (Without Youtube Api) Using Firebase, FFmpeg, And React
 
-### [24. Instagram wasn’t the best acquisition in the history of tech](https://hackernoon.com/instagram-wasnt-the-best-acquisition-in-the-history-of-tech-31bf3a3bcf87)
+### [23. Instagram wasn’t the best acquisition in the history of tech](https://hackernoon.com/instagram-wasnt-the-best-acquisition-in-the-history-of-tech-31bf3a3bcf87)
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-a8036zi.webp)
 Recently, YouTube introduced a new <a href="https://www.cnbc.com/2018/10/22/youtube-invests-20-million-in-educational-tutorial-and-diy-videos.html" target="_blank">$20M fund</a> to stimulate creators inside educational categories. And as the discussion about the <a href="https://techcrunch.com/2018/09/24/instagram-founders-leave/" target="_blank">founders</a> of Facebook-acquired startups <a href="https://www.theverge.com/2018/4/30/17304792/whatsapp-jan-koum-facebook-data-privacy-encryption" target="_blank">leaving</a> the company <a href="https://www.theverge.com/2018/10/22/18010030/brendan-iribe-oculus-ceo-leaves-facebook-quit" target="_blank">doesn’t go away</a>, I decided to look once again at two most discussed successful tech acquisitions in the 21st century.
 
-### [25. Posting Videos of Your Kids on YouTube Is Weird](https://hackernoon.com/im-sorry-but-posting-videos-of-your-kids-on-youtube-is-friggin-weird-ukft32ug)
+### [24. Posting Videos of Your Kids on YouTube Is Weird](https://hackernoon.com/im-sorry-but-posting-videos-of-your-kids-on-youtube-is-friggin-weird-ukft32ug)
 ![](drafts/4qgy323e.png)
 That's Ryan Kaji.
 
-### [26. AI-Driven YouTube Comment Management: The Good, Bad, and Ugly](https://hackernoon.com/ai-driven-youtube-comment-management-the-good-bad-and-ugly)
+### [25. AI-Driven YouTube Comment Management: The Good, Bad, and Ugly](https://hackernoon.com/ai-driven-youtube-comment-management-the-good-bad-and-ugly)
 ![](https://cdn.hackernoon.com/images/3dP1h4oDXWfdH1z81Je2nAo7JKq1-hkc35au.jpeg)
 A Step-by-Step Guide to Building a YouTube Video Comments Responder
 
-### [27. 15 Ways to Increase YouTube Subscribers Organically in 2020](https://hackernoon.com/15-ways-to-increase-youtube-subscribers-organically-in-2020-7g1o32sv)
+### [26. 15 Ways to Increase YouTube Subscribers Organically in 2020](https://hackernoon.com/15-ways-to-increase-youtube-subscribers-organically-in-2020-7g1o32sv)
 ![](https://cdn.hackernoon.com/images/xgx13zhc.jpg)
 Want to watch a video? What better than YouTube. Video content is the leading way in the content marketing scene. YouTube is currently the leading platform for video blogging, sharing & marketing. With billions of visitors every day, there is a large potential audience for every uploaded video. A great way to start achieving your goals is to convert these visitors to subscribers.
+
+### [27. I Built an AI Prompt That Actually Writes YouTube Scripts Worth Watching](https://hackernoon.com/i-built-an-ai-prompt-that-actually-writes-youtube-scripts-worth-watching)
+![](https://cdn.hackernoon.com/images/4QQhIuTcGWPBcSXw0KTQbpwavoG2-0c237j8.png)
+I built a structured prompt framework that transforms any AI into a YouTube script specialist.
 
 ### [28. Galactica is an AI Model Trained on 120 Billion Parameters](https://hackernoon.com/galactica-is-an-ai-model-trained-on-120-billion-parameters)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-j7a3msr.jpeg)
@@ -168,13 +170,13 @@ An exact clone of youtube with all functionalities from View count to Subscribe 
 ![](https://cdn.hackernoon.com/images/i6qKLPrOfIYnb9YOqS5R6xVHmJj1-bba3k9m.jpeg)
 YouTube's algorithm seems to be discriminating against BIPOC and LGBTQ content. A Supreme Court case might now end YouTube's protection against lawsuits.
 
-### [42. How to Monetize and Make Money With AI on YouTube](https://hackernoon.com/how-to-monetize-and-make-money-with-ai-on-youtube)
-![](https://cdn.hackernoon.com/images/make-money-with-ai-on-you-tube-cliel0z27000701s6g65268rb.png)
-I'm getting questions about how to monetize and make money with AI - whether with images you generate or otherwise, so here's the first installation...
-
-### [43. How I Made a YouTube Video With React](https://hackernoon.com/how-i-made-a-youtube-video-with-react)
+### [42. How I Made a YouTube Video With React](https://hackernoon.com/how-i-made-a-youtube-video-with-react)
 ![](https://cdn.hackernoon.com/images/oUS9HxHnMOackh1UhEDoXjMokWv1-qgd2efa.png)
 I wanted a good animation for my first YouTube video. But with no experience with tools like After Effects, what can I do? React JS to the rescue!
+
+### [43. How to Monetize and Make Money With AI on YouTube](https://hackernoon.com/how-to-monetize-and-make-money-with-ai-on-youtube)
+![](https://cdn.hackernoon.com/images/make-money-with-ai-on-you-tube-cliel0z27000701s6g65268rb.png)
+I'm getting questions about how to monetize and make money with AI - whether with images you generate or otherwise, so here's the first installation...
 
 ### [44. The Best AI Articles of October 2022](https://hackernoon.com/the-best-ai-articles-of-october-2022)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-zda3mb8.jpeg)
@@ -196,17 +198,17 @@ Completing a passion project that seemed impossible.
 ![](https://cdn.hackernoon.com/images/aGqHBBl4t4hpGmQh1vZ9ruKH3Iv1-l593nj8.jpeg)
 In my recent conversation with Zach Letter, founder of Wonder Works, we discussed the business and marketing of Roblox games.
 
-### [49. Eight Awesome AI Youtube Videos Under 10 Minutes](https://hackernoon.com/awesome-ai-youtube-videos-under-10-minutes-b1a43ubh)
+### [49. Curate Your Own Ad-Free YouTube Experience: A Simple Guide for Watching Your Favorite Channels](https://hackernoon.com/curate-your-own-ad-free-youtube-experience-a-simple-guide-for-watching-your-favorite-channels)
+![](https://cdn.hackernoon.com/images/for6KbaG02euOkF3kL6MZHB8JC93-xs03bn3.jpeg)
+Use yt-dlp, Plex, and n8n to create an ad-free, offline YouTube library, adaptable to Mac, Windows, or Linux.
+
+### [50. Eight Awesome AI Youtube Videos Under 10 Minutes](https://hackernoon.com/awesome-ai-youtube-videos-under-10-minutes-b1a43ubh)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-g87j3u25.jpeg?alt=media&token=ccd9b048-5069-4c18-a4e6-7e66979e3322)
 Machine learning educational content is often in the form of academic papers or blog articles. These resources are incredibly valuable. However, they can sometimes be lengthy and time-consuming. If you just want to learn basic concepts and don’t require all the math and theory behind them, concise machine learning videos may be a better option. 
 
-### [50. Sharing My Learnings After Leaving a Big Tech Company](https://hackernoon.com/sharing-my-learnings-after-leaving-a-big-tech-company-zzn33gs)
+### [51. Sharing My Learnings After Leaving a Big Tech Company](https://hackernoon.com/sharing-my-learnings-after-leaving-a-big-tech-company-zzn33gs)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-3q513trt.jpeg?alt=media&token=8c479cff-1d86-4bf6-8201-dee5c90d68e6)
 Ex-Google TechLead explains his learnings from leaving Google. 
-
-### [51. Curate Your Own Ad-Free YouTube Experience: A Simple Guide for Watching Your Favorite Channels](https://hackernoon.com/curate-your-own-ad-free-youtube-experience-a-simple-guide-for-watching-your-favorite-channels)
-![](https://cdn.hackernoon.com/images/for6KbaG02euOkF3kL6MZHB8JC93-xs03bn3.jpeg)
-Use yt-dlp, Plex, and n8n to create an ad-free, offline YouTube library, adaptable to Mac, Windows, or Linux.
 
 ### [52. Top 8 Machine Learning Content Creators on YouTube](https://hackernoon.com/top-8-machine-learning-content-creators-on-youtube)
 ![](https://cdn.hackernoon.com/images/yInti7CnmZMjybXOCRsTVUOcMel2-kb937br.jpeg)
@@ -216,17 +218,17 @@ Here are the top Machine Learning content creators on YouTube to follow for tuto
 ![](https://cdn.hackernoon.com/images/AVK8wXOMZacxWmh20TamxVrbday2-mg83axr.jpeg)
 Streaming slots and casino games offer us new perspectives on game mechanics and even helps us learn interesting new strategies.
 
-### [54. How to increase your number of subscribers on YouTube 2021](https://hackernoon.com/how-to-increase-your-number-of-subscribers-on-youtube-2021-1i6a31r9)
+### [54. 12 Lessons from My Half-assed YouTube Channel](https://hackernoon.com/12-lessons-from-my-half-assed-youtube-channel)
+![](https://cdn.hackernoon.com/images/rJVRbcBhr5cdK7sDhAlnlBvjN1o1-oe034vx.png)
+This how I gained 140k+ views and 600+ subs by posting 14 videos and switching between 3 niches within the last 4 years. 
+
+### [55. How to increase your number of subscribers on YouTube 2021](https://hackernoon.com/how-to-increase-your-number-of-subscribers-on-youtube-2021-1i6a31r9)
 ![](https://cdn.hackernoon.com/images/d5BLV0isRiYi2FhvJz3S8Qx8yQH2-u02y319b.jpeg)
 Great engaging content, frequency of your posts, and calls to action are all elements of a successful YouTube video. Read more about other YouTube strategies.
 
-### [55. My List of Crypto-Programming Youtube Tutorials](https://hackernoon.com/my-list-of-crypto-programming-youtube-tutorials-0v323xtq)
+### [56. My List of Crypto-Programming Youtube Tutorials](https://hackernoon.com/my-list-of-crypto-programming-youtube-tutorials-0v323xtq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FqwlVSFUNhGO3DAw4hoBd17XGTAC2-q8a3xhq.jpeg?alt=media&token=4642f76c-d517-4ec5-b7ee-74bb8c43caf5)
 A collection of my youtube videos on creating bots for trading, creating smart contracts, building dApps, and integrating with Facebook, Amazon, and eBay APIs
-
-### [56. 12 Lessons from My Half-assed YouTube Channel](https://hackernoon.com/12-lessons-from-my-half-assed-youtube-channel)
-![](https://cdn.hackernoon.com/images/rJVRbcBhr5cdK7sDhAlnlBvjN1o1-oe034vx.png)
-This how I gained 140k+ views and 600+ subs by posting 14 videos and switching between 3 niches within the last 4 years. 
 
 ### [57. How to Take Your Resume from Pure Garbage to Landing Your Dream Job: Tips for Software Engineers](https://hackernoon.com/how-to-take-your-resume-from-pure-garbage-to-landing-your-dream-job-tips-for-software-engineers-k44j33dd)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-vgdv3tyg.jpeg?alt=media&token=c05764d4-1361-43cc-bcd5-d8a626ecc5f0)
@@ -246,18 +248,18 @@ Ex-Google Tech Lead shares his experience in growing a business from 0 to millio
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-uf1y33g5.jpeg)
 DeOldify is a technique to colorize and restore old black and white images or even film footage. It was developed by Jason Antic.
 
-### [61. 35 of the Best Dev Channels and Content Creators on Youtube](https://hackernoon.com/35-awesome-dev-people-to-follow-on-youtube-fvk531us)
+### [61. Pixelated Social Media Icon GIFs: Facebook, Twitter, LinkedIn, GitHub, YouTube and Instagram](https://hackernoon.com/pixelated-social-media-icon-gifs-facebook-twitter-linkedin-github-youtube-and-instagram-5kn3ad3)
+![](https://cdn.hackernoon.com/images/cicv2ia6.gif)
+Hacker Noon has a new Giphy account. Our first 30 GIFs have created over 2.2 million views. These popular social media icons have been pixelated, greenified and GIF-ed: 
+
+### [62. 35 of the Best Dev Channels and Content Creators on Youtube](https://hackernoon.com/35-awesome-dev-people-to-follow-on-youtube-fvk531us)
 ![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-jd1m31hx.jpeg)
 Here I've compiled a list of personal favorite devs on YouTube. I've added a couple of lines on each channel too for reference. Enjoy! 
 
 
-### [62. You’re Not Alone, Coding is Hard! How to Deal with Programming Roadblocks](https://hackernoon.com/youre-not-alone-coding-is-hard-how-to-deal-with-programming-roadblocks-lj2e33zz)
+### [63. You’re Not Alone, Coding is Hard! How to Deal with Programming Roadblocks](https://hackernoon.com/youre-not-alone-coding-is-hard-how-to-deal-with-programming-roadblocks-lj2e33zz)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-yuf43tcb.jpeg?alt=media&token=074c7e5c-2132-4d3a-a63c-9d95f958ace5)
 Ex-Google Tech Lead explains why programming is so hard.
-
-### [63. Pixelated Social Media Icon GIFs: Facebook, Twitter, LinkedIn, GitHub, YouTube and Instagram](https://hackernoon.com/pixelated-social-media-icon-gifs-facebook-twitter-linkedin-github-youtube-and-instagram-5kn3ad3)
-![](https://cdn.hackernoon.com/images/cicv2ia6.gif)
-Hacker Noon has a new Giphy account. Our first 30 GIFs have created over 2.2 million views. These popular social media icons have been pixelated, greenified and GIF-ed: 
 
 ### [64. From Wojcicki to Mohan: A Look at the Future of YouTube Under the New CEO](https://hackernoon.com/from-wojcicki-to-mohan-a-look-at-the-future-of-youtube-under-the-new-ceo)
 ![](https://cdn.hackernoon.com/images/Fs6yMNLemSQFopm3m8hIZVuGaqN2-is93n84.jpeg)
@@ -275,13 +277,13 @@ Control flow is much more than step over. You can "jump" to arbitrary code offse
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-z5414x1c.jpeg?alt=media&token=46b73544-9ad6-491e-8fb7-b24e0e0f18b0)
 Ex-Google Tech Lead talks you through the #1 engineering practice: Design Docs. 
 
-### [68. Overview of the Top Available Career Paths for Software Engineers With Advice on How to Navigate it ](https://hackernoon.com/overview-of-the-top-available-career-paths-for-software-engineers-with-advice-on-how-to-navigate-it-ne3t33dz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-32pr3t2x.jpeg?alt=media&token=d96f89da-56b1-4c75-908e-5f5c0a8c0a9d)
-Ex-Google Tech Lead walks you through the career paths for software engineers and computer science majors. 
-
-### [69. What's With All These FREE HD Blockbuster Movies on YouTube?](https://hackernoon.com/whats-with-all-these-free-hd-blockbuster-movies-on-youtube)
+### [68. What's With All These FREE HD Blockbuster Movies on YouTube?](https://hackernoon.com/whats-with-all-these-free-hd-blockbuster-movies-on-youtube)
 ![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-y0034c9.jpeg)
 There’s an invasion of YouTube channels with movies you couldn’t believe are available for free in top-resolution quality.
+
+### [69. Overview of the Top Available Career Paths for Software Engineers With Advice on How to Navigate it ](https://hackernoon.com/overview-of-the-top-available-career-paths-for-software-engineers-with-advice-on-how-to-navigate-it-ne3t33dz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-32pr3t2x.jpeg?alt=media&token=d96f89da-56b1-4c75-908e-5f5c0a8c0a9d)
+Ex-Google Tech Lead walks you through the career paths for software engineers and computer science majors. 
 
 ### [70. Video Marketing Strategy in 2021: Your Complete Guide](https://hackernoon.com/video-marketing-strategy-in-2021-your-complete-guide-d2383w4t)
 ![](https://cdn.hackernoon.com/images/dnIZCMYkBvTHW3k1e565v2Oy2h03-v63i31hm.jpeg)
@@ -327,21 +329,21 @@ I wanted to share my attempt to resurrect my old YouTube channel + some of the t
 ![](https://cdn.hackernoon.com/drafts/gaxw3y2o.png)
 Crypto community has started to fight against censorship with the #ForkGoogle campaign asking the US Senate to subpoena Google. Members of the crypto community have started pushing back against censorship by tech giant Google and its media subsidiary Youtube. The community claims that the tech giant is censoring Bitcoin and crypto-related news applications while it is also ‘de-platforming’ crypto content contributors on YouTube.
 
-### [81. Three Great Alternatives to YouTube for Businesses ](https://hackernoon.com/three-great-alternatives-to-youtube-for-businesses-in-2019-5i2833171)
-![](https://cdn.hackernoon.com/drafts/af29n31t3.png)
-Ever since Google's YouTube platform took off in the mid-aughts, it has been the go-to destination for web video of all kinds. Today, it hosts entertainment content, instructional content, and no shortage of cat videos. It's also the preferred video platform of digital marketers around the world.
-
-### [82. Live Augmented Streaming Is The Future Of Live Digital Video Consumption: Here's Why](https://hackernoon.com/live-augmented-streaming-is-the-future-of-live-digital-video-consumption-heres-why-bn103wtv)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMSbDiD4JIDffuY7BzofheRbN2033-eo193wts.png?alt=media&token=7b18dc3c-a67d-4ff2-a047-c5b6fb70c30f)
-Live Augmented Streaming and the Future of Interactive Consumption
-
-### [83. Odysee Goes Ad-Free: How This Bold Move Challenges the YouTube Empire](https://hackernoon.com/odysee-goes-ad-free-how-this-bold-move-challenges-the-youtube-empire)
+### [81. Odysee Goes Ad-Free: How This Bold Move Challenges the YouTube Empire](https://hackernoon.com/odysee-goes-ad-free-how-this-bold-move-challenges-the-youtube-empire)
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-4z03cbk.png)
 Odysee removes ads, focusing on creator monetization and decentralization over ad revenue, aiming to offer an incorruptible video-sharing experience.
 
-### [84. 100 Days of AI Day 5: Transcription and Extracting Insight from Podcasts with OpenAI](https://hackernoon.com/100-days-of-ai-day-5-transcription-and-extracting-insight-from-podcasts-with-openai)
+### [82. 100 Days of AI Day 5: Transcription and Extracting Insight from Podcasts with OpenAI](https://hackernoon.com/100-days-of-ai-day-5-transcription-and-extracting-insight-from-podcasts-with-openai)
 ![](https://cdn.hackernoon.com/images/Y14t1a3ZEoT7RE6300ayez7dRN83-kz83jgi.jpeg)
 Explore podcast insights with OpenAI: Transcribe YouTube conversations & extract wisdom, sparking innovative product ideas.
+
+### [83. Live Augmented Streaming Is The Future Of Live Digital Video Consumption: Here's Why](https://hackernoon.com/live-augmented-streaming-is-the-future-of-live-digital-video-consumption-heres-why-bn103wtv)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMSbDiD4JIDffuY7BzofheRbN2033-eo193wts.png?alt=media&token=7b18dc3c-a67d-4ff2-a047-c5b6fb70c30f)
+Live Augmented Streaming and the Future of Interactive Consumption
+
+### [84. Three Great Alternatives to YouTube for Businesses ](https://hackernoon.com/three-great-alternatives-to-youtube-for-businesses-in-2019-5i2833171)
+![](https://cdn.hackernoon.com/drafts/af29n31t3.png)
+Ever since Google's YouTube platform took off in the mid-aughts, it has been the go-to destination for web video of all kinds. Today, it hosts entertainment content, instructional content, and no shortage of cat videos. It's also the preferred video platform of digital marketers around the world.
 
 ### [85. We Created a Netflix Inspired Cover Generator as a NuxtJS Project for Our YT Channel](https://hackernoon.com/we-created-a-netflix-inspired-cover-generator-as-a-nuxtjs-project-for-our-yt-channel-c44s33bz)
 ![](https://cdn.hackernoon.com/images/dNECBEJ63YfVC5NiINOPCn7ggPu1-xx1133bz.jpeg)
@@ -395,18 +397,18 @@ For those lucky few who have not heard of recruiter spam, it is the torrential f
 ![](https://cdn.hackernoon.com/images/6x0Ln6XhbsfVAZCzyMpOSlyCXms2-fa2133dv.jpeg)
 AI is taking over the video editing world by transforming the editing process, allowing organizations to cut time, decrease costs, and increase output. 
 
-### [97. Top 7 Social Media Marketing Approaches: 2020 Edition](https://hackernoon.com/new-social-media-marketing-approaches-for-a-competitive-marketplace-2020-s22532iv)
+### [97. How to Stream Little League Games 2022 and Its Full Schedule](https://hackernoon.com/how-to-stream-little-league-games-2022-and-its-full-schedule)
+![](https://cdn.hackernoon.com/images/jLnWCt2fSdOR5QjDq9zr2y03Yhe2-4m93cf8.jpeg)
+For your convenience, we have listed the most popular broadcast networks as well as their schedules.
+
+### [98. Top 7 Social Media Marketing Approaches: 2020 Edition](https://hackernoon.com/new-social-media-marketing-approaches-for-a-competitive-marketplace-2020-s22532iv)
 ![](https://cdn.hackernoon.com/drafts/tcbs3zal.png)
 According to smart insights report, the number of social media users worldwide has increased to 3.484 billion. Undoubtedly social media has grown into a great marketing tool for both startups and enterprises. This is why it’s important for you to stay updated with these latest industry trends and keep tweaking your social media marketing strategy. So, here I have collected some insights on social media trends from market leaders, let’s dig in to see what works best for you and your team. 
 
-### [98. Jehovah’s Witness Body Uses DMCA to Subpoena YouTube For ‘Apostate’ Identity](https://hackernoon.com/jehovahs-witness-body-uses-dmca-to-subpoena-youtube-for-apostate-identity-1g1b3v7w)
+### [99. Jehovah’s Witness Body Uses DMCA to Subpoena YouTube For ‘Apostate’ Identity](https://hackernoon.com/jehovahs-witness-body-uses-dmca-to-subpoena-youtube-for-apostate-identity-1g1b3v7w)
 ![](https://images.unsplash.com/photo-1543185377-99cd16011803?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The Watchtower Bible and Tract Society, the supervising body and publisher for the Jehovah’s Witness religious group, is using the DMCA to obtain the identity of a self-proclaimed 'apostate'. In a filing at a New York 
 court, the group demanded that Google should hand over the identity of a person who allegedly uploaded videos of sermons to YouTube without permission.
-
-### [99. How to Stream Little League Games 2022 and Its Full Schedule](https://hackernoon.com/how-to-stream-little-league-games-2022-and-its-full-schedule)
-![](https://cdn.hackernoon.com/images/jLnWCt2fSdOR5QjDq9zr2y03Yhe2-4m93cf8.jpeg)
-For your convenience, we have listed the most popular broadcast networks as well as their schedules.
 
 ### [100. 5 Ways to Get More Likes on Your YouTube Videos](https://hackernoon.com/5-ways-to-get-more-likes-on-your-youtube-videos-w522357m)
 ![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-dzc035ac.jpeg)
@@ -428,31 +430,31 @@ William Kwan from Canada has been nominated for a 2020 Noonie in the Technology 
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-8j2331cx.jpeg)
 A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. 
 
-### [105. 5 Strategies To Grow Your YouTube Channel](https://hackernoon.com/5-strategies-to-grow-your-youtube-channel-092a36cx)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-mt2136dp.jpeg)
-YouTube is the most popular online video platform as of now. Over hundreds of hours of content is uploaded every minute on this platform, and on average, the viewership crosses billions of hours every day.
-
-### [106. If COVID-19 Isn't Stressing You Out, YouTube Could Be](https://hackernoon.com/if-covid-19-isnt-stressing-you-out-youtube-could-be-ih3x3uv4)
+### [105. If COVID-19 Isn't Stressing You Out, YouTube Could Be](https://hackernoon.com/if-covid-19-isnt-stressing-you-out-youtube-could-be-ih3x3uv4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FE94jeG4kuxf5Akvr1TBep1bZVSg1-eb4a3x08.jpeg?alt=media&token=e51e3e67-bbf5-4239-bb39-e7c7d12b9858)
 Are you worried about the health or livelihoods of you and your loved ones? It's important to remember that you're not alone. The CDC takes your stress seriously enough during the pandemic that they have published signs and guidelines for detecting and handling stress and anxiety.
 
 The CDC suggests to manage your own stress you consider taking the following steps:
 
+### [106. 5 Strategies To Grow Your YouTube Channel](https://hackernoon.com/5-strategies-to-grow-your-youtube-channel-092a36cx)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-mt2136dp.jpeg)
+YouTube is the most popular online video platform as of now. Over hundreds of hours of content is uploaded every minute on this platform, and on average, the viewership crosses billions of hours every day.
+
 ### [107. Software Engineering Is Not a Walk in the Park](https://hackernoon.com/software-engineering-is-not-a-walk-in-the-park-q23935lc)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-015b4xzn.jpeg?alt=media&token=191d0a4d-c264-42fb-8a57-325baffd6f4b)
 Ex-Google engineer, Tech Lead, explains what makes software engineering hard. 
 
-### [108. YouTube Online Meetup: Face Recognition using Python and OpenCV](https://hackernoon.com/youtube-online-meetup-face-recognition-using-python-and-opencv-du4g3ydf)
+### [108. A Kung Fu Controversy in Turkey Leverages Copyright Law to Hunt Down YouTube Critics](https://hackernoon.com/a-kung-fu-controversy-in-turkey-leverages-copyright-law-to-hunt-down-youtube-critics)
+![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-q6035yh.jpeg)
+The world governing body for kung fu is using copyright law to identify a user who allegedly made defamatory remarks about the organization on YouTube. 
+
+### [109. YouTube Online Meetup: Face Recognition using Python and OpenCV](https://hackernoon.com/youtube-online-meetup-face-recognition-using-python-and-opencv-du4g3ydf)
 ![](https://cdn.hackernoon.com/drafts/kx9d31s3.png)
 Meet the experts in the field, and get a personal career counselling session for your successful future career. 👩‍💻
 
-### [109. Why You Should Never Store Passwords in Web Browsers](https://hackernoon.com/why-you-should-never-store-passwords-in-web-browsers)
+### [110. Why You Should Never Store Passwords in Web Browsers](https://hackernoon.com/why-you-should-never-store-passwords-in-web-browsers)
 ![](https://cdn.hackernoon.com/images/BugaLC6k6haVzqRw5mELajiQSkZ2-62d3ttv.jpeg)
 
-
-### [110. A Kung Fu Controversy in Turkey Leverages Copyright Law to Hunt Down YouTube Critics](https://hackernoon.com/a-kung-fu-controversy-in-turkey-leverages-copyright-law-to-hunt-down-youtube-critics)
-![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-q6035yh.jpeg)
-The world governing body for kung fu is using copyright law to identify a user who allegedly made defamatory remarks about the organization on YouTube. 
 
 ### [111. A Timely Reminder Not To Take Ourselves Too Seriously](https://hackernoon.com/literally-just-abusing-my-editorial-authority-to-post-a-video-everyone-should-watch-again-u24l3u78)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-jcd3u3s.jpeg?alt=media&token=ac4df5c7-e4fe-4a48-8f7f-f91f79fca4f3)
@@ -462,21 +464,21 @@ But also, I genuinely believe—as we all reach peak isolation-fatigue, and move
 ![](https://cdn.hackernoon.com/images/RO6RV52fTMPrCEva4UGeJPCO5J52-va035pf.jpeg)
 Delve into how video consumption shapes our world today. Uncover the influence of digital media on culture, communication, and everyday life.
 
-### [113. 5 Tips to Get 245,466 Views on Your Tech Vlog](https://hackernoon.com/5-tips-to-get-245466-views-on-your-tech-vlog-zt1t3uot)
+### [113. Measurement And Attribution Really Matter in 2021: The Hottest CTV Ad Market Trend](https://hackernoon.com/measurement-and-attribution-really-matter-in-2021-the-hottest-ctv-ad-market-trend-kf1633cx)
+![](https://cdn.hackernoon.com/images/OCL36J4ps5MTuW7YoY17gO1cuaN2-ra5d33zv.jpeg)
+How CTV/OTT measurement influences the results and helps in optimization.
+
+### [114. 5 Tips to Get 245,466 Views on Your Tech Vlog](https://hackernoon.com/5-tips-to-get-245466-views-on-your-tech-vlog-zt1t3uot)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxPLbRAth3cWmbTqhoWicWWB8QsD2-hk83vjc.jpeg?alt=media&token=accc6d2d-c355-4852-9dd3-1fba6ca862d7)
 In this article, I'll talk about how I got over 245,000 views on my tech vlog and give you some tips on how to replicate my success.
 
-### [114. Getting A Job in Tech By Taking Code Bootcamps](https://hackernoon.com/getting-a-job-in-tech-by-taking-code-bootcamps-uv2t35p3)
+### [115. Getting A Job in Tech By Taking Code Bootcamps](https://hackernoon.com/getting-a-job-in-tech-by-taking-code-bootcamps-uv2t35p3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-zgu4xly.jpeg?alt=media&token=be4edc24-2c06-42cb-98d6-6f4b827b87c5)
 Ex-Google Tech Lead deep dives into coding bootcamps, their pros & cons, and everything you need to know about them.
 
-### [115. Everything We Learned From the Linus Tech Tips Hack](https://hackernoon.com/everything-we-learned-from-the-linus-tech-tips-hack)
+### [116. Everything We Learned From the Linus Tech Tips Hack](https://hackernoon.com/everything-we-learned-from-the-linus-tech-tips-hack)
 ![](https://cdn.hackernoon.com/images/JL5KWy0xnKda4tozyMUBkM0LAR92-9393lrm.jpeg)
 Early in the morning on March 23rd, Linus Media Group’s three biggest channels were hacked.
-
-### [116. Measurement And Attribution Really Matter in 2021: The Hottest CTV Ad Market Trend](https://hackernoon.com/measurement-and-attribution-really-matter-in-2021-the-hottest-ctv-ad-market-trend-kf1633cx)
-![](https://cdn.hackernoon.com/images/OCL36J4ps5MTuW7YoY17gO1cuaN2-ra5d33zv.jpeg)
-How CTV/OTT measurement influences the results and helps in optimization.
 
 ### [117. David Vs. Goliath: Startups and Big Tech, Which Trumps Which?](https://hackernoon.com/david-vs-goliath-startups-and-big-tech-which-trumps-which-i53o3312)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-d1264xwf.jpeg?alt=media&token=1a8e3f6c-8183-4e7e-9a34-96608ff3d6b5)
@@ -490,95 +492,95 @@ YouTube is the go-to option for streaming on-demand videos (VoD), but it's not t
 ![](https://cdn.hackernoon.com/images/2bL8Ve2IGiP0vEziDpWY80JjirD2-txe3kdz.jpeg)
 Whether you're just starting with video marketing or looking to take your efforts to the next level, these hacks will up your game.
 
-### [120. How To Create A Winning YouTube Marketing Strategy](https://hackernoon.com/how-to-create-a-winning-youtube-marketing-strategy-cq1a3tsg)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F83Q593Q01ZbEJfEJP1UgpqjbzdA3-g6c63cvb.jpeg?alt=media&token=a0581dda-85d5-4b2a-bf0c-3016fa410397)
-13 Powerful Tips To Improve Your YouTube Channel
-
-### [121. The Future of Content Creation: Sharing Profit With Your Audience](https://hackernoon.com/the-future-of-content-creation-sharing-profit-with-your-audience)
+### [120. The Future of Content Creation: Sharing Profit With Your Audience](https://hackernoon.com/the-future-of-content-creation-sharing-profit-with-your-audience)
 ![](https://cdn.hackernoon.com/images/gRf3kyxsCVanTBqB80IYHO8o3Xp1-4o53aet.jpeg)
 How can you earn money from viewing your favorite Youtuber's video in the future?
 
-### [122. Your Guide To Video Streaming Equipment for PC: 2021 Edition](https://hackernoon.com/your-guide-to-video-streaming-equipment-for-pc-2021-edition-wc2131kn)
-![](https://cdn.hackernoon.com/images/DVVIirdDNMZTSEjv6DWRa1kOUSq1-c61331vt.jpeg)
+### [121. How To Create A Winning YouTube Marketing Strategy](https://hackernoon.com/how-to-create-a-winning-youtube-marketing-strategy-cq1a3tsg)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F83Q593Q01ZbEJfEJP1UgpqjbzdA3-g6c63cvb.jpeg?alt=media&token=a0581dda-85d5-4b2a-bf0c-3016fa410397)
+13 Powerful Tips To Improve Your YouTube Channel
 
-
-### [123. Influencer Marketing can Generate up to 700% RoI But Comes with Risks!](https://hackernoon.com/influencer-marketing-can-generate-up-to-700percent-roi-but-comes-with-risks-jc9k36zs)
+### [122. Influencer Marketing can Generate up to 700% RoI But Comes with Risks!](https://hackernoon.com/influencer-marketing-can-generate-up-to-700percent-roi-but-comes-with-risks-jc9k36zs)
 ![](https://cdn.hackernoon.com/drafts/qvvm368a.png)
 A well-planned influencer campaign can yield much better returns than traditional banner ads. For a fintech project, collaborating with influencers can be a key to success – but only if you manage to negotiate all the stumbling blocks.
 
-### [124. I Fell Into a Machinima Rabbit Hole And I’m Glad I Did](https://hackernoon.com/i-fell-into-a-machinima-rabbit-hole-and-im-glad-i-did)
+### [123. I Fell Into a Machinima Rabbit Hole And I’m Glad I Did](https://hackernoon.com/i-fell-into-a-machinima-rabbit-hole-and-im-glad-i-did)
 ![](https://cdn.hackernoon.com/images/XzcsLA8SFNQ2pxroSCy5QdtTMjA2-0502wue.png)
 While searching for GTA machinimas, I discovered Alvin Soprano’s channel and was drawn into her dark, witty storytelling through Sims 4.
+
+### [124. Your Guide To Video Streaming Equipment for PC: 2021 Edition](https://hackernoon.com/your-guide-to-video-streaming-equipment-for-pc-2021-edition-wc2131kn)
+![](https://cdn.hackernoon.com/images/DVVIirdDNMZTSEjv6DWRa1kOUSq1-c61331vt.jpeg)
+
 
 ### [125. We Don't Quit Jobs, We Quit People: How To Avoid Quitting a Job](https://hackernoon.com/we-dont-quit-jobs-we-quit-people-how-to-avoid-quitting-a-job-m06335dp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-b61c4x0y.jpeg?alt=media&token=c60a2cda-df16-4fa5-9aee-b1f8887c3a5c)
 Ex-Google engineer and YouTuber, TechLead, explains how to have a better time at your job so that you can avoid quitting it.
 
-### [126. De-Google-ify Your Website [A How-To Guide]](https://hackernoon.com/de-google-ify-your-website-a-how-to-guide-km53324a)
-![](https://cdn.hackernoon.com/images/r61q516wq.jpg)
-Did you know that 94% of sites include at least one third-party resource while the median page requests content from 9 different domains? These third-party resources represent 35% of the total network activity and 7 of the 10 most used resources are owned by Google.
-
-### [127. The HackerNoon Newsletter: Expanding Smart Contracts With SQL (10/20/2024)](https://hackernoon.com/10-20-2024-newsletter)
+### [126. The HackerNoon Newsletter: Expanding Smart Contracts With SQL (10/20/2024)](https://hackernoon.com/10-20-2024-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_272_hff6mhgthhn6hy5pdlcrisp6.png)
 10/20/2024: Top 5 stories on the HackerNoon homepage!
+
+### [127. De-Google-ify Your Website [A How-To Guide]](https://hackernoon.com/de-google-ify-your-website-a-how-to-guide-km53324a)
+![](https://cdn.hackernoon.com/images/r61q516wq.jpg)
+Did you know that 94% of sites include at least one third-party resource while the median page requests content from 9 different domains? These third-party resources represent 35% of the total network activity and 7 of the 10 most used resources are owned by Google.
 
 ### [128. How To Find New Influencers via Niche Social Sites, Your Audience's Spouse, and Local Celebrities ](https://hackernoon.com/how-to-find-new-influencers-via-niche-social-sites-your-audiences-spouse-and-local-celebrities-cz3f31nu)
 ![](https://cdn.hackernoon.com/images/IiMzzGSlfuaJWS7iBBZnummIBeI3-1zn31kj.jpeg)
 The church of Santa Agueda in Sotillo de la Ribera, Spain, held an incredible secret. But what was more incredible was where the secret was hidden. As technicians were restoring a sculpture of Jesus from the church, they found a time capsule-like message in — get ready for this — Jesus’ butt!
 
-### [129. I watched a YouTube tutorial. Now what?](https://hackernoon.com/i-watched-a-youtube-tutorial-now-what-4tz376z)
+### [129. A Guide on How to Embed YouTube Videos Responsively](https://hackernoon.com/a-guide-on-how-to-embed-youtube-videos-responsively)
+![](https://cdn.hackernoon.com/images/NaU3BOE6YnOtNpCIV9kfvX1BqL03-i0b3nk4.jpeg)
+Embed YouTube videos into personal sites with a responsive container that plays nice in flex and grid layouts.
+
+### [130. I watched a YouTube tutorial. Now what?](https://hackernoon.com/i-watched-a-youtube-tutorial-now-what-4tz376z)
 ![](https://cdn.hackernoon.com/images/APqbMLbbeCffnZCMdjmsEG0FYan2-5oi3ok0.jpeg)
 The value of YouTube tutorials for gathering information cannot be overstated, but whether or not it translates to real learning is another story.
 
-
-### [130. Here Is What You Need To Know About VPN For YouTube](https://hackernoon.com/here-is-what-you-need-to-know-about-vpn-for-youtube-ys1x33kf)
-![](https://cdn.hackernoon.com/images/fk3qeJ4h0CMePZUTkb6y9FAvOkF2-hzy33b9.jpeg)
-YouTube is one of the most popular social platforms that almost every one of us uses for several purposes, including learning and entertainment. Considering the rapidly increasing cyber-crime rate, almost all of us are in danger of any kind of privacy breach. However, one of the best ways to secure your data is to use a Virtual Private Network for accessing YouTube. VPN is necessary as it provides you with some control over how you are being identified online.
 
 ### [131. YouTube Gold Button Awarded to World of Dypians Making Web3 Gaming History](https://hackernoon.com/youtube-gold-button-awarded-to-world-of-dypians-making-web3-gaming-history)
 ![](https://cdn.hackernoon.com/images/4FnNVQr5WaVz9Pb3rjDALHRb4XA2-ne03mnu.jpeg)
 Every era has defining moments that leave a mark on history. In the world of Web3, World of Dypians is quickly becoming one of those moments. 
 
-### [132. A Guide on How to Embed YouTube Videos Responsively](https://hackernoon.com/a-guide-on-how-to-embed-youtube-videos-responsively)
-![](https://cdn.hackernoon.com/images/NaU3BOE6YnOtNpCIV9kfvX1BqL03-i0b3nk4.jpeg)
-Embed YouTube videos into personal sites with a responsive container that plays nice in flex and grid layouts.
+### [132. Here Is What You Need To Know About VPN For YouTube](https://hackernoon.com/here-is-what-you-need-to-know-about-vpn-for-youtube-ys1x33kf)
+![](https://cdn.hackernoon.com/images/fk3qeJ4h0CMePZUTkb6y9FAvOkF2-hzy33b9.jpeg)
+YouTube is one of the most popular social platforms that almost every one of us uses for several purposes, including learning and entertainment. Considering the rapidly increasing cyber-crime rate, almost all of us are in danger of any kind of privacy breach. However, one of the best ways to secure your data is to use a Virtual Private Network for accessing YouTube. VPN is necessary as it provides you with some control over how you are being identified online.
 
-### [133. How to Set Perfect YouTube Video Dimensions](https://hackernoon.com/how-to-set-perfect-youtube-video-dimensions-6k14346k)
-![](https://cdn.hackernoon.com/images/nsYLIDGfDxZyrWgBGcaI57nAUBE2-xka433ix.jpeg)
-The article tells about video specifications that should be used for YouTube. And how to change the settings of your video if it does not meet YouTube guideline
-
-### [134. Demystifying AI with Louis Bouchard on The HackerNoon Podcast](https://hackernoon.com/demystifying-ai-with-louis-bouchard-on-the-hackernoon-podcast)
+### [133. Demystifying AI with Louis Bouchard on The HackerNoon Podcast](https://hackernoon.com/demystifying-ai-with-louis-bouchard-on-the-hackernoon-podcast)
 ![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-49139pg.jpeg)
 Amy chats with Louis about his content creation journey, what motivates him, and how he balances student life with YouTube video creation.
 
-### [135. How YouTubers Can Improve Their Marketing Strategies in 2021](https://hackernoon.com/how-youtubers-can-improve-their-marketing-strategies-in-2021-ib3c370w)
-![](https://cdn.hackernoon.com/images/c8wTwxgrToh00h79vJ1t3mAiw2M2-wjq29cd.jpeg)
-2020 with its lockdown affected both video creation and consumption, and that resulted in new rules in video marketing.  
+### [134. How to Set Perfect YouTube Video Dimensions](https://hackernoon.com/how-to-set-perfect-youtube-video-dimensions-6k14346k)
+![](https://cdn.hackernoon.com/images/nsYLIDGfDxZyrWgBGcaI57nAUBE2-xka433ix.jpeg)
+The article tells about video specifications that should be used for YouTube. And how to change the settings of your video if it does not meet YouTube guideline
+
+### [135. The Noonification: State of the Noonion: Green Clock Strikes Noon (10/17/2022)](https://hackernoon.com/10-17-2022-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+10/17/2022: Top 5 stories on the Hackernoon homepage!
 
 ### [136. 5 Gaming YouTubers That are Worth a Sub](https://hackernoon.com/5-gaming-youtubers-that-are-worth-a-sub-ef4g337u)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-6e3m3374.jpeg)
 There are far too many people sharing their opinions about gaming on the internet but not all of them are for us. These are some people who we enjoy the most. 
 
-### [137. The Noonification: State of the Noonion: Green Clock Strikes Noon (10/17/2022)](https://hackernoon.com/10-17-2022-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-10/17/2022: Top 5 stories on the Hackernoon homepage!
+### [137. How YouTubers Can Improve Their Marketing Strategies in 2021](https://hackernoon.com/how-youtubers-can-improve-their-marketing-strategies-in-2021-ib3c370w)
+![](https://cdn.hackernoon.com/images/c8wTwxgrToh00h79vJ1t3mAiw2M2-wjq29cd.jpeg)
+2020 with its lockdown affected both video creation and consumption, and that resulted in new rules in video marketing.  
 
 ### [138. Why You Should Use YouTube in Your Content Strategy](https://hackernoon.com/why-you-should-use-youtube-in-your-content-strategy-0f6m312f)
 ![](https://cdn.hackernoon.com/images/UAcBTbU2pce1pRfekmP8xPA691c2-2i1n31fx.jpeg)
 YouTube is the number-two search engine and the 
 largest video hosting platform on the Web.  What’s number one?  Google.
 
-### [139. Why Choosing The Right Video Platform Is Essential For Your Business](https://hackernoon.com/why-choosing-the-right-video-platform-is-essential-for-your-business-v11k33on)
-![](https://cdn.hackernoon.com/images/nyJ3v3rRv5NGM0ueVYbwsOuSUNr1-f3t33zo.jpeg)
-The amount of video being created today, as opposed to pre-pandemic, has skyrocketed. 
-
-### [140. Should You Watch Tutorials To Become a Programmer](https://hackernoon.com/should-you-watch-tutorials-to-become-a-programmer-jy743yvx)
+### [139. Should You Watch Tutorials To Become a Programmer](https://hackernoon.com/should-you-watch-tutorials-to-become-a-programmer-jy743yvx)
 ![](https://cdn.hackernoon.com/images/e2r3ytk.jpg)
 Tutorials are often the type of media that allows people to learn something the easiest way possible. Tutorials can be made about almost any topic because everything is easier to understand if there are both audio and video instead of just word that are wrote down.
 
-### [141. First steps toward interactive live streaming](https://hackernoon.com/first-steps-toward-interactive-live-streaming)
+### [140. First steps toward interactive live streaming](https://hackernoon.com/first-steps-toward-interactive-live-streaming)
 ![](https://cdn.hackernoon.com/images/7GGjdbIpEWhSoNNMb3i5kpsuefF3-ga036ze.jpeg)
 Live video is central to many aspects of modern life, from the way we socialize and keep ourselves entertained to how we work, learn, and more.
+
+### [141. Why Choosing The Right Video Platform Is Essential For Your Business](https://hackernoon.com/why-choosing-the-right-video-platform-is-essential-for-your-business-v11k33on)
+![](https://cdn.hackernoon.com/images/nyJ3v3rRv5NGM0ueVYbwsOuSUNr1-f3t33zo.jpeg)
+The amount of video being created today, as opposed to pre-pandemic, has skyrocketed. 
 
 ### [142. Technologies That has Changed Our Lives](https://hackernoon.com/top-technologies-that-has-changed-our-lives-8y2832gh)
 ![](https://cdn.hackernoon.com/drafts/zr9132a9.png)
@@ -596,21 +598,21 @@ TechDoctorUK is experiencing some interesting problems with YouTube's policies t
 ![](https://cdn.hackernoon.com/images/Q87WIz0cnrUeQU36QhscyPwtesU2-wf7359f.png)
 The infrastructure needed to stream videos for your website can be very expensive to build and maintain. These are three monetization strategies that get used.
 
-### [146. 6 Vlogging Tips For Business Success in 2020](https://hackernoon.com/6-vlogging-tips-for-business-success-in-2020-cw133w6u)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWQ8S7KvyS9VKNGnAfCGBKz6MA2t1-tr63ufe.jpeg?alt=media&token=ffb4b73a-6784-4715-9723-593bb9f06fb7)
-Vlogging has taken the world by storm in recent years. It's just a way of blogging, using videos instead of text to reach out, create an audience, and share information.
-
-### [147. 4 Powerful Ways to Maximize Your Video Marketing ROI](https://hackernoon.com/4-powerful-ways-to-maximize-your-video-marketing-roi)
+### [146. 4 Powerful Ways to Maximize Your Video Marketing ROI](https://hackernoon.com/4-powerful-ways-to-maximize-your-video-marketing-roi)
 ![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-ik036yk.jpeg)
 Are you thinking about adding videos to your marketing strategy? If so, you’re not alone. Business owners and marketers around the globe have quickly figured out that videos are one of the best ways to grow their brand. 
 
-### [148. Wanna Learn to add Product Video in Magento 2](https://hackernoon.com/wanna-learn-to-add-product-video-in-magento-2-e626t2gii)
-![](https://cdn.hackernoon.com/drafts/ed28g2gim.png)
-Step 1: Get your YouTube API Key.
+### [147. 6 Vlogging Tips For Business Success in 2020](https://hackernoon.com/6-vlogging-tips-for-business-success-in-2020-cw133w6u)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWQ8S7KvyS9VKNGnAfCGBKz6MA2t1-tr63ufe.jpeg?alt=media&token=ffb4b73a-6784-4715-9723-593bb9f06fb7)
+Vlogging has taken the world by storm in recent years. It's just a way of blogging, using videos instead of text to reach out, create an audience, and share information.
 
-### [149. The Concerning Results of Investigation Into Google’s YouTube Ad Placement Blocklist](https://hackernoon.com/the-concerning-results-of-investigation-into-googles-youtube-ad-placement-blocklist)
+### [148. The Concerning Results of Investigation Into Google’s YouTube Ad Placement Blocklist](https://hackernoon.com/the-concerning-results-of-investigation-into-googles-youtube-ad-placement-blocklist)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-39036hx.jpeg)
 An investigation by The Markup has shown that YouTube has been surpressing Black Lives Matter-related ads while doing nothing to prevent white supremacist ads.
+
+### [149. Wanna Learn to add Product Video in Magento 2](https://hackernoon.com/wanna-learn-to-add-product-video-in-magento-2-e626t2gii)
+![](https://cdn.hackernoon.com/drafts/ed28g2gim.png)
+Step 1: Get your YouTube API Key.
 
 ### [150. The HackerNoon Newsletter: Meet Bitrix24: Seamless Automation for Business Success (10/27/2024)](https://hackernoon.com/10-27-2024-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_193_l25juugkm0lqfrgpvklx4rzr.png)

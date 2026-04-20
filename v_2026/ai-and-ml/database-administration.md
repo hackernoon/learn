@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [database-administration](https://hackernoon.com/tagged/database-administration)
+### Let's learn about [Database Administration](https://hackernoon.com/tagged/database-administration) via these 65 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Database administration involves the management and maintenance of database systems to ensure data integrity, availability, security, and performance. Effective database administration is critical for the reliable operation of nearly all software applications and services, safeguarding valuable information.
+
 ### [1. How Cassandra Stores Data: An Exploration of Log Structured Merge Trees](https://hackernoon.com/how-cassandra-stores-data-an-exploration-of-log-structured-merge-trees)
 ![](https://cdn.hackernoon.com/images/a-tree-of-computers-clivse9v6000301s6djdy35do.png)
 LSM trees, memtables and SSTables working to provide database storage 
@@ -89,33 +93,33 @@ Have you ever wonder what happens inside of an Amazon warehouse? As a software e
 ![](https://cdn.hackernoon.com/images/QGf6M2o2tbYKmMjb4y90gyzVFUQ2-ol93jll.jpeg)
 No need to be an expert in thousands of combinations of SQL, data types, and databases to master SQL queries. A good SQL agnostic parser will take care of all. 
 
-### [23. CouchDB vs MariaDB- Which is better?](https://hackernoon.com/couchdb-vs-mariadb-which-is-better-z31435ab)
-![](https://cdn.hackernoon.com/images/AnJzZ0Qd07ZsLxCm8CeCmSoUmRO2-zb2533wg.jpeg)
-In simple terms, a database is a collection of information. It is organized to ensure easy accessibility, management, and updates.
-
-### [24. Oracle Autonomous Database Auto-Scaling: A DBA's Guide to Elastic Performance](https://hackernoon.com/oracle-autonomous-database-auto-scaling-a-dbas-guide-to-elastic-performance)
+### [23. Oracle Autonomous Database Auto-Scaling: A DBA's Guide to Elastic Performance](https://hackernoon.com/oracle-autonomous-database-auto-scaling-a-dbas-guide-to-elastic-performance)
 ![](https://cdn.hackernoon.com/images/lh3GIz5KYbVlETykJ0q4yOt71CA3-50039wi.jpeg)
 Learn Oracle Autonomous Database auto-scaling from a 15-year DBA veteran. Complete implementation guide with code example, testing scenarios, and best practices
+
+### [24. CouchDB vs MariaDB- Which is better?](https://hackernoon.com/couchdb-vs-mariadb-which-is-better-z31435ab)
+![](https://cdn.hackernoon.com/images/AnJzZ0Qd07ZsLxCm8CeCmSoUmRO2-zb2533wg.jpeg)
+In simple terms, a database is a collection of information. It is organized to ensure easy accessibility, management, and updates.
 
 ### [25. How to Achieve Schema and Validation in NoSQL Using Ottoman and Couchbase](https://hackernoon.com/how-to-achieve-schema-and-validation-in-nosql-using-ottoman-and-couchbase-8n1z35cq)
 ![](https://cdn.hackernoon.com/images/BgHW3YNONNccYOFle6n2wM6EQVz1-qth3331.jpeg)
 Ottoman is an Object Data Modeler (ODM) for Couchbase's Node.js SDK providing JSON schema and validation for a NoSQL database.
 
-### [26. Different Types of Normal Form](https://hackernoon.com/different-types-of-normal-form)
-![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-sy93qlm.jpeg)
-Understanding the different types of normal forms is essential for anyone involved in designing and optimizing relational databases.
-
-### [27. Should I Use An Embedded Database In My Mobile Application? (Podcast Transcript)](https://hackernoon.com/should-i-use-an-embedded-database-in-my-mobile-application-podcast-transcript-hz9353i)
+### [26. Should I Use An Embedded Database In My Mobile Application? (Podcast Transcript)](https://hackernoon.com/should-i-use-an-embedded-database-in-my-mobile-application-podcast-transcript-hz9353i)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-2e4v35ln.jpeg)
 Amy Tom chats to Jens Alfke about embedded databases in mobile applications and how they live within your application and sync to your server.
 
-### [28. Securely connect a web app to a remote Postgres database](https://hackernoon.com/connecting-a-traditional-web-app-to-a-postgres-database)
-![](https://cdn.hackernoon.com/images/46r7B36ZH3SbJMt0oevk5FjrjTH2-cc938te.jpeg)
-Learn how to connect a traditional web app to a Postgres database, in a way with requires minimal/no code changes and no firewall management
+### [27. Different Types of Normal Form](https://hackernoon.com/different-types-of-normal-form)
+![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-sy93qlm.jpeg)
+Understanding the different types of normal forms is essential for anyone involved in designing and optimizing relational databases.
 
-### [29. The Future of Database Administration Is Evolution, Not Extinction](https://hackernoon.com/the-future-of-database-administration-is-evolution-not-extinction)
+### [28. The Future of Database Administration Is Evolution, Not Extinction](https://hackernoon.com/the-future-of-database-administration-is-evolution-not-extinction)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bc02ubx.jpeg)
 Database administration is evolving rapidly as AI technologies mature. This article examines automation shines, human expertise
+
+### [29. Securely connect a web app to a remote Postgres database](https://hackernoon.com/connecting-a-traditional-web-app-to-a-postgres-database)
+![](https://cdn.hackernoon.com/images/46r7B36ZH3SbJMt0oevk5FjrjTH2-cc938te.jpeg)
+Learn how to connect a traditional web app to a Postgres database, in a way with requires minimal/no code changes and no firewall management
 
 ### [30. MongoDB vs. DocumentDB: Which Is A Better Choice for You?](https://hackernoon.com/mongodb-vs-documentdb-which-is-right-for-you-dcr368i)
 ![](https://cdn.hackernoon.com/drafts/0312q3668.png)
@@ -165,13 +169,13 @@ Learn how to use the go-redis client to get started with Apache Kvrocks, a distr
 ![](https://cdn.hackernoon.com/images/fJztkdSe55WvlvmCjf2DtcDO3Jv2-c10382c.png)
 Instantly generate secure, responsive PHP admin panels from your MySQL database. Save development time with automated CRUD operations
 
-### [42. The Hyper-V Admins' Guide to VMware Backup ](https://hackernoon.com/the-hyper-v-admins-guide-to-vmware-backup)
-![](https://cdn.hackernoon.com/images/YkCf930zFRTLwK7MSVzDq3HlEOj2-30a3qwv.jpeg)
-The Hyper-V and VMware virtual environments may seem similar, but upon closer inspection, a number of important differences between these two platforms.
-
-### [43. Automating MongoDB Sharded Cluster Deployment with Ansible](https://hackernoon.com/automating-mongodb-sharded-cluster-deployment-with-ansible)
+### [42. Automating MongoDB Sharded Cluster Deployment with Ansible](https://hackernoon.com/automating-mongodb-sharded-cluster-deployment-with-ansible)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-is83qo2.jpeg)
 Master the art of deploying MongoDB sharded clusters with Ansible—a detailed step-by-step guide for seamless automation.
+
+### [43. The Hyper-V Admins' Guide to VMware Backup ](https://hackernoon.com/the-hyper-v-admins-guide-to-vmware-backup)
+![](https://cdn.hackernoon.com/images/YkCf930zFRTLwK7MSVzDq3HlEOj2-30a3qwv.jpeg)
+The Hyper-V and VMware virtual environments may seem similar, but upon closer inspection, a number of important differences between these two platforms.
 
 ### [44. Unveiling a MySQL Bug: Inconsistent Foreign Key Constraints](https://hackernoon.com/unveiling-a-mysql-bug-inconsistent-foreign-key-constraints)
 ![](https://cdn.hackernoon.com/images/n3kl2GbTdNeZW4LWuQI0srwMqsG2-4y93pq8.jpeg)
@@ -185,33 +189,33 @@ In simple terms, normalization is a system that allows you to organize data in a
 ![](https://cdn.hackernoon.com/images/qNU3MxADnSTPsF6Qbz9XhOIIjHB2-4wa3srs.jpeg)
 This article looks at data uniqueness and discusses where it should be enforced. At application level or database level?
 
-### [47. Document Databases vs Relational Databases (Podcast Transcript)](https://hackernoon.com/document-databases-vs-relational-databases-podcast-transcript-kh3g35pr)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-tb3k35oc.jpeg)
-Amy Tom talks to Eric Bishard and Arun Vijayaraghavan about the differences between a Document Database and a Relational Database.
-
-### [48. MySQL Errors Messages And Common Problems](https://hackernoon.com/mysql-errors-messages-and-common-problems-lm2631yv)
+### [47. MySQL Errors Messages And Common Problems](https://hackernoon.com/mysql-errors-messages-and-common-problems-lm2631yv)
 ![](https://cdn.hackernoon.com/images/Grgs8fW6Q5WxmhfWelUFe1Tf4vo2-ya2j3eju.jpeg)
 Errors or mistakes are common in any aspects, especially in development. Using MySQL or any database can't guarantee you an error-free environment.
 
-### [49. Simplifying Object Creation and Cleanup With IF [NOT] EXISTS in Oracle Database 23ai](https://hackernoon.com/simplifying-object-creation-and-cleanup-with-if-not-exists-in-oracle-database-23ai)
-![](https://cdn.hackernoon.com/images/lh3GIz5KYbVlETykJ0q4yOt71CA3-su138jh.jpeg)
-Discover how Oracle Database 23ai simplifies DDL operations with the new IF [NOT] EXISTS clause. Learn to prevent errors during object creation and deletion.
+### [48. Document Databases vs Relational Databases (Podcast Transcript)](https://hackernoon.com/document-databases-vs-relational-databases-podcast-transcript-kh3g35pr)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-tb3k35oc.jpeg)
+Amy Tom talks to Eric Bishard and Arun Vijayaraghavan about the differences between a Document Database and a Relational Database.
 
-### [50. What is SQL? And Where is it Used?](https://hackernoon.com/what-is-sql-and-where-is-it-used-0c19355b)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-6n12337d.jpeg)
-What is SQL? Databases use it, query APIs use it, even energetic big data dashboards use it! Where did it come from and how are developers, DBAs, and app using.
-
-### [51. Want Everyone Out of the Database? Here’s How the Pros Do It](https://hackernoon.com/want-everyone-out-of-the-database-heres-how-the-pros-do-it)
-![](https://cdn.hackernoon.com/images/lh3GIz5KYbVlETykJ0q4yOt71CA3-oz439sx.png)
-This article explores how to switch from single-user to multi-user mode in SQL Server, PostgreSQL, and MySQL. It compares native features and workarounds for ma
-
-### [52. How to Identify Tables Not Used in the Last Month or Three Months in SQL Server](https://hackernoon.com/how-to-identify-tables-not-used-in-the-last-month-or-three-months-in-sql-server)
+### [49. How to Identify Tables Not Used in the Last Month or Three Months in SQL Server](https://hackernoon.com/how-to-identify-tables-not-used-in-the-last-month-or-three-months-in-sql-server)
 ![](https://cdn.hackernoon.com/images/lh3GIz5KYbVlETykJ0q4yOt71CA3-p1138ab.jpeg)
 Identify unused tables in SQL Server using index usage statistics, T-SQL scripts, and validation steps to optimize your database performance and storage. 
 
-### [53. Stop Building Fragile Audit Trails. SQL Server Ledger Is Here](https://hackernoon.com/stop-building-fragile-audit-trails-sql-server-ledger-is-here)
-![](https://cdn.hackernoon.com/images/lh3GIz5KYbVlETykJ0q4yOt71CA3-e813jct.png)
-SQL Server Ledger Tables provide built-in, tamper-evident data integrity. 
+### [50. Simplifying Object Creation and Cleanup With IF [NOT] EXISTS in Oracle Database 23ai](https://hackernoon.com/simplifying-object-creation-and-cleanup-with-if-not-exists-in-oracle-database-23ai)
+![](https://cdn.hackernoon.com/images/lh3GIz5KYbVlETykJ0q4yOt71CA3-su138jh.jpeg)
+Discover how Oracle Database 23ai simplifies DDL operations with the new IF [NOT] EXISTS clause. Learn to prevent errors during object creation and deletion.
+
+### [51. What is SQL? And Where is it Used?](https://hackernoon.com/what-is-sql-and-where-is-it-used-0c19355b)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-6n12337d.jpeg)
+What is SQL? Databases use it, query APIs use it, even energetic big data dashboards use it! Where did it come from and how are developers, DBAs, and app using.
+
+### [52. Want Everyone Out of the Database? Here’s How the Pros Do It](https://hackernoon.com/want-everyone-out-of-the-database-heres-how-the-pros-do-it)
+![](https://cdn.hackernoon.com/images/lh3GIz5KYbVlETykJ0q4yOt71CA3-oz439sx.png)
+This article explores how to switch from single-user to multi-user mode in SQL Server, PostgreSQL, and MySQL. It compares native features and workarounds for ma
+
+### [53. Why Normalizing Your Database Is Just Like Organizing Your Closet](https://hackernoon.com/why-normalizing-your-database-is-just-like-organizing-your-closet)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-d893pel.jpeg)
+Explore database normalization in an easy-to-understand way using pet store examples. Discover the different levels from 1NF to  3NF and the importance of data 
 
 ### [54. Ghost in Your Machine](https://hackernoon.com/ghost-in-your-machine)
 ![](https://cdn.hackernoon.com/images/dFW9aLMnLpgfjylixlaQdWQLp2C3-lw03ocd.jpeg)
@@ -221,29 +225,29 @@ What’s more frightening than Halloween? Data migration.
 ![](https://cdn.hackernoon.com/images/zB82PorOGKZZuPd54GyWPMXksjs2-11135t1.jpeg)
 PostgreSQL development has built-in support for the hash table and regular B-tree indexes. The best database management system has four index access methods.
 
-### [56. Why Normalizing Your Database Is Just Like Organizing Your Closet](https://hackernoon.com/why-normalizing-your-database-is-just-like-organizing-your-closet)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-d893pel.jpeg)
-Explore database normalization in an easy-to-understand way using pet store examples. Discover the different levels from 1NF to  3NF and the importance of data 
-
-### [57. Become a Better Database Administrator [A How-To Guide]](https://hackernoon.com/become-a-better-database-administrator-a-how-to-guide-bt9w328w)
+### [56. Become a Better Database Administrator [A How-To Guide]](https://hackernoon.com/become-a-better-database-administrator-a-how-to-guide-bt9w328w)
 ![](https://cdn.hackernoon.com/images/k26437dj.jpg)
 With cutting-edge technology emerging every year the future of database and cloud technologies look secure. Every organisation whether it big or small need database to store all the relatable data because data is more valuable than money itself.
+
+### [57. Stop Building Fragile Audit Trails. SQL Server Ledger Is Here](https://hackernoon.com/stop-building-fragile-audit-trails-sql-server-ledger-is-here)
+![](https://cdn.hackernoon.com/images/lh3GIz5KYbVlETykJ0q4yOt71CA3-e813jct.png)
+SQL Server Ledger Tables provide built-in, tamper-evident data integrity. 
 
 ### [58. Database Health Check: Understanding and Tuning Core Server Resources](https://hackernoon.com/database-health-check-understanding-and-tuning-core-server-resources)
 ![](https://cdn.hackernoon.com/images/lh3GIz5KYbVlETykJ0q4yOt71CA3-t703h5u.jpeg)
 Boost your database speed by understanding CPU, memory, storage, and latency. Practical tips with real-world examples for DBAs and engineers.
 
-### [59. How Database DevOps Makes Life Easy for DB Admins](https://hackernoon.com/how-database-devops-makes-life-easy-for-db-admins)
+### [59. Log Slow Postgres Query Plans Automatically: An Introduction to auto-explain](https://hackernoon.com/log-slow-postgres-query-plans-automatically-an-introduction-to-auto-explain)
+![](https://cdn.hackernoon.com/images/watt8zT07gNBxczXhRQaSEgQQ0e2-0h0367o.jpeg)
+Automatically log slow query plans with auto_explain and learn how to fix the problematic PostgreSQL queries that are slowing you down.
+
+### [60. How Database DevOps Makes Life Easy for DB Admins](https://hackernoon.com/how-database-devops-makes-life-easy-for-db-admins)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-90021e3.jpeg)
 Liquibase simplifies database management by automating changes, supporting rollbacks, and enhancing collaboration with CI/CD integration.
 
-### [60. GitOps, Kubernetes, and Databases (Podcast Transcript)](https://hackernoon.com/gitops-kubernetes-and-databases-podcast-transcript-m5k35ne)
+### [61. GitOps, Kubernetes, and Databases (Podcast Transcript)](https://hackernoon.com/gitops-kubernetes-and-databases-podcast-transcript-m5k35ne)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-nqa35xh.jpeg)
 Amy, Matt, and Curt talk about migrating from a SQL database to a NoSQL database, what happens when shit hits the fan, and assessing your database usage.
-
-### [61. Log Slow Postgres Query Plans Automatically: An Introduction to auto-explain](https://hackernoon.com/log-slow-postgres-query-plans-automatically-an-introduction-to-auto-explain)
-![](https://cdn.hackernoon.com/images/watt8zT07gNBxczXhRQaSEgQQ0e2-0h0367o.jpeg)
-Automatically log slow query plans with auto_explain and learn how to fix the problematic PostgreSQL queries that are slowing you down.
 
 ### [62. A Snap Is Worth A Thousand Words (Podcast Transcript)](https://hackernoon.com/a-snap-is-worth-a-thousand-words-podcast-transcript-jl1b35k2)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-kse353w.jpeg)

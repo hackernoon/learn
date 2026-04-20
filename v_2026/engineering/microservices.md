@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [microservices](https://hackernoon.com/tagged/microservices)
+### Let's learn about [Microservices](https://hackernoon.com/tagged/microservices) via these 396 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Loosely coupled and independently deployable.
 
 ### [1. Best Practices for Event-Driven Microservice Architecture](https://hackernoon.com/best-practices-for-event-driven-microservice-architecture-e034p21lk)
@@ -239,13 +241,13 @@ Today, microservices architecture is a common approach to building a system. In 
 ![](https://cdn.hackernoon.com/images/computerised-backbone-of-a-human-lvz9bnra4rn0artjk55ng7er.png)
 Understand how reverse proxies powers almost every service that we use today from monolith to microservices. It is a vital piece of 21st century infrastructure!
 
-### [60. "Unless you’ve been developing software in a cave"](https://hackernoon.com/unless-youve-been-developing-software-in-a-cave)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-xo13ozy.jpeg)
-In this article, we’ll look at some microservices best practices and suggest a few proven ways to help with your microservices architecture. 
-
-### [61. Data Access for Microservices](https://hackernoon.com/data-access-for-microservices-ux1j3upa)
+### [60. Data Access for Microservices](https://hackernoon.com/data-access-for-microservices-ux1j3upa)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fl5zOLSJSCXbNFE632NiK1dIRRaI3-qt4f3uqn.jpeg?alt=media&token=8c33132f-9484-4f4d-8ce6-ec13a00e1bee)
 If you want to access data in a distributed environment such as in a microservice architecture, then data services are the way to go. The idea is to create a data abstraction layer (DAL) that the rest of the system’s applications and services can share. Thus, a data service gives you a generalized interface to the data you’re exposing and provides access to it in a standard manner. This would be in a well-understood protocol and a known data format. For example, a popular approach is to use JSON via HTTP/S.
+
+### [61. "Unless you’ve been developing software in a cave"](https://hackernoon.com/unless-youve-been-developing-software-in-a-cave)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-xo13ozy.jpeg)
+In this article, we’ll look at some microservices best practices and suggest a few proven ways to help with your microservices architecture. 
 
 ### [62. Microservice.add(observability) != Microservice.add(monitoring)](https://hackernoon.com/microserviceaddobservability-microserviceaddmonitoring-40m3yk5)
 ![](https://cdn.hackernoon.com/images/e139v3ylw.jpg)
@@ -275,13 +277,13 @@ Microservices have helped the backend world to divide backends into smaller, mor
 ![](https://cdn.hackernoon.com/images/nCYEORfswGh3ORlenA8VHjBp5PM2-r083zg0.jpeg)
 Five books you must read if you are going serverless including books by Eric Evans, Richard Rodger, Chris Richardson, and more.
 
-### [69. Open Source Blockchain Microservices To Help You Build Your Own](https://hackernoon.com/announcement-open-source-blockchain-microservices-to-help-you-build-your-own-blockchain-sek33yg)
-![](https://cdn.hackernoon.com/images/5Bjz78MORcPQx3lUTVedEHus0mG2-8b4b35z6.jpeg)
-The CEO of Koinos Group explains how Koinos is designed to support an experimental and iterative product development process like the Lean Startup
-
-### [70. Round Robin in Distributed Systems](https://hackernoon.com/round-robin-in-distributed-systems)
+### [69. Round Robin in Distributed Systems](https://hackernoon.com/round-robin-in-distributed-systems)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-5593uqf.jpeg)
 An in-detail tutorial on how to use round robin for load balancing in distributed systems
+
+### [70. Open Source Blockchain Microservices To Help You Build Your Own](https://hackernoon.com/announcement-open-source-blockchain-microservices-to-help-you-build-your-own-blockchain-sek33yg)
+![](https://cdn.hackernoon.com/images/5Bjz78MORcPQx3lUTVedEHus0mG2-8b4b35z6.jpeg)
+The CEO of Koinos Group explains how Koinos is designed to support an experimental and iterative product development process like the Lean Startup
 
 ### [71. Serverless Vs Microservices Architecture - A Deep Dive](https://hackernoon.com/serverless-vs-microservices-architecture-a-deep-dive-lw2u3w0b)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-qud28yb.jpeg?alt=media&token=84629b9b-c691-4154-a4d2-15fde67798b2)
@@ -311,21 +313,21 @@ Many developers and DevOps engineers have been deploying Kong Gateway in front o
 ![](https://cdn.hackernoon.com/drafts/93n33wkp.png)
 Containerization has come a long way and containers have completely revolutionized the way companies build, test, package and deliver software today. Containers are good for packaging any software. Big or small. Microservices are great candidates to be packaged and delivered with container images. With Microservices architecture, the large monolith is decoupled into several mini services that work independently. 
 
-### [78. Microsoft's DAPR (Distributed Application Runtime): An Overview](https://hackernoon.com/microsofts-dapr-distributed-application-runtime-an-overview-nd2m34gj)
+### [78. Protobuf Under the Hood: How Serialization and Deserialization Work in Go ](https://hackernoon.com/protobuf-under-the-hood-how-serialization-and-deserialization-work-in-go)
+![](https://cdn.hackernoon.com/images/protobuf-software-engineer-young-woman-cosy-workplace-tqlb42ok4ea910m8144swnc0.png)
+Protocol Buffers (Protobuf) is a fast, efficient, and language-agnostic data serialization mechanism.
+
+### [79. Microsoft's DAPR (Distributed Application Runtime): An Overview](https://hackernoon.com/microsofts-dapr-distributed-application-runtime-an-overview-nd2m34gj)
 ![](https://cdn.hackernoon.com/images/j8YWF6KZpeWo8OWmeABH7hOU4aO2-j12k31bu.jpeg)
 Discover the powerful capabilities of Dapr by implementing a sample application with microservices leveraging the actor model to foster its strengths.
 
-### [79. Access API Running on Localhost From The Internet without Tunneling](https://hackernoon.com/access-api-running-on-localhost-from-the-internet-without-tunneling-jz1m3151)
+### [80. Access API Running on Localhost From The Internet without Tunneling](https://hackernoon.com/access-api-running-on-localhost-from-the-internet-without-tunneling-jz1m3151)
 ![](https://cdn.hackernoon.com/images/BQvraEqwRsZghj0Ro7O1ggsb25H2-lt253exp.jpeg)
 Tunnels allow a dev to easily bypass NAT and firewall restrictions... but what is the tradeoff? Anything behind the firewall is now exposed to the internet
 
-### [80. Getting to Know gRPC](https://hackernoon.com/getting-to-know-grpc)
+### [81. Getting to Know gRPC](https://hackernoon.com/getting-to-know-grpc)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-gz93p6l.png)
 Need a quick beginner's guide to gRPC? What is it? How do you set up a client and server, and make an RPC call? All your answers are here!
-
-### [81. Protobuf Under the Hood: How Serialization and Deserialization Work in Go ](https://hackernoon.com/protobuf-under-the-hood-how-serialization-and-deserialization-work-in-go)
-![](https://cdn.hackernoon.com/images/protobuf-software-engineer-young-woman-cosy-workplace-tqlb42ok4ea910m8144swnc0.png)
-Protocol Buffers (Protobuf) is a fast, efficient, and language-agnostic data serialization mechanism.
 
 ### [82. Event-Driven Architecture: Automatic DTO Generation From Event Documentation](https://hackernoon.com/event-driven-architecture-automatic-dto-generation-from-event-documentation)
 ![](https://cdn.hackernoon.com/images/L9ZlYsuXuFSbcM7F4sVNIlc7eAt2-7t93ppf.jpeg)
@@ -423,21 +425,21 @@ In this article, we’ll take a look at building a secured REST API by integrati
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-3k83xuv.jpeg)
 Introduction
 
-### [106. Monitor Your Kubernetes Cluster Events With EventRouter, Golang, and Kafka](https://hackernoon.com/monitor-your-kubernetes-cluster-events-with-eventrouter-golang-and-kafka-wh2a35l0)
-![](https://cdn.hackernoon.com/images/QYCUqng9AEa0N4lY3S8A0lqy52g2-qev33qc.jpeg)
-In this article, I will show you how to build such a pipeline for processing and storing Kubernetes cluster events.
-
-### [107. A Guide to Building Observability for Microservices](https://hackernoon.com/a-guide-to-building-observability-for-microservices)
+### [106. A Guide to Building Observability for Microservices](https://hackernoon.com/a-guide-to-building-observability-for-microservices)
 ![](https://cdn.hackernoon.com/images/LDioVzaiK9P4OJrRVWK1m33EOh83-uk93xti.jpeg)
 Enhancing the efficiency and reliability of microservices by setting up observability using Prometheus, Grafana.
 
-### [108. Microservices Wars: Spring Boot Vs. Ballerina](https://hackernoon.com/microservices-wars-spring-boot-vs-ballerina-mx5g37ww)
-![](images/rs4g3y4g.jpg)
-Microservices is an architectural style used for creating applications made of individual fine-grained services, which encourages functional decoupling, re-usability, and scalability. This is becoming increasingly popular compared to the monolithic applications we generally build. Monoliths generally lack the flexibility given by microservices in separating out functional components to have their own independent development teams, lifecycles, and deployment.
+### [107. Monitor Your Kubernetes Cluster Events With EventRouter, Golang, and Kafka](https://hackernoon.com/monitor-your-kubernetes-cluster-events-with-eventrouter-golang-and-kafka-wh2a35l0)
+![](https://cdn.hackernoon.com/images/QYCUqng9AEa0N4lY3S8A0lqy52g2-qev33qc.jpeg)
+In this article, I will show you how to build such a pipeline for processing and storing Kubernetes cluster events.
 
-### [109. gRPC-Secret: Mastering Deadlines, Timeouts, and Custom Contexts](https://hackernoon.com/grpc-secret-mastering-deadlines-timeouts-and-custom-contexts)
+### [108. gRPC-Secret: Mastering Deadlines, Timeouts, and Custom Contexts](https://hackernoon.com/grpc-secret-mastering-deadlines-timeouts-and-custom-contexts)
 ![](https://cdn.hackernoon.com/images/secret-digital-h428s1q1k8ma1r99e9nxzvzg.png)
 gRPC is an open-source remote procedure call (RPC) framework. It enables efficient and scalable communication between services.
+
+### [109. Microservices Wars: Spring Boot Vs. Ballerina](https://hackernoon.com/microservices-wars-spring-boot-vs-ballerina-mx5g37ww)
+![](images/rs4g3y4g.jpg)
+Microservices is an architectural style used for creating applications made of individual fine-grained services, which encourages functional decoupling, re-usability, and scalability. This is becoming increasingly popular compared to the monolithic applications we generally build. Monoliths generally lack the flexibility given by microservices in separating out functional components to have their own independent development teams, lifecycles, and deployment.
 
 ### [110. The Adoption of Microservices Architecture for Cloud-Native Applications](https://hackernoon.com/the-adoption-of-microservices-architecture-for-cloud-native-applications)
 ![](https://cdn.hackernoon.com/images/a-small-city-under-a-microscope-y9flopk87ay6s9n50g2d868t.png)
@@ -512,21 +514,21 @@ Discover effective strategies and best practices for maintaining backward and fo
 ![](https://cdn.hackernoon.com/images/QYtqiiANcQbDvHpMhaxraQGracr1-o0c3rg3.png)
 In this comprehensive guide, we'll look at MACH architecture, how it works, and what benefits it can offer your business in 2023.
 
-### [128. This Web IDE Runs Your Code in the Cloud—Without Melting Your Laptop](https://hackernoon.com/this-web-ide-runs-your-code-in-the-cloudwithout-melting-your-laptop)
-![](https://cdn.hackernoon.com/images/sAd13E0eNAPXnl8EkBslX1JTeSB2-i223dee.png)
-The project is built on the principle of microservice architecture, which allows you to divide functionality into independent services. 
-
-### [129. Purpose-Driven Microservice Design](https://hackernoon.com/purpose-driven-microservice-design)
+### [128. Purpose-Driven Microservice Design](https://hackernoon.com/purpose-driven-microservice-design)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-aq93pp2.jpeg)
 Creating purpose-driven microservices should always be a goal. Find out how Render Blueprints can offer a reproducible microservices strategy.
 
-### [130. Rethinking Programming: The Network in the Language](https://hackernoon.com/rethinking-programming-the-network-in-the-language-kn3z3y55)
-![](https://cdn.hackernoon.com/drafts/b325c3y6l.png)
-With the emergence of microservices architecture, applications are developed by using a large number of smaller programs. These programs are built individually and deployed into a platform where they can scale independently. These programs communicate with each other over the network through simple Application Programming Interfaces (APIs). With the disaggregated and network distributed nature of these applications, developers have to deal with the Fallacies of Distributed Computing as part of their application logic.
-
-### [131. Microservices Architecture, The Decision Maker: Book Review ](https://hackernoon.com/microservices-architecture-the-decision-maker-book-review)
+### [129. Microservices Architecture, The Decision Maker: Book Review ](https://hackernoon.com/microservices-architecture-the-decision-maker-book-review)
 ![](https://cdn.hackernoon.com/images/kntoEa6cB8QLavecNsk8B01UbLa2-x393oot.jpeg)
 This book assists Architects and Engineers involved in the development of software in assessing whether a Microservice Architecture meets business needs.
+
+### [130. This Web IDE Runs Your Code in the Cloud—Without Melting Your Laptop](https://hackernoon.com/this-web-ide-runs-your-code-in-the-cloudwithout-melting-your-laptop)
+![](https://cdn.hackernoon.com/images/sAd13E0eNAPXnl8EkBslX1JTeSB2-i223dee.png)
+The project is built on the principle of microservice architecture, which allows you to divide functionality into independent services. 
+
+### [131. Rethinking Programming: The Network in the Language](https://hackernoon.com/rethinking-programming-the-network-in-the-language-kn3z3y55)
+![](https://cdn.hackernoon.com/drafts/b325c3y6l.png)
+With the emergence of microservices architecture, applications are developed by using a large number of smaller programs. These programs are built individually and deployed into a platform where they can scale independently. These programs communicate with each other over the network through simple Application Programming Interfaces (APIs). With the disaggregated and network distributed nature of these applications, developers have to deal with the Fallacies of Distributed Computing as part of their application logic.
 
 ### [132. Here’s How You Can  and Why You Should Go Beyond HTTP 1.1](https://hackernoon.com/heres-how-you-can-go-beyond-http-11-p23g53z2e)
 ![](https://cdn.hackernoon.com/drafts/xx3f63zcp.png)
@@ -581,21 +583,21 @@ considered regarding communication before breaking down into services.
 ![](https://cdn.hackernoon.com/drafts/1g3pd329o.png)
 I've struggled and spent a lot of hours writing manual Python scripts to be able to test a product involving many microservices. All of them following the REST conventions. Overwhelmed with too many scripts, each one test different endpoints, how they respond also what they respond, I've decided to create a Python package to easily do this, without needing to create a manual Python script, import libraries to send an HTTP Request, copy and paste code from other scripts to test fast the new endpoints, etc.
 
-### [145. How We Scaled To Microservices Architecture With A Data Flow-driven Approach](https://hackernoon.com/how-we-scaled-to-microservices-architecture-with-a-data-flow-driven-approach-2c5c3ygq)
+### [145. How to Build a Microservices Architecture with Node.js and RabbitMQ ](https://hackernoon.com/how-to-build-a-microservices-architecture-with-nodejs-and-rabbitmq)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-6q0361n.png)
+In this article, we will be exploring the concept of Microservice Architecture, and implementing basic microservices-driven software using Node.js and RabbitMQ.
+
+### [146. How We Scaled To Microservices Architecture With A Data Flow-driven Approach](https://hackernoon.com/how-we-scaled-to-microservices-architecture-with-a-data-flow-driven-approach-2c5c3ygq)
 ![](https://cdn.hackernoon.com/images/93843y5v.jpg)
 Microservices architecture: It was proposed to develop a data flow-driven mechanism for microservices — oriented decomposition. Data work separately with the site
 
-### [146. Five Guidelines for Robust Logging](https://hackernoon.com/five-guidelines-for-robust-logging)
+### [147. Five Guidelines for Robust Logging](https://hackernoon.com/five-guidelines-for-robust-logging)
 ![](https://cdn.hackernoon.com/images/Ost0Yu7R8YRpFW6b3mNIw0Oq2LX2-6g035pg.jpeg)
 This article describes best practices for standardized logging from the point of view of performance, debuggability, and security. 
 
-### [147. Understanding Service Discovery in Distributed Systems](https://hackernoon.com/understanding-service-discovery-in-distributed-systems)
+### [148. Understanding Service Discovery in Distributed Systems](https://hackernoon.com/understanding-service-discovery-in-distributed-systems)
 ![](https://cdn.hackernoon.com/images/pOpsVzOyO7aNXcPV5o7YwaaAcN43-08c2l2d.jpeg)
 An in-detail tutorial on how to create a Service Discovery in Python using Flask.
-
-### [148. How to Build a Microservices Architecture with Node.js and RabbitMQ ](https://hackernoon.com/how-to-build-a-microservices-architecture-with-nodejs-and-rabbitmq)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-6q0361n.png)
-In this article, we will be exploring the concept of Microservice Architecture, and implementing basic microservices-driven software using Node.js and RabbitMQ.
 
 ### [149. Microservices & Microservice Architectures: A Deep Dive into The Fundamentals](https://hackernoon.com/microservices-and-microservice-architectures-a-deep-dive-into-the-fundamentals-pl36347t)
 ![](https://cdn.hackernoon.com/images/5Bjz78MORcPQx3lUTVedEHus0mG2-y33g3zhr.jpeg)
@@ -609,17 +611,17 @@ Serverless infrastructure is changing the way we architect applications and it�
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-4q92kkk.jpeg)
 This introduction to microservices teaches the core concepts with plain English explanations and examples. 
 
-### [152. Microservice Observability Patterns [Part 1]](https://hackernoon.com/microservice-observability-patterns-part-1-jk1e3wm8)
+### [152. 5 Ways that Microservices can be Deployed Effectively](https://hackernoon.com/5-ways-that-microservices-can-be-deployed-effectively)
+![](https://cdn.hackernoon.com/images/deUGkuJB9Ggm3EcvgqnpHgqWZkX2-8f92hw4.jpeg)
+The perfect place to host a microservice application is largely determined by its size and scaling requirements. So, let’s go over the 5 main ways we can deploy
+
+### [153. Microservice Observability Patterns [Part 1]](https://hackernoon.com/microservice-observability-patterns-part-1-jk1e3wm8)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fhx05QcKPDlNzd1R3hHLq6ZgPgva2-43i3qdo.jpeg?alt=media&token=f9ace5a1-4468-4d72-80bc-21867e1b358b)
 Logging is one of the most important parts of software systems. Whether you have just started working on a new piece of software, or your system is running in a large scale production environment, you’ll always find yourself seeking help from log files. Logs are the first thing people look for when something goes wrong, or something doesn’t work as expected. 
 
-### [153. Observability for Monitoring Microservices - Top 5 Ways!](https://hackernoon.com/observability-for-monitoring-microservices-top-5-ways)
+### [154. Observability for Monitoring Microservices - Top 5 Ways!](https://hackernoon.com/observability-for-monitoring-microservices-top-5-ways)
 ![](https://cdn.hackernoon.com/images/0DxhR2wKkBWFVTrMKykkOMUzoev2-0zy3k2i.jpeg)
 Here are some important tools and approaches to managing and monitoring Microservices. Take a look!
-
-### [154. 5 Ways that Microservices can be Deployed Effectively](https://hackernoon.com/5-ways-that-microservices-can-be-deployed-effectively)
-![](https://cdn.hackernoon.com/images/deUGkuJB9Ggm3EcvgqnpHgqWZkX2-8f92hw4.jpeg)
-The perfect place to host a microservice application is largely determined by its size and scaling requirements. So, let’s go over the 5 main ways we can deploy
 
 ### [155. Managing Microservices with Service Mesh: A Control Plane for your Application](https://hackernoon.com/managing-microservices-with-service-mesh-a-control-plane-for-your-application-ve1k3u1c)
 ![](https://images.unsplash.com/uploads/1413222992504f1b734a6/1928e537?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -634,17 +636,17 @@ Microservices can be made using lightweight PHP frameworks like Slim or Lumen, p
 Check out the latest platforms and tools to deploy and manage Microservices here! Take a look!
 
 
-### [158. When Should You Move to Microservices?](https://hackernoon.com/when-should-you-move-to-microservices)
+### [158. Load Balancers - Whats, Hows, and Whens](https://hackernoon.com/load-balancer-and-when-to-use-it-5n1032b4)
+![](https://cdn.hackernoon.com/images/6n1e32xi.gif)
+TL;DR
+
+### [159. When Should You Move to Microservices?](https://hackernoon.com/when-should-you-move-to-microservices)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-yg92hox.jpeg)
 Avoiding the small monolith antipattern. At what scale do Microservices make sense? Avoid a solution worse than the problem and understand the tradeoffs. 
 
-### [159. Choosing the Right Microservices Framework ](https://hackernoon.com/choosing-the-right-microservices-framework-gp1235dw)
+### [160. Choosing the Right Microservices Framework ](https://hackernoon.com/choosing-the-right-microservices-framework-gp1235dw)
 ![](https://cdn.hackernoon.com/images/gHvMTDyns0g53SYh2RCVA1FKqjv1-f5g2931.jpeg)
 Microservices architecture is a methodology that allows you to split a monolithic single application into small applications and services.
-
-### [160. Load Balancers - Whats, Hows, and Whens](https://hackernoon.com/load-balancer-and-when-to-use-it-5n1032b4)
-![](https://cdn.hackernoon.com/images/6n1e32xi.gif)
-TL;DR
 
 ### [161. An Introduction to API Gateways](https://hackernoon.com/an-introduction-to-api-gateways)
 ![](https://cdn.hackernoon.com/images/Za3QtTvBFDSxRQKeQkur9mQWXt83-6903gfg.jpeg)
@@ -654,914 +656,946 @@ Understanding what API Gateways are, how they differ from a reverse proxy & load
 ![](https://cdn.hackernoon.com/images/B8gaCVeovwMDq4K1OV8PIR0H1B53-071r3wwp.jpeg)
 A great deal has already been written about readiness and liveness checks and I don’t intend to cover that ground again. Rather I want to cover, very specifically, their use in a large microservices architecture.
 
-### [163. Pool Architecture for Saas](https://hackernoon.com/pool-architecture-for-saas-qil3ur3)
+### [163. Micronaut vs Quarkus vs Spring: The 2026 Java Framework Shootout](https://hackernoon.com/micronaut-vs-quarkus-vs-spring-the-2026-java-framework-shootout)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-m8823fd.jpeg)
+Spring Boot, Quarkus, or Micronaut? A practical 2026 comparison of startup speed, memory, DI, and developer experience for Java microservices.
+
+### [164. Pool Architecture for Saas](https://hackernoon.com/pool-architecture-for-saas-qil3ur3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5pQpZNSj2mO0Oi9X4Lrj7YIqfHE2-ap2s285o.jpeg?alt=media&token=89deeb94-1a93-4ed8-b818-f974228f3045)
 Most of the startups facing scaling problems move to microservices. Inspired by cell-based architecture, it split services per function and scale only specific features. It works especially well for B2C where traffic is uniformly spread across users. However, B2B can face a different type of scaling issue where only one user is scaling. A pool architecture is a simpler yet powerful solution, used both by GAFA and fast-growing startups.
 
-### [164. Hacking Your Way Through Microservice Architecture](https://hackernoon.com/hacking-your-way-through-microservice-architecture-8o1c34pa)
+### [165. Hacking Your Way Through Microservice Architecture](https://hackernoon.com/hacking-your-way-through-microservice-architecture-8o1c34pa)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-xj3d3t33.jpeg?alt=media&token=08f801a6-b454-4587-a638-a217b5cddc2c)
 With an emerging pattern of organizations embracing the DevOps framework, adopting Microservice Architecture is steadily gaining the respect it deserves. 
 
-### [165. Migrate Functions First : A Best Practice For Serverless Enterprise Adoption](https://hackernoon.com/refactor-functions-first-then-applications-n49b3zpl)
+### [166. Migrate Functions First : A Best Practice For Serverless Enterprise Adoption](https://hackernoon.com/refactor-functions-first-then-applications-n49b3zpl)
 ![](https://cdn.hackernoon.com/images/k6reu3zx7.jpg)
 This article for is for those of us tasked with refactoring/rewriting an existing application. A significant application. Not only in size, but importance to the organization. The type of apps:
-
-### [166. Beyond Microservices: Why Platform Engineering is the Key to Future-Proofing Software Architectures](https://hackernoon.com/beyond-microservices-why-platform-engineering-is-the-key-to-future-proofing-software-architectures)
-![](https://cdn.hackernoon.com/images/WtWxvvG7CQcT3EqVUXpTUVpIt9a2-d3033xl.png)
-Platform engineering offers scalable, efficient, and integrated solutions to overcome microservices' operational complexities.
 
 ### [167. Diary of a Wimpy DevOps Engineer: Exploring Monoliths](https://hackernoon.com/diary-of-a-wimpy-devops-engineer-exploring-monoliths)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-xw93ooc.jpeg)
 Learn how we improved our ETL processing performance from 550ms to 94ms by switching to micro-service based architecture and SingleStore
 
-### [168. Things to Keep in Mind to Successfully Deploy Kubernetes in Production ](https://hackernoon.com/things-to-keep-in-mind-to-successfully-deploy-kubernetes-in-production)
+### [168. Beyond Microservices: Why Platform Engineering is the Key to Future-Proofing Software Architectures](https://hackernoon.com/beyond-microservices-why-platform-engineering-is-the-key-to-future-proofing-software-architectures)
+![](https://cdn.hackernoon.com/images/WtWxvvG7CQcT3EqVUXpTUVpIt9a2-d3033xl.png)
+Platform engineering offers scalable, efficient, and integrated solutions to overcome microservices' operational complexities.
+
+### [169. Things to Keep in Mind to Successfully Deploy Kubernetes in Production ](https://hackernoon.com/things-to-keep-in-mind-to-successfully-deploy-kubernetes-in-production)
 ![](https://cdn.hackernoon.com/images/YqzNjVX0nYVlCUWqv4gnCWnKpey1-6t93op0.jpeg)
 This blog covers additional factors you should take care of to successfully deploy Kubernetes cluster in production alongwith choosing a managed cloud. Read on.
 
-### [169. The Evolution of DevOps: Lessons for Organizations of all Sizes](https://hackernoon.com/the-evolution-of-devops-lessons-for-organizations-of-all-sizes)
+### [170. The Evolution of DevOps: Lessons for Organizations of all Sizes](https://hackernoon.com/the-evolution-of-devops-lessons-for-organizations-of-all-sizes)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-te93pv5.jpeg)
 Having someone to lead the DevOps space early and instill the culture will reduce overall release cycles friction and shorten the time to market.
 
-### [170. Understanding Caching in Distributed Systems ](https://hackernoon.com/understanding-caching-in-distributed-systems)
+### [171. Understanding Caching in Distributed Systems ](https://hackernoon.com/understanding-caching-in-distributed-systems)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-us93rv2.jpeg)
 Speed up your Distributed System by adding a High Available and Highly Consistent Caching Layer
 
-### [171. Deploying Complex Microservice Apps Using PMKFT [A How To Guide]](https://hackernoon.com/deploying-complex-microservice-apps-using-pmkft-a-how-to-guide-wq8f325l)
+### [172. Deploying Complex Microservice Apps Using PMKFT [A How To Guide]](https://hackernoon.com/deploying-complex-microservice-apps-using-pmkft-a-how-to-guide-wq8f325l)
 ![](https://cdn.hackernoon.com/drafts/iiti3yqr.png)
 In this tutorial we are going to expand our examples with deploying a more complex microservice. The idea is to make you more comfortable with the platform and to show you how you can leverage it for more advanced scenarios.
 
-### [172. An Introduction to Microservice Messaging in Kubernetes](https://hackernoon.com/an-introduction-to-microservice-messaging-in-kubernetes-863k33bc)
+### [173. An Introduction to Microservice Messaging in Kubernetes](https://hackernoon.com/an-introduction-to-microservice-messaging-in-kubernetes-863k33bc)
 ![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-c82231b0.jpeg)
 In this article, I’ll share the benefits of messaging in Kubernetes and the difficulties that can come with legacy solutions.
 
-### [173. Celebrating 10 Years of War Robots and Reflecting From A Technical Perspective](https://hackernoon.com/celebrating-10-years-of-war-robots-and-reflecting-from-a-technical-perspective)
+### [174. Celebrating 10 Years of War Robots and Reflecting From A Technical Perspective](https://hackernoon.com/celebrating-10-years-of-war-robots-and-reflecting-from-a-technical-perspective)
 ![](https://cdn.hackernoon.com/images/teTTPgZtZahdjHQTYoUxlwkrRll1-vai3yib.jpeg)
 In this post, we look at the technical side of War Robots over 10 years: the cool stuff, the problems, the experiments, remastering the game, and more!
-
-### [174. Application Monitoring: Closing Observability Gaps with Custom Metrics](https://hackernoon.com/application-monitoring-closing-observability-gaps-with-custom-metrics)
-![](https://cdn.hackernoon.com/images/FnyRCovrkHe9PzOWNSVVnkxBOSM2-wm9373f.jpeg)
-Which application metrics should you collect for your microservices?
 
 ### [175. Developers, AWS App Runner Might Not Always Be the Best Choice For Deploying Your Application](https://hackernoon.com/developers-aws-app-runner-might-not-always-be-the-best-choice-for-deploying-your-application)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jr02s8s.jpeg)
 Discover why AWS AppRunner might not be the best fit for complex applications. A real-world journey with key insights on containerized deployment challenges
 
-### [176. Data Access Strategies in Java Microservices: JPA vs. JDBC](https://hackernoon.com/data-access-strategies-in-java-microservices-jpa-vs-jdbc)
+### [176. Application Monitoring: Closing Observability Gaps with Custom Metrics](https://hackernoon.com/application-monitoring-closing-observability-gaps-with-custom-metrics)
+![](https://cdn.hackernoon.com/images/FnyRCovrkHe9PzOWNSVVnkxBOSM2-wm9373f.jpeg)
+Which application metrics should you collect for your microservices?
+
+### [177. Data Access Strategies in Java Microservices: JPA vs. JDBC](https://hackernoon.com/data-access-strategies-in-java-microservices-jpa-vs-jdbc)
 ![](https://cdn.hackernoon.com/images/an-image-representing-java-microservices-development-with-symbolic-elements-such-as-database-icons-jdbc-and-jpa-logos-and-snippets-of-java-code-the-image-conveys-the-articles-focus-on-data-access-strategies-and-code-examples-for-optimal-microservices-architecture-hxpxem4ge9j7dkcb2ic83q3k.png)
 Explore data access in Java microservices: JDBC for control, JPA for abstraction. Code examples illuminate best practices and decision factors."
 
-### [177. How to Build Your Own TODO-list Service With Golang and MongoDB](https://hackernoon.com/how-to-build-your-own-todo-list-service-with-golang-and-mongodb)
+### [178. How to Build Your Own TODO-list Service With Golang and MongoDB](https://hackernoon.com/how-to-build-your-own-todo-list-service-with-golang-and-mongodb)
 ![](https://cdn.hackernoon.com/images/todo-list-cl9ec1f9ylyi6imtxqo61hhe.png)
 Many have wondered how a simple task sheet or applications that provide such functionality work. In this article, we will write a small TODO service.
 
-### [178. Storage Options for Serverless on AWS](https://hackernoon.com/storage-options-for-serverless-on-aws-fo3x3wsv)
+### [179. Storage Options for Serverless on AWS](https://hackernoon.com/storage-options-for-serverless-on-aws-fo3x3wsv)
 ![](https://cdn.hackernoon.com/drafts/vfq3ymg.png)
 Serverless computing enables you to run functions without provisioning resources. Most of the top cloud providers offer good serverless options, but this article offers a review of storage options for serverless on AWS. First, you will learn about the core principles of storage and data persistence in serverless computing, and then you'll discover what serverless options are available on AWS for databases, microservices, IoT, and storage synchronization. 
-
-### [179. Starting Web Development? Remember These 5 Things](https://hackernoon.com/5-things-to-decide-on-before-web-development-nbd1329t)
-![](https://cdn.hackernoon.com/drafts/7wbf32by.png)
-Originally I shared this story to Syndicode blog, and now I'm making a summary with small additions.
 
 ### [180. Record-Replay Strategy for Testing Event-Driven Architecture](https://hackernoon.com/record-replay-strategy-for-testing-event-driven-architecture)
 ![](https://cdn.hackernoon.com/images/cgWjp7zgWNd0KxKT11wmoUahkLg1-dpa3ooy.jpeg)
 Testing event-driven architectures like kafka based systems using record-replay strategy.  
 
-### [181. Microservices Integration: A Guide to Simplify Project Complexity with Feign Client and POJO Classes](https://hackernoon.com/microservices-integration-a-guide-to-simplify-project-complexity-with-feign-client-and-pojo-classes)
-![](https://cdn.hackernoon.com/images/m1niFilZlGUYAN3blcOrJ7nMPqh2-mi93yle.jpeg)
-Simplify microservices integration using Feign client & POJO classes. Streamline complex projects effectively.
-
-### [182. An Introduction to Microservices and Serverless](https://hackernoon.com/an-introduction-to-microservices-and-serverless-694434pt)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-t393w4g.jpeg?alt=media&token=7706754f-36a5-4579-9b1f-1937196c1c9c)
-The concept of a microservice perfectly fits the structure of a serverless function, which easily enables deployment and runtime isolation for different services. On the storage side, services such as DynamoDB also make it easier to have independent databases for each microservice and scale them independently (when required or desirable).
-
-### [183. Awesome Hacks To Master AWS Step Functions](https://hackernoon.com/awesome-hacks-to-master-aws-step-functions-bji3wvv)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-tyd3wp2.jpeg?alt=media&token=62467342-2af1-4914-97cb-8f4e86004c78)
-The use of serverless computing has become a must nowadays, and some of you may already know a thing or two about Amazon Web Services like Lambda Functions, Step Functions, and other services AWS provides. However, if this is the first time you hear about them – fantastic!
-
-### [184. A Brief Overview of Kubernetes Architecture](https://hackernoon.com/a-brief-overview-of-kubernetes-architecture)
+### [181. A Brief Overview of Kubernetes Architecture](https://hackernoon.com/a-brief-overview-of-kubernetes-architecture)
 ![](https://cdn.hackernoon.com/images/0DxhR2wKkBWFVTrMKykkOMUzoev2-27e3mvh.jpeg)
 Here, we talk about the various components within a Kubernetes architecture. Read further to know more!
 
-### [185. How to Set Up an NGINX Ingress Controller on PMKFT](https://hackernoon.com/how-to-set-up-an-nginx-ingress-controller-on-pmkft-257u32o5)
+### [182. Microservices Integration: A Guide to Simplify Project Complexity with Feign Client and POJO Classes](https://hackernoon.com/microservices-integration-a-guide-to-simplify-project-complexity-with-feign-client-and-pojo-classes)
+![](https://cdn.hackernoon.com/images/m1niFilZlGUYAN3blcOrJ7nMPqh2-mi93yle.jpeg)
+Simplify microservices integration using Feign client & POJO classes. Streamline complex projects effectively.
+
+### [183. Starting Web Development? Remember These 5 Things](https://hackernoon.com/5-things-to-decide-on-before-web-development-nbd1329t)
+![](https://cdn.hackernoon.com/drafts/7wbf32by.png)
+Originally I shared this story to Syndicode blog, and now I'm making a summary with small additions.
+
+### [184. Awesome Hacks To Master AWS Step Functions](https://hackernoon.com/awesome-hacks-to-master-aws-step-functions-bji3wvv)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-tyd3wp2.jpeg?alt=media&token=62467342-2af1-4914-97cb-8f4e86004c78)
+The use of serverless computing has become a must nowadays, and some of you may already know a thing or two about Amazon Web Services like Lambda Functions, Step Functions, and other services AWS provides. However, if this is the first time you hear about them – fantastic!
+
+### [185. An Introduction to Microservices and Serverless](https://hackernoon.com/an-introduction-to-microservices-and-serverless-694434pt)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-t393w4g.jpeg?alt=media&token=7706754f-36a5-4579-9b1f-1937196c1c9c)
+The concept of a microservice perfectly fits the structure of a serverless function, which easily enables deployment and runtime isolation for different services. On the storage side, services such as DynamoDB also make it easier to have independent databases for each microservice and scale them independently (when required or desirable).
+
+### [186. Uploading Files to an SFTP Platform in C#.NET — Complete Guide](https://hackernoon.com/uploading-files-to-an-sftp-platform-in-cnet-complete-guide)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-tw0226a.jpeg)
+In this blog, I will explain the use case and practical implementation of a widely used open-source API for automated, secure file transfers.
+
+### [187. How to Set Up an NGINX Ingress Controller on PMKFT](https://hackernoon.com/how-to-set-up-an-nginx-ingress-controller-on-pmkft-257u32o5)
 ![](https://cdn.hackernoon.com/images/wv7x3yj7.jpg)
 The vast majority of Kubernetes clusters are used to host containers that process incoming requests from microservices to full web applications. Having these incoming requests come into a central location, then get handed out via services in Kubernetes, is the most secure way to configure a cluster. That central incoming point is an ingress controller.
 
-### [186. Introducing Microservices Security in Action ](https://hackernoon.com/introducing-microservices-security-in-action-o31r3twk)
+### [188. Introducing Microservices Security in Action ](https://hackernoon.com/introducing-microservices-security-in-action-o31r3twk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1SCS7hIaUigiIFRsobRz6cTsP7K2-r32p3u73.jpeg?alt=media&token=053351cc-3abc-4241-87e5-ed6f50084d74)
 The book Microservices Security in Action, which I authored with Nuwan Dias is now available to buy online from Amazon and Manning. Nuwan and I spent last 27+ months writing/re-writing the book. It was a marathon effort, but yet a great experience, and we both are very glad to see how it came out at the end! This is the story, which lead us to write the book.
 
-### [187. Monitoring And Orchestrating Your Microservices Landscape using Workflow Automation (Part 2 of 7)](https://hackernoon.com/monitoring-and-orchestrating-your-microservices-landscape-using-workflow-automation-part-2-of-7-nu1s3ujc)
+### [189. Monitoring And Orchestrating Your Microservices Landscape using Workflow Automation (Part 2 of 7)](https://hackernoon.com/monitoring-and-orchestrating-your-microservices-landscape-using-workflow-automation-part-2-of-7-nu1s3ujc)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvAucU4XF4pWwjzIjwAoX7Xs2Itc2-5y1u3ud1.png?alt=media&token=153f4ed0-4e7e-4245-8231-0744ac81a3d3)
 On Wednesday, March 11, 2020, I conducted the webinar titled “Monitoring & Orchestrating Your Microservices Landscape using Workflow Automation.” Not only was I overwhelmed by the number of attendees, but we also got a huge list of interesting questions before and especially during the webinar. Some of them were answered, but a lot of them were not. 
 
-### [188. The 3 Best Tools for Kubernetes Cluster Management](https://hackernoon.com/the-3-best-tools-for-kubernetes-cluster-management)
+### [190. The 3 Best Tools for Kubernetes Cluster Management](https://hackernoon.com/the-3-best-tools-for-kubernetes-cluster-management)
 ![](https://cdn.hackernoon.com/images/0DxhR2wKkBWFVTrMKykkOMUzoev2-tlf3jzv.jpeg)
 This article helps you manage your cluster resources properly, especially in an autoscaling environment.
 
 
-### [189. 12 Methods of Improving Your Monolith Before Making the Jump to Microservices](https://hackernoon.com/12-methods-of-improving-your-monolith-before-making-the-jump-to-microservices)
+### [191. 12 Methods of Improving Your Monolith Before Making the Jump to Microservices](https://hackernoon.com/12-methods-of-improving-your-monolith-before-making-the-jump-to-microservices)
 ![](https://cdn.hackernoon.com/images/deUGkuJB9Ggm3EcvgqnpHgqWZkX2-qe93630.jpeg)
  Like tidying up a house before a total renovation, preparing your monolith is the first step towards transitioning to microservices.
-
-### [190. Developing, Deploying and Testing Flask Applications on Kubernetes - Part I](https://hackernoon.com/developing-deploying-and-testing-flask-applications-on-kubernetes-part-i-p0193ydi)
-![](https://cdn.hackernoon.com/images/a78r3v6i.jpg)
-In this step by a step blog post, that illustrates how to integrate Python Flask applications with Docker and run them in a Kubernetes cluster, we will cover the following topics:
-
-### [191. Introduction to Event Streaming with Kafka and Kafdrop](https://hackernoon.com/introduction-to-event-streaming-with-kafka-and-kafdrop-sncj32c8)
-![](https://cdn.hackernoon.com/drafts/bf2l6326u.png)
-Event sourcing, eventual consistency, microservices, CQRS... These are quickly becoming household names in mainstream application development. But do you know what makes them tick? What are the basic building blocks required to assemble complex, business-centric applications from fine-grained services without turning the lot into a big ball of mud?
 
 ### [192. 3 Top Tools for Implementing Kubernetes Observability](https://hackernoon.com/3-top-tools-for-implementing-kubernetes-observability)
 ![](https://cdn.hackernoon.com/images/0DxhR2wKkBWFVTrMKykkOMUzoev2-q5l3o1r.jpeg)
 Here, in this blog, we’ve discussed three important tools to implement Kubernetes Observability. Let’s take a look!
 
 
-### [193. The Secret Guide To Choosing Between Monolith And Microservices ](https://hackernoon.com/the-secret-guide-to-choosing-between-monolith-and-microservices-4gx3tiw)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-x9z4xem.jpeg?alt=media&token=73fd1c50-a8bb-48fe-822a-aba1a33fcab1)
-Monolith or microservices? Both architectures have pros and cons, and each particular case should be investigated. UppLabs had a project with a concrete goal — optimization of application performance by migration from a monolithic system to the new microservices’ infrastructure. We came up with a solution that we’re happy to share with you in detail.
+### [193. Developing, Deploying and Testing Flask Applications on Kubernetes - Part I](https://hackernoon.com/developing-deploying-and-testing-flask-applications-on-kubernetes-part-i-p0193ydi)
+![](https://cdn.hackernoon.com/images/a78r3v6i.jpg)
+In this step by a step blog post, that illustrates how to integrate Python Flask applications with Docker and run them in a Kubernetes cluster, we will cover the following topics:
 
-### [194. Abstraction Layers and API's for Cloud Native Environments](https://hackernoon.com/abstraction-layers-and-apis-for-cloud-native-environments-o8eo3y9g)
-![](https://images.unsplash.com/photo-1511351817482-e0d6127f20bb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Separation of concerns, abstraction layers and API's
+### [194. Introduction to Event Streaming with Kafka and Kafdrop](https://hackernoon.com/introduction-to-event-streaming-with-kafka-and-kafdrop-sncj32c8)
+![](https://cdn.hackernoon.com/drafts/bf2l6326u.png)
+Event sourcing, eventual consistency, microservices, CQRS... These are quickly becoming household names in mainstream application development. But do you know what makes them tick? What are the basic building blocks required to assemble complex, business-centric applications from fine-grained services without turning the lot into a big ball of mud?
 
 ### [195. Unpacking Cinnamon — A New Resiliency Approach at Uber](https://hackernoon.com/unpacking-cinnamon-a-new-resiliency-approach-at-uber)
 ![](https://cdn.hackernoon.com/images/h42pozfm4scRLxV00TWDEetyEPJ3-55c3s0g.jpeg)
 
 Curious about Uber's new approach to scale resiliency in their microservices architecture? Stick with me for some ideas to enhance yours!
 
-### [196. 3 Great Tech Features of Node.js](https://hackernoon.com/3-great-tech-features-of-nodejs)
+### [196. The Secret Guide To Choosing Between Monolith And Microservices ](https://hackernoon.com/the-secret-guide-to-choosing-between-monolith-and-microservices-4gx3tiw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-x9z4xem.jpeg?alt=media&token=73fd1c50-a8bb-48fe-822a-aba1a33fcab1)
+Monolith or microservices? Both architectures have pros and cons, and each particular case should be investigated. UppLabs had a project with a concrete goal — optimization of application performance by migration from a monolithic system to the new microservices’ infrastructure. We came up with a solution that we’re happy to share with you in detail.
+
+### [197. Abstraction Layers and API's for Cloud Native Environments](https://hackernoon.com/abstraction-layers-and-apis-for-cloud-native-environments-o8eo3y9g)
+![](https://images.unsplash.com/photo-1511351817482-e0d6127f20bb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Separation of concerns, abstraction layers and API's
+
+### [198. 3 Great Tech Features of Node.js](https://hackernoon.com/3-great-tech-features-of-nodejs)
 ![](https://cdn.hackernoon.com/images/xWx1eln9Ida9r216TnPyHFrKw1J2-np93sh0.jpeg)
 Want to know why Node.js suits data-intensive and real-time apps? Dive in to consider the runtime environment for the next software project!
 
-### [197. React Application Architecture: Code splitting [Part 2]](https://hackernoon.com/react-application-architecture-code-splitting-part-2-pmb35ii)
+### [199. React Application Architecture: Code splitting [Part 2]](https://hackernoon.com/react-application-architecture-code-splitting-part-2-pmb35ii)
 ![](https://cdn.hackernoon.com/images/XGMWMOKYU7e8wnkoEaWrmT8amnP2-gv1783fg0.jpeg)
 In the previous part we have learned about the components and how it affects our React app architecture. 
 
-### [198. 3 Architectural Design Patterns for Software Development](https://hackernoon.com/3-architectural-design-patterns-for-software-development)
+### [200. 3 Architectural Design Patterns for Software Development](https://hackernoon.com/3-architectural-design-patterns-for-software-development)
 ![](https://cdn.hackernoon.com/images/B9T1IUJcMIUtnDyj3ZT2HrbhQmj1-we93p84.jpeg)
 Learn about software architectural patterns and their benefits and drawbacks.An architectural pattern is a general, reusable solution to a commonly  problem
 
-### [199. Uploading Files to an SFTP Platform in C#.NET — Complete Guide](https://hackernoon.com/uploading-files-to-an-sftp-platform-in-cnet-complete-guide)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-tw0226a.jpeg)
-In this blog, I will explain the use case and practical implementation of a widely used open-source API for automated, secure file transfers.
-
-### [200. Microservice Observability Patterns [Part 2]](https://hackernoon.com/microservice-observability-patterns-part-2-gvi3w9h)
+### [201. Microservice Observability Patterns [Part 2]](https://hackernoon.com/microservice-observability-patterns-part-2-gvi3w9h)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fhx05QcKPDlNzd1R3hHLq6ZgPgva2-7m1p3tsu.jpeg?alt=media&token=1ca4695c-5224-495f-b7dd-1e78bbff71f3)
 In my previous article, I talked about the importance of logs and the differences between structured and unstructured logging. Logs are easy to integrate into your application and provide the ability to represent any type of data in the form of strings.
-
-### [201. Microservices and CQRS: Why Business Should Care](https://hackernoon.com/microservices-and-cqrs-why-business-should-care-et6g3ycb)
-![](https://cdn.hackernoon.com/drafts/cdh3y0m.png)
-We have created this blog post for business stakeholders managing the development of a software system or product, those looking to find ways to reduce cost and time to market. This post will be useful for those whose technical background is a bit outdated or isn’t sufficient to make that judgment call. We will look at how to approach architecture planning so that the product is scalable and the money is spent wisely. Also, we will show the example of how CQRS can help in the implementation of client applications and whether microservices is indeed the panacea.
 
 ### [202. Microservice Patterns to Design and Implement Any Java-Based Event-Driven Microservices Application](https://hackernoon.com/microservice-patterns-to-design-and-implement-any-java-based-event-driven-microservices-application)
 ![](https://cdn.hackernoon.com/images/eQAboXKgBIZ0OD357lPO5ho4RdA2-jki3jqm.jpeg)
 Java spring boot developers tutorial- Tips to use partitioning strategies in your microservices application and use of various Deployment Patterns & Strategies.
 
-### [203. The Dark Side of Microservices, Explained](https://hackernoon.com/the-dark-side-of-microservices-explained-s6z3679)
-![](https://cdn.hackernoon.com/drafts/gk2d3x1f.png)
-There is an endless supply of blog posts, white papers, and slide decks, evangelizing the virtues of microservices. They talk about how microservices “increase agility,” are “more scalable,” and promise that when you make the switch, engineers will be pounding at your office door looking for a job.
+### [203. Microservices and CQRS: Why Business Should Care](https://hackernoon.com/microservices-and-cqrs-why-business-should-care-et6g3ycb)
+![](https://cdn.hackernoon.com/drafts/cdh3y0m.png)
+We have created this blog post for business stakeholders managing the development of a software system or product, those looking to find ways to reduce cost and time to market. This post will be useful for those whose technical background is a bit outdated or isn’t sufficient to make that judgment call. We will look at how to approach architecture planning so that the product is scalable and the money is spent wisely. Also, we will show the example of how CQRS can help in the implementation of client applications and whether microservices is indeed the panacea.
 
 ### [204. Exploring Differences Between Monitoring And Observability](https://hackernoon.com/exploring-differences-between-monitoring-and-observability-xm3g31gg)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-6u3b31ep.jpeg)
 Monitoring vs Observability: in this article, we're explaining what is observability exactly and how does it differ from monitoring.
 
-### [205. How to Route Traffic Between Microservices During Development](https://hackernoon.com/how-to-route-traffic-between-microservices-during-development-36183341)
+### [205. The Dark Side of Microservices, Explained](https://hackernoon.com/the-dark-side-of-microservices-explained-s6z3679)
+![](https://cdn.hackernoon.com/drafts/gk2d3x1f.png)
+There is an endless supply of blog posts, white papers, and slide decks, evangelizing the virtues of microservices. They talk about how microservices “increase agility,” are “more scalable,” and promise that when you make the switch, engineers will be pounding at your office door looking for a job.
+
+### [206. How to Route Traffic Between Microservices During Development](https://hackernoon.com/how-to-route-traffic-between-microservices-during-development-36183341)
 ![](https://cdn.hackernoon.com/images/TRFPK3XpZCd1dMNTH0rDgvHfag92-ple326s.jpeg)
 Route traffic between microservices during development with this one simple trick that will save you setup time and, well, headache.
 
-### [206. 5 Common Amazon SQS Issues](https://hackernoon.com/5-common-amazon-sqs-issues)
+### [207. 5 Common Amazon SQS Issues](https://hackernoon.com/5-common-amazon-sqs-issues)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-xg93l7e.jpeg)
 Ready to fix your SQS queues?🔨 This article aims to help you solve the most common issues as quickly as possible. Let's dive in!
 
-### [207. Data Services for the Masses](https://hackernoon.com/data-services-for-the-masses-jc4k35qa)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-dom35id.jpeg)
-I’ve held several roles in my career in IT, ranging from software developer to enterprise architect to developer advocate. I’ve always been fascinated by the role that data plays in our applications—putting it into databases, getting it back out quickly, making sure it remains accurate when transferred between systems. Many of the hardest problems I’ve encountered have centered around data. For example:
-
-### [208. The Essential Guide to Pod Eviction On Kubernetes](https://hackernoon.com/the-essential-guide-to-pod-eviction-on-kubernetes-no423ugc)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOCEDgVR7ElMB4EWad0Jw9cKPzT03-2a102882.jpeg?alt=media&token=f7bdf67a-8a9e-4c2a-85f0-1db4e3a2e0ca)
-By nature, pods in Kubernetes clusters are ephemeral. They can be created, killed, and moved around by the scheduler. This may occasionally cause disruption in the microservices if pods are not configured properly.
-
-### [209. You Absolutely Need To Read This To Master AWS Lambda [Part 1]](https://hackernoon.com/you-absolutely-need-to-read-this-to-master-aws-lambda-part-1-ydr3wcs)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-ec5e3t78.jpeg?alt=media&token=23b4df8e-43b4-45a9-ab6f-2ced98c9a005)
-Welcome to the Serverless world. One of the first things you’ll hear about is AWS Lambda - and you’ll continue to keep hearing about it! While architecture can be serverless without Lambdas involved, it’s very often the key component within a serverless application. In the first post of this 3-part AWS Lambda Handbook series, we run through what is AWS Lambda, dialling back to basics with the various terminology, how to create a Lambda function and how to run it. 
-
-### [210. From Monoliths to Microservices: Migration in Practice](https://hackernoon.com/from-monoliths-to-microservices-migration-in-practice)
-![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-pb92d7s.jpeg)
-This isn't another "break down the monolith" article. This post is about making the applicable decisions, measuring and verifying the results
-
-### [211. Why 100 Percent Test Coverage is Not Possible — Lessons from Testing Banking and Healthcare Systems](https://hackernoon.com/why-100-percent-test-coverage-is-not-possible-lessons-from-testing-banking-and-healthcare-systems)
+### [208. Why 100 Percent Test Coverage is Not Possible — Lessons from Testing Banking and Healthcare Systems](https://hackernoon.com/why-100-percent-test-coverage-is-not-possible-lessons-from-testing-banking-and-healthcare-systems)
 ![](https://cdn.hackernoon.com/images/MlE2E5kIgcX1YJRF27fLSKg38Gt2-he03h53.jpeg)
 Quality is not about testing everything; quality is about testing what is most important.
 
-### [212. Konstantin Glumov on Software Development Trends in 2024: Microservices, Cloud Computing and More](https://hackernoon.com/konstantin-glumov-on-software-development-trends-in-2024-microservices-cloud-computing-and-more)
-![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-14833pt.jpeg)
-Konstantin Glumov talks 2024 tech trends: microservices, cloud computing, and learning's key role for developers, highlighting IaaS growth and Kotlin.
+### [209. From Monoliths to Microservices: Migration in Practice](https://hackernoon.com/from-monoliths-to-microservices-migration-in-practice)
+![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-pb92d7s.jpeg)
+This isn't another "break down the monolith" article. This post is about making the applicable decisions, measuring and verifying the results
 
-### [213. Monolith vs Microservices vs Modulith: The Evolution of Software Architecture](https://hackernoon.com/monolith-vs-microservices-vs-modulith-the-evolution-of-software-architecture)
+### [210. Data Services for the Masses](https://hackernoon.com/data-services-for-the-masses-jc4k35qa)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-dom35id.jpeg)
+I’ve held several roles in my career in IT, ranging from software developer to enterprise architect to developer advocate. I’ve always been fascinated by the role that data plays in our applications—putting it into databases, getting it back out quickly, making sure it remains accurate when transferred between systems. Many of the hardest problems I’ve encountered have centered around data. For example:
+
+### [211. The Essential Guide to Pod Eviction On Kubernetes](https://hackernoon.com/the-essential-guide-to-pod-eviction-on-kubernetes-no423ugc)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOCEDgVR7ElMB4EWad0Jw9cKPzT03-2a102882.jpeg?alt=media&token=f7bdf67a-8a9e-4c2a-85f0-1db4e3a2e0ca)
+By nature, pods in Kubernetes clusters are ephemeral. They can be created, killed, and moved around by the scheduler. This may occasionally cause disruption in the microservices if pods are not configured properly.
+
+### [212. Monolith vs Microservices vs Modulith: The Evolution of Software Architecture](https://hackernoon.com/monolith-vs-microservices-vs-modulith-the-evolution-of-software-architecture)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-fd038b7.png)
 Learn how Modulith architecture offers a balanced approach to building scalable apps—between the simplicity of monoliths and the flexibility of microservices.
 
-### [214. 13 Questions and Answers for Google Cloud Reference Architectures](https://hackernoon.com/13-questions-and-answers-for-google-cloud-reference-architectures-dg7d3zo0)
+### [213. You Absolutely Need To Read This To Master AWS Lambda [Part 1]](https://hackernoon.com/you-absolutely-need-to-read-this-to-master-aws-lambda-part-1-ydr3wcs)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-ec5e3t78.jpeg?alt=media&token=23b4df8e-43b4-45a9-ab6f-2ced98c9a005)
+Welcome to the Serverless world. One of the first things you’ll hear about is AWS Lambda - and you’ll continue to keep hearing about it! While architecture can be serverless without Lambdas involved, it’s very often the key component within a serverless application. In the first post of this 3-part AWS Lambda Handbook series, we run through what is AWS Lambda, dialling back to basics with the various terminology, how to create a Lambda function and how to run it. 
+
+### [214. Konstantin Glumov on Software Development Trends in 2024: Microservices, Cloud Computing and More](https://hackernoon.com/konstantin-glumov-on-software-development-trends-in-2024-microservices-cloud-computing-and-more)
+![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-14833pt.jpeg)
+Konstantin Glumov talks 2024 tech trends: microservices, cloud computing, and learning's key role for developers, highlighting IaaS growth and Kotlin.
+
+### [215. 13 Questions and Answers for Google Cloud Reference Architectures](https://hackernoon.com/13-questions-and-answers-for-google-cloud-reference-architectures-dg7d3zo0)
 ![](https://cdn.hackernoon.com/images/lvji4zvd.gif)
 Google Cloud is a cloud computing platform that can be used to build and deploy applications.  It allows you to take advantage of the flexibility of development while scaling the infrastructure as needed.
 
-### [215. Why Every API Needs a Clock](https://hackernoon.com/why-every-api-needs-a-clock-4n5h3y1n)
+### [216. Why Every API Needs a Clock](https://hackernoon.com/why-every-api-needs-a-clock-4n5h3y1n)
 ![](https://cdn.hackernoon.com/drafts/tu8e3ydm.png)
 Limiting flow was fundamental to TCPs success, why is it any different for APIs?
 
-### [216. How To Use Amazon API Gateway to Decouple and Scale Serverless Architectures](https://hackernoon.com/how-to-use-amazon-api-gateway-to-decouple-and-scale-serverless-architectures-4c1y3u1z)
+### [217. How To Use Amazon API Gateway to Decouple and Scale Serverless Architectures](https://hackernoon.com/how-to-use-amazon-api-gateway-to-decouple-and-scale-serverless-architectures-4c1y3u1z)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-2sj3uy8.webp?alt=media&token=de7940ba-77c4-4990-95a9-8bd7028ac376)
 One of the benefits of Serverless architectures is the possibility of scaling applications without worrying about load balancers and clusters of servers. While services like AWS Lambda hold their promises on this area, there are usually misconceptions about how they work.
 
-### [217. Comparing Apache Kafka with Oracle Transactional Event Queues (TEQ) as Microservices Event Mesh](https://hackernoon.com/comparing-apache-kafka-with-oracle-transactional-event-queues-teq-as-microservices-event-mesh)
+### [218. Comparing Apache Kafka with Oracle Transactional Event Queues (TEQ) as Microservices Event Mesh](https://hackernoon.com/comparing-apache-kafka-with-oracle-transactional-event-queues-teq-as-microservices-event-mesh)
 ![](https://cdn.hackernoon.com/images/oFcXyPmJpqb3FOyA7YV2WMjGWmq2-qeh3rst.jpeg)
 This blog contrasts and compares transactional and message delivery behavior of Kafka with the converged Oracle DB and Oracle Transactional Event Queues/AQ
 
-### [218. Monitoring Microservices: A Step By Step Guide](https://hackernoon.com/monitoring-microservices-a-step-by-step-guide-awl36c3)
+### [219. Monitoring Microservices: A Step By Step Guide](https://hackernoon.com/monitoring-microservices-a-step-by-step-guide-awl36c3)
 ![](https://cdn.hackernoon.com/images/7gw8dcicqwdE2oxqe6dakGK6Uuj2-f2a25o0.jpeg)
 Monitoring microservices in the right way is one of the biggest challenges nowadays. This blog will guide you to overcome the monitoring challenges easily.
 
-### [219. Navigating the Age-Old Software Architecture Dilemma With NATS](https://hackernoon.com/navigating-the-age-old-software-architecture-dilemma-with-nats)
+### [220. Navigating the Age-Old Software Architecture Dilemma With NATS](https://hackernoon.com/navigating-the-age-old-software-architecture-dilemma-with-nats)
 ![](https://cdn.hackernoon.com/images/4KVcyNb7LINHvyfnYyiFg5shhzc2-g7d31pk.jpeg)
 Exploring monolithic vs. microservice designs, the article unveils 'Flex Architecture'—melding cost-efficiency with scalability for future software needs.
-
-### [220. Why Microservices Suck At Machine Learning...and What You Can Do About It](https://hackernoon.com/why-microservices-suck-for-machine-learningand-what-you-can-do-about-it-1te2326t)
-![](https://images.unsplash.com/photo-1545987796-200677ee1011?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-I've worked on teams building ML-powered product features, everything from personalization to propensity paywalls. Meetings to find and get access to data consumed my time, other days it was consumed building ETLs to get and clean that data. The worst situations were when I had to deal with existing microservice oriented architectures. I wouldn't advocate that we stop using microservices, but if you want to fit in a ML project in an already in-place strict microservice oriented architecture, you're doomed.
 
 ### [221. Cherrypy Introduction: Simple Python Library for Quick Application Development](https://hackernoon.com/cherrypy-introduction-simple-python-library-for-quick-application-development-pe1h3tuw)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgnwwxVyywHfOfFROnQtw5ijHIMJ3-wsd3u5k.png?alt=media&token=5f672b1a-baf7-41cb-bf65-0cc6a68375ca)
 For day to day work in dev-ops or for testing team , we need to put stub in between some application to fill the gap for the application which are not present on local testing lab , for that we need to put some stub so that it can mimic like actual application .
 
-### [222. What is a Service Mesh?](https://hackernoon.com/what-is-a-service-mesh-582a36q9)
-![](https://cdn.hackernoon.com/drafts/pege36qe.png)
-In our previous post on API Gateways we discussed how services handle external client to service (North-South) traffic.
+### [222. Why Microservices Suck At Machine Learning...and What You Can Do About It](https://hackernoon.com/why-microservices-suck-for-machine-learningand-what-you-can-do-about-it-1te2326t)
+![](https://images.unsplash.com/photo-1545987796-200677ee1011?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+I've worked on teams building ML-powered product features, everything from personalization to propensity paywalls. Meetings to find and get access to data consumed my time, other days it was consumed building ETLs to get and clean that data. The worst situations were when I had to deal with existing microservice oriented architectures. I wouldn't advocate that we stop using microservices, but if you want to fit in a ML project in an already in-place strict microservice oriented architecture, you're doomed.
 
 ### [223. How to Migrate from Monolith to Microservices: Challenges and Best Practices](https://hackernoon.com/how-to-migrate-from-monolith-to-microservices-challenges-and-best-practices)
 ![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-fl93vu8.jpeg)
 Learn what to consider when moving from monolith to microservices, including data management, team organization, and infrastructure implementation. 
 
-### [224. How Shift-Right Testing Can Build Product Resiliency](https://hackernoon.com/how-shift-right-testing-can-build-product-resiliency)
+### [224. What is a Service Mesh?](https://hackernoon.com/what-is-a-service-mesh-582a36q9)
+![](https://cdn.hackernoon.com/drafts/pege36qe.png)
+In our previous post on API Gateways we discussed how services handle external client to service (North-South) traffic.
+
+### [225. How Shift-Right Testing Can Build Product Resiliency](https://hackernoon.com/how-shift-right-testing-can-build-product-resiliency)
 ![](https://cdn.hackernoon.com/images/Ost0Yu7R8YRpFW6b3mNIw0Oq2LX2-uy6n352e.jpeg)
 Shift-right testing improves product resiliency by uncovering issues that  surface under heavy user traffic and are difficult to simulate in test environments.
 
-### [225. Mastering Multi-Container Management: Deploying a Full-Stack Flask App with Docker Compose](https://hackernoon.com/mastering-multi-container-management-deploying-a-full-stack-flask-app-with-docker-compose)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1583kjq.jpeg)
-Explore seamless multi-container management with Docker Compose, deploying a full-stack Flask app.
-
-### [226. Choosing the Right Redis Library for Microservices: Go-Redis vs. RedisPipe](https://hackernoon.com/choosing-the-right-redis-library-for-microservices-go-redis-vs-redispipe)
-![](https://cdn.hackernoon.com/images/illustrate-a-diagrammatic-representation-of-a-microservices-software-architecture-te-fpybotcmm8tikykamarhj285.png)
-Explore the strengths and considerations of Go-Redis and RedisPipe, two popular Redis libraries for microservices.
-
-### [227. KubeMQ Secrets To Build A Great Kubernetes-based Solution In A Hybrid Environment](https://hackernoon.com/kubemq-secrets-to-build-a-great-kubernetes-based-solution-in-a-hybrid-environment-ipz33uc)
-![](https://cdn.hackernoon.com/images/69KgZPyDoVWRKpKJq9jn5lfgQK02-501s37kr.jpeg)
-A messaging platform that was purposefully built utilizing Kubernetes is a crucial component to successful deployments in hybrid and edge environments.
-
-### [228. Microservices vs. Monolithic Architecture](https://hackernoon.com/microservices-vs-monolithic-architecture)
-![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-4z337v2.jpeg)
-The concept of microservices, an approach to designing a software application as a set of small services, has been around since at least 2015.Delivering benefits such as the independent deployability and scalability of components, microservices are all the rage today. This is because these microservices benefits translate into incredibly faster software development speeds. With consumers being quick to change their preferences and behaviors, microservices adopters are able to keep up. Life is now great, they say.As much as 56% of companies participating in a recent IMB survey plan to adopt a microservices approach in the next 24 months. Almost 80% of current users say their business will likely step up investment in microservices.Microservices advantages have prompted Netflix, Amazon, eBay, Twitter, and many other tech giants to migrate from monolithic to microservices architecture.But should your company use microservices?It depends on the context and if microservices pros outweigh the cons for your application.This blog provides an overview of a microservices vs. monolithic approach and five key benefits of using a microservices architecture. It also shares some of ITRex’s microservices experience and offers tips on when business should (not) use microservices. Dive in.
-
-### [229. Building QR Code Generator in Serverless World using Kumologica](https://hackernoon.com/building-qr-code-generator-in-serverless-world-using-kumologica-cx1f3u6d)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7wyJfrZkKUSC50eZ7cAqeB7Kriz2-kc2s3u2n.jpeg?alt=media&token=b7d5bece-88fe-4c23-a5f2-c7fa284f9f72)
-The concepts of social distancing, contactless approach and safety first have now become the new normal in our present COVID induced downturn.
-
-### [230. Microservices: The Why and When](https://hackernoon.com/microservices-the-why-and-when)
-![](https://cdn.hackernoon.com/images/QcUecoGJmUaHFSMQOD8G5r7ZSjz2-z793p1j.jpeg)
-With people switching to cloud-native strategy, we need an architecture that supports it. A variant of Service-oriented architecture, microservice architecture 
-
-### [231. Creating Microservices in Nest.js](https://hackernoon.com/creating-microservices-in-nestjs)
-![](https://cdn.hackernoon.com/images/fw8ocvywhXVM4WgsICL9PB8GAoI3-es93g91.jpeg)
-This article attempts to demystify microservices by showing devs how to create a set of microservices using one of their favorite frameworks: Nest.js!
-
-### [232. Understanding Partitioned Services in Distributed Systems ](https://hackernoon.com/understanding-partitioned-services-in-distributed-systems)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-0793qsr.jpeg)
-A short tutorial on how Partitioned Services work and how to implement them in Python using Consistency Hashing,
-
-### [233. Supercharging AI Workflows: Distributed Document Processing with Node.js, Python, and RabbitMQ](https://hackernoon.com/supercharging-ai-workflows-distributed-document-processing-with-nodejs-python-and-rabbitmq)
+### [226. Supercharging AI Workflows: Distributed Document Processing with Node.js, Python, and RabbitMQ](https://hackernoon.com/supercharging-ai-workflows-distributed-document-processing-with-nodejs-python-and-rabbitmq)
 ![](https://cdn.hackernoon.com/images/m6OvIAdfE8XXYN2x7hNbCvMdhAk2-2u02eck.jpeg)
 Building a Scalable Multi-Language AI Document Analyzer with Node.js, Python, RabbitMQ, and Celery.
 
-### [234. Adding Serverless Authentication Microservice to a HTML, CSS and Javascript App](https://hackernoon.com/adding-serverless-authentication-microservice-to-a-html-css-and-javascript-app)
+### [227. Mastering Multi-Container Management: Deploying a Full-Stack Flask App with Docker Compose](https://hackernoon.com/mastering-multi-container-management-deploying-a-full-stack-flask-app-with-docker-compose)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1583kjq.jpeg)
+Explore seamless multi-container management with Docker Compose, deploying a full-stack Flask app.
+
+### [228. Data-Driven Architecture: Patterns for Production](https://hackernoon.com/data-driven-architecture-patterns-for-production)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o6824u8.jpeg)
+What it is, why it scales—and how to run it in production with clear lineage and observability.
+
+### [229. Choosing the Right Redis Library for Microservices: Go-Redis vs. RedisPipe](https://hackernoon.com/choosing-the-right-redis-library-for-microservices-go-redis-vs-redispipe)
+![](https://cdn.hackernoon.com/images/illustrate-a-diagrammatic-representation-of-a-microservices-software-architecture-te-fpybotcmm8tikykamarhj285.png)
+Explore the strengths and considerations of Go-Redis and RedisPipe, two popular Redis libraries for microservices.
+
+### [230. KubeMQ Secrets To Build A Great Kubernetes-based Solution In A Hybrid Environment](https://hackernoon.com/kubemq-secrets-to-build-a-great-kubernetes-based-solution-in-a-hybrid-environment-ipz33uc)
+![](https://cdn.hackernoon.com/images/69KgZPyDoVWRKpKJq9jn5lfgQK02-501s37kr.jpeg)
+A messaging platform that was purposefully built utilizing Kubernetes is a crucial component to successful deployments in hybrid and edge environments.
+
+### [231. Building QR Code Generator in Serverless World using Kumologica](https://hackernoon.com/building-qr-code-generator-in-serverless-world-using-kumologica-cx1f3u6d)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7wyJfrZkKUSC50eZ7cAqeB7Kriz2-kc2s3u2n.jpeg?alt=media&token=b7d5bece-88fe-4c23-a5f2-c7fa284f9f72)
+The concepts of social distancing, contactless approach and safety first have now become the new normal in our present COVID induced downturn.
+
+### [232. Microservices vs. Monolithic Architecture](https://hackernoon.com/microservices-vs-monolithic-architecture)
+![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-4z337v2.jpeg)
+The concept of microservices, an approach to designing a software application as a set of small services, has been around since at least 2015.Delivering benefits such as the independent deployability and scalability of components, microservices are all the rage today. This is because these microservices benefits translate into incredibly faster software development speeds. With consumers being quick to change their preferences and behaviors, microservices adopters are able to keep up. Life is now great, they say.As much as 56% of companies participating in a recent IMB survey plan to adopt a microservices approach in the next 24 months. Almost 80% of current users say their business will likely step up investment in microservices.Microservices advantages have prompted Netflix, Amazon, eBay, Twitter, and many other tech giants to migrate from monolithic to microservices architecture.But should your company use microservices?It depends on the context and if microservices pros outweigh the cons for your application.This blog provides an overview of a microservices vs. monolithic approach and five key benefits of using a microservices architecture. It also shares some of ITRex’s microservices experience and offers tips on when business should (not) use microservices. Dive in.
+
+### [233. Understanding Partitioned Services in Distributed Systems ](https://hackernoon.com/understanding-partitioned-services-in-distributed-systems)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-0793qsr.jpeg)
+A short tutorial on how Partitioned Services work and how to implement them in Python using Consistency Hashing,
+
+### [234. Microservices: The Why and When](https://hackernoon.com/microservices-the-why-and-when)
+![](https://cdn.hackernoon.com/images/QcUecoGJmUaHFSMQOD8G5r7ZSjz2-z793p1j.jpeg)
+With people switching to cloud-native strategy, we need an architecture that supports it. A variant of Service-oriented architecture, microservice architecture 
+
+### [235. Creating Microservices in Nest.js](https://hackernoon.com/creating-microservices-in-nestjs)
+![](https://cdn.hackernoon.com/images/fw8ocvywhXVM4WgsICL9PB8GAoI3-es93g91.jpeg)
+This article attempts to demystify microservices by showing devs how to create a set of microservices using one of their favorite frameworks: Nest.js!
+
+### [236. Adding Serverless Authentication Microservice to a HTML, CSS and Javascript App](https://hackernoon.com/adding-serverless-authentication-microservice-to-a-html-css-and-javascript-app)
 ![](https://cdn.hackernoon.com/images/ZuuM3fSjXmf2oETrekt5pezKail2-4t93por.jpeg)
 Remembering passwords has become a headache these days.
 
-### [235. The Origination of Microservices, and The Value They Create for Software Developers](https://hackernoon.com/the-origination-of-microservices-and-the-value-they-create-for-software-developers-today-5r333ydl)
-![](https://cdn.hackernoon.com/images/r1sc3wcl.jpg)
-What are Microservices exactly and how can you use them to work to your advantage? IT teams are always wanting to build new applications enabling specific functions for the ease of processes or customers. Sometimes, to balance projects, they allow distributed teams to work on focused targets using reusable assets, templates, and best practices. While decentralizing and democratizing application development helps, managing security can be a task for strategizing different Lines of Business (LoBs) and functional business partners.
-
-### [236. Why Data Consistency is Important in a Microservices Architecture](https://hackernoon.com/why-data-consistency-is-important-in-a-microservices-architecture)
-![](https://cdn.hackernoon.com/images/8Pgwf9zh8ofcrVpyJ48U91QqZjk1-m2g3nfj.jpeg)
-Data Consistency might be a pain in the ass. It is a well-known source of unexpected surprises. What is it? What does it depend on? Why is it so often overseen?
-
-### [237. What Does REST in RESTful API?](https://hackernoon.com/what-does-rest-mean-x9gn3252)
-![](https://cdn.hackernoon.com/images/g8i832lr.jpg)
-Everyone talks about RESTful APIs. Everyone use RESTful APIs. It even seems like, everything has RESTful APIs.
-
-### [238. 3 Free Ways to Learn Kubernetes and Red Hat OpenShift](https://hackernoon.com/3-free-ways-to-learn-kubernetes-and-red-hat-openshift)
+### [237. 3 Free Ways to Learn Kubernetes and Red Hat OpenShift](https://hackernoon.com/3-free-ways-to-learn-kubernetes-and-red-hat-openshift)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-9q0364v.jpeg)
 I've compiled a list of three resources where you can get started with Kubernetes and Red Hat OpenShift, Red Hat's enterprise Kubernetes platform.
 
-### [239. Microservice Architecture in Application Development: Advantages and Disadvantages](https://hackernoon.com/microservice-architecture-in-application-development-advantages-and-disadvantages)
-![](https://cdn.hackernoon.com/images/Lg3GSwToPlQKlwwujXA8JQtg9cm1-yu93ns8.jpeg)
-Microservice architecture is the optimal approach to software development. 
-
-### [240. Application Deployment: Recipe for Great Serverless Strategy](https://hackernoon.com/4-elements-of-a-great-serverless-application-deployment-strategy-h5b3zol)
-![](https://cdn.hackernoon.com/drafts/thry3z2m.png)
-This is true for the most part, but Serverless apps also have a certain property that can make their deployment and maintenance time consuming.
-
-### [241. Microservices? Why Not!](https://hackernoon.com/microservices-why-not)
-![](https://cdn.hackernoon.com/images/1jP4AN8YLrbDBYfB3aT5eoM6KS02-r9d31db.jpeg)
-The cost of microservices from a developer's perspective.
-
-### [242. Mastering Microservices: Building Effective Architecture Governance for Scalability and Stability](https://hackernoon.com/mastering-microservices-building-effective-architecture-governance-for-scalability-and-stability)
-![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-rd023m5.jpeg)
-Use the right tools to regain control of microservices with architecture governance to boost scalability, reduce complexity, and maintain system resiliency.
-
-### [243. How to Build a Decoupled Microservice Using Materialize](https://hackernoon.com/how-to-build-a-decoupled-microservices-using-materialize)
-![](https://cdn.hackernoon.com/images/tRW6o57hoNezh0iZnOdGsW3dKI02-ni93ilt.jpeg)
-One way to handle data in microservice architectures is to use decoupled microservices architecture. This form of architecture can bring many benefits.
-
-### [244. An Intro to .Net Microservices Application Architecture](https://hackernoon.com/an-intro-to-net-microservices-application-architecture-eo1l37x3)
-![](https://cdn.hackernoon.com/images/JfhStv1ETGTKdji5TWJ9610GJtr1-4zc035sw.jpeg)
-.Net Microservices is gaining massive popularity in the Tech market. Let's find out what actually is dot Net Microservices Application Architecture?
-
-### [245. A Senior Engineer’s Guide to Scalable & Reliable System Design](https://hackernoon.com/a-senior-engineers-guide-to-scalable-and-reliable-system-design)
+### [238. A Senior Engineer’s Guide to Scalable & Reliable System Design](https://hackernoon.com/a-senior-engineers-guide-to-scalable-and-reliable-system-design)
 ![](https://cdn.hackernoon.com/images/system-design-vdmuv8bxtso89p4cy35h3q07.png)
 
 
-### [246. How CI/CD and Microservices Led to Kubernetes: Kube Explained Part 1](https://hackernoon.com/kube-explained-part-1-how-cicd-and-microservices-led-to-kubernetes-r1r3tgh)
+### [239. Why Data Consistency is Important in a Microservices Architecture](https://hackernoon.com/why-data-consistency-is-important-in-a-microservices-architecture)
+![](https://cdn.hackernoon.com/images/8Pgwf9zh8ofcrVpyJ48U91QqZjk1-m2g3nfj.jpeg)
+Data Consistency might be a pain in the ass. It is a well-known source of unexpected surprises. What is it? What does it depend on? Why is it so often overseen?
+
+### [240. The Origination of Microservices, and The Value They Create for Software Developers](https://hackernoon.com/the-origination-of-microservices-and-the-value-they-create-for-software-developers-today-5r333ydl)
+![](https://cdn.hackernoon.com/images/r1sc3wcl.jpg)
+What are Microservices exactly and how can you use them to work to your advantage? IT teams are always wanting to build new applications enabling specific functions for the ease of processes or customers. Sometimes, to balance projects, they allow distributed teams to work on focused targets using reusable assets, templates, and best practices. While decentralizing and democratizing application development helps, managing security can be a task for strategizing different Lines of Business (LoBs) and functional business partners.
+
+### [241. What Does REST in RESTful API?](https://hackernoon.com/what-does-rest-mean-x9gn3252)
+![](https://cdn.hackernoon.com/images/g8i832lr.jpg)
+Everyone talks about RESTful APIs. Everyone use RESTful APIs. It even seems like, everything has RESTful APIs.
+
+### [242. Microservice Architecture in Application Development: Advantages and Disadvantages](https://hackernoon.com/microservice-architecture-in-application-development-advantages-and-disadvantages)
+![](https://cdn.hackernoon.com/images/Lg3GSwToPlQKlwwujXA8JQtg9cm1-yu93ns8.jpeg)
+Microservice architecture is the optimal approach to software development. 
+
+### [243. Mastering Microservices: Building Effective Architecture Governance for Scalability and Stability](https://hackernoon.com/mastering-microservices-building-effective-architecture-governance-for-scalability-and-stability)
+![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-rd023m5.jpeg)
+Use the right tools to regain control of microservices with architecture governance to boost scalability, reduce complexity, and maintain system resiliency.
+
+### [244. Microservices? Why Not!](https://hackernoon.com/microservices-why-not)
+![](https://cdn.hackernoon.com/images/1jP4AN8YLrbDBYfB3aT5eoM6KS02-r9d31db.jpeg)
+The cost of microservices from a developer's perspective.
+
+### [245. Application Deployment: Recipe for Great Serverless Strategy](https://hackernoon.com/4-elements-of-a-great-serverless-application-deployment-strategy-h5b3zol)
+![](https://cdn.hackernoon.com/drafts/thry3z2m.png)
+This is true for the most part, but Serverless apps also have a certain property that can make their deployment and maintenance time consuming.
+
+### [246. How to Build a Decoupled Microservice Using Materialize](https://hackernoon.com/how-to-build-a-decoupled-microservices-using-materialize)
+![](https://cdn.hackernoon.com/images/tRW6o57hoNezh0iZnOdGsW3dKI02-ni93ilt.jpeg)
+One way to handle data in microservice architectures is to use decoupled microservices architecture. This form of architecture can bring many benefits.
+
+### [247. An Intro to .Net Microservices Application Architecture](https://hackernoon.com/an-intro-to-net-microservices-application-architecture-eo1l37x3)
+![](https://cdn.hackernoon.com/images/JfhStv1ETGTKdji5TWJ9610GJtr1-4zc035sw.jpeg)
+.Net Microservices is gaining massive popularity in the Tech market. Let's find out what actually is dot Net Microservices Application Architecture?
+
+### [248. How CI/CD and Microservices Led to Kubernetes: Kube Explained Part 1](https://hackernoon.com/kube-explained-part-1-how-cicd-and-microservices-led-to-kubernetes-r1r3tgh)
 ![](https://cdn.hackernoon.com/drafts/8v1n3tkm.png)
 Engineering teams have always had constant pressure to deliver software faster, cheaper, and more reliably. As a result, many of the recent trends in backend infrastructure have been driven by these factors.
 
-### [247. How You Can Reduce Costs on AWS Lambda](https://hackernoon.com/how-you-can-reduce-costs-on-aws-lambda-ik4j3wn3)
-![](https://cdn.hackernoon.com/images/na3z3wnp.jpg)
-As a Serverless computing service, Lambda already saves hundreds of thousands of dollars for many companies out there. While traditional server-based infrastructures usually lead to overprovisioning and waste, the Serverless pay-per-use model enables cost-effective cloud spending.
-
-### [248. Well-Architected Microservices](https://hackernoon.com/well-architected-microservices)
+### [249. Well-Architected Microservices](https://hackernoon.com/well-architected-microservices)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rm92aww.jpeg)
 This is a list of items that has helped me to build, run and scale microservices efficiently and securely.
 
-### [249. Benefits of Using Docker for Microservices: 2020 Edition](https://hackernoon.com/benefits-of-using-docker-for-microservices-2020-edition-pz9a3y45)
+### [250. How You Can Reduce Costs on AWS Lambda](https://hackernoon.com/how-you-can-reduce-costs-on-aws-lambda-ik4j3wn3)
+![](https://cdn.hackernoon.com/images/na3z3wnp.jpg)
+As a Serverless computing service, Lambda already saves hundreds of thousands of dollars for many companies out there. While traditional server-based infrastructures usually lead to overprovisioning and waste, the Serverless pay-per-use model enables cost-effective cloud spending.
+
+### [251. Benefits of Using Docker for Microservices: 2020 Edition](https://hackernoon.com/benefits-of-using-docker-for-microservices-2020-edition-pz9a3y45)
 ![](https://images.unsplash.com/photo-1550645612-83f5d594b671?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Docker is an innovative set of PaaS products that offer strategical and operational advantages for developing software applications. It reduces the expense incurred across the infrastructure and maintenance of software applications. 
 
-### [250. API-as-a-Service is the Next Step in the Software World's Evolution](https://hackernoon.com/api-as-a-service-is-the-next-step-in-the-software-worlds-evolution)
+### [252. API-as-a-Service is the Next Step in the Software World's Evolution](https://hackernoon.com/api-as-a-service-is-the-next-step-in-the-software-worlds-evolution)
 ![](https://cdn.hackernoon.com/images/L5eiuFSAXASevx2jDleH224C8ZM2-4n93moh.jpeg)
 APIs are the foundational building blocks on which the software world is being built.  What will the next wave of API-as-a-service winners look like?  
-
-### [251. Micro Frontends: Extending Microservices To Frontend Development](https://hackernoon.com/micro-frontends-extending-microservices-to-frontend-development)
-![](https://cdn.hackernoon.com/images/Lbx1v25fixdJYJjIybwU5KlPr9o2-cr037sj.jpeg)
-Extending The Microservice Idea To Frontend Development
-
-### [252. Distributed Denial Of Service (DDOS) Mitigation](https://hackernoon.com/distributed-denial-of-serviceddos-attack-mitigation-ig265301a)
-![](https://cdn.hackernoon.com/images/bqr3x3y.jpg)
-In the current age of big data and internet businesses it is a constant struggle for an organization to prevent data breaches and protect the data of their users. The current landscape of cyber security is still evolving and attempts are being made to use Artifical Intelligence to protect systems from attacks and data breaches.
 
 ### [253. Have We Reached the Age of Modularity Maturity?](https://hackernoon.com/have-we-reached-the-age-of-modularity-maturity)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-d392952.jpeg)
 while microservices come with their perks, the cons are so huge sometimes that they offset the pros. There are more manageable ways to achieve the same result.
 
-### [254. Templating in Software Development: Taking a Deeper Look](https://hackernoon.com/templating-in-software-development-taking-a-deeper-look)
+### [254. Micro Frontends: Extending Microservices To Frontend Development](https://hackernoon.com/micro-frontends-extending-microservices-to-frontend-development)
+![](https://cdn.hackernoon.com/images/Lbx1v25fixdJYJjIybwU5KlPr9o2-cr037sj.jpeg)
+Extending The Microservice Idea To Frontend Development
+
+### [255. Distributed Denial Of Service (DDOS) Mitigation](https://hackernoon.com/distributed-denial-of-serviceddos-attack-mitigation-ig265301a)
+![](https://cdn.hackernoon.com/images/bqr3x3y.jpg)
+In the current age of big data and internet businesses it is a constant struggle for an organization to prevent data breaches and protect the data of their users. The current landscape of cyber security is still evolving and attempts are being made to use Artifical Intelligence to protect systems from attacks and data breaches.
+
+### [256. Templating in Software Development: Taking a Deeper Look](https://hackernoon.com/templating-in-software-development-taking-a-deeper-look)
 ![](https://cdn.hackernoon.com/images/bK6famsVejQnj0vqeEXJK8YRaZX2-v892t1q.png)
 Explore how templating in software development can streamline your projects.
-
-### [255. How to Avoid Inconsistency Across Microservices](https://hackernoon.com/how-to-avoid-inconsistency-across-microservices)
-![](https://cdn.hackernoon.com/images/hoI4S7KpadhuZX1xs9IUD2zWQ113-2j94k5d.jpeg)
-In a microservice architecture, you can get dependencies that impose restrictions on the services used
-
-### [256. Messaging Pattern In Micro Service Integration](https://hackernoon.com/messaging-pattern-in-micro-service-integration)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-2q030lr.jpeg)
-This article provides information to developers who are considering microservice integration using Event Driven Architecture and Messaging.
 
 ### [257. How to Deploy a Spring Boot Application on Choreo](https://hackernoon.com/how-to-deploy-a-spring-boot-application-on-choreo)
 ![](https://cdn.hackernoon.com/images/vIeD0PLtUPYRYo9Ml8LMzs6iXZa2-bf93u48.png)
 Step by Step guide on running a SpringBoot Application on Choreo
 
-### [258. Improving Your Web-Based App With Micro Frontends](https://hackernoon.com/micro-frontends)
-![](https://cdn.hackernoon.com/images/R8cbpKzhckgtteks9CAGVh7VJqp2-0m93od6.png)
-In this blog post, we will explore what micro frontends are, why they are beneficial, how to implement them in your project, and potential uses
+### [258. Messaging Pattern In Micro Service Integration](https://hackernoon.com/messaging-pattern-in-micro-service-integration)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-2q030lr.jpeg)
+This article provides information to developers who are considering microservice integration using Event Driven Architecture and Messaging.
 
-### [259. Smart E-bike Kits: A Tour Inside Our Servers](https://hackernoon.com/smart-e-bike-kits-a-tour-inside-our-servers-mg5l3yem)
-![](https://cdn.hackernoon.com/drafts/p4n3y2r.png)
-The Idea
+### [259. How to Avoid Inconsistency Across Microservices](https://hackernoon.com/how-to-avoid-inconsistency-across-microservices)
+![](https://cdn.hackernoon.com/images/hoI4S7KpadhuZX1xs9IUD2zWQ113-2j94k5d.jpeg)
+In a microservice architecture, you can get dependencies that impose restrictions on the services used
 
-### [260. Containerization in 2023: 4 Tips for Successful Container Adoption](https://hackernoon.com/containerization-in-2023-4-tips-for-successful-container-adoption)
-![](https://cdn.hackernoon.com/images/47Pfq1SFBUfyjHHJyx5iRR4FnDs1-i993o54.jpeg)
-Four tips for laying a solid foundation and making sure you're ready to handle the challenges of operating containerized workloads in production.
+### [260. Why Observability Needs an AI On-Call Engineer](https://hackernoon.com/why-observability-needs-an-ai-on-call-engineer)
+![](https://cdn.hackernoon.com/images/tOnW1tifodbz2qt89xKj4ShidTo1-jh93e72.png)
+Modern observability detects failures but cannot explain them. Why incident response needs an AI on-call engineer to identify root causes faster.g
 
-### [261. Docker Basics to Get Your Feet Wet](https://hackernoon.com/docker-basics-to-get-your-feet-wet)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-qp93r5h.jpeg)
-In this article, we will be discussing the most important elements and tools around the Docker ecosystem when getting started as a beginner.
-
-### [262. SLI, SLO, and SLA: Your Terminology Guide](https://hackernoon.com/sli-slo-and-sla-your-terminology-guide)
+### [261. SLI, SLO, and SLA: Your Terminology Guide](https://hackernoon.com/sli-slo-and-sla-your-terminology-guide)
 ![](https://cdn.hackernoon.com/images/UEotafwfFeWNbpiTd8aMne1xKrD2-woa3gg0.png)
 Understanding SLI, SLO, and SLA is crucial for businesses.
 
-### [263. An In-Depth Look at Shopify Plus: The Last E-Commerce Monolith](https://hackernoon.com/an-in-depth-look-at-shopify-plus-the-last-e-commerce-monolith-ru2f37wa)
+### [262. Containerization in 2023: 4 Tips for Successful Container Adoption](https://hackernoon.com/containerization-in-2023-4-tips-for-successful-container-adoption)
+![](https://cdn.hackernoon.com/images/47Pfq1SFBUfyjHHJyx5iRR4FnDs1-i993o54.jpeg)
+Four tips for laying a solid foundation and making sure you're ready to handle the challenges of operating containerized workloads in production.
+
+### [263. Improving Your Web-Based App With Micro Frontends](https://hackernoon.com/micro-frontends)
+![](https://cdn.hackernoon.com/images/R8cbpKzhckgtteks9CAGVh7VJqp2-0m93od6.png)
+In this blog post, we will explore what micro frontends are, why they are beneficial, how to implement them in your project, and potential uses
+
+### [264. Docker Basics to Get Your Feet Wet](https://hackernoon.com/docker-basics-to-get-your-feet-wet)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-qp93r5h.jpeg)
+In this article, we will be discussing the most important elements and tools around the Docker ecosystem when getting started as a beginner.
+
+### [265. Smart E-bike Kits: A Tour Inside Our Servers](https://hackernoon.com/smart-e-bike-kits-a-tour-inside-our-servers-mg5l3yem)
+![](https://cdn.hackernoon.com/drafts/p4n3y2r.png)
+The Idea
+
+### [266. An In-Depth Look at Shopify Plus: The Last E-Commerce Monolith](https://hackernoon.com/an-in-depth-look-at-shopify-plus-the-last-e-commerce-monolith-ru2f37wa)
 ![](https://cdn.hackernoon.com/images/luNcoaJnkJhoplfHFMeY40nJYoJ3-ju19369e.jpeg)
 Platforms like Shopify Plus offer headless capabilities, but the real magic is in modular commerce technology. 
 
-### [264. The HTTP Status Codes You Need to Know](https://hackernoon.com/the-http-status-codes-you-need-to-know-l03w37qh)
-![](https://images.unsplash.com/photo-1503365113766-4a362681eac5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Working on the web means coming into contact with HTTP responses. Whether you spend your time primarily on the client or on the server, you're likely familiar with the popular ones like 200, 404, and 500. While memorizing all the codes using cat memes as a mnemonic can be helpful, let's dive deeper into what some of the most common codes mean.
-
-### [265. The Future of Integration-Platforms-as-a-Service (iPaaS)](https://hackernoon.com/the-future-of-integration-platforms-as-a-service-ipaas)
+### [267. The Future of Integration-Platforms-as-a-Service (iPaaS)](https://hackernoon.com/the-future-of-integration-platforms-as-a-service-ipaas)
 ![](https://cdn.hackernoon.com/images/l5zOLSJSCXbNFE632NiK1dIRRaI3-w9826da.jpeg)
 An analysis of the future direction of iPaaS, and the features and technologies that it is made up of. Introduces Choreo as a new generation iPaaS offering.
 
 
-### [266. The Ballerina Language and Platform Support for WebSockets](https://hackernoon.com/the-ballerina-language-and-platform-support-for-websockets-tv5k33wi)
+### [268. The HTTP Status Codes You Need to Know](https://hackernoon.com/the-http-status-codes-you-need-to-know-l03w37qh)
+![](https://images.unsplash.com/photo-1503365113766-4a362681eac5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Working on the web means coming into contact with HTTP responses. Whether you spend your time primarily on the client or on the server, you're likely familiar with the popular ones like 200, 404, and 500. While memorizing all the codes using cat memes as a mnemonic can be helpful, let's dive deeper into what some of the most common codes mean.
+
+### [269. The Ballerina Language and Platform Support for WebSockets](https://hackernoon.com/the-ballerina-language-and-platform-support-for-websockets-tv5k33wi)
 ![](https://cdn.hackernoon.com/images/l5zOLSJSCXbNFE632NiK1dIRRaI3-greg33i9.jpeg)
 WebSocket, used in full-duplex communication between web browsers and servers; let's take a look at how to implement this using Ballerina programming language. 
 
-### [267. Infrastructure as Code – Whose Responsibility Is It?](https://hackernoon.com/infrastructure-as-code---whose-responsibility-is-it)
+### [270. Infrastructure as Code – Whose Responsibility Is It?](https://hackernoon.com/infrastructure-as-code---whose-responsibility-is-it)
 ![](https://cdn.hackernoon.com/images/infrastructure-as-code-clj2ng8xl000101s66ddc97ak.png)
 In my experience, the development of microservice architecture and infrastructure go hand in hand. It's hard to imagine these tasks handled by separate teams.
 
-### [268. Web Application Development: Principles of Development Based on Microservices. Part 2.](https://hackernoon.com/web-application-development-principles-of-development-based-on-microservices-part-2)
+### [271. Utilizing Microservices on AWS: Moving Away from Monoliths](https://hackernoon.com/utilizing-microservices-on-aws-moving-away-from-monoliths)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ta93p02.jpeg)
+99% of the times you don't need microservices. For when you do, understand what they are, why use them, and how to split a monolith on AWS.
+
+### [272. Reliable Testing with Kafka: Isolation Techniques](https://hackernoon.com/streamlining-kafka-integration-testing-isolation-with-testcontainers-and-spring-boot-31)
+![](https://cdn.hackernoon.com/images/MQ5fUOiNSpXFtgak1Nkj9tyaEBL2-n28345b.jpeg)
+Kafka integration testing with Testcontainers and Spring Boot 3.1, ensuring test isolation and full message access for reliable and efficient tests.
+
+### [273. Web Application Development: Principles of Development Based on Microservices. Part 2.](https://hackernoon.com/web-application-development-principles-of-development-based-on-microservices-part-2)
 ![](https://cdn.hackernoon.com/images/Lg3GSwToPlQKlwwujXA8JQtg9cm1-kn93nyj.jpeg)
 To use a microservice architecture, the developer needs to study special technologies that are applicable for such web app development.
 
-### [269. Kafka Administration and Monitoring UI Tools](https://hackernoon.com/kafka-administration-and-monitoring-ui-tools-ksr2tta)
+### [274. Kafka Administration and Monitoring UI Tools](https://hackernoon.com/kafka-administration-and-monitoring-ui-tools-ksr2tta)
 ![](https://cdn.hackernoon.com/drafts/csyp2t26.png)
 Kafka itself comes with command line tools that can do all the 
 administration tasks, but those tools aren’t very convenient because 
 they are not integrated into one tool and you need to run a different 
 tool for different tasks. Moreover, it is getting difficult to work with them when your clusters grow large or when you have several clusters.
 
-### [270. Why Observability Needs an AI On-Call Engineer](https://hackernoon.com/why-observability-needs-an-ai-on-call-engineer)
-![](https://cdn.hackernoon.com/images/tOnW1tifodbz2qt89xKj4ShidTo1-jh93e72.png)
-Modern observability detects failures but cannot explain them. Why incident response needs an AI on-call engineer to identify root causes faster.g
+### [275. Why Understanding Infrastructure-as-code is Critical to Scaling Your Technology Infrastructure](https://hackernoon.com/why-understanding-infrastructure-as-code-is-critical-to-scaling-your-technology-infrastructure)
+![](https://cdn.hackernoon.com/images/QcUecoGJmUaHFSMQOD8G5r7ZSjz2-0xa3pg0.jpeg)
+Infrastructure as code (IaC) is one of the most important trends in modern IT development. Read about the benefits of IaC and how to implement it.
 
-### [271. Utilizing Microservices on AWS: Moving Away from Monoliths](https://hackernoon.com/utilizing-microservices-on-aws-moving-away-from-monoliths)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ta93p02.jpeg)
-99% of the times you don't need microservices. For when you do, understand what they are, why use them, and how to split a monolith on AWS.
-
-### [272. 5 Things Every Apache Kafka Dev Needs To Know: A Performance and Architectural Deep Dive](https://hackernoon.com/5-things-every-apache-kafka-dev-needs-to-know-a-performance-and-architectural-deep-dive-wp8i3408)
+### [276. 5 Things Every Apache Kafka Dev Needs To Know: A Performance and Architectural Deep Dive](https://hackernoon.com/5-things-every-apache-kafka-dev-needs-to-know-a-performance-and-architectural-deep-dive-wp8i3408)
 ![](https://cdn.hackernoon.com/images/tgvJj8JY30O04OhsS8g0ZonhbGx1-rc1n31gw.jpeg)
 Here are five tips on how Kafka works and how you can get started with Apache Kafka.
 
-### [273. Reliable Testing with Kafka: Isolation Techniques](https://hackernoon.com/streamlining-kafka-integration-testing-isolation-with-testcontainers-and-spring-boot-31)
-![](https://cdn.hackernoon.com/images/MQ5fUOiNSpXFtgak1Nkj9tyaEBL2-n28345b.jpeg)
-Kafka integration testing with Testcontainers and Spring Boot 3.1, ensuring test isolation and full message access for reliable and efficient tests.
-
-### [274. Microservices and the Golden age of Infrastructure Automation Tools](https://hackernoon.com/microservices-and-the-golden-age-of-infrastructure-automation-tools)
+### [277. Microservices and the Golden age of Infrastructure Automation Tools](https://hackernoon.com/microservices-and-the-golden-age-of-infrastructure-automation-tools)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-kn03oft.jpeg)
 The dramatic shift in infrastructure availability is one of the main catalysts for the advent of microservices.
 
-### [275. Monitoring & Orchestrating Your Microservices Landscape using Workflow Automation (Parts 4/5 of 7)](https://hackernoon.com/monitoring-and-orchestrating-your-microservices-landscape-using-workflow-automation-parts-45-of-7-kc1w3tnv)
+### [278. Monitoring & Orchestrating Your Microservices Landscape using Workflow Automation (Parts 4/5 of 7)](https://hackernoon.com/monitoring-and-orchestrating-your-microservices-landscape-using-workflow-automation-parts-45-of-7-kc1w3tnv)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvAucU4XF4pWwjzIjwAoX7Xs2Itc2-8x4t3uds.png?alt=media&token=a8e001a3-e6fb-4be1-96a3-1dec51e64448)
 
-
-### [276. OpenStack Top Interview Questions And Answers: 2020 Edition](https://hackernoon.com/openstack-top-interview-questions-and-answers-2020-edition-ko1kp33vl)
-![](https://cdn.hackernoon.com/drafts/2yw433ba.png)
-
-
-### [277. Time, Space, and DACs: The Way Ahead](https://hackernoon.com/time-space-and-dacs-the-way-ahead-yhbo36s8)
-![](https://cdn.hackernoon.com/drafts/tw25132n1.png)
-While regarding how to form a DAC, people are too optimistic or ideal. It seems DAC will start from scratch by itself when connecting people (it's definitely not, remember the Guild that the Mandalorian has joined, it is a typical DAC, you can see how complicated it is), no clear path was given or discussed so far. DAC would be the mainstream value creation entity in the Value Internet Era.
-
-### [278. Why Understanding Infrastructure-as-code is Critical to Scaling Your Technology Infrastructure](https://hackernoon.com/why-understanding-infrastructure-as-code-is-critical-to-scaling-your-technology-infrastructure)
-![](https://cdn.hackernoon.com/images/QcUecoGJmUaHFSMQOD8G5r7ZSjz2-0xa3pg0.jpeg)
-Infrastructure as code (IaC) is one of the most important trends in modern IT development. Read about the benefits of IaC and how to implement it.
 
 ### [279. Common Design Patterns for Building Resilient Systems (Retries & Circuit Breakers)](https://hackernoon.com/common-design-patterns-for-building-resilient-systems-retries-and-circuit-breakers)
 ![](https://cdn.hackernoon.com/images/Ost0Yu7R8YRpFW6b3mNIw0Oq2LX2-9j935xw.jpeg)
 We talk about two design patterns that highlight best practices for building resilient microservices architectures at scale. 
 
-### [280. Go Context Timeouts and External Calls: Cook Them Properly](https://hackernoon.com/go-context-timeouts-and-external-calls-cook-them-properly)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-8a93t5b.jpeg)
-Optimizing external service calls in Go with context package: balancing timeouts and performance for efficient operations.
+### [280. OpenStack Top Interview Questions And Answers: 2020 Edition](https://hackernoon.com/openstack-top-interview-questions-and-answers-2020-edition-ko1kp33vl)
+![](https://cdn.hackernoon.com/drafts/2yw433ba.png)
 
-### [281. Observability and Monitoring in a nutshell](https://hackernoon.com/observability-and-monitoring-in-a-nutshell)
+
+### [281. Time, Space, and DACs: The Way Ahead](https://hackernoon.com/time-space-and-dacs-the-way-ahead-yhbo36s8)
+![](https://cdn.hackernoon.com/drafts/tw25132n1.png)
+While regarding how to form a DAC, people are too optimistic or ideal. It seems DAC will start from scratch by itself when connecting people (it's definitely not, remember the Guild that the Mandalorian has joined, it is a typical DAC, you can see how complicated it is), no clear path was given or discussed so far. DAC would be the mainstream value creation entity in the Value Internet Era.
+
+### [282. Observability and Monitoring in a nutshell](https://hackernoon.com/observability-and-monitoring-in-a-nutshell)
 ![](https://cdn.hackernoon.com/images/qLR2YtmNmXZaUJh49E7BWmlwn0t1-upa3jy0.jpeg)
 A guide to understanding the concepts and differences between monitoring and observability.
 
-### [282. The Cacophonies of Distributed Systems](https://hackernoon.com/the-cacophonies-of-distributed-systems-umm3nky)
-![](https://cdn.hackernoon.com/drafts/d81o3nnj.png)
-If you have never heard about Deutsch + Gosling’s fallacies of distributed computing, you are missing out big time! I encourage you to check them out here. Those delusions are widely considered in the distributed systems field as some of the most painful assumptions any junior systems designer, or architect can make. I like to call them “career-limiting choices”.
+### [283. Going Beyond Spring: Exploring Vert.x for Reactive Java Development](https://hackernoon.com/going-beyond-spring-exploring-vertx-for-reactive-java-development)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-s1823gb.jpeg)
+Eclipse Vert.x vs Spring WebFlux a practical Java comparison of event-loop architecture, performance, and reactive programming with real code examples.
 
-### [283. How to Ensure the Success of Microservices-based Projects](https://hackernoon.com/how-to-ensure-the-success-of-microservices-based-projects-lj3e34my)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-eb13286k.jpeg)
-Microservices-based projects are a great idea to deliver products in less time and with great flexibility/agility. 
-
-### [284. 5 Common Step Function Issues](https://hackernoon.com/5-common-step-function-issues)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-w493lsf.jpeg)
-Here you will find the most common issues when working with Step Functions, especially when starting with the service.
-
-### [285. Building a Distributed Timer Service at Scale: Handling 100K Timers Per Second](https://hackernoon.com/building-a-distributed-timer-service-at-scale-handling-100k-timers-per-second)
+### [284. Building a Distributed Timer Service at Scale: Handling 100K Timers Per Second](https://hackernoon.com/building-a-distributed-timer-service-at-scale-handling-100k-timers-per-second)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-g1036n1.jpeg)
 This article details a horizontally scalable, distributed timer service achieving 100 K timer creations per second with millisecond precision.
 
-### [286. 3 Noteworthy Hacks For Your SaaS Product Global Expansion](https://hackernoon.com/3-noteworthy-hacks-for-your-saas-product-global-expansion)
-![](https://cdn.hackernoon.com/images/Ir0NSYizS0UX8DmCpdJCaEOrA4s1-sd034w6.jpeg)
-If you work for a SaaS company looking to expand into other markets, have this one a read and let me what you think!
+### [285. Go Context Timeouts and External Calls: Cook Them Properly](https://hackernoon.com/go-context-timeouts-and-external-calls-cook-them-properly)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-8a93t5b.jpeg)
+Optimizing external service calls in Go with context package: balancing timeouts and performance for efficient operations.
 
-### [287. Startups, Do You Really Want to Pay The Microservices Tax?](https://hackernoon.com/startups-do-you-really-want-to-pay-the-microservices-tax)
-![](https://cdn.hackernoon.com/images/qqQuQnB1axa4HS9uKXmxjdYUt2f1-2t12to2.png)
-Why early microservices can kill your startup’s velocity, and how monoliths help you ship faster and stay alive.
+### [286. 5 Common Step Function Issues](https://hackernoon.com/5-common-step-function-issues)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-w493lsf.jpeg)
+Here you will find the most common issues when working with Step Functions, especially when starting with the service.
 
-### [288. Deploy Your Application with Kafka and Docker in 20 Minutes ](https://hackernoon.com/deploy-your-application-with-kafka-and-docker-in-20-minutes)
+### [287. The Cacophonies of Distributed Systems](https://hackernoon.com/the-cacophonies-of-distributed-systems-umm3nky)
+![](https://cdn.hackernoon.com/drafts/d81o3nnj.png)
+If you have never heard about Deutsch + Gosling’s fallacies of distributed computing, you are missing out big time! I encourage you to check them out here. Those delusions are widely considered in the distributed systems field as some of the most painful assumptions any junior systems designer, or architect can make. I like to call them “career-limiting choices”.
+
+### [288. How to Ensure the Success of Microservices-based Projects](https://hackernoon.com/how-to-ensure-the-success-of-microservices-based-projects-lj3e34my)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-eb13286k.jpeg)
+Microservices-based projects are a great idea to deliver products in less time and with great flexibility/agility. 
+
+### [289. Deploy Your Application with Kafka and Docker in 20 Minutes ](https://hackernoon.com/deploy-your-application-with-kafka-and-docker-in-20-minutes)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-tna3prt.jpeg)
 In this tutorial, we'll walk you through how to use Docker, Kafka, and Kubernetes to deploy a simple application.
 
-### [289. Securing Real-World Microservices With gRPC And Istio Service Mesh](https://hackernoon.com/securing-real-world-microservices-with-grpc-and-istio-service-mesh-c31x3u73)
+### [290. Startups, Do You Really Want to Pay The Microservices Tax?](https://hackernoon.com/startups-do-you-really-want-to-pay-the-microservices-tax)
+![](https://cdn.hackernoon.com/images/qqQuQnB1axa4HS9uKXmxjdYUt2f1-2t12to2.png)
+Why early microservices can kill your startup’s velocity, and how monoliths help you ship faster and stay alive.
+
+### [291. 3 Noteworthy Hacks For Your SaaS Product Global Expansion](https://hackernoon.com/3-noteworthy-hacks-for-your-saas-product-global-expansion)
+![](https://cdn.hackernoon.com/images/Ir0NSYizS0UX8DmCpdJCaEOrA4s1-sd034w6.jpeg)
+If you work for a SaaS company looking to expand into other markets, have this one a read and let me what you think!
+
+### [292. Securing Real-World Microservices With gRPC And Istio Service Mesh](https://hackernoon.com/securing-real-world-microservices-with-grpc-and-istio-service-mesh-c31x3u73)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-dgy4v3a.jpeg?alt=media&token=9508cef4-a09f-4ea7-8162-cb75d9eacc92)
 
 
-### [290. Difference Between Spring MVC and Spring Boot](https://hackernoon.com/difference-between-spring-mvc-and-spring-boot-xrv3uys)
-![](https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Spring MVC is a framework that is used to build web applications. It follows the Model View Controller pattern. DispatcherServlet is the servlet that controls the flow of a request from view to controller. Since Spring 3.1, the Servlet 3 API is supported and we no longer need web.xml for configuring DispatcherServlet – instead, it is configured programmatically. 
-
-### [291. How to Use Kong Ingress Controller with Spring Boot Services](https://hackernoon.com/how-to-use-kong-ingress-controller-with-spring-boot-services)
+### [293. How to Use Kong Ingress Controller with Spring Boot Services](https://hackernoon.com/how-to-use-kong-ingress-controller-with-spring-boot-services)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-j593ks9.jpeg)
 Kong Ingress Controller allows users to include the power of Kong Gateway in existing Kubernetes implementations, all without much effort.
 
-### [292. Kafka Gotchas](https://hackernoon.com/kafka-gotchas-l814320y)
+### [294. Difference Between Spring MVC and Spring Boot](https://hackernoon.com/difference-between-spring-mvc-and-spring-boot-xrv3uys)
+![](https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Spring MVC is a framework that is used to build web applications. It follows the Model View Controller pattern. DispatcherServlet is the servlet that controls the flow of a request from view to controller. Since Spring 3.1, the Servlet 3 API is supported and we no longer need web.xml for configuring DispatcherServlet – instead, it is configured programmatically. 
+
+### [295. Kafka Gotchas](https://hackernoon.com/kafka-gotchas-l814320y)
 ![](https://cdn.hackernoon.com/drafts/mi1l32up.png)
 I’ve assisted several large clients in building a microservices-style architecture using Kafka as a messaging backbone, having a reasonably good understanding of its abilities and the use cases that really bring them out. But I’m not a Kafka apologist by any stretch; any technology that has gone through such a rapid adoption curve is bound to polarise its audience and rub certain developers up a wrong way, and Kafka is no exception. Like anything else, you need to invest a significant amount of time in getting across Kafka and event streaming in general, before you become fully proficient and can harness its might. And be prepared to face one or two frustrations, to put it mildly, along the way.
 
-### [293. Data-Driven Architecture: Patterns for Production](https://hackernoon.com/data-driven-architecture-patterns-for-production)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o6824u8.jpeg)
-What it is, why it scales—and how to run it in production with clear lineage and observability.
-
-### [294. Your Friendly Service Mesh for Abstract Network Architecture - Istio](https://hackernoon.com/istio-your-friendly-service-mesh-8qoj3zun)
+### [296. Your Friendly Service Mesh for Abstract Network Architecture - Istio](https://hackernoon.com/istio-your-friendly-service-mesh-8qoj3zun)
 ![](https://cdn.hackernoon.com/images/e53d3zmg.jpg)
 There is a new hype in the DevOps world: Istio and service meshes. But why exactly is everyone suddenly migrating to Istio? In this post, we will examine whether it actually makes sense to use Istio and in which use cases it may help you (as well as when it’s simply an overkill).
 
-### [295. Improving Security in your Microservices Architecture with Istio](https://hackernoon.com/improving-security-in-your-microservices-architecture-with-istio)
+### [297. Improving Security in your Microservices Architecture with Istio](https://hackernoon.com/improving-security-in-your-microservices-architecture-with-istio)
 ![](https://cdn.hackernoon.com/images/maEb7A0NgUU58vvWoqJZ6nug0Ik1-3y63aqx.jpeg)
 Security in a microservice architecture with Istio 1.12
 
-### [296. A Detailed Comparison of Monolithic and Microservices Architecture](https://hackernoon.com/a-detailed-comparison-of-monolithic-and-microservices-architecture)
+### [298. A Detailed Comparison of Monolithic and Microservices Architecture](https://hackernoon.com/a-detailed-comparison-of-monolithic-and-microservices-architecture)
 ![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-jj93omy.jpeg)
 o compare monolithic vs microservices pros and cons, we should have a look at the perks and pitfalls of each architecture first
 
-### [297. "We are all mad here." - 2021 Noonies Nominee ](https://hackernoon.com/we-are-all-mad-here-2021-noonies-nominee)
-![](https://cdn.hackernoon.com/images/BlBIttNGqzO1aF2OOzYkWig7w1V2-up127hg.jpeg)
-"I was passionate about technology and gaming which led me to choose this path as my career and I love every bit about it."
+### [299. Architecture for Compliance Scaling Microservices with DDD for High Volume Global Enterprise Systems](https://hackernoon.com/architecture-for-compliance-scaling-microservices-with-ddd-for-high-volume-global-enterprise-systems)
+![](https://cdn.hackernoon.com/images/AMqqeBm4qFS32MeRJPcWyAejo2T2-p923ean.jpeg)
+A technical case study on leveraging Domain-Driven Design (DDD) and Microservices to architect scalable tax compliance engines for high-volume global enterprise
 
-### [298. Building The Koyeb Serverless Engine: Why We Moved From Kubernetes to Nomad, Firecracker, and Kuma](https://hackernoon.com/building-the-koyeb-serverless-engine-why-we-moved-from-kubernetes-to-nomad-firecracker-and-kuma)
+### [300. Building The Koyeb Serverless Engine: Why We Moved From Kubernetes to Nomad, Firecracker, and Kuma](https://hackernoon.com/building-the-koyeb-serverless-engine-why-we-moved-from-kubernetes-to-nomad-firecracker-and-kuma)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-go037km.jpeg)
 We built our own serverless engine.  Here is our story of moving user workloads from Kubernetes to a custom stack based on Nomad, Firecracker, and Kuma.
 
-### [299. Did You Get That Thing I Sent To You? – The Rise of Event-Driven Architecture](https://hackernoon.com/did-you-get-that-thing-i-sent-you-the-rise-of-event-driven-architecture-is1km3zq6)
+### [301. How to Build Secure & Compressed Microservices in Symfony](https://hackernoon.com/how-to-build-secure-and-compressed-microservices-in-symfony)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-pj83ero.jpeg)
+A lightweight Symfony Messenger extension to transparently compress (gzdeflate) and encrypt (AES-256) large message payloads.
+
+### [302. "We are all mad here." - 2021 Noonies Nominee ](https://hackernoon.com/we-are-all-mad-here-2021-noonies-nominee)
+![](https://cdn.hackernoon.com/images/BlBIttNGqzO1aF2OOzYkWig7w1V2-up127hg.jpeg)
+"I was passionate about technology and gaming which led me to choose this path as my career and I love every bit about it."
+
+### [303. Did You Get That Thing I Sent To You? – The Rise of Event-Driven Architecture](https://hackernoon.com/did-you-get-that-thing-i-sent-you-the-rise-of-event-driven-architecture-is1km3zq6)
 ![](https://cdn.hackernoon.com/images/t7tp3zel.jpg)
 
 
-### [300. Steps Taken By Our Team To Build The eCars App Using Heroku And Salesforce](https://hackernoon.com/steps-taken-by-our-team-to-build-the-ecars-app-using-heroku-and-salesforce-ni1931zo)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-yvl28r6.jpeg?alt=media&token=27994e04-b821-4b4c-8155-952f2156085e)
-As someone who became a Salesforce developer “by accident” 10 years ago and parlayed that into a career and business, I’m fully aware of the dividends that investing in continuous learning and brushing up on the latest in my industry can yield.  Even after years of working in the Salesforce ecosystem, earning 11 certifications, and going through several hundred different projects, I’ve found it’s difficult to make the time to keep up with all the new tools and features of modern development (and usually I have the TrailheaDX and Dreamforce conferences each year to get caught up!).  
-
-### [301. New Spiral Cycle: Why Microservices Are Overrated](https://hackernoon.com/new-spiral-cycle-why-microservices-are-overrated)
-![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-bud3v9f.jpeg)
-Making out why Amazon, Netflix and others are going back to monolith
-
-### [302. Turbocharging AI Sentiment Analysis: How We Hit 50K RPS with GPU Micro-services](https://hackernoon.com/turbocharging-ai-sentiment-analysis-how-we-hit-50k-rps-with-gpu-micro-services)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8j02u8h.jpeg)
-The sentiment analysis stack was one big codebase for data ingestion, model inference, logging, and storage. It worked great, until traffic shot up.
-
-### [303. Distributed Tracing: Past, Present and Future](https://hackernoon.com/distributed-tracing-past-present-and-future)
+### [304. Distributed Tracing: Past, Present and Future](https://hackernoon.com/distributed-tracing-past-present-and-future)
 ![](https://cdn.hackernoon.com/images/0n1tzidZkxMWWQApOm4lqzRXBEC2-aa93rse.jpeg)
 Distributed Tracing is a divisive topic. Once the doyen of every KubeCon, the technology was expected to revolutionize observability.
 
-### [304. What is the ideal memory size to lower costs of running a task on Lambda?](https://hackernoon.com/what-is-the-ideal-memory-size-to-lower-costs-of-running-a-task-on-lambda-ui2x31qy)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-0g1y31o7.jpeg)
-Should you increase Lambda memory? It might sound crazy, but increasing your AWS Lambda memory could actually lower your bills. Find out how.
+### [305. New Spiral Cycle: Why Microservices Are Overrated](https://hackernoon.com/new-spiral-cycle-why-microservices-are-overrated)
+![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-bud3v9f.jpeg)
+Making out why Amazon, Netflix and others are going back to monolith
 
-### [305. When to Break the Monolith: Identifying Obstacles in Your Software](https://hackernoon.com/when-to-break-the-monolith-identifying-obstacles-in-your-software)
+### [306. Turbocharging AI Sentiment Analysis: How We Hit 50K RPS with GPU Micro-services](https://hackernoon.com/turbocharging-ai-sentiment-analysis-how-we-hit-50k-rps-with-gpu-micro-services)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8j02u8h.jpeg)
+The sentiment analysis stack was one big codebase for data ingestion, model inference, logging, and storage. It worked great, until traffic shot up.
+
+### [307. When to Break the Monolith: Identifying Obstacles in Your Software](https://hackernoon.com/when-to-break-the-monolith-identifying-obstacles-in-your-software)
 ![](https://cdn.hackernoon.com/images/biQ8HOJ4bOTIr38QBVHJmqjCnrq2-nu93r75.jpeg)
 There are six surefire signals that point to it being time to pivot from monolithic architecture to microservices or modular architecture.
 
-### [306. Alibaba Cloud’s OpenSergo & ShardingSphere Release Database Governance Standard for Microservices](https://hackernoon.com/alibaba-clouds-opensergo-and-shardingsphere-release-database-governance-standard-for-microservices)
+### [308. Steps Taken By Our Team To Build The eCars App Using Heroku And Salesforce](https://hackernoon.com/steps-taken-by-our-team-to-build-the-ecars-app-using-heroku-and-salesforce-ni1931zo)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-yvl28r6.jpeg?alt=media&token=27994e04-b821-4b4c-8155-952f2156085e)
+As someone who became a Salesforce developer “by accident” 10 years ago and parlayed that into a career and business, I’m fully aware of the dividends that investing in continuous learning and brushing up on the latest in my industry can yield.  Even after years of working in the Salesforce ecosystem, earning 11 certifications, and going through several hundred different projects, I’ve found it’s difficult to make the time to keep up with all the new tools and features of modern development (and usually I have the TrailheaDX and Dreamforce conferences each year to get caught up!).  
+
+### [309. Alibaba Cloud’s OpenSergo & ShardingSphere Release Database Governance Standard for Microservices](https://hackernoon.com/alibaba-clouds-opensergo-and-shardingsphere-release-database-governance-standard-for-microservices)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-z292cr0.jpeg)
 ShardingSphere partners with Alibaba Cloud's OpenSergo to combine Database Plus & Database Mesh and release a database governance standard for microservices. 
 
-### [307. Exploring DevOps Metrics in Human Terms - Part 1](https://hackernoon.com/exploring-devops-metrics-in-human-terms-part-1)
+### [310. What is the ideal memory size to lower costs of running a task on Lambda?](https://hackernoon.com/what-is-the-ideal-memory-size-to-lower-costs-of-running-a-task-on-lambda-ui2x31qy)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-0g1y31o7.jpeg)
+Should you increase Lambda memory? It might sound crazy, but increasing your AWS Lambda memory could actually lower your bills. Find out how.
+
+### [311. Exploring DevOps Metrics in Human Terms - Part 1](https://hackernoon.com/exploring-devops-metrics-in-human-terms-part-1)
 ![](https://cdn.hackernoon.com/images/YKz3x9pHcXQI5l23jODmSYg90CC2-fo83u13.png)
 I discuss metrics in DevOps in human terms. I write about metrics vs. logs, TSDB (Time Series Database), Prometheus: server, clients, data format, cardinality
 
-### [308. How To Create a Simple Application Using Golangspell](https://hackernoon.com/how-to-create-a-simple-application-using-golangspell-3i123tam)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBf98Q2nQv6ZUrdTBaIFV0G0KWeJ2-b1313u68.jpeg?alt=media&token=d5707d06-2735-4a7f-978e-90042fb4e2d4)
-For a couple of years I've been working with Golang, is such a great experience, Golang is a great language, in my opinion, simple, fast, and focused on high performance. But, not only it can help us to create a microservice that is fast, but we can also code quite quickly.
-
-### [309. Node.js Performance: The Stuff I Wish Someone Had Told Me](https://hackernoon.com/nodejs-performance-the-stuff-i-wish-someone-had-told-me)
-![](https://cdn.hackernoon.com/images/performance-abstract-artstyle-q2atrzxcq9opzikufptdy2mp.png)
-I have been in the tech industry for more than a decade, and during this time, I must admit I have broken production multiple times. 
-
-### [310. Introduction to Containers, Microservices on Kubernetes](https://hackernoon.com/introduction-to-containers-microservices-on-kubernetes-991m35av)
-![](https://cdn.hackernoon.com/images/GSN9VJGOaZXMU6zEAhjLZYX4ZXW2-fg6h35k2.jpeg)
-Containers and Microservices have become the most popular way for new software deployments, and for application re-factoring, such as twelve factor apps.
-
-### [311. The Noonification: Ubers Secret Algorithm to Calculate Fares (9/22/2022)](https://hackernoon.com/9-22-2022-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-9/22/2022: Top 5 stories on the Hackernoon homepage!
-
-### [312. How to Optimize Large Scale Serverless Applications for Operational Excellence](https://hackernoon.com/how-to-optimize-large-scale-serverless-applications-for-operational-excellence-0n4m3w35)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-zs93w4v.jpeg?alt=media&token=9e9c1d94-3eaa-4f68-b201-a717088c7820)
-Managing applications at scale often comes up as one of the biggest concerns for businesses; How can it work smoothly? How do we monitor so many resources? How do we maintain best practices with constantly evolving infrastructure? In this article, we run through the best approach for operational excellence looking at serverless monitoring strategy, serverless alerting strategy, and security and compliance best practices. 
-
-### [313. 5 Common Amazon Kinesis Issues](https://hackernoon.com/5-common-amazon-kinesis-issues)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-2693lq7.jpeg)
-AWS Kinesis is a professional tool that comes with its share of complications. This article will discuss the most common issues and explain how to fix them. 
-
-### [314. "Do You Think You Know What it Takes to Tell The User It's Their Birthday?"](https://hackernoon.com/do-you-think-you-know-what-it-takes-to-tell-the-user-its-their-birthday-tgj32og)
-![](https://cdn.hackernoon.com/images/zxgq2e60.jpg)
-
-
-### [315. In Defense of the Cloud](https://hackernoon.com/in-defense-of-the-cloud-b7b8a6ab27ff)
-![](https://cdn.hackernoon.com/hn-images/1*FV-dwTX_EBGQPzZYnQgSkg.jpeg)
-The cloud has taken a PR beating recently. Two systems seemingly too big to fail did: CloudFlare and AWS S3. The former was a security issue that caused sensitive data to show up in search results, the latter brought nearly the entire Internet down for the better part of a day on February 28, 2017.
-
-### [316. Using KubeMQ Bridges to Communicate Between Edge and Cloud Clusters](https://hackernoon.com/using-kubemq-bridges-to-communicate-between-edge-and-cloud-clusters-1g5335wc)
-![](https://cdn.hackernoon.com/images/XdTrpTXzxMgVm8F4Ctu32oQWJki2-pw4e2657.jpeg)
-Struggling to communicate between your edge sources and the home cloud? Messaging could be the solution.
-
-### [317. Building Your First Node-RED Flow: Basic Tutorial](https://hackernoon.com/building-your-first-node-red-flow-basic-tutorial-fr1h34vk)
-![](https://cdn.hackernoon.com/images/EVKIyOE5g0e70Zsmj3IswB8Udbk2-1a3p3fhm.jpeg)
-This post introduces a deep dive video tutorial where I teach you the fundamentals of Node-RED and at the same time, show you how to build a Weather dash
-
-### [318. Unadulterated Thoughts on The (Micro)service Approach](https://hackernoon.com/unadulterated-thoughts-on-the-microservice-approach-rr2e34j3)
-![](https://cdn.hackernoon.com/images/uhOzFmjZ9faCfeASQoSY4RdK9az2-qk7r21rp.jpeg)
-Have you heard of microservices? Of course, you have - any housewife already knows how to deploy them on a k8s cluster. Here is some thinking about them.
-
-### [319. Choreography: A Path to Effective Application Integration](https://hackernoon.com/choreography-a-path-to-effective-application-integration)
-![](https://cdn.hackernoon.com/images/LDioVzaiK9P4OJrRVWK1m33EOh83-1ha3wbi.jpeg)
-Microservices Choreography is more than just eventing mechanism, it's also a tool to integrate legacy systems with new ones in a non-invasive manner.
-
-### [320. Modernizing Legacy E-Commerce Platforms: From Oracle ATG To Cloud-Native Architectures](https://hackernoon.com/modernizing-legacy-e-commerce-platforms-from-oracle-atg-to-cloud-native-architectures)
-![](https://cdn.hackernoon.com/images/modernizing-cloud-native-architectures-lqukyyvwtys9scadj8ffexju.png)
-Today, as consumers, we expect a seamless experience across device and channel, and that experience is expected to be fast.
-
-### [321. When ML Meets Microservices: Engineering for Scalability and Performance](https://hackernoon.com/when-ml-meets-microservices-engineering-for-scalability-and-performance)
-![](https://cdn.hackernoon.com/images/LScyEEDAJQQCLLt1JDReovQvOm03-0i035ze.png)
-Discover how combining machine learning with microservices architecture enables scalable, high-performance systems by leveraging modular design, efficient data 
-
-### [322. AWS Re:Invent 2021: The Most Important Updates](https://hackernoon.com/aws-reinvent-2021-the-most-important-updates)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-6k037v5.jpeg)
-Find out what were the 22 most important serverless updates from re:Invent 2021. Announcements, updates and more - serverless edition >>
-
-### [323. Languages and Architecture — The Importance of Being Language/Architecture Agnostic](https://hackernoon.com/languages-and-architecture-the-importance-of-being-languagearchitecture-agnostic)
-![](https://cdn.hackernoon.com/images/BuFudq5u1iNvNZzYijHZxw7PX5Y2-vh83w7l.jpeg)
-We shouldn't blindly follow all mainstream trends. Rather, we should carefully decide which architecture to choose. 
-
-### [324. Containers 101: Kube Explained Part 2](https://hackernoon.com/containers-101-kube-explained-part-2-1shi36dg)
-![](https://cdn.hackernoon.com/drafts/dl1l3xke.png)
-In our previous post, Kube Explained: Part 1, I described how the introduction of the cloud resulted in CI/CD, Microservices, and a massive amount of pressure to standardize backend infrastructure tooling.
-
-### [325. Micronaut vs Quarkus vs Spring: The 2026 Java Framework Shootout](https://hackernoon.com/micronaut-vs-quarkus-vs-spring-the-2026-java-framework-shootout)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-m8823fd.jpeg)
-Spring Boot, Quarkus, or Micronaut? A practical 2026 comparison of startup speed, memory, DI, and developer experience for Java microservices.
-
-### [326. Comparing Web Development Architectures: Headless vs Decoupled vs Traditional](https://hackernoon.com/comparing-web-development-architecture-headless-vs-decoupled-vs-traditional)
-![](https://cdn.hackernoon.com/images/ePQndQZnN5VLv3YAqt7I4iFTpNG3-zd93pl7.jpeg)
-Get a detailed insight into the differences between traditional, decoupled and headless architecture and decide which architecture may best fit your business.
-
-### [327. You Split Up Your Monolith—Now API Gateways Are Here to Save Your Butt](https://hackernoon.com/you-split-up-your-monolithnow-api-gateways-are-here-to-save-your-butt)
-![](https://cdn.hackernoon.com/images/api-gateway-p87wllrnot82tqiub1gvc8m9.png)
-Microservices are great… until they aren’t. 
-
-### [328. All It Took Was a $300/Month No-Code Stack to Scale a SaaS Marketplace to 10,000+ Users](https://hackernoon.com/all-it-took-was-a-$300month-no-code-stack-to-scale-a-saas-marketplace-to-10000-users)
-![](https://cdn.hackernoon.com/images/ltSU18V5HHNklBC0ZFPkb3h9XKz1-n4038y4.jpeg)
- Discover how Microns.io built and scaled a SaaS marketplace to 10K+ users using a $300/month no-code stack with Webflow, Wized, and Xano.
-
-### [329. Why Your Microservice Architecture Is a Theory of Reality](https://hackernoon.com/why-your-microservice-architecture-is-a-theory-of-reality)
+### [312. Why Your Microservice Architecture Is a Theory of Reality](https://hackernoon.com/why-your-microservice-architecture-is-a-theory-of-reality)
 ![](https://cdn.hackernoon.com/images/a-futuristic-visualization-showing-cloud-microservices-as-glowing-biological-cells-connected-through-membranes-and-neural-like-pathways-inside-a-vast-digital-ecosystem-cskkhsh9945xdd8kt24edwus.png)
 Distributed systems aren't just code; they're digital organisms. Explore how the Free Energy Principle and Markov blankets define modern software architecture.
 
-### [330. How to Set up a Local K8s Cluster Using KinD](https://hackernoon.com/how-to-set-up-a-local-k8s-cluster-using-kind)
-![](https://cdn.hackernoon.com/images/rZMCE2UpBzcfW27eMzbfUXKV7Tv1-ohc2gni.png)
-App Development and Testing on locally created Kubernetes Cluster. KinD is used for creating local K8s Cluster.
+### [313. How To Create a Simple Application Using Golangspell](https://hackernoon.com/how-to-create-a-simple-application-using-golangspell-3i123tam)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBf98Q2nQv6ZUrdTBaIFV0G0KWeJ2-b1313u68.jpeg?alt=media&token=d5707d06-2735-4a7f-978e-90042fb4e2d4)
+For a couple of years I've been working with Golang, is such a great experience, Golang is a great language, in my opinion, simple, fast, and focused on high performance. But, not only it can help us to create a microservice that is fast, but we can also code quite quickly.
 
-### [331. How FIFO Mechanisms in Message Brokers Ensure Message Order](https://hackernoon.com/how-fifo-mechanisms-in-message-brokers-ensure-message-order)
+### [314. Why Your Kubernetes Platform Team Is Still Answering Tickets in 2026](https://hackernoon.com/why-your-kubernetes-platform-team-is-still-answering-tickets-in-2026)
+![](https://cdn.hackernoon.com/images/4CCGZ2Mk4ydD5i9LLqnY3mRNHLk1-oy83e2j.png)
+Kubernetes scaling breaks without governance. Learn how Namespace-as-a-Service (NaaS) fixes sprawl with policy-first design, GitOps, and automation.
+
+### [315. Introduction to Containers, Microservices on Kubernetes](https://hackernoon.com/introduction-to-containers-microservices-on-kubernetes-991m35av)
+![](https://cdn.hackernoon.com/images/GSN9VJGOaZXMU6zEAhjLZYX4ZXW2-fg6h35k2.jpeg)
+Containers and Microservices have become the most popular way for new software deployments, and for application re-factoring, such as twelve factor apps.
+
+### [316. The Noonification: Ubers Secret Algorithm to Calculate Fares (9/22/2022)](https://hackernoon.com/9-22-2022-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+9/22/2022: Top 5 stories on the Hackernoon homepage!
+
+### [317. Node.js Performance: The Stuff I Wish Someone Had Told Me](https://hackernoon.com/nodejs-performance-the-stuff-i-wish-someone-had-told-me)
+![](https://cdn.hackernoon.com/images/performance-abstract-artstyle-q2atrzxcq9opzikufptdy2mp.png)
+I have been in the tech industry for more than a decade, and during this time, I must admit I have broken production multiple times. 
+
+### [318. 5 Common Amazon Kinesis Issues](https://hackernoon.com/5-common-amazon-kinesis-issues)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-2693lq7.jpeg)
+AWS Kinesis is a professional tool that comes with its share of complications. This article will discuss the most common issues and explain how to fix them. 
+
+### [319. How to Optimize Large Scale Serverless Applications for Operational Excellence](https://hackernoon.com/how-to-optimize-large-scale-serverless-applications-for-operational-excellence-0n4m3w35)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-zs93w4v.jpeg?alt=media&token=9e9c1d94-3eaa-4f68-b201-a717088c7820)
+Managing applications at scale often comes up as one of the biggest concerns for businesses; How can it work smoothly? How do we monitor so many resources? How do we maintain best practices with constantly evolving infrastructure? In this article, we run through the best approach for operational excellence looking at serverless monitoring strategy, serverless alerting strategy, and security and compliance best practices. 
+
+### [320. Building Your First Node-RED Flow: Basic Tutorial](https://hackernoon.com/building-your-first-node-red-flow-basic-tutorial-fr1h34vk)
+![](https://cdn.hackernoon.com/images/EVKIyOE5g0e70Zsmj3IswB8Udbk2-1a3p3fhm.jpeg)
+This post introduces a deep dive video tutorial where I teach you the fundamentals of Node-RED and at the same time, show you how to build a Weather dash
+
+### [321. "Do You Think You Know What it Takes to Tell The User It's Their Birthday?"](https://hackernoon.com/do-you-think-you-know-what-it-takes-to-tell-the-user-its-their-birthday-tgj32og)
+![](https://cdn.hackernoon.com/images/zxgq2e60.jpg)
+
+
+### [322. Why Microservices Struggle With AI Systems](https://hackernoon.com/why-microservices-struggle-with-ai-systems)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-m803bfo.png)
+Microservices become unpredictable with AI. Learn why AI breaks traditional assumptions and how to design resilient, failure-ready systems.b
+
+### [323. Orchestration vs. Choreography: Navigating the Trade-offs of Modern System Design](https://hackernoon.com/orchestration-vs-choreography-navigating-the-trade-offs-of-modern-system-design)
+![](https://cdn.hackernoon.com/images/orchestra-watercolor-hyc0a8bqdygahtie82bi78d1.png)
+
+
+### [324. Choreography: A Path to Effective Application Integration](https://hackernoon.com/choreography-a-path-to-effective-application-integration)
+![](https://cdn.hackernoon.com/images/LDioVzaiK9P4OJrRVWK1m33EOh83-1ha3wbi.jpeg)
+Microservices Choreography is more than just eventing mechanism, it's also a tool to integrate legacy systems with new ones in a non-invasive manner.
+
+### [325. In Defense of the Cloud](https://hackernoon.com/in-defense-of-the-cloud-b7b8a6ab27ff)
+![](https://cdn.hackernoon.com/hn-images/1*FV-dwTX_EBGQPzZYnQgSkg.jpeg)
+The cloud has taken a PR beating recently. Two systems seemingly too big to fail did: CloudFlare and AWS S3. The former was a security issue that caused sensitive data to show up in search results, the latter brought nearly the entire Internet down for the better part of a day on February 28, 2017.
+
+### [326. Using KubeMQ Bridges to Communicate Between Edge and Cloud Clusters](https://hackernoon.com/using-kubemq-bridges-to-communicate-between-edge-and-cloud-clusters-1g5335wc)
+![](https://cdn.hackernoon.com/images/XdTrpTXzxMgVm8F4Ctu32oQWJki2-pw4e2657.jpeg)
+Struggling to communicate between your edge sources and the home cloud? Messaging could be the solution.
+
+### [327. Unadulterated Thoughts on The (Micro)service Approach](https://hackernoon.com/unadulterated-thoughts-on-the-microservice-approach-rr2e34j3)
+![](https://cdn.hackernoon.com/images/uhOzFmjZ9faCfeASQoSY4RdK9az2-qk7r21rp.jpeg)
+Have you heard of microservices? Of course, you have - any housewife already knows how to deploy them on a k8s cluster. Here is some thinking about them.
+
+### [328. Modernizing Legacy E-Commerce Platforms: From Oracle ATG To Cloud-Native Architectures](https://hackernoon.com/modernizing-legacy-e-commerce-platforms-from-oracle-atg-to-cloud-native-architectures)
+![](https://cdn.hackernoon.com/images/modernizing-cloud-native-architectures-lqukyyvwtys9scadj8ffexju.png)
+Today, as consumers, we expect a seamless experience across device and channel, and that experience is expected to be fast.
+
+### [329. When ML Meets Microservices: Engineering for Scalability and Performance](https://hackernoon.com/when-ml-meets-microservices-engineering-for-scalability-and-performance)
+![](https://cdn.hackernoon.com/images/LScyEEDAJQQCLLt1JDReovQvOm03-0i035ze.png)
+Discover how combining machine learning with microservices architecture enables scalable, high-performance systems by leveraging modular design, efficient data 
+
+### [330. AWS Re:Invent 2021: The Most Important Updates](https://hackernoon.com/aws-reinvent-2021-the-most-important-updates)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-6k037v5.jpeg)
+Find out what were the 22 most important serverless updates from re:Invent 2021. Announcements, updates and more - serverless edition >>
+
+### [331. Languages and Architecture — The Importance of Being Language/Architecture Agnostic](https://hackernoon.com/languages-and-architecture-the-importance-of-being-languagearchitecture-agnostic)
+![](https://cdn.hackernoon.com/images/BuFudq5u1iNvNZzYijHZxw7PX5Y2-vh83w7l.jpeg)
+We shouldn't blindly follow all mainstream trends. Rather, we should carefully decide which architecture to choose. 
+
+### [332. The WAF Said Nothing. The IDS Said Nothing. The ML Model Said "Block This." Here's How We Built That](https://hackernoon.com/the-waf-said-nothing-the-ids-said-nothing-the-ml-model-said-block-this-heres-how-we-built-that)
+![](https://cdn.hackernoon.com/images/P33KyhVWZ1QiAIO4GvOAnc7YAvB3-9oe3fdv.png)
+You don't need to know what an attack looks like. You need to know what normal looks like. Here's how AWS Lambda and SageMaker make that possible in production.
+
+### [333. You Split Up Your Monolith—Now API Gateways Are Here to Save Your Butt](https://hackernoon.com/you-split-up-your-monolithnow-api-gateways-are-here-to-save-your-butt)
+![](https://cdn.hackernoon.com/images/api-gateway-p87wllrnot82tqiub1gvc8m9.png)
+Microservices are great… until they aren’t. 
+
+### [334. Comparing Web Development Architectures: Headless vs Decoupled vs Traditional](https://hackernoon.com/comparing-web-development-architecture-headless-vs-decoupled-vs-traditional)
+![](https://cdn.hackernoon.com/images/ePQndQZnN5VLv3YAqt7I4iFTpNG3-zd93pl7.jpeg)
+Get a detailed insight into the differences between traditional, decoupled and headless architecture and decide which architecture may best fit your business.
+
+### [335. Containers 101: Kube Explained Part 2](https://hackernoon.com/containers-101-kube-explained-part-2-1shi36dg)
+![](https://cdn.hackernoon.com/drafts/dl1l3xke.png)
+In our previous post, Kube Explained: Part 1, I described how the introduction of the cloud resulted in CI/CD, Microservices, and a massive amount of pressure to standardize backend infrastructure tooling.
+
+### [336. All It Took Was a $300/Month No-Code Stack to Scale a SaaS Marketplace to 10,000+ Users](https://hackernoon.com/all-it-took-was-a-$300month-no-code-stack-to-scale-a-saas-marketplace-to-10000-users)
+![](https://cdn.hackernoon.com/images/ltSU18V5HHNklBC0ZFPkb3h9XKz1-n4038y4.jpeg)
+ Discover how Microns.io built and scaled a SaaS marketplace to 10K+ users using a $300/month no-code stack with Webflow, Wized, and Xano.
+
+### [337. How FIFO Mechanisms in Message Brokers Ensure Message Order](https://hackernoon.com/how-fifo-mechanisms-in-message-brokers-ensure-message-order)
 ![](https://cdn.hackernoon.com/images/distributed-systems-ahg3ef33jc4yf3xd7kkgyh7s.png)
 Explore the First In First Out (FIFO) mechanism in message brokers and learn how to maintain message order across different systems.
 
-### [332. AWS Core Services: Major Serverless Tools That You Should Use](https://hackernoon.com/aws-core-services-major-serverless-tools-that-you-should-use-zk293ui2)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-l01v3uet.gif?alt=media&token=a4c62782-036b-4369-938e-2bbc469cc688)
-When first looking into serverless migration and its architecture, it can feel like you’re staring down an endless shopping aisle of critical serverless tools that all need to be put into your basket straight away. Some services seem to offer the same function, while others can feel wildly different - both, as a result, can instill some doubts as to what is really necessary for your business and serverless application.
+### [338. How to Set up a Local K8s Cluster Using KinD](https://hackernoon.com/how-to-set-up-a-local-k8s-cluster-using-kind)
+![](https://cdn.hackernoon.com/images/rZMCE2UpBzcfW27eMzbfUXKV7Tv1-ohc2gni.png)
+App Development and Testing on locally created Kubernetes Cluster. KinD is used for creating local K8s Cluster.
 
-### [333. CAP Theorem - 5 Essential Questions for Designing a Distributed Architecture](https://hackernoon.com/cap-theorem-5-essential-questions-for-designing-a-distributed-architecture)
+### [339. CAP Theorem - 5 Essential Questions for Designing a Distributed Architecture](https://hackernoon.com/cap-theorem-5-essential-questions-for-designing-a-distributed-architecture)
 ![](https://cdn.hackernoon.com/images/XMR3qaXQDkPxikfvuez26vv5YVn1-wjf3625.jpeg)
 The CAP Theorem is a fundamental limitation in the world of distributed systems.
 
-### [334. Event Sourcing 101](https://hackernoon.com/event-sourcing-101)
-![](https://cdn.hackernoon.com/images/9DGvEbbd20S6wIuDCTcX9gr5quL2-k903tpb.jpeg)
-In this article I will describe what is event sourcing, how it works, what are the implications, and how to make a basic implementation
-
-### [335. How To Dismantle Monolithic Apps](https://hackernoon.com/how-to-dismantle-monolithic-apps-zs1234nz)
+### [340. How To Dismantle Monolithic Apps](https://hackernoon.com/how-to-dismantle-monolithic-apps-zs1234nz)
 ![](https://hackernoon.com/images/zDxKiOq2XxYxNbFVaHVWf50Nhww1-27d34af.jpeg)
 Monolith breakup strategies technical and project management
 
-### [336. 3 ways of recycling third-party code for AWS Lambda](https://hackernoon.com/3-ways-of-recycling-third-party-code-for-aws-lambda-s51h33jr)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-nt3533b6.jpeg)
-In this article, we're discussing AWS Lambda Layers, Lambda Extensions, and Docker image for Lambda. How and when to use which?
+### [341. AWS Core Services: Major Serverless Tools That You Should Use](https://hackernoon.com/aws-core-services-major-serverless-tools-that-you-should-use-zk293ui2)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-l01v3uet.gif?alt=media&token=a4c62782-036b-4369-938e-2bbc469cc688)
+When first looking into serverless migration and its architecture, it can feel like you’re staring down an endless shopping aisle of critical serverless tools that all need to be put into your basket straight away. Some services seem to offer the same function, while others can feel wildly different - both, as a result, can instill some doubts as to what is really necessary for your business and serverless application.
 
-### [337. What Does Serverless Have In Common With Nutella?](https://hackernoon.com/what-does-serverless-have-in-common-with-nutella-x21s3yjn)
+### [342. Your API Is Not Plumbing. It’s the Product.](https://hackernoon.com/your-api-is-not-plumbing-its-the-product)
+![](https://substackcdn.com/image/fetch/$s_!k44g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcd4bf24-2b2d-4acc-8c26-459f15d7b556_1024x1024.jpeg)
+A technically perfect API with zero adoption is worthless. 
+
+### [343. Event Sourcing 101](https://hackernoon.com/event-sourcing-101)
+![](https://cdn.hackernoon.com/images/9DGvEbbd20S6wIuDCTcX9gr5quL2-k903tpb.jpeg)
+In this article I will describe what is event sourcing, how it works, what are the implications, and how to make a basic implementation
+
+### [344. What Does Serverless Have In Common With Nutella?](https://hackernoon.com/what-does-serverless-have-in-common-with-nutella-x21s3yjn)
 ![](https://cdn.hackernoon.com/images/ze5z3wrn.jpg)
 There is an interesting discussion going on around how Serverless is more of a spectrum rather than a binary choice.
 
-### [338. Event Streaming vs Event Sourcing: Maximizing Business Efficiency](https://hackernoon.com/event-streaming-vs-event-sourcing-maximizing-business-efficiency)
+### [345. Event Streaming vs Event Sourcing: Maximizing Business Efficiency](https://hackernoon.com/event-streaming-vs-event-sourcing-maximizing-business-efficiency)
 ![](https://cdn.hackernoon.com/images/qiQzyjN6LvaRDmVgSbd9gXT8bty2-isb3p6l.jpeg)
 What’s the difference between event streaming and event sourcing? When is the right time to choose either pattern? In this post, we look at each approach.
 
-### [339. Managing the First Fallacy of Distributed Computing](https://hackernoon.com/managing-the-first-fallacy-of-distributed-computing)
-![](https://cdn.hackernoon.com/images/LDioVzaiK9P4OJrRVWK1m33EOh83-z293xxd.jpeg)
-Network reliability is one of the most basic mistakes made by microservices developers, let's see how to factor this unreliability when writing microservices.
+### [346. 3 ways of recycling third-party code for AWS Lambda](https://hackernoon.com/3-ways-of-recycling-third-party-code-for-aws-lambda-s51h33jr)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-nt3533b6.jpeg)
+In this article, we're discussing AWS Lambda Layers, Lambda Extensions, and Docker image for Lambda. How and when to use which?
 
-### [340. Headless CMS Pitfalls](https://hackernoon.com/what-they-dont-tell-you-about-headless-cms)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-g593z99.jpeg)
-Reflections on two headless CMS implementation projects.
+### [347. Why Your Retry Logic Is Taking Down Your System (And How to Fix It)](https://hackernoon.com/why-your-retry-logic-is-taking-down-your-system-and-how-to-fix-it)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-ny03byy.png)
+Naive retry logic can cause retry storms in distributed systems, amplifying failures and leading to cascading outages. Learn safer retry strategies.C
 
-### [341. A Futuristic Outlook That Augmented Profitability: The New York Times Went Cloud Native with GKE](https://hackernoon.com/a-futuristic-outlook-that-augmented-profitability-the-new-york-times-went-cloud-native-with-gke)
+### [348. A Futuristic Outlook That Augmented Profitability: The New York Times Went Cloud Native with GKE](https://hackernoon.com/a-futuristic-outlook-that-augmented-profitability-the-new-york-times-went-cloud-native-with-gke)
 ![](https://cdn.hackernoon.com/images/YqzNjVX0nYVlCUWqv4gnCWnKpey1-4003a6y.jpeg)
 Adopting GKE helped The New York Times increase the speed of delivery. Whereas VM-based deployments took up to 45 minutes, Kunernetes took few  seconds.  
-
-### [342. Ensuring Atomicity in Distributed Systems: Managing Transactions Across Microservices](https://hackernoon.com/ensuring-atomicity-in-distributed-systems-managing-transactions-across-microservices)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-uc83wwl.jpeg)
-Maintain atomicity in distributed systems with protocols like Two-Phase Commit and the Saga Pattern, addressing challenges in microservices environments.
-
-### [343. OpenTelemetry SDK: Concepts & Design](https://hackernoon.com/opentelemetry-sdk-concepts-and-design)
-![](https://cdn.hackernoon.com/images/XAhdc8MpIEYxKMIBheezlKklLEC3-uxk33ug.png)
-How OpenTelemetry SDK does distributed tracing, metrics collection and log recording.
-
-### [344. Cloud-nomad Architecture: What You Need to Know ](https://hackernoon.com/cloud-nomad-architecture-what-you-need-to-know)
-![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-uf93rev.jpeg)
-Learn about repatriation and consolidation trends, why it's a step forward, not a step back, and the core idea of cloud-nomad architecture. 
-
-### [345. Serverless Benefits And Challenges: 2020 Edition](https://hackernoon.com/serverless-benefits-and-challenges-2020-edition-922t3une)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-5nd3uiy.jpeg?alt=media&token=8b11b3d1-8e66-4693-94d2-853bfadb5757)
-While we know the many benefits of going serverless - reduced costs via pay-per-use pricing models, less operational burden/overhead, instant scalability, increased automation - the challenges are often not addressed as comprehensively. The understandable concerns over migrating can stop any architectural decisions and actions being made for fear of getting it wrong and not having the right resources. This article discusses the common concerns around going serverless and our advice to minimise their impact.
-
-### [346. From Monolith to Microservices: Scaling with Spring Boot and Spring Cloud](https://hackernoon.com/from-monolith-to-microservices-scaling-with-spring-boot-and-spring-cloud)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-mi023cd.jpeg)
-In this step-by-step tutorial, we’ll build a fully working microservices ecosystem from scratch.
-
-### [347. Filestack Presents: Nerd Up: Scale Up - A Full-Day Online Conference](https://hackernoon.com/filestack-presents-nerd-up-scale-up-a-full-day-online-conference)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-d492iy6.jpeg)
-On February 22, 2023, from 9:30 a.m. to 3:30 p.m. Central Time, Filestack will be hosting a full-day online conference. 
-
-### [348. Securing the Digital Nerve System: A Practical Guide to Implementing Zero Trust API Security](https://hackernoon.com/securing-the-digital-nerve-system-a-practical-guide-to-implementing-zero-trust-api-security)
-![](https://cdn.hackernoon.com/images/09lwaIsVkeYZ6WFNxiWnv5B4H1q1-j603c2z.jpeg)
-Learn how Zero Trust secures APIs, prevents breaches, and ensures every request is verified in modern microservices and cloud environments.
 
 ### [349. The True Cost of Technical Decisions](https://hackernoon.com/the-true-cost-of-technical-decisions)
 ![](https://substackcdn.com/image/fetch/$s_!OoM7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc499b97d-3879-4fbd-92d0-f1a31d16d1f3_2816x1536.png)
 Outsource the plumbing. Build the magic. The senior engineer's rule for deciding what to build vs. buy—and why Uber's 2,000 microservices matter.
 
-### [350. Software Engineering Architectural Patterns Part1](https://hackernoon.com/software-engineering-architectural-patterns)
-![](https://cdn.hackernoon.com/images/SWuYxmBe5WPlAjznGj5Fb05Thnl1-gx12ifs.jpeg)
-Choosing the right architecture for your project. Understanding common software architectural patterns that scale.
+### [350. Managing the First Fallacy of Distributed Computing](https://hackernoon.com/managing-the-first-fallacy-of-distributed-computing)
+![](https://cdn.hackernoon.com/images/LDioVzaiK9P4OJrRVWK1m33EOh83-z293xxd.jpeg)
+Network reliability is one of the most basic mistakes made by microservices developers, let's see how to factor this unreliability when writing microservices.
 
-### [351. Act Like a Cloud Genius — Kill Zombie Capacity Quickly](https://hackernoon.com/look-like-a-cloud-genius-kill-zombie-capacity-quickly-pn29x3447)
-![](https://cdn.hackernoon.com/images/1w2bb34jb.jpg)
-Zombie capacity is any infrastructure piece that looks like it’s doing something, but in reality, is lying unused and should be killed. Zombie capacity can accumulate quickly and can be one of your largest infrastructure debts. The zombies come out of the dark when you get your cloud bill, your users complain about your system’s performance or availability, or you look at cost or usage metrics that look shameful to you and are hard to defend to your CTO.
+### [351. OpenTelemetry SDK: Concepts & Design](https://hackernoon.com/opentelemetry-sdk-concepts-and-design)
+![](https://cdn.hackernoon.com/images/XAhdc8MpIEYxKMIBheezlKklLEC3-uxk33ug.png)
+How OpenTelemetry SDK does distributed tracing, metrics collection and log recording.
 
-### [352. Why Traditional Monitoring is Falling Behind And What’s Taking Its Place](https://hackernoon.com/why-traditional-monitoring-is-falling-behind-and-whats-taking-its-place)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-eh02w3o.jpeg)
-Traditional dashboards and logs aren't up to the task of managing a fast, ephemeral, and unpredictable infrastructure. 
+### [352. Ensuring Atomicity in Distributed Systems: Managing Transactions Across Microservices](https://hackernoon.com/ensuring-atomicity-in-distributed-systems-managing-transactions-across-microservices)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-uc83wwl.jpeg)
+Maintain atomicity in distributed systems with protocols like Two-Phase Commit and the Saga Pattern, addressing challenges in microservices environments.
 
-### [353. Chopping the Monolith — the Smarter Way](https://hackernoon.com/chopping-the-monolith-the-smarter-way)
+### [353. Headless CMS Pitfalls](https://hackernoon.com/what-they-dont-tell-you-about-headless-cms)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-g593z99.jpeg)
+Reflections on two headless CMS implementation projects.
+
+### [354. From Monolith to Microservices: Scaling with Spring Boot and Spring Cloud](https://hackernoon.com/from-monolith-to-microservices-scaling-with-spring-boot-and-spring-cloud)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-mi023cd.jpeg)
+In this step-by-step tutorial, we’ll build a fully working microservices ecosystem from scratch.
+
+### [355. Cloud-nomad Architecture: What You Need to Know ](https://hackernoon.com/cloud-nomad-architecture-what-you-need-to-know)
+![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-uf93rev.jpeg)
+Learn about repatriation and consolidation trends, why it's a step forward, not a step back, and the core idea of cloud-nomad architecture. 
+
+### [356. Serverless Benefits And Challenges: 2020 Edition](https://hackernoon.com/serverless-benefits-and-challenges-2020-edition-922t3une)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-5nd3uiy.jpeg?alt=media&token=8b11b3d1-8e66-4693-94d2-853bfadb5757)
+While we know the many benefits of going serverless - reduced costs via pay-per-use pricing models, less operational burden/overhead, instant scalability, increased automation - the challenges are often not addressed as comprehensively. The understandable concerns over migrating can stop any architectural decisions and actions being made for fear of getting it wrong and not having the right resources. This article discusses the common concerns around going serverless and our advice to minimise their impact.
+
+### [357. Filestack Presents: Nerd Up: Scale Up - A Full-Day Online Conference](https://hackernoon.com/filestack-presents-nerd-up-scale-up-a-full-day-online-conference)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-d492iy6.jpeg)
+On February 22, 2023, from 9:30 a.m. to 3:30 p.m. Central Time, Filestack will be hosting a full-day online conference. 
+
+### [358. Securing the Digital Nerve System: A Practical Guide to Implementing Zero Trust API Security](https://hackernoon.com/securing-the-digital-nerve-system-a-practical-guide-to-implementing-zero-trust-api-security)
+![](https://cdn.hackernoon.com/images/09lwaIsVkeYZ6WFNxiWnv5B4H1q1-j603c2z.jpeg)
+Learn how Zero Trust secures APIs, prevents breaches, and ensures every request is verified in modern microservices and cloud environments.
+
+### [359. Chopping the Monolith — the Smarter Way](https://hackernoon.com/chopping-the-monolith-the-smarter-way)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-j2c2dmm.jpeg)
 In this post, I offer another alternative to chop the monolith. Instead of forking the call on the client side, we fork the call on the Gateway side.
 
-### [354. Producers Guarantees for Event-driven Development](https://hackernoon.com/producers-guarantees-for-event-driven-development)
+### [360. Producers Guarantees for Event-driven Development](https://hackernoon.com/producers-guarantees-for-event-driven-development)
 ![](https://cdn.hackernoon.com/images/RevY70p7qRavAql4HdqQvJo6t6I2-t6a3nzd.jpeg)
 Instead of consumers' delivery guarantees in message queues, in this article, we're going to talk about producers' guarantees in distributed systems.
 
-### [355. The 100ms Tenant: Why Co-Living Platforms Fail in the Last Mile of Real-Time](https://hackernoon.com/the-100ms-tenant-why-co-living-platforms-fail-in-the-last-mile-of-real-time)
+### [361. Why Traditional Monitoring is Falling Behind And What’s Taking Its Place](https://hackernoon.com/why-traditional-monitoring-is-falling-behind-and-whats-taking-its-place)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-eh02w3o.jpeg)
+Traditional dashboards and logs aren't up to the task of managing a fast, ephemeral, and unpredictable infrastructure. 
+
+### [362. The 100ms Tenant: Why Co-Living Platforms Fail in the Last Mile of Real-Time](https://hackernoon.com/the-100ms-tenant-why-co-living-platforms-fail-in-the-last-mile-of-real-time)
 ![](https://cdn.hackernoon.com/images/bFPo5ps4dOf1PL1qo78a9ZhWaq92-vy035pz.png)
 Co-living platforms break in the last 100ms, when systems disagree on reality. Resilience at the edge decides whether tenants trust—or clash.
 
-### [356. Going Beyond Spring: Exploring Vert.x for Reactive Java Development](https://hackernoon.com/going-beyond-spring-exploring-vertx-for-reactive-java-development)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-s1823gb.jpeg)
-Eclipse Vert.x vs Spring WebFlux a practical Java comparison of event-loop architecture, performance, and reactive programming with real code examples.
+### [363. Software Engineering Architectural Patterns Part1](https://hackernoon.com/software-engineering-architectural-patterns)
+![](https://cdn.hackernoon.com/images/SWuYxmBe5WPlAjznGj5Fb05Thnl1-gx12ifs.jpeg)
+Choosing the right architecture for your project. Understanding common software architectural patterns that scale.
 
-### [357. The ABCs of Microservices: A Simple Introduction](https://hackernoon.com/the-abcs-of-microservices-a-simple-introduction)
-![](https://cdn.hackernoon.com/images/qLR2YtmNmXZaUJh49E7BWmlwn0t1-qp034sb.png)
-We’re working in distributed teams, projects, and we even distribute compute resources in Regions and Zones (for cloud-based environments).
+### [364. Act Like a Cloud Genius — Kill Zombie Capacity Quickly](https://hackernoon.com/look-like-a-cloud-genius-kill-zombie-capacity-quickly-pn29x3447)
+![](https://cdn.hackernoon.com/images/1w2bb34jb.jpg)
+Zombie capacity is any infrastructure piece that looks like it’s doing something, but in reality, is lying unused and should be killed. Zombie capacity can accumulate quickly and can be one of your largest infrastructure debts. The zombies come out of the dark when you get your cloud bill, your users complain about your system’s performance or availability, or you look at cost or usage metrics that look shameful to you and are hard to defend to your CTO.
 
-### [358. Kuma and Prometheus for Observability in Kubernetes Microservices Clusters](https://hackernoon.com/kuma-and-prometheus-for-observability-in-kubernetes-microservices-clusters-001y3uza)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FenLma1vow3eOQ7kVxJ3S7AuVaac2-i46d3tw9.jpeg?alt=media&token=6d217455-16eb-40ad-947d-47726aacb285)
-A year ago, Harry Bagdi wrote an amazingly helpful blog post (link at bottom of article) on observability for microservices. And by comparing titles, it becomes obvious that my blog post draws inspiration from his work. 
-
-### [359. How to Package a Java Project in a "Box" using Spring Framework](https://hackernoon.com/how-to-package-a-java-project-in-a-box-using-spring-framework)
-![](https://cdn.hackernoon.com/images/java-in-a-box-clhoyxf7a000001s61akje1j5.png)
-
-
-### [360. Your API Is Not Plumbing. It’s the Product.](https://hackernoon.com/your-api-is-not-plumbing-its-the-product)
-![](https://substackcdn.com/image/fetch/$s_!k44g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcd4bf24-2b2d-4acc-8c26-459f15d7b556_1024x1024.jpeg)
-A technically perfect API with zero adoption is worthless. 
-
-### [361. Why Builders Opt For Agile: Experience Gained at Slash](https://hackernoon.com/why-builders-opt-for-agile-experience-gained-at-slash-3dh3t4d)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-5he3tw4.jpeg?alt=media&token=33738651-d839-4f34-bf8f-ee4b4e210bdc)
-Waterfall vs Agile
-
-### [362. Choreography — A Vital Tool to Strangle Monoliths](https://hackernoon.com/choreography-a-vital-tool-to-strangle-monoliths)
-![](https://cdn.hackernoon.com/images/LDioVzaiK9P4OJrRVWK1m33EOh83-ubb3ulp.jpeg)
-Choreography is not just a pattern for green field Microservices development, it's a vital tool to strangle monoliths too. This blog explains how.
-
-### [363. Can You Apply Reactive Programming to Legacy Services? This WebFlux Example Says You Can](https://hackernoon.com/can-you-apply-reactive-programming-to-legacy-services-this-webflux-example-says-you-can)
+### [365. Can You Apply Reactive Programming to Legacy Services? This WebFlux Example Says You Can](https://hackernoon.com/can-you-apply-reactive-programming-to-legacy-services-this-webflux-example-says-you-can)
 ![](https://cdn.hackernoon.com/images/XKjmz9tZa8XTDU9MqcuFluHFxfj2-0n0277w.jpeg)
 Is there a reason to keep using legacy services? Probably not! But this is one way to do it and bring it to Reactive!
 
-### [364. How Adopting Serverless is a Competitive Advantage for Your Business](https://hackernoon.com/how-adopting-serverless-is-a-competitive-advantage-for-your-business-1s3433zu)
+### [366. How to Package a Java Project in a "Box" using Spring Framework](https://hackernoon.com/how-to-package-a-java-project-in-a-box-using-spring-framework)
+![](https://cdn.hackernoon.com/images/java-in-a-box-clhoyxf7a000001s61akje1j5.png)
+
+
+### [367. Kuma and Prometheus for Observability in Kubernetes Microservices Clusters](https://hackernoon.com/kuma-and-prometheus-for-observability-in-kubernetes-microservices-clusters-001y3uza)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FenLma1vow3eOQ7kVxJ3S7AuVaac2-i46d3tw9.jpeg?alt=media&token=6d217455-16eb-40ad-947d-47726aacb285)
+A year ago, Harry Bagdi wrote an amazingly helpful blog post (link at bottom of article) on observability for microservices. And by comparing titles, it becomes obvious that my blog post draws inspiration from his work. 
+
+### [368. The ABCs of Microservices: A Simple Introduction](https://hackernoon.com/the-abcs-of-microservices-a-simple-introduction)
+![](https://cdn.hackernoon.com/images/qLR2YtmNmXZaUJh49E7BWmlwn0t1-qp034sb.png)
+We’re working in distributed teams, projects, and we even distribute compute resources in Regions and Zones (for cloud-based environments).
+
+### [369. Choreography — A Vital Tool to Strangle Monoliths](https://hackernoon.com/choreography-a-vital-tool-to-strangle-monoliths)
+![](https://cdn.hackernoon.com/images/LDioVzaiK9P4OJrRVWK1m33EOh83-ubb3ulp.jpeg)
+Choreography is not just a pattern for green field Microservices development, it's a vital tool to strangle monoliths too. This blog explains how.
+
+### [370. Why Builders Opt For Agile: Experience Gained at Slash](https://hackernoon.com/why-builders-opt-for-agile-experience-gained-at-slash-3dh3t4d)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-5he3tw4.jpeg?alt=media&token=33738651-d839-4f34-bf8f-ee4b4e210bdc)
+Waterfall vs Agile
+
+### [371. How Adopting Serverless is a Competitive Advantage for Your Business](https://hackernoon.com/how-adopting-serverless-is-a-competitive-advantage-for-your-business-1s3433zu)
 ![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-qk4836ix.jpeg)
 How could serverless help move your business faster and outpace competitors? With serverless, you don't need to worry about anything except your code.
 
-### [365. Best Front-End Settings To Create a PWA [QCObjects Edition]](https://hackernoon.com/best-front-end-settings-to-create-a-pwa-qcobjects-edition-ci2335us)
-![](https://hackernoon.com/images/d3qk0hxJgjhef6b7702LeYwLmbA3-3r4a3ffa.jpeg)
-Here are some recommended settings for a good result doing your first steps creating a PWA using QCObjects:
-
-### [366. Monitoring & Orchestrating Your Microservices Landscape using Workflow Automation (Parts 6/7 of 7)](https://hackernoon.com/monitoring-and-orchestrating-your-microservices-landscape-using-workflow-automation-parts-67-of-7-z9263wwr)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvAucU4XF4pWwjzIjwAoX7Xs2Itc2-rh4n3wcx.jpeg?alt=media&token=8de893f0-6d23-41b2-83f0-a83676cd0513)
-On Wednesday, March 11, 2020, I conducted the webinar titled “Monitoring & Orchestrating Your Microservices Landscape using Workflow Automation”. Not only was I overwhelmed by the number of attendees, but we also got a huge list of interesting questions before and especially during the webinar. Some of them were answered, but a lot of them were not. I want to answer all open questions in this series of seven blog posts. Today I am posting the final two in the series.
-
-### [367. Simplifying Microservices Communication with KubeMQ Control Center](https://hackernoon.com/simplifying-microservices-communication-with-kubemq-control-center)
+### [372. Simplifying Microservices Communication with KubeMQ Control Center](https://hackernoon.com/simplifying-microservices-communication-with-kubemq-control-center)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-48833hh.jpeg)
 Dealing with the complexities of microservice communication can be a burden. Here, learn how developers can be more efficient using microservice architectures.
 
-### [368. DevOps for Microservices: Effectively Managing Complex Architectures](https://hackernoon.com/devops-for-microservices-effectively-managing-complex-architectures)
+### [373. DevOps for Microservices: Effectively Managing Complex Architectures](https://hackernoon.com/devops-for-microservices-effectively-managing-complex-architectures)
 ![](https://cdn.hackernoon.com/images/oTZ8b9FUzDSBeVCoipwJ5IEuU823-mu93u2o.jpeg)
 Like comic dust, microservices combine to become a fully working system, dividing software into separately deployable services.
 
-### [369. Introducing FauxRPC: How Does it Work?](https://hackernoon.com/introducing-fauxrpc-how-does-it-work)
+### [374. Best Front-End Settings To Create a PWA [QCObjects Edition]](https://hackernoon.com/best-front-end-settings-to-create-a-pwa-qcobjects-edition-ci2335us)
+![](https://hackernoon.com/images/d3qk0hxJgjhef6b7702LeYwLmbA3-3r4a3ffa.jpeg)
+Here are some recommended settings for a good result doing your first steps creating a PWA using QCObjects:
+
+### [375. Monitoring & Orchestrating Your Microservices Landscape using Workflow Automation (Parts 6/7 of 7)](https://hackernoon.com/monitoring-and-orchestrating-your-microservices-landscape-using-workflow-automation-parts-67-of-7-z9263wwr)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvAucU4XF4pWwjzIjwAoX7Xs2Itc2-rh4n3wcx.jpeg?alt=media&token=8de893f0-6d23-41b2-83f0-a83676cd0513)
+On Wednesday, March 11, 2020, I conducted the webinar titled “Monitoring & Orchestrating Your Microservices Landscape using Workflow Automation”. Not only was I overwhelmed by the number of attendees, but we also got a huge list of interesting questions before and especially during the webinar. Some of them were answered, but a lot of them were not. I want to answer all open questions in this series of seven blog posts. Today I am posting the final two in the series.
+
+### [376. Introducing FauxRPC: How Does it Work?](https://hackernoon.com/introducing-fauxrpc-how-does-it-work)
 ![](https://cdn.hackernoon.com/images/NurxgavEyNRrMmXFXGblTedELjN2-qb12pqk.jpeg)
 FauxRPC is a powerful tool that makes fake gRPC/gRPC-Web/Connect and REST servers from protobuf
 
-### [370. Never Worry About Cloud-Native Tech Security Again](https://hackernoon.com/never-worry-about-cloud-native-tech-security-again-sf1k3tba)
+### [377. Never Worry About Cloud-Native Tech Security Again](https://hackernoon.com/never-worry-about-cloud-native-tech-security-again-sf1k3tba)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvI89MS8Ou8OYOnT4ESBSH9HkCrz2-582z3upb.jpeg?alt=media&token=bbce3905-722b-42b6-af35-62cbaad0b4b0)
 If you have embraced the concept of cloud-native computing and principles, you are ahead; you are on the right path in today’s advanced and competitive IT environment. But we need to understand one thing that, moving your development environment and processes to a cloud-native environment can be daunting and challenging. Anybody can merely advise you to move from a monolithic application to a microservices architecture, but from where and how are the questions that need critical analysis. 
 
-### [371. How Agile Teams Shorten SDLC Using DevTestOps](https://hackernoon.com/how-agile-teams-shorten-sdlc-using-devtestops)
+### [378. How Agile Teams Shorten SDLC Using DevTestOps](https://hackernoon.com/how-agile-teams-shorten-sdlc-using-devtestops)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-fu035p3.jpeg)
 Moreover, the duty of code quality can slowly be forgotten in the developers’ minds as they know their work would be tested either way. 
 
-### [372. How To Do Data Mapping in Kumologica](https://hackernoon.com/how-to-do-data-mapping-in-kumologica-5eq3uwf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7wyJfrZkKUSC50eZ7cAqeB7Kriz2-doc3umv.webp?alt=media&token=edd19fb7-b5ae-4712-a36d-d1e0ef7f5dcc)
-Data mapping is a key element in integration. Most of the prominent integration tools provide different capabilities for data mapping. In this article I thought of sharing on how data mapping can be achieved in Kumologica. Kumologica uses JSONata as the base for data mapping. JSONata is a Lightweight query and transformation language for JSON data. It supports complex queries expression which can be achieved with minimal syntax and has a location path semantics of Xpath 3.1.
-
-### [373. Accessing Kubernetes Using Expose API and User Interface Using Sidecar Pattern](https://hackernoon.com/accessing-kubernetes-using-expose-api-and-user-interface-using-sidecar-pattern-9wh13yc5)
+### [379. Accessing Kubernetes Using Expose API and User Interface Using Sidecar Pattern](https://hackernoon.com/accessing-kubernetes-using-expose-api-and-user-interface-using-sidecar-pattern-9wh13yc5)
 ![](https://cdn.hackernoon.com/drafts/hl3v3yho.png)
 Kubernetes is an open-source container-orchestration system for automating application deployment, scaling, and management.
 
-### [374. The WAF Said Nothing. The IDS Said Nothing. The ML Model Said "Block This." Here's How We Built That](https://hackernoon.com/the-waf-said-nothing-the-ids-said-nothing-the-ml-model-said-block-this-heres-how-we-built-that)
-![](https://cdn.hackernoon.com/images/P33KyhVWZ1QiAIO4GvOAnc7YAvB3-9oe3fdv.png)
-You don't need to know what an attack looks like. You need to know what normal looks like. Here's how AWS Lambda and SageMaker make that possible in production.
+### [380. Cut Inter-Agent Latency by 80% With gRPC Streaming](https://hackernoon.com/cut-inter-agent-latency-by-80percent-with-grpc-streaming)
+![](https://cdn.hackernoon.com/images/U0e7xzWgsAhTVTE3pL48FTkbXGH2-6gh3ehn.png)
+Learn how gRPC bidirectional streaming and Protobuf eliminate JSON Tax in multi-agent AI systems. Architecture patterns, and design lessons for agentic systems.
 
-### [375. Maintaining Quality When Transitioning from Monolith to Microservices](https://hackernoon.com/maintaining-quality-when-transitioning-from-monolith-to-microservices)
-![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-sw93ltd.jpeg)
-Piece by piece, legacy monolith applications are being broken down and replaced by microservices. 
+### [381. How To Do Data Mapping in Kumologica](https://hackernoon.com/how-to-do-data-mapping-in-kumologica-5eq3uwf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7wyJfrZkKUSC50eZ7cAqeB7Kriz2-doc3umv.webp?alt=media&token=edd19fb7-b5ae-4712-a36d-d1e0ef7f5dcc)
+Data mapping is a key element in integration. Most of the prominent integration tools provide different capabilities for data mapping. In this article I thought of sharing on how data mapping can be achieved in Kumologica. Kumologica uses JSONata as the base for data mapping. JSONata is a Lightweight query and transformation language for JSON data. It supports complex queries expression which can be achieved with minimal syntax and has a location path semantics of Xpath 3.1.
 
-### [376. The System Design Paradox: Why Your Principal Engineer Asks for Less, Not More](https://hackernoon.com/the-system-design-paradox-why-your-principal-engineer-asks-for-less-not-more)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rs023sp.jpeg)
-Microservices, Kafka, sharding, event sourcing... these are the words of the gods, the hallmarks of a real senior engineer, right?
-
-### [377. Embrace the Chaos, Randomness and Uncertainty on Your Path to Engineer Better Software](https://hackernoon.com/embrace-the-chaos-randomness-and-uncertainty-on-your-path-to-engineer-better-software-nl6u337k)
-![](https://cdn.hackernoon.com/images/nCYEORfswGh3ORlenA8VHjBp5PM2-91aa3z4l.jpeg)
-Chaos engineering is the practice of deliberately injecting an error into a system, in order to observe, in vivo, the consequences.
-
-### [378. The Noonification: Unpacking Cinnamon—A New Resiliency Approach at Uber (1/22/2024)](https://hackernoon.com/1-22-2024-noonification)
-![](https://cdn.hackernoon.com/images/noonification_196_a4ma8rfj3qz3q6an5w30zf6l.png)
-1/22/2024: Top 5 stories on the HackerNoon homepage!
-
-### [379. Getting Down and Dirty with Metric-based Alerting for AWS Lambda](https://hackernoon.com/getting-down-and-dirty-with-metric-based-alerting-for-aws-lambda)
+### [382. Getting Down and Dirty with Metric-based Alerting for AWS Lambda](https://hackernoon.com/getting-down-and-dirty-with-metric-based-alerting-for-aws-lambda)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-c693lc3.jpeg)
 Discover how to set up metric-based alarms for AWS Lambda functions. See how to do it in CloudWatch vs Dashbird.
 
-### [380. 51% of Business Leaders Believe They Will Be Left Behind If They Don't Innovate](https://hackernoon.com/51percent-of-business-leaders-believe-they-will-be-left-behind-if-they-dont-innovate-dg6g32l0)
-![](https://cdn.hackernoon.com/images/64dQIt8T9BfXhodEBan0h7pTVqg1-xbs31kr.jpeg)
-Learn what IT leaders are prioritizing one year into the COVID-19 pandemic, per new research on the adoption of microservices, open-source tech, and more.
+### [383. Maintaining Quality When Transitioning from Monolith to Microservices](https://hackernoon.com/maintaining-quality-when-transitioning-from-monolith-to-microservices)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-sw93ltd.jpeg)
+Piece by piece, legacy monolith applications are being broken down and replaced by microservices. 
 
-### [381. A Serverless Perspective on AWS Elastic Load Balancing ](https://hackernoon.com/aws-elastic-load-balancing-from-a-serverless-perspective)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-5h03igy.jpeg)
-Everything you need to know about AWS Application Load Balancer (ALB) and whether or not it would be a good alternative to an API Gateway. 
+### [384. The System Design Paradox: Why Your Principal Engineer Asks for Less, Not More](https://hackernoon.com/the-system-design-paradox-why-your-principal-engineer-asks-for-less-not-more)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rs023sp.jpeg)
+Microservices, Kafka, sharding, event sourcing... these are the words of the gods, the hallmarks of a real senior engineer, right?
 
-### [382. [ANN] Serverless Kubernetes Solution For Cloud-Native Apps by CTO.ai](https://hackernoon.com/ann-serverless-kubernetes-solution-for-cloud-native-apps-by-ctoai-s91p35hs)
+### [385. The Noonification: Unpacking Cinnamon—A New Resiliency Approach at Uber (1/22/2024)](https://hackernoon.com/1-22-2024-noonification)
+![](https://cdn.hackernoon.com/images/noonification_196_a4ma8rfj3qz3q6an5w30zf6l.png)
+1/22/2024: Top 5 stories on the HackerNoon homepage!
+
+### [386. Embrace the Chaos, Randomness and Uncertainty on Your Path to Engineer Better Software](https://hackernoon.com/embrace-the-chaos-randomness-and-uncertainty-on-your-path-to-engineer-better-software-nl6u337k)
+![](https://cdn.hackernoon.com/images/nCYEORfswGh3ORlenA8VHjBp5PM2-91aa3z4l.jpeg)
+Chaos engineering is the practice of deliberately injecting an error into a system, in order to observe, in vivo, the consequences.
+
+### [387. [ANN] Serverless Kubernetes Solution For Cloud-Native Apps by CTO.ai](https://hackernoon.com/ann-serverless-kubernetes-solution-for-cloud-native-apps-by-ctoai-s91p35hs)
 ![](https://hackernoon.com/images/VbyOuCOJPVbs4QcHWiytST8wTcZ2-p9153fkm.png)
 CTO.ai Launches Serverless Kubernetes Platform for Managing Cloud Native Apps
 
-### [383. Getting Started with Spring Cloud Stream](https://hackernoon.com/getting-started-with-spring-cloud-stream-l84p2w5b)
+### [388. A Serverless Perspective on AWS Elastic Load Balancing ](https://hackernoon.com/aws-elastic-load-balancing-from-a-serverless-perspective)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-5h03igy.jpeg)
+Everything you need to know about AWS Application Load Balancer (ALB) and whether or not it would be a good alternative to an API Gateway. 
+
+### [389. 51% of Business Leaders Believe They Will Be Left Behind If They Don't Innovate](https://hackernoon.com/51percent-of-business-leaders-believe-they-will-be-left-behind-if-they-dont-innovate-dg6g32l0)
+![](https://cdn.hackernoon.com/images/64dQIt8T9BfXhodEBan0h7pTVqg1-xbs31kr.jpeg)
+Learn what IT leaders are prioritizing one year into the COVID-19 pandemic, per new research on the adoption of microservices, open-source tech, and more.
+
+### [390. Getting Started with Spring Cloud Stream](https://hackernoon.com/getting-started-with-spring-cloud-stream-l84p2w5b)
 ![](https://cdn.hackernoon.com/drafts/a41ac2wet.png)
 This post was co-written with Ben Wilcock, Product and Technical Marketing Manager for Spring at Pivotal.
 
-### [384. Meet John Jardin - #Noonies2021 Nominee, Full Stack Developer, CEO of Agilit-e](https://hackernoon.com/meet-john-jardin-noonies2021-nominee-full-stack-developer-ceo-of-agilit-e)
+### [391. Meet John Jardin - #Noonies2021 Nominee, Full Stack Developer, CEO of Agilit-e](https://hackernoon.com/meet-john-jardin-noonies2021-nominee-full-stack-developer-ceo-of-agilit-e)
 ![](https://cdn.hackernoon.com/images/EVKIyOE5g0e70Zsmj3IswB8Udbk2-o303oq3.jpeg)
 Through his 21 year journey as a developer, John Jardin has managed over 350 projects for various companies. Learn more via this exclusive interview. 
 
-### [385. Lilan Anjana Fernando is Excited About New And Upcoming Programming Languages](https://hackernoon.com/lilan-anjana-fernando-is-excited-about-new-and-upcoming-programming-languages-061b3tvw)
+### [392. Top 10 Micro Agents You Can Train on A Potato in 15 Min](https://hackernoon.com/top-10-micro-agents-you-can-train-on-a-potato-in-15-min)
+![](https://cdn.hackernoon.com/images/nHGuWYVEUQZmmtpQsV42vRQ05r33-9783h9s.png)
+We are entering the era of the Micro-Agent, essentially models under 1 billion parameters that don’t just run on your laptop or even mobile devices.
+
+### [393. Lilan Anjana Fernando is Excited About New And Upcoming Programming Languages](https://hackernoon.com/lilan-anjana-fernando-is-excited-about-new-and-upcoming-programming-languages-061b3tvw)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-aos3tko.jpeg?alt=media&token=009f794f-b867-48dd-9c3a-3c513932f7a8)
 Lilan Anjana Fernando from United States has been nominated for a 2020#Noonie in the Future Heroes and Technology categories.
 
-### [386. I Built a Failing Pipeline So You Don’t Have To](https://hackernoon.com/i-built-a-failing-pipeline-so-you-dont-have-to)
-![](https://cdn.hackernoon.com/images/data-pipeline-mock-up-xrw77ka4ipiedl5bgqiph9av.png)
-Build a resilient Node.js pipeline with circuit breakers. See how ffetch blocks bad calls, prevents cascades, and keeps microservices stable.
-
-### [387. Eko Simanjuntak, 2020 Noonie Nominee, Loves to Explore Cloud Native Technologies](https://hackernoon.com/eko-simanjuntak-2020-noonie-nominee-loves-to-explore-cloud-native-technologies-wb4w3t7j)
+### [394. Eko Simanjuntak, 2020 Noonie Nominee, Loves to Explore Cloud Native Technologies](https://hackernoon.com/eko-simanjuntak-2020-noonie-nominee-loves-to-explore-cloud-native-technologies-wb4w3t7j)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-fn343tmw.jpeg?alt=media&token=0d3afcdb-2997-4b23-8037-2087401c2f76)
 Go on, make a fellow human’s day and nominate the best YOUR best of 2020’s tech industry for a 2020 #Noonie, the tech industry’s most independent and community-driven awards: NOONIES.TECH. 
 
-### [388. Automating a Conference Submission Workflow: Tech Stack And Setup](https://hackernoon.com/automating-a-conference-submission-workflow-tech-stack-and-setup-tpae3y1q)
+### [395. I Built a Failing Pipeline So You Don’t Have To](https://hackernoon.com/i-built-a-failing-pipeline-so-you-dont-have-to)
+![](https://cdn.hackernoon.com/images/data-pipeline-mock-up-xrw77ka4ipiedl5bgqiph9av.png)
+Build a resilient Node.js pipeline with circuit breakers. See how ffetch blocks bad calls, prevents cascades, and keeps microservices stable.
+
+### [396. Automating a Conference Submission Workflow: Tech Stack And Setup](https://hackernoon.com/automating-a-conference-submission-workflow-tech-stack-and-setup-tpae3y1q)
 ![](https://cdn.hackernoon.com/drafts/5d1nn2bnu.png)
 Even given the current situation, part of my Developer Advocate job is to talk at (virtual) conferences. Sometimes, organizers invite me. Yet, most of the times, I need to take part in a CfP. With the sheer numbers of conferences I submit to, I need a tool to manage the status of each submission. Since I started, Trello has been my tool of choice. I’ve a dedicated board with several defined columns: backlog, abandoned, submitted, rejected, submitted and done. A conference is a card that I move around, depending on its status.
 

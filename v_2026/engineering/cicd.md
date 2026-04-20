@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [cicd](https://hackernoon.com/tagged/cicd)
+### Let's learn about [Cicd](https://hackernoon.com/tagged/cicd) via these 232 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+CI/CD (Continuous Integration/Continuous Delivery or Deployment) is a set of practices that enable rapid and reliable software delivery by automating the build, test, and deployment processes. It is essential for modern software development, accelerating release cycles, and improving product quality.
+
 ### [1. Fear database changes? Get them under control with CI/CD](https://hackernoon.com/database-changes-can-be-scary-how-r1hy2gfe)
 ![](https://cdn.hackernoon.com/drafts/f47va2gze.png)
 Developers often fear database changes because a mistake by anyone on your team can lead to a major outage and even data loss. The stakes are higher when changes are not backwards compatible, cannot be rolled back, or impact system performance. This can cause a lack of confidence and slow your team velocity. As a result, database changes are a common failure point in agile and DevOps. 
@@ -37,13 +41,13 @@ So you want to start testing your code? Good choice. Testing is a great way to m
 ![](https://cdn.hackernoon.com/images/yRVdyLzmpNZ4JsVZpRk9nVNsbnd2-9516v34yt.jpeg)
 A guide on how to deploy Salesforce Vlocity components using Vlocity Build tool and integrate it with your CI/CD pipeline. 
 
-### [10. How to Get the Last Successful Git Commit SHA in Jenkins](https://hackernoon.com/how-to-get-the-last-successful-git-commit-sha-in-jenkins)
-![](https://cdn.hackernoon.com/images/vQVev4NFjpTAx2LBcNbvgMET3t13-u993pum.png)
-In this article, we will explore how to get a Git commit SHA from the last successful Jenkins build for further use in the upstream builds on different agents.
-
-### [11. How to Send Detailed Slack Notifications from GitHub Actions?](https://hackernoon.com/how-to-send-detailed-slack-notifications-from-github-actions)
+### [10. How to Send Detailed Slack Notifications from GitHub Actions?](https://hackernoon.com/how-to-send-detailed-slack-notifications-from-github-actions)
 ![](https://cdn.hackernoon.com/images/Za3QtTvBFDSxRQKeQkur9mQWXt83-hu13yrd.png)
 Set up detailed Slack notifications for GitHub Actions to automate CI/CD updates and enhance team collaboration with real-time build alerts.
+
+### [11. How to Get the Last Successful Git Commit SHA in Jenkins](https://hackernoon.com/how-to-get-the-last-successful-git-commit-sha-in-jenkins)
+![](https://cdn.hackernoon.com/images/vQVev4NFjpTAx2LBcNbvgMET3t13-u993pum.png)
+In this article, we will explore how to get a Git commit SHA from the last successful Jenkins build for further use in the upstream builds on different agents.
 
 ### [12. Streamlining Kubernetes App Deployments with ArgoCD: A Step-by-Step GitOps Guide](https://hackernoon.com/streamlining-kubernetes-app-deployments-with-argocd-a-step-by-step-gitops-guide)
 ![](https://cdn.hackernoon.com/images/szRhcSkT6Vb1JUUrwXMB3X2GOqu2-0bc2yvu.jpeg)
@@ -227,13 +231,13 @@ In this post, we look at some of the methods and tools to keep your Jenkins inst
 
 
 
-### [57. How to Create a CI/CD Pipeline Using GitHub and AWS EC2](https://hackernoon.com/how-to-create-a-cicd-pipeline-using-github-and-aws-ec2)
-![](https://cdn.hackernoon.com/images/3c0Ba4iB54PS3D89K3wjjsbD9Ll1-e5g3ae8.jpeg)
-Creating a CI / CD Pipeline for a webservice on github connected to an AWS Ec2 server
-
-### [58. CI/CD Best Practices for Salesforce DX](https://hackernoon.com/cicd-best-practices-for-salesforce-dx)
+### [57. CI/CD Best Practices for Salesforce DX](https://hackernoon.com/cicd-best-practices-for-salesforce-dx)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-s693h7x.jpeg)
 With digital transformation and the move to online operations, companies are increasingly relying on Salesforce to manage many of their operations. New business needs and opportunities constantly increase the workload of Salesforce teams. In this context, teams are turning to Salesforce CI/CD to automate manual workflows, which help them handle these growing workloads and quickly deliver quality work to their end-users. This article gives you a short overview of how to implement CI-CD in Salesforce DX.
+
+### [58. How to Create a CI/CD Pipeline Using GitHub and AWS EC2](https://hackernoon.com/how-to-create-a-cicd-pipeline-using-github-and-aws-ec2)
+![](https://cdn.hackernoon.com/images/3c0Ba4iB54PS3D89K3wjjsbD9Ll1-e5g3ae8.jpeg)
+Creating a CI / CD Pipeline for a webservice on github connected to an AWS Ec2 server
 
 ### [59. Azure DevOps: How to Build, Test And Deploy to Azure Kubernetes Service](https://hackernoon.com/azure-devops-how-to-build-test-and-deploy-to-azure-kubernetes-service-4s4b3yvj)
 ![](https://images.unsplash.com/photo-1579034963892-388c821d1d9f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -255,66 +259,66 @@ How can I create one GitHub workflow which uses different secrets based on a tri
 ![](https://cdn.hackernoon.com/images/gsw7B04U0yPHQTIT0Z29jKY2Yy63-3u93j24.jpeg)
 In this tutorial, you will learn how to use the Xcode Archive & Export for iOS step to manage your iOS code signing assets, archives and export an .ipa.
 
-### [64. Automating Android Development: A Comprehensive Guide to Setting Up CI/CD With GitHub Actions](https://hackernoon.com/automating-android-development-a-comprehensive-guide-to-setting-up-cicd-with-github-actions)
+### [64. AI in DevOps: Rise to Agents and Why You Need Agentic Workflows in 2026](https://hackernoon.com/ai-in-devops-rise-to-agents-and-why-you-need-agentic-workflows-in-2026)
+![](https://cdn.hackernoon.com/images/IJSgDnY3kaPGzj87G01N5PKun1V2-1803efl.png)
+Discover how AI is changing DevOps, the move toward agents, and why agent-based workflows will matter in 2026.
+
+
+### [65. Automating Android Development: A Comprehensive Guide to Setting Up CI/CD With GitHub Actions](https://hackernoon.com/automating-android-development-a-comprehensive-guide-to-setting-up-cicd-with-github-actions)
 ![](https://cdn.hackernoon.com/images/uRoI8oauMUSL1OEueHGhCxCQqmY2-rh93yv3.png)
 In this guide, we will walk you through the steps of setting up a CI/CD pipeline for your Android project using GitHub Actions.
 
-### [65. Using Spinnaker with Kubernetes for CI/CD](https://hackernoon.com/using-spinnaker-with-kubernetes-for-cicd-52w3uo9)
+### [66. Using Spinnaker with Kubernetes for CI/CD](https://hackernoon.com/using-spinnaker-with-kubernetes-for-cicd-52w3uo9)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-7z5x3uwu.jpeg?alt=media&token=9a4ce0fe-a990-4698-8cc1-c9aa381e07e7)
 Kubernetes is now the de-facto standard for container orchestration. With more and more organizations adopting Kubernetes, it is essential that we get our fundamental ops-infra in place before any migration. This post will focus on pushing out new releases of the application to our Kubernetes cluster i.e. Continuous Delivery.
-
-### [66. Implementing CI/CD with GitHub Actions: Building and Deploying Docker Images from a Python Project](https://hackernoon.com/implementing-cicd-with-github-actions-building-and-deploying-docker-images-from-a-python-project)
-![](https://cdn.hackernoon.com/images/PhyNLnOt5gXx4fjxosGMSq4ESao2-te93v5b.jpeg)
-While the CI/CD ecosystem is expansive and multifaceted, GitHub Actions stands out for its adaptability.
 
 ### [67. Zero Downtime Deployment: Upgrade Your Dockerized App With the Blue-Green Technique](https://hackernoon.com/zero-downtime-deployment-upgrade-your-dockerized-app-with-the-blue-green-technique)
 ![](https://cdn.hackernoon.com/images/9S1vwdm8BSSIM68NViog8lnaQPi2-4s92lfj.jpeg)
 If this is your first time hearing such a deployment technique, there is absolutely nothing to be afraid of, I will provide you with steps that will aid you.
 
-### [68. How We Set Up a Production Ready CI Workflow Using GitHub Actions](https://hackernoon.com/how-we-set-up-a-production-ready-ci-workflow-using-github-actions-ca2n3w1j)
+### [68. Implementing CI/CD with GitHub Actions: Building and Deploying Docker Images from a Python Project](https://hackernoon.com/implementing-cicd-with-github-actions-building-and-deploying-docker-images-from-a-python-project)
+![](https://cdn.hackernoon.com/images/PhyNLnOt5gXx4fjxosGMSq4ESao2-te93v5b.jpeg)
+While the CI/CD ecosystem is expansive and multifaceted, GitHub Actions stands out for its adaptability.
+
+### [69. How We Set Up a Production Ready CI Workflow Using GitHub Actions](https://hackernoon.com/how-we-set-up-a-production-ready-ci-workflow-using-github-actions-ca2n3w1j)
 ![](https://cdn.hackernoon.com/images/iwi3wxj.jpg)
 Recently, we started a new project and it decided it was a good time to try GitHub’s newish CI/CD tools which became generally available in November last year.
 
-### [69. Everything About the Best Continuous Integration (CI) and Continuous Deployment (CD) Tools in 2022](https://hackernoon.com/everything-about-the-best-continuous-integration-ci-and-continuous-deployment-cd-tools-in-2022)
+### [70. Everything About the Best Continuous Integration (CI) and Continuous Deployment (CD) Tools in 2022](https://hackernoon.com/everything-about-the-best-continuous-integration-ci-and-continuous-deployment-cd-tools-in-2022)
 ![](https://cdn.hackernoon.com/images/YqzNjVX0nYVlCUWqv4gnCWnKpey1-hn93k3l.jpeg)
 DevOps practices are spreading , and many companies every day are implementing CI/CD process. The blog talks about the top 10 CI/CD tools. Learn more.
 
-### [70. Everything as Code (EaC): What Is It and Why Is It Important? ](https://hackernoon.com/everything-as-code-eac-what-is-it-and-why-is-it-important)
+### [71. Everything as Code (EaC): What Is It and Why Is It Important? ](https://hackernoon.com/everything-as-code-eac-what-is-it-and-why-is-it-important)
 ![](https://cdn.hackernoon.com/images/9gE8Tr4eNOQs1QRV8GGfM1N6No73-f993ud0.png)
 In this post, I discuss some applications of Everything as Code, the benefits, and my thoughts on moving towards EaC.
 
-### [71. Top 6 CI/CD Practices for End-to-End Development Pipelines](https://hackernoon.com/top-6-cicd-practices-for-end-to-end-development-pipelines-ca2833lx)
+### [72. Top 6 CI/CD Practices for End-to-End Development Pipelines](https://hackernoon.com/top-6-cicd-practices-for-end-to-end-development-pipelines-ca2833lx)
 ![](https://cdn.hackernoon.com/images/Q6jqYNh4CWONXyOitjdyRhKtVfx2-u0hr3f7c.jpeg)
 Maximizing efficiency is about knowing how the data science puzzles fit together and then executing them.
-
-### [72. The Results Of A Comparison Between Five CI/CD Services](https://hackernoon.com/the-results-of-a-comparison-between-five-cicd-services-gz1034me)
-![](https://cdn.hackernoon.com/images/6j8j3zbg.jpg)
-Introduction:
 
 ### [73. Building a “Maintenance Mode” with Terraform and Github Pages](https://hackernoon.com/building-a-maintenance-mode-with-terraform-and-github-pages-lb1f3w1y)
 ![](https://cdn.hackernoon.com/images/r07z3vsk.jpg)
 As you may have seen, we just launched our public beta of env0 last month. As part of the run-up to the launch, our dev team had to go through and make sure everything about our infrastructure was ready for ongoing public use: one element being creating a maintenance mode for both our Application and our public API.
 
-### [74. CI/CD Pipeline for NodeJS Lambdas on AWS using Jest, Serverless Framework, Github, and TravisCI](https://hackernoon.com/cicd-pipeline-for-nodejs-lambdas-on-aws-using-jest-serverless-framework-github-and-travisci-fl1n3zr4)
+### [74. The Results Of A Comparison Between Five CI/CD Services](https://hackernoon.com/the-results-of-a-comparison-between-five-cicd-services-gz1034me)
+![](https://cdn.hackernoon.com/images/6j8j3zbg.jpg)
+Introduction:
+
+### [75. CI/CD Pipeline for NodeJS Lambdas on AWS using Jest, Serverless Framework, Github, and TravisCI](https://hackernoon.com/cicd-pipeline-for-nodejs-lambdas-on-aws-using-jest-serverless-framework-github-and-travisci-fl1n3zr4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhAuFvdos2XQD5lsshfPDabIQUg63-fv183x1q.jpeg?alt=media&token=f687f847-1d4c-44be-ae4b-bb432c0711a2)
 I wanted to start a serverless project, and one of the primary headaches aside from architecting the workflow and deciding which lambda functions need to be created is a simple and yet effective CICD workflow. 
-
-### [75. AI in DevOps: Rise to Agents and Why You Need Agentic Workflows in 2026](https://hackernoon.com/ai-in-devops-rise-to-agents-and-why-you-need-agentic-workflows-in-2026)
-![](https://cdn.hackernoon.com/images/IJSgDnY3kaPGzj87G01N5PKun1V2-1803efl.png)
-Discover how AI is changing DevOps, the move toward agents, and why agent-based workflows will matter in 2026.
-
 
 ### [76. Flutter Guide to Building Apps and Deploying them to iOS (without Mac)](https://hackernoon.com/flutter-guide-to-building-apps-and-deploy-them-to-ios-without-mac)
 ![](https://cdn.hackernoon.com/images/EirlZ30jtYfcFYd5vCeCSjGlSK23-pb034sb.jpeg)
 It's now possible to develop and distribute iOS apps without using macOS. Learn how to build ios apps on Linux.
 
-### [77. DevOps Fundamentals You Ever Wanted To Know](https://hackernoon.com/devops-fundamentals-you-ever-wanted-to-know-zt2m3uh6)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6IbmZHuvVpffYtZxMg4IRNAKX2w2-bm2c3ugx.jpeg?alt=media&token=3a349092-cfd5-4cfd-b5cb-91bb57c9a33a)
-What Is DevOps & How Its Works?                     
-
-### [78. How to Setup a CI/CD Pipeline with GitHub Actions](https://hackernoon.com/how-to-set-up-cicd-with-github-actions)
+### [77. How to Setup a CI/CD Pipeline with GitHub Actions](https://hackernoon.com/how-to-set-up-cicd-with-github-actions)
 ![](https://cdn.hackernoon.com/images/bvfdRlftZCRXmrVygxq2Gdqu5iY2-2r13k8v.jpeg)
 Learn how to set up a simple CI/CD pipeline using GitHub Actions to automate linting checks and ensure code quality. This step-by-step guide will walk you throu
+
+### [78. DevOps Fundamentals You Ever Wanted To Know](https://hackernoon.com/devops-fundamentals-you-ever-wanted-to-know-zt2m3uh6)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6IbmZHuvVpffYtZxMg4IRNAKX2w2-bm2c3ugx.jpeg?alt=media&token=3a349092-cfd5-4cfd-b5cb-91bb57c9a33a)
+What Is DevOps & How Its Works?                     
 
 ### [79. Let's Compare Top 15 Automation Testing Tools](https://hackernoon.com/lets-compare-top-15-automation-testing-tools)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-st035s5.jpeg)
@@ -332,17 +336,17 @@ DevOps, the term seems a buzz word for many from the last few years, but this bu
 ![](https://cdn.hackernoon.com/images/B8gaCVeovwMDq4K1OV8PIR0H1B53-071r3wwp.jpeg)
 A great deal has already been written about readiness and liveness checks and I don’t intend to cover that ground again. Rather I want to cover, very specifically, their use in a large microservices architecture.
 
-### [83. On Building A Development Pipeline With Kubernetes](https://hackernoon.com/on-building-a-development-pipeline-with-kubernetes-t5x33s8)
+### [83. A Handy Guide to Migrating Terraform State to GitLab CI/CD](https://hackernoon.com/a-handy-guide-to-migrating-terraform-state-to-gitlab-cicd)
+![](https://cdn.hackernoon.com/images/O1MO5IvvhYRPzyAQlgcvfCwOcZ53-yi93pq4.jpeg)
+Migrating Terraform state to GitLab CI/CD is a GitOps best practice that allows multiple engineers to work together to develop infrastructure. 
+
+### [84. On Building A Development Pipeline With Kubernetes](https://hackernoon.com/on-building-a-development-pipeline-with-kubernetes-t5x33s8)
 ![](https://cdn.hackernoon.com/images/QTxbGwvzbNSSmBQwExO9kEUn67m1-t88335r.png)
 A few years ago, digital transformation led to enterprises moving away from traditional monolithic architectures to microservices.
 
-### [84. The Serverless CI - Running Jenkins Slaves on AWS EKS Fargate](https://hackernoon.com/the-serverless-ci-running-jenkins-slaves-on-aws-eks-fargate)
+### [85. The Serverless CI - Running Jenkins Slaves on AWS EKS Fargate](https://hackernoon.com/the-serverless-ci-running-jenkins-slaves-on-aws-eks-fargate)
 ![](https://cdn.hackernoon.com/images/LDioVzaiK9P4OJrRVWK1m33EOh83-11e3xhd.jpeg)
 Discover how to set up and execute on-demand Jenkins slaves in an AWS Fargate cluster from your Jenkins master instance.
-
-### [85. A Handy Guide to Migrating Terraform State to GitLab CI/CD](https://hackernoon.com/a-handy-guide-to-migrating-terraform-state-to-gitlab-cicd)
-![](https://cdn.hackernoon.com/images/O1MO5IvvhYRPzyAQlgcvfCwOcZ53-yi93pq4.jpeg)
-Migrating Terraform state to GitLab CI/CD is a GitOps best practice that allows multiple engineers to work together to develop infrastructure. 
 
 ### [86. How to Set Up CI/CD to Netlify for Static Sites via Github ](https://hackernoon.com/how-to-set-up-cicd-to-netlify-for-static-sites-via-github)
 ![](https://cdn.hackernoon.com/images/IrYR4JwDYEMjbh4IXSbg5CQBjqp1-fq93ish.jpeg)
@@ -360,13 +364,13 @@ Hey there! In this article, I'm sharing my thoughts about Deno as a bad runtime 
 ![](https://cdn.hackernoon.com/images/3eQM69LUO5cIuJDFNYeMfWy2Eo82-n44v336s.jpeg)
 In software engineering, CI/CD or CICD generally refers to the combined practices of continuous integration and either continuous delivery deployment.
 
-### [90. Fixing The ClickHouse Node Failure On Distributed Systems - A How-To Guide](https://hackernoon.com/fixing-the-clickhouse-node-failure-on-distributed-systems-a-how-to-guide-zg3t3wb4)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBO1sxWKkO9aAZvozbs1W60TJZCn1-nw3m3tv3.jpeg?alt=media&token=0c8ac1fa-1f50-42d4-beef-3aefce353ae7)
-Part One: ClickHouse Failures, by Marcel Birkner
-
-### [91. CI/CD for Android Guide: Bitbucket Pipelines and Gradle Play Publisher](https://hackernoon.com/cicd-for-android-guide-bitbucket-pipelines-and-gradle-play-publisher-rw3d34gi)
+### [90. CI/CD for Android Guide: Bitbucket Pipelines and Gradle Play Publisher](https://hackernoon.com/cicd-for-android-guide-bitbucket-pipelines-and-gradle-play-publisher-rw3d34gi)
 ![](https://cdn.hackernoon.com/images/KYR82BIsvrZo3tfpotTvjv5iuMg2-w712v33q9.jpeg)
 Automation doesn’t just save time, it also makes the process more reliable, less error-prone (to human error) and encourages to deploy/publish more often
+
+### [91. Fixing The ClickHouse Node Failure On Distributed Systems - A How-To Guide](https://hackernoon.com/fixing-the-clickhouse-node-failure-on-distributed-systems-a-how-to-guide-zg3t3wb4)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBO1sxWKkO9aAZvozbs1W60TJZCn1-nw3m3tv3.jpeg?alt=media&token=0c8ac1fa-1f50-42d4-beef-3aefce353ae7)
+Part One: ClickHouse Failures, by Marcel Birkner
 
 ### [92. Heroku Now Officially Supports .NET!](https://hackernoon.com/heroku-now-officially-supports-net)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-r102snq.jpeg)
@@ -376,41 +380,41 @@ Automation doesn’t just save time, it also makes the process more reliable, le
 ![](https://cdn.hackernoon.com/images/0AJ5ZArcAhe8KPiPNtydBCEGh8x1-kqb3jt9.jpeg)
 Continuous Integration & Continuous Delivery in the development process. How the CI/CD pipeline helps create products and implement new features better and fast
 
-### [94. Flawless Releases with Continuous Deployment and Docker](https://hackernoon.com/continuous-deployment-of-a-python-flask-application-with-docker-and-semaphore-b21aq12v1)
-![](https://cdn.hackernoon.com/images/ne55u12an.jpg)
-Docker is a container technology that enables developers to run entire applications as a unit. It offers all the benefits of virtual machines, without the high overhead:
+### [94. I've Been Breaking Into CI/CD Pipelines for Three Years. Here's What I Keep Finding.](https://hackernoon.com/ive-been-breaking-into-cicd-pipelines-for-three-years-heres-what-i-keep-finding)
+![](https://cdn.hackernoon.com/images/9cdG6L1mthdKSVlIfzS7TyZOmci2-4283frs.png)
+I've spent three years breaking into CI/CD pipelines across enterprise environments. Here's what I keep finding — and the open-source tool I built to stop it.
 
 ### [95. How to Build a DevOps Culture Within Engineering Teams](https://hackernoon.com/how-to-build-a-devops-culture-within-engineering-teams)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-o0931et.jpeg)
 
 
-### [96. Automating Security in DevOps: Top 15 Tools](https://hackernoon.com/automating-security-in-devops-top-15-tools-69253w9e)
+### [96. Flawless Releases with Continuous Deployment and Docker](https://hackernoon.com/continuous-deployment-of-a-python-flask-application-with-docker-and-semaphore-b21aq12v1)
+![](https://cdn.hackernoon.com/images/ne55u12an.jpg)
+Docker is a container technology that enables developers to run entire applications as a unit. It offers all the benefits of virtual machines, without the high overhead:
+
+### [97. Automating Security in DevOps: Top 15 Tools](https://hackernoon.com/automating-security-in-devops-top-15-tools-69253w9e)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-7k63w0i.jpeg?alt=media&token=50bb387b-641a-4f48-bc42-7d6bb4455556)
 Cybersecurity is a big concern for many companies. With data breaches happening more and more as attacks increase in sophistication, teams are looking at all of the options they have to prevent them. 
 
-### [97. Accelerate your Software Delivery With CI/CD Practices](https://hackernoon.com/accelerate-your-software-delivery-with-cicd-practices)
+### [98. Accelerate your Software Delivery With CI/CD Practices](https://hackernoon.com/accelerate-your-software-delivery-with-cicd-practices)
 ![](https://cdn.hackernoon.com/images/YqzNjVX0nYVlCUWqv4gnCWnKpey1-dn93jdy.jpeg)
 Are you looking to transform your software development process? If yes, this blog post provides an introduces to orchestrating  the CI-CD pipeline with AWS. 
 
-### [98. Learn How to Build a CI/CD Pipeline Using GitLab for your Website](https://hackernoon.com/learn-how-to-build-a-cicd-pipeline-using-gitlab-for-your-website-wu2f340u)
+### [99. Learn How to Build a CI/CD Pipeline Using GitLab for your Website](https://hackernoon.com/learn-how-to-build-a-cicd-pipeline-using-gitlab-for-your-website-wu2f340u)
 ![](https://cdn.hackernoon.com/images/9xpauPIeEyQRYUDnm7rOBnWGLyD2-1o5r28gu.jpeg)
 We'll run through how to build and configure a CI/CD pipeline to deploy your business's website using AWS, Terraform & Gitlab.
 
-### [99. Android CI/CD Boilerplate for Publishing via Fastlane](https://hackernoon.com/android-cicd-boilerplate-for-publishing-via-fastlane)
+### [100. Android CI/CD Boilerplate for Publishing via Fastlane](https://hackernoon.com/android-cicd-boilerplate-for-publishing-via-fastlane)
 ![](https://cdn.hackernoon.com/images/KcbsFCZhPLMGojRtcSkTWqPyO8w2-gya3w2w.jpeg)
 Stop publishing your Android apps manually and start doing this fully automated at any stage with the boilerplate for building a CI/CD pipeline for Android.
 
-### [100. I've Been Breaking Into CI/CD Pipelines for Three Years. Here's What I Keep Finding.](https://hackernoon.com/ive-been-breaking-into-cicd-pipelines-for-three-years-heres-what-i-keep-finding)
-![](https://cdn.hackernoon.com/images/9cdG6L1mthdKSVlIfzS7TyZOmci2-4283frs.png)
-I've spent three years breaking into CI/CD pipelines across enterprise environments. Here's what I keep finding — and the open-source tool I built to stop it.
-
-### [101. Configuring GitLab CI/CD for Multi-Environment Deployments to Heroku](https://hackernoon.com/configuring-gitlab-cicd-for-multi-environment-deployments-to-heroku)
-![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-yrf31me.jpeg)
-Automatically deploy your app to the correct environment any time code is merged into your dev or main branches
-
-### [102. The Infinite Loop of "Fixing the Build": How to Escape CI/CD Purgatory](https://hackernoon.com/the-infinite-loop-of-fixing-the-build-how-to-escape-cicd-purgatory)
+### [101. The Infinite Loop of "Fixing the Build": How to Escape CI/CD Purgatory](https://hackernoon.com/the-infinite-loop-of-fixing-the-build-how-to-escape-cicd-purgatory)
 ![](https://cdn.hackernoon.com/images/4QQhIuTcGWPBcSXw0KTQbpwavoG2-8h039vq.png)
 A guide to transforming CI/CD pipeline creation from a manual chore into an automated, architectural process using a specialized AI system prompt.
+
+### [102. Configuring GitLab CI/CD for Multi-Environment Deployments to Heroku](https://hackernoon.com/configuring-gitlab-cicd-for-multi-environment-deployments-to-heroku)
+![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-yrf31me.jpeg)
+Automatically deploy your app to the correct environment any time code is merged into your dev or main branches
 
 ### [103. Streamline Your Python Backend Deployment with Automated Continuous Integration using Github Actions](https://hackernoon.com/streamline-your-python-backend-deployment-with-automated-continuous-integration-using-github-actions)
 ![](https://cdn.hackernoon.com/images/9S1vwdm8BSSIM68NViog8lnaQPi2-ap92l8o.jpeg)
@@ -440,50 +444,50 @@ About those GitHub Actions
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-boc3rhh.jpeg)
 A look at how CI/CD pipelines work.
 
-### [110. RBAC: The Bouncer With a Code of Conduct in the DevOps Dance Hall](https://hackernoon.com/rbac-the-bouncer-with-a-code-of-conduct-in-the-devops-dance-hall)
+### [110. How to Set Up GitHub Actions and PyPI Integration for Python Projects](https://hackernoon.com/how-to-set-up-github-actions-and-pypi-integration-for-python-projects)
+![](https://cdn.hackernoon.com/images/hvdsiX2OskZLTRYQJf6q4eisRUB3-qb02pfk.webp)
+How to set up CI/CD on GitHub to ensure that nothing breaks when I push new changes and to automatically publish the code to PyPI.
+
+### [111. RBAC: The Bouncer With a Code of Conduct in the DevOps Dance Hall](https://hackernoon.com/rbac-the-bouncer-with-a-code-of-conduct-in-the-devops-dance-hall)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-mj82nwr.jpeg)
 RBAC (Role-Based Access Control) ensures secure and efficient CI/CD pipelines, granting authorized access to orchestrate development processes.
-
-### [111. Getting Started with GitOps 2.0
-Using ArgoCD & Codefresh](https://hackernoon.com/getting-started-with-gitops-20-using-argocd-and-codefresh-9cs3zl1)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEEXJ7u9YV7TZ0OWFz1xObn5lzri1-jx2a3w4p.jpeg?alt=media&token=30bd4f69-c99d-4f3e-aef5-3ac73ea6dc1c)
-GitOps is the practice of deploying applications by using Git Operations only (and not clicking UI buttons). The paradigm already existed in one form or another but was officially named as “GitOps” in 2017 by Weaveworks and has since become very popular for Kubernetes deployments.
 
 ### [112. The Significance of CI/CD in Modern Software Development](https://hackernoon.com/the-significance-of-cicd-in-modern-software-development)
 ![](https://cdn.hackernoon.com/images/merging-code-together-into-a-computer-zc3cc9jwwohsgvwgr218ditu.png)
 Explore the significance of CI/CD in modern software development. Discover how Continuous Integration and Continuous Deployment enhance software quality.
 
-### [113. 9 Best DevOps Practices for a successful DevOps Journey](https://hackernoon.com/9-best-devops-practices-for-a-successful-devops-journey)
+### [113. Getting Started with GitOps 2.0
+Using ArgoCD & Codefresh](https://hackernoon.com/getting-started-with-gitops-20-using-argocd-and-codefresh-9cs3zl1)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEEXJ7u9YV7TZ0OWFz1xObn5lzri1-jx2a3w4p.jpeg?alt=media&token=30bd4f69-c99d-4f3e-aef5-3ac73ea6dc1c)
+GitOps is the practice of deploying applications by using Git Operations only (and not clicking UI buttons). The paradigm already existed in one form or another but was officially named as “GitOps” in 2017 by Weaveworks and has since become very popular for Kubernetes deployments.
+
+### [114. 9 Best DevOps Practices for a successful DevOps Journey](https://hackernoon.com/9-best-devops-practices-for-a-successful-devops-journey)
 ![](https://cdn.hackernoon.com/images/vGeVbE0sIyeHrci3rttzrLEiKP82-hw93jqz.jpeg)
 The success of DevOps lies in the right way of implementation. Here, are some best DevOps practices for successful DevOps transformation in 2022 and beyond.
-
-### [114. How to Set Up GitHub Actions and PyPI Integration for Python Projects](https://hackernoon.com/how-to-set-up-github-actions-and-pypi-integration-for-python-projects)
-![](https://cdn.hackernoon.com/images/hvdsiX2OskZLTRYQJf6q4eisRUB3-qb02pfk.webp)
-How to set up CI/CD on GitHub to ensure that nothing breaks when I push new changes and to automatically publish the code to PyPI.
 
 ### [115. How to Improve Your CI/CD Workflow Using GitHub Actions](https://hackernoon.com/how-to-improve-your-cicd-workflow-using-github-actions-oj4b3v3j)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-xy82rsj.jpeg)
 GitHub Actions is one of the most powerful tools that you can use if you are storing our code on this service repository. The idea is simple, you can design a complex workflow using automated tasks (called actions) in order to be activated and run when a commit is done in your repository.
 
-### [116. Implementing Blue-Green Deployments with AWS Elastic Beanstalk](https://hackernoon.com/implementing-blue-green-deployments-with-aws-elastic-beanstalk)
+### [116. How to Create an Extension Pack for VSCode & Code Server](https://hackernoon.com/how-to-create-an-extension-pack-for-vscode-and-code-server)
+![](https://cdn.hackernoon.com/images/Za3QtTvBFDSxRQKeQkur9mQWXt83-hxi32mj.jpeg)
+This guide outlines and explains the process for creating an extension pack for VS Code & Code Server before publishing it on GitHub release using Travis CI.
+
+### [117. Implementing Blue-Green Deployments with AWS Elastic Beanstalk](https://hackernoon.com/implementing-blue-green-deployments-with-aws-elastic-beanstalk)
 ![](https://cdn.hackernoon.com/images/uxL6qPzHtYSIO6VSowClROvyZ2Z2-w0d3sac.jpeg)
 In the realm of software development, the importance of continuous deployment and delivery can’t be overstated. Blue-green deployments further demonstrate why.
 
-### [117. Where is DevOps Going in 2021?](https://hackernoon.com/where-is-devops-going-in-2021-vz2t31f4)
+### [118. Where is DevOps Going in 2021?](https://hackernoon.com/where-is-devops-going-in-2021-vz2t31f4)
 ![](https://cdn.hackernoon.com/images/H3d7MQIGuRUIO6AcNo9J5oq6GsW2-qq1o3160.jpeg)
 Efficiency, speed, transparency — all of this is possible with DevOps. In 2021, AI, data security, assembly lines, and more will take over as DevOps trends.
 
-### [118. How To Build CI/CD Pipelines Behind Your Firewall Using Codefresh Runner ](https://hackernoon.com/how-to-build-cicd-pipelines-behind-your-firewall-using-codefresh-runner-n8163uw6)
+### [119. How To Build CI/CD Pipelines Behind Your Firewall Using Codefresh Runner ](https://hackernoon.com/how-to-build-cicd-pipelines-behind-your-firewall-using-codefresh-runner-n8163uw6)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F615UtKdRZ9fGzXClYWk79XVkIbv2-65s2808.jpeg?alt=media&token=de0f2228-5bc3-4904-87f4-f0e9961484e3)
 Continuous Integration/Delivery (CI/CD) is one of the most obvious candidates for moving to a Kubernetes cluster, as you automatically enjoy all the benefits of Kubernetes scalability. In traditional CI solutions, companies employ a fixed set of build nodes that teams must manually monitor and upgrade.
 
-### [119. Approaching Unit Testing in iOS Correctly](https://hackernoon.com/approaching-unit-testing-in-ios-correctly-lmr3u13)
+### [120. Approaching Unit Testing in iOS Correctly](https://hackernoon.com/approaching-unit-testing-in-ios-correctly-lmr3u13)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsKUg89yJOWchW3oscCcEhyRkcjj1-fd2d3uoa.jpeg?alt=media&token=1fa605c5-8559-4ba8-a35a-7e0681e9eda9)
 Why does my application get so buggy after each release?
-
-### [120. How to Create an Extension Pack for VSCode & Code Server](https://hackernoon.com/how-to-create-an-extension-pack-for-vscode-and-code-server)
-![](https://cdn.hackernoon.com/images/Za3QtTvBFDSxRQKeQkur9mQWXt83-hxi32mj.jpeg)
-This guide outlines and explains the process for creating an extension pack for VS Code & Code Server before publishing it on GitHub release using Travis CI.
 
 ### [121. How To Stay On Top Of Your Dependency Management](https://hackernoon.com/how-to-stay-on-top-of-your-dependency-management-8ls323n)
 ![](https://cdn.hackernoon.com/drafts/4p1j8322u.png)
@@ -505,17 +509,17 @@ Love it or hate it, manual testing is still the most widely used form of QA.
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-tb93pmt.jpeg)
 
 
-### [126. Launch a Website Within 2 Days For 1M Users With 0 Costs ](https://hackernoon.com/launch-a-website-within-two-days-for-1m-users-with-zero-costs-u22p368v)
+### [126. A Senior Engineer’s Guide to Scalable & Reliable System Design](https://hackernoon.com/a-senior-engineers-guide-to-scalable-and-reliable-system-design)
+![](https://cdn.hackernoon.com/images/system-design-vdmuv8bxtso89p4cy35h3q07.png)
+
+
+### [127. Launch a Website Within 2 Days For 1M Users With 0 Costs ](https://hackernoon.com/launch-a-website-within-two-days-for-1m-users-with-zero-costs-u22p368v)
 ![](https://cdn.hackernoon.com/images/vpys3avw.jpg)
 All the magic began on 26th Jan, 2020. The original idea started with a simple question. “Why don’t we build a website that gathers ALL information about the coronavirus in Hong Kong?” together with a list of bullet points of how to achieve an MVP. Shortly after, a telegram group was formed and some of us from the group spent their Chinese New Year holiday with the stacks of Gatsby and Kintohub, at 11 pm, on 28th Jan 2020 our site https://wars.vote4.hk/en went online… Within 24 hours we reached almost 1M users (983k to be exact) and our stack didn’t crash and was completely free!!!
 
-### [127. 7 Pitfalls of Continuous Deployment and How to Avoid Them](https://hackernoon.com/7-pitfalls-of-continuous-deployment-and-how-to-avoid-them)
+### [128. 7 Pitfalls of Continuous Deployment and How to Avoid Them](https://hackernoon.com/7-pitfalls-of-continuous-deployment-and-how-to-avoid-them)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-c083wf2.jpeg)
 Continuous deployment automates software updates from code to production, ensuring fast, reliable releases.
-
-### [128. A Senior Engineer’s Guide to Scalable & Reliable System Design](https://hackernoon.com/a-senior-engineers-guide-to-scalable-and-reliable-system-design)
-![](https://cdn.hackernoon.com/images/system-design-vdmuv8bxtso89p4cy35h3q07.png)
-
 
 ### [129. How CI/CD and Microservices Led to Kubernetes: Kube Explained Part 1](https://hackernoon.com/kube-explained-part-1-how-cicd-and-microservices-led-to-kubernetes-r1r3tgh)
 ![](https://cdn.hackernoon.com/drafts/8v1n3tkm.png)
@@ -525,13 +529,13 @@ Engineering teams have always had constant pressure to deliver software faster, 
 ![](https://cdn.hackernoon.com/images/kke5nGdB3XOSpne5vchc5MRynux1-hq03n0p.webp)
 Shift Left Security practices developers actually like — with code examples, guardrails, and policy as code to reduce friction.
 
-### [131. DevOps for Quantum Computing: Architecting a Deployment Framework for Hybrid Qiskit Applications](https://hackernoon.com/devops-for-quantum-computing-architecting-a-deployment-framework-for-hybrid-qiskit-applications)
-![](https://cdn.hackernoon.com/images/Pbgi0a9p0yW6IqPCr5uIvhARd8w1-dd03bs0.jpeg)
-Quantum computing is moving from the lab to the enterprise. 
-
-### [132. How I Got My CI/CD Act together With Heroku Flow](https://hackernoon.com/how-i-got-my-cicd-act-together-with-heroku-flow)
+### [131. How I Got My CI/CD Act together With Heroku Flow](https://hackernoon.com/how-i-got-my-cicd-act-together-with-heroku-flow)
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-rgt32nw.jpeg)
 If you want to go all in on Heroku, you can use a series of solutions called Heroku Flow to configure all your CI/CD without any third parties.
+
+### [132. The CI/CD Pipeline for a DevOps Project: What is It and Why Use It?](https://hackernoon.com/the-cicd-pipeline-for-a-devops-project-what-is-it-and-why-use-it)
+![](https://cdn.hackernoon.com/images/m72bmcDdzHOrG3tFshlZQsYEzRn2-05b3toz.png)
+What are the stages of CI/CD? Learn how to set up and maintain a successful CI/CD pipeline for your next DevOps project.
 
 ### [133. How to Make a DevOps Strategy](https://hackernoon.com/how-to-make-a-devops-strategy-pk153uyb)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-s8123wp8.jpeg?alt=media&token=860d68f8-d6f4-4314-9826-1d593bd21af5)
@@ -541,381 +545,397 @@ DevOps is a deployment process that helps automate a lot of processes that used 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtoLY4PCF0TRXOexjyVxnugBnPOD2-33w3yzf.jpeg?alt=media&token=19b38147-6a58-4cf6-9f42-98a46bca2d9a)
 I have been using Lambda in production for about four years now personally, and three years professionally at Volta. Initially, I shipped Lambdas because it was easier than managing servers. At Volta, we now exclusively use server-less services because they are the smartest option for our workloads if we remember to support them correctly. This is a cheat sheet, a checklist of all the things you might want to remember when shipping something new to ensure it runs successfully.
 
-### [135. The CI/CD Pipeline for a DevOps Project: What is It and Why Use It?](https://hackernoon.com/the-cicd-pipeline-for-a-devops-project-what-is-it-and-why-use-it)
-![](https://cdn.hackernoon.com/images/m72bmcDdzHOrG3tFshlZQsYEzRn2-05b3toz.png)
-What are the stages of CI/CD? Learn how to set up and maintain a successful CI/CD pipeline for your next DevOps project.
+### [135. Generating Unique Values for Test Data in MySQL](https://hackernoon.com/generating-unique-values-for-test-data-in-mysql)
+![](https://cdn.hackernoon.com/images/ZFT8ypYqRcQGo0NU17QYMPRU2zK2-s993p97.jpeg)
+Generating unique values for test data in MySQL
 
 ### [136. Circle CI: How To Run Ruby and JavaScript Tests in Parallel](https://hackernoon.com/circle-ci-how-to-run-ruby-and-javascript-tests-in-parallel-he1n31st)
 ![](https://cdn.hackernoon.com/images/E24EbX15XQZvYPaITR5WEGVmupv2-z82a31n3.jpeg)
 Configure the CI server to run parallel tests in the shortest CI build time. Ruby and JavaScript examples of parallel testing.
 
-### [137. Generating Unique Values for Test Data in MySQL](https://hackernoon.com/generating-unique-values-for-test-data-in-mysql)
-![](https://cdn.hackernoon.com/images/ZFT8ypYqRcQGo0NU17QYMPRU2zK2-s993p97.jpeg)
-Generating unique values for test data in MySQL
-
-### [138. Smarter DevOps Pipeline with GitHub CI and Azure Automation](https://hackernoon.com/smarter-devops-pipeline-with-github-ci-and-azure-automation)
+### [137. Smarter DevOps Pipeline with GitHub CI and Azure Automation](https://hackernoon.com/smarter-devops-pipeline-with-github-ci-and-azure-automation)
 ![](https://cdn.hackernoon.com/images/SAnLN7eHQ7eZr9DaZvqYBwZoq0i2-yb03d8l.jpeg)
 Build a smarter DevOps pipeline using GitHub CI and Azure Automation with best practices for CI/CD, IaC, security, and scalable cloud deployments
 
-### [139. Turns out those years mastering Jenkins weren't in waste](https://hackernoon.com/turns-out-those-years-mastering-jenkins-werent-in-waste-ckx35lx)
+### [138. Turns out those years mastering Jenkins weren't in waste](https://hackernoon.com/turns-out-those-years-mastering-jenkins-werent-in-waste-ckx35lx)
 ![](https://cdn.hackernoon.com/images/CdA2GWJS37fn9aPl047oAZhHYRC2-9n3633o1.jpeg)
 Over 200 ex-Jenkins engineers shared their experience of migration to cloud CI. We look into their happiness, productivity and more.
 
-### [140. Building a Custom Solution for Financial Analytics](https://hackernoon.com/building-a-custom-solution-for-financial-analytics)
+### [139. Re-thinking DevOps Practices to Handle Accelerating Dev Throughput](https://hackernoon.com/re-thinking-devops-practices-to-handle-accelerating-dev-throughput)
+![](https://cdn.hackernoon.com/images/oAdRQlbB36U5aHYoti2tsMt6qy82-qm837cf.png)
+Gitflow was designed for a world where PRs were infrequent. AI agents are opening 50 a day. Your shared dev environment was never built to survive that.
+
+### [140. Modernization Is Not Migration: Here's Why](https://hackernoon.com/modernization-is-not-migration-heres-why)
+![](https://cdn.hackernoon.com/images/nKLnlXp7w9hykg8AIHUxZN2Rh1n2-n783fzl.jpeg)
+How operational engineering—not infrastructure—determines whether cloud modernization delivers reliability in regulated financial data platforms.
+
+### [141. Building a Custom Solution for Financial Analytics](https://hackernoon.com/building-a-custom-solution-for-financial-analytics)
 ![](https://cdn.hackernoon.com/images/fxFqv8scuCZQKHnuHsaf8Nb30wR2-sq03ojq.jpeg)
 The success of financial services is highly dependent on data accuracy and analytics. Creating a custom solution helps to overcome this challenge.
 
-### [141. 5 Best Microservices CI/CD Tools You Need to Check Out](https://hackernoon.com/5-best-microservices-cicd-tools-you-need-to-check-out-dj1637s4)
+### [142. 5 Best Microservices CI/CD Tools You Need to Check Out](https://hackernoon.com/5-best-microservices-cicd-tools-you-need-to-check-out-dj1637s4)
 ![](https://cdn.hackernoon.com/images/0DxhR2wKkBWFVTrMKykkOMUzoev2-8d1jx350a.jpeg)
 The blog provides information on the build & deploy tools that are centred around microservices application delivery and are being used in the industry today.
 
-### [142. Is Manual Deployment Dead? CI/CD's Future (and Why You Should Care)](https://hackernoon.com/is-manual-deployment-dead-cicds-future-and-why-you-should-care)
+### [143. Is Manual Deployment Dead? CI/CD's Future (and Why You Should Care)](https://hackernoon.com/is-manual-deployment-dead-cicds-future-and-why-you-should-care)
 ![](https://cdn.hackernoon.com/images/ZQJh8eY4IybKZa4c9Od7WOoE5qE2-yjb3yik.jpeg)
 CI/CD is knocking on the door, promising automated rollouts and stress-free sleep. But is manual deployment truly doomed? Dive into our post to uncover!
 
-### [143. How to Build a High-Performance DevOps Toolchain ](https://hackernoon.com/how-to-build-a-high-performance-devops-toolchain)
-![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-zsa3pek.jpeg)
-Last week, the 2023 State of CD report was released. One of the many interesting sections in this year's report looked at DevOps-related technologies. 
+### [144. No More Silent Analytics Bugs: All it Takes is One SDK and One Github Action](https://hackernoon.com/no-more-silent-analytics-bugs-all-it-takes-is-one-sdk-and-one-github-action)
+![](https://cdn.hackernoon.com/images/NjAziMwIyeYk1GVd0qWIjpIAhC82-p283r3p.jpeg)
+Avoid silent analytics bugs by using two Open Source tools. First, get free from vendor lock-in by replacing the vendor analytics SDKs with RudderStack SDK that
 
-### [144. How Continuous Delivery Helps Startups to Deliver Value](https://hackernoon.com/how-continuous-delivery-helps-startups-to-deliver-value)
+### [145. How Continuous Delivery Helps Startups to Deliver Value](https://hackernoon.com/how-continuous-delivery-helps-startups-to-deliver-value)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-cya3myi.jpeg)
 The continuous model implies the frequent and predictable release of quality products. Let's understand the business benefits of Continuous Delivery.
 
-### [145. Build Your First API Server From Scratch With JAVA and Minikube ](https://hackernoon.com/build-your-first-api-server-from-scratch-with-java-and-minikube)
+### [146. How to Future-Proof Your Technical Documentation for AI and RAG Systems](https://hackernoon.com/how-to-future-proof-your-technical-documentation-for-ai-and-rag-systems)
+![](https://cdn.hackernoon.com/images/Uiszz7XD08eqXulf2H2JkhgHq8P2-d0939p8.jpeg)
+Future-proof your technical documentation: including the "No Fluff" Policy, Semantic Tagging, and Metadata-Aware Chunking for RAG and LLMs.
+
+### [147. How to Build a High-Performance DevOps Toolchain ](https://hackernoon.com/how-to-build-a-high-performance-devops-toolchain)
+![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-zsa3pek.jpeg)
+Last week, the 2023 State of CD report was released. One of the many interesting sections in this year's report looked at DevOps-related technologies. 
+
+### [148. Build Your First API Server From Scratch With JAVA and Minikube ](https://hackernoon.com/build-your-first-api-server-from-scratch-with-java-and-minikube)
 ![](https://cdn.hackernoon.com/images/0ztBOoF6bJMWrOeuBi7YXBNEf5K2-g793zlv.jpeg)
 With this article, you may build your simple API server on JAVA
 without super-knowledge,  and deploy it on minikube automatically with scripts. 
 
-### [146. I Got a New EKS Cluster Running And Terraform Code in 2 minutes](https://hackernoon.com/i-got-a-new-eks-cluster-running-and-terraform-code-in-2-minutes-ox7v36xr)
-![](https://cdn.hackernoon.com/images/n72o1369y.jpg)
-AWS EKS + Terraform + Cloudskiff do the job
-
-### [147. The Noonification: How to Create a CI/CD Pipeline Using GitHub and AWS EC2 (5/1/2024)](https://hackernoon.com/5-1-2024-noonification)
+### [149. The Noonification: How to Create a CI/CD Pipeline Using GitHub and AWS EC2 (5/1/2024)](https://hackernoon.com/5-1-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_606_qvaq56zt0vx4305c26lg6f9n.png)
 5/1/2024: Top 5 stories on the HackerNoon homepage!
 
-### [148. Do You Really Need Staging Environment?](https://hackernoon.com/do-you-really-need-staging-environment-1x1o33ev)
+### [150. I Got a New EKS Cluster Running And Terraform Code in 2 minutes](https://hackernoon.com/i-got-a-new-eks-cluster-running-and-terraform-code-in-2-minutes-ox7v36xr)
+![](https://cdn.hackernoon.com/images/n72o1369y.jpg)
+AWS EKS + Terraform + Cloudskiff do the job
+
+### [151. Do You Really Need Staging Environment?](https://hackernoon.com/do-you-really-need-staging-environment-1x1o33ev)
 ![](https://cdn.hackernoon.com/images/mvOkYqAhoLOSxkr5SCJA5giaxJY2-pz4s33en.jpeg)
 A couple of months ago, our feature flagging platform suffered a 44 minute API outage.
 
-### [149. Releasing New Versions Should Be Boring. Really Boring.](https://hackernoon.com/releasing-new-versions-should-be-boring-really-boring)
+### [152. Releasing New Versions Should Be Boring. Really Boring.](https://hackernoon.com/releasing-new-versions-should-be-boring-really-boring)
 ![](https://cdn.hackernoon.com/images/kVpjfmfbglT2utAK2vk9aw1Y7e23-uu127ue.jpeg)
 Releasing a new version of a tool should be transparent, effortless, reliable, and informative. vnext and modular workflows help accomplish this.
 
-### [150. Re-thinking DevOps Practices to Handle Accelerating Dev Throughput](https://hackernoon.com/re-thinking-devops-practices-to-handle-accelerating-dev-throughput)
-![](https://cdn.hackernoon.com/images/oAdRQlbB36U5aHYoti2tsMt6qy82-qm837cf.png)
-Gitflow was designed for a world where PRs were infrequent. AI agents are opening 50 a day. Your shared dev environment was never built to survive that.
+### [153. Maximize Vercel's FREE Plan: Enable Auto Deployment for All Members](https://hackernoon.com/maximize-vercels-free-plan-enable-auto-deployment-for-all-members)
+![](https://cdn.hackernoon.com/images/jStFgqJ9QRdiGkR6khwJAgLD6Dl2-lf233s7.png)
+You can create a GitHub Action that performs an empty commit, triggering Vercel to deploy.
 
-### [151. From Platform Paralysis to Production: Why We Chose Netlify and Railway](https://hackernoon.com/from-platform-paralysis-to-production-why-we-chose-netlify-and-railway)
-![](https://cdn.hackernoon.com/images/5I0cM99pblO6ylG6e1azeitl5513-na23a39.png)
-Escape deployment platform paralysis:Why we chose Netlify+Railway for our FastAPI React app.
-
-### [152. Automatic Cross-Platform Deployments with Electron on a Travis CI Server](https://hackernoon.com/automatic-cross-platform-deployments-with-electron-on-a-travis-ci-server-vf8q3yyq)
-![](https://cdn.hackernoon.com/images/8d4z73ye0.jpg)
-This is a tutorial on how to setup an Electron app on Travis CI, so that new versions are deployed to Github Releases with a simple pull request.
-
-### [153. DevOps Implementation: Is it Really Worth an IT Company's Investment?](https://hackernoon.com/devops-implementation-is-it-really-worth-an-it-companys-investment)
+### [154. DevOps Implementation: Is it Really Worth an IT Company's Investment?](https://hackernoon.com/devops-implementation-is-it-really-worth-an-it-companys-investment)
 ![](https://cdn.hackernoon.com/images/ZI6rcoTwwzWS1AH495rMgbPSeWl1-1na36y6.jpeg)
 DevOps has emerged as the future of the software delivery process. Companies are shifting their focus on optimizing software quality and time through DevOps. 
 
-### [154. DevOps and CI/CD Collaboration: Bridging the Gap for Efficient
+### [155. DevOps and CI/CD Collaboration: Bridging the Gap for Efficient
 Software Development](https://hackernoon.com/devops-and-cicd-collaboration-bridging-the-gap-for-efficient-software-development)
 ![](https://cdn.hackernoon.com/images/9WBA7FGVtXYR4G5x8a9OiGEENuI3-iaa3xlr.jpeg)
 Unlock the power of DevOps and CI/CD collaboration with our easy steps. Streamline software development for efficiency and success.
-
-### [155. How to Automate Heroku App Deployment with GitLab CI/CD](https://hackernoon.com/how-to-automate-heroku-app-deployment-with-gitlab-cicd)
-![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-dl8308s.jpeg)
-Today we’ll show you how you can deploy your Heroku app automatically any time code is merged into your main branch by using GitLab CI/CD.
 
 ### [156. Go With the CI/CD Flow: Using Heroku Flow With Gitflow Branching](https://hackernoon.com/go-with-the-cicd-flow-using-heroku-flow-with-gitflow-branching)
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-8fu32wx.jpeg)
 In this article, we walk you through how to set up Heroku Flow for CI/CD using a dev and main branch and a staging and production app.
 
-### [157. Maximize Vercel's FREE Plan: Enable Auto Deployment for All Members](https://hackernoon.com/maximize-vercels-free-plan-enable-auto-deployment-for-all-members)
-![](https://cdn.hackernoon.com/images/jStFgqJ9QRdiGkR6khwJAgLD6Dl2-lf233s7.png)
-You can create a GitHub Action that performs an empty commit, triggering Vercel to deploy.
+### [157. How to Automate Heroku App Deployment with GitLab CI/CD](https://hackernoon.com/how-to-automate-heroku-app-deployment-with-gitlab-cicd)
+![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-dl8308s.jpeg)
+Today we’ll show you how you can deploy your Heroku app automatically any time code is merged into your main branch by using GitLab CI/CD.
 
-### [158. TestProject 2.0 Next-Gen: Test Automation Without Limitations](https://hackernoon.com/testproject-20-next-gen-test-automation-without-limitations-ur13344o)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-krk29nd.jpeg)
-Hello Folks, I'm back with my article on TestProject but this time with their 2.0 release. 
+### [158. Automatic Cross-Platform Deployments with Electron on a Travis CI Server](https://hackernoon.com/automatic-cross-platform-deployments-with-electron-on-a-travis-ci-server-vf8q3yyq)
+![](https://cdn.hackernoon.com/images/8d4z73ye0.jpg)
+This is a tutorial on how to setup an Electron app on Travis CI, so that new versions are deployed to Github Releases with a simple pull request.
 
 ### [159. The Comparison of Top 10 Automated Mobile Testing Tools](https://hackernoon.com/the-comparison-of-top-10-automated-mobile-testing-tools)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-pc03758.jpeg)
 Mobile testing is the process of testing mobile applications for functionality, usability or performance through the use of tools or open-source frameworks.
 
-### [160. Deep Dive Into DevSecOps: Heroku Flow Edition](https://hackernoon.com/deep-dive-into-devsecops-heroku-flow-edition-y51o3566)
+### [160. TestProject 2.0 Next-Gen: Test Automation Without Limitations](https://hackernoon.com/testproject-20-next-gen-test-automation-without-limitations-ur13344o)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-krk29nd.jpeg)
+Hello Folks, I'm back with my article on TestProject but this time with their 2.0 release. 
+
+### [161. DevOps for Quantum Computing: Architecting a Deployment Framework for Hybrid Qiskit Applications](https://hackernoon.com/devops-for-quantum-computing-architecting-a-deployment-framework-for-hybrid-qiskit-applications)
+![](https://cdn.hackernoon.com/images/Pbgi0a9p0yW6IqPCr5uIvhARd8w1-dd03bs0.jpeg)
+Quantum computing is moving from the lab to the enterprise. 
+
+### [162. Deep Dive Into DevSecOps: Heroku Flow Edition](https://hackernoon.com/deep-dive-into-devsecops-heroku-flow-edition-y51o3566)
 ![](https://hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-xb1x31hr.jpeg)
 An Overview of DevSecOps and How to Automate It
 
-### [161. DevOps Practices for Software Engineers to Learn](https://hackernoon.com/devops-practices-for-software-engineers-to-learn-z32y35ao)
+### [163. DevOps Practices for Software Engineers to Learn](https://hackernoon.com/devops-practices-for-software-engineers-to-learn-z32y35ao)
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-qb1s39s5.jpeg)
 In this world of cross-functional teams and microservice architecture, DevOps skills become increasingly important, and that starts with understanding CI/CD
 
-### [162. How to Ensure DevOps Security in CI/CD Environments](https://hackernoon.com/how-to-ensure-devops-security-in-cicd-environments-y5r35hi)
+### [164. How to Ensure DevOps Security in CI/CD Environments](https://hackernoon.com/how-to-ensure-devops-security-in-cicd-environments-y5r35hi)
 ![](https://cdn.hackernoon.com/images/U29ANbennINYbQNf8yAG8TriTaY2-sst35xp.jpeg)
 Security is a product feature, and everyone involved in the DevOps workflow is responsible for it. Here are some key measures to ensure greater security.
 
-### [163. REST API Automation Using Postman, Newman and Jenkins](https://hackernoon.com/rest-api-automation-using-postman-newman-and-jenkins)
+### [165. REST API Automation Using Postman, Newman and Jenkins](https://hackernoon.com/rest-api-automation-using-postman-newman-and-jenkins)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-ct030bi.jpeg)
 The article explores the author's experience in automating REST APIs using tools such as Postman, Newman and Jenkins.
 
-### [164. Are Your CICD and DevOps Tools Really Helping Developers? ](https://hackernoon.com/are-your-cicd-and-devops-tools-really-helping-developers)
+### [166. Are Your CICD and DevOps Tools Really Helping Developers? ](https://hackernoon.com/are-your-cicd-and-devops-tools-really-helping-developers)
 ![](https://cdn.hackernoon.com/images/5LsVg4XJOmUa8l8P62L80MH0aJx1-ak93k21.jpeg)
 If you are responsible for your team’s CICD and DevOps tools, have you ever asked yourself if the tools you built are really making developers’ lives easier? 
 
-### [165.  A Deep Dive Into GitHub Actions From Software Development to Data Engineering](https://hackernoon.com/a-deep-dive-into-github-actions-from-software-development-to-data-engineering)
+### [167.  A Deep Dive Into GitHub Actions From Software Development to Data Engineering](https://hackernoon.com/a-deep-dive-into-github-actions-from-software-development-to-data-engineering)
 ![](https://cdn.hackernoon.com/images/TbvBlyikqbYO9TG8r4NopOMeGSs1-1q02uwk.png)
 GitHub Actions is widely recognized as a powerful tool for automating tasks in software development. 
 
-### [166. How to Future-Proof Your Technical Documentation for AI and RAG Systems](https://hackernoon.com/how-to-future-proof-your-technical-documentation-for-ai-and-rag-systems)
-![](https://cdn.hackernoon.com/images/Uiszz7XD08eqXulf2H2JkhgHq8P2-d0939p8.jpeg)
-Future-proof your technical documentation: including the "No Fluff" Policy, Semantic Tagging, and Metadata-Aware Chunking for RAG and LLMs.
-
-### [167. Creating a Successful DevOps Strategy for Web3](https://hackernoon.com/creating-a-successful-devops-strategy-for-web3)
-![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-lf92pjq.jpeg)
-Exploring the tools that bring DevOps methodologies and practices to web3 development. 
-
-### [168. Managing NPM Dependency as A Professional](https://hackernoon.com/managing-npm-dependency-as-a-professional-ktz31jk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FDBmwq0SteFQHHX3MAHWlSX4NC1X2-wk4030c1.jpeg?alt=media&token=f1d349be-4c50-45ec-aef7-2e4487cf9175)
-Why do we talk about project quality and technical debt so much? Because this directly or indirectly affects the speed of development, the complexity of support, the time to implement new functionality, and the possibility of extending the current one.
-
-### [169. Connecting Your Old Jenkins Pipelines With The New Ones [A How-To Guide]](https://hackernoon.com/connecting-your-old-jenkins-pipelines-with-the-new-ones-a-how-to-guide-jpbe3zwx)
-![](https://cdn.hackernoon.com/images/k5g53wh5.jpg)
-As a software producer, you need to keep releases moving, even as you need to move your technology ahead. Transitioning your Jenkins continuous integration (CI) pipelines to a newer, optimized system can’t be a roadblock, and your enterprise can’t afford the work stoppage a rip-and-replace rework would require.
-
-### [170. The MVP Engineering Playbook: Ship a Useful 0→1 in 6 Weeks](https://hackernoon.com/the-mvp-engineering-playbook-ship-a-useful-01-in-6-weeks)
+### [168. The MVP Engineering Playbook: Ship a Useful 0→1 in 6 Weeks](https://hackernoon.com/the-mvp-engineering-playbook-ship-a-useful-01-in-6-weeks)
 ![](https://cdn.hackernoon.com/images/D9EZxSqFJkVedvLSYRMszLqXr5h1-eh03cjb.png)
 A practical MVP playbook: scope, thin slices, CI/CD, quality gates, and metrics to ship a reliable 0→1 in ~6 weeks—with checklists and examples. 
 
-### [171. DevOps, CI/CD, and Containerization: Key to Streamline Software Delivery](https://hackernoon.com/devops-cicd-and-containerization-key-to-streamline-software-delivery)
+### [169. Creating a Successful DevOps Strategy for Web3](https://hackernoon.com/creating-a-successful-devops-strategy-for-web3)
+![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-lf92pjq.jpeg)
+Exploring the tools that bring DevOps methodologies and practices to web3 development. 
+
+### [170. Managing NPM Dependency as A Professional](https://hackernoon.com/managing-npm-dependency-as-a-professional-ktz31jk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FDBmwq0SteFQHHX3MAHWlSX4NC1X2-wk4030c1.jpeg?alt=media&token=f1d349be-4c50-45ec-aef7-2e4487cf9175)
+Why do we talk about project quality and technical debt so much? Because this directly or indirectly affects the speed of development, the complexity of support, the time to implement new functionality, and the possibility of extending the current one.
+
+### [171. Connecting Your Old Jenkins Pipelines With The New Ones [A How-To Guide]](https://hackernoon.com/connecting-your-old-jenkins-pipelines-with-the-new-ones-a-how-to-guide-jpbe3zwx)
+![](https://cdn.hackernoon.com/images/k5g53wh5.jpg)
+As a software producer, you need to keep releases moving, even as you need to move your technology ahead. Transitioning your Jenkins continuous integration (CI) pipelines to a newer, optimized system can’t be a roadblock, and your enterprise can’t afford the work stoppage a rip-and-replace rework would require.
+
+### [172. DevOps, CI/CD, and Containerization: Key to Streamline Software Delivery](https://hackernoon.com/devops-cicd-and-containerization-key-to-streamline-software-delivery)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-vu93nao.jpeg)
 Take your organization to new heights with DevOps, CI/CD, and Containerization. Uncover the knowledge about these cutting-edge technologies in an impactful way.
 
-### [172. Understanding CI/CD in Software Development](https://hackernoon.com/understanding-cicd-in-software-development)
+### [173. Understanding CI/CD in Software Development](https://hackernoon.com/understanding-cicd-in-software-development)
 ![](https://cdn.hackernoon.com/images/a-laptop-displaying-code-cs6n9ol0s2kab12scf43cidf.png)
 Explore the dynamic world of Continuous Integration and Continuous Deployment (CI/CD) in software development.
 
-### [173. Introduction to DevSecOps: Securing the Software Development Lifecycle](https://hackernoon.com/introduction-to-devsecops-securing-the-software-development-lifecycle)
+### [174. Introduction to DevSecOps: Securing the Software Development Lifecycle](https://hackernoon.com/introduction-to-devsecops-securing-the-software-development-lifecycle)
 ![](https://cdn.hackernoon.com/images/f7mvcLjRzefkWf55Afwfc6OSxO93-h6h2l6p.jpeg)
 DevSecOps, an abbreviation for Development, Security, and Operations, is a methodology that enriches DevOps workflow with security practices.
 
-### [174. Scaling GitHub Actions on AWS with ForgeMT’s Security and Multi-Tenancy](https://hackernoon.com/scaling-github-actions-on-aws-with-forgemts-security-and-multi-tenancy)
+### [175. Scaling GitHub Actions on AWS with ForgeMT’s Security and Multi-Tenancy](https://hackernoon.com/scaling-github-actions-on-aws-with-forgemts-security-and-multi-tenancy)
 ![](https://cdn.hackernoon.com/images/SRwrN8d419dzZGl3J2LQJlB8wAl2-cd039ya.png)
 ForgeMT is a secure, scalable GitHub Actions runner platform on AWS, automating CI/CD, cutting costs, and enforcing strict multi-tenant isolation.
 
-### [175. How To Improve Your Software Documentation by Connecting Gitlab with Mkdocs](https://hackernoon.com/how-to-improve-your-software-documentation-by-connecting-gitlab-with-mkdocs-n82o316c)
-![](https://cdn.hackernoon.com/images/Pb71lqUjP9Xoc86ycdYFZZTa6bp1-qq3d210f.jpeg)
-Producing documentation may be painful and need a lot of time to write and operate. In this story, i will share with you, my way of generating docs using the devops approach. To make life easier, we will explore the art of automation 😃.
-
-### [176. Seamless Deployment to Aptible: Choosing the Right Approach](https://hackernoon.com/seamless-deployment-to-aptible-choosing-the-right-approach)
-![](https://cdn.hackernoon.com/images/programmer-c1mbp98fabk0f186rk7515x8.png)
-Exploring ways to deploy simple spring-boot application to Aptible.
-
-### [177. DevOps and Telco Sofwarisation - Part 1](https://hackernoon.com/devops-and-telco-sofwarisation-part-1-ng2j31f0)
-![](https://cdn.hackernoon.com/images/jwCKHXEmb3h3GdWaPUs7OgSEMoC3-uwr2835.png)
-In this series of articles, we will explore the convergence happening between the IT and Telecom industries, which is referred to as “Telco Softwarisation”. 
-
-### [178. Ship Smarter, Not Harder: Affordable Kubernetes CI/CD with GitHub Actions + Helm](https://hackernoon.com/ship-smarter-not-harder-affordable-kubernetes-cicd-with-github-actions-helm)
-![](https://cdn.hackernoon.com/images/rIVD9uGtDyTmdfox8lpMYgJi5AZ2-ag03bhx.jpeg)
-This guide is for freelancers and small teams who need reliable, inexpensive delivery to Kubernetes. 
-
-### [179. The HackerNoon Newsletter: AI Doesn’t Mean the End of Work for Us (1/25/2026)](https://hackernoon.com/1-25-2026-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_541_bsa6dkxkzs5vg62e9ub4830e.png)
-1/25/2026: Top 5 stories on the HackerNoon homepage!
-
-### [180. New Opensource Tool for One Command Server Deployment and Automation](https://hackernoon.com/new-opensource-tool-for-one-command-server-deployment-and-automation)
-![](https://cdn.hackernoon.com/images/ZjRlVwy9Sccuf8wlwT0EE4D320U2-ci023q4.jpeg)
-CICD -- An one command server deployment tool with lots of features.
-
-### [181. The 5 Most Common Messaging‑SDK Vulnerabilities (and How to Fix Them)](https://hackernoon.com/the-5-most-common-messagingsdk-vulnerabilities-and-how-to-fix-them)
+### [176. The 5 Most Common Messaging‑SDK Vulnerabilities (and How to Fix Them)](https://hackernoon.com/the-5-most-common-messagingsdk-vulnerabilities-and-how-to-fix-them)
 ![](https://cdn.hackernoon.com/images/5aKvfwPQHReAjvyPA2EnAAloDpE3-79038i2.jpeg)
 Five critical flaws lurk inside most messaging SDKs. Learn how to spot them—and fuzz your webhooks—before attackers hijack your chat or support channels.
 
-### [182. Accessing Private Google Artifact Registry with Poetry: Local and Docker Setup](https://hackernoon.com/accessing-private-google-artifact-registry-with-poetry-local-and-docker-setup)
+### [177. Accessing Private Google Artifact Registry with Poetry: Local and Docker Setup](https://hackernoon.com/accessing-private-google-artifact-registry-with-poetry-local-and-docker-setup)
 ![](https://cdn.hackernoon.com/images/DabUoDLPTdaW0lDjgxatLLbH1Nw2-oh037ep.png)
 Streamline your Python application development with Poetry in Docker, overcoming challenges with Google Artifact Registry access.
 
-### [183. DevOps and Telco Softwarisation - Part 3: A CI/CD setup for a  5G Telco project](https://hackernoon.com/devops-and-telco-softwarisation-part-3-a-cicd-setup-for-a-5g-telco-project-al6w319a)
-![](https://cdn.hackernoon.com/images/vs58yHu80FMCBlLC590ASRmc8Hl1-bh3431n3.jpeg)
-Image courtesy of Pexels: Troy Squillaci
+### [178. How To Improve Your Software Documentation by Connecting Gitlab with Mkdocs](https://hackernoon.com/how-to-improve-your-software-documentation-by-connecting-gitlab-with-mkdocs-n82o316c)
+![](https://cdn.hackernoon.com/images/Pb71lqUjP9Xoc86ycdYFZZTa6bp1-qq3d210f.jpeg)
+Producing documentation may be painful and need a lot of time to write and operate. In this story, i will share with you, my way of generating docs using the devops approach. To make life easier, we will explore the art of automation 😃.
 
-### [184. 80% of Issues Aren't Caught by Testing Alone: Build Your Data Reliability Stack to Reduce Downtime](https://hackernoon.com/80percent-of-issues-arent-caught-by-testing-alone-build-your-data-reliability-stack-to-reduce-downtime)
+### [179. From Platform Paralysis to Production: Why We Chose Netlify and Railway](https://hackernoon.com/from-platform-paralysis-to-production-why-we-chose-netlify-and-railway)
+![](https://cdn.hackernoon.com/images/5I0cM99pblO6ylG6e1azeitl5513-na23a39.png)
+Escape deployment platform paralysis:Why we chose Netlify+Railway for our FastAPI React app.
+
+### [180. Seamless Deployment to Aptible: Choosing the Right Approach](https://hackernoon.com/seamless-deployment-to-aptible-choosing-the-right-approach)
+![](https://cdn.hackernoon.com/images/programmer-c1mbp98fabk0f186rk7515x8.png)
+Exploring ways to deploy simple spring-boot application to Aptible.
+
+### [181. Ship Smarter, Not Harder: Affordable Kubernetes CI/CD with GitHub Actions + Helm](https://hackernoon.com/ship-smarter-not-harder-affordable-kubernetes-cicd-with-github-actions-helm)
+![](https://cdn.hackernoon.com/images/rIVD9uGtDyTmdfox8lpMYgJi5AZ2-ag03bhx.jpeg)
+This guide is for freelancers and small teams who need reliable, inexpensive delivery to Kubernetes. 
+
+### [182. DevOps and Telco Sofwarisation - Part 1](https://hackernoon.com/devops-and-telco-sofwarisation-part-1-ng2j31f0)
+![](https://cdn.hackernoon.com/images/jwCKHXEmb3h3GdWaPUs7OgSEMoC3-uwr2835.png)
+In this series of articles, we will explore the convergence happening between the IT and Telecom industries, which is referred to as “Telco Softwarisation”. 
+
+### [183. The HackerNoon Newsletter: AI Doesn’t Mean the End of Work for Us (1/25/2026)](https://hackernoon.com/1-25-2026-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_541_bsa6dkxkzs5vg62e9ub4830e.png)
+1/25/2026: Top 5 stories on the HackerNoon homepage!
+
+### [184. New Opensource Tool for One Command Server Deployment and Automation](https://hackernoon.com/new-opensource-tool-for-one-command-server-deployment-and-automation)
+![](https://cdn.hackernoon.com/images/ZjRlVwy9Sccuf8wlwT0EE4D320U2-ci023q4.jpeg)
+CICD -- An one command server deployment tool with lots of features.
+
+### [185. Building CI/CD Pipelines for Non-Deterministic Agents](https://hackernoon.com/building-cicd-pipelines-for-non-deterministic-agents)
+![](https://cdn.hackernoon.com/images/a-minimalist-control-panel-floating-in-dark-space-while-translucent-probability-waves-ripple-around-it-tyaset8id6v1uki68hzlmwl8.png)
+
+
+### [186. 80% of Issues Aren't Caught by Testing Alone: Build Your Data Reliability Stack to Reduce Downtime](https://hackernoon.com/80percent-of-issues-arent-caught-by-testing-alone-build-your-data-reliability-stack-to-reduce-downtime)
 ![](https://cdn.hackernoon.com/images/DttJtZIouwez0hRqxMq7CdRoQP83-yg934x2.jpeg)
 After speaking to hundreds of teams, I discovered ~80% of data issues aren’t covered by testing alone. Here are 4 layers to building a data reliability stack.
 
-### [185. Conducting Cross Browser Testing With Cypress in CI/CD using Docker](https://hackernoon.com/conducting-cross-browser-testing-with-cypress-in-cicd-using-docker)
+### [187. Conducting Cross Browser Testing With Cypress in CI/CD using Docker](https://hackernoon.com/conducting-cross-browser-testing-with-cypress-in-cicd-using-docker)
 ![](https://cdn.hackernoon.com/images/Jk8jZv20G2YYWf6AjGNu4ZTL25c2-n493snh.jpeg)
 Running Cypress tests across multiple browsers in CI/CD using Docker. 
 
-### [186. How To Localize Your Android App: A Step by Step Guide](https://hackernoon.com/how-to-localize-your-android-app-a-step-by-step-guide-5g3i34fs)
-![](https://cdn.hackernoon.com/images/qiorrXuxWIV8lnaEMTzZdXRIURp1-wa3p32dd.jpeg)
-This example project has everything you need to localize your native Android application on Smartcat platform, using a fully automated continuous localization approach.
+### [188. DevOps and Telco Softwarisation - Part 3: A CI/CD setup for a  5G Telco project](https://hackernoon.com/devops-and-telco-softwarisation-part-3-a-cicd-setup-for-a-5g-telco-project-al6w319a)
+![](https://cdn.hackernoon.com/images/vs58yHu80FMCBlLC590ASRmc8Hl1-bh3431n3.jpeg)
+Image courtesy of Pexels: Troy Squillaci
 
-### [187. Start To Take Actions with Buddy](https://hackernoon.com/start-to-take-actions-with-buddy-6z5a32d4)
+### [189. Start To Take Actions with Buddy](https://hackernoon.com/start-to-take-actions-with-buddy-6z5a32d4)
 ![](https://cdn.hackernoon.com/images/n44c362a.jpg)
 Buddy is the underdog of the CI/CD world. It's a frustrating world, filled with broken Jenkins servers and exhausting CodeBuild UIs. I discovered Buddy about a year ago and I've been raving about it ever since. It offers a different approach to a complex, difficult problem.
 
-### [188. API Testing Tools: 15 Quality Tools to Look Into](https://hackernoon.com/api-testing-tools-15-quality-tools-to-look-into)
-![](https://cdn.hackernoon.com/images/q4JmpLxJmpe4eNkyo0m1jfxQPft2-i2133o3.jpeg)
-The number of API testing tools on the market for you and your team to try out and select will probably take forever. 
-
-### [189. The CI/CD Model Development Process](https://hackernoon.com/the-cicd-model-development-process-862a37tw)
-![](https://cdn.hackernoon.com/images/dXI1QRJ8zNgLlqk3LlqfBXRzniJ3-mej335r2.jpeg)
-Continuous Integration (CI) and Continuous Delivery (CD) are staples of a modern software development workflow that enable developers to release their code rapi
-
-### [190. Shifting Containers Left: On the Quest for Reproducible Development Environments ](https://hackernoon.com/getting-reproducible-development-by-shifting-containers-left-ps6xu2d1h)
-![](https://cdn.hackernoon.com/images/77373273.jpg)
-Photo by Casey Horner on Unsplash
+### [190. How To Localize Your Android App: A Step by Step Guide](https://hackernoon.com/how-to-localize-your-android-app-a-step-by-step-guide-5g3i34fs)
+![](https://cdn.hackernoon.com/images/qiorrXuxWIV8lnaEMTzZdXRIURp1-wa3p32dd.jpeg)
+This example project has everything you need to localize your native Android application on Smartcat platform, using a fully automated continuous localization approach.
 
 ### [191. DevOps Shouldn't be Hard: Deployment Reports](https://hackernoon.com/devops-shouldnt-be-hard-reporting-s8k2k2r)
 ![](https://images.unsplash.com/photo-1551801841-ecad875a5142?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Previously, we managed to make our app redeploy on each commit. As you can remember, we get the status of deployment by processing script execution results. So let's use it to send a notification to ourselves each time we deploy our code.
 
-### [192. Migrating My Blog from WordPress to GitHub Pages: Lessons Learned](https://hackernoon.com/migrating-my-blog-from-wordpress-to-github-pages-lessons-learned)
+### [192. API Testing Tools: 15 Quality Tools to Look Into](https://hackernoon.com/api-testing-tools-15-quality-tools-to-look-into)
+![](https://cdn.hackernoon.com/images/q4JmpLxJmpe4eNkyo0m1jfxQPft2-i2133o3.jpeg)
+The number of API testing tools on the market for you and your team to try out and select will probably take forever. 
+
+### [193. The CI/CD Model Development Process](https://hackernoon.com/the-cicd-model-development-process-862a37tw)
+![](https://cdn.hackernoon.com/images/dXI1QRJ8zNgLlqk3LlqfBXRzniJ3-mej335r2.jpeg)
+Continuous Integration (CI) and Continuous Delivery (CD) are staples of a modern software development workflow that enable developers to release their code rapi
+
+### [194. Migrating My Blog from WordPress to GitHub Pages: Lessons Learned](https://hackernoon.com/migrating-my-blog-from-wordpress-to-github-pages-lessons-learned)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ao82qhu.png)
 Discover my journey of moving from WordPress to GitHub Pages. Learn how I tackled challenges with GitHub Actions and optimized the deployment process.
 
-### [193. Are You Empowering Your Development Team Enough? ](https://hackernoon.com/are-you-empowering-your-development-team-enough)
-![](https://cdn.hackernoon.com/images/KP6ZZCxmFpeLcptqGSTgnHaC0M82-8pa3v82.jpeg)
-CTOs and Development Leads must align tech roadmaps with business goals, choose effective tools, and navigate a balance.
-
-### [194. We Built a Project Generator Because DevOps Needs One](https://hackernoon.com/we-built-a-project-generator-because-devops-needs-one-fhr328g)
-![](https://cdn.hackernoon.com/images/jbkx3255.jpg)
-We, realMethods, are a small System Integrator. As a small SI with limited resources, we needed an advantage to compete for large engagements. We needed a lever we could pull that the bigger SIs could not. Before plowing head first into developing something, it was important to reflect on what we actually needed, had tried and experienced, what worked and did not work, and what mattered today that would still be relevant tomorrow.
-
-### [195. How To Run Cloud Tests From the Command Line](https://hackernoon.com/how-to-run-cloud-tests-from-the-command-line-kr1333k2)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-wpw33ph.jpeg)
-This CLI has been designed to perform any command that you would do on the Rungutan platform directly in your terminal!
-
-### [196. Guide To Pursue DevOps Agile Development Cycle And Develop a Better Software](https://hackernoon.com/guide-to-pursue-devops-agile-development-cycle-yj18321e)
-![](https://cdn.hackernoon.com/drafts/vp7f32mo.png)
-The rise of DevOps and Agile methodologies is apparent to anyone closely following the business world. Just last year, there was an 18 percent increase in DevOps adoption. Most business owners see the benefits of embracing both DevOps and Agile. With these methodologies in place, developers are able to get projects done in a timely and efficient manner.
-
-### [197. Perfecting the Recipe for Robust Cloud Applications: The Barista's Approach to Shift-Left Security ](https://hackernoon.com/perfecting-the-recipe-for-robust-cloud-applications-the-baristas-approach-to-shift-left-security)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-ehi3zj5.jpeg)
-Crafting secure cloud applications with meticulous sourcing, precise tooling, Zero Trust implementation, and continuous monitoring for digital coffee. ☕💻🔒
-
-### [198. Serverless Playbook For Enterprises](https://hackernoon.com/serverless-playbook-for-enterprises-v91t33x6)
+### [195. Serverless Playbook For Enterprises](https://hackernoon.com/serverless-playbook-for-enterprises-v91t33x6)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-e9k33k2.jpeg)
 We discuss quite a bit about going serverless for SMEs and startups, however it’s often those with an already huge infrastructure, such as enterprises, that can find the move and change daunting. We see many companies from the likes of Coca-Cola to Netflix managing it but what does it look like in action? In this article, we share some best practices and insights on the serverless designs that can scale massively and represent enterprise models. For a real life example, you can also check out how Shamrock Trading Corp migrated to serverless from a traditional cluster - psst, they’re also giving away their winning strategy for a smooth transition.
 
-### [199. Building CI/CD Pipelines for Non-Deterministic Agents](https://hackernoon.com/building-cicd-pipelines-for-non-deterministic-agents)
-![](https://cdn.hackernoon.com/images/a-minimalist-control-panel-floating-in-dark-space-while-translucent-probability-waves-ripple-around-it-tyaset8id6v1uki68hzlmwl8.png)
+### [196. Shifting Containers Left: On the Quest for Reproducible Development Environments ](https://hackernoon.com/getting-reproducible-development-by-shifting-containers-left-ps6xu2d1h)
+![](https://cdn.hackernoon.com/images/77373273.jpg)
+Photo by Casey Horner on Unsplash
 
+### [197. Are You Empowering Your Development Team Enough? ](https://hackernoon.com/are-you-empowering-your-development-team-enough)
+![](https://cdn.hackernoon.com/images/KP6ZZCxmFpeLcptqGSTgnHaC0M82-8pa3v82.jpeg)
+CTOs and Development Leads must align tech roadmaps with business goals, choose effective tools, and navigate a balance.
 
-### [200. Deployments: The Irrational Fear of Them](https://hackernoon.com/deployments-the-irrational-fear-of-them)
+### [198. Zero Trust Can't Save a Flawed Architecture](https://hackernoon.com/zero-trust-cant-save-a-flawed-architecture)
+![](https://cdn.hackernoon.com/images/ZaUoF8KpR5XpJCS96n75HJMcWQP2-cc03brn.jpeg)
+Deploying identity-aware proxies and MFA on top of flat networks, unreviewed firewall policies, and stale identity stores doesn't implement Zero Trust
+
+### [199. How To Run Cloud Tests From the Command Line](https://hackernoon.com/how-to-run-cloud-tests-from-the-command-line-kr1333k2)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-wpw33ph.jpeg)
+This CLI has been designed to perform any command that you would do on the Rungutan platform directly in your terminal!
+
+### [200. We Built a Project Generator Because DevOps Needs One](https://hackernoon.com/we-built-a-project-generator-because-devops-needs-one-fhr328g)
+![](https://cdn.hackernoon.com/images/jbkx3255.jpg)
+We, realMethods, are a small System Integrator. As a small SI with limited resources, we needed an advantage to compete for large engagements. We needed a lever we could pull that the bigger SIs could not. Before plowing head first into developing something, it was important to reflect on what we actually needed, had tried and experienced, what worked and did not work, and what mattered today that would still be relevant tomorrow.
+
+### [201. Perfecting the Recipe for Robust Cloud Applications: The Barista's Approach to Shift-Left Security ](https://hackernoon.com/perfecting-the-recipe-for-robust-cloud-applications-the-baristas-approach-to-shift-left-security)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-ehi3zj5.jpeg)
+Crafting secure cloud applications with meticulous sourcing, precise tooling, Zero Trust implementation, and continuous monitoring for digital coffee. ☕💻🔒
+
+### [202. Guide To Pursue DevOps Agile Development Cycle And Develop a Better Software](https://hackernoon.com/guide-to-pursue-devops-agile-development-cycle-yj18321e)
+![](https://cdn.hackernoon.com/drafts/vp7f32mo.png)
+The rise of DevOps and Agile methodologies is apparent to anyone closely following the business world. Just last year, there was an 18 percent increase in DevOps adoption. Most business owners see the benefits of embracing both DevOps and Agile. With these methodologies in place, developers are able to get projects done in a timely and efficient manner.
+
+### [203. Deployments: The Irrational Fear of Them](https://hackernoon.com/deployments-the-irrational-fear-of-them)
 ![](https://cdn.hackernoon.com/images/BmY63ePjY9PXWBDNINRbyojfcK92-c20342k.jpeg)
 The anxiety of deployments is real. Let's take a stab at understanding the human emotions related to deployment and learn best practices to minimize the fear.
 
-### [201. DevOps Shouldn't be Hard: Configurating CD Server](https://hackernoon.com/devops-shouldnt-be-hard-cd-server-yy152kkm)
-![](https://images.unsplash.com/photo-1553159925-02b2e24f471d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-I wanted to write this guide for a while because DevOps is one of the things that is not discussed much yet there are a few straightforward actions that you can integrate into your workflow that will make your developer life much easier.
-
-### [202. Why Open Source Conquers The Telecommunications Industry ](https://hackernoon.com/why-open-source-conquers-the-telecommunications-industry-121i33l3)
-![](https://cdn.hackernoon.com/images/jwCKHXEmb3h3GdWaPUs7OgSEMoC3-sl9h2820.jpeg)
-open source invading telco industry
-
-### [203. Releasing Utilities Package to GitHub Packages: A Guide](https://hackernoon.com/releasing-utilities-package-to-github-packages-a-guide)
+### [204. Releasing Utilities Package to GitHub Packages: A Guide](https://hackernoon.com/releasing-utilities-package-to-github-packages-a-guide)
 ![](https://cdn.hackernoon.com/images/JcQXcQQkIGNvfuLAO6lod8fJIS52-qs03bn1.jpeg)
 How to publish a private, reusable JavaScript/TypeScript package to GitHub Packages for internal use, with a secure, manual CI workflow and scoped access contro
 
-### [204. DevOps and Telco Softwarisation - Part 2: A Simple CI/CD Example](https://hackernoon.com/devops-and-telco-softwarisation-part-2-a-simple-cicd-example-z93q31ck)
-![](https://cdn.hackernoon.com/images/vs58yHu80FMCBlLC590ASRmc8Hl1-j61t3178.jpeg)
-Image courtesy of Pixabay
-
-### [205. GitOps: From Chaos to Control - Managing Infrastructure Like Code](https://hackernoon.com/gitops-from-chaos-to-control-managing-infrastructure-like-code)
-![](https://cdn.hackernoon.com/images/ZQJh8eY4IybKZa4c9Od7WOoE5qE2-i7b3zvp.jpeg)
-Master GitOps, the game-changer for unified infrastructure & app management. Learn how Git & CI/CD pipelines bring order to the chaos. 
-
-### [206. Implementing CI/CD Pipelines with AWS CodePipeline and CodeBuild](https://hackernoon.com/implementing-cicd-pipelines-with-aws-codepipeline-and-codebuild)
+### [205. Implementing CI/CD Pipelines with AWS CodePipeline and CodeBuild](https://hackernoon.com/implementing-cicd-pipelines-with-aws-codepipeline-and-codebuild)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yn93s7n.png)
 Explore the implementation of  CI/CD pipelines using AWS CodePipeline and CodeBuild, streamlining the development and deployment processes.
 
-### [207. A Comparative Analysis: DevOps Continuous Deployment vs Continuous Delivery](https://hackernoon.com/a-comparative-analysis-devops-continuous-deployment-vs-continuous-delivery)
+### [206. DevOps Shouldn't be Hard: Configurating CD Server](https://hackernoon.com/devops-shouldnt-be-hard-cd-server-yy152kkm)
+![](https://images.unsplash.com/photo-1553159925-02b2e24f471d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+I wanted to write this guide for a while because DevOps is one of the things that is not discussed much yet there are a few straightforward actions that you can integrate into your workflow that will make your developer life much easier.
+
+### [207. Why Open Source Conquers The Telecommunications Industry ](https://hackernoon.com/why-open-source-conquers-the-telecommunications-industry-121i33l3)
+![](https://cdn.hackernoon.com/images/jwCKHXEmb3h3GdWaPUs7OgSEMoC3-sl9h2820.jpeg)
+open source invading telco industry
+
+### [208. GitOps: From Chaos to Control - Managing Infrastructure Like Code](https://hackernoon.com/gitops-from-chaos-to-control-managing-infrastructure-like-code)
+![](https://cdn.hackernoon.com/images/ZQJh8eY4IybKZa4c9Od7WOoE5qE2-i7b3zvp.jpeg)
+Master GitOps, the game-changer for unified infrastructure & app management. Learn how Git & CI/CD pipelines bring order to the chaos. 
+
+### [209. DevOps and Telco Softwarisation - Part 2: A Simple CI/CD Example](https://hackernoon.com/devops-and-telco-softwarisation-part-2-a-simple-cicd-example-z93q31ck)
+![](https://cdn.hackernoon.com/images/vs58yHu80FMCBlLC590ASRmc8Hl1-j61t3178.jpeg)
+Image courtesy of Pixabay
+
+### [210. A Comparative Analysis: DevOps Continuous Deployment vs Continuous Delivery](https://hackernoon.com/a-comparative-analysis-devops-continuous-deployment-vs-continuous-delivery)
 ![](https://cdn.hackernoon.com/images/SufnpYHo62ZUJ3Z1U1ZnJaizj502-t694szi.jpeg)
  This article delves into the distinctions, advantages, and practical implementations of these crucial DevOps methodologies, empowering readers with insights
 
-### [208. Never Worry About Cloud-Native Tech Security Again](https://hackernoon.com/never-worry-about-cloud-native-tech-security-again-sf1k3tba)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvI89MS8Ou8OYOnT4ESBSH9HkCrz2-582z3upb.jpeg?alt=media&token=bbce3905-722b-42b6-af35-62cbaad0b4b0)
-If you have embraced the concept of cloud-native computing and principles, you are ahead; you are on the right path in today’s advanced and competitive IT environment. But we need to understand one thing that, moving your development environment and processes to a cloud-native environment can be daunting and challenging. Anybody can merely advise you to move from a monolithic application to a microservices architecture, but from where and how are the questions that need critical analysis. 
-
-### [209. Mastering CI/CD: A Simplified Guide for Entry and Mid-Level Full-Stack Developers](https://hackernoon.com/mastering-cicd-a-simplified-guide-for-entry-and-mid-level-full-stack-developers)
+### [211. Mastering CI/CD: A Simplified Guide for Entry and Mid-Level Full-Stack Developers](https://hackernoon.com/mastering-cicd-a-simplified-guide-for-entry-and-mid-level-full-stack-developers)
 ![](https://cdn.hackernoon.com/images/5KaAW2aPoBW6JARCP3Gc0MjAqGf2-o682s1n.png)
 Learn to build, test, and deploy applications seamlessly, ensuring code integrity and efficiency.
 
-### [210. Simplified Spinnaker is Possible: I Never Thought About it](https://hackernoon.com/simplified-spinnaker-is-possible-i-never-thought-about-it-eny35vh)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-bpe35lb.jpeg)
-Getting Spinnaker running is not an easy feat. Armory's Minnaker open source application gets you started in 10 minutes, so you can focus on Armory's value.
+### [212. Never Worry About Cloud-Native Tech Security Again](https://hackernoon.com/never-worry-about-cloud-native-tech-security-again-sf1k3tba)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvI89MS8Ou8OYOnT4ESBSH9HkCrz2-582z3upb.jpeg?alt=media&token=bbce3905-722b-42b6-af35-62cbaad0b4b0)
+If you have embraced the concept of cloud-native computing and principles, you are ahead; you are on the right path in today’s advanced and competitive IT environment. But we need to understand one thing that, moving your development environment and processes to a cloud-native environment can be daunting and challenging. Anybody can merely advise you to move from a monolithic application to a microservices architecture, but from where and how are the questions that need critical analysis. 
 
-### [211. The Developer Hack That Turned 3-Minute Waits Into 30 Seconds](https://hackernoon.com/the-developer-hack-that-turned-3-minute-waits-into-30-seconds)
+### [213. The Developer Hack That Turned 3-Minute Waits Into 30 Seconds](https://hackernoon.com/the-developer-hack-that-turned-3-minute-waits-into-30-seconds)
 ![](https://cdn.hackernoon.com/images/2GvLYqtExzWQVpFYbHz7jwspTxB2-uq03bl6.jpeg)
 Ugh, waiting for PR previews to load is the worst, right? he Pre-Configured Slots Pattern is so underrated — zero-wait deploys, shareable URLs, and no cost.
-
-### [212. How Agile Teams Shorten SDLC Using DevTestOps](https://hackernoon.com/how-agile-teams-shorten-sdlc-using-devtestops)
-![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-fu035p3.jpeg)
-Moreover, the duty of code quality can slowly be forgotten in the developers’ minds as they know their work would be tested either way. 
-
-### [213. Power-up: Machine Learning and Data Engineering (R)evolution for Optimizing Marketing Efforts](https://hackernoon.com/power-up-machine-learning-and-data-engineering-revolution-for-optimizing-marketing-efforts)
-![](https://cdn.hackernoon.com/images/machine-learning-and-data-engineering-cldh20tlo000101s6ebw7fphs.png)
-This blog covers real-world use cases of businesses embracing machine learning and data engineering revolution to optimize their marketing efforts.
 
 ### [214. DevOps Testing Strategy: A Detailed Guide for Agile Teams](https://hackernoon.com/devops-testing-strategy-a-detailed-guide-for-agile-teams)
 ![](https://cdn.hackernoon.com/images/q4JmpLxJmpe4eNkyo0m1jfxQPft2-920347j.jpeg)
 Continuity is simply a “must” in the development and deployment process to adhere to DevOps’ aim of quality-at-speed deliveries.
 
-### [215. The Benefits of Automation Testing and How it Works](https://hackernoon.com/the-benefits-of-automation-testing-and-how-it-works-7j2434st)
+### [215. How Agile Teams Shorten SDLC Using DevTestOps](https://hackernoon.com/how-agile-teams-shorten-sdlc-using-devtestops)
+![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-fu035p3.jpeg)
+Moreover, the duty of code quality can slowly be forgotten in the developers’ minds as they know their work would be tested either way. 
+
+### [216. Simplified Spinnaker is Possible: I Never Thought About it](https://hackernoon.com/simplified-spinnaker-is-possible-i-never-thought-about-it-eny35vh)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-bpe35lb.jpeg)
+Getting Spinnaker running is not an easy feat. Armory's Minnaker open source application gets you started in 10 minutes, so you can focus on Armory's value.
+
+### [217. Power-up: Machine Learning and Data Engineering (R)evolution for Optimizing Marketing Efforts](https://hackernoon.com/power-up-machine-learning-and-data-engineering-revolution-for-optimizing-marketing-efforts)
+![](https://cdn.hackernoon.com/images/machine-learning-and-data-engineering-cldh20tlo000101s6ebw7fphs.png)
+This blog covers real-world use cases of businesses embracing machine learning and data engineering revolution to optimize their marketing efforts.
+
+### [218. The Benefits of Automation Testing and How it Works](https://hackernoon.com/the-benefits-of-automation-testing-and-how-it-works-7j2434st)
 ![](https://hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-uj8j3fbk.jpeg)
 Benefits of Automation Testing, Strategies and Best Practices. Get unique insights on how to implement automation testing fast!
 
-### [216. Zero Trust Can't Save a Flawed Architecture](https://hackernoon.com/zero-trust-cant-save-a-flawed-architecture)
-![](https://cdn.hackernoon.com/images/ZaUoF8KpR5XpJCS96n75HJMcWQP2-cc03brn.jpeg)
-Deploying identity-aware proxies and MFA on top of flat networks, unreviewed firewall policies, and stale identity stores doesn't implement Zero Trust
-
-### [217. This DevOps Fix Cuts Kubernetes Test Times from 7 Minutes to 1](https://hackernoon.com/this-devops-fix-cuts-kubernetes-test-times-from-7-minutes-to-1)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-ib02mo4.webp)
-This week's post is the third and final in my series about running tests on Kubernetes for each pull request.
-
-### [218. IT Operations: Holiday Season is NOT the Right Time to Implement Change Freezes](https://hackernoon.com/it-operations-holiday-season-is-not-the-right-time-to-implement-change-freezes)
-![](https://cdn.hackernoon.com/images/KZkb1zzObqdx1sjOAplc30l7Kpp1-mc237zu.jpeg)
-Why IT Operations Shouldn't Implement Change Freezes During the Holidays. The info you need to make sure your CI/CD systems run smoothly and avoid mistakes. 
-
-### [219. Managing Unstable Dependencies in Docker: The Power of Intermediate Images](https://hackernoon.com/managing-unstable-dependencies-in-docker-a-solution-for-stable-builds)
-![](https://cdn.hackernoon.com/images/iU5dXZxMsiW1vwPcM2mALdYov9r1-rk92iac.jpeg)
-If your app has  unstable third party dependencies, an intermediate image can ensure you can build anywhere. 
-
-### [220. Introducing the World’s First Mobile DevOps Assessment: MODAS](https://hackernoon.com/introducing-the-worlds-first-mobile-devops-assessment-modas)
+### [219. Introducing the World’s First Mobile DevOps Assessment: MODAS](https://hackernoon.com/introducing-the-worlds-first-mobile-devops-assessment-modas)
 ![](https://cdn.hackernoon.com/images/gsw7B04U0yPHQTIT0Z29jKY2Yy63-ir93owd.jpeg)
 The world’s first Mobile DevOps, Performance, Productivity, and Maturity Assessment.
 
-### [221. Mea Culpa, Renovate for Everything](https://hackernoon.com/mea-culpa-renovate-for-everything)
+### [220. Automated Data Quality as Code](https://hackernoon.com/automated-data-quality-as-code)
+![](https://cdn.hackernoon.com/images/CQzlei97i8QCOAYfTumCa80N2MO2-jm83h2m.jpeg)
+DQaaC embeds testing into pipelines using known tools to ensure reliable, scalable data systems. 
+
+### [221. This DevOps Fix Cuts Kubernetes Test Times from 7 Minutes to 1](https://hackernoon.com/this-devops-fix-cuts-kubernetes-test-times-from-7-minutes-to-1)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-ib02mo4.webp)
+This week's post is the third and final in my series about running tests on Kubernetes for each pull request.
+
+### [222. Managing Unstable Dependencies in Docker: The Power of Intermediate Images](https://hackernoon.com/managing-unstable-dependencies-in-docker-a-solution-for-stable-builds)
+![](https://cdn.hackernoon.com/images/iU5dXZxMsiW1vwPcM2mALdYov9r1-rk92iac.jpeg)
+If your app has  unstable third party dependencies, an intermediate image can ensure you can build anywhere. 
+
+### [223. IT Operations: Holiday Season is NOT the Right Time to Implement Change Freezes](https://hackernoon.com/it-operations-holiday-season-is-not-the-right-time-to-implement-change-freezes)
+![](https://cdn.hackernoon.com/images/KZkb1zzObqdx1sjOAplc30l7Kpp1-mc237zu.jpeg)
+Why IT Operations Shouldn't Implement Change Freezes During the Holidays. The info you need to make sure your CI/CD systems run smoothly and avoid mistakes. 
+
+### [224. Mea Culpa, Renovate for Everything](https://hackernoon.com/mea-culpa-renovate-for-everything)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-1h82mux.jpeg)
 Renovate does indeed manage Kotlin Scriptings since 2022.
 
-### [222. Using Codeship to Deploy a Dotnet app on Oracle Kubernetes ](https://hackernoon.com/using-codeship-to-deploy-a-dotnet-app-on-oracle-kubernetes-eo943y5m)
-![](https://images.unsplash.com/photo-1530890448995-4d82724f702c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-So, I was looking at an alternative to Azure DevOps and Jenkins to build a CI CD pipeline for a new project.  A friend had asked me for a recommendation. His wanted to host microservices in Oracle Kubernetes Service. 
-
-### [223. How to Localize your Native iOS and macOS Applications on Smartcat](https://hackernoon.com/how-to-localize-your-native-ios-and-macos-applications-on-smartcat-5u2g31ug)
-![](https://cdn.hackernoon.com/images/qiorrXuxWIV8lnaEMTzZdXRIURp1-occ32bw.jpeg)
-How to localize your native iOS and macOS applications on Smartcat platform, using a fully automated continuous localization approach.
-
-### [224. Building Self-Healing Codebases: Stop Fixing Bugs, Start Architecting Agents](https://hackernoon.com/building-self-healing-codebases-stop-fixing-bugs-start-architecting-agents)
-![](https://cdn.hackernoon.com/images/retro-pixel-art-hospital-emb7w11e34y5h0dunkf7syxx.png)
-In the future, a "Senior Engineer" won't be defined by how fast they can debug a stack trace. They will be defined by how well they architect the Agentic Loops 
-
-### [225. ModelOps Series: Pushing Model Container Images to Production](https://hackernoon.com/modelops-series-pushing-model-container-images-to-production-uk6832wt)
-![](https://cdn.hackernoon.com/images/GSN9VJGOaZXMU6zEAhjLZYX4ZXW2-v07t35ia.jpeg)
-Containerization is important for models to function properly once production begins. Leveraging continuous integration/deployment is will improve efficiency 
-
-### [226. From Maturity to Capability: The Evolution of DevOps Models](https://hackernoon.com/from-maturity-to-capability-the-evolution-of-devops-models)
+### [225. From Maturity to Capability: The Evolution of DevOps Models](https://hackernoon.com/from-maturity-to-capability-the-evolution-of-devops-models)
 ![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-epa3pf6.jpeg)
 In this post, I explain why a maturity model isn't appropriate and what you should use instead.
 
-### [227. Benchmarking Xcode Availability Across Hosted CICD Services](https://hackernoon.com/benchmarking-xcode-availability-across-hosted-cicd-services-nq2x32ge)
+### [226. Using Codeship to Deploy a Dotnet app on Oracle Kubernetes ](https://hackernoon.com/using-codeship-to-deploy-a-dotnet-app-on-oracle-kubernetes-eo943y5m)
+![](https://images.unsplash.com/photo-1530890448995-4d82724f702c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+So, I was looking at an alternative to Azure DevOps and Jenkins to build a CI CD pipeline for a new project.  A friend had asked me for a recommendation. His wanted to host microservices in Oracle Kubernetes Service. 
+
+### [227. Building Self-Healing Codebases: Stop Fixing Bugs, Start Architecting Agents](https://hackernoon.com/building-self-healing-codebases-stop-fixing-bugs-start-architecting-agents)
+![](https://cdn.hackernoon.com/images/retro-pixel-art-hospital-emb7w11e34y5h0dunkf7syxx.png)
+In the future, a "Senior Engineer" won't be defined by how fast they can debug a stack trace. They will be defined by how well they architect the Agentic Loops 
+
+### [228. How to Localize your Native iOS and macOS Applications on Smartcat](https://hackernoon.com/how-to-localize-your-native-ios-and-macos-applications-on-smartcat-5u2g31ug)
+![](https://cdn.hackernoon.com/images/qiorrXuxWIV8lnaEMTzZdXRIURp1-occ32bw.jpeg)
+How to localize your native iOS and macOS applications on Smartcat platform, using a fully automated continuous localization approach.
+
+### [229. ModelOps Series: Pushing Model Container Images to Production](https://hackernoon.com/modelops-series-pushing-model-container-images-to-production-uk6832wt)
+![](https://cdn.hackernoon.com/images/GSN9VJGOaZXMU6zEAhjLZYX4ZXW2-v07t35ia.jpeg)
+Containerization is important for models to function properly once production begins. Leveraging continuous integration/deployment is will improve efficiency 
+
+### [230. RAG Is a Data Problem Pretending to Be AI](https://hackernoon.com/rag-is-a-data-problem-pretending-to-be-ai-dfhcjle)
+![](https://cdn.hackernoon.com/images/ZaUoF8KpR5XpJCS96n75HJMcWQP2-6j03dmz.jpeg)
+Fix your chunks, freshen your index, rerank before you generate, and actually instrument retrieval separately from generation.
+
+### [231. Benchmarking Xcode Availability Across Hosted CICD Services](https://hackernoon.com/benchmarking-xcode-availability-across-hosted-cicd-services-nq2x32ge)
 ![](https://cdn.hackernoon.com/images/CdA2GWJS37fn9aPl047oAZhHYRC2-uo3z33yo.jpeg)
 Xcode versions are the drumbeat iOS teams all around the world march to. Rapid access to Xcode versions ensures that apps are submitted, and updated on time
 
-### [228. Kubepatch Lets You Patch Kubernetes Without Touching Your Base Manifests](https://hackernoon.com/kubepatch-lets-you-patch-kubernetes-without-touching-your-base-manifests)
+### [232. Kubepatch Lets You Patch Kubernetes Without Touching Your Base Manifests](https://hackernoon.com/kubepatch-lets-you-patch-kubernetes-without-touching-your-base-manifests)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-vj02ynz.jpeg)
 Patch Kubernetes manifests cleanly across environments with kubepatch—no templates, no YAML hacks, just pure declarative patches.
 

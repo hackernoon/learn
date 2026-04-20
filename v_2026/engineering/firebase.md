@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [firebase](https://hackernoon.com/tagged/firebase)
+### Let's learn about [Firebase](https://hackernoon.com/tagged/firebase) via these 82 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Firebase is a Google-backed platform for developing mobile and web applications, offering a suite of tools for backend services, authentication, databases, and hosting, simplifying app development. It matters by accelerating app development, allowing developers to focus on the user experience without managing server infrastructure.
+
 ### [1. How to Deploy a React Application With Firebase Hosting](https://hackernoon.com/how-to-deploy-a-react-application-with-firebase-hosting-p92m37b7)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-kfj37ls.jpeg)
 In this blog, I am going to discuss how we can deploy react applications within a few minutes by using Firebase.
@@ -118,13 +122,13 @@ How I created and deployed a WebApp in 4 days after learning to code.
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-7a837rp.jpeg)
 In this tutorial, you will learn how to use React Native, Firebase, and Expo-CLI to create a private messaging chat app.
 
-### [30. Building a Fully Functional Youtube Clone Using Firebase, FFmpeg, And React [Part-2]](https://hackernoon.com/building-a-fully-functional-youtube-clone-using-firebase-ffmpeg-and-react-part-2)
-![](https://cdn.hackernoon.com/images/iHKErLv7KAegkfw3m5jwsrsy3J63-nkm3nyn.jpeg)
-An exact clone of youtube with all functionalities from View count to Subscribe to everything (Without Youtube Api) Using Firebase, FFmpeg, And React
-
-### [31. How to Make Whatsapp Clone in React Native: A Beginner’s Guide [Part 1]](https://hackernoon.com/how-to-make-whatsapp-clone-in-react-native-a-beginners-guide-part-1)
+### [30. How to Make Whatsapp Clone in React Native: A Beginner’s Guide [Part 1]](https://hackernoon.com/how-to-make-whatsapp-clone-in-react-native-a-beginners-guide-part-1)
 ![](https://cdn.hackernoon.com/images/iHKErLv7KAegkfw3m5jwsrsy3J63-j40375v.jpeg)
 How I made a WhatsApp Clone using react-native (Expo) and FireBase.
+
+### [31. Building a Fully Functional Youtube Clone Using Firebase, FFmpeg, And React [Part-2]](https://hackernoon.com/building-a-fully-functional-youtube-clone-using-firebase-ffmpeg-and-react-part-2)
+![](https://cdn.hackernoon.com/images/iHKErLv7KAegkfw3m5jwsrsy3J63-nkm3nyn.jpeg)
+An exact clone of youtube with all functionalities from View count to Subscribe to everything (Without Youtube Api) Using Firebase, FFmpeg, And React
 
 ### [32. How to Migrate Your Android App From Google Analytics to Firebase](https://hackernoon.com/migrate-your-app-from-google-analytics-to-firebase-emphasis-on-android-lh6k29ah)
 ![](https://cdn.hackernoon.com/drafts/a521729jx.png)
@@ -182,17 +186,17 @@ What we’re building
 ![](https://cdn.hackernoon.com/images/MPQxyfch0lZHKZM3k3hMies8Fpv1-hxj310f.jpeg)
 In this article , I’ll take you through all the steps involved in deploying a your React app on firebase.
 
-### [46. Tutorial: Geotagtext, a Free Geotagging Web Application ](https://hackernoon.com/tutorial-geotagtext-a-free-geotagging-web-application)
+### [46. Flutter Tutorial for Beginners | All In One](https://hackernoon.com/flutter-tutorial-for-beginners-or-all-in-one)
+![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-n1a2nme.jpeg)
+The tutorial is a complete guide for beginners on flutter app development from installation and setup to state-management and firebase as backend services.
+
+### [47. Tutorial: Geotagtext, a Free Geotagging Web Application ](https://hackernoon.com/tutorial-geotagtext-a-free-geotagging-web-application)
 ![](https://cdn.hackernoon.com/images/jCVszLVXGtafmK26jlXY8SFFbvO2-l9t335yt.jpeg)
 Geotagtext is a free demo webapp that uses geolocation to make make geotagging easy. This tutorial shows how to use Heroku, Mapbox, Firebase, to make it happen.
 
-### [47. TwNFT - Mint your tweets as NFTs easily and for free](https://hackernoon.com/twnft-mint-your-tweets-as-nfts-easily-and-for-free)
+### [48. TwNFT - Mint your tweets as NFTs easily and for free](https://hackernoon.com/twnft-mint-your-tweets-as-nfts-easily-and-for-free)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-1g93gzx.jpeg)
 In this post, I introduce TwNFT, an application that lets you mint your tweets as NFTs easily and for free and explain how it works and how I made it.
-
-### [48. Flutter Tutorial for Beginners | All In One](https://hackernoon.com/flutter-tutorial-for-beginners-or-all-in-one)
-![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-n1a2nme.jpeg)
-The tutorial is a complete guide for beginners on flutter app development from installation and setup to state-management and firebase as backend services.
 
 ### [49. Why Appwrite 0.8 Is A Great Open-Source Firebase Alternative](https://hackernoon.com/why-appwrite-08-is-a-great-open-source-firebase-alternative-ed2n34ns)
 ![](https://cdn.hackernoon.com/images/PS8hMJYbctWKb61wkjdO9AWa6fe2-fi1j34xa.jpeg)
@@ -206,13 +210,13 @@ Some time ago, a few friends and I decided to build an app. We duck-taped our co
 ![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-3b92p1z.jpeg)
 In this blog, we will create new card buttons, that'll be displayed in the grid view. Each button UI will take the user to a sub-page like Events, Temples, etc.
 
-### [52. Top 3 Databases Every New Developer Should Know](https://hackernoon.com/top-3-databases-every-new-developer-should-know)
-![](https://cdn.hackernoon.com/images/OCBzEIAXducVbF3DB2L3x6RD8RE3-k10370l.jpeg)
-Most new developers wonder which database is suitable for their project since they don't want to get off on the wrong foot. So, first and foremost, let's define a database. A database is a type of storage facility that electronically stores and organizes data so that it may be utilized and accessed later.
-
-### [53. How to Connect Firebase to Flutter SDK on Cloud and Local Emulator](https://hackernoon.com/how-to-connect-firebase-to-flutter-sdk-on-cloud-and-local-emulator)
+### [52. How to Connect Firebase to Flutter SDK on Cloud and Local Emulator](https://hackernoon.com/how-to-connect-firebase-to-flutter-sdk-on-cloud-and-local-emulator)
 ![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-wr92o6u.jpeg)
 Find out how to connect Firebase to Flutter SDK on clouds and on a local emulators suite. Connect  Firestorage, Firestore, and Functions with Flutter SDK.
+
+### [53. Top 3 Databases Every New Developer Should Know](https://hackernoon.com/top-3-databases-every-new-developer-should-know)
+![](https://cdn.hackernoon.com/images/OCBzEIAXducVbF3DB2L3x6RD8RE3-k10370l.jpeg)
+Most new developers wonder which database is suitable for their project since they don't want to get off on the wrong foot. So, first and foremost, let's define a database. A database is a type of storage facility that electronically stores and organizes data so that it may be utilized and accessed later.
 
 ### [54. Here's What I Made: Chat Progressive Web Application](https://hackernoon.com/heres-what-i-made-chat-progressive-web-application-els34ru)
 ![](https://cdn.hackernoon.com/images/ybJjIuGgTyf94opYQ8DQVJGVOmR2-x4f32g8.jpeg)
@@ -222,13 +226,13 @@ Check out this chat progressive web app made with React Firebase and NodeJS it h
 ![](https://cdn.hackernoon.com/images/github/firebase-545.png)
 Learn everything you need to know about Firebase via these 64 free HackerNoon stories.
 
-### [56. How to Build Landmark Recognition App with React Native and Vision AI ](https://hackernoon.com/how-to-build-landmark-recognition-app-with-react-native-and-vision-ai-r21s34uj)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxcBRnQbsGCTrom5xuzwoxpuYWrJ3-zg6a3wfy.jpeg?alt=media&token=5a0f210b-be89-47eb-b5e4-95aefceee0b7)
-In this article, we cover the second part of our two part series. We will create a React Native application that makes use of the Firebase Cloud Function that we created in the first part. Here I will cover building the application in detail. If you want to skip ahead to the finish line, the full code is available here.
-
-### [57. All the Firebase Functions you Need to Build Your Next Serverless Application](https://hackernoon.com/all-the-firebase-functions-you-need-to-build-your-next-serverless-application)
+### [56. All the Firebase Functions you Need to Build Your Next Serverless Application](https://hackernoon.com/all-the-firebase-functions-you-need-to-build-your-next-serverless-application)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-lg9315s.jpeg)
 Build your own CRUD application by leveraging Firebase's Firestore JavaScript SDK.
+
+### [57. How to Build Landmark Recognition App with React Native and Vision AI ](https://hackernoon.com/how-to-build-landmark-recognition-app-with-react-native-and-vision-ai-r21s34uj)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxcBRnQbsGCTrom5xuzwoxpuYWrJ3-zg6a3wfy.jpeg?alt=media&token=5a0f210b-be89-47eb-b5e4-95aefceee0b7)
+In this article, we cover the second part of our two part series. We will create a React Native application that makes use of the Firebase Cloud Function that we created in the first part. Here I will cover building the application in detail. If you want to skip ahead to the finish line, the full code is available here.
 
 ### [58. How To Use Firebase Machine Learning Kit](https://hackernoon.com/how-to-use-firebase-machine-learning-kit-df1i3u57)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-9f113ub1.jpeg?alt=media&token=37b51d13-2d6b-45fd-96fc-bda0733a2e46)
@@ -321,13 +325,13 @@ Non-developer builds an MVP in 2 weeks with AI and no-code tools. A story of urg
 ![](https://cdn.hackernoon.com/images/u8zdoGfwxzbJbUMX8BISChIErgH2-dcf3oqq.jpeg)
 How To Master React Library And Continuous Deployment
 
-### [80. Refi App Allows Devs to Get Through 4 Firestore Issues at Once: Learn More](https://hackernoon.com/refi-app-allows-devs-to-get-through-4-firestore-issues-at-once-learn-more-thw334j)
-![](https://cdn.hackernoon.com/images/noz7t4z89wVsgU4IFZNeqzaO2kv2-fl5339c8.png)
-Refi App - A tool to make developer less painful when interacting with Firestore DB
-
-### [81. Vibe-Coding Civic Infrastructure: How I Built a Municipal Event Manager in One Weekend](https://hackernoon.com/vibe-coding-civic-infrastructure-how-i-built-a-municipal-event-manager-in-one-weekend)
+### [80. Vibe-Coding Civic Infrastructure: How I Built a Municipal Event Manager in One Weekend](https://hackernoon.com/vibe-coding-civic-infrastructure-how-i-built-a-municipal-event-manager-in-one-weekend)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-kk024wq.jpeg)
 This is a blueprint for how modern AI tools can solve 'contextually complex' government problems in a fraction of the time of traditional GovTech vendors.
+
+### [81. Refi App Allows Devs to Get Through 4 Firestore Issues at Once: Learn More](https://hackernoon.com/refi-app-allows-devs-to-get-through-4-firestore-issues-at-once-learn-more-thw334j)
+![](https://cdn.hackernoon.com/images/noz7t4z89wVsgU4IFZNeqzaO2kv2-fl5339c8.png)
+Refi App - A tool to make developer less painful when interacting with Firestore DB
 
 ### [82. A Guide To Launching Battle-tested Apps For Engineering Teams](https://hackernoon.com/how-to-get-your-engineering-teams-ready-for-launch)
 ![]()

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [design-thinking](https://hackernoon.com/tagged/design-thinking)
+### Let's learn about [Design Thinking](https://hackernoon.com/tagged/design-thinking) via these 82 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Design thinking is a human-centered approach to innovation that integrates the needs of people, the possibilities of technology, and the requirements for business success. It fosters creative problem-solving and ensures solutions are desirable, feasible, and viable.
+
 ### [1. Top 10 Principles of Good Web Design](https://hackernoon.com/top-10-principles-of-good-web-design)
 ![](https://cdn.hackernoon.com/images/eXbjnJiJe2aOQkBtxJGZZ8FlvYW2-n693o3t.jpeg)
 Have you heard about the best trending 10 principles of good web design? Worth reading the blog. Please comment your thoughts
@@ -98,13 +102,13 @@ Prototype Design Pattern is a Creational Design Pattern that helps in the proto
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5oXTQ8W6TqTa1ouikp3LOkznIZj1-ij9g3wxm.jpeg?alt=media&token=590d0aa7-5230-4344-9dd5-338e64094433)
 For junior designers - those who have just started studying UX / UI design systems and those who have been working in this field for up to 1-2 years. The main goal of this article is to introduce you to the basic components of system design, to give you a basic introduction to this concept and to revise the material by demonstrating several examples of design systems that are already used by large companies.
 
-### [25. What You Need to Know About Tailwind CSS](https://hackernoon.com/what-you-need-to-know-about-tailwind-css-x02o3z8m)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FoEONxPFhWdacHIrQLtHUpSaupSM2-gu5v28bw.jpeg?alt=media&token=8502ebfb-f709-48f0-8d05-1140bb80f8fb)
-
-
-### [26. Design Patterns: Singleton Pattern in Modern C++](https://hackernoon.com/design-patterns-singleton-pattern-in-modern-c-d0253uqz)
+### [25. Design Patterns: Singleton Pattern in Modern C++](https://hackernoon.com/design-patterns-singleton-pattern-in-modern-c-d0253uqz)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgxaG8fTrVzUm0EeycUPpXSDj69I3-aa62847.jpeg?alt=media&token=549fec21-9654-48d4-8503-f79ba757d689)
 In software engineering, Creational Design Patterns deal with object creation mechanisms, i.e. try to create objects in a manner suitable to the situation. The basic or ordinary form of object creation could result in design problems or added complexity to the design. In this article of the Creational Design Patterns, we’re going to take a look at the much-hated & commonly asked design pattern in a programming interview. That is Singleton Design Pattern in Modern C++ which criticizes for its extensibility & testability. I will also cover the Multiton Design Pattern which quite contrary to Singleton.
+
+### [26. What You Need to Know About Tailwind CSS](https://hackernoon.com/what-you-need-to-know-about-tailwind-css-x02o3z8m)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FoEONxPFhWdacHIrQLtHUpSaupSM2-gu5v28bw.jpeg?alt=media&token=8502ebfb-f709-48f0-8d05-1140bb80f8fb)
+
 
 ### [27. Exploring The 5 Stages of The Design Thinking Process](https://hackernoon.com/exploring-the-5-stages-of-the-design-thinking-process-5v1233yoi)
 ![](https://cdn.hackernoon.com/drafts/5ho3yu4.png)
@@ -130,13 +134,13 @@ In simple language, First Principles Thinking involves actively questioning ever
 ![](https://cdn.hackernoon.com/images/Kaiq46M7UmMpiJDaxd44wefiIqe2-gra3rtu.jpeg)
 how to design a winning new business / venture / product / service, rather than merely ticking off tasks on a to-do list.
 
-### [33. How Good UX Designers Can Rescue Your Startup](https://hackernoon.com/how-good-ux-designers-can-rescue-your-startup)
-![](https://cdn.hackernoon.com/images/XUXlssl4t8Y4pDFf1tsFXOpRr3A2-0l93p09.jpeg)
-The biggest mistakes startup founders are making and real reasons why compromising on UX is detrimental to the success of your business.
-
-### [34. Is There Really a Hierarchy in Design?](https://hackernoon.com/is-there-really-a-hierarchy-in-design)
+### [33. Is There Really a Hierarchy in Design?](https://hackernoon.com/is-there-really-a-hierarchy-in-design)
 ![](https://cdn.hackernoon.com/images/6P7PmV5wEuZCuIB7haREkN3Q5UH2-24c3ir2.jpeg)
 Designers should stop using the ‘Hierarchy of Design’ concept as the representation of design characteristics as a pyramid is inaccurate and misleading
+
+### [34. How Good UX Designers Can Rescue Your Startup](https://hackernoon.com/how-good-ux-designers-can-rescue-your-startup)
+![](https://cdn.hackernoon.com/images/XUXlssl4t8Y4pDFf1tsFXOpRr3A2-0l93p09.jpeg)
+The biggest mistakes startup founders are making and real reasons why compromising on UX is detrimental to the success of your business.
 
 ### [35. How to Calculate the ROI of Your Design System](https://hackernoon.com/how-to-calculate-the-roi-of-your-design-system)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-5993oqv.jpeg)
@@ -146,13 +150,13 @@ Design systems are a crucial success factor for digital businesses. Calculate th
 ![](https://cdn.hackernoon.com/images/tuUVADcypxTbUmxrrGHG7lc47al2-yk2132zw.jpeg)
 Some of the most common approaches to solve a problem are situational or context-specific. For example, in the field of structural engineering, most of the challenges are solved by applying time tested rules in the field of civil engineering. For a problem that is considered less severe, a common approach is a trial by error. Mission-critical requirements and issues are solved by using a well-defined set of steps and strategies. The first reaction to solve any problem is to compartmentalize the problem into something which was solved earlier. The mind likes the comfort of the known after all. This is our primordial nature. These approaches have served us since time immemorial and will continue to do so. A common thread running through all these problems is they are well known, and they have been faced before plus they are well documented
 
-### [37. An Introduction to Domain-Driven Design - Part 2](https://hackernoon.com/an-introduction-to-domain-driven-design-part-2)
-![](https://cdn.hackernoon.com/images/WyL2V0Nj20amUlioe5bpd0cPHF92-wn4372v.jpeg)
-Model - a set of concepts existing in the head of the customer/project creator and terms that reflect his understanding.
-
-### [38. Chatty I/O Is Killing Your App's Performance Without You Even Realizing It](https://hackernoon.com/chatty-io-is-killing-your-apps-performance-without-you-even-realizing-it)
+### [37. Chatty I/O Is Killing Your App's Performance Without You Even Realizing It](https://hackernoon.com/chatty-io-is-killing-your-apps-performance-without-you-even-realizing-it)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ne02sgn.jpeg)
 The cumulative effect of a large number of Input and Output requests has a significant negative impact on the performance and responsiveness of a service.
+
+### [38. An Introduction to Domain-Driven Design - Part 2](https://hackernoon.com/an-introduction-to-domain-driven-design-part-2)
+![](https://cdn.hackernoon.com/images/WyL2V0Nj20amUlioe5bpd0cPHF92-wn4372v.jpeg)
+Model - a set of concepts existing in the head of the customer/project creator and terms that reflect his understanding.
 
 ### [39. 14 Habits Of The Growth Hacker Mindset: A Deep Dive](https://hackernoon.com/14-habits-of-the-growth-hacker-mindset-a-deep-dive-6k6c32vm)
 ![](https://cdn.hackernoon.com/images/1C28Kli3orY8IF7lmJCIqx5zES92-sf6031e0.jpeg)
@@ -210,13 +214,13 @@ Visual hierarchy is one of the most important principles behind effective web de
 ![](https://cdn.hackernoon.com/images/TJk2cxGlG3VZwx2RSrmlsEsinOg1-ik436c1.jpeg)
 Discover how well-designed payment systems can prevent costly mistakes and enhance business profitability. 
 
-### [53. 'If We Don’t Systematically Re/Up-Skill, We're Condemned to Become Irrelevant': Roxana Murariu](https://hackernoon.com/if-we-dont-systematically-reup-skill-were-condemned-to-become-irrelevant-roxana-murariu)
-![](https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-ls0372p.jpeg)
-It is remarkable how Alvin Toffler predicted in the 1970s this trend of reinventing ourselves periodically through learning, unlearning, and relearning: Roxana.
-
-### [54. Product 'Longtermism' and the Danger it May Bring ](https://hackernoon.com/product-longtermism-and-the-danger-it-may-bring)
+### [53. Product 'Longtermism' and the Danger it May Bring ](https://hackernoon.com/product-longtermism-and-the-danger-it-may-bring)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-ic93vlm.jpeg)
 There are no guarantees the future will hold the same values as us, so what right do we have to encode ours upon them?
+
+### [54. 'If We Don’t Systematically Re/Up-Skill, We're Condemned to Become Irrelevant': Roxana Murariu](https://hackernoon.com/if-we-dont-systematically-reup-skill-were-condemned-to-become-irrelevant-roxana-murariu)
+![](https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-ls0372p.jpeg)
+It is remarkable how Alvin Toffler predicted in the 1970s this trend of reinventing ourselves periodically through learning, unlearning, and relearning: Roxana.
 
 ### [55. 8 Crucial Soft Skills You Need as a UX Designer](https://hackernoon.com/8-crucial-soft-skills-you-need-as-a-ux-designer)
 ![](https://cdn.hackernoon.com/images/hERpNQSvxDU3lKd5jdGFTdg3LSC3-ja92hrz.jpeg)
@@ -234,29 +238,29 @@ Why products stagnate after launch—and how usability evolution, not new featur
 ![](https://images.unsplash.com/photo-1548094990-c16ca90f1f0d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The best logos come across as simple and effortless. This is a difficult concept to wrap your head around when creating your first logo. In fact the number one issue I have had with most of my clients is their urge to overdo the design. Look at the logos of the world’s most successful brands like Nike, Twitter, or Apple. They are extremely simple and recognizable which is why I spend a good part of my time stressing this point to my clients. 
 
-### [59. A Builder’s Guide to Modern Data Platforms](https://hackernoon.com/a-builders-guide-to-modern-data-platforms)
+### [59. When Everything Looks Perfect, Nothing Feels Real](https://hackernoon.com/when-everything-looks-perfect-nothing-feels-real)
+![](https://cdn.hackernoon.com/images/mMD5TbdcyWeeZODA8EhDSeRwBIv1-gu03fpj.jpeg)
+When perfection is automated, authenticity becomes the only scarce resource. Why AI tools must learn to restore content without replacing its soul.
+
+### [60. A Builder’s Guide to Modern Data Platforms](https://hackernoon.com/a-builders-guide-to-modern-data-platforms)
 ![](https://cdn.hackernoon.com/images/1mBn1Lzkc7XJA3QaSlxNk8LKtR33-qp036vr.webp)
 An excellent data architecture doesn’t just function; it empowers, elevating an organization’s innovation ability.
 
-### [60. How to WOW Users With Intuitive UX Design](https://hackernoon.com/how-to-wow-users-with-intuitive-ux-design)
-![](https://cdn.hackernoon.com/images/gjjoK5TvP0bjj0Me21Gxh6Vv3dh2-9h13tpw.jpeg)
-70% of online businesses fail because of bad usability. The solution to this challenge is an approach known as Intuitive UX Design
-
-### [61. What Is The Straight-ahead Triangle And How It Can Be Used In Web Design](https://hackernoon.com/what-is-the-straight-ahead-triangle-and-how-it-can-be-used-in-web-design-x1y343o)
-![](https://hackernoon.com/images/LJFOXZg502abekPWbgVNfdI3sP03-ec2u34kf.jpeg)
-“Straight-ahead” jazz revolutionized mid-century American culture with a relentlessly fresh and forward-thinking approach to bebop,
-
-### [62. We Don't Need More Apps - We Need More Spaces](https://hackernoon.com/we-dont-need-more-apps-we-need-more-spaces)
+### [61. We Don't Need More Apps - We Need More Spaces](https://hackernoon.com/we-dont-need-more-apps-we-need-more-spaces)
 ![](https://cdn.hackernoon.com/images/oGjLt7fd0jbdRaJOwpP6nniAXoV2-1f02z7z.png)
 Most EdTech tools ignore the body. This article explores how sensory-based design (not another app) can better support learning, regulation and inclusion in 
+
+### [62. How to WOW Users With Intuitive UX Design](https://hackernoon.com/how-to-wow-users-with-intuitive-ux-design)
+![](https://cdn.hackernoon.com/images/gjjoK5TvP0bjj0Me21Gxh6Vv3dh2-9h13tpw.jpeg)
+70% of online businesses fail because of bad usability. The solution to this challenge is an approach known as Intuitive UX Design
 
 ### [63. Closing the Skills Gap: Addressing the Surge in Demand for Digital Marketing Experts](https://hackernoon.com/closing-the-skills-gap-addressing-the-surge-in-demand-for-digital-marketing-experts)
 ![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-ql83f0k.jpeg)
 Discover new-age digital marketing and design thinking programs shaping the future of business innovation and addressing the skills gap in the digital marketing
 
-### [64. When Everything Looks Perfect, Nothing Feels Real](https://hackernoon.com/when-everything-looks-perfect-nothing-feels-real)
-![](https://cdn.hackernoon.com/images/mMD5TbdcyWeeZODA8EhDSeRwBIv1-gu03fpj.jpeg)
-When perfection is automated, authenticity becomes the only scarce resource. Why AI tools must learn to restore content without replacing its soul.
+### [64. What Is The Straight-ahead Triangle And How It Can Be Used In Web Design](https://hackernoon.com/what-is-the-straight-ahead-triangle-and-how-it-can-be-used-in-web-design-x1y343o)
+![](https://hackernoon.com/images/LJFOXZg502abekPWbgVNfdI3sP03-ec2u34kf.jpeg)
+“Straight-ahead” jazz revolutionized mid-century American culture with a relentlessly fresh and forward-thinking approach to bebop,
 
 ### [65. Why I Decided to Create a Photo Organizer and What I Learned as a Result](https://hackernoon.com/why-i-decided-to-create-a-photo-organizer-and-what-i-learned-as-a-result)
 ![](https://cdn.hackernoon.com/images/Q0MEkqIRMhRChD3jYstuKKZtQhQ2-q193pgg.jpeg)
@@ -292,18 +296,18 @@ The UX industry puts a lot of emphasis on processes. But is that the best way to
 
 While we in the tech world we are often focused on cutting edge innovation, just as important as innovation itself is the manner in which the innovation is presented. People are drawn to an item be it a car, a computer, or a website not simply if it provides utility to the end-user, but if it is pleasant to look at. Therefore, we should look to design to gain a more complete understanding as to how innovation can be delivered in a manner that is palatable to end-users. Product designers who specialize in combining functionality with design must be multi-disciplinary, having both the ability to be methodical while also designing products that are aesthetic. 
 
-### [73. Avatars Will Emerge as Storytellers](https://hackernoon.com/avatars-will-emerge-as-storytellers-tok3xk3)
-![](https://cdn.hackernoon.com/drafts/g1s32wj.png)
-Humans rule the world.
-
-### [74. How ARTH Stablecoin Was Built and Designed to Protect The User's Purchasing Power](https://hackernoon.com/how-arth-stablecoin-was-built-and-designed-to-protect-the-users-purchasing-power-83y37af)
-![](https://cdn.hackernoon.com/images/5jZyOguU4UX6RlDYGFVx0DGIETG3-x713x36tl.jpeg)
-Mitul Gajera, designer of the stable value coin ARTH explains and gives insight into how the cryptocurrency was designed to protect the user's purchasing power.
-
-### [75. How Good UX Elevates Enterprise Service Provision](https://hackernoon.com/how-good-ux-elevates-enterprise-service-provision)
+### [73. How Good UX Elevates Enterprise Service Provision](https://hackernoon.com/how-good-ux-elevates-enterprise-service-provision)
 ![](https://cdn.hackernoon.com/images/TKx0gxo50BMbflOszmJUNJHwbth1-fz93xmu.jpeg)
 
 Discover the importance of providing employees with the right tools for job satisfaction, productivity, and attracting and retaining talent in evolving work mo
+
+### [74. Avatars Will Emerge as Storytellers](https://hackernoon.com/avatars-will-emerge-as-storytellers-tok3xk3)
+![](https://cdn.hackernoon.com/drafts/g1s32wj.png)
+Humans rule the world.
+
+### [75. How ARTH Stablecoin Was Built and Designed to Protect The User's Purchasing Power](https://hackernoon.com/how-arth-stablecoin-was-built-and-designed-to-protect-the-users-purchasing-power-83y37af)
+![](https://cdn.hackernoon.com/images/5jZyOguU4UX6RlDYGFVx0DGIETG3-x713x36tl.jpeg)
+Mitul Gajera, designer of the stable value coin ARTH explains and gives insight into how the cryptocurrency was designed to protect the user's purchasing power.
 
 ### [76. 4 Questions To Ask Yourself Before Rebranding](https://hackernoon.com/4-questions-to-ask-yourself-before-rebranding-s33f3663)
 ![](https://cdn.hackernoon.com/images/lyty2i82.jpg)
@@ -316,17 +320,17 @@ overlooked entirely. Instead of just trying to make the best of your
 underperforming brand, though, you can start moving in a positive 
 direction by committing to a rebrand. 
 
-### [77. 5 Tried and Tested Strategies for Quick Time to Value](https://hackernoon.com/5-tried-and-tested-strategies-for-quick-time-to-value)
+### [77. Every UX Designer Needs To Learn Prototyping](https://hackernoon.com/every-ux-designer-needs-to-learn-prototyping-sm5k32q8)
+![](https://cdn.hackernoon.com/images/SVk1E6GoWaNbJKzIqDejvwfsqwf1-94j31ym.jpeg)
+This article covers the definition of prototyping for UX design, when to create your first prototype, and the principles of prototyping. 
+
+### [78. 5 Tried and Tested Strategies for Quick Time to Value](https://hackernoon.com/5-tried-and-tested-strategies-for-quick-time-to-value)
 ![](https://cdn.hackernoon.com/images/TKx0gxo50BMbflOszmJUNJHwbth1-f393xd4.jpeg)
 Learn how you can elevate your business with UX design, reducing time to value, and outperforming competitors for game-changing success.
 
-### [78. Harnessing Growth Mindset to Design a Spider Killer](https://hackernoon.com/harnessing-growth-mindset-to-design-a-spider-killer-euz3wpp)
+### [79. Harnessing Growth Mindset to Design a Spider Killer](https://hackernoon.com/harnessing-growth-mindset-to-design-a-spider-killer-euz3wpp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3w7eKCjU7mgvI5Wdpmas4Mc1W4z2-0g1x3wxr.jpeg?alt=media&token=5259ce24-25bb-4597-b493-444f341ac6c5)
 I was in the middle of doing a pilates class over Zoom when I noticed a big spider on the ceiling. I pointed it out to my kids who were in the room with me, but knowing that none of us could reach it, I dismissed it and went back to struggling through “the hundreds”. Around me, the kids also resumed their activity... or so I thought. 
-
-### [79. Every UX Designer Needs To Learn Prototyping](https://hackernoon.com/every-ux-designer-needs-to-learn-prototyping-sm5k32q8)
-![](https://cdn.hackernoon.com/images/SVk1E6GoWaNbJKzIqDejvwfsqwf1-94j31ym.jpeg)
-This article covers the definition of prototyping for UX design, when to create your first prototype, and the principles of prototyping. 
 
 ### [80. Lean Innovation: How to Tackle
 Product Development in a Lean and Efficient Way](https://hackernoon.com/lean-innovation-how-to-tackle-product-development-in-a-lean-and-efficient-way-tx2b3wqu)

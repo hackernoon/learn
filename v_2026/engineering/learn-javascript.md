@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [learn-javascript](https://hackernoon.com/tagged/learn-javascript)
+### Let's learn about [Learn Javascript](https://hackernoon.com/tagged/learn-javascript) via these 69 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+"Learn JavaScript" describes the process of acquiring skills in JavaScript, the foundational programming language for web development, enabling interactive and dynamic functionality on websites. It matters by providing the essential language for front-end development and a significant portion of back-end and mobile development, making it a crucial skill for modern programmers.
+
 ### [1. JavaScript Practical Coding Challenges For Beginners](https://hackernoon.com/javascript-practical-coding-challenges-for-beginners-4bq3ugr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fd4eCS2jiqecKKoHIteUYrhKUXUU2-c5jk3upf.jpeg?alt=media&token=fee6163f-e79f-4eda-89a4-ab87b2377a3f)
 Hello JavaScript code newbie! In this article I'm proposing you a series of coding challenges that will help you practice the basic language constructs and algorithms.
@@ -74,13 +78,13 @@ From a client-side programming perspective, the language JavaScript has grown in
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4ommYrLO0QMD5aXRiVRvwdWUVoz1-m9423wcb.jpeg?alt=media&token=f30b6c0c-1e6f-4ff6-abb2-12374ddbd5c4)
 So, you want to learn programming but you’re unsure what programming language to learn, This is a position that every programmer has been in at some point.
 
-### [19. The 7 Most Useful Array Methods in JavaScript](https://hackernoon.com/the-7-most-useful-array-methods-in-javascript)
-![](https://cdn.hackernoon.com/images/R8cbpKzhckgtteks9CAGVh7VJqp2-ix93nly.jpeg)
-Article about useful Array methods in JavaScript.
-
-### [20. 25+ Beginner Javascript Projects With Source Code on Github](https://hackernoon.com/25-beginner-javascript-projects-for-with-source-code-on-github)
+### [19. 25+ Beginner Javascript Projects With Source Code on Github](https://hackernoon.com/25-beginner-javascript-projects-for-with-source-code-on-github)
 ![](https://cdn.hackernoon.com/images/n46TzZ1AaqbEkZzpTB21rYVJHNG3-0m835id.jpeg)
 A list of 25+ Javascript projects for beginners with source code available on Github. Easy Javascript projects for beginners. 
+
+### [20. The 7 Most Useful Array Methods in JavaScript](https://hackernoon.com/the-7-most-useful-array-methods-in-javascript)
+![](https://cdn.hackernoon.com/images/R8cbpKzhckgtteks9CAGVh7VJqp2-ix93nly.jpeg)
+Article about useful Array methods in JavaScript.
 
 ### [21. One Hour JavaScript Coding Exercises  ](https://hackernoon.com/one-hour-javascript-coding-exercises-cv6r3035)
 ![](https://cdn.hackernoon.com/drafts/s2qm3yj9.png)
@@ -152,13 +156,13 @@ Building the classic Blackjack experience in Alpine.js.
 ![](https://cdn.hackernoon.com/images/0sm1KIKmbZhu9AD2GAr4cKywoN43-e993nt3.jpeg)
 Web developers have many reasons to read uploaded file content in JavaScript. 
 
-### [38. A Step by Step Guide to JavaScript Localization](https://hackernoon.com/a-step-by-step-guide-to-javascript-localization)
-![](https://cdn.hackernoon.com/images/IzBcwKW22YbKX9ISDhGhrR1eFst1-3x934nr.jpeg)
-JavaScript Localization Guide
-
-### [39. Master JavaScript: A Beginner’s Guide to Building Dynamic, Interactive Web Pages](https://hackernoon.com/master-javascript-a-beginners-guide-to-building-dynamic-interactive-web-pages)
+### [38. Master JavaScript: A Beginner’s Guide to Building Dynamic, Interactive Web Pages](https://hackernoon.com/master-javascript-a-beginners-guide-to-building-dynamic-interactive-web-pages)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-l493uhg.png)
 This blog post discusses JavaScript, its role, features and frameworks that are at a developer’s disposal. Read on to know more…
+
+### [39. A Step by Step Guide to JavaScript Localization](https://hackernoon.com/a-step-by-step-guide-to-javascript-localization)
+![](https://cdn.hackernoon.com/images/IzBcwKW22YbKX9ISDhGhrR1eFst1-3x934nr.jpeg)
+JavaScript Localization Guide
 
 ### [40. 3 Must-learn JavaScript Concepts to Master Before Learning React](https://hackernoon.com/3-must-learn-javascript-concepts-to-master-before-learning-react)
 ![](https://cdn.hackernoon.com/images/ZHAz9wv9l3eZzNLiVyAUACoJBo03-r393ztt.jpeg)
@@ -212,13 +216,13 @@ Inheritance is a mechanism in JavaScript that allows an object to inherit proper
 ![](https://cdn.hackernoon.com/images/fCLBrul2vhTkS42mI06IuAdfkyN2-wf934s9.png)
 Building a facial recognition application with JavaScript is not a daunting task. In this blog post, I'll walk you through the journey of developing one.
 
-### [53. The Most Important Programming Lesson I Ever Learned](https://hackernoon.com/the-most-important-programming-lesson-i-ever-learned-873a33k5)
-![](https://cdn.hackernoon.com/images/IMcuZGEyrzRf7UvWytxpfRbJsQ52-mn4233ca.jpeg)
-The most important lesson in programming is learning to debug code. Here is a list of my favorite debugging tips and tricks in JavaScript, Python, and more.
-
-### [54. The Calculator Project: Why It Was Easier, Yet Full of Hurdles](https://hackernoon.com/the-calculator-project-why-it-was-easier-yet-full-of-hurdles)
+### [53. The Calculator Project: Why It Was Easier, Yet Full of Hurdles](https://hackernoon.com/the-calculator-project-why-it-was-easier-yet-full-of-hurdles)
 ![](https://cdn.hackernoon.com/images/UF3Ri4poFsf3HWltLaPVOxlJ0OW2-qrh37ya.png)
 Join me on my coding adventure as I tackle the Calculator Project. Discover the challenges I faced, the solutions I found, and the valuable lessons I learned. 
+
+### [54. The Most Important Programming Lesson I Ever Learned](https://hackernoon.com/the-most-important-programming-lesson-i-ever-learned-873a33k5)
+![](https://cdn.hackernoon.com/images/IMcuZGEyrzRf7UvWytxpfRbJsQ52-mn4233ca.jpeg)
+The most important lesson in programming is learning to debug code. Here is a list of my favorite debugging tips and tricks in JavaScript, Python, and more.
 
 ### [55. The No-Cheat Code Challenge - How I Survived The Odin Project](https://hackernoon.com/the-no-cheat-code-challenge-how-i-survived-the-odin-project)
 ![](https://cdn.hackernoon.com/images/UF3Ri4poFsf3HWltLaPVOxlJ0OW2-lxj348c.jpeg)
@@ -228,13 +232,13 @@ Discover how I tackled The Odin Project without shortcuts, faced tough challenge
 ![](https://cdn.hackernoon.com/images/KZkb1zzObqdx1sjOAplc30l7Kpp1-38136li.jpeg)
 I bet you didn’t know that Javascript has pointers. Well, it does! Let’s take a quick look at how they are implemented and how they work. 
 
-### [57. How to Insert an Item Into an Array at a Specific Index in Javascript](https://hackernoon.com/how-to-insert-an-item-into-an-array-at-a-specific-index-in-javascript)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-0k93p31.jpeg)
-We use the splice method to insert an item into an array at a specific index in javascript, which takes 3 arguments - and also lets us delete items too. 
-
-### [58. Testing for Image Format Support Using Simple JavaScript ](https://hackernoon.com/testing-for-image-format-support-using-simple-javascript)
+### [57. Testing for Image Format Support Using Simple JavaScript ](https://hackernoon.com/testing-for-image-format-support-using-simple-javascript)
 ![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-gv93rkl.jpeg)
 Here are two simple Async/Await JavaScript scripts that will detect and indicate browser support for the AVIF and WEBP image formats.
+
+### [58. How to Insert an Item Into an Array at a Specific Index in Javascript](https://hackernoon.com/how-to-insert-an-item-into-an-array-at-a-specific-index-in-javascript)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-0k93p31.jpeg)
+We use the splice method to insert an item into an array at a specific index in javascript, which takes 3 arguments - and also lets us delete items too. 
 
 ### [59. Conditional Rendering in Vue](https://hackernoon.com/conditional-rendering-in-vue)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-d393s9g.jpeg)
@@ -248,25 +252,25 @@ Understanding Javascript spread operator
 ![](https://cdn.hackernoon.com/drafts/0vz233zm.png)
 Javascript fundamentals series Scopes, Hoisting, Closures
 
-### [62. Keeping Your Units Testable in JavaScript](https://hackernoon.com/keeping-your-units-testable-in-javascript)
-![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-5l92em0.jpeg)
-Unit tests are a challenging topic, with many interconnected aspects that make it difficult for beginners. 
-
-### [63. A Tribute to innerHTML: A Love Story](https://hackernoon.com/a-tribute-to-innerhtml-a-love-story)
-![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-4192kft.jpeg)
-I hope this ode has inspired you to give innerHTML another look and fall in love with its simplicity and convenience all over again. 
-
-### [64. Demystifying Javascript Array Methods with Practical Examples](https://hackernoon.com/demystifying-javascript-array-methods-with-practical-examples)
+### [62. Demystifying Javascript Array Methods with Practical Examples](https://hackernoon.com/demystifying-javascript-array-methods-with-practical-examples)
 ![](https://cdn.hackernoon.com/images/QsxXq74rpfdI2SYRqxFke1FAlIl1-vz92i4n.jpeg)
 Understand how JavaScript array methods work by implementing three of the most common methods: map(), filter() and reduce.
 
-### [65. The State of Copy-Pasting in JavaScript](https://hackernoon.com/the-state-of-copy-pasting-in-javascript)
-![](https://cdn.hackernoon.com/images/FEungAXiith56Pk6XkyqIOhi1I43-4a02le9.jpeg)
-You may think "Surely there's a library for that!", and yet, there isn't.
+### [63. Keeping Your Units Testable in JavaScript](https://hackernoon.com/keeping-your-units-testable-in-javascript)
+![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-5l92em0.jpeg)
+Unit tests are a challenging topic, with many interconnected aspects that make it difficult for beginners. 
 
-### [66. How To Sort an Array of Objects in JavaScript?](https://hackernoon.com/how-to-sort-an-array-of-objects-in-javascript)
+### [64. How To Sort an Array of Objects in JavaScript?](https://hackernoon.com/how-to-sort-an-array-of-objects-in-javascript)
 ![](https://cdn.hackernoon.com/images/0yGvfERlhuMtZnYspnA3RFETmOL2-4t83e98.png)
 Learn how to sort an array of objects in JavaScript using the sort() method, custom compare functions, and practical examples for strings and numbers.
+
+### [65. A Tribute to innerHTML: A Love Story](https://hackernoon.com/a-tribute-to-innerhtml-a-love-story)
+![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-4192kft.jpeg)
+I hope this ode has inspired you to give innerHTML another look and fall in love with its simplicity and convenience all over again. 
+
+### [66. The State of Copy-Pasting in JavaScript](https://hackernoon.com/the-state-of-copy-pasting-in-javascript)
+![](https://cdn.hackernoon.com/images/FEungAXiith56Pk6XkyqIOhi1I43-4a02le9.jpeg)
+You may think "Surely there's a library for that!", and yet, there isn't.
 
 ### [67. Mastering Javascript Variables: A Simplified Guide for Beginners ](https://hackernoon.com/mastering-javascript-variables-a-simplified-guide-for-beginners)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ju93ppc.jpeg)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [tensorflow](https://hackernoon.com/tagged/tensorflow)
+### Let's learn about [Tensorflow](https://hackernoon.com/tagged/tensorflow) via these 93 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+TensorFlow is an open-source machine learning framework that simplifies the development and deployment of AI models across various platforms, making advanced analytics accessible for applications from research to production. It matters by democratizing AI, enabling developers to build sophisticated intelligent systems with robust tooling.
+
 ### [1. Deep Learning CNN’s in Tensorflow with GPUs](https://hackernoon.com/deep-learning-cnns-in-tensorflow-with-gpus-cba6efe0acc2)
 ![](https://hackernoon.com/hn-images/1*4-9rcFvShvsA4mhCpRHaSg.jpeg)
 In <a href="https://medium.com/google-cloud/keras-inception-v3-on-google-compute-engine-a54918b0058" target="_blank">my last tutorial</a>, you created a complex convolutional neural <a href="https://hackernoon.com/tagged/network" target="_blank">network</a> from a pre-trained inception v3 model.
@@ -119,25 +123,25 @@ Top JavaScript libraries TensorFlow.js, Brain.js, Synaptic.js, ml5.js, ConvNetJS
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-sn93y0c.jpeg)
 Given the importance of pre-trained Deep Learning models, which Deep Learning framework - PyTorch or TensorFlow - has more of these models available to users is
 
-### [30. Why ML in Production is (still) Broken and Ways we Can Fix it](https://hackernoon.com/why-ml-in-production-is-still-broken-and-ways-we-can-fix-it-e33k32jc)
-![](https://cdn.hackernoon.com/images/sqm3y2RrpCOJ4vEb1zhSXrxAev23-hm9e31e7.jpeg)
-Machine Learning, Deep Learning development in production was still broken. ZenML, an extensible, open-source MLOps framework for production-ready ML pipelines.
-
-### [31. Quantum Machine Learning Using TensorFlow Quantum](https://hackernoon.com/quantum-machine-learning-using-tensorflow-quantum-ef413yub)
+### [30. Quantum Machine Learning Using TensorFlow Quantum](https://hackernoon.com/quantum-machine-learning-using-tensorflow-quantum-ef413yub)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-wg82rh5.jpeg)
 INTRODUCTION
+
+### [31. Why ML in Production is (still) Broken and Ways we Can Fix it](https://hackernoon.com/why-ml-in-production-is-still-broken-and-ways-we-can-fix-it-e33k32jc)
+![](https://cdn.hackernoon.com/images/sqm3y2RrpCOJ4vEb1zhSXrxAev23-hm9e31e7.jpeg)
+Machine Learning, Deep Learning development in production was still broken. ZenML, an extensible, open-source MLOps framework for production-ready ML pipelines.
 
 ### [32. Training Your Own Text Classification Model From Scratch With Tensorflow Is As Easy As ABC](https://hackernoon.com/training-your-own-text-classification-model-from-scratch-with-tensorflow-is-as-easy-as-abc-w9k34jc)
 ![](https://hackernoon.com/images/YTVT09mUXdWy6VztwpjvjXUyKjs2-4g7l2zg5.jpeg)
 Hello ML Newb! In this article, you will learn to train your own text classification model from scratch using Tensorflow in just a few lines of code.
 
-### [33. Approach Pre-Trained Deep Learning Models With Caution ](https://hackernoon.com/approach-pre-trained-deep-learning-models-with-caution-tl5d320v)
-![](https://cdn.hackernoon.com/drafts/m03i32zw.png)
-Pre-trained models are easy to use, but are you glossing over details that could impact your model performance?
-
-### [34. NSFW Filter Introduction: Building a Safer Internet Using AI](https://hackernoon.com/nsfw-filter-introduction-building-a-safer-internet-using-ai-jq1e3u2f)
+### [33. NSFW Filter Introduction: Building a Safer Internet Using AI](https://hackernoon.com/nsfw-filter-introduction-building-a-safer-internet-using-ai-jq1e3u2f)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fre5iw2UfSRY84DuNASkA2jvOusr2-421n3uiy.jpeg?alt=media&token=327d593b-0d45-44a6-bd04-64720a530288)
 Filtering out NSFW images with a web extension built using TensorFlow JS.
+
+### [34. Approach Pre-Trained Deep Learning Models With Caution ](https://hackernoon.com/approach-pre-trained-deep-learning-models-with-caution-tl5d320v)
+![](https://cdn.hackernoon.com/drafts/m03i32zw.png)
+Pre-trained models are easy to use, but are you glossing over details that could impact your model performance?
 
 ### [35. [Tutorial] Build a Gender Classifier for Live Webcam Stream using Tensorflow and OpenCV](https://hackernoon.com/gender-classifier-with-tensorflow-and-opencv-rg1ye3weq)
 ![](https://cdn.hackernoon.com/images/y41yc3wko.gif)
@@ -173,13 +177,13 @@ I will show you how gradient descent works, which is in the deepest deep of mach
 ![](https://cdn.hackernoon.com/images/c733y3zdz.jpg)
 Pretrained Artificial Neural Networks used to work like a Blackbox: You hand them an input and they predict an output with a certain probability — but without us knowing the internal processes of how they came up with their prediction. A Neural Network to recognize images usually consists of around 20 neuron layers, trained with millions of images to tweak the network parameters to give high quality classifications.
 
-### [43. How Blockchain & AI Integration is Changing Business Landscape?](https://hackernoon.com/how-blockchain-and-ai-integration-is-changing-business-landscape-mo4bp35nd)
-![](https://cdn.hackernoon.com/drafts/fm15v3516.png)
-The potential of Blockchain is no lesser than Artificial intelligence. If you have taken a look at them, you must already know the impacts of these technologies on various industries.
-
-### [44. 3 Ways to Easily Visualize Keras Machine Learning Models](https://hackernoon.com/3-ways-to-easily-visualize-keras-machine-learning-models)
+### [43. 3 Ways to Easily Visualize Keras Machine Learning Models](https://hackernoon.com/3-ways-to-easily-visualize-keras-machine-learning-models)
 ![](https://cdn.hackernoon.com/images/illustrate-a-machine-learning-model-clgutjc5n000001s66cgv9u46.png)
 Guide explaining how to use Netron, visualkeras, and TensorBoard to visualize Keras machine learning models.
+
+### [44. How Blockchain & AI Integration is Changing Business Landscape?](https://hackernoon.com/how-blockchain-and-ai-integration-is-changing-business-landscape-mo4bp35nd)
+![](https://cdn.hackernoon.com/drafts/fm15v3516.png)
+The potential of Blockchain is no lesser than Artificial intelligence. If you have taken a look at them, you must already know the impacts of these technologies on various industries.
 
 ### [45. Top 10 Data Science Libraries in Python](https://hackernoon.com/top-10-data-science-libraries-in-python-zdu3u4q)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-7ke3us7.jpeg?alt=media&token=385d6203-7cbd-41f3-b411-57921ea59472)
@@ -277,41 +281,41 @@ In this article, I will share with you some useful tips and guidelines that you 
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-eg0387d.png)
 Learn how to build a logistic regression model with TensorFlow Core to classify tumors using the Wisconsin Breast Cancer Dataset.
 
-### [69. Visualizing Object Detection Data in TensorFlow with TFRecords](https://hackernoon.com/visualizing-object-detection-data-in-tensorflow-with-tfrecords)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-4c03b1t.png)
-Visualize TensorFlow object detection data with TFRecords, bounding boxes, and masks while evaluating accuracy using mAP metrics.
-
-### [70. If TensorFlow Had a Brain, It Would Be Made of Graphs](https://hackernoon.com/if-tensorflow-had-a-brain-it-would-be-made-of-graphs)
+### [69. If TensorFlow Had a Brain, It Would Be Made of Graphs](https://hackernoon.com/if-tensorflow-had-a-brain-it-would-be-made-of-graphs)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-au037fx.png)
 Learn how TensorFlow graphs work, how tf.function builds them, and why they improve performance, portability, and deployment flexibility.
 
-### [71. Ducho: A Unified Framework for Multimodal Feature Extraction in AI-Powered Recommendations](https://hackernoon.com/ducho-a-unified-framework-for-multimodal-feature-extraction-in-ai-powered-recommendations)
+### [70. Ducho: A Unified Framework for Multimodal Feature Extraction in AI-Powered Recommendations](https://hackernoon.com/ducho-a-unified-framework-for-multimodal-feature-extraction-in-ai-powered-recommendations)
 ![](https://cdn.hackernoon.com/images/pie-chart-rzxcietrgicklp54cmzovddc.png)
 Ducho streamlines multimodal feature extraction for AI-driven recommendations, supporting audio, visual, and textual data.
+
+### [71. Getting Started with Gradients and Automatic Differentiation in TensorFlow](https://hackernoon.com/getting-started-with-gradients-and-automatic-differentiation-in-tensorflow)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ku03735.png)
+Learn how to compute gradients using TensorFlow's GradientTape API for training models with automatic differentiation and eager execution.
 
 ### [72. TensorFlow Variables, Once and for All](https://hackernoon.com/tensorflow-variables-once-and-for-all)
 ![](https://cdn.hackernoon.com/images/white-board-with-the-inscription-tf-variable-fr3tod26hgeng7u0vmpsb3yu.png)
 Learn how to create, manage, and update TensorFlow variables using tf.Variable—your key to handling persistent state in TensorFlow programs.
 
-### [73. Getting Started with Gradients and Automatic Differentiation in TensorFlow](https://hackernoon.com/getting-started-with-gradients-and-automatic-differentiation-in-tensorflow)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ku03735.png)
-Learn how to compute gradients using TensorFlow's GradientTape API for training models with automatic differentiation and eager execution.
-
-### [74. Can I Grade Loans Better Than LendingClub?](https://hackernoon.com/can-i-grade-loans-better-than-lendingclub-xgt3wue)
+### [73. Can I Grade Loans Better Than LendingClub?](https://hackernoon.com/can-i-grade-loans-better-than-lendingclub-xgt3wue)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FF6lbGm9ncZNbtbbdRF0jmOSSlv72-w24e25aq.jpeg?alt=media&token=650faf92-c385-4cf7-861a-e7dd1799eebe)
 In case you missed it, I built a neural network to predict loan risk using a public dataset from LendingClub. Then I built a public API to serve the model’s predictions. That’s nice and all, but… how good is my model?
 
-### [75. Loops, Conditionals & AutoGraph: Writing Graph-Friendly TensorFlow Code](https://hackernoon.com/loops-conditionals-and-autograph-writing-graph-friendly-tensorflow-code)
+### [74. Loops, Conditionals & AutoGraph: Writing Graph-Friendly TensorFlow Code](https://hackernoon.com/loops-conditionals-and-autograph-writing-graph-friendly-tensorflow-code)
 ![](https://cdn.hackernoon.com/images/code-on-a-desktop-monitor-tirsl34qby19k4d4i94ykxc8.png)
 Learn how TensorFlow's AutoGraph converts Python control flow into graph ops with tf.function, and avoid common pitfalls when tracing code.
 
-### [76. Fabio Manganiello on Home-Made Computer Vision, IoT, Automation, AI](https://hackernoon.com/fabio-manganiello-on-home-made-computer-vision-iot-automation-ai-4f7a3t79)
+### [75. Fabio Manganiello on Home-Made Computer Vision, IoT, Automation, AI](https://hackernoon.com/fabio-manganiello-on-home-made-computer-vision-iot-automation-ai-4f7a3t79)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-0t6j3twk.jpeg?alt=media&token=68c8701c-c4f1-4e59-ad5d-a95057e136fe)
 Fabio Manganiello writes about solutions he's discovered while building a platform, library of plugins and an API to connect/manage any device and service through any backend, allowing users to easily set up any kind of automation. Fabio is based in Amsterdam, the Netherlands, and has been nominated for a 2020 #Noonie for exceptional contributions to the IoT tag category on Hacker Noon.
 
-### [77. A Unified Framework for Multimodal Feature Extraction in Recommendation Systems](https://hackernoon.com/a-unified-framework-for-multimodal-feature-extraction-in-recommendation-systems)
+### [76. A Unified Framework for Multimodal Feature Extraction in Recommendation Systems](https://hackernoon.com/a-unified-framework-for-multimodal-feature-extraction-in-recommendation-systems)
 ![](https://cdn.hackernoon.com/images/piechart-eziabdvdbfhbpjjldol77qau.png)
 Ducho is a unified framework integrating TensorFlow, PyTorch, and Transformers to streamline multimodal feature extraction for recommendation systems.
+
+### [77. Visualizing Object Detection Data in TensorFlow with TFRecords](https://hackernoon.com/visualizing-object-detection-data-in-tensorflow-with-tfrecords)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-4c03b1t.png)
+Visualize TensorFlow object detection data with TFRecords, bounding boxes, and masks while evaluating accuracy using mAP metrics.
 
 ### [78. How to Train a Linear Regression Model in TensorFlow](https://hackernoon.com/how-to-train-a-linear-regression-model-in-tensorflow)
 ![](https://cdn.hackernoon.com/images/linear-regression-graph-on-a-laptop-screen-we6yxrvjdw32pr2u5mbk3jw3.png)
@@ -325,13 +329,13 @@ Ducho streamlines multimodal feature extraction with a structured pipeline and a
 ![](https://cdn.hackernoon.com/images/the-text-keras-on-a-whiteboard-cum2kigshxpyv6le9hgf83jq.png)
 Learn how to customize saving and loading in Keras using advanced methods like save_own_variables(), load_assets(), and compile_from_config().
 
-### [81. Making AI Recommendations Smarter with Visual, Text, and Audio Data](https://hackernoon.com/making-ai-recommendations-smarter-with-visual-text-and-audio-data)
-![](https://cdn.hackernoon.com/images/charts-cjhbr2i6wzsxa3iqe36t5gaq.png)
-Explore Ducho’s real-world demos in fashion and music recommendation, leveraging visual, textual, and audio features for AI-driven recommendations.
-
-### [82. Ducho, the AI That Knows What You Think About That Toaster](https://hackernoon.com/ducho-the-ai-that-knows-what-you-think-about-that-toaster)
+### [81. Ducho, the AI That Knows What You Think About That Toaster](https://hackernoon.com/ducho-the-ai-that-knows-what-you-think-about-that-toaster)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-36033ui.png)
 Ducho extracts textual features from product descriptions and user reviews using multilingual BERT for sentiment analysis, refining AI-powered recommendations.
+
+### [82. Making AI Recommendations Smarter with Visual, Text, and Audio Data](https://hackernoon.com/making-ai-recommendations-smarter-with-visual-text-and-audio-data)
+![](https://cdn.hackernoon.com/images/charts-cjhbr2i6wzsxa3iqe36t5gaq.png)
+Explore Ducho’s real-world demos in fashion and music recommendation, leveraging visual, textual, and audio features for AI-driven recommendations.
 
 ### [83. How to Speed Up Your TensorFlow tf.data Pipeline](https://hackernoon.com/how-to-speed-up-your-tensorflow-tfdata-pipeline)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-rv0379u.png)
@@ -353,13 +357,13 @@ Learn how to use TensorFlow’s RaggedTensor for indexing, broadcasting, and han
 ![](https://cdn.hackernoon.com/images/pie-chart-ew8k15ahnhuu8eae6yh46gpt.png)
 Ducho’s modular architecture streamlines multimodal feature extraction with dataset handling, deep learning integration, and YAML-based configuration.
 
-### [88. TLDR Newsletter Week of August 5th Highlights](https://hackernoon.com/tldr-newsletter-week-of-august-5th-highlights-up3jp3rlq)
-![](https://cdn.hackernoon.com/images/hu243ryt.jpg)
-
-
-### [89. TensorBoard, Checkpoints, and Custom Hooks in Keras](https://hackernoon.com/tensorboard-checkpoints-and-custom-hooks-in-keras)
+### [88. TensorBoard, Checkpoints, and Custom Hooks in Keras](https://hackernoon.com/tensorboard-checkpoints-and-custom-hooks-in-keras)
 ![](https://cdn.hackernoon.com/images/the-text-keras-on-a-whiteboard-cum2kigshxpyv6le9hgf83jq.png)
 Learn Keras callbacks: hook into training/eval/predict, read logs, use self.model, apply EarlyStopping & LR scheduling, and build custom callbacks with examples
+
+### [89. TLDR Newsletter Week of August 5th Highlights](https://hackernoon.com/tldr-newsletter-week-of-august-5th-highlights-up3jp3rlq)
+![](https://cdn.hackernoon.com/images/hu243ryt.jpg)
+
 
 ### [90. The HackerNoon Newsletter: You’re Wasting GPU Power—Fix Your TensorFlow Input Pipeline Today (7/30/2025)](https://hackernoon.com/7-30-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_122_w3apdxxivisoml03orw193qm.png)

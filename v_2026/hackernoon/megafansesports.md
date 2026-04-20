@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [megafansesports](https://hackernoon.com/tagged/megafansesports)
+### Let's learn about [Megafansesports](https://hackernoon.com/tagged/megafansesports) via these 184 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Megafans Esports likely refers to a platform or community dedicated to competitive video gaming. Esports is a rapidly growing industry, attracting massive audiences and significant investment, driving new forms of entertainment.
+
 ### [1. The Future of Gaming Writing Contest by Megafans x HackerNoon](https://hackernoon.com/the-future-of-gaming-writing-contest-by-megafans-x-hackernoon)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-4a93lpp.jpeg)
 The Future of Gaming Writing Contest runs from April 1 to June 30th w/$5300 in  cash prizes for the top 5 stories submitted each month.
@@ -154,13 +158,13 @@ Axiom Verge, Dark Souls and Salt and Sanctuary are some of the amazing games lik
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0x93kt9.jpeg)
 Apple Arcade has great games that shouldn't be overlooked. Some of these include Dear Reader and Tangle Tower. 
 
-### [39. 7 Best Nintendo Consoles Based on Games](https://hackernoon.com/7-best-nintendo-consoles-based-on-games)
-![](https://cdn.hackernoon.com/images/4Utmua7swbeKmKkzfFUMrMiP41x2-3o92ex6.jpeg)
-7 Best Nintendo Consoles Based on Games include the Nintendo Switch, SNES, Wii, Nintendo DS, Nintendo 64, Nintendo GameCube, and Nintendo Entertainment System. 
-
-### [40. 15 Crypto and NFT Influencers to Follow on Twitter in 2022](https://hackernoon.com/15-crypto-and-nft-influencers-to-follow-on-twitter-in-2022)
+### [39. 15 Crypto and NFT Influencers to Follow on Twitter in 2022](https://hackernoon.com/15-crypto-and-nft-influencers-to-follow-on-twitter-in-2022)
 ![](https://cdn.hackernoon.com/images/7VKGhN9WI3PvPAtnBswSforogTU2-pz93jkt.jpeg)
 It is getting harder to keep up in times of information overload, new crypto terms, and emerging NFT collections.
+
+### [40. 7 Best Nintendo Consoles Based on Games](https://hackernoon.com/7-best-nintendo-consoles-based-on-games)
+![](https://cdn.hackernoon.com/images/4Utmua7swbeKmKkzfFUMrMiP41x2-3o92ex6.jpeg)
+7 Best Nintendo Consoles Based on Games include the Nintendo Switch, SNES, Wii, Nintendo DS, Nintendo 64, Nintendo GameCube, and Nintendo Entertainment System. 
 
 ### [41. Top Game Development Technologies and Trends In 2022 and In The Coming Years](https://hackernoon.com/top-game-development-technologies-and-trends-in-2022-and-in-the-coming-years)
 ![](https://cdn.hackernoon.com/images/acea9NUYCcbxdFLyZFINYLXJFMs2-wi93kz6.png)
@@ -178,21 +182,21 @@ Analysis of the potential impacts of flutter framework in the cross platform gam
 ![](https://cdn.hackernoon.com/images/5ZAMiBFQxdg6XyyVENHsHGEf6RU2-rsb3iaw.jpeg)
 Whether you select Donkey Kong to race and throw around bananas in Mario Kart or take a lot of time creating a photo-realistic wastelander with a lot of cool scars in Fallout 4, well-developed characters are essential to any game because they serve as an emotional bridge between the player and the screen. Most players prefer to specialize in a unique character that matches their gaming style or simply because they like the vibe of the character.  This phenomenon is known among gamers as "maining a character" and it can be seen in a variety of games such as League of Legends, Valoran, Smash Bros, Dota2, and others.  
 
-### [45. Let's Look at Plutonians: The Intergalactic Space-faring RPG](https://hackernoon.com/lets-look-at-plutonians-the-intergalactic-space-faring-rpg)
-![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-hx93iev.jpeg)
-Plutonians is an upcoming space-faring, Virtual Reality (VR) Role Playing Game (RPG) that is being built on the Solana blockchain.
-
-### [46. DeFi Land is Bringing Fun to Gaming and Virtual Farming Through Play-to-Earn and DeFi Gamification](https://hackernoon.com/defi-land-is-bringing-fun-to-gaming-and-virtual-farming-through-play-to-earn-and-defi-gamification)
+### [45. DeFi Land is Bringing Fun to Gaming and Virtual Farming Through Play-to-Earn and DeFi Gamification](https://hackernoon.com/defi-land-is-bringing-fun-to-gaming-and-virtual-farming-through-play-to-earn-and-defi-gamification)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-qib3kg4.jpeg)
 DeFi Land is an online game that simulates multi-chain agriculture to gamify decentralised finance.
 
-### [47. Moderation in the Metauniverse is the Most Disgusting Job in the World](https://hackernoon.com/moderation-in-the-metauniverse-is-the-most-disgusting-job-in-the-world)
-![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-fxa3jen.jpeg)
-Why does the metauniverse need bouncers? Who in the digital world can be considered an intruder? I will discuss this within the moderation in metaworld topic.
+### [46. Let's Look at Plutonians: The Intergalactic Space-faring RPG](https://hackernoon.com/lets-look-at-plutonians-the-intergalactic-space-faring-rpg)
+![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-hx93iev.jpeg)
+Plutonians is an upcoming space-faring, Virtual Reality (VR) Role Playing Game (RPG) that is being built on the Solana blockchain.
 
-### [48. The Future of Gaming: An Observant Prediction](https://hackernoon.com/the-future-of-gaming-an-observant-prediction)
+### [47. The Future of Gaming: An Observant Prediction](https://hackernoon.com/the-future-of-gaming-an-observant-prediction)
 ![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-fwh3hbi.jpeg)
 There are speculations about the relevance of gaming in the tech industry and what gaming will become in years from now. Find out by reading this story now.
+
+### [48. Moderation in the Metauniverse is the Most Disgusting Job in the World](https://hackernoon.com/moderation-in-the-metauniverse-is-the-most-disgusting-job-in-the-world)
+![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-fxa3jen.jpeg)
+Why does the metauniverse need bouncers? Who in the digital world can be considered an intruder? I will discuss this within the moderation in metaworld topic.
 
 ### [49. Counter-Strike: The Unofficial War in Ukraine](https://hackernoon.com/counter-strike-the-unofficial-war-in-ukraine)
 ![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-v593kee.jpeg)
@@ -210,37 +214,37 @@ Axie Infinity ($AXS) was undoubtedly 2021's NFT gaming moonshot, but hacks and c
 ![](https://cdn.hackernoon.com/images/OWwusqtd11XIq9iOOIyuavuCQ7p2-bza3tl7.jpeg)
 The Metaverse is a concept that has taken the world by storm in a very short amount of time, but it's still far from being a reality.
 
-### [53. What Everyone Is Missing About Axie Infinity’s Economic Storm](https://hackernoon.com/what-everyone-is-missing-about-axie-infinitys-economic-storm)
-![](https://cdn.hackernoon.com/images/EedXtberi1PCj4YEhUrdcXkgyQf2-fkh3kqu.jpeg)
-A guild owner does a deep dive into the fundamentals which drive the Axie Infinity economy and explains what's contributing to the current drop in the tokens.
-
-### [54. On Weapon Design in Video Games](https://hackernoon.com/on-weapon-design-in-video-games)
-![](https://cdn.hackernoon.com/images/5ZAMiBFQxdg6XyyVENHsHGEf6RU2-ba93glz.jpeg)
-After introducing you to the game characters' initial conceptualization in the previous DevBlog, it is now time to design the weapons that the characters use.  
-
-### [55. The Multiverse of Madness: How Roblox Works](https://hackernoon.com/the-multiverse-of-madness-how-roblox-works-a-super-popular-platform-for-creating-games)
+### [53. The Multiverse of Madness: How Roblox Works](https://hackernoon.com/the-multiverse-of-madness-how-roblox-works-a-super-popular-platform-for-creating-games)
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-6493fid.jpeg)
 Roblox is a very popular game. Let`s discuss where Roblox is used, what problems it has, and what games inside Roblox are breaking Steam's hit records.
 
-### [56. 4 Innovative Sci-Fi Play-to-Earn Projects to Follow in 2022](https://hackernoon.com/4-innovative-sci-fi-play-to-earn-projects-to-follow-in-2022)
-![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-8ih3j7m.jpeg)
-No one will be surprised by my saying that the gaming industry has been hitting different lately, producing incredible results with their ramp-up rates and total capitalization. This boom can be easily explained by the influx of new players as a result of the pandemic and the increased demand for practical and intuitive online games, especially on mobile platforms. 
+### [54. What Everyone Is Missing About Axie Infinity’s Economic Storm](https://hackernoon.com/what-everyone-is-missing-about-axie-infinitys-economic-storm)
+![](https://cdn.hackernoon.com/images/EedXtberi1PCj4YEhUrdcXkgyQf2-fkh3kqu.jpeg)
+A guild owner does a deep dive into the fundamentals which drive the Axie Infinity economy and explains what's contributing to the current drop in the tokens.
 
-### [57. Check Out the Top Jobs of the Metaverse!](https://hackernoon.com/check-out-the-top-jobs-of-the-metaverse)
+### [55. On Weapon Design in Video Games](https://hackernoon.com/on-weapon-design-in-video-games)
+![](https://cdn.hackernoon.com/images/5ZAMiBFQxdg6XyyVENHsHGEf6RU2-ba93glz.jpeg)
+After introducing you to the game characters' initial conceptualization in the previous DevBlog, it is now time to design the weapons that the characters use.  
+
+### [56. Check Out the Top Jobs of the Metaverse!](https://hackernoon.com/check-out-the-top-jobs-of-the-metaverse)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-sy93qdu.jpeg)
 What jobs are possible in the future of a metaverse?
+
+### [57. 4 Innovative Sci-Fi Play-to-Earn Projects to Follow in 2022](https://hackernoon.com/4-innovative-sci-fi-play-to-earn-projects-to-follow-in-2022)
+![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-8ih3j7m.jpeg)
+No one will be surprised by my saying that the gaming industry has been hitting different lately, producing incredible results with their ramp-up rates and total capitalization. This boom can be easily explained by the influx of new players as a result of the pandemic and the increased demand for practical and intuitive online games, especially on mobile platforms. 
 
 ### [58. Provable Random Numbers in Blockchain](https://hackernoon.com/provable-random-numbers-in-blockchain)
 ![](https://cdn.hackernoon.com/images/NJ3soJSKvmgGhzF9OyUpDiHe0fB2-hh93lvl.jpeg)
 The necessity for provable on-chain random numbers in blockchain using true random number generators (TRNG) and the solution from High Performance Blockchain. 
 
-### [59. Why Blockchain Gaming in its Current Form Can’t Survive](https://hackernoon.com/why-blockchain-gaming-in-its-current-form-cant-survive)
-![](https://cdn.hackernoon.com/images/JzMQJLwjMUb7ce9BBP2U728OwdY2-j493k4r.jpeg)
-Investment in the blockchain gaming sector has already broken $3 billion in 2022, compared to $4.2 billion across the whole of 2021. 
-
-### [60. Top 10 Mobile Games with Largest Influencer Marketing Budgets](https://hackernoon.com/top-10-mobile-games-with-largest-influencer-marketing-budgets)
+### [59. Top 10 Mobile Games with Largest Influencer Marketing Budgets](https://hackernoon.com/top-10-mobile-games-with-largest-influencer-marketing-budgets)
 ![](https://cdn.hackernoon.com/images/xtmKwIBzdmQOMRekWnFekFjRmge2-lf93n2d.jpeg)
 Here are top 10 mobile game and app developers who spent the most on YouTube in 2021.
+
+### [60. Why Blockchain Gaming in its Current Form Can’t Survive](https://hackernoon.com/why-blockchain-gaming-in-its-current-form-cant-survive)
+![](https://cdn.hackernoon.com/images/JzMQJLwjMUb7ce9BBP2U728OwdY2-j493k4r.jpeg)
+Investment in the blockchain gaming sector has already broken $3 billion in 2022, compared to $4.2 billion across the whole of 2021. 
 
 ### [61. Top 5 Gaming Industry Trends for 2022](https://hackernoon.com/top-5-gaming-industry-trends-for-2022)
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-gzh3foa.jpeg)
@@ -298,63 +302,63 @@ In 2021, Dota 2’s annual tournament exhibited a prize pool of $47.7 million. I
 ![](https://cdn.hackernoon.com/images/LMHO6a8OZMeao9Pb9g3BAp9wWM93-mca36mu.jpeg)
 Crypto gaming is a brand new sector that started drawing public attention roughly one year. 
 
-### [75. The concept of the Metaverse - vision for the future of the internet and communication](https://hackernoon.com/the-concept-of-the-metaverse-vision-for-the-future-of-the-internet-and-communication)
-![](https://cdn.hackernoon.com/images/5rS4yrERbxUtfUCTsrb3x2kieP32-seh3qkr.jpeg)
-What is the metaverse - a game, another social network or a new era of the Internet and Web 3.0. Metaverse projects that we can explore 
-
-### [76. How NFTs can change Steam Community Market?](https://hackernoon.com/how-nfts-can-change-steam-community-market)
+### [75. How NFTs can change Steam Community Market?](https://hackernoon.com/how-nfts-can-change-steam-community-market)
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-y2k3gtm.jpeg)
 Steam community market is considered an outdated trading platform for gamers, but NFTs can change this. I discuss the importance of NFT implementation in Steam.
+
+### [76. The concept of the Metaverse - vision for the future of the internet and communication](https://hackernoon.com/the-concept-of-the-metaverse-vision-for-the-future-of-the-internet-and-communication)
+![](https://cdn.hackernoon.com/images/5rS4yrERbxUtfUCTsrb3x2kieP32-seh3qkr.jpeg)
+What is the metaverse - a game, another social network or a new era of the Internet and Web 3.0. Metaverse projects that we can explore 
 
 ### [77. What if Video Games Could Treat You](https://hackernoon.com/what-if-video-games-could-treat-you)
 ![](https://cdn.hackernoon.com/images/bRBzAtCgtNW5ZaztiQhZNL86Mto2-nq92bcf.jpeg)
 A look at the state of prescription video games designed to help individuals suffering from various physical and mental issues and the companies behind them.
 
-### [78. The Future of Mobile Game Promotion and Advertising](https://hackernoon.com/the-future-of-mobile-game-promotion-and-advertising)
-![](https://cdn.hackernoon.com/images/YMzDqdXq9MgeEl4dai9nGaZIj8t1-n9g3nsy.jpeg)
-One of the challenges that game developers and publishers face now and will continue to face in the future is the proper promotion of their creations. 
-
-### [79. The Future of Gaming Writing Contest: April 2022 Results Announced!](https://hackernoon.com/the-future-of-gaming-writing-contest-april-2022-results-announced)
+### [78. The Future of Gaming Writing Contest: April 2022 Results Announced!](https://hackernoon.com/the-future-of-gaming-writing-contest-april-2022-results-announced)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-su93m3v.jpeg)
 Here are April's winners of the future of gaming writing contest held by HackerNoon and Meganfans esports. Sign up to win up to $5800 in cash prizes and NFTs.
 
-### [80. Niftables is Changing NFTs Experience with AR and VR Features That Make Metaverse Feel Real ](https://hackernoon.com/niftables-is-changing-nfts-experience-with-ar-and-vr-features-that-make-metaverse-feel-real)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-kce3kbe.jpeg)
-Niftables is introducing a while-label NFT solution for brands and creators that allows for the development of NFT platforms without any struggle.
+### [79. The Future of Mobile Game Promotion and Advertising](https://hackernoon.com/the-future-of-mobile-game-promotion-and-advertising)
+![](https://cdn.hackernoon.com/images/YMzDqdXq9MgeEl4dai9nGaZIj8t1-n9g3nsy.jpeg)
+One of the challenges that game developers and publishers face now and will continue to face in the future is the proper promotion of their creations. 
 
-### [81. A Beginner's Guide to Non-Fungible Tokens](https://hackernoon.com/a-beginners-guide-to-non-fungible-tokens)
-![](https://cdn.hackernoon.com/images/sJT10sqf3vdykcAnF5GdRzRIydh2-fpa3bk9.jpeg)
-Non-Fungible Tokens, otherwise known as NFTs, have become the craze of internet users. They are unique, provably scarce, digital assets powered by blockchain te
-
-### [82. Ape Gang: From Coders to Sponsors](https://hackernoon.com/ape-gang-from-coders-to-sponsors)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-gra3mpa.jpeg)
-Hackernoon hopped at the chance of getting an exclusive interview with  Jokong and Rikong, who were kind enough to share with us Ape Gang’s latest initiatives.
-
-### [83. Fomo3d on Solana: Making my Own Blockchain Game Factory](https://hackernoon.com/fomo3d-on-solana-making-my-own-blockchain-game)
+### [80. Fomo3d on Solana: Making my Own Blockchain Game Factory](https://hackernoon.com/fomo3d-on-solana-making-my-own-blockchain-game)
 ![](https://cdn.hackernoon.com/images/qwlVSFUNhGO3DAw4hoBd17XGTAC2-2hg3i87.jpeg)
 This article is more of a how-to guide on the various ways one can play the current evolution of my blockchain game  fair3d.me
 
 
 
+### [81. Niftables is Changing NFTs Experience with AR and VR Features That Make Metaverse Feel Real ](https://hackernoon.com/niftables-is-changing-nfts-experience-with-ar-and-vr-features-that-make-metaverse-feel-real)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-kce3kbe.jpeg)
+Niftables is introducing a while-label NFT solution for brands and creators that allows for the development of NFT platforms without any struggle.
+
+### [82. Ape Gang: From Coders to Sponsors](https://hackernoon.com/ape-gang-from-coders-to-sponsors)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-gra3mpa.jpeg)
+Hackernoon hopped at the chance of getting an exclusive interview with  Jokong and Rikong, who were kind enough to share with us Ape Gang’s latest initiatives.
+
+### [83. A Beginner's Guide to Non-Fungible Tokens](https://hackernoon.com/a-beginners-guide-to-non-fungible-tokens)
+![](https://cdn.hackernoon.com/images/sJT10sqf3vdykcAnF5GdRzRIydh2-fpa3bk9.jpeg)
+Non-Fungible Tokens, otherwise known as NFTs, have become the craze of internet users. They are unique, provably scarce, digital assets powered by blockchain te
+
 ### [84. DeFi+GameFi: How Decentralized Finance Helps Blockchain Games Become More Profitable for Users](https://hackernoon.com/defigamefi-how-decentralized-finance-helps-blockchain-games-become-more-profitable-for-users)
 ![](https://cdn.hackernoon.com/images/5rS4yrERbxUtfUCTsrb3x2kieP32-axf3rc1.jpeg)
 Solutions that DeFi can offer to play-to-earn projects. How to improve the in-game economy and create profitable projects for players. The answer is DeFi.
 
-### [85. Exploring Social AR with Aladin Ben](https://hackernoon.com/exploring-social-ar-with-aladin-ben)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-uca3lee.jpeg)
-Hackernoon got an exclusive interview with Aladin Ben, Meekey founder, at the Non-fungible Conference, who shared insights on his experience with NFTs and AR.
-
-### [86. Pyramid Head as the Egyptian god Sobek (Silent Hill 2)](https://hackernoon.com/pyramid-head-as-the-egyptian-god-sebek-silent-hill-2)
+### [85. Pyramid Head as the Egyptian god Sobek (Silent Hill 2)](https://hackernoon.com/pyramid-head-as-the-egyptian-god-sebek-silent-hill-2)
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-mgi3gzh.jpeg)
 Pyramid Head is one of the most mystic characters of Silent Hill 2. He is linked to Anubis, but I think Pyramid Head and Sebek have more in common. 
 
-### [87. Move Over Apple, There's a New Robber Baron in Town and it's Meta](https://hackernoon.com/move-over-apple-theres-a-new-robber-baron-in-town-and-its-meta)
-![](https://cdn.hackernoon.com/images/ERNPpaKVK4Q3gM1MG2JdydY6Z4K2-qfd3k7w.jpeg)
-Meta (formerly Facebook) plans to take a whopping 47.5% of sales made in their upcoming metaverse called Horizon Worlds. 
+### [86. Exploring Social AR with Aladin Ben](https://hackernoon.com/exploring-social-ar-with-aladin-ben)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-uca3lee.jpeg)
+Hackernoon got an exclusive interview with Aladin Ben, Meekey founder, at the Non-fungible Conference, who shared insights on his experience with NFTs and AR.
 
-### [88. 5 New Minecraft Servers That Are the Future of Minecraft](https://hackernoon.com/5-new-minecraft-servers-that-are-the-future-of-minecraft)
+### [87. 5 New Minecraft Servers That Are the Future of Minecraft](https://hackernoon.com/5-new-minecraft-servers-that-are-the-future-of-minecraft)
 ![](https://cdn.hackernoon.com/images/Y8YoC6d2AcYbHZikN7pv9mPJc0L2-ntd3mju.jpeg)
 These 5 new Minecraft servers innovate and expand on the decade old game, displaying what the future has in hold for it.
+
+### [88. Move Over Apple, There's a New Robber Baron in Town and it's Meta](https://hackernoon.com/move-over-apple-theres-a-new-robber-baron-in-town-and-its-meta)
+![](https://cdn.hackernoon.com/images/ERNPpaKVK4Q3gM1MG2JdydY6Z4K2-qfd3k7w.jpeg)
+Meta (formerly Facebook) plans to take a whopping 47.5% of sales made in their upcoming metaverse called Horizon Worlds. 
 
 ### [89. Andy Warhol Artwork to be Auctioned as an NFT](https://hackernoon.com/andy-warhol-artwork-to-be-auctioned-as-an-nft)
 ![](https://cdn.hackernoon.com/images/0XsbWVlYyHdaiLwksUzPidX1woq2-nx93iq2.jpeg)
@@ -364,21 +368,21 @@ Andy Warhol physical piece goes on sale as an NFT
 ![](https://cdn.hackernoon.com/images/TiLFLgXgukcx47bZac9fCGpJAE42-yhd3gnp.jpeg)
 What do I think about creating a world in virtual reality? I think it's amazing! What's the problem with that?
 
-### [91. An Intro to The Six Muskotiers: A Blockchain based RTS Mobile Game](https://hackernoon.com/an-intro-to-the-six-muskotiers-a-blockchain-based-rts-mobile-game)
-![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-7lb3i9g.jpeg)
-The Six Muskotiers, a free-to-play mobile game with blockchain-based elements, has launched its closed alpha release. 
-
-### [92. Meta: Horizon Worlds to Take 47.5% Cut of In-App Sales from Game Developers](https://hackernoon.com/meta-horizon-worlds-to-take-475percent-cut-of-in-app-sales-from-game-developers)
+### [91. Meta: Horizon Worlds to Take 47.5% Cut of In-App Sales from Game Developers](https://hackernoon.com/meta-horizon-worlds-to-take-475percent-cut-of-in-app-sales-from-game-developers)
 ![](https://cdn.hackernoon.com/images/4BVC2biGWDbQEFuFP8WgvOJHpaz1-wk93vlg.jpeg)
 Meta aka Facebook's new VR game Horizon Worlds is charging up to 47.5% fee on in-app sales for developers — and the decentralized internet is talking about it.
 
-### [93. Utility Driven NFTs & Their Real-World Applications](https://hackernoon.com/utility-driven-nfts-and-their-real-world-applications)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-h593liv.jpeg)
-Michael Beeple Winkleman walked into the auction house at Christie’s in 2021 selling an item without precedent. One picture, comprised of 5000 other pictures, all digital. He walked out with almost $70 million in his pocket. 
+### [92. An Intro to The Six Muskotiers: A Blockchain based RTS Mobile Game](https://hackernoon.com/an-intro-to-the-six-muskotiers-a-blockchain-based-rts-mobile-game)
+![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-7lb3i9g.jpeg)
+The Six Muskotiers, a free-to-play mobile game with blockchain-based elements, has launched its closed alpha release. 
 
-### [94. Tell Us About Your Gaming Experiences [Gaming Writing Prompt]](https://hackernoon.com/tell-us-about-your-gaming-experiences-gaming-writing-prompt)
+### [93. Tell Us About Your Gaming Experiences [Gaming Writing Prompt]](https://hackernoon.com/tell-us-about-your-gaming-experiences-gaming-writing-prompt)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-poa3xzw.jpeg)
 
+
+### [94. Utility Driven NFTs & Their Real-World Applications](https://hackernoon.com/utility-driven-nfts-and-their-real-world-applications)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-h593liv.jpeg)
+Michael Beeple Winkleman walked into the auction house at Christie’s in 2021 selling an item without precedent. One picture, comprised of 5000 other pictures, all digital. He walked out with almost $70 million in his pocket. 
 
 ### [95. Why GameFi Will Be Bigger Than Just Play-to-earn Gaming](https://hackernoon.com/why-gamefi-will-be-bigger-than-just-play-to-earn-gaming)
 ![](https://cdn.hackernoon.com/images/ld2Gzu8fZUYS07eVJpUwClu5WD52-6va32fl.jpeg)
@@ -404,25 +408,25 @@ The Future of Gaming is complex. Here are my thoughts.
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-gj93nwq.jpeg)
 There are plenty of upcoming Xbox games to look forward to. Some of these include High on Life and The Last Case of Benedict Fox.
 
-### [101. The Most Important Thing in GameFi is to Create Good Tokenomics](https://hackernoon.com/the-most-important-thing-in-gamefi-is-to-create-good-tokenomics)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-d093k4k.jpeg)
-Juanjo Chust is CEO of Arker Labs, a company founded in 2018 which has been developing all kinds of applications. 
+### [101. Let's Talk About Sumire: Indie Game Storytelling at its Finest](https://hackernoon.com/lets-talk-about-sumire-indie-game-storytelling-at-its-finest)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-x393l6p.png)
+The premise of Sumire is beautifully simple: you have one day to change your life. 
 
 ### [102. Making P2E Gaming Guilds More Fair for Gamers: Problems and Solutions](https://hackernoon.com/making-p2e-gaming-guilds-more-fair-for-gamers-problems-and-solutions)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-y393k86.jpeg)
 Play-to-earn gaming guilds could be more beneficial to players by lowering the potential barrier to entry into the genre. Here are some problems and solutions.
 
-### [103. Let's Talk About Sumire: Indie Game Storytelling at its Finest](https://hackernoon.com/lets-talk-about-sumire-indie-game-storytelling-at-its-finest)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-x393l6p.png)
-The premise of Sumire is beautifully simple: you have one day to change your life. 
+### [103. The Most Important Thing in GameFi is to Create Good Tokenomics](https://hackernoon.com/the-most-important-thing-in-gamefi-is-to-create-good-tokenomics)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-d093k4k.jpeg)
+Juanjo Chust is CEO of Arker Labs, a company founded in 2018 which has been developing all kinds of applications. 
 
-### [104. The Rise of Crypto Gaming Guilds in Africa](https://hackernoon.com/the-rise-of-crypto-gaming-guilds-in-africa)
-![](https://cdn.hackernoon.com/images/E5pzMBNmQ9SBU6qVMYl6X48inok2-t093ma5.jpeg)
-Let's ask the deep questions and explore the why, how and what behind the rise of crypto gaming guilds in Africa.
-
-### [105. 3 Interesting NFT Statistics: How NFTs are Being Adopted Globally](https://hackernoon.com/3-interesting-nft-statistics-how-nfts-are-being-adopted-globally)
+### [104. 3 Interesting NFT Statistics: How NFTs are Being Adopted Globally](https://hackernoon.com/3-interesting-nft-statistics-how-nfts-are-being-adopted-globally)
 ![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-2vd3ig3.jpeg)
 NFT ownership has increased throughout the globe, with Southeast Asian nations such as the Philippines, Thailand, and Malaysia leading the pack.
+
+### [105. The Rise of Crypto Gaming Guilds in Africa](https://hackernoon.com/the-rise-of-crypto-gaming-guilds-in-africa)
+![](https://cdn.hackernoon.com/images/E5pzMBNmQ9SBU6qVMYl6X48inok2-t093ma5.jpeg)
+Let's ask the deep questions and explore the why, how and what behind the rise of crypto gaming guilds in Africa.
 
 ### [106. Metaverse: The Troll's Playground](https://hackernoon.com/metaverse-the-trolls-playground)
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-i393jcv.jpeg)
@@ -436,13 +440,13 @@ Turns out money is a key player.
 ![](https://cdn.hackernoon.com/images/H2bQ0VxqVDYspCvef2FVf9lTip73-nd93o2n.jpeg)
 Looking for top NFT game development companies? Here they are. Just take a look at their experience and case studies in play 2 earn game development direction. 
 
-### [109. How to Gamify NFTs for Better Profits in Various Retail Industries](https://hackernoon.com/how-to-gamify-nfts-for-better-profits-in-various-retail-industries)
-![](https://cdn.hackernoon.com/images/BisCnIB3YOdcPLsUSjQOYAcWAna2-oo93kzi.jpeg)
-Let’s analyze how businesses interested in embracing NFTs need to also look at adding gamification to foster engagement.
-
-### [110. Splinterlands to Provide Validator Nodes with $1 Billion in Rewards](https://hackernoon.com/splinterlands-to-provide-validator-nodes-with-$1-billion-in-rewards)
+### [109. Splinterlands to Provide Validator Nodes with $1 Billion in Rewards](https://hackernoon.com/splinterlands-to-provide-validator-nodes-with-$1-billion-in-rewards)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-u493qxy.jpeg)
 Splinterlands is among the most prominent play-to-earn (P2E) games that are scheduled to transition to Splintershards (SPS) validator nodes.
+
+### [110. How to Gamify NFTs for Better Profits in Various Retail Industries](https://hackernoon.com/how-to-gamify-nfts-for-better-profits-in-various-retail-industries)
+![](https://cdn.hackernoon.com/images/BisCnIB3YOdcPLsUSjQOYAcWAna2-oo93kzi.jpeg)
+Let’s analyze how businesses interested in embracing NFTs need to also look at adding gamification to foster engagement.
 
 ### [111. Play2Earn Games Explained + 4 P2E Gaming Companies to Follow in 2022](https://hackernoon.com/play2earn-games-explained-4-p2e-gaming-companies-to-follow-in-2022)
 ![](https://cdn.hackernoon.com/images/oCyQIVJAJmc4P3Id6USm7G9OUZ53-8f93ok9.jpeg)
@@ -452,62 +456,62 @@ Over the past few years, the play to earn game model has taken the world by stor
 ![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-ej93o3v.jpeg)
 In this post, we'll take a look at five blockchain games that are primarily concerned with gameplay.
 
-### [113. GameFi and The Need for a Dedicated Stablecoin](https://hackernoon.com/gamefi-and-the-need-for-a-dedicated-stablecoin)
-![](https://cdn.hackernoon.com/images/E5pzMBNmQ9SBU6qVMYl6X48inok2-2093kev.jpeg)
-The stablecoin for play-to-earn game economies in Web3 (the Metaverse) to avoid the problem of hyperinflation.
+### [113. The Sandbox Announces New Snoop Dog Video Clip at the Non-Fungible Conference](https://hackernoon.com/the-sandbox-announces-new-snoop-dog-video-clip-at-the-non-fungible-conference)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-13c3mgw.jpeg)
+The Sandbox COO, Sebastien Borget, held a press conference at the Non-Fungible Conference in Lisbon, where he introduced the latest Sandbox releases.
 
 ### [114. MultiVersus Roster, Gameplay, and Release Info: Everything You Need to Know](https://hackernoon.com/multiversus-roster-gameplay-and-release-info-everything-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-yl93ks3.jpeg)
 No, this isn't a fever dream. Shaggy and Batman are really teaming up to fight together. That's how wacky the MultiVersus roster is, and we can't wait for more.
 
-### [115. The Sandbox Announces New Snoop Dog Video Clip at the Non-Fungible Conference](https://hackernoon.com/the-sandbox-announces-new-snoop-dog-video-clip-at-the-non-fungible-conference)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-13c3mgw.jpeg)
-The Sandbox COO, Sebastien Borget, held a press conference at the Non-Fungible Conference in Lisbon, where he introduced the latest Sandbox releases.
+### [115. GameFi and The Need for a Dedicated Stablecoin](https://hackernoon.com/gamefi-and-the-need-for-a-dedicated-stablecoin)
+![](https://cdn.hackernoon.com/images/E5pzMBNmQ9SBU6qVMYl6X48inok2-2093kev.jpeg)
+The stablecoin for play-to-earn game economies in Web3 (the Metaverse) to avoid the problem of hyperinflation.
 
 ### [116. Rome Wasn’t Built In a Day and Neither are AAA Web3 Games](https://hackernoon.com/rome-wasnt-built-in-a-day-and-neither-are-aaa-web3-games)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-eb93kgs.jpeg)
 The promise of new, blockchain-based Web3 games has existed for years and it's time to see what's available. Though they aren't playable, these three look good.
 
-### [117. 5 Criteria to Take Into Account When Creating a Web3 Game](https://hackernoon.com/5-criteria-to-take-into-account-when-creating-a-web3-game)
+### [117. P2E Public Relations Checklist for a Successful Campaign](https://hackernoon.com/p2e-public-relations-checklist-for-a-successful-campaign)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-b593k8w.jpeg)
+Play-to-earn (P2E) is currently one of the hottest niches in the cryptocurrency and blockchain industry. In the last two years, the emergence of P2E games such 
+
+### [118. 5 Criteria to Take Into Account When Creating a Web3 Game](https://hackernoon.com/5-criteria-to-take-into-account-when-creating-a-web3-game)
 ![](https://cdn.hackernoon.com/images/iE8ARQ7wzeSlkzDpAHRWz5TQH672-ywa3tfe.jpeg)
 For all the excitement around web3 gaming, this new paradigm can be hard to navigate.
 Here are the five pillars studios can build on to transition to web3.
 
-### [118. Is BoTW Link the Richest Link of All?](https://hackernoon.com/is-botw-link-the-richest-link-of-all)
+### [119. Is BoTW Link the Richest Link of All?](https://hackernoon.com/is-botw-link-the-richest-link-of-all)
 ![](https://cdn.hackernoon.com/images/G6OScDcbO2V5YjMMDu4VMossUhU2-rtb3ipi.jpeg)
 Is the Link from Legend of Zelda: Breath of the Wild (BoTW) the richest Link of all? The answer, delving into economics, is unsurprisingly complicated.
 
-### [119. P2E Public Relations Checklist for a Successful Campaign](https://hackernoon.com/p2e-public-relations-checklist-for-a-successful-campaign)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-b593k8w.jpeg)
-Play-to-earn (P2E) is currently one of the hottest niches in the cryptocurrency and blockchain industry. In the last two years, the emergence of P2E games such 
-
-### [120. Getting Involved in The Metaverse](https://hackernoon.com/getting-involved-in-the-metaverse)
-![](https://cdn.hackernoon.com/images/oOAIYVH2JeWnKukF7SdhtTPUfTl1-c493lns.jpeg)
-Getting involved in the metaverse, from corporations to creators. 
-
-### [121. How to Fund the Metaverse](https://hackernoon.com/how-to-fund-the-metaverse)
+### [120. How to Fund the Metaverse](https://hackernoon.com/how-to-fund-the-metaverse)
 ![](https://cdn.hackernoon.com/images/wyLN3yhwtVaMAIlYJR1nlsHsErN2-wra3mri.jpeg)
 Jonathan Pullinger is the token marketing manager at Outlier Ventures with vast experience in NFTs and blockchain-related technologies. We interviewed gin.
 
-### [122. NFT and Offline Businesses](https://hackernoon.com/nft-and-offline-businesses)
-![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-b693f6l.jpeg)
-Today offline businesses can use NFT tokens to increase revenue. NFTs are a powerful tool for attracting crypto enthusiasts. Read to know how to use NFTs.
+### [121. Getting Involved in The Metaverse](https://hackernoon.com/getting-involved-in-the-metaverse)
+![](https://cdn.hackernoon.com/images/oOAIYVH2JeWnKukF7SdhtTPUfTl1-c493lns.jpeg)
+Getting involved in the metaverse, from corporations to creators. 
 
-### [123. Marketing in GameFi DAOs: Building the Future Day by Day](https://hackernoon.com/marketing-in-gamefi-daos-building-the-future-day-by-day)
+### [122. Marketing in GameFi DAOs: Building the Future Day by Day](https://hackernoon.com/marketing-in-gamefi-daos-building-the-future-day-by-day)
 ![](https://cdn.hackernoon.com/images/mpvlFBzLQoXDZpAWb8FHWtouaQk1-bei3jx5.jpeg)
 Web3 and GameFi are a jungle to promote your brand in. Where should you focus your marketing efforts to build the future of gaming in 2022? And how to navigate 
 
-### [124. Will China's Metaverse Alone be Worth $8 Trillion?](https://hackernoon.com/the-estimated-$8-trillion-metaverse-in-china)
-![](https://cdn.hackernoon.com/images/wyLN3yhwtVaMAIlYJR1nlsHsErN2-rb93lhi.jpeg)
-The US based investment firm Morgan Stanley has estimated that the Metaverse might be worth about $8 Trillion in China in a note to investors published today
+### [123. NFT and Offline Businesses](https://hackernoon.com/nft-and-offline-businesses)
+![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-b693f6l.jpeg)
+Today offline businesses can use NFT tokens to increase revenue. NFTs are a powerful tool for attracting crypto enthusiasts. Read to know how to use NFTs.
 
-### [125. Why You Shouldn't Quit Your Job to Make Money Playing Games](https://hackernoon.com/why-you-shouldnt-quit-your-job-to-make-money-playing-games)
+### [124. Why You Shouldn't Quit Your Job to Make Money Playing Games](https://hackernoon.com/why-you-shouldnt-quit-your-job-to-make-money-playing-games)
 ![](https://cdn.hackernoon.com/images/2C0HEdrhFiM22pMboeFLzZvJLDe2-c6b3i4p.jpeg)
 The what, why and when of playing to earn games.
 
-### [126. F1 Delta Time: The Value Of A Brand](https://hackernoon.com/f1-delta-time-the-value-of-a-brand)
+### [125. F1 Delta Time: The Value Of A Brand](https://hackernoon.com/f1-delta-time-the-value-of-a-brand)
 ![](https://cdn.hackernoon.com/images/ZpKCXr0BS1XjV7f1ttPAKsttStl2-sba3k79.jpeg)
 The crypto game F1 Delta Time was a major PR disaster, but was it really that bad? Basic game analytics show that its developers still achieved their goals.
+
+### [126. Will China's Metaverse Alone be Worth $8 Trillion?](https://hackernoon.com/the-estimated-$8-trillion-metaverse-in-china)
+![](https://cdn.hackernoon.com/images/wyLN3yhwtVaMAIlYJR1nlsHsErN2-rb93lhi.jpeg)
+The US based investment firm Morgan Stanley has estimated that the Metaverse might be worth about $8 Trillion in China in a note to investors published today
 
 ### [127. Creating a Low-Poly FPS Game to Showcase Our NFT Collection](https://hackernoon.com/creating-a-low-poly-fps-game-to-showcase-our-nft-collection)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-4z93kje.jpeg)
@@ -549,25 +553,25 @@ Gaming is one of those unique things in this world that connect us all together 
 ![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-n6c3jyg.jpeg)
 To state the obvious, GameFi is one of the most appealing sectors for newbie users within the crypto space. It successfully attracts users who are not into the complex technological solutions of DeFi projects. Secondly, GameFi has given retail investors more opportunities to enter the market.
 
-### [137. The Future of Gaming Writing Contest: May Results Announced!](https://hackernoon.com/the-future-of-gaming-writing-contest-may-results-announced)
-![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-6jf3zpc.jpeg)
-Hey Gamers! The May results for the #future-of-gaming contest by MegaFans are out! 
-
-### [138. The Evolution of P2E Games](https://hackernoon.com/the-evolution-of-p2e-games)
+### [137. The Evolution of P2E Games](https://hackernoon.com/the-evolution-of-p2e-games)
 ![](https://cdn.hackernoon.com/images/9ASR4WP1zmbxEMkQS3PmQMGj9Nr1-0wb3iht.jpeg)
 The article provides an overview of the current state of the play-to-earn gaming market, as well as an analysis of a blockchain gaming industry.
+
+### [138. The Future of Gaming Writing Contest: May Results Announced!](https://hackernoon.com/the-future-of-gaming-writing-contest-may-results-announced)
+![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-6jf3zpc.jpeg)
+Hey Gamers! The May results for the #future-of-gaming contest by MegaFans are out! 
 
 ### [139. Finding The Next Blue Chip Crypto Project-Taroverse](https://hackernoon.com/finding-the-next-blue-chip-crypto-project-taroverse)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-8a93kmt.png)
 Bear markets suck. But they also present the best investment opportunities. In this article, I use Taroverse as an example of how to research crypto projects.
 
-### [140. The Best Features of Blockchain will be Realized in the Gaming Industry](https://hackernoon.com/the-best-features-of-blockchain-will-be-realized-in-the-gaming-industry)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-nm93jp0.jpeg)
-The Last Country is the first blockchain-based game in the MetaPlan series and a construction and management simulation (“CMS”) game set in a post-apocalyptic w
-
-### [141. Bullieverse: Building a Metaverse Beyond Gaming](https://hackernoon.com/bullieverse-building-a-metaverse-beyond-gaming)
+### [140. Bullieverse: Building a Metaverse Beyond Gaming](https://hackernoon.com/bullieverse-building-a-metaverse-beyond-gaming)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-d2c3lgy.jpeg)
 During the Non-fungible Conference, Hackernoon got an exclusive interview with Arunkumar Krishnakumar, who shared insights on his new project, Bullieverse.
+
+### [141. The Best Features of Blockchain will be Realized in the Gaming Industry](https://hackernoon.com/the-best-features-of-blockchain-will-be-realized-in-the-gaming-industry)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-nm93jp0.jpeg)
+The Last Country is the first blockchain-based game in the MetaPlan series and a construction and management simulation (“CMS”) game set in a post-apocalyptic w
 
 ### [142. Why NFT Gaming Shouldn't Shy Away from Digital Asset Regulation](https://hackernoon.com/why-nft-gaming-shouldnt-shy-away-from-digital-asset-regulation)
 ![](https://cdn.hackernoon.com/images/JwmstrvE0ReIdu5QIWfQUm68TTE2-60a3k7b.jpeg)
@@ -577,33 +581,33 @@ Like it or not, blockchain gaming may have to welcome if not insist on regulatio
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-8n93kd3.jpeg)
 Esports has been a global entertainment and technology phenomenon. The rate of its growth has seen it expand into several areas of businesses.
 
-### [144. The NFT Paradigm Shift Toward Metaverse and Gaming in 2022](https://hackernoon.com/the-nft-paradigm-shift-toward-metaverse-and-gaming-in-2022)
-![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-4uf3jlh.jpeg)
-These days, it seems the entire world  is talking about non-fungible tokens. The first non-fungible tokens, CryptoKitties, clogged the Ethereum blockchain in 2017 when they were launched, due to the overwhelming demand from people who wanted to collect, breed, sell, buy, and exchange those virtual cats.
+### [144. Why Augmented Reality Could Be the Portal to the Metaverse](https://hackernoon.com/why-augmented-reality-could-be-the-portal-to-the-metaverse)
+![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-r892obf.jpeg)
+The Metaverse tends to ebb and flow between absurdity and hype. It's getting a lot of attention since it's seen as the next step in the internets development.
 
 ### [145. Will There be a Nintendo Switch VR Headset?](https://hackernoon.com/will-there-be-a-nintendo-switch-vr-headset)
 ![](https://cdn.hackernoon.com/images/wyLN3yhwtVaMAIlYJR1nlsHsErN2-l293lf5.jpeg)
 What are the chances of Nintendo releasing a Switch VR headset? To answer this question, we need to take a look back into Nintendo's history with VR technology.
 
-### [146. Why Augmented Reality Could Be the Portal to the Metaverse](https://hackernoon.com/why-augmented-reality-could-be-the-portal-to-the-metaverse)
-![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-r892obf.jpeg)
-The Metaverse tends to ebb and flow between absurdity and hype. It's getting a lot of attention since it's seen as the next step in the internets development.
+### [146. The NFT Paradigm Shift Toward Metaverse and Gaming in 2022](https://hackernoon.com/the-nft-paradigm-shift-toward-metaverse-and-gaming-in-2022)
+![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-4uf3jlh.jpeg)
+These days, it seems the entire world  is talking about non-fungible tokens. The first non-fungible tokens, CryptoKitties, clogged the Ethereum blockchain in 2017 when they were launched, due to the overwhelming demand from people who wanted to collect, breed, sell, buy, and exchange those virtual cats.
 
 ### [147. Welcome to Utopia: The New Decentralized and Free Internet 2.0 ](https://hackernoon.com/welcome-to-utopia-the-new-decentralized-and-free-internet-20)
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-0k93f8g.jpeg)
 What is Utopia? This is a project that uses blockchain technology to create a better concept of protecting everyone's privacy. The team creates free Web 2.0.
 
-### [148. 5 Best Brain Games for Kids on Android in 2022](https://hackernoon.com/5-best-brain-games-for-kids-on-android-in-2022)
+### [148. An Intro to GameFi: Gaming Meets Decentralized Finance](https://hackernoon.com/an-intro-to-gamefi-gaming-meets-decentralized-finance)
+![](https://cdn.hackernoon.com/images/Ch3H1Ff9YuPIwKdJgGfLJ6Pl26q2-q393ls6.jpeg)
+GameFi concept (derived from ‘DeFi’ (decentralized finances) and ‘game’) was introduced in September 2020 by Andre Cronje, Yearn.Finance core contributors and ‘Father of DeFi’. But is GameFi the next big thing?
+
+### [149. 5 Best Brain Games for Kids on Android in 2022](https://hackernoon.com/5-best-brain-games-for-kids-on-android-in-2022)
 ![](https://cdn.hackernoon.com/images/oULr1XCvAVPJ4X1Y3nOmB0QYH3B3-a993k77.jpeg)
 Best Brain Games for Kids: It would be right to say that kids nowadays are glued to their smartphones, engaging with a lot of different games and content. Howev
 
-### [149. An Overview of Time Raiders: A Play-to-Earn Treasure Hunting Game ](https://hackernoon.com/an-overview-of-time-raiders-a-play-to-earn-treasure-hunting-game)
+### [150. An Overview of Time Raiders: A Play-to-Earn Treasure Hunting Game ](https://hackernoon.com/an-overview-of-time-raiders-a-play-to-earn-treasure-hunting-game)
 ![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-3wg3i6v.jpeg)
 Time Raiders, built on the Polygon blockchain, is a fast-paced, shoot-and-loot game with prizes in NFTs.
-
-### [150. An Intro to GameFi: Gaming Meets Decentralized Finance](https://hackernoon.com/an-intro-to-gamefi-gaming-meets-decentralized-finance)
-![](https://cdn.hackernoon.com/images/Ch3H1Ff9YuPIwKdJgGfLJ6Pl26q2-q393ls6.jpeg)
-GameFi concept (derived from ‘DeFi’ (decentralized finances) and ‘game’) was introduced in September 2020 by Andre Cronje, Yearn.Finance core contributors and ‘Father of DeFi’. But is GameFi the next big thing?
 
 ### [151. GameFi Review: Top 5 New Games with NFTs in 2022](https://hackernoon.com/gamefi-review-top-5-new-games-with-nfts-in-2022)
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-o2j3ftx.jpeg)
@@ -613,49 +617,49 @@ Are you looking for new crypto games? Here I gathered the top 5 games with NFT f
 ![](https://cdn.hackernoon.com/images/nxtWKMHuO1UKGUbmzmzTuQsBx4H2-d6i3oyg.jpeg)
 Did You know that with a simple plugin You can transform any game in a blockchain game?
 
-### [153. SuperWorld Offers the Virtual Real Estate of the Future Through NFTs](https://hackernoon.com/superworld-offers-the-virtual-real-estate-of-the-future-through-nfts)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ju93lqp.jpeg)
-Hrish Lotlikar is the CEO and Founder of SuperWorld, he discusses all things virtual real estate and NFTs  with the Metaverse Insider
-
-### [154. Why is the Play-to-Earn & NFT Gaming Industry Growing So Fast?](https://hackernoon.com/why-is-the-play-to-earn-and-nft-gaming-industry-growing-so-fast)
-![](https://cdn.hackernoon.com/images/wfm0qi0hmxcUYRnXg9j6NlR61V82-edd3i99.jpeg)
-Play-to-Earn gaming is growing massively in popularity but why?
-
-### [155. An Intro to Spells of Genesis: Trading Card Game with Pinball-Style Battles](https://hackernoon.com/an-intro-to-spells-of-genesis-trading-card-game-with-pinball-style-battles)
-![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-lg93isc.jpeg)
-Blockchain gaming has grown in popularity over the past two years and blockchain technology has opened up new gameplay elements for players.
-
-### [156. The NFT Sector’s Impact on Influencers](https://hackernoon.com/the-nft-sectors-impact-on-influencers)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-2x93jfv.jpeg)
-The last two years have brought massive trends to the cryptocurrency industry, starting with DeFi, to NFTs and metaverse, which exploded in late 2021 and continued to be a hot topic in 2022. Despite the rapid growth of the industry, many celebrities underestimate its advantages, paying attention only to the hype around NFTs and metaverse.
-
-### [157. The Future of Gaming Writing Contest 2022: Round 3 Results Announced!](https://hackernoon.com/the-future-of-gaming-writing-contest-2022-round-3-results-announced)
-![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-jjg3zot.jpeg)
-Hey, Gamers! The glorious #future-of-gaming contest by MegaFans has come to an end, and here we are with the third and final announcement of the winners! 
-
-### [158. Moonscape Patch Updates #1, April 2022](https://hackernoon.com/moonscape-patch-updates-1-april-2022)
-![](https://cdn.hackernoon.com/images/367qdTkBBQfNHCfrpAH19SHaJP33-qs93mai.jpeg)
-The Moonscape development team has been collecting all the data and feedback and bringing us the new updates!
-
-### [159. Top 7 Play-to-Earn Games and  3 Top Gaming Marketing Agencies](https://hackernoon.com/top-7-play-to-earn-games-and-3-top-gaming-marketing-agencies)
-![](https://cdn.hackernoon.com/images/HMrgtTRJt8c7wkQR32hEXyypuOL2-vai4x0q.jpeg)
-The gaming industry has had a revolutionary change in terms of Blockchain technology involvement which in turn has provided lots of benefits.
-
-### [160. Will the Real Blockchain Gaming Please Stand Up? ](https://hackernoon.com/will-the-real-blockchain-gaming-please-stand-up)
-![](https://cdn.hackernoon.com/images/JwmstrvE0ReIdu5QIWfQUm68TTE2-dcc3kco.jpeg)
-Blockchain games began by being defined by their underlying technology, but today is defined by hype and trends. Is there a "real" blockchain game out there?
-
-### [161. A Japanese Startup has Figured Out How to Feel Real Pain in VR](https://hackernoon.com/a-japanese-startup-has-figured-out-how-to-feel-real-pain-in-vr)
+### [153. A Japanese Startup has Figured Out How to Feel Real Pain in VR](https://hackernoon.com/a-japanese-startup-has-figured-out-how-to-feel-real-pain-in-vr)
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-dc93fbk.jpeg)
 How to feel pain in metauniverse? H2L, a Japanese startup, has invented a special armband product. With it, you can feel different types of pain playing in VR.
 
-### [162. The Metaverse is Older and Newer Than You Think](https://hackernoon.com/the-metaverse-is-older-and-newer-than-you-think)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-y093lkt.jpeg)
-We have observed so much excitement in imagining the future that we didn't realize we can gather information from the past.
+### [154. An Intro to Spells of Genesis: Trading Card Game with Pinball-Style Battles](https://hackernoon.com/an-intro-to-spells-of-genesis-trading-card-game-with-pinball-style-battles)
+![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-lg93isc.jpeg)
+Blockchain gaming has grown in popularity over the past two years and blockchain technology has opened up new gameplay elements for players.
 
-### [163. NEW Gaming and Debugging Contests Announced With Awesome Cash Prizes](https://hackernoon.com/new-gaming-and-debugging-contests-announced-with-awesome-cash-prizes)
+### [155. The NFT Sector’s Impact on Influencers](https://hackernoon.com/the-nft-sectors-impact-on-influencers)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-2x93jfv.jpeg)
+The last two years have brought massive trends to the cryptocurrency industry, starting with DeFi, to NFTs and metaverse, which exploded in late 2021 and continued to be a hot topic in 2022. Despite the rapid growth of the industry, many celebrities underestimate its advantages, paying attention only to the hype around NFTs and metaverse.
+
+### [156. SuperWorld Offers the Virtual Real Estate of the Future Through NFTs](https://hackernoon.com/superworld-offers-the-virtual-real-estate-of-the-future-through-nfts)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ju93lqp.jpeg)
+Hrish Lotlikar is the CEO and Founder of SuperWorld, he discusses all things virtual real estate and NFTs  with the Metaverse Insider
+
+### [157. Why is the Play-to-Earn & NFT Gaming Industry Growing So Fast?](https://hackernoon.com/why-is-the-play-to-earn-and-nft-gaming-industry-growing-so-fast)
+![](https://cdn.hackernoon.com/images/wfm0qi0hmxcUYRnXg9j6NlR61V82-edd3i99.jpeg)
+Play-to-Earn gaming is growing massively in popularity but why?
+
+### [158. Top 7 Play-to-Earn Games and  3 Top Gaming Marketing Agencies](https://hackernoon.com/top-7-play-to-earn-games-and-3-top-gaming-marketing-agencies)
+![](https://cdn.hackernoon.com/images/HMrgtTRJt8c7wkQR32hEXyypuOL2-vai4x0q.jpeg)
+The gaming industry has had a revolutionary change in terms of Blockchain technology involvement which in turn has provided lots of benefits.
+
+### [159. Moonscape Patch Updates #1, April 2022](https://hackernoon.com/moonscape-patch-updates-1-april-2022)
+![](https://cdn.hackernoon.com/images/367qdTkBBQfNHCfrpAH19SHaJP33-qs93mai.jpeg)
+The Moonscape development team has been collecting all the data and feedback and bringing us the new updates!
+
+### [160. NEW Gaming and Debugging Contests Announced With Awesome Cash Prizes](https://hackernoon.com/new-gaming-and-debugging-contests-announced-with-awesome-cash-prizes)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-95a3v1q.jpeg)
 Check out these two NEW writing contests ON NOW!
+
+### [161. The Future of Gaming Writing Contest 2022: Round 3 Results Announced!](https://hackernoon.com/the-future-of-gaming-writing-contest-2022-round-3-results-announced)
+![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-jjg3zot.jpeg)
+Hey, Gamers! The glorious #future-of-gaming contest by MegaFans has come to an end, and here we are with the third and final announcement of the winners! 
+
+### [162. Will the Real Blockchain Gaming Please Stand Up? ](https://hackernoon.com/will-the-real-blockchain-gaming-please-stand-up)
+![](https://cdn.hackernoon.com/images/JwmstrvE0ReIdu5QIWfQUm68TTE2-dcc3kco.jpeg)
+Blockchain games began by being defined by their underlying technology, but today is defined by hype and trends. Is there a "real" blockchain game out there?
+
+### [163. The Metaverse is Older and Newer Than You Think](https://hackernoon.com/the-metaverse-is-older-and-newer-than-you-think)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-y093lkt.jpeg)
+We have observed so much excitement in imagining the future that we didn't realize we can gather information from the past.
 
 ### [164. Develop XR with Oracle Ep 3: Computer Vision AI, ML, and the Metaverse](https://hackernoon.com/develop-xr-with-oracle-ep-3-computer-vision-ai-ml-and-the-metaverse)
 ![](https://cdn.hackernoon.com/images/oFcXyPmJpqb3FOyA7YV2WMjGWmq2-snd3k37.jpeg)
@@ -681,33 +685,33 @@ The Saints Row games are infamous for a lot of things, not least of which is the
 ![](https://cdn.hackernoon.com/images/gJkVSmTdCngVo2UQCesq1hFrDqg1-wpa3zo3.jpeg)
 Best Practices for Designing UI/UX of Augmented Reality Applications
 
-### [170. Meet the Writer: Bakir Djulich, Marketing Manager and Gaming Specialist](https://hackernoon.com/meet-the-writer-bakir-djulich-marketing-manager-and-gaming-specialist)
-![](https://cdn.hackernoon.com/images/ty6YLHMMZQOgxrIZtfMCWvdqK9y1-dga3kzw.jpeg)
-Bakir Djulich is a marketing manager, a gaming specialist, and a HackerNoon writer. Find out more about him here!
-
-### [171. Is it Possible to Unite The World In Virtual Reality?](https://hackernoon.com/is-it-possible-to-unite-the-world-in-virtual-reality)
-![](https://cdn.hackernoon.com/images/8wlyTs6rS1Ns9rTwC8LtCyE03B52-my93zjo.png)
-Check this interview to dive into the latest VR and Metaverse trends and understand how these technologies disrupt our world.
-
-### [172. Gaming as a Socially Acceptable Career](https://hackernoon.com/gaming-as-a-socially-acceptable-career)
+### [170. Gaming as a Socially Acceptable Career](https://hackernoon.com/gaming-as-a-socially-acceptable-career)
 ![](https://cdn.hackernoon.com/images/AmUaywGH0WNIW3Knrlaq5Jc4tvW2-9e93obz.jpeg)
 The gaming industry keeps evolving. Now, you can also make a career in gaming and earn a lot of money in this industry. Yes, it is possible.
 
-### [173. The Future of Subscription-based Gaming](https://hackernoon.com/the-future-of-subscription-based-gaming)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-ij93hir.jpeg)
-To predict the future, we must look to the past. A brief look at the history of subscription-based access shows that Microsoft was an early adopter.
+### [171. Meet the Writer: Bakir Djulich, Marketing Manager and Gaming Specialist](https://hackernoon.com/meet-the-writer-bakir-djulich-marketing-manager-and-gaming-specialist)
+![](https://cdn.hackernoon.com/images/ty6YLHMMZQOgxrIZtfMCWvdqK9y1-dga3kzw.jpeg)
+Bakir Djulich is a marketing manager, a gaming specialist, and a HackerNoon writer. Find out more about him here!
+
+### [172. Is it Possible to Unite The World In Virtual Reality?](https://hackernoon.com/is-it-possible-to-unite-the-world-in-virtual-reality)
+![](https://cdn.hackernoon.com/images/8wlyTs6rS1Ns9rTwC8LtCyE03B52-my93zjo.png)
+Check this interview to dive into the latest VR and Metaverse trends and understand how these technologies disrupt our world.
+
+### [173. 5 NFT-Based Marketplaces to Follow in 2022](https://hackernoon.com/5-nft-based-marketplaces-to-follow-in-2022)
+![](https://cdn.hackernoon.com/images/4FnNVQr5WaVz9Pb3rjDALHRb4XA2-fc9308w.jpeg)
+NFTs are reshaping the relationship between artists and their followers. It's possible to own music, video, and other digital assets by purchasing an NFT. 
 
 ### [174. This NFT Collection Features Funny AF Classic Joe Rogan Film Footage](https://hackernoon.com/this-nft-collection-features-funny-af-classic-joe-rogan-film-footage)
 ![](https://cdn.hackernoon.com/images/a8GPM8MbBHYEXJWZxihkV0OMNj22-b3a3mpy.jpeg)
 Rogan Enters the Metaverse? New NFT Collection “Vintage Rogan” Collection Features Funny AF Joe Rogan Film Footage, Now Available on OpenSea 
 
-### [175. 5 NFT-Based Marketplaces to Follow in 2022](https://hackernoon.com/5-nft-based-marketplaces-to-follow-in-2022)
-![](https://cdn.hackernoon.com/images/4FnNVQr5WaVz9Pb3rjDALHRb4XA2-fc9308w.jpeg)
-NFTs are reshaping the relationship between artists and their followers. It's possible to own music, video, and other digital assets by purchasing an NFT. 
+### [175. The Future of Subscription-based Gaming](https://hackernoon.com/the-future-of-subscription-based-gaming)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-ij93hir.jpeg)
+To predict the future, we must look to the past. A brief look at the history of subscription-based access shows that Microsoft was an early adopter.
 
-### [176. Top 4 IGO Launchpads for 2022: Is GameFi the Future?](https://hackernoon.com/top-4-igo-launchpads-for-2022-is-gamefi-the-future)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-rq93jwd.jpeg)
- To add to the ever-growing list of progressions within the crypto world, IGO launchpads are helping accelerate the growth of the GameFi industry by investing.
+### [176. Lego Star Wars: The Skywalker Saga Review](https://hackernoon.com/lego-star-wars-the-skywalker-saga-review)
+![](https://cdn.hackernoon.com/images/0ND921QitCePbuLAJQgufmkRClY2-rhb3mmm.jpeg)
+There are few things in this galaxy as iconic as Lego and Star Wars. In one way or another, both influenced our childhood and now impact our kids and millions of adults around the world. Two separate universes, Lego and Star Wars, have provided us with some of the most amazing toys and experiences.
 
 ### [177. Diving into NFTs in the Publishing World with Amelia Tomasicchio](https://hackernoon.com/diving-into-nfts-in-the-publishing-world-with-amelia-tomasicchio)
 ![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-zfa3kl9.jpeg)
@@ -717,27 +721,27 @@ In this NFC interview, we spoke with Amelia Tomasicchio, the Co-Founder and Edit
 ![](https://cdn.hackernoon.com/images/JwmstrvE0ReIdu5QIWfQUm68TTE2-phb3kc3.jpeg)
 There's no need to pretend that investment in blockchain gaming is a risky gamble. But this is why I think it's a good bet
 
-### [179. Lego Star Wars: The Skywalker Saga Review](https://hackernoon.com/lego-star-wars-the-skywalker-saga-review)
-![](https://cdn.hackernoon.com/images/0ND921QitCePbuLAJQgufmkRClY2-rhb3mmm.jpeg)
-There are few things in this galaxy as iconic as Lego and Star Wars. In one way or another, both influenced our childhood and now impact our kids and millions of adults around the world. Two separate universes, Lego and Star Wars, have provided us with some of the most amazing toys and experiences.
+### [179. Top 4 IGO Launchpads for 2022: Is GameFi the Future?](https://hackernoon.com/top-4-igo-launchpads-for-2022-is-gamefi-the-future)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-rq93jwd.jpeg)
+ To add to the ever-growing list of progressions within the crypto world, IGO launchpads are helping accelerate the growth of the GameFi industry by investing.
 
-### [180. 181 Stories To Learn About Megafansesports](https://hackernoon.com/181-stories-to-learn-about-megafansesports)
-![](https://cdn.hackernoon.com/images/github/megafansesports-848.png)
-Learn everything you need to know about Megafansesports via these 181 free HackerNoon stories.
-
-### [181. Fall Guys' Free Fall: Is Mediatonic Resuscitating a 'Dead' Game?](https://hackernoon.com/fall-guys-free-fall-is-mediatonic-resuscitating-a-dead-game)
+### [180. Fall Guys' Free Fall: Is Mediatonic Resuscitating a 'Dead' Game?](https://hackernoon.com/fall-guys-free-fall-is-mediatonic-resuscitating-a-dead-game)
 ![](https://cdn.hackernoon.com/images/bWf7Y9sKoce7uN7b8MgFPMs2uXm1-1oa3jku.jpeg)
 Back in 2020, the highly competitive battle royales space was swamped with path-breaking games like Fortnite and Call of Duty: Warzone. These games cornered the majority of the market size and were really intense. Amidst all this, Fall Guys made its debut in the market as a game with a comic show setting.
+
+### [181. 181 Stories To Learn About Megafansesports](https://hackernoon.com/181-stories-to-learn-about-megafansesports)
+![](https://cdn.hackernoon.com/images/github/megafansesports-848.png)
+Learn everything you need to know about Megafansesports via these 181 free HackerNoon stories.
 
 ### [182. What is Megafans? - Diving into a New P2E Esports Platform](https://hackernoon.com/what-is-megafans-diving-into-a-new-p2e-esports-platform)
 ![](https://cdn.hackernoon.com/images/hvBf6yZOxyfCQQY9n6JLFtPhf952-9ue3pfj.jpeg)
 Megafans is a platform that offers mobile esports gaming, play to earn games, tournaments, and more.
 
-### [183. Gay Weddings for Russia: The Sims Edition](https://hackernoon.com/gay-weddings-for-russia-the-sims-edition)
-![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-qta3j3t.jpeg)
-In this slogging thread, our community discusses the gaming representation of marginalized communities and how games can bring awareness to such groups.
-
-### [184. How the War Initiated by the Russian Federation Against Ukraine Impacted Esports](https://hackernoon.com/how-the-war-initiated-by-the-russian-federation-against-ukraine-impacted-esports)
+### [183. How the War Initiated by the Russian Federation Against Ukraine Impacted Esports](https://hackernoon.com/how-the-war-initiated-by-the-russian-federation-against-ukraine-impacted-esports)
 ![](https://cdn.hackernoon.com/images/1wqQesHetpcM51RpWiJq8o9Gb7k1-7c93kd3.jpeg)
 Missed tournaments disrupted training sessions and the constant threat of shelling are integral elements of the new reality for Ukrainian esports players. 
+
+### [184. Gay Weddings for Russia: The Sims Edition](https://hackernoon.com/gay-weddings-for-russia-the-sims-edition)
+![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-qta3j3t.jpeg)
+In this slogging thread, our community discusses the gaming representation of marginalized communities and how games can bring awareness to such groups.
 

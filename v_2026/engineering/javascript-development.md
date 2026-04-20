@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [javascript-development](https://hackernoon.com/tagged/javascript-development)
+### Let's learn about [Javascript Development](https://hackernoon.com/tagged/javascript-development) via these 424 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Why was the JavaScript developer sad? Because he didn’t Node how to Express himself. 
 
 ### [1. How To Take Screenshots In The Browser Using JavaScript](https://hackernoon.com/how-to-take-screenshots-in-the-browser-using-javascript-l92k3xq7)
@@ -99,13 +101,13 @@ Universally Unique Identifiers (UUIDs) are used everywhere in software developme
 ![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-ktb3wzl.jpeg)
 In essence, React Router is a routing library designed for React-based web applications. Its main purpose is to facilitate navigation between components or view
 
-### [25. How to Publish a React Component as a Package to Npm](https://hackernoon.com/how-to-publish-a-react-component-as-a-package-to-npm)
-![](https://cdn.hackernoon.com/images/hPxuWwdsVdX5m8RoVpgA3hChIn42-j0m2u9u.jpeg)
-This is a step-by-step approach to publishing a react component as a package to the npm registry
-
-### [26. What’s the Difference Between path.join() and path.resolve()?](https://hackernoon.com/whats-the-difference-between-pathjoin-and-pathresolve)
+### [25. What’s the Difference Between path.join() and path.resolve()?](https://hackernoon.com/whats-the-difference-between-pathjoin-and-pathresolve)
 ![](https://cdn.hackernoon.com/images/RJQZvFU148YjNOndYa5BZPkZHvc2-zfa2kg1.png)
 Learn the differences between the Node.js functions path.join() and path.resolve() and when you should use one over the other.
+
+### [26. How to Publish a React Component as a Package to Npm](https://hackernoon.com/how-to-publish-a-react-component-as-a-package-to-npm)
+![](https://cdn.hackernoon.com/images/hPxuWwdsVdX5m8RoVpgA3hChIn42-j0m2u9u.jpeg)
+This is a step-by-step approach to publishing a react component as a package to the npm registry
 
 ### [27. Mastering Node.JS: How To Delete Files Inside A Nested Folder](https://hackernoon.com/mastering-nodejs-how-to-delete-files-inside-a-nested-folder)
 ![](https://cdn.hackernoon.com/images/77WjQmBCAIQ7dyhZ22Bkui5QTrb2-j993uac.jpeg)
@@ -176,17 +178,17 @@ Console statements create performance or security issues if you mishandle them. 
 ![](https://cdn.hackernoon.com/images/owd02ed6.jpg)
 In this article I will be explaining how to write a simple express server that is of Production Grade.
 
-### [44. Modern Style of Javascript with Arrow Functions](https://hackernoon.com/modern-style-of-javascript-with-arrow-functions-lg1x3474)
-![](https://images.unsplash.com/photo-1527427337751-fdca2f128ce5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-The complete explanation of Arrow functions in Javascript, and how it helps developers to write flexible and consistent code.
-
-### [45. Understanding isObject Method in JavaScript](https://hackernoon.com/understanding-isobject-method-in-javascript)
+### [44. Understanding isObject Method in JavaScript](https://hackernoon.com/understanding-isobject-method-in-javascript)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-90a3qez.jpeg)
 Hence, in this article, we will see how to create an isObject function and use it to check if an object is actually an object. So, let's get started!
 
-### [46. Top 7 JavaScript Pivot Widgets in 2022](https://hackernoon.com/top-7-javascript-pivot-widgets-in-2022)
+### [45. Top 7 JavaScript Pivot Widgets in 2022](https://hackernoon.com/top-7-javascript-pivot-widgets-in-2022)
 ![](https://cdn.hackernoon.com/images/h2XnsfW9qjbuqoJSJ1SnogTK87r1-wqk3hw4.png)
 Pivot Charts are useful tools that can be relied on to visualise huge amounts of data. These 7 JavaScript Pivot Widgets are some of the best ways to use them.
+
+### [46. Modern Style of Javascript with Arrow Functions](https://hackernoon.com/modern-style-of-javascript-with-arrow-functions-lg1x3474)
+![](https://images.unsplash.com/photo-1527427337751-fdca2f128ce5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+The complete explanation of Arrow functions in Javascript, and how it helps developers to write flexible and consistent code.
 
 ### [47. Building Ping Command in Node.js: Practical Guide to Buffers, Sockets, and Bit Manipulation](https://hackernoon.com/building-ping-command-in-nodejs-practical-guide-to-buffers-sockets-and-bit-manipulation)
 ![](https://cdn.hackernoon.com/images/fN6gqyEn1ZWGSnRkRVKQmlxFpdc2-wyh3x51.png)
@@ -287,13 +289,13 @@ Let's get real for a moment, Navigating the treacherous waters of TypeScript typ
 ![](https://cdn.hackernoon.com/images/GyReioOm4SYrQtHDFZYR7Ot7i3w1-5j92ixo.jpeg)
 Typescript utility types allows Javascript developers to carry out type transformations. Some examples of utility types are Partial, Required and Readonly.
 
-### [71. Next.js vs React: Who Wins the Battle?](https://hackernoon.com/nextjs-vs-react-who-wins-the-battle)
-![](https://cdn.hackernoon.com/images/7DtulTMuZUNhuHGe0I2LlQhRAdu1-yza3pzb.jpeg)
-There are two popular options for creating web applications with React: Next.js and React Router. Both have their pros and cons, but which one.
-
-### [72. How to Compile Angular Component To HTML String With All The Bindings](https://hackernoon.com/how-to-compile-angular-component-to-html-string-with-all-the-bindings)
+### [71. How to Compile Angular Component To HTML String With All The Bindings](https://hackernoon.com/how-to-compile-angular-component-to-html-string-with-all-the-bindings)
 ![](https://cdn.hackernoon.com/images/dT2gniFD0Ia4guClOIrr2nP5h4O2-r493uz2.jpeg)
 Compile Angular Component To HTML String With All The Bindings
+
+### [72. Next.js vs React: Who Wins the Battle?](https://hackernoon.com/nextjs-vs-react-who-wins-the-battle)
+![](https://cdn.hackernoon.com/images/7DtulTMuZUNhuHGe0I2LlQhRAdu1-yza3pzb.jpeg)
+There are two popular options for creating web applications with React: Next.js and React Router. Both have their pros and cons, but which one.
 
 ### [73. How to Add  Notifications to your React Navigation bar](https://hackernoon.com/how-to-add-notifications-to-your-react-navigation-bar)
 ![](https://cdn.hackernoon.com/images/ZuuM3fSjXmf2oETrekt5pezKail2-y0h3qsn.jpeg)
@@ -315,13 +317,13 @@ The concept of mutability and immutability in JavaScript is essential to underst
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-5393pq8.jpeg)
 Effortlessly Remove Selected Elements Programmatically: Mastering Object Deletion in Fabric.js 5
 
-### [78. A Handy Guide to Parsing URLs in JavaScript](https://hackernoon.com/a-handy-guide-to-parsing-urls-in-javascript)
-![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-h792kzy.jpeg)
-In this article, we’ll be diving deep into the topic of URL parsing in JavaScript and understanding how to access certain data from a URL string.
-
-### [79. 3 Practical Tasks for Your Next React Interview](https://hackernoon.com/practical-tasks-for-your-next-react-interview)
+### [78. 3 Practical Tasks for Your Next React Interview](https://hackernoon.com/practical-tasks-for-your-next-react-interview)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-gq93qsc.jpeg)
 Here are 3 React tasks to check your coding skills, way of thinking, and ability to create good understandable code.
+
+### [79. A Handy Guide to Parsing URLs in JavaScript](https://hackernoon.com/a-handy-guide-to-parsing-urls-in-javascript)
+![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-h792kzy.jpeg)
+In this article, we’ll be diving deep into the topic of URL parsing in JavaScript and understanding how to access certain data from a URL string.
 
 ### [80. How to Fetch Data in Javascript like a Pro](https://hackernoon.com/how-to-fetch-data-in-javascript-like-a-pro)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-db93p6b.jpeg)
@@ -387,149 +389,149 @@ Struggle to find the chemistry Nobel prize winner for 1979? Try out MeiliSearch'
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-wi93s2c.jpeg)
 We are going to compare Yarn vs. NPM similarities and differences.
 
-### [96. The Weird Parts of JavaScript](https://hackernoon.com/the-weird-parts-of-javascript-zxo34i8)
-![](https://cdn.hackernoon.com/images/Sua4Vah9KeWsdoxYnT7CG0Vp9iV2-nf6o31wj.jpeg)
-This article highlights some of the weird parts of JavaScript by contrasting the language with others such as HTML, CSS and Python.
-
-### [97. Making HTTP Requests With Axios in TypeScript](https://hackernoon.com/making-http-requests-with-axios-in-typescript)
+### [96. Making HTTP Requests With Axios in TypeScript](https://hackernoon.com/making-http-requests-with-axios-in-typescript)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-q893stj.jpeg)
 We decided to rewrite our simple fetch service to a more powerful solution with the ability to cancel requests which were sent previously.
 
-### [98. Creating a Screen Sharing Application With JavaScript](https://hackernoon.com/creating-a-screen-sharing-application-with-javascript)
+### [97. Creating a Screen Sharing Application With JavaScript](https://hackernoon.com/creating-a-screen-sharing-application-with-javascript)
 ![](https://cdn.hackernoon.com/images/n9Ke2bdHGjd78LxYbPMAVSFOZKk1-hi93wen.jpeg)
 Have you ever wondered how hard or easy it would be to create your own screen-sharing application? Learn how today using HTML, CSS & JavaScript.
 
-### [99. 24 Best JavaScript Blogs and Websites](https://hackernoon.com/24-best-javascript-blogs-and-websites)
+### [98. 24 Best JavaScript Blogs and Websites](https://hackernoon.com/24-best-javascript-blogs-and-websites)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-qj03bmw.jpeg)
 In this overview, we have compiled a list of popular sites, as well as JS blogs that are worth reading and keeping in your bookmarks.
 
-### [100. Validate Form Inputs with HTML, CSS and JavaScript](https://hackernoon.com/validate-form-inputs-with-html-css-and-javascript)
+### [99. Validate Form Inputs with HTML, CSS and JavaScript](https://hackernoon.com/validate-form-inputs-with-html-css-and-javascript)
 ![](https://cdn.hackernoon.com/images/b6CEcKb3r7fXUh1nxtO76COfXdn1-rm93kt5.jpeg)
 Form validation is a way of making your form input secure by not letting any malicious code in your website.
 
-### [101. TypeScript Interfaces and Types: A Comparison](https://hackernoon.com/typescript-interfaces-and-types-a-comparison)
+### [100. TypeScript Interfaces and Types: A Comparison](https://hackernoon.com/typescript-interfaces-and-types-a-comparison)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-xk93pij.jpeg)
 Let's take a look at how Typescript Interfaces and types differ.
 
-### [102. The Top VS Code JavaScript Extensions Every Developer Should Embrace](https://hackernoon.com/the-top-vs-code-javascript-extensions-every-developer-should-embrace)
+### [101. The Top VS Code JavaScript Extensions Every Developer Should Embrace](https://hackernoon.com/the-top-vs-code-javascript-extensions-every-developer-should-embrace)
 ![](https://cdn.hackernoon.com/images/qbjdMko7eFaiqBJgAApmsjilPv83-b793mi4.jpeg)
 Visual Studio Code (VS Code) has rapidly become the go-to code editor for developers due to its powerful features, extensibility, and community support. 
 
-### [103. Redis and Node.JS: Learn the Basics](https://hackernoon.com/redis-and-nodejs-learn-the-basics)
+### [102. Redis and Node.JS: Learn the Basics](https://hackernoon.com/redis-and-nodejs-learn-the-basics)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-iw93s2a.jpeg)
 Redis is a powerful piece of technology that lets us store data in memory. Let's look at how to use it with Node.JS
 
-### [104. Importing and Exporting Excel XLSX Using Vue: A Guide](https://hackernoon.com/importing-and-exporting-excel-xlsx-using-vue-a-guide)
+### [103. Importing and Exporting Excel XLSX Using Vue: A Guide](https://hackernoon.com/importing-and-exporting-excel-xlsx-using-vue-a-guide)
 ![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-v5934dw.png)
 Learn how to import and export Excel XLSX files using Vue. See more from SpreadJS today.
 
-### [105. 5 Great JavaScript Projects to Code During Quarantine](https://hackernoon.com/5-great-javascript-projects-to-code-during-quarantine-np103y26)
+### [104. 5 Great JavaScript Projects to Code During Quarantine](https://hackernoon.com/5-great-javascript-projects-to-code-during-quarantine-np103y26)
 ![](https://cdn.hackernoon.com/drafts/ow1f3y36.png)
 We’re only three months into the new decade and we’ve already had the threat of WW3, Australia being on fire, and an outbreak of a new Coronavirus. Surprisingly, it’s the latter that has forced many people to isolate themselves at home.
 
-### [106. Send Emails From Node.JS Using Sendinblue in Just 5 Steps](https://hackernoon.com/send-emails-from-nodejs-using-sendinblue-in-just-5-steps)
+### [105. Send Emails From Node.JS Using Sendinblue in Just 5 Steps](https://hackernoon.com/send-emails-from-nodejs-using-sendinblue-in-just-5-steps)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-0793lh4.jpeg)
 In this article, you will learn how to send emails from Node.js using SendInBlue.
 
-### [107. Decoding the Three Dots (…) Or Spread Operator in Javascript](https://hackernoon.com/decoding-the-three-dots-or-spread-operator-in-javascript)
+### [106. Decoding the Three Dots (…) Or Spread Operator in Javascript](https://hackernoon.com/decoding-the-three-dots-or-spread-operator-in-javascript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-ri93p3k.jpeg)
 The spread operator, spread syntax or 3 dots (...), is a type of syntax in Javascript that is used by both function calls and arrays/objects.
 
-### [108. The Best React Native UI Component Kits To Use In 2021](https://hackernoon.com/the-best-react-native-ui-component-kits-to-use-in-2021-3f11344u)
+### [107. The Best React Native UI Component Kits To Use In 2021](https://hackernoon.com/the-best-react-native-ui-component-kits-to-use-in-2021-3f11344u)
 ![](https://cdn.hackernoon.com/images/CPZcQZuKTIRNEmHkkkOCBTvsTyd2-c7eb344y.jpeg)
 React Native was created by Facebook to accelerate and reduce the cost of developing mobile applications. It is clear that React Native is currently the best solution for creating cross-platform mobile applications.
 
-### [109. JavaScript Essentials (Concepts + Code) Frontend Development For Beginners](https://hackernoon.com/javascript-essentials-concepts-code-for-frontend-developers-5qv322a)
+### [108. JavaScript Essentials (Concepts + Code) Frontend Development For Beginners](https://hackernoon.com/javascript-essentials-concepts-code-for-frontend-developers-5qv322a)
 ![](https://cdn.hackernoon.com/drafts/id45u32ek.png)
 JavaScript was is and will always be the first language of choice for developing front-end of any web application. We all know it. 
 
-### [110. The Step-by-Step Guide to Deploying Your Next.js App to Firebase Hosting](https://hackernoon.com/the-step-by-step-guide-to-deploying-your-nextjs-app-to-firebase-hosting)
+### [109. The Step-by-Step Guide to Deploying Your Next.js App to Firebase Hosting](https://hackernoon.com/the-step-by-step-guide-to-deploying-your-nextjs-app-to-firebase-hosting)
 ![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-26923x1.png)
 In this tutorial, I’ll show you how to deploy a full-stack JavaScript web app into Firebase. We’ll deploy a Next.js application to Firebase hosting.
 
-### [111. Utility Types in Typescript - Part 2: Pick, Omit, Record](https://hackernoon.com/utility-types-in-typescript-part-2-pick-omit-record)
+### [110. Utility Types in Typescript - Part 2: Pick, Omit, Record](https://hackernoon.com/utility-types-in-typescript-part-2-pick-omit-record)
 ![](https://cdn.hackernoon.com/images/GyReioOm4SYrQtHDFZYR7Ot7i3w1-xu92ixh.jpeg)
 Typescript utility types allows Javascript developers to carry out type transformations. Some examples of utility types are Pick, Omit and Record.
 
-### [112. Difference between let, var and const in Javascript](https://hackernoon.com/difference-between-let-var-and-const-in-javascript-t28c3ydp)
+### [111. Difference between let, var and const in Javascript](https://hackernoon.com/difference-between-let-var-and-const-in-javascript-t28c3ydp)
 ![](https://cdn.hackernoon.com/drafts/8xt3y42.png)
 With javascript, variable declarations have always been one of its tricky parts. Unlike most of the C-based languages, javascript variables are always not created at the spot where you declare them. Where a variable is created usually depends on how you declare it. 
 
-### [113. How to Add Prefix or Suffix to Each New Line in JavaScript](https://hackernoon.com/how-to-add-prefix-or-suffix-to-each-new-line-in-javascript)
+### [112. How to Add Prefix or Suffix to Each New Line in JavaScript](https://hackernoon.com/how-to-add-prefix-or-suffix-to-each-new-line-in-javascript)
 ![](https://cdn.hackernoon.com/images/HBFDpaRgFAXp9sXoW0d6LL26mvh1-gc93pff.jpeg)
 Learn how to add a prefix or suffix to each new line in JavaScript with our step-by-step tutorial. Create a user-friendly online tool using JS.
 
-### [114. jQuery is Not Defined: How to Fix This Common Error](https://hackernoon.com/jquery-is-not-defined-how-to-fix-this-common-error)
+### [113. jQuery is Not Defined: How to Fix This Common Error](https://hackernoon.com/jquery-is-not-defined-how-to-fix-this-common-error)
 ![](https://cdn.hackernoon.com/images/G7JOCMInhTbqoh3WpBaCwVWcsc22-l5037l9.jpeg)
 One of the most common JavaScript errors we see affecting our customers is jQuery is not defined. A pretty serious problem if your web app relies on jQuery .
 
-### [115. Javascript Development & Security](https://hackernoon.com/javascript-development-and-security-va2bm2gbi)
+### [114. Javascript Development & Security](https://hackernoon.com/javascript-development-and-security-va2bm2gbi)
 ![](https://cdn.hackernoon.com/drafts/z4u2glu.png)
 Javascript is a high level, dynamically typed interpreted, sixth most popular programming language. It interacts with the user DOM to perform various functionalities. 
 
-### [116. How to Update and Support URL Parameters in Alpine.js](https://hackernoon.com/how-to-update-and-support-url-parameters-in-alpinejs)
+### [115. How to Update and Support URL Parameters in Alpine.js](https://hackernoon.com/how-to-update-and-support-url-parameters-in-alpinejs)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-h493oxv.png)
 Updating an Alpine.js project to support updating and restoring state via URL parameters.
 
-### [117. How to Use Default Parameters in TypeScript](https://hackernoon.com/how-to-use-default-parameters-in-typescript)
+### [116. How to Use Default Parameters in TypeScript](https://hackernoon.com/how-to-use-default-parameters-in-typescript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-z0a3ojj.jpeg)
 When we talk about default parameters, we are talking about giving arguments values that should be used, if that argument is undefined.
 
-### [118. Changing Async/Await to Promises.all to Speed Up API Calls in Node.JS](https://hackernoon.com/changing-asyncawait-to-promisesall-to-speed-up-api-calls-in-nodejs)
+### [117. Changing Async/Await to Promises.all to Speed Up API Calls in Node.JS](https://hackernoon.com/changing-asyncawait-to-promisesall-to-speed-up-api-calls-in-nodejs)
 ![](https://cdn.hackernoon.com/images/aB1iH9EywvPq9hVfSmPiN3dTswD2-h993g9v.jpeg)
 Converting Async/await to Promises.all in Nodejs helps us reduces processing time from 50+ secs to less than 5 secs
 
-### [119. Top 10 JavaScript UI Frameworks & Libraries for 2022](https://hackernoon.com/top-10-javascript-ui-frameworks-and-libraries-for-2022)
+### [118. Top 10 JavaScript UI Frameworks & Libraries for 2022](https://hackernoon.com/top-10-javascript-ui-frameworks-and-libraries-for-2022)
 ![](https://cdn.hackernoon.com/images/h2XnsfW9qjbuqoJSJ1SnogTK87r1-x7b39ur.jpeg)
 From a client-side programming perspective, the language JavaScript has grown into the language of web development. 
 
-### [120. The Most Progressive Web Apps of 2022](https://hackernoon.com/10-best-example-of-progressive-web-app-2022)
+### [119. The Most Progressive Web Apps of 2022](https://hackernoon.com/10-best-example-of-progressive-web-app-2022)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-kq93yhw.jpeg)
 Progressive Web Apps (PWAs) can be called an intermediate between mobile apps and traditional websites. But, why exactly do we need them? As technology advances, it brings new devices. In turn, this upgrades the requirements of your average user. The success of your business depends upon the ability to provide these requirements.
 
-### [121. 5 Complex TypeScript Problems Solved Using One Simple Example](https://hackernoon.com/5-complex-typescript-problems-solved-using-one-simple-example)
+### [120. 5 Complex TypeScript Problems Solved Using One Simple Example](https://hackernoon.com/5-complex-typescript-problems-solved-using-one-simple-example)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-9g93pmd.jpeg)
 I will try to tell with a simple example of how TS can be applied, and how to solve seemingly complex problems step by step.
 
-### [122. How to Navigate Between Views in Vue with Vue Router](https://hackernoon.com/how-to-navigate-between-views-in-vue-with-vue-router)
+### [121. How to Navigate Between Views in Vue with Vue Router](https://hackernoon.com/how-to-navigate-between-views-in-vue-with-vue-router)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-nk93pmb.jpeg)
 After creating an application in Vue, you'll often want it to consist of multiple views or pages. 
 
-### [123. How Optional Chaining Can Save You From Unexpected Errors in Javascript](https://hackernoon.com/how-optional-chaining-can-save-you-from-unexpected-errors-in-javascript)
+### [122. How Optional Chaining Can Save You From Unexpected Errors in Javascript](https://hackernoon.com/how-optional-chaining-can-save-you-from-unexpected-errors-in-javascript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-1o93o5c.jpeg)
 Optional chaining is a feature in Javascript which lets us access the child properties of an object, even if the parent object doesn't exist.
 
-### [124. How to Efficiently Manage JavaScript Monorepos With Lerna](https://hackernoon.com/how-to-efficiently-manage-javascript-monorepos-with-lerna)
+### [123. How to Efficiently Manage JavaScript Monorepos With Lerna](https://hackernoon.com/how-to-efficiently-manage-javascript-monorepos-with-lerna)
 ![](https://cdn.hackernoon.com/images/6g4iRTcVxZPmE5qB6OmXygtLFfl2-nw93s7b.jpeg)
 Manage JavaScript 'monorepos' with Lerna, Build a React Icon Library & Publish to NPM 
 
-### [125. The Difference Between a Class and a Prototype in JavaScript](https://hackernoon.com/the-difference-between-a-class-and-a-prototype-in-javascript-mg6337jt)
+### [124. The Difference Between a Class and a Prototype in JavaScript](https://hackernoon.com/the-difference-between-a-class-and-a-prototype-in-javascript-mg6337jt)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-i79n3570.jpeg)
 Dive into JavaScript to understand key differentiators between use of a Class and a Prototype - plus the impact each has on Lightning Web Components.
 
-### [126. Checkers on React - Part 2 - Creating the Gameboard](https://hackernoon.com/checkers-on-react-part-2-creating-the-gameboard)
+### [125. Checkers on React - Part 2 - Creating the Gameboard](https://hackernoon.com/checkers-on-react-part-2-creating-the-gameboard)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-p093psu.jpeg)
 In this tutorial, we will start with creating the game board.
 
-### [127. How to Debug JavaScript Right Inside Your Chrome Browser](https://hackernoon.com/how-to-debug-javascript-right-inside-your-chrome-browser)
+### [126. How to Debug JavaScript Right Inside Your Chrome Browser](https://hackernoon.com/how-to-debug-javascript-right-inside-your-chrome-browser)
 ![](https://cdn.hackernoon.com/images/hxgB3A2KjtPk4sJXB1ezGnusKBx1-iej3o30.jpeg)
 Chrome dev tools are a must have tools for modern day developers. Take your first step learning chrome dev tools by learning source debugger. 
 
-### [128. Learning ReactJS From Scratch](https://hackernoon.com/learning-reactjs-from-scratch-pe153ubv)
+### [127. Learning ReactJS From Scratch](https://hackernoon.com/learning-reactjs-from-scratch-pe153ubv)
 ![](https://cdn.hackernoon.com/images/z2xg2bpo.jpg)
 React is a product of Facebook. It is a very flexible and efficient JavaScript library for building interactive user interfaces. React forms the view layer of the web application which is technically the frontend. This makes it easier to make web applications with essential features such as reusable components, state management, DOM rendering and many more which are explained later. React is mainly used in making single-page web applications. In this article we’ll see the fundamentals of react library and why is it so popular.
 
-### [129. Understanding innerHTML in Javascript](https://hackernoon.com/understanding-innerhtml-in-javascript)
+### [128. Understanding innerHTML in Javascript](https://hackernoon.com/understanding-innerhtml-in-javascript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-5ba3s3i.jpeg)
 In Javascript, we have lots of different ways to manipulate DOM elements. Here, we take a look at one of the simplest ways to do so. 
 
-### [130. Top Startups and Enterprises Using ReactJS ](https://hackernoon.com/top-startups-and-enterprises-using-reactjs-j2173t42)
+### [129. Top Startups and Enterprises Using ReactJS ](https://hackernoon.com/top-startups-and-enterprises-using-reactjs-j2173t42)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJErJXky5MfaAbQdfTlFCmcUKbGG2-h4743u8j.jpeg?alt=media&token=4aae7eb8-db09-4ece-bff1-19794d1ee202)
 React is a framework released by Facebook for creating Single Page Applications (SPA). What is a Single Page Application? Most web applications are traditionally server-side applications. The server holds the business logic, stores data, and renders the website to the client. When a client clicks on a link, it sends a request to the server, and the server will handle this request and send back a response with HTML code which the browser will render and be viewed by the user. 
 
-### [131. Monolith to Microservices: Build Your First Microservice App With Spring Boot](https://hackernoon.com/monolith-to-microservices-build-a-microservice-app-with-spring-boot)
+### [130. Monolith to Microservices: Build Your First Microservice App With Spring Boot](https://hackernoon.com/monolith-to-microservices-build-a-microservice-app-with-spring-boot)
 ![](https://cdn.hackernoon.com/images/BlBIttNGqzO1aF2OOzYkWig7w1V2-aib3h75.jpeg)
 Microservices are a part of cloud computing which will become more important over time. This is how to create microservices using Spring Boot for the process.
+
+### [131. 15+ Awesome Stuff to Build and Sell With JavaScript (and Friends)](https://hackernoon.com/15-awesome-stuff-to-build-and-sell-with-javascript-and-friends)
+![](https://cdn.hackernoon.com/images/3FnIKHGgbNVQq1IJMsgvsFiWteK2-xsg3v0i.png)
+Learn fifteen+ types of projects you can turn in your next side hustle or full-time arrangement to leverage your JavaScript skills in a scalable way.
 
 ### [132. You Can Become a Job Ready Web Developer From Scratch in Less Than a Year](https://hackernoon.com/you-can-become-a-job-ready-web-developer-from-scratch-in-less-than-a-year)
 ![](https://cdn.hackernoon.com/images/Fv452oXsO4Q8F6fiL8N5qvMxevA2-kya34qs.jpeg)
@@ -539,45 +541,45 @@ Developers are some of the best-paid people on the planet thanks to their skills
 ![](https://cdn.hackernoon.com/images/4bJFgJbS5WfBSw6S3fP1fTBHqKf1-hr92flv.jpeg)
 This article discusses how to pass React Server Components as props to Client Components and why you might want to do so.
 
-### [134. 15+ Awesome Stuff to Build and Sell With JavaScript (and Friends)](https://hackernoon.com/15-awesome-stuff-to-build-and-sell-with-javascript-and-friends)
-![](https://cdn.hackernoon.com/images/3FnIKHGgbNVQq1IJMsgvsFiWteK2-xsg3v0i.png)
-Learn fifteen+ types of projects you can turn in your next side hustle or full-time arrangement to leverage your JavaScript skills in a scalable way.
-
-### [135. How to Transport Your Components Anywhere With React Portals](https://hackernoon.com/how-to-transport-your-components-anywhere-with-react-portals)
+### [134. How to Transport Your Components Anywhere With React Portals](https://hackernoon.com/how-to-transport-your-components-anywhere-with-react-portals)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-mb93pph.jpeg)
 To solve this problem, we can teleport the modal out of its own component and into another part of our template using createPortal.
+
+### [135. Javascript: No More callbacks, Use Promisify to Convert Callback to Promise](https://hackernoon.com/javascript-no-more-callbacks-use-promisify-to-convert-callback-to-promise)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-fm93qjx.jpeg)
+We need to convert callback to promise because the promise is more readable and easier to handle. 
 
 ### [136. Who Would Win Between Flutter and React Native](https://hackernoon.com/who-would-win-between-flutter-and-react-native)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-6j931yx.jpeg)
 This Flutter Vs. React Native comparison is going to be fun so stick with me till the end and you will have an answer to which one's worthy of your app idea.
 
-### [137. Javascript: No More callbacks, Use Promisify to Convert Callback to Promise](https://hackernoon.com/javascript-no-more-callbacks-use-promisify-to-convert-callback-to-promise)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-fm93qjx.jpeg)
-We need to convert callback to promise because the promise is more readable and easier to handle. 
-
-### [138. The Implications of Javascript being a Single-threaded Language ](https://hackernoon.com/what-makes-javascript-a-single-threaded-language)
+### [137. The Implications of Javascript being a Single-threaded Language ](https://hackernoon.com/what-makes-javascript-a-single-threaded-language)
 ![](https://cdn.hackernoon.com/images/ZfZ1q2Bn1YYq5hGoc3wuc7PPcOt2-3ta3qji.gif.webp)
 Learn how Javascript async/await works and what it means by Javascript is a single-threaded language.
 
-### [139. Everything You Need to Know About Text String Manipulation](https://hackernoon.com/everything-you-need-to-know-about-text-string-manipulation-3hgv35cs)
+### [138. Everything You Need to Know About Text String Manipulation](https://hackernoon.com/everything-you-need-to-know-about-text-string-manipulation-3hgv35cs)
 ![](https://cdn.hackernoon.com/images/PfQtRbvKH3UTFjmz7FgATdL8tVI2-5le2b6o.jpeg)
 For those new to coding or even experienced coders, this guide details how to manipulate text strings, just like the pros. 
+
+### [139. Having Trouble Accessing Your Session and Access Token Using Supabase, Nuxt and Vue3? Try This!](https://hackernoon.com/trouble-accessing-your-session-and-access-token-using-supabase-nuxt-and-vue3)
+![](https://cdn.hackernoon.com/images/access-token-clf1rctpt000001s6dkjg2agz.png)
+client.auth.getSession() returning null?
 
 ### [140. Working With Mapped Types in TypeScript](https://hackernoon.com/working-with-mapped-types-in-typescript)
 ![](https://cdn.hackernoon.com/images/hHvJYsnxNvXnKtvNzZaTLlONqQW2-fe93p7w.png)
 The main aim of this piece is to grasp the workings of mapped types in TypeScript and explore various typical scenarios. 
 
-### [141. Having Trouble Accessing Your Session and Access Token Using Supabase, Nuxt and Vue3? Try This!](https://hackernoon.com/trouble-accessing-your-session-and-access-token-using-supabase-nuxt-and-vue3)
-![](https://cdn.hackernoon.com/images/access-token-clf1rctpt000001s6dkjg2agz.png)
-client.auth.getSession() returning null?
-
-### [142. Future Javascript: Types May Finally be Coming to Javascript](https://hackernoon.com/future-javascript-types-may-finally-be-coming-to-javascript)
+### [141. Future Javascript: Types May Finally be Coming to Javascript](https://hackernoon.com/future-javascript-types-may-finally-be-coming-to-javascript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-we93jnd.jpeg)
 The type annotations specification specifies how Javascript will, in the future, implement types. Let's look at how types in Javascript will work.
 
-### [143. Create a Morphing 3D Sphere in Javascript with Three.js](https://hackernoon.com/create-a-morphing-3d-sphere-in-javascript-with-threejs)
+### [142. Create a Morphing 3D Sphere in Javascript with Three.js](https://hackernoon.com/create-a-morphing-3d-sphere-in-javascript-with-threejs)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-7p93osk.jpeg)
 In this guide, I  create a morphing sphere with a cool, wireframe background.
+
+### [143. The Top JavaScript Spreadsheets](https://hackernoon.com/the-top-javascript-spreadsheets)
+![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-8i034g1.png)
+Explore the top JavaScript spreadsheets and their notable features for your applications in this review of leading options.
 
 ### [144. I Created a Bot to Solve Wordle so I Never Have to Ever Again](https://hackernoon.com/i-created-a-bot-to-solve-wordle-so-i-never-have-to-ever-again)
 ![](https://cdn.hackernoon.com/images/PAvDPagOxFNLfOhJ2d7DslfLJV03-y293hzh.jpeg)
@@ -611,33 +613,33 @@ Nucleoid is low-code framework for Node.js, lets you build your APIs with the he
 ![](https://cdn.hackernoon.com/images/PAvDPagOxFNLfOhJ2d7DslfLJV03-udw3kef.jpeg)
 How SAINE is arguably the best wordle starting word. Proven by math and statistics. Beating out common advice such as CRANE, and ADEPT
 
-### [152. The Top JavaScript Spreadsheets](https://hackernoon.com/the-top-javascript-spreadsheets)
-![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-8i034g1.png)
-Explore the top JavaScript spreadsheets and their notable features for your applications in this review of leading options.
-
-### [153. 5 Reasons to Convert from React to Next.js](https://hackernoon.com/5-reasons-to-convert-from-react-to-nextjs)
+### [152. 5 Reasons to Convert from React to Next.js](https://hackernoon.com/5-reasons-to-convert-from-react-to-nextjs)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-c993qjb.jpeg)
 React itself is a great solution already. But why are there many guides on "How to convert React to Next.js"? Let's find out why and when Next.js is better.
 
-### [154. A Post-Mortem in 5 Acts: How Microsoft Privatized Open Source And Killed JavaScript in the Process](https://hackernoon.com/a-post-mortem-in-5-acts-how-microsoft-privatized-open-source-and-killed-javascript-in-the-process-5s5i33ma)
+### [153. A Post-Mortem in 5 Acts: How Microsoft Privatized Open Source And Killed JavaScript in the Process](https://hackernoon.com/a-post-mortem-in-5-acts-how-microsoft-privatized-open-source-and-killed-javascript-in-the-process-5s5i33ma)
 ![](https://cdn.hackernoon.com/images/5URxBcBGLKNzh7IugyxdUmvDGgi1-v1a32gr.jpeg)
 After Microsoft’s blitzkrieg take-over, the Open-Source JavaScript community as we know it is coming to an end. It’s a ‘secret’ war with high-tech propaganda.
 
-### [155. How I Built a Simple Keystroke Application for Windows](https://hackernoon.com/how-i-built-a-simple-keystroke-application-for-windows)
+### [154. How I Built a Simple Keystroke Application for Windows](https://hackernoon.com/how-i-built-a-simple-keystroke-application-for-windows)
 ![](https://cdn.hackernoon.com/images/3vn6gVC40lf9EZovJoHLxSOK5Gr1-b893sf5.jpeg)
 I'm so excited to show you how I built a keystroke application for Windows that was inspired by KeyCastr.
 
-### [156. Building ChatPlus: The Open Source PWA That Feels Like a Mobile App](https://hackernoon.com/building-chatplus-the-open-source-pwa-that-feels-like-a-mobile-app)
+### [155. Building ChatPlus: The Open Source PWA That Feels Like a Mobile App](https://hackernoon.com/building-chatplus-the-open-source-pwa-that-feels-like-a-mobile-app)
 ![](https://cdn.hackernoon.com/images/ybJjIuGgTyf94opYQ8DQVJGVOmR2-a083wpr.png)
 ChatPlus is a React chat app , it's a PWA that attracts the attention with its vibrant user interface and multiple messaging and call functionalities.
 
-### [157. One Hour JavaScript Coding Exercises  ](https://hackernoon.com/one-hour-javascript-coding-exercises-cv6r3035)
+### [156. One Hour JavaScript Coding Exercises  ](https://hackernoon.com/one-hour-javascript-coding-exercises-cv6r3035)
 ![](https://cdn.hackernoon.com/drafts/s2qm3yj9.png)
 Here are some most recommended JavaScript Mini Projects.
 
-### [158. Introducing The Popover API: Elevating Web UI Interactivity with JavaScript](https://hackernoon.com/introducing-the-popover-api-elevating-web-ui-interactivity-with-javascript)
+### [157. Introducing The Popover API: Elevating Web UI Interactivity with JavaScript](https://hackernoon.com/introducing-the-popover-api-elevating-web-ui-interactivity-with-javascript)
 ![](https://cdn.hackernoon.com/images/NyXneRHZfvbzsYF1wiwKbsZnJLe2-6e934e6.jpeg)
 Learn to enhance web interfaces with the versatile Popover API and JavaScript, optimizing user experience and interactivity.
+
+### [158. Pros and Cons of Popular JavaScript Templating Engines](https://hackernoon.com/pros-and-cons-of-popular-javascript-templating-engines)
+![](https://cdn.hackernoon.com/images/a-laptop-displaying-code-gloy715p69s7cf4rz8w8wovd.png)
+Explore the dynamic world of web development with a deep dive into three popular JavaScript templating engines-Pug, Handlebars, and EJS. 
 
 ### [159. The 9 Mistakes JavaScript Developers Make the Most](https://hackernoon.com/the-9-mistakes-javascript-developers-make-the-most)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-4f93sgn.jpeg)
@@ -647,93 +649,93 @@ In this article, we'll take a look at some of the most common JavaScript mistake
 ![](https://cdn.hackernoon.com/images/CTrBJW5MhvUIWXT9PA0yBXdfTRM2-5caj23xj.jpeg)
 Here is a workable, reusable way to test an expressjs/mongoose application.
 
-### [161. Pros and Cons of Popular JavaScript Templating Engines](https://hackernoon.com/pros-and-cons-of-popular-javascript-templating-engines)
-![](https://cdn.hackernoon.com/images/a-laptop-displaying-code-gloy715p69s7cf4rz8w8wovd.png)
-Explore the dynamic world of web development with a deep dive into three popular JavaScript templating engines-Pug, Handlebars, and EJS. 
-
-### [162. Protecting Your React.js Source Code with Jscrambler](https://hackernoon.com/protecting-your-reactjs-source-code-with-jscrambler)
+### [161. Protecting Your React.js Source Code with Jscrambler](https://hackernoon.com/protecting-your-reactjs-source-code-with-jscrambler)
 ![](https://cdn.hackernoon.com/images/1JNoLAkx1ZO5O8qO5dcdNjh6RQw1-0oa3ktl.jpeg)
 In this step-by-step guide, you'll learn how to protect your React.js application with Jscrambler to prevent code theft and reverse engineering.
 
-### [163. Send Google Forms Responses in an Email Automatically Using Google Apps Script](https://hackernoon.com/send-google-forms-responses-in-an-email-automatically-using-google-apps-script)
+### [162. Send Google Forms Responses in an Email Automatically Using Google Apps Script](https://hackernoon.com/send-google-forms-responses-in-an-email-automatically-using-google-apps-script)
 ![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-zod2o8m.jpeg)
 Learn how to automatically send google form responses with Gmail with google apps scripts.
 
-### [164. Authenticate Your Users Using Facial Recognition With FaceIO, Next.JS and Tailwind CSS](https://hackernoon.com/authenticate-your-users-using-facial-recognition-with-faceio-nextjs-and-tailwind-css)
+### [163. Authenticate Your Users Using Facial Recognition With FaceIO, Next.JS and Tailwind CSS](https://hackernoon.com/authenticate-your-users-using-facial-recognition-with-faceio-nextjs-and-tailwind-css)
 ![](https://cdn.hackernoon.com/images/htVjKcTLFYes7Isse0vYEolH3GF2-9m92isc.jpeg)
 FaceIO is a facial authentication framework that can easily be integrated into any website or web app using a simple JavaScript snippet.
 
-### [165. Why You Should be Learning about the Remix Framework ](https://hackernoon.com/why-you-should-be-learning-about-the-remix-framework)
+### [164. Why You Should be Learning about the Remix Framework ](https://hackernoon.com/why-you-should-be-learning-about-the-remix-framework)
 ![](https://cdn.hackernoon.com/images/YhQrn2uriTN9SEA31DxtfMz7glu1-nla3yql.jpeg)
 Are you looking to build an app with minimal effort? With Remix, you can do just that! Learn how this relatively new web framework compares.
 
-### [166. Setting Default Inject/Provide Values in Vue](https://hackernoon.com/setting-default-injectprovide-values-in-vue)
+### [165. Setting Default Inject/Provide Values in Vue](https://hackernoon.com/setting-default-injectprovide-values-in-vue)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-esa3of0.jpeg)
 Vue uses provide and inject to send data down multiple levels without having to use properties - did you know you can set default values for any injected data?
 
-### [167. Using Vue 3 with Parcel JS](https://hackernoon.com/using-vue-3-with-parcel-js)
+### [166. Using Vue 3 with Parcel JS](https://hackernoon.com/using-vue-3-with-parcel-js)
 ![](https://cdn.hackernoon.com/images/7UvMZlp4xVQu6AqlsRww5pVK61t2-cz93plz.jpeg)
 Setting up Parcel JS to build a Vue 3 app
 
-### [168. 7 YouTube Channels That Make Programming/Web Development Simple](https://hackernoon.com/7-youtube-channels-that-make-programmingweb-development-simple)
+### [167. 7 YouTube Channels That Make Programming/Web Development Simple](https://hackernoon.com/7-youtube-channels-that-make-programmingweb-development-simple)
 ![](https://cdn.hackernoon.com/images/jAe8nDJHWuhNTYfeZVmoqHUgxXz2-9693wve.jpeg)
 7 YouTube Channels to get started coding.
+
+### [168. The Web Development Courses to Help you Kickstart a Career in Web Development](https://hackernoon.com/the-web-development-courses-to-help-you-kickstart-a-career-in-web-development)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-5g93zc2.jpeg)
+If you want to learn web development and become a web developer, or looking for web development resources like books, online courses, and tutorials, but are not
 
 ### [169. Using JavaScript Grid Tutorial to Solve Issues With App Development](https://hackernoon.com/using-javascript-grid-tutorial-to-solve-issues-with-app-development)
 ![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-imd3ofs.jpeg)
 The importance of web and mobile apps that can handle massive volumes of data has skyrocketed over the past few years. As a result, small and large enterprises want to make the most of their data for monitoring and better decision-making. 
 
-### [170. The Web Development Courses to Help you Kickstart a Career in Web Development](https://hackernoon.com/the-web-development-courses-to-help-you-kickstart-a-career-in-web-development)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-5g93zc2.jpeg)
-If you want to learn web development and become a web developer, or looking for web development resources like books, online courses, and tutorials, but are not
-
-### [171. How to Create Dynamic CSS Using Vue Reactive Variables](https://hackernoon.com/how-to-create-dynamic-css-using-vue-reactive-variables)
+### [170. How to Create Dynamic CSS Using Vue Reactive Variables](https://hackernoon.com/how-to-create-dynamic-css-using-vue-reactive-variables)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-i093070.jpeg)
 If you use Vue, you might be used to having to apply different classes to tags based on the logic in your code. 
 
-### [172. 10 Useful JavaScript Functions to Learn](https://hackernoon.com/10-useful-javascript-functions-to-learn)
+### [171. 10 Useful JavaScript Functions to Learn](https://hackernoon.com/10-useful-javascript-functions-to-learn)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-s6s3o8z.jpeg)
 Read about the 10 must-know JavaScript array functions.
 
-### [173. Here's How I Built a Video, Audio, and Screen Recorder Web App with JavaScript](https://hackernoon.com/heres-how-i-built-a-video-audio-and-screen-recorder-web-app-with-javascript-f42z338r)
+### [172. Here's How I Built a Video, Audio, and Screen Recorder Web App with JavaScript](https://hackernoon.com/heres-how-i-built-a-video-audio-and-screen-recorder-web-app-with-javascript-f42z338r)
 ![](https://cdn.hackernoon.com/images/uiWOqE3Wq9Ptl0KC059x3a5RAt82-1x4d2c42.jpeg)
 Here are some simple steps to build your Audio, Video and Screen Recorder with JavaScript and HTML with MediaRecorder, getUserMedia, getDisplayMedia
 
-### [174. How to Use else if in JavaScript with Examples](https://hackernoon.com/how-to-use-else-if-in-javascript-with-examples-19123510)
+### [173. How to Use else if in JavaScript with Examples](https://hackernoon.com/how-to-use-else-if-in-javascript-with-examples-19123510)
 ![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-qx9l33co.jpeg)
 Syntax of if else, else-if, nested if, and logical operators like AND OR and NOT in Javascript. Switch statement can be used as an alternate to If statement.
 
-### [175. Boosting React App Performance: A Guide to Lazy Loading and Suspense](https://hackernoon.com/boosting-react-app-performance-a-guide-to-lazy-loading-and-suspense)
+### [174. Boosting React App Performance: A Guide to Lazy Loading and Suspense](https://hackernoon.com/boosting-react-app-performance-a-guide-to-lazy-loading-and-suspense)
 ![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-1993wm6.jpeg)
 Lazy loading is a strategy that defers the loading of non-essential resources until they are needed, reducing the initial loading time and improving the overall
 
-### [176. The Noonification: Anchor-based Large Language Models (10/11/2024)](https://hackernoon.com/10-11-2024-noonification)
+### [175. The Noonification: Anchor-based Large Language Models (10/11/2024)](https://hackernoon.com/10-11-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_322_lwdpqwbiowb5posx0cjmonhx.png)
 10/11/2024: Top 5 stories on the HackerNoon homepage!
 
-### [177. What Are Template Literals In Javascript And Why You Should Use Them](https://hackernoon.com/what-are-template-literals-in-javascript-and-why-you-should-use-them-ese03yxu)
+### [176. What Are Template Literals In Javascript And Why You Should Use Them](https://hackernoon.com/what-are-template-literals-in-javascript-and-why-you-should-use-them-ese03yxu)
 ![](https://cdn.hackernoon.com/drafts/e6t3ywr.png)
 
 
-### [178. How to Create and Publish Your First NPM Package](https://hackernoon.com/how-to-create-and-publish-your-first-npm-package)
+### [177. How to Create and Publish Your First NPM Package](https://hackernoon.com/how-to-create-and-publish-your-first-npm-package)
 ![](https://cdn.hackernoon.com/images/MM8znQHHo5PO8CucT9ftiFOGCOD2-7893usd.jpeg)
 A Comprehensive Guide To Creating and Publishing Your First NPM Package
 
-### [179. Creational Design Patterns In JavaScript: A Brief Tutorial](https://hackernoon.com/creational-design-patterns-in-javascript-a-brief-tutorial-35w3304)
+### [178. Creational Design Patterns In JavaScript: A Brief Tutorial](https://hackernoon.com/creational-design-patterns-in-javascript-a-brief-tutorial-35w3304)
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-472033lk.jpeg)
 Object creation mechanisms increase the flexibility and reuse of existing code. Here in this post, we will see the Object Creation Pattern in JavaScript
+
+### [179. JS SEO: How to Optimize JavaScript For High Rank in Search Results](https://hackernoon.com/js-seo-how-to-optimize-javascript-for-high-rank-in-search-results)
+![](https://cdn.hackernoon.com/images/8MyHa2m0xxN2aXT1ACdOlkbhlZ13-8z93qsa.jpeg)
+There's a good chance that your website is made in JavaScript. If you want to know how to improve its SEO ranking using JS, this guide covers the basics.
 
 ### [180. How to Build Your Own Discord Bot with Discord.js (v13) 🤖](https://hackernoon.com/how-to-build-your-own-discord-bot-with-discordjs-v13-k88l35xh)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-vr2035gq.jpeg)
 Learn how to use the updated discord.js library and make your own Discord bot.
 
-### [181. JS SEO: How to Optimize JavaScript For High Rank in Search Results](https://hackernoon.com/js-seo-how-to-optimize-javascript-for-high-rank-in-search-results)
-![](https://cdn.hackernoon.com/images/8MyHa2m0xxN2aXT1ACdOlkbhlZ13-8z93qsa.jpeg)
-There's a good chance that your website is made in JavaScript. If you want to know how to improve its SEO ranking using JS, this guide covers the basics.
-
-### [182. Why It's Your Destiny To Become A Full-Stack JavaScript Developer](https://hackernoon.com/why-its-your-destiny-to-become-a-full-stack-javascript-developer)
+### [181. Why It's Your Destiny To Become A Full-Stack JavaScript Developer](https://hackernoon.com/why-its-your-destiny-to-become-a-full-stack-javascript-developer)
 ![](https://cdn.hackernoon.com/images/3FnIKHGgbNVQq1IJMsgvsFiWteK2-udc3ihj.jpeg)
 I've never met a true, passionate web developer who isn't a multi-dimensional specialist interested in a wide variety of topics related to their job. 
+
+### [182. What Is The Best Widgets Library In 2022?](https://hackernoon.com/what-is-the-best-widgets-library-in-2022)
+![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-qf93n96.jpeg)
+An easy-to-use and comprehensive JavaScript framework are of utmost importance if you are a web developer. 
 
 ### [183. Let’s Know the Key Aspects of Building Single Page Applications using Angular ](https://hackernoon.com/lets-know-the-key-aspects-of-building-spas-using-angular-y54sh29dc)
 ![](https://cdn.hackernoon.com/images/604ru29y0.jpg)
@@ -743,25 +745,25 @@ As an IT Software Consultant, I keep looking for new Angular development framewo
 ![](https://cdn.hackernoon.com/images/9ln0OHvfuhgKBqQIuNFg8jiCzrI2-t4337z8.jpeg)
 Choose one of these React project ideas and build your next React application in 2022! 
 
-### [185. What Is The Best Widgets Library In 2022?](https://hackernoon.com/what-is-the-best-widgets-library-in-2022)
-![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-qf93n96.jpeg)
-An easy-to-use and comprehensive JavaScript framework are of utmost importance if you are a web developer. 
-
-### [186. 10 Repositories that Will Transform the Way You Approach Technical Interviews](https://hackernoon.com/10-repositories-that-will-transform-the-way-you-approach-technical-interviews)
+### [185. 10 Repositories that Will Transform the Way You Approach Technical Interviews](https://hackernoon.com/10-repositories-that-will-transform-the-way-you-approach-technical-interviews)
 ![](https://cdn.hackernoon.com/images/jAe8nDJHWuhNTYfeZVmoqHUgxXz2-qzl3w11.jpeg)
 A complete computer science study plan to become a software engineer. This GitHub repo will take you from ground level to advanced concepts.
 
-### [187. Javascript File Handling: 11 Golden Rules to Follow as a Programmer](https://hackernoon.com/javascript-file-handling-11-golden-rules-to-follow-as-a-programmer)
+### [186. Javascript File Handling: 11 Golden Rules to Follow as a Programmer](https://hackernoon.com/javascript-file-handling-11-golden-rules-to-follow-as-a-programmer)
 ![](https://cdn.hackernoon.com/images/XQn03swUJJOIsVBs0XQ0hISFcSo2-fp92qcs.jpeg)
 Learn the 11 golden rules for handling files with Javascript like a pro! From error handling to security considerations, be a responsible programmer.
 
-### [188. Understanding the Javascript Array Reduce Method](https://hackernoon.com/understanding-the-javascript-array-reduce-method)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-pg93pt6.jpeg)
-The JS reduce method is a recursive way to perform a computation based on every element in the array while considering the previous elements of the array.
+### [187. State Storage in Chrome Extensions: Options, Limits, and Best Practices](https://hackernoon.com/state-storage-in-chrome-extensions-options-limits-and-best-practices)
+![](https://cdn.hackernoon.com/images/google-chrome-vpzv7kdgt2y0pd423hxwof8p.png)
+This guide explains the options and limitations state persistence when building Chrome extensions.
 
-### [189. The Top JavaScript Datagrids](https://hackernoon.com/the-top-javascript-datagrids)
+### [188. The Top JavaScript Datagrids](https://hackernoon.com/the-top-javascript-datagrids)
 ![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-vb0342s.png)
 Explore the top JavaScript Datagrids and their notable features for your applications in this review of leading options.
+
+### [189. Understanding the Javascript Array Reduce Method](https://hackernoon.com/understanding-the-javascript-array-reduce-method)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-pg93pt6.jpeg)
+The JS reduce method is a recursive way to perform a computation based on every element in the array while considering the previous elements of the array.
 
 ### [190. Defend your Node.js Apps With Jscrambler](https://hackernoon.com/how-to-protect-nodejs-apps-with-jscrambler)
 ![](https://cdn.hackernoon.com/images/1JNoLAkx1ZO5O8qO5dcdNjh6RQw1-x2a3fdg.jpeg)
@@ -779,319 +781,319 @@ This tutorial will explain how to integrate Jscrambler seamlessly into the build
 ![](https://cdn.hackernoon.com/images/l1m0jH88k2aMTkDZ6NfLrlB7sl63-1ng3ovy.jpeg)
 Startups choose JavaScript as main technology in 2022 thanks to impressive number of frameworks, its libraries and third-party APIs integrations.
 
-### [194. State Storage in Chrome Extensions: Options, Limits, and Best Practices](https://hackernoon.com/state-storage-in-chrome-extensions-options-limits-and-best-practices)
-![](https://cdn.hackernoon.com/images/google-chrome-vpzv7kdgt2y0pd423hxwof8p.png)
-This guide explains the options and limitations state persistence when building Chrome extensions.
-
-### [195. What is ECMAScript and How is it Different From JavaScript?](https://hackernoon.com/what-is-ecmascript-and-how-is-it-different-from-javascrip-m1263u76)
+### [194. What is ECMAScript and How is it Different From JavaScript?](https://hackernoon.com/what-is-ecmascript-and-how-is-it-different-from-javascrip-m1263u76)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2URpjmJLkjVeYGsWZeCo2hCb90Y2-up1g3yt6.jpeg?alt=media&token=5732d5b6-c303-4c6e-b10a-cd1decea1095)
 Many times developers use JavaScript and ECMAScript synonymously for each other. Though they are very closely linked to each other, it does not mean they are the same thing.
 
-### [196. Understanding Chrome V8 — Chapter 2: Hello World ](https://hackernoon.com/understanding-chrome-v8-chapter-2-hello-world)
+### [195. Understanding Chrome V8 — Chapter 2: Hello World ](https://hackernoon.com/understanding-chrome-v8-chapter-2-hello-world)
 ![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-mba3jua.jpeg)
 Welcome to other chapters of Let’s Understand Chrome V8 
+
+### [196. 10 JavaScript Interview Questions and Answers to Help you Land Your Next Role](https://hackernoon.com/10-javascript-interview-questions-and-answers-to-help-you-land-your-next-role)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-az93qbu.jpeg)
+10 JavaScript questions for experienced developers that can help you crack your next interview.
 
 ### [197. How to Build a Voice App in 30 Minutes](https://hackernoon.com/how-to-build-a-voice-app-in-30-minutes-uz6132kj)
 ![](https://images.unsplash.com/photo-1526398977052-654221a252b1?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 You have mastered building web apps. Maybe even building mobile apps. But what about these smart speakers that are now sitting in people's living rooms? What about our new found ability to talk to apps on our phones?
 
-### [198. 10 JavaScript Interview Questions and Answers to Help you Land Your Next Role](https://hackernoon.com/10-javascript-interview-questions-and-answers-to-help-you-land-your-next-role)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-az93qbu.jpeg)
-10 JavaScript questions for experienced developers that can help you crack your next interview.
-
-### [199. How to Use Data Grid to Render Great Info in Your Web Apps](https://hackernoon.com/how-to-use-data-grid-to-render-great-info-in-your-web-apps)
+### [198. How to Use Data Grid to Render Great Info in Your Web Apps](https://hackernoon.com/how-to-use-data-grid-to-render-great-info-in-your-web-apps)
 ![](https://cdn.hackernoon.com/images/3T7C9VLnvkbALyRtM666V4ptB0C3-oz93nb9.jpeg)
 Using a data grid is important if your web application renders a lot of data, such as tracking stats or reports.
+
+### [199. Using KeyExtractor in React Native's FlatList](https://hackernoon.com/using-keyextractor-in-react-natives-flatlist)
+![](https://cdn.hackernoon.com/images/oBJp5NI1CqWkTYoCtrcit0KrDza2-1v93jyw.jpeg)
+In React Native, the FlatList component works well to render a long list of data. 
 
 ### [200. How to Create and Connecting Redis to a Serverless Node.js App on Azure](https://hackernoon.com/how-to-create-and-connecting-redis-to-a-serverless-nodejs-app-on-azure)
 ![](https://cdn.hackernoon.com/images/rD3ZPSbOTDVcZgugSUvaEY2oV0x1-6le3rfb.jpeg)
 Hello, everyone! Today, we'll be diving into the fascinating world of software development, specifically dealing with Node.js, Azure and Redis.
 
-### [201. Using KeyExtractor in React Native's FlatList](https://hackernoon.com/using-keyextractor-in-react-natives-flatlist)
-![](https://cdn.hackernoon.com/images/oBJp5NI1CqWkTYoCtrcit0KrDza2-1v93jyw.jpeg)
-In React Native, the FlatList component works well to render a long list of data. 
-
-### [202. The 4 Main Principles of React That Made It So Popular](https://hackernoon.com/the-4-main-principles-of-react-that-made-it-so-popular)
+### [201. The 4 Main Principles of React That Made It So Popular](https://hackernoon.com/the-4-main-principles-of-react-that-made-it-so-popular)
 ![](https://cdn.hackernoon.com/images/E9wk9VmYAffu4uCpvu3n5aJXn1L2-69m2ftz.jpeg)
 React is popular for a reason. It offers not only a solid paradigm of programming but also makes code much more maintainable.
+
+### [202. Understanding Javascript's Array Slice Method](https://hackernoon.com/understanding-javascripts-array-slice-method)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-cb93p0l.jpeg)
+The slice method on arrays returns a shallow copy of a part of an array. It takes two numbers, a start, and an end. Every array has a slice method. 
 
 ### [203. 10 Fantastic JavaScript Projects for Beginners](https://hackernoon.com/10-fantastic-javascript-projects-for-beginners)
 ![](https://cdn.hackernoon.com/images/jAe8nDJHWuhNTYfeZVmoqHUgxXz2-4893pmi.jpeg)
 Here are 10 Fantastic JavaScript Projects for Beginners.
 
-### [204. Understanding Javascript's Array Slice Method](https://hackernoon.com/understanding-javascripts-array-slice-method)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-cb93p0l.jpeg)
-The slice method on arrays returns a shallow copy of a part of an array. It takes two numbers, a start, and an end. Every array has a slice method. 
-
-### [205. 5 Best Practices to Follow for Node.js Development](https://hackernoon.com/5-best-practices-to-follow-for-nodejs-development)
-![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-9g039ja.jpeg)
-Node.js has become popular among developers. The rising popularity has dramatically changed the face of web development.
-
-### [206. Dynamic Programming: Using Memoization to Improve Your Javascript Functions](https://hackernoon.com/dynamic-programming-using-memoization-to-improve-your-javascript-functions)
-![](https://cdn.hackernoon.com/images/vJZjNRXjG5OwQ3VPCR4tScyGSEC3-l6a2hbe.jpeg)
-In this article, we will learn about what memoization is, what value memoization provides to Javascript developers, and how to use it to improve JS functions.
-
-### [207. Checking if a Value is a Number in Javascript with isNaN()](https://hackernoon.com/checking-if-a-value-is-a-number-in-javascript-with-isnan)
+### [204. Checking if a Value is a Number in Javascript with isNaN()](https://hackernoon.com/checking-if-a-value-is-a-number-in-javascript-with-isnan)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-wt93sqf.jpeg)
 In Javascript, we have numerous ways to check if something is or is not a number.
 
-### [208. What is JavaScript? - A Beginner's Guide](https://hackernoon.com/what-is-javascript-a-beginners-guide)
+### [205. Dynamic Programming: Using Memoization to Improve Your Javascript Functions](https://hackernoon.com/dynamic-programming-using-memoization-to-improve-your-javascript-functions)
+![](https://cdn.hackernoon.com/images/vJZjNRXjG5OwQ3VPCR4tScyGSEC3-l6a2hbe.jpeg)
+In this article, we will learn about what memoization is, what value memoization provides to Javascript developers, and how to use it to improve JS functions.
+
+### [206. 5 Best Practices to Follow for Node.js Development](https://hackernoon.com/5-best-practices-to-follow-for-nodejs-development)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-9g039ja.jpeg)
+Node.js has become popular among developers. The rising popularity has dramatically changed the face of web development.
+
+### [207. What is JavaScript? - A Beginner's Guide](https://hackernoon.com/what-is-javascript-a-beginners-guide)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-si93keq.jpeg)
 An overview of the JavaScript programming language, its uses, basic concepts, and brief history, all tailored for beginners.
 
-### [209. 10+ Ridiculously Cool Admin Themes And Templates](https://hackernoon.com/10-ridiculously-cool-admin-themes-and-templates-3lw338l)
+### [208. 10+ Ridiculously Cool Admin Themes And Templates](https://hackernoon.com/10-ridiculously-cool-admin-themes-and-templates-3lw338l)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-1jk339y.jpeg)
 In today’s article, we will have a quick look at 10 admin templates and themes that are simple to use and good to look at.
 
-### [210. Learn Fundamentals of JavaScript : Number Variable, Multiple Variables, Booleans, Strings](https://hackernoon.com/learn-fundamentals-of-javascript-number-variable-multiple-variables-booleans-strings)
+### [209. Learn Fundamentals of JavaScript : Number Variable, Multiple Variables, Booleans, Strings](https://hackernoon.com/learn-fundamentals-of-javascript-number-variable-multiple-variables-booleans-strings)
 ![](https://cdn.hackernoon.com/images/Z7fkxfDpjOT4JTLVKWPSiyFHz1j1-lla2amd.jpeg)
 After exams and lots of procrastination, I finally resumed my #100DaysOfCode journey with JavaScript
 
-### [211. The ABCs of JavaScript: apply, bind, and call](https://hackernoon.com/the-abcs-of-javascript-apply-bind-and-call-up4c33ld)
+### [210. The ABCs of JavaScript: apply, bind, and call](https://hackernoon.com/the-abcs-of-javascript-apply-bind-and-call-up4c33ld)
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-y18832fn.jpeg)
 The ABCs of Javascript are: A - apply(), B - bind(), and C - call(). Using them, we can set what 'this' should refer to.
 
-### [212. 20 JavaScript Libraries Every Programmer Should Know](https://hackernoon.com/20-javascript-libraries-every-programmer-should-know-883w34ic)
+### [211. 20 JavaScript Libraries Every Programmer Should Know](https://hackernoon.com/20-javascript-libraries-every-programmer-should-know-883w34ic)
 ![](https://cdn.hackernoon.com/images/RV7pi7rhFfPvU6Z2JzjXQYzBQ3c2-4lq347q.jpeg)
 A JavaScript library is a library of pre-written JavaScript that allows for easier development of JavaScript-based applications
 
-### [213. 6 Reasons why JavaScript is the GOAT of Programming Languages](https://hackernoon.com/6-reasons-why-javascript-is-the-goat)
+### [212. 6 Reasons why JavaScript is the GOAT of Programming Languages](https://hackernoon.com/6-reasons-why-javascript-is-the-goat)
 ![](https://cdn.hackernoon.com/images/TqjYgi5ui3Nr0brkDUy9j1XhOUx2-tu92mmn.jpeg)
 Often considered as a tool to build applications in your web browser, JavaScript can also be used as a general-purpose scripting language. Discover why
 
-### [214. How to Reduce Response Times and Improve Performance with Redis Caching](https://hackernoon.com/how-to-reduce-response-times-and-improve-performance-with-redis-caching)
+### [213. How to Reduce Response Times and Improve Performance with Redis Caching](https://hackernoon.com/how-to-reduce-response-times-and-improve-performance-with-redis-caching)
 ![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-n793pyq.jpeg)
 Learn how to improve the performance of your web application by caching API requests with Redis and Node.js. Reduce response time and increase efficiency by sto
 
-### [215. Determine Whether an Array in JavaScript Is a Subset of Another Array](https://hackernoon.com/determine-whether-an-array-in-javascript-is-a-subset-of-another-array)
+### [214. Determine Whether an Array in JavaScript Is a Subset of Another Array](https://hackernoon.com/determine-whether-an-array-in-javascript-is-a-subset-of-another-array)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-24a3s7o.png)
 There are many cases where knowing when an array is a subset of another can be pretty useful.
 
-### [216. 10 Resources That’ll Make You Better At Dashboard Creation](https://hackernoon.com/10-resources-thatll-make-you-better-at-dashboard-creation)
+### [215. 10 Resources That’ll Make You Better At Dashboard Creation](https://hackernoon.com/10-resources-thatll-make-you-better-at-dashboard-creation)
 ![](https://cdn.hackernoon.com/images/3T7C9VLnvkbALyRtM666V4ptB0C3-a293nkn.jpeg)
 More and more organizations rely on business dashboards for various reasons – including gaining critical insights into their data, monitoring and tracking key performance indicators, studying past performance, and predicting future trends. 
 
-### [217. Let’s Understand Chrome V8 — Chapter 8: V8 Interpreter Ignition](https://hackernoon.com/lets-understand-chrome-v8-chapter-8-v8-interpreter-ignition)
+### [216. Let’s Understand Chrome V8 — Chapter 8: V8 Interpreter Ignition](https://hackernoon.com/lets-understand-chrome-v8-chapter-8-v8-interpreter-ignition)
 ![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-zg93jaw.jpeg)
 "Let's Understand Chrome V8" is serial technology articles that explain the V8 code, it covers many V8 kernel functions and fundamentals.
 
-### [218. A Quick Look at NodeLists and How They Work](https://hackernoon.com/a-quick-look-at-nodelists-and-how-they-work)
+### [217. A Quick Look at NodeLists and How They Work](https://hackernoon.com/a-quick-look-at-nodelists-and-how-they-work)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-3ha3o1b.jpeg)
 Did you know that Javascript does not class a selection of multiple elements as an array?
 
-### [219. How to Determine Whether a JavaScript Object Is Empty](https://hackernoon.com/how-to-determine-whether-a-javascript-object-is-empty)
+### [218. How to Determine Whether a JavaScript Object Is Empty](https://hackernoon.com/how-to-determine-whether-a-javascript-object-is-empty)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-ygc3shd.jpeg)
 Defining a new object in Javascript is pretty easy - but what if you want to find out if it's empty?
 
-### [220. Evaluating Conditional Statements in JavaScript ](https://hackernoon.com/evaluating-conditional-statements-in-javascript)
+### [219. Evaluating Conditional Statements in JavaScript ](https://hackernoon.com/evaluating-conditional-statements-in-javascript)
 ![](https://cdn.hackernoon.com/images/XWk05i8rnIh4jD7Lpxp4izORJrq2-v793qwx.jpeg)
 Let's learn about the JavaScript conditional statements!
 
-### [221. How to Achieve Schema and Validation in NoSQL Using Ottoman and Couchbase](https://hackernoon.com/how-to-achieve-schema-and-validation-in-nosql-using-ottoman-and-couchbase-8n1z35cq)
-![](https://cdn.hackernoon.com/images/BgHW3YNONNccYOFle6n2wM6EQVz1-qth3331.jpeg)
-Ottoman is an Object Data Modeler (ODM) for Couchbase's Node.js SDK providing JSON schema and validation for a NoSQL database.
-
-### [222. VS Code Extensions to Power Up Your JavaScript Development](https://hackernoon.com/vs-code-extensions-to-power-up-your-javascript-development)
+### [220. VS Code Extensions to Power Up Your JavaScript Development](https://hackernoon.com/vs-code-extensions-to-power-up-your-javascript-development)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-09931jm.jpeg)
 Important VS Code Extensions for JavaScript Developers.
 
-### [223. Understanding Chrome V8 — Chapter 15: Debugging in V8 More Easily](https://hackernoon.com/understanding-chrome-v8-chapter-15-debugging-in-v8-more-easily)
+### [221. Understanding Chrome V8 — Chapter 15: Debugging in V8 More Easily](https://hackernoon.com/understanding-chrome-v8-chapter-15-debugging-in-v8-more-easily)
 ![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-j193j2r.jpeg)
 "Let's Understand Chrome V8" are serial technology articles that explain the V8 code, it covers many V8 kernel functions and fundamentals.
 
-### [224. How to Update and Support URL Parameters in JavaScript](https://hackernoon.com/how-to-update-and-support-url-parameters-in-javascript)
+### [222. How to Achieve Schema and Validation in NoSQL Using Ottoman and Couchbase](https://hackernoon.com/how-to-achieve-schema-and-validation-in-nosql-using-ottoman-and-couchbase-8n1z35cq)
+![](https://cdn.hackernoon.com/images/BgHW3YNONNccYOFle6n2wM6EQVz1-qth3331.jpeg)
+Ottoman is an Object Data Modeler (ODM) for Couchbase's Node.js SDK providing JSON schema and validation for a NoSQL database.
+
+### [223. How to Update and Support URL Parameters in JavaScript](https://hackernoon.com/how-to-update-and-support-url-parameters-in-javascript)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-uq93pbd.png)
 A look at writing a web application that can save it's state to the URL, making it easier to share state with others.
 
-### [225. 7 Tips For Becoming A Better JavaScript Developer](https://hackernoon.com/7-tips-for-becoming-a-better-javascript-developer-bw1w32mt)
+### [224. 7 Tips For Becoming A Better JavaScript Developer](https://hackernoon.com/7-tips-for-becoming-a-better-javascript-developer-bw1w32mt)
 ![](https://cdn.hackernoon.com/images/VQee2H7b9MdqlHMpVjYYgK9YsSu2-3k1033qr.jpeg)
 Sometimes I find myself going through the same steps when I work on different projects. These are just some of the things I've found helpful over the years.
 
-### [226. How To Future-Proof Your React File Uploader](https://hackernoon.com/how-to-future-proof-your-react-file-uploader)
+### [225. How To Future-Proof Your React File Uploader](https://hackernoon.com/how-to-future-proof-your-react-file-uploader)
 ![](https://cdn.hackernoon.com/images/0sm1KIKmbZhu9AD2GAr4cKywoN43-gy93nrq.jpeg)
 Web developers who want to build an application using ReactJS must consider the react file upload to ensure that users can upload any file they need.
+
+### [226. How to Install NVM to Manage Node Versions Easily](https://hackernoon.com/how-to-install-nvm-to-manage-node-versions-easily)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-d093off.jpeg)
+nvm is used to manage the versions of Node.js installed on your computer, so it's a really useful tool.
 
 ### [227. Building Your Own BMI Calculator: A Step-by-Step Guide](https://hackernoon.com/building-your-own-bmi-calculator-a-step-by-step-guide)
 ![](https://cdn.hackernoon.com/images/36JsQ9cMvBffzf3fNJjP0R8jnwg2-wa93pl6.jpeg)
 This is a simple BMI Calculator made with pure HTML, CSS & JavaScript.
 
 
-### [228. How to Install NVM to Manage Node Versions Easily](https://hackernoon.com/how-to-install-nvm-to-manage-node-versions-easily)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-d093off.jpeg)
-nvm is used to manage the versions of Node.js installed on your computer, so it's a really useful tool.
-
-### [229. Let’s Understand Chrome V8 — Chapter 7: Stack Frame ](https://hackernoon.com/lets-understand-chrome-v8-chapter-7-stack-frame)
+### [228. Let’s Understand Chrome V8 — Chapter 7: Stack Frame ](https://hackernoon.com/lets-understand-chrome-v8-chapter-7-stack-frame)
 ![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-tp93jkf.jpeg)
 "Let's Understand Chrome V8" are serial technology articles that explain the V8 code, it covers many V8 kernel functions and fundamentals.
 
-### [230. A/B Experiments with Statsig Layers](https://hackernoon.com/ab-experiments-with-statsig-layers)
+### [229. A/B Experiments with Statsig Layers](https://hackernoon.com/ab-experiments-with-statsig-layers)
 ![](https://cdn.hackernoon.com/images/KxRkTgv1gpSPa9SHlryZYBtdbac2-ci93j27.png)
 A/B Experiments with Statsig Layers
 
-### [231. Understanding Chrome V8 - Chapter 17: How Chrome Implements the JavaScript Object](https://hackernoon.com/understanding-chrome-v8-chapter-17-how-chrome-implements-the-javascript-object)
+### [230. Understanding Chrome V8 - Chapter 17: How Chrome Implements the JavaScript Object](https://hackernoon.com/understanding-chrome-v8-chapter-17-how-chrome-implements-the-javascript-object)
 ![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-vn93jrh.jpeg)
 "Let's Understand Chrome V8" are serial technology articles that explain the V8 code, it covers many V8 kernel functions and fundamentals.
 
-### [232. Setup Environment Variables for Web Dev projects [A How To Guide]](https://hackernoon.com/how-to-setup-environment-variables-for-web-dev-projects-h83o3yfu)
+### [231. Setup Environment Variables for Web Dev projects [A How To Guide]](https://hackernoon.com/how-to-setup-environment-variables-for-web-dev-projects-h83o3yfu)
 ![](https://cdn.hackernoon.com/drafts/2l3h325n.png)
 Setting up Environment Variables is the best practices in web dev world. But it seems troublesome for most people in practices, so few applied it. Well, it actually not that hard and it is necessary in most cases, let me show how you in this article. 
 
-### [233. 7 Optimization Recommendations for JavaScript Developers](https://hackernoon.com/7-optimization-recommendations-for-javascript-developers)
-![](https://cdn.hackernoon.com/images/7DtulTMuZUNhuHGe0I2LlQhRAdu1-0193q0o.jpeg)
-In this article, I'll share 7 optimization tips that every JavaScript developer should know.
-
-### [234. TypeScript vs JavaScript: Understanding the Differences](https://hackernoon.com/the-difference-between-typescript-and-javascript)
+### [232. TypeScript vs JavaScript: Understanding the Differences](https://hackernoon.com/the-difference-between-typescript-and-javascript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-wg93pnd.jpeg)
  In this guide, I'll explain exactly what TypeScript is and why it's different from Javascript. 
 
-### [235. CheatSheet: 20 JavaScript Array Methods](https://hackernoon.com/cheatsheet-20-javascript-array-methods)
-![](https://cdn.hackernoon.com/images/IwasHOxtJGhHQhXIk72ArsvJjMq1-exb3vac.jpeg)
-Arrays are objects that enable storing a collection of items and data under a single variable name and have the capability to perform a certain operation.
-
-### [236. JavaScript Ordinals: Adding st, nd, rd and th Suffixes to a Number](https://hackernoon.com/javascript-ordinals-adding-st-nd-rd-and-th-suffixes-to-a-number)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-wr93sby.jpeg)
-In Javascript, it's usually considered best practice to work with absolute numbers, as number is a defined type. However, when expressing these numbers in user 
-
-### [237. How To Enhance JavaScript File Upload Experience In Your Web App](https://hackernoon.com/how-to-enhance-javascript-file-upload-experience-in-your-web-app)
-![](https://cdn.hackernoon.com/images/0sm1KIKmbZhu9AD2GAr4cKywoN43-vh93jb6.jpeg)
-Many web applications collect information from the selected files and transmit it to the page. While a basic upload form can do the trick, an API service is needed to expand on modern features. 
-
-### [238. Drag, Drop, and Dominate: The Best Pivot Table Libraries for Web Apps](https://hackernoon.com/drag-drop-and-dominate-the-best-pivot-table-libraries-for-web-apps)
+### [233. Drag, Drop, and Dominate: The Best Pivot Table Libraries for Web Apps](https://hackernoon.com/drag-drop-and-dominate-the-best-pivot-table-libraries-for-web-apps)
 ![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-bl934c3.png)
 Explore the top JavaScript pivot table and OLAP tools and their notable features for your applications in this review of leading options.
 
-### [239. I'm Also Done Writing npm (Sort of)](https://hackernoon.com/im-also-done-writing-npm-sort-of)
-![](https://cdn.hackernoon.com/images/en50jIdQoYMl0e7rVSV8mqdVXFZ2-sy9362s.jpeg)
-Are you weary of remembering which package manager you utilized for each project you wrote or tested? We have an effective solution.
+### [234. 7 Optimization Recommendations for JavaScript Developers](https://hackernoon.com/7-optimization-recommendations-for-javascript-developers)
+![](https://cdn.hackernoon.com/images/7DtulTMuZUNhuHGe0I2LlQhRAdu1-0193q0o.jpeg)
+In this article, I'll share 7 optimization tips that every JavaScript developer should know.
 
-### [240. 3 Things You Will Love About Micro Frontends](https://hackernoon.com/3-things-you-will-love-about-micro-frontends)
-![](https://cdn.hackernoon.com/images/lmcwhIPXHyPIgqoOoDrA9xd8umf1-dyb3ok6.jpeg)
-3 cool things that will make you love micro frontend architecture - flexibility in managing codebase, a wide choice of frameworks, and independent deployments.
+### [235. JavaScript Ordinals: Adding st, nd, rd and th Suffixes to a Number](https://hackernoon.com/javascript-ordinals-adding-st-nd-rd-and-th-suffixes-to-a-number)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-wr93sby.jpeg)
+In Javascript, it's usually considered best practice to work with absolute numbers, as number is a defined type. However, when expressing these numbers in user 
 
-### [241. How I Adopted the Model, View, Controller (MVC) Architectural Pattern in JavaScript](https://hackernoon.com/how-i-adopted-the-model-view-controller-mvc-architectural-pattern-in-javascript-x45p32i3)
-![](https://cdn.hackernoon.com/images/ii6sw326z.jpg)
-...for Better Code Separation
+### [236. CheatSheet: 20 JavaScript Array Methods](https://hackernoon.com/cheatsheet-20-javascript-array-methods)
+![](https://cdn.hackernoon.com/images/IwasHOxtJGhHQhXIk72ArsvJjMq1-exb3vac.jpeg)
+Arrays are objects that enable storing a collection of items and data under a single variable name and have the capability to perform a certain operation.
 
-### [242. How I Created My First Google Sheets Add-On and Why You Should Try It Too](https://hackernoon.com/how-i-created-my-first-google-sheets-add-on-and-why-you-should-try-it-too)
-![](https://cdn.hackernoon.com/images/HE6x84cnhCRlNTrNStEwshag9Ql1-3wb3p4x.jpeg)
-In this article, I'll share my story of how I created my first Google Sheets add-on. 
-
-### [243. Building Blocks of DOM Manipulation - Vanilla JS Tutorial (Part One)](https://hackernoon.com/building-blocks-of-dom-manipulation-vanilla-js-tutorial-part-one-dy54356y)
+### [237. Building Blocks of DOM Manipulation - Vanilla JS Tutorial (Part One)](https://hackernoon.com/building-blocks-of-dom-manipulation-vanilla-js-tutorial-part-one-dy54356y)
 ![](https://cdn.hackernoon.com/images/Leo4OZTSXUZzooAPCmafUlbqBo63-x6cq33fd.jpeg)
 Learn the basics of DOM manipulation with Vanilla JS including set up, document.createElement(, .textContent, and more.
 
-### [244. Understanding Optional Chaining in JavaScript ](https://hackernoon.com/understanding-optional-chaining-in-javascript)
+### [238. How I Created My First Google Sheets Add-On and Why You Should Try It Too](https://hackernoon.com/how-i-created-my-first-google-sheets-add-on-and-why-you-should-try-it-too)
+![](https://cdn.hackernoon.com/images/HE6x84cnhCRlNTrNStEwshag9Ql1-3wb3p4x.jpeg)
+In this article, I'll share my story of how I created my first Google Sheets add-on. 
+
+### [239. How To Enhance JavaScript File Upload Experience In Your Web App](https://hackernoon.com/how-to-enhance-javascript-file-upload-experience-in-your-web-app)
+![](https://cdn.hackernoon.com/images/0sm1KIKmbZhu9AD2GAr4cKywoN43-vh93jb6.jpeg)
+Many web applications collect information from the selected files and transmit it to the page. While a basic upload form can do the trick, an API service is needed to expand on modern features. 
+
+### [240. I'm Also Done Writing npm (Sort of)](https://hackernoon.com/im-also-done-writing-npm-sort-of)
+![](https://cdn.hackernoon.com/images/en50jIdQoYMl0e7rVSV8mqdVXFZ2-sy9362s.jpeg)
+Are you weary of remembering which package manager you utilized for each project you wrote or tested? We have an effective solution.
+
+### [241. 3 Things You Will Love About Micro Frontends](https://hackernoon.com/3-things-you-will-love-about-micro-frontends)
+![](https://cdn.hackernoon.com/images/lmcwhIPXHyPIgqoOoDrA9xd8umf1-dyb3ok6.jpeg)
+3 cool things that will make you love micro frontend architecture - flexibility in managing codebase, a wide choice of frameworks, and independent deployments.
+
+### [242. How I Adopted the Model, View, Controller (MVC) Architectural Pattern in JavaScript](https://hackernoon.com/how-i-adopted-the-model-view-controller-mvc-architectural-pattern-in-javascript-x45p32i3)
+![](https://cdn.hackernoon.com/images/ii6sw326z.jpg)
+...for Better Code Separation
+
+### [243. Understanding Optional Chaining in JavaScript ](https://hackernoon.com/understanding-optional-chaining-in-javascript)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-it93pl5.jpeg)
 Optional chaining is a modern language feature that allows you to safely navigate through and access deeply nested object properties.
 
-### [245. Javascript Cheatsheet: Spread Operators ](https://hackernoon.com/javascript-cheatsheet-spread-operators)
+### [244. Javascript Cheatsheet: Spread Operators ](https://hackernoon.com/javascript-cheatsheet-spread-operators)
 ![](https://cdn.hackernoon.com/images/CgwKts4sVugksXLr8a82EIIKfpB2-ub93jhm.png)
 This Javascript Cheatsheet for Spread Operators explains the use case scenarios and the basic concepts behind Spread Operators when coding in Javascript.
 
-### [246. From Zero to AI Image Analyzer in 5 Minutes: A Beginner's Guide](https://hackernoon.com/from-zero-to-ai-image-analyzer-in-5-minutes-a-beginners-guide)
+### [245. From Zero to AI Image Analyzer in 5 Minutes: A Beginner's Guide](https://hackernoon.com/from-zero-to-ai-image-analyzer-in-5-minutes-a-beginners-guide)
 ![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-yx824jp.jpeg)
 This article shows you how to build an AI image analyzer. We will use Project IDX and the Gemini API. 
 
-### [247. Reading Uploaded File Content in JavaScript](https://hackernoon.com/reading-uploaded-file-content-in-javascript)
+### [246. Reading Uploaded File Content in JavaScript](https://hackernoon.com/reading-uploaded-file-content-in-javascript)
 ![](https://cdn.hackernoon.com/images/0sm1KIKmbZhu9AD2GAr4cKywoN43-e993nt3.jpeg)
 Web developers have many reasons to read uploaded file content in JavaScript. 
 
-### [248. JavaScript's Clipboard Copy: Crafting with AI](https://hackernoon.com/javascripts-clipboard-copy-crafting-with-ai)
+### [247. JavaScript's Clipboard Copy: Crafting with AI](https://hackernoon.com/javascripts-clipboard-copy-crafting-with-ai)
 ![](https://cdn.hackernoon.com/images/EVKIyOE5g0e70Zsmj3IswB8Udbk2-hr936bf.jpeg)
 Dive into a reusable JavaScript Clipboard Copy Function crafted with AI, highlighting error handling & best practices.
 
-### [249. Svelte UI: The JS Framework Shaping Tomorrow's Web Development](https://hackernoon.com/svelte-ui-the-js-framework-shaping-tomorrows-web-development)
+### [248. Svelte UI: The JS Framework Shaping Tomorrow's Web Development](https://hackernoon.com/svelte-ui-the-js-framework-shaping-tomorrows-web-development)
 ![](https://cdn.hackernoon.com/images/ITO9azZldqMe7HHHhT7vijMic5E3-rs8336y.jpeg)
 In an evolving world of web development, making the most suitable choice of UI frameworks can greatly impact the efficiency and quality of your applications. 
 
-### [250. How to Recreate the Iconic Mr Potato Head 🥔 with Vanilla Javascript](https://hackernoon.com/how-to-recreate-the-iconic-mr-potato-head-with-vanilla-javascript-ny293exp)
+### [249. How to Recreate the Iconic Mr Potato Head 🥔 with Vanilla Javascript](https://hackernoon.com/how-to-recreate-the-iconic-mr-potato-head-with-vanilla-javascript-ny293exp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY5pgfcYeb2WkzcbAON1f4rfpLAW2-oh2q3tyf.jpeg?alt=media&token=603b5b8f-c9ae-4348-a06f-a10e6072c8ad)
 Who doesn't like Mr. and Mrs. Potato Head!
 
-### [251. How to Write Your First Unit Test With Jasmine](https://hackernoon.com/how-to-write-your-first-unit-test-with-jasmine)
+### [250. How to Write Your First Unit Test With Jasmine](https://hackernoon.com/how-to-write-your-first-unit-test-with-jasmine)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-xv92dzb.jpeg)
 Let’s take a more practical look at a simple case for testing.
+
+### [251. A Step by Step Guide to JavaScript Localization](https://hackernoon.com/a-step-by-step-guide-to-javascript-localization)
+![](https://cdn.hackernoon.com/images/IzBcwKW22YbKX9ISDhGhrR1eFst1-3x934nr.jpeg)
+JavaScript Localization Guide
 
 ### [252. How Memoization Can Help You Boost Your Javascript Code](https://hackernoon.com/how-memoization-can-help-you-boost-your-javascript-code)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-6u93pjh.jpeg)
 Memoization is a technique that saves the results of executing functions to avoid recalculations. In this article, we will use this to find Fibonacci numbers.
 
-### [253. A Step by Step Guide to JavaScript Localization](https://hackernoon.com/a-step-by-step-guide-to-javascript-localization)
-![](https://cdn.hackernoon.com/images/IzBcwKW22YbKX9ISDhGhrR1eFst1-3x934nr.jpeg)
-JavaScript Localization Guide
-
-### [254. 5 React Frameworks That Could Help You Speed Up Dev Time](https://hackernoon.com/the-best-react-frameworks-to-help-you-get-to-production-faster)
+### [253. 5 React Frameworks That Could Help You Speed Up Dev Time](https://hackernoon.com/the-best-react-frameworks-to-help-you-get-to-production-faster)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-7293zi9.jpeg)
 Here are 5 React frameworks that could speed up your development time when building a web application.
 
-### [255. JavaScript Maps: Everything You Need to Know](https://hackernoon.com/javascript-maps-everything-you-need-to-know)
+### [254. JavaScript Maps: Everything You Need to Know](https://hackernoon.com/javascript-maps-everything-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-p893pta.png)
 You might be using Javascript plain old objects right now when a map may be a better solution to your problem.
 
-### [256. Understanding Chrome V8 — Chapter 1：Checkout, Build, Run V8 ](https://hackernoon.com/understanding-chrome-v8-chapter-1checkout-build-run-v8)
+### [255. Understanding Chrome V8 — Chapter 1：Checkout, Build, Run V8 ](https://hackernoon.com/understanding-chrome-v8-chapter-1checkout-build-run-v8)
 ![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-ek93j5i.jpeg)
 Welcome to the first chapter of Let’s Understand Chrome V8. 
 
-### [257. 20+ React Tools to Help You Become a More Productive Programmer ](https://hackernoon.com/20-react-tools-to-help-you-become-a-more-productive-programmer-ys3635li)
+### [256. 20+ React Tools to Help You Become a More Productive Programmer ](https://hackernoon.com/20-react-tools-to-help-you-become-a-more-productive-programmer-ys3635li)
 ![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-5dk35r6.png)
 The goal of this post is to provide you with tools you need to be more productive when developing React applications. 
 
-### [258. Top 7 Bootstrap Admin Dashboard Templates](https://hackernoon.com/top-7-bootstrap-admin-dashboard-templates-f4s3nhh)
+### [257. Top 7 Bootstrap Admin Dashboard Templates](https://hackernoon.com/top-7-bootstrap-admin-dashboard-templates-f4s3nhh)
 ![](https://cdn.hackernoon.com/drafts/3ndu3nrb.png)
 There is a huge number of admin dashboard templates on the internet and a significant number of free ones to download. They usually include such kind of things like graph/chart libraries, dashboard page, alert boxesbuttons, navigation schemes, icons, tables and so on. We will try to find some best suitable UI (user interface) toolkit for your project.
+
+### [258. Pocket Guide to Javascript Array Some Method](https://hackernoon.com/pocket-guide-to-javascript-array-some-method)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-sk93skq.jpeg)
+The some array method lets us check if some elements pass certain criteria. Let's look at how it works.
 
 ### [259. Next.JS vs. React: What Should You Use?](https://hackernoon.com/nextjs-vs-react-what-should-you-use)
 ![](https://cdn.hackernoon.com/images/0kymacDO55Vh1xdKhOVvdqBUy7G3-j493m8f.jpeg)
 React is a tool for building a front end. Next.js serves the same purpose. However, both instruments offer a slightly different set of features.
 
-### [260. Pocket Guide to Javascript Array Some Method](https://hackernoon.com/pocket-guide-to-javascript-array-some-method)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-sk93skq.jpeg)
-The some array method lets us check if some elements pass certain criteria. Let's look at how it works.
-
-### [261. Using Union Types to Improve Your TypeScript Code](https://hackernoon.com/using-union-types-to-improve-your-typescript-code)
+### [260. Using Union Types to Improve Your TypeScript Code](https://hackernoon.com/using-union-types-to-improve-your-typescript-code)
 ![](https://cdn.hackernoon.com/images/v2vbcF16oXZmHSCzmO79EscR2hQ2-ov93l20.jpeg)
 What are union types and how you can use them to your advantage!
 
-### [262. 19+ Javascript Plugins and Data Table Libraries to Make Your Life Easier](https://hackernoon.com/19-javascript-plugins-and-data-table-libraries-to-make-your-life-easier-bd2e355l)
+### [261. 19+ Javascript Plugins and Data Table Libraries to Make Your Life Easier](https://hackernoon.com/19-javascript-plugins-and-data-table-libraries-to-make-your-life-easier-bd2e355l)
 ![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-2hk35vl.jpeg)
 This time we want to introduce libraries for working with tables or grids, since tables are an important part of any great application. 
+
+### [262. 5 Data Visualization Widgets for Modern JavaScirpt Libraries](https://hackernoon.com/5-data-visualization-widgets-for-modern-javascirpt-libraries)
+![](https://cdn.hackernoon.com/images/CKmRGGkAYMW8guYVaoBjcds5HUt1-uq63785.jpeg)
+Data Visualisation is an incredibly important part of conveying information in the world. Getting the best widget types for Data Visualisation is a part of that
 
 ### [263. What's New in REACT 18: A Quick Overview](https://hackernoon.com/whats-new-in-react-18-a-quick-overview-tz5y35b0)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-ibt35zc.jpeg)
 This article considers the new features that have just be included to React 18, its applications, and other essential things that are worth knowing.
 
 
-### [264. 5 Data Visualization Widgets for Modern JavaScirpt Libraries](https://hackernoon.com/5-data-visualization-widgets-for-modern-javascirpt-libraries)
-![](https://cdn.hackernoon.com/images/CKmRGGkAYMW8guYVaoBjcds5HUt1-uq63785.jpeg)
-Data Visualisation is an incredibly important part of conveying information in the world. Getting the best widget types for Data Visualisation is a part of that
+### [264. dappKit:A Simpler Way to Start Your Web3 Project](https://hackernoon.com/dappkita-simpler-way-to-start-your-web3-project)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-v5930gb.jpeg)
+Start your own web3 app with just 3 lines of code. NFT, ERC-20 tokens, DeFi platforms, DAOs and more.
 
 ### [265. Why Do Programmers Choose to Learn Java as a Programming Language?](https://hackernoon.com/why-do-programmers-choose-to-learn-java-as-a-programming-language)
 ![](https://cdn.hackernoon.com/images/YxeikCmVwxTWERLHZSjS59TfD9v2-mbi3pqo.jpeg)
 What is the best programming language to learn for a developer? Can’t name the best, but yes, Java is surely one of the Best! You can dive in for the reasons.
 
-### [266. dappKit:A Simpler Way to Start Your Web3 Project](https://hackernoon.com/dappkita-simpler-way-to-start-your-web3-project)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-v5930gb.jpeg)
-Start your own web3 app with just 3 lines of code. NFT, ERC-20 tokens, DeFi platforms, DAOs and more.
-
-### [267. The Array Every Method in JavaScript](https://hackernoon.com/the-array-every-method-in-javascript)
+### [266. The Array Every Method in JavaScript](https://hackernoon.com/the-array-every-method-in-javascript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-5y93s5e.png)
 Sometimes, with arrays, we want to test every element for a certain condition.
 
-### [268. Understanding Chrome V8 - Chapter 22: Compiler Workflow Bytecode, Constant Pool](https://hackernoon.com/understanding-chrome-v8-chapter-22-compiler-workflow-bytecode-constant-pool)
+### [267. Understanding Chrome V8 - Chapter 22: Compiler Workflow Bytecode, Constant Pool](https://hackernoon.com/understanding-chrome-v8-chapter-22-compiler-workflow-bytecode-constant-pool)
 ![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-caa3jbd.jpeg)
 "Let's Understand Chrome V8" are serial technology articles that explain the V8 code, it covers many V8 kernel functions and fundamentals.
 
-### [269. Understanding Chrome V8 - Chapter 24: How does V8 Describe Your JavaScript Function](https://hackernoon.com/understanding-chrome-v8-chapter-24-how-does-v8-describe-your-javascript-function)
+### [268. Understanding Chrome V8 - Chapter 24: How does V8 Describe Your JavaScript Function](https://hackernoon.com/understanding-chrome-v8-chapter-24-how-does-v8-describe-your-javascript-function)
 ![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-nwa3j56.jpeg)
 "Let's Understand Chrome V8" are serial technology articles that explain the V8 code, it covers many V8 kernel functions and fundamentals.
 
-### [270. Comparing Node.js and PHP in 2022: Between Modernity and Tradition](https://hackernoon.com/comparing-nodejs-and-php-in-2022-between-modernity-and-tradition)
+### [269. Comparing Node.js and PHP in 2022: Between Modernity and Tradition](https://hackernoon.com/comparing-nodejs-and-php-in-2022-between-modernity-and-tradition)
 ![](https://cdn.hackernoon.com/images/6EORd3lScrVTxxVB0ulAUeFzv0E2-uh93jcg.jpeg)
 Want to know advantages, weak sides, and the types of projects that will better suit NODE.JS or PHP? Read our article!
 
-### [271. Unleashing the Power of JavaScript in Artificial Intelligence](https://hackernoon.com/unleashing-the-power-of-javascript-in-artificial-intelligence)
+### [270. Unleashing the Power of JavaScript in Artificial Intelligence](https://hackernoon.com/unleashing-the-power-of-javascript-in-artificial-intelligence)
 ![](https://cdn.hackernoon.com/images/XWk05i8rnIh4jD7Lpxp4izORJrq2-ta93xyp.jpeg)
 Unleashing the Power of JavaScript in Artificial Intelligence
+
+### [271. Javascript Sets: An Essential Guide](https://hackernoon.com/javascript-sets-an-essential-guide)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-4493pln.jpeg)
+A Set in Javascript is a unique list of values, similar to the set data type in Python.
 
 ### [272. Is Software Testing Really Worth It?](https://hackernoon.com/is-software-testing-really-worth-it)
 ![](https://cdn.hackernoon.com/images/e2JfHiXU5UW0mfMcGNSkgwTuP4K3-7ig3nmn.jpeg)
@@ -1101,13 +1103,13 @@ Over-testing and too strict dev and QA processes will slow you down and might da
 ![](https://cdn.hackernoon.com/images/GvaUlAhhRtfNi79Dei3C0qqsJWk1-w8n31pu.png)
 The map method is a part of ES6 that is especially useful for React developers. What is it and how does it work? Let's take a look.
 
-### [274. Javascript Sets: An Essential Guide](https://hackernoon.com/javascript-sets-an-essential-guide)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-4493pln.jpeg)
-A Set in Javascript is a unique list of values, similar to the set data type in Python.
-
-### [275. Javascript Array Concat Method](https://hackernoon.com/javascript-array-concat-method)
+### [274. Javascript Array Concat Method](https://hackernoon.com/javascript-array-concat-method)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-hh93sn1.jpeg)
 The concat method on arrays is used to take two arrays and concatenate them into one. 
+
+### [275. Calling Hugging Face AI From an Oracle Database Using JavaScript](https://hackernoon.com/calling-hugging-face-ai-from-an-oracle-database-using-javascript)
+![](https://cdn.hackernoon.com/images/oFcXyPmJpqb3FOyA7YV2WMjGWmq2-i6h3x25.png)
+In this blog, I will show you how to quickly create an entirely free app using a JavaScript program that runs within the free Oracle database and calls Hugging 
 
 ### [276. How to Remove Duplicate Elements in Javascript Arrays ](https://hackernoon.com/how-to-remove-duplicate-elements-in-javascript-arrays)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-n2f3sp2.jpeg)
@@ -1117,329 +1119,329 @@ Javascript arrays can contain duplicates - which is fine most of the time, but c
 ![](https://cdn.hackernoon.com/images/gnyfKpa42Tg3VsBOtfaRMvz66182-bn93nrk.png)
 How we chose our styling: ​​SASS vs CSS Modules vs CSS-In-JS
 
-### [278. 19 JavaScript Data Chart Libraries](https://hackernoon.com/19-javascript-data-chart-libraries-jj1435m7)
-![](https://cdn.hackernoon.com/images/CPZcQZuKTIRNEmHkkkOCBTvsTyd2-iyf2354s.jpeg)
-Javascript charting library is important when you need to present data in the most informative way. Check our top of the best JS chart libraries here!
-
-### [279. What are Truthy and Falsy Values in JavaScript?](https://hackernoon.com/what-are-truthy-and-falsy-values-in-javascript)
+### [278. What are Truthy and Falsy Values in JavaScript?](https://hackernoon.com/what-are-truthy-and-falsy-values-in-javascript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-94b3obp.jpeg)
 In JavaScript, things can be true, or false, but they can also be truthy or falsy.
 
-### [280. How to Send Emails Using an API](https://hackernoon.com/how-to-send-emails-using-an-api)
+### [279. 5 Simple Ways to Replace All String Occurrences in JavaScript](https://hackernoon.com/5-simple-ways-to-replace-all-string-occurrences-in-javascript)
+![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-j992kud.jpeg)
+Have you ever been in a situation where you had a string of text and wanted to replace all of its occurrences with something else?
+
+### [280. 19 JavaScript Data Chart Libraries](https://hackernoon.com/19-javascript-data-chart-libraries-jj1435m7)
+![](https://cdn.hackernoon.com/images/CPZcQZuKTIRNEmHkkkOCBTvsTyd2-iyf2354s.jpeg)
+Javascript charting library is important when you need to present data in the most informative way. Check our top of the best JS chart libraries here!
+
+### [281. How to Send Emails Using an API](https://hackernoon.com/how-to-send-emails-using-an-api)
 ![](https://cdn.hackernoon.com/images/zpA8BwP5iRUp1Yp5aGImZfUk4uw1-5r83quh.jpeg)
 To send emails from API, we need to configure Gmail with a number of settings.
 
-### [281. Calling Hugging Face AI From an Oracle Database Using JavaScript](https://hackernoon.com/calling-hugging-face-ai-from-an-oracle-database-using-javascript)
-![](https://cdn.hackernoon.com/images/oFcXyPmJpqb3FOyA7YV2WMjGWmq2-i6h3x25.png)
-In this blog, I will show you how to quickly create an entirely free app using a JavaScript program that runs within the free Oracle database and calls Hugging 
-
-### [282. 5 Simple Ways to Replace All String Occurrences in JavaScript](https://hackernoon.com/5-simple-ways-to-replace-all-string-occurrences-in-javascript)
-![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-j992kud.jpeg)
-Have you ever been in a situation where you had a string of text and wanted to replace all of its occurrences with something else?
+### [282. Let's Talk About Vanilla JavaScript: What Is Vanilla JS, and Why Should I Spend Any Time On It?](https://hackernoon.com/lets-talk-about-vanilla-javascript-what-is-vanilla-js-and-why-should-i-spend-any-time-on-it-sb2f3522)
+![](https://cdn.hackernoon.com/images/Leo4OZTSXUZzooAPCmafUlbqBo63-sdn33mj.jpeg)
+Know a little JavaScript, but can't do much with it yet? This tutorial, "Vanilla JS in the DOM", will help you understand the background of Vanilla Javascript.
 
 ### [283. 5 Exciting New JavaScript Features You Can Use Today](https://hackernoon.com/5-exciting-new-javascript-features-you-can-use-today)
 ![](https://cdn.hackernoon.com/images/Pag22dDowMftWpOYNEh2VnQtjy63-gy92rea.jpeg)
 5 Must-Know Features in JavaScript ES2022: Enhance Your Code and Boost Your Productivity
 
-### [284. Let's Talk About Vanilla JavaScript: What Is Vanilla JS, and Why Should I Spend Any Time On It?](https://hackernoon.com/lets-talk-about-vanilla-javascript-what-is-vanilla-js-and-why-should-i-spend-any-time-on-it-sb2f3522)
-![](https://cdn.hackernoon.com/images/Leo4OZTSXUZzooAPCmafUlbqBo63-sdn33mj.jpeg)
-Know a little JavaScript, but can't do much with it yet? This tutorial, "Vanilla JS in the DOM", will help you understand the background of Vanilla Javascript.
-
-### [285. The Ultimate JavaScript Beginner's Guide To Static Code Analysis](https://hackernoon.com/the-ultimate-javascript-beginners-guide-to-static-code-analysis-fe4u31ki)
+### [284. The Ultimate JavaScript Beginner's Guide To Static Code Analysis](https://hackernoon.com/the-ultimate-javascript-beginners-guide-to-static-code-analysis-fe4u31ki)
 ![](https://cdn.hackernoon.com/images/0I6R35A9RIUYkz5dLhzMlFeYfki2-q83p31kk.png)
 The answers to every what, why, when, and how about Static Code Analysis in JavaScript. Information about in-depth scanning, guard rails, and more.
 
-### [286. Power Up Your Logging in Node.js](https://hackernoon.com/power-up-your-logging-in-nodejs)
+### [285. Power Up Your Logging in Node.js](https://hackernoon.com/power-up-your-logging-in-nodejs)
 ![](https://cdn.hackernoon.com/images/9u6FwQhzjdOYa0Qc5R7bA7IyYAR2-7x93glv.jpeg)
 Power up your logging and build good developer habits. As your codebase grows you'll need to debug it more easily and one tool is logging.
 
-### [287. Let’s Understand Chrome V8 — Chapter 5: Compilation Parser](https://hackernoon.com/lets-understand-chrome-v8-chapter-5-compilation-parser)
-![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-yd93jtg.jpeg)
-In Chrome V8, the parser works with the scanner to create tokens to understand what functions it needs to carry out next, letting the browser work as intended. 
-
-### [288. Exploring Bitwise Operations in JavaScript: A Beginner's Guide](https://hackernoon.com/exploring-bitwise-operations-in-javascript-a-beginners-guide)
+### [286. Exploring Bitwise Operations in JavaScript: A Beginner's Guide](https://hackernoon.com/exploring-bitwise-operations-in-javascript-a-beginners-guide)
 ![](https://cdn.hackernoon.com/images/XlA9cknHGBbfyNT6GHhk5MAt5Qz1-5ua3ury.jpeg)
 Learn how to use & | ^ ~ << >> >>> operators in JS with clear examples. Demystify bitwise operations for a more powerful and efficient code.
 
-### [289. What are Generics in Java and How do they work? Explained with Examples](https://hackernoon.com/what-are-generics-in-java-and-how-do-they-work-explained-with-examples)
-![](https://cdn.hackernoon.com/images/NpqicsTECgcwu98XGUQQ1oo2kTJ2-fv93pbj.jpeg)
-Generics were introduced in version J2SE 5.0 of Java in 2004. It is a pure compile-time concept. 
-
-### [290. Let’s Understand Chrome V8 — Chapter 16: What is Runtime? Why is it important?](https://hackernoon.com/lets-understand-chrome-v8-chapter-16-what-is-runtime-why-is-it-important)
+### [287. Let’s Understand Chrome V8 — Chapter 16: What is Runtime? Why is it important?](https://hackernoon.com/lets-understand-chrome-v8-chapter-16-what-is-runtime-why-is-it-important)
 ![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-w493js8.jpeg)
 "Let's Understand Chrome V8" are serial technology articles that explain the V8 code, it covers many V8 kernel functions and fundamentals like runtime.
 
-### [291. Building a Simple Tic-Tac-Toe Game with JavaScript](https://hackernoon.com/building-a-simple-tic-tac-toe-game-with-javascript)
+### [288. What are Generics in Java and How do they work? Explained with Examples](https://hackernoon.com/what-are-generics-in-java-and-how-do-they-work-explained-with-examples)
+![](https://cdn.hackernoon.com/images/NpqicsTECgcwu98XGUQQ1oo2kTJ2-fv93pbj.jpeg)
+Generics were introduced in version J2SE 5.0 of Java in 2004. It is a pure compile-time concept. 
+
+### [289. Let’s Understand Chrome V8 — Chapter 5: Compilation Parser](https://hackernoon.com/lets-understand-chrome-v8-chapter-5-compilation-parser)
+![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-yd93jtg.jpeg)
+In Chrome V8, the parser works with the scanner to create tokens to understand what functions it needs to carry out next, letting the browser work as intended. 
+
+### [290. Building a Simple Tic-Tac-Toe Game with JavaScript](https://hackernoon.com/building-a-simple-tic-tac-toe-game-with-javascript)
 ![](https://cdn.hackernoon.com/images/awSK9UBJcfNNXiYmqyT1Ihlw5Hr2-sp93qrm.jpeg)
 In this article, we will be building a simple version of Tic Tac Toe using HTML, CSS, and JavaScript.
 
 
 
-### [292. Node.js Vs AngularJS: Which is Best for your Web App?](https://hackernoon.com/nodejs-vs-angularjs-which-is-best-for-your-web-app)
-![](https://cdn.hackernoon.com/images/TvTYNUYMkbMcEoiUNlmIK59YQI63-8l93o3e.jpeg)
-Now when you understand well the difference between both the platforms, you must agree with the fact that both the platforms are great as well in their respect.
-
-### [293. 6 Things You Should Not Do in JavaScript](https://hackernoon.com/6-things-you-should-not-do-in-javascript)
-![](https://cdn.hackernoon.com/images/XIlys8PrM8eJ7n0qjETjuC0lbkB2-f093or8.jpeg)
-In JavaScript, there are many ways to do the same things. But not all of them are equally good. And some of them you should not use at all.
-
-### [294. Using the Spread Operator in JavaScript](https://hackernoon.com/using-the-spread-operator-in-javascript-423t35fn)
-![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-gl6s35qt.jpeg)
-This article will cover the spread operator and how you can use them in your day to day JavaScript programming. This article assumes you have some familiarity with coding in the JavaScript ecosystem.
-
-### [295. New Tool Promises Faster Websites with Streamlined Server-Rendered UI](https://hackernoon.com/new-tool-promises-faster-websites-with-streamlined-server-rendered-ui)
-![](https://cdn.hackernoon.com/images/H6pNSrxheNN7LckaN9kY34XDGgF3-n7036ue.png)
-The HMPL project is a small template language for displaying UI from server to client. 
-
-### [296. The JavaScript Logical OR Operator: How Does it Work?](https://hackernoon.com/the-javascript-logical-or-operator-how-does-it-work)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-ho93orn.jpeg)
-The logical OR operator in JavaScript is an operator which returns the left-hand side if it is truthy, but otherwise defaults and return the right-hand side.
-
-### [297. Implementing Infinite Scroll with Vanilla JS: It's Easy as A.B.C & D](https://hackernoon.com/implementing-infinite-scroll-with-vanilla-js-its-easy-as-abc-and-d)
-![](https://cdn.hackernoon.com/images/W52YwjC3ouZdnCcU474aDrPsYbg2-kai4584.gif)
-This article will focus on how to use JavaScript to make use of some properties to achieve infinite scroll.
-
-### [298. Let’s Understand Chrome V8 — Chapter 9: Builtin](https://hackernoon.com/lets-understand-chrome-v8-chapter-9-builtin)
-![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-sq93joo.jpeg)
-"Let's Understand Chrome V8" are serial technology articles that explain the V8 code, it covers many V8 kernel functions and fundamentals.
-
-### [299. JavaScript Challenges: Prime Numbers & Sophie Germain Primes](https://hackernoon.com/javascript-challenges-prime-numbers-and-sophie-germain-primes)
-![](https://cdn.hackernoon.com/images/prime-numbers-clbyx1s3t000001s6anfqhuuh.png)
-Let's create a function that will return true if string is a prime number and return false if a number is not a prime.
-
-### [300. JavaScript Loops: for/forEach/for.. in/for.. of Explained](https://hackernoon.com/javascript-loops-forforeachfor-infor-of-explained)
+### [291. JavaScript Loops: for/forEach/for.. in/for.. of Explained](https://hackernoon.com/javascript-loops-forforeachfor-infor-of-explained)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-8293sm4.jpeg)
 There are quite a few ways in Javascript to loop through an array of items or any other iterable item in Javascript. You may have seen them:
 
 
 
-### [301. Making Debugging Easy With Console Wrangling](https://hackernoon.com/making-debugging-easy-with-console-wrangling)
-![](https://cdn.hackernoon.com/images/b66oRVnNiXgYlaoE0y90ySkK6Up1-bie3q8u.jpeg)
-Here we talk about two of the functions available on the console object: console.table() and console.trace(). 
+### [292. 6 Things You Should Not Do in JavaScript](https://hackernoon.com/6-things-you-should-not-do-in-javascript)
+![](https://cdn.hackernoon.com/images/XIlys8PrM8eJ7n0qjETjuC0lbkB2-f093or8.jpeg)
+In JavaScript, there are many ways to do the same things. But not all of them are equally good. And some of them you should not use at all.
 
-### [302. Understanding Chrome V8 -  Chaper 21: Token, AST ](https://hackernoon.com/understanding-chrome-v8-chaper-21-token-ast)
-![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-83b3j6j.jpeg)
+### [293. Node.js Vs AngularJS: Which is Best for your Web App?](https://hackernoon.com/nodejs-vs-angularjs-which-is-best-for-your-web-app)
+![](https://cdn.hackernoon.com/images/TvTYNUYMkbMcEoiUNlmIK59YQI63-8l93o3e.jpeg)
+Now when you understand well the difference between both the platforms, you must agree with the fact that both the platforms are great as well in their respect.
+
+### [294. The JavaScript Logical OR Operator: How Does it Work?](https://hackernoon.com/the-javascript-logical-or-operator-how-does-it-work)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-ho93orn.jpeg)
+The logical OR operator in JavaScript is an operator which returns the left-hand side if it is truthy, but otherwise defaults and return the right-hand side.
+
+### [295. Using the Spread Operator in JavaScript](https://hackernoon.com/using-the-spread-operator-in-javascript-423t35fn)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-gl6s35qt.jpeg)
+This article will cover the spread operator and how you can use them in your day to day JavaScript programming. This article assumes you have some familiarity with coding in the JavaScript ecosystem.
+
+### [296. Let’s Understand Chrome V8 — Chapter 9: Builtin](https://hackernoon.com/lets-understand-chrome-v8-chapter-9-builtin)
+![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-sq93joo.jpeg)
 "Let's Understand Chrome V8" are serial technology articles that explain the V8 code, it covers many V8 kernel functions and fundamentals.
 
-### [303. A Simple Introduction to Arrays In JavaScript](https://hackernoon.com/a-simple-introduction-to-arrays-in-javascript)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-5793p3p.jpeg)
-Arrays are one of the most used Data Structures in JavaScript and pretty much any language. 
-
-### [304. How to Super Charge Your Web Design Skills This Year](https://hackernoon.com/how-to-super-charge-your-web-design-skills-this-year)
+### [297. How to Super Charge Your Web Design Skills This Year](https://hackernoon.com/how-to-super-charge-your-web-design-skills-this-year)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-rn93zeg.jpeg)
 This story discusses 22 actionable tips that will help you all to improve your web design skills in 2022. 
 
-### [305. 7 Frameworks to Create Ideal UI/UX Prototypes in Javascript](https://hackernoon.com/7-frameworks-to-create-ideal-uiux-prototypes-in-javascript)
+### [298. JavaScript Challenges: Prime Numbers & Sophie Germain Primes](https://hackernoon.com/javascript-challenges-prime-numbers-and-sophie-germain-primes)
+![](https://cdn.hackernoon.com/images/prime-numbers-clbyx1s3t000001s6anfqhuuh.png)
+Let's create a function that will return true if string is a prime number and return false if a number is not a prime.
+
+### [299. New Tool Promises Faster Websites with Streamlined Server-Rendered UI](https://hackernoon.com/new-tool-promises-faster-websites-with-streamlined-server-rendered-ui)
+![](https://cdn.hackernoon.com/images/H6pNSrxheNN7LckaN9kY34XDGgF3-n7036ue.png)
+The HMPL project is a small template language for displaying UI from server to client. 
+
+### [300. Implementing Infinite Scroll with Vanilla JS: It's Easy as A.B.C & D](https://hackernoon.com/implementing-infinite-scroll-with-vanilla-js-its-easy-as-abc-and-d)
+![](https://cdn.hackernoon.com/images/W52YwjC3ouZdnCcU474aDrPsYbg2-kai4584.gif)
+This article will focus on how to use JavaScript to make use of some properties to achieve infinite scroll.
+
+### [301. Understanding Chrome V8 -  Chaper 21: Token, AST ](https://hackernoon.com/understanding-chrome-v8-chaper-21-token-ast)
+![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-83b3j6j.jpeg)
+"Let's Understand Chrome V8" are serial technology articles that explain the V8 code, it covers many V8 kernel functions and fundamentals.
+
+### [302. 7 Frameworks to Create Ideal UI/UX Prototypes in Javascript](https://hackernoon.com/7-frameworks-to-create-ideal-uiux-prototypes-in-javascript)
 ![](https://cdn.hackernoon.com/images/CKmRGGkAYMW8guYVaoBjcds5HUt1-dfb36fv.jpeg)
 Here is a list of 7 frameworks that can be used in creating prototypes.
 
-### [306. Everything You Need to Know About Javascript Arrays](https://hackernoon.com/everything-you-need-to-know-about-javascript-arrays)
+### [303. Making Debugging Easy With Console Wrangling](https://hackernoon.com/making-debugging-easy-with-console-wrangling)
+![](https://cdn.hackernoon.com/images/b66oRVnNiXgYlaoE0y90ySkK6Up1-bie3q8u.jpeg)
+Here we talk about two of the functions available on the console object: console.table() and console.trace(). 
+
+### [304. A Simple Introduction to Arrays In JavaScript](https://hackernoon.com/a-simple-introduction-to-arrays-in-javascript)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-5793p3p.jpeg)
+Arrays are one of the most used Data Structures in JavaScript and pretty much any language. 
+
+### [305. Everything You Need to Know About Javascript Arrays](https://hackernoon.com/everything-you-need-to-know-about-javascript-arrays)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-qa93p45.png)
 Here is a list of pretty much any action you would want to perform on an array, and how to do it in Javascript. 
 
-### [307. Handling Node.JS as an Asynchronous Application with Error Handling](https://hackernoon.com/handling-nodejs-as-an-asynchronous-application-with-error-handling-hi3p355b)
+### [306. Handling Node.JS as an Asynchronous Application with Error Handling](https://hackernoon.com/handling-nodejs-as-an-asynchronous-application-with-error-handling-hi3p355b)
 ![](https://cdn.hackernoon.com/images/c19IlEQcgCXavk4OhbVTzHb68O12-vm453ze5.jpeg)
 In this article, you will learn how to implement the following coding practices to differentiate between Synchronous and Asynchronous Calls.
+
+### [307. Why Reading JavaScript Is More Difficult When Default Exports Are Used](https://hackernoon.com/why-reading-javascript-is-more-difficult-when-default-exports-are-used)
+![](https://cdn.hackernoon.com/images/v2vbcF16oXZmHSCzmO79EscR2hQ2-bb93lpq.jpeg)
+How using default exports hurts your codebase readability and refactoring.
 
 ### [308. 5 Best JavaScript Templates for Business](https://hackernoon.com/5-best-javascript-templates-for-business)
 ![](https://cdn.hackernoon.com/images/V9YyIjSNWnMHBlBO4TSj5cPSIBj2-yu835e7.jpeg)
 Templates can significantly speed up the development process. Here are the 5 Best Javascript Templates - check them out!
 
-### [309. Why Reading JavaScript Is More Difficult When Default Exports Are Used](https://hackernoon.com/why-reading-javascript-is-more-difficult-when-default-exports-are-used)
-![](https://cdn.hackernoon.com/images/v2vbcF16oXZmHSCzmO79EscR2hQ2-bb93lpq.jpeg)
-How using default exports hurts your codebase readability and refactoring.
-
-### [310. The Top 7 Tricks and Tips to Give Your Java Learning a SpeedHack](https://hackernoon.com/the-top-7-tricks-and-tips-to-give-your-java-learning-a-speedhack)
+### [309. The Top 7 Tricks and Tips to Give Your Java Learning a SpeedHack](https://hackernoon.com/the-top-7-tricks-and-tips-to-give-your-java-learning-a-speedhack)
 ![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-5t038j5.jpeg)
 In the world of powerful open Internet resources like books, tutorials, libraries, Youtube videos, blogs, and programming courses, everybody is talking about online learning. Now you have everything to study fast and effectively, at your own pace.
 
-### [311. Write Your Own D&D Encounter Tables in JavaScript for Dungeon Masters](https://hackernoon.com/write-your-own-dandd-encounter-tables-in-javascript-for-dungeon-masters)
-![](https://cdn.hackernoon.com/images/PG9GJ9It2FOXrr2T8EAC6UYf0Vj1-it93ion.jpeg)
-Calling all Dungeon Masters! Here's a short beginner-friendly introduction to writing your own web and printer-friendly D&D encounter tables.
-
-### [312. The Fallacy of Strongly Typed Languages](https://hackernoon.com/the-fallacy-of-strongly-typed-languages)
+### [310. The Fallacy of Strongly Typed Languages](https://hackernoon.com/the-fallacy-of-strongly-typed-languages)
 ![](https://cdn.hackernoon.com/images/1jP4AN8YLrbDBYfB3aT5eoM6KS02-g493155.jpeg)
 This is a story of how I moved from hate to love for NodeJS language while being a Java developer, filled with insights I encountered during this process.
 
-### [313. Understanding Nullish Coalescing (or ??) in Javascript](https://hackernoon.com/understanding-nullish-coalescing-or-in-javascript)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-psb3ojm.jpeg)
-The nullish coalescing operator is useful in situations where something can be returned as either null or undefined, and helps us tighten up our code.
-
-### [314. Why Do You Need A JavaScript Test Framework?](https://hackernoon.com/why-do-you-need-a-javascript-test-framework)
+### [311. Why Do You Need A JavaScript Test Framework?](https://hackernoon.com/why-do-you-need-a-javascript-test-framework)
 ![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-0u93rn4.jpeg)
 The JavaScript testing framework enables you to boost your development workflow significantly. In addition, it increases your team’s speed and efficiency. 
 
-### [315. Everything You Need To Know About Angular Material Components](https://hackernoon.com/everything-you-need-to-know-about-angular-material-components)
-![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-fi93nmg.jpeg)
-A good UI design also increases user interaction on your website and makes it easy for users to get things done. 
-
-### [316. Meet Clockwise Software](https://hackernoon.com/meet-clockwise-software)
-![](https://cdn.hackernoon.com/images/8FD0lTsprUPLcLCvTCcuOvUtakm1-zuc3pjs.jpeg)
-Meet Clockwise Software - a Ukrainian JavaScript development company with a head office in Dnipro.
-
-### [317. How Records Can Help You Implement Complex Data in Typescript ](https://hackernoon.com/how-records-can-help-you-implement-complex-data-in-typescript)
+### [312. How Records Can Help You Implement Complex Data in Typescript ](https://hackernoon.com/how-records-can-help-you-implement-complex-data-in-typescript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-js93o9s.jpeg)
 TypeScript Records are a great way to ensure consistency when trying to implement more complex types of data.
 
-### [318. Angular vs AngularJS: What is the Difference](https://hackernoon.com/angular-vs-angularjs-what-is-the-difference)
-![](https://cdn.hackernoon.com/images/KQ9Nx7oEhfNwepTX7PHW2WLj3mD2-f093p5y.jpeg)
-The fact that Angular is based on TypeScript and AngularJS is based on JavaScript is one of the most significant differences between the two frameworks.
+### [313. Write Your Own D&D Encounter Tables in JavaScript for Dungeon Masters](https://hackernoon.com/write-your-own-dandd-encounter-tables-in-javascript-for-dungeon-masters)
+![](https://cdn.hackernoon.com/images/PG9GJ9It2FOXrr2T8EAC6UYf0Vj1-it93ion.jpeg)
+Calling all Dungeon Masters! Here's a short beginner-friendly introduction to writing your own web and printer-friendly D&D encounter tables.
 
-### [319. 10 JavaScript Apps to Power your Business](https://hackernoon.com/10-javascript-apps-to-power-your-business)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-zd93znq.jpeg)
+### [314. Understanding Nullish Coalescing (or ??) in Javascript](https://hackernoon.com/understanding-nullish-coalescing-or-in-javascript)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-psb3ojm.jpeg)
+The nullish coalescing operator is useful in situations where something can be returned as either null or undefined, and helps us tighten up our code.
 
+### [315. 5 Open-Source JavaScript Datagrids Worth Considering in 2026](https://hackernoon.com/5-open-source-javascript-datagrids-worth-considering-in-2026)
+![](https://cdn.hackernoon.com/images/lhmEZsswgzS0PMiQNvpl1Y5EXc82-os23n83.jpeg)
+Choosing a JavaScript data grid is a long term decision. This article compares open source grids that also offer commercial versions for growing products.
 
-### [320. A Kanban Board Component for Project Management](https://hackernoon.com/a-kanban-board-component-for-project-management)
-![](https://cdn.hackernoon.com/images/DgIHgUcx99gVUPhnmk5o7713Bzl2-ufe3nfe.jpeg)
-Project management is a crucial domain in the sphere of IT. 
-
-### [321. Understanding Chrome V8 - Chapter 20: How Compilers and Parsers Work](https://hackernoon.com/understanding-chrome-v8-chapter-20-how-compilers-and-parsers-work)
-![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-9293jzp.jpeg)
-"Let's Understand Chrome V8" are serial technology articles that explain the V8 code, it covers many V8 kernel functions and fundamentals.
-
-### [322. The Developer's Guide to Updating npm Packages](https://hackernoon.com/the-developers-guide-to-updating-npm-packages)
+### [316. The Developer's Guide to Updating npm Packages](https://hackernoon.com/the-developers-guide-to-updating-npm-packages)
 ![](https://cdn.hackernoon.com/images/bcFWRJ5sFoP1gqnxXoU3iohjidG2-k692lsn.jpeg)
  A simple guide for updating for npm packages. 
 
-### [323. Exploring Javascript Console Object](https://hackernoon.com/exploring-javascript-console-object)
-![](https://cdn.hackernoon.com/images/e8iYFeVmyLg0fVAbPx1z0FG7pCl1-hpj2bnv.jpeg)
-The specifics of how console object works vary from browser to browser, but there is a de facto set of features that are typically provided.
+### [317. Meet Clockwise Software](https://hackernoon.com/meet-clockwise-software)
+![](https://cdn.hackernoon.com/images/8FD0lTsprUPLcLCvTCcuOvUtakm1-zuc3pjs.jpeg)
+Meet Clockwise Software - a Ukrainian JavaScript development company with a head office in Dnipro.
+
+### [318. Everything You Need To Know About Angular Material Components](https://hackernoon.com/everything-you-need-to-know-about-angular-material-components)
+![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-fi93nmg.jpeg)
+A good UI design also increases user interaction on your website and makes it easy for users to get things done. 
+
+### [319. Angular vs AngularJS: What is the Difference](https://hackernoon.com/angular-vs-angularjs-what-is-the-difference)
+![](https://cdn.hackernoon.com/images/KQ9Nx7oEhfNwepTX7PHW2WLj3mD2-f093p5y.jpeg)
+The fact that Angular is based on TypeScript and AngularJS is based on JavaScript is one of the most significant differences between the two frameworks.
+
+### [320. How to Use an Event Bus in Vue.js 3 ](https://hackernoon.com/how-to-use-an-event-bus-in-vuejs-3)
+![](https://cdn.hackernoon.com/images/4GGscyBq54WMZTFvPzvXy1w56hu1-4k93s28.jpeg)
+In this tutorial, we will use the Vite build tool to scaffold a project.
+
+### [321. A Kanban Board Component for Project Management](https://hackernoon.com/a-kanban-board-component-for-project-management)
+![](https://cdn.hackernoon.com/images/DgIHgUcx99gVUPhnmk5o7713Bzl2-ufe3nfe.jpeg)
+Project management is a crucial domain in the sphere of IT. 
+
+### [322. 10 JavaScript Apps to Power your Business](https://hackernoon.com/10-javascript-apps-to-power-your-business)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-zd93znq.jpeg)
+
+
+### [323. Understanding Chrome V8 - Chapter 20: How Compilers and Parsers Work](https://hackernoon.com/understanding-chrome-v8-chapter-20-how-compilers-and-parsers-work)
+![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-9293jzp.jpeg)
+"Let's Understand Chrome V8" are serial technology articles that explain the V8 code, it covers many V8 kernel functions and fundamentals.
 
 ### [324. Setting Up .gitignore For Your JavaScript Project](https://hackernoon.com/setting-up-gitignore-for-your-javascript-project)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-zc92dw8.jpeg)
 Gitignore lets you give instructions to Git that makes it ignore name patters that you designate, making it possible for you to control the files tracked by it.
 
-### [325. The Alchemy of the Web: Transforming Ideas Into Reality With HTML/CSS and JavaScript](https://hackernoon.com/the-alchemy-of-the-web-transforming-ideas-into-reality-with-htmlcss-and-javascript)
-![](https://cdn.hackernoon.com/images/skBvJWlumBc3DaQ44sr87NZUg3b2-rnb2qgt.jpeg)
-The world we live in today is intricately linked through the vast expanse of the Internet. Behind every engaging website and interactive web application lies a 
+### [325. How I Mastered JavaScript Event Loop and Concurrent Model](https://hackernoon.com/how-i-mastered-javascript-event-loop-and-concurrent-model)
+![](https://cdn.hackernoon.com/images/nO7m01AhBMMWkHTD9rNgMyrtM5z2-e103dwj.png)
+Discover practical tips for building responsive web applications without freezing the UI.
 
-### [326. JavaScript Security: Mitigating Vulnerabilities for Safer Web Development](https://hackernoon.com/javascript-security-mitigating-vulnerabilities-for-safer-web-development)
+### [326. Exploring Javascript Console Object](https://hackernoon.com/exploring-javascript-console-object)
+![](https://cdn.hackernoon.com/images/e8iYFeVmyLg0fVAbPx1z0FG7pCl1-hpj2bnv.jpeg)
+The specifics of how console object works vary from browser to browser, but there is a de facto set of features that are typically provided.
+
+### [327. JavaScript Security: Mitigating Vulnerabilities for Safer Web Development](https://hackernoon.com/javascript-security-mitigating-vulnerabilities-for-safer-web-development)
 ![](https://cdn.hackernoon.com/images/skssOeH48yQNdDqRAn28z8IHu6i1-3k93s2t.jpeg)
  Learn how to safeguard your JavaScript code from common security flaws with expert tips on vulnerability mitigation.
 
-### [327. Understanding Chrome V8 — Chapter 4: Scanner, Token generation](https://hackernoon.com/understanding-chrome-v8-chapter-4-scanner-token-generation)
+### [328. Understanding Chrome V8 — Chapter 4: Scanner, Token generation](https://hackernoon.com/understanding-chrome-v8-chapter-4-scanner-token-generation)
 ![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-aqa3jy5.jpeg)
 Welcome to other chapters of Let’s Understand Chrome V8
 
-### [328. How to Write a Simple NPM Package ](https://hackernoon.com/how-to-write-a-simple-npm-package-pu8359z)
-![](https://cdn.hackernoon.com/images/WnwPGlES2WY4nze2ShULktvmMBF2-3p83d05.jpeg)
-Imagine that you don't need any compiler or bundler to prepare your NPM package written in ES2020 standard. Yes, you can.
+### [329. The Alchemy of the Web: Transforming Ideas Into Reality With HTML/CSS and JavaScript](https://hackernoon.com/the-alchemy-of-the-web-transforming-ideas-into-reality-with-htmlcss-and-javascript)
+![](https://cdn.hackernoon.com/images/skBvJWlumBc3DaQ44sr87NZUg3b2-rnb2qgt.jpeg)
+The world we live in today is intricately linked through the vast expanse of the Internet. Behind every engaging website and interactive web application lies a 
 
-### [329. How to Power Up Your Logging in JavaScript](https://hackernoon.com/how-to-power-up-your-logging-in-javascript)
+### [330. How to Power Up Your Logging in JavaScript](https://hackernoon.com/how-to-power-up-your-logging-in-javascript)
 ![](https://cdn.hackernoon.com/images/9u6FwQhzjdOYa0Qc5R7bA7IyYAR2-sj93gzk.png)
 Power up your logging and build good developer habits. As your codebase grows you'll need to debug it more easily and one tool is logging.
 
-### [330. Coding for Gamers: The Long Dark](https://hackernoon.com/learn-to-code-with-games-the-long-dark-1r7c3ylq)
+### [331. How to Write a Simple NPM Package ](https://hackernoon.com/how-to-write-a-simple-npm-package-pu8359z)
+![](https://cdn.hackernoon.com/images/WnwPGlES2WY4nze2ShULktvmMBF2-3p83d05.jpeg)
+Imagine that you don't need any compiler or bundler to prepare your NPM package written in ES2020 standard. Yes, you can.
+
+### [332. Coding for Gamers: The Long Dark](https://hackernoon.com/learn-to-code-with-games-the-long-dark-1r7c3ylq)
 ![](https://cdn.hackernoon.com/drafts/lh9v3yp2.png)
 Before I became a programmer I loved to play games. I played games for many years before I even knew the most basic concepts about coding. However these days I see that people are trying to introduce their kids to programming and looking for ways to make programming concepts more approachable. I think that using existing games people love is a great way to do just that. That is why I wanted to start this new coding for gamers blog series. In this tutorial I will show you how to do that by walking you through the process of extracting a feature from a video game called The Long Dark and recreating it on your own.
 
-### [331. How to Use an Event Bus in Vue.js 3 ](https://hackernoon.com/how-to-use-an-event-bus-in-vuejs-3)
-![](https://cdn.hackernoon.com/images/4GGscyBq54WMZTFvPzvXy1w56hu1-4k93s28.jpeg)
-In this tutorial, we will use the Vite build tool to scaffold a project.
-
-### [332. Take These 12 Quick Challenges to Find Out if You Know Javascript](https://hackernoon.com/take-these-12-quick-challenges-to-find-out-if-you-know-javascript)
+### [333. Take These 12 Quick Challenges to Find Out if You Know Javascript](https://hackernoon.com/take-these-12-quick-challenges-to-find-out-if-you-know-javascript)
 ![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-4593p30.jpeg)
 Do you know Javascript? The language we all love has some weird and sometimes unexpected behaviors.
 
-### [333. VoidZero, The New ESLint, MongoDB 8.0, and More - This Week in JS](https://hackernoon.com/voidzero-the-new-eslint-mongodb-80-and-more-this-week-in-js)
+### [334. VoidZero, The New ESLint, MongoDB 8.0, and More - This Week in JS](https://hackernoon.com/voidzero-the-new-eslint-mongodb-80-and-more-this-week-in-js)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-ta031j1.png)
 This week, we have exciting updates that will make your development workflow smoother and faster. 
 
-### [334. What is 'this’ in JavaScript?](https://hackernoon.com/what-is-this-in-javascript-835o35kx)
-![](https://cdn.hackernoon.com/images/Nv9z8Cle3QV673MG2frRypYu7br1-kw938rf.jpeg)
-‘this’ is always been a pain in the a** for many JavaScript developers, but it’s time to say ‘I got this’.
-
-### [335. What is the Difference Between Web2 vs Web3](https://hackernoon.com/what-is-the-difference-between-web2-vs-web3)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-ab93mxs.jpeg)
-In this article, we will discuss the major differences in Web 2.0 and Web 3.0.
-
-### [336. Understanding JavaScript Event Loop](https://hackernoon.com/understanding-javascript-event-loop-qf3935u7)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-j62o35gv.jpeg)
-JavaScript Event Loop is a fundamental concept. In this tutorial, we will know JavaScript Event Loop on a high level. 
-
-### [337. How to Delete an Item in an Array at a Specific Index](https://hackernoon.com/how-to-delete-an-item-in-an-array-at-a-specific-index)
+### [335. How to Delete an Item in an Array at a Specific Index](https://hackernoon.com/how-to-delete-an-item-in-an-array-at-a-specific-index)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-um93pfh.png)
 If we want to delete items from an array, we can use the splice method that all arrays have. Let's look at how it works.
 
-### [338. Java Vs. JavaScript: Know the Difference](https://hackernoon.com/java-vs-javascript-know-the-difference-8k7j35e6)
+### [336. What is 'this’ in JavaScript?](https://hackernoon.com/what-is-this-in-javascript-835o35kx)
+![](https://cdn.hackernoon.com/images/Nv9z8Cle3QV673MG2frRypYu7br1-kw938rf.jpeg)
+‘this’ is always been a pain in the a** for many JavaScript developers, but it’s time to say ‘I got this’.
+
+### [337. What is the Difference Between Web2 vs Web3](https://hackernoon.com/what-is-the-difference-between-web2-vs-web3)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-ab93mxs.jpeg)
+In this article, we will discuss the major differences in Web 2.0 and Web 3.0.
+
+### [338. Understanding JavaScript Event Loop](https://hackernoon.com/understanding-javascript-event-loop-qf3935u7)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-j62o35gv.jpeg)
+JavaScript Event Loop is a fundamental concept. In this tutorial, we will know JavaScript Event Loop on a high level. 
+
+### [339. Build Your Own JavaScript Library to Detect Mobile Browsers](https://hackernoon.com/build-your-own-javascript-library-to-detect-mobile-browsers)
+![](https://cdn.hackernoon.com/images/7TFKjn3oLpbHgnTw2EhtFa9CVPv2-8593jk0.png)
+What are the most common methods for detecting mobile browsers with JavaScript? This article covers both independent snippets and popular libraries.
+
+### [340. Java Vs. JavaScript: Know the Difference](https://hackernoon.com/java-vs-javascript-know-the-difference-8k7j35e6)
 ![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-h12x36tc.jpeg)
 Why do these two languages have such similar names? How do they differ from each other? This article will provide the answers.
 
-### [339. Introducing Our New JavaScript Standard Library](https://hackernoon.com/introducing-our-new-javascript-standard-library)
+### [341. Introducing Our New JavaScript Standard Library](https://hackernoon.com/introducing-our-new-javascript-standard-library)
 ![](https://cdn.hackernoon.com/images/SNXm2OS5zxWNrMXzQsdE0juLpLW2-5o830rx.jpeg)
 Introducing our new JavaScript Standard Library @opentf/std.
 
-### [340. We Created JavaScript Data Grids So You Don't Have To Reinvent the Wheel](https://hackernoon.com/we-created-javascript-data-grids-so-you-dont-have-to-reinvent-the-wheel)
+### [342. We Created JavaScript Data Grids So You Don't Have To Reinvent the Wheel](https://hackernoon.com/we-created-javascript-data-grids-so-you-dont-have-to-reinvent-the-wheel)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-k3930ya.jpeg)
 Avoid these pitfalls when deciding whether to build a JavaScript data table (Grid) on your own. Learn from engineers who’ve built multiple grids.
-
-### [341. 5 Tips for a Novice React Developer](https://hackernoon.com/5-tips-for-a-novice-react-developer-9nq35vv)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-v51w3of7.jpeg)
-There's a lot to learn when you're a new React Developer. These 5 Intro Tips will help you avoid simple mistakes many new developers make when starting out. 
-
-### [342. Introducing the at() Method for JavaScript Arrays](https://hackernoon.com/introducing-the-at-method-for-javascript-arrays)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-vf93z4j.jpeg)
-This article is about latest ecma script or ES22 update of at() method of array. at() method of array is used for getting the value based on index
 
 ### [343. Removing Items From a JavaScript Array](https://hackernoon.com/removing-items-from-a-javascript-array)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-7z930tk.jpeg)
 Let's look at how to remove a particular array item in Javascript.
 
-### [344. Build Your Own JavaScript Library to Detect Mobile Browsers](https://hackernoon.com/build-your-own-javascript-library-to-detect-mobile-browsers)
-![](https://cdn.hackernoon.com/images/7TFKjn3oLpbHgnTw2EhtFa9CVPv2-8593jk0.png)
-What are the most common methods for detecting mobile browsers with JavaScript? This article covers both independent snippets and popular libraries.
+### [344. 5 Tips for a Novice React Developer](https://hackernoon.com/5-tips-for-a-novice-react-developer-9nq35vv)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-v51w3of7.jpeg)
+There's a lot to learn when you're a new React Developer. These 5 Intro Tips will help you avoid simple mistakes many new developers make when starting out. 
 
-### [345. DunYan: Understanding Inheritance in JavaScript](https://hackernoon.com/dunyan-understanding-inheritance-in-javascript)
+### [345. Introducing the at() Method for JavaScript Arrays](https://hackernoon.com/introducing-the-at-method-for-javascript-arrays)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-vf93z4j.jpeg)
+This article is about latest ecma script or ES22 update of at() method of array. at() method of array is used for getting the value based on index
+
+### [346. DunYan: Understanding Inheritance in JavaScript](https://hackernoon.com/dunyan-understanding-inheritance-in-javascript)
 ![](https://cdn.hackernoon.com/images/online-website-clilqxvpb000401s6gd36g4lx.png)
 Inheritance is a mechanism in JavaScript that allows an object to inherit properties and methods from another object.
 
-### [346. Using Next.js 13’s Bleeding-Edge Features for Data Fetching](https://hackernoon.com/using-nextjs-13s-bleeding-edge-features-for-data-fetching)
+### [347. Using Next.js 13’s Bleeding-Edge Features for Data Fetching](https://hackernoon.com/using-nextjs-13s-bleeding-edge-features-for-data-fetching)
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-bpa3o5c.jpeg)
 The app directory, Streaming, Suspense, and hybrid Server and Client Components were demystified — with a little help from GraphQL + WunderGraph.
-
-### [347. How I Mastered JavaScript Event Loop and Concurrent Model](https://hackernoon.com/how-i-mastered-javascript-event-loop-and-concurrent-model)
-![](https://cdn.hackernoon.com/images/nO7m01AhBMMWkHTD9rNgMyrtM5z2-e103dwj.png)
-Discover practical tips for building responsive web applications without freezing the UI.
 
 ### [348. How to Use Rest Parameters in JavaScript](https://hackernoon.com/how-to-use-rest-parameters-in-javascript-ig3o35t3)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-q93j35r2.jpeg)
 This short article will cover Rest parameters and how to use them in JavaScript programming.
 
-### [349. Use Metho to Safely Add Dynamic Superpowers to JS Objects](https://hackernoon.com/use-metho-to-safely-add-dynamic-superpowers-to-js-objects)
-![](https://cdn.hackernoon.com/images/XSQf5P0LccUUd3IxzsUa7TcxCkx1-yja2fjd.jpeg)
-Metho allows you to safely 'monkey patch' any object with new capabilities and dynamic properties. Great for extending the functionality of native JS prototypes
-
-### [350. How I Built a Facial Recognition Application Using JavaScript and the Luxand.cloud API](https://hackernoon.com/how-i-built-a-facial-recognition-application-using-javascript-and-the-luxandcloud-api)
+### [349. How I Built a Facial Recognition Application Using JavaScript and the Luxand.cloud API](https://hackernoon.com/how-i-built-a-facial-recognition-application-using-javascript-and-the-luxandcloud-api)
 ![](https://cdn.hackernoon.com/images/fCLBrul2vhTkS42mI06IuAdfkyN2-wf934s9.png)
 Building a facial recognition application with JavaScript is not a daunting task. In this blog post, I'll walk you through the journey of developing one.
 
-### [351. Don't Be Fooled: Spotting the Authentic ECMAScript Decorators](https://hackernoon.com/dont-be-fooled-spotting-the-authentic-ecmascript-decorators)
+### [350. Use Metho to Safely Add Dynamic Superpowers to JS Objects](https://hackernoon.com/use-metho-to-safely-add-dynamic-superpowers-to-js-objects)
+![](https://cdn.hackernoon.com/images/XSQf5P0LccUUd3IxzsUa7TcxCkx1-yja2fjd.jpeg)
+Metho allows you to safely 'monkey patch' any object with new capabilities and dynamic properties. Great for extending the functionality of native JS prototypes
+
+### [351. Five Simple Steps to Convert Dashboard Charts Into PDFs](https://hackernoon.com/five-simple-steps-to-convert-dashboard-charts-into-pdfs)
+![](https://cdn.hackernoon.com/images/lmcwhIPXHyPIgqoOoDrA9xd8umf1-23932zb.jpeg)
+The article offers a concise guide on exporting dashboard charts to PDFs using jsPDF, demonstrating the process with clear examples and minimal code.
+
+### [352. Don't Be Fooled: Spotting the Authentic ECMAScript Decorators](https://hackernoon.com/dont-be-fooled-spotting-the-authentic-ecmascript-decorators)
 ![](https://cdn.hackernoon.com/images/eMRScLlvDYcd2KUzrM5TRbL2ojH2-yas30ao.jpeg)
 History of ECMAScript decorators, their implementation, and real-life examples of the decorator pattern in action.
 
-### [352. Understanding NPM Semantic Versioning: A Guide from Patch to Perfection](https://hackernoon.com/understanding-npm-semantic-versioning-a-guide-from-patch-to-perfection)
+### [353. Everything About the Javascript Logical AND Operator](https://hackernoon.com/everything-about-the-javascript-logical-and-operator)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-6k93oic.jpeg)
+In this complete guide, let's look at how && works, and go through some examples to explain when it returns values, and what values it will return.
+
+### [354. Understanding NPM Semantic Versioning: A Guide from Patch to Perfection](https://hackernoon.com/understanding-npm-semantic-versioning-a-guide-from-patch-to-perfection)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-jc93xye.jpeg)
 Dive into the world of Semantic Versioning (SemVer) and learn how it can make your software development process more efficient.
-
-### [353. Understanding the Magic of 'this' in JavaScript](https://hackernoon.com/understanding-the-magic-of-this-in-javascript)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-b793y6e.jpeg)
-It's something used all the time in Javascript, but often what it refers to is a mystery. Let's look at how this works in Javascript in different contexts.
-
-### [354. Five Simple Steps to Convert Dashboard Charts Into PDFs](https://hackernoon.com/five-simple-steps-to-convert-dashboard-charts-into-pdfs)
-![](https://cdn.hackernoon.com/images/lmcwhIPXHyPIgqoOoDrA9xd8umf1-23932zb.jpeg)
-The article offers a concise guide on exporting dashboard charts to PDFs using jsPDF, demonstrating the process with clear examples and minimal code.
 
 ### [355. How to Ensure Secure File Handling in JavaScript](https://hackernoon.com/how-to-ensure-secure-file-handling-in-javascript)
 ![](https://cdn.hackernoon.com/images/6W4m8sk51ldTZs5ZN02kwna4Vlx2-jka2p9d.jpeg)
 Protect your users' sensitive information with these best practices for secure file handling in JavaScript. Learn how in our latest blog post! 
 
-### [356. Everything About the Javascript Logical AND Operator](https://hackernoon.com/everything-about-the-javascript-logical-and-operator)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-6k93oic.jpeg)
-In this complete guide, let's look at how && works, and go through some examples to explain when it returns values, and what values it will return.
+### [356. Understanding the Magic of 'this' in JavaScript](https://hackernoon.com/understanding-the-magic-of-this-in-javascript)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-b793y6e.jpeg)
+It's something used all the time in Javascript, but often what it refers to is a mystery. Let's look at how this works in Javascript in different contexts.
 
-### [357. 5 Open-Source JavaScript Datagrids Worth Considering in 2026](https://hackernoon.com/5-open-source-javascript-datagrids-worth-considering-in-2026)
-![](https://cdn.hackernoon.com/images/lhmEZsswgzS0PMiQNvpl1Y5EXc82-os23n83.jpeg)
-Choosing a JavaScript data grid is a long term decision. This article compares open source grids that also offer commercial versions for growing products.
+### [357. Let’s Understand Chrome V8 — Chapter 10: Ignition Execution Unit](https://hackernoon.com/lets-understand-chrome-v8-chapter-10-ignition-execution-unit)
+![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-ne93jt9.jpeg)
+"Let's Understand Chrome V8" are serial technology articles that explain the V8 code, it covers many V8 kernel fundamentals such as ignition execution.
 
 ### [358. Redoor: New Alternative to Redux](https://hackernoon.com/redoor-new-alternative-to-redux-m57635vu)
 ![](https://cdn.hackernoon.com/images/2Ifc6qkdD0Xbi03kYCdtLNYDR1h2-kh3224wu.png)
@@ -1449,51 +1451,59 @@ I bring to your attention the state management library for React. The library is
 ![](https://cdn.hackernoon.com/images/jGAQwrGk5yb2jMypX1ZD3DS23wg2-ri93vy1.jpeg)
 Stateful user flows are very important for many modern SaaS products. This article walks through the challenges you might face as you create and evolve them.
 
-### [360. Javascript Pointers Do Exist!](https://hackernoon.com/javascript-pointers-do-exist)
+### [360. How To Add A Data Grid To A React Application](https://hackernoon.com/how-to-add-a-data-grid-to-a-react-application)
+![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-xae3kpx.jpeg)
+As a developer, when building a data-driven application, a data table with columns and rows can be what you need to display data to users of your application. 
+
+### [361. Javascript Pointers Do Exist!](https://hackernoon.com/javascript-pointers-do-exist)
 ![](https://cdn.hackernoon.com/images/KZkb1zzObqdx1sjOAplc30l7Kpp1-38136li.jpeg)
 I bet you didn’t know that Javascript has pointers. Well, it does! Let’s take a quick look at how they are implemented and how they work. 
 
-### [361. How to Add a Blog to Your Wix Website and Edit JavaScript via Velo](https://hackernoon.com/how-to-add-a-blog-to-your-wix-website-and-edit-javascript-via-velo-81o33x4)
-![](https://cdn.hackernoon.com/images/rqLhYzJjWATiN82xawdrCnlXZCI3-371133xj.jpeg)
-Making things like a journal or blog with Velo is easy as all hell! All you have to do is go to the Velo code editor.
+### [362. Testing for Image Format Support Using Simple JavaScript ](https://hackernoon.com/testing-for-image-format-support-using-simple-javascript)
+![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-gv93rkl.jpeg)
+Here are two simple Async/Await JavaScript scripts that will detect and indicate browser support for the AVIF and WEBP image formats.
 
-### [362. How to Insert an Item Into an Array at a Specific Index in Javascript](https://hackernoon.com/how-to-insert-an-item-into-an-array-at-a-specific-index-in-javascript)
+### [363. How to Insert an Item Into an Array at a Specific Index in Javascript](https://hackernoon.com/how-to-insert-an-item-into-an-array-at-a-specific-index-in-javascript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-0k93p31.jpeg)
 We use the splice method to insert an item into an array at a specific index in javascript, which takes 3 arguments - and also lets us delete items too. 
 
-### [363. An Introduction to JavaScript Functions and Asynchronous Programming with Callbacks](https://hackernoon.com/an-introduction-to-javascript-functions-and-asynchronous-programming-with-callbacks)
-![](https://cdn.hackernoon.com/images/zpA8BwP5iRUp1Yp5aGImZfUk4uw1-gs83zp9.jpeg)
-Dive into the world of JavaScript functions with our comprehensive guide. Learn the ins and outs of function declarations, expressions, and callbacks.
-
-### [364. Testing for Image Format Support Using Simple JavaScript ](https://hackernoon.com/testing-for-image-format-support-using-simple-javascript)
-![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-gv93rkl.jpeg)
-Here are two simple Async/Await JavaScript scripts that will detect and indicate browser support for the AVIF and WEBP image formats.
+### [364. Conditional Rendering in Vue](https://hackernoon.com/conditional-rendering-in-vue)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-d393s9g.jpeg)
+v-if and v-show are two ways to conditionally render content in Vue. 
 
 ### [365. A Review of Arrays in Javascript ](https://hackernoon.com/a-review-of-arrays-in-javascript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-lde3sxq.jpeg)
 Arrays in Javascript are a simple, one-dimensional way to store simple sets of data. Arrays are non-unique, which means they can store duplicates (unlike sets).
 
-### [366. Let’s Understand Chrome V8 — Chapter 10: Ignition Execution Unit](https://hackernoon.com/lets-understand-chrome-v8-chapter-10-ignition-execution-unit)
-![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-ne93jt9.jpeg)
-"Let's Understand Chrome V8" are serial technology articles that explain the V8 code, it covers many V8 kernel fundamentals such as ignition execution.
+### [366. How to Add a Blog to Your Wix Website and Edit JavaScript via Velo](https://hackernoon.com/how-to-add-a-blog-to-your-wix-website-and-edit-javascript-via-velo-81o33x4)
+![](https://cdn.hackernoon.com/images/rqLhYzJjWATiN82xawdrCnlXZCI3-371133xj.jpeg)
+Making things like a journal or blog with Velo is easy as all hell! All you have to do is go to the Velo code editor.
 
-### [367. Conditional Rendering in Vue](https://hackernoon.com/conditional-rendering-in-vue)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-d393s9g.jpeg)
-v-if and v-show are two ways to conditionally render content in Vue. 
+### [367. An Introduction to JavaScript Functions and Asynchronous Programming with Callbacks](https://hackernoon.com/an-introduction-to-javascript-functions-and-asynchronous-programming-with-callbacks)
+![](https://cdn.hackernoon.com/images/zpA8BwP5iRUp1Yp5aGImZfUk4uw1-gs83zp9.jpeg)
+Dive into the world of JavaScript functions with our comprehensive guide. Learn the ins and outs of function declarations, expressions, and callbacks.
 
 ### [368. JavaScript Strict Mode vs. Bad Programming Practices](https://hackernoon.com/javascript-strict-mode-vs-bad-programming-practices)
 ![](https://cdn.hackernoon.com/images/SfLKUONj1dNQfd8Bo4oz4aGegv73-p593fv5.jpeg)
 JavaScript Strict mode is used to turn mistakes into errors for easier debugging and to help you write better code. 
 
-### [369. How To Add A Data Grid To A React Application](https://hackernoon.com/how-to-add-a-data-grid-to-a-react-application)
-![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-xae3kpx.jpeg)
-As a developer, when building a data-driven application, a data table with columns and rows can be what you need to display data to users of your application. 
-
-### [370. Why Are UI Components Important For Web-Based Development](https://hackernoon.com/why-are-ui-components-important-for-web-based-development)
+### [369. Why Are UI Components Important For Web-Based Development](https://hackernoon.com/why-are-ui-components-important-for-web-based-development)
 ![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-qu93nle.jpeg)
 Organizations are looking for web applications that provide users with many unique functionalities. For example, the User Interface is the essential part of a web application for anything they provide. 
 
-### [371. An Intelligent Tool That Attends Your Meetings For You](https://hackernoon.com/an-intelligent-tool-that-attends-your-meetings-for-you-kv1a3tpt)
+### [370. OpenAI Unveils Codex—An AI Dev Assistant Built for JavaScript and React](https://hackernoon.com/openai-unveils-codexan-ai-dev-assistant-built-for-javascript-and-react)
+![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-wy038yw.png)
+Codex is OpenAI’s software engineering agent that helps developers, especially web and JavaScript developers-automate coding tasks.
+
+### [371. "How Many Colors Can the Human Eye See?": The Application](https://hackernoon.com/how-many-colors-can-the-human-eye-see-the-application)
+![](https://cdn.hackernoon.com/images/axpOMeVu5mOw7PG3SCf6nWuhyyz1-s093814.jpeg)
+How many colors can the human eye see?
+
+### [372. Understanding Chrome V8 — Chapter 14: What is Dynamically Typed JS ](https://hackernoon.com/understanding-chrome-v8-chapter-14-what-is-dynamically-typed-js)
+![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-3n93jyk.jpeg)
+"Let's Understand Chrome V8" are serial technology articles that explain the V8 code, it covers many V8 kernel functions and fundamentals.
+
+### [373. An Intelligent Tool That Attends Your Meetings For You](https://hackernoon.com/an-intelligent-tool-that-attends-your-meetings-for-you-kv1a3tpt)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FCGMMAnoSP0WzMWVUlWJ4KoiKk5J3-2e4c3eaf.gif?alt=media&token=72aa6483-76d7-4d61-8436-f01ec306ba5a)
 Ever been to meetings you didn't want to be a part of? Meetings you could do better without but, you had to go through thoroughly because you didn't know when your name can be announced and you knew you'd have to respond then. Yeah, we have all been there.
 
@@ -1503,94 +1513,86 @@ It is a simple javascript based application living here. It leverages the Webhoo
 
 I spent 10 minutes to create a demo for the tool which can be viewed here:
 
-### [372. "How Many Colors Can the Human Eye See?": The Application](https://hackernoon.com/how-many-colors-can-the-human-eye-see-the-application)
-![](https://cdn.hackernoon.com/images/axpOMeVu5mOw7PG3SCf6nWuhyyz1-s093814.jpeg)
-How many colors can the human eye see?
-
-### [373. How to Send and Schedule E-mails via a Node.js app](https://hackernoon.com/send-and-schedule-e-mails-from-a-nodejs-app-xp5ev3x1r)
+### [374. How to Send and Schedule E-mails via a Node.js app](https://hackernoon.com/send-and-schedule-e-mails-from-a-nodejs-app-xp5ev3x1r)
 ![](https://cdn.hackernoon.com/images/qtj93xtw.jpg)
 As an application developer, how often we sense the need of a service that would send e-mails to specified or subscribed email ids? Even if there is no real need, we still fantasize about it while developing a pet-project or an app for fun, don't we 😁?
 
-### [374. Understanding Chrome V8 — Chapter 14: What is Dynamically Typed JS ](https://hackernoon.com/understanding-chrome-v8-chapter-14-what-is-dynamically-typed-js)
-![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-3n93jyk.jpeg)
-"Let's Understand Chrome V8" are serial technology articles that explain the V8 code, it covers many V8 kernel functions and fundamentals.
-
-### [375. Navigate JavaScript ES6 Syntaxes for Efficient and Readable Code](https://hackernoon.com/navigate-javascript-es6-syntaxes-for-efficient-and-readable-code)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-7w830w8.jpeg)
-Upgrade Your JavaScript Skills with These Essential ES6 Syntax
+### [375. From ES6 to ESNext: What Is Node.green?](https://hackernoon.com/from-es6-to-esnext-what-is-nodegreen)
+![](https://cdn.hackernoon.com/images/ZooZQzFE7INYxlbDjBNNxqTpP8g2-m523yh2.jpeg)
+Node.green is a website that provides a comprehensive and easy-to-use resource for tracking the support for ECMAScript (ES) features in different versions
 
 ### [376. Exploring Common Uses Cases of the JavaScript Spread Syntax (…) ](https://hackernoon.com/exploring-common-uses-cases-of-the-javascript-spread-syntax)
 ![](https://cdn.hackernoon.com/images/computer-screen-with-javascript-code-clee8ivjl000001s62r62bz78.png)
 Understanding Javascript spread operator
 
-### [377. From ES6 to ESNext: What Is Node.green?](https://hackernoon.com/from-es6-to-esnext-what-is-nodegreen)
-![](https://cdn.hackernoon.com/images/ZooZQzFE7INYxlbDjBNNxqTpP8g2-m523yh2.jpeg)
-Node.green is a website that provides a comprehensive and easy-to-use resource for tracking the support for ECMAScript (ES) features in different versions
+### [377. Navigate JavaScript ES6 Syntaxes for Efficient and Readable Code](https://hackernoon.com/navigate-javascript-es6-syntaxes-for-efficient-and-readable-code)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-7w830w8.jpeg)
+Upgrade Your JavaScript Skills with These Essential ES6 Syntax
 
-### [378. Using Provide and Inject in Vue](https://hackernoon.com/using-provide-and-inject-in-vue)
+### [378. A Closer Look at Immediately Invoked Function Expressions (IIFE) in JavaScript](https://hackernoon.com/a-closer-look-at-immediately-invoked-function-expressions-iife-in-javascript)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-0393spr.jpeg)
+Immediately invoked function expressions, or IIFE, are functions that are run as soon as you define the function. 
+
+### [379. Using Provide and Inject in Vue](https://hackernoon.com/using-provide-and-inject-in-vue)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-nq93occ.jpeg)
 With properties in Vue, we can pass data from a parent element or vue template to a child element. It's easy in Vue to give properties to a child element.
-
-### [379. 3 Steps to Adding End-to-end Tests to Your Project](https://hackernoon.com/3-steps-to-adding-end-to-end-tests-to-your-project)
-![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-0t12nbu.jpeg)
-E2E enables extensive testing as soon as the changes are available. It has a chance of catching potential issues before merging changes to the main branch.
 
 ### [380. Hacking Dependency Free React State Management ](https://hackernoon.com/hacking-dependency-free-react-state-management)
 ![](https://cdn.hackernoon.com/images/CU9T26Y1hNgrvyNxGX0jRAJfpM12-9xd3pir.png)
 How to create global state management in React applications without side dependencies and unnecessary rerendering
 
-### [381. Using Console.Log to Its Fullest: Tips and Tricks for Enhanced Debugging and Development](https://hackernoon.com/using-consolelog-to-its-fullest-tips-and-tricks-for-enhanced-debugging-and-development)
-![](https://cdn.hackernoon.com/images/yJx6Jb9xDbaeUH6oktJcQUQy9xR2-ya933vf.png)
-Discover advanced console.log tips to enhance your web development debugging skills, from basic tricks to creative uses and logging levels.
-
-### [382. A Closer Look at Immediately Invoked Function Expressions (IIFE) in JavaScript](https://hackernoon.com/a-closer-look-at-immediately-invoked-function-expressions-iife-in-javascript)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-0393spr.jpeg)
-Immediately invoked function expressions, or IIFE, are functions that are run as soon as you define the function. 
-
-### [383. An Intro to Middleware in NextJS 12](https://hackernoon.com/an-intro-to-middleware-in-nextjs-12)
-![](https://cdn.hackernoon.com/images/eUT0WvJnuqUhEFMKqi6Mi1hExjy2-kl0387a.jpeg)
-NextJS 12 was announced yesterday at the NextJS Conf and they announced a new feature called middleware which allows one to modify the response to a request.
-
-### [384. The Advantages of Using REST API with Amplication for Your NodeJS Apps](https://hackernoon.com/the-advantages-of-using-rest-api-with-amplication-for-your-nodejs-apps)
+### [381. The Advantages of Using REST API with Amplication for Your NodeJS Apps](https://hackernoon.com/the-advantages-of-using-rest-api-with-amplication-for-your-nodejs-apps)
 ![](https://cdn.hackernoon.com/images/j5OOW9CwS9gaqunTWf9E1krzQWI2-h893p2c.jpeg)
 In this article, we will discuss how to develop a REST API in NodeJS, as well as some of it's advantages when done with Amplication.
 
-### [385. OpenAI Unveils Codex—An AI Dev Assistant Built for JavaScript and React](https://hackernoon.com/openai-unveils-codexan-ai-dev-assistant-built-for-javascript-and-react)
-![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-wy038yw.png)
-Codex is OpenAI’s software engineering agent that helps developers, especially web and JavaScript developers-automate coding tasks.
+### [382. Breaking From ForEach in JavaScript](https://hackernoon.com/breaking-from-foreach-in-javascript)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-x493rpy.jpeg)
+There is no direct way to break from the forEach() function, however, there are some workarounds.f
+
+### [383. 3 Steps to Adding End-to-end Tests to Your Project](https://hackernoon.com/3-steps-to-adding-end-to-end-tests-to-your-project)
+![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-0t12nbu.jpeg)
+E2E enables extensive testing as soon as the changes are available. It has a chance of catching potential issues before merging changes to the main branch.
+
+### [384. An Intro to Middleware in NextJS 12](https://hackernoon.com/an-intro-to-middleware-in-nextjs-12)
+![](https://cdn.hackernoon.com/images/eUT0WvJnuqUhEFMKqi6Mi1hExjy2-kl0387a.jpeg)
+NextJS 12 was announced yesterday at the NextJS Conf and they announced a new feature called middleware which allows one to modify the response to a request.
+
+### [385. Using Console.Log to Its Fullest: Tips and Tricks for Enhanced Debugging and Development](https://hackernoon.com/using-consolelog-to-its-fullest-tips-and-tricks-for-enhanced-debugging-and-development)
+![](https://cdn.hackernoon.com/images/yJx6Jb9xDbaeUH6oktJcQUQy9xR2-ya933vf.png)
+Discover advanced console.log tips to enhance your web development debugging skills, from basic tricks to creative uses and logging levels.
 
 ### [386. Stay Up-to-Date: Migrating to React 18 with Confidence](https://hackernoon.com/stay-up-to-date-migrating-to-react-18-with-confidence)
 ![](https://cdn.hackernoon.com/images/usLqJmqUA2b5joa695sCkWq4hKD3-ui93ynu.jpeg)
 The benefits of migrating to React 18 with confidence. Explore its powerful features, step-by-step migration guidance, and optimization strategies.
 
-### [387. Breaking From ForEach in JavaScript](https://hackernoon.com/breaking-from-foreach-in-javascript)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-x493rpy.jpeg)
-There is no direct way to break from the forEach() function, however, there are some workarounds.f
-
-### [388. Resolving React's 'Unable to Type in Input' Issue](https://hackernoon.com/resolving-reacts-unable-to-type-in-input-issue)
+### [387. Resolving React's 'Unable to Type in Input' Issue](https://hackernoon.com/resolving-reacts-unable-to-type-in-input-issue)
 ![](https://cdn.hackernoon.com/images/zpA8BwP5iRUp1Yp5aGImZfUk4uw1-9j83pi1.jpeg)
 Learn to resolve the "Unable to Type in Input" issue in React forms by implementing efficient state management techniques.
 
-### [389. A Simple Web Component for Building a Slideshow](https://hackernoon.com/a-simple-web-component-for-building-a-slideshow)
+### [388. A Simple Web Component for Building a Slideshow](https://hackernoon.com/a-simple-web-component-for-building-a-slideshow)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-mu93om5.jpeg)
 Building a web component that renders one picture at a time. 
 
-### [390. Get the Last Element of a Javascript Array Using These Easy Steps](https://hackernoon.com/get-the-last-element-of-a-javascript-array-using-these-easy-steps)
+### [389. Get the Last Element of a Javascript Array Using These Easy Steps](https://hackernoon.com/get-the-last-element-of-a-javascript-array-using-these-easy-steps)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-vcb3p0d.png)
 So you have a Javascript array, and you want to get the last element. Follow these steps.
 
-### [391. Building A Node.js Based CLI For Real-Time COVID-19 Vaccination Tracking](https://hackernoon.com/building-a-nodejs-based-cli-for-real-time-covid-19-vaccination-tracking-b9o34w5)
+### [390. Building A Node.js Based CLI For Real-Time COVID-19 Vaccination Tracking](https://hackernoon.com/building-a-nodejs-based-cli-for-real-time-covid-19-vaccination-tracking-b9o34w5)
 ![](https://hackernoon.com/images/4HtDd2gu7Ya3rJQk75OcK0ERkP73-qf8i447a.jpeg)
 Learn how to create Node.js based CLI’s
 Get real time info about vaccination slots for your area in current time of COVID19 and customize it.
 
-### [392. Elevate Your Code Quality with Effective Unit Testing](https://hackernoon.com/elevate-your-code-quality-with-effective-unit-testing)
+### [391. Elevate Your Code Quality with Effective Unit Testing](https://hackernoon.com/elevate-your-code-quality-with-effective-unit-testing)
 ![](https://cdn.hackernoon.com/images/anfJV6KSo1bThcpN0mDFqo1MKQp2-pg835ub.jpeg)
 Dive into a comprehensive guide on unit testing that emphasizes aligning tests with user interactions, maintaining semantic structure, and optimizing component.
 
-### [393. How Mongoose Will Bring JSON-Oriented Developers to Apache Cassandra](https://hackernoon.com/how-mongoose-will-bring-json-oriented-developers-to-apache-cassandra)
+### [392. How Mongoose Will Bring JSON-Oriented Developers to Apache Cassandra](https://hackernoon.com/how-mongoose-will-bring-json-oriented-developers-to-apache-cassandra)
 ![](https://cdn.hackernoon.com/images/qiQzyjN6LvaRDmVgSbd9gXT8bty2-bu93p36.jpeg)
 A new partnership between the open source projects Stargate and Mongoose will create a fully idiomatic experience for JavaScript developers on Cassandra.
+
+### [393. DOM Readiness in Javascript](https://hackernoon.com/dom-readiness-in-javascript)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-pu93pnv.jpeg)
+If your Javascript appears before your HTML, then trying to do things like attach events to your HTML is not possible.
 
 ### [394. Code Smell 247 - Javascript Function Naming](https://hackernoon.com/code-smell-247-javascript-function-naming)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-8l833uf.jpeg)
@@ -1620,29 +1622,29 @@ Everything happens within spaces and Environments. Basic knowledge of javascript
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-7o039y6.png)
 GitHub Spark lets you build and deploy full-stack apps using AI, prompts, or clicks—no coding, setup, or API keys required.
 
-### [401. DOM Readiness in Javascript](https://hackernoon.com/dom-readiness-in-javascript)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-pu93pnv.jpeg)
-If your Javascript appears before your HTML, then trying to do things like attach events to your HTML is not possible.
-
-### [402. How I Redesigned my Entire B2B SaaS App in 30 days](https://hackernoon.com/how-i-redesigned-my-entire-b2b-saas-app-in-30-days-1s2m2g3c)
+### [401. How I Redesigned my Entire B2B SaaS App in 30 days](https://hackernoon.com/how-i-redesigned-my-entire-b2b-saas-app-in-30-days-1s2m2g3c)
 ![](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Instagram is currently one of the most popular platforms and has seen an explosion of business accounts, ad money spent and even purchases made directly in the app in the last year. Businesses of all sizes are flocking to the platform to get in on a piece of the action. The popularity of Instagram is what makes it a great marketing tool but it is what also makes it difficult to stand out and reach potential customers. Hashtags are a social media concept that is heavily used on Instagram to help classify posts and allow users to get their content in front of more people than just their followers. 
 
-### [403. A Tribute to innerHTML: A Love Story](https://hackernoon.com/a-tribute-to-innerhtml-a-love-story)
+### [402. A Tribute to innerHTML: A Love Story](https://hackernoon.com/a-tribute-to-innerhtml-a-love-story)
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-4192kft.jpeg)
 I hope this ode has inspired you to give innerHTML another look and fall in love with its simplicity and convenience all over again. 
 
-### [404. Getting Started With Functions in JavaScript: Declarations, Parameters, and More](https://hackernoon.com/getting-started-with-functions-in-javascript-declarations-parameters-and-more)
+### [403. Getting Started With Functions in JavaScript: Declarations, Parameters, and More](https://hackernoon.com/getting-started-with-functions-in-javascript-declarations-parameters-and-more)
 ![](https://cdn.hackernoon.com/images/xnExhhWVgGRFDoTG4pYFD7lqIng1-gb92vb3.jpeg)
 In this guide, we’ll explore various aspects of functions in JavaScript, including their declaration, parameters, function expressions, and more.
 
-### [405. How to Speed up Your Angular App With Web Workers](https://hackernoon.com/how-to-speed-up-your-angular-app-with-web-workers)
+### [404. How to Speed up Your Angular App With Web Workers](https://hackernoon.com/how-to-speed-up-your-angular-app-with-web-workers)
 ![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-5lc34ih.png)
 Learn how to optimize your angular application by using Web Workers. See more from MESCIUS today.
 
-### [406. Hemingway's Lessons on Building Reusable React Components](https://hackernoon.com/hemingways-lessons-on-building-reusable-react-components)
+### [405. Hemingway's Lessons on Building Reusable React Components](https://hackernoon.com/hemingways-lessons-on-building-reusable-react-components)
 ![](https://cdn.hackernoon.com/images/3FnIKHGgbNVQq1IJMsgvsFiWteK2-od93jwp.jpeg)
 What can we learn about coding and creating reusable components with react from one of the greatest novelists ever?
+
+### [406. Lets Teleport Benjamin Franklin Around Using Vue JS](https://hackernoon.com/lets-teleport-benjamin-franklin-around-using-vue-js)
+![](https://cdn.hackernoon.com/images/sXFaihUbWTVvCDi5B7513ilNUL93-7e93vst.jpeg)
+Using the Teleport function in Vue JS to move Ben Franklin around the screen.
 
 ### [407. A Quick Guide to CAB(Call, Apply, Bind) in JavaScript](https://hackernoon.com/a-quick-guide-to-cabcall-apply-bind-in-javascript)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-i203m0j.jpeg)
@@ -1652,21 +1654,21 @@ Here is the easy and simple way to understand call, apply, bind in JavaScript. W
 ![](https://cdn.hackernoon.com/images/FEungAXiith56Pk6XkyqIOhi1I43-4a02le9.jpeg)
 You may think "Surely there's a library for that!", and yet, there isn't.
 
-### [409. There Are No Excuses Left for NOT Migrating to JAMStack](https://hackernoon.com/there-are-no-excuses-left-for-not-migrating-to-jamstack-2h9r32ko)
-![](https://cdn.hackernoon.com/drafts/ftt30ud.png)
-This article will help you learn about JAMStack development techniques and benefits and will help you get to move forward on your migration path.
-
-### [410. Long Polling — Comparative and Sample Coded Expression](https://hackernoon.com/long-polling-comparative-and-sample-coded-expression-qgd3y4h)
+### [409. Long Polling — Comparative and Sample Coded Expression](https://hackernoon.com/long-polling-comparative-and-sample-coded-expression-qgd3y4h)
 ![](https://cdn.hackernoon.com/images/k3m83wt8.jpg)
 Of course, there is never a single truth during software development. We always come up with multiple options and try to determine which one suits us the best according to the requirements we have.
+
+### [410. There Are No Excuses Left for NOT Migrating to JAMStack](https://hackernoon.com/there-are-no-excuses-left-for-not-migrating-to-jamstack-2h9r32ko)
+![](https://cdn.hackernoon.com/drafts/ftt30ud.png)
+This article will help you learn about JAMStack development techniques and benefits and will help you get to move forward on your migration path.
 
 ### [411. What’s the Difference Between C++ vs Java](https://hackernoon.com/c-vs-java-whats-the-difference-with-examples)
 ![](https://cdn.hackernoon.com/images/yEdfehOz04Tz81ubT9EowaqdqG03-it1375s.jpeg)
 C++ vs. Java programming languages are designed for everyone, no matter if you are new to programming or you already have extensive programming experience.
 
-### [412. Lets Teleport Benjamin Franklin Around Using Vue JS](https://hackernoon.com/lets-teleport-benjamin-franklin-around-using-vue-js)
-![](https://cdn.hackernoon.com/images/sXFaihUbWTVvCDi5B7513ilNUL93-7e93vst.jpeg)
-Using the Teleport function in Vue JS to move Ben Franklin around the screen.
+### [412. Code Smell 264 - Hanlon's Razor](https://hackernoon.com/code-smell-264-hanlons-razor)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-qt833y4.jpeg)
+Overthinking and overdesigning your code can lead to unnecessary complexity. Learn how. 
 
 ### [413. A Very Early Introduction to Building your Own Web App With Code](https://hackernoon.com/a-very-early-introduction-to-building-your-own-web-app-with-code)
 ![](https://cdn.hackernoon.com/images/GRZpzqpoJyMvFZW6lPH4PI3T5HB2-aue3pzj.jpeg)
@@ -1676,48 +1678,44 @@ Here is a brief guide to getting started with coding and building your website o
 ![](https://cdn.hackernoon.com/images/jcy1tgd.jpg)
 
 
-### [415. Code Smell 264 - Hanlon's Razor](https://hackernoon.com/code-smell-264-hanlons-razor)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-qt833y4.jpeg)
-Overthinking and overdesigning your code can lead to unnecessary complexity. Learn how. 
-
-### [416. Mastering Javascript Variables: A Simplified Guide for Beginners ](https://hackernoon.com/mastering-javascript-variables-a-simplified-guide-for-beginners)
+### [415. Mastering Javascript Variables: A Simplified Guide for Beginners ](https://hackernoon.com/mastering-javascript-variables-a-simplified-guide-for-beginners)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ju93ppc.jpeg)
 In JavaScript, a variable is a named reference to a memory location that can hold different types of data, such as numbers, strings, booleans, objects, or fu...
 
-### [417. Why You Should Start With a Red Test in Test-Driven Development](https://hackernoon.com/why-you-should-start-with-a-red-test-in-test-driven-development)
+### [416. Why You Should Start With a Red Test in Test-Driven Development](https://hackernoon.com/why-you-should-start-with-a-red-test-in-test-driven-development)
 ![](https://cdn.hackernoon.com/images/t1bhWneHy1PEjw9MD2QlO6WQLxT2-tp836dp.jpeg)
 The significance of staring with a red test in test-driven development. Start with the red test to spot mistakes in a test
 
-### [418. Streamlining File Handling in JavaScript](https://hackernoon.com/streamlining-file-handling-in-javascript)
+### [417. Streamlining File Handling in JavaScript](https://hackernoon.com/streamlining-file-handling-in-javascript)
 ![](https://cdn.hackernoon.com/images/GhC4MWswMgZnphVInOdXt0Zk2ED3-eo93pg4.jpeg)
 Learn how to handle files with JavaScript and how libraries like Filestack can simplify the process.
 
-### [419. A Quick Introduction to Jamstack ](https://hackernoon.com/a-quick-introduction-to-jamstack-jl4l35hj)
+### [418. A Quick Introduction to Jamstack ](https://hackernoon.com/a-quick-introduction-to-jamstack-jl4l35hj)
 ![](https://cdn.hackernoon.com/images/L2ZzoLGpt8d6cP7hjSEpZluSjt72-za9m35rr.jpeg)
 This approach is not a framework but is actually an architectural guideline using many of the tools and skills developers were already familiar with.
 
-### [420. Sencha Announces Release of Ext JS 7.4 at Annual SenchaCon Virtual Conference](https://hackernoon.com/sencha-announces-release-of-ext-js-74-at-annual-senchacon-virtual-conference-ac1w228o)
+### [419. Sencha Announces Release of Ext JS 7.4 at Annual SenchaCon Virtual Conference](https://hackernoon.com/sencha-announces-release-of-ext-js-74-at-annual-senchacon-virtual-conference-ac1w228o)
 ![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-3cx33hf.jpeg)
 Sencha Announces Release of Ext JS 7.4 at Annual SenchaCon Virtual Conference
 
 
-### [421. The Noonification: Blockchain ❤️s WASM: Chapter Arbitrum (11/13/2023)](https://hackernoon.com/11-13-2023-noonification)
+### [420. The Noonification: Blockchain ❤️s WASM: Chapter Arbitrum (11/13/2023)](https://hackernoon.com/11-13-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_370_q36bqiv7n67huzumr2gfz5eh.png)
 11/13/2023: Top 5 stories on the Hackernoon homepage!
 
-### [422. Crafting Comprehensible Data Summaries using Google PaLM Generative AI](https://hackernoon.com/crafting-comprehensible-data-summaries-using-google-palm-generative-ai)
+### [421. Crafting Comprehensible Data Summaries using Google PaLM Generative AI](https://hackernoon.com/crafting-comprehensible-data-summaries-using-google-palm-generative-ai)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-bx83w2w.jpeg)
 Discover how Google's MakerSuite, paired with Pirate Weather API, creates dynamic weather summaries.
 
-### [423. The Noonification: The Odin Project: My 111-Day Experience With It (7/2/2024)](https://hackernoon.com/7-2-2024-noonification)
+### [422. The Noonification: The Odin Project: My 111-Day Experience With It (7/2/2024)](https://hackernoon.com/7-2-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_651_zghn6k55c8e6lpfvh9q1wqdh.png)
 7/2/2024: Top 5 stories on the HackerNoon homepage!
 
-### [424. Comprehensive Guide to JavaScript Arrays: Adding, Removing, and Iterating Elements](https://hackernoon.com/comprehensive-guide-to-javascript-arrays-adding-removing-and-iterating-elements)
+### [423. Comprehensive Guide to JavaScript Arrays: Adding, Removing, and Iterating Elements](https://hackernoon.com/comprehensive-guide-to-javascript-arrays-adding-removing-and-iterating-elements)
 ![](https://cdn.hackernoon.com/images/xnExhhWVgGRFDoTG4pYFD7lqIng1-b492uqf.png)
 Learn how to efficiently declare, access, and manipulate JavaScript arrays with this comprehensive guide, covering essential methods and best practices.
 
-### [425. 10 Must-Know JavaScript Object Secrets Every developer Needs!](https://hackernoon.com/10-must-know-javascript-object-secrets-every-developer-needs)
+### [424. 10 Must-Know JavaScript Object Secrets Every developer Needs!](https://hackernoon.com/10-must-know-javascript-object-secrets-every-developer-needs)
 ![](https://cdn.hackernoon.com/images/ZooZQzFE7INYxlbDjBNNxqTpP8g2-4o0318h.jpeg)
 Get the answers to the most common questions about JavaScript objects, packed with examples and challenges to help you learn hands-on.
 

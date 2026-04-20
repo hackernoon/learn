@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [java-development](https://hackernoon.com/tagged/java-development)
+### Let's learn about [Java Development](https://hackernoon.com/tagged/java-development) via these 89 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Java development involves creating software applications using the Java programming language and platform. It remains highly relevant for enterprise-level applications, Android development, and big data processing, known for its portability and robustness.
+
 ### [1. How to Intercept HTTP Request Response in Spring Boot](https://hackernoon.com/how-to-intercept-http-request-response-in-spring-boot)
 ![](https://cdn.hackernoon.com/images/a-screen-displaying-a-websites-backend-zjzcih4mgxdzuqsie45zvc2o.png)
 In this article, we'll learn about creating and using interceptors in Spring boot. 
@@ -25,13 +29,13 @@ JavaScript,  the language known for “running the internet,” is entrenched i
 ![](https://cdn.hackernoon.com/images/a088Dwhw1pNtxFTtazApdvSQJk03-kj235gm.jpeg)
 In this article, I show how to use the ForkJoinPool, which hasn’t received significant dissemination among Java developers.
 
-### [7. An Anatomy of Tiny URL Provider Service](https://hackernoon.com/an-anatomy-of-tiny-url-provider-service-1ly31gd)
-![](https://cdn.hackernoon.com/images/eQAboXKgBIZ0OD357lPO5ho4RdA2-xlnz31fv.jpeg)
-In this article, java developers explain the Anatomy of system designing of a URL Shortener Solution or Tiny URL provider Service.
-
-### [8. The Top Java Excel API Libraries](https://hackernoon.com/the-top-java-excel-api-libraries)
+### [7. The Top Java Excel API Libraries](https://hackernoon.com/the-top-java-excel-api-libraries)
 ![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-1l0338w.png)
 Explore the top Java Excel API Libraries and their notable features for your applications in this review of leading options.
+
+### [8. An Anatomy of Tiny URL Provider Service](https://hackernoon.com/an-anatomy-of-tiny-url-provider-service-1ly31gd)
+![](https://cdn.hackernoon.com/images/eQAboXKgBIZ0OD357lPO5ho4RdA2-xlnz31fv.jpeg)
+In this article, java developers explain the Anatomy of system designing of a URL Shortener Solution or Tiny URL provider Service.
 
 ### [9. The New MacBook Air is Better than the M1 Max for Java Development](https://hackernoon.com/the-new-macbook-air-is-better-than-the-m1-max-for-java-development)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-if92ewp.jpeg)
@@ -115,13 +119,13 @@ This article covers the most common security vulnerabilities for Java programmin
 ![](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Memento design pattern is a software design pattern that is used to roll back an object to its previous state. It is a part of the behavioural design pattern which is concerned with algorithms and assignment of responsibilities between objects. 
 
-### [29. Introduction to RxJava: Observable Pattern](https://hackernoon.com/introduction-to-rxjava-observable-pattern-ym493yn4)
-![](https://images.unsplash.com/photo-1565508476725-23182ae55a01?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-"RxJava is a Java VM implementation of Reactive Extensions: a library for composing asynchronous and event-based programs by using observable sequences." by RxJava developers.
-
-### [30. 15 Books for Computer Science Students](https://hackernoon.com/15-recommended-books-for-computer-science-students)
+### [29. 15 Books for Computer Science Students](https://hackernoon.com/15-recommended-books-for-computer-science-students)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-xe93wop.jpeg)
 In this article, I am going to discuss 15 Recommended Books For Computer Science Students
+
+### [30. Introduction to RxJava: Observable Pattern](https://hackernoon.com/introduction-to-rxjava-observable-pattern-ym493yn4)
+![](https://images.unsplash.com/photo-1565508476725-23182ae55a01?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+"RxJava is a Java VM implementation of Reactive Extensions: a library for composing asynchronous and event-based programs by using observable sequences." by RxJava developers.
 
 ### [31. 19 Basic Java Interview Questions and Short Sample Answers — 2021](https://hackernoon.com/19-basic-java-interview-questions-and-short-sample-answers-2021)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-vb03ors.jpeg)
@@ -163,37 +167,37 @@ How to implement a last-in-first-out (LIFO) stack using only two queues and why 
 ![](https://cdn.hackernoon.com/images/7gw8dcicqwdE2oxqe6dakGK6Uuj2-d4027xf.jpeg)
 Hashmap is a collection of key-value pairs and an array of nodes. It uses an array and LinkedList for storing key-value pairs.
 
-### [41. How Do I Integrate WebSockets and Not Get Burned?](https://hackernoon.com/how-do-i-integrate-websockets-and-not-get-burned)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-oo93oyd.jpeg)
-Dashkivsky Roman, 5 years in Java. An avid gamer. Successfully balances work and volunteering. How to implement simple task using WebSockets and not burn out
-
-### [42. Back to the Future: Running Spring Boot 2 in GlassFish 4 Using Java 8](https://hackernoon.com/back-to-the-future-running-spring-boot-2-in-glassfish-4-using-java-8)
+### [41. Back to the Future: Running Spring Boot 2 in GlassFish 4 Using Java 8](https://hackernoon.com/back-to-the-future-running-spring-boot-2-in-glassfish-4-using-java-8)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-t6032su.jpeg)
 Learn how to deploy a Spring Boot 2.7.18 application on GlassFish 4.1.2 using Java 8, with step-by-step instructions and tips. 
 
-### [43. How to Implement Expansion Formulas in Java](https://hackernoon.com/how-to-implement-expansion-formulas-in-java)
-![](https://cdn.hackernoon.com/images/ysXQQ2Q709W60Kk4TrKE20Gjeam2-3x93o1w.jpeg)
-A simple java program to show take the input a and b and display the output based on the formula selected by the user.
+### [42. How Do I Integrate WebSockets and Not Get Burned?](https://hackernoon.com/how-do-i-integrate-websockets-and-not-get-burned)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-oo93oyd.jpeg)
+Dashkivsky Roman, 5 years in Java. An avid gamer. Successfully balances work and volunteering. How to implement simple task using WebSockets and not burn out
 
-### [44. Why You Should Customize Your Bash Terminal And How To Do It](https://hackernoon.com/why-you-should-customize-your-bash-terminal-and-how-to-do-it-np1z3z8f)
+### [43. Why You Should Customize Your Bash Terminal And How To Do It](https://hackernoon.com/why-you-should-customize-your-bash-terminal-and-how-to-do-it-np1z3z8f)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmDsj2387wdN4dArKgC2UNVj38ru1-7je3wy5.jpeg?alt=media&token=97648237-617a-4c1e-96ed-b82226011715)
 The Linux bash shell is quite the wonder. With it, you can interact with the operating system in very powerful and flexible ways. To do that, you make use of one of many terminal emulators, such as GNOME Terminal, Guake, Terminator, or xterm.
+
+### [44. How to Implement Expansion Formulas in Java](https://hackernoon.com/how-to-implement-expansion-formulas-in-java)
+![](https://cdn.hackernoon.com/images/ysXQQ2Q709W60Kk4TrKE20Gjeam2-3x93o1w.jpeg)
+A simple java program to show take the input a and b and display the output based on the formula selected by the user.
 
 ### [45. What’s in Store for the Future With GraalVM?](https://hackernoon.com/whats-in-store-for-the-future-with-graalvm)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-0p92d48.jpeg)
 The big release of Spring and official support for spring native resurfaced my thoughts on migrating to GraalVM native image. Is it SubstrateVM time?
 
-### [46. Getting Rid of Garbage in Java](https://hackernoon.com/getting-rid-of-garbage-in-java)
+### [46. Microservice Patterns to Design and Implement Any Java-Based Event-Driven Microservices Application](https://hackernoon.com/microservice-patterns-to-design-and-implement-any-java-based-event-driven-microservices-application)
+![](https://cdn.hackernoon.com/images/eQAboXKgBIZ0OD357lPO5ho4RdA2-jki3jqm.jpeg)
+Java spring boot developers tutorial- Tips to use partitioning strategies in your microservices application and use of various Deployment Patterns & Strategies.
+
+### [47. Getting Rid of Garbage in Java](https://hackernoon.com/getting-rid-of-garbage-in-java)
 ![](https://cdn.hackernoon.com/images/qRCYveQ3SAVQcIAe3CbXRrmAsZ12-nrf3aew.jpeg)
 Every application needs memory to run. However, computer memory is limited. Therefore, it is important to clear it of old unused data to make room for new ones.
 
-### [47. JavaScript Explained By a Non-Developer](https://hackernoon.com/javascript-explained-by-a-non-developer-ja1j32mh)
+### [48. JavaScript Explained By a Non-Developer](https://hackernoon.com/javascript-explained-by-a-non-developer-ja1j32mh)
 ![](https://cdn.hackernoon.com/images/J4sDGrHzD6VZ9kyVfcCoAq4PRIU2-a33h37jm.jpeg)
 Ever wonder how people on the outside of a specific industry such as software development understand and describe the common terms within that field? d.
-
-### [48. Microservice Patterns to Design and Implement Any Java-Based Event-Driven Microservices Application](https://hackernoon.com/microservice-patterns-to-design-and-implement-any-java-based-event-driven-microservices-application)
-![](https://cdn.hackernoon.com/images/eQAboXKgBIZ0OD357lPO5ho4RdA2-jki3jqm.jpeg)
-Java spring boot developers tutorial- Tips to use partitioning strategies in your microservices application and use of various Deployment Patterns & Strategies.
 
 ### [49. Solving the Single Number and Climbing Stairs Coding Challenge](https://hackernoon.com/solving-the-single-number-and-climbing-stairs-coding-challenge)
 ![](https://cdn.hackernoon.com/images/WyL2V0Nj20amUlioe5bpd0cPHF92-9493qxj.jpeg)
@@ -246,13 +250,13 @@ Are you looking to hire a Java developer? Well, if you are, we can say that you 
 ![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-5t038j5.jpeg)
 In the world of powerful open Internet resources like books, tutorials, libraries, Youtube videos, blogs, and programming courses, everybody is talking about online learning. Now you have everything to study fast and effectively, at your own pace.
 
-### [61. My Top-Rated Java Tutorials for Coding Newbies](https://hackernoon.com/my-top-rated-java-tutorials-for-coding-newbies-p51g3uco)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FqeIv6rNygoYrUXBwG7uA2lPpLSj2-0c2y3vtw.jpeg?alt=media&token=f2188618-2cd6-409e-a2b4-c48ba6dd3ba1)
-Why Java?
-
-### [62. 5 Ways To Fortify Your Code Against Memory Leaks](https://hackernoon.com/5-ways-to-fortify-your-code-against-memory-leaks)
+### [61. 5 Ways To Fortify Your Code Against Memory Leaks](https://hackernoon.com/5-ways-to-fortify-your-code-against-memory-leaks)
 ![](https://cdn.hackernoon.com/images/code-displayed-on-a-laptop-c6noap4wxuwe8cxvem0m5dmq.png)
 Learn 5 practical, no-BS techniques to prevent memory leaks in Java, .NET, and React. Improve performance, reduce crashes, and debug less at 3 a.m.
+
+### [62. My Top-Rated Java Tutorials for Coding Newbies](https://hackernoon.com/my-top-rated-java-tutorials-for-coding-newbies-p51g3uco)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FqeIv6rNygoYrUXBwG7uA2lPpLSj2-0c2y3vtw.jpeg?alt=media&token=f2188618-2cd6-409e-a2b4-c48ba6dd3ba1)
+Why Java?
 
 ### [63. JDBC Tutorial Part 2: How to Run SQL Queries](https://hackernoon.com/jdbc-tutorial-part-2-how-to-run-sql-queries)
 ![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-ja039iu.jpeg)
@@ -266,13 +270,13 @@ In this article, we will learn how to dockerize a spring boot 3 application.
 ![](https://cdn.hackernoon.com/images/3hdZTiupssamlsTub25ilKl38HF3-43b3og3.png)
 JavaScript often referred to as JS, is the most useful and popular object-oriented, interpreted programming language
 
-### [66. Java Vs. JavaScript: Know the Difference](https://hackernoon.com/java-vs-javascript-know-the-difference-8k7j35e6)
-![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-h12x36tc.jpeg)
-Why do these two languages have such similar names? How do they differ from each other? This article will provide the answers.
-
-### [67. Should You be an In-house or Freelance Java Developer? The Agony of Choice](https://hackernoon.com/should-you-be-an-in-house-or-freelance-java-developer-the-agony-of-choice)
+### [66. Should You be an In-house or Freelance Java Developer? The Agony of Choice](https://hackernoon.com/should-you-be-an-in-house-or-freelance-java-developer-the-agony-of-choice)
 ![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-c3038li.jpeg)
 Landing a work-from-home job can be a dream come true. But what’s the best home-based job? Being a developer!
+
+### [67. Java Vs. JavaScript: Know the Difference](https://hackernoon.com/java-vs-javascript-know-the-difference-8k7j35e6)
+![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-h12x36tc.jpeg)
+Why do these two languages have such similar names? How do they differ from each other? This article will provide the answers.
 
 ### [68. Recommended Java Practice Platforms for Your 10,000 Hours](https://hackernoon.com/recommended-java-practice-platforms-for-your-10000-hours-973v33i1)
 ![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-3e3633zd.jpeg)
@@ -294,67 +298,71 @@ Industry analyst Doug Laney postulated the current definition of Big Data compri
 ![](https://cdn.hackernoon.com/images/e3N1YN3EIBboDWlXIrGE70pUigm2-4x137tq.jpeg)
 The need to work from home and the inability to freely move around the world has stimulated the development of data security, cloud computing, big data, tools for remote work. The Java language and platform are still in demand and evolving. In this article, I'm going to talk about what will influence the development of Java in 2022 and what to expect for developers of this language.
 
-### [73. Common Java Learning Mistakes To Avoid](https://hackernoon.com/common-java-learning-mistakes-to-avoid)
+### [73. I Built a Fix So You Can Stop Writing Micrometer Boilerplate](https://hackernoon.com/i-built-a-fix-so-you-can-stop-writing-micrometer-boilerplate)
+![](https://cdn.hackernoon.com/images/a-clean-java-code-editor-transforming-complex-metric-setup-into-simple-annotations-cncba280l1tnfv1q1lxg6oem.png)
+Metrify simplifies Spring Boot metrics with annotations, removing Micrometer boilerplate and enabling cleaner, faster observability.
+
+### [74. Common Java Learning Mistakes To Avoid](https://hackernoon.com/common-java-learning-mistakes-to-avoid)
 ![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-zx236va.jpeg)
 Are you stuck in the learning root, or do you feel like your Java study doesn’t bring the results you’re craving for? If so, you’re not alone.
 
-### [74. Java Development for Beginners: Tips and Resources](https://hackernoon.com/java-development-for-beginners-tips-and-resources-611q350x)
+### [75. Java Development for Beginners: Tips and Resources](https://hackernoon.com/java-development-for-beginners-tips-and-resources-611q350x)
 ![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-j32h33t7.jpeg)
 Mastering code in Java is absolutely fun to do and once you start practicing it, the language itself will unravel its upsides for you to acknowledge.
 
-### [75. When the Compilers Get Confused: Ambiguities in Java](https://hackernoon.com/when-the-compilers-get-confused-ambiguities-in-java)
+### [76. When the Compilers Get Confused: Ambiguities in Java](https://hackernoon.com/when-the-compilers-get-confused-ambiguities-in-java)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-aj03ajg.jpeg)
 Ambiguities in java which give different results for different compilers.
 
-### [76. Real-Time Data Processing with Kafka Streams: Simplifying Stream Processing Applications](https://hackernoon.com/real-time-data-processing-with-kafka-streams-simplifying-stream-processing-applications)
+### [77. Real-Time Data Processing with Kafka Streams: Simplifying Stream Processing Applications](https://hackernoon.com/real-time-data-processing-with-kafka-streams-simplifying-stream-processing-applications)
 ![](https://cdn.hackernoon.com/images/q6t9kyVqaAbMWMb9XJWOGmM6iV92-wk83cuh.png)
 Explore Kafka Streams: a Java library for building scalable, fault-tolerant stream processing apps. Learn how to simplify real-time data processing.
 
-### [77. Why You Should Build your First Android App in Java](https://hackernoon.com/why-you-should-build-your-first-android-app-in-java)
+### [78. Why You Should Build your First Android App in Java](https://hackernoon.com/why-you-should-build-your-first-android-app-in-java)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlAKhZuaE9cR6Do1eQYBeqf9groF2-e61q3wbk.jpeg?alt=media&token=18478704-189e-41d6-9324-6f4931822a17)
 From genomics to space exploration, from robotic controllers to reverse compilers, Java is at the nucleus of the technology juggernaut.
 
-### [78. Beyond coding: a list of Java Developer’s typical tasks on a project](https://hackernoon.com/beyond-coding-a-list-of-java-developers-typical-tasks-on-a-project)
+### [79. Beyond coding: a list of Java Developer’s typical tasks on a project](https://hackernoon.com/beyond-coding-a-list-of-java-developers-typical-tasks-on-a-project)
 ![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-5v636a1.jpeg)
 Let’s check out typical tasks of a Java developer on a project, for a junior, middle, or senior level developer.
 
-### [79. How to Package a Java Project in a "Box" using Spring Framework](https://hackernoon.com/how-to-package-a-java-project-in-a-box-using-spring-framework)
+### [80. How to Package a Java Project in a "Box" using Spring Framework](https://hackernoon.com/how-to-package-a-java-project-in-a-box-using-spring-framework)
 ![](https://cdn.hackernoon.com/images/java-in-a-box-clhoyxf7a000001s61akje1j5.png)
 
 
-### [80. Go From Simply a Java Programmer to Polyglot Coder with These JVM Languages](https://hackernoon.com/go-from-simply-a-java-programmer-to-polyglot-coder-with-these-jvm-languages-dw4132dw)
+### [81. Go From Simply a Java Programmer to Polyglot Coder with These JVM Languages](https://hackernoon.com/go-from-simply-a-java-programmer-to-polyglot-coder-with-these-jvm-languages-dw4132dw)
 ![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-op2d36v8.jpeg)
 Three programming languages Java developers should learn in 2021 and the reasons why.
 
-### [81. Sound Call Graph Construction for Java Object Deserialization: Results](https://hackernoon.com/sound-call-graph-construction-for-java-object-deserialization-results)
+### [82. Sound Call Graph Construction for Java Object Deserialization: Results](https://hackernoon.com/sound-call-graph-construction-for-java-object-deserialization-results)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-pw82l4l.jpeg)
 Object serialization and deserialization is widely used for storing and preserving objects in !les, memory, or database.
 
-### [82. Sound Call Graph Construction for Java Object: Conclusions, Acknowledgment, & References](https://hackernoon.com/sound-call-graph-construction-for-java-object-conclusions-acknowledgment-and-references)
+### [83. Sound Call Graph Construction for Java Object: Conclusions, Acknowledgment, & References](https://hackernoon.com/sound-call-graph-construction-for-java-object-conclusions-acknowledgment-and-references)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-dm82lcf.jpeg)
 Object serialization and deserialization is widely used for storing and preserving objects in !les, memory, or database.
 
-### [83. Application Scenarios of Pylon CLI — A Client Tool that Controls the Dev Environment Locally](https://hackernoon.com/application-scenarios-of-pylon-cli-a-client-tool-that-controls-the-dev-environment-locally)
+### [84. Application Scenarios of Pylon CLI — A Client Tool that Controls the Dev Environment Locally](https://hackernoon.com/application-scenarios-of-pylon-cli-a-client-tool-that-controls-the-dev-environment-locally)
 ![](https://cdn.hackernoon.com/images/QZPDOx2fPXgPotcyq5iL0vPtza53-j9037wt.jpeg)
 As a front-end engineer, Node is an essential development tool for java. 
 
-### [84. Sound Call Graph Construction for Java Object Deserialization: Related Work](https://hackernoon.com/sound-call-graph-construction-for-java-object-deserialization-related-work)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rh82myt.jpeg)
-Object serialization and deserialization is widely used for storing and preserving objects in !les, memory, or database.
-
-### [85. Sound Call Graph Construction for Java Object Deserialization: Evaluation](https://hackernoon.com/sound-call-graph-construction-for-java-object-deserialization-evaluation)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-dp82lak.jpeg)
-Object serialization and deserialization is widely used for storing and preserving objects in !les, memory, or database.
-
-### [86. Sound Call Graph Construction for Java Object Deserialization: Introduction](https://hackernoon.com/sound-call-graph-construction-for-java-object-deserialization-introduction)
+### [85. Sound Call Graph Construction for Java Object Deserialization: Introduction](https://hackernoon.com/sound-call-graph-construction-for-java-object-deserialization-introduction)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-w882mme.jpeg)
 Object serialization and deserialization is widely used for storing and preserving objects in !les, memory, or database.
 
-### [87. Sound Call Graph Construction for Java Object Deserialization: Seneca: Taint-Based Call Graph](https://hackernoon.com/sound-call-graph-construction-for-java-object-deserialization-seneca-taint-based-call-graph)
+### [86. Sound Call Graph Construction for Java Object Deserialization: Related Work](https://hackernoon.com/sound-call-graph-construction-for-java-object-deserialization-related-work)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rh82myt.jpeg)
+Object serialization and deserialization is widely used for storing and preserving objects in !les, memory, or database.
+
+### [87. Sound Call Graph Construction for Java Object Deserialization: Evaluation](https://hackernoon.com/sound-call-graph-construction-for-java-object-deserialization-evaluation)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-dp82lak.jpeg)
+Object serialization and deserialization is widely used for storing and preserving objects in !les, memory, or database.
+
+### [88. Sound Call Graph Construction for Java Object Deserialization: Seneca: Taint-Based Call Graph](https://hackernoon.com/sound-call-graph-construction-for-java-object-deserialization-seneca-taint-based-call-graph)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-vm82mtk.jpeg)
 Object serialization and deserialization is widely used for storing and preserving objects in !les, memory, or database.
 
-### [88. Sound Call Graph Construction for Java Object Deserialization: Background](https://hackernoon.com/sound-call-graph-construction-for-java-object-deserialization-background)
+### [89. Sound Call Graph Construction for Java Object Deserialization: Background](https://hackernoon.com/sound-call-graph-construction-for-java-object-deserialization-background)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ne82lyj.jpeg)
 Object serialization and deserialization is widely used for storing and preserving objects in !les, memory, or database.
 

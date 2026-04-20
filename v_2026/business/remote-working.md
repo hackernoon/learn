@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [remote-working](https://hackernoon.com/tagged/remote-working)
+### Let's learn about [Remote Working](https://hackernoon.com/tagged/remote-working) via these 213 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Welcome to working from home! The place where the hours you work are entirely made up and your pants don't matter.
 
 ### [1. How to Stop Your Office Chair from Constantly Sinking, Much Like This Year](https://hackernoon.com/how-to-stop-your-office-chair-from-constantly-sinking-much-like-this-year-d43z3uua)
@@ -148,13 +150,13 @@ Learn the pros and cons of remote work, on site work, and hybrid work. how to fi
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-9q93ct0.png)
 Zero trust architecture for remote workers revolutionizes cybersecurity, prioritizing strict access controls and continuous authentication to enhance org!
 
-### [37. 5 Tested Techniques To Grow a 7- Figure Online Business From Home ](https://hackernoon.com/5-tested-techniques-to-grow-a-7-figure-online-business-from-home-uw1a35w5)
-![](https://cdn.hackernoon.com/images/PuzdRfXQmfZSHgPbbMSUT0ZN5TE3-b0k34f6.jpeg)
-With huge technological advances and multiple remote work opportunities, it is now possible to build an empire from your spare bedroom. 
-
-### [38. How to Record a Zoom Meeting without Permission on Phone, Windows, and Mac](https://hackernoon.com/how-to-record-a-zoom-meeting-without-permission-on-phone-windows-and-mac)
+### [37. How to Record a Zoom Meeting without Permission on Phone, Windows, and Mac](https://hackernoon.com/how-to-record-a-zoom-meeting-without-permission-on-phone-windows-and-mac)
 ![](https://cdn.hackernoon.com/images/gJIQIg1YPxb5RjSISA8RrkbCDv83-9793ur8.jpeg)
 To record Zoom meetings without permission, consider 1. Systems screen recorder, 2. third-party screen recorder, 3. zoom chrome extension to record zoom meeting
+
+### [38. 5 Tested Techniques To Grow a 7- Figure Online Business From Home ](https://hackernoon.com/5-tested-techniques-to-grow-a-7-figure-online-business-from-home-uw1a35w5)
+![](https://cdn.hackernoon.com/images/PuzdRfXQmfZSHgPbbMSUT0ZN5TE3-b0k34f6.jpeg)
+With huge technological advances and multiple remote work opportunities, it is now possible to build an empire from your spare bedroom. 
 
 ### [39. What are the Best Dev-friendly collaboration Tools for Remote Teams?](https://hackernoon.com/what-are-the-best-dev-friendly-collaboration-tools-for-remote-teams)
 ![](https://cdn.hackernoon.com/images/5piuqbzGNPae5bZRCn8CCDvc78P2-4j93khg.jpeg)
@@ -197,13 +199,13 @@ Here's what to understand about the "future of work" particularly for jobseekers
 ![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-698375r.jpeg)
 How remote workers can succeed with self care and assertiveness. 
 
-### [48. Are You Making These 4 Remote Working Mistakes?](https://hackernoon.com/are-you-making-these-4-remote-working-mistakes-py6v3u24)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FjKdpzOARpub0BcqPzX0C4VX4uzG2-pf143uqw.jpeg?alt=media&token=ef059a27-3b29-4604-98f7-1b39dae85b8e)
-One attribute that distinguishes top-notch remote workers from the amateurs is their ability to manage work from home. You will observe this propensity from the world's best-in-class remote companies, including Apple, Lionbridge, and VIDKid.
-
-### [49. Remote Work's Hierarchy of Needs](https://hackernoon.com/remote-works-hierarchy-of-needs-j0ar30tk)
+### [48. Remote Work's Hierarchy of Needs](https://hackernoon.com/remote-works-hierarchy-of-needs-j0ar30tk)
 ![](https://images.unsplash.com/photo-1501085928709-6e5c3b86ad9c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Have you heard of Abraham Maslow? He was a Psychology professor who came up with this super popular framework called 'Hierarchy of Needs' which categorizes human needs into 5 buckets. While the framework itself received a mixed response, being lauded by many and on the other hand being criticised for its vagueness, it surely had a strong influence across many fields and on other researchers.
+
+### [49. Are You Making These 4 Remote Working Mistakes?](https://hackernoon.com/are-you-making-these-4-remote-working-mistakes-py6v3u24)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FjKdpzOARpub0BcqPzX0C4VX4uzG2-pf143uqw.jpeg?alt=media&token=ef059a27-3b29-4604-98f7-1b39dae85b8e)
+One attribute that distinguishes top-notch remote workers from the amateurs is their ability to manage work from home. You will observe this propensity from the world's best-in-class remote companies, including Apple, Lionbridge, and VIDKid.
 
 ### [50. How  to Make Brainstorming as a Remote Team Work](https://hackernoon.com/how-to-make-remote-brainstorming-work)
 ![](https://cdn.hackernoon.com/images/6Ih8XbFQOBWEzfH3UWPjHl3raHR2-prr3jgu.jpeg)
@@ -225,11 +227,7 @@ Learn everything you need to know about Remote Working Tools via these 73 free H
 ![](https://cdn.hackernoon.com/images/mLOAGQJTmpeiJtuqE6akzQVrPnY2-f32u3wy1.jpeg)
 Wow. What a year! With everything from a pandemic to an election, it’s hard to believe that 2020 is (finally) coming to an end and that we are looking ahead to what the next 12 months will bring. It’s no secret that in 2021 we will continue to see drastic changes to personal and work life as we know it, and it’s safe to say that the technology market will continue to change and evolve, as well as our definition of “normal” for work.
 
-### [55. Protecting Your Mental Health While WFH](https://hackernoon.com/protecting-your-mental-health-while-wfh-nmp3ubq)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4XpCKhxvWNQGD8OlFlUsLWjflF82-rm143ub1.jpeg?alt=media&token=5ace0712-1e2d-41c7-aec8-556ee7053a5c)
-The past six weeks have been challenging. As someone who thrives off social interaction and throwing ideas around in a room of people, working from home has been a huge shift for me both mentally and professionally.  
-
-### [56. Remote Work: Anti-Patterns For Everyday Use 🚫](https://hackernoon.com/remote-work-anti-patterns-for-everyday-use-bb143ui9)
+### [55. Remote Work: Anti-Patterns For Everyday Use 🚫](https://hackernoon.com/remote-work-anti-patterns-for-everyday-use-bb143ui9)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3njNqfeppyTP2xcsXb2fQ9AjtW33-rtf3u5y.webp?alt=media&token=a4c87cbf-a347-4d72-aba0-a96bc507d6b9)
 As an engineer, I was fascinated when I was first introduced to design patterns but I was even more intrigued when I read about anti-patterns. Put simply, design patterns are good practices to solve common problems while anti-patterns are the exact opposite and undesirable.
 
@@ -248,6 +246,10 @@ The biggest mistake would be to assume that working remotely is going to be the 
 Buffer came up with 'The Remote Working Scale' which categorises the way a company could approach remote working. So, the shift to remote is ideally not a 0 to 1 switch and has many intermediate levels that could be implemented.
 
 The important point, however, is to build a truly remote-first culture rather than just being remote-friendly even at the intermediate levels. We have detailed the difference between being remote-first and remote-friendly in our guide.
+
+### [56. Protecting Your Mental Health While WFH](https://hackernoon.com/protecting-your-mental-health-while-wfh-nmp3ubq)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4XpCKhxvWNQGD8OlFlUsLWjflF82-rm143ub1.jpeg?alt=media&token=5ace0712-1e2d-41c7-aec8-556ee7053a5c)
+The past six weeks have been challenging. As someone who thrives off social interaction and throwing ideas around in a room of people, working from home has been a huge shift for me both mentally and professionally.  
 
 ### [57. Top Productivity Tools for Tech Remote Employees](https://hackernoon.com/top-productivity-tools-for-tech-remote-employees)
 ![](https://cdn.hackernoon.com/images/YTy4uuJL5uXOicDqUItf33GI4pM2-xqh3pzy.jpeg)
@@ -279,65 +281,65 @@ Hiring a remote team can help you create a more diverse workplace, which can bri
 ![](https://cdn.hackernoon.com/images/AcD8drshdHcLNoO1hEmPiHuHXlh2-o493ru5.jpeg)
 In this blog, you come to realize remote working usability checking out is a notable manner to check your product earlier than and after launch! 
 
-### [64. Why Are Bosses Against Remote Work?](https://hackernoon.com/why-are-bosses-against-remote-work)
-![](https://cdn.hackernoon.com/images/fSVzTMvZAKWoDWRyByAW36ZMx8m2-lf93sel.jpeg)
-72% of managers prefer their subordinates to be in the office. Why are bosses so against remote work? Find out what our readers think might be the issues here.
-
-### [65. How Modern Technology Reshapes the Way We Work](https://hackernoon.com/how-modern-technology-reshapes-the-way-we-work)
+### [64. How Modern Technology Reshapes the Way We Work](https://hackernoon.com/how-modern-technology-reshapes-the-way-we-work)
 ![](https://cdn.hackernoon.com/images/6hWIoZ4m0oPrJDtl5IWmGW1ygqw1-lca3nai.jpeg)
 
+
+### [65. Why Are Bosses Against Remote Work?](https://hackernoon.com/why-are-bosses-against-remote-work)
+![](https://cdn.hackernoon.com/images/fSVzTMvZAKWoDWRyByAW36ZMx8m2-lf93sel.jpeg)
+72% of managers prefer their subordinates to be in the office. Why are bosses so against remote work? Find out what our readers think might be the issues here.
 
 ### [66.   How to be a React Native Developer](https://hackernoon.com/how-to-be-a-react-native-developer)
 ![](https://cdn.hackernoon.com/images/TIxYE68RnPZQWGFaMaXpYV0OQ7Q2-vu13gp0.jpeg)
   How to be a React Native Developer
 
-### [67. A Remote Work Starter Pack for Effective Free-Range Communication](https://hackernoon.com/7-essential-tools-in-helping-remote-teams-communication-xf853z8b)
-![](https://cdn.hackernoon.com/drafts/5is32ju.png)
-One of their biggest concerns for employers considering adding remote work benefits is that employees won't communicate as well with each other when they literally don't see eye to eye.
+### [67. 9 Productivity Tools Every Dev Should Look Into](https://hackernoon.com/9-productivity-tools-every-dev-should-look-into)
+![](https://cdn.hackernoon.com/images/too6UlyK1RTQqOrRsiS7PVQp20d2-k1a3kj7.jpeg)
+Here is a short list of some great tools I've discovered over the past year.
 
 ### [68. 5 Ways Your Home Setup Could be Hurting Your WFH Productivity](https://hackernoon.com/5-ways-your-home-setup-could-be-hurting-your-wfh-productivity-lu3m375t)
 ![](https://cdn.hackernoon.com/images/Kyy5p4Pob6VF0xa8TwiHQYZZ1QL2-o7g354c.jpeg)
 WFH productivity can be influenced by a series of outside factors. Optimize your workspace to optimize your productivity. 
 
-### [69. Choosing the Right Communication Method for Remote Engineering Discussions](https://hackernoon.com/choosing-the-right-communication-method-for-remote-engineering-discussions-8wag24jx)
+### [69. A Remote Work Starter Pack for Effective Free-Range Communication](https://hackernoon.com/7-essential-tools-in-helping-remote-teams-communication-xf853z8b)
+![](https://cdn.hackernoon.com/drafts/5is32ju.png)
+One of their biggest concerns for employers considering adding remote work benefits is that employees won't communicate as well with each other when they literally don't see eye to eye.
+
+### [70. Choosing the Right Communication Method for Remote Engineering Discussions](https://hackernoon.com/choosing-the-right-communication-method-for-remote-engineering-discussions-8wag24jx)
 ![](https://cdn.hackernoon.com/images/hc343yl9.jpg)
 TV news tells us that working from home is the new normal. Or, at least, as normal as life gets right now. Zoom is a household name and ancient jokes about wearing pajamas under the desk are doing the rounds on social media.
-
-### [70. 9 Productivity Tools Every Dev Should Look Into](https://hackernoon.com/9-productivity-tools-every-dev-should-look-into)
-![](https://cdn.hackernoon.com/images/too6UlyK1RTQqOrRsiS7PVQp20d2-k1a3kj7.jpeg)
-Here is a short list of some great tools I've discovered over the past year.
 
 ### [71. How I Got My Startup Funded By Jason Calacanis](https://hackernoon.com/how-i-got-my-startup-funded-by-jason-calacanis-gj3s3415)
 ![](https://cdn.hackernoon.com/images/krqcWMfPEEYdgY7MziMhk14NbLH2-gs4e34a5.jpeg)
 This is the story that how I started Remotehour after 5 years of bootstrapping.
 
-### [72. What Is the Future of Remote Work?](https://hackernoon.com/what-is-the-future-of-remote-work-ma53m374n)
-![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-lx193okc.jpeg)
-We're talking about remote work This Week On Planet Internet because HackerNoon is a fully remote company and WE'VE GOT THINGS TO SAY about working remotely 😤
-
-### [73. 118 Stories To Learn About Work From Home](https://hackernoon.com/118-stories-to-learn-about-work-from-home)
+### [72. 118 Stories To Learn About Work From Home](https://hackernoon.com/118-stories-to-learn-about-work-from-home)
 ![](https://cdn.hackernoon.com/images/github/work-from-home-440.png)
 Learn everything you need to know about Work From Home via these 118 free HackerNoon stories.
 
-### [74. Hiring Remote Tech Talent: Overcoming the Challenges, Maximizing the Benefits](https://hackernoon.com/hiring-remote-tech-talent-overcoming-the-challenges-maximizing-the-benefits)
+### [73. Hiring Remote Tech Talent: Overcoming the Challenges, Maximizing the Benefits](https://hackernoon.com/hiring-remote-tech-talent-overcoming-the-challenges-maximizing-the-benefits)
 ![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-tha3m1l.jpeg)
 Levin shares his views on hiring remote tech talent, the benefits and challenges of remote hiring, and strategies for finding and retaining remote talent.
+
+### [74. What Is the Future of Remote Work?](https://hackernoon.com/what-is-the-future-of-remote-work-ma53m374n)
+![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-lx193okc.jpeg)
+We're talking about remote work This Week On Planet Internet because HackerNoon is a fully remote company and WE'VE GOT THINGS TO SAY about working remotely 😤
 
 ### [75. How Modern Technology has Changed Agile Methodology](https://hackernoon.com/how-modern-technology-has-changed-agile-methodology-iz22342c)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-du1v34tx.jpeg)
 COVID-19 has severely challenged a core tenet of the Agile movement: the importance of face-to-face communication. But instead of slowing Agile teams down, herein lies an opportunity to improve the fundamentals of an efficient workplace, writes Clifford Berg 
 
-### [76. Talent for Tech? Job Tips From 5 Top Women in Tech](https://hackernoon.com/talent-for-tech-tips-for-how-to-get-a-job-from-5-top-women-in-tech-kxf648m0)
-![](https://cdn.hackernoon.com/images/zq4kRoY1koM2G9ICsR601fXkYy22-44bf48br.jpeg)
-As the technology sector expands, there are exponential opportunities for people from all backgrounds and disciplines to carve out new careers for yourself. 
+### [76. Can Music Improve Your Productivity While Working at Home](https://hackernoon.com/can-music-improve-your-productivity-while-working-at-home)
+![](https://cdn.hackernoon.com/images/1seq4qrrDNXISpIKTdvprog5bNr2-z393vpu.jpeg)
+If you're looking for ways to get more done and stay productive at home, music can help you achieve this goal.
 
 ### [77. 5 Simple Strategies To Build Trust in Remote Teams](https://hackernoon.com/6-simple-strategies-to-build-trust-in-remote-teams-iq1034hm)
 ![](https://cdn.hackernoon.com/images/hSXSNmJ8v2RHYj6LbXV5QHy9gcI3-xne031jq.jpeg)
 Before we attempt to answer the challenge of how to build trust over Zoom, Loom, Slack. Let’s try to analyze what built trust 
 
-### [78. Can Music Improve Your Productivity While Working at Home](https://hackernoon.com/can-music-improve-your-productivity-while-working-at-home)
-![](https://cdn.hackernoon.com/images/1seq4qrrDNXISpIKTdvprog5bNr2-z393vpu.jpeg)
-If you're looking for ways to get more done and stay productive at home, music can help you achieve this goal.
+### [78. Talent for Tech? Job Tips From 5 Top Women in Tech](https://hackernoon.com/talent-for-tech-tips-for-how-to-get-a-job-from-5-top-women-in-tech-kxf648m0)
+![](https://cdn.hackernoon.com/images/zq4kRoY1koM2G9ICsR601fXkYy22-44bf48br.jpeg)
+As the technology sector expands, there are exponential opportunities for people from all backgrounds and disciplines to carve out new careers for yourself. 
 
 ### [79. Slaying the Hydra of Remote Work Woes - One Head at a Time.](https://hackernoon.com/slaying-the-hydra-of-remote-work-problems-one-head-at-a-time-lecet30wl)
 ![](https://cdn.hackernoon.com/drafts/encby30h7.png)
@@ -357,102 +359,102 @@ Accidents do happen. Everyone's home included. But, here's the thing. Technicall
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FdbyqrWCtp5SN19vJdpkesOHqgo83-7ob3u2y.jpeg?alt=media&token=b7568b92-46a0-4531-a7b3-5ef17ddd8854)
 Challenges and opportunities in the current global economy are as numerous and as full of potential as they haven’t been in a long time. We are venturing into the unknown in regards to the future socio-economic situation.
 
-### [83. The WFH Slump: 10 Ways To Be More Productive While Working From Home](https://hackernoon.com/the-wfh-slump-10-ways-to-be-more-productive-while-working-from-home-pc2635di)
-![](https://cdn.hackernoon.com/images/aBxCRG4PdBeC4Gw5xSpatovTWXC2-al323308.jpeg)
-With 56% of workers only working remotely for the last year, working from home is still something most of us are adjusting to.
-
-### [84. Professional Development in Tech: Steps for Creating a Productive Routine](https://hackernoon.com/professional-development-in-tech-steps-for-creating-a-productive-routine-2xhu31h7)
+### [83. Professional Development in Tech: Steps for Creating a Productive Routine](https://hackernoon.com/professional-development-in-tech-steps-for-creating-a-productive-routine-2xhu31h7)
 ![](https://cdn.hackernoon.com/images/ZBIjV3C6REYMeYUBWPx5RicU6Qo2-0mbu33ir.jpeg)
 If you're looking to advance your career in the field of tech, these 6 proactive steps can help you in your professional development. 
 
-### [85. Decentralizing the Office Space: Distributed Workplace is a New Norm](https://hackernoon.com/decentralizing-the-office-space-for-a-distributed-workplace-txk3nmu)
-![](https://cdn.hackernoon.com/images/ft1f3ns3.jpg)
-In recent years, remote working has become less of a concept and more of a reality. In lieu of traditional office space, full-time employees and freelancers alike are occupying home-offices, WeWork hot desks, and tables at their local life-source outlets (read: cafés selling coffee). Many progressive thinkers at the forefront of business forecasting, like Naval Ravikant, are professing that a digitally-facilitated, remote working environment is the next logical step for contemporary businesses looking to up their productivity output. However, is this just optimistic theorizing, or is there an actual basis for the distributed workplace to, well, work in the long-term? 
-
-### [86. Why Hiring Globally Diverse Talent Will Make You More Likely to Succeed](https://hackernoon.com/why-hiring-globally-diverse-talent-will-make-you-more-likely-to-succeed-txj3tqj)
+### [84. Why Hiring Globally Diverse Talent Will Make You More Likely to Succeed](https://hackernoon.com/why-hiring-globally-diverse-talent-will-make-you-more-likely-to-succeed-txj3tqj)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FuhYo7FG1tWS8ecur7Z1eeEUF4bc2-ozd03t10.jpeg?alt=media&token=f953bf17-dcfc-4e88-89e5-7df3e43b6739)
 A 2018 study by BCG found that companies with diverse management teams generate 19% more revenue through innovation than management teams with below-average diversity scores.
+
+### [85. The WFH Slump: 10 Ways To Be More Productive While Working From Home](https://hackernoon.com/the-wfh-slump-10-ways-to-be-more-productive-while-working-from-home-pc2635di)
+![](https://cdn.hackernoon.com/images/aBxCRG4PdBeC4Gw5xSpatovTWXC2-al323308.jpeg)
+With 56% of workers only working remotely for the last year, working from home is still something most of us are adjusting to.
+
+### [86. Decentralizing the Office Space: Distributed Workplace is a New Norm](https://hackernoon.com/decentralizing-the-office-space-for-a-distributed-workplace-txk3nmu)
+![](https://cdn.hackernoon.com/images/ft1f3ns3.jpg)
+In recent years, remote working has become less of a concept and more of a reality. In lieu of traditional office space, full-time employees and freelancers alike are occupying home-offices, WeWork hot desks, and tables at their local life-source outlets (read: cafés selling coffee). Many progressive thinkers at the forefront of business forecasting, like Naval Ravikant, are professing that a digitally-facilitated, remote working environment is the next logical step for contemporary businesses looking to up their productivity output. However, is this just optimistic theorizing, or is there an actual basis for the distributed workplace to, well, work in the long-term? 
 
 ### [87. How to Answer the Challenges of Remote Project Management in 2021](https://hackernoon.com/how-to-answer-the-challenges-of-remote-project-management-in-2021-95433197)
 ![](https://cdn.hackernoon.com/images/lV7kXgF1Y4dIXrCN4EXQA7VdwYX2-yk98317b.jpeg)
 Work from home is the new normal in 2021, which is a bad news for first-time project managers. The good news is anyone can master the art of remote management.
 
-### [88. How to Preserve Your Remote Company Culture](https://hackernoon.com/how-to-preserve-your-remote-company-culture-tw4j33yg)
-![](https://cdn.hackernoon.com/images/jcAabVbJWwhHjZp8jeOUM5zqsoL2-xc283f0l.jpeg)
-Promoting socializing, resisting surveillance, and hosting idea sessions can help to preserve your remote company culture.
-
-### [89. A Free Beginner’s Guide to DNS Security for Work From Home (WFH)](https://hackernoon.com/a-free-beginners-guide-to-dns-security-for-work-from-home-wfh-2s4i33y4)
+### [88. A Free Beginner’s Guide to DNS Security for Work From Home (WFH)](https://hackernoon.com/a-free-beginners-guide-to-dns-security-for-work-from-home-wfh-2s4i33y4)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-bpl3zwk.jpeg)
 Working at home does not mean compromise on security. All in all, it’s necessary to take decisive steps to enforce and sustain DNS protection measures.
 
-### [90. What Would Sigmund Freud Do? Advice on Remote Work and Marriage Counseling During The Pandemic](https://hackernoon.com/what-would-sigmund-freud-do-advice-on-remote-work-and-marriage-counseling-during-the-pandemic-l54e31ms)
-![](https://cdn.hackernoon.com/images/ulHLOrUUeTTHEKRJOCtpfWl7DLB3-39c31z8.jpeg)
-If you’re thinking about leaving the corporate world and becoming a freelancer, have you considered how that shift might impact your relationship with your wife, husband, or partner?
-
-### [91. How to Find Remote Jobs in 2021 - 16 Websites to Help You Work from Home Online](https://hackernoon.com/how-to-find-remote-jobs-in-2021-16-websites-to-help-you-work-from-home-online)
+### [89. How to Find Remote Jobs in 2021 - 16 Websites to Help You Work from Home Online](https://hackernoon.com/how-to-find-remote-jobs-in-2021-16-websites-to-help-you-work-from-home-online)
 ![](https://cdn.hackernoon.com/images/dekqFKbCjYP7GoUnRP2jptMYXsC3-1qj37w8.jpeg)
 Finding a remote job can be hard when you don’t know the best websites to go to. This list of remote job sites will help you find a work-from-home job easily.
 
-### [92. The 15 Common Tips About Managing Newly Remote Teams](https://hackernoon.com/the-15-common-tips-about-managing-newly-remote-teams-x5o3usu)
+### [90. How to Preserve Your Remote Company Culture](https://hackernoon.com/how-to-preserve-your-remote-company-culture-tw4j33yg)
+![](https://cdn.hackernoon.com/images/jcAabVbJWwhHjZp8jeOUM5zqsoL2-xc283f0l.jpeg)
+Promoting socializing, resisting surveillance, and hosting idea sessions can help to preserve your remote company culture.
+
+### [91. The 15 Common Tips About Managing Newly Remote Teams](https://hackernoon.com/the-15-common-tips-about-managing-newly-remote-teams-x5o3usu)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FuhYo7FG1tWS8ecur7Z1eeEUF4bc2-3p193ueq.jpeg?alt=media&token=fc80d4bf-e89d-4129-b9d6-7bf27c00f7a5)
 Remote work has become the most transformative labor trend of our lifetime. Long before ‘social distancing’ became a household term, businesses chose to operate with remote teams because of its benefits.
 
-### [93. The Working from Home Puzzle](https://hackernoon.com/the-working-from-home-puzzle-qt2f3yg0)
+### [92. How to Adjust Your Mac's Energy Saver Settings to Keep It Awake For Longer](https://hackernoon.com/how-to-adjust-your-macs-energy-saver-settings-to-keep-it-awake-for-longer)
+![](https://cdn.hackernoon.com/images/LrA624A16FTZNP1RUylNyrKf7ZH2-7103ixz.jpeg)
+Have you ever been in the middle of an important task, only for your Mac to dim the screen or go to sleep at the worst possible moment?
+
+### [93. What Would Sigmund Freud Do? Advice on Remote Work and Marriage Counseling During The Pandemic](https://hackernoon.com/what-would-sigmund-freud-do-advice-on-remote-work-and-marriage-counseling-during-the-pandemic-l54e31ms)
+![](https://cdn.hackernoon.com/images/ulHLOrUUeTTHEKRJOCtpfWl7DLB3-39c31z8.jpeg)
+If you’re thinking about leaving the corporate world and becoming a freelancer, have you considered how that shift might impact your relationship with your wife, husband, or partner?
+
+### [94. The Working from Home Puzzle](https://hackernoon.com/the-working-from-home-puzzle-qt2f3yg0)
 ![](https://cdn.hackernoon.com/drafts/vh343k5l.png)
 Working from home — WFH in short — is one of the most debated topics these days. Recent events have compelled many organizations to close their offices and force their employees to work from home. All aspects of the working experience are now being done remotely.
 
-### [94. 10 Ways to Cope with Remote Work to Make Working From Home Enjoyable](https://hackernoon.com/10-ways-to-cope-with-remote-work-to-make-working-from-home-enjoyable)
+### [95. 10 Ways to Cope with Remote Work to Make Working From Home Enjoyable](https://hackernoon.com/10-ways-to-cope-with-remote-work-to-make-working-from-home-enjoyable)
 ![](https://cdn.hackernoon.com/images/7skvMoTLQPTuwU5MRJrEZ31wECq2-r4035fu.jpeg)
 In this post, you’ll find 10 tech tips and hacks to make remote working productive and fun.
 
-### [95. How to Manage a Remote Team Without Going Postal](https://hackernoon.com/how-to-manage-a-remote-team-without-going-postal-662g3tbl)
+### [96. How to Manage a Remote Team Without Going Postal](https://hackernoon.com/how-to-manage-a-remote-team-without-going-postal-662g3tbl)
 ![](https://images.unsplash.com/photo-1515928347074-e5363b60bf28?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 For most managers, it is possible to have weekly meetings to bang out issues and team-building exercises to create harmony, but as a remote manager, this is not possible, and the lack thereof can be über-frustrating at times. 
 
-### [96. 7 Ways MSPs Can Manage a Remote Workforce ](https://hackernoon.com/7-ways-msps-can-manage-a-remote-workforce)
+### [97. 7 Ways MSPs Can Manage a Remote Workforce ](https://hackernoon.com/7-ways-msps-can-manage-a-remote-workforce)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-ri93h48.jpeg)
 With issues like Great resignation coming into prominence MSPs need to create proper remote workforce management strategies to grow. Here’s how to do so.
 
 
-### [97. 590 Stories To Learn About Remote Work](https://hackernoon.com/590-stories-to-learn-about-remote-work)
+### [98. 590 Stories To Learn About Remote Work](https://hackernoon.com/590-stories-to-learn-about-remote-work)
 ![](https://cdn.hackernoon.com/images/github/remote-work-209.png)
 Learn everything you need to know about Remote Work via these 590 free HackerNoon stories.
 
-### [98. Reflecting on Five Years of Remote Work at NoDesk](https://hackernoon.com/reflecting-on-five-years-of-remote-work-at-nodesk-4o1e3t8v)
+### [99. Reflecting on Five Years of Remote Work at NoDesk](https://hackernoon.com/reflecting-on-five-years-of-remote-work-at-nodesk-4o1e3t8v)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F50cfMlkdrFdQ1bjhqQCU5GSD5A53-2x253toq.jpeg?alt=media&token=5a3cd0e5-2064-4c5b-bc50-e7797703551c)
 This past July, NoDesk turned five. As part of this milestone, I want to reflect on how and why NoDesk came to be, what’s changed over the years, and talk about what’s next as we all look towards the future of work.
 
-### [99. Why Immersive Engagement is the Future of Events](https://hackernoon.com/why-immersive-engagement-is-the-future-of-events)
+### [100. Why Immersive Engagement is the Future of Events](https://hackernoon.com/why-immersive-engagement-is-the-future-of-events)
 ![](https://cdn.hackernoon.com/images/nyJ3v3rRv5NGM0ueVYbwsOuSUNr1-6593glf.jpeg)
 Hybrid events are predicted to dominate 2022. 
 
-### [100. Top Ten Things Affecting Your Remote Team Culture In 2022](https://hackernoon.com/top-ten-things-affecting-your-remote-team-culture-in-2022)
-![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-hbb3ocs.png)
-An overview of the top ten things affecting your remote team culture in 2022.
-
-### [101. How to Adjust Your Mac's Energy Saver Settings to Keep It Awake For Longer](https://hackernoon.com/how-to-adjust-your-macs-energy-saver-settings-to-keep-it-awake-for-longer)
-![](https://cdn.hackernoon.com/images/LrA624A16FTZNP1RUylNyrKf7ZH2-7103ixz.jpeg)
-Have you ever been in the middle of an important task, only for your Mac to dim the screen or go to sleep at the worst possible moment?
-
-### [102. Remote Working and Why I Wouldn't Relocate for a Job Again](https://hackernoon.com/remote-working-and-why-i-wouldnt-relocate-for-a-job-again)
+### [101. Remote Working and Why I Wouldn't Relocate for a Job Again](https://hackernoon.com/remote-working-and-why-i-wouldnt-relocate-for-a-job-again)
 ![](https://cdn.hackernoon.com/images/jyoERDPm40MTLT2y9RyVLWqo7kO2-1793fgx.jpeg)
 Here is a list of reasons why I won't relocate just because of a job offer.
+
+### [102. Top Ten Things Affecting Your Remote Team Culture In 2022](https://hackernoon.com/top-ten-things-affecting-your-remote-team-culture-in-2022)
+![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-hbb3ocs.png)
+An overview of the top ten things affecting your remote team culture in 2022.
 
 ### [103. When It’s Ok to Wear a Bathrobe to a Remote Team Meeting](https://hackernoon.com/when-its-ok-to-wear-a-bathrobe-to-a-remote-team-meeting)
 ![](https://cdn.hackernoon.com/images/szuTGyQJwnZKYH83hv2oWrxjp9t1-ps039fe.jpeg)
 Here are some remote work tips on how to get the results without sacrificing your personal life.
 
-### [104. Working from Home 101: Your Guide to a Better Home Office Setup ](https://hackernoon.com/working-from-home-101-your-guide-to-a-better-home-office-setup-vi3034ou)
+### [104. How Engineering Managers Can Organize Remote Workflow](https://hackernoon.com/how-engineering-managers-can-organize-remote-workflow-2c193yfp)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-pe82rix.jpeg)
+It’s been two weeks since we took action and made working from home mandatory for all the team members. Our top priority remains the health and safety of our team members. We have a responsibility to support our communities through the health crisis caused by COVID-19.
+
+### [105. Working from Home 101: Your Guide to a Better Home Office Setup ](https://hackernoon.com/working-from-home-101-your-guide-to-a-better-home-office-setup-vi3034ou)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlZ1ILaJydcX4CfnercVHMCSKtJR2-n91c3w4f.jpeg?alt=media&token=c431eab6-0d99-4b4e-8f1b-14a805caff75)
 The pandemic has rocked up our world and has brought about significant changes in our lifestyle. While the outbreak has been most detrimental to our society, a silver lining among the murky clouds in the way, the pandemic has influenced our work culture.
 
-### [105. Growth Hacking for Remote and International Developers – Part 1](https://hackernoon.com/growth-hacking-for-remote-and-international-developers-part-1-8e2930q7)
+### [106. Growth Hacking for Remote and International Developers – Part 1](https://hackernoon.com/growth-hacking-for-remote-and-international-developers-part-1-8e2930q7)
 ![](https://cdn.hackernoon.com/images/ow1y30xy.jpg)
 Chris Hickman and Jon Christensen of Kelsus, along with Rich Staats of Secret Stache, discuss lessons learned while working with remote and international engineering teams. 
-
-### [106. How Engineering Managers Can Organize Remote Workflow](https://hackernoon.com/how-engineering-managers-can-organize-remote-workflow-2c193yfp)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-pe82rix.jpeg)
-It’s been two weeks since we took action and made working from home mandatory for all the team members. Our top priority remains the health and safety of our team members. We have a responsibility to support our communities through the health crisis caused by COVID-19.
 
 ### [107. Creative Ways Companies are Keeping Teams Sane And Connected Through WFH Mandate](https://hackernoon.com/creative-ways-companies-are-keeping-teams-sane-and-connected-through-wfh-mandate-kcb324j4)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-td82r16.jpeg)
@@ -470,13 +472,13 @@ Are you looking to hire dedicated developers for remote jobs? Whoa! You are on 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7dvQyjCT7LM9W8d4vddBjZQ9RCj2-rw1a3uat.jpeg?alt=media&token=9d32d91b-157e-456f-bc5e-4d7e32536fdf)
 When asked to name a paragon of technology-life balance, most people wouldn’t reflexively answer, professional gamer. 
 
-### [111. Secrets of Effective Collaboration With a Remote Team](https://hackernoon.com/secrets-of-effective-collaboration-with-a-remote-team-4o1c324o)
-![](https://cdn.hackernoon.com/images/mgw32nt.jpg)
-Alexey Kataev, Head of Development at Skyeng, talks about running an efficient remote development team.
-
-### [112. Coworking Bansko is a Haven for Digital Nomads](https://hackernoon.com/coworking-bansko-is-a-haven-for-digital-nomads)
+### [111. Coworking Bansko is a Haven for Digital Nomads](https://hackernoon.com/coworking-bansko-is-a-haven-for-digital-nomads)
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-rpc3hvc.jpeg)
 In this slogging thread, our community discusses Zeitler's initiative, Coworking Bansko, and nomadic working.
+
+### [112. Secrets of Effective Collaboration With a Remote Team](https://hackernoon.com/secrets-of-effective-collaboration-with-a-remote-team-4o1c324o)
+![](https://cdn.hackernoon.com/images/mgw32nt.jpg)
+Alexey Kataev, Head of Development at Skyeng, talks about running an efficient remote development team.
 
 ### [113. Online Learning Hits All-Time High, Software Engineer Anton Novikau Brings His Expertise to Talaera](https://hackernoon.com/online-learning-hits-all-time-high-software-engineer-anton-novikau-brings-his-expertise-to-talaera)
 ![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-ly93h8b.jpeg)
@@ -490,53 +492,53 @@ With the adoption of remote work by a greater percentage of the workforce post-p
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEk1EUYRPbVcFAn139JtH3fCnL9i1-pu113uac.jpeg?alt=media&token=ed7921d0-d549-4128-8a39-4cbb6bc2d9d8)
 In 2019, more than 627 million online records were comprised due to hacking and other types of cyber attacks. This is a pretty staggering number to anyone who has made an online transaction, but the amount of attacks that were stopped is much higher, so it’s worth some optimism. As COVID-19 has pushed many companies into the remote work world, online transactions and records are growing exponentially, and most experts believe that remote work will continue to be very popular even after stay-at-home orders get lifted and life goes back to some form of normal. 
 
-### [116. Disproving 5 Remote Working Myths in 2022 ](https://hackernoon.com/disproving-5-remote-working-myths-in-2022)
-![](https://cdn.hackernoon.com/images/5piuqbzGNPae5bZRCn8CCDvc78P2-pm93k6y.jpeg)
-There are a lot of myths around remote developer teams. We are busting them with the help of some of the best companies in the world.
-
-### [117. 4 Ways to Celebrate Company Successes and Milestones — Virtually](https://hackernoon.com/4-ways-to-celebrate-company-successes-and-milestones-virtually)
+### [116. 4 Ways to Celebrate Company Successes and Milestones — Virtually](https://hackernoon.com/4-ways-to-celebrate-company-successes-and-milestones-virtually)
 ![](https://cdn.hackernoon.com/images/3bbAsL8DgTOcyNJqKXaarQKE8OP2-stb3j2f.jpeg)
 If you’re looking for ideas for being more creative or intentional about celebrating successes and milestones with remote teams, here are four tips.
 
-### [118. 7 Best Ways to Increase Workforce Productivity](https://hackernoon.com/7-best-ways-to-increase-workforce-productivity-rp2s34c6)
+### [117. 100 Stories To Learn About Remote](https://hackernoon.com/100-stories-to-learn-about-remote)
+![](https://cdn.hackernoon.com/images/github/remote-723.png)
+Learn everything you need to know about Remote via these 100 free HackerNoon stories.
+
+### [118. Disproving 5 Remote Working Myths in 2022 ](https://hackernoon.com/disproving-5-remote-working-myths-in-2022)
+![](https://cdn.hackernoon.com/images/5piuqbzGNPae5bZRCn8CCDvc78P2-pm93k6y.jpeg)
+There are a lot of myths around remote developer teams. We are busting them with the help of some of the best companies in the world.
+
+### [119. 7 Best Ways to Increase Workforce Productivity](https://hackernoon.com/7-best-ways-to-increase-workforce-productivity-rp2s34c6)
 ![](https://cdn.hackernoon.com/images/k3MV9z1HANZv9IG3UhobNcADCI93-2ai3129.jpeg)
 2020 will go down in history as the year that turned the trend that was working from home into the norm for businesses across the globe. Everyone who can feasibly work from home is now doing so.
 
-### [119. The “Techxodus” Is Real: Is Tech Done With The Bay Area?](https://hackernoon.com/the-techxodus-is-real-is-tech-done-with-the-bay-area-vb2u37jy)
+### [120. The “Techxodus” Is Real: Is Tech Done With The Bay Area?](https://hackernoon.com/the-techxodus-is-real-is-tech-done-with-the-bay-area-vb2u37jy)
 ![](https://cdn.hackernoon.com/images/TIxYE68RnPZQWGFaMaXpYV0OQ7Q2-i61c35c2.jpeg)
 California has experienced increased outbound migration over the past few years with more and more people working remotely. 
-
-### [120. 100 Stories To Learn About Remote](https://hackernoon.com/100-stories-to-learn-about-remote)
-![](https://cdn.hackernoon.com/images/github/remote-723.png)
-Learn everything you need to know about Remote via these 100 free HackerNoon stories.
 
 ### [121. 8 Things to Avoid as a Newly Remote Business](https://hackernoon.com/8-things-to-avoid-as-a-newly-remote-business-qs193y7d)
 ![](https://images.unsplash.com/photo-1584670592170-e081aa4da903?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The next few months will be the most uncertain period business owners have faced. The coronavirus will change the economy and how we work. But I’ve been preparing for this time for more than a decade.
 
-### [122. COVID-19 State of Work: How is everyone coping with sudden remoteness? 🤔](https://hackernoon.com/covid-19-state-of-work-how-is-everyone-coping-with-sudden-remoteness-hss3ul2)
-![](https://cdn.hackernoon.com/images/foen3y82.jpg)
-I am sure you would have thought to yourself, "How has COVID-19 impacted our lives?" Particularly, just like me, you would be curious to know the impact on our work-life.
-
-### [123. Babysitter Managers Are in Trouble and They Know It](https://hackernoon.com/babysitter-managers-are-in-trouble-and-they-know-it-5p12932sq)
+### [122. Babysitter Managers Are in Trouble and They Know It](https://hackernoon.com/babysitter-managers-are-in-trouble-and-they-know-it-5p12932sq)
 ![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-vj6932j4.jpeg)
 The motivations to return to work might have less to do with worker productivity and more to do with middle managers trying to justify their existence.
 
-### [124. Work From Home 101](https://hackernoon.com/work-from-home-101-of8d3vss)
-![](https://cdn.hackernoon.com/drafts/ub7c3ywa.png)
-Last year I broke my meniscus and had surgery. As a result, I cried a lot and worked from home for 3 months. It’s safe to say that nothing about this lockdown has surprised me, not even the part of not being able to leave the house. When life gives you lemons, write a Medium article, right? This are a few things that a picked along the way, and had actually worked great for me.
+### [123. COVID-19 State of Work: How is everyone coping with sudden remoteness? 🤔](https://hackernoon.com/covid-19-state-of-work-how-is-everyone-coping-with-sudden-remoteness-hss3ul2)
+![](https://cdn.hackernoon.com/images/foen3y82.jpg)
+I am sure you would have thought to yourself, "How has COVID-19 impacted our lives?" Particularly, just like me, you would be curious to know the impact on our work-life.
 
-### [125. Has Zoom Made Us "Embrace the Dark Side" of Humanity?](https://hackernoon.com/has-zoom-made-us-embrace-the-dark-side-of-humanity-n46q37p9)
+### [124. Has Zoom Made Us "Embrace the Dark Side" of Humanity?](https://hackernoon.com/has-zoom-made-us-embrace-the-dark-side-of-humanity-n46q37p9)
 ![](https://cdn.hackernoon.com/images/ulHLOrUUeTTHEKRJOCtpfWl7DLB3-5ty35lh.jpeg)
 It turns out that “mortal-virtual-sins” include “joining a call late, having a bad Internet connection, accidentally sharing sensitive information" and more.
 
-### [126. The Path to Restful Entrepreneurship: DO More, Stress Less](https://hackernoon.com/the-path-to-restful-entrepreneurship-do-more-stress-less-75183t1n)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fj6QbvyObVNUIdXpi0PxDxJvxI8g1-dy423tku.jpeg?alt=media&token=35a5d00b-ed13-4df0-9232-c1bfa1e24969)
-“It’s not just physical things anymore that are distracting us and dragging at our mindset and productivity… but it’s also these things in the ether: these ideas, these emails, these tweets. It’s nonstop.” - Josh Ellis
+### [125. Work From Home 101](https://hackernoon.com/work-from-home-101-of8d3vss)
+![](https://cdn.hackernoon.com/drafts/ub7c3ywa.png)
+Last year I broke my meniscus and had surgery. As a result, I cried a lot and worked from home for 3 months. It’s safe to say that nothing about this lockdown has surprised me, not even the part of not being able to leave the house. When life gives you lemons, write a Medium article, right? This are a few things that a picked along the way, and had actually worked great for me.
 
-### [127. How Big Data is Keeping Employees Engaged in the Age of WFH](https://hackernoon.com/how-big-data-is-keeping-employees-engaged-in-the-age-of-wfh)
+### [126. How Big Data is Keeping Employees Engaged in the Age of WFH](https://hackernoon.com/how-big-data-is-keeping-employees-engaged-in-the-age-of-wfh)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-yja3bvl.jpeg)
 Big data is beginning to emerge as a key tool for businesses to successfully operate on a WFH basis.
+
+### [127. The Path to Restful Entrepreneurship: DO More, Stress Less](https://hackernoon.com/the-path-to-restful-entrepreneurship-do-more-stress-less-75183t1n)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fj6QbvyObVNUIdXpi0PxDxJvxI8g1-dy423tku.jpeg?alt=media&token=35a5d00b-ed13-4df0-9232-c1bfa1e24969)
+“It’s not just physical things anymore that are distracting us and dragging at our mindset and productivity… but it’s also these things in the ether: these ideas, these emails, these tweets. It’s nonstop.” - Josh Ellis
 
 ### [128. How Profitable can Coworking be in 2022?](https://hackernoon.com/how-profitable-can-coworking-be-in-2022)
 ![](https://cdn.hackernoon.com/images/ykdPKkvzTNZSTajUY4tUU8nrwMC2-bi93lvo.jpeg)
@@ -546,35 +548,35 @@ How coworking can still be profitable in 2022 and how to boost your revenue as a
 ![](https://cdn.hackernoon.com/images/yG6hH3FCUNWYmiZvXUGWxw4FYQ02-nt6k35fl.png)
 Charley Ho is Co-Founder and CTO of Remotion, a virtual office that puts your hybrid or remote team on your desktop. 
 
-### [130. WFH Will Remain Crucial for Business Success, Even After the Pandemic Ends](https://hackernoon.com/wfh-will-remain-crucial-for-business-success-even-after-the-pandemic-ends-e3623y5k)
-![](https://cdn.hackernoon.com/images/fzig3yi6.jpg)
-The work from home (WFH) phenomenon has exploded over the past few years, and it’s culminated during the current pandemic. Many are even saying that the novel coronavirus has thrown us into the largest WFH experiment on earth. But it’s time to face the truth that remote work is no
-longer an experiment. Nor is it a trend, a fad, or “the future of work.” 
+### [130. Coping With Loneliness While Working From Home](https://hackernoon.com/coping-with-loneliness-while-working-from-home-0r2y35y7)
+![](https://hackernoon.com/images/mI8isyEgBGagopCXijZzgPp4fc93-4pr330b.jpeg)
+Here are 6 ways to battle the feeling of isolation and loneliness while working from home.
 
 ### [131. How COVID-19 Has Emphasized Immediate Need for Change in IAM](https://hackernoon.com/how-covid-19-has-emphasized-immediate-need-for-change-in-iam-e41s3use)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrDDScZrIgydZAd04VHAtsHzb7gM2-po53u6p.jpeg?alt=media&token=bfe86dd1-da49-47e4-9cb5-53a5ab0b391b)
 Globally, COVID-19’s impact has been seen throughout all aspects of life. One such clear way is through remote work. In order to control the spread of the virus and to keep employees safe, many companies are restricting travel and requiring people to work from home. 
 
-### [132. The Free-Range Lifestyle: How to Not Live and Die in a Cage](https://hackernoon.com/we-evolved-for-free-range-living-6y173tin)
-![](https://cdn.hackernoon.com/drafts/7zs3t2d.png)
-We Evolved for Free-Range Living
+### [132. WFH Will Remain Crucial for Business Success, Even After the Pandemic Ends](https://hackernoon.com/wfh-will-remain-crucial-for-business-success-even-after-the-pandemic-ends-e3623y5k)
+![](https://cdn.hackernoon.com/images/fzig3yi6.jpg)
+The work from home (WFH) phenomenon has exploded over the past few years, and it’s culminated during the current pandemic. Many are even saying that the novel coronavirus has thrown us into the largest WFH experiment on earth. But it’s time to face the truth that remote work is no
+longer an experiment. Nor is it a trend, a fad, or “the future of work.” 
 
-### [133. Coping With Loneliness While Working From Home](https://hackernoon.com/coping-with-loneliness-while-working-from-home-0r2y35y7)
-![](https://hackernoon.com/images/mI8isyEgBGagopCXijZzgPp4fc93-4pr330b.jpeg)
-Here are 6 ways to battle the feeling of isolation and loneliness while working from home.
-
-### [134. Going Remote: Minimum Viable Workspace](https://hackernoon.com/going-remote-minimum-viable-workspace-m51634n2)
-![](https://cdn.hackernoon.com/images/mmcnbUAlELbkg8hUIlnzWeSpQEy2-xsk33fa9.jpeg)
-Throughout 2020 and 2021 the mode of working changed for many people. There was less office time, moving away from big cities, and more time spent working in an unconventional spot, like on your couch or a closet so you could get someplace quite for a few minutes. As a long-time work from home employee my work changed as well, which lead me to question exactly what I needed from my work setup.
-
-### [135. 5 Remote Working Best Practices and Tips in the Era of Coronavirus Pandemics](https://hackernoon.com/5-remote-working-best-practices-and-tips-in-the-era-of-coronavirus-pandemics-y63w3ymh)
-![](https://cdn.hackernoon.com/drafts/3m8o3ymq.png)
-Due to COVID-19, companies have found themselves in the middle of the world’s largest work-from-home experiment. Many hail remote work as a blessing, allowing employees to continue working while practicing social distancing during this uncertain time. 
-
-### [136. Remote Development Teams: Adapting To Working From Home](https://hackernoon.com/remote-development-teams-adapting-to-working-from-home-2t193405)
+### [133. Remote Development Teams: Adapting To Working From Home](https://hackernoon.com/remote-development-teams-adapting-to-working-from-home-2t193405)
 ![](https://cdn.hackernoon.com/images/FI3pFEvbLShHdU3X1KpbbWJo3Oc2-jq233tsu.png)
 2020 has proven to be a trying time for developer teams, including ours, due to the pandemic. Quickly, our team became one of WFH Engineering
 Teams worldwide caused by the lockdowns. We are now a fully remote dev team without plans of an immediate return to an office, face-to-face environment.
+
+### [134. The Free-Range Lifestyle: How to Not Live and Die in a Cage](https://hackernoon.com/we-evolved-for-free-range-living-6y173tin)
+![](https://cdn.hackernoon.com/drafts/7zs3t2d.png)
+We Evolved for Free-Range Living
+
+### [135. Going Remote: Minimum Viable Workspace](https://hackernoon.com/going-remote-minimum-viable-workspace-m51634n2)
+![](https://cdn.hackernoon.com/images/mmcnbUAlELbkg8hUIlnzWeSpQEy2-xsk33fa9.jpeg)
+Throughout 2020 and 2021 the mode of working changed for many people. There was less office time, moving away from big cities, and more time spent working in an unconventional spot, like on your couch or a closet so you could get someplace quite for a few minutes. As a long-time work from home employee my work changed as well, which lead me to question exactly what I needed from my work setup.
+
+### [136. 5 Remote Working Best Practices and Tips in the Era of Coronavirus Pandemics](https://hackernoon.com/5-remote-working-best-practices-and-tips-in-the-era-of-coronavirus-pandemics-y63w3ymh)
+![](https://cdn.hackernoon.com/drafts/3m8o3ymq.png)
+Due to COVID-19, companies have found themselves in the middle of the world’s largest work-from-home experiment. Many hail remote work as a blessing, allowing employees to continue working while practicing social distancing during this uncertain time. 
 
 ### [137. How to Remotely Brainstorm and Whiteboard 😎](https://hackernoon.com/how-to-remotely-brainstorm-and-whiteboard-101o3ybf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3njNqfeppyTP2xcsXb2fQ9AjtW33-yzl3ubv.jpeg?alt=media&token=8a431dab-c836-4251-990d-c1f1b413852d)
@@ -584,87 +586,87 @@ If you are anything like me, you would jump at every possible chance to the whit
 ![](https://images.unsplash.com/45/QDSMoAMTYaZoXpcwBjsL__DSC0104-1.jpg?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 I am the co-founder of Flexiple and Remote Tools. In this post, I describe why we are building an exclusive remote-focused community - The Remote Clan.
 
-### [139. The Freud Trilogy in the New Remote Work World](https://hackernoon.com/the-freud-trilogy-in-the-new-remote-work-world-6l19336j)
+### [139. Ditch the Desk: How to Create a Remote-First Culture That’s Fierce and Functional](https://hackernoon.com/ditch-the-desk-how-to-create-a-remote-first-culture-thats-fierce-and-functional)
+![](https://cdn.hackernoon.com/images/mmdWwwsBAmfSklkkM92s8ZsEarE2-o1238fm.png)
+Discover how to build a thriving remote-first culture that’s productive and anything but boring. Here's your no-BS guide to making remote work actually work. 
+
+### [140. The Freud Trilogy in the New Remote Work World](https://hackernoon.com/the-freud-trilogy-in-the-new-remote-work-world-6l19336j)
 ![](https://cdn.hackernoon.com/images/ulHLOrUUeTTHEKRJOCtpfWl7DLB3-l883281.jpeg)
 What Would Sigmund Freud Do In The Remote Work World?
 
-### [140. Remote Developers in 2021: Where to Hire Them From](https://hackernoon.com/remote-developers-in-2021-where-to-hire-them-from-cc40310v)
+### [141. Remote Developers in 2021: Where to Hire Them From](https://hackernoon.com/remote-developers-in-2021-where-to-hire-them-from-cc40310v)
 ![](https://cdn.hackernoon.com/images/lfqBjUVZ31ht0tiTYZoh9tl3N2E2-ne6a31wp.jpeg)
 Remote development teams help expand existing teams without increasing operational costs, and so they’ve become a new trend in leading industries. 
 
-### [141. Why WFH Could Spell The End of Motoring as We Know it](https://hackernoon.com/why-wfh-could-spell-the-end-of-motoring-as-we-know-it-qax3wkv)
+### [142. Why WFH Could Spell The End of Motoring as We Know it](https://hackernoon.com/why-wfh-could-spell-the-end-of-motoring-as-we-know-it-qax3wkv)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAyspbPX32fhvPLqUsbsDvTB6IVg2-q3183wmu.jpeg?alt=media&token=8ac02e15-a60f-4e39-af5c-9741dbfad71c)
 Covid-19 has thrown us into an era of great uncertainty. Every industry has been impacted by the devastating pandemic in some way or another, and there’s no sign of a return to normal life in the pipeline any time soon. 
 
-### [142. 5 Tips to Successfully Transit to Remote Working during Coronavirus-and Beyond](https://hackernoon.com/5-tips-to-successfully-transit-to-remote-working-during-coronavirus-and-beyond-h73724js)
+### [143. 5 Tips to Successfully Transit to Remote Working during Coronavirus-and Beyond](https://hackernoon.com/5-tips-to-successfully-transit-to-remote-working-during-coronavirus-and-beyond-h73724js)
 ![](https://cdn.hackernoon.com/drafts/6ko2y6s.png)
 It has been four months since Coronavirus originated in China's
 Wuhan and the outbreak continues to be on the headlines. On one hand, many employers are getting ready for the possible disruptions that Coronavirus would bring to their business in the long run, such as transportation issues, labor shortages, reduced working hours and low consumer traffic. 
 
-### [143. Conquer Work With The "One Channel" Method](https://hackernoon.com/conquer-work-with-the-one-channel-method-pu1z3uhx)
+### [144. Conquer Work With The "One Channel" Method](https://hackernoon.com/conquer-work-with-the-one-channel-method-pu1z3uhx)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FeyIvVE8mJgNFgXJSQ5bh3EaBZXj1-ig2h3utq.jpeg?alt=media&token=6f16ac7e-c6c1-48ae-999b-a65a13565879)
 Tom works in the estimating department of a mid-sized plumbing contractor. As he walks in the door Tuesday morning, he gets hit with the following:
 
-### [144. Is Giving Up Your Office the Right Thing to Do During COVID-19?](https://hackernoon.com/is-giving-up-your-office-the-right-thing-to-do-during-covid-19-me1m3uaa)
+### [145. Is Giving Up Your Office the Right Thing to Do During COVID-19?](https://hackernoon.com/is-giving-up-your-office-the-right-thing-to-do-during-covid-19-me1m3uaa)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxZ8wuhF27GXNmGpPwfGE1iNbXw02-4553uid.jpeg?alt=media&token=f161f536-bfb2-4986-864d-950c60760191)
 The novel coronavirus. COVID-19. Remote working is the new norm, get used to it. Digitalization is the only way to keep the lights on. Looming economic recession. — Yeah, you might be familiar with these phrases already. We all are. But the big question that’s on every digital business owner’s mind right now is, “Should I vacate my office and save on the lease now that my employees are working remotely?” The short answer to this question is, “It depends.” Here’s why.
 
 
-### [145. Ditch the Desk: How to Create a Remote-First Culture That’s Fierce and Functional](https://hackernoon.com/ditch-the-desk-how-to-create-a-remote-first-culture-thats-fierce-and-functional)
-![](https://cdn.hackernoon.com/images/mmdWwwsBAmfSklkkM92s8ZsEarE2-o1238fm.png)
-Discover how to build a thriving remote-first culture that’s productive and anything but boring. Here's your no-BS guide to making remote work actually work. 
-
-### [146. Pandemic Remote Work != Remote Work](https://hackernoon.com/pandemic-remote-work-remote-work-gf9r32ex)
-![](https://cdn.hackernoon.com/drafts/vq1c32gi.png)
-Have you switched to remote work in the past couple of weeks/days? Well, chances are high you have, or you will. I want to share my words of caution and tips to make pandemic remote work better.
-
-### [147. Remote Work in the Time of Coronavirus [feat. My Grandma]](https://hackernoon.com/remote-work-in-the-time-of-coronavirus-feat-my-grandma-cb6732mp)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-u682rkm.jpeg)
-I have two questions for you - Do you like good books? Of course, you do. One of these extraordinary good books served as an inspiration for this article's title. Yes, I'm obviously referring to Gabriel García Márquez and his heartbreaking novel - Love in the Time of Cholera.
-
-### [148. Future of Work Post-Pandemic: What Will Our Days Look Like?](https://hackernoon.com/future-of-work-post-pandemic-what-will-our-days-look-like-163e3wmf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4T2cRqkD8sXXwYDVjXgZleE5BTo2-171m3tl2.jpeg?alt=media&token=4fcb070e-f373-4dfa-b33f-3903dc926791)
-The predictions of post-COVID future paint all sorts of wild images, from empty and sterile offices to work-from-home utopias. Without any in-depth analysis, it’s clear none of those extremes will come true. However, what’s also clear is that there will be an impact. In fact, some changes are already in motion, so a good way to be prepared for them is to recognize the ones that matter.
-
-### [149. Handling Remote Team Personality Clashes: Think Like a Shrink ](https://hackernoon.com/handling-remote-team-personality-clashes-think-like-a-shrink)
-![](https://cdn.hackernoon.com/images/szuTGyQJwnZKYH83hv2oWrxjp9t1-2g33f1q.jpeg)
-To handle a remote team, you have to understand different personalities.
-
-### [150. 8 Ways to Ensure Secure Remote Work Across Your Company](https://hackernoon.com/8-ways-to-ensure-secure-remote-work-across-your-company-b82y33q1)
+### [146. 8 Ways to Ensure Secure Remote Work Across Your Company](https://hackernoon.com/8-ways-to-ensure-secure-remote-work-across-your-company-b82y33q1)
 ![](https://cdn.hackernoon.com/images/kymH2LDsTvUnmvHkA1oHATjrZwN2-7dl32d9.jpeg)
 As the world of work rapidly becomes “remote-first”,  and our reliance on virtual tools grows daily, cybersecurity has emerged as an urgent priority for almost every employer. 
 
-### [151. Strategies to Enhance Remote and Hybrid Collaboration in 2024](https://hackernoon.com/strategies-to-enhance-remote-and-hybrid-collaboration-in-2024)
+### [147. Pandemic Remote Work != Remote Work](https://hackernoon.com/pandemic-remote-work-remote-work-gf9r32ex)
+![](https://cdn.hackernoon.com/drafts/vq1c32gi.png)
+Have you switched to remote work in the past couple of weeks/days? Well, chances are high you have, or you will. I want to share my words of caution and tips to make pandemic remote work better.
+
+### [148. Remote Work in the Time of Coronavirus [feat. My Grandma]](https://hackernoon.com/remote-work-in-the-time-of-coronavirus-feat-my-grandma-cb6732mp)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-u682rkm.jpeg)
+I have two questions for you - Do you like good books? Of course, you do. One of these extraordinary good books served as an inspiration for this article's title. Yes, I'm obviously referring to Gabriel García Márquez and his heartbreaking novel - Love in the Time of Cholera.
+
+### [149. Strategies to Enhance Remote and Hybrid Collaboration in 2024](https://hackernoon.com/strategies-to-enhance-remote-and-hybrid-collaboration-in-2024)
 ![](https://cdn.hackernoon.com/images/cPo9MrVZm5O0aHz2gKvPg31Y4E22-sy81mm1.jpeg)
 Remote and hybrid forms of collaboration have become the new standard for a vast number of enterprises.
 
-### [152. The Impact of Artificial Intelligence on Managing a Remote Software Development Team](https://hackernoon.com/the-impact-of-artificial-intelligence-on-managing-a-remote-software-development-team)
-![](https://cdn.hackernoon.com/images/NDHVJh0ZXWa5WkYI7DAnJI1tGU72-rzb33mf.jpeg)
-This post analyzes the role of specialized AI, particularly product management and team productivity tools, in facilitating remote software development. 
+### [150. Handling Remote Team Personality Clashes: Think Like a Shrink ](https://hackernoon.com/handling-remote-team-personality-clashes-think-like-a-shrink)
+![](https://cdn.hackernoon.com/images/szuTGyQJwnZKYH83hv2oWrxjp9t1-2g33f1q.jpeg)
+To handle a remote team, you have to understand different personalities.
 
-### [153. 5 Powerful Ways to Boost Your Remote Team Productivity](https://hackernoon.com/5-powerful-ways-to-boost-your-remote-team-productivity-br1u34fh)
+### [151. 5 Powerful Ways to Boost Your Remote Team Productivity](https://hackernoon.com/5-powerful-ways-to-boost-your-remote-team-productivity-br1u34fh)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5tlgMLQbfeYMAlKVC9VfSheqL512-4ym3eew.jpeg?alt=media&token=bd319308-223f-4893-89bb-ecbe43400993)
 No matter if you started working remotely during the pandemic or you've been part of the gig economy long before - you’ll often wonder how to increase your team productivity while working remotely.
 
-### [154. COVID-19 Is Accelerating Digitization — Are You Ready?](https://hackernoon.com/covid-19-is-accelerating-digitization-are-you-ready-ovx3zws)
+### [152. Future of Work Post-Pandemic: What Will Our Days Look Like?](https://hackernoon.com/future-of-work-post-pandemic-what-will-our-days-look-like-163e3wmf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4T2cRqkD8sXXwYDVjXgZleE5BTo2-171m3tl2.jpeg?alt=media&token=4fcb070e-f373-4dfa-b33f-3903dc926791)
+The predictions of post-COVID future paint all sorts of wild images, from empty and sterile offices to work-from-home utopias. Without any in-depth analysis, it’s clear none of those extremes will come true. However, what’s also clear is that there will be an impact. In fact, some changes are already in motion, so a good way to be prepared for them is to recognize the ones that matter.
+
+### [153. The Impact of Artificial Intelligence on Managing a Remote Software Development Team](https://hackernoon.com/the-impact-of-artificial-intelligence-on-managing-a-remote-software-development-team)
+![](https://cdn.hackernoon.com/images/NDHVJh0ZXWa5WkYI7DAnJI1tGU72-rzb33mf.jpeg)
+This post analyzes the role of specialized AI, particularly product management and team productivity tools, in facilitating remote software development. 
+
+### [154. Fostering Trust within Remote Teams](https://hackernoon.com/fostering-trust-within-remote-teams)
+![](https://cdn.hackernoon.com/images/rTGkuSmEEIdJxS4Bj7H8MUxQhOg2-zv93unb.jpeg)
+Learn how to build trust within remote tech teams. This guide explores key elements of trust and practical strategies for fostering a unified team.
+
+### [155. COVID-19 Is Accelerating Digitization — Are You Ready?](https://hackernoon.com/covid-19-is-accelerating-digitization-are-you-ready-ovx3zws)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FjmYfr8dLpDQjZAFjzV1VmCqQhXm2-c3g3wfs.jpeg?alt=media&token=8c4734a0-220b-43ad-912a-98dadb9e8bc8)
 Last year, if someone would have told you that 2020 would bring record-breaking unemployment levels, millions of forced business closures, and a global disease outbreak that would claim the lives of millions of people worldwide (and counting), you would have thought they were crazy. Yet, here we are. 
 
-### [155. How To Set Up A Home Office](https://hackernoon.com/how-to-set-up-a-home-office-ynz3tcu)
+### [156. How To Set Up A Home Office](https://hackernoon.com/how-to-set-up-a-home-office-ynz3tcu)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaCJAUxoCsZXrtVbGMNCrUF3fKTQ2-v72g3use.jpeg?alt=media&token=93a7e149-871f-4e67-acd4-79c51f875da9)
 The rise of flexible job roles, digital tech careers and more freelance opportunities around the world has led more people into working from the comfort of their home, especially during this Covid19 pandemic. However, in order to get the best and ensure quality service deliveries, remote workers need the right tools to assist their craft.
-
-### [156. Fostering Trust within Remote Teams](https://hackernoon.com/fostering-trust-within-remote-teams)
-![](https://cdn.hackernoon.com/images/rTGkuSmEEIdJxS4Bj7H8MUxQhOg2-zv93unb.jpeg)
-Learn how to build trust within remote tech teams. This guide explores key elements of trust and practical strategies for fostering a unified team.
 
 ### [157. 10 Virtual Happy Hour Ideas, Games, and Activities for Your Next Online Event](https://hackernoon.com/10-virtual-happy-hour-ideas-games-and-activities-for-your-next-online-event)
 ![](https://cdn.hackernoon.com/images/wHnIpcSzQTX8aVht8zrNHBcjfQG2-8h036u0.jpeg)
 Virtual happy hour sessions give your participants an opportunity to interact and get to know each other better in an informal setting. 
 
-### [158. Why is COVID-19 a boom for IT companies and a flop for other industries?](https://hackernoon.com/why-is-covid-19-a-boom-for-it-companies-and-a-flop-for-other-industries-iu2o3t98)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ff1Cc1bdDoiSRsPwE2QEcwsoqael2-74g3eiq.jpeg?alt=media&token=9c0d5de9-8321-490c-9675-068b000e3b07)
-The one word that terrifies people in the world right now is COVID-19. Reports from The World Bank state that COVID-19 recession has seen the fastest, steepest downgrades among all the global recession since 1990. As the health and human toll grows, the economic damage is already evident and represents the most substantial economic shock the world has experienced in decades.
+### [158. 5 Reasons Remote Working is Here to Stay Even After COVID-19](https://hackernoon.com/5-reasons-remote-working-is-here-to-stay-even-after-covid-19-nt5u338x)
+![](https://hackernoon.com/images/O6ty6nqwDWPVynvtpnHoXwh20mk1-692n33ux.jpeg)
+Learn about the research-proven positive impact of remote working and discover why the trend for telecommuting keeps growing.
 
 ### [159. AI and Remote Workers: Top Apps To Boost Your Productivity](https://hackernoon.com/ai-and-remote-workers-top-apps-to-boost-your-productivity-7tn3t6x)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4x6c4RNNZBfJc9OYSUO0b2FIwDo1-6ez182i.jpeg?alt=media&token=e2de5968-5cde-4bba-aaac-f3f141ffa18b)
@@ -672,13 +674,13 @@ When the COVID-19 pandemic forced life to shift online,modern tech was a saving 
 networks, and Zoom calls covered everything from sales meetings to Yoga
 classes. 
 
-### [160. Why I Started Using Trello, and What The Result Was](https://hackernoon.com/why-i-started-using-trello-and-what-the-result-was-wz1a3tac)
+### [160. Why is COVID-19 a boom for IT companies and a flop for other industries?](https://hackernoon.com/why-is-covid-19-a-boom-for-it-companies-and-a-flop-for-other-industries-iu2o3t98)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ff1Cc1bdDoiSRsPwE2QEcwsoqael2-74g3eiq.jpeg?alt=media&token=9c0d5de9-8321-490c-9675-068b000e3b07)
+The one word that terrifies people in the world right now is COVID-19. Reports from The World Bank state that COVID-19 recession has seen the fastest, steepest downgrades among all the global recession since 1990. As the health and human toll grows, the economic damage is already evident and represents the most substantial economic shock the world has experienced in decades.
+
+### [161. Why I Started Using Trello, and What The Result Was](https://hackernoon.com/why-i-started-using-trello-and-what-the-result-was-wz1a3tac)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsXVKB24mhfN0CjBPlwwPjwu23gP2-34u3uzd.jpeg?alt=media&token=f263df55-b94a-443d-8e1b-19c4cd5961c0)
 You ever just have so much on your mind that you just can’t sit still? Or have so much to do that you can’t get started on anything? That’s how I was feeling when I finally broke down and started a Trello account. 
-
-### [161. 5 Reasons Remote Working is Here to Stay Even After COVID-19](https://hackernoon.com/5-reasons-remote-working-is-here-to-stay-even-after-covid-19-nt5u338x)
-![](https://hackernoon.com/images/O6ty6nqwDWPVynvtpnHoXwh20mk1-692n33ux.jpeg)
-Learn about the research-proven positive impact of remote working and discover why the trend for telecommuting keeps growing.
 
 ### [162. How to Onboard Software Engineers Remotely in 2022 to Help You Go to the Moon](https://hackernoon.com/how-to-onboard-software-engineers-remotely-in-2022-to-help-you-go-to-the-moon)
 ![](https://cdn.hackernoon.com/images/Q6vQAZdVuOfn659yMKmiVw76yzw2-1b33akl.jpeg)
@@ -688,13 +690,13 @@ A practical guide on the remote hiring process in 2022. Hire the right software 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FabgwO9jwxShmM6uPUebUVjrFkKt1-13e3xr0.jpeg?alt=media&token=848955b5-b625-4208-99c1-c3481b1fcd7e)
 Remote workers will be drained very soon — both cognitively & emotionally, if not helped by innovative approaches to collaboration.
 
-### [164. Why Augmented Reality is the Future of the Work Environment](https://hackernoon.com/why-augmented-reality-is-the-future-of-the-work-environment-l82b3z6c)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsaBO5xMahkPR5ruhpMMLtfAi6Rp1-95w3w5y.png?alt=media&token=148f079a-97e2-486c-9fc4-029d950942d1)
-Augmented Reality (AR) is transforming the way we work. The rapid growth of computing power and the maturation of 5G capabilities are feeding the development of AR technologies, and making AR systems more flexible and accessible for use in the workplace. These use cases include boosting worker productivity, enhancing collaboration, and increasing workplace safety.
-
-### [165. Remote Work: With Great Power Comes Great Responsibility](https://hackernoon.com/remote-work-with-great-power-comes-great-responsibility-3e7v35ip)
+### [164. Remote Work: With Great Power Comes Great Responsibility](https://hackernoon.com/remote-work-with-great-power-comes-great-responsibility-3e7v35ip)
 ![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-zlk35x6.jpeg)
 Why transition winners turned out to be the pandemic business survivors.
+
+### [165. Why Augmented Reality is the Future of the Work Environment](https://hackernoon.com/why-augmented-reality-is-the-future-of-the-work-environment-l82b3z6c)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsaBO5xMahkPR5ruhpMMLtfAi6Rp1-95w3w5y.png?alt=media&token=148f079a-97e2-486c-9fc4-029d950942d1)
+Augmented Reality (AR) is transforming the way we work. The rapid growth of computing power and the maturation of 5G capabilities are feeding the development of AR technologies, and making AR systems more flexible and accessible for use in the workplace. These use cases include boosting worker productivity, enhancing collaboration, and increasing workplace safety.
 
 ### [166. How to protect against cyberthreats while employees work from home](https://hackernoon.com/how-to-protect-against-cyberthreats-while-employees-work-from-home-8n2a3t51)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQXsXg7hvkgUim8nVzmpA0TNWPaL2-7qg28qy.jpeg?alt=media&token=e1454b3b-7b33-43b7-a415-b58af664e56a)
@@ -704,33 +706,33 @@ With the COVID-19 pandemic, more and more employees have had to work from home, 
 ![](https://cdn.hackernoon.com/images/1tkl3yo1.jpg)
 Being a manager at any post comes with a lot of responsibilities and accountability which cannot be shared, you are solely responsible for you and your team.
 
-### [168. MRO Operations Adopt Augmented Reality to Solve Business Problems](https://hackernoon.com/mro-operations-adopt-augmented-reality-to-solve-business-problems-1x4o311m)
-![](https://cdn.hackernoon.com/images/ofxz5HsGtJgwzYnGjHqJGVt2jEE2-z5e31hu.jpeg)
-As we are seeing day by day AR has become a benchmark for the whole process cycle involving MRO. Many companies have already embraced this technology.
-
-### [169. 194 Stories To Learn About Remote Working](https://hackernoon.com/194-stories-to-learn-about-remote-working)
+### [168. 194 Stories To Learn About Remote Working](https://hackernoon.com/194-stories-to-learn-about-remote-working)
 ![](https://cdn.hackernoon.com/images/github/remote-working-782.png)
 Learn everything you need to know about Remote Working via these 194 free HackerNoon stories.
 
-### [170. The Inevitable Growth of Post-Pandemic Gig Economy](https://hackernoon.com/the-inevitable-growth-of-post-pandemic-gig-economy-m74e32bq)
-![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-db1c358y.jpeg)
-Some gig jobs flourished directly as a result of the pandemic. As the US moves beyond COVID-19, freelance will play an important role in recovery.
+### [169. Does The "New Normal" Mean It's Time To Invest in Offshore Working? ](https://hackernoon.com/does-the-new-normal-mean-its-time-to-invest-in-offshore-working-0m5z35e8)
+![](https://cdn.hackernoon.com/images/GSXGZs6DKwVz4C2rZHNVdUp8fm63-if16341z.jpeg)
+In 2020, only 16% of people worked remotely. Now, 90% of workers are hybrid workers. This article breaks down the challenges and benefits of offshore working.
 
-### [171. How Your Career Will Change by 2030](https://hackernoon.com/how-your-career-will-change-by-2030-unk3z14)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrfS7f60ENRRcb05RCpRZJcwoZpD2-a4243w76.jpeg?alt=media&token=682cd90b-9751-47cf-854f-27325925586f)
-Remote Work Paving the Way to Multi-Job Careers and Global Hiring
+### [170. MRO Operations Adopt Augmented Reality to Solve Business Problems](https://hackernoon.com/mro-operations-adopt-augmented-reality-to-solve-business-problems-1x4o311m)
+![](https://cdn.hackernoon.com/images/ofxz5HsGtJgwzYnGjHqJGVt2jEE2-z5e31hu.jpeg)
+As we are seeing day by day AR has become a benchmark for the whole process cycle involving MRO. Many companies have already embraced this technology.
 
-### [172. The Key Ingredients To Cultivating A Great Startup Workplace](https://hackernoon.com/the-key-ingredients-to-cultivating-a-great-startup-workplace)
+### [171. The Key Ingredients To Cultivating A Great Startup Workplace](https://hackernoon.com/the-key-ingredients-to-cultivating-a-great-startup-workplace)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-dv93mg8.jpeg)
 Life at a startup can move fast. For founders, this creates both an opportunity and challenge to establish a workplace that captivates core company values.
 
-### [173. 14 Tips for Successful Remote Team Management](https://hackernoon.com/14-tips-for-successful-remote-team-management-o76n3u7f)
+### [172. The Inevitable Growth of Post-Pandemic Gig Economy](https://hackernoon.com/the-inevitable-growth-of-post-pandemic-gig-economy-m74e32bq)
+![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-db1c358y.jpeg)
+Some gig jobs flourished directly as a result of the pandemic. As the US moves beyond COVID-19, freelance will play an important role in recovery.
+
+### [173. How Your Career Will Change by 2030](https://hackernoon.com/how-your-career-will-change-by-2030-unk3z14)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrfS7f60ENRRcb05RCpRZJcwoZpD2-a4243w76.jpeg?alt=media&token=682cd90b-9751-47cf-854f-27325925586f)
+Remote Work Paving the Way to Multi-Job Careers and Global Hiring
+
+### [174. 14 Tips for Successful Remote Team Management](https://hackernoon.com/14-tips-for-successful-remote-team-management-o76n3u7f)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaPQSXVJRQbXJjkCDJXLdynyL9hd2-wf1c3usd.jpeg?alt=media&token=3ea077a1-d3aa-4cec-8a17-04f8e5e4d067)
 Managing a remote team can be difficult, but if you do it correctly, your team can have an enjoyable and productive work-from-home life. My team is scattered all over the world. Sometimes I can be discussing a bug with a QA engineer who is 6,034 miles away from me, in the US, while I’m here in Siberia. But in just 20 minutes, we’ll find a solution and in a week, the bug will be fixed.
-
-### [174. Does The "New Normal" Mean It's Time To Invest in Offshore Working? ](https://hackernoon.com/does-the-new-normal-mean-its-time-to-invest-in-offshore-working-0m5z35e8)
-![](https://cdn.hackernoon.com/images/GSXGZs6DKwVz4C2rZHNVdUp8fm63-if16341z.jpeg)
-In 2020, only 16% of people worked remotely. Now, 90% of workers are hybrid workers. This article breaks down the challenges and benefits of offshore working.
 
 ### [175. Corporations Goes with Remote Devs: Skype, Slack, GitHub, MySQL cases](https://hackernoon.com/why-do-corporations-choose-a-remote-team-for-software-developmentskype-slack-github-mysql-cases-1y942d9l)
 ![](https://cdn.hackernoon.com/images/85ql2d5s.jpg)
@@ -744,13 +746,13 @@ Picture Michael Scott in a Virtual Remote Culture
 ![](https://cdn.hackernoon.com/images/7VKGhN9WI3PvPAtnBswSforogTU2-af1s34i5.jpeg)
 It turns out there is a way to hold better meetings. If you want them to be more efficient and productive, there are a few simple things your meetings need to b
 
-### [178. How To Make Your Remote Sales Team More Productive](https://hackernoon.com/how-to-make-your-remote-sales-team-more-productive-n41d3wmy)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9SL5hdVwaSfRZkszBeVHBp7C6yv1-2a6h3wl2.jpeg?alt=media&token=40cde451-4356-4eb9-a576-18f214849ca9)
-2020 commenced with a hopeful note. Sadly, as the months passed, it turned into the worst nightmare that many didn’t see coming.
-
-### [179. Slogging Insights: A Discussion About the Best Productivity Tools](https://hackernoon.com/slogging-insights-a-discussion-about-the-best-productivity-tools)
+### [178. Slogging Insights: A Discussion About the Best Productivity Tools](https://hackernoon.com/slogging-insights-a-discussion-about-the-best-productivity-tools)
 ![](https://cdn.hackernoon.com/images/6YYrpLpxaPQmJJRCpNXveW4ryyJ3-v7035di.jpeg)
 These are the best productivity tools that make your life a lot easier, as recommended by its everyday users. 
+
+### [179. How To Make Your Remote Sales Team More Productive](https://hackernoon.com/how-to-make-your-remote-sales-team-more-productive-n41d3wmy)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9SL5hdVwaSfRZkszBeVHBp7C6yv1-2a6h3wl2.jpeg?alt=media&token=40cde451-4356-4eb9-a576-18f214849ca9)
+2020 commenced with a hopeful note. Sadly, as the months passed, it turned into the worst nightmare that many didn’t see coming.
 
 ### [180. Team Retreats are Becoming Essential for Remote Tech Companies](https://hackernoon.com/team-retreats-are-becoming-essential-for-remote-tech-companies-vg1a37rs)
 ![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-ck2z328s.jpeg)
@@ -761,21 +763,21 @@ TeamOut founder Thomas Mazimann
 ![](https://images.unsplash.com/photo-1526378800651-c32d170fe6f8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Disclaimer: the author has no vested interest in the brands mentioned here.
 
-### [182. Digital Nomads Could Ease Economic Turmoil In The Tourism Industry](https://hackernoon.com/digital-nomads-could-ease-economic-turmoil-in-the-tourism-industry-5w5w31er)
-![](https://cdn.hackernoon.com/images/RKMlJx8lfbWMC35XuP6ocaanBzi1-o0g28bn.jpeg)
-With tourism on its knees thanks to COVID-19, what could save economies in some of the world's tourism hotspots? The answer: remote workers and digital nomads.
-
-### [183. Why Asynchronous Communication is Important in Remote Work](https://hackernoon.com/why-async-communication-is-important-in-remote-work)
-![](https://cdn.hackernoon.com/images/7skvMoTLQPTuwU5MRJrEZ31wECq2-9r03asa.jpeg)
-In this article, You will learn the benefits of asynchronous communication for remote workers.
-
-### [184. COVID-19: How the Pandemic has Impacted HackerNoon Staff](https://hackernoon.com/covid-19-how-the-pandemic-has-impacted-hackernoon-staff)
+### [182. COVID-19: How the Pandemic has Impacted HackerNoon Staff](https://hackernoon.com/covid-19-how-the-pandemic-has-impacted-hackernoon-staff)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-0z437in.jpeg)
 In this slogging post, the team at HackerNoon discuss how the Covid-19 Pandemic has not only impacted our work life but our lives in general.
 
-### [185. How Realtors are Using Mobile Technology for Their Benefit](https://hackernoon.com/how-realtors-are-using-mobile-technology-for-their-benefit-u1723xce)
+### [183. How Realtors are Using Mobile Technology for Their Benefit](https://hackernoon.com/how-realtors-are-using-mobile-technology-for-their-benefit-u1723xce)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F34Nifbk1wAcTFAl1R1xBcfSGR4p1-lp263usw.webp?alt=media&token=8ad9302b-4f9e-41bf-9f3a-f840597ced10)
 Realtors are an imperative part of the real estate ecosystem. They are omnipresent when it comes to anything that is related to real estate and so they know every nook and corner of their neighborhood. They know the neighboring properties and their estimated values and everything that their buyers and sellers look for. 
+
+### [184. Digital Nomads Could Ease Economic Turmoil In The Tourism Industry](https://hackernoon.com/digital-nomads-could-ease-economic-turmoil-in-the-tourism-industry-5w5w31er)
+![](https://cdn.hackernoon.com/images/RKMlJx8lfbWMC35XuP6ocaanBzi1-o0g28bn.jpeg)
+With tourism on its knees thanks to COVID-19, what could save economies in some of the world's tourism hotspots? The answer: remote workers and digital nomads.
+
+### [185. Why Asynchronous Communication is Important in Remote Work](https://hackernoon.com/why-async-communication-is-important-in-remote-work)
+![](https://cdn.hackernoon.com/images/7skvMoTLQPTuwU5MRJrEZ31wECq2-9r03asa.jpeg)
+In this article, You will learn the benefits of asynchronous communication for remote workers.
 
 ### [186. What Is the Difference Between Remote Assistance and Remote Desktop?](https://hackernoon.com/what-is-the-difference-between-remote-assistance-and-remote-desktop)
 ![](https://cdn.hackernoon.com/images/9Na9trlWcqU9rRFiM7DZhq7pydA2-ap93imk.jpeg)
@@ -785,13 +787,13 @@ Learn what remote assistance and remote desktop are and how they differ in the p
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWE8YXTCUFtMT8q4J1WlUAnJojVe2-kj63uei.jpeg?alt=media&token=6341d0f2-9178-436d-a7c9-130c292c834b)
 Only recently it became possible to code outdoors. The internet is available everywhere through LTE, and portable power is available through good laptop batteries. Although my 2012 MacBook Pro can't last beyond two hours, I found a portable lithium AC generator on Amazon that lasts me all day.
 
-### [188. 3 Key Challenges to Effective Team Collaboration and How to Face Them](https://hackernoon.com/3-key-challenges-to-effective-team-collaboration-and-how-to-face-them-oe39332h)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-gr1j2879.jpeg)
-A collaborative work environment leads to a more engaged and high-performing workforce. According to a study, collaborative teams are five times higher performing than their non-collaborative counterparts as they feel more motivated to reach common team goals.
-
-### [189. 181 Stories To Learn About Remote Teams](https://hackernoon.com/181-stories-to-learn-about-remote-teams)
+### [188. 181 Stories To Learn About Remote Teams](https://hackernoon.com/181-stories-to-learn-about-remote-teams)
 ![](https://cdn.hackernoon.com/images/github/remote-teams-610.png)
 Learn everything you need to know about Remote Teams via these 181 free HackerNoon stories.
+
+### [189. 3 Key Challenges to Effective Team Collaboration and How to Face Them](https://hackernoon.com/3-key-challenges-to-effective-team-collaboration-and-how-to-face-them-oe39332h)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-gr1j2879.jpeg)
+A collaborative work environment leads to a more engaged and high-performing workforce. According to a study, collaborative teams are five times higher performing than their non-collaborative counterparts as they feel more motivated to reach common team goals.
 
 ### [190. 5 Tips to Align Your Remote Engineering Teams](https://hackernoon.com/5-tips-to-align-your-remote-engineering-teams)
 ![](https://cdn.hackernoon.com/images/5piuqbzGNPae5bZRCn8CCDvc78P2-y893nd8.jpeg)
@@ -817,21 +819,21 @@ Today, the demand for remote IT teams is growing at a breakneck pace, and co
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFt1b5BCOQ7dpNfMhG3192dG8JxE2-m01x3ue2.jpeg?alt=media&token=a2d8543e-5636-4d2e-aa16-3b682cf4d3ee)
 82% of business leaders plan to continue letting employees work from home 
 
-### [196. Dr. Seuss Goes Remote: Oh, the Places You’ll Go](https://hackernoon.com/dr-seuss-goes-remote-oh-the-places-youll-go-kzt3thz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FulHLOrUUeTTHEKRJOCtpfWl7DLB3-9u623w2.jpeg?alt=media&token=efbdf35c-64e6-4644-9388-360984a68419)
-I was trying to explain to my kids why they should be excited about the growth of the remote business model. I’ve worked remotely for most of their lives, so they couldn’t understand what it was like when people went to offices, commuted long hours, and did their work surrounded by others. That’s what motivated me to explain remote work to them in a way they could easily comprehend. 
-
-### [197. I Want to Know How Tall Everyone is Since We are a Remote Company](https://hackernoon.com/i-want-to-know-how-tall-everyone-is-since-we-are-a-remote-company-vh1d379w)
+### [196. I Want to Know How Tall Everyone is Since We are a Remote Company](https://hackernoon.com/i-want-to-know-how-tall-everyone-is-since-we-are-a-remote-company-vh1d379w)
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-wyu45ep.jpeg)
 Our Podcast Manager Amy Tom hopped on Slack to learn more about her remote colleagues. This is the conversation that ensued...
 
-### [198. Remote Work, Different Timezones, and Bear Chronotypes](https://hackernoon.com/remote-work-different-timezones-and-bear-chronotypes)
-![](https://cdn.hackernoon.com/images/PxqbX3ZeOxZEcIA7xjOltjRXMtz1-n12d359n.jpeg)
-In 9 to 5 office jobs, most meetings are scheduled mid-morning, which is the most productive time for Bears, effectively reducing peak performance time by half.
+### [197. Dr. Seuss Goes Remote: Oh, the Places You’ll Go](https://hackernoon.com/dr-seuss-goes-remote-oh-the-places-youll-go-kzt3thz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FulHLOrUUeTTHEKRJOCtpfWl7DLB3-9u623w2.jpeg?alt=media&token=efbdf35c-64e6-4644-9388-360984a68419)
+I was trying to explain to my kids why they should be excited about the growth of the remote business model. I’ve worked remotely for most of their lives, so they couldn’t understand what it was like when people went to offices, commuted long hours, and did their work surrounded by others. That’s what motivated me to explain remote work to them in a way they could easily comprehend. 
 
-### [199. How To Establish Better Governance](https://hackernoon.com/how-to-establish-better-governance-in1v3zqk)
+### [198. How To Establish Better Governance](https://hackernoon.com/how-to-establish-better-governance-in1v3zqk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fnud82t9OpHSjNGHAaJRzTjnQd7l2-fv93w1p.jpeg?alt=media&token=4a3d0ab8-b7ac-40a8-93a7-4fc0b81ecf73)
 Recently, one of our Site Reliability Engineers (SRE) noticed a workload running in our cluster which he hasn’t seen before. The workload was consuming some resources and the SRE wanted to apply some updates to the cluster but was not sure who owns the workload, and doesn’t know if his updates would have an impact on it or not. 
+
+### [199. Remote Work, Different Timezones, and Bear Chronotypes](https://hackernoon.com/remote-work-different-timezones-and-bear-chronotypes)
+![](https://cdn.hackernoon.com/images/PxqbX3ZeOxZEcIA7xjOltjRXMtz1-n12d359n.jpeg)
+In 9 to 5 office jobs, most meetings are scheduled mid-morning, which is the most productive time for Bears, effectively reducing peak performance time by half.
 
 ### [200. The Remote Working Wars: How to Meet in the Middle AND Hack Managing Hybrid Teams Effectively](https://hackernoon.com/the-remote-working-wars-how-to-meet-in-the-middle-and-hack-managing-hybrid-teams-effectively)
 ![](https://cdn.hackernoon.com/images/3lBcnwCqzKWip3BFdYbEC3h4DHD3-by93p38.jpeg)

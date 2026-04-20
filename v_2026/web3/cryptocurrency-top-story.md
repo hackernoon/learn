@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [cryptocurrency-top-story](https://hackernoon.com/tagged/cryptocurrency-top-story)
+### Let's learn about [Cryptocurrency Top Story](https://hackernoon.com/tagged/cryptocurrency-top-story) via these 307 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Simply the best cryptocurrency-related opinion pieces on the internet. 
 
 ### [1. How To Mint Your First NFT (Non-Fungible Token) For Free](https://hackernoon.com/how-to-mint-your-first-nft-non-fungible-token-for-free-b42j33ek)
@@ -132,13 +134,13 @@ Discover which layer 2 projects are offering solutions to scaling issues stuntin
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtTTMI9vuQxX8cldzLPyqv5X3ZOk2-kd2g3zte.jpeg?alt=media&token=d963a75b-b3a5-48a1-b977-e1ddcafdcbb9)
 Crypto enthusiasts often face a conundrum when turning to cryptocurrency as a viable investment. An eternal question remains: To invest and forget, or to trade the notorious price swings for even more gains?
 
-### [33. Mean Reversion Trading Systems and Cryptocurrency Trading [A Deep Dive]](https://hackernoon.com/mean-reversion-trading-systems-and-cryptocurrency-trading-a-deep-dive-6o8f33cm)
-![](images/un1ei2b7q.jpg)
-Prices move in a wave like fashion, moving back and forth following a broader trend. While doing so, it often revolves around a mean. It might move across or bounce off the mean. Mean reversion systems are designed to exploit this tendency.
-
-### [34. The Importance of Cross-Chain Solutions in the DeFi Economy](https://hackernoon.com/the-importance-of-cross-chain-solutions-in-the-defi-economy-5en3w9a)
+### [33. The Importance of Cross-Chain Solutions in the DeFi Economy](https://hackernoon.com/the-importance-of-cross-chain-solutions-in-the-defi-economy-5en3w9a)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEBNEt8ZDkqPFfK65oD0aZyPRqBk1-t02y313p.jpeg?alt=media&token=eb2fcdab-b2ca-4adf-b70e-f70ed46fece2)
 Cross-chain solutions are increasingly catching the attention of speculators within the decentralized finance ecosystem. As products and platforms grow in popularity, interoperability between separate chains is becoming increasingly important. 
+
+### [34. Mean Reversion Trading Systems and Cryptocurrency Trading [A Deep Dive]](https://hackernoon.com/mean-reversion-trading-systems-and-cryptocurrency-trading-a-deep-dive-6o8f33cm)
+![](images/un1ei2b7q.jpg)
+Prices move in a wave like fashion, moving back and forth following a broader trend. While doing so, it often revolves around a mean. It might move across or bounce off the mean. Mean reversion systems are designed to exploit this tendency.
 
 ### [35. Global Debt, Ethereum, and a New Open Financial System [Analyzed]](https://hackernoon.com/global-debt-ethereum-and-a-new-open-financial-system-9up3aq6)
 ![](https://cdn.hackernoon.com/drafts/ru4i3atl.png)
@@ -188,13 +190,13 @@ A mother walks into the supermarket to buy baby milk but the iris scanner spots 
 ![](https://images.unsplash.com/photo-1561631918-0e0d6af260af?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 No matter where you are on Earth, you can feel the impact of the COVID-19 pandemic. Coronavirus has a negative impact on the industry, tourism, trade, stock markets, and of course, cryptocurrencies. In this article, we will consider how this epidemic has affected the blockchain industry and how it will affect the development of the cryptocurrency industry.
 
-### [47. In The BTC Vs. USD Battle, My Money's on DOGE: Here's Why](https://hackernoon.com/in-the-btc-vs-usd-battle-my-moneys-on-doge-heres-why-6m3y33rx)
-![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-a816r284i.jpeg)
-Could it really be true Dogecoin is better than Bitcoin for widespread adoption and usage by a national or pseudo-national entity?  
-
-### [48. How CBDC Will Replace Cash: Experiment To Programmable Money](https://hackernoon.com/how-cbdc-will-replace-cash-experiment-to-programmable-money-m5193z6a)
+### [47. How CBDC Will Replace Cash: Experiment To Programmable Money](https://hackernoon.com/how-cbdc-will-replace-cash-experiment-to-programmable-money-m5193z6a)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5rS4yrERbxUtfUCTsrb3x2kieP32-4gbt3e8g.jpeg?alt=media&token=ba5f9c79-ef8c-4350-9791-45be704c93d6)
 The current outbreak of coronavirus disease has significantly accelerated the development of central banks digital currencies (CBDC). It is easy to check with the growing number of projects and the recent first official launch of digital currency in the Bahamas. Moreover, Deutsche Bank analysts say that in the long term, CBDC can replace cash.
+
+### [48. In The BTC Vs. USD Battle, My Money's on DOGE: Here's Why](https://hackernoon.com/in-the-btc-vs-usd-battle-my-moneys-on-doge-heres-why-6m3y33rx)
+![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-a816r284i.jpeg)
+Could it really be true Dogecoin is better than Bitcoin for widespread adoption and usage by a national or pseudo-national entity?  
 
 ### [49. Exploring Passive Income in Cryptocurrencies: Will 2020 be Year of Staking? ](https://hackernoon.com/exploring-passive-income-in-cryptocurrencies-will-2020-be-year-of-staking-onen32i8)
 ![](https://cdn.hackernoon.com/drafts/1n7p327q.png)
@@ -284,21 +286,21 @@ A beginner's guide to the crypto ecosystem
 ![](https://cdn.hackernoon.com/images/v6WxeZKmn3XLcnGFkevPft6MID23-y7ar362g.jpeg)
 The Durov brothers fought for a very long time with the US Securities and Exchange Commission (SEC) for the adoption of the Telegram Open Network (TON) in the US, which led to the official statement by Pavel Durov to close the project and stop its development. Nevertheless, the open source code of the project gave a second chance. With the help of TON repositories, a group of independent enthusiasts collected all the best that was created by the Telegram development team and released their project called Free TON with the TON Crystal cryptocurrency.Like other POS networks that have their own decentralized management, Free TON has its own declaration, which spelled out all the ideas and concepts of the community and the Free TON decentralized network. All the philosophical foundations of the project can be found in this foundation of the declaration. The Declaration on Decentralization is gradual, it was not created in a few days. And while the process of creating a full-fledged declaration was going on, more and more participants joined the project – both from the side of developers and users, and from the side of users who were interested in this project. These members have formed a very active and large crypto community in a short period of time, which is currently one of the largest independent cryptocurrency communities. How it all began? From the very beginning, there were people who were very much involved in the TON project (which was directed by Pavel Durov). They were looking forward to launching all over the world. When Pavel Durov announced the closure of the project, these people were very upset. They decided that closing a project that they had been working on for over 2 years was humiliating. A lot of people spent a huge amount of time and effort on a project, which was then closed on the grounds that the money was not collected the way someone wanted – this is nonsense. It was these people who became the one that was used, helped to gain huge publicity among ordinary people and cryptocurrency enthusiasts. On May 7, 2020, the official launch of the Free TON project took place. In addition to launching the project, the TON Labs team published the main components of TON OS on GitHub. Free TON has grown very quickly as a truly decentralized community driven project. Today, Free TON is an active community of cryptocurrency enthusiasts with over 30,000 members worldwide who contribute daily to the development of both the Free TON blockchain and TON Crystal digital coins. The Free TON community is self-sufficient. All changes within the community and the blockchain take place after the approval of the community members and nothing else. There is no centralized governing body and project community. As a result of the interaction of all these factors and the efforts of the programmers, a wide range of software developments has been provided, aimed at significantly improving tooling and changes in protocols.
 
-### [71. The Good, The Bad, and The Ugly of Central Bank Digital Currencies or CBDCs](https://hackernoon.com/the-good-the-bad-and-the-ugly-of-central-bank-digital-currencies-or-cbdcs-2b213wi5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNbkygUB9G6Zx5nmHwA4JRCtfZkr2-xmh3wk6.jpeg?alt=media&token=92cae8f2-9425-4867-8484-8c426b2b1653)
-Less than 1% of the world’s population uses cryptocurrencies. And whether the remaining 99% want to use them or not, it doesn’t matter anymore. 
-
-### [72. NFTs, Celebrities, and Stoner Cats](https://hackernoon.com/nfts-celebrities-and-stoner-cats-ol2437pw)
+### [71. NFTs, Celebrities, and Stoner Cats](https://hackernoon.com/nfts-celebrities-and-stoner-cats-ol2437pw)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-mah37nu.jpeg)
 It all started with Vitalik Buterin appearing in Ashton and Mila’s kitchen…
 
-### [73. Here's What My Crypto-Trading Bot Will Do ...With A Little Help From Binance and Deribit](https://hackernoon.com/heres-what-my-crypto-trading-bot-will-do-with-a-little-help-from-binance-and-deribit-ac1ml32ny)
-![](https://cdn.hackernoon.com/images/ka6332o6.jpg)
-Over the last week, I’ve managed to wrangle pretty good deals from Deribit and Binance.
+### [72. The Good, The Bad, and The Ugly of Central Bank Digital Currencies or CBDCs](https://hackernoon.com/the-good-the-bad-and-the-ugly-of-central-bank-digital-currencies-or-cbdcs-2b213wi5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNbkygUB9G6Zx5nmHwA4JRCtfZkr2-xmh3wk6.jpeg?alt=media&token=92cae8f2-9425-4867-8484-8c426b2b1653)
+Less than 1% of the world’s population uses cryptocurrencies. And whether the remaining 99% want to use them or not, it doesn’t matter anymore. 
 
-### [74. The State of Web3 - Cryptocurrency Exchange Growth and Trading Volume in 2022](https://hackernoon.com/the-state-of-web3-cryptocurrency-exchange-growth-and-trading-volume-in-2022)
+### [73. The State of Web3 - Cryptocurrency Exchange Growth and Trading Volume in 2022](https://hackernoon.com/the-state-of-web3-cryptocurrency-exchange-growth-and-trading-volume-in-2022)
 ![](https://cdn.hackernoon.com/images/PqBokrbZnUh88uMPTuuAuDPfPi53-e593uj3.jpeg)
 Has interest in crypto exchanges grown or shrunk the last 2 years? We pulled market presence and trading volume from 58 different exchanges to find out. 
+
+### [74. Here's What My Crypto-Trading Bot Will Do ...With A Little Help From Binance and Deribit](https://hackernoon.com/heres-what-my-crypto-trading-bot-will-do-with-a-little-help-from-binance-and-deribit-ac1ml32ny)
+![](https://cdn.hackernoon.com/images/ka6332o6.jpg)
+Over the last week, I’ve managed to wrangle pretty good deals from Deribit and Binance.
 
 ### [75. Libra Coin: The Good, The Bad and The Unknown](https://hackernoon.com/libra-coin-the-good-the-bad-and-the-unknown-b239ebacbd0b)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-e4f3x96.jpeg?alt=media&token=a7572c27-a264-4fe4-87ca-488c41742984)
@@ -320,30 +322,30 @@ Fan Tokens are cryptocurrency tokens that give fans access to a range of exclusi
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FObnX8wGT1ERrOIJ2xCfOecb9EB33-gj113u9x.webp?alt=media&token=eda2c8c5-4f3c-4f57-a3b8-2ee93dd087f1)
 The Global Recession of 2008 sent unprecedented shockwaves and disrupted Financial Markets worldwide. With Banks of International repute going insolvent to Financial Institutions turning towards the governments for bailouts and mergers, many woke up to the fact and sought alternate ways of financial transactions which would be least affected by sudden unprecedented fluctuations and Market Corrections. 
 
-### [80. Cross-chain as the next stage in the development of decentralized networks](https://hackernoon.com/how-microstrategy-became-the-newest-darling-of-the-crypto-verse-vs6533rc)
+### [80. Brand Identity in the Crypto Sector. How It Started and Why It’s Changing](https://hackernoon.com/brand-identity-in-the-crypto-sector-how-it-started-and-why-its-changing)
+![](https://cdn.hackernoon.com/images/7hzZGuAaFFVNg4s1IRXPti70PnZ2-tt93kvp.jpeg)
+When talking about crypto projects, people mainly speak about the qualities of the backend. 
+
+### [81. Cross-chain as the next stage in the development of decentralized networks](https://hackernoon.com/how-microstrategy-became-the-newest-darling-of-the-crypto-verse-vs6533rc)
 ![](https://cdn.hackernoon.com/images/ICFDnsDmDOZvcYkjBuTkWflsLiF2-h73g33nv.jpeg)
 Market activity has also risen significantly, showing that the crypto industry is no longer just a fad that people call on when they’re trying to make themselves feel better. 
 
-
-### [81. Brand Identity in the Crypto Sector. How It Started and Why It’s Changing](https://hackernoon.com/brand-identity-in-the-crypto-sector-how-it-started-and-why-its-changing)
-![](https://cdn.hackernoon.com/images/7hzZGuAaFFVNg4s1IRXPti70PnZ2-tt93kvp.jpeg)
-When talking about crypto projects, people mainly speak about the qualities of the backend. 
 
 ### [82. 15 Trends That Prove Crypto-Adoption Is Moving In The Right Direction](https://hackernoon.com/15-trends-that-prove-crypto-adoption-is-moving-in-the-right-direction-5i3d336o)
 ![](https://cdn.hackernoon.com/images/1iOMM6l0AKV1JmQnsfQqVxEf4xB2-4bd33bs.jpeg)
 The blockchain sector is among the fastest-moving industries, susceptible to change and disruption. Here are 15 upcoming events to look out for in 2021.
 
-### [83. Lack of understanding paves way for speculative behavior in crypto markets - Jordan, QTUM Co-Founder](https://hackernoon.com/lack-of-understanding-paves-way-for-speculative-behavior-in-crypto-markets-jordan-qtum-co-founder-qds33pl)
+### [83. Is It Too Late to Buy Crypto?: Top 5 Most Annoying Questions about Cryptocurrency](https://hackernoon.com/is-it-too-late-to-buy-crypto-top-5-most-annoying-questions-about-cryptocurrency)
+![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-67a3qpi.jpeg)
+This article takes a look at questions that you might've asked as a newbie to cryptocurrency. Is it too late to buy in?
+
+### [84. Lack of understanding paves way for speculative behavior in crypto markets - Jordan, QTUM Co-Founder](https://hackernoon.com/lack-of-understanding-paves-way-for-speculative-behavior-in-crypto-markets-jordan-qtum-co-founder-qds33pl)
 ![](https://cdn.hackernoon.com/images/pdNpXCdz7hYdjvghqFeCGCNGyAq1-fne033fw.jpeg)
 Welcome to Mondays with Entrepreneurs. Today, we have with us Jordan Earls (Co-Founder QTUM (crypto)), who loves to code 👨‍💻.
 
-### [84. A Deep Dive into Augur and What v2 Holds for Its Users](https://hackernoon.com/a-deep-dive-into-augur-and-what-v2-holds-for-its-users-qr7y327t)
+### [85. A Deep Dive into Augur and What v2 Holds for Its Users](https://hackernoon.com/a-deep-dive-into-augur-and-what-v2-holds-for-its-users-qr7y327t)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-b082qma.jpeg)
 Augur is a decentralized prediction market protocol built upon Ethereum which allows users to speculate on anything. Prediction markets are a sector ripe for disruption from blockchain technology; however, scalability problems and broader adoption remain as potential growth inhibitors when it comes to a project like Augur. 
-
-### [85. Is It Too Late to Buy Crypto?: Top 5 Most Annoying Questions about Cryptocurrency](https://hackernoon.com/is-it-too-late-to-buy-crypto-top-5-most-annoying-questions-about-cryptocurrency)
-![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-67a3qpi.jpeg)
-This article takes a look at questions that you might've asked as a newbie to cryptocurrency. Is it too late to buy in?
 
 ### [86. Tips To Protect Cryptocurrency From Cyber Attacks](https://hackernoon.com/tips-to-protect-cryptocurrency-from-cyber-attacks)
 ![](https://cdn.hackernoon.com/images/i2gshw6rllhlJUckJ47BimR9yVw1-9293k6f.jpeg)
@@ -369,14 +371,14 @@ TL;DR: Contrary to the prevailing “fractional reserve” narrative of money cr
 ![](https://cdn.hackernoon.com/images/kAWLEVV9xGhlY4KmWaDUAWQUrDv1-fw3s3o2v.png)
 Issued tokens may have no viable use case because the token’s utility has already been defined up front. A new open-source framework, IQ Protocol, can solve it.
 
-### [92. Crypto Weekly #3 - How the World Will Change After a Pandemic And Blockchain’s Role in It](https://hackernoon.com/crypto-weekly-3-how-the-world-will-change-after-a-pandemic-and-blockchains-role-in-it-at543274)
-![](https://cdn.hackernoon.com/drafts/1ae03yiz.png)
-We’re all living in this strange new reality right now and adjusting our schedules, our jobs, and our very livelihoods. And while things will certainly go back to normal soon, for now, well, now’s a great time to review how this new economy affects the blockchain industry, and what changes will come once the pandemic is resolved. 
-
-### [93. Can Filecoin Achieve A Market Value of 100 billion Any Time Soon?](https://hackernoon.com/can-filecoin-achieve-a-market-value-of-100-billion-any-time-soon-101x3xjl)
+### [92. Can Filecoin Achieve A Market Value of 100 billion Any Time Soon?](https://hackernoon.com/can-filecoin-achieve-a-market-value-of-100-billion-any-time-soon-101x3xjl)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6192IkNhK6fDk5pJCty9veBXXmt2-js3i3x86.jpeg?alt=media&token=5053db84-c468-4474-bd6d-eaae9e41ac44)
 Filecoin 3 years late，Can it achieve a market value of 100 billion
 Filecoinbe will be able to successfully launch the mainnet this year? which is  three years late.What is the support behind the high-profile storage market?LLab invited Li Bai from the  shiliu pool to have an in-depth discussion with you.
+
+### [93. Crypto Weekly #3 - How the World Will Change After a Pandemic And Blockchain’s Role in It](https://hackernoon.com/crypto-weekly-3-how-the-world-will-change-after-a-pandemic-and-blockchains-role-in-it-at543274)
+![](https://cdn.hackernoon.com/drafts/1ae03yiz.png)
+We’re all living in this strange new reality right now and adjusting our schedules, our jobs, and our very livelihoods. And while things will certainly go back to normal soon, for now, well, now’s a great time to review how this new economy affects the blockchain industry, and what changes will come once the pandemic is resolved. 
 
 ### [94. Worried About Bitcoin Price? Let Data Lead the Way](https://hackernoon.com/worried-about-bitcoin-price-let-data-lead-the-way)
 ![](https://cdn.hackernoon.com/images/NbkygUB9G6Zx5nmHwA4JRCtfZkr2-toe30gb.jpeg)
@@ -386,13 +388,13 @@ Three reasons not to worry about a bitcoin crash
 ![](https://cdn.hackernoon.com/drafts/un142lct.png)
 We humans are amazing creatures, we are full of contradictions, we seem to combine surprisingly incompatible things - anger and kindness, loyalty and betrayal, honesty and deceit, greed and generosity. Some people may be vicious and greedy deceivers capable of taking any actions to achieve their selfish goals, while others may disinterestedly and generously help strangers in distress.
 
-### [96. #WillTheyWon'tThey - Will Apple Get on The Crypto Train?](https://hackernoon.com/willtheywontthey-will-apple-get-on-the-crypto-train-xx3m3462)
-![](https://cdn.hackernoon.com/images/EwJUGBElwgSQUxdWT4FunLSuZVm2-5d1r34qi.jpeg)
-Elon Musk, has drastically changed how many cryptocurrencies were being looked at. It takes the market by storm, no kidding! 
-
-### [97. More Africans Walk Towards Financial Freedom Due To Cryptocurrencies](https://hackernoon.com/more-africans-walk-towards-financial-freedom-due-to-cryptocurrencies-552z33xu)
+### [96. More Africans Walk Towards Financial Freedom Due To Cryptocurrencies](https://hackernoon.com/more-africans-walk-towards-financial-freedom-due-to-cryptocurrencies-552z33xu)
 ![](https://cdn.hackernoon.com/images/v6WxeZKmn3XLcnGFkevPft6MID23-ay4x36vd.jpeg)
 Africa is rarely mentioned as a major cryptocurrency market. However, recent trends indicate that it may move leaders out of their positions. In 2018, in just 9 months, more than 15 cryptocurrency trading platforms were opened in Africa. The trend has appeared a long time ago and is only getting stronger every year. When the bitcoin rate rose in 2017, the trading volume on African exchanges increased sharply. For example, trading volumes in Kenya on one of the sites in December 2017 rose to $ 8.1 million. Another company reported 2,000 BTC transactions in November 2017, when the price fluctuated in the $ 10,000 range. Approximately 37% of these transactions were made in South Africa. There are several reasons why Africa could be the next big cryptocurrency market. The Free TON team believes that cryptocurrencies and blockchain are key to unlocking Africa’s vast potential. Only blockchain is capable of transforming the continent, this technology will contribute to the growth and prosperity of all countries in the 21st century, giving everyone complete control over their finances.
+
+### [97. #WillTheyWon'tThey - Will Apple Get on The Crypto Train?](https://hackernoon.com/willtheywontthey-will-apple-get-on-the-crypto-train-xx3m3462)
+![](https://cdn.hackernoon.com/images/EwJUGBElwgSQUxdWT4FunLSuZVm2-5d1r34qi.jpeg)
+Elon Musk, has drastically changed how many cryptocurrencies were being looked at. It takes the market by storm, no kidding! 
 
 ### [98. Narrative Cryptoeconomics: Part 1](https://hackernoon.com/narrative-cryptoeconomics-part-1-cc1h3y91)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-qbl3yy2.jpeg?alt=media&token=d6bfd890-6f66-4ac3-b9e1-e72121879187)
@@ -426,17 +428,17 @@ In response to the 2022 Crypto Crash, Chitose Nakamoto offers thoughts on the st
 ![](https://cdn.hackernoon.com/drafts/2kr2b4g.png)
 Tauri is the Director of Casino at Bitcasino.io and co-founder of the Coingaming Group. As an early Bitcoin adopter, he has overseen the growth and development of Bitcasino from being the first licensed Bitcoin casino to an industry leader. In addition to being a crypto enthusiast, he also enjoys the occasional poker game. 
 
-### [106. [Announcement] This Year's Black Friday Sale is Better Than Ever!](https://hackernoon.com/announcement-this-years-black-friday-sale-is-better-than-ever-pn1s3z6i)
+### [106. 🎮 Reddit Has Onboarded More People Into NFTs Than OpenSea ](https://hackernoon.com/reddit-has-onboarded-more-people-into-nfts-than-opensea-or-crypto-player-one)
+![](https://cdn.hackernoon.com/images/BvBqrRvEqhNz9wT9U2y5GCOmr5E3-q793rdf.jpeg)
+Learn how Reddit onboarded 3 million people into NFTs. 
+
+### [107. [Announcement] This Year's Black Friday Sale is Better Than Ever!](https://hackernoon.com/announcement-this-years-black-friday-sale-is-better-than-ever-pn1s3z6i)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FcVgRo96mIzL9nvPQM86NQqLL6Mi2-cxx3w4p.png?alt=media&token=c488cb47-87a0-453e-bc2f-167824838dd9)
 This year, no one will go without a present – our Black Friday sale is fast approaching with discounts of up to 60%. 
 
-### [107. The Catfish Effect on Crypto Rally](https://hackernoon.com/the-catfish-effect-on-crypto-rally)
+### [108. The Catfish Effect on Crypto Rally](https://hackernoon.com/the-catfish-effect-on-crypto-rally)
 ![](https://cdn.hackernoon.com/images/rUpKihqU5xWtvjykFGTByUkU2pv2-c1e3sx0.png)
 For the current market, the most important thing is to survive to see the new moon after the crypto tide.
-
-### [108. 🎮 Reddit Has Onboarded More People Into NFTs Than OpenSea ](https://hackernoon.com/reddit-has-onboarded-more-people-into-nfts-than-opensea-or-crypto-player-one)
-![](https://cdn.hackernoon.com/images/BvBqrRvEqhNz9wT9U2y5GCOmr5E3-q793rdf.jpeg)
-Learn how Reddit onboarded 3 million people into NFTs. 
 
 ### [109. Norton Antivirus: How To Kill a Brand With Cryptocurrency ](https://hackernoon.com/norton-antivirus-how-to-kill-a-brand-with-cryptocurrency)
 ![](https://cdn.hackernoon.com/images/RHANbxrXjsYoxIMTyKJFleCFJyC3-fj037ne.jpeg)
@@ -454,13 +456,13 @@ Since different exchanges will have different prices for any assets due to a dif
 ![](https://cdn.hackernoon.com/images/KdLcZRM9ufXhHJgOghOg1qfq8q02-l9a3s4r.jpeg)
 Crypto will never replace a major currency (and it doesn't need to in order to be successful)
 
-### [113. From ICO to DYCO: A Brief History of Crypto-Fundraising](https://hackernoon.com/from-ico-to-dyco-a-brief-history-of-crypto-fundraising-gc1o345g)
-![](https://cdn.hackernoon.com/images/n2UNASNaMSbfJCZVycuvAaD6KUE3-m862ben.png)
-Potential use and the benefits of blockchain technology and cryptocurrencies were quickly seen by dozens of entrepreneurial people worldwide.
-
-### [114. Stop Relying On Sole Private Keys: The SMPC Approach to Crypto-Wallets [Deep Dive]](https://hackernoon.com/stop-relying-on-sole-private-keys-the-smpc-approach-to-crypto-wallets-deep-dive-pafi327d)
+### [113. Stop Relying On Sole Private Keys: The SMPC Approach to Crypto-Wallets [Deep Dive]](https://hackernoon.com/stop-relying-on-sole-private-keys-the-smpc-approach-to-crypto-wallets-deep-dive-pafi327d)
 ![](https://cdn.hackernoon.com/images/m834v32xc.jpg)
 There are no doubts that crypto is a unique ecosystem from different points of view. A lot of enthusiasts could talk here about decentralization, transparency, alternative for fiat money and other things, that are well-known by anyone, who is in crypto. 
+
+### [114. From ICO to DYCO: A Brief History of Crypto-Fundraising](https://hackernoon.com/from-ico-to-dyco-a-brief-history-of-crypto-fundraising-gc1o345g)
+![](https://cdn.hackernoon.com/images/n2UNASNaMSbfJCZVycuvAaD6KUE3-m862ben.png)
+Potential use and the benefits of blockchain technology and cryptocurrencies were quickly seen by dozens of entrepreneurial people worldwide.
 
 ### [115. Why 2020 Could Be A Bad Year for Crypto HODLers?](https://hackernoon.com/why-2020-could-be-a-bad-year-for-crypto-hodlers-m55g3275)
 ![](https://cdn.hackernoon.com/drafts/nh3z3y7n.png)
@@ -474,13 +476,13 @@ Over the past 3 years, it’s become apparent that cryptocurrency payments are b
 ![](https://cdn.hackernoon.com/drafts/891kb3y3l.png)
 It’s natural to think about the potential growth and profitability of cryptocurrency, but with an internationally accepted currency in place, the practical benefits could be enormous. Depending on how the currency is adopted, a stable, internationally recognized currency could have the power to soothe international tensions—and make the world a more peaceful place.
 
-### [118. Binance Copies Yet Again: The Victim Investigates the [Alleged] Perpetrators ](https://hackernoon.com/binance-copies-yet-again-the-victim-investigates-the-alleged-perpetrators-9x1i7329j)
-![](https://cdn.hackernoon.com/drafts/qxqd3yn5.png)
-On April 13th, 2020, Binance announced the news that they've launched options trading on their mobile App. After testing and comparing, we found that the so-called Binance Options trading looked exactly the same as the Options trading we have seen and tested on BitOffer in October 2019. (Editor's Disclaimer: The author works at BitOffer)
-
-### [119. Can Blockchains Overcome the Scalability Trilemma?](https://hackernoon.com/can-blockchains-overcome-the-scalability-trilemma)
+### [118. Can Blockchains Overcome the Scalability Trilemma?](https://hackernoon.com/can-blockchains-overcome-the-scalability-trilemma)
 ![](https://cdn.hackernoon.com/images/PWiKbaVxohZ8PidtkLYzFcnG9Qw2-9x034ou.jpeg)
 Beldex will be integrating Bucephalus Hard Fork on the 10th of December, 2021. Their goal is to create the first-ever privacy-based ecosystem.
+
+### [119. Binance Copies Yet Again: The Victim Investigates the [Alleged] Perpetrators ](https://hackernoon.com/binance-copies-yet-again-the-victim-investigates-the-alleged-perpetrators-9x1i7329j)
+![](https://cdn.hackernoon.com/drafts/qxqd3yn5.png)
+On April 13th, 2020, Binance announced the news that they've launched options trading on their mobile App. After testing and comparing, we found that the so-called Binance Options trading looked exactly the same as the Options trading we have seen and tested on BitOffer in October 2019. (Editor's Disclaimer: The author works at BitOffer)
 
 ### [120. 10 Cryptocurrency Data Points to Takeaway from 2019](https://hackernoon.com/10-key-data-points-about-crypto-assets-to-start-2020-tip33i8)
 ![](https://cdn.hackernoon.com/images/jncj33h8.jpg)
@@ -498,163 +500,163 @@ Not everyone has the technical-knowhow to navigate the highly volatile crypto te
 ![](https://cdn.hackernoon.com/images/ILYdCTNvQpWuwSeDNVop7loJYf62-rg0394f.jpeg)
 At the beginning, DEXs replicated the orderbook model of CEX as the market-making mechanism. 
 
-### [124. Crypto Noobs of 2017 vs. 2020: Learning to Trade Better Is Getting Harder](https://hackernoon.com/crypto-noobs-of-2017-vs-2020-learning-to-trade-better-is-getting-harder-sg1a3xd3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FU29ANbennINYbQNf8yAG8TriTaY2-iad3ucg.jpeg?alt=media&token=6e3dc99c-ae86-457f-82ff-934186d3d99a)
-Cryptocurrency trading is rising in popularity, but that doesn’t mean that it’s easy to get started. Successful crypto investing demands traditional trading skills, a grasp of the way that the new tech works, some knowledge of blockchain, and an understanding of crypto trading jargon.
-
-### [125. What Does 2021 Hold For Insurance on The Blockchain?](https://hackernoon.com/what-does-2021-hold-for-insurance-on-the-blockchain-fz3z33bv)
+### [124. What Does 2021 Hold For Insurance on The Blockchain?](https://hackernoon.com/what-does-2021-hold-for-insurance-on-the-blockchain-fz3z33bv)
 ![](https://cdn.hackernoon.com/images/rrklQPNbspZjuipgqdjB7er0G6e2-9tj26fd.jpeg)
 Blockchain has seen multiple use cases over the years, from simple payment coins to tokenizing art. But there is a class of projects aiming to build solutions to last over the years, with a level of complexity rivaling traditional business and financial structures. 
 
-### [126. Did Martin Shkreli Topple FTX's House of Cards?](https://hackernoon.com/did-martin-shkreli-topple-ftxs-house-of-cards)
+### [125. Did Martin Shkreli Topple FTX's House of Cards?](https://hackernoon.com/did-martin-shkreli-topple-ftxs-house-of-cards)
 ![](https://cdn.hackernoon.com/images/EedXtberi1PCj4YEhUrdcXkgyQf2-x7a361e.jpeg)
 A source on Twitter has released unconfirmed audio of (allegedly) Martin Shkreli making unverified claims that he was behind FTX's and SBF's stunning downfall.
 
-### [127. Here's Why Your Cryptocurrency Price Predictions Fail...or Succeed [Explained]](https://hackernoon.com/myths-and-realities-about-cryptocurrency-price-predictions-7ep338k)
+### [126. Crypto Noobs of 2017 vs. 2020: Learning to Trade Better Is Getting Harder](https://hackernoon.com/crypto-noobs-of-2017-vs-2020-learning-to-trade-better-is-getting-harder-sg1a3xd3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FU29ANbennINYbQNf8yAG8TriTaY2-iad3ucg.jpeg?alt=media&token=6e3dc99c-ae86-457f-82ff-934186d3d99a)
+Cryptocurrency trading is rising in popularity, but that doesn’t mean that it’s easy to get started. Successful crypto investing demands traditional trading skills, a grasp of the way that the new tech works, some knowledge of blockchain, and an understanding of crypto trading jargon.
+
+### [127. Safeguard Your KuCoin Account Against Phishing Attacks: A How-To Guide](https://hackernoon.com/safeguard-your-kucoin-account-against-phishing-attacks-a-how-to-guide)
+![](https://cdn.hackernoon.com/images/XyDK4xhGcmPtuzVFiaF8d8dJeEG2-blc3goh.jpeg)
+ One of the most common and increasingly applied types of attacks relying on social engineering is phishing your kucoin account details such as passwords
+
+### [128. Here's Why Your Cryptocurrency Price Predictions Fail...or Succeed [Explained]](https://hackernoon.com/myths-and-realities-about-cryptocurrency-price-predictions-7ep338k)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-8z83xhe.jpeg)
 Predicting the price of assets is a never ending obsession in capital markets and the crypto space is not an exception. Since the early days of Bitcoin, there have been many attempts to create predictive models that forecast the price of crypto-assets. 
 
-### [128. Examining Decentralized Exchange Token Sales](https://hackernoon.com/examining-decentralized-exchange-token-sales-vo253ye3)
+### [129. Examining Decentralized Exchange Token Sales](https://hackernoon.com/examining-decentralized-exchange-token-sales-vo253ye3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgOcaGZL99ges09JGDQ0NcEqoWcf1-nw3h3xxx.webp?alt=media&token=2409aa44-161d-4ada-b5a3-939cff03ee6d)
 Decentralized exchanges are truly having their year in crypto. We are starting to see more decentralization for capital raises facilitated by trustless, non-custodial platforms. 
-
-### [129. Safeguard Your KuCoin Account Against Phishing Attacks: A How-To Guide](https://hackernoon.com/safeguard-your-kucoin-account-against-phishing-attacks-a-how-to-guide)
-![](https://cdn.hackernoon.com/images/XyDK4xhGcmPtuzVFiaF8d8dJeEG2-blc3goh.jpeg)
- One of the most common and increasingly applied types of attacks relying on social engineering is phishing your kucoin account details such as passwords
 
 ### [130. Getting Started in the World of NFT Collectibles](https://hackernoon.com/getting-started-in-the-world-of-nft-collectibles-7v843772)
 ![](https://cdn.hackernoon.com/images/dfnkKGGdaveDKSte2xzbUj73T6z2-kb1g3ak7.jpeg)
 Now that NFTs are back on the rise, many investors are trying to find a way in, but it can be hard to identify value in the enigmatic world of collectibles.
 
-### [131. Phishers In Crypto Are Getting Smarter - And So Should You](https://hackernoon.com/phishers-in-crypto-are-getting-smarter-and-so-should-you-xq3o33jz)
-![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-qu1d33lw.jpeg)
-If You received an email with this object "An application has been linked to your account", than is a phishing email, beware and read this article
-
-### [132. How to Earn Crypto Passive Income in 2022](https://hackernoon.com/how-to-earn-crypto-passive-income-in-2022)
+### [131. How to Earn Crypto Passive Income in 2022](https://hackernoon.com/how-to-earn-crypto-passive-income-in-2022)
 ![](https://cdn.hackernoon.com/images/OWwusqtd11XIq9iOOIyuavuCQ7p2-yq93tcx.jpeg)
 7 different ways to earn passive income through cryptocurrency that you can start doing today! 
 
-### [133. No Pool, No Problem: How One Solo Miner Won Big in a Network Built for Giants](https://hackernoon.com/no-pool-no-problem-how-one-solo-miner-won-big-in-a-network-built-for-giants)
-![](https://cdn.hackernoon.com/images/81BDkrmBMjc1WXnmjGcZklqlHVz2-si13twt.png)
-A solo Bitcoin miner beat 1-in-a-million odds to win block 899826 in 2025. What this rare event reveals about mining, decentralization, and luck.
+### [132. Phishers In Crypto Are Getting Smarter - And So Should You](https://hackernoon.com/phishers-in-crypto-are-getting-smarter-and-so-should-you-xq3o33jz)
+![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-qu1d33lw.jpeg)
+If You received an email with this object "An application has been linked to your account", than is a phishing email, beware and read this article
 
-### [134. Cryptocurrencies: What Even Are They?](https://hackernoon.com/cryptocurrencies-what-even-are-they)
+### [133. Cryptocurrencies: What Even Are They?](https://hackernoon.com/cryptocurrencies-what-even-are-they)
 ![](https://cdn.hackernoon.com/images/ppKGHIK6MugdHghRX5cguACzhDH2-fa02ghy.jpeg)
 Sometimes we forget that more than 95% of the world's population doesn't own crypto. It's time to do some more education and dive into what crypto is in 2021
 
-### [135. Accepting International Payments in 2020: An Overview of Acquiring Aggregators](https://hackernoon.com/accepting-international-payments-in-2020-an-overview-of-acquiring-aggregators-giu438q8)
+### [134. Accepting International Payments in 2020: An Overview of Acquiring Aggregators](https://hackernoon.com/accepting-international-payments-in-2020-an-overview-of-acquiring-aggregators-giu438q8)
 ![](https://cdn.hackernoon.com/images/ikx36iw.jpg)
 Accepting payments in foreign currency from a credit card for an online business is a cross-border operation, which leads to a sharp increase in the cost of accepting payments for businesses or leads to a decrease in the conversion of payments by customers. I will examine internally the options for connecting acquiring for international online business and touch on the topic of “High Risk”.
 
-### [136. Is Your DeFi Startup A Viable Idea?](https://hackernoon.com/is-your-defi-startup-a-viable-idea-d54b3wno)
+### [135. Is Your DeFi Startup A Viable Idea?](https://hackernoon.com/is-your-defi-startup-a-viable-idea-d54b3wno)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwWmgyIgIrBdVMRxFao9CX3lVzx92-exy3uo6.jpeg?alt=media&token=d8075163-429b-4676-9d86-84300e5093f4)
 In the last couple of years, the DeFI landscape has worked tirelessly to improve the way we interact and engage with financial processes and systems. Needless to say, all that hard work has begun to pay off. 
 
-### [137. Is Investing In Cryptocurrency A Smart Move for Retirement?](https://hackernoon.com/is-investing-in-cryptocurrency-a-smart-move-for-retirement)
-![](https://cdn.hackernoon.com/images/mKeT7i5JrEbvhpkTlATD3Liy0Mb2-3gc3qkj.jpeg)
-The rise of cryptocurrency can be the next big thing to invest in, which is why it is a good idea to know what it is and what makes it so great.
+### [136. Y Love & Y Fear DeFi](https://hackernoon.com/y-love-and-y-fear-defi)
+![](https://cdn.hackernoon.com/images/plQ0JTtaW1UhmN7lyFefQnpiw8T2-pej30q5.jpeg)
+Dive in 💚
 
-### [138. Why Crypto Is In Trouble? NFTs, Trust, and More HackerNoon Stories of the Week](https://hackernoon.com/hackernoons-stories-of-the-week-august-8th-12th)
+### [137. Why Crypto Is In Trouble? NFTs, Trust, and More HackerNoon Stories of the Week](https://hackernoon.com/hackernoons-stories-of-the-week-august-8th-12th)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-pha3otq.jpeg)
 This week on HackerNoon’s Stories of the Week, we looked at three articles that each covered a part of the crypto-based economy and why it’s in turmoil. 
 
-### [139. Y Love & Y Fear DeFi](https://hackernoon.com/y-love-and-y-fear-defi)
-![](https://cdn.hackernoon.com/images/plQ0JTtaW1UhmN7lyFefQnpiw8T2-pej30q5.jpeg)
-Dive in 💚
+### [138. Is Investing In Cryptocurrency A Smart Move for Retirement?](https://hackernoon.com/is-investing-in-cryptocurrency-a-smart-move-for-retirement)
+![](https://cdn.hackernoon.com/images/mKeT7i5JrEbvhpkTlATD3Liy0Mb2-3gc3qkj.jpeg)
+The rise of cryptocurrency can be the next big thing to invest in, which is why it is a good idea to know what it is and what makes it so great.
+
+### [139. Could Cryptocurrencies Finally Go Viral in 2020?](https://hackernoon.com/could-cryptocurrencies-finally-go-viral-in-2020-efeb323q)
+![](https://cdn.hackernoon.com/drafts/0i1n3ydb.png)
+2020 is the best time to talk about mass user adoption in crypto. After a decade of development and innovation, a year of hype, and two years of stagnation, now is finally the time to “reap the fruits” of our efforts. 
 
 ### [140. AT PARSIQ, We Make Blockchain Notifications With Better Security, Compliance and Insights](https://hackernoon.com/at-parsiq-we-make-blockchain-notifications-with-better-security-compliance-and-insights-r7b834xi)
 ![](https://cdn.hackernoon.com/images/kAWLEVV9xGhlY4KmWaDUAWQUrDv1-hk3y3ek5.png)
 Businesses, traders, and individual users can benefit from the ability to monitor activity on their crypto addresses in real-time. PARSIQ empowers these users.
 
-### [141. Could Cryptocurrencies Finally Go Viral in 2020?](https://hackernoon.com/could-cryptocurrencies-finally-go-viral-in-2020-efeb323q)
-![](https://cdn.hackernoon.com/drafts/0i1n3ydb.png)
-2020 is the best time to talk about mass user adoption in crypto. After a decade of development and innovation, a year of hype, and two years of stagnation, now is finally the time to “reap the fruits” of our efforts. 
-
-### [142. People Will Not Care About Cryptocurrencies Until THIS One Thing Changes](https://hackernoon.com/people-will-not-care-about-cryptocurrency-until-one-thing-changes-z6s335l)
+### [141. People Will Not Care About Cryptocurrencies Until THIS One Thing Changes](https://hackernoon.com/people-will-not-care-about-cryptocurrency-until-one-thing-changes-z6s335l)
 ![](https://cdn.hackernoon.com/drafts/vnkj33c1.png)
 This Tweet:
 
-### [143. Bitcoin Mixing Legalities: Why Governments are Cracking Down](https://hackernoon.com/bitcoin-mixing-legalities-why-governments-are-cracking-down)
+### [142. Bitcoin Mixing Legalities: Why Governments are Cracking Down](https://hackernoon.com/bitcoin-mixing-legalities-why-governments-are-cracking-down)
 ![](https://cdn.hackernoon.com/images/ozQaVbvb1Va2Vp5YebrDI2AOVrJ2-t6037m3.jpeg)
 Bitcoin mixing is an interesting topic because while it can help people keep their crypto transactions private it can also be a hotbed for criminal activity.
 
-### [144. 10 Data-Driven Predictions for Bitcoin, Stocks, and Commodities in 2020](https://hackernoon.com/10-data-driven-predictions-for-bitcoin-stocks-and-commodities-in-2020-fu4a33se)
+### [143. 10 Data-Driven Predictions for Bitcoin, Stocks, and Commodities in 2020](https://hackernoon.com/10-data-driven-predictions-for-bitcoin-stocks-and-commodities-in-2020-fu4a33se)
 ![](https://cdn.hackernoon.com/images/4ccg3x2a.jpg)
 It's a brand-new year, and oh man, 2020 has a lot on its plate. Last year, we witnessed the benchmark S&P 500 surge almost 29%, crude oil rallied 35% and the bitcoin price nearly doubled since the beginning of the year. 
 
-### [145. The Ironies of a "Trustless" Blockchain](https://hackernoon.com/the-ironies-of-a-trustless-blockchain)
+### [144. The Ironies of a "Trustless" Blockchain](https://hackernoon.com/the-ironies-of-a-trustless-blockchain)
 ![](https://cdn.hackernoon.com/images/OtJzzAct4ogl0v25V43xSyGcJAt1-8z92k92.jpeg)
 The collapse of FTX demonstrates that "trustless" blockchain ironically still depends upon trust.
 
-### [146. Does Mining Cryptocurrencies Harm the Environment?](https://hackernoon.com/does-the-mining-of-crypto-coins-harm-the-environment-b01m3zz0)
+### [145. Does Mining Cryptocurrencies Harm the Environment?](https://hackernoon.com/does-the-mining-of-crypto-coins-harm-the-environment-b01m3zz0)
 ![](https://cdn.hackernoon.com/images/go2a3zyo.jpg)
 The mining process is vital to blockchain networks like Bitcoin, as they validate incoming transactions before storing them forever. This, of course, is done by miners, who provide their computing power to find complex, 64 character hexadecimal numbers to ensure each block is unique. 
 
-### [147. What is The Bitcoin Halving and What Impact Will It Have on the Crypto Market?](https://hackernoon.com/what-is-the-bitcoin-halving-and-what-impact-will-it-have-on-the-crypto-market)
+### [146. What is The Bitcoin Halving and What Impact Will It Have on the Crypto Market?](https://hackernoon.com/what-is-the-bitcoin-halving-and-what-impact-will-it-have-on-the-crypto-market)
 ![](https://cdn.hackernoon.com/images/sPrqxyZnLmYrJPjPJynfLl54iAk2-b393wza.jpeg)
 This article provides an insight into the effects of Bitcoin halving, its impact on the cryptocurrency market and potential risks associated with it. 
 
-### [148. Quantum Cryptography: What Would Happen When Qubits Go Mainstream](https://hackernoon.com/quantum-cryptography-what-would-happen-when-qubits-go-mainstream-mp7837h4)
+### [147. Quantum Cryptography: What Would Happen When Qubits Go Mainstream](https://hackernoon.com/quantum-cryptography-what-would-happen-when-qubits-go-mainstream-mp7837h4)
 ![](https://cdn.hackernoon.com/images/eX6e4LvM0rY0xzjuhywYB1FIYPx1-5u7h35ji.jpeg)
 Whether through social engineering, phishing scams, or ransomware attacks ultimately it is just a hacker and his classic computer, all that pretty much expected
+
+### [148. Is the Bitcoin Crash Good for Investors?](https://hackernoon.com/is-the-bitcoin-crash-good-for-investors)
+![](https://cdn.hackernoon.com/images/OWwusqtd11XIq9iOOIyuavuCQ7p2-0dc3x3v.jpeg)
+At this point, Bitcoin has proven itself to be an investment that can withstand some troubling times.
 
 ### [149. Crypto Services with Fixed-Rate Exchanges [A Top-5 List]](https://hackernoon.com/crypto-services-with-fixed-rate-exchanges-a-top-5-list-rr5v32u6)
 ![](https://images.unsplash.com/photo-1516245834210-c4c142787335?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 It's no secret that the cryptocurrency market is highly volatile. Sometimes this can be seen as a benefit: let’s admit, it's always nice to get a little more cryptocurrency than you expected. This is a popular scenario in the rising market.
 
-### [150. Is the Bitcoin Crash Good for Investors?](https://hackernoon.com/is-the-bitcoin-crash-good-for-investors)
-![](https://cdn.hackernoon.com/images/OWwusqtd11XIq9iOOIyuavuCQ7p2-0dc3x3v.jpeg)
-At this point, Bitcoin has proven itself to be an investment that can withstand some troubling times.
-
-### [151. 5 Minute Finance: BTC & ETH SUPPLY SHOCK, BURRY'S APOCALYPSE, SIMONS SAYS AMC](https://hackernoon.com/5-minute-finance-btc-and-eth-supply-shock-burrys-apocalypse-simons-says-amc-g81e37qc)
+### [150. 5 Minute Finance: BTC & ETH SUPPLY SHOCK, BURRY'S APOCALYPSE, SIMONS SAYS AMC](https://hackernoon.com/5-minute-finance-btc-and-eth-supply-shock-burrys-apocalypse-simons-says-amc-g81e37qc)
 ![](https://cdn.hackernoon.com/images/TShzDnm4mbcIz6FRyoXs036i97m1-c1i35t7.jpeg)
 The 5-minute newsletter on the important stuff in finance — reporting what's going on, and why. 
 
 Let’s see what's going on this week.
 
-### [152. Why Countries are Rushing to Adopt Bitcoin as Legal Tender](https://hackernoon.com/why-countries-are-rushing-to-adopt-bitcoin-as-legal-tender-l63k37j2)
+### [151. Why Countries are Rushing to Adopt Bitcoin as Legal Tender](https://hackernoon.com/why-countries-are-rushing-to-adopt-bitcoin-as-legal-tender-l63k37j2)
 ![](https://cdn.hackernoon.com/images/oQ9OCKk50pVg7mdDY84cm8fXJru2-0gm372f.jpeg)
 Why Latin American region is the first to adopt Bitcoin as a legal tender, how does it affect people and local businesses. Which countries next to adopt Bitcoin
 
-### [153. Cryptocurrency in the Time of Crisis: What to Expect](https://hackernoon.com/cryptocurrency-in-the-time-of-crisis-what-to-expect-ym3c32iv)
+### [152. Cryptocurrency in the Time of Crisis: What to Expect](https://hackernoon.com/cryptocurrency-in-the-time-of-crisis-what-to-expect-ym3c32iv)
 ![](https://cdn.hackernoon.com/drafts/ip433y3v.png)
 Your Easter plans for this year probably looked a lot different. Instead of spending time with our families and enjoying the first days of spring, we stayed home wondering how the future will look like.
 
-### [154. Bitcoin on the Brink: What Could Trigger a Capitulation?](https://hackernoon.com/bitcoin-on-the-brink-what-could-trigger-a-capitulation)
-![](https://cdn.hackernoon.com/images/c2qDNOZ07yREr8UJUOrX9KoKG5m2-uye3qd1.jpeg)
-Bitcoin's volatility is nothing new, but it seems to ramp up as we approach, what could be a critical juncture for the cryptocurrency.
-
-### [155. Gensler Gets Crypto but He Might not Agree with it](https://hackernoon.com/gensler-gets-crypto-but-he-might-not-agree-with-it)
+### [153. Gensler Gets Crypto but He Might not Agree with it](https://hackernoon.com/gensler-gets-crypto-but-he-might-not-agree-with-it)
 ![](https://cdn.hackernoon.com/images/o8Wux6zYl7gG6HnQ4fbKK6Lnq2h2-qn93ujv.jpeg)
 What is SEC chair's Gary Gensler crypto superpower?
 
-### [156. Forgive me, Father, for I have Shilled](https://hackernoon.com/forgive-me-father-for-i-have-shilled-j4dt32ef)
-![](https://cdn.hackernoon.com/drafts/kq1k732b2.png)
-If you are sitting somewhere eating popcorn and watching this scam fest we have performed for two thousand years, I have a moral obligation to tell you that the show isn’t as good as it may seem. In other words, you messed up… 
-
-### [157. Crypto Crash? Not Really... ](https://hackernoon.com/crypto-crash-not-really)
+### [154. Crypto Crash? Not Really... ](https://hackernoon.com/crypto-crash-not-really)
 ![](https://cdn.hackernoon.com/images/rucLDVUL7ahWimn1vc30lsveGZ92-hua3oj9.png)
 This week's "crypto crash" is more of an "everything crash", and no cause for alarm. Check out the surrounding context and do not fall for media scaremongers
 
-### [158. Read This Before Starting A Crypto-Business](https://hackernoon.com/read-this-before-starting-a-crypto-business-lb2u330a)
+### [155. Bitcoin on the Brink: What Could Trigger a Capitulation?](https://hackernoon.com/bitcoin-on-the-brink-what-could-trigger-a-capitulation)
+![](https://cdn.hackernoon.com/images/c2qDNOZ07yREr8UJUOrX9KoKG5m2-uye3qd1.jpeg)
+Bitcoin's volatility is nothing new, but it seems to ramp up as we approach, what could be a critical juncture for the cryptocurrency.
+
+### [156. Read This Before Starting A Crypto-Business](https://hackernoon.com/read-this-before-starting-a-crypto-business-lb2u330a)
 ![](https://cdn.hackernoon.com/images/rrklQPNbspZjuipgqdjB7er0G6e2-4le2624.jpeg)
 The crypto space has very few barriers to entry when it comes to building a team and launching a product. Both developers and the community flock to new projects, even if they are competitive. 
 
-### [159. A New Paradigm For The Internet, Cryptography, Blockchain, And Online Societies ](https://hackernoon.com/a-new-paradigm-for-the-internet-cryptography-blockchain-and-online-societies-3q8b33o4)
+### [157. Forgive me, Father, for I have Shilled](https://hackernoon.com/forgive-me-father-for-i-have-shilled-j4dt32ef)
+![](https://cdn.hackernoon.com/drafts/kq1k732b2.png)
+If you are sitting somewhere eating popcorn and watching this scam fest we have performed for two thousand years, I have a moral obligation to tell you that the show isn’t as good as it may seem. In other words, you messed up… 
+
+### [158. A New Paradigm For The Internet, Cryptography, Blockchain, And Online Societies ](https://hackernoon.com/a-new-paradigm-for-the-internet-cryptography-blockchain-and-online-societies-3q8b33o4)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-0v86339j.jpeg)
 Why is human civilization suffering from issues such as poverty, inequality, corruption, exploitation, over consumption, environmental problems, biased and censored media, inadequate education, immigration, discrimination, oppression, and tyranny?
+
+### [159. What Could Global De-Dollarization Mean for Crypto Market Positions?](https://hackernoon.com/what-could-global-de-dollarization-mean-for-crypto-market-positions)
+![](https://cdn.hackernoon.com/images/xC2EA4fmH7drPQTliecLxzRLYl53-psa3rza.jpeg)
+Seeing that cryptocurrencies display a significant reliance on the dollar, we’ll dive deeper into what de-dollarization could mean for these digital assets
 
 ### [160. Startup Interview With Mitja Goroshevsky - Co-Founder and CTO of TON Labs](https://hackernoon.com/startup-interview-with-mitja-goroshevsky-co-founder-and-cto-of-ton-labs-r4m37qu)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-23z37w7.jpeg)
 Mitja Goroshevsky, the Co-Founder and CTO of TON Labs, where I focus on developing core technical infrastructure for Free TON
 
-### [161. What Could Global De-Dollarization Mean for Crypto Market Positions?](https://hackernoon.com/what-could-global-de-dollarization-mean-for-crypto-market-positions)
-![](https://cdn.hackernoon.com/images/xC2EA4fmH7drPQTliecLxzRLYl53-psa3rza.jpeg)
-Seeing that cryptocurrencies display a significant reliance on the dollar, we’ll dive deeper into what de-dollarization could mean for these digital assets
-
-### [162. Are Your Crypto Wallet Keys Really Safe?](https://hackernoon.com/are-your-crypto-wallet-keys-really-safe)
+### [161. Are Your Crypto Wallet Keys Really Safe?](https://hackernoon.com/are-your-crypto-wallet-keys-really-safe)
 ![](https://cdn.hackernoon.com/images/djPqEDhv5LUiTK3J3xA2yXEJIxP2-pcb36pz.jpeg)
 The safety of your blockchain assets are only as good as the security of their private keys. But how safe are private keys really? Find out here.
+
+### [162. DeFi Godfathers Andre Cronje and Anton Nell Step Down, Leaving Associated Tokens in Freefall](https://hackernoon.com/defi-godfathers-andre-cronje-and-anton-nell-step-down-leaving-associated-tokens-in-freefall)
+![](https://cdn.hackernoon.com/images/PqBokrbZnUh88uMPTuuAuDPfPi53-wm93lu2.jpeg)
+DeFi leaders Andre Cronje and senior solutions architect Antone Nell close their chapter in the crypto/defi space.
 
 ### [163. The Good and Ugly Sides of Crypto: What Is the Role of Public Goods Communities?](https://hackernoon.com/the-good-and-ugly-sides-of-crypto-what-is-the-role-of-public-goods-communities)
 ![](https://cdn.hackernoon.com/images/3i5voH2MqsPo2d6bnHSyGz0t2Bb2-p193msm.jpeg)
@@ -664,73 +666,73 @@ Can public good communities significantly decrease the case of scammers in crypt
 ![](https://cdn.hackernoon.com/images/mXwVFS9lzpVWurwagbOBqYhxuhR2-2h036as.jpeg)
 how is crypto regulated and what legal challenges do businesses and crypto enthusiasts face
 
-### [165. The Future of Games Lies In Blockchain: An Overview of Our Gaming Platform](https://hackernoon.com/the-future-of-games-lies-in-blockchain-an-overview-of-our-gaming-platform-47b938vz)
-![](https://cdn.hackernoon.com/drafts/zuav38c2.png)
-The annual turnover of the gaming industry exceeds billions of dollars. E-sports events gather thousands of fans around the world. More and more gamers are trying to make games their profession, and new products are released every day. However, the more competition there is in the gaming market, the less truly unique projects can be found.
-
-### [166. Is The Crypto-verse Self-Sabotaging Its Own Mass Adoption?](https://hackernoon.com/is-the-crypto-verse-self-sabotaging-its-own-mass-adoption-ff3t331o)
+### [165. Is The Crypto-verse Self-Sabotaging Its Own Mass Adoption?](https://hackernoon.com/is-the-crypto-verse-self-sabotaging-its-own-mass-adoption-ff3t331o)
 ![](https://cdn.hackernoon.com/images/sZgLpNbOPtQFz0sTBASstUpb7kG2-sf1y31it.jpeg)
 In the crypto and blockchain space we are focusing on the wrong things and self-sabotaging the mass adoption.
 
-### [167. DeFi Godfathers Andre Cronje and Anton Nell Step Down, Leaving Associated Tokens in Freefall](https://hackernoon.com/defi-godfathers-andre-cronje-and-anton-nell-step-down-leaving-associated-tokens-in-freefall)
-![](https://cdn.hackernoon.com/images/PqBokrbZnUh88uMPTuuAuDPfPi53-wm93lu2.jpeg)
-DeFi leaders Andre Cronje and senior solutions architect Antone Nell close their chapter in the crypto/defi space.
+### [166. The Future of Games Lies In Blockchain: An Overview of Our Gaming Platform](https://hackernoon.com/the-future-of-games-lies-in-blockchain-an-overview-of-our-gaming-platform-47b938vz)
+![](https://cdn.hackernoon.com/drafts/zuav38c2.png)
+The annual turnover of the gaming industry exceeds billions of dollars. E-sports events gather thousands of fans around the world. More and more gamers are trying to make games their profession, and new products are released every day. However, the more competition there is in the gaming market, the less truly unique projects can be found.
 
-### [168. Consumer Fintech & Crypto currencies: The Twain Shall Meet](https://hackernoon.com/consumer-fintech-and-crypto-currencies-the-twain-shall-meet-hr213xwu)
+### [167. Consumer Fintech & Crypto currencies: The Twain Shall Meet](https://hackernoon.com/consumer-fintech-and-crypto-currencies-the-twain-shall-meet-hr213xwu)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fry1lkIeZ7FXqWRVLXe5OI26w0DD2-9z3131vj.jpeg?alt=media&token=9287edc6-ebff-4854-bd27-52e2fc0baa08)
 1+1>2
 
-### [169. Crypto On The Brink Of Mass Adoption: The 2021 Edition](https://hackernoon.com/crypto-on-the-brink-of-mass-adoption-the-2021-edition-663u337c)
+### [168. Crypto On The Brink Of Mass Adoption: The 2021 Edition](https://hackernoon.com/crypto-on-the-brink-of-mass-adoption-the-2021-edition-663u337c)
 ![](https://hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-p81133k9.jpeg)
 Last week, Elon Musk, the world’s first billionaire influencer, changed his Twitter bio to #bitcoin, causing the price of the cryptocurrency to rise by about 20% and jump from $32,000 to $38,000 within just a few hours.
 
-### [170. The End of the Hidden Crypto Business Era](https://hackernoon.com/the-end-of-the-hidden-crypto-business-era)
+### [169. The End of the Hidden Crypto Business Era](https://hackernoon.com/the-end-of-the-hidden-crypto-business-era)
 ![](https://cdn.hackernoon.com/images/jyxipoR2XGOO5Xh9kAKMz0W6Hxo2-eva3xyc.jpeg)
 Following the recent FTX crises, this article explores the nature of trust in crypto and how it relates to privacy, transparency and the future.
+
+### [170. 2019 Crypto Annual Review: Taming the Wild West](https://hackernoon.com/2019-crypto-annual-review-pb573z3z)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oe82r4y.jpeg)
+I'm reviewing 2019’s most remarkable crypto moments and assessing whether regulatory setbacks are terminal or merely catalysts for the next phase of adoption.
 
 ### [171. Banks are Adopting Bitcoin for all of the Wrong Reasons](https://hackernoon.com/banks-are-adopting-bitcoin-for-all-wrong-reasons-1d1c37js)
 ![](https://cdn.hackernoon.com/images/m1JWnUaHzSX3LPHoHfOainoiYvq2-e1n3o4p.jpeg)
 Banks are profoundly underestimating how big this will be. 
 
-### [172. 2019 Crypto Annual Review: Taming the Wild West](https://hackernoon.com/2019-crypto-annual-review-pb573z3z)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oe82r4y.jpeg)
-I'm reviewing 2019’s most remarkable crypto moments and assessing whether regulatory setbacks are terminal or merely catalysts for the next phase of adoption.
-
-### [173. Antifragile: Cryptocurrency and the Passage of Time](https://hackernoon.com/antifragile-cryptocurrency-and-the-passage-of-time-c27f30wr)
+### [172. Antifragile: Cryptocurrency and the Passage of Time](https://hackernoon.com/antifragile-cryptocurrency-and-the-passage-of-time-c27f30wr)
 ![](https://cdn.hackernoon.com/drafts/qu183w6w.png)
 In his outstanding book “Antifragile,” Nassim Nichoals Taleb discusses certain technologies that not only are able to withstand long term volatility, and uncertainty, but rather become stronger because of them. I would like to suggest to you that properly executed crypto investments are antifragile in this sense. Long term crypto investments will thrive when thrust into an uncertain, highly volatile future, as long as they survive.
+
+### [173. Here's How The bZx Protocol Knowingly Rekt DeFi](https://hackernoon.com/heres-how-the-bzx-protocol-knowingly-rekt-defi-0mc332x8)
+![](https://images.unsplash.com/photo-1544890225-2f3faec4cd60?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Hackers or group of hackers have exploited the bZx Protocol, twice, in under a week, profiting almost USD 1M. In the infographic below, we cover the technicals behind the exploitation.
 
 ### [174. NFT Gaming is The Key to Wider Token Adoption in 2022](https://hackernoon.com/nft-gaming-is-the-key-to-wider-token-adoption-in-2022)
 ![](https://cdn.hackernoon.com/images/PYpsal4mmMaym3I3xvelw29AUM73-umb3h7u.jpeg)
 By Jeremy Foo, Founder and CEO at TripCandy
 
-### [175. Here's How The bZx Protocol Knowingly Rekt DeFi](https://hackernoon.com/heres-how-the-bzx-protocol-knowingly-rekt-defi-0mc332x8)
-![](https://images.unsplash.com/photo-1544890225-2f3faec4cd60?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Hackers or group of hackers have exploited the bZx Protocol, twice, in under a week, profiting almost USD 1M. In the infographic below, we cover the technicals behind the exploitation.
+### [175. If You File for Bankruptcy, What Happens to Your Cryptocurrency?](https://hackernoon.com/if-you-file-for-bankruptcy-what-happens-to-your-cryptocurrency)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-jc93pfm.jpeg)
+Is crypto exempt in bankruptcy? Are you required to disclose crypto in bankruptcy? Learn what happens to your crypto if you file for Bankruptcy.
 
-### [176. "Any Industrial Revolutions Must Come With a Technology Transformation" - The Professor](https://hackernoon.com/any-industrial-revolutions-must-come-with-a-technology-transformation-the-professor-un123wtc)
+### [176. No Pool, No Problem: How One Solo Miner Won Big in a Network Built for Giants](https://hackernoon.com/no-pool-no-problem-how-one-solo-miner-won-big-in-a-network-built-for-giants)
+![](https://cdn.hackernoon.com/images/81BDkrmBMjc1WXnmjGcZklqlHVz2-si13twt.png)
+A solo Bitcoin miner beat 1-in-a-million odds to win block 899826 in 2025. What this rare event reveals about mining, decentralization, and luck.
+
+### [177. "Any Industrial Revolutions Must Come With a Technology Transformation" - The Professor](https://hackernoon.com/any-industrial-revolutions-must-come-with-a-technology-transformation-the-professor-un123wtc)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtN92BQhoO9hSIj7qCbWP5Te80pF3-oa2u40xh.jpeg?alt=media&token=99daf4ca-c71b-4ca8-9ed7-be7522219507)
 The way people wager is changing rapidly, thanks to advancements in technology. Gamblers are continually being introduced to new ways of gambling, and betting companies are locked in this fierce battle of trying to stay ahead of the curve.
 
-### [177. Implementing National Digital Currencies: How Jurisdictions Across the World are Looking At It](https://hackernoon.com/national-digital-currency-the-next-step-of-blockchain-evolution-ey12334l)
-![](https://cdn.hackernoon.com/drafts/5no3zzf.png)
-Recently Philadelphia’s Federal Reserve bank president Patrick Harker came out with a remarkable statement that it is “inevitable” for the central banks, including the U.S. Federal Reserve, to start issuing digital currency. This is a great leap for blockchain from being labelled as a Ponzi in the past and now attaining a status of legitimacy.
-
-### [178. Security Measures for Cryptocurrency Owners](https://hackernoon.com/security-measures-for-cryptocurrency-owners-xte3uev)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY6FmFn0ZIfO15FTb4oUA3EXBVCr2-p9h28qp.jpeg?alt=media&token=1dc570c3-15be-4d67-9421-ad94bf0c0be8)
-Cryptocurrencies have so far become one of the most innovative forms of technology. They bring all the perks of new-age innovation to the financial space, essentially allowing people to make quick, anonymous, and much cheaper transactions that can travel over long distances. 
-
-### [179. The Clever Person Slaughterhouse](https://hackernoon.com/the-clever-person-slaughterhouse)
+### [178. The Clever Person Slaughterhouse](https://hackernoon.com/the-clever-person-slaughterhouse)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-om93p6q.jpeg)
 A cursory look at the relationship between cryptocurrencies and regulation
 
-### [180. Crypto Weekly #2 - Steemit and TRON Reversed a fork, Bitcoin's Hash Rate Smashes ATH](https://hackernoon.com/crypto-weekly-2-steemit-and-tron-reversed-a-fork-bitcoins-hash-rate-smashes-ath-g27y32hz)
+### [179. Implementing National Digital Currencies: How Jurisdictions Across the World are Looking At It](https://hackernoon.com/national-digital-currency-the-next-step-of-blockchain-evolution-ey12334l)
+![](https://cdn.hackernoon.com/drafts/5no3zzf.png)
+Recently Philadelphia’s Federal Reserve bank president Patrick Harker came out with a remarkable statement that it is “inevitable” for the central banks, including the U.S. Federal Reserve, to start issuing digital currency. This is a great leap for blockchain from being labelled as a Ponzi in the past and now attaining a status of legitimacy.
+
+### [180. Security Measures for Cryptocurrency Owners](https://hackernoon.com/security-measures-for-cryptocurrency-owners-xte3uev)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY6FmFn0ZIfO15FTb4oUA3EXBVCr2-p9h28qp.jpeg?alt=media&token=1dc570c3-15be-4d67-9421-ad94bf0c0be8)
+Cryptocurrencies have so far become one of the most innovative forms of technology. They bring all the perks of new-age innovation to the financial space, essentially allowing people to make quick, anonymous, and much cheaper transactions that can travel over long distances. 
+
+### [181. Crypto Weekly #2 - Steemit and TRON Reversed a fork, Bitcoin's Hash Rate Smashes ATH](https://hackernoon.com/crypto-weekly-2-steemit-and-tron-reversed-a-fork-bitcoins-hash-rate-smashes-ath-g27y32hz)
 ![](https://cdn.hackernoon.com/drafts/13p73yvd.png)
 That lack of central authority is the primary reason why we’re into crypto. No more central banks to issue or destroy money out of thin air. No more governments to control us with their conventional currencies. A totally new system governed by people. 
-
-### [181. If You File for Bankruptcy, What Happens to Your Cryptocurrency?](https://hackernoon.com/if-you-file-for-bankruptcy-what-happens-to-your-cryptocurrency)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-jc93pfm.jpeg)
-Is crypto exempt in bankruptcy? Are you required to disclose crypto in bankruptcy? Learn what happens to your crypto if you file for Bankruptcy.
 
 ### [182. Understanding the Zero-Knowledge Proof Method](https://hackernoon.com/understanding-the-zero-knowledge-proof-method)
 ![](https://cdn.hackernoon.com/images/55mgLtvwWdf0kHZQ9QMkL4gmWue2-tb4m3dzm.jpeg)
@@ -740,120 +742,120 @@ One of the biggest advantages of blockchain technology is the degree of informat
 ![](https://cdn.hackernoon.com/images/rucLDVUL7ahWimn1vc30lsveGZ92-4w93pmc.jpeg)
 Crypto market overview, regulation updates and a very bold Bitcoin price prediction with a soda-back guarantee 
 
-### [184. When Should We Expect Uber Coin?](https://hackernoon.com/when-should-we-expect-uber-coin-xi1a34r5)
+### [184. How Can New Players Disrupt Crypto Processing Methods?](https://hackernoon.com/how-can-new-players-disrupt-crypto-processing-methods-ai7e32be)
+![](https://cdn.hackernoon.com/drafts/ghrn31ow.png)
+
+
+### [185. When Should We Expect Uber Coin?](https://hackernoon.com/when-should-we-expect-uber-coin-xi1a34r5)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-m8k34zx.jpeg)
 What is the primary goal of any business? Without any doubt – money, and there is nothing wrong with that. Profits allow companies to invest in R&D and bring new products and services to the market, thus making our life easier and more comfortable. For example, we could compare a vehicle industry evolution over the past 50 years. Back in the day, a serious car accident would normally end up with someone´s death. Today, thanks to engineering genius and safety control people survive even 100 mph+ head-on collisions.
 
-### [185. The Exclusivist Syndrome: Why Crypto Projects Don't Last](https://hackernoon.com/why-crypto-projects-dont-last)
+### [186. The Exclusivist Syndrome: Why Crypto Projects Don't Last](https://hackernoon.com/why-crypto-projects-dont-last)
 ![](https://cdn.hackernoon.com/images/XfkAcRQSKZeCWfyOwsqkFfN3Gxf2-5a030we.jpeg)
 Crypto has an exclusivist and opportunist problem that's why many projects have a short term life span.
-
-### [186. How Can New Players Disrupt Crypto Processing Methods?](https://hackernoon.com/how-can-new-players-disrupt-crypto-processing-methods-ai7e32be)
-![](https://cdn.hackernoon.com/drafts/ghrn31ow.png)
-
 
 ### [187. How to Save Your Crypto Safely: Overview of Non-Custodial Wallets](https://hackernoon.com/how-to-save-your-crypto-safely-overview-of-non-custodial-wallets)
 ![](https://cdn.hackernoon.com/images/5rS4yrERbxUtfUCTsrb3x2kieP32-6ed3wif.jpeg)
 The authorities can block accounts on crypto exchanges. How to save crypto safely: overview of non-custodial wallets. Metamask, Trust Wallet, Phantom, Ledger
 
-### [188. Is Technical Trading Cryptocurrencies A Profitable Exercise [Analyzed]](https://hackernoon.com/is-technical-trading-cryptocurrencies-a-profitable-exercise-analyzed-pbb632pm)
-![](https://cdn.hackernoon.com/drafts/t0823yhk.png)
-In two ongoing examinations, I explored the specialized exchanging rules the digital currency market and gainfulness of specialized exchanging rules among cryptographic forms of money with a protection work. 
-
-### [189. The Biggest Recent Cryptocurrency Hacks: What Is Behind Them?](https://hackernoon.com/the-biggest-recent-cryptocurrency-hacks-what-is-behind-them)
+### [188. The Biggest Recent Cryptocurrency Hacks: What Is Behind Them?](https://hackernoon.com/the-biggest-recent-cryptocurrency-hacks-what-is-behind-them)
 ![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-jdl3q5x.jpeg)
 2021 was marked by multiple DeFi frauds, with rug-pulls and exit scams being among the most popular.
 
-### [190. Zerocoin Flaws, Private Atomic Swap Adoption, and UX [An Analysis]](https://hackernoon.com/zerocoin-flaws-private-atomic-swap-adoption-and-ux-an-analysis-z9iv32tc)
-![](https://cdn.hackernoon.com/images/oqw3y9y.jpg)
-We started as a PoW coin however soon realised for the sake of security (namely preventing 51% attacks and ASIC miners), we'd be better suited to having a Proof-of-Stake consensus mechanism. So we moved over from mining to staking without a hitch and took advantage of this new setup by developing our own 'Leased Proof-of-Stake' mechanism, which allows users to stake their coins via a service provider who take a small percentage from each staking reward for running the service. 
+### [189. Is Technical Trading Cryptocurrencies A Profitable Exercise [Analyzed]](https://hackernoon.com/is-technical-trading-cryptocurrencies-a-profitable-exercise-analyzed-pbb632pm)
+![](https://cdn.hackernoon.com/drafts/t0823yhk.png)
+In two ongoing examinations, I explored the specialized exchanging rules the digital currency market and gainfulness of specialized exchanging rules among cryptographic forms of money with a protection work. 
 
-### [191. About Loss and Crypto:
+### [190. About Loss and Crypto:
 Never Lose Access, Ensure Loved Ones Inherit It](https://hackernoon.com/about-loss-and-crypto-never-lose-access-ensure-loved-ones-inherit-it)
 ![](https://cdn.hackernoon.com/images/BGPJgyOxZXdpI9mLj83kvUHMgtS2-oa93rx6.jpeg)
 The private keys loss issues represent the main hindrance to mass adoption of the whole crypto sector of DeFi and all the potential benefits.
 
-### [192. The Ugly Truth Behind IEOs and What to Expect in 2020](https://hackernoon.com/the-ugly-truth-behind-ieos-and-what-to-expect-in-2020-ca1w3zgo)
-![](https://cdn.hackernoon.com/images/4mm832vi.jpg)
-Let’s face it, you won’t be able to conduct a successful IEO unless you have a fully-operational and fully compliant prototype and unless you’ve clinched a listing deal with a major exchange with actual liquidity within its community of retail investors, and traders.
+### [191. Zerocoin Flaws, Private Atomic Swap Adoption, and UX [An Analysis]](https://hackernoon.com/zerocoin-flaws-private-atomic-swap-adoption-and-ux-an-analysis-z9iv32tc)
+![](https://cdn.hackernoon.com/images/oqw3y9y.jpg)
+We started as a PoW coin however soon realised for the sake of security (namely preventing 51% attacks and ASIC miners), we'd be better suited to having a Proof-of-Stake consensus mechanism. So we moved over from mining to staking without a hitch and took advantage of this new setup by developing our own 'Leased Proof-of-Stake' mechanism, which allows users to stake their coins via a service provider who take a small percentage from each staking reward for running the service. 
 
-### [193. Will MiCA Slow Innovation, or Does Crypto Need a Tune-Up?](https://hackernoon.com/will-mica-slow-innovation-or-does-crypto-need-a-tune-up)
+### [192. Will MiCA Slow Innovation, or Does Crypto Need a Tune-Up?](https://hackernoon.com/will-mica-slow-innovation-or-does-crypto-need-a-tune-up)
 ![](https://cdn.hackernoon.com/images/illustrate-a-wall-that-is-painted-with-symbols-of-popular-cryptocurrencies-clfvbazw9000001s68j2xaj8o.png)
 MiCA could introduce a new regulatory framework for cryptocurrencies in the EU. This should be a cause for celebration.
 
-### [194. Smart Contract Security is Complicated, but Totally Worth it](https://hackernoon.com/smart-contract-security-is-complicated-but-totally-worth-it)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-6503oky.jpeg)
-Just like other types of software, smart contracts can have bugs, be manipulated, and get hacked.  
+### [193. The Ugly Truth Behind IEOs and What to Expect in 2020](https://hackernoon.com/the-ugly-truth-behind-ieos-and-what-to-expect-in-2020-ca1w3zgo)
+![](https://cdn.hackernoon.com/images/4mm832vi.jpg)
+Let’s face it, you won’t be able to conduct a successful IEO unless you have a fully-operational and fully compliant prototype and unless you’ve clinched a listing deal with a major exchange with actual liquidity within its community of retail investors, and traders.
 
-### [195. "The Mysterious and Tempting Crypto." What Do Belarusians Think of Cryptocurrency?](https://hackernoon.com/mysterious-and-tempting-crypto-what-belarusians-think-of-cryptocurrency-ccf3w7m)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHqXrdMrlAZcewJcXrFvqWaLE8to2-nntt3ttg.png?alt=media&token=039cffc6-8470-4ced-950d-565a42462e78)
-No politics today, guys. Only Belarusian opinions.
-
-### [196. "Ukrainians [are] among the top adopters of cryptocurrency in the world"](https://hackernoon.com/ukrainians-among-the-top-adopters-of-cryptocurrency-in-the-world)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-uw03oua.jpeg)
-Bitcoin among other Cryptocurrencies may soon be used legally in Ukraine, once President Volodymyr Zelensky signs legislation passed by Ukraine’s Parliament.
-
-### [197. Simplify and Secure Your Cryptocurrency Transactions with Tangem Cards [New Launch]](https://hackernoon.com/secure-digital-cards-for-simplifying-your-cryptocurrency-transactions-new-launch-j0py32wu)
-![](https://cdn.hackernoon.com/drafts/mmgx3y2g.png)
-Cryptocurrencies and blockchain have suffered turbulent times and the landscape continues to evolve. Remember when crypto surged 2000% in 2017 and FOMO reigned — even your Aunt was calling you up asking how she’d gotten her hands on some of that gold dust. 
-
-### [198. 🎮 Apple Clarifies its Stance on NFTs](https://hackernoon.com/apple-clarifies-its-stance-on-nfts)
-![](https://cdn.hackernoon.com/images/BvBqrRvEqhNz9wT9U2y5GCOmr5E3-9ic3rg8.jpeg)
-Apple released an update to their App Store Review Guidelines, and they talked about NFTs. Read on to learn how it can affect the broader NFT ecosystem.
-
-### [199. Two-sided Liquidity Marketplace Is The Key To Globalizing Crypto Trading](https://hackernoon.com/two-sided-liquidity-marketplace-is-the-key-to-globalizing-crypto-trading-sm13337b)
-![](https://cdn.hackernoon.com/images/dfnkKGGdaveDKSte2xzbUj73T6z2-ogv35fn.jpeg)
-Despite all the hype around the current Bitcoin bull run and crypto in general, the market reality is this:  the global crypto trading market is in its infancy. The reality is professional crypto traders cannot efficiently access global price discovery, global best bid and offer, or global liquidity. 
-
-### [200. Queen Elizabeth’s death inundates the crypto world with Innumerable NFTs and Meme Coins](https://hackernoon.com/queen-elizabeths-death-inundates-the-crypto-world-with-innumerable-nfts-and-meme-coins)
+### [194. Queen Elizabeth’s death inundates the crypto world with Innumerable NFTs and Meme Coins](https://hackernoon.com/queen-elizabeths-death-inundates-the-crypto-world-with-innumerable-nfts-and-meme-coins)
 ![](https://cdn.hackernoon.com/images/s7Uy4vUGHkagAvzLcOwQqTObOP03-lc93ojy.jpeg)
 The death of Queen Elizabeth has sparked the invention of innumerable so-called “meme coins” looking to capitalize on this misfortune occasion. 
 
 
-### [201. The State of the DAO: Rise, Fall, and Rise](https://hackernoon.com/the-state-of-the-dao-rise-fall-and-rise-0l8837dk)
+### [195. Smart Contract Security is Complicated, but Totally Worth it](https://hackernoon.com/smart-contract-security-is-complicated-but-totally-worth-it)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-6503oky.jpeg)
+Just like other types of software, smart contracts can have bugs, be manipulated, and get hacked.  
+
+### [196. "The Mysterious and Tempting Crypto." What Do Belarusians Think of Cryptocurrency?](https://hackernoon.com/mysterious-and-tempting-crypto-what-belarusians-think-of-cryptocurrency-ccf3w7m)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHqXrdMrlAZcewJcXrFvqWaLE8to2-nntt3ttg.png?alt=media&token=039cffc6-8470-4ced-950d-565a42462e78)
+No politics today, guys. Only Belarusian opinions.
+
+### [197. 🎮 Apple Clarifies its Stance on NFTs](https://hackernoon.com/apple-clarifies-its-stance-on-nfts)
+![](https://cdn.hackernoon.com/images/BvBqrRvEqhNz9wT9U2y5GCOmr5E3-9ic3rg8.jpeg)
+Apple released an update to their App Store Review Guidelines, and they talked about NFTs. Read on to learn how it can affect the broader NFT ecosystem.
+
+### [198. "Ukrainians [are] among the top adopters of cryptocurrency in the world"](https://hackernoon.com/ukrainians-among-the-top-adopters-of-cryptocurrency-in-the-world)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-uw03oua.jpeg)
+Bitcoin among other Cryptocurrencies may soon be used legally in Ukraine, once President Volodymyr Zelensky signs legislation passed by Ukraine’s Parliament.
+
+### [199. Simplify and Secure Your Cryptocurrency Transactions with Tangem Cards [New Launch]](https://hackernoon.com/secure-digital-cards-for-simplifying-your-cryptocurrency-transactions-new-launch-j0py32wu)
+![](https://cdn.hackernoon.com/drafts/mmgx3y2g.png)
+Cryptocurrencies and blockchain have suffered turbulent times and the landscape continues to evolve. Remember when crypto surged 2000% in 2017 and FOMO reigned — even your Aunt was calling you up asking how she’d gotten her hands on some of that gold dust. 
+
+### [200. The Risks and Rewards of Crypto Payments for Freelancers in 2024](https://hackernoon.com/the-risks-and-rewards-of-crypto-payments-for-freelancers-in-2023)
+![](https://cdn.hackernoon.com/images/5m10iGRoMzbYOXE2JOcRHTZrytI3-sk93pt9.jpeg)
+Is it too soon to accept crypto as payment in 2022? Let's discuss a number of pros and cons of accepting crypto payments as a freelancer and business owner. 
+
+### [201. Two-sided Liquidity Marketplace Is The Key To Globalizing Crypto Trading](https://hackernoon.com/two-sided-liquidity-marketplace-is-the-key-to-globalizing-crypto-trading-sm13337b)
+![](https://cdn.hackernoon.com/images/dfnkKGGdaveDKSte2xzbUj73T6z2-ogv35fn.jpeg)
+Despite all the hype around the current Bitcoin bull run and crypto in general, the market reality is this:  the global crypto trading market is in its infancy. The reality is professional crypto traders cannot efficiently access global price discovery, global best bid and offer, or global liquidity. 
+
+### [202. The State of the DAO: Rise, Fall, and Rise](https://hackernoon.com/the-state-of-the-dao-rise-fall-and-rise-0l8837dk)
 ![](https://cdn.hackernoon.com/drafts/ptdo3aei.png)
 The last few weeks have seen some major failures in the area of DAO and distributed governance. They’ve also marked a revival of energy for DAO technology, with new initiatives that seem to pick up where the failures left a gap. 
 
-### [202. A Hard Look At The Emerging DeFi Trends](https://hackernoon.com/a-hard-look-at-the-emerging-defi-trends-ch2j3x88)
+### [203. 5 Best Practices for Building Mass-Adoptable Crypto Apps](https://hackernoon.com/5-best-practices-for-building-mass-adoptable-crypto-apps)
+![](https://cdn.hackernoon.com/images/fLHPQ6lklrP7L2Di79XI3ZMc5Ot1-5093quh.jpeg)
+To be successful, web3 devs need to relentlessly optimize their crypto products, test and retest them, and design them with end user experience in mind.
+
+### [204. A Hard Look At The Emerging DeFi Trends](https://hackernoon.com/a-hard-look-at-the-emerging-defi-trends-ch2j3x88)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6192IkNhK6fDk5pJCty9veBXXmt2-dc4m3ylz.jpeg?alt=media&token=1994c80d-9ffa-49d4-96a3-b05a177a96a5)
 DeFi's sudden popularity in 2020, excessive increases, constant security
 concerns, and the entry of so much capital, where DeFi will be pushed? What future directions are more worthy of our attention? 
 
-### [203. SoulSwap Finance Interview: The New DeFi Protocol on Fantom](https://hackernoon.com/soulswap-finance-interview-the-new-defi-protocol-on-fantom)
+### [205. SoulSwap Finance Interview: The New DeFi Protocol on Fantom](https://hackernoon.com/soulswap-finance-interview-the-new-defi-protocol-on-fantom)
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-k493htz.jpeg)
 In this post we'll look at SoulSwap Finance, how it works and how it fits into the DeFi ecosystem on Fantom.
 
-### [204. $Fil Mooned Right After I Sold It. Am I Weak Hands?](https://hackernoon.com/dollarfil-mooned-right-after-i-sold-it-am-i-weak-hands-zw143306)
+### [206. $Fil Mooned Right After I Sold It. Am I Weak Hands?](https://hackernoon.com/dollarfil-mooned-right-after-i-sold-it-am-i-weak-hands-zw143306)
 ![](https://cdn.hackernoon.com/images/NV8dp3sUmRUWZFCywFA8KHNZyRK2-yin32ve.jpeg)
 FIL has climbed from $35 to $135, an increase of more than 279% in a single month. Why is FIL getting so bullish all of a sudden? What is IPFS? Learn more now!
-
-### [205. The Risks and Rewards of Crypto Payments for Freelancers in 2024](https://hackernoon.com/the-risks-and-rewards-of-crypto-payments-for-freelancers-in-2023)
-![](https://cdn.hackernoon.com/images/5m10iGRoMzbYOXE2JOcRHTZrytI3-sk93pt9.jpeg)
-Is it too soon to accept crypto as payment in 2022? Let's discuss a number of pros and cons of accepting crypto payments as a freelancer and business owner. 
-
-### [206. 5 Best Practices for Building Mass-Adoptable Crypto Apps](https://hackernoon.com/5-best-practices-for-building-mass-adoptable-crypto-apps)
-![](https://cdn.hackernoon.com/images/fLHPQ6lklrP7L2Di79XI3ZMc5Ot1-5093quh.jpeg)
-To be successful, web3 devs need to relentlessly optimize their crypto products, test and retest them, and design them with end user experience in mind.
 
 ### [207. Managing Your Digital Assets: A Guide to Accounting](https://hackernoon.com/managing-your-digital-assets-a-guide-to-accounting)
 ![](https://cdn.hackernoon.com/images/55mgLtvwWdf0kHZQ9QMkL4gmWue2-unb3rfz.jpeg)
 With the increasing acceptance of crypto, the need for its accounting has become evident. Here, we’ll refer to crypto as a digital asset. 
 
-### [208. 5 Countries That Are Betting on Blockchain](https://hackernoon.com/5-countries-that-are-betting-on-blockchain-vhb732c3)
-![](https://images.unsplash.com/photo-1502920514313-52581002a659?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-As cryptocurrency hits the digital wallets of citizens in countries around the world, different governments are reacting in different ways. While some clamp down on the industry, others are seizing the opportunity to take advantage of its rapid growth.
+### [208. How the Shady World of Crypto Shadow Banking Collapsed](https://hackernoon.com/how-the-shady-world-of-crypto-shadow-banking-collapsed)
+![](https://cdn.hackernoon.com/images/0CGwb8UgNaRccuSFJRKWy6lEpHB2-uza3v0v.jpeg)
+The acti loan book of Genesis Trading lending desk, world's largest payers in crypto shadow banking, explains the ongoing collapse & contagion in crypto markets
 
-### [209. Succeeding In Challenging Times: Marketing During The Coronavirus [An Overview]](https://hackernoon.com/succeeding-in-challenging-times-marketing-during-the-coronavirus-an-overview-un8p326h)
-![](https://cdn.hackernoon.com/images/62l32hq.jpg)
-COVID-19 has turned the whole world upside down. It’s changed our personal lives, our businesses and the way we spend our days. No matter where we live, what we do, our race, nationality or status, everyone has been impacted in some way. The uncertainty created by this rapidly deepening global crisis has left all of us vulnerable to anxiety, stress and worrying about the future. It’s no wonder that everyone — including technology and blockchain companies — are re-evaluating the way they do business, revisiting their budget and expenses and modifying their operations.
-
-### [210. The Anarchosatoshi Revelations](https://hackernoon.com/the-anarchosatoshi-revelations)
+### [209. The Anarchosatoshi Revelations](https://hackernoon.com/the-anarchosatoshi-revelations)
 ![](https://cdn.hackernoon.com/images/yXM82TudrlYXCRmKCEM4tK236C02-lm93980.jpeg)
 Satoshi created Bitcoin as a payment system that would give citizens freedom. Governments have seen it as a threat to the status quo. To address that threat, th
 
-### [211. How the Shady World of Crypto Shadow Banking Collapsed](https://hackernoon.com/how-the-shady-world-of-crypto-shadow-banking-collapsed)
-![](https://cdn.hackernoon.com/images/0CGwb8UgNaRccuSFJRKWy6lEpHB2-uza3v0v.jpeg)
-The acti loan book of Genesis Trading lending desk, world's largest payers in crypto shadow banking, explains the ongoing collapse & contagion in crypto markets
+### [210. 5 Countries That Are Betting on Blockchain](https://hackernoon.com/5-countries-that-are-betting-on-blockchain-vhb732c3)
+![](https://images.unsplash.com/photo-1502920514313-52581002a659?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+As cryptocurrency hits the digital wallets of citizens in countries around the world, different governments are reacting in different ways. While some clamp down on the industry, others are seizing the opportunity to take advantage of its rapid growth.
+
+### [211. Succeeding In Challenging Times: Marketing During The Coronavirus [An Overview]](https://hackernoon.com/succeeding-in-challenging-times-marketing-during-the-coronavirus-an-overview-un8p326h)
+![](https://cdn.hackernoon.com/images/62l32hq.jpg)
+COVID-19 has turned the whole world upside down. It’s changed our personal lives, our businesses and the way we spend our days. No matter where we live, what we do, our race, nationality or status, everyone has been impacted in some way. The uncertainty created by this rapidly deepening global crisis has left all of us vulnerable to anxiety, stress and worrying about the future. It’s no wonder that everyone — including technology and blockchain companies — are re-evaluating the way they do business, revisiting their budget and expenses and modifying their operations.
 
 ### [212. HODL Your Private Keys to Avoid Worthless Investments](https://hackernoon.com/hodl-your-private-keys-to-avoid-worthless-investments-bq1736gc)
 ![](https://hackernoon.com/images/NBY7QQA6TRS4kTHwFViK1DaKwRq2-mxcd3n4v.jpeg)
@@ -867,13 +869,13 @@ In these early days of the blockchain industry, wild claims are thrown around le
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY6FmFn0ZIfO15FTb4oUA3EXBVCr2-dl3228ac.png?alt=media&token=6c8af020-41a8-4104-be26-9652c8e20430)
 Market makers have become a significant driving force in the cryptocurrency market. Primarily, their activity is to create an active, progressive market for buyers and sellers by placing multiple limit orders in an exchange platform’s order book. 
 
-### [215. When is an Asset "Digital"?](https://hackernoon.com/when-is-an-asset-digital-ta7930np)
-![](https://hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-vz923pa.jpeg)
-As outlined in an earlier article, blockchain-native digital bearer instruments such as Bitcoin's mining reward bitcoin introduced new concepts of ownership and value transfer, upsetting the order of enumerated asset classes heretofore seemingly complete. 
-
-### [216. The LUNA-Tic Descent of Terra: Its Causes and Impact on the Crypto Market](https://hackernoon.com/the-luna-tic-descent-of-terra-its-causes-and-impact-on-the-crypto-market)
+### [215. The LUNA-Tic Descent of Terra: Its Causes and Impact on the Crypto Market](https://hackernoon.com/the-luna-tic-descent-of-terra-its-causes-and-impact-on-the-crypto-market)
 ![](https://cdn.hackernoon.com/images/W0ZcISmPdKVWJQZwtMAIrQTXmqG3-9ub3pds.jpeg)
 Many crypto enthusiasts are unaware of what caused Luna's fall, and those who do are unaware of its consequences on the crypto market.  
+
+### [216. When is an Asset "Digital"?](https://hackernoon.com/when-is-an-asset-digital-ta7930np)
+![](https://hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-vz923pa.jpeg)
+As outlined in an earlier article, blockchain-native digital bearer instruments such as Bitcoin's mining reward bitcoin introduced new concepts of ownership and value transfer, upsetting the order of enumerated asset classes heretofore seemingly complete. 
 
 ### [217. Sub-Markets on Crypto-Exchanges and Their Volumes [An Analysis]](https://hackernoon.com/sub-markets-on-crypto-exchanges-and-their-volumes-an-analysis-f7du32is)
 ![](https://cdn.hackernoon.com/images/u6qr175r.jpg)
@@ -895,41 +897,41 @@ People love news. Which is why in crypto, product updates almost always drive th
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-2093uyv.png)
 He told me in this interview that his wealth of experience on Wall Street is helping him cope with the marketing part of cryptocurrency.
 
-### [222. Crypto to Fiat Convertibility Holds The Key To The Next Leap In Payments](https://hackernoon.com/crypto-to-fiat-convertibility-holds-the-key-to-the-next-leap-in-payments-jg2o3w3u)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQJiKJzDyzPZSFDQDLt3ogF88TJr1-ytw3upn.jpeg?alt=media&token=d6d8e8c7-4397-407c-9415-7a0640b04b69)
-A 2019 study by Blockchain Capital claimed that 11 percent of Americans own Bitcoin and 89 percent are aware of it. A different 2019 survey put BTC ownership at 6 percent of Americans. So why don’t we see widespread adoption of blockchain-powered payments at coffee shops, groceries, and eCommerce sites? 
-
-### [223. DPOS Mining Yields For Master Nodes [An Analysis]](https://hackernoon.com/dpos-mining-yields-for-master-nodes-an-analysis-l79v32jl)
-![](https://cdn.hackernoon.com/drafts/xgoj31an.png)
-It is a special form of the node used to verify transactions on a network. 
-
-### [224. 301 Stories To Learn About Cryptocurrency Top Story](https://hackernoon.com/301-stories-to-learn-about-cryptocurrency-top-story)
+### [222. 301 Stories To Learn About Cryptocurrency Top Story](https://hackernoon.com/301-stories-to-learn-about-cryptocurrency-top-story)
 ![](https://cdn.hackernoon.com/images/github/cryptocurrency-top-story-464.png)
 Learn everything you need to know about Cryptocurrency Top Story via these 301 free HackerNoon stories.
 
-### [225. A DEX Aggregator To Bridge DeFi and CeFi](https://hackernoon.com/a-dex-aggregator-to-bridge-defi-and-cefi)
-![](https://cdn.hackernoon.com/images/01GnJI2gqDUl8GF10XiixbPGfYw2-qy03ot0.jpeg)
-Arken Finance is exploring avenues to solve the problems with decentralized exchanges by bridging the CeFi and DeFi user experiences
+### [223. Crypto to Fiat Convertibility Holds The Key To The Next Leap In Payments](https://hackernoon.com/crypto-to-fiat-convertibility-holds-the-key-to-the-next-leap-in-payments-jg2o3w3u)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQJiKJzDyzPZSFDQDLt3ogF88TJr1-ytw3upn.jpeg?alt=media&token=d6d8e8c7-4397-407c-9415-7a0640b04b69)
+A 2019 study by Blockchain Capital claimed that 11 percent of Americans own Bitcoin and 89 percent are aware of it. A different 2019 survey put BTC ownership at 6 percent of Americans. So why don’t we see widespread adoption of blockchain-powered payments at coffee shops, groceries, and eCommerce sites? 
 
-### [226. Ethereum's Deflationary Impact: What Investors Need to Know](https://hackernoon.com/ethereums-deflationary-impact-what-investors-need-to-know)
+### [224. DPOS Mining Yields For Master Nodes [An Analysis]](https://hackernoon.com/dpos-mining-yields-for-master-nodes-an-analysis-l79v32jl)
+![](https://cdn.hackernoon.com/drafts/xgoj31an.png)
+It is a special form of the node used to verify transactions on a network. 
+
+### [225. Ethereum's Deflationary Impact: What Investors Need to Know](https://hackernoon.com/ethereums-deflationary-impact-what-investors-need-to-know)
 ![](https://cdn.hackernoon.com/images/3148XUJwNzfIzvWsFrgBm8NKpO82-5y92a3d.png)
 What exactly does becoming a deflationary cryptocurrency mean for Ethereum? And why is this important?
+
+### [226. A DEX Aggregator To Bridge DeFi and CeFi](https://hackernoon.com/a-dex-aggregator-to-bridge-defi-and-cefi)
+![](https://cdn.hackernoon.com/images/01GnJI2gqDUl8GF10XiixbPGfYw2-qy03ot0.jpeg)
+Arken Finance is exploring avenues to solve the problems with decentralized exchanges by bridging the CeFi and DeFi user experiences
 
 ### [227. Too Big to Fail: Lessons from the Latest Crypto Saga](https://hackernoon.com/too-big-to-fail-lessons-from-the-latest-crypto-saga)
 ![](https://cdn.hackernoon.com/images/AObwr2YIRnWTIPTYvxMfbMVdTeT2-y393uc1.jpeg)
 Too big to fail, read on to see how significant failures in crypto affect depositors and retail investors; the Sam Bankman-Friedman and FTX crash.
 
-### [228. Unlocking the Value of Digital Currencies with Crypto-Backed Loans](https://hackernoon.com/unlocking-the-value-of-digital-currencies-with-crypto-backed-loans-oj4h36c2)
-![](https://cdn.hackernoon.com/drafts/b0n313xfn.png)
-Currently, the value of all the bitcoin in the world is $154 billion. And, bitcoin is only the most well-known cryptocurrency in the global economy. If we combine the value of bitcoin with other cryptocurrencies with a market cap of at least $1 billion, such as ethereum, litecoin and ripple, the total value comes to approximately $210 billion.
-
-### [229. The Proof is in the Pudding: Crypto's Existential Test](https://hackernoon.com/the-proof-is-in-the-pudding-cryptos-existential-test)
+### [228. The Proof is in the Pudding: Crypto's Existential Test](https://hackernoon.com/the-proof-is-in-the-pudding-cryptos-existential-test)
 ![](https://cdn.hackernoon.com/images/a-crypto-coin-with-stick-arms-and-legs-crying-cle75m59p000001s614viadhs.png)
 The cryptocurrency industry has never shied away from making big claims. And nor should it; blockchain technology is truly revolutionary. Decentralized cryptocurrencies and stablecoins offer hundreds of millions of people an alternative to their hyperinflating local currency, an alternative that cannot be seized by a bankrupt government overnight. Smart contracts bring equitable agreements to the billions of people living in countries that lack fair and stable judicial systems.
 
-### [230. Crypto Market: Upheavals and Forecasts](https://hackernoon.com/crypto-market-upheavals-and-forecasts)
+### [229. Crypto Market: Upheavals and Forecasts](https://hackernoon.com/crypto-market-upheavals-and-forecasts)
 ![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-cse3qv7.jpeg)
 Let’s be honest, the crypto market has been facing several significant shocks and challenges in recent times including the FTX crash, Goldman Sachs buying up crypto businesses, and a prolonged crypto winter. 
+
+### [230. Unlocking the Value of Digital Currencies with Crypto-Backed Loans](https://hackernoon.com/unlocking-the-value-of-digital-currencies-with-crypto-backed-loans-oj4h36c2)
+![](https://cdn.hackernoon.com/drafts/b0n313xfn.png)
+Currently, the value of all the bitcoin in the world is $154 billion. And, bitcoin is only the most well-known cryptocurrency in the global economy. If we combine the value of bitcoin with other cryptocurrencies with a market cap of at least $1 billion, such as ethereum, litecoin and ripple, the total value comes to approximately $210 billion.
 
 ### [231. Hidden Challenges and Opportunities in Crypto Finance](https://hackernoon.com/hidden-challenges-and-opportunities-in-crypto-finance)
 ![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-9953oov.jpeg)
@@ -943,45 +945,45 @@ The most important part of the investors' trust in crypto assets is their legal 
 ![](https://cdn.hackernoon.com/images/PsbYH0Gf7bSdaWavmIxhltNrJig1-g74f3ntx.png)
 Core concepts of a DAO. Will it be the next crypto trend? xDAO project.
 
-### [234. Decentralized Internet Is Of The People, By The People, For The People](https://hackernoon.com/decentralized-internet-is-of-the-people-by-the-people-for-the-people-4c413400)
-![](https://cdn.hackernoon.com/images/LatG9iTNBabXOOarKAA43b8nEgW2-f8o31o7.gif)
-Take a look at how decentralized apps and crypto-based applications are changing the lives of ordinary people and check the huge opportunity that lies within.
-
-### [235. Italy's Covid19 Stimulus: Tokenization of Tax Credits And The New Digital Lira ](https://hackernoon.com/italys-covid19-stimulus-tokenization-of-tax-credits-and-the-new-digital-lira-6y1a3z1g)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fp6AvGOiRY2VatjyeCT5GMXwZTg43-5th2bvo.jpeg?alt=media&token=f2929cb2-2aea-4921-9efc-d4e590b76f76)
-The day that the Italian borders were reopened after the lockdown — on June 3rd — I drove across the Brenner Pass with an overwhelming joy. I could finally rejoin my family and my old friends. 
-
-### [236. From DeFi 1.0 to 3.0: Innovative Protocols Leading the Way ](https://hackernoon.com/from-defi-10-to-30-innovative-protocols-leading-the-way)
+### [234. From DeFi 1.0 to 3.0: Innovative Protocols Leading the Way ](https://hackernoon.com/from-defi-10-to-30-innovative-protocols-leading-the-way)
 ![](https://cdn.hackernoon.com/images/SNkDpvdu7pTt1J6clyL9fJIE0Jo2-8393tjj.jpeg)
 The DeFi ecosystem is constantly iterating and improving. From Primitives to Protocols, here's what seems to be building sustainable ecosystems for the future. 
 
-### [237. Introducing $YETI Part 1](https://hackernoon.com/introducing-$yeti-part-1)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ta93yqv.jpeg)
-Overview of Yeti Finance on Avalanche Blockchain. Yeti is a decentralized finance (DeFi) protocol that offers huge earning potential for its users. AVAX NFT $$$
+### [235. Decentralized Internet Is Of The People, By The People, For The People](https://hackernoon.com/decentralized-internet-is-of-the-people-by-the-people-for-the-people-4c413400)
+![](https://cdn.hackernoon.com/images/LatG9iTNBabXOOarKAA43b8nEgW2-f8o31o7.gif)
+Take a look at how decentralized apps and crypto-based applications are changing the lives of ordinary people and check the huge opportunity that lies within.
 
-### [238. How to identify if a crypto or blockchain project is a scam or not?](https://hackernoon.com/how-to-identify-if-a-crypto-or-blockchain-project-is-a-scam-or-not-9n163579)
+### [236. Italy's Covid19 Stimulus: Tokenization of Tax Credits And The New Digital Lira ](https://hackernoon.com/italys-covid19-stimulus-tokenization-of-tax-credits-and-the-new-digital-lira-6y1a3z1g)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fp6AvGOiRY2VatjyeCT5GMXwZTg43-5th2bvo.jpeg?alt=media&token=f2929cb2-2aea-4921-9efc-d4e590b76f76)
+The day that the Italian borders were reopened after the lockdown — on June 3rd — I drove across the Brenner Pass with an overwhelming joy. I could finally rejoin my family and my old friends. 
+
+### [237. How to identify if a crypto or blockchain project is a scam or not?](https://hackernoon.com/how-to-identify-if-a-crypto-or-blockchain-project-is-a-scam-or-not-9n163579)
 ![](https://cdn.hackernoon.com/images/pdNpXCdz7hYdjvghqFeCGCNGyAq1-bt1t344i.jpeg)
 This Slogging thread by shahmeer khan, Utsav Jaiswal and Ivy Fung occurred in slogging's official #blockchain channel, and has been edited for readability.
 
-### [239. Thinking in Systems is Hard But It Can Be Done [A How To Guide]](https://hackernoon.com/thinking-in-systems-8ak32ww)
-![](https://cdn.hackernoon.com/drafts/lrfc32fc.png)
-Thinking in systems is hard, particularly because humans are best at linear reasoning, “if this, then that.” Systems are much more complex, made up of intermingled relationships with varying feedback loops, “if this,” may not necessarily lead to “that,” and even if it does, it might not happen for quite a while. 
-
-### [240. The Case for Immediate Crypto Industry Regulation: Why Postponing Is Not an Option](https://hackernoon.com/the-case-for-immediate-crypto-industry-regulation-why-postponing-is-not-an-option)
+### [238. The Case for Immediate Crypto Industry Regulation: Why Postponing Is Not an Option](https://hackernoon.com/the-case-for-immediate-crypto-industry-regulation-why-postponing-is-not-an-option)
 ![](https://cdn.hackernoon.com/images/Cf6C4PGclqPZc6tW9njnE5Dg6Bt1-kpb3vim.jpeg)
 Although experts and participants have long pointed out imperfections in the crypto industry, regulatory institutions have continued to delay decisions. 
 
-### [241. Cryptocurrencies Will Go Mainstream in the U.S. and Other Bold Predictions for 2020](https://hackernoon.com/cryptocurrency-will-go-mainstream-in-the-us-and-other-bold-predictions-for-2020-3o1236ei)
+### [239. Crypto Market vs Stock Market: Exploring an Interesting Relationship](https://hackernoon.com/crypto-market-vs-stock-market-exploring-an-interesting-relationship)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-5093obs.jpeg)
+There are several camps in the market. One is trying to separate completely from the so-called "funds", and the other is working with an eye on it. But no matter how hard we try to fence ourselves off, the connection between them exists. To correctly illuminate it, I will describe in this text my vision of this issue.
+
+### [240. Introducing $YETI Part 1](https://hackernoon.com/introducing-$yeti-part-1)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ta93yqv.jpeg)
+Overview of Yeti Finance on Avalanche Blockchain. Yeti is a decentralized finance (DeFi) protocol that offers huge earning potential for its users. AVAX NFT $$$
+
+### [241. Thinking in Systems is Hard But It Can Be Done [A How To Guide]](https://hackernoon.com/thinking-in-systems-8ak32ww)
+![](https://cdn.hackernoon.com/drafts/lrfc32fc.png)
+Thinking in systems is hard, particularly because humans are best at linear reasoning, “if this, then that.” Systems are much more complex, made up of intermingled relationships with varying feedback loops, “if this,” may not necessarily lead to “that,” and even if it does, it might not happen for quite a while. 
+
+### [242. Cryptocurrencies Will Go Mainstream in the U.S. and Other Bold Predictions for 2020](https://hackernoon.com/cryptocurrency-will-go-mainstream-in-the-us-and-other-bold-predictions-for-2020-3o1236ei)
 ![](https://images.unsplash.com/photo-1503266980949-bd30d04d0b7a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Everybody’s making predictions about 2020, mostly about the price of bitcoin.
 
-### [242. The Unfulfilled Promise of Blockchain and the Key to Unleashing Its Potential](https://hackernoon.com/the-unfulfilled-promise-of-blockchain-and-the-key-to-unleashing-its-potential-914o383p)
+### [243. The Unfulfilled Promise of Blockchain and the Key to Unleashing Its Potential](https://hackernoon.com/the-unfulfilled-promise-of-blockchain-and-the-key-to-unleashing-its-potential-914o383p)
 ![](https://cdn.hackernoon.com/drafts/cn7d3bdn.png)
 Solving the Blockchain Trilemma to Unlock Real Business Value.
-
-### [243. Crypto Market vs Stock Market: Exploring an Interesting Relationship](https://hackernoon.com/crypto-market-vs-stock-market-exploring-an-interesting-relationship)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-5093obs.jpeg)
-There are several camps in the market. One is trying to separate completely from the so-called "funds", and the other is working with an eye on it. But no matter how hard we try to fence ourselves off, the connection between them exists. To correctly illuminate it, I will describe in this text my vision of this issue.
 
 ### [244. Looking into the Chainlink Crypto](https://hackernoon.com/looking-into-the-chainlink-crypto)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-zt032yd.jpeg)
@@ -995,129 +997,129 @@ Ask anyone in the crypto space about the major barriers to adoption and nine tim
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-jdv3znt.jpeg?alt=media&token=d058ea99-2ad2-450b-9200-9e730d1c6bcc)
 When will we see crypto become a fully-fledged institutionalized asset class?
 
-### [247. Will the real crypto "use case" please stand up? Unfiltered thoughts from a cryptocurrency developer](https://hackernoon.com/will-the-real-crypto-use-case-please-stand-up-unfiltered-thoughts-from-a-cryptocurrency-developer-ypx37ud)
-![](https://cdn.hackernoon.com/images/LuGCQ0lsLYXOzSMy017T6VTIc4v1-lk535u7.jpeg)
-Is there real use case in cryptocurrency?
+### [247. Stories From The Crypto Industry That Will Keep You Up At Night](https://hackernoon.com/stories-from-the-crypto-industry-that-will-keep-you-up-at-night)
+![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-q9e3pzl.jpeg)
+The crypto industry is characterized by high growth rates and an oversaturation of all sorts of events. The world doesn't stand still and the DeFi industry is only gaining momentum, constantly developing and surprising us with new launches, opportunities, and discoveries. 
 
 ### [248. How To Bridge the Abyss Between the Masses and Blockchain Adoption](https://hackernoon.com/how-to-bridge-the-abyss-between-the-masses-and-blockchain-adoption-a02o3047)
 ![](https://cdn.hackernoon.com/drafts/bd3r329h.png)
 Back in the good days, when we could still go to different blockchain conferences and meetups, one of the most common topics was “mass adoption”.
 
-### [249. Critical Thinking, Cryptocurrency, and a Space Hotel](https://hackernoon.com/critical-thinking-cryptocurrency-and-a-space-hotel)
+### [249. Will the real crypto "use case" please stand up? Unfiltered thoughts from a cryptocurrency developer](https://hackernoon.com/will-the-real-crypto-use-case-please-stand-up-unfiltered-thoughts-from-a-cryptocurrency-developer-ypx37ud)
+![](https://cdn.hackernoon.com/images/LuGCQ0lsLYXOzSMy017T6VTIc4v1-lk535u7.jpeg)
+Is there real use case in cryptocurrency?
+
+### [250. Critical Thinking, Cryptocurrency, and a Space Hotel](https://hackernoon.com/critical-thinking-cryptocurrency-and-a-space-hotel)
 ![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-2r136iy.jpeg)
 Nicolas Ng, Hang Ngo, and Ellen Stevens examine the details of how HackerNoon is controlling the social media empires.
 
-### [250. Use SANsheet to Analyse Cryptocurrencies In A More Comprehensive Manner](https://hackernoon.com/use-sansheet-to-analyse-cryptocurrencies-in-a-more-comprehensive-manner-sl1j3wzl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9wP4DWHXAdNQg74LZ8j0PeU91GT2-267w29ga.jpeg?alt=media&token=7eedfad6-7d12-4bf0-98c8-31b9df9008ea)
-How crypto-traders can set up a simple and free spreadsheet to track the technicals, fundamentals and sentiment of 900+ cryptocurrencies. 
+### [251. What the Future of Ethereum Looks Like Post London Hard Fork](https://hackernoon.com/what-the-future-of-ethereum-looks-like-post-london-hard-fork)
+![](https://cdn.hackernoon.com/images/dXI1QRJ8zNgLlqk3LlqfBXRzniJ3-59236fq.jpeg)
+Investing in crypto during the bear market isn’t for everyone here's what you need piece the market sentiment & Ethereum together before diving into investing
 
-### [251. Some Stray Thoughts On The Long Term Winner in Crypto-Assets](https://hackernoon.com/some-stray-thoughts-on-the-long-term-winner-in-crypto-assets-1kai3bxw)
-![](https://cdn.hackernoon.com/drafts/592z36vy.png)
-Today we are going to discuss how the long term survivability of a prospective crypto asset is the single best indicator of its investment quality. We will also consider  capital’s role in this model and why this is the best approach to investing in a crypto asset. 
-
-### [252. Stories From The Crypto Industry That Will Keep You Up At Night](https://hackernoon.com/stories-from-the-crypto-industry-that-will-keep-you-up-at-night)
-![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-q9e3pzl.jpeg)
-The crypto industry is characterized by high growth rates and an oversaturation of all sorts of events. The world doesn't stand still and the DeFi industry is only gaining momentum, constantly developing and surprising us with new launches, opportunities, and discoveries. 
-
-### [253. Bitcoin Price Frictions Explained in 5 Simple Futures and Blockchain Signals](https://hackernoon.com/bitcoin-price-frictions-explained-in-5-simple-futures-and-blockchain-signals-b27v32i5)
-![](https://cdn.hackernoon.com/images/dicu321q.jpg)
-In recent days, Bitcoin has been struggling to break different levels above the $7000 mark. From the COVID-19 crisis to the anticipation surrounding the Bitcoin halving event, there are plenty of macro factors that can be associated with the increasing price resistance. 
-
-### [254. Crypto-related Testing in Fintech: Losses Vs. Faster Delivery](https://hackernoon.com/crypto-related-testing-in-fintech-losses-vs-faster-delivery-ex1437s2)
-![](https://cdn.hackernoon.com/images/JSYkNpLpvpMeZRD7gvzhrP1FwxJ2-am8o35hm.jpeg)
-Crypto-related testing ​in fintech app: How to find the balance between ​losses due to mistake and fast delivery 
-
-### [255. Could Trading-Crypto-as-a-Service Become A Thing?](https://hackernoon.com/could-trading-crypto-as-a-service-become-a-thing-ik373x0o)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fz4kKjyhsAnMpCOcgQUNFQJPd3mx2-yi1b3x3t.jpeg?alt=media&token=ad411a0e-a597-46a9-ac9a-566df5045bd1)
-Peer-to-peer trading is a strange phenomenon in some ways, as access to cryptocurrency has grown, so has P2P trading. It’s an odd thing that may not make a lot of sense at first, but when you consider that perhaps those engaging in this form of trading are doing a little more than just, well, trading it gets a bit more intriguing. 
-
-### [256. Crypto's Trilemma Trinity: Balancing Security, Scalability, and Decentralization](https://hackernoon.com/cryptos-trilemma-trinity-balancing-security-scalability-and-decentralization)
+### [252. Crypto's Trilemma Trinity: Balancing Security, Scalability, and Decentralization](https://hackernoon.com/cryptos-trilemma-trinity-balancing-security-scalability-and-decentralization)
 ![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-z8d36lh.jpeg)
 The cryptocurrency industry is built on a fascinating foundation of computer science, information technology, and economics. Whenever exploring the designs...
 
-### [257. Filter the Fake News About Crypto and Blockchain](https://hackernoon.com/filter-the-fake-news-about-crypto-and-blockchain)
+### [253. Use SANsheet to Analyse Cryptocurrencies In A More Comprehensive Manner](https://hackernoon.com/use-sansheet-to-analyse-cryptocurrencies-in-a-more-comprehensive-manner-sl1j3wzl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9wP4DWHXAdNQg74LZ8j0PeU91GT2-267w29ga.jpeg?alt=media&token=7eedfad6-7d12-4bf0-98c8-31b9df9008ea)
+How crypto-traders can set up a simple and free spreadsheet to track the technicals, fundamentals and sentiment of 900+ cryptocurrencies. 
+
+### [254. Some Stray Thoughts On The Long Term Winner in Crypto-Assets](https://hackernoon.com/some-stray-thoughts-on-the-long-term-winner-in-crypto-assets-1kai3bxw)
+![](https://cdn.hackernoon.com/drafts/592z36vy.png)
+Today we are going to discuss how the long term survivability of a prospective crypto asset is the single best indicator of its investment quality. We will also consider  capital’s role in this model and why this is the best approach to investing in a crypto asset. 
+
+### [255. Bitcoin Price Frictions Explained in 5 Simple Futures and Blockchain Signals](https://hackernoon.com/bitcoin-price-frictions-explained-in-5-simple-futures-and-blockchain-signals-b27v32i5)
+![](https://cdn.hackernoon.com/images/dicu321q.jpg)
+In recent days, Bitcoin has been struggling to break different levels above the $7000 mark. From the COVID-19 crisis to the anticipation surrounding the Bitcoin halving event, there are plenty of macro factors that can be associated with the increasing price resistance. 
+
+### [256. Filter the Fake News About Crypto and Blockchain](https://hackernoon.com/filter-the-fake-news-about-crypto-and-blockchain)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-rg03o15.jpeg)
 Read about 5 crypto myths that shouldn't be taken at face value.
 
-### [258. "Freedom of Movement is a Human Right, So Too Should be the Freedom of Information" James O Connor](https://hackernoon.com/freedom-of-movement-is-a-human-right-so-too-should-be-the-freedom-of-information-james-o-connor-7u1k3598)
+### [257. Crypto-related Testing in Fintech: Losses Vs. Faster Delivery](https://hackernoon.com/crypto-related-testing-in-fintech-losses-vs-faster-delivery-ex1437s2)
+![](https://cdn.hackernoon.com/images/JSYkNpLpvpMeZRD7gvzhrP1FwxJ2-am8o35hm.jpeg)
+Crypto-related testing ​in fintech app: How to find the balance between ​losses due to mistake and fast delivery 
+
+### [258. Could Trading-Crypto-as-a-Service Become A Thing?](https://hackernoon.com/could-trading-crypto-as-a-service-become-a-thing-ik373x0o)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fz4kKjyhsAnMpCOcgQUNFQJPd3mx2-yi1b3x3t.jpeg?alt=media&token=ad411a0e-a597-46a9-ac9a-566df5045bd1)
+Peer-to-peer trading is a strange phenomenon in some ways, as access to cryptocurrency has grown, so has P2P trading. It’s an odd thing that may not make a lot of sense at first, but when you consider that perhaps those engaging in this form of trading are doing a little more than just, well, trading it gets a bit more intriguing. 
+
+### [259. "Freedom of Movement is a Human Right, So Too Should be the Freedom of Information" James O Connor](https://hackernoon.com/freedom-of-movement-is-a-human-right-so-too-should-be-the-freedom-of-information-james-o-connor-7u1k3598)
 ![](https://cdn.hackernoon.com/images/iumnGL1xp3ghC3RL7cb6UMd6VkE3-j5c36rf.jpeg)
 Interactive streaming has been one of the most popular industries for years now, ever since Netflix exploded, causing the launch of other streaming platforms
-
-### [259. Banks, institutional investors, and Cryptocurrencies in 2020](https://hackernoon.com/banks-institutional-investors-and-cryptocurrencies-in-2020-7z373n5h)
-![](https://cdn.hackernoon.com/drafts/8axo3nb1.png)
-At the end of the year, two very important events took place in the crypto world. Many media mentioned them in passing, although the events are really significant.
 
 ### [260. Entertainment Industry Tapping into Crypto's Vast Potential](https://hackernoon.com/entertainment-industry-tapping-into-cryptos-vast-potential-mzu375i)
 ![](https://cdn.hackernoon.com/images/l2eAYc6mZ4MZ1oc7JNZ3j2rWfTH2-ro2u389b.jpeg)
 Is there any way to adopt crypto as a method of payment for the entertainment industry? If yes, what are the advantages and pitfalls?
 
-### [261. Fighting Fraud: How to Better Protect Your Exchange Held Assets?](https://hackernoon.com/fighting-fraud-how-to-better-protect-your-exchange-held-assets-h9x3zlw)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0QUQpD0VCsgAaYPa5e24rYsNMx62-ol6a3wwc.jpeg?alt=media&token=f638f5ab-882a-49b2-a41d-4e784e250463)
-Since the emergence of cryptocurrencies, they have been linked with fraud and crime, the anonymous nature of accounts has enabled criminals to use them to transfer funds and launder their profits. 
+### [261. Banks, institutional investors, and Cryptocurrencies in 2020](https://hackernoon.com/banks-institutional-investors-and-cryptocurrencies-in-2020-7z373n5h)
+![](https://cdn.hackernoon.com/drafts/8axo3nb1.png)
+At the end of the year, two very important events took place in the crypto world. Many media mentioned them in passing, although the events are really significant.
 
-### [262. Talking Tokenomics and Crypto-Economic Design ](https://hackernoon.com/talking-tokenomics-and-crypto-economic-design)
-![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-4p936fg.jpeg)
-Built on a foundation of human psychology, distributed ledger technology, and cryptography, tokenomics are digital systems of value and ownership attribution...
-
-### [263. How to Hire a Crypto Developer: Key Skills and Knowledge to Look For](https://hackernoon.com/how-to-hire-a-crypto-developer-key-skills-and-knowledge-to-look-for)
+### [262. How to Hire a Crypto Developer: Key Skills and Knowledge to Look For](https://hackernoon.com/how-to-hire-a-crypto-developer-key-skills-and-knowledge-to-look-for)
 ![](https://cdn.hackernoon.com/images/oU46VypYStbB8tUQSVRq4Mf3Ca32-i893uvf.jpeg)
 Learn the essential skills and knowledge to effectively hire a crypto developer. Discover the key factors for success in just one concise guide.
 
-### [264. What the Future of Ethereum Looks Like Post London Hard Fork](https://hackernoon.com/what-the-future-of-ethereum-looks-like-post-london-hard-fork)
-![](https://cdn.hackernoon.com/images/dXI1QRJ8zNgLlqk3LlqfBXRzniJ3-59236fq.jpeg)
-Investing in crypto during the bear market isn’t for everyone here's what you need piece the market sentiment & Ethereum together before diving into investing
+### [263. Talking Tokenomics and Crypto-Economic Design ](https://hackernoon.com/talking-tokenomics-and-crypto-economic-design)
+![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-4p936fg.jpeg)
+Built on a foundation of human psychology, distributed ledger technology, and cryptography, tokenomics are digital systems of value and ownership attribution...
+
+### [264. Fighting Fraud: How to Better Protect Your Exchange Held Assets?](https://hackernoon.com/fighting-fraud-how-to-better-protect-your-exchange-held-assets-h9x3zlw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0QUQpD0VCsgAaYPa5e24rYsNMx62-ol6a3wwc.jpeg?alt=media&token=f638f5ab-882a-49b2-a41d-4e784e250463)
+Since the emergence of cryptocurrencies, they have been linked with fraud and crime, the anonymous nature of accounts has enabled criminals to use them to transfer funds and launder their profits. 
 
 ### [265. Revolutionizing Transactions: Why Fiat Conversion for Crypto Adoption Is a Game-Changer](https://hackernoon.com/revolutionizing-transactions-why-fiat-conversion-for-crypto-adoption-is-a-game-changer)
 ![](https://cdn.hackernoon.com/images/EUSB8xFzsYQYNtzv5LBznYvv8kw1-bma3uqs.jpeg)
 Today's organizations are always looking for new ways to innovate and gain an edge in the increasingly competitive digital marketplace. The use of cryptocurrenc
 
-### [266. The infrastructure of Kick Ecosystem](https://hackernoon.com/the-infrastructure-of-kick-ecosystem-r1j3w9k)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5C4BO4qACUVDksVmbXkv9SuSdLX2-jc3z3t34.jpeg?alt=media&token=4dd3cb54-6d71-49e0-9b8a-68a1330a589b)
-We launched KickICO in 2017 to create a safer means of raising capital for enterprises in the blockchain sector, and to open that safer new channel to a community of investors.
+### [266. Talking Crypto Investments with Zignaly CEO Bartolome Bordallo](https://hackernoon.com/talking-crypto-investments-with-zignaly-ceo-bartolome-bordallo)
+![](https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-k793hlz.jpeg)
+Interview with the CEO of Zignaly, a company working to make investing in crypto easier for all, regardless of experience level.
 
 ### [267. Fed Up with Banks? Welcome to the Crypto Club.](https://hackernoon.com/fed-up-with-banks-welcome-to-the-crypto-club)
 ![](https://cdn.hackernoon.com/images/oQ9OCKk50pVg7mdDY84cm8fXJru2-by03czf.jpeg)
 Failing banking system, cryptocurrency adoption, DeFi, cross-border payments, and other financial aspects that should evolve to brink the unbanked into the game
 
-### [268. Talking Crypto Investments with Zignaly CEO Bartolome Bordallo](https://hackernoon.com/talking-crypto-investments-with-zignaly-ceo-bartolome-bordallo)
-![](https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-k793hlz.jpeg)
-Interview with the CEO of Zignaly, a company working to make investing in crypto easier for all, regardless of experience level.
-
-### [269. Crypto-Charities Cut Middlemen AND Transaction Opacity](https://hackernoon.com/crypto-charities-cut-middlemen-and-transaction-opacity-873s34df)
-![](https://cdn.hackernoon.com/images/rrklQPNbspZjuipgqdjB7er0G6e2-tr2223ve.jpeg)
-For charity work, blockchain is more than a tool that enables more transparency and accountability.
-
-### [270. How to Successfully Navigate a Crypto Bear Market ](https://hackernoon.com/how-to-successfully-navigate-a-crypto-bear-market)
-![](https://cdn.hackernoon.com/images/MildjKUxEYMxiz4D3zS1sb2wm2C3-q6b3o7x.jpeg)
-How to survive a crypto bear market. What you should do and how to avoid getting rekt.
-
-### [271. Governments Wanted to Kill Bitcoin. Now They Want to Hoard It](https://hackernoon.com/governments-wanted-to-kill-bitcoin-now-they-want-to-hoard-it)
+### [268. Governments Wanted to Kill Bitcoin. Now They Want to Hoard It](https://hackernoon.com/governments-wanted-to-kill-bitcoin-now-they-want-to-hoard-it)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-qq02ugv.jpeg)
 The U.S. is sitting on $17 billion worth of confiscated Bitcoin. Trump’s calling it "Digital Fort Knox"
 
-### [272. Crypto: An Ecosystem for Survivors-Only](https://hackernoon.com/crypto-an-ecosystem-for-survivors-only)
+### [269. The infrastructure of Kick Ecosystem](https://hackernoon.com/the-infrastructure-of-kick-ecosystem-r1j3w9k)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5C4BO4qACUVDksVmbXkv9SuSdLX2-jc3z3t34.jpeg?alt=media&token=4dd3cb54-6d71-49e0-9b8a-68a1330a589b)
+We launched KickICO in 2017 to create a safer means of raising capital for enterprises in the blockchain sector, and to open that safer new channel to a community of investors.
+
+### [270. Crypto: An Ecosystem for Survivors-Only](https://hackernoon.com/crypto-an-ecosystem-for-survivors-only)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-ob93sl7.jpeg)
 It sounds paradoxical, but let me explain how logical it is to be skeptical.
+
+### [271. How to Successfully Navigate a Crypto Bear Market ](https://hackernoon.com/how-to-successfully-navigate-a-crypto-bear-market)
+![](https://cdn.hackernoon.com/images/MildjKUxEYMxiz4D3zS1sb2wm2C3-q6b3o7x.jpeg)
+How to survive a crypto bear market. What you should do and how to avoid getting rekt.
+
+### [272. Crypto-Charities Cut Middlemen AND Transaction Opacity](https://hackernoon.com/crypto-charities-cut-middlemen-and-transaction-opacity-873s34df)
+![](https://cdn.hackernoon.com/images/rrklQPNbspZjuipgqdjB7er0G6e2-tr2223ve.jpeg)
+For charity work, blockchain is more than a tool that enables more transparency and accountability.
 
 ### [273. You HODL Dogecoin?](https://hackernoon.com/you-hodl-dogecoin)
 ![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-t0a3dyd.jpeg)
 What seems like millennia ago, but was only about a year ago, I wrote on HN about Dogecoin's value proposition being worth a penny. I just wrote my response to my adult sons when they had asked why I had started accumulating Dogecoin. This essay is similar. This is essentially my response to their queries when they learned I was still HODL'ing my Dogecoin. 
 
-### [274. Bybit is the Lead Partner for Art Dubai 2022's Inaugural Digital Section a Bridge to Digital Assets ](https://hackernoon.com/bybit-is-the-lead-partner-for-art-dubai-2022s-inaugural-digital-section-a-bridge-to-digital-assets)
+### [274. Top 3 Risks of DeFi Lending & How to Mitigate Them](https://hackernoon.com/top-3-risks-of-defi-lending-and-how-to-mitigate-them)
+![](https://cdn.hackernoon.com/images/SNkDpvdu7pTt1J6clyL9fJIE0Jo2-ip93t3w.jpeg)
+Discover the risks of DeFi lending and how to mitigate them: smart contract vulnerabilities, liquidity fluctuations, and regulatory challenges. Read on!
+
+### [275. Bybit is the Lead Partner for Art Dubai 2022's Inaugural Digital Section a Bridge to Digital Assets ](https://hackernoon.com/bybit-is-the-lead-partner-for-art-dubai-2022s-inaugural-digital-section-a-bridge-to-digital-assets)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-7xc3pix.jpeg)
 Digital art chapter of Art Dubai 2022 at Madinat Jumeirah, Dubai, is a platform for artistic expressions from the Middle East and Global South.
 
-### [275. NFT: Is GIFs Selling For Millions of Dollars The Economy of The Future?](https://hackernoon.com/nft-is-gifs-selling-for-millions-of-dollars-the-economy-of-the-future-l35r34ni)
+### [276. NFT: Is GIFs Selling For Millions of Dollars The Economy of The Future?](https://hackernoon.com/nft-is-gifs-selling-for-millions-of-dollars-the-economy-of-the-future-l35r34ni)
 ![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-bq193fif.jpeg)
 NFT tokens are the blockchain trend in 2021, first of all, are related to the very industry’s most vibrant progress.  
 
-### [276. 5 Minute Finance: ROCK.JPEG, Institutions Gain BTC Exposure, Stablecoins Mature](https://hackernoon.com/5-minute-finance-rockjpeg-institutions-gain-btc-exposure-stablecoins-mature-rl3c37z0)
+### [277. 5 Minute Finance: ROCK.JPEG, Institutions Gain BTC Exposure, Stablecoins Mature](https://hackernoon.com/5-minute-finance-rockjpeg-institutions-gain-btc-exposure-stablecoins-mature-rl3c37z0)
 ![](https://cdn.hackernoon.com/images/TShzDnm4mbcIz6FRyoXs036i97m1-f8ab35u5.jpeg)
 The 5-minute newsletter on the important stuff in finance — reporting what's going on, and why. Let’s see what's going on this week.
-
-### [277. Top 3 Risks of DeFi Lending & How to Mitigate Them](https://hackernoon.com/top-3-risks-of-defi-lending-and-how-to-mitigate-them)
-![](https://cdn.hackernoon.com/images/SNkDpvdu7pTt1J6clyL9fJIE0Jo2-ip93t3w.jpeg)
-Discover the risks of DeFi lending and how to mitigate them: smart contract vulnerabilities, liquidity fluctuations, and regulatory challenges. Read on!
 
 ### [278. Nexo for Crypto Loans and Bitcoin Loans and Crypto Cards [Reviewed]](https://hackernoon.com/nexo-for-crypto-loans-and-bitcoin-loans-and-crypto-cards-reviewed-6k8x36n4)
 ![](https://cdn.hackernoon.com/images/uzga3x1m.jpg)
@@ -1151,29 +1153,29 @@ The IMF recently took a strong stance against crypto regulations in Argentina, w
 ![](https://cdn.hackernoon.com/images/TShzDnm4mbcIz6FRyoXs036i97m1-4sm1350p.jpeg)
 (Week 35): The 5-minute newsletter on the important stuff in finance — reporting what's going on and why. Let’s see what's going on this week.
 
-### [286. Can China Force Bitcoin Price to Fall Below $20,000?](https://hackernoon.com/can-china-force-bitcoin-price-to-fall-below-dollar20000-gc2s37xj)
-![](https://cdn.hackernoon.com/images/mXwVFS9lzpVWurwagbOBqYhxuhR2-w8835kg.jpeg)
-Being a CEO of cryptocurrency exchange Kyrrex, based in Malta, I would like to tell about the state of the Chinese mining market and the challenges that mining companies will face in the near future. 
-
-### [287. Decoding Crypto Economic Data: Key Metrics for Evaluation](https://hackernoon.com/decoding-crypto-economic-data-key-metrics-for-evaluation)
-![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-9p93287.jpeg)
-Don't get caught up in misinformation - find out what the most important crypto data points actually mean.
-
-### [288. Digital Assets: Are We Still Early?](https://hackernoon.com/digital-assets-are-we-still-early)
-![](https://cdn.hackernoon.com/images/4tMa4RB9uXN9YkzLoCtb4ZeclZM2-r3037oo.jpeg)
-Over the past few weeks if you're in the digital asset space you've probably received texts or questions over the holidays on what to buy or if it's a good time to do so etc. etc. I'm writing this in an effort to give my opinion which is in no way shape or form financial advice. 
-
-### [289. Analyzing a Crypto Token: A Beginner's Guide ](https://hackernoon.com/analyzing-a-crypto-token-a-beginners-guide)
+### [286. Analyzing a Crypto Token: A Beginner's Guide ](https://hackernoon.com/analyzing-a-crypto-token-a-beginners-guide)
 ![](https://cdn.hackernoon.com/images/MHbB5N3RO3ahx89pQ0MixbwLjz42-p993ugr.jpeg)
 Crypto Investing 101
 
-### [290. Tax Calculations and Cryptocurrencies: An Overview](https://hackernoon.com/tax-calculations-and-cryptocurrencies-an-overview-qdn23bt5)
-![](https://cdn.hackernoon.com/drafts/311437pg.png)
-I would be prepared to wager that many people who bought cryptocurrencies, never thought about any tax considerations. It is unsurprising that the tax authorities are ahead of the crypto owners, because they see plenty of new income for their coffers. 
+### [287. Digital Assets: Are We Still Early?](https://hackernoon.com/digital-assets-are-we-still-early)
+![](https://cdn.hackernoon.com/images/4tMa4RB9uXN9YkzLoCtb4ZeclZM2-r3037oo.jpeg)
+Over the past few weeks if you're in the digital asset space you've probably received texts or questions over the holidays on what to buy or if it's a good time to do so etc. etc. I'm writing this in an effort to give my opinion which is in no way shape or form financial advice. 
 
-### [291. Inside Yield Farming 2020: What's the trend? ](https://hackernoon.com/inside-yield-farming-2020-whats-the-trend-h2a3zks)
+### [288. Can China Force Bitcoin Price to Fall Below $20,000?](https://hackernoon.com/can-china-force-bitcoin-price-to-fall-below-dollar20000-gc2s37xj)
+![](https://cdn.hackernoon.com/images/mXwVFS9lzpVWurwagbOBqYhxuhR2-w8835kg.jpeg)
+Being a CEO of cryptocurrency exchange Kyrrex, based in Malta, I would like to tell about the state of the Chinese mining market and the challenges that mining companies will face in the near future. 
+
+### [289. Decoding Crypto Economic Data: Key Metrics for Evaluation](https://hackernoon.com/decoding-crypto-economic-data-key-metrics-for-evaluation)
+![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-9p93287.jpeg)
+Don't get caught up in misinformation - find out what the most important crypto data points actually mean.
+
+### [290. Inside Yield Farming 2020: What's the trend? ](https://hackernoon.com/inside-yield-farming-2020-whats-the-trend-h2a3zks)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F55mgLtvwWdf0kHZQ9QMkL4gmWue2-r473z7v.jpeg?alt=media&token=d77a69b9-2b1a-404e-8db7-d6c4c7551c02)
 Yield farming has taken the cryptocurrency industry by storm, becoming the cornerstone concept for DeFi in 2020 and likely far beyond. The craze started with Compound, which was the first to initialize this investment mechanism in June 2020. Even though yield farming is still quite a niche strategy, it’s popularity is accelerating. The experts from Platinum Software Development Company have taken an analytical dive into the current state of yield farming and are ready to share their key findings and insights.
+
+### [291. Tax Calculations and Cryptocurrencies: An Overview](https://hackernoon.com/tax-calculations-and-cryptocurrencies-an-overview-qdn23bt5)
+![](https://cdn.hackernoon.com/drafts/311437pg.png)
+I would be prepared to wager that many people who bought cryptocurrencies, never thought about any tax considerations. It is unsurprising that the tax authorities are ahead of the crypto owners, because they see plenty of new income for their coffers. 
 
 ### [292. Will an Increase in Institutional Investment Lead to Increase in Cryptocurrency Prices?](https://hackernoon.com/will-an-increase-in-institutional-investment-lead-to-increase-in-cryptocurrency-prices-ftdg36e2)
 ![](https://cdn.hackernoon.com/drafts/esnz36f3.png)
@@ -1197,18 +1199,18 @@ Grants are an important growth point in the world of cryptocurrencies. They cont
 ![](https://cdn.hackernoon.com/images/2jof3y95.jpg)
 Hello and welcome to the first edition of The Byzantine Times. This weekly publication (each Sunday) will replace our newsletter. This week we released our Q1, 2020 review where we saw one of the most eventful periods in our lifetimes.
 
-### [297. So You Want to Work in Crypto? Where to Find Jobs and Who’s Getting Paid the Most](https://hackernoon.com/so-you-want-to-work-in-crypto-where-to-find-jobs-and-whos-getting-paid-the-most)
+### [297. Is the Cryptocurrency Industry Destined to Relive the Fate of the Banking System?](https://hackernoon.com/is-the-cryptocurrency-industry-destined-to-relive-the-fate-of-the-banking-system)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-xc039su.jpeg)
+The government's recent stablecoin regulations could shape how the entire cryptocurrency industry evolves. 
+
+### [298. So You Want to Work in Crypto? Where to Find Jobs and Who’s Getting Paid the Most](https://hackernoon.com/so-you-want-to-work-in-crypto-where-to-find-jobs-and-whos-getting-paid-the-most)
 ![](https://cdn.hackernoon.com/images/81BDkrmBMjc1WXnmjGcZklqlHVz2-zc03ska.png)
 Crypto jobs 2025: devs earn $150K–$350K, auditors up to $400K. Explore the top-paying roles and where to find the best Web3 careers.
 
-### [298. Crypto Assets Are Primarily Communication Networks](https://hackernoon.com/crypto-assets-are-primarily-communication-networks-ss1q34v8)
+### [299. Crypto Assets Are Primarily Communication Networks](https://hackernoon.com/crypto-assets-are-primarily-communication-networks-ss1q34v8)
 ![](https://cdn.hackernoon.com/images/nCjPVMzJEoha3rm2GwGMXZ8LzKm2-3de36r8.png)
 When I was in college there was a joke going around that the easiest way to piss off the physics professor was to ask him “what is gravity?”, upon which the professor would launch into a 45 minute diatribe on gravitons and the latest advances at CERN; but the truth is, we don’t really know. The best we can answer the question is that gravity is a force, but anything beyond that is currently conjecture. The same principle applies to Bitcoin.
 
-
-### [299. Is the Cryptocurrency Industry Destined to Relive the Fate of the Banking System?](https://hackernoon.com/is-the-cryptocurrency-industry-destined-to-relive-the-fate-of-the-banking-system)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-xc039su.jpeg)
-The government's recent stablecoin regulations could shape how the entire cryptocurrency industry evolves. 
 
 ### [300. Will Advertising Fix the Broken Trust with Users and Finally Respect Their Privacy in 2020?](https://hackernoon.com/will-advertising-fix-the-broken-trust-with-users-and-finally-respect-their-privacy-in-2020-txac36m6)
 ![](https://cdn.hackernoon.com/drafts/kgl73agi.png)
@@ -1226,13 +1228,13 @@ When considering the attributes of candidate cryptocurrencies, you should always
 ![](https://cdn.hackernoon.com/drafts/l11e34os.png)
 SEC Commissioner Hester Peirce, nicknamed “Crypto Mom” by the blockchain community, has outlined a formal proposal to provide a three-year safe harbor for token projects.
 
-### [304. Who Gets to Decide What Good is?](https://hackernoon.com/who-gets-to-decide-what-good-is)
-![](https://cdn.hackernoon.com/images/BgpvP1zzDpR0eeOpnpAHlZsoGxC2-47037bz.jpeg)
-It happens all the time—you search for anything in Google or Apple Store and get millions of suggested results
-
-### [305. Behind The Iron Curtain: Impact on Business & Finance. Interview with Elena Obukhova, Crypto Expert](https://hackernoon.com/behind-the-iron-curtain-impact-on-business-and-finance-interview-with-elena-obukhova-crypto-expert)
+### [304. Behind The Iron Curtain: Impact on Business & Finance. Interview with Elena Obukhova, Crypto Expert](https://hackernoon.com/behind-the-iron-curtain-impact-on-business-and-finance-interview-with-elena-obukhova-crypto-expert)
 ![](https://cdn.hackernoon.com/images/oQ9OCKk50pVg7mdDY84cm8fXJru2-2i93j3f.jpeg)
 Interview with Elena Obukhova explaining how the situation in Russia can affect the world economy. Brands and talents are on the run, crypto is at a high demand
+
+### [305. Who Gets to Decide What Good is?](https://hackernoon.com/who-gets-to-decide-what-good-is)
+![](https://cdn.hackernoon.com/images/BgpvP1zzDpR0eeOpnpAHlZsoGxC2-47037bz.jpeg)
+It happens all the time—you search for anything in Google or Apple Store and get millions of suggested results
 
 ### [306. The Best Way to Talk to Normal People About Cryptocurrency](https://hackernoon.com/the-best-way-to-talk-to-normal-people-about-cryptocurrency-pu2v320m)
 ![](https://images.unsplash.com/photo-1502919280275-1bed9aca68ab?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [coding-skills](https://hackernoon.com/tagged/coding-skills)
+### Let's learn about [Coding Skills](https://hackernoon.com/tagged/coding-skills) via these 284 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Coding skills are the abilities required to write, debug, and maintain computer programs in various languages. These skills are fundamental for anyone in software development and increasingly valuable across many industries.
+
 ### [1. How to Centre an Element in CSS with Tailwind](https://hackernoon.com/how-to-centre-an-element-in-css-with-tailwind)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-9n93pxk.jpeg)
 In this guide, we'll be covering how you can vertically and horizontally center an element or text with tailwind.
@@ -186,13 +190,13 @@ I will start with the first steps one usually does in AOSP; compile an Android A
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FbLQVnaI0nBYjqbryLYHp5mD7BWj1-yli03zn9.png?alt=media&token=c5762d76-9a00-48b1-a0b7-75b3d9256209)
 This is the article I wish I had read when I started coding. I will dive deep into 20 problem-solving techniques that you must know to excel at your next interview. 
 
-### [46. The RTK Query, API Splitting Approach, and the Nuances of "Making Life Simpler"](https://hackernoon.com/the-rtk-query-api-splitting-approach-and-the-nuances-of-making-life-simpler)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-qk13o9y.jpeg)
-RTK Query is definitely a cool library however it’s sadly not applicable to all of the use cases possible with an API. 
-
-### [47. I Increased My Typing Speed From 40 to 120 Wpm. Here’s How.](https://hackernoon.com/i-increased-my-typing-speed-from-40-to-120-wpm-heres-how)
+### [46. I Increased My Typing Speed From 40 to 120 Wpm. Here’s How.](https://hackernoon.com/i-increased-my-typing-speed-from-40-to-120-wpm-heres-how)
 ![](https://cdn.hackernoon.com/images/VQHzs3YzsjZrqby5Li4NH82bDPt2-42a3yw5.gif.webp)
 How making regular practice and working on small things like finger placement can help improve your typing speed from 40wpm all the way up to 120wpm. 
+
+### [47. The RTK Query, API Splitting Approach, and the Nuances of "Making Life Simpler"](https://hackernoon.com/the-rtk-query-api-splitting-approach-and-the-nuances-of-making-life-simpler)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-qk13o9y.jpeg)
+RTK Query is definitely a cool library however it’s sadly not applicable to all of the use cases possible with an API. 
 
 ### [48. Simplify CSS With a Few Easy Rules](https://hackernoon.com/simplify-css-with-a-few-easy-rules)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-zt03ocb.jpeg)
@@ -219,13 +223,13 @@ Teaching our youth to code means empowering future leaders and creators with the
 ![](https://cdn.hackernoon.com/images/yv273v7d.jpg)
 When I was in the process of learning web development, I was always thinking to myself: “Am I ready to start applying for jobs”, “How many things do I need to know before I start applying for jobs”, “When should I start applying for jobs”. These are probably one of the most important questions in your web development career and ones most people struggle with.
 
-### [54. 10 Best Coding Challenge Sites For Beginners ](https://hackernoon.com/10-best-coding-challenge-sites-for-beginners)
-![](https://cdn.hackernoon.com/images/FjuQRlqmKcOfiSIuovcoBj5uO053-58ex35zn.jpeg)
-Coding challenge websites are a great step to take after you learn one language. These will challenge your understanding of your language to deepen it further.
-
-### [55. The 19 Useful GitHub Repositories You Need to Become a Better Developer 🔥🚀](https://hackernoon.com/the-19-useful-github-repositories-you-need-to-become-a-better-developer)
+### [54. The 19 Useful GitHub Repositories You Need to Become a Better Developer 🔥🚀](https://hackernoon.com/the-19-useful-github-repositories-you-need-to-become-a-better-developer)
 ![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-0283ree.jpeg)
 This list includes valuable GitHub repositories for topics like learning, project ideas, career opportunities, data collections, database tools, and security.
+
+### [55. 10 Best Coding Challenge Sites For Beginners ](https://hackernoon.com/10-best-coding-challenge-sites-for-beginners)
+![](https://cdn.hackernoon.com/images/FjuQRlqmKcOfiSIuovcoBj5uO053-58ex35zn.jpeg)
+Coding challenge websites are a great step to take after you learn one language. These will challenge your understanding of your language to deepen it further.
 
 ### [56. Your Next Tech Job? Vibe Coding](https://hackernoon.com/your-next-tech-job-vibe-coding)
 ![](https://cdn.hackernoon.com/images/0YpRVHAHzoOaHDM0sL5prS3LoZA2-xj02v7m.png)
@@ -312,13 +316,13 @@ I have found some of the biggest, best, and most interactive platforms where you
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0OsuJYjJfZZvxMkT7xxp8hMhXhu1-m52g3y7u.jpeg?alt=media&token=befc60c4-31c8-4c0c-95a3-de0d138d6f4d)
 I just started learning React Native and I have to admit that, it’s super easy to start with and hot-reloading makes it amazing to develop and reload the application in no time. 
 
-### [77. How to Build a Customer Service Chatbot with Python, Flask, and Pinecone](https://hackernoon.com/how-to-build-a-customer-service-chatbot-with-python-flask-and-pinecone)
-![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-ka2639ui.jpeg)
-What if a customer asks a question, you could easily find previously asked similar questions and answers that could help them?
-
-### [78. Code Review: It's Bad, Expensive, and Ineffective [in most cases]](https://hackernoon.com/code-review-its-bad-expensive-and-ineffective-in-most-cases)
+### [77. Code Review: It's Bad, Expensive, and Ineffective [in most cases]](https://hackernoon.com/code-review-its-bad-expensive-and-ineffective-in-most-cases)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-rc0366f.png)
 I am reviewing a practice we’re all aware of: code review.
+
+### [78. How to Build a Customer Service Chatbot with Python, Flask, and Pinecone](https://hackernoon.com/how-to-build-a-customer-service-chatbot-with-python-flask-and-pinecone)
+![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-ka2639ui.jpeg)
+What if a customer asks a question, you could easily find previously asked similar questions and answers that could help them?
 
 ### [79. How to Learn Any Programming Language](https://hackernoon.com/how-to-learn-any-programming-language-h1313unr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FqeIv6rNygoYrUXBwG7uA2lPpLSj2-pv343vhc.jpeg?alt=media&token=7e88876f-042a-4713-8270-3788cda24a2f)
@@ -428,13 +432,13 @@ Over the past few months, I've seen more and more engineering teams move away fr
 ![](https://cdn.hackernoon.com/images/KlveZHHB1mTZqcSWAehh7gYTCJH2-ud93sjq.jpeg)
 Creating code is only a small part of what programmers do. To become a complete senior dev, you must master also these 5 other skills.
 
-### [106. I'm Too Old to Learn to Code, Right?](https://hackernoon.com/im-too-old-to-learn-to-code-right)
-![](https://cdn.hackernoon.com/images/O9izZrTnGpOVjnevoLWbwycCnFJ2-hmf3ok0.jpeg)
-Coding is for kids. At least that’s what some people say. But is there room for adults to learn too? Of course there is, find out more.
-
-### [107. The Future Of Web3 Gaming And How To Get Involved](https://hackernoon.com/the-future-of-web3-gaming-and-how-to-get-involved)
+### [106. The Future Of Web3 Gaming And How To Get Involved](https://hackernoon.com/the-future-of-web3-gaming-and-how-to-get-involved)
 ![](https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-uua3ax1.jpeg)
 Blockchains represent the future of gaming, and its becoming easier and easier for Web2 developers to jump into Web3 gaming through dedicated sdks. 
+
+### [107. I'm Too Old to Learn to Code, Right?](https://hackernoon.com/im-too-old-to-learn-to-code-right)
+![](https://cdn.hackernoon.com/images/O9izZrTnGpOVjnevoLWbwycCnFJ2-hmf3ok0.jpeg)
+Coding is for kids. At least that’s what some people say. But is there room for adults to learn too? Of course there is, find out more.
 
 ### [108. JavaScript's Evolution: From Vanilla to Modern ES2023 Features](https://hackernoon.com/javascripts-evolution-from-vanilla-to-modern-es2023-features)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8b92f0y.jpeg)
@@ -456,196 +460,196 @@ Here are the reasons why Smalltalk isn't dead.
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fx1Ku1ZlX5gS54YvjpjlUfUUePZw1-weq3tzl.jpeg?alt=media&token=259c96ff-8607-4b38-b4a6-8f8d0caf3b58)
 Bridging the gap between Application Developers and Data Scientists, the demand for Data Engineers rose up to 50% in 2020, especially due to increase in investments in AI-based SaaS products.
 
-### [113. Design and Simulation of a Green Energy Grid](https://hackernoon.com/design-and-simulation-of-a-green-energy-grid)
+### [113. How to Master Claude Code & Gemini Code Assist: A Guide on Agent Skills Architecture](https://hackernoon.com/how-to-master-claude-code-and-gemini-code-assist-a-guide-on-agent-skills-architecture)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-pw83baz.jpeg)
+Standardized MCP server for interacting with the Telegram Bot API (Messaging, Photos, Documents)
+
+### [114. Design and Simulation of a Green Energy Grid](https://hackernoon.com/design-and-simulation-of-a-green-energy-grid)
 ![](https://cdn.hackernoon.com/images/AhLTW0UyaTYLLCr8EOqCbvhF7Ul2-n693wnc.jpeg)
 Wondering how we'll transition to green energy? This article presents a simulation of the UK's grid, and explains how we might model different energy sources.
-
-### [114. Should Programmers Prioritize Hard Skills or Soft Skills?](https://hackernoon.com/should-programmers-prioritize-hard-skills-or-soft-skills)
-![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-z593pvd.jpeg)
-Hard skills are the tangible, measurable abilities that you need to get the job done. Soft skills, on the other hand, are intangible.
 
 ### [115. A Step-by-Step Introduction to CSS Preprocessors with VS Code  ](https://hackernoon.com/a-step-by-step-introduction-to-css-preprocessors-with-vs-code-5t3k3u3y)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FomkXEWM7jKhRvS5iJZ5CVWqld9T2-hr1j4uu5.jpeg?alt=media&token=716ca929-6e97-4733-bd2c-e68e2cd9a236)
 It is fun to build cool and good looking pages when you know CSS like the back of your hand. But when you have a few hundred lines of code, this is exactly when things begin to get complicated and messy. This is where CSS preprocessors come to play, helping you to manage and improve the maintainability of your code.
 
-### [116. Developer Side-Hustles: 5 Practical Ways to Monetize Your Coding Skills](https://hackernoon.com/developer-side-hustles-5-practical-ways-to-monetize-your-coding-skills)
+### [116. Should Programmers Prioritize Hard Skills or Soft Skills?](https://hackernoon.com/should-programmers-prioritize-hard-skills-or-soft-skills)
+![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-z593pvd.jpeg)
+Hard skills are the tangible, measurable abilities that you need to get the job done. Soft skills, on the other hand, are intangible.
+
+### [117. Developer Side-Hustles: 5 Practical Ways to Monetize Your Coding Skills](https://hackernoon.com/developer-side-hustles-5-practical-ways-to-monetize-your-coding-skills)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1t83k5i.jpeg)
 How to have a realistic side hustle as a developer. 
 
-### [117. Everything You Don't Know About ES Modules](https://hackernoon.com/everything-you-dont-know-about-es-modules-0j2631ww)
+### [118. Everything You Don't Know About ES Modules](https://hackernoon.com/everything-you-dont-know-about-es-modules-0j2631ww)
 ![](https://cdn.hackernoon.com/images/mInGmayyxOMvm3o6l2iN7KhHCib2-kg1e34p8.png)
 An explanation of ES modules by the exact specification and the node module resolution algorithm.
 
-### [118. How to Write Clean Code and Save Your Sanity ](https://hackernoon.com/how-to-write-clean-code-and-save-your-sanity)
+### [119. How to Write Clean Code and Save Your Sanity ](https://hackernoon.com/how-to-write-clean-code-and-save-your-sanity)
 ![](https://cdn.hackernoon.com/images/S0ghfRieyUPrITpL41YNPTuiHxZ2-qn92ban.png)
 Learn how to write clean code that will save you time, headaches, and sanity. This article covers practical strategies & tools to help you elevate your coding.
 
-### [119. Who Are You Writing That Code For Anyway?](https://hackernoon.com/who-are-you-writing-that-code-for-anyway-69cx310s)
+### [120. Who Are You Writing That Code For Anyway?](https://hackernoon.com/who-are-you-writing-that-code-for-anyway-69cx310s)
 ![](https://images.unsplash.com/photo-1569396116180-210c182bedb8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Special thanks to a number of people who reviewed this article and gave useful feedback and suggestions to me: Anya Roltsch, Frank Schubert, Olga Hollister, Ravi Varshney, Ashansu Pant, Marcus Blankenship, Sandra Jones, Taylor Davenport.
 
-### [120. 4 Ways to Hack a Career in Code, Faster](https://hackernoon.com/4-ways-to-hack-a-career-in-code-faster-wma13w5t)
+### [121. 4 Ways to Hack a Career in Code, Faster](https://hackernoon.com/4-ways-to-hack-a-career-in-code-faster-wma13w5t)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fm0roYAZBrtccjJeRbrYxPDpnmlw1-841u3w53.jpeg?alt=media&token=767f96c2-7968-48c0-9101-c4ada519fdf5)
 Learning to program can be brutal. You never know if you’re learning the right things, and it’s easy to become overwhelmed by how much content there is to learn. That brings up a good thought: How do you know when you’ve learned enough to start applying for jobs?
 
-### [121. From Cook to Code: My Journey of Becoming a Software Engineer](https://hackernoon.com/from-cook-to-code-my-journey-of-becoming-a-software-engineer)
-![](https://cdn.hackernoon.com/images/a-chef-inside-a-five-star-hotels-kitchen-who-is-stirring-a-pot-with-his-left-hand-and-typing-on-a-laptop-with-his-right-all-the-while-enjoying-himself-clejl48pb000001s6gtbz6ny0.png)
-After graduating high school with a degree in Food Technology, I dove headfirst into the world of restaurants and hospitality.
-
-### [122. Why Your Coding Portfolio Needs Libraries and Packages](https://hackernoon.com/why-your-coding-portfolio-needs-libraries-and-packages)
-![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-5393pex.jpeg)
-Building a job-ready portfolio of coding projects doesn't happen overnight, here's why you should include libraries and packages in yours. 
-
-### [123. How Working in a Big Silicon Valley Company Stalled My Career Growth](https://hackernoon.com/how-working-in-a-big-silicon-valley-company-stalled-my-career-growth)
-![](https://cdn.hackernoon.com/images/l61lXLP6ciWhnSiMVtVqNgQvDJ62-1i03sk5.jpeg)
-The problem is, without side projects, open-source contributions, or a blog - I’ve realized I couldn't grow my skills.
-
-### [124. Learning to Code: Is It Really That Difficult?](https://hackernoon.com/learning-to-code-is-it-really-that-difficult)
+### [122. Learning to Code: Is It Really That Difficult?](https://hackernoon.com/learning-to-code-is-it-really-that-difficult)
 ![](https://cdn.hackernoon.com/images/9S1vwdm8BSSIM68NViog8lnaQPi2-at92gv1.jpeg)
 Skills like coding scares a lot of people. The media has made it seem like writing computer code is a genius-level activity, as weird symbols race across the screen and techno music blares in the background.But the truth is that, coding is actually pretty easy.I’m not saying this to dismiss the work of brilliant programmers. A skill can simultaneously be fairly easy to get the basics in, while also being really difficult to master. Everyone learns to write, few people learn to write well. There’s no contradiction, therefore, in saying that basic literacy is an “easy” skill to acquire (in that the vast majority of us are able to do it), without dismissing the efforts of talented writers.Nor am I saying this to mock people who are trying to learn programming and find it frustrating.Rather, I say coding is easy because I believe that almost all people, even if they don’t see themselves as particularly smart, have the ability to learn to write simple programs. That they don’t is mostly due to some structural barriers than any intrinsic difficulty with the skill itself.My Experience CodingI started learning how to write code since I was 14. I’ve read a couple of O’Rielly books on programming, took even free courses on Coursera and Udemy. Watch thousands of hours on programming related videos on YouTube. I remember even working through the content of a Computer Science Degree online (which is totally unnecessary if you want to learn to code,by the way).If you take a closer look, in some ways... my background may seem to disqualify me about making statements on the ease of coding. However, I can say without a single doubt, that subjects like Accounting, Physics, Engineering and even Law are more difficult than programming.Most math you learn in high-school is more difficult too, believe it; although you usually get wayyyyy more practice with algebra than writing code, which leads to a misperception as to which is more difficult.Why Coding Feels HardLearning to code is hard for a couple reasons:Installing new languages can be super frustrating. This is the first activity for a wanna-be programmer. This can create the misperception that programming is really hard because newbies extrapolate the difficulty of getting set up to how it weill be every moment after.Also, there are waayyyyyyyy too many languages, frameworks tools, libraries and plug-ins. Starting programming is super overwhelming because there are a stadezillion things to learn and you have no idea where to start.The first moments of programming are the hardest. Getting set up is annoyingly difficult and often requires learning a new way of working with computers even before you write a single line of code.Consider the instructions for installing most languages:“Open the terminal or command prompt. Type in a case-sensitive exact set of instructions to download and install the language. Use GitHub. Homebrew. Versions matter too. Are you running 32 or 64 bit? ‘Cause if you’re not sure it will crash with a cryptic error message and you’ll feel like an idiot.”These tools are learnable, like everything else, but they reinforce the impression given by the media that coding is mostly using elite tools with weird, unfriendly user interfaces. When people see coding they imagine parsing the green-streaming letters on computer screens like the movie, The Matrix; whereas the truth is a lot more like following a recipe along step-by-step.How Do You Get Over the Initial Difficulties?There’s a few ways you can do this. My favorite is to just go to the language or technology official documentation, that will tell you exactly how to set up step-by-step.Alternatively, you can dive into internet tutorials (why do you think platforms like YouTube, Quora exists?), but recognize that sometimes they are aimed at already-proficient programmers, who know what OOP and GitHub are, and are fluent with writing commands into Terminal.If you get one of these, you can try to follow it, but don’t feel bad if you screw it up. It’s frustrating and it doesn’t mean all coding will be like this.Another option is to avoid setup at all. Just use some coding tutorial website that teach you to code without needing any installation. I like this too, but sometimes you can’t actually build the thing you want to build with these apps. However, if you hate the setup, that’s where I’d start.Most important, however, is to remember that I told you this. When you try to learn to code, it will be frustrating to get set up, and just accept that this is a small price to pay. Soon it will be easier and you’ll do stuff that is cool. Don’t feel dumb because you get stuck here, I still do and I’ve been writing code for years.What Language/Framework/Library Should I Start With?This seems like a good question to ask, but, I’d argue, it’s actually the wrong way to think about learning programming.First, despite the fact that programmers often boast about how many languages they know, recognize that most languages are only superficially different. Yes, I know all about language design, so don’t tell me about the importance of scripting versus compiling, or whether a language is strongly or weakly typed. Those things matter, but they’re details.The basics of nearly all languages and tools are the same. Variables. Loops. Functions. Pointers. Data Types. OOP. Modules. These concepts exist in almost all programming languages. If you pick a mainstream language, you’ll learn these in mostly the same way, so it doesn’t matter if you pick Python, JavaScript, C++, Java or even PHP.The place languages do matter is what you want to use them for.Want to write iPhone apps? Swift or Objective C are the languages of choice. Need to create web pages? JavaScript is going to come in handy. Yes, you can use almost any language for any task if you tinker with it and get the right plug-ins. However, some languages are easier to get started with certain types of projects than others.Therefore, the first question to ask is not: which language should I learn, but, which project should I start with?What Should Be Your First Project?I recommend starting your programming adventure, even before you write a single line of code, with a decision about a concrete programming project you’d like to create.This serves a couple purposes:It narrows down the language/framework choices considerably. Once you know you’re building a website, you’re already leaning towards tools that were designed with that goal in mind.Everything you learn is connected to a destination. Transfer of learning is notoriously difficult. Learning directly by building, works better than learning something and just hoping it will help you later.You can work on something you think is cool. If you think it would be cool to make an interactive website, do that. If you’d prefer a game, do that. If you’d prefer to automate some tedious work, do that instead. Do what you feel is cool and you’ll be motivated to stick to it.In general, smaller is better when it comes to projects. Deciding to start with making the next Google is ambitious, but probably will get you stuck in the weeds before you make much progress.If your true ambitious are huge, it’s often best to work on a toy project first. Many experienced programmers still do this when they are entering a new territory of programming. Toy projects take the essential ideas of programming, but turn it into something you can do in a few days or weeks, instead of years.Examples of good projects include:A basic terminal text-adventure game. No graphics, but still requires learning concepts like loops, variables, input-output processing.A simple website. Start with just displaying a static page. Maybe add in comments, users, photos or interactive elements as you learn more.A simple app. What’s something dead-simple you’d like to have on your phone? It can be stupid to start, don’t worry.A script for automating a tedious task.In general, programs are easier when they involve no multimedia content (websites are a bit of an exception), so if you’re making a game, for instance, a text game tends to be easier than one with graphics, if only because making all the graphics can take time.Similarly, different core activities have different difficulties. Arithmetic and simple calculations done repeatedly are easiest. Processing text for exact patterns is a bit harder. Processing text for vague patterns is harder still. Processing, speech, photos and video is even harder.If you do end up picking an initial project that turns out to be super difficult, it’s okay to scale back. “Make an application that calculates my mortgage payments” is much, much easier than “Make an application that can tell you what someone’s hairstyle is from a photo.” It’s often not obvious that this is the case in the beginning, so don’t worry if you accidentally pick a “hard” problem to start with, you can adjust it later to something easier.Which Resources Should You Use?Once you’ve picked a project, the next step is to get some resources to help. This is a step many people worry over endlessly, but like the language choice, it’s a lot less important (and depends more on your goals) than you think.I won’t list specific resources, because there are so many good ones that my suggestions are going to leave out some of the best. Instead, here’s three strategies for finding good resources:Get a book that teaches you the language + project you want. There should be a computer section in your city’s bookstore or library, you can just pick any of those. I personally like O’Reilly (they publish the best software development books), but there are lots of good ones. (If you haven’t figured out which language yet, just DuckDuckGo your type of project and look for suggestions.) I read the Self-taught programmer by Cory Altoff, the first time I wanted to learn Python.Attend a MOOC. Coursera, edX, MIT, Harvard, FreeCodeCamp and others all teach computer programming online. Once again, the thing that matters most isn’t the exact class, but whether it teaches the language/project domain you care about.Stressing over which book or course to pick is the wrong thing to worry about. The main thing to do is to use the book or course to learn enough to start tinkering on your project, not to master programming on its own. Starting your project before your ready is definitely the way you should feel about it.Do What Real Programmers Do and Ask DuckDuckGo/StackOverflow/GoogleOnce you actually get started writing code, you’re going to encounter many, many situations where you either don’t know how to do something, or you learned how to do it before and you’ve forgotten.In these situations, you should do what real programmers do: ask DuckDuckGo/Google/StackOverflow. This isn’t a shameful activity, but a part of real programming. I’ve been coding for years, but I always forget silly syntactical things and so I find myself duckduckgoing regular expressions over and over again. It’s not bad, it’s just part of the process.Once you’ve gotten yourself installed, you’ve learned a bit with your book to know the basics and have started working on your first project, you’ll learn the rest by googling and adding to your library of programming knowledge. Computer science theories, detailed understandings of the language you’re working with or advanced design patterns can wait until you’ve finished a few real projects and feel like you can code something.Notice #1: Don’t Copy-and-PasteA first piece of advice when it comes to this step is to never copy-and-paste. Copy-and-pasting is bad because you don’t try to understand the code you’re copying. If you have to transcribe, in contrast, you naturally ask yourself, “why this? why not something else?” Even if you don’t have a great answer immediately, typing things for yourself will open your mind up to the answer whereas copy-and-pasting shuts down thinking.Notice #2: Try it Yourself Before Looking for a SolutionA second piece of advice is to always try to solve something yourself before looking up how someone else does it. Most problems have many, many ways they can be solved. The challenge is that expert programmers often know a particularly concise, clever way, but that often isn’t the “obvious” way.This can lead to a trap where you see a clever solution that employs tricky syntax, think that there was no way you would have guessed that solution, and believe you couldn’t have solved it on your own. That’s usually not true, yet it’s an unfortunate side effect of looking up solutions before trying to find your own.Summary of AdvThisisting up is frustrating.
 
-### [125. How to Create an Azure API Management Instance using Bicep Lang via Azure DevOps](https://hackernoon.com/how-to-create-an-azure-api-management-instance-using-bicep-lang-via-azure-devops-9s2t379d)
+### [123. From Cook to Code: My Journey of Becoming a Software Engineer](https://hackernoon.com/from-cook-to-code-my-journey-of-becoming-a-software-engineer)
+![](https://cdn.hackernoon.com/images/a-chef-inside-a-five-star-hotels-kitchen-who-is-stirring-a-pot-with-his-left-hand-and-typing-on-a-laptop-with-his-right-all-the-while-enjoying-himself-clejl48pb000001s6gtbz6ny0.png)
+After graduating high school with a degree in Food Technology, I dove headfirst into the world of restaurants and hospitality.
+
+### [124. Why Your Coding Portfolio Needs Libraries and Packages](https://hackernoon.com/why-your-coding-portfolio-needs-libraries-and-packages)
+![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-5393pex.jpeg)
+Building a job-ready portfolio of coding projects doesn't happen overnight, here's why you should include libraries and packages in yours. 
+
+### [125. How Working in a Big Silicon Valley Company Stalled My Career Growth](https://hackernoon.com/how-working-in-a-big-silicon-valley-company-stalled-my-career-growth)
+![](https://cdn.hackernoon.com/images/l61lXLP6ciWhnSiMVtVqNgQvDJ62-1i03sk5.jpeg)
+The problem is, without side projects, open-source contributions, or a blog - I’ve realized I couldn't grow my skills.
+
+### [126. How to Create an Azure API Management Instance using Bicep Lang via Azure DevOps](https://hackernoon.com/how-to-create-an-azure-api-management-instance-using-bicep-lang-via-azure-devops-9s2t379d)
 ![](https://cdn.hackernoon.com/images/pffQtygCu8Uaa9SSArIb41t2PYU2-rn3z35ko.jpeg)
 The more I use Bicep, the more I love it. This is what ARM Templates should have been.
 
-### [126. A Better Way to Pass Technical Interviews](https://hackernoon.com/a-better-way-to-pass-technical-interviews)
+### [127. A Better Way to Pass Technical Interviews](https://hackernoon.com/a-better-way-to-pass-technical-interviews)
 ![](https://cdn.hackernoon.com/images/aFz8nDDJ2cYOaAhD2FeAU6W48pw1-y02375b.jpeg)
 To LeetCode or not to LeetCode? What if you don't want to practice 100s of coding questions before your next coding interview?
 
-### [127. Build Smooth Page Transitions with React and GSAP](https://hackernoon.com/build-smooth-page-transitions-with-react-and-gsap-ou133uyt)
+### [128. Build Smooth Page Transitions with React and GSAP](https://hackernoon.com/build-smooth-page-transitions-with-react-and-gsap-ou133uyt)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6gIrvIcQwUepoybsXCq5ZrclLxq2-zg773yrj.webp?alt=media&token=a19bfaf0-7fcf-4c63-9f4d-99d6d0a44888)
 Check out what you'll be able to do here
 
-### [128. Top 12 FAQs About PostgreSQL](https://hackernoon.com/top-12-faqs-about-postgresql-je263uwk)
+### [129. Top 12 FAQs About PostgreSQL](https://hackernoon.com/top-12-faqs-about-postgresql-je263uwk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaHcUME45O0Sw3JLt9OGFJpazIvO2-zkf28bk.jpeg?alt=media&token=04b451dd-90f1-42de-a416-082eee2c0c14)
 PostgreSQL is an open-source, object-relational database management 
 system (ORDBMS) available for all major platforms including Linux, UNIX,
  Windows, and OS X. It allows you to add custom functions developed using different programming languages  such as C/C++, Java, etc. It is designed to handle a range of workloads, from single machines to data warehouses or Web services with many concurrent users. It is the default database for macOS Server.
 
-### [129. Logical Replication: Real-time Web Updates From Your PostgreSQL Database](https://hackernoon.com/logical-replication-real-time-web-updates-from-your-postgresql-database)
-![](https://cdn.hackernoon.com/images/7ezgpQALEDUxT0GWyNN2szHCP0l2-2xft327e.jpeg)
-I wrote a small open-source library that combines dotNetify with PostgreSQL logical replication. 
-
-### [130. 8 Essential Tips To Make Your JavaScript Code Perform Faster](https://hackernoon.com/8-essential-tips-to-make-your-javascript-code-perform-faster-6nr320p)
-![](https://images.unsplash.com/photo-1506719040632-7d586470c936?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-JavaScript has ranked as the most popular language in the world by the StackOverflow survey for the seventh year in a row. With the rising popularity of JavaScript, it is clear that it is the most used language for coding frontend applications. It is interesting to note that visitors to websites, lose interest or leave your website if the content doesn’t load within two seconds. The two seconds benchmark is hard to keep up with and that means you need to optimize your JavaScript code for better performance. In this blog post, we will learn some quick tips that you can follow to keep you JavaScript code concise and improve the overall performance of your application. Alright, let’s dive in.
-
-### [131. What Is the Difference Between the Created and Mounted in Vue?](https://hackernoon.com/what-is-the-difference-between-the-created-and-mounted-in-vue)
+### [130. What Is the Difference Between the Created and Mounted in Vue?](https://hackernoon.com/what-is-the-difference-between-the-created-and-mounted-in-vue)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-5na3kxc.jpeg)
 Both created and mounted seem to do the same thing in Vue, but there are differences. Let's look at when to use created and mounted in Vue.
 
-### [132. Golden Rules of Code Reviews](https://hackernoon.com/golden-rules-of-code-reviews)
+### [131. Logical Replication: Real-time Web Updates From Your PostgreSQL Database](https://hackernoon.com/logical-replication-real-time-web-updates-from-your-postgresql-database)
+![](https://cdn.hackernoon.com/images/7ezgpQALEDUxT0GWyNN2szHCP0l2-2xft327e.jpeg)
+I wrote a small open-source library that combines dotNetify with PostgreSQL logical replication. 
+
+### [132. 8 Essential Tips To Make Your JavaScript Code Perform Faster](https://hackernoon.com/8-essential-tips-to-make-your-javascript-code-perform-faster-6nr320p)
+![](https://images.unsplash.com/photo-1506719040632-7d586470c936?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+JavaScript has ranked as the most popular language in the world by the StackOverflow survey for the seventh year in a row. With the rising popularity of JavaScript, it is clear that it is the most used language for coding frontend applications. It is interesting to note that visitors to websites, lose interest or leave your website if the content doesn’t load within two seconds. The two seconds benchmark is hard to keep up with and that means you need to optimize your JavaScript code for better performance. In this blog post, we will learn some quick tips that you can follow to keep you JavaScript code concise and improve the overall performance of your application. Alright, let’s dive in.
+
+### [133. Golden Rules of Code Reviews](https://hackernoon.com/golden-rules-of-code-reviews)
 ![](https://cdn.hackernoon.com/images/q7Nlh0gq9YbV5oOwHCBGWNH0ZQo2-xe93kmk.png)
 Whether you are code reviewing at work, on an Open Source project, or in a university classroom, these five tips will help you, help the code Author, and help t
 
-### [133. In Vietnam, Coin 98, Solana, and Sentre to launch the Break The Web 3.0 Ice Coding Camp](https://hackernoon.com/in-vietnam-coin-98-solana-and-sentre-to-launch-the-break-the-web-30-ice-coding-camp)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-dc93q59.jpeg)
-The Solana Foundation, in collaboration with Coin98 and Sentre, is thrilled to host an event, "Break the Web 3.0 ice with Solana", in Vietnam.
-
-### [134. Using HTML And CSS To Create An Image Slider ](https://hackernoon.com/using-html-and-css-to-create-an-image-slider)
-![](https://cdn.hackernoon.com/images/GRZpzqpoJyMvFZW6lPH4PI3T5HB2-12b3j51.jpeg)
-In this section, we learn how to create an image slider using HTML and CSS that would be great on the front page of your website as a visual element.  
-
-### [135. How to Build The Flames Love Calculator Game in C#](https://hackernoon.com/how-to-build-the-flames-love-calculator-game-in-c)
+### [134. How to Build The Flames Love Calculator Game in C#](https://hackernoon.com/how-to-build-the-flames-love-calculator-game-in-c)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-nvc3yok.jpeg)
 Discover the true spark of your love with this fun and romantic game! Enter your name and the name of your partner, and let Flame Game do the rest.
 
-### [136. Creating a Strong Code Quality Culture in Your Organization](https://hackernoon.com/creating-a-strong-code-quality-culture-in-your-organization)
-![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-8093lwq.jpeg)
-Learn how to build a culture of code quality to improve maintainability, scalability, and efficiency, and stay ahead of the competition.
+### [135. In Vietnam, Coin 98, Solana, and Sentre to launch the Break The Web 3.0 Ice Coding Camp](https://hackernoon.com/in-vietnam-coin-98-solana-and-sentre-to-launch-the-break-the-web-30-ice-coding-camp)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-dc93q59.jpeg)
+The Solana Foundation, in collaboration with Coin98 and Sentre, is thrilled to host an event, "Break the Web 3.0 ice with Solana", in Vietnam.
+
+### [136. Using HTML And CSS To Create An Image Slider ](https://hackernoon.com/using-html-and-css-to-create-an-image-slider)
+![](https://cdn.hackernoon.com/images/GRZpzqpoJyMvFZW6lPH4PI3T5HB2-12b3j51.jpeg)
+In this section, we learn how to create an image slider using HTML and CSS that would be great on the front page of your website as a visual element.  
 
 ### [137. Understanding the Vim. Repeat Function](https://hackernoon.com/understanding-the-vim-repeat-function)
 ![](https://cdn.hackernoon.com/images/l7ssEQgsMkaOm6HSQ0nZnhqBalf2-4n92r4t.jpeg)
 A cursory look at how the Vim Repeat Function makes your coding life easier. 
 
-### [138. How to Choose a web Application Framework ](https://hackernoon.com/how-to-choose-a-web-application-framework)
+### [138. Creating a Strong Code Quality Culture in Your Organization](https://hackernoon.com/creating-a-strong-code-quality-culture-in-your-organization)
+![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-8093lwq.jpeg)
+Learn how to build a culture of code quality to improve maintainability, scalability, and efficiency, and stay ahead of the competition.
+
+### [139. How to Choose a web Application Framework ](https://hackernoon.com/how-to-choose-a-web-application-framework)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-r013och.jpeg)
 In this article, you will get a chance to look at the criteria you must consider before you choose a framework for your project.
 
-### [139. The Meaning of Functions in Julia](https://hackernoon.com/the-meaning-of-functions-in-julia-ix1u3u1p)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnCSawKc6NmOIK1EkzNlN1Sb5Hal1-n5613xsa.jpeg?alt=media&token=40efcd48-ac4a-4d37-aa83-b198feb0f78f)
-When I first learned about the Julia programming language, there were a few things that gave me the "wat" moments. One of those surprises involves both the naming and meaning of functions.
-
-### [140. Learn to Code, Make Money: How to Turn Programming Skills Into Income ](https://hackernoon.com/learn-to-code-make-money-how-to-turn-programming-skills-into-income-ja4d3wh5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fu3qVo2WROTMxSLc8HT3bCHB2xdA3-4zj3xhe.jpeg?alt=media&token=1a30df6d-5fdb-4edc-ae07-09d8125b4762)
-With the number of career paths available for a programmer, many programmers choose the 9-6 job and have a goal to get a job in FANG (Facebook, Amazon, Netflix, and Google) without realizing or probably not aware of these alternatives ways. Earn money with Coding Skills is actually quite easy than acquiring those skills so if you have the coding skills, you are halfway there. We live in a digital world and it doesn't run without a proper code.
-
-### [141. How to Write Your First PHP Code](https://hackernoon.com/how-to-write-your-first-php-code-9f1f33e3)
+### [140. How to Write Your First PHP Code](https://hackernoon.com/how-to-write-your-first-php-code-9f1f33e3)
 ![](https://cdn.hackernoon.com/images/mDsj2387wdN4dArKgC2UNVj38ru1-oc2u33jx.jpeg)
 PHP stands for PHP: Hypertext Preprocessor and is a widely-used, open source server-side scripting language.
+
+### [141. The Meaning of Functions in Julia](https://hackernoon.com/the-meaning-of-functions-in-julia-ix1u3u1p)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnCSawKc6NmOIK1EkzNlN1Sb5Hal1-n5613xsa.jpeg?alt=media&token=40efcd48-ac4a-4d37-aa83-b198feb0f78f)
+When I first learned about the Julia programming language, there were a few things that gave me the "wat" moments. One of those surprises involves both the naming and meaning of functions.
 
 ### [142. ChatGPT Will Change Cybersecurity…but How?](https://hackernoon.com/chatgpt-will-change-cybersecuritybut-how)
 ![](https://cdn.hackernoon.com/images/fPl2HWUhK6R1u9wkjpfEpXkRwYz1-uja3p8f.jpeg)
 It's not unusual for AI to suggest insecure code. We need to train against this.
 
-### [143. Why Side Projects Are Important ](https://hackernoon.com/why-side-projects-are-important-e310341r)
+### [143. Learn to Code, Make Money: How to Turn Programming Skills Into Income ](https://hackernoon.com/learn-to-code-make-money-how-to-turn-programming-skills-into-income-ja4d3wh5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fu3qVo2WROTMxSLc8HT3bCHB2xdA3-4zj3xhe.jpeg?alt=media&token=1a30df6d-5fdb-4edc-ae07-09d8125b4762)
+With the number of career paths available for a programmer, many programmers choose the 9-6 job and have a goal to get a job in FANG (Facebook, Amazon, Netflix, and Google) without realizing or probably not aware of these alternatives ways. Earn money with Coding Skills is actually quite easy than acquiring those skills so if you have the coding skills, you are halfway there. We live in a digital world and it doesn't run without a proper code.
+
+### [144. Why Side Projects Are Important ](https://hackernoon.com/why-side-projects-are-important-e310341r)
 ![](https://cdn.hackernoon.com/images/IGXI0VtzPmVCh9D2pnvTqBtHrHJ3-xe1t28kb.jpeg)
 To some, the idea of side projects is an unwelcomed distraction. They
 have what they need to do, and they need to get it done before the next
 thing. For others, side projects are a key motivation of the day-to-
 day.
 
-### [144. The Myths and Realities of Bug-Free Code](https://hackernoon.com/the-myths-and-realities-of-bug-free-code)
+### [145. The Myths and Realities of Bug-Free Code](https://hackernoon.com/the-myths-and-realities-of-bug-free-code)
 ![](https://cdn.hackernoon.com/images/yJx6Jb9xDbaeUH6oktJcQUQy9xR2-ji93lw7.jpeg)
 
 
-### [145. Learning Rust in Lockdown](https://hackernoon.com/learning-rust-in-lockdown-6a473ux4)
+### [146. Learning Rust in Lockdown](https://hackernoon.com/learning-rust-in-lockdown-6a473ux4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FCSbLHHNZLDOz8T7j0N7RDb865w43-1o5f284i.jpeg?alt=media&token=8d52ee9a-c0e8-48c9-866d-ff5781581886)
 The COVID19 lockdown has been a pretty challenging time for everyone.  Staying sane without the social interactions we normally have can be difficult.  I took the time to learn a new programming language.  This served several purposes.  
 
-### [146. Top 10 Topics for System Design Interviews - Part 1](https://hackernoon.com/top-10-topics-for-system-design-interviews-part-1)
+### [147. Top 10 Topics for System Design Interviews - Part 1](https://hackernoon.com/top-10-topics-for-system-design-interviews-part-1)
 ![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-ks832ci.jpeg)
 Scale system design interviews with these essential topics—scalability, fault tolerance, data storage, caching, message queues, and event-driven architecture.
 
-### [147. How to Get Better at Solving Programming Problems](https://hackernoon.com/how-to-get-better-at-solving-programming-problems-cq2b3339)
+### [148. How to Get Better at Solving Programming Problems](https://hackernoon.com/how-to-get-better-at-solving-programming-problems-cq2b3339)
 ![](https://cdn.hackernoon.com/images/1k2eWiUClgQ4VZSz8evAFbbCf1A3-y62s335v.jpeg)
 Getting better at problem-solving requires more than just reps. It’s also how you go about it. We discuss How to Get Better at Solving Programming Problems.
 
-### [148. Coding for Fun and Coding for Work: Why It's Important to Make Coding a Hobby](https://hackernoon.com/coding-for-fun-and-coding-for-work-why-its-important-to-make-coding-a-hobby)
+### [149. Coding for Fun and Coding for Work: Why It's Important to Make Coding a Hobby](https://hackernoon.com/coding-for-fun-and-coding-for-work-why-its-important-to-make-coding-a-hobby)
 ![](https://cdn.hackernoon.com/images/hm3Gh4d6DYQvr4czxnUrx2w8Sqz1-5892k9f.jpeg)
 If your goal is to have a successful career in coding, your chances of reaching this goal will be higher if programming for you is a hobby.
 
-### [149. A Nullish Coalescing (in JS) Tutorial for Normal People](https://hackernoon.com/a-nullish-coalescing-in-js-tutorial-for-normal-people)
-![](https://cdn.hackernoon.com/images/a-person-reading-the-greatest-book-in-the-world-vkocego67ohcopgz5twibej3.png)
-Nullish coalescing is a new feature that helps make that a whole lot easier. In this post, we’ll explain nullish coalescing. 
-
-### [150. A Guide to Deploying Jaeger on Kubernetes in Production](https://hackernoon.com/a-guide-to-deploying-jaeger-on-kubernetes-in-production-0p2n3tub)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FjXed9vf1PqWWqc2FaVerNOOqaXy2-vl3s3tyq.jpeg?alt=media&token=216e857b-52b7-4d3b-a086-c399820bf036)
-Logs, metrics, and traces are the three pillars of the Observability world. The distributed tracing world, in particular, has seen a lot of innovation in recent months, with OpenTelemetry standardization and with Jaeger open source project graduating from the CNCF incubation. 
-
-### [151. Introduction to Git: Basic Commands Everyone Should Know](https://hackernoon.com/introduction-to-git-basic-commands-everyone-should-know-c53e31sr)
-![](https://cdn.hackernoon.com/images/9S1vwdm8BSSIM68NViog8lnaQPi2-8t3v210e.jpeg)
-In the previous article, we talked about the basic concepts of Git every developer should know. In this article, I will be explaining to you what Git is, and the basic commands to get you up and running. Let’s get started!
-
-### [152. 10 Expert Tips for Improving Code Reviews: A Guide for Developers](https://hackernoon.com/10-expert-tips-for-improving-code-reviews-a-guide-for-developers)
+### [150. 10 Expert Tips for Improving Code Reviews: A Guide for Developers](https://hackernoon.com/10-expert-tips-for-improving-code-reviews-a-guide-for-developers)
 ![](https://cdn.hackernoon.com/images/OaKbDySLt9XUEwmFIQVq3BBEYot1-3893pux.jpeg)
 Code reviews are an essential part of the software development process. In this article, we'll discuss 10 best practices for conducting effective code reviews, 
 
-### [153. 5 Most In-Demand Tech Skills to Learn and Empower Your Tech Career](https://hackernoon.com/5-most-in-demand-tech-skills-to-learn-and-empower-your-tech-career)
+### [151. A Nullish Coalescing (in JS) Tutorial for Normal People](https://hackernoon.com/a-nullish-coalescing-in-js-tutorial-for-normal-people)
+![](https://cdn.hackernoon.com/images/a-person-reading-the-greatest-book-in-the-world-vkocego67ohcopgz5twibej3.png)
+Nullish coalescing is a new feature that helps make that a whole lot easier. In this post, we’ll explain nullish coalescing. 
+
+### [152. A Guide to Deploying Jaeger on Kubernetes in Production](https://hackernoon.com/a-guide-to-deploying-jaeger-on-kubernetes-in-production-0p2n3tub)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FjXed9vf1PqWWqc2FaVerNOOqaXy2-vl3s3tyq.jpeg?alt=media&token=216e857b-52b7-4d3b-a086-c399820bf036)
+Logs, metrics, and traces are the three pillars of the Observability world. The distributed tracing world, in particular, has seen a lot of innovation in recent months, with OpenTelemetry standardization and with Jaeger open source project graduating from the CNCF incubation. 
+
+### [153. Introduction to Git: Basic Commands Everyone Should Know](https://hackernoon.com/introduction-to-git-basic-commands-everyone-should-know-c53e31sr)
+![](https://cdn.hackernoon.com/images/9S1vwdm8BSSIM68NViog8lnaQPi2-8t3v210e.jpeg)
+In the previous article, we talked about the basic concepts of Git every developer should know. In this article, I will be explaining to you what Git is, and the basic commands to get you up and running. Let’s get started!
+
+### [154. 5 Most In-Demand Tech Skills to Learn and Empower Your Tech Career](https://hackernoon.com/5-most-in-demand-tech-skills-to-learn-and-empower-your-tech-career)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-65038tm.jpeg)
 If you want to empower your tech career or if you want to switch into a tech career, here are the most in-demand tech skills you can learn.
 
-### [154. The Odin Project Helped Me Escape Tutorial Hell and Changed the Way I Learn Code](https://hackernoon.com/the-odin-project-helped-me-escape-tutorial-hell-and-changed-the-way-i-learn-code)
+### [155. The Odin Project Helped Me Escape Tutorial Hell and Changed the Way I Learn Code](https://hackernoon.com/the-odin-project-helped-me-escape-tutorial-hell-and-changed-the-way-i-learn-code)
 ![](https://cdn.hackernoon.com/images/UF3Ri4poFsf3HWltLaPVOxlJ0OW2-vl137m0.png)
 Escaped tutorial hell via The Odin Project vs Udemy’s shallow courses. Built real coding skills with hands-on projects—free & effective. No shortcuts.
 
-### [155. How to Use console.log() Like a Pro: A Brief Guide](https://hackernoon.com/how-to-use-consolelog-like-a-pro-a-brief-guide-ho2x37fh)
+### [156. How to Use console.log() Like a Pro: A Brief Guide](https://hackernoon.com/how-to-use-consolelog-like-a-pro-a-brief-guide-ho2x37fh)
 ![](https://cdn.hackernoon.com/images/XFw52Oir3LftVqDwBIRCq5g4Vp53-fe7p3586.jpeg)
 Using console.log() for JavaScript debugging is the most common practice among developers. But, there is more...
 
 
 
-### [156. Vanilla JS to Jquery: The Noobs Guide](https://hackernoon.com/vanilla-js-to-jquery-the-noobs-guide-gwy3ubj)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fc19IlEQcgCXavk4OhbVTzHb68O12-1f5i3tkk.jpeg?alt=media&token=b81a1d6b-7ff7-449a-85fb-8d89d43ade22)
-I have been haunted and daunted by Javascript for almost a decade i.e. 10+ Years. These years do make a history for me in programming. Today while teaching one of my newly made friends on a quick course to programming, I stumbled upon some things that I should share and that is Javascript. Let us try to understand it with some examples.
-
 ### [157. 5 Best Practices for Writing Efficient Python Code](https://hackernoon.com/5-best-practices-for-writing-efficient-python-code)
 ![](https://cdn.hackernoon.com/images/mZGnGVFc4QQ9Dzv5a5vjYGpkHLS2-y993663.jpeg)
 In this article, we'll discuss some basic principles of coding in python that can help you optimize your programs' performance. 
 
-### [158. What is Scala and Should it be Your First Programming Language?](https://hackernoon.com/what-is-scala-and-should-it-be-your-first-programming-language-4s343z7a)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fwqn8FTTUlabc0wgqLiB1u2A5wgr1-6fm3wz0.jpeg?alt=media&token=ad05265c-f06d-447c-8a2c-22cbb9be3ce2)
-In the early 2000s, the future of Java looked doubtful. Other programming languages had emerged, and Java no longer looked as attractive as it once had, even though it was still very widely used.  Along came Scala. 
+### [158. Vanilla JS to Jquery: The Noobs Guide](https://hackernoon.com/vanilla-js-to-jquery-the-noobs-guide-gwy3ubj)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fc19IlEQcgCXavk4OhbVTzHb68O12-1f5i3tkk.jpeg?alt=media&token=b81a1d6b-7ff7-449a-85fb-8d89d43ade22)
+I have been haunted and daunted by Javascript for almost a decade i.e. 10+ Years. These years do make a history for me in programming. Today while teaching one of my newly made friends on a quick course to programming, I stumbled upon some things that I should share and that is Javascript. Let us try to understand it with some examples.
 
 ### [159. Do Not Fear Dynamic Programming (Part 1)](https://hackernoon.com/do-not-fear-dynamic-programming-part-1)
 ![](https://cdn.hackernoon.com/images/Y2fAHbtIx0dvnHB1xqBk1zw8SQl1-gj832ha.jpeg)
@@ -655,46 +659,46 @@ Dyanmic Programming isn't as hard as people think. We'll break it down in this g
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-jo93xav.jpeg)
 In this blog post, I will explore Docker containerization in depth, including its benefits, use cases, and how it works.
 
-### [161. Dictionaries in Python: What You Should Know](https://hackernoon.com/dictionaries-in-python-what-you-should-know)
+### [161. What is Scala and Should it be Your First Programming Language?](https://hackernoon.com/what-is-scala-and-should-it-be-your-first-programming-language-4s343z7a)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fwqn8FTTUlabc0wgqLiB1u2A5wgr1-6fm3wz0.jpeg?alt=media&token=ad05265c-f06d-447c-8a2c-22cbb9be3ce2)
+In the early 2000s, the future of Java looked doubtful. Other programming languages had emerged, and Java no longer looked as attractive as it once had, even though it was still very widely used.  Along came Scala. 
+
+### [162. Dictionaries in Python: What You Should Know](https://hackernoon.com/dictionaries-in-python-what-you-should-know)
 ![](https://cdn.hackernoon.com/images/e4cwcBBfPIYqCiH6kehr6SpkmAT2-uf93poh.jpeg)
 Everything you have to know to safely Implement Dictionaries and Sets in Python.
 
 
-### [162. A Guide to Effective PR Reviews - Part 1](https://hackernoon.com/a-guide-to-effective-pr-reviews-part-1)
-![](https://cdn.hackernoon.com/images/l61lXLP6ciWhnSiMVtVqNgQvDJ62-mb03lsb.webp)
-Code reviews aren't something many of us are "taught" but all have to learn. How to approach a code review from a POV that will benefit your entire team.
-
-### [163. What is Variable Naming, You Ask? Here's How it Could Save Your Life](https://hackernoon.com/what-is-variable-naming-you-ask-heres-how-it-could-save-your-life-5y4k31r8)
-![](https://cdn.hackernoon.com/images/ALSyAi5ZU5dIWubq4KkOLe9EeWj2-na4w35mx.jpeg)
-Variable naming saves lives: here's a real life example.
-
-### [164. Modernizing Legacy Code in Production ](https://hackernoon.com/modernizing-legacy-code-in-production)
+### [163. Modernizing Legacy Code in Production ](https://hackernoon.com/modernizing-legacy-code-in-production)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-ag92e7j.jpeg)
 Rewriting apps is easy. Doing it while preserving compatibility... That's a bit hard. Doing it live in production. That's the big challenge!
+
+### [164. What is Variable Naming, You Ask? Here's How it Could Save Your Life](https://hackernoon.com/what-is-variable-naming-you-ask-heres-how-it-could-save-your-life-5y4k31r8)
+![](https://cdn.hackernoon.com/images/ALSyAi5ZU5dIWubq4KkOLe9EeWj2-na4w35mx.jpeg)
+Variable naming saves lives: here's a real life example.
 
 ### [165. Simple Tips to Boost Your Productivity in 2021 (Part 2)](https://hackernoon.com/simple-tips-to-boost-your-productivity-in-2021-guide-part-2-8z4x323k)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-zkcr32o8.gif)
 Another ten productivity tips for programmers to help improve workflow and efficiency in 2021.
 
-### [166. Building A Page Scroll in JavaScript](https://hackernoon.com/building-a-page-scroll-in-javascript-1j1g35y1)
-![](https://cdn.hackernoon.com/images/GRZpzqpoJyMvFZW6lPH4PI3T5HB2-pg4t34zo.jpeg)
-To understand scroll in Javascript, we cover an example to understand scroll position, animate on scroll, and navigation, etc.
-
-### [167. How to Use Kong for Full-stack Application Deployments with Kubernetes](https://hackernoon.com/how-to-use-kong-for-full-stack-application-deployments-with-kubernetes-hm1x37nc)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-jy1p37o4.jpeg)
-Kubernetes has become the name of the game when it comes to container orchestration. It allows teams to deploy and scale applications to meet changes in demand while providing a great developer experience.
-
-### [168. 5 Coding Interview Mistakes You Need to Stop Making](https://hackernoon.com/5-coding-interview-mistakes-you-need-to-stop-making)
+### [166. 5 Coding Interview Mistakes You Need to Stop Making](https://hackernoon.com/5-coding-interview-mistakes-you-need-to-stop-making)
 ![](https://cdn.hackernoon.com/images/a-software-engineer-being-interviewed-for-a-job-he-looks-nervous-as-the-interviewer-looks-at-him-disapprovingly-mtqikb7mnhawl0lvbt6bfpe1.png)
 Tired of failing your coding interviews? In this article, I cover the top 5 mistakes software engineers make during their coding interviews. 
 
-### [169. How Do You Find the Longest Common Subsequence of Two Strings in Java?](https://hackernoon.com/how-do-you-find-the-longest-common-subsequence-of-two-strings-in-java)
+### [167. How Do You Find the Longest Common Subsequence of Two Strings in Java?](https://hackernoon.com/how-do-you-find-the-longest-common-subsequence-of-two-strings-in-java)
 ![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-dba3pn6.jpeg)
 Strings are nothing but a combination of characters, and working on strings is a common part of a programmer’s life.  
 
-### [170. Fundamental Concepts of Angular](https://hackernoon.com/fundamental-concepts-of-angular-c21l31qv)
+### [168. How to Use Kong for Full-stack Application Deployments with Kubernetes](https://hackernoon.com/how-to-use-kong-for-full-stack-application-deployments-with-kubernetes-hm1x37nc)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-jy1p37o4.jpeg)
+Kubernetes has become the name of the game when it comes to container orchestration. It allows teams to deploy and scale applications to meet changes in demand while providing a great developer experience.
+
+### [169. Fundamental Concepts of Angular](https://hackernoon.com/fundamental-concepts-of-angular-c21l31qv)
 ![](https://cdn.hackernoon.com/images/l13yNZx0OPN39hqL2pJ02CRRxsu1-w27831kc.jpeg)
 Fundamental Concepts of Angular for beginners to advanced level developers.
+
+### [170. Building A Page Scroll in JavaScript](https://hackernoon.com/building-a-page-scroll-in-javascript-1j1g35y1)
+![](https://cdn.hackernoon.com/images/GRZpzqpoJyMvFZW6lPH4PI3T5HB2-pg4t34zo.jpeg)
+To understand scroll in Javascript, we cover an example to understand scroll position, animate on scroll, and navigation, etc.
 
 ### [171. 6 Simple Steps to Import a Project to Azure Repos from Git](https://hackernoon.com/6-simple-steps-to-import-a-project-to-azure-repos-from-git-p53b338j)
 ![](https://cdn.hackernoon.com/images/aWeuhEqfLzNsvET8lSU6HiYqFYg1-4c7d32t8.jpeg)
@@ -704,33 +708,33 @@ This article will explain how to import a project from Git to Azure Repos in 6 e
 ![](https://cdn.hackernoon.com/images/GvaUlAhhRtfNi79Dei3C0qqsJWk1-w8n31pu.png)
 The map method is a part of ES6 that is especially useful for React developers. What is it and how does it work? Let's take a look.
 
-### [173. Important Tips for Using React Query: Part 1](https://hackernoon.com/important-tips-for-using-react-query-part-1-o42y33d5)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-f31f28oa.jpeg)
-I’ve been using React Query in real world applications for over 8 months now, and I want to share with you some of the things I found useful when using it
-
-### [174. Using the Two-Pointer Kotlin Approach to Solve for the Container with the Most Water](https://hackernoon.com/using-the-two-pointer-kotlin-approach-to-solve-for-the-container-with-the-most-water)
+### [173. Using the Two-Pointer Kotlin Approach to Solve for the Container with the Most Water](https://hackernoon.com/using-the-two-pointer-kotlin-approach-to-solve-for-the-container-with-the-most-water)
 ![](https://cdn.hackernoon.com/images/uRoI8oauMUSL1OEueHGhCxCQqmY2-1a935bh.jpeg)
 This problem asks us to find the maximum amount of water that can be stored in a container formed by two lines, on a 2-dimensional plane and the x-axis. 
 
-### [175. From Developer To PM: The Untold Truth About Growing Your Career](https://hackernoon.com/from-developer-to-pm-the-untold-truth-about-growing-your-career-101033ed)
-![](https://cdn.hackernoon.com/images/87TektCts2aPzLfLjzdBJnicMFK2-fhw33im.jpeg)
-Developers with a strong understanding of company strategy rise faster, despite the misconception that engineers should only focus on technical details.
+### [174. Important Tips for Using React Query: Part 1](https://hackernoon.com/important-tips-for-using-react-query-part-1-o42y33d5)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-f31f28oa.jpeg)
+I’ve been using React Query in real world applications for over 8 months now, and I want to share with you some of the things I found useful when using it
 
-### [176. 5 Ways to Get Kids Interested in Stem](https://hackernoon.com/5-ways-to-get-kids-interested-in-stem)
+### [175. 5 Ways to Get Kids Interested in Stem](https://hackernoon.com/5-ways-to-get-kids-interested-in-stem)
 ![](https://cdn.hackernoon.com/images/QCzUXmup1gWrS723VFnOS8C4jQ03-lv93pgp.jpeg)
 Studying STEM has become crucial for students who want to be part of an innovative, rapidly growing industry with excellent career prospects.
 
-### [177. Coding Helps Develops Resilience - Here's How](https://hackernoon.com/coding-helps-develops-resilience-heres-how)
+### [176. Coding Helps Develops Resilience - Here's How](https://hackernoon.com/coding-helps-develops-resilience-heres-how)
 ![](https://cdn.hackernoon.com/images/QCzUXmup1gWrS723VFnOS8C4jQ03-n493pwc.jpeg)
 Without a healthy dose of resilience, it’s unlikely that any project or task will get done. You could argue that resilience is more important than talent or IQ! As Albert Einstein famously said, “It’s not that I’m so smart; it’s just that I stay with problems longer.”
 
-### [178. A Git Workflow Guide for Code Newbies](https://hackernoon.com/a-git-workflow-guide-for-code-newbies)
-![](https://cdn.hackernoon.com/images/PM9nNoX7cegr2DQOSuSuYP4k6Sd2-1d7z35uq.png)
-What is Git and how do you use it? Learn about Git in this intro to programming article.
-
-### [179. Following George Pólya’s Methods of Problem-solving. How It Might Help You In The Process of Coding.](https://hackernoon.com/following-george-polyas-methods-of-problem-solving-how-it-might-help-you-in-the-process-of-coding)
+### [177. Following George Pólya’s Methods of Problem-solving. How It Might Help You In The Process of Coding.](https://hackernoon.com/following-george-polyas-methods-of-problem-solving-how-it-might-help-you-in-the-process-of-coding)
 ![](https://cdn.hackernoon.com/images/vFWQHkp2QBcp5uXyjGm6rLWzGU93-xq93maq.jpeg)
 When my coding instructor started teaching the topic ‘Approaching Solution Of A Problem’ ,  he introduced George Pólya’s methods of problem-solving to us.
+
+### [178. From Developer To PM: The Untold Truth About Growing Your Career](https://hackernoon.com/from-developer-to-pm-the-untold-truth-about-growing-your-career-101033ed)
+![](https://cdn.hackernoon.com/images/87TektCts2aPzLfLjzdBJnicMFK2-fhw33im.jpeg)
+Developers with a strong understanding of company strategy rise faster, despite the misconception that engineers should only focus on technical details.
+
+### [179. A Git Workflow Guide for Code Newbies](https://hackernoon.com/a-git-workflow-guide-for-code-newbies)
+![](https://cdn.hackernoon.com/images/PM9nNoX7cegr2DQOSuSuYP4k6Sd2-1d7z35uq.png)
+What is Git and how do you use it? Learn about Git in this intro to programming article.
 
 ### [180. The Code Is the Documentation; a Paradox That Rings True](https://hackernoon.com/the-code-is-the-documentation-a-paradox-that-rings-true)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-cy93pvb.jpeg)
@@ -740,53 +744,53 @@ The first time I heard someone say: “the code is the documentation”, I thoug
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-xl93rtk.jpeg)
 Build Pascal's triangles with code, with different algorithms, analyze theirs speed and space complexity.
 
-### [182. Is No-Code Testing Actually Possible?](https://hackernoon.com/is-no-code-testing-actually-possible)
+### [182. The Rational Software Engineer: Navigating a Career Change](https://hackernoon.com/the-rational-software-engineer-navigating-a-career-change)
+![](https://cdn.hackernoon.com/images/software-engineer-working-at-a-multibillion-dollar-company-clfs2o7ar000001s6g25u1gbb.png)
+How to change your career as a software engineer inside the field and outside the field in a smart way.
+
+### [183. Is No-Code Testing Actually Possible?](https://hackernoon.com/is-no-code-testing-actually-possible)
 ![](https://cdn.hackernoon.com/images/bulpWIgkZtaIHWUdgD0UPBWnIrT2-b5a3ubr.jpeg)
 Testing accounts for over a quarter of development timelines. Automated codeless testing can help remove bottlenecks bringing your software to market quicker.
 
-### [183. The Avalanche Algorithm — How To Calculate the Maximum Possible Path in a Binary Tree](https://hackernoon.com/the-avalanche-algorithm-how-to-calculate-the-maximum-possible-path-in-a-binary-tree)
+### [184. The Avalanche Algorithm — How To Calculate the Maximum Possible Path in a Binary Tree](https://hackernoon.com/the-avalanche-algorithm-how-to-calculate-the-maximum-possible-path-in-a-binary-tree)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-r3830s4.jpeg)
 In this article we try to calculate the maximum possible path in a binary tree, describing a more efficient method than the brute force solution.
 
-### [184. My Challenge to Excel Users: I Dare you to Learn How to Code](https://hackernoon.com/my-challenge-to-excel-users-i-dare-you-to-learn-how-to-code-w31b3tae)
+### [185. My Challenge to Excel Users: I Dare you to Learn How to Code](https://hackernoon.com/my-challenge-to-excel-users-i-dare-you-to-learn-how-to-code-w31b3tae)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIGXI0VtzPmVCh9D2pnvTqBtHrHJ3-61gl2jqm.jpeg?alt=media&token=86c5eeae-af9e-4c7e-9730-4063992fa01a)
 What if, instead of starting that next Excel spreadsheet, you tried your hand at trying to write some code to do the exact same thing?
 
-### [185. Lies We Often Tell Ourselves: Simplicity, Microservices, and More](https://hackernoon.com/lies-we-often-tell-ourselves-simplicity-microservices-and-more)
+### [186. Lies We Often Tell Ourselves: Simplicity, Microservices, and More](https://hackernoon.com/lies-we-often-tell-ourselves-simplicity-microservices-and-more)
 ![](https://cdn.hackernoon.com/images/qbZmNnQEHtQOTEI8ZE5ral30Tf42-hn138sd.jpeg)
 Learn why simplicity often wins, how microservices can mislead, and which practices truly boost team success.
 
-### [186. Using the Spread Operator in JavaScript](https://hackernoon.com/using-the-spread-operator-in-javascript-423t35fn)
+### [187. Using the Spread Operator in JavaScript](https://hackernoon.com/using-the-spread-operator-in-javascript-423t35fn)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-gl6s35qt.jpeg)
 This article will cover the spread operator and how you can use them in your day to day JavaScript programming. This article assumes you have some familiarity with coding in the JavaScript ecosystem.
-
-### [187. The Rational Software Engineer: Navigating a Career Change](https://hackernoon.com/the-rational-software-engineer-navigating-a-career-change)
-![](https://cdn.hackernoon.com/images/software-engineer-working-at-a-multibillion-dollar-company-clfs2o7ar000001s6g25u1gbb.png)
-How to change your career as a software engineer inside the field and outside the field in a smart way.
 
 ### [188. A Q&A With Ashwin Kumar Uppala, Coach at Major League Hacking, on "Learning in Public" for New Devs](https://hackernoon.com/a-qanda-with-ashwin-kumar-uppala-coach-at-major-league-hacking-on-learning-in-public-for-new-devs)
 ![](https://cdn.hackernoon.com/images/QliruVK1cgQIvQ4wCknVeQTEZDt1-ph93qgk.jpeg)
 Hear Ashwin Kumar Uppala's story - Coach at Major League Hacking and Twilio Developer Searchlight Honoree
 
-### [189. Introducing Docketeer 3.0: A Helpful Tool to Manage Docker Containers](https://hackernoon.com/introducing-docketeer-30-a-helpful-tool-to-manage-docker-containers-g34w370o)
-![](https://cdn.hackernoon.com/images/WC4zPbusCkWk7FTEDohvdCHBMp52-ag2s396j.jpeg)
-Docketeer is an open-source, distributed, monitoring service for maintaining Docker container health 
-
-### [190. The 5 Most Flirtatious Coding Practices For Seducing Your Co-workers](https://hackernoon.com/the-5-most-flirtatious-coding-practices-for-seducing-your-co-workers)
+### [189. The 5 Most Flirtatious Coding Practices For Seducing Your Co-workers](https://hackernoon.com/the-5-most-flirtatious-coding-practices-for-seducing-your-co-workers)
 ![](https://cdn.hackernoon.com/images/PG9GJ9It2FOXrr2T8EAC6UYf0Vj1-fk93qx7.jpeg)
 In the realm of coding, where logic and precision reign supreme, a daring exploration awaits.
+
+### [190. Introducing Docketeer 3.0: A Helpful Tool to Manage Docker Containers](https://hackernoon.com/introducing-docketeer-30-a-helpful-tool-to-manage-docker-containers-g34w370o)
+![](https://cdn.hackernoon.com/images/WC4zPbusCkWk7FTEDohvdCHBMp52-ag2s396j.jpeg)
+Docketeer is an open-source, distributed, monitoring service for maintaining Docker container health 
 
 ### [191. Handling Node.JS as an Asynchronous Application with Error Handling](https://hackernoon.com/handling-nodejs-as-an-asynchronous-application-with-error-handling-hi3p355b)
 ![](https://cdn.hackernoon.com/images/c19IlEQcgCXavk4OhbVTzHb68O12-vm453ze5.jpeg)
 In this article, you will learn how to implement the following coding practices to differentiate between Synchronous and Asynchronous Calls.
 
-### [192. Flask vs Django: Which Should You Learn?](https://hackernoon.com/flask-vs-django-which-should-you-learn-7j3637i8)
-![](https://cdn.hackernoon.com/images/d86puDQud6hYQoYOkqA4LNHV3zz2-bti38ep.jpeg)
-Looking for a Flask vs Django comparison? This article compares the two popular Python frameworks for web, apps, APIs, and backend development.
-
-### [193. What Fixing a Bug Looks Like](https://hackernoon.com/what-fixing-a-bug-looks-like)
+### [192. What Fixing a Bug Looks Like](https://hackernoon.com/what-fixing-a-bug-looks-like)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-fl92i4z.jpeg)
 It’s impossible to write code without bugs— you always start with something, test it, and repair whatever is wrong.
+
+### [193. Flask vs Django: Which Should You Learn?](https://hackernoon.com/flask-vs-django-which-should-you-learn-7j3637i8)
+![](https://cdn.hackernoon.com/images/d86puDQud6hYQoYOkqA4LNHV3zz2-bti38ep.jpeg)
+Looking for a Flask vs Django comparison? This article compares the two popular Python frameworks for web, apps, APIs, and backend development.
 
 ### [194. 7 Ways to Make Side Income as a Web Developer👨‍💻💸](https://hackernoon.com/7-ways-to-make-side-income-as-a-web-developer-k91i374a)
 ![](https://cdn.hackernoon.com/images/bFFEe4dIUoXgbouiLfgW9PI9b8q1-pc7n35nb.jpeg)
@@ -804,81 +808,81 @@ From coding to creativity: how software developers can lead the way in the low c
 ![](https://cdn.hackernoon.com/images/gwgA4qmYuefNCyoIB4wU0pvyV1g2-2yg237n.jpeg)
 Keep things interesting and practice coding through different methods such as tutorials, quizzes or developing your own projects.
 
-### [198. Where AI-only Fails, Disciplined AI-Coders don’t](https://hackernoon.com/where-ai-only-fails-disciplined-ai-coders-dont)
-![](https://cdn.hackernoon.com/images/mizC13YEzUTcg5LtlG3l1skCdxa2-u203d49.png)
-When the bubble bursts, it will be the indestructible code programmers who will learn to use these tools and new languages who will survive.
-
-### [199. The Various Kinds of Software Tests ](https://hackernoon.com/the-various-kinds-of-software-tests)
+### [198. The Various Kinds of Software Tests ](https://hackernoon.com/the-various-kinds-of-software-tests)
 ![](https://cdn.hackernoon.com/images/9gE8Tr4eNOQs1QRV8GGfM1N6No73-02a3pdh.jpeg)
 In this post, I discuss automated and manual tests, and 2 common types of tests: functional and non-functional.
 
-### [200. Leveling Up Your dbt Tests in 7 Steps](https://hackernoon.com/leveling-up-your-dbt-tests-in-7-steps)
+### [199. Leveling Up Your dbt Tests in 7 Steps](https://hackernoon.com/leveling-up-your-dbt-tests-in-7-steps)
 ![](https://cdn.hackernoon.com/images/QS5iLJhRSPR2YH4y0tLF8pVa75h1-1293pix.jpeg)
 Dbt tests are great, but sometimes might not go far enough. When and how can you level up your dbt testing capabilities? 
 
-### [201. Exploring Javascript Console Object](https://hackernoon.com/exploring-javascript-console-object)
-![](https://cdn.hackernoon.com/images/e8iYFeVmyLg0fVAbPx1z0FG7pCl1-hpj2bnv.jpeg)
-The specifics of how console object works vary from browser to browser, but there is a de facto set of features that are typically provided.
+### [200. Where AI-only Fails, Disciplined AI-Coders don’t](https://hackernoon.com/where-ai-only-fails-disciplined-ai-coders-dont)
+![](https://cdn.hackernoon.com/images/mizC13YEzUTcg5LtlG3l1skCdxa2-u203d49.png)
+When the bubble bursts, it will be the indestructible code programmers who will learn to use these tools and new languages who will survive.
 
-### [202. Coding Is the New Literacy: 5 Reasons Why Kids Should Learn to Code](https://hackernoon.com/coding-is-the-new-literacy-5-reasons-why-kids-should-learn-to-code-msc935k3)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-el7353y.jpeg)
+### [201. A Guide to Effective PR Reviews - Part 1](https://hackernoon.com/a-guide-to-effective-pr-reviews-part-1)
+![](https://cdn.hackernoon.com/images/l61lXLP6ciWhnSiMVtVqNgQvDJ62-mb03lsb.webp)
+Code reviews aren't something many of us are "taught" but all have to learn. How to approach a code review from a POV that will benefit your entire team.
 
-
-### [203. How to Work on an Unfamiliar Codebase](https://hackernoon.com/how-to-work-on-an-unfamiliar-codebase)
+### [202. How to Work on an Unfamiliar Codebase](https://hackernoon.com/how-to-work-on-an-unfamiliar-codebase)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-8xa2c52.jpeg)
 Hence, if you want to understand a codebase better, you need more than to just read its code; you need to draw diagrams.
 
-### [204. Gremlin vs Cypher vs nGQL: Graph Query Language Comparison ](https://hackernoon.com/gremlin-vs-cypher-vs-ngql-graph-query-language-comparison-0n1s3t65)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5IwC2vr9ItV7dOKWYtzmxqYHltV2-y19u3ugm.jpeg?alt=media&token=b673bdbf-e105-46d0-83d3-8986b2410d3e)
-In September 2019, Graph Query Language is accepted as a new database query language in a vote by the International SQL Standards Committee. The unification of GQL takes time. 
-
-### [205. Why Learning to Code is Crucial in the Age of AI and No-Code Tools ](https://hackernoon.com/why-learning-to-code-is-crucial-in-the-age-of-ai-and-no-code-tools)
+### [203. Why Learning to Code is Crucial in the Age of AI and No-Code Tools ](https://hackernoon.com/why-learning-to-code-is-crucial-in-the-age-of-ai-and-no-code-tools)
 ![](https://cdn.hackernoon.com/images/dbyAvWGI7BW1gvunlpcIxX2drFl2-xh93ppj.jpeg)
 No-code vs. Pro-code: Why investing in coding education is a must-have for the future generation
 
-### [206. Applying John Wooden's "Whole-Part Method" Approach To Programming](https://hackernoon.com/applying-john-woodens-whole-part-method-approach-to-programming-jy4h35kv)
+### [204. Exploring Javascript Console Object](https://hackernoon.com/exploring-javascript-console-object)
+![](https://cdn.hackernoon.com/images/e8iYFeVmyLg0fVAbPx1z0FG7pCl1-hpj2bnv.jpeg)
+The specifics of how console object works vary from browser to browser, but there is a de facto set of features that are typically provided.
+
+### [205. Coding Is the New Literacy: 5 Reasons Why Kids Should Learn to Code](https://hackernoon.com/coding-is-the-new-literacy-5-reasons-why-kids-should-learn-to-code-msc935k3)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-el7353y.jpeg)
+
+
+### [206. Gremlin vs Cypher vs nGQL: Graph Query Language Comparison ](https://hackernoon.com/gremlin-vs-cypher-vs-ngql-graph-query-language-comparison-0n1s3t65)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5IwC2vr9ItV7dOKWYtzmxqYHltV2-y19u3ugm.jpeg?alt=media&token=b673bdbf-e105-46d0-83d3-8986b2410d3e)
+In September 2019, Graph Query Language is accepted as a new database query language in a vote by the International SQL Standards Committee. The unification of GQL takes time. 
+
+### [207. Applying John Wooden's "Whole-Part Method" Approach To Programming](https://hackernoon.com/applying-john-woodens-whole-part-method-approach-to-programming-jy4h35kv)
 ![](https://cdn.hackernoon.com/images/1k2eWiUClgQ4VZSz8evAFbbCf1A3-q13v33f6.jpeg)
 Recycle the programming projects you complete: iterate on them and create your own mini-projects along the way. Here’s how.
 
-### [207. The 3-Step Process to Hiring a Software Engineer For Your Startup](https://hackernoon.com/the-3-step-process-to-hiring-a-software-engineer-for-your-startup)
+### [208. The 3-Step Process to Hiring a Software Engineer For Your Startup](https://hackernoon.com/the-3-step-process-to-hiring-a-software-engineer-for-your-startup)
 ![](https://cdn.hackernoon.com/images/GaIljtyPquWy2SjlYFy2qRJcz803-d1b3jfa.jpeg)
 The standard coding interview gauges coding prowess the same way an IQ test gauges intelligence. Basically, barely at all.
-
-### [208. 5 Git Tips You Should Try For Better Workflow](https://hackernoon.com/5-git-tips-you-should-try-for-better-workflow-2b6f35g1)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-c31035s8.jpeg)
-No matter how experienced you are, Git will always find a way to surprise you. It is loaded with neat tricks that have the power to make your daily coding routi
 
 ### [209. Do not Troll Your Teammates: 5 Key Rules for Reviewing Code](https://hackernoon.com/do-not-troll-your-teammates-5-key-rules-for-reviewing-code)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-wh1v3oxf.jpeg)
 Code review is an essential step needed for effective software development.
 
-### [210. 6 DevOps Trends in 2022 That DevOps Engineers Should Adopt](https://hackernoon.com/6-devops-trends-in-2022-that-devops-engineers-should-adopt)
+### [210. 5 Git Tips You Should Try For Better Workflow](https://hackernoon.com/5-git-tips-you-should-try-for-better-workflow-2b6f35g1)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-c31035s8.jpeg)
+No matter how experienced you are, Git will always find a way to surprise you. It is loaded with neat tricks that have the power to make your daily coding routi
+
+### [211. 6 DevOps Trends in 2022 That DevOps Engineers Should Adopt](https://hackernoon.com/6-devops-trends-in-2022-that-devops-engineers-should-adopt)
 ![](https://cdn.hackernoon.com/images/VeNIJRCvcqePHfCqciRDzTJm5D62-6c93jp1.jpeg)
 The role of DevOps engineers, their responsibilities, growth opportunities, a set of important soft & hard skills, and most importantly, DevOps trends in 2022.
 
-### [211. Python Tutorial: Recursive Function Debunked](https://hackernoon.com/python-tutorial-recursive-function-debunked)
+### [212. Python Tutorial: Recursive Function Debunked](https://hackernoon.com/python-tutorial-recursive-function-debunked)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-4gi35tb.jpeg)
 This Python Tutorial about the Recursive Function outlines the basic principles and methods to use recursion as a method of automating your software.  
 
-### [212. My Cat, FastAPI and a Template](https://hackernoon.com/my-cat-fast-api-and-a-template)
+### [213. My Cat, FastAPI and a Template](https://hackernoon.com/my-cat-fast-api-and-a-template)
 ![](https://cdn.hackernoon.com/images/F9IxEoH0pzRr42n1nd6piDA4UUG3-pu15246y.jpeg)
 I really liked FastAPI. So, I decided to read all its docs, and instead of having study notes, memos, or whatever, I  wrote it all as a template
-
-### [213. 5 Tips for a Novice React Developer](https://hackernoon.com/5-tips-for-a-novice-react-developer-9nq35vv)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-v51w3of7.jpeg)
-There's a lot to learn when you're a new React Developer. These 5 Intro Tips will help you avoid simple mistakes many new developers make when starting out. 
 
 ### [214. Activate: Beast Mode](https://hackernoon.com/activate-beast-mode)
 ![](https://cdn.hackernoon.com/images/dFW9aLMnLpgfjylixlaQdWQLp2C3-kha3okg.jpeg)
 There’s an astronomical difference between simply writing code and being a great developer. 
 
-### [215. 6 First Steps to Break Into Web Development - Learn with SkillUp](https://hackernoon.com/6-first-steps-to-break-into-web-development-learn-with-skillup-li4v34s2)
+### [215. 5 Tips for a Novice React Developer](https://hackernoon.com/5-tips-for-a-novice-react-developer-9nq35vv)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-v51w3of7.jpeg)
+There's a lot to learn when you're a new React Developer. These 5 Intro Tips will help you avoid simple mistakes many new developers make when starting out. 
+
+### [216. 6 First Steps to Break Into Web Development - Learn with SkillUp](https://hackernoon.com/6-first-steps-to-break-into-web-development-learn-with-skillup-li4v34s2)
 ![](https://cdn.hackernoon.com/images/3stYiGlJqJh2jMUMckmGb12HbZ33-ig3931ga.jpeg)
 Let’s answer the question “How to Become a Web Developer?” once and for all.
-
-### [216. The Right Way to Learn to Program](https://hackernoon.com/the-right-way-to-learn-to-program-i0l32w7)
-![](https://cdn.hackernoon.com/images/1k2eWiUClgQ4VZSz8evAFbbCf1A3-fh123533.jpeg)
-How to learn programming topics efficiently and effectively.  
 
 ### [217. 10 Trends That Every Tech Recruiter Needs to Know in 2022](https://hackernoon.com/10-trends-that-every-tech-recruiter-needs-to-know-in-2022)
 ![](https://cdn.hackernoon.com/images/5HTCve3AG2cBhjp5688sbPwdGw12-qk93mep.jpeg)
@@ -888,203 +892,203 @@ If you are a part of the IT recruitment industry, then you cannot walk past thes
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-q93j35r2.jpeg)
 This short article will cover Rest parameters and how to use them in JavaScript programming.
 
-### [219. 10 Common Behavioral Mistakes Novice Programmers Make](https://hackernoon.com/10-common-behavioral-mistakes-novice-programmers-make)
+### [219. The Right Way to Learn to Program](https://hackernoon.com/the-right-way-to-learn-to-program-i0l32w7)
+![](https://cdn.hackernoon.com/images/1k2eWiUClgQ4VZSz8evAFbbCf1A3-fh123533.jpeg)
+How to learn programming topics efficiently and effectively.  
+
+### [220. 10 Common Behavioral Mistakes Novice Programmers Make](https://hackernoon.com/10-common-behavioral-mistakes-novice-programmers-make)
 ![](https://cdn.hackernoon.com/images/e3N1YN3EIBboDWlXIrGE70pUigm2-k80374d.jpeg)
 The mistakes of novice programmers, those who are just learning or just starting to work, are very similar to each other. Many of them can be called not mistakes, but behavioral features, stages all beginners go through. We as Java course creators are interested in this topic, so we interviewed opinion leaders and collected the most common, in their view, examples of such behavioral errors in order to … shorten their duration for future software developers. If you start noticing such behavioral mistakes early and try to fix them, your path to mastery will be shorter and your work will be more efficient.
 
-### [220. To Mock, or Not to Mock, That Is the Question](https://hackernoon.com/to-mock-or-not-to-mock-that-is-the-question)
+### [221. To Mock, or Not to Mock, That Is the Question](https://hackernoon.com/to-mock-or-not-to-mock-that-is-the-question)
 ![](https://cdn.hackernoon.com/images/nVQvUrSrZeNRLK0zHyv8wXbgI3o1-1ld36l0.jpeg)
 Mocking is often seen as a default choice when writing tests. Yet it introduces unnecessary complexety to your system. There are other approaches in testing.
 
-### [221. Git Tutorial: How To See Your Most Used Git Commands Using a Script](https://hackernoon.com/git-tutorial-how-to-see-your-most-used-git-commands-using-a-script-a13r33ac)
+### [222. Git Tutorial: How To See Your Most Used Git Commands Using a Script](https://hackernoon.com/git-tutorial-how-to-see-your-most-used-git-commands-using-a-script-a13r33ac)
 ![](https://cdn.hackernoon.com/images/5NZWyPc47pMbzpEcMC8q4ylcm6l1-v12l334z.png)
 Git has many commands but you can be productive with just a few. I used a script to fetch my most git commands sorted by the number of their occurrences.
-
-### [222. Rust Is On A Roll](https://hackernoon.com/rust-is-on-a-roll)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-gw135u6.jpeg)
-I plan to use Rust as a replacement for Python for writing automation, especially any complex-calculable tasks. Here are the reasons why.
 
 ### [223. "Code for 15 mins a day" and Other Tips To Become A Better Developer](https://hackernoon.com/code-for-15-mins-a-day-and-other-tips-to-become-a-better-developer-jd7632p2)
 ![](https://cdn.hackernoon.com/images/2lCKbVYzfgXONtu7Xpjc3NWBuQr2-f81l3200.jpeg)
 I've read dozen of articles on how to become a better developer in the past year. So, to share what I've learned, here are 7 ways to become a better developer.
 
-### [224. How Effective is Blogging in Getting You a Coding Job?](https://hackernoon.com/how-effective-is-blogging-in-getting-you-a-coding-job)
+### [224. Rust Is On A Roll](https://hackernoon.com/rust-is-on-a-roll)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-gw135u6.jpeg)
+I plan to use Rust as a replacement for Python for writing automation, especially any complex-calculable tasks. Here are the reasons why.
+
+### [225. How Effective is Blogging in Getting You a Coding Job?](https://hackernoon.com/how-effective-is-blogging-in-getting-you-a-coding-job)
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-k093pmz.jpeg)
 Time and time again, I see the same question pop up: “Do I need to start a blog to get a coding job?”
 
-### [225. Learn How to Pass Arguments to Events in Svelte in Just 4 Steps](https://hackernoon.com/learn-how-to-pass-arguments-to-events-in-svelte-in-just-4-steps)
+### [226. Learn How to Pass Arguments to Events in Svelte in Just 4 Steps](https://hackernoon.com/learn-how-to-pass-arguments-to-events-in-svelte-in-just-4-steps)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-m4c3ksy.jpeg)
 It's common to want to add an argument or parameter to a function called in a Svelte event, but it doesn't work exactly how you'd think. 
 
-### [226. Explaining Important Skills For Hero Developers Using Lego Bricks](https://hackernoon.com/explaining-important-skills-for-hero-developers-using-lego-bricks-ru9832ax)
+### [227. Explaining Important Skills For Hero Developers Using Lego Bricks](https://hackernoon.com/explaining-important-skills-for-hero-developers-using-lego-bricks-ru9832ax)
 ![](https://cdn.hackernoon.com/drafts/a61ev36fi.png)
 Programming is like building Lego bricks. Any developer can pick a brand new Lego set and build it following the instructions. This is very easy. Think of it as coding school assignments or entry level tutorials.
-
-### [227. How to Create a Blazor Component Without Lifecycle Methods](https://hackernoon.com/how-to-create-a-blazor-component-without-lifecycle-methods-7c1g3wsm)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fsuv2htT1ISWh1H5ykWXosHOoE8y1-nk3a28y3.jpeg?alt=media&token=25683551-ec28-4303-8891-cd13d9d88768)
-In this blog post, I am going to share how I created a Blazor component without life-cycle methods and razor file syntax. We could also say this as class only component approach but without life-cycle methods. Many of them might knew this way of component rendering, but I felt like sharing this would help other folks who doesn’t know. I found this approach after going through various components used in Blazor source code.
 
 ### [228. A Guide to Setting up Laravel in Ubuntu](https://hackernoon.com/a-guide-to-setting-up-laravel-in-ubuntu-dp223tv9)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtRlgiMUxJzR7GTO3g6rqwvhzPjG2-qz193w06.jpeg?alt=media&token=a76f8455-0279-4594-87b2-bae33ae1a433)
 Laravel is a very popular open-source PHP framework aimed at easy development of applications. If you are looking for a new PHP framework, you should give Laravel a try.
 
-### [229. Code Trashing Symptom](https://hackernoon.com/code-trashing-symptom-ee3x3uh7)
+### [229. How to Create a Blazor Component Without Lifecycle Methods](https://hackernoon.com/how-to-create-a-blazor-component-without-lifecycle-methods-7c1g3wsm)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fsuv2htT1ISWh1H5ykWXosHOoE8y1-nk3a28y3.jpeg?alt=media&token=25683551-ec28-4303-8891-cd13d9d88768)
+In this blog post, I am going to share how I created a Blazor component without life-cycle methods and razor file syntax. We could also say this as class only component approach but without life-cycle methods. Many of them might knew this way of component rendering, but I felt like sharing this would help other folks who doesn’t know. I found this approach after going through various components used in Blazor source code.
+
+### [230. Code Trashing Symptom](https://hackernoon.com/code-trashing-symptom-ee3x3uh7)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQyAjPSH5fVS6Xi0iNUkeB4pzthH2-6v1420xy.jpeg?alt=media&token=fd23d3cc-e75c-4215-ba38-37893bb02103)
 There are a set of skills and qualities which make the ideal software 
 developer we are all searching to be or searching for to employ. However, right now I am going to emphasize the importance of a quality that is mostly found in senior developers.
 
-### [230. Finally, I' m Not Coding on a 5-Year-Old Chromebook Anymore](https://hackernoon.com/finally-i-m-not-coding-on-a-5-year-old-chromebook-anymore)
+### [231. Finally, I' m Not Coding on a 5-Year-Old Chromebook Anymore](https://hackernoon.com/finally-i-m-not-coding-on-a-5-year-old-chromebook-anymore)
 ![](https://cdn.hackernoon.com/images/ej1nt79hnUVlCJ0filHOWGJBH8q2-5p7g39vb.jpeg)
 Recently I got a nice computer, but before I was using a very old Chromebook. I talk about my experiences trying to set up a coding environment.
-
-### [231. What is the Lisk Codec and How Well Does it Perform?](https://hackernoon.com/what-is-the-lisk-codec-and-how-well-does-it-perform-8ft3275)
-![](https://cdn.hackernoon.com/images/GSN9VJGOaZXMU6zEAhjLZYX4ZXW2-qoiu35av.jpeg)
-Serializing is the process of encoding information into bytes. Much fun! but oh so instrumental in blockchain.
 
 ### [232. Vibe Coding Gives You Adrenaline. Vibe Refactoring Gives You Longevity.](https://hackernoon.com/vibe-coding-gives-you-adrenaline-vibe-refactoring-gives-you-longevity)
 ![](https://cdn.hackernoon.com/images/qbZmNnQEHtQOTEI8ZE5ral30Tf42-rf03bcn.png)
 There’s a lot of hype about ‘vibe coding’, but it’ll make you feel lighter if you do it more often. 
 
-### [233. Start Developing Your Designs (Literally)](https://hackernoon.com/start-developing-your-designs-literally)
+### [233. What is the Lisk Codec and How Well Does it Perform?](https://hackernoon.com/what-is-the-lisk-codec-and-how-well-does-it-perform-8ft3275)
+![](https://cdn.hackernoon.com/images/GSN9VJGOaZXMU6zEAhjLZYX4ZXW2-qoiu35av.jpeg)
+Serializing is the process of encoding information into bytes. Much fun! but oh so instrumental in blockchain.
+
+### [234. Start Developing Your Designs (Literally)](https://hackernoon.com/start-developing-your-designs-literally)
 ![](https://cdn.hackernoon.com/images/TJk2cxGlG3VZwx2RSrmlsEsinOg1-ps13601.jpeg)
 Designers are expected to bridge the gap between creativity and technology. Anyone, even developers, who are working on interfaces should have a great sense of 
 
-### [234. Throwing Top Engineering Internship Myths out the Window](https://hackernoon.com/throwing-top-engineering-internship-myths-out-the-window-omf532ec)
-![](https://cdn.hackernoon.com/images/zDxKiOq2XxYxNbFVaHVWf50Nhww1-kii35q4.gif)
-Internships are not about coffee runs, you can get a great experience that can make you stand out when applying for your first job out of University.
-
-### [235. Here are Some of the Most Useful Coding Sites for Beginners](https://hackernoon.com/here-are-some-of-the-most-useful-coding-sites-for-beginners-3c8h3td5)
-![](https://cdn.hackernoon.com/drafts/2p743v9t.png)
-If you have ever picked up a controller and guided a digital avatar through their own adventure then you may wonder what actually goes into creating a video game. Video games are of course one of the fastest-growing sources of entertainment and they are becoming so important in this day and age. Educational and training programs are now utilising them as tools and it is more important than ever to recognise how useful they can be. If you want to find out more about gaming and coding then simply take a look below.
-
-### [236. The Current Reality and Future Possibilities of AI-Powered Coding](https://hackernoon.com/the-current-reality-and-future-possibilities-of-ai-powered-coding)
+### [235. The Current Reality and Future Possibilities of AI-Powered Coding](https://hackernoon.com/the-current-reality-and-future-possibilities-of-ai-powered-coding)
 ![](https://cdn.hackernoon.com/images/q53DzOPLYmXGv4I3x5voCqCSqf02-yyb2lcu.jpeg)
 AI can support with coding but it doesn't always perform well.
 
-### [237. How to Build an Impressive Demo Project](https://hackernoon.com/how-to-build-an-impressive-demo-project)
+### [236. Here are Some of the Most Useful Coding Sites for Beginners](https://hackernoon.com/here-are-some-of-the-most-useful-coding-sites-for-beginners-3c8h3td5)
+![](https://cdn.hackernoon.com/drafts/2p743v9t.png)
+If you have ever picked up a controller and guided a digital avatar through their own adventure then you may wonder what actually goes into creating a video game. Video games are of course one of the fastest-growing sources of entertainment and they are becoming so important in this day and age. Educational and training programs are now utilising them as tools and it is more important than ever to recognise how useful they can be. If you want to find out more about gaming and coding then simply take a look below.
+
+### [237. Throwing Top Engineering Internship Myths out the Window](https://hackernoon.com/throwing-top-engineering-internship-myths-out-the-window-omf532ec)
+![](https://cdn.hackernoon.com/images/zDxKiOq2XxYxNbFVaHVWf50Nhww1-kii35q4.gif)
+Internships are not about coffee runs, you can get a great experience that can make you stand out when applying for your first job out of University.
+
+### [238. How to Build an Impressive Demo Project](https://hackernoon.com/how-to-build-an-impressive-demo-project)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-dq83v5b.jpeg)
 Discover essential tips for creating an impactful demo project that effectively showcases your coding skills to potential employers. 
 
 
-### [238. Why Leading US Tech Companies Look for Skills and Not Degrees](https://hackernoon.com/why-leading-us-tech-companies-look-for-skills-and-not-degrees)
+### [239. Why Leading US Tech Companies Look for Skills and Not Degrees](https://hackernoon.com/why-leading-us-tech-companies-look-for-skills-and-not-degrees)
 ![](https://cdn.hackernoon.com/images/t6yYx5PhEhailcvOOgaxxCjEJ7l1-zv13g8t.jpeg)
 Online education and coding boot camps may soon wipe out the need for formal degrees as hiring managers look for developers with relevant skills and experience.
 
-### [239. Software Engineers use Code Reviews to Improve Product Quality ](https://hackernoon.com/software-engineers-use-code-reviews-to-improve-product-quality-ay5s315c)
+### [240. Software Engineers use Code Reviews to Improve Product Quality ](https://hackernoon.com/software-engineers-use-code-reviews-to-improve-product-quality-ay5s315c)
 ![](https://cdn.hackernoon.com/images/g09luvBmyUPP79qMwRa7dBxFbox1-a32331im.jpeg)
 Software engineers need to do code reviews in order to improve overall product quality and learn from each other. Code review process has a set of best practices like any other complex processes. Check best practices below. Do you follow them on your current project?
 
-### [240. SOLID Design: Interface Segregation Principle in C++ ](https://hackernoon.com/solid-design-interface-segregation-principle-in-c-1a833wa8)
+### [241. SOLID Design: Interface Segregation Principle in C++ ](https://hackernoon.com/solid-design-interface-segregation-principle-in-c-1a833wa8)
 ![](https://cdn.hackernoon.com/drafts/xp252bzl.png)
 Interface Segregation Principle in C++ is the fourth & by far the simplest design principle of a series SOLID as a Rock design principles. The SOLID design principles focus on developing software that is easy to maintainable, reusable & extendable. In this article, we will see a code violating ISP, a solution to the same code, guideline & benefits of ISP.
 
-### [241. What Programming Language Should I Learn First?](https://hackernoon.com/what-programming-language-should-i-learn-first)
+### [242. What Programming Language Should I Learn First?](https://hackernoon.com/what-programming-language-should-i-learn-first)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-iq03opr.jpeg)
 As an absolute beginner, which programming language should I learn first?
 
-### [242. Kickstarting Your GoLang Journey](https://hackernoon.com/kickstarting-your-golang-journey)
+### [243. Kickstarting Your GoLang Journey](https://hackernoon.com/kickstarting-your-golang-journey)
 ![](https://cdn.hackernoon.com/images/htp0Dv9yFScBpocpZVJlemM5Oy33-xp82sfy.jpeg)
 Embark on a 100-day journey to master Go Lang, a modern programming language ideal for cloud computing, web development, and DevOps. 
 
-### [243. 15 Things I Wish I'd Known As a Junior Developer](https://hackernoon.com/15-things-i-wish-id-known-as-a-junior-developer-0f223wzg)
+### [244. 15 Things I Wish I'd Known As a Junior Developer](https://hackernoon.com/15-things-i-wish-id-known-as-a-junior-developer-0f223wzg)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FbLQVnaI0nBYjqbryLYHp5mD7BWj1-ymc3zpf.jpeg?alt=media&token=4c57a612-19c8-4301-963a-22c09e3f7052)
 What Is the Difference Between a Junior and a Senior Software Developer? 
-
-### [244. Gradual Code Releases: An In-House Kubernetes Canary Controller](https://hackernoon.com/gradual-code-releases-an-in-house-kubernetes-canary-controller-3i4h35nm)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-0g472995.jpeg)
-Our short-term strategy involved developing an in-house Canary deployment process powered by a custom Kubernetes controller.
 
 ### [245. Learning Journey in Tech : Decision Matrix for selecting a school. ](https://hackernoon.com/how-to-decide-which-tech-boot-camp-to-join-621x37ik)
 ![](https://cdn.hackernoon.com/images/gAGZx1eahFaWCwhI04L8E5Kasyc2-142g34id.jpeg)
 Here are 13 key things to think about when you are deciding which coding bootcamp to join.
 
-### [246. The Lack of Internal State and How it Makes Your Classes Easier to Test and Refactor](https://hackernoon.com/the-lack-of-internal-state-and-how-it-makes-your-classes-easier-to-test-and-refactor)
+### [246. Gradual Code Releases: An In-House Kubernetes Canary Controller](https://hackernoon.com/gradual-code-releases-an-in-house-kubernetes-canary-controller-3i4h35nm)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-0g472995.jpeg)
+Our short-term strategy involved developing an in-house Canary deployment process powered by a custom Kubernetes controller.
+
+### [247. The Lack of Internal State and How it Makes Your Classes Easier to Test and Refactor](https://hackernoon.com/the-lack-of-internal-state-and-how-it-makes-your-classes-easier-to-test-and-refactor)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-90a2ih7.jpeg)
 You likely often hear that test-driven development (TDD) or just writing tests can make your code better. 
 
-### [247. I Want To Become A Developer. Where Do I Start?](https://hackernoon.com/i-want-to-become-a-developer-where-do-i-start-ud7s320h)
+### [248. I Want To Become A Developer. Where Do I Start?](https://hackernoon.com/i-want-to-become-a-developer-where-do-i-start-ud7s320h)
 ![](https://cdn.hackernoon.com/images/2lCKbVYzfgXONtu7Xpjc3NWBuQr2-kzj32d2.jpeg)
 Starting out as a developer is hard. In this article, I share 5 beginner tips with you that will help make your life easier when you're first starting out.
 
-### [248. How Building Projects Empowers Beginner Programmers](https://hackernoon.com/how-building-projects-empowers-beginner-programmers)
+### [249. How Building Projects Empowers Beginner Programmers](https://hackernoon.com/how-building-projects-empowers-beginner-programmers)
 ![](https://cdn.hackernoon.com/images/a-laptop-displaying-coding-software-dm5akuucmnbadfgjavaidgb5.png)
 Are you a beginner programmer? If so, you'd benefit from applying all of the theoretical knowledge you're gaining by building projects! Check out this list!
 
-### [249. The Wisdom of Vintage Programming Books](https://hackernoon.com/the-wisdom-of-vintage-programming-books)
+### [250. Exploring Jaccard's Similarity Coefficient](https://hackernoon.com/exploring-jaccards-similarity-coefficient)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-io93pjy.jpeg)
+The Jaccard index is a measure of similarity. It measures the similarity between two sets of information. 
+
+### [251. The Wisdom of Vintage Programming Books](https://hackernoon.com/the-wisdom-of-vintage-programming-books)
 ![](https://cdn.hackernoon.com/images/KobPcf5nazNcjh4iUfyRlmitv723-ry93r5m.jpeg)
 Have you ever noticed how some computer programming books seem to possess an extra layer of depth and philosophical flair? 
 
-### [250. The Pros and Cons To Losing Yourself in a Problem](https://hackernoon.com/the-pros-and-cons-to-losing-yourself-in-a-problem-qk143tcl)
+### [252. The Pros and Cons To Losing Yourself in a Problem](https://hackernoon.com/the-pros-and-cons-to-losing-yourself-in-a-problem-qk143tcl)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIGXI0VtzPmVCh9D2pnvTqBtHrHJ3-ne272jdu.jpeg?alt=media&token=bdc2c22c-3d2f-4028-a31d-a82c2d95fbe3)
 You find yourself fully committed to solving a problem, you think if I just do x then it's smooth sailings and it'll all be done. A couple hours pass and you've nailed x, but actually y and z seem pretty challenging, and now you have to fix x in order to make y and z as slick as possible. 
-
-### [251. What is Lexical Functional Programming ?](https://hackernoon.com/what-is-lexical-functional-programming-8r2337fh)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-nt1537lx.png)
-Lexical functional programming - jargon and naming convention. How to standardize descriptive names? 
-
-### [252. Exploring Jaccard's Similarity Coefficient](https://hackernoon.com/exploring-jaccards-similarity-coefficient)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-io93pjy.jpeg)
-The Jaccard index is a measure of similarity. It measures the similarity between two sets of information. 
 
 ### [253. Tips, Tools, and Best Practices for Optimizing Unit Testing in JavaScript ](https://hackernoon.com/tips-tools-and-best-practices-for-optimizing-unit-testing-in-javascript)
 ![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-ww93szf.jpeg)
 Learn how to improve the performance of your JavaScript unit tests with this comprehensive guide.
 
-### [254. Devs - Documentation IS Important](https://hackernoon.com/devs-documentation-is-important)
+### [254. What is Lexical Functional Programming ?](https://hackernoon.com/what-is-lexical-functional-programming-8r2337fh)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-nt1537lx.png)
+Lexical functional programming - jargon and naming convention. How to standardize descriptive names? 
+
+### [255. Devs - Documentation IS Important](https://hackernoon.com/devs-documentation-is-important)
 ![](https://cdn.hackernoon.com/images/0kymacDO55Vh1xdKhOVvdqBUy7G3-tn72bq5.jpeg)
 Should you write software documentation? This article covers best practices of writing docs in a team or as a solo engineer.
 
-### [255. Daily Coding Problem: What Angle is It? ](https://hackernoon.com/daily-coding-problem-what-angle-is-it)
+### [256. Daily Coding Problem: What Angle is It? ](https://hackernoon.com/daily-coding-problem-what-angle-is-it)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-v383wrx.jpeg)
 How to calculate the angle between the hands of the clock
 
-### [256. Data Science vs Artificial Intelligence. Here’s the Difference](https://hackernoon.com/data-science-vs-artificial-intelligence-heres-the-difference-gz5x3202)
+### [257. Data Science vs Artificial Intelligence. Here’s the Difference](https://hackernoon.com/data-science-vs-artificial-intelligence-heres-the-difference-gz5x3202)
 ![](https://cdn.hackernoon.com/images/SBUxTjX1xPRUPmLuyJgdVTexIUL2-vl8351x.jpeg)
 What are the differences between the contributions of a data scientist and an Artificial Intelligence engineer? Let us compare job roles and the benefits.
 
-### [257. The Meticulous Coding Strategy Applied to Metabase Issue #14782](https://hackernoon.com/the-meticulous-coding-strategy-applied-to-metabase-issue-14782-2g3235mc)
+### [258. The Meticulous Coding Strategy Applied to Metabase Issue #14782](https://hackernoon.com/the-meticulous-coding-strategy-applied-to-metabase-issue-14782-2g3235mc)
 ![](https://cdn.hackernoon.com/images/Mxatcr8t3EN0D24z6YR3DrWlIoX2-yk7029qq.jpeg)
 This short article describes the application of the meticulous approach to coding to a real-life problem.
 
-### [258. The Magic of Iterators: Build Python range() in JavaScript ](https://hackernoon.com/the-magic-of-iterators-build-python-range-in-java-script)
-![](https://cdn.hackernoon.com/images/8l3eF0qO5Gef1R86puctOGuF5m22-i25139np.jpeg)
-How to build the beloved Python range() in JavaScript by using Iterators.
-
-### [259. 5 Tricks To Get Better At Coding](https://hackernoon.com/5-tricks-to-get-better-at-coding-22f359d)
-![](https://cdn.hackernoon.com/images/RV7pi7rhFfPvU6Z2JzjXQYzBQ3c2-ua9m35bb.jpeg)
-Coding is hard! As time passed, I improved my skills and learned some tricks that made me better at coding!
-
-### [260. Code Smell 240 - Dead Store Code ](https://hackernoon.com/code-smell-240-dead-store-code)
+### [259. Code Smell 240 - Dead Store Code ](https://hackernoon.com/code-smell-240-dead-store-code)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-8r830r0.jpeg)
 Learn how to detect and address dead store code smells with expert tips.
 
-### [261. I want to be a Web Developer, but where do I start?](https://hackernoon.com/i-want-to-be-a-web-developer-but-where-do-i-start)
-![](https://cdn.hackernoon.com/images/RjUrvl9wZ1XVFzAv6k3mEYbcvzD3-d293215.jpeg)
-The demand for experienced web developers grows steady for years. Learn how you can become a web developer yourself with these simple tips.
+### [260. The Magic of Iterators: Build Python range() in JavaScript ](https://hackernoon.com/the-magic-of-iterators-build-python-range-in-java-script)
+![](https://cdn.hackernoon.com/images/8l3eF0qO5Gef1R86puctOGuF5m22-i25139np.jpeg)
+How to build the beloved Python range() in JavaScript by using Iterators.
 
-### [262. How to Use foreach() to Iterate Through an Array in JavaScript](https://hackernoon.com/how-to-use-foreach-to-iterate-through-an-array-in-javascript)
-![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-9va2k3k.jpeg)
-Knowing how to use forEach in JavaScript is an important first step in writing code that is optimized for speed and efficiency. 
+### [261. 5 Tricks To Get Better At Coding](https://hackernoon.com/5-tricks-to-get-better-at-coding-22f359d)
+![](https://cdn.hackernoon.com/images/RV7pi7rhFfPvU6Z2JzjXQYzBQ3c2-ua9m35bb.jpeg)
+Coding is hard! As time passed, I improved my skills and learned some tricks that made me better at coding!
 
-### [263. 10 Common Coding Mistakes Data Scientists Should Watch Out For](https://hackernoon.com/10-common-coding-mistakes-data-scientists-should-watch-out-for)
+### [262. 10 Common Coding Mistakes Data Scientists Should Watch Out For](https://hackernoon.com/10-common-coding-mistakes-data-scientists-should-watch-out-for)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-x793pch.jpeg)
 A look at common mistakes that data scientists make in the process of service delivery. 
 
-### [264. Escape Tutorial Hell - 7 C# Project Ideas For Beginners](https://hackernoon.com/escape-tutorial-hell-7-c-project-ideas-for-beginners)
+### [263. How to Use foreach() to Iterate Through an Array in JavaScript](https://hackernoon.com/how-to-use-foreach-to-iterate-through-an-array-in-javascript)
+![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-9va2k3k.jpeg)
+Knowing how to use forEach in JavaScript is an important first step in writing code that is optimized for speed and efficiency. 
+
+### [264. I want to be a Web Developer, but where do I start?](https://hackernoon.com/i-want-to-be-a-web-developer-but-where-do-i-start)
+![](https://cdn.hackernoon.com/images/RjUrvl9wZ1XVFzAv6k3mEYbcvzD3-d293215.jpeg)
+The demand for experienced web developers grows steady for years. Learn how you can become a web developer yourself with these simple tips.
+
+### [265. Escape Tutorial Hell - 7 C# Project Ideas For Beginners](https://hackernoon.com/escape-tutorial-hell-7-c-project-ideas-for-beginners)
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-qi834xr.jpeg)
 Check out these 7 C# project ideas for beginners to help escape from tutorial hell! These C# project ideas will give you hands-on practice writing software.
 
-### [265. The Mighty App Developer vs a Pesky Bug](https://hackernoon.com/the-mighty-app-developer-vs-a-pesky-bug)
+### [266. Mastering Public Static and Void Functions: Key Concepts for Effective Coding](https://hackernoon.com/mastering-public-static-and-void-functions-key-concepts-for-effective-coding)
+![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-xc93pnm.jpeg)
+While "public static" as well as "void" fulfill separate functions, it is critical to grasp the distinctions between them to fully utilize their capabilities.
+
+### [267. The Mighty App Developer vs a Pesky Bug](https://hackernoon.com/the-mighty-app-developer-vs-a-pesky-bug)
 ![](https://cdn.hackernoon.com/images/mighty-developer-vs-pesky-bug-cle705nnb000001s68zhf2dck.png)
 A year ago, I, the almighty mobile application developer, was brought down by a pesky bug that was causing my precious creation to crash frequently for users.
-
-### [266. Introduction to Local Variable Type Inferences: Declare Var, Not War](https://hackernoon.com/introduction-to-local-variable-type-inferences-declare-var-not-war-oy2731uw)
-![](https://cdn.hackernoon.com/images/jUaZ7H8q4Eaa7nCwEGiEuaActit1-i23n3wby.jpeg)
-In this article, I will try to explain Java 10 new feature local variable type inference using reserved type name var.
-
-### [267. How to Retrofit ExpressionEngine 1 and 2 for PHP 7](https://hackernoon.com/how-to-retrofit-expressionengine-1-and-2-for-php-7-131o31kb)
-![](https://cdn.hackernoon.com/images/6Hfcq2KS46ggNUv0Qni0yxtxozD3-952h3290.jpeg)
-ExpressionEngine 1.x and 2.x are really solid, but they definitely do not work on PHP 7. Because I went through this process a couple times, I’ve now documented
 
 ### [268. What the FORK Are You Doing to That Repository?!](https://hackernoon.com/what-the-fork-are-you-doing-to-that-repository)
 ![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-b293twv.jpeg)
@@ -1094,59 +1098,63 @@ Today, we're going to talk about one of the most important features of GitHub, a
 ![](https://cdn.hackernoon.com/images/fNyP0kNO9DbrsOwpViDuPpKplcq1-z193pvl.jpeg)
 This article is all about code auditing and how it helps in refining application code. It also explains the different types of code reviews and how they are use
 
-### [270. Beyond the Code: Every Developer Needs These Essential Skills](https://hackernoon.com/beyond-the-code-every-developer-needs-these-essential-skills)
+### [270. Introduction to Local Variable Type Inferences: Declare Var, Not War](https://hackernoon.com/introduction-to-local-variable-type-inferences-declare-var-not-war-oy2731uw)
+![](https://cdn.hackernoon.com/images/jUaZ7H8q4Eaa7nCwEGiEuaActit1-i23n3wby.jpeg)
+In this article, I will try to explain Java 10 new feature local variable type inference using reserved type name var.
+
+### [271. Beyond the Code: Every Developer Needs These Essential Skills](https://hackernoon.com/beyond-the-code-every-developer-needs-these-essential-skills)
 ![](https://cdn.hackernoon.com/images/I3okItszmFTiLlRDfueu4W3T5r92-iq830gz.jpeg)
 Mental toughness, inspiration, and physical fitness all play crucial roles in enhancing a developer's overall productivity and creativity. 
 
-### [271. Mastering Public Static and Void Functions: Key Concepts for Effective Coding](https://hackernoon.com/mastering-public-static-and-void-functions-key-concepts-for-effective-coding)
-![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-xc93pnm.jpeg)
-While "public static" as well as "void" fulfill separate functions, it is critical to grasp the distinctions between them to fully utilize their capabilities.
+### [272. How to Retrofit ExpressionEngine 1 and 2 for PHP 7](https://hackernoon.com/how-to-retrofit-expressionengine-1-and-2-for-php-7-131o31kb)
+![](https://cdn.hackernoon.com/images/6Hfcq2KS46ggNUv0Qni0yxtxozD3-952h3290.jpeg)
+ExpressionEngine 1.x and 2.x are really solid, but they definitely do not work on PHP 7. Because I went through this process a couple times, I’ve now documented
 
-### [272. 3 Key Questions You Need To Answer Before You Push That Code](https://hackernoon.com/3-key-questions-you-need-to-answer-before-you-push-that-code-151e37ke)
+### [273. 3 Key Questions You Need To Answer Before You Push That Code](https://hackernoon.com/3-key-questions-you-need-to-answer-before-you-push-that-code-151e37ke)
 ![](https://cdn.hackernoon.com/images/VYFvDJGGenPQZq5ySkJyLo2Vbmr1-848427jx.jpeg)
 Before you commit that code and push it to the server deployment, ask yourself these three questions.
 
-### [273. The Unsung Peer-to-Peer Review](https://hackernoon.com/the-unsung-peer-to-peer-review-j22i33aj)
+### [274. The Unsung Peer-to-Peer Review](https://hackernoon.com/the-unsung-peer-to-peer-review-j22i33aj)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-i2n330w.jpeg)
 The benefits of peer-to-peer reviews accrue to both the organization and the individuals.
 
-### [274. 9 Compelling Reasons Why You Should Open Source Your Projects](https://hackernoon.com/9-compelling-reasons-why-you-should-open-source-your-projects)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gb92bv2.jpeg)
-Why would you ever wanna open-source anything? Well, there are a lot of reasons why you should open-source your projects.
-
-### [275. Migration from Magento 1 to Magento 2: Handling Performance Issues](https://hackernoon.com/migration-from-magento-1-to-magento-2-handling-performance-issues)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-cz1m35ak.jpeg)
-All Magento 2 migration pitfalls are revealed in the article, it helps you decide whether to switch from Magento 1 to Magento 2. 
-
-### [276. How To Get Your Kids Coding: A Quick Guide for Moms & Dads](https://hackernoon.com/how-to-get-your-kids-coding-a-quick-guide-for-moms-and-dads)
+### [275. How To Get Your Kids Coding: A Quick Guide for Moms & Dads](https://hackernoon.com/how-to-get-your-kids-coding-a-quick-guide-for-moms-and-dads)
 ![](https://cdn.hackernoon.com/images/DWD7JrarmWhP3qzWMtUFXC19pbm1-7e93poe.jpeg)
 Coding for kids is one of the hottest topics among many parents and teachers right now. Here, I'll explain the benefits of learning to code at a young age.
+
+### [276. 9 Compelling Reasons Why You Should Open Source Your Projects](https://hackernoon.com/9-compelling-reasons-why-you-should-open-source-your-projects)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gb92bv2.jpeg)
+Why would you ever wanna open-source anything? Well, there are a lot of reasons why you should open-source your projects.
 
 ### [277. Want to Hire Remote Developers? Here's How to do it Successfully](https://hackernoon.com/want-to-hire-remote-developers-heres-how-to-do-it-successfully)
 ![](https://cdn.hackernoon.com/images/zkv4h2BkN9goXfqjBmedkZPZcED3-f6b3h62.jpeg)
 How to hire remote developers: · Essential skills for remote work · How can we evaluate skills · What else to pay attention to
 
-### [278. How to Find the Stinky Parts of Your Code: 251 - Empty Collections ](https://hackernoon.com/code-smell-251-collections-empty)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-ue832aw.jpeg)
-Learn why using declarative names is crucial for code clarity, performance optimization. and avoiding code smells. 
+### [278. Migration from Magento 1 to Magento 2: Handling Performance Issues](https://hackernoon.com/migration-from-magento-1-to-magento-2-handling-performance-issues)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-cz1m35ak.jpeg)
+All Magento 2 migration pitfalls are revealed in the article, it helps you decide whether to switch from Magento 1 to Magento 2. 
 
 ### [279. Are You the Baby Yoda or Jar Jar Binks of Programming?](https://hackernoon.com/are-you-the-baby-yoda-or-jar-jar-binks-of-programming)
 ![](https://cdn.hackernoon.com/images/qbjdMko7eFaiqBJgAApmsjilPv83-8893mpw.jpeg)
 Channeling my inner Sherlock Holmes and armed with the wisdom of every iconic animated sitcom and sci-fi series known to man, I  present to you the unseen and u
 
-### [280. Run Executable Applications In the Cloud with Team Code](https://hackernoon.com/run-executable-applications-in-the-cloud-with-team-code)
-![](https://cdn.hackernoon.com/images/QZPDOx2fPXgPotcyq5iL0vPtza53-3ja37g9.jpeg)
-How to quickly set up GitLab-ce in minutes using Tin? Just follow six steps...
+### [280. How to Find the Stinky Parts of Your Code: 251 - Empty Collections ](https://hackernoon.com/code-smell-251-collections-empty)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-ue832aw.jpeg)
+Learn why using declarative names is crucial for code clarity, performance optimization. and avoiding code smells. 
 
 ### [281. Darn, Must I Learn 'X' to Get a Job as a Developer?](https://hackernoon.com/darn-must-i-learn-x-to-get-a-job-as-a-developer)
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-je93r1f.jpeg)
 A developer's life is a never-ending saga of learning new things. It's like you're playing Diablo where every new Jira ticket can feel like the next mini-boss.
 
-### [282. What is the Lisk Codec and How Well Does it Perform?](https://hackernoon.com/what-is-the-lisk-codec-and-how-well-does-it-perform-g12535ih)
+### [282. Run Executable Applications In the Cloud with Team Code](https://hackernoon.com/run-executable-applications-in-the-cloud-with-team-code)
+![](https://cdn.hackernoon.com/images/QZPDOx2fPXgPotcyq5iL0vPtza53-3ja37g9.jpeg)
+How to quickly set up GitLab-ce in minutes using Tin? Just follow six steps...
+
+### [283. What is the Lisk Codec and How Well Does it Perform?](https://hackernoon.com/what-is-the-lisk-codec-and-how-well-does-it-perform-g12535ih)
 ![](https://cdn.hackernoon.com/images/GSN9VJGOaZXMU6zEAhjLZYX4ZXW2-qoiu35av.jpeg)
 Serializing is the process of encoding information into bytes. Much fun! but oh so instrumental in blockchain.
 
-### [283. Here are Some of the Most Useful Coding Sites for Beginners](https://hackernoon.com/here-are-some-of-the-most-useful-coding-sites-for-beginners-k68e3thy)
+### [284. Here are Some of the Most Useful Coding Sites for Beginners](https://hackernoon.com/here-are-some-of-the-most-useful-coding-sites-for-beginners-k68e3thy)
 ![](https://cdn.hackernoon.com/drafts/2p743v9t.png)
 If you have ever picked up a controller and guided a digital avatar through their own adventure then you may wonder what actually goes into creating a video game. Video games are of course one of the fastest-growing sources of entertainment and they are becoming so important in this day and age. Educational and training programs are now utilising them as tools and it is more important than ever to recognise how useful they can be. If you want to find out more about gaming and coding then simply take a look below.
 

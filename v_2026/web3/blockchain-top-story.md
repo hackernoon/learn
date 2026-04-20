@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [blockchain-top-story](https://hackernoon.com/tagged/blockchain-top-story)
+### Let's learn about [Blockchain Top Story](https://hackernoon.com/tagged/blockchain-top-story) via these 205 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 The best of the best of the blockchain stories.
 
 ### [1. Reboot: A New Operating System for Humanity ](https://hackernoon.com/reboot-a-new-operating-system-for-humanity-up303y8w)
@@ -63,13 +65,13 @@ The most recent non-fungible token (NFT) boom may have you thinking that NFTs ar
 ![](https://cdn.filestackcontent.com/OEsYS59SO6L1w13vmdUQ)
 As of today, there are over 24 layer-1 blockchain projects just within the first 100 listings in coinmarketcap.com. Guess, what? Each of them claims to be the “next-big-thing”, still they are just a broken iteration of one other.
 
-### [16. WTF Happened to Solana's Proof of History? ](https://hackernoon.com/wtf-happened-to-solanas-proof-of-history)
-![](https://cdn.hackernoon.com/images/5Bjz78MORcPQx3lUTVedEHus0mG2-p9137rc.jpeg)
-A blockchain architect explains Solana (and what's wrong with it)
-
-### [17. 4 Must-Have Crypto Browser Extensions ](https://hackernoon.com/4-must-have-crypto-browser-extensions)
+### [16. 4 Must-Have Crypto Browser Extensions ](https://hackernoon.com/4-must-have-crypto-browser-extensions)
 ![](https://cdn.hackernoon.com/images/ghNSk6l5TwN1Zm4sPpFRTGpklu93-4793m0g.jpeg)
 Top crypto browser extensions to help you in your crypto journey.
+
+### [17. WTF Happened to Solana's Proof of History? ](https://hackernoon.com/wtf-happened-to-solanas-proof-of-history)
+![](https://cdn.hackernoon.com/images/5Bjz78MORcPQx3lUTVedEHus0mG2-p9137rc.jpeg)
+A blockchain architect explains Solana (and what's wrong with it)
 
 ### [18. Quantum Computing vs Blockchain Cryptography - Facts, Myths, and Synergies](https://hackernoon.com/quantum-computing-and-blockchain-facts-and-myths-l71w28d2)
 ![](https://cdn.hackernoon.com/drafts/uf1py28hc.png)
@@ -88,13 +90,13 @@ Ethereum is a blockchain with a built-in Turing-complete programming language. I
 ![](https://cdn.hackernoon.com/images/gW54tsMEjpSGNI2OvRWVLcsWJtD3-iqj3jea.jpeg)
 Discover which blockchain platforms are enabling both web users and businesses to monetise their time, data, content and more in 2021 and beyond.
 
-### [22. Build a “Smart Blockchain” with Python [DIY]](https://hackernoon.com/build-a-smart-blockchain-with-python-diy-0qbm3243)
-![](drafts/4j25y32oq.png)
-In this article, we are going to implement a simple and plain “smart blockchain” with Python language and compare it with a blockchain. We hope that by doing this, the main concepts and advantages of this technology will be more clearly specified and welcomed by the developers and the blockchain community. 
-
-### [23. Decentralized Uber: Here's How I Built It With Status.im, Waku, and Vue.js](https://hackernoon.com/decentralized-uber-heres-how-i-built-it-with-statusim-waku-and-vuejs)
+### [22. Decentralized Uber: Here's How I Built It With Status.im, Waku, and Vue.js](https://hackernoon.com/decentralized-uber-heres-how-i-built-it-with-statusim-waku-and-vuejs)
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-hz029y9.jpeg)
 Write a decentralized Uber using Status.im Waku and Vue.js
+
+### [23. Build a “Smart Blockchain” with Python [DIY]](https://hackernoon.com/build-a-smart-blockchain-with-python-diy-0qbm3243)
+![](drafts/4j25y32oq.png)
+In this article, we are going to implement a simple and plain “smart blockchain” with Python language and compare it with a blockchain. We hope that by doing this, the main concepts and advantages of this technology will be more clearly specified and welcomed by the developers and the blockchain community. 
 
 ### [24. The State of Blockchain Interoperability in 2021](https://hackernoon.com/the-state-of-blockchain-interoperability-in-2021-bb1s33of)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-64w33nk.jpeg)
@@ -173,17 +175,17 @@ This is the story of dOrg’s evolution from a few passionate engineers to a het
 ![](https://cdn.hackernoon.com/images/4tZzhRSFZzMlzgjspBZZh3F9cH83-et1t20g7.jpeg)
 YouTube creators and users are fleeing to decentralized, blockchain-based platforms, which offer greater choice and less exploitation.
 
-### [43. Blockchain as a Distributed File System: How Would It Work?](https://hackernoon.com/blockchain-as-a-distributed-file-system-how-would-it-work-ca1f3y3l)
+### [43. Gnosis Conditional Token Framework (CTF): Tokenizing Potential Outcomes in Prediction Markets](https://hackernoon.com/gnosis-conditional-token-framework-ctf-tokenizing-potential-outcomes-in-prediction-markets)
+![](https://cdn.hackernoon.com/images/h0XtIod66DaP2koPALYQa8EXcMj1-zr1333i.png)
+The concept of the "Gnosis conditional token framework" implements a codebase for tokenizing potential outcomes in prediction markets. 
+
+### [44. Blockchain as a Distributed File System: How Would It Work?](https://hackernoon.com/blockchain-as-a-distributed-file-system-how-would-it-work-ca1f3y3l)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-0nk3y2e.jpeg?alt=media&token=5ba9820c-d5d5-4ac5-98d9-d19a697e050c)
 In this article, we propose a blockchain network that acts as a centralized append-only distributed file system (DFS) such as Hadoop Distributed File System (HDFS) or Google File System (GFS). The potential advantages of blockchain as a distributed file system (BaaDFS) include:
 
-### [44. Blockchain 2030: Prepare For the Deep Truth…](https://hackernoon.com/blockchain-2030-prepare-yourself-for-the-deep-truth-5vh32uy)
+### [45. Blockchain 2030: Prepare For the Deep Truth…](https://hackernoon.com/blockchain-2030-prepare-yourself-for-the-deep-truth-5vh32uy)
 ![](https://cdn.hackernoon.com/drafts/gda132xd.png)
 In this week’s article we’re going to continue our exercise in futurism and imagine a world post-4th industrial revolution. Taking Alain Demasio’s ‘regime of the trace’ as a starting point, we’ll take a detour into the era of the ‘deep fake’ before we enter into the age of the ‘deep truth’.
-
-### [45. Gnosis Conditional Token Framework (CTF): Tokenizing Potential Outcomes in Prediction Markets](https://hackernoon.com/gnosis-conditional-token-framework-ctf-tokenizing-potential-outcomes-in-prediction-markets)
-![](https://cdn.hackernoon.com/images/h0XtIod66DaP2koPALYQa8EXcMj1-zr1333i.png)
-The concept of the "Gnosis conditional token framework" implements a codebase for tokenizing potential outcomes in prediction markets. 
 
 ### [46. WTF is a Decentralized Identity?](https://hackernoon.com/wtf-is-a-decentralized-identity-272b3xwg)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEjdgOLUj9wQ1oM0qQajGRIAkh4S2-bm2a3fye.gif?alt=media&token=875047a9-db8b-43d2-8002-fdc903af30e4)
@@ -267,13 +269,13 @@ In our previous review, we made a detailed overview of Telegram Open Network an
 ![](https://images.unsplash.com/photo-1549813069-f95e44d7f498?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The impact of Libra on Global Finance
 
-### [66. Decentralized Internet: A Sitcom Pipe-Dream or An Impending Possibility](https://hackernoon.com/the-battle-over-decentralized-internet-qsi936ri)
-![](https://cdn.hackernoon.com/drafts/cohw36sn.png)
-Viewers of popular HBO sitcom Silicon Valley would already be familiar with the idea of Decentralized Internet. Termed as the ‘new Internet’ in the series, the lead characters conceive a decentralized peer-to-peer (P2P) network built using smartphones. They even create their own coin and launch an ICO. 
-
-### [67. Blockchain Explained - For Noobs](https://hackernoon.com/blockchain-explained-for-noobs)
+### [66. Blockchain Explained - For Noobs](https://hackernoon.com/blockchain-explained-for-noobs)
 ![](https://cdn.hackernoon.com/images/Ki0s6KrHo0TbF2TNPyb1p3oNtQi1-0j93j6y.jpeg)
 The most basic blog on blockchain for all the noobs out here.
+
+### [67. Decentralized Internet: A Sitcom Pipe-Dream or An Impending Possibility](https://hackernoon.com/the-battle-over-decentralized-internet-qsi936ri)
+![](https://cdn.hackernoon.com/drafts/cohw36sn.png)
+Viewers of popular HBO sitcom Silicon Valley would already be familiar with the idea of Decentralized Internet. Termed as the ‘new Internet’ in the series, the lead characters conceive a decentralized peer-to-peer (P2P) network built using smartphones. They even create their own coin and launch an ICO. 
 
 ### [68. ZKPs or Zero Knowledge Proofs Are Evolving Blockchains [Explained in non-technical terms]](https://hackernoon.com/how-zero-knowledge-proofs-are-changing-blockchain-in-non-technical-terms-y0aa3nr8)
 ![](https://cdn.hackernoon.com/drafts/m7o3nwm.png)
@@ -371,13 +373,13 @@ Tezos certainly stands out from the mass of the many ICO projects of 2017 due to
 ![](https://cdn.hackernoon.com/images/EN7ovywD0mP2v0n5tMnzos6rf0t2-f4e22cca.jpeg)
 Every blockchain follows a consensus protocol to assign blocks but some consensus like ABBA is created to give security, scalability, and stability. 
 
-### [92. Yield Farming Cannot Be The Organic Future of Blockchain](https://hackernoon.com/yield-farming-cannot-be-the-organic-future-of-blockchain-rl1o3y84)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fj0VtDypzqdQAzD1HIwwLcPPudCh1-xj53yir.webp?alt=media&token=db3e986e-a62a-4b2b-8c5e-7fa8fb0ce8df)
-High APY won’t last long, Defi + upgraded DAO is the true future
-
-### [93. Dapps Need To Go Beyond Client/Server Models If They Want Higher Adoption Rates](https://hackernoon.com/dapps-needs-to-go-beyond-clientserver-models-if-they-want-higher-adoption-rates-7wi4327o)
+### [92. Dapps Need To Go Beyond Client/Server Models If They Want Higher Adoption Rates](https://hackernoon.com/dapps-needs-to-go-beyond-clientserver-models-if-they-want-higher-adoption-rates-7wi4327o)
 ![](https://cdn.hackernoon.com/images/9s9ob1t53.jpg)
 About a year ago I was excited to hear about the growing number of Decentralized Applications (Dapps) appearing on the EOS mainnet.  I started to investigate these Dapps and came away disappointed. Most of the, so-called Dapps were traditional client/server web applications that simply utilized a blockchain component, called a smart contract that existed on the blockchain. 
+
+### [93. Yield Farming Cannot Be The Organic Future of Blockchain](https://hackernoon.com/yield-farming-cannot-be-the-organic-future-of-blockchain-rl1o3y84)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fj0VtDypzqdQAzD1HIwwLcPPudCh1-xj53yir.webp?alt=media&token=db3e986e-a62a-4b2b-8c5e-7fa8fb0ce8df)
+High APY won’t last long, Defi + upgraded DAO is the true future
 
 ### [94. How to Launch Your Own Blockchain: Mainnet Support](https://hackernoon.com/how-to-launch-your-own-blockchain-mainnet-support-zo113yc9)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fju805FJCAPOE7DWpBvKE3ZSHtVs2-7p183ypr.jpeg?alt=media&token=4e9aeeba-dfa8-45c9-bff1-eb6f700abcd9)
@@ -400,13 +402,13 @@ Now that NFTs are back on the rise, many investors are trying to find a way in, 
 ![](https://cdn.hackernoon.com/drafts/6i31338w.png)
 Since 2013, blockchain startups have raised over $23 billion, with the vast majority of that investment coming from Initial Coin Offerings (ICOs). Between eliminating intermediaries and having short investment timeframes, the advantages of crypto fundraising proved to be massive.
 
-### [99. The War against COVID-19: Where we Stand and How Blockchain Could Help Us ](https://hackernoon.com/the-war-against-covid-19-where-we-stand-and-how-blockchain-could-help-us-u43v32r6)
-![](https://cdn.hackernoon.com/images/t22p832yw.jpg)
-‘Corona virus’ (or COVID-19 as it is formally known) is the foremost topic on everyone’s mind today. Scanning our social media feed or checking the official website to stay updated with the latest news regarding the disease has almost become second nature. No dinner table discussion and no phone conversations is complete without a reference to the mayhem this disease has left in its wake. 
-
-### [100. In A World of Rigid Opinions and Rules, Be As Fluid As Water](https://hackernoon.com/in-a-world-of-rigid-opinions-and-rules-be-as-fluid-as-water-vw4a345m)
+### [99. In A World of Rigid Opinions and Rules, Be As Fluid As Water](https://hackernoon.com/in-a-world-of-rigid-opinions-and-rules-be-as-fluid-as-water-vw4a345m)
 ![](https://cdn.hackernoon.com/images/NlUP4LntupOgAdPnBUo8txYVH992-llu35s8.jpeg)
 Why the blockchain and cryptocurrency revolution is something to be embraced. 
+
+### [100. The War against COVID-19: Where we Stand and How Blockchain Could Help Us ](https://hackernoon.com/the-war-against-covid-19-where-we-stand-and-how-blockchain-could-help-us-u43v32r6)
+![](https://cdn.hackernoon.com/images/t22p832yw.jpg)
+‘Corona virus’ (or COVID-19 as it is formally known) is the foremost topic on everyone’s mind today. Scanning our social media feed or checking the official website to stay updated with the latest news regarding the disease has almost become second nature. No dinner table discussion and no phone conversations is complete without a reference to the mayhem this disease has left in its wake. 
 
 ### [101. How Do Non-Custodial Exchanges Work Without A User Management System?](https://hackernoon.com/how-do-non-custodial-exchanges-work-without-a-user-management-system-a52532rb)
 ![](https://cdn.hackernoon.com/drafts/f97ah3cl2.png)
@@ -432,15 +434,15 @@ Decentralized finance dApps (DeFi) are, without a doubt, the way we can see real
 ![](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 “The blockchain cannot be described just as a revolution. It is a tsunami-like phenomenon, slowly advancing and gradually enveloping everything along its way by the force of its progression.” In these words, William Mougayar, one of the greatest proponents of blockchain, praises the colossal impact of the decentralized ledger on everything. 
 
-### [107. From 0 to 1000 Nodes on a Testnet: Case Study on Avalanche Denali](https://hackernoon.com/from-0-to-1000-nodes-on-a-testnet-case-study-on-avalanche-denali-tpl3xtp)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvNInWpsKG7MCwJDoKRnJ5OkI9lU2-13433yll.webp?alt=media&token=1e460080-ef96-4c53-9775-eb39abbf245b)
-What is a testnet?
-
-### [108. Tokenized Locking in an Algorithmic Backed Protocol](https://hackernoon.com/tokenized-locking-in-an-algorithmic-backed-protocol)
+### [107. Tokenized Locking in an Algorithmic Backed Protocol](https://hackernoon.com/tokenized-locking-in-an-algorithmic-backed-protocol)
 ![](https://cdn.hackernoon.com/images/plQ0JTtaW1UhmN7lyFefQnpiw8T2-xt93qea.jpeg)
 When compared to other options, the idea of locking funds in any way costs the user, but it benefits both the user and the system in terms of stability.
 
 
+
+### [108. From 0 to 1000 Nodes on a Testnet: Case Study on Avalanche Denali](https://hackernoon.com/from-0-to-1000-nodes-on-a-testnet-case-study-on-avalanche-denali-tpl3xtp)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvNInWpsKG7MCwJDoKRnJ5OkI9lU2-13433yll.webp?alt=media&token=1e460080-ef96-4c53-9775-eb39abbf245b)
+What is a testnet?
 
 ### [109. The World's Largest Block...and Solving the Scalability Problem with the RIFT Protocol](https://hackernoon.com/solving-the-blockchain-scalability-problem-with-the-rift-protocol-jn1j2g75)
 ![](https://cdn.hackernoon.com/drafts/qy3p2gjv.png)
@@ -466,30 +468,30 @@ Security tokens can become as big as NFTs if we follow these steps.
 ![](https://cdn.hackernoon.com/images/uKwFjfuW0TZKUJSnXICF6Odzx4m2-2z034zs.jpeg)
 Ethereum traded off decentralization for security and scalability. Developers came up with a slew of innovations collectively known as layer two solutions. 
 
-### [115. The Overfitting Challenge in Blockchain Analysis](https://hackernoon.com/the-overfitting-challenge-in-blockchain-analysis-4ho33y4)
-![](https://cdn.hackernoon.com/images/sfbf3as6.jpg)
-Machine learning models tend to overfit when used with blockchain datasets. What is overfitting and how to address it?
-
-### [116. A Donald Trump Dao Is Here! Who Needs It?](https://hackernoon.com/a-donald-trump-dao-is-here-who-needs-it)
+### [115. A Donald Trump Dao Is Here! Who Needs It?](https://hackernoon.com/a-donald-trump-dao-is-here-who-needs-it)
 ![](https://cdn.hackernoon.com/images/XEwEsoKKiSM0pGjq4dyeehqOfjj2-1l92lb4.jpeg)
 I stumbled upon a rather bizarre discovery last night on JuiceBox, the Ethereum-based fundraising protocol. Yes, you guessed it, A Donald Trump DAO. 
+
+### [116. The Overfitting Challenge in Blockchain Analysis](https://hackernoon.com/the-overfitting-challenge-in-blockchain-analysis-4ho33y4)
+![](https://cdn.hackernoon.com/images/sfbf3as6.jpg)
+Machine learning models tend to overfit when used with blockchain datasets. What is overfitting and how to address it?
 
 ### [117. The Blockchain - A Look At How It Works and Why We Need It](https://hackernoon.com/what-is-blockchain-how-does-it-work-why-do-we-need-it)
 ![](https://cdn.hackernoon.com/images/5L1PsURyndeLVm1wIoUdHEN6ZP12-4093pvt.jpeg)
 In the past few years, the term blockchain has gotten a lot of attention from major media outlets and the public.
 
-### [118. Societies and Decentralized Systems Have A Lot In Common](https://hackernoon.com/societies-and-decentralized-systems-have-a-lot-in-common-kd5533v2)
+### [118. Koinos Blockchain v0.3.0 Released: Fee-Less Blockchain Enters The Fray](https://hackernoon.com/koinos-blockchain-v030-released-fee-less-blockchain-enters-the-fray)
+![](https://cdn.hackernoon.com/images/5Bjz78MORcPQx3lUTVedEHus0mG2-9ta3i5z.jpeg)
+The 3rd and FINAL version of Koinos, the most flexible blockchain EVER, is now LIVE
+
+### [119. Societies and Decentralized Systems Have A Lot In Common](https://hackernoon.com/societies-and-decentralized-systems-have-a-lot-in-common-kd5533v2)
 ![](https://cdn.hackernoon.com/images/Ru7WPbLzN8P920CPOVAH0xi61112-mm4u33fp.jpeg)
 
 
 
-### [119. Tokenization of Intellectual Property Rights — Part 3: Trade Secrets & Their Tokenization](https://hackernoon.com/tokenization-of-intellectual-property-rights-part-3-trade-secrets-and-their-tokenization-q5173ki3)
+### [120. Tokenization of Intellectual Property Rights — Part 3: Trade Secrets & Their Tokenization](https://hackernoon.com/tokenization-of-intellectual-property-rights-part-3-trade-secrets-and-their-tokenization-q5173ki3)
 ![](https://cdn.hackernoon.com/drafts/75yk3ksn.png)
 In the last two posts, I tried to give information about IP rights in general and discussed patent rights and if they fit in tokenization. If this is the first time you check my page, I recommend you to check my last two articles: here and here .
-
-### [120. Koinos Blockchain v0.3.0 Released: Fee-Less Blockchain Enters The Fray](https://hackernoon.com/koinos-blockchain-v030-released-fee-less-blockchain-enters-the-fray)
-![](https://cdn.hackernoon.com/images/5Bjz78MORcPQx3lUTVedEHus0mG2-9ta3i5z.jpeg)
-The 3rd and FINAL version of Koinos, the most flexible blockchain EVER, is now LIVE
 
 ### [121. The CoronaVirus' Impact On World Economies: The Good and The Bad](https://hackernoon.com/the-coronavirus-impact-on-world-economies-the-good-and-the-bad-4t5h32tk)
 ![](https://images.unsplash.com/photo-1552234876-5fb207d6242b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -511,17 +513,17 @@ The most used & abused buzzword of the entire crypto industry so far has been de
 ![](https://cdn.hackernoon.com/drafts/tzl2i18.png)
 While Bloomberg has celebrated the best decade in history for financial returns, it is not a coincidence that wealth inequality has reached proportions not seen since the roaring´20s. And while this does not seem to concern the financial elites — who celebrated another fat end of the year — this is in reality a major concern for all the others, the 99,..%ers. 
 
-### [126. Scale and Decentralization Shouldn’t Be at Odds](https://hackernoon.com/scale-and-decentralization-shouldnt-be-at-odds-jn5532fy)
+### [126. Accommodating Data-Based Networks on the Blockchain](https://hackernoon.com/accommodating-data-based-networks-on-the-blockchain)
+![](https://cdn.hackernoon.com/images/9vtRqXPYjXc1LRCXVTELc59Myu63-zqa3oej.jpeg)
+The need to organize data is now, and we have to scale with it. 
+
+### [127. Scale and Decentralization Shouldn’t Be at Odds](https://hackernoon.com/scale-and-decentralization-shouldnt-be-at-odds-jn5532fy)
 ![](https://cdn.hackernoon.com/drafts/j57j32s1.png)
 The blockchain industry has been caught in a very limited mindset of how to judge a blockchain’s potential for meeting the needs of the modern digital economy. Transactions per second (TPS), the dominant unit for measuring the ability to scale, appears to be the only concern when designing blockchains. 
 
-### [127. EIP-1559 Explained With the Story of the Crypto Village](https://hackernoon.com/eip-1559-explained-with-the-story-of-the-crypto-village)
+### [128. EIP-1559 Explained With the Story of the Crypto Village](https://hackernoon.com/eip-1559-explained-with-the-story-of-the-crypto-village)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-w4o37mx.jpeg)
 Ethereum Investment Proposal EIP-1559 explained with a story of a crypto village
-
-### [128. Accommodating Data-Based Networks on the Blockchain](https://hackernoon.com/accommodating-data-based-networks-on-the-blockchain)
-![](https://cdn.hackernoon.com/images/9vtRqXPYjXc1LRCXVTELc59Myu63-zqa3oej.jpeg)
-The need to organize data is now, and we have to scale with it. 
 
 ### [129. Experience Lightning-fast Transactions With Solana and Chat GPT at Your Fingertips!](https://hackernoon.com/experience-lightning-fast-transactions-with-solana-and-chat-gpt-at-your-fingertips)
 ![](https://cdn.hackernoon.com/images/0P2Wg1zGOVSgz4UR63XpDXcJ6xD2-c193yas.jpeg)
@@ -543,14 +545,14 @@ Growing up in South Africa, the team at Wildcards witnessed first-hand the impac
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGwZ4a1OS3uMhvLngHCl9tofBO1J2-kkq73u6e.jpeg?alt=media&token=5a21fee5-a9c9-49d7-a5a2-edd4cf764001)
 Global GDP rose by 2.2% in 2019, the slowest since the financial crisis of 2008 - 2009. Despite the impact of Covid-19, the global economy is expected to expand by 2.4% in 2020.
 
-### [134. What Is It About Blockchain That Seduces Normies: An Analysis Through Free TON's Lens](https://hackernoon.com/what-is-it-about-blockchain-that-seduces-normies-an-analysis-through-free-tons-lens-294v33s0)
-![](https://cdn.hackernoon.com/images/v6WxeZKmn3XLcnGFkevPft6MID23-zx2r35co.jpeg)
-Making blockchain more tangible to the average person will help attract millions of people.
-
-### [135. About Loss and Crypto:
+### [134. About Loss and Crypto:
 Never Lose Access, Ensure Loved Ones Inherit It](https://hackernoon.com/about-loss-and-crypto-never-lose-access-ensure-loved-ones-inherit-it)
 ![](https://cdn.hackernoon.com/images/BGPJgyOxZXdpI9mLj83kvUHMgtS2-oa93rx6.jpeg)
 The private keys loss issues represent the main hindrance to mass adoption of the whole crypto sector of DeFi and all the potential benefits.
+
+### [135. What Is It About Blockchain That Seduces Normies: An Analysis Through Free TON's Lens](https://hackernoon.com/what-is-it-about-blockchain-that-seduces-normies-an-analysis-through-free-tons-lens-294v33s0)
+![](https://cdn.hackernoon.com/images/v6WxeZKmn3XLcnGFkevPft6MID23-zx2r35co.jpeg)
+Making blockchain more tangible to the average person will help attract millions of people.
 
 ### [136. The Genesis Block and The Phantom: A Story of Satoshi Nakamoto](https://hackernoon.com/the-genesis-block-and-the-phantom-a-story-of-satoshi-nakamoto)
 ![](https://cdn.hackernoon.com/images/XEwEsoKKiSM0pGjq4dyeehqOfjj2-27c2lcv.jpeg)
@@ -580,13 +582,13 @@ Affiliate marketing is a lucrative way for web users to leverage their network t
 ![](https://cdn.hackernoon.com/drafts/tw25132n1.png)
 While regarding how to form a DAC, people are too optimistic or ideal. It seems DAC will start from scratch by itself when connecting people (it's definitely not, remember the Guild that the Mandalorian has joined, it is a typical DAC, you can see how complicated it is), no clear path was given or discussed so far. DAC would be the mainstream value creation entity in the Value Internet Era.
 
-### [143. Life and Death: Why Blockchain-Based Inheritance Plans Work in Today’s Web 3.0](https://hackernoon.com/life-and-death-why-blockchain-based-inheritance-plans-work-in-todays-web-30-xgj35m0)
-![](https://cdn.hackernoon.com/images/QdRQJW6V96b8SQtJgBmzVkZNOfl2-ki6q35jo.jpeg)
-For attorneys working with clients on their inheritance plans, what if you could create a digital inheritance and personal backup plan on the Blockchain? 
-
-### [144. Lessons From 2022 - The Worst Year for Crypto in History](https://hackernoon.com/lessons-from-2022-the-worst-year-for-crypto-in-history)
+### [143. Lessons From 2022 - The Worst Year for Crypto in History](https://hackernoon.com/lessons-from-2022-the-worst-year-for-crypto-in-history)
 ![](https://cdn.hackernoon.com/images/zmvSBGn2enZUIhIPlpbilt35gCE2-mz93o3v.jpeg)
 Let's think back on the most important things that happened in 2022  with crypto market and look ahead to see what 2023 has in store for us.
+
+### [144. Life and Death: Why Blockchain-Based Inheritance Plans Work in Today’s Web 3.0](https://hackernoon.com/life-and-death-why-blockchain-based-inheritance-plans-work-in-todays-web-30-xgj35m0)
+![](https://cdn.hackernoon.com/images/QdRQJW6V96b8SQtJgBmzVkZNOfl2-ki6q35jo.jpeg)
+For attorneys working with clients on their inheritance plans, what if you could create a digital inheritance and personal backup plan on the Blockchain? 
 
 ### [145. Blockchain-Verified Sentiment](https://hackernoon.com/blockchain-verified-sentiment-postulate-p0z936pj)
 ![](https://cdn.hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-z89230h.jpeg)
@@ -600,13 +602,13 @@ The idea of blockchain was first introduced in 1991 by Stuart Haber and Scott St
 ![](https://cdn.hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-xz823qt.jpeg)
 Before the widespread use of high-speed internet, distribution of software, music and movies was mostly anchored in physical media. Buyers of CDs and DVDs could sell the albums they no longer wanted or movies they had seen in secondary marketplaces such as eBay and Amazon or locally on Craigslist. 
 
-### [148. HOW BLOCKCHAIN IS COMING TO SAVE MODERN MEDICINE](https://hackernoon.com/how-blockchain-is-coming-to-save-modern-medicine-ph173zn3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrrklQPNbspZjuipgqdjB7er0G6e2-6be231u.jpeg?alt=media&token=f19a32f4-28da-4739-87cb-f9226633e7b6)
-Governments are spending more and more resources on medicine every year, with the world’s drug development market amounting to more than 350 billion USD per year. On top of that, the World Health Organization is reporting almost 40 million confirmed cases of Covid-19 and more than a million deaths since the beginning of 2020. As such, this current pandemic will only cause a significant increase in the demand for vaccines; a market that exceeded 42 billion USD in 2019 and is predicted to grow more than 14.7% CAGR (compound annual growth rate) between 2020 and 2026.
-
-### [149. P2E Coins and Why It’s Important to Pay Attention to Them](https://hackernoon.com/p2e-coins-and-why-its-important-to-pay-attention-to-them)
+### [148. P2E Coins and Why It’s Important to Pay Attention to Them](https://hackernoon.com/p2e-coins-and-why-its-important-to-pay-attention-to-them)
 ![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-aif3i0u.jpeg)
 P2E is making waves in the gaming and crypto markets and is becoming one of the main targets for crypto investors. Despite their rising popularity, there is so much misinformation about the play-to-earn model that some clarifications are required to understand why P2E coins are important, and why not all of them are here to stay.
+
+### [149. HOW BLOCKCHAIN IS COMING TO SAVE MODERN MEDICINE](https://hackernoon.com/how-blockchain-is-coming-to-save-modern-medicine-ph173zn3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrrklQPNbspZjuipgqdjB7er0G6e2-6be231u.jpeg?alt=media&token=f19a32f4-28da-4739-87cb-f9226633e7b6)
+Governments are spending more and more resources on medicine every year, with the world’s drug development market amounting to more than 350 billion USD per year. On top of that, the World Health Organization is reporting almost 40 million confirmed cases of Covid-19 and more than a million deaths since the beginning of 2020. As such, this current pandemic will only cause a significant increase in the demand for vaccines; a market that exceeded 42 billion USD in 2019 and is predicted to grow more than 14.7% CAGR (compound annual growth rate) between 2020 and 2026.
 
 ### [150. The Irony Of High Crypto Holders Amid Nigeria's CBN Ban](https://hackernoon.com/the-irony-of-high-crypto-holders-amid-nigerias-cbn-ban)
 ![](https://cdn.hackernoon.com/images/hXbOdbKl1qWLjPioITrVbjzu3Oo2-4gb2hqz.jpeg)
@@ -628,17 +630,17 @@ Everyone is talking about blockchain technology. Find out how the blockchain wav
 ![](https://cdn.hackernoon.com/images/q27cDSxmZpZjEf6z4gZc4ZBrLvw1-391373n.jpeg)
 I wish to discuss Polkadot's distinct key feature with our users in this article. We'll go over the benefits of this feature and why it's so valuable.
 
-### [155. The Blockchain Echo Chamber](https://hackernoon.com/the-blockchain-echo-chamber-1p2q46o7)
+### [155. How the Blockchain Will Improve Data Security](https://hackernoon.com/how-the-blockchain-will-improve-data-security-44m32uy)
+![](https://hackernoon.com/images/YXdiPGtHsXe2U90ySX5gKkqHLcn2-fs1n28ai.jpeg)
+As data privacy becomes sophisticated, so does it protection with the blockchain offering potential ways to secure it.
+
+### [156. The Blockchain Echo Chamber](https://hackernoon.com/the-blockchain-echo-chamber-1p2q46o7)
 ![](https://cdn.hackernoon.com/drafts/1756j46yo.png)
 For thousands of years, the "Byzantine Generals' Problem" was an un-answered riddle asking "how can two strangers trust each other without an intermediary?" Blockchain was the first-ever solution to this problem, enabling trust-less value transactions, leading to "decentralized applications" that take advantage of this to dis-intermediate everything from payment methods to word-of-mouth marketing, and more.
 
-### [156. Blockchain Technology and The Next Generation of Companies](https://hackernoon.com/blockchain-technology-and-the-next-generation-of-companies-pk6m36d5)
+### [157. Blockchain Technology and The Next Generation of Companies](https://hackernoon.com/blockchain-technology-and-the-next-generation-of-companies-pk6m36d5)
 ![](https://cdn.hackernoon.com/drafts/lgpu36ao.png)
 
-
-### [157. How the Blockchain Will Improve Data Security](https://hackernoon.com/how-the-blockchain-will-improve-data-security-44m32uy)
-![](https://hackernoon.com/images/YXdiPGtHsXe2U90ySX5gKkqHLcn2-fs1n28ai.jpeg)
-As data privacy becomes sophisticated, so does it protection with the blockchain offering potential ways to secure it.
 
 ### [158. 202 Stories To Learn About Blockchain Top Story](https://hackernoon.com/202-stories-to-learn-about-blockchain-top-story)
 ![](https://cdn.hackernoon.com/images/github/blockchain-top-story-625.png)
@@ -668,13 +670,13 @@ Nigeria's 2023 presidential election was marred by violence. Blockchain could so
 ![](https://cdn.hackernoon.com/images/bkhw36g7.jpg)
 These stories are from a two-part project. While this part is science fiction, the other part is about reality. Both parts are about mobile, blockchain, and cryptographically secure voting in the context of the US election system. (Reality Piece: link). 
 
-### [165. Digital IDs Can Prevent Information Warfare: A Deep Dive](https://hackernoon.com/digital-ids-can-prevent-information-warfare-a-deep-dive-3m1l3wf1)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOMFY4NBBMvOdiESUYsdL7D7M8Dd2-3sbe3qk0.jpeg?alt=media&token=ccb7ffea-7328-4cee-a060-881075be14b7)
-Despite the widespread controversy in the aftermath of the 2016 U.S. election, the public generally isn't aware that the term 'fake news' hardly captures the full extent of information manipulation on social media. 
-
-### [166. Dealing With Spammy Bots - How Humanode Uses Sybil-Resistance to Bash the Bad Bots in Discord](https://hackernoon.com/dealing-with-spammy-bots-how-humanode-uses-sybil-resistance-to-bash-the-bad-bots-in-discord)
+### [165. Dealing With Spammy Bots - How Humanode Uses Sybil-Resistance to Bash the Bad Bots in Discord](https://hackernoon.com/dealing-with-spammy-bots-how-humanode-uses-sybil-resistance-to-bash-the-bad-bots-in-discord)
 ![](https://cdn.hackernoon.com/images/pdNpXCdz7hYdjvghqFeCGCNGyAq1-an93t0t.jpeg)
 In the world of web 3.0, online communities are a vital part of building and sustaining projects.
+
+### [166. Digital IDs Can Prevent Information Warfare: A Deep Dive](https://hackernoon.com/digital-ids-can-prevent-information-warfare-a-deep-dive-3m1l3wf1)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOMFY4NBBMvOdiESUYsdL7D7M8Dd2-3sbe3qk0.jpeg?alt=media&token=ccb7ffea-7328-4cee-a060-881075be14b7)
+Despite the widespread controversy in the aftermath of the 2016 U.S. election, the public generally isn't aware that the term 'fake news' hardly captures the full extent of information manipulation on social media. 
 
 ### [167. Revising The Basics of Blockchain Part 2: Blockchain Consensus Mechanisms](https://hackernoon.com/revising-the-basics-of-blockchain-part-2-blockchain-consensus-mechanisms-rx2335wg)
 ![](https://cdn.hackernoon.com/images/mWLOxsAkOlYShZAKdljM2PL80h53-a35u37zm.jpeg)
@@ -713,13 +715,13 @@ The problem in accessing of Ethereum blockchain, the 'gatekeepers' to writing on
 ![](https://cdn.hackernoon.com/drafts/sym333jd.png)
 Cruise liner Oasis of the Seas with a capacity of 2500 people
 
-### [176. Sharding in QuarkChain — A Deep Dive into State Partitioning](https://hackernoon.com/sharding-in-quarkchain-a-deep-dive-into-state-partitioning-8f8a30mr)
-![](https://images.unsplash.com/photo-1551814360-3c38192c5688?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Overview Design of QuarkChain Sharding
-
-### [177. A Legal Strategy for Regulating Blockchain](https://hackernoon.com/a-legal-strategy-for-regulating-blockchain-1j7b3766)
+### [176. A Legal Strategy for Regulating Blockchain](https://hackernoon.com/a-legal-strategy-for-regulating-blockchain-1j7b3766)
 ![](https://cdn.hackernoon.com/drafts/er2l3r3e.png)
 This article discusses how financial regulators can regulate smart contracts in such a way that the adoption of the blockchain is feasible. I will argue that to regulate cryptocurrencies without destroying it, fungibility must be maintained, and it must be treated as money. 
+
+### [177. Sharding in QuarkChain — A Deep Dive into State Partitioning](https://hackernoon.com/sharding-in-quarkchain-a-deep-dive-into-state-partitioning-8f8a30mr)
+![](https://images.unsplash.com/photo-1551814360-3c38192c5688?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Overview Design of QuarkChain Sharding
 
 ### [178. Learn To Make Better Marketing Decisions For Your Blockchain Startup](https://hackernoon.com/learn-to-make-better-marketing-decisions-for-your-blockchain-startup-2l303wyq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsZgLpNbOPtQFz0sTBASstUpb7kG2-35153uws.jpeg?alt=media&token=39e201f4-01f1-4dc0-b5d2-547aedb25013)
@@ -729,21 +731,21 @@ Today what I want to talk to you about is who should influence your marketing de
 ![](https://cdn.hackernoon.com/images/SNkDpvdu7pTt1J6clyL9fJIE0Jo2-nza3rhh.jpeg)
 Exciting projects that are up and coming in 2023 that are bringing innovation to web3 in outstanding ways. Read on to see what people are hot eyeing this year!
 
-### [180. Revising The Basics of Blockchain Part 1: Introduction](https://hackernoon.com/revising-the-basics-of-blockchain-part-1-introduction-7u2a355v)
-![](https://cdn.hackernoon.com/images/mWLOxsAkOlYShZAKdljM2PL80h53-kw4437w2.jpeg)
-A very Beginner-friendly Guide to Understanding the Blockchain (Part 1: Introduction to Blockchain Technology)
-
-### [181. Blockchain Mass Adoption: What Are The Main Blockers?](https://hackernoon.com/blockchain-mass-adoption-what-are-the-main-blockers-hc2j3z10)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsZgLpNbOPtQFz0sTBASstUpb7kG2-nu1z3t1i.jpeg?alt=media&token=3bbfa439-ba1a-401a-8b33-714c9a83426a)
-Let’s talk today about the mass adoption of the blockchain. 
-
-### [182. Why Does Mukesh Ambani Have Faith in Blockchain?](https://hackernoon.com/why-does-mukesh-ambani-have-faith-in-blockchain)
+### [180. Why Does Mukesh Ambani Have Faith in Blockchain?](https://hackernoon.com/why-does-mukesh-ambani-have-faith-in-blockchain)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-pc13ozj.jpeg)
 In the next ten years, Ambani predicted that the decentralized finance (DeFi) industry would undergo unavoidable changes. 
 
-### [183. Governments Wanted to Kill Bitcoin. Now They Want to Hoard It](https://hackernoon.com/governments-wanted-to-kill-bitcoin-now-they-want-to-hoard-it)
+### [181. Revising The Basics of Blockchain Part 1: Introduction](https://hackernoon.com/revising-the-basics-of-blockchain-part-1-introduction-7u2a355v)
+![](https://cdn.hackernoon.com/images/mWLOxsAkOlYShZAKdljM2PL80h53-kw4437w2.jpeg)
+A very Beginner-friendly Guide to Understanding the Blockchain (Part 1: Introduction to Blockchain Technology)
+
+### [182. Governments Wanted to Kill Bitcoin. Now They Want to Hoard It](https://hackernoon.com/governments-wanted-to-kill-bitcoin-now-they-want-to-hoard-it)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-qq02ugv.jpeg)
 The U.S. is sitting on $17 billion worth of confiscated Bitcoin. Trump’s calling it "Digital Fort Knox"
+
+### [183. Blockchain Mass Adoption: What Are The Main Blockers?](https://hackernoon.com/blockchain-mass-adoption-what-are-the-main-blockers-hc2j3z10)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsZgLpNbOPtQFz0sTBASstUpb7kG2-nu1z3t1i.jpeg?alt=media&token=3bbfa439-ba1a-401a-8b33-714c9a83426a)
+Let’s talk today about the mass adoption of the blockchain. 
 
 ### [184. NOW LIVE: CLI Wallets And Smart Contracts on Koinos Testnet!](https://hackernoon.com/now-live-cli-wallets-and-smart-contracts-on-koinos-testnet-co223722)
 ![](https://cdn.hackernoon.com/images/5Bjz78MORcPQx3lUTVedEHus0mG2-002b37gk.jpeg)
@@ -761,17 +763,17 @@ Early morning CEST on Monday, October 19, 2020, we detected an issue on Nodle’
 ![](https://cdn.hackernoon.com/images/y3233ytn.jpg)
 It is shortly after a successful bitcoin halving, that the news come in on Telegram stopping further development of TON blockchain, that it has been working on for the last 2.5 years. According to Pavel Durov’s official Telegram channel, the move is explained by US Court ruling, stating that TON blockchain is considered illegal, due to how easy it may be for US citizens to buy GRAMS, the token on which the TON blockchain is designed to run. 
 
-### [188. Women in Blockchain | Changing the Status Quo](https://hackernoon.com/kk-i63h3yfv)
-![](https://cdn.hackernoon.com/images/199j3yvi.jpg)
-
-
-### [189. Why Is the EVM So Important to the Web3 Ecosystem?](https://hackernoon.com/why-is-the-evm-so-important-to-the-web3-ecosystem)
+### [188. Why Is the EVM So Important to the Web3 Ecosystem?](https://hackernoon.com/why-is-the-evm-so-important-to-the-web3-ecosystem)
 ![](https://cdn.hackernoon.com/images/D2Kfj0qxSRQHO0nYbkJy1MM6Bf43-eid3ued.jpeg)
 The EVM powers the worlds most valuable blockchains. Learn how the EVM works and how it unlocks never before seen levels of customizability on the blockchain.
 
-### [190. ForkChain is Demystifying Blockchain for Easier Integration by Entrepreneurs](https://hackernoon.com/forkchain-is-demystifying-blockchain-for-easier-integration-by-entrepreneurs)
+### [189. ForkChain is Demystifying Blockchain for Easier Integration by Entrepreneurs](https://hackernoon.com/forkchain-is-demystifying-blockchain-for-easier-integration-by-entrepreneurs)
 ![](https://cdn.hackernoon.com/images/4FnNVQr5WaVz9Pb3rjDALHRb4XA2-p99385y.jpeg)
 Platforms like ForkChain are bringing a new perspective on blockchain to help entrepreneurs thrive.
+
+### [190. Women in Blockchain | Changing the Status Quo](https://hackernoon.com/kk-i63h3yfv)
+![](https://cdn.hackernoon.com/images/199j3yvi.jpg)
+
 
 ### [191. On-chain Transaction Fees: Why Economics Matter? ](https://hackernoon.com/on-chain-transaction-fees-why-economics-matter-h9x3x48)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FELy3D5qjIEQPxlfLdReo0aw5TNx2-cz1p3eit.jpeg?alt=media&token=a4143ca8-5a99-40e6-aaf6-e0b1d835fae0)
@@ -781,26 +783,26 @@ Analysis of transaction fees has long been overlooked in the blockchain area, wi
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8j82rno.jpeg)
 We are living amidst an unprecedented shift in global education with college professors becoming Zoom adapts overnight, the class of 2020 to graduate virtually, continuous learning platforms on the lookout for the best performing interaction technologies, and the new wave of EdTechs officially upon us. 
 
-### [193. Meet The Blockchain Looking To Put An End to Resource Exhaustion](https://hackernoon.com/meet-the-blockchain-looking-to-put-an-end-to-resource-exhaustion)
+### [193. The Stargate Testnet - 3 Reasons For Checking It Out](https://hackernoon.com/the-stargate-testnet-3-reasons-for-checking-it-out-g54c3w2s)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPLJvlaQJxYdnmfEMH03KmwWiqUr1-ifm3tep.png?alt=media&token=fdc6204f-fcb6-4593-99b5-15e8a9725b38)
+Cosmos Stargate aims to deliver the promise of interchain communication among hundreds of independent blockchains. Imagine a blockchain that is able to create and exchange assets among many other blockchains in the Universe. 
+
+### [194. Meet The Blockchain Looking To Put An End to Resource Exhaustion](https://hackernoon.com/meet-the-blockchain-looking-to-put-an-end-to-resource-exhaustion)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-11038yr.jpeg)
 Network resource exhaustion can grind the entire blockchain down to a halt. As more people begin to rely on and use blockchain technology in their everyday live
 
-### [194. QuarkChain Explained, Part II: Sharding — Brief Introduction and Challenges in Blockchain](https://hackernoon.com/quarkchain-explained-part-ii-sharding-brief-introduction-and-challenges-in-blockchain-jf1f3y9z)
+### [195. QuarkChain Explained, Part II: Sharding — Brief Introduction and Challenges in Blockchain](https://hackernoon.com/quarkchain-explained-part-ii-sharding-brief-introduction-and-challenges-in-blockchain-jf1f3y9z)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-l0z3yhr.webp?alt=media&token=74559e8f-a73d-4224-b995-4ee62f018e70)
 Among the existing scalability solutions, sharding is probably the most adopted solution to enable horizontal scalability. 
 
-### [195. Blockchain Technology Reduces the Attack Surface in Identity Management ](https://hackernoon.com/blockchain-technology-reduces-the-attack-surface-in-identity-management-9a3m32ar)
+### [196. Blockchain Technology Reduces the Attack Surface in Identity Management ](https://hackernoon.com/blockchain-technology-reduces-the-attack-surface-in-identity-management-9a3m32ar)
 ![](https://cdn.hackernoon.com/images/n0uuGj8ZpEeLlkvgh8XEm68fZ422-0o1h35ml.jpeg)
 Incorporation of blockchain technology assists to combat evolving identity theft and unauthorized access and in the prevention of illicit money transfers.
 
 
-### [196. Cross-Blockchain Protocol for Public Databases and Property Registries](https://hackernoon.com/cross-blockchain-protocol-for-public-databases-and-property-registries-cz3s32rf)
+### [197. Cross-Blockchain Protocol for Public Databases and Property Registries](https://hackernoon.com/cross-blockchain-protocol-for-public-databases-and-property-registries-cz3s32rf)
 ![](https://cdn.hackernoon.com/images/fmr33y2k.jpg)
 Cross-Blockchain Protocol (CBP) presented in this academic paper, is technology of an overlaid database across a bundle of ledgers that enables smart laws and enforceability.
-
-### [197. The Stargate Testnet - 3 Reasons For Checking It Out](https://hackernoon.com/the-stargate-testnet-3-reasons-for-checking-it-out-g54c3w2s)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPLJvlaQJxYdnmfEMH03KmwWiqUr1-ifm3tep.png?alt=media&token=fdc6204f-fcb6-4593-99b5-15e8a9725b38)
-Cosmos Stargate aims to deliver the promise of interchain communication among hundreds of independent blockchains. Imagine a blockchain that is able to create and exchange assets among many other blockchains in the Universe. 
 
 ### [198. Mr. Market Meets Mr. ICO](https://hackernoon.com/mr-market-meets-mr-ico-991j349s)
 ![](https://cdn.hackernoon.com/images/nCjPVMzJEoha3rm2GwGMXZ8LzKm2-a8a39t9.jpeg)

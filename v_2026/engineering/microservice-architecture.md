@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [microservice-architecture](https://hackernoon.com/tagged/microservice-architecture)
+### Let's learn about [Microservice Architecture](https://hackernoon.com/tagged/microservice-architecture) via these 110 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Microservice architecture is a software development approach where an an application is built as a collection of small, independent services, enabling faster development, deployment, and scalability of complex systems. It matters by improving modularity, resilience, and agility in software development, allowing teams to iterate more quickly and manage applications more effectively.
+
 ### [1. How to Build a Resilient Microservice Architecture With Java](https://hackernoon.com/how-to-build-a-resilient-microservice-architecture-with-java)
 ![](https://cdn.hackernoon.com/images/software-zijmwar237dz31as5j05el5f.png)
 Learn how to build fault-tolerant, scalable microservices using Java programming and Docker containers. 
@@ -69,13 +73,13 @@ Micro-frontends are the future of frontend web development. Inspired by microser
 ![](https://cdn.hackernoon.com/images/computerised-backbone-of-a-human-lvz9bnra4rn0artjk55ng7er.png)
 Understand how reverse proxies powers almost every service that we use today from monolith to microservices. It is a vital piece of 21st century infrastructure!
 
-### [18. "Unless you’ve been developing software in a cave"](https://hackernoon.com/unless-youve-been-developing-software-in-a-cave)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-xo13ozy.jpeg)
-In this article, we’ll look at some microservices best practices and suggest a few proven ways to help with your microservices architecture. 
-
-### [19. Data Access for Microservices](https://hackernoon.com/data-access-for-microservices-ux1j3upa)
+### [18. Data Access for Microservices](https://hackernoon.com/data-access-for-microservices-ux1j3upa)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fl5zOLSJSCXbNFE632NiK1dIRRaI3-qt4f3uqn.jpeg?alt=media&token=8c33132f-9484-4f4d-8ce6-ec13a00e1bee)
 If you want to access data in a distributed environment such as in a microservice architecture, then data services are the way to go. The idea is to create a data abstraction layer (DAL) that the rest of the system’s applications and services can share. Thus, a data service gives you a generalized interface to the data you’re exposing and provides access to it in a standard manner. This would be in a well-understood protocol and a known data format. For example, a popular approach is to use JSON via HTTP/S.
+
+### [19. "Unless you’ve been developing software in a cave"](https://hackernoon.com/unless-youve-been-developing-software-in-a-cave)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-xo13ozy.jpeg)
+In this article, we’ll look at some microservices best practices and suggest a few proven ways to help with your microservices architecture. 
 
 ### [20. Building Microservice Architecture With ASP.NET Core](https://hackernoon.com/building-microservice-architecture-with-aspnet-core)
 ![](https://cdn.hackernoon.com/images/computer-programming-clazf4gfu000001s64of39wy3.png)
@@ -109,13 +113,13 @@ Simplify version management in microservices with a custom parent POM, ensuring 
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-9h93no6.jpeg)
 Many developers and DevOps engineers have been deploying Kong Gateway in front of their microservices-based applications. 
 
-### [28. Microsoft's DAPR (Distributed Application Runtime): An Overview](https://hackernoon.com/microsofts-dapr-distributed-application-runtime-an-overview-nd2m34gj)
-![](https://cdn.hackernoon.com/images/j8YWF6KZpeWo8OWmeABH7hOU4aO2-j12k31bu.jpeg)
-Discover the powerful capabilities of Dapr by implementing a sample application with microservices leveraging the actor model to foster its strengths.
-
-### [29. Protobuf Under the Hood: How Serialization and Deserialization Work in Go ](https://hackernoon.com/protobuf-under-the-hood-how-serialization-and-deserialization-work-in-go)
+### [28. Protobuf Under the Hood: How Serialization and Deserialization Work in Go ](https://hackernoon.com/protobuf-under-the-hood-how-serialization-and-deserialization-work-in-go)
 ![](https://cdn.hackernoon.com/images/protobuf-software-engineer-young-woman-cosy-workplace-tqlb42ok4ea910m8144swnc0.png)
 Protocol Buffers (Protobuf) is a fast, efficient, and language-agnostic data serialization mechanism.
+
+### [29. Microsoft's DAPR (Distributed Application Runtime): An Overview](https://hackernoon.com/microsofts-dapr-distributed-application-runtime-an-overview-nd2m34gj)
+![](https://cdn.hackernoon.com/images/j8YWF6KZpeWo8OWmeABH7hOU4aO2-j12k31bu.jpeg)
+Discover the powerful capabilities of Dapr by implementing a sample application with microservices leveraging the actor model to foster its strengths.
 
 ### [30. Secure Microservices with Kong and Ory](https://hackernoon.com/secure-microservices-with-kong-and-ory)
 ![](https://cdn.hackernoon.com/images/sOv8U5ysd5SaJyuOl5R8ou57rsD2-jrc3kn5.jpeg)
@@ -125,13 +129,13 @@ Microservice architecture is nowadays almost a standard for backend development.
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-x87z292n.jpeg)
 Most of us have gone through tough times where you have a large scale application which has a bunch of features, API integrations, database connections, etc. New features and updates get released, and of course you need to fix the bugs and maintain the code.
 
-### [32. Monolithic vs Microservice Architecture: All You Need To Know](https://hackernoon.com/monolithic-and-microservice-architecture-all-you-need-to-know-hk17c32m0)
-![](https://cdn.hackernoon.com/images/by2rl32g3.jpg)
-The problem that enormous scale venture applications a work in progress bring to the table of programming designers was excessively. There was no arrangement at all to this issue that is the reason an alternate building style was required. Henceforth the expression "microservices" appeared after the economical advancement in distributed computing space, it was first utilized by Dr Peter Rogers in a meeting on distributed computing in 2005. 
-
-### [33. Building Efficient Crypto Trading Software With Python](https://hackernoon.com/building-efficient-crypto-trading-software-with-python)
+### [32. Building Efficient Crypto Trading Software With Python](https://hackernoon.com/building-efficient-crypto-trading-software-with-python)
 ![](https://cdn.hackernoon.com/images/EoZlJheKCUSXBF4gIxl56zp7oyg1-yri3u2z.jpeg)
 Learn about building efficient trading software principles, such as event-driven approach, microservices, and asynchronous programming.
+
+### [33. Monolithic vs Microservice Architecture: All You Need To Know](https://hackernoon.com/monolithic-and-microservice-architecture-all-you-need-to-know-hk17c32m0)
+![](https://cdn.hackernoon.com/images/by2rl32g3.jpg)
+The problem that enormous scale venture applications a work in progress bring to the table of programming designers was excessively. There was no arrangement at all to this issue that is the reason an alternate building style was required. Henceforth the expression "microservices" appeared after the economical advancement in distributed computing space, it was first utilized by Dr Peter Rogers in a meeting on distributed computing in 2005. 
 
 ### [34. Implementing Domain Driven Design For Microservices](https://hackernoon.com/implementing-domain-driven-design-for-microservices-dy1l31iw)
 ![](https://cdn.hackernoon.com/images/eZJ5yw2MSiY9lPKHcPJwv4aQ15i2-my493x7k.png)
@@ -177,13 +181,13 @@ Today we will talk about a software architecture pattern of Architecture Points.
 ![](https://cdn.hackernoon.com/drafts/ewi3yfw.png)
 My team has recently successfully decoupled one of the critical business domains of the company. The initial integration had such a tough deadline that the only way to meet it was to add code to the monolith. And… The feature that went from conception to production in three weeks ended up taking almost one year to decouple.
 
-### [45. How We Scaled To Microservices Architecture With A Data Flow-driven Approach](https://hackernoon.com/how-we-scaled-to-microservices-architecture-with-a-data-flow-driven-approach-2c5c3ygq)
-![](https://cdn.hackernoon.com/images/93843y5v.jpg)
-Microservices architecture: It was proposed to develop a data flow-driven mechanism for microservices — oriented decomposition. Data work separately with the site
-
-### [46. How to Build a Microservices Architecture with Node.js and RabbitMQ ](https://hackernoon.com/how-to-build-a-microservices-architecture-with-nodejs-and-rabbitmq)
+### [45. How to Build a Microservices Architecture with Node.js and RabbitMQ ](https://hackernoon.com/how-to-build-a-microservices-architecture-with-nodejs-and-rabbitmq)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-6q0361n.png)
 In this article, we will be exploring the concept of Microservice Architecture, and implementing basic microservices-driven software using Node.js and RabbitMQ.
+
+### [46. How We Scaled To Microservices Architecture With A Data Flow-driven Approach](https://hackernoon.com/how-we-scaled-to-microservices-architecture-with-a-data-flow-driven-approach-2c5c3ygq)
+![](https://cdn.hackernoon.com/images/93843y5v.jpg)
+Microservices architecture: It was proposed to develop a data flow-driven mechanism for microservices — oriented decomposition. Data work separately with the site
 
 ### [47. Microservices for Humans: A No-Nonsense Introduction](https://hackernoon.com/microservices-for-humans-a-no-nonsense-introduction)
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-4q92kkk.jpeg)
@@ -250,13 +254,13 @@ Monitoring microservices in the right way is one of the biggest challenges nowad
 ![](https://cdn.hackernoon.com/images/sHlS9kz5JWgDC6Irc6Iw1ZTwUGE2-gwa32l6.jpeg)
 Learn the differences between L4 and L7 Load Balancers, optimize traffic, secure apps, and enhance performance for efficient network management.
 
-### [63. A Real-World Latency Study of Microservice Architectures in Autonomous Driving](https://hackernoon.com/a-real-world-latency-study-of-microservice-architectures-in-autonomous-driving)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-t003bfu.png)
-Containers cut latency and improve performance in software-defined vehicles. A study shows up to 8% faster response in autonomous systems.
-
-### [64. API Programming Doesn't Need To Be Hard](https://hackernoon.com/api-programming-doesnt-need-to-be-hard-lo193568)
+### [63. API Programming Doesn't Need To Be Hard](https://hackernoon.com/api-programming-doesnt-need-to-be-hard-lo193568)
 ![](https://cdn.hackernoon.com/images/iQAYj1tP2DTO8algC9FONEu8nCi1-y5n29a1.jpeg)
 APIs, if you know how to tame and harness them, are a superpower. Choreo is a Cloud IDE that is built to make API creation, management, and composition a breeze
+
+### [64. Modular Monoliths: The Future of Efficient Software Architecture in Fintech Payment Systems](https://hackernoon.com/modular-monoliths-the-future-of-efficient-software-architecture-in-fintech-payment-systems)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-lu83zf3.png)
+Explore the pros and cons of monolithic, microservices, and modular monolith architectures in software development to make informed decisions for your projects.
 
 ### [65. Microservices vs. Monolithic Architecture](https://hackernoon.com/microservices-vs-monolithic-architecture)
 ![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-4z337v2.jpeg)
@@ -266,162 +270,162 @@ The concept of microservices, an approach to designing a software application as
 ![](https://cdn.hackernoon.com/images/QcUecoGJmUaHFSMQOD8G5r7ZSjz2-z793p1j.jpeg)
 With people switching to cloud-native strategy, we need an architecture that supports it. A variant of Service-oriented architecture, microservice architecture 
 
-### [67. The Origination of Microservices, and The Value They Create for Software Developers](https://hackernoon.com/the-origination-of-microservices-and-the-value-they-create-for-software-developers-today-5r333ydl)
-![](https://cdn.hackernoon.com/images/r1sc3wcl.jpg)
-What are Microservices exactly and how can you use them to work to your advantage? IT teams are always wanting to build new applications enabling specific functions for the ease of processes or customers. Sometimes, to balance projects, they allow distributed teams to work on focused targets using reusable assets, templates, and best practices. While decentralizing and democratizing application development helps, managing security can be a task for strategizing different Lines of Business (LoBs) and functional business partners.
-
-### [68. Why Data Consistency is Important in a Microservices Architecture](https://hackernoon.com/why-data-consistency-is-important-in-a-microservices-architecture)
+### [67. Why Data Consistency is Important in a Microservices Architecture](https://hackernoon.com/why-data-consistency-is-important-in-a-microservices-architecture)
 ![](https://cdn.hackernoon.com/images/8Pgwf9zh8ofcrVpyJ48U91QqZjk1-m2g3nfj.jpeg)
 Data Consistency might be a pain in the ass. It is a well-known source of unexpected surprises. What is it? What does it depend on? Why is it so often overseen?
 
-### [69. Modular Monoliths: The Future of Efficient Software Architecture in Fintech Payment Systems](https://hackernoon.com/modular-monoliths-the-future-of-efficient-software-architecture-in-fintech-payment-systems)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-lu83zf3.png)
-Explore the pros and cons of monolithic, microservices, and modular monolith architectures in software development to make informed decisions for your projects.
+### [68. The Origination of Microservices, and The Value They Create for Software Developers](https://hackernoon.com/the-origination-of-microservices-and-the-value-they-create-for-software-developers-today-5r333ydl)
+![](https://cdn.hackernoon.com/images/r1sc3wcl.jpg)
+What are Microservices exactly and how can you use them to work to your advantage? IT teams are always wanting to build new applications enabling specific functions for the ease of processes or customers. Sometimes, to balance projects, they allow distributed teams to work on focused targets using reusable assets, templates, and best practices. While decentralizing and democratizing application development helps, managing security can be a task for strategizing different Lines of Business (LoBs) and functional business partners.
 
-### [70. Microservice Architecture in Application Development: Advantages and Disadvantages](https://hackernoon.com/microservice-architecture-in-application-development-advantages-and-disadvantages)
+### [69. Microservice Architecture in Application Development: Advantages and Disadvantages](https://hackernoon.com/microservice-architecture-in-application-development-advantages-and-disadvantages)
 ![](https://cdn.hackernoon.com/images/Lg3GSwToPlQKlwwujXA8JQtg9cm1-yu93ns8.jpeg)
 Microservice architecture is the optimal approach to software development. 
 
-### [71. Mastering Microservices: Building Effective Architecture Governance for Scalability and Stability](https://hackernoon.com/mastering-microservices-building-effective-architecture-governance-for-scalability-and-stability)
+### [70. Mastering Microservices: Building Effective Architecture Governance for Scalability and Stability](https://hackernoon.com/mastering-microservices-building-effective-architecture-governance-for-scalability-and-stability)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-rd023m5.jpeg)
 Use the right tools to regain control of microservices with architecture governance to boost scalability, reduce complexity, and maintain system resiliency.
 
-### [72. Well-Architected Microservices](https://hackernoon.com/well-architected-microservices)
+### [71. Well-Architected Microservices](https://hackernoon.com/well-architected-microservices)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rm92aww.jpeg)
 This is a list of items that has helped me to build, run and scale microservices efficiently and securely.
 
-### [73. Benefits of Using Docker for Microservices: 2020 Edition](https://hackernoon.com/benefits-of-using-docker-for-microservices-2020-edition-pz9a3y45)
+### [72. Benefits of Using Docker for Microservices: 2020 Edition](https://hackernoon.com/benefits-of-using-docker-for-microservices-2020-edition-pz9a3y45)
 ![](https://images.unsplash.com/photo-1550645612-83f5d594b671?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Docker is an innovative set of PaaS products that offer strategical and operational advantages for developing software applications. It reduces the expense incurred across the infrastructure and maintenance of software applications. 
 
-### [74. Event-Driven Change Data Capture: Introduction, Use Cases, and Tools](https://hackernoon.com/event-driven-change-data-capture-introduction-use-cases-and-tools-ef4433v4)
+### [73. Event-Driven Change Data Capture: Introduction, Use Cases, and Tools](https://hackernoon.com/event-driven-change-data-capture-introduction-use-cases-and-tools-ef4433v4)
 ![](https://cdn.hackernoon.com/images/IV0JQLsMeUPtnTkzLruhJAkpC5F2-ki5z32nt.jpeg)
 How to detect, capture, and propagate changes in source databases to target systems in a real-time, event-driven manner with Change Data Capture (CDC).
+
+### [74. Messaging Pattern In Micro Service Integration](https://hackernoon.com/messaging-pattern-in-micro-service-integration)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-2q030lr.jpeg)
+This article provides information to developers who are considering microservice integration using Event Driven Architecture and Messaging.
 
 ### [75. How to Avoid Inconsistency Across Microservices](https://hackernoon.com/how-to-avoid-inconsistency-across-microservices)
 ![](https://cdn.hackernoon.com/images/hoI4S7KpadhuZX1xs9IUD2zWQ113-2j94k5d.jpeg)
 In a microservice architecture, you can get dependencies that impose restrictions on the services used
 
-### [76. Messaging Pattern In Micro Service Integration](https://hackernoon.com/messaging-pattern-in-micro-service-integration)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-2q030lr.jpeg)
-This article provides information to developers who are considering microservice integration using Event Driven Architecture and Messaging.
-
-### [77. ReST: It’s More Than Just CRUD Over HTTP](https://hackernoon.com/rest-its-more-than-just-crud-over-http)
+### [76. ReST: It’s More Than Just CRUD Over HTTP](https://hackernoon.com/rest-its-more-than-just-crud-over-http)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-m9034gp.webp)
 Discover why ReST API design goes beyond CRUD operations. Learn how intent-based approaches create meaningful user-system dialogues & align with business goals.
 
-### [78. Docker Basics to Get Your Feet Wet](https://hackernoon.com/docker-basics-to-get-your-feet-wet)
+### [77. Docker Basics to Get Your Feet Wet](https://hackernoon.com/docker-basics-to-get-your-feet-wet)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-qp93r5h.jpeg)
 In this article, we will be discussing the most important elements and tools around the Docker ecosystem when getting started as a beginner.
 
-### [79. Tips For Using Service Mesh Networks To Leave Your Competition In The Dust ](https://hackernoon.com/tips-for-using-service-mesh-networks-to-leave-your-competition-in-the-dust-88u3wjb)
+### [78. Tips For Using Service Mesh Networks To Leave Your Competition In The Dust ](https://hackernoon.com/tips-for-using-service-mesh-networks-to-leave-your-competition-in-the-dust-88u3wjb)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlBswupY3cpUoiqV21ZkS63RSU902-v653tr5.jpeg?alt=media&token=89a42e69-1ead-4b33-bca4-f3dbd6fadd45)
 Background and Origin of Service Mesh Network - Istio
 
-### [80. An In-Depth Look at Shopify Plus: The Last E-Commerce Monolith](https://hackernoon.com/an-in-depth-look-at-shopify-plus-the-last-e-commerce-monolith-ru2f37wa)
+### [79. An In-Depth Look at Shopify Plus: The Last E-Commerce Monolith](https://hackernoon.com/an-in-depth-look-at-shopify-plus-the-last-e-commerce-monolith-ru2f37wa)
 ![](https://cdn.hackernoon.com/images/luNcoaJnkJhoplfHFMeY40nJYoJ3-ju19369e.jpeg)
 Platforms like Shopify Plus offer headless capabilities, but the real magic is in modular commerce technology. 
 
-### [81. 5 Best Microservices CI/CD Tools You Need to Check Out](https://hackernoon.com/5-best-microservices-cicd-tools-you-need-to-check-out-dj1637s4)
+### [80. 5 Best Microservices CI/CD Tools You Need to Check Out](https://hackernoon.com/5-best-microservices-cicd-tools-you-need-to-check-out-dj1637s4)
 ![](https://cdn.hackernoon.com/images/0DxhR2wKkBWFVTrMKykkOMUzoev2-8d1jx350a.jpeg)
 The blog provides information on the build & deploy tools that are centred around microservices application delivery and are being used in the industry today.
 
-### [82. Can Docker Keep Up with the Speed of Self-Driving Cars?](https://hackernoon.com/can-docker-keep-up-with-the-speed-of-self-driving-cars)
-![](https://cdn.hackernoon.com/images/a-conceptual-image-of-a-lab-or-simulation-setup-image-featuring-a-self-driving-car-testbed-k9itn7yf7gv3a1meeeau61jl.png)
-According to experiments, containerized microservices improve resource usage, lower latency, and increase modularity in software for autonomous driving.
+### [81. A Real-World Latency Study of Microservice Architectures in Autonomous Driving](https://hackernoon.com/a-real-world-latency-study-of-microservice-architectures-in-autonomous-driving)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-t003bfu.png)
+Containers cut latency and improve performance in software-defined vehicles. A study shows up to 8% faster response in autonomous systems.
+
+### [82. Utilizing Microservices on AWS: Moving Away from Monoliths](https://hackernoon.com/utilizing-microservices-on-aws-moving-away-from-monoliths)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ta93p02.jpeg)
+99% of the times you don't need microservices. For when you do, understand what they are, why use them, and how to split a monolith on AWS.
 
 ### [83. Web Application Development: Principles of Development Based on Microservices. Part 2.](https://hackernoon.com/web-application-development-principles-of-development-based-on-microservices-part-2)
 ![](https://cdn.hackernoon.com/images/Lg3GSwToPlQKlwwujXA8JQtg9cm1-kn93nyj.jpeg)
 To use a microservice architecture, the developer needs to study special technologies that are applicable for such web app development.
 
-### [84. Utilizing Microservices on AWS: Moving Away from Monoliths](https://hackernoon.com/utilizing-microservices-on-aws-moving-away-from-monoliths)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ta93p02.jpeg)
-99% of the times you don't need microservices. For when you do, understand what they are, why use them, and how to split a monolith on AWS.
-
-### [85. Microservices and the Golden age of Infrastructure Automation Tools](https://hackernoon.com/microservices-and-the-golden-age-of-infrastructure-automation-tools)
+### [84. Microservices and the Golden age of Infrastructure Automation Tools](https://hackernoon.com/microservices-and-the-golden-age-of-infrastructure-automation-tools)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-kn03oft.jpeg)
 The dramatic shift in infrastructure availability is one of the main catalysts for the advent of microservices.
 
-### [86. The Cacophonies of Distributed Systems](https://hackernoon.com/the-cacophonies-of-distributed-systems-umm3nky)
+### [85. The Cacophonies of Distributed Systems](https://hackernoon.com/the-cacophonies-of-distributed-systems-umm3nky)
 ![](https://cdn.hackernoon.com/drafts/d81o3nnj.png)
 If you have never heard about Deutsch + Gosling’s fallacies of distributed computing, you are missing out big time! I encourage you to check them out here. Those delusions are widely considered in the distributed systems field as some of the most painful assumptions any junior systems designer, or architect can make. I like to call them “career-limiting choices”.
 
-### [87. Building Scalable ROS 2 Applications with Microservice Architecture](https://hackernoon.com/building-scalable-ros-2-applications-with-microservice-architecture)
-![](https://cdn.hackernoon.com/images/an-autonomous-vehicle-surrounded-by-container-icons-mbr1cz6smqrj9qypb99oj58d.png)
-By lowering latency and resource consumption across platforms, containerization improves autonomous driving systems' performance, isolation, and stability.
-
-### [88. How to Ensure the Success of Microservices-based Projects](https://hackernoon.com/how-to-ensure-the-success-of-microservices-based-projects-lj3e34my)
+### [86. How to Ensure the Success of Microservices-based Projects](https://hackernoon.com/how-to-ensure-the-success-of-microservices-based-projects-lj3e34my)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-eb13286k.jpeg)
 Microservices-based projects are a great idea to deliver products in less time and with great flexibility/agility. 
 
-### [89. A Detailed Comparison of Monolithic and Microservices Architecture](https://hackernoon.com/a-detailed-comparison-of-monolithic-and-microservices-architecture)
+### [87. A Detailed Comparison of Monolithic and Microservices Architecture](https://hackernoon.com/a-detailed-comparison-of-monolithic-and-microservices-architecture)
 ![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-jj93omy.jpeg)
 o compare monolithic vs microservices pros and cons, we should have a look at the perks and pitfalls of each architecture first
 
-### [90. Distributed Tracing: Past, Present and Future](https://hackernoon.com/distributed-tracing-past-present-and-future)
+### [88. Distributed Tracing: Past, Present and Future](https://hackernoon.com/distributed-tracing-past-present-and-future)
 ![](https://cdn.hackernoon.com/images/0n1tzidZkxMWWQApOm4lqzRXBEC2-aa93rse.jpeg)
 Distributed Tracing is a divisive topic. Once the doyen of every KubeCon, the technology was expected to revolutionize observability.
 
-### [91. When to Break the Monolith: Identifying Obstacles in Your Software](https://hackernoon.com/when-to-break-the-monolith-identifying-obstacles-in-your-software)
+### [89. When to Break the Monolith: Identifying Obstacles in Your Software](https://hackernoon.com/when-to-break-the-monolith-identifying-obstacles-in-your-software)
 ![](https://cdn.hackernoon.com/images/biQ8HOJ4bOTIr38QBVHJmqjCnrq2-nu93r75.jpeg)
 There are six surefire signals that point to it being time to pivot from monolithic architecture to microservices or modular architecture.
 
-### [92. How To Create a Simple Application Using Golangspell](https://hackernoon.com/how-to-create-a-simple-application-using-golangspell-3i123tam)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBf98Q2nQv6ZUrdTBaIFV0G0KWeJ2-b1313u68.jpeg?alt=media&token=d5707d06-2735-4a7f-978e-90042fb4e2d4)
-For a couple of years I've been working with Golang, is such a great experience, Golang is a great language, in my opinion, simple, fast, and focused on high performance. But, not only it can help us to create a microservice that is fast, but we can also code quite quickly.
-
-### [93. What I Learned from Giving People a Choice in Ride Types](https://hackernoon.com/what-i-learned-from-giving-people-a-choice-in-ride-types)
+### [90. What I Learned from Giving People a Choice in Ride Types](https://hackernoon.com/what-i-learned-from-giving-people-a-choice-in-ride-types)
 ![](https://cdn.hackernoon.com/images/TRxJl07Fhpd0o4ajtmz2LeXBaCu1-7q03bxj.png)
 How I redesigned a ride-hailing order form for 360M users inside a 7-year-old monolith. Lessons on legacy code, user habits, and breaking production.
 
-### [94. Anbarasu Arivoli Honored with TITAN Business Award and Distinguished IT Innovator of the Year](https://hackernoon.com/anbarasu-arivoli-honored-with-titan-business-award-and-distinguished-it-innovator-of-the-year)
+### [91. How To Create a Simple Application Using Golangspell](https://hackernoon.com/how-to-create-a-simple-application-using-golangspell-3i123tam)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBf98Q2nQv6ZUrdTBaIFV0G0KWeJ2-b1313u68.jpeg?alt=media&token=d5707d06-2735-4a7f-978e-90042fb4e2d4)
+For a couple of years I've been working with Golang, is such a great experience, Golang is a great language, in my opinion, simple, fast, and focused on high performance. But, not only it can help us to create a microservice that is fast, but we can also code quite quickly.
+
+### [92. Anbarasu Arivoli Honored with TITAN Business Award and Distinguished IT Innovator of the Year](https://hackernoon.com/anbarasu-arivoli-honored-with-titan-business-award-and-distinguished-it-innovator-of-the-year)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-4i03bfa.png)
 Anbarasu Arivoli earns global acclaim for AI-driven enterprise automation, innovative engineering leadership, and human-centered digital transformation.
 
-### [95. Modular Design Is Solving Autonomous Driving's Biggest Challenges](https://hackernoon.com/modular-design-is-solving-autonomous-drivings-biggest-challenges)
-![](https://cdn.hackernoon.com/images/an-autonomous-car-dashboard-or-a-central-computing-unit-displaying-container-deployment-xw700okwcngs87xxa0is68d9.png)
-Using containerized ROS 2 modules, microservice-based architecture improves autonomous driving systems' speed, latency, and adaptability.
+### [93. Can Docker Keep Up with the Speed of Self-Driving Cars?](https://hackernoon.com/can-docker-keep-up-with-the-speed-of-self-driving-cars)
+![](https://cdn.hackernoon.com/images/a-conceptual-image-of-a-lab-or-simulation-setup-image-featuring-a-self-driving-car-testbed-k9itn7yf7gv3a1meeeau61jl.png)
+According to experiments, containerized microservices improve resource usage, lower latency, and increase modularity in software for autonomous driving.
 
-### [96. Containerization Solves ROS 2's Biggest Performance Challenges](https://hackernoon.com/containerization-solves-ros-2s-biggest-performance-challenges)
-![](https://cdn.hackernoon.com/images/a-conceptual-graphic-showing-an-autonomous-car-connected-to-multiple-container-icons-docker-style-xnqzjexfhpu08j9jwn5jsl2r.png)
-Containerized microservices outperform conventional bare-metal configurations in autonomous car systems by reducing latency, jitter, and resource consumption.
-
-### [97. Unadulterated Thoughts on The (Micro)service Approach](https://hackernoon.com/unadulterated-thoughts-on-the-microservice-approach-rr2e34j3)
+### [94. Unadulterated Thoughts on The (Micro)service Approach](https://hackernoon.com/unadulterated-thoughts-on-the-microservice-approach-rr2e34j3)
 ![](https://cdn.hackernoon.com/images/uhOzFmjZ9faCfeASQoSY4RdK9az2-qk7r21rp.jpeg)
 Have you heard of microservices? Of course, you have - any housewife already knows how to deploy them on a k8s cluster. Here is some thinking about them.
 
-### [98. 5 Kubernetes Use Cases: What You Need to Know](https://hackernoon.com/5-kubernetes-use-cases-what-you-need-to-know)
+### [95. 5 Kubernetes Use Cases: What You Need to Know](https://hackernoon.com/5-kubernetes-use-cases-what-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/m72bmcDdzHOrG3tFshlZQsYEzRn2-m79331c.jpeg)
 Discover five Kubernetes use cases that showcase its versatility in automating and managing containerized applications.
 
-### [99. All It Took Was a $300/Month No-Code Stack to Scale a SaaS Marketplace to 10,000+ Users](https://hackernoon.com/all-it-took-was-a-$300month-no-code-stack-to-scale-a-saas-marketplace-to-10000-users)
+### [96. Building Scalable ROS 2 Applications with Microservice Architecture](https://hackernoon.com/building-scalable-ros-2-applications-with-microservice-architecture)
+![](https://cdn.hackernoon.com/images/an-autonomous-vehicle-surrounded-by-container-icons-mbr1cz6smqrj9qypb99oj58d.png)
+By lowering latency and resource consumption across platforms, containerization improves autonomous driving systems' performance, isolation, and stability.
+
+### [97. All It Took Was a $300/Month No-Code Stack to Scale a SaaS Marketplace to 10,000+ Users](https://hackernoon.com/all-it-took-was-a-$300month-no-code-stack-to-scale-a-saas-marketplace-to-10000-users)
 ![](https://cdn.hackernoon.com/images/ltSU18V5HHNklBC0ZFPkb3h9XKz1-n4038y4.jpeg)
  Discover how Microns.io built and scaled a SaaS marketplace to 10K+ users using a $300/month no-code stack with Webflow, Wized, and Xano.
 
-### [100. Get Better VMs, Containers and Serverless Computing Results By Following These Steps](https://hackernoon.com/get-better-vms-containers-and-serverless-computing-results-by-following-these-steps-ghj3wj1)
+### [98. Get Better VMs, Containers and Serverless Computing Results By Following These Steps](https://hackernoon.com/get-better-vms-containers-and-serverless-computing-results-by-following-these-steps-ghj3wj1)
 ![](https://cdn.hackernoon.com/drafts/tp1pn3wzp.png)
 DEVELOP AND RUN APPLICATIONS WITHOUT THINKING ABOUT SERVERS
 
-### [101. Boost Your API Development Skills: Implementing GraphQL in Go](https://hackernoon.com/boost-your-api-development-skills-implementing-graphql-in-go)
+### [99. Boost Your API Development Skills: Implementing GraphQL in Go](https://hackernoon.com/boost-your-api-development-skills-implementing-graphql-in-go)
 ![](https://cdn.hackernoon.com/images/something-colorful-and-attractive-about-changing-engineering-world-g7lgm2f6i9bnlhqgjcf4f9b1.png)
 GraphQL is a powerful tool for modern API development due to its flexibility, efficiency, and developer-friendly features. 
 
-### [102. Headless CMS Pitfalls](https://hackernoon.com/what-they-dont-tell-you-about-headless-cms)
+### [100. Headless CMS Pitfalls](https://hackernoon.com/what-they-dont-tell-you-about-headless-cms)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-g593z99.jpeg)
 Reflections on two headless CMS implementation projects.
 
-### [103. Cloud-nomad Architecture: What You Need to Know ](https://hackernoon.com/cloud-nomad-architecture-what-you-need-to-know)
+### [101. Modular Design Is Solving Autonomous Driving's Biggest Challenges](https://hackernoon.com/modular-design-is-solving-autonomous-drivings-biggest-challenges)
+![](https://cdn.hackernoon.com/images/an-autonomous-car-dashboard-or-a-central-computing-unit-displaying-container-deployment-xw700okwcngs87xxa0is68d9.png)
+Using containerized ROS 2 modules, microservice-based architecture improves autonomous driving systems' speed, latency, and adaptability.
+
+### [102. Cloud-nomad Architecture: What You Need to Know ](https://hackernoon.com/cloud-nomad-architecture-what-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-uf93rev.jpeg)
 Learn about repatriation and consolidation trends, why it's a step forward, not a step back, and the core idea of cloud-nomad architecture. 
 
-### [104. Setting New Standards in Cloud Security Architecture by Sudha Rani Pujari](https://hackernoon.com/setting-new-standards-in-cloud-security-architecture-by-sudha-rani-pujari)
+### [103. Setting New Standards in Cloud Security Architecture by Sudha Rani Pujari](https://hackernoon.com/setting-new-standards-in-cloud-security-architecture-by-sudha-rani-pujari)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-a3038fh.jpeg)
 Sudha Rani Pujari sets new cloud security benchmarks by leading a secure-by-design transformation for microservices in containerized cloud environments.
 
-### [105. The Rise of Containers: Comparing Amazon ECS and Google Kubernetes](https://hackernoon.com/ecs-vs-kubernetes-the-ultimate-showdown)
+### [104. The Rise of Containers: Comparing Amazon ECS and Google Kubernetes](https://hackernoon.com/ecs-vs-kubernetes-the-ultimate-showdown)
 ![](https://cdn.hackernoon.com/images/0DxhR2wKkBWFVTrMKykkOMUzoev2-c0a35ot.jpeg)
 Here's how Google Kubernetes, a container orchestration platform differs from Amazon ECS, a container orchestration service! 
 
+
+### [105. Containerization Solves ROS 2's Biggest Performance Challenges](https://hackernoon.com/containerization-solves-ros-2s-biggest-performance-challenges)
+![](https://cdn.hackernoon.com/images/a-conceptual-graphic-showing-an-autonomous-car-connected-to-multiple-container-icons-docker-style-xnqzjexfhpu08j9jwn5jsl2r.png)
+Containerized microservices outperform conventional bare-metal configurations in autonomous car systems by reducing latency, jitter, and resource consumption.
 
 ### [106. The ABCs of Microservices: A Simple Introduction](https://hackernoon.com/the-abcs-of-microservices-a-simple-introduction)
 ![](https://cdn.hackernoon.com/images/qLR2YtmNmXZaUJh49E7BWmlwn0t1-qp034sb.png)

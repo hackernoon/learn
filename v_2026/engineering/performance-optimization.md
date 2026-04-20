@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [performance-optimization](https://hackernoon.com/tagged/performance-optimization)
+### Let's learn about [Performance Optimization](https://hackernoon.com/tagged/performance-optimization) via these 52 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Performance optimization is the process of improving system or application efficiency and speed. It's critical for delivering fast, responsive user experiences, reducing operational costs, and ensuring scalability in complex software environments.
+
 ### [1. How to Generate Large Datasets in .NET for Excel With OpenXML](https://hackernoon.com/how-to-generate-large-datasets-in-net-for-excel-with-openxml)
 ![](https://cdn.hackernoon.com/images/Yaul2WNQvOTBz1QvzIhQOQfvW462-0r831hw.jpeg)
 Generating large datasets in .NET for Excel with OpenXML and SAX approach
@@ -78,49 +82,49 @@ Software design is difficult. One has to design features to fit past and future 
 ![](https://cdn.hackernoon.com/images/nLBjbmEzqsRcnIfAFW3exh6idX82-kx930wv.jpeg)
 Within almost 15 years of programming Ruby, I collected a quite vast collection of tools and techniques that help me achive the best performance to my projects
 
-### [20. Master React by Designing Effective APIs With the useImperativeHandle Hook](https://hackernoon.com/master-react-by-designing-effective-apis-with-the-useimperativehandle-hook)
-![](https://cdn.hackernoon.com/images/7XhQwEsk1Eg58rZqKidDiZMpsI93-um034v2.png)
-The useImperativeHandle hook allows developers to customize the methods and properties exposed by a component, enhancing flexibility and maintainability.
-
-### [21. Best Regexp Alternative for Go; Benchmarks and Plots](https://hackernoon.com/best-regexp-alternative-for-go-benchmarks-and-plots)
+### [20. Best Regexp Alternative for Go; Benchmarks and Plots](https://hackernoon.com/best-regexp-alternative-for-go-benchmarks-and-plots)
 ![](https://cdn.hackernoon.com/images/e3vbRaRQwpRsYcMCRQUv2UxxKVw2-t093th1.jpeg)
 In this article, we will look at alternatives to the standard regexp library in Go and benchmark them for speed and memory consumption.
 
-### [22. Harnessing Rust and WebAssembly for Practical Web Solutions](https://hackernoon.com/harnessing-rust-and-webassembly-for-practical-web-solutions)
-![](https://cdn.hackernoon.com/images/xJY7Mil1Iaawpy4gQe2JjaeojZY2-us835cd.jpeg)
-Discover the power of Rust and WebAssembly in web development with a hands-on guide, bridging theory to practical applications.
+### [21. Master React by Designing Effective APIs With the useImperativeHandle Hook](https://hackernoon.com/master-react-by-designing-effective-apis-with-the-useimperativehandle-hook)
+![](https://cdn.hackernoon.com/images/7XhQwEsk1Eg58rZqKidDiZMpsI93-um034v2.png)
+The useImperativeHandle hook allows developers to customize the methods and properties exposed by a component, enhancing flexibility and maintainability.
 
-### [23. Navigating the Parallel Programming Landscape: A Deep Dive into SIMD and MIMD Architectures](https://hackernoon.com/navigating-the-parallel-programming-landscape-a-deep-dive-into-simd-and-mimd-architectures)
+### [22. Navigating the Parallel Programming Landscape: A Deep Dive into SIMD and MIMD Architectures](https://hackernoon.com/navigating-the-parallel-programming-landscape-a-deep-dive-into-simd-and-mimd-architectures)
 ![](https://cdn.hackernoon.com/images/cKPAEsXJWrhfQyDsfMKM3bKfsWt1-6sc3puz.jpeg)
 Discover SIMD (Intel intrinsics) and MIMD architectures and parallel programming models: Shared Memory, distributed memory, PGAS, DSM, OpenMP, MPI, DGAS,CUDA..
 
-### [24. Modular Game Engines: Building Scalable Architectures for Next-Gen Online Slots](https://hackernoon.com/modular-game-engines-building-scalable-architectures-for-next-gen-online-slots)
+### [23. Harnessing Rust and WebAssembly for Practical Web Solutions](https://hackernoon.com/harnessing-rust-and-webassembly-for-practical-web-solutions)
+![](https://cdn.hackernoon.com/images/xJY7Mil1Iaawpy4gQe2JjaeojZY2-us835cd.jpeg)
+Discover the power of Rust and WebAssembly in web development with a hands-on guide, bridging theory to practical applications.
+
+### [24. Inside Discord’s Architecture at Scale](https://hackernoon.com/inside-discords-architecture-at-scale)
+![](https://cdn.hackernoon.com/images/G5bBwLJImBOVigYEVxRwchJ9SBz1-7g8395k.png)
+How Discord scaled to trillions of messages using the actor model, Elixir, ScyllaDB, request coalescing, and other creative performance optimizations. 
+
+### [25. Modular Game Engines: Building Scalable Architectures for Next-Gen Online Slots](https://hackernoon.com/modular-game-engines-building-scalable-architectures-for-next-gen-online-slots)
 ![](https://cdn.hackernoon.com/images/oJUpYAF0LFWZEfK7tXb4ezCNFeg2-zp03bp5.jpeg)
 It reveals how modular game engines enable scalable, high-performance online slots. Learn core-feature boundaries, dependency management, and so on.
 
-### [25. Minimizing Rebalance Downtime: Optimizing Stateless Kafka Streams Apps (x450)](https://hackernoon.com/minimizing-rebalance-downtime-optimizing-stateless-kafka-streams-apps-x450)
-![](https://cdn.hackernoon.com/images/gFDOPhILD1XXChVXvtTpo42RgoO2-dz93sme.jpeg)
-With a single config change, reduce rebalance downtime for your stateless Kafka Streams Apps from 45s to <100ms!!
-
-### [26. Here's How to Keep Tempdb From Becoming Your Worst Nightmare](https://hackernoon.com/heres-how-to-keep-tempdb-from-becoming-your-worst-nightmare)
-![](https://cdn.hackernoon.com/images/lh3GIz5KYbVlETykJ0q4yOt71CA3-bq03qik.jpeg)
-Learn how to diagnose and fix SQL Server `tempdb` issues—space bloat, auto-growth, and contention—using targeted queries. Optimize performance with pre-sizing.
+### [26. Creative Performance Engineering: A Strategic Framework for AI-Driven Marketing in 2026](https://hackernoon.com/creative-performance-engineering-a-strategic-framework-for-ai-driven-marketing-in-2026)
+![](https://cdn.hackernoon.com/images/slrXaeHxV9UCUS0qRV20g8EEXWk1-d5c3ei9.png)
+In 2026, the problem is no longer how to make more ads. It is how to stop making the wrong ones. 
 
 ### [27. Is JOIN Faster Than Correlated Subqueries? Taking a Look and Subsequently Debunking the Myth](https://hackernoon.com/is-join-faster-than-correlated-subqueries-taking-a-look-and-subsequently-debunking-the-myth)
 ![](https://cdn.hackernoon.com/images/n3kl2GbTdNeZW4LWuQI0srwMqsG2-yn03bpc.png)
 I decided to put it to the test across four popular database systems: MySQL 8.0, Oracle 23c, PostgreSQL 16, and SQLite 3.45. The results were eye-opening.
 
-### [28. Creative Performance Engineering: A Strategic Framework for AI-Driven Marketing in 2026](https://hackernoon.com/creative-performance-engineering-a-strategic-framework-for-ai-driven-marketing-in-2026)
-![](https://cdn.hackernoon.com/images/slrXaeHxV9UCUS0qRV20g8EEXWk1-d5c3ei9.png)
-In 2026, the problem is no longer how to make more ads. It is how to stop making the wrong ones. 
+### [28. Minimizing Rebalance Downtime: Optimizing Stateless Kafka Streams Apps (x450)](https://hackernoon.com/minimizing-rebalance-downtime-optimizing-stateless-kafka-streams-apps-x450)
+![](https://cdn.hackernoon.com/images/gFDOPhILD1XXChVXvtTpo42RgoO2-dz93sme.jpeg)
+With a single config change, reduce rebalance downtime for your stateless Kafka Streams Apps from 45s to <100ms!!
 
-### [29. Highly Efficient and Secure Data Analysis Using Dask and AWS Best Practices](https://hackernoon.com/highly-efficient-and-secure-data-analysis-using-dask-and-aws-best-practices)
+### [29. Here's How to Keep Tempdb From Becoming Your Worst Nightmare](https://hackernoon.com/heres-how-to-keep-tempdb-from-becoming-your-worst-nightmare)
+![](https://cdn.hackernoon.com/images/lh3GIz5KYbVlETykJ0q4yOt71CA3-bq03qik.jpeg)
+Learn how to diagnose and fix SQL Server `tempdb` issues—space bloat, auto-growth, and contention—using targeted queries. Optimize performance with pre-sizing.
+
+### [30. Highly Efficient and Secure Data Analysis Using Dask and AWS Best Practices](https://hackernoon.com/highly-efficient-and-secure-data-analysis-using-dask-and-aws-best-practices)
 ![](https://cdn.hackernoon.com/images/xp82ZtMZQrMVyW0VFOw0cfX1HKf2-a313zph.webp)
 We generate an enormous amount of data, which can be mind-boggling. If we analyze this data, it can lead to valuable insights and competitive advantage.
-
-### [30. Inside Discord’s Architecture at Scale](https://hackernoon.com/inside-discords-architecture-at-scale)
-![](https://cdn.hackernoon.com/images/G5bBwLJImBOVigYEVxRwchJ9SBz1-7g8395k.png)
-How Discord scaled to trillions of messages using the actor model, Elixir, ScyllaDB, request coalescing, and other creative performance optimizations. 
 
 ### [31. How Order in iF Statement Impacts on Performance](https://hackernoon.com/how-order-in-if-statement-impacts-on-performance)
 ![](https://cdn.hackernoon.com/images/FnJSyiTSqmPvpvgC9FHggSRb8Gj2-1r8344f.jpeg)
@@ -134,9 +138,10 @@ Azure Data Studio is an open-source program that offers rich capabilities for wo
 ![](https://cdn.hackernoon.com/images/STQCqABlioQWnaHsM41j126aidx2-bda338r.jpeg)
 Unlock the power of HubSpot data with low-code integration, streamlining operations, boosting efficiency, and enhancing customer experiences.
 
-### [34. Clean Code and Speed: Not Either/Or](https://hackernoon.com/clean-code-and-speed-not-eitheror)
-![](https://cdn.hackernoon.com/images/9BKUQqHNa1XEwAGSAleKpzH2Zol2-e3026dy.png)
-Refuting claims that clean code hurts performance, this article shows how proper design delivers speed without sacrificing maintainability.
+### [34. Implement Lazy Loaded Popups With @defer and PrimeNG](https://hackernoon.com/implement-lazy-loaded-popups-with-defer-and-primeng)
+![](https://cdn.hackernoon.com/images/q9bxaEWnGZYxYbJA5Ncy4ZttVEz2-l902va4.png)
+Optimize Angular performance with PrimeNG and @defer, reducing initial load times and enhancing the user experience through lazy-loaded components.
+
 
 ### [35. The Hidden Cost of Performance: How High-Load Specialization Warps Engineering Intuition](https://hackernoon.com/the-hidden-cost-of-performance-how-high-load-specialization-warps-engineering-intuition)
 ![](https://cdn.hackernoon.com/images/a-meeting-room-with-men-and-women-working-on-laptops-lw6eft7doi9tw7ij6lvhivdr.png)
@@ -146,60 +151,67 @@ Over-optimizing high-load systems can backfire. Georgy Starikov shares when perf
 ![](https://cdn.hackernoon.com/images/anfJV6KSo1bThcpN0mDFqo1MKQp2-kj835qm.jpeg)
 Discover powerful strategies to optimize web performance through efficient resource fetching and prioritization techniques. Learn about preconnect, DNS-prefetch
 
-### [37. Implement Lazy Loaded Popups With @defer and PrimeNG](https://hackernoon.com/implement-lazy-loaded-popups-with-defer-and-primeng)
-![](https://cdn.hackernoon.com/images/q9bxaEWnGZYxYbJA5Ncy4ZttVEz2-l902va4.png)
-Optimize Angular performance with PrimeNG and @defer, reducing initial load times and enhancing the user experience through lazy-loaded components.
-
-
-### [38. GraphQL Isn’t Just for Data Anymore — It's Becoming Your Frontend](https://hackernoon.com/graphql-isnt-just-for-data-anymore-its-becoming-your-frontend)
+### [37. GraphQL Isn’t Just for Data Anymore — It's Becoming Your Frontend](https://hackernoon.com/graphql-isnt-just-for-data-anymore-its-becoming-your-frontend)
 ![](https://cdn.hackernoon.com/images/zDJTbna4ZjS6tru4xC7VaFSrjpp2-ir137tp.png)
 Server-Driven UI with GraphQL & WebAssembly powers dynamic, high-performance frontends with scalable, modular architecture for the next-gen web.
 
-### [39. Our GPU Was Idle 77% of the Time. Here's How We Fixed It](https://hackernoon.com/our-gpu-was-idle-77percent-of-the-time-heres-how-we-fixed-it)
+### [38. Our GPU Was Idle 77% of the Time. Here's How We Fixed It](https://hackernoon.com/our-gpu-was-idle-77percent-of-the-time-heres-how-we-fixed-it)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-si024pe.jpeg)
 Pinned memory and non-blocking streams can speed up data transfers.
 
-### [40. The 30-Day .NET Challenge - Day 18: AggressiveInlining Attribute](https://hackernoon.com/the-30-day-net-challenge-day-18-aggressiveinlining-attribute)
-![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-p6833vc.jpeg)
-One of the techniques to improve application performance involves the use of the AggressiveInlining attribute. It influences the Just-In-Time (JIT) compiler’s 
-
-### [41. In Conversation With Dung Le: Engineering Excellence Across Tech Giants and Entrepreneurial Ventures](https://hackernoon.com/in-conversation-with-dung-le-engineering-excellence-across-tech-giants-and-entrepreneurial-ventures)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-kf03acy.png)
-Dung Le blends engineering excellence and entrepreneurship, from Google and Tesla to startups, driving innovation in performance, data, and consumer tech.
-
-### [42. Inference Tax: Why Python Kills Your AI Agent Profitability, And How I Built a Nervous System in C++](https://hackernoon.com/inference-tax-why-python-kills-your-ai-agent-profitability-and-how-i-built-a-nervous-system-in-c)
+### [39. Inference Tax: Why Python Kills Your AI Agent Profitability, And How I Built a Nervous System in C++](https://hackernoon.com/inference-tax-why-python-kills-your-ai-agent-profitability-and-how-i-built-a-nervous-system-in-c)
 ![](https://cdn.hackernoon.com/images/ooz70Z6mIrNBoHJWAaQhPY2W6Zu2-eof2esr.png)
 The AI industry is currently in a state of mass hallucination. We are promised a future of autonomous agents—vision models on factory floors, and more
 
-### [43. The Game-Changing Role of CDNs in Leveling Up Digital Experiences](https://hackernoon.com/the-game-changing-role-of-cdns-in-leveling-up-digital-experiences)
-![](https://cdn.hackernoon.com/images/8NXwhGNFNvew5SH1urMpry6DWex2-79832d7.jpeg)
-Find your perfect CDN with our guide! Get tips on choosing the right service for faster streaming, enhanced security, and global reach. Click to learn more!
+### [40. In Conversation With Dung Le: Engineering Excellence Across Tech Giants and Entrepreneurial Ventures](https://hackernoon.com/in-conversation-with-dung-le-engineering-excellence-across-tech-giants-and-entrepreneurial-ventures)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-kf03acy.png)
+Dung Le blends engineering excellence and entrepreneurship, from Google and Tesla to startups, driving innovation in performance, data, and consumer tech.
 
-### [44. Overcoming Technical Hurdles for Shopify Excellence: The Story of Our "Built for Shopify" Badge](https://hackernoon.com/overcoming-technical-hurdles-for-shopify-excellence-the-story-of-our-built-for-shopify-badge)
+### [41. The 30-Day .NET Challenge - Day 18: AggressiveInlining Attribute](https://hackernoon.com/the-30-day-net-challenge-day-18-aggressiveinlining-attribute)
+![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-p6833vc.jpeg)
+One of the techniques to improve application performance involves the use of the AggressiveInlining attribute. It influences the Just-In-Time (JIT) compiler’s 
+
+### [42. Clean Code and Speed: Not Either/Or](https://hackernoon.com/clean-code-and-speed-not-eitheror)
+![](https://cdn.hackernoon.com/images/9BKUQqHNa1XEwAGSAleKpzH2Zol2-e3026dy.png)
+Refuting claims that clean code hurts performance, this article shows how proper design delivers speed without sacrificing maintainability.
+
+### [43. Overcoming Technical Hurdles for Shopify Excellence: The Story of Our "Built for Shopify" Badge](https://hackernoon.com/overcoming-technical-hurdles-for-shopify-excellence-the-story-of-our-built-for-shopify-badge)
 ![](https://cdn.hackernoon.com/images/2kJk8vVbUKfVSNAex9vepyD95Qf2-g4a3xz4.jpeg)
 Discover our journey to the coveted 'Built for Shopify' badge, an odyssey of technical innovation, resilience, and strategic adaptation.
 
-### [45. The HackerNoon Newsletter: The Tekken 3 Virtual Arena Was Real  (2/9/2025)](https://hackernoon.com/2-9-2025-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_724_lvcd45vhgaess0hhq4g5f8sl.png)
-2/9/2025: Top 5 stories on the HackerNoon homepage!
+### [44. The Game-Changing Role of CDNs in Leveling Up Digital Experiences](https://hackernoon.com/the-game-changing-role-of-cdns-in-leveling-up-digital-experiences)
+![](https://cdn.hackernoon.com/images/8NXwhGNFNvew5SH1urMpry6DWex2-79832d7.jpeg)
+Find your perfect CDN with our guide! Get tips on choosing the right service for faster streaming, enhanced security, and global reach. Click to learn more!
 
-### [46. The Power of After Action Reports: Your Ultimate Learning Tool](https://hackernoon.com/the-power-of-after-action-reports-your-ultimate-learning-tool)
+### [45. Memory Leaks in Swift: The Silent Killer of iOS Apps](https://hackernoon.com/memory-leaks-in-swift-the-silent-killer-of-ios-apps)
+![](https://cdn.hackernoon.com/images/bGyqDcobpERFXKWs0AIhTuelhzY2-wt93dxm.png)
+Understand memory leaks in Swift and iOS apps, including ARC behavior, retain cycles, closures, async tasks, and practical strategies
+
+### [46. Fighting VRAM Overheating: 3 Unexpected Lessons from My First Windows Utility](https://hackernoon.com/fighting-vram-overheating-3-unexpected-lessons-from-my-first-windows-utility)
+![](https://cdn.hackernoon.com/images/xqQcrOPAG6Rl046hNv92Odipmx22-17837k7.png)
+A developer's log on fixing laptop VRAM overheating during AI workloads. Why Memory Junction hits 105°C and how Pulse Throttling solves it without undervolting.
+
+### [47. The Power of After Action Reports: Your Ultimate Learning Tool](https://hackernoon.com/the-power-of-after-action-reports-your-ultimate-learning-tool)
 ![](https://cdn.hackernoon.com/images/rTGkuSmEEIdJxS4Bj7H8MUxQhOg2-lq93sxk.jpeg)
 Explore After Action Reports (AARs): an essential tool for growth. Learn how to analyze successes and failures, drive improvement, and boost success
 
-### [47. How to Find the Stinky Parts of Your Code: 251 - Empty Collections ](https://hackernoon.com/code-smell-251-collections-empty)
+### [48. The HackerNoon Newsletter: The Tekken 3 Virtual Arena Was Real  (2/9/2025)](https://hackernoon.com/2-9-2025-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_724_lvcd45vhgaess0hhq4g5f8sl.png)
+2/9/2025: Top 5 stories on the HackerNoon homepage!
+
+### [49. How to Find the Stinky Parts of Your Code: 251 - Empty Collections ](https://hackernoon.com/code-smell-251-collections-empty)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-ue832aw.jpeg)
 Learn why using declarative names is crucial for code clarity, performance optimization. and avoiding code smells. 
 
-### [48. Hiding Memory Allocation Latency in LLM Serving With vAttention](https://hackernoon.com/hiding-memory-allocation-latency-in-llm-serving-with-vattention)
+### [50. Hiding Memory Allocation Latency in LLM Serving With vAttention](https://hackernoon.com/hiding-memory-allocation-latency-in-llm-serving-with-vattention)
 ![](https://cdn.hackernoon.com/images/memory-trippy-ma4h65sh6xhnxv24g10n23qg.png)
 Explore how vAttention optimizes LLM serving by leveraging predictable memory demand to overlap physical memory allocation with compute
 
-### [49. ROT13 at Warp Speed: A Practical Optimization Playbook](https://hackernoon.com/rot13-at-warp-speed-a-practical-optimization-playbook)
+### [51. ROT13 at Warp Speed: A Practical Optimization Playbook](https://hackernoon.com/rot13-at-warp-speed-a-practical-optimization-playbook)
 ![](https://cdn.hackernoon.com/images/ymemb7hlU3SS96MeLUfvqbWcRkE2-j503bcs.png)
 Complete optimization playbook for ROT13 cipher implementation. Learn SIMD, parallel processing, cache optimization, and CUDA techniques to achieve 13x speedup.
 
-### [50. Setting New Standards in Enterprise E-commerce Solutions by Dilip Prakash Valanarasu](https://hackernoon.com/setting-new-standards-in-enterprise-e-commerce-solutions-by-dilip-prakash-valanarasu)
+### [52. Setting New Standards in Enterprise E-commerce Solutions by Dilip Prakash Valanarasu](https://hackernoon.com/setting-new-standards-in-enterprise-e-commerce-solutions-by-dilip-prakash-valanarasu)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-f8038oq.jpeg)
 Dilip Valanarasu architected a multi-site e-commerce platform with 400+ catalogs, boosting performance, personalization, and scalability across global retail.
 

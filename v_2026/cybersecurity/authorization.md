@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [authorization](https://hackernoon.com/tagged/authorization)
+### Let's learn about [Authorization](https://hackernoon.com/tagged/authorization) via these 68 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Authorization is the function of specifying access rights to resources, a fundamental security mechanism in computing systems to control who can do what. It is crucial for protecting sensitive data and ensuring that only approved users or systems can perform specific actions.
+
 ### [1. Using SuperTokens in a VueJS App With Your Own UI](https://hackernoon.com/using-supertokens-in-a-vuejs-app-with-your-own-ui)
 ![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-2z92ocu.png)
 Learn how to build your own login UI with SuperTokens in your VueJS application.
@@ -77,13 +81,13 @@ In this blog we discuss how to customize the auth APIs provided by SuperTokens u
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-0pb2v3o.jpeg)
 A walk through of capability-access control, part of the Flow blockchain, which facilitates selective access to resources, decentralizing large attack vectors.
 
-### [20. How To Build JWT's in Go](https://hackernoon.com/how-to-build-jwts-in-go-cf8o374x)
-![](https://cdn.hackernoon.com/images/p8113yf9.jpg)
-Go is becoming very popular for backend web development, and JWT's are one of the most popular ways to handle authentication on API requests. In this article, we are going to go over the basics of JWT's and how to implement a secure authentication strategy in Go!
-
-### [21. Building a Login Screen With React and Bootstrap](https://hackernoon.com/building-a-login-screen-with-react-and-bootstrap)
+### [20. Building a Login Screen With React and Bootstrap](https://hackernoon.com/building-a-login-screen-with-react-and-bootstrap)
 ![](https://cdn.hackernoon.com/images/tQ9kB6bRVWOji0aXNiHdKY9Q17y1-prf2ik3.jpeg)
 Build an elegant login screen super fast using React and Bootstrap
+
+### [21. How To Build JWT's in Go](https://hackernoon.com/how-to-build-jwts-in-go-cf8o374x)
+![](https://cdn.hackernoon.com/images/p8113yf9.jpg)
+Go is becoming very popular for backend web development, and JWT's are one of the most popular ways to handle authentication on API requests. In this article, we are going to go over the basics of JWT's and how to implement a secure authentication strategy in Go!
 
 ### [22. Protecting Your Supabase App With SuperTokens Authentication](https://hackernoon.com/protecting-your-supabase-app-with-supertokens-authentication)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-hy93o1j.jpeg)
@@ -145,25 +149,25 @@ There seems to be a lot of misinformation on when OAuth 2.0 (henceforth referred
 ![](https://cdn.hackernoon.com/drafts/5lvd3xn8.png)
 JWT is the abbreviation of JSON Web Tokens. JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. 
 
-### [37. SCIM: A Critical Yet Underappreciated Element in Enterprise IAM](https://hackernoon.com/scim-a-critical-yet-underappreciated-element-in-enterprise-iam)
-![](https://cdn.hackernoon.com/images/T6r7N1Q06lSE0ZrpHoiOCPa0HzS2-gz830p1.png)
-Discover how SCIM improves enterprise IAM complementing SSO for automated authentication and authorization.
-
-### [38. EVMAuth: An Open Authorization Protocol for the AI Agent Economy](https://hackernoon.com/evmauth-an-open-authorization-protocol-for-the-ai-agent-economy)
+### [37. EVMAuth: An Open Authorization Protocol for the AI Agent Economy](https://hackernoon.com/evmauth-an-open-authorization-protocol-for-the-ai-agent-economy)
 ![](https://cdn.hackernoon.com/images/J9bVU4IrksSj47z0s9LWlG3zjFo1-1k0389e.png)
 EVMAuth is an open source authorization protocol that enables AI agents to access paid web resources without human intervention.
+
+### [38. SCIM: A Critical Yet Underappreciated Element in Enterprise IAM](https://hackernoon.com/scim-a-critical-yet-underappreciated-element-in-enterprise-iam)
+![](https://cdn.hackernoon.com/images/T6r7N1Q06lSE0ZrpHoiOCPa0HzS2-gz830p1.png)
+Discover how SCIM improves enterprise IAM complementing SSO for automated authentication and authorization.
 
 ### [39. Templating in Software Development: Taking a Deeper Look](https://hackernoon.com/templating-in-software-development-taking-a-deeper-look)
 ![](https://cdn.hackernoon.com/images/bK6famsVejQnj0vqeEXJK8YRaZX2-v892t1q.png)
 Explore how templating in software development can streamline your projects.
 
-### [40. How To Save Some Time When Building A New SaaS [Part 1]](https://hackernoon.com/how-to-save-some-time-when-building-a-new-saas-part-1-bye31bh)
-![](https://cdn.hackernoon.com/images/9y66kmcRvBdp1mbsFER9STH4Y012-el9c3tvi.jpeg)
-Building a new SaaS can be fun, time-consuming, and rewarding. The challenge is to deliver a quality product as quickly as possible so you can test the idea and either invest more time or move onto the next one. 
-
-### [41. Identity, Authentication, and Authorization: An Extensive Guide to Get You Up to Speed](https://hackernoon.com/identity-authentication-and-authorization-an-extensive-guide-to-get-you-up-to-speed)
+### [40. Identity, Authentication, and Authorization: An Extensive Guide to Get You Up to Speed](https://hackernoon.com/identity-authentication-and-authorization-an-extensive-guide-to-get-you-up-to-speed)
 ![](https://cdn.hackernoon.com/images/a-lock-on-a-locker-o8fdsg693bv4tb8h05qbhsbk.png)
 In this post, we will dive deeper and demystify how apps actually implement authentication. Do it right, and you barely notice it.
+
+### [41. How To Save Some Time When Building A New SaaS [Part 1]](https://hackernoon.com/how-to-save-some-time-when-building-a-new-saas-part-1-bye31bh)
+![](https://cdn.hackernoon.com/images/9y66kmcRvBdp1mbsFER9STH4Y012-el9c3tvi.jpeg)
+Building a new SaaS can be fun, time-consuming, and rewarding. The challenge is to deliver a quality product as quickly as possible so you can test the idea and either invest more time or move onto the next one. 
 
 ### [42. Passwordless Authentication: Is it Time to Bid Farewell to Passwords?](https://hackernoon.com/passwordless-authentication-is-it-time-to-bid-farewell-to-passwords)
 ![](https://cdn.hackernoon.com/images/Q7Ilpvu5bRN22EpJho9JEiSRxSo2-zq93pfg.jpeg)
@@ -185,33 +189,33 @@ In online protection systems, authentication and authorization play an important
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-029a35hv.png)
 JSON Web Token (JWT) is an open standard (RFC 7519) for securely transmitting information between parties as JSON objects.
 
-### [47. How Zero Trust Vendors are Concealing the Truth About This Robust Mechanism?](https://hackernoon.com/how-zero-trust-vendors-are-concealing-the-truth-about-this-robust-mechanism)
-![](https://cdn.hackernoon.com/images/2tpuiYthxsOQJf3tqfV9SwnabOu1-6n93pmz.jpeg)
-With the increasing cybersecurity risks and breaches in the past couple of years, businesses are now moving with a clear vision to incorporate zero-trust architecture into their platforms. 
-
-### [48. Implementing Secure Role-Based Access Control (RBAC) in a Next.js Application Using Permit.io](https://hackernoon.com/implementing-secure-role-based-access-control-rbac-in-a-nextjs-application-using-permitio)
+### [47. Implementing Secure Role-Based Access Control (RBAC) in a Next.js Application Using Permit.io](https://hackernoon.com/implementing-secure-role-based-access-control-rbac-in-a-nextjs-application-using-permitio)
 ![](https://cdn.hackernoon.com/images/Z7fkxfDpjOT4JTLVKWPSiyFHz1j1-5302q3g.png)
 Learn how to implement secure, scalable Role-Based Access Control (RBAC) in a Next.js app with Permit.io, managing user permissions and enhancing app security.
 
-### [49. What is OAuth (Open Authorization) and Why is it Important?](https://hackernoon.com/what-is-oauth-open-authorization-and-why-is-it-important-ao7g35ly)
-![](https://cdn.hackernoon.com/images/6kyWRUf5yVh84FRLRMec4J2o2rj1-kx1n34rt.gif)
-First of all, we want the users to be authenticated - confirming that the users are who they say they are. Then, authorize them - to enable selective access.
+### [48. How Zero Trust Vendors are Concealing the Truth About This Robust Mechanism?](https://hackernoon.com/how-zero-trust-vendors-are-concealing-the-truth-about-this-robust-mechanism)
+![](https://cdn.hackernoon.com/images/2tpuiYthxsOQJf3tqfV9SwnabOu1-6n93pmz.jpeg)
+With the increasing cybersecurity risks and breaches in the past couple of years, businesses are now moving with a clear vision to incorporate zero-trust architecture into their platforms. 
 
-### [50. 16 Best Practices For Securing Your APIs with Apache APISIX - Part 1](https://hackernoon.com/16-best-practices-for-securing-your-apis-with-apache-apisix-part-1)
+### [49. 16 Best Practices For Securing Your APIs with Apache APISIX - Part 1](https://hackernoon.com/16-best-practices-for-securing-your-apis-with-apache-apisix-part-1)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-6x82htv.jpeg)
 Learn how to fortify your APIs with Apache APISIX, implementing top security practices, including authentication, authorization, and rate limiting.
+
+### [50. What is OAuth (Open Authorization) and Why is it Important?](https://hackernoon.com/what-is-oauth-open-authorization-and-why-is-it-important-ao7g35ly)
+![](https://cdn.hackernoon.com/images/6kyWRUf5yVh84FRLRMec4J2o2rj1-kx1n34rt.gif)
+First of all, we want the users to be authenticated - confirming that the users are who they say they are. Then, authorize them - to enable selective access.
 
 ### [51. The Role of Identity and Access Management in The Security of Your Business](https://hackernoon.com/the-role-of-identity-and-access-management-in-the-security-of-your-business)
 ![](https://cdn.hackernoon.com/images/KP6ZZCxmFpeLcptqGSTgnHaC0M82-sl93p0v.jpeg)
 Identity and Access Management (IAM) plays a critical role in safeguarding your digital assets and ensuring secure access for authorized users.
 
-### [52. The ABCs of Identity, Authentication, and Authorization - Part 1](https://hackernoon.com/the-abcs-of-identity-authentication-and-authorization-part-1)
-![](https://cdn.hackernoon.com/images/NoGcGnD6czcqoiF8Vt6H71QTqVs1-m993xmv.jpeg)
-Gain a high-level understanding of the key concepts of identity, authentication, and authorization.
-
-### [53. Crafting Robust Authorization Systems: Harmonizing Security and User Experience](https://hackernoon.com/harmonizing-security-and-user-experience-crafting-robust-authorization-systems)
+### [52. Crafting Robust Authorization Systems: Harmonizing Security and User Experience](https://hackernoon.com/harmonizing-security-and-user-experience-crafting-robust-authorization-systems)
 ![](https://cdn.hackernoon.com/images/KP6ZZCxmFpeLcptqGSTgnHaC0M82-4883xbg.jpeg)
 Exploring the balance between cybersecurity and user experience in authorization systems, focusing on role-based permissions, tech stack, and KPIs.
+
+### [53. The ABCs of Identity, Authentication, and Authorization - Part 1](https://hackernoon.com/the-abcs-of-identity-authentication-and-authorization-part-1)
+![](https://cdn.hackernoon.com/images/NoGcGnD6czcqoiF8Vt6H71QTqVs1-m993xmv.jpeg)
+Gain a high-level understanding of the key concepts of identity, authentication, and authorization.
 
 ### [54. The Rise of DID Authorization Mechanism in Client-Server Model](https://hackernoon.com/about-the-rise-of-did-authorization-mechanism-in-client-server-model-sl3133bm)
 ![](https://cdn.hackernoon.com/images/DjN8oeZ17tRZaQSf3p5DDNrZh8o2-adi28wu.jpeg)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [hackathon](https://hackernoon.com/tagged/hackathon)
+### Let's learn about [Hackathon](https://hackernoon.com/tagged/hackathon) via these 85 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A hackathon is an event where programmers, designers, and other creative individuals collaborate intensively on software projects over a short period, fostering innovation and rapid prototyping. It's a vital environment for developing new ideas, learning new skills, and networking within the tech community.
+
 ### [1. Sending Secret Messages with the Courier API and Node.js](https://hackernoon.com/sending-secret-messages-with-the-courier-api-and-nodejs)
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-cd93o1o.jpeg)
 In this tutorial, we will be building a Node.js app that sends multi-channel notifications in morse code.
@@ -111,13 +115,13 @@ Polkadot is bringing seminars, presentations, and a $15,000 prize pool to ETHDen
 ![](https://cdn.hackernoon.com/images/6hi3yjm.jpg)
 If nothing else, we’ve learned by way of pandemic both the strength of our Internet and how many tools are left to build. As developers, we are in an exciting position to set the standards of our new normal and lay tracks toward the next frontier. This weekend, we are hosting our first Pioneer Hackathon, an attempt to provide community for those in isolation and a bit of prize-fueled, productive fun to fight global cabin fever.
 
-### [28. An Outsider's Journey Through Kaggle](https://hackernoon.com/an-outsiders-journey-through-kaggle-g5c436qu)
-![](https://images.unsplash.com/photo-1509023064510-ac5c5309a352?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-There are many great resources for learning data science and machine learning out there, but the one thing that might be missing is a live accounting of a non-technical individual learning these skills. I use the term “outsider” in the title because I don’t feel like I have the typical background that most people do on Kaggle. I am not a machine learning expert, mathematician, or expert computer programmer. I have experience in finance and law, not computer science or statistics.  
-
-### [29. Creating a Climate Change MEME Generator](https://hackernoon.com/creating-a-climate-change-meme-generator)
+### [28. Creating a Climate Change MEME Generator](https://hackernoon.com/creating-a-climate-change-meme-generator)
 ![](https://cdn.hackernoon.com/images/IMcuZGEyrzRf7UvWytxpfRbJsQ52-sub3ogw.jpeg)
 Using GPT-3, DALLE, and a series of prompts and responses to create climate change and global warming related memes.
+
+### [29. An Outsider's Journey Through Kaggle](https://hackernoon.com/an-outsiders-journey-through-kaggle-g5c436qu)
+![](https://images.unsplash.com/photo-1509023064510-ac5c5309a352?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+There are many great resources for learning data science and machine learning out there, but the one thing that might be missing is a live accounting of a non-technical individual learning these skills. I use the term “outsider” in the title because I don’t feel like I have the typical background that most people do on Kaggle. I am not a machine learning expert, mathematician, or expert computer programmer. I have experience in finance and law, not computer science or statistics.  
 
 ### [30. Do You Have to Code to Be in Tech?](https://hackernoon.com/can-i-be-in-tech-without-being-a-coder-q61l32tq)
 ![](https://cdn.hackernoon.com/drafts/av2ea3268.png)
@@ -143,13 +147,13 @@ Mozilla Builders is hosting the Love the Internet  ❤️ Collegiate Hackathon t
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-tj5u37zm.jpeg)
 The CityCoins community is looking for civic-minded developers to participate in MiamiCoin Maker’s Month – which gives you a chance to win $25k
 
-### [36. Happy Hackathoning: How To Get The Most Out of Hackathons](https://hackernoon.com/happy-hackathoning-how-to-get-the-most-out-of-hackathons-yr3h35k9)
-![](https://cdn.hackernoon.com/images/W8O8r27oUwUryhNHNMOvKfQBLNn2-io3g35zn.jpeg)
-With the HarperDB + Hashnode Hackathon upon us this month, I thought it would be a good time to share some tips on getting the most out of your hackathon participation. There are tons of great articles and resources out there of folks sharing their experiences and what they might do differently next time, so I’ll consolidate some of the best tips and open it up to the community to share your insights!
-
-### [37. Building a Simple Word Spelling App with ElevenLabs, Streamlit, and Claude](https://hackernoon.com/building-a-simple-word-spelling-app-with-elevenlabs-streamlit-and-claude)
+### [36. Building a Simple Word Spelling App with ElevenLabs, Streamlit, and Claude](https://hackernoon.com/building-a-simple-word-spelling-app-with-elevenlabs-streamlit-and-claude)
 ![](https://cdn.hackernoon.com/images/6Q9G55td38M5IPN0KQvACDQAoHd2-lfg36qq.jpeg)
 We will showcase the "Speech Synthesis" feature offered by ElevenLabs in a simple app, which generates random words and have it spell it.
+
+### [37. Happy Hackathoning: How To Get The Most Out of Hackathons](https://hackernoon.com/happy-hackathoning-how-to-get-the-most-out-of-hackathons-yr3h35k9)
+![](https://cdn.hackernoon.com/images/W8O8r27oUwUryhNHNMOvKfQBLNn2-io3g35zn.jpeg)
+With the HarperDB + Hashnode Hackathon upon us this month, I thought it would be a good time to share some tips on getting the most out of your hackathon participation. There are tons of great articles and resources out there of folks sharing their experiences and what they might do differently next time, so I’ll consolidate some of the best tips and open it up to the community to share your insights!
 
 ### [38. Pi Hackathon 2025 Signals a Maturing Open Network Ecosystem](https://hackernoon.com/pi-hackathon-2025-signals-a-maturing-open-network-ecosystem)
 ![](https://cdn.hackernoon.com/images/nyJ3v3rRv5NGM0ueVYbwsOuSUNr1-b403e5r.png)
@@ -167,13 +171,13 @@ Neo recently kicked off their Polaris Hackathon with a goal to help developers s
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fl04AtXj7qTNMWBPq3SiHo5NAcn03-ie4z3wj8.jpeg?alt=media&token=f580bd69-5c12-4ab3-91b7-28bcaf51842f)
 In November 2018, Volvo ran a hackathon that gathered talents from all over the globe to generate innovative ideas focused on undercarriage inspection automation. Our team created the best solution from scratch after 72 hours of live coding! Here’s how we did it. 
 
-### [42. Tinder for Hackathon Teams](https://hackernoon.com/tinder-for-hackathon-teams-pj2a3yfo)
-![](https://cdn.hackernoon.com/images/93133l30.jpg)
-For those of you who are Tinder users or just watchful to the tech news, you should know that the App is offering the option to match with anyone in the entire world, helping people to have virtual dates during this time of pandemic crisis.
-
-### [43. Hackathons Are Broken. Here’s How We Fix Them.](https://hackernoon.com/hackathons-are-broken-heres-how-we-fix-them)
+### [42. Hackathons Are Broken. Here’s How We Fix Them.](https://hackernoon.com/hackathons-are-broken-heres-how-we-fix-them)
 ![](https://cdn.hackernoon.com/images/8U7cAHkOAnbczEm98TKeQMtdPIm2-pj63da2.png)
 Hackathons produce cool demos—but most projects die in days. Here’s why the system is broken and how we can turn them into real startup launchpads.
+
+### [43. Tinder for Hackathon Teams](https://hackernoon.com/tinder-for-hackathon-teams-pj2a3yfo)
+![](https://cdn.hackernoon.com/images/93133l30.jpg)
+For those of you who are Tinder users or just watchful to the tech news, you should know that the App is offering the option to match with anyone in the entire world, helping people to have virtual dates during this time of pandemic crisis.
 
 ### [44. Contests and Hackathons in Blockchain: An Overview](https://hackernoon.com/contests-and-hackathons-in-blockchain-an-overview-ch2m37op)
 ![](https://cdn.hackernoon.com/images/eV5PQYztB3aTpBnYWcEFhU3vsYf2-09g35df.jpeg)
@@ -237,59 +241,59 @@ When we think, “Outer Edge,” we think of the builders. The Outer Edge is an 
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-4583yg5.jpeg)
  CTRL+Hack+ZK represents Aleph Zero’s most immersive hacking event to date, designed to spur innovation and collaboration in the blockchain space. 
 
-### [59. #PoweringPossibility Online Hackathon Kicks Off January 9th](https://hackernoon.com/poweringpossibility-online-hackathon-kicks-off-january-9th-8po31fd)
+### [59. Hackathon: LUKSO's Final Hackathon Round Offers Devs $150K to Build Gasless, Programmable Accounts](https://hackernoon.com/hackathon-luksos-final-hackathon-round-offers-devs-$150k-to-build-gasless-programmable-accounts)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-ak13n7c.png)
+Final round of LUKSO's $150K Hackathon invites devs to build with smart contract accounts and Universal Profiles.
+
+### [60. #PoweringPossibility Online Hackathon Kicks Off January 9th](https://hackernoon.com/poweringpossibility-online-hackathon-kicks-off-january-9th-8po31fd)
 ![](https://cdn.hackernoon.com/images/90qcTDZylSdjsiMkNkRpUPZogGr1-sm3e3wwl.jpeg)
 With Symbol from NEM going live on January 14th, 2021 as part of #SymbolLaunchFest, NEM is excited to announce the launch of the #PoweringPossibility Hackathon,
-
-### [60. Win $10k AKT in the Filebase + Akash Hackathon](https://hackernoon.com/win-dollar10k-akt-in-the-filebase-akash-hackathon)
-![](https://cdn.hackernoon.com/images/NWoIE4MlIihB5opmnjOZdCK4TbX2-nl4y63oom.png)
-Join the Filebase + Akash Hackathon that is from 1 September to 30 October and compete to win up to $10,000 AKT and up to $250 in free object storage. 
 
 ### [61. Some Motivation to Finish That Hackathon Project You’ve Been Sitting on](https://hackernoon.com/some-motivation-to-finish-that-hackathon-project-youve-been-sitting-on)
 ![](https://cdn.hackernoon.com/images/f4c66IeDvHT3cd4pINIHZJnqyCG2-m6a3rl3.gif.webp)
 How many people here have a project idea or a WIP project? ✋ Hackathons are a constant stream of motivation and resources for building projects to the end.
 
-### [62. An Open Source Lonero Student Hackathon](https://hackernoon.com/an-open-source-lonero-student-hackathon-69v33ww)
-![](https://cdn.hackernoon.com/images/gpabZ3ae5AMod6NEaJWlcWwdp7G2-fr6613gm.jpeg)
-If you are a student, I recommend you check out Lonero's latest student hackathon. The submission period ends on February 27th and started on the 11th. This hackathon is for open source projects powered by Lonero or built on-top of the decentralized-internet SDK. 
+### [62. Win $10k AKT in the Filebase + Akash Hackathon](https://hackernoon.com/win-dollar10k-akt-in-the-filebase-akash-hackathon)
+![](https://cdn.hackernoon.com/images/NWoIE4MlIihB5opmnjOZdCK4TbX2-nl4y63oom.png)
+Join the Filebase + Akash Hackathon that is from 1 September to 30 October and compete to win up to $10,000 AKT and up to $250 in free object storage. 
 
 ### [63. How To Convince Your Employer to Host An Internal Hackathon](https://hackernoon.com/how-to-convince-your-employer-to-host-an-internal-hackathon-gj7c35hg)
 ![](https://cdn.hackernoon.com/images/M7HG7jLfWShIsjpdlOSENna8i6G3-5o2536i7.jpeg)
 Tech Companies are running internal hackathons to design new features, build new products, and increase employee and talent engagement.
 
-### [64. MAKE CONVERSATIONAL AI WORK 
+### [64. An Open Source Lonero Student Hackathon](https://hackernoon.com/an-open-source-lonero-student-hackathon-69v33ww)
+![](https://cdn.hackernoon.com/images/gpabZ3ae5AMod6NEaJWlcWwdp7G2-fr6613gm.jpeg)
+If you are a student, I recommend you check out Lonero's latest student hackathon. The submission period ends on February 27th and started on the 11th. This hackathon is for open source projects powered by Lonero or built on-top of the decentralized-internet SDK. 
+
+### [65. Judging the Future of Mobile AI: An Interview with Ivan Mishchenko](https://hackernoon.com/judging-the-future-of-mobile-ai-an-interview-with-ivan-mishchenko)
+![](https://cdn.hackernoon.com/images/slT3HCgc9CZ4HGESXdHgPgAICaj1-m193dou.jpeg)
+As artificial intelligence becomes deeply embedded in mobile applications, the role of engineering judgment is changing. 
+
+### [66. MAKE CONVERSATIONAL AI WORK 
 at JUNCTION 2020 HACKATHON](https://hackernoon.com/make-conversational-ai-work-at-junction-2020-hackathon-pts3egp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzgGHfhtOwcTsqtS2qCkb5T9tWLn1-vw1d3the.jpeg?alt=media&token=3c380961-1daf-4099-8a55-ea9695c4f2f7)
 
 
-### [65. Hackathon: LUKSO's Final Hackathon Round Offers Devs $150K to Build Gasless, Programmable Accounts](https://hackernoon.com/hackathon-luksos-final-hackathon-round-offers-devs-$150k-to-build-gasless-programmable-accounts)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-ak13n7c.png)
-Final round of LUKSO's $150K Hackathon invites devs to build with smart contract accounts and Universal Profiles.
-
-### [66. Build A Blockchain Application For The HackOnLisk Online Hackathon](https://hackernoon.com/build-a-blockchain-application-for-the-hackonlisk-online-hackathon-i87536cn)
+### [67. Build A Blockchain Application For The HackOnLisk Online Hackathon](https://hackernoon.com/build-a-blockchain-application-for-the-hackonlisk-online-hackathon-i87536cn)
 ![](https://cdn.hackernoon.com/images/dEr5DsADiKOXf3cSyYhd9dUYVNo1-l2ac35bx.jpeg)
 Announced during Lisk.js 2021, HackOnLisk is going to be hosted on DevPost platform giving us the opportunity to reach an already existing blockchain developer.
-
-### [67. My Weekend at Hack@Brown Changed My Life](https://hackernoon.com/my-weekend-at-hackbrown-changed-my-life-394b33cq)
-![](https://hackernoon.com/images/W5JrUWwEzvZIeY5s7j04wACQgzh2-ob1s334y.gif)
-My experience at my first Hackathon - how it transformed the way I approach tech and what I'll do to advance this new profound appreciation.
 
 ### [68. How to Capture Disruptive Ideas
 with Open Innovation Challenges](https://hackernoon.com/how-to-capture-disruptive-ideas-with-open-innovation-challenges-sn3c3355)
 ![](https://cdn.hackernoon.com/images/e8g23b14.jpg)
 Henry Chesbrough, a professor at the University of California Berkeley Haas School of Business, coined the term “open innovation” almost 2 decades ago.
 
-### [69. The Art of Making "Not Just Another Meetup"](https://hackernoon.com/not-another-meetup-4l10vz40c0)
+### [69. My Weekend at Hack@Brown Changed My Life](https://hackernoon.com/my-weekend-at-hackbrown-changed-my-life-394b33cq)
+![](https://hackernoon.com/images/W5JrUWwEzvZIeY5s7j04wACQgzh2-ob1s334y.gif)
+My experience at my first Hackathon - how it transformed the way I approach tech and what I'll do to advance this new profound appreciation.
+
+### [70. The Art of Making "Not Just Another Meetup"](https://hackernoon.com/not-another-meetup-4l10vz40c0)
 ![](https://cdn.hackernoon.com/drafts/go110m40ko.png)
 We have all been there. Be it an event from the company we work at or not. Every corporation seems to think that their event/meetup is automatically exciting and valuable. As if their product was a new video game release everyone has eagerly waited for. 
 
-### [70. Unleashing Genius: How Bitget's U30 Hackathon Is Changing the Game in Blockchain and AI](https://hackernoon.com/unleashing-genius-how-bitgets-u30-hackathon-is-changing-the-game-in-blockchain-and-ai)
+### [71. Unleashing Genius: How Bitget's U30 Hackathon Is Changing the Game in Blockchain and AI](https://hackernoon.com/unleashing-genius-how-bitgets-u30-hackathon-is-changing-the-game-in-blockchain-and-ai)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-h993usw.jpeg)
 Bitget's U30 Virtual Hackathon is like a grand ball where the world joins hands to find the best talent. 
-
-### [71. Judging the Future of Mobile AI: An Interview with Ivan Mishchenko](https://hackernoon.com/judging-the-future-of-mobile-ai-an-interview-with-ivan-mishchenko)
-![](https://cdn.hackernoon.com/images/slT3HCgc9CZ4HGESXdHgPgAICaj1-m193dou.jpeg)
-As artificial intelligence becomes deeply embedded in mobile applications, the role of engineering judgment is changing. 
 
 ### [72. Introducing the CENNZnet DApp and NFT Hackathon](https://hackernoon.com/introducing-the-cennznet-dapp-and-nft-hackathon)
 ![](https://cdn.hackernoon.com/images/cdoWDbRZxubjFcNnjse22PoFjfE2-dx035r9.jpeg)
@@ -315,31 +319,35 @@ It has been a while since I’ve been to a hackathon. I always love that hackath
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPLJvlaQJxYdnmfEMH03KmwWiqUr1-sz53th6.png?alt=media&token=0a37de86-3513-4dbe-8016-5cea795c0e48)
 IBC is coming. Come and hack on it before it gets shipped on Cosmos Hub mainnet.
 
-### [78. Unleashing Technological Revolution: Crypto.com's APAC Hackathon Takes Center Stage](https://hackernoon.com/unleashing-technological-revolution-cryptocoms-apac-hackathon-takes-center-stage)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-nw93xi4.jpeg)
-Join Crypto.com's APAC Hackathon—uniting Web3 & AI tech with global challenges. Partnering with top universities, compete & innovate for a brighter future!
-
-### [79. 'MBX/HACK The FUN' Opens Applications: An Acceleration Program For Web3 Game Developers](https://hackernoon.com/mbxhack-the-fun-opens-applications-an-acceleration-program-for-web3-game-developers)
+### [78. 'MBX/HACK The FUN' Opens Applications: An Acceleration Program For Web3 Game Developers](https://hackernoon.com/mbxhack-the-fun-opens-applications-an-acceleration-program-for-web3-game-developers)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-1x037mm.jpeg)
 This hybrid program combines a hackathon with an acceleration initiative, designed to help web3 game developers build, refine, and successfully launch high-qual
 
-### [80. Pioneer Challenge: Overview](https://hackernoon.com/pioneer-challenge-overview-g5i3toc)
+### [79. Unleashing Technological Revolution: Crypto.com's APAC Hackathon Takes Center Stage](https://hackernoon.com/unleashing-technological-revolution-cryptocoms-apac-hackathon-takes-center-stage)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-nw93xi4.jpeg)
+Join Crypto.com's APAC Hackathon—uniting Web3 & AI tech with global challenges. Partnering with top universities, compete & innovate for a brighter future!
+
+### [80. The Git Log Never Lies](https://hackernoon.com/the-git-log-never-lies)
+![](https://cdn.hackernoon.com/images/46XgAwOrBkYmPuZevS9nWffWDhB2-gw83bus.png)
+A hackathon judge shares the forensic signals - git logs, package manifests, ghost dependencies, fake tests - that reveal more about a project than any demo.
+
+### [81. Pioneer Challenge: Overview](https://hackernoon.com/pioneer-challenge-overview-g5i3toc)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaWh2qdUgQJcaBsDsLScO9GWeaS13-wx503uvq.png?alt=media&token=c56f8c50-3726-4855-93ab-c06ca25d897e)
 The Terminal hasn't changed much since the 1980s. Every other aspect of your workflow is radically different. Especially in the last decade, we’ve seen companies transform industries with the advent of collaborative software: Figma (collaborative design), Github (collaborate code), G Suite (collaborative Word and Excel) and more.
 
-### [81. From a Spark of Inspiration to a Product That Makes a Difference – Our Hackathon Journey](https://hackernoon.com/from-a-spark-of-inspiration-to-a-product-that-makes-a-difference-our-hackathon-journey)
+### [82. From a Spark of Inspiration to a Product That Makes a Difference – Our Hackathon Journey](https://hackernoon.com/from-a-spark-of-inspiration-to-a-product-that-makes-a-difference-our-hackathon-journey)
 ![](https://cdn.hackernoon.com/images/iURqKwvNDPhmzLs7TuTuup6RdNu2-sa931lt.jpeg)
 Miraki is a browser-based devtool that aims to bring order to the wild world of DAOs.
 
-### [82. How to Go About Planning a Hackathon?](https://hackernoon.com/considerations-for-planning-a-hackathon-dbsd38tf)
+### [83. How to Go About Planning a Hackathon?](https://hackernoon.com/considerations-for-planning-a-hackathon-dbsd38tf)
 ![](https://cdn.hackernoon.com/images/b6sc38i9.jpg)
 Hacks are novel creations or solutions to problems and the purpose of a Hackathon is to create them.  The word “Hackathon” comes from combining the words ‘Hack’ and ‘Marathon’, and implies a long sprint to create something useful in a single event.
 
-### [83. The Hacktoberfest 2020 Challenge Completed](https://hackernoon.com/the-hacktoberfest-2020-challenge-completed-8b2s334w)
+### [84. The Hacktoberfest 2020 Challenge Completed](https://hackernoon.com/the-hacktoberfest-2020-challenge-completed-8b2s334w)
 ![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-b13733jf.jpeg)
 Hacktoberfest is a month-long celebration of open-source software. It happens every year in October. During this event, everyone can support open-source.
 
-### [84. Announcing the Open Innovation Hackathon for College Students](https://hackernoon.com/announcing-the-open-innovation-hackathon-for-college-students-jze3wja)
+### [85. Announcing the Open Innovation Hackathon for College Students](https://hackernoon.com/announcing-the-open-innovation-hackathon-for-college-students-jze3wja)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgpabZ3ae5AMod6NEaJWlcWwdp7G2-3e2p13k5.jpeg?alt=media&token=7284ad36-6052-4290-8f4f-004371a525a0)
 In this series regarding the Open Innovation License, we also have a small hackathon going on. This is different from the crowdsourced challenge we are simultaneously working on. The hackathon is specifically for university students, meaning students who are undergraduate, graduate, or post-graduate (Everything from Associate to PhD). The premise is that if you are a student, you can submit cool open source projects you done that you are licensing under the Open Innovation License.
 

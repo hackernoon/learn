@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [internet-security](https://hackernoon.com/tagged/internet-security)
+### Let's learn about [Internet Security](https://hackernoon.com/tagged/internet-security) via these 69 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Internet security encompasses measures and protocols designed to protect computer systems, networks, and data from unauthorized access, use, disclosure, disruption, modification, or destruction via the internet. It is essential for safeguarding personal information, business operations, and national infrastructure in an increasingly connected world.
+
 ### [1. How to Avoid Credit Card Skimming: 5 Tips to Keep Your Information Safe](https://hackernoon.com/how-to-avoid-credit-card-skimming-5-tips-to-keep-your-information-safe)
 ![](https://cdn.hackernoon.com/images/FPmit8QxzXa6LLCPU0N2AMvjLCP2-um93r4d.jpeg)
 Credit card skimming occurs when someone places an electronic device on or near a credit card reader. This device captures and stores your credit card details.
@@ -57,13 +61,13 @@ Each time you visit a website, your web browser (e.g., Chrome, Safari, or Firefo
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-ni2o329q.jpeg)
 Content Security Policy (CSP) is an added layer of security that helps to detect and mitigate certain types of attacks including XSS and data injection attacks.
 
-### [15. Suffering Due to Buffering? Here's how You Can Improve Your Wifi Connection](https://hackernoon.com/suffering-due-to-buffering-heres-how-you-can-improve-your-wifi-connection-x53o3720)
-![](https://cdn.hackernoon.com/images/uVeXhDUCZRYCxC84E6ebvK54WdN2-ou4d35hr.jpeg)
-Enhance your Online Streaming Experience and improve your wifi connection with these easy fixes. 
-
-### [16. How to Explain the Internet to Your Kids](https://hackernoon.com/how-to-explain-the-internet-to-your-kids)
+### [15. How to Explain the Internet to Your Kids](https://hackernoon.com/how-to-explain-the-internet-to-your-kids)
 ![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-4u93olp.jpeg)
 There is only one way to explain the dangers of the Internet to children: to be there with them. Talk about the good and the bad that that the internet offers.
+
+### [16. Suffering Due to Buffering? Here's how You Can Improve Your Wifi Connection](https://hackernoon.com/suffering-due-to-buffering-heres-how-you-can-improve-your-wifi-connection-x53o3720)
+![](https://cdn.hackernoon.com/images/uVeXhDUCZRYCxC84E6ebvK54WdN2-ou4d35hr.jpeg)
+Enhance your Online Streaming Experience and improve your wifi connection with these easy fixes. 
 
 ### [17. The Importance of Message Authentication Code in SSL/TLS](https://hackernoon.com/the-importance-of-message-authentication-code-in-ssltls)
 ![](https://cdn.hackernoon.com/images/gu6HVedKf9gaseVgvAC81kn6vUG2-um6937rw.jpeg)
@@ -109,21 +113,21 @@ Understanding the common keywords used in the info-sec industry that are used in
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-hd03bf0.jpeg)
 We would like to take this opportunity to remind users about some good security practices when it comes to downloading and executing software.
 
-### [28. MetaMask Users Targeted By Phishing Attack Impersonating Popular Metaverse Projects](https://hackernoon.com/metamask-users-targeted-by-phishing-attack-impersonating-popular-metaverse-projects)
-![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-ec93hck.jpeg)
-MetaMask users are being targeted in a series of phishing attacks where hackers impersonate popular metaverse project websites.
-
-### [29. LDAP Injection Vulnerability, Explained ](https://hackernoon.com/ldap-injection-vulnerability-explained-t01e3u3z)
+### [28. LDAP Injection Vulnerability, Explained ](https://hackernoon.com/ldap-injection-vulnerability-explained-t01e3u3z)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-olh2838.jpeg?alt=media&token=c55d3b90-ca60-464c-bdb9-71b9993f22bc)
 LDAP or Lightweight Directory Access Protocol is a methodology designed to read data in a directory, file or device. This is actually a directory access service which, for instance, can be used to provide information about a user who is trying to login as part of a single-sign-on, SSO process.
 
-### [30. 10 Secure Online Applications in 2021: No More Spy Spps and Hacker Attacks](https://hackernoon.com/10-secure-online-applications-in-2021-no-more-spy-spps-and-hacker-attacks-5d3k31dl)
-![](https://cdn.hackernoon.com/images/kYuwyLQKZgdcc3A0ZkqCN4wWzNl2-jn4k3xyl.jpeg)
-A selection of programs for online privacy. All of them will help you not to fall prey to hackers and keep your data safe.
+### [29. MetaMask Users Targeted By Phishing Attack Impersonating Popular Metaverse Projects](https://hackernoon.com/metamask-users-targeted-by-phishing-attack-impersonating-popular-metaverse-projects)
+![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-ec93hck.jpeg)
+MetaMask users are being targeted in a series of phishing attacks where hackers impersonate popular metaverse project websites.
 
-### [31. The Essential Guide to Security and Compliance for the Public Cloud](https://hackernoon.com/the-essential-guide-to-security-and-compliance-for-the-public-cloud)
+### [30. The Essential Guide to Security and Compliance for the Public Cloud](https://hackernoon.com/the-essential-guide-to-security-and-compliance-for-the-public-cloud)
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-h0c3owa.jpeg)
 Using an Infrastructure-as-a-Service provider makes it easier to achieve and maintain compliance, but here are some caveats to consider.
+
+### [31. 10 Secure Online Applications in 2021: No More Spy Spps and Hacker Attacks](https://hackernoon.com/10-secure-online-applications-in-2021-no-more-spy-spps-and-hacker-attacks-5d3k31dl)
+![](https://cdn.hackernoon.com/images/kYuwyLQKZgdcc3A0ZkqCN4wWzNl2-jn4k3xyl.jpeg)
+A selection of programs for online privacy. All of them will help you not to fall prey to hackers and keep your data safe.
 
 ### [32. Are You Prepared to Respond to Advanced Security Incidents?](https://hackernoon.com/are-you-prepared-to-respond-to-advanced-security-incidents)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-3t93oen.jpeg)
@@ -205,13 +209,13 @@ Learn everything you need to know about Internet Security via these 66 free Hack
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-kl3x358c.jpeg)
 The future of the internet will come with more risks to our data privacy. Fortunately, Blockchain and Decentralized Identifiers can work together to protect. 
 
-### [52. Why Would Google Be Against the URL??](https://hackernoon.com/why-would-google-be-against-the-url-fg1i3yo5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7WQ9b4pKMFYEtjfPjKV4fWOdxSO2-y13u3ub2.webp?alt=media&token=538a812d-dcf7-4a76-9942-e3f471ab9a96)
-Google wants to change a major part of web browsing by killing the URL, in parts though. After their first step was successful, here’s what they plan for the second step.
-
-### [53. How to Protect Yourself from Evolving Phishing Scams](https://hackernoon.com/how-to-protect-yourself-from-evolving-phishing-scams)
+### [52. How to Protect Yourself from Evolving Phishing Scams](https://hackernoon.com/how-to-protect-yourself-from-evolving-phishing-scams)
 ![](https://cdn.hackernoon.com/images/dYS1YGEDJnYvNorgqqKV2VUHJ7e2-15a3yfc.jpeg)
 Viruses and trojans are common for Windows OS-based machines.
+
+### [53. Why Would Google Be Against the URL??](https://hackernoon.com/why-would-google-be-against-the-url-fg1i3yo5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7WQ9b4pKMFYEtjfPjKV4fWOdxSO2-y13u3ub2.webp?alt=media&token=538a812d-dcf7-4a76-9942-e3f471ab9a96)
+Google wants to change a major part of web browsing by killing the URL, in parts though. After their first step was successful, here’s what they plan for the second step.
 
 ### [54. Your Ultimate Guide To The 4 Types of IT Security](https://hackernoon.com/your-ultimate-guide-to-the-4-types-of-it-security-ik6k33fc)
 ![](https://cdn.hackernoon.com/images/KshkdqlLZ9h42alJh87K9FeFZFa2-634533k5.jpeg)
@@ -221,13 +225,13 @@ IT Security protects your business against cyber threats. There are four types o
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOTVqIN80NTMa9nHRjHHq04M7xtA2-ywe2zr2.jpeg?alt=media&token=f77b64a7-c494-43a2-beec-099acbc0005e)
 With the number of products available, it can be an uphill task to try to ensure robust network security and visibility. This, however, is a task that must be accomplished if you want to be competitive. 
 
-### [56. How Password Managers Can Protect You From Phishing](https://hackernoon.com/how-password-managers-can-protect-you-from-phishing-fi253yfb)
-![](https://cdn.hackernoon.com/drafts/km5k36bj.png)
-Password managers are a convenient way to use strong, unique passwords everywhere. Another good thing about password managers is that they help protect you from malicious websites that attempt to "phish" passwords.
-
-### [57. The Noonification: This Ain’t my First Rodeo! (9/26/2022)](https://hackernoon.com/9-26-2022-noonification)
+### [56. The Noonification: This Ain’t my First Rodeo! (9/26/2022)](https://hackernoon.com/9-26-2022-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 9/26/2022: Top 5 stories on the Hackernoon homepage!
+
+### [57. How Password Managers Can Protect You From Phishing](https://hackernoon.com/how-password-managers-can-protect-you-from-phishing-fi253yfb)
+![](https://cdn.hackernoon.com/drafts/km5k36bj.png)
+Password managers are a convenient way to use strong, unique passwords everywhere. Another good thing about password managers is that they help protect you from malicious websites that attempt to "phish" passwords.
 
 ### [58. Protect Your iPhone and iPad Better With These Security Tips](https://hackernoon.com/protect-your-iphone-and-ipad-better-with-these-security-tips-xd1g33ui)
 ![](https://cdn.hackernoon.com/drafts/175p636e4.png)
@@ -245,13 +249,13 @@ The days of thumb drives are slowly passing us by because cloud-based storage so
 ![](https://cdn.hackernoon.com/images/4LKlOHT8BtURWNF54Dmjj74h57s2-ek2d335p.jpeg)
 GIVE Nation marks Safer Internet Day with a conversation around privacy, particularly for parents. 
 
-### [62. Cybersecurity At Every Level: How IT Consultants Can Benefit Your Business](https://hackernoon.com/cybersecurity-at-every-level-how-it-consultants-can-benefit-your-business-84283trw)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fc04EFcTv66Zbzhwa4Fz3VAZCs9g2-071a3t2v.jpeg?alt=media&token=76253e55-445c-4636-b78c-34f2b075556e)
-We live our lives online these days – and given this simple fact, it should come as no surprise that cybersecurity is one of the fastest growing industries around, and one that’s critical to all other sectors. For those in the cryptocurrency industry, however, cybersecurity plays a more interesting role. That’s because, while cryptocurrency operations clearly need to enhance their own cybersecurity efforts, they’re also reliant on technology – blockchain – that other industries are using for their own security needs.
-
-### [63. IPv6: Managing The Transition](https://hackernoon.com/ipv6-managing-the-transition)
+### [62. IPv6: Managing The Transition](https://hackernoon.com/ipv6-managing-the-transition)
 ![](https://cdn.hackernoon.com/images/Gt4TyUlkqbMyVgG475UxnXB5nLE2-fi43z96.jpeg)
 In this article, we will cover the origins of the transition, the differences between the two versions, and a sometimes-overlooked aspect of the transition
+
+### [63. Cybersecurity At Every Level: How IT Consultants Can Benefit Your Business](https://hackernoon.com/cybersecurity-at-every-level-how-it-consultants-can-benefit-your-business-84283trw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fc04EFcTv66Zbzhwa4Fz3VAZCs9g2-071a3t2v.jpeg?alt=media&token=76253e55-445c-4636-b78c-34f2b075556e)
+We live our lives online these days – and given this simple fact, it should come as no surprise that cybersecurity is one of the fastest growing industries around, and one that’s critical to all other sectors. For those in the cryptocurrency industry, however, cybersecurity plays a more interesting role. That’s because, while cryptocurrency operations clearly need to enhance their own cybersecurity efforts, they’re also reliant on technology – blockchain – that other industries are using for their own security needs.
 
 ### [64. Is Your ERP the Target of Cyber Criminals? How to Prevent this Attack](https://hackernoon.com/is-your-erp-the-target-of-cyber-criminals-how-to-prevent-this-attack-u3263t85)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F57P5msnVsPRPhZOuzBGvywMRyqf1-s9h3ehn.jpeg?alt=media&token=986a4ca1-e780-4e2a-a814-e9733f48f2e4)

@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [c](https://hackernoon.com/tagged/c)
+### Let's learn about [C](https://hackernoon.com/tagged/c) via these 56 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 One of the mother sauces of programming, if a mother sauce could shoot you in the foot.
 
 ### [1. Writing and Compiling C++ on Linux [A How-To Guide]](https://hackernoon.com/writing-and-compiling-c-on-linux-a-how-to-guide-ddi032di)
@@ -79,17 +81,17 @@ The answer to "What exactly nullptr is in C++?" would be a piece of cake for exp
 ![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-6pg3fyo.jpeg)
 This list will rank each C# book based on their total number of reviews on Amazon alongside their average 5-star rating. 
 
-### [20. Why Odin Deserves a Place Beside C, Zig, and Rust in Your Toolbox](https://hackernoon.com/why-odin-deserves-a-place-beside-c-zig-and-rust-in-your-toolbox)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-yu022fb.jpeg)
-I like many others initially dismissed Odin as that language that was primarily intended for game development.
-
-### [21. Using C# for Real-time Systems](https://hackernoon.com/using-c-for-real-time-systems)
+### [20. Using C# for Real-time Systems](https://hackernoon.com/using-c-for-real-time-systems)
 ![](https://cdn.hackernoon.com/images/L1ya8SZKyEUzHtKDbBhqyR6s2HI2-he93oe8.jpeg)
 My best practice from making a real-time high loaded performance application on .NET platform
 
-### [22. How to Extend a KMM Shared Module With C/C++ Code](https://hackernoon.com/how-to-extend-a-kmm-shared-module-with-cc-code)
+### [21. How to Extend a KMM Shared Module With C/C++ Code](https://hackernoon.com/how-to-extend-a-kmm-shared-module-with-cc-code)
 ![](https://cdn.hackernoon.com/images/NQj7nJwKP6TCLb5vTKntUCFH9Yv2-wmc3zca.png)
 Learn how to embed a simple SHA-256 implementation on C-language in KMM library and use it for iOS andAndroid target platforms.
+
+### [22. Why Odin Deserves a Place Beside C, Zig, and Rust in Your Toolbox](https://hackernoon.com/why-odin-deserves-a-place-beside-c-zig-and-rust-in-your-toolbox)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-yu022fb.jpeg)
+I like many others initially dismissed Odin as that language that was primarily intended for game development.
 
 ### [23. Increment and Decrement Operators in C/C++](https://hackernoon.com/increment-and-decrement-operators-in-cc-6c1c3u63)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FdPBMKOhCH8eURQJ9yVPHbJsKtFp2-1on3t9o.jpeg?alt=media&token=a4cbd6c7-f383-4063-9ac6-ecd1efef0d6c)
@@ -159,53 +161,53 @@ Homomorphic encryption is making its way from academia to production use cases. 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMHiUqRQb6URrcp3uN9rdbC74ofb2-eb73uwi.jpeg?alt=media&token=27953d54-aeac-424b-b942-e8fcdbf148c1)
 WHAT?
 
-### [40. Rewriting memcpy in Assembly: A Journey Into x86_64](https://hackernoon.com/rewriting-memcpy-in-assembly-a-journey-into-x86_64)
-![](https://cdn.hackernoon.com/images/N4HmTHk66HMRo7yWEucu17VW5zE3-kv528cg.png)
-Rewriting memcpy in Assembly, including performance-related topics like SIMD, instruction pipelining, and processor-specific optimisations.
-
-### [41. Java-C-Assembly Matryoshka](https://hackernoon.com/java-c-assembly-matryoshka-932193f071d3)
+### [40. Java-C-Assembly Matryoshka](https://hackernoon.com/java-c-assembly-matryoshka-932193f071d3)
 ![](https://cdn.hackernoon.com/drafts/obgx315g.png)
 Disclaimers:
 
-### [42. Call-By-Value and Call-By-Reference](https://hackernoon.com/call-by-value-and-call-by-reference)
+### [41. Call-By-Value and Call-By-Reference](https://hackernoon.com/call-by-value-and-call-by-reference)
 ![](https://cdn.hackernoon.com/images/RGd8gYqtrbhMVZHKJUJnyTAUWol2-bqa3htm.jpeg)
 The article provides you an understanding of how to pass data to the function, Covering concepts like Call-By-Value & Call-By-Reference in C/C++.
 
-### [43. How To Use Pointers in C](https://hackernoon.com/how-to-use-pointers-in-c-rrn3wnt)
+### [42. How To Use Pointers in C](https://hackernoon.com/how-to-use-pointers-in-c-rrn3wnt)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwE3a1DfcDVMxVW3bYC2lTpfXuVn2-rfe23e2.jpeg?alt=media&token=904643a0-4a2e-43d5-b58e-86f70323feb9)
 To understand this article, you need to know the basics of variables in programming, preferably C since that is what I will be using.  
 
-### [44. The Ten Best Programming Languages for Beginners to Learn in 2021](https://hackernoon.com/the-ten-best-programming-languages-for-beginners-to-learn-in-2021-in4j31vu)
+### [43. The Ten Best Programming Languages for Beginners to Learn in 2021](https://hackernoon.com/the-ten-best-programming-languages-for-beginners-to-learn-in-2021-in4j31vu)
 ![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-5t3k33lg.jpeg)
 Here are my top ten best programming languages to learn first. Start from here, choose your path and get yourself on the road to your dream job.
+
+### [44. Rewriting memcpy in Assembly: A Journey Into x86_64](https://hackernoon.com/rewriting-memcpy-in-assembly-a-journey-into-x86_64)
+![](https://cdn.hackernoon.com/images/N4HmTHk66HMRo7yWEucu17VW5zE3-kv528cg.png)
+Rewriting memcpy in Assembly, including performance-related topics like SIMD, instruction pipelining, and processor-specific optimisations.
 
 ### [45. How to Use MDK-ARM to Simulate a Hardware Module That Runs the RT-Thread RTOS](https://hackernoon.com/how-to-use-mdk-arm-to-simulate-a-hardware-module-that-runs-the-rt-thread-rtos-cnci3v64)
 ![](https://cdn.hackernoon.com/images/ld4d3y3q.jpg)
 Preparation
 
-### [46. Lay a strong foundation by writing secure C and C++ utilities](https://hackernoon.com/lay-a-strong-foundation-by-writing-secure-c-and-c-utilities-jz153t31)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1RnOuupxq8gggw7RRWNO3Is7dDH3-5g73qts.jpeg?alt=media&token=3186a5d6-656f-42ba-88d0-52aed529f32c)
-Libraries and system utilities form the foundations on which larger projects are built. So it's critical to make sure they, in particular, are secure. That's why we recently introduced five new rules for C++ and C to detect broken authentication and access control in *nix systems. The new rules fall into three categories: account validity, granting permissions, and changing directories. 
-
-### [47. The Project That Made Me Choose C Again](https://hackernoon.com/the-project-that-made-me-choose-c-again)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-41022kn.jpeg)
-In a world dominated by modern programming languages, C remains a powerful choice for low-level system programming and efficiency.
-
-### [48. Armstrong Number in C](https://hackernoon.com/armstrong-number-in-c)
+### [46. Armstrong Number in C](https://hackernoon.com/armstrong-number-in-c)
 ![](https://cdn.hackernoon.com/images/RGd8gYqtrbhMVZHKJUJnyTAUWol2-cf93hli.jpeg)
 A number is thought of as an Armstrong number if the sum of its own digits raised to the power number of digits gives the number itself.
 
-### [49. How to Merge Two Sorted Arrays in C](https://hackernoon.com/how-to-merge-two-sorted-arrays-in-c)
+### [47. Lay a strong foundation by writing secure C and C++ utilities](https://hackernoon.com/lay-a-strong-foundation-by-writing-secure-c-and-c-utilities-jz153t31)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1RnOuupxq8gggw7RRWNO3Is7dDH3-5g73qts.jpeg?alt=media&token=3186a5d6-656f-42ba-88d0-52aed529f32c)
+Libraries and system utilities form the foundations on which larger projects are built. So it's critical to make sure they, in particular, are secure. That's why we recently introduced five new rules for C++ and C to detect broken authentication and access control in *nix systems. The new rules fall into three categories: account validity, granting permissions, and changing directories. 
+
+### [48. How to Merge Two Sorted Arrays in C](https://hackernoon.com/how-to-merge-two-sorted-arrays-in-c)
 ![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-qyb3p3w.jpeg)
 In this blog, we will be discussing the algorithms and their implementations for merging two sorted arrays using C.
 
-### [50. New Software Release: Uno Platform 4.1 Offers 30% Performance Boost, and More Compatibility!](https://hackernoon.com/new-software-release-uno-platform-41-offers-30percent-performance-boost-and-more-compatibility)
+### [49. New Software Release: Uno Platform 4.1 Offers 30% Performance Boost, and More Compatibility!](https://hackernoon.com/new-software-release-uno-platform-41-offers-30percent-performance-boost-and-more-compatibility)
 ![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-nk93i91.jpeg)
 This release packs over 200 new feature requests, bugs, and issues you raised. We welcomed a few great contributions from our community of 200+ contributors. 
 
-### [51. A Guide to Examining & Modifying Executable Code](https://hackernoon.com/a-guide-to-examining-modifying-executable-code)
+### [50. A Guide to Examining & Modifying Executable Code](https://hackernoon.com/a-guide-to-examining-modifying-executable-code)
 ![](https://cdn.hackernoon.com/images/eyCNSA0sC0Mfi1AgXNVVwDDBmXZ2-nk262br7.jpeg)
 A review of tools and techniques to examine and modify executable.
+
+### [51. The Project That Made Me Choose C Again](https://hackernoon.com/the-project-that-made-me-choose-c-again)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-41022kn.jpeg)
+In a world dominated by modern programming languages, C remains a powerful choice for low-level system programming and efficiency.
 
 ### [52. Scalable Aggregates: Reducing Complexity in Command Handlers](https://hackernoon.com/scalable-aggregates-reducing-complexity-in-command-handlers-sm293zm5)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxsTQzt4eViNotWJLNuWEDgE95hF2-7f4x3xdp.jpeg?alt=media&token=194d25db-2d31-4578-a074-483478ac2da5)

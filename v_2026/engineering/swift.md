@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [swift](https://hackernoon.com/tagged/swift)
+### Let's learn about [Swift](https://hackernoon.com/tagged/swift) via these 168 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 "Swift is a powerful and intuitive programming language for iOS, iPadOS, macOS, tvOS, and watchOS." - Apple Developer Website
 
 ### [1. Best Programming Languages to Start Freelancing ](https://hackernoon.com/best-programming-languages-to-start-freelancing-in-2020-zw3f3y8a)
@@ -115,13 +117,13 @@ In this article, we'll be looking at the concept of Strings in Swift.
 ![](https://cdn.hackernoon.com/images/UQpJB70gJbdx0XtJaH8Cx1sS7Yx2-b403dpg.png)
 Learn everything about Swift initializers — convenience override, saving memberwise initializer, required init() use cases, parameterless UIView() and more!
 
-### [29. Building a Simple, Scalable and Maintainable Design System](https://hackernoon.com/building-a-simple-scalable-and-maintainable-design-system)
-![](https://cdn.hackernoon.com/images/GMqZlP2GWffok8NZ4mwWDkAUlqC3-pjb3aaz.jpeg)
-Make simple scalable and maintainable design system using Factory pattern with examples.
-
-### [30. Enhance Your Code Architecture With SOLID Principles (with Swift Examples)](https://hackernoon.com/enhance-your-code-architecture-with-solid-principles-with-swift-examples)
+### [29. Enhance Your Code Architecture With SOLID Principles (with Swift Examples)](https://hackernoon.com/enhance-your-code-architecture-with-solid-principles-with-swift-examples)
 ![](https://cdn.hackernoon.com/images/bGlkhNiHrBZNVvHG7pY87lyhsVR2-jo03hu0.png)
 Learn how to apply SOLID principles in Swift with clear examples. Understand SRP, OCP, LSP, ISP, and DIP to write clean, scalable, and maintainable code. 
+
+### [30. Building a Simple, Scalable and Maintainable Design System](https://hackernoon.com/building-a-simple-scalable-and-maintainable-design-system)
+![](https://cdn.hackernoon.com/images/GMqZlP2GWffok8NZ4mwWDkAUlqC3-pjb3aaz.jpeg)
+Make simple scalable and maintainable design system using Factory pattern with examples.
 
 ### [31. Creating the Classic "Snake" Game with SpriteKit](https://hackernoon.com/creating-the-classic-snake-game-with-spritekit)
 ![](https://cdn.hackernoon.com/images/GMqZlP2GWffok8NZ4mwWDkAUlqC3-lw93a6h.jpeg)
@@ -135,34 +137,34 @@ SwiftUI and Combine, Apple’s latest frameworks, were the highlights of this ye
 ![](https://cdn.hackernoon.com/images/KKgJo9L6i5hBlUxP8D37SD3t8tl2-lwb340s.jpeg)
 Explore SwiftUI View lifecycle: from initialization to deinitialization, including state updates and rendering for optimized UI
 
-### [34. Building Interactive Maps with Custom Markers in SwiftUI for iOS 17](https://hackernoon.com/building-interactive-maps-with-custom-markers-in-swiftui-for-ios-17)
-![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-pv932k4.jpeg)
-With the release of iOS 17, Apple introduces an exciting enhancement to SwiftUI that revolutionizes how we add markers on maps.
+### [34. In 2025, Local Music on iPhone Is a Nightmare—So I Built My Own Way Out](https://hackernoon.com/in-2025-local-music-on-iphone-is-a-nightmareso-i-built-my-own-way-out)
+![](https://cdn.hackernoon.com/images/qqQuQnB1axa4HS9uKXmxjdYUt2f1-1u82u4n.png)
+In 2025, playing local MP3s on iPhones is still a pain. So I built my own iOS music player with SwiftUI, SQLite FTS5, and iCloud support — fully offline-first, 
 
 ### [35. Building a UDP Server & Client in Swift with Network.framework](https://hackernoon.com/building-a-udp-server-and-client-in-swift-with-networkframework)
 ![](https://cdn.hackernoon.com/images/bGlkhNiHrBZNVvHG7pY87lyhsVR2-1003h1p.jpeg)
 Learn how to use Network.framework in Swift to build a UDP server and client for real-time networking in iOS. 
 
-### [36. In 2025, Local Music on iPhone Is a Nightmare—So I Built My Own Way Out](https://hackernoon.com/in-2025-local-music-on-iphone-is-a-nightmareso-i-built-my-own-way-out)
-![](https://cdn.hackernoon.com/images/qqQuQnB1axa4HS9uKXmxjdYUt2f1-1u82u4n.png)
-In 2025, playing local MP3s on iPhones is still a pain. So I built my own iOS music player with SwiftUI, SQLite FTS5, and iCloud support — fully offline-first, 
+### [36. Building Interactive Maps with Custom Markers in SwiftUI for iOS 17](https://hackernoon.com/building-interactive-maps-with-custom-markers-in-swiftui-for-ios-17)
+![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-pv932k4.jpeg)
+With the release of iOS 17, Apple introduces an exciting enhancement to SwiftUI that revolutionizes how we add markers on maps.
 
-### [37. Code Review Culture: Why You Need to Have One](https://hackernoon.com/code-review-culture-why-you-need-to-have-one)
-![](https://cdn.hackernoon.com/images/QIpsQUHOWIgv2zvoZAcexWGFXTJ2-kc83hxh.jpeg)
-Code review culture is important to avoid friction in your team and bugs in code. As reviewers, you want to avoid personal style comments (aka nitpicks) 
-
-### [38. Yahoo Finance Style Stock Price Label in SwiftUI](https://hackernoon.com/yahoo-finance-style-stock-price-label-in-swiftui)
+### [37. Yahoo Finance Style Stock Price Label in SwiftUI](https://hackernoon.com/yahoo-finance-style-stock-price-label-in-swiftui)
 ![](https://cdn.hackernoon.com/images/NfQ8BkJrc9PffDXgRHvNb5jR3i53-nj936rp.gif.webp)
 One day I was inspired by a small yet crucial UI component in the Yahoo Finance iOS app.
 
-### [39. Tuist Modularization With Code Generation and How to Get Started With "Helpers"](https://hackernoon.com/tuist-modularization-with-code-generation-and-how-to-get-started-with-helpers)
+### [38. Code Review Culture: Why You Need to Have One](https://hackernoon.com/code-review-culture-why-you-need-to-have-one)
+![](https://cdn.hackernoon.com/images/QIpsQUHOWIgv2zvoZAcexWGFXTJ2-kc83hxh.jpeg)
+Code review culture is important to avoid friction in your team and bugs in code. As reviewers, you want to avoid personal style comments (aka nitpicks) 
+
+### [39. Embrace the Power of Custom SwiftLint Rules and Say Goodbye to Regex](https://hackernoon.com/embrace-the-power-of-custom-swiftlint-rules-and-say-goodbye-to-regex)
+![](https://cdn.hackernoon.com/images/imTOi6TzD2acj6NBGngoIn24v6x2-6gb3pni.jpeg)
+SwiftLint is the best tool to enforce coding standards and best practices. It comes with pre-defined rules that can be customized to suit individual needs.
+
+### [40. Tuist Modularization With Code Generation and How to Get Started With "Helpers"](https://hackernoon.com/tuist-modularization-with-code-generation-and-how-to-get-started-with-helpers)
 ![](https://cdn.hackernoon.com/images/GMqZlP2GWffok8NZ4mwWDkAUlqC3-upc373h.jpeg)
 Initialize Tuist project and make maintainable project setup
 Modularization, code generation, Tuist, Swift, Xcode.
-
-### [40. Embrace the Power of Custom SwiftLint Rules and Say Goodbye to Regex](https://hackernoon.com/embrace-the-power-of-custom-swiftlint-rules-and-say-goodbye-to-regex)
-![](https://cdn.hackernoon.com/images/imTOi6TzD2acj6NBGngoIn24v6x2-6gb3pni.jpeg)
-SwiftLint is the best tool to enforce coding standards and best practices. It comes with pre-defined rules that can be customized to suit individual needs.
 
 ### [41. How to Add a SplashScreen in SwiftUI ](https://hackernoon.com/how-to-add-a-splashscreen-in-swiftui)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-91036rv.webp)
@@ -251,13 +253,13 @@ SWIFT payments are a broken system that help financial institutions at the expen
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ai83r1q.jpeg)
 Learn manual memory management in Swift with pointers, object creation, copying, binding, and collections—an essential guide for developers.
 
-### [62. Five In-Demand Programming Languages In 2021](https://hackernoon.com/five-in-demand-programming-languages-in-2021-e8x34kl)
-![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-605k334a.jpeg)
- For a tech newbie striving to learn programming, it might be a bit complicated to figure out which technology to choose. Let me help you out.
-
-### [63. Tutorial: Swift and SwiftUI for Data Science iOS Development](https://hackernoon.com/tutorial-swift-and-swiftui-for-data-science-ios-development-u9263u0k)
+### [62. Tutorial: Swift and SwiftUI for Data Science iOS Development](https://hackernoon.com/tutorial-swift-and-swiftui-for-data-science-ios-development-u9263u0k)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F8dulMeqaC9OxCNysYkak1imEYZm1-fce3r54.webp?alt=media&token=de8a29d2-c2af-442b-966b-2bbea466562f)
 Swift and SwiftUI for Data Science
+
+### [63. Five In-Demand Programming Languages In 2021](https://hackernoon.com/five-in-demand-programming-languages-in-2021-e8x34kl)
+![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-605k334a.jpeg)
+ For a tech newbie striving to learn programming, it might be a bit complicated to figure out which technology to choose. Let me help you out.
 
 ### [64. SwifWeb Libraries: Animate.css](https://hackernoon.com/swifweb-libraries-animatecss)
 ![](https://cdn.hackernoon.com/images/cnk75wzdkHOamvwE3F8u3w3Q3Ni1-yl935x7.jpeg)
@@ -305,89 +307,89 @@ Discover how async/await revolutionizes iOS development by simplifying asynchron
 ![](https://cdn.hackernoon.com/images/6NntkWOAQNfaPgaqGyH7qhbpUBa2-y2c3ce6.jpeg)
 Does it make sense to optimize the size of the app, when iPhones performance is outstanding? Or can you devote time entirely to bells and whistles in SwiftUI?
 
-### [75. Protocol-Oriented Programming and Modifying UIKit Components Mimicking SwiftUI](https://hackernoon.com/protocol-oriented-programming-and-modifying-uikit-components-mimicking-swiftui)
+### [75. JSON in Swift: What You Need to Know](https://hackernoon.com/json-in-swift-what-you-need-to-know)
+![](https://cdn.hackernoon.com/images/GMqZlP2GWffok8NZ4mwWDkAUlqC3-vz83glo.jpeg)
+Serialize and deserialize JSON for Swift with different ways
+
+### [76. Protocol-Oriented Programming and Modifying UIKit Components Mimicking SwiftUI](https://hackernoon.com/protocol-oriented-programming-and-modifying-uikit-components-mimicking-swiftui)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-2583mbs.jpeg)
 Protocol-oriented programming is one of the most powerful and flexible tools for competent composition and distribution of responsibility in Swift.
 
-### [76. A Curious Case of Mach-O Executable](https://hackernoon.com/a-curious-case-of-mach-o-executable-oc8l3v18)
+### [77. A Curious Case of Mach-O Executable](https://hackernoon.com/a-curious-case-of-mach-o-executable-oc8l3v18)
 ![](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 This is going to be a low-level article, but I guess you already knew that since you landed here, right?
-
-### [77. JSON in Swift: What You Need to Know](https://hackernoon.com/json-in-swift-what-you-need-to-know)
-![](https://cdn.hackernoon.com/images/GMqZlP2GWffok8NZ4mwWDkAUlqC3-vz83glo.jpeg)
-Serialize and deserialize JSON for Swift with different ways
 
 ### [78. Swiftly Starting Your Chatbot Journey: Building a Chatbot with Botter](https://hackernoon.com/swiftly-starting-your-chatbot-journey-building-a-chatbot-with-botter)
 ![](https://cdn.hackernoon.com/images/BIedK0ndH1XRRDdMnJA4Zxjp7ld2-9f93ndn.jpeg)
 Unleash the power of Swift in chatbot development with Botter, the future of chatbot development is here, and it's Swift! 🚀🤖🍏
 
-### [79. 3 High Paying Programming Languages Jobs On Developers’ Watchlists](https://hackernoon.com/3-high-paying-programming-languages-jobs-on-developers-watchlists)
-![](https://cdn.hackernoon.com/images/CFe2OEutzHPpZu5ypBrXf2VsWPW2-858333y.jpeg)
-
-
-### [80. Applying the Test Pyramid to iOS Applications](https://hackernoon.com/applying-the-test-pyramid-to-ios-applications)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5m92b3z.jpeg)
-Unit tests, which appear in the bottom layer, are cost-effective, take the least amount of time to run, and should therefore make up the majority of tests.
-
-### [81. Top 10 Open Source iOS Libraries Every Developer Should Replace in 2024](https://hackernoon.com/top-10-open-source-ios-libraries-every-developer-should-replace-in-2024)
-![](https://cdn.hackernoon.com/images/byAWhIPGSMTOokaMHrFsaoOrlfy2-a503y6m.jpeg)
-Replace these 10 legacy libraries with cutting-edge solutions to revitalize your development process.
-
-### [82. The Right Way to Build a Networking Layer in Swift—Part 1: From GET Requests to a Clean APIClient](https://hackernoon.com/the-right-way-to-build-a-networking-layer-in-swiftpart-1-from-get-requests-to-a-clean-apiclient)
+### [79. The Right Way to Build a Networking Layer in Swift—Part 1: From GET Requests to a Clean APIClient](https://hackernoon.com/the-right-way-to-build-a-networking-layer-in-swiftpart-1-from-get-requests-to-a-clean-apiclient)
 ![](https://cdn.hackernoon.com/images/CpkeAJEMz2eUqzIEs5CQZ79cv153-o003je1.png)
 Master Swift networking with async/await. A clean, flexible API layer that’s easy to test and scales without boilerplate or extra dependencies
 
-### [83. LazyVStack vs List in iOS 18 - #30DaysOfSwift](https://hackernoon.com/lazyvstack-vs-list-in-ios-18-30daysofswift)
+### [80. 3 High Paying Programming Languages Jobs On Developers’ Watchlists](https://hackernoon.com/3-high-paying-programming-languages-jobs-on-developers-watchlists)
+![](https://cdn.hackernoon.com/images/CFe2OEutzHPpZu5ypBrXf2VsWPW2-858333y.jpeg)
+
+
+### [81. Applying the Test Pyramid to iOS Applications](https://hackernoon.com/applying-the-test-pyramid-to-ios-applications)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5m92b3z.jpeg)
+Unit tests, which appear in the bottom layer, are cost-effective, take the least amount of time to run, and should therefore make up the majority of tests.
+
+### [82. Top 10 Open Source iOS Libraries Every Developer Should Replace in 2024](https://hackernoon.com/top-10-open-source-ios-libraries-every-developer-should-replace-in-2024)
+![](https://cdn.hackernoon.com/images/byAWhIPGSMTOokaMHrFsaoOrlfy2-a503y6m.jpeg)
+Replace these 10 legacy libraries with cutting-edge solutions to revitalize your development process.
+
+### [83. Swift: Master of Decoding Messy json](https://hackernoon.com/swift-master-of-decoding-messy-json)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-t883e00.jpeg)
+The next time you’re faced with a messy API, remember: don’t let the backend dictate your frontend architecture.
+
+### [84. Breaking Free from Xcode: Unlock AI's Full Potential in iOS](https://hackernoon.com/breaking-free-from-xcode-unlock-ais-full-potential-in-ios)
+![](https://cdn.hackernoon.com/images/LAGYtM7WgMNIEPhN34qow5vplmU2-qj13ang.png)
+While modern "agentic" IDEs ship improvements multiple times a week, Apple’s IDE struggles to keep the pace.
+
+### [85. LazyVStack vs List in iOS 18 - #30DaysOfSwift](https://hackernoon.com/lazyvstack-vs-list-in-ios-18-30daysofswift)
 ![](https://cdn.hackernoon.com/images/a-stack-of-phones-kn1j98tttue95tsoyxlnz362.png)
 In today's post of the #30DaysOfSwift series, we’re diving into the two essential components for building lists in SwiftUI.
-
-### [84. Introducing Spin: a Universal Feedback Loop System in Swift](https://hackernoon.com/introducing-spin-a-universal-feedback-loop-system-in-swift-rg2i3yab)
-![](https://cdn.hackernoon.com/drafts/1ct3kqr.png)
-The need for architectural patterns in swift applications
-
-### [85. Swift Dependency Injection With Functions](https://hackernoon.com/swift-dependency-injection-with-functions-46233uvc)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhgqhfEDHPOXyiZYwL0oMeuvWtTp1-niu3ecj.jpeg?alt=media&token=7f6075c8-ed81-438a-8913-5aef05eb53f4)
-Implementing an architecture within an application can be challenging. There are rules we can follow (SOLID, Clean Architecture) and patterns to guide us (MVVM, MVP, MVI, Redux, …) but sometimes, things we thought were well established deserve a step back.
 
 ### [86. How to Implement Real-Time Display of ChatGPT Response Generation in an iOS App](https://hackernoon.com/how-to-implement-real-time-display-of-chatgpt-response-generation-in-an-ios-app)
 ![](https://cdn.hackernoon.com/images/wnZoWsJMrjYhQuuahkGEN5gE9SS2-hv93cgz.jpeg)
 Discover how to implement real-time ChatGPT response in your iOS app, enhancing user experience with dynamic data streaming and error handling
 
-### [87. Launching a Python Webserver for Mobile Development](https://hackernoon.com/launching-a-python-webserver-for-mobile-development-izq31sn)
+### [87. Introducing Spin: a Universal Feedback Loop System in Swift](https://hackernoon.com/introducing-spin-a-universal-feedback-loop-system-in-swift-rg2i3yab)
+![](https://cdn.hackernoon.com/drafts/1ct3kqr.png)
+The need for architectural patterns in swift applications
+
+### [88. Swift Dependency Injection With Functions](https://hackernoon.com/swift-dependency-injection-with-functions-46233uvc)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhgqhfEDHPOXyiZYwL0oMeuvWtTp1-niu3ecj.jpeg?alt=media&token=7f6075c8-ed81-438a-8913-5aef05eb53f4)
+Implementing an architecture within an application can be challenging. There are rules we can follow (SOLID, Clean Architecture) and patterns to guide us (MVVM, MVP, MVI, Redux, …) but sometimes, things we thought were well established deserve a step back.
+
+### [89. Launching a Python Webserver for Mobile Development](https://hackernoon.com/launching-a-python-webserver-for-mobile-development-izq31sn)
 ![](https://cdn.hackernoon.com/images/vgSKUh38tFYiY8kysPy1fsa6PIw1-ings35qg.jpeg)
 A convenient way to test your mobile network layer communication while the real backend service is still under the development.
 
-### [88. Breaking Free from Xcode: Unlock AI's Full Potential in iOS](https://hackernoon.com/breaking-free-from-xcode-unlock-ais-full-potential-in-ios)
-![](https://cdn.hackernoon.com/images/LAGYtM7WgMNIEPhN34qow5vplmU2-qj13ang.png)
-While modern "agentic" IDEs ship improvements multiple times a week, Apple’s IDE struggles to keep the pace.
-
-### [89. Why Flutter has Gutters 💪](https://hackernoon.com/why-flutter-has-gutters-4ei3u6w)
-![](https://cdn.hackernoon.com/images/7v4t3hlf.jpg)
-I've had the opportunity to learn and experience what Flutter is capable of. I've read a lot of articles about it, as well as my hands dirty and I've built a few little Flutter apps. In this post, I would like to send you a taste into what Flutter is with a list of questions and answers, assuming that you have at least some of these questions on your mind, so I can address them.
-
-### [90. Swift: Master of Decoding Messy json](https://hackernoon.com/swift-master-of-decoding-messy-json)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-t883e00.jpeg)
-The next time you’re faced with a messy API, remember: don’t let the backend dictate your frontend architecture.
-
-### [91. OperationQueue + Asynchronous Code: Everything You Need to Know](https://hackernoon.com/operationqueue-asynchronous-code-everything-you-need-to-know)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-6r835rf.png)
-In Swift, using OperationQueue for asynchronous code may seem like pure hell because, under the hood, Operations are considered complete...
-
-### [92. Getting your Swift API Interacting With a MySQL Database 💾 ](https://hackernoon.com/getting-your-swift-api-interacting-with-a-mysql-database-swift-51vapor-3-cy1x3n4i)
-![](https://cdn.hackernoon.com/images/euw3nmv.jpg)
-Continuing our Swift backend takeover 😬 by configuring our API with a popular, powerful database MySQL 🖥
-
-### [93. State Management Using Protocol-Oriented Programming + Generics](https://hackernoon.com/state-management-using-protocol-oriented-programming-generics)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-p983l3t.png)
-Learn to manage object states using a protocol-oriented approach, generics, and predefined status transitions for a robust system.
-
-### [94. Any and Some Keywords in Swift: A Guide to Understanding Both](https://hackernoon.com/any-and-some-keywords-in-swift-a-guide-to-understanding-both)
+### [90. Any and Some Keywords in Swift: A Guide to Understanding Both](https://hackernoon.com/any-and-some-keywords-in-swift-a-guide-to-understanding-both)
 ![](https://cdn.hackernoon.com/images/Ceus9O6pRZR4c9unqLNaigv0uzF3-5203bqv.jpeg)
 Learn how the any and some keywords enable flexible type handling and protocol usage in Swift, enhancing type safety and performance in your applications.
 
-### [95. Securing Text Fields in iOS Apps: Restricting 'Cut,' 'Copy,' and 'Paste' Operations Using Swift](https://hackernoon.com/securing-text-fields-in-ios-apps-restricting-cut-copy-and-paste-operations-using-swift)
+### [91. Why Flutter has Gutters 💪](https://hackernoon.com/why-flutter-has-gutters-4ei3u6w)
+![](https://cdn.hackernoon.com/images/7v4t3hlf.jpg)
+I've had the opportunity to learn and experience what Flutter is capable of. I've read a lot of articles about it, as well as my hands dirty and I've built a few little Flutter apps. In this post, I would like to send you a taste into what Flutter is with a list of questions and answers, assuming that you have at least some of these questions on your mind, so I can address them.
+
+### [92. Securing Text Fields in iOS Apps: Restricting 'Cut,' 'Copy,' and 'Paste' Operations Using Swift](https://hackernoon.com/securing-text-fields-in-ios-apps-restricting-cut-copy-and-paste-operations-using-swift)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ib02pu4.jpeg)
 In this article, we'll explore how to use Swift to restrict "cut," "copy," and "paste" operations in text fields of iOS applications.
+
+### [93. OperationQueue + Asynchronous Code: Everything You Need to Know](https://hackernoon.com/operationqueue-asynchronous-code-everything-you-need-to-know)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-6r835rf.png)
+In Swift, using OperationQueue for asynchronous code may seem like pure hell because, under the hood, Operations are considered complete...
+
+### [94. State Management Using Protocol-Oriented Programming + Generics](https://hackernoon.com/state-management-using-protocol-oriented-programming-generics)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-p983l3t.png)
+Learn to manage object states using a protocol-oriented approach, generics, and predefined status transitions for a robust system.
+
+### [95. Getting your Swift API Interacting With a MySQL Database 💾 ](https://hackernoon.com/getting-your-swift-api-interacting-with-a-mysql-database-swift-51vapor-3-cy1x3n4i)
+![](https://cdn.hackernoon.com/images/euw3nmv.jpg)
+Continuing our Swift backend takeover 😬 by configuring our API with a popular, powerful database MySQL 🖥
 
 ### [96. How to Install and run Swift on a Linux Machine](https://hackernoon.com/how-to-install-and-run-swift-on-a-linux-machine)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-f003n08.jpeg)
@@ -425,249 +427,262 @@ For the eleventh post of the #30DaysOfSwift series, I am adding a Dark Mode Togg
 ![](https://cdn.hackernoon.com/images/Ceus9O6pRZR4c9unqLNaigv0uzF3-g303b7o.jpeg)
 Discover how Swift determines method execution at runtime, enhancing your understanding of performance and code efficiency.
 
-### [105. How to Secure iOS Apps?](https://hackernoon.com/how-to-secure-ios-apps-4a383tmf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-jz133tny.jpeg?alt=media&token=ca7c4b66-a33d-48dc-8e64-a0627a43cbd2)
-This is the mobile era and pretty much everything these days can happen from our smart phone. Thanks to millions of apps out there which help us in accomplishing anything we want. Whether it is maintaining your schedule (calendar) to managing financial information on the go, all things can be done by mobile apps running on our smart phones. Since these apps have access to so much of confidential information, as developer when we make an app we need to follow highest security standards so that information is not accessed by someone who is not entitled for it. 
+### [105. The Complete Guide to Migrating From UIKit to SwiftUI in Large Production Apps](https://hackernoon.com/the-complete-guide-to-migrating-from-uikit-to-swiftui-in-large-production-apps)
+![](https://cdn.hackernoon.com/images/bGyqDcobpERFXKWs0AIhTuelhzY2-7p83d16.png)
+Migrating large production iOS apps from UIKit to SwiftUI requires a phased approach to avoid regressions in performance, reliability, and user experience
 
-### [106. Navigation Bar Tutorial in iOS 18 - #30DaysOfSwift](https://hackernoon.com/navigation-bar-tutorial-in-ios-18-30daysofswift)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-so0353y.webp)
-In the third post of the #30DaysOfSwift series, I am going to teach you how to make a sticky navigation bar.
-
-### [107. How to Stop Making Singletons in Swift: A Dependency Injection Guide](https://hackernoon.com/how-to-stop-making-singletons-in-swift-a-dependency-injection-guide)
-![](https://cdn.hackernoon.com/images/ZjHfUBMe6Oa32QVRW6oAooHdb513-fx03c53.jpeg)
-Transition from singletons to dependency injection in a SwiftUI app with minimal effort.
-
-### [108. A Guide on How to Eliminate Thread Explosions in iOS: GCD and Swift Concurrency](https://hackernoon.com/a-guide-on-how-to-eliminate-thread-explosions-in-ios-gcd-and-swift-concurrency)
-![](https://cdn.hackernoon.com/images/Ceus9O6pRZR4c9unqLNaigv0uzF3-3613ovs.jpeg)
-Learn about thread explosion, how to manage it, and how modern Swift Concurrency addresses the issue.
-
-### [109. Creating iOS Apps: Tips and Tricks I Learned the Hard Way](https://hackernoon.com/creating-ios-apps-tips-and-tricks-i-learned-the-hard-way-uk2z3704)
-![](https://cdn.hackernoon.com/images/Sm9FPUwZubR7V8OGeJtvaZXLd1p1-us16c3bcl.jpeg)
-Creating an iOS App? This is what I would've appreciated knowing before I started building my first one.
-
-### [110. Swift Runtime Optimization: Boosting Project Speed with Simple Techniques](https://hackernoon.com/swift-runtime-optimization-boosting-project-speed-with-simple-techniques)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-7g83xt1.jpeg)
-Explore the dynamic world of Swift runtime optimization with this guide, unveiling key techniques to significantly boost project speed.
-
-### [111. Context Menus in iOS 18 - #30DaysOfSwift](https://hackernoon.com/context-menus-in-ios-18-30daysofswift)
-![](https://cdn.hackernoon.com/images/colorful-menus-on-a-phone-yr8xq1i1gau4fl01a97idgea.png)
-Today, let's look at Context Menus. A powerful way to offer additional actions when users long-press or right-click on UI elements.
-
-### [112. Swift Network Error Handling: A Complete Guide to a Production-Ready Layer](https://hackernoon.com/swift-network-error-handling-a-complete-guide-to-a-production-ready-layer)
+### [106. Swift Network Error Handling: A Complete Guide to a Production-Ready Layer](https://hackernoon.com/swift-network-error-handling-a-complete-guide-to-a-production-ready-layer)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-2l83cjp.jpeg)
 Build a production-ready Swift 6 network layer with typed throws, HTTP status enums, and a master response service for cleaner UI-friendly errors.
 
-### [113. How to Create a Custom Toggle Button in iOS 18 - #30DaysOfSwift](https://hackernoon.com/how-to-create-a-custom-toggle-button-in-ios-18-30daysofswift)
-![](https://cdn.hackernoon.com/images/a-light-switch-on-the-wall-qgu3aqjuxwfcq0lcwq71iirc.png)
-Today, we’re going to create a custom toggle button in SwiftUI.
+### [107. How to Secure iOS Apps?](https://hackernoon.com/how-to-secure-ios-apps-4a383tmf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-jz133tny.jpeg?alt=media&token=ca7c4b66-a33d-48dc-8e64-a0627a43cbd2)
+This is the mobile era and pretty much everything these days can happen from our smart phone. Thanks to millions of apps out there which help us in accomplishing anything we want. Whether it is maintaining your schedule (calendar) to managing financial information on the go, all things can be done by mobile apps running on our smart phones. Since these apps have access to so much of confidential information, as developer when we make an app we need to follow highest security standards so that information is not accessed by someone who is not entitled for it. 
+
+### [108. Navigation Bar Tutorial in iOS 18 - #30DaysOfSwift](https://hackernoon.com/navigation-bar-tutorial-in-ios-18-30daysofswift)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-so0353y.webp)
+In the third post of the #30DaysOfSwift series, I am going to teach you how to make a sticky navigation bar.
+
+### [109. How to Stop Making Singletons in Swift: A Dependency Injection Guide](https://hackernoon.com/how-to-stop-making-singletons-in-swift-a-dependency-injection-guide)
+![](https://cdn.hackernoon.com/images/ZjHfUBMe6Oa32QVRW6oAooHdb513-fx03c53.jpeg)
+Transition from singletons to dependency injection in a SwiftUI app with minimal effort.
+
+### [110. A Guide on How to Eliminate Thread Explosions in iOS: GCD and Swift Concurrency](https://hackernoon.com/a-guide-on-how-to-eliminate-thread-explosions-in-ios-gcd-and-swift-concurrency)
+![](https://cdn.hackernoon.com/images/Ceus9O6pRZR4c9unqLNaigv0uzF3-3613ovs.jpeg)
+Learn about thread explosion, how to manage it, and how modern Swift Concurrency addresses the issue.
+
+### [111. Swift Runtime Optimization: Boosting Project Speed with Simple Techniques](https://hackernoon.com/swift-runtime-optimization-boosting-project-speed-with-simple-techniques)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-7g83xt1.jpeg)
+Explore the dynamic world of Swift runtime optimization with this guide, unveiling key techniques to significantly boost project speed.
+
+### [112. Creating iOS Apps: Tips and Tricks I Learned the Hard Way](https://hackernoon.com/creating-ios-apps-tips-and-tricks-i-learned-the-hard-way-uk2z3704)
+![](https://cdn.hackernoon.com/images/Sm9FPUwZubR7V8OGeJtvaZXLd1p1-us16c3bcl.jpeg)
+Creating an iOS App? This is what I would've appreciated knowing before I started building my first one.
+
+### [113. Context Menus in iOS 18 - #30DaysOfSwift](https://hackernoon.com/context-menus-in-ios-18-30daysofswift)
+![](https://cdn.hackernoon.com/images/colorful-menus-on-a-phone-yr8xq1i1gau4fl01a97idgea.png)
+Today, let's look at Context Menus. A powerful way to offer additional actions when users long-press or right-click on UI elements.
 
 ### [114. App Tracking Transparency in Swift. How to Implement? How to Retrieve IDFA? ](https://hackernoon.com/app-tracking-transparency-in-swift-how-to-implement-how-to-retrieve-idfa)
 ![](https://cdn.hackernoon.com/images/jtT33pyPCcfP9ClQC9m3945bt6B2-d7039f5.png)
 
 
-### [115. How to Implement the Pull-to-Refresh Feature in iOS 18 - #30DaysOfSwift](https://hackernoon.com/how-to-implement-the-pull-to-refresh-feature-in-ios-18-30daysofswift)
+### [115. How to Build Smooth iOS Transitions That Don't Break User Flow ](https://hackernoon.com/how-to-build-smooth-ios-transitions-that-dont-break-user-flow)
+![](https://cdn.hackernoon.com/images/2N8QL9cfkGZ9auqvd12xar6hKjt1-n303d1o.png)
+Build iOS transitions that feel smooth: reduce latency, prevent flashing and layout jumps, use matchedGeometryEffect correctly, and debug jank with Instruments.
+
+### [116. How to Create a Custom Toggle Button in iOS 18 - #30DaysOfSwift](https://hackernoon.com/how-to-create-a-custom-toggle-button-in-ios-18-30daysofswift)
+![](https://cdn.hackernoon.com/images/a-light-switch-on-the-wall-qgu3aqjuxwfcq0lcwq71iirc.png)
+Today, we’re going to create a custom toggle button in SwiftUI.
+
+### [117. How to Implement the Pull-to-Refresh Feature in iOS 18 - #30DaysOfSwift](https://hackernoon.com/how-to-implement-the-pull-to-refresh-feature-in-ios-18-30daysofswift)
 ![](https://cdn.hackernoon.com/images/colorful-refresh-button-on-a-phone-screen-s95jvpgrutmgjm8s72m851tk.png)
 Let's implement the pull-to-refresh feature in SwiftUI, a common gesture that enhances user experience by allowing users to refresh content easily.
 
-### [116. Onboarding Flow in iOS 18 - #30DaysOfSwift](https://hackernoon.com/onboarding-flow-in-ios-18-30daysofswift)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-pi0353a.webp)
-In the Fifth post of the #30DaysOfSwift series, let's learn how to add an onboarding screen to your SwiftUI (or UIKit) based iOS App.
-
-### [117. How to Become an iOS Developer and Start Your Own Business](https://hackernoon.com/how-to-become-an-ios-developer-and-start-your-own-business)
-![](https://cdn.hackernoon.com/images/a-developer-coding-in-a-dark-room-e9glga9cqvusjari0loyke8w.png)
-Kirill, 33 years old, an iOS developer, never worked as a programmer, income from programming: 0. He created his own VPN application for iOS 
-
-### [118. Swift’s #Predicate Explained: How Type-Safe Filtering Works in SwiftData](https://hackernoon.com/swifts-predicate-explained-how-type-safe-filtering-works-in-swiftdata)
-![](https://cdn.hackernoon.com/images/byAWhIPGSMTOokaMHrFsaoOrlfy2-pc038m2.webp)
-Learn how Swift’s #Predicate enables type-safe, compile-time-checked database filtering in SwiftData—and how to avoid common comparison errors.
-
-### [119. How UIKit Really Handles Touches, Hit Testing, and the Main Run Loop](https://hackernoon.com/how-uikit-really-handles-touches-hit-testing-and-the-main-run-loop)
+### [118. How UIKit Really Handles Touches, Hit Testing, and the Main Run Loop](https://hackernoon.com/how-uikit-really-handles-touches-hit-testing-and-the-main-run-loop)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-f10225u.jpeg)
 A deep dive into how iOS apps handle touch events through the responder chain, gesture recognizers, hit testing, and the main event loop.
 
-### [120. Overusing Implicit Returns Makes Your Code Harder to Read and Debug](https://hackernoon.com/overusing-implicit-returns-makes-your-code-harder-to-read-and-debug)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-vb034t7.jpeg)
-Overusing implicit returns makes your code harder to read and debug.
+### [119. Onboarding Flow in iOS 18 - #30DaysOfSwift](https://hackernoon.com/onboarding-flow-in-ios-18-30daysofswift)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-pi0353a.webp)
+In the Fifth post of the #30DaysOfSwift series, let's learn how to add an onboarding screen to your SwiftUI (or UIKit) based iOS App.
 
-### [121. How to Build a FAB-ulous Button - #30DaysOfSwift](https://hackernoon.com/how-to-build-a-fab-ulous-button-30daysofswift)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-26036qh.webp)
-Today, we're diving into a fundamental UI element: the Floating Action Button (FAB). 
+### [120. Swift’s #Predicate Explained: How Type-Safe Filtering Works in SwiftData](https://hackernoon.com/swifts-predicate-explained-how-type-safe-filtering-works-in-swiftdata)
+![](https://cdn.hackernoon.com/images/byAWhIPGSMTOokaMHrFsaoOrlfy2-pc038m2.webp)
+Learn how Swift’s #Predicate enables type-safe, compile-time-checked database filtering in SwiftData—and how to avoid common comparison errors.
 
-### [122. How to Implement Progress Bars in iOS 18 - #30DaysOfSwift](https://hackernoon.com/how-to-implement-progress-bars-in-ios-18-30daysofswift)
-![](https://cdn.hackernoon.com/images/a-green-progress-bar-loading-s8eul093jw4c9amjkum5ur3f.png)
-Welcome to Day 19 of the #30DaysOfSwift series! Learn today about how to implement a progress bar in your SwiftUI app.
-
-### [123. Bottom Sheet Tutorial in iOS 18 - #30DaysOfSwift](https://hackernoon.com/bottom-sheet-tutorial-in-ios-18-30daysofswift)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-xu0352o.webp)
-In the second post of #30DaysOfSwift series, you will learn how to add a bottom sheet.
-
-### [124. The Difference Between EnvironmentObject, StateObject, ObservedObject & Observable](https://hackernoon.com/the-difference-between-environmentobject-stateobject-observedobject-and-observable)
+### [121. The Difference Between EnvironmentObject, StateObject, ObservedObject & Observable](https://hackernoon.com/the-difference-between-environmentobject-stateobject-observedobject-and-observable)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0683elh.jpeg)
 In this article, we’ll discuss the differences between the @StateObject, @EnvironmentObject, and @ObservedObject property wrappers.
 
-### [125. My Second Mobile App](https://hackernoon.com/starting-my-mobile-app-journey-with-the-second-app-hwyd227l)
-![](https://cdn.hackernoon.com/drafts/va11e227c.png)
+### [122. Replacing SWIFT? A Realistic Look at Blockchain’s Role in Cross‑Border Settlement](https://hackernoon.com/replacing-swift-a-realistic-look-at-blockchains-role-in-crossborder-settlement)
+![](https://cdn.hackernoon.com/images/ogLjQOI8STUK2kIzi4UX9fhl1za2-al03cpb.jpeg)
+A realistic analysis of blockchain’s role in cross-border settlement and whether it can truly replace SWIFT in global payments.
 
 
-### [126. Swipe, Tap, and Pinch Gestures in iOS 18 - #30DaysOfSwift](https://hackernoon.com/swipe-tap-and-pinch-gestures-in-ios-18-30daysofswift)
+### [123. How to Become an iOS Developer and Start Your Own Business](https://hackernoon.com/how-to-become-an-ios-developer-and-start-your-own-business)
+![](https://cdn.hackernoon.com/images/a-developer-coding-in-a-dark-room-e9glga9cqvusjari0loyke8w.png)
+Kirill, 33 years old, an iOS developer, never worked as a programmer, income from programming: 0. He created his own VPN application for iOS 
+
+### [124. How to Implement Progress Bars in iOS 18 - #30DaysOfSwift](https://hackernoon.com/how-to-implement-progress-bars-in-ios-18-30daysofswift)
+![](https://cdn.hackernoon.com/images/a-green-progress-bar-loading-s8eul093jw4c9amjkum5ur3f.png)
+Welcome to Day 19 of the #30DaysOfSwift series! Learn today about how to implement a progress bar in your SwiftUI app.
+
+### [125. Bottom Sheet Tutorial in iOS 18 - #30DaysOfSwift](https://hackernoon.com/bottom-sheet-tutorial-in-ios-18-30daysofswift)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-xu0352o.webp)
+In the second post of #30DaysOfSwift series, you will learn how to add a bottom sheet.
+
+### [126. Rethinking Your Git Strategy? Trunk-Based Development May Be the Answer](https://hackernoon.com/rethinking-your-git-strategy-trunk-based-development-may-be-the-answer)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8p02vuq.jpeg)
+Learn what trunk-based development (TBD) is and how it is applicable to iOS development.
+
+### [127. How to Build a FAB-ulous Button - #30DaysOfSwift](https://hackernoon.com/how-to-build-a-fab-ulous-button-30daysofswift)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-26036qh.webp)
+Today, we're diving into a fundamental UI element: the Floating Action Button (FAB). 
+
+### [128. Overusing Implicit Returns Makes Your Code Harder to Read and Debug](https://hackernoon.com/overusing-implicit-returns-makes-your-code-harder-to-read-and-debug)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-vb034t7.jpeg)
+Overusing implicit returns makes your code harder to read and debug.
+
+### [129. Swipe, Tap, and Pinch Gestures in iOS 18 - #30DaysOfSwift](https://hackernoon.com/swipe-tap-and-pinch-gestures-in-ios-18-30daysofswift)
 ![](https://cdn.hackernoon.com/images/a-finger-touching-a-smartphone-vl95di1j7ro79heu4tjs2060.png)
 In my twelfth post of the #30DaysOfSwift series, let me tell you about the Gesture Recognizers in SwiftUI.
 
-### [127. SwifWeb and How to Center the Div!](https://hackernoon.com/swifweb-and-how-to-center-the-div)
-![](https://cdn.hackernoon.com/images/cnk75wzdkHOamvwE3F8u3w3Q3Ni1-nte35o3.jpeg)
-Autolayout is a powerful tool that extends basic CSS functionality, allowing you to create complex and dynamic layouts for your SwifWeb website.
-
-### [128. Exploring the Salesforce Mobile SDK Using Xcode](https://hackernoon.com/exploring-the-salesforce-mobile-sdk-using-xcode)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-bw93k50.jpeg)
-In the 3rd article of the series, create a native iOS application that leverages the Salesforce platform and the Salesforce Mobile SDK.
-
-### [129. Logging Events using PostHog - #30DaysOfSwift](https://hackernoon.com/logging-events-using-posthog-30daysofswift)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-8m036l4.webp)
-In the sixth post of the #30DaysOfSwift series, we’ll learn how to implement PostHog Analytics in your iOS app.
-
-### [130. How We Built Our API Management App: Design Iterations and All](https://hackernoon.com/how-we-built-our-api-management-app-design-iterations-and-all)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-yz93ipk.jpeg)
-This is how we built our all-in-one Treblle app for iPhone, iPad, and Mac. I'll cover some technical details and guide you through our thought processes.
-
-### [131. How to Create Custom Transitions in iOS 18 - #30DaysOfSwift](https://hackernoon.com/how-to-create-custom-transitions-in-ios-18-30daysofswift)
+### [130. How to Create Custom Transitions in iOS 18 - #30DaysOfSwift](https://hackernoon.com/how-to-create-custom-transitions-in-ios-18-30daysofswift)
 ![](https://cdn.hackernoon.com/images/a-colorful-clear-transition-between-two-images-g0drek6he3jcobuv0by3xjh6.png)
 In the tenth post of the #30DaysOfSwift series, we’re diving into Custom Transitions and Animations to create seamless page/view transitions in SwiftUI.
 
 
-### [132. iOs App Development Wars: React Native Vs. Swift](https://hackernoon.com/ios-app-development-wars-react-native-vs-swift)
-![](https://cdn.hackernoon.com/images/yEdfehOz04Tz81ubT9EowaqdqG03-9h136ap.jpeg)
-A comparison of React Native vs Swift for iOS app development ⚡ Which one is more convenient and practical? 
+### [131. Exploring the Salesforce Mobile SDK Using Xcode](https://hackernoon.com/exploring-the-salesforce-mobile-sdk-using-xcode)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-bw93k50.jpeg)
+In the 3rd article of the series, create a native iOS application that leverages the Salesforce platform and the Salesforce Mobile SDK.
 
-### [133. Rethinking Your Git Strategy? Trunk-Based Development May Be the Answer](https://hackernoon.com/rethinking-your-git-strategy-trunk-based-development-may-be-the-answer)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8p02vuq.jpeg)
-Learn what trunk-based development (TBD) is and how it is applicable to iOS development.
+### [132. SwifWeb and How to Center the Div!](https://hackernoon.com/swifweb-and-how-to-center-the-div)
+![](https://cdn.hackernoon.com/images/cnk75wzdkHOamvwE3F8u3w3Q3Ni1-nte35o3.jpeg)
+Autolayout is a powerful tool that extends basic CSS functionality, allowing you to create complex and dynamic layouts for your SwifWeb website.
 
-### [134. The HackerNoon Newsletter: Porting Scientific Algorithms from MATLAB to JavaScript (12/3/2025)](https://hackernoon.com/12-3-2025-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_837_g43monnjzqd3pxgdjfrze7de.png)
-12/3/2025: Top 5 stories on the HackerNoon homepage!
+### [133. My Second Mobile App](https://hackernoon.com/starting-my-mobile-app-journey-with-the-second-app-hwyd227l)
+![](https://cdn.hackernoon.com/drafts/va11e227c.png)
 
-### [135. Forms and Input Handling in iOS 18 - #30DaysOfSwift](https://hackernoon.com/forms-and-input-handling-in-ios-18-30daysofswift)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-yj02q7i.jpeg)
-Forms are a core part of many apps for collecting data from users.
 
-### [136. Rethinking Encapsulation: From Private to Public by Design](https://hackernoon.com/rethinking-encapsulation-from-private-to-public-by-design)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rg0230o.jpeg)
-Access modifiers have long been seen as essential to safe and clean code. But they’re ultimately a low-level mechanism for expressing high-level ideas.
+### [134. Logging Events using PostHog - #30DaysOfSwift](https://hackernoon.com/logging-events-using-posthog-30daysofswift)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-8m036l4.webp)
+In the sixth post of the #30DaysOfSwift series, we’ll learn how to implement PostHog Analytics in your iOS app.
 
-### [137. Building Static Sites in Swift: Getting Started With Publish](https://hackernoon.com/building-static-sites-in-swift-getting-started-with-publish-ok3e3w7g)
-![](https://cdn.hackernoon.com/images/od2003zmh.jpg)
-A few days ago, I accidentally stumbled upon Publish, a static site generator that uses Swift as the language for building websites. Despite not being a Swift developer, I thought this sounded quite awesome. So I decided to try if the time I've spent playing around with SwiftUI could be enough to get up and running with a static site built with Swift.
+### [135. How We Built Our API Management App: Design Iterations and All](https://hackernoon.com/how-we-built-our-api-management-app-design-iterations-and-all)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-yz93ipk.jpeg)
+This is how we built our all-in-one Treblle app for iPhone, iPad, and Mac. I'll cover some technical details and guide you through our thought processes.
 
-### [138. Creating Scrollable Lists using Protocol-Oriented Programming and UICollectionViewFlowLayout](https://hackernoon.com/creating-scrollable-lists-using-protocol-oriented-programming-and-uicollectionviewflowlayout)
-![](https://cdn.hackernoon.com/images/CXxWTcTnTGPBjjje4mL33qBA4p72-zqa3ax1.jpeg)
-Each developer in practice faced the need to make up a screen based on a scrolling list of elements. Or maybe not just one list, but several.
-
-### [139. Robust Network Layer in Swift via Clean Architecture Approach](https://hackernoon.com/stop-letting-your-ios-network-layer-become-a-junk-drawer)
+### [136. Robust Network Layer in Swift via Clean Architecture Approach](https://hackernoon.com/stop-letting-your-ios-network-layer-become-a-junk-drawer)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rs823c6.jpeg)
 Stop shipping “junk drawer” networking code. This guide shows a production-ready Swift network layer with type-safe endpoints and SwiftUI-friendly usage.
 
-### [140. Reviewing My App Development Experience for Mafia: The Game](https://hackernoon.com/reviewing-my-app-development-experience-for-mafia-the-game-ag4v35h4)
+### [137. iOs App Development Wars: React Native Vs. Swift](https://hackernoon.com/ios-app-development-wars-react-native-vs-swift)
+![](https://cdn.hackernoon.com/images/yEdfehOz04Tz81ubT9EowaqdqG03-9h136ap.jpeg)
+A comparison of React Native vs Swift for iOS app development ⚡ Which one is more convenient and practical? 
+
+### [138. Swift Concurrency Explained: Actors, Executors, and Reentrancy](https://hackernoon.com/swift-concurrency-explained-actors-executors-and-reentrancy)
+![](https://cdn.hackernoon.com/images/Ceus9O6pRZR4c9unqLNaigv0uzF3-rt83rxw.jpeg)
+Explore Structured Concurrency in Swift: Actors, @MainActor, @GlobalActor, understanding the Swift Concurrency runtime, and actor reentrancy.  
+
+### [139. The HackerNoon Newsletter: Porting Scientific Algorithms from MATLAB to JavaScript (12/3/2025)](https://hackernoon.com/12-3-2025-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_837_g43monnjzqd3pxgdjfrze7de.png)
+12/3/2025: Top 5 stories on the HackerNoon homepage!
+
+### [140. Forms and Input Handling in iOS 18 - #30DaysOfSwift](https://hackernoon.com/forms-and-input-handling-in-ios-18-30daysofswift)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-yj02q7i.jpeg)
+Forms are a core part of many apps for collecting data from users.
+
+### [141. Building Static Sites in Swift: Getting Started With Publish](https://hackernoon.com/building-static-sites-in-swift-getting-started-with-publish-ok3e3w7g)
+![](https://cdn.hackernoon.com/images/od2003zmh.jpg)
+A few days ago, I accidentally stumbled upon Publish, a static site generator that uses Swift as the language for building websites. Despite not being a Swift developer, I thought this sounded quite awesome. So I decided to try if the time I've spent playing around with SwiftUI could be enough to get up and running with a static site built with Swift.
+
+### [142. Creating Scrollable Lists using Protocol-Oriented Programming and UICollectionViewFlowLayout](https://hackernoon.com/creating-scrollable-lists-using-protocol-oriented-programming-and-uicollectionviewflowlayout)
+![](https://cdn.hackernoon.com/images/CXxWTcTnTGPBjjje4mL33qBA4p72-zqa3ax1.jpeg)
+Each developer in practice faced the need to make up a screen based on a scrolling list of elements. Or maybe not just one list, but several.
+
+### [143. Reviewing My App Development Experience for Mafia: The Game](https://hackernoon.com/reviewing-my-app-development-experience-for-mafia-the-game-ag4v35h4)
 ![](https://cdn.hackernoon.com/images/70bo4Z4owIfNlVQ5V7wxLNHrUSs2-wb9a3ffa.jpeg)
 In this article, I would like to share the development experience of my latest project, Mafia: The Game, a multiplayer game for iOS, macOS, tvOS, and the web.
 
-### [141. Ditch AutoLayout, Speed Up Your App: The Old-School Trick That Works](https://hackernoon.com/ditch-autolayout-speed-up-your-app-the-old-school-trick-that-works)
+### [144. Ditch AutoLayout, Speed Up Your App: The Old-School Trick That Works](https://hackernoon.com/ditch-autolayout-speed-up-your-app-the-old-school-trick-that-works)
 ![](https://cdn.hackernoon.com/images/928A5MdLmkgtIlxpQv0Ir97p6BG3-pp03e0l.png)
 Manual frame layout. Instead of relying on AutoLayout, you calculate and set frames explicitly. Yes, it means writing more code, but the tradeoff is speed.
 
-### [142. This One Command Lets You Live-Edit UIKit Apps Like It's SwiftUI](https://hackernoon.com/this-one-command-lets-you-live-edit-uikit-apps-like-its-swiftui)
+### [145. This One Command Lets You Live-Edit UIKit Apps Like It's SwiftUI](https://hackernoon.com/this-one-command-lets-you-live-edit-uikit-apps-like-its-swiftui)
 ![](https://cdn.hackernoon.com/images/byAWhIPGSMTOokaMHrFsaoOrlfy2-1413xq2.jpeg)
  Speed up UIKit development with this LLDB trick that lets you live-edit iOS UI in real time—no need to recompile or restart your app.
 
-### [143. Building Resilient iOS Apps: A Guide to Swift Optionals](https://hackernoon.com/building-resilient-ios-apps-a-guide-to-swift-optionals)
+### [146. Building Resilient iOS Apps: A Guide to Swift Optionals](https://hackernoon.com/building-resilient-ios-apps-a-guide-to-swift-optionals)
 ![](https://cdn.hackernoon.com/images/EzHnp28C7hgMa5vdwi6uifQ5Qd62-0703dey.jpeg)
 Master Swift Optionals for safer, crash-free iOS development.
 
-### [144. How to Build Smooth iOS Transitions That Don't Break User Flow ](https://hackernoon.com/how-to-build-smooth-ios-transitions-that-dont-break-user-flow)
-![](https://cdn.hackernoon.com/images/2N8QL9cfkGZ9auqvd12xar6hKjt1-n303d1o.png)
-Build iOS transitions that feel smooth: reduce latency, prevent flashing and layout jumps, use matchedGeometryEffect correctly, and debug jank with Instruments.
-
-### [145. Integrating Address-Based Location Search in an IOS App: A Step-By-Step Guide](https://hackernoon.com/integrating-address-based-location-search-in-an-ios-app-a-step-by-step-guide)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-zj93nhw.jpeg)
-In this article, we take a look at the fun process of implementing location search by address in an iOS app.
-
-### [146. Mastering MVC: Properly Cooking the Controller in iOS](https://hackernoon.com/mastering-mvc-properly-cooking-the-controller-in-ios)
+### [147. Mastering MVC: Properly Cooking the Controller in iOS](https://hackernoon.com/mastering-mvc-properly-cooking-the-controller-in-ios)
 ![](https://cdn.hackernoon.com/images/GMqZlP2GWffok8NZ4mwWDkAUlqC3-6fc2o7i.jpeg)
 How to divide UIViewController to View and Controller.
 
-### [147. The Noonification: How to Use RunLoop in IOS Applications (3/5/2024)](https://hackernoon.com/3-5-2024-noonification)
-![](https://cdn.hackernoon.com/images/noonification_839_pd52nhio1y74ta0jqfobxcyo.png)
-3/5/2024: Top 5 stories on the HackerNoon homepage!
-
-### [148. The Noonification: Exodus from Mars (3/21/2023)](https://hackernoon.com/3-21-2023-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-3/21/2023: Top 5 stories on the Hackernoon homepage!
-
-### [149. Haptic Feedback for the Feels - #30DaysOfSwift](https://hackernoon.com/haptic-feedback-for-the-feels-30daysofswift)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-z6035lb.webp)
-In the Fourth post of the #30DaysOfSwift series, you'll learn how to implement the haptic feedback with the press of a button or any certain action.
-
-### [150. What Swift’s Playground Won’t Tell You About Concurrency](https://hackernoon.com/what-swifts-playground-wont-tell-you-about-concurrency)
+### [148. What Swift’s Playground Won’t Tell You About Concurrency](https://hackernoon.com/what-swifts-playground-wont-tell-you-about-concurrency)
 ![](https://cdn.hackernoon.com/images/bGlkhNiHrBZNVvHG7pY87lyhsVR2-tm33lja.png)
 Discover how Swift’s task priorities and execution context impact the actual run order of your code. Real findings from Playground, XCTest, and production-like.
 
-### [151. How to Collect Feedback With Canny.io - #30DaysOfSwift](https://hackernoon.com/how-to-collect-feedback-with-cannyio-30daysofswift)
+### [149. Integrating Address-Based Location Search in an IOS App: A Step-By-Step Guide](https://hackernoon.com/integrating-address-based-location-search-in-an-ios-app-a-step-by-step-guide)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-zj93nhw.jpeg)
+In this article, we take a look at the fun process of implementing location search by address in an iOS app.
+
+### [150. Haptic Feedback for the Feels - #30DaysOfSwift](https://hackernoon.com/haptic-feedback-for-the-feels-30daysofswift)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-z6035lb.webp)
+In the Fourth post of the #30DaysOfSwift series, you'll learn how to implement the haptic feedback with the press of a button or any certain action.
+
+### [151. The Noonification: How to Use RunLoop in IOS Applications (3/5/2024)](https://hackernoon.com/3-5-2024-noonification)
+![](https://cdn.hackernoon.com/images/noonification_839_pd52nhio1y74ta0jqfobxcyo.png)
+3/5/2024: Top 5 stories on the HackerNoon homepage!
+
+### [152. The Noonification: Exodus from Mars (3/21/2023)](https://hackernoon.com/3-21-2023-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+3/21/2023: Top 5 stories on the Hackernoon homepage!
+
+### [153. How to Collect Feedback With Canny.io - #30DaysOfSwift](https://hackernoon.com/how-to-collect-feedback-with-cannyio-30daysofswift)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-750360k.webp)
 In the seventh post of the #30DaysOfSwift series, I am sharing about Canny.io—a great tool for collecting user feedback and tracking feature requests.
 
-### [152. 'I am Passionate About Implantable Brain-machine Interfaces': Noonies Nominee Altynbek](https://hackernoon.com/i-am-passionate-about-implantable-brain-machine-interfaces-noonies-nominee-altynbek)
-![](https://cdn.hackernoon.com/images/uwos0chJX2fO3WCG9AogsFGrN4S2-bc03sd8.jpeg)
-Altynbek is nominated for Noonies award HackerNoon Contributor of the Year - Swift.
+### [154. Rethinking Encapsulation: From Private to Public by Design](https://hackernoon.com/rethinking-encapsulation-from-private-to-public-by-design)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rg0230o.jpeg)
+Access modifiers have long been seen as essential to safe and clean code. But they’re ultimately a low-level mechanism for expressing high-level ideas.
 
-### [153. The HackerNoon Newsletter: Swift init(), Once and for All (3/21/2025)](https://hackernoon.com/3-21-2025-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_808_mdrj2xpmegio733yt54bmtkd.png)
-3/21/2025: Top 5 stories on the HackerNoon homepage!
+### [155. AVKit Integration in iOS 18 - #30DaysOfSwift](https://hackernoon.com/avkit-integration-in-ios-18-30daysofswift)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-sm02qll.jpeg)
+AVKit is the framework that lets you play videos and audio seamlessly with built-in controls.
 
-### [154. Asynchronous Programming in iOS: How to Speed Up Enterprise Apps Without Breaking Developers' Brains](https://hackernoon.com/asynchronous-programming-in-ios-how-to-speed-up-enterprise-apps-without-breaking-developers-brains)
-![](https://cdn.hackernoon.com/images/EzHnp28C7hgMa5vdwi6uifQ5Qd62-yo03do9.png)
-Asynchronous programming is a way to organize work in iOS apps.
-
-### [155. A Guide to Understanding Variables in Swift](https://hackernoon.com/a-guide-to-understanding-variables-in-swift)
+### [156. A Guide to Understanding Variables in Swift](https://hackernoon.com/a-guide-to-understanding-variables-in-swift)
 ![](https://cdn.hackernoon.com/images/vFWQHkp2QBcp5uXyjGm6rLWzGU93-sv03c4t.jpeg)
 The only article you need to read to learn everything about variables in Swift.
 Covering each and every concept revolving around variables in swift.
 
-### [156. Why I Cannot Add Variable to GeometryReader{} Closure Argument](https://hackernoon.com/why-i-cannot-add-variable-to-geometryreader-closure-argument-fof3u7b)
+### [157. 'I am Passionate About Implantable Brain-machine Interfaces': Noonies Nominee Altynbek](https://hackernoon.com/i-am-passionate-about-implantable-brain-machine-interfaces-noonies-nominee-altynbek)
+![](https://cdn.hackernoon.com/images/uwos0chJX2fO3WCG9AogsFGrN4S2-bc03sd8.jpeg)
+Altynbek is nominated for Noonies award HackerNoon Contributor of the Year - Swift.
+
+### [158. Asynchronous Programming in iOS: How to Speed Up Enterprise Apps Without Breaking Developers' Brains](https://hackernoon.com/asynchronous-programming-in-ios-how-to-speed-up-enterprise-apps-without-breaking-developers-brains)
+![](https://cdn.hackernoon.com/images/EzHnp28C7hgMa5vdwi6uifQ5Qd62-yo03do9.png)
+Asynchronous programming is a way to organize work in iOS apps.
+
+### [159. The HackerNoon Newsletter: Swift init(), Once and for All (3/21/2025)](https://hackernoon.com/3-21-2025-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_808_mdrj2xpmegio733yt54bmtkd.png)
+3/21/2025: Top 5 stories on the HackerNoon homepage!
+
+### [160. Why I Cannot Add Variable to GeometryReader{} Closure Argument](https://hackernoon.com/why-i-cannot-add-variable-to-geometryreader-closure-argument-fof3u7b)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FbYL6KKVZIbanYMA5iblzNPoM5jH2-0ue93zw8.jpeg?alt=media&token=6314688b-b2e3-425b-9b8b-4aa6629b545c)
 I want to use a GeometryReader{} to contain a view, so I can decide the position of the view base on the parent container property such as size, coordinates space, ect... 
 
-### [157. AVKit Integration in iOS 18 - #30DaysOfSwift](https://hackernoon.com/avkit-integration-in-ios-18-30daysofswift)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-sm02qll.jpeg)
-AVKit is the framework that lets you play videos and audio seamlessly with built-in controls.
-
-### [158. Type Identity and its Impact on API Design](https://hackernoon.com/type-identity-and-its-impact-on-api-design-m33e34a0)
+### [161. Type Identity and its Impact on API Design](https://hackernoon.com/type-identity-and-its-impact-on-api-design-m33e34a0)
 ![](https://cdn.hackernoon.com/images/3clEbEbU7aSPBeN2oGC30ZUMf8D2-677c31x7.jpeg)
 When designing an API, it's easy to use public types that denote resource identity to allow actions on a resource. 
 
-### [159. The Noonification: TikTok Should Have Been Banned Years Ago, and Heres Why (3/18/2024)](https://hackernoon.com/3-18-2024-noonification)
+### [162. The Noonification: TikTok Should Have Been Banned Years Ago, and Heres Why (3/18/2024)](https://hackernoon.com/3-18-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_468_bgay5ro123otldjch2y72c2o.png)
 3/18/2024: Top 5 stories on the HackerNoon homepage!
 
-### [160. A Guide on How to Boost Function Performance and Achieve Execution Over 10 Million Times Faster](https://hackernoon.com/a-guide-on-how-to-boost-function-performance-and-achieve-execution-over-10-million-times-faster)
-![](https://cdn.hackernoon.com/images/byAWhIPGSMTOokaMHrFsaoOrlfy2-i2230hc.jpeg)
-I’ll share a fascinating story about Carl Friedrich Gauss, a mathematician, and show how his arithmetic shortcut can dramatically improve performance in Swift.
-
-### [161. The HackerNoon Newsletter: Swift: Master of Decoding Messy json (2/26/2026)](https://hackernoon.com/2-26-2026-newsletter)
+### [163. The HackerNoon Newsletter: Swift: Master of Decoding Messy json (2/26/2026)](https://hackernoon.com/2-26-2026-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_231_weu9nc92uhwkalqny3mnt5mp.png)
 2/26/2026: Top 5 stories on the HackerNoon homepage!
 
-### [162. The Noonification: If the Training Data Sucks, the AI Sucks, Too (5/31/2023)](https://hackernoon.com/5-31-2023-noonification)
+### [164. A Guide on How to Boost Function Performance and Achieve Execution Over 10 Million Times Faster](https://hackernoon.com/a-guide-on-how-to-boost-function-performance-and-achieve-execution-over-10-million-times-faster)
+![](https://cdn.hackernoon.com/images/byAWhIPGSMTOokaMHrFsaoOrlfy2-i2230hc.jpeg)
+I’ll share a fascinating story about Carl Friedrich Gauss, a mathematician, and show how his arithmetic shortcut can dramatically improve performance in Swift.
+
+### [165. The Noonification: If the Training Data Sucks, the AI Sucks, Too (5/31/2023)](https://hackernoon.com/5-31-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 5/31/2023: Top 5 stories on the Hackernoon homepage!
 
-### [163. How to fix the error DT_TOOLCHAIN_DIR](https://hackernoon.com/how-to-fix-the-error-dt_toolchain_dir)
+### [166. How to fix the error DT_TOOLCHAIN_DIR](https://hackernoon.com/how-to-fix-the-error-dt_toolchain_dir)
 ![](https://cdn.hackernoon.com/images/byAWhIPGSMTOokaMHrFsaoOrlfy2-s6030q2.png)
 This error can occur in environments with MacOS 14 (Sonoma), XCode 15.4, Swift 5.0 or higher setup in relation to Firebase and Firebase Analytics Pods.
 
-### [164. The Noonification: SwifWeb Libraries: Animate.css (4/4/2023)](https://hackernoon.com/4-4-2023-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-4/4/2023: Top 5 stories on the Hackernoon homepage!
-
-### [165. Meet Validator: Chainable Form Validation Rules for Swift Apps](https://hackernoon.com/meet-validator-chainable-form-validation-rules-for-swift-apps)
+### [167. Meet Validator: Chainable Form Validation Rules for Swift Apps](https://hackernoon.com/meet-validator-chainable-form-validation-rules-for-swift-apps)
 ![](https://cdn.hackernoon.com/images/Ceus9O6pRZR4c9unqLNaigv0uzF3-gp83rpq.png)
 Validator is a modern, lightweight Swift framework that provides elegant and type-safe input validation.
+
+### [168. The Noonification: SwifWeb Libraries: Animate.css (4/4/2023)](https://hackernoon.com/4-4-2023-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+4/4/2023: Top 5 stories on the Hackernoon homepage!
 

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [esports](https://hackernoon.com/tagged/esports)
+### Let's learn about [Esports](https://hackernoon.com/tagged/esports) via these 57 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Esports refers to competitive video gaming organized into professional leagues and tournaments, attracting massive global audiences and significant prize pools. It has evolved into a legitimate sports industry, offering new entertainment and career pathways.
+
 ### [1. The Future of Gaming Writing Contest by Megafans x HackerNoon](https://hackernoon.com/the-future-of-gaming-writing-contest-by-megafans-x-hackernoon)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-4a93lpp.jpeg)
 The Future of Gaming Writing Contest runs from April 1 to June 30th w/$5300 in  cash prizes for the top 5 stories submitted each month.
@@ -29,13 +33,13 @@ India’s 2025 Online Gaming Bill recognizes esports as sport, unlocking growth,
 ![](https://cdn.hackernoon.com/images/kcbJJkj9FtWX0xUIL4DYmwC6ius1-x17g33jd.jpeg)
 The pandemic has forced sports teams to find new ways to connect with fans and more durable revenue sources - digital transformation could hold the key.
 
-### [8. Top 5 Esports Trends Investors Should Keep An Eye On In 2020](https://hackernoon.com/top-5-esports-trends-investors-should-keep-an-eye-on-in-2020-jh1v3aut)
-![](https://cdn.hackernoon.com/drafts/pcaa36nj.png)
-If you aren’t invested in esports yet, you still have time to join one of the biggest booms of the decade before the train leaves the station.
-
-### [9. Gran Turismo 7 - How to Save & Upload Race Clips/Replays to YouTube](https://hackernoon.com/gran-turismo-7-how-to-save-and-upload-race-clipsreplays-to-youtube)
+### [8. Gran Turismo 7 - How to Save & Upload Race Clips/Replays to YouTube](https://hackernoon.com/gran-turismo-7-how-to-save-and-upload-race-clipsreplays-to-youtube)
 ![](https://cdn.hackernoon.com/images/1yeuFftUzKRT5YTxuVLPKYa7Uep2-gde3eq7.jpeg)
 Learn to save and upload Gran Turismo 7 race replays to YouTube.  A step-by-step PS5 guide to sim racers to capture and share incidents with the community.
+
+### [9. Top 5 Esports Trends Investors Should Keep An Eye On In 2020](https://hackernoon.com/top-5-esports-trends-investors-should-keep-an-eye-on-in-2020-jh1v3aut)
+![](https://cdn.hackernoon.com/drafts/pcaa36nj.png)
+If you aren’t invested in esports yet, you still have time to join one of the biggest booms of the decade before the train leaves the station.
 
 ### [10. The Future Of Web3 Gaming And How To Get Involved](https://hackernoon.com/the-future-of-web3-gaming-and-how-to-get-involved)
 ![](https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-uua3ax1.jpeg)
@@ -65,14 +69,14 @@ League of Legends is a constantly evolving game, with new champions and skins be
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-rf93scm.jpeg)
 it is evident that digital solutions for the digital era will revolutionize fan engagement and create exciting opportunities in the sports industry.
 
-### [17. How Heart Rate Data in Sim Racing Reveales the Ultimate Immersion](https://hackernoon.com/how-heart-rate-data-in-sim-racing-reveales-the-ultimate-immersion)
-![](https://cdn.hackernoon.com/images/1yeuFftUzKRT5YTxuVLPKYa7Uep2-6s03eak.png)
-Adding Subtle layers of immersion to your sim racing rig can enhance your racing experience.
-
-### [18. VR Made Me Faster: A Sim Racer’s Case for Immersion](https://hackernoon.com/vr-made-me-faster-a-sim-racers-case-for-immersion)
+### [17. VR Made Me Faster: A Sim Racer’s Case for Immersion](https://hackernoon.com/vr-made-me-faster-a-sim-racers-case-for-immersion)
 ![](https://cdn.hackernoon.com/images/1yeuFftUzKRT5YTxuVLPKYa7Uep2-kl03do8.png)
 Adding VR to a sim racing rig can improve your driving skills, increase immersion, and make sim racing more like a real-world experience.
 
+
+### [18. How Heart Rate Data in Sim Racing Reveales the Ultimate Immersion](https://hackernoon.com/how-heart-rate-data-in-sim-racing-reveales-the-ultimate-immersion)
+![](https://cdn.hackernoon.com/images/1yeuFftUzKRT5YTxuVLPKYa7Uep2-6s03eak.png)
+Adding Subtle layers of immersion to your sim racing rig can enhance your racing experience.
 
 ### [19. What is the Future of Gender Quotas in Gaming?](https://hackernoon.com/what-is-the-future-of-gender-quotas-in-gaming)
 ![](https://cdn.hackernoon.com/images/YMzDqdXq9MgeEl4dai9nGaZIj8t1-pp93mx9.png)
@@ -114,33 +118,33 @@ For your convenience, we have listed the most popular broadcast networks as well
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_545_dlfu7jncs80o0sliwg80moc0.png)
 12/31/2025: Top 5 stories on the HackerNoon homepage!
 
-### [29. Gaming Keeps Growing in Summer 2021](https://hackernoon.com/gaming-keeps-growing-in-summer-2021-bb1j370c)
-![](https://cdn.hackernoon.com/images/E94jeG4kuxf5Akvr1TBep1bZVSg1-egbo37kj.png)
-Gaming continues to grow past pandemic lockdown according to NewZoo report. 
-
-### [30. On the Rise of Esports: What Do the Scholars Say?](https://hackernoon.com/on-the-rise-of-esports-what-do-the-scholars-say)
+### [29. On the Rise of Esports: What Do the Scholars Say?](https://hackernoon.com/on-the-rise-of-esports-what-do-the-scholars-say)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-8n93kd3.jpeg)
 Esports has been a global entertainment and technology phenomenon. The rate of its growth has seen it expand into several areas of businesses.
+
+### [30. Gaming Keeps Growing in Summer 2021](https://hackernoon.com/gaming-keeps-growing-in-summer-2021-bb1j370c)
+![](https://cdn.hackernoon.com/images/E94jeG4kuxf5Akvr1TBep1bZVSg1-egbo37kj.png)
+Gaming continues to grow past pandemic lockdown according to NewZoo report. 
 
 ### [31. Business Trends and Gamer Behavior in Esports on PC and Console](https://hackernoon.com/business-trends-and-gamer-behavior-in-esports-on-pc-and-console)
 ![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-f49362k.jpeg)
  Regulators and competitors like Sony are giving much flak to the proposed Microsoft-Activision tie-up.
 
-### [32. Solaris Offworld Combat Could be the Future of VR Esports](https://hackernoon.com/solaris-offworld-combat-could-be-the-future-of-vr-esports-5r7i3tr5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-vc73wop.jpeg?alt=media&token=a6df6e79-5bba-451d-ba15-5bb6e2d5786f)
-From First Contact Entertainment, Solaris Offworld Combat is a futuristic VR FPS title and one of the newest editions to the Oculus Quest library. It was developed by the same company behind the award-winning Firewall Zero Hour, a game often referred to as "Call of Duty" for the PSVR. 
-
-### [33. Web3 Sports Fantasy Manager Maincard.io Is Breaking Into Esports With Big-Name Partnerships](https://hackernoon.com/web3-sports-fantasy-manager-maincardio-is-breaking-into-esports-with-big-name-partnerships)
+### [32. Web3 Sports Fantasy Manager Maincard.io Is Breaking Into Esports With Big-Name Partnerships](https://hackernoon.com/web3-sports-fantasy-manager-maincardio-is-breaking-into-esports-with-big-name-partnerships)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-pn8337l.jpeg)
 In 2024, Maincard.io aims to allocate up to $500,000 to engage with the world of esports.
+
+### [33. India's Distinction Between Online Games and Real Money Games Delights Esports Industry](https://hackernoon.com/indias-distinction-between-online-games-and-real-money-games-delights-esports-industry)
+![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-ol93ph0.jpeg)
+The Esports industry feels it’s a great move to separate online games and real money games. 
 
 ### [34. Peru Paves Way for the Future of Gaming with State-of-the-Art eSports Center](https://hackernoon.com/peru-unveils-the-future-of-gaming-with-state-of-the-art-esports-center)
 ![](https://cdn.hackernoon.com/images/ZSnNpZ3GejgVSxqs3EyP38vlsLL2-tw83bw1.jpeg)
 The Peruvian Association of Electronic Sports and Video Games (APDEV) has inaugurated “In-Game,” an innovative new center of excellence dedicated to eSports.
 
-### [35. India's Distinction Between Online Games and Real Money Games Delights Esports Industry](https://hackernoon.com/indias-distinction-between-online-games-and-real-money-games-delights-esports-industry)
-![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-ol93ph0.jpeg)
-The Esports industry feels it’s a great move to separate online games and real money games. 
+### [35. Solaris Offworld Combat Could be the Future of VR Esports](https://hackernoon.com/solaris-offworld-combat-could-be-the-future-of-vr-esports-5r7i3tr5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-vc73wop.jpeg?alt=media&token=a6df6e79-5bba-451d-ba15-5bb6e2d5786f)
+From First Contact Entertainment, Solaris Offworld Combat is a futuristic VR FPS title and one of the newest editions to the Oculus Quest library. It was developed by the same company behind the award-winning Firewall Zero Hour, a game often referred to as "Call of Duty" for the PSVR. 
 
 ### [36. Will eSportsFi Be the Next-Gen of GameFi?](https://hackernoon.com/will-esportsfi-be-the-next-gen-of-gamefi)
 ![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-apb3q2e.png)
@@ -154,29 +158,29 @@ Esports tournaments have come a long way since their inception, and with the adv
 ![](https://cdn.hackernoon.com/images/IUr1BTvCalSjJrSiqInFgxYhQZa2-8c93uc3.jpeg)
 Esports, as described by the Harvard International Review, are “video games performed in a highly structured competitive context.”
 
-### [39. India's eSports Lineup at Asian Games 2023: Overview of 4 Titles](https://hackernoon.com/indias-esports-lineup-at-asian-games-2023-overview-of-4-titles)
-![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-cf93upw.jpeg)
-eSports is going to make its debut at the Asian Games 2023 as a proper medal event, while earlier in 2018 it was there as a demonstration title.
-
-### [40. Peruvian Dota 2 Team Triumphs at Pan American eSports Games](https://hackernoon.com/peruvian-dota-2-team-triumphs-at-pan-american-esports-games)
+### [39. Peruvian Dota 2 Team Triumphs at Pan American eSports Games](https://hackernoon.com/peruvian-dota-2-team-triumphs-at-pan-american-esports-games)
 ![](https://cdn.hackernoon.com/images/ZSnNpZ3GejgVSxqs3EyP38vlsLL2-v383uio.jpeg)
 Gamers from Peru’s male and female Dota 2 teams dominated the 2023 Pan American eSports Games in Santiago de Chile, securing gold medals in both categories.
 
-### [41. The Female Faces of the Esports Industry](https://hackernoon.com/the-female-faces-of-the-esports-industry)
-![](https://cdn.hackernoon.com/images/unVWFBouquT1qg5UUOZisDtNuyP2-ef033kh.jpeg)
-One of the features of cybersport disciplines that distinguishes them from standard sports is that there is no strict segregation of genders. 
-
-### [42. Mahjong Meta Verse: The Evolution Of Mahjong Meta Into a Web3 Gaming Theme Park](https://hackernoon.com/mahjongmeta-verse-the-evolution-of-mahjong-meta-into-a-web3-gaming-theme-park)
+### [40. Mahjong Meta Verse: The Evolution Of Mahjong Meta Into a Web3 Gaming Theme Park](https://hackernoon.com/mahjongmeta-verse-the-evolution-of-mahjong-meta-into-a-web3-gaming-theme-park)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-5e02ztn.jpeg)
 Mahjong Meta has been dedicated to creating a competitive esports platform, blending the charm of Mahjong culture with Web3 to serve gaming and enthusiasts.
 
-### [43. Esports Collabs with other Tech Sectors: Fintech, Cloud, and Cybersecurity](https://hackernoon.com/esports-collabs-with-other-tech-sectors-fintech-cloud-and-cybersecurity)
-![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-yw9365e.jpeg)
-Esports is increasingly partnering with other technology sectors like cloud computing, fintech, and cybersecurity.
+### [41. India's eSports Lineup at Asian Games 2023: Overview of 4 Titles](https://hackernoon.com/indias-esports-lineup-at-asian-games-2023-overview-of-4-titles)
+![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-cf93upw.jpeg)
+eSports is going to make its debut at the Asian Games 2023 as a proper medal event, while earlier in 2018 it was there as a demonstration title.
 
-### [44. Democratizing eSports: The Rise of Moxy in a Booming Industry](https://hackernoon.com/democratizing-esports-the-rise-of-moxy-in-a-booming-industry)
+### [42. The Female Faces of the Esports Industry](https://hackernoon.com/the-female-faces-of-the-esports-industry)
+![](https://cdn.hackernoon.com/images/unVWFBouquT1qg5UUOZisDtNuyP2-ef033kh.jpeg)
+One of the features of cybersport disciplines that distinguishes them from standard sports is that there is no strict segregation of genders. 
+
+### [43. Democratizing eSports: The Rise of Moxy in a Booming Industry](https://hackernoon.com/democratizing-esports-the-rise-of-moxy-in-a-booming-industry)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-5h93rsk.jpeg)
 In the ever-evolving terrain of gaming, where new formats constantly spring forth, Moxy is carving out a fresh niche.
+
+### [44. Esports Collabs with other Tech Sectors: Fintech, Cloud, and Cybersecurity](https://hackernoon.com/esports-collabs-with-other-tech-sectors-fintech-cloud-and-cybersecurity)
+![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-yw9365e.jpeg)
+Esports is increasingly partnering with other technology sectors like cloud computing, fintech, and cybersecurity.
 
 ### [45. A 144hz Laptop Is the Way to Go for Gaming in 2023](https://hackernoon.com/a-144hz-laptop-is-the-way-to-go-for-gaming-in-2023)
 ![](https://cdn.hackernoon.com/images/yaJ7zZuvZsfESQX7YzwhXWpPo8H2-fz93r8q.jpeg)
@@ -190,17 +194,17 @@ Cryptocurrency adoption is accelerating at a rapid pace in Africa. Free TON Afri
 ![](https://cdn.hackernoon.com/images/ZSnNpZ3GejgVSxqs3EyP38vlsLL2-gy03bzu.jpeg)
 
 
-### [48. As Chess Gains Recognition as a Sport, Can e-Sports be Far Behind?](https://hackernoon.com/as-chess-gains-recognition-as-a-sport-can-e-sports-be-far-behind-z9cr32l4)
+### [48. Mahjong Meta Launches Web3 Esports Platform](https://hackernoon.com/mahjong-meta-launches-web3-esports-platform)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-w292pig.jpeg)
+Mahjong Meta, the web3 Riichi Mahjong esports platform, is excited to announce the official launch of its highly anticipated game on August 7th.
+
+### [49. As Chess Gains Recognition as a Sport, Can e-Sports be Far Behind?](https://hackernoon.com/as-chess-gains-recognition-as-a-sport-can-e-sports-be-far-behind-z9cr32l4)
 ![](https://cdn.hackernoon.com/drafts/eq6h3y1q.png)
 Controllers and keyboards versus cleats and catcher’s mitts. As esports continues to become one of the most popular forms of entertainment on the planet, questions about its definition grow louder. The big one is: does esports count as a sport, or is it something else?
 
-### [49. Exploring Indian eSports: Triumphs, Partnerships, and Game Launches](https://hackernoon.com/exploring-indian-esports-triumphs-partnerships-and-game-launches)
+### [50. Exploring Indian eSports: Triumphs, Partnerships, and Game Launches](https://hackernoon.com/exploring-indian-esports-triumphs-partnerships-and-game-launches)
 ![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-ro936va.jpeg)
 The month of July has been nothing short of spectacular for the Indian eSports community, as the industry continues to surge forward with impressive growth.
-
-### [50. Mahjong Meta Launches Web3 Esports Platform](https://hackernoon.com/mahjong-meta-launches-web3-esports-platform)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-w292pig.jpeg)
-Mahjong Meta, the web3 Riichi Mahjong esports platform, is excited to announce the official launch of its highly anticipated game on August 7th.
 
 ### [51. The HackerNoon Newsletter: Why You Shouldn’t Judge by PnL Alone (9/23/2025)](https://hackernoon.com/9-23-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_47_hjb9w2caxnh096nsp4knf0hz.png)
@@ -210,17 +214,17 @@ Mahjong Meta, the web3 Riichi Mahjong esports platform, is excited to announce t
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oa02vsi.webp)
 LOLTV.gg is a hub for League of Legends eSports, inspired by HLTV.org and VLR.gg.
 
-### [53. Why E-sports Needs Blockchain Tech to Thrive](https://hackernoon.com/why-e-sports-needs-blockchain-tech-to-thrive)
+### [53. What is Megafans? - Diving into a New P2E Esports Platform](https://hackernoon.com/what-is-megafans-diving-into-a-new-p2e-esports-platform)
+![](https://cdn.hackernoon.com/images/hvBf6yZOxyfCQQY9n6JLFtPhf952-9ue3pfj.jpeg)
+Megafans is a platform that offers mobile esports gaming, play to earn games, tournaments, and more.
+
+### [54. Why E-sports Needs Blockchain Tech to Thrive](https://hackernoon.com/why-e-sports-needs-blockchain-tech-to-thrive)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-zq93j1w.jpeg)
 E-sports teams and players, as well as casual gamers, can now compete for crypto  on any game, on any platform capable of streaming to twitch, Facebook Gaming.
 
-### [54. Exeedme Launches the First Esports Integrity Commission Approved Play2Earn Platform](https://hackernoon.com/exeedme-launches-the-first-esports-integrity-commission-approved-play2earn-platform-tuh33ga)
+### [55. Exeedme Launches the First Esports Integrity Commission Approved Play2Earn Platform](https://hackernoon.com/exeedme-launches-the-first-esports-integrity-commission-approved-play2earn-platform-tuh33ga)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-l7i33ck.jpeg)
 Exeedme is the first Blockchain Play2Earn platform in history to integrate esports integrity commission's integrity codes and standards
-
-### [55. What is Megafans? - Diving into a New P2E Esports Platform](https://hackernoon.com/what-is-megafans-diving-into-a-new-p2e-esports-platform)
-![](https://cdn.hackernoon.com/images/hvBf6yZOxyfCQQY9n6JLFtPhf952-9ue3pfj.jpeg)
-Megafans is a platform that offers mobile esports gaming, play to earn games, tournaments, and more.
 
 ### [56. How the War Initiated by the Russian Federation Against Ukraine Impacted Esports](https://hackernoon.com/how-the-war-initiated-by-the-russian-federation-against-ukraine-impacted-esports)
 ![](https://cdn.hackernoon.com/images/1wqQesHetpcM51RpWiJq8o9Gb7k1-7c93kd3.jpeg)

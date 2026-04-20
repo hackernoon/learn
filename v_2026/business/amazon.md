@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [amazon](https://hackernoon.com/tagged/amazon)
+### Let's learn about [Amazon](https://hackernoon.com/tagged/amazon) via these 353 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Hey Alexa, what's happening in the tech world?
 
 ### [1. Guide: How to Install WhatsApp On Amazon Fire Tablet](https://hackernoon.com/guide-how-to-install-whatsapp-on-amazon-fire-tablet)
@@ -203,13 +205,13 @@ A lawsuit filed in San Francisco accuses Roblox of enabling the sexual and finan
 ![](https://cdn.hackernoon.com/images/VjVqLy2M8BXnXwkTikt89ocRNVp2-7418334sn.jpeg)
 Amazon ECS Anywhere gives customers the ability to run Amazon ECS on any infrastructure using the same cloud-based, fully managed, highly scalable container orchestration service and control plane they use in AWS today. 
 
-### [50. How To Cache Secrets Using AWS Lambda Extensions](https://hackernoon.com/how-to-cache-secrets-using-aws-lambda-extensions-ji1531jx)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2Cg2LUhTzHb4kw0oaj48lUOadgo1-r03q315f.png?alt=media&token=81b4b3ab-fc59-442c-90e9-e8eecf280e9a)
-Build a cache layer for secrets stored in AWS Secrets manager using AWS Lambda extension
-
-### [51. How to Use Terraform to Configure AWS Verified Access With an OIDC Google Provider](https://hackernoon.com/how-to-use-terraform-to-configure-aws-verified-access-with-an-oidc-google-provider)
+### [50. How to Use Terraform to Configure AWS Verified Access With an OIDC Google Provider](https://hackernoon.com/how-to-use-terraform-to-configure-aws-verified-access-with-an-oidc-google-provider)
 ![](https://cdn.hackernoon.com/images/cjwcVDmwpbVBV6tzg2NsNKh90hL2-rw932v8.jpeg)
 Configure AWS Verified Access with an OIDC Google provider via Terraform.
+
+### [51. How To Cache Secrets Using AWS Lambda Extensions](https://hackernoon.com/how-to-cache-secrets-using-aws-lambda-extensions-ji1531jx)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2Cg2LUhTzHb4kw0oaj48lUOadgo1-r03q315f.png?alt=media&token=81b4b3ab-fc59-442c-90e9-e8eecf280e9a)
+Build a cache layer for secrets stored in AWS Secrets manager using AWS Lambda extension
 
 ### [52. Creating a Instance Scheduler using AWS CDK](https://hackernoon.com/creating-a-instance-scheduler-using-aws-cdk-p0x3u2v)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fp3MBv6MODlhNECyBHBCl7uErvRr2-3i853u4h.jpeg?alt=media&token=f050b015-2030-4e86-95d8-9514eb4c26ca)
@@ -235,27 +237,27 @@ Amazon has developed a reputation for delivering some of the lowest prices for a
 ![](https://images.unsplash.com/photo-1500004621732-74cd4ad4d53e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The future of technology is, by its very nature, hard to predict. This however shouldn’t stop us from trying because… well, it’s fun! I also seem to be fairly good at it, as my 2018 and 2019 predictions show. So what’s in store for us in 2020 ? Below are my thoughts on the matter. 
 
-### [58. Amazon Is Losing Market Share Across Several Segments to Competitors [A Numbers Game]](https://hackernoon.com/amazon-is-losing-market-share-across-several-segments-to-competitors-a-numbers-game-ydi03zs1)
-![](https://cdn.hackernoon.com/drafts/08n3yyh.png)
-You’ve probably read about how Amazon has put a stop to its paid acquisition. We’ve covered the topic extensively already over the past few weeks, and yet, what we’ve recently discovered sheds some light on the magnitude of this move.
-
-### [59. Amazon Crowds AI Space With Launch of Own Product 'Bedrock'](https://hackernoon.com/amazon-crowds-ai-space-with-launch-of-own-product-bedrock)
+### [58. Amazon Crowds AI Space With Launch of Own Product 'Bedrock'](https://hackernoon.com/amazon-crowds-ai-space-with-launch-of-own-product-bedrock)
 ![](https://cdn.hackernoon.com/images/jeff-bezos-announcing-the-launch-of-ai-product-clgmd4huw000301s61nd3ff1w.png)
 Seemingly uncontent with its position as a trillion dollar company, Amazon decided that it too wanted a piece of the AI pie.
 
-### [60. Why You Should Use IAM Policies to Enforce MFA on AWS](https://hackernoon.com/understand-the-benefits-of-a-force-mfa-aws-iam-policy-before-you-regret-it-f3883w4s)
+### [59. Amazon Is Losing Market Share Across Several Segments to Competitors [A Numbers Game]](https://hackernoon.com/amazon-is-losing-market-share-across-several-segments-to-competitors-a-numbers-game-ydi03zs1)
+![](https://cdn.hackernoon.com/drafts/08n3yyh.png)
+You’ve probably read about how Amazon has put a stop to its paid acquisition. We’ve covered the topic extensively already over the past few weeks, and yet, what we’ve recently discovered sheds some light on the magnitude of this move.
+
+### [60. Scale, Reputation and Other Key Barriers to Entry Protecting Amazon's Monopoly ](https://hackernoon.com/scale-reputation-and-other-key-barriers-to-entry-protecting-amazons-monopoly)
+![](https://cdn.hackernoon.com/images/wooden-barriers-in-front-of-a-building-jtos4xwjjnibg0357yxf2uvt.png)
+Delve into the formidable barriers shielding Amazon's monopoly in the online superstore market. 
+
+### [61. Why You Should Use IAM Policies to Enforce MFA on AWS](https://hackernoon.com/understand-the-benefits-of-a-force-mfa-aws-iam-policy-before-you-regret-it-f3883w4s)
 ![](https://cdn.hackernoon.com/drafts/zl1n2bz8.png)
 In my past life, I was an auditor and performed hundreds of cybersecurity 
 readiness assessments. These were sometimes called “gap analysis” and 
 the essential purpose of these assessments were to provide organizations with the answers to the test for their upcoming official assessment.
 
-### [61. WTF is AWS Traffic Mirroring? ](https://hackernoon.com/wtf-is-aws-traffic-mirroring-2s6i329k)
+### [62. WTF is AWS Traffic Mirroring? ](https://hackernoon.com/wtf-is-aws-traffic-mirroring-2s6i329k)
 ![](https://cdn.hackernoon.com/images/o44gm3yz9.jpg)
 What Is Traffic Mirroring (aka Replication) ?
-
-### [62. Scale, Reputation and Other Key Barriers to Entry Protecting Amazon's Monopoly ](https://hackernoon.com/scale-reputation-and-other-key-barriers-to-entry-protecting-amazons-monopoly)
-![](https://cdn.hackernoon.com/images/wooden-barriers-in-front-of-a-building-jtos4xwjjnibg0357yxf2uvt.png)
-Delve into the formidable barriers shielding Amazon's monopoly in the online superstore market. 
 
 ### [63. How to Scrape Amazon Reviews with and without Code](https://hackernoon.com/how-to-scrape-amazon-reviews-with-and-without-code)
 ![](https://cdn.hackernoon.com/images/iyGZHGbRsmhH4SqghTcz4jnH9Eq1-lc92bmb.jpeg)
@@ -309,17 +311,17 @@ It turns out hundreds of workers at that Rialto warehouse tested positive for CO
 ![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-p3734r5.png)
 We released our first batch of dynamic tech company news pages, combined business overviews with mentions on Hacker Noon and around the web via the Bing News API.  
 
-### [76. Amazon Falcon Lite vs OpenAI ChatGPT - The Large Language Model Battle](https://hackernoon.com/amazon-falcon-lite-vs-openai-chatgpt-the-large-language-model-battle)
+### [76. A Closer Look at Geofencing Technology and Applications](https://hackernoon.com/a-closer-look-at-geofencing-technology-and-applications)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-0p931tr.jpeg)
+Let’s take a deep look at geofencing technology apps, how geofence works, and real-life geofencing examples from big brands.
+
+### [77. Amazon Falcon Lite vs OpenAI ChatGPT - The Large Language Model Battle](https://hackernoon.com/amazon-falcon-lite-vs-openai-chatgpt-the-large-language-model-battle)
 ![](https://cdn.hackernoon.com/images/mtSwKC0EcCVi41252swVE5fO3213-vza3k7e.jpeg)
 Comparing Amazon Falcon Lite and OpenAI ChatGPT: A Comprehensive Review of Large Language Models
 
-### [77. Amazon API Gateway Vs. Application Load Balancer](https://hackernoon.com/amazon-api-gateway-vs-application-load-balancer-un123ua5)
+### [78. Amazon API Gateway Vs. Application Load Balancer](https://hackernoon.com/amazon-api-gateway-vs-application-load-balancer-un123ua5)
 ![](https://cdn.hackernoon.com/images/mx4d3war.jpg)
 We recently wrote about whether API Gateway can act as a Load Balancer. The answer is yes and, in many cases, they are substitutes for each other. But how should we choose which one to use?
-
-### [78. A Closer Look at Geofencing Technology and Applications](https://hackernoon.com/a-closer-look-at-geofencing-technology-and-applications)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-0p931tr.jpeg)
-Let’s take a deep look at geofencing technology apps, how geofence works, and real-life geofencing examples from big brands.
 
 ### [79. Big Tech Made Huge Moves in the Healthcare Industry in the Past Year](https://hackernoon.com/big-tech-made-huge-moves-in-the-healthcare-industry-in-the-past-year)
 ![](https://cdn.hackernoon.com/images/Iqinx7DpeqWKHYOch1C8qGYMqCB2-1w9355s.jpeg)
@@ -329,29 +331,29 @@ With shifting consumer demands for fast and convenient services, healthcare orga
 ![](https://cdn.hackernoon.com/images/wRNYvtpOEveLDNeF8rW4HD5W26D2-mf03rh5.png)
 How a product-first company thinks
 
-### [81. Generative AI: Can we Accelerate Infrastructure as Code With Amazon Q?](https://hackernoon.com/generative-ai-can-we-accelerate-infrastructure-as-code-with-amazon-q)
-![](https://cdn.hackernoon.com/images/LfYcSeJGCWNEK3bEcHHNng7Rjdq1-jb832kz.jpeg)
-In the age of generative AI, do you want to be agile or reinvent the wheel? there is a plethora of tools now,use them in your infrastructure as code journey/
-
-### [82. "Web Usage Was Growing at 2300% a Year (in 1994)," said Jeff Bezos in 1997 Interview ](https://hackernoon.com/web-usage-was-growing-at-2300percent-a-year-in-1994-said-jeff-bezos-in-1997-interview)
+### [81. "Web Usage Was Growing at 2300% a Year (in 1994)," said Jeff Bezos in 1997 Interview ](https://hackernoon.com/web-usage-was-growing-at-2300percent-a-year-in-1994-said-jeff-bezos-in-1997-interview)
 ![](https://cdn.hackernoon.com/images/934YRhnzQ6RgfQPaSqb03NsHlQp2-vc835zk.jpeg)
 What inspired Jeff Bezos to start Amazon? Ride that internet wave! 
 
-### [83. Et Tu, Muske?](https://hackernoon.com/et-tu-muske)
+### [82. Generative AI: Can we Accelerate Infrastructure as Code With Amazon Q?](https://hackernoon.com/generative-ai-can-we-accelerate-infrastructure-as-code-with-amazon-q)
+![](https://cdn.hackernoon.com/images/LfYcSeJGCWNEK3bEcHHNng7Rjdq1-jb832kz.jpeg)
+In the age of generative AI, do you want to be agile or reinvent the wheel? there is a plethora of tools now,use them in your infrastructure as code journey/
+
+### [83. 3 Surprising Truths About AI Forecasting, Revealed by Amazon's Chronos-2](https://hackernoon.com/3-surprising-truths-about-ai-forecasting-revealed-by-amazons-chronos-2)
+![](https://cdn.hackernoon.com/images/iN6H2UigxKapyOHZ6k4N9srFgsw1-7o03amj.png)
+Amazon's new model, Chronos-2, is a "universal" forecasting model designed to handle multivariate tasks.
+
+### [84. Et Tu, Muske?](https://hackernoon.com/et-tu-muske)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-hk92dzu.jpeg)
 Et Tu, Muske?
 
-### [84. Exploring AWS CLI v2 with AWS Single Sign-on](https://hackernoon.com/exploring-aws-cli-v2-with-aws-single-sign-on-343d35cv)
+### [85. Exploring AWS CLI v2 with AWS Single Sign-on](https://hackernoon.com/exploring-aws-cli-v2-with-aws-single-sign-on-343d35cv)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-j62h35w9.jpeg)
 Going back to the 10 of December 2017, AWS introduced AWS Single Sign-On, a service that makes it easy for you to centrally manage SSO access to multiple AWS accounts and business applications.
 
-### [85. What is Cloud Computing for SMBs?](https://hackernoon.com/what-is-cloud-computing-for-smbs)
+### [86. What is Cloud Computing for SMBs?](https://hackernoon.com/what-is-cloud-computing-for-smbs)
 ![](https://cdn.hackernoon.com/images/p51ZMXsHBJfpfjC6du5lyNfcbMH2-yo93q5g.jpeg)
 As companies continue to evolve in the digital age, they are starting to readily approach the world of cloud computing. 
-
-### [86. 3 Surprising Truths About AI Forecasting, Revealed by Amazon's Chronos-2](https://hackernoon.com/3-surprising-truths-about-ai-forecasting-revealed-by-amazons-chronos-2)
-![](https://cdn.hackernoon.com/images/iN6H2UigxKapyOHZ6k4N9srFgsw1-7o03amj.png)
-Amazon's new model, Chronos-2, is a "universal" forecasting model designed to handle multivariate tasks.
 
 ### [87. Coinbase #1 for All the Wrong Reasons, Apple Becomes 'Beta'](https://hackernoon.com/coinbase-1-for-all-the-wrong-reasons-apple-becomes-beta)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-c192bu7.jpeg)
@@ -369,13 +371,13 @@ As I detailed in this recent article surrounding Twitter automation to buy cryp
 ![](https://cdn.hackernoon.com/images/s7Uy4vUGHkagAvzLcOwQqTObOP03-9et35tv.jpeg)
 The crypto market boost comes after the technology giants Amazon and Twitter both disclosed the fact that they are taking cryptocurrencies more seriously
 
-### [91. What Amazon Doesn’t Want You to Know About Its Automation Strategy](https://hackernoon.com/what-amazon-doesnt-want-you-to-know-about-its-automation-strategy-ir1l32f6)
-![](https://cdn.hackernoon.com/drafts/tt12329p.png)
-Being at the forefront of automation, why is Amazon downplaying the impact of AI and robotics?
-
-### [92. How Amazon Treats Warehouse Workers Who Contracted COVID](https://hackernoon.com/how-amazon-treats-warehouse-workers-who-contracted-covid)
+### [91. How Amazon Treats Warehouse Workers Who Contracted COVID](https://hackernoon.com/how-amazon-treats-warehouse-workers-who-contracted-covid)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-n392inj.jpeg)
 Brooks’s COVID-19 hospitalization would change her life dramatically. 
+
+### [92. What Amazon Doesn’t Want You to Know About Its Automation Strategy](https://hackernoon.com/what-amazon-doesnt-want-you-to-know-about-its-automation-strategy-ir1l32f6)
+![](https://cdn.hackernoon.com/drafts/tt12329p.png)
+Being at the forefront of automation, why is Amazon downplaying the impact of AI and robotics?
 
 ### [93. Building Maintenance Mode for your API Gateway Using Terraform](https://hackernoon.com/building-maintenance-mode-for-your-api-gateway-using-terraform-7iz3uv0)
 ![](https://cdn.hackernoon.com/images/w9i3w8h.jpg)
@@ -393,13 +395,13 @@ Anam Alvi is a software engineer working in Amazon's security division. Read her
 ![](https://cdn.hackernoon.com/images/5pQpZNSj2mO0Oi9X4Lrj7YIqfHE2-zi6729bd.jpeg)
 Have you ever wonder what happens inside of an Amazon warehouse? As a software engineer, the supply chain field has plenty of technical challenges.
 
-### [97. Unlocking Doors to Google & Facebook!](https://hackernoon.com/unlocking-doors-to-google-and-facebook)
-![](https://cdn.hackernoon.com/images/fCgPQYd23dfob4RzWDwv8njJpf92-jn93432.jpeg)
-I will share my insights on how to stand out without referrals and ace the notoriously difficult coding interviews.
-
-### [98. How I Cracked the Amazon QAE II Interview](https://hackernoon.com/how-i-cracked-the-amazon-qae-ii-interview)
+### [97. How I Cracked the Amazon QAE II Interview](https://hackernoon.com/how-i-cracked-the-amazon-qae-ii-interview)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ga02qww.jpeg)
 If you're applying for the QAE II position at Amazon, here's everything you need to know.
+
+### [98. Unlocking Doors to Google & Facebook!](https://hackernoon.com/unlocking-doors-to-google-and-facebook)
+![](https://cdn.hackernoon.com/images/fCgPQYd23dfob4RzWDwv8njJpf92-jn93432.jpeg)
+I will share my insights on how to stand out without referrals and ace the notoriously difficult coding interviews.
 
 ### [99. Apple Reigns Supreme, More Bad News at Coinbase](https://hackernoon.com/apple-reigns-supreme-more-bad-news-at-coinbase)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-pr92e0e.jpeg)
@@ -421,189 +423,189 @@ A look at the impact of the U.S. Inflation Reduction Act on tech giants.
 ![](https://cdn.hackernoon.com/drafts/9oa83k5s.png)
 Capitol Hill, Seattle. That’s the location of the most futuristic supermarket on the planet, the Amazon Go Grocery store. Today it opened its doors to the general public for the first time, and this was my experience.
 
-### [104. The Day the Cloud Cracked: AWS Outage Exposes Fragility of Centralized Internet](https://hackernoon.com/the-day-the-cloud-cracked-aws-outage-exposes-fragility-of-centralized-internet)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-la23nak.png)
-AWS crashed for 15 hours taking down Snapchat, Fortnite and 2,500+ companies. 11M users affected. What went wrong.
-
-### [105. Using AWS API Gateway as a Load Balancer](https://hackernoon.com/using-aws-api-gateway-as-a-load-balancer-498i3wbl)
+### [104. Using AWS API Gateway as a Load Balancer](https://hackernoon.com/using-aws-api-gateway-as-a-load-balancer-498i3wbl)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-cq82rjt.jpeg)
 TL;DR: yes, API Gateway can replace what a Load Balancer would usually provide, with a simpler interface and many more features on top of it. The downside is that it doesn’t come cheap.
 
-### [106. Amazon Monopoly. The Rise of Amazon Private Label Brands in 2019](https://hackernoon.com/why-there-is-a-rise-of-amazon-private-label-brands-in-2019-c31b3zhg)
+### [105. Amazon Monopoly. The Rise of Amazon Private Label Brands in 2019](https://hackernoon.com/why-there-is-a-rise-of-amazon-private-label-brands-in-2019-c31b3zhg)
 ![](https://cdn.hackernoon.com/drafts/5u323ze9.png)
 Just look at these 2 names:
 
-### [107. 5 eCommerce Tech Trends That Will Drive Sales Online in 2019](https://hackernoon.com/5-ecommerce-trends-that-will-drive-sales-in-2019-z4eb3xgc)
+### [106. 5 eCommerce Tech Trends That Will Drive Sales Online in 2019](https://hackernoon.com/5-ecommerce-trends-that-will-drive-sales-in-2019-z4eb3xgc)
 ![](https://cdn.hackernoon.com/drafts/pcm3x6n.png)
 E-Commerce is an ever-changing industry due to the nature of innovation that influences it. Each eCommerce trend has to be analyzed in deep and adopted in due if it’s truly going to drive your brand forward. If not, you could be missing out on the projected 6.54 trillion US dollars in 2022.
 
-### [108. Get The Most Out Of Everything You Read  Using Python](https://hackernoon.com/get-the-most-out-of-everything-you-read-using-python-kw1o3uiz)
+### [107. Get The Most Out Of Everything You Read  Using Python](https://hackernoon.com/get-the-most-out-of-everything-you-read-using-python-kw1o3uiz)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5Zz7llkxJtRqaIJy2BQzv4g5Yvm1-147z3uwh.jpeg?alt=media&token=2de6f78e-751c-4d2f-9818-1d321031067f)
 Imagine reading something, and never losing track of that information.
 
-### [109. Awesome Hacks To Master AWS Step Functions](https://hackernoon.com/awesome-hacks-to-master-aws-step-functions-bji3wvv)
+### [108. Awesome Hacks To Master AWS Step Functions](https://hackernoon.com/awesome-hacks-to-master-aws-step-functions-bji3wvv)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-tyd3wp2.jpeg?alt=media&token=62467342-2af1-4914-97cb-8f4e86004c78)
 The use of serverless computing has become a must nowadays, and some of you may already know a thing or two about Amazon Web Services like Lambda Functions, Step Functions, and other services AWS provides. However, if this is the first time you hear about them – fantastic!
 
-### [110. The Pros and Cons of Selling on Amazon and eBay](https://hackernoon.com/the-pros-and-cons-of-selling-on-amazon-and-ebay-ls1r32q5)
-![](https://cdn.hackernoon.com/images/w28432nx.jpg)
-Selling your products on Amazon and eBay seems like an irresistible deal at first. You have their entire customer base at your disposal, and these sites get a hell lot of traffic; what could be a more profitable way to start an eCommerce business?
-
-### [111. Disruption in the Tech Giants Musical Chairs](https://hackernoon.com/disruption-in-the-tech-giants-musical-chairs)
+### [109. Disruption in the Tech Giants Musical Chairs](https://hackernoon.com/disruption-in-the-tech-giants-musical-chairs)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-g492d18.jpeg)
 This week's tech rankings are a bit unusual in that we have new entrants making it to the top 5.
 
-### [112. Interest in Microsoft Wanes 12% While Apple Remains Trendy AF](https://hackernoon.com/interest-in-microsoft-wanes-12percent-while-apple-remains-trendy-af)
+### [110. Interest in Microsoft Wanes 12% While Apple Remains Trendy AF](https://hackernoon.com/interest-in-microsoft-wanes-12percent-while-apple-remains-trendy-af)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jl92i4i.jpeg)
 Interest in Microsoft Wanes 12% while Apple Remains Trendy AF
 
-### [113. The Other SaaS: Satellites as a Service](https://hackernoon.com/satellites-as-a-service-what-why-and-how-ycs3qtf)
+### [111. The Pros and Cons of Selling on Amazon and eBay](https://hackernoon.com/the-pros-and-cons-of-selling-on-amazon-and-ebay-ls1r32q5)
+![](https://cdn.hackernoon.com/images/w28432nx.jpg)
+Selling your products on Amazon and eBay seems like an irresistible deal at first. You have their entire customer base at your disposal, and these sites get a hell lot of traffic; what could be a more profitable way to start an eCommerce business?
+
+### [112. The Other SaaS: Satellites as a Service](https://hackernoon.com/satellites-as-a-service-what-why-and-how-ycs3qtf)
 ![](https://cdn.hackernoon.com/images/4zn3qeb.jpg)
 Satellites as a Service: What is it? The Collaborative/Sharing Economy is now applied to satellites. Now you can “own” your very own satellite, for a fraction of the time and price. Just as Uber enabled anyone to access expensive town cars and chauffeurs and Airbnb enabled us to access beach-side mansions for a single night, this same business model is applying to expensive satellite technology. You don’t need to be a tech billionaire or a government agency to launch your own space fleet into orbit, you can simply rent some of theirs.
 
-### [114. Amazon Advertising Is Unstoppable](https://hackernoon.com/amazon-advertising-is-unstoppable-3u2z352f)
+### [113. Amazon Advertising Is Unstoppable](https://hackernoon.com/amazon-advertising-is-unstoppable-3u2z352f)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-pv2z3f5k.jpeg)
 Read this post for insight into why Amazon Advertising is flourishing -- and how Apple and Google are playing into Amazon's hands. 
+
+### [114. Amazon's Financial Future: Expansion Plans, Leveraging AWS, and Investment in Customer Loyalty](https://hackernoon.com/amazons-financial-future-expansion-plans-leveraging-aws-and-investment-in-customer-loyalty)
+![](https://cdn.hackernoon.com/images/amazon-cldq65sn8000001s67f2thgd2.png)
+Amazon reports slower-than-expected Q4 growth, but Prime and AWS boost revenue. The company removed 18000 job roles but aims for long-term growth.
 
 ### [115. Here We Go Again: 21 Saucy Predictions for 2021](https://hackernoon.com/here-we-go-again-21-saucy-predictions-for-2021-w01p34ro)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-xv1b2885.jpeg)
 21 Predictions for 2021
 
-### [116. Amazon's Financial Future: Expansion Plans, Leveraging AWS, and Investment in Customer Loyalty](https://hackernoon.com/amazons-financial-future-expansion-plans-leveraging-aws-and-investment-in-customer-loyalty)
-![](https://cdn.hackernoon.com/images/amazon-cldq65sn8000001s67f2thgd2.png)
-Amazon reports slower-than-expected Q4 growth, but Prime and AWS boost revenue. The company removed 18000 job roles but aims for long-term growth.
-
-### [117. Amazon Web Services (AWS) Infrastructure, Explained](https://hackernoon.com/amazon-web-services-aws-infrastructure-explained-fs4f3wgv)
+### [116. Amazon Web Services (AWS) Infrastructure, Explained](https://hackernoon.com/amazon-web-services-aws-infrastructure-explained-fs4f3wgv)
 ![](https://images.unsplash.com/photo-1554260570-e9689a3418b8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Before talking about AWS infrastructure first we will see What is the cloud? What is AWS? There are many definitions, but the one that is most relevant to is the idea of an on-demand, pay-as-you-go, IT services that are delivered over the internet.
 
-### [118. Here's How I Moved From AWS To Heroku](https://hackernoon.com/heres-how-i-moved-from-aws-to-heroku-n86p3zvl)
+### [117. Here's How I Moved From AWS To Heroku](https://hackernoon.com/heres-how-i-moved-from-aws-to-heroku-n86p3zvl)
 ![](https://cdn.hackernoon.com/images/2rnj3y7i.jpg)
 In the fall of 2018, I decided it was time to put my application design and development knowledge to use in order to provide a modernized solution for my mother-in-law’s small business. 
 
-### [119. Embracing 'Day One': Amazon's Enduring Philosophy Reshaping Modern Businesses](https://hackernoon.com/embracing-day-one-amazons-enduring-philosophy-reshaping-modern-businesses)
+### [118. Embracing 'Day One': Amazon's Enduring Philosophy Reshaping Modern Businesses](https://hackernoon.com/embracing-day-one-amazons-enduring-philosophy-reshaping-modern-businesses)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-wxa3m3c.png)
 Explore the power of 'Day One' philosophy: Amazon's culture of perpetual innovation, customer obsession, and entrepreneurial agility.
 
-### [120. AWS Lambda For Dummies [Part 2]](https://hackernoon.com/aws-lambda-for-dummies-part-2-xe1l341j)
+### [119. AWS Lambda For Dummies [Part 2]](https://hackernoon.com/aws-lambda-for-dummies-part-2-xe1l341j)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-78f3t14.jpeg?alt=media&token=9cedee72-e0f8-4c02-b690-65ec8a01b286)
 In Part 1 of our Complete AWS Lambda Handbook for Beginners, we gave a refresher on the fundamentals of AWS Lambda and what is AWS Lambda. In this post, we’ll look at AWS Lambda pricing, some interesting Lambda facts and examples of great AWS Lambda use cases in your serverless application. 
 
-### [121. 10 Free Ways to Promote Your Amazon Products](https://hackernoon.com/10-free-ways-to-promote-your-amazon-products-qzs328y)
+### [120. 10 Free Ways to Promote Your Amazon Products](https://hackernoon.com/10-free-ways-to-promote-your-amazon-products-qzs328y)
 ![](https://cdn.hackernoon.com/images/ec2832rh.jpg)
 All products need marketing, especially a new one. Without marketing or promoting new products are unable to gain public attention. There are many cases where a product has no fault and it is perfectly fit for customers, but fails due to poor product promotion. It is easy to launch a product in front of the customers, but remains a challenge to get these products in front of the right people.
 
-### [122. Amazon Layoffs Spark Controversy, Debate Among Stakeholders](https://hackernoon.com/amazon-layoffs-spark-controversy-debate-among-stakeholders)
+### [121. Amazon Layoffs Spark Controversy, Debate Among Stakeholders](https://hackernoon.com/amazon-layoffs-spark-controversy-debate-among-stakeholders)
 ![](https://cdn.hackernoon.com/images/hEHIS1HNfET0SoXRyGoQfxqbuQG3-upc3pxe.jpeg)
 Amazon, the e-commerce giant, has been facing a lot of criticism and backlash for its recent decision to lay off another 9,000 employees by the end of April.
+
+### [122. Introducing a Browser Extension to Detect Amazon Brands ](https://hackernoon.com/introducing-a-browser-extension-to-detect-amazon-brands)
+![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-ttb2i4u.jpeg)
+Amazon isn't completely upfront with what brands they own or don't. That's why The Markup created a browser extension to help with this problem. 
 
 ### [123. Building Machine Learning Models Using AWS SageMaker ](https://hackernoon.com/building-machine-learning-models-using-aws-sagemaker)
 ![](https://cdn.hackernoon.com/images/YqzNjVX0nYVlCUWqv4gnCWnKpey1-qg837f6.jpeg)
 Amazon SageMaker is a popular and full-managed service by Amazon that allows developers and data scientists to build, train and deploy machine learning models. 
 
-### [124. Introducing a Browser Extension to Detect Amazon Brands ](https://hackernoon.com/introducing-a-browser-extension-to-detect-amazon-brands)
-![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-ttb2i4u.jpeg)
-Amazon isn't completely upfront with what brands they own or don't. That's why The Markup created a browser extension to help with this problem. 
-
-### [125. Tokenized Stock Representing Amazon on DeFiChain Splits on a 20-for-1 Basis ](https://hackernoon.com/tokenized-stock-representing-amazon-on-defichain-splits-on-a-20-for-1-basis)
+### [124. Tokenized Stock Representing Amazon on DeFiChain Splits on a 20-for-1 Basis ](https://hackernoon.com/tokenized-stock-representing-amazon-on-defichain-splits-on-a-20-for-1-basis)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-7y93s80.jpeg)
 DeFiChain based dAMZN splits similar to Amazon stock following its stock split. 
 
-### [126. COVID19 Technology Trends Affecting the Spread of the Pandemic ](https://hackernoon.com/covid19-technology-trends-affecting-the-spread-of-the-pandemic-l91032um)
+### [125. COVID19 Technology Trends Affecting the Spread of the Pandemic ](https://hackernoon.com/covid19-technology-trends-affecting-the-spread-of-the-pandemic-l91032um)
 ![](https://cdn.hackernoon.com/images/va1i2328t.jpg)
 Photo Credit, https://nextstrain.org/ncov
+
+### [126. What Working at Amazon Taught Me About Growth and Engineering](https://hackernoon.com/what-working-at-amazon-taught-me-about-growth-and-engineering)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-sv93pkn.jpeg)
+
 
 ### [127. Lessons Straight From the Amazon Playbook](https://hackernoon.com/lessons-straight-from-the-amazon-playbook)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-at039c8.gif.webp)
 Amazon: From an online bookstore to a trillion-dollar e-commerce giant.
 
-### [128. What Working at Amazon Taught Me About Growth and Engineering](https://hackernoon.com/what-working-at-amazon-taught-me-about-growth-and-engineering)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-sv93pkn.jpeg)
-
-
-### [129. How Automatically Scan Docker Images For Vulnerabilities Using Amazon Elastic Container Registry](https://hackernoon.com/how-automatically-scan-docker-images-for-vulnerabilities-using-amazon-elastic-container-registry-4jt3u5y)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-3mz33upo.jpeg?alt=media&token=d4f621b9-0fa2-4a61-9c11-f02b34af0ea6)
-When using Docker to run applications security is a major concern, but it can sometimes be easy to forget as we focus first on functionality. This doesn't need to be the case, as AWS Elastic Container Registry (ECR) can now be setup to automatically scan images on push, and provide feedback on any vulnerabilities that need to be addressed.
-
-### [130. Amazon’s ‘Buy It Now Bonanza’: The Shoppable Spectacle That’s Out to Make Your Wallet Weep](https://hackernoon.com/amazons-buy-it-now-bonanza-the-shoppable-spectacle-thats-out-to-make-your-wallet-weep)
-![](https://cdn.hackernoon.com/images/pC9ETKtznagNvUGUgZ8sqefPnUA3-2y033gr.png)
-Opinion piece: Amazon's upcoming reality show isn't just a knock-off Shark Tank. It's a pretty clever strategy aimed at dominating your future. Here's why.
-
-### [131. Amazon Says Less Than 16 percent of SFP’s U.S. Orders Met The Two-Day Shipping Guarantee](https://hackernoon.com/amazon-says-less-than-16-percent-of-sfps-us-orders-met-the-two-day-shipping-guarantee)
+### [128. Amazon Says Less Than 16 percent of SFP’s U.S. Orders Met The Two-Day Shipping Guarantee](https://hackernoon.com/amazon-says-less-than-16-percent-of-sfps-us-orders-met-the-two-day-shipping-guarantee)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-8n83l2q.jpeg)
 A newly unredacted portion of the Amazon-FTC antitrust lawsuit adds fuel to the allegations that the e-commerce giant essentially forces sellers to use its Fulf
 
-### [132. Forget Chatbots, Meet Actionbots: Why Amazon's Nova Act Could Reshape Web Interaction](https://hackernoon.com/forget-chatbots-meet-actionbots-why-amazons-nova-act-could-reshape-web-interaction)
+### [129. Amazon’s ‘Buy It Now Bonanza’: The Shoppable Spectacle That’s Out to Make Your Wallet Weep](https://hackernoon.com/amazons-buy-it-now-bonanza-the-shoppable-spectacle-thats-out-to-make-your-wallet-weep)
+![](https://cdn.hackernoon.com/images/pC9ETKtznagNvUGUgZ8sqefPnUA3-2y033gr.png)
+Opinion piece: Amazon's upcoming reality show isn't just a knock-off Shark Tank. It's a pretty clever strategy aimed at dominating your future. Here's why.
+
+### [130. How Automatically Scan Docker Images For Vulnerabilities Using Amazon Elastic Container Registry](https://hackernoon.com/how-automatically-scan-docker-images-for-vulnerabilities-using-amazon-elastic-container-registry-4jt3u5y)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-3mz33upo.jpeg?alt=media&token=d4f621b9-0fa2-4a61-9c11-f02b34af0ea6)
+When using Docker to run applications security is a major concern, but it can sometimes be easy to forget as we focus first on functionality. This doesn't need to be the case, as AWS Elastic Container Registry (ECR) can now be setup to automatically scan images on push, and provide feedback on any vulnerabilities that need to be addressed.
+
+### [131. Forget Chatbots, Meet Actionbots: Why Amazon's Nova Act Could Reshape Web Interaction](https://hackernoon.com/forget-chatbots-meet-actionbots-why-amazons-nova-act-could-reshape-web-interaction)
 ![](https://cdn.hackernoon.com/images/8KfqWdSlLQSDlSyrVkkDcZeise93-pw13b3w.gif.webp)
 Nova Act has a 94% success rate interacting with finicky calendar widgets. The toolkit is Amazon’s first public step toward artificial general intelligence.
 
-### [133. You Absolutely Need To Read This To Master AWS Lambda [Part 1]](https://hackernoon.com/you-absolutely-need-to-read-this-to-master-aws-lambda-part-1-ydr3wcs)
+### [132. You Absolutely Need To Read This To Master AWS Lambda [Part 1]](https://hackernoon.com/you-absolutely-need-to-read-this-to-master-aws-lambda-part-1-ydr3wcs)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-ec5e3t78.jpeg?alt=media&token=23b4df8e-43b4-45a9-ab6f-2ced98c9a005)
 Welcome to the Serverless world. One of the first things you’ll hear about is AWS Lambda - and you’ll continue to keep hearing about it! While architecture can be serverless without Lambdas involved, it’s very often the key component within a serverless application. In the first post of this 3-part AWS Lambda Handbook series, we run through what is AWS Lambda, dialling back to basics with the various terminology, how to create a Lambda function and how to run it. 
 
-### [134. The 449-Page Antitrust Report on Big Tech Monopolies: Key Takeways](https://hackernoon.com/the-449-page-antitrust-report-on-big-tech-monopolies-key-takeways-ep4b3t5s)
+### [133. The 449-Page Antitrust Report on Big Tech Monopolies: Key Takeways](https://hackernoon.com/the-449-page-antitrust-report-on-big-tech-monopolies-key-takeways-ep4b3t5s)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWeVnMlCdKaWlNIW0pYWlfsExkgm1-tm2r3wdj.jpeg?alt=media&token=af9d766e-73bb-4cd1-b4ce-60783376d6f0)
 On October 6th 2020, the House lawmakers released a 449-page report investigating how Amazon, Apple, Facebook and Google managed to turn from “scrappy” start-ups into “the kinds of monopolies we saw last in the era of oil barons and railroad tycoons”. This comparison is not misleading since data is referred to as the new oil.
+
+### [134. Google Brings Facebook and Amazon into Its Open Bidding Fold](https://hackernoon.com/google-brings-facebook-and-amazon-into-its-open-bidding-fold)
+![](https://cdn.hackernoon.com/images/big-friends-helping-each-other-out-c5jeo4gk04eztgrkztcykjey.png)
+Google Further Stunts Header Bidding by Working to Bring Facebook and Amazon into Its Open Bidding Fold
 
 ### [135. Upskilling 2025: One of Amazon Biggest Plans in History to Train 100,000 Employees.](https://hackernoon.com/upskilling-2025-one-of-amazon-biggest-plans-in-history-to-train-100000-employees-ua4m3yik)
 ![](https://cdn.hackernoon.com/drafts/9ekp3yo0.png)
 The world is heading to the new age of technology and automation. Companies must also adapt to the new rise of technology for sure. Well, Amazon is certainly on the right track.
 
-### [136. Google Brings Facebook and Amazon into Its Open Bidding Fold](https://hackernoon.com/google-brings-facebook-and-amazon-into-its-open-bidding-fold)
-![](https://cdn.hackernoon.com/images/big-friends-helping-each-other-out-c5jeo4gk04eztgrkztcykjey.png)
-Google Further Stunts Header Bidding by Working to Bring Facebook and Amazon into Its Open Bidding Fold
+### [136. Identifying Fake Reviews On Amazon](https://hackernoon.com/identifying-fake-reviews-on-amazon-olx326s)
+![](https://hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-few34vp.jpeg)
+Spotting the fakes isn’t always possible, but here are some tips
 
 ### [137. Mission Statements, Business Storytelling and Jeff Bezos’s Day 1 Philosophy](https://hackernoon.com/mission-statements-business-storytelling-and-jeff-bezoss-day-1-philosophy)
 ![](https://cdn.hackernoon.com/images/jeff-bezos-sitting-on-a-pile-of-amazon-boxes-o4s4wtzb6m7otpqkcjrjsgsb.png)
 A relatable and memorable business story will positively influence every organizational level, inspiring the right strategic actions.
 
-### [138. Identifying Fake Reviews On Amazon](https://hackernoon.com/identifying-fake-reviews-on-amazon-olx326s)
-![](https://hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-few34vp.jpeg)
-Spotting the fakes isn’t always possible, but here are some tips
-
-### [139. How To Use Amazon API Gateway to Decouple and Scale Serverless Architectures](https://hackernoon.com/how-to-use-amazon-api-gateway-to-decouple-and-scale-serverless-architectures-4c1y3u1z)
+### [138. How To Use Amazon API Gateway to Decouple and Scale Serverless Architectures](https://hackernoon.com/how-to-use-amazon-api-gateway-to-decouple-and-scale-serverless-architectures-4c1y3u1z)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-2sj3uy8.webp?alt=media&token=de7940ba-77c4-4990-95a9-8bd7028ac376)
 One of the benefits of Serverless architectures is the possibility of scaling applications without worrying about load balancers and clusters of servers. While services like AWS Lambda hold their promises on this area, there are usually misconceptions about how they work.
 
-### [140. Production-Ready Serverless Composition and Orchestration](https://hackernoon.com/production-ready-serverless-composition-and-orchestration-m04w36nj)
+### [139. Production-Ready Serverless Composition and Orchestration](https://hackernoon.com/production-ready-serverless-composition-and-orchestration-m04w36nj)
 ![](https://cdn.hackernoon.com/drafts/8hqk32r9.png)
 A strong and mature trend in modern cloud software development is to implement components that are:
 
-### [141. AWS re:Invent: The Five Most Important Serverless Announcements](https://hackernoon.com/aws-reinvent-the-five-most-important-serverless-announcements-ce1v31f1)
+### [140. AWS re:Invent: The Five Most Important Serverless Announcements](https://hackernoon.com/aws-reinvent-the-five-most-important-serverless-announcements-ce1v31f1)
 ![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-js1535ar.jpeg)
 Top 5 Picks on Serverless Announcements at AWS re:Invent
+
+### [141. How Amazonian Thinking Turned Me Into a Remote Work Optimist](https://hackernoon.com/how-amazonian-thinking-turned-me-into-a-remote-work-optimist)
+![](https://cdn.hackernoon.com/images/oRrc1XjOivXThYbwovbyF9tZD5R2-hcap37fu.jpeg)
+How Amazonian thinking and communication tools are turning me into a remote work optimist.
 
 ### [142. Fullstack Ethics: Privacy Can't Be Just a Luxury Good](https://hackernoon.com/fullstack-ethics-privacy-cant-be-just-a-luxury-good-ykai37l9)
 ![](https://images.unsplash.com/photo-1526566661780-1a67ea3c863e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 In the final season of Silicon Valley, Hooli ex–CEO Gavin Belson announces “tethics”, a portmanteau of “tech ethics” and a pledge companies can sign to show they uphold the principles thereof. The idea catches on, and it becomes deeply unpopular for a company to not be “tethical”. Pied Piper founder Richard Hendricks is the lone holdout, objecting that the pledge is meaningless.
 
-### [143. How Amazonian Thinking Turned Me Into a Remote Work Optimist](https://hackernoon.com/how-amazonian-thinking-turned-me-into-a-remote-work-optimist)
-![](https://cdn.hackernoon.com/images/oRrc1XjOivXThYbwovbyF9tZD5R2-hcap37fu.jpeg)
-How Amazonian thinking and communication tools are turning me into a remote work optimist.
+### [143. 254 Stories To Learn About Amazon](https://hackernoon.com/254-stories-to-learn-about-amazon)
+![](https://cdn.hackernoon.com/images/github/amazon-135.png)
+Learn everything you need to know about Amazon via these 254 free HackerNoon stories.
 
 ### [144. The Opinion Economy](https://hackernoon.com/the-opinion-economy-6kk531e7)
 ![](https://cdn.hackernoon.com/images/8p3n931hh.jpg)
 What yours is worth and why it matters 
 
-### [145. 254 Stories To Learn About Amazon](https://hackernoon.com/254-stories-to-learn-about-amazon)
-![](https://cdn.hackernoon.com/images/github/amazon-135.png)
-Learn everything you need to know about Amazon via these 254 free HackerNoon stories.
-
-### [146. Amazon Data Science Interview: Window Functions and Aliasing](https://hackernoon.com/amazon-data-science-interview-window-functions-and-aliasing-cf1e33r3)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-t76628pg.jpeg)
-I have an advanced data science interview question from Amazon today. This question is going to test your date manipulation and formatting skills as well as our window function knowledge. 
-
-### [147. How to Mirror iPhone to Firestick [Complete Guide]](https://hackernoon.com/how-to-mirror-iphone-to-firestick-complete-guide-y11s35cb)
-![](https://cdn.hackernoon.com/images/iFS2DYGBnQczE8k36x9hpv8MYse2-fbcl34hn.jpeg)
-In this guide, I will teach you the easiest way to mirror your iPhone or any other iOS device to Firestick.
-
-### [148. One Engineer, Hundreds of Motors, and a $0.06 App That Saves a Single Amazon Site Over $100K a Year](https://hackernoon.com/one-engineer-hundreds-of-motors-and-a-$006-app-that-saves-a-single-amazon-site-over-$100k-a-year)
+### [145. One Engineer, Hundreds of Motors, and a $0.06 App That Saves a Single Amazon Site Over $100K a Year](https://hackernoon.com/one-engineer-hundreds-of-motors-and-a-$006-app-that-saves-a-single-amazon-site-over-$100k-a-year)
 ![](https://cdn.hackernoon.com/images/hCDtP36EbIXKZboTxQCypL1xb9o2-6m038dc.png)
 A solo Amazon engineer built a $0.06 app that monitors 500+ motors, prevents failures, and saves $100K+ a year — all without a team or budget
 
-### [149. Tips To Secure Your AWS Account](https://hackernoon.com/tips-to-secure-your-aws-account)
+### [146. Tips To Secure Your AWS Account](https://hackernoon.com/tips-to-secure-your-aws-account)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-wf92a7r.jpeg)
 It is no news that Cloud Computing technology has come to stay.
+
+### [147. Amazon Data Science Interview: Window Functions and Aliasing](https://hackernoon.com/amazon-data-science-interview-window-functions-and-aliasing-cf1e33r3)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-t76628pg.jpeg)
+I have an advanced data science interview question from Amazon today. This question is going to test your date manipulation and formatting skills as well as our window function knowledge. 
+
+### [148. How to Mirror iPhone to Firestick [Complete Guide]](https://hackernoon.com/how-to-mirror-iphone-to-firestick-complete-guide-y11s35cb)
+![](https://cdn.hackernoon.com/images/iFS2DYGBnQczE8k36x9hpv8MYse2-fbcl34hn.jpeg)
+In this guide, I will teach you the easiest way to mirror your iPhone or any other iOS device to Firestick.
+
+### [149. The Day the Cloud Cracked: AWS Outage Exposes Fragility of Centralized Internet](https://hackernoon.com/the-day-the-cloud-cracked-aws-outage-exposes-fragility-of-centralized-internet)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-la23nak.png)
+AWS crashed for 15 hours taking down Snapchat, Fortnite and 2,500+ companies. 11M users affected. What went wrong.
 
 ### [150. MongoDB vs. DynamoDB: Choosing the Best Database for Your Business](https://hackernoon.com/mongodb-vs-dynamodb-choosing-the-best-database-for-your-business-oqh34gv)
 ![](https://cdn.hackernoon.com/images/n9uGIYN6nPa0y5U5xpRtPWt8jx52-ge934rx.jpeg)
@@ -613,33 +615,33 @@ All about MongoDB vs DynamoDB. Explore benefits, and in-depth comparison to find
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-5z239qq.jpeg)
 The Markup analyzed the connection between income and Ring camera usage using a database of Neighbors posts from 2018 to 2020
 
-### [152. FAANG Engineers Report Median Base Salary of $150k to $200k](https://hackernoon.com/faang-engineers-report-median-base-salary-of-$150k-to-$200k)
+### [152. 6 Reasons to Use Amazon Redshift](https://hackernoon.com/6-reasons-to-use-amazon-redshift-qp3m3769)
+![](https://cdn.hackernoon.com/images/UWyNkY1YJlSSh6OgpANYpdefg8z1-nzmf29vc.jpeg)
+A quick guide to Amazon Redshift's benefits and use cases. Learn why your team might want to make the SHIFT to Amazon Redshift.
+
+### [153. FAANG Engineers Report Median Base Salary of $150k to $200k](https://hackernoon.com/faang-engineers-report-median-base-salary-of-$150k-to-$200k)
 ![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-aq03alg.gif.webp)
 According to a user-created poll, the median base salary of a user on Blind is between $150,000 to $200,000
 
-### [153. Apple Surpasses Amazon for Most Talked About Tech Company This Week](https://hackernoon.com/apple-surpasses-amazon-for-most-talked-about-tech-company-this-week)
+### [154. Apple Surpasses Amazon for Most Talked About Tech Company This Week](https://hackernoon.com/apple-surpasses-amazon-for-most-talked-about-tech-company-this-week)
 ![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-f393mqe.jpeg)
 This week, Apple (+14.3%) surpassed Amazon (-2.7%) for the top spot in HackerNoon’s free tech company data reports. HackerNoon free tech company data reports. 
-
-### [154. 6 Reasons to Use Amazon Redshift](https://hackernoon.com/6-reasons-to-use-amazon-redshift-qp3m3769)
-![](https://cdn.hackernoon.com/images/UWyNkY1YJlSSh6OgpANYpdefg8z1-nzmf29vc.jpeg)
-A quick guide to Amazon Redshift's benefits and use cases. Learn why your team might want to make the SHIFT to Amazon Redshift.
 
 ### [155. Amazon is in (federal) trouble](https://hackernoon.com/amazon-is-in-federal-trouble)
 ![](https://cdn.hackernoon.com/images/federal-trouble-e4014c2dpujdeuj1l9978m84.png)
 FTC = The Plaintiff, & Amazon = The Defendant of this case. 17 other states are also suing Amazon. 
 
-### [156. How To Eliminate Leaky S3 Buckets Without Writing A Line Of Code](https://hackernoon.com/how-to-eliminate-leaky-s3-buckets-without-writing-a-line-of-code-s9113u32)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fv36bObIcVQTZjP0gbaSbgRj4FD52-122028zo.jpeg?alt=media&token=bc75218f-dc5f-43e0-9176-6c613350b6b4)
-FedEx
+### [156. Building QR Code Generator in Serverless World using Kumologica](https://hackernoon.com/building-qr-code-generator-in-serverless-world-using-kumologica-cx1f3u6d)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7wyJfrZkKUSC50eZ7cAqeB7Kriz2-kc2s3u2n.jpeg?alt=media&token=b7d5bece-88fe-4c23-a5f2-c7fa284f9f72)
+The concepts of social distancing, contactless approach and safety first have now become the new normal in our present COVID induced downturn.
 
 ### [157. DeepComposer By Amazon: First Neural Network Music Synthesizer](https://hackernoon.com/amazon-introduced-deepcomposer-a-neural-network-music-synthesizer-5h292gsw)
 ![](https://cdn.hackernoon.com/images/g4cg2g6y.jpg)
 Amazon introduced the DeepComposer music synthesizer and the eponymous cloud-based music creation service based on generative adversarial neural networks. Using them, the user can set the main melody on the synthesizer and get a full song, in which the original part is supplemented with drums, guitar and other instruments.
 
-### [158. Building QR Code Generator in Serverless World using Kumologica](https://hackernoon.com/building-qr-code-generator-in-serverless-world-using-kumologica-cx1f3u6d)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7wyJfrZkKUSC50eZ7cAqeB7Kriz2-kc2s3u2n.jpeg?alt=media&token=b7d5bece-88fe-4c23-a5f2-c7fa284f9f72)
-The concepts of social distancing, contactless approach and safety first have now become the new normal in our present COVID induced downturn.
+### [158. How To Eliminate Leaky S3 Buckets Without Writing A Line Of Code](https://hackernoon.com/how-to-eliminate-leaky-s3-buckets-without-writing-a-line-of-code-s9113u32)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fv36bObIcVQTZjP0gbaSbgRj4FD52-122028zo.jpeg?alt=media&token=bc75218f-dc5f-43e0-9176-6c613350b6b4)
+FedEx
 
 ### [159. How the Environment is Paying for our Prime Day Discounts](https://hackernoon.com/how-the-environment-is-paying-for-our-prime-day-discounts-3sn3tp1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHYvPuiZzLZecqhHMZC18Wt9aM1I2-133v3tqk.png?alt=media&token=e8650d58-46a6-43b5-a167-1a9e25dc905e)
@@ -661,33 +663,33 @@ Are you thinking about writing a book? Self-publishing can be a great way to get
 ![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-t2037mh.jpeg)
 Hundreds of Google and Amazon employees anonymously sign a letter opposing the tech giants’ deal with Israel.
 
-### [164. Interface Interference, Roach Motel, Misdirection, Sneaking, & Confirmshaming with Amazon](https://hackernoon.com/interface-interference-roach-motel-misdirection-sneaking-and-confirmshaming-with-amazon)
-![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-dark-patterns-used-to-manipulate-users-yf27zpwfkkj4uba9glis8kwo.png)
-These are the Manipulative Designs (or Dark Patterns) used during Prime enrollment flow to ensure conversion of members.
-
-### [165. More Than Just an OS: Microsoft Stays at #1](https://hackernoon.com/more-than-just-an-os-microsoft-stays-at-1)
+### [164. More Than Just an OS: Microsoft Stays at #1](https://hackernoon.com/more-than-just-an-os-microsoft-stays-at-1)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-yo92dkg.jpeg)
 More Than Just an OS: Microsoft Stays at #1
+
+### [165. Interface Interference, Roach Motel, Misdirection, Sneaking, & Confirmshaming with Amazon](https://hackernoon.com/interface-interference-roach-motel-misdirection-sneaking-and-confirmshaming-with-amazon)
+![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-dark-patterns-used-to-manipulate-users-yf27zpwfkkj4uba9glis8kwo.png)
+These are the Manipulative Designs (or Dark Patterns) used during Prime enrollment flow to ensure conversion of members.
 
 ### [166. 98 Stories To Learn About Netflix](https://hackernoon.com/98-stories-to-learn-about-netflix)
 ![](https://cdn.hackernoon.com/images/github/netflix-998.png)
 Learn everything you need to know about Netflix via these 98 free HackerNoon stories.
 
-### [167. How Rampant is COVID in Amazon Warehouses?](https://hackernoon.com/how-rampant-is-covid-in-amazon-warehouses)
+### [167. The Noonification: How Amazon Treats Warehouse Workers Who Contracted COVID (11/30/2022)](https://hackernoon.com/11-30-2022-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+11/30/2022: Top 5 stories on the Hackernoon homepage!
+
+### [168. How Rampant is COVID in Amazon Warehouses?](https://hackernoon.com/how-rampant-is-covid-in-amazon-warehouses)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-uvb2iu7.jpeg)
 COVID cases in Amazon warehouses continue to pile on, and workers say that the company is cutting down its COVID protocols.
-
-### [168. Dante's Inferno Predicted Amazon's Halo Watch](https://hackernoon.com/dantes-inferno-predicted-amazons-halo-watch-5sp3wwk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXM8NmGvSK4TaDOyKJpkRmNHMu2l1-813d3t3n.jpeg?alt=media&token=a8595229-425c-4b78-ade1-349c92bf2021)
-In the epic poem The Inferno, Dante journeys through the layers of hell—resembling an upside-down nine-layer cake as pictured —guided by the poet Virgil who is the height of human reason and understanding. Virgil's insight is so complete that he can read Dante's mind, understanding his thoughts and emotions better than Dante does. 
 
 ### [169. How You Can Reduce Costs on AWS Lambda](https://hackernoon.com/how-you-can-reduce-costs-on-aws-lambda-ik4j3wn3)
 ![](https://cdn.hackernoon.com/images/na3z3wnp.jpg)
 As a Serverless computing service, Lambda already saves hundreds of thousands of dollars for many companies out there. While traditional server-based infrastructures usually lead to overprovisioning and waste, the Serverless pay-per-use model enables cost-effective cloud spending.
 
-### [170. The Noonification: How Amazon Treats Warehouse Workers Who Contracted COVID (11/30/2022)](https://hackernoon.com/11-30-2022-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-11/30/2022: Top 5 stories on the Hackernoon homepage!
+### [170. Dante's Inferno Predicted Amazon's Halo Watch](https://hackernoon.com/dantes-inferno-predicted-amazons-halo-watch-5sp3wwk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXM8NmGvSK4TaDOyKJpkRmNHMu2l1-813d3t3n.jpeg?alt=media&token=a8595229-425c-4b78-ade1-349c92bf2021)
+In the epic poem The Inferno, Dante journeys through the layers of hell—resembling an upside-down nine-layer cake as pictured —guided by the poet Virgil who is the height of human reason and understanding. Virgil's insight is so complete that he can read Dante's mind, understanding his thoughts and emotions better than Dante does. 
 
 ### [171. Why New Hollywood Is Winning During the Pandemic ](https://hackernoon.com/why-new-hollywood-is-winning-during-the-pandemic-lwq3zzi)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTolwVCe2KPryOw11aq31tS22Ky1-rl283er4.jpeg?alt=media&token=4f6a3e98-7a0e-435e-8d28-78474d4072a1)
@@ -699,45 +701,45 @@ The COVID-19 pandemic has upended the Old Hollywood distribution system. Movie t
 ![](https://cdn.hackernoon.com/images/aRmYdnxafxXcoMJw8cnG4lp1bOD3-s57233a0.jpeg)
 The AWS Snow Family is a group of three products that solved the problem of slow data transfers and edge computing associated with cloud storage. 
 
-### [173. Learnings from the Big Market Tech Failures of Zune, Fire Phone, Windows Phone and Snap Spectacles ](https://hackernoon.com/learnings-from-the-big-market-tech-failures-of-zune-fire-phone-windows-phone-and-snap-spectacles-7p4h3yxw)
-![](https://images.unsplash.com/photo-1473682150760-51d4f94b09d4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Last year, I did a talk, as part of orienting a team of automotive executives in modern way of iterative working, challenging the prevailing belief that perfect pre-planning backed by big money will always be a clear winner. I used a bunch of highly hyped tech failures to drive the point home. The talk inspired great discussions, and led to sea change in how we ended up working together afterwards. I hope you will find it equally stimulating.
-
-### [174. Using Rainforest API With WordPress [A How-To Guide]](https://hackernoon.com/using-rainforest-api-with-wordpress-a-how-to-guide-zg1032te)
+### [173. Using Rainforest API With WordPress [A How-To Guide]](https://hackernoon.com/using-rainforest-api-with-wordpress-a-how-to-guide-zg1032te)
 ![](https://cdn.hackernoon.com/drafts/1mt4y45.png)
 Rainforest API is an alternative to the Amazon Product API provided to Amazon Associates. If you are thiking of building shopping comparisson sites with Amazon links and you don’t have an API key, or if you want to build a lot of pages very quickly without limitation, using Rainforest API is the answer. If you are serious about earning money as an Amazon Affiliate and want to make thousands of pages, do yourself a favor and start the project off right. 
 
-### [175. Using Lambdas in Production](https://hackernoon.com/using-lambdas-in-production-eo1a3u9k)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtoLY4PCF0TRXOexjyVxnugBnPOD2-33w3yzf.jpeg?alt=media&token=19b38147-6a58-4cf6-9f42-98a46bca2d9a)
-I have been using Lambda in production for about four years now personally, and three years professionally at Volta. Initially, I shipped Lambdas because it was easier than managing servers. At Volta, we now exclusively use server-less services because they are the smartest option for our workloads if we remember to support them correctly. This is a cheat sheet, a checklist of all the things you might want to remember when shipping something new to ensure it runs successfully.
-
-### [176. Here's How Your Favorite Tech Giants Did Financially This Quarter](https://hackernoon.com/heres-how-your-favorite-tech-giants-did-financially)
+### [174. Here's How Your Favorite Tech Giants Did Financially This Quarter](https://hackernoon.com/heres-how-your-favorite-tech-giants-did-financially)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-b692dpf.jpeg)
 Tech giants reported their earnings this past week and stories about these results played a role in the latest round of HackerNoon Tech Company rankings. 
 
-### [177. How Big (and Small) Brands Are Cultivating New Use Cases for NFTs](https://hackernoon.com/how-big-and-small-brands-are-cultivating-new-use-cases-for-nfts)
-![](https://cdn.hackernoon.com/images/amazon-colorful-nfts-collectibles-clfstr6py000201s6bxjtgjs1.png)
-So while on the surface it may seem like the crypto industry has slowed down, it hasn’t stalled development.
+### [175. Learnings from the Big Market Tech Failures of Zune, Fire Phone, Windows Phone and Snap Spectacles ](https://hackernoon.com/learnings-from-the-big-market-tech-failures-of-zune-fire-phone-windows-phone-and-snap-spectacles-7p4h3yxw)
+![](https://images.unsplash.com/photo-1473682150760-51d4f94b09d4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Last year, I did a talk, as part of orienting a team of automotive executives in modern way of iterative working, challenging the prevailing belief that perfect pre-planning backed by big money will always be a clear winner. I used a bunch of highly hyped tech failures to drive the point home. The talk inspired great discussions, and led to sea change in how we ended up working together afterwards. I hope you will find it equally stimulating.
 
-### [178. How To Make A Cost Effective API Serverless Infrastructures](https://hackernoon.com/how-to-make-a-cost-effective-api-serverless-infrastructures-q41f3uy8)
+### [176. Using Lambdas in Production](https://hackernoon.com/using-lambdas-in-production-eo1a3u9k)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtoLY4PCF0TRXOexjyVxnugBnPOD2-33w3yzf.jpeg?alt=media&token=19b38147-6a58-4cf6-9f42-98a46bca2d9a)
+I have been using Lambda in production for about four years now personally, and three years professionally at Volta. Initially, I shipped Lambdas because it was easier than managing servers. At Volta, we now exclusively use server-less services because they are the smartest option for our workloads if we remember to support them correctly. This is a cheat sheet, a checklist of all the things you might want to remember when shipping something new to ensure it runs successfully.
+
+### [177. How To Make A Cost Effective API Serverless Infrastructures](https://hackernoon.com/how-to-make-a-cost-effective-api-serverless-infrastructures-q41f3uy8)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-5qj3u3l.jpeg?alt=media&token=19e6d239-d79c-4e9c-a65d-1ba379f33cc4)
 AWS API Gateway is a great service but can be quite expensive, and even cost-prohibitive in some cases.
 
-### [179. What is AWS Key Management Service (KMS)?](https://hackernoon.com/aws-key-management-service-kms-djwf3zvd)
+### [178. How Big (and Small) Brands Are Cultivating New Use Cases for NFTs](https://hackernoon.com/how-big-and-small-brands-are-cultivating-new-use-cases-for-nfts)
+![](https://cdn.hackernoon.com/images/amazon-colorful-nfts-collectibles-clfstr6py000201s6bxjtgjs1.png)
+So while on the surface it may seem like the crypto industry has slowed down, it hasn’t stalled development.
+
+### [179. How to Build a Question and Answer Chatbot with Amazon Kendra and AWS Fargate](https://hackernoon.com/how-to-build-a-question-and-answer-chatbot-with-amazon-kendra-and-aws-fargate-1i2u30k8)
+![](https://cdn.hackernoon.com/drafts/2x23b3whp.png)
+Amazon announced the general availability of Amazon Kendra a few weeks ago, Kendra is a highly accurate and easy to use enterprise search service powered by machine learning.
+
+### [180. What is AWS Key Management Service (KMS)?](https://hackernoon.com/aws-key-management-service-kms-djwf3zvd)
 ![](https://cdn.hackernoon.com/drafts/osx63zrp.png)
 When we enable the key rotation it would reduce the chance that a compromised customer master key (CMK) could be used without your knowledge to access AWS resources.
 
-### [180. Did You Know About Amazon’s Health Condition Programs? What This Means for Users](https://hackernoon.com/did-you-know-about-amazons-health-condition-programs-what-this-means-for-users)
+### [181. Did You Know About Amazon’s Health Condition Programs? What This Means for Users](https://hackernoon.com/did-you-know-about-amazons-health-condition-programs-what-this-means-for-users)
 ![](https://cdn.hackernoon.com/images/FolDN4tSsCdh1cgjDOg2CrOig9L2-gt034uk.jpeg)
 A new chapter in Amazon's move into the healthcare industry is upon us — Health Condition Programs. Here's what users should know.
 
-### [181. Apply These Techniques To Improve ML Model Deployment With AWS Lambda](https://hackernoon.com/apply-these-techniques-to-improve-ml-model-deployment-with-aws-lambda-cgv31y6)
+### [182. Apply These Techniques To Improve ML Model Deployment With AWS Lambda](https://hackernoon.com/apply-these-techniques-to-improve-ml-model-deployment-with-aws-lambda-cgv31y6)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fzv3F2f7oorN5YYNFKU3gqrfKzml1-597t3wlp.jpeg?alt=media&token=a4151c00-9d61-4d8f-8b6d-765c9a83ce90)
 As builders of an MLOps platform, we often get asked whether serverless is the right compute architecture to deploy models. The cost savings touted by serverless seem extremely appealing for ML workloads as for other traditional workloads.
-
-### [182. How to Build a Question and Answer Chatbot with Amazon Kendra and AWS Fargate](https://hackernoon.com/how-to-build-a-question-and-answer-chatbot-with-amazon-kendra-and-aws-fargate-1i2u30k8)
-![](https://cdn.hackernoon.com/drafts/2x23b3whp.png)
-Amazon announced the general availability of Amazon Kendra a few weeks ago, Kendra is a highly accurate and easy to use enterprise search service powered by machine learning.
 
 ### [183. 3 Cybersecurity Challenges to Solve Before Drone Delivery](https://hackernoon.com/3-cybersecurity-challenges-to-solve-before-drone-delivery)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-bf03bwn.jpeg)
@@ -756,33 +758,33 @@ The question of whether Amazon Associates Affiliate marketing is dead has been r
 ![](https://cdn.hackernoon.com/drafts/4p1o3v0x.png)
 Currently that appears to include a 10-pack of rubber chickens
 
-### [187. How I Used Amazon Honeycode For Building An Outbound Marketing Engine](https://hackernoon.com/how-i-used-amazon-honeycode-for-building-an-outbound-marketing-engine-sc133uty)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4ENNvNvf6kUpvGANXTnXuzmLYiq2-h91u3u54.jpeg?alt=media&token=18473735-fd48-47ef-86c3-9e80b57a0c90)
-As someone who is constantly exploring avenues to blend engineering with marketing, I was naturally curious to understand how Amazon Honeycode, a no-code app builder can empower marketers in improving their processes.
-
-### [188. The FTC's Next Big Tech to Break is Amazon, but Will Lina Khan Succeed? ](https://hackernoon.com/the-ftcs-next-big-tech-to-break-is-amazon-but-will-lina-khan-succeed)
+### [187. The FTC's Next Big Tech to Break is Amazon, but Will Lina Khan Succeed? ](https://hackernoon.com/the-ftcs-next-big-tech-to-break-is-amazon-but-will-lina-khan-succeed)
 ![](https://cdn.hackernoon.com/images/a-big-guy-putting-the-hammer-down-on-even-a-bigger-guy-x0c0yi7b5lbw785m1gjuygdj.png)
 Lina Khan strikes again on Big Tech! This time, it's AMAZON. 
+
+### [188. How I Used Amazon Honeycode For Building An Outbound Marketing Engine](https://hackernoon.com/how-i-used-amazon-honeycode-for-building-an-outbound-marketing-engine-sc133uty)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4ENNvNvf6kUpvGANXTnXuzmLYiq2-h91u3u54.jpeg?alt=media&token=18473735-fd48-47ef-86c3-9e80b57a0c90)
+As someone who is constantly exploring avenues to blend engineering with marketing, I was naturally curious to understand how Amazon Honeycode, a no-code app builder can empower marketers in improving their processes.
 
 ### [189. While You Were Weekending](https://hackernoon.com/while-you-were-weekending-tg5f3z6e)
 ![](https://cdn.hackernoon.com/images/wq6x3z33.jpg)
 
 
-### [190. There Must Be a Better Way To Build on AWS](https://hackernoon.com/there-must-be-a-better-way-to-build-on-aws-ne1931h6)
-![](https://cdn.hackernoon.com/images/YToRvmjRpcZ4sR5kK7ZCjdfymcd2-o9133wag.jpeg)
-So AWS gives startups $100k in free credits. Google and Azure have similar programs for startups. Then why isn’t every startup CTO starting on the Big Cloud?
-
-### [191. Multi-State Coalition Seeks Comprehensive Relief Against Amazon for Antitrust Violations ](https://hackernoon.com/multi-state-coalition-seeks-comprehensive-relief-against-amazon-for-antitrust-violations)
+### [190. Multi-State Coalition Seeks Comprehensive Relief Against Amazon for Antitrust Violations ](https://hackernoon.com/multi-state-coalition-seeks-comprehensive-relief-against-amazon-for-antitrust-violations)
 ![](https://cdn.hackernoon.com/images/breathtaking-photograph-of-lawyers-arguing-a-case-in-a-courtroom-jury-in-the-background-lis979gay5sarsd61fdtmars.png)
 Discover the extensive relief sought by the Plaintiff States in their legal action against Amazon for alleged violations of various state and federal laws.
+
+### [191. What Exactly is a Performance Improvement Plan (PIP)?](https://hackernoon.com/what-exactly-is-a-performance-improvement-plan-pip)
+![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-6993hdi.jpeg)
+Amazon finds what it believes to be the bottom 6% of employees to put on a performance improvement plan. Here’s everything you might want to know about PIPs.
 
 ### [192. How Machines Learn Emotions: Sentiment Analysis of Amazon Product Reviews](https://hackernoon.com/how-machines-learn-emotions-sentiment-analysis-of-amazon-product-reviews-tfv36br)
 ![](https://cdn.hackernoon.com/images/KECnMDPcEadsrWEAtYTrZtboGmW2-qkap35gg.jpeg)
 How do you train machines to identify emotions? This is a tutorial for sentiment analysis of Amazon product reviews using machine learning algorithms.
 
-### [193. What Exactly is a Performance Improvement Plan (PIP)?](https://hackernoon.com/what-exactly-is-a-performance-improvement-plan-pip)
-![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-6993hdi.jpeg)
-Amazon finds what it believes to be the bottom 6% of employees to put on a performance improvement plan. Here’s everything you might want to know about PIPs.
+### [193. There Must Be a Better Way To Build on AWS](https://hackernoon.com/there-must-be-a-better-way-to-build-on-aws-ne1931h6)
+![](https://cdn.hackernoon.com/images/YToRvmjRpcZ4sR5kK7ZCjdfymcd2-o9133wag.jpeg)
+So AWS gives startups $100k in free credits. Google and Azure have similar programs for startups. Then why isn’t every startup CTO starting on the Big Cloud?
 
 ### [194. "We believe that climate change is the greatest challenge humanity has ever faced" - Luis Felipe Ada](https://hackernoon.com/we-believe-that-climate-change-is-the-greatest-challenge-humanity-has-ever-faced-luis-felipe-ada-qe34310c)
 ![](https://cdn.hackernoon.com/images/tN92BQhoO9hSIj7qCbWP5Te80pF3-3q531j0.jpeg)
@@ -816,110 +818,110 @@ Best Practices of Serverless at Scale 
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-14934ya.png)
 The NFL officially joined the streaming era through a $13 billion deal with Amazon in which TNF games air on Amazon Prime. Here's what this moment means.
 
-### [202. How to Autoscale an Amazon Elastic Kubernetes Service Cluster](https://hackernoon.com/how-to-autoscale-an-amazon-elastic-kubernetes-service-cluster-5wv3ybs)
+### [202. What are the Greatest Shows on TV at the Moment? ](https://hackernoon.com/what-are-the-greatest-shows-on-tv-at-the-moment)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-p6037f2.jpeg)
+This Slogging thread by Jack Boreham, Mónica Freitas, Sara Pinto, Ellen Stevens and Amy Shah occurred in slogging's official #random channel, and has been edited for readability.
+
+### [203. How to Autoscale an Amazon Elastic Kubernetes Service Cluster](https://hackernoon.com/how-to-autoscale-an-amazon-elastic-kubernetes-service-cluster-5wv3ybs)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-rx7v3uos.webp?alt=media&token=6be9b2ff-f78c-4619-a724-a3463ba51afa)
 In this article we are going to consider the two most common methods for Autoscaling in EKS cluster:
 
-### [203. AI and the Prospect of a Post-Big Tech Internet](https://hackernoon.com/ai-and-the-prospect-of-a-post-big-tech-internet)
+### [204. AI and the Prospect of a Post-Big Tech Internet](https://hackernoon.com/ai-and-the-prospect-of-a-post-big-tech-internet)
 ![](https://cdn.hackernoon.com/images/kqO57DhpVeTCl6dvNccTuxNEpiQ2-ow039nn.png)
 Putting all the hype around AI aside, the past five years in tech have been pretty boring. 
 
-### [204. How to Use G-Suite as an Identity Provider For Your AWS Account ](https://hackernoon.com/how-to-use-g-suite-as-an-identity-provider-for-your-aws-account-dn183uem)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMDh388zaweZCNRy6yM5slQY8yA52-hu5n3yx8.jpeg?alt=media&token=b01a620f-4c77-4234-a62c-67e1e4bdba84)
-The idea behind SSO it’s pretty simple, you login into only one place and can use multiple applications.
-
-### [205. DevOps Implementation: Is it Really Worth an IT Company's Investment?](https://hackernoon.com/devops-implementation-is-it-really-worth-an-it-companys-investment)
-![](https://cdn.hackernoon.com/images/ZI6rcoTwwzWS1AH495rMgbPSeWl1-1na36y6.jpeg)
-DevOps has emerged as the future of the software delivery process. Companies are shifting their focus on optimizing software quality and time through DevOps. 
-
-### [206. 3 Risk-Mitigation Lessons That We Learned The Hard Way This Year](https://hackernoon.com/3-risk-mitigation-lessons-that-we-learned-the-hard-way-this-year-d7e3tv0)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWjw4EeLemLRhpURnJYVysTfT6BR2-4h633u0f.jpeg?alt=media&token=5841575d-8d1a-4749-ad25-214e75ed615c)
-What do in-flight refueling maneuvers and cloud-to-cloud migration have in common?
-
-### [207. Modeling Hierarchical Access With AppSync In 3 Simple Steps](https://hackernoon.com/modeling-hierarchical-access-with-appsync-in-3-simple-steps-p9f3tba)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYjziSuGeDecNvCZR0j4bivrb6V13-cl8l3t4w.jpeg?alt=media&token=3a75fd4b-f0ed-40c0-bbf9-af3453da8b12)
-I have been working with a US client to build a first-of-its-kind app for managing medical consents. It falls under HIPAA compliance and it’s paramount that we do not allow unauthorized access to user data.
-
-### [208. The Noonification: The Destroyer (12/29/2022)](https://hackernoon.com/12-29-2022-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-12/29/2022: Top 5 stories on the Hackernoon homepage!
-
-### [209. Alexa, Ask My Website How Many Bad Reviews I Have Today?](https://hackernoon.com/alexa-ask-my-website-how-many-bad-reviews-i-have-today)
+### [205. Alexa, Ask My Website How Many Bad Reviews I Have Today?](https://hackernoon.com/alexa-ask-my-website-how-many-bad-reviews-i-have-today)
 ![](https://cdn.hackernoon.com/images/OJunsT5b6MXihZjDd8QZq7cFCW03-0fd3m2z.jpeg)
 Requiring access to particular information in a repetitive manner is the perfect use case for voice enabled user interface.
 
-### [210. Amazon’s Other Attempts to Delay the Commission’s Investigation](https://hackernoon.com/amazons-other-attempts-to-delay-the-commissions-investigation)
+### [206. DevOps Implementation: Is it Really Worth an IT Company's Investment?](https://hackernoon.com/devops-implementation-is-it-really-worth-an-it-companys-investment)
+![](https://cdn.hackernoon.com/images/ZI6rcoTwwzWS1AH495rMgbPSeWl1-1na36y6.jpeg)
+DevOps has emerged as the future of the software delivery process. Companies are shifting their focus on optimizing software quality and time through DevOps. 
+
+### [207. How to Use G-Suite as an Identity Provider For Your AWS Account ](https://hackernoon.com/how-to-use-g-suite-as-an-identity-provider-for-your-aws-account-dn183uem)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMDh388zaweZCNRy6yM5slQY8yA52-hu5n3yx8.jpeg?alt=media&token=b01a620f-4c77-4234-a62c-67e1e4bdba84)
+The idea behind SSO it’s pretty simple, you login into only one place and can use multiple applications.
+
+### [208. Amazon’s Other Attempts to Delay the Commission’s Investigation](https://hackernoon.com/amazons-other-attempts-to-delay-the-commissions-investigation)
 ![](https://cdn.hackernoon.com/images/a-big-guy-trying-to-stop-traffic-ugprndswd2sy4j4aniwu2zll.png)
 Naturally, the company doesn't want the public to find out about this
 
-### [211. How to Create Amazon EKS Cluster Within its VPC using Terraform](https://hackernoon.com/how-to-create-amazon-eks-cluster-within-its-vpc-using-terraform)
-![](https://cdn.hackernoon.com/images/ywCyl8mvkZWzqsISZFO2B08cv812-3993rrg.jpeg)
-In this blog post, we’ll help you dive into the world of Kubernetes and Infrastructure as Code using Amazon Elastic Kubernetes Service (EKS) and Terraform.
+### [209. The Noonification: The Destroyer (12/29/2022)](https://hackernoon.com/12-29-2022-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+12/29/2022: Top 5 stories on the Hackernoon homepage!
 
-### [212. Why Amazon Won’t Dominate in Groceries](https://hackernoon.com/why-amazon-wont-dominate-in-groceries-li1i3zbl)
-![](https://cdn.hackernoon.com/images/qoth3zec.jpg)
-More than two years after Whole Foods buy, grocery has yet to be “Amazoned.” And here’s why.
+### [210. 3 Risk-Mitigation Lessons That We Learned The Hard Way This Year](https://hackernoon.com/3-risk-mitigation-lessons-that-we-learned-the-hard-way-this-year-d7e3tv0)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWjw4EeLemLRhpURnJYVysTfT6BR2-4h633u0f.jpeg?alt=media&token=5841575d-8d1a-4749-ad25-214e75ed615c)
+What do in-flight refueling maneuvers and cloud-to-cloud migration have in common?
 
-### [213. Does Amazon Follow the Law?](https://hackernoon.com/does-amazon-follow-the-law)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-n993wdz.jpeg)
-Amazon lists its own brands and exclusives above competing products with better ratings.
-
-### [214. Analyzing the Satellite Internet Race](https://hackernoon.com/analyzing-the-satellite-internet-race)
+### [211. Analyzing the Satellite Internet Race](https://hackernoon.com/analyzing-the-satellite-internet-race)
 ![](https://cdn.hackernoon.com/images/nlbb7kYPJSWh1Px3enDoYP3AcYu1-v802vfg.jpeg)
 SpaceX’s Starlink, Amazon’s Project Kuiper, and China's GuoWang are all competing to provide high-speed internet
 
-### [215. Tech Monopolies and Internet Gatekeepers Transcript from John Oliver's Last Week Tonight](https://hackernoon.com/tech-monopolies-and-internet-gatekeepers-transcript-from-john-olivers-last-week-tonight)
+### [212. Modeling Hierarchical Access With AppSync In 3 Simple Steps](https://hackernoon.com/modeling-hierarchical-access-with-appsync-in-3-simple-steps-p9f3tba)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYjziSuGeDecNvCZR0j4bivrb6V13-cl8l3t4w.jpeg?alt=media&token=3a75fd4b-f0ed-40c0-bbf9-af3453da8b12)
+I have been working with a US client to build a first-of-its-kind app for managing medical consents. It falls under HIPAA compliance and it’s paramount that we do not allow unauthorized access to user data.
+
+### [213. How to Create Amazon EKS Cluster Within its VPC using Terraform](https://hackernoon.com/how-to-create-amazon-eks-cluster-within-its-vpc-using-terraform)
+![](https://cdn.hackernoon.com/images/ywCyl8mvkZWzqsISZFO2B08cv812-3993rrg.jpeg)
+In this blog post, we’ll help you dive into the world of Kubernetes and Infrastructure as Code using Amazon Elastic Kubernetes Service (EKS) and Terraform.
+
+### [214. Does Amazon Follow the Law?](https://hackernoon.com/does-amazon-follow-the-law)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-n993wdz.jpeg)
+Amazon lists its own brands and exclusives above competing products with better ratings.
+
+### [215. Why Amazon Won’t Dominate in Groceries](https://hackernoon.com/why-amazon-wont-dominate-in-groceries-li1i3zbl)
+![](https://cdn.hackernoon.com/images/qoth3zec.jpg)
+More than two years after Whole Foods buy, grocery has yet to be “Amazoned.” And here’s why.
+
+### [216. Tech Monopolies and Internet Gatekeepers Transcript from John Oliver's Last Week Tonight](https://hackernoon.com/tech-monopolies-and-internet-gatekeepers-transcript-from-john-olivers-last-week-tonight)
 ![](https://cdn.hackernoon.com/images/a-comedian-named-john-oliver-explains-how-the-internet-is-run-by-just-a-couple-companies-csmfir35r7zwww0dw07lk5ap.png)
 John Oliver discusses tech monopolies, and how to address the hidden harm they can do.
 
-### [216. How Your Startup Can Benefit From Serverless Approach](https://hackernoon.com/how-your-startup-can-benefit-from-serverless-approach-skq311g)
+### [217. How Your Startup Can Benefit From Serverless Approach](https://hackernoon.com/how-your-startup-can-benefit-from-serverless-approach-skq311g)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-681k31ek.jpeg)
 The popularity of hiring vendors for handling application backend has spiked tremendously over the last 5 years. On the one hand, startup owners go serverless to save infrastructure costs and pay for resources as they go
 
-### [217. Image Analysis using AWS Rekognition via AWS CLI](https://hackernoon.com/image-analysis-using-aws-rekognition-via-aws-cli-0a1a3uew)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-p3g3ukg.jpeg?alt=media&token=578b9271-0ad9-4bef-8f5d-273452ed306e)
-In this blog, I am going to show you how we can use rekognition for image analysis using AWS CLI. So you can test the image analysis on your local machine. We will be going to perform label detection and object detection for an image so basically we are performing image analysis in this blog by using AWS CLI.
-
-### [218. Running Geo Django on ElasticBeanstalk](https://hackernoon.com/running-geo-django-on-elasticbeanstalk-k0l3uww)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-1c1b28gb.jpeg?alt=media&token=5d38b3da-5dc7-4917-bae3-c3eb0d626f42)
-I want to tell you this story because I wasted about 14 hours to realize how to achieve it correctly.
-
-### [219. According to a FTC Lawsuit, Amazon Ranks Its Own Products First](https://hackernoon.com/according-to-a-ftc-lawsuit-amazon-ranks-its-own-products-first)
+### [218. According to a FTC Lawsuit, Amazon Ranks Its Own Products First](https://hackernoon.com/according-to-a-ftc-lawsuit-amazon-ranks-its-own-products-first)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-760394f.jpeg)
 Amazon routinely ranks its own products ahead of items from competitors, the Federal Trade Commission (FTC) said in an antitrust lawsuit
 
-### [220. Will New Hollywood Save Old Hollywood?](https://hackernoon.com/will-new-hollywood-save-old-hollywood)
-![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-bs936t3.jpeg)
-Read this article for insight how New Hollywood streaming companies could help Old Hollywood by releasing films in theaters.
+### [219. Image Analysis using AWS Rekognition via AWS CLI](https://hackernoon.com/image-analysis-using-aws-rekognition-via-aws-cli-0a1a3uew)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-p3g3ukg.jpeg?alt=media&token=578b9271-0ad9-4bef-8f5d-273452ed306e)
+In this blog, I am going to show you how we can use rekognition for image analysis using AWS CLI. So you can test the image analysis on your local machine. We will be going to perform label detection and object detection for an image so basically we are performing image analysis in this blog by using AWS CLI.
 
-### [221. Biohacking Your Health Through Online Supplements [Infographic]](https://hackernoon.com/biohacking-your-health-through-online-supplements-infographic-zg1a3403)
-![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-1n931g7.jpeg)
-Hacking your health through the online supplement business - 
-one of the most important staples of Amazon’s online business is in the realm of supplements.
+### [220. Running Geo Django on ElasticBeanstalk](https://hackernoon.com/running-geo-django-on-elasticbeanstalk-k0l3uww)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-1c1b28gb.jpeg?alt=media&token=5d38b3da-5dc7-4917-bae3-c3eb0d626f42)
+I want to tell you this story because I wasted about 14 hours to realize how to achieve it correctly.
+
+### [221. Everything You Need To Know About The Amazon Virtual Private Cloud](https://hackernoon.com/everything-you-need-to-know-about-the-amazon-virtual-private-cloud-ym5o33pk)
+![](https://cdn.hackernoon.com/images/O6MJzvLKx3RVeRRW5EFXlduXmQF3-iuh28h3.jpeg)
+Amazon Virtual Private Cloud allows you to launch Amazon Web Service (AWS) to a virtual network. VPC has almost 100% uptime and is flexible.
 
 ### [222. Amazon and Disney Take Voice Assistance to Magical Heights with “Hey Disney”](https://hackernoon.com/amazon-and-disney-take-voice-assistance-to-magical-heights-with-hey-disney)
 ![](https://cdn.hackernoon.com/images/wEZ1mnVywva7VbdZWtOeCVI9Lmz2-46a3oy9.jpeg)
 Amazon & Disney teamed up to launch a new voice assistant that will be live soon in the United States.
 
-### [223. Everything You Need To Know About The Amazon Virtual Private Cloud](https://hackernoon.com/everything-you-need-to-know-about-the-amazon-virtual-private-cloud-ym5o33pk)
-![](https://cdn.hackernoon.com/images/O6MJzvLKx3RVeRRW5EFXlduXmQF3-iuh28h3.jpeg)
-Amazon Virtual Private Cloud allows you to launch Amazon Web Service (AWS) to a virtual network. VPC has almost 100% uptime and is flexible.
+### [223. Will New Hollywood Save Old Hollywood?](https://hackernoon.com/will-new-hollywood-save-old-hollywood)
+![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-bs936t3.jpeg)
+Read this article for insight how New Hollywood streaming companies could help Old Hollywood by releasing films in theaters.
 
-### [224. What are the Greatest Shows on TV at the Moment? ](https://hackernoon.com/what-are-the-greatest-shows-on-tv-at-the-moment)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-p6037f2.jpeg)
-This Slogging thread by Jack Boreham, Mónica Freitas, Sara Pinto, Ellen Stevens and Amy Shah occurred in slogging's official #random channel, and has been edited for readability.
+### [224. Biohacking Your Health Through Online Supplements [Infographic]](https://hackernoon.com/biohacking-your-health-through-online-supplements-infographic-zg1a3403)
+![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-1n931g7.jpeg)
+Hacking your health through the online supplement business - 
+one of the most important staples of Amazon’s online business is in the realm of supplements.
 
-### [225. A Complete Guide To SKU Management For Retailers](https://hackernoon.com/a-complete-guide-to-sku-management-for-retailers-7x2d35bb)
-![](https://cdn.hackernoon.com/images/fqVQKeCNVlcPtS52qBcyJxvXC3v2-4z4y3263.jpeg)
-SKU management is the process of creating, organizing, and perfecting an alphanumeric SKU system for the items in your inventory. SKUs give inventory details.
-
-### [226. Amazon Dropshipping (2021) - Complete Step-By-Step Guide](https://hackernoon.com/amazon-dropshipping-2021-complete-step-by-step-guide-yf9u339r)
-![](https://cdn.hackernoon.com/images/e3XgVhsWlLN5enbpRyzIglK7uhE2-kn5s3fc8.jpeg)
-A complete step-by-step guide on how to get started with Dropshipping on Amazon.
-
-### [227. An Introduction to Shopify and Embedded Fintech Stacks](https://hackernoon.com/an-introduction-to-shopify-and-embedded-fintech-stacks-q5263z2a)
+### [225. An Introduction to Shopify and Embedded Fintech Stacks](https://hackernoon.com/an-introduction-to-shopify-and-embedded-fintech-stacks-q5263z2a)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fka6uITo6bhblmp7773cfIXN8bAS2-jm63usu.jpeg?alt=media&token=29cec3e5-f947-4b0d-b0f5-c03bee8a21d2)
 A lot has been written about Shopify’s potential as an Amazon alternate. Ben Thompson’s post on Shopify as a platform does a great job of justifying the growing value of Shopify in the commerce ecosystem. It is Shopify and not Walmart/Best Buy that is Amazon’s closest alternative and by far the easiest way for a seller to start selling online - more than 1,000,000 stores are already selling through Shopify.
+
+### [226. Self Study Helps Law School Graduate Become a Software Engineer at Amazon](https://hackernoon.com/self-study-helps-law-school-graduate-become-a-software-engineer-at-amazon)
+![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-ll93neu.jpeg)
+A change of heart and access to a repository of information prompted a law school graduate to purse a career as a programmer. 
+
+### [227. Amazon Dropshipping (2021) - Complete Step-By-Step Guide](https://hackernoon.com/amazon-dropshipping-2021-complete-step-by-step-guide-yf9u339r)
+![](https://cdn.hackernoon.com/images/e3XgVhsWlLN5enbpRyzIglK7uhE2-kn5s3fc8.jpeg)
+A complete step-by-step guide on how to get started with Dropshipping on Amazon.
 
 ### [228. Does Amazon Promote Their Brands Ahead of the Competition? ](https://hackernoon.com/does-amazon-promote-their-brands-ahead-of-the-competition)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-vql2ibf.jpeg)
@@ -929,216 +931,216 @@ About 40 percent of online purchases in the United States take place on Amazon.c
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQXsXg7hvkgUim8nVzmpA0TNWPaL2-42528yc.jpeg?alt=media&token=1be063ec-7e88-4452-bd9b-93a5f53e2c3d)
 The Internet of Things is a fast-growing area of technology that will one day have virtually the entire world connected. For now, it's still in the relatively early stages, so there may be opportunities to invest early in companies that will benefit from the IoT.
 
-### [230. Self Study Helps Law School Graduate Become a Software Engineer at Amazon](https://hackernoon.com/self-study-helps-law-school-graduate-become-a-software-engineer-at-amazon)
-![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-ll93neu.jpeg)
-A change of heart and access to a repository of information prompted a law school graduate to purse a career as a programmer. 
+### [230. A Complete Guide To SKU Management For Retailers](https://hackernoon.com/a-complete-guide-to-sku-management-for-retailers-7x2d35bb)
+![](https://cdn.hackernoon.com/images/fqVQKeCNVlcPtS52qBcyJxvXC3v2-4z4y3263.jpeg)
+SKU management is the process of creating, organizing, and perfecting an alphanumeric SKU system for the items in your inventory. SKUs give inventory details.
 
-### [231. Introduction To AWS Lake Formation](https://hackernoon.com/introduction-to-aws-lake-formation-2t9f3w45)
-![](https://images.unsplash.com/photo-1562578453-e743e614fd79?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-What does it mean for your organization?
-
-Amazon Web Services (AWS) recently announced, among many other important updates, the release of the new service “AWS Lake Formation” at the AWS re:Invent in Las Vegas. This article provides a brief explanation of what the service does. Furthermore, it explains why it can be important for your organization.
+### [231. The Workable Approach Behind Amazon Returns](https://hackernoon.com/the-workable-approach-behind-amazon-returns)
+![](https://cdn.hackernoon.com/images/K9M2bAdfq9Pjk4aB305Tqe9poyo1-a6c3v74.jpeg)
+What stands behind Amazon returns? How to efficiently handle product reversals? Explore the streamlined product return policy of the leading e-commerce platform
 
 ### [232. Voice Assistants are the Modern Day Groom of the Stool](https://hackernoon.com/voice-assistants-are-the-modern-day-groom-of-the-stool-gts1p4zro)
 ![](https://cdn.hackernoon.com/drafts/u36sv4z8z.png)
 Image of : The 1st Earl of Holland, Groom of the Stool to Charles I, until 1643,
 
-### [233. Amazon to Hire 250,000 U.S. Workers for Holiday Season Amid Spending Concerns](https://hackernoon.com/amazon-to-hire-250000-us-workers-for-holiday-season-amid-spending-concerns)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-lk036x2.jpeg)
-Amazon plans to hire 250,000 full-time, part-time, and seasonal workers across its U.S. fulfillment and transportation networks.
+### [233. Introduction To AWS Lake Formation](https://hackernoon.com/introduction-to-aws-lake-formation-2t9f3w45)
+![](https://images.unsplash.com/photo-1562578453-e743e614fd79?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+What does it mean for your organization?
+
+Amazon Web Services (AWS) recently announced, among many other important updates, the release of the new service “AWS Lake Formation” at the AWS re:Invent in Las Vegas. This article provides a brief explanation of what the service does. Furthermore, it explains why it can be important for your organization.
 
 ### [234. The Biggest Mistake Amazon And Netflix Made](https://hackernoon.com/the-biggest-mistake-amazon-and-netflix-made-xig3t57)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJeBgHPQeI0WmFOLxM1PhW4kJs9L2-nw2z3ufg.jpeg?alt=media&token=875891b3-132a-4986-9645-81fc1d0625d7)
 Yes, I’m talking about the annoying pre-roll ads that are being played before movies/shows.
 
-### [235. 3 Steps Retailers Should Take to Prevent Holiday Data Breaches ](https://hackernoon.com/3-steps-retailers-should-take-to-prevent-holiday-data-breaches-ep1g3wsh)
+### [235. Amazon Urges Staff to Use In-House Kiro Over Rival AI Coding Tools](https://hackernoon.com/amazon-urges-staff-to-use-in-house-kiro-over-rival-ai-coding-tools)
+![](https://cdn.hackernoon.com/images/amazon-ai-govwkwbud7zt04zb2k39zsd4.png)
+Amazon is urging engineers to stop using third-party AI coding tools and shift to its in-house Kiro platform, signaling a tighter AI strategy.
+
+### [236. 3 Steps Retailers Should Take to Prevent Holiday Data Breaches ](https://hackernoon.com/3-steps-retailers-should-take-to-prevent-holiday-data-breaches-ep1g3wsh)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlUylCs0GU0U93CEXvdyniz9d6tb2-j65i3w64.jpeg?alt=media&token=58606f58-5fad-4d77-ab81-5841563dd623)
 During the stressful COVID-19 pandemic, governments are urging people to stay home. So, many people have adopted new ways to run their day-to-day lives and make sure they are fulfilling. Zoom keeps millions of people connected. TikTok provides a creative outlet to escape shelter-in-place boredom. And Amazon is selling everything from N95 masks to those special I-need-this-in-my-life items.
 
-### [236. In Defense of the Cloud](https://hackernoon.com/in-defense-of-the-cloud-b7b8a6ab27ff)
-![](https://cdn.hackernoon.com/hn-images/1*FV-dwTX_EBGQPzZYnQgSkg.jpeg)
-The cloud has taken a PR beating recently. Two systems seemingly too big to fail did: CloudFlare and AWS S3. The former was a security issue that caused sensitive data to show up in search results, the latter brought nearly the entire Internet down for the better part of a day on February 28, 2017.
-
-### [237. The Workable Approach Behind Amazon Returns](https://hackernoon.com/the-workable-approach-behind-amazon-returns)
-![](https://cdn.hackernoon.com/images/K9M2bAdfq9Pjk4aB305Tqe9poyo1-a6c3v74.jpeg)
-What stands behind Amazon returns? How to efficiently handle product reversals? Explore the streamlined product return policy of the leading e-commerce platform
-
-### [238. How Gamers Decide Tomorrow’s Technology ](https://hackernoon.com/how-gamers-decide-tomorrows-technology-oq3b3w38)
+### [237. How Gamers Decide Tomorrow’s Technology ](https://hackernoon.com/how-gamers-decide-tomorrows-technology-oq3b3w38)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F8JLxFzQ2iTgJlUJYWOp6j0cmOC22-juv3w15.jpeg?alt=media&token=5d8775e6-2755-416d-8b93-4148b9067256)
 What do Apple, Google, and Amazon all have in common? Well, plenty of things if we’re being honest. It’s easier to list the things that they don’t share. But one thing that people don’t usually associate with any of these big tech companies is how deeply involved they are with an increasingly relevant sector in technology: video gaming. 
 
-### [239. Big Tech Brief: What You Need to Know About Congress’ High-Profile Tech CEO Hearings](https://hackernoon.com/big-tech-brief-what-you-need-to-know-about-congress-high-profile-tech-ceo-hearings-p62y3etx)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FM6oYby2BN7U8fOfq3IwzY98lnLH2-9p2a3upr.jpeg?alt=media&token=a30267a8-ad0e-4b99-b7e3-14864054630e)
-The House Antitrust subcommittee grilled the CEOs of four of the largest tech companies in a display that showed the preliminary results of their investigation that began in 2019.
+### [238. In Defense of the Cloud](https://hackernoon.com/in-defense-of-the-cloud-b7b8a6ab27ff)
+![](https://cdn.hackernoon.com/hn-images/1*FV-dwTX_EBGQPzZYnQgSkg.jpeg)
+The cloud has taken a PR beating recently. Two systems seemingly too big to fail did: CloudFlare and AWS S3. The former was a security issue that caused sensitive data to show up in search results, the latter brought nearly the entire Internet down for the better part of a day on February 28, 2017.
 
-### [240. Essential Guide to Accessing Your AWS Account](https://hackernoon.com/essential-guide-to-accessing-your-aws-account-y01t34jj)
+### [239. Essential Guide to Accessing Your AWS Account](https://hackernoon.com/essential-guide-to-accessing-your-aws-account-y01t34jj)
 ![](https://cdn.hackernoon.com/images/RDAD5EHlgkVp7GOse57p7Zmqffm2-np428ap.jpeg)
 Hey there. You just created your first AWS account, and you can't wait to dive into all the exciting services and technologies that AWS has to offer you to start to build the next big thing. But, wait for a second... are you going to log-in with your root account credentials? Or it's better to generate a new user? Or maybe use a role?
 
-### [241. Amazon Urges Staff to Use In-House Kiro Over Rival AI Coding Tools](https://hackernoon.com/amazon-urges-staff-to-use-in-house-kiro-over-rival-ai-coding-tools)
-![](https://cdn.hackernoon.com/images/amazon-ai-govwkwbud7zt04zb2k39zsd4.png)
-Amazon is urging engineers to stop using third-party AI coding tools and shift to its in-house Kiro platform, signaling a tighter AI strategy.
+### [240. Big Tech Brief: What You Need to Know About Congress’ High-Profile Tech CEO Hearings](https://hackernoon.com/big-tech-brief-what-you-need-to-know-about-congress-high-profile-tech-ceo-hearings-p62y3etx)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FM6oYby2BN7U8fOfq3IwzY98lnLH2-9p2a3upr.jpeg?alt=media&token=a30267a8-ad0e-4b99-b7e3-14864054630e)
+The House Antitrust subcommittee grilled the CEOs of four of the largest tech companies in a display that showed the preliminary results of their investigation that began in 2019.
+
+### [241. Spike Aims to Give Healthcare AI a Brain Boost and Outsmart the Tech Giants](https://hackernoon.com/spike-aims-to-give-healthcare-ai-a-brain-boost-and-outsmart-the-tech-giants)
+![](https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-ly8353v.jpeg)
+Spike just landed $3.5 million in seed funding. Its mission? To give healthcare AI, which is set to reach $148 billion by 2029, the brainpower it needs.
 
 ### [242. BigTech Spent Big Money in 2021 on Lobbying, Buying Up Competition](https://hackernoon.com/bigtech-spent-big-money-in-2021-on-lobbying-buying-up-competition)
 ![](https://cdn.hackernoon.com/images/MEd0xnRzO0dpNMKq3mKkl20pPjv1-bnc3fmn.jpeg)
 Amazon and Facebook are the largest corporate spenders on lobbying. BigTech is buying up the competition. Together, this puts a huge strain on US regulators.
 
-### [243. Spike Aims to Give Healthcare AI a Brain Boost and Outsmart the Tech Giants](https://hackernoon.com/spike-aims-to-give-healthcare-ai-a-brain-boost-and-outsmart-the-tech-giants)
-![](https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-ly8353v.jpeg)
-Spike just landed $3.5 million in seed funding. Its mission? To give healthcare AI, which is set to reach $148 billion by 2029, the brainpower it needs.
-
-### [244. The Markup Wins Award for Their Investigations Into Amazon](https://hackernoon.com/the-markup-wins-award-for-their-investigations-into-amazon)
+### [243. The Markup Wins Award for Their Investigations Into Amazon](https://hackernoon.com/the-markup-wins-award-for-their-investigations-into-amazon)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-qj92lbr.jpeg)
 The Markup has won the Gerald Loeb Award in the personal finance and consumer reporting category for our investigative series “Amazon’s Advantage"...
+
+### [244. Amazon Launches $15 Billion Bond Sale as AI Infrastructure Spending Surges](https://hackernoon.com/amazon-launches-$15-billion-bond-sale-as-ai-infrastructure-spending-surges)
+![](https://cdn.hackernoon.com/images/a-high-tech-financial-scene-showing-amazons-logo-amid-digital-bond-certificates-and-rising-ai-data-center-infrastructure-in-the-background-k3fwuk3f79i01kagg8uckseh.png)
+Amazon is raising $15B through its first U.S. bond sale in three years as Big Tech ramps up debt-fueled spending on AI infrastructure.
 
 ### [245. An Introduction to AWS SSO VS Cross-account Role-based IAM Access](https://hackernoon.com/an-introduction-to-aws-sso-vs-cross-account-role-based-iam-access-60263zc1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJASdyvgxEpOrkDJTT1V10KXQyhT2-9q3p28ux.jpeg?alt=media&token=9844048e-12fc-412b-b511-3630fb7c0e06)
 Considered to be the best practices in AWS, one of the most popular ways to maximize AWS's potential is to utilize multiple accounts.
 
-### [246. Amazon Launches $15 Billion Bond Sale as AI Infrastructure Spending Surges](https://hackernoon.com/amazon-launches-$15-billion-bond-sale-as-ai-infrastructure-spending-surges)
-![](https://cdn.hackernoon.com/images/a-high-tech-financial-scene-showing-amazons-logo-amid-digital-bond-certificates-and-rising-ai-data-center-infrastructure-in-the-background-k3fwuk3f79i01kagg8uckseh.png)
-Amazon is raising $15B through its first U.S. bond sale in three years as Big Tech ramps up debt-fueled spending on AI infrastructure.
+### [246. Amazon to Lay Off 14,000 Employees](https://hackernoon.com/amazon-to-lay-off-14000-employees)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-8o03bek.jpeg)
+Amazon announced that it is laying off 14,000 corporate employees. 
 
 ### [247. 5 Best VPN Services for Fire Stick](https://hackernoon.com/5-best-vpn-services-for-fire-stick)
 ![](https://cdn.hackernoon.com/images/amazon-firestick-on-tv-clfjprxbi000301s6aiw8b400.png)
 Learn about 5 VPN services that work great for streaming on Amazon Fire Stick!
 
-### [248. Amazon to Lay Off 14,000 Employees](https://hackernoon.com/amazon-to-lay-off-14000-employees)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-8o03bek.jpeg)
-Amazon announced that it is laying off 14,000 corporate employees. 
+### [248. OpenAI and Amazon Agree to $38 Billion Deal](https://hackernoon.com/openai-and-amazon-agree-to-$38-billion-deal)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-bc03bsg.jpeg)
+OpenAI and Amazon have agreed to a $38 billion deal for the next seven years.
 
-### [249. Food Tech Stories: How Walmart is Growing Food Subscription Business](https://hackernoon.com/food-tech-stories-how-walmart-is-growing-food-subscription-business-ko193y7z)
+### [249. Unveiling the Power of Self-Attention for Shipping Cost Prediction: Related Works](https://hackernoon.com/unveiling-the-power-of-self-attention-for-shipping-cost-prediction-related-works)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-kj832hv.jpeg)
+New AI model (Rate Card Transformer) analyzes package details (size, carrier etc.) to predict shipping costs more accurately. 
+
+### [250. Food Tech Stories: How Walmart is Growing Food Subscription Business](https://hackernoon.com/food-tech-stories-how-walmart-is-growing-food-subscription-business-ko193y7z)
 ![](https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Based on this story: Walmart Grocery is expanding its $98 per year 'Delivery Unlimited' subscription across the US
-
-### [250. How To Create an AWS Account For Personal Use](https://hackernoon.com/how-to-create-an-aws-account-for-personal-use-3q103ugi)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUBNPKUBqvuM01nn4wJOVA8byi8l2-qlcg2usz.jpeg?alt=media&token=6306470f-0bc7-4c71-a6e9-c5943b7527c4)
-If you're new to Ruby on Rails development sooner or later you'll have to create an Amazon AWS account. And if you already have any experience you know what I meant. 
 
 ### [251. Make Software Great Again: Can Open Source be Ethical and Fair?](https://hackernoon.com/make-software-great-again-can-open-source-be-ethical-and-fair-im3v32ut)
 ![](https://cdn.hackernoon.com/drafts/ww7d26j9.png)
 Is there a way to go beyond open source, and have ethical, fair software in a cloud-first world? This is what some people in the open source community think.
 
-### [252. Unveiling the Power of Self-Attention for Shipping Cost Prediction: Related Works](https://hackernoon.com/unveiling-the-power-of-self-attention-for-shipping-cost-prediction-related-works)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-kj832hv.jpeg)
-New AI model (Rate Card Transformer) analyzes package details (size, carrier etc.) to predict shipping costs more accurately. 
+### [252. How To Create an AWS Account For Personal Use](https://hackernoon.com/how-to-create-an-aws-account-for-personal-use-3q103ugi)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUBNPKUBqvuM01nn4wJOVA8byi8l2-qlcg2usz.jpeg?alt=media&token=6306470f-0bc7-4c71-a6e9-c5943b7527c4)
+If you're new to Ruby on Rails development sooner or later you'll have to create an Amazon AWS account. And if you already have any experience you know what I meant. 
 
 ### [253. AWS Core Services: Major Serverless Tools That You Should Use](https://hackernoon.com/aws-core-services-major-serverless-tools-that-you-should-use-zk293ui2)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-l01v3uet.gif?alt=media&token=a4c62782-036b-4369-938e-2bbc469cc688)
 When first looking into serverless migration and its architecture, it can feel like you’re staring down an endless shopping aisle of critical serverless tools that all need to be put into your basket straight away. Some services seem to offer the same function, while others can feel wildly different - both, as a result, can instill some doubts as to what is really necessary for your business and serverless application.
 
-### [254. Twitch Will Ban Users for Off-Platform Activities](https://hackernoon.com/twitch-will-ban-users-for-off-platform-activities-1i25351j)
-![](https://cdn.hackernoon.com/images/ve2JHvvoU5WMejU8WVRQiCqzCRp2-zte33eh.jpeg)
-Amazon-owned streaming service Twitch has expanded its rules to include off-platform “misconduct” that will result in bans to curb the freedom of speech
-
-### [255. Tech Companies Show Support For Women After Roe v. Wade Overturned](https://hackernoon.com/tech-companies-show-support-for-women-after-roe-v-wade-overturned)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-f392edw.jpeg)
-American politics are making international headlines yet again with the latest on Roe v. Wade and gun rights.
-
-### [256. How to Run DynamoDB Tables On A Budget](https://hackernoon.com/how-to-run-dynamodb-tables-on-a-budget-mj1k3u52)
+### [254. How to Run DynamoDB Tables On A Budget](https://hackernoon.com/how-to-run-dynamodb-tables-on-a-budget-mj1k3u52)
 ![](https://cdn.hackernoon.com/images/ed3r3woj.jpg)
 As we all know, the on-demand capacity mode of DynamoDB is great but can be cost-prohibitive in some cases (up to seven times more expensive than the Provisioned Capacity mode).
 
-### [257. Uncovering Amazon's Unconscionable Business Practices](https://hackernoon.com/uncovering-amazons-unconscionable-business-practices)
+### [255. Uncovering Amazon's Unconscionable Business Practices](https://hackernoon.com/uncovering-amazons-unconscionable-business-practices)
 ![](https://cdn.hackernoon.com/images/a-large-building-with-the-amazon-logo-i2q5e653vt894qsresxrbc9c.png)
 Discover the legal case brought by the State of New Jersey against Amazon, accusing the company of engaging in unconscionable commercial practices
 
-### [258. OpenAI and Amazon Agree to $38 Billion Deal](https://hackernoon.com/openai-and-amazon-agree-to-$38-billion-deal)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-bc03bsg.jpeg)
-OpenAI and Amazon have agreed to a $38 billion deal for the next seven years.
+### [256. Twitch Will Ban Users for Off-Platform Activities](https://hackernoon.com/twitch-will-ban-users-for-off-platform-activities-1i25351j)
+![](https://cdn.hackernoon.com/images/ve2JHvvoU5WMejU8WVRQiCqzCRp2-zte33eh.jpeg)
+Amazon-owned streaming service Twitch has expanded its rules to include off-platform “misconduct” that will result in bans to curb the freedom of speech
 
-### [259. How to Manage Your SOC 2 Certification and Be Successful](https://hackernoon.com/how-to-manage-your-soc-2-certification-and-be-successful)
+### [257. Tech Companies Show Support For Women After Roe v. Wade Overturned](https://hackernoon.com/tech-companies-show-support-for-women-after-roe-v-wade-overturned)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-f392edw.jpeg)
+American politics are making international headlines yet again with the latest on Roe v. Wade and gun rights.
+
+### [258. How to Manage Your SOC 2 Certification and Be Successful](https://hackernoon.com/how-to-manage-your-soc-2-certification-and-be-successful)
 ![](https://cdn.hackernoon.com/images/aOK0H0pt6fSTfIZ4hV2y2VIGae72-0ng3pkz.jpeg)
 Learn how WebLab Technology manages and achieves success with SOC 2 certification. Discover best practices for securing cloud infrastructure and data
 
-### [260. 70 Stories To Learn About Faagm](https://hackernoon.com/70-stories-to-learn-about-faagm)
-![](https://cdn.hackernoon.com/images/github/faagm-156.png)
-Learn everything you need to know about Faagm via these 70 free HackerNoon stories.
-
-### [261. The Secret Behind Amazon's Lasting Monopoly Power in Online Marketplaces ](https://hackernoon.com/the-secret-behind-amazons-lasting-monopoly-power-in-online-marketplaces)
+### [259. The Secret Behind Amazon's Lasting Monopoly Power in Online Marketplaces ](https://hackernoon.com/the-secret-behind-amazons-lasting-monopoly-power-in-online-marketplaces)
 ![](https://cdn.hackernoon.com/images/breathtaking-photograph-of-jeff-bezos-covering-his-mouth-enp269qzgx7e821m46pavnkl.png)
 Learn about the key components that give Amazon its monopoly power in connecting sellers and shoppers.
 
 
 
-### [262. FTC Accuses Amazon of Unfair Monopoly Tactics in the Superstore Market](https://hackernoon.com/ftc-accuses-amazon-of-unfair-monopoly-tactics-in-the-superstore-market)
+### [260. FTC Accuses Amazon of Unfair Monopoly Tactics in the Superstore Market](https://hackernoon.com/ftc-accuses-amazon-of-unfair-monopoly-tactics-in-the-superstore-market)
 ![](https://cdn.hackernoon.com/images/monopoly-board-with-the-amazon-logo-xv9jvtk2eufxtdxzw4lss1kb.png)
 Explore the FTC's case against Amazon, delving into the accusation of monopoly maintenance in the online superstore market. 
+
+### [261. Amazon Manipulates Its Algorithms to Stay Ahead of Third-Party Private Label Competitors](https://hackernoon.com/amazon-manipulates-its-algorithms-to-stay-ahead-of-third-party-private-label-competitors)
+![](https://cdn.hackernoon.com/images/a-desktop-screen-displaying-lines-of-code-mhp67yorcq1gwk6m16sc63ri.png)
+Amazon degrades its search quality by stacking the deck against third-party competitors of Amazon's private label products. 
+
+### [262. 70 Stories To Learn About Faagm](https://hackernoon.com/70-stories-to-learn-about-faagm)
+![](https://cdn.hackernoon.com/images/github/faagm-156.png)
+Learn everything you need to know about Faagm via these 70 free HackerNoon stories.
 
 ### [263. Independence! And All the Tech Companies in Between](https://hackernoon.com/independence-and-all-the-tech-companies-in-between)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-za92dqv.jpeg)
 Independence! And All the Tech Companies in Between: The July 4th Edition of The Tech Company Brief by HackerNoon. 
 
-### [264. Amazon Manipulates Its Algorithms to Stay Ahead of Third-Party Private Label Competitors](https://hackernoon.com/amazon-manipulates-its-algorithms-to-stay-ahead-of-third-party-private-label-competitors)
-![](https://cdn.hackernoon.com/images/a-desktop-screen-displaying-lines-of-code-mhp67yorcq1gwk6m16sc63ri.png)
-Amazon degrades its search quality by stacking the deck against third-party competitors of Amazon's private label products. 
-
-### [265. Serverless Benefits And Challenges: 2020 Edition](https://hackernoon.com/serverless-benefits-and-challenges-2020-edition-922t3une)
+### [264. Serverless Benefits And Challenges: 2020 Edition](https://hackernoon.com/serverless-benefits-and-challenges-2020-edition-922t3une)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-5nd3uiy.jpeg?alt=media&token=8b11b3d1-8e66-4693-94d2-853bfadb5757)
 While we know the many benefits of going serverless - reduced costs via pay-per-use pricing models, less operational burden/overhead, instant scalability, increased automation - the challenges are often not addressed as comprehensively. The understandable concerns over migrating can stop any architectural decisions and actions being made for fear of getting it wrong and not having the right resources. This article discusses the common concerns around going serverless and our advice to minimise their impact.
+
+### [265. Amazon Announces New $15B Indiana Data Center Plan Amid AI Boom](https://hackernoon.com/amazon-announces-new-$15b-indiana-data-center-plan-amid-ai-boom)
+![](https://cdn.hackernoon.com/images/a-sprawling-futuristic-data-center-complex-under-construction-in-indiana-glowing-with-energy-lines-symbolizing-massive-ai-and-cloud-capacity-p3kz782zi368rukgzzg33e9q.png)
+Amazon is investing $15B in Indiana data centers, adding 2.4 GW of capacity and 1,100 jobs as it expands cloud and AI infrastructure in the U.S.
 
 ### [266. On Amazon Email Template](https://hackernoon.com/on-amazon-email-template-ban3tqn)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxXA98orcf7S2e7CkX9qNExnzLGb2-sb193u4k.jpeg?alt=media&token=f2a8ee15-7607-4833-a82b-a24ea070d4d1)
 In case you haven't heard, Amazon accidentally sent an email template to a user early this year.
 
-### [267. Amazon Announces New $15B Indiana Data Center Plan Amid AI Boom](https://hackernoon.com/amazon-announces-new-$15b-indiana-data-center-plan-amid-ai-boom)
-![](https://cdn.hackernoon.com/images/a-sprawling-futuristic-data-center-complex-under-construction-in-indiana-glowing-with-energy-lines-symbolizing-massive-ai-and-cloud-capacity-p3kz782zi368rukgzzg33e9q.png)
-Amazon is investing $15B in Indiana data centers, adding 2.4 GW of capacity and 1,100 jobs as it expands cloud and AI infrastructure in the U.S.
+### [267. Amazon to Hire 250,000 U.S. Workers for Holiday Season Amid Spending Concerns](https://hackernoon.com/amazon-to-hire-250000-us-workers-for-holiday-season-amid-spending-concerns)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-lk036x2.jpeg)
+Amazon plans to hire 250,000 full-time, part-time, and seasonal workers across its U.S. fulfillment and transportation networks.
 
-### [268. How To List Your Products For Free On Google Shopping](https://hackernoon.com/how-to-list-your-products-for-free-on-google-shopping-n4u3umv)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FelSxFAxSKrdQdNKR1XbMJp3CF4f1-5g4e3uf3.jpeg?alt=media&token=9ce2a929-f943-4349-98ab-70da4e12bec3)
-Recently, Google introduced Free Google Shopping listings in the US, and they also plan to roll the feature globally by the end of 2020. The free Google Shopping listings will appear alongside the Google Shopping Ads, as the search engine giant plans to take on Amazon for organic product searches.
-
-### [269. Why the 2021 Emmys Are a Victory for New Hollywood](https://hackernoon.com/why-the-2021-emmys-are-a-victory-for-new-hollywood)
-![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-kw03ozv.jpeg)
-Read this post for insight into why the 2021 Emmys represent a victory for New Hollywood hybrid TV/movie streaming companies. 
-
-### [270. THE BRANDNUDE STANDARD FOR PRODUCT SEARCH](https://hackernoon.com/heres-why-i-hacked-shopify-and-the-rebels-to-save-online-shopping-21y3zd0)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FTGoyrmZUxghGa1oluNmJc1P4wbR2-5w3y3tt3.jpeg?alt=media&token=7ef1f51f-9993-4242-9f5f-3dace02a6def)
-I’m not calling myself a hero, but you may after reading this
-
-### [271. Comparing Cloudinary CDN and Amazon AWS CDN CloudFront ](https://hackernoon.com/comparing-cloudinary-cdn-and-amazon-aws-cdn-cloudfront)
+### [268. Comparing Cloudinary CDN and Amazon AWS CDN CloudFront ](https://hackernoon.com/comparing-cloudinary-cdn-and-amazon-aws-cdn-cloudfront)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-b7ca370e.jpeg)
 Cloudinary was way better than AWS CloudFront. They had a secret sauce: dramatic image transformation. Cloudinary somehow compressed a 703 KB image down to 37 K
 
-### [272. More Than a Buzzword: Retailers are Going “Phygital” with Their Marketing Strategies](https://hackernoon.com/more-than-a-buzzword-retailers-are-going-phygital-with-their-marketing-strategies-7n6z37ai)
+### [269. Deceptive Prices at Amazon: The More You Look the Less You See](https://hackernoon.com/deceptive-prices-at-amazon-the-more-you-look-the-less-you-see)
+![](https://cdn.hackernoon.com/images/a-magician-holding-cards-o32d7d202kqpp671uk43bmjt.png)
+The Commonwealth of Pennsylvania alleges that Amazon misled consumers, leading to higher prices and a lack of market transparency. 
+
+### [270. More Than a Buzzword: Retailers are Going “Phygital” with Their Marketing Strategies](https://hackernoon.com/more-than-a-buzzword-retailers-are-going-phygital-with-their-marketing-strategies-7n6z37ai)
 ![](https://cdn.hackernoon.com/images/SqScPlMHtYb11XYQci7LlsUCZ9m2-gqc3593.jpeg)
 What is Phygital? Discover its meaning and explore why brands going “phygital” in order to deliver the excellent customer experience before your competitors do
 
-### [273. This Week On Planet Internet, We're Breaking Up With Big Tech](https://hackernoon.com/this-week-on-planet-internet-were-breaking-up-with-big-tech-vh1537z6)
-![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-vt1n3osz.jpeg)
-We are cracking down on Big Tech. Amy Tom, David Smooke, and Hang Ngo talk about Biden's Executive Order on Big Tech, more space war dram, and decentralization 
+### [271. Why the 2021 Emmys Are a Victory for New Hollywood](https://hackernoon.com/why-the-2021-emmys-are-a-victory-for-new-hollywood)
+![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-kw03ozv.jpeg)
+Read this post for insight into why the 2021 Emmys represent a victory for New Hollywood hybrid TV/movie streaming companies. 
 
-### [274. How Amazon's Project Nessie Supports Its Anti-Competitive Tactics](https://hackernoon.com/how-amazons-project-nessie-supports-its-anti-competitive-tactics)
+### [272. THE BRANDNUDE STANDARD FOR PRODUCT SEARCH](https://hackernoon.com/heres-why-i-hacked-shopify-and-the-rebels-to-save-online-shopping-21y3zd0)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FTGoyrmZUxghGa1oluNmJc1P4wbR2-5w3y3tt3.jpeg?alt=media&token=7ef1f51f-9993-4242-9f5f-3dace02a6def)
+I’m not calling myself a hero, but you may after reading this
+
+### [273. How To List Your Products For Free On Google Shopping](https://hackernoon.com/how-to-list-your-products-for-free-on-google-shopping-n4u3umv)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FelSxFAxSKrdQdNKR1XbMJp3CF4f1-5g4e3uf3.jpeg?alt=media&token=9ce2a929-f943-4349-98ab-70da4e12bec3)
+Recently, Google introduced Free Google Shopping listings in the US, and they also plan to roll the feature globally by the end of 2020. The free Google Shopping listings will appear alongside the Google Shopping Ads, as the search engine giant plans to take on Amazon for organic product searches.
+
+### [274. Unveiling the Power of Self-Attention for Shipping Cost Prediction: References](https://hackernoon.com/unveiling-the-power-of-self-attention-for-shipping-cost-prediction-references)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-3d832pa.jpeg)
+New AI model (Rate Card Transformer) analyzes package details (size, carrier etc.) to predict shipping costs more accurately. 
+
+### [275. How Amazon's Project Nessie Supports Its Anti-Competitive Tactics](https://hackernoon.com/how-amazons-project-nessie-supports-its-anti-competitive-tactics)
 ![](https://cdn.hackernoon.com/images/a-laptop-displaying-algorithms-kbxfezj1yyldmpvcgzvw9eu7.png)
 Discover Count IV of the FTC's case against Amazon, shedding light on "Project Nessie," an alleged unfair method of competition that the tech giant employed. 
 
-### [275. Test Results Prove Some Free CDNs are Faster than Premium CDNs](https://hackernoon.com/test-results-prove-some-free-cdns-are-faster-than-premium-cdns)
+### [276. This Week On Planet Internet, We're Breaking Up With Big Tech](https://hackernoon.com/this-week-on-planet-internet-were-breaking-up-with-big-tech-vh1537z6)
+![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-vt1n3osz.jpeg)
+We are cracking down on Big Tech. Amy Tom, David Smooke, and Hang Ngo talk about Biden's Executive Order on Big Tech, more space war dram, and decentralization 
+
+### [277. Amazon, Google, Samsung, and Nike are All Facing the Internal Innovation Chasm](https://hackernoon.com/amazon-google-samsung-and-nike-are-all-facing-the-internal-innovation-chasm)
+![](https://cdn.hackernoon.com/images/R2ag4GqSKMZmCQAv8V75xwfSfmi2-zca3hh6.jpeg)
+While serious resources can be spent on creative vision, rarely is anyone given the tools to properly test an idea in-market quickly at high fidelity.
+
+### [278. Test Results Prove Some Free CDNs are Faster than Premium CDNs](https://hackernoon.com/test-results-prove-some-free-cdns-are-faster-than-premium-cdns)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-2k273oon.jpeg)
 While testing whether Free CDNs performed better than premium CDNs, I discovered many free CDNs are actually performing faster than Amazon CloudFront.
 
 
-### [276. Amazon, Google, Samsung, and Nike are All Facing the Internal Innovation Chasm](https://hackernoon.com/amazon-google-samsung-and-nike-are-all-facing-the-internal-innovation-chasm)
-![](https://cdn.hackernoon.com/images/R2ag4GqSKMZmCQAv8V75xwfSfmi2-zca3hh6.jpeg)
-While serious resources can be spent on creative vision, rarely is anyone given the tools to properly test an idea in-market quickly at high fidelity.
-
-### [277. Mexico is A Good Alternative to China for E-Commerce Fulfillment](https://hackernoon.com/mexico-is-a-good-alternative-to-china-for-e-commerce-fulfillment-j14b312l)
+### [279. Mexico is A Good Alternative to China for E-Commerce Fulfillment](https://hackernoon.com/mexico-is-a-good-alternative-to-china-for-e-commerce-fulfillment-j14b312l)
 ![](https://cdn.hackernoon.com/images/HAEqLmkIFOUTrMyOiyF8z0tCYF82-05j34lu.jpeg)
 Getayuda offers Ecommerce stores a seamless bridge to transact with Mexican factories that can match the price and quality of their production.
 
-### [278. Deceptive Prices at Amazon: The More You Look the Less You See](https://hackernoon.com/deceptive-prices-at-amazon-the-more-you-look-the-less-you-see)
-![](https://cdn.hackernoon.com/images/a-magician-holding-cards-o32d7d202kqpp671uk43bmjt.png)
-The Commonwealth of Pennsylvania alleges that Amazon misled consumers, leading to higher prices and a lack of market transparency. 
-
-### [279. How Tech Companies are Helping in Times of Covid-19 Crisis](https://hackernoon.com/how-tech-companies-are-helping-in-times-of-covid-19-crisis-px6l3yfm)
+### [280. How Tech Companies are Helping in Times of Covid-19 Crisis](https://hackernoon.com/how-tech-companies-are-helping-in-times-of-covid-19-crisis-px6l3yfm)
 ![](https://images.unsplash.com/photo-1586508887700-bc5ce707b322?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Since the pandemic COVID-19 is shaking all over the world, several people are dying and facing issues to earn for their livelihood.
 
 Well, big tech companies have responded with unusual alacrity and they are helping people during this crisis. 
-
-### [280. Unveiling the Power of Self-Attention for Shipping Cost Prediction: References](https://hackernoon.com/unveiling-the-power-of-self-attention-for-shipping-cost-prediction-references)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-3d832pa.jpeg)
-New AI model (Rate Card Transformer) analyzes package details (size, carrier etc.) to predict shipping costs more accurately. 
 
 ### [281. Wisconsin Pursues Legal Action Against Amazon for Antitrust Violations](https://hackernoon.com/wisconsin-pursues-legal-action-against-amazon-for-antitrust-violations)
 ![](https://cdn.hackernoon.com/images/breathtaking-photograph-of-wisconsins-capitol-building-in-madison-ieokzhw4fidukvaep8znfuqg.png)
@@ -1148,197 +1150,197 @@ Explore Wisconsin's legal action against Amazon, accusing the company of antitru
 ![](https://images.unsplash.com/photo-1526470498-9ae73c665de8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 This story is based on Experiencing Seattle's Amazon Go Grocery 
 
-### [283. How AWS Enabled My American Dream](https://hackernoon.com/how-aws-enabled-my-american-dream-vn2x34by)
-![](https://cdn.hackernoon.com/images/CKm5QWycYDYVoSD7SPg8hYqgO7p1-ih1t3542.png)
-Today we explain AWS and how it blows a door open for the poor to achieve the American dream.
-
-### [284. Knowing These Secrets Will Turn Your Long-Running Workflows Into Something Amazing](https://hackernoon.com/knowing-these-secrets-will-turn-your-long-running-workflows-into-something-amazing-8rh3wh8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fl5zOLSJSCXbNFE632NiK1dIRRaI3-tm7c3u0w.jpeg?alt=media&token=dc989c39-9d4d-4244-a2ae-c7cf4a5ecc1b)
-Introduction
-
-### [285. Comparing Different Serverless Monitoring Platforms](https://hackernoon.com/comparing-different-serverless-monitoring-platforms-ms1u3u7y)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-qvu3unf.gif?alt=media&token=37d9dfa7-41a6-43e0-a4e1-55a166acdc88)
-Technology touches almost every corner of the world economy. Even when it’s an indirect relation, in many cases tech is an essential, vital part of our societies. It just can’t fail without causing too much distress and losses. Not only financially, but especially to the human aspect.
-
-### [286. Official Retailers Dragged Into Battle](https://hackernoon.com/official-retailers-dragged-into-battle-p61m31sx)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-b3b31l1.jpeg)
-In April 2019, fans of the makeup influencer Jaclyn Hill noticed her new eyeshadow palette, normally $38, on Walmart.com for the unbelievably low price of $16.39. Many rushed to buy; others were skeptical: Hill had announced that the palette would be available only through certain retailers, and Walmart wasn’t one of them. 
-
-### [287. The Battle of the App Stores and Monopoly Wars](https://hackernoon.com/the-battle-of-the-app-stores-and-monopoly-wars)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4302x3k.jpeg)
-I address how the many anti-trust lawsuits are forging the creation of future app stores.
-
-### [288. Introduction to AWS S3 Pricing and How to Optimize Expenditure](https://hackernoon.com/introduction-to-aws-s3-pricing-and-how-to-optimize-expenditure-tx4g33sr)
-![](https://cdn.hackernoon.com/images/CAcAUp9L4Bb82B1TFYOaaBSjd322-tf4r3274.jpeg)
-In this AWS S3 Pricing and Cost Optimization Guide, you’ll learn about S3 pricing and cost factors, storage classes and how you can save money. 
-
-### [289. 70% of Amazon's Annual Revenue Comes from American Consumers Who Pay $14.99/month for Prime](https://hackernoon.com/70percent-of-amazons-annual-revenue-comes-from-american-consumers-who-pay-$1499month-for-prime)
+### [283. 70% of Amazon's Annual Revenue Comes from American Consumers Who Pay $14.99/month for Prime](https://hackernoon.com/70percent-of-amazons-annual-revenue-comes-from-american-consumers-who-pay-$1499month-for-prime)
 ![](https://cdn.hackernoon.com/images/many-little-people-making-a-big-animal-fat-hmtbivu5bmonkuklj8gzh0g2.png)
 Basically, regular American consumers are at the heart of Amazon's business model.
 
-### [290. How Headliner Helped Artists Deliver Quality Virtual Concert Experience During the Pandemic](https://hackernoon.com/how-headliner-helped-artists-deliver-quality-virtual-concert-experience-during-the-pandemic)
+### [284. Comparing Different Serverless Monitoring Platforms](https://hackernoon.com/comparing-different-serverless-monitoring-platforms-ms1u3u7y)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-qvu3unf.gif?alt=media&token=37d9dfa7-41a6-43e0-a4e1-55a166acdc88)
+Technology touches almost every corner of the world economy. Even when it’s an indirect relation, in many cases tech is an essential, vital part of our societies. It just can’t fail without causing too much distress and losses. Not only financially, but especially to the human aspect.
+
+### [285. How Headliner Helped Artists Deliver Quality Virtual Concert Experience During the Pandemic](https://hackernoon.com/how-headliner-helped-artists-deliver-quality-virtual-concert-experience-during-the-pandemic)
 ![](https://cdn.hackernoon.com/images/7GGjdbIpEWhSoNNMb3i5kpsuefF3-yh334i8.jpeg)
 While most music is accessible today via streaming services, the allure of experiencing performances live remains strong as fans seek out concerts and festivals. When the global pandemic halted large gatherings, artists began exploring alternate ways to continue performing, typically via live streams ranging from intimate and low-fi setups to clones of stage shows in empty halls. Inspired to help deliver a more dynamic virtual concert experience, Headliner Founder and CEO Matt Smolin began building a new way for artists to connect with fans. Leveraging Amazon Interactive Video Service (Amazon IVS) for ultra-low latency streaming, Headliner established a new medium for performers to host live, interactive virtual concert events.
+
+### [286. Knowing These Secrets Will Turn Your Long-Running Workflows Into Something Amazing](https://hackernoon.com/knowing-these-secrets-will-turn-your-long-running-workflows-into-something-amazing-8rh3wh8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fl5zOLSJSCXbNFE632NiK1dIRRaI3-tm7c3u0w.jpeg?alt=media&token=dc989c39-9d4d-4244-a2ae-c7cf4a5ecc1b)
+Introduction
+
+### [287. How AWS Enabled My American Dream](https://hackernoon.com/how-aws-enabled-my-american-dream-vn2x34by)
+![](https://cdn.hackernoon.com/images/CKm5QWycYDYVoSD7SPg8hYqgO7p1-ih1t3542.png)
+Today we explain AWS and how it blows a door open for the poor to achieve the American dream.
+
+### [288. The Battle of the App Stores and Monopoly Wars](https://hackernoon.com/the-battle-of-the-app-stores-and-monopoly-wars)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4302x3k.jpeg)
+I address how the many anti-trust lawsuits are forging the creation of future app stores.
+
+### [289. Introduction to AWS S3 Pricing and How to Optimize Expenditure](https://hackernoon.com/introduction-to-aws-s3-pricing-and-how-to-optimize-expenditure-tx4g33sr)
+![](https://cdn.hackernoon.com/images/CAcAUp9L4Bb82B1TFYOaaBSjd322-tf4r3274.jpeg)
+In this AWS S3 Pricing and Cost Optimization Guide, you’ll learn about S3 pricing and cost factors, storage classes and how you can save money. 
+
+### [290. Official Retailers Dragged Into Battle](https://hackernoon.com/official-retailers-dragged-into-battle-p61m31sx)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-b3b31l1.jpeg)
+In April 2019, fans of the makeup influencer Jaclyn Hill noticed her new eyeshadow palette, normally $38, on Walmart.com for the unbelievably low price of $16.39. Many rushed to buy; others were skeptical: Hill had announced that the palette would be available only through certain retailers, and Walmart wasn’t one of them. 
 
 ### [291. An Introduction to Selling Multichannel: 5 Essential Tips](https://hackernoon.com/an-introduction-to-selling-multichannel-5-essential-tips-ga3f34w3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fpaj7cNMtZ0eR24JHY5A8jVepqj93-39c4wwp.jpeg?alt=media&token=f064883b-994e-44dc-9eb2-e393ee5afc48)
 Multichannel retail or eRetail is selling through more than one channel (such as your website or on eBay) and getting your products in many different places. Often the easiest way is to get onto various marketplaces, such as Amazon or Fruugo.
 
-### [292. Ultimate Guide to Price Matching for Retailers](https://hackernoon.com/ultimate-guide-to-price-matching-for-retailers-o01b3zkr)
-![](https://images.unsplash.com/photo-1559526324-593bc073d938?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Price matching might sound like the ultimate pricing strategy that your business should include after you hear about price match Walmart policy. It is true that many consumers put the price as their primary factor to consider when they purchase an item whether it is online or in-store.
-
-### [293. Unveiling the Power of Self-Attention for Shipping Cost Prediction: Methodology](https://hackernoon.com/unveiling-the-power-of-self-attention-for-shipping-cost-prediction-methodology)
+### [292. Unveiling the Power of Self-Attention for Shipping Cost Prediction: Methodology](https://hackernoon.com/unveiling-the-power-of-self-attention-for-shipping-cost-prediction-methodology)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-ur8319d.png)
 New AI model (Rate Card Transformer) analyzes package details (size, carrier etc.) to predict shipping costs more accurately. 
+
+### [293. Amazon Accused of Unfairly Charging Consumers Without Consent](https://hackernoon.com/amazon-accused-of-unfairly-charging-consumers-without-consent)
+![](https://cdn.hackernoon.com/images/charging-consumers-without-consent-tvp6n3aelg53vunhbp45wurw.png)
+In violation of the FTC Act
 
 ### [294. Amazon, MGM, and the Triumph of New Hollywood](https://hackernoon.com/amazon-mgm-and-the-triumph-of-new-hollywood-k2l366v)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-qp1t3f6l.jpeg)
 Read this post for insight into how the rise of Amazon and the fall of MGM signals the triumph of New Hollywood.
 
-### [295. Amazon's Unfair Trade Practices in the State of Nevada ](https://hackernoon.com/amazons-unfair-trade-practices-in-the-state-of-nevada)
+### [295. Ultimate Guide to Price Matching for Retailers](https://hackernoon.com/ultimate-guide-to-price-matching-for-retailers-o01b3zkr)
+![](https://images.unsplash.com/photo-1559526324-593bc073d938?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Price matching might sound like the ultimate pricing strategy that your business should include after you hear about price match Walmart policy. It is true that many consumers put the price as their primary factor to consider when they purchase an item whether it is online or in-store.
+
+### [296. Amazon's Unfair Trade Practices in the State of Nevada ](https://hackernoon.com/amazons-unfair-trade-practices-in-the-state-of-nevada)
 ![](https://cdn.hackernoon.com/images/breathtaking-photograph-of-the-welcome-to-nevada-sign-open-road-in-the-background-fv229mqz018mllej3kq3urv8.png)
 Discover how Nevada is taking a stand against Amazon's alleged unfair trade practices.
-
-### [296. What Is the Right AWS Live Streaming Solution for Your Use Case](https://hackernoon.com/what-is-the-right-aws-live-streaming-solution-for-your-use-case)
-![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-3k035qi.jpeg)
-In July last year, AWS launched Amazon IVS, a managed live streaming platform for creating low latency interactive streaming services.
 
 ### [297. Five Recent FAAGM Statistics That Underline the Tech Industry's Longer Term Trends](https://hackernoon.com/five-recent-faagm-statistics-that-underline-the-tech-industrys-longer-term-trends-mvg3ewm)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-58cb3edc.jpeg?alt=media&token=c41b5659-d223-4734-93f7-328afe814c09)
 30% fee Apple charges developers for App Store transactions
 
-### [298. Could Taking Many AWS Certifications Work Against You?](https://hackernoon.com/could-taking-many-aws-certifications-work-against-you-rh5p3zt3)
+### [298. What Is the Right AWS Live Streaming Solution for Your Use Case](https://hackernoon.com/what-is-the-right-aws-live-streaming-solution-for-your-use-case)
+![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-3k035qi.jpeg)
+In July last year, AWS launched Amazon IVS, a managed live streaming platform for creating low latency interactive streaming services.
+
+### [299. Could Taking Many AWS Certifications Work Against You?](https://hackernoon.com/could-taking-many-aws-certifications-work-against-you-rh5p3zt3)
 ![](https://cdn.hackernoon.com/drafts/qfbs3y5n.png)
 I have got 7000 odd Linkedin connections and whenever I open my feed I see people posting a screenshot of certificates.
-
-### [299. Reimagining Smart Home Gadgets: Paving the Way to a Connected Lifestyle](https://hackernoon.com/reimagining-smart-home-gadgets-paving-the-way-to-a-connected-lifestyle)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-sw93mvf.jpeg)
-Driven by the skyrocketing growth of technologies like AI and the Internet of Things (IoT), the smart home market is expected to keep growing at double digits.
 
 ### [300. How CloudCover Helped Genflix Migrate VOD Media Workflow To AWS](https://hackernoon.com/how-cloudcover-helped-genflix-migrate-vod-media-workflow-to-aws-2j153ud3)
 ![](https://images.unsplash.com/photo-1560169897-fc0cdbdfa4d5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Overview 
 
-### [301. 🔮Technologically Clairvoyant Edition 8](https://hackernoon.com/technologically-clairvoyant-edition-8-vqsk3pml)
-![](https://cdn.hackernoon.com/drafts/kk9h3daz.png)
-Hello 👋
-
-### [302. Amazon in Lina Khan's Crosshairs: The FTC's Next Big Move](https://hackernoon.com/amazon-in-lina-khans-crosshairs-the-ftcs-next-big-move)
+### [301. Amazon in Lina Khan's Crosshairs: The FTC's Next Big Move](https://hackernoon.com/amazon-in-lina-khans-crosshairs-the-ftcs-next-big-move)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-5z93whe.jpeg)
 The FTC, led by Lina Khan, takes on Amazon alleging antitrust law violations. 
 
-### [303. Amazon Accused of Unfairly Charging Consumers Without Consent](https://hackernoon.com/amazon-accused-of-unfairly-charging-consumers-without-consent)
-![](https://cdn.hackernoon.com/images/charging-consumers-without-consent-tvp6n3aelg53vunhbp45wurw.png)
-In violation of the FTC Act
+### [302. Reimagining Smart Home Gadgets: Paving the Way to a Connected Lifestyle](https://hackernoon.com/reimagining-smart-home-gadgets-paving-the-way-to-a-connected-lifestyle)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-sw93mvf.jpeg)
+Driven by the skyrocketing growth of technologies like AI and the Internet of Things (IoT), the smart home market is expected to keep growing at double digits.
+
+### [303. 🔮Technologically Clairvoyant Edition 8](https://hackernoon.com/technologically-clairvoyant-edition-8-vqsk3pml)
+![](https://cdn.hackernoon.com/drafts/kk9h3daz.png)
+Hello 👋
 
 ### [304. An Introduction to the Main AWS Storage Services](https://hackernoon.com/an-introduction-to-the-main-aws-storage-services-gx1l35lg)
 ![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-h3103547.jpeg)
 Learn about different storage types available in AWS and when to use each.
 
-### [305. Amazon Engineer Jackson Kelley is Working on Data Privacy in Alexa](https://hackernoon.com/amazon-engineer-jackson-kelley-is-working-on-data-privacy-in-alexa-op723tym)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-0u4l3trv.jpeg?alt=media&token=b7420951-0dc8-4f94-a313-4323ab3cb25f)
-Ex block.one consultant (and formerly ML infrastructure engineer in retail at Amazon) Jackson Kelley has been nominated for a 2020 Noonie for contributions to the sticky subject of politics here on Hacker Noon. Scroll on for a a summary of what Jackson's been doing and thinking lately, including a new YouTube series, and which of his controversial opinions most people would definitely disagree with.
+### [305. Unveiling the Power of Self-Attention for Shipping Cost Prediction: Experiment](https://hackernoon.com/unveiling-the-power-of-self-attention-for-shipping-cost-prediction-experiment)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-th831sh.jpeg)
+New AI model (Rate Card Transformer) analyzes package details (size, carrier etc.) to predict shipping costs more accurately. 
 
 ### [306. How to Handle EC2 Credentials: Best Practices and Common Mistakes](https://hackernoon.com/how-to-handle-ec2-credentials-best-practices-and-common-mistakes-km303354)
 ![](https://cdn.hackernoon.com/images/5NZWyPc47pMbzpEcMC8q4ylcm6l1-059n33vl.jpeg)
 When using the AWS CLI on an EC2 instance for accessing AWS resources like your S3 buckets(S3 is a storage provider on AWS), you might encounter a permission error and prompted to run aws configure as shown here:
 
-### [307. Content Isn't King, Linkbacks Are](https://hackernoon.com/content-isnt-king-linkbacks-are-d1tq314h)
-![](https://images.unsplash.com/photo-1416543974351-c28453497ef4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Yes, you read it right. 
+### [307. Amazon Engineer Jackson Kelley is Working on Data Privacy in Alexa](https://hackernoon.com/amazon-engineer-jackson-kelley-is-working-on-data-privacy-in-alexa-op723tym)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-0u4l3trv.jpeg?alt=media&token=b7420951-0dc8-4f94-a313-4323ab3cb25f)
+Ex block.one consultant (and formerly ML infrastructure engineer in retail at Amazon) Jackson Kelley has been nominated for a 2020 Noonie for contributions to the sticky subject of politics here on Hacker Noon. Scroll on for a a summary of what Jackson's been doing and thinking lately, including a new YouTube series, and which of his controversial opinions most people would definitely disagree with.
 
-### [308. Unveiling the Power of Self-Attention for Shipping Cost Prediction: Experiment](https://hackernoon.com/unveiling-the-power-of-self-attention-for-shipping-cost-prediction-experiment)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-th831sh.jpeg)
+### [308. Unveiling the Power of Self-Attention for Shipping Cost Prediction: Abstract and Introduction](https://hackernoon.com/unveiling-the-power-of-self-attention-for-shipping-cost-prediction-abstract-and-introduction)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-qh831h7.jpeg)
 New AI model (Rate Card Transformer) analyzes package details (size, carrier etc.) to predict shipping costs more accurately. 
 
-### [309. The Power of Google Comparison Shopping Services](https://hackernoon.com/the-power-of-google-comparison-shopping-services-23163u0s)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIbAESJ8KsIhUXm229yBfNoMHcdj1-v8153uoi.jpeg?alt=media&token=6de373e3-ed9b-4b27-a50a-580e6f88c15b)
-Google Shopping continues to gain importance as an e-commerce channel. Shopping ads are displayed prominently on the search engine results pages and present users with products that match their search query. Google is developing the feature feverishly to meet the competition from Amazon as a sales channel. In initial tests with “Shopping Actions”, Google even allows direct purchases in the search results in the USA and France.
+### [309. Why the AWS Console Isn’t the Best for Serverless Debugging](https://hackernoon.com/why-the-aws-console-isnt-the-best-for-serverless-debugging-391e34nk)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-4qf31dj.jpeg)
+Debugging and troubleshooting in AWS Console is hard and time-consuming. Here's a few reasons why you should stop digging around in Cloudwatch. 
 
 ### [310. The HackerNoon Newsletter: If Youre an Amazon Ring Owner, You May Be an Accidental Spy (5/9/2025)](https://hackernoon.com/5-9-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_54_whzykousrxbw7bswlxi3j3tg.png)
 5/9/2025: Top 5 stories on the HackerNoon homepage!
 
-### [311. How Amazon's Reign Leaves Shoppers and Sellers in the Shadows](https://hackernoon.com/how-amazons-reign-leaves-shoppers-and-sellers-in-the-shadows)
-![](https://cdn.hackernoon.com/images/shoppers-with-shopping-carts-in-the-shadows-of-an-amazon-warehouse-tdh53puxnyycwrzefq0q4i1x.png)
-Explore how Amazon's monopolistic practices affect competition and consumers, closing off avenues of competition in key markets.
+### [311. Content Isn't King, Linkbacks Are](https://hackernoon.com/content-isnt-king-linkbacks-are-d1tq314h)
+![](https://images.unsplash.com/photo-1416543974351-c28453497ef4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Yes, you read it right. 
 
 ### [312. State Plaintiffs Accuse Amazon of Monopoly Maintenance in the Online Marketplace Services Market](https://hackernoon.com/state-plaintiffs-accuse-amazon-of-monopoly-maintenance-in-the-online-marketplace-services-market)
 ![](https://cdn.hackernoon.com/images/a-laptop-displaying-an-online-marketplace-qpdps406etc0sft4e8v5pk0u.png)
 Discover how Amazon is facing allegations of monopoly maintenance in the online marketplace services market.
 
-### [313. Unveiling the Power of Self-Attention for Shipping Cost Prediction: Conclusion and Future Work](https://hackernoon.com/unveiling-the-power-of-self-attention-for-shipping-cost-prediction-conclusion-and-future-work)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-f6831ze.jpeg)
-New AI model (Rate Card Transformer) analyzes package details (size, carrier etc.) to predict shipping costs more accurately. 
+### [313. How Amazon's Reign Leaves Shoppers and Sellers in the Shadows](https://hackernoon.com/how-amazons-reign-leaves-shoppers-and-sellers-in-the-shadows)
+![](https://cdn.hackernoon.com/images/shoppers-with-shopping-carts-in-the-shadows-of-an-amazon-warehouse-tdh53puxnyycwrzefq0q4i1x.png)
+Explore how Amazon's monopolistic practices affect competition and consumers, closing off avenues of competition in key markets.
 
-### [314. Why the AWS Console Isn’t the Best for Serverless Debugging](https://hackernoon.com/why-the-aws-console-isnt-the-best-for-serverless-debugging-391e34nk)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-4qf31dj.jpeg)
-Debugging and troubleshooting in AWS Console is hard and time-consuming. Here's a few reasons why you should stop digging around in Cloudwatch. 
-
-### [315. Amazon Offers Sellers Worldwide Unfettered Access to U.S Shoppers ](https://hackernoon.com/amazon-offers-sellers-worldwide-unfettered-access-to-us-shoppers)
+### [314. Amazon Offers Sellers Worldwide Unfettered Access to U.S Shoppers ](https://hackernoon.com/amazon-offers-sellers-worldwide-unfettered-access-to-us-shoppers)
 ![](https://cdn.hackernoon.com/images/breathtaking-photograph-of-a-neatly-folded-u-s-flag-in-an-amazon-packaging-box-c5vv153y24xhjsrqysn16qjx.png)
 Explore the online marketplace services market, which offers sellers a unique set of services, primarily access to a substantial online U.S. customer base. 
 
-### [316. Unveiling the Power of Self-Attention for Shipping Cost Prediction: Abstract and Introduction](https://hackernoon.com/unveiling-the-power-of-self-attention-for-shipping-cost-prediction-abstract-and-introduction)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-qh831h7.jpeg)
+### [315. Unveiling the Power of Self-Attention for Shipping Cost Prediction: Conclusion and Future Work](https://hackernoon.com/unveiling-the-power-of-self-attention-for-shipping-cost-prediction-conclusion-and-future-work)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-f6831ze.jpeg)
 New AI model (Rate Card Transformer) analyzes package details (size, carrier etc.) to predict shipping costs more accurately. 
 
-### [317. No Prime No Party: Sellers on Amazon Who Forgo Prime Face Expensive Consequences](https://hackernoon.com/no-prime-no-party-sellers-on-amazon-who-forgo-prime-face-expensive-consequences)
+### [316. No Prime No Party: Sellers on Amazon Who Forgo Prime Face Expensive Consequences](https://hackernoon.com/no-prime-no-party-sellers-on-amazon-who-forgo-prime-face-expensive-consequences)
 ![](https://cdn.hackernoon.com/images/an-amazon-package-filled-with-money-wa0xbjqfxjsc4uhbax38hmb6.png)
 For sellers, not having Prime eligibility is akin to disappearing from Amazon's storefront.
 
-### [318. The World's Maps Are Filling In - For Millions, It's a Matter of Life and Death](https://hackernoon.com/the-worlds-maps-are-filling-in-for-millions-its-a-matter-of-life-and-death)
-![](https://cdn.hackernoon.com/images/iN6H2UigxKapyOHZ6k4N9srFgsw1-9n03abx.png)
-A movement is on to fill in these blank spaces, with profound consequences for humanitarian aid, social equity, and global problem-solving.
+### [317. The Power of Google Comparison Shopping Services](https://hackernoon.com/the-power-of-google-comparison-shopping-services-23163u0s)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIbAESJ8KsIhUXm229yBfNoMHcdj1-v8153uoi.jpeg?alt=media&token=6de373e3-ed9b-4b27-a50a-580e6f88c15b)
+Google Shopping continues to gain importance as an e-commerce channel. Shopping ads are displayed prominently on the search engine results pages and present users with products that match their search query. Google is developing the feature feverishly to meet the competition from Amazon as a sales channel. In initial tests with “Shopping Actions”, Google even allows direct purchases in the search results in the USA and France.
 
-### [319. Governments Stifle IT Companies With Restrictions](https://hackernoon.com/governments-stifle-it-companies-with-restrictions-cxa9312y)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-9j90311f.jpeg)
-Here you will learn our current relations with the state and how that is going to change with the development of new technologies.
-
-### [320. How To Create an AWS S3 Bucket](https://hackernoon.com/how-to-create-an-aws-s3-bucket-zr183u37)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUBNPKUBqvuM01nn4wJOVA8byi8l2-qb14d2uvb.jpeg?alt=media&token=0b33634f-690c-4d90-9b2e-f4aec6513342)
-What's AWS S3? 
-
-### [321. The Implications of the Amazon Fraud Detector](https://hackernoon.com/the-implications-of-the-amazon-fraud-detector-xd4t3y4s)
-![](https://cdn.hackernoon.com/images/pndw3yvg.jpg)
-Over the past 4 years, I have been exclusively operating on AWS as my cloud computing platform. AWS offers so many products, what I have used is a small portion. However, what never has stopped impressing me is each of these products I use is constantly getting improved. AWS also has established a mature eco-system, new offerings are taking advantage of the platform as a whole to greatly reduce customer's learning curves.
-
-### [322. Rhode Island Takes Legal Action Against Amazon for Unfair Trade Practices ](https://hackernoon.com/rhode-island-takes-legal-action-against-amazon-for-unfair-trade-practices)
-![](https://cdn.hackernoon.com/images/a-rhode-island-landmark-pa5igo2f6fvi6c2m2bmlfufp.png)
-Discover Rhode Island's legal action against Amazon, alleging violations of state antitrust and trade practice laws. 
-
-### [323. Distinguishing Online Marketplaces from Vendor Selling: A Game of Control and Pricing](https://hackernoon.com/distinguishing-online-marketplaces-from-vendor-selling-a-game-of-control-and-pricing)
+### [318. Distinguishing Online Marketplaces from Vendor Selling: A Game of Control and Pricing](https://hackernoon.com/distinguishing-online-marketplaces-from-vendor-selling-a-game-of-control-and-pricing)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-jg93xug.jpeg)
 Learn why selling as a vendor to retailers is not interchangeable with using online marketplace services
 
-### [324. The FTC’s Beef With Amazon and Its Unfair Competitive Practices](https://hackernoon.com/the-ftcs-beef-with-amazon-and-its-unfair-competitive-practices)
-![](https://cdn.hackernoon.com/images/illustrate-a-chunk-of-beef-frzuiosfpidblu0h4tgvsd5l.png)
-Explore the FTC's allegations against Amazon, accusing the tech giant of anticompetitive practices that hinder price competition and stifles rivals. 
+### [319. Rhode Island Takes Legal Action Against Amazon for Unfair Trade Practices ](https://hackernoon.com/rhode-island-takes-legal-action-against-amazon-for-unfair-trade-practices)
+![](https://cdn.hackernoon.com/images/a-rhode-island-landmark-pa5igo2f6fvi6c2m2bmlfufp.png)
+Discover Rhode Island's legal action against Amazon, alleging violations of state antitrust and trade practice laws. 
 
-### [325. Amazon Accused of Violating ROSCA with Nonconsensual Enrollment](https://hackernoon.com/amazon-accused-of-violating-rosca-with-nonconsensual-enrollment)
+### [320. The World's Maps Are Filling In - For Millions, It's a Matter of Life and Death](https://hackernoon.com/the-worlds-maps-are-filling-in-for-millions-its-a-matter-of-life-and-death)
+![](https://cdn.hackernoon.com/images/iN6H2UigxKapyOHZ6k4N9srFgsw1-9n03abx.png)
+A movement is on to fill in these blank spaces, with profound consequences for humanitarian aid, social equity, and global problem-solving.
+
+### [321. Governments Stifle IT Companies With Restrictions](https://hackernoon.com/governments-stifle-it-companies-with-restrictions-cxa9312y)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-9j90311f.jpeg)
+Here you will learn our current relations with the state and how that is going to change with the development of new technologies.
+
+### [322. How To Create an AWS S3 Bucket](https://hackernoon.com/how-to-create-an-aws-s3-bucket-zr183u37)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUBNPKUBqvuM01nn4wJOVA8byi8l2-qb14d2uvb.jpeg?alt=media&token=0b33634f-690c-4d90-9b2e-f4aec6513342)
+What's AWS S3? 
+
+### [323. The Implications of the Amazon Fraud Detector](https://hackernoon.com/the-implications-of-the-amazon-fraud-detector-xd4t3y4s)
+![](https://cdn.hackernoon.com/images/pndw3yvg.jpg)
+Over the past 4 years, I have been exclusively operating on AWS as my cloud computing platform. AWS offers so many products, what I have used is a small portion. However, what never has stopped impressing me is each of these products I use is constantly getting improved. AWS also has established a mature eco-system, new offerings are taking advantage of the platform as a whole to greatly reduce customer's learning curves.
+
+### [324. Amazon Cosplays a Dictator in the U.S Online Superstore Market ](https://hackernoon.com/amazon-cosplays-a-dictator-in-the-us-online-superstore-market)
+![](https://cdn.hackernoon.com/images/breathtaking-photograph-of-jeff-bezos-depicted-as-an-army-general-if1i7inydx1onb0vcbmn86u3.png)
+A comprehensive analysis reveals Amazon's unyielding monopoly power within the online superstore market.
+
+### [325. Amazon Accused of Violating the Maryland Antitrust Act](https://hackernoon.com/amazon-accused-of-violating-the-maryland-antitrust-act)
+![](https://cdn.hackernoon.com/images/breathtaking-photographs-of-a-stack-of-legal-documents-on-a-desk-zlyporl6qr1pgv3excchr0du.png)
+We explore the specific claims, potential repercussions, and relevant legal codes in this case against Amazon
+
+### [326. Amazon Rules the Digital Superstore Market in the U.S.](https://hackernoon.com/amazon-rules-the-digital-superstore-market-in-the-us)
+![](https://cdn.hackernoon.com/images/breathtaking-photograph-of-jeff-bezos-wearing-a-crown-holding-the-u-s-flag-kewrgzcfmgchvztn2jiiro5y.png)
+Discover why the United States is the relevant geographic market for online superstores.
+
+### [327. Amazon Accused of Violating ROSCA with Nonconsensual Enrollment](https://hackernoon.com/amazon-accused-of-violating-rosca-with-nonconsensual-enrollment)
 ![](https://cdn.hackernoon.com/images/a-person-hesitant-to-do-something-but-ended-up-doing-it-anyway-y1byfr7edky32w3r14auqdx1.png)
 uh oh, that doesn't sound good does it
 
-### [326. Avoid Surprise Bills from AWS: 'Begin' Saving Today](https://hackernoon.com/avoid-surprise-bills-from-aws-begin-saving-today)
+### [328. The FTC’s Beef With Amazon and Its Unfair Competitive Practices](https://hackernoon.com/the-ftcs-beef-with-amazon-and-its-unfair-competitive-practices)
+![](https://cdn.hackernoon.com/images/illustrate-a-chunk-of-beef-frzuiosfpidblu0h4tgvsd5l.png)
+Explore the FTC's allegations against Amazon, accusing the tech giant of anticompetitive practices that hinder price competition and stifles rivals. 
+
+### [329. Avoid Surprise Bills from AWS: 'Begin' Saving Today](https://hackernoon.com/avoid-surprise-bills-from-aws-begin-saving-today)
 ![](https://cdn.hackernoon.com/images/Ji2lVQOQqjZRZZjlqkDm4s3Xuvv1-ap02fm1.jpeg)
 Protect yourself from surprise AWS bills!
 
-### [327. Amazon Goes ‘Pharma’, Raising Question as to Future of Fulfillment for 2021 ](https://hackernoon.com/amazon-goes-pharma-raising-question-as-to-future-of-fulfillment-for-2021-eq1a34de)
+### [330. Amazon Goes ‘Pharma’, Raising Question as to Future of Fulfillment for 2021 ](https://hackernoon.com/amazon-goes-pharma-raising-question-as-to-future-of-fulfillment-for-2021-eq1a34de)
 ![](https://cdn.hackernoon.com/images/QdRQJW6V96b8SQtJgBmzVkZNOfl2-rj6o31hm.jpeg)
 Back in November, Amazon announced its latest game-changing industry penetration, into the $300 billion pharmacy market. Amazon Pharmacy.
-
-### [328. TLDR Newsletter Week of August 5th Highlights](https://hackernoon.com/tldr-newsletter-week-of-august-5th-highlights-up3jp3rlq)
-![](https://cdn.hackernoon.com/images/hu243ryt.jpg)
-
-
-### [329. Looking Within to Battle Intrinsic Bias in AI ](https://hackernoon.com/looking-within-to-battle-intrinsic-bias-in-ai-b99v3te7)
-![](https://cdn.hackernoon.com/drafts/k5b73t5b.png)
-Intrinsic bias. We’re all guilty of it; it’s part of what makes us human. But we should always strive to be better and fairer, and to eliminate these biases when they arise. This is especially true in today's workplace, where the widespread adoption of artificial intelligence (AI) technology risks hardcoding these biases into the future of work.
-
-### [330. Amazon Accused of Violating the Maryland Antitrust Act](https://hackernoon.com/amazon-accused-of-violating-the-maryland-antitrust-act)
-![](https://cdn.hackernoon.com/images/breathtaking-photographs-of-a-stack-of-legal-documents-on-a-desk-zlyporl6qr1pgv3excchr0du.png)
-We explore the specific claims, potential repercussions, and relevant legal codes in this case against Amazon
 
 ### [331. Amazon’s Anticompetitive Tactics Work Together To Amplify Their Overall Exclusionary Effect](https://hackernoon.com/amazons-anticompetitive-tactics-work-together-to-amplify-their-overall-exclusionary-effect)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-fc93ys8.jpeg)
@@ -1348,29 +1350,29 @@ Amazon’s Anticompetitive Tactics Work Together To Amplify Their Overall Exclus
 ![](https://cdn.hackernoon.com/images/amazon-logo-khladkgwfh93krw55ulzglon.png)
 Discover how online marketplace services revolutionize the way businesses sell to U.S. shoppers. 
 
-### [333. Amazon Cosplays a Dictator in the U.S Online Superstore Market ](https://hackernoon.com/amazon-cosplays-a-dictator-in-the-us-online-superstore-market)
-![](https://cdn.hackernoon.com/images/breathtaking-photograph-of-jeff-bezos-depicted-as-an-army-general-if1i7inydx1onb0vcbmn86u3.png)
-A comprehensive analysis reveals Amazon's unyielding monopoly power within the online superstore market.
-
-### [334. Virtual Tech-for-Good Hackathon After Action Report](https://hackernoon.com/virtual-tech-for-good-hackathon-after-action-report-fn6v3ykg)
-![](https://cdn.hackernoon.com/drafts/6x303ys7.png)
-DemocracyLab adapts to Covid-19 by taking its March 14th St. Hack-trick’s Day event online.
-
-### [335. "cannot build multi-billion $ org unless you are clear on what instinct or organ you are targeting" ](https://hackernoon.com/cannot-build-multi-billion-dollar-org-unless-you-are-clear-on-what-instinct-or-organ-you-are-targeting-qy1rg2gcz)
-![](https://cdn.hackernoon.com/images/y91xx2gms.jpg)
+### [333. TLDR Newsletter Week of August 5th Highlights](https://hackernoon.com/tldr-newsletter-week-of-august-5th-highlights-up3jp3rlq)
+![](https://cdn.hackernoon.com/images/hu243ryt.jpg)
 
 
-### [336. Amazon Rules the Digital Superstore Market in the U.S.](https://hackernoon.com/amazon-rules-the-digital-superstore-market-in-the-us)
-![](https://cdn.hackernoon.com/images/breathtaking-photograph-of-jeff-bezos-wearing-a-crown-holding-the-u-s-flag-kewrgzcfmgchvztn2jiiro5y.png)
-Discover why the United States is the relevant geographic market for online superstores.
+### [334. Designing Resilient Systems: What Every Engineering Manager Should Know](https://hackernoon.com/designing-resilient-systems-what-every-engineering-manager-should-know)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3z02wt1.jpeg)
+Discover how retries, circuit breakers, and bulkheads create resilient systems. 
 
-### [337. Tech Titans Hammered By Congress At Antitrust Hearing](https://hackernoon.com/tech-titans-hammered-by-congress-at-antitrust-hearing-uf1v35rc)
+### [335. Looking Within to Battle Intrinsic Bias in AI ](https://hackernoon.com/looking-within-to-battle-intrinsic-bias-in-ai-b99v3te7)
+![](https://cdn.hackernoon.com/drafts/k5b73t5b.png)
+Intrinsic bias. We’re all guilty of it; it’s part of what makes us human. But we should always strive to be better and fairer, and to eliminate these biases when they arise. This is especially true in today's workplace, where the widespread adoption of artificial intelligence (AI) technology risks hardcoding these biases into the future of work.
+
+### [336. Tech Titans Hammered By Congress At Antitrust Hearing](https://hackernoon.com/tech-titans-hammered-by-congress-at-antitrust-hearing-uf1v35rc)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-nh5d351k.jpeg)
 Lawmakers allege abuse of monopoly power and political bias
 
-### [338. Designing Resilient Systems: What Every Engineering Manager Should Know](https://hackernoon.com/designing-resilient-systems-what-every-engineering-manager-should-know)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3z02wt1.jpeg)
-Discover how retries, circuit breakers, and bulkheads create resilient systems. 
+### [337. "cannot build multi-billion $ org unless you are clear on what instinct or organ you are targeting" ](https://hackernoon.com/cannot-build-multi-billion-dollar-org-unless-you-are-clear-on-what-instinct-or-organ-you-are-targeting-qy1rg2gcz)
+![](https://cdn.hackernoon.com/images/y91xx2gms.jpg)
+
+
+### [338. Virtual Tech-for-Good Hackathon After Action Report](https://hackernoon.com/virtual-tech-for-good-hackathon-after-action-report-fn6v3ykg)
+![](https://cdn.hackernoon.com/drafts/6x303ys7.png)
+DemocracyLab adapts to Covid-19 by taking its March 14th St. Hack-trick’s Day event online.
 
 ### [339. Tell Me Your Secrets: How Many Workers Review Posts on Amazon?](https://hackernoon.com/tell-me-your-secrets-how-many-workers-review-posts-on-amazon-o91h3574)
 ![](https://hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-me1p34vp.jpeg)
@@ -1380,39 +1382,39 @@ We found banned items for sale on Amazon.com
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FofsLJCGsEyP2OZO2GUpOWi8KhEG3-g5h3udw.jpeg?alt=media&token=dd716865-5a46-4145-8041-808986d080a4)
 Cost optimization strategies for AWS services are abundant. Prioritizing between your options is necessary to make sure you don’t overload yourself with the wealth of information. Looking at the best practices in the industry right now and the practices that have now become obsolete would help you find stability in your finances.
 
-### [341. 5 Tech Accessories That Make Alexa Smarter](https://hackernoon.com/5-tech-accessories-that-make-alexa-more-smarter-fk3a3vi4)
-![](https://images.unsplash.com/photo-1546795729-f3a5d42087f5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-1. Sonos One (Gen 2)
-
-### [342. Why the State of Maine Sued Amazon](https://hackernoon.com/why-the-state-of-maine-sued-amazon)
+### [341. Why the State of Maine Sued Amazon](https://hackernoon.com/why-the-state-of-maine-sued-amazon)
 ![](https://cdn.hackernoon.com/images/breathtaking-photograph-of-a-lawyer-in-a-courtroom-presiding-judge-and-jury-in-the-background-pt333y17g2ktrc6qvdw5lunq.png)
 Explore the State of Maine's allegations against Amazon, involving violations of Section 1102 of the Maine Monopolies and Profiteering Law.
 
-### [343. Amazon Climbed to the Top of the Ladder and Destroyed It ](https://hackernoon.com/amazon-climbed-to-the-top-of-the-ladder-and-destroyed-it)
-![](https://cdn.hackernoon.com/images/breathtaking-photograph-of-a-man-standing-near-the-edge-of-a-cliff-and-forcefully-throwing-a-ladder-off-the-precipice-award-winning-professional-highly-detailed-oeoieolo27jlu8brsjxg95qb.png)
-Amazon’s first-party anti-discounting algorithm has stopped other online stores from competing through offering lower prices
-
-### [344. FTC v. Amazon: Consumers are not the winners of Amazon monopoly, per Plaintiff](https://hackernoon.com/ftc-v-amazon-consumers-are-not-the-winners-of-amazon-monopoly-per-plaintiff)
-![](https://cdn.hackernoon.com/images/a-lose-lose-situation-with-one-clear-winner-very-far-away-fd6kogw40oiw71m2jf722jjd.png)
-In closing remarks, Plaintiff asked for monetary civil penalty among other things
-
-### [345. Amazon Doesn’t Want Anyone Else To Have a Piece of the Pie](https://hackernoon.com/amazon-doesnt-want-anyone-else-to-have-a-piece-of-the-pie)
+### [342. Amazon Doesn’t Want Anyone Else To Have a Piece of the Pie](https://hackernoon.com/amazon-doesnt-want-anyone-else-to-have-a-piece-of-the-pie)
 ![](https://cdn.hackernoon.com/images/breathtaking-photograph-of-jeff-bezos-holding-a-pie-eeg3t3a4z1x2lmtj7uxih1td.png)
 xplore Amazon's overwhelming presence in the online marketplace services market, with a market share exceeding 66% and continuing to grow. 
 
-### [346. Amazon's Ad Invasion: Resistance is Futile for 96% of Americans, 25–54](https://hackernoon.com/amazons-ad-invasion-resistance-is-futile-for-96percent-of-americans-25-54)
-![](https://cdn.hackernoon.com/images/amazon-invasion-bma7zoyctf0ger0t78uq9bn1.png)
-Dive into the world of Amazon's advertising services, where profits skyrocketed in 2021, and 96% of Americans aged 25 to 54 encounter ads monthly.
+### [343. 5 Tech Accessories That Make Alexa Smarter](https://hackernoon.com/5-tech-accessories-that-make-alexa-more-smarter-fk3a3vi4)
+![](https://images.unsplash.com/photo-1546795729-f3a5d42087f5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+1. Sonos One (Gen 2)
 
-### [347. Demystifying the Common Law Doctrine Against Monopolization ](https://hackernoon.com/demystifying-the-common-law-doctrine-against-monopolization)
+### [344. Amazon Climbed to the Top of the Ladder and Destroyed It ](https://hackernoon.com/amazon-climbed-to-the-top-of-the-ladder-and-destroyed-it)
+![](https://cdn.hackernoon.com/images/breathtaking-photograph-of-a-man-standing-near-the-edge-of-a-cliff-and-forcefully-throwing-a-ladder-off-the-precipice-award-winning-professional-highly-detailed-oeoieolo27jlu8brsjxg95qb.png)
+Amazon’s first-party anti-discounting algorithm has stopped other online stores from competing through offering lower prices
+
+### [345. Demystifying the Common Law Doctrine Against Monopolization ](https://hackernoon.com/demystifying-the-common-law-doctrine-against-monopolization)
 ![](https://cdn.hackernoon.com/images/a-monopoly-board-being-passed-through-a-paper-shredder-ig23woopzfh20rf32cm2nrlk.png)
 Delve into Pennsylvania's legal action against Amazon, alleging monopolistic practices that have stifled competition and led to inflated prices in the online su
 
-### [348. Michigan Takes Amazon to Court for Violation of Its Antitrust Reform Act ](https://hackernoon.com/michigan-takes-amazon-to-court-for-violation-of-its-antitrust-reform-act)
+### [346. Michigan Takes Amazon to Court for Violation of Its Antitrust Reform Act ](https://hackernoon.com/michigan-takes-amazon-to-court-for-violation-of-its-antitrust-reform-act)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-1g93xtk.jpeg)
 Michigan seeks equitable and injunctive relief, including remedies to address Amazon's alleged violations.
 
 
+
+### [347. Amazon's Ad Invasion: Resistance is Futile for 96% of Americans, 25–54](https://hackernoon.com/amazons-ad-invasion-resistance-is-futile-for-96percent-of-americans-25-54)
+![](https://cdn.hackernoon.com/images/amazon-invasion-bma7zoyctf0ger0t78uq9bn1.png)
+Dive into the world of Amazon's advertising services, where profits skyrocketed in 2021, and 96% of Americans aged 25 to 54 encounter ads monthly.
+
+### [348. FTC v. Amazon: Consumers are not the winners of Amazon monopoly, per Plaintiff](https://hackernoon.com/ftc-v-amazon-consumers-are-not-the-winners-of-amazon-monopoly-per-plaintiff)
+![](https://cdn.hackernoon.com/images/a-lose-lose-situation-with-one-clear-winner-very-far-away-fd6kogw40oiw71m2jf722jjd.png)
+In closing remarks, Plaintiff asked for monetary civil penalty among other things
 
 ### [349. When Groceries Go Digital, Perishables Find Their Own Path ](https://hackernoon.com/when-groceries-go-digital-perishables-find-their-own-path)
 ![](https://cdn.hackernoon.com/images/breathtaking-photograph-of-a-selection-of-perishable-goods-displayed-on-an-online-store-award-winning-professional-highly-detailed-mrt9fvche6s2tnpkudqdn4hq.png)

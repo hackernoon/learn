@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [gamedev](https://hackernoon.com/tagged/gamedev)
+### Let's learn about [Gamedev](https://hackernoon.com/tagged/gamedev) via these 90 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 "Story in a game is like a story in a porn movie. It’s expected to be there, but it’s not that important," John Carmack.
 
 ### [1. Code a Java Game with (almost) Zero Coding Skills](https://hackernoon.com/code-a-java-game-with-almost-zero-coding-skills-z442w31dh)
@@ -75,13 +77,13 @@ Discover the costs of starting a video game company, from software and team sala
 ![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-13436hh.jpeg)
 If you’re a complete newbie or already have a bit of a programming background, you can’t go wrong with Java for game development.
 
-### [19. How I Remade 2048 Using React](https://hackernoon.com/how-i-remade-2048-using-react-viw37rc)
-![](https://cdn.hackernoon.com/images/JnwMdaVZrzSOfLb9FHlT2x1vsd62-i3ej35y1.jpeg)
-Today you will learn how to build your own clone of the 2048 game in React.
-
-### [20. Exploring Unity DOTS and ECS: Is it a Game Changer?](https://hackernoon.com/exploring-unity-dots-and-ecs-is-it-a-game-changer)
+### [19. Exploring Unity DOTS and ECS: Is it a Game Changer?](https://hackernoon.com/exploring-unity-dots-and-ecs-is-it-a-game-changer)
 ![](https://cdn.hackernoon.com/images/6ZjcKcI9g0Z82M6fsOifYDYB5t33-dag3r88.jpeg)
 Exploring Unity DOTS & Entity Component System (ECS) for game development, their benefits, performance optimization, and related packages.
+
+### [20. How I Remade 2048 Using React](https://hackernoon.com/how-i-remade-2048-using-react-viw37rc)
+![](https://cdn.hackernoon.com/images/JnwMdaVZrzSOfLb9FHlT2x1vsd62-i3ej35y1.jpeg)
+Today you will learn how to build your own clone of the 2048 game in React.
 
 ### [21. From Pixels to Profits: Boosting Revenue with Analytics in Game Development](https://hackernoon.com/from-pixels-to-profits-boosting-revenue-with-analytics-in-game-development)
 ![](https://cdn.hackernoon.com/images/a2VF9enqB4aFgm50MRRoNNLHuC62-uh93whx.jpeg)
@@ -107,13 +109,13 @@ Monetize Unity games for success with strategies like in-app purchases, ads, sub
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-phb3rlz.gif.webp)
 Rider 2023.1 enhances Unity dev experience with Android debugging via USB, UI Toolkit templates & DOTS support, making it a top IDE for Unity developers.
 
-### [27. Creating a Troll-Free Oasis: Preventing Trolling in Your Game from the Ground Up](https://hackernoon.com/creating-a-troll-free-oasis-preventing-trolling-in-your-game-from-the-ground-up)
-![](https://cdn.hackernoon.com/images/a2VF9enqB4aFgm50MRRoNNLHuC62-bk93yqo.jpeg)
-Build a troll-free gaming community. Learn strategies, moderation, and fostering positivity for an inclusive and enjoyable experience.
-
-### [28. The Four Elements and Their Graphic Effects: Exploring Shaders in a 2D Game](https://hackernoon.com/the-four-elements-and-their-graphic-effects-exploring-shaders-in-a-2d-game)
+### [27. The Four Elements and Their Graphic Effects: Exploring Shaders in a 2D Game](https://hackernoon.com/the-four-elements-and-their-graphic-effects-exploring-shaders-in-a-2d-game)
 ![](https://cdn.hackernoon.com/images/aIBhHD3U3QhVIwOBpzVQlVJvvp12-tya2kto.jpeg)
 Features rendering of 2D effects - fire, water, earth and air
+
+### [28. Creating a Troll-Free Oasis: Preventing Trolling in Your Game from the Ground Up](https://hackernoon.com/creating-a-troll-free-oasis-preventing-trolling-in-your-game-from-the-ground-up)
+![](https://cdn.hackernoon.com/images/a2VF9enqB4aFgm50MRRoNNLHuC62-bk93yqo.jpeg)
+Build a troll-free gaming community. Learn strategies, moderation, and fostering positivity for an inclusive and enjoyable experience.
 
 ### [29. The Hacker's Nemesis: Strengthening Game Security to Ward Off Intrusions](https://hackernoon.com/the-hackers-nemesis-strengthening-game-security-to-ward-off-intrusions)
 ![](https://cdn.hackernoon.com/images/5unChxTmteXA0Tg5iBqQvBnMK492-bia3chb.jpeg)
@@ -199,159 +201,167 @@ Standing out from the crowd and capturing the attention of gamers is both an art
 ![](https://hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-88m34h6.jpeg)
 This multiplayer game architecture, if technically and economically feasible can reshape the future of gaming.
 
-### [50. Bugs From the 90's: The Code of the Command & Conquer Game ](https://hackernoon.com/bugs-from-the-90s-the-code-of-the-command-and-conquer-game-ww1o3t94)
+### [50. Rust + OpenGL: Rendering 250,000 Dynamic 3D Entities at 50 FPS on a Single CPU Thread](https://hackernoon.com/rust-opengl-rendering-250000-dynamic-3d-entities-at-50-fps-on-a-single-cpu-thread)
+![](https://cdn.hackernoon.com/images/CjQjIhr5fGeZNgzMYMAx2X6n72p1-4682coz.jpeg)
+How I forced an old 2013 laptop to render 13,000 active 3D entities at 60 FPS using Rust and OpenGL. No LOD, no culling—just pure data-oriented architecture.
+
+### [51. Bugs From the 90's: The Code of the Command & Conquer Game ](https://hackernoon.com/bugs-from-the-90s-the-code-of-the-command-and-conquer-game-ww1o3t94)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FO322TA7j93fsRTTa0swmcZx6VPR2-8e7i3wjv.jpeg?alt=media&token=d9a06caf-b952-4fed-a307-ab3fa5b3f4a9)
 The American company Electronic Arts Inc (EA) has made the source code of the games Command & Conquer: Tiberian Dawn and Command & Conquer: Red Alert publicly available. This code should help the game community to develop mods and maps, create custom units, and customize the gameplay logic. We all now have a unique opportunity to plunge into the history of development, which is very different from the modern one. 
 
-### [51. Common Coding Conventions in GDScript](https://hackernoon.com/common-coding-conventions-in-gdscript)
+### [52. Common Coding Conventions in GDScript](https://hackernoon.com/common-coding-conventions-in-gdscript)
 ![](https://cdn.hackernoon.com/images/zpanHCwdNeVXe9eoXJOCHcqgpiG2-aqa3i54.jpeg)
 Discover essential GDScript coding conventions that enhance code readability and maintainability. Learn about naming, indentation, line length, and more!
 
-### [52. Advantages of AI in Gaming: How We're Creating Smarter Competition](https://hackernoon.com/advantages-of-ai-in-gaming-how-were-creating-smarter-competition)
-![](https://cdn.hackernoon.com/images/4Gum8Dod89bhd5H904iNVRVVmAi1-sd436lk.jpeg)
-Why artificial intelligence is being introduced into competitive and cooperative games today, and how the development teams of such games use AI. 
-
-### [53. 5 Things You Should Know Before Developing CTV Games](https://hackernoon.com/5-things-you-should-know-before-developing-ctv-games)
-![](https://cdn.hackernoon.com/images/ZhS0mnYYWpW1ltoZT2wBkScxtv13-xy93our.jpeg)
-Learn 5 main steps that CTV developers should take into account when they are creating a new game. 
-
-### [54. Pixi's Asset Pack 1.0: Is the New Version A Step Forward for Asset Management?](https://hackernoon.com/pixis-asset-pack-10-is-the-new-version-a-step-forward-for-asset-management)
-![](https://cdn.hackernoon.com/images/oowodIN4dERk9VCRRetC5clSkZu2-xf02swi.jpeg)
-Discover how Pixi's Asset Pack streamlines game development with features like automated texture packing, compression, mipmaps, and manifest generation.
-
-### [55. 223 Stories To Learn About Game Development](https://hackernoon.com/223-stories-to-learn-about-game-development)
+### [53. 223 Stories To Learn About Game Development](https://hackernoon.com/223-stories-to-learn-about-game-development)
 ![](https://cdn.hackernoon.com/images/github/game-development-539.png)
 Learn everything you need to know about Game Development via these 223 free HackerNoon stories.
 
-### [56. Adventures in Assembly #2](https://hackernoon.com/adventures-in-assembly-2-l77m3ybt)
+### [54. Advantages of AI in Gaming: How We're Creating Smarter Competition](https://hackernoon.com/advantages-of-ai-in-gaming-how-were-creating-smarter-competition)
+![](https://cdn.hackernoon.com/images/4Gum8Dod89bhd5H904iNVRVVmAi1-sd436lk.jpeg)
+Why artificial intelligence is being introduced into competitive and cooperative games today, and how the development teams of such games use AI. 
+
+### [55. I Built a Functional, Data-Oriented 3D Game Framework in Rust for Low-End PCs](https://hackernoon.com/i-built-a-functional-data-oriented-3d-game-framework-in-rust-for-low-end-pcs)
+![](https://cdn.hackernoon.com/images/CjQjIhr5fGeZNgzMYMAx2X6n72p1-9nb2ct1.png)
+A lightweight Rust game framework built with Macroquad and ECS, designed to run on low-end hardware while exploring functional programming patterns.
+
+### [56. Pixi's Asset Pack 1.0: Is the New Version A Step Forward for Asset Management?](https://hackernoon.com/pixis-asset-pack-10-is-the-new-version-a-step-forward-for-asset-management)
+![](https://cdn.hackernoon.com/images/oowodIN4dERk9VCRRetC5clSkZu2-xf02swi.jpeg)
+Discover how Pixi's Asset Pack streamlines game development with features like automated texture packing, compression, mipmaps, and manifest generation.
+
+### [57. 5 Things You Should Know Before Developing CTV Games](https://hackernoon.com/5-things-you-should-know-before-developing-ctv-games)
+![](https://cdn.hackernoon.com/images/ZhS0mnYYWpW1ltoZT2wBkScxtv13-xy93our.jpeg)
+Learn 5 main steps that CTV developers should take into account when they are creating a new game. 
+
+### [58. Adventures in Assembly #2](https://hackernoon.com/adventures-in-assembly-2-l77m3ybt)
 ![](https://images.unsplash.com/photo-1533702165324-66678e2069b2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 As I've continued my dive down the rabbit hole that is assembly, I've found a buoy to grab onto: NES programming.
 
-### [57. What I've Learned By Making And Promoting A Game To Help Stray Cats](https://hackernoon.com/what-ive-learned-by-making-and-promoting-a-game-to-help-stray-cats-jbd3u2c)
+### [59. What I've Learned By Making And Promoting A Game To Help Stray Cats](https://hackernoon.com/what-ive-learned-by-making-and-promoting-a-game-to-help-stray-cats-jbd3u2c)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-sg82rdj.jpeg)
 At the beginning of summer 2019, I've got an idea to make a cat-themed game to help stray cats by donating all the revenue to cat charities.
 
-### [58. This Game From the 80s Had Kids Obsessing Over Space Trade—And Its Source Code Is Now Available ](https://hackernoon.com/this-game-from-the-80s-had-kids-obsessing-over-space-tradeand-its-source-code-is-now-available)
+### [60. This Game From the 80s Had Kids Obsessing Over Space Trade—And Its Source Code Is Now Available ](https://hackernoon.com/this-game-from-the-80s-had-kids-obsessing-over-space-tradeand-its-source-code-is-now-available)
 ![](https://cdn.hackernoon.com/images/NrTbYAzwWXehtjAXcrsfqXdC7te2-b6136wc.png)
 Elite was a space trading game with a huge universe, and you could explore it. The game's difficulty was insane, and I loved it.
 
-### [59. A Podcast with NIS America: How has COVID Changed the Gaming Industry?](https://hackernoon.com/how-has-covid-changed-the-gaming-industry-or-catching-up-with-nis-america-oj6c3w44)
+### [61. Reflection-Driven Development in Pure C: Eliminating Boilerplate at Scale](https://hackernoon.com/reflection-driven-development-in-pure-c-eliminating-boilerplate-at-scale)
+![](https://cdn.hackernoon.com/images/xChbp1GOsSZQs3qQIQ2c1SBimYw1-3z8216x.png)
+Automate your pure C game engine with Reflection Driven Development. Learn how to build a custom libclang parser to generate ECS and serialization code.
+
+### [62. A Podcast with NIS America: How has COVID Changed the Gaming Industry?](https://hackernoon.com/how-has-covid-changed-the-gaming-industry-or-catching-up-with-nis-america-oj6c3w44)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-sp5n3wkm.jpeg?alt=media&token=4b63d4e2-e22d-4125-8594-4d846a2f90de)
 In this episode of the Hacker Noon Podcast, I talked to Erin Kim from NIS America. For those of you that don't know, NIS America is the America-based counterpart of the Japanese game development company NIS (Nippon Ichi Software). 
 
-### [60. Bugs from the 90's: The Code of Command and Conquer [Volume 2]](https://hackernoon.com/bugs-from-the-90s-the-code-of-command-and-conquer-volume-2-np3y3t9w)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FO322TA7j93fsRTTa0swmcZx6VPR2-pa93wqu.jpeg?alt=media&token=b8638f22-1408-4d4e-9479-1056ff7b6cf3)
-The American company Electronic Arts Inc (EA) has opened the source code of the games Command & Conquer: Tiberian Dawn and Command & Conquer: Red Alert publicly available. Several dozen errors were detected in the source code using the PVS-Studio analyzer, so, please, welcome the continuation of found defects review.
-
-### [61. How to Create Promotional Assets: An Insider's Guide into the World of Graphic Design](https://hackernoon.com/how-to-create-promotional-assets-an-insiders-guide-into-the-world-of-graphic-design)
-![](https://cdn.hackernoon.com/images/FQTiBm6NsSMR9wsaTKnQKVIgEJi1-vf93rio.jpeg)
- I offer you to go through the evolutionary stages of promo materials.
-
-### [62. My Experience as A Team Lead For Unity3D Gamedev Team](https://hackernoon.com/my-experience-as-a-team-lead-for-unity3d-gamedev-team-6v4l350s)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-m51y350m.jpeg)
-Recently I became the team lead in the company I am working for and here I want to share a few lessons that I already managed to learn.
-
-### [63. Blockchain Games Hold More Potential Than Previously Understood](https://hackernoon.com/blockchain-games-hold-more-potential-than-previously-understood-sw2f3yfx)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FDYu10hCeytaaTe6cndHe6SFZQh02-2q2r3u13.jpeg?alt=media&token=36c30c4d-cf1e-439c-80e0-f115145a2ead)
-Blockchain technology is step by step penetrating many areas of our lives, not just becoming an innovation, but shaping the approach and requirements for market products. 
-
-### [64. Dedicated Game Server: How To Choose The Right Infrastructure](https://hackernoon.com/dedicated-game-server-how-to-choose-the-right-infrastructure-fi6q3yyj)
-![](https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-The importance of high-performance dedicated game server in the gaming sector is too high to ignore, especially since cloud gaming has begun to steal the show. Super-high latency is what gamers need to experience the real gut of a game. And customized dedicated servers are the best solution to provide such a short/zero latency.
-
-### [65. What To Do When Your 12-Year-Old Son Has a Girlfriend in Fortnite](https://hackernoon.com/what-to-do-when-your-12-year-old-son-has-a-girlfriend-in-fortnite-vxh3urt)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvOxsPBb357a7zWYJbSPp9yBicfL2-9h203vdo.jpeg?alt=media&token=fad54a39-d0a0-4f23-bd32-82796fe003cb)
-I recently had a chat with a parent. He said his 12-year-old son came home and announced that he has met someone in Fortnite —  and that someone is now his girlfriend.
-
-### [66. Blockchain Tech In the Gaming Industry: Major Players To Spark Mass Adoption?](https://hackernoon.com/blockchain-tech-in-the-gaming-industry-major-players-to-spark-mass-adoption-b31t3ws3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfbnUVjnl8Hh4qtRO7PCOLjKggfn1-9uc3xob.jpeg?alt=media&token=1dfb4639-6a9d-4c31-80ce-da4731bd93d3)
-While the blockchain and crypto industry participants never stop developing and exploring new possible applications of the tech, major global industries are now turning for answers in this unique technology when it comes to innovations in their field. 
-
-### [67. C++ Isn’t Going Anywhere in Game Development](https://hackernoon.com/c-isnt-going-anywhere-in-game-development)
+### [63. C++ Isn’t Going Anywhere in Game Development](https://hackernoon.com/c-isnt-going-anywhere-in-game-development)
 ![](https://cdn.hackernoon.com/images/6Dt8eSIVdXVdIJZnibGuyX1nwS33-cy0389l.png)
 C++ remains the backbone of modern game engines—and it’s not going away anytime soon.
 
-### [68. Demographics of the Gaming Industry: Reading Between the Lines](https://hackernoon.com/demographics-of-the-gaming-industry-reading-between-the-lines-662s33ur)
+### [64. How to Create Promotional Assets: An Insider's Guide into the World of Graphic Design](https://hackernoon.com/how-to-create-promotional-assets-an-insiders-guide-into-the-world-of-graphic-design)
+![](https://cdn.hackernoon.com/images/FQTiBm6NsSMR9wsaTKnQKVIgEJi1-vf93rio.jpeg)
+ I offer you to go through the evolutionary stages of promo materials.
+
+### [65. Bugs from the 90's: The Code of Command and Conquer [Volume 2]](https://hackernoon.com/bugs-from-the-90s-the-code-of-command-and-conquer-volume-2-np3y3t9w)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FO322TA7j93fsRTTa0swmcZx6VPR2-pa93wqu.jpeg?alt=media&token=b8638f22-1408-4d4e-9479-1056ff7b6cf3)
+The American company Electronic Arts Inc (EA) has opened the source code of the games Command & Conquer: Tiberian Dawn and Command & Conquer: Red Alert publicly available. Several dozen errors were detected in the source code using the PVS-Studio analyzer, so, please, welcome the continuation of found defects review.
+
+### [66. My Experience as A Team Lead For Unity3D Gamedev Team](https://hackernoon.com/my-experience-as-a-team-lead-for-unity3d-gamedev-team-6v4l350s)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-m51y350m.jpeg)
+Recently I became the team lead in the company I am working for and here I want to share a few lessons that I already managed to learn.
+
+### [67. Blockchain Games Hold More Potential Than Previously Understood](https://hackernoon.com/blockchain-games-hold-more-potential-than-previously-understood-sw2f3yfx)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FDYu10hCeytaaTe6cndHe6SFZQh02-2q2r3u13.jpeg?alt=media&token=36c30c4d-cf1e-439c-80e0-f115145a2ead)
+Blockchain technology is step by step penetrating many areas of our lives, not just becoming an innovation, but shaping the approach and requirements for market products. 
+
+### [68. Dedicated Game Server: How To Choose The Right Infrastructure](https://hackernoon.com/dedicated-game-server-how-to-choose-the-right-infrastructure-fi6q3yyj)
+![](https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+The importance of high-performance dedicated game server in the gaming sector is too high to ignore, especially since cloud gaming has begun to steal the show. Super-high latency is what gamers need to experience the real gut of a game. And customized dedicated servers are the best solution to provide such a short/zero latency.
+
+### [69. What To Do When Your 12-Year-Old Son Has a Girlfriend in Fortnite](https://hackernoon.com/what-to-do-when-your-12-year-old-son-has-a-girlfriend-in-fortnite-vxh3urt)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvOxsPBb357a7zWYJbSPp9yBicfL2-9h203vdo.jpeg?alt=media&token=fad54a39-d0a0-4f23-bd32-82796fe003cb)
+I recently had a chat with a parent. He said his 12-year-old son came home and announced that he has met someone in Fortnite —  and that someone is now his girlfriend.
+
+### [70. Blockchain Tech In the Gaming Industry: Major Players To Spark Mass Adoption?](https://hackernoon.com/blockchain-tech-in-the-gaming-industry-major-players-to-spark-mass-adoption-b31t3ws3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfbnUVjnl8Hh4qtRO7PCOLjKggfn1-9uc3xob.jpeg?alt=media&token=1dfb4639-6a9d-4c31-80ce-da4731bd93d3)
+While the blockchain and crypto industry participants never stop developing and exploring new possible applications of the tech, major global industries are now turning for answers in this unique technology when it comes to innovations in their field. 
+
+### [71. Demographics of the Gaming Industry: Reading Between the Lines](https://hackernoon.com/demographics-of-the-gaming-industry-reading-between-the-lines-662s33ur)
 ![](https://cdn.hackernoon.com/images/HPKTXpNUNMbhwUaRX9c7sxUvnau1-ig4y32q8.jpeg)
 An overview of recent developments in the gaming industry and what they mean for publishers and developers.
 
-### [69. The Attention Span Drought Is Forcing LiveOps to Go Relentless](https://hackernoon.com/the-attention-span-drought-is-forcing-liveops-to-go-relentless)
+### [72. The Attention Span Drought Is Forcing LiveOps to Go Relentless](https://hackernoon.com/the-attention-span-drought-is-forcing-liveops-to-go-relentless)
 ![](https://images.unsplash.com/photo-1709115794974-cb1455abb3f6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyOXx8c3RvcHdhdGNofGVufDB8fHx8MTc2ODY0Njc0MHww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080)
 Why modern LiveOps focuses on session length over return timing.
 
-### [70. From 3D Rendering to Motion Capture: What's Next for Game Development?](https://hackernoon.com/from-3d-rendering-to-motion-capture-whats-next-for-game-development-vh343ywn)
-![](https://cdn.hackernoon.com/drafts/r02h3ya2.png)
-The past few decades have been game-changing for our daily lives as a whole range of industries transformed into what we see today. The world does not function the way it used to just a few decades ago and that is thanks to technological advancements, occurring throughout this timeframe. 
-
-### [71. 5 Steps You Should Take To Launch A Cool Game](https://hackernoon.com/5-steps-you-should-take-to-launch-a-cool-game-f9y333h)
-![](https://cdn.hackernoon.com/images/HPKTXpNUNMbhwUaRX9c7sxUvnau1-8k1933pc.jpeg)
-The key steps of the game development process, how each of them functions, and what roles and operations they consist of. 
-
-### [72. Supercharging Game Graphics with Physics in Phaser](https://hackernoon.com/supercharging-game-graphics-with-physics-in-phaser)
-![](https://cdn.hackernoon.com/images/5LFDCJYr0SelsSK4fHdzBS1eHdV2-dd83a30.jpeg)
-Craft ropes that dance, limbs that sway, and fish that splash with the magic of physics and images in Phaser. Learn how to effortlessly create a rope-like mesh 
-
-### [73. IoT as a Multi-Faceted Game Changer in 2021 and Beyond](https://hackernoon.com/iot-as-a-multi-faceted-game-changer-in-2021-and-beyond-aot3woo)
-![](https://cdn.hackernoon.com/images/Ek1EUYRPbVcFAn139JtH3fCnL9i1-5d6p31xp.jpeg)
-There is no second-guessing the predominance of the IT industry, despite the catastrophic effects of the pandemic felt across diverse verticals. 
-
-### [74. The Importance of Music in Video Games](https://hackernoon.com/the-importance-of-music-in-video-games-2k2y3td2)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAodWcUCDGIW6F773VYkxzgADk8r1-zu9h3el7.jpeg?alt=media&token=20d85e7e-f117-4b8b-8469-292a21b567bb)
-Think back to the year of 1986. You are an excited child sprinting through the arcade so you can be the first to get to the amazing new game, ”Outrun”. What was it that was so special about this game? The cars? The quirky characters? The endless crashing into things? Probably. But I recently played it for the first time, and the one thing that stood out to me was the music. 
-
-### [75. 51 Stories To Learn About Gamedev](https://hackernoon.com/51-stories-to-learn-about-gamedev)
-![](https://cdn.hackernoon.com/images/github/gamedev-661.png)
-Learn everything you need to know about Gamedev via these 51 free HackerNoon stories.
-
-### [76. Creating a Notification-Based Game via Unity and Courier](https://hackernoon.com/creating-a-notification-based-game-via-unity-and-courier)
-![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-hrf35mb.jpeg)
-I built a notification-based game with Unity Engine, Courier, Twilio, and Mailjet. This post discusses how I used Courier to build Rain Spikes.
-
-### [77. The Brainrot-ification of Mobile Game Economy Design](https://hackernoon.com/the-brainrot-ification-of-mobile-game-economy-design)
+### [73. The Brainrot-ification of Mobile Game Economy Design](https://hackernoon.com/the-brainrot-ification-of-mobile-game-economy-design)
 ![](https://images.unsplash.com/photo-1603290989168-0cab99a6e996?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzMXx8Z2FtZSUyMGRlc2lnbnxlbnwwfHx8fDE3NDM0NTE2MTZ8MA&amp;ixlib=rb-4.0.3&amp;q=80&amp;w=1080)
 A look at how modern mobile games streamline currencies, progression, and rewards to lower cognitive load and increase player engagement.
 
-### [78. How to Improve Customer Care](https://hackernoon.com/how-to-improve-customer-care-z33m37z9)
+### [74. Supercharging Game Graphics with Physics in Phaser](https://hackernoon.com/supercharging-game-graphics-with-physics-in-phaser)
+![](https://cdn.hackernoon.com/images/5LFDCJYr0SelsSK4fHdzBS1eHdV2-dd83a30.jpeg)
+Craft ropes that dance, limbs that sway, and fish that splash with the magic of physics and images in Phaser. Learn how to effortlessly create a rope-like mesh 
+
+### [75. From 3D Rendering to Motion Capture: What's Next for Game Development?](https://hackernoon.com/from-3d-rendering-to-motion-capture-whats-next-for-game-development-vh343ywn)
+![](https://cdn.hackernoon.com/drafts/r02h3ya2.png)
+The past few decades have been game-changing for our daily lives as a whole range of industries transformed into what we see today. The world does not function the way it used to just a few decades ago and that is thanks to technological advancements, occurring throughout this timeframe. 
+
+### [76. 5 Steps You Should Take To Launch A Cool Game](https://hackernoon.com/5-steps-you-should-take-to-launch-a-cool-game-f9y333h)
+![](https://cdn.hackernoon.com/images/HPKTXpNUNMbhwUaRX9c7sxUvnau1-8k1933pc.jpeg)
+The key steps of the game development process, how each of them functions, and what roles and operations they consist of. 
+
+### [77. IoT as a Multi-Faceted Game Changer in 2021 and Beyond](https://hackernoon.com/iot-as-a-multi-faceted-game-changer-in-2021-and-beyond-aot3woo)
+![](https://cdn.hackernoon.com/images/Ek1EUYRPbVcFAn139JtH3fCnL9i1-5d6p31xp.jpeg)
+There is no second-guessing the predominance of the IT industry, despite the catastrophic effects of the pandemic felt across diverse verticals. 
+
+### [78. The Importance of Music in Video Games](https://hackernoon.com/the-importance-of-music-in-video-games-2k2y3td2)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAodWcUCDGIW6F773VYkxzgADk8r1-zu9h3el7.jpeg?alt=media&token=20d85e7e-f117-4b8b-8469-292a21b567bb)
+Think back to the year of 1986. You are an excited child sprinting through the arcade so you can be the first to get to the amazing new game, ”Outrun”. What was it that was so special about this game? The cars? The quirky characters? The endless crashing into things? Probably. But I recently played it for the first time, and the one thing that stood out to me was the music. 
+
+### [79. 51 Stories To Learn About Gamedev](https://hackernoon.com/51-stories-to-learn-about-gamedev)
+![](https://cdn.hackernoon.com/images/github/gamedev-661.png)
+Learn everything you need to know about Gamedev via these 51 free HackerNoon stories.
+
+### [80. Creating a Notification-Based Game via Unity and Courier](https://hackernoon.com/creating-a-notification-based-game-via-unity-and-courier)
+![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-hrf35mb.jpeg)
+I built a notification-based game with Unity Engine, Courier, Twilio, and Mailjet. This post discusses how I used Courier to build Rain Spikes.
+
+### [81. How to Improve Customer Care](https://hackernoon.com/how-to-improve-customer-care-z33m37z9)
 ![](https://cdn.hackernoon.com/images/iAtPvYoeT6WohkCVWxoFW6cpFV02-qf2j3gkh.jpeg)
 Today customer care is one of the most popular and widely discussed topics in the IT industry. 
 
-### [79. The Jinn: My Storyline for my first Game Project in Unity](https://hackernoon.com/the-jinn-my-storyline-for-my-first-game-project-in-unity-m11dn30sy)
+### [82. The Jinn: My Storyline for my first Game Project in Unity](https://hackernoon.com/the-jinn-my-storyline-for-my-first-game-project-in-unity-m11dn30sy)
 ![](https://cdn.hackernoon.com/drafts/hy1d630a3.png)
 The daylight dims, its 3:00 pm, almost afternoon. It feels humid as the moisture in the air has increased. The skin feels all damp and sticky. My little room is getting all hot as I start sweating. It was supposed to be an ordinary afternoon on a summer day. “Lets go outside…” I talked to myself.
 
-### [80. What is Cloud Gaming and How is Google Leading the Industry?](https://hackernoon.com/what-is-cloud-gaming-and-how-is-google-leading-the-industry-kr7g3uin)
+### [83. What is Cloud Gaming and How is Google Leading the Industry?](https://hackernoon.com/what-is-cloud-gaming-and-how-is-google-leading-the-industry-kr7g3uin)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGt9tFmzKWfjJCmcNxLXjx38Ixy2-4i6j3uza.jpeg?alt=media&token=30d4364b-35cf-4b58-8faf-acca2352b82a)
 Most games today are downloaded and played on smartphones, gaming consoles, and PCs. Network connections support player accounts and in-game purchases, but the games themselves run on players' devices. Game companies build services around top game titles, enabling them to deliver continuous updates that add new gameplay and respond to the public feedback on social streaming services. 
-
-### [81. 'Seed' by Klang Games: Part 1 of The Game AI Series ](https://hackernoon.com/seed-by-klang-games-part-1-of-the-game-ai-series-607035f5)
-![](https://cdn.hackernoon.com/images/WzZilRnIjcgdCcFf6qQWW3k9cyp2-3g98337i.jpeg)
-I spoke to their excellent game AI engineer Alessia Nigretti to get some insights into the team’s development process and the technology unpinning the game.
-
-### [82. The Noonification: Startups of The Year 2023: Nominations and Voting Now Open (5/10/2023)](https://hackernoon.com/5-10-2023-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-5/10/2023: Top 5 stories on the Hackernoon homepage!
-
-### [83. Oh You're Going to Your First Game Jam? Read Me First](https://hackernoon.com/oh-youre-going-to-your-first-game-jam-read-me-first-mw3k3uuv)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FII3qMjBh73e72VJHWbdJcXCMgvs1-8oh3wmr.jpeg?alt=media&token=97e5d838-9876-4c06-b717-34c5116c67c5)
-I have participated in quite a few game jams over the years and now I want to share my experiences with you. I participated in both online as offline jams like Ludum Dare and Global Game Jam. Game jams are fun and can be a great learning experience but they can also be stressful and tiring.
 
 ### [84. “Brainrot” and the Attention Economy Are Changing Time Gating in Free-to-Play Games](https://hackernoon.com/brainrot-and-the-attention-economy-are-changing-time-gating-in-free-to-play-games)
 ![](https://cdn.hackernoon.com/images/A396D35Bq8ankMdp57XflSqEiRT2-za83cs6.jpeg)
 Practical take on how modern attention trends like “brainrot” shape player habits and influence free-to-play design.
 
-### [85. Wanna Get Great At Making Indie Games? Make Lots Of Them ](https://hackernoon.com/wanna-get-great-at-making-indie-games-make-lots-of-them-1a1n3ttp)
+### [85. 'Seed' by Klang Games: Part 1 of The Game AI Series ](https://hackernoon.com/seed-by-klang-games-part-1-of-the-game-ai-series-607035f5)
+![](https://cdn.hackernoon.com/images/WzZilRnIjcgdCcFf6qQWW3k9cyp2-3g98337i.jpeg)
+I spoke to their excellent game AI engineer Alessia Nigretti to get some insights into the team’s development process and the technology unpinning the game.
+
+### [86. The Noonification: Startups of The Year 2023: Nominations and Voting Now Open (5/10/2023)](https://hackernoon.com/5-10-2023-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+5/10/2023: Top 5 stories on the Hackernoon homepage!
+
+### [87. Oh You're Going to Your First Game Jam? Read Me First](https://hackernoon.com/oh-youre-going-to-your-first-game-jam-read-me-first-mw3k3uuv)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FII3qMjBh73e72VJHWbdJcXCMgvs1-8oh3wmr.jpeg?alt=media&token=97e5d838-9876-4c06-b717-34c5116c67c5)
+I have participated in quite a few game jams over the years and now I want to share my experiences with you. I participated in both online as offline jams like Ludum Dare and Global Game Jam. Game jams are fun and can be a great learning experience but they can also be stressful and tiring.
+
+### [88. Wanna Get Great At Making Indie Games? Make Lots Of Them ](https://hackernoon.com/wanna-get-great-at-making-indie-games-make-lots-of-them-1a1n3ttp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FII3qMjBh73e72VJHWbdJcXCMgvs1-4mj3w3a.png?alt=media&token=b096d5df-5086-4c91-9859-72745b3793db)
 It's simple, really: ff you want to become a good game developer, you need to make lots of games. Let’s first start with why you need to be productive: the more games you make the better and faster you become at making games. Every new game you make is a new addition to your portfolio. Publish your games on different portals to see what the players think about your game, see what works, and what kind of ideas don’t.
 
-### [86. Why Even Legendary Games Like Wesnoth Hide Bugs in Plain Sight](https://hackernoon.com/why-even-legendary-games-like-wesnoth-hide-bugs-in-plain-sight)
+### [89. Why Even Legendary Games Like Wesnoth Hide Bugs in Plain Sight](https://hackernoon.com/why-even-legendary-games-like-wesnoth-hide-bugs-in-plain-sight)
 ![](https://cdn.hackernoon.com/images/YaGskoRFFiZUrSR6k9nHFbhKhMs1-zp03ab7.png)
  Discover why even classic open-source games like The Battle for Wesnoth conceal hidden bugs—and how static analysis tools reveal them.
 
-### [87. Why Hits Feel Different Now: Mobile Chases TikTok, Console Chases Community](https://hackernoon.com/why-hits-feel-different-now-mobile-chases-tiktok-console-chases-community)
+### [90. Why Hits Feel Different Now: Mobile Chases TikTok, Console Chases Community](https://hackernoon.com/why-hits-feel-different-now-mobile-chases-tiktok-console-chases-community)
 ![](https://images.unsplash.com/photo-1581343117330-0104b39ce4c9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyOXx8Y3liZXIlMjBhZXN0aGV0aWN8ZW58MHx8fHwxNzU3NDMwMDI1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080)
 Reflections on attention, platforms, and audience expectations.
-
-### [88. I Built a Functional, Data-Oriented 3D Game Framework in Rust for Low-End PCs](https://hackernoon.com/i-built-a-functional-data-oriented-3d-game-framework-in-rust-for-low-end-pcs)
-![](https://cdn.hackernoon.com/images/CjQjIhr5fGeZNgzMYMAx2X6n72p1-9nb2ct1.png)
-A lightweight Rust game framework built with Macroquad and ECS, designed to run on low-end hardware while exploring functional programming patterns.
 

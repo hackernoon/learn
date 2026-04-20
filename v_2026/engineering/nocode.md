@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [nocode](https://hackernoon.com/tagged/nocode)
+### Let's learn about [Nocode](https://hackernoon.com/tagged/nocode) via these 102 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+No-code is a software development approach that allows non-programmers to build applications through graphical user interfaces, democratizing technology creation. It empowers a broader range of users to innovate and bring their ideas to life without traditional coding skills.
+
 ### [1. Side Hustle Stack: Platform-Based Work Opportunities](https://hackernoon.com/side-hustle-stack-platform-based-work-opportunities)
 ![](https://cdn.hackernoon.com/images/Vz02PsfCbQga1SxmztxgUiidpS33-w9737b7.jpeg)
 Sharing something a little different today: I built a product!
@@ -110,14 +114,14 @@ Building things online without any coding skills is barely a new thing - Shopify
 ![](https://cdn.hackernoon.com/images/dHbt1wuNC6ZMChGTzd0P8vmegcc2-35b3jbf.jpeg)
 For our startup social media publishing needs, we have created our own sweet little social media management tool using no-code tools like Make & Airtable
 
-### [28. Making a React Chat App Using Socket.io](https://hackernoon.com/making-a-react-chat-app-using-socketio)
+### [28. Build a Bot that Automates Website Clicks Without Coding](https://hackernoon.com/build-a-bot-that-automates-website-clicks-without-coding)
+![](https://cdn.hackernoon.com/images/yiwLhA3xCDe8ggNMkZIzPQaxrRg2-n253918.jpeg)
+If you are looking for a way to automate browser website clicks, you came to the right place.
+
+### [29. Making a React Chat App Using Socket.io](https://hackernoon.com/making-a-react-chat-app-using-socketio)
 ![](https://cdn.hackernoon.com/images/9ln0OHvfuhgKBqQIuNFg8jiCzrI2-28a37gg.jpeg)
 How to build your own chat with React? Create a powerful chat application in 5 simple steps with the help of web application generator.
 
-
-### [29. Build a Bot that Automates Website Clicks Without Coding](https://hackernoon.com/build-a-bot-that-automates-website-clicks-without-coding)
-![](https://cdn.hackernoon.com/images/yiwLhA3xCDe8ggNMkZIzPQaxrRg2-n253918.jpeg)
-If you are looking for a way to automate browser website clicks, you came to the right place.
 
 ### [30. A Weekend Website Project I Built With $14 and No Coding Experience](https://hackernoon.com/a-weekend-website-project-i-built-with-dollar14-and-no-coding-experience-k41i3tuo)
 ![](https://images.unsplash.com/photo-1513258496099-48168024aec0?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -195,13 +199,13 @@ Discover the latest on the AI frontier, as seen by a no-code platform that integ
 ![](https://cdn.hackernoon.com/images/1dPDpfPo6gS8m0o41QENwX0XUiy1-n213sam.jpeg)
 How I built an iOS app using the no code tools Draftbit and Xano and then launched it to the App Store.
 
-### [48. An Overview Of The Nocode Space](https://hackernoon.com/an-overview-of-the-nocode-space-f8s32l9)
-![](https://cdn.hackernoon.com/drafts/bv5s3208.png)
-You might have heard the term “nocode” somewhere on the internet in the last few months. New nocode tools are constantly emerging and more and more people are starting to become nocode makers.  In a previous post, I outlined my story of how I became serial maker by going “nocode”. Today I want to give you an overview of the nocode space, with a list of some of the nocode tools I use myself.
-
-### [49. Full Guide to No-code DAOs](https://hackernoon.com/full-guide-to-no-code-daos)
+### [48. Full Guide to No-code DAOs](https://hackernoon.com/full-guide-to-no-code-daos)
 ![](https://cdn.hackernoon.com/images/TyY74QkRbXcalCwmwnnicd0EzKk1-4pa4xk6.jpeg)
 Discover what decentralized autonomous organizations are all about, why no-code is the answer for your own DAO, and what awaits the future of technology.
+
+### [49. An Overview Of The Nocode Space](https://hackernoon.com/an-overview-of-the-nocode-space-f8s32l9)
+![](https://cdn.hackernoon.com/drafts/bv5s3208.png)
+You might have heard the term “nocode” somewhere on the internet in the last few months. New nocode tools are constantly emerging and more and more people are starting to become nocode makers.  In a previous post, I outlined my story of how I became serial maker by going “nocode”. Today I want to give you an overview of the nocode space, with a list of some of the nocode tools I use myself.
 
 ### [50. 8 NO/LOW Code Tools Even Programmers Will Love](https://hackernoon.com/8-nolow-code-tools-even-programmers-will-love)
 ![](https://cdn.hackernoon.com/images/EQE4btnh5YZLc9ybRlVhg3Xthkk2-sz93rje.jpeg)
@@ -244,17 +248,17 @@ As a product builder, I built micro tools to solve my own problems. For example
 ![](https://cdn.hackernoon.com/images/yHcCCeWpcGYJL6K3MP8mAG5JRd62-mo3j30am.jpeg)
 10 Lessons I learned after making $1K as an Indie Hacker
 
-### [60. Why You Should Always Build a MVP First](https://hackernoon.com/why-you-should-always-build-a-mvp-first-ko613yn2)
-![](https://cdn.hackernoon.com/images/j9ct3ybh.jpg)
-Let’s take a look at a classic example of a situation that I have observed numerous times. An enthusiastic maker has an idea for a great product and starts building right away without checking for competitors, creating a landing page first or getting some feedback from potential users. The maker sits down in front of his computer and starts building his product blindly. 
-
-### [61. No-code / Low-code: What is the Difference?](https://hackernoon.com/no-code-low-code-what-is-the-difference)
+### [60. No-code / Low-code: What is the Difference?](https://hackernoon.com/no-code-low-code-what-is-the-difference)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-rx931be.jpeg)
 No-code development promises programming without typing a line of code thanks to graphical tools that erase the complexity of programming languages.
 
-### [62. Building a Website for a Dental Clinic Using Wix and Velo](https://hackernoon.com/building-a-website-for-a-dental-cliinic-using-wix-and-velo-2e4z33ef)
+### [61. Building a Website for a Dental Clinic Using Wix and Velo](https://hackernoon.com/building-a-website-for-a-dental-cliinic-using-wix-and-velo-2e4z33ef)
 ![](https://cdn.hackernoon.com/images/Qtyl97sI5SStKafzSgfTf0fgtA23-2p5l33x5.jpeg)
 Long gone are the days when building a website required a myriad of coding skills and zillions of hours. 
+
+### [62. Why You Should Always Build a MVP First](https://hackernoon.com/why-you-should-always-build-a-mvp-first-ko613yn2)
+![](https://cdn.hackernoon.com/images/j9ct3ybh.jpg)
+Let’s take a look at a classic example of a situation that I have observed numerous times. An enthusiastic maker has an idea for a great product and starts building right away without checking for competitors, creating a landing page first or getting some feedback from potential users. The maker sits down in front of his computer and starts building his product blindly. 
 
 ### [63. Do You Have to Code to Be in Tech?](https://hackernoon.com/can-i-be-in-tech-without-being-a-coder-q61l32tq)
 ![](https://cdn.hackernoon.com/drafts/av2ea3268.png)
@@ -288,13 +292,13 @@ No-code platforms paired with cutting-edge AI like ChatGPT by OpenAI break down 
 ![](https://cdn.hackernoon.com/images/21nj3ahs.jpg)
 While having an ability to build things is definitely a blessing, sometimes, however, it can prove to be a curse as well. I realized it when I was building KnowyKnowy.
 
-### [71. 5 Reasons Why You Need To Embrace Visual Programming Solutions](https://hackernoon.com/5-reasons-why-you-need-to-embrace-visual-programming-solutions-4j1e3xpe)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FloduIRt4tAh3CLrsoBc9MqX4VoI2-wp1u3u42.jpeg?alt=media&token=333fb093-aa96-4d6f-b741-b5928f00cf8b)
-COVID-19 proved to a lot of organizations that we’re not as digital as we like to think we are – even today’s top enterprises are still relatively ‘old-school’ and are behind in their digitalization progress.
-
-### [72. Technologies Behind No-code & Low-Code Solutions and How to Build Your Own](https://hackernoon.com/technologies-behind-no-code-and-low-code-solutions-and-how-to-build-your-own)
+### [71. Technologies Behind No-code & Low-Code Solutions and How to Build Your Own](https://hackernoon.com/technologies-behind-no-code-and-low-code-solutions-and-how-to-build-your-own)
 ![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-js934dq.jpeg)
 Let’s find out how no-code / low-code platforms are built and what it takes to create your own solution. We’ll focus on the development approaches, architecture
+
+### [72. 5 Reasons Why You Need To Embrace Visual Programming Solutions](https://hackernoon.com/5-reasons-why-you-need-to-embrace-visual-programming-solutions-4j1e3xpe)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FloduIRt4tAh3CLrsoBc9MqX4VoI2-wp1u3u42.jpeg?alt=media&token=333fb093-aa96-4d6f-b741-b5928f00cf8b)
+COVID-19 proved to a lot of organizations that we’re not as digital as we like to think we are – even today’s top enterprises are still relatively ‘old-school’ and are behind in their digitalization progress.
 
 ### [73. How to Build a Simple Telegram Bot: An Introductory Guide ](https://hackernoon.com/how-to-build-a-simple-telegram-bot-an-introductory-guide-2545378t)
 ![](https://cdn.hackernoon.com/images/BHmq1WRGL5RKNa2xCnJj4p3Sn192-jh1q29gx.jpeg)
@@ -324,13 +328,13 @@ Ricardo has been one of the most active contributors to n8n and has created more
 ![](https://cdn.hackernoon.com/images/OJunsT5b6MXihZjDd8QZq7cFCW03-0fd3m2z.jpeg)
 Requiring access to particular information in a repetitive manner is the perfect use case for voice enabled user interface.
 
-### [80. The 3 Stages to Making Your Own No-Code Solution](https://hackernoon.com/the-3-stages-to-making-your-own-no-code-solution)
-![](https://cdn.hackernoon.com/images/OJunsT5b6MXihZjDd8QZq7cFCW03-vjb3hxy.jpeg)
-Create your own no-code solution in three easy to follow steps.
-
-### [81. Using WordPress and Formidable Forms to Create your own Alexa Skill ](https://hackernoon.com/using-wordpress-and-formidable-forms-to-create-your-own-alexa-skill)
+### [80. Using WordPress and Formidable Forms to Create your own Alexa Skill ](https://hackernoon.com/using-wordpress-and-formidable-forms-to-create-your-own-alexa-skill)
 ![](https://cdn.hackernoon.com/images/OJunsT5b6MXihZjDd8QZq7cFCW03-6693ort.png)
 Form builders are among the most popular WordPress plugins. There are dozens of them and with few having millions of active installations.
+
+### [81. The 3 Stages to Making Your Own No-Code Solution](https://hackernoon.com/the-3-stages-to-making-your-own-no-code-solution)
+![](https://cdn.hackernoon.com/images/OJunsT5b6MXihZjDd8QZq7cFCW03-vjb3hxy.jpeg)
+Create your own no-code solution in three easy to follow steps.
 
 ### [82. How to Create a Job Board Using NoCode Approach](https://hackernoon.com/how-to-create-a-job-board-using-nocode-approach-w62u3uuc)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrEapUzfWeWdBaRYeO3tP47YUIxD2-h6ap3v7z.jpeg?alt=media&token=e976a247-ce09-4bfc-9d66-19e4c5bc54c7)
@@ -360,13 +364,13 @@ I am pretty sure you all are familiar with full-stack, MERN stack, and many simi
 ![](https://cdn.hackernoon.com/images/OJunsT5b6MXihZjDd8QZq7cFCW03-ptd3p8n.jpeg)
 Discover how to use Convoworks, a no-code tool, to build a GPT based spam filter for your WordPress website.
 
-### [89. 7 Best Application Integration Tools to Consider for 2022](https://hackernoon.com/7-best-application-integration-tools-to-consider-for-2022)
-![](https://cdn.hackernoon.com/images/BHmq1WRGL5RKNa2xCnJj4p3Sn192-k5a2ial.jpeg)
-Application integration is the process of allowing independently developed apps to communicate with one another.
-
-### [90. How To Improve Your Signup Flows](https://hackernoon.com/how-to-improve-your-signup-flows-uwn3tl7)
+### [89. How To Improve Your Signup Flows](https://hackernoon.com/how-to-improve-your-signup-flows-uwn3tl7)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaKQN9Uc9Rvfu45vnun7Rgrahcd43-wh2r3ugi.jpeg?alt=media&token=b87bf8fc-1b80-40bb-8adb-852214268df6)
 Login and signup processes are one of the most underrated tasks when building and upgrading a website or platform... or multiple ones. However, on this kind of development tasks, implications go far beyond asking for an email and a password: security issues, user experience, customer profiling, different tech stacks compatibility and adaptation...
+
+### [90. 7 Best Application Integration Tools to Consider for 2022](https://hackernoon.com/7-best-application-integration-tools-to-consider-for-2022)
+![](https://cdn.hackernoon.com/images/BHmq1WRGL5RKNa2xCnJj4p3Sn192-k5a2ial.jpeg)
+Application integration is the process of allowing independently developed apps to communicate with one another.
 
 ### [91. 10 NoCode Tools to Help You Build Your MVP 🚀](https://hackernoon.com/10-nocode-tools-to-help-you-build-your-mvp)
 ![](https://cdn.hackernoon.com/images/YlcWytkfRIY64lSLBbuvErBdoUg2-4r038g6.jpeg)
@@ -388,21 +392,21 @@ You are building a product and you put your hurt and soul into it. You're rewrit
 ![](https://cdn.hackernoon.com/images/qyl2e27.jpg)
 In the past few months, I have been playing around with different kinds of IoT devices and sensors. I quite enjoy how these can be used to monitor different things like humidity, temperature, pressure among other things in the house. In this tutorial, I want to show you how you can monitor sensor readings in a database and send alerts when it crosses a threshold value using n8n workflows.
 
-### [96. Rooting for No-Code and Community-Led Startups: Noonies Nominee Ritika](https://hackernoon.com/rooting-for-no-code-and-community-led-startups-noonies-nominee-ritika)
-![](https://cdn.hackernoon.com/images/47oPln5iYQgBmGRKUJ3Gw12JwtJ3-mz13orr.jpeg)
-Noonies interview with Ritika Mehta. She runs Ritika’s newsletter & is building Marked, a new tool for creators.
-
-### [97. How We Are Supporting and Building AI for the Better](https://hackernoon.com/how-we-are-supporting-and-building-ai-for-the-better)
+### [96. How We Are Supporting and Building AI for the Better](https://hackernoon.com/how-we-are-supporting-and-building-ai-for-the-better)
 ![](https://cdn.hackernoon.com/images/0FC9YtxD4fbD3T7mPipOt4HSxY42-fq035q6.png)
 Let's explore what we, as Bright Data, are doing to make AI a more powerful and better technology.
 
-### [98. Google Opal for Founders: Brilliant for Demos, Not Ready for Real Shipping](https://hackernoon.com/google-opal-for-founders-brilliant-for-demos-not-ready-for-real-shipping)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3s023ea.png)
-Google Opal is a fast, no-code AI app builder that helps founders prototype, test, and ship ideas quickly. 
-
-### [99. Running n8n On Ships 🛳](https://hackernoon.com/running-n8n-on-ships-dq6j3x0y)
+### [97. Running n8n On Ships 🛳](https://hackernoon.com/running-n8n-on-ships-dq6j3x0y)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6b82rej.jpeg)
 Somewhere in the world’s oceans, a local n8n instance just ran a workflow on a cruise ship. We spoke with Mattias Larson, co-founder of Maranics to learn more.
+
+### [98. Rooting for No-Code and Community-Led Startups: Noonies Nominee Ritika](https://hackernoon.com/rooting-for-no-code-and-community-led-startups-noonies-nominee-ritika)
+![](https://cdn.hackernoon.com/images/47oPln5iYQgBmGRKUJ3Gw12JwtJ3-mz13orr.jpeg)
+Noonies interview with Ritika Mehta. She runs Ritika’s newsletter & is building Marked, a new tool for creators.
+
+### [99. Google Opal for Founders: Brilliant for Demos, Not Ready for Real Shipping](https://hackernoon.com/google-opal-for-founders-brilliant-for-demos-not-ready-for-real-shipping)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3s023ea.png)
+Google Opal is a fast, no-code AI app builder that helps founders prototype, test, and ship ideas quickly. 
 
 ### [100. How a No-Code Tool Changed Our Testing Process](https://hackernoon.com/how-a-no-code-tool-changed-our-testing-process)
 ![](https://cdn.hackernoon.com/images/Ha2nI8jy74MhLjfLlNJPpOnWsW83-jd038cv.jpeg)

@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [algorithmic-trading](https://hackernoon.com/tagged/algorithmic-trading)
+### Let's learn about [Algorithmic Trading](https://hackernoon.com/tagged/algorithmic-trading) via these 79 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Uh.. Mom, I think my AI trading bot just made me a million dollars, said no stock trader ever.
 
 
@@ -46,13 +48,13 @@ Learn about the best ready-made Algorithmic Trading Robots in MQL5 and use them 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJo7iOlPYdbSgNW2IeQldjrg972S2-lc6328jo.jpeg?alt=media&token=43f7c663-084a-41f7-a012-da0e11784fe0)
 What's not to love about your Pi? It's a serious piece of kit, and it's cheap! But… can it make you money?
 
-### [11. Using Python to Download Historical Cryptocurrency Price Data from CoinGecko](https://hackernoon.com/using-python-to-download-historical-cryptocurrency-price-data-from-coingecko)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-d993kjt.jpeg)
-See how to download historical cryptocurrency price data from Coingecko with Python
-
-### [12. How to Build an Algorithmic Crypto Trading Bot in 6 Steps](https://hackernoon.com/how-to-build-an-algorithmic-crypto-trading-bot-in-6-steps)
+### [11. How to Build an Algorithmic Crypto Trading Bot in 6 Steps](https://hackernoon.com/how-to-build-an-algorithmic-crypto-trading-bot-in-6-steps)
 ![](https://cdn.hackernoon.com/images/Xqlxj2iEDmbTzlzj2GQ88ZKcg2G2-j4j3nvx.jpeg)
 Create a fully scalable algorithmic crypto trading bot that can execute in your sleep. The strategy that will use is based on the popular Supertrend indicator.
+
+### [12. Using Python to Download Historical Cryptocurrency Price Data from CoinGecko](https://hackernoon.com/using-python-to-download-historical-cryptocurrency-price-data-from-coingecko)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-d993kjt.jpeg)
+See how to download historical cryptocurrency price data from Coingecko with Python
 
 ### [13. The Ultimate Guide to High-Frequency Trading (HFT)](https://hackernoon.com/the-ultimate-guide-to-high-frequency-trading-hft-cm3931kz)
 ![](https://cdn.hackernoon.com/images/n7ZGgK8x3SaWtYcLgjER5xD8JqW2-ub2731n0.jpeg)
@@ -83,13 +85,13 @@ I tested the new Claude Sonnet 3.5: predicted Fed rate cuts, S&P 500 growth, and
 ![](https://cdn.hackernoon.com/images/OjEJS6k01SYS5O3A9zp2NjQ24Hz1-gb1032rv.jpeg)
 Are you interested in online trading and want to invest in stocks to make money? Here are the best trading strategies explained in detail.
 
-### [20. How To Get Started Doing Fast Backtesting Using Algo Trading Tools](https://hackernoon.com/how-to-get-started-doing-fast-backtesting-using-algo-trading-tools-dgk37mm)
-![](https://cdn.hackernoon.com/images/dGWqB8LEZBhGjcvFXLwmrj7Beog2-q46j26iq.jpeg)
-No one would want to risk a big amount of capital in a program that is not vetted. Thankfully we don’t have to, since there are plenty of platforms that we can 
-
-### [21. Building Efficient Crypto Trading Software With Python](https://hackernoon.com/building-efficient-crypto-trading-software-with-python)
+### [20. Building Efficient Crypto Trading Software With Python](https://hackernoon.com/building-efficient-crypto-trading-software-with-python)
 ![](https://cdn.hackernoon.com/images/EoZlJheKCUSXBF4gIxl56zp7oyg1-yri3u2z.jpeg)
 Learn about building efficient trading software principles, such as event-driven approach, microservices, and asynchronous programming.
+
+### [21. How To Get Started Doing Fast Backtesting Using Algo Trading Tools](https://hackernoon.com/how-to-get-started-doing-fast-backtesting-using-algo-trading-tools-dgk37mm)
+![](https://cdn.hackernoon.com/images/dGWqB8LEZBhGjcvFXLwmrj7Beog2-q46j26iq.jpeg)
+No one would want to risk a big amount of capital in a program that is not vetted. Thankfully we don’t have to, since there are plenty of platforms that we can 
 
 ### [22. Trading Cup and Handles With MarketSmith Pattern Recognition](https://hackernoon.com/trading-cup-and-handles-with-marketsmith-pattern-recognition-rvi3787)
 ![](https://cdn.hackernoon.com/images/c4H5dJO11HMcVyXTq7bAl2kz88I2-eoar356z.jpeg)
@@ -140,13 +142,13 @@ Developers of AI systems can create complex algorithms for a wide range of use c
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-uq93pqa.jpeg)
 With “enough data” asset prices, as with the weather, can be predicted with a high degree of accuracy.
 
-### [34. Why Algos for Retail Investors Will Finally Democratize Investing in 2020](https://hackernoon.com/why-algos-for-retail-investors-will-finally-democratize-investing-in-2020-77iu321g)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-hi82rpd.jpeg)
-Technology has revolutionized trading for individual investors in the early part of this century, from online trading tools to robo-advisors, to the rise of crypto and fintech applications. 
-
-### [35. How to Earn Profit on Crowd-sourced Automated Trading Communities](https://hackernoon.com/how-to-earn-profit-on-crowd-sourced-automated-trading-communities)
+### [34. How to Earn Profit on Crowd-sourced Automated Trading Communities](https://hackernoon.com/how-to-earn-profit-on-crowd-sourced-automated-trading-communities)
 ![](https://cdn.hackernoon.com/images/dGWqB8LEZBhGjcvFXLwmrj7Beog2-u49293x.jpeg)
 
+
+### [35. Why Algos for Retail Investors Will Finally Democratize Investing in 2020](https://hackernoon.com/why-algos-for-retail-investors-will-finally-democratize-investing-in-2020-77iu321g)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-hi82rpd.jpeg)
+Technology has revolutionized trading for individual investors in the early part of this century, from online trading tools to robo-advisors, to the rise of crypto and fintech applications. 
 
 ### [36. How I Made a 65% ROI with this Boeing Trading Algorithm](https://hackernoon.com/how-i-made-a-65percent-roi-with-this-boeing-trading-algorithm-5r5335t4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5pvLB1CdRWbN8Bvdho7pKWNYRov1-w7a23sx.jpeg?alt=media&token=e946ade7-b1e9-4bb7-927b-b0f0cbddf220)
@@ -176,13 +178,13 @@ A quantitative study of optimal liquidity provision in Uniswap v3, showing why L
 ![](https://cdn.hackernoon.com/images/dGWqB8LEZBhGjcvFXLwmrj7Beog2-mr57288l.jpeg)
 Here we have collected some interesting facts about what is happening in hedge funds based on open sources.
 
-### [43. Here's Why We Built An Open-Source Goldmine of Crypto-Markets Datasets](https://hackernoon.com/heres-why-we-built-an-open-source-goldmine-of-crypto-markets-datasets-cl2h3xmi)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJo7iOlPYdbSgNW2IeQldjrg972S2-wk6u286a.jpeg?alt=media&token=71b2a779-6a5f-4813-a216-f52a2c59d61c)
-How to run a distributed data-mining operation to source and process crypto market data at zero cost.
-
-### [44. Know Your Playground: The Essential Guide to Algorand for MEV Enthusiasts](https://hackernoon.com/know-your-playground-the-essential-guide-to-algorand-for-mev-enthusiasts)
+### [43. Know Your Playground: The Essential Guide to Algorand for MEV Enthusiasts](https://hackernoon.com/know-your-playground-the-essential-guide-to-algorand-for-mev-enthusiasts)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-p7032vf.jpeg)
 Algorand uses PPoS and FCFS ordering, with key DeFi players like Tinyman using AMMs. MEV searchers must navigate its unique consensus and network layers.
+
+### [44. Here's Why We Built An Open-Source Goldmine of Crypto-Markets Datasets](https://hackernoon.com/heres-why-we-built-an-open-source-goldmine-of-crypto-markets-datasets-cl2h3xmi)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJo7iOlPYdbSgNW2IeQldjrg972S2-wk6u286a.jpeg?alt=media&token=71b2a779-6a5f-4813-a216-f52a2c59d61c)
+How to run a distributed data-mining operation to source and process crypto market data at zero cost.
 
 ### [45. What You Should Know to Win at Algorithmic Trading](https://hackernoon.com/what-you-should-know-to-win-at-algorithmic-trading)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-v593vvr.jpeg)
@@ -208,103 +210,119 @@ PRIA’s (short) History
 ![](https://cdn.hackernoon.com/images/L1xqRKsJJQYcXNub47F3J69Aoh53-8d23s6q.jpeg)
 
 
-### [51. How Traders Can Use Divergences to Their Advantage with Cleo's Automation Platform](https://hackernoon.com/how-traders-can-use-divergences-to-their-advantage-with-cleos-automation-platform)
+### [51. How the Pursuit of Market Efficiency Engineered the Perfect Collapse](https://hackernoon.com/how-the-pursuit-of-market-efficiency-engineered-the-perfect-collapse)
+![](https://cdn.hackernoon.com/images/gpxDNFnQraWqyRhQ9zUdo8VkFvC3_87i98mh.jpeg)
+Why does gold fall during crises? Explore the structural forces, margin calls, and liquidity shocks behind this market paradox.
+
+### [52. How Traders Can Use Divergences to Their Advantage with Cleo's Automation Platform](https://hackernoon.com/how-traders-can-use-divergences-to-their-advantage-with-cleos-automation-platform)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-n992i96.jpeg)
 A complete guide on the types of divergences, how to identify and use them, and how to integrate them into your trading system automatically via cleo.finance. 
 
-### [52. We Built a Crypto Trading Algo Based on AI Sentiment Analysis](https://hackernoon.com/we-built-a-crypto-trading-algo-based-on-ai-sentiment-analysis)
+### [53. We Built a Crypto Trading Algo Based on AI Sentiment Analysis](https://hackernoon.com/we-built-a-crypto-trading-algo-based-on-ai-sentiment-analysis)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-kz03bde.jpeg)
 Introducing an AI-powered Algo trading platform on the blockchain.
 
-### [53. We Built a Private Algorand Network to Crack the Code of Transaction Ordering](https://hackernoon.com/we-built-a-private-algorand-network-to-crack-the-code-of-transaction-ordering)
+### [54. We Built a Private Algorand Network to Crack the Code of Transaction Ordering](https://hackernoon.com/we-built-a-private-algorand-network-to-crack-the-code-of-transaction-ordering)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-8o03265.jpeg)
 Private network tests prove Algorand MEV is a latency race, not a fee auction. Winning requires low-latency connections to high-staked proposer nodes.
 
-### [54. How To Create Your Customized Trading Signal Alerts](https://hackernoon.com/how-to-create-your-customized-trading-signal-alerts-me283w5v)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FTjWxcikC1ccIa6vVCmvcPZOGVjz2-zc2s3upl.jpeg?alt=media&token=a6d79b9f-0bed-429b-bad7-4980c22473af)
-Trading signals are an easy way to monitor the markets without monitoring the markets. Instead of following someone else’s – create your own. Become a better trader while enjoying life and never miss a move on as many trading pairs as you want to follow.
-
-### [55. POC Bot Selling Feature #9: Auto-Withdraw Realized PNL Take Profit](https://hackernoon.com/poc-bot-selling-feature-9-auto-withdraw-realized-pnl-take-profit-6d1336j2)
-![](https://cdn.hackernoon.com/images/17l36xk.jpg)
-Lol with me if you can find the spelling mistake embedded in my code? :D
-
-### [56. AI Trading Is Now Apparently Outperforming the Market](https://hackernoon.com/ai-trading-is-now-apparently-outperforming-the-market)
-![](https://cdn.hackernoon.com/images/z5L7cZprQRgVvL7bpydqTnZfaqu1-lu039l6.jpeg)
-The power of AI has been leveraged to take over much of the financial trading process itself, which allows traders to adopt a much more passive role.
-
-### [57. The Impressive Power of a Forex Brokers List](https://hackernoon.com/the-impressive-power-of-a-forex-brokers-list)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-9e834qd.jpeg)
-Discover how a reliable Forex Brokers List can enhance your trading success by providing vetted, regulated brokers, saving you time and ensuring quality trading
-
-### [58. Inside the Millisecond Machine: A Candid Conversation With Trading-Tech Veteran Kanaiyalal Gangani](https://hackernoon.com/inside-the-millisecond-machine-a-candid-conversation-with-trading-tech-veteran-kanaiyalal-gangani)
+### [55. Inside the Millisecond Machine: A Candid Conversation With Trading-Tech Veteran Kanaiyalal Gangani](https://hackernoon.com/inside-the-millisecond-machine-a-candid-conversation-with-trading-tech-veteran-kanaiyalal-gangani)
 ![](https://cdn.hackernoon.com/images/IKXzMIRzuqcRvy8v7VsXkDPhvBK2-xw03dhj.jpeg)
 A two-decade trading-tech veteran explains why modern high-frequency systems are less about being the fastest and more about building resilient. 
 
-### [59. Technological Shifts in Forex Trading Systems: A Spotlight on Algorithmic Advances](https://hackernoon.com/technological-shifts-in-forex-trading-systems-a-spotlight-on-algorithmic-advances-xn2j3tyz)
+### [56. How To Create Your Customized Trading Signal Alerts](https://hackernoon.com/how-to-create-your-customized-trading-signal-alerts-me283w5v)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FTjWxcikC1ccIa6vVCmvcPZOGVjz2-zc2s3upl.jpeg?alt=media&token=a6d79b9f-0bed-429b-bad7-4980c22473af)
+Trading signals are an easy way to monitor the markets without monitoring the markets. Instead of following someone else’s – create your own. Become a better trader while enjoying life and never miss a move on as many trading pairs as you want to follow.
+
+### [57. POC Bot Selling Feature #9: Auto-Withdraw Realized PNL Take Profit](https://hackernoon.com/poc-bot-selling-feature-9-auto-withdraw-realized-pnl-take-profit-6d1336j2)
+![](https://cdn.hackernoon.com/images/17l36xk.jpg)
+Lol with me if you can find the spelling mistake embedded in my code? :D
+
+### [58. AI Trading Is Now Apparently Outperforming the Market](https://hackernoon.com/ai-trading-is-now-apparently-outperforming-the-market)
+![](https://cdn.hackernoon.com/images/z5L7cZprQRgVvL7bpydqTnZfaqu1-lu039l6.jpeg)
+The power of AI has been leveraged to take over much of the financial trading process itself, which allows traders to adopt a much more passive role.
+
+### [59. The Impressive Power of a Forex Brokers List](https://hackernoon.com/the-impressive-power-of-a-forex-brokers-list)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-9e834qd.jpeg)
+Discover how a reliable Forex Brokers List can enhance your trading success by providing vetted, regulated brokers, saving you time and ensuring quality trading
+
+### [60. Technological Shifts in Forex Trading Systems: A Spotlight on Algorithmic Advances](https://hackernoon.com/technological-shifts-in-forex-trading-systems-a-spotlight-on-algorithmic-advances-xn2j3tyz)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHueZCcpfyvNLd38vaPTWmzUz1W03-yp143t4w.jpeg?alt=media&token=07705740-cae0-4b99-9607-5d17365c69c2)
 Thanks to technological advancements, the Forex exchange market has come a long way. Robotics and AI have made the process of data analysis simpler than we imagine. From the best algorithmic Forex robots to Forex indicators and diligent Forex signals services, almost every aspect in the space of Forex is evolving with groundbreaking advancements.
-
-### [60. Is There Any MEV Left on Algorand? An Empirical Study on Time-Constrained Arbitrage](https://hackernoon.com/is-there-any-mev-left-on-algorand-an-empirical-study-on-time-constrained-arbitrage)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-9k132p6.png)
-A study on an Algorand arbitrage algorithm reveals fierce MEV competition, proving opportunities must be captured intra-block, not on finalized states.
 
 ### [61. How Constant Function Markets Price Trades Under Concentrated Liquidity](https://hackernoon.com/how-constant-function-markets-price-trades-under-concentrated-liquidity)
 ![](https://cdn.hackernoon.com/images/a-clean-abstract-illustration-of-a-decentralized-exchange-showing-liquidity-concentrated-into-narrow-price-bands-ndzx5bok37nerit02h3d4e0f.png)
 An in-depth look at constant function markets and how concentrated liquidity reshapes pricing, liquidity depth, and fee allocation in AMMs.
 
-### [62. The Technology Behind Automated Trading: How Does it Help Investors?](https://hackernoon.com/the-technology-behind-automated-trading-how-does-it-help-investors)
+### [62. Is There Any MEV Left on Algorand? An Empirical Study on Time-Constrained Arbitrage](https://hackernoon.com/is-there-any-mev-left-on-algorand-an-empirical-study-on-time-constrained-arbitrage)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-9k132p6.png)
+A study on an Algorand arbitrage algorithm reveals fierce MEV competition, proving opportunities must be captured intra-block, not on finalized states.
+
+### [63. The Technology Behind Automated Trading: How Does it Help Investors?](https://hackernoon.com/the-technology-behind-automated-trading-how-does-it-help-investors)
 ![](https://cdn.hackernoon.com/images/QZw3EhFLx9W36rx22pz1XqKKm382-vd93tv3.jpeg)
 The practice of automated trading has become increasingly dominant throughout the digital age, even within more traditional markets.
 
-### [63. Investing in Optimism: Exploring The Ways to Invest as Markets Rally on Hope of Covid Vaccine](https://hackernoon.com/investing-in-optimism-exploring-the-ways-to-invest-as-markets-rally-on-hope-of-covid-vaccine-xrj3z4j)
+### [64. Investing in Optimism: Exploring The Ways to Invest as Markets Rally on Hope of Covid Vaccine](https://hackernoon.com/investing-in-optimism-exploring-the-ways-to-invest-as-markets-rally-on-hope-of-covid-vaccine-xrj3z4j)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaBxCRG4PdBeC4Gw5xSpatovTWXC2-uu123w6c.jpeg?alt=media&token=9bbbccb8-2528-4ecc-8e02-2934f506f303)
 Disclaimer: Trading and investing involves risk. This is not an endorsement to invest in stocks and companies or trade via platforms mentioned in this article. Trade at your own risk. 
-
-### [64. Web3 Will Shift the Balance of Power in Financial Markets ](https://hackernoon.com/web3-will-shift-the-balance-of-power-in-financial-markets)
-![]()
-Decentralized trading mobs are going to war on whales, and it will be a slaughter!
 
 ### [65. Liquidity Providers Face a Trade-Off Between Fees and Loss in Concentrated AMMs](https://hackernoon.com/liquidity-providers-face-a-trade-off-between-fees-and-loss-in-concentrated-amms)
 ![](https://cdn.hackernoon.com/images/interconnected-nodes-hp8b6kr0p9lfsaov8yqk5y84.png)
 An analytical model shows when concentrated liquidity is profitable, balancing fees, impermanent loss, volatility, and liquidity risk.
 
-### [66. Deconstructing the Latency-Driven MEV Landscape on Algorand](https://hackernoon.com/deconstructing-the-latency-driven-mev-landscape-on-algorand)
+### [66. Web3 Will Shift the Balance of Power in Financial Markets ](https://hackernoon.com/web3-will-shift-the-balance-of-power-in-financial-markets)
+![]()
+Decentralized trading mobs are going to war on whales, and it will be a slaughter!
+
+### [67. What Traders Can Steal From Genichi Taguchi About Robustness](https://hackernoon.com/what-traders-can-steal-from-genichi-taguchi-about-robustness)
+![](https://cdn.hackernoon.com/images/IhoQeY8WCMTkhS8VUw4WssXMmlX2-x9a3fzq.png)
+What engineering legend Genichi Taguchi can teach systematic traders about robust design principles and survivability.
+
+### [68. Deconstructing the Latency-Driven MEV Landscape on Algorand](https://hackernoon.com/deconstructing-the-latency-driven-mev-landscape-on-algorand)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-xa0327z.jpeg)
 On the FCFS blockchain Algorand, MEV is a latency game. This paper details an arbitrage algorithm and network strategies for prioritized execution.
 
-### [67. The Wealth of Liquidity Providers in Cl Pools](https://hackernoon.com/the-wealth-of-liquidity-providers-in-cl-pools)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yj03dw9.png)
-A technical breakdown of how liquidity providers optimize spreads, asymmetry, and rebalancing to balance fees, risk, and profitability.
-
-### [68. Optimal Liquidity Provision in Concentrated AMM Pools Under Stochastic Fees](https://hackernoon.com/optimal-liquidity-provision-in-concentrated-amm-pools-under-stochastic-fees)
+### [69. Optimal Liquidity Provision in Concentrated AMM Pools Under Stochastic Fees](https://hackernoon.com/optimal-liquidity-provision-in-concentrated-amm-pools-under-stochastic-fees)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-o803dg2.png)
 A quantitative framework for optimal liquidity provision in concentrated AMM pools, balancing fees, volatility, impermanent loss, and concentration risk.
 
-### [69. Best Automated Trading Solutions for Crypto](https://hackernoon.com/best-automated-trading-solutions-for-crypto)
-![](https://cdn.hackernoon.com/images/HKHRZglVnEccdOEZNkg3vdtV2843-p493jlx.png)
-Best Automated Trading Solutions for Crypto
+### [70. The Wealth of Liquidity Providers in Cl Pools](https://hackernoon.com/the-wealth-of-liquidity-providers-in-cl-pools)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yj03dw9.png)
+A technical breakdown of how liquidity providers optimize spreads, asymmetry, and rebalancing to balance fees, risk, and profitability.
 
-### [70. Bot Creator Dembots in the Spotlight](https://hackernoon.com/bot-creator-dembots-in-the-spotlight)
+### [71. Bot Creator Dembots in the Spotlight](https://hackernoon.com/bot-creator-dembots-in-the-spotlight)
 ![](https://cdn.hackernoon.com/images/afLtOpoWBvSgabO3K0rQKYHY6bI3-ed137ee.jpeg)
 Demian is a bot creator for bots. He creates algorithmic trading strategies for all BOTS users to use. Today he explains how and why he does this.
 
-### [71. It’s Not What You Pay, It’s How Fast You Play: A History of MEV](https://hackernoon.com/its-not-what-you-pay-its-how-fast-you-play-a-history-of-mev)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-rc032i3.jpeg)
-Research on MEV discovery focuses on cyclic arbitrage, but on FCFS networks like Algorand, latency-based strategies like spamming and backruns dominate.
-
-### [72. How to Optimize Cloud Testing: 6 Main Challenges](https://hackernoon.com/how-to-optimize-cloud-testing-6-main-challenges)
-![](https://cdn.hackernoon.com/images/dGWqB8LEZBhGjcvFXLwmrj7Beog2-ula3o39.jpeg)
-
+### [72. Best Automated Trading Solutions for Crypto](https://hackernoon.com/best-automated-trading-solutions-for-crypto)
+![](https://cdn.hackernoon.com/images/HKHRZglVnEccdOEZNkg3vdtV2843-p493jlx.png)
+Best Automated Trading Solutions for Crypto
 
 ### [73. Can Math Fix Uniswap v3 LP Losses? New Strategy Says Yes, but With a Catch](https://hackernoon.com/can-math-fix-uniswap-v3-lp-losses-new-strategy-says-yes-but-with-a-catch)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-r703dd6.png)
 A data-driven study shows how optimal spread strategies can improve Uniswap v3 liquidity provider returns—if gas costs and scale are managed.
 
-### [74. Why Optimal Liquidity Provision Breaks Down in Discrete Blockchain Markets](https://hackernoon.com/why-optimal-liquidity-provision-breaks-down-in-discrete-blockchain-markets)
+### [74. It’s Not What You Pay, It’s How Fast You Play: A History of MEV](https://hackernoon.com/its-not-what-you-pay-its-how-fast-you-play-a-history-of-mev)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-rc032i3.jpeg)
+Research on MEV discovery focuses on cyclic arbitrage, but on FCFS networks like Algorand, latency-based strategies like spamming and backruns dominate.
+
+### [75. How to Optimize Cloud Testing: 6 Main Challenges](https://hackernoon.com/how-to-optimize-cloud-testing-6-main-challenges)
+![](https://cdn.hackernoon.com/images/dGWqB8LEZBhGjcvFXLwmrj7Beog2-ula3o39.jpeg)
+
+
+### [76. Why Optimal Liquidity Provision Breaks Down in Discrete Blockchain Markets](https://hackernoon.com/why-optimal-liquidity-provision-breaks-down-in-discrete-blockchain-markets)
 ![](https://cdn.hackernoon.com/images/interconnected-nodes-v28hsjy3y2bal7y8d3fnb48y.png)
 An analysis of liquidity provision models in DeFi, examining gas fees, concentration risk, rebalancing costs, and when LP strategies remain profitable.
 
-### [75. Beyond Stylized Facts: Using an Embedding Network to Assess Market Simulator Fidelity](https://hackernoon.com/beyond-stylized-facts-using-an-embedding-network-to-assess-market-simulator-fidelity)
+### [77. Beyond Stylized Facts: Using an Embedding Network to Assess Market Simulator Fidelity](https://hackernoon.com/beyond-stylized-facts-using-an-embedding-network-to-assess-market-simulator-fidelity)
 ![](https://cdn.hackernoon.com/images/a-virtual-network-abstract-by3ow3luwvs8brjzen71a75n.png)
 This article explores a new, unbiased method for evaluating market simulators using an embedding network.
+
+### [78. Your Backtest Is Lying to You: Here's Why](https://hackernoon.com/your-backtest-is-lying-to-you-heres-why)
+![](https://cdn.hackernoon.com/images/rtCuyAkI7hbSNQRiNiOrzXUrTxB2-38c3bg1.jpeg)
+A realistic guide to backtesting with Python
+
+### [79. Can COT Data Predict Crude Oil Moves? Building a WTI Strategy](https://hackernoon.com/can-cot-data-predict-crude-oil-moves-building-a-wti-strategy)
+![](https://cdn.hackernoon.com/images/rtCuyAkI7hbSNQRiNiOrzXUrTxB2-c883btb.png)
+A step-by-step guide to building and backtesting a crude oil strategy from COT data and historical WTI prices.
 

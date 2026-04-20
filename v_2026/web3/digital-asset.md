@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [digital-asset](https://hackernoon.com/tagged/digital-asset)
+### Let's learn about [Digital Asset](https://hackernoon.com/tagged/digital-asset) via these 82 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A digital asset is any text or media that is formatted into a binary source and comes with the right to use, crucial for representing value and ownership in the digital realm. This includes cryptocurrencies, NFTs, and other digital data with inherent economic value.
+
 ### [1. How Asset Tokenization With Daml Works](https://hackernoon.com/how-asset-tokenization-with-daml-works)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-s893p4k.jpeg)
 How Daml smart contracts facilitate your asset tokenization. 
@@ -93,13 +97,13 @@ Interview discussing the benefits of incorporating real-world assets into decent
 ![](https://cdn.hackernoon.com/images/uwdds9GP9oRGK8rZBtabE59fB8P2-7t93pw7.jpeg)
 Guy Melamed is the co-founder and CEO of Exberry, the exchange technology pioneer revolutionizing marketplaces.
 
-### [24. ApeCoin: Vote, Govern, and Transact Throughout the BAYC Ecosystem](https://hackernoon.com/apecoin-vote-govern-and-transact-throughout-the-bayc-ecosystem)
-![](https://cdn.hackernoon.com/images/rUC1fsEJ2IfSZAmF6dNopg6sX0t1-bg93oy5.jpeg)
-It’s a BAYC world; we’re just living in it. And the ApeCoin is the native currency of the Bored Ape Yacht Club’s ever-growing list of partnered services
-
-### [25. Cobo Launches New Regional Headquarters in Singapore](https://hackernoon.com/cobo-launches-new-regional-headquarters-in-singapore)
+### [24. Cobo Launches New Regional Headquarters in Singapore](https://hackernoon.com/cobo-launches-new-regional-headquarters-in-singapore)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ak92ais.jpeg)
 Cobo, Asia Pacific’s largest digital asset custodian and blockchain technology provider, has officially opened its new headquarters in Singapore.
+
+### [25. ApeCoin: Vote, Govern, and Transact Throughout the BAYC Ecosystem](https://hackernoon.com/apecoin-vote-govern-and-transact-throughout-the-bayc-ecosystem)
+![](https://cdn.hackernoon.com/images/rUC1fsEJ2IfSZAmF6dNopg6sX0t1-bg93oy5.jpeg)
+It’s a BAYC world; we’re just living in it. And the ApeCoin is the native currency of the Bored Ape Yacht Club’s ever-growing list of partnered services
 
 ### [26. Blockchain Regulation Confusions](https://hackernoon.com/blockchain-regulation-confusion-an-overview-f7723z0t)
 ![](https://hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-wv8239l.jpeg)
@@ -109,19 +113,19 @@ When listening to regulators, it becomes apparent that there's still a wide gap 
 ![](https://hackernoon.com/images/4IgNPZL4uhQSPr1lHXbin4gUk9q1-yk8a33m2.jpeg)
 A look into the NBA, branding, and NFT's role in the whole process with NBA Top Shots in partnership with Dapper Labs.
 
-### [28. Future Expectations: What Will Affect Ethereum Price in 2021?](https://hackernoon.com/future-expectations-what-will-affect-ethereum-price-in-2021-kzz377d)
-![](https://cdn.hackernoon.com/images/Nz2NjECzoEYHQpp9n48J5HYxPGQ2-bm4h37ea.jpeg)
-Today, we will analyze Ethereum's (ETH) value and the various technical, competitive, and regulatory factors that may affect its valuation in the future. 
+### [28. Multi-Asset Brokerage & The Future Of  Digital Trading: An Interview With B2Broker CEO Arthur Azizov](https://hackernoon.com/multi-asset-brokerage-and-the-future-of-digital-trading-an-interview-with-b2broker-ceo-arthur-azizov)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-t0030za.png)
+In this interview with Olayimika Oyebanji, Arthur Azizov -- the CEO of B2Broker shared valuable insights into the changing dynamics.
+
+
 
 ### [29. Educational Byte: Electronic Money vs. Cryptocurrency](https://hackernoon.com/educational-byte-electronic-money-vs-cryptocurrency)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-om033en.png)
 We need to have this in mind for the sake of our financial privacy and autonomy: electronic money isn’t the same as cryptocurrencies. 
 
-### [30. Multi-Asset Brokerage & The Future Of  Digital Trading: An Interview With B2Broker CEO Arthur Azizov](https://hackernoon.com/multi-asset-brokerage-and-the-future-of-digital-trading-an-interview-with-b2broker-ceo-arthur-azizov)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-t0030za.png)
-In this interview with Olayimika Oyebanji, Arthur Azizov -- the CEO of B2Broker shared valuable insights into the changing dynamics.
-
-
+### [30. Future Expectations: What Will Affect Ethereum Price in 2021?](https://hackernoon.com/future-expectations-what-will-affect-ethereum-price-in-2021-kzz377d)
+![](https://cdn.hackernoon.com/images/Nz2NjECzoEYHQpp9n48J5HYxPGQ2-bm4h37ea.jpeg)
+Today, we will analyze Ethereum's (ETH) value and the various technical, competitive, and regulatory factors that may affect its valuation in the future. 
 
 ### [31. Digital Pyres: What the Demise of DVD.com Means for Amazon's Mass Book Burnings](https://hackernoon.com/digital-pyres-what-the-demise-of-dvdcom-means-for-amazons-mass-book-burnings)
 ![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-ad93p5o.jpeg)
@@ -171,37 +175,37 @@ Security is one of the biggest challenges for crypto users and the service provi
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-yf138tb.jpeg)
 Can banking and digital assets co-exist in an effective way? Switzerland seems to think so. 
 
-### [43. Can Your Crypto Be A Currency?](https://hackernoon.com/can-your-crypto-be-a-currency-ay1n33dg)
+### [43. Bitcoin Maxi Versus AltCoin Maxi](https://hackernoon.com/bitcoin-maxi-versus-altcoin-maxi)
+![](https://cdn.hackernoon.com/images/rUC1fsEJ2IfSZAmF6dNopg6sX0t1-q893o5d.jpeg)
+I recently interviewed Jonathan Levi about Bitcoin maximalism and his 5 assertions about Bitcoin. Let's take a look at his points and try arguing against them. 
+
+### [44. Can Your Crypto Be A Currency?](https://hackernoon.com/can-your-crypto-be-a-currency-ay1n33dg)
 ![](https://cdn.hackernoon.com/images/WQwLTIlSFbglskJXmsVKScRarTa2-ms2535uk.jpeg)
 Explores the question of when an asset can be called money, particularly in the context of cryptocurrencies, role of supply/demand on volatility and stablecoins
 
-### [44. How Regulation is Propelling Trust in the Digital Asset Industry ](https://hackernoon.com/how-regulation-is-propelling-trust-in-the-digital-asset-industry-4ci3uqx)
+### [45. How Regulation is Propelling Trust in the Digital Asset Industry ](https://hackernoon.com/how-regulation-is-propelling-trust-in-the-digital-asset-industry-4ci3uqx)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY6FmFn0ZIfO15FTb4oUA3EXBVCr2-ll1f28cs.jpeg?alt=media&token=a283d67b-f50b-4e3b-b6a6-e7a2700b8a78)
 Since digital assets were launched, they have received intense attention from retail and institutional investors globally and have achieved notable adoption milestones. This progress has occurred even with the different approaches taken by regulators who are still refining laws for digital assets across global jurisdictions. 
-
-### [45. Bitcoin Maxi Versus AltCoin Maxi](https://hackernoon.com/bitcoin-maxi-versus-altcoin-maxi)
-![](https://cdn.hackernoon.com/images/rUC1fsEJ2IfSZAmF6dNopg6sX0t1-q893o5d.jpeg)
-I recently interviewed Jonathan Levi about Bitcoin maximalism and his 5 assertions about Bitcoin. Let's take a look at his points and try arguing against them. 
 
 ### [46. Stablecoins, the Dollar, and the Top 5 Ideas to Watch Out for in the Second Half of 2022](https://hackernoon.com/stablecoins-the-dollar-and-the-top-5-ideas-to-watch-out-for-in-the-second-half-of-2022)
 ![](https://cdn.hackernoon.com/images/rUC1fsEJ2IfSZAmF6dNopg6sX0t1-maa3or6.jpeg)
 A way to manage crypto’s trademark volatility, what a concept. Stablecoins are one of the most successful ideas that the cryptocurrency industry has produced. 
 
-### [47. U.S. Treasury: 'Use of Virtual Assets For Money Laundering Remains Far Below That of Fiat Currency'](https://hackernoon.com/us-treasury-use-of-virtual-assets-for-money-laundering-remains-far-below-that-of-fiat-currency)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-e793v32.jpeg)
-One of the most common arguments against Bitcoin and digital assets has been that its "predominantly used for Illicit activity." 
-
-### [48. How The Capital Markets Industry is Being Innovated and Why You Should Be Happy About It ](https://hackernoon.com/how-the-capital-markets-industry-is-being-innovated-and-why-you-should-be-happy-about-it)
+### [47. How The Capital Markets Industry is Being Innovated and Why You Should Be Happy About It ](https://hackernoon.com/how-the-capital-markets-industry-is-being-innovated-and-why-you-should-be-happy-about-it)
 ![](https://cdn.hackernoon.com/images/RiPhiXYF9KfeRRAioiKdMfCoTM63-qua3khz.jpeg)
 The adaption of digital assets, along with blockchain infrastructures, has placed tremendous pressure on stock exchanges, marketplaces, and trading vehicles.
 
-### [49. 0xFútbol Announces Exclusive $FUTBOL Presale to Celebrate XDC’s Strategic Investment](https://hackernoon.com/0xfutbol-announces-exclusive-$futbol-presale-to-celebrate-xdcs-strategic-investment)
-![](https://cdn.hackernoon.com/images/iRbOHPwIo2hED0rACW3cailrVtl2-za034jz.jpeg)
-0xFútbol Announces Exclusive $FUTBOL Presale to Celebrate XDC’s Strategic Investment
+### [48. U.S. Treasury: 'Use of Virtual Assets For Money Laundering Remains Far Below That of Fiat Currency'](https://hackernoon.com/us-treasury-use-of-virtual-assets-for-money-laundering-remains-far-below-that-of-fiat-currency)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-e793v32.jpeg)
+One of the most common arguments against Bitcoin and digital assets has been that its "predominantly used for Illicit activity." 
 
-### [50. From Code to Capital: The Tech Architecture Driving the Stablecoin and Tokenization Revolution](https://hackernoon.com/from-code-to-capital-the-tech-architecture-driving-the-stablecoin-and-tokenization-revolution)
+### [49. From Code to Capital: The Tech Architecture Driving the Stablecoin and Tokenization Revolution](https://hackernoon.com/from-code-to-capital-the-tech-architecture-driving-the-stablecoin-and-tokenization-revolution)
 ![](https://cdn.hackernoon.com/images/IKXzMIRzuqcRvy8v7VsXkDPhvBK2-bw03qzl.jpeg)
 In 2024, stablecoin transfer volumes will eclipse the combined settlement volume of traditional payment providers by more than 7%. 
+
+### [50. 0xFútbol Announces Exclusive $FUTBOL Presale to Celebrate XDC’s Strategic Investment](https://hackernoon.com/0xfutbol-announces-exclusive-$futbol-presale-to-celebrate-xdcs-strategic-investment)
+![](https://cdn.hackernoon.com/images/iRbOHPwIo2hED0rACW3cailrVtl2-za034jz.jpeg)
+0xFútbol Announces Exclusive $FUTBOL Presale to Celebrate XDC’s Strategic Investment
 
 ### [51. Whither NFTs? An Overview of The Progress of Non-Fungible Tokens in 2021](https://hackernoon.com/whither-nfts-an-overview-of-the-progress-of-non-fungible-tokens-in-2021-sq34341m)
 ![](https://cdn.hackernoon.com/images/Iz5kR0mcm9glV7P85Xt0Nqesk0G3-8yx332g.jpeg)
@@ -211,25 +215,25 @@ In 2024, stablecoin transfer volumes will eclipse the combined settlement volume
 ![](https://cdn.hackernoon.com/images/xek4YOyO4qQV43q8QyBDL1XsDbw1-l983uhy.jpeg)
 Discover why digital asset custody matters for family offices. Explore security, compliance, and growth potential in managing digital wealth effectively."
 
-### [53. 5 NFT Security Tips for Pro Collectors and The Rest of Us](https://hackernoon.com/5-nft-security-tips-for-pro-collectors-and-the-rest-of-us)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-r092ai9.jpeg)
-In this article, I'll go over five NFT security tips to ensure the safety of your digital assets.
-
-### [54. The Digital Asset Game Plan of Financial Services](https://hackernoon.com/the-digital-asset-game-plan-of-financial-services)
+### [53. The Digital Asset Game Plan of Financial Services](https://hackernoon.com/the-digital-asset-game-plan-of-financial-services)
 ![](https://cdn.hackernoon.com/images/55mgLtvwWdf0kHZQ9QMkL4gmWue2-2xa3rbx.jpeg)
 The concept of digital assets has been rapidly evolving over the course of the past several years
+
+### [54. 5 NFT Security Tips for Pro Collectors and The Rest of Us](https://hackernoon.com/5-nft-security-tips-for-pro-collectors-and-the-rest-of-us)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-r092ai9.jpeg)
+In this article, I'll go over five NFT security tips to ensure the safety of your digital assets.
 
 ### [55. How Crypto Thieves Affect the Financial Security Crypto Should Avail](https://hackernoon.com/how-crypto-thieves-affect-the-financial-security-crypto-should-avail-f58d53f9b148)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-e0f3xol.jpeg?alt=media&token=40b2f13a-47f4-43ad-aeea-4c1b678b6293)
 Crypto assets have slowly assumed the reputation of being the next poster boy for the financial industry. However, throughout its long and tedious ascent to global reckoning, cryptocurrency still continues to beg the question of whether its eventual adoption is near anytime soon. 
 
-### [56. No Bullsh** Guide to Start a Money Making Blog in 10 Minutes](https://hackernoon.com/no-bullsh-guide-to-start-a-money-making-blog-in-10-minutes-nf463yx5)
-![](https://cdn.hackernoon.com/drafts/6yq3yjz.png)
-Be it for your passion for writing or to help generate an extra income, blogging is your one stop solution.
-
-### [57. Digital Assets Exchanges and Their Benefits in 2022](https://hackernoon.com/digital-assets-exchanges-and-their-benefits-in-2022)
+### [56. Digital Assets Exchanges and Their Benefits in 2022](https://hackernoon.com/digital-assets-exchanges-and-their-benefits-in-2022)
 ![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-t492edy.jpeg)
 A look at digital assets exchanges and their benefits in 2022
+
+### [57. No Bullsh** Guide to Start a Money Making Blog in 10 Minutes](https://hackernoon.com/no-bullsh-guide-to-start-a-money-making-blog-in-10-minutes-nf463yx5)
+![](https://cdn.hackernoon.com/drafts/6yq3yjz.png)
+Be it for your passion for writing or to help generate an extra income, blogging is your one stop solution.
 
 ### [58. How Bitcoin Bubble Markets Work ](https://hackernoon.com/how-bitcoin-bubble-markets-work)
 ![](https://cdn.hackernoon.com/images/xP5lHtN0vMf7waCL6tGSabhVnru2-y1035wq.jpeg)
@@ -259,13 +263,13 @@ Different countries approach the regulation of digital derivatives in different 
 ![](https://cdn.hackernoon.com/drafts/6u303yli.png)
 For the past several weeks we have watched markets crash and burn, well almost, it has been interesting to watch out for the reactions of the crypto commentators who have claimed in the past that bitcoin is a safe haven asset like gold.
 
-### [65. GolfN Tees Up Play-to-Earn Golf Following $1.3M Pre-Seed Raise](https://hackernoon.com/golfn-tees-up-play-to-earn-golf-following-$13m-pre-seed-raise)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-6q8372b.jpeg)
-First off the tee in building a gamified Play-to-earn (P2E) mechanism for a physical sport, GolfN will offer a premium digital caddie app to rival current marke
-
-### [66. Me3 Launches Private Sale On Yield App: Revolutionising Fan Engagement And Digital Asset Ownership](https://hackernoon.com/me3-launches-private-sale-on-yield-app-revolutionising-fan-engagement-and-digital-asset-ownership)
+### [65. Me3 Launches Private Sale On Yield App: Revolutionising Fan Engagement And Digital Asset Ownership](https://hackernoon.com/me3-launches-private-sale-on-yield-app-revolutionising-fan-engagement-and-digital-asset-ownership)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-20837ko.jpeg)
 Me3 through Yield Apps launchpad is offering a private sale to it's users of up to $400,000 at a token sale price of @ 0.007 per ME3 token at a $7 million fully
+
+### [66. GolfN Tees Up Play-to-Earn Golf Following $1.3M Pre-Seed Raise](https://hackernoon.com/golfn-tees-up-play-to-earn-golf-following-$13m-pre-seed-raise)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-6q8372b.jpeg)
+First off the tee in building a gamified Play-to-earn (P2E) mechanism for a physical sport, GolfN will offer a premium digital caddie app to rival current marke
 
 ### [67. What You Need to Know About Merov's New Suite of Services for the Bitcoin Mining Industry](https://hackernoon.com/what-you-need-to-know-about-merovs-new-suite-of-services-for-the-bitcoin-mining-industry)
 ![](https://cdn.hackernoon.com/images/helping-out-bitcoin-miners-clhquh6nd000301s6fz06a1b5.png)
@@ -297,41 +301,41 @@ Pudgy Penguins, a PFP NFT project, has launched toys on Amazon. Will this foster
 ![](https://cdn.hackernoon.com/images/lokyNbSwC4fMvTY6Wq2ssObA7y32-mx93kif.jpeg)
 Consumers want both privacy and personalization. Is it possible? Of course. As data becomes an asset for consumers, data licenses may bring both worlds together
 
-### [74. HashKey Global Officially Launches Futures Trading, Marking a New Era In "Licensed Futures Trading](https://hackernoon.com/hashkey-global-officially-launches-futures-trading-marking-a-new-era-in-licensed-futures-trading)
+### [74. Digital Asset Insurance Crisis: $19 Billion Coverage Gap Identified in New Report](https://hackernoon.com/digital-asset-insurance-crisis-$19-billion-coverage-gap-identified-in-new-report)
+![](https://cdn.hackernoon.com/images/iRbOHPwIo2hED0rACW3cailrVtl2-43035m7.png)
+As the sector evolves, insurance options may play a critical role in fostering institutional confidence and broader adoption of digital assets.
+
+### [75. HashKey Global Officially Launches Futures Trading, Marking a New Era In "Licensed Futures Trading](https://hackernoon.com/hashkey-global-officially-launches-futures-trading-marking-a-new-era-in-licensed-futures-trading)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-qo834tv.jpeg)
  To celebrate the launch, HashKey Global will host a limited-time futures trading campaign and a "100% Invitation Rebate on Futures" event. 
 
 
 
-### [75. Digital Assets for Financial Inclusion: DoshFX's Revolution in South Africa](https://hackernoon.com/digital-assets-for-financial-inclusion-doshfxs-revolution-in-south-africa)
+### [76. Digital Assets for Financial Inclusion: DoshFX's Revolution in South Africa](https://hackernoon.com/digital-assets-for-financial-inclusion-doshfxs-revolution-in-south-africa)
 ![](https://cdn.hackernoon.com/images/iRbOHPwIo2hED0rACW3cailrVtl2-zqa3ywe.jpeg)
 DoshFX, the disruptive crypto exchange, is shaking up the South African financial landscape and spearheading a movement toward financial inclusion.
 
-### [76. Is Bitcoin Really The Best Alternative Investment Asset For Your Portfolio?](https://hackernoon.com/is-bitcoin-really-the-best-alternative-investment-asset-for-your-portfolio-cc2a32yf)
+### [77. Is Bitcoin Really The Best Alternative Investment Asset For Your Portfolio?](https://hackernoon.com/is-bitcoin-really-the-best-alternative-investment-asset-for-your-portfolio-cc2a32yf)
 ![](https://cdn.hackernoon.com/images/Cn7uQHyST7gAAKMUM9RKdI6MpkH2-4vx31sx.jpeg)
 Bitcoin's YTD performance is up +20% along with a +287% increase since the past 6 months when institutional movement started to kick off.
 
-### [77. Digital Asset Insurance Crisis: $19 Billion Coverage Gap Identified in New Report](https://hackernoon.com/digital-asset-insurance-crisis-$19-billion-coverage-gap-identified-in-new-report)
-![](https://cdn.hackernoon.com/images/iRbOHPwIo2hED0rACW3cailrVtl2-43035m7.png)
-As the sector evolves, insurance options may play a critical role in fostering institutional confidence and broader adoption of digital assets.
+### [78. Copper And Sui Partner To Build Out Full Institutional Accessibility](https://hackernoon.com/copper-and-sui-partner-to-build-out-full-institutional-accessibility)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-4m837bt.jpeg)
+The integration with Sui includes custody support for L1 and L2, built-in staking support, and DeFi connectivity.
 
-### [78. Currency.com joins Global Digital Finance to advocate for best practises in Web3](https://hackernoon.com/currencycom-joins-global-digital-finance-to-advocate-for-best-practises-in-web3)
+### [79. Currency.com joins Global Digital Finance to advocate for best practises in Web3](https://hackernoon.com/currencycom-joins-global-digital-finance-to-advocate-for-best-practises-in-web3)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-wbb3nhq.jpeg)
 Currency.com is a member of Global Digital Finance, a major industry association that promotes standards and best practices in the crypto asset.
 
-### [79. USDTlr.com Launches Automated Trading Platform, Enters Beta Phase](https://hackernoon.com/usdtlrcom-launches-automated-trading-platform-enters-beta-phase)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-56835va.jpeg)
-This platform is designed to assist users in navigating the volatile market with no human intervention, streamlining the trading process. Without any human inte
-
-### [80. How to Organize DeFi Events in the Online Era - Interview](https://hackernoon.com/how-to-organize-defi-events-in-the-online-era-interview-mhw34c2)
-![](https://cdn.hackernoon.com/images/WyQd3nAxXKOtiqu2H1Ygv16EdOt1-xk4w3123.jpeg)
-How to organize large online conferences in the crypto space, attract international speakers, and design features for decentralization enthusiasts
-
-### [81. Proof Of Talk Returns To The Louvre Palace As Agenda-Setting Event For Web3](https://hackernoon.com/proof-of-talk-returns-to-the-louvre-palace-as-agenda-setting-event-for-web3)
+### [80. Proof Of Talk Returns To The Louvre Palace As Agenda-Setting Event For Web3](https://hackernoon.com/proof-of-talk-returns-to-the-louvre-palace-as-agenda-setting-event-for-web3)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-g7833s9.jpeg)
 The summit facilitated crucial discussions on rebuilding trust within Web3, reflecting the industry's need for a platform that encourages genuine engagement.
 
-### [82. Copper And Sui Partner To Build Out Full Institutional Accessibility](https://hackernoon.com/copper-and-sui-partner-to-build-out-full-institutional-accessibility)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-4m837bt.jpeg)
-The integration with Sui includes custody support for L1 and L2, built-in staking support, and DeFi connectivity.
+### [81. USDTlr.com Launches Automated Trading Platform, Enters Beta Phase](https://hackernoon.com/usdtlrcom-launches-automated-trading-platform-enters-beta-phase)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-56835va.jpeg)
+This platform is designed to assist users in navigating the volatile market with no human intervention, streamlining the trading process. Without any human inte
+
+### [82. How to Organize DeFi Events in the Online Era - Interview](https://hackernoon.com/how-to-organize-defi-events-in-the-online-era-interview-mhw34c2)
+![](https://cdn.hackernoon.com/images/WyQd3nAxXKOtiqu2H1Ygv16EdOt1-xk4w3123.jpeg)
+How to organize large online conferences in the crypto space, attract international speakers, and design features for decentralization enthusiasts
 

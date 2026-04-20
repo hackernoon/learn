@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [fix-the-internet](https://hackernoon.com/tagged/fix-the-internet)
+### Let's learn about [Fix The Internet](https://hackernoon.com/tagged/fix-the-internet) via these 78 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 The internet functions, but does it work? Too often it works for shareholders and not the individual. We can rebuild it. 
 
 ### [1. 7 Easy Methods to Fix the Red Light on Router](https://hackernoon.com/7-easy-methods-to-fix-the-red-light-on-router)
@@ -11,13 +13,13 @@ When the Internet light on your router is red, there is a problem with our inter
 ![](https://cdn.hackernoon.com/images/kwXFaICNrPNGE3SwstMTwoosDrp1-th93lrj.jpeg)
 Learn about Zero Knowledge claims and how they can help in securing your Identity.
 
-### [3. Why the Internet is Giving up On Cookies and How We Can Live Without Them (Spoiler: Wonderfully)](https://hackernoon.com/why-the-internet-is-giving-up-on-cookies-and-how-we-can-live-without-them-spoiler-wonderfully)
-![](https://cdn.hackernoon.com/images/Apcj9AJckygGZStfBuxjcy3hNBd2-8h94rnr.jpeg)
-The process of "removing" cookies has been going on for a number of years, but now it is directly affecting everyone.
-
-### [4. Are People Noticing the Internet Is Slowly Becoming Unusable?](https://hackernoon.com/are-people-noticing-the-internet-is-slowly-becoming-unusable)
+### [3. Are People Noticing the Internet Is Slowly Becoming Unusable?](https://hackernoon.com/are-people-noticing-the-internet-is-slowly-becoming-unusable)
 ![](https://cdn.hackernoon.com/images/nlbb7kYPJSWh1Px3enDoYP3AcYu1-5g02tnk.jpeg)
 Unfortunately for all of us nostalgic folk, the internet is now what is used to be.
+
+### [4. Why the Internet is Giving up On Cookies and How We Can Live Without Them (Spoiler: Wonderfully)](https://hackernoon.com/why-the-internet-is-giving-up-on-cookies-and-how-we-can-live-without-them-spoiler-wonderfully)
+![](https://cdn.hackernoon.com/images/Apcj9AJckygGZStfBuxjcy3hNBd2-8h94rnr.jpeg)
+The process of "removing" cookies has been going on for a number of years, but now it is directly affecting everyone.
 
 ### [5. You’ve Never Heard Of These Sites, But They Know A Lot About You](https://hackernoon.com/youve-never-heard-of-these-sites-but-they-know-a-lot-about-you-d6z3tl3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4WLFrdbRrVX2Z1fpLb9x7CqrjNq2-3g8z26ai.jpeg?alt=media&token=9ec734f2-ca7f-42ff-b7c7-3bc8370dda33)
@@ -126,13 +128,13 @@ What does the future of online social networks look like?  We have seen how the
 ![](https://images.unsplash.com/photo-1441804238730-210ce1c2cc00?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Over four and half billion people, or fifty-nine per cent of the global population, use the Internet every day. The Internet is where we communicate, transact, and consume information. 
 
-### [31. Anonymity Could be the Key to Fixing Social Media](https://hackernoon.com/anonymity-could-be-the-key-to-fixing-social-media-rm4u3wiw)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fs71wmSLVopPTmhDgk3bAdlT5ybh1-stx3ufh.jpeg?alt=media&token=5123c128-73fa-41ca-9911-a31acdc7e532)
-The Social Dilemma has been a trending film and a large topic of discussion these past few months, and for good reason. Social media in its current form is deeply flawed. 
-
-### [32. Know Thyself](https://hackernoon.com/know-thyself)
+### [31. Know Thyself](https://hackernoon.com/know-thyself)
 ![](https://cdn.hackernoon.com/images/TiLFLgXgukcx47bZac9fCGpJAE42-yhd3gnp.jpeg)
 What do I think about creating a world in virtual reality? I think it's amazing! What's the problem with that?
+
+### [32. Anonymity Could be the Key to Fixing Social Media](https://hackernoon.com/anonymity-could-be-the-key-to-fixing-social-media-rm4u3wiw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fs71wmSLVopPTmhDgk3bAdlT5ybh1-stx3ufh.jpeg?alt=media&token=5123c128-73fa-41ca-9911-a31acdc7e532)
+The Social Dilemma has been a trending film and a large topic of discussion these past few months, and for good reason. Social media in its current form is deeply flawed. 
 
 ### [33. Grant for the Web Opens Public Proposals for People Who Build Cool Internet Things ](https://hackernoon.com/grant-for-the-web-opens-public-proposals-for-people-who-build-cool-internet-things-nk25y32q0)
 ![](https://cdn.hackernoon.com/images/6eoa32mi.jpg)
@@ -162,13 +164,13 @@ The Lightning Deal timer is ticking away. You're frantically scraping through hu
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-shr3wck.jpeg?alt=media&token=c8681b19-1b1b-4247-a933-01e82e5ba744)
 Privacy...that mythical unicorn many chase but only a few manage to catch. Though elusive, privacy is a pressing issue in a hyper-connected world where a handful of companies control the information you consume and the information you produce.
 
-### [40. The Monetization Model for A Decentralized Web/dWeb [Deep Dive]](https://hackernoon.com/the-monetization-model-for-a-decentralized-webdweb-deep-dive-ish032kz)
-![](https://cdn.hackernoon.com/drafts/ul27c18zp.png)
-This is a second article in the ‘Decentralized web / dWeb’ series. To get an idea on what the dWeb is please check — this article.
-
-### [41. How Local Governments are Future-Proofing their Urban Centres with Blockchain Technology](https://hackernoon.com/how-cities-of-the-future-are-using-blockchain-1t3z36sv)
+### [40. How Local Governments are Future-Proofing their Urban Centres with Blockchain Technology](https://hackernoon.com/how-cities-of-the-future-are-using-blockchain-1t3z36sv)
 ![](https://cdn.hackernoon.com/images/703f368x.jpg)
 Nearly two thirds of the global population are city-dwellers. Urbanization, whilst generally associated with increased standards of living, better job opportunities, and access to critical services like healthcare, is intertwined with rapid industrialization, which puts tremendous pressure on environmental resources. 
+
+### [41. The Monetization Model for A Decentralized Web/dWeb [Deep Dive]](https://hackernoon.com/the-monetization-model-for-a-decentralized-webdweb-deep-dive-ish032kz)
+![](https://cdn.hackernoon.com/drafts/ul27c18zp.png)
+This is a second article in the ‘Decentralized web / dWeb’ series. To get an idea on what the dWeb is please check — this article.
 
 ### [42. Our Social Media is Broken & No One Knows How to Fix It](https://hackernoon.com/our-social-media-is-broken-and-we-cant-fix-it-5qbgh36xs)
 ![](https://cdn.hackernoon.com/drafts/mebfx361h.png)
@@ -202,13 +204,13 @@ Bitcoin — the king of cryptocurrencies — uses the Proof of Work POW consensu
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-v203o0d.jpeg)
 How can we describe the way we experience the platforms we spend our lives on? Let's tinker around using a legendary Internet metaphor. 
 
-### [50. This Week's Top Technology Stories — But Make It Podcast](https://hackernoon.com/this-weeks-top-technology-stories-but-make-it-podcast-wdj33umn)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-bh3n3uwc.jpeg?alt=media&token=0024227b-d52e-405b-9e1a-ed7139169967)
-If you're one of Hacker Noon's 12,000+ international Contributing Writers, you'll be happy to hear we're adding yet another distribution channel for The Top Stories You Submit to this big green blob in the cloud. Our mission is simple: be the best place for technologists to publish online. The related causes we back here at Hacker Noon help make the internet a better place — from joining Mozilla's Fix the Internet Incubator, to working with Coil to help writers monetize their content, and donating funds to Better Internet-focused NGOs, like the EFF. In short? We're keen to keep independent internet publishing alive (and thriving). Another way we're working on that: Better Distribution for Every Story.  
-
-### [51. Is Inherently Intellectual Social Media a Pipe Dream?](https://hackernoon.com/is-inherently-intellectual-social-media-a-pipe-dream)
+### [50. Is Inherently Intellectual Social Media a Pipe Dream?](https://hackernoon.com/is-inherently-intellectual-social-media-a-pipe-dream)
 ![](https://cdn.hackernoon.com/images/hvrUiG4CmgZkGs6qw2FaGwD1NBQ2-2w93psf.jpeg)
 Social media platforms moderate a global conversation. It's time to re-think what kind of a moderator we want for our well-being and for better progress.
+
+### [51. This Week's Top Technology Stories — But Make It Podcast](https://hackernoon.com/this-weeks-top-technology-stories-but-make-it-podcast-wdj33umn)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-bh3n3uwc.jpeg?alt=media&token=0024227b-d52e-405b-9e1a-ed7139169967)
+If you're one of Hacker Noon's 12,000+ international Contributing Writers, you'll be happy to hear we're adding yet another distribution channel for The Top Stories You Submit to this big green blob in the cloud. Our mission is simple: be the best place for technologists to publish online. The related causes we back here at Hacker Noon help make the internet a better place — from joining Mozilla's Fix the Internet Incubator, to working with Coil to help writers monetize their content, and donating funds to Better Internet-focused NGOs, like the EFF. In short? We're keen to keep independent internet publishing alive (and thriving). Another way we're working on that: Better Distribution for Every Story.  
 
 ### [52. Hacker Noon Joins Mozilla’s Fix The Internet Initiative](https://hackernoon.com/hacker-noon-joins-mozillas-fix-the-internet-incubator-9br3eo1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-ql83egq.jpeg?alt=media&token=66b0e5ad-3a4f-4f7e-b32e-dcd83fe77650)
@@ -246,13 +248,13 @@ TLDR: See mozilla.org/builders for more details regarding our summer programs!
 ![](https://cdn.hackernoon.com/images/web-3-metaverse-clicrnpv5000101s6g0fna32z.png)
 Web3, a familiar and unfamiliar word, has recently appeared repeatedly online. However, how many people have really entered the Web3 world?
 
-### [61. How Can We Democratize Publishing Online?](https://hackernoon.com/how-can-we-democratize-publishing-online-5bk3zxj)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6sWrtbrOmsOIbrWzrG88lYfV4ch1-wvf3w8f.jpeg?alt=media&token=1f76f7e2-eb1e-4b01-8d0f-76142be00690)
-This Slack discussion by Anna Bleker, Linh, David, Dane and Austin occurred in hackernoon's official #slogging-beta channel.
-
-### [62. Free Wi-Fi Hotspots: The Vital Lifesaver ](https://hackernoon.com/free-wi-fi-hotspots-the-vital-life-saver-m94r34w9)
+### [61. Free Wi-Fi Hotspots: The Vital Lifesaver ](https://hackernoon.com/free-wi-fi-hotspots-the-vital-life-saver-m94r34w9)
 ![](https://cdn.hackernoon.com/images/70E6vxhLbtYA3ZmdTWSQi3gjaem1-z51g31kx.jpeg)
 WiFi Map shows you more than just public hotspots that are available nearby, but provides great time-saving help by also offering passwords for these hotspots.
+
+### [62. How Can We Democratize Publishing Online?](https://hackernoon.com/how-can-we-democratize-publishing-online-5bk3zxj)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6sWrtbrOmsOIbrWzrG88lYfV4ch1-wvf3w8f.jpeg?alt=media&token=1f76f7e2-eb1e-4b01-8d0f-76142be00690)
+This Slack discussion by Anna Bleker, Linh, David, Dane and Austin occurred in hackernoon's official #slogging-beta channel.
 
 ### [63. 3 Ways to Save the Internet From Itself](https://hackernoon.com/3-ways-to-save-the-internet-from-itself-e415ee3e76d)
 ![](https://cdn.hackernoon.com/drafts/f66l30j5.png)
@@ -302,13 +304,13 @@ A shift to a decentralized internet may not be easy but it is happening.
 ![](https://cdn.hackernoon.com/images/EZQBTjOjwmYvoYOPxwK8t0Ifu6L2-gk1x33wh.jpeg)
 It's early days for Insight Browser but our mission is ambitious — we want to rid the internet of bad ads, SEO and misinformation
 
-### [75. The Best of the Internet (Slogging Insights)](https://hackernoon.com/the-best-of-the-internet-slogging-insights)
-![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-r5139zn.jpeg)
-In this thread, the slogging community shares the piece of content that has improved their day.
-
-### [76. How to Investigate Which Neighborhoods in Your City Are Offered the Worst Internet Deals](https://hackernoon.com/how-to-investigate-which-neighborhoods-in-your-city-are-offered-the-worst-internet-deals)
+### [75. How to Investigate Which Neighborhoods in Your City Are Offered the Worst Internet Deals](https://hackernoon.com/how-to-investigate-which-neighborhoods-in-your-city-are-offered-the-worst-internet-deals)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-d492l6d.jpeg)
 In 92 percent of the cities we examined, the areas offered the worst deals were lower income.
+
+### [76. The Best of the Internet (Slogging Insights)](https://hackernoon.com/the-best-of-the-internet-slogging-insights)
+![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-r5139zn.jpeg)
+In this thread, the slogging community shares the piece of content that has improved their day.
 
 ### [77. "How Tall is Donald Trump?" and Other Weird Questions Online](https://hackernoon.com/how-tall-is-donald-trump-and-other-weird-questions-online)
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-my03765.jpeg)

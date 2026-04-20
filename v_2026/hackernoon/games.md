@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [games](https://hackernoon.com/tagged/games)
+### Let's learn about [Games](https://hackernoon.com/tagged/games) via these 194 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Gamers don't get addicted, they level up!
 
 ### [1. Every Game of the Year Winner in Chronological Order](https://hackernoon.com/every-game-of-the-year-winner-in-chronological-order)
@@ -216,17 +218,17 @@ Blockchain-based games are changing RPG item collection through an innovative so
 ![](https://cdn.hackernoon.com/images/CLJGRgOwFwc1ixXJRlMWRRfsjQY2-xl931h5.jpeg)
 Monetize Unity games for success with strategies like in-app purchases, ads, subscriptions, and user engagement.
 
-### [54. Mastering Unity's Coroutines](https://hackernoon.com/mastering-unitys-coroutines)
+### [54. The Four Elements and Their Graphic Effects: Exploring Shaders in a 2D Game](https://hackernoon.com/the-four-elements-and-their-graphic-effects-exploring-shaders-in-a-2d-game)
+![](https://cdn.hackernoon.com/images/aIBhHD3U3QhVIwOBpzVQlVJvvp12-tya2kto.jpeg)
+Features rendering of 2D effects - fire, water, earth and air
+
+### [55. Mastering Unity's Coroutines](https://hackernoon.com/mastering-unitys-coroutines)
 ![](https://cdn.hackernoon.com/images/hxgB3A2KjtPk4sJXB1ezGnusKBx1-cg93tvo.jpeg)
 Coroutines is one of the easiest ways to implement asynchronous behavior in your game. Learning this building block is a must for any aspiring game developer. 
 
-### [55. Stop Forcing Me to Explore Your World](https://hackernoon.com/stop-forcing-me-to-explore-your-world-tl3937dm)
+### [56. Stop Forcing Me to Explore Your World](https://hackernoon.com/stop-forcing-me-to-explore-your-world-tl3937dm)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-rnr372q.jpeg)
 Last year, when I started playing Immortals: Fenix Rising, I was excited to play a far more colorful open-world action game. After years of realistic, tiresome Open-World games that Ubisoft had become known for, Fenix Rising looked to be a breath of fresh air that seemed to take inspiration from all things, The Legend of Zelda: Breath of the Wild. However, when I claimed my first tower, the game instantly bloomed with tasks to do, items to collect, all in the name of "encouraging" me to explore Fenix Rising's vast world.
-
-### [56. The Four Elements and Their Graphic Effects: Exploring Shaders in a 2D Game](https://hackernoon.com/the-four-elements-and-their-graphic-effects-exploring-shaders-in-a-2d-game)
-![](https://cdn.hackernoon.com/images/aIBhHD3U3QhVIwOBpzVQlVJvvp12-tya2kto.jpeg)
-Features rendering of 2D effects - fire, water, earth and air
 
 ### [57. How to Create PR Review Apps with Render](https://hackernoon.com/create-apps-to-automatically-review-pull-requests-with-render)
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-0n93lwk.jpeg)
@@ -295,57 +297,57 @@ Likely, Injustice 3 won't come out for quite a while. However, that's never stop
 ![](https://cdn.hackernoon.com/images/AA0S3G9weRM3biUfJZ9ilO0mpDx1-m2f36w8.jpeg)
 Learn why roguelites are the fastest growing game genre
 
-### [73. The Web3 Games Blockchain Network Based on Substrate](https://hackernoon.com/the-web3-games-blockchain-network-based-on-substrate)
-![](https://cdn.hackernoon.com/images/C7LGfLlZs3OY2w0N7r4ePehwKBI2-yde3sjf.jpeg)
-The Substrate blockchain framework has made substantial progress in the development of the Web3 Gaming Blockchain with ParaState.
-
-### [74. 11 Phases Of Simple Mobile Game App Development](https://hackernoon.com/11-phases-of-simple-mobile-game-app-development)
-![](https://cdn.hackernoon.com/images/fXjWWB8qaSdJsT2cZVIgwhVEMoa2-9693qm7.jpeg)
-11 phases of simple mobile game app development: ideation, prototype development, testing, and launch.
-
-### [75. Are Video Games Good or Bad? ](https://hackernoon.com/are-video-games-good-or-bad)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-mb03oop.jpeg)
-The debate over the effects of video games on players has raged for decades. Here are the important parts of what science has to say on the subject.
-
-### [76. How Does Gaming Affect Mental Health?](https://hackernoon.com/how-does-gaming-affect-mental-health)
-![](https://cdn.hackernoon.com/images/PVN1qtxyOSTgqH0W7fHB84Zowlt1-vc93oyp.jpeg)
-There may be no significant detrimental impacts on mental health from playing video games in moderation.
-
-### [77. Retrospective: the Evolution of Mobile Games](https://hackernoon.com/retrospective-the-evolution-of-mobile-games)
+### [73. Retrospective: the Evolution of Mobile Games](https://hackernoon.com/retrospective-the-evolution-of-mobile-games)
 ![](https://cdn.hackernoon.com/images/pBdSzGnXbcPWdA5BulyIVy7VVX93-9u83v27.jpeg)
 Over the past decades, mobile games have undergone tremendous changes, transforming from simple, uncomplicated entertainment to a multi-billion dollar industry.
 
-### [78. The Future of GameFi: Where Must It Go Next?](https://hackernoon.com/the-future-of-gamefi-where-must-it-go-next)
-![](https://cdn.hackernoon.com/images/yLAAkSkEZXfXV0ssFw5PgR7u0ka2-ue93pfk.jpeg)
-The rising popularity of blockchain gaming is also helping to spread crypto adoption among the masses.
+### [74. Are Video Games Good or Bad? ](https://hackernoon.com/are-video-games-good-or-bad)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-mb03oop.jpeg)
+The debate over the effects of video games on players has raged for decades. Here are the important parts of what science has to say on the subject.
 
-### [79. Gamescom 2022 Highlights You Can't Miss](https://hackernoon.com/gamescom-2022-highlights-you-cant-miss)
+### [75. 11 Phases Of Simple Mobile Game App Development](https://hackernoon.com/11-phases-of-simple-mobile-game-app-development)
+![](https://cdn.hackernoon.com/images/fXjWWB8qaSdJsT2cZVIgwhVEMoa2-9693qm7.jpeg)
+11 phases of simple mobile game app development: ideation, prototype development, testing, and launch.
+
+### [76. The Web3 Games Blockchain Network Based on Substrate](https://hackernoon.com/the-web3-games-blockchain-network-based-on-substrate)
+![](https://cdn.hackernoon.com/images/C7LGfLlZs3OY2w0N7r4ePehwKBI2-yde3sjf.jpeg)
+The Substrate blockchain framework has made substantial progress in the development of the Web3 Gaming Blockchain with ParaState.
+
+### [77. How Does Gaming Affect Mental Health?](https://hackernoon.com/how-does-gaming-affect-mental-health)
+![](https://cdn.hackernoon.com/images/PVN1qtxyOSTgqH0W7fHB84Zowlt1-vc93oyp.jpeg)
+There may be no significant detrimental impacts on mental health from playing video games in moderation.
+
+### [78. Gamescom 2022 Highlights You Can't Miss](https://hackernoon.com/gamescom-2022-highlights-you-cant-miss)
 ![](https://cdn.hackernoon.com/images/0ND921QitCePbuLAJQgufmkRClY2-6ta347o.jpeg)
 After two years of the pandemic, Gamescom has finally returned, and not without plenty of highlights. Here is some of the hottest news from Gamescom 2022.
+
+### [79. The Future of GameFi: Where Must It Go Next?](https://hackernoon.com/the-future-of-gamefi-where-must-it-go-next)
+![](https://cdn.hackernoon.com/images/yLAAkSkEZXfXV0ssFw5PgR7u0ka2-ue93pfk.jpeg)
+The rising popularity of blockchain gaming is also helping to spread crypto adoption among the masses.
 
 ### [80. How to Create a Blackjack Game With Alpine.js and the Deck of Cards API](https://hackernoon.com/how-to-create-a-blackjack-game-with-alpinejs-and-the-deck-of-cards-api)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-cy93sgv.jpeg)
 Building the classic Blackjack experience in Alpine.js.
 
-### [81. Escape Through Board Games](https://hackernoon.com/escape-through-board-games)
+### [81. Fomo3d on Solana: Making my Own Blockchain Game Factory](https://hackernoon.com/fomo3d-on-solana-making-my-own-blockchain-game)
+![](https://cdn.hackernoon.com/images/qwlVSFUNhGO3DAw4hoBd17XGTAC2-2hg3i87.jpeg)
+This article is more of a how-to guide on the various ways one can play the current evolution of my blockchain game  fair3d.me
+
+
+
+### [82. Escape Through Board Games](https://hackernoon.com/escape-through-board-games)
 ![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-950309b.jpeg)
 Playing board games can reduce stress and draw you into an imaginary world. Included is a list of some board games you can try. 
 
 
 
-### [82. 6 Software Tools I Use to Make Game Art Without Being an Artist](https://hackernoon.com/6-software-tools-i-use-to-make-game-art-without-being-an-artist-zyz3uzw)
-![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-56039i6.jpeg)
-Being a programmer doesn't stop me from making game art assets. If you go for a minimalism style and use good colors that fit well together you can make a game look good. I will show you the programs I use and the games I used it for.
-
 ### [83. 460 Stories To Learn About Video Games](https://hackernoon.com/460-stories-to-learn-about-video-games)
 ![](https://cdn.hackernoon.com/images/github/video-games-17.png)
 Learn everything you need to know about Video Games via these 460 free HackerNoon stories.
 
-### [84. Fomo3d on Solana: Making my Own Blockchain Game Factory](https://hackernoon.com/fomo3d-on-solana-making-my-own-blockchain-game)
-![](https://cdn.hackernoon.com/images/qwlVSFUNhGO3DAw4hoBd17XGTAC2-2hg3i87.jpeg)
-This article is more of a how-to guide on the various ways one can play the current evolution of my blockchain game  fair3d.me
-
-
+### [84. 6 Software Tools I Use to Make Game Art Without Being an Artist](https://hackernoon.com/6-software-tools-i-use-to-make-game-art-without-being-an-artist-zyz3uzw)
+![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-56039i6.jpeg)
+Being a programmer doesn't stop me from making game art assets. If you go for a minimalism style and use good colors that fit well together you can make a game look good. I will show you the programs I use and the games I used it for.
 
 ### [85. Are Computer Games the Future of Literature? ](https://hackernoon.com/are-computer-games-the-future-of-literature-id1vs3024)
 ![](https://cdn.hackernoon.com/drafts/ko1sl303z.png)
@@ -363,29 +365,29 @@ Millions of people play Wordle, a cryptic word game, every day. The game reached
 ![](https://cdn.hackernoon.com/drafts/7l1122erm.png)
 Looking to get into development? Have a soft spot for old console based RPG games? Why not build Umoria! A Rouge clone created in a day of limited graphics - but nevertheless a very addicting game for the time. I would say one of the more memorable games that got me interested in coding (game was so hard I wanted to reverse engineer the save format).
 
-### [89. The Best Minecraft Shader Packs You Can Use In 2021](https://hackernoon.com/the-best-minecraft-shader-packs-you-can-use-in-2021-iu6k330x)
+### [89. Generated Maps - My Favorite Map Generators and Their Aesthetics](https://hackernoon.com/generated-maps-my-favorite-map-generators-and-their-aesthetics)
+![](https://cdn.hackernoon.com/images/map-generator-clcqhgev2000001s69fzghm0d.png)
+Grinbalt talks about map generators and his favorite maps.
+
+### [90. The Best Minecraft Shader Packs You Can Use In 2021](https://hackernoon.com/the-best-minecraft-shader-packs-you-can-use-in-2021-iu6k330x)
 ![](https://hackernoon.com/images/ibqeocQC8GaGFVViRsekKfcGfHz2-7m4h33sx.jpeg)
 Discover now all about the best Minecraft Shaders in 2021. Want to learn how to improve your game graphics? This is your opportunity!
 
-### [90. Bitcoin Ultimatum – The Next Generation Bitcoin by Nikolay Udianskyi](https://hackernoon.com/the-good-the-bad-and-the-ugly-aspects-of-video-games-xw5n3b20)
+### [91. Bitcoin Ultimatum – The Next Generation Bitcoin by Nikolay Udianskyi](https://hackernoon.com/the-good-the-bad-and-the-ugly-aspects-of-video-games-xw5n3b20)
 ![](https://cdn.hackernoon.com/images/ilg52iqg.jpg)
 Cryptocurrencies have proven to be the most innovative technology to be developed in a while. From making payments and settling remittances to serving as a hedge for investments and helping to transfer assets over a secure and anonymous network, there are various uses of cryptocurrencies- and each of them continued to get developed almost as the days go by.
-
-### [91. Generated Maps - My Favorite Map Generators and Their Aesthetics](https://hackernoon.com/generated-maps-my-favorite-map-generators-and-their-aesthetics)
-![](https://cdn.hackernoon.com/images/map-generator-clcqhgev2000001s69fzghm0d.png)
-Grinbalt talks about map generators and his favorite maps.
 
 ### [92. The Role of Music and Sound in Games](https://hackernoon.com/the-role-of-music-and-sound-in-games)
 ![](https://cdn.hackernoon.com/images/RPFwJYhJdyUhbClbWmOZTS4AK9m1-yb93rla.jpeg)
 This article features the physiological impact of music on players and how the music elements enhance the overall gaming experience.
 
-### [93. 🎮 A Web3-Native Game Is Making Its Debut on Steam](https://hackernoon.com/a-web3-native-game-is-making-its-debut-on-steam)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-sf93qsd.jpeg)
-Superior, a third-person web3 game, is launching on Steam today. Its blockchain version is available on Gala Games.
-
-### [94. Two Important Ways Metaverse and Crypto Gaming is Evolving](https://hackernoon.com/two-important-ways-metaverse-and-crypto-gaming-is-evolving)
+### [93. Two Important Ways Metaverse and Crypto Gaming is Evolving](https://hackernoon.com/two-important-ways-metaverse-and-crypto-gaming-is-evolving)
 ![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-9da3mbg.jpeg)
 A look at two important ways the metaverse and crypto gaming is growing.
+
+### [94. 🎮 A Web3-Native Game Is Making Its Debut on Steam](https://hackernoon.com/a-web3-native-game-is-making-its-debut-on-steam)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-sf93qsd.jpeg)
+Superior, a third-person web3 game, is launching on Steam today. Its blockchain version is available on Gala Games.
 
 ### [95. Tell Us About Your Gaming Experiences [Gaming Writing Prompt]](https://hackernoon.com/tell-us-about-your-gaming-experiences-gaming-writing-prompt)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-poa3xzw.jpeg)
@@ -395,29 +397,29 @@ A look at two important ways the metaverse and crypto gaming is growing.
 ![](https://cdn.hackernoon.com/images/skssOeH48yQNdDqRAn28z8IHu6i1-mz3833of.jpeg)
 Coding is the future of tomorrow. As all industries shift to a more digitized platform, coding for kids has become an essential part of the educational curriculum. In this article, we will take a look at two widely used programming languages - Python and Java, to get an idea of what language to choose to depend on the kid’s requirement. 
 
-### [97. Tech isn’t the Barrier to NFT-Game Interoperability](https://hackernoon.com/tech-isnt-the-barrier-to-nft-game-interoperability)
-![](https://cdn.hackernoon.com/images/SUpRYz31NEOdiA2KnhQsHbynwse2-0g03a2g.jpeg)
-NFTs can be the key to interoperable in-game assets, but the real reason why this is yet to happen is the business interest of their developers.
-
-### [98. On Machines That Play: The History of AI and Games](https://hackernoon.com/on-machines-that-play-the-history-of-ai-and-games)
+### [97. On Machines That Play: The History of AI and Games](https://hackernoon.com/on-machines-that-play-the-history-of-ai-and-games)
 ![](https://cdn.hackernoon.com/images/MfP1Esr4iOQrdtlTrwvCVMHCY5x2-v793mdd.jpeg)
 This series covers the history of Artificial Intelligence and games (until Deep Blue) and focuses on machines that played chess, checkers, and backgammon.
 
-### [99. 5 Underrated Video Games Everyone Should Try](https://hackernoon.com/5-underrated-video-games-everyone-should-try-n43w33b0)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ft2o33v3.jpeg)
-What game do you consider underrated and why? We discuss the most underrated video games in gaming.
+### [98. Tech isn’t the Barrier to NFT-Game Interoperability](https://hackernoon.com/tech-isnt-the-barrier-to-nft-game-interoperability)
+![](https://cdn.hackernoon.com/images/SUpRYz31NEOdiA2KnhQsHbynwse2-0g03a2g.jpeg)
+NFTs can be the key to interoperable in-game assets, but the real reason why this is yet to happen is the business interest of their developers.
 
-### [100. Why is Gaming Shifting to LiveOps, the Metaverse and Who Does Not Need It](https://hackernoon.com/why-is-gaming-shifting-to-liveops-the-metaverse-and-who-does-not-need-it)
+### [99. Why is Gaming Shifting to LiveOps, the Metaverse and Who Does Not Need It](https://hackernoon.com/why-is-gaming-shifting-to-liveops-the-metaverse-and-who-does-not-need-it)
 ![](https://cdn.hackernoon.com/images/tySgI7DqUQPlIP5HcrUDXP15I8H3-hj93tg1.jpeg)
 How did games as service emerge, what are they used for, what are LiveOps in games, why does CS not change with years and stays popular, what else will be created in Fortnite and what is awesomeness inflation?
+
+### [100. Telegram Games Are Fastly Becoming Red Flags 🚩](https://hackernoon.com/telegram-games-are-fastly-becoming-red-flags)
+![](https://cdn.hackernoon.com/images/XfkAcRQSKZeCWfyOwsqkFfN3Gxf2-rq131fj.jpeg)
+Telegram games are fast becoming scams. Personal experience with a Telegram game's founder.
 
 ### [101. Making P2E Gaming Guilds More Fair for Gamers: Problems and Solutions](https://hackernoon.com/making-p2e-gaming-guilds-more-fair-for-gamers-problems-and-solutions)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-y393k86.jpeg)
 Play-to-earn gaming guilds could be more beneficial to players by lowering the potential barrier to entry into the genre. Here are some problems and solutions.
 
-### [102. Telegram Games Are Fastly Becoming Red Flags 🚩](https://hackernoon.com/telegram-games-are-fastly-becoming-red-flags)
-![](https://cdn.hackernoon.com/images/XfkAcRQSKZeCWfyOwsqkFfN3Gxf2-rq131fj.jpeg)
-Telegram games are fast becoming scams. Personal experience with a Telegram game's founder.
+### [102. 5 Underrated Video Games Everyone Should Try](https://hackernoon.com/5-underrated-video-games-everyone-should-try-n43w33b0)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ft2o33v3.jpeg)
+What game do you consider underrated and why? We discuss the most underrated video games in gaming.
 
 ### [103. What's Going on With Star Citizen?](https://hackernoon.com/whats-going-on-with-star-citizen)
 ![](https://cdn.hackernoon.com/images/a-question-mark-made-up-of-stars-clej0hwy8000101s6h2jo3owl.png)
@@ -487,13 +489,13 @@ On Sunday, January 26th, the world suffered the loss of Kobe Bryant, his daughte
 ![](https://cdn.hackernoon.com/images/n93I5XffgXRPdKtQ4cnvtx6pHJO2-if937mh.jpeg)
 Web3 gaming is just getting started, and is going to play an even bigger role in the expansion of the decentralized  economy. 
 
-### [120. How To Learn Coding Basics By Creating Simple Games](https://hackernoon.com/how-to-learn-coding-basics-by-creating-simple-games-h12g3tgg)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBj2XgOeATwQRWXvQS5I7LjZ3K832-8a1m3ufe.jpeg?alt=media&token=4ceca559-091c-4e74-ba38-f2952ab3b7a8)
-You may have been grinding all those algorithms question on various platforms for your next interview, ever wonder when can we actually use them. Well, I got to finally see them in action while creating a board game called 8 Puzzle. It is played on a 3-by-3 grid with 8 square tiles labeled 1 through 8 and a blank square. Your goal is to rearrange the tiles so that they are in order. You can check out my implementation to get a better idea here.
-
-### [121. 93 Stories To Learn About Videogames](https://hackernoon.com/93-stories-to-learn-about-videogames)
+### [120. 93 Stories To Learn About Videogames](https://hackernoon.com/93-stories-to-learn-about-videogames)
 ![](https://cdn.hackernoon.com/images/github/videogames-809.png)
 Learn everything you need to know about Videogames via these 93 free HackerNoon stories.
+
+### [121. How To Learn Coding Basics By Creating Simple Games](https://hackernoon.com/how-to-learn-coding-basics-by-creating-simple-games-h12g3tgg)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBj2XgOeATwQRWXvQS5I7LjZ3K832-8a1m3ufe.jpeg?alt=media&token=4ceca559-091c-4e74-ba38-f2952ab3b7a8)
+You may have been grinding all those algorithms question on various platforms for your next interview, ever wonder when can we actually use them. Well, I got to finally see them in action while creating a board game called 8 Puzzle. It is played on a 3-by-3 grid with 8 square tiles labeled 1 through 8 and a blank square. Your goal is to rearrange the tiles so that they are in order. You can check out my implementation to get a better idea here.
 
 ### [122. Are cryptocurrency games offering fairer and greater chances of winning?](https://hackernoon.com/are-cryptocurrency-games-offering-fairer-and-greater-chances-of-winning-0el6307t)
 ![](https://cdn.hackernoon.com/drafts/d2p30ye.png)
@@ -511,13 +513,13 @@ It is clear to see which games are in keeping with the ethos of Bitcoin. Such ga
 ![](https://cdn.hackernoon.com/images/sWgUkcWK6naafqrMYXQ9swM3irf2-j893uq4.jpeg)
 This article highlights a number of stories which show the different facets of game analytics that may be good or not so great.
 
-### [126. Unlocking the Future of Gaming: An Interview With Modeo Cheng, Lead Game Designer of Curio Research](https://hackernoon.com/unlocking-the-future-of-gaming-an-interview-with-modeo-cheng-lead-game-designer-of-curio-research)
-![](https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-b893t8d.jpeg)
-An interview with Modeo Cheng on the paradigm shift in the gaming industry, powered by blockchain, Web3, and the potential of fully on-chain games.
-
-### [127. Write About Your Love for All Things Gaming!](https://hackernoon.com/write-about-your-love-for-all-things-gaming)
+### [126. Write About Your Love for All Things Gaming!](https://hackernoon.com/write-about-your-love-for-all-things-gaming)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-poa3xzw.jpeg)
 Gaming is one of those unique things in this world that connect us all together in one way or another. 
+
+### [127. Unlocking the Future of Gaming: An Interview With Modeo Cheng, Lead Game Designer of Curio Research](https://hackernoon.com/unlocking-the-future-of-gaming-an-interview-with-modeo-cheng-lead-game-designer-of-curio-research)
+![](https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-b893t8d.jpeg)
+An interview with Modeo Cheng on the paradigm shift in the gaming industry, powered by blockchain, Web3, and the potential of fully on-chain games.
 
 ### [128. Isle of Dread Expansion Hits Dungeons & Dragons Online](https://hackernoon.com/isle-of-dread-expansion-hits-dungeons-and-dragons-online)
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-db93n69.jpeg)
@@ -551,196 +553,196 @@ A review of the current Crypto gaming landscape, particularly on the economic de
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-ef037zz.jpeg)
 Wolf Among Us, The Walking Dead Season 1, and Game of Thrones are among the best games from acclaimed developer Telltale Games.
 
-### [136. Guardians of the Game: How Online Gaming Developers Continue to Combat Trolls and Hackers](https://hackernoon.com/guardians-of-the-game-how-online-gaming-developers-continue-to-combat-trolls-and-hackers)
-![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-your-task-is-to-generate-an-image-that-represents-the-theme-of-guardians-of-the-game-and-depicts-the-ongoing-battle-between-game-developers-and-these-disruptive-forces-create-an-artwork-that-captures-the-spirit-of-resilience-innovation-and-determination-in-the-face-of-challenges-whether-throug-clien6idq000201s6h4nugz6c.png)
-Explore the fascinating world of reputation scores, uncover the parallels between trolls and hackers as antagonists in a video game narrative
-
-### [137. Video Games Make Better Entrepreneurs and Leaders](https://hackernoon.com/video-games-make-better-entrepreneurs-and-leaders)
+### [136. Video Games Make Better Entrepreneurs and Leaders](https://hackernoon.com/video-games-make-better-entrepreneurs-and-leaders)
 ![](https://cdn.hackernoon.com/images/3KKZP1SeskfqZwjvYgxlZKRay5k2-2p93pem.jpeg)
 Some of the most popular games can actually impart the exact skills that one needs to succeed and thrive in today’s competitive professional world.
 
-### [138. Enhancing Learning with Gamified Instruction: Conclusion and References](https://hackernoon.com/enhancing-learning-with-gamified-instruction-conclusion-and-references)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-t082qsn.jpeg)
-This paper explores Gridlock, a game with personalized learning for early engineering students, enhancing engagement and educational efficacy through AI.
+### [137. Guardians of the Game: How Online Gaming Developers Continue to Combat Trolls and Hackers](https://hackernoon.com/guardians-of-the-game-how-online-gaming-developers-continue-to-combat-trolls-and-hackers)
+![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-your-task-is-to-generate-an-image-that-represents-the-theme-of-guardians-of-the-game-and-depicts-the-ongoing-battle-between-game-developers-and-these-disruptive-forces-create-an-artwork-that-captures-the-spirit-of-resilience-innovation-and-determination-in-the-face-of-challenges-whether-throug-clien6idq000201s6h4nugz6c.png)
+Explore the fascinating world of reputation scores, uncover the parallels between trolls and hackers as antagonists in a video game narrative
 
-### [139. Halo Infinite Campaign Review (Xbox): Master Chief is Back in Action](https://hackernoon.com/halo-infinite-campaign-review-xbox-master-chief-is-back-in-action)
+### [138. Halo Infinite Campaign Review (Xbox): Master Chief is Back in Action](https://hackernoon.com/halo-infinite-campaign-review-xbox-master-chief-is-back-in-action)
 ![](https://cdn.hackernoon.com/images/0ND921QitCePbuLAJQgufmkRClY2-gj03769.jpeg)
 343 Industries mastered the art of creating a visually stunning world that is captivating and engaging but lacks story cohesion.
 
-### [140. Rolling the Virtual Dice: RNG in Gameplay Just Got Leveled Up](https://hackernoon.com/rolling-the-virtual-dice-rng-in-gameplay-just-got-leveled-up)
-![](https://cdn.hackernoon.com/images/1R6u8YCgb0hj0skZG5K30MpJPwA2-qr83x6u.jpeg)
-From the physical randomness of D20 to the complex unpredictability of Autonomous Worlds, we are witnessing a new gaming experience.
-
-### [141. Go Fast When You Play the 5 Best Racing Games of All Time](https://hackernoon.com/go-fast-when-you-play-the-5-best-racing-games-of-all-time)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-3z93v2m.jpeg)
-Today, we can't imagine the world of gaming without racing games. 
-
-### [142. 9 Games We Love on Mobile: From Angry Birds to Occidental Heroes](https://hackernoon.com/9-games-we-love-on-mobile-from-angry-birds-to-occidental-heroes-m8ab33bp)
+### [139. 9 Games We Love on Mobile: From Angry Birds to Occidental Heroes](https://hackernoon.com/9-games-we-love-on-mobile-from-angry-birds-to-occidental-heroes-m8ab33bp)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-sz8k33nk.jpeg)
 The rise of mobile games converted many non-gamers into gamers, within the past decade.
 
-### [143. 3 Reasons Why Wordle is So Addicting](https://hackernoon.com/3-reasons-why-wordle-is-so-addicting)
+### [140. Enhancing Learning with Gamified Instruction: Conclusion and References](https://hackernoon.com/enhancing-learning-with-gamified-instruction-conclusion-and-references)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-t082qsn.jpeg)
+This paper explores Gridlock, a game with personalized learning for early engineering students, enhancing engagement and educational efficacy through AI.
+
+### [141. Rolling the Virtual Dice: RNG in Gameplay Just Got Leveled Up](https://hackernoon.com/rolling-the-virtual-dice-rng-in-gameplay-just-got-leveled-up)
+![](https://cdn.hackernoon.com/images/1R6u8YCgb0hj0skZG5K30MpJPwA2-qr83x6u.jpeg)
+From the physical randomness of D20 to the complex unpredictability of Autonomous Worlds, we are witnessing a new gaming experience.
+
+### [142. India's Distinction Between Online Games and Real Money Games Delights Esports Industry](https://hackernoon.com/indias-distinction-between-online-games-and-real-money-games-delights-esports-industry)
+![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-ol93ph0.jpeg)
+The Esports industry feels it’s a great move to separate online games and real money games. 
+
+### [143. Go Fast When You Play the 5 Best Racing Games of All Time](https://hackernoon.com/go-fast-when-you-play-the-5-best-racing-games-of-all-time)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-3z93v2m.jpeg)
+Today, we can't imagine the world of gaming without racing games. 
+
+### [144. The Life and Times of the Nintendo 3DS: Answering All of Your Nintendo 3DS Questions](https://hackernoon.com/the-life-and-times-of-the-nintendo-3ds-answering-all-of-your-nintendo-3ds-questions)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-vr93p4a.jpeg)
+This is a long time coming; the Nintendo 3DS isn’t young, but it’s still sad to see it go. With that in mind, let’s take a look at the life of the 3DS, and let
+
+### [145. 3 Reasons Why Wordle is So Addicting](https://hackernoon.com/3-reasons-why-wordle-is-so-addicting)
 ![](https://cdn.hackernoon.com/images/QfM9Sg6yRQcgqua3dNEL7W0ApF52-y203asj.jpeg)
 Let's discuss three reasons behind the immense popularity of the Wordle game.
 
-### [144. SEC Issues No Action Letter:
+### [146. SEC Issues No Action Letter:
 How Pocketful of Quarters Makes Monetization Better for Gaming](https://hackernoon.com/sec-issues-no-action-letter-how-pocketful-of-quarters-makes-monetization-better-for-gamers-and-deve-nd25w3e8f)
 ![](https://cdn.hackernoon.com/images/ku27d3eui.jpg)
 The Securities Exchange Commision (SEC) issued a No Action Letter for Pocketful of Quarters (POQ).
 
-### [145. India's Distinction Between Online Games and Real Money Games Delights Esports Industry](https://hackernoon.com/indias-distinction-between-online-games-and-real-money-games-delights-esports-industry)
-![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-ol93ph0.jpeg)
-The Esports industry feels it’s a great move to separate online games and real money games. 
-
-### [146. [Deep Dive] What is the G3D Geometry Exchange Format?](https://hackernoon.com/the-g3d-geometry-exchange-format-pz81b30qx)
+### [147. [Deep Dive] What is the G3D Geometry Exchange Format?](https://hackernoon.com/the-g3d-geometry-exchange-format-pz81b30qx)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9l82rtr.jpeg)
 At VIM AEC we process extremely large architectural models and import meshes and BIM data into game engines (such as Unity), 3D editing tools (such as 3ds Max), and applications running on different devices (such as the Magic Leap).
-
-### [147. The Life and Times of the Nintendo 3DS: Answering All of Your Nintendo 3DS Questions](https://hackernoon.com/the-life-and-times-of-the-nintendo-3ds-answering-all-of-your-nintendo-3ds-questions)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-vr93p4a.jpeg)
-This is a long time coming; the Nintendo 3DS isn’t young, but it’s still sad to see it go. With that in mind, let’s take a look at the life of the 3DS, and let
 
 ### [148. Not Running From the Web - Running It Together  ](https://hackernoon.com/not-running-from-the-web-running-it-together)
 ![](https://cdn.hackernoon.com/images/sBAioEpHDrWQPYrPmEQnIECEap82-qb03bvs.jpeg)
 In today’s connected households, WiFi isn’t just a utility, it’s the digital heartbeat of family life. How do families manage that?
 
-### [149. Chess And Music: Not An Obvious Connection](https://hackernoon.com/top-storychess-and-music-not-an-obvious-connection-m9j31a2)
-![](https://cdn.hackernoon.com/images/1AwNJVkdvPQmjZ8YM8zZf2UMguc2-bge210p.jpeg)
-The Chess Game relationship with music. Learn chess online with music. Chess For Kids. Online Chess Coaching 
-
-### [150. What Shipping a Mobile Game in an Emerging Market Taught Me About Product Decisions](https://hackernoon.com/what-shipping-a-mobile-game-in-an-emerging-market-taught-me-about-product-decisions)
-![](https://cdn.hackernoon.com/images/H3d06KTRUbZXCZ7hE8so6RkWQo52-sv03ilz.png)
-Shipping a real mobile game in an emerging market revealed how product decisions around performance, sessions, and monetisation shape product–market fit. 
-
-### [151. Web3 x Esports: Potential Benefits for Organizers, Players, Sponsors, and Fans](https://hackernoon.com/web3-x-esports-potential-benefits-for-organizers-players-sponsors-and-fans)
+### [149. Web3 x Esports: Potential Benefits for Organizers, Players, Sponsors, and Fans](https://hackernoon.com/web3-x-esports-potential-benefits-for-organizers-players-sponsors-and-fans)
 ![](https://cdn.hackernoon.com/images/FAMWbYFqpbUIYybuviMJY32NEbH3-wnd3u24.jpeg)
 Esports tournaments have come a long way since their inception, and with the advent of Web3 technologies, the industry is set to undergo a major transformation.
 
-### [152. Gaming Metaverses: All You Need To Know](https://hackernoon.com/gaming-metaverses-all-you-need-to-know-8la37db)
-![](https://cdn.hackernoon.com/images/ZFjrjKyru3ZAtV6LHrpdLvoZTLv2-nj2e354t.jpeg)
-You hear of people pouring hundreds of hours into games like Fortnite, Warcraft, or Roblox. These game worlds are otherwise known as metaverses.
+### [150. Chess And Music: Not An Obvious Connection](https://hackernoon.com/top-storychess-and-music-not-an-obvious-connection-m9j31a2)
+![](https://cdn.hackernoon.com/images/1AwNJVkdvPQmjZ8YM8zZf2UMguc2-bge210p.jpeg)
+The Chess Game relationship with music. Learn chess online with music. Chess For Kids. Online Chess Coaching 
 
-### [153. 141 Stories To Learn About Games](https://hackernoon.com/141-stories-to-learn-about-games)
+### [151. 141 Stories To Learn About Games](https://hackernoon.com/141-stories-to-learn-about-games)
 ![](https://cdn.hackernoon.com/images/github/games-324.png)
 Learn everything you need to know about Games via these 141 free HackerNoon stories.
+
+### [152. What Shipping a Mobile Game in an Emerging Market Taught Me About Product Decisions](https://hackernoon.com/what-shipping-a-mobile-game-in-an-emerging-market-taught-me-about-product-decisions)
+![](https://cdn.hackernoon.com/images/H3d06KTRUbZXCZ7hE8so6RkWQo52-sv03ilz.png)
+Shipping a real mobile game in an emerging market revealed how product decisions around performance, sessions, and monetisation shape product–market fit. 
+
+### [153. Gaming Metaverses: All You Need To Know](https://hackernoon.com/gaming-metaverses-all-you-need-to-know-8la37db)
+![](https://cdn.hackernoon.com/images/ZFjrjKyru3ZAtV6LHrpdLvoZTLv2-nj2e354t.jpeg)
+You hear of people pouring hundreds of hours into games like Fortnite, Warcraft, or Roblox. These game worlds are otherwise known as metaverses.
 
 ### [154. The Importance of Music in Video Games](https://hackernoon.com/the-importance-of-music-in-video-games-2k2y3td2)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAodWcUCDGIW6F773VYkxzgADk8r1-zu9h3el7.jpeg?alt=media&token=20d85e7e-f117-4b8b-8469-292a21b567bb)
 Think back to the year of 1986. You are an excited child sprinting through the arcade so you can be the first to get to the amazing new game, ”Outrun”. What was it that was so special about this game? The cars? The quirky characters? The endless crashing into things? Probably. But I recently played it for the first time, and the one thing that stood out to me was the music. 
 
-### [155. What Exactly are eSports?](https://hackernoon.com/what-exactly-are-esports)
-![](https://cdn.hackernoon.com/images/IUr1BTvCalSjJrSiqInFgxYhQZa2-8c93uc3.jpeg)
-Esports, as described by the Harvard International Review, are “video games performed in a highly structured competitive context.”
-
-### [156. Recognized and Accepted: The Inevitable Rise of the Gaming World](https://hackernoon.com/recognized-and-accepted-the-inevitable-rise-of-gaming-world)
+### [155. Recognized and Accepted: The Inevitable Rise of the Gaming World](https://hackernoon.com/recognized-and-accepted-the-inevitable-rise-of-gaming-world)
 ![](https://cdn.hackernoon.com/images/AmUaywGH0WNIW3Knrlaq5Jc4tvW2-yo93ojp.jpeg)
 Gaming fosters the mindset that allows creativity to grow. Now that gaming has been slowly recognized, will it continue to rise against all odds?
 
-### [157. Creative Minecraft House Ideas for Beginners](https://hackernoon.com/creative-minecraft-house-ideas-for-beginners)
-![](https://cdn.hackernoon.com/images/ai4C2ZOAbOhki4gYVPSgGcUgJXv2-wd93qak.jpeg)
-Minecraft is one of the most played games for kids and teens. This is one of the most realistic games where you need to build a house and a lot of other things.
-
-### [158. Designing Fair and Efficient Blockchain Games: A Case Study with Sui Network and DRAND](https://hackernoon.com/designing-fair-and-efficient-blockchain-games-a-case-study-with-sui-network-and-drand)
+### [156. Designing Fair and Efficient Blockchain Games: A Case Study with Sui Network and DRAND](https://hackernoon.com/designing-fair-and-efficient-blockchain-games-a-case-study-with-sui-network-and-drand)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-pq82mas.png)
 An arxiv paper on fairness and efficiency in blockchain raffle games on Sui Network and smart contract insights with DRAND Beacons and VRFs.
 
-### [159. Gaming Industry Having a Boom During Pandemic: Will It Last?](https://hackernoon.com/gaming-industry-having-a-boom-during-pandemic-will-it-last-o51d3u4c)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F25FD7aJjvQXZmpBWsHFW5JYdjMt1-n8273uyv.jpeg?alt=media&token=73281583-e89f-4cdc-a357-92ea28714c1c)
-No matter where you look, the coronavirus has done grievous damage. It has disrupted the lives of millions of people in every way imaginable. It has also upended the global economy in a manner not seen since the Great Depression. At the time of this writing, millions are out of work, and companies are cutting costs in an effort to survive the crisis.
+### [157. What Exactly are eSports?](https://hackernoon.com/what-exactly-are-esports)
+![](https://cdn.hackernoon.com/images/IUr1BTvCalSjJrSiqInFgxYhQZa2-8c93uc3.jpeg)
+Esports, as described by the Harvard International Review, are “video games performed in a highly structured competitive context.”
 
-### [160. Graph Traversal Algorithms: Visualizing Performance Variations in Route Finding Algorithms](https://hackernoon.com/exploring-visual-graph-algorithms-with-real-world-scenarios)
-![](https://cdn.hackernoon.com/images/tT78NTkPYiNmhs2Sm8rCsKqAGkv2-uu92ka1.jpeg)
-Implementation of the most well-known graph-traversal algorithms in visually appealing way.
+### [158. Creative Minecraft House Ideas for Beginners](https://hackernoon.com/creative-minecraft-house-ideas-for-beginners)
+![](https://cdn.hackernoon.com/images/ai4C2ZOAbOhki4gYVPSgGcUgJXv2-wd93qak.jpeg)
+Minecraft is one of the most played games for kids and teens. This is one of the most realistic games where you need to build a house and a lot of other things.
 
-### [161. 59 Best Video Games of All Time According to HackerNoon](https://hackernoon.com/59-best-video-games-of-all-time-according-to-hackernoon-8l5p34lt)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-tu453428.jpeg)
-HackerNoon writers talk about their Top 10 list of best video games of all time, along with short descriptions of why each game made their list. 
-
-### [162. A Consensus-Based Algorithm for Non-Convex Multiplayer Games: Conclusion](https://hackernoon.com/a-consensus-based-algorithm-for-non-convex-multiplayer-games-conclusion)
+### [159. A Consensus-Based Algorithm for Non-Convex Multiplayer Games: Conclusion](https://hackernoon.com/a-consensus-based-algorithm-for-non-convex-multiplayer-games-conclusion)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-of83wby.jpeg)
 A novel algorithm using swarm intelligence to find global Nash equilibria in nonconvex multiplayer games, with convergence guarantees and numerical experiments.
 
-### [163. What are the Most Overrated Games Out There?](https://hackernoon.com/what-are-the-most-overrated-games-out-there)
-![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-5x138xs.jpeg)
-With so many games available to us, some don't deserve the same praise. In this slogging thread, the gaming channel discussed what are the most overrated games
+### [160. 59 Best Video Games of All Time According to HackerNoon](https://hackernoon.com/59-best-video-games-of-all-time-according-to-hackernoon-8l5p34lt)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-tu453428.jpeg)
+HackerNoon writers talk about their Top 10 list of best video games of all time, along with short descriptions of why each game made their list. 
+
+### [161. Gaming Industry Having a Boom During Pandemic: Will It Last?](https://hackernoon.com/gaming-industry-having-a-boom-during-pandemic-will-it-last-o51d3u4c)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F25FD7aJjvQXZmpBWsHFW5JYdjMt1-n8273uyv.jpeg?alt=media&token=73281583-e89f-4cdc-a357-92ea28714c1c)
+No matter where you look, the coronavirus has done grievous damage. It has disrupted the lives of millions of people in every way imaginable. It has also upended the global economy in a manner not seen since the Great Depression. At the time of this writing, millions are out of work, and companies are cutting costs in an effort to survive the crisis.
+
+### [162. Graph Traversal Algorithms: Visualizing Performance Variations in Route Finding Algorithms](https://hackernoon.com/exploring-visual-graph-algorithms-with-real-world-scenarios)
+![](https://cdn.hackernoon.com/images/tT78NTkPYiNmhs2Sm8rCsKqAGkv2-uu92ka1.jpeg)
+Implementation of the most well-known graph-traversal algorithms in visually appealing way.
+
+### [163. 22 Video Games that Got Us Through the Pandemic](https://hackernoon.com/22-video-games-that-got-us-through-the-pandemic-do6q339o)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-5g4533iv.jpeg)
+When lockdown restrictions came into effect, lots of people turned to gaming as an escape, or just simply a way to pass the time. 
 
 ### [164. God of War Ragnarök Arrives in November - New Cinematic Trailer Released](https://hackernoon.com/god-of-war-ragnarok-arrives-in-november-new-cinematic-trailer-released)
 ![](https://cdn.hackernoon.com/images/ZFjrjKyru3ZAtV6LHrpdLvoZTLv2-kfb3o6r.jpeg)
 It's official. God of War: Ragnarok is due out on November 9 for the PlayStation 4 and PlayStation 5 consoles. A new cinematic trailer was also released.
 
-### [165. Interstellar Travel in Games and the Scientific Perspective](https://hackernoon.com/interstellar-travel-in-games-and-the-scientific-perspective)
-![](https://cdn.hackernoon.com/images/eZLaaX4pv3hXfgmMhUJ311PQUNJ2-v603cpa.png)
-Space is probably one of the most interesting and popular themes for video games. Especially since the entire industry began with Space Invaders.
+### [165. What are the Most Overrated Games Out There?](https://hackernoon.com/what-are-the-most-overrated-games-out-there)
+![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-5x138xs.jpeg)
+With so many games available to us, some don't deserve the same praise. In this slogging thread, the gaming channel discussed what are the most overrated games
 
-### [166. 5 Essential Unity Analytics Features for Successful Game Development](https://hackernoon.com/5-essential-unity-analytics-features-for-successful-game-development)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-5l9309s.jpeg)
-Understanding player behavior, optimizing game performance, and enhancing the overall experience are all vital for creating successful games.
-
-
+### [166. A Consensus-Based Algorithm for Non-Convex Multiplayer Games: Numerical Experiments](https://hackernoon.com/a-consensus-based-algorithm-for-non-convex-multiplayer-games-numerical-experiments)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-8y83w2v.jpeg)
+A novel algorithm using swarm intelligence to find global Nash equilibria in nonconvex multiplayer games, with convergence guarantees and numerical experiments.
 
 ### [167. Gaming as a Socially Acceptable Career](https://hackernoon.com/gaming-as-a-socially-acceptable-career)
 ![](https://cdn.hackernoon.com/images/AmUaywGH0WNIW3Knrlaq5Jc4tvW2-9e93obz.jpeg)
 The gaming industry keeps evolving. Now, you can also make a career in gaming and earn a lot of money in this industry. Yes, it is possible.
 
-### [168. 22 Video Games that Got Us Through the Pandemic](https://hackernoon.com/22-video-games-that-got-us-through-the-pandemic-do6q339o)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-5g4533iv.jpeg)
-When lockdown restrictions came into effect, lots of people turned to gaming as an escape, or just simply a way to pass the time. 
+### [168. The Best Original Arcade Games (Slogging Insights)](https://hackernoon.com/the-best-original-arcade-games-slogging-insights)
+![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-07b3gs5.jpeg)
+Arcade games were a big part of our childhood, filling our hours and memories with fun moments. In this slogging thread, we share our favorite arcade games.
 
-### [169. A Consensus-Based Algorithm for Non-Convex Multiplayer Games: Numerical Experiments](https://hackernoon.com/a-consensus-based-algorithm-for-non-convex-multiplayer-games-numerical-experiments)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-8y83w2v.jpeg)
-A novel algorithm using swarm intelligence to find global Nash equilibria in nonconvex multiplayer games, with convergence guarantees and numerical experiments.
+### [169. 5 Essential Unity Analytics Features for Successful Game Development](https://hackernoon.com/5-essential-unity-analytics-features-for-successful-game-development)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-5l9309s.jpeg)
+Understanding player behavior, optimizing game performance, and enhancing the overall experience are all vital for creating successful games.
+
+
 
 ### [170. Exploring the Wizarding world: My Magical Experience Playing Hogwars Legacy](https://hackernoon.com/exploring-the-wizarding-world-my-magical-experience-playing-hogwars-legacy)
 ![](https://cdn.hackernoon.com/images/0fH7o4P0rlbMycuBDkjjdBIs4hz1-26b3pnu.gif.webp)
 The attention to detail in Hogwarts Legacy is truly impressive. This is a must-play for every harry potter fan or video game geek. 
 
-### [171. Checkers vs. Chess](https://hackernoon.com/checkers-vs-chess)
+### [171. 5 Games That Should be Ported to Modern Consoles](https://hackernoon.com/5-games-that-should-be-ported-to-modern-consoles)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0vj3jnd.jpeg)
+Sometimes it feels like a lot of classic video games are stuck in the past. That's why it's nice to see older games like these get ported to modern consoles.
+
+### [172. Checkers vs. Chess](https://hackernoon.com/checkers-vs-chess)
 ![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-y413b29.jpeg)
 Both are strategic games, but which one do you pick? Chess or checkers? In this slogging thread, the random community discussed which one they prefer.
-
-### [172. The Best Original Arcade Games (Slogging Insights)](https://hackernoon.com/the-best-original-arcade-games-slogging-insights)
-![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-07b3gs5.jpeg)
-Arcade games were a big part of our childhood, filling our hours and memories with fun moments. In this slogging thread, we share our favorite arcade games.
 
 ### [173. Tap Fantasy: The Lost World of Odom [Part 1]](https://hackernoon.com/tap-fantasy-the-lost-world-of-odom-part-1)
 ![](https://cdn.hackernoon.com/images/QiTiQVjX9xZK2dsh8IdYaS4zI882-zz03axk.jpeg)
 The story begins with a young adventurer and the planet Odom far, far away.
 
-### [174. 5 Games That Should be Ported to Modern Consoles](https://hackernoon.com/5-games-that-should-be-ported-to-modern-consoles)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0vj3jnd.jpeg)
-Sometimes it feels like a lot of classic video games are stuck in the past. That's why it's nice to see older games like these get ported to modern consoles.
-
-### [175. Paradigm Change: Microtransactions](https://hackernoon.com/paradigm-change-microtransactions)
+### [174. Paradigm Change: Microtransactions](https://hackernoon.com/paradigm-change-microtransactions)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-cv93r39.jpeg)
 Microtransactions are a big part of the gaming industry over the last few years. How the biggest companies treat them can decide the future of P2E games.
 
-### [176. Exploring Indian eSports: Triumphs, Partnerships, and Game Launches](https://hackernoon.com/exploring-indian-esports-triumphs-partnerships-and-game-launches)
+### [175. Exploring Indian eSports: Triumphs, Partnerships, and Game Launches](https://hackernoon.com/exploring-indian-esports-triumphs-partnerships-and-game-launches)
 ![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-ro936va.jpeg)
 The month of July has been nothing short of spectacular for the Indian eSports community, as the industry continues to surge forward with impressive growth.
 
-### [177. You Don’t Need to Kill People to Enjoy a Video Game](https://hackernoon.com/you-dont-need-to-kill-people-to-enjoy-a-video-game-o751327z)
+### [176. You Don’t Need to Kill People to Enjoy a Video Game](https://hackernoon.com/you-dont-need-to-kill-people-to-enjoy-a-video-game-o751327z)
 ![](https://cdn.hackernoon.com/drafts/4kr3y67.png)
 Death. It’s all around us.
 
-### [178. Enhancing Learning with Gamified Instruction: Overview of PING System and Gridlock](https://hackernoon.com/enhancing-learning-with-gamified-instruction-overview-of-ping-system-and-gridlock)
+### [177. Enhancing Learning with Gamified Instruction: Overview of PING System and Gridlock](https://hackernoon.com/enhancing-learning-with-gamified-instruction-overview-of-ping-system-and-gridlock)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-hv82pbs.jpeg)
 This paper explores Gridlock, a game with personalized learning for early engineering students, enhancing engagement and educational efficacy through AI.
 
-### [179. How Video Games Helped Me Improve My Cognitive Functioning](https://hackernoon.com/video-games-a-way-to-improve-your-skills-dj2ni3805)
+### [178. How Video Games Helped Me Improve My Cognitive Functioning](https://hackernoon.com/video-games-a-way-to-improve-your-skills-dj2ni3805)
 ![](https://cdn.hackernoon.com/drafts/74cu38nr.png)
 
 
-### [180. Oh You're Going to Your First Game Jam? Read Me First](https://hackernoon.com/oh-youre-going-to-your-first-game-jam-read-me-first-mw3k3uuv)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FII3qMjBh73e72VJHWbdJcXCMgvs1-8oh3wmr.jpeg?alt=media&token=97e5d838-9876-4c06-b717-34c5116c67c5)
-I have participated in quite a few game jams over the years and now I want to share my experiences with you. I participated in both online as offline jams like Ludum Dare and Global Game Jam. Game jams are fun and can be a great learning experience but they can also be stressful and tiring.
-
-### [181. A Consensus-Based Algorithm for Non-Convex Multiplayer Games: Nonlinear Oligopoly Games](https://hackernoon.com/a-consensus-based-algorithm-for-non-convex-multiplayer-games-nonlinear-oligopoly-games)
+### [179. A Consensus-Based Algorithm for Non-Convex Multiplayer Games: Nonlinear Oligopoly Games](https://hackernoon.com/a-consensus-based-algorithm-for-non-convex-multiplayer-games-nonlinear-oligopoly-games)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ri83wny.jpeg)
 A novel algorithm using swarm intelligence to find global Nash equilibria in nonconvex multiplayer games, with convergence guarantees and numerical experiments.
 
-### [182. Stadia and the Coming New Gaming World Order](https://hackernoon.com/stadia-and-the-coming-new-gaming-world-order-ge1uo306q)
+### [180. Interstellar Travel in Games and the Scientific Perspective](https://hackernoon.com/interstellar-travel-in-games-and-the-scientific-perspective)
+![](https://cdn.hackernoon.com/images/eZLaaX4pv3hXfgmMhUJ311PQUNJ2-v603cpa.png)
+Space is probably one of the most interesting and popular themes for video games. Especially since the entire industry began with Space Invaders.
+
+### [181. Stadia and the Coming New Gaming World Order](https://hackernoon.com/stadia-and-the-coming-new-gaming-world-order-ge1uo306q)
 ![](https://cdn.hackernoon.com/drafts/571sf30g6.png)
 Ever since personal computers started to make their way into homes in the 1980s, they've revolutionized almost every aspect of modern life. We now use them to write, shop, communicate with friends and family and do countless other daily tasks. Since the beginning, however, there's one thing that we've used computers to do more than anything else: play games.
+
+### [182. Oh You're Going to Your First Game Jam? Read Me First](https://hackernoon.com/oh-youre-going-to-your-first-game-jam-read-me-first-mw3k3uuv)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FII3qMjBh73e72VJHWbdJcXCMgvs1-8oh3wmr.jpeg?alt=media&token=97e5d838-9876-4c06-b717-34c5116c67c5)
+I have participated in quite a few game jams over the years and now I want to share my experiences with you. I participated in both online as offline jams like Ludum Dare and Global Game Jam. Game jams are fun and can be a great learning experience but they can also be stressful and tiring.
 
 ### [183. Sega Enters the Web3 World](https://hackernoon.com/sega-enters-the-web3-world)
 ![](https://cdn.hackernoon.com/images/sonic-the-hedgehog-entering-a-web-3-world-buc4ttcteiimvkrcayw1xyto.png)
@@ -750,25 +752,25 @@ Sega announces its first blockchain game!
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FII3qMjBh73e72VJHWbdJcXCMgvs1-4mj3w3a.png?alt=media&token=b096d5df-5086-4c91-9859-72745b3793db)
 It's simple, really: ff you want to become a good game developer, you need to make lots of games. Let’s first start with why you need to be productive: the more games you make the better and faster you become at making games. Every new game you make is a new addition to your portfolio. Publish your games on different portals to see what the players think about your game, see what works, and what kind of ideas don’t.
 
-### [185. If you could pick one video game to turn into a movie, what would it be?](https://hackernoon.com/if-you-could-pick-one-video-game-to-turn-into-a-movie-what-would-it-be-tio33h4)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-7a1s32x2.jpeg)
-The Hacker Noon community discusses what video games we would want to be turned into a movie! 
+### [185. Enhancing Learning with Gamified Instruction: Abstract and Introduction](https://hackernoon.com/enhancing-learning-with-gamified-instruction-abstract-and-introduction)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-4982qra.jpeg)
+This paper explores Gridlock, a game with personalized learning for early engineering students, enhancing engagement and educational efficacy through AI.
 
 ### [186. Street Fighter V Season 5 Kicks Off: Dan & Rose Join the Fight](https://hackernoon.com/street-fighter-v-season-5-kicks-off-dan-and-rose-join-the-fight-u4j33qs)
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-441033nr.jpeg)
 Capcom recently revealed that the upcoming Season 5 Winter Update for Street Fighter V will bring new fighters and features to the game.
 
-### [187. A Consensus-Based Algorithm for Non-Convex Multiplayer Games: Abstract and Introduction](https://hackernoon.com/a-consensus-based-algorithm-for-non-convex-multiplayer-games-abstract-and-introduction)
+### [187. If you could pick one video game to turn into a movie, what would it be?](https://hackernoon.com/if-you-could-pick-one-video-game-to-turn-into-a-movie-what-would-it-be-tio33h4)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-7a1s32x2.jpeg)
+The Hacker Noon community discusses what video games we would want to be turned into a movie! 
+
+### [188. A Consensus-Based Algorithm for Non-Convex Multiplayer Games: Abstract and Introduction](https://hackernoon.com/a-consensus-based-algorithm-for-non-convex-multiplayer-games-abstract-and-introduction)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-bd83wsy.jpeg)
 A novel algorithm using swarm intelligence to find global Nash equilibria in nonconvex multiplayer games, with convergence guarantees and numerical experiments.
 
-### [188. What is your favourite Nintendo first-party franchise?](https://hackernoon.com/what-is-your-favourite-nintendo-first-party-franchise-qg2934sq)
+### [189. What is your favourite Nintendo first-party franchise?](https://hackernoon.com/what-is-your-favourite-nintendo-first-party-franchise-qg2934sq)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-6a6a34zj.jpeg)
 Nintendo has a plethora of games on its video game systems. The HackerNoon community discusses what our favourite first-party Nintendo franchises are.
-
-### [189. Enhancing Learning with Gamified Instruction: Abstract and Introduction](https://hackernoon.com/enhancing-learning-with-gamified-instruction-abstract-and-introduction)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-4982qra.jpeg)
-This paper explores Gridlock, a game with personalized learning for early engineering students, enhancing engagement and educational efficacy through AI.
 
 ### [190. Enhancing Learning with Gamified Instruction: Design Insights and Educational Impact](https://hackernoon.com/enhancing-learning-with-gamified-instruction-design-insights-and-educational-impact)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-jm82qpw.jpeg)

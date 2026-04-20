@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ai-revolution](https://hackernoon.com/tagged/ai-revolution)
+### Let's learn about [Ai Revolution](https://hackernoon.com/tagged/ai-revolution) via these 96 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 "The significant problems we face cannot be solved by the same level of thinking that created them." - Albert Einstein
 
 ### [1. Open-Source: The Next Step in AI Revolution](https://hackernoon.com/open-source-the-next-step-in-ai-revolution)
@@ -124,25 +126,25 @@ With ChatGPT dominating the tech and other news, the concernabout data security 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-r7x3u34.jpeg?alt=media&token=de18ab35-110f-4563-9ba7-0d191d797b66)
 Artificial Intelligence (AI) has created a lot of disruption in the business world. 
 
-### [31. AI and the Future of Work: Transforming Industries](https://hackernoon.com/ai-and-the-future-of-work-transforming-industries)
-![](https://cdn.hackernoon.com/images/JYiAMsoqs5e45YVnZLEjerM7WsW2-kv037yq.png)
-AI is transforming industries by automating tasks, enhancing efficiency, and reshaping jobs. While it replaces some roles, it creates new opportunities,
-
-### [32. Google Bard Presents Timelines for Computer and AI Development](https://hackernoon.com/google-bard-presents-timelines-for-computer-and-ai-development)
+### [31. Google Bard Presents Timelines for Computer and AI Development](https://hackernoon.com/google-bard-presents-timelines-for-computer-and-ai-development)
 ![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-d493rt5.jpeg)
 Some interview questions and answers from Google BARD presents a historical perspective on when things happened.
+
+### [32. AI and the Future of Work: Transforming Industries](https://hackernoon.com/ai-and-the-future-of-work-transforming-industries)
+![](https://cdn.hackernoon.com/images/JYiAMsoqs5e45YVnZLEjerM7WsW2-kv037yq.png)
+AI is transforming industries by automating tasks, enhancing efficiency, and reshaping jobs. While it replaces some roles, it creates new opportunities,
 
 ### [33. The Ethical Dilemma: AI's Role in Decision-Making and Human Rights](https://hackernoon.com/the-ethical-dilemma-ais-role-in-decision-making-and-human-rights)
 ![](https://cdn.hackernoon.com/images/7w1808IzuEYmT5lSPXBgFUs43Ym2-mo93yli.jpeg)
 This article explores the ethical implications of AI in decision-making and human rights, highlighting risks like invasive surveillance and biased algorithms. 
 
-### [34. The Rise of the Planet of the AI](https://hackernoon.com/the-rise-of-the-planet-of-the-ai-nd3a3wiu)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRoEcUuRu0Ya0skITmFgbBSe0Rln1-4p653wel.jpeg?alt=media&token=bd096912-6222-4be9-9078-e8c5ebd852be)
-Humans never got chill and will never get. Constantly striving to reach the future faster, we made AI.
-
-### [35. Life 3.0: Harnessing AI to Enhance Consciousness and the Human Experience](https://hackernoon.com/life-30-harnessing-ai-to-enhance-consciousness-and-the-human-experience)
+### [34. Life 3.0: Harnessing AI to Enhance Consciousness and the Human Experience](https://hackernoon.com/life-30-harnessing-ai-to-enhance-consciousness-and-the-human-experience)
 ![](https://cdn.hackernoon.com/images/i6hjslzIRdYmQax95k2k6db7wCH2-pv93sup.gif.webp)
 The essence of being human lies in consciousness and presence. As AI increasingly provides insights, it can enhance our presence and accelerate personal growth,
+
+### [35. The Rise of the Planet of the AI](https://hackernoon.com/the-rise-of-the-planet-of-the-ai-nd3a3wiu)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRoEcUuRu0Ya0skITmFgbBSe0Rln1-4p653wel.jpeg?alt=media&token=bd096912-6222-4be9-9078-e8c5ebd852be)
+Humans never got chill and will never get. Constantly striving to reach the future faster, we made AI.
 
 ### [36. The Age of AI has begun in the Economic Revolution](https://hackernoon.com/the-age-of-ai-has-begun-in-the-economic-revolution)
 ![](https://cdn.hackernoon.com/images/mMD5TbdcyWeeZODA8EhDSeRwBIv1-pr83x1g.jpeg)
@@ -160,13 +162,13 @@ Artificial intelligence is transforming industries across the board. From healt
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-b60328k.png)
 Pocket FM has been revolutionizing entertainment by making audio entertainment mainstream worldwide.
 
-### [40. How Companies Are Actually Using AI in Everyday Practices](https://hackernoon.com/how-companies-are-actually-using-ai-in-everyday-practices-eft360e)
-![](https://cdn.hackernoon.com/images/drvy368p.jpg)
-When thinking of AI (artificial intelligence), mixed emotions often come to mind. For movie buffs, we might immediately see images of Will Smith battling it out with humanoid AI creatures in IRobot or the even more realistic looking depiction of artificial intelligence in the movie aptly called AI. In our human minds, AI is something that could potentially lead to a catastrophic apocalypse as machines take over the world.
-
-### [41. Will AI Replace You at the Office?](https://hackernoon.com/will-ai-replace-you-at-the-office)
+### [40. Will AI Replace You at the Office?](https://hackernoon.com/will-ai-replace-you-at-the-office)
 ![](https://cdn.hackernoon.com/images/lxe2pKf4ClTV93ElBeBmPKLVf9I2-97a3p1z.jpeg)
 As more organizations embrace AI-powered technologies, employees continue to question what the future holds for them.
+
+### [41. How Companies Are Actually Using AI in Everyday Practices](https://hackernoon.com/how-companies-are-actually-using-ai-in-everyday-practices-eft360e)
+![](https://cdn.hackernoon.com/images/drvy368p.jpg)
+When thinking of AI (artificial intelligence), mixed emotions often come to mind. For movie buffs, we might immediately see images of Will Smith battling it out with humanoid AI creatures in IRobot or the even more realistic looking depiction of artificial intelligence in the movie aptly called AI. In our human minds, AI is something that could potentially lead to a catastrophic apocalypse as machines take over the world.
 
 ### [42. The 10 Technologies that Completely Changed How we See the World](https://hackernoon.com/the-10-technologies-that-completely-changed-how-we-see-the-world)
 ![](https://cdn.hackernoon.com/images/pHPzB75Dend8z7smfYkLmiZ2Xfx1-aw92hiv.jpeg)
@@ -220,25 +222,25 @@ A sharp critique of the AI boom, exposing how tech giants’ greed and hype may 
 ![](https://cdn.hackernoon.com/images/Mifs5akxaCbafBDLv5tjMtXgGMX2-qa039id.png)
 If AI passes the Turing Test, it may replace many jobs—but create one: Companion Designers who craft culturally aware, personalized AI personas. 
 
-### [55. The Impact of AI on Businesses and Digital Marketing ](https://hackernoon.com/the-impact-of-ai-on-businesses-and-digital-marketing)
-![](https://cdn.hackernoon.com/images/rkae2XxtCCh8jwdTJ7B5Uo09rPA2-8w93jg6.jpeg)
-AI is affecting business and digital marketing along with the flow of information. Read more about how AI is impacting marketing.
-
-### [56. There is Gulf between Science and Technology But AI Could Bridge the Gap](https://hackernoon.com/there-is-gulf-between-science-and-technology-but-ai-could-bridge-the-gap)
+### [55. There is Gulf between Science and Technology But AI Could Bridge the Gap](https://hackernoon.com/there-is-gulf-between-science-and-technology-but-ai-could-bridge-the-gap)
 ![](https://cdn.hackernoon.com/images/8XDSqaqcXlPdNz3WcmAwtbrmWjN2-11b3olr.jpeg)
 How to understand Nobel Laureate PW Anderson's 1972 Essay "More is different" in the context of AI
 
-### [57. Tricky Little Time Limits](https://hackernoon.com/tricky-little-time-limits)
+### [56. The Impact of AI on Businesses and Digital Marketing ](https://hackernoon.com/the-impact-of-ai-on-businesses-and-digital-marketing)
+![](https://cdn.hackernoon.com/images/rkae2XxtCCh8jwdTJ7B5Uo09rPA2-8w93jg6.jpeg)
+AI is affecting business and digital marketing along with the flow of information. Read more about how AI is impacting marketing.
+
+### [57. AI Could Help NBA Referees?](https://hackernoon.com/ai-could-help-nba-referees)
+![](https://cdn.hackernoon.com/images/Z7ZkCzqpkBdXJ4DMKYwft6zCe9q1-ql93pfr.jpeg)
+
+
+### [58. Tricky Little Time Limits](https://hackernoon.com/tricky-little-time-limits)
 ![](https://cdn.hackernoon.com/images/DHK0BG2TP4YyrpEDKkD1t4EmCU52-8793xa5.jpeg)
 Follow the journey of an AI model, in an alternate world, tasked with giving care even when things get a little... chaotic. 
 
-### [58. 6 Essential Terms To Know Before Hiring Artificial Intelligence Consulting Companies ](https://hackernoon.com/6-essential-ai-terms-used-by-artificial-intelligence-consulting-companies-yu3834m2)
+### [59. 6 Essential Terms To Know Before Hiring Artificial Intelligence Consulting Companies ](https://hackernoon.com/6-essential-ai-terms-used-by-artificial-intelligence-consulting-companies-yu3834m2)
 ![](https://cdn.hackernoon.com/images/VoOR2i7g3CfLTHE0eLkIeluu6F62-8hp3zs3.png)
 If you’re looking for artificial intelligence consulting services you will need to understand these ideas to get the most out of your consultants. 
-
-### [59. AI Could Help NBA Referees?](https://hackernoon.com/ai-could-help-nba-referees)
-![](https://cdn.hackernoon.com/images/Z7ZkCzqpkBdXJ4DMKYwft6zCe9q1-ql93pfr.jpeg)
-
 
 ### [60. The Land of The Lawless: Using AI In Business](https://hackernoon.com/the-land-of-the-lawless-using-ai-in-business-e3db37hk)
 ![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-rv1135m9.jpeg)
@@ -248,13 +250,13 @@ Amy Tom chats with Kate Bradley Chernis, CEO of Lately AI, about her startup jou
 ![](https://cdn.hackernoon.com/images/how-to-integrate-artificial-intelligence-as-an-integral-member-of-your-team-xjzncb0khzdb6aexg6v6sebm.png)
 Integrating AI into the workforce can bring about a multitude of advantages, particularly when it comes to honing decision-making acumen.
 
-### [62. How AI Is Going to Change the Music Industry](https://hackernoon.com/how-ai-is-going-to-change-the-music-industry)
-![](https://cdn.hackernoon.com/images/a-robot-djing-at-a-party-clfmyo26y000001s68jpy3prn.png)
-Dr. Jim Fan goes over how AI will change the music industry.
-
-### [63. Will AI Tools Change the Way Educators Evaluate Student Work?](https://hackernoon.com/will-ai-tools-change-the-way-educators-evaluate-student-work)
+### [62. Will AI Tools Change the Way Educators Evaluate Student Work?](https://hackernoon.com/will-ai-tools-change-the-way-educators-evaluate-student-work)
 ![](https://cdn.hackernoon.com/images/a-pencil-sketch-of-classroom-kids-looking-towards-the-teacher-which-is-an-old-style-pc-computer-on-a-desk-clfhtabf0000101s69am77n9e.png)
 Explore the transformative potential of AI in student evaluation, its benefits, challenges, and real-world examples in education.
+
+### [63. How AI Is Going to Change the Music Industry](https://hackernoon.com/how-ai-is-going-to-change-the-music-industry)
+![](https://cdn.hackernoon.com/images/a-robot-djing-at-a-party-clfmyo26y000001s68jpy3prn.png)
+Dr. Jim Fan goes over how AI will change the music industry.
 
 ### [64. 15 Global AI Executives Revolutionizing Diverse Industries](https://hackernoon.com/15-global-ai-executives-revolutionizing-diverse-industries)
 ![](https://cdn.hackernoon.com/images/ZSnNpZ3GejgVSxqs3EyP38vlsLL2-xb93qmg.jpeg)
@@ -284,29 +286,29 @@ I analyzed how AI and blockchain can complement each other, why AI needs decentr
 ![](https://cdn.hackernoon.com/images/RZwoP6O1oHhMkrV1MPKJnnRWU9Y2-x91v32h1.jpeg)
 AI has helped transform lead qualifications. AI has become easier to use and implement than ever before, and many businesses are applying AI solutions.
 
-### [71. AI for the Earth: Ushering in a Sustainability Revolution](https://hackernoon.com/ai-for-the-earth-ushering-in-a-sustainability-revolution-lz7m336y)
-![](https://cdn.hackernoon.com/images/kB0jOE3gtvVQDb3IEdAyq4Blc9B3-612b3386.jpeg)
-Does AI have the potential to save the planet and revert the existing global damages caused by industrialization? Let's find out.
-
-### [72. AI Will Be a Journalist's Greatest Tool, Not Their Replacement](https://hackernoon.com/ai-will-be-a-journalists-greatest-tool-not-their-replacement)
+### [71. AI Will Be a Journalist's Greatest Tool, Not Their Replacement](https://hackernoon.com/ai-will-be-a-journalists-greatest-tool-not-their-replacement)
 ![](https://cdn.hackernoon.com/images/k4oa3fIFvVYzUaPgdNWrpIyp8bz2-hp93vc7.jpeg)
 As the AI revolution grows, rumors of jobs being taken over have steadily increased. My article weighs on the threats (or benefits) of AI to journalism.
 
-### [73. Why Should Artificial Intelligence Be Decentralized?](https://hackernoon.com/why-should-artificial-intelligence-be-decentralized)
-![](https://cdn.hackernoon.com/images/0x111d0ddd6a0d1a422da879efa243a3a71e669e0b-1893yby.jpeg)
-Why should artificial intelligence be decentralized? What is the right way to decentralize artificial intelligence? All these and more I discuss in this article
+### [72. AI Can't Take Over Programming: A Quick Chat About Why Humans are Indispensable ](https://hackernoon.com/ai-cant-take-over-programming-a-quick-chat-about-why-humans-are-indispensable)
+![](https://cdn.hackernoon.com/images/a-man-in-an-arm-wrestling-contest-with-a-humanoid-robot-unjsjygutn561axqec0y4gkn.png)
+Discover why human programmers excel in creativity, ethical judgment, teamwork, and adaptability, making them indispensable despite advancements in AI tech. 
 
-### [74. The Endless AI Hype Circus: Can We Finally Move On To What’s Next?](https://hackernoon.com/the-endless-ai-hype-circus-can-we-finally-move-on-to-whats-next)
-![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-7t03wc1.jpeg)
-The AI topic has been thrashed over and over again—this company launches a new AI model, that company unveils a generative AI bot. Time for something new? 
+### [73. AI for the Earth: Ushering in a Sustainability Revolution](https://hackernoon.com/ai-for-the-earth-ushering-in-a-sustainability-revolution-lz7m336y)
+![](https://cdn.hackernoon.com/images/kB0jOE3gtvVQDb3IEdAyq4Blc9B3-612b3386.jpeg)
+Does AI have the potential to save the planet and revert the existing global damages caused by industrialization? Let's find out.
 
-### [75. It's Time To Enlighten AI on the Necessity of Forgetting](https://hackernoon.com/its-time-to-enlighten-ai-on-the-necessity-of-forgetting)
+### [74. It's Time To Enlighten AI on the Necessity of Forgetting](https://hackernoon.com/its-time-to-enlighten-ai-on-the-necessity-of-forgetting)
 ![](https://cdn.hackernoon.com/images/ZAY2SNlIYOhcWGZUiPfOQi8OIcu1-4o93x6e.jpeg)
 By replicating the human capability of forgetting superfluous data, psychological Artificial Intelligence will revolutionize algorithmic accuracy.
 
-### [76. AI Can't Take Over Programming: A Quick Chat About Why Humans are Indispensable ](https://hackernoon.com/ai-cant-take-over-programming-a-quick-chat-about-why-humans-are-indispensable)
-![](https://cdn.hackernoon.com/images/a-man-in-an-arm-wrestling-contest-with-a-humanoid-robot-unjsjygutn561axqec0y4gkn.png)
-Discover why human programmers excel in creativity, ethical judgment, teamwork, and adaptability, making them indispensable despite advancements in AI tech. 
+### [75. Why Should Artificial Intelligence Be Decentralized?](https://hackernoon.com/why-should-artificial-intelligence-be-decentralized)
+![](https://cdn.hackernoon.com/images/0x111d0ddd6a0d1a422da879efa243a3a71e669e0b-1893yby.jpeg)
+Why should artificial intelligence be decentralized? What is the right way to decentralize artificial intelligence? All these and more I discuss in this article
+
+### [76. The Endless AI Hype Circus: Can We Finally Move On To What’s Next?](https://hackernoon.com/the-endless-ai-hype-circus-can-we-finally-move-on-to-whats-next)
+![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-7t03wc1.jpeg)
+The AI topic has been thrashed over and over again—this company launches a new AI model, that company unveils a generative AI bot. Time for something new? 
 
 ### [77. What is Artificial Intelligence](https://hackernoon.com/what-is-artificial-intelligence)
 ![](https://cdn.hackernoon.com/images/eC7utbILBKZVUqT8ATSa3GQ9vLZ2-ag038ln.jpeg)
@@ -324,65 +326,65 @@ Since it burst into prominence, the Metaverse has provided millions of individua
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSc9O8q6AP9fSrh1EZCSNn8W2biE2-og773wuk.jpeg?alt=media&token=cb1b7119-dc2f-4c47-a75f-02cdb9a3fac9)
 Material scientists often face the challenge of figuring out how to effectively search the vast chemical design space to locate the materials with their desired properties. To address this challenge, many scientists have turned to artificial intelligence in the race to discover new and advanced materials. 
 
-### [81. The AI “Revolution” Is Still Stuck in a Chatbox](https://hackernoon.com/the-ai-revolution-is-still-stuck-in-a-chatbox)
-![](https://cdn.hackernoon.com/images/ltSU18V5HHNklBC0ZFPkb3h9XKz1-lm038m4.png)
-It’s 2025. Trillions have been spent on models. And what’s the big breakthrough in interfaces? Still the same old chatbox.
+### [81. The AI Job Paradox: Threat, Transformation, or Both?](https://hackernoon.com/the-ai-job-paradox-threat-transformation-or-both)
+![](https://cdn.hackernoon.com/images/iN6H2UigxKapyOHZ6k4N9srFgsw1-nw03810.png)
+Explore the dual impact of AI on the workforce, debating job displacement versus augmentation. Featuring insights from Anthropic CEO Dario Amodei 
 
 ### [82. How AI-Powered Solutions are Shaping the Future of Marketing and Sales](https://hackernoon.com/how-ai-powered-solutions-are-shaping-the-future-of-marketing-and-sales)
 ![](https://cdn.hackernoon.com/images/YSkjqSTOkyODKdIt2ozEMeN786k1-lv93p8e.jpeg)
 Impact of AI, trends, success stories, outcomes, best practices for implementing AI in sales and marketing, potential obstacles, and AI ethics. 
 
-### [83. This Is How AI Language Models Will Kill the Internet](https://hackernoon.com/this-is-how-ai-language-models-will-kill-the-internet)
+### [83. The AI “Revolution” Is Still Stuck in a Chatbox](https://hackernoon.com/the-ai-revolution-is-still-stuck-in-a-chatbox)
+![](https://cdn.hackernoon.com/images/ltSU18V5HHNklBC0ZFPkb3h9XKz1-lm038m4.png)
+It’s 2025. Trillions have been spent on models. And what’s the big breakthrough in interfaces? Still the same old chatbox.
+
+### [84. This Is How AI Language Models Will Kill the Internet](https://hackernoon.com/this-is-how-ai-language-models-will-kill-the-internet)
 ![](https://cdn.hackernoon.com/images/a-robot-breaking-a-computer-with-a-baseball-bat-rh4y0cjxl184pfaxj2tdv01q.png)
 The announced end of the free version of Google's search engine stems from competition between traditional search interfaces and conversational agents.
 
-### [84. The AI Job Paradox: Threat, Transformation, or Both?](https://hackernoon.com/the-ai-job-paradox-threat-transformation-or-both)
-![](https://cdn.hackernoon.com/images/iN6H2UigxKapyOHZ6k4N9srFgsw1-nw03810.png)
-Explore the dual impact of AI on the workforce, debating job displacement versus augmentation. Featuring insights from Anthropic CEO Dario Amodei 
-
-### [85. The Irresistible Automation of Talent Acquisition](https://hackernoon.com/the-irresistible-automation-of-talent-acquisition-rw1v3ywa)
-![](https://cdn.hackernoon.com/drafts/w9w3yk8.png)
-The automation of part of the recruitment process finally seems to be a reality thanks to the significant progress made in artificial intelligence (AI) and machine learning .
-
-### [86. Transparency in AI - Why Ethical Oversight Is Crucial](https://hackernoon.com/transparency-in-ai-why-ethical-oversight-is-crucial-oo2q35ez)
-![](https://cdn.hackernoon.com/images/HkpkK7t5wrg2wUneCGzHugnRJvV2-fze034ov.jpeg)
-It's high time we call for ethical and regulatory oversight in AI. Transparency in AI may take some time, but it is going to be of crucial importance.
-
-### [87. The Noonification: Why Hasnt Solana Died Yet? (11/17/2023)](https://hackernoon.com/11-17-2023-noonification)
+### [85. The Noonification: Why Hasnt Solana Died Yet? (11/17/2023)](https://hackernoon.com/11-17-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_834_zunaljiuhava1mfx3bojixb3.png)
 11/17/2023: Top 5 stories on the Hackernoon homepage!
 
-### [88. AI-based Product Management for Improving Cloud-based Healthcare Information Systems](https://hackernoon.com/strategic-digital-product-management-for-improving-public-assistance-healthcare)
-![](https://cdn.hackernoon.com/images/B3Lh59x4YeaBR0psHFeUd1Kb0pf2-26a3sfc.png)
-In this article, I discuss the most-critical business and technology challenges faced by public-assistance healthcare program and why digitization is vital. 
-
-### [89. How AI Can Be Used to Curb Workplace Injuries for a Safer Tomorrow](https://hackernoon.com/how-ai-can-be-used-to-curb-workplace-injuries-for-a-safer-tomorrow)
+### [86. How AI Can Be Used to Curb Workplace Injuries for a Safer Tomorrow](https://hackernoon.com/how-ai-can-be-used-to-curb-workplace-injuries-for-a-safer-tomorrow)
 ![](https://cdn.hackernoon.com/images/BJaf1TkYNBPc972LirZKnRh5Fvn2-qt81mat.jpeg)
 This article еxplorеs thе various ways in which AI is rеvolutionizing workplacе safety and contributing to injury prеvеntion.
+
+### [87. The Irresistible Automation of Talent Acquisition](https://hackernoon.com/the-irresistible-automation-of-talent-acquisition-rw1v3ywa)
+![](https://cdn.hackernoon.com/drafts/w9w3yk8.png)
+The automation of part of the recruitment process finally seems to be a reality thanks to the significant progress made in artificial intelligence (AI) and machine learning .
+
+### [88. Transparency in AI - Why Ethical Oversight Is Crucial](https://hackernoon.com/transparency-in-ai-why-ethical-oversight-is-crucial-oo2q35ez)
+![](https://cdn.hackernoon.com/images/HkpkK7t5wrg2wUneCGzHugnRJvV2-fze034ov.jpeg)
+It's high time we call for ethical and regulatory oversight in AI. Transparency in AI may take some time, but it is going to be of crucial importance.
+
+### [89. AI-based Product Management for Improving Cloud-based Healthcare Information Systems](https://hackernoon.com/strategic-digital-product-management-for-improving-public-assistance-healthcare)
+![](https://cdn.hackernoon.com/images/B3Lh59x4YeaBR0psHFeUd1Kb0pf2-26a3sfc.png)
+In this article, I discuss the most-critical business and technology challenges faced by public-assistance healthcare program and why digitization is vital. 
 
 ### [90. Switching On and Off Your AI Friend](https://hackernoon.com/switching-on-and-off-your-ai-friend)
 ![](https://cdn.hackernoon.com/images/KobPcf5nazNcjh4iUfyRlmitv723-n193rte.jpeg)
 What do you think being surgically merged with AI could be like?
 
-### [91. How Using AI Can Help or Hurt an Organization](https://hackernoon.com/how-using-ai-can-help-or-hurt-an-organization)
-![](https://cdn.hackernoon.com/images/WaM9YikXl6X1gmSgV2m0gBfcCNU2-l793rg5.jpeg)
-It’s true that there are many ways AI can help an organization, yet it’s crucial to remember that it’s not without its risks.
-
-### [92. The Evolving Role of AI in Cloud Contact Centers](https://hackernoon.com/the-evolving-role-of-ai-in-cloud-contact-centers)
-![](https://cdn.hackernoon.com/images/dsfkbUUpHWO7lWdiUkLvv1TzIkB3-qv93ppx.jpeg)
-Revamp customer service with AI in cloud contact centers. Explore AI chatbots, voice assistants, and predictive analytics for enhanced efficiency & satisfaction
-
-### [93. Adapting to Google's Search Generative Engines (SGEs) - Part 2](https://hackernoon.com/adapting-to-googles-search-generative-engines-sges-part-2)
+### [91. Adapting to Google's Search Generative Engines (SGEs) - Part 2](https://hackernoon.com/adapting-to-googles-search-generative-engines-sges-part-2)
 ![](https://cdn.hackernoon.com/images/Y9rMZWB519Sdc5NCpWOpjM3aWag1-mg831oz.jpeg)
 How adopting emerging search generative engines can give businesses strategic advantages through personalized search, competitor intelligence, and data mining.
 
-### [94. Here's 4 Ways AI Will Change Software: Plus, What The Industrial Revolution Taught Me About It](https://hackernoon.com/heres-4-ways-ai-will-change-software-plus-what-the-industrial-revolution-taught-me-about-it)
-![](https://cdn.hackernoon.com/images/EOIjexlgoqerHSjIXV6Ta5ELNMq1-oe02xvy.png)
-Discover how AI is transforming software products and businesses. Drawing lessons from the Industrial Revolution and insights from pioneers like Alan Turing, th
+### [92. How Using AI Can Help or Hurt an Organization](https://hackernoon.com/how-using-ai-can-help-or-hurt-an-organization)
+![](https://cdn.hackernoon.com/images/WaM9YikXl6X1gmSgV2m0gBfcCNU2-l793rg5.jpeg)
+It’s true that there are many ways AI can help an organization, yet it’s crucial to remember that it’s not without its risks.
 
-### [95. Wisdom Begins from The Fear of AI](https://hackernoon.com/wisdom-begins-from-the-fear-of-ai)
+### [93. Wisdom Begins from The Fear of AI](https://hackernoon.com/wisdom-begins-from-the-fear-of-ai)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-m092g29.jpeg)
 Why make AI smarter if it can threaten human existence? AI creators should balance risks with innovation for social good.
+
+### [94. The Evolving Role of AI in Cloud Contact Centers](https://hackernoon.com/the-evolving-role-of-ai-in-cloud-contact-centers)
+![](https://cdn.hackernoon.com/images/dsfkbUUpHWO7lWdiUkLvv1TzIkB3-qv93ppx.jpeg)
+Revamp customer service with AI in cloud contact centers. Explore AI chatbots, voice assistants, and predictive analytics for enhanced efficiency & satisfaction
+
+### [95. Here's 4 Ways AI Will Change Software: Plus, What The Industrial Revolution Taught Me About It](https://hackernoon.com/heres-4-ways-ai-will-change-software-plus-what-the-industrial-revolution-taught-me-about-it)
+![](https://cdn.hackernoon.com/images/EOIjexlgoqerHSjIXV6Ta5ELNMq1-oe02xvy.png)
+Discover how AI is transforming software products and businesses. Drawing lessons from the Industrial Revolution and insights from pioneers like Alan Turing, th
 
 ### [96. Why Moving From Hype To Utility Is The Way Forward For The AI Agent Economy](https://hackernoon.com/why-moving-from-hype-to-utility-is-the-way-forward-for-the-ai-agent-economy)
 ![](https://cdn.hackernoon.com/images/9H83FKyvtiaLZhkIY0Scr1mYE2i1_1am70dl.jpeg)

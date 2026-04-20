@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [serverless](https://hackernoon.com/tagged/serverless)
+### Let's learn about [Serverless](https://hackernoon.com/tagged/serverless) via these 360 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Feel the magic of the cloud...
 
 ### [1. How Costly is AWS Redshift Serverless? ](https://hackernoon.com/how-costly-is-aws-redshift-serverless)
@@ -283,25 +285,25 @@ Amazon announced the general availability of Amazon Kendra a few weeks ago, Kend
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-772p35sh.jpeg)
 Learn about serverless cold starts. What they are, what influences serverless startup latency, and how to mitigate its impact.
 
-### [71. Tekton Pipelines in the Azure Kubernetes Service Cluster](https://hackernoon.com/how-to-install-tekton-pipelines-in-the-azure-kubernetes-service-cluster)
-![](https://cdn.hackernoon.com/images/yH95UmMywDTjM9jsB6ZVZEkOKY02-uur2io1.jpeg)
-CI\CD with Tekton Pipelines in AKS serverless Virtual Nodes
-
-### [72. Sanity-Checks with Playwright in Fargate container on schedule](https://hackernoon.com/sanity-checks-with-playwright-in-fargate-container-on-schedule-glr35rp)
+### [71. Sanity-Checks with Playwright in Fargate container on schedule](https://hackernoon.com/sanity-checks-with-playwright-in-fargate-container-on-schedule-glr35rp)
 ![](https://cdn.hackernoon.com/images/2h3hqTmyuxXacclcSFqybjZrpMN2-gvaa8394c.jpeg)
 There is often the need to check whether your production system is working as expected. Playwright is a great way to test if everything is going to plan. 
+
+### [72. Tekton Pipelines in the Azure Kubernetes Service Cluster](https://hackernoon.com/how-to-install-tekton-pipelines-in-the-azure-kubernetes-service-cluster)
+![](https://cdn.hackernoon.com/images/yH95UmMywDTjM9jsB6ZVZEkOKY02-uur2io1.jpeg)
+CI\CD with Tekton Pipelines in AKS serverless Virtual Nodes
 
 ### [73. Hacker Noon Product Update 2019-2020](https://hackernoon.com/2019-year-in-review-at-hacker-noon-c35s3za8)
 ![](https://images.unsplash.com/photo-1463334535327-f9009ae62bf7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Now that we're a few days into 2020, it's time to take a few steps back and reflect on some of our accomplishments from 2019. First of all, I'd like to thank the community and our team for not only surviving 2019, but continuing to build momentum into the new decade. Let's celebrate our accomplishments and keep the delivery train rolling! 🚂🎉
 
-### [74. How to add a contact form to a static website](https://hackernoon.com/how-to-add-a-contact-form-to-a-static-website-0e3dy3jq6)
-![](https://cdn.hackernoon.com/drafts/ir2zt3jn4.png)
-This post was originally published on Codementor.
-
-### [75. 8 Cloud Computing Trends to Watch in 2021](https://hackernoon.com/8-cloud-computing-trends-to-watch-in-2021-ph3a359f)
+### [74. 8 Cloud Computing Trends to Watch in 2021](https://hackernoon.com/8-cloud-computing-trends-to-watch-in-2021-ph3a359f)
 ![](https://cdn.hackernoon.com/images/7ozCA7Y4IVMQnOgZyr0CD9jNPNW2-4zn351y.jpeg)
 Cloud computing has grown exponentially in the past decade and is not about to stop. As predicted by Forrester’s research, the global public cloud infrastructure will grow 35% in 2021, many thanks to the pandemic. Due to the lingering effects of covid-19 in 2021, the cloud will be the key focus for organizations looking for increased scalability, business continuity, and cost-efficiency. 
+
+### [75. How to add a contact form to a static website](https://hackernoon.com/how-to-add-a-contact-form-to-a-static-website-0e3dy3jq6)
+![](https://cdn.hackernoon.com/drafts/ir2zt3jn4.png)
+This post was originally published on Codementor.
 
 ### [76. How To Deploy A Scalable Cloud Storage Using Rook And Ceph Storage [Part 1]](https://hackernoon.com/how-to-deploy-a-scalable-cloud-storage-using-rook-and-ceph-storage-part-1-ba103upm)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-y58y3uts.jpeg?alt=media&token=41fe04d3-75a0-456e-8bb7-ff8f91dd3b2b)
@@ -367,21 +369,21 @@ Here’s another secret: The previous statement is wrong.
 ![](https://cdn.hackernoon.com/images/HMfDlkGVkoMk0WzhOX2zil9gTLj1-iq934hs.jpeg)
 Edge computing platforms like Cloudflare Workers and Deno Deploy allow us to write serverless middleware and backends that are both very fast and cheap.
 
-### [90. Serverless Architecture: Lambda Triggers and Design Patterns [Part 1]](https://hackernoon.com/serverless-architecture-lambda-triggers-and-design-patterns-part-1-am1h3u94)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-e5v3ujf.jpeg?alt=media&token=a4fb8c13-f109-4e69-92da-c54ba2d9d47f)
-A while ago, we covered the invocation (trigger) methods supported by Lambda and the integrations available with the AWS catalog.
-
-### [91. Everything You Need to Know About AWS DynamoDB](https://hackernoon.com/everything-you-need-to-know-about-aws-dynamodb-dos3491)
+### [90. Everything You Need to Know About AWS DynamoDB](https://hackernoon.com/everything-you-need-to-know-about-aws-dynamodb-dos3491)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-dae3tvn.jpeg?alt=media&token=37273f2e-170e-462d-9798-ade2e426d4e6)
 AWS DynamoDB changed the database game in Serverless and continues to do so, as its design repeatedly proves its huge value. 
 
-### [92. The Tech Stack of a Solo-Developer to build a SaaS With React and AWS](https://hackernoon.com/the-tech-stack-of-a-solo-developer-to-build-a-saas-with-react-and-aws)
-![](https://cdn.hackernoon.com/images/Z7ZkCzqpkBdXJ4DMKYwft6zCe9q1-ga873568.jpeg)
-My stack to build a SaaS with Next JS and serverless backend. A full-stack react SaaS boilerplate template to kickstart any project.
+### [91. Serverless Architecture: Lambda Triggers and Design Patterns [Part 1]](https://hackernoon.com/serverless-architecture-lambda-triggers-and-design-patterns-part-1-am1h3u94)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-e5v3ujf.jpeg?alt=media&token=a4fb8c13-f109-4e69-92da-c54ba2d9d47f)
+A while ago, we covered the invocation (trigger) methods supported by Lambda and the integrations available with the AWS catalog.
 
-### [93. Advanced Docker Security with AppArmor - An Overview](https://hackernoon.com/advanced-docker-security-with-apparmor-an-overview-k61m3xjf)
+### [92. Advanced Docker Security with AppArmor - An Overview](https://hackernoon.com/advanced-docker-security-with-apparmor-an-overview-k61m3xjf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-s053u36.jpeg?alt=media&token=c11a5626-43f9-4afe-85e0-cb1106648183)
 So you have your Docker Containers deployed, which in turn are hosting critical applications of your organization? Great! So far, so good!
+
+### [93. The Tech Stack of a Solo-Developer to build a SaaS With React and AWS](https://hackernoon.com/the-tech-stack-of-a-solo-developer-to-build-a-saas-with-react-and-aws)
+![](https://cdn.hackernoon.com/images/Z7ZkCzqpkBdXJ4DMKYwft6zCe9q1-ga873568.jpeg)
+My stack to build a SaaS with Next JS and serverless backend. A full-stack react SaaS boilerplate template to kickstart any project.
 
 ### [94. How to Convert Videos to HLS for Web & Mobile Streaming With AWS Elemental MediaConvert](https://hackernoon.com/how-to-convert-videos-to-hls-for-web-and-mobile-streaming-with-aws-elemental-mediaconvert)
 ![](https://cdn.hackernoon.com/images/zzCVKKf4HmhmYWwslTcyZFmXYKL2-ua02lcn.png)
@@ -423,13 +425,13 @@ How serverless is fulfilling the original promise of cloud.
 ![](images/r41qi30qo.jpg)
 Thanks to Hiten Shah who generously reviewed an early draft of this article.
 
-### [104. Why Serverless is a Great Choice for your Business and Its Growth](https://hackernoon.com/why-serverless-is-a-good-choice-for-your-business-8f6e1a26410f)
-![](https://cdn.hackernoon.com/images/73q3rdr.jpg)
-As you read this post — possibly on your smartphone — it’s easy to forget how many modern technologies we take for granted.
-
-### [105. 5 Reasons to Build on the Internet Computer](https://hackernoon.com/5-reasons-to-build-on-the-internet-computer)
+### [104. 5 Reasons to Build on the Internet Computer](https://hackernoon.com/5-reasons-to-build-on-the-internet-computer)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-il03cfs.jpeg)
 The Internet Computer is a new computing platform that enables developers to reap the benefits blockchain technology offers without sacrificing performance.
+
+### [105. Why Serverless is a Great Choice for your Business and Its Growth](https://hackernoon.com/why-serverless-is-a-good-choice-for-your-business-8f6e1a26410f)
+![](https://cdn.hackernoon.com/images/73q3rdr.jpg)
+As you read this post — possibly on your smartphone — it’s easy to forget how many modern technologies we take for granted.
 
 ### [106. An easy way to manage Serverless project resources by using AWS Resource Groups](https://hackernoon.com/an-easy-way-to-manage-serverless-project-resources-by-using-aws-resource-groups-tf1yd3314)
 ![](https://cdn.hackernoon.com/drafts/i52e331i.png)
@@ -471,17 +473,17 @@ How can serverless technology be used in tandem with blockchains? Find out how w
 ![](https://cdn.hackernoon.com/drafts/7pzj3qux.png)
 I have some exciting news to share with you about the Serverless Step Functions plugin.
 
-### [116. Microservices and Service Mesh with Istio, Explained](https://hackernoon.com/microservices-and-service-mesh-with-istio-explained-eo1e3u7s)
+### [116. How to use a Gatsby Static Site to Manage Paid Subscriptions ](https://hackernoon.com/how-to-use-a-gatsby-static-site-to-manage-paid-subscriptions)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-og13o4q.jpeg)
+Learn how to extend a Gatsby static-site to manage memberships and paid subscriptions using Netlify, Paddle and Fauna.
+
+### [117. Microservices and Service Mesh with Istio, Explained](https://hackernoon.com/microservices-and-service-mesh-with-istio-explained-eo1e3u7s)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-qf3l3ure.jpeg?alt=media&token=36eacd7b-8005-40b3-95f4-507eb905c43a)
 Application builds when broken down into multiple smaller service components, are known as Microservices. When compared to the traditional Monolithic way, a Microservice Architecture treats each microservice as a standalone entity/module, essentially helping to ease the maintenance of its code and related infrastructure. Each microservice of an application can be written in a different technology stack, and further be deployed, optimized and managed independently.
 
-### [117. Top 5 Serverless Trends in 2020](https://hackernoon.com/top-5-serverless-trends-in-2020-wd1m3t8g)
+### [118. Top 5 Serverless Trends in 2020](https://hackernoon.com/top-5-serverless-trends-in-2020-wd1m3t8g)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FoAvxE3CbvPaxcuU0QIwWbGPBeHC2-vh5628c3.jpeg?alt=media&token=d8f40dbd-3789-4b9b-b556-8f4cd56bb995)
 Happy Serverless September 2020! We at Coding Sans love working with serverless technology. This is why we decided to publish a report with the latest serverless trends this year. We partnered up with nine other companies who share our love to make it happen.
-
-### [118. How to use a Gatsby Static Site to Manage Paid Subscriptions ](https://hackernoon.com/how-to-use-a-gatsby-static-site-to-manage-paid-subscriptions)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-og13o4q.jpeg)
-Learn how to extend a Gatsby static-site to manage memberships and paid subscriptions using Netlify, Paddle and Fauna.
 
 ### [119. How To Create a Custom Webhook URL Using Autocode](https://hackernoon.com/how-to-create-a-custom-webhook-url-using-autocode-kx1x3uck)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-82k3u47.jpeg?alt=media&token=ab3f5a86-6bc8-4a00-823f-dfac568fe051)
@@ -503,15 +505,15 @@ We’re excited to announce the release of Appwrite 0.7, our biggest ever relea
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFOSBkxRpMMhr0jzqpLzjyr5LuOI3-ma103ux2.webp?alt=media&token=0469d3be-fc19-47ce-8cf2-7d1f48092775)
 Event-driven architecture is a software architecture paradigm promoting the production, detection, consumption of, and reaction to events.
 
-### [124. Migration On-Premises Application to Serverless](https://hackernoon.com/migration-on-premises-application-to-serverless-72w32ju)
+### [124. How to Create and Connecting Redis to a Serverless Node.js App on Azure](https://hackernoon.com/how-to-create-and-connecting-redis-to-a-serverless-nodejs-app-on-azure)
+![](https://cdn.hackernoon.com/images/rD3ZPSbOTDVcZgugSUvaEY2oV0x1-6le3rfb.jpeg)
+Hello, everyone! Today, we'll be diving into the fascinating world of software development, specifically dealing with Node.js, Azure and Redis.
+
+### [125. Migration On-Premises Application to Serverless](https://hackernoon.com/migration-on-premises-application-to-serverless-72w32ju)
 ![](https://images.unsplash.com/photo-1574027542338-98e75acfd385?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Note: This article covers everything that I present in Viet Nam Web Summit 2019 (VNWS2019) — the biggest event of Viet Nam IT Community.
 
 Nowadays, “Serverless” keyword becomes very popular. Serverless is changing how developers and companies alike approach delivering business value using the public cloud. You can easily find a dozen of articles regarding this keyword. However, I’m pretty sure that, there are not too many articles show you step-by-step to migrate an On-Premises application to Serverless, but in this article, I will do!
-
-### [125. How to Create and Connecting Redis to a Serverless Node.js App on Azure](https://hackernoon.com/how-to-create-and-connecting-redis-to-a-serverless-nodejs-app-on-azure)
-![](https://cdn.hackernoon.com/images/rD3ZPSbOTDVcZgugSUvaEY2oV0x1-6le3rfb.jpeg)
-Hello, everyone! Today, we'll be diving into the fascinating world of software development, specifically dealing with Node.js, Azure and Redis.
 
 ### [126. Sysdig: What It Is and How to Use It](https://hackernoon.com/sysdig-what-it-is-and-how-to-use-it-3tn3ukh)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-zi1er3uz8.jpeg?alt=media&token=a588e555-1269-4ed7-aaf6-ca6f88d6aebd)
@@ -541,33 +543,33 @@ What we’re building
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-bl53unx.jpeg?alt=media&token=d0041558-4872-4ecb-9a8b-0117eb896aca)
 Gremlin is a leading software company focusing on chaos-test in the market. It also has a tool similar to Chaos Monkey which belongs to Netflix, but is more customized to test the system with random loads or scheduled shutdowns. In the article below we will be testing a simple Kubernetes cluster running on EKS with Chaos Test.
 
-### [133. How I Built a Complete P2P RSS Podcast App in a Single HTML File](https://hackernoon.com/how-i-built-a-complete-p2p-rss-podcast-app-in-a-single-html-file-uo1631z1)
-![](https://cdn.hackernoon.com/images/FlRGjciVp3fbWDvvOGdVFcuFTef2-sua2bbr.jpeg)
-How I built a personal paper-like decentralized podcast RSS aggregator.
-
-### [134. Using AWS API Gateway as a Load Balancer](https://hackernoon.com/using-aws-api-gateway-as-a-load-balancer-498i3wbl)
+### [133. Using AWS API Gateway as a Load Balancer](https://hackernoon.com/using-aws-api-gateway-as-a-load-balancer-498i3wbl)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-cq82rjt.jpeg)
 TL;DR: yes, API Gateway can replace what a Load Balancer would usually provide, with a simpler interface and many more features on top of it. The downside is that it doesn’t come cheap.
 
-### [135. Storage Options for Serverless on AWS](https://hackernoon.com/storage-options-for-serverless-on-aws-fo3x3wsv)
-![](https://cdn.hackernoon.com/drafts/vfq3ymg.png)
-Serverless computing enables you to run functions without provisioning resources. Most of the top cloud providers offer good serverless options, but this article offers a review of storage options for serverless on AWS. First, you will learn about the core principles of storage and data persistence in serverless computing, and then you'll discover what serverless options are available on AWS for databases, microservices, IoT, and storage synchronization. 
+### [134. How I Built a Complete P2P RSS Podcast App in a Single HTML File](https://hackernoon.com/how-i-built-a-complete-p2p-rss-podcast-app-in-a-single-html-file-uo1631z1)
+![](https://cdn.hackernoon.com/images/FlRGjciVp3fbWDvvOGdVFcuFTef2-sua2bbr.jpeg)
+How I built a personal paper-like decentralized podcast RSS aggregator.
 
-### [136. About Kubernetes Authentication](https://hackernoon.com/about-kubernetes-authentication-gg1f3yrd)
+### [135. About Kubernetes Authentication](https://hackernoon.com/about-kubernetes-authentication-gg1f3yrd)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-d21y3ue6.jpeg?alt=media&token=2b70cf9d-42d1-40d5-9c0f-14ade3edda85)
 There are 3 steps that Kubernetes uses to enforce security access and permissions are: Authentication, Authorization and Admission. In this article we are going to consider Authentication first.
+
+### [136. Storage Options for Serverless on AWS](https://hackernoon.com/storage-options-for-serverless-on-aws-fo3x3wsv)
+![](https://cdn.hackernoon.com/drafts/vfq3ymg.png)
+Serverless computing enables you to run functions without provisioning resources. Most of the top cloud providers offer good serverless options, but this article offers a review of storage options for serverless on AWS. First, you will learn about the core principles of storage and data persistence in serverless computing, and then you'll discover what serverless options are available on AWS for databases, microservices, IoT, and storage synchronization. 
 
 ### [137. Starting Web Development? Remember These 5 Things](https://hackernoon.com/5-things-to-decide-on-before-web-development-nbd1329t)
 ![](https://cdn.hackernoon.com/drafts/7wbf32by.png)
 Originally I shared this story to Syndicode blog, and now I'm making a summary with small additions.
 
-### [138. An Introduction to Microservices and Serverless](https://hackernoon.com/an-introduction-to-microservices-and-serverless-694434pt)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-t393w4g.jpeg?alt=media&token=7706754f-36a5-4579-9b1f-1937196c1c9c)
-The concept of a microservice perfectly fits the structure of a serverless function, which easily enables deployment and runtime isolation for different services. On the storage side, services such as DynamoDB also make it easier to have independent databases for each microservice and scale them independently (when required or desirable).
-
-### [139. Awesome Hacks To Master AWS Step Functions](https://hackernoon.com/awesome-hacks-to-master-aws-step-functions-bji3wvv)
+### [138. Awesome Hacks To Master AWS Step Functions](https://hackernoon.com/awesome-hacks-to-master-aws-step-functions-bji3wvv)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-tyd3wp2.jpeg?alt=media&token=62467342-2af1-4914-97cb-8f4e86004c78)
 The use of serverless computing has become a must nowadays, and some of you may already know a thing or two about Amazon Web Services like Lambda Functions, Step Functions, and other services AWS provides. However, if this is the first time you hear about them – fantastic!
+
+### [139. An Introduction to Microservices and Serverless](https://hackernoon.com/an-introduction-to-microservices-and-serverless-694434pt)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-t393w4g.jpeg?alt=media&token=7706754f-36a5-4579-9b1f-1937196c1c9c)
+The concept of a microservice perfectly fits the structure of a serverless function, which easily enables deployment and runtime isolation for different services. On the storage side, services such as DynamoDB also make it easier to have independent databases for each microservice and scale them independently (when required or desirable).
 
 ### [140. Serverless Architecture: Lambda Triggers and Design Patterns [Part 2]](https://hackernoon.com/serverless-architecture-lambda-triggers-and-design-patterns-part-2-ic3a3uvd)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-8v113uu1.jpeg?alt=media&token=0e7647d1-d9df-4f2b-ac92-7cffdea0af1a)
@@ -577,77 +579,77 @@ This is part of a series of articles discussing strategies to implement serverle
 ![](https://cdn.hackernoon.com/images/WYCKut6VGlgd0BgDnp8DmGzNV682-bz53314u.jpeg)
 How can you improve serverless architecture with Amazon Web Services?  Explore unconventional AWS Lambda use cases.
 
-### [142. Introducing Handoff: Serverless Data Pipeline Orchestration Framework](https://hackernoon.com/introducing-handoff-serverless-data-pipeline-orchestration-framework-z12q22an)
-![](https://hackernoon.com/images/Ipw9RDLzC7fi7WOuDkympDfWmXy1-gt83455.jpeg)
-handoff is a serverless data pipeline orchestration framework simplifies the process of deploying ETL/ELT tasks to AWS Fargate.
+### [142. 2 Methods for Installing Serverless Kubernetes in Alibaba Cloud](https://hackernoon.com/2-methods-for-installing-serverless-kubernetes-in-alibaba-cloud)
+![](https://cdn.hackernoon.com/images/yH95UmMywDTjM9jsB6ZVZEkOKY02-igq2ix8.jpeg)
+Exploring Alibaba Cloud Serverless Kubernetes capabilities. Here are two methods for deploying Serverless Kubernetes in Alibaba Cloud.
 
 ### [143. Introduction to Qoddi.com App Platform](https://hackernoon.com/introduction-to-qoddicom-app-platform)
 ![](https://cdn.hackernoon.com/images/1Uo2Us6nzqbeprDySg6RRXIAUHg2-8h139df.jpeg)
 Qoddi is a PaaS app platform made for business, free for developers.
 
-### [144. 'Serverless': Malware Just Found a new Home](https://hackernoon.com/serverless-malware-just-found-a-new-home)
+### [144. Introducing Handoff: Serverless Data Pipeline Orchestration Framework](https://hackernoon.com/introducing-handoff-serverless-data-pipeline-orchestration-framework-z12q22an)
+![](https://hackernoon.com/images/Ipw9RDLzC7fi7WOuDkympDfWmXy1-gt83455.jpeg)
+handoff is a serverless data pipeline orchestration framework simplifies the process of deploying ETL/ELT tasks to AWS Fargate.
+
+### [145. 'Serverless': Malware Just Found a new Home](https://hackernoon.com/serverless-malware-just-found-a-new-home)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-7413og4.jpeg)
 Read about 'Serverless' data security and its ugly truth.
 
-### [145. 2 Methods for Installing Serverless Kubernetes in Alibaba Cloud](https://hackernoon.com/2-methods-for-installing-serverless-kubernetes-in-alibaba-cloud)
-![](https://cdn.hackernoon.com/images/yH95UmMywDTjM9jsB6ZVZEkOKY02-igq2ix8.jpeg)
-Exploring Alibaba Cloud Serverless Kubernetes capabilities. Here are two methods for deploying Serverless Kubernetes in Alibaba Cloud.
-
-### [146. How to Build Your Own TinyURL](https://hackernoon.com/how-to-build-your-own-tinyurl)
-![](https://cdn.hackernoon.com/images/kTPy8kCxQpYe5Ov2B1DHc2cBliy2-37a3jse.jpeg)
-Build and design a low latency URL shortening service for free like TinyURL and Bitly using serverless technology with Cloudflare Worker and KV.
-
-### [147. Get a Serverless WebSocket Application Up and Running with Lolo in 5 Minutes](https://hackernoon.com/get-a-serverless-websocket-application-up-and-running-with-lolo-in-5-minutes)
-![](https://cdn.hackernoon.com/images/3AB7eNaYfDYV0ziFXT6bIulcQEP2-kp93z8z.jpeg)
-Build a Serverless webSocket application in Lolo by using persistent state. Single click deploy your application and have it up and running in a few minutes.
-
-### [148. The Multi-Agent AI Revolution: Why Your Next Enterprise System Should Be Serverless](https://hackernoon.com/the-multi-agent-ai-revolution-why-your-next-enterprise-system-should-be-serverless)
+### [146. The Multi-Agent AI Revolution: Why Your Next Enterprise System Should Be Serverless](https://hackernoon.com/the-multi-agent-ai-revolution-why-your-next-enterprise-system-should-be-serverless)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-xt023hu.jpeg)
 Discover why serverless multi-agent AI systems are revolutionizing enterprise automation. Learn how stateless architectures deliver 3x better performance
 
-### [149. Rethinking Programming: From Code to Cloud](https://hackernoon.com/rethinking-programming-from-code-to-cloud-fy273yer)
-![](https://cdn.hackernoon.com/drafts/9j1a3yra.png)
-Earlier, developers simply wrote their program, built it and ran it. Today, developers need to also think of the various ways of running it whether it be as a binary on a machine (virtual most likely), by packaging it into a container, by making that container a part of a bigger deployment (K8s) or by deploying it into a serverless environment or a service mesh. However, these deployment options are not part of the programming experience for a developer. The developer has to write code in a certain way to work well in a given execution environment, and removing this from the programming problem isn’t good.
-
-### [150. Using Kubernetes and Containers for Infinite Scaling ](https://hackernoon.com/using-kubernetes-and-containers-for-infinite-scaling)
+### [147. Using Kubernetes and Containers for Infinite Scaling ](https://hackernoon.com/using-kubernetes-and-containers-for-infinite-scaling)
 ![](https://cdn.hackernoon.com/images/PXQGVbAzgHSTkexcHBltCsQdGBi1-8za3wrt.jpeg)
 A landscape view of how to rightsize Kubernetes workloads, from single containers in a pod to hyperscaled serverless deployments, examining tools and techniques
 
-### [151. Your Machine Learning Model Doesn’t Need a Server Anymore](https://hackernoon.com/your-machine-learning-model-doesnt-need-a-server-anymore)
+### [148. How to Build Your Own TinyURL](https://hackernoon.com/how-to-build-your-own-tinyurl)
+![](https://cdn.hackernoon.com/images/kTPy8kCxQpYe5Ov2B1DHc2cBliy2-37a3jse.jpeg)
+Build and design a low latency URL shortening service for free like TinyURL and Bitly using serverless technology with Cloudflare Worker and KV.
+
+### [149. Get a Serverless WebSocket Application Up and Running with Lolo in 5 Minutes](https://hackernoon.com/get-a-serverless-websocket-application-up-and-running-with-lolo-in-5-minutes)
+![](https://cdn.hackernoon.com/images/3AB7eNaYfDYV0ziFXT6bIulcQEP2-kp93z8z.jpeg)
+Build a Serverless webSocket application in Lolo by using persistent state. Single click deploy your application and have it up and running in a few minutes.
+
+### [150. Avoiding ‘Too Many Connections’ in Lambda + RDS Workflows](https://hackernoon.com/avoiding-too-many-connections-in-lambda-rds-workflows)
+![](https://cdn.hackernoon.com/images/1hIvCrRABFWxK9VBwoIKdJIodLL2-o2033g5.png)
+AWS Lambda scaled too fast, Aurora Serverless couldn’t keep up, and everything crashed. Here's how RDS Proxy and Aurora v2 finally made serverless DBs viable.
+
+### [151. Rethinking Programming: From Code to Cloud](https://hackernoon.com/rethinking-programming-from-code-to-cloud-fy273yer)
+![](https://cdn.hackernoon.com/drafts/9j1a3yra.png)
+Earlier, developers simply wrote their program, built it and ran it. Today, developers need to also think of the various ways of running it whether it be as a binary on a machine (virtual most likely), by packaging it into a container, by making that container a part of a bigger deployment (K8s) or by deploying it into a serverless environment or a service mesh. However, these deployment options are not part of the programming experience for a developer. The developer has to write code in a certain way to work well in a given execution environment, and removing this from the programming problem isn’t good.
+
+### [152. Your Machine Learning Model Doesn’t Need a Server Anymore](https://hackernoon.com/your-machine-learning-model-doesnt-need-a-server-anymore)
 ![](https://cdn.hackernoon.com/images/TZ805oC8djTv5f7LS545bWeJw4y2-9u135zz.jpeg)
 Discover how serverless AI/ML pipelines streamline data engineering by automating scalable data processing and deployment without infrastructure management.
 
-### [152. An Introduction to AWS Cognito: The Why, Hows, and Whats](https://hackernoon.com/an-introduction-to-aws-cognito-pros-cons-and-use-cases-gxr3zl3)
+### [153. An Introduction to AWS Cognito: The Why, Hows, and Whats](https://hackernoon.com/an-introduction-to-aws-cognito-pros-cons-and-use-cases-gxr3zl3)
 ![](https://cdn.hackernoon.com/images/pyl32dd.jpg)
 AWS Cognito is an identity management service that lets you sync all your user information in one place in a simple, secure, and scalable way.
 
-### [153. Serverless Tekton Pipelines on AWS EKS Fargate](https://hackernoon.com/serverless-tekton-pipelines-on-aws-eks-fargate)
+### [154. Serverless Tekton Pipelines on AWS EKS Fargate](https://hackernoon.com/serverless-tekton-pipelines-on-aws-eks-fargate)
 ![](https://cdn.hackernoon.com/images/LDioVzaiK9P4OJrRVWK1m33EOh83-ata30sy.jpeg)
 Building an on-demand, server less Continuous Delivery automation solution using Tekton and AWS EKS Fargate
 
-### [154. Serverless 101: An Introduction to FAAS (Function-As-A-Service)](https://hackernoon.com/serverless-101-an-introduction-to-faas-function-as-a-service)
-![](https://cdn.hackernoon.com/images/wKeQV9FjrzWFVxAyib0fO7OCgT52-ke13a5t.jpeg)
-Serverless 101, FaaS, Functions as a Service, AWS Lambda, Azure Functions, Google Cloud Functions, Serverless
-
-### [155. Creating Custom 404 Error Pages on Zeit Now v2 Platform](https://hackernoon.com/custom-404-pages-on-zeit-now-v2-platform-ll4im3ser)
-![](https://cdn.hackernoon.com/drafts/hz5e3yxe.png)
-A custom 404 page has become a hallmark of well-polished websites. It allows expressing the creative brand of the site. Sometimes it shows a neat trick and easter eggs.
-
-### [156. What Really Propelled The Cloud Revolution: A Developer's Perspective](https://hackernoon.com/what-really-propelled-the-cloud-revolution-a-developers-perspective-9lqz378w)
+### [155. What Really Propelled The Cloud Revolution: A Developer's Perspective](https://hackernoon.com/what-really-propelled-the-cloud-revolution-a-developers-perspective-9lqz378w)
 ![](https://cdn.hackernoon.com/drafts/6n1236n4.png)
 An overview of the main trends that have pushed the Cloud industry — and the world — forward, in the past decade and a half.
 
-### [157. AWS Lambda For Dummies [Part 2]](https://hackernoon.com/aws-lambda-for-dummies-part-2-xe1l341j)
+### [156. Serverless 101: An Introduction to FAAS (Function-As-A-Service)](https://hackernoon.com/serverless-101-an-introduction-to-faas-function-as-a-service)
+![](https://cdn.hackernoon.com/images/wKeQV9FjrzWFVxAyib0fO7OCgT52-ke13a5t.jpeg)
+Serverless 101, FaaS, Functions as a Service, AWS Lambda, Azure Functions, Google Cloud Functions, Serverless
+
+### [157. Creating Custom 404 Error Pages on Zeit Now v2 Platform](https://hackernoon.com/custom-404-pages-on-zeit-now-v2-platform-ll4im3ser)
+![](https://cdn.hackernoon.com/drafts/hz5e3yxe.png)
+A custom 404 page has become a hallmark of well-polished websites. It allows expressing the creative brand of the site. Sometimes it shows a neat trick and easter eggs.
+
+### [158. AWS Lambda For Dummies [Part 2]](https://hackernoon.com/aws-lambda-for-dummies-part-2-xe1l341j)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-78f3t14.jpeg?alt=media&token=9cedee72-e0f8-4c02-b690-65ec8a01b286)
 In Part 1 of our Complete AWS Lambda Handbook for Beginners, we gave a refresher on the fundamentals of AWS Lambda and what is AWS Lambda. In this post, we’ll look at AWS Lambda pricing, some interesting Lambda facts and examples of great AWS Lambda use cases in your serverless application. 
 
-### [158. When To Go Serverless?](https://hackernoon.com/when-to-go-serverless)
+### [159. When To Go Serverless?](https://hackernoon.com/when-to-go-serverless)
 ![](https://cdn.hackernoon.com/images/qNU3MxADnSTPsF6Qbz9XhOIIjHB2-k502d9m.jpeg)
 It's hard to decide whether to go serverless or not. This article covers what is serverless in the first place and the pros & cons.
-
-### [159. Avoiding ‘Too Many Connections’ in Lambda + RDS Workflows](https://hackernoon.com/avoiding-too-many-connections-in-lambda-rds-workflows)
-![](https://cdn.hackernoon.com/images/1hIvCrRABFWxK9VBwoIKdJIodLL2-o2033g5.png)
-AWS Lambda scaled too fast, Aurora Serverless couldn’t keep up, and everything crashed. Here's how RDS Proxy and Aurora v2 finally made serverless DBs viable.
 
 ### [160. Serverless Functions with C#, Azure and AWS](https://hackernoon.com/serverless-functions-with-c-azure-and-aws)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-rd037un.jpeg)
@@ -657,17 +659,17 @@ This article will explain how to build serverless functions on the primary cloud
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-et832w0.jpeg)
 This research paper investigates just how secure Firecracker is against microarchitectural attacks.
 
-### [162. Exploring Differences Between Monitoring And Observability](https://hackernoon.com/exploring-differences-between-monitoring-and-observability-xm3g31gg)
+### [162. Migrating To Serverless Video Streaming Platforms like AWS Elemental](https://hackernoon.com/migrating-to-serverless-video-streaming-platforms-like-aws-elemental-mo59358g)
+![](https://cdn.hackernoon.com/images/GTQFBRpjkjMwaWsAydTcKgupNWn2-kqr33tg.jpeg)
+Serverless technology is spreading across the SaaS industry like wildfire, including the Video Streaming industry. Is it a good idea? 
+
+### [163. Exploring Differences Between Monitoring And Observability](https://hackernoon.com/exploring-differences-between-monitoring-and-observability-xm3g31gg)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-6u3b31ep.jpeg)
 Monitoring vs Observability: in this article, we're explaining what is observability exactly and how does it differ from monitoring.
 
-### [163. AWS Secrets Manager: How to Manage Credentials in Python ](https://hackernoon.com/aws-secrets-manager-how-to-manage-credentials-in-python-rw3k33m8)
+### [164. AWS Secrets Manager: How to Manage Credentials in Python ](https://hackernoon.com/aws-secrets-manager-how-to-manage-credentials-in-python-rw3k33m8)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-874333vx.jpeg)
 In this tutorial, we're looking at the AWS Secrets Manager as a way of managing credentials in Python scripts, with an example use case.
-
-### [164. Migrating To Serverless Video Streaming Platforms like AWS Elemental](https://hackernoon.com/migrating-to-serverless-video-streaming-platforms-like-aws-elemental-mo59358g)
-![](https://cdn.hackernoon.com/images/GTQFBRpjkjMwaWsAydTcKgupNWn2-kqr33tg.jpeg)
-Serverless technology is spreading across the SaaS industry like wildfire, including the Video Streaming industry. Is it a good idea? 
 
 ### [165. Build a Serverless Lie Detector that uses AI for Facial Recognition](https://hackernoon.com/building-a-serverless-lie-detector-that-uses-facial-recognition-ai)
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-pv93oub.jpeg)
@@ -697,46 +699,46 @@ Welcome to the Serverless world. One of the first things you’ll hear about is 
 ![](https://cdn.hackernoon.com/images/dsNDG3VITEYuADbhxQzydEdwJjo1-kko3ob8.jpeg)
 Learn about the basics of Serverless, Docker and deploying a Django (Python) application to Cloud Run, a serverless offering by Google Cloud Platform
 
-### [172. Microarchitectural Security of AWS Firecracker VMM: Abstract & Intro](https://hackernoon.com/microarchitectural-security-of-aws-firecracker-vmm-abstract-and-intro)
+### [172. Building a Three-Tier Architecture on AWS: When it Makes Sense (and When it Doesn't)](https://hackernoon.com/building-a-three-tier-architecture-on-aws-when-it-makes-sense-and-when-it-doesnt)
+![](https://cdn.hackernoon.com/images/Fn9Y5dMPjYMUkxZD2QnRvPh5JD63-8b43i5o.png)
+I deployed a contact manager app using three-tier AWS architecture and spent $100/month on infrastructure that was massive overkill. Here's what I learned. 
+
+### [173. Microarchitectural Security of AWS Firecracker VMM: Abstract & Intro](https://hackernoon.com/microarchitectural-security-of-aws-firecracker-vmm-abstract-and-intro)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-wr831dt.jpeg)
 This research paper investigates just how secure Firecracker is against microarchitectural attacks.
-
-### [173. How To Use Amazon API Gateway to Decouple and Scale Serverless Architectures](https://hackernoon.com/how-to-use-amazon-api-gateway-to-decouple-and-scale-serverless-architectures-4c1y3u1z)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-2sj3uy8.webp?alt=media&token=de7940ba-77c4-4990-95a9-8bd7028ac376)
-One of the benefits of Serverless architectures is the possibility of scaling applications without worrying about load balancers and clusters of servers. While services like AWS Lambda hold their promises on this area, there are usually misconceptions about how they work.
 
 ### [174. Do Modern Technologies Like Serverless Really Offer Better Benefits?](https://hackernoon.com/do-modern-technologies-like-serverless-really-offer-better-benefits)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-rz92dav.jpeg)
 Remember mainframes? Serverless is pretty much that: we own the machine and you rent out time on our big iron. We went full circle on progress!
 
 
-### [175. Production-Ready Serverless Composition and Orchestration](https://hackernoon.com/production-ready-serverless-composition-and-orchestration-m04w36nj)
-![](https://cdn.hackernoon.com/drafts/8hqk32r9.png)
-A strong and mature trend in modern cloud software development is to implement components that are:
+### [175. How To Use Amazon API Gateway to Decouple and Scale Serverless Architectures](https://hackernoon.com/how-to-use-amazon-api-gateway-to-decouple-and-scale-serverless-architectures-4c1y3u1z)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-2sj3uy8.webp?alt=media&token=de7940ba-77c4-4990-95a9-8bd7028ac376)
+One of the benefits of Serverless architectures is the possibility of scaling applications without worrying about load balancers and clusters of servers. While services like AWS Lambda hold their promises on this area, there are usually misconceptions about how they work.
 
-### [176. An Introduction to Serverless Cloud Import Systems](https://hackernoon.com/an-introduction-to-serverless-cloud-import-systems-bn2c3z7m)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzvtTc5L7wgXbe4oh196K0IuAXU43-qxc13w0b.jpeg?alt=media&token=6bc46263-2be8-4fae-94e1-9afdb02f4252)
-Python Cloud Importer was developed as a part of the Cloud AI Operating System (CAIOS) project described at a high level in a separate article. Here, we are going to provide a more detailed account of motivation and internal design of this part of the system. In this paper, a Serverless Python Importer will be covered in detail. However, general principles presented are equally applicable to any programming language. In order to understand why we decided to develop it why Cloud Importer plays such a crucial role in CAIOS, we first need to cover the basics.
-
-### [177. Microarchitectural Security of AWS Firecracker VMM: Analysis of Microarchitectural Attack & Defenses](https://hackernoon.com/microarchitectural-security-of-aws-firecracker-vmm-analysis-of-microarchitectural-attack-and-defenses)
+### [176. Microarchitectural Security of AWS Firecracker VMM: Analysis of Microarchitectural Attack & Defenses](https://hackernoon.com/microarchitectural-security-of-aws-firecracker-vmm-analysis-of-microarchitectural-attack-and-defenses)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-y283174.jpeg)
 This research paper investigates just how secure Firecracker is against microarchitectural attacks.
+
+### [177. Production-Ready Serverless Composition and Orchestration](https://hackernoon.com/production-ready-serverless-composition-and-orchestration-m04w36nj)
+![](https://cdn.hackernoon.com/drafts/8hqk32r9.png)
+A strong and mature trend in modern cloud software development is to implement components that are:
 
 ### [178. AWS re:Invent: The Five Most Important Serverless Announcements](https://hackernoon.com/aws-reinvent-the-five-most-important-serverless-announcements-ce1v31f1)
 ![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-js1535ar.jpeg)
 Top 5 Picks on Serverless Announcements at AWS re:Invent
 
-### [179. Architecting Serverless Data Integration Hubs on AWS for Enterprise Data Delivery: 2020 Edition](https://hackernoon.com/architecting-serverless-data-integration-hubs-on-aws-for-enterprise-data-delivery-2020-edition-wb1m3602)
-![](https://cdn.hackernoon.com/drafts/hp4eh2i6k.png)
+### [179. An Introduction to Serverless Cloud Import Systems](https://hackernoon.com/an-introduction-to-serverless-cloud-import-systems-bn2c3z7m)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzvtTc5L7wgXbe4oh196K0IuAXU43-qxc13w0b.jpeg?alt=media&token=6bc46263-2be8-4fae-94e1-9afdb02f4252)
+Python Cloud Importer was developed as a part of the Cloud AI Operating System (CAIOS) project described at a high level in a separate article. Here, we are going to provide a more detailed account of motivation and internal design of this part of the system. In this paper, a Serverless Python Importer will be covered in detail. However, general principles presented are equally applicable to any programming language. In order to understand why we decided to develop it why Cloud Importer plays such a crucial role in CAIOS, we first need to cover the basics.
 
-
-### [180. Building a Three-Tier Architecture on AWS: When it Makes Sense (and When it Doesn't)](https://hackernoon.com/building-a-three-tier-architecture-on-aws-when-it-makes-sense-and-when-it-doesnt)
-![](https://cdn.hackernoon.com/images/Fn9Y5dMPjYMUkxZD2QnRvPh5JD63-8b43i5o.png)
-I deployed a contact manager app using three-tier AWS architecture and spent $100/month on infrastructure that was massive overkill. Here's what I learned. 
-
-### [181. 254 Stories To Learn About Amazon](https://hackernoon.com/254-stories-to-learn-about-amazon)
+### [180. 254 Stories To Learn About Amazon](https://hackernoon.com/254-stories-to-learn-about-amazon)
 ![](https://cdn.hackernoon.com/images/github/amazon-135.png)
 Learn everything you need to know about Amazon via these 254 free HackerNoon stories.
+
+### [181. Architecting Serverless Data Integration Hubs on AWS for Enterprise Data Delivery: 2020 Edition](https://hackernoon.com/architecting-serverless-data-integration-hubs-on-aws-for-enterprise-data-delivery-2020-edition-wb1m3602)
+![](https://cdn.hackernoon.com/drafts/hp4eh2i6k.png)
+
 
 ### [182. Building a Conversational AI Chatbot With AWS Lambda Function and Amazon EFS](https://hackernoon.com/building-a-conversational-ai-chatbot-with-aws-lambda-function-and-amazon-efs-0nh3udp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fp3MBv6MODlhNECyBHBCl7uErvRr2-ha5s3u24.webp?alt=media&token=d4ccc9ed-faba-4be4-8d5a-499ff64cecca)
@@ -750,33 +752,33 @@ In past years, innovation in cloud services has made it quite convenient to host
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-ve4t338b.jpeg)
 Experiencing issues with AWS Lambda? Explore these four popular AWS Lambda debug methods to quickly rid yourself of troublesome bugs.
 
-### [185. A Deep Look Into The Service Template Compiler Solution In Python](https://hackernoon.com/a-deep-look-into-the-service-template-compiler-solution-in-python-ez1333pa)
-![](https://cdn.hackernoon.com/images/zvtTc5L7wgXbe4oh196K0IuAXU43-j9aa33k9.jpeg)
-Automatic translation of pure Python code to AWS CloudFormation Stack Template.
-
-### [186. Microarchitectural Security of AWS Firecracker VMM: Conclusion, Acknowledgments, and References](https://hackernoon.com/microarchitectural-security-of-aws-firecracker-vmm-conclusion-acknowledgments-and-references)
+### [185. Microarchitectural Security of AWS Firecracker VMM: Conclusion, Acknowledgments, and References](https://hackernoon.com/microarchitectural-security-of-aws-firecracker-vmm-conclusion-acknowledgments-and-references)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-7e8315g.jpeg)
 This research paper investigates just how secure Firecracker is against microarchitectural attacks.
 
-### [187. Cloud Orchestration Vs. Cloud Automation Explained](https://hackernoon.com/cloud-orchestration-vs-cloud-automation-explained-9h5836xe)
-![](https://cdn.hackernoon.com/drafts/gop436v6.png)
-Nowadays, the public cloud has become the tech solution of choice for many companies, including Amazon, Netflix, and Facebook. Why? The reason is simple - due to flexible nature, public cloud solutions allow businesses to save money on unused resources. Moreover, cloud hosting is a perfect way to save time on managing and maintaining the data centers in which your data is stored since these are the responsibilities of your cloud service provider. 
+### [186. A Deep Look Into The Service Template Compiler Solution In Python](https://hackernoon.com/a-deep-look-into-the-service-template-compiler-solution-in-python-ez1333pa)
+![](https://cdn.hackernoon.com/images/zvtTc5L7wgXbe4oh196K0IuAXU43-j9aa33k9.jpeg)
+Automatic translation of pure Python code to AWS CloudFormation Stack Template.
 
-### [188. Serverless API with Terraform: GO and AWS [Part 2]](https://hackernoon.com/serverless-api-with-terraform-go-and-aws-part-2)
+### [187. Serverless API with Terraform: GO and AWS [Part 2]](https://hackernoon.com/serverless-api-with-terraform-go-and-aws-part-2)
 ![](https://cdn.hackernoon.com/images/VZCQ0e1Yv2eJAMyEidHksLMysJ73-xt93kxp.jpeg)
 In part 2, we'll go over deploying serverless API to AWS Cloud with Terraform.
 
-### [189. How Serverless Can Encourage Good Engineering Practices](https://hackernoon.com/how-serverless-can-encourage-good-engineering-practices-do3t335g)
+### [188. Cloud Orchestration Vs. Cloud Automation Explained](https://hackernoon.com/cloud-orchestration-vs-cloud-automation-explained-9h5836xe)
+![](https://cdn.hackernoon.com/drafts/gop436v6.png)
+Nowadays, the public cloud has become the tech solution of choice for many companies, including Amazon, Netflix, and Facebook. Why? The reason is simple - due to flexible nature, public cloud solutions allow businesses to save money on unused resources. Moreover, cloud hosting is a perfect way to save time on managing and maintaining the data centers in which your data is stored since these are the responsibilities of your cloud service provider. 
+
+### [189. AWS Lambda: How to Set Up Private Storage in an AWS S3 Bucket to Upload Images](https://hackernoon.com/aws-lambda-how-to-set-up-private-storage-in-an-aws-s3-bucket-to-upload-images)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-fx136ip.jpeg)
+We will deploy a serverless infrastructure based on AWS Lambda for uploading images (and any other files) with private storage in an AWS S3-based bucket.
+
+### [190. How Serverless Can Encourage Good Engineering Practices](https://hackernoon.com/how-serverless-can-encourage-good-engineering-practices-do3t335g)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-i92l33df.jpeg)
 In this article, we list the seven reasons why and how serverless computing enables useful engineering practices.
 
-### [190. Going Serverless? Here’s 5 Use Cases](https://hackernoon.com/going-serverless-heres-5-use-cases-h0223ucq)
+### [191. Going Serverless? Here’s 5 Use Cases](https://hackernoon.com/going-serverless-heres-5-use-cases-h0223ucq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-j1e3ufn.jpeg?alt=media&token=2f74b1ab-e89f-4128-8a23-0ebcf39a6b61)
 Since 2014 when AWS launched AWS Lambda and kickstarted the serverless movement, going serverless has grown exponentially for organizations of all sizes from one-man start-ups to huge listed global enterprises. While there are some challenges to this new architecture, the ways moving to serverless can transform a business often far outweigh these.
-
-### [191. AWS Lambda: How to Set Up Private Storage in an AWS S3 Bucket to Upload Images](https://hackernoon.com/aws-lambda-how-to-set-up-private-storage-in-an-aws-s3-bucket-to-upload-images)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-fx136ip.jpeg)
-We will deploy a serverless infrastructure based on AWS Lambda for uploading images (and any other files) with private storage in an AWS S3-based bucket.
 
 ### [192. WunderBase - Serverless GraphQL Database on Top of SQLite, Firecracker and Prisma](https://hackernoon.com/wunderbase-serverless-graphql-database-on-top-of-sqlite-firecracker-and-prisma)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3r92a0r.jpeg)
@@ -786,25 +788,25 @@ WunderBase is a Serverless Database with a GraphQL API on top of SQLite, Firecra
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7wyJfrZkKUSC50eZ7cAqeB7Kriz2-kc2s3u2n.jpeg?alt=media&token=b7d5bece-88fe-4c23-a5f2-c7fa284f9f72)
 The concepts of social distancing, contactless approach and safety first have now become the new normal in our present COVID induced downturn.
 
-### [194. Cloud Computing is Replete with Clouded Judgements #BreakTheChain](https://hackernoon.com/cloud-computing-is-replete-with-clouded-judgements-breakthechain-elp132tq)
-![](https://cdn.hackernoon.com/drafts/sk1o13y8e.png)
-We are banking online, shopping online, using social networking sites, playing online games, storing photos, audio, and video online and using online file-sharing. And mostly all those services are cloud-based. For example, such famous platforms as Airbnb, PayPal, Zynga, Spotify and Adobe Systems are “cloudy”.  
-
-### [195. Leetcode Coding Challenge Using Lambda](https://hackernoon.com/leetcode-coding-challenge-using-lambda-2a4c3t41)
+### [194. Leetcode Coding Challenge Using Lambda](https://hackernoon.com/leetcode-coding-challenge-using-lambda-2a4c3t41)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2Cg2LUhTzHb4kw0oaj48lUOadgo1-yh8b3uun.jpeg?alt=media&token=0ed05672-c74d-4727-a4ab-2152b8ed2a34)
 I am a big fan of leet code so when we decided to have a code challenge in our team I thought it wouldn’t be a bad idea to build one which should include pretty basic functionalities like:
+
+### [195. Cloud Computing is Replete with Clouded Judgements #BreakTheChain](https://hackernoon.com/cloud-computing-is-replete-with-clouded-judgements-breakthechain-elp132tq)
+![](https://cdn.hackernoon.com/drafts/sk1o13y8e.png)
+We are banking online, shopping online, using social networking sites, playing online games, storing photos, audio, and video online and using online file-sharing. And mostly all those services are cloud-based. For example, such famous platforms as Airbnb, PayPal, Zynga, Spotify and Adobe Systems are “cloudy”.  
 
 ### [196. AWS Step Functions: When They Might Come In Handy](https://hackernoon.com/aws-step-functions-when-they-might-come-in-handy-y0i31x5)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-7tc3wex.jpeg?alt=media&token=f4ab41e7-f8cd-4204-bbef-53cd89cb1a6d)
 As you probably already know, Step Functions is a serverless Workflow Service provided by Amazon Web Services (AWS). There’s a lot to discuss about this service, and you’ll find plenty of vital information in our AWS Step Functions: The Ultimate Guide as well as in our series of articles that’ll dive deep into various aspects regarding this AWS service.
 
-### [197. An Introduction to Elasticsearch: Lightning Fast Search Solutions](https://hackernoon.com/an-introduction-to-elasticsearch-lightning-fast-search-solutions-jm2o34si)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZkfENnt2LdcfkiwMm6iukaGEHnB3-7d1p31na.jpeg?alt=media&token=ba018f5c-67b6-4254-ba25-0a0a2c20debe)
-If you're reading this blog, chances are you really interested in Elasticsearch and the solutions that it provides. This blog will introduce you to Elasticsearch and explain how to get started with implementing a fast search for your app in less than 10 minutes. Of course, we're not going to code up a full-blown production-ready search solution here. But, the below-mentioned concepts will help you get up to speed quickly. So, without further ado, let's start!
-
-### [198. Microarchitectural Security of AWS Firecracker VMM: Analysis of Firecracker's Containment Systems](https://hackernoon.com/microarchitectural-security-of-aws-firecracker-vmm-analysis-of-firecrackers-containment-systems)
+### [197. Microarchitectural Security of AWS Firecracker VMM: Analysis of Firecracker's Containment Systems](https://hackernoon.com/microarchitectural-security-of-aws-firecracker-vmm-analysis-of-firecrackers-containment-systems)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-hx832kg.jpeg)
 This research paper investigates just how secure Firecracker is against microarchitectural attacks.
+
+### [198. An Introduction to Elasticsearch: Lightning Fast Search Solutions](https://hackernoon.com/an-introduction-to-elasticsearch-lightning-fast-search-solutions-jm2o34si)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZkfENnt2LdcfkiwMm6iukaGEHnB3-7d1p31na.jpeg?alt=media&token=ba018f5c-67b6-4254-ba25-0a0a2c20debe)
+If you're reading this blog, chances are you really interested in Elasticsearch and the solutions that it provides. This blog will introduce you to Elasticsearch and explain how to get started with implementing a fast search for your app in less than 10 minutes. Of course, we're not going to code up a full-blown production-ready search solution here. But, the below-mentioned concepts will help you get up to speed quickly. So, without further ado, let's start!
 
 ### [199. 5 Easy Steps To Create A React Project With Serverless User Authentication](https://hackernoon.com/5-easy-steps-to-create-a-react-project-with-serverless-user-authentication-vtr33tp)
 ![](https://cdn.hackernoon.com/images/W5izFfGlYhbYTvxHUaWKeV8Zmlu2-a946324a.jpeg)
@@ -830,37 +832,37 @@ This is true for the most part, but Serverless apps also have a certain property
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-oe831g2.jpeg)
 This research paper investigates just how secure Firecracker is against microarchitectural attacks.
 
-### [205. How You Can Reduce Costs on AWS Lambda](https://hackernoon.com/how-you-can-reduce-costs-on-aws-lambda-ik4j3wn3)
-![](https://cdn.hackernoon.com/images/na3z3wnp.jpg)
-As a Serverless computing service, Lambda already saves hundreds of thousands of dollars for many companies out there. While traditional server-based infrastructures usually lead to overprovisioning and waste, the Serverless pay-per-use model enables cost-effective cloud spending.
-
-### [206. Building a Serverless Data Pipeline to Analyze Meetup data](https://hackernoon.com/building-a-serverless-data-pipeline-to-analyze-meetup-data)
+### [205. Building a Serverless Data Pipeline to Analyze Meetup data](https://hackernoon.com/building-a-serverless-data-pipeline-to-analyze-meetup-data)
 ![](https://cdn.hackernoon.com/images/9S3lbqiInhWyUHkSzHFYxlcfWbj1-v342b6f.jpeg)
 Building a Serverless Data Pipeline to Analyze Meetup data
+
+### [206. How You Can Reduce Costs on AWS Lambda](https://hackernoon.com/how-you-can-reduce-costs-on-aws-lambda-ik4j3wn3)
+![](https://cdn.hackernoon.com/images/na3z3wnp.jpg)
+As a Serverless computing service, Lambda already saves hundreds of thousands of dollars for many companies out there. While traditional server-based infrastructures usually lead to overprovisioning and waste, the Serverless pay-per-use model enables cost-effective cloud spending.
 
 ### [207. AWS Cost Optimization 101](https://hackernoon.com/aws-cost-optimization-101-454333sy)
 ![](https://cdn.hackernoon.com/drafts/8jv32dt.png)
 The beginning of the year is the perfect time to clean up and optimize. This also applies to your AWS bill. I've composed practical tips on how to cut costs with small effort.
 
-### [208. A Deep Dive into AWS Firecracker](https://hackernoon.com/a-deep-dive-into-aws-firecracker-ry9w3yc3)
-![](https://cdn.hackernoon.com/images/e4sz2bmb.jpg)
-Firecracker is a Virtual Machine Monitor, written in Rust that Amazon Web Services use to power it’s Serverless Compute services — Lambda and Fargate. Firecracker makes use of Linux’s Kernel-based Virtual Machine virtualisation infrastructure to provide its products with MicroVMs.
-
-### [209. Backpressure Isn’t a Bug: It’s a Feature for Building Resilient Systems](https://hackernoon.com/backpressure-isnt-a-bug-its-a-feature-for-building-resilient-systems)
+### [208. Backpressure Isn’t a Bug: It’s a Feature for Building Resilient Systems](https://hackernoon.com/backpressure-isnt-a-bug-its-a-feature-for-building-resilient-systems)
 ![](https://cdn.hackernoon.com/images/g8aEx2p7U6gaVsAv99684Pb9T193-bu037hz.png)
 Learn how backpressure helps distributed systems stay resilient under load. Explore real-world patterns to manage flow control, retries, and queue buildup.
+
+### [209. A Deep Dive into AWS Firecracker](https://hackernoon.com/a-deep-dive-into-aws-firecracker-ry9w3yc3)
+![](https://cdn.hackernoon.com/images/e4sz2bmb.jpg)
+Firecracker is a Virtual Machine Monitor, written in Rust that Amazon Web Services use to power it’s Serverless Compute services — Lambda and Fargate. Firecracker makes use of Linux’s Kernel-based Virtual Machine virtualisation infrastructure to provide its products with MicroVMs.
 
 ### [210. Adding Code to AWS Lambda, Lambda Layers, and Lambda Extensions Using Docker](https://hackernoon.com/adding-code-to-aws-lambda-lambda-layers-and-lambda-extensions-using-docker-f52m35ur)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-17f339m.jpeg)
 With Docker, we have three ways to add code to Lambda that isn’t directly part of our Lambda function. What does this mean?
 
-### [211. Using Lambdas in Production](https://hackernoon.com/using-lambdas-in-production-eo1a3u9k)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtoLY4PCF0TRXOexjyVxnugBnPOD2-33w3yzf.jpeg?alt=media&token=19b38147-6a58-4cf6-9f42-98a46bca2d9a)
-I have been using Lambda in production for about four years now personally, and three years professionally at Volta. Initially, I shipped Lambdas because it was easier than managing servers. At Volta, we now exclusively use server-less services because they are the smartest option for our workloads if we remember to support them correctly. This is a cheat sheet, a checklist of all the things you might want to remember when shipping something new to ensure it runs successfully.
-
-### [212. A Better Introduction to AWS Lambda](https://hackernoon.com/a-better-introduction-to-aws-lambda)
+### [211. A Better Introduction to AWS Lambda](https://hackernoon.com/a-better-introduction-to-aws-lambda)
 ![](https://cdn.hackernoon.com/images/4M1v4uN1ptWKawlFypubbTs7up73-pig3i0b.jpeg)
 Over 200 services are available through Amazon Web Services (AWS). AWS Lambda is the AWS platform's event-driven serverless computing solution.
+
+### [212. Using Lambdas in Production](https://hackernoon.com/using-lambdas-in-production-eo1a3u9k)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtoLY4PCF0TRXOexjyVxnugBnPOD2-33w3yzf.jpeg?alt=media&token=19b38147-6a58-4cf6-9f42-98a46bca2d9a)
+I have been using Lambda in production for about four years now personally, and three years professionally at Volta. Initially, I shipped Lambdas because it was easier than managing servers. At Volta, we now exclusively use server-less services because they are the smartest option for our workloads if we remember to support them correctly. This is a cheat sheet, a checklist of all the things you might want to remember when shipping something new to ensure it runs successfully.
 
 ### [213. How To Make A Cost Effective API Serverless Infrastructures](https://hackernoon.com/how-to-make-a-cost-effective-api-serverless-infrastructures-q41f3uy8)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-5qj3u3l.jpeg?alt=media&token=19e6d239-d79c-4e9c-a65d-1ba379f33cc4)
@@ -870,17 +872,17 @@ AWS API Gateway is a great service but can be quite expensive, and even cost-pro
 ![](https://cdn.hackernoon.com/images/illustrate-a-computer-screen-floating-in-space-clf88m6xc000001s63g9qamev.png)
 The good news is that you can get Eleventy Serverless to run in AWS Lambdas. Even better, you can get it to run in Lambda@Edge.
 
-### [215. How to Have an Automated Blog Promoter With ChatGPT, Twitter, and AWS](https://hackernoon.com/how-to-have-an-automated-blog-promoter-with-chatgpt-twitter-and-aws)
-![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-oy93f4k.jpeg)
-Automated Blog Promotion with ChatGPT: Learn how to promote your blog posts automatically with our AI-powered toolkit. Start promoting your blog posts today!
-
-### [216. How to Build a Question and Answer Chatbot with Amazon Kendra and AWS Fargate](https://hackernoon.com/how-to-build-a-question-and-answer-chatbot-with-amazon-kendra-and-aws-fargate-1i2u30k8)
+### [215. How to Build a Question and Answer Chatbot with Amazon Kendra and AWS Fargate](https://hackernoon.com/how-to-build-a-question-and-answer-chatbot-with-amazon-kendra-and-aws-fargate-1i2u30k8)
 ![](https://cdn.hackernoon.com/drafts/2x23b3whp.png)
 Amazon announced the general availability of Amazon Kendra a few weeks ago, Kendra is a highly accurate and easy to use enterprise search service powered by machine learning.
 
-### [217. GitHub Pages is a Great Way to Host a Server](https://hackernoon.com/github-pages-is-a-great-way-to-host-a-server)
+### [216. GitHub Pages is a Great Way to Host a Server](https://hackernoon.com/github-pages-is-a-great-way-to-host-a-server)
 ![](https://cdn.hackernoon.com/images/oEYCrZNrzXUMS85TGJm5kEKTpcZ2-i992or3.jpeg)
 Hosting serverless applications outside of cloud on a home server.
+
+### [217. How to Have an Automated Blog Promoter With ChatGPT, Twitter, and AWS](https://hackernoon.com/how-to-have-an-automated-blog-promoter-with-chatgpt-twitter-and-aws)
+![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-oy93f4k.jpeg)
+Automated Blog Promotion with ChatGPT: Learn how to promote your blog posts automatically with our AI-powered toolkit. Start promoting your blog posts today!
 
 ### [218. Go Serverless with AWS Lambda, Node.js and Dashbird](https://hackernoon.com/go-serverless-with-aws-lambda-nodejs-and-dashbird)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-5y036ja.jpeg)
@@ -906,21 +908,21 @@ So AWS gives startups $100k in free credits. Google and Azure have similar progr
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ffdg3pfHujyRJVjsQ5nY0dIKKFDB2-nl7y3ev9.jpeg?alt=media&token=aa001063-5331-4e3d-aa5e-2698c4597b53)
 One of the known truths of the Machine Learning(ML) world is that it takes a lot longer to deploy ML models to production than to develop it.¹
 
-### [224. Five Important Tips For Working With JWTs](https://hackernoon.com/five-key-learnings-from-working-with-jwts-mr153wgc)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-og1h3e7z.jpeg?alt=media&token=9bc31e74-28e5-4acc-a37a-1a0d569aa04d)
-Nowadays, JSON Web Tokens are the most common way of proving identity information to APIs. The concepts behind JWTs are also quite easy to understand, and it takes only a couple of minutes to have the most basic authentication running. 
+### [224. Open Source Worse Practices: Serverless Inc. as an Example of What Can Go Wrong](https://hackernoon.com/open-source-worse-practices-serverless-inc-as-an-example-of-what-can-go-wrong-q0663yae)
+![](https://cdn.hackernoon.com/images/q93j3yeq.jpg)
+What can go wrong when you don’t keep up with your developer community
 
 ### [225. How to Master AWS Identity and Access Management](https://hackernoon.com/how-to-master-aws-identity-and-access-management)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-ag03uuc.jpeg)
 From the basic to advanced concepts of AWS own service for identity and access management: users, groups, permissions for resources and much more.
 
-### [226. Introduction to IDaaS and its Applications ](https://hackernoon.com/introduction-to-idaas-and-its-applications-evv31uc)
+### [226. Five Important Tips For Working With JWTs](https://hackernoon.com/five-key-learnings-from-working-with-jwts-mr153wgc)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-og1h3e7z.jpeg?alt=media&token=9bc31e74-28e5-4acc-a37a-1a0d569aa04d)
+Nowadays, JSON Web Tokens are the most common way of proving identity information to APIs. The concepts behind JWTs are also quite easy to understand, and it takes only a couple of minutes to have the most basic authentication running. 
+
+### [227. Introduction to IDaaS and its Applications ](https://hackernoon.com/introduction-to-idaas-and-its-applications-evv31uc)
 ![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-tpb358h.jpeg)
 If you're reading this article, you might be interested to learn how to implement user management for your application, understanding the complete picture of how identity management services work. That's what we'll do in this article. You'll learn what is Identity as a Service (IDaaS), why to use such a service, what is Single Sign-On (SSO), and IDaaS platforms.
-
-### [227. Open Source Worse Practices: Serverless Inc. as an Example of What Can Go Wrong](https://hackernoon.com/open-source-worse-practices-serverless-inc-as-an-example-of-what-can-go-wrong-q0663yae)
-![](https://cdn.hackernoon.com/images/q93j3yeq.jpg)
-What can go wrong when you don’t keep up with your developer community
 
 ### [228. How To Manage Infrastructure With Terraform](https://hackernoon.com/how-to-manage-infrastructure-with-terraform-ab2l3u11)
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-1a8361m.jpeg)
@@ -934,55 +936,55 @@ In this article, we'll look at what are the security hazards in serverless and w
 ![](https://cdn.hackernoon.com/images/X5boIGQakdSzdeWN2IWpIgrmGnI2-9h833af.jpeg)
 In this article, I’ll outline how we used Amazon Rekognition to rapidly build an image object detection feature for a social media startup.
 
-### [231. The Beginner’s Guide to Serverless Computing](https://hackernoon.com/the-beginners-guide-to-serverless-computing-agf32q5)
+### [231. Mastodon: Building a Marvel Character Info Bot with Cloudflare Workers](https://hackernoon.com/mastodon-building-a-marvel-character-info-bot-with-cloudflare-workers)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ps93pby.jpeg)
+I thought I'd use the Marvel API as a way to build another bot, but this time on the Cloudflare Workers platform.
+
+### [232. Containers vs. Serverless: Which is Better for DevOps?](https://hackernoon.com/containers-vs-serverless-which-is-better-for-devops)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-wm0380k.jpeg)
+Managing your own containers versus letting serverless do it for you - when to choose what? Let's go over the pros and cons.
+
+### [233. Unleashing Next-Gen Docker Capabilities with Wasm, eBPF, and Serverless Containers](https://hackernoon.com/unleashing-next-gen-docker-capabilities-with-wasm-ebpf-and-serverless-containers)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-0p135uc.jpeg)
+Explore how WebAssembly, eBPF, and serverless containers are redefining Docker with faster performance, stronger security, and effortless scaling.
+
+### [234. The Beginner’s Guide to Serverless Computing](https://hackernoon.com/the-beginners-guide-to-serverless-computing-agf32q5)
 ![](https://cdn.hackernoon.com/images/xjp32qi.jpg)
 Serverless is a modern computing model that employs Function-as-a-service architecture and manages the backend and scaling automatically with low cost and high concurrency.
 
-### [232. Serverless Myths Debunked - Top Things You Thought You Knew](https://hackernoon.com/server-less-debunked-top-things-you-thought-you-knew-1it32fu)
+### [235. Serverless Myths Debunked - Top Things You Thought You Knew](https://hackernoon.com/server-less-debunked-top-things-you-thought-you-knew-1it32fu)
 ![](https://cdn.hackernoon.com/drafts/mcuq32f2.png)
 Whenever a new technology enters the market, there are often
 misconceptions that exist that need debunking in order to fully understand the capabilities, and overcome the restrictions with the emerging tech. Serverless compute is one of those technologies, having entered the cloud space in the past few years and projected to have a CAGR of 26.9%. 
 
-### [233. The API Gateway Security Risk You Didn't Pay Attention to](https://hackernoon.com/the-api-gateway-security-flaw-you-need-to-pay-attention-to-xo7m3t1x)
+### [236. The API Gateway Security Risk You Didn't Pay Attention to](https://hackernoon.com/the-api-gateway-security-flaw-you-need-to-pay-attention-to-xo7m3t1x)
 ![](https://cdn.hackernoon.com/drafts/j7m63tzj.png)
 When you deploy an API to API Gateway, throttling is enabled by default in the stage configurations.
 
-### [234. Mastodon: Building a Marvel Character Info Bot with Cloudflare Workers](https://hackernoon.com/mastodon-building-a-marvel-character-info-bot-with-cloudflare-workers)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ps93pby.jpeg)
-I thought I'd use the Marvel API as a way to build another bot, but this time on the Cloudflare Workers platform.
-
-### [235. Containers vs. Serverless: Which is Better for DevOps?](https://hackernoon.com/containers-vs-serverless-which-is-better-for-devops)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-wm0380k.jpeg)
-Managing your own containers versus letting serverless do it for you - when to choose what? Let's go over the pros and cons.
-
-### [236. Your Serverless Guide is Ready](https://hackernoon.com/your-serverless-guide-is-ready-bc2i33gz)
+### [237. Your Serverless Guide is Ready](https://hackernoon.com/your-serverless-guide-is-ready-bc2i33gz)
 ![](https://cdn.hackernoon.com/images/vI89MS8Ou8OYOnT4ESBSH9HkCrz2-h23c33va.jpeg)
 Learn everything you need to know about Serverless, including case studies, essential concepts, guidelines, and best practices.
 
 
-### [237. Database Tips: 7 Reasons Why Data Lakes Could Solve Your Problems](https://hackernoon.com/database-tips-7-reasons-why-data-lakes-could-solve-your-problems-sf6g339c)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-gi3w345w.jpeg)
-Data lakes are an essential component in building any future-proof data platform. In this article, we round up 7 reasons why you need a data lake. 
-
-### [238. Grasping Serverless At Scale Is A Lot Easier Than You Think](https://hackernoon.com/grasping-serverless-at-scale-is-a-lot-easier-than-you-think-zps3wrs)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-6c263wuy.jpeg?alt=media&token=bc8acc5b-6bba-4fab-8d50-f0ca13b21d44)
-Best Practices of Serverless at Scale 
-
-### [239. 5 Common Step Function Issues](https://hackernoon.com/5-common-step-function-issues)
+### [238. 5 Common Step Function Issues](https://hackernoon.com/5-common-step-function-issues)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-w493lsf.jpeg)
 Here you will find the most common issues when working with Step Functions, especially when starting with the service.
 
-### [240. Serverless Computing and DevOps: The Future of Cloud Deployment](https://hackernoon.com/serverless-computing-and-devops-the-future-of-cloud-deployment)
+### [239. Database Tips: 7 Reasons Why Data Lakes Could Solve Your Problems](https://hackernoon.com/database-tips-7-reasons-why-data-lakes-could-solve-your-problems-sf6g339c)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-gi3w345w.jpeg)
+Data lakes are an essential component in building any future-proof data platform. In this article, we round up 7 reasons why you need a data lake. 
+
+### [240. Grasping Serverless At Scale Is A Lot Easier Than You Think](https://hackernoon.com/grasping-serverless-at-scale-is-a-lot-easier-than-you-think-zps3wrs)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-6c263wuy.jpeg?alt=media&token=bc8acc5b-6bba-4fab-8d50-f0ca13b21d44)
+Best Practices of Serverless at Scale 
+
+### [241. Serverless Computing and DevOps: The Future of Cloud Deployment](https://hackernoon.com/serverless-computing-and-devops-the-future-of-cloud-deployment)
 ![](https://cdn.hackernoon.com/images/oNZXBC4P8ORjUfiMccvix8lTI9p2-qh83yc4.jpeg)
 Serverless computing and DevOps redefine cloud deployment by eliminating server management, promoting a code-centric approach. 
 
-### [241. Building Your Infrastructure With Just a Diagram](https://hackernoon.com/building-your-infrastructure-with-just-a-diagram)
+### [242. Building Your Infrastructure With Just a Diagram](https://hackernoon.com/building-your-infrastructure-with-just-a-diagram)
 ![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-bs93rf9.jpeg)
 This hands-on tutorial will teach you how to create infrastructure via the AWS Application Composer Console.
-
-### [242. Ask Your Logs Anything: Building a Conversational Interface with AWS Lambda and Bedrock](https://hackernoon.com/ask-your-logs-anything-building-a-conversational-interface-with-aws-lambda-and-bedrock)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-zu0231q.jpeg)
-What if you could simply ask, "What were the most common errors for the checkout service in the last 15 minutes?"
 
 ### [243. Cloud Computing Explained: What is Serverless SQL and Why Should You Care?](https://hackernoon.com/cloud-computing-explained-what-is-serverless-sql-and-why-should-you-care-5y3t33z5)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-o31a33mk.jpeg)
@@ -996,25 +998,25 @@ Some facts why usage Express.js inside AWS Lambda is pitiful design anti-pattern
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZkfENnt2LdcfkiwMm6iukaGEHnB3-kg431fk.jpeg?alt=media&token=17c9f9e8-4c31-46e5-b68e-284bf156eaac)
 The AWS Lambda service allows us to easily deploy and run our own code, without worrying too much about the underlying infrastructure (when compared to non-serverless technologies). It essentially scales infinitely (with great power comes great responsibility), and can be connected with a bunch of other services, like API Gateway, S3, AppSync, DynamoDB, etc.
 
-### [246. How Your Startup Can Benefit From Serverless Approach](https://hackernoon.com/how-your-startup-can-benefit-from-serverless-approach-skq311g)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-681k31ek.jpeg)
-The popularity of hiring vendors for handling application backend has spiked tremendously over the last 5 years. On the one hand, startup owners go serverless to save infrastructure costs and pay for resources as they go
-
-### [247. Unleashing Next-Gen Docker Capabilities with Wasm, eBPF, and Serverless Containers](https://hackernoon.com/unleashing-next-gen-docker-capabilities-with-wasm-ebpf-and-serverless-containers)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-0p135uc.jpeg)
-Explore how WebAssembly, eBPF, and serverless containers are redefining Docker with faster performance, stronger security, and effortless scaling.
-
-### [248. Build a CRUD API using DynamoDB and Serverless - Part 1](https://hackernoon.com/build-a-crud-api-using-dynamodb-and-serverless-part-1)
+### [246. Build a CRUD API using DynamoDB and Serverless - Part 1](https://hackernoon.com/build-a-crud-api-using-dynamodb-and-serverless-part-1)
 ![](https://cdn.hackernoon.com/images/orEWR6NywnXjlsmxsTaq9nfzFeu1-ql034uh.jpeg)
 Guide on How to do CRUD operations like DynamoDB GetItem, PutItem, DeleteItem and UpdateItem using AWS Serverless and NodeJS.
 
-### [249. I Sold My Startup Because of Bugs: I Wish Winglang Existed Back Then](https://hackernoon.com/i-sold-my-startup-because-of-bugs-i-wish-winglang-existed-back-then)
+### [247. How Your Startup Can Benefit From Serverless Approach](https://hackernoon.com/how-your-startup-can-benefit-from-serverless-approach-skq311g)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-681k31ek.jpeg)
+The popularity of hiring vendors for handling application backend has spiked tremendously over the last 5 years. On the one hand, startup owners go serverless to save infrastructure costs and pay for resources as they go
+
+### [248. I Sold My Startup Because of Bugs: I Wish Winglang Existed Back Then](https://hackernoon.com/i-sold-my-startup-because-of-bugs-i-wish-winglang-existed-back-then)
 ![](https://cdn.hackernoon.com/images/Fyq3lKdN20Xy6A5PTptozSOTd5K2-n783629.png)
 In 2021, I built a startup called Linvo, a LinkedIn automation tool. It generated good money but also had a high burn rate. 
 
-### [250. Building The Koyeb Serverless Engine: Why We Moved From Kubernetes to Nomad, Firecracker, and Kuma](https://hackernoon.com/building-the-koyeb-serverless-engine-why-we-moved-from-kubernetes-to-nomad-firecracker-and-kuma)
+### [249. Building The Koyeb Serverless Engine: Why We Moved From Kubernetes to Nomad, Firecracker, and Kuma](https://hackernoon.com/building-the-koyeb-serverless-engine-why-we-moved-from-kubernetes-to-nomad-firecracker-and-kuma)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-go037km.jpeg)
 We built our own serverless engine.  Here is our story of moving user workloads from Kubernetes to a custom stack based on Nomad, Firecracker, and Kuma.
+
+### [250. The “Best Practice” Trap](https://hackernoon.com/the-best-practice-trap)
+![](https://substackcdn.com/image/fetch/$s_!C2Ty!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f211230-3840-4290-965d-ca4adb27fe3c_1024x572.png)
+Don’t go in with an opinion. Go in with data. Prepare one piece of evidence before you walk into the room or join the call.
 
 ### [251. Fleet Serverless Node.js Function Introduction](https://hackernoon.com/fleet-serverless-nodejs-function-introduction-zs133udz)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fn6BbhqSFTbf5vZwGBwhFbB5o3rO2-4c73ubr.jpeg?alt=media&token=31fc11ca-04a3-4330-89c5-635850876bb6)
@@ -1024,251 +1026,251 @@ In February this year, we announced Fleet (Formerly Hole), a FaaS platform built
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-vj4b3ulw.jpeg?alt=media&token=50a6bc7f-e2b5-492f-94cc-5df8a1c1c74c)
 Every developer and every team faces confusion about COPY and ADD in the Dockerfile at some point. When I get this question, first I usually give the technical background, which is this:
 
-### [253. The “Best Practice” Trap](https://hackernoon.com/the-best-practice-trap)
-![](https://substackcdn.com/image/fetch/$s_!C2Ty!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f211230-3840-4290-965d-ca4adb27fe3c_1024x572.png)
-Don’t go in with an opinion. Go in with data. Prepare one piece of evidence before you walk into the room or join the call.
-
-### [254. On the Original Definition of PaaS](https://hackernoon.com/on-the-original-definition-of-paas)
+### [253. On the Original Definition of PaaS](https://hackernoon.com/on-the-original-definition-of-paas)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-6v93kzl.jpeg)
 Why Platform-as-a-Service (PaaS) still stands a chance
+
+### [254. How To Setup Docker Using Ansible on Ubuntu 18.04 [Part 2]](https://hackernoon.com/how-to-setup-docker-using-ansible-on-ubuntu-1804-part-2-pu153uzl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-rx413uyu.jpeg?alt=media&token=b56d252e-902a-4854-aec8-e370ca329b5b)
+In the last guide, you learned how to set up, install, and configure Ansible on Ubuntu 18.04. Now, you will use the Ansible to install and set Docker on a remote machine. To begin this guide, you need the following:
 
 ### [255. Challenges and Opportunities of Serverless in 2021](https://hackernoon.com/challenges-and-opportunities-of-serverless-in-2021)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-0c3d354d.jpeg)
 Going serverless has many benefits, but it's not without its issues. Learn about the most common serverless challenges & how to overcome them.
 
-### [256. How To Setup Docker Using Ansible on Ubuntu 18.04 [Part 2]](https://hackernoon.com/how-to-setup-docker-using-ansible-on-ubuntu-1804-part-2-pu153uzl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-rx413uyu.jpeg?alt=media&token=b56d252e-902a-4854-aec8-e370ca329b5b)
-In the last guide, you learned how to set up, install, and configure Ansible on Ubuntu 18.04. Now, you will use the Ansible to install and set Docker on a remote machine. To begin this guide, you need the following:
-
-### [257. The New Object Field to Create Nested & Repeatable Data Structures 🚀](https://hackernoon.com/the-new-object-field-to-create-nested-repeatable-data-structures)
+### [256. The New Object Field to Create Nested & Repeatable Data Structures 🚀](https://hackernoon.com/the-new-object-field-to-create-nested-repeatable-data-structures)
 ![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-7e3i296m.jpeg)
 Seamlessly create nested and repeatable data structures with the new Object field.
 
-### [258. Compare Static Form Providers Side-by-Side](https://hackernoon.com/a-comparison-of-static-form-providers-sj9o3bna)
+### [257. Compare Static Form Providers Side-by-Side](https://hackernoon.com/a-comparison-of-static-form-providers-sj9o3bna)
 ![](https://cdn.hackernoon.com/drafts/boa43bfj.png)
 Let’s attempt to coin a term here: "Static Form Provider." You bring your HTML <form>, but don’t worry about the back-end processing that makes it work. There are a lot of these services out there!
+
+### [258. How to Build Your Own Serverless Pastebin Tool](https://hackernoon.com/how-to-build-your-own-serverless-pastebin-tool)
+![](https://cdn.hackernoon.com/images/kTPy8kCxQpYe5Ov2B1DHc2cBliy2-ol93jo3.jpeg)
+Read how to design, build, and deploy a serverless Pastebin clone using Cloudflare Worker and KV to upload and share text through links.
 
 ### [259. How to include SNS and Kinesis in your e2e tests](https://hackernoon.com/how-to-include-sns-and-kinesis-in-your-e2e-tests-6u3t03rq9)
 ![](https://cdn.hackernoon.com/drafts/023sw3rm4.png)
 Being event-driven is a key characteristic of a serverless architecture. Often our Lambda functions would publish events to SNS topics or Kinesis streams instead of calling downstream APIs directly.
 
-### [260. How to Build Your Own Serverless Pastebin Tool](https://hackernoon.com/how-to-build-your-own-serverless-pastebin-tool)
-![](https://cdn.hackernoon.com/images/kTPy8kCxQpYe5Ov2B1DHc2cBliy2-ol93jo3.jpeg)
-Read how to design, build, and deploy a serverless Pastebin clone using Cloudflare Worker and KV to upload and share text through links.
+### [260. 5 Common Amazon Kinesis Issues](https://hackernoon.com/5-common-amazon-kinesis-issues)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-2693lq7.jpeg)
+AWS Kinesis is a professional tool that comes with its share of complications. This article will discuss the most common issues and explain how to fix them. 
 
 ### [261. How to Optimize Large Scale Serverless Applications for Operational Excellence](https://hackernoon.com/how-to-optimize-large-scale-serverless-applications-for-operational-excellence-0n4m3w35)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-zs93w4v.jpeg?alt=media&token=9e9c1d94-3eaa-4f68-b201-a717088c7820)
 Managing applications at scale often comes up as one of the biggest concerns for businesses; How can it work smoothly? How do we monitor so many resources? How do we maintain best practices with constantly evolving infrastructure? In this article, we run through the best approach for operational excellence looking at serverless monitoring strategy, serverless alerting strategy, and security and compliance best practices. 
 
-### [262. 5 Common Amazon Kinesis Issues](https://hackernoon.com/5-common-amazon-kinesis-issues)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-2693lq7.jpeg)
-AWS Kinesis is a professional tool that comes with its share of complications. This article will discuss the most common issues and explain how to fix them. 
-
-### [263. Setting Up AWS CloudWatch Alerts (vs Dashbird Alerts) To Monitor Your Applications](https://hackernoon.com/setting-up-aws-cloudwatch-alerts-vs-dashbird-alerts-to-monitor-your-applications-on5635ul)
+### [262. Setting Up AWS CloudWatch Alerts (vs Dashbird Alerts) To Monitor Your Applications](https://hackernoon.com/setting-up-aws-cloudwatch-alerts-vs-dashbird-alerts-to-monitor-your-applications-on5635ul)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-x72c33vl.jpeg)
 Learn about the best practices for AWS Cloudwatch Alerts and Dashbird Alarms, to not miss out on critical info about your serverless app.
 
-### [264. The ABC of DevOps Implementation with Containerization and Docker](https://hackernoon.com/the-abc-of-devops-implementation-with-containerization-and-docker-st1332l7)
-![](https://cdn.hackernoon.com/drafts/4qry32v0.png)
-DevOps is a rage in the IT industry. 
-
-### [265. AWS Lambda: What Kind of Serverless Applications Can I Make? (Podcast Transcript)](https://hackernoon.com/aws-lambda-what-kind-of-serverless-applications-can-i-make-podcast-transcript-5f4b35ju)
+### [263. AWS Lambda: What Kind of Serverless Applications Can I Make? (Podcast Transcript)](https://hackernoon.com/aws-lambda-what-kind-of-serverless-applications-can-i-make-podcast-transcript-5f4b35ju)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-eh3l358f.jpeg)
 Amy Tom talks to Pavel Denisjuk about AWS Lambda and serverless applications. Pavel is the Co-Founder and CTO at Webiny. 
 
-### [266. Going From Open API Specification To Development Portal](https://hackernoon.com/going-from-open-api-specification-to-development-portal-nuh3tpx)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fjxq2NPhPrNaH98TTyIM3XM4jNIp2-8b4h3unl.jpeg?alt=media&token=6ab067c9-1ef5-4ed5-8fa2-fa24760beb14)
-API Economy is taking off exponentially and its every business need to expose their digital services and assets in a secure way. I'll walkthrough in this article how one can take a API-first , design first approach to take into the account, the needs of API consumers and various steps that lead to creating a Developer Portal using all the tools that we've currently. Please note that these tools have alternatives in the market, but these are what got me to the goal post in the fastest way and case could differ for others.
+### [264. Exploring The Container Images Function in AWS Lambda ](https://hackernoon.com/exploring-the-container-images-function-in-aws-lambda-xs74358j)
+![](https://cdn.hackernoon.com/images/MoowvgXByKhrsYNQXw8IIrsd9y53-sd5i3f2s.jpeg)
+Have you ever wished you could combine the portability of containers, with the scalability of Lambda functions? Well, now you can!
+
+### [265. The ABC of DevOps Implementation with Containerization and Docker](https://hackernoon.com/the-abc-of-devops-implementation-with-containerization-and-docker-st1332l7)
+![](https://cdn.hackernoon.com/drafts/4qry32v0.png)
+DevOps is a rage in the IT industry. 
+
+### [266. HarperDB: Build Your Application Backend in One Place with Custom Functions](https://hackernoon.com/harperdb-build-your-application-backend-in-one-place-with-custom-functions)
+![](https://cdn.hackernoon.com/images/kqdibo10bvdfUwlY6kFF9HQZRpX2-se3835ij.png)
+Introducing the newest innovation from HarperDB: HarperDB Custom Functions. With the release of HarperDB 3.1 users are able to define their own API endpoints within HarperDB. What does that mean for you? HarperDB grows from a distributed database to a distributed application development platform with integrated persistence - one that can serve as a single solution for all of your backend needs. We’re collapsing the stack!
 
 ### [267. Auth in a React App with AWS: How Does It Really Work?](https://hackernoon.com/auth-in-a-react-app-with-aws-how-does-it-really-work)
 ![](https://cdn.hackernoon.com/images/jGfwSsAK0iRj1yWIK1Ik1RpJ4dW2-875932tj.jpeg)
 For this Tech Stack in 10, I'm diving into some best practices for using authentication in your full stack application with AWS Cognito, DynamoDB, and AppSync.
 
-### [268. HarperDB: Build Your Application Backend in One Place with Custom Functions](https://hackernoon.com/harperdb-build-your-application-backend-in-one-place-with-custom-functions)
-![](https://cdn.hackernoon.com/images/kqdibo10bvdfUwlY6kFF9HQZRpX2-se3835ij.png)
-Introducing the newest innovation from HarperDB: HarperDB Custom Functions. With the release of HarperDB 3.1 users are able to define their own API endpoints within HarperDB. What does that mean for you? HarperDB grows from a distributed database to a distributed application development platform with integrated persistence - one that can serve as a single solution for all of your backend needs. We’re collapsing the stack!
+### [268. Going From Open API Specification To Development Portal](https://hackernoon.com/going-from-open-api-specification-to-development-portal-nuh3tpx)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fjxq2NPhPrNaH98TTyIM3XM4jNIp2-8b4h3unl.jpeg?alt=media&token=6ab067c9-1ef5-4ed5-8fa2-fa24760beb14)
+API Economy is taking off exponentially and its every business need to expose their digital services and assets in a secure way. I'll walkthrough in this article how one can take a API-first , design first approach to take into the account, the needs of API consumers and various steps that lead to creating a Developer Portal using all the tools that we've currently. Please note that these tools have alternatives in the market, but these are what got me to the goal post in the fastest way and case could differ for others.
 
 ### [269. How To Use Ballerina in Azure Functions](https://hackernoon.com/how-to-use-ballerina-in-azure-functions-121c3urp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fl5zOLSJSCXbNFE632NiK1dIRRaI3-3el3u8e.jpeg?alt=media&token=aa0105bf-256c-4792-8866-6dc7b20e0f20)
 Ballerina since v1.2.5 has built-in support for Azure Functions. In this way, you can take a Ballerina function and expose it as a serverless function in Azure Functions. Azure Functions take on a unique approach in defining serverless functions with the function trigger and bindings concept. In this way, we can access other cloud services such as storage services (queue, blob, etc.), CosmosDB, Twillio, and timers right from the function itself without any additional connectors or authentication processes. We map our parameters and return types with these bindings, which provides us direct access to the resources.
 
-### [270. Real-Time Data Processing for  Analytical Use Cases: Is it Worth it?](https://hackernoon.com/real-time-data-processing-for-analytical-use-cases-is-it-worth-it-9b3g3703)
+### [270. Serverless Databases in 2024: The State of Serverless Solutions for Modern Apps](https://hackernoon.com/serverless-databases-in-2024-the-state-of-serverless-solutions-for-modern-apps)
+![](https://cdn.hackernoon.com/images/tVmgy1BFDcZK1c7Ty90Zue1TAN93-w9630un.png)
+Explore 2024's top serverless databases, ideal for modern app architectures, with insights on scaling, cost, and performance for developers and startups.
+
+### [271. Real-Time Data Processing for  Analytical Use Cases: Is it Worth it?](https://hackernoon.com/real-time-data-processing-for-analytical-use-cases-is-it-worth-it-9b3g3703)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-8i3k35oq.jpeg)
 How can you reap the benefits of a real-time processing with the least amount of architectural changes and maintenance effort? 
 
-### [271. Building Our E-Commerce Platform with Serverless FaaS](https://hackernoon.com/building-our-e-commerce-platform-with-serverless-faas)
+### [272. Building Our E-Commerce Platform with Serverless FaaS](https://hackernoon.com/building-our-e-commerce-platform-with-serverless-faas)
 ![](https://cdn.hackernoon.com/images/luNcoaJnkJhoplfHFMeY40nJYoJ3-ey036xk.jpeg)
 We built our e-commerce platform with AWS Lambda and other serverless technology. Herel's why we chose AWS Lambda and more on Serverless FaaS.
 
-### [272. AWS Re:Invent 2021: The Most Important Updates](https://hackernoon.com/aws-reinvent-2021-the-most-important-updates)
+### [273. AWS Re:Invent 2021: The Most Important Updates](https://hackernoon.com/aws-reinvent-2021-the-most-important-updates)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-6k037v5.jpeg)
 Find out what were the 22 most important serverless updates from re:Invent 2021. Announcements, updates and more - serverless edition >>
-
-### [273. Exploring The Container Images Function in AWS Lambda ](https://hackernoon.com/exploring-the-container-images-function-in-aws-lambda-xs74358j)
-![](https://cdn.hackernoon.com/images/MoowvgXByKhrsYNQXw8IIrsd9y53-sd5i3f2s.jpeg)
-Have you ever wished you could combine the portability of containers, with the scalability of Lambda functions? Well, now you can!
 
 ### [274. Are Your Lambda Functions Doomed To Fail?](https://hackernoon.com/are-your-lambda-functions-doomed-to-fail-c42y3wyl)
 ![](https://cdn.hackernoon.com/images/ol1y3wd6.jpg)
 AWS Lambda has a cool feature that can be both a blessing and a nightmare for a serverless application, depending on whether it’s properly handled by our code: the retry behavior.
 
-### [275. Serverless Databases in 2024: The State of Serverless Solutions for Modern Apps](https://hackernoon.com/serverless-databases-in-2024-the-state-of-serverless-solutions-for-modern-apps)
-![](https://cdn.hackernoon.com/images/tVmgy1BFDcZK1c7Ty90Zue1TAN93-w9630un.png)
-Explore 2024's top serverless databases, ideal for modern app architectures, with insights on scaling, cost, and performance for developers and startups.
-
-### [276. How To Unite AWS KMS with Serverless Application Model (SAM)](https://hackernoon.com/how-to-unite-aws-kms-with-serverless-application-model-sam-331b3uzq)
+### [275. How To Unite AWS KMS with Serverless Application Model (SAM)](https://hackernoon.com/how-to-unite-aws-kms-with-serverless-application-model-sam-331b3uzq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-4gf3um7.jpeg?alt=media&token=235f63ce-514e-4ba5-80f9-814319ea65a4)
 The Basics
 
-### [277. Assets Monitor as a Function](https://hackernoon.com/assets-monitor-as-a-function-g1323yg0)
+### [276. Assets Monitor as a Function](https://hackernoon.com/assets-monitor-as-a-function-g1323yg0)
 ![](https://cdn.hackernoon.com/images/1q7pu3y0f.jpg)
 In this article, I’ll show you how to create Assets Monitor with Python3.7 + Serverless lambda
 
-### [278. Serverless Developer Experience is Finally Great Thanks to Lambda Live Debugger](https://hackernoon.com/serverless-developer-experience-is-finally-great-thanks-to-lambda-live-debugger)
+### [277. Serverless Developer Experience is Finally Great Thanks to Lambda Live Debugger](https://hackernoon.com/serverless-developer-experience-is-finally-great-thanks-to-lambda-live-debugger)
 ![](https://cdn.hackernoon.com/images/RwYPjz6etYZ4yYi208OiyqdIPQI2-i003wae.jpeg)
 Lambda Live Debugger allows you to remotely debug AWS Lambda functions, eliminating the need for time-consuming redeployment.
 
 
 
-### [279. A Guide to Building Complex Serverless Infrastructures](https://hackernoon.com/a-guide-to-building-complex-serverless-infrastructures-464d330p)
+### [278. A Guide to Building Complex Serverless Infrastructures](https://hackernoon.com/a-guide-to-building-complex-serverless-infrastructures-464d330p)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-an3x3379.jpeg)
 In this article you'll find out how the AWS Well-Architected Framework came to be, how it evolved and how it should be implemented in 2021.
 
-### [280. If You Learn to Build Scalable Applications, You Can Change Your Career](https://hackernoon.com/if-you-learn-to-build-scalable-applications-you-can-change-your-career-u179328x)
+### [279. If You Learn to Build Scalable Applications, You Can Change Your Career](https://hackernoon.com/if-you-learn-to-build-scalable-applications-you-can-change-your-career-u179328x)
 ![](https://cdn.hackernoon.com/drafts/yc1f4326g.png)
 What we're up to
 
-### [281. 6 Use Cases to Drive Down Cost Using AWS Lambda](https://hackernoon.com/6-use-cases-to-drive-down-cost-using-aws-lambda)
+### [280. 6 Use Cases to Drive Down Cost Using AWS Lambda](https://hackernoon.com/6-use-cases-to-drive-down-cost-using-aws-lambda)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ff03n26.jpeg)
 AWS Lambda is an event-driven computing cloud with many uses. Here are some of the best AWS Lambda use cases >>
 
-### [282. How to Migrate to Serverless and Make it Work Post-Transition](https://hackernoon.com/how-to-migrate-to-serverless-and-make-it-work-post-transition-5y3i34nn)
+### [281. How to Migrate to Serverless and Make it Work Post-Transition](https://hackernoon.com/how-to-migrate-to-serverless-and-make-it-work-post-transition-5y3i34nn)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-1n3f33z0.jpeg)
 Migrating to serverless? Learn the steps and what to bear in mind in each stage, from preparation to migration and post-transition.
+
+### [282. Serverless Development: Addressing AWS Lambda-related Python Errors](https://hackernoon.com/serverless-development-addressing-aws-lambda-related-python-errors)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-ok136n4.png)
+In this article, you'll get an overview of the need-to-knows for error handling Python in AWS Lambda.
 
 ### [283. Get Better VMs, Containers and Serverless Computing Results By Following These Steps](https://hackernoon.com/get-better-vms-containers-and-serverless-computing-results-by-following-these-steps-ghj3wj1)
 ![](https://cdn.hackernoon.com/drafts/tp1pn3wzp.png)
 DEVELOP AND RUN APPLICATIONS WITHOUT THINKING ABOUT SERVERS
 
-### [284. Serverless Development: Addressing AWS Lambda-related Python Errors](https://hackernoon.com/serverless-development-addressing-aws-lambda-related-python-errors)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-ok136n4.png)
-In this article, you'll get an overview of the need-to-knows for error handling Python in AWS Lambda.
-
-### [285. The Future of Serverless API Development is Now](https://hackernoon.com/the-future-of-serverless-api-development-is-now)
+### [284. The Future of Serverless API Development is Now](https://hackernoon.com/the-future-of-serverless-api-development-is-now)
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-gcb3p3x.gif.webp)
 Today, we are excited to announce the launch of WunderGraph Cloud! Today, we are excited to announce the launch of WunderGraph Cloud! 
 
-### [286. AWS Core Services: Major Serverless Tools That You Should Use](https://hackernoon.com/aws-core-services-major-serverless-tools-that-you-should-use-zk293ui2)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-l01v3uet.gif?alt=media&token=a4c62782-036b-4369-938e-2bbc469cc688)
-When first looking into serverless migration and its architecture, it can feel like you’re staring down an endless shopping aisle of critical serverless tools that all need to be put into your basket straight away. Some services seem to offer the same function, while others can feel wildly different - both, as a result, can instill some doubts as to what is really necessary for your business and serverless application.
+### [285. Ask Your Logs Anything: Building a Conversational Interface with AWS Lambda and Bedrock](https://hackernoon.com/ask-your-logs-anything-building-a-conversational-interface-with-aws-lambda-and-bedrock)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-zu0231q.jpeg)
+What if you could simply ask, "What were the most common errors for the checkout service in the last 15 minutes?"
 
-### [287. Building 'The Builder' - The Road from Commit to Production in 13s](https://hackernoon.com/building-the-builder-the-road-from-commit-to-production-in-13s)
+### [286. Building 'The Builder' - The Road from Commit to Production in 13s](https://hackernoon.com/building-the-builder-the-road-from-commit-to-production-in-13s)
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-s1a3pfh.jpeg)
 How we built "The Builder": the challenges we faced and how to build a modern, reliable, and quick continuous integration and deployment system.
 
-### [288. Webiny v5 Update: DynamoDB, VPC  Support, and Performance Improvements](https://hackernoon.com/webiny-v5-update-dynamodb-vpc-support-and-performance-improvements-5c5w33kn)
-![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-fda3fke.jpeg)
-In the last 6 months, we put 100% of our focus on addressing this feedback and getting Webiny to the next level. Today we present the Webiny v5 release.
+### [287. AWS Core Services: Major Serverless Tools That You Should Use](https://hackernoon.com/aws-core-services-major-serverless-tools-that-you-should-use-zk293ui2)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-l01v3uet.gif?alt=media&token=a4c62782-036b-4369-938e-2bbc469cc688)
+When first looking into serverless migration and its architecture, it can feel like you’re staring down an endless shopping aisle of critical serverless tools that all need to be put into your basket straight away. Some services seem to offer the same function, while others can feel wildly different - both, as a result, can instill some doubts as to what is really necessary for your business and serverless application.
 
-### [289. How to Run DynamoDB Tables On A Budget](https://hackernoon.com/how-to-run-dynamodb-tables-on-a-budget-mj1k3u52)
+### [288. How to Run DynamoDB Tables On A Budget](https://hackernoon.com/how-to-run-dynamodb-tables-on-a-budget-mj1k3u52)
 ![](https://cdn.hackernoon.com/images/ed3r3woj.jpg)
 As we all know, the on-demand capacity mode of DynamoDB is great but can be cost-prohibitive in some cases (up to seven times more expensive than the Provisioned Capacity mode).
+
+### [289. Webiny v5 Update: DynamoDB, VPC  Support, and Performance Improvements](https://hackernoon.com/webiny-v5-update-dynamodb-vpc-support-and-performance-improvements-5c5w33kn)
+![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-fda3fke.jpeg)
+In the last 6 months, we put 100% of our focus on addressing this feedback and getting Webiny to the next level. Today we present the Webiny v5 release.
 
 ### [290. How to Package and Deploy Lambda Functions as Container Images](https://hackernoon.com/how-to-package-and-deploy-lambda-functions-as-container-images-xi2o33pt)
 ![](https://cdn.hackernoon.com/images/ZH4KDLliPahrd1Uge6E3YzICvtg2-jfj3f8g.jpeg)
 Ever wish you could combine the portability of containers, with the scalability of Lambda functions? Well now you can!
 
-### [291. 3 ways of recycling third-party code for AWS Lambda](https://hackernoon.com/3-ways-of-recycling-third-party-code-for-aws-lambda-s51h33jr)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-nt3533b6.jpeg)
-In this article, we're discussing AWS Lambda Layers, Lambda Extensions, and Docker image for Lambda. How and when to use which?
-
-### [292. What Does Serverless Have In Common With Nutella?](https://hackernoon.com/what-does-serverless-have-in-common-with-nutella-x21s3yjn)
+### [291. What Does Serverless Have In Common With Nutella?](https://hackernoon.com/what-does-serverless-have-in-common-with-nutella-x21s3yjn)
 ![](https://cdn.hackernoon.com/images/ze5z3wrn.jpg)
 There is an interesting discussion going on around how Serverless is more of a spectrum rather than a binary choice.
+
+### [292. 3 ways of recycling third-party code for AWS Lambda](https://hackernoon.com/3-ways-of-recycling-third-party-code-for-aws-lambda-s51h33jr)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-nt3533b6.jpeg)
+In this article, we're discussing AWS Lambda Layers, Lambda Extensions, and Docker image for Lambda. How and when to use which?
 
 ### [293. Use Declarative Cloud Functions In Your Serverless Apps To Control Size of Codebase](https://hackernoon.com/use-declarative-cloud-functions-in-your-serverless-apps-to-control-size-of-codebase-0r353yet)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0yof5hX3lTPVCGnSZ9t9v17gXNJ3-ue2z3uj0.webp?alt=media&token=82ac5f44-120b-469b-99aa-f12c8f697ac8)
 After more than two years of building serverless applications on Firebase and writing countless Cloud Functions, I realised a lot of it began to repeat.
 
-### [294. Resources and Tools by AWS That Can Help You Get Started for Free](https://hackernoon.com/resources-and-tools-by-aws-that-can-help-you-get-started-for-free)
-![](https://cdn.hackernoon.com/images/ujup7D8q7fRbBYK2h5Ij3CbTjR22-oj0368v.jpeg)
-In this article, we'll cover some tricks and tips to get started and keep using AWS for free.
-
-### [295. How To Implement Serverless Services and Run Chrome Headless in AWS Lambda](https://hackernoon.com/how-to-implement-serverless-services-and-run-chrome-headless-in-aws-lambda-u84735xl)
-![](https://cdn.hackernoon.com/images/WYCKut6VGlgd0BgDnp8DmGzNV682-6n3t33ge.jpeg)
-Learn what headless browsers are, what are the use cases, how to implement serverless services and run Chrome headless in AWS Lambda.
-
-### [296. WunderGraph's Integration with Fauna ](https://hackernoon.com/wundergraphs-integration-with-fauna)
+### [294. WunderGraph's Integration with Fauna ](https://hackernoon.com/wundergraphs-integration-with-fauna)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-nb93r0a.jpeg)
 Fauna is a distributed document-relational database delivered as a cloud API.
 
-### [297. What does API Gateway Encoding not Enabled mean?](https://hackernoon.com/what-does-api-gateway-encoding-not-enabled-mean-yk18333l)
+### [295. Resources and Tools by AWS That Can Help You Get Started for Free](https://hackernoon.com/resources-and-tools-by-aws-that-can-help-you-get-started-for-free)
+![](https://cdn.hackernoon.com/images/ujup7D8q7fRbBYK2h5Ij3CbTjR22-oj0368v.jpeg)
+In this article, we'll cover some tricks and tips to get started and keep using AWS for free.
+
+### [296. What does API Gateway Encoding not Enabled mean?](https://hackernoon.com/what-does-api-gateway-encoding-not-enabled-mean-yk18333l)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-8r10338w.jpeg)
 In this quick debugging article, you'll learn what does the error api gateway encoding not enabled mean, and how to handle or debug it.
 
-### [298. Serverless Benefits And Challenges: 2020 Edition](https://hackernoon.com/serverless-benefits-and-challenges-2020-edition-922t3une)
+### [297. How To Implement Serverless Services and Run Chrome Headless in AWS Lambda](https://hackernoon.com/how-to-implement-serverless-services-and-run-chrome-headless-in-aws-lambda-u84735xl)
+![](https://cdn.hackernoon.com/images/WYCKut6VGlgd0BgDnp8DmGzNV682-6n3t33ge.jpeg)
+Learn what headless browsers are, what are the use cases, how to implement serverless services and run Chrome headless in AWS Lambda.
+
+### [298. Serverless Playbook For Enterprises](https://hackernoon.com/serverless-playbook-for-enterprises-v91t33x6)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-e9k33k2.jpeg)
+We discuss quite a bit about going serverless for SMEs and startups, however it’s often those with an already huge infrastructure, such as enterprises, that can find the move and change daunting. We see many companies from the likes of Coca-Cola to Netflix managing it but what does it look like in action? In this article, we share some best practices and insights on the serverless designs that can scale massively and represent enterprise models. For a real life example, you can also check out how Shamrock Trading Corp migrated to serverless from a traditional cluster - psst, they’re also giving away their winning strategy for a smooth transition.
+
+### [299. Serverless Benefits And Challenges: 2020 Edition](https://hackernoon.com/serverless-benefits-and-challenges-2020-edition-922t3une)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-5nd3uiy.jpeg?alt=media&token=8b11b3d1-8e66-4693-94d2-853bfadb5757)
 While we know the many benefits of going serverless - reduced costs via pay-per-use pricing models, less operational burden/overhead, instant scalability, increased automation - the challenges are often not addressed as comprehensively. The understandable concerns over migrating can stop any architectural decisions and actions being made for fear of getting it wrong and not having the right resources. This article discusses the common concerns around going serverless and our advice to minimise their impact.
-
-### [299. The Great Serverless Cost Debate ](https://hackernoon.com/the-great-serverless-cost-debate-lc1435sf)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-j11i330y.jpeg)
-What is the actual cost of serverless? Worried about the cost of your Lambdas? Lower your serverless cost without slowing down your business.
 
 ### [300. 5 Reasons Why Open Source Vs. SaaS is A One-Sided Battle](https://hackernoon.com/5-reasons-why-open-source-vs-saas-is-a-one-sided-battle-734534bl)
 ![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-wn1y35xg.jpeg)
 Open Source Vs. SaaS is A One-Sided Battle
 
-### [301. The Internet Computer Provides a Solution to Platform Risk](https://hackernoon.com/the-internet-computer-provides-a-solution-to-platform-risk)
+### [301. The Great Serverless Cost Debate ](https://hackernoon.com/the-great-serverless-cost-debate-lc1435sf)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-j11i330y.jpeg)
+What is the actual cost of serverless? Worried about the cost of your Lambdas? Lower your serverless cost without slowing down your business.
+
+### [302. The Internet Computer Provides a Solution to Platform Risk](https://hackernoon.com/the-internet-computer-provides-a-solution-to-platform-risk)
 ![](https://cdn.hackernoon.com/images/f1dFpLZsnobhSbUnsjBPT5sofaz2-hva3pof.jpeg)
 The Internet Computer is a new computing platform that provides a unique solution to platform risk. 
-
-### [302. Securing Serverless Applications with Critical Logging](https://hackernoon.com/securing-serverless-applications-with-critical-logging)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-z8i35bt.jpeg)
-Serverless security: How important are logs to secure a serverless app? Here's what and how to log based on the industry best practices.
 
 ### [303. Once Upon a Time There Was Bare-Metal](https://hackernoon.com/once-upon-a-time-there-was-bare-metal-l3gh30ed)
 ![](https://cdn.hackernoon.com/drafts/bnco3wct.png)
 The story of how Serverless came to be.
 
-### [304. 3 Tools to Gain More Insights into Your AWS Lambda Functions](https://hackernoon.com/top-tools-for-monitoring-python-in-aws-lambda)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-1l036ch.jpeg)
-Comparison of top observability and debugging tools to help you monitor Python in AWS Lambda.
-
-### [305. Serverless Playbook For Enterprises](https://hackernoon.com/serverless-playbook-for-enterprises-v91t33x6)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-e9k33k2.jpeg)
-We discuss quite a bit about going serverless for SMEs and startups, however it’s often those with an already huge infrastructure, such as enterprises, that can find the move and change daunting. We see many companies from the likes of Coca-Cola to Netflix managing it but what does it look like in action? In this article, we share some best practices and insights on the serverless designs that can scale massively and represent enterprise models. For a real life example, you can also check out how Shamrock Trading Corp migrated to serverless from a traditional cluster - psst, they’re also giving away their winning strategy for a smooth transition.
-
-### [306. Streamlining Web App Development with Zipper: Write TypeScript and Offload Everything Else](https://hackernoon.com/streamlining-web-app-development-with-zipper-write-typescript-and-offload-everything-else)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-6x93zoj.jpeg)
-After reminiscing about the good-ole-days of Ruby on Rails, I discovered the Zipper platform and wanted to see just how quickly I could build something valuable
-
-### [307. Sizing Your Cloud Resources: 10 Common Mistakes to Avoid](https://hackernoon.com/sizing-your-cloud-resources-10-common-mistakes-to-avoid-rh2f330g)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-ke2n349z.jpeg)
-Learn the common pitfalls of moving to the cloud and how you can avoid them to truly benefit from the cloud’s elasticity.
-
-### [308. Code Green: The Pragmatist's Guide to Eco-Friendly DevOps ](https://hackernoon.com/code-green-the-pragmatists-guide-to-eco-friendly-devops)
+### [304. Code Green: The Pragmatist's Guide to Eco-Friendly DevOps ](https://hackernoon.com/code-green-the-pragmatists-guide-to-eco-friendly-devops)
 ![](https://cdn.hackernoon.com/images/uBPJHfpTqBSdrKmOZOTrgzm9Tq82-th13b8d.jpeg)
 Learn how Green DevOps makes software more efficient, cost-effective, and sustainable.
 
-### [309. Build a Wordle-like SMS game with Twilio Serverless in JavaScript](https://hackernoon.com/build-a-wordle-like-sms-game-with-twilio-serverless-in-javascript)
-![](https://cdn.hackernoon.com/images/5YwpwBNvs0SipOCzFMxDq9R7Svi2-av039mc.jpeg)
-Learn to build Twilio's just-for-fun homage to Wordle builder Josh Wardle. Did your web Wordle for the day? Keep busy until the next official Wordle via text
+### [305. Streamlining Web App Development with Zipper: Write TypeScript and Offload Everything Else](https://hackernoon.com/streamlining-web-app-development-with-zipper-write-typescript-and-offload-everything-else)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-6x93zoj.jpeg)
+After reminiscing about the good-ole-days of Ruby on Rails, I discovered the Zipper platform and wanted to see just how quickly I could build something valuable
 
-### [310. Exploring Serverless, Cloud, and On-Premises Architectures](https://hackernoon.com/exploring-serverless-cloud-and-on-premises-architectures)
+### [306. Securing Serverless Applications with Critical Logging](https://hackernoon.com/securing-serverless-applications-with-critical-logging)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-z8i35bt.jpeg)
+Serverless security: How important are logs to secure a serverless app? Here's what and how to log based on the industry best practices.
+
+### [307. Exploring Serverless, Cloud, and On-Premises Architectures](https://hackernoon.com/exploring-serverless-cloud-and-on-premises-architectures)
 ![](https://cdn.hackernoon.com/images/ISqbrAAUPfdfaQMQXQ5GUpyoJKl2-jt93soc.jpeg)
 Differences between most used infrastructure architectures for deploying applications, Cloud, On-Premises and Serverless.
 
-### [311. When (and why) to go 'Serverless'](https://hackernoon.com/when-and-why-to-go-serverless)
-![](https://cdn.hackernoon.com/images/dFW9aLMnLpgfjylixlaQdWQLp2C3-na33otu.jpeg)
-Serverless doesn’t mean operating an application without a server, it means that you can operate the app without having to manage a server. 
+### [308. 3 Tools to Gain More Insights into Your AWS Lambda Functions](https://hackernoon.com/top-tools-for-monitoring-python-in-aws-lambda)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-1l036ch.jpeg)
+Comparison of top observability and debugging tools to help you monitor Python in AWS Lambda.
+
+### [309. Sizing Your Cloud Resources: 10 Common Mistakes to Avoid](https://hackernoon.com/sizing-your-cloud-resources-10-common-mistakes-to-avoid-rh2f330g)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-ke2n349z.jpeg)
+Learn the common pitfalls of moving to the cloud and how you can avoid them to truly benefit from the cloud’s elasticity.
+
+### [310. How Cloud Functions for Machine Learning Can Become True](https://hackernoon.com/how-cloud-functions-for-machine-learning-can-become-true-fs1i31fa)
+![](https://cdn.hackernoon.com/images/fdg3pfHujyRJVjsQ5nY0dIKKFDB2-e31a3et2.jpeg)
+DeepMux recently announced GPU-powered serverless functions to make your MLOps (DevOps for ML) easier. Let’s talk about Cloud Functions and their use in Machine Learning!
+
+### [311. Build a Wordle-like SMS game with Twilio Serverless in JavaScript](https://hackernoon.com/build-a-wordle-like-sms-game-with-twilio-serverless-in-javascript)
+![](https://cdn.hackernoon.com/images/5YwpwBNvs0SipOCzFMxDq9R7Svi2-av039mc.jpeg)
+Learn to build Twilio's just-for-fun homage to Wordle builder Josh Wardle. Did your web Wordle for the day? Keep busy until the next official Wordle via text
 
 ### [312. How to 'Architect' an Easy Way into the Serverless World](https://hackernoon.com/how-to-architect-an-easy-way-into-the-serverless-world)
 ![](https://cdn.hackernoon.com/images/IByUZLciQMe9ow3DJp5LIJIGktj2-2203upl.jpeg)
 A easy way to jump to jump into the serverless world in AWS 
 
-### [313. How Cloud Functions for Machine Learning Can Become True](https://hackernoon.com/how-cloud-functions-for-machine-learning-can-become-true-fs1i31fa)
-![](https://cdn.hackernoon.com/images/fdg3pfHujyRJVjsQ5nY0dIKKFDB2-e31a3et2.jpeg)
-DeepMux recently announced GPU-powered serverless functions to make your MLOps (DevOps for ML) easier. Let’s talk about Cloud Functions and their use in Machine Learning!
+### [313. When (and why) to go 'Serverless'](https://hackernoon.com/when-and-why-to-go-serverless)
+![](https://cdn.hackernoon.com/images/dFW9aLMnLpgfjylixlaQdWQLp2C3-na33otu.jpeg)
+Serverless doesn’t mean operating an application without a server, it means that you can operate the app without having to manage a server. 
 
 ### [314. Better Failure Detection in Serverless Apps](https://hackernoon.com/better-failure-detection-in-serverless-apps)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-4g93lyd.jpeg)
@@ -1282,73 +1284,73 @@ If you ever find yourself deciding for or against serverless the following tries
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-mi93ylt.jpeg)
 Serverless Cloud allows you to build your applications without having to worry about the creation and management of cloud services. It does this by abstracting 
 
-### [317. Knowing These Secrets Will Turn Your Long-Running Workflows Into Something Amazing](https://hackernoon.com/knowing-these-secrets-will-turn-your-long-running-workflows-into-something-amazing-8rh3wh8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fl5zOLSJSCXbNFE632NiK1dIRRaI3-tm7c3u0w.jpeg?alt=media&token=dc989c39-9d4d-4244-a2ae-c7cf4a5ecc1b)
-Introduction
-
-### [318. Comparing Different Serverless Monitoring Platforms](https://hackernoon.com/comparing-different-serverless-monitoring-platforms-ms1u3u7y)
+### [317. Comparing Different Serverless Monitoring Platforms](https://hackernoon.com/comparing-different-serverless-monitoring-platforms-ms1u3u7y)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-qvu3unf.gif?alt=media&token=37d9dfa7-41a6-43e0-a4e1-55a166acdc88)
 Technology touches almost every corner of the world economy. Even when it’s an indirect relation, in many cases tech is an essential, vital part of our societies. It just can’t fail without causing too much distress and losses. Not only financially, but especially to the human aspect.
+
+### [318. Knowing These Secrets Will Turn Your Long-Running Workflows Into Something Amazing](https://hackernoon.com/knowing-these-secrets-will-turn-your-long-running-workflows-into-something-amazing-8rh3wh8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fl5zOLSJSCXbNFE632NiK1dIRRaI3-tm7c3u0w.jpeg?alt=media&token=dc989c39-9d4d-4244-a2ae-c7cf4a5ecc1b)
+Introduction
 
 ### [319. Why Learn Any Other Programming Language When You Can Learn Typescript?](https://hackernoon.com/why-learn-any-other-programming-language-when-you-can-learn-typescript)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-ua036gb.jpeg)
 Use TypeScript in all your projects and all use cases without any limitation. You can now do frontend, backend, infrastructure and machine learning in one progr
 
-### [320. A Case for Using Temporary Stacks when you do Serverless](https://hackernoon.com/why-you-should-use-temporary-stacks-when-you-do-serverless-py1re3qxu)
-![](https://cdn.hackernoon.com/drafts/fl1rc3qp3.png)
-One of the benefits of serverless is the pay-per-use pricing model you get from the platform. That is, if your code doesn’t run, you don’t pay for them!
-
-### [321. How Adopting Serverless is a Competitive Advantage for Your Business](https://hackernoon.com/how-adopting-serverless-is-a-competitive-advantage-for-your-business-1s3433zu)
+### [320. How Adopting Serverless is a Competitive Advantage for Your Business](https://hackernoon.com/how-adopting-serverless-is-a-competitive-advantage-for-your-business-1s3433zu)
 ![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-qk4836ix.jpeg)
 How could serverless help move your business faster and outpace competitors? With serverless, you don't need to worry about anything except your code.
+
+### [321. A Case for Using Temporary Stacks when you do Serverless](https://hackernoon.com/why-you-should-use-temporary-stacks-when-you-do-serverless-py1re3qxu)
+![](https://cdn.hackernoon.com/drafts/fl1rc3qp3.png)
+One of the benefits of serverless is the pay-per-use pricing model you get from the platform. That is, if your code doesn’t run, you don’t pay for them!
 
 ### [322. How to Save Hundreds of Hours on Lambda Debugging](https://hackernoon.com/how-to-save-hundreds-of-hours-on-lambda-debugging-5s1q319k)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-ffk31oz.jpeg)
 Lambda debugging can take hours to resolve. Learn these time-saving methods to quickly scan logs and errors in your Lambda functions
 
-### [323. When Dedicated DevOps is Not Available](https://hackernoon.com/when-dedicated-devops-is-not-available-lc763y8v)
-![](https://cdn.hackernoon.com/drafts/uas73yw5.png)
-With the rise of cloud computing and modern distributed systems, we also witnessed the rise of a new practice area: DevOps.
-
-### [324. Serverless Computing Benefits for DevOps: A BTS You Should Not Miss!](https://hackernoon.com/serverless-computing-benefits-for-devops-a-bts-you-should-not-miss)
+### [323. Serverless Computing Benefits for DevOps: A BTS You Should Not Miss!](https://hackernoon.com/serverless-computing-benefits-for-devops-a-bts-you-should-not-miss)
 ![](https://cdn.hackernoon.com/images/WXXGGd4rPWYhtAZUmeftwq2hnlC2-xui3gzb.jpeg)
 Serverless fits perfectly with DevOps and provides the edge over your competitors.
 
-### [325. 5 Compelling Reasons to Opt for Serverless containers On Google Cloud Run](https://hackernoon.com/why-use-google-cloud-run-here-are-5-compelling-reasons-to-opt-for-serverless-containers-g4v32vt)
-![](https://cdn.hackernoon.com/drafts/j42332zr.png)
-Google Cloud Run makes deploying stateless containers a breeze. It has a fully managed serverless version, which gives huge scalability, high availability and cost based on precise usage. Being serverless, there are no servers for us to manage. In addition to these awesome reasons, this post discusses 5 more compelling reasons to use Google Cloud Run with serverless conatiners for your next project and it just became generally available.
+### [324. I built a crypto monitoring app with serverless - this is how](https://hackernoon.com/i-built-a-crypto-monitoring-app-with-serverless-this-is-how-1u1d37x4)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-mb4d35ks.jpeg)
+Here's a quick development overview of how I built a cryptocurrency monitoring platform to help investors analyze the market.
+
+### [325. PresenceJS: The Simplest Way to Power Realtime Experience in My Collaborative Apps](https://hackernoon.com/presencejs-the-simplest-way-to-power-realtime-experience-in-my-collaborative-apps)
+![](https://cdn.hackernoon.com/images/JPB5EEJ8K8XjtpTaf4kTlj0WmoC3-dm93p4a.jpeg)
+Presencejs is a JavaScript library that enables the creation of real-time multiplayer/collaboration web applications that support WebTransport.
 
 ### [326. Connecting Event Bridges Across AWS Accounts: A How-To Guide](https://hackernoon.com/how-to-connect-event-bridges-across-2-aws-accounts)
 ![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-sa0364w.jpeg)
 Connecting Event Bridges Across AWS Accounts: A How-To Guide
 
-### [327. I built a crypto monitoring app with serverless - this is how](https://hackernoon.com/i-built-a-crypto-monitoring-app-with-serverless-this-is-how-1u1d37x4)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-mb4d35ks.jpeg)
-Here's a quick development overview of how I built a cryptocurrency monitoring platform to help investors analyze the market.
-
-### [328. Load Test Your Mobile Application API using Rungutan](https://hackernoon.com/load-test-your-mobile-application-api-using-rungutan-ee193utr)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-we83xae.jpeg)
-Load Testing a Mobile Platform
-
-### [329. DITL of a Software Engineer: On Working With Serverless Like](https://hackernoon.com/ditl-of-a-software-engineer-on-working-with-serverless-like-1kk3tl2)
+### [327. DITL of a Software Engineer: On Working With Serverless Like](https://hackernoon.com/ditl-of-a-software-engineer-on-working-with-serverless-like-1kk3tl2)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-6fc3uq5.jpeg?alt=media&token=9861e054-2215-45b6-b5fc-f853e6a87c0c)
 Want to know what actually goes on under the platform and behind the screens at Dashbird? We recently sat down for a Q&A with our CTO, Marek Tihkan, on leading and managing an engineering team. Today, we speak to Alex, one of the engineers on the Development team. In this Q&A Alex gives you his insights and some visibility into what his days are like, and shares his perspective as a developer on working with serverless and the learning curves of this new way of computing.
 
-### [330. PresenceJS: The Simplest Way to Power Realtime Experience in My Collaborative Apps](https://hackernoon.com/presencejs-the-simplest-way-to-power-realtime-experience-in-my-collaborative-apps)
-![](https://cdn.hackernoon.com/images/JPB5EEJ8K8XjtpTaf4kTlj0WmoC3-dm93p4a.jpeg)
-Presencejs is a JavaScript library that enables the creation of real-time multiplayer/collaboration web applications that support WebTransport.
+### [328. When Dedicated DevOps is Not Available](https://hackernoon.com/when-dedicated-devops-is-not-available-lc763y8v)
+![](https://cdn.hackernoon.com/drafts/uas73yw5.png)
+With the rise of cloud computing and modern distributed systems, we also witnessed the rise of a new practice area: DevOps.
 
-### [331. How To Do Data Mapping in Kumologica](https://hackernoon.com/how-to-do-data-mapping-in-kumologica-5eq3uwf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7wyJfrZkKUSC50eZ7cAqeB7Kriz2-doc3umv.webp?alt=media&token=edd19fb7-b5ae-4712-a36d-d1e0ef7f5dcc)
-Data mapping is a key element in integration. Most of the prominent integration tools provide different capabilities for data mapping. In this article I thought of sharing on how data mapping can be achieved in Kumologica. Kumologica uses JSONata as the base for data mapping. JSONata is a Lightweight query and transformation language for JSON data. It supports complex queries expression which can be achieved with minimal syntax and has a location path semantics of Xpath 3.1.
+### [329. Load Test Your Mobile Application API using Rungutan](https://hackernoon.com/load-test-your-mobile-application-api-using-rungutan-ee193utr)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-we83xae.jpeg)
+Load Testing a Mobile Platform
 
-### [332. How Migrating to Serverless Gave Square Enix, Autodesk, and FINRA Big Business Benefits](https://hackernoon.com/how-migrating-to-serverless-gave-square-enix-autodesk-and-finra-big-business-benefits)
+### [330. 5 Compelling Reasons to Opt for Serverless containers On Google Cloud Run](https://hackernoon.com/why-use-google-cloud-run-here-are-5-compelling-reasons-to-opt-for-serverless-containers-g4v32vt)
+![](https://cdn.hackernoon.com/drafts/j42332zr.png)
+Google Cloud Run makes deploying stateless containers a breeze. It has a fully managed serverless version, which gives huge scalability, high availability and cost based on precise usage. Being serverless, there are no servers for us to manage. In addition to these awesome reasons, this post discusses 5 more compelling reasons to use Google Cloud Run with serverless conatiners for your next project and it just became generally available.
+
+### [331. How Migrating to Serverless Gave Square Enix, Autodesk, and FINRA Big Business Benefits](https://hackernoon.com/how-migrating-to-serverless-gave-square-enix-autodesk-and-finra-big-business-benefits)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-qu0372d.jpeg)
 Bigger companies are notorious for moving slow, but here's a case for why they should make the switch to serverless ASAP.
 
-### [333. Internal AWS Monitoring is Hard to Grasp](https://hackernoon.com/internal-aws-monitoring-is-hard-to-grasp-fh2533zt)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-zp3333b5.jpeg)
-Learm how a serverless monitoring solution can catch problems for you without the painful learning curve connected to serverless failure detection.
+### [332. Client-Dominant Orchestration for Browser Automation on the Free Tier](https://hackernoon.com/client-dominant-orchestration-for-browser-automation-on-the-free-tier)
+![](https://cdn.hackernoon.com/images/0I471hTLSQbc4X9w3pQl0XKLFRt1-s483esx.png)
+How to build browser automation on free-tier infrastructure. Why server-side orchestration fails and how shifting the control loop client-side reduces costs.
+
+### [333. How To Do Data Mapping in Kumologica](https://hackernoon.com/how-to-do-data-mapping-in-kumologica-5eq3uwf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7wyJfrZkKUSC50eZ7cAqeB7Kriz2-doc3umv.webp?alt=media&token=edd19fb7-b5ae-4712-a36d-d1e0ef7f5dcc)
+Data mapping is a key element in integration. Most of the prominent integration tools provide different capabilities for data mapping. In this article I thought of sharing on how data mapping can be achieved in Kumologica. Kumologica uses JSONata as the base for data mapping. JSONata is a Lightweight query and transformation language for JSON data. It supports complex queries expression which can be achieved with minimal syntax and has a location path semantics of Xpath 3.1.
 
 ### [334. A Serverless Perspective on HTTP API Gateway ](https://hackernoon.com/a-serverless-perspective-on-http-api-gateway)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-80b3h6g.jpeg)
@@ -1362,91 +1364,99 @@ Amy Tom talks to Pavel Desjnuk, Co-founder and CTO of Webiny, and Richard Kubina
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-6r03akx.jpeg)
 Learn all about AWS Lambda, an Amazon serverless computing system that features a custom back-end service and real-time data processing >>
 
-### [337. Overcoming the Challenges of Using a Serverless Stack](https://hackernoon.com/overcoming-the-challenges-of-using-a-serverless-stack)
-![](https://cdn.hackernoon.com/images/JVuR2U7vEzdHAibZhEVpkxrPcq62-h3a3lqh.gif.webp)
-In this article, I want to share a few challenges I've encountered while working with a serverless stack on AWS Lambda.
-
-### [338. An Introduction to the appfleet Edge Computing Platform](https://hackernoon.com/an-introduction-to-the-appfleet-edge-computing-platform-y34833c4)
+### [337. An Introduction to the appfleet Edge Computing Platform](https://hackernoon.com/an-introduction-to-the-appfleet-edge-computing-platform-y34833c4)
 ![](https://cdn.hackernoon.com/images/uFlbm8p3AwffJ7hjxshTOT66TIA2-094g33ps.jpeg)
 A new edge compute platform goes live. appfleet allows users to deploy containers and applications to multiple global regions
 
-### [339. Getting Down and Dirty with Metric-based Alerting for AWS Lambda](https://hackernoon.com/getting-down-and-dirty-with-metric-based-alerting-for-aws-lambda)
+### [338. Internal AWS Monitoring is Hard to Grasp](https://hackernoon.com/internal-aws-monitoring-is-hard-to-grasp-fh2533zt)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-zp3333b5.jpeg)
+Learm how a serverless monitoring solution can catch problems for you without the painful learning curve connected to serverless failure detection.
+
+### [339. Overcoming the Challenges of Using a Serverless Stack](https://hackernoon.com/overcoming-the-challenges-of-using-a-serverless-stack)
+![](https://cdn.hackernoon.com/images/JVuR2U7vEzdHAibZhEVpkxrPcq62-h3a3lqh.gif.webp)
+In this article, I want to share a few challenges I've encountered while working with a serverless stack on AWS Lambda.
+
+### [340. Getting Down and Dirty with Metric-based Alerting for AWS Lambda](https://hackernoon.com/getting-down-and-dirty-with-metric-based-alerting-for-aws-lambda)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-c693lc3.jpeg)
 Discover how to set up metric-based alarms for AWS Lambda functions. See how to do it in CloudWatch vs Dashbird.
 
-### [340. I Know What You Did Last Summer (With Glitch and Cloudflare)](https://hackernoon.com/i-know-what-you-did-last-summer-with-glitch-and-cloudflare)
+### [341. The Importance of Security in PaaS](https://hackernoon.com/the-importance-of-security-in-paas)
+![](https://cdn.hackernoon.com/images/cGfg9TlH1bgGje7eIzVSvxyMCMn2-ega2khg.jpeg)
+PaaS and Security? Let's take a look at different cybersecurity protocols and mechanisms that PaaS products incorporate for themselves and the end user.
+
+### [342. I Know What You Did Last Summer (With Glitch and Cloudflare)](https://hackernoon.com/i-know-what-you-did-last-summer-with-glitch-and-cloudflare)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ql93nl9.jpeg)
 Using a Markov chain to generate spooky movie titles!
-
-### [341. How Serverless Empowered Us to Accomplish More with Less](https://hackernoon.com/how-serverless-empowered-us-to-accomplish-more-with-less)
-![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-rc1f35gy.jpeg)
-We explore how we use Serverless at Courier, review some Serverless basics, and show how Serverless has empowered our team to accomplish more w
-
-### [342. "Continuous Learning, Growth & Preparation for New Challenges is the Main Motivator" - Marek Tihkan](https://hackernoon.com/continuous-learning-growth-and-preparation-for-new-challenges-is-the-main-motivator-marek-tihkan-bp1s3xf0)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-tio3u8k.jpeg?alt=media&token=8bcb4940-a0d1-4c79-922c-51a1273f5da6)
-Today's interview is with Marek Tihkan, CTO at Dashbird talking all about Dev team leadership and management.
 
 ### [343. Why the AWS Console Isn’t the Best for Serverless Debugging](https://hackernoon.com/why-the-aws-console-isnt-the-best-for-serverless-debugging-391e34nk)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-4qf31dj.jpeg)
 Debugging and troubleshooting in AWS Console is hard and time-consuming. Here's a few reasons why you should stop digging around in Cloudwatch. 
 
-### [344. The Importance of Security in PaaS](https://hackernoon.com/the-importance-of-security-in-paas)
-![](https://cdn.hackernoon.com/images/cGfg9TlH1bgGje7eIzVSvxyMCMn2-ega2khg.jpeg)
-PaaS and Security? Let's take a look at different cybersecurity protocols and mechanisms that PaaS products incorporate for themselves and the end user.
+### [344. How Serverless Empowered Us to Accomplish More with Less](https://hackernoon.com/how-serverless-empowered-us-to-accomplish-more-with-less)
+![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-rc1f35gy.jpeg)
+We explore how we use Serverless at Courier, review some Serverless basics, and show how Serverless has empowered our team to accomplish more w
 
-### [345. 6 Common DynamoDB Issues in 2022](https://hackernoon.com/6-common-dynamodb-issues-in-2022)
+### [345. "Continuous Learning, Growth & Preparation for New Challenges is the Main Motivator" - Marek Tihkan](https://hackernoon.com/continuous-learning-growth-and-preparation-for-new-challenges-is-the-main-motivator-marek-tihkan-bp1s3xf0)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-tio3u8k.jpeg?alt=media&token=8bcb4940-a0d1-4c79-922c-51a1273f5da6)
+Today's interview is with Marek Tihkan, CTO at Dashbird talking all about Dev team leadership and management.
+
+### [346. 6 Common DynamoDB Issues in 2022](https://hackernoon.com/6-common-dynamodb-issues-in-2022)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-5c93l3q.jpeg)
 It’s expected that developers face many of the same issues when starting their NoSQL journey with DynamoDB. This article might clear things up a bit.
 
-### [346. How can a shared Slack channel improve your data quality?](https://hackernoon.com/how-can-a-shared-slack-channel-improve-your-data-quality-d41i34ft)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-g43z34v0.jpeg)
-Improve your data quality: how simple process adjustments can increase the team’s engagement and how to leverage the power of automation.
-
-### [347. A Serverless Perspective on AWS Elastic Load Balancing ](https://hackernoon.com/aws-elastic-load-balancing-from-a-serverless-perspective)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-5h03igy.jpeg)
-Everything you need to know about AWS Application Load Balancer (ALB) and whether or not it would be a good alternative to an API Gateway. 
+### [347. Introductory Guide to Debugging Lambda Configuration Errors](https://hackernoon.com/introductory-guide-to-debugging-lambda-configuration-errors-eb2f339d)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-szm33p0.jpeg)
+The “Lambda configuration error” is as generic as it gets but at the end of the day, it's a pathing issue. Let's go over how to resolve this.
 
 ### [348. [ANN] Serverless Kubernetes Solution For Cloud-Native Apps by CTO.ai](https://hackernoon.com/ann-serverless-kubernetes-solution-for-cloud-native-apps-by-ctoai-s91p35hs)
 ![](https://hackernoon.com/images/VbyOuCOJPVbs4QcHWiytST8wTcZ2-p9153fkm.png)
 CTO.ai Launches Serverless Kubernetes Platform for Managing Cloud Native Apps
 
-### [349. Introductory Guide to Debugging Lambda Configuration Errors](https://hackernoon.com/introductory-guide-to-debugging-lambda-configuration-errors-eb2f339d)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-szm33p0.jpeg)
-The “Lambda configuration error” is as generic as it gets but at the end of the day, it's a pathing issue. Let's go over how to resolve this.
+### [349. A Serverless Perspective on AWS Elastic Load Balancing ](https://hackernoon.com/aws-elastic-load-balancing-from-a-serverless-perspective)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-5h03igy.jpeg)
+Everything you need to know about AWS Application Load Balancer (ALB) and whether or not it would be a good alternative to an API Gateway. 
 
-### [350. You’ve Been Thinking of Serverless All Wrong!](https://hackernoon.com/do-you-really-understand-serverless)
+### [350. Batch Inference: The 50% Cost Cut You Keep Putting Off](https://hackernoon.com/batch-inference-the-50percent-cost-cut-you-keep-putting-off)
+![](https://cdn.hackernoon.com/images/a6YE7DZhy3cw6MEiRJJXNjf3Sb32-sy03e3t.png)
+Most providers offer 50% off on batch inference. Two serverless patterns to actually use it: SQS polling for any provider, EventBridge for Bedrock. 
+
+### [351. How can a shared Slack channel improve your data quality?](https://hackernoon.com/how-can-a-shared-slack-channel-improve-your-data-quality-d41i34ft)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-g43z34v0.jpeg)
+Improve your data quality: how simple process adjustments can increase the team’s engagement and how to leverage the power of automation.
+
+### [352. You’ve Been Thinking of Serverless All Wrong!](https://hackernoon.com/do-you-really-understand-serverless)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-g493hh6.jpeg)
 Serverless in enterprise success stories. Why should enterprise move to serverless? What's important to enterprise in serverless. 
 
-### [351. Packing AWS SDK in Deployment Artefact - Does it Help to Your Infrastructure](https://hackernoon.com/should-you-pack-the-aws-sdk-in-your-deployment-artefact-u5k3taj)
+### [353. Packing AWS SDK in Deployment Artefact - Does it Help to Your Infrastructure](https://hackernoon.com/should-you-pack-the-aws-sdk-in-your-deployment-artefact-u5k3taj)
 ![](https://cdn.hackernoon.com/drafts/33623t54.png)
 A version of the AWS SDK is always bundled into the Lambda runtime for your language. So the conventional wisdom says you don’t need to include it in your deployment artefact.
 
-### [352. Redefining Serverless: A Change in Approach and Architecture](https://hackernoon.com/redefining-serverless-a-change-in-approach-and-architecture-0v5s37zt)
+### [354. Redefining Serverless: A Change in Approach and Architecture](https://hackernoon.com/redefining-serverless-a-change-in-approach-and-architecture-0v5s37zt)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-6lz3245.jpeg)
 Serverless is a fantastic way of building applications, but there is a lot more to consider than simply Lambda functions.
 
-### [353. Creating a Marvel 'Guess The Decade' Game Using Alpine.js](https://hackernoon.com/creating-a-marvel-guess-the-decade-game-using-alpinejs)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-cfa3mw4.jpeg)
-Guess the Marvel Decade using Alpine.js and Cloudflare workers.
-
-### [354. Noonie Nominee Simona Cotin is a Cloud Developer Advocate at Microsoft ](https://hackernoon.com/simona-cotin-2020-noonie-nominee-for-serverless-vf2d3ubg)
+### [355. Noonie Nominee Simona Cotin is a Cloud Developer Advocate at Microsoft ](https://hackernoon.com/simona-cotin-2020-noonie-nominee-for-serverless-vf2d3ubg)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-7q1x3udt.jpeg?alt=media&token=cbffcc80-3e0e-45ce-ab98-1e9ae205d716)
 Simona Cotin from the United Kingdom is a 2020 Noonie nominee in the Software Development category. Simona is a developer who has a passion for teaching others. Scroll on through for their take on what’s trending in tech today.
 
-### [355. How to sample AppSync resolver logs](https://hackernoon.com/how-to-sample-appsync-resolver-logsarthur-qtn3tb9)
+### [356. Creating a Marvel 'Guess The Decade' Game Using Alpine.js](https://hackernoon.com/creating-a-marvel-guess-the-decade-game-using-alpinejs)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-cfa3mw4.jpeg)
+Guess the Marvel Decade using Alpine.js and Cloudflare workers.
+
+### [357. How to sample AppSync resolver logs](https://hackernoon.com/how-to-sample-appsync-resolver-logsarthur-qtn3tb9)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYjziSuGeDecNvCZR0j4bivrb6V13-aud3t3u.jpeg?alt=media&token=d9395918-9754-4e35-bddd-548a46ea3887)
 AppSync has built-in logging integration with CloudWatch Logs (see here for more details on the logging options).
 
-### [356. Scale Your Serverless App with Dashbird's New Features](https://hackernoon.com/scale-your-serverless-app-with-dashbirds-new-features-vq31317f)
+### [358. Scale Your Serverless App with Dashbird's New Features](https://hackernoon.com/scale-your-serverless-app-with-dashbirds-new-features-vq31317f)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-gk8o31jq.jpeg)
 A recap of all Dashbird's enhanced serverless observability and troubleshooting feature releases in 2020.
 
-### [357. Casing Can Break Netlify Functions: Here's How](https://hackernoon.com/casing-can-break-netlify-functions-heres-how)
+### [359. Casing Can Break Netlify Functions: Here's How](https://hackernoon.com/casing-can-break-netlify-functions-heres-how)
 ![](https://cdn.hackernoon.com/images/GWHX2lBFLbMSZ4olDc5OKN28T0h1-hz93r8k.jpeg)
 It may not be apparent when you're working on it locally, but quirks such as this one on Netlify can throw a wrench into your application deployed in prod.
 
-### [358. Serverless Galore - 3 Open Source Libraries Compared](https://hackernoon.com/serverless-galore-3-open-source-libraries-compared-361n3z3d)
+### [360. Serverless Galore - 3 Open Source Libraries Compared](https://hackernoon.com/serverless-galore-3-open-source-libraries-compared-361n3z3d)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3H10k7A6NSSALMDNwPGn8WkaQHB2-xd5a251b.jpeg?alt=media&token=6d3b5dc5-1bb0-44e6-855c-5b125fbacc4d)
 Serverless technologies are having a major impact on the world of computing. They allow IT teams to dynamically scale computing resources without directly administering computing power and storage. 
 

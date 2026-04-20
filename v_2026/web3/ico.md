@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ico](https://hackernoon.com/tagged/ico)
+### Let's learn about [Ico](https://hackernoon.com/tagged/ico) via these 78 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Talk-in' 'bout, hey now hey now I-ko, I-ko, un-day
 Jock-a-mo fee-no ai na-né, jock-a-mo fee na-né
 Look at my king all dressed in red I-ko, I-ko, un-day
@@ -100,13 +102,13 @@ Imagine you are the ruler of a small country. All residents of your country use 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPSgoueQKzPakMmLWu6rewqpcy963-cp1u3t2j.jpeg?alt=media&token=d29b62fa-a693-4806-baa3-9196c1a90b38)
 Bitcoin is the main cryptocurrency many people know, understand, and are familiar with. It is also one of the few digital currencies that has no individual or group that is in charge of the blockchain project. What has come about since Bitcoin was created is a cryptocurrency ecosystem where there are a number of companies in charge of blockchain token projects.
 
-### [24. On Building a Strong Founding Team](https://hackernoon.com/on-building-a-strong-founding-team-50e0a4950004)
-![]()
-William A. Sahlman of Harvard Business School famously insists that most business plans waste too much ink on numbers while not paying attention to what matters most: the team.
-
-### [25. Is Binance Launchpad a Breeding Ground for Pump and Dumps?](https://hackernoon.com/binance-launchpad-is-a-breeding-ground-for-pump-and-dumps-9y2q2e9t)
+### [24. Is Binance Launchpad a Breeding Ground for Pump and Dumps?](https://hackernoon.com/binance-launchpad-is-a-breeding-ground-for-pump-and-dumps-9y2q2e9t)
 ![](https://cdn.hackernoon.com/drafts/dw3j2elu.png)
 Back in 2017, Initial Coin Offerings (ICOs) were all the rave. Much like Initial Public Offerings, (IPO), ICOs act as a way to raise funds by selling a quantity of cryptocurrency in the form of coins to speculators and investors. 
+
+### [25. On Building a Strong Founding Team](https://hackernoon.com/on-building-a-strong-founding-team-50e0a4950004)
+![]()
+William A. Sahlman of Harvard Business School famously insists that most business plans waste too much ink on numbers while not paying attention to what matters most: the team.
 
 ### [26. 4 Hurdles Stopping Institutional Investors From Investing in Cryptocurrency](https://hackernoon.com/4-hurdles-stopping-institutional-investors-from-investing-in-cryptocurrency-b08eab5b649a)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-1403bvk.png)
@@ -161,13 +163,13 @@ I think the ICO run is past us. We will not see a crazy market like we did in 20
 ![](https://cdn.hackernoon.com/drafts/3w6og46v0.png)
 When you work in the blockchain space, you'll hear one question again and again, whether it's from your barber, your friends, or a social media DM:
 
-### [39. Founder Interviews: Mohammad Mazen of Burency](https://hackernoon.com/founder-interviews-mohammad-mazen-of-burency-jh5m17yg)
-![](https://cdn.hackernoon.com/drafts/f1ge17ks.png)
-It is no longer a secret that the United Arab Emirates are technology pioneers, and their action plan for the development of Blockchain technology within companies and government has become a clear priority. 
-
-### [40. Top 3 Things You Need to Know About Initial Game Offerings (IGOs)](https://hackernoon.com/top-3-things-you-need-to-know-about-initial-game-offerings-igos)
+### [39. Top 3 Things You Need to Know About Initial Game Offerings (IGOs)](https://hackernoon.com/top-3-things-you-need-to-know-about-initial-game-offerings-igos)
 ![](https://cdn.hackernoon.com/images/5rS4yrERbxUtfUCTsrb3x2kieP32-ae93uce.jpeg)
 IGO become one of the latest crypto trends in the crypto space with the rise of blockchain games or GameFi, and here are top 3 things you need to know about it.
+
+### [40. Founder Interviews: Mohammad Mazen of Burency](https://hackernoon.com/founder-interviews-mohammad-mazen-of-burency-jh5m17yg)
+![](https://cdn.hackernoon.com/drafts/f1ge17ks.png)
+It is no longer a secret that the United Arab Emirates are technology pioneers, and their action plan for the development of Blockchain technology within companies and government has become a clear priority. 
 
 ### [41. MO’s Algorithm: Efficient Way to Solve Offline Range Query Problems](https://hackernoon.com/mos-algorithm-efficient-way-to-solve-offline-range-query-problems-30s3u6d)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJnDkD1wyIndod2MhViUhOnomVJf2-xq5m3ut8.jpeg?alt=media&token=8d65ec79-15fa-42a0-b4d1-a8a3c32c7bdb)
@@ -232,14 +234,14 @@ It is no secret that Crowdfunding hold a tremendous potential in helping entrepr
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F64gRyxfPdyTNOLGKRhR5zPLsg782-e5r3ykp.jpeg?alt=media&token=fe401921-ba76-41a6-a087-ecc80216e286)
 One popular narrative about 2017's ICO mania says it was fueled by naive investors duped into throwing money at projects that were either incapable or had no intention, of delivering. 
 
-### [56. How To Identify Scam ICOs](https://hackernoon.com/how-to-identify-scam-icos-zsue32d2)
-![](https://cdn.hackernoon.com/drafts/d0d33wc2.png)
-Scammers are nothing new. They have been around us for ages utilizing different mediums and resources to set traps. Progressing civilization and advancement in technologies create different loopholes that later get exploited and we, the people, pay the price. Crypto is one such universe, full of scams that are hard to spot.
-
-### [57. Securing Crypto Funding for Your Project: A Comprehensive Guide](https://hackernoon.com/securing-crypto-funding-for-your-project-a-comprehensive-guide)
+### [56. Securing Crypto Funding for Your Project: A Comprehensive Guide](https://hackernoon.com/securing-crypto-funding-for-your-project-a-comprehensive-guide)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-u193pec.jpeg)
 There are various avenues available for obtaining crypto funding, and Obyte is also up to support new projects.
 
+
+### [57. How To Identify Scam ICOs](https://hackernoon.com/how-to-identify-scam-icos-zsue32d2)
+![](https://cdn.hackernoon.com/drafts/d0d33wc2.png)
+Scammers are nothing new. They have been around us for ages utilizing different mediums and resources to set traps. Progressing civilization and advancement in technologies create different loopholes that later get exploited and we, the people, pay the price. Crypto is one such universe, full of scams that are hard to spot.
 
 ### [58. Looking Back At ICOs At The Time Of The DeFi Hype Train](https://hackernoon.com/looking-back-at-icos-at-the-time-of-the-defi-hype-train-us253wj9)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsZgLpNbOPtQFz0sTBASstUpb7kG2-sc83ufb.jpeg?alt=media&token=d864865a-6c0c-49de-b9f6-9c7daac584d2)
@@ -257,13 +259,13 @@ The $1 million raised is accompanied by the growth of Bitbot's social media pres
 ![](https://cdn.hackernoon.com/images/github/ico-226.png)
 Learn everything you need to know about Ico via these 57 free HackerNoon stories.
 
-### [62. Raising Funds for Blockchain Projects is a Long and Winding Road](https://hackernoon.com/raising-funds-for-blockchain-projects-is-a-long-and-winding-road)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-2vbs3o6x.jpeg)
-Raising funding for blockchain projects presents many challenges. This article lists some of them. 
-
-### [63. 39 Stories To Learn About Ieo](https://hackernoon.com/39-stories-to-learn-about-ieo)
+### [62. 39 Stories To Learn About Ieo](https://hackernoon.com/39-stories-to-learn-about-ieo)
 ![](https://cdn.hackernoon.com/images/github/ieo-285.png)
 Learn everything you need to know about Ieo via these 39 free HackerNoon stories.
+
+### [63. Raising Funds for Blockchain Projects is a Long and Winding Road](https://hackernoon.com/raising-funds-for-blockchain-projects-is-a-long-and-winding-road)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-2vbs3o6x.jpeg)
+Raising funding for blockchain projects presents many challenges. This article lists some of them. 
 
 ### [64. Meme Tokens 2.0 or ICO 2.0?](https://hackernoon.com/meme-tokens-20-or-ico-20)
 ![](https://cdn.hackernoon.com/images/qBZq73HhSLQtjvqsxkxnF8XO8Ok1-9m120u0.png)
@@ -289,13 +291,13 @@ In 2017, the Initial Coin Offering (ICO) exploded onto the global scene and upen
 ![](https://cdn.hackernoon.com/drafts/5g2073z94.png)
 It is the year of the Lord of 2017.
 
-### [70. 13 Stories To Learn About Sto](https://hackernoon.com/13-stories-to-learn-about-sto)
-![](https://cdn.hackernoon.com/images/github/sto-67.png)
-Learn everything you need to know about Sto via these 13 free HackerNoon stories.
-
-### [71. Wall Street is Experiencing a Wave of Crypto IPOs as Trump Policies Embolden More to Go Public](https://hackernoon.com/wall-street-is-experiencing-a-wave-of-crypto-ipos-as-trump-policies-embolden-more-to-go-public)
+### [70. Wall Street is Experiencing a Wave of Crypto IPOs as Trump Policies Embolden More to Go Public](https://hackernoon.com/wall-street-is-experiencing-a-wave-of-crypto-ipos-as-trump-policies-embolden-more-to-go-public)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-sn03cwz.jpeg)
 US markets are braced for a new wave of crypto initial public offerings as President Trump’s positive outlook for cryptocurrencies is driving adoption.
+
+### [71. 13 Stories To Learn About Sto](https://hackernoon.com/13-stories-to-learn-about-sto)
+![](https://cdn.hackernoon.com/images/github/sto-67.png)
+Learn everything you need to know about Sto via these 13 free HackerNoon stories.
 
 ### [72. Mr. Market Meets Mr. ICO](https://hackernoon.com/mr-market-meets-mr-ico-991j349s)
 ![](https://cdn.hackernoon.com/images/nCjPVMzJEoha3rm2GwGMXZ8LzKm2-a8a39t9.jpeg)
@@ -303,13 +305,13 @@ US markets are braced for a new wave of crypto initial public offerings as Presi
 	Ben Graham was a towering intellect. He wrote a book which has inspired legions of hedge fund managers and smaller investors to wealth, and quite interestingly, they all took the basic concepts laid out in this book, but applied them in radically different ways. Warren Buffett is Ben Graham’s best known pupil, but there are legions of others, the so-called “Super Investors of Graham and Doddsville”.
 
 
-### [73. Reverse ICOs, Full Steam Ahead](https://hackernoon.com/reverse-icos-full-steam-ahead-a16d2a487256)
-![](https://hackernoon.com/hn-images/1*TN8DTpeV9-VDe0Yg-RA3BQ.jpeg)
-When the <a href="http://benjacoin.com" target="_blank">benjaCoin</a> sale was announced, we spoke about the benefit of bringing our existing business and its partners to the <a href="https://hackernoon.com/tagged/ico" target="_blank">ICO</a> market. We talked about how this would offer a shorter path to a usable, stable, and meaningful token.
-
-### [74. First Bitcoin Blockchain ICO Rockets Past $5M Milestone](https://hackernoon.com/first-bitcoin-blockchain-ico-rockets-past-$5m-milestone)
+### [73. First Bitcoin Blockchain ICO Rockets Past $5M Milestone](https://hackernoon.com/first-bitcoin-blockchain-ico-rockets-past-$5m-milestone)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-pp833a0.jpeg)
 The ICO is covering fresh territory: no BRC-20 token on the BTC blockchain has been available for public presale until now. 
+
+### [74. Reverse ICOs, Full Steam Ahead](https://hackernoon.com/reverse-icos-full-steam-ahead-a16d2a487256)
+![](https://hackernoon.com/hn-images/1*TN8DTpeV9-VDe0Yg-RA3BQ.jpeg)
+When the <a href="http://benjacoin.com" target="_blank">benjaCoin</a> sale was announced, we spoke about the benefit of bringing our existing business and its partners to the <a href="https://hackernoon.com/tagged/ico" target="_blank">ICO</a> market. We talked about how this would offer a shorter path to a usable, stable, and meaningful token.
 
 ### [75. All About Initial DEX Offerings and Why They Matter](https://hackernoon.com/all-about-initial-dex-offerings-and-why-they-matter)
 ![](https://cdn.hackernoon.com/images/7wpMUGqRIRR50ElsG92LBlitGnw2-0zb2iyt.png)

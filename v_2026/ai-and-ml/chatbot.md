@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [chatbot](https://hackernoon.com/tagged/chatbot)
+### Let's learn about [Chatbot](https://hackernoon.com/tagged/chatbot) via these 103 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A chatbot is an AI program designed to simulate human conversation, interacting with users through text or voice. Chatbots enhance customer service, provide instant information, and automate routine interactions across various platforms, improving efficiency and user experience.
+
 ### [1. How to Create a Simple Bash Shell Script to Send Messages on Telegram](https://hackernoon.com/how-to-create-a-simple-bash-shell-script-to-send-messages-on-telegram-lcz31bx)
 ![](https://cdn.hackernoon.com/images/TeS3aG9VcFTJ9dsAYaogSKazu6D2-dsp21nl.jpeg)
 In this article, you will walk through the creation of a simple Bash shell script to send messages to Telegram messenger using the Curl command. Then you will use this script to send a notification on every ssh login into your server.
@@ -109,13 +113,13 @@ What if a customer asks a question, you could easily find previously asked simil
 ![](https://cdn.hackernoon.com/images/3dP1h4oDXWfdH1z81Je2nAo7JKq1-hkc35au.jpeg)
 A Step-by-Step Guide to Building a YouTube Video Comments Responder
 
-### [24. Chatbot Examples - Which Are the Best Chatbots on the Web?](https://hackernoon.com/chatbot-examples-which-are-the-best-chatbots-on-the-web-xb1vq30nb)
-![](https://cdn.hackernoon.com/drafts/3e1ux30ci.png)
-Even if you don’t have a chatbox on your website, you have definitely encountered one before. Facebook, eBay, Domino’s Pizza, and Universal Studios are some of the big names that have their own chatbots.
-
-### [25. How to Build a Music Recognition Chatbot on WhatsApp Using Node.js](https://hackernoon.com/how-to-build-a-music-recognition-chatbot-on-whatsapp-using-nodejs)
+### [24. How to Build a Music Recognition Chatbot on WhatsApp Using Node.js](https://hackernoon.com/how-to-build-a-music-recognition-chatbot-on-whatsapp-using-nodejs)
 ![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-rp93qgr.jpeg)
 Application example using Node.js where a simple chatbot will be implemented on the WhatsApp for music recognition.
+
+### [25. Chatbot Examples - Which Are the Best Chatbots on the Web?](https://hackernoon.com/chatbot-examples-which-are-the-best-chatbots-on-the-web-xb1vq30nb)
+![](https://cdn.hackernoon.com/drafts/3e1ux30ci.png)
+Even if you don’t have a chatbox on your website, you have definitely encountered one before. Facebook, eBay, Domino’s Pizza, and Universal Studios are some of the big names that have their own chatbots.
 
 ### [26. Black Mirror's 'Be Right Back' in Real Life: Clone Yourself as a Chatbot](https://hackernoon.com/black-mirrors-be-right-back-in-real-life-clone-yourself-as-a-chatbot-448k376c)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-yj53372o.jpeg)
@@ -209,217 +213,225 @@ Have you ever think what will be in the future with your experience and skills t
 ![](https://cdn.hackernoon.com/drafts/pcm3x6n.png)
 E-Commerce is an ever-changing industry due to the nature of innovation that influences it. Each eCommerce trend has to be analyzed in deep and adopted in due if it’s truly going to drive your brand forward. If not, you could be missing out on the projected 6.54 trillion US dollars in 2022.
 
-### [49. How to Build a Slack ChatBot With GPT API, NodeJs, and FL0](https://hackernoon.com/how-to-build-a-slack-chatbot-with-gpt-api-nodejs-and-fl0)
+### [49. The Illusion of Control: Building a 100+ Agent Swarm in Web3 (Part 3)](https://hackernoon.com/the-illusion-of-control-building-a-100-agent-swarm-in-web3-part-3)
+![](https://cdn.hackernoon.com/images/hay61zJWuBXCCgiP5Cbg6VZODy22-9683ecg.jpeg)
+This is the story of how I learned that prompts control objectives, not boundaries, and that the real engineering isn't in the agents at all.
+
+### [50. How to Build a Slack ChatBot With GPT API, NodeJs, and FL0](https://hackernoon.com/how-to-build-a-slack-chatbot-with-gpt-api-nodejs-and-fl0)
 ![](https://cdn.hackernoon.com/images/KXkBVlE3hlee3glbm70CWnLV3s32-so93rg8.jpeg)
 In this guide, we will build a fully functioning Slack bot that can answer our questions about FL0 and its features using AI.
 
-### [50. How we built ToDoBot for Slack in 3 days](https://hackernoon.com/how-we-built-todobot-for-slack-in-3-days-jv6y364g)
+### [51. How we built ToDoBot for Slack in 3 days](https://hackernoon.com/how-we-built-todobot-for-slack-in-3-days-jv6y364g)
 ![](https://cdn.hackernoon.com/drafts/wrxe2kpw.png)
 Technically, it was four days, but we were working on it in between taking customer calls and fixing OneBar bugs so, let’s call it three ;)
 
-### [51. Natural Language Processing and How it Could Improve Employee Engagement ](https://hackernoon.com/natural-language-processing-and-how-it-can-be-used-to-improve-employee-engagement-s2o3tdu)
+### [52. Natural Language Processing and How it Could Improve Employee Engagement ](https://hackernoon.com/natural-language-processing-and-how-it-can-be-used-to-improve-employee-engagement-s2o3tdu)
 ![](https://cdn.hackernoon.com/images/26bn3tyi.jpg)
 Internal communication and employee engagement are key when it comes to the smooth functioning of an organization and building a reputation, especially in today’s age when more and more people are opting to work remotely and teams are scattered across the world.
 
-### [52. Create a NodeJS FAQ Chatbot - A Step-by-Step Guide](https://hackernoon.com/create-a-nodejs-faq-chatbot-a-step-by-step-guide-dm1f3zv0)
+### [53. Create a NodeJS FAQ Chatbot - A Step-by-Step Guide](https://hackernoon.com/create-a-nodejs-faq-chatbot-a-step-by-step-guide-dm1f3zv0)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNu16Dpd1qWVDEedGZKeDXsP0dXo1-ohp23n8.jpeg?alt=media&token=0310bfb5-6f60-4ac1-90b6-1abf48dac1cf)
 A FAQ Chatbot have the purpose of answering the most common questions asked by users. We will build one using Bard and some of its funtionalities, that will help us to build a smarter chatbot.
 
-### [53. 8 of the Best AI Chatbots for 2023](https://hackernoon.com/8-best-ai-chatbot-alternatives-to-chatgpt-in-2023)
+### [54. 8 of the Best AI Chatbots for 2023](https://hackernoon.com/8-best-ai-chatbot-alternatives-to-chatgpt-in-2023)
 ![](https://cdn.hackernoon.com/images/M419uHXOGRem9Ksg8rL13WwWFut1-lsa3rjn.jpeg)
 Thanks to artificial intelligence and machine learning, chatbots are becoming a practical tool in the business world. This is good news for many companies, as chatbots can increase engagement, revenue and ROI. The potential of artificial intelligence is there to be harnessed, and AI-powered chatbots are examples of the effective usage of the technology. However, choosing a chatbot can be overwhelming. Let's take a look at the most popular AI chatbots currently on the market.
 
-### [54. 10 Best AI Chatbot Builder for Your Business in 2022](https://hackernoon.com/10-chatbot-builders-for-your-business-in-2020-j45k3vyx)
+### [55. 10 Best AI Chatbot Builder for Your Business in 2022](https://hackernoon.com/10-chatbot-builders-for-your-business-in-2020-j45k3vyx)
 ![](images/5o1ho2bzm.jpg)
 Chatbots are on a rise and are rapidly becoming one of the most important assets for businesses these days. From SMBs to Fortune 500 companies, almost every business is investing in chatbots to establish stronger communication and offer the best customer support service.
 
-### [55. HIX Chat Review: Is It The Best AI Chatbot on the Market?](https://hackernoon.com/hix-chat-review-is-it-the-best-ai-chatbot-on-the-market)
+### [56. HIX Chat Review: Is It The Best AI Chatbot on the Market?](https://hackernoon.com/hix-chat-review-is-it-the-best-ai-chatbot-on-the-market)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-uq82pwj.png)
 HIX Chat leads the way in AI chatbot technology. Find out what it is, how it works, and all it has to offer in our deep dive HIX Chat review.
-
-### [56. Train a Chatbot on an Entire YouTube Channel for Free!](https://hackernoon.com/train-a-chatbot-on-an-entire-youtube-channel-for-free)
-![](https://cdn.hackernoon.com/images/youtube-to-chatbot-clit5x7q1000101s6f49v7zj6.png)
-Introducing YouTube-to-chatbot — train a chatbot on an ENTIRE YouTube channel 💬 
 
 ### [57. 5 Common Use Cases of a WhatsApp Chatbot](https://hackernoon.com/5-common-use-cases-of-a-whatsapp-chatbot-um1g37qv)
 ![](https://cdn.hackernoon.com/images/Fqdca9deC3OuqGovUDChZTrPddc2-2a3035jx.jpeg)
 A WhatsApp bot is an automated conversational tool that you integrate on WhatsApp using WhatsApp Business API. Read our article about uses of a WhatsApp chatbot
 
-### [58. How to Protect Chatbots from Machine Learning Attacks](https://hackernoon.com/how-to-protect-chatbots-from-machine-learning-attacks-2ma3uve)
+### [58. Train a Chatbot on an Entire YouTube Channel for Free!](https://hackernoon.com/train-a-chatbot-on-an-entire-youtube-channel-for-free)
+![](https://cdn.hackernoon.com/images/youtube-to-chatbot-clit5x7q1000101s6f49v7zj6.png)
+Introducing YouTube-to-chatbot — train a chatbot on an ENTIRE YouTube channel 💬 
+
+### [59. How to Protect Chatbots from Machine Learning Attacks](https://hackernoon.com/how-to-protect-chatbots-from-machine-learning-attacks-2ma3uve)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-akt3udj.jpeg?alt=media&token=ca465560-2653-450b-bb71-2af2054bffa0)
 Artificial Intelligence is a growing industry powered by advancements from large tech companies, new startups, and university research teams alike. While AI technology is advancing at a good pace, the regulations and failsafes around machine learning security are an entirely different story.
 
-### [59. Swiftly Starting Your Chatbot Journey: Building a Chatbot with Botter](https://hackernoon.com/swiftly-starting-your-chatbot-journey-building-a-chatbot-with-botter)
-![](https://cdn.hackernoon.com/images/BIedK0ndH1XRRDdMnJA4Zxjp7ld2-9f93ndn.jpeg)
-Unleash the power of Swift in chatbot development with Botter, the future of chatbot development is here, and it's Swift! 🚀🤖🍏
-
-### [60. Why Knowledge Management is Crucial for Chatbots?](https://hackernoon.com/why-knowledge-management-is-crucial-for-chatbots-8t4633mi)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-nh83xzj.jpeg)
-One of the biggest reasons for organizations to invest in chatbots is the convenience of connecting with their customers. Moreover, the same implementation and management of information using chatbots also enable organizations to organize their in-house process simultaneously. Thus, organizations can optimize their overall operational cost and upscale business operations with ease and efficiency.
-
-### [61. This Journalism Professor Made a Better New York City Chatbot in Minutes: How He Did It](https://hackernoon.com/this-journalism-professor-made-a-better-new-york-city-chatbot-in-minutes-how-he-did-it)
+### [60. This Journalism Professor Made a Better New York City Chatbot in Minutes: How He Did It](https://hackernoon.com/this-journalism-professor-made-a-better-new-york-city-chatbot-in-minutes-how-he-did-it)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-rn83d75.jpeg)
 He specifically asks his own bot some of the same questions we asked the city’s bot, and he got accurate responses when asking about rules for landlords
 
-### [62. Can an AI Chatbot Help You Develop Healthier Messaging Habits? ](https://hackernoon.com/can-an-ai-chatbot-help-you-develop-healthier-messaging-habits-9y4n3wba)
+### [61. Swiftly Starting Your Chatbot Journey: Building a Chatbot with Botter](https://hackernoon.com/swiftly-starting-your-chatbot-journey-building-a-chatbot-with-botter)
+![](https://cdn.hackernoon.com/images/BIedK0ndH1XRRDdMnJA4Zxjp7ld2-9f93ndn.jpeg)
+Unleash the power of Swift in chatbot development with Botter, the future of chatbot development is here, and it's Swift! 🚀🤖🍏
+
+### [62. Why Knowledge Management is Crucial for Chatbots?](https://hackernoon.com/why-knowledge-management-is-crucial-for-chatbots-8t4633mi)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-nh83xzj.jpeg)
+One of the biggest reasons for organizations to invest in chatbots is the convenience of connecting with their customers. Moreover, the same implementation and management of information using chatbots also enable organizations to organize their in-house process simultaneously. Thus, organizations can optimize their overall operational cost and upscale business operations with ease and efficiency.
+
+### [63. Can an AI Chatbot Help You Develop Healthier Messaging Habits? ](https://hackernoon.com/can-an-ai-chatbot-help-you-develop-healthier-messaging-habits-9y4n3wba)
 ![](https://cdn.hackernoon.com/drafts/csc23k0u.png)
 Social media can be a dangerous place to hang out. Researchers have found that compulsive use of social media can cause a lot more than just nervousness, low self-esteem, anxiety and jealousy. In fact, a study of how social media affects our health reveals that using social networks obsessively can cause depression, attention deficit hyperactivity disorder (ADHD), impulsive disorder, problems with mental functions, loneliness, addiction, and paranoia. 
 
-### [63. The Beginner’s Guide to Making a Chatbot](https://hackernoon.com/a-beginners-guide-to-make-a-chatbot-qg2xs3xzx)
+### [64. The Beginner’s Guide to Making a Chatbot](https://hackernoon.com/a-beginners-guide-to-make-a-chatbot-qg2xs3xzx)
 ![](https://cdn.hackernoon.com/drafts/a92z73xae.png)
 There has been a lot of talk about chatbots these days. You come across them quite often in Facebook Messenger.
 
-### [64. Building a Conversational AI Chatbot With AWS Lambda Function and Amazon EFS](https://hackernoon.com/building-a-conversational-ai-chatbot-with-aws-lambda-function-and-amazon-efs-0nh3udp)
+### [65. Building a Conversational AI Chatbot With AWS Lambda Function and Amazon EFS](https://hackernoon.com/building-a-conversational-ai-chatbot-with-aws-lambda-function-and-amazon-efs-0nh3udp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fp3MBv6MODlhNECyBHBCl7uErvRr2-ha5s3u24.webp?alt=media&token=d4ccc9ed-faba-4be4-8d5a-499ff64cecca)
 Amazon announced the general availability of AWS Lambda support for Amazon Elastic File System. Amazon EFS is a fully managed, elastic, shared file system and designed to be consumed by other AWS services.
 
-### [65. GPT4All: An Ecosystem of Open-Source Compressed Language Models](https://hackernoon.com/gpt4all-an-ecosystem-of-open-source-compressed-language-models)
+### [66. GPT4All: An Ecosystem of Open-Source Compressed Language Models](https://hackernoon.com/gpt4all-an-ecosystem-of-open-source-compressed-language-models)
 ![](https://cdn.hackernoon.com/images/a-shiny-and-sleek-new-robot-g61s6pzalz1sc6kgdvs8euh1.png)
 In this paper, we tell the story of GPT4All, a popular open source repository that aims to democratize access to LLMs.
 
-### [66. 5 Most Common Chatbot Mistakes made by eCommerce Websites - and How to Avoid Them](https://hackernoon.com/how-to-avoid-these-5-common-ecommerce-chatbot-mistakes-xo3rb300q)
+### [67. 5 Most Common Chatbot Mistakes made by eCommerce Websites - and How to Avoid Them](https://hackernoon.com/how-to-avoid-these-5-common-ecommerce-chatbot-mistakes-xo3rb300q)
 ![](https://cdn.hackernoon.com/drafts/ml3tj308h.png)
 Artificial intelligence, machine learning, and chatbots are on everyone’s lips in the eCommerce industry. These new technologies are shaking things up and changing the way we do business online so it’s no surprise that, by 2020, 80% of businesses are projected to have chatbot automation software enabled. 
 
-### [67. Chatbots Are NOT a Replacement for Human Agents: Here’s Why](https://hackernoon.com/chatbots-are-not-a-replacement-for-human-agents-heres-why-7as32qx)
+### [68. Chatbots Are NOT a Replacement for Human Agents: Here’s Why](https://hackernoon.com/chatbots-are-not-a-replacement-for-human-agents-heres-why-7as32qx)
 ![](https://cdn.hackernoon.com/drafts/bdx3zn4.png)
 Nothing excites business owners more than the opportunities to cut cost. So it’s no surprise that in the era of chatbots, many customer service organizations are jumping at the opportunity to show human agents the door. 
 
-### [68. Building a Company in High School and Why We're Selling it on Flippa](https://hackernoon.com/building-a-company-in-high-school-and-why-were-selling-it-on-flippa-3715370a)
+### [69. Building a Company in High School and Why We're Selling it on Flippa](https://hackernoon.com/building-a-company-in-high-school-and-why-were-selling-it-on-flippa-3715370a)
 ![](https://cdn.hackernoon.com/images/NRwX34hqB9hdJqLZ9JiSEVVjj5W2-7gu35w7.jpeg)
 Lessons from creating a digital agenda app for students...and why it's time to auction.
-
-### [69. Top 25 Customer Service Tools for Every Budget and Need: 2020 Edition](https://hackernoon.com/top-25-customer-service-tools-for-every-budget-and-need-2020-edition-aq2m36c2)
-![](https://cdn.hackernoon.com/images/sw32336yk.jpg)
-To be completely honest, customer service is such a wide notion that it’s quite difficult to see which tools count as customer service tools and which don’t.
 
 ### [70. Why Conversational AI Must Be Mindful](https://hackernoon.com/why-conversational-ai-must-be-mindful)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-9i936lg.jpeg)
 Google and Microsoft have stumbled in their attempt to rush conversational Ai to the market. have they killed trust in chatbots? Read this post to learn more.
 
-### [71. How to Improve Privacy in Conversational AI](https://hackernoon.com/how-to-improve-privacy-in-conversational-ai)
+### [71. Top 25 Customer Service Tools for Every Budget and Need: 2020 Edition](https://hackernoon.com/top-25-customer-service-tools-for-every-budget-and-need-2020-edition-aq2m36c2)
+![](https://cdn.hackernoon.com/images/sw32336yk.jpg)
+To be completely honest, customer service is such a wide notion that it’s quite difficult to see which tools count as customer service tools and which don’t.
+
+### [72. How to Improve Privacy in Conversational AI](https://hackernoon.com/how-to-improve-privacy-in-conversational-ai)
 ![](https://cdn.hackernoon.com/images/923ubndgcoffMpgXCN6bwljBOpk2-wua3nty.jpeg)
 Artificial intelligence is a great tool that assists you with fostering your business on the internet.
 
 
-### [72. Why Chatbots Are The Future Of Customer Retention?](https://hackernoon.com/why-chatbots-are-the-future-of-customer-retention)
+### [73. Readers Think AI Agents Are Coming to Work — They’re Just Not Sure the Hype Will Survive](https://hackernoon.com/readers-think-ai-agents-are-coming-to-work-theyre-just-not-sure-the-hype-will-survive)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4z02sxb.png)
+AI agents have become one of those phrases you can’t escape.
+
+### [74. Why Chatbots Are The Future Of Customer Retention?](https://hackernoon.com/why-chatbots-are-the-future-of-customer-retention)
 ![](https://cdn.hackernoon.com/images/SqRJDGtOfld2OBI48f0UrbrnpUt1-ti93t3f.jpeg)
 Customer retention has become a genuinely challenging task for entrepreneurs. In the midst of all this, AI-assisted Chatbots are the real game changers.
 
-### [73. How to Build a Simple Telegram Bot: An Introductory Guide ](https://hackernoon.com/how-to-build-a-simple-telegram-bot-an-introductory-guide-2545378t)
+### [75. How to Build a Simple Telegram Bot: An Introductory Guide ](https://hackernoon.com/how-to-build-a-simple-telegram-bot-an-introductory-guide-2545378t)
 ![](https://cdn.hackernoon.com/images/BHmq1WRGL5RKNa2xCnJj4p3Sn192-jh1q29gx.jpeg)
 This article demonstrates how to create a simple chatbot in Telegram and configuring it using Quickwork Journey Builder.
 
-### [74. Where are the Chatbots and What is the Progress and Limitation of Virtual Assistants [2020 Edition]](https://hackernoon.com/where-are-the-chatbots-and-what-is-the-progress-and-limitation-of-virtual-assistants-2020-edition-yzle3bl0)
-![](https://cdn.hackernoon.com/images/i7x3bf1.gif)
-Cat's out of the bag: it may have been a long while since you’ve last conversed with a human customer service agent. More and more companies have turned to digital assistants to address the needs of customer inquiries. With messaging being the preferred method of communication, chatbots have taken over online facing services, due to their simplicity, affordability, and accuracy.
-
-### [75. AI and Chatbots in Content Marketing: 4 Applications to Try in 2020](https://hackernoon.com/ai-and-chatbots-in-content-marketing-4-applications-to-try-in-2020-a75v3xsy)
+### [76. AI and Chatbots in Content Marketing: 4 Applications to Try in 2020](https://hackernoon.com/ai-and-chatbots-in-content-marketing-4-applications-to-try-in-2020-a75v3xsy)
 ![](https://cdn.hackernoon.com/drafts/n515c32ui.png)
 Artificial Intelligence (AI) chatbots continue to grow in popularity. 
 
-### [76. Starting My Dream Project: Building the Chat GUI for a Conversational AI](https://hackernoon.com/starting-my-dream-project-building-the-chat-gui-for-a-conversational-ai)
+### [77. Where are the Chatbots and What is the Progress and Limitation of Virtual Assistants [2020 Edition]](https://hackernoon.com/where-are-the-chatbots-and-what-is-the-progress-and-limitation-of-virtual-assistants-2020-edition-yzle3bl0)
+![](https://cdn.hackernoon.com/images/i7x3bf1.gif)
+Cat's out of the bag: it may have been a long while since you’ve last conversed with a human customer service agent. More and more companies have turned to digital assistants to address the needs of customer inquiries. With messaging being the preferred method of communication, chatbots have taken over online facing services, due to their simplicity, affordability, and accuracy.
+
+### [78. Starting My Dream Project: Building the Chat GUI for a Conversational AI](https://hackernoon.com/starting-my-dream-project-building-the-chat-gui-for-a-conversational-ai)
 ![](https://cdn.hackernoon.com/images/L8GKi5E1mwgzO4yc593nRytHBcK2-sr0370j.jpeg)
 This is the first entry to a long series of entries of how I will create a new and unique Artificial Intelligence accommodated assistant.
 
-### [77. Chatbots in 2021: What You Need To Know](https://hackernoon.com/chatbots-in-2021-what-you-need-to-know-7f123482)
+### [79. Chatbots in 2021: What You Need To Know](https://hackernoon.com/chatbots-in-2021-what-you-need-to-know-7f123482)
 ![](https://hackernoon.com/images/FANRNbQazuVt1PcUl5KXlPDOty52-d31631ij.jpeg)
 Top trends that in the chatbot industry for 2021.
 
-### [78. Enterprise Chatbot: Do You Really Need It? This Will Help You Decide](https://hackernoon.com/enterprise-chatbot-do-you-really-need-it-this-will-help-you-decide-7z4a9301x)
+### [80. Enterprise Chatbot: Do You Really Need It? This Will Help You Decide](https://hackernoon.com/enterprise-chatbot-do-you-really-need-it-this-will-help-you-decide-7z4a9301x)
 ![](drafts/9y3k330ls.png)
 
 
-### [79. 5 Ways AI Can Help Grow Your Small Business](https://hackernoon.com/5-ways-ai-artificial-intelligence-can-help-grow-your-small-business-19133274)
+### [81. 5 Ways AI Can Help Grow Your Small Business](https://hackernoon.com/5-ways-ai-artificial-intelligence-can-help-grow-your-small-business-19133274)
 ![](https://images.unsplash.com/photo-1516110833967-0b5716ca1387?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 “I’m sorry, Dave. I’m afraid I can’t do that.” This iconic quote from the 1968 classic film 2001: A Space Odyssey is what many people think of when the term Artificial Intelligence is broached. AI has been portrayed in science fiction as something to be wary of and to keep tabs on. AI has a long way to go before we see computers like HAL, but the technology, while in its infancy and requiring special personnel to use it, is cropping up in the business world, and not just in tech giants like Apple or Google.
 
-### [80. 6 Chatbot Security Measures to Implement](https://hackernoon.com/6-chatbot-security-measures-to-implement)
+### [82. 6 Chatbot Security Measures to Implement](https://hackernoon.com/6-chatbot-security-measures-to-implement)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-e093qjs.jpeg)
 Chatbots are increasingly important for companies, but they can also present security risks. Here are six tips to improve chatbot security.
 
-### [81. Quick Overview The Industries Most Affected by AI in 2020](https://hackernoon.com/quick-overview-the-industries-most-affected-by-ai-in-2020-ejji34b1)
+### [83. Quick Overview The Industries Most Affected by AI in 2020](https://hackernoon.com/quick-overview-the-industries-most-affected-by-ai-in-2020-ejji34b1)
 ![](https://cdn.hackernoon.com/drafts/vr2c33dr.png)
 Some predictions say that by the end of this decade, more than 500 million people will have to completely forget their current skillset and start learning new ones if they want to stay employed. 
 
-### [82. Discussing The Applications of AI Chatbots in Healthcare at the World Economic Forum](https://hackernoon.com/why-the-world-economic-forum-wants-ai-chatbots-in-healthcare-kg5h3uxl)
+### [84. Discussing The Applications of AI Chatbots in Healthcare at the World Economic Forum](https://hackernoon.com/why-the-world-economic-forum-wants-ai-chatbots-in-healthcare-kg5h3uxl)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7oCE53LyUmbFajIrfCAiJwiRIP23-d85l3u99.png?alt=media&token=03b7db7e-59fe-44f9-8c49-965f5f351db3)
 The World Economic Forum is mostly known for its highly anticipated annual meeting in Davos, Switzerland — a scene of global intrigue and a convergence point for the planet’s most influential politicians, investors, activists, CEOs, and economists. 
 
-### [83. What Is ChatGPT? Cutting Through the Fluff](https://hackernoon.com/what-is-chatgpt-cutting-through-the-fluff)
-![](https://cdn.hackernoon.com/images/open-ai-clinj7zoi000101s6bv932oel.png)
-ChatGPT is a chatbot, a computer program with which you can have a conversation like you would with a human.
-
-### [84. GPT4All-J: Repository Growth and the Implications of the LLaMA License](https://hackernoon.com/gpt4all-j-repository-growth-and-the-implications-of-the-llama-license)
-![](https://cdn.hackernoon.com/images/a-house-overgrown-by-trees-and-leaves-sketch-style-ph30nhce4s2fs8jmogbldjd9.png)
-The GPT4All repository grew rapidly after its release, gaining over 20000 GitHub stars in just one week
-
-### [85. The 6 Best Platforms To Create Chatbots Without Additional Programming](https://hackernoon.com/the-6-best-platforms-to-create-chatbots-without-additional-programming-c64u37em)
-![](https://cdn.hackernoon.com/images/yF19oSEApiUFeS8PrCk7jwguRav2-yds369a.jpeg)
-Today I want to share a small review of simple platforms for creating bots without any knowledge of programming languages
-
-### [86. Businesses Are Being Told to Break the Law By This NYC AI Chatbot](https://hackernoon.com/businesses-are-being-told-to-break-the-law-by-this-nyc-ai-chatbot)
+### [85. Businesses Are Being Told to Break the Law By This NYC AI Chatbot](https://hackernoon.com/businesses-are-being-told-to-break-the-law-by-this-nyc-ai-chatbot)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-2j03d8r.jpeg)
 It’s not just housing policy where the bot has fallen short. The NYC bot also appeared clueless about the city’s consumer and worker protections.
 
-### [87. Does your company need a chatbot (and what are your options)?](https://hackernoon.com/does-your-company-need-a-chatbot-and-what-are-your-options-y01933u0)
+### [86. What Is ChatGPT? Cutting Through the Fluff](https://hackernoon.com/what-is-chatgpt-cutting-through-the-fluff)
+![](https://cdn.hackernoon.com/images/open-ai-clinj7zoi000101s6bv932oel.png)
+ChatGPT is a chatbot, a computer program with which you can have a conversation like you would with a human.
+
+### [87. GPT4All-J: Repository Growth and the Implications of the LLaMA License](https://hackernoon.com/gpt4all-j-repository-growth-and-the-implications-of-the-llama-license)
+![](https://cdn.hackernoon.com/images/a-house-overgrown-by-trees-and-leaves-sketch-style-ph30nhce4s2fs8jmogbldjd9.png)
+The GPT4All repository grew rapidly after its release, gaining over 20000 GitHub stars in just one week
+
+### [88. The 6 Best Platforms To Create Chatbots Without Additional Programming](https://hackernoon.com/the-6-best-platforms-to-create-chatbots-without-additional-programming-c64u37em)
+![](https://cdn.hackernoon.com/images/yF19oSEApiUFeS8PrCk7jwguRav2-yds369a.jpeg)
+Today I want to share a small review of simple platforms for creating bots without any knowledge of programming languages
+
+### [89. Does your company need a chatbot (and what are your options)?](https://hackernoon.com/does-your-company-need-a-chatbot-and-what-are-your-options-y01933u0)
 ![](https://cdn.hackernoon.com/images/mDsj2387wdN4dArKgC2UNVj38ru1-c9f31k6.jpeg)
 The most obvious benefit to be had from a chatbot is to make it easier for clients and customers to find information on your site.
 
-### [88. How Chatbots Can Help Improve Your Customer Experience](https://hackernoon.com/how-chatbots-can-help-improve-your-customer-experience-7nf53apg)
+### [90. How Chatbots Can Help Improve Your Customer Experience](https://hackernoon.com/how-chatbots-can-help-improve-your-customer-experience-7nf53apg)
 ![](https://cdn.hackernoon.com/drafts/j6kv36j5.png)
 Chatbots or customized software can converse with humans through a chat interface. Be it a brand’s website or a mobile app, chatbots can be integrated anywhere to gather useful information and facilitate sales. Platforms like Skype, Facebook Messenger, and Whats App also use chatbots for building reputation and improving customer experience. 
-
-### [89. Why SMS Paired with Chatbots is a Game Changer](https://hackernoon.com/why-sms-paired-with-chatbots-is-a-game-changer-ij3g34do)
-![](https://cdn.hackernoon.com/images/ePosXZhy43P2E8x8OD7VZcUjL5C3-8t2g3eyb.jpeg)
-SMS and chatbots are becoming commonplace in B2C communication. So, what happens when we combine the two?
-
-### [90. The Magic of Conversational AI: 8 Ways Chatbots are Helping Businesses](https://hackernoon.com/the-magic-of-conversational-ai-8-ways-chatbots-are-helping-businesses)
-![](https://cdn.hackernoon.com/images/qlZgX5pH7McgqccSwITFk57INYq1-gll36f0.jpeg)
-Have you heard stories about chatbots failing to deliver results? Well, we created a list of the 8 most important chatbot benefits that will prove the opposite.
 
 ### [91. Is ChatGPT Going to Overtake Our Jobs?](https://hackernoon.com/is-chatgpt-going-to-overtake-our-jobs)
 ![](https://cdn.hackernoon.com/images/RnMZwfsSDPZG9OBXlKwd37WEDsH3-c3b3p3i.jpeg)
 You must have heard people say that ChatGPT is going to replace us. But is it true? Let's find out.
 
-### [92. 84 Stories To Learn About Chatbot](https://hackernoon.com/84-stories-to-learn-about-chatbot)
-![](https://cdn.hackernoon.com/images/github/chatbot-841.png)
-Learn everything you need to know about Chatbot via these 84 free HackerNoon stories.
+### [92. Why SMS Paired with Chatbots is a Game Changer](https://hackernoon.com/why-sms-paired-with-chatbots-is-a-game-changer-ij3g34do)
+![](https://cdn.hackernoon.com/images/ePosXZhy43P2E8x8OD7VZcUjL5C3-8t2g3eyb.jpeg)
+SMS and chatbots are becoming commonplace in B2C communication. So, what happens when we combine the two?
 
-### [93. AI Chatbots for Business: Why You Need One Now!](https://hackernoon.com/ai-chatbots-for-business-why-you-need-one-now-771d34tr)
-![](https://cdn.hackernoon.com/images/jRVwWjZcdRShAqAhc0e9ZxetFMZ2-uo1131rh.jpeg)
-It’s said that Artificial Intelligence will be just as smart as humans by 2050. Experts like Ray Kurzweil have even predicted that we’ll achieve a technological singularity by 2045. 
-
-### [94. Exploring The World of Chatbots](https://hackernoon.com/the-world-of-chatbots-iho3trk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhQfEkLXkwpYHxWGACOsab4awpUA3-gi5l2uwb.jpeg?alt=media&token=52afcf42-4a0a-43b9-815f-75dbe2bd7aa8)
-What if I told you the 1st time people thought of machines replicating human conversations was almost 70 years ago!
-
-### [95. From Buttons to Conversations: How Agentic AI Is Redefining System Design](https://hackernoon.com/from-buttons-to-conversations-how-agentic-ai-is-redefining-system-design)
+### [93. From Buttons to Conversations: How Agentic AI Is Redefining System Design](https://hackernoon.com/from-buttons-to-conversations-how-agentic-ai-is-redefining-system-design)
 ![](https://cdn.hackernoon.com/images/zCgaw9MK4KUC4P2sGm2gj3biWPS2-i903d6i.png)
 How agentic AI with MCP protocols is replacing complex UI development. Learn to build systems with LLMs at the center, ship features in days, not months. 
 
-### [96. 6 Chatbot Mistakes that Scare Your Customers Away](https://hackernoon.com/6-chatbot-mistakes-that-scare-your-customers-away-0s3f377l)
+### [94. The Magic of Conversational AI: 8 Ways Chatbots are Helping Businesses](https://hackernoon.com/the-magic-of-conversational-ai-8-ways-chatbots-are-helping-businesses)
+![](https://cdn.hackernoon.com/images/qlZgX5pH7McgqccSwITFk57INYq1-gll36f0.jpeg)
+Have you heard stories about chatbots failing to deliver results? Well, we created a list of the 8 most important chatbot benefits that will prove the opposite.
+
+### [95. 84 Stories To Learn About Chatbot](https://hackernoon.com/84-stories-to-learn-about-chatbot)
+![](https://cdn.hackernoon.com/images/github/chatbot-841.png)
+Learn everything you need to know about Chatbot via these 84 free HackerNoon stories.
+
+### [96. Exploring The World of Chatbots](https://hackernoon.com/the-world-of-chatbots-iho3trk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhQfEkLXkwpYHxWGACOsab4awpUA3-gi5l2uwb.jpeg?alt=media&token=52afcf42-4a0a-43b9-815f-75dbe2bd7aa8)
+What if I told you the 1st time people thought of machines replicating human conversations was almost 70 years ago!
+
+### [97. AI Chatbots for Business: Why You Need One Now!](https://hackernoon.com/ai-chatbots-for-business-why-you-need-one-now-771d34tr)
+![](https://cdn.hackernoon.com/images/jRVwWjZcdRShAqAhc0e9ZxetFMZ2-uo1131rh.jpeg)
+It’s said that Artificial Intelligence will be just as smart as humans by 2050. Experts like Ray Kurzweil have even predicted that we’ll achieve a technological singularity by 2045. 
+
+### [98. 6 Chatbot Mistakes that Scare Your Customers Away](https://hackernoon.com/6-chatbot-mistakes-that-scare-your-customers-away-0s3f377l)
 ![](https://cdn.hackernoon.com/images/NqFBgsMsodTucsTW6YyqzBOeFmI2-r02w29ns.png)
 Six unforgivable mistakes that scare off your customers and prospects? The Smart Tribune team answers you.
 
-### [97. Bots + Legaltech = Meet AILIRA](https://hackernoon.com/behind-successful-chatbots-ailira-r317n3xqk)
+### [99. Bots + Legaltech = Meet AILIRA](https://hackernoon.com/behind-successful-chatbots-ailira-r317n3xqk)
 ![](https://cdn.hackernoon.com/drafts/1q15m3xbx.png)
 Ailira (www.ailira.com) the ”artificially intelligent legal information research assistant”, is an AI chatbot that uses natural language processing. The chatbot has been designed to understand and process sophisticated technical legal questions & search quickly. Ailira was created by Adrian Cartland, the founder of Cartland Tech and the law firm without lawyers.
 
-### [98. How DigiSkills AI Chatbot helped 10K students enroll for the program](https://hackernoon.com/how-digiskills-ai-chatbot-helped-10k-students-enroll-for-the-program-zs1z3wlb)
+### [100. How DigiSkills AI Chatbot helped 10K students enroll for the program](https://hackernoon.com/how-digiskills-ai-chatbot-helped-10k-students-enroll-for-the-program-zs1z3wlb)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ie82ryw.jpeg)
 DigiSkills Training Program is Pakistan’s first Online Training Program that offers free-of-cost training courses. The platform was created to train the youth with in-demand digital skills such as content marketing, graphic designing, Creatives and SEO, etc. 
 
-### [99. Solving Misinformation and Building the Future of Intelligent Online Conversations (Podcast)](https://hackernoon.com/solving-misinformation-and-building-the-future-of-intelligent-online-conversations-podcast)
+### [101. Solving Misinformation and Building the Future of Intelligent Online Conversations (Podcast)](https://hackernoon.com/solving-misinformation-and-building-the-future-of-intelligent-online-conversations-podcast)
 ![](https://cdn.hackernoon.com/images/ZSnNpZ3GejgVSxqs3EyP38vlsLL2-yla3qwx.jpeg)
 This company is striving to implement a conversation layer over the entire web that works everywhere. 
 
-### [100. New Way for Business Optimisation is Out Now: 
+### [102. New Way for Business Optimisation is Out Now: 
 Rake System and Their Success Story](https://hackernoon.com/new-way-for-business-optimisation-is-out-now-rake-system-and-their-success-story-v8vy325u)
 ![](https://cdn.hackernoon.com/drafts/uf1al32xk.png)
 The Rake system understands and manages client requests related to company services. Regardless of the requests: text, voice - Rake’s chatbots understand and process all of them using artificial intelligence. The chatbot has been designed for W5Golf, and is the company that provides customer experience optimisation solutions and helps develop customer experience strategies that deliver results. The company’s solution helps to strengthen relationships with your customers by providing a system that optimises relevant engagements and improved services.
 
-### [101. What Patients Are Asking Our COVID-19 Virtual Assistant](https://hackernoon.com/what-patients-are-asking-our-covid-19-virtual-assistant-306i3x81)
+### [103. What Patients Are Asking Our COVID-19 Virtual Assistant](https://hackernoon.com/what-patients-are-asking-our-covid-19-virtual-assistant-306i3x81)
 ![](https://cdn.hackernoon.com/images/v9aj3wk1.jpg)
 According to a recent Pew Research Center poll, in just one week (March 16–24), the number of Americans who view the coronavirus as a major threat to public health spiked by nearly 20%, from 47% to 66% — a figure that is growing exponentially.
 

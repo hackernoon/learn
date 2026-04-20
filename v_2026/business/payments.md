@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [payments](https://hackernoon.com/tagged/payments)
+### Let's learn about [Payments](https://hackernoon.com/tagged/payments) via these 128 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Payments refer to the exchange of value from one party to another, typically for goods or services, often facilitated by financial institutions or digital platforms. Efficient and secure payment systems are fundamental to commerce and economic activity, driving global trade and consumption.
+
 ### [1. Lazerpay: An African Decentralised Dream](https://hackernoon.com/lazerpay-an-african-decentralised-dream)
 ![](https://cdn.hackernoon.com/images/cGfg9TlH1bgGje7eIzVSvxyMCMn2-syb2f0a.jpeg)
 African startup called Lazerpay is the blockchain and web3 solution to Africans banking problems since colonisation. They are a decentralised finance company.
@@ -57,25 +61,25 @@ When EMV card processing is discussed, one confusing usage of terminology is Onl
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-tqt3zrk.png?alt=media&token=947ef872-0b8b-4464-a962-af292ff1dca8)
 Have you ever spent 30 minutes checking and double-checking before sending a cryptocurrency payment? What about sending a small test transaction just to ensure that you’re sending it to the right person?
 
-### [15. From One-Off Transactions to Intelligent Payments: The Evolution of Open Banking with VRP](https://hackernoon.com/from-one-off-transactions-to-intelligent-payments-the-evolution-of-open-banking-with-vrp)
-![](https://cdn.hackernoon.com/images/e1vl3GX8BpXoAGI9qZJqAwLDK5h1-dq235qo.jpeg)
-Discover how Open Banking is evolving from Pay-by-Bank to intelligent, automated payments with VRP. 
-
-### [16. Integrating Stripe Checkout with Next.js Is Easier Than You Think](https://hackernoon.com/integrating-stripe-checkout-with-nextjs-is-easier-than-you-think)
+### [15. Integrating Stripe Checkout with Next.js Is Easier Than You Think](https://hackernoon.com/integrating-stripe-checkout-with-nextjs-is-easier-than-you-think)
 ![](https://cdn.hackernoon.com/images/lmcwhIPXHyPIgqoOoDrA9xd8umf1-1z033d4.webp)
 Learn how to seamlessly integrate Stripe Checkout with Next.js in this step-by-step guide. Set up a sandbox environment, get your API keys, and start accepting 
+
+### [16. From One-Off Transactions to Intelligent Payments: The Evolution of Open Banking with VRP](https://hackernoon.com/from-one-off-transactions-to-intelligent-payments-the-evolution-of-open-banking-with-vrp)
+![](https://cdn.hackernoon.com/images/e1vl3GX8BpXoAGI9qZJqAwLDK5h1-dq235qo.jpeg)
+Discover how Open Banking is evolving from Pay-by-Bank to intelligent, automated payments with VRP. 
 
 ### [17. How to Create a Marketplace: Pay In and Pay Out](https://hackernoon.com/pay-in-pay-out-how-to-create-a-marketplace-4a6i3afx)
 ![](https://cdn.hackernoon.com/images/cc353ake.jpg)
 In the current era of the internet, we tend to shop online more often than ever before. We can attribute it to the fact that it’s infinitely easier to compare products from different sellers this way.
 
-### [18. Effects Of Video Game Piracy](https://hackernoon.com/effects-of-video-game-piracy-sru32vy)
-![](https://cdn.hackernoon.com/drafts/va8s3280.png)
-What Exactly Is The Meaning Of Video Game Piracy?
-
-### [19. Crypto-Streaming is the Web3 Way of Wage-Keeping and it is Better Than You Imagine](https://hackernoon.com/crypto-streaming-is-the-web3-way-of-wage-keeping-and-it-is-better-than-you-imagine)
+### [18. Crypto-Streaming is the Web3 Way of Wage-Keeping and it is Better Than You Imagine](https://hackernoon.com/crypto-streaming-is-the-web3-way-of-wage-keeping-and-it-is-better-than-you-imagine)
 ![](https://cdn.hackernoon.com/images/hoYH1nGUKCdDzjJ0ElbBkz9EQSI2-k693j96.jpeg)
 Crypto streaming digital assets is hugely efficient and enables a new generation of decentralized finance options to flourish. 
+
+### [19. Effects Of Video Game Piracy](https://hackernoon.com/effects-of-video-game-piracy-sru32vy)
+![](https://cdn.hackernoon.com/drafts/va8s3280.png)
+What Exactly Is The Meaning Of Video Game Piracy?
 
 ### [20. The Vulnerabilities of NFC Payments Need to be Addressed](https://hackernoon.com/the-vulnerabilities-of-nfc-payments-need-to-be-addressed-tl4e37e0)
 ![](https://cdn.hackernoon.com/images/5O5F1ZCMRLYcTRCXuHmZRnmps2t2-h51z32yr.jpeg)
@@ -157,13 +161,13 @@ A tutorial on how to integrate one of the most known Payment Gateways: Stripe AP
 ![](https://cdn.hackernoon.com/images/e1vl3GX8BpXoAGI9qZJqAwLDK5h1-n1939oh.jpeg)
 Here, we discuss practical tips for open banking integration, choosing an appropriate provider, and navigating the world of open banking as a startup company.
 
-### [40. Serving Contactless Payments Through the Use of the QR Code](https://hackernoon.com/serving-contactless-payments-through-the-use-of-the-qr-code)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-429326i.png)
-How can QR codes help you acquire more revenue and customers
-
-### [41. Reddit-Backed Picks: Best Payment Gateways for Early-Stage Startups in 2025](https://hackernoon.com/reddit-backed-picks-best-payment-gateways-for-early-stage-startups-in-2025)
+### [40. Reddit-Backed Picks: Best Payment Gateways for Early-Stage Startups in 2025](https://hackernoon.com/reddit-backed-picks-best-payment-gateways-for-early-stage-startups-in-2025)
 ![](https://cdn.hackernoon.com/images/AfjNOLVltkOy9lhVF6O7wiPmV2s2-6313clo.png)
 Discover the best payment gateways for your early-stage SaaS startup in 2025, based on a year-long Reddit analysis.
+
+### [41. Serving Contactless Payments Through the Use of the QR Code](https://hackernoon.com/serving-contactless-payments-through-the-use-of-the-qr-code)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-429326i.png)
+How can QR codes help you acquire more revenue and customers
 
 ### [42. The Crypto Rises: The Future of Moving Money](https://hackernoon.com/the-crypto-rises-the-future-of-moving-money-026631e1)
 ![](https://cdn.hackernoon.com/images/yZ5bGLBH3QdwmkcDn6GbYphig3S2-itge342l.gif)
@@ -203,13 +207,13 @@ Over the past 3 years, it’s become apparent that cryptocurrency payments are b
 ![](https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-7893lb9.jpeg)
 A conversation with Christophe Lassuyt, co-founder of Request Finance and a Y Combinator alumnus, about the future of crypto payments.
 
-### [51. As Stablecoins Rise in Popularity, How Can It Benefit Traditional Payments?](https://hackernoon.com/as-stablecoins-rise-in-popularity-can-it-benefit-traditional-payments-xeeh3bsf)
-![](https://cdn.hackernoon.com/drafts/uhbl3bsj.png)
-The rising popularity of stablecoins has often been highlighted as an indication of the growing adoption of blockchain technology. With projects such as Facebook’s Project Libra and JPMorgan’s JPMCoin, it is clear that even large corporations from beyond the blockchain space are seeking to partake in this growing trend.
-
-### [52. Fuse Co-Founder Mark Smargon on Revolutionizing the Financial Sector with Crypto Payments](https://hackernoon.com/fuse-co-founder-mark-smargon-on-revolutionizing-the-financial-sector-with-crypto-payments)
+### [51. Fuse Co-Founder Mark Smargon on Revolutionizing the Financial Sector with Crypto Payments](https://hackernoon.com/fuse-co-founder-mark-smargon-on-revolutionizing-the-financial-sector-with-crypto-payments)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-gv93pym.jpeg)
 Mark Smargon, co-founder of Fuse.io, talks to Ishan Pandey about his personal journey into the blockchain space. 
+
+### [52. As Stablecoins Rise in Popularity, How Can It Benefit Traditional Payments?](https://hackernoon.com/as-stablecoins-rise-in-popularity-can-it-benefit-traditional-payments-xeeh3bsf)
+![](https://cdn.hackernoon.com/drafts/uhbl3bsj.png)
+The rising popularity of stablecoins has often been highlighted as an indication of the growing adoption of blockchain technology. With projects such as Facebook’s Project Libra and JPMorgan’s JPMCoin, it is clear that even large corporations from beyond the blockchain space are seeking to partake in this growing trend.
 
 ### [53. Introducing Bankera: Bank Account Alternative Focused on Crypto Businesses](https://hackernoon.com/introducing-bankera-bank-account-alternative-focused-on-crypto-businesses-8w9c3yq8)
 ![](https://cdn.hackernoon.com/images/bj1g3yts.jpg)
@@ -219,33 +223,33 @@ Bankera, an ambitious project to build a neobank for the digital era, has starte
 ![](https://cdn.hackernoon.com/images/HCmzzP6XMjM3BGUYCKABhMiP8ar2-y30349l.png)
 The article looks into the importance of cross-border, digital banking and its effects to people in developing countries. 
 
-### [55. India’s Roadmap to Invisible Payments — Subscriptions](https://hackernoon.com/indias-roadmap-to-invisible-payments-subscriptions-kad23zu4)
+### [55. BIS Proposes Unified Ledger for CBDCs, Tokenized Deposits, and Payments](https://hackernoon.com/bis-proposes-unified-ledger-for-cbdcs-tokenized-deposits-and-payments)
+![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-a-crypto-coin-on-a-universe-background-clf0p6zy8000301s61vk0435t.png)
+Programmability is a key feature of CBDC, meaning central banks and their customers could have total control over when, where, and how the money is spent.
+
+### [56. India’s Roadmap to Invisible Payments — Subscriptions](https://hackernoon.com/indias-roadmap-to-invisible-payments-subscriptions-kad23zu4)
 ![](https://cdn.hackernoon.com/images/eu18i3v8o.jpg)
 Have you ever paid attention to the design of your internet browser? The better it camouflages itself, the more oblivious you become to its existence. The same analogy applies to our payment experiences too. 
-
-### [56. Blockchain Powered Mobile Payments (BMPs) As An Alternative To The Ageing SWIFT](https://hackernoon.com/blockchain-powered-mobile-payments-bmps-as-an-alternative-to-the-ageing-swift-uk483zzl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJ4wbz3JAj4ck2KKzkB83S10DntP2-ov1h3tn7.jpeg?alt=media&token=88a87746-f768-4c27-8453-196d99ec9a47)
-Blockchain and cryptocurrencies are laying the foundation of a new financial system. They together challenge the status quo of the traditional world of finance and its highly centralized infrastructure. 
 
 ### [57. Setting Up Online Acquiring as a Startup Firsthand -  Round 1: Failed 🚫](https://hackernoon.com/setting-up-online-acquiring-as-a-startup-firsthand-round-1-failed)
 ![](https://cdn.hackernoon.com/images/angry-bank-teller-cli2lfhk3000001s6at4ueonf.png)
 A fun adventure and personal experience on setting up a payment processing system for a no-name startup in a foreign country
 
-### [58. BIS Proposes Unified Ledger for CBDCs, Tokenized Deposits, and Payments](https://hackernoon.com/bis-proposes-unified-ledger-for-cbdcs-tokenized-deposits-and-payments)
-![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-a-crypto-coin-on-a-universe-background-clf0p6zy8000301s61vk0435t.png)
-Programmability is a key feature of CBDC, meaning central banks and their customers could have total control over when, where, and how the money is spent.
+### [58. Blockchain Powered Mobile Payments (BMPs) As An Alternative To The Ageing SWIFT](https://hackernoon.com/blockchain-powered-mobile-payments-bmps-as-an-alternative-to-the-ageing-swift-uk483zzl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJ4wbz3JAj4ck2KKzkB83S10DntP2-ov1h3tn7.jpeg?alt=media&token=88a87746-f768-4c27-8453-196d99ec9a47)
+Blockchain and cryptocurrencies are laying the foundation of a new financial system. They together challenge the status quo of the traditional world of finance and its highly centralized infrastructure. 
 
 ### [59. WebSockets: Plugging More People into Payments](https://hackernoon.com/websockets-plugging-more-people-into-payments-xkp35hi)
 ![](https://cdn.hackernoon.com/images/7Oj851Eo7TTD9ygsR2PLf7qAVh13-7p1r34me.jpeg)
 Whether tethering off a feature phone or using the latest in wireless, a WebSockets backbone aids in user connectivity on many levels.
 
-### [60. "BTC or ETH Micropayments Are Still Not On The Same Level As VISA or Mastercard" - Rossen Yordanov](https://hackernoon.com/btc-or-eth-micropayments-are-still-not-on-the-same-level-as-visa-or-mastercard-rossen-yordanov-0q7u35th)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-f74n37p8.jpeg)
-This article talks about why fintech giants are entering the cryptocurrency industry. The article talks about crypto, payments and blockchain.
-
-### [61. Creating Seamless Payment Interfaces with Stripe and FL0](https://hackernoon.com/creating-seamless-payment-interfaces-with-stripe-and-fl0)
+### [60. Creating Seamless Payment Interfaces with Stripe and FL0](https://hackernoon.com/creating-seamless-payment-interfaces-with-stripe-and-fl0)
 ![](https://cdn.hackernoon.com/images/KXkBVlE3hlee3glbm70CWnLV3s32-oc93rcg.jpeg)
 In this tutorial, we will seamlessly integrate Stripe payment gateway into our full-stack application, and effortlessly host it on FL0. 🚀
+
+### [61. "BTC or ETH Micropayments Are Still Not On The Same Level As VISA or Mastercard" - Rossen Yordanov](https://hackernoon.com/btc-or-eth-micropayments-are-still-not-on-the-same-level-as-visa-or-mastercard-rossen-yordanov-0q7u35th)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-f74n37p8.jpeg)
+This article talks about why fintech giants are entering the cryptocurrency industry. The article talks about crypto, payments and blockchain.
 
 ### [62. Accelerating Accounts Receivable with Automated Technologies](https://hackernoon.com/accelerating-accounts-receivable-with-automated-technologies-gy1a3u0o)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FelSxFAxSKrdQdNKR1XbMJp3CF4f1-je283u2x.jpeg?alt=media&token=d9256afe-512f-45bf-bb7d-20682573c030)
@@ -255,33 +259,33 @@ Business is successful as the stocked inventory flows out the gates and receivab
 ![](https://cdn.hackernoon.com/images/nxtWKMHuO1UKGUbmzmzTuQsBx4H2-0l213cft.jpeg)
 After having seen one of the 5 macro areas of decentralized finance (DeFi), namely lending and borrowing, today we will focus on another aspect and which is ...
 
-### [64. A Guide to Unity + Razorpay Payment Gateway Integration](https://hackernoon.com/a-guide-to-unity-razorpay-payment-gateway-integration)
-![](https://cdn.hackernoon.com/images/JeBgHPQeI0WmFOLxM1PhW4kJs9L2-yb93tkb.jpeg)
-My team & I was working on an AR&VR project — around mid-2017, the most difficult problem that we faced was integrating custom payment gateways to our app.
-
-### [65. Understanding Stablecoins and DAG with Stella Dyer ](https://hackernoon.com/understanding-stablecoins-and-dag-with-stella-dyer)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-xr93ncu.jpeg)
-Millicent is a government-backed first-mover stablecoin. Founder Stella Dyer founded the company after growing up in the UK as a refugee from the Biafran War. 
-
-### [66. What Merchants Care About: How POS and BNPL Improve Customer Experience and Boost Sales](https://hackernoon.com/what-merchants-care-about-how-pos-and-bnpl-improve-customer-experience-and-boost-sales)
+### [64. What Merchants Care About: How POS and BNPL Improve Customer Experience and Boost Sales](https://hackernoon.com/what-merchants-care-about-how-pos-and-bnpl-improve-customer-experience-and-boost-sales)
 ![](https://cdn.hackernoon.com/images/UacuLPOU90UW3MZFY5c90obzGr03-k6034oz.png)
 Learn what merchants value most in POS and BNPL integrations—flexibility, support, and competitive terms that boost sales and enhance customer experiences.
 
-### [67. Revolution Age: How AI Is Set to Break the Barrier and Shape the Future of Digital Payments](https://hackernoon.com/revolution-age-how-ai-is-set-to-break-the-barrier-and-shape-the-future-of-digital-payments)
+### [65. A Guide to Unity + Razorpay Payment Gateway Integration](https://hackernoon.com/a-guide-to-unity-razorpay-payment-gateway-integration)
+![](https://cdn.hackernoon.com/images/JeBgHPQeI0WmFOLxM1PhW4kJs9L2-yb93tkb.jpeg)
+My team & I was working on an AR&VR project — around mid-2017, the most difficult problem that we faced was integrating custom payment gateways to our app.
+
+### [66. Understanding Stablecoins and DAG with Stella Dyer ](https://hackernoon.com/understanding-stablecoins-and-dag-with-stella-dyer)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-xr93ncu.jpeg)
+Millicent is a government-backed first-mover stablecoin. Founder Stella Dyer founded the company after growing up in the UK as a refugee from the Biafran War. 
+
+### [67. Online Retail Innovation: Here's What 2021 Has In Store For Payments After The Digital Boom In 2020](https://hackernoon.com/online-retail-innovation-heres-what-2021-has-in-store-for-payments-after-the-digital-boom-in-2020-vt4t35ki)
+![](https://cdn.hackernoon.com/images/j3Sri5wBbRXmWxOuMkdTLYp0I9u2-f03n336k.jpeg)
+The significant shift towards online shopping has been accompanied by the increasing adoption of digital payments. 
+
+### [68. Revolution Age: How AI Is Set to Break the Barrier and Shape the Future of Digital Payments](https://hackernoon.com/revolution-age-how-ai-is-set-to-break-the-barrier-and-shape-the-future-of-digital-payments)
 ![](https://cdn.hackernoon.com/images/BtT9cgZDjlPOmSizDqeuLQ7dUam2-7093rss.jpeg)
 In this article, I will explore three crucial use cases for artificial intelligence that can come in handy for digital payment providers.
 
-### [68. Cryptocurrency Technology Provides a Higher Level of Security Compared to Widespread Credit Cards](https://hackernoon.com/cryptocurrency-technology-provides-a-higher-level-of-security-compared-to-widespread-credit-cards)
+### [69. Cryptocurrency Technology Provides a Higher Level of Security Compared to Widespread Credit Cards](https://hackernoon.com/cryptocurrency-technology-provides-a-higher-level-of-security-compared-to-widespread-credit-cards)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-ig03b9g.jpeg)
 This article talks about crypto, blockchain and DeFi solutions. 
 
-### [69. Transak Records 400% Surge in Solana Transactions Following Phantom Integration](https://hackernoon.com/transak-records-400percent-surge-in-solana-transactions-following-phantom-integration)
+### [70. Transak Records 400% Surge in Solana Transactions Following Phantom Integration](https://hackernoon.com/transak-records-400percent-surge-in-solana-transactions-following-phantom-integration)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-lu136wu.png)
 Transak's integration with the Phantom wallet has led to a surge in transaction volumes on the Solana network. 
-
-### [70. Online Retail Innovation: Here's What 2021 Has In Store For Payments After The Digital Boom In 2020](https://hackernoon.com/online-retail-innovation-heres-what-2021-has-in-store-for-payments-after-the-digital-boom-in-2020-vt4t35ki)
-![](https://cdn.hackernoon.com/images/j3Sri5wBbRXmWxOuMkdTLYp0I9u2-f03n336k.jpeg)
-The significant shift towards online shopping has been accompanied by the increasing adoption of digital payments. 
 
 ### [71. Setting Up WooCommerce on Your WordPress Site](https://hackernoon.com/woocommerce-on-wordpress)
 ![](https://cdn.hackernoon.com/images/Q24aMWe0S4OZsnV3n1I0FkkplFw2-bg93kqg.jpeg)
@@ -296,21 +300,21 @@ Decentralized finance (DeFi) has higher returns and interest rates than typical 
 ![](https://cdn.hackernoon.com/images/cZRwLK2V7qQxUHUoQztpK8ODFnx2-j083g5n.jpeg)
 The hands-on case of how not to get caught into the fraud scheme on the marketplace. Technical details and payment security recommendations.
 
-### [74. Fintech: How COVID Affected Payments and the Underbanked ](https://hackernoon.com/fintech-how-covid-affected-payments-and-the-underbanked-7q2233xm)
+### [74. Top 13 Payment Processing Solutions for Small Businesses](https://hackernoon.com/top-13-payment-processing-solutions-for-small-businesses)
+![](https://cdn.hackernoon.com/images/BO66XoaR05VREVmSLSidDW2zNXp2-ml93gov.jpeg)
+This list will help you understand some of the most popular online payment solutions for small businesses and choose the right one!
+
+### [75. Fintech: How COVID Affected Payments and the Underbanked ](https://hackernoon.com/fintech-how-covid-affected-payments-and-the-underbanked-7q2233xm)
 ![](https://cdn.hackernoon.com/images/7Oj851Eo7TTD9ygsR2PLf7qAVh13-44e33gd.jpeg)
 The COVID-19 pandemic was a disruptor in the purest startup sense. The immediate shift to remote work, school, and socially distanced ways of life accelerated innovation by an estimated five years.
 
-### [75. An Introduction to PCI Compliance](https://hackernoon.com/an-introduction-to-pci-compliance)
+### [76. An Introduction to PCI Compliance](https://hackernoon.com/an-introduction-to-pci-compliance)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-3u93ode.jpeg)
 There are plenty of reasons for enterprises that work with cardholder data to care about payment card industry (PCI) compliance. 
 
-### [76. Your Credit Card Has Become a Data-Mining Machine](https://hackernoon.com/your-credit-card-has-become-a-data-mining-machine)
+### [77. Your Credit Card Has Become a Data-Mining Machine](https://hackernoon.com/your-credit-card-has-become-a-data-mining-machine)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5202v7y.jpeg)
 Discover how card payments work: types of cards, key players, open vs. closed loop networks, and the role of AI/ML and Big Data.
-
-### [77. Top 13 Payment Processing Solutions for Small Businesses](https://hackernoon.com/top-13-payment-processing-solutions-for-small-businesses)
-![](https://cdn.hackernoon.com/images/BO66XoaR05VREVmSLSidDW2zNXp2-ml93gov.jpeg)
-This list will help you understand some of the most popular online payment solutions for small businesses and choose the right one!
 
 ### [78. Building a Secure Payment App Ecosystem for Smart Payment Terminals](https://hackernoon.com/building-a-secure-payment-app-ecosystem-for-smart-payment-terminals)
 ![](https://cdn.hackernoon.com/images/1D7LlYZluYbmdPmRpqWXI9SZrGM2-sb133pg.jpeg)
@@ -332,111 +336,111 @@ It is a huge task to find the right recurring payment solution for a SaaS busine
 ![](https://cdn.hackernoon.com/images/ec5ExNllSsMuJ8mpsiklMn85GGJ2-sn8w37dy.jpeg)
 NowPayments is a crypto payment gateway that lets you accept payments in 100 cryptocurrencies. 
 
-### [83. Crypto to Fiat Convertibility Holds The Key To The Next Leap In Payments](https://hackernoon.com/crypto-to-fiat-convertibility-holds-the-key-to-the-next-leap-in-payments-jg2o3w3u)
+### [83. Why 'Usage-Based' Billing in Payments Is Fake](https://hackernoon.com/why-usage-based-billing-in-payments-is-fake)
+![](https://cdn.hackernoon.com/images/zCgaw9MK4KUC4P2sGm2gj3biWPS2-8j13d9y.png)
+Stripe just acquired Metronome, a billing infrastructure company. The official reason is to “enhance usage-based pricing for AI’ But there’s a bigger story here
+
+### [84. Crypto to Fiat Convertibility Holds The Key To The Next Leap In Payments](https://hackernoon.com/crypto-to-fiat-convertibility-holds-the-key-to-the-next-leap-in-payments-jg2o3w3u)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQJiKJzDyzPZSFDQDLt3ogF88TJr1-ytw3upn.jpeg?alt=media&token=d6d8e8c7-4397-407c-9415-7a0640b04b69)
 A 2019 study by Blockchain Capital claimed that 11 percent of Americans own Bitcoin and 89 percent are aware of it. A different 2019 survey put BTC ownership at 6 percent of Americans. So why don’t we see widespread adoption of blockchain-powered payments at coffee shops, groceries, and eCommerce sites? 
 
-### [84. Key Takeaways For The Payment Industry Following The Pandemic](https://hackernoon.com/key-takeaways-for-the-payment-industry-following-the-pandemic-llo3u7e)
+### [85. Key Takeaways For The Payment Industry Following The Pandemic](https://hackernoon.com/key-takeaways-for-the-payment-industry-following-the-pandemic-llo3u7e)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fg5EC6lQZD5e2SRvphk4Q2JEKBzu2-5rc4vz6.webp?alt=media&token=bdb8579f-cb62-495c-b0c1-e1c5ad3c0c3b)
 Before the pandemic, many businesses did not even think about shifting to e-commerce, but then went online and completely automated their processes in a matter of weeks. I asked Mike Shafro, xpate CEO, what role paytech partners play during the transition, which payment solutions are here to stay and how the shift to e-commerce affects the safety of funds.
 
-### [85. Integrating STACS with Project Ubin V - A Client-First Approach to Technical Design](https://hackernoon.com/integrating-stacs-with-project-ubin-v-a-client-experience-approach-to-technical-design-wu2132d2)
+### [86. Integrating STACS with Project Ubin V - A Client-First Approach to Technical Design](https://hackernoon.com/integrating-stacs-with-project-ubin-v-a-client-experience-approach-to-technical-design-wu2132d2)
 ![](https://cdn.hackernoon.com/images/yd1ku32mr.jpg)
 Event-Driven Architecture with Real-time UI
-
-### [86. Why 'Usage-Based' Billing in Payments Is Fake](https://hackernoon.com/why-usage-based-billing-in-payments-is-fake)
-![](https://cdn.hackernoon.com/images/zCgaw9MK4KUC4P2sGm2gj3biWPS2-8j13d9y.png)
-Stripe just acquired Metronome, a billing infrastructure company. The official reason is to “enhance usage-based pricing for AI’ But there’s a bigger story here
 
 ### [87. (Spring) Booting Java to Accept Digital Payments with USDC](https://hackernoon.com/spring-booting-java-to-accept-digital-payments-with-usdc)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-6h9303a.jpeg)
 After focusing my career on Fintech, I decided it was time to understand how to introduce web3 into an existing Java-based RESTful API.
 
-### [88. In-car Payment Systems Unlock New Opportunities for M2M Economy](https://hackernoon.com/in-car-payment-systems-unlock-new-opportunities-for-m2m-economy-ah1435wg)
+### [88. Designing a Multi-Seller Platform With Stripe Connect Express](https://hackernoon.com/designing-a-multi-seller-platform-with-stripe-connect-express)
+![](https://cdn.hackernoon.com/images/TQ7OIXXHJSMreM89ODvejb1xofb2-he03gsu.png)
+A practical, experience-driven guide to designing a multi-seller B2B SaaS platform with Stripe Connect Express and Webhooks.
+
+### [89. In-car Payment Systems Unlock New Opportunities for M2M Economy](https://hackernoon.com/in-car-payment-systems-unlock-new-opportunities-for-m2m-economy-ah1435wg)
 ![](https://cdn.hackernoon.com/images/jDZMWLjAvZQ79fOc1MHpfNwnpmB2-3r2m34v6.jpeg)
 The full potential of in-car payment systems will be revealed in the machine-to-machine economy and a cooperative mobility ecosystem
 
-### [89. Recurring Payments: The Trend of the Future ](https://hackernoon.com/recurring-payments-trend-of-the-future)
+### [90. Recurring Payments: The Trend of the Future ](https://hackernoon.com/recurring-payments-trend-of-the-future)
 ![](https://cdn.hackernoon.com/images/e1vl3GX8BpXoAGI9qZJqAwLDK5h1-pq83uxb.jpeg)
 Discover the future of recurring payments, a $15.4 trillion market, and how open banking is revolutionizing this popular payment method
 
-### [90. Welcome to California, Where Your Face Is Your Credit Card](https://hackernoon.com/welcome-to-california-where-your-face-is-your-credit-card-i4e73cas)
+### [91. Welcome to California, Where Your Face Is Your Credit Card](https://hackernoon.com/welcome-to-california-where-your-face-is-your-credit-card-i4e73cas)
 ![](https://cdn.hackernoon.com/drafts/lrfm3c7b.png)
 Whether you are craving a burger or Chinese food tonight, there is no need to reach for your wallet or phone to buy it. Food vendors in California are embracing facial recognition — technology that lets you pay with a smile.
 
-### [91. How Open Banking Helps Bridge the Financial Divide for Gig Workers](https://hackernoon.com/how-open-banking-helps-bridge-the-financial-divide-for-gig-workers)
+### [92. How Open Banking Helps Bridge the Financial Divide for Gig Workers](https://hackernoon.com/how-open-banking-helps-bridge-the-financial-divide-for-gig-workers)
 ![](https://cdn.hackernoon.com/images/YXlpEeJiamM0KVOSubTHDEXWVDQ2-ph93vlr.jpeg)
 Typically, banks prefer predictable and stable customers. And yet, due to the sporadic nature of gig workers’ income, they don’t make for safe and reliable.
-
-### [92. How to Optimize Your Online Payment Process for Higher Conversion Effectively](https://hackernoon.com/how-to-optimize-your-online-payment-process-for-higher-conversion-effectively)
-![](https://cdn.hackernoon.com/images/jcBpMlS0G8h9fwyW2mIL8B4HIOm1-jsb3p1v.png)
-Ensure a simple and seamless payment process · Optimize security to better identify fraudulent transactions · Implement an omnichannel payment.
 
 ### [93. Global Entrepreneurs Need Global Payment Solutions - Here Are 5 that I Recommend](https://hackernoon.com/5-innovative-payment-solutions-for-global-entrepreneurs-4s6l135q8)
 ![](https://cdn.hackernoon.com/drafts/n8o358o.png)
 Entrepreneurs, freelancers, and business owners have had to jump through hoops to accept payments from international clients. Bank transfers are fee-ridden and take days to process. PayPal has been known to freeze accounts randomly. Other payment providers simply do not work with certain countries. Providers have been known to pry deep into a person's business operations without much merit or probable cause. 
 
-### [94. New Kid on the Block: How Paytech Innovations Are Revolutionizing the Way We Get Paid](https://hackernoon.com/new-kid-on-the-block-how-paytech-innovations-are-revolutionizing-the-way-we-get-paid)
+### [94. How to Optimize Your Online Payment Process for Higher Conversion Effectively](https://hackernoon.com/how-to-optimize-your-online-payment-process-for-higher-conversion-effectively)
+![](https://cdn.hackernoon.com/images/jcBpMlS0G8h9fwyW2mIL8B4HIOm1-jsb3p1v.png)
+Ensure a simple and seamless payment process · Optimize security to better identify fraudulent transactions · Implement an omnichannel payment.
+
+### [95. New Kid on the Block: How Paytech Innovations Are Revolutionizing the Way We Get Paid](https://hackernoon.com/new-kid-on-the-block-how-paytech-innovations-are-revolutionizing-the-way-we-get-paid)
 ![](https://cdn.hackernoon.com/images/sa0IrZf7uicXZQetjnuL3qXw7pV2-zz93xl7.jpeg)
 Paytech has become an interesting space for startups because it allows for the disruption of entrenched finance models.
-
-### [95. Designing a Multi-Seller Platform With Stripe Connect Express](https://hackernoon.com/designing-a-multi-seller-platform-with-stripe-connect-express)
-![](https://cdn.hackernoon.com/images/TQ7OIXXHJSMreM89ODvejb1xofb2-he03gsu.png)
-A practical, experience-driven guide to designing a multi-seller B2B SaaS platform with Stripe Connect Express and Webhooks.
 
 ### [96. The Power of Campaign Management in Driving Business Objectives and Checkout Success](https://hackernoon.com/the-power-of-campaign-management-in-driving-business-objectives-and-checkout-success)
 ![](https://cdn.hackernoon.com/images/TAUhpXkfH6blzrOESAUtpaBdz9l1-htj329h.png)
 The case illustrates how aligning the interests of game developers and payment providers can boost payment conversion rates, expand method coverage
 
-### [97. This Service Will Transform the Way Companies Receive Cryptocurrencies in 2023](https://hackernoon.com/this-service-will-transform-the-way-companies-receive-cryptocurrencies-in-2023)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-t493prn.jpeg)
-Among the current targets, Slash is appealing mainly to restaurants, retail & e-commerce (fashion, travel), luxury, and multi-payment providers.
-
-### [98. Evaluating the Best Cryptocurrency Payment Gateways](https://hackernoon.com/evaluating-the-best-cryptocurrency-payment-gateways)
+### [97. Evaluating the Best Cryptocurrency Payment Gateways](https://hackernoon.com/evaluating-the-best-cryptocurrency-payment-gateways)
 ![](https://cdn.hackernoon.com/images/jyxipoR2XGOO5Xh9kAKMz0W6Hxo2-4nc3rxe.jpeg)
 Review and nuanced comparison of the leading cryptocurrency payment gateway providers such as CoinGate, CoinsPaid and BitPay
 
+
+### [98. This Service Will Transform the Way Companies Receive Cryptocurrencies in 2023](https://hackernoon.com/this-service-will-transform-the-way-companies-receive-cryptocurrencies-in-2023)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-t493prn.jpeg)
+Among the current targets, Slash is appealing mainly to restaurants, retail & e-commerce (fashion, travel), luxury, and multi-payment providers.
 
 ### [99. The Collapse of FTX and Its Impact on Crypto Payments](https://hackernoon.com/the-collapse-of-ftx-and-its-impact-on-crypto-payments)
 ![](https://cdn.hackernoon.com/images/fall-of-cryptocurrency-cldwxjr2r000201s62wkx4vud.png)
 Contending with a series of scandals and bankruptcies, 2022 marked one of the biggest market collapses.
 
-### [100. 6 Websites Where You Can Pay With Bitcoin (BTC)](https://hackernoon.com/6-websites-where-you-can-pay-with-bitcoin-btc)
-![](https://cdn.hackernoon.com/images/e4LQkB0qKpOHnRts3rMaOKGjzoU2-k3035ie.jpeg)
-Cryptocurrency no longer seems to be something distant: let's start talking more about how such "virtual" money can be used in real life. 
-
-### [101. Cracking the Code on Credit Card Declines and Hidden Revenue Loss](https://hackernoon.com/cracking-the-code-on-credit-card-declines-and-hidden-revenue-loss)
-![](https://cdn.hackernoon.com/images/tyZnb9z7DgdejsjevON1viApWeQ2-xg936od.jpeg)
-Credit card declines are more than payment failures — they’re silent revenue killers. Discover why it’s time for businesses to rethink?
-
-### [102. How to Reduce Card Processing Fees with Open Banking and More](https://hackernoon.com/how-to-reduce-card-processing-fees-with-open-banking-and-more)
-![](https://cdn.hackernoon.com/images/e1vl3GX8BpXoAGI9qZJqAwLDK5h1-8n738xn.jpeg)
-Discover how open banking can slash card processing fees for businesses. Expert insights on cost-saving strategies for merchants.
-
-### [103. The Role of Embedded Finance in Creating a Frictionless Experience](https://hackernoon.com/the-role-of-embedded-finance-in-creating-a-frictionless-experience)
+### [100. The Role of Embedded Finance in Creating a Frictionless Experience](https://hackernoon.com/the-role-of-embedded-finance-in-creating-a-frictionless-experience)
 ![](https://cdn.hackernoon.com/images/7YvHL3ENPXaPCMItFXxed30R6de2-a693km1.jpeg)
 Customers are still big on frictionless experiences and because humans are insatiable in their quest to improve life’s meaningfulness, the job is never done.
 
-### [104. Payment Request API Specification](https://hackernoon.com/payment-request-api-specification-eu1c3y2n)
+### [101. 6 Websites Where You Can Pay With Bitcoin (BTC)](https://hackernoon.com/6-websites-where-you-can-pay-with-bitcoin-btc)
+![](https://cdn.hackernoon.com/images/e4LQkB0qKpOHnRts3rMaOKGjzoU2-k3035ie.jpeg)
+Cryptocurrency no longer seems to be something distant: let's start talking more about how such "virtual" money can be used in real life. 
+
+### [102. QR Code Payment Methods: How Businesses Can Simplify Transactions and Cut Costs with Open Banking](https://hackernoon.com/qr-code-payment-methods-how-businesses-can-simplify-transactions-and-cut-costs-with-open-banking)
+![](https://cdn.hackernoon.com/images/e1vl3GX8BpXoAGI9qZJqAwLDK5h1-28038kx.jpeg)
+Discover the best QR code payment methods and learn how open banking can boost speed, security, and cut costs for your business.
+
+### [103. Cracking the Code on Credit Card Declines and Hidden Revenue Loss](https://hackernoon.com/cracking-the-code-on-credit-card-declines-and-hidden-revenue-loss)
+![](https://cdn.hackernoon.com/images/tyZnb9z7DgdejsjevON1viApWeQ2-xg936od.jpeg)
+Credit card declines are more than payment failures — they’re silent revenue killers. Discover why it’s time for businesses to rethink?
+
+### [104. How to Reduce Card Processing Fees with Open Banking and More](https://hackernoon.com/how-to-reduce-card-processing-fees-with-open-banking-and-more)
+![](https://cdn.hackernoon.com/images/e1vl3GX8BpXoAGI9qZJqAwLDK5h1-8n738xn.jpeg)
+Discover how open banking can slash card processing fees for businesses. Expert insights on cost-saving strategies for merchants.
+
+### [105. GameSwift Introduces GS Pay To Bridge The Gap Between Web2 and Web3 Payments](https://hackernoon.com/gameswift-introduces-gs-pay-to-bridge-the-gap-between-web2-and-web3-payments)
+![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-m183zpe.jpeg)
+GameSwift introduces GS Pay, a revolutionary payment system, turning in-game treasures into real money for gamers' everyday expenses.
+
+### [106. Payment Request API Specification](https://hackernoon.com/payment-request-api-specification-eu1c3y2n)
 ![](https://cdn.hackernoon.com/images/z4y2eom.jpg)
 Secure context
 This feature is available only in secure contexts (HTTPS), in some or all supporting browsers.
 
-### [105. QR Code Payment Methods: How Businesses Can Simplify Transactions and Cut Costs with Open Banking](https://hackernoon.com/qr-code-payment-methods-how-businesses-can-simplify-transactions-and-cut-costs-with-open-banking)
-![](https://cdn.hackernoon.com/images/e1vl3GX8BpXoAGI9qZJqAwLDK5h1-28038kx.jpeg)
-Discover the best QR code payment methods and learn how open banking can boost speed, security, and cut costs for your business.
-
-### [106. GameSwift Introduces GS Pay To Bridge The Gap Between Web2 and Web3 Payments](https://hackernoon.com/gameswift-introduces-gs-pay-to-bridge-the-gap-between-web2-and-web3-payments)
-![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-m183zpe.jpeg)
-GameSwift introduces GS Pay, a revolutionary payment system, turning in-game treasures into real money for gamers' everyday expenses.
-
-### [107. Some of the most influential Fintech products that came from Finland](https://hackernoon.com/dmedsome-of-the-most-influential-fintech-products-that-came-from-finland-kd203ynv)
-![](https://cdn.hackernoon.com/drafts/60673yjp.png)
-The number of fintech companies that are in Finland has seen amazing growth over the years, with the country currently housing approximately 180 companies and covering all the different field of fintech such as:
-
-### [108. Cryptocurrency Becomes More Accessible with Lama's Innovative Visa Cards](https://hackernoon.com/cryptocurrency-becomes-more-accessible-with-lamas-innovative-visa-cards)
+### [107. Cryptocurrency Becomes More Accessible with Lama's Innovative Visa Cards](https://hackernoon.com/cryptocurrency-becomes-more-accessible-with-lamas-innovative-visa-cards)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-m993r5d.jpeg)
 Lama, the regulated cryptocurrency exchange, has unveiled Visa cards for its users. 
+
+### [108. Some of the most influential Fintech products that came from Finland](https://hackernoon.com/dmedsome-of-the-most-influential-fintech-products-that-came-from-finland-kd203ynv)
+![](https://cdn.hackernoon.com/drafts/60673yjp.png)
+The number of fintech companies that are in Finland has seen amazing growth over the years, with the country currently housing approximately 180 companies and covering all the different field of fintech such as:
 
 ### [109. Neobanks Notwithstanding, Traditional Banks Are Not Going Away](https://hackernoon.com/neobanks-notwithstanding-traditional-banks-are-not-going-away-7ei3477)
 ![](https://cdn.hackernoon.com/images/DWppJua2IDXl57MlhLZBZRjymIE3-j920310v.jpeg)
@@ -446,18 +450,18 @@ Traditional banks Vs. Neobanks
 ![](https://cdn.hackernoon.com/drafts/rzed3aqn.png)
 Whether you are craving a burger or Chinese food tonight, there is no need to reach for your wallet or phone to buy it. Food vendors in California are embracing facial recognition — technology that lets you pay with a smile.
 
-### [111. The Growth of PFOF and How it Really Works](https://hackernoon.com/the-growth-of-pfof-and-how-it-really-works-ri2x35dr)
-![](https://cdn.hackernoon.com/images/ewAGeJ7g5pXixQvEMIo833zbCd92-uv7135we.jpeg)
-PFOF has become most affordable trading approach yielding great profits for everyone, especially after SEC disclosure of information amendment 
-
+### [111. SME Lending at Point Of Sale](https://hackernoon.com/sme-lending-at-point-of-sale)
+![](https://cdn.hackernoon.com/images/EeG8WGFw4EUuYZvRw0Sc5HS9Kzl1-8p93hza.jpeg)
+ If the merchant is using the POS and terminal, there should be no need to fill in long forms and upload documents.
 
 ### [112. Implementing Crypto Payments Into Business Systems ](https://hackernoon.com/implementing-crypto-payments-into-business-systems)
 ![](https://cdn.hackernoon.com/images/V2uqwi6cHOSQ9XYURd6Tg8DkKzx2-lj93pmk.jpeg)
 Implementing crypto payments as a business solution, integrating API and plug ins
 
-### [113. SME Lending at Point Of Sale](https://hackernoon.com/sme-lending-at-point-of-sale)
-![](https://cdn.hackernoon.com/images/EeG8WGFw4EUuYZvRw0Sc5HS9Kzl1-8p93hza.jpeg)
- If the merchant is using the POS and terminal, there should be no need to fill in long forms and upload documents.
+### [113. The Growth of PFOF and How it Really Works](https://hackernoon.com/the-growth-of-pfof-and-how-it-really-works-ri2x35dr)
+![](https://cdn.hackernoon.com/images/ewAGeJ7g5pXixQvEMIo833zbCd92-uv7135we.jpeg)
+PFOF has become most affordable trading approach yielding great profits for everyone, especially after SEC disclosure of information amendment 
+
 
 ### [114. CoinBase's 'BASE' is Changing Pace!](https://hackernoon.com/coinbases-base-is-changing-pace)
 ![](https://cdn.hackernoon.com/images/qrbeyTZcBdOPUm6xsqaqnks9juS2-1q93u29.jpeg)
@@ -495,21 +499,21 @@ According to Investopedia:
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-7ld3nu8.jpeg)
 Alon Rajic is the founder of Money Transfer Comparison, Finofin. He says the biggest story of the year in UK Fintech, at least in his view is the IPO of Wise.
 
-### [123. When Messenger Apps Adopt Fintech: Privacy Issues and Implications](https://hackernoon.com/when-messenger-apps-adopt-fintech-privacy-issues-and-implications-ta6q3uz7)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FjJVe8ZecxOS25OL2vfh7JNza0xI3-rls3ez1.jpeg?alt=media&token=0974602d-99e9-4690-946f-b65d51f48ebf)
-There are many ways in which the world is divided up: borders, differing cultures, and even vast masses of water serve to partition the globe. Preference per region for Messenger apps is one of the less initially visible ways this is done. 
+### [123. 4 Reasons Why Your Business Should Accept Mobile Payments](https://hackernoon.com/4-reasons-why-your-business-should-accept-mobile-payments-vh523zwq)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpVeOIJjSwqfyTge2m4dw1hZizez2-a6183wvk.jpeg?alt=media&token=df3415bc-d3a5-4134-bb99-b2457ca4c742)
+In an age where our daily lives are interconnected to technological advancement, it may be time to consider using a mobile device to make payments while on the go. We live in a world operating on ease and immediate response, so it may be time to convert towards this new, innovative option. 
 
 ### [124. Top 5 Payment Tech Trends for 2024: Growth, Disruption and Seamless User Experiences](https://hackernoon.com/top-5-payment-tech-trends-for-2024-growth-disruption-and-seamless-user-experiences)
 ![](https://cdn.hackernoon.com/images/TM8IKMBtnoVzmc1qKCN55eztHxE3-8t83zvz.jpeg)
 Payment trends are affecting the evolution of both currency transfers, and of the usage of crypto tokens as a form of fintech.
 
-### [125. How to Take Part in the HealthTech Revolution](https://hackernoon.com/how-to-take-part-in-the-healthtech-revolution-2m393yky)
+### [125. When Messenger Apps Adopt Fintech: Privacy Issues and Implications](https://hackernoon.com/when-messenger-apps-adopt-fintech-privacy-issues-and-implications-ta6q3uz7)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FjJVe8ZecxOS25OL2vfh7JNza0xI3-rls3ez1.jpeg?alt=media&token=0974602d-99e9-4690-946f-b65d51f48ebf)
+There are many ways in which the world is divided up: borders, differing cultures, and even vast masses of water serve to partition the globe. Preference per region for Messenger apps is one of the less initially visible ways this is done. 
+
+### [126. How to Take Part in the HealthTech Revolution](https://hackernoon.com/how-to-take-part-in-the-healthtech-revolution-2m393yky)
 ![](https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 As the saying goes, it’s impossible to put a price on your health.
-
-### [126. 4 Reasons Why Your Business Should Accept Mobile Payments](https://hackernoon.com/4-reasons-why-your-business-should-accept-mobile-payments-vh523zwq)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpVeOIJjSwqfyTge2m4dw1hZizez2-a6183wvk.jpeg?alt=media&token=df3415bc-d3a5-4134-bb99-b2457ca4c742)
-In an age where our daily lives are interconnected to technological advancement, it may be time to consider using a mobile device to make payments while on the go. We live in a world operating on ease and immediate response, so it may be time to convert towards this new, innovative option. 
 
 ### [127. The Payment Problem: A Tale of Triumph](https://hackernoon.com/the-payment-problem-a-tale-of-triumph)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-z392brv.jpeg)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [proof-of-stake](https://hackernoon.com/tagged/proof-of-stake)
+### Let's learn about [Proof Of Stake](https://hackernoon.com/tagged/proof-of-stake) via these 106 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Proof of Stake (PoS) is a consensus mechanism used by some cryptocurrencies to validate transactions and create new blocks, offering an energy-efficient alternative to Proof of Work. It relies on validators who stake their coins as collateral, promoting network security and decentralization.
+
 ### [1. What Advantage Do Programmable NFTs Bring to Users?](https://hackernoon.com/what-advantage-do-programmable-nfts-bring-to-users)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-6x93usp.jpeg)
 Raunaq Vaisoha is a second-time crypto entrepreneur and has been in the space since 2013. NFTs are evolving from static to dynamic objects.
@@ -106,21 +110,21 @@ Cryptocurrencies are prone to many different types of attack. As Bitcoin is over
 
 But what about the Proof-of-Stake algorithms? Have they solved some of the vulnerabilities of Bitcoin and its Proof-of-Work algorithm?
 
-### [26. WTF is Exchange Staking?](https://hackernoon.com/wtf-is-exchange-staking-4b1h3xla)
+### [26. Proof-of-Stake vs Proof-of-Work vs Proof-of-Time: What’s the Difference?](https://hackernoon.com/proof-of-stake-vs-proof-of-work-vs-proof-of-time-whats-the-difference)
+![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-4k92d2o.jpeg)
+We'll look at the difference between these three algorithms - Proof-of-Stake vs Proof-of-Work vs Proof-of-Time and how they compare. 
+
+### [27. WTF is Exchange Staking?](https://hackernoon.com/wtf-is-exchange-staking-4b1h3xla)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5rS4yrERbxUtfUCTsrb3x2kieP32-kn7q3emp.jpeg?alt=media&token=60386bba-27b3-4441-b5a8-6f095b574e24)
 Introduction
 
-### [27. Why Liquid Staking Benefits the Crypto Ecosystem](https://hackernoon.com/why-liquid-staking-benefits-the-crypto-ecosystem)
+### [28. Why Liquid Staking Benefits the Crypto Ecosystem](https://hackernoon.com/why-liquid-staking-benefits-the-crypto-ecosystem)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-txa3o7m.jpeg)
 Proof of Stake (PoS) blockchains are waiting for you to stake your crypto. Yet staking’s low participation — only 24% of the total market cap of staking platforms are locked in staking — means that crypto enthusiasts have yet to realize its benefits.
 
-### [28. Why SNARKs Are the Technology of the Coming Decade](https://hackernoon.com/why-snarks-are-the-technology-of-the-coming-decade-rb1u3y84)
+### [29. Why SNARKs Are the Technology of the Coming Decade](https://hackernoon.com/why-snarks-are-the-technology-of-the-coming-decade-rb1u3y84)
 ![](https://cdn.hackernoon.com/images/vc233yho.jpg)
 Welcome to the SNARK Age, a pop-up newsletter exploring and celebrating a technology that we believe will have fundamental and deterministic impacts on privacy, computing, cryptography, and money in the years to come. We’ll be sharing (mostly) bite-sized issues highlighting the key events, milestones and people in the space. 
-
-### [29. Proof-of-Stake vs Proof-of-Work vs Proof-of-Time: What’s the Difference?](https://hackernoon.com/proof-of-stake-vs-proof-of-work-vs-proof-of-time-whats-the-difference)
-![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-4k92d2o.jpeg)
-We'll look at the difference between these three algorithms - Proof-of-Stake vs Proof-of-Work vs Proof-of-Time and how they compare. 
 
 ### [30. Is Proof-of-Stake the Savior of Cryptocurrency's Future?](https://hackernoon.com/is-proof-of-stake-the-savior-of-cryptocurrencys-future)
 ![](https://cdn.hackernoon.com/images/OrZsakIxdNbSXibciLwU48PzRMf1-bj93ir9.jpeg)
@@ -142,13 +146,13 @@ In this article, we look at the two most popular consensus mechanisms - PoW and 
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-go93uai.jpeg)
 KleverChain is secured through the Proof-of-Stake consensus mechanism composed of 21 validators that work on a randomised selection of master nodes dynamically.
 
-### [35. Distributed Validator Technology: Decentralizing Ethereum's Proof-of-Stake](https://hackernoon.com/distributed-validator-technology-decentralizing-ethereums-proof-of-stake)
-![](https://cdn.hackernoon.com/images/wfm0qi0hmxcUYRnXg9j6NlR61V82-cu83v8h.jpeg)
-Exploring Distributed Validator Technology (DVT) within the Ethereum network.
-
-### [36. Node Providers](https://hackernoon.com/node-providers)
+### [35. Node Providers](https://hackernoon.com/node-providers)
 ![](https://cdn.hackernoon.com/images/JNuKcaRO9ogvXzLwR9r8ripU4X83-36c3l5o.jpeg)
 The node provider market is crowded. New players have few opportunities: support long tailed assets, better UX, lower price.
+
+### [36. Distributed Validator Technology: Decentralizing Ethereum's Proof-of-Stake](https://hackernoon.com/distributed-validator-technology-decentralizing-ethereums-proof-of-stake)
+![](https://cdn.hackernoon.com/images/wfm0qi0hmxcUYRnXg9j6NlR61V82-cu83v8h.jpeg)
+Exploring Distributed Validator Technology (DVT) within the Ethereum network.
 
 ### [37. Carbon Footprint: Proof-of-Work vs. Proof-of-Stake](https://hackernoon.com/carbon-footprint-proof-of-work-vs-proof-of-stake)
 ![](https://cdn.hackernoon.com/images/41Od6M8pocRGSaoN7B2VBCyuM3E2-u72372o.jpeg)
@@ -206,17 +210,17 @@ While the global economy is being severely impacted by the coronavirus crisis, w
 ![](https://cdn.hackernoon.com/images/VVaZ6klR4KVpPsarZeof7P9RR1r1-1t7k35qr.jpeg)
 One of the hardest parts of designing a monitoring system is predicting everything that “might” go wrong. That only comes from experience, not just over time, b
 
-### [51. Rising Gas Fees in the Run-up to Ethereum 2.0 Upgrade](https://hackernoon.com/rising-gas-fees-in-the-run-up-to-ethereum-20-upgrade-0ol3x3d)
+### [51. Rules You Need to Know Before Staking ](https://hackernoon.com/rules-you-need-to-know-before-staking)
+![](https://cdn.hackernoon.com/images/JNuKcaRO9ogvXzLwR9r8ripU4X83-d6938wr.png)
+Staking is like the treasury of the crypto world. It offers low-risk yield and is the best strategy in the bear market. Here are must know rules before staking.
+
+### [52. Rising Gas Fees in the Run-up to Ethereum 2.0 Upgrade](https://hackernoon.com/rising-gas-fees-in-the-run-up-to-ethereum-20-upgrade-0ol3x3d)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2lw2eoJaRDWCFQZC7lfDev9awoC3-k4b3upw.jpeg?alt=media&token=842f601d-c3d6-49c6-a9a9-bfdbb127c937)
 Ethereum gas fees have been on the rise since the beginning of the year. In the latest developments, miners on the world’s second-largest blockchain protocol voted to increase the gas limit from 10 to 12.5 million Gwei. This increase of 25 percent in miner fees contributes to the more than 75 percent rise year-to-date.
 
-### [52. Ethereum POS: What’s Next?](https://hackernoon.com/ethereum-pos-whats-next)
+### [53. Ethereum POS: What’s Next?](https://hackernoon.com/ethereum-pos-whats-next)
 ![](https://cdn.hackernoon.com/images/14TrUQaAknSmk2wmjSwmUYqTmiI2-6e93ryy.jpeg)
 Do you want to know what’s next after Ethereum transition to proof of stake? This article will explain all four phases ethereum  needed to  reach full capacity.
-
-### [53. Rules You Need to Know Before Staking ](https://hackernoon.com/rules-you-need-to-know-before-staking)
-![](https://cdn.hackernoon.com/images/JNuKcaRO9ogvXzLwR9r8ripU4X83-d6938wr.png)
-Staking is like the treasury of the crypto world. It offers low-risk yield and is the best strategy in the bear market. Here are must know rules before staking.
 
 ### [54. What Should We Expect From The Upcoming Release of Ethereum 2.0? ](https://hackernoon.com/what-should-we-expect-from-the-upcoming-release-of-ethereum-20-gc5m38hs)
 ![](https://cdn.hackernoon.com/drafts/851wy3x4e.png)
@@ -290,141 +294,145 @@ For advocates of the widescale adoption of cryptocurrency, there is one major ch
 ![](https://cdn.hackernoon.com/images/tbhXjSpTpPfJ3vmIUISN6bt5Rf42-rjv33id.jpeg)
 Staking pools enable investors to earn passive income by validating blocks and receiving rewards.
 
-### [72. We Need More Layer 1s, Please](https://hackernoon.com/we-need-more-layer-1s-please)
+### [72. BASIS Successfully Completes Private Testing as Base58 Labs Prepares for Full-Scale Staking Market ](https://hackernoon.com/basis-successfully-completes-private-testing-as-base58-labs-prepares-for-full-scale-staking-market)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-sw83g7e.jpeg)
+The platform demonstrated sub-50 microsecond execution latency and 100% uptime during the private testing phase with institutional participants
+
+### [73. We Need More Layer 1s, Please](https://hackernoon.com/we-need-more-layer-1s-please)
 ![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-ft0367w.jpeg)
 Curious about the future of Layer 1s? Read on to see why new blockchains could challenge Ethereum, and how a multi-chain world may reshape crypto’s next chapter
 
-### [73. Looking Into Ethereum’s Merge And How KIRA Circumvents PoS’s Biggest Weakness](https://hackernoon.com/looking-into-ethereums-merge-and-how-kira-circumvents-poss-biggest-weakness)
+### [74. Looking Into Ethereum’s Merge And How KIRA Circumvents PoS’s Biggest Weakness](https://hackernoon.com/looking-into-ethereums-merge-and-how-kira-circumvents-poss-biggest-weakness)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-s393otf.jpeg)
 Ethereum's Merge switched the blockchain from Proof of Work to Proof of Stake. While it addressed some of the old problems, it created a new set to deal with.
 
-### [74. How FCG Is Adding Transparency to Charitable Donations Through Staking ](https://hackernoon.com/how-fcg-is-adding-transparency-to-charitable-donations-through-staking)
+### [75. How FCG Is Adding Transparency to Charitable Donations Through Staking ](https://hackernoon.com/how-fcg-is-adding-transparency-to-charitable-donations-through-staking)
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-w9e3jh9.jpeg)
 Transparency with how charitable organizations spend their income is a point of concern for people who donate to these organizations.
 
-### [75. Ethereum 2.0: An Overview](https://hackernoon.com/ethereum-20-an-overview-ib193zjh)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlRf4kL1bMBWI0TuYCyQdn05yE0t1-bqe3w17.jpeg?alt=media&token=de7e39f1-f872-45af-b69f-465743f39191)
-Ethereum 2.0 will bring about a lot of changes to the Ethereum network. The main purpose of the upgrade is to make the blockchain FASTER (>15tx/sec), and more SECURE (51% attacks, centralization), while also saving energy (as opposed to mining with electricity). But this update will also imply a host of other changes, such as economic changes, which can also be seen as a way of responding to Ethereum’s stubborn critics, who keep pointing out its crucial issues, such as scalability (remember Cryptokitties?) and fees. Ethereum 2.0 shall lead the way for Ethereum to advance both its technological and economic structure in an attempt to better master the challenges of Blockchain in 2020 and beyond, as well as create new opportunities. However, the most important thing to note here is, that Ethereum 2.0 eventually aims to convert the ETH blockchain from Proof of Work to a PROOF OF STAKE mechanism, and introducing shard chains.
-
-### [76. The Essential Guide to Proof of Work (PoW) in Blockchain](https://hackernoon.com/the-essential-guide-to-proof-of-work-pow-in-blockchain-1e3f35c4)
-![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-22x32xn.jpeg)
-Proof of Work (commonly abbreviated to PoW) is a consensus algorithm used for preventing the 51% attack or double-spends.
-
-### [77. Ethereum's Deflationary Impact: What Investors Need to Know](https://hackernoon.com/ethereums-deflationary-impact-what-investors-need-to-know)
+### [76. Ethereum's Deflationary Impact: What Investors Need to Know](https://hackernoon.com/ethereums-deflationary-impact-what-investors-need-to-know)
 ![](https://cdn.hackernoon.com/images/3148XUJwNzfIzvWsFrgBm8NKpO82-5y92a3d.png)
 What exactly does becoming a deflationary cryptocurrency mean for Ethereum? And why is this important?
 
-### [78. How Proof of Stake Differs From Proof of Work](https://hackernoon.com/how-proof-of-stake-differs-from-proof-of-work-3i6432mv)
-![](https://cdn.hackernoon.com/images/dXI1QRJ8zNgLlqk3LlqfBXRzniJ3-su3q35be.jpeg)
-Privacy and security have always been a ground for debates in the crypto industry. Hence, the foundation of a consensus mechanism in the blockchain is important
+### [77. Ethereum 2.0: An Overview](https://hackernoon.com/ethereum-20-an-overview-ib193zjh)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlRf4kL1bMBWI0TuYCyQdn05yE0t1-bqe3w17.jpeg?alt=media&token=de7e39f1-f872-45af-b69f-465743f39191)
+Ethereum 2.0 will bring about a lot of changes to the Ethereum network. The main purpose of the upgrade is to make the blockchain FASTER (>15tx/sec), and more SECURE (51% attacks, centralization), while also saving energy (as opposed to mining with electricity). But this update will also imply a host of other changes, such as economic changes, which can also be seen as a way of responding to Ethereum’s stubborn critics, who keep pointing out its crucial issues, such as scalability (remember Cryptokitties?) and fees. Ethereum 2.0 shall lead the way for Ethereum to advance both its technological and economic structure in an attempt to better master the challenges of Blockchain in 2020 and beyond, as well as create new opportunities. However, the most important thing to note here is, that Ethereum 2.0 eventually aims to convert the ETH blockchain from Proof of Work to a PROOF OF STAKE mechanism, and introducing shard chains.
+
+### [78. The Essential Guide to Proof of Work (PoW) in Blockchain](https://hackernoon.com/the-essential-guide-to-proof-of-work-pow-in-blockchain-1e3f35c4)
+![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-22x32xn.jpeg)
+Proof of Work (commonly abbreviated to PoW) is a consensus algorithm used for preventing the 51% attack or double-spends.
 
 ### [79. Coming to Consensus: Proof-of-Work vs Proof-of-Stake](https://hackernoon.com/coming-to-consensus-proof-of-work-vs-proof-of-stake)
 ![](https://cdn.hackernoon.com/images/jAyMkBwt5af500yRECD62UXJsm63-tl93jtt.jpeg)
 An article that both explains and compares Proof-of-Work (used by Bitcoin and Ethereum) and Proof-of-Stake (used by many other blockchains)
 
-### [80. 83 Stories To Learn About Proof Of Stake](https://hackernoon.com/83-stories-to-learn-about-proof-of-stake)
+### [80. How Proof of Stake Differs From Proof of Work](https://hackernoon.com/how-proof-of-stake-differs-from-proof-of-work-3i6432mv)
+![](https://cdn.hackernoon.com/images/dXI1QRJ8zNgLlqk3LlqfBXRzniJ3-su3q35be.jpeg)
+Privacy and security have always been a ground for debates in the crypto industry. Hence, the foundation of a consensus mechanism in the blockchain is important
+
+### [81. 83 Stories To Learn About Proof Of Stake](https://hackernoon.com/83-stories-to-learn-about-proof-of-stake)
 ![](https://cdn.hackernoon.com/images/github/proof-of-stake-103.png)
 Learn everything you need to know about Proof Of Stake via these 83 free HackerNoon stories.
 
-### [81. Proof of Work vs. Proof of Stake: How Different Are They Really?](https://hackernoon.com/proof-of-work-vs-proof-of-stake-how-different-are-they-really-yj3a3wtp)
+### [82. Proof of Work vs. Proof of Stake: How Different Are They Really?](https://hackernoon.com/proof-of-work-vs-proof-of-stake-how-different-are-they-really-yj3a3wtp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-hq333w71.jpeg?alt=media&token=3277debe-b101-44a4-ac24-30b269fdbfe3)
 Proof of work and proof of stake are the two most popular transaction validation methods on blockchains. Both have compelling arguments as to why they are more efficient, cheaper, more scalable or more secure, so let’s tackle what makes each different and why it matters.
 
-### [82. Understanding Ethermint](https://hackernoon.com/understanding-ethermint)
+### [83. Understanding Ethermint](https://hackernoon.com/understanding-ethermint)
 ![](https://cdn.hackernoon.com/images/ITwlV96ShKf9Qc8OdsLWcE5MToF2-ua134ge.jpeg)
 Ethermint is a portmanteau word blending Ethereum and Tendermint together. But for most people, their grasp on the project, the what, the why stops there.
 
-### [83. Layer 1 vs Layer 2: Where’s the Next Block Party At?](https://hackernoon.com/layer-1-vs-layer-2-wheres-the-next-block-party-at-6b1032n3)
+### [84. Layer 1 vs Layer 2: Where’s the Next Block Party At?](https://hackernoon.com/layer-1-vs-layer-2-wheres-the-next-block-party-at-6b1032n3)
 ![](https://cdn.hackernoon.com/images/3yMAYyZ91HcqU8b9bYm3f62geL83-n12637w9.png)
 Layer 1 versus Layer 2 blockchain solutions. Layer 2 blockchain protocols have posted stellar performance in 2021. So what are they to a layer 1 solution?
 
-### [84. The Introduction to Crypto Coins Staking](https://hackernoon.com/the-introduction-to-crypto-coins-staking)
-![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-qa0370m.jpeg)
-Several fundamental concepts drive the underlying mechanism when discussing blockchain technology and its related cryptocurrencies.
-
-### [85. How Cosmos Proof-Of-Stake Helps Create a More Sustainable Blockchain Environment](https://hackernoon.com/how-cosmos-proof-of-stake-helps-create-a-more-sustainable-blockchain-environment)
-![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-kl0359k.jpeg)
-At the heart of the mission was the need to address the throughput, scalability, and importantly, environmental issues associated with Proof of Work blockchain.
-
-### [86. The Inglourious Cosmos Validators](https://hackernoon.com/the-inglourious-cosmos-validators-l85s0344f)
+### [85. The Inglourious Cosmos Validators](https://hackernoon.com/the-inglourious-cosmos-validators-l85s0344f)
 ![](https://cdn.hackernoon.com/drafts/pn5te34b3.png)
 Cosmos Validators run nodes and receive minimal rewards. Discover why this phenomenon occurs as the story unfolds.
 
-### [87. Opside Official Guide - Episode 01: PoS](https://hackernoon.com/opside-official-guide-episode-01-pos)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-f1a3m3t.jpeg)
-To foster greater community involvement in PoS and to ensure the continued security and stability of Opside, the team has compiled an FAQ.
+### [86. The Introduction to Crypto Coins Staking](https://hackernoon.com/the-introduction-to-crypto-coins-staking)
+![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-qa0370m.jpeg)
+Several fundamental concepts drive the underlying mechanism when discussing blockchain technology and its related cryptocurrencies.
+
+### [87. How Cosmos Proof-Of-Stake Helps Create a More Sustainable Blockchain Environment](https://hackernoon.com/how-cosmos-proof-of-stake-helps-create-a-more-sustainable-blockchain-environment)
+![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-kl0359k.jpeg)
+At the heart of the mission was the need to address the throughput, scalability, and importantly, environmental issues associated with Proof of Work blockchain.
 
 ### [88. What We Lost When Ethereum Switched to Proof-of-Stake](https://hackernoon.com/what-we-lost-when-ethereum-switched-to-proof-of-stake)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-z202095.jpeg)
 Ethereum’s move to PoS has been described as one of crypto‘s biggest technological breakthroughs. But behind this part, there's another side of the story.
 
-### [89. Bitcoin Loves Proof-Of-Stake: Here's Why](https://hackernoon.com/bitcoin-loves-proof-of-stake-heres-why)
+### [89. Opside Official Guide - Episode 01: PoS](https://hackernoon.com/opside-official-guide-episode-01-pos)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-f1a3m3t.jpeg)
+To foster greater community involvement in PoS and to ensure the continued security and stability of Opside, the team has compiled an FAQ.
+
+### [90. Bitcoin Loves Proof-Of-Stake: Here's Why](https://hackernoon.com/bitcoin-loves-proof-of-stake-heres-why)
 ![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-qta32bm.png)
 If Bitcoin really is the superior system, how or why would anyone allow for Proof-Of-Stake to take over?
 
-### [90. Meet Magister Ludi: The Process By Which Validators Are Chosen on the Free TON Blockchain](https://hackernoon.com/meet-magister-ludi-the-process-by-which-validators-are-chosen-on-the-free-ton-blockchain-zr4d33fn)
-![](https://cdn.hackernoon.com/images/eV5PQYztB3aTpBnYWcEFhU3vsYf2-1jl33tn.jpeg)
-Free TON core-team memebers  tell how to choose several hundred validators for the blockchain network.
-
-### [91. Haqq Network's Shariah Oracle: Pioneering Ethical Compliance in DeFi](https://hackernoon.com/haqq-networks-shariah-oracle-pioneering-ethical-compliance-in-defi)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-do83xq5.jpeg)
-Explore Haqq Network's Shariah Oracle and its commitment to ensuring compliance with ethical standards in decentralized finance (DeFi). 
-
-### [92. StaFi’s Integration with EigenLayer Simplifies Crypto Staking](https://hackernoon.com/stafis-integration-with-eigenlayer-simplifies-crypto-staking)
+### [91. StaFi’s Integration with EigenLayer Simplifies Crypto Staking](https://hackernoon.com/stafis-integration-with-eigenlayer-simplifies-crypto-staking)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-lp83647.jpeg)
 Explore how StaFi’s integration of Liquid Restaking Token (LRT) into its LSaaS platform is set to change the blockchain technology landscape. 
 
-### [93. 55 Stories To Learn About Proof Of Work](https://hackernoon.com/55-stories-to-learn-about-proof-of-work)
+### [92. Haqq Network's Shariah Oracle: Pioneering Ethical Compliance in DeFi](https://hackernoon.com/haqq-networks-shariah-oracle-pioneering-ethical-compliance-in-defi)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-do83xq5.jpeg)
+Explore Haqq Network's Shariah Oracle and its commitment to ensuring compliance with ethical standards in decentralized finance (DeFi). 
+
+### [93. Meet Magister Ludi: The Process By Which Validators Are Chosen on the Free TON Blockchain](https://hackernoon.com/meet-magister-ludi-the-process-by-which-validators-are-chosen-on-the-free-ton-blockchain-zr4d33fn)
+![](https://cdn.hackernoon.com/images/eV5PQYztB3aTpBnYWcEFhU3vsYf2-1jl33tn.jpeg)
+Free TON core-team memebers  tell how to choose several hundred validators for the blockchain network.
+
+### [94. 55 Stories To Learn About Proof Of Work](https://hackernoon.com/55-stories-to-learn-about-proof-of-work)
 ![](https://cdn.hackernoon.com/images/github/proof-of-work-623.png)
 Learn everything you need to know about Proof Of Work via these 55 free HackerNoon stories.
-
-### [94. Building a Better Blockchain: Lessons in Innovation and Adoption](https://hackernoon.com/building-a-better-blockchain-lessons-in-innovation-and-adoption)
-![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-dx82rgf.jpeg)
-Interview with Pavel Salas, where we talk about his journey from starting in blockchain at eToro to working on new ways to make blockchain more accessible.
 
 ### [95. Consensus Algorithms: How Computers Agree and Stay Safe Together](https://hackernoon.com/consensus-algorithms-how-computers-agree-and-stay-safe-together)
 ![](https://cdn.hackernoon.com/images/computers-holding-hands-ohq2n5yus07ib0i8akhwbivg.png)
 We'll explore consensus algorithms in easy terms. We'll see how these smart systems make keep computers on the same page and how they protect themselves. 
 
-### [96. What Ethereum's Move To Proof Of Stake Means](https://hackernoon.com/what-ethereums-move-to-proof-of-stake-means)
+### [96. Building a Better Blockchain: Lessons in Innovation and Adoption](https://hackernoon.com/building-a-better-blockchain-lessons-in-innovation-and-adoption)
+![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-dx82rgf.jpeg)
+Interview with Pavel Salas, where we talk about his journey from starting in blockchain at eToro to working on new ways to make blockchain more accessible.
+
+### [97. What Ethereum's Move To Proof Of Stake Means](https://hackernoon.com/what-ethereums-move-to-proof-of-stake-means)
 ![](https://cdn.hackernoon.com/images/JNuKcaRO9ogvXzLwR9r8ripU4X83-5ia3moa.jpeg)
 Two common PoS implementations are BFT and Ouroboros. Blockchains turn to PoS due to factions such as TPS, decentralization, tokenomics, and fast finality.
 
-### [97. Tenet and Ankr Partner Are Bringing Liquid Staking Derivatives to More Blockchains: Here's How](https://hackernoon.com/tenet-and-ankr-partner-are-bringing-liquid-staking-derivatives-to-more-blockchains-heres-how)
+### [98. Tenet and Ankr Partner Are Bringing Liquid Staking Derivatives to More Blockchains: Here's How](https://hackernoon.com/tenet-and-ankr-partner-are-bringing-liquid-staking-derivatives-to-more-blockchains-heres-how)
 ![](https://cdn.hackernoon.com/images/more-choices-clhqvow34000001s67dphcgha.png)
 Tenet has a unique model called Diversified Proof of Stake (DiPoS), which supports staking with any LSD asset from other chains, such as ETH, BNB, ATOM, and SOL
-
-### [98. Revisiting Blockchain Basics Part 2: Differences in Blockchains](https://hackernoon.com/revisiting-blockchain-basics-part-2-differences-in-blockchains)
-![](https://cdn.hackernoon.com/images/neon-purple-wires-connecting-with-each-other-isometric-view-svmrgnhhsapbrw95unh7dhq1.png)
-Explore blockchain networks, detailing architecture, ecosystems, and consensus mechanisms. Compare Ethereum, Binance Smart Chain, Solana, Cosmos, and Avalanche 
 
 ### [99. Revolutionizing Proof-of-Stake: Leveraging Bitcoin's Strengths ](https://hackernoon.com/revolutionizing-proof-of-stake-leveraging-bitcoins-strengths)
 ![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-ld92ik4.jpeg)
 Discussion with Fisher Yu on how Bitcoin could be used to secure Proof-of-Stake networks.
 
-### [100. Differences Between Proof of Work and Proof of Stake Network When  Buying Ethereum](https://hackernoon.com/differences-between-proof-of-work-and-proof-of-stake-network-when-buying-ethereum)
+### [100. Revisiting Blockchain Basics Part 2: Differences in Blockchains](https://hackernoon.com/revisiting-blockchain-basics-part-2-differences-in-blockchains)
+![](https://cdn.hackernoon.com/images/neon-purple-wires-connecting-with-each-other-isometric-view-svmrgnhhsapbrw95unh7dhq1.png)
+Explore blockchain networks, detailing architecture, ecosystems, and consensus mechanisms. Compare Ethereum, Binance Smart Chain, Solana, Cosmos, and Avalanche 
+
+### [101. Differences Between Proof of Work and Proof of Stake Network When  Buying Ethereum](https://hackernoon.com/differences-between-proof-of-work-and-proof-of-stake-network-when-buying-ethereum)
 ![](https://cdn.hackernoon.com/images/Ypdd2zdgN8XDBX9XVlJ5pD5uxJK2-kp92isp.jpeg)
 Since the recent launch of Ethereum's new network called proof of stake, there have been multiple questions on how it differentiates from the already existing proof of work mining network and how it will affect people that buy Ethereum. It has become a major concern among investors, traders, cryptocurrency enthusiasts, and those who buy Ethereum. 
 
-### [101. How the KOY Network Breaks the Mold of Traditional dPoS Chains with Unique Tokenomics](https://hackernoon.com/how-the-koy-network-breaks-the-mold-of-traditional-dpos-chains-with-unique-tokenomics)
+### [102. How the KOY Network Breaks the Mold of Traditional dPoS Chains with Unique Tokenomics](https://hackernoon.com/how-the-koy-network-breaks-the-mold-of-traditional-dpos-chains-with-unique-tokenomics)
 ![](https://cdn.hackernoon.com/images/fZhsEeLz44RmI0mUOoCNIrv3zOo1-ua93xom.png)
 With the innovative decentralized proof-of-stake (dPoS) system, KOY Network aims to lower the barrier to entry for Payments Service Providers. Here's how
 
-### [102. Arcade Receipts, Web3 Liquid Staking, and More: Crypto Liquid Staking Explained for Beginners](https://hackernoon.com/arcade-receipts-web3-liquid-staking-and-more-crypto-liquid-staking-explained-for-beginners)
+### [103. Arcade Receipts, Web3 Liquid Staking, and More: Crypto Liquid Staking Explained for Beginners](https://hackernoon.com/arcade-receipts-web3-liquid-staking-and-more-crypto-liquid-staking-explained-for-beginners)
 ![](https://cdn.hackernoon.com/images/vcIwU7uNOCMD74XAJITuHjORWYD2-mrb3ryx.png)
 This is part 2 of a series where I break down the concept of liquid staking to non-crypto native readers using an Arcade analogy. 
 
-### [103. Everything You Ever Wanted To Know About Cryptocurrency Staking](https://hackernoon.com/everything-you-ever-wanted-to-know-about-cryptocurrency-staking-99103wk1)
+### [104. Everything You Ever Wanted To Know About Cryptocurrency Staking](https://hackernoon.com/everything-you-ever-wanted-to-know-about-cryptocurrency-staking-99103wk1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkuGSv82WVjg0Rg1B2LpgBSZbY7p1-sp163x02.png?alt=media&token=bd22f429-a05b-42db-a6a4-0338666035ec)
 Everyone and his grandma know what cryptocurrency mining is. Well, they may not indeed know what it actually is, in technical terms, but they have definitely heard the phrase as it is hard to miss the news about mining sucking in energy like a black hole gobbles up matter. On the other hand, staking, its little bro, has mostly been hiding in the shadows until recently.
 
 Today, with DeFi making breaking news across the cryptoverse, staking has become a new buzzword in the blockchain space and beyond, along with the fresh entries to the crypto asset investor’s vocabulary such as “yield farming”, “rug pull”, “total value locked”, and similar arcane stuff. If you are not scared off yet, then read on. Though we can’t promise you won’t be.
 
-### [104. Is There a Security Vs. Coin Creation Trade-Off in Blockchains?](https://hackernoon.com/is-there-a-security-vs-coin-creation-trade-off-in-blockchains-aq4f3y7x)
+### [105. Is There a Security Vs. Coin Creation Trade-Off in Blockchains?](https://hackernoon.com/is-there-a-security-vs-coin-creation-trade-off-in-blockchains-aq4f3y7x)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FELy3D5qjIEQPxlfLdReo0aw5TNx2-khz3e0l.jpeg?alt=media&token=e0c87ee6-f7b0-48f9-a3df-aeef18381423)
 Recent years have sparked significant interest in blockchain networks. This has resulted in significant progress in the theory of such distributed networks. In particular, followers gathered more data about possible blockchain designs, their limitations, and their trade-offs. There's called The trade-off between security and coin creation
 
-### [105. Orderly Network Expands To Polygon PoS, Bringing Advanced Perpetuals Trading To Quickswap](https://hackernoon.com/orderly-network-expands-to-polygon-pos-bringing-advanced-perpetuals-trading-to-quickswap)
+### [106. Orderly Network Expands To Polygon PoS, Bringing Advanced Perpetuals Trading To Quickswap](https://hackernoon.com/orderly-network-expands-to-polygon-pos-bringing-advanced-perpetuals-trading-to-quickswap)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-ar835vn.jpeg)
 This integration unlocks a new level of functionality for DeFi traders on Polygon PoS, with key benefits powered by Orderly's innovative omnichain vaults:
 

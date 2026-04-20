@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [javascript-fundamentals](https://hackernoon.com/tagged/javascript-fundamentals)
+### Let's learn about [Javascript Fundamentals](https://hackernoon.com/tagged/javascript-fundamentals) via these 98 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 How do you comfort a JavaScript bug?  You console it.
 
 ### [1. Advanced JavaScript Tutorial: How to Reload a Page with Location.reload(true)](https://hackernoon.com/advanced-javascript-tutorial-how-to-reload-a-page-with-locationreloadtrue)
@@ -43,16 +45,16 @@ We've all been in a situation in Javascript where we have a set of data, all wit
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-ppd3tly.jpeg?alt=media&token=b31469ee-6cb9-453b-a740-9318d731a65e)
 Having a humble beginning of starting as a language that was intended to handle browser validations to a full-blown programming language that powers a lot of desktop applications as well, JavaScript has traveled a long journey.
 
-### [11. The Recommended Way to Iterate Over Arrays in JavaScript](https://hackernoon.com/the-recommended-way-to-iterate-over-arrays-in-javascript-2y5c3vig)
+### [11. How to Set the Default Node.JS version with nvm](https://hackernoon.com/how-to-set-the-default-nodejs-version-with-nvm)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-8q93p4w.jpeg)
+
+
+### [12. The Recommended Way to Iterate Over Arrays in JavaScript](https://hackernoon.com/the-recommended-way-to-iterate-over-arrays-in-javascript-2y5c3vig)
 ![](https://cdn.hackernoon.com/drafts/cl4so3yoh.png)
 When dealing with an array, there is a number of ways one can iterate
 through the elements starting  from the first at index 0 all the way
 to the last element in the array. In my learning process I have come
 across 6 looping methods namely
-
-### [12. How to Set the Default Node.JS version with nvm](https://hackernoon.com/how-to-set-the-default-nodejs-version-with-nvm)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-8q93p4w.jpeg)
-
 
 ### [13. Understanding the Javascript Event Loop (Everything You Need to Know)](https://hackernoon.com/understanding-the-javascript-event-loop-everything-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/Bf6xbPmhtTcARlzNXM2oktEZuh22-vbg2n07.jpeg)
@@ -156,13 +158,13 @@ The ABCs of Javascript are: A - apply(), B - bind(), and C - call(). Using them,
 ![](https://cdn.hackernoon.com/images/Bf6xbPmhtTcARlzNXM2oktEZuh22-ajb2nvr.jpeg)
 Unleash the power of Web Components and revolutionize your web development workflow. Learn to create reusable elements and enhance your apps effortlessly.
 
-### [38. 8 Essential Tips To Make Your JavaScript Code Perform Faster](https://hackernoon.com/8-essential-tips-to-make-your-javascript-code-perform-faster-6nr320p)
-![](https://images.unsplash.com/photo-1506719040632-7d586470c936?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-JavaScript has ranked as the most popular language in the world by the StackOverflow survey for the seventh year in a row. With the rising popularity of JavaScript, it is clear that it is the most used language for coding frontend applications. It is interesting to note that visitors to websites, lose interest or leave your website if the content doesn’t load within two seconds. The two seconds benchmark is hard to keep up with and that means you need to optimize your JavaScript code for better performance. In this blog post, we will learn some quick tips that you can follow to keep you JavaScript code concise and improve the overall performance of your application. Alright, let’s dive in.
-
-### [39. A Quick Look at NodeLists and How They Work](https://hackernoon.com/a-quick-look-at-nodelists-and-how-they-work)
+### [38. A Quick Look at NodeLists and How They Work](https://hackernoon.com/a-quick-look-at-nodelists-and-how-they-work)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-3ha3o1b.jpeg)
 Did you know that Javascript does not class a selection of multiple elements as an array?
+
+### [39. 8 Essential Tips To Make Your JavaScript Code Perform Faster](https://hackernoon.com/8-essential-tips-to-make-your-javascript-code-perform-faster-6nr320p)
+![](https://images.unsplash.com/photo-1506719040632-7d586470c936?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+JavaScript has ranked as the most popular language in the world by the StackOverflow survey for the seventh year in a row. With the rising popularity of JavaScript, it is clear that it is the most used language for coding frontend applications. It is interesting to note that visitors to websites, lose interest or leave your website if the content doesn’t load within two seconds. The two seconds benchmark is hard to keep up with and that means you need to optimize your JavaScript code for better performance. In this blog post, we will learn some quick tips that you can follow to keep you JavaScript code concise and improve the overall performance of your application. Alright, let’s dive in.
 
 ### [40. 7 Tips For Becoming A Better JavaScript Developer](https://hackernoon.com/7-tips-for-becoming-a-better-javascript-developer-bw1w32mt)
 ![](https://cdn.hackernoon.com/images/VQee2H7b9MdqlHMpVjYYgK9YsSu2-3k1033qr.jpeg)
@@ -201,21 +203,21 @@ A popular challenge that beginner programmers participate in is called 100 Days 
 A poem about coffee, a script that wrote your life before the pulse of your digital signals. 
 
 
-### [49. Three Different Ways to Create Objects in JavaScript](https://hackernoon.com/three-different-ways-to-create-objects-in-javascript-f72b3w6d)
-![](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Almost everything in Javascript is an object, whether it’s an array or a function. In this post, we’ll learn three different ways to create objects in JavaScript:
-
-### [50. Why Do Programmers Choose to Learn Java as a Programming Language?](https://hackernoon.com/why-do-programmers-choose-to-learn-java-as-a-programming-language)
+### [49. Why Do Programmers Choose to Learn Java as a Programming Language?](https://hackernoon.com/why-do-programmers-choose-to-learn-java-as-a-programming-language)
 ![](https://cdn.hackernoon.com/images/YxeikCmVwxTWERLHZSjS59TfD9v2-mbi3pqo.jpeg)
 What is the best programming language to learn for a developer? Can’t name the best, but yes, Java is surely one of the Best! You can dive in for the reasons.
 
-### [51. Understanding Promises in JavaScript](https://hackernoon.com/understanding-promises-in-javascript)
-![](https://cdn.hackernoon.com/images/SKjSflbzLAO6ucZtO6jiI25CWT63-kth3mab.jpeg)
-Promise is a common object in JavaScript but is pretty complicated to use when it's the first time you see it. Learn about promises and the basics of using it!
+### [50. Three Different Ways to Create Objects in JavaScript](https://hackernoon.com/three-different-ways-to-create-objects-in-javascript-f72b3w6d)
+![](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Almost everything in Javascript is an object, whether it’s an array or a function. In this post, we’ll learn three different ways to create objects in JavaScript:
 
-### [52. Javascript Sets: An Essential Guide](https://hackernoon.com/javascript-sets-an-essential-guide)
+### [51. Javascript Sets: An Essential Guide](https://hackernoon.com/javascript-sets-an-essential-guide)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-4493pln.jpeg)
 A Set in Javascript is a unique list of values, similar to the set data type in Python.
+
+### [52. Understanding Promises in JavaScript](https://hackernoon.com/understanding-promises-in-javascript)
+![](https://cdn.hackernoon.com/images/SKjSflbzLAO6ucZtO6jiI25CWT63-kth3mab.jpeg)
+Promise is a common object in JavaScript but is pretty complicated to use when it's the first time you see it. Learn about promises and the basics of using it!
 
 ### [53. ​​Choosing Between SASS vs CSS Modules vs CSS-In-JS](https://hackernoon.com/choosing-between-sass-vs-css-modules-vs-css-in-js)
 ![](https://cdn.hackernoon.com/images/gnyfKpa42Tg3VsBOtfaRMvz66182-bn93nrk.png)
@@ -249,33 +251,33 @@ Here is a list of pretty much any action you would want to perform on an array, 
 ![](https://cdn.hackernoon.com/images/m7cK5t2zvEZLk09ZWhiFf0UYtmj2-oeb3vz5.jpeg)
 Arrays are a data structure that allows us to store multiple values in one variable. Array methods...
 
-### [61. Learn Javascript Fundamentals-Scope, Context, Execution Context](https://hackernoon.com/learn-javascript-fundamentals-scope-context-execution-context-uw1i330ai)
-![](https://cdn.hackernoon.com/drafts/zv1jr30o7.png)
-In the road of understanding Javascript, difference between scope, context and execution context is crucial.In Javascript, you write some code and they get interpreted by the Javascript engine. To understand behind the scenes, you need to have an understanding of basics. To achieve that, in this article, we will be focusing on the difference between scope, context and execution context.Scope
-
-### [62. Understanding Chrome V8 — Chapter 4: Scanner, Token generation](https://hackernoon.com/understanding-chrome-v8-chapter-4-scanner-token-generation)
+### [61. Understanding Chrome V8 — Chapter 4: Scanner, Token generation](https://hackernoon.com/understanding-chrome-v8-chapter-4-scanner-token-generation)
 ![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-aqa3jy5.jpeg)
 Welcome to other chapters of Let’s Understand Chrome V8
+
+### [62. Learn Javascript Fundamentals-Scope, Context, Execution Context](https://hackernoon.com/learn-javascript-fundamentals-scope-context-execution-context-uw1i330ai)
+![](https://cdn.hackernoon.com/drafts/zv1jr30o7.png)
+In the road of understanding Javascript, difference between scope, context and execution context is crucial.In Javascript, you write some code and they get interpreted by the Javascript engine. To understand behind the scenes, you need to have an understanding of basics. To achieve that, in this article, we will be focusing on the difference between scope, context and execution context.Scope
 
 ### [63. Take These 12 Quick Challenges to Find Out if You Know Javascript](https://hackernoon.com/take-these-12-quick-challenges-to-find-out-if-you-know-javascript)
 ![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-4593p30.jpeg)
 Do you know Javascript? The language we all love has some weird and sometimes unexpected behaviors.
 
-### [64. What is 'this’ in JavaScript?](https://hackernoon.com/what-is-this-in-javascript-835o35kx)
+### [64. How to Delete an Item in an Array at a Specific Index](https://hackernoon.com/how-to-delete-an-item-in-an-array-at-a-specific-index)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-um93pfh.png)
+If we want to delete items from an array, we can use the splice method that all arrays have. Let's look at how it works.
+
+### [65. What is 'this’ in JavaScript?](https://hackernoon.com/what-is-this-in-javascript-835o35kx)
 ![](https://cdn.hackernoon.com/images/Nv9z8Cle3QV673MG2frRypYu7br1-kw938rf.jpeg)
 ‘this’ is always been a pain in the a** for many JavaScript developers, but it’s time to say ‘I got this’.
 
-### [65. How To Use The Spread Operator on a Function](https://hackernoon.com/how-to-use-the-spread-operator-on-a-function-and-why-you-should-681833by)
+### [66. How To Use The Spread Operator on a Function](https://hackernoon.com/how-to-use-the-spread-operator-on-a-function-and-why-you-should-681833by)
 ![](https://cdn.hackernoon.com/images/0d2rn33cu.jpg)
 You can’t officially do it, but you can write a function that does virtually the same thing. Let’s see how and maybe why you should.
 
-### [66. Understanding JavaScript Event Loop](https://hackernoon.com/understanding-javascript-event-loop-qf3935u7)
+### [67. Understanding JavaScript Event Loop](https://hackernoon.com/understanding-javascript-event-loop-qf3935u7)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-j62o35gv.jpeg)
 JavaScript Event Loop is a fundamental concept. In this tutorial, we will know JavaScript Event Loop on a high level. 
-
-### [67. How to Delete an Item in an Array at a Specific Index](https://hackernoon.com/how-to-delete-an-item-in-an-array-at-a-specific-index)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-um93pfh.png)
-If we want to delete items from an array, we can use the splice method that all arrays have. Let's look at how it works.
 
 ### [68. How "This" Binding Works in JavaScript](https://hackernoon.com/how-this-binding-works-in-javascript)
 ![](https://cdn.hackernoon.com/images/LDwndFfqWKSoI5uCTTVw1Dal0Bc2-7z93kzm.jpeg)
@@ -297,17 +299,17 @@ Protect your users' sensitive information with these best practices for secure f
 ![](https://cdn.hackernoon.com/images/KZkb1zzObqdx1sjOAplc30l7Kpp1-38136li.jpeg)
 I bet you didn’t know that Javascript has pointers. Well, it does! Let’s take a quick look at how they are implemented and how they work. 
 
-### [73. How to Insert an Item Into an Array at a Specific Index in Javascript](https://hackernoon.com/how-to-insert-an-item-into-an-array-at-a-specific-index-in-javascript)
+### [73. Testing for Image Format Support Using Simple JavaScript ](https://hackernoon.com/testing-for-image-format-support-using-simple-javascript)
+![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-gv93rkl.jpeg)
+Here are two simple Async/Await JavaScript scripts that will detect and indicate browser support for the AVIF and WEBP image formats.
+
+### [74. How to Insert an Item Into an Array at a Specific Index in Javascript](https://hackernoon.com/how-to-insert-an-item-into-an-array-at-a-specific-index-in-javascript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-0k93p31.jpeg)
 We use the splice method to insert an item into an array at a specific index in javascript, which takes 3 arguments - and also lets us delete items too. 
 
-### [74. An Introduction to JavaScript Functions and Asynchronous Programming with Callbacks](https://hackernoon.com/an-introduction-to-javascript-functions-and-asynchronous-programming-with-callbacks)
+### [75. An Introduction to JavaScript Functions and Asynchronous Programming with Callbacks](https://hackernoon.com/an-introduction-to-javascript-functions-and-asynchronous-programming-with-callbacks)
 ![](https://cdn.hackernoon.com/images/zpA8BwP5iRUp1Yp5aGImZfUk4uw1-gs83zp9.jpeg)
 Dive into the world of JavaScript functions with our comprehensive guide. Learn the ins and outs of function declarations, expressions, and callbacks.
-
-### [75. Testing for Image Format Support Using Simple JavaScript ](https://hackernoon.com/testing-for-image-format-support-using-simple-javascript)
-![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-gv93rkl.jpeg)
-Here are two simple Async/Await JavaScript scripts that will detect and indicate browser support for the AVIF and WEBP image formats.
 
 ### [76. Coding 101: Who is Json?](https://hackernoon.com/coding-101-who-is-json-eq1o3ttl)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIMcuZGEyrzRf7UvWytxpfRbJsQ52-5d5t3th4.jpeg?alt=media&token=0127d4e5-fdae-43ad-9847-24eccf206ce5)
@@ -317,13 +319,13 @@ A.) Jason Voorhees (Friday the 13th)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-q7bd351m.jpeg)
 Java 9 comes with a whole host of new features that help you with your projects. These Java 9 API improvements can help with everything from pictures to process
 
-### [78. JavaScript, Memory, Architecture and Lifecycle](https://hackernoon.com/javascript-memory-architecture-and-lifecycle)
-![](https://cdn.hackernoon.com/images/8Pgwf9zh8ofcrVpyJ48U91QqZjk1-z7236k0.jpeg)
-Explore JavaScript memory architecture. Main concepts and organization. Processes of memory allocation and release. Garbage Collection.
-
-### [79. Understanding Chrome V8 — Chapter 14: What is Dynamically Typed JS ](https://hackernoon.com/understanding-chrome-v8-chapter-14-what-is-dynamically-typed-js)
+### [78. Understanding Chrome V8 — Chapter 14: What is Dynamically Typed JS ](https://hackernoon.com/understanding-chrome-v8-chapter-14-what-is-dynamically-typed-js)
 ![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-3n93jyk.jpeg)
 "Let's Understand Chrome V8" are serial technology articles that explain the V8 code, it covers many V8 kernel functions and fundamentals.
+
+### [79. JavaScript, Memory, Architecture and Lifecycle](https://hackernoon.com/javascript-memory-architecture-and-lifecycle)
+![](https://cdn.hackernoon.com/images/8Pgwf9zh8ofcrVpyJ48U91QqZjk1-z7236k0.jpeg)
+Explore JavaScript memory architecture. Main concepts and organization. Processes of memory allocation and release. Garbage Collection.
 
 ### [80. Little Dev Tools in Your Pockets](https://hackernoon.com/little-dev-tools-in-your-pockets-0h2q3yhi)
 ![](https://images.unsplash.com/photo-1567361808960-dec9cb578182?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -333,57 +335,57 @@ Every web developer has, at a point in their development journey used one of the
 ![](https://hackernoon.com/images/Leo4OZTSXUZzooAPCmafUlbqBo63-ej934x8.jpeg)
 Learn to use JavaScript to style your project with CSS! A tutorial for beginners.
 
-### [82. Breaking From ForEach in JavaScript](https://hackernoon.com/breaking-from-foreach-in-javascript)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-x493rpy.jpeg)
-There is no direct way to break from the forEach() function, however, there are some workarounds.f
-
-### [83. Defining Javascript Variables: Why You Should Ditch Var for Let and Const](https://hackernoon.com/defining-javascript-variables-why-you-should-ditch-var-for-let-and-const)
+### [82. Defining Javascript Variables: Why You Should Ditch Var for Let and Const](https://hackernoon.com/defining-javascript-variables-why-you-should-ditch-var-for-let-and-const)
 ![](https://cdn.hackernoon.com/images/Bf6xbPmhtTcARlzNXM2oktEZuh22-z6a2l5v.jpeg)
 Learn why it's recommended to use let and const instead of var in JavaScript. 
+
+### [83. Breaking From ForEach in JavaScript](https://hackernoon.com/breaking-from-foreach-in-javascript)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-x493rpy.jpeg)
+There is no direct way to break from the forEach() function, however, there are some workarounds.f
 
 ### [84. How to Master Type Coercion in JavaScript](https://hackernoon.com/how-to-master-type-coercion-in-javascript)
 ![](https://cdn.hackernoon.com/images/zpA8BwP5iRUp1Yp5aGImZfUk4uw1-fc833ai.png)
 JavaScript is known for being a loosely typed language. This means that JavaScript variables can hold values of any type. 
 
-### [85. Learn Javascript Fundamentals-Local Scope](https://hackernoon.com/learn-javascript-fundamentals-local-scope-ebxo33fj)
-![](https://cdn.hackernoon.com/drafts/0vz233zm.png)
-Javascript fundamentals series Scopes, Hoisting, Closures
-
-### [86. Inside a Developer Poll on AI, JavaScript, and the Future of Coding](https://hackernoon.com/inside-a-developer-poll-on-ai-javascript-and-the-future-of-coding)
+### [85. Inside a Developer Poll on AI, JavaScript, and the Future of Coding](https://hackernoon.com/inside-a-developer-poll-on-ai-javascript-and-the-future-of-coding)
 ![](https://cdn.hackernoon.com/images/lhmEZsswgzS0PMiQNvpl1Y5EXc82-gg33nrj.png)
 A survey of JavaScript developers shows AI is boosting productivity—but fundamentals, architecture, and critical thinking still define the job.
+
+### [86. Learn Javascript Fundamentals-Local Scope](https://hackernoon.com/learn-javascript-fundamentals-local-scope-ebxo33fj)
+![](https://cdn.hackernoon.com/drafts/0vz233zm.png)
+Javascript fundamentals series Scopes, Hoisting, Closures
 
 ### [87. Revealing Module Pattern in JS [A How-To Guide]](https://hackernoon.com/revealing-module-pattern-in-js-a-how-to-guide-6i4j32r1)
 ![](https://cdn.hackernoon.com/drafts/lf1y32hj.png)
 Let’s understand a bit of the theory behind the module pattern and the purpose it serves on implementing this pattern. The Module pattern was originally defined as a way to provide both private and public encapsulation for classes.
 
-### [88. Keeping Your Units Testable in JavaScript](https://hackernoon.com/keeping-your-units-testable-in-javascript)
-![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-5l92em0.jpeg)
-Unit tests are a challenging topic, with many interconnected aspects that make it difficult for beginners. 
-
-### [89. Dolby.io Connects With the JavaScript Community With a Virtual Workshop at CascadiaJS Conference](https://hackernoon.com/dolbyio-connects-with-the-javascript-community-with-a-virtual-workshop-at-cascadiajs-conference)
-![](https://cdn.hackernoon.com/images/iqS4d0F8xUapDAjPCeru7FY274w2-4663soy.jpeg)
-Finding and building community theme is pervasive in the JavaScript community as there are frameworks. You can build community while app building.
-
-### [90. Call, Apply, and Bind Simplified for JavaScript Developers](https://hackernoon.com/call-apply-and-bind-simplified-for-javascript-developers)
-![](https://cdn.hackernoon.com/images/lsrpqdnkG3dZmeCVhPouglp4K6J3-fd03643.png)
-Even after 8 years in front-end development, I sometimes mix up these methods.
-
-### [91. Demystifying Javascript Array Methods with Practical Examples](https://hackernoon.com/demystifying-javascript-array-methods-with-practical-examples)
+### [88. Demystifying Javascript Array Methods with Practical Examples](https://hackernoon.com/demystifying-javascript-array-methods-with-practical-examples)
 ![](https://cdn.hackernoon.com/images/QsxXq74rpfdI2SYRqxFke1FAlIl1-vz92i4n.jpeg)
 Understand how JavaScript array methods work by implementing three of the most common methods: map(), filter() and reduce.
 
-### [92. The State of Copy-Pasting in JavaScript](https://hackernoon.com/the-state-of-copy-pasting-in-javascript)
+### [89. Keeping Your Units Testable in JavaScript](https://hackernoon.com/keeping-your-units-testable-in-javascript)
+![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-5l92em0.jpeg)
+Unit tests are a challenging topic, with many interconnected aspects that make it difficult for beginners. 
+
+### [90. How To Sort an Array of Objects in JavaScript?](https://hackernoon.com/how-to-sort-an-array-of-objects-in-javascript)
+![](https://cdn.hackernoon.com/images/0yGvfERlhuMtZnYspnA3RFETmOL2-4t83e98.png)
+Learn how to sort an array of objects in JavaScript using the sort() method, custom compare functions, and practical examples for strings and numbers.
+
+### [91. Call, Apply, and Bind Simplified for JavaScript Developers](https://hackernoon.com/call-apply-and-bind-simplified-for-javascript-developers)
+![](https://cdn.hackernoon.com/images/lsrpqdnkG3dZmeCVhPouglp4K6J3-fd03643.png)
+Even after 8 years in front-end development, I sometimes mix up these methods.
+
+### [92. Dolby.io Connects With the JavaScript Community With a Virtual Workshop at CascadiaJS Conference](https://hackernoon.com/dolbyio-connects-with-the-javascript-community-with-a-virtual-workshop-at-cascadiajs-conference)
+![](https://cdn.hackernoon.com/images/iqS4d0F8xUapDAjPCeru7FY274w2-4663soy.jpeg)
+Finding and building community theme is pervasive in the JavaScript community as there are frameworks. You can build community while app building.
+
+### [93. The State of Copy-Pasting in JavaScript](https://hackernoon.com/the-state-of-copy-pasting-in-javascript)
 ![](https://cdn.hackernoon.com/images/FEungAXiith56Pk6XkyqIOhi1I43-4a02le9.jpeg)
 You may think "Surely there's a library for that!", and yet, there isn't.
 
-### [93. Your First 10 Days In Frontend Development: With 30 HTML tags and Practice Exercises](https://hackernoon.com/your-first-10-days-in-frontend-development-with-30-html-tags-and-practice-exercises)
+### [94. Your First 10 Days In Frontend Development: With 30 HTML tags and Practice Exercises](https://hackernoon.com/your-first-10-days-in-frontend-development-with-30-html-tags-and-practice-exercises)
 ![](https://cdn.hackernoon.com/images/7Z4ZtudrIFXRxnmvt26jB09Vei12-ouc3zqy.jpeg)
 Welcome to the first 10 days of the ultimate frontend challenge with me. This article details what to expect in your first ten days of front-end development. 
-
-### [94. How To Sort an Array of Objects in JavaScript?](https://hackernoon.com/how-to-sort-an-array-of-objects-in-javascript)
-![](https://cdn.hackernoon.com/images/0yGvfERlhuMtZnYspnA3RFETmOL2-4t83e98.png)
-Learn how to sort an array of objects in JavaScript using the sort() method, custom compare functions, and practical examples for strings and numbers.
 
 ### [95. How to Use foreach() to Iterate Through an Array in JavaScript](https://hackernoon.com/how-to-use-foreach-to-iterate-through-an-array-in-javascript)
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-9va2k3k.jpeg)

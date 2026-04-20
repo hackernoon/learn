@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [staking](https://hackernoon.com/tagged/staking)
+### Let's learn about [Staking](https://hackernoon.com/tagged/staking) via these 110 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Staking is the act of locking up cryptocurrency assets in a wallet to support the operations of a proof-of-stake blockchain network and earn rewards. It is a fundamental mechanism for securing many modern blockchain networks and provides passive income opportunities for token holders.
+
 ### [1. How Polygon Supernets and Ankr Help Build Modular Blockchain Apps](https://hackernoon.com/how-polygon-supernets-and-ankr-help-build-modular-blockchain-apps)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-b3a3vtp.jpeg)
 Polygon Supernets is an EVM-compatible modular blockchain stack that enables developers to have a custom decentralized modular network.
@@ -85,13 +89,13 @@ While the lending market craze is plummeting and the “yield farming” opportu
 ![](https://cdn.hackernoon.com/images/C02SFdKpN8Np96LZhU4R8cL6JjG2-8k7o35qf.jpeg)
 Learn how to stake Ethereum 2.0 independently with non-custodial Launchnodes. We dive into Ethereum staking on AWS and benefits of having no intermediaries.
 
-### [22. Crypto Staking in 2020: An Overview](https://hackernoon.com/crypto-staking-in-2020-an-overview-jd5t300n)
-![](https://cdn.hackernoon.com/images/eq1r3z1p.jpg)
-Public blockchains involve active participants (miners, validators, node operators etc.) to contribute towards the common goal of strengthening the network and confirming transactions through some sort of distributed consensus algorithm. 
-
-### [23. Restaking Step-by-step](https://hackernoon.com/restaking-step-by-step)
+### [22. Restaking Step-by-step](https://hackernoon.com/restaking-step-by-step)
 ![](https://cdn.hackernoon.com/images/V5YEuP3k8qZ0gfkXVHdCPalE3ET2-p8g3fos.jpeg)
 Ever since Ethereum became proof-of-stake, validators' rewards can be tokenized, turning them into a separate financial instruments.
+
+### [23. Crypto Staking in 2020: An Overview](https://hackernoon.com/crypto-staking-in-2020-an-overview-jd5t300n)
+![](https://cdn.hackernoon.com/images/eq1r3z1p.jpg)
+Public blockchains involve active participants (miners, validators, node operators etc.) to contribute towards the common goal of strengthening the network and confirming transactions through some sort of distributed consensus algorithm. 
 
 ### [24. How to Easily Create an NFT Collection with Staking in 10 minutes](https://hackernoon.com/how-to-easily-create-an-nft-collection-with-staking-in-10-minutes)
 ![](https://cdn.hackernoon.com/images/VwWT9ey83BOn930yZxVgoEKPgfB3-lt93v1i.jpeg)
@@ -222,19 +226,19 @@ Cryptocurrencies offer a unique opportunity to monetize assets through Liquid St
 ![](https://cdn.hackernoon.com/images/C7LGfLlZs3OY2w0N7r4ePehwKBI2-co6326n.png)
 Discover how Ethereum's Distributed Validator Technology (DVT) can enhance network security, scalability, and resilience, offering a decentralized financial.
 
-### [55. From 0 to 1000 Nodes on a Testnet: Case Study on Avalanche Denali](https://hackernoon.com/from-0-to-1000-nodes-on-a-testnet-case-study-on-avalanche-denali-tpl3xtp)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvNInWpsKG7MCwJDoKRnJ5OkI9lU2-13433yll.webp?alt=media&token=1e460080-ef96-4c53-9775-eb39abbf245b)
-What is a testnet?
-
-### [56. Tokenized Locking in an Algorithmic Backed Protocol](https://hackernoon.com/tokenized-locking-in-an-algorithmic-backed-protocol)
+### [55. Tokenized Locking in an Algorithmic Backed Protocol](https://hackernoon.com/tokenized-locking-in-an-algorithmic-backed-protocol)
 ![](https://cdn.hackernoon.com/images/plQ0JTtaW1UhmN7lyFefQnpiw8T2-xt93qea.jpeg)
 When compared to other options, the idea of locking funds in any way costs the user, but it benefits both the user and the system in terms of stability.
 
 
 
-### [57. Rules You Need to Know Before Staking ](https://hackernoon.com/rules-you-need-to-know-before-staking)
+### [56. Rules You Need to Know Before Staking ](https://hackernoon.com/rules-you-need-to-know-before-staking)
 ![](https://cdn.hackernoon.com/images/JNuKcaRO9ogvXzLwR9r8ripU4X83-d6938wr.png)
 Staking is like the treasury of the crypto world. It offers low-risk yield and is the best strategy in the bear market. Here are must know rules before staking.
+
+### [57. From 0 to 1000 Nodes on a Testnet: Case Study on Avalanche Denali](https://hackernoon.com/from-0-to-1000-nodes-on-a-testnet-case-study-on-avalanche-denali-tpl3xtp)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvNInWpsKG7MCwJDoKRnJ5OkI9lU2-13433yll.webp?alt=media&token=1e460080-ef96-4c53-9775-eb39abbf245b)
+What is a testnet?
 
 ### [58. How To Get Started On Staking](https://hackernoon.com/how-to-get-started-on-staking)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-tv92bgg.jpeg)
@@ -276,21 +280,21 @@ DeFi is finally providing viable use cases for cryptocurrencies beyond being a s
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-a503j9l.png)
 Discover how P2P.org scaled to $10B+ in staked assets, pioneering staking security & efficiency.
 
-### [68. Learning the Web3 Staking Process With an Arcade](https://hackernoon.com/learning-the-web3-staking-process-with-an-arcade)
-![](https://cdn.hackernoon.com/images/vcIwU7uNOCMD74XAJITuHjORWYD2-foc3t9q.jpeg)
-Learn about Web3 staking in a fun and accessible manner through a story.
-
-### [69. Is Yield Farming Still Viable in 2022?](https://hackernoon.com/is-yield-farming-still-viable-in-2022)
-![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-74a3leo.jpeg)
-Let's look at yield farming, how it works and if it's still worthwhile for users in the Defi space during the current market conditions after the crash. 
-
-### [70. More Than Just HODLing: Under Discussed Aspects of PoS](https://hackernoon.com/more-than-just-hodling-under-discussed-aspects-of-pos)
+### [68. More Than Just HODLing: Under Discussed Aspects of PoS](https://hackernoon.com/more-than-just-hodling-under-discussed-aspects-of-pos)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ni92g0i.jpeg)
 The benefits to staking are well-documented, but the risks of *not* staking are less talked about.
 
-### [71. Apex Fusion Launches PRIME Chain and AP3X Token, Bridging Bitcoin and Ethereum  ](https://hackernoon.com/apex-fusion-launches-prime-chain-and-ap3x-token-bridging-bitcoin-and-ethereum)
+### [69. Apex Fusion Launches PRIME Chain and AP3X Token, Bridging Bitcoin and Ethereum  ](https://hackernoon.com/apex-fusion-launches-prime-chain-and-ap3x-token-bridging-bitcoin-and-ethereum)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-t503i04.png)
 Apex Fusion has launched its blockchain ecosystem with the AP3X token and PRIME chain, aiming to combine Bitcoin’s security with Ethereum’s programmability.
+
+### [70. Learning the Web3 Staking Process With an Arcade](https://hackernoon.com/learning-the-web3-staking-process-with-an-arcade)
+![](https://cdn.hackernoon.com/images/vcIwU7uNOCMD74XAJITuHjORWYD2-foc3t9q.jpeg)
+Learn about Web3 staking in a fun and accessible manner through a story.
+
+### [71. Is Yield Farming Still Viable in 2022?](https://hackernoon.com/is-yield-farming-still-viable-in-2022)
+![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-74a3leo.jpeg)
+Let's look at yield farming, how it works and if it's still worthwhile for users in the Defi space during the current market conditions after the crash. 
 
 ### [72. How to Stake ETH by StakingFarm: The Ultimate Guide](https://hackernoon.com/how-to-stake-eth-by-stakingfarm-the-ultimate-guide)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-67834se.jpeg)
@@ -308,13 +312,13 @@ Independent staking is the gold standard of Ethereum staking. So today we invest
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-aj93tww.jpeg)
 Astar is introducing its new compounding rewards features which will allow users to claim their staked rewards which will automatically be restaked. 
 
-### [76. LSDs and Ethereum’s Shanghai Upgrade: A Perfect Match?](https://hackernoon.com/lsds-and-ethereums-shanghai-upgrade-a-perfect-match)
-![](https://cdn.hackernoon.com/images/lsd-technology-thats-trippy-clhql1s74000201s658z2ajlx.png)
-Ethereans are dead-focused on ETH following Ethereum's Shanghai upgrade. But there's another type of token they should be looking at.
-
-### [77. What if You Could Post on FB and Get Paid For it in Crypto?](https://hackernoon.com/what-if-you-could-post-on-fb-and-get-paid-for-it-in-crypto)
+### [76. What if You Could Post on FB and Get Paid For it in Crypto?](https://hackernoon.com/what-if-you-could-post-on-fb-and-get-paid-for-it-in-crypto)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-o2a3vt7.jpeg)
 It’s not difficult to imagine what Facebook might look like today if a cryptocurrency had been embedded in the business plan from the beginning. 
+
+### [77. LSDs and Ethereum’s Shanghai Upgrade: A Perfect Match?](https://hackernoon.com/lsds-and-ethereums-shanghai-upgrade-a-perfect-match)
+![](https://cdn.hackernoon.com/images/lsd-technology-thats-trippy-clhql1s74000201s658z2ajlx.png)
+Ethereans are dead-focused on ETH following Ethereum's Shanghai upgrade. But there's another type of token they should be looking at.
 
 ### [78. Ethereum LSD: How Does It Work?](https://hackernoon.com/ethereum-lsd-how-does-it-work)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-y192gcp.png)
@@ -324,73 +328,73 @@ Today the amount of staked ETH is more than 16 million! And according to DeFi Ll
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-xp137pm.jpeg)
 The protocol aims to address fragmentation in decentralized finance (DeFi) through decentralized validator curation and composable staking tokens.
 
-### [80. [Announcement] Digitex Is Building A City, A Stablecoin, And A Staking Program For You](https://hackernoon.com/announcement-digitex-is-building-a-city-a-stablecoin-and-a-staking-program-for-you-lj653w1w)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fe624Li1JXCOBE53yJLZgeafVSuG2-85p3uce.jpeg?alt=media&token=af20092c-b3ae-4f76-9111-c503b426d349)
-Even before launch at the end of July, we'd already built a loyal and engaged community. Over the time it took to develop our zero-fee futures exchange, we reached a lot of people--and we've been learning from their feedback. 
-
-### [81. Ethereum 2.0: An Overview](https://hackernoon.com/ethereum-20-an-overview-ib193zjh)
+### [80. Ethereum 2.0: An Overview](https://hackernoon.com/ethereum-20-an-overview-ib193zjh)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlRf4kL1bMBWI0TuYCyQdn05yE0t1-bqe3w17.jpeg?alt=media&token=de7e39f1-f872-45af-b69f-465743f39191)
 Ethereum 2.0 will bring about a lot of changes to the Ethereum network. The main purpose of the upgrade is to make the blockchain FASTER (>15tx/sec), and more SECURE (51% attacks, centralization), while also saving energy (as opposed to mining with electricity). But this update will also imply a host of other changes, such as economic changes, which can also be seen as a way of responding to Ethereum’s stubborn critics, who keep pointing out its crucial issues, such as scalability (remember Cryptokitties?) and fees. Ethereum 2.0 shall lead the way for Ethereum to advance both its technological and economic structure in an attempt to better master the challenges of Blockchain in 2020 and beyond, as well as create new opportunities. However, the most important thing to note here is, that Ethereum 2.0 eventually aims to convert the ETH blockchain from Proof of Work to a PROOF OF STAKE mechanism, and introducing shard chains.
+
+### [81. [Announcement] Digitex Is Building A City, A Stablecoin, And A Staking Program For You](https://hackernoon.com/announcement-digitex-is-building-a-city-a-stablecoin-and-a-staking-program-for-you-lj653w1w)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fe624Li1JXCOBE53yJLZgeafVSuG2-85p3uce.jpeg?alt=media&token=af20092c-b3ae-4f76-9111-c503b426d349)
+Even before launch at the end of July, we'd already built a loyal and engaged community. Over the time it took to develop our zero-fee futures exchange, we reached a lot of people--and we've been learning from their feedback. 
 
 ### [82. Coming to Consensus: Proof-of-Work vs Proof-of-Stake](https://hackernoon.com/coming-to-consensus-proof-of-work-vs-proof-of-stake)
 ![](https://cdn.hackernoon.com/images/jAyMkBwt5af500yRECD62UXJsm63-tl93jtt.jpeg)
 An article that both explains and compares Proof-of-Work (used by Bitcoin and Ethereum) and Proof-of-Stake (used by many other blockchains)
 
-### [83. Coinbase Is About to Be Sued By the SEC](https://hackernoon.com/coinbase-is-about-to-be-sued-by-the-sec)
-![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-xj93qey.jpeg)
-Coinbase Lawsuit Incoming!
-
-### [84. Unlocking the Power of Swapping and Staking on Solana](https://hackernoon.com/unlocking-the-power-of-swapping-and-staking-on-solana)
+### [83. Unlocking the Power of Swapping and Staking on Solana](https://hackernoon.com/unlocking-the-power-of-swapping-and-staking-on-solana)
 ![](https://cdn.hackernoon.com/images/X7G0i2APMEade7qIEgCqC4ZOFeF3-hl8222i.jpeg)
 Explore Solana's decentralized exchanges & staking protocols for efficient trading & earning rewards in cryptocurrency.
 
-### [85. Is Regulation Really Needed in the Crypto Space?](https://hackernoon.com/is-regulation-really-needed-in-the-crypto-space)
-![](https://cdn.hackernoon.com/images/n93I5XffgXRPdKtQ4cnvtx6pHJO2-08936ua.jpeg)
-Despite all the talk of regulatory standards and bills, the questions of whether the cryptocurrency space really needs intervention has yet to be answered. 
+### [84. 76 Stories To Learn About Staking](https://hackernoon.com/76-stories-to-learn-about-staking)
+![](https://cdn.hackernoon.com/images/github/staking-57.png)
+Learn everything you need to know about Staking via these 76 free HackerNoon stories.
+
+### [85. Coinbase Is About to Be Sued By the SEC](https://hackernoon.com/coinbase-is-about-to-be-sued-by-the-sec)
+![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-xj93qey.jpeg)
+Coinbase Lawsuit Incoming!
 
 ### [86. Introducing StakeBoard: a Beginner-Friendly Web3 Staking Dashboard](https://hackernoon.com/introducing-stakeboard-a-beginner-friendly-web3-staking-dashboard)
 ![](https://cdn.hackernoon.com/images/BymYoEwrHTXyWdwZetdhZGE6Q0E2-km92iwo.jpeg)
 StakeBoard provides a single dashboard that allows stakers to track their staking accounts in a single app. 
 
-### [87. 76 Stories To Learn About Staking](https://hackernoon.com/76-stories-to-learn-about-staking)
-![](https://cdn.hackernoon.com/images/github/staking-57.png)
-Learn everything you need to know about Staking via these 76 free HackerNoon stories.
+### [87. Is Regulation Really Needed in the Crypto Space?](https://hackernoon.com/is-regulation-really-needed-in-the-crypto-space)
+![](https://cdn.hackernoon.com/images/n93I5XffgXRPdKtQ4cnvtx6pHJO2-08936ua.jpeg)
+Despite all the talk of regulatory standards and bills, the questions of whether the cryptocurrency space really needs intervention has yet to be answered. 
 
-### [88. DIA’s Lumina to Roll Out in Phases, Pioneering a Decentralized Approach to Data Management](https://hackernoon.com/dias-lumina-to-roll-out-in-phases-pioneering-a-decentralized-approach-to-data-management)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-gg035bh.png)
-The leading open oracle network, DIA, is taking a bold step forward in the decentralized data market with the launch of 'Lumina'.
-
-### [89. Staking, Yield Farming, Lending: DeFi Remains Crypto's Home for Passive Income](https://hackernoon.com/staking-yield-farming-lending-defi-remains-cryptos-home-for-passive-income)
-![](https://cdn.hackernoon.com/images/A8kb22tUHZQOwvrKaADVMtWq9GJ2-mv92ix4.jpeg)
-DeFi has made access to financial services easier and with its farms, lending services and staking rewards, the ecosystem is a go-to for profit-hungry investors
-
-### [90. 14-day Staking Extravaganza for Pepe HODLers Is Here](https://hackernoon.com/yesports-announces-14-day-staking-extravaganza-for-pepe-meme-token-holders)
+### [88. 14-day Staking Extravaganza for Pepe HODLers Is Here](https://hackernoon.com/yesports-announces-14-day-staking-extravaganza-for-pepe-meme-token-holders)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-lpa2odx.jpeg)
 Yesports, the leading esports to web3 gaming platform, is thrilled to announce a special staking event for holders of the Pepe meme token.
+
+### [89. Cryptocurrencies Should Serve The Real People, Not The Privileged Few](https://hackernoon.com/cryptocurrencies-should-serve-the-real-people-not-the-privileged-few)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-hl93uea.jpeg)
+MEME TAO is a DeFi-based hedge fund that empowers proven crypto investors to manage a set of pre-targeted crypto funds.
+
+### [90. DIA’s Lumina to Roll Out in Phases, Pioneering a Decentralized Approach to Data Management](https://hackernoon.com/dias-lumina-to-roll-out-in-phases-pioneering-a-decentralized-approach-to-data-management)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-gg035bh.png)
+The leading open oracle network, DIA, is taking a bold step forward in the decentralized data market with the launch of 'Lumina'.
 
 ### [91. How To Stake On The Top Layer 1s?](https://hackernoon.com/how-to-stake-on-the-top-layer-1s)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-yw93ps7.jpeg)
 Learn how to stake on the two blockchain protocols that call themselves the 'World Computers' -- Ethereum and the Internet Computer in a post-merge world.
 
-### [92. Can Uniswap Be Left Behind?](https://hackernoon.com/can-uniswap-be-left-behind)
+### [92. Staking, Yield Farming, Lending: DeFi Remains Crypto's Home for Passive Income](https://hackernoon.com/staking-yield-farming-lending-defi-remains-cryptos-home-for-passive-income)
+![](https://cdn.hackernoon.com/images/A8kb22tUHZQOwvrKaADVMtWq9GJ2-mv92ix4.jpeg)
+DeFi has made access to financial services easier and with its farms, lending services and staking rewards, the ecosystem is a go-to for profit-hungry investors
+
+### [93. Ethereum Shanghai Upgrade Set to Unlock Staked Ether and Boost Staking Ratios](https://hackernoon.com/ethereum-shanghai-upgrade-set-to-unlock-staked-ether-and-boost-staking-ratios)
+![](https://cdn.hackernoon.com/images/drones-flying-in-shanghai-sky-clfcsfo2s000001s6d4i4f0ng.png)
+The widely anticipated Ethereum Shanghai upgrade is scheduled for early April 2023. The upgrade will unlock staked Ether that, for some, was inaccessible since December 2020. The results of the upgrade will have direct implications on Ether’s price, staking ratios, liquid staking and Proof of Stake community, and the industry as a whole. 
+
+### [94. Can Uniswap Be Left Behind?](https://hackernoon.com/can-uniswap-be-left-behind)
 ![](https://cdn.hackernoon.com/images/KrNvmdw10kSMdTv0h9mWXKS0iHc2-kca3m80.png)
 With newly-launched DEXs, Uniswap V3 is running late. That’s the project that carved out a niche one day and conquered the crypto market. Let’s face the music - even titans can lose over time. The next-gen platform that looks ahead of the pack is Algebra.Finance.
-
-### [93. Cryptocurrencies Should Serve The Real People, Not The Privileged Few](https://hackernoon.com/cryptocurrencies-should-serve-the-real-people-not-the-privileged-few)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-hl93uea.jpeg)
-MEME TAO is a DeFi-based hedge fund that empowers proven crypto investors to manage a set of pre-targeted crypto funds.
-
-### [94. DAFI Protocol's Collaboration With Polygen Allows New Projects to Use Staking 2.0](https://hackernoon.com/dafi-protocols-collaboration-with-polygen-allows-new-projects-to-use-staking-20)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-461376i.jpeg)
-DAFI announced a partnership with Polygen to enable new decentralized applications launching on the permissionless launchpad to integrate Staking 2.0.  
 
 ### [95. IoTeX 2.0: Enhancing Decentralized Infrastructure Through Staking and Governance](https://hackernoon.com/iotex-20-enhancing-decentralized-infrastructure-through-staking-and-governance)
 ![](https://cdn.hackernoon.com/images/PbbfrARZ78UfnvwvOMBFrN2mLJi1-2qa3lqj.jpeg)
 Explore IoTeX 2.0's staking, Modular Security Pool (MSP), rewards, and governance. Boost earnings, secure the network, and support decentralized infrastructure.
 
-### [96. Ethereum Shanghai Upgrade Set to Unlock Staked Ether and Boost Staking Ratios](https://hackernoon.com/ethereum-shanghai-upgrade-set-to-unlock-staked-ether-and-boost-staking-ratios)
-![](https://cdn.hackernoon.com/images/drones-flying-in-shanghai-sky-clfcsfo2s000001s6d4i4f0ng.png)
-The widely anticipated Ethereum Shanghai upgrade is scheduled for early April 2023. The upgrade will unlock staked Ether that, for some, was inaccessible since December 2020. The results of the upgrade will have direct implications on Ether’s price, staking ratios, liquid staking and Proof of Stake community, and the industry as a whole. 
+### [96. DAFI Protocol's Collaboration With Polygen Allows New Projects to Use Staking 2.0](https://hackernoon.com/dafi-protocols-collaboration-with-polygen-allows-new-projects-to-use-staking-20)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-461376i.jpeg)
+DAFI announced a partnership with Polygen to enable new decentralized applications launching on the permissionless launchpad to integrate Staking 2.0.  
 
 ### [97. How Apex Fusion Turns Staking Rewards Into Global Charity Impact](https://hackernoon.com/how-apex-fusion-turns-staking-rewards-into-global-charity-impact)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-8z03me2.png)
@@ -400,21 +404,21 @@ Discover how Apex Fusion channels blockchain staking rewards into real-world phi
 ![](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-qy039vr.png)
 This is a complete guide for those who play Axie infinity and know it well BUT also for complete beginners with no previous knowledge of staking and Axie Tokens
 
-### [99. OSWAP Token: Incentivizing Liquidity Provision in Oswap Pools](https://hackernoon.com/oswap-token-incentivizing-liquidity-provision-in-oswap-pools)
-![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-3c93rzn.png)
-OSWAP token reflects the success of the Oswap protocol and rewards the liquidity providers. It automatically appreciates at a rate that depends on Oswap TVL.
-
-### [100. Karak and Space and Time Join Forces to Revolutionize Blockchain Security](https://hackernoon.com/karak-and-space-and-time-join-forces-to-revolutionize-blockchain-security)
+### [99. Karak and Space and Time Join Forces to Revolutionize Blockchain Security](https://hackernoon.com/karak-and-space-and-time-join-forces-to-revolutionize-blockchain-security)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-2c835hg.png)
 Karak partners with Space and Time to enhance blockchain security with ZK proofs. Learn how this collaboration could transform the industry.
 
-### [101. Building a Better Blockchain: Lessons in Innovation and Adoption](https://hackernoon.com/building-a-better-blockchain-lessons-in-innovation-and-adoption)
-![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-dx82rgf.jpeg)
-Interview with Pavel Salas, where we talk about his journey from starting in blockchain at eToro to working on new ways to make blockchain more accessible.
+### [100. OSWAP Token: Incentivizing Liquidity Provision in Oswap Pools](https://hackernoon.com/oswap-token-incentivizing-liquidity-provision-in-oswap-pools)
+![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-3c93rzn.png)
+OSWAP token reflects the success of the Oswap protocol and rewards the liquidity providers. It automatically appreciates at a rate that depends on Oswap TVL.
 
-### [102. How Telecommunication Companies can Impact Defi and Staking](https://hackernoon.com/how-telecommunication-companies-can-impact-defi-and-staking)
+### [101. How Telecommunication Companies can Impact Defi and Staking](https://hackernoon.com/how-telecommunication-companies-can-impact-defi-and-staking)
 ![](https://cdn.hackernoon.com/images/t03XIzsJKARrMflzDrlxmlIic9U2-9n93odm.jpeg)
 In the presentation below, the Product Owner at T-Systems shares details about how the telecommunications company is providing blockchain infrastructure. 
+
+### [102. Building a Better Blockchain: Lessons in Innovation and Adoption](https://hackernoon.com/building-a-better-blockchain-lessons-in-innovation-and-adoption)
+![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-dx82rgf.jpeg)
+Interview with Pavel Salas, where we talk about his journey from starting in blockchain at eToro to working on new ways to make blockchain more accessible.
 
 ### [103. Revolutionizing Proof-of-Stake: Leveraging Bitcoin's Strengths ](https://hackernoon.com/revolutionizing-proof-of-stake-leveraging-bitcoins-strengths)
 ![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-ld92ik4.jpeg)
@@ -428,13 +432,13 @@ Staking is a popular way to engage with certain blockchain protocols and their n
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-goh3jfb.jpeg)
 In DeFi, the yield on deposits in dollar stablecoins reaches 15-20%. I discuss the risks and where to invest for a conservated crypto-investor in 2022.
 
-### [106. Here’s What's Coming Next for PrivacySwap 2.0](https://hackernoon.com/heres-whats-coming-next-for-privacyswap-20)
-![](https://cdn.hackernoon.com/images/zhjjVQi9JMeRdFlEG9GzfIKXZV12-0k13992.jpeg)
- PrivacySwap 2.0 is now complete. Now that we are creating our DEX, here’s what we offer and our plans for our next migration
-
-### [107. Digital Assets: Are We Still Early?](https://hackernoon.com/digital-assets-are-we-still-early)
+### [106. Digital Assets: Are We Still Early?](https://hackernoon.com/digital-assets-are-we-still-early)
 ![](https://cdn.hackernoon.com/images/4tMa4RB9uXN9YkzLoCtb4ZeclZM2-r3037oo.jpeg)
 Over the past few weeks if you're in the digital asset space you've probably received texts or questions over the holidays on what to buy or if it's a good time to do so etc. etc. I'm writing this in an effort to give my opinion which is in no way shape or form financial advice. 
+
+### [107. Here’s What's Coming Next for PrivacySwap 2.0](https://hackernoon.com/heres-whats-coming-next-for-privacyswap-20)
+![](https://cdn.hackernoon.com/images/zhjjVQi9JMeRdFlEG9GzfIKXZV12-0k13992.jpeg)
+ PrivacySwap 2.0 is now complete. Now that we are creating our DEX, here’s what we offer and our plans for our next migration
 
 ### [108. Everything You Ever Wanted To Know About Cryptocurrency Staking](https://hackernoon.com/everything-you-ever-wanted-to-know-about-cryptocurrency-staking-99103wk1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkuGSv82WVjg0Rg1B2LpgBSZbY7p1-sp163x02.png?alt=media&token=bd22f429-a05b-42db-a6a4-0338666035ec)

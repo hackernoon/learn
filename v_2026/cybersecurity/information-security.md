@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [information-security](https://hackernoon.com/tagged/information-security)
+### Let's learn about [Information Security](https://hackernoon.com/tagged/information-security) via these 178 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Information security is the practice of protecting information by mitigating information risks, ensuring confidentiality, integrity, and availability of data. It is paramount in the digital age to defend against cyber threats and maintain trust in information systems.
+
 ### [1. Databases and Blockchains, The Difference Is In Their Purpose And Design](https://hackernoon.com/databases-and-blockchains-the-difference-is-in-their-purpose-and-design-56ba6335778b)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-as03bvp.png)
 There is much confusion as to what a blockchain is and its dichotomy with a database. A blockchain is actually a database because it is a digital ledger that stores information in data structures called blocks. A database likewise stores information in data structures called tables. However, while a blockchain is a database, a database is not a blockchain. They are not interchangeable in a sense that though they both store information, they differ in design. There is also a difference in purpose between the two, which is perhaps what is not clear to those who want to understand why blockchains are needed and why databases are better suited for storing certain data.
@@ -182,21 +186,21 @@ Data brokers are companies or individuals that collect information from a variet
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7YI9YrBjtDO1FvYoKOhPQbG3wIy1-4yg28fe.jpeg?alt=media&token=ab7ccc2c-8a1a-4d1f-8dd7-dbb5e10c68c7)
 At its core, Zero Trust is an intuitive concept: assume that every device, user and network is compromised until proven otherwise. 
 
-### [46. Why the SUNBURST Incident is More Alarming than the FireEye’s Hack](https://hackernoon.com/why-the-sunburst-incident-is-more-alarming-than-the-fireeyes-hack-km2s31i8)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-wql25h5.jpeg)
-Why the SUNBURST incident is more alarming than the FireEye’s hack.
-
-### [47. GenAI Incident Severity Matrix: Custom Scoring Model for Cybersecurity Response](https://hackernoon.com/genai-incident-severity-matrix-custom-scoring-model-for-cybersecurity-response)
+### [46. GenAI Incident Severity Matrix: Custom Scoring Model for Cybersecurity Response](https://hackernoon.com/genai-incident-severity-matrix-custom-scoring-model-for-cybersecurity-response)
 ![](https://cdn.hackernoon.com/images/4ktYJul4oHaIGfJAJPOJMZgObXg1-4k022pd.png)
 GenAI is integral part of modern tech stack and responding to GenAI infrastructure requires a new approach
 
-### [48. What Could Have Prevented 2020's Massive Twitter Hack?](https://hackernoon.com/what-could-have-prevented-2020s-massive-twitter-hack-zm2m3ud8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ff9q4SrgcFbSufuuCG7aEwpnzkNl1-tq3w3uk4.jpeg?alt=media&token=a947780c-3533-43fd-a5a1-2c1072a9cc00)
-Attacks and account take-overs like the recent Twitter hack are completely avoidable. Enterprises must implement biometric multi-factor authentication to ensure that only the right users have access to the right systems at all times. If they don’t, users will continue being vulnerable to hacks and scams.
+### [47. Why the SUNBURST Incident is More Alarming than the FireEye’s Hack](https://hackernoon.com/why-the-sunburst-incident-is-more-alarming-than-the-fireeyes-hack-km2s31i8)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-wql25h5.jpeg)
+Why the SUNBURST incident is more alarming than the FireEye’s hack.
 
-### [49. Kraken Delists Monero: Here's Why The Future of Privacy Coins Are Under Attack](https://hackernoon.com/kraken-delists-monero-heres-why-the-future-of-privacy-coins-are-under-attack)
+### [48. Kraken Delists Monero: Here's Why The Future of Privacy Coins Are Under Attack](https://hackernoon.com/kraken-delists-monero-heres-why-the-future-of-privacy-coins-are-under-attack)
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-9103cu4.jpeg)
 Kraken delists Monero (XMR) in the EEA due to regulatory pressures, spotlighting the challenges privacy coins face under stricter EU crypto rules.
+
+### [49. What Could Have Prevented 2020's Massive Twitter Hack?](https://hackernoon.com/what-could-have-prevented-2020s-massive-twitter-hack-zm2m3ud8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ff9q4SrgcFbSufuuCG7aEwpnzkNl1-tq3w3uk4.jpeg?alt=media&token=a947780c-3533-43fd-a5a1-2c1072a9cc00)
+Attacks and account take-overs like the recent Twitter hack are completely avoidable. Enterprises must implement biometric multi-factor authentication to ensure that only the right users have access to the right systems at all times. If they don’t, users will continue being vulnerable to hacks and scams.
 
 ### [50. CVE-2022-31705: Bridged Creek Vulnerability Report](https://hackernoon.com/cve-2022-31705-bridged-creek-vulnerability-report)
 ![](https://cdn.hackernoon.com/images/sandbox-escape-internet-technical-vulnerability-weakness-hacker-clbteg7qx000201s61kzg9slk.png)
@@ -214,21 +218,21 @@ Companies implementing Salesforce’s internal security solutions may find their
 ![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-8a833bq.jpeg)
 Explore the 583% rise in Kerberoasting, as CrowdStrike's 2023 report highlights this growing cyber threat exploiting Kerberos protocol vulnerabilities.
 
-### [54. In 2019, Securing Data Is No Easy Task. Clickjacking- A Case Study](https://hackernoon.com/de-anonymization-via-clickjacking-in-2019-9q37y3261)
-![](https://cdn.hackernoon.com/drafts/sk11032ye.png)
-This article is about my journey to understand the current practice of de-anonymization via the clickjacking technique whereby a malicious website is able to uncover the identity of a visitor, including his full name and possibly other personal information. I don’t present any new information here that isn’t already publicly available, but I do look at how easy it is to compromise a visitor’s privacy and reveal his identity, even when he adheres to security best practices and uses an up-to-date browser and operating system.
-
-### [55. What is Runtime Application Self-Protection](https://hackernoon.com/what-is-runtime-application-self-protection)
+### [54. What is Runtime Application Self-Protection](https://hackernoon.com/what-is-runtime-application-self-protection)
 ![](https://cdn.hackernoon.com/images/wQ0VwwYunQTFa6vdbGXXxbpy8ak1-xoa3o37.jpeg)
 What is Runtime Application Self-Protection? Know how RASP is capable of controlling app execution, detecting & preventing real-time attacks.
 
-### [56. The SIM Swap Attack :  Addressing This Identity Fraud Problem](https://hackernoon.com/the-sim-swap-attack-addressing-this-identity-fraud-problem-354533l9)
-![](https://cdn.hackernoon.com/images/KLMEr7uGVxVZz8Mt1UVSyVDuk8S2-nvl3501.png)
-The SIM-Swap Attack makes use of customer support in the telecom service provider’s system. Here are Prevention and Mitigation Methods against Sim Swap Attacks.
-
-### [57. Why Zero-Day Attacks are so Dangerous and How to Stop Them](https://hackernoon.com/why-zero-day-attacks-are-so-dangerous-and-how-to-stop-them)
+### [55. Why Zero-Day Attacks are so Dangerous and How to Stop Them](https://hackernoon.com/why-zero-day-attacks-are-so-dangerous-and-how-to-stop-them)
 ![](https://cdn.hackernoon.com/images/YwUa5RhftmY6pRDT1rzSKMT0bvP2-su7x35rn.jpeg)
 Cybersecurity is becoming an internal and important part of a business's functioning as more and more enterprises are going online with their businesses. 
+
+### [56. In 2019, Securing Data Is No Easy Task. Clickjacking- A Case Study](https://hackernoon.com/de-anonymization-via-clickjacking-in-2019-9q37y3261)
+![](https://cdn.hackernoon.com/drafts/sk11032ye.png)
+This article is about my journey to understand the current practice of de-anonymization via the clickjacking technique whereby a malicious website is able to uncover the identity of a visitor, including his full name and possibly other personal information. I don’t present any new information here that isn’t already publicly available, but I do look at how easy it is to compromise a visitor’s privacy and reveal his identity, even when he adheres to security best practices and uses an up-to-date browser and operating system.
+
+### [57. The SIM Swap Attack :  Addressing This Identity Fraud Problem](https://hackernoon.com/the-sim-swap-attack-addressing-this-identity-fraud-problem-354533l9)
+![](https://cdn.hackernoon.com/images/KLMEr7uGVxVZz8Mt1UVSyVDuk8S2-nvl3501.png)
+The SIM-Swap Attack makes use of customer support in the telecom service provider’s system. Here are Prevention and Mitigation Methods against Sim Swap Attacks.
 
 ### [58. A Guide to Authentication Methods](https://hackernoon.com/a-guide-to-authentication-methods-my93tu6)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-3p203tqz.jpeg?alt=media&token=33b0f1aa-c078-4f0e-8dde-f3c7723fb7e0)
@@ -240,25 +244,25 @@ Have you been looking to learn Cybersecurity but you’re unsure where to start 
 
 Here’s a great guide on where to start!
 
-### [60. Discussing Web3 Security with Forta Ecosystem Lead Andrew Beal ](https://hackernoon.com/discussing-web3-security-with-forta-ecosystem-lead-andrew-beal)
-![](https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-pr93p8t.jpeg)
-A conversation with Andrew Beal, the spokesperson of Forta, on Web3 security, the rise in DeFi hacks, and where blockchain protocols are going wrong.
-
-### [61. Your SaaS User Communications: Don't Overlook the Security Issues](https://hackernoon.com/your-saas-user-communications-dont-overlook-the-security-issues)
+### [60. Your SaaS User Communications: Don't Overlook the Security Issues](https://hackernoon.com/your-saas-user-communications-dont-overlook-the-security-issues)
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-dw93np2.jpeg)
 In this article, we cover why you should look closely at how secure your customer communications are and implement strict security measures for emails, push not
+
+### [61. Discussing Web3 Security with Forta Ecosystem Lead Andrew Beal ](https://hackernoon.com/discussing-web3-security-with-forta-ecosystem-lead-andrew-beal)
+![](https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-pr93p8t.jpeg)
+A conversation with Andrew Beal, the spokesperson of Forta, on Web3 security, the rise in DeFi hacks, and where blockchain protocols are going wrong.
 
 ### [62. To All My Friends: Don’t Be An Idiot or Passive With Your Online Privacy](https://hackernoon.com/to-all-my-friends-dont-be-an-idiot-or-passive-with-your-online-privacy-yo1322gpp)
 ![](https://cdn.hackernoon.com/images/g74xy2dhe.jpg)
 Complacency with privacy invasion has become our 6th sense. Handing over the intimate details of our lives to corporate and government stooges has become a virtue and civic duty. It should come as no surprise that, even for a society dripping with tech-savviness, the average person would rather their government act than to take action themselves. According to Pew Research: 
 
-### [63. 7 Best DevOps Security Practices: DevSecOps and Its Merits](https://hackernoon.com/7-best-devops-security-practices-devsecops-and-its-merits-mr2p3unk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FCu1J0FnpOScjVS4UX6OdnLtzQs83-u8q3xam.png?alt=media&token=a4b621bf-0b7c-40db-8f61-ad86396f538c)
-DevOps has transformed the way operational engineers and software developers reason. Gone are the days when a code was written, implemented, and managed by operations. The DevOps model has remodeled the system of product and application production. As a result, faster results have become the pinnacle of delivering at the speed which the market demands.
-
-### [64. Best Practices for Securing Cloud Environments Against Cyber Threats](https://hackernoon.com/best-practices-for-securing-cloud-environments-against-cyber-threats)
+### [63. Best Practices for Securing Cloud Environments Against Cyber Threats](https://hackernoon.com/best-practices-for-securing-cloud-environments-against-cyber-threats)
 ![](https://cdn.hackernoon.com/images/secure-clouds-upgxsq1e875igqd329dbm17a.png)
 Secure your cloud environment with best practices like data encryption, IAM, regular audits, and Zero Trust to protect against cyber threats and data breaches
+
+### [64. 7 Best DevOps Security Practices: DevSecOps and Its Merits](https://hackernoon.com/7-best-devops-security-practices-devsecops-and-its-merits-mr2p3unk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FCu1J0FnpOScjVS4UX6OdnLtzQs83-u8q3xam.png?alt=media&token=a4b621bf-0b7c-40db-8f61-ad86396f538c)
+DevOps has transformed the way operational engineers and software developers reason. Gone are the days when a code was written, implemented, and managed by operations. The DevOps model has remodeled the system of product and application production. As a result, faster results have become the pinnacle of delivering at the speed which the market demands.
 
 ### [65. Why your Company Needs a Virtual Chief Information Security Officer](https://hackernoon.com/why-your-company-needs-a-virtual-chief-information-security-officer)
 ![](https://cdn.hackernoon.com/images/5BK0wR6X7OPaibZFB1VayZLcarN2-plb3q6h.jpeg)
@@ -300,25 +304,25 @@ Before we can understand how the Blockchain works, we need to understand the pro
 ![](https://images.unsplash.com/photo-1560169897-fc0cdbdfa4d5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 In an exclusive story reported on my blog about a month ago and on no other mainstream media outlet, credentials of some 1,023 Premium accounts were found floating on the web. These user accounts belong to the popular video-on-demand streaming service, ZEE5.
 
-### [75. Artificial Intelligence is No Match for Natural Stupidity](https://hackernoon.com/artificial-intelligence-is-no-match-for-natural-stupidity-kd7g3w8y)
-![](https://cdn.hackernoon.com/drafts/f99v1z16.png)
-A Lazy Introduction to AI for Infosec. 
-
-### [76. AI's Growing Role in Cybersecurity](https://hackernoon.com/ais-growing-role-in-cybersecurity)
+### [75. AI's Growing Role in Cybersecurity](https://hackernoon.com/ais-growing-role-in-cybersecurity)
 ![](https://cdn.hackernoon.com/images/kM4tjUJePDewmkTaWoeJUqmrRVt2-er033zq.jpeg)
 Learn how AI is transforming cybersecurity through enhanced threat detection, automation, and its future potential alongside human expertise.
+
+### [76. How You Can Use Pepper to Further Secure Encrypted Passwords](https://hackernoon.com/how-you-can-use-pepper-to-further-secure-encrypted-passwords)
+![](https://cdn.hackernoon.com/images/QNFVRf2iTVO0bYTAXHHcb2yqSh12-zg934gu.jpeg)
+We already understand the importance of encrypting passwords before saving them in the database. 
 
 ### [77. Cyber Security: A Guide on Choosing a Reliable Service ](https://hackernoon.com/cyber-security-a-guide-on-choosing-a-reliable-service)
 ![](https://cdn.hackernoon.com/images/pMAyR6fmWLVu4R23SYbEn05AOz22-csa3l19.jpeg)
 Nowadays, Cyber security is a trending topic around the globe. It has become a necessity for every business with the growing cyber threats. 
 
-### [78. Viewing K8S Cluster Security from the Perspective of Attackers (Part 2)](https://hackernoon.com/viewing-k8s-cluster-security-from-the-perspective-of-attackers-part-2)
+### [78. Artificial Intelligence is No Match for Natural Stupidity](https://hackernoon.com/artificial-intelligence-is-no-match-for-natural-stupidity-kd7g3w8y)
+![](https://cdn.hackernoon.com/drafts/f99v1z16.png)
+A Lazy Introduction to AI for Infosec. 
+
+### [79. Viewing K8S Cluster Security from the Perspective of Attackers (Part 2)](https://hackernoon.com/viewing-k8s-cluster-security-from-the-perspective-of-attackers-part-2)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7w92c73.jpeg)
 This article will continue to introduce attack points on K8S Cluster security.
-
-### [79. How You Can Use Pepper to Further Secure Encrypted Passwords](https://hackernoon.com/how-you-can-use-pepper-to-further-secure-encrypted-passwords)
-![](https://cdn.hackernoon.com/images/QNFVRf2iTVO0bYTAXHHcb2yqSh12-zg934gu.jpeg)
-We already understand the importance of encrypting passwords before saving them in the database. 
 
 ### [80. 6 Skills You Need to Succeed In Cybersecurity](https://hackernoon.com/6-skills-you-need-to-succeed-in-cybersecurity)
 ![](https://cdn.hackernoon.com/images/eUMe4gjkZdcgsNTQWmVWr1LCKX03-bd831dk.jpeg)
@@ -368,13 +372,13 @@ How and why the blockchain should be placed front and centre of the secure softw
 ![](https://cdn.hackernoon.com/images/uuWu2jadCVYFY7WzfMFVwHvBD1l1-0be32jg.jpeg)
 I noticed a suspicious behavior on the weekly email from my coffee shop's subscription; it was offering I edit my preferences directly through a dedicated link.
 
-### [92. Beyond Phishing: How Agentic AI Is Weaponizing the Human Element in Next-Gen Cyberattacks](https://hackernoon.com/beyond-phishing-how-agentic-ai-is-weaponizing-the-human-element-in-next-gen-cyberattacks)
-![](https://cdn.hackernoon.com/images/1qSQikvqX0P56bH0zXJCV691h5b2-ch03nmx.png)
-Security expert analyzes how Agentic AI moves beyond simple phishing to autonomously exploit the human element.
-
-### [93. How Proxies & Browsers Are Meant to Work Together](https://hackernoon.com/how-proxies-and-browsers-are-meant-to-work-together)
+### [92. How Proxies & Browsers Are Meant to Work Together](https://hackernoon.com/how-proxies-and-browsers-are-meant-to-work-together)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-xw93n4e.jpeg)
 Proxies can be used for an IP covering, but other distinguishing features need something more. And all this because of a digital fingerprint revealing us.
+
+### [93. The Journey into Digital Forensics: Exploring Career Opportunities (Revealing Insights)](https://hackernoon.com/the-journey-into-digital-forensics-exploring-career-opportunities-revealing-insights)
+![](https://cdn.hackernoon.com/images/kM4tjUJePDewmkTaWoeJUqmrRVt2-5h8333j.jpeg)
+Explore career opportunities in Digital Forensics and Incident Response. Learn about the skills, training, and roles in this critical cybersecurity field.
 
 ### [94. Meet the CyberSecurity Analyst Who Also Loves Trying Out Food Recipes](https://hackernoon.com/meet-the-cybersecurity-analyst-who-also-loves-trying-out-food-recipes)
 ![](https://cdn.hackernoon.com/images/o7AnrhiFRpOGjxeBqUyez1lUzlH3-lla3py6.jpeg)
@@ -384,37 +388,38 @@ I write about what keeps businesses secure and profitable and provide advisory t
 ![](https://cdn.hackernoon.com/images/wpsdDnj0JHhihkhcMPXtUlLNxt42-kc92dxw.jpeg)
 Understanding the common keywords used in the info-sec industry that are used in conjunction with that complicated OWASP Top 10 WAST
 
-### [96. The Journey into Digital Forensics: Exploring Career Opportunities (Revealing Insights)](https://hackernoon.com/the-journey-into-digital-forensics-exploring-career-opportunities-revealing-insights)
-![](https://cdn.hackernoon.com/images/kM4tjUJePDewmkTaWoeJUqmrRVt2-5h8333j.jpeg)
-Explore career opportunities in Digital Forensics and Incident Response. Learn about the skills, training, and roles in this critical cybersecurity field.
-
-### [97. LDAP Injection Vulnerability, Explained ](https://hackernoon.com/ldap-injection-vulnerability-explained-t01e3u3z)
+### [96. LDAP Injection Vulnerability, Explained ](https://hackernoon.com/ldap-injection-vulnerability-explained-t01e3u3z)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-olh2838.jpeg?alt=media&token=c55d3b90-ca60-464c-bdb9-71b9993f22bc)
 LDAP or Lightweight Directory Access Protocol is a methodology designed to read data in a directory, file or device. This is actually a directory access service which, for instance, can be used to provide information about a user who is trying to login as part of a single-sign-on, SSO process.
 
-### [98. Are You Prepared to Respond to Advanced Security Incidents?](https://hackernoon.com/are-you-prepared-to-respond-to-advanced-security-incidents)
+### [97. 
+Relationship between Privacy and Information Security and the Role of Government](https://hackernoon.com/relationship-between-privacy-and-information-security-and-the-role-of-government)
+![](https://cdn.hackernoon.com/images/IdZYh7smkHUDn9G4Msao4EoVLSL2-af03btv.jpeg)
+GDPR reshaped healthcare data governance — but compliance remains inconsistent. Here's what eight years of research shows.
+
+### [98. Here's Why Your UEBA Isn’t Working (and How to Fix It)](https://hackernoon.com/heres-why-your-ueba-isnt-working-and-how-to-fix-it)
+![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-6g02gqa.jpeg)
+Traditional UEBA can't catch modern threats. Learn how AI-powered behavioral analytics detects sophisticated attacks instantly without months of training.
+
+### [99. Are You Prepared to Respond to Advanced Security Incidents?](https://hackernoon.com/are-you-prepared-to-respond-to-advanced-security-incidents)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-3t93oen.jpeg)
 
-
-### [99. 10 Reasons to Get Your Cybersecurity Certification](https://hackernoon.com/10-reasons-to-get-your-cybersecurity-certification-squ3usq)
-![](https://images.unsplash.com/photo-1555399784-17946f55db19?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-The set of skills that are mostly expected by the employers can be gained by the cybersecurity certifications, it will prepare you for the diversity needed in the sophisticated areas of cybercrime. So, here are the top compiling reasons for you to pursue the additional cybersecurity credentials.
 
 ### [100. 3 Security Mindsets for Engineers, Consultants and Architects](https://hackernoon.com/3-security-mindsets-for-engineers-consultants-and-architects-jw3d31yn)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-uleq25aj.jpeg)
 Describing a security mindset generally is impossible to be practical at the same time. To handle that, I would like to put your mind into 3 roles.
 
-### [101. 5 Ways to Add Security to Excel & PDF with .NET Document APIs](https://hackernoon.com/5-ways-to-add-security-to-excel-and-pdf-with-net-document-apis)
+### [101. 10 Reasons to Get Your Cybersecurity Certification](https://hackernoon.com/10-reasons-to-get-your-cybersecurity-certification-squ3usq)
+![](https://images.unsplash.com/photo-1555399784-17946f55db19?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+The set of skills that are mostly expected by the employers can be gained by the cybersecurity certifications, it will prepare you for the diversity needed in the sophisticated areas of cybercrime. So, here are the top compiling reasons for you to pursue the additional cybersecurity credentials.
+
+### [102. 5 Ways to Add Security to Excel & PDF with .NET Document APIs](https://hackernoon.com/5-ways-to-add-security-to-excel-and-pdf-with-net-document-apis)
 ![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-ur9349k.jpeg)
 Learn how GcExcel helps to ensure your application’s code security in these 5 ways!
 
-### [102. Creating a Secure Mobile App: Main Vulnerabilities and Security Practices ](https://hackernoon.com/creating-a-secure-mobile-app-main-vulnerabilities-and-security-practices)
+### [103. Creating a Secure Mobile App: Main Vulnerabilities and Security Practices ](https://hackernoon.com/creating-a-secure-mobile-app-main-vulnerabilities-and-security-practices)
 ![](https://cdn.hackernoon.com/images/aBBfgZPPZyb0YobTc0dCp6i6p7V2-97a3kme.jpeg)
 There are 2.87 million apps on the Google Play Store. it’s the responsibility of the app owner to make sure that all the data use properly. 
-
-### [103. Here's Why Your UEBA Isn’t Working (and How to Fix It)](https://hackernoon.com/heres-why-your-ueba-isnt-working-and-how-to-fix-it)
-![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-6g02gqa.jpeg)
-Traditional UEBA can't catch modern threats. Learn how AI-powered behavioral analytics detects sophisticated attacks instantly without months of training.
 
 ### [104. 5 Reasons Why VPNs are not Safe in 2021](https://hackernoon.com/five-reasons-why-the-vpns-are-becoming-obsolete-in-2021)
 ![](https://cdn.hackernoon.com/images/YwZ5MEcra5SN9FAVXOOkqkhG8LF3-rj03bmw.jpeg)
@@ -424,61 +429,62 @@ All good things must come to an end, which may be true for the VPN in 2021. VPNs
 ![](https://images.unsplash.com/photo-1557424169-2dfbc683a1c6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 When it comes to security incidents, it’s not a question of if, but when they will happen. 80% of organizations say that they have experienced some kind of cybersecurity incident in the last year. With this in mind, it’s essential to have a security incident response plan in place before you need one.
 
-### [106. Free Extension To Scan Go Vulnerabilities in Visual Studio Code](https://hackernoon.com/free-extension-to-scan-go-vulnerabilities-in-visual-studio-code-rpax30u9)
-![](https://cdn.hackernoon.com/images/p3193tpb.jpg)
-If you’re a Golang developer using Visual Studio Code, keeping at-risk Go Modules out of your apps just got easier, and for free.
-
-### [107. 6 Tips for Improving Cybersecurity in the Workplace](https://hackernoon.com/6-tips-for-improving-cybersecurity-in-the-workplace)
+### [106. 6 Tips for Improving Cybersecurity in the Workplace](https://hackernoon.com/6-tips-for-improving-cybersecurity-in-the-workplace)
 ![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-m293q9x.jpeg)
 In this post, we'll cover some fundamental and practical ways to boost workplace cybersecurity.
 
-### [108. A Free Beginner’s Guide to DNS Security for Work From Home (WFH)](https://hackernoon.com/a-free-beginners-guide-to-dns-security-for-work-from-home-wfh-2s4i33y4)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-bpl3zwk.jpeg)
-Working at home does not mean compromise on security. All in all, it’s necessary to take decisive steps to enforce and sustain DNS protection measures.
+### [107. Free Extension To Scan Go Vulnerabilities in Visual Studio Code](https://hackernoon.com/free-extension-to-scan-go-vulnerabilities-in-visual-studio-code-rpax30u9)
+![](https://cdn.hackernoon.com/images/p3193tpb.jpg)
+If you’re a Golang developer using Visual Studio Code, keeping at-risk Go Modules out of your apps just got easier, and for free.
 
-### [109. How Should Companies Build a Robust Cybersecurity Culture?](https://hackernoon.com/how-should-companies-build-a-robust-cybersecurity-culture-q85v366j)
-![](https://cdn.hackernoon.com/drafts/93s36xm.png)
-In the modern age of information and technology, there’s not a single individual or organization that would object to the tightening of cybersecurity within an enterprise. 
-
-### [110. Top Penetration Testing Companies and Tools](https://hackernoon.com/top-penetration-testing-companies-and-tools)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-j013ost.jpeg)
-Penetration testing, or 'pen tests' as they are colloquially known, basically consist of a hack or cyber-attack on one's system. 
-
-### [111. How Security Engineering is Changing the Cybersecurity Industry](https://hackernoon.com/how-security-engineering-is-changing-the-cybersecurity-industry)
+### [108. How Security Engineering is Changing the Cybersecurity Industry](https://hackernoon.com/how-security-engineering-is-changing-the-cybersecurity-industry)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-z893rxf.jpeg)
 In this piece, I will expand on one of the trends related to this transformation - namely the rise of security engineering.
 
-### [112. Why 85% of People Reuse Passwords Against Expert Advice](https://hackernoon.com/why-85percent-of-people-reuse-passwords-against-expert-advice)
-![](https://cdn.hackernoon.com/images/Pza7Fnbfy7OCXpN7qxXukOmtNnf2-c703b6f.jpeg)
-Traditional password advice is technically correct but practically impossible. Analysis shows 85% reuse passwords due to cognitive overload. 
+### [109. A Free Beginner’s Guide to DNS Security for Work From Home (WFH)](https://hackernoon.com/a-free-beginners-guide-to-dns-security-for-work-from-home-wfh-2s4i33y4)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-bpl3zwk.jpeg)
+Working at home does not mean compromise on security. All in all, it’s necessary to take decisive steps to enforce and sustain DNS protection measures.
 
-### [113. SAIS-GRC Framework: Establishing Trust and Enhancing Resilience in AI-Driven Supply Chains](https://hackernoon.com/sais-grc-framework-establishing-trust-and-enhancing-resilience-in-ai-driven-supply-chains)
-![](https://cdn.hackernoon.com/images/1qSQikvqX0P56bH0zXJCV691h5b2-ng03hjb.jpeg)
-The SAIS-GRC Framework is not a reactive measure but a blueprint for a new competitive advantage.
+### [110. How Should Companies Build a Robust Cybersecurity Culture?](https://hackernoon.com/how-should-companies-build-a-robust-cybersecurity-culture-q85v366j)
+![](https://cdn.hackernoon.com/drafts/93s36xm.png)
+In the modern age of information and technology, there’s not a single individual or organization that would object to the tightening of cybersecurity within an enterprise. 
 
-### [114. How to Keep Mission-Critical Business Data Secure in the Mobile Age](https://hackernoon.com/protecting-mission-critical-business-data-in-the-mobile-age)
-![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-ft93qzr.gif.webp)
-Andrew Nichols | Protecting Mission-Critical Business Data in the Mobile Age
+### [111. Database Anonymization: the Basics](https://hackernoon.com/database-anonymization-the-basics)
+![](https://cdn.hackernoon.com/images/2yGHgBWTVPeNYTo4My71mp8u9Dk1-xze2175.jpeg)
+Explore the database anonymization process from scratch. Who needs it, and what do we gain? What is anonymization in simple terms? An example of anonymization.
 
-### [115. AI's Invisible Eye: Your Privacy on the Line in the Digital Age](https://hackernoon.com/ais-invisible-eye-your-privacy-on-the-line-in-the-digital-age)
+### [112. Top Penetration Testing Companies and Tools](https://hackernoon.com/top-penetration-testing-companies-and-tools)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-j013ost.jpeg)
+Penetration testing, or 'pen tests' as they are colloquially known, basically consist of a hack or cyber-attack on one's system. 
+
+### [113. AI's Invisible Eye: Your Privacy on the Line in the Digital Age](https://hackernoon.com/ais-invisible-eye-your-privacy-on-the-line-in-the-digital-age)
 ![](https://cdn.hackernoon.com/images/mCQMNMUuBRQ0LIqGt5Ff1WvWWSL2-o493tcw.jpeg)
 Explore the intricate relationship between AI and privacy, the potential threats posed by AI, and how we can navigate this complex landscape.
 
-### [116. Database Anonymization: the Basics](https://hackernoon.com/database-anonymization-the-basics)
-![](https://cdn.hackernoon.com/images/2yGHgBWTVPeNYTo4My71mp8u9Dk1-xze2175.jpeg)
-Explore the database anonymization process from scratch. Who needs it, and what do we gain? What is anonymization in simple terms? An example of anonymization.
+### [114. SAIS-GRC Framework: Establishing Trust and Enhancing Resilience in AI-Driven Supply Chains](https://hackernoon.com/sais-grc-framework-establishing-trust-and-enhancing-resilience-in-ai-driven-supply-chains)
+![](https://cdn.hackernoon.com/images/1qSQikvqX0P56bH0zXJCV691h5b2-ng03hjb.jpeg)
+The SAIS-GRC Framework is not a reactive measure but a blueprint for a new competitive advantage.
+
+### [115. How to Keep Mission-Critical Business Data Secure in the Mobile Age](https://hackernoon.com/protecting-mission-critical-business-data-in-the-mobile-age)
+![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-ft93qzr.gif.webp)
+Andrew Nichols | Protecting Mission-Critical Business Data in the Mobile Age
+
+### [116. How to Write GRC Documentation That Non-
+Technical Stakeholders Actually Understand](https://hackernoon.com/how-to-write-grc-documentation-that-non-technical-stakeholders-actually-understand)
+![](https://cdn.hackernoon.com/images/EUzdD7EdVqbU1y0SLQwSLSArm8s2-wp93ecq.jpeg)
+Stop treating GRC as a paperwork exercise. Learn how to refactor dense NIST CSF and ISO 27001 frameworks into actionable, human-readable documentation that deve
 
 ### [117. Using Macros and Emulation Voodoo to Solve a Crackme](https://hackernoon.com/re-using-macros-and-emulation-voodo-to-solve-a-crackme-szec3y2k)
 ![](https://cdn.hackernoon.com/drafts/033jr3yja.png)
 This time I’m tackling this beautiful crackme, the third of the series. To solve this we will use radare2’s macros and unicorn emulation. Let’s jump right in!
 
-### [118. How The Hotstuff Protocol is NOT Secure?](https://hackernoon.com/how-the-hotstuff-protocol-is-not-secure-gf9a32mv)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-at82rcg.jpeg)
-Each participant stores a tree of pending commands locally, in addition to the state variables viewNumber (starting at 1, stores the highest QC it voted to pre-commit), and prepareQC (starts at nil), lockedQC (starts at nil, stores the highest QC it voted to commit). When a “new-view” or round starts, a public function determines the leader from the current participants. 
-
-### [119. Privacy and Security, Though Distinct Concepts, Are Interdependent](https://hackernoon.com/privacy-and-security-though-distinct-concepts-are-interdependent)
+### [118. Privacy and Security, Though Distinct Concepts, Are Interdependent](https://hackernoon.com/privacy-and-security-though-distinct-concepts-are-interdependent)
 ![](https://cdn.hackernoon.com/images/ikbL5FgsQnPs2muFUmyvO72zC1t1-ef92h61.jpeg)
 Security & Privacy are often confused, but are distinct. It’s important that we understand the difference so that we can protect ourselves
+
+### [119. How The Hotstuff Protocol is NOT Secure?](https://hackernoon.com/how-the-hotstuff-protocol-is-not-secure-gf9a32mv)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-at82rcg.jpeg)
+Each participant stores a tree of pending commands locally, in addition to the state variables viewNumber (starting at 1, stores the highest QC it voted to pre-commit), and prepareQC (starts at nil), lockedQC (starts at nil, stores the highest QC it voted to commit). When a “new-view” or round starts, a public function determines the leader from the current participants. 
 
 ### [120. Detecting & Preventing Insider Threats To Your Company: An Overview](https://hackernoon.com/detecting-and-preventing-insider-threats-to-your-company-an-overview-hw3r3wp0)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIfJuhB2LeiR8lOqtKZfrt9UH9Kf1-75183usj.jpeg?alt=media&token=3fa62851-b816-4c64-9c93-c90f7a22aa11)
@@ -489,54 +495,53 @@ comes from the insider threat, no matter which industry or sector you work in.
 ![](https://cdn.hackernoon.com/images/github/information-security-989.png)
 Learn everything you need to know about Information Security via these 132 free HackerNoon stories.
 
-### [122. Understanding The Importance of SOC2 Compliance for Data Centers](https://hackernoon.com/understanding-the-importance-of-soc2-compliance-for-data-centers-ni7g33gz)
+### [122. Beyond Phishing: How Agentic AI Is Weaponizing the Human Element in Next-Gen Cyberattacks](https://hackernoon.com/beyond-phishing-how-agentic-ai-is-weaponizing-the-human-element-in-next-gen-cyberattacks)
+![](https://cdn.hackernoon.com/images/1qSQikvqX0P56bH0zXJCV691h5b2-ch03nmx.png)
+Security expert analyzes how Agentic AI moves beyond simple phishing to autonomously exploit the human element.
+
+### [123. Understanding The Importance of SOC2 Compliance for Data Centers](https://hackernoon.com/understanding-the-importance-of-soc2-compliance-for-data-centers-ni7g33gz)
 ![](https://cdn.hackernoon.com/images/u9ziK4d9yye5kr24s4EUCodJRhg1-lv8y332p.jpeg)
 Businesses rely on Data Center SOC2 Audit Reports for critical business decisions concerning outsourcing services. It helps customers build a sense of trust.
 
-### [123. How to Keep OpenSSL Updated in an Enterprise Environment ](https://hackernoon.com/how-to-keep-openssl-updated-in-an-enterprise-environment-db1f34b3)
+### [124. How to Keep OpenSSL Updated in an Enterprise Environment ](https://hackernoon.com/how-to-keep-openssl-updated-in-an-enterprise-environment-db1f34b3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpUqO5gpVprYO3i3gGufzAkTCSXI2-ihr3wih.jpeg?alt=media&token=93475380-82cd-4291-bed6-c49eea1659c0)
 Outdated systems can leave us vulnerable to bad actors. Zero-day exploits are common with just about every system that exists. If we do not upgrade regularly, we leave ourselves at the mercy of black-hat hackers who regularly take advantage of any out-of-date application they can find. This is equally true with OpenSSL as with anything else. 
 
-### [124. How to Write GRC Documentation That Non-
-Technical Stakeholders Actually Understand](https://hackernoon.com/how-to-write-grc-documentation-that-non-technical-stakeholders-actually-understand)
-![](https://cdn.hackernoon.com/images/EUzdD7EdVqbU1y0SLQwSLSArm8s2-wp93ecq.jpeg)
-Stop treating GRC as a paperwork exercise. Learn how to refactor dense NIST CSF and ISO 27001 frameworks into actionable, human-readable documentation that deve
-
-### [125. When Data Integrity Becomes the Ultimate Target](https://hackernoon.com/when-data-integrity-becomes-the-ultimate-target)
-![](https://cdn.hackernoon.com/images/PoHRBImuFwNtiSxwGBnRQ7iakbE3-pw03chp.jpeg)
-As cyber threats evolve, data integrity emerges as the ultimate prize learn why protecting truth is the future of security.
-
-### [126. Helpful Strategies to Combat WhatsApp Security Threats](https://hackernoon.com/helpful-strategies-to-combat-whatsapp-security-threats-s54433ya)
+### [125. Helpful Strategies to Combat WhatsApp Security Threats](https://hackernoon.com/helpful-strategies-to-combat-whatsapp-security-threats-s54433ya)
 ![](https://cdn.hackernoon.com/images/GCGWS4vdFDa1ADxe4jfiCKy9q4r2-npi337j.jpeg)
 In the previous year, a security flaw was found in the WhatsApp desktop version. It allowed cyber-crooks to push malware or deploy codes by using harmless messages.
 
-### [127. Practical Feedback on Using Machine Learning in Information Security](https://hackernoon.com/practical-feedback-on-using-machine-learning-in-information-security)
+### [126. Practical Feedback on Using Machine Learning in Information Security](https://hackernoon.com/practical-feedback-on-using-machine-learning-in-information-security)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-tx834k1.jpeg)
 Discover how AI/ML and information security teams combat bad actors using strategies like IP/User/Token-based rate limiting, CAPTCHA challenges, and more. 
 
-### [128. Insider Threats: Unmasking the Foe Within Your Organization](https://hackernoon.com/insider-threats-unmasking-the-foe-within-your-organization)
+### [127. Insider Threats: Unmasking the Foe Within Your Organization](https://hackernoon.com/insider-threats-unmasking-the-foe-within-your-organization)
 ![](https://cdn.hackernoon.com/images/EbAYYnuybxZrbaG4JdmpU01xrU23-rsb3p2z.jpeg)
 Insider threat is a reality, but so are ways to prevent and mitigate it.
 
-### [129. Prioritize Vulnerabilities Using Budibase — No Costly Tools Needed](https://hackernoon.com/prioritize-vulnerabilities-using-budibase-no-costly-tools-needed)
+### [128. Prioritize Vulnerabilities Using Budibase — No Costly Tools Needed](https://hackernoon.com/prioritize-vulnerabilities-using-budibase-no-costly-tools-needed)
 ![](https://cdn.hackernoon.com/images/ZyGWTLLMvYcE09HHAYjr6eX8opD3-nm02q07.png)
 A customized strategy for prioritizing vulnerabilities on the Budibase platform.
+
+### [129. Protecting Your Company from Growing Risks of Software Supply Chain Attacks](https://hackernoon.com/protecting-your-company-from-growing-risks-of-software-supply-chain-attacks)
+![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-xd93rlt.jpeg)
+Software supply chain attacks are an emerging threat in the cybersecurity world. How can you protect your company against these attacks? Find out here.
 
 ### [130. Online Identity Theft: Learn How To Combat It](https://hackernoon.com/online-identity-theft-learn-how-to-combat-it)
 ![](https://cdn.hackernoon.com/images/kwINvV6wOmXQEYbhkXRvVMefI8C2-97037fo.jpeg)
 Risk of becoming a victim of information theft and even online identity theft. In this article we help you find out how to stay safe
 
-### [131. Protecting Your Company from Growing Risks of Software Supply Chain Attacks](https://hackernoon.com/protecting-your-company-from-growing-risks-of-software-supply-chain-attacks)
-![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-xd93rlt.jpeg)
-Software supply chain attacks are an emerging threat in the cybersecurity world. How can you protect your company against these attacks? Find out here.
-
-### [132. IoT Security Challenges and Risk Mitigation Strategies](https://hackernoon.com/iot-security-challenges-and-risk-mitigation-strategies-2fhf311m)
+### [131. IoT Security Challenges and Risk Mitigation Strategies](https://hackernoon.com/iot-security-challenges-and-risk-mitigation-strategies-2fhf311m)
 ![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-0if331ei.jpeg)
 The Internet of Things plays a key role in digital transformation. However, in many cases, organizations realize that they already have a large fleet of legacy 
 
-### [133. Does Anonymization of Data Guarantees Privacy?](https://hackernoon.com/does-anonymization-of-data-guarantees-privacy-7n1r31xa)
+### [132. Does Anonymization of Data Guarantees Privacy?](https://hackernoon.com/does-anonymization-of-data-guarantees-privacy-7n1r31xa)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-dxj311j.jpeg)
 Anonymization of data isn’t enough to guarantee privacy
+
+### [133. Why 85% of People Reuse Passwords Against Expert Advice](https://hackernoon.com/why-85percent-of-people-reuse-passwords-against-expert-advice)
+![](https://cdn.hackernoon.com/images/Pza7Fnbfy7OCXpN7qxXukOmtNnf2-c703b6f.jpeg)
+Traditional password advice is technically correct but practically impossible. Analysis shows 85% reuse passwords due to cognitive overload. 
 
 ### [134. 5 Reasons Why Enterprises Need Zero Trust Security](https://hackernoon.com/5-reasons-why-enterprises-need-zero-trust-security)
 ![](https://cdn.hackernoon.com/images/bWf7Y9sKoce7uN7b8MgFPMs2uXm1-3f93kqj.jpeg)
@@ -546,49 +551,49 @@ The notion of “Zero Trust” has been around since the 90s. But, the Zero Trus
 ![](https://cdn.hackernoon.com/images/sEiTHnmTGDdab0qMfHtb54LxcMe2-gqe3irb.jpeg)
 Cyber warfare and terrorism are distinct yet interrelated concepts that have gained increasing relevance in the contemporary digital age.  
 
-### [136. Securing SaaS Ecosystems: Atmosec's Quest for HackerNoon's Crown](https://hackernoon.com/securing-saas-ecosystems-atmosecs-quest-for-hackernoons-crown)
+### [136. How We Built an M&A Security Playbook: From Due Diligence to Penetration Testing](https://hackernoon.com/how-we-built-an-manda-security-playbook-from-due-diligence-to-penetration-testing)
+![](https://cdn.hackernoon.com/images/GArK3XdhOkNl7oH07tL2sKo9SKE2-k5123kf.jpeg)
+A practical, 3-phase framework for running security assessments and pen testing during M&A - built from real acquisitions, not theory. 
+
+### [137. Securing SaaS Ecosystems: Atmosec's Quest for HackerNoon's Crown](https://hackernoon.com/securing-saas-ecosystems-atmosecs-quest-for-hackernoons-crown)
 ![](https://cdn.hackernoon.com/images/adventurers-on-a-quest-to-get-a-treasure-cowcitp08ayqih4zbtnp6j44.png)
 Atmosec: Securing hyperconnected SaaS ecosystems. Innovative platform for SaaS security. Get to know more about us in HackerNoon's Startup of the Year awards!
 
-### [137. Ensuring Security: A Guide for Web and Mobile Application Development](https://hackernoon.com/ensuring-security-a-guide-for-web-and-mobile-application-development-cx9235cl)
+### [138. Ensuring Security: A Guide for Web and Mobile Application Development](https://hackernoon.com/ensuring-security-a-guide-for-web-and-mobile-application-development-cx9235cl)
 ![](https://cdn.hackernoon.com/images/SArfhdU0RIb1QC1K2EGh1Fnbn7G3-7k1c3734.jpeg)
 Authentication and authorization for modern web and mobile applications are a key part of most development cycles. This story outlines some considerations. 
 
-### [138. An Introduction to Malware Analysis](https://hackernoon.com/an-introduction-to-malware-analysis-qi4034qj)
+### [139. An Introduction to Malware Analysis](https://hackernoon.com/an-introduction-to-malware-analysis-qi4034qj)
 ![](https://cdn.hackernoon.com/images/vS8iO2xlaMMtPxiFN2ez4ruI5HL2-tu3n31pe.jpeg)
 Malicious software (Malware) are either programs or files that are intended to cause harm to a system and thereby its user.
 
-### [139. Prioritising Security Vulnerabilities with CVSS 3.1 [An Overview]](https://hackernoon.com/prioritising-security-vulnerabilities-with-cvss-31-an-overview-gm6832tq)
+### [140. Prioritising Security Vulnerabilities with CVSS 3.1 [An Overview]](https://hackernoon.com/prioritising-security-vulnerabilities-with-cvss-31-an-overview-gm6832tq)
 ![](https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 With thousands of security vulnerabilities reported each month in products ranging from hardware devices to firmware to popular software apps, how does one prioritise what needs the most attention? From a business and project management perspective, it makes sense to, first and foremost, allocate engineering and/or risk assessment resources to the most severe vulnerabilities that need immediate patching. 
-
-### [140. A Growing Necessity for Cybersecurity](https://hackernoon.com/a-growing-necessity-for-cybersecurity-h47z36vd)
-![](https://cdn.hackernoon.com/drafts/v777336s.png)
-Businesses and personal users alike, cybersecurity is a growing necessity. With the increase of breaches, cybercrime, and more sophisticated hackers in this world, it is more important than ever to ensure that your data and network are secure and safe from criminals. If you are a business, then you likely have a dedicated IT team that helps ensure the safety of the data and network at your business, but it is important for you to understand what needs to be done so you can better direct your IT department. If you are a personal user, never believe that your data and online security is not valuable, as it most often is just as valuable as your physical possessions. Just as there are steps to prevent intestinal permeability, there are steps that can be taken to prevent someone from hacking your information.
 
 ### [141. Guide to Information Security for Digital Nomads](https://hackernoon.com/guide-to-information-security-for-digital-nomads)
 ![](https://cdn.hackernoon.com/images/CBX2LI1F7xN3IoQYwOKQ1ilg0X23-j103933.png)
 A practical security guide for digital nomads in 2025 — how to protect your devices, data, and identity while working remotely around the world
 
-### [142. The Principles of Information Engineering on the Internet ](https://hackernoon.com/the-principles-of-information-engineering-on-the-internet)
-![](https://cdn.hackernoon.com/images/413euGpz9JcvX40wUDuWJVtHdMz1-nya3oah.jpeg)
-I envision that the future of Internet, Cyber Laws, Info Security & Governance will be very closely based on these ideas…Information Engineering Principles 
+### [142. A Growing Necessity for Cybersecurity](https://hackernoon.com/a-growing-necessity-for-cybersecurity-h47z36vd)
+![](https://cdn.hackernoon.com/drafts/v777336s.png)
+Businesses and personal users alike, cybersecurity is a growing necessity. With the increase of breaches, cybercrime, and more sophisticated hackers in this world, it is more important than ever to ensure that your data and network are secure and safe from criminals. If you are a business, then you likely have a dedicated IT team that helps ensure the safety of the data and network at your business, but it is important for you to understand what needs to be done so you can better direct your IT department. If you are a personal user, never believe that your data and online security is not valuable, as it most often is just as valuable as your physical possessions. Just as there are steps to prevent intestinal permeability, there are steps that can be taken to prevent someone from hacking your information.
 
-### [143. The JBS Foods Cybersecurity Incident](https://hackernoon.com/the-jbs-foods-cybersecurity-incident-8ls36ic)
+### [143. When Data Integrity Becomes the Ultimate Target](https://hackernoon.com/when-data-integrity-becomes-the-ultimate-target)
+![](https://cdn.hackernoon.com/images/PoHRBImuFwNtiSxwGBnRQ7iakbE3-pw03chp.jpeg)
+As cyber threats evolve, data integrity emerges as the ultimate prize learn why protecting truth is the future of security.
+
+### [144. The JBS Foods Cybersecurity Incident](https://hackernoon.com/the-jbs-foods-cybersecurity-incident-8ls36ic)
 ![](https://cdn.hackernoon.com/images/ErHYq6EyrzL91MtIIhIyE3Eazdl2-5a1034gn.jpeg)
 After the colonial cyberattack, cybercriminals targeted JBS food supply which resulted in an adverse impact on the IT infrastructure of the company.
 
-### [144. Data Analysis Applied to Auto-Increment API fields](https://hackernoon.com/data-analysis-applied-to-auto-increment-api-fields)
+### [145. Data Analysis Applied to Auto-Increment API fields](https://hackernoon.com/data-analysis-applied-to-auto-increment-api-fields)
 ![](https://cdn.hackernoon.com/images/JECMb0xYBnNikyLdzDenj2nyz8w2-dv93dab.png)
 This article discusses the security risks of using auto-increment fields in API responses and methods to prevent data leaks and protect business metrics.
 
-### [145. How to Make Your Own and Free Backup Application](https://hackernoon.com/how-to-make-your-own-and-free-backup-application-99803vut)
-![](https://cdn.hackernoon.com/images/7f103vhn.jpg)
-In our age of rapidly developing technologies, data loss can be a disaster not only for large corporations, but also for the average user, showcasing the immense importance of backup and data recovery in today’s data driven world.
-
-### [146. 3 Steps to Help Advance Your Cybersecurity Career](https://hackernoon.com/3-steps-to-help-advance-your-cybersecurity-career-p31z3t0d)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fns6G6H8qNVbW9LRWAYbxseguKdO2-ru4d28hr.jpeg?alt=media&token=e17a1a63-51e3-4d7c-a92a-99f83686ed5c)
-I've spent more than 15 years building and leading cybersecurity programs at several Fortune 500 companies in the Financial Services industry. I'm also the Founder & Managing Principal of Fraction Consulting where I get to do fractional CTO & CISO work and advise private capital firms.
+### [146. The Principles of Information Engineering on the Internet ](https://hackernoon.com/the-principles-of-information-engineering-on-the-internet)
+![](https://cdn.hackernoon.com/images/413euGpz9JcvX40wUDuWJVtHdMz1-nya3oah.jpeg)
+I envision that the future of Internet, Cyber Laws, Info Security & Governance will be very closely based on these ideas…Information Engineering Principles 
 
 ### [147. You’ve Learned to Break Wi-Fi. Now Learn to Lock It Down.](https://hackernoon.com/youve-learned-to-break-wi-fi-now-learn-to-lock-it-down)
 ![](https://cdn.hackernoon.com/images/na1LA50pIxdXCxwaer7ISkWR5q52-nf03knz.png)
@@ -598,116 +603,124 @@ A practical guide to Wi-Fi hardening using strong passwords, entropy, OpSec and 
 ![](https://cdn.hackernoon.com/images/Au2PPnAXxkQK020M2UcPSkn9Eol2-jo93t1w.jpeg)
 The Philosophy and Poetry of Cybersecurity Writing using Edgar Allan Poe as an example.
 
-### [149. Hide an Admin User on Cisco IOS (Router/Switch) Platform [A How-To Guide]](https://hackernoon.com/penetration-testing-how-to-hide-an-admin-user-on-cisco-ios-routerswitch-platform-y812r3tok)
-![](https://cdn.hackernoon.com/drafts/xg14b3tv9.png)
-Beginning Reminder: This article is written for research and experimentation purposes only. Only ever access devices you have written, legal authorization to access.
+### [149. How to Make Your Own and Free Backup Application](https://hackernoon.com/how-to-make-your-own-and-free-backup-application-99803vut)
+![](https://cdn.hackernoon.com/images/7f103vhn.jpg)
+In our age of rapidly developing technologies, data loss can be a disaster not only for large corporations, but also for the average user, showcasing the immense importance of backup and data recovery in today’s data driven world.
 
 ### [150. Reviewing the Security Posture of Web Session Management With Wireshark](https://hackernoon.com/reviewing-the-security-posture-of-web-session-management-with-wireshark)
 ![](https://cdn.hackernoon.com/images/sEiTHnmTGDdab0qMfHtb54LxcMe2-glg3jbg.jpeg)
 Evaluating the security posture of the WEB session management and distinguishing common attack patterns and vulnerable conditions.
 
-### [151. Phishing: Top Threat to Our Online Security](https://hackernoon.com/phishing-top-threat-to-our-online-security-88t3uhg)
+### [151. 3 Steps to Help Advance Your Cybersecurity Career](https://hackernoon.com/3-steps-to-help-advance-your-cybersecurity-career-p31z3t0d)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fns6G6H8qNVbW9LRWAYbxseguKdO2-ru4d28hr.jpeg?alt=media&token=e17a1a63-51e3-4d7c-a92a-99f83686ed5c)
+I've spent more than 15 years building and leading cybersecurity programs at several Fortune 500 companies in the Financial Services industry. I'm also the Founder & Managing Principal of Fraction Consulting where I get to do fractional CTO & CISO work and advise private capital firms.
+
+### [152. Phishing: Top Threat to Our Online Security](https://hackernoon.com/phishing-top-threat-to-our-online-security-88t3uhg)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPTUWJ0yT1BckVIQfRFi3q4fsiOK2-sy293ugl.jpeg?alt=media&token=2fee6c8e-b07c-4221-9703-db90fbf1c3a0)
 Phishing is a cheap technique for hackers to steal the victim’s data. Now I am telling you because it really happened to me. It took my most online privacy.
 
-### [152. Microsoft Bars China-Based Engineers From Work on U.S. Defense Work ](https://hackernoon.com/microsoft-bars-china-based-engineers-from-work-on-us-defense-work)
+### [153. Hide an Admin User on Cisco IOS (Router/Switch) Platform [A How-To Guide]](https://hackernoon.com/penetration-testing-how-to-hide-an-admin-user-on-cisco-ios-routerswitch-platform-y812r3tok)
+![](https://cdn.hackernoon.com/drafts/xg14b3tv9.png)
+Beginning Reminder: This article is written for research and experimentation purposes only. Only ever access devices you have written, legal authorization to access.
+
+### [154. Microsoft Bars China-Based Engineers From Work on U.S. Defense Work ](https://hackernoon.com/microsoft-bars-china-based-engineers-from-work-on-us-defense-work)
 ![](https://cdn.hackernoon.com/images/JgavySFFoydkfouE3HdEB1oge7o1-dn039rd.webp)
 Microsoft ends the involvement of China-based engineers in U.S. Department of Defense projects after scrutiny. 
 
-### [153. 8 Basic Steps to Keep Your Remote Development Teams Secure](https://hackernoon.com/8-basic-steps-to-keep-your-remote-development-teams-secure-qeb83yjp)
-![](https://cdn.hackernoon.com/images/bz5v3yr2.jpg)
-There is no doubt that the world's workforce is becoming more remote, particularly in tech as developers can now work from any location in the world. But there are a large number of new obstacles that come with this. The most pressing is security.
-
-### [154. Medical Data Protection: Empowering a Privacy-driven Future With Web 3](https://hackernoon.com/medical-data-protection-empowering-a-privacy-driven-future-with-web-3)
+### [155. Medical Data Protection: Empowering a Privacy-driven Future With Web 3](https://hackernoon.com/medical-data-protection-empowering-a-privacy-driven-future-with-web-3)
 ![](https://cdn.hackernoon.com/images/GwlxHSudjFXp2j21DJ7mg0SknSK2-s0a3z0g.jpeg)
 Let’s imagine a blockchain network, or maybe a depersonalized application (dApp), that ensures maximum patient awareness and participation.
 
-### [155. A Mature Security Program at Any Size](https://hackernoon.com/a-mature-security-program-at-any-size-c75d4e55b76c)
-![](https://cdn.hackernoon.com/images/an-elderly-man-as-a-security-guard-l3e4q6hq10xwmi0b4n7dheed.png)
-A lot has been discussed about building security program, but somehow still so many things are commonly&nbsp;missed.
-
-### [156. How To Make an Internal Employee Survey on Endpoint Security](https://hackernoon.com/how-to-make-an-internal-employee-survey-on-endpoint-security-vo103tag)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsEiTHnmTGDdab0qMfHtb54LxcMe2-cm263qrm.jpeg?alt=media&token=ef9e96f8-7525-46e8-be5b-0e7dfb672295)
-Employee’s Endpoint security Internal Survey-Template
-
-### [157. Courier's Path to Becoming SOC 2 Type 2 Compliant](https://hackernoon.com/couriers-path-to-becoming-soc-2-type-2-compliant)
+### [156. Courier's Path to Becoming SOC 2 Type 2 Compliant](https://hackernoon.com/couriers-path-to-becoming-soc-2-type-2-compliant)
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-5l93j9n.jpeg)
 This post is about what it means to be SOC 2 Type 2 compliant, why it is important that Courier now is, and what our journey looked like on our way here. 
 
-### [158. Manage Your Emails Like You Manage Your Passwords](https://hackernoon.com/manage-your-emails-like-you-manage-your-passwords-j16q357c)
+### [157. 8 Basic Steps to Keep Your Remote Development Teams Secure](https://hackernoon.com/8-basic-steps-to-keep-your-remote-development-teams-secure-qeb83yjp)
+![](https://cdn.hackernoon.com/images/bz5v3yr2.jpg)
+There is no doubt that the world's workforce is becoming more remote, particularly in tech as developers can now work from any location in the world. But there are a large number of new obstacles that come with this. The most pressing is security.
+
+### [158. A Mature Security Program at Any Size](https://hackernoon.com/a-mature-security-program-at-any-size-c75d4e55b76c)
+![](https://cdn.hackernoon.com/images/an-elderly-man-as-a-security-guard-l3e4q6hq10xwmi0b4n7dheed.png)
+A lot has been discussed about building security program, but somehow still so many things are commonly&nbsp;missed.
+
+### [159. How To Make an Internal Employee Survey on Endpoint Security](https://hackernoon.com/how-to-make-an-internal-employee-survey-on-endpoint-security-vo103tag)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsEiTHnmTGDdab0qMfHtb54LxcMe2-cm263qrm.jpeg?alt=media&token=ef9e96f8-7525-46e8-be5b-0e7dfb672295)
+Employee’s Endpoint security Internal Survey-Template
+
+### [160. Manage Your Emails Like You Manage Your Passwords](https://hackernoon.com/manage-your-emails-like-you-manage-your-passwords-j16q357c)
 ![](https://cdn.hackernoon.com/images/Lg5s4vghu0QduEUn0wBD7H4yTQF2-udis21qf.jpeg)
 Add an extra security layer for the protection of your emails. 
 
-### [159. All about Security Information and Event Management](https://hackernoon.com/all-about-security-information-and-event-management-em7n3ymz)
+### [161. All about Security Information and Event Management](https://hackernoon.com/all-about-security-information-and-event-management-em7n3ymz)
 ![](https://images.unsplash.com/photo-1573495783078-30b34471804b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 SIEM stands for "Security Information and Event Management". It is a set of tools and services that offer a holistic view of any organisation's information security. It works by combining two technologies: Security information Management(SIM), which collects data from the log files and runs an analysis on the security vulnerabilities and reports them, and Security Event Management(SEM) which monitors any system on a areal-time basis and also keeps the network admins notified about the threats. SIEM is used to identify threats and anomalies in the network, cyber attacks from gigs of data.
 
-### [160. How to Reduce the Risk of Former Employees Coordinating with Insider Threats](https://hackernoon.com/how-to-reduce-the-risk-of-former-employees-coordinating-with-insider-threats)
+### [162. How to Reduce the Risk of Former Employees Coordinating with Insider Threats](https://hackernoon.com/how-to-reduce-the-risk-of-former-employees-coordinating-with-insider-threats)
 ![](https://cdn.hackernoon.com/images/LLrvCNDh4wV2AnDSX99Cw4LuBHV2-8r93hn6.jpeg)
 Here below are a couple of tips to keep in mind when thinking about how to minimize your risk from insider threats.
 
-### [161. Organizing Your Business Statistics to Achieve Success](https://hackernoon.com/organizing-your-business-statistics-to-achieve-success-z45x313h)
+### [163. Organizing Your Business Statistics to Achieve Success](https://hackernoon.com/organizing-your-business-statistics-to-achieve-success-z45x313h)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-ton28ql.jpeg)
 It is not an easy task to keep your business data organized; however, it is an important thing to do. Organizing data includes a lot more than putting all your papers in place and clearing the clutter on your desk. To have your statistics well organized, you have to create a system and procedures for every department available in your company. The following are top ideas o0n how you can get your small business statistics that can help in increasing the productivity of the business.
 
-### [162. Centralization as a Factor Constraining the Development of Secure Communications](https://hackernoon.com/centralization-as-a-factor-constraining-the-development-of-secure-communications)
+### [164. Centralization as a Factor Constraining the Development of Secure Communications](https://hackernoon.com/centralization-as-a-factor-constraining-the-development-of-secure-communications)
 ![](https://cdn.hackernoon.com/images/0xc3dae29f3fc59bfcef7bab95bc7266173338213f-er0369l.webp)
 The entire history of cryptography, information protection, steganography, and cryptography has been marked by the antagonism of attackers and defenders.
 
-### [163. Secure the Distance: How to Protect the Personal Data of Students Enrolled in Online Education](https://hackernoon.com/secure-the-distance-how-to-protect-the-personal-data-of-students-enrolled-in-online-education)
+### [165. Secure the Distance: How to Protect the Personal Data of Students Enrolled in Online Education](https://hackernoon.com/secure-the-distance-how-to-protect-the-personal-data-of-students-enrolled-in-online-education)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-q403ovg.jpeg)
 The International Telecommunication Union provides security recommendations for schools.
 
-### [164. Empowered Data Security: Unraveling the Mystery to Protect What Matters](https://hackernoon.com/empowered-data-security-unraveling-the-mystery-to-protect-what-matters)
+### [166. Empowered Data Security: Unraveling the Mystery to Protect What Matters](https://hackernoon.com/empowered-data-security-unraveling-the-mystery-to-protect-what-matters)
 ![](https://cdn.hackernoon.com/images/Q7Ilpvu5bRN22EpJho9JEiSRxSo2-7ea3s3b.jpeg)
 Explore robust strategies, industry best practices, and emerging technologies to bolster your defenses and ensure your data's confidentiality, and integrity.
 
-### [165. The Most Neglected Roles in Cybersecurity are Your Best Bet for Employment](https://hackernoon.com/the-most-neglected-roles-in-cybersecurity-are-your-best-bet-for-employment)
-![](https://cdn.hackernoon.com/images/yZFyEIY91nfnl3nbZ1PqgsDn77F2-ns92ipn.png)
-Explore the often-overlooked but critical defensive roles in cybersecurity, their impact on AI usage, and the best career paths in the evolving digital security
-
-### [166. From Conflict to Collaboration](https://hackernoon.com/from-conflict-to-collaboration)
+### [167. From Conflict to Collaboration](https://hackernoon.com/from-conflict-to-collaboration)
 ![](https://cdn.hackernoon.com/images/illustrate-a-before-and-after-panels-of-two-siblings-fighting-and-then-making-up-clhoxj0di000001s6a6hu9j10.png)
 Challenges with internal security can be mitigated y finding the equilibrium between business and InfoSec risks and embracing agility in business. 
 
-### [167. Being 'Chief Geek' and Running 15 Websites with Noonies Nominee Mathias Hellquist](https://hackernoon.com/being-chief-geek-and-running-15-websites-with-noonies-nominee-mathias-hellquist)
+### [168. The Most Neglected Roles in Cybersecurity are Your Best Bet for Employment](https://hackernoon.com/the-most-neglected-roles-in-cybersecurity-are-your-best-bet-for-employment)
+![](https://cdn.hackernoon.com/images/yZFyEIY91nfnl3nbZ1PqgsDn77F2-ns92ipn.png)
+Explore the often-overlooked but critical defensive roles in cybersecurity, their impact on AI usage, and the best career paths in the evolving digital security
+
+### [169. Being 'Chief Geek' and Running 15 Websites with Noonies Nominee Mathias Hellquist](https://hackernoon.com/being-chief-geek-and-running-15-websites-with-noonies-nominee-mathias-hellquist)
 ![](https://cdn.hackernoon.com/images/9wBOR9ECGoRST8x2zK5LldaPkrM2-8o02gc5.jpeg)
 So who TF is Mathias Hellquist and what is a "Chief Geek"? Read this interview to find out.
 
-### [168. Blockchain's Practical Security and Emerging Concerns](https://hackernoon.com/blockchains-practical-security-and-emerging-concerns)
+### [170. Blockchain's Practical Security and Emerging Concerns](https://hackernoon.com/blockchains-practical-security-and-emerging-concerns)
 ![](https://cdn.hackernoon.com/images/8S43pdzbjedsmSV1lv07aC5BdhG2-uz92fd9.png)
 This article explores the multifaceted world of blockchain security, addressing various aspects of concern and providing insights into blockchain concerns.
 
-### [169. IT Security: How to Deal With The Insider Threat](https://hackernoon.com/it-security-how-to-deal-with-the-insider-threat-707d317z)
+### [171. IT Security: How to Deal With The Insider Threat](https://hackernoon.com/it-security-how-to-deal-with-the-insider-threat-707d317z)
 ![](https://cdn.hackernoon.com/images/vS8iO2xlaMMtPxiFN2ez4ruI5HL2-0s2y310m.jpeg)
 A study by the Wall Street Journal found that almost 70% of companies admitted concern about violent employees! While workers continue to be a major security ri
 
-### [170. Why You Have No Choice But Care About Privacy?](https://hackernoon.com/why-you-have-no-choice-but-care-about-privacy-rx8s3vwa)
+### [172. Why You Have No Choice But Care About Privacy?](https://hackernoon.com/why-you-have-no-choice-but-care-about-privacy-rx8s3vwa)
 ![](https://images.unsplash.com/photo-1523274620588-4c03146581a1?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 What is Privacy in the first place?
 
-### [171. Understanding IIC: Identity, Integrity, and Confidentiality](https://hackernoon.com/understanding-iic-identity-integrity-and-confidentiality-q31w3364)
-![](https://images.unsplash.com/photo-1506967726964-da9127fdec36?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Hello again! Did I trick you with the title? I know, Let me get straight to the point. You already know about Encoding, Encryption, and Hashing but when I kept those in terms of Identity, Integrity, and Confidentiality it became a bit confusing. Isn’t it? I just wanted to talk about these techniques in terms of privacy and security. There is a high chance that you already know the things I’m about to explain. But, feel free to give it a read. I’m confident that you would know something useful by the end of this blog. Okay, let’s get into the topic. 
-
-### [172. Ensuring Security in Your SaaS Applications [An Overview]](https://hackernoon.com/ensuring-security-in-your-saas-applications-an-overview-sf8t320z)
+### [173. Ensuring Security in Your SaaS Applications [An Overview]](https://hackernoon.com/ensuring-security-in-your-saas-applications-an-overview-sf8t320z)
 ![](https://images.unsplash.com/photo-1461685265823-f8d5d0b08b9b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Enterprises are constantly faced with the task of balancing the advantages of productivity gains and lower costs against significant compliance and security concerns as they move their data and applications to the cloud.
 
-### [173. 3 Ways To Protect Company Data From Being Exposed By Your Own Employees](https://hackernoon.com/3-ways-to-protect-company-data-from-being-exposed-by-your-own-employees-z7bs3w4d)
-![](https://cdn.hackernoon.com/images/7y9c3ybl.jpg)
-When people think about data leaks, they tend to assume the cause of the threat came from outside the company.
-
-### [174. How to Use the Merchant Network to Combat E-Commerce Fraud](https://hackernoon.com/how-to-use-the-merchant-network-to-combat-e-commerce-fraud)
-![](https://cdn.hackernoon.com/images/kxV4mNREhncO3nMdm91HbMWoVEv2-l512g1h.jpeg)
-E-commerce fraud has been a problem websites have been facing for more than a decade. See how Merchant Network can help to fight fraud globally.
+### [174. Understanding IIC: Identity, Integrity, and Confidentiality](https://hackernoon.com/understanding-iic-identity-integrity-and-confidentiality-q31w3364)
+![](https://images.unsplash.com/photo-1506967726964-da9127fdec36?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Hello again! Did I trick you with the title? I know, Let me get straight to the point. You already know about Encoding, Encryption, and Hashing but when I kept those in terms of Identity, Integrity, and Confidentiality it became a bit confusing. Isn’t it? I just wanted to talk about these techniques in terms of privacy and security. There is a high chance that you already know the things I’m about to explain. But, feel free to give it a read. I’m confident that you would know something useful by the end of this blog. Okay, let’s get into the topic. 
 
 ### [175. "The Pandemic Enabled me to Take a Deep Self-reflection" - Joseph Chukwube, 2020 Noonie Nominee](https://hackernoon.com/joseph-chukwube-2020-noonie-nominee-for-blockchain-vc2p3u5l)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-lf183ux5.jpeg?alt=media&token=91d2e537-8dea-4724-ba05-a0e328089313)
 Joseph Chukwube from Nigeria has been nominated for a 2020
 Noonie in the Future Heroes and Technology categories. The Noonies are Hacker Noon’s way of getting to know — from a community perspective —  what matters in tech today. So, we asked our Noonie Nominees to tell us. Here’s what Joseph had to share.
 
-### [176. Need for an Identity Theft Protection](https://hackernoon.com/need-for-an-identity-theft-protection-5v1r3yn6)
+### [176. 3 Ways To Protect Company Data From Being Exposed By Your Own Employees](https://hackernoon.com/3-ways-to-protect-company-data-from-being-exposed-by-your-own-employees-z7bs3w4d)
+![](https://cdn.hackernoon.com/images/7y9c3ybl.jpg)
+When people think about data leaks, they tend to assume the cause of the threat came from outside the company.
+
+### [177. How to Use the Merchant Network to Combat E-Commerce Fraud](https://hackernoon.com/how-to-use-the-merchant-network-to-combat-e-commerce-fraud)
+![](https://cdn.hackernoon.com/images/kxV4mNREhncO3nMdm91HbMWoVEv2-l512g1h.jpeg)
+E-commerce fraud has been a problem websites have been facing for more than a decade. See how Merchant Network can help to fight fraud globally.
+
+### [178. Need for an Identity Theft Protection](https://hackernoon.com/need-for-an-identity-theft-protection-5v1r3yn6)
 ![](https://cdn.hackernoon.com/drafts/mi533ycl.png)
 Identity theft is a blanket term that covers fraudulent and even suspicious action through bank accounts and criminal databases. It is a violation of getting the financial or personal data of a person with the sole objective of feigning that person's name or identity to make purchases or transactions. 
 

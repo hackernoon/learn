@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [aspnet](https://hackernoon.com/tagged/aspnet)
+### Let's learn about [Aspnet](https://hackernoon.com/tagged/aspnet) via these 50 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+ASP.NET is an open-source web framework developed by Microsoft for building dynamic web applications and services. It is crucial for developers seeking to create scalable, high-performance web solutions, particularly within the Microsoft ecosystem.
+
 ### [1. ASP.NET Core — How to use Dependency Injection in Entity Framework Core](https://hackernoon.com/asp-net-core-how-to-use-dependency-injection-in-entity-framework-core-4388fc5c148b)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-ln03b4l.png)
 <strong>ASP.NET Core</strong> has an excellent <strong>Dependency Injection</strong> feature through which this framework provides you with an object of any class that you want. So you don’t have to manually create the class object in your code.
@@ -107,13 +111,13 @@ Software development is a complex task and as a developer you gain nothing from 
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-oa93q9m.jpeg)
 Basically, we need to ability to write test classes and methods and have the base infrastructure for them.
 
-### [27. AutofacServiceProviderFactory in ASP.NET Core](https://hackernoon.com/autofacserviceproviderfactory-in-aspnet-core-part-1)
-![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-5k836rl.jpeg)
-Learn how to use AutofacServiceProviderFactory in ASP.NET Core for dependency injection! This article explains how to set it up along with the pros and cons.
-
-### [28. The 30-Day .NET Challenge - Day 22: Use Array Pool](https://hackernoon.com/the-30-day-net-challenge-day-22-use-array-pool)
+### [27. The 30-Day .NET Challenge - Day 22: Use Array Pool](https://hackernoon.com/the-30-day-net-challenge-day-22-use-array-pool)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-ju833qr.jpeg)
 ArrayPool is a mechanism to recycle temporary buffers and optimize performance by reducing garbage collection cycles. It is part of the System.Buffers namespace
+
+### [28. AutofacServiceProviderFactory in ASP.NET Core](https://hackernoon.com/autofacserviceproviderfactory-in-aspnet-core-part-1)
+![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-5k836rl.jpeg)
+Learn how to use AutofacServiceProviderFactory in ASP.NET Core for dependency injection! This article explains how to set it up along with the pros and cons.
 
 ### [29. Entity Framework 8 – Partial Classes Tricks You Should Know About](https://hackernoon.com/entity-framework-8-partial-classes-tricks-you-should-know-about)
 ![](https://cdn.hackernoon.com/images/eUn59ClVtWU6R4iSzcVC45bTj4f1-zn034m0.png)
@@ -135,21 +139,21 @@ For this post, we'll delve into plugin architecture, exploring how they can be l
 ![](https://cdn.hackernoon.com/images/eUn59ClVtWU6R4iSzcVC45bTj4f1-8s03402.png)
 How to handle in Asp.Net MVC application a localization of form validation error strings, or so-called Data Annotation Localization. 
 
-### [34. Who Wins The Battle Between .Net Core and .Net Frameworks in 2022?](https://hackernoon.com/who-wins-the-battle-between-net-core-and-net-frameworks-in-2022-y41h3783)
-![](https://cdn.hackernoon.com/images/GTa5ej5plAVtWsiam81ThId9crP2-vpde35mr.jpeg)
-Entrepreneurs and startups are always confused about choosing between  .Net Core vs .Net Framework due to their high functionalities and popularity.
-
-### [35. A Guide to Troubleshooting Frequent Compile-Time Errors: C# for Beginners](https://hackernoon.com/a-guide-to-troubleshooting-frequent-compile-time-errors-c-for-beginners)
+### [34. A Guide to Troubleshooting Frequent Compile-Time Errors: C# for Beginners](https://hackernoon.com/a-guide-to-troubleshooting-frequent-compile-time-errors-c-for-beginners)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-ru9311j.jpeg)
 The article demonstrates common compile-time errors from missing semicolons to type mismatches and solutions to fix those compile-time errors.
 
-### [36. The 30-Day .NET Challenge, Day 1: Boolean Expressions](https://hackernoon.com/the-30-day-net-challenge-day-1-boolean-expressions)
-![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-4d933tu.jpeg)
-Dive in to master Boolean expressions for precise C# coding, ensuring your apps handle user data flawlessly! 🚀
+### [35. Who Wins The Battle Between .Net Core and .Net Frameworks in 2022?](https://hackernoon.com/who-wins-the-battle-between-net-core-and-net-frameworks-in-2022-y41h3783)
+![](https://cdn.hackernoon.com/images/GTa5ej5plAVtWsiam81ThId9crP2-vpde35mr.jpeg)
+Entrepreneurs and startups are always confused about choosing between  .Net Core vs .Net Framework due to their high functionalities and popularity.
 
-### [37. A Guide to Using Scoped Services Inside Singletons](https://hackernoon.com/a-guide-to-using-scoped-services-inside-singletons-lb1n34u3)
+### [36. A Guide to Using Scoped Services Inside Singletons](https://hackernoon.com/a-guide-to-using-scoped-services-inside-singletons-lb1n34u3)
 ![](https://cdn.hackernoon.com/images/LFCaL0mBeyY8JHz0m6GDFp0v7go2-us6p31tp.jpeg)
 Disclaimer
+
+### [37. The 30-Day .NET Challenge, Day 1: Boolean Expressions](https://hackernoon.com/the-30-day-net-challenge-day-1-boolean-expressions)
+![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-4d933tu.jpeg)
+Dive in to master Boolean expressions for precise C# coding, ensuring your apps handle user data flawlessly! 🚀
 
 ### [38. C# 8.0 Nullable Reference Types Are Here](https://hackernoon.com/c-80-nullable-reference-types-are-here-36953yux)
 ![](https://cdn.hackernoon.com/drafts/p1qi3ajs.png)
@@ -171,30 +175,30 @@ Introduction
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-3r83359.jpeg)
 Developers often make  objects instantiated as soon as the application starts or when a class is instantiated, regardless of whether they are immediately needed
 
-### [43. The 30-Day .NET Challenge - Day 21: StringComparison](https://hackernoon.com/the-30-day-net-challenge-day-21-stringcomparison)
-![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-8y8333b.jpeg)
-The article demonstrates the importance of using StringComparison options for efficient string comparison in.NET. How you compare strings can significantly impa
-
-### [44. PHP vs. ASP.NET: Determining Which Stack to Use For Your Next Project](https://hackernoon.com/php-vs-aspnet-determining-which-stack-to-use-for-your-next-project)
+### [43. PHP vs. ASP.NET: Determining Which Stack to Use For Your Next Project](https://hackernoon.com/php-vs-aspnet-determining-which-stack-to-use-for-your-next-project)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-g093ukh.jpeg)
 The ultimate goal of the web development project is to build feature-rich web applications or corporate websites but which is better?
+
+### [44. The 30-Day .NET Challenge - Day 21: StringComparison](https://hackernoon.com/the-30-day-net-challenge-day-21-stringcomparison)
+![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-8y8333b.jpeg)
+The article demonstrates the importance of using StringComparison options for efficient string comparison in.NET. How you compare strings can significantly impa
 
 ### [45. Essential Guide to Running Nuxt from an ASP.NET Core Web Application](https://hackernoon.com/essential-guide-to-running-nuxt-from-an-aspnet-core-web-application-au2f3zsa)
 ![](https://cdn.hackernoon.com/images/LFCaL0mBeyY8JHz0m6GDFp0v7go2-5t3n31yi.jpeg)
 It is becoming a common pattern to see websites and web apps written as a front end single page application (SPA) connected to a backend API. For this reason, the Visual Studio provides a several project templates for getting up and going with a Web API + SPA project.
 
 
-### [46. The Noonification: Sam Bankman-(Never Getting)Fried (4/4/2024)](https://hackernoon.com/4-4-2024-noonification)
-![](https://cdn.hackernoon.com/images/noonification_411_oea27yhg065haty6j5bhn1x2.png)
-4/4/2024: Top 5 stories on the HackerNoon homepage!
-
-### [47. The 30-Day .NET Challenge—Day 19: Stack vs. Heap Allocation](https://hackernoon.com/the-30-day-net-challengeday-19-stack-vs-heap-allocation)
+### [46. The 30-Day .NET Challenge—Day 19: Stack vs. Heap Allocation](https://hackernoon.com/the-30-day-net-challengeday-19-stack-vs-heap-allocation)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-e4833r3.jpeg)
 The article demonstrates the idea of memory allocations to be used for vibrant and high-performance applications. 
 
-### [48. The 30-Day .NET Challenge Day 6: String built-in Methods](https://hackernoon.com/the-30-day-net-challenge-day-6-string-built-in-methods)
+### [47. The 30-Day .NET Challenge Day 6: String built-in Methods](https://hackernoon.com/the-30-day-net-challenge-day-6-string-built-in-methods)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-5l833om.jpeg)
 Day 6 of 30-Day .NET Challenge: String built-in Methods
+
+### [48. The Noonification: Sam Bankman-(Never Getting)Fried (4/4/2024)](https://hackernoon.com/4-4-2024-noonification)
+![](https://cdn.hackernoon.com/images/noonification_411_oea27yhg065haty6j5bhn1x2.png)
+4/4/2024: Top 5 stories on the HackerNoon homepage!
 
 ### [49. Your Updated Guide to Building a Multi-language Asp.Net 8 MVC Application: Alternative Approach ](https://hackernoon.com/your-updated-guide-to-building-a-multi-language-aspnet-8-mvc-application-alternative-approach)
 ![](https://cdn.hackernoon.com/images/eUn59ClVtWU6R4iSzcVC45bTj4f1-1m034ma.png)

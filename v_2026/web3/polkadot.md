@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [polkadot](https://hackernoon.com/tagged/polkadot)
+### Let's learn about [Polkadot](https://hackernoon.com/tagged/polkadot) via these 103 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Polkadot is a multi-chain blockchain platform designed to enable different blockchains to communicate and transfer value seamlessly. It aims to create a decentralized web (Web3) by connecting specialized chains, fostering interoperability and scalability within the blockchain ecosystem.
+
 ### [1. 3 Promising Cryptocurrencies to Invest In For 2021 & 2022](https://hackernoon.com/3-promising-cryptocurrencies-to-look-out-for-2021-2022-v2w372z)
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-ile635tf.jpeg)
 3 Promising Cryptocurrencies to Look Out For 2021 - 2022
@@ -113,13 +117,13 @@ For this article, we focus in particular on the macroeconomy, tokenomics, macrot
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-ywa3zi6.jpeg)
 Better acquaint yourselves with the XSTUSD stablecoin, HackerNoon’s DeFi writing contest, and even the Polkadot Network in general. 
 
-### [29. Distributed Computing Cloud Is The Way Towards A Web3 Future: A Phala Network Story](https://hackernoon.com/distributed-computing-cloud-is-the-way-towards-a-web3-future-a-phala-network-story)
-![](https://cdn.hackernoon.com/images/uVG6qHoS8cSSnOwxRFe9F0RtRd42-qj03ayd.jpeg)
-The true vision of Web3 is a decentralized network where no one entity controls it and the decentralized applications that are built on the network are open.
-
-### [30. The Biggest Emerging Trend in the Blockchain Industry is One of Privacy](https://hackernoon.com/the-biggest-emerging-trend-in-the-blockchain-industry-is-one-of-privacy)
+### [29. The Biggest Emerging Trend in the Blockchain Industry is One of Privacy](https://hackernoon.com/the-biggest-emerging-trend-in-the-blockchain-industry-is-one-of-privacy)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-vt03eym.jpeg)
 Manta is a suite of easy-to-use and safe open source and fully transparent code-based protocols. 
+
+### [30. Distributed Computing Cloud Is The Way Towards A Web3 Future: A Phala Network Story](https://hackernoon.com/distributed-computing-cloud-is-the-way-towards-a-web3-future-a-phala-network-story)
+![](https://cdn.hackernoon.com/images/uVG6qHoS8cSSnOwxRFe9F0RtRd42-qj03ayd.jpeg)
+The true vision of Web3 is a decentralized network where no one entity controls it and the decentralized applications that are built on the network are open.
 
 ### [31. Zero-Cost Blockchain Transactions Are A Reality on Polkadot](https://hackernoon.com/zero-cost-blockchain-transactions-are-a-reality-on-polkadot)
 ![](https://cdn.hackernoon.com/images/nxtWKMHuO1UKGUbmzmzTuQsBx4H2-lj913ck1.jpeg)
@@ -161,17 +165,17 @@ Phala Network provides computing power to other blockchain applications while p
 ![](https://cdn.hackernoon.com/images/9vtRqXPYjXc1LRCXVTELc59Myu63-5ka3man.jpeg)
  “Antinet“ - an Internet that goes against what we’ve known.
 
-### [41. Creating a P2P, Messaging App on Web3 Using Substrate & Ionic - Introducing Uke - BOG#002](https://hackernoon.com/creating-a-p2p-messaging-app-on-web3-using-substrate-and-ionic-introducing-uke-bog002)
+### [41. Ternoa Completes a $7.3M Seed to Foster NFT Mass Adoption and Launches Web3 Activity in Dubai, UAE](https://hackernoon.com/ternoa-completes-a-$73m-seed-to-foster-nft-mass-adoption-and-launches-web3-activity-in-dubai-uae)
+![](https://cdn.hackernoon.com/images/ekqKlVxaVkOVUv5yOsF9FY4iVOm2-9p93pm0.jpeg)
+
+
+### [42. Creating a P2P, Messaging App on Web3 Using Substrate & Ionic - Introducing Uke - BOG#002](https://hackernoon.com/creating-a-p2p-messaging-app-on-web3-using-substrate-and-ionic-introducing-uke-bog002)
 ![](https://cdn.hackernoon.com/images/9vtRqXPYjXc1LRCXVTELc59Myu63-u7a3nbu.png)
 Creating a peer to peer messaging app and protocol.
 
-### [42. Polkadot To Get WebAssembly-based Ethereum Virtual Machine (ewasm) from Second State](https://hackernoon.com/polkadot-to-get-webassembly-based-ethereum-virtual-machine-ewasm-from-second-state-mg9932ts)
+### [43. Polkadot To Get WebAssembly-based Ethereum Virtual Machine (ewasm) from Second State](https://hackernoon.com/polkadot-to-get-webassembly-based-ethereum-virtual-machine-ewasm-from-second-state-mg9932ts)
 ![](https://cdn.hackernoon.com/images/obdg34vz.jpg)
 In late 2019, the Aragon Project, decided to leave the Polkadot ecosystem due to the lack of a viable blockchain virtual machine at the time. After that, the Polkadot team added EVM support on the Substrate framework, enabling EVM blockchains in the Polkadot ecosystem. 
-
-### [43. Ternoa Completes a $7.3M Seed to Foster NFT Mass Adoption and Launches Web3 Activity in Dubai, UAE](https://hackernoon.com/ternoa-completes-a-$73m-seed-to-foster-nft-mass-adoption-and-launches-web3-activity-in-dubai-uae)
-![](https://cdn.hackernoon.com/images/ekqKlVxaVkOVUv5yOsF9FY4iVOm2-9p93pm0.jpeg)
-
 
 ### [44. The Web3 Games Blockchain Network Based on Substrate](https://hackernoon.com/the-web3-games-blockchain-network-based-on-substrate)
 ![](https://cdn.hackernoon.com/images/C7LGfLlZs3OY2w0N7r4ePehwKBI2-yde3sjf.jpeg)
@@ -218,13 +222,13 @@ Polkadot is bringing seminars, presentations, and a $15,000 prize pool to ETHDen
 ![](https://cdn.hackernoon.com/images/9vtRqXPYjXc1LRCXVTELc59Myu63-24036am.webp)
 Learn how to build and compose decentralized applications (dApps) on the Polkadot network. 
 
-### [55. Acala Network Launches aUSD Polkadot's Native Multi-Collateral Stablecoin ](https://hackernoon.com/acala-network-launches-ausd-polkadots-native-multi-collateral-stablecoin)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-kuc3nmh.jpeg)
-The Acala Dollar, a multi-collateral stablecoin, has been released by Acala. The stablecoin (aUSD) protocol acts as the Polkadot ecosystem.
-
-### [56. Introducing the Uke Alpha - The First Wallet-less Blockchain Chat App That's Going to Break Web3](https://hackernoon.com/introducing-the-uke-alpha-the-first-wallet-less-blockchain-chat-app-thats-going-to-break-web3)
+### [55. Introducing the Uke Alpha - The First Wallet-less Blockchain Chat App That's Going to Break Web3](https://hackernoon.com/introducing-the-uke-alpha-the-first-wallet-less-blockchain-chat-app-thats-going-to-break-web3)
 ![](https://cdn.hackernoon.com/images/9vtRqXPYjXc1LRCXVTELc59Myu63-rzg3ozh.jpeg)
 Walletless web3 messaging, now implemented for your messaging pleasure.
+
+### [56. Acala Network Launches aUSD Polkadot's Native Multi-Collateral Stablecoin ](https://hackernoon.com/acala-network-launches-ausd-polkadots-native-multi-collateral-stablecoin)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-kuc3nmh.jpeg)
+The Acala Dollar, a multi-collateral stablecoin, has been released by Acala. The stablecoin (aUSD) protocol acts as the Polkadot ecosystem.
 
 ### [57. 75 Stories To Learn About Polkadot](https://hackernoon.com/75-stories-to-learn-about-polkadot)
 ![](https://cdn.hackernoon.com/images/github/polkadot-484.png)
@@ -238,13 +242,13 @@ Learn web3 today - an intro to what web3 is, and what to expect!
 ![](https://cdn.hackernoon.com/images/HwNaIvd9KOWBSG21XeLL6TBs8eH2-hs13fh3.jpeg)
 Gamestar is a peer-to-peer exchange that gives users the ability to buy, sell, and trade crypto assets with ease.
 
-### [60. Polkadot Allocates $18 Million to Solve the Biggest Challenges facing Polkadot Ecosystem and Web 3](https://hackernoon.com/polkadot-allocates-$18-million-to-solve-the-biggest-challenges-facing-polkadot-ecosystem-and-web-3)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-6tc3md3.jpeg)
-Polkadot has allocated 993,286 DOT, roughly $18 million, to promote research and development on zero-knowledge research and web 3.0. 
-
-### [61. An Internet of Banks; The Future of Defi](https://hackernoon.com/an-internet-of-banks-the-future-of-defi)
+### [60. An Internet of Banks; The Future of Defi](https://hackernoon.com/an-internet-of-banks-the-future-of-defi)
 ![](https://cdn.hackernoon.com/images/9vtRqXPYjXc1LRCXVTELc59Myu63-6s93nfa.jpeg)
 Internet of Banks - the future of DeFi
+
+### [61. Polkadot Allocates $18 Million to Solve the Biggest Challenges facing Polkadot Ecosystem and Web 3](https://hackernoon.com/polkadot-allocates-$18-million-to-solve-the-biggest-challenges-facing-polkadot-ecosystem-and-web-3)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-6tc3md3.jpeg)
+Polkadot has allocated 993,286 DOT, roughly $18 million, to promote research and development on zero-knowledge research and web 3.0. 
 
 ### [62. The Decentralized Internet is Here to Stay](https://hackernoon.com/decentralized-internet-interview)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-ej037qe.jpeg)
@@ -290,14 +294,14 @@ Miner Extractable Value (MEV) is one of the pain points for those who use DeFi p
 ![](https://cdn.hackernoon.com/images/78Gp8u6oOWX1hp1eng75bF9MSJ42-tbd135k0.png)
 Three blockchain projects built on Polkadot won the Polkadot Buildathon: India. Learn more about what they built, the Buildathon and Polkadot's support for devs
 
-### [73. 5 Minutes is All You Need to Deploy Your Very First Smart Contract to Polkadot Using This Method](https://hackernoon.com/5-minutes-is-all-you-need-to-deploy-your-very-first-smart-contract-to-polkadot-using-this-method)
-![](https://cdn.hackernoon.com/images/YCZZP5ejekRB4m5hmE4odutWG5g1-qnh38re.jpeg)
-This tutorial will guide you on how to deploy a Solidity smart contract to Polkadot in minutes.
-
-### [74. Introducing The New Nomination Transfer Feature For DApp Staking](https://hackernoon.com/introducing-the-new-nomination-transfer-feature-for-dapp-staking)
+### [73. Introducing The New Nomination Transfer Feature For DApp Staking](https://hackernoon.com/introducing-the-new-nomination-transfer-feature-for-dapp-staking)
 ![](https://cdn.hackernoon.com/images/4d69PJK3mXUG4cfItJ7dkWExXGl1-hka3j3w.jpeg)
 Shiden and Astar are improving how DApp nominators can shift their funds from one project to another.
 
+
+### [74. 5 Minutes is All You Need to Deploy Your Very First Smart Contract to Polkadot Using This Method](https://hackernoon.com/5-minutes-is-all-you-need-to-deploy-your-very-first-smart-contract-to-polkadot-using-this-method)
+![](https://cdn.hackernoon.com/images/YCZZP5ejekRB4m5hmE4odutWG5g1-qnh38re.jpeg)
+This tutorial will guide you on how to deploy a Solidity smart contract to Polkadot in minutes.
 
 ### [75. XCM on Astar is NOW LIVE!!!](https://hackernoon.com/xcm-on-astar-is-now-live)
 ![](https://cdn.hackernoon.com/images/4d69PJK3mXUG4cfItJ7dkWExXGl1-gja3ie7.jpeg)
@@ -319,97 +323,101 @@ Yubo Ruan talks about the Polkadot ecosystem, DeFi and the NFT market.
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-iq93ojt.jpeg)
 In this story, we will focus on public chains, and make a comparison of key elements of public chains.
 
-### [80. Blockchain Gaming Documentary Explores Indie Game Development In Web3 And The Polkadot Ecosystem](https://hackernoon.com/blockchain-gaming-documentary-explores-indie-game-development-in-web3-and-the-polkadot-ecosystem)
+### [80. The Next Layer-1 Wars Won't Be Won in the Codebase - They'll Be Won in the Governance Layer](https://hackernoon.com/the-next-layer-1-wars-wont-be-won-in-the-codebase-theyll-be-won-in-the-governance-layer)
+![](https://cdn.hackernoon.com/images/k8bE2fb67rgzk5vkPGX7hh9PaSe2-b783bw9.jpeg)
+How crypto and traditional finance are converging: why 24/7 markets, futures, and unified access are reshaping how traders manage risk and opportunity.
+
+### [81. Blockchain Gaming Documentary Explores Indie Game Development In Web3 And The Polkadot Ecosystem](https://hackernoon.com/blockchain-gaming-documentary-explores-indie-game-development-in-web3-and-the-polkadot-ecosystem)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-9m133in.jpeg)
 The documentary provides an introduction to the possibilities of Web3 gaming, delving into the innovation and opportunities it presents for both players and dev
 
-### [81. Not Every Web3 Protocol Needs a Native Token](https://hackernoon.com/not-every-web3-protocol-needs-a-native-token)
+### [82. Not Every Web3 Protocol Needs a Native Token](https://hackernoon.com/not-every-web3-protocol-needs-a-native-token)
 ![](https://cdn.hackernoon.com/images/9vtRqXPYjXc1LRCXVTELc59Myu63-e303fgl.png)
 Not every rollup needs a token. Learn how to leverage the parent network's economic security, so you can focus on building.
-
-### [82. Ethereum is the De-facto Standard for Blockchain Apps - Unhashed #7](https://hackernoon.com/ethereum-is-the-de-facto-standard-for-blockchain-apps-unhashed-7-dhn34yv)
-![](https://cdn.hackernoon.com/images/J4wbz3JAj4ck2KKzkB83S10DntP2-516x33q9.jpeg)
-Unhashed is a QnA series where I speak with top execs of new and established blockchain projects to unravel the mystery of blockchain & crypto.
 
 ### [83. What Is the Metaverse?](https://hackernoon.com/what-is-the-metaverse)
 ![](https://cdn.hackernoon.com/images/pFTAhGGIbYXoWUaBLcFPsb5iPn02-fe93t5x.jpeg)
 The metaverse is a term coined by Neal Stephenson in his 1992 science fiction novel Snow Crash. 
 
-### [84. The Noonification: What Educators Need to Know About Cybersecurity (1/27/2024)](https://hackernoon.com/1-27-2024-noonification)
+### [84. Ethereum is the De-facto Standard for Blockchain Apps - Unhashed #7](https://hackernoon.com/ethereum-is-the-de-facto-standard-for-blockchain-apps-unhashed-7-dhn34yv)
+![](https://cdn.hackernoon.com/images/J4wbz3JAj4ck2KKzkB83S10DntP2-516x33q9.jpeg)
+Unhashed is a QnA series where I speak with top execs of new and established blockchain projects to unravel the mystery of blockchain & crypto.
+
+### [85. The Noonification: What Educators Need to Know About Cybersecurity (1/27/2024)](https://hackernoon.com/1-27-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_527_xwlkj4yjnr6dm7l32wfoo8p5.png)
 1/27/2024: Top 5 stories on the HackerNoon homepage!
 
-### [85. Privacy Protection and Web3 Analytics](https://hackernoon.com/privacy-protection-and-web3-analytics-ro1p3yga)
+### [86. Privacy Protection and Web3 Analytics](https://hackernoon.com/privacy-protection-and-web3-analytics-ro1p3yga)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzmO5UiubQJRC1cFMSaF6eScKoTr1-v94a3z2c.jpeg?alt=media&token=ca7a2ac9-1c45-4eb1-b096-d2ee27939922)
 Though there have been more and more developers and product designers joining Web3.0 world in recent years, it is almost ignored by most of them that they are still using centralized infrastructure — data analytic tools — to build apps and webs. Every minute, project builders are making themselves part of the reason for data breach events, as they have to collect user data intendedly or unintendedly for product improvement.
 
-### [86. Understanding the Business Valuation Logic of Apron Network](https://hackernoon.com/understanding-the-business-valuation-logic-of-apron-network-80t24cq)
+### [87. Understanding the Business Valuation Logic of Apron Network](https://hackernoon.com/understanding-the-business-valuation-logic-of-apron-network-80t24cq)
 ![](https://cdn.hackernoon.com/images/QFMr2nEbM6TqoSCvnp1wXMfdabi1-sneg35c0.jpeg)
 The core of traditional business project strategy is positioning, which is the consensus of the industry. The traditional theoretical framework for positioning strategy was first proposed by Michael Porter. 
-
-### [87. Astar Network Kickstarts the DOT Festival!](https://hackernoon.com/astar-network-kickstarts-the-dot-festival)
-![](https://cdn.hackernoon.com/images/4d69PJK3mXUG4cfItJ7dkWExXGl1-3u93jfi.jpeg)
-Astar DOT Festival is here — so get ready to hit the jackpot. We have 6M Astar tokens waiting for you to join in the fun!
 
 ### [88. Demystifying Polkadot: Breaking Down the Core Concepts](https://hackernoon.com/demystifying-polkadot-breaking-down-the-core-concepts)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ou93p0i.jpeg)
 
 
-### [89. PolkaBotAI - Decentralizing AI With OriginTrail And Polkadot](https://hackernoon.com/polkabotai-decentralizing-ai-with-origintrail-and-polkadot)
+### [89. Astar Network Kickstarts the DOT Festival!](https://hackernoon.com/astar-network-kickstarts-the-dot-festival)
+![](https://cdn.hackernoon.com/images/4d69PJK3mXUG4cfItJ7dkWExXGl1-3u93jfi.jpeg)
+Astar DOT Festival is here — so get ready to hit the jackpot. We have 6M Astar tokens waiting for you to join in the fun!
+
+### [90. PolkaBotAI - Decentralizing AI With OriginTrail And Polkadot](https://hackernoon.com/polkabotai-decentralizing-ai-with-origintrail-and-polkadot)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-nb837v3.jpeg)
  Its sudden growth also pointed at some of the threats and shortfalls such as hallucinations, bias, mishandling of intellectual property rights and even potenti
-
-### [90. Polkadot: Connecting Multiple Blockchains With the Polkadot Network](https://hackernoon.com/polkadot-connecting-multiple-blockchains-with-the-polkadot-network)
-![](https://cdn.hackernoon.com/images/suWn7OodHfhKfwGVD5RMk6JKV2L2-vsa3rme.jpeg)
-Polkadot is a scalable multichain network that enables the cross-chain transfer of any type of data or asset, including tokens.
-
 
 ### [91. Polkadot Sees Strong Growth in Q4 2022 with 64% Increase in Daily Active Account](https://hackernoon.com/polkadot-sees-strong-growth-in-q4-2022-with-64percent-increase-in-daily-active-account)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-6ha3p1t.jpeg)
 Polkadot, a Nominated Proof-of-Stake (NPoS) network, is experiencing strong growth in its Relay Chain.
 
-### [92. DAM Finance Launches Decentralized Multi-Chain Liquidity Infrastructure](https://hackernoon.com/dam-finance-launches-decentralized-multi-chain-liquidity-infrastructure)
+### [92. Polkadot: Connecting Multiple Blockchains With the Polkadot Network](https://hackernoon.com/polkadot-connecting-multiple-blockchains-with-the-polkadot-network)
+![](https://cdn.hackernoon.com/images/suWn7OodHfhKfwGVD5RMk6JKV2L2-vsa3rme.jpeg)
+Polkadot is a scalable multichain network that enables the cross-chain transfer of any type of data or asset, including tokens.
+
+
+### [93. DAM Finance Launches Decentralized Multi-Chain Liquidity Infrastructure](https://hackernoon.com/dam-finance-launches-decentralized-multi-chain-liquidity-infrastructure)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-lb93ppo.jpeg)
 DAM Finance has announced the launch of its decentralized, multi-chain liquidity infrastructure on Ethereum and Moonbeam.
-
-### [93. Research Reveals Mobile Devices As Catalysts For Efficient Decentralized Infrastructure Networks](https://hackernoon.com/research-reveals-mobile-devices-as-catalysts-for-efficient-decentralized-infrastructure-networks)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-44836vj.jpeg)
-This work demonstrates the viability of Decentralized Physical Infrastructure Networks (DePIN) as a robust alternative to traditional centralized cloud computin
 
 ### [94. Zeeve's Larch: Simplifying Polkadot/Substrate Zombienet Operations with an Intuitive GU](https://hackernoon.com/zeeves-larch-simplifying-polkadotsubstrate-zombienet-operations-with-an-intuitive-gu)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-7493ba4.jpeg)
 Discover how Zeeve's Larch, an open-source GUI tool, simplifies the creation, management, and testing of parachains using Zombienet.
 
-### [95. Acala Brings First Layer-1 Chain Customization to Polkadot ](https://hackernoon.com/acala-brings-first-layer-1-chain-customization-to-polkadot)
+### [95. Research Reveals Mobile Devices As Catalysts For Efficient Decentralized Infrastructure Networks](https://hackernoon.com/research-reveals-mobile-devices-as-catalysts-for-efficient-decentralized-infrastructure-networks)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-44836vj.jpeg)
+This work demonstrates the viability of Decentralized Physical Infrastructure Networks (DePIN) as a robust alternative to traditional centralized cloud computin
+
+### [96. Acala Brings First Layer-1 Chain Customization to Polkadot ](https://hackernoon.com/acala-brings-first-layer-1-chain-customization-to-polkadot)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-oq03e2m.jpeg)
 Acala was the first DeFi project to win the PolkADot parachain auction with a community contribution of Poladot’s DOT token worth over $1.27 billion. 
 
-### [96. Building DeFi 2.0 With Cross Chain Compatibility](https://hackernoon.com/building-defi-20-with-cross-chain-compatibility)
-![](https://cdn.hackernoon.com/images/1du5sm3DaKfa8Hn94CaNwN5AAeE2-gj03jsq.jpeg)
-Clover's wallet provides industry-leading cross-chain compatibility and solves a major issue in the DeFi landscape.
-
-### [97. Polkadot Upgrades With Agile Coretime For Resource Allocation, Unlocking Efficiency And Scalability](https://hackernoon.com/polkadot-upgrades-with-agile-coretime-for-resource-allocation-unlocking-efficiency-and-scalability)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-ki024d1.jpeg)
-This new feature represents a significant advancement in how computational resources are allocated and managed within the Polkadot ecosystem, delivering unprece
-
-### [98. Polkadot and SP Negócios Collaborate To Enhance Crypto Economy Development](https://hackernoon.com/polkadot-and-sp-negocios-collaborate-to-enhance-crypto-economy-development)
+### [97. Polkadot and SP Negócios Collaborate To Enhance Crypto Economy Development](https://hackernoon.com/polkadot-and-sp-negocios-collaborate-to-enhance-crypto-economy-development)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-f0024qx.jpeg)
 Driven by the growing market demand, Polkadot is increasingly positioning itself as an ally for businesses looking to grow in an innovative, secure, and transpa
 
-### [99. Polkadot Enhances Decentralization in Ecosystem Growth With PolkaPort East Launch In Hong Kong](https://hackernoon.com/polkadot-enhances-decentralization-in-ecosystem-growth-with-polkaport-east-launch-in-hong-kong)
+### [98. Building DeFi 2.0 With Cross Chain Compatibility](https://hackernoon.com/building-defi-20-with-cross-chain-compatibility)
+![](https://cdn.hackernoon.com/images/1du5sm3DaKfa8Hn94CaNwN5AAeE2-gj03jsq.jpeg)
+Clover's wallet provides industry-leading cross-chain compatibility and solves a major issue in the DeFi landscape.
+
+### [99. Polkadot Upgrades With Agile Coretime For Resource Allocation, Unlocking Efficiency And Scalability](https://hackernoon.com/polkadot-upgrades-with-agile-coretime-for-resource-allocation-unlocking-efficiency-and-scalability)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-ki024d1.jpeg)
+This new feature represents a significant advancement in how computational resources are allocated and managed within the Polkadot ecosystem, delivering unprece
+
+### [100. Polkadot Enhances Decentralization in Ecosystem Growth With PolkaPort East Launch In Hong Kong](https://hackernoon.com/polkadot-enhances-decentralization-in-ecosystem-growth-with-polkaport-east-launch-in-hong-kong)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-3c8375a.jpeg)
 The Decentralized Futures (DF) grant is designed to help further decentralize Polkadot while spearheading technical, community, and broader ecosystem adoption.
-
-### [100. Crypto Assets Are Primarily Communication Networks](https://hackernoon.com/crypto-assets-are-primarily-communication-networks-ss1q34v8)
-![](https://cdn.hackernoon.com/images/nCjPVMzJEoha3rm2GwGMXZ8LzKm2-3de36r8.png)
-When I was in college there was a joke going around that the easiest way to piss off the physics professor was to ask him “what is gravity?”, upon which the professor would launch into a 45 minute diatribe on gravitons and the latest advances at CERN; but the truth is, we don’t really know. The best we can answer the question is that gravity is a force, but anything beyond that is currently conjecture. The same principle applies to Bitcoin.
-
 
 ### [101. Polkadot’s Flagship Sub0 Conference Is Ground Zero For Ecosystem’s Landmark Overhaul](https://hackernoon.com/polkadots-flagship-sub0-conference-is-ground-zero-for-ecosystems-landmark-overhaul)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-uj036bg.jpeg)
 sub0 reset is the first and only Substrate development conference, bringing together the best developers and builders of Web3 in a spectacular five-floor indust
 
-### [102. Polkadot‘s Largest LST - vDOT, Reached $2.2M Supply Cap On Hydration MM Within 15 Hours](https://hackernoon.com/polkadots-largest-lst-vdot-reached-$22m-supply-cap-on-hydration-mm-within-15-hours)
+### [102. Crypto Assets Are Primarily Communication Networks](https://hackernoon.com/crypto-assets-are-primarily-communication-networks-ss1q34v8)
+![](https://cdn.hackernoon.com/images/nCjPVMzJEoha3rm2GwGMXZ8LzKm2-3de36r8.png)
+When I was in college there was a joke going around that the easiest way to piss off the physics professor was to ask him “what is gravity?”, upon which the professor would launch into a 45 minute diatribe on gravitons and the latest advances at CERN; but the truth is, we don’t really know. The best we can answer the question is that gravity is a force, but anything beyond that is currently conjecture. The same principle applies to Bitcoin.
+
+
+### [103. Polkadot‘s Largest LST - vDOT, Reached $2.2M Supply Cap On Hydration MM Within 15 Hours](https://hackernoon.com/polkadots-largest-lst-vdot-reached-$22m-supply-cap-on-hydration-mm-within-15-hours)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-j60231f.jpeg)
 Within 15 hours of opening deposits and borrows, vDOT reached the supply cap of 220K and surpassed $2.2 million in Total Value Locked (TVL) pushed by DOT levera
 

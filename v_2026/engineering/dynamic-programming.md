@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [dynamic-programming](https://hackernoon.com/tagged/dynamic-programming)
+### Let's learn about [Dynamic Programming](https://hackernoon.com/tagged/dynamic-programming) via these 50 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Dynamic programming is a method for solving complex problems by breaking them down into simpler subproblems and storing the results to avoid redundant computations. It is crucial for optimizing algorithms in computer science, leading to efficient solutions for various computational challenges.
+
 ### [1. Kadane’s Algorithm Explained with Examples](https://hackernoon.com/kadanes-algorithm-explained-50316f4fd8a6)
 ![](https://cdn.hackernoon.com/hn-images/1*XuUYS-A4W7gk4RCrI4aAaw.jpeg)
 Given an array, the algorithm to find the maximum subarray sum is called Kadane’s Algorithm.
@@ -85,101 +89,101 @@ Learning Dynamic Programming and Memoization in Under 5 Minutes
 ![](https://cdn.hackernoon.com/images/lines-of-code-on-a-laptop-screen-adsn3er9vna3x0dswsyeprok.png)
 Optimal Signaling in Two-phase Trials: Exploring Induced Strategies for Binary-outcome Experiments. 
 
-### [22. What Makes AI Work? A Breakdown of the Key Proofs](https://hackernoon.com/what-makes-ai-work-a-breakdown-of-the-key-proofs)
-![](https://cdn.hackernoon.com/images/text-data-sheet-displayed-on-a-laptops-screen-h051uz86brrjy6n0d23mq8cq.png)
-Easy-to-follow explanation of the key lemma in RL with step-by-step proof breakdown.
-
-### [23. Analyzing Optimal Signaling with Binary-outcome Experiments in Two-phase Trials](https://hackernoon.com/analyzing-optimal-signaling-with-binary-outcome-experiments-in-two-phase-trials)
+### [22. Analyzing Optimal Signaling with Binary-outcome Experiments in Two-phase Trials](https://hackernoon.com/analyzing-optimal-signaling-with-binary-outcome-experiments-in-two-phase-trials)
 ![](https://cdn.hackernoon.com/images/lines-of-code-on-a-laptop-screen-rtidlhnnz8m4u0xbcw6wt1p5.png)
 Explore optimal signaling strategies for binary-outcome experiments in two-phase Bayesian persuasion trials.
+
+### [23. What Makes AI Work? A Breakdown of the Key Proofs](https://hackernoon.com/what-makes-ai-work-a-breakdown-of-the-key-proofs)
+![](https://cdn.hackernoon.com/images/text-data-sheet-displayed-on-a-laptops-screen-h051uz86brrjy6n0d23mq8cq.png)
+Easy-to-follow explanation of the key lemma in RL with step-by-step proof breakdown.
 
 ### [24. How Prior Studies Have Advanced Value Iteration and Acceleration in Reinforcement Learning ](https://hackernoon.com/how-prior-studies-have-advanced-value-iteration-and-acceleration-in-reinforcement-learning)
 ![](https://cdn.hackernoon.com/images/data-sheet-displayed-on-a-laptops-screen-zwm65wsl527jemfnovh0ryb5.png)
 Review prior works on value iteration, RL algorithms, and acceleration methods, including Nesterov and Anderson acceleration, in dynamic programming and RL.
 
-### [25. How to Maximize Persuasion Ratios in Two-Phase Trials](https://hackernoon.com/how-to-maximize-persuasion-ratios-in-two-phase-trials)
+### [25. Understanding Incentive-Compatible Signaling in Two-Phase Trials](https://hackernoon.com/understanding-incentive-compatible-signaling-in-two-phase-trials)
+![](https://cdn.hackernoon.com/images/dynamic-programming-a0sq1jrm1v42j66govvwxfwf.png)
+Explore how incentive compatibility (IC) requirements shape the sender's experiment design in phase I of two-phase trials. 
+
+### [26. How to Maximize Persuasion Ratios in Two-Phase Trials](https://hackernoon.com/how-to-maximize-persuasion-ratios-in-two-phase-trials)
 ![](https://cdn.hackernoon.com/images/dynamic-programming-wjrd2ihvby4tw1f8g10r3txq.png)
 Discover how to optimize the persuasion ratio and signaling structure in two-phase trials. 
 
-### [26. A Smarter Solution to Speeding Up AI Training](https://hackernoon.com/a-smarter-solution-to-speeding-up-ai-training)
+### [27. A Smarter Solution to Speeding Up AI Training](https://hackernoon.com/a-smarter-solution-to-speeding-up-ai-training)
 ![](https://cdn.hackernoon.com/images/text-data-sheet-displayed-on-a-laptops-screen-tobvzms3h50bs3df6x24xnuz.png)
 Anc-VI accelerates classical value iteration (VI) to achieve optimal convergence rates. This work opens new directions for RL optimization. 
 
-### [27. Exploring Sender Constraints in Two-Phase Bayesian Persuasion Trials](https://hackernoon.com/exploring-sender-constraints-in-two-phase-bayesian-persuasion-trials)
+### [28. Exploring Sender Constraints in Two-Phase Bayesian Persuasion Trials](https://hackernoon.com/exploring-sender-constraints-in-two-phase-bayesian-persuasion-trials)
 ![](https://cdn.hackernoon.com/images/dynamic-programming-htwq0tjbrgmh5a1e2qmyci5a.png)
 In two-phase Bayesian persuasion trials, explore how predetermined binary-outcome experiments in phase II impact the sender's optimal strategy. 
 
-### [28. How Optimal Signaling Outperforms Classical Bayesian Strategies in Multi-Phase Trials](https://hackernoon.com/how-optimal-signaling-outperforms-classical-bayesian-strategies-in-multi-phase-trials)
+### [29. How Optimal Signaling Outperforms Classical Bayesian Strategies in Multi-Phase Trials](https://hackernoon.com/how-optimal-signaling-outperforms-classical-bayesian-strategies-in-multi-phase-trials)
 ![](https://cdn.hackernoon.com/images/dynamic-programming-ynpyxgo45gwfh6m4tbyik3wa.png)
 Explore how the optimal signaling strategy outperforms classical Bayesian persuasion strategies in binary state scenarios. 
-
-### [29. Understanding Incentive-Compatible Signaling in Two-Phase Trials](https://hackernoon.com/understanding-incentive-compatible-signaling-in-two-phase-trials)
-![](https://cdn.hackernoon.com/images/dynamic-programming-a0sq1jrm1v42j66govvwxfwf.png)
-Explore how incentive compatibility (IC) requirements shape the sender's experiment design in phase I of two-phase trials. 
 
 ### [30. Markov Decision Processes and Value Iteration in Reinforcement Learning](https://hackernoon.com/markov-decision-processes-and-value-iteration-in-reinforcement-learning)
 ![](https://cdn.hackernoon.com/images/data-sheet-displayed-on-a-laptops-screen-fcqu9vf4rsgoo98hucij5wx4.png)
 Explore the fundamental concepts of MDP and RL, including Bellman operators, Q-value functions, and value iteration for optimal reinforcement learning.
 
-### [31. How Do Signal Constraints Affect Bayesian Persuasion in Multi-Phase Trials?](https://hackernoon.com/how-do-signal-constraints-affect-bayesian-persuasion-in-multi-phase-trials)
+### [31. Unpacking Key Proofs in Reinforcement Learning](https://hackernoon.com/unpacking-key-proofs-in-reinforcement-learning)
+![](https://cdn.hackernoon.com/images/text-data-sheet-displayed-on-a-laptops-screen-e3n7n0d5kkq104p0xrb3gnzh.png)
+Explore simplified explanations of key proofs in reinforcement learning.
+
+### [32. How Do Signal Constraints Affect Bayesian Persuasion in Multi-Phase Trials?](https://hackernoon.com/how-do-signal-constraints-affect-bayesian-persuasion-in-multi-phase-trials)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-jb035sn.png)
 Explore a Bayesian persuasion framework in multi-phase trials where the sender faces constraints on signals due to exogenous experiment determinations. 
 
-### [32. Anc-VI Sets New Standards in Speed for Bellman Consistency in Reinforcement Learning](https://hackernoon.com/anc-vi-sets-new-standards-in-speed-for-bellman-consistency-in-reinforcement-learning)
+### [33. Anc-VI Sets New Standards in Speed for Bellman Consistency in Reinforcement Learning](https://hackernoon.com/anc-vi-sets-new-standards-in-speed-for-bellman-consistency-in-reinforcement-learning)
 ![](https://cdn.hackernoon.com/images/data-sheet-displayed-on-a-laptops-screen-lrxtmadipfn68jewdbu7czo2.png)
 Discover Anc-VI’s accelerated convergence rate for Bellman consistency, providing faster value iteration for reinforcement learning applications.
-
-### [33. Formulating Optimal Signaling Strategies in Constrained Bayesian Persuasion Trials](https://hackernoon.com/formulating-optimal-signaling-strategies-in-constrained-bayesian-persuasion-trials)
-![](https://cdn.hackernoon.com/images/dynamic-programming-o3nu6a5hxnyb2xyjap5skrbl.png)
-Discover how constraints in multi-phase trials shape optimal signaling strategies in Bayesian persuasion.
 
 ### [34. A Faster Path to Smarter AI: The New Anc-VI Method](https://hackernoon.com/a-faster-path-to-smarter-ai-the-new-anc-vi-method)
 ![](https://cdn.hackernoon.com/images/data-sheet-displayed-on-a-laptops-screen-pncyr5r3iwdyxmpo6ttw0rdq.png)
 Discover Anc-VI, an accelerated value iteration method that speeds up reinforcement learning convergence, improving Bellman error reduction.  
 
-### [35. Unpacking Key Proofs in Reinforcement Learning](https://hackernoon.com/unpacking-key-proofs-in-reinforcement-learning)
-![](https://cdn.hackernoon.com/images/text-data-sheet-displayed-on-a-laptops-screen-e3n7n0d5kkq104p0xrb3gnzh.png)
-Explore simplified explanations of key proofs in reinforcement learning.
+### [35. Formulating Optimal Signaling Strategies in Constrained Bayesian Persuasion Trials](https://hackernoon.com/formulating-optimal-signaling-strategies-in-constrained-bayesian-persuasion-trials)
+![](https://cdn.hackernoon.com/images/dynamic-programming-o3nu6a5hxnyb2xyjap5skrbl.png)
+Discover how constraints in multi-phase trials shape optimal signaling strategies in Bayesian persuasion.
 
 ### [36. Anchored Value Iteration and Its Impact on Bellman Consistency in Reinforcement Learning](https://hackernoon.com/anchored-value-iteration-and-its-impact-on-bellman-consistency-in-reinforcement-learning)
 ![](https://cdn.hackernoon.com/images/data-sheet-displayed-on-a-laptops-screen-jdiexrfhgat65mhm1enf85de.png)
 Learn how Anc-VI accelerates Bellman consistency in value iteration, setting the stage for faster reinforcement learning convergence.
 
-### [37. Generalizing Signaling Strategies in Multi-phase Trials](https://hackernoon.com/generalizing-signaling-strategies-in-multi-phase-trials)
-![](https://cdn.hackernoon.com/images/dynamic-programming-nfo93y904xmb9vj9mex54uwz.png)
-Explore the relationship between multi-phase trials and single-phase Bayesian persuasion models. 
-
-### [38. How Approximate Anchored Value Iteration Handles Errors in Decision-Making Models](https://hackernoon.com/how-approximate-anchored-value-iteration-handles-errors-in-decision-making-models)
+### [37. How Approximate Anchored Value Iteration Handles Errors in Decision-Making Models](https://hackernoon.com/how-approximate-anchored-value-iteration-handles-errors-in-decision-making-models)
 ![](https://cdn.hackernoon.com/images/text-data-sheet-displayed-on-a-laptops-screen-ilv3devpwr8r8pc8s7ij884o.png)
 Learn how Approximate Anchored Value Iteration (Apx-Anc-VI) remains robust against evaluation errors of the Bellman operator.  
 
-### [39. Making Sense of AI Learning Proofs](https://hackernoon.com/making-sense-of-ai-learning-proofs)
+### [38. Making Sense of AI Learning Proofs](https://hackernoon.com/making-sense-of-ai-learning-proofs)
 ![](https://cdn.hackernoon.com/images/text-data-sheet-displayed-on-a-laptops-screen-bheqdg0mm26i43atzioaxrx1.png)
 Simplified insights from Reinforcement Learning proofs, designed for new learners to easily grasp complex ideas.
 
-### [40. My Journey Into Predicting States Using Emoji Observations With Viterbi Algorithm](https://hackernoon.com/my-journey-into-predicting-states-using-emoji-observations-with-viterbi-algorithm-wxv34jq)
-![](https://cdn.hackernoon.com/images/vRoU2RubPwNr0c3bCtSNzTL6OQC3-td4q332j.jpeg)
-See the implementation of the Viterbi algorithm in Python
+### [39. Generalizing Signaling Strategies in Multi-phase Trials](https://hackernoon.com/generalizing-signaling-strategies-in-multi-phase-trials)
+![](https://cdn.hackernoon.com/images/dynamic-programming-nfo93y904xmb9vj9mex54uwz.png)
+Explore the relationship between multi-phase trials and single-phase Bayesian persuasion models. 
 
-### [41. Breaking Down Complex Concepts in Reinforcement Learning](https://hackernoon.com/breaking-down-complex-concepts-in-reinforcement-learning)
+### [40. Breaking Down Complex Concepts in Reinforcement Learning](https://hackernoon.com/breaking-down-complex-concepts-in-reinforcement-learning)
 ![](https://cdn.hackernoon.com/images/text-data-sheet-displayed-on-a-laptops-screen-gkau1vezgdji5guhvr8wpjvp.png)
 A simplified guide to understanding Theorem 5’s proof in RL, breaking down complex concepts for beginners.
 
-### [42. How Anc-VI Helps AI Learn Faster with Optimality Operators](https://hackernoon.com/how-anc-vi-helps-ai-learn-faster-with-optimality-operators)
+### [41. How Anc-VI Helps AI Learn Faster with Optimality Operators](https://hackernoon.com/how-anc-vi-helps-ai-learn-faster-with-optimality-operators)
 ![](https://cdn.hackernoon.com/images/data-sheet-displayed-on-a-laptops-screen-g5wvmprr200ftiyh3e8gxcv8.png)
 Explore how Anc-VI accelerates convergence for the Bellman optimality operator, achieving faster rates in RL compared to standard value iteration
 
-### [43. Anc-VI Sets a New Standard for Reinforcement Learning Optimization](https://hackernoon.com/anc-vi-sets-a-new-standard-for-reinforcement-learning-optimization)
+### [42. Anc-VI Sets a New Standard for Reinforcement Learning Optimization](https://hackernoon.com/anc-vi-sets-a-new-standard-for-reinforcement-learning-optimization)
 ![](https://cdn.hackernoon.com/images/data-sheet-displayed-on-a-laptops-screen-s0evxbsuapww9srvrbddawfg.png)
 Learn how Anc-VI's complexity lower bound proves its optimality. Discover the span condition’s role in establishing performance limits in optimization theory
 
-### [44. Foundational Lemmas for Bellman Optimality and Anti-Optimality Operators](https://hackernoon.com/foundational-lemmas-for-bellman-optimality-and-anti-optimality-operators)
-![](https://cdn.hackernoon.com/images/text-data-sheet-displayed-on-a-laptops-screen-zk0p8lm7vdgevdfo332ufxal.png)
-Explore key lemmas about Bellman optimality and anti-optimality operators. 
+### [43. My Journey Into Predicting States Using Emoji Observations With Viterbi Algorithm](https://hackernoon.com/my-journey-into-predicting-states-using-emoji-observations-with-viterbi-algorithm-wxv34jq)
+![](https://cdn.hackernoon.com/images/vRoU2RubPwNr0c3bCtSNzTL6OQC3-td4q332j.jpeg)
+See the implementation of the Viterbi algorithm in Python
 
-### [45. Why Anc-VI is Crucial for Undiscounted Reinforcement Learning](https://hackernoon.com/why-anc-vi-is-crucial-for-undiscounted-reinforcement-learning)
+### [44. Why Anc-VI is Crucial for Undiscounted Reinforcement Learning](https://hackernoon.com/why-anc-vi-is-crucial-for-undiscounted-reinforcement-learning)
 ![](https://cdn.hackernoon.com/images/data-sheet-displayed-on-a-laptops-screen-uvy70jalvqk4ai54p1jxkqy6.png)
 Discover how Anc-VI converges to fixed points in undiscounted MDPs (γ = 1), addressing challenges typically overlooked in traditional DP and RL theory. 
+
+### [45. Foundational Lemmas for Bellman Optimality and Anti-Optimality Operators](https://hackernoon.com/foundational-lemmas-for-bellman-optimality-and-anti-optimality-operators)
+![](https://cdn.hackernoon.com/images/text-data-sheet-displayed-on-a-laptops-screen-zk0p8lm7vdgevdfo332ufxal.png)
+Explore key lemmas about Bellman optimality and anti-optimality operators. 
 
 ### [46. Breaking Down the Inductive Proofs Behind Faster Value Iteration in RL](https://hackernoon.com/breaking-down-the-inductive-proofs-behind-faster-value-iteration-in-rl)
 ![](https://cdn.hackernoon.com/images/text-data-sheet-displayed-on-a-laptops-screen-ya3lb4ce5wrvri8v5fc7gph8.png)

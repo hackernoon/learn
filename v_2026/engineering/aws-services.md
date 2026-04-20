@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [aws-services](https://hackernoon.com/tagged/aws-services)
+### Let's learn about [Aws Services](https://hackernoon.com/tagged/aws-services) via these 118 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+AWS Services refers to the vast suite of cloud computing offerings provided by Amazon Web Services. They are foundational for scalable, reliable, and cost-effective infrastructure, enabling businesses worldwide to host applications, store data, and innovate rapidly in the cloud.
+
 ### [1. Empowering AWS DevOps With Python and Machine Learning](https://hackernoon.com/empowering-aws-devops-with-python-and-machine-learning)
 ![](https://cdn.hackernoon.com/images/a-machine-powering-up-bright-and-colorful-zs4smtaqu5jtfcuqvlsf2y7g.png)
 This article is a direct result of the thoughts I shared at a recent talk with the same title, where I dissected Python and its extensive ecosystem
@@ -78,14 +82,14 @@ In this tutorial, we'll get to learn how to use the AWS S3. First, learn what is
 ![](https://cdn.hackernoon.com/images/YqzNjVX0nYVlCUWqv4gnCWnKpey1-0f437jr.jpeg)
 Amazon CloudFront is highly secure, managed service for content delivery by providing useful, and security supporting features. Learn more in the blog. 
 
-### [20. A Deep Dive Into AWS Key Management Service (KMS)](https://hackernoon.com/a-deep-dive-into-aws-key-management-service-kms)
+### [20. How to Set Up Authentication With AWS Amplify in Next](https://hackernoon.com/how-to-set-up-authentication-with-aws-amplify-in-next)
+![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-ejy30yk.jpeg)
+Authentication is a way for applications to confirm user identity before granting permission or entry to a website. 
+
+### [21. A Deep Dive Into AWS Key Management Service (KMS)](https://hackernoon.com/a-deep-dive-into-aws-key-management-service-kms)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-vca3135.jpeg)
 AWS KMS Security and Key Management
 
-
-### [21. How to Set Up Authentication With AWS Amplify in Next](https://hackernoon.com/how-to-set-up-authentication-with-aws-amplify-in-next)
-![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-ejy30yk.jpeg)
-Authentication is a way for applications to confirm user identity before granting permission or entry to a website. 
 
 ### [22. 4 Ways to Run Your AWS Amplify Project From An Existing GitHub Repo](https://hackernoon.com/4-ways-to-run-your-aws-amplify-project-from-an-existing-github-repo-6a2x34ep)
 ![](https://cdn.hackernoon.com/images/ZcvfyVxI3KNhEQxQ9H6wfvhdWlW2-emch31f6.jpeg)
@@ -119,13 +123,13 @@ Amazon ECS Anywhere gives customers the ability to run Amazon ECS on any infrast
 ![](https://cdn.hackernoon.com/images/x4OMvmRR6fOjtneRgb1nbCTNLWg1-f90377i.jpeg)
 Want to create your very own digital auction? We'll show you how to build this application by guiding you through each step. Click here to get started now!
 
-### [30. How to Deploy a Django Application on AWS with Terraform](https://hackernoon.com/how-to-deploy-a-django-application-on-aws-with-terraform)
-![](https://cdn.hackernoon.com/images/noMC4PWra3fs1CNXxQJPvNIj8uQ2-oa93zvs.png)
-The final goal of this guide is to create a scalable and reproducible setup of the Django Web Application on AWS using Terraform.
-
-### [31. Build a Video On Demand (VOD) Service with AWS Lambda, S3 and CloudFront](https://hackernoon.com/video-on-demand-vod-processing-and-delivery-with-aws)
+### [30. Build a Video On Demand (VOD) Service with AWS Lambda, S3 and CloudFront](https://hackernoon.com/video-on-demand-vod-processing-and-delivery-with-aws)
 ![](https://cdn.hackernoon.com/images/xWx1eln9Ida9r216TnPyHFrKw1J2-bk737hn.jpeg)
 With VOD streaming viewers may enjoy accessible media whenever and wherever they choose it. This way you'll keep visitors on the site longer. Learn here how!
+
+### [31. How to Deploy a Django Application on AWS with Terraform](https://hackernoon.com/how-to-deploy-a-django-application-on-aws-with-terraform)
+![](https://cdn.hackernoon.com/images/noMC4PWra3fs1CNXxQJPvNIj8uQ2-oa93zvs.png)
+The final goal of this guide is to create a scalable and reproducible setup of the Django Web Application on AWS using Terraform.
 
 ### [32. Reducing Server and Database Costs by 50% for an Insurance Broker using AWS](https://hackernoon.com/reducing-server-and-database-costs-by-50percent-for-an-insurance-broker-using-aws)
 ![](https://cdn.hackernoon.com/images/JT8PoynXQmYP92waUX1nYlVf9Im1-8k534a0.jpeg)
@@ -224,251 +228,255 @@ Ready to fix your SQS queues?🔨 This article aims to help you solve the most c
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-ur3z35gi.jpeg)
 In the simplest terms, a serverless system is a way to build an application without having to manage the infrastructure. It reduces administration & maintenance
 
-### [56. Should DevOps Engineers Write Code?](https://hackernoon.com/are-you-a-devops-engineer-if-you-arent-writing-code)
-![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-nc93pls.jpeg)
-“DevOps” is one of the most misunderstood terms in the software development industry.
-
-### [57. How to Scale a Business on AWS Lambda and Process Millions of API Requests per Month on a Budget](https://hackernoon.com/how-to-scale-a-business-on-aws-lambda-and-process-millions-of-api-requests-per-month-on-a-budget)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-2g13oo1.jpeg)
-My biggest fear was the database. 
-
-### [58. Building a Three-Tier Architecture on AWS: When it Makes Sense (and When it Doesn't)](https://hackernoon.com/building-a-three-tier-architecture-on-aws-when-it-makes-sense-and-when-it-doesnt)
+### [56. Building a Three-Tier Architecture on AWS: When it Makes Sense (and When it Doesn't)](https://hackernoon.com/building-a-three-tier-architecture-on-aws-when-it-makes-sense-and-when-it-doesnt)
 ![](https://cdn.hackernoon.com/images/Fn9Y5dMPjYMUkxZD2QnRvPh5JD63-8b43i5o.png)
 I deployed a contact manager app using three-tier AWS architecture and spent $100/month on infrastructure that was massive overkill. Here's what I learned. 
 
-### [59. An Introduction to Infrastructures for WEB projects in AWS](https://hackernoon.com/an-introduction-to-infrastructures-for-web-projects-in-aws-u31k3zy2)
+### [57. Should DevOps Engineers Write Code?](https://hackernoon.com/are-you-a-devops-engineer-if-you-arent-writing-code)
+![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-nc93pls.jpeg)
+“DevOps” is one of the most misunderstood terms in the software development industry.
+
+### [58. How to Scale a Business on AWS Lambda and Process Millions of API Requests per Month on a Budget](https://hackernoon.com/how-to-scale-a-business-on-aws-lambda-and-process-millions-of-api-requests-per-month-on-a-budget)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-2g13oo1.jpeg)
+My biggest fear was the database. 
+
+### [59. When AWS Goes Down Because of a Drone Strike](https://hackernoon.com/when-aws-goes-down-because-of-a-drone-strike)
+![](https://cdn.hackernoon.com/images/qbZmNnQEHtQOTEI8ZE5ral30Tf42-6383dfy.png)
+A drone strike took down an AWS region, forcing a hand-built migration from Bahrain to Europe. Disaster recovery has entered a new era.
+
+### [60. An Introduction to Infrastructures for WEB projects in AWS](https://hackernoon.com/an-introduction-to-infrastructures-for-web-projects-in-aws-u31k3zy2)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgjpnXi0nNwgXkfXJ0yQAsbaRlmM2-mr1v3ev9.jpeg?alt=media&token=708faaa5-5600-4ce4-95c3-a782e2d540dd)
 Let's review a particular project in detail and the cost of infrastructure maintenance. And so, we have an internal WEB application that consists of a static website on React, a backend on Go, and a database DynamoDB. All code is stored on Github and for CI/CD we use Github Actions. The infrastructure code is defined in Terraform.
 
-### [60. Storing Secrets in AWS Secrets Manager & AWS SSM Parameter Store](https://hackernoon.com/storing-secrets-in-aws-secrets-manager-and-aws-ssm-parameter-store)
+### [61. Storing Secrets in AWS Secrets Manager & AWS SSM Parameter Store](https://hackernoon.com/storing-secrets-in-aws-secrets-manager-and-aws-ssm-parameter-store)
 ![](https://cdn.hackernoon.com/images/HHs6YsuRKgdFY4TzvN3gygG9Q7M2-p323hiz.png)
 AWS Systems Manager helps you manage, configure, and operate your compute resources and applications without logging into them.
 
-### [61. You Only Need a Few Tools to Unlock Real-Time Analytics](https://hackernoon.com/you-only-need-a-few-tools-to-unlock-real-time-analytics)
+### [62. You Only Need a Few Tools to Unlock Real-Time Analytics](https://hackernoon.com/you-only-need-a-few-tools-to-unlock-real-time-analytics)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-h302s1j.jpeg)
 Build real-time analytics platform on AWS with data ingestion, processing, storage and visualization. Utilize  tools like Kinesis, S3 and Firehose for insights.
 
-### [62. 4 Tips for AWS Lambda Cost & Speed Optimization](https://hackernoon.com/4-tips-for-aws-lambda-cost-and-speed-optimization-7g3235u7)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-dz2u34sl.jpeg)
-In this article, we're covering 4 tips for AWS Lambda optimization for production. Covering error handling, memory provisioning, performance and more.
-
-### [63. A List of AWS Benefits for Startups](https://hackernoon.com/a-list-of-aws-benefits-for-startups-no1l3wvb)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FiIxMkGvZnIaPfvQtSlQZgxRvSVG2-u53s3wwz.jpeg?alt=media&token=f4b0b6bb-4cd4-4ac5-9286-39e52b08f7cd)
-The global pandemic now may have hit many sectors of the economy, but it doesn’t appear to have hampered the cloud computing market. According to the latest forecast from Gartner, the public cloud market is likely to grow 6.4% in 2020 to reach $ 242.7 billion.
-
-### [64. How I Spend Less Than $50 on Running My Entire Web Stack](https://hackernoon.com/how-i-spend-less-than-$50-on-running-my-entire-web-stack)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o902s95.jpeg)
-With $50 or less, you can have your entire web stack running in a Coolify instance on EC2.
-
-### [65. Migrating S3 Buckets Between AWS Accounts Like a Pro (Without Losing Your Sanity)](https://hackernoon.com/migrating-s3-buckets-between-aws-accounts-like-a-pro-without-losing-your-sanity)
+### [63. Migrating S3 Buckets Between AWS Accounts Like a Pro (Without Losing Your Sanity)](https://hackernoon.com/migrating-s3-buckets-between-aws-accounts-like-a-pro-without-losing-your-sanity)
 ![](https://cdn.hackernoon.com/images/a-computer-monitor-showing-transfer-of-data-mqi2v7cdpuu4pagygnie0wjl.png)
 Learn how to migrate 4–5 TB of S3 data between AWS accounts up to 10× faster using AWS DataSync. Step-by-step guide with IAM policies, CLI commands, and pro tip
 
-### [66. Understanding AWS Well-Architected Framework](https://hackernoon.com/understanding-aws-well-architected-framework)
-![](https://cdn.hackernoon.com/images/YqzNjVX0nYVlCUWqv4gnCWnKpey1-ph93oow.jpeg)
-The AWS Well-Architected Framework (WAF) is a set of best practices used to create highly efficient and cost-effective applications on AWS. Lean more. 
+### [64. 4 Tips for AWS Lambda Cost & Speed Optimization](https://hackernoon.com/4-tips-for-aws-lambda-cost-and-speed-optimization-7g3235u7)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-dz2u34sl.jpeg)
+In this article, we're covering 4 tips for AWS Lambda optimization for production. Covering error handling, memory provisioning, performance and more.
+
+### [65. A List of AWS Benefits for Startups](https://hackernoon.com/a-list-of-aws-benefits-for-startups-no1l3wvb)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FiIxMkGvZnIaPfvQtSlQZgxRvSVG2-u53s3wwz.jpeg?alt=media&token=f4b0b6bb-4cd4-4ac5-9286-39e52b08f7cd)
+The global pandemic now may have hit many sectors of the economy, but it doesn’t appear to have hampered the cloud computing market. According to the latest forecast from Gartner, the public cloud market is likely to grow 6.4% in 2020 to reach $ 242.7 billion.
+
+### [66. How I Spend Less Than $50 on Running My Entire Web Stack](https://hackernoon.com/how-i-spend-less-than-$50-on-running-my-entire-web-stack)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o902s95.jpeg)
+With $50 or less, you can have your entire web stack running in a Coolify instance on EC2.
 
 ### [67. AWS Snow Family: An Old Solution to a New Problem](https://hackernoon.com/aws-snow-family-an-old-solution-to-a-new-problem-gz3635uv)
 ![](https://cdn.hackernoon.com/images/aRmYdnxafxXcoMJw8cnG4lp1bOD3-s57233a0.jpeg)
 The AWS Snow Family is a group of three products that solved the problem of slow data transfers and edge computing associated with cloud storage. 
 
-### [68. How to Add Closed Captions (CC) to Amazon IVS Live Streams](https://hackernoon.com/how-to-add-closed-captions-cc-to-an-amazon-ivs-live-streams)
+### [68. Understanding AWS Well-Architected Framework](https://hackernoon.com/understanding-aws-well-architected-framework)
+![](https://cdn.hackernoon.com/images/YqzNjVX0nYVlCUWqv4gnCWnKpey1-ph93oow.jpeg)
+The AWS Well-Architected Framework (WAF) is a set of best practices used to create highly efficient and cost-effective applications on AWS. Lean more. 
+
+### [69. How to Add Closed Captions (CC) to Amazon IVS Live Streams](https://hackernoon.com/how-to-add-closed-captions-cc-to-an-amazon-ivs-live-streams)
 ![](https://cdn.hackernoon.com/images/7GGjdbIpEWhSoNNMb3i5kpsuefF3-un93px7.jpeg)
 Use of OBS plugin to convert speech to text and publish that text as caption data on an Amazon IVS live stream.
 
-### [69. Codify your SaaS Apps: The Answer to the Unmanaged SaaS Jungle](https://hackernoon.com/codify-your-saas-apps-the-answer-to-the-unmanaged-saas-jungle)
+### [70. Codify your SaaS Apps: The Answer to the Unmanaged SaaS Jungle](https://hackernoon.com/codify-your-saas-apps-the-answer-to-the-unmanaged-saas-jungle)
 ![](https://cdn.hackernoon.com/images/B0h2tdOqKHfBwDbg2IgKuguepW02-1wb3k60.jpeg)
 A phenomenon we have encountered often, when helping companies overcome drift, is a common neglect of the entire SaaS toolchain. Learn why this is troubling.
-
-### [70. The Beginner’s Guide to Serverless Computing](https://hackernoon.com/the-beginners-guide-to-serverless-computing-agf32q5)
-![](https://cdn.hackernoon.com/images/xjp32qi.jpg)
-Serverless is a modern computing model that employs Function-as-a-service architecture and manages the backend and scaling automatically with low cost and high concurrency.
 
 ### [71. Containers vs. Serverless: Which is Better for DevOps?](https://hackernoon.com/containers-vs-serverless-which-is-better-for-devops)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-wm0380k.jpeg)
 Managing your own containers versus letting serverless do it for you - when to choose what? Let's go over the pros and cons.
 
-### [72. A Beginner's Guide to AWS Containers - Part 2 ](https://hackernoon.com/a-beginners-guide-to-aws-containers-part-2)
+### [72. The Beginner’s Guide to Serverless Computing](https://hackernoon.com/the-beginners-guide-to-serverless-computing-agf32q5)
+![](https://cdn.hackernoon.com/images/xjp32qi.jpg)
+Serverless is a modern computing model that employs Function-as-a-service architecture and manages the backend and scaling automatically with low cost and high concurrency.
+
+### [73. A Beginner's Guide to AWS Containers - Part 2 ](https://hackernoon.com/a-beginners-guide-to-aws-containers-part-2)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-tf93rzp.png)
 In this 2 part series blog post, you will go through a step-by-guide to understanding the concepts of Containers. 
 
-### [73. How to Use G-Suite as an Identity Provider For Your AWS Account ](https://hackernoon.com/how-to-use-g-suite-as-an-identity-provider-for-your-aws-account-dn183uem)
+### [74. How to Use G-Suite as an Identity Provider For Your AWS Account ](https://hackernoon.com/how-to-use-g-suite-as-an-identity-provider-for-your-aws-account-dn183uem)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMDh388zaweZCNRy6yM5slQY8yA52-hu5n3yx8.jpeg?alt=media&token=b01a620f-4c77-4234-a62c-67e1e4bdba84)
 The idea behind SSO it’s pretty simple, you login into only one place and can use multiple applications.
 
-### [74. Auto Scaling in Cloud Computing with AWS: Top 4 Advantages](https://hackernoon.com/auto-scaling-in-cloud-computing-with-aws-top-4-advantages)
+### [75. Auto Scaling in Cloud Computing with AWS: Top 4 Advantages](https://hackernoon.com/auto-scaling-in-cloud-computing-with-aws-top-4-advantages)
 ![](https://cdn.hackernoon.com/images/h3xSiiZTmOSTZyrfzYGqw7Pe3rC2-oa43685.jpeg)
 In this article I have mentioned what auto-scaling is all about and what benefits it holds in a cloud computing environment, especially with respect to Amazon.
 
-### [75. How We Kept Datadog From Blowing Up Our AWS Bill](https://hackernoon.com/how-we-kept-datadog-from-blowing-up-our-aws-bill-p91q34pb)
+### [76. How We Kept Datadog From Blowing Up Our AWS Bill](https://hackernoon.com/how-we-kept-datadog-from-blowing-up-our-aws-bill-p91q34pb)
 ![](https://hackernoon.com/images/x44vG9FUrMSvfuVffVlLjzIdecj2-89w34yv.jpeg)
 A deep dive into how AWS billing works and an intricate series of steps to discover the location of the firehose of data
 
-### [76. Top 14 Must-Haves for Your AWS Architecture Checklist](https://hackernoon.com/top-14-must-haves-for-your-aws-architecture-checklist-0c2q35sv)
+### [77. Top 14 Must-Haves for Your AWS Architecture Checklist](https://hackernoon.com/top-14-must-haves-for-your-aws-architecture-checklist-0c2q35sv)
 ![](https://cdn.hackernoon.com/images/4F0E5nVGFoceOjBs5UALKq7Lbb02-wn2y33wm.jpeg)
 After analyzing the requirements of your application and coming up with an AWS architecture, here is our guide to validating your architecture.
 
-### [77. 12 Strategies to Reduce Amazon S3 Costs](https://hackernoon.com/12-strategies-to-reduce-amazon-s3-costs-jt3y3wy7)
+### [78. 12 Strategies to Reduce Amazon S3 Costs](https://hackernoon.com/12-strategies-to-reduce-amazon-s3-costs-jt3y3wy7)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-ll3o3wsl.jpeg?alt=media&token=289ca13d-aa97-4748-ac35-f89ba7b15117)
 Amazon Simple Storage Service or Amazon S3 is a service designed to house storage for the internet. In this article, we'll talk through all the strategies you can use to reduce Amazon S3 costs. 
 
-### [78. Cracking the AWS Certified Solutions Architect Associate Exam](https://hackernoon.com/cracking-the-aws-certified-solutions-architect-associate-exam)
+### [79. Cracking the AWS Certified Solutions Architect Associate Exam](https://hackernoon.com/cracking-the-aws-certified-solutions-architect-associate-exam)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-2y03n10.png)
 Tips to pass AWS Solutions Architect - Associate certificate exam
 
-### [79. Everything You Need to Know About AWS Cloud Computing](https://hackernoon.com/everything-you-need-to-know-about-aws-cloud-computing-qu5y3yl5)
-![](https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Amazon Web Service (AWS) is an all-inclusive cloud computing marketplace by Amazon. It serves as an on-demand cloud computing platform that offers multifarious cloud computing models and deployment tools.   
-
-### [80. The Benefits of Amazon S3 Explained Through a Comic](https://hackernoon.com/the-benefits-of-amazon-s3-explained-through-a-comic-nw333w1y)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FcRwEOhCxE3To4FZml7L2uKVhSih2-ep53wl4.jpeg?alt=media&token=12477ea2-998d-4512-851e-6fd4863e4363)
-AWS S3 is one of the most fundamental services of AWS Cloud. 
-
-### [81. IAM Roles for Service Accounts (IRSA) in AWS EKS Within and Cross AWS Accounts](https://hackernoon.com/iam-roles-for-service-accounts-irsa-in-aws-eks-within-and-cross-aws-accounts)
+### [80. IAM Roles for Service Accounts (IRSA) in AWS EKS Within and Cross AWS Accounts](https://hackernoon.com/iam-roles-for-service-accounts-irsa-in-aws-eks-within-and-cross-aws-accounts)
 ![](https://cdn.hackernoon.com/images/ywCyl8mvkZWzqsISZFO2B08cv812-s793u20.jpeg)
 Deep dive into IAM Roles for Service Accounts (IRSA) in EKS within same AWS Account as well as cross AWS Accounts.
 
-### [82. 5 Common Amazon Kinesis Issues](https://hackernoon.com/5-common-amazon-kinesis-issues)
+### [81. Everything You Need to Know About AWS Cloud Computing](https://hackernoon.com/everything-you-need-to-know-about-aws-cloud-computing-qu5y3yl5)
+![](https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Amazon Web Service (AWS) is an all-inclusive cloud computing marketplace by Amazon. It serves as an on-demand cloud computing platform that offers multifarious cloud computing models and deployment tools.   
+
+### [82. The Benefits of Amazon S3 Explained Through a Comic](https://hackernoon.com/the-benefits-of-amazon-s3-explained-through-a-comic-nw333w1y)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FcRwEOhCxE3To4FZml7L2uKVhSih2-ep53wl4.jpeg?alt=media&token=12477ea2-998d-4512-851e-6fd4863e4363)
+AWS S3 is one of the most fundamental services of AWS Cloud. 
+
+### [83. 5 Common Amazon Kinesis Issues](https://hackernoon.com/5-common-amazon-kinesis-issues)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-2693lq7.jpeg)
 AWS Kinesis is a professional tool that comes with its share of complications. This article will discuss the most common issues and explain how to fix them. 
 
-### [83. Essential Guide to Accessing Your AWS Account](https://hackernoon.com/essential-guide-to-accessing-your-aws-account-y01t34jj)
-![](https://cdn.hackernoon.com/images/RDAD5EHlgkVp7GOse57p7Zmqffm2-np428ap.jpeg)
-Hey there. You just created your first AWS account, and you can't wait to dive into all the exciting services and technologies that AWS has to offer you to start to build the next big thing. But, wait for a second... are you going to log-in with your root account credentials? Or it's better to generate a new user? Or maybe use a role?
-
-### [84. Real-Time Data Processing for  Analytical Use Cases: Is it Worth it?](https://hackernoon.com/real-time-data-processing-for-analytical-use-cases-is-it-worth-it-9b3g3703)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-8i3k35oq.jpeg)
-How can you reap the benefits of a real-time processing with the least amount of architectural changes and maintenance effort? 
-
-### [85. Confidently Working With IAM Roles in AWS](https://hackernoon.com/confidently-working-with-iam-roles-in-aws)
+### [84. Confidently Working With IAM Roles in AWS](https://hackernoon.com/confidently-working-with-iam-roles-in-aws)
 ![](https://cdn.hackernoon.com/images/CcAGitbr9wa0MQz8XMXOwxTbgso2-rlg3pz9.jpeg)
 Managing IAM roles can often arduous task if you don’t know your resources and services like the back of your hand. What tif there was an easier way?
+
+### [85. Essential Guide to Accessing Your AWS Account](https://hackernoon.com/essential-guide-to-accessing-your-aws-account-y01t34jj)
+![](https://cdn.hackernoon.com/images/RDAD5EHlgkVp7GOse57p7Zmqffm2-np428ap.jpeg)
+Hey there. You just created your first AWS account, and you can't wait to dive into all the exciting services and technologies that AWS has to offer you to start to build the next big thing. But, wait for a second... are you going to log-in with your root account credentials? Or it's better to generate a new user? Or maybe use a role?
 
 ### [86. Adding a Firewall to Your AWS Servers: Step by Step](https://hackernoon.com/adding-a-firewall-to-your-aws-servers-step-by-step)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-5t9310r.jpeg)
 Network security is an important aspect of cloud security because cloud-based systems
 
-### [87. Why and How to monitor Amazon API Gateway HTTP APIs](https://hackernoon.com/why-and-how-to-monitor-amazon-api-gateway-http-apis)
+### [87. Real-Time Data Processing for  Analytical Use Cases: Is it Worth it?](https://hackernoon.com/real-time-data-processing-for-analytical-use-cases-is-it-worth-it-9b3g3703)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-8i3k35oq.jpeg)
+How can you reap the benefits of a real-time processing with the least amount of architectural changes and maintenance effort? 
+
+### [88. Why and How to monitor Amazon API Gateway HTTP APIs](https://hackernoon.com/why-and-how-to-monitor-amazon-api-gateway-http-apis)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-un93oxt.jpeg)
 Monitoring your HTTP APIs can transform your decision process with actionable information instead of guessing around user complaints and high bills. 
 
-### [88. A Guide to Building Complex Serverless Infrastructures](https://hackernoon.com/a-guide-to-building-complex-serverless-infrastructures-464d330p)
+### [89. A Guide to Building Complex Serverless Infrastructures](https://hackernoon.com/a-guide-to-building-complex-serverless-infrastructures-464d330p)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-an3x3379.jpeg)
 In this article you'll find out how the AWS Well-Architected Framework came to be, how it evolved and how it should be implemented in 2021.
-
-### [89. Moving to the Cloud Doesn’t Prevent Outages](https://hackernoon.com/moving-to-the-cloud-doesnt-prevent-outages-p7193z38)
-![](https://cdn.hackernoon.com/images/4BusxmmUWlSyyBazVyRjAX1vVy12-i81j3wdw.jpeg)
-Are we learning from the past? At what point should others take accountability for their actions? When do we stop the cycle that has failed us and try a new approach?
 
 ### [90. 6 Use Cases to Drive Down Cost Using AWS Lambda](https://hackernoon.com/6-use-cases-to-drive-down-cost-using-aws-lambda)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ff03n26.jpeg)
 AWS Lambda is an event-driven computing cloud with many uses. Here are some of the best AWS Lambda use cases >>
 
-### [91. Storage Services Provided By Amazon Web Services](https://hackernoon.com/storage-services-provided-by-amazon-web-services-qw5d3vi8)
+### [91. Moving to the Cloud Doesn’t Prevent Outages](https://hackernoon.com/moving-to-the-cloud-doesnt-prevent-outages-p7193z38)
+![](https://cdn.hackernoon.com/images/4BusxmmUWlSyyBazVyRjAX1vVy12-i81j3wdw.jpeg)
+Are we learning from the past? At what point should others take accountability for their actions? When do we stop the cycle that has failed us and try a new approach?
+
+### [92. Storage Services Provided By Amazon Web Services](https://hackernoon.com/storage-services-provided-by-amazon-web-services-qw5d3vi8)
 ![](https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Storage may be a large part of every enterprise architecture.
 
-### [92. Webiny v5 Update: DynamoDB, VPC  Support, and Performance Improvements](https://hackernoon.com/webiny-v5-update-dynamodb-vpc-support-and-performance-improvements-5c5w33kn)
+### [93. Webiny v5 Update: DynamoDB, VPC  Support, and Performance Improvements](https://hackernoon.com/webiny-v5-update-dynamodb-vpc-support-and-performance-improvements-5c5w33kn)
 ![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-fda3fke.jpeg)
 In the last 6 months, we put 100% of our focus on addressing this feedback and getting Webiny to the next level. Today we present the Webiny v5 release.
 
-### [93. Become An AWS Automation Pro With These 5 Lesser-Known Capabilities](https://hackernoon.com/become-an-aws-automation-pro-with-these-5-lesser-known-capabilities-xn8135s0)
+### [94. Become An AWS Automation Pro With These 5 Lesser-Known Capabilities](https://hackernoon.com/become-an-aws-automation-pro-with-these-5-lesser-known-capabilities-xn8135s0)
 ![](https://cdn.hackernoon.com/images/zhC7DRT3cLRRJGLFZtkQiVKSSSf1-cd1333kz.jpeg)
 Here are five lesser-known AWS capabilities you can leverage to become an AWS automation pro.
 
-### [94. Top 10 AWS Cloud Migration Tools and Services ](https://hackernoon.com/top-10-aws-cloud-migration-tools-and-services-lq1732z0)
-![](https://cdn.hackernoon.com/drafts/qqiz32e5.png)
-Cloud migration is already past the cautious exploratory phase. We bring to your attention: List of Top 10 AWS cloud migration tools. In 5 years, as much as 98% of businesses will be relying on some cloud software and technologies. That makes perfect sense when you consider the benefits of infrastructure, data, and cloud application migration:
-
-### [95. An Introduction to AWS VPC](https://hackernoon.com/an-introduction-to-aws-vpc-v31x3zlw)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJWREICRBrYdTDwfBcLYr9MPcZ4l2-pe1k3tmc.png?alt=media&token=6dd6f716-452b-40fe-98dd-f834cf272c06)
-VPC is the topic that flies under the radar of many Software Developers, despite being present in every AWS account (well, maybe not for accounts created before 2009...but that's unlikely). There are a few reasons for this I can think of:
-
-### [96. How to Add Business Context to Every Dollar of Your AWS Bill ](https://hackernoon.com/how-to-add-business-context-to-every-dollar-of-your-aws-bill)
+### [95. How to Add Business Context to Every Dollar of Your AWS Bill ](https://hackernoon.com/how-to-add-business-context-to-every-dollar-of-your-aws-bill)
 ![](https://cdn.hackernoon.com/images/z9gFswLv64g2wcfb53LuX5HiVeE2-dp93pve.jpeg)
 In this blog post, I will walk you through the process of how we use nOps to add a business context to our AWS bill. 
 
-### [97. [Announcement] Running Your Containers on AWS Is Coming Up On Twitch in September 2020](https://hackernoon.com/announcement-running-your-containers-on-aws-is-coming-up-on-twitch-in-september-2020-3v433xm6)
+### [96. An Introduction to AWS VPC](https://hackernoon.com/an-introduction-to-aws-vpc-v31x3zlw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJWREICRBrYdTDwfBcLYr9MPcZ4l2-pe1k3tmc.png?alt=media&token=6dd6f716-452b-40fe-98dd-f834cf272c06)
+VPC is the topic that flies under the radar of many Software Developers, despite being present in every AWS account (well, maybe not for accounts created before 2009...but that's unlikely). There are a few reasons for this I can think of:
+
+### [97. Top 10 AWS Cloud Migration Tools and Services ](https://hackernoon.com/top-10-aws-cloud-migration-tools-and-services-lq1732z0)
+![](https://cdn.hackernoon.com/drafts/qqiz32e5.png)
+Cloud migration is already past the cautious exploratory phase. We bring to your attention: List of Top 10 AWS cloud migration tools. In 5 years, as much as 98% of businesses will be relying on some cloud software and technologies. That makes perfect sense when you consider the benefits of infrastructure, data, and cloud application migration:
+
+### [98. [Announcement] Running Your Containers on AWS Is Coming Up On Twitch in September 2020](https://hackernoon.com/announcement-running-your-containers-on-aws-is-coming-up-on-twitch-in-september-2020-3v433xm6)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FDtFsnH4V0uOm9okhi0U8yhOYFlU2-a853ueq.jpeg?alt=media&token=326bee88-3bb6-4ba0-8ed6-e275b4d60701)
 Have you ever had questions about running your containers on AWS? If so, this upcoming, Developers, Let's Code session is for you! 
 
-### [98. How To Use AWS CloudFormation To Reduce Redundancy](https://hackernoon.com/how-to-use-aws-cloudformation-to-reduce-redundancy-uhn3wcr)
+### [99. How To Use AWS CloudFormation To Reduce Redundancy](https://hackernoon.com/how-to-use-aws-cloudformation-to-reduce-redundancy-uhn3wcr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhQfEkLXkwpYHxWGACOsab4awpUA3-jre3t6m.jpeg?alt=media&token=b63d944e-acc8-474d-84d4-cfdf67696282)
 Mr. X has been working on a very interesting, and meticulously written web application involving some heavy computation and a complete test suite. He architects the system well and chooses to host his application over AWS.
 
-### [99. Amazon Web Services: A Beginner Friendly Overview](https://hackernoon.com/amazon-web-services-a-beginner-friendly-overview-zt1235b7)
+### [100. Amazon Web Services: A Beginner Friendly Overview](https://hackernoon.com/amazon-web-services-a-beginner-friendly-overview-zt1235b7)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-rzt357a.jpeg)
 As a web developer, I’ve had a lot of experience with Amazon Web Services. I never had the opportunity to thoroughly investigate its goods or gain a thorough understanding of AWS capabilities. The following guide will provide you a quick overview of AWS products.
-
-### [100. Access GitHub API Securely Using GitHub Actions from an Organization Perspective - A Case Study](https://hackernoon.com/access-github-api-securely-using-github-actions-from-an-organization-perspective-a-case-study)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-0302pr2.jpeg)
-Have you ever wandered into the realm of GitHub API authentication? In case you did, you have arrived in the right spot.
 
 ### [101. How to 'Architect' an Easy Way into the Serverless World](https://hackernoon.com/how-to-architect-an-easy-way-into-the-serverless-world)
 ![](https://cdn.hackernoon.com/images/IByUZLciQMe9ow3DJp5LIJIGktj2-2203upl.jpeg)
 A easy way to jump to jump into the serverless world in AWS 
 
-### [102. Better Failure Detection in Serverless Apps](https://hackernoon.com/better-failure-detection-in-serverless-apps)
+### [102. Access GitHub API Securely Using GitHub Actions from an Organization Perspective - A Case Study](https://hackernoon.com/access-github-api-securely-using-github-actions-from-an-organization-perspective-a-case-study)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-0302pr2.jpeg)
+Have you ever wandered into the realm of GitHub API authentication? In case you did, you have arrived in the right spot.
+
+### [103. Better Failure Detection in Serverless Apps](https://hackernoon.com/better-failure-detection-in-serverless-apps)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-4g93lyd.jpeg)
 Having reliable failure detection in place is a must for any application in production. Here's how to best achieve it for AWS Lambda.
-
-### [103. Let’s Talk About Cloud Computing](https://hackernoon.com/lets-talk-about-cloud-computing-itlp35c2)
-![](https://cdn.hackernoon.com/images/5Vow8odJEkPfoJafQiJnmGFEkv23-gm17356t.jpeg)
-In this article, I propose to understand what cloud technologies are, to see their differences from solutions, to consider these key characteristics and models.
 
 ### [104. Choosing a Computing Method: a Serverless SWOT Analysis](https://hackernoon.com/choosing-a-computing-method-a-serverless-swot-analysis)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-l393hjj.jpeg)
 If you ever find yourself deciding for or against serverless the following tries to make the decision easier for you. 
 
-### [105. How AWS Enabled My American Dream](https://hackernoon.com/how-aws-enabled-my-american-dream-vn2x34by)
+### [105. Let’s Talk About Cloud Computing](https://hackernoon.com/lets-talk-about-cloud-computing-itlp35c2)
+![](https://cdn.hackernoon.com/images/5Vow8odJEkPfoJafQiJnmGFEkv23-gm17356t.jpeg)
+In this article, I propose to understand what cloud technologies are, to see their differences from solutions, to consider these key characteristics and models.
+
+### [106. How AWS Enabled My American Dream](https://hackernoon.com/how-aws-enabled-my-american-dream-vn2x34by)
 ![](https://cdn.hackernoon.com/images/CKm5QWycYDYVoSD7SPg8hYqgO7p1-ih1t3542.png)
 Today we explain AWS and how it blows a door open for the poor to achieve the American dream.
 
-### [106. Introduction to AWS S3 Pricing and How to Optimize Expenditure](https://hackernoon.com/introduction-to-aws-s3-pricing-and-how-to-optimize-expenditure-tx4g33sr)
+### [107. Introduction to AWS S3 Pricing and How to Optimize Expenditure](https://hackernoon.com/introduction-to-aws-s3-pricing-and-how-to-optimize-expenditure-tx4g33sr)
 ![](https://cdn.hackernoon.com/images/CAcAUp9L4Bb82B1TFYOaaBSjd322-tf4r3274.jpeg)
 In this AWS S3 Pricing and Cost Optimization Guide, you’ll learn about S3 pricing and cost factors, storage classes and how you can save money. 
 
-### [107. Create a 1-Click Cost Alert Notification in Amazon AWS: A How-To Guide](https://hackernoon.com/create-a-1-click-cost-alert-notification-in-amazon-aws-a-how-to-guide-ho223zf5)
+### [108. Create a 1-Click Cost Alert Notification in Amazon AWS: A How-To Guide](https://hackernoon.com/create-a-1-click-cost-alert-notification-in-amazon-aws-a-how-to-guide-ho223zf5)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUX0uVsXcspP8Z3N41mbqDsGUaCG2-58i13o7.png?alt=media&token=d26b30e9-2ba2-4710-963a-219a863af83b)
 Are your AWS costs growing? Learn how to deploy a cost alert in one click.
 
-### [108. Building an AWS Integration for Salesforce Image Handling](https://hackernoon.com/building-an-aws-integration-for-salesforce-image-handling)
+### [109. Building an AWS Integration for Salesforce Image Handling](https://hackernoon.com/building-an-aws-integration-for-salesforce-image-handling)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-l003bka.jpeg)
 In this article, we’ll look at a solution that not only offloads your Salesforce image storage to AWS, but also resizes and renders them on demand.
-
-### [109. How to Choose the Right AWS Partner to Manage Your Cloud Infrastructure](https://hackernoon.com/how-to-choose-the-right-aws-partner-to-manage-your-cloud-infrastructure-ko9i32a8)
-![](https://cdn.hackernoon.com/drafts/soym324g.png)
-When you chose Amazon Web Services for your cloud platform, you made a good decision. AWS remains on top because it continually improves and enhances its service provisions for its users. But it is a complex environment and one which many businesses cannot navigate with expertise. 
 
 ### [110. How Migrating to Serverless Gave Square Enix, Autodesk, and FINRA Big Business Benefits](https://hackernoon.com/how-migrating-to-serverless-gave-square-enix-autodesk-and-finra-big-business-benefits)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-qu0372d.jpeg)
 Bigger companies are notorious for moving slow, but here's a case for why they should make the switch to serverless ASAP.
 
-### [111. How to Find an AWS Migration Partner ](https://hackernoon.com/how-to-find-an-aws-migration-partner)
+### [111. How to Choose the Right AWS Partner to Manage Your Cloud Infrastructure](https://hackernoon.com/how-to-choose-the-right-aws-partner-to-manage-your-cloud-infrastructure-ko9i32a8)
+![](https://cdn.hackernoon.com/drafts/soym324g.png)
+When you chose Amazon Web Services for your cloud platform, you made a good decision. AWS remains on top because it continually improves and enhances its service provisions for its users. But it is a complex environment and one which many businesses cannot navigate with expertise. 
+
+### [112. How to Find an AWS Migration Partner ](https://hackernoon.com/how-to-find-an-aws-migration-partner)
 ![](https://cdn.hackernoon.com/images/YwtdxcBHPWNrwcJUpNmXS072xY43-2w93rdq.jpeg)
 Migrating to AWS is a very complex process, so finding the right partner to help guide the process is important. Below are some key points to consider...
 
-### [112. Answering the Biggest AWS Lambda Questions](https://hackernoon.com/answering-the-biggest-aws-lambda-questions)
+### [113. Answering the Biggest AWS Lambda Questions](https://hackernoon.com/answering-the-biggest-aws-lambda-questions)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-6r03akx.jpeg)
 Learn all about AWS Lambda, an Amazon serverless computing system that features a custom back-end service and real-time data processing >>
-
-### [113. How to Handle EC2 Credentials: Best Practices and Common Mistakes](https://hackernoon.com/how-to-handle-ec2-credentials-best-practices-and-common-mistakes-km303354)
-![](https://cdn.hackernoon.com/images/5NZWyPc47pMbzpEcMC8q4ylcm6l1-059n33vl.jpeg)
-When using the AWS CLI on an EC2 instance for accessing AWS resources like your S3 buckets(S3 is a storage provider on AWS), you might encounter a permission error and prompted to run aws configure as shown here:
 
 ### [114. Getting Down and Dirty with Metric-based Alerting for AWS Lambda](https://hackernoon.com/getting-down-and-dirty-with-metric-based-alerting-for-aws-lambda)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-c693lc3.jpeg)
 Discover how to set up metric-based alarms for AWS Lambda functions. See how to do it in CloudWatch vs Dashbird.
 
-### [115. 6 Common DynamoDB Issues in 2022](https://hackernoon.com/6-common-dynamodb-issues-in-2022)
+### [115. How to Handle EC2 Credentials: Best Practices and Common Mistakes](https://hackernoon.com/how-to-handle-ec2-credentials-best-practices-and-common-mistakes-km303354)
+![](https://cdn.hackernoon.com/images/5NZWyPc47pMbzpEcMC8q4ylcm6l1-059n33vl.jpeg)
+When using the AWS CLI on an EC2 instance for accessing AWS resources like your S3 buckets(S3 is a storage provider on AWS), you might encounter a permission error and prompted to run aws configure as shown here:
+
+### [116. 6 Common DynamoDB Issues in 2022](https://hackernoon.com/6-common-dynamodb-issues-in-2022)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-5c93l3q.jpeg)
 It’s expected that developers face many of the same issues when starting their NoSQL journey with DynamoDB. This article might clear things up a bit.
 
-### [116. Redefining Serverless: A Change in Approach and Architecture](https://hackernoon.com/redefining-serverless-a-change-in-approach-and-architecture-0v5s37zt)
+### [117. Redefining Serverless: A Change in Approach and Architecture](https://hackernoon.com/redefining-serverless-a-change-in-approach-and-architecture-0v5s37zt)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-6lz3245.jpeg)
 Serverless is a fantastic way of building applications, but there is a lot more to consider than simply Lambda functions.
 
-### [117. Stop Using AWS (Until You Actually Need It) ](https://hackernoon.com/stop-using-aws-until-you-actually-need-it)
+### [118. Stop Using AWS (Until You Actually Need It) ](https://hackernoon.com/stop-using-aws-until-you-actually-need-it)
 ![](https://cdn.hackernoon.com/images/an-overcomplicated-computer-setup-b0k04j0c5q0e6b82y7xzdp9x.png)
 Avoid AWS overcomplication. Build your MVP fast using simple, cost-effective infrastructure that scales when your product and users grow.
 

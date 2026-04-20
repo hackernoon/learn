@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [flutter](https://hackernoon.com/tagged/flutter)
+### Let's learn about [Flutter](https://hackernoon.com/tagged/flutter) via these 192 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Google's open source UI development kit, used to develop cross platform applications.
 
 ### [1. Top 25 Flutter Mobile App Templates in 2020](https://hackernoon.com/top-25-flutter-mobile-app-templates-in-2020-dze53uq4)
@@ -139,13 +141,13 @@ You like Flutter, but then you know that Flutter is not well optimized and has s
 ![](https://cdn.hackernoon.com/images/mjVy8NoBG6dO0Aewhy3sHk9nAo63-pzh3hg1.jpeg)
 Here are 7 best hybrid mobile app development frameworks you should start using todayto make mobile app development easier, faster, and more efficient.
 
-### [34. How to Write Fewer Lines of Code with the OpenAPI Generator](https://hackernoon.com/how-to-write-fewer-lines-of-code-with-the-openapi-generator)
-![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-7r036we.png)
-Hey! I'll start with the main thing - I'm a lazy person. I'm a very, very lazy developer. How can I get rid of the need to write at least part of the code?
-
-### [35. Optimizing Flutter Performance: A Guide to (Async)NotifierProvider, Freezed, and Riverpod Code Gen](https://hackernoon.com/optimizing-flutter-performance-a-guide-to-asyncnotifierprovider-freezed-and-riverpod-code-gen)
+### [34. Optimizing Flutter Performance: A Guide to (Async)NotifierProvider, Freezed, and Riverpod Code Gen](https://hackernoon.com/optimizing-flutter-performance-a-guide-to-asyncnotifierprovider-freezed-and-riverpod-code-gen)
 ![](https://cdn.hackernoon.com/images/7MHXxJGH4YduN32lsrzKF5xaGq52-jh930i3.jpeg)
 iscover how to turbocharge your Flutter app's performance with AsyncNotifierProvider and NotifierProvider from Riverpod. 
+
+### [35. How to Write Fewer Lines of Code with the OpenAPI Generator](https://hackernoon.com/how-to-write-fewer-lines-of-code-with-the-openapi-generator)
+![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-7r036we.png)
+Hey! I'll start with the main thing - I'm a lazy person. I'm a very, very lazy developer. How can I get rid of the need to write at least part of the code?
 
 ### [36. How to Save and Read Data from Shared Preferences in Flutter](https://hackernoon.com/how-to-save-and-read-data-from-shared-preferences-in-flutter-4o2y3zyx)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fmdeb7iZ37zWCHrdolR9BtE8ej8f1-8n3e3ts8.jpeg?alt=media&token=48debb99-157f-4a1b-b87f-556745225c41)
@@ -229,13 +231,13 @@ Handling network requests and integrating APIs like in a Flutter app. Creating a
 ![](https://images.unsplash.com/photo-1559526324-593bc073d938?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Hello guys, you might have heard about flutter framework from Google for mobile app development. It allows you to develop native mobile apps for both Android and iOS apps using a single source code. 
 
-### [56. Creating and Releasing an App with Flutter: Part II](https://hackernoon.com/creating-and-releasing-an-app-with-flutter-part-ii)
-![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-2b93ks5.jpeg)
-This article is the second in a series on creating applications with Flutter. 
-
-### [57. Designing Your Level in Flame](https://hackernoon.com/designing-your-level-in-flame)
+### [56. Designing Your Level in Flame](https://hackernoon.com/designing-your-level-in-flame)
 ![](https://cdn.hackernoon.com/images/q82cYE2oiKY1cvKfxTIHeNhiEfv2-pjg3pqp.jpeg)
 Four parts tutorial on how to build a simple platformer game using the Flutter Flame engine.
+
+### [57. Creating and Releasing an App with Flutter: Part II](https://hackernoon.com/creating-and-releasing-an-app-with-flutter-part-ii)
+![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-2b93ks5.jpeg)
+This article is the second in a series on creating applications with Flutter. 
 
 ### [58. Introducing InAppWebView Plugin For Flutter](https://hackernoon.com/introducing-inappwebview-plugin-for-flutter-zo3c3uah)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1CxqJn6ZKNa9OICksQDjpIHf4gc2-dmk3uxl.jpeg?alt=media&token=8fd1e3f8-7890-474f-b853-13212ffa653f)
@@ -245,21 +247,21 @@ What is flutter_inappwebview ? It’s a Flutter plugin that allows you to inco
 ![](https://cdn.hackernoon.com/images/vB4XG5ewCRPaWoVKZAsuA6LiSaG3-zqa36mo.jpeg)
 We’ll start with the bigger picture of Isolates and see what does it really mean and go deep down and piece all the parts together
 
-### [60. Introducing Nanc: A Backend-Agnostic CMS Perfect for Flutter Apps](https://hackernoon.com/introducing-nanc-a-backend-agnostic-cms-perfect-for-flutter-apps)
-![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-fga3l94.jpeg)
-Nanc is a new kind of CMS for Flutter applications, but not only for them. It is a backend-agnostic CMS that doesn't pull its own backend. 
-
-### [61. How to Create a Server Driven UI Engine for Flutter](https://hackernoon.com/how-to-create-a-server-driven-ui-engine-for-flutter)
+### [60. How to Create a Server Driven UI Engine for Flutter](https://hackernoon.com/how-to-create-a-server-driven-ui-engine-for-flutter)
 ![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-ywa33zf.jpeg)
 Nui is a new and promising Server Driven UI engine for Flutter applications.
 
-### [62. Top 10 Flutter Benefits For Application Development](https://hackernoon.com/top-10-flutter-benefits-for-application-development-m15o3yu3)
-![](https://cdn.hackernoon.com/images/ra6ud3y30.jpg)
-What is Flutter?
+### [61. Introducing Nanc: A Backend-Agnostic CMS Perfect for Flutter Apps](https://hackernoon.com/introducing-nanc-a-backend-agnostic-cms-perfect-for-flutter-apps)
+![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-fga3l94.jpeg)
+Nanc is a new kind of CMS for Flutter applications, but not only for them. It is a backend-agnostic CMS that doesn't pull its own backend. 
 
-### [63. Explaining Clean Architecture in Flutter [Part 2: Practice]](https://hackernoon.com/explaining-clean-architecture-in-flutter-part-2-practice)
+### [62. Explaining Clean Architecture in Flutter [Part 2: Practice]](https://hackernoon.com/explaining-clean-architecture-in-flutter-part-2-practice)
 ![](https://cdn.hackernoon.com/images/o7di6srkiYgC0zRYYUawjHy1wFf2-t4439l7.jpeg)
 Part two of an explanation on creating Clean Architecture in Flutter with the development of a simple app that works with a NASA API for a demonstration.
+
+### [63. Top 10 Flutter Benefits For Application Development](https://hackernoon.com/top-10-flutter-benefits-for-application-development-m15o3yu3)
+![](https://cdn.hackernoon.com/images/ra6ud3y30.jpg)
+What is Flutter?
 
 ### [64. Creating Webview Application with Flutter](https://hackernoon.com/flutter-webview-application-shubham-narkhede-shubham-narkhede-dec-13-2-min-read-source-code-of-t-yza732yr)
 ![](https://images.unsplash.com/photo-1563941811030-aecd7b37eb66?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -273,13 +275,13 @@ Explanation of how Google's Flutter UI startup app was debugged and made to work
 ![](https://cdn.hackernoon.com/images/LEymvvrtvURIHWScxGtFiYzJjRf2-4u93iri.png)
 Software applications market has got a thriving and competitive nature – and it’s no wonder. Mobile, desktop, web, embedded applications help businesses make their services more accessible for the users. Surely, every service provider strives for winning a larger audience of users and keeping the quality at a high-level at the same time. What can make it possible? This is cross-platform development.
 
-### [67. SOLID Principles Using Dart: Everything You Need to Know](https://hackernoon.com/solid-principles-using-dart-everything-you-need-to-know)
-![](https://cdn.hackernoon.com/images/EjgznUKbyJdwMkGZ93MICTtGWX12-1m835zt.jpeg)
-OLID principles provide a time-tested blueprint for achieving this in object-oriented programming languages like Dart. Let’s explore the principles
-
-### [68. Using Collision Detection to Make Your Game Character Jump](https://hackernoon.com/using-collision-detection-to-make-your-game-character-jump)
+### [67. Using Collision Detection to Make Your Game Character Jump](https://hackernoon.com/using-collision-detection-to-make-your-game-character-jump)
 ![](https://cdn.hackernoon.com/images/q82cYE2oiKY1cvKfxTIHeNhiEfv2-1mf3p4l.jpeg)
 Four parts tutorial on how to build a simple platformer game using the Flutter Flame engine.
+
+### [68. SOLID Principles Using Dart: Everything You Need to Know](https://hackernoon.com/solid-principles-using-dart-everything-you-need-to-know)
+![](https://cdn.hackernoon.com/images/EjgznUKbyJdwMkGZ93MICTtGWX12-1m835zt.jpeg)
+OLID principles provide a time-tested blueprint for achieving this in object-oriented programming languages like Dart. Let’s explore the principles
 
 ### [69. How to Add a HUD to Your Flame Game](https://hackernoon.com/how-to-add-a-hud-to-your-flame-game)
 ![](https://cdn.hackernoon.com/images/q82cYE2oiKY1cvKfxTIHeNhiEfv2-5qd3p2t.jpeg)
@@ -321,13 +323,13 @@ Learn how to automate Flutter apps with Appium for native mobile app testing.
 ![](https://cdn.hackernoon.com/images/n9rcsZwzJUXv36kuvBpfwYkm2ev1-3431258l.jpeg)
 With the incredible rise of mobile application development over the last decade, iOS and Android have come ahead as the leading operating systems. 
 
-### [79. How to Create a High-Performing QR Code Scanner in Flutter](https://hackernoon.com/how-to-create-a-high-performing-qr-code-scanner-in-flutter)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-u493p58.jpeg)
-In this article, I will take you on a journey through the process of creating a scanner that is not only functional but also visually stunning.
-
-### [80. How to Implement a Dynamic Authentication Form in Flutter](https://hackernoon.com/how-to-implement-a-dynamic-authentication-form-in-flutter)
+### [79. How to Implement a Dynamic Authentication Form in Flutter](https://hackernoon.com/how-to-implement-a-dynamic-authentication-form-in-flutter)
 ![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-1q92oew.jpeg)
 Create a dynamic Input widget, one for both sign-in and registration, add some animation, and validate the user input in Flutter.
+
+### [80. How to Create a High-Performing QR Code Scanner in Flutter](https://hackernoon.com/how-to-create-a-high-performing-qr-code-scanner-in-flutter)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-u493p58.jpeg)
+In this article, I will take you on a journey through the process of creating a scanner that is not only functional but also visually stunning.
 
 ### [81. Flutter vs. React Native - What to Choose in 2021?](https://hackernoon.com/flutter-vs-react-native-what-to-choose-in-2021-ik1n35ta)
 ![](https://cdn.hackernoon.com/images/QRGNf4u0yOPOCrZZP30RqX23xeG2-dk573349.jpeg)
@@ -353,13 +355,13 @@ Analysis of the potential impacts of flutter framework in the cross platform gam
 ![](https://cdn.hackernoon.com/images/thyPS9oBcySSXz6sRsbb8YpapGn1-je93b82.png)
 Both frameworks have their strengths, and the best choice will depend on the particular requirements of your project and the expertise of your development team.
 
-### [87. Flutter App Development Trends 2020](https://hackernoon.com/flutter-app-development-trends-2020-ve143tjk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FodBIUzFaxwOT7kFCmyDVX0CcGrs2-hn4r3uei.jpeg?alt=media&token=d77e4e71-5b2d-4c76-8911-bdb804008744)
-As the new decade dawns upon us, a slew of technologies has been making a lot of noise to grab the developers’ attention. While native app development is going strong, the trade winds are now blowing towards going cross-platform.
-
-### [88. Access User Location with Permission Handler in Flutter](https://hackernoon.com/access-location-with-permission-handler-in-flutter)
+### [87. Access User Location with Permission Handler in Flutter](https://hackernoon.com/access-location-with-permission-handler-in-flutter)
 ![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-n192pzr.jpeg)
 Use location and permission handler packages to access user location. With that location fetch different location information from google maps.
+
+### [88. Flutter App Development Trends 2020](https://hackernoon.com/flutter-app-development-trends-2020-ve143tjk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FodBIUzFaxwOT7kFCmyDVX0CcGrs2-hn4r3uei.jpeg?alt=media&token=d77e4e71-5b2d-4c76-8911-bdb804008744)
+As the new decade dawns upon us, a slew of technologies has been making a lot of noise to grab the developers’ attention. While native app development is going strong, the trade winds are now blowing towards going cross-platform.
 
 ### [89. Rive Animation for Flutter: A Beginner's Guide to Building Stunning Animations with Ease!](https://hackernoon.com/rive-animation-for-flutter-a-beginners-guide-to-building-stunning-animations-with-ease)
 ![](https://cdn.hackernoon.com/images/7MHXxJGH4YduN32lsrzKF5xaGq52-s093v4u.gif.webp)
@@ -401,17 +403,17 @@ We’re big fans here at Evrone of Google’s Flutter SDK for building An
 ![](https://cdn.hackernoon.com/images/anAHU0i4wEUus8EBl2strppNzzk1-njul34pi.jpeg)
 How to make flutter native app in velo by wix
 
-### [99. Creating and Releasing an App with Flutter: Part I](https://hackernoon.com/creating-and-releasing-an-app-with-flutter-part-i)
+### [99. Firebase Played Us!](https://hackernoon.com/firebase-played-us)
+![](https://cdn.hackernoon.com/images/cGfg9TlH1bgGje7eIzVSvxyMCMn2-gx92khd.jpeg)
+My email had the solution all this time! Upon checking my email after days of stagnation on this issue, I found a notification email from Firebase.
+
+### [100. Creating and Releasing an App with Flutter: Part I](https://hackernoon.com/creating-and-releasing-an-app-with-flutter-part-i)
 ![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-hf93kf3.png)
 This is the first article in a series in which we will create an application from scratch and publish it on different platforms.
 
-### [100. The Top Five Frameworks For Developing Android Apps](https://hackernoon.com/the-top-five-frameworks-for-developing-android-apps)
+### [101. The Top Five Frameworks For Developing Android Apps](https://hackernoon.com/the-top-five-frameworks-for-developing-android-apps)
 ![](https://cdn.hackernoon.com/images/pPlHbtxam1csdO9PX26LdzqMbv42-1c92ipm.jpeg)
 Understanding Android development frameworks will help you pick the right one for your mobile app, letting you make better decisions on how to develop.
-
-### [101. Firebase Played Us!](https://hackernoon.com/firebase-played-us)
-![](https://cdn.hackernoon.com/images/cGfg9TlH1bgGje7eIzVSvxyMCMn2-gx92khd.jpeg)
-My email had the solution all this time! Upon checking my email after days of stagnation on this issue, I found a notification email from Firebase.
 
 ### [102. Flutter Guide to Building Apps and Deploying them to iOS (without Mac)](https://hackernoon.com/flutter-guide-to-building-apps-and-deploy-them-to-ios-without-mac)
 ![](https://cdn.hackernoon.com/images/EirlZ30jtYfcFYd5vCeCSjGlSK23-pb034sb.jpeg)
@@ -429,13 +431,13 @@ Wouldn't it be cool to build a game with Flutter Flame game engine? From this tu
 ![](https://cdn.hackernoon.com/images/l0g13y48.jpg)
 Built-in, automated SSL, custom domains, new authentication features, dark mode, and more! After a lot of work and anticipation from our developers’ community, I am really excited to announce the release of version 0.5 of the Appwrite back-end server.
 
-### [106. An Open-Source Firebase Alternative - Introducing Appwrite 0.7](https://hackernoon.com/an-open-source-firebase-alternative-introducing-appwrite-07-x0x33gz)
-![](https://cdn.hackernoon.com/images/PS8hMJYbctWKb61wkjdO9AWa6fe2-bm1a33ar.jpeg)
-We’re excited to announce the release of Appwrite 0.7, our biggest ever release. The new Appwrite version includes over 100 updates
-
-### [107. 3 Best Beginner Flutter Courses to Start With](https://hackernoon.com/3-best-beginner-flutter-courses-to-start-with-qe3j33cq)
+### [106. 3 Best Beginner Flutter Courses to Start With](https://hackernoon.com/3-best-beginner-flutter-courses-to-start-with-qe3j33cq)
 ![](https://cdn.hackernoon.com/images/73P9pi12LrYzJpTGaqI6mlQ9ulR2-302o32qg.jpeg)
 Recommended Flutter courses to take to start your journey of becoming a Flutter developer, based on my own experience by taking the courses myself.
+
+### [107. An Open-Source Firebase Alternative - Introducing Appwrite 0.7](https://hackernoon.com/an-open-source-firebase-alternative-introducing-appwrite-07-x0x33gz)
+![](https://cdn.hackernoon.com/images/PS8hMJYbctWKb61wkjdO9AWa6fe2-bm1a33ar.jpeg)
+We’re excited to announce the release of Appwrite 0.7, our biggest ever release. The new Appwrite version includes over 100 updates
 
 ### [108. Explaining Clean Architecture in Flutter Applications [Part 1: Theory]](https://hackernoon.com/explaining-clean-architecture-in-flutter-applications-part-1-theory)
 ![](https://cdn.hackernoon.com/images/o7di6srkiYgC0zRYYUawjHy1wFf2-okee39ck.jpeg)
@@ -457,13 +459,13 @@ Create an onboard screen with smooth animations in Flutter for both Android and 
 ![](https://cdn.filestackcontent.com/yapkAlG2SKmB4janCVLq)
 What we’re building
 
-### [113. Dart: What Are Mixins and What Can I Use Them For?](https://hackernoon.com/dart-what-are-mixins-and-what-can-i-use-them-for-ujal31is)
-![](https://cdn.hackernoon.com/images/FHMKj18iQMZHWCSp5CJj4R2Qd0i1-i92v3ev1.gif)
-From my time with Dart, one topic which I feel is a little tricky is mixins. For Java developers, it is a completely new concept to learn.
-
-### [114. A/B Testing In Flutter With Statsig](https://hackernoon.com/ab-testing-in-flutter-with-statsig)
+### [113. A/B Testing In Flutter With Statsig](https://hackernoon.com/ab-testing-in-flutter-with-statsig)
 ![](https://cdn.hackernoon.com/images/KxRkTgv1gpSPa9SHlryZYBtdbac2-jad3v7g.png)
 Leverage Statsig to build Flutter apps FAST!
+
+### [114. Dart: What Are Mixins and What Can I Use Them For?](https://hackernoon.com/dart-what-are-mixins-and-what-can-i-use-them-for-ujal31is)
+![](https://cdn.hackernoon.com/images/FHMKj18iQMZHWCSp5CJj4R2Qd0i1-i92v3ev1.gif)
+From my time with Dart, one topic which I feel is a little tricky is mixins. For Java developers, it is a completely new concept to learn.
 
 ### [115. How to Define a Flutter Theme?](https://hackernoon.com/how-to-define-a-flutter-theme)
 ![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-hk92ow8.jpeg)
@@ -497,13 +499,13 @@ Announcing Appwrite 0.8 with JWT authentication, ARM support, Anonymous Login
 ![](https://cdn.hackernoon.com/images/D0OBb8CGuBNP82rV561sQ8t51Gp1-4783woy.jpeg)
 As a follow up to my article explaining how to create communication bridges in Android and iOS, I thought it might be a good idea to do the same for Flutter. While it may seem like this is a straightforward affair, you’ll soon realize it takes a bit of work to get this functionality working.
 
-### [123. Google Launches Flutter 2.0: Let's Dig Into Its Basics](https://hackernoon.com/google-launches-flutter-20-lets-dig-into-its-basics-yay3341)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-xvo3346.jpeg)
-This article will explore all the new widgets and added features of Flutter 2.0. You will get a more detailed understanding of the Flutter 2.0 releases.
-
-### [124. A Guide to Creating Fun User Polls and Surveys With QuickBlox in Your Flutter App](https://hackernoon.com/a-guide-to-creating-fun-user-polls-and-surveys-with-quickblox-in-your-flutter-app)
+### [123. A Guide to Creating Fun User Polls and Surveys With QuickBlox in Your Flutter App](https://hackernoon.com/a-guide-to-creating-fun-user-polls-and-surveys-with-quickblox-in-your-flutter-app)
 ![](https://cdn.hackernoon.com/images/NVnLl8J6S2fKhSABWDLGrB376Vi1-5gb3suq.jpeg)
 In this article, we’ll learn how we can utilize the QuickBlox SDK to create polls and surveys in your Flutter chat applications.
+
+### [124. Google Launches Flutter 2.0: Let's Dig Into Its Basics](https://hackernoon.com/google-launches-flutter-20-lets-dig-into-its-basics-yay3341)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-xvo3346.jpeg)
+This article will explore all the new widgets and added features of Flutter 2.0. You will get a more detailed understanding of the Flutter 2.0 releases.
 
 ### [125. Introducing Reactive Echarts Flutter Widget For Your Application](https://hackernoon.com/introducing-reactive-echarts-flutter-widget-for-your-application-ikji36ln)
 ![](https://cdn.hackernoon.com/drafts/csit36ua.png)
@@ -513,57 +515,57 @@ Introducing the development work of a reactive Echarts Flutter Widget:
 ![](https://cdn.hackernoon.com/drafts/lq40336dx.png)
 How do you smoothly display numbers in frontend? In this article, we summarized some practical principles, introduced a tool library - Number Display, and analyzed it's source code.
 
-### [127. How to Design Screens & Widgets In Flutter](https://hackernoon.com/how-to-design-screens-and-widgets-in-flutter)
-![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-3b92p1z.jpeg)
-In this blog, we will create new card buttons, that'll be displayed in the grid view. Each button UI will take the user to a sub-page like Events, Temples, etc.
-
-### [128. Highlights Of Flutter 3.3 Released During Flutter Vikings Conference](https://hackernoon.com/highlights-of-flutter-33-released-during-flutter-vikings-conference)
-![](https://cdn.hackernoon.com/images/hiUZ3kTdzPTGnBr5D5Gh5tfoK4h1-ubb3oqf.jpeg)
-In the name of God, this year’s third release of Flutter 3.3 is here.
-
-### [129. The Grammar of Graphics](https://hackernoon.com/the-grammar-of-graphics)
-![](https://cdn.hackernoon.com/images/tQwc4Btf5APUdWJPC4xGAJ5T9UE2-cnb37yj.jpeg)
-This work displays the flexibility and diversity of the Grammar of Graphics, and also shows beginners the basic concepts of the Grammar of Graphics.
-
-### [130. How to Connect Firebase to Flutter SDK on Cloud and Local Emulator](https://hackernoon.com/how-to-connect-firebase-to-flutter-sdk-on-cloud-and-local-emulator)
-![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-wr92o6u.jpeg)
-Find out how to connect Firebase to Flutter SDK on clouds and on a local emulators suite. Connect  Firestorage, Firestore, and Functions with Flutter SDK.
-
-### [131. Why we Chose Flutter as One of Our Cross-platform Development Toolkits](https://hackernoon.com/why-we-chose-flutter-as-one-of-our-cross-platform-development-toolkits-wb2w3z52)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHxX5zpJrSjbKoBatGSx5asOP36H2-rjj3w87.jpeg?alt=media&token=ccb6dbe5-fa7c-473c-b4b0-77a600788474)
-“Please, I’ve already heard all the marketing stuff from other agencies. Could you tell me how exactly Flutter can ensure the stability and high performance of my app?” – said the client at the very beginning of our first meeting.
-
-### [132. Google Releases Flutter 2 with Support for Different Platforms](https://hackernoon.com/google-releases-flutter-2-with-support-for-different-platforms-d31k35wv)
-![](https://cdn.hackernoon.com/images/b28wtN6DiHSHW2ckHqm7wnSe16t2-cm1d33tj.jpeg)
-Flutter 2 is opening endless possibilities for application development. Have a look at how Flutter directly benefits businesses.
-
-### [133. Creating Staggered Animation in Flutter: A Micro-Interactions Guide](https://hackernoon.com/creating-staggered-animation-in-flutter-a-micro-interactions-guide)
-![](https://cdn.hackernoon.com/images/7MHXxJGH4YduN32lsrzKF5xaGq52-pq832ra.png)
-In this article, we will be creating a staggered animation that animates the children in a column widget when that page is swiped.
-
-### [134. Flutter Dependency Injection – Complete Guide Using GetIt](https://hackernoon.com/flutter-dependency-injection-complete-guide-using-getit)
+### [127. Flutter Dependency Injection – Complete Guide Using GetIt](https://hackernoon.com/flutter-dependency-injection-complete-guide-using-getit)
 ![](https://cdn.hackernoon.com/images/KQSiU0nufhcyDb0h8zAs4pA3Nev1-4o03axl.jpeg)
 Learn what dependency and dependency injection is and common dependency injection methods
 
-### [135. Flutter vs. React Native: What App Developers Should Know About Cross-Platform Mobile Development](https://hackernoon.com/flutter-vs-react-native-what-app-developers-should-know-about-cross-platform-mobile-development-1zak32n1)
-![](https://cdn.hackernoon.com/drafts/xp1gm3ypo.png)
-Bringing a spirit of novelty in the mobile development industry just recently, hybrid app development has become one of the most popular and fast-growing trends today. Now, it is considered as one of the most effective choices by many app developers and business owners. 
+### [128. How to Design Screens & Widgets In Flutter](https://hackernoon.com/how-to-design-screens-and-widgets-in-flutter)
+![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-3b92p1z.jpeg)
+In this blog, we will create new card buttons, that'll be displayed in the grid view. Each button UI will take the user to a sub-page like Events, Temples, etc.
 
-### [136. Flutter Project: Building the Threads UI Using Flutter](https://hackernoon.com/flutter-project-building-the-threads-ui-using-flutter)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ab92gmi.jpeg)
-In this article, we will be Building Threads UI Using Flutter.
+### [129. Highlights Of Flutter 3.3 Released During Flutter Vikings Conference](https://hackernoon.com/highlights-of-flutter-33-released-during-flutter-vikings-conference)
+![](https://cdn.hackernoon.com/images/hiUZ3kTdzPTGnBr5D5Gh5tfoK4h1-ubb3oqf.jpeg)
+In the name of God, this year’s third release of Flutter 3.3 is here.
 
-### [137. Improving the User Experience in Flutter](https://hackernoon.com/improving-the-user-experience-in-flutter)
-![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-jy92puj.jpeg)
-Improve user experience with feedback from Snack Bars, Progress Indicator, and Alert Dialog Boxes In Flutter.
+### [130. The Grammar of Graphics](https://hackernoon.com/the-grammar-of-graphics)
+![](https://cdn.hackernoon.com/images/tQwc4Btf5APUdWJPC4xGAJ5T9UE2-cnb37yj.jpeg)
+This work displays the flexibility and diversity of the Grammar of Graphics, and also shows beginners the basic concepts of the Grammar of Graphics.
 
-### [138.  Using the New Google ML Kit Document Scanner for Flutter Apps](https://hackernoon.com/using-the-new-google-ml-kit-document-scanner-for-flutter-apps)
+### [131. How to Connect Firebase to Flutter SDK on Cloud and Local Emulator](https://hackernoon.com/how-to-connect-firebase-to-flutter-sdk-on-cloud-and-local-emulator)
+![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-wr92o6u.jpeg)
+Find out how to connect Firebase to Flutter SDK on clouds and on a local emulators suite. Connect  Firestorage, Firestore, and Functions with Flutter SDK.
+
+### [132. Why we Chose Flutter as One of Our Cross-platform Development Toolkits](https://hackernoon.com/why-we-chose-flutter-as-one-of-our-cross-platform-development-toolkits-wb2w3z52)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHxX5zpJrSjbKoBatGSx5asOP36H2-rjj3w87.jpeg?alt=media&token=ccb6dbe5-fa7c-473c-b4b0-77a600788474)
+“Please, I’ve already heard all the marketing stuff from other agencies. Could you tell me how exactly Flutter can ensure the stability and high performance of my app?” – said the client at the very beginning of our first meeting.
+
+### [133. Google Releases Flutter 2 with Support for Different Platforms](https://hackernoon.com/google-releases-flutter-2-with-support-for-different-platforms-d31k35wv)
+![](https://cdn.hackernoon.com/images/b28wtN6DiHSHW2ckHqm7wnSe16t2-cm1d33tj.jpeg)
+Flutter 2 is opening endless possibilities for application development. Have a look at how Flutter directly benefits businesses.
+
+### [134. Creating Staggered Animation in Flutter: A Micro-Interactions Guide](https://hackernoon.com/creating-staggered-animation-in-flutter-a-micro-interactions-guide)
+![](https://cdn.hackernoon.com/images/7MHXxJGH4YduN32lsrzKF5xaGq52-pq832ra.png)
+In this article, we will be creating a staggered animation that animates the children in a column widget when that page is swiped.
+
+### [135.  Using the New Google ML Kit Document Scanner for Flutter Apps](https://hackernoon.com/using-the-new-google-ml-kit-document-scanner-for-flutter-apps)
 ![](https://cdn.hackernoon.com/images/Rbb8wVGKB4dgfV0jb8NOb0bOaLx1-7ba3tek.jpeg)
 The Document Scanner is a new feature in the Google MLKit Flutter package. It allows users to convert physical documents into digital formats.
 
-### [139. Cross-Platform App Development – Is Flutter a Worthy Choice?](https://hackernoon.com/cross-platform-app-development---is-flutter-a-worthy-choice)
+### [136. Flutter vs. React Native: What App Developers Should Know About Cross-Platform Mobile Development](https://hackernoon.com/flutter-vs-react-native-what-app-developers-should-know-about-cross-platform-mobile-development-1zak32n1)
+![](https://cdn.hackernoon.com/drafts/xp1gm3ypo.png)
+Bringing a spirit of novelty in the mobile development industry just recently, hybrid app development has become one of the most popular and fast-growing trends today. Now, it is considered as one of the most effective choices by many app developers and business owners. 
+
+### [137. Cross-Platform App Development – Is Flutter a Worthy Choice?](https://hackernoon.com/cross-platform-app-development---is-flutter-a-worthy-choice)
 ![](https://cdn.hackernoon.com/images/GTa5ej5plAVtWsiam81ThId9crP2-fq93vpq.jpeg)
 Get answers to 'Is Flutter a Worthy Choice for your app development?' Read this detailed guide on Flutter for cross-platform mobile app development.
+
+### [138. Flutter Project: Building the Threads UI Using Flutter](https://hackernoon.com/flutter-project-building-the-threads-ui-using-flutter)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ab92gmi.jpeg)
+In this article, we will be Building Threads UI Using Flutter.
+
+### [139. Improving the User Experience in Flutter](https://hackernoon.com/improving-the-user-experience-in-flutter)
+![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-jy92puj.jpeg)
+Improve user experience with feedback from Snack Bars, Progress Indicator, and Alert Dialog Boxes In Flutter.
 
 ### [140. 64 Stories To Learn About Firebase](https://hackernoon.com/64-stories-to-learn-about-firebase)
 ![](https://cdn.hackernoon.com/images/github/firebase-545.png)
@@ -577,13 +579,13 @@ The aim of this article is to provide the readers with the full information on t
 ![](https://cdn.hackernoon.com/images/7v4t3hlf.jpg)
 I've had the opportunity to learn and experience what Flutter is capable of. I've read a lot of articles about it, as well as my hands dirty and I've built a few little Flutter apps. In this post, I would like to send you a taste into what Flutter is with a list of questions and answers, assuming that you have at least some of these questions on your mind, so I can address them.
 
-### [143. What is Flutter and How Does it Work?](https://hackernoon.com/what-is-flutter-and-how-does-it-work-lh49370l)
-![](https://cdn.hackernoon.com/images/dPd7bYD33lhJ79s17MKV9CqKNbX2-hz31735nu.gif)
-What is Flutter?  What are its pros and cons?  Why is it worth learning about and using?  How does it work?  How does it compare to its competition (like Xamari
-
-### [144. How to Cut Down the Size of Android Apps During Development](https://hackernoon.com/9-ways-to-reduce-android-app-size-during-android-app-development)
+### [143. How to Cut Down the Size of Android Apps During Development](https://hackernoon.com/9-ways-to-reduce-android-app-size-during-android-app-development)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-va93y49.jpeg)
 ndroid App size is one of the biggest factors that can affect your app’s install and uninstall metrics.
+
+### [144. What is Flutter and How Does it Work?](https://hackernoon.com/what-is-flutter-and-how-does-it-work-lh49370l)
+![](https://cdn.hackernoon.com/images/dPd7bYD33lhJ79s17MKV9CqKNbX2-hz31735nu.gif)
+What is Flutter?  What are its pros and cons?  Why is it worth learning about and using?  How does it work?  How does it compare to its competition (like Xamari
 
 ### [145. Meet the Writer: Hacker Noon Contributor Mike Alfa is Excited About Neural Networks](https://hackernoon.com/meet-the-writer-hacker-noon-contributor-mike-alfa-is-excited-about-neural-networks)
 ![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-g793kux.jpeg)
@@ -601,13 +603,13 @@ Whenever the company decides to make a mobile application, the most important t
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-ybb3n7x.jpeg)
 This article will explore machine learning and its impact on mobile apps.
 
-### [149. A Flutter Data Visualization Library Based on a Grammar of Graphics](https://hackernoon.com/a-flutter-data-visualization-library-based-on-a-grammar-of-graphics-u32o3zwg)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtQwc4Btf5APUdWJPC4xGAJ5T9UE2-un93t7o.jpeg?alt=media&token=1756d6bc-f0c7-4aca-a3a9-fb61cfeb1e6f)
-Data visualization is a common but important part of application development. A good visualization library always makes it easier to build data visualization charts. But unfortunately, there is not yet a perfect visualization library in the Flutter community. The current candidates all have some unsatisfactoriness, such as:
-
-### [150. How to a Make Flutter Screen in 2 Minutes](https://hackernoon.com/how-to-a-make-flutter-screen-in-2-minutes)
+### [149. How to a Make Flutter Screen in 2 Minutes](https://hackernoon.com/how-to-a-make-flutter-screen-in-2-minutes)
 ![](https://cdn.hackernoon.com/images/Ry0vGbeiqbbNAwbLPBRkZrIZz2o2-ara2o8u.jpeg)
 I want to show you, how to generate a Flutter screen in a couple of minutes using Codis. 
+
+### [150. A Flutter Data Visualization Library Based on a Grammar of Graphics](https://hackernoon.com/a-flutter-data-visualization-library-based-on-a-grammar-of-graphics-u32o3zwg)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtQwc4Btf5APUdWJPC4xGAJ5T9UE2-un93t7o.jpeg?alt=media&token=1756d6bc-f0c7-4aca-a3a9-fb61cfeb1e6f)
+Data visualization is a common but important part of application development. A good visualization library always makes it easier to build data visualization charts. But unfortunately, there is not yet a perfect visualization library in the Flutter community. The current candidates all have some unsatisfactoriness, such as:
 
 ### [151. Developing Cross-platform Mobile Applications with Xamarin](https://hackernoon.com/developing-cross-platform-mobile-applications-with-xamarin)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-e4930w3.jpeg)
@@ -621,145 +623,145 @@ Xamarin is a cross-platform development tool that allows building truly cross-pl
 ![](https://cdn.hackernoon.com/images/T703s34ILQOXpSDyjPb7utfGtxm2-0f1531lz.jpeg)
 Dart is a robust language that provides easy coding, security options, and platform independence for a Flutter app (web and mobile-based, both).
 
-### [154. From Chaos to Order: Achieving Understanding of Algorithms Through Visualization](https://hackernoon.com/from-chaos-to-order-achieving-understanding-of-algorithms-through-visualization)
-![](https://cdn.hackernoon.com/images/y3uk89KMZnfiawpEREPict96IDp2-1da3p5x.jpeg)
-Mastering algorithms through flutter development and data visualization. 
-
-### [155. 10 Tips for Building a Successful MVP with Flutter](https://hackernoon.com/10-tips-for-building-a-successful-mvp-with-flutter)
+### [154. 10 Tips for Building a Successful MVP with Flutter](https://hackernoon.com/10-tips-for-building-a-successful-mvp-with-flutter)
 ![](https://cdn.hackernoon.com/images/wM5FpXWzMxfslkOOkQUdz7tsQG43-wh93kwn.jpeg)
 Explore 10 essential tips for building a successful MVP with Flutter: from understanding project requirements to leveraging unique features.
 
-### [156. React Native vs Flutter 2020: A Detailed Comparison](https://hackernoon.com/react-native-vs-flutter-2019-comparison-l23430da)
+### [155. From Chaos to Order: Achieving Understanding of Algorithms Through Visualization](https://hackernoon.com/from-chaos-to-order-achieving-understanding-of-algorithms-through-visualization)
+![](https://cdn.hackernoon.com/images/y3uk89KMZnfiawpEREPict96IDp2-1da3p5x.jpeg)
+Mastering algorithms through flutter development and data visualization. 
+
+### [156. Make Your Flutter App UI Dynamic: Server Driven UI In Flutter Explained With Example](https://hackernoon.com/make-your-flutter-app-ui-dynamic-server-driven-ui-in-flutter-explained-with-example)
+![](https://cdn.hackernoon.com/images/KQSiU0nufhcyDb0h8zAs4pA3Nev1-3p33ahq.jpeg)
+Integrate Server Driven UI or SDUI in you flutter projects to make your flutter app UI dynamic
+
+### [157. React Native vs Flutter 2020: A Detailed Comparison](https://hackernoon.com/react-native-vs-flutter-2019-comparison-l23430da)
 ![](https://cdn.hackernoon.com/images/b82t3012.jpg)
 
 
-### [157. React 18 new features](https://hackernoon.com/react-18-new-features)
+### [158. React 18 new features](https://hackernoon.com/react-18-new-features)
 ![]()
 New in React 18, New features in react 18
 
-### [158. Google I/O 2022: Key Announcements For Developers](https://hackernoon.com/google-io-2022-key-announcements-for-developers)
+### [159. Google I/O 2022: Key Announcements For Developers](https://hackernoon.com/google-io-2022-key-announcements-for-developers)
 ![](https://cdn.hackernoon.com/images/EirlZ30jtYfcFYd5vCeCSjGlSK23-4393kc7.jpeg)
 Google I/O 2022, Google’s annual developer conference, has just wrapped up. And it was huge! Check out the overview of mayor announcements and news.
 
-### [159. Publishing Flutter Windows Apps to the Microsoft Partner Center](https://hackernoon.com/publishing-flutter-windows-apps-to-the-microsoft-partner-center)
+### [160. Publishing Flutter Windows Apps to the Microsoft Partner Center](https://hackernoon.com/publishing-flutter-windows-apps-to-the-microsoft-partner-center)
 ![](https://cdn.hackernoon.com/images/EirlZ30jtYfcFYd5vCeCSjGlSK23-s603arg.jpeg)
 How to get your Flutter Windows Apps successfully published on the Microsoft Partner Center after they've been developed and are ready for distribution.
 
-### [160. What’s New in Cross-Platform App Development?](https://hackernoon.com/whats-new-in-cross-platform-app-development)
-![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-uqb2ehh.jpeg)
-Flutter takes over the market, React Native abandons the Bridge concept,  MAUI replaces Xamarin. Learn more about the top cross-platform app development trends.
-
-### [161. Make Your Flutter App UI Dynamic: Server Driven UI In Flutter Explained With Example](https://hackernoon.com/make-your-flutter-app-ui-dynamic-server-driven-ui-in-flutter-explained-with-example)
-![](https://cdn.hackernoon.com/images/KQSiU0nufhcyDb0h8zAs4pA3Nev1-3p33ahq.jpeg)
-Integrate Server Driven UI or SDUI in you flutter projects to make your flutter app UI dynamic
+### [161. Why Adding Firestore Slows Down Flutter iOS Builds — And How to Fix It](https://hackernoon.com/why-adding-firestore-slows-down-flutter-ios-builds-and-how-to-fix-it)
+![](https://cdn.hackernoon.com/images/KQSiU0nufhcyDb0h8zAs4pA3Nev1-q7039y6.jpeg)
+Cut Flutter iOS build time using a precompiled Firestore SDK. Simple Podfile tweak, massive speed boost.
 
 ### [162. 7 Mistakes To Avoid When Hiring An App Development Company](https://hackernoon.com/7-mistakes-to-avoid-when-hiring-an-app-development-company)
 ![](https://cdn.hackernoon.com/images/NU7ojXkwfCf1xyqnoQQNcjGyWzi2-bdb3kbr.png)
 Choosing the right app development company is critical to your project's success. Here are 7 mistakes you should avoid while hiring a development partner.
 
-### [163. Creating the YouTube Subscribe Button Animation in Flutter](https://hackernoon.com/creating-the-youtube-subscribe-button-animation-in-flutter)
+### [163. What’s New in Cross-Platform App Development?](https://hackernoon.com/whats-new-in-cross-platform-app-development)
+![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-uqb2ehh.jpeg)
+Flutter takes over the market, React Native abandons the Bridge concept,  MAUI replaces Xamarin. Learn more about the top cross-platform app development trends.
+
+### [164. Creating the YouTube Subscribe Button Animation in Flutter](https://hackernoon.com/creating-the-youtube-subscribe-button-animation-in-flutter)
 ![](https://cdn.hackernoon.com/images/m7D4IDHxAKbDzMYP8u2eMWhKsPi1-wcb39be.jpeg)
 Animations are a reliable way of enhancing your app's UX. Let's learn how to build the YouTube subscribe button animation using Flutter.
 
-### [164. Why Adding Firestore Slows Down Flutter iOS Builds — And How to Fix It](https://hackernoon.com/why-adding-firestore-slows-down-flutter-ios-builds-and-how-to-fix-it)
-![](https://cdn.hackernoon.com/images/KQSiU0nufhcyDb0h8zAs4pA3Nev1-q7039y6.jpeg)
-Cut Flutter iOS build time using a precompiled Firestore SDK. Simple Podfile tweak, massive speed boost.
-
-### [165. Appwrite 0.6 is Live with Full Flutter Support](https://hackernoon.com/appwrite-06-is-live-with-full-flutter-support-5g8p3zkv)
-![](https://cdn.hackernoon.com/images/cx7a3v59.jpg)
-We are incredibly excited to announce the release of Appwrite 0.6. The new Appwrite version is our 10th release since we launched the project eight months ago, and it has some exciting new features.
-
-### [166. The Comparison of Top 10 Automated Mobile Testing Tools](https://hackernoon.com/the-comparison-of-top-10-automated-mobile-testing-tools)
+### [165. The Comparison of Top 10 Automated Mobile Testing Tools](https://hackernoon.com/the-comparison-of-top-10-automated-mobile-testing-tools)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-pc03758.jpeg)
 Mobile testing is the process of testing mobile applications for functionality, usability or performance through the use of tools or open-source frameworks.
 
-### [167. Dart for Java Devs #1](https://hackernoon.com/dart-for-java-devs-1-6ei3u17)
-![](https://images.unsplash.com/photo-1495819903255-00fdfa38a8de?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Let's jump right in!
+### [166. Appwrite 0.6 is Live with Full Flutter Support](https://hackernoon.com/appwrite-06-is-live-with-full-flutter-support-5g8p3zkv)
+![](https://cdn.hackernoon.com/images/cx7a3v59.jpg)
+We are incredibly excited to announce the release of Appwrite 0.6. The new Appwrite version is our 10th release since we launched the project eight months ago, and it has some exciting new features.
+
+### [167. 10 Flutter Mistakes I Still See in Production Apps (and How to Fix Them)](https://hackernoon.com/10-flutter-mistakes-i-still-see-in-production-apps-and-how-to-fix-them)
+![](https://cdn.hackernoon.com/images/KQSiU0nufhcyDb0h8zAs4pA3Nev1-8n03acm.jpeg)
+Avoid 10 common Flutter mistakes that slow apps down. Learn fixes for performance, scaling, and clean code in your next Flutter project.
 
 ### [168. Explore Error Monitoring and Stability Management for Flutter Applications with Bugsnag](https://hackernoon.com/explore-error-monitoring-and-stability-management-for-flutter-applications-with-bugsnag)
 ![](https://cdn.hackernoon.com/images/4HK5qyMbWfetPhAavzyTZrEb90N2-7p93qgp.jpeg)
 Explore Error Monitoring and Stability Management for Flutter Applications
 
-### [169. Cross-Platform vs Native: The 50 Shades of Mobile App Development](https://hackernoon.com/50-shades-of-mobile-app-development-how-to-choose-between-cross-platform-vs-native-solutions)
+### [169. Dart for Java Devs #1](https://hackernoon.com/dart-for-java-devs-1-6ei3u17)
+![](https://images.unsplash.com/photo-1495819903255-00fdfa38a8de?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Let's jump right in!
+
+### [170. Cross-Platform vs Native: The 50 Shades of Mobile App Development](https://hackernoon.com/50-shades-of-mobile-app-development-how-to-choose-between-cross-platform-vs-native-solutions)
 ![](https://cdn.hackernoon.com/images/FHieUAQoPOX9Xa4afyQ8YD0Mb5D3-iuc3ee5.jpeg)
 Most merchants choose to design their mobile apps for both platforms. But herein comes the challenge. 
-
-### [170. How I Debugged a Mobile Development Tutorial App](https://hackernoon.com/how-i-debugged-a-mobile-development-tutorial-app)
-![](https://cdn.hackernoon.com/images/sWgUkcWK6naafqrMYXQ9swM3irf2-s393pi4.jpeg)
-My experience with correcting code for a mobile app from a tutorial material.
 
 ### [171. How To Create a Tip Calculator with Flutter](https://hackernoon.com/how-to-create-a-tip-calculator-with-flutter-svs3450)
 ![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-a55434oe.png)
 In this tutorial, you will learn how to create your own app with Flutter, which can help you calculate tips. 
 
-### [172. 10 Flutter Mistakes I Still See in Production Apps (and How to Fix Them)](https://hackernoon.com/10-flutter-mistakes-i-still-see-in-production-apps-and-how-to-fix-them)
-![](https://cdn.hackernoon.com/images/KQSiU0nufhcyDb0h8zAs4pA3Nev1-8n03acm.jpeg)
-Avoid 10 common Flutter mistakes that slow apps down. Learn fixes for performance, scaling, and clean code in your next Flutter project.
+### [172. How I Debugged a Mobile Development Tutorial App](https://hackernoon.com/how-i-debugged-a-mobile-development-tutorial-app)
+![](https://cdn.hackernoon.com/images/sWgUkcWK6naafqrMYXQ9swM3irf2-s393pi4.jpeg)
+My experience with correcting code for a mobile app from a tutorial material.
 
-### [173. Android Emulator Woes](https://hackernoon.com/how-i-solved-my-android-emulator-woes)
-![](https://cdn.hackernoon.com/images/cGfg9TlH1bgGje7eIzVSvxyMCMn2-pk92k7u.jpeg)
-Mobile development article. Talks about app emulators in android studio which were made by Google. Article goes on to discuss solutions with the help of Flutter
-
-### [174. Elevate Your Flutter App: A Guide to Subject Segmentation Using Google ML Kit](https://hackernoon.com/elevate-your-flutter-app-a-guide-to-subject-segmentation-using-google-ml-kit)
-![](https://cdn.hackernoon.com/images/Rbb8wVGKB4dgfV0jb8NOb0bOaLx1-sx13wxj.webp)
-In the ever-evolving landscape of mobile app development, the ability to process and analyse images in real time has become increasingly important.
-
-### [175. Basic Reasons To Use Flutter](https://hackernoon.com/basic-reasons-to-use-flutter-0g8e3w9v)
-![](https://cdn.hackernoon.com/drafts/mro3y1i.png)
-Flutter is a free cross-platform tool from Google designed to create desktop, mobile and web applications.
-
-### [176. Ivan Huerta, Parabeac CEO, made every mistake in the book until he pivoted the business](https://hackernoon.com/ivan-huerta-parabeac-ceo-made-every-mistake-in-the-book-until-he-pivoted-the-business)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-2l2l37p2.jpeg)
-Our startup is called Parabeac, and we make it easy for both designers & developers to make accurate and responsive designs. 
-
-### [177. An Introduction to Flutter Features and Benefits](https://hackernoon.com/an-introduction-to-flutter-features-and-benefits-du383472)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwQxq8yfW5bg4pDWZuThW8o6r9lr1-1a93wiq.jpeg?alt=media&token=261f3627-bb8a-495c-89bb-481a616fe557)
-
-
-### [178. My Case for Why You Should Learn Flutter in 2021](https://hackernoon.com/my-case-for-why-you-should-learn-flutter-in-2021-ev8a3345)
-![](https://cdn.hackernoon.com/images/LY29n1qtC5QZ81u8f9nsyrQZWTy1-q1dc28ds.jpeg)
-You have multiple reasons why should learn Flutter and in this article I will go over some of them. 
-
-### [179. Web(& Electron) Apps Need To Improve Their User Experience](https://hackernoon.com/weband-electron-apps-need-to-improve-their-user-experience-7aea326w)
-![](https://images.unsplash.com/photo-1553924143-f8c35b91b1d2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-I’ve been using computers for over 2 decades now. My first PC was a 66 Mhz 486 machine with a 2.4 kbps modem and the web did not even have Google ( We had Altavista ). Since the internet was slow, I spent most of my time with Applications that could be installed on my local machine. Now I spend most of my time on web applications and somehow it feels like we have moved backward rather than moving forward.
-
-### [180. Using Quickblox for Adding a Facebook-like React-to-Message Feature in Your Flutter App](https://hackernoon.com/using-quickblox-for-adding-a-facebook-like-react-to-message-feature-in-your-flutter-app)
-![](https://cdn.hackernoon.com/images/NVnLl8J6S2fKhSABWDLGrB376Vi1-wfk3sdf.jpeg)
-In this article, we’ll learn how we can utilize the QuickBlox SDK to create a react-to-message feature in our Flutter chat applications.
-
-### [181. 3 Simple Reasons Why Coding Pixel Perfect Designs is So Painful](https://hackernoon.com/3-simple-reasons-why-coding-pixel-perfect-designs-is-so-painful)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-6h93loi.jpeg)
-Pains of coding pixel perfect design. Solution to automatically convert Figma designs into Flutter widgets.
-
-### [182. How Stitch Helps Flutter Developers Design Faster](https://hackernoon.com/how-stitch-helps-flutter-developers-design-faster)
+### [173. How Stitch Helps Flutter Developers Design Faster](https://hackernoon.com/how-stitch-helps-flutter-developers-design-faster)
 ![](https://cdn.hackernoon.com/images/ELnaBFRIfTMkt8qhuBYXxa8B9DS2-5583f0w.png)
 Stitch is an AI-powered design tool that creates user interfaces from text prompts or sketches. 
 
-### [183. The Noonification: Teaching Your Character to Run in Flame (2/28/2023)](https://hackernoon.com/2-28-2023-noonification)
+### [174. Android Emulator Woes](https://hackernoon.com/how-i-solved-my-android-emulator-woes)
+![](https://cdn.hackernoon.com/images/cGfg9TlH1bgGje7eIzVSvxyMCMn2-pk92k7u.jpeg)
+Mobile development article. Talks about app emulators in android studio which were made by Google. Article goes on to discuss solutions with the help of Flutter
+
+### [175. Elevate Your Flutter App: A Guide to Subject Segmentation Using Google ML Kit](https://hackernoon.com/elevate-your-flutter-app-a-guide-to-subject-segmentation-using-google-ml-kit)
+![](https://cdn.hackernoon.com/images/Rbb8wVGKB4dgfV0jb8NOb0bOaLx1-sx13wxj.webp)
+In the ever-evolving landscape of mobile app development, the ability to process and analyse images in real time has become increasingly important.
+
+### [176. Basic Reasons To Use Flutter](https://hackernoon.com/basic-reasons-to-use-flutter-0g8e3w9v)
+![](https://cdn.hackernoon.com/drafts/mro3y1i.png)
+Flutter is a free cross-platform tool from Google designed to create desktop, mobile and web applications.
+
+### [177. Ivan Huerta, Parabeac CEO, made every mistake in the book until he pivoted the business](https://hackernoon.com/ivan-huerta-parabeac-ceo-made-every-mistake-in-the-book-until-he-pivoted-the-business)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-2l2l37p2.jpeg)
+Our startup is called Parabeac, and we make it easy for both designers & developers to make accurate and responsive designs. 
+
+### [178. An Introduction to Flutter Features and Benefits](https://hackernoon.com/an-introduction-to-flutter-features-and-benefits-du383472)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwQxq8yfW5bg4pDWZuThW8o6r9lr1-1a93wiq.jpeg?alt=media&token=261f3627-bb8a-495c-89bb-481a616fe557)
+
+
+### [179. 3 Simple Reasons Why Coding Pixel Perfect Designs is So Painful](https://hackernoon.com/3-simple-reasons-why-coding-pixel-perfect-designs-is-so-painful)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-6h93loi.jpeg)
+Pains of coding pixel perfect design. Solution to automatically convert Figma designs into Flutter widgets.
+
+### [180. My Case for Why You Should Learn Flutter in 2021](https://hackernoon.com/my-case-for-why-you-should-learn-flutter-in-2021-ev8a3345)
+![](https://cdn.hackernoon.com/images/LY29n1qtC5QZ81u8f9nsyrQZWTy1-q1dc28ds.jpeg)
+You have multiple reasons why should learn Flutter and in this article I will go over some of them. 
+
+### [181. Using Quickblox for Adding a Facebook-like React-to-Message Feature in Your Flutter App](https://hackernoon.com/using-quickblox-for-adding-a-facebook-like-react-to-message-feature-in-your-flutter-app)
+![](https://cdn.hackernoon.com/images/NVnLl8J6S2fKhSABWDLGrB376Vi1-wfk3sdf.jpeg)
+In this article, we’ll learn how we can utilize the QuickBlox SDK to create a react-to-message feature in our Flutter chat applications.
+
+### [182. The Noonification: Teaching Your Character to Run in Flame (2/28/2023)](https://hackernoon.com/2-28-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 2/28/2023: Top 5 stories on the Hackernoon homepage!
 
-### [184. Why we Decided to Open Source our Company](https://hackernoon.com/why-we-decided-to-open-source-our-company-ci1y3um5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4VIcggRIeThKZhpWOm5Amv080hG2-wz1c3etd.jpeg?alt=media&token=2ec7118c-0db3-4179-a6c4-703747c43cbf)
-I like getting things done quickly, not just for the sense of accomplishment, but because I know I can also move on to other projects and collaborations in the wings. Since I was a kid, however, I heard that speed was dangerous, that it inherently meant cutting corners. “Isn’t it good enough?” I’d ask my mom after a quick, hacked attempt at making my bed. “If you’re going to do something, do it well,” she said. I thought my bed was perfectly fine. She did not.
+### [183. Web(& Electron) Apps Need To Improve Their User Experience](https://hackernoon.com/weband-electron-apps-need-to-improve-their-user-experience-7aea326w)
+![](https://images.unsplash.com/photo-1553924143-f8c35b91b1d2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+I’ve been using computers for over 2 decades now. My first PC was a 66 Mhz 486 machine with a 2.4 kbps modem and the web did not even have Google ( We had Altavista ). Since the internet was slow, I spent most of my time with Applications that could be installed on my local machine. Now I spend most of my time on web applications and somehow it feels like we have moved backward rather than moving forward.
 
-### [185. Scroll Smarter, Not Harder: Generic Pagination in Flutter Explained](https://hackernoon.com/scroll-smarter-not-harder-generic-pagination-in-flutter-explained)
+### [184. Scroll Smarter, Not Harder: Generic Pagination in Flutter Explained](https://hackernoon.com/scroll-smarter-not-harder-generic-pagination-in-flutter-explained)
 ![](https://cdn.hackernoon.com/images/vB4XG5ewCRPaWoVKZAsuA6LiSaG3-oj7373i.webp)
 Learn how to build pagination in Flutter with Generics that work for any kind of list.
 
-### [186. The Noonification: How to Add a HUD to Your Flame Game (3/20/2023)](https://hackernoon.com/3-20-2023-noonification)
+### [185. Why we Decided to Open Source our Company](https://hackernoon.com/why-we-decided-to-open-source-our-company-ci1y3um5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4VIcggRIeThKZhpWOm5Amv080hG2-wz1c3etd.jpeg?alt=media&token=2ec7118c-0db3-4179-a6c4-703747c43cbf)
+I like getting things done quickly, not just for the sense of accomplishment, but because I know I can also move on to other projects and collaborations in the wings. Since I was a kid, however, I heard that speed was dangerous, that it inherently meant cutting corners. “Isn’t it good enough?” I’d ask my mom after a quick, hacked attempt at making my bed. “If you’re going to do something, do it well,” she said. I thought my bed was perfectly fine. She did not.
+
+### [186. Here's How You Can Choose the Right Workflow and Automate Your App Releases: A Flutter CI/CD Guide](https://hackernoon.com/heres-how-you-can-choose-the-right-workflow-and-automate-your-app-releases-a-flutter-cicd-guide)
+![](https://cdn.hackernoon.com/images/7MHXxJGH4YduN32lsrzKF5xaGq52-vt93etn.png)
+In this article, you will learn the key benefits of CI/CD, the major CI/ CD options available for Flutter teams, and their pros and cons.
+
+### [187. The Noonification: How to Add a HUD to Your Flame Game (3/20/2023)](https://hackernoon.com/3-20-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 3/20/2023: Top 5 stories on the Hackernoon homepage!
 
-### [187. Exploring Dart Fundamentals - Part 4: Data Structures and Null Safety in Dart ](https://hackernoon.com/exploring-dart-fundamentals-part-4-data-structures-and-null-safety-in-dart)
+### [188. Exploring Dart Fundamentals - Part 4: Data Structures and Null Safety in Dart ](https://hackernoon.com/exploring-dart-fundamentals-part-4-data-structures-and-null-safety-in-dart)
 ![](https://cdn.hackernoon.com/images/xnExhhWVgGRFDoTG4pYFD7lqIng1-u282sk8.jpeg)
 Data Structures and Null Safety in Dart — Part 4,Exploring Data Structures and Null Safety — Lists, Maps, Maps and Null Safety in Dart
-
-### [188. Here's How You Can Choose the Right Workflow and Automate Your App Releases: A Flutter CI/CD Guide](https://hackernoon.com/heres-how-you-can-choose-the-right-workflow-and-automate-your-app-releases-a-flutter-cicd-guide)
-![](https://cdn.hackernoon.com/images/7MHXxJGH4YduN32lsrzKF5xaGq52-vt93etn.png)
-In this article, you will learn the key benefits of CI/CD, the major CI/ CD options available for Flutter teams, and their pros and cons.
 
 ### [189. The HackerNoon Newsletter: Open Source Isnt Dead...Its Just Forked (3/4/2025)](https://hackernoon.com/3-4-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_215_n5m839g204czyg1qdhxcdxjq.png)
@@ -772,4 +774,8 @@ In this article, you will learn the key benefits of CI/CD, the major CI/ CD opti
 ### [191. The Noonification: Frontline Ukrainians: ‘We Need Drones and Freedom’ (6/13/2024)](https://hackernoon.com/6-13-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_224_yqoogg8aozk0dq3fx749w6iv.png)
 6/13/2024: Top 5 stories on the HackerNoon homepage!
+
+### [192. Flutter Streams Explained with a Collage App](https://hackernoon.com/flutter-streams-explained-with-a-collage-app)
+![](https://cdn.hackernoon.com/images/Ezo5GXzpgHYJRnopv3kbMoHg6Fo1-6g13o8v.gif.webp)
+Learn Flutter Streams with a practical collage app example using RxDart, stream operators, listeners, and async UI updates.
 

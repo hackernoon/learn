@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [api-gateway](https://hackernoon.com/tagged/api-gateway)
+### Let's learn about [Api Gateway](https://hackernoon.com/tagged/api-gateway) via these 76 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+An API Gateway is a server that acts as a single entry point for a set of APIs. It is essential for managing and securing microservices, providing features like authentication, rate limiting, and request routing to streamline API consumption.
+
 ### [1. The Basics Of Designing an API Architecture](https://hackernoon.com/the-basics-of-designing-an-api-architecture)
 ![]()
 An introductory guide to understanding how API Architectures are designed. 
@@ -111,35 +115,35 @@ An effective API management strategy enhances the developer experience, elevates
 ![](https://cdn.hackernoon.com/drafts/k91k03wwa.png)
 In his blog post, Marco Palladino, Kong CTO and co-founder, went over the difference between API gateways and service mesh. I highly recommend reading his blog post to see how API management and service mesh are complementary patterns for different use cases, but to summarize in his words, “an API gateway and service mesh will be used simultaneously.” We maintain two open source projects that work flawlessly together to cover all the use cases you may encounter. 
 
-### [28. How to Radically Simplify Operations by Plugging Your API Gateway into an OpenAPI Spec](https://hackernoon.com/how-to-radically-simplify-operations-by-plugging-your-api-gateway-into-an-openapi-spec-xr263yq4)
+### [28. API Contract Drift - An Unsolved CI Problem](https://hackernoon.com/api-contract-drift-an-unsolved-ci-problem)
+![](https://cdn.hackernoon.com/images/a-car-drifting-in-the-highway-action-scene-tqqr6mf6rv77hfu3iyzpxre4.png)
+API contract drift is still poorly governed in CI. This story explores the gaps in schema change policy across OpenAPI, GraphQL, and Protobuf.
+
+### [29. How to Radically Simplify Operations by Plugging Your API Gateway into an OpenAPI Spec](https://hackernoon.com/how-to-radically-simplify-operations-by-plugging-your-api-gateway-into-an-openapi-spec-xr263yq4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fsbu3QiXHqQgdHp7kwrlUNXOei9X2-md303tyf.jpeg?alt=media&token=adf2b822-fb89-4b98-b2c6-1a4f5aa6a79c)
 OpenAPI Spec — The blueprint for your API
 
-### [29. Using AWS API Gateway as a Load Balancer](https://hackernoon.com/using-aws-api-gateway-as-a-load-balancer-498i3wbl)
+### [30. Using AWS API Gateway as a Load Balancer](https://hackernoon.com/using-aws-api-gateway-as-a-load-balancer-498i3wbl)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-cq82rjt.jpeg)
 TL;DR: yes, API Gateway can replace what a Load Balancer would usually provide, with a simpler interface and many more features on top of it. The downside is that it doesn’t come cheap.
 
-### [30. Load Balancing Strategies for Applications: From Infrastructure to Code](https://hackernoon.com/load-balancing-strategies-for-applications-from-infrastructure-to-code)
+### [31. Load Balancing Strategies for Applications: From Infrastructure to Code](https://hackernoon.com/load-balancing-strategies-for-applications-from-infrastructure-to-code)
 ![](https://cdn.hackernoon.com/images/4wWmJ0ILxuQniqJvu4ilUo9QxHB3-a99348a.jpeg)
 Selecting the right load balancing strategy can be a game-changer for your application's performance, scalability, and user experience.
 
-### [31. 5 Major Factors Impacting the Evolution of APIs](https://hackernoon.com/5-major-factors-impacting-the-evolution-of-apis-8r2h3ugp)
+### [32. 5 Major Factors Impacting the Evolution of APIs](https://hackernoon.com/5-major-factors-impacting-the-evolution-of-apis-8r2h3ugp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FcyyBVvTbTHgrrHBmSMRth2d5ZGk1-j51219a0.jpeg?alt=media&token=04ee4381-7081-4248-a24d-e5089cd0e6be)
 In today’s world of ever-increasing digital interconnectivity, APIs (Application Programming Interfaces) have emerged as essential tools for  integrating data efficiently and cost-effectively. 
 
-### [32. Monetizing APIs with WSO2 API Manager](https://hackernoon.com/monetizing-apis-with-wso2-api-manager-jo303ylv)
+### [33. Monetizing APIs with WSO2 API Manager](https://hackernoon.com/monetizing-apis-with-wso2-api-manager-jo303ylv)
 ![](https://cdn.hackernoon.com/drafts/j61z3yld.png)
 Today APIs have become a key way for application developers to generate revenue, meaning monetisation is becoming a sought-after feature in the API Management space. Even though API monetisation has a broader meaning than simply charging for APIs; in our experience, most companies want to charge for API usage. There are a number of different ways that this can be achieved, but let’s take a look at the two most popular and how they can be effectively rolled out to bring in revenue.
 
-### [33. Best Practices for API Security](https://hackernoon.com/best-practices-for-api-security-b14q3yfe)
+### [34. Best Practices for API Security](https://hackernoon.com/best-practices-for-api-security-b14q3yfe)
 ![](https://images.unsplash.com/photo-1561883088-039e53143d73?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 APIs are a cohort of communication protocol that allows applications to communicate with one another. It works over the OS limitations and enables applications to share data without more complexities. And it is the magic bridge that possibly making things work together in our mobile applications and web interfaces. 
 
 Yet, its open doors and wide visibility makes it vulnerable to attacks. Also, attackers can easily find the way to the heart of applications and systems via APIs. Hence it is essential to fence APIs with all possible measures. 
-
-### [34. API Contract Drift - An Unsolved CI Problem](https://hackernoon.com/api-contract-drift-an-unsolved-ci-problem)
-![](https://cdn.hackernoon.com/images/a-car-drifting-in-the-highway-action-scene-tqqr6mf6rv77hfu3iyzpxre4.png)
-API contract drift is still poorly governed in CI. This story explores the gaps in schema change policy across OpenAPI, GraphQL, and Protobuf.
 
 ### [35. AWS Lambda For Dummies [Part 2]](https://hackernoon.com/aws-lambda-for-dummies-part-2-xe1l341j)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-78f3t14.jpeg?alt=media&token=9cedee72-e0f8-4c02-b690-65ec8a01b286)
@@ -169,13 +173,13 @@ In our previous post on API Gateways we discussed how services handle external
 ![](https://cdn.hackernoon.com/images/ja745dL1g2eUtdoAG63yaLSyVSA2-ag93qz6.jpeg)
 Explore the technical advantages of aws serverless architectures for notification systems. Learn about scalability, cost-efficiency, and security considerations
 
-### [42. API DevEx Portals: A Definitive Guide ](https://hackernoon.com/api-devex-portals-a-definitive-guide)
-![](https://cdn.hackernoon.com/images/gnyfKpa42Tg3VsBOtfaRMvz66182-2p93l38.png)
-A definitive guide to building an API DevEx Portal for your API users.
-
-### [43. Load Balancer vs. API Gateway: Stop Confusing Your Backend Architecture](https://hackernoon.com/load-balancer-vs-api-gateway-stop-confusing-your-backend-architecture)
+### [42. Load Balancer vs. API Gateway: Stop Confusing Your Backend Architecture](https://hackernoon.com/load-balancer-vs-api-gateway-stop-confusing-your-backend-architecture)
 ![](https://cdn.hackernoon.com/images/backend-code-on-a-laptop-screen-ojjsz1sxzwp99ewpupwcjui5.png)
 Load balancers and API gateways solve different problems. Here’s a clear, practical breakdown of how they work—and why they’re not interchangeable.
+
+### [43. API DevEx Portals: A Definitive Guide ](https://hackernoon.com/api-devex-portals-a-definitive-guide)
+![](https://cdn.hackernoon.com/images/gnyfKpa42Tg3VsBOtfaRMvz66182-2p93l38.png)
+A definitive guide to building an API DevEx Portal for your API users.
 
 ### [44. What Developers Mean When They Talk About API](https://hackernoon.com/what-developers-mean-when-they-talk-about-api-w19b3yir)
 ![](https://cdn.hackernoon.com/drafts/v31d3yru.png)
@@ -209,13 +213,13 @@ WSO2 API Manager 3.2.0 the third release of the API Manager 3.x series, simplifi
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8p024ax.jpeg)
 Companies are leaping on this AI-driven opportunity using tools like chatbots and AI agents to innovate and work smarter.
 
-### [52. A Guide to API Gateways: Unveiling Advantages, Disadvantages, and Vendor Comparisons](https://hackernoon.com/a-guide-to-api-gateways-unveiling-advantages-disadvantages-and-vendor-comparisons)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-qh82mga.jpeg)
-API Gateways are often a component of a microservices architecture. But they are not a silver bullet - they have some downsides to consider!
-
-### [53. A Single Point of Access or Chaos — Unlocking Non-Blocking API Gateways](https://hackernoon.com/a-single-point-of-access-or-chaos-unlocking-non-blocking-api-gateways)
+### [52. A Single Point of Access or Chaos — Unlocking Non-Blocking API Gateways](https://hackernoon.com/a-single-point-of-access-or-chaos-unlocking-non-blocking-api-gateways)
 ![](https://cdn.hackernoon.com/images/oPAgXKFFx0ctHjNHfEfFEQXnKu92-4kp34p5.png)
 Spring Cloud Gateway is a modern, non-blocking API gateway that offers significant improvements over its predecessor, Netflix Zuul.
+
+### [53. A Guide to API Gateways: Unveiling Advantages, Disadvantages, and Vendor Comparisons](https://hackernoon.com/a-guide-to-api-gateways-unveiling-advantages-disadvantages-and-vendor-comparisons)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-qh82mga.jpeg)
+API Gateways are often a component of a microservices architecture. But they are not a silver bullet - they have some downsides to consider!
 
 ### [54. A Quick Guide For Creating a Serverless Application with AWS Lambda and API Gateway](https://hackernoon.com/a-quick-guide-for-creating-a-serverless-application-with-aws-lambda-and-api-gateway)
 ![](https://cdn.hackernoon.com/images/uxL6qPzHtYSIO6VSowClROvyZ2Z2-wf93sah.jpeg)
@@ -229,21 +233,21 @@ The classic 3-tier architecture is need of a reboot. APIs have changed the way w
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fjxq2NPhPrNaH98TTyIM3XM4jNIp2-8b4h3unl.jpeg?alt=media&token=6ab067c9-1ef5-4ed5-8fa2-fa24760beb14)
 API Economy is taking off exponentially and its every business need to expose their digital services and assets in a secure way. I'll walkthrough in this article how one can take a API-first , design first approach to take into the account, the needs of API consumers and various steps that lead to creating a Developer Portal using all the tools that we've currently. Please note that these tools have alternatives in the market, but these are what got me to the goal post in the fastest way and case could differ for others.
 
-### [57. 16 Best Practices For Securing Your APIs with Apache APISIX - Part 2](https://hackernoon.com/16-best-practices-for-securing-your-apis-with-apache-apisix-part-2)
+### [57. A Strange Yucca Tribute Concert: Configuring Kong API Gateway With Micronaut Services in Kotlin ](https://hackernoon.com/a-strange-yucca-tribute-concert-configuring-kong-api-gateway-with-micronaut-services-in-kotlin)
+![](https://cdn.hackernoon.com/images/XKjmz9tZa8XTDU9MqcuFluHFxfj2-xu0254y.jpeg)
+What is an API Gateway and how can we use it? Kong offers that and in open-source form as well. Find out how the OSS version works!
+
+### [58. 16 Best Practices For Securing Your APIs with Apache APISIX - Part 2](https://hackernoon.com/16-best-practices-for-securing-your-apis-with-apache-apisix-part-2)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-q882im4.jpeg)
 Learn 16 advanced tips to keep your APIs safe with Apache APISIX.
 
-### [58. You Split Up Your Monolith—Now API Gateways Are Here to Save Your Butt](https://hackernoon.com/you-split-up-your-monolithnow-api-gateways-are-here-to-save-your-butt)
+### [59. You Split Up Your Monolith—Now API Gateways Are Here to Save Your Butt](https://hackernoon.com/you-split-up-your-monolithnow-api-gateways-are-here-to-save-your-butt)
 ![](https://cdn.hackernoon.com/images/api-gateway-p87wllrnot82tqiub1gvc8m9.png)
 Microservices are great… until they aren’t. 
 
-### [59. Why and How to monitor Amazon API Gateway HTTP APIs](https://hackernoon.com/why-and-how-to-monitor-amazon-api-gateway-http-apis)
+### [60. Why and How to monitor Amazon API Gateway HTTP APIs](https://hackernoon.com/why-and-how-to-monitor-amazon-api-gateway-http-apis)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-un93oxt.jpeg)
 Monitoring your HTTP APIs can transform your decision process with actionable information instead of guessing around user complaints and high bills. 
-
-### [60. A Strange Yucca Tribute Concert: Configuring Kong API Gateway With Micronaut Services in Kotlin ](https://hackernoon.com/a-strange-yucca-tribute-concert-configuring-kong-api-gateway-with-micronaut-services-in-kotlin)
-![](https://cdn.hackernoon.com/images/XKjmz9tZa8XTDU9MqcuFluHFxfj2-xu0254y.jpeg)
-What is an API Gateway and how can we use it? Kong offers that and in open-source form as well. Find out how the OSS version works!
 
 ### [61. API Integrations Can Give Your Business A Single Source of Truth](https://hackernoon.com/api-integrations-can-give-your-business-a-single-source-of-truth-md2k35sf)
 ![](https://cdn.hackernoon.com/images/Egk4QeHIKwhohdHCIbmstmLhCnp2-wh2b296k.jpeg)
@@ -273,13 +277,13 @@ Refining my OpenTelemetry demo with Apache APISIX, Kotlin, Spring Boot, Python, 
 ![](https://cdn.hackernoon.com/images/sHlS9kz5JWgDC6Irc6Iw1ZTwUGE2-v92w33bu.jpeg)
 API Gateways can help you create microservices and micro frontends, and expose rich APIs to your customers while keeping things simple on your company.
 
-### [68. Spending Weekend with GraphQL](https://hackernoon.com/spending-weekend-with-graphql-yk6c3y13)
-![](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Have you ever experienced an itch you just can’t scratch? If yes, then you will feel my pain. A few days back, everything was fine, I was happily writing code(!) and doing standup meetings regularly. Just before the weekend, my boss called me and shared this problem with me.
-
-### [69. Chopping the Monolith — the Smarter Way](https://hackernoon.com/chopping-the-monolith-the-smarter-way)
+### [68. Chopping the Monolith — the Smarter Way](https://hackernoon.com/chopping-the-monolith-the-smarter-way)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-j2c2dmm.jpeg)
 In this post, I offer another alternative to chop the monolith. Instead of forking the call on the client side, we fork the call on the Gateway side.
+
+### [69. Spending Weekend with GraphQL](https://hackernoon.com/spending-weekend-with-graphql-yk6c3y13)
+![](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Have you ever experienced an itch you just can’t scratch? If yes, then you will feel my pain. A few days back, everything was fine, I was happily writing code(!) and doing standup meetings regularly. Just before the weekend, my boss called me and shared this problem with me.
 
 ### [70. Simplifying API with Tyny.dev Founder Patrick Pittich-Rinnerthaler ](https://hackernoon.com/simplifying-api-with-tynydev-founder-patrick-pittich-rinnerthaler)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-xk03ao4.jpeg)
@@ -293,13 +297,13 @@ A easy way to jump to jump into the serverless world in AWS
 ![](https://cdn.hackernoon.com/images/illustrate-a-data-mine-clhj060to000001s6cxo56a69.png)
 Cloud computing has opened a Pandora's Box of many nascent issues as compared to sound old on-premise systems. Chief among them is Data Residency. 
 
-### [73. Creating a Poor Man's API Using PostgREST ](https://hackernoon.com/creating-a-poor-mans-api-using-postgrest)
-![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-rv93s1m.jpeg)
-Creating a full-fledged API requires resources, both time and money.
-
-### [74. How to Secure Admin Access to Apache APISIX](https://hackernoon.com/how-to-secure-admin-access-to-apache-apisix)
+### [73. How to Secure Admin Access to Apache APISIX](https://hackernoon.com/how-to-secure-admin-access-to-apache-apisix)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-sd93p4i.jpeg)
 In this post, I've shown several non-exclusive options you should consider to secure Apache APISIX.
+
+### [74. Creating a Poor Man's API Using PostgREST ](https://hackernoon.com/creating-a-poor-mans-api-using-postgrest)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-rv93s1m.jpeg)
+Creating a full-fledged API requires resources, both time and money.
 
 ### [75. Breaking Up a Monolithic Database with Kong](https://hackernoon.com/breaking-up-a-monolithic-database-with-kong)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-qe037ew.jpeg)

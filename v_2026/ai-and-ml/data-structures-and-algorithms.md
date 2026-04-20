@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [data-structures-and-algorithms](https://hackernoon.com/tagged/data-structures-and-algorithms)
+### Let's learn about [Data Structures And Algorithms](https://hackernoon.com/tagged/data-structures-and-algorithms) via these 55 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Data structures are ways of organizing data, while algorithms are step-by-step procedures for solving computational problems. They are fundamental concepts in computer science, essential for efficient problem-solving and developing high-performance software.
+
 ### [1. Implementing a Singly or Doubly Linked List in Java (A LeetCode Question)](https://hackernoon.com/implementing-a-singly-or-doubly-linked-list-in-java-a-leetcode-question)
 ![](https://cdn.hackernoon.com/images/e2lhyGaGa6ZVTWmBikAWsw2Fj0O2-f5a3n6k.jpeg)
 Design your implementation of the linked list. You can choose to use a singly or doubly linked list.
@@ -116,25 +120,25 @@ An algorithm can take over the world! But we still can take over some decentrali
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6f93ru0.jpeg)
 Finding the next biggest value in an array of integers
 
-### [29. A Guide to Using Data Classes in Python](https://hackernoon.com/a-guide-to-using-data-classes-in-python)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-is93wjc.jpeg)
-In "C" Language, you have structs. With the help of structs, we can define the return data type. You can do the same using classes in python.
-
-### [30. Prepare For Your Next Tech Interview With These 17 Data Structures and Algorithms Sites](https://hackernoon.com/prepare-for-your-next-tech-interview-with-these-17-data-structures-and-algorithms-sites)
-![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-bv83r1q.jpeg)
-I've compiled some of the most useful resources for DSAs, interview practice sites, commonly asked technical questions, and sites to build practical projects.
-
-### [31. Python Freezes Due to Poor Implementation](https://hackernoon.com/python-freezes-due-to-poor-implementation)
+### [29. Python Freezes Due to Poor Implementation](https://hackernoon.com/python-freezes-due-to-poor-implementation)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-a892frc.jpeg)
 Programs may freeze for many reasons, such as software and hardware problems, software bugs, and among others, inefficient algorithm implementations.
 
-### [32. Work Smarter, Not Harder. Memoize It. ](https://hackernoon.com/work-smarter-not-harder-memoize-it-nm1g3we5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-dck28ol.jpeg?alt=media&token=0bd8882f-af74-4916-b702-6dbfdad38180)
-My favorite parts of Computer Science are things that remind me of being human. Believe it or not Computers have this emergent property where as they become more complex they start to do things just like us. We touched on this when I wrote about Recursion. There I discussed how a computer function will call it self over and over until it gets the answer it wants. So very… human of it and to me this touches on problem solving. Memoization can extend this human like quality further.
+### [30. A Guide to Using Data Classes in Python](https://hackernoon.com/a-guide-to-using-data-classes-in-python)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-is93wjc.jpeg)
+In "C" Language, you have structs. With the help of structs, we can define the return data type. You can do the same using classes in python.
 
-### [33. Binary Lifting and Its Applications](https://hackernoon.com/binary-lifting-and-its-applications)
+### [31. Prepare For Your Next Tech Interview With These 17 Data Structures and Algorithms Sites](https://hackernoon.com/prepare-for-your-next-tech-interview-with-these-17-data-structures-and-algorithms-sites)
+![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-bv83r1q.jpeg)
+I've compiled some of the most useful resources for DSAs, interview practice sites, commonly asked technical questions, and sites to build practical projects.
+
+### [32. Binary Lifting and Its Applications](https://hackernoon.com/binary-lifting-and-its-applications)
 ![](https://cdn.hackernoon.com/images/hxgB3A2KjtPk4sJXB1ezGnusKBx1-x093kan.jpeg)
 Binary Lifting and its use in finding Lowest Common Ancestor (LCA). Explore this amazing algorithm that speeds up ancestor queries in the tree data structure. 
+
+### [33. Work Smarter, Not Harder. Memoize It. ](https://hackernoon.com/work-smarter-not-harder-memoize-it-nm1g3we5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-dck28ol.jpeg?alt=media&token=0bd8882f-af74-4916-b702-6dbfdad38180)
+My favorite parts of Computer Science are things that remind me of being human. Believe it or not Computers have this emergent property where as they become more complex they start to do things just like us. We touched on this when I wrote about Recursion. There I discussed how a computer function will call it self over and over until it gets the answer it wants. So very… human of it and to me this touches on problem solving. Memoization can extend this human like quality further.
 
 ### [34. Skip List From Scratch: A Guide](https://hackernoon.com/skip-list-from-scratch-a-guide)
 ![](https://cdn.hackernoon.com/images/y245QGaSCcRvVZ5ZdjQBWoHqTm02-nhc3wec.jpeg)
@@ -144,13 +148,13 @@ A skip list is a probabilistic data structure that serves as a dynamic set. It o
 ![](https://cdn.hackernoon.com/images/V4OORvpWBMfsdPL4Cd7eTIK2TqW2-q793hsk.jpeg)
 Learn about different types of graphs in the data structure. Graphs in the data structure can be of various types, read this article to know more.
 
-### [36. Why do Interviewers care so much about Algorithm and Data Structures?](https://hackernoon.com/why-do-interviewers-care-so-much-about-algorithm-and-data-structures-fr3730eh)
-![](https://cdn.hackernoon.com/drafts/im4m30bb.png)
-Data Structures and Algorithms are one of the most important skills that every computer science student must-have. It is often seen that people with good knowledge of these technologies are better programmers than others.
-
-### [37. Data Structures and Algorithms: How I Failed a Google Interview](https://hackernoon.com/data-structures-and-algorithms-how-i-failed-a-google-interview)
+### [36. Data Structures and Algorithms: How I Failed a Google Interview](https://hackernoon.com/data-structures-and-algorithms-how-i-failed-a-google-interview)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-pv93oe2.jpeg)
 Learn about why data structures and algorithms are important, and why I failed a Google interview. 
+
+### [37. Why do Interviewers care so much about Algorithm and Data Structures?](https://hackernoon.com/why-do-interviewers-care-so-much-about-algorithm-and-data-structures-fr3730eh)
+![](https://cdn.hackernoon.com/drafts/im4m30bb.png)
+Data Structures and Algorithms are one of the most important skills that every computer science student must-have. It is often seen that people with good knowledge of these technologies are better programmers than others.
 
 ### [38. Understanding and Applying the Knuth-Morris-Pratt Algorithm: From String Matching to Stream Search](https://hackernoon.com/understanding-and-applying-the-knuth-morris-pratt-algorithm-from-string-matching-to-stream-search)
 ![](https://cdn.hackernoon.com/images/y3uk89KMZnfiawpEREPict96IDp2-3aa3pel.jpeg)

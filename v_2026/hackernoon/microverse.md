@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [microverse](https://hackernoon.com/tagged/microverse)
+### Let's learn about [Microverse](https://hackernoon.com/tagged/microverse) via these 81 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Microverse is a global online school that trains aspiring software developers through a unique peer-to-peer learning model, providing accessible education and career opportunities in tech. It is crucial for bridging the skills gap and empowering individuals from diverse backgrounds to enter the tech industry.
+
 ### [1. The Best CSS Unit For a Responsive Design](https://hackernoon.com/the-best-css-unit-for-a-responsive-design-ku6q37to)
 ![](https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 CSS units are very important when creating a responsive website and you might wonder which one to use considering we have several CSS units. I had the same issue while working on a project, so I did some research on it. In this article, I will show you the most suitable CSS units to use for responsive design.
@@ -110,13 +114,13 @@ And you say learning to code is hard…You say code is not a woman’s  thing�
 ![](https://cdn.hackernoon.com/images/hl1kr3z90.jpg)
 Flexbox is a useful front-end technology, which can easily organize HTML items and create beautiful and responsive layouts. Leading companies rely on it to make their websites accessible in every screen possible, which granted it the status of an industry-standard tool.
 
-### [27. The Dark Side of Ruby on Rails](https://hackernoon.com/the-dark-side-of-ruby-on-rails-80123u24)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpwtNTVrD7BPYArwg776n1wGXP193-g5ig3urx.webp?alt=media&token=a58bc98a-7eac-474a-9934-16769959acda)
-Ruby on Rails framework (RoR) is the dream of every developer. It does pretty much everything for you without much effort, and once you learn it and deeply understand it, you can build an entire website in a couple of hours (Of course, styling it is a different story). The hard part of rails is to understand the magic behind it. 
-
-### [28. "I Believe That People Need To Always Be Motivated", Interview with Murilo Roque Paiva da Silva](https://hackernoon.com/i-believe-that-people-need-to-always-be-motivated-interview-with-murilo-roque-paiva-da-silva-532p3uqf)
+### [27. "I Believe That People Need To Always Be Motivated", Interview with Murilo Roque Paiva da Silva](https://hackernoon.com/i-believe-that-people-need-to-always-be-motivated-interview-with-murilo-roque-paiva-da-silva-532p3uqf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-wbe3u4j.jpeg?alt=media&token=95b961e6-ab71-4ff0-818f-00743cf1585b)
 The 2020 #Noonies are here,and they are both much greener and much bigger than last year. 
+
+### [28. The Dark Side of Ruby on Rails](https://hackernoon.com/the-dark-side-of-ruby-on-rails-80123u24)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpwtNTVrD7BPYArwg776n1wGXP193-g5ig3urx.webp?alt=media&token=a58bc98a-7eac-474a-9934-16769959acda)
+Ruby on Rails framework (RoR) is the dream of every developer. It does pretty much everything for you without much effort, and once you learn it and deeply understand it, you can build an entire website in a couple of hours (Of course, styling it is a different story). The hard part of rails is to understand the magic behind it. 
 
 ### [29. How Mentorship and Reading Through 100,000+ LoC Made Me a Better Human Being](https://hackernoon.com/how-mentorship-and-reading-through-100000-loc-made-me-a-better-human-being-dnx36vl)
 ![](https://cdn.hackernoon.com/drafts/7z7r36vt.png)
@@ -158,25 +162,25 @@ With the mutuality of JavaScript, several frameworks have emerged. React is one 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-nit2897.jpeg?alt=media&token=b31d088d-e461-4b4b-a414-a8ebef69bf9f)
 Data structures are eagerly introduced to new programmers, since they will be using them pretty much through their whole career. Knowing them, how they work, what are they good for, which one to use, are things that can change the performance of your solutions quite vastly.
 
-### [39. 6 Tips to Write Better CSS For Beginners](https://hackernoon.com/6-tips-to-write-a-better-css-for-beginners-kg2d3unk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FcJnUlIpfxrURWXKxqKrSYXN3Pzg1-1qn3uxr.jpeg?alt=media&token=13b09fb0-6685-4671-b4af-e88e7c44e0d6)
-My experience with CSS first started when I was trying to style my very first non-functional ugly-looking login page. Since then, I learned a lot about writing functional well-organized CSS code. All web-developers need to be good at HTML/CSS, but they don't have to be experts.
-
-### [40. Configuring Your Phaser 3 Game With Webpack For Production](https://hackernoon.com/configuring-your-phaser-3-game-with-webpack-for-production-ho193tvr)
+### [39. Configuring Your Phaser 3 Game With Webpack For Production](https://hackernoon.com/configuring-your-phaser-3-game-with-webpack-for-production-ho193tvr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY4nTn5JogrZB4OQrXKdf5dlFDHE2-yj73xxb.jpeg?alt=media&token=f0eb6c39-7224-4df5-8368-1e16c502d06e)
 I am writing this article to help people that are just starting to learn Phaser 3 and need extra support when deploying their game to production. This tutorial will focus on configuring your app with Webpack, I will run through each line of code explaining what they are doing and why they are important. This tutorial won’t show you how to set up your Phaser 3 game, in that case I recommend you to start with this template and jump to configuring your prod.js in this article (Step 5).
+
+### [40. 6 Tips to Write Better CSS For Beginners](https://hackernoon.com/6-tips-to-write-a-better-css-for-beginners-kg2d3unk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FcJnUlIpfxrURWXKxqKrSYXN3Pzg1-1qn3uxr.jpeg?alt=media&token=13b09fb0-6685-4671-b4af-e88e7c44e0d6)
+My experience with CSS first started when I was trying to style my very first non-functional ugly-looking login page. Since then, I learned a lot about writing functional well-organized CSS code. All web-developers need to be good at HTML/CSS, but they don't have to be experts.
 
 ### [41. 6 Common HTML and CSS Interview Question and Answers](https://hackernoon.com/6-common-html-and-css-interview-question-and-answers-l91i3tmq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY4nTn5JogrZB4OQrXKdf5dlFDHE2-56f3x2i.jpeg?alt=media&token=60b8eefc-05b0-4e2d-86bb-e727544d404b)
 In this article, I will present some of the most frequent questions and answers made by interviewers. There will be questions about HTML & CSS. If you like reading, go ahead. If you don’t, you can still watch myself answering the same questions in this YouTube playlist I prepared.
 
-### [42. Evolution of Web Design: From HTML to HTML5](https://hackernoon.com/evolution-of-web-design-from-html-to-html5-utnc36xi)
-![](https://cdn.hackernoon.com/images/3j833611.jpg)
-When most people think about evolution, what comes to mind is “the big bang”, usually describing it as way different types of living organisms developed from earlier forms during the history of the earth. Technology has also evolved over time, there are many technologies, major ones being web development, computer systems, software engineering, artificial intelligence and many more. The main focus of this article is on the evolution of Web Design. A deeper dive into HTML which is the backbone of every web page document that you see on the internet today. Yes, other supplements exist e.g. CSS, thats adds design for websites, but without HTML, displaying a webpage document is not possible.
-
-### [43. How To Format Your CSS Code as a Professional](https://hackernoon.com/how-to-format-your-css-code-as-a-professional-sa153u32)
+### [42. How To Format Your CSS Code as a Professional](https://hackernoon.com/how-to-format-your-css-code-as-a-professional-sa153u32)
 ![](https://cdn.hackernoon.com/images/9c3r3xjn.jpg)
 As a full-stack web developer, I'm building different websites by writing code every single day. Experiencing several situations including solving problems and fixing errors.
+
+### [43. Evolution of Web Design: From HTML to HTML5](https://hackernoon.com/evolution-of-web-design-from-html-to-html5-utnc36xi)
+![](https://cdn.hackernoon.com/images/3j833611.jpg)
+When most people think about evolution, what comes to mind is “the big bang”, usually describing it as way different types of living organisms developed from earlier forms during the history of the earth. Technology has also evolved over time, there are many technologies, major ones being web development, computer systems, software engineering, artificial intelligence and many more. The main focus of this article is on the evolution of Web Design. A deeper dive into HTML which is the backbone of every web page document that you see on the internet today. Yes, other supplements exist e.g. CSS, thats adds design for websites, but without HTML, displaying a webpage document is not possible.
 
 ### [44. How to Use Clip-Path CSS Property ](https://hackernoon.com/how-to-use-clip-path-css-property-z5213uc8)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-i682rcf.jpeg)
@@ -186,13 +190,13 @@ I was given a task to replicate the newsweek website and I thought that would be
 ![](https://images.unsplash.com/photo-1485856407642-7f9ba0268b51?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 For me this is one of the strangest things I did in my life, talk to you about what is it for me one of the most complex languages that I have worked with. Javascript is something really strange when you compare it with other languages.
 
-### [46. Introduction to Pseudo-Class Selectors](https://hackernoon.com/introduction-to-pseudo-class-selectors-ce2b369r)
-![](https://cdn.hackernoon.com/images/3sq369c.jpg)
-What we will cover in this article more specifically is the subject of pseudo-classes! First of all, what pseudo-classes are, you may ask. They are keyword in CSS language that lets you interact with external factors or events, like moving the mouse over an element or visiting a link. We will not cover here all the pseudo-classes but after reading this article you will get the idea! The main idea behind this pseudo-classes is that they expose events in CSS language witch means that is easier to interact with HTML element on web pages. 
-
-### [47. 5 Reasons to Learn HTML & CSS](https://hackernoon.com/5-reasons-to-learn-html-and-css-ff3a33mn)
+### [46. 5 Reasons to Learn HTML & CSS](https://hackernoon.com/5-reasons-to-learn-html-and-css-ff3a33mn)
 ![](https://cdn.hackernoon.com/drafts/5hi36fz.png)
 HTML (HyperText Markup Language) is a basic tool to design web pages that complements itself with CSS (Cascading Style Sheets). So everyone who wants to join the web design world has to learn this tools, but even if you want to be a web back-end developer it would be nice to learn this, therefore we are going to list a few good reasons to do it:
+
+### [47. Introduction to Pseudo-Class Selectors](https://hackernoon.com/introduction-to-pseudo-class-selectors-ce2b369r)
+![](https://cdn.hackernoon.com/images/3sq369c.jpg)
+What we will cover in this article more specifically is the subject of pseudo-classes! First of all, what pseudo-classes are, you may ask. They are keyword in CSS language that lets you interact with external factors or events, like moving the mouse over an element or visiting a link. We will not cover here all the pseudo-classes but after reading this article you will get the idea! The main idea behind this pseudo-classes is that they expose events in CSS language witch means that is easier to interact with HTML element on web pages. 
 
 ### [48. Grid vs. Flexbox: An Introduction to the Useless Battle](https://hackernoon.com/grid-vs-flexbox-an-introduction-to-the-useless-battle-4r7r3yxw)
 ![](https://cdn.hackernoon.com/drafts/1a4h29uw.png)
@@ -235,13 +239,13 @@ The coronavirus pandemic has disrupted daily routines around the world, and many
 ![](https://cdn.hackernoon.com/drafts/u0gh32s3.png)
 You always want to jump into web development but don’t know how to start. That is fine me too I had this similar problem. I start download every e-book I found on the internet, when i realize that I have an external backup with more than 200 HTML and CSS book it became hard for me to pick one and start. Reading is good but reading without purpose is worse.
 
-### [53. What is CSS [Beginners Guide]](https://hackernoon.com/what-is-css-beginners-guide-88433ymq)
-![](https://cdn.hackernoon.com/drafts/kq5m3yzf.png)
-CSS is one of those things we see get thrown around but not really explained. If it does, we only get to scratch the technical surface. Over the years, CSS has grown from something that makes the web prettier into a tool that can be infused with user experience psychology and conversion inducing patterns. To add to it all, the differences in browsers and screen size requirements push CSS’ potential to be complex through requirements just a little bit further.
-
-### [54. How To Create Auth by Connecting Devise into Your ROR Project ](https://hackernoon.com/how-to-create-auth-by-connecting-devise-into-your-ror-project-jp2o3ulc)
+### [53. How To Create Auth by Connecting Devise into Your ROR Project ](https://hackernoon.com/how-to-create-auth-by-connecting-devise-into-your-ror-project-jp2o3ulc)
 ![](https://cdn.hackernoon.com/drafts/sd4a3wm6.png)
 As a student of Microverse, I’ve reached the point where Rails’ framework was introduced to me. It appeared to me with the best omens on its hands. Ruby on Rails is a starting point for many start-ups because all of them got blinded by its beauty and simplicity. I have to admit that I felt intimidated for a while. Surely I can't say we are the best friends now but things started to make sense. Ruby on Rails is designed under the MVC principles - Model View Controllers.
+
+### [54. What is CSS [Beginners Guide]](https://hackernoon.com/what-is-css-beginners-guide-88433ymq)
+![](https://cdn.hackernoon.com/drafts/kq5m3yzf.png)
+CSS is one of those things we see get thrown around but not really explained. If it does, we only get to scratch the technical surface. Over the years, CSS has grown from something that makes the web prettier into a tool that can be infused with user experience psychology and conversion inducing patterns. To add to it all, the differences in browsers and screen size requirements push CSS’ potential to be complex through requirements just a little bit further.
 
 ### [55. 6 Reasons for Using Bootstrap Framework](https://hackernoon.com/6-reasons-for-using-bootstrap-framework-sa6624sj)
 ![](https://cdn.hackernoon.com/drafts/bio3yty.png)
@@ -312,13 +316,13 @@ As a web creator; either designer or developer, it’s a good weapon in your ski
 ![](https://images.unsplash.com/photo-1541888946425-d81bb19240f5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 When I started studying Web-Development in late 2019, I was overwhelmed by so much information, and without a technical background it is easy to get discouraged or confused, today I want to give my personal opinions with some examples that will be useful to people without a CS degree or other background in the IT field.
 
-### [71. The Importance of Networking for Landing Remote Jobs](https://hackernoon.com/the-importance-of-networking-for-landing-remote-jobs-np1t3wr1)
-![](https://images.unsplash.com/photo-1523908511403-7fc7b25592f4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Networking: whether the prospect fills you with dread or excitement — this article is for you. Nothing maximizes your chances of finding awesome and inspiring opportunities as much as connecting with other people — as long as you approach it in the right way. And it might just be easier than you think.    
-
-### [72. How to Achieve Column Reordering with Bootstrap 4](https://hackernoon.com/how-to-achieve-column-reordering-with-bootstrap-4-el6i3y2p)
+### [71. How to Achieve Column Reordering with Bootstrap 4](https://hackernoon.com/how-to-achieve-column-reordering-with-bootstrap-4-el6i3y2p)
 ![](https://cdn.hackernoon.com/images/4eb13yb9.jpg)
 Responsive web pages are websites that adjust to different screen sizes. Audi.com, in 2001 was one of the websites to adopt this design.
+
+### [72. The Importance of Networking for Landing Remote Jobs](https://hackernoon.com/the-importance-of-networking-for-landing-remote-jobs-np1t3wr1)
+![](https://images.unsplash.com/photo-1523908511403-7fc7b25592f4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Networking: whether the prospect fills you with dread or excitement — this article is for you. Nothing maximizes your chances of finding awesome and inspiring opportunities as much as connecting with other people — as long as you approach it in the right way. And it might just be easier than you think.    
 
 ### [73. How to Build a Responsive Page Using Bootstrap](https://hackernoon.com/how-to-build-a-responsive-page-using-bootstrap-cw173tv3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FX0UP5eoRqOMMmj2BaUgK3xjSfl32-y373u4w.jpeg?alt=media&token=9f8ed502-1bf9-46b3-b916-c5dbb286f568)

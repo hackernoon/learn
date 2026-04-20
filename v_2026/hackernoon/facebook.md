@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [facebook](https://hackernoon.com/tagged/facebook)
+### Let's learn about [Facebook](https://hackernoon.com/tagged/facebook) via these 348 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 It already knows what's on your mind, friend. 
 
 ### [1. How to Hack Facebook Accounts: 5 Common Vulnerabilities in 2023](https://hackernoon.com/how-to-hack-facebook-accounts-5-common-vulnerabilities-811g37w8)
@@ -170,33 +172,33 @@ Facebook has reached its breaking point, and I can no longer ignore the glaring 
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-a992ecp.jpeg)
 Elon Musk has no one but himself to blame for the predicament he finds himself in. What could have been a joke has ended up costing the meme lord $44 billion.
 
-### [38. How I got rid of the new sponsored Facebook posts.](https://hackernoon.com/how-i-get-rid-of-the-new-sponsored-facebook-posts-138d013f4bbe)
-![](https://hackernoon.com/hn-images/1*rLpzswZ4Qy-fNA3XQ_G3_w.png)
-Today I open <a href="https://hackernoon.com/tagged/facebook" target="_blank">Facebook</a>, and I notice something, my adblocker isn’t working.<br>As a developer, I decided to investigate, and first thing first I inspect the <a href="https://hackernoon.com/tagged/structure" target="_blank">structure</a> of these sponsored posts, to see if there’s a way to identify them so I can remove them with a script.
-
-### [39. 7 Best Clubhouse Alternatives for Audio Chats](https://hackernoon.com/7-best-clubhouse-alternatives-for-audio-chats-lx4u34a3)
+### [38. 7 Best Clubhouse Alternatives for Audio Chats](https://hackernoon.com/7-best-clubhouse-alternatives-for-audio-chats-lx4u34a3)
 ![](https://cdn.hackernoon.com/images/bEBV44U8FJVL41WsXNQsDFCgm6F3-8g2d35z1.jpeg)
 If you are looking for a Clubhouse alternative, you have many options out there, and these are not invite-only apps. You can use them freely. 
+
+### [39. How I got rid of the new sponsored Facebook posts.](https://hackernoon.com/how-i-get-rid-of-the-new-sponsored-facebook-posts-138d013f4bbe)
+![](https://hackernoon.com/hn-images/1*rLpzswZ4Qy-fNA3XQ_G3_w.png)
+Today I open <a href="https://hackernoon.com/tagged/facebook" target="_blank">Facebook</a>, and I notice something, my adblocker isn’t working.<br>As a developer, I decided to investigate, and first thing first I inspect the <a href="https://hackernoon.com/tagged/structure" target="_blank">structure</a> of these sponsored posts, to see if there’s a way to identify them so I can remove them with a script.
 
 ### [40. How to Protect Your Facebook Account From Being Hacked ](https://hackernoon.com/how-to-protect-your-facebook-account-from-being-hacked)
 ![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-ht93s30.jpeg)
 6 ways to protect your Facebook account from being hacked, including how to protect your password, the best privacy settings, and social engineering protection.
 
-### [41. Is this the best time to buy Bitcoin or not?](https://hackernoon.com/is-this-the-best-time-to-buy-bitcoin-or-not-qsuzz38t9)
-![](https://cdn.hackernoon.com/drafts/g5shu38kj.png)
-The recent rally has affected many market participants; at such moments, many people are influenced by the FOMO (Fear Of Missing Out) effect. But an understanding crypto investor, clearly aware that it's just only beginning.
-
-### [42. My Experience After Quitting Social Media Indefinitely](https://hackernoon.com/my-experience-after-quitting-social-media-indefinitely)
+### [41. My Experience After Quitting Social Media Indefinitely](https://hackernoon.com/my-experience-after-quitting-social-media-indefinitely)
 ![](https://cdn.hackernoon.com/images/g8d3oHAdHpNfqbOkOEDOqYqvVrz2-dn92qlh.jpeg)
 It has been four months since I have been on these social media channels since April 5th. And I am not sure if I will be going back.
 
-### [43. How to Write Automated Birthday Posts on Facebook Using Selenium](https://hackernoon.com/how-to-write-automated-birthday-posts-on-facebook-using-selenium-ah1r32ad)
-![](https://images.unsplash.com/photo-1464349153735-7db50ed83c84?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Are you the kind of person that always forgets their friends’  birthdays? Do you find yourself scrolling through Facebook, wincing at the realization that you didn’t post a congratulatory message yesterday on your bestie’s wall? And what use is that tiny ‘birthday’ tab that Facebook so helpfully sequesters in the top right corner of my Newsfeed. No big deal, right? Wrong. You might not have remembered their birthday, but they will definitely remember that you didn’t remember to remember it - and bye, bye, bestie. But don’t panic -  here lies the solution to your woes, and it's also pretty easy. 
+### [42. Is this the best time to buy Bitcoin or not?](https://hackernoon.com/is-this-the-best-time-to-buy-bitcoin-or-not-qsuzz38t9)
+![](https://cdn.hackernoon.com/drafts/g5shu38kj.png)
+The recent rally has affected many market participants; at such moments, many people are influenced by the FOMO (Fear Of Missing Out) effect. But an understanding crypto investor, clearly aware that it's just only beginning.
 
-### [44. Expert: Facebook, IG App Can Steal Secrets, and Users Can't Turn It Off!](https://hackernoon.com/expert-facebook-ig-app-can-steal-secrets-and-users-cant-turn-it-off)
+### [43. Expert: Facebook, IG App Can Steal Secrets, and Users Can't Turn It Off!](https://hackernoon.com/expert-facebook-ig-app-can-steal-secrets-and-users-cant-turn-it-off)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-o993mp3.jpeg)
 Felix Krause, a former Google engineer who studies privacy, said in a blog post on the 10th that Facebook and Instagram apps track users' browsing behaviors.
+
+### [44. How to Write Automated Birthday Posts on Facebook Using Selenium](https://hackernoon.com/how-to-write-automated-birthday-posts-on-facebook-using-selenium-ah1r32ad)
+![](https://images.unsplash.com/photo-1464349153735-7db50ed83c84?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Are you the kind of person that always forgets their friends’  birthdays? Do you find yourself scrolling through Facebook, wincing at the realization that you didn’t post a congratulatory message yesterday on your bestie’s wall? And what use is that tiny ‘birthday’ tab that Facebook so helpfully sequesters in the top right corner of my Newsfeed. No big deal, right? Wrong. You might not have remembered their birthday, but they will definitely remember that you didn’t remember to remember it - and bye, bye, bestie. But don’t panic -  here lies the solution to your woes, and it's also pretty easy. 
 
 ### [45. Report Finds Pirates are Making Millions off Amazon, Facebook and Google ](https://hackernoon.com/report-finds-pirates-are-making-millions-off-amazon-facebook-and-google)
 ![](https://cdn.hackernoon.com/images/RNrx5pnl6RZYIv9etWzhJ84VDNb2-q7037n1.jpeg)
@@ -290,13 +292,13 @@ Facebook has agreed to eliminate features in its advertising business that allow
 ![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-6da2hpg.jpeg)
 But a ProPublica investigation based on internal corporate documents, interviews and law enforcement records reveals how those safeguards fail to protect buyers
 
-### [68. Facebook's Libra Means the Death of Privacy](https://hackernoon.com/facebooks-libra-means-the-death-of-privacy-6q1wg3a6u)
-![](https://cdn.hackernoon.com/images/ne1sp3ati.jpg)
-Picture a dystopian society. What do you see? Are you imagining a world with the aesthetic of Blade Runner 2077 or a similarly Cyberpunk-esque environment? 
-
-### [69. Musk 'Smells' an Opportunity](https://hackernoon.com/musk-smells-an-opportunity)
+### [68. Musk 'Smells' an Opportunity](https://hackernoon.com/musk-smells-an-opportunity)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-to92dpq.jpeg)
 Elon Musk has figured out a way to turn his followers into paying customers, and it involves selling items that capitalize on his popularity and social media.
+
+### [69. Facebook's Libra Means the Death of Privacy](https://hackernoon.com/facebooks-libra-means-the-death-of-privacy-6q1wg3a6u)
+![](https://cdn.hackernoon.com/images/ne1sp3ati.jpg)
+Picture a dystopian society. What do you see? Are you imagining a world with the aesthetic of Blade Runner 2077 or a similarly Cyberpunk-esque environment? 
 
 ### [70. How to Leverage Machine Learning to Improve AdWords Efficiency](https://hackernoon.com/how-to-leverage-machine-learning-to-improve-adwords-efficiency-kk103u0x)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQdRQJW6V96b8SQtJgBmzVkZNOfl2-1y1h3ufs.jpeg?alt=media&token=cc4f575d-13ac-45c8-a314-319281a4938c)
@@ -343,33 +345,33 @@ It’s only been two years since Facebook heard about Cambridge Analytica.
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-b992dpe.jpeg)
 Netflix and Snapchat began informing markets of their financial performance this past week but the main draw remains to be tech titans.
 
-### [81. You're the Product, Dummy](https://hackernoon.com/youre-the-product-dummy)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-an92ded.jpeg)
-Instead of a bastion of creativity , knowledge , and hope , the internet is becoming increasingly concentrated and a means for tech giants to extract your data.
-
-### [82. Libra Investment Token: Crazy ROI](https://hackernoon.com/libra-investment-token-crazy-roi-z73tv3vz3)
-![](https://cdn.hackernoon.com/drafts/v0aw43v0j.png)
-The main focus on Libra so far was the stablecoin - a digital currency pegged to a basket of underlying assets. If the pegging mechanism works as intended, Libra coin won't undergo any crazy crypto pumps & dumps. Holders of Libra coin probably won't face any bigger risk than holding cash. This of course also means they won't make any money on the coin.
-
-### [83. Facebook, WhatsApp, and Your Privacy: What You Need to Know](https://hackernoon.com/facebook-whatsapp-and-your-privacy-what-you-need-to-know)
+### [81. Facebook, WhatsApp, and Your Privacy: What You Need to Know](https://hackernoon.com/facebook-whatsapp-and-your-privacy-what-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-fr92hgq.jpeg)
 Seated at computers in pods organized by work assignments, these hourly workers use special Facebook software to sift through millions of private messages
 
-### [84. How ChatGPT Can Help Identify the Target Audience for Google and Facebook Ad Campaigns](https://hackernoon.com/how-chatgpt-can-help-identify-the-target-audience-for-google-and-facebook-ad-campaigns)
+### [82. You're the Product, Dummy](https://hackernoon.com/youre-the-product-dummy)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-an92ded.jpeg)
+Instead of a bastion of creativity , knowledge , and hope , the internet is becoming increasingly concentrated and a means for tech giants to extract your data.
+
+### [83. Libra Investment Token: Crazy ROI](https://hackernoon.com/libra-investment-token-crazy-roi-z73tv3vz3)
+![](https://cdn.hackernoon.com/drafts/v0aw43v0j.png)
+The main focus on Libra so far was the stablecoin - a digital currency pegged to a basket of underlying assets. If the pegging mechanism works as intended, Libra coin won't undergo any crazy crypto pumps & dumps. Holders of Libra coin probably won't face any bigger risk than holding cash. This of course also means they won't make any money on the coin.
+
+### [84. Founder Interviews: Rousseau Kazi of Threads](https://hackernoon.com/founder-interviews-rousseau-kazi-of-threads-t8yt34ao)
+![](drafts/uixx34tb.png)
+What's your background?
+
+### [85. How ChatGPT Can Help Identify the Target Audience for Google and Facebook Ad Campaigns](https://hackernoon.com/how-chatgpt-can-help-identify-the-target-audience-for-google-and-facebook-ad-campaigns)
 ![](https://cdn.hackernoon.com/images/skssOeH48yQNdDqRAn28z8IHu6i1-pb93izh.jpeg)
 As an online entrepreneur, chatGPT can help identify your target audience for Facebook and Google ads campaigns. Here is a step-by-step guide on how to use chatGPT to identify your target audience online.
 
-### [85. Mark Zuckerberg's "Building Global Community" Manifesto: Five Years Later](https://hackernoon.com/mark-zuckerbergs-building-global-community-manifesto-five-years-later)
+### [86. Mark Zuckerberg's "Building Global Community" Manifesto: Five Years Later](https://hackernoon.com/mark-zuckerbergs-building-global-community-manifesto-five-years-later)
 ![](https://cdn.hackernoon.com/images/NXaiuCgFGFaCnDmFr54VSGDgjxH2-qe92qwb.jpeg)
 With Zuckerberg's manifesto about building a global community, what has been the fate of physical communities?
 
-### [86. What We Know and Don't Know About the Coming Metaverse ](https://hackernoon.com/what-we-know-and-dont-know-about-the-coming-metaverse)
+### [87. What We Know and Don't Know About the Coming Metaverse ](https://hackernoon.com/what-we-know-and-dont-know-about-the-coming-metaverse)
 ![](https://cdn.hackernoon.com/images/zbzf4eUv2QhWbfSK4bieABR5a7f2-ipb3o43.jpeg)
 The Metaverse is Coming, and it's time to get educated. How close we are to reaching the promised meta land, and what will the newly branded Meta change it?
-
-### [87. Founder Interviews: Rousseau Kazi of Threads](https://hackernoon.com/founder-interviews-rousseau-kazi-of-threads-t8yt34ao)
-![](drafts/uixx34tb.png)
-What's your background?
 
 ### [88. Nothing Can Stop Bitcoin, Not Even Governments](https://hackernoon.com/nothing-can-stop-bitcoin-not-even-governments-gs1033hb)
 ![](https://cdn.hackernoon.com/images/NbkygUB9G6Zx5nmHwA4JRCtfZkr2-8s1l351v.jpeg)
@@ -387,13 +389,13 @@ Ex-Google Tech Lead reveals the secret to why he doesn't enjoy eating out at res
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPKYLDw43RfPs4NUIItD67CxXTnm2-7353uk6.jpeg?alt=media&token=a82e1285-adf8-4fe9-805d-cc8eeee2da8d)
 When Facebook first introduced the concept of Libra, their first digital currency, it looked promising. They designed the currency to become global and utilized a digital ledger, or blockchain technology,  just like any other cryptocurrency. Interestingly, unlike other cryptocurrencies, Libra would be backed by a ‘basket of currencies’, which would protect it from volatilities; the usual fluctuations that we see in a typical cryptocurrency, like Bitcoin.
 
-### [92. 22 Tech Company News Pages](https://hackernoon.com/22-tech-company-news-pages-o6y343j)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-p3734r5.png)
-We released our first batch of dynamic tech company news pages, combined business overviews with mentions on Hacker Noon and around the web via the Bing News API.  
-
-### [93. Facebook’s Not-So-Happy Birthdays Offer New App Opportunity ](https://hackernoon.com/facebooks-not-so-happy-birthdays-offer-new-app-opportunity)
+### [92. Facebook’s Not-So-Happy Birthdays Offer New App Opportunity ](https://hackernoon.com/facebooks-not-so-happy-birthdays-offer-new-app-opportunity)
 ![](https://cdn.hackernoon.com/images/HFWIQyXZUkQ1LZbVi8afTyhiP8E3-5j93a21.jpeg)
 Facebook, once king of the social media birthday, has fumbled: birthday posts are down 90%+. A new app promises to breathe life and happiness into birthdays.
+
+### [93. 22 Tech Company News Pages](https://hackernoon.com/22-tech-company-news-pages-o6y343j)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-p3734r5.png)
+We released our first batch of dynamic tech company news pages, combined business overviews with mentions on Hacker Noon and around the web via the Bing News API.  
 
 ### [94. Facebook Groups Vs. Pages: The Best Marketing Tool for Startups](https://hackernoon.com/facebook-groups-vs-pages-the-best-marketing-tool-for-startups)
 ![](https://cdn.hackernoon.com/images/72hxxOxeyLSaVMaN9dido8UHV5S2-b7b3ksr.jpeg)
@@ -411,25 +413,25 @@ The Markup and KFF Health News found trackers on CVS.com telling some of the big
 ![](https://cdn.hackernoon.com/images/V3QJgLilIFSOL8ykfBJcmuuPZer1-tv13fwf.jpeg)
 The Internet of Things could be as important to household wealth as homeownership by 2030. MachineFi makes sure this new wealth is distributed fairly.
 
-### [98. Unliked: Facebook’s Reign Could End](https://hackernoon.com/unliked-facebooks-resign-could-end-h9gk3a12)
-![](https://cdn.hackernoon.com/drafts/btho2piq.png)
-Facebook shares went tumbling following the news after a ‘sell’ recommendation from Michael Levine of Pivotal Research Group. Levine cited concerns over Facebook’s Ad revenue as well as ongoing regulatory risks.
-
-### [99. Are my Component Names Too Long? Vue.js Component Naming Best Practices](https://hackernoon.com/how-to-write-shorter-component-names-in-vuejs-o04a3wtw)
-![](https://cdn.hackernoon.com/images/nau3wyr.jpg)
-When naming your (Vue.js) components, you might sometimes be worried that the names are getting very long. In this article, we take a closer look at how long is too long and what are the most important best practices when it comes to naming your components.
-
-### [100. FaceBook Bots, Crawlers And User Agents Causing Resource Drains On Websites And Hosting Accounts](https://hackernoon.com/facebook-bots-crawlers-and-user-agents-causing-resource-drains-on-websites-and-hosting-accounts)
+### [98. FaceBook Bots, Crawlers And User Agents Causing Resource Drains On Websites And Hosting Accounts](https://hackernoon.com/facebook-bots-crawlers-and-user-agents-causing-resource-drains-on-websites-and-hosting-accounts)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-dj03uq0.jpeg)
 Facebook's aggressive crawling practiced and bad behavior of its user agent, “facebookexternalhit.” Site site owners report strain on their web hosting servers
 
-### [101. Facebook's Libra is a Banker's Nightmare and the Banks Will Fight Back](https://hackernoon.com/facebook-the-world-is-yours-9z3g3618)
-![](https://images.unsplash.com/photo-1549813069-f95e44d7f498?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-The impact of Libra on Global Finance
+### [99. Unliked: Facebook’s Reign Could End](https://hackernoon.com/unliked-facebooks-resign-could-end-h9gk3a12)
+![](https://cdn.hackernoon.com/drafts/btho2piq.png)
+Facebook shares went tumbling following the news after a ‘sell’ recommendation from Michael Levine of Pivotal Research Group. Levine cited concerns over Facebook’s Ad revenue as well as ongoing regulatory risks.
 
-### [102. Mastering Mobile Ad Campaign Scaling: Common Pitfalls and Useful Tips](https://hackernoon.com/mastering-mobile-ad-campaign-scaling-common-pitfalls-and-useful-tips)
+### [100. Mastering Mobile Ad Campaign Scaling: Common Pitfalls and Useful Tips](https://hackernoon.com/mastering-mobile-ad-campaign-scaling-common-pitfalls-and-useful-tips)
 ![](https://cdn.hackernoon.com/images/UKGOCglbu4UxOij0IjyMf5OH4uu1-4m83w94.jpeg)
 Discover key strategies for scaling paid ads in mobile advertising. Learn about vertical and horizontal scaling, managing ad budgets, and overcoming challenges.
+
+### [101. Are my Component Names Too Long? Vue.js Component Naming Best Practices](https://hackernoon.com/how-to-write-shorter-component-names-in-vuejs-o04a3wtw)
+![](https://cdn.hackernoon.com/images/nau3wyr.jpg)
+When naming your (Vue.js) components, you might sometimes be worried that the names are getting very long. In this article, we take a closer look at how long is too long and what are the most important best practices when it comes to naming your components.
+
+### [102. Facebook's Libra is a Banker's Nightmare and the Banks Will Fight Back](https://hackernoon.com/facebook-the-world-is-yours-9z3g3618)
+![](https://images.unsplash.com/photo-1549813069-f95e44d7f498?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+The impact of Libra on Global Finance
 
 ### [103. Top Facebook Behavioral Interview Questions - Part 1](https://hackernoon.com/top-facebook-behavioral-interview-questions-part-1-y12a35m9)
 ![](https://hackernoon.com/images/wJTgofaAImUJbfiB1xj6g3ET8Hh2-2vqx34jx.jpeg)
@@ -451,13 +453,13 @@ Meta burned through nearly 20% of Mark Zuckerberg's net worth on VR in 2022.
 ![](https://cdn.hackernoon.com/images/2pi32kp.jpg)
 AI is the future and there’s lots of money to be made from it. But organisations keep making the news over AI governance failings, such as Microsoft’s chatbot that turned racist and google images labelling African-Americans as gorillas. We’re seeing a growth of ethics and governance councils but with mixed success - Google shut theirs down. 
 
-### [108. Scene by Scene Feasibility Breakdown of Facebook's Metaverse at Work Video ](https://hackernoon.com/unboxing-the-metaverse)
-![](https://cdn.hackernoon.com/images/UkAeqbeEiOajpjolJeRyMutEDag1-du63e7t.jpeg)
-Let’s unbox the metaverse vision, go deeper into what it’s trying to convey and offer a realistic perspective on how that future could be accomplished.
-
-### [109. Who Will Eventually Control Big Data in Web3?](https://hackernoon.com/who-will-eventually-control-big-data-in-web3)
+### [108. Who Will Eventually Control Big Data in Web3?](https://hackernoon.com/who-will-eventually-control-big-data-in-web3)
 ![](https://cdn.hackernoon.com/images/XfkAcRQSKZeCWfyOwsqkFfN3Gxf2-1xf3r3s.jpeg)
 Web 3 is loudly making rounds as a decentralized internet. How will this affect data control in general?
+
+### [109. Scene by Scene Feasibility Breakdown of Facebook's Metaverse at Work Video ](https://hackernoon.com/unboxing-the-metaverse)
+![](https://cdn.hackernoon.com/images/UkAeqbeEiOajpjolJeRyMutEDag1-du63e7t.jpeg)
+Let’s unbox the metaverse vision, go deeper into what it’s trying to convey and offer a realistic perspective on how that future could be accomplished.
 
 ### [110. Meet Lucy Audrey, The Dishonest Fake Profile Facebook Refuses to Suspend](https://hackernoon.com/meet-lucy-audrey-the-dishonest-fake-profile-facebook-refuses-to-suspend)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-3fa3ned.jpeg)
@@ -507,21 +509,21 @@ One of the largest pediatric networks in the country was sending personal inform
 ![](https://cdn.hackernoon.com/images/in1937mu.jpg)
 2019 has been a big year for AR.
 
-### [122. Big Tech's Response to the Coronavirus Outbreak ](https://hackernoon.com/big-techs-response-to-the-corona-virus-outbreak-ql5j3ybo)
-![](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-It’s not just about Google and what coronavirus website
-
-### [123. Social Media Deplatforming: Big Tech’s Gag Order](https://hackernoon.com/social-media-deplatforming-big-techs-gag-order-ds1q3ugw)
+### [122. Social Media Deplatforming: Big Tech’s Gag Order](https://hackernoon.com/social-media-deplatforming-big-techs-gag-order-ds1q3ugw)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6E774J2BygcL7az0I4txmVV4Xfg2-1kt3ukb.jpeg?alt=media&token=e2fba0c9-36cf-4d4d-861c-ae7282a3bf81)
 Ever since the likes of Alex Jones and Milo Yiannopoulos were kicked out of their dominant platforms, debate has begun on whether tech companies should be armed with the power of deplatforming.
 
-### [124. How to Build a Stablecoin To Compete with Libra](https://hackernoon.com/how-to-build-a-stablecoin-to-compete-with-libra-wi2k3z30)
-![](https://cdn.hackernoon.com/drafts/ps6s3zfx.png)
-In my Libra project analysis report ( A Business Analysis of the Libra Project), I pointed out that there is still a very good opportunity to develop a new stablecoin that competes with Libra. The Libra project is definitely not the end of the stablecoin project, but a milestone in this process. More stablecoin projects will appear to provide more stablecoin products for the market. In terms of the mechanism for generating stablecoins, other stablecoin products can be substantially different from Libra. In terms of application scenarios of stablecoin, a more suitable application scenario can also be adopted. In view of the fact that stablecoin is still at a very early stage and all the risks of the Libra project, other stablecoin products still have a very high probability of success. As long as the correct strategy is adopted in the design of stablecoin, promotion organization and adoption scenario, it is very likely that the new stablecoin can be better accepted by the market. This article discusses some of the factors related to the new stablecoin.
+### [123. Big Tech's Response to the Coronavirus Outbreak ](https://hackernoon.com/big-techs-response-to-the-corona-virus-outbreak-ql5j3ybo)
+![](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+It’s not just about Google and what coronavirus website
 
-### [125. Facebook Made a Promise. Did They Keep It?](https://hackernoon.com/facebook-made-a-promise-did-they-keep-it)
+### [124. Facebook Made a Promise. Did They Keep It?](https://hackernoon.com/facebook-made-a-promise-did-they-keep-it)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-9z92iq4.jpeg)
 However, other obvious proxies for race, religion, health conditions, and sexual orientation remain.
+
+### [125. How to Build a Stablecoin To Compete with Libra](https://hackernoon.com/how-to-build-a-stablecoin-to-compete-with-libra-wi2k3z30)
+![](https://cdn.hackernoon.com/drafts/ps6s3zfx.png)
+In my Libra project analysis report ( A Business Analysis of the Libra Project), I pointed out that there is still a very good opportunity to develop a new stablecoin that competes with Libra. The Libra project is definitely not the end of the stablecoin project, but a milestone in this process. More stablecoin projects will appear to provide more stablecoin products for the market. In terms of the mechanism for generating stablecoins, other stablecoin products can be substantially different from Libra. In terms of application scenarios of stablecoin, a more suitable application scenario can also be adopted. In view of the fact that stablecoin is still at a very early stage and all the risks of the Libra project, other stablecoin products still have a very high probability of success. As long as the correct strategy is adopted in the design of stablecoin, promotion organization and adoption scenario, it is very likely that the new stablecoin can be better accepted by the market. This article discusses some of the factors related to the new stablecoin.
 
 ### [126. How Facebook Stablecoin Libra Could Replace all Current Stablecoins](https://hackernoon.com/how-facebook-stablecoin-libra-could-replace-all-current-stablecoins-1mw838be)
 ![](https://cdn.hackernoon.com/images/jbpo3872.jpg)
@@ -535,13 +537,13 @@ Mark Zuckerberg's immense authority over Facebook, Instagram, and WhatsApp means
 ![](https://cdn.hackernoon.com/images/o0o2gow.jpg)
 While there has been plenty of talk about the regulatory and privacy implications, there has been little public dialogue about the technology behind Facebook’s new digital currency. Can regulators concerns about privacy be alleviated upon closer inspection of Facebook’s new digital currency? 
 
-### [129. Facebook Just Put the Metaverse on the Map](https://hackernoon.com/facebook-just-put-the-metaverse-on-the-map)
-![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-gv13sjh.jpeg)
-Read this post for insight into how the metaverse can improve how we work, potentially through developments from companies such as Facebook and Microsoft 
-
-### [130. Avoiding Data Silos in Presto in Meta: From Raptor to RaptorX](https://hackernoon.com/avoiding-data-silos-in-presto-in-meta-from-raptor-to-raptorx)
+### [129. Avoiding Data Silos in Presto in Meta: From Raptor to RaptorX](https://hackernoon.com/avoiding-data-silos-in-presto-in-meta-from-raptor-to-raptorx)
 ![](https://cdn.hackernoon.com/images/MEO1Whp7pdbY2Fmqr6xMgItyqS23-wnb3ozi.png)
 Raptor is a Presto connector (presto-raptor) that is used to power some critical interactive query workloads in Meta (previously Facebook). 
+
+### [130. Facebook Just Put the Metaverse on the Map](https://hackernoon.com/facebook-just-put-the-metaverse-on-the-map)
+![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-gv13sjh.jpeg)
+Read this post for insight into how the metaverse can improve how we work, potentially through developments from companies such as Facebook and Microsoft 
 
 ### [131. How to Take Your Resume from Pure Garbage to Landing Your Dream Job: Tips for Software Engineers](https://hackernoon.com/how-to-take-your-resume-from-pure-garbage-to-landing-your-dream-job-tips-for-software-engineers-k44j33dd)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-vgdv3tyg.jpeg?alt=media&token=c05764d4-1361-43cc-bcd5-d8a626ecc5f0)
@@ -557,41 +559,41 @@ Tell me this Here's Johnny / Psycho mash-up from today's Volkskrant doesn't stra
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-nd92hm5.jpeg)
 A tracking tool installed on many hospitals’ websites has been collecting patients’ sensitive health information—including details about their medical condition
 
-### [134. Clubhouse: Shelter from the Storm](https://hackernoon.com/clubhouse-shelter-from-the-storm-e34033x9)
-![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-0n1k3f4m.jpeg)
-Read this post to understand how Clubhouse is helping people manage isolation during the pandemic.
+### [134. Facebook Has Been Receiving Your Financial Information From Tax Filing Websites](https://hackernoon.com/facebook-has-been-receiving-your-financial-information-from-tax-filing-websites)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-n093plw.jpeg)
+Major tax filing services such as H&R Block, TaxAct, and TaxSlayer have been quietly transmitting sensitive financial information to Facebook...
 
 ### [135. What Are the Benefits of Having a Facebook Page on Your Website?](https://hackernoon.com/what-are-the-benefits-of-having-a-facebook-page-on-your-website)
 ![](https://cdn.hackernoon.com/images/9W6OgH3amaTGMeSuahIER7bwWuq1-06a3qoq.jpeg)
 Want to learn how to embed a Facebook feed on the website? So here are the tips and benefits of embedding a Facebook feed on the website. 
 
-### [136. Facebook Has Been Receiving Your Financial Information From Tax Filing Websites](https://hackernoon.com/facebook-has-been-receiving-your-financial-information-from-tax-filing-websites)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-n093plw.jpeg)
-Major tax filing services such as H&R Block, TaxAct, and TaxSlayer have been quietly transmitting sensitive financial information to Facebook...
+### [136. Clubhouse: Shelter from the Storm](https://hackernoon.com/clubhouse-shelter-from-the-storm-e34033x9)
+![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-0n1k3f4m.jpeg)
+Read this post to understand how Clubhouse is helping people manage isolation during the pandemic.
 
 ### [137. 50 Stories To Learn About Whatsapp](https://hackernoon.com/50-stories-to-learn-about-whatsapp)
 ![](https://cdn.hackernoon.com/images/github/whatsapp-534.png)
 Learn everything you need to know about Whatsapp via these 50 free HackerNoon stories.
 
-### [138. How the adoption of blockchain technology will evolve: an Interview with Harjyot Singh](https://hackernoon.com/how-companies-like-meta-are-getting-in-on-the-blockchain-craze)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-0903a2k.jpeg)
-This article talks about decentralization and trustless layer with no intermediary control and China actions on cryptocurrency. 
-
-### [139. Facebook’s PyTorch3D : A Catalyst for Deep Learning and 3D Objects](https://hackernoon.com/facebooks-pytorch3d-a-catalyst-for-deep-learning-and-3d-objects-ym973ahz)
-![](https://cdn.hackernoon.com/drafts/44nz36ty.png)
-To understand what PyTorch is, how it works, and its ability to catalyze technological advancements. It’s important first to understand the answer to the question, “What is PyTorch?”
-
-### [140. Facebook Crypto Scammers are Imitating Zuckerberg, Musk, and Bezos](https://hackernoon.com/facebook-crypto-scammers-are-imitating-zuckerberg-musk-and-bezos)
+### [138. Facebook Crypto Scammers are Imitating Zuckerberg, Musk, and Bezos](https://hackernoon.com/facebook-crypto-scammers-are-imitating-zuckerberg-musk-and-bezos)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-qp92h57.jpeg)
 The ads, until recently available for view in Facebook’s public ad library, were frauds that slipped through Facebook’s content moderation process...
 
-### [141. Top Facebook System Design Interview Questions (Part 2)](https://hackernoon.com/top-facebook-system-design-interview-questions-part-2-zg2x35k4)
-![](https://cdn.hackernoon.com/images/wJTgofaAImUJbfiB1xj6g3ET8Hh2-yh2g322m.jpeg)
-Facebook System Design Interviews; Design Proximity Server; Design Search Typeahead Suggestions; Design Top N Songs; Design Privacy Settings; Design Web Crawler
+### [139. How the adoption of blockchain technology will evolve: an Interview with Harjyot Singh](https://hackernoon.com/how-companies-like-meta-are-getting-in-on-the-blockchain-craze)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-0903a2k.jpeg)
+This article talks about decentralization and trustless layer with no intermediary control and China actions on cryptocurrency. 
 
-### [142. The Noonification: How to Lose Employee Trust in 8 Easy Steps (11/17/2022)](https://hackernoon.com/11-17-2022-noonification)
+### [140. The Noonification: How to Lose Employee Trust in 8 Easy Steps (11/17/2022)](https://hackernoon.com/11-17-2022-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 11/17/2022: Top 5 stories on the Hackernoon homepage!
+
+### [141. Facebook’s PyTorch3D : A Catalyst for Deep Learning and 3D Objects](https://hackernoon.com/facebooks-pytorch3d-a-catalyst-for-deep-learning-and-3d-objects-ym973ahz)
+![](https://cdn.hackernoon.com/drafts/44nz36ty.png)
+To understand what PyTorch is, how it works, and its ability to catalyze technological advancements. It’s important first to understand the answer to the question, “What is PyTorch?”
+
+### [142. Top Facebook System Design Interview Questions (Part 2)](https://hackernoon.com/top-facebook-system-design-interview-questions-part-2-zg2x35k4)
+![](https://cdn.hackernoon.com/images/wJTgofaAImUJbfiB1xj6g3ET8Hh2-yh2g322m.jpeg)
+Facebook System Design Interviews; Design Proximity Server; Design Search Typeahead Suggestions; Design Top N Songs; Design Privacy Settings; Design Web Crawler
 
 ### [143. Hiring Managers Share How to Answer Behavioral Interview Questions](https://hackernoon.com/hiring-managers-answer-common-behavioral-questions-asked-at-interviews-x23836u0)
 ![](https://cdn.hackernoon.com/drafts/fcd636xv.png)
@@ -605,77 +607,77 @@ Ex-Google Tech Lead shares his experience in growing a business from 0 to millio
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-pv2z3f5k.jpeg)
 Read this post for insight into why Amazon Advertising is flourishing -- and how Apple and Google are playing into Amazon's hands. 
 
-### [146. Boomer vs. Zoomer](https://hackernoon.com/boomer-vs-zoomer)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-a792d9v.jpeg)
-A video of Mark Zuckerburg trading blows with MMA fighter Khai Wu has the Boomies of the internet united.
-
-### [147. Team Red vs. Team Blue](https://hackernoon.com/team-red-vs-team-blue)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bd92dmc.jpeg)
-As if the console wars weren't bad enough, now PC gamers have to get into the same dilemma: go for team red or team blue.
-
-### [148. Facebook: Now Available at an Introductory Price of $11.99](https://hackernoon.com/facebook-now-available-at-an-introductory-price-of-$1199)
+### [146. Facebook: Now Available at an Introductory Price of $11.99](https://hackernoon.com/facebook-now-available-at-an-introductory-price-of-$1199)
 ![](https://cdn.hackernoon.com/images/person-wearing-a-vr-headset-with-dollar-signs-floating-in-the-background-cleftuvo5000401s6d4t5cf4i.png)
 Meta announced a so-called subscription bundle that will get you the verified badge on Facebook and Instagram along with a bunch of other benefits. 
 
-### [149. Most Photographed Places in Paris [Facebook Data Analysis]](https://hackernoon.com/most-photographed-places-in-paris-facebook-data-analysis-qj2a332v)
-![](https://cdn.hackernoon.com/images/rTrhHLrx9IPDoD8YYbYymdBYWky2-nt2u3191.jpeg)
-I analyzed all locations from Instagram and Facebook to find out the most photographed places in Paris. I also managed to get the data about the expensiveness and popularity during the day. Below you can find my report with a bunch of sexy maps and insightful tables. Enjoy 😉
+### [147. Pixelated Social Media Icon GIFs: Facebook, Twitter, LinkedIn, GitHub, YouTube and Instagram](https://hackernoon.com/pixelated-social-media-icon-gifs-facebook-twitter-linkedin-github-youtube-and-instagram-5kn3ad3)
+![](https://cdn.hackernoon.com/images/cicv2ia6.gif)
+Hacker Noon has a new Giphy account. Our first 30 GIFs have created over 2.2 million views. These popular social media icons have been pixelated, greenified and GIF-ed: 
 
-### [150. Facebook becomes Meta- What is next?](https://hackernoon.com/facebook-becomes-meta-what-is-next)
-![](https://cdn.hackernoon.com/images/hfzyDMUs8NM8oj1r5fb9K6U3nBq2-n4137oh.jpeg)
-Metaverse is the buzzword and there are more to come for all of us. Let me walk you through this new world. #jennyzheng
+### [148. Boomer vs. Zoomer](https://hackernoon.com/boomer-vs-zoomer)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-a792d9v.jpeg)
+A video of Mark Zuckerburg trading blows with MMA fighter Khai Wu has the Boomies of the internet united.
 
-### [151. Meta's AI Chatbots Are 'Dirty Talking' With Kids Using Celebrity's Voice, Wall Street Journal Finds](https://hackernoon.com/metas-ai-chatbots-are-dirty-talking-with-kids-using-celebritys-voice-wall-street-journal-finds)
+### [149. Meta's AI Chatbots Are 'Dirty Talking' With Kids Using Celebrity's Voice, Wall Street Journal Finds](https://hackernoon.com/metas-ai-chatbots-are-dirty-talking-with-kids-using-celebritys-voice-wall-street-journal-finds)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-ed038oc.png)
 Meta’s AI chatbots, including some that mimic the voices of celebrities like John Cena, Kristen Bell, and even Judi Dench, have been engaging in dirty chats.
 
-### [152. 7 Powerful Facebook Marketing Tips To Help Your Business Grow](https://hackernoon.com/7-powerful-facebook-marketing-tips-to-help-your-business-grow-tfg3zuo)
+### [150. Team Red vs. Team Blue](https://hackernoon.com/team-red-vs-team-blue)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bd92dmc.jpeg)
+As if the console wars weren't bad enough, now PC gamers have to get into the same dilemma: go for team red or team blue.
+
+### [151. Facebook becomes Meta- What is next?](https://hackernoon.com/facebook-becomes-meta-what-is-next)
+![](https://cdn.hackernoon.com/images/hfzyDMUs8NM8oj1r5fb9K6U3nBq2-n4137oh.jpeg)
+Metaverse is the buzzword and there are more to come for all of us. Let me walk you through this new world. #jennyzheng
+
+### [152. Most Photographed Places in Paris [Facebook Data Analysis]](https://hackernoon.com/most-photographed-places-in-paris-facebook-data-analysis-qj2a332v)
+![](https://cdn.hackernoon.com/images/rTrhHLrx9IPDoD8YYbYymdBYWky2-nt2u3191.jpeg)
+I analyzed all locations from Instagram and Facebook to find out the most photographed places in Paris. I also managed to get the data about the expensiveness and popularity during the day. Below you can find my report with a bunch of sexy maps and insightful tables. Enjoy 😉
+
+### [153. 7 Powerful Facebook Marketing Tips To Help Your Business Grow](https://hackernoon.com/7-powerful-facebook-marketing-tips-to-help-your-business-grow-tfg3zuo)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFyHB7HsVjNapA67lnTFRnjWNxnw1-atx3wgv.jpeg?alt=media&token=fefbadd1-7570-429b-9cf4-b0afb290b784)
 As an entrepreneur, you are probably well aware that building a strong online presence for your business is not an option anymore, but a requirement. That means you have to brush up on your digital marketing skills, if you want to achieve your business goals and help your company grow. 
 
-### [153. Why Hacker Noon Dedicated Our Site Wide Banner Placement to #BlackLivesMatter](https://hackernoon.com/why-hacker-noon-is-dedicating-our-site-wide-banner-placement-to-blacklivesmatter-er18305t)
-![](https://cdn.hackernoon.com/images/whoh301h.jpg)
-Over the weekend, instead of our usual "taking a break" from work mode, we at Hacker Noon have been talking among each other about the heaviness of past weeks events, and how we as a company can do anything meaningful in response to them. 
-
-### [154. The Internet is Broken, But The Metaverse and Web 3.0 Could be the Solution](https://hackernoon.com/the-internet-is-broken-but-the-metaverse-and-web-30-could-be-the-solution)
-![](https://cdn.hackernoon.com/images/zaVyJ3dcr6YgXE0hJ3QabUCHwFi1-ph139l2.jpeg)
-What is the major issue with the internet today, and how can Web 3.0 fix it?
-
-### [155. 298 Stories To Learn About Facebook](https://hackernoon.com/298-stories-to-learn-about-facebook)
+### [154. 298 Stories To Learn About Facebook](https://hackernoon.com/298-stories-to-learn-about-facebook)
 ![](https://cdn.hackernoon.com/images/github/facebook-197.png)
 Learn everything you need to know about Facebook via these 298 free HackerNoon stories.
 
-### [156. WhatsApp Users Hit 2 Billion: What Does This Mean for the Future of Privacy?](https://hackernoon.com/whatsapp-users-hit-2-billion-what-does-this-mean-for-the-future-of-privacy-ffcc3a2i)
+### [155. Why Hacker Noon Dedicated Our Site Wide Banner Placement to #BlackLivesMatter](https://hackernoon.com/why-hacker-noon-is-dedicating-our-site-wide-banner-placement-to-blacklivesmatter-er18305t)
+![](https://cdn.hackernoon.com/images/whoh301h.jpg)
+Over the weekend, instead of our usual "taking a break" from work mode, we at Hacker Noon have been talking among each other about the heaviness of past weeks events, and how we as a company can do anything meaningful in response to them. 
+
+### [156. The Internet is Broken, But The Metaverse and Web 3.0 Could be the Solution](https://hackernoon.com/the-internet-is-broken-but-the-metaverse-and-web-30-could-be-the-solution)
+![](https://cdn.hackernoon.com/images/zaVyJ3dcr6YgXE0hJ3QabUCHwFi1-ph139l2.jpeg)
+What is the major issue with the internet today, and how can Web 3.0 fix it?
+
+### [157. WhatsApp Users Hit 2 Billion: What Does This Mean for the Future of Privacy?](https://hackernoon.com/whatsapp-users-hit-2-billion-what-does-this-mean-for-the-future-of-privacy-ffcc3a2i)
 ![](https://images.unsplash.com/photo-1523365237953-9f36b3c8cada?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 There are now over 2 billion registered users on the mobile messaging platform, up from 1.5 billion in 2017.
-
-### [157. How Facebook Changed Their Homepage Every Year for the Last 17 Years](https://hackernoon.com/how-facebook-changed-their-homepage-every-year-for-the-last-17-years-ek6w3ell)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHbWW1OeRrQZOE8HInwN6750pm6R2-3p5y3eqg.jpeg?alt=media&token=c21c5cf4-5c6a-49c5-8dfe-3c70f4802f83)
-2004 Feb 12. TheFacebook.com 
 
 ### [158. Facebook vs. Decentralized Projects: Who Will Win the 'Metaverse War'?](https://hackernoon.com/facebook-vs-decentralized-projects-who-will-win-the-metaverse-war)
 ![](https://cdn.hackernoon.com/images/97JsxpUerpX7fD8dyJShH18i3OH3-wg03gpw.jpeg)
 Facebook's Upcoming Metaverse: the Caveats of Centralization and Why Decentralized Projects Will Dominate the Market in the Long Run
 
-### [159. COVID19 Technology Trends Affecting the Spread of the Pandemic ](https://hackernoon.com/covid19-technology-trends-affecting-the-spread-of-the-pandemic-l91032um)
+### [159. How Facebook Changed Their Homepage Every Year for the Last 17 Years](https://hackernoon.com/how-facebook-changed-their-homepage-every-year-for-the-last-17-years-ek6w3ell)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHbWW1OeRrQZOE8HInwN6750pm6R2-3p5y3eqg.jpeg?alt=media&token=c21c5cf4-5c6a-49c5-8dfe-3c70f4802f83)
+2004 Feb 12. TheFacebook.com 
+
+### [160. COVID19 Technology Trends Affecting the Spread of the Pandemic ](https://hackernoon.com/covid19-technology-trends-affecting-the-spread-of-the-pandemic-l91032um)
 ![](https://cdn.hackernoon.com/images/va1i2328t.jpg)
 Photo Credit, https://nextstrain.org/ncov
-
-### [160. You’re Not Alone, Coding is Hard! How to Deal with Programming Roadblocks](https://hackernoon.com/youre-not-alone-coding-is-hard-how-to-deal-with-programming-roadblocks-lj2e33zz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-yuf43tcb.jpeg?alt=media&token=074c7e5c-2132-4d3a-a63c-9d95f958ace5)
-Ex-Google Tech Lead explains why programming is so hard.
 
 ### [161. Facebook's Inexcusable Tolerance for Fake Profiles and Fraudulent Operations](https://hackernoon.com/facebooks-inexcusable-tolerance-for-fake-profiles-and-fraudulent-operations)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-wb93mt3.jpeg)
 Facebook, the Goliath of social networks, seems content with giving only lip service to address these problems.
 
-### [162. Pixelated Social Media Icon GIFs: Facebook, Twitter, LinkedIn, GitHub, YouTube and Instagram](https://hackernoon.com/pixelated-social-media-icon-gifs-facebook-twitter-linkedin-github-youtube-and-instagram-5kn3ad3)
-![](https://cdn.hackernoon.com/images/cicv2ia6.gif)
-Hacker Noon has a new Giphy account. Our first 30 GIFs have created over 2.2 million views. These popular social media icons have been pixelated, greenified and GIF-ed: 
-
-### [163. 67 Stories To Learn About Big Tech](https://hackernoon.com/67-stories-to-learn-about-big-tech)
+### [162. 67 Stories To Learn About Big Tech](https://hackernoon.com/67-stories-to-learn-about-big-tech)
 ![](https://cdn.hackernoon.com/images/github/big-tech-639.png)
 Learn everything you need to know about Big Tech via these 67 free HackerNoon stories.
+
+### [163. You’re Not Alone, Coding is Hard! How to Deal with Programming Roadblocks](https://hackernoon.com/youre-not-alone-coding-is-hard-how-to-deal-with-programming-roadblocks-lj2e33zz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-yuf43tcb.jpeg?alt=media&token=074c7e5c-2132-4d3a-a63c-9d95f958ace5)
+Ex-Google Tech Lead explains why programming is so hard.
 
 ### [164. How I Lost Trust in Facebook ](https://hackernoon.com/how-i-lost-trust-in-facebook-f84r3wx3)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-eq82r8l.jpeg)
@@ -693,25 +695,25 @@ Ex-Google Tech Lead talks you through the #1 engineering practice: Design Docs.
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0GJwih4HJ6MiPCnDan9wzUlbDhX2-2mz3wg2.jpeg?alt=media&token=1d5ef516-733d-4ad9-8102-d15404ac0a70)
 It is no secret that big tech has been actively monitoring and censoring users.  The past three years have seen a big rise in reported censorship events by the likes of  Youtube, Google, Facebook, and Twitter. 
 
-### [168. Facebook’s Libra Currency ](https://hackernoon.com/facebooks-libra-currency-qb50x28ua)
-![](https://cdn.hackernoon.com/drafts/e952c28vs.png)
-‘Big Tech’ are coming for our banks, but should we be worried?
-
-### [169. Overview of the Top Available Career Paths for Software Engineers With Advice on How to Navigate it ](https://hackernoon.com/overview-of-the-top-available-career-paths-for-software-engineers-with-advice-on-how-to-navigate-it-ne3t33dz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-32pr3t2x.jpeg?alt=media&token=d96f89da-56b1-4c75-908e-5f5c0a8c0a9d)
-Ex-Google Tech Lead walks you through the career paths for software engineers and computer science majors. 
-
-### [170. How to Set Up Custom Events On Facebook and Google Without Code](https://hackernoon.com/how-to-set-up-custom-events-on-facebook-and-google-without-code-391l3xeu)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQdRQJW6V96b8SQtJgBmzVkZNOfl2-ta8p3uxa.jpeg?alt=media&token=8d429fbc-c9b4-4ca4-b7bb-1f18bc29f871)
-When you hear the word “event”, what comes to mind? A concert? A political rally? Today, with COVID-19 still at large, the word "event" also brings to mind something "digital" or "streaming" with respect to social media platforms. 
-
-### [171. U.S. Virgin Islands Lawsuit Finally Calls Time On Meta’s Profitable Scam Ad Machine](https://hackernoon.com/us-virgin-islands-lawsuit-finally-calls-time-on-metas-profitable-scam-ad-machine)
+### [168. U.S. Virgin Islands Lawsuit Finally Calls Time On Meta’s Profitable Scam Ad Machine](https://hackernoon.com/us-virgin-islands-lawsuit-finally-calls-time-on-metas-profitable-scam-ad-machine)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-4o03dta.png)
 The U.S. Virgin Islands is accusing Meta of deliberately profiting from scam advertising.
 
-### [172. The Do's and Don'ts of Mark Zuckerberg's Growth Marketing Strategy](https://hackernoon.com/the-dos-and-donts-of-mark-zuckerbergs-growth-marketing-strategy)
+### [169. The Do's and Don'ts of Mark Zuckerberg's Growth Marketing Strategy](https://hackernoon.com/the-dos-and-donts-of-mark-zuckerbergs-growth-marketing-strategy)
 ![](https://cdn.hackernoon.com/images/ngHDAPAkTVewJw6kn6UO6AUIdBl2-ura3k6v.jpeg)
 Here are the biggest takeaways for growth marketers from Mark Zuckerberg’s appearance on the Joe Rogan Experience.
+
+### [170. Facebook’s Libra Currency ](https://hackernoon.com/facebooks-libra-currency-qb50x28ua)
+![](https://cdn.hackernoon.com/drafts/e952c28vs.png)
+‘Big Tech’ are coming for our banks, but should we be worried?
+
+### [171. Overview of the Top Available Career Paths for Software Engineers With Advice on How to Navigate it ](https://hackernoon.com/overview-of-the-top-available-career-paths-for-software-engineers-with-advice-on-how-to-navigate-it-ne3t33dz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-32pr3t2x.jpeg?alt=media&token=d96f89da-56b1-4c75-908e-5f5c0a8c0a9d)
+Ex-Google Tech Lead walks you through the career paths for software engineers and computer science majors. 
+
+### [172. How to Set Up Custom Events On Facebook and Google Without Code](https://hackernoon.com/how-to-set-up-custom-events-on-facebook-and-google-without-code-391l3xeu)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQdRQJW6V96b8SQtJgBmzVkZNOfl2-ta8p3uxa.jpeg?alt=media&token=8d429fbc-c9b4-4ca4-b7bb-1f18bc29f871)
+When you hear the word “event”, what comes to mind? A concert? A political rally? Today, with COVID-19 still at large, the word "event" also brings to mind something "digital" or "streaming" with respect to social media platforms. 
 
 ### [173. 6 Reasons Why You Should Add Social Media Feeds to Your Website](https://hackernoon.com/6-reasons-why-you-should-add-social-media-feeds-to-your-website-pb7731mw)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-nv6p31ut.jpeg)
@@ -725,58 +727,58 @@ Large numbers of Facebook employees, left-leaning people, and moderates are all 
 ![](https://cdn.hackernoon.com/images/noonification_732_ds67vqr0djbioes5teeflt34.png)
 10/23/2023: Top 5 stories on the Hackernoon homepage!
 
-### [176. The 449-Page Antitrust Report on Big Tech Monopolies: Key Takeways](https://hackernoon.com/the-449-page-antitrust-report-on-big-tech-monopolies-key-takeways-ep4b3t5s)
+### [176. Building a Neural Network to Detect Ad Fraud](https://hackernoon.com/building-a-neural-network-to-detect-ad-fraud-7o1p3us5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fz4pbl4MtCcaRUc61q2pyoRnO5hH2-rrc3uqg.jpeg?alt=media&token=1d979d5a-f5a2-4d8b-9f87-b4683410b3b1)
+The world of online ad fraud prevention involves finding attacks before they hit ad budgets. This requires continuous streaming of high frequency, high volume data. With say, credit card fraud, banks have limited amounts of requests, say 1 million a day to investigate. However, advertising fraud prevention solutions need to analyze 20,000 requests per second. 
+
+### [177. The 449-Page Antitrust Report on Big Tech Monopolies: Key Takeways](https://hackernoon.com/the-449-page-antitrust-report-on-big-tech-monopolies-key-takeways-ep4b3t5s)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWeVnMlCdKaWlNIW0pYWlfsExkgm1-tm2r3wdj.jpeg?alt=media&token=af9d766e-73bb-4cd1-b4ce-60783376d6f0)
 On October 6th 2020, the House lawmakers released a 449-page report investigating how Amazon, Apple, Facebook and Google managed to turn from “scrappy” start-ups into “the kinds of monopolies we saw last in the era of oil barons and railroad tycoons”. This comparison is not misleading since data is referred to as the new oil.
-
-### [177. Stop Aimlessly Scrolling — Start Earning $ from Facebook's Whitehat Platform](https://hackernoon.com/stop-aimlessly-scrollingstart-earning-dollar-from-facebooks-whitehat-platform-dmub3ybc)
-![](https://cdn.hackernoon.com/drafts/c1e13y87.png)
-Did you know that Facebook paid out $880,000 in bug bounties in 2017?  Well, I got my second bounty within a relatively short span of time.
-The issue was reproduced by their security team with ease, and had meaningful impact on user’s privacy. I hope this write-up inspires people not to overlook small issues while scrolling aimlessly through Facebook, and also while testing it.
 
 ### [178. Google Brings Facebook and Amazon into Its Open Bidding Fold](https://hackernoon.com/google-brings-facebook-and-amazon-into-its-open-bidding-fold)
 ![](https://cdn.hackernoon.com/images/big-friends-helping-each-other-out-c5jeo4gk04eztgrkztcykjey.png)
 Google Further Stunts Header Bidding by Working to Bring Facebook and Amazon into Its Open Bidding Fold
 
-### [179. What Makes Facebook’s Libra More Centralized?](https://hackernoon.com/what-makes-facebooks-libra-more-centralized-jk14d3ew2)
-![](https://cdn.hackernoon.com/drafts/5x15r3erg.png)
+### [179. Stop Aimlessly Scrolling — Start Earning $ from Facebook's Whitehat Platform](https://hackernoon.com/stop-aimlessly-scrollingstart-earning-dollar-from-facebooks-whitehat-platform-dmub3ybc)
+![](https://cdn.hackernoon.com/drafts/c1e13y87.png)
+Did you know that Facebook paid out $880,000 in bug bounties in 2017?  Well, I got my second bounty within a relatively short span of time.
+The issue was reproduced by their security team with ease, and had meaningful impact on user’s privacy. I hope this write-up inspires people not to overlook small issues while scrolling aimlessly through Facebook, and also while testing it.
 
-
-### [180. Facebook Takes Action On 19.2 million Posts of Violence Using AI](https://hackernoon.com/facebook-takes-action-on-192-million-posts-of-violence-using-ai-tm6e31sq)
-![](https://cdn.hackernoon.com/images/cvDhqqOWOvhMuTE0YiVof2wDjt42-6b5h311l.jpeg)
-Facebook AI researchers have leveraged advancing technologies and Machine Learning to develop a system with a level of intelligence on par with humans. AI enables and equips Facebook with various tools, including interactive chat modules, chatbots, polls, surveys, and more.
-
-### [181. Is Facebook Putting Digital Identity At Risk With Libra? Here’s Why It Raises Privacy Concerns](https://hackernoon.com/facebook-putting-digital-identity-at-risk-with-libra-heres-why-it-raises-privacy-concerns-6s1je3zdm)
+### [180. Is Facebook Putting Digital Identity At Risk With Libra? Here’s Why It Raises Privacy Concerns](https://hackernoon.com/facebook-putting-digital-identity-at-risk-with-libra-heres-why-it-raises-privacy-concerns-6s1je3zdm)
 ![](https://cdn.hackernoon.com/drafts/ee1ha3zn7.png)
 Last month, Facebook finally disclosed details of its much-hyped cryptocurrency, Libra. After generating an immense amount of chatter, the company announced that the digital currency, set to launch in 2020, will enable people to buy things or send money to others with almost zero fees. 
 
-### [182. Your Facebook Privacy Guide for 2022](https://hackernoon.com/your-facebook-privacy-guide-for-2022)
+### [181. Facebook Takes Action On 19.2 million Posts of Violence Using AI](https://hackernoon.com/facebook-takes-action-on-192-million-posts-of-violence-using-ai-tm6e31sq)
+![](https://cdn.hackernoon.com/images/cvDhqqOWOvhMuTE0YiVof2wDjt42-6b5h311l.jpeg)
+Facebook AI researchers have leveraged advancing technologies and Machine Learning to develop a system with a level of intelligence on par with humans. AI enables and equips Facebook with various tools, including interactive chat modules, chatbots, polls, surveys, and more.
+
+### [182. What Makes Facebook’s Libra More Centralized?](https://hackernoon.com/what-makes-facebooks-libra-more-centralized-jk14d3ew2)
+![](https://cdn.hackernoon.com/drafts/5x15r3erg.png)
+
+
+### [183. Your Facebook Privacy Guide for 2022](https://hackernoon.com/your-facebook-privacy-guide-for-2022)
 ![](https://cdn.hackernoon.com/images/RlvxrX3WGnOoYckXvanG0ZcyKyl2-2n1375o.jpeg)
 Checking every single privacy option on Facebook takes time — but it’s time well-spent if you care about controlling your privacy online.
-
-### [183. Building a Neural Network to Detect Ad Fraud](https://hackernoon.com/building-a-neural-network-to-detect-ad-fraud-7o1p3us5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fz4pbl4MtCcaRUc61q2pyoRnO5hH2-rrc3uqg.jpeg?alt=media&token=1d979d5a-f5a2-4d8b-9f87-b4683410b3b1)
-The world of online ad fraud prevention involves finding attacks before they hit ad budgets. This requires continuous streaming of high frequency, high volume data. With say, credit card fraud, banks have limited amounts of requests, say 1 million a day to investigate. However, advertising fraud prevention solutions need to analyze 20,000 requests per second. 
 
 ### [184. Instagram Users Start Minting and Selling NFTS](https://hackernoon.com/instagram-users-start-minting-and-selling-nfts)
 ![](https://cdn.hackernoon.com/images/gxGS5MOkjZXIajVKGAzLENuLqEQ2-uh93082.jpeg)
 Earlier this month, Instagram announced it would allow users to mint and sell non-fungible tokens (NFTs) on its platform. 
 
-### [185. Top 5 Video Chat Apps of 2020](https://hackernoon.com/top-5-video-chat-apps-of-2020-xtif3xnb)
+### [185. The Facebook Exodus: Why I'm Leaving and Why Expert Verification Matters More Than Ever](https://hackernoon.com/the-facebook-exodus-why-im-leaving-and-why-expert-verification-matters-more-than-ever)
+![](https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-3q03523.jpeg)
+Mark Zuckerberg says abandoning fact-checking is about fostering "free speech," but it feels like abdicating responsibility. I've had enough.
+
+### [186. Top 5 Video Chat Apps of 2020](https://hackernoon.com/top-5-video-chat-apps-of-2020-xtif3xnb)
 ![](https://cdn.hackernoon.com/drafts/zyr53y77.png)
 The world has been evolving ever since its inception. There is no doubt that Generation-Z (1997-2012) has witnessed many changes. These changes were related especially with the advancement of science and technology. The concept of video calling dates back to the year 1910, and back then it was termed as video telephony. So, the concept is pretty antiquated, but with time innovation played its part and kept it looking contemporary. Having said that, we’ll now look at the options we have when it comes to video calling.
 
-### [186. Cambium Networks and Facebook Team Up For the Sake of Smart Cities](https://hackernoon.com/cambium-network-and-facebook-team-up-for-the-sake-of-smart-cities-kvae3y8k)
+### [187. Cambium Networks and Facebook Team Up For the Sake of Smart Cities](https://hackernoon.com/cambium-network-and-facebook-team-up-for-the-sake-of-smart-cities-kvae3y8k)
 ![](https://cdn.hackernoon.com/images/uijf3ygr.jpg)
 Of the many, many lessons we’ve taken away thus far from the coronavirus pandemic, it’s that the world has demonstrated an essential need for wireless connectivity. Recognizing the global demand, Cambium Networks, the former Motorola company, is a global provider of indoor and outdoor wireless solutions that connect people, places, and things. The company enables enterprises, industries, utility companies, service providers, and governments to build powerful communications networks that deliver amazing satisfaction reliability across end-users.
 
-### [187. Comparing Algorand and Libra: The Road to Decentralization](https://hackernoon.com/comparing-algorand-and-libra-mission-impartial-vs-mission-impossible-bp613z6e)
+### [188. Comparing Algorand and Libra: The Road to Decentralization](https://hackernoon.com/comparing-algorand-and-libra-mission-impartial-vs-mission-impossible-bp613z6e)
 ![](https://cdn.hackernoon.com/drafts/vav53z4w.png)
 August 12, 2019
-
-### [188. The Facebook Exodus: Why I'm Leaving and Why Expert Verification Matters More Than Ever](https://hackernoon.com/the-facebook-exodus-why-im-leaving-and-why-expert-verification-matters-more-than-ever)
-![](https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-3q03523.jpeg)
-Mark Zuckerberg says abandoning fact-checking is about fostering "free speech," but it feels like abdicating responsibility. I've had enough.
 
 ### [189. RocksDB Is Steadily Eating the Database World](https://hackernoon.com/rocksdb-is-steadily-eating-the-database-world-na6132ax)
 ![](https://cdn.hackernoon.com/images/7ckt3ymi.jpg)
@@ -790,30 +792,30 @@ LinkedIn shows social platforms can fight scammers and fake profiles—if they w
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-2oi4xlq.jpeg?alt=media&token=9ae04d9e-acd4-40bc-b3ae-c11f90359c79)
 Learn about my secret way for getting into Google.
 
-### [192. Zuckerberg Announces Oculus Quest 2 Release Date and Price](https://hackernoon.com/zuckerberg-announces-oculus-quest-2-release-date-and-price-pj733tdf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-fs3y3t7j.jpeg?alt=media&token=9b37e7fc-9372-4737-af2a-7ab34b62a6bf)
-On September 16th, 2020, via Facebook Connect, CEO Mark Zuckerberg made a long-awaited announcement regarding the Oculus Quest 2. That's right, we finally have a release date and price and trust me, you won't be disappointed. 
-
-### [193. Libra is The Offshore Oil Rig of Data Collection. Drill Baby Drill.](https://hackernoon.com/--6d103xwz)
+### [192. Libra is The Offshore Oil Rig of Data Collection. Drill Baby Drill.](https://hackernoon.com/--6d103xwz)
 ![](https://cdn.hackernoon.com/images/zan32py.jpg)
 Libra Is Not A Gateway Cryptocurrency
 
-### [194. Suicide Hotlines Promised Anonymity - So Why Was Sensitive Data Sent to Facebook?](https://hackernoon.com/suicide-hotlines-promised-anonymity-so-why-was-sensitive-data-sent-to-facebook)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-fg1364r.jpeg)
-Websites for mental health crisis resources across the country—which promise anonymity have been quietly sending sensitive visitor data to Facebook
+### [193. Zuckerberg Announces Oculus Quest 2 Release Date and Price](https://hackernoon.com/zuckerberg-announces-oculus-quest-2-release-date-and-price-pj733tdf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-fs3y3t7j.jpeg?alt=media&token=9b37e7fc-9372-4737-af2a-7ab34b62a6bf)
+On September 16th, 2020, via Facebook Connect, CEO Mark Zuckerberg made a long-awaited announcement regarding the Oculus Quest 2. That's right, we finally have a release date and price and trust me, you won't be disappointed. 
 
-### [195. 124 Stories To Learn About Youtube](https://hackernoon.com/124-stories-to-learn-about-youtube)
+### [194. 124 Stories To Learn About Youtube](https://hackernoon.com/124-stories-to-learn-about-youtube)
 ![](https://cdn.hackernoon.com/images/github/youtube-493.png)
 Learn everything you need to know about Youtube via these 124 free HackerNoon stories.
 
-### [196. The Facebook Business Model Might Die](https://hackernoon.com/the-facebook-business-model-might-die)
+### [195. Suicide Hotlines Promised Anonymity - So Why Was Sensitive Data Sent to Facebook?](https://hackernoon.com/suicide-hotlines-promised-anonymity-so-why-was-sensitive-data-sent-to-facebook)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-fg1364r.jpeg)
+Websites for mental health crisis resources across the country—which promise anonymity have been quietly sending sensitive visitor data to Facebook
+
+### [196. Meta Releases New Tools for Authors in Horizon Worlds](https://hackernoon.com/meta-releases-new-tools-for-authors-in-horizon-worlds)
+![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-5k93g69.jpeg)
+Meta's Horizon Worlds has applied new tools for authors to make this metaverse more popular. I discuss them and show my findings on Meta's Horizon Worlds future
+
+### [197. The Facebook Business Model Might Die](https://hackernoon.com/the-facebook-business-model-might-die)
 ![](https://cdn.hackernoon.com/images/2h3hqTmyuxXacclcSFqybjZrpMN2-qi93gwp.jpeg)
 This article is in reply to "How Much Internet Regulation Does Facebook Support?"
 
-
-### [197. Meta Releases New Tools for Authors in Horizon Worlds](https://hackernoon.com/meta-releases-new-tools-for-authors-in-horizon-worlds)
-![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-5k93g69.jpeg)
-Meta's Horizon Worlds has applied new tools for authors to make this metaverse more popular. I discuss them and show my findings on Meta's Horizon Worlds future
 
 ### [198. This Decade, The Masses Will Not Be Able to Avoid Digital Currencies ](https://hackernoon.com/this-decade-the-masses-will-not-be-able-to-avoid-digital-currencies-5b5u3157)
 ![](https://cdn.hackernoon.com/images/ci3g2dy6.jpg)
@@ -831,17 +833,17 @@ A user of a low-level hacking forum posted the records of hundreds of millions o
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-rdb2hry.jpeg)
 Facebook is collecting ultrasensitive personal data about abortion seekers and enabling anti-abortion organizations to use that data
 
-### [202. Crypto and Blockchain Among the Pillars of the 4th Industrial Revolution](https://hackernoon.com/crypto-and-blockchain-among-the-pillars-of-the-4th-industrial-revolution-fns234em)
-![](https://cdn.hackernoon.com/images/gjth34vg.jpg)
-Thanks to Facebook’s recent announcement of project Libra, cryptocurrencies are back in the spotlight. The big daddy, Bitcoin, has just celebrated its 10th birthday and is, converse to what many naysayers may have you believe, still performing well (it’s currently hovering around $10k). It seems that much like the internet, smartphones and social media, cryptocurrencies aren’t a passing fad afterall. 
-
-### [203. Digital Marketing: Best Social Media Platform for Business](https://hackernoon.com/digital-marketing-best-social-media-platform-for-business)
+### [202. Digital Marketing: Best Social Media Platform for Business](https://hackernoon.com/digital-marketing-best-social-media-platform-for-business)
 ![](https://cdn.hackernoon.com/images/Bm6Dk7O9xqaIxfKLbfh8LQkOJos2-dua3zg9.jpeg)
 The platforms where you may discover the majority of your target audience should be the focus of your initial marketing efforts.
 
-### [204. Meta’s Meteoric Rise in 2023 Shows No Sign of Slowing This Year](https://hackernoon.com/metas-meteoric-rise-in-2023-shows-no-sign-of-slowing-this-year)
+### [203. Meta’s Meteoric Rise in 2023 Shows No Sign of Slowing This Year](https://hackernoon.com/metas-meteoric-rise-in-2023-shows-no-sign-of-slowing-this-year)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-lq83368.jpeg)
 After shedding more than 70% of its value amid 2022’s tech stock sell-offs the stock surged 180% in 2023–and the tech giant is far from finished. 
+
+### [204. Crypto and Blockchain Among the Pillars of the 4th Industrial Revolution](https://hackernoon.com/crypto-and-blockchain-among-the-pillars-of-the-4th-industrial-revolution-fns234em)
+![](https://cdn.hackernoon.com/images/gjth34vg.jpg)
+Thanks to Facebook’s recent announcement of project Libra, cryptocurrencies are back in the spotlight. The big daddy, Bitcoin, has just celebrated its 10th birthday and is, converse to what many naysayers may have you believe, still performing well (it’s currently hovering around $10k). It seems that much like the internet, smartphones and social media, cryptocurrencies aren’t a passing fad afterall. 
 
 ### [205. Scott Galloway: We're Falling For This Again - CEOs and Regulation](https://hackernoon.com/scott-galloway-were-falling-for-this-again-ceos-and-regulation)
 ![](https://cdn.hackernoon.com/images/social-media-clidenvew000301s6d2hn7hgr.png)
@@ -851,47 +853,47 @@ We're falling for this (shit), again.
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-uq92l06.jpeg)
 Meanwhile, developments in another legal case suggest Meta may have a hard time providing the Senate committee with a complete account of the health data.
 
-### [207. Twitter Stock Curiously Tanked as People Flock to the App while #InstagramFacebookDown](https://hackernoon.com/twitter-stock-curiously-tanked-as-people-flock-to-the-app-while-instagramfacebookdown)
-![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-ia6368d.jpeg)
-Is Kanye responsible for Facebook going down?! A Hackernoon watercooler chat. 
-
-### [208. Facebook Has Managed To Mess Up Beyond All Common Sense. A Social Media Nightmare ](https://hackernoon.com/facebook-has-managed-to-mess-up-beyond-all-common-sense-a-social-media-nightmare)
+### [207. Facebook Has Managed To Mess Up Beyond All Common Sense. A Social Media Nightmare ](https://hackernoon.com/facebook-has-managed-to-mess-up-beyond-all-common-sense-a-social-media-nightmare)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-b683vuf.jpeg)
 Facebook has become a social media nightmare while messing up beyond all common sense. Its allowing the promotion of spam and removing legitimate content. 
 
 
-### [209. Is Facebook's Libra Even a Cryptocurrency?](https://hackernoon.com/is-facebooks-libra-even-a-cryptocurrency-wca43zy1)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ug82r5b.jpeg)
-When Facebook first publicised its plans to launch a new 'decentralised' digital currency in 2019, Libra, many people were surprised at the news. Few months after Libra's announcement, Facebook released its official whitepaper to the general populace, and eyebrows were raised. 
+### [208. Twitter Stock Curiously Tanked as People Flock to the App while #InstagramFacebookDown](https://hackernoon.com/twitter-stock-curiously-tanked-as-people-flock-to-the-app-while-instagramfacebookdown)
+![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-ia6368d.jpeg)
+Is Kanye responsible for Facebook going down?! A Hackernoon watercooler chat. 
 
-### [210. Social VR: The New Way of Communicating](https://hackernoon.com/social-vr-the-new-way-of-communicating-s41e3t9a)
+### [209. Social VR: The New Way of Communicating](https://hackernoon.com/social-vr-the-new-way-of-communicating-s41e3t9a)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWxLGCLdDjafBB2Gh378O1BFiJsB3-4k3d3uv2.jpeg?alt=media&token=d2f92ec6-d838-4dd4-946f-89c75dc76da0)
 Currently there are 4 ways that we communicate with other people. We write, call, have a face to face meeting or do some video chatting. The next step in communicating will be virtual communications.
+
+### [210. Is Facebook's Libra Even a Cryptocurrency?](https://hackernoon.com/is-facebooks-libra-even-a-cryptocurrency-wca43zy1)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ug82r5b.jpeg)
+When Facebook first publicised its plans to launch a new 'decentralised' digital currency in 2019, Libra, many people were surprised at the news. Few months after Libra's announcement, Facebook released its official whitepaper to the general populace, and eyebrows were raised. 
 
 ### [211. Facebook's Next Step: An AR-Powered Wristband](https://hackernoon.com/facebooks-next-step-an-ar-powered-wristband-sm1435bx)
 ![](https://cdn.hackernoon.com/images/6TUT75T6ETQEWHaSbnJYCbjYgND2-je3533w1.jpeg)
 Facebook recently announced that it will launch an AR-powered wristband that will help you browse the internet with just a click. 
 
-### [212. 5 Tips For Improving Your Facebook Marketing Strategy](https://hackernoon.com/5-tips-for-improving-your-facebook-marketing-strategy-pe1d34y5)
-![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-tj1t33pa.jpeg)
-Are you looking for a way to spread brand awareness, generate sales, and get more engagement from your target audience? If so, you could benefit from social media marketing. 
-
-### [213. Unlocking Your Tech Career Potential: Crafting a Strong Tech Resume](https://hackernoon.com/unlocking-your-tech-career-potential-crafting-a-strong-tech-resume)
+### [212. Unlocking Your Tech Career Potential: Crafting a Strong Tech Resume](https://hackernoon.com/unlocking-your-tech-career-potential-crafting-a-strong-tech-resume)
 ![](https://cdn.hackernoon.com/images/gr5XFUK4v2XnEkltsY1MOkbklda2-7ka3cya.jpeg)
 The first step to finding a dream job at a tech company is to craft a strong resume. By “Crafting a strong resume,” I don’t only mean compiling a PDF file 
 
-### [214. Mark Zuckerberg Wears "My Mom Thinks I'm Cool" Tshirt & Mesh Shorts in 2005 The Facebook Interview ](https://hackernoon.com/mark-zuckerberg-wears-my-mom-thinks-im-cool-tshirt-and-mesh-shorts-in-2005-the-facebook-interview)
+### [213. Mark Zuckerberg Wears "My Mom Thinks I'm Cool" Tshirt & Mesh Shorts in 2005 The Facebook Interview ](https://hackernoon.com/mark-zuckerberg-wears-my-mom-thinks-im-cool-tshirt-and-mesh-shorts-in-2005-the-facebook-interview)
 ![](https://cdn.hackernoon.com/images/934YRhnzQ6RgfQPaSqb03NsHlQp2-3m93pe4.jpeg)
 Bambi Francisco interviews Mark Zuckerberg in 2005. 
 
 
-### [215. How You Can Drive Traffic To Your Shopify Store](https://hackernoon.com/how-you-can-drive-traffic-to-your-shopify-store-cubv36d4)
-![](https://cdn.hackernoon.com/drafts/5e4522lmj.png)
-No matter if you’re just starting out with your first store, or are running a multi-million dollar enterprise, every eCommerce entrepreneur has one question that never leaves their mind:
+### [214. 5 Tips For Improving Your Facebook Marketing Strategy](https://hackernoon.com/5-tips-for-improving-your-facebook-marketing-strategy-pe1d34y5)
+![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-tj1t33pa.jpeg)
+Are you looking for a way to spread brand awareness, generate sales, and get more engagement from your target audience? If so, you could benefit from social media marketing. 
 
-### [216. If You're a Facebook User, You're Being Monitored by Thousands of Companies](https://hackernoon.com/if-youre-a-facebook-user-youre-being-monitored-by-thousands-of-companies)
+### [215. If You're a Facebook User, You're Being Monitored by Thousands of Companies](https://hackernoon.com/if-youre-a-facebook-user-youre-being-monitored-by-thousands-of-companies)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ab13a9c.png)
 Using 709 volunteers who shared archives of their FB data, Consumer Reports found that a total of 186,892 companies sent data about them to the social network.
+
+### [216. How You Can Drive Traffic To Your Shopify Store](https://hackernoon.com/how-you-can-drive-traffic-to-your-shopify-store-cubv36d4)
+![](https://cdn.hackernoon.com/drafts/5e4522lmj.png)
+No matter if you’re just starting out with your first store, or are running a multi-million dollar enterprise, every eCommerce entrepreneur has one question that never leaves their mind:
 
 ### [217. Data Privacy: Why The Existing Architecture is in Dire Need of Evolution](https://hackernoon.com/data-privacy-why-the-existing-architecture-is-in-dire-need-of-evolution-or-part-1-2713n2h99)
 ![](https://cdn.hackernoon.com/drafts/ok13k2hhy.png)
@@ -923,33 +925,33 @@ When it comes to advertising on Facebook, everything is important. Before invest
 ![](https://cdn.hackernoon.com/images/pz4UC2TTp6OBxKRBBDQhjojvH8w2-rv037ra.jpeg)
 Facebook is interested in the metaverse because it presents a chance to become a tech leader in the coming decades.
 
-### [224. Do’s and Don’ts of Using Hashtags to Be the Real Game Changer of Social Media Marketing](https://hackernoon.com/how-to-use-power-of-hashtags-in-your-social-media-marketing-wq9tk31vi)
-![](https://cdn.hackernoon.com/images/1x9ti31h6.jpg)
-Do’s and Don’t’s of Using Hashtags to Be the Real Game Changer of Social Media Marketing.
-
-### [225. Everyone Works for Facebook and Google](https://hackernoon.com/everyone-works-for-facebook-and-google-kj2c34hk)
+### [224. Everyone Works for Facebook and Google](https://hackernoon.com/everyone-works-for-facebook-and-google-kj2c34hk)
 ![](https://cdn.hackernoon.com/images/Mr6RgV9cthXXwijHypvfeXuAZnQ2-l353wrm.jpeg)
 Imagine a car factory where nameless workers in a sprawling complex make expensive cars all day and all night.  Thousands of shiny, new expensive cars move off the line every millisecond and are shipped instantly all over the world to wealthy buyers, generating $195 million of profit daily for the car company.  
 
-### [226. Make Posting Great Again](https://hackernoon.com/make-posting-great-again-ol3ap30se)
-![](https://cdn.hackernoon.com/drafts/li313xcx.png)
-I used to be excited to log into Facebook (and Instagram) every day and post about what happened in my life. This joy is long gone, and I find myself hesitating to post more often than I find myself actually posting. I'm attempting to figure why.
+### [225. Do’s and Don’ts of Using Hashtags to Be the Real Game Changer of Social Media Marketing](https://hackernoon.com/how-to-use-power-of-hashtags-in-your-social-media-marketing-wq9tk31vi)
+![](https://cdn.hackernoon.com/images/1x9ti31h6.jpg)
+Do’s and Don’t’s of Using Hashtags to Be the Real Game Changer of Social Media Marketing.
 
-### [227. Facebook Peeked at Your Info When You Applied for Student Aid Online ](https://hackernoon.com/facebook-peeked-at-your-info-when-you-applied-for-student-aid-online)
+### [226. Facebook Peeked at Your Info When You Applied for Student Aid Online ](https://hackernoon.com/facebook-peeked-at-your-info-when-you-applied-for-student-aid-online)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-v292i0d.jpeg)
 For millions of prospective college students, applying online for federal financial aid has also meant sharing personal data with Facebook, unbeknownst to them.
 
-### [228. 9 Beneficial Tools To Grow Your Social Media in 2020](https://hackernoon.com/9-beneficial-tools-to-grow-your-social-media-in-2020-4v2r3ulj)
+### [227. Make Posting Great Again](https://hackernoon.com/make-posting-great-again-ol3ap30se)
+![](https://cdn.hackernoon.com/drafts/li313xcx.png)
+I used to be excited to log into Facebook (and Instagram) every day and post about what happened in my life. This joy is long gone, and I find myself hesitating to post more often than I find myself actually posting. I'm attempting to figure why.
+
+### [228. The Noonification: How to Move Away From Twitter (12/15/2022)](https://hackernoon.com/12-15-2022-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+12/15/2022: Top 5 stories on the Hackernoon homepage!
+
+### [229. 9 Beneficial Tools To Grow Your Social Media in 2020](https://hackernoon.com/9-beneficial-tools-to-grow-your-social-media-in-2020-4v2r3ulj)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVAXGQbLmqTOWH0sDPEJZUYAukTo2-x42n32uv.jpeg?alt=media&token=197f50ac-dec5-40a8-afa3-ce88b043729a)
 If you’re looking for the best tools to grow your social media then look no further. In today’s article we’re going to delve into how you can find the tools that can help you grow your social media presence with the least amount of work possible (we like to be efficient).
 
-### [229. Facebook: The Magic 8 Ball ](https://hackernoon.com/facebook-the-magic-8-ball-kk2773ztv)
+### [230. Facebook: The Magic 8 Ball ](https://hackernoon.com/facebook-the-magic-8-ball-kk2773ztv)
 ![](https://cdn.hackernoon.com/drafts/p226t3znv.png)
 It is easier for a camel to pass through the eye of a needle than for a homo sapien to quit this junk.
-
-### [230. The Noonification: How to Move Away From Twitter (12/15/2022)](https://hackernoon.com/12-15-2022-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-12/15/2022: Top 5 stories on the Hackernoon homepage!
 
 ### [231. Why We Should All Care About Privacy Online—Interview: Hanna Bozakov](https://hackernoon.com/why-we-should-all-care-about-privacy-onlineinterview-tutanotas-hanna-bozakov-07193uga)
 ![](https://cdn.hackernoon.com/drafts/up1tv2t5q.png)
@@ -959,69 +961,69 @@ I interviewed Hanna Bozakov, Head of Marketing for secure email service Tutanota
 ![](https://cdn.hackernoon.com/drafts/fpfr3v39.png)
 Image Credit: Wallpapercave
 
-### [233. LIBRA- Decoding Facebook Cryptocurrency In 7 Questions](https://hackernoon.com/libra-decoding-facebook-cryptocurrency-in-7-questions-xf3y2yss)
-![](https://cdn.hackernoon.com/drafts/8w1l2ync.png)
-The American giant must present Tuesday its cryptocurrency project. While waiting for its launch scheduled for 2020, the future “libra”, conceived in partnership with 27 groups, raises many questions: how can we buy them? How will it work? Who to regulate it?
-
-### [234. The Facebook Outage Proved a Need for Greater Decentralization](https://hackernoon.com/the-facebook-outage-proved-a-need-for-greater-decentralization)
-![](https://cdn.hackernoon.com/images/5q5VrlKO8ac9SpKWTlyrckGLIT72-ss03nyx.jpeg)
-With the internet become more and more vulnerable to outages and crashes, will the answer to more stability come in the form of more decentralisation?
-
-### [235. FacePhone: How the Facebook Phone Could Be Built to Win Market Share](https://hackernoon.com/facephone-how-the-facebook-phone-could-be-built-to-win-market-share-7s4s35wn)
+### [233. FacePhone: How the Facebook Phone Could Be Built to Win Market Share](https://hackernoon.com/facephone-how-the-facebook-phone-could-be-built-to-win-market-share-7s4s35wn)
 ![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-c64235zb.jpeg)
 FacebookPhoneOS
 
-### [236. The Perfect Video Chat App Doesn’t Exist](https://hackernoon.com/the-perfect-video-chat-app-doesnt-exist-9p2e3zq8)
-![](https://cdn.hackernoon.com/drafts/j88a3kn9.png)
-The coronavirus crisis, with all its ‘working from home’ and social distancing recommendations, has probably transformed your social life into a succession of video chats. Your boss, your doctor, your family, your friends, they all want to see your face and tech is here to help. Or is it?
+### [234. LIBRA- Decoding Facebook Cryptocurrency In 7 Questions](https://hackernoon.com/libra-decoding-facebook-cryptocurrency-in-7-questions-xf3y2yss)
+![](https://cdn.hackernoon.com/drafts/8w1l2ync.png)
+The American giant must present Tuesday its cryptocurrency project. While waiting for its launch scheduled for 2020, the future “libra”, conceived in partnership with 27 groups, raises many questions: how can we buy them? How will it work? Who to regulate it?
 
-### [237. Olaf Scholz vs. Facebook's Libra ](https://hackernoon.com/germany-says-nien-to-facebook-exfederal-prosecutor-blocking-libra-will-bring-national-problems-frdm32e9)
-![](https://cdn.hackernoon.com/drafts/9ecc32rq.png)
-Vice-chancellor and Germany's finance minister, Olaf Scholz, says ‘No’ to Facebook, ‘Yes!” to digital currency. 
-
-### [238. When The Metaverse goes Cross-Chain](https://hackernoon.com/when-the-metaverse-goes-cross-chain)
-![](https://cdn.hackernoon.com/images/dRi3rBXK9FQwYo7sytNzbvrpniJ2-d103eht.jpeg)
-A glance into how NFT products like Alien Worlds can offer their services Cross-chain.
-
-### [239. The Metaverse’s Road to Mass Appeal Runs Through Smartphones](https://hackernoon.com/the-metaverses-road-to-mass-appeal-runs-through-smartphones)
+### [235. The Metaverse’s Road to Mass Appeal Runs Through Smartphones](https://hackernoon.com/the-metaverses-road-to-mass-appeal-runs-through-smartphones)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jh92b64.jpeg)
 The Metaverse’s Road to Mass Appeal Runs Through Smartphones.
 
-### [240. Facebook’s Libra Coin and PayPal's “Commitment Issues”](https://hackernoon.com/facebooks-libra-coin-and-the-commitment-issues-f720832c6)
-![](https://cdn.hackernoon.com/images/lj1zi32le.jpg)
-MasterCard and PayPal Backing out of the Promised $10M Investments and more...
+### [236. Olaf Scholz vs. Facebook's Libra ](https://hackernoon.com/germany-says-nien-to-facebook-exfederal-prosecutor-blocking-libra-will-bring-national-problems-frdm32e9)
+![](https://cdn.hackernoon.com/drafts/9ecc32rq.png)
+Vice-chancellor and Germany's finance minister, Olaf Scholz, says ‘No’ to Facebook, ‘Yes!” to digital currency. 
+
+### [237. The Facebook Outage Proved a Need for Greater Decentralization](https://hackernoon.com/the-facebook-outage-proved-a-need-for-greater-decentralization)
+![](https://cdn.hackernoon.com/images/5q5VrlKO8ac9SpKWTlyrckGLIT72-ss03nyx.jpeg)
+With the internet become more and more vulnerable to outages and crashes, will the answer to more stability come in the form of more decentralisation?
+
+### [238. The Perfect Video Chat App Doesn’t Exist](https://hackernoon.com/the-perfect-video-chat-app-doesnt-exist-9p2e3zq8)
+![](https://cdn.hackernoon.com/drafts/j88a3kn9.png)
+The coronavirus crisis, with all its ‘working from home’ and social distancing recommendations, has probably transformed your social life into a succession of video chats. Your boss, your doctor, your family, your friends, they all want to see your face and tech is here to help. Or is it?
+
+### [239. When The Metaverse goes Cross-Chain](https://hackernoon.com/when-the-metaverse-goes-cross-chain)
+![](https://cdn.hackernoon.com/images/dRi3rBXK9FQwYo7sytNzbvrpniJ2-d103eht.jpeg)
+A glance into how NFT products like Alien Worlds can offer their services Cross-chain.
+
+### [240. How Will the Metaverse Change the Way You Live and Work in 2022?](https://hackernoon.com/how-will-the-metaverse-change-the-way-you-live-and-work-in-2022)
+![](https://cdn.hackernoon.com/images/HHLVTFLGXCMmtn4FELoy7GTLCzc2-p193k1w.jpeg)
+The metaverse has created an uproar with its announcement. Everyone is questioning - where do we go from there? Here's my take on this fantastical idea. 
 
 ### [241. 376 Stories To Learn About Google](https://hackernoon.com/376-stories-to-learn-about-google)
 ![](https://cdn.hackernoon.com/images/github/google-655.png)
 Learn everything you need to know about Google via these 376 free HackerNoon stories.
 
-### [242. How Will the Metaverse Change the Way You Live and Work in 2022?](https://hackernoon.com/how-will-the-metaverse-change-the-way-you-live-and-work-in-2022)
-![](https://cdn.hackernoon.com/images/HHLVTFLGXCMmtn4FELoy7GTLCzc2-p193k1w.jpeg)
-The metaverse has created an uproar with its announcement. Everyone is questioning - where do we go from there? Here's my take on this fantastical idea. 
+### [242. Facebook’s Libra Coin and PayPal's “Commitment Issues”](https://hackernoon.com/facebooks-libra-coin-and-the-commitment-issues-f720832c6)
+![](https://cdn.hackernoon.com/images/lj1zi32le.jpg)
+MasterCard and PayPal Backing out of the Promised $10M Investments and more...
 
-### [243. Where Do We Draw the Line in Social Media?](https://hackernoon.com/where-do-we-draw-the-line-in-social-media)
+### [243. Why Australia's Under 16 Social Media Ban Matters ](https://hackernoon.com/why-australias-under-16-social-media-ban-matters)
+![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-6503bk8.jpeg)
+Parents try to sidestep Australia’s social media under-16 bans in order to allow children to continue using these platforms. Why the ban matters
+
+### [244. Where Do We Draw the Line in Social Media?](https://hackernoon.com/where-do-we-draw-the-line-in-social-media)
 ![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-x4035dq.jpeg)
 In this slogging thread, the technology channel discussed the pros and cons of Social Media. We covered how it's helpful but can have a negative side effect.
 
-### [244. Facebook, The Cost of Consumer Profiling: Or My High Functioning Alcoholism](https://hackernoon.com/facebook-the-cost-of-consumer-profiling-or-my-high-functioning-alcoholism)
-![](https://cdn.hackernoon.com/images/R3QEhilTwmay1bXkfkx0BCTEdHd2-dp93g14.jpeg)
-Facebook recently saw a massive drop in share prices and blamed Apple but we all know what’s really going on. They have also seen a huge drop off in users and according to Lou Kerner at salon.com the engagement slide in the article is proof that Facebook is dying.
-
-### [245. Update on Instagram's Year of Autonomy](https://hackernoon.com/update-on-instagrams-year-of-autonomy)
-![](https://cdn.hackernoon.com/images/bfow72wADMVhoTK01dZ8eVqhPVl1-sfa3pyc.jpeg)
-In response to "Update on Meta’s Year of Efficiency" written by Facebook CEO Mark Zuckerberg on March 14, 2023, instagram should form a DAO.
-
-### [246. How We Collaborated with Meta (Facebook) to Create Shadow Cache](https://hackernoon.com/how-we-collaborated-with-meta-facebook-to-create-shadow-cache)
+### [245. How We Collaborated with Meta (Facebook) to Create Shadow Cache](https://hackernoon.com/how-we-collaborated-with-meta-facebook-to-create-shadow-cache)
 ![](https://cdn.hackernoon.com/images/MEO1Whp7pdbY2Fmqr6xMgItyqS23-7i93hag.jpeg)
 Shadow cache is deployed in Meta (Facebook) Presto and is being leveraged to understand the system bottleneck and help with routing design decisions.
+
+### [246. Facebook, The Cost of Consumer Profiling: Or My High Functioning Alcoholism](https://hackernoon.com/facebook-the-cost-of-consumer-profiling-or-my-high-functioning-alcoholism)
+![](https://cdn.hackernoon.com/images/R3QEhilTwmay1bXkfkx0BCTEdHd2-dp93g14.jpeg)
+Facebook recently saw a massive drop in share prices and blamed Apple but we all know what’s really going on. They have also seen a huge drop off in users and according to Lou Kerner at salon.com the engagement slide in the article is proof that Facebook is dying.
 
 ### [247. The Noonification: Simple Database Migration Scripts On Your CI/CD step (10/16/2023)](https://hackernoon.com/10-16-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_601_ckoaii5rrdx2jar3vu85w7bl.png)
 10/16/2023: Top 5 stories on the Hackernoon homepage!
 
-### [248. Why Australia's Under 16 Social Media Ban Matters ](https://hackernoon.com/why-australias-under-16-social-media-ban-matters)
-![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-6503bk8.jpeg)
-Parents try to sidestep Australia’s social media under-16 bans in order to allow children to continue using these platforms. Why the ban matters
+### [248. Update on Instagram's Year of Autonomy](https://hackernoon.com/update-on-instagrams-year-of-autonomy)
+![](https://cdn.hackernoon.com/images/bfow72wADMVhoTK01dZ8eVqhPVl1-sfa3pyc.jpeg)
+In response to "Update on Meta’s Year of Efficiency" written by Facebook CEO Mark Zuckerberg on March 14, 2023, instagram should form a DAO.
 
 ### [249. About My Ambivalence Towards a Centralized Metaverse](https://hackernoon.com/about-my-ambivalence-towards-a-centralized-metaverse)
 ![](https://cdn.hackernoon.com/images/ELzyAnlLQ9Y0KeZLUJsjawUu4da2-w6137ob.jpeg)
@@ -1031,25 +1033,25 @@ The more I contemplate the metaverse, the more excited I get. The more I contemp
 ![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-cm93ik4.jpeg)
 Some food for thought.
 
-### [251. A Deeper Look at Facebook's PR Strategy](https://hackernoon.com/a-deeper-look-at-facebooks-pr-strategy)
+### [251. What if You Could Post on FB and Get Paid For it in Crypto?](https://hackernoon.com/what-if-you-could-post-on-fb-and-get-paid-for-it-in-crypto)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-o2a3vt7.jpeg)
+It’s not difficult to imagine what Facebook might look like today if a cryptocurrency had been embedded in the business plan from the beginning. 
+
+### [252. A Deeper Look at Facebook's PR Strategy](https://hackernoon.com/a-deeper-look-at-facebooks-pr-strategy)
 ![](https://cdn.hackernoon.com/images/a-deeper-look-at-facebooks-pr-strategy-cle8zoger000001s677a8c0vc.png)
 Gideon Lichfield takes a deeper look at Facebook's PR strategy. 
 
-### [252. Ditching Big Tech for a More Decentralised Life](https://hackernoon.com/ditching-big-tech-for-a-more-decentralized-life-5d343593)
+### [253. Ditching Big Tech for a More Decentralised Life](https://hackernoon.com/ditching-big-tech-for-a-more-decentralized-life-5d343593)
 ![](https://cdn.hackernoon.com/images/sUzz4KIm6ePfxPNQ3Taguoc0VTh2-k0e2zuz.jpeg)
 With privacy and security issues, daily ransomware attacks putting sensitive data at risk of being published - I decided to de-Facebook and de-Google my life.
 
-### [253. You Really Only Need 2.45 Billion True Fans To Be Successful](https://hackernoon.com/you-really-only-need-245-billion-true-fans-to-be-successful-dg4934lb)
+### [254. You Really Only Need 2.45 Billion True Fans To Be Successful](https://hackernoon.com/you-really-only-need-245-billion-true-fans-to-be-successful-dg4934lb)
 ![](https://cdn.hackernoon.com/images/l9l2oHsYA8OpYMcknvQNHUxIloj1-si1f32c3.jpeg)
 This is a guest post by Mark Zuckerberg about how to achieve moderate internet success. 
 
-### [254. Facebook's Libra And China: The Real Scenario](https://hackernoon.com/facebook-libra-and-china-the-real-scenario-fs3724wy)
+### [255. Facebook's Libra And China: The Real Scenario](https://hackernoon.com/facebook-libra-and-china-the-real-scenario-fs3724wy)
 ![](https://cdn.hackernoon.com/drafts/6r1o24wg.png)
 Photo Credit: Christoph Scholz Flickr via Compfight ccThe people and government of China should be mostly concerned about Facebook’s intended launch of the Libra. The story didn’t just end there because Facebook said that in addition to Libra, the project will also issue a “Libra investment token.”
-
-### [255. What if You Could Post on FB and Get Paid For it in Crypto?](https://hackernoon.com/what-if-you-could-post-on-fb-and-get-paid-for-it-in-crypto)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-o2a3vt7.jpeg)
-It’s not difficult to imagine what Facebook might look like today if a cryptocurrency had been embedded in the business plan from the beginning. 
 
 ### [256. Is Your Social Media Actually Social?](https://hackernoon.com/is-social-media-actually-social-rvg432hz)
 ![](https://cdn.hackernoon.com/drafts/0sbf4321b.png)
@@ -1063,53 +1065,53 @@ Social media marketing: this term has certainly become one of the most important
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-9x92i6k.jpeg)
 The Markup has found that Facebook is serving up ads and posts for the so-called “abortion pill reversal” procedure...
 
-### [259. Facebook Is Watching and Tracking Kids As They Prep for College](https://hackernoon.com/facebook-is-watching-and-tracking-kids-as-they-prep-for-college)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-d1039ro.jpeg)
-Millions of invisible pixels are embedded on websites across the internet, allowing businesses and organizations to target their customers on Facebook with ads.
-
-### [260. 3 Reasons Your Facebook Ads Are Performing Poorly](https://hackernoon.com/3-reasons-why-your-facebook-ads-are-performing-poorly)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-iu03onx.jpeg)
-Stop making these Facebook ad mistakes. Before starting advertising on Facebook, make sure you have a defined audience, objectives, and the right ad placement.
-
-### [261. TODAY: Spotify 💚 Social · Y FB 💸 $400M on Giphy · Uber & Ryanair Cut Jobs   ](https://hackernoon.com/top-5-worth-talking-about-today-spotify-y-facebook-dollar400m-uber-more-ko2ad3yfy)
-![](https://cdn.hackernoon.com/images/4r23y3ya9.gif)
-I read the news so you don't have to: Spotify has launched a co-listening product stream so that you can listen to the same song with anyone, anywhere, in-sync; big surprise: Facebook bought Giphy for the data; both Europe's budget airline Ryanair and Uber are laying off a bunch of people; and France and Germany are pushing for a $545bn coronavirus relief fund. 
-
-### [262. The Internet Facebook, ChatGPT, Tiktok & Google Don't Want You To See](https://hackernoon.com/the-internet-facebook-chatgpt-tiktok-and-google-dont-want-you-to-see)
+### [259. The Internet Facebook, ChatGPT, Tiktok & Google Don't Want You To See](https://hackernoon.com/the-internet-facebook-chatgpt-tiktok-and-google-dont-want-you-to-see)
 ![](https://cdn.hackernoon.com/images/XfkAcRQSKZeCWfyOwsqkFfN3Gxf2-8e034m8.jpeg)
 Your data is gold. You deserve a rewarding creator economy from it. It is your right. AI is exploding through your data without your permission. Web3 fixes this
 
-### [263. Time Travel Through 2010s Technology: Part 2](https://hackernoon.com/time-travel-through-2010s-technology-part-2-ns163njc)
-![](https://cdn.hackernoon.com/drafts/j56l3nm2.png)
-In the first part of the series “Time travel through 2010s technology” we looked at how operating systems, phones, tablets, smartwatches and smartglasses changed through the last decade. The 2010s changed how we interact with technology, but more importantly, how we think about the impact it has in our lives. 
+### [260. Facebook Is Watching and Tracking Kids As They Prep for College](https://hackernoon.com/facebook-is-watching-and-tracking-kids-as-they-prep-for-college)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-d1039ro.jpeg)
+Millions of invisible pixels are embedded on websites across the internet, allowing businesses and organizations to target their customers on Facebook with ads.
+
+### [261. 3 Reasons Your Facebook Ads Are Performing Poorly](https://hackernoon.com/3-reasons-why-your-facebook-ads-are-performing-poorly)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-iu03onx.jpeg)
+Stop making these Facebook ad mistakes. Before starting advertising on Facebook, make sure you have a defined audience, objectives, and the right ad placement.
+
+### [262. Wake Up and Smell These #TopTechStories 🍏](https://hackernoon.com/while-you-were-sleeping-todays-toptechstories-dzeo30ot)
+![](https://cdn.hackernoon.com/drafts/j41zz306l.png)
+
+
+### [263. How to Take a Social Media Break: 4 Essential Tips and Tricks](https://hackernoon.com/how-to-take-a-social-media-break-4-essential-tips-and-tricks-c5483zxi)
+![](https://cdn.hackernoon.com/images/JeJLJhOGw1UlLLa7yUZkQm6W5fp1-01a3182.jpeg)
+Take a social media break; it will result in great things. If you are ready to take the plunge, follow this 4 step plan to be successful at it.
 
 ### [264. The Inconvenient Truth about Facebook: It's Growing Despite Scandal](https://hackernoon.com/the-inconvenient-truth-about-facebook-its-growing-despite-scandal-ma2t3nch)
 ![](https://cdn.hackernoon.com/drafts/gd2l23nks.png)
 With its latest quarterly earnings report, Facebook once again confounds the naysayers by succeeding financially and growing its global user base amid scandal. Here's what the Q3 2019 numbers say:
 
-### [265. Wake Up and Smell These #TopTechStories 🍏](https://hackernoon.com/while-you-were-sleeping-todays-toptechstories-dzeo30ot)
-![](https://cdn.hackernoon.com/drafts/j41zz306l.png)
+### [265. TODAY: Spotify 💚 Social · Y FB 💸 $400M on Giphy · Uber & Ryanair Cut Jobs   ](https://hackernoon.com/top-5-worth-talking-about-today-spotify-y-facebook-dollar400m-uber-more-ko2ad3yfy)
+![](https://cdn.hackernoon.com/images/4r23y3ya9.gif)
+I read the news so you don't have to: Spotify has launched a co-listening product stream so that you can listen to the same song with anyone, anywhere, in-sync; big surprise: Facebook bought Giphy for the data; both Europe's budget airline Ryanair and Uber are laying off a bunch of people; and France and Germany are pushing for a $545bn coronavirus relief fund. 
 
-
-### [266. How to Take a Social Media Break: 4 Essential Tips and Tricks](https://hackernoon.com/how-to-take-a-social-media-break-4-essential-tips-and-tricks-c5483zxi)
-![](https://cdn.hackernoon.com/images/JeJLJhOGw1UlLLa7yUZkQm6W5fp1-01a3182.jpeg)
-Take a social media break; it will result in great things. If you are ready to take the plunge, follow this 4 step plan to be successful at it.
+### [266. Time Travel Through 2010s Technology: Part 2](https://hackernoon.com/time-travel-through-2010s-technology-part-2-ns163njc)
+![](https://cdn.hackernoon.com/drafts/j56l3nm2.png)
+In the first part of the series “Time travel through 2010s technology” we looked at how operating systems, phones, tablets, smartwatches and smartglasses changed through the last decade. The 2010s changed how we interact with technology, but more importantly, how we think about the impact it has in our lives. 
 
 ### [267. 🚨 SPAMMER MADNESS: Facebook's Broken System That's Booting the Wrong Bloke! 🚨](https://hackernoon.com/spammer-madness-facebooks-broken-system-thats-booting-the-wrong-bloke)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-iy1381l.jpeg)
 Messenger access suspended for 7 days — for literally doing nothing wrong. No abuse. No spam. No policy violation.
 
-### [268. How Big Data Can Help to Analyze Social Media Performance](https://hackernoon.com/how-big-data-can-help-to-analyze-social-media-performance-ld1e3ux2)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVioMh8ejn2Z4K0VS85lvuvOXEa23-8l2k29kn.png?alt=media&token=0ea91ed1-07d8-4a01-82fc-e651a9d1b912)
-During the last decade, social networking sites/apps have become the most important channels of communication.
+### [268. In the Billionaire’s Fight, We’re the Casualties](https://hackernoon.com/in-the-billionaires-fight-were-the-casualties)
+![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-5y93ugf.jpeg)
+These two men have a combined net worth of $345 billion (!), 150+ million followers (!) and 13+ kids (!). 
 
 ### [269. Behind The Google and Facebook Collusion - A Thread](https://hackernoon.com/behind-the-google-and-facebook-collusion-a-thread)
 ![](https://cdn.hackernoon.com/images/google-and-facebook-collusion-clcopgrk0000001s6gms9gmmy.png)
 Patrick McGee describes the collusion between Google and Facebook.
 
-### [270. In the Billionaire’s Fight, We’re the Casualties](https://hackernoon.com/in-the-billionaires-fight-were-the-casualties)
-![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-5y93ugf.jpeg)
-These two men have a combined net worth of $345 billion (!), 150+ million followers (!) and 13+ kids (!). 
+### [270. How Big Data Can Help to Analyze Social Media Performance](https://hackernoon.com/how-big-data-can-help-to-analyze-social-media-performance-ld1e3ux2)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVioMh8ejn2Z4K0VS85lvuvOXEa23-8l2k29kn.png?alt=media&token=0ea91ed1-07d8-4a01-82fc-e651a9d1b912)
+During the last decade, social networking sites/apps have become the most important channels of communication.
 
 ### [271. Helpful Strategies to Combat WhatsApp Security Threats](https://hackernoon.com/helpful-strategies-to-combat-whatsapp-security-threats-s54433ya)
 ![](https://cdn.hackernoon.com/images/GCGWS4vdFDa1ADxe4jfiCKy9q4r2-npi337j.jpeg)
@@ -1119,45 +1121,45 @@ In the previous year, a security flaw was found in the WhatsApp desktop version.
 ![](https://cdn.hackernoon.com/images/9gc9327z.jpg)
 Since late October, Facebook has come under scrutiny for changing its policies surrounding political ads. Previously, to run a political ad on Facebook, the ad had to be factually correct. Facebook would review political ads before they went live, and on an ongoing basis once they’re put live, removing any that it found to contain misinformation.
 
-### [273. Software Engineering Is Not a Walk in the Park](https://hackernoon.com/software-engineering-is-not-a-walk-in-the-park-q23935lc)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-015b4xzn.jpeg?alt=media&token=191d0a4d-c264-42fb-8a57-325baffd6f4b)
-Ex-Google engineer, Tech Lead, explains what makes software engineering hard. 
-
-### [274. Facebook Fiasco: Banning the Victim, Not the Scammer"](https://hackernoon.com/facebook-fiasco-banning-the-victim-not-the-scammer)
+### [273. Facebook Fiasco: Banning the Victim, Not the Scammer"](https://hackernoon.com/facebook-fiasco-banning-the-victim-not-the-scammer)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-6m93nmd.jpeg)
 Facebook's inadequate scam reporting system jeopardizes user safety in the digital age.
+
+### [274. Software Engineering Is Not a Walk in the Park](https://hackernoon.com/software-engineering-is-not-a-walk-in-the-park-q23935lc)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-015b4xzn.jpeg?alt=media&token=191d0a4d-c264-42fb-8a57-325baffd6f4b)
+Ex-Google engineer, Tech Lead, explains what makes software engineering hard. 
 
 ### [275. How We Automated Our Fitness Instagram](https://hackernoon.com/how-we-automated-our-fitness-instagram-nw1432qm)
 ![](https://cdn.hackernoon.com/images/q61l03y9k.jpg)
 Our website Bulk Hackers interview people who do great in fitness. A big part of the online fitness is Instagram, so just like everybody else we have an Instagram account.
 
-### [276. Big Tech Brief: What You Need to Know About Congress’ High-Profile Tech CEO Hearings](https://hackernoon.com/big-tech-brief-what-you-need-to-know-about-congress-high-profile-tech-ceo-hearings-p62y3etx)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FM6oYby2BN7U8fOfq3IwzY98lnLH2-9p2a3upr.jpeg?alt=media&token=a30267a8-ad0e-4b99-b7e3-14864054630e)
-The House Antitrust subcommittee grilled the CEOs of four of the largest tech companies in a display that showed the preliminary results of their investigation that began in 2019.
-
-### [277. Meta Aims to Focus on AI, Ads and Reels in 2023 After Near $14B Loss in Reality Labs in 2022](https://hackernoon.com/meta-aims-to-focus-on-ai-ads-and-reels-in-2023-after-near-$14b-loss-in-reality-labs-in-2022)
+### [276. Meta Aims to Focus on AI, Ads and Reels in 2023 After Near $14B Loss in Reality Labs in 2022](https://hackernoon.com/meta-aims-to-focus-on-ai-ads-and-reels-in-2023-after-near-$14b-loss-in-reality-labs-in-2022)
 ![](https://cdn.hackernoon.com/images/8XNOXRgh02hSlut2mkXST3bfX703-e393pyi.jpeg)
 Meta looks to leverage the use of AI technologies within their advertisement ventures as well as in their already thriving 'Reels'.
 
-### [278. Facebook — Love it or hate it, you can’t ignore it.](https://hackernoon.com/facebook-love-it-or-hate-it-you-cant-ignore-it-d9107a19156e)
-![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-zo02pft.jpeg)
-I envy my sister. She doesn’t have a facebook account. I never asked why. Maybe she doesn’t feel the need for it. Maybe she wants to keep her social life private. I am not sure. But I do know I am envious of that simplicity.
+### [277. Big Tech Brief: What You Need to Know About Congress’ High-Profile Tech CEO Hearings](https://hackernoon.com/big-tech-brief-what-you-need-to-know-about-congress-high-profile-tech-ceo-hearings-p62y3etx)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FM6oYby2BN7U8fOfq3IwzY98lnLH2-9p2a3upr.jpeg?alt=media&token=a30267a8-ad0e-4b99-b7e3-14864054630e)
+The House Antitrust subcommittee grilled the CEOs of four of the largest tech companies in a display that showed the preliminary results of their investigation that began in 2019.
 
-### [279. Should Snapchat Copy Instagram's Timeline? ](https://hackernoon.com/snapchats-biggest-strategy-change-n2793z2a)
-![](drafts/zl6g3z62.png)
-Snapchat success came in the era, where any successful social media company would be acquired by Facebook. It not only avoided the acquisition but thrived on its own terms, garnered a significant audience and has become a major participant in the cultural machine.
-
-### [280. 1​5 Reasons For Business To Get Facebook Chatbot](https://hackernoon.com/15-reasons-for-business-to-get-facebook-chatbot-1r4l37cm)
+### [278. 1​5 Reasons For Business To Get Facebook Chatbot](https://hackernoon.com/15-reasons-for-business-to-get-facebook-chatbot-1r4l37cm)
 ![](https://cdn.hackernoon.com/images/Fqdca9deC3OuqGovUDChZTrPddc2-ici35h9.jpeg)
 15 Reasons to get a Facebook Chatbot for your Small Business and get started with Conversational Marketing.
 
-### [281. BigTech Spent Big Money in 2021 on Lobbying, Buying Up Competition](https://hackernoon.com/bigtech-spent-big-money-in-2021-on-lobbying-buying-up-competition)
+### [279. Facebook — Love it or hate it, you can’t ignore it.](https://hackernoon.com/facebook-love-it-or-hate-it-you-cant-ignore-it-d9107a19156e)
+![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-zo02pft.jpeg)
+I envy my sister. She doesn’t have a facebook account. I never asked why. Maybe she doesn’t feel the need for it. Maybe she wants to keep her social life private. I am not sure. But I do know I am envious of that simplicity.
+
+### [280. BigTech Spent Big Money in 2021 on Lobbying, Buying Up Competition](https://hackernoon.com/bigtech-spent-big-money-in-2021-on-lobbying-buying-up-competition)
 ![](https://cdn.hackernoon.com/images/MEd0xnRzO0dpNMKq3mKkl20pPjv1-bnc3fmn.jpeg)
 Amazon and Facebook are the largest corporate spenders on lobbying. BigTech is buying up the competition. Together, this puts a huge strain on US regulators.
 
-### [282. Is Self-Harm Amongst Teenage Girls On the Rise Because of Instagram?](https://hackernoon.com/is-self-harm-amongst-teenage-girls-on-the-rise-because-of-instagram)
+### [281. Is Self-Harm Amongst Teenage Girls On the Rise Because of Instagram?](https://hackernoon.com/is-self-harm-amongst-teenage-girls-on-the-rise-because-of-instagram)
 ![](https://cdn.hackernoon.com/images/MEd0xnRzO0dpNMKq3mKkl20pPjv1-i3136tm.jpeg)
 Between 2010 and 2014, rates of self-harm, depression, and anxiety among teenage girls doubled; is Instagram to blame?
+
+### [282. Should Snapchat Copy Instagram's Timeline? ](https://hackernoon.com/snapchats-biggest-strategy-change-n2793z2a)
+![](drafts/zl6g3z62.png)
+Snapchat success came in the era, where any successful social media company would be acquired by Facebook. It not only avoided the acquisition but thrived on its own terms, garnered a significant audience and has become a major participant in the cultural machine.
 
 ### [283. How Popular is Right-Wing Content on Facebook? ](https://hackernoon.com/how-popular-is-right-wing-content-on-facebook)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-tna2b4m.jpeg)
@@ -1167,133 +1169,133 @@ Facebook has been criticized in the past because many believe they are allowing 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-zgu4xly.jpeg?alt=media&token=be4edc24-2c06-42cb-98d6-6f4b827b87c5)
 Ex-Google Tech Lead deep dives into coding bootcamps, their pros & cons, and everything you need to know about them.
 
-### [285. New Report Finds That Facebook Still Runs Discriminatory Ads](https://hackernoon.com/new-report-finds-that-facebook-still-runs-discriminatory-ads-tv1o35tx)
-![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-gqe935eg.jpeg)
-We found discriminatory ads can still appear, despite Facebook's efforts
-
-### [286. How Much Internet Regulation Does Facebook Support? ](https://hackernoon.com/how-much-internet-regulation-does-facebook-support)
+### [285. How Much Internet Regulation Does Facebook Support? ](https://hackernoon.com/how-much-internet-regulation-does-facebook-support)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-zf03ptu.jpeg)
 For more than a year, Simpson had been noticing ads pop up with the same phrasing: Facebook “supports updated internet regulations,” the ads always said.
 
-### [287. Satoshi Nakamoto vs Centralized Blockchains: How Did We Get Here?](https://hackernoon.com/centralized-blockchain-heres-how-we-missed-one-important-aspect-of-nakamotos-creation-jor32nl)
-![](https://cdn.hackernoon.com/images/483q32vs.jpg)
-As the world changes, so do its driving forces. When the war was the most universal language between the kingdoms, the arsenal, the weaponry was the main focus of engineers and scientists. And when the world realized the economy and prosperity would make a lot better medium, they shifted their attention to financial technology.
+### [286. New Report Finds That Facebook Still Runs Discriminatory Ads](https://hackernoon.com/new-report-finds-that-facebook-still-runs-discriminatory-ads-tv1o35tx)
+![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-gqe935eg.jpeg)
+We found discriminatory ads can still appear, despite Facebook's efforts
+
+### [287. Diversify Your Digital Footprint Today!](https://hackernoon.com/diversify-your-digital-footprint-today)
+![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-yg0366l.jpeg)
+You Should Never, Ever, Host Your Content Exclusively on 1 Platform. These are the lessons I learned the hard way from my Yahoo days. 
 
 ### [288. 50 Stories To Learn About Libra](https://hackernoon.com/50-stories-to-learn-about-libra)
 ![](https://cdn.hackernoon.com/images/github/libra-869.png)
 Learn everything you need to know about Libra via these 50 free HackerNoon stories.
 
-### [289. Diversify Your Digital Footprint Today!](https://hackernoon.com/diversify-your-digital-footprint-today)
-![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-yg0366l.jpeg)
-You Should Never, Ever, Host Your Content Exclusively on 1 Platform. These are the lessons I learned the hard way from my Yahoo days. 
+### [289. Satoshi Nakamoto vs Centralized Blockchains: How Did We Get Here?](https://hackernoon.com/centralized-blockchain-heres-how-we-missed-one-important-aspect-of-nakamotos-creation-jor32nl)
+![](https://cdn.hackernoon.com/images/483q32vs.jpg)
+As the world changes, so do its driving forces. When the war was the most universal language between the kingdoms, the arsenal, the weaponry was the main focus of engineers and scientists. And when the world realized the economy and prosperity would make a lot better medium, they shifted their attention to financial technology.
 
 ### [290. "The most important thing for any ad is to know your audience," - says George Thomas McCormick ](https://hackernoon.com/the-most-important-thing-for-any-ad-is-to-know-your-audience-says-george-thomas-mccormick-uq2l3z9v)
 ![](https://cdn.hackernoon.com/drafts/uc1124ak.png)
 George Thomas McCormick is the founder of SOAR:  a full-funnel Facebook & Instagram marketing agency. SOAR's main offering is creating and running profitable Facebook and Instagram ad campaigns for its clients. 
 
-### [291. David Vs. Goliath: Startups and Big Tech, Which Trumps Which?](https://hackernoon.com/david-vs-goliath-startups-and-big-tech-which-trumps-which-i53o3312)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-d1264xwf.jpeg?alt=media&token=1a8e3f6c-8183-4e7e-9a34-96608ff3d6b5)
-Ex-Google TechLead explains differences between working at a tech startup and a large company, and their pros & cons.
-
-### [292. What's the Point of Facebook's New Meta Name? ](https://hackernoon.com/whats-the-point-of-facebooks-new-meta-name)
+### [291. What's the Point of Facebook's New Meta Name? ](https://hackernoon.com/whats-the-point-of-facebooks-new-meta-name)
 ![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-mt33970.jpeg)
 This Slogging thread about Facebook's name change by Amy, David, Kien, Linh and Limarc occurred in hackernoon's official #podcast channel.
 
-### [293. 7 Facebook Advertising Tips for eCommerce Businesses](https://hackernoon.com/7-facebook-advertising-tips-for-ecommerce-businesses-mz1j13ws7)
+### [292. David Vs. Goliath: Startups and Big Tech, Which Trumps Which?](https://hackernoon.com/david-vs-goliath-startups-and-big-tech-which-trumps-which-i53o3312)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-d1264xwf.jpeg?alt=media&token=1a8e3f6c-8183-4e7e-9a34-96608ff3d6b5)
+Ex-Google TechLead explains differences between working at a tech startup and a large company, and their pros & cons.
+
+### [293. The Partisan Divide on Facebook Is Still Bad](https://hackernoon.com/the-partisan-divide-on-facebook-is-still-bad)
+![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-3692hd4.jpeg)
+Depending on your political leaning, Facebook will show you two different perspectives on the Capitol Riot that took place on January 6, 2021. 
+
+### [294. 7 Facebook Advertising Tips for eCommerce Businesses](https://hackernoon.com/7-facebook-advertising-tips-for-ecommerce-businesses-mz1j13ws7)
 ![](https://cdn.hackernoon.com/drafts/gk1g72edy.png)
 You still aren’t sure about trying Facebook Ads?
-
-### [294. Facebook is Beta Testing a More Spacious New Newsfeed Design](https://hackernoon.com/facebook-is-beta-testing-a-more-spacious-new-newsfeed-design-mvso32s5)
-![](https://cdn.hackernoon.com/images/u94n32oc.jpg)
-Saw this on Facebook.com desktop today (flow follows):
 
 ### [295. 8 Stories To Learn About Snapchat](https://hackernoon.com/8-stories-to-learn-about-snapchat)
 ![](https://cdn.hackernoon.com/images/github/snapchat-160.png)
 Learn everything you need to know about Snapchat via these 8 free HackerNoon stories.
 
-### [296. The Partisan Divide on Facebook Is Still Bad](https://hackernoon.com/the-partisan-divide-on-facebook-is-still-bad)
-![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-3692hd4.jpeg)
-Depending on your political leaning, Facebook will show you two different perspectives on the Capitol Riot that took place on January 6, 2021. 
+### [296. Facebook is Beta Testing a More Spacious New Newsfeed Design](https://hackernoon.com/facebook-is-beta-testing-a-more-spacious-new-newsfeed-design-mvso32s5)
+![](https://cdn.hackernoon.com/images/u94n32oc.jpg)
+Saw this on Facebook.com desktop today (flow follows):
 
 ### [297. How To Get Around Facebook Ad Policies While Advertising Mobile App](https://hackernoon.com/how-to-get-around-facebook-ad-policies-while-advertising-mobile-app-seq31sz)
 ![](https://cdn.hackernoon.com/drafts/0tv632z0.png)
 It’s not a secret that Facebook policy for ads is rigid and anyone may experience the painful situation of disapproval. Someone gives up and go with another Ad Network, others decide to play nice and adjust the ad. But what to do if the application specifics have the upper hand? How to avoid “images that are scary, gory or sensational” if you’re promoting a new zombie shooter game? Or why you should not use "before-and-after" images while advertising a fitness app, you want to show all the pros of your app, don’t you? In this Facebook ads guide, we focus on 3 main app categories that may rather suffer from Facebook ads policy in 2019: games (especially shooters and racings), dating apps (with all that inability to show sexuality in the ad) and health & fitness.
 
-### [298. Illusion of Choice: You Aren't Deciding How Important Your Privacy Is](https://hackernoon.com/illusion-of-choice-you-arent-deciding-how-important-your-privacy-is-d65q3tfi)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOMFY4NBBMvOdiESUYsdL7D7M8Dd2-b35v3wb7.jpeg?alt=media&token=3e835bbb-a27c-4fa9-abc0-17afae98e5ac)
-The above statement is easily the most eloquent justification of privacy that I've seen. Thanks in large part to Snowden, the past decade has seen large parts of society become serious about data privacy, but it still feels like an overwhelming number of people can't be bothered to give this issue even a second of their time. 
-
-### [299. 70 Stories To Learn About Faagm](https://hackernoon.com/70-stories-to-learn-about-faagm)
+### [298. 70 Stories To Learn About Faagm](https://hackernoon.com/70-stories-to-learn-about-faagm)
 ![](https://cdn.hackernoon.com/images/github/faagm-156.png)
 Learn everything you need to know about Faagm via these 70 free HackerNoon stories.
+
+### [299. Illusion of Choice: You Aren't Deciding How Important Your Privacy Is](https://hackernoon.com/illusion-of-choice-you-arent-deciding-how-important-your-privacy-is-d65q3tfi)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOMFY4NBBMvOdiESUYsdL7D7M8Dd2-b35v3wb7.jpeg?alt=media&token=3e835bbb-a27c-4fa9-abc0-17afae98e5ac)
+The above statement is easily the most eloquent justification of privacy that I've seen. Thanks in large part to Snowden, the past decade has seen large parts of society become serious about data privacy, but it still feels like an overwhelming number of people can't be bothered to give this issue even a second of their time. 
 
 ### [300. On Yang's Data Dividend Project and the Push to Treat Data as Property](https://hackernoon.com/on-yangs-data-dividend-project-and-the-push-to-treat-data-as-property-o5453uyr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7WQ9b4pKMFYEtjfPjKV4fWOdxSO2-6123204o.jpeg?alt=media&token=5009d184-b7bb-474c-a36b-ade2a57b971c)
  
 
-### [301. If a Tree Falls and it's not on Linkedin, Who Knows?](https://hackernoon.com/if-a-tree-falls-and-its-not-on-linkedin-who-knows-3v273wse)
+### [301. The Noonification: An Intro to Algorithms and Data Structures (Javascript Edition) (9/15/2022)](https://hackernoon.com/9-15-2022-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+9/15/2022: Top 5 stories on the Hackernoon homepage!
+
+### [302. If a Tree Falls and it's not on Linkedin, Who Knows?](https://hackernoon.com/if-a-tree-falls-and-its-not-on-linkedin-who-knows-3v273wse)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F72KEgzEbr1Q2NraNp4qYNhHlZnM2-qy4y3txl.jpeg?alt=media&token=ca56f2b0-8c43-4fe1-a8fe-40408300c8bf)
 It's quite ironic how my reasons for signing up to write an article at Hacker Noon was to purge the frustrations caused by social networks of the day. What happens to be the first thing asked of me as a new member?  It is to edit my profile, and add my social media links: Linkedin, Twitter, Facebook, etc. 
 
-### [302. WHAT ZUCK SAID ](https://hackernoon.com/what-zuck-said-52j3y57)
+### [303. WHAT ZUCK SAID ](https://hackernoon.com/what-zuck-said-52j3y57)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzS7Ens3qoUevRb8Om1z17awDmJ93-nno3u2b.png?alt=media&token=f3520187-ee5a-4bc3-99ce-37184ae019f0)
 Zuckerberg is in the news lately for his announcement about his plans to take his workforce remote. 
 
-### [303. Facebook Deems Copyright Misuse As One of the Site's Major Threats](https://hackernoon.com/facebook-deems-copyright-misuse-as-one-of-the-sites-major-threats-mh1c312e)
+### [304. Facebook Deems Copyright Misuse As One of the Site's Major Threats](https://hackernoon.com/facebook-deems-copyright-misuse-as-one-of-the-sites-major-threats-mh1c312e)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-i3k310j.jpeg)
 Facebook says that it takes abuse and misuse of its 'Rights Manager' system very seriously. The company sees this type of abuse as one of its main challenges and it spends a lot of time making sure that legitimate content isn't blocked. The social media giant made these statements in a recent "Article 17" stakeholder meeting at the EU Commission.
-
-### [304. The Noonification: An Intro to Algorithms and Data Structures (Javascript Edition) (9/15/2022)](https://hackernoon.com/9-15-2022-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-9/15/2022: Top 5 stories on the Hackernoon homepage!
 
 ### [305. From GaryVee To Elon Musk: How Organic Social Media Is Killing Facebook Ads](https://hackernoon.com/from-garyvee-to-elon-musk-how-organic-social-media-is-killing-facebook-ads-xd1t372i)
 ![](https://cdn.hackernoon.com/images/vBMT6h7h8zONkLCQcsGBMdW7Frf2-uah39lt.jpeg)
 Build your audience, own your audience, then sell to your audience by solving their problems.
 
-### [306. Debunking the Myth That You Need a College Degree to Work in IT](https://hackernoon.com/debunking-the-myth-that-you-need-a-college-degree-to-work-in-it)
-![](https://cdn.hackernoon.com/images/A7coZ0uhYMgPNXXtkg7aiDfCsxT2-k193u3i.jpeg)
-Debunking the myth: A college degree is not essential for a successful IT career. Skills, experience, and passion matter more in the industry today.
-
-### [307. We Don't Quit Jobs, We Quit People: How To Avoid Quitting a Job](https://hackernoon.com/we-dont-quit-jobs-we-quit-people-how-to-avoid-quitting-a-job-m06335dp)
+### [306. We Don't Quit Jobs, We Quit People: How To Avoid Quitting a Job](https://hackernoon.com/we-dont-quit-jobs-we-quit-people-how-to-avoid-quitting-a-job-m06335dp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwGLSAHdRLHR312T1zxkfFUhBv1l2-b61c4x0y.jpeg?alt=media&token=c60a2cda-df16-4fa5-9aee-b1f8887c3a5c)
 Ex-Google engineer and YouTuber, TechLead, explains how to have a better time at your job so that you can avoid quitting it.
 
-### [308. This Week On Planet Internet, We're Breaking Up With Big Tech](https://hackernoon.com/this-week-on-planet-internet-were-breaking-up-with-big-tech-vh1537z6)
-![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-vt1n3osz.jpeg)
-We are cracking down on Big Tech. Amy Tom, David Smooke, and Hang Ngo talk about Biden's Executive Order on Big Tech, more space war dram, and decentralization 
-
-### [309. You Know What Rhymes with Zoom? Room. Facebook to Launch Video Chat Competitor](https://hackernoon.com/you-know-what-rhymes-with-zoom-room-facebook-to-launch-video-chat-competitor-rw10326q)
-![](https://cdn.hackernoon.com/images/mt2zh2efo.jpg)
-Mark Zuckerberg announced via Facebook Live a new product called Messenger Rooms:
-
-### [310. The Best Facebook Ads Formats for Leads and Sales ](https://hackernoon.com/the-best-facebook-ads-formats-for-leads-and-sales)
-![](https://cdn.hackernoon.com/images/mvmqdB7kwWSWtOm5rQnaPy2urNA3-wv038f8.jpeg)
-Facebook Ads Offer Some Great Formats For Lead Generation And Sales. Discover More In This Article How You Can Scale Your Leads Acquisition And Online Sales.  
-
-### [311. Is the Grass Greener On the Tech Giants' Side?](https://hackernoon.com/is-the-grass-greener-on-the-tech-giants-side)
-![](https://cdn.hackernoon.com/images/comCvv78UrMck7xqKHYX1VyBUK23-jb93hft.jpeg)
-The grass isn’t always greener on the other side. Here are some things to consider before applying for a Tech Company.
-
-### [312. Data Aggregation and DeFi with Noonies Nominee Daniil Okhlopkov](https://hackernoon.com/data-aggregation-and-defi-with-noonies-nominee-daniil-okhlopkov)
-![](https://cdn.hackernoon.com/images/rTrhHLrx9IPDoD8YYbYymdBYWky2-ak037xd.jpeg)
-Hey Hackers! I’m Daniil Okhlopkov, and I’m the Data Lead @ Runa Capital.
-
-### [313. Apple, Microsoft, Alibaba and More Respond To Covd-19 Crisis](https://hackernoon.com/apple-microsoft-alibaba-and-more-respond-to-covd-19-crisis-bf833yo3)
+### [307. Apple, Microsoft, Alibaba and More Respond To Covd-19 Crisis](https://hackernoon.com/apple-microsoft-alibaba-and-more-respond-to-covd-19-crisis-bf833yo3)
 ![](https://cdn.hackernoon.com/drafts/j3da3y1b.png)
 Coronavirus took the world economy with a shock forcing businesses to close their operations amid the spread of the virus. A month ago no one would have thought how daily life would change overnight. Many countries have announced countrywide lockdowns and almost one billion people are already staying at home working remotely or isolating themselves.
 
-### [314. Libra: The Ideavirus](https://hackernoon.com/libra-the-ideavirus-9u653vi0)
+### [308. Debunking the Myth That You Need a College Degree to Work in IT](https://hackernoon.com/debunking-the-myth-that-you-need-a-college-degree-to-work-in-it)
+![](https://cdn.hackernoon.com/images/A7coZ0uhYMgPNXXtkg7aiDfCsxT2-k193u3i.jpeg)
+Debunking the myth: A college degree is not essential for a successful IT career. Skills, experience, and passion matter more in the industry today.
+
+### [309. Is the Grass Greener On the Tech Giants' Side?](https://hackernoon.com/is-the-grass-greener-on-the-tech-giants-side)
+![](https://cdn.hackernoon.com/images/comCvv78UrMck7xqKHYX1VyBUK23-jb93hft.jpeg)
+The grass isn’t always greener on the other side. Here are some things to consider before applying for a Tech Company.
+
+### [310. This Week On Planet Internet, We're Breaking Up With Big Tech](https://hackernoon.com/this-week-on-planet-internet-were-breaking-up-with-big-tech-vh1537z6)
+![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-vt1n3osz.jpeg)
+We are cracking down on Big Tech. Amy Tom, David Smooke, and Hang Ngo talk about Biden's Executive Order on Big Tech, more space war dram, and decentralization 
+
+### [311. You Know What Rhymes with Zoom? Room. Facebook to Launch Video Chat Competitor](https://hackernoon.com/you-know-what-rhymes-with-zoom-room-facebook-to-launch-video-chat-competitor-rw10326q)
+![](https://cdn.hackernoon.com/images/mt2zh2efo.jpg)
+Mark Zuckerberg announced via Facebook Live a new product called Messenger Rooms:
+
+### [312. The Best Facebook Ads Formats for Leads and Sales ](https://hackernoon.com/the-best-facebook-ads-formats-for-leads-and-sales)
+![](https://cdn.hackernoon.com/images/mvmqdB7kwWSWtOm5rQnaPy2urNA3-wv038f8.jpeg)
+Facebook Ads Offer Some Great Formats For Lead Generation And Sales. Discover More In This Article How You Can Scale Your Leads Acquisition And Online Sales.  
+
+### [313. Data Aggregation and DeFi with Noonies Nominee Daniil Okhlopkov](https://hackernoon.com/data-aggregation-and-defi-with-noonies-nominee-daniil-okhlopkov)
+![](https://cdn.hackernoon.com/images/rTrhHLrx9IPDoD8YYbYymdBYWky2-ak037xd.jpeg)
+Hey Hackers! I’m Daniil Okhlopkov, and I’m the Data Lead @ Runa Capital.
+
+### [314. B2B Sales Trends: What To Expect In 2020](https://hackernoon.com/b2b-sales-trends-what-to-expect-in-2020-ad2b31vb)
+![](https://cdn.hackernoon.com/images/ahn93z80.jpg)
+Welcome to the 2020s! 
+
+### [315. Libra: The Ideavirus](https://hackernoon.com/libra-the-ideavirus-9u653vi0)
 ![](https://cdn.hackernoon.com/drafts/7hq33vu0.png)
 The lid on the fabled "Facebook coin" project has been finally lifted in the middle of June. Libra, a name evoking an ancient unit of weight, scales of justice and a somewhat clever jab at Winklevoss' Gemini, has already been written about extensively. 
 
-### [315. Is Libra a Paper Tiger?](https://hackernoon.com/is-libra-a-paper-tiger-zc2vg3zex)
+### [316. Is Libra a Paper Tiger?](https://hackernoon.com/is-libra-a-paper-tiger-zc2vg3zex)
 ![](https://cdn.hackernoon.com/drafts/ribcy3zmy.png)
 Of course, Libra is not a paper tiger. Otherwise it won’t cause theimmediate concern of global financial regulatory bodies and central banks, as well as the hearings by United States congress. But, this project indeed has inherent risks which make it very vulnerable. There is a good chance that it may get seriously delayed or may be forced to shut down if it cannot deal with these risks appropriately. If, unfortunately, it is forced to stop, then its short period of existence is then really a paper tiger.
-
-### [316. B2B Sales Trends: What To Expect In 2020](https://hackernoon.com/b2b-sales-trends-what-to-expect-in-2020-ad2b31vb)
-![](https://cdn.hackernoon.com/images/ahn93z80.jpg)
-Welcome to the 2020s! 
 
 ### [317. As Facebook and Apple Battle for User Identity, The Metaverse Supply Chain Grows](https://hackernoon.com/as-facebook-and-apple-battle-for-user-identity-the-metaverse-supply-chain-grows)
 ![](https://cdn.hackernoon.com/images/U6g5S4clvAfPBkwpyb7K9m2l1xf2-bf039nn.jpeg)
@@ -1303,12 +1305,20 @@ While many have analyzed the Facebook move into the “Metaverse” more from a 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-ta1c3ub6.jpeg?alt=media&token=6e00e88c-7ea6-40c7-9e1c-81892e9ba784)
 The burgeoning campaign by over a thousand large and small businesses, and civil rights organizations  to boycott ads  on Facebook so as to force the social media giant to take more drastic measures to curb hate speech is misguided.
 
-### [319. Facebook & the Libra Effect: 
+### [319. If I Had to Build a Metaverse People Actually Use, Here's How I'd Crush it](https://hackernoon.com/if-i-had-to-build-a-metaverse-people-actually-use-heres-how-id-crush-it)
+![](https://cdn.hackernoon.com/images/XfkAcRQSKZeCWfyOwsqkFfN3Gxf2-1a03fst.jpeg)
+Any metaverse aspiring for global relevance will have to steal these ideas from my brain.
+
+### [320. Do the Leaked Facebook Documents Show That the Company Lied?](https://hackernoon.com/do-the-leaked-facebook-documents-show-that-the-company-lied)
+![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-9y92i84.jpeg)
+Facebook was supposed to stop recommending users political groups. That was a lie. 
+
+### [321. Facebook & the Libra Effect: 
 The New Importance of Privacy in Online Marketplaces](https://hackernoon.com/facebook-and-the-libra-effect-the-new-importance-of-privacy-in-online-marketplaces-esfj3y5p)
 ![](https://cdn.hackernoon.com/drafts/msgx3y2l.png)
 Members of the Libra Association, a group of 28 companies and not-for-profit groups including and brought together by Facebook may soon have the power to forever change the history of the online marketplace worldwide. The Senate and House hearings in Washington July 18th and 19th - as theatrical as they were - may still only be a subtle indication of the grand ramifications of a marketplace where privacy does not exist for buyers and sellers. 
 
-### [320. NYU and Facebook Make MRI Scans 4x Faster by Using AI](https://hackernoon.com/nyu-and-facebook-make-mri-scans-4x-faster-by-using-ai-gf2v3t6m)
+### [322. NYU and Facebook Make MRI Scans 4x Faster by Using AI](https://hackernoon.com/nyu-and-facebook-make-mri-scans-4x-faster-by-using-ai-gf2v3t6m)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FC2DJRjBt4YNpFMrhspmH4oL4ur92-ncy3tnh.jpeg?alt=media&token=1532aa97-574a-4df7-b572-b4a2bc944b55)
 MRI has never been an easy option for a lot of people in the past who have suffered for this test in their life. There would be a considerable amount of unsettling experience that a patient has to bear throughout the MRI time. The Claustrophobia-inducing tube has to be placed over your body, and you have to be at a still position for more than one hour. It’s easy to think about in words, but the experience tends to become harder. Simultaneously, medical hardware creaks, whirs, and thumps around your body, which is not a good feeling.
 
@@ -1330,73 +1340,65 @@ Reported by:
 
 D.Digital News Platform
 
-### [321. If I Had to Build a Metaverse People Actually Use, Here's How I'd Crush it](https://hackernoon.com/if-i-had-to-build-a-metaverse-people-actually-use-heres-how-id-crush-it)
-![](https://cdn.hackernoon.com/images/XfkAcRQSKZeCWfyOwsqkFfN3Gxf2-1a03fst.jpeg)
-Any metaverse aspiring for global relevance will have to steal these ideas from my brain.
-
-### [322. On Developing Career in Tech with Andrey Goncharov, Senior Software Engineer at Facebook](https://hackernoon.com/on-developing-career-in-tech-with-andrey-goncharov-senior-software-engineer-at-facebook)
+### [323. On Developing Career in Tech with Andrey Goncharov, Senior Software Engineer at Facebook](https://hackernoon.com/on-developing-career-in-tech-with-andrey-goncharov-senior-software-engineer-at-facebook)
 ![](https://cdn.hackernoon.com/images/Qzf12C2zWcNwQAVqd7GVo4CVvow2-9a135vq.jpeg)
 In this installment of Meet the Writer series Andrey G, Facebook's senior software engineer, shares his thoughts on career development and his love of sugar.
 
-### [323. The Basics Of Customer Acquisition For Startups](https://hackernoon.com/the-basics-of-customer-acquisition-for-startups-8r3e3yhl)
+### [324. The Basics Of Customer Acquisition For Startups](https://hackernoon.com/the-basics-of-customer-acquisition-for-startups-8r3e3yhl)
 ![](https://cdn.hackernoon.com/drafts/4onl3y8o.png)
 Turning your idea into a real product or business takes real people as users or customers. The goal of this article is to help you validate (or grow) your business by reliably sending relevant visitors to signup for your product or service.
 
-### [324. Do the Leaked Facebook Documents Show That the Company Lied?](https://hackernoon.com/do-the-leaked-facebook-documents-show-that-the-company-lied)
-![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-9y92i84.jpeg)
-Facebook was supposed to stop recommending users political groups. That was a lie. 
-
-### [325. Life Without Google I/O, F8 and the Other Places Developers Learn](https://hackernoon.com/life-without-google-io-f8-and-the-other-places-developers-learn-v63j32z5)
-![](https://cdn.hackernoon.com/drafts/0zate3yop.png)
-The most predictable thing about most conferences used to be that, in the days leading up to them, you would be flooded with e-mails about your registration, new speaker additions and party invites. 
-
-### [326. [Roundup] $100k in Gitcoin Quadratic Funding, Uighur Muslims, and The Ethereum Facebook Group](https://hackernoon.com/dollar100k-in-gitcoin-quadratic-funding-uighur-muslims-and-the-ethereum-facebook-group-zpwk3sc4)
-![](https://cdn.hackernoon.com/drafts/6ftd3sqt.png)
-09/29/2019
-
-### [327. Finally Congress grasps crypto](https://hackernoon.com/finally-congress-grasps-crypto-d85y3zng)
-![](https://cdn.hackernoon.com/drafts/sh7d3zr0.png)
-Occasionally an investigation turns up a piece of evidence that is unexpected, and is in fact more valuable that the information that is actually being sought. It could be said that last week’s Congressional hearings into Facebook’s Libra did just that.
-
-### [328. What We Can Learn From Facebook’s Latest Outage](https://hackernoon.com/what-we-can-learn-from-facebooks-latest-outage)
+### [325. What We Can Learn From Facebook’s Latest Outage](https://hackernoon.com/what-we-can-learn-from-facebooks-latest-outage)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-aq0351c.png)
 A GitHub issue reported a change to the Facebook API causing crashes to happen on many request made from Facebook’s iOS SDK.
 
-### [329. Facebook: Brazen Censorship or a Tactical Solution to a Sophisticated Social Ask?](https://hackernoon.com/facebook-brazen-censorship-or-a-tactical-solution-to-a-sophisticated-social-ask-kj2a34f5)
-![](https://cdn.hackernoon.com/images/3Y7YY5NBjTRjpvBd5CdT6EtwU9i1-ojg310h.jpeg)
-We are entering a completely new supra-state level of regulation. This function that has suddenly gone to Facebook as a state has all the chances to contribute 
-
-### [330. Five Recent FAAGM Statistics That Underline the Tech Industry's Longer Term Trends](https://hackernoon.com/five-recent-faagm-statistics-that-underline-the-tech-industrys-longer-term-trends-mvg3ewm)
+### [326. Five Recent FAAGM Statistics That Underline the Tech Industry's Longer Term Trends](https://hackernoon.com/five-recent-faagm-statistics-that-underline-the-tech-industrys-longer-term-trends-mvg3ewm)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-58cb3edc.jpeg?alt=media&token=c41b5659-d223-4734-93f7-328afe814c09)
 30% fee Apple charges developers for App Store transactions
 
-### [331. The HackerNoon Newsletter: AI CAPTCHA Fails Are the Internet’s New Comedy Show! (2/27/2025)](https://hackernoon.com/2-27-2025-newsletter)
+### [327. Life Without Google I/O, F8 and the Other Places Developers Learn](https://hackernoon.com/life-without-google-io-f8-and-the-other-places-developers-learn-v63j32z5)
+![](https://cdn.hackernoon.com/drafts/0zate3yop.png)
+The most predictable thing about most conferences used to be that, in the days leading up to them, you would be flooded with e-mails about your registration, new speaker additions and party invites. 
+
+### [328. [Roundup] $100k in Gitcoin Quadratic Funding, Uighur Muslims, and The Ethereum Facebook Group](https://hackernoon.com/dollar100k-in-gitcoin-quadratic-funding-uighur-muslims-and-the-ethereum-facebook-group-zpwk3sc4)
+![](https://cdn.hackernoon.com/drafts/6ftd3sqt.png)
+09/29/2019
+
+### [329. Finally Congress grasps crypto](https://hackernoon.com/finally-congress-grasps-crypto-d85y3zng)
+![](https://cdn.hackernoon.com/drafts/sh7d3zr0.png)
+Occasionally an investigation turns up a piece of evidence that is unexpected, and is in fact more valuable that the information that is actually being sought. It could be said that last week’s Congressional hearings into Facebook’s Libra did just that.
+
+### [330. Business Model Innovation And The Future Of Crypto](https://hackernoon.com/business-model-innovation-and-the-future-of-crypto-3l2p32lg)
+![](https://cdn.hackernoon.com/images/vfo2ef6.jpg)
+In his essay, Fred Wilson wrote in AVC blog about technical innovation, business model innovation, and the last two big waves we had in the tech industry:
+
+### [331. Facebook: Brazen Censorship or a Tactical Solution to a Sophisticated Social Ask?](https://hackernoon.com/facebook-brazen-censorship-or-a-tactical-solution-to-a-sophisticated-social-ask-kj2a34f5)
+![](https://cdn.hackernoon.com/images/3Y7YY5NBjTRjpvBd5CdT6EtwU9i1-ojg310h.jpeg)
+We are entering a completely new supra-state level of regulation. This function that has suddenly gone to Facebook as a state has all the chances to contribute 
+
+### [332. The HackerNoon Newsletter: AI CAPTCHA Fails Are the Internet’s New Comedy Show! (2/27/2025)](https://hackernoon.com/2-27-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_172_wktrkg5hyjattsg0nqj5wsvw.png)
 2/27/2025: Top 5 stories on the HackerNoon homepage!
 
-### [332. Facebook Libra: on the 4 steps road for World Presidency...](https://hackernoon.com/facebook-libra-on-the-4-steps-road-for-world-presidency-s92sx34ji)
+### [333. Facebook Libra: on the 4 steps road for World Presidency...](https://hackernoon.com/facebook-libra-on-the-4-steps-road-for-world-presidency-s92sx34ji)
 ![](https://cdn.hackernoon.com/drafts/5a13345h.png)
 Something changed on the 18th of June 2019. The day that Libra went public. Facebook’s long rumoured cryptocurrency project, which has rallied 28 world-leading partners, came out of the closet, and with it this new asset class seems to have landed its first concrete, large scale application. With over 2.7 billion users spread across all of its platforms1(Facebook, Messenger, WhatsApp and Instagram), and in response to recent strides into the payment sector and digital wallets by the likes of Samsung, Apple and Tencent, it was time for the group led by Mark Zuckerberg to finally wade into the great cryptocurrency arms race unfolding before us.
 
-### [333. The Facebook Fake-Waves of Libra Scams.](https://hackernoon.com/the-facebook-fake-waves-of-libra-scams-drau3zk5)
+### [334. The Facebook Fake-Waves of Libra Scams.](https://hackernoon.com/the-facebook-fake-waves-of-libra-scams-drau3zk5)
 ![](https://cdn.hackernoon.com/images/28a63zm3.jpg)
 There’s a new wave of dozen fake accounts, groups and pages which are spread across Facebook and Instagram. — Claiming and trying to sell Facebook’s latest cryptocurrency Libra everywhere across the social platforms.
-
-### [334. Business Model Innovation And The Future Of Crypto](https://hackernoon.com/business-model-innovation-and-the-future-of-crypto-3l2p32lg)
-![](https://cdn.hackernoon.com/images/vfo2ef6.jpg)
-In his essay, Fred Wilson wrote in AVC blog about technical innovation, business model innovation, and the last two big waves we had in the tech industry:
 
 ### [335. How Facebook Serves Targeted Ads by Big Pharma](https://hackernoon.com/how-facebook-serves-targeted-ads-for-big-pharma)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-i8036ek.jpeg)
 We found drug ads targeted at users interested in everything from bourbon to therapy on Facebook, with significant implications for privacy for users. 
 
-### [336. TLDR Newsletter Week of July 29th Highlights](https://hackernoon.com/tldr-newsletter-week-of-july-29th-highlights-gd2tu3qqk)
-![](https://cdn.hackernoon.com/images/ot303wg8.jpg)
-Scraper API's 5 Tips for Building Large Scale Web Scrapers
-
-### [337. Governments Stifle IT Companies With Restrictions](https://hackernoon.com/governments-stifle-it-companies-with-restrictions-cxa9312y)
+### [336. Governments Stifle IT Companies With Restrictions](https://hackernoon.com/governments-stifle-it-companies-with-restrictions-cxa9312y)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-9j90311f.jpeg)
 Here you will learn our current relations with the state and how that is going to change with the development of new technologies.
+
+### [337. TLDR Newsletter Week of July 29th Highlights](https://hackernoon.com/tldr-newsletter-week-of-july-29th-highlights-gd2tu3qqk)
+![](https://cdn.hackernoon.com/images/ot303wg8.jpg)
+Scraper API's 5 Tips for Building Large Scale Web Scrapers
 
 ### [338. How can we make social media better platforms?](https://hackernoon.com/how-can-we-make-social-media-better-platforms)
 ![](https://cdn.hackernoon.com/images/9hxBW3C9X2fGSRUEBo7K2WIOiQt2-q2038si.jpeg)
@@ -1406,21 +1408,21 @@ Cloud has some benefits and some downsides. Hard Drives also have some benefits 
 ![](https://cdn.hackernoon.com/drafts/f4p3o5n.png)
 Vitalik’s Time Machine Visit
 
-### [340. Don't Fall For These Ads With Misinformation Even Though Facebook Approves Them](https://hackernoon.com/dont-fall-for-these-ads-with-misinformation-even-though-facebook-approves-them-n41s34c1)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-3i1034zj.jpeg)
-While vowing to police COVID-19 misinformation on its platform, Facebook let advertisers target users interested in “pseudoscience”.
+### [340. The Most Influential Website of All Time That You Probably Don't Think About](https://hackernoon.com/the-most-influential-website-of-all-time-that-you-probably-dont-think-about)
+![](https://cdn.hackernoon.com/images/sJwjgWMePCRCww2FEBtUo8iYsiL2-79g2gl9.jpeg)
+HotOrNot was created in the fall of 2000 by two Berkley grads, James Hong and Jim Young. 
 
 ### [341. "cannot build multi-billion $ org unless you are clear on what instinct or organ you are targeting" ](https://hackernoon.com/cannot-build-multi-billion-dollar-org-unless-you-are-clear-on-what-instinct-or-organ-you-are-targeting-qy1rg2gcz)
 ![](https://cdn.hackernoon.com/images/y91xx2gms.jpg)
 
 
-### [342. Did Libra announcement impact the price of BTC?](https://hackernoon.com/did-libra-announcement-impact-the-price-of-btc-gfeo31au)
+### [342. Don't Fall For These Ads With Misinformation Even Though Facebook Approves Them](https://hackernoon.com/dont-fall-for-these-ads-with-misinformation-even-though-facebook-approves-them-n41s34c1)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-3i1034zj.jpeg)
+While vowing to police COVID-19 misinformation on its platform, Facebook let advertisers target users interested in “pseudoscience”.
+
+### [343. Did Libra announcement impact the price of BTC?](https://hackernoon.com/did-libra-announcement-impact-the-price-of-btc-gfeo31au)
 ![](https://cdn.hackernoon.com/images/u46331yg.jpg)
 Last week, the price of BTC rose extensively, jumping to almost 13k. It was perfect timing for the organizers of the BTC2019 conference in San Francisco. 
-
-### [343. The Most Influential Website of All Time That You Probably Don't Think About](https://hackernoon.com/the-most-influential-website-of-all-time-that-you-probably-dont-think-about)
-![](https://cdn.hackernoon.com/images/sJwjgWMePCRCww2FEBtUo8iYsiL2-79g2gl9.jpeg)
-HotOrNot was created in the fall of 2000 by two Berkley grads, James Hong and Jim Young. 
 
 ### [344. How To Tame The Tech Giants of Silicon Valley](https://hackernoon.com/how-to-tame-the-tech-giants-of-silicon-valley-201i3zzv)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN1kgFTyAekhORIW6jnwySXkjyt82-bt2925po.jpeg?alt=media&token=54d34a76-67eb-4cc3-9a18-bfb423722375)

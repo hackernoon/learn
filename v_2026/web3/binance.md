@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [binance](https://hackernoon.com/tagged/binance)
+### Let's learn about [Binance](https://hackernoon.com/tagged/binance) via these 180 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Binance is one of the world's largest cryptocurrency exchanges, facilitating the trading of various digital assets and playing a pivotal role in the global crypto economy. It matters by providing liquidity and accessibility to a vast array of cryptocurrencies, driving adoption and innovation within the blockchain space.
+
 ### [1. How to Withdraw from MetaMask to Your Bank Account](https://hackernoon.com/how-to-withdraw-from-metamask-to-your-bank-account)
 ![](https://cdn.hackernoon.com/images/Bm6Dk7O9xqaIxfKLbfh8LQkOJos2-5af3vo4.jpeg)
 To withdraw crypto from Metamask to your bank, transfer your crypto from Metamask to Binance and then withdraw your crypto from Binance to your bank account.
@@ -93,25 +97,25 @@ Let’s start with a disclaimer. I am a big fan of the Binance and it’s variou
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-df92dcl.jpeg)
 Positioning from shit and sticks. Hooked Protocol is going to introduce people to Web 3.0.
 
-### [24. FTX/Alameda, What Happened?](https://hackernoon.com/ftxalameda-what-happened)
+### [24. Binance's AI-Driven Crackdown on Crypto Scams: $9.1M Recovered, $129M Prevented](https://hackernoon.com/binances-ai-driven-crackdown-on-crypto-scams-$91m-recovered-$129m-prevented)
+![](https://cdn.hackernoon.com/images/IKXzMIRzuqcRvy8v7VsXkDPhvBK2-xh03dg2.jpeg)
+Binance has launched a full-scale initiative to combat digital scams. 
+
+### [25. FTX/Alameda, What Happened?](https://hackernoon.com/ftxalameda-what-happened)
 ![](https://cdn.hackernoon.com/images/aOn8gR7ToUWB4Bo0xdz3TiiM6lk1-90f3kv2.jpeg)
 I think everyone was caught by surprise by the collapse of FTX/Alameda. Why did we end-up where we are now and why did it happen so quickly? Here is my take.
 
-### [25. Our Next-Gen Crypto Trading Bot Neomenia Goes Live](https://hackernoon.com/our-next-gen-crypto-trading-bot-neomenia-goes-live-lvq36jl)
+### [26. Our Next-Gen Crypto Trading Bot Neomenia Goes Live](https://hackernoon.com/our-next-gen-crypto-trading-bot-neomenia-goes-live-lvq36jl)
 ![](https://cdn.hackernoon.com/images/0l4o364c.jpg)
 Edit: Some Restructuring, Back in Development
 
-### [26. Understanding the Internals of Binance and Poloniex Using Machine Learning and Data Visualizations ](https://hackernoon.com/understanding-the-internals-of-binance-and-poloniex-using-machine-learning-and-data-visualizations-5bc331yw)
+### [27. Understanding the Internals of Binance and Poloniex Using Machine Learning and Data Visualizations ](https://hackernoon.com/understanding-the-internals-of-binance-and-poloniex-using-machine-learning-and-data-visualizations-5bc331yw)
 ![](https://cdn.hackernoon.com/images/frbm3133.jpg)
 Centralized exchanges remain one of the black boxes of the crypto landscape. Despite being a gateway into the world of decentralized finance, centralized exchanges are very…well…centralized in nature and hide many of its intrinsic mechanics from the scrutiny of public blockchains. Not surprisingly, ten years after the creation of Bitcoin, the internal architecture of centralized exchanges remains a mystery to even the top experts in the crypto market.
 
-### [27. The Centralizing Forces of Decentralization: Why do we keep Enabling This?](https://hackernoon.com/centralizing-decentralization-why-do-we-keep-doing-this-mni3xc0)
+### [28. The Centralizing Forces of Decentralization: Why do we keep Enabling This?](https://hackernoon.com/centralizing-decentralization-why-do-we-keep-doing-this-mni3xc0)
 ![](https://cdn.hackernoon.com/images/9oan3xdn.jpg)
 It has been almost three years now since we last heard the promises of mass adoption, usability, scalability, proof of X and all those phrases no one really understood. While others saw that time as a period of prosperity, I would have to disagree and point out a few flaws in the system.
-
-### [28. Binance's AI-Driven Crackdown on Crypto Scams: $9.1M Recovered, $129M Prevented](https://hackernoon.com/binances-ai-driven-crackdown-on-crypto-scams-$91m-recovered-$129m-prevented)
-![](https://cdn.hackernoon.com/images/IKXzMIRzuqcRvy8v7VsXkDPhvBK2-xh03dg2.jpeg)
-Binance has launched a full-scale initiative to combat digital scams. 
 
 ### [29. Building a SocialFi Metaverse: An Interview with Torum CEO Yi Feng Go](https://hackernoon.com/building-a-socialfi-metaverse-an-interview-with-torum-ceo-yi-feng-go)
 ![](https://cdn.hackernoon.com/images/C7LGfLlZs3OY2w0N7r4ePehwKBI2-qvb3pb8.jpeg)
@@ -129,13 +133,13 @@ Binance is widely considered to be a top cryptocurrency exchange. At the same ti
 ![](https://cdn.hackernoon.com/images/4gez36hf.jpg)
 Disclaimer: I don’t stand to gain any benefit from my review of ChainLink. This article is not intended as investment advice. It is just my opinion. As always, DYOR before investing.
 
-### [33. Can Binance Smart Chain Answer Elon Musk's Crypto-Breaking Reiterated Question of Energy Efficiency?](https://hackernoon.com/can-binance-smart-chain-answer-elon-musks-crypto-breaking-reiterated-question-of-energy-efficiency-eh5m3465)
-![](https://cdn.hackernoon.com/images/dfnkKGGdaveDKSte2xzbUj73T6z2-c8u36en.png)
-At the time of writing, Elon Musk’s tirades against Bitcoin are growing more frequent and seemingly less informed. The crypto sphere has been thrown into a state of disarray (more disarray than usual anyway) by Elon Musk and Tesla’s decision to suspend Bitcoin payments for their cars. 
-
-### [34. The Future of Cryptocurrency Trading](https://hackernoon.com/the-future-of-cryptocurrency-trading)
+### [33. The Future of Cryptocurrency Trading](https://hackernoon.com/the-future-of-cryptocurrency-trading)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4d92ayk.jpeg)
 Cryptocurrency is one of the most in-demand assets to have in your portfolio right now.
+
+### [34. Can Binance Smart Chain Answer Elon Musk's Crypto-Breaking Reiterated Question of Energy Efficiency?](https://hackernoon.com/can-binance-smart-chain-answer-elon-musks-crypto-breaking-reiterated-question-of-energy-efficiency-eh5m3465)
+![](https://cdn.hackernoon.com/images/dfnkKGGdaveDKSte2xzbUj73T6z2-c8u36en.png)
+At the time of writing, Elon Musk’s tirades against Bitcoin are growing more frequent and seemingly less informed. The crypto sphere has been thrown into a state of disarray (more disarray than usual anyway) by Elon Musk and Tesla’s decision to suspend Bitcoin payments for their cars. 
 
 ### [35. Bridging CeFi and DeFi: Better Risk Management and More Sustainable Wealth Generation](https://hackernoon.com/bridging-cefi-and-defi-better-risk-management-and-more-sustainable-wealth-generation)
 ![](https://cdn.hackernoon.com/images/5e4mQkoNTufDB9PLNsHikSnPAUs1-5tc3ty7.jpeg)
@@ -161,13 +165,13 @@ World of Dypians (WOD) - a unique, groundbreaking MMORPG, has been featured in t
 ![](https://cdn.hackernoon.com/images/mPvh1aeMgeaWzZiI3EMqytVN62x2-8ma3pq8.jpeg)
 Binance, the crown jewel of the cryptocurrency industry was hacked back in late 2018, with the hacker claiming to have the KYC documents of all users. The extent to what data was breached is still not clear, but one thing is for certain: pictures and scans.  And now they're being leaked to the public at an incredibly rate.
 
-### [41. PumaPay moves from Ethereum to Binance Smart Chain, the first payment service to do so](https://hackernoon.com/pumapay-moves-from-ethereum-to-binance-smart-chain-the-first-payment-service-to-do-so-goi35jm)
-![](https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-8n5l467u.jpeg)
-PumaPay has announced it has moved its operations from Ethereum to BSC - the first crypto payment solution to do so.
-
-### [42. At SBF's direction, Caroline materially misled investors that Alameda was fine. It was not. ](https://hackernoon.com/at-sbfs-direction-caroline-materially-misled-investors-that-alameda-was-fine-it-was-not)
+### [41. At SBF's direction, Caroline materially misled investors that Alameda was fine. It was not. ](https://hackernoon.com/at-sbfs-direction-caroline-materially-misled-investors-that-alameda-was-fine-it-was-not)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-1o93qdf.jpeg)
 ah, the infamous leaked balance sheet that started the chain of events leading to FTX's eventual collapse 
+
+### [42. PumaPay moves from Ethereum to Binance Smart Chain, the first payment service to do so](https://hackernoon.com/pumapay-moves-from-ethereum-to-binance-smart-chain-the-first-payment-service-to-do-so-goi35jm)
+![](https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-8n5l467u.jpeg)
+PumaPay has announced it has moved its operations from Ethereum to BSC - the first crypto payment solution to do so.
 
 ### [43. Crypto-Trading Bots: An Overview](https://hackernoon.com/crypto-trading-bots-an-overview-9j3b3yu1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fik4C3xu8dTaQNvRJjlvpksNekrW2-9i2d3eum.png?alt=media&token=e66b6b2e-929a-4136-bbf6-2f164a13d310)
@@ -243,14 +247,14 @@ On March 30, the Block broke the news that Binance is involved in yet another le
 ![](https://cdn.hackernoon.com/images/1i4z13691.jpg)
 2019 has been the year of IEOs. With less than 2 months to go before we march into 2020, I think it’s a safe claim to make now. What’s surprising here is that barely a year ago, crypto pundits had almost unanimously declared that 2019 would be the year of STOs. But when has the crypto market ever listened to the mandate of the people? So what started as a novelty in January, had become a rage by the middle of the year. And although the intensity has reduced a bit now, there is no sign of the IEO chariot stopping.
 
-### [61. Can CoinMarketCap Earn Program Help Crypto-Adoption?](https://hackernoon.com/can-coinmarketcap-earn-program-help-crypto-adoption-jr1h34kf)
-![](https://cdn.hackernoon.com/images/fbnUVjnl8Hh4qtRO7PCOLjKggfn1-xx932jy.jpeg)
-CoinMarketCap, one of the leading information and price tracking tools used by cryptocurrency enthusiasts from all over the world, is actively promoting crypto education with its rapidly developing platform CoinMarketCap Earn.
-
-### [62. SBF attempted to defend himself from all fringe accusations, but the main one (embezzlement) ](https://hackernoon.com/sbf-attempted-to-defend-himself-from-all-fringe-accusations-but-the-main-one-embezzlement)
+### [61. SBF attempted to defend himself from all fringe accusations, but the main one (embezzlement) ](https://hackernoon.com/sbf-attempted-to-defend-himself-from-all-fringe-accusations-but-the-main-one-embezzlement)
 ![](https://cdn.hackernoon.com/images/deer-in-headlight-who-me-clbpp0a71000101s6buyc4bpm.png)
 What SBF would have testified in front of Congress - part 11 of 11 - Accusations
 
+
+### [62. Can CoinMarketCap Earn Program Help Crypto-Adoption?](https://hackernoon.com/can-coinmarketcap-earn-program-help-crypto-adoption-jr1h34kf)
+![](https://cdn.hackernoon.com/images/fbnUVjnl8Hh4qtRO7PCOLjKggfn1-xx932jy.jpeg)
+CoinMarketCap, one of the leading information and price tracking tools used by cryptocurrency enthusiasts from all over the world, is actively promoting crypto education with its rapidly developing platform CoinMarketCap Earn.
 
 ### [63. Top Altcoin Exchanges in 2021](https://hackernoon.com/top-altcoin-exchanges-in-2021)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-h403oo2.jpeg)
@@ -280,21 +284,21 @@ Cillionaire goes over whether Binance is under attack.
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-4va3pe0.jpeg)
 Mayur Kamat is a leading figure in product management at Binance. Having started his career at Microsoft, he is now a major driving force behind Binance product
 
-### [70. Moving Tokenarium to Polygon and Other Dev Updates](https://hackernoon.com/moving-tokenarium-to-polygon-and-other-dev-updates)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-vo93og2.jpeg)
-Hello guys! Today we want to discuss news, game updates, switching to Polygon, new partners, future plans and some other small topics.
-
-### [71. Binance App: Details, Features, Payments in 2021](https://hackernoon.com/binance-app-details-features-payments-in-2021-6am327l)
-![](https://cdn.hackernoon.com/images/lULaNwh3IjS5beJlfIa3GeX2qPq1-zdc9359x.jpeg)
-Binance app is a reliable forex and crypto broker for you to use. Buy and sell crypto easily on Binance wherever you are, with the lowest fees ever
-
-### [72. 5 Biggest Challenges That DEX Users Face](https://hackernoon.com/5-biggest-challenges-that-dex-users-face)
+### [70. 5 Biggest Challenges That DEX Users Face](https://hackernoon.com/5-biggest-challenges-that-dex-users-face)
 ![](https://cdn.hackernoon.com/images/rMG3OAUqC1PWRJWF42X0HzilLP13-k683th1.jpeg)
 The evolution of DeFi and the challenges facing decentralized exchanges (DEXs) in mainstream adoption.
 
-### [73. Cryptocurrency May Have Forced the Fed to Move](https://hackernoon.com/cryptocurrency-may-have-forced-the-fed-to-move)
+### [71. Moving Tokenarium to Polygon and Other Dev Updates](https://hackernoon.com/moving-tokenarium-to-polygon-and-other-dev-updates)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-vo93og2.jpeg)
+Hello guys! Today we want to discuss news, game updates, switching to Polygon, new partners, future plans and some other small topics.
+
+### [72. Cryptocurrency May Have Forced the Fed to Move](https://hackernoon.com/cryptocurrency-may-have-forced-the-fed-to-move)
 ![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-rw93sb7.jpeg)
 The adoption of cryptocurrency into the mainstream is not going to be easy. There is going to be some real pain. The path will be zigzag.
+
+### [73. Binance App: Details, Features, Payments in 2021](https://hackernoon.com/binance-app-details-features-payments-in-2021-6am327l)
+![](https://cdn.hackernoon.com/images/lULaNwh3IjS5beJlfIa3GeX2qPq1-zdc9359x.jpeg)
+Binance app is a reliable forex and crypto broker for you to use. Buy and sell crypto easily on Binance wherever you are, with the lowest fees ever
 
 ### [74. Exchange coins as the new black: why they are in trend](https://hackernoon.com/exchange-coins-as-the-new-black-why-they-are-in-trend-sc24y3a1i)
 ![](https://cdn.hackernoon.com/drafts/lk24q3a2h.png)
@@ -310,13 +314,13 @@ See this post on it's original location, github.io!
 
 It’s been a busy few days for me!
 
-### [77. 🎮 Binance's Acquisition of FTX: What It Could Mean](https://hackernoon.com/binances-acquisition-of-ftx-what-it-could-mean)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ux93q1x.jpeg)
-CZ announced that Binance is buying FTX to "save them."
-
-### [78. Binance and FTX: How All Developed and Was It a Well-Crafted Plan of CZ?](https://hackernoon.com/binance-and-ftx-how-all-developed-and-was-it-a-well-crafted-plan-of-cz)
+### [77. Binance and FTX: How All Developed and Was It a Well-Crafted Plan of CZ?](https://hackernoon.com/binance-and-ftx-how-all-developed-and-was-it-a-well-crafted-plan-of-cz)
 ![](https://cdn.hackernoon.com/images/LfIWgEvv7eQxowzxo2fYPBh2gAo1-ujj3qxk.jpeg)
 When FTX froze withdrawals and seemed to collapse, Binance stepped in and saved its rival from bankruptcy by offering to purchase it. Was it planned by CZ? 
+
+### [78. 🎮 Binance's Acquisition of FTX: What It Could Mean](https://hackernoon.com/binances-acquisition-of-ftx-what-it-could-mean)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ux93q1x.jpeg)
+CZ announced that Binance is buying FTX to "save them."
 
 ### [79. Cryptocurrency Exchange Survey Finds Binance Is Still The King - However Various Issues Still Remain](https://hackernoon.com/cryptocurrency-exchange-survey-finds-binance-is-still-the-king-however-various-issues-still-remain-ti1e2kva)
 ![](https://cdn.hackernoon.com/drafts/3wl2hom.png)
@@ -326,21 +330,21 @@ A recent survey carried out by blockchain-based data exchange company Insights N
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-1293s4x.jpeg)
 The Saga Continues: What’s next for Voyager and Binance after U.S. Government Agreement?
 
-### [81. Centralization vs Decentralization, Binance Hack, and the Binance Smart Chain Halt](https://hackernoon.com/centralization-vs-decentralization-binance-hack-and-the-binance-smart-chain-halt)
-![](https://cdn.hackernoon.com/images/LfIWgEvv7eQxowzxo2fYPBh2gAo1-ckc3pna.jpeg)
-Are the main blockchains decentralized as they claim? Binance Smart Chain - a proof of centralization. Decentralization may not be as important as we believe it
-
-### [82. What You Need to Know About Binance.US Delisting Tron (TRX) and Spell (SPELL) Tokens](https://hackernoon.com/what-you-need-to-know-about-binanceus-delisting-tron-trx-and-spell-spell-tokens)
+### [81. What You Need to Know About Binance.US Delisting Tron (TRX) and Spell (SPELL) Tokens](https://hackernoon.com/what-you-need-to-know-about-binanceus-delisting-tron-trx-and-spell-spell-tokens)
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-1a93su5.jpeg)
 Is Justin Sun’s recent legal trouble to blame?
 
-### [83. How Ethereum Virtual Machine Chains Fix Ethereum ](https://hackernoon.com/how-ethereum-virtual-machine-chains-fix-ethereum-yx12373t)
-![](https://cdn.hackernoon.com/images/twyQxsBsxnRAkzdRQZQwa4moT752-szh35jp.jpeg)
-Instead of waiting for Ethereum to fix itself, learn how other chains stepped up and fixed it themselves.
+### [82. Centralization vs Decentralization, Binance Hack, and the Binance Smart Chain Halt](https://hackernoon.com/centralization-vs-decentralization-binance-hack-and-the-binance-smart-chain-halt)
+![](https://cdn.hackernoon.com/images/LfIWgEvv7eQxowzxo2fYPBh2gAo1-ckc3pna.jpeg)
+Are the main blockchains decentralized as they claim? Binance Smart Chain - a proof of centralization. Decentralization may not be as important as we believe it
 
-### [84. Global Crypto Regulation: Lessons from Binance's $4.3 Billion Settlement and Industry Analysis](https://hackernoon.com/global-crypto-regulation-lessons-from-binances-$43-billion-settlement-and-industry-analysis)
+### [83. Global Crypto Regulation: Lessons from Binance's $4.3 Billion Settlement and Industry Analysis](https://hackernoon.com/global-crypto-regulation-lessons-from-binances-$43-billion-settlement-and-industry-analysis)
 ![](https://cdn.hackernoon.com/images/bYCexUWLiRQ4UzitZo1dfr0t6So1-0ye3f3t.jpeg)
 In the evolving regulatory landscape of the cryptocurrency industry, projects must navigate regional differences and use compliance tools for global growth.
+
+### [84. How Ethereum Virtual Machine Chains Fix Ethereum ](https://hackernoon.com/how-ethereum-virtual-machine-chains-fix-ethereum-yx12373t)
+![](https://cdn.hackernoon.com/images/twyQxsBsxnRAkzdRQZQwa4moT752-szh35jp.jpeg)
+Instead of waiting for Ethereum to fix itself, learn how other chains stepped up and fixed it themselves.
 
 ### [85. Binance Under Fire: Executives Detained in Nigeria Amid Investigations](https://hackernoon.com/binance-under-fire-executives-detained-in-nigeria-amid-investigations)
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-8i838k5.jpeg)
@@ -386,17 +390,17 @@ Last week, ASIC issued a hearing notice, under the Corporations Act 2001, to det
 ![](https://cdn.hackernoon.com/images/Bm6Dk7O9xqaIxfKLbfh8LQkOJos2-zzd3x4d.jpeg)
 The Difference Between a CEX and a DEX: Exploring the Pros and Cons of centralized and decentralized crypto exchanges.
 
-### [96. Decoding NFTs, GameFi and Metaverse with Helen Hai, Head of Binance NFT](https://hackernoon.com/decoding-nfts-gamefi-and-metaverse-with-helen-hai-head-of-binance-nft)
+### [96. How to Create an Account on Binance and Begin Trading Digital Assets](https://hackernoon.com/how-to-create-an-account-on-binance-and-begin-trading-digital-assets)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-qn92ib5.jpeg)
+In this article, we will go through a step-by-step process of opening a Binance account for cryptocurrency trading.
+
+### [97. Decoding NFTs, GameFi and Metaverse with Helen Hai, Head of Binance NFT](https://hackernoon.com/decoding-nfts-gamefi-and-metaverse-with-helen-hai-head-of-binance-nft)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-c293n2b.jpeg)
 Head of Binance NFT, Helen Hai, is the head of the NFT platform talks about NFTs, Metaverse and GameFi. 
 
-### [97. World's First Cross-Chain Money Market Launches On Binance](https://hackernoon.com/worlds-first-cross-chain-money-market-launches-on-binance-4q333zab)
+### [98. World's First Cross-Chain Money Market Launches On Binance](https://hackernoon.com/worlds-first-cross-chain-money-market-launches-on-binance-4q333zab)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FyLMjWEu85gUIPUsUnVO20MJaz3K2-fds3tpw.jpeg?alt=media&token=ee364880-3b3f-43c0-82a3-d21c9800e827)
 Kava Labs is proud to confirm that HARD Protocol is now being hosted on Binance’s Launchpool platform. Launchpool is a new initiative designed to bring the decentralized finance (DeFi) experience to Binance users. 
-
-### [98. How to Create an Account on Binance and Begin Trading Digital Assets](https://hackernoon.com/how-to-create-an-account-on-binance-and-begin-trading-digital-assets)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-qn92ib5.jpeg)
-In this article, we will go through a step-by-step process of opening a Binance account for cryptocurrency trading.
 
 ### [99. BAM Trading and Binance in the Heart of Crypto Trading Amid Regulatory Challenges](https://hackernoon.com/bam-trading-and-binance-in-the-heart-of-crypto-trading-amid-regulatory-challenges)
 ![](https://cdn.hackernoon.com/images/hYnD3aGcZIgKnjRGl8QfkZDGyBF2-k093x4i.jpeg)
@@ -410,17 +414,17 @@ Globalization and liberalization in the 1990s changed the divided global economy
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-vl93tkw.jpeg)
 Binance caught RED-handed?
 
-### [102. DeFi’s Success Modelled on Bitcoin’s Formula ](https://hackernoon.com/defis-success-modelled-on-bitcoins-formula-sq1v3wyb)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-fln3wk8.jpeg?alt=media&token=c34e4860-cd57-4094-8f93-d4684205f31a)
-DeFi continues to garner the attention of retail and institutional investors with incentivized participation, one of the keys to Bitcoin’s continued success. Unlike most of us in 2020, Decentralized Finance (DeFi) has been having a very good year, becoming one of the most compelling innovations in the blockchain space with over $12.27 billion of value locked in the sector (based on 44 providers tracked by DeFiPulse).
+### [102. SEC - The New US Debt Collector  ](https://hackernoon.com/sec-the-new-us-debt-collector)
+![](https://cdn.hackernoon.com/images/yvqSk94LhvZA0wrvmh06TtNU2Fy1-dr93ukc.jpeg)
+SEC is just doing it’s humble part to help Uncle Sam. Just a humble conspiracy theory.
 
 ### [103. In Crypto, Businesses Die but the Protocols Persist](https://hackernoon.com/in-crypto-businesses-die-but-the-protocols-persist)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-l6a3t2p.jpeg)
 The biggest crypto lending platform, trading firm, broker, and #2 crypto exchange all collapsed. Yet, crypto persists. How? Why? 
 
-### [104. SEC - The New US Debt Collector  ](https://hackernoon.com/sec-the-new-us-debt-collector)
-![](https://cdn.hackernoon.com/images/yvqSk94LhvZA0wrvmh06TtNU2Fy1-dr93ukc.jpeg)
-SEC is just doing it’s humble part to help Uncle Sam. Just a humble conspiracy theory.
+### [104. DeFi’s Success Modelled on Bitcoin’s Formula ](https://hackernoon.com/defis-success-modelled-on-bitcoins-formula-sq1v3wyb)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-fln3wk8.jpeg?alt=media&token=c34e4860-cd57-4094-8f93-d4684205f31a)
+DeFi continues to garner the attention of retail and institutional investors with incentivized participation, one of the keys to Bitcoin’s continued success. Unlike most of us in 2020, Decentralized Finance (DeFi) has been having a very good year, becoming one of the most compelling innovations in the blockchain space with over $12.27 billion of value locked in the sector (based on 44 providers tracked by DeFiPulse).
 
 ### [105. The Reason Why People FUD About Binance](https://hackernoon.com/the-reason-why-people-fud-about-binance)
 ![](https://cdn.hackernoon.com/images/mob-against-crypto-clf788hol000001s6btt22vl8.png)
@@ -430,17 +434,17 @@ Changpeng Zhao discusses why people may feel apprehensive toward Binance.
 ![](https://cdn.hackernoon.com/images/4WDB0ymCKMPqArRG1OUKKP6F78U2-zm93lic.jpeg)
 The latest cryptocurrency news, from Metamask to decentralized autonomous organizations. Who's doing what to whom in crypto ...
 
-### [107. Binance's Revenue Breakdown: How the Crypto Giant Earns Billions from Crypto Transactions](https://hackernoon.com/binances-revenue-breakdown-how-the-crypto-giant-earns-billions-from-crypto-transactions)
+### [107. Binance's Efforts to Help Select Market Participants Evade Its Compliance Controls  ](https://hackernoon.com/binances-efforts-to-help-select-market-participants-evade-its-compliance-controls)
+![](https://cdn.hackernoon.com/images/illustrate-man-in-binance-t-shirt-running-away-from-something-p4o8i6z90ke1h4ohpgitfavk.png)
+Examine current market participants trading on Binance and learn about Binance's initiatives to support them in complying with regulatory controls.
+
+### [108. Binance's Revenue Breakdown: How the Crypto Giant Earns Billions from Crypto Transactions](https://hackernoon.com/binances-revenue-breakdown-how-the-crypto-giant-earns-billions-from-crypto-transactions)
 ![](https://cdn.hackernoon.com/images/illustrate-a-chart-graph-for-revenue-plotted-against-time-s6wdpd6tbi7oiapzjy4oca45.png)
 Explore how Binance, the world's largest crypto trading platform, rakes in billions in revenue through transaction fees and services
 
-### [108. CZ's AMA Responses To My Questions On Binance Scaling Challenges](https://hackernoon.com/czs-ama-responses-to-my-questions-on-binance-scaling-challenges-pi1p3x0c)
+### [109. CZ's AMA Responses To My Questions On Binance Scaling Challenges](https://hackernoon.com/czs-ama-responses-to-my-questions-on-binance-scaling-challenges-pi1p3x0c)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMjZ4BhqnEJYjc20zMtQlL0Bjf4n1-1je25w5.jpeg?alt=media&token=a925368a-19d8-437c-9151-d2217b3d5527)
 I’ve been in and out of the blockchain ecosystem for the last three years. I’ve made my first purchase the same month Binance launched. In the meantime, I’ve gained a CoinMarketCap compulsive checking behavior after holding a bag through the last crypto winter. 
-
-### [109. Binance's Efforts to Help Select Market Participants Evade Its Compliance Controls  ](https://hackernoon.com/binances-efforts-to-help-select-market-participants-evade-its-compliance-controls)
-![](https://cdn.hackernoon.com/images/illustrate-man-in-binance-t-shirt-running-away-from-something-p4o8i6z90ke1h4ohpgitfavk.png)
-Examine current market participants trading on Binance and learn about Binance's initiatives to support them in complying with regulatory controls.
 
 ### [110. How To Fight Blockchain FUD](https://hackernoon.com/how-to-fight-blockchain-fud-crypto-billionaires-and-the-fight-against-fake-news-image-by-wokandapixt-r1p3nyc)
 ![](https://cdn.hackernoon.com/drafts/wbfe3ngz.png)
@@ -454,143 +458,143 @@ SEC takes on cryptocurrency giant Binance in a case filled with alleged securiti
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-4pa3yfc.jpeg)
 Amidst a wave of regulatory scrutiny and charges against prominent cryptocurrency exchanges, the Securities and Exchange Commission just made a startling move..
 
-### [113. What is the Coinbase Effect and is it Worth Relying On](https://hackernoon.com/what-is-the-coinbase-effect-and-is-it-worth-relying-on)
+### [113. FTC v. Binance: Everything You Need to Know](https://hackernoon.com/ftc-v-binance-everything-you-need-to-know)
+![](https://cdn.hackernoon.com/images/2-giants-fighting-with-each-other-jiwukrfbbw45emqyukpe58hn.png)
+FTC v. Binance Court Filing, retrieved on March 27, 2023, is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
+
+### [114. What is the Coinbase Effect and is it Worth Relying On](https://hackernoon.com/what-is-the-coinbase-effect-and-is-it-worth-relying-on)
 ![](https://cdn.hackernoon.com/images/wbhzEWY3xgRYjvrc6Wp1W3mIinb2-4za3atk.jpeg)
 Coinbase is the largest cryptocurrency exchange in the USA. It’s called the industry’s unicorn and a leader in mergers and acquisitions with the biggest influence across the USA market. The platform is second only to Binance in terms of trading volume while adhering to the rather old-fashioned policy in the listing procedure, which is why Coinbase supports fewer assets than Binance.
-
-### [114. Where to Invest Your Hard-Earned Stablez?](https://hackernoon.com/where-to-invest-your-hard-earned-stablez)
-![](https://cdn.hackernoon.com/images/01bBNYgbQZavo9ln0ylsHq8FzCn1-jj93f0l.jpeg)
-Description of the top platforms for staking, in my humble opinion
 
 ### [115. Binance Coin $BNB Wiki: Coin History, Techstack, and Crypto News](https://hackernoon.com/binance-coin-$bnb-wiki-coin-history-techstack-and-crypto-news)
 ![](https://cdn.hackernoon.com/images/iCVNHFbhZHXvq4A42wbDdzBjtZH3-hb93ouc.jpeg)
 The Binance Coin (BNB) is the cryptocurrency coin that powers the BNB chain ecosystem. It serves as the utility token for the Binance cryptocurrency exchange.
 
-### [116. This Week in Crypto: Investors Starting to Eye Crypto, Regulatory Turbulence](https://hackernoon.com/this-week-in-crypto-investors-starting-to-eye-crypto-regulatory-turbulence)
+### [116. Where to Invest Your Hard-Earned Stablez?](https://hackernoon.com/where-to-invest-your-hard-earned-stablez)
+![](https://cdn.hackernoon.com/images/01bBNYgbQZavo9ln0ylsHq8FzCn1-jj93f0l.jpeg)
+Description of the top platforms for staking, in my humble opinion
+
+### [117. This Week in Crypto: Investors Starting to Eye Crypto, Regulatory Turbulence](https://hackernoon.com/this-week-in-crypto-investors-starting-to-eye-crypto-regulatory-turbulence)
 ![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-f583ap2.jpeg)
 From booming GDP to crypto funding surge, delve into economic highs, crypto trends, and regulatory shifts shaping the financial landscape.
-
-### [117. FTC v. Binance: Everything You Need to Know](https://hackernoon.com/ftc-v-binance-everything-you-need-to-know)
-![](https://cdn.hackernoon.com/images/2-giants-fighting-with-each-other-jiwukrfbbw45emqyukpe58hn.png)
-FTC v. Binance Court Filing, retrieved on March 27, 2023, is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
 
 ### [118. US Authorities Have the Crypto Industry Under Siege](https://hackernoon.com/us-authorities-have-the-crypto-industry-under-siege)
 ![](https://cdn.hackernoon.com/images/c2qDNOZ07yREr8UJUOrX9KoKG5m2-4793pol.jpeg)
 The Crypto Industry Under Siege: How the U.S. Authorities Are Declaring War on Cryptocurrencies
 
-### [119. Recovery for Global Markets as Crypto Faces Regulatory Pressure From SEC](https://hackernoon.com/recovery-for-global-markets-as-crypto-faces-regulatory-pressure-from-sec)
+### [119. SEC v. Binance: Jurisdiction and Venue of Legal Proceedings ](https://hackernoon.com/sec-v-binance-jurisdiction-and-venue-of-legal-proceedings)
+![](https://cdn.hackernoon.com/images/illustrate-a-court-room-with-the-american-flag-as-a-back-drop-w3pkeuht4tigr1bx84wpx65o.png)
+The SEC's jurisdiction and venue claims in the Binance case explained. 
+
+### [120. Recovery for Global Markets as Crypto Faces Regulatory Pressure From SEC](https://hackernoon.com/recovery-for-global-markets-as-crypto-faces-regulatory-pressure-from-sec)
 ![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-uz93hob.jpeg)
 This time, the SEC is targeting major crypto exchanges offering services in the US, specifically Binance US and Coinbase. 
 
-### [120. Explaining NFTs and the Best Marketplace to Buy Them ](https://hackernoon.com/explaining-nfts-and-the-best-marketplace-to-buy-them)
+### [121. Explaining NFTs and the Best Marketplace to Buy Them ](https://hackernoon.com/explaining-nfts-and-the-best-marketplace-to-buy-them)
 ![](https://cdn.hackernoon.com/images/w7F6l97jIvRJA4PbBlHyFo1FG3L2-7wb3swu.jpeg)
 Non-fungible tokens (NFTs) are one of the fastest-growing assets in the crypto industry. NFTs are unique and non-interchangeable units of data. In this article,
 
-### [121. While Unregistered, Binance Packaged and Sold BNB as a Security ](https://hackernoon.com/while-unregistered-binance-packaged-and-sold-bnb-as-a-security)
+### [122. While Unregistered, Binance Packaged and Sold BNB as a Security ](https://hackernoon.com/while-unregistered-binance-packaged-and-sold-bnb-as-a-security)
 ![](https://cdn.hackernoon.com/images/illustrate-binances-bnb-token-vachu01g3kstagno7of5dojx.png)
 Explore the intriguing journey of Binance, a cryptocurrency exchange, and the controversial sale of its Binance Coin (BNB) as an investment contract. 
 
-### [122. Verified Crypto Investing Platforms: Linking Traditional and Digital Assets to Close the Gap](https://hackernoon.com/verified-crypto-investing-platforms-linking-traditional-and-digital-assets-to-close-the-gap)
+### [123. Verified Crypto Investing Platforms: Linking Traditional and Digital Assets to Close the Gap](https://hackernoon.com/verified-crypto-investing-platforms-linking-traditional-and-digital-assets-to-close-the-gap)
 ![](https://cdn.hackernoon.com/images/PyyYSCKbezZ6fzUa5HRf8cXGWxA3-6q93p2m.jpeg)
 Discover how verified investing crypto platforms bridge the gap between traditional and digital assets, offering diversification and new opportunities.
-
-### [123. SEC v. Binance: Jurisdiction and Venue of Legal Proceedings ](https://hackernoon.com/sec-v-binance-jurisdiction-and-venue-of-legal-proceedings)
-![](https://cdn.hackernoon.com/images/illustrate-a-court-room-with-the-american-flag-as-a-back-drop-w3pkeuht4tigr1bx84wpx65o.png)
-The SEC's jurisdiction and venue claims in the Binance case explained. 
 
 ### [124. FTC v. Binance: Binance Allegedly Directed Its VIP Customers to Evade Compliance](https://hackernoon.com/ftc-v-binance-binance-allegedly-directed-its-vip-customers-to-evade-compliance)
 ![](https://cdn.hackernoon.com/images/vip-suite-k7hcl90phecgkuezd0jz2jyd.png)
 FTC v. Binance Court Filing, retrieved on March 27, 2023, is part of HackerNoon’s Legal PDF Series.
 
-### [125. Binance Futures Launches CGPT/USDT Perpetual Contracts](https://hackernoon.com/binance-futures-launches-cgptusdt-perpetual-contracts)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-pu024xi.jpeg)
-The new perpetual contract introduces advanced trading capabilities for ChainGPT token (CGPT), offering traders leverage of up to 75x with USDT as the settlemen
-
-### [126. Binance and BAM Trading Caught in Regulatory Crosshairs ](https://hackernoon.com/binance-and-bam-trading-caught-in-regulatory-crosshairs)
+### [125. Binance and BAM Trading Caught in Regulatory Crosshairs ](https://hackernoon.com/binance-and-bam-trading-caught-in-regulatory-crosshairs)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-a5c3w94.jpeg)
 The U.S. SEC has filed a claim against Binance and BAM Trading, alleging their failure to register as an exchange for the Binance.US platform.
 
-### [127. KYC: Why is it Important in the Cryptoverse?](https://hackernoon.com/kyc-why-is-it-important-in-the-cryptoverse)
-![](https://cdn.hackernoon.com/images/hfzyDMUs8NM8oj1r5fb9K6U3nBq2-bj336nm.jpeg)
-As we all know, before beginning an encrypted transaction, you must first verify your identity. Do you know why? Have you done your part?
+### [126. Binance Futures Launches CGPT/USDT Perpetual Contracts](https://hackernoon.com/binance-futures-launches-cgptusdt-perpetual-contracts)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-pu024xi.jpeg)
+The new perpetual contract introduces advanced trading capabilities for ChainGPT token (CGPT), offering traders leverage of up to 75x with USDT as the settlemen
 
-### [128. [Roundup] $4 Billion in BTC, Binance launches Lending, and EthHub](https://hackernoon.com/dollar4-billion-binance-lending-and-ethhub-r6im3s2c)
-![](https://cdn.hackernoon.com/drafts/y5km3sdm.png)
-09/01/2019
-
-### [129. Alleged $8B Sell-Off by Pi Insiders Triggers Transparency Crisis](https://hackernoon.com/alleged-$8b-sell-off-by-pi-insiders-triggers-transparency-crisis)
-![](https://cdn.hackernoon.com/images/ofu5l3Z7boTWfKjTKH94bq8Y6Do2-u133b6h.png)
-Pi Network faces its biggest crisis as insider dump allegations surface, leading to a 50% price crash. Discover the details behind the $8 billion scandal and th
-
-### [130. Why You Should Accept Binance Coins as Payment](https://hackernoon.com/benefit-of-accepting-binance-coin-as-payment)
-![](https://cdn.hackernoon.com/images/krw7ggR5RBdR5vbRFUI3vR9vj243-mt5128bq.jpeg)
-In this post, we will discuss how important Binance is in the crypto world and how accepting it as payment for any service is beneficial for your business. 
-
-### [131. FTC v. Binance: Was Binance's Compliance Program Just For Show?](https://hackernoon.com/ftc-v-binance-was-binances-compliance-program-just-for-show)
-![](https://cdn.hackernoon.com/images/a-person-telling-lies-ylqpu2vj983huphp1u3857zr.png)
-FTC v. Binance Court Filing, retrieved on March 27, 2023 is part of HackerNoon’s Legal PDF Series. 
-
-### [132. Under CZ's Control, Binance Operated in the U.S without Proper Registration ](https://hackernoon.com/under-czs-control-binance-operated-in-the-us-without-proper-registration)
-![](https://cdn.hackernoon.com/images/illustrate-binance-ceo-cz-l4x9bbsrarfvr5bm75d7thtp.png)
-Learn about the BNB ICO and its classification as a security, shedding light on the legal challenges faced by Binance and CZ.
-
-### [133. FTC v Binance: Binance Accused of Helping This Firm Evade Its Compliance Controls](https://hackernoon.com/ftc-v-binance-binance-accused-of-helping-this-firm-evade-its-compliance-controls)
+### [127. FTC v Binance: Binance Accused of Helping This Firm Evade Its Compliance Controls](https://hackernoon.com/ftc-v-binance-binance-accused-of-helping-this-firm-evade-its-compliance-controls)
 ![](https://cdn.hackernoon.com/images/binance-customers-nn7fo9kqx60xcra0axft88md.png)
 FTC v. Binance Court Filing, retrieved on March 27, 2023 is part of HackerNoon’s Legal PDF Series.
 
-### [134. Project 1776: BAM Trading's Struggle with Binance for Independence](https://hackernoon.com/project-1776-bam-tradings-struggle-with-binance-for-independence)
+### [128. KYC: Why is it Important in the Cryptoverse?](https://hackernoon.com/kyc-why-is-it-important-in-the-cryptoverse)
+![](https://cdn.hackernoon.com/images/hfzyDMUs8NM8oj1r5fb9K6U3nBq2-bj336nm.jpeg)
+As we all know, before beginning an encrypted transaction, you must first verify your identity. Do you know why? Have you done your part?
+
+### [129. FTC v. Binance: Was Binance's Compliance Program Just For Show?](https://hackernoon.com/ftc-v-binance-was-binances-compliance-program-just-for-show)
+![](https://cdn.hackernoon.com/images/a-person-telling-lies-ylqpu2vj983huphp1u3857zr.png)
+FTC v. Binance Court Filing, retrieved on March 27, 2023 is part of HackerNoon’s Legal PDF Series. 
+
+### [130. [Roundup] $4 Billion in BTC, Binance launches Lending, and EthHub](https://hackernoon.com/dollar4-billion-binance-lending-and-ethhub-r6im3s2c)
+![](https://cdn.hackernoon.com/drafts/y5km3sdm.png)
+09/01/2019
+
+### [131. Alleged $8B Sell-Off by Pi Insiders Triggers Transparency Crisis](https://hackernoon.com/alleged-$8b-sell-off-by-pi-insiders-triggers-transparency-crisis)
+![](https://cdn.hackernoon.com/images/ofu5l3Z7boTWfKjTKH94bq8Y6Do2-u133b6h.png)
+Pi Network faces its biggest crisis as insider dump allegations surface, leading to a 50% price crash. Discover the details behind the $8 billion scandal and th
+
+### [132. Why You Should Accept Binance Coins as Payment](https://hackernoon.com/benefit-of-accepting-binance-coin-as-payment)
+![](https://cdn.hackernoon.com/images/krw7ggR5RBdR5vbRFUI3vR9vj243-mt5128bq.jpeg)
+In this post, we will discuss how important Binance is in the crypto world and how accepting it as payment for any service is beneficial for your business. 
+
+### [133. Under CZ's Control, Binance Operated in the U.S without Proper Registration ](https://hackernoon.com/under-czs-control-binance-operated-in-the-us-without-proper-registration)
+![](https://cdn.hackernoon.com/images/illustrate-binance-ceo-cz-l4x9bbsrarfvr5bm75d7thtp.png)
+Learn about the BNB ICO and its classification as a security, shedding light on the legal challenges faced by Binance and CZ.
+
+### [134. The Battle Rages On: Binance.US Shifts to Crypto-Only Exchange Amidst Regulatory Pressure](https://hackernoon.com/the-battle-rages-on-binanceus-shifts-to-crypto-only-exchange-amidst-regulatory-pressure)
+![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-q3b3y6p.jpeg)
+An unexpected turn of events has sent shockwaves through the cryptocurrency community as Binance.US announces...
+
+### [135. Project 1776: BAM Trading's Struggle with Binance for Independence](https://hackernoon.com/project-1776-bam-tradings-struggle-with-binance-for-independence)
 ![](https://cdn.hackernoon.com/images/illustrate-two-covert-operatives-sharing-documents-in-a-dark-alley-op6azh0gekv9nao4ge67gaze.png)
 Dive into the story of BAM Trading's struggle for independence from Binance and the challenges faced by its CEOs in this gripping legal narrative.
 
 
 
-### [135. Summary of the FTC v Binance Court Case](https://hackernoon.com/summary-of-the-ftc-v-binance-court-case)
+### [136. Summary of the FTC v Binance Court Case](https://hackernoon.com/summary-of-the-ftc-v-binance-court-case)
 ![](https://cdn.hackernoon.com/images/a-lawyer-reading-off-a-document-kd7kfd40sgenwjkm7otwdhq2.png)
 FTC v. Binance Court Filing, retrieved on March 27, 2023, is part of HackerNoon’s Legal PDF Series. 
 
-### [136. The Battle Rages On: Binance.US Shifts to Crypto-Only Exchange Amidst Regulatory Pressure](https://hackernoon.com/the-battle-rages-on-binanceus-shifts-to-crypto-only-exchange-amidst-regulatory-pressure)
-![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-q3b3y6p.jpeg)
-An unexpected turn of events has sent shockwaves through the cryptocurrency community as Binance.US announces...
-
-### [137. FTC v. Binance: An Overview of Binance](https://hackernoon.com/ftc-v-binance-an-overview-of-binance)
-![](https://cdn.hackernoon.com/images/binance-na5y17w06mg0rcv60gpg1y6q.png)
-FTC v. Binance Court Filing, retrieved on March 27, 2023, is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
-
-### [138. AI Platform bitGPT Experiences Significant Growth Following Binance Demonstration](https://hackernoon.com/ai-platform-bitgpt-experiences-significant-growth-following-binance-demonstration)
+### [137. AI Platform bitGPT Experiences Significant Growth Following Binance Demonstration](https://hackernoon.com/ai-platform-bitgpt-experiences-significant-growth-following-binance-demonstration)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-x303510.jpeg)
 The demonstration replay surpassed a quarter-million views on Binance’s website within hours of being posted – the most popular replay event of the conference.
 
-### [139. How Binance Terminated the Voyager Deal via Email](https://hackernoon.com/how-binance-terminated-the-voyager-deal-via-email)
-![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-ag93sfh.jpeg)
-On April 25th, Voyager announced, via Twitter post, that the $1.02 billion Purchase Agreement with Binance.US has been terminated.
-
-### [140. SEC Investigation Unveils False Reporting of Trading Volume on Binance.US](https://hackernoon.com/sec-investigation-unveils-false-reporting-of-trading-volume-on-binanceus)
+### [138. SEC Investigation Unveils False Reporting of Trading Volume on Binance.US](https://hackernoon.com/sec-investigation-unveils-false-reporting-of-trading-volume-on-binanceus)
 ![](https://cdn.hackernoon.com/images/hYnD3aGcZIgKnjRGl8QfkZDGyBF2-4m93xjt.jpeg)
 Discover how BAM Trading and BAM Management are accused of misleading investors by falsely reporting trading volume figures for the Binance.US Platform. 
 
-### [141. Understanding the Exchange Act's Registration Requirements ](https://hackernoon.com/understanding-the-exchange-acts-registration-requirements)
+### [139. Understanding the Exchange Act's Registration Requirements ](https://hackernoon.com/understanding-the-exchange-acts-registration-requirements)
 ![](https://cdn.hackernoon.com/images/illustrate-a-single-pile-of-documents-with-the-us-se-cs-crest-on-it-drlpg914c8of7gw5gbfph4a0.png)
 Explore the Exchange Act's critical provisions governing the registration of exchanges, broker-dealers, and clearing agencies. 
 
-### [142. FTC Accuses Binance of Negligent Supervision](https://hackernoon.com/ftc-accuses-binance-of-negligent-supervision)
-![](https://cdn.hackernoon.com/images/create-an-illustration-of-a-burning-building-with-a-man-in-a-binance-t-shirt-standing-beside-itr-r9jhieye09348d5ogqara8u9.png)
-This legal battle between FTC and Binance delves into accusations of inadequate compliance controls and document destruction.
+### [140. FTC v. Binance: An Overview of Binance](https://hackernoon.com/ftc-v-binance-an-overview-of-binance)
+![](https://cdn.hackernoon.com/images/binance-na5y17w06mg0rcv60gpg1y6q.png)
+FTC v. Binance Court Filing, retrieved on March 27, 2023, is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
 
-### [143. SEC Probes Binance and Binance.US for Unregistered Operations in the U.S. ](https://hackernoon.com/sec-probes-binance-and-binanceus-for-unregistered-operations-in-the-us)
+### [141. SEC Probes Binance and Binance.US for Unregistered Operations in the U.S. ](https://hackernoon.com/sec-probes-binance-and-binanceus-for-unregistered-operations-in-the-us)
 ![](https://cdn.hackernoon.com/images/hYnD3aGcZIgKnjRGl8QfkZDGyBF2-xg93w54.jpeg)
 Explore the SEC's investigation into Binance.US and BAM Trading, who, without registering, operated as an exchange, clearing agency, and broker in the US. 
 
-### [144. Exploring Binance's U.S Expansion Strategy: The Birth of BAM Entities ](https://hackernoon.com/exploring-binances-us-expansion-strategy-the-birth-of-bam-entities)
+### [142. How Binance Terminated the Voyager Deal via Email](https://hackernoon.com/how-binance-terminated-the-voyager-deal-via-email)
+![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-ag93sfh.jpeg)
+On April 25th, Voyager announced, via Twitter post, that the $1.02 billion Purchase Agreement with Binance.US has been terminated.
+
+### [143. Exploring Binance's U.S Expansion Strategy: The Birth of BAM Entities ](https://hackernoon.com/exploring-binances-us-expansion-strategy-the-birth-of-bam-entities)
 ![](https://cdn.hackernoon.com/images/illustrate-the-binance-logo-side-by-side-the-u-s-flag-hqd2r4upr2i0lpkajywa3fd8.png)
 Delve into the development of the Binance.US Platform, led by CZ, and its connection to U.S. entities BAM Management and BAM Trading.
 
-### [145. Key Entities in the SEC v. Binance Saga: Trust Companies, Sigma Chain, and Merit Peak](https://hackernoon.com/key-entities-in-the-sec-v-binance-saga-trust-companies-sigma-chain-and-merit-peak)
-![](https://cdn.hackernoon.com/images/illustrate-a-fully-occupied-defendant-section-of-an-american-courtroom-ohrw6um3pnsh37pyoa4weiiq.png)
-Explore the roles of Trust Company A and B, Sigma Chain, and Merit Peak in the SEC's case against Binance.
-
-### [146. Binance Accused of Evading Commodity Exchange Act in US ](https://hackernoon.com/binance-accused-of-evading-commodity-exchange-act-in-us)
+### [144. Binance Accused of Evading Commodity Exchange Act in US ](https://hackernoon.com/binance-accused-of-evading-commodity-exchange-act-in-us)
 ![](https://cdn.hackernoon.com/images/illustrate-a-man-running-away-from-us-officials-p36kyx9d1qgnfal7fc8rwl8k.png)
 Read about the legal actions taken against Binance, its CEO Zhao, and Chief Compliance Officer Lim for alleged violations of the Commodity Exchange Act.
+
+### [145. FTC Accuses Binance of Negligent Supervision](https://hackernoon.com/ftc-accuses-binance-of-negligent-supervision)
+![](https://cdn.hackernoon.com/images/create-an-illustration-of-a-burning-building-with-a-man-in-a-binance-t-shirt-standing-beside-itr-r9jhieye09348d5ogqara8u9.png)
+This legal battle between FTC and Binance delves into accusations of inadequate compliance controls and document destruction.
+
+### [146. Key Entities in the SEC v. Binance Saga: Trust Companies, Sigma Chain, and Merit Peak](https://hackernoon.com/key-entities-in-the-sec-v-binance-saga-trust-companies-sigma-chain-and-merit-peak)
+![](https://cdn.hackernoon.com/images/illustrate-a-fully-occupied-defendant-section-of-an-american-courtroom-ohrw6um3pnsh37pyoa4weiiq.png)
+Explore the roles of Trust Company A and B, Sigma Chain, and Merit Peak in the SEC's case against Binance.
 
 ### [147. FTC v. Binance: Binance Accused of Purposefully Ignoring U.S. Regulatory Requirements](https://hackernoon.com/ftc-v-binance-binance-accused-of-purposefully-ignoring-us-regulatory-requirements)
 ![](https://cdn.hackernoon.com/images/a-man-ignoring-an-item-iiulsyue0svpt6geai3lx2ck.png)
@@ -604,13 +608,13 @@ Explore the challenges and regulatory concerns raised by Binance's operations.
 ![](https://cdn.hackernoon.com/images/oceans-11-crew-yvockgdfw36rs82kzwbes4at.png)
 FTC v. Binance Court Filing, retrieved on March 27, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here. 
 
-### [150. FTC v. Binance: A Look Into the CEA and Regulations](https://hackernoon.com/ftc-v-binance-a-look-into-the-cea-and-regulations)
+### [150. Discovering the Opportunities and Threats of MiCA Regulations on Crypto Dark Pools in the EU ](https://hackernoon.com/discovering-the-opportunities-and-threats-of-mica-regulations-on-crypto-dark-pools-in-the-eu)
+![](https://cdn.hackernoon.com/images/n6htmAPrYRR6vIz1Ir1RjTrtuGc2-7u334bq.jpeg)
+MiCA regulations present both opportunities and threats for crypto dark pools in the EU.
+
+### [151. FTC v. Binance: A Look Into the CEA and Regulations](https://hackernoon.com/ftc-v-binance-a-look-into-the-cea-and-regulations)
 ![](https://cdn.hackernoon.com/images/regulation-z175nj4lhgsxce0e0rkv691t.png)
 FTC v. Binance Court Filing, retrieved on March 27, 2023 is part of HackerNoon’s Legal PDF Series. You can jump to any part in this filing here.
-
-### [151. FTC v. Binance: The Legal Framework Behind It All ](https://hackernoon.com/ftc-v-binance-the-legal-framework-behind-it-all)
-![](https://cdn.hackernoon.com/images/a-metal-framework-bucqiaij6dzhdat3uzu7q09z.png)
-FTC v. Binance Court Filing, retrieved on March 27, 2023 is part of HackerNoon’s Legal PDF Series. 
 
 ### [152. The Defendants in SEC's Case Against Binance ](https://hackernoon.com/the-defendants-in-secs-case-against-binance)
 ![](https://cdn.hackernoon.com/images/illustrate-5-men-in-binance-t-shirts-on-the-defendants-side-of-an-american-courtroom-zik2al3avs58m38bkl6fw0pa.png)
@@ -620,17 +624,17 @@ Meet the key figures in the SEC's case against Binance: Binance Holdings, BAM Ma
 ![](https://cdn.hackernoon.com/images/illustrate-a-man-pointing-an-accusing-finger-at-another-man-cdpk5v7orzegw7zvkhgz5moc.png)
 The Securities and Exchange Commission (SEC) files a complaint against Binance Holdings, alleging unregistered offers, manipulative trading, and evasion of U.S.
 
-### [154. Discovering the Opportunities and Threats of MiCA Regulations on Crypto Dark Pools in the EU ](https://hackernoon.com/discovering-the-opportunities-and-threats-of-mica-regulations-on-crypto-dark-pools-in-the-eu)
-![](https://cdn.hackernoon.com/images/n6htmAPrYRR6vIz1Ir1RjTrtuGc2-7u334bq.jpeg)
-MiCA regulations present both opportunities and threats for crypto dark pools in the EU.
+### [154. FTC v. Binance: The Legal Framework Behind It All ](https://hackernoon.com/ftc-v-binance-the-legal-framework-behind-it-all)
+![](https://cdn.hackernoon.com/images/a-metal-framework-bucqiaij6dzhdat3uzu7q09z.png)
+FTC v. Binance Court Filing, retrieved on March 27, 2023 is part of HackerNoon’s Legal PDF Series. 
 
 ### [155. FTC v. Binance: The Other Relevant Entities You Should Know About](https://hackernoon.com/ftc-v-binance-the-other-relevant-entities-you-should-know-about)
 ![](https://cdn.hackernoon.com/images/oceans-12-crew-v1bs1gaxobwk3jvujy3lzizr.png)
 FTC v. Binance Court Filing, retrieved on March 27, 2023, is part of HackerNoon’s Legal PDF Series. 
 
-### [156. The Commission's Fight to Tame Binance](https://hackernoon.com/the-commissions-fight-to-tame-binance)
-![](https://cdn.hackernoon.com/images/generate-an-image-where-individuals-wearing-binance-t-shirts-are-depicted-in-a-custody-of-us-officials-dttfj98kaw3kj16jvoydnnof.png)
-Explore the comprehensive relief sought by the Commission in the Binance case, including allegations, injunctions, penalties, and more.
+### [156. The Story of Binance.US and Regulatory Tightrope](https://hackernoon.com/the-story-of-binanceus-and-regulatory-tightrope)
+![](https://cdn.hackernoon.com/images/illustrate-a-man-wearing-a-binance-t-shirt-walking-on-a-tightrope-ckm7qqhl2hpqqpw5am40ihne.png)
+Learn about the key goals and tactics employed by Binance and its CEO, CZ, in response to U.S. regulatory concerns.
 
 ### [157. SEC v. Binance: Statutory and Legal Framework ](https://hackernoon.com/sec-v-binance-statutory-and-legal-framework)
 ![](https://cdn.hackernoon.com/images/illustrate-a-pile-of-legal-documents-vczzihfqp6gb3ddkwxi4owr8.png)
@@ -640,65 +644,65 @@ Gain insights into the legal framework that underpins American securities laws, 
 ![](https://cdn.hackernoon.com/images/a-ceo-overlooking-his-company-s8mhfxmwe2vgcq4n64zl66s6.png)
 FTC v. Binance Court Filing, retrieved on March 27, 2023, is part of HackerNoon’s Legal PDF Series. 
 
-### [159. The Story of Binance.US and Regulatory Tightrope](https://hackernoon.com/the-story-of-binanceus-and-regulatory-tightrope)
-![](https://cdn.hackernoon.com/images/illustrate-a-man-wearing-a-binance-t-shirt-walking-on-a-tightrope-ckm7qqhl2hpqqpw5am40ihne.png)
-Learn about the key goals and tactics employed by Binance and its CEO, CZ, in response to U.S. regulatory concerns.
-
-### [160. Binance's CEA Violations - COUNT II: Illegal Off-Exchange Commodity Options](https://hackernoon.com/binances-cea-violations-count-ii-illegal-off-exchange-commodity-options)
-![](https://cdn.hackernoon.com/images/illustrate-a-stack-of-documents-being-ripped-apart-by-binance-fduj1ifs420390xcqodk2zcu.png)
-This section outlines how Binance Holdings, Binance IE, and Binance Services, acting as a common enterprise, are alleged to have violated the CEA. 
-
-### [161. Binance and BAM Trading Charged for Neglecting to Register as Clearing Agency on Binance.US](https://hackernoon.com/binance-and-bam-trading-charged-for-neglecting-to-register-as-clearing-agency-on-binanceus)
+### [159. Binance and BAM Trading Charged for Neglecting to Register as Clearing Agency on Binance.US](https://hackernoon.com/binance-and-bam-trading-charged-for-neglecting-to-register-as-clearing-agency-on-binanceus)
 ![](https://cdn.hackernoon.com/images/binance-us-building-u8vfzcmbh0l0workcvse7qdm.png)
 The U.S. SEC alleges that Binance and BAM Trading operated as unregistered clearing agencies on the Binance.US platform.
 
-### [162. SEC Charges Binance for Failure to Register as a Broker-Dealer](https://hackernoon.com/sec-charges-binance-for-failure-to-register-as-a-broker-dealer)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-9z93xkm.jpeg)
-The U.S. SEC alleges that Binance failed to register as a broker-dealer for its Binance.com platform, violating Exchange Act Section 15(a). 
+### [160. The Commission's Fight to Tame Binance](https://hackernoon.com/the-commissions-fight-to-tame-binance)
+![](https://cdn.hackernoon.com/images/generate-an-image-where-individuals-wearing-binance-t-shirts-are-depicted-in-a-custody-of-us-officials-dttfj98kaw3kj16jvoydnnof.png)
+Explore the comprehensive relief sought by the Commission in the Binance case, including allegations, injunctions, penalties, and more.
 
-### [163. FTC v. Binance: More Info on Binance Relying on Brokers](https://hackernoon.com/ftc-v-binance-more-info-on-binance-relying-on-brokers)
-![](https://cdn.hackernoon.com/images/brokers-n1ub7fpg7y7b2pnolv5kqn6y.png)
+### [161. Binance's CEA Violations - COUNT II: Illegal Off-Exchange Commodity Options](https://hackernoon.com/binances-cea-violations-count-ii-illegal-off-exchange-commodity-options)
+![](https://cdn.hackernoon.com/images/illustrate-a-stack-of-documents-being-ripped-apart-by-binance-fduj1ifs420390xcqodk2zcu.png)
+This section outlines how Binance Holdings, Binance IE, and Binance Services, acting as a common enterprise, are alleged to have violated the CEA. 
+
+### [162. FTC v. Binance: A Look Into Binance’s Proprietary Trading Activity on Binance](https://hackernoon.com/ftc-v-binance-a-look-into-binances-proprietary-trading-activity-on-binance)
+![](https://cdn.hackernoon.com/images/barack-obama-giving-barack-obama-a-medal-g00mrqdcdasd0l86azsaib25.png)
 FTC v. Binance Court Filing, retrieved on March 27, 2023 is part of HackerNoon’s Legal PDF Series. 
 
-### [164. FTC v. Binance: What Is the CFTC?](https://hackernoon.com/ftc-v-binance-what-is-the-cftc)
+### [163. FTC v. Binance: What Is the CFTC?](https://hackernoon.com/ftc-v-binance-what-is-the-cftc)
 ![](https://cdn.hackernoon.com/images/government-officials-jr06hekvkraw1qbpel2dp7fe.png)
 FTC v. Binance Court Filing, retrieved on March 27, 2023, is part of HackerNoon’s Legal PDF Series. 
 
-### [165. FTC v. Binance: A Look Into Binance’s Proprietary Trading Activity on Binance](https://hackernoon.com/ftc-v-binance-a-look-into-binances-proprietary-trading-activity-on-binance)
-![](https://cdn.hackernoon.com/images/barack-obama-giving-barack-obama-a-medal-g00mrqdcdasd0l86azsaib25.png)
+### [164. SEC Charges Binance for Failure to Register as a Broker-Dealer](https://hackernoon.com/sec-charges-binance-for-failure-to-register-as-a-broker-dealer)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-9z93xkm.jpeg)
+The U.S. SEC alleges that Binance failed to register as a broker-dealer for its Binance.com platform, violating Exchange Act Section 15(a). 
+
+### [165. FTC v. Binance: More Info on Binance Relying on Brokers](https://hackernoon.com/ftc-v-binance-more-info-on-binance-relying-on-brokers)
+![](https://cdn.hackernoon.com/images/brokers-n1ub7fpg7y7b2pnolv5kqn6y.png)
 FTC v. Binance Court Filing, retrieved on March 27, 2023 is part of HackerNoon’s Legal PDF Series. 
 
 ### [166. Understanding the Securities Act's Registration and Disclosure Requirements ](https://hackernoon.com/understanding-the-securities-acts-registration-and-disclosure-requirements)
 ![](https://cdn.hackernoon.com/images/hYnD3aGcZIgKnjRGl8QfkZDGyBF2-a693xz7.jpeg)
 Dive into the Securities Act's key provisions, Sections 5(a) and 5(c), which mandate the registration of securities offers and sales with the SEC.
 
-### [167. SEC Seeks Stringent Measures Against Binance](https://hackernoon.com/sec-seeks-stringent-measures-against-binance)
-![](https://cdn.hackernoon.com/images/illustrate-a-court-of-law-with-the-sec-as-plaintiffs-and-binance-as-defendants-xsdo39srd8v48rzoy1iiawfn.png)
-The SEC's legal action against Binance aims to secure investor protection and uphold federal securities laws.
-
-### [168. Binance's Alleged Violations of Commodity Exchange Laws ](https://hackernoon.com/binances-alleged-violations-of-commodity-exchange-laws)
-![](https://cdn.hackernoon.com/images/create-an-illustrate-of-a-legal-document-being-ripped-apart-kk8ft3a9c3b21molcbyysnr4.png)
-Binance, accused of operating without proper registration, faces allegations of violating the Commodity Exchange Act and regulations.
-
-### [169. Binance's CEA Violations - COUNT III: Failure to Register as a Futures Commission Merchant](https://hackernoon.com/binances-cea-violations-count-iii-failure-to-register-as-a-futures-commission-merchant)
+### [167. Binance's CEA Violations - COUNT III: Failure to Register as a Futures Commission Merchant](https://hackernoon.com/binances-cea-violations-count-iii-failure-to-register-as-a-futures-commission-merchant)
 ![](https://cdn.hackernoon.com/images/illustrate-a-stack-of-documents-ozbn9q6tubt5rg04itrz51z9.png)
 In this section, Binance is alleged to have violated the Commodity Exchange Act by failing to register with the Commission.
 
-### [170. FTC v. Binance: Did Binance Guide Its Customers to Evade Compliance Controls?](https://hackernoon.com/ftc-v-binance-did-binance-guide-its-customers-to-evade-compliance-controls)
-![](https://cdn.hackernoon.com/images/a-pilot-ignoring-an-airplanes-controls-ixdiscskhsap328er49jxfec.png)
-FTC v. Binance Court Filing, retrieved on March 27, 2023 is part of HackerNoon’s Legal PDF Series. 
+### [168. SEC Seeks Stringent Measures Against Binance](https://hackernoon.com/sec-seeks-stringent-measures-against-binance)
+![](https://cdn.hackernoon.com/images/illustrate-a-court-of-law-with-the-sec-as-plaintiffs-and-binance-as-defendants-xsdo39srd8v48rzoy1iiawfn.png)
+The SEC's legal action against Binance aims to secure investor protection and uphold federal securities laws.
 
-### [171. FTC v. Binance: The Background to Know About the Case](https://hackernoon.com/ftc-v-binance-the-background-to-know-about-the-case)
-![](https://cdn.hackernoon.com/images/a-theatre-play-backdrop-sq3unzu2s2s760u7oyodhkjd.png)
-FTC v. Binance Court Filing, retrieved on March 27, 2023 is part of HackerNoon’s Legal PDF Series. 
+### [169. Binance's Alleged Violations of Commodity Exchange Laws ](https://hackernoon.com/binances-alleged-violations-of-commodity-exchange-laws)
+![](https://cdn.hackernoon.com/images/create-an-illustrate-of-a-legal-document-being-ripped-apart-kk8ft3a9c3b21molcbyysnr4.png)
+Binance, accused of operating without proper registration, faces allegations of violating the Commodity Exchange Act and regulations.
 
-### [172. FTC v. Binance: Was The Company Really Hiding the Facts?](https://hackernoon.com/ftc-v-binance-was-the-company-really-hiding-the-facts)
+### [170. Binance's CEA Violations - COUNT I: Execution of Transactions on an Unregistered Board of Trade ](https://hackernoon.com/binances-cea-violations-count-i-execution-of-transactions-on-an-unregistered-board-of-trade)
+![](https://cdn.hackernoon.com/images/illustrate-a-stack-of-documents-displaying-the-universally-recognized-warning-symbol-xbktzwhftoggbr7o9m8m07sy.png)
+Binance is accused of executing retail commodity transactions without a registered board of trade and offering these transactions on a leveraged basis. 
+
+### [171. FTC v. Binance: Was The Company Really Hiding the Facts?](https://hackernoon.com/ftc-v-binance-was-the-company-really-hiding-the-facts)
 ![](https://cdn.hackernoon.com/images/shhh-o67dde1fsv4j7hh2gbo5mtbx.png)
 FTC v. Binance Court Filing, retrieved on March 27, 2023, is part of HackerNoon’s Legal PDF Series. 
 
-### [173. Binance's CEA Violations - COUNT I: Execution of Transactions on an Unregistered Board of Trade ](https://hackernoon.com/binances-cea-violations-count-i-execution-of-transactions-on-an-unregistered-board-of-trade)
-![](https://cdn.hackernoon.com/images/illustrate-a-stack-of-documents-displaying-the-universally-recognized-warning-symbol-xbktzwhftoggbr7o9m8m07sy.png)
-Binance is accused of executing retail commodity transactions without a registered board of trade and offering these transactions on a leveraged basis. 
+### [172. FTC v. Binance: Did Binance Guide Its Customers to Evade Compliance Controls?](https://hackernoon.com/ftc-v-binance-did-binance-guide-its-customers-to-evade-compliance-controls)
+![](https://cdn.hackernoon.com/images/a-pilot-ignoring-an-airplanes-controls-ixdiscskhsap328er49jxfec.png)
+FTC v. Binance Court Filing, retrieved on March 27, 2023 is part of HackerNoon’s Legal PDF Series. 
+
+### [173. FTC v. Binance: The Background to Know About the Case](https://hackernoon.com/ftc-v-binance-the-background-to-know-about-the-case)
+![](https://cdn.hackernoon.com/images/a-theatre-play-backdrop-sq3unzu2s2s760u7oyodhkjd.png)
+FTC v. Binance Court Filing, retrieved on March 27, 2023 is part of HackerNoon’s Legal PDF Series. 
 
 ### [174. How Binance Helps New York-Based Trading Firm Evade Its Compliance Controls ](https://hackernoon.com/how-binance-helps-new-york-based-trading-firm-evade-its-compliance-controls)
 ![](https://cdn.hackernoon.com/images/illustrate-a-mascot-for-binance-being-chased-tcgj4ot8zny5zrj4ym0ttkiz.png)
@@ -712,15 +716,19 @@ The SEC's complaint against Binance reveals a litany of alleged violations, incl
 ![](https://cdn.hackernoon.com/images/crypto-coin-in-the-united-states-jcgp5qih2eanb4pbiwr3h1lh.png)
 FTC v. Binance Court Filing, retrieved on March 27, 2023 is part of HackerNoon’s Legal PDF Series. 
 
-### [177. FTC v. Binance: Details on the Jurisdiction and Venue](https://hackernoon.com/ftc-v-binance-details-on-the-jurisdiction-and-venue)
+### [177. FTC v. Binance: What Are the Relevant Financial Products Offered by Binance?](https://hackernoon.com/ftc-v-binance-what-are-the-relevant-financial-products-offered-by-binance)
+![](https://cdn.hackernoon.com/images/selling-lemonade-ed7v91pbunap4gozdqs348a9.png)
+FTC v. Binance Court Filing, retrieved on March 27, 2023, is part of HackerNoon’s Legal PDF Series.
+
+### [178. FTC v. Binance: Details on the Jurisdiction and Venue](https://hackernoon.com/ftc-v-binance-details-on-the-jurisdiction-and-venue)
 ![](https://cdn.hackernoon.com/images/courthouse-eqnw8lb2gi2hyie9te5rmpu7.png)
 FTC v. Binance Court Filing, retrieved on March 27, 2023, is part of HackerNoon’s Legal PDF Series. 
 
-### [178. Is Crypto.com Poised for Growth After Numerous Partnership Deals?](https://hackernoon.com/is-cryptocom-poised-for-growth-after-numerous-partnership-deals)
+### [179. Is Crypto.com Poised for Growth After Numerous Partnership Deals?](https://hackernoon.com/is-cryptocom-poised-for-growth-after-numerous-partnership-deals)
 ![](https://cdn.hackernoon.com/images/34G6nTyhS3SDWap1vPBcxujKaAi1-yw039rc.jpeg)
 A look into Crypto.com's lucrative partnerships and what it means for the company.
 
-### [179. FTC v. Binance: What Are the Relevant Financial Products Offered by Binance?](https://hackernoon.com/ftc-v-binance-what-are-the-relevant-financial-products-offered-by-binance)
-![](https://cdn.hackernoon.com/images/selling-lemonade-ed7v91pbunap4gozdqs348a9.png)
-FTC v. Binance Court Filing, retrieved on March 27, 2023, is part of HackerNoon’s Legal PDF Series.
+### [180. From Rebellion to Regulation: The Great Un-Exciting of Crypto](https://hackernoon.com/from-rebellion-to-regulation-the-great-un-exciting-of-crypto)
+![](https://cdn.hackernoon.com/images/ZTTHMznNpOU8E23w6ngIBTrJYyG2-xz83fav.png)
+Crypto's wild days are ending. Binance's new rule kills chaos, volatility, and altseason dreams.
 

@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [entrepreneur](https://hackernoon.com/tagged/entrepreneur)
+### Let's learn about [Entrepreneur](https://hackernoon.com/tagged/entrepreneur) via these 212 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 All of the best stories and tips for becoming the great entrepreneur you were always meant to be. 
 
 ### [1. Instagram Scraper: How to Scrape Data From Instagram [2023]](https://hackernoon.com/instagram-scraper-how-to-scrape-data-from-instagram-2021-77w35h5)
@@ -37,13 +39,13 @@ Luke Sophinos tells the story of Nikita Bier.
 ![](https://cdn.hackernoon.com/drafts/onjx34gw.png)
 As you start planing to develop your Mobile app, One of the question that arises in many peoples mind is that what to use for backend of App? or What to use to store the data of App like users data or any other type of data that app needs to function. 
 
-### [9. Essential Steps to Succeed with Your First Digital Product](https://hackernoon.com/essential-steps-to-succeed-with-your-first-digital-product)
-![](https://cdn.hackernoon.com/images/essential-steps-to-succeed-with-your-first-digital-product-cli8ss9zp000001s6b9po32xw.png)
-In this article, I’d like to share working ideas on how to successfully design a product when you are just starting in the digital market.
-
-### [10. 4 Lessons From OnlyFans and its Founder, Tim Stokely](https://hackernoon.com/4-lessons-from-onlyfans-and-its-founder-tim-stokely-5d4s37is)
+### [9. 4 Lessons From OnlyFans and its Founder, Tim Stokely](https://hackernoon.com/4-lessons-from-onlyfans-and-its-founder-tim-stokely-5d4s37is)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-0co37zp.jpeg)
 In contrast to other live platforms, OnlyFans saw adult performers as assets, so instead of prohibiting them, the company empowered them.
+
+### [10. Essential Steps to Succeed with Your First Digital Product](https://hackernoon.com/essential-steps-to-succeed-with-your-first-digital-product)
+![](https://cdn.hackernoon.com/images/essential-steps-to-succeed-with-your-first-digital-product-cli8ss9zp000001s6b9po32xw.png)
+In this article, I’d like to share working ideas on how to successfully design a product when you are just starting in the digital market.
 
 ### [11. Can This 24-Year-Old Tech Whiz Make Spending Tracking Go Viral With Oops? ](https://hackernoon.com/can-this-24-year-old-tech-whiz-make-spending-tracking-go-viral-with-oops)
 ![](https://cdn.hackernoon.com/images/zaGs6Q0I7SY8qLi6ofbogocZVlJ2-8593687.jpeg)
@@ -147,21 +149,21 @@ The young do not know enough to be prudent, and therefore they attempt the impos
 ![](https://cdn.hackernoon.com/images/WR92p8UlFWeaDqRE8JbF7SnghoK2-twa2b6l.jpeg)
 Want to know which type of entrepreneur you are? Check out this list of 7 personas!
 
-### [36. What Makes A Venture Studio So Successful at Building Startups?](https://hackernoon.com/what-makes-a-venture-studio-so-successful-at-building-startups-k93s35at)
-![](https://cdn.hackernoon.com/images/Y84FPHPDDAXBPkPDRRPe4nOeJ422-zv1g3f3c.jpeg)
-As an increasing number of venture studios break into the entrepreneurial scene, it’s time to analyze what makes this model so competitive. 
-
-### [37. Betting On Yourself: How to Do It and Why It's Important](https://hackernoon.com/betting-on-yourself-how-to-do-it-and-why-its-important)
+### [36. Betting On Yourself: How to Do It and Why It's Important](https://hackernoon.com/betting-on-yourself-how-to-do-it-and-why-its-important)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ln93pgm.jpeg)
 Why We Don't Bet On Ourselves (And Why We Should)
 
-### [38. Dear Young Entrepreneurs: Skip College, Do This](https://hackernoon.com/dear-young-entrepreneurs-skip-college-do-this-fb1c8u4xgj)
-![](https://cdn.hackernoon.com/drafts/61163c4xou.png)
-When I see a stereotypical graduation ceremony photo, I think to myself: "I hope the 6 years and $100,000 of debt was worth it."
+### [37. What Makes A Venture Studio So Successful at Building Startups?](https://hackernoon.com/what-makes-a-venture-studio-so-successful-at-building-startups-k93s35at)
+![](https://cdn.hackernoon.com/images/Y84FPHPDDAXBPkPDRRPe4nOeJ422-zv1g3f3c.jpeg)
+As an increasing number of venture studios break into the entrepreneurial scene, it’s time to analyze what makes this model so competitive. 
 
-### [39. Growth Hacking Can Be the Difference Between Life and Death](https://hackernoon.com/growth-hacking-can-be-the-difference-between-life-and-death)
+### [38. Growth Hacking Can Be the Difference Between Life and Death](https://hackernoon.com/growth-hacking-can-be-the-difference-between-life-and-death)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-5l93pgb.jpeg)
 Zac invested in a small side-gig blog called OutKick and within a year, built it up to seven-figure-per-month revenue and sold it to Fox for a massive exit
+
+### [39. Dear Young Entrepreneurs: Skip College, Do This](https://hackernoon.com/dear-young-entrepreneurs-skip-college-do-this-fb1c8u4xgj)
+![](https://cdn.hackernoon.com/drafts/61163c4xou.png)
+When I see a stereotypical graduation ceremony photo, I think to myself: "I hope the 6 years and $100,000 of debt was worth it."
 
 ### [40. Consumer Perception Can Make Or Break Your Business](https://hackernoon.com/consumer-perception-can-make-or-break-your-business)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-ezb3liu.gif.webp)
@@ -187,13 +189,13 @@ How to Guarantee Your Success: Burn The Boats
 ![](https://cdn.hackernoon.com/images/gzbs631g4.jpg)
 The purpose of this article to share my process and journey launching Lund Yoga Community — Sweden’s first sustainable donation-based yoga studio. 
 
-### [46. 3 Ways To Make Sure Your Startup Isn’t Successful](https://hackernoon.com/3-ways-to-make-sure-your-startup-isnt-successful-g61v308s)
-![](https://cdn.hackernoon.com/drafts/3qjy3wzq.png)
-Startups that focus on the wrong priorities are likely to fail.
-
-### [47. It’s Time to Reap the Rewards for Reading in Web3](https://hackernoon.com/its-time-to-reap-the-rewards-for-reading-in-web3)
+### [46. It’s Time to Reap the Rewards for Reading in Web3](https://hackernoon.com/its-time-to-reap-the-rewards-for-reading-in-web3)
 ![](https://cdn.hackernoon.com/images/G7rCprYXbgYuBUT7ARH0BKtm5CH2-s393q9z.jpeg)
 It's time for deep reading in Web3
+
+### [47. 3 Ways To Make Sure Your Startup Isn’t Successful](https://hackernoon.com/3-ways-to-make-sure-your-startup-isnt-successful-g61v308s)
+![](https://cdn.hackernoon.com/drafts/3qjy3wzq.png)
+Startups that focus on the wrong priorities are likely to fail.
 
 ### [48. How to Make Money Using ChatGPT: Inspired by Gangnam Style](https://hackernoon.com/how-to-make-money-using-chatgpt-inspired-by-gangnam-style)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ao93rxi.jpeg)
@@ -271,41 +273,41 @@ Rethinking The Bottom Line: From Profit to People
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-je93qfh.gif.webp)
 Fear Is Your Signal To Thrive
 
-### [67. The Enterprise Ecosystem and Blockchain: An Overview](https://hackernoon.com/the-enterprise-ecosystem-and-blockchain-an-overview-dimn32pk)
-![](https://cdn.hackernoon.com/drafts/5hmi3y3c.png)
-The cryptocurrency movement continues to show no signs of slowing down. With Bitcoin’s price trading ~$10,000 at the time of writing and more consumers being onboarded to the ecosystem, the numbers of cryptocurrency users are growing well into the millions. Much of the consumer adoption is thanks to user-friendly wallet applications and exchanges like Coinbase, Kraken, Exodus, BRD, and many others. 
-
-### [68. How Brand Intimacy Takes Your Business to the Next Level](https://hackernoon.com/how-brand-intimacy-takes-your-business-to-the-next-level)
-![](https://cdn.hackernoon.com/images/illustrate-two-humanoid-mascots-of-popular-brands-hugging-clhjab7pc000101s6czll2e07.png)
-Brand Intimacy: The Hidden Strategy To Take Your Business To The Next Level
-
-### [69. Are You Settling, Or Doing Your Best?](https://hackernoon.com/are-you-settling-or-doing-your-best)
-![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-0s93q9y.gif.webp)
-Are You Settling, Or Doing Your Best? It's important to recognise when you are making decisions to be stable or if you're pushing yourself to reach your dreams.
-
-### [70. How To Catch A Whale](https://hackernoon.com/how-to-catch-a-whale)
+### [67. How To Catch A Whale](https://hackernoon.com/how-to-catch-a-whale)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-4j93qz7.gif.webp)
 Why looking for whales is the perfect method for salespeople and how you can go about catching a whale for yourself to get your own sales career started.
 
-### [71. The Parable of the Farmer and the Horse: A Short Story That Will Make You Rethink Everything](https://hackernoon.com/the-parable-of-the-farmer-and-the-horse-a-short-story-that-will-make-you-rethink-everything)
+### [68. Marketing Expert Padraig O’Connor Shares His Journey to the Top](https://hackernoon.com/marketing-expert-padraig-oconnor-shares-his-journey-to-the-top)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-lk834j8.jpeg)
+Padraig O’Connor is an inspirational marketing executive. He has built a career marked by his exceptional ability to scale both private and public companies.
+
+### [69. The Parable of the Farmer and the Horse: A Short Story That Will Make You Rethink Everything](https://hackernoon.com/the-parable-of-the-farmer-and-the-horse-a-short-story-that-will-make-you-rethink-everything)
 ![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-a-farmer-and-a-horse-clgfplsmz000201s6h8i98elu.png)
 Sahil Bloom tells the story of the Farmer and the Horse.
 
-### [72. Entrepreneurs Don't Have it All Figured Out. They Learn on the Job. ](https://hackernoon.com/entrepreneurs-dont-have-it-all-figured-out-they-learn-on-the-job)
+### [70. The Enterprise Ecosystem and Blockchain: An Overview](https://hackernoon.com/the-enterprise-ecosystem-and-blockchain-an-overview-dimn32pk)
+![](https://cdn.hackernoon.com/drafts/5hmi3y3c.png)
+The cryptocurrency movement continues to show no signs of slowing down. With Bitcoin’s price trading ~$10,000 at the time of writing and more consumers being onboarded to the ecosystem, the numbers of cryptocurrency users are growing well into the millions. Much of the consumer adoption is thanks to user-friendly wallet applications and exchanges like Coinbase, Kraken, Exodus, BRD, and many others. 
+
+### [71. How Brand Intimacy Takes Your Business to the Next Level](https://hackernoon.com/how-brand-intimacy-takes-your-business-to-the-next-level)
+![](https://cdn.hackernoon.com/images/illustrate-two-humanoid-mascots-of-popular-brands-hugging-clhjab7pc000101s6czll2e07.png)
+Brand Intimacy: The Hidden Strategy To Take Your Business To The Next Level
+
+### [72. Are You Settling, Or Doing Your Best?](https://hackernoon.com/are-you-settling-or-doing-your-best)
+![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-0s93q9y.gif.webp)
+Are You Settling, Or Doing Your Best? It's important to recognise when you are making decisions to be stable or if you're pushing yourself to reach your dreams.
+
+### [73. Entrepreneurs Don't Have it All Figured Out. They Learn on the Job. ](https://hackernoon.com/entrepreneurs-dont-have-it-all-figured-out-they-learn-on-the-job)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-qp93qu4.gif.webp)
 What Entrepreneurs Learn On the Job
 
-### [73. How Brazil’s Newly Elected Government Will Affect Its Bustling Startup Ecosystem](https://hackernoon.com/how-brazils-newly-elected-government-will-affect-its-bustling-startup-ecosystem)
+### [74. How Brazil’s Newly Elected Government Will Affect Its Bustling Startup Ecosystem](https://hackernoon.com/how-brazils-newly-elected-government-will-affect-its-bustling-startup-ecosystem)
 ![](https://cdn.hackernoon.com/images/hDQFmLyqiUd2kk7sZLE4xqV2Z5D2-e8a3rwa.jpeg)
 With a new political wind blowing through Brazil, we need to ask: What impact might Lula's election have on the buzzing startup ecosystem?
 
-### [74. Conquering Imposter Syndrome for Success](https://hackernoon.com/conquer-imposter-syndrome-for-unbelievable-success)
+### [75. Conquering Imposter Syndrome for Success](https://hackernoon.com/conquer-imposter-syndrome-for-unbelievable-success)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-nib3j7q.gif.webp)
 Conquer Imposter Syndrome for Unbelievable Success
-
-### [75. Marketing Expert Padraig O’Connor Shares His Journey to the Top](https://hackernoon.com/marketing-expert-padraig-oconnor-shares-his-journey-to-the-top)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-lk834j8.jpeg)
-Padraig O’Connor is an inspirational marketing executive. He has built a career marked by his exceptional ability to scale both private and public companies.
 
 ### [76. Validate Your Startup Idea Using the Right MVP Techniques](https://hackernoon.com/validate-your-startup-idea-using-the-right-mvp-techniques)
 ![](https://cdn.hackernoon.com/images/9FoqLXBqkFSxBjQvbeLToKfU4GA2-bgb3njt.jpeg)
@@ -323,49 +325,49 @@ As business owners, we can't afford to bury our heads in the sand.
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-af027dv.gif)
 Netflix started to future-proof their business by entering the video streaming market. By making this shift, they could better serve their subscribers.
 
-### [80. People are What Matter Most When it Comes to Scaling](https://hackernoon.com/people-are-what-matter-most-when-it-comes-to-scaling)
-![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-jr93ytz.jpeg)
-Brian Scudamore | Scaling Secrets: It’s All About People
-
-### [81. Interview with Digilus Technologies LLC Founder and CEO, Saahil Kumar Chathrath](https://hackernoon.com/interview-with-digilus-technologies-llc-founder-and-ceo-saahil-kumar-chathrath)
+### [80. Interview with Digilus Technologies LLC Founder and CEO, Saahil Kumar Chathrath](https://hackernoon.com/interview-with-digilus-technologies-llc-founder-and-ceo-saahil-kumar-chathrath)
 ![](https://cdn.hackernoon.com/images/KeDblQc5T9fXfMbd1HY6YsXdKqM2-pnh30yq.jpeg)
 Founder and CEO of tech company Digilus Technologies LLC, Saahil Kumar Chathrath  shared few important tips for starting a successful startup. The Indian entrep
 
-### [82. Why it's Not a Good Idea to Quit Your Day Job Just Yet](https://hackernoon.com/why-its-not-a-good-idea-to-quit-your-day-job-just-yet)
+### [81. People are What Matter Most When it Comes to Scaling](https://hackernoon.com/people-are-what-matter-most-when-it-comes-to-scaling)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-jr93ytz.jpeg)
+Brian Scudamore | Scaling Secrets: It’s All About People
+
+### [82. 9 Underrated Startup Podcasts You Should Start Listening to in 2023](https://hackernoon.com/9-underrated-startup-podcasts-you-should-start-listening-to-in-2023)
+![](https://cdn.hackernoon.com/images/PC9192QNNtYuuMr1IBcuVJdNFFD2-ipc3odz.jpeg)
+Tired of listening to the same 5 podcasts every day? Here's a list of my top 9 most underrated startup podcasts that will freshen up your playlist. 
+
+### [83. Why it's Not a Good Idea to Quit Your Day Job Just Yet](https://hackernoon.com/why-its-not-a-good-idea-to-quit-your-day-job-just-yet)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-yc93psb.gif.webp)
 Don't Quit Your Day Job (Yet) ft. Fiona Smith aka. The Millennial Money Woman
-
-### [83. The Tech Entrepreneur Elon Musk is Making Advanced Pigs](https://hackernoon.com/the-tech-entrepreneur-elon-musk-is-making-advanced-pigs-2y2t31jx)
-![](https://cdn.hackernoon.com/images/vZ4VX0zp4zY4phCIRlqfjNe5uHV2-951r31we.jpeg)
-Elon Musk facilitated the live demo to show how Neuralink mind inserts can be carefully added to a live subject with no hindrance to their wellbeing. ‘They’re solid and glad, and undefined from an ordinary pig,’ he said.
 
 ### [84. It’s Not About You: Finding Success Through Managing Ego and Focusing on End Users](https://hackernoon.com/its-not-about-you-finding-success-through-managing-ego-and-focusing-on-end-users)
 ![](https://cdn.hackernoon.com/images/eMngb4XHXSUvYQvmyFlv5TkDYoT2-ay93qvw.jpeg)
 Alfonso spoke with me on an episode of the SaaS Origin Stories podcast about his victories and missteps over the years, and generously shares critical lessons
 
-### [85. 9 Underrated Startup Podcasts You Should Start Listening to in 2023](https://hackernoon.com/9-underrated-startup-podcasts-you-should-start-listening-to-in-2023)
-![](https://cdn.hackernoon.com/images/PC9192QNNtYuuMr1IBcuVJdNFFD2-ipc3odz.jpeg)
-Tired of listening to the same 5 podcasts every day? Here's a list of my top 9 most underrated startup podcasts that will freshen up your playlist. 
+### [85. The Tech Entrepreneur Elon Musk is Making Advanced Pigs](https://hackernoon.com/the-tech-entrepreneur-elon-musk-is-making-advanced-pigs-2y2t31jx)
+![](https://cdn.hackernoon.com/images/vZ4VX0zp4zY4phCIRlqfjNe5uHV2-951r31we.jpeg)
+Elon Musk facilitated the live demo to show how Neuralink mind inserts can be carefully added to a live subject with no hindrance to their wellbeing. ‘They’re solid and glad, and undefined from an ordinary pig,’ he said.
 
-### [86. To Get the Outputs You Want, You Need to Build Systems](https://hackernoon.com/to-get-the-outputs-you-want-you-need-to-build-systems)
+### [86. Talking With Jager McConnell, CEO of Crunchbase - Using Intuition To Succeed In Business](https://hackernoon.com/talking-with-jager-mcconnell-ceo-of-crunchbase-using-intuition-to-succeed-in-business)
+![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-uea3rf9.jpeg)
+Jager McConnell - CEO of Crunchbase | How To Use Intuition To Succeed In Business
+
+### [87. To Get the Outputs You Want, You Need to Build Systems](https://hackernoon.com/to-get-the-outputs-you-want-you-need-to-build-systems)
 ![](https://cdn.hackernoon.com/images/uwdds9GP9oRGK8rZBtabE59fB8P2-8y93p4e.jpeg)
 There are two kinds of leaders: one that acts on a whim, and one that follows procedures to solve a problem.
 
-### [87. Success or Flying into the Sun: Discussing Emotions and Modern Business](https://hackernoon.com/success-or-flying-into-the-sun-discussing-emotions-and-modern-business)
+### [88. Success or Flying into the Sun: Discussing Emotions and Modern Business](https://hackernoon.com/success-or-flying-into-the-sun-discussing-emotions-and-modern-business)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-pwa3o82.jpeg)
 Grant Cardone | Success or Icarus: Hardships, Ego and Humility Within Modern Business
 
-### [88. It's Important to Plan for the Future, But Don’t Prescribe It](https://hackernoon.com/its-important-to-plan-for-the-future-but-dont-prescribe-it)
+### [89. It's Important to Plan for the Future, But Don’t Prescribe It](https://hackernoon.com/its-important-to-plan-for-the-future-but-dont-prescribe-it)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-gl93rox.jpeg)
 Plan For the Future – But Don’t Prescribe It
 
-### [89. Tech News Playlist: Nigerian Founder is Back, Retail Startup Wins Ignite 2022](https://hackernoon.com/tech-news-playlist-nigerian-founder-is-back-retail-startup-wins-ignite-2022)
+### [90. Tech News Playlist: Nigerian Founder is Back, Retail Startup Wins Ignite 2022](https://hackernoon.com/tech-news-playlist-nigerian-founder-is-back-retail-startup-wins-ignite-2022)
 ![](https://cdn.hackernoon.com/images/uwdds9GP9oRGK8rZBtabE59fB8P2-e993p9g.jpeg)
 Today’s news includes the foundation of Venture Studio, the 2022 Startup World Cup, as well as the latest on aerospace, cybersecurity, and crypto.
-
-### [90. Talking With Jager McConnell, CEO of Crunchbase - Using Intuition To Succeed In Business](https://hackernoon.com/talking-with-jager-mcconnell-ceo-of-crunchbase-using-intuition-to-succeed-in-business)
-![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-uea3rf9.jpeg)
-Jager McConnell - CEO of Crunchbase | How To Use Intuition To Succeed In Business
 
 ### [91. Meet The CEO of 1MRobotics, Eyal Yair](https://hackernoon.com/meet-the-ceo-of-1mrobotics-eyal-yair)
 ![](https://cdn.hackernoon.com/images/uwdds9GP9oRGK8rZBtabE59fB8P2-lf93p3z.jpeg)
@@ -379,45 +381,45 @@ Want to know how to become an entrepreneur in 2021? Business has changed,  it’
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-3793qwh.gif.webp)
 The Benefits of Thinking Like A Child
 
-### [94. 8 Legal Documents Every Business Startup Needs](https://hackernoon.com/8-legal-documents-every-business-startup-needs-2h7532lg)
-![](https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-‘Caution’ is not exactly a word we associate with budding entrepreneurs and founders. Many of whom thrive on passion, uncertainty, and taking calculated risks. But before you turn that spark of a great idea into a reality, it’s wise to pause and consider if you’ve covered all your legal bases. To set yourself up for optimal success, it’s critical that each new venture is built on a solid legal foundation so you’re ready and prepared for the challenges and curveballs. 
-
-### [95. The Strong Game of Developer To Entrepreneur](https://hackernoon.com/the-strong-game-of-developer-to-entrepreneur-a0p3uip)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPcfwPDCyf3ZKODSBkwR1r1bcWeW2-8w1l3ubb.jpeg?alt=media&token=548a3172-4a3f-422c-8df5-86b5620a4047)
-The title of CEO/Founder seems cool but it's all about burning our hands and heads by Hustling. It's not like a general race where once you run quick and finish before anyone else and win the game. To be honest, entrepreneurship is like slowly moving with high efforts for success.
-
-### [96. We’re All Just Remixing Capitalism: 85 Business Models That Prove So](https://hackernoon.com/were-all-just-remixing-capitalism-85-business-models-that-prove-so)
+### [94. We’re All Just Remixing Capitalism: 85 Business Models That Prove So](https://hackernoon.com/were-all-just-remixing-capitalism-85-business-models-that-prove-so)
 ![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-nw136tf.png)
 From “Buy One, Give One” to “Negative Operating Cycle,” here’s your ultimate guide to making money by reinventing the wheel.
 
-### [97. Pharell Williams: His Entrepreneurial Success and How He Does It](https://hackernoon.com/pharell-williams-his-entrepreneur-success-and-how-he-does-it)
-![](https://cdn.hackernoon.com/images/pharrell-williams-clikjyiov000901s6dintcgh9.png)
-Pharrell is one of the greatest artists of our generation. But he's also a relentless entrepreneur.
+### [95. 8 Legal Documents Every Business Startup Needs](https://hackernoon.com/8-legal-documents-every-business-startup-needs-2h7532lg)
+![](https://images.unsplash.com/photo-1556761175-b413da4baf72?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+‘Caution’ is not exactly a word we associate with budding entrepreneurs and founders. Many of whom thrive on passion, uncertainty, and taking calculated risks. But before you turn that spark of a great idea into a reality, it’s wise to pause and consider if you’ve covered all your legal bases. To set yourself up for optimal success, it’s critical that each new venture is built on a solid legal foundation so you’re ready and prepared for the challenges and curveballs. 
 
-### [98. Freshworks' Journey to India’s First SaaS IPO: A Deep-Dive](https://hackernoon.com/freshworks-journey-to-indias-first-saas-ipo-a-deep-dive)
+### [96. Freshworks' Journey to India’s First SaaS IPO: A Deep-Dive](https://hackernoon.com/freshworks-journey-to-indias-first-saas-ipo-a-deep-dive)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-y32363m.jpeg)
 Freshworks' Journey to India’s First SaaS IPO
 
-### [99. How I Succeed With Cold Outreach On LinkedIn](https://hackernoon.com/how-i-succeed-with-cold-outreach-on-linkedin)
-![](https://cdn.hackernoon.com/images/m9JBS4HuFHgt9h0AOMHgC4YWlgJ2-no832rw.jpeg)
-Cold outreach isn’t easy, especially on LinkedIn. Here's how I succeed at it after getting scolded multiple times
+### [97. The Strong Game of Developer To Entrepreneur](https://hackernoon.com/the-strong-game-of-developer-to-entrepreneur-a0p3uip)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPcfwPDCyf3ZKODSBkwR1r1bcWeW2-8w1l3ubb.jpeg?alt=media&token=548a3172-4a3f-422c-8df5-86b5620a4047)
+The title of CEO/Founder seems cool but it's all about burning our hands and heads by Hustling. It's not like a general race where once you run quick and finish before anyone else and win the game. To be honest, entrepreneurship is like slowly moving with high efforts for success.
 
-### [100. The Key to Entrepreneurial Success: Seeing a World That Doesn’t Exist](https://hackernoon.com/the-key-to-entrepreneurial-success-seeing-a-world-that-doesnt-exist)
+### [98. Pharell Williams: His Entrepreneurial Success and How He Does It](https://hackernoon.com/pharell-williams-his-entrepreneur-success-and-how-he-does-it)
+![](https://cdn.hackernoon.com/images/pharrell-williams-clikjyiov000901s6dintcgh9.png)
+Pharrell is one of the greatest artists of our generation. But he's also a relentless entrepreneur.
+
+### [99. The Key to Entrepreneurial Success: Seeing a World That Doesn’t Exist](https://hackernoon.com/the-key-to-entrepreneurial-success-seeing-a-world-that-doesnt-exist)
 ![](https://cdn.hackernoon.com/images/a-world-that-doesnt-exist-clidke2yz000001s61kxj0lkv.png)
 The Entrepreneurial Secret: See a World That Doesn’t Exist
+
+### [100. How I Succeed With Cold Outreach On LinkedIn](https://hackernoon.com/how-i-succeed-with-cold-outreach-on-linkedin)
+![](https://cdn.hackernoon.com/images/m9JBS4HuFHgt9h0AOMHgC4YWlgJ2-no832rw.jpeg)
+Cold outreach isn’t easy, especially on LinkedIn. Here's how I succeed at it after getting scolded multiple times
 
 ### [101. House of Gucci: Rewriting a Better Alternate Business Strategy and Timeline](https://hackernoon.com/house-of-gucci-rewriting-a-better-alternate-business-strategy-and-timeline)
 ![](https://cdn.hackernoon.com/images/ulHLOrUUeTTHEKRJOCtpfWl7DLB3-vq037ae.jpeg)
 "Quality is remembered long after price is forgotten." Aldo Gucci's famous saying explains some entrepreneural lessons that House of Gucci teaches viewers.
 
-### [102. Interview with Ideaology Founder and CEO, Khaled Alkalbani](https://hackernoon.com/interview-with-ideaology-founder-and-ceo-khaled-alkalbani-x11i31zk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FdbyqrWCtp5SN19vJdpkesOHqgo83-7ob3u2y.jpeg?alt=media&token=b7568b92-46a0-4531-a7b3-5ef17ddd8854)
-Challenges and opportunities in the current global economy are as numerous and as full of potential as they haven’t been in a long time. We are venturing into the unknown in regards to the future socio-economic situation.
-
-### [103. Narrative Debt: The Silent Killer of Early-Stage AI and Crypto Startups](https://hackernoon.com/narrative-debt-the-silent-killer-of-early-stage-ai-and-crypto-startups)
+### [102. Narrative Debt: The Silent Killer of Early-Stage AI and Crypto Startups](https://hackernoon.com/narrative-debt-the-silent-killer-of-early-stage-ai-and-crypto-startups)
 ![](https://cdn.hackernoon.com/images/1vQ6UmzaynWRRSMXjFIX7TLZBpe2-fw03f4f.png)
 Narrative debt is the hidden failure mode in AI and crypto startups. Here’s how unclear messaging slows adoption more than bad code, and how to fix it. 
+
+### [103. Interview with Ideaology Founder and CEO, Khaled Alkalbani](https://hackernoon.com/interview-with-ideaology-founder-and-ceo-khaled-alkalbani-x11i31zk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FdbyqrWCtp5SN19vJdpkesOHqgo83-7ob3u2y.jpeg?alt=media&token=b7568b92-46a0-4531-a7b3-5ef17ddd8854)
+Challenges and opportunities in the current global economy are as numerous and as full of potential as they haven’t been in a long time. We are venturing into the unknown in regards to the future socio-economic situation.
 
 ### [104. How and When to Find Your Dream Team](https://hackernoon.com/how-and-when-to-find-your-dream-team)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-fo93k67.jpeg)
@@ -431,9 +433,9 @@ Why Authenticity Is The Missing Link In Your Business
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-xt93q02.gif.webp)
 Do You Need A Business Coach?
 
-### [107. Top Management Tips for Startup Founders ](https://hackernoon.com/top-management-tips-for-startup-founders-bx3z24vx)
-![](https://cdn.hackernoon.com/images/ir1i3yva.gif)
-Here are some top dos and don'ts for startup founders, alongside some management tips for startup founders from successful entrepreneurs.
+### [107. The Art of Creating Valuable Podcasts](https://hackernoon.com/what-is-a-valuable-podcast)
+![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-5p93is4.gif.webp)
+We've made incredible leaps since the days of wireless radio.
 
 ### [108. Miki Agrawal and Tushy Record Impressive 2021 Market Growth ](https://hackernoon.com/miki-agrawal-and-tushy-record-impressive-2021-market-growth)
 ![](https://cdn.hackernoon.com/images/PeKkHDj3t1ZRpNvgRg3hQDvmCZH3-vn93j2u.jpeg)
@@ -443,9 +445,9 @@ Miki Agrawal and TUSHY Celebrated an impressive growth spurt in 2021 through exp
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-tq93h19.jpeg)
 When it comes to freelancing, not all clients are created equal. Learn how to recognize a bad freelance client and how to handle the tough conversations.
 
-### [110. The Art of Creating Valuable Podcasts](https://hackernoon.com/what-is-a-valuable-podcast)
-![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-5p93is4.gif.webp)
-We've made incredible leaps since the days of wireless radio.
+### [110. Top Management Tips for Startup Founders ](https://hackernoon.com/top-management-tips-for-startup-founders-bx3z24vx)
+![](https://cdn.hackernoon.com/images/ir1i3yva.gif)
+Here are some top dos and don'ts for startup founders, alongside some management tips for startup founders from successful entrepreneurs.
 
 ### [111. Entrepreneurs Are Not Robots: How to Prevent Burnout and Not Harm Your Business](https://hackernoon.com/entrepreneurs-are-not-robots-how-to-prevent-burnout-and-not-harm-your-business)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-7i93ple.jpeg)
@@ -455,13 +457,13 @@ Entrepreneurs Are Not Robots, and in the fast speed of work, we tend to forget i
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-rh8b3wf5.jpeg?alt=media&token=25015a6c-7a93-499a-b27f-fc7a6b74febd)
 You face a very tough job market now — but you can still thrive. Graduates nowadays face a very challenging labor market. Unfortunately, the corona class of 2020, as they are now called, are facing limited job prospects, reduced pay, and a higher risk of unemployment.
 
-### [113. 7-Step Checklist: How to Incorporate Your Startup](https://hackernoon.com/7-step-checklist-how-to-incorporate-your-startup)
-![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-13a3f8y.jpeg)
-This checklist covers the most important aspects of incorporating your business so you can move forward confidently. 
-
-### [114. Occam's, Hanlon's, Grice's: How to Level Up Your Life With The Power of Cognitive Razors](https://hackernoon.com/occams-hanlons-grices-how-to-level-up-your-life-with-the-power-of-cognitive-razors)
+### [113. Occam's, Hanlon's, Grice's: How to Level Up Your Life With The Power of Cognitive Razors](https://hackernoon.com/occams-hanlons-grices-how-to-level-up-your-life-with-the-power-of-cognitive-razors)
 ![](https://cdn.hackernoon.com/images/robot-thinking-about-the-world-while-looking-at-the-busy-streets-of-new-york-clfrz8t3w000101s6357x4rke.png)
 Cognitive Razors are mental Swiss Army knives that philosophers and big-brained folks use to make sense of this crazy world.
+
+### [114. 7-Step Checklist: How to Incorporate Your Startup](https://hackernoon.com/7-step-checklist-how-to-incorporate-your-startup)
+![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-13a3f8y.jpeg)
+This checklist covers the most important aspects of incorporating your business so you can move forward confidently. 
 
 ### [115. Bootstrapping, Fundraising Or Both? How A Gritty Approach Helped Allie Magyar Raise Capital](https://hackernoon.com/bootstrapping-fundraising-or-both-how-a-gritty-approach-helped-allie-magyar-raise-capital-xd53382a)
 ![](https://cdn.hackernoon.com/drafts/a1q38t8.png)
@@ -475,13 +477,13 @@ When raising capital, not all startups have options—they only receive one term
 ![](https://cdn.hackernoon.com/images/uwdds9GP9oRGK8rZBtabE59fB8P2-3r93pf1.jpeg)
 On today’s episode of Startups On Demand, I am joined by Ian Sanders, CEO and Co-Founder of Blue Cape, a stealth startup in the field of healthcare analytics. 
 
-### [118. Leadership Defined: Deconstructing the Buzzword](https://hackernoon.com/leadership-defined-deconstructing-the-buzzword)
-![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-4j93ixv.gif.webp)
-Leadership Defined: Deconstructing the Buzzword
-
-### [119. When Progress is NOT Progress: How to Take Action and Break Free From the Illusion](https://hackernoon.com/when-progress-is-not-progress-how-to-take-action-and-break-free-from-the-illusion)
+### [118. When Progress is NOT Progress: How to Take Action and Break Free From the Illusion](https://hackernoon.com/when-progress-is-not-progress-how-to-take-action-and-break-free-from-the-illusion)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-3q93p38.jpeg)
 In the realm of self-help content, there's always a bit of a catch, and that often comes in the form of an illusion of progress. 
+
+### [119. Leadership Defined: Deconstructing the Buzzword](https://hackernoon.com/leadership-defined-deconstructing-the-buzzword)
+![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-4j93ixv.gif.webp)
+Leadership Defined: Deconstructing the Buzzword
 
 ### [120. Software Engineer Remi Denoyer’s Curiosity Propelled His Career at Mentoring Platform Plato](https://hackernoon.com/software-engineer-remi-denoyers-curiosity-propelled-his-career-at-mentoring-platform-plato)
 ![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-nw93rxv.jpeg)
@@ -491,53 +493,53 @@ Remi Denoyer learned to code and built his first basic application at the age of
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-5d93iyb.gif.webp)
 Monetizing Your Podcast & Making It A Sustainable Project
 
-### [122. The Entrepreneur's Balancing Act: Cultivating Success While Nurturing Life's Dimensions](https://hackernoon.com/the-entrepreneurs-balancing-act-cultivating-success-while-nurturing-lifes-dimensions)
-![](https://cdn.hackernoon.com/images/i6hjslzIRdYmQax95k2k6db7wCH2-mj93s64.gif.webp)
-Embark on an entrepreneurial journey while maintaining balance in health, finance, relationships, and spirituality. Thrive in all aspects of life! 🚀🌟
-
-### [123. The 3 Things Preventing You From Living a Life You Can Be Proud Of](https://hackernoon.com/the-3-things-preventing-you-from-living-a-life-you-can-be-proud-of)
+### [122. The 3 Things Preventing You From Living a Life You Can Be Proud Of](https://hackernoon.com/the-3-things-preventing-you-from-living-a-life-you-can-be-proud-of)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-paa3r8k.jpeg)
 A recent study discovered that a staggering 76% of individuals on their deathbeds regretted not living up to their full potential.
 
-### [124. Tips and Tricks to Manage Your Exit Wealth](https://hackernoon.com/tips-and-tricks-to-manage-your-exit-wealth)
+### [123. The Entrepreneur's Balancing Act: Cultivating Success While Nurturing Life's Dimensions](https://hackernoon.com/the-entrepreneurs-balancing-act-cultivating-success-while-nurturing-lifes-dimensions)
+![](https://cdn.hackernoon.com/images/i6hjslzIRdYmQax95k2k6db7wCH2-mj93s64.gif.webp)
+Embark on an entrepreneurial journey while maintaining balance in health, finance, relationships, and spirituality. Thrive in all aspects of life! 🚀🌟
+
+### [124. How to Build a Thriving Community](https://hackernoon.com/how-to-build-a-thriving-community)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-9t93v6l.jpeg)
+Community is about giving as much as you take, and it's important to remember that your members are not there to worship you.
+
+### [125. Tips and Tricks to Manage Your Exit Wealth](https://hackernoon.com/tips-and-tricks-to-manage-your-exit-wealth)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-rd93p1p.jpeg)
 Timothy Daniels | Managing Your Exit Wealth
 
-### [125. Could Small Cash Transactions Boost Business Profits? The Benefits Of Small Payment Cashing](https://hackernoon.com/could-small-cash-transactions-boost-business-profits-the-benefits-of-small-payment-cashing)
+### [126. Could Small Cash Transactions Boost Business Profits? The Benefits Of Small Payment Cashing](https://hackernoon.com/could-small-cash-transactions-boost-business-profits-the-benefits-of-small-payment-cashing)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-ko034s3.jpeg)
 Let’s explore the benefits of enabling small cash transactions in a digital-first high street. Could it boost small business profits?
 
-### [126. 5 Reasons Why Entrepreneurs Fail and How to Turn Things Around](https://hackernoon.com/5-reasons-why-entrepreneurs-fail-and-how-to-turn-things-around-qe3h34oz)
+### [127. 5 Reasons Why Entrepreneurs Fail and How to Turn Things Around](https://hackernoon.com/5-reasons-why-entrepreneurs-fail-and-how-to-turn-things-around-qe3h34oz)
 ![](https://cdn.hackernoon.com/images/5nf7UVcAydfEkWGZZPnA8seILlz1-lf1e3e6z.jpeg)
 The first step to start something new takes a lot of courage and determination. And being an entrepreneur is one of the most challenging roles or tasks. Entrepreneurship is one of the best adventures you will ever have. From now on, every decision you make will have an impact on your company and your personal life. That's why it's very important to surround yourself with a professional team to share ideas.
 
-### [127. Top 7 Promising SaaS Entrepreneurs in 2021 You Should Not Miss](https://hackernoon.com/top-7-promising-saas-entrepreneurs-in-2021-you-should-not-miss-8d1e33lj)
+### [128. Top 7 Promising SaaS Entrepreneurs in 2021 You Should Not Miss](https://hackernoon.com/top-7-promising-saas-entrepreneurs-in-2021-you-should-not-miss-8d1e33lj)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-1sq33in.jpeg)
 The article gives you an idea of how the top SaaS companies made progress and ranked themselves in the top list.
-
-### [128. How to Build a Thriving Community](https://hackernoon.com/how-to-build-a-thriving-community)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-9t93v6l.jpeg)
-Community is about giving as much as you take, and it's important to remember that your members are not there to worship you.
 
 ### [129. Deloitte's Adam Weissenberg  Talks About Planning for the Future as an Entrepreneur](https://hackernoon.com/deloittes-adam-weissenberg-talks-about-planning-for-the-future-as-an-entrepreneur)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-kua3riy.jpeg)
 Adam Weissenberg - Vice Chair, Deloitte | How To Plan for the Future as an Entrepreneur
 
-### [130. Starting a SaaS Business During Covid: My 5 Year Journey](https://hackernoon.com/starting-a-saas-business-during-covid-my-5-year-journey-bm3p3tp3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBSsoxi2iYzcaKh9ApR4P0qdRpy82-phj3tsd.jpeg?alt=media&token=176462b8-8711-495d-8244-af2355a7fb38)
-In September 2020, I went all in working for myself. The COVID Pandemic and my cushy engineering manager job made it a hard decision. However, it wasn't one I made overnight. In fact, It took me five years to wrap my head around it. I can divide that time into three entrepreneurial seasons of my life. Each season taught me essential lessons that provided enough insight into changing the course of my career.
-
-### [131. How to Fix Entrepreneurship in Europe](https://hackernoon.com/how-to-fix-entrepreneurship-in-europe-d11h34vw)
+### [130. How to Fix Entrepreneurship in Europe](https://hackernoon.com/how-to-fix-entrepreneurship-in-europe-d11h34vw)
 ![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-t8m31kq.jpeg)
 I Studied Entrepreneurship in 4 Countries. Here's How To Fix it in Europe.
 
-### [132. Meet the Writer: HackerNoon's Contributor Audrey Nesbitt on Web3, Writing, and More](https://hackernoon.com/meet-the-writer-hackernoons-contributor-audrey-nesbitt-on-web3-writing-and-more)
-![](https://cdn.hackernoon.com/images/JvUgrqBJGHbQVXtXMY1rNpeC87H2-cn93giz.jpeg)
-Meet Audrey Nesbitt, dynamic entrepreneur, marketing lead and CryptoChick 
+### [131. Starting a SaaS Business During Covid: My 5 Year Journey](https://hackernoon.com/starting-a-saas-business-during-covid-my-5-year-journey-bm3p3tp3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBSsoxi2iYzcaKh9ApR4P0qdRpy82-phj3tsd.jpeg?alt=media&token=176462b8-8711-495d-8244-af2355a7fb38)
+In September 2020, I went all in working for myself. The COVID Pandemic and my cushy engineering manager job made it a hard decision. However, it wasn't one I made overnight. In fact, It took me five years to wrap my head around it. I can divide that time into three entrepreneurial seasons of my life. Each season taught me essential lessons that provided enough insight into changing the course of my career.
 
-### [133. Open Innovation is the Cornerstone of Your Startup’s Success](https://hackernoon.com/open-innovation-is-the-cornerstone-of-your-startups-success)
+### [132. Open Innovation is the Cornerstone of Your Startup’s Success](https://hackernoon.com/open-innovation-is-the-cornerstone-of-your-startups-success)
 ![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-sw034ed.webp)
 Startups: It’s not about being first, it’s about playing well with others. Open Innovation = sharing ideas, collaborating, and winning together.
+
+### [133. Meet the Writer: HackerNoon's Contributor Audrey Nesbitt on Web3, Writing, and More](https://hackernoon.com/meet-the-writer-hackernoons-contributor-audrey-nesbitt-on-web3-writing-and-more)
+![](https://cdn.hackernoon.com/images/JvUgrqBJGHbQVXtXMY1rNpeC87H2-cn93giz.jpeg)
+Meet Audrey Nesbitt, dynamic entrepreneur, marketing lead and CryptoChick 
 
 ### [134. #MyStartInTech: An Interview With Audrea Cook, a Software Engineer](https://hackernoon.com/mystartintech-an-interview-with-audrea-cook-a-software-engineer-xj1734di)
 ![](https://cdn.hackernoon.com/images/ZgvQHCAu7jcN5XqtXnwKd79j9yI3-1aq34bs.jpeg)
@@ -547,81 +549,81 @@ Startups: It’s not about being first, it’s about playing well with others. O
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-m583w68.jpeg)
 The Red Queen Effect: Thriving in a fast-paced world. Insights on adaptation, innovation, and growth in business & life.
 
-### [136. 3 Major Tax Deductions for Entrepreneurs](https://hackernoon.com/3-major-tax-deductions-for-entrepreneurs-cm1u34fv)
-![](https://cdn.hackernoon.com/images/bcdNBSrILpX6WFZDaIErn6I5Oi03-oh1j3wyi.jpeg)
-If you’re an entrepreneur, you understand the importance of managing the administrative side of your business. You also know how much of a pain it is (and the time it consumes) to ensure that you stay on track. 
-
-### [137. I Spent the Last 9 Months Building a Side Project, Here's How It Went](https://hackernoon.com/i-spent-the-last-9-months-building-a-side-project-heres-how-it-went-992j35a5)
+### [136. I Spent the Last 9 Months Building a Side Project, Here's How It Went](https://hackernoon.com/i-spent-the-last-9-months-building-a-side-project-heres-how-it-went-992j35a5)
 ![](https://cdn.hackernoon.com/images/m0roYAZBrtccjJeRbrYxPDpnmlw1-0g1h34y0.jpeg)
 I thought I'd try to my hand at this entrepreneurship thing. Here's how it went, the lessons I learned, and the progress I've made so far! 
+
+### [137. 151 Stories To Learn About Entrepreneur](https://hackernoon.com/151-stories-to-learn-about-entrepreneur)
+![](https://cdn.hackernoon.com/images/github/entrepreneur-190.png)
+Learn everything you need to know about Entrepreneur via these 151 free HackerNoon stories.
 
 ### [138. Attracting Customers to Your Business | Foot Traffic Formula Founder Stacy Shares Her Insights](https://hackernoon.com/attracting-customers-to-your-busine-or-foot-traffic-formula-founder-stacy-shares-her-insights)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-fk93ph7.jpeg)
 In my recent conversation with Stacy Tuschi, we talked a ton about the entrepreneurial journey, how to get started, and how to scale as you grow.
 
-### [139. Who is An Intrapreneur](https://hackernoon.com/the-intrapreneur-o11i3c84)
+### [139. 3 Major Tax Deductions for Entrepreneurs](https://hackernoon.com/3-major-tax-deductions-for-entrepreneurs-cm1u34fv)
+![](https://cdn.hackernoon.com/images/bcdNBSrILpX6WFZDaIErn6I5Oi03-oh1j3wyi.jpeg)
+If you’re an entrepreneur, you understand the importance of managing the administrative side of your business. You also know how much of a pain it is (and the time it consumes) to ensure that you stay on track. 
+
+### [140. Who is An Intrapreneur](https://hackernoon.com/the-intrapreneur-o11i3c84)
 ![](https://cdn.hackernoon.com/drafts/sg333cl6.png)
 Not the poor cousin, rather the cautious adventurer striving for nirvana within.
-
-### [140. 151 Stories To Learn About Entrepreneur](https://hackernoon.com/151-stories-to-learn-about-entrepreneur)
-![](https://cdn.hackernoon.com/images/github/entrepreneur-190.png)
-Learn everything you need to know about Entrepreneur via these 151 free HackerNoon stories.
 
 ### [141. Top Five Sites That Use a Personal Domain Name](https://hackernoon.com/top-five-sites-that-use-a-personal-domain-name-i31m3efg)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvdYL8AKgOYVgOpl5zri0lwpXv7n1-nmp3usy.jpeg?alt=media&token=23a79728-6b4d-454f-8142-24ab4315d6da)
 If you want to find a domain name these days, you have to come up with something as unique as a celebrity baby name. Many of us have been able to reserve our personal name domains, and some wonder how far they can push a site that uses their own personal name.
 
-### [142. Becoming An Entrepreneur In 2021: Challenges And Strategy](https://hackernoon.com/becoming-an-entrepreneur-in-2021-challenges-and-strategy-tt3t33eh)
-![](https://hackernoon.com/images/77Ypp6KmPfY8LJbVPvjjZsOifM22-ce8b241v.jpeg)
-Let us examine the challenges that an entrepreneur might face in 2021, including what they can do to overcome them. 
-
-### [143. Online Marketing vs Experiential Marketing: Key Differences](https://hackernoon.com/online-marketing-vs-experiential-marketing-key-differences-dz2w3us6)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0jGBzjcYSlN4mwOMkmh1tBjYTjs2-wnk3tj8.jpeg?alt=media&token=0fbc4710-ac51-40dd-8ea1-caba0541f616)
-Usually, people get it mixed up thinking of digital marketing and experiential marketing as two separate entities. Truth be told, for a brand to create a diverse multiple channel strategy to connect their brand to customers — they need to leverage on both digital (online) and physical (offline) marketing.
-
-### [144. 6 Fatal Financial Mistakes Entrepreneurs Should Stay Away From](https://hackernoon.com/6-fatal-financial-mistakes-entrepreneurs-should-stay-away-from-fu253unr)
+### [142. 6 Fatal Financial Mistakes Entrepreneurs Should Stay Away From](https://hackernoon.com/6-fatal-financial-mistakes-entrepreneurs-should-stay-away-from-fu253unr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJYHpof9CLQZHe6erTV3WU39egvx1-vw1r3urw.jpeg?alt=media&token=7618480c-437a-46fa-ab31-18c5a4041388)
 One quality that separates seasoned entrepreneurs from the newbies is their willingness and ability to take calculated risks. You will notice this tendency from the world’s best entrepreneurs including Richard Branson, Arianna Huffington and Jack Ma. Irrespective of the type and scale of the business, ranging from a remotely operating technology business to a multinational corporation, there are some financial mistakes that founders should avoid at all costs.
 
-### [145. Meet Scott D. Clary: From Fortune 500s, to Early-Stage Startups, and Everything in Between](https://hackernoon.com/meet-scott-d-clary-from-fortune-500s-to-early-stage-startups-and-everything-in-between)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-no037p8.jpeg)
-Meet the Writer: Hacker Noon's Contributor Scott D. Clary, Host of the Success Story Podcast.
+### [143. Becoming An Entrepreneur In 2021: Challenges And Strategy](https://hackernoon.com/becoming-an-entrepreneur-in-2021-challenges-and-strategy-tt3t33eh)
+![](https://hackernoon.com/images/77Ypp6KmPfY8LJbVPvjjZsOifM22-ce8b241v.jpeg)
+Let us examine the challenges that an entrepreneur might face in 2021, including what they can do to overcome them. 
 
-### [146. Emerging Technologies and Their Impact on Business Strategy](https://hackernoon.com/emerging-technologies-and-their-impact-on-business-strategy)
+### [144. Online Marketing vs Experiential Marketing: Key Differences](https://hackernoon.com/online-marketing-vs-experiential-marketing-key-differences-dz2w3us6)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0jGBzjcYSlN4mwOMkmh1tBjYTjs2-wnk3tj8.jpeg?alt=media&token=0fbc4710-ac51-40dd-8ea1-caba0541f616)
+Usually, people get it mixed up thinking of digital marketing and experiential marketing as two separate entities. Truth be told, for a brand to create a diverse multiple channel strategy to connect their brand to customers — they need to leverage on both digital (online) and physical (offline) marketing.
+
+### [145. Emerging Technologies and Their Impact on Business Strategy](https://hackernoon.com/emerging-technologies-and-their-impact-on-business-strategy)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-0p92ih0.jpeg)
 Companies of all sizes and industries increasingly prioritize technological development in their business strategies. 
 
-### [147. What's Wrong with the Business Model Canvas? - 6 Major Issues](https://hackernoon.com/whats-wrong-with-the-business-model-canvas-6-major-issues-3z4j3wfv)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-im1a28im.jpeg?alt=media&token=3ca7fce1-9663-4d32-85e4-60c112435ac3)
-The Business Model Canvas (as shown above and improved based on this article’s recommendations) is famously the “ultimate” tool for business transformation, having been taught in business schools from the US to India for the past 15 years. 
+### [146. Meet Scott D. Clary: From Fortune 500s, to Early-Stage Startups, and Everything in Between](https://hackernoon.com/meet-scott-d-clary-from-fortune-500s-to-early-stage-startups-and-everything-in-between)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-no037p8.jpeg)
+Meet the Writer: Hacker Noon's Contributor Scott D. Clary, Host of the Success Story Podcast.
 
-### [148. When You Hire One Person, You're Actually Hiring Two: The Duality in Every Hire ](https://hackernoon.com/when-you-hire-one-person-youre-actually-hiring-two-the-duality-in-every-hire)
+### [147. When You Hire One Person, You're Actually Hiring Two: The Duality in Every Hire ](https://hackernoon.com/when-you-hire-one-person-youre-actually-hiring-two-the-duality-in-every-hire)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-f693vw6.jpeg)
 Every time you make a new hire, you’re actually adding two people:
 
-### [149. My Wish For a Gyroscopic Floating Table ](https://hackernoon.com/my-wish-for-a-gyroscopic-floating-table)
+### [148. My Wish For a Gyroscopic Floating Table ](https://hackernoon.com/my-wish-for-a-gyroscopic-floating-table)
 ![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-uwa3odq.jpeg)
 An invention I would like to create would be a gyroscopic floating table. 
 
-### [150. Create a Business Model Canvas for Your Business](https://hackernoon.com/create-a-business-model-canvas-for-your-business-qi283186)
-![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-qq83y2d.jpeg)
-The business model canvas is the CONCLUSION of a long and fruitful process, which will ultimately inform a company’s entire strategy.
-
-### [151. Entrepreneurship is an Act of Generosity](https://hackernoon.com/entrepreneurship-is-an-act-of-generosity)
+### [149. Entrepreneurship is an Act of Generosity](https://hackernoon.com/entrepreneurship-is-an-act-of-generosity)
 ![](https://cdn.hackernoon.com/images/TiLFLgXgukcx47bZac9fCGpJAE42-kmb3g86.jpeg)
 For the world to exist as we know it, it was necessary for many people to have dedicated lives to something greater.
 
-### [152. 7 Things Tech Entrepreneurs Should Know Before Starting a Business](https://hackernoon.com/7-things-tech-entrepreneurs-should-know-before-starting-a-business-q5183uqn)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FiUkns4es6PbyuCNgijGXleTrjUi1-v6b3uuc.jpeg?alt=media&token=2736d321-c61b-4c55-9837-a20188ef9283)
-To start your own business or a startup you don’t need to have a degree in business specialization or business experience. All you need is to know how business works and do proper business planning.
+### [150. What's Wrong with the Business Model Canvas? - 6 Major Issues](https://hackernoon.com/whats-wrong-with-the-business-model-canvas-6-major-issues-3z4j3wfv)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-im1a28im.jpeg?alt=media&token=3ca7fce1-9663-4d32-85e4-60c112435ac3)
+The Business Model Canvas (as shown above and improved based on this article’s recommendations) is famously the “ultimate” tool for business transformation, having been taught in business schools from the US to India for the past 15 years. 
 
-### [153. 6 Strategies and Tools to Manage Multiple Jobs Effectively](https://hackernoon.com/6-strategies-and-tools-to-manage-multiple-jobs-effectively)
+### [151. Create a Business Model Canvas for Your Business](https://hackernoon.com/create-a-business-model-canvas-for-your-business-qi283186)
+![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-qq83y2d.jpeg)
+The business model canvas is the CONCLUSION of a long and fruitful process, which will ultimately inform a company’s entire strategy.
+
+### [152. 6 Strategies and Tools to Manage Multiple Jobs Effectively](https://hackernoon.com/6-strategies-and-tools-to-manage-multiple-jobs-effectively)
 ![](https://cdn.hackernoon.com/images/m9JBS4HuFHgt9h0AOMHgC4YWlgJ2-mw834o8.jpeg)
 I was really stressed out when I had to manage multiple jobs for the first time. However, these strategies/tools helped me overcome it.
 
-### [154. 4 Must-Read Tips Before Designing Your Logo](https://hackernoon.com/4-must-read-tips-before-designing-your-logo-dv873y3d)
+### [153. 4 Must-Read Tips Before Designing Your Logo](https://hackernoon.com/4-must-read-tips-before-designing-your-logo-dv873y3d)
 ![](https://images.unsplash.com/photo-1548094990-c16ca90f1f0d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The best logos come across as simple and effortless. This is a difficult concept to wrap your head around when creating your first logo. In fact the number one issue I have had with most of my clients is their urge to overdo the design. Look at the logos of the world’s most successful brands like Nike, Twitter, or Apple. They are extremely simple and recognizable which is why I spend a good part of my time stressing this point to my clients. 
+
+### [154. 7 Things Tech Entrepreneurs Should Know Before Starting a Business](https://hackernoon.com/7-things-tech-entrepreneurs-should-know-before-starting-a-business-q5183uqn)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FiUkns4es6PbyuCNgijGXleTrjUi1-v6b3uuc.jpeg?alt=media&token=2736d321-c61b-4c55-9837-a20188ef9283)
+To start your own business or a startup you don’t need to have a degree in business specialization or business experience. All you need is to know how business works and do proper business planning.
 
 ### [155. Becoming Batman: How Self-Distancing and Alter Egos Encourage Personal Growth](https://hackernoon.com/becoming-batman-how-self-distancing-and-alter-egos-encourage-personal-growth)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-gw93wdn.jpeg)
@@ -631,29 +633,29 @@ Becoming Batman: How Self-Distancing and Alter Egos Encourage Personal Growth.
 ![](https://cdn.hackernoon.com/images/f0CdWjjeQOUER2nirNZOxQffs4n2-3uc3dfx.jpeg)
 Read on as we evaluate the challenges of small business management post-pandemic  and decide whether it could be time for you to say goodbye to your venture.
 
-### [157. A Primer to Fundraising Basics And How To Become Pitch Perfect](https://hackernoon.com/a-primer-to-fundraising-basics-and-how-to-become-pitch-perfect-gnk432s7)
-![](https://cdn.hackernoon.com/drafts/ewee3ybb.png)
-Often one of the biggest obstacles to starting a business is finding the capital to get your idea off the ground. Those who cannot turn to their own personal savings or borrow funds from family members or friends must turn to investors, funding organizations, or bank loans to raise startup funds.
-
-### [158. 🎓 How I am Learning Sales as a Technical Founder](https://hackernoon.com/how-i-am-learning-sales-as-a-technical-founder-5g2f30v7)
-![](https://cdn.filestackcontent.com/ydKJynaETJmroOQZWNtz)
-As a first time founder embarking on my (intended to be a VC-backed) startup journey 🚀, I quickly realized there are a lot of skills that I need as a founder that I didn’t have. I was comfortable with talking to customers & product development due to my engineering background but I massively struggle with copywriting, marketing, and the most important one — Sales 💸.
-
-### [159. Progressive Problem-Solving: Confidently Answering the Unknown by Getting More People Involved](https://hackernoon.com/progressive-problem-solving-confidently-answering-the-unknown-by-getting-more-people-involved)
+### [157. Progressive Problem-Solving: Confidently Answering the Unknown by Getting More People Involved](https://hackernoon.com/progressive-problem-solving-confidently-answering-the-unknown-by-getting-more-people-involved)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-b593skn.jpeg)
 Progressive Problem-Solving: Confidently Answering the Unknown
 
-### [160. A Guide to Open Enrollment and the Health Insurance Marketplace](https://hackernoon.com/a-guide-to-open-enrollment-and-the-health-insurance-marketplace-931h32j1)
-![](https://cdn.hackernoon.com/images/o13732xc.jpg)
-Navigating the American Health Insurance system is a little tricky. Many countries have what is called a single payer healthcare system covered by taxpayer dollars. Those taxes cover the costs of essential healthcare for all residents and are paid out by the government.
+### [158. A Primer to Fundraising Basics And How To Become Pitch Perfect](https://hackernoon.com/a-primer-to-fundraising-basics-and-how-to-become-pitch-perfect-gnk432s7)
+![](https://cdn.hackernoon.com/drafts/ewee3ybb.png)
+Often one of the biggest obstacles to starting a business is finding the capital to get your idea off the ground. Those who cannot turn to their own personal savings or borrow funds from family members or friends must turn to investors, funding organizations, or bank loans to raise startup funds.
 
-### [161. How Outsourcing Company Can Be Your Startup’s Best Friend](https://hackernoon.com/how-outsourcing-company-can-be-your-startups-best-friend-0z6f3wkk)
+### [159. 🎓 How I am Learning Sales as a Technical Founder](https://hackernoon.com/how-i-am-learning-sales-as-a-technical-founder-5g2f30v7)
+![](https://cdn.filestackcontent.com/ydKJynaETJmroOQZWNtz)
+As a first time founder embarking on my (intended to be a VC-backed) startup journey 🚀, I quickly realized there are a lot of skills that I need as a founder that I didn’t have. I was comfortable with talking to customers & product development due to my engineering background but I massively struggle with copywriting, marketing, and the most important one — Sales 💸.
+
+### [160. How Outsourcing Company Can Be Your Startup’s Best Friend](https://hackernoon.com/how-outsourcing-company-can-be-your-startups-best-friend-0z6f3wkk)
 ![](https://cdn.hackernoon.com/drafts/tj5x3ykr.png)
 As a founder, you are a specialist in your industry. You’ve had your “lightbulb moment”, the idea that will disrupt your industry with the use of technology.
 
-### [162. My Advice For Devpreneurs As A Coder Who Learned Marketing](https://hackernoon.com/my-advice-for-devpreneurs-as-a-coder-who-learned-marketing)
+### [161. My Advice For Devpreneurs As A Coder Who Learned Marketing](https://hackernoon.com/my-advice-for-devpreneurs-as-a-coder-who-learned-marketing)
 ![](https://cdn.hackernoon.com/images/BRN2xsZ5zFO2z6KH1EsQnajhOUH3-8w833sv.jpeg)
 People are less interested in what you built but more in how you did it and the rollercoaster ride along the way. The goal here is to master storytelling.
+
+### [162. A Guide to Open Enrollment and the Health Insurance Marketplace](https://hackernoon.com/a-guide-to-open-enrollment-and-the-health-insurance-marketplace-931h32j1)
+![](https://cdn.hackernoon.com/images/o13732xc.jpg)
+Navigating the American Health Insurance system is a little tricky. Many countries have what is called a single payer healthcare system covered by taxpayer dollars. Those taxes cover the costs of essential healthcare for all residents and are paid out by the government.
 
 ### [163. Negative Self-Talk - What's the Cure?](https://hackernoon.com/negative-self-talk-whats-the-cure)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-ey93qqb.gif.webp)
@@ -663,21 +665,21 @@ The Antidote for Negative Self-Talk
 ![](https://cdn.hackernoon.com/images/49gtebfTYLgqNVy1hBMKTwVfYdi1-m003aoj.jpeg)
 ﻿Gone are those days when tutoring was limited to offering private lessons to nearby students in the local region. Technology has completed changed the way tutoring was done, Covid-19 also had a major impact on the traditional form of tutoring.
 
-### [165. "We Are Rich Because We Are Free." - How Society Creates Entrepreneurs ](https://hackernoon.com/we-are-rich-because-we-are-free-how-society-creates-entrepreneurs-4r2q31cy)
-![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-t71g31su.jpeg)
-An economic perspective on how society allows a social contract to build entrepreneurs.
-
-### [166. The HackerNoon Newsletter: The Paradox of AI: If It Cant Replace us, Is It Making Us Dumber?  (10/18/2024)](https://hackernoon.com/10-18-2024-newsletter)
+### [165. The HackerNoon Newsletter: The Paradox of AI: If It Cant Replace us, Is It Making Us Dumber?  (10/18/2024)](https://hackernoon.com/10-18-2024-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_475_iicynlmnnoqtn2mknj25o7wt.png)
 10/18/2024: Top 5 stories on the HackerNoon homepage!
 
-### [167. How To Maintain Your Focus Whilst Running Multiple Businesses](https://hackernoon.com/how-to-maintain-your-focus-whilst-running-multiple-businesses)
-![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-i793h67.jpeg)
-Focusing your energy whilst managing multiple businesses.
+### [166. "We Are Rich Because We Are Free." - How Society Creates Entrepreneurs ](https://hackernoon.com/we-are-rich-because-we-are-free-how-society-creates-entrepreneurs-4r2q31cy)
+![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-t71g31su.jpeg)
+An economic perspective on how society allows a social contract to build entrepreneurs.
 
-### [168. The First Crucial Steps for an Entrepreneur](https://hackernoon.com/the-first-crucial-steps-for-an-entrepreneur)
+### [167. The First Crucial Steps for an Entrepreneur](https://hackernoon.com/the-first-crucial-steps-for-an-entrepreneur)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-hy93qfd.gif.webp)
 An Entrepreneur's First Crucial Steps
+
+### [168. How To Maintain Your Focus Whilst Running Multiple Businesses](https://hackernoon.com/how-to-maintain-your-focus-whilst-running-multiple-businesses)
+![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-i793h67.jpeg)
+Focusing your energy whilst managing multiple businesses.
 
 ### [169. How Shadow Work Can Change Your Life](https://hackernoon.com/how-shadow-work-can-change-your-life)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-vba3rlw.jpeg)
@@ -699,29 +701,29 @@ For the second year, members of our BIP Capital team came together in at the end
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-mba3jub.gif.webp)
 The state of the world in 2022 certainly calls for a little TLC from the business community.
 
-### [174. NASA Space Entrepreneur Releases Growth Hacking Secrets in New Book](https://hackernoon.com/nasa-space-entrepreneur-releases-growth-hacking-secrets-in-new-book-c93k31jb)
-![](https://cdn.hackernoon.com/images/1C28Kli3orY8IF7lmJCIqx5zES92-8f1131cr.jpeg)
-The new book Growth thinking — thinking, design growth hack is a blend of design thinking and modern modeling tools like business model canvas.
-
-### [175. Remote Meetings Basics](https://hackernoon.com/remote-meetings-basics-do1t3u81)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXu95yeuEbQVs6PQjEid54SrPOwg1-4t1z3ufy.jpeg?alt=media&token=aa3f26cb-81fe-42f6-80ac-de787aff8f80)
-Everyone does remote meetings nowadays! The culture has changed from having a room with people, drinking coffee, typing at their laptops and guiding discussions through the multitude of subject matters that they have to cover and resolve to… them doing the same thing BUT through their screens.
-
-### [176. Raising Capital For Your Business: First Steps To a Great Deal](https://hackernoon.com/raising-capital-for-your-business-first-steps-to-a-great-deal-a13z3vz6)
-![](https://cdn.hackernoon.com/drafts/syyd3yq0.png)
-Money, or lack of it, can make or break a startup. Period.
-
-### [177. Author Miki Agrawal to Drop a New Book by 2023](https://hackernoon.com/author-miki-agrawal-to-drop-a-new-book-by-2023)
+### [174. Author Miki Agrawal to Drop a New Book by 2023](https://hackernoon.com/author-miki-agrawal-to-drop-a-new-book-by-2023)
 ![](https://cdn.hackernoon.com/images/PeKkHDj3t1ZRpNvgRg3hQDvmCZH3-s893q6q.jpeg)
 Miki Agrawal, best-selling author of "Do Cool Sh*t" and "Disrupt-Her" discusses her new book, an affirmations book meant to inspire readers.
 
-### [178. A Helpful Guide of How to Successfully Hire and Manage a Dedicated Software Development Team](https://hackernoon.com/a-helpful-guide-of-how-to-successfully-hire-and-manage-a-dedicated-software-development-team-jj2333vp)
-![](https://cdn.hackernoon.com/images/vs58yHu80FMCBlLC590ASRmc8Hl1-w71c33qi.jpeg)
-In a nutshell, the dedicated team model means using a software development company to build a technical team according to requirements of your project.
+### [175. NASA Space Entrepreneur Releases Growth Hacking Secrets in New Book](https://hackernoon.com/nasa-space-entrepreneur-releases-growth-hacking-secrets-in-new-book-c93k31jb)
+![](https://cdn.hackernoon.com/images/1C28Kli3orY8IF7lmJCIqx5zES92-8f1131cr.jpeg)
+The new book Growth thinking — thinking, design growth hack is a blend of design thinking and modern modeling tools like business model canvas.
 
-### [179. From Zero to Hero: How to Build a Legendary Sales Team and Take Your Business to the Next Level](https://hackernoon.com/from-zero-to-hero-how-to-build-a-legendary-sales-team-and-take-your-business-to-the-next-level)
+### [176. Remote Meetings Basics](https://hackernoon.com/remote-meetings-basics-do1t3u81)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXu95yeuEbQVs6PQjEid54SrPOwg1-4t1z3ufy.jpeg?alt=media&token=aa3f26cb-81fe-42f6-80ac-de787aff8f80)
+Everyone does remote meetings nowadays! The culture has changed from having a room with people, drinking coffee, typing at their laptops and guiding discussions through the multitude of subject matters that they have to cover and resolve to… them doing the same thing BUT through their screens.
+
+### [177. Raising Capital For Your Business: First Steps To a Great Deal](https://hackernoon.com/raising-capital-for-your-business-first-steps-to-a-great-deal-a13z3vz6)
+![](https://cdn.hackernoon.com/drafts/syyd3yq0.png)
+Money, or lack of it, can make or break a startup. Period.
+
+### [178. From Zero to Hero: How to Build a Legendary Sales Team and Take Your Business to the Next Level](https://hackernoon.com/from-zero-to-hero-how-to-build-a-legendary-sales-team-and-take-your-business-to-the-next-level)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-dt93x77.jpeg)
 If there’s something I’ve learned from running my own business, it’s that you can’t – you simply can not – go it alone.
+
+### [179. A Helpful Guide of How to Successfully Hire and Manage a Dedicated Software Development Team](https://hackernoon.com/a-helpful-guide-of-how-to-successfully-hire-and-manage-a-dedicated-software-development-team-jj2333vp)
+![](https://cdn.hackernoon.com/images/vs58yHu80FMCBlLC590ASRmc8Hl1-w71c33qi.jpeg)
+In a nutshell, the dedicated team model means using a software development company to build a technical team according to requirements of your project.
 
 ### [180. The Gig Economy Revolution: Inspiring a New Generation of Entrepreneurs](https://hackernoon.com/the-gig-economy-revolution-inspiring-a-new-generation-of-entrepreneurs)
 ![](https://cdn.hackernoon.com/images/EAoWSsrWAFZTtjOYXmIuIN8lRBI2-5p92gd9.jpeg)
@@ -731,45 +733,45 @@ Trading a lifetime of employment for a bit of security and a 401k is no longer a
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYsKWy5A1K8QSjPI6ltOhjdakZit1-a4v3w33.jpeg?alt=media&token=868eb6d4-4e42-41c9-9c1f-d0a9b59b4a3c)
 Growing up and entering adulthood post-college, I always knew that I wanted to be in a position to help the Black community succeed and break barriers.
 
-### [182. Take The Lead's President Gloria Feldt Says Empthy is the Most Important Skill You’re Not Developing](https://hackernoon.com/take-the-leads-president-gloria-feldt-says-empthy-is-the-most-important-skill-youre-not-developing)
-![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-xx93pyl.jpeg)
-Gloria Feldt, President Of Take The Lead | The Most Important Skill That You’re Not Developing - Emp
-
-### [183. How to Protect Your Business in Times of Crisis](https://hackernoon.com/how-to-protect-your-business-in-times-of-crisis)
+### [182. How to Protect Your Business in Times of Crisis](https://hackernoon.com/how-to-protect-your-business-in-times-of-crisis)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-m493j2v.gif.webp)
 Protecting Your Business in Times of Crisis
 
-### [184. Interview with Shivam Singh: It is Important to Focus on What We Know](https://hackernoon.com/interview-with-shivam-singh-it-is-important-to-focus-on-what-we-know-3c1g3un1)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7v82rzh.jpeg)
-Shivam told his professional career focused on digital marketing. He runs TechGrits and Orient Digital Media.
+### [183. Take The Lead's President Gloria Feldt Says Empthy is the Most Important Skill You’re Not Developing](https://hackernoon.com/take-the-leads-president-gloria-feldt-says-empthy-is-the-most-important-skill-youre-not-developing)
+![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-xx93pyl.jpeg)
+Gloria Feldt, President Of Take The Lead | The Most Important Skill That You’re Not Developing - Emp
 
-### [185. What Can Managers do to Really Help Their People?](https://hackernoon.com/what-can-managers-do-to-really-help-their-people)
+### [184. What Can Managers do to Really Help Their People?](https://hackernoon.com/what-can-managers-do-to-really-help-their-people)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-8d93rgz.jpeg)
 Management Manifesto: How Managers Can Really Help Their People
+
+### [185. Interview with Shivam Singh: It is Important to Focus on What We Know](https://hackernoon.com/interview-with-shivam-singh-it-is-important-to-focus-on-what-we-know-3c1g3un1)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7v82rzh.jpeg)
+Shivam told his professional career focused on digital marketing. He runs TechGrits and Orient Digital Media.
 
 ### [186. Building Toffee: How I’m Tackling the Messy Truth About Debt, One Line of Code at a Time](https://hackernoon.com/building-toffee-how-im-tackling-the-messy-truth-about-debt-one-line-of-code-at-a-time)
 ![](https://cdn.hackernoon.com/images/fYVbYndEJLfYQQm4S9QdpdLRZVD3-5s038vz.png)
 Toffee is a debt tracking and management app designed to turn financial stress into momentum. 
 
-### [187. Ways to Use Images in Your Marketing Campaigns](https://hackernoon.com/ways-to-use-images-in-your-marketing-campaigns)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-u993w1y.jpeg)
-Images are critical to the success of your campaign due to their huge impact on emotions.
+### [187. The Art and Science of Wealth Transfer: Ensuring Your Fortune Remains Yours](https://hackernoon.com/the-art-and-science-of-wealth-transfer-ensuring-your-fortune-remains-yours)
+![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-tt93xaw.jpeg)
+How To Make Sure Your Family Wealth Stays Yours: The Secrets of Wealth Transfer
 
 ### [188. Unlocking PR: How Businesses Can Conquer Their Publicity Phobias](https://hackernoon.com/unlocking-pr-how-businesses-can-conquer-their-publicity-phobias)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-06020fu.jpeg)
 Businesses want it—but they’re afraid of it.
 
-### [189. The Art and Science of Wealth Transfer: Ensuring Your Fortune Remains Yours](https://hackernoon.com/the-art-and-science-of-wealth-transfer-ensuring-your-fortune-remains-yours)
-![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-tt93xaw.jpeg)
-How To Make Sure Your Family Wealth Stays Yours: The Secrets of Wealth Transfer
+### [189. Ways to Use Images in Your Marketing Campaigns](https://hackernoon.com/ways-to-use-images-in-your-marketing-campaigns)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-u993w1y.jpeg)
+Images are critical to the success of your campaign due to their huge impact on emotions.
 
-### [190. How to Remain Resilient As an Entrepreneur During COVID-19 Pandemic](https://hackernoon.com/how-to-remain-resilient-as-an-entrepreneur-during-covid-19-pandemic-l6l3uba)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEhc03Nu27INkYbM7bi5kpe7qFtI2-493k16pd.png?alt=media&token=ff65c1f7-d229-45f5-95a0-7fc40ff4fbbc)
-These are weird and unsure times in which we live. And while the full effect on our health by the corona virus is not completely established or understood, it is now having significant stress on the economy,the businesses and our personal finances.
-
-### [191. Justin Welsh Explains the 30-30-30 Method: How to Make More Money by Talking to Your Customers](https://hackernoon.com/justin-welsh-explains-the-30-30-30-method-how-to-make-more-money-by-talking-to-your-customers)
+### [190. Justin Welsh Explains the 30-30-30 Method: How to Make More Money by Talking to Your Customers](https://hackernoon.com/justin-welsh-explains-the-30-30-30-method-how-to-make-more-money-by-talking-to-your-customers)
 ![](https://cdn.hackernoon.com/images/talking-to-the-customer-clialiro6000301s62fvf2zjm.png)
 What is the 30-30-30 Method? A simple framework to make sure you're working on 3 specific levers that will deepen your knowledge of customer pain and problems.
+
+### [191. How to Remain Resilient As an Entrepreneur During COVID-19 Pandemic](https://hackernoon.com/how-to-remain-resilient-as-an-entrepreneur-during-covid-19-pandemic-l6l3uba)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEhc03Nu27INkYbM7bi5kpe7qFtI2-493k16pd.png?alt=media&token=ff65c1f7-d229-45f5-95a0-7fc40ff4fbbc)
+These are weird and unsure times in which we live. And while the full effect on our health by the corona virus is not completely established or understood, it is now having significant stress on the economy,the businesses and our personal finances.
 
 ### [192. Financial Modeling: Key Importance Tips to Build Your Winning Model](https://hackernoon.com/financial-modeling-key-importance-tips-to-build-your-winning-model)
 ![](https://cdn.hackernoon.com/images/financial-modeling-jk29ose6xxuqb2ed27ww7gd0.png)
@@ -779,79 +781,79 @@ Financial modeling is a critical tool for informed decision-making and strategic
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-v0a3h95.gif.webp)
 Company Culture: Future-Proofing Your Startup Venture
 
-### [194. How to Be a Vulnerable Entrepreneur: Kara Goldin's Success Story](https://hackernoon.com/how-to-be-a-vulnerable-entrepreneur-kara-goldins-success-story)
+### [194. The Loneliness Epidemic: Overcoming Loneliness as an Entrepreneur in a Highly Connected Era](https://hackernoon.com/the-loneliness-epidemic-overcoming-loneliness-as-an-entrepreneur-in-a-highly-connected-era)
+![](https://cdn.hackernoon.com/images/loneliness-wjdbr9aux33drf9sduwu99ln.png)
+Even with the rise of the Internet of Things and the digitalization of our communication efforts, more people are experiencing high levels of loneliness.
+
+### [195. How to Be a Vulnerable Entrepreneur: Kara Goldin's Success Story](https://hackernoon.com/how-to-be-a-vulnerable-entrepreneur-kara-goldins-success-story)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-tz93hbj.jpeg)
 On the Success Story podcast last month, I was fortunate enough to share an enlightening conversation with the delightful Kara Goldin.
 
-### [195. How You Can Discover Your Unknown Knowns](https://hackernoon.com/how-to-discover-your-unknown-knowns-2u17e3zfl)
+### [196. How You Can Discover Your Unknown Knowns](https://hackernoon.com/how-to-discover-your-unknown-knowns-2u17e3zfl)
 ![](https://cdn.hackernoon.com/drafts/ye17b3zfe.png)
 If you feel like you suffer from imposter syndrome, comprehension gaps or a decrease in personal growth, it may be time to hit the yellow brick road.
-
-### [196. The Loneliness Epidemic: Overcoming Loneliness as an Entrepreneur in a Highly Connected Era](https://hackernoon.com/the-loneliness-epidemic-overcoming-loneliness-as-an-entrepreneur-in-a-highly-connected-era)
-![](https://cdn.hackernoon.com/images/loneliness-wjdbr9aux33drf9sduwu99ln.png)
-Even with the rise of the Internet of Things and the digitalization of our communication efforts, more people are experiencing high levels of loneliness.
 
 ### [197. The Hidden Cost of Hypergrowth: Scale Without Sacrificing Stability](https://hackernoon.com/the-hidden-cost-of-hypergrowth-scale-without-sacrificing-stability)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-ex83emd.jpeg)
 Discover the secrets to sustainable growth and avoid the pitfalls of hypergrowth with insights from Karl Alomar on structure, leadership, and culture in startup
 
-### [198. Perpetually Exhausted? There’s a Reason for It](https://hackernoon.com/perpetually-exhausted-theres-a-reason-for-it)
-![](https://cdn.hackernoon.com/images/a-middle-aged-person-exhausted-after-a-whole-day-of-work-clgyziymm000201s66n7a6v6h.png)
-Microstress is something much more nuanced and complex. It's an insidious toxin lurking in your own backyard – and it comes from interacting with those........
-
-### [199. Facing Tech Talent Shortage in Your Startup? Build Global Teams](https://hackernoon.com/facing-tech-talent-shortage-in-your-startup-build-global-teams)
+### [198. Facing Tech Talent Shortage in Your Startup? Build Global Teams](https://hackernoon.com/facing-tech-talent-shortage-in-your-startup-build-global-teams)
 ![](https://cdn.hackernoon.com/images/9hrQL3J23SNGD6PKHwq9tBzScg62-3593y6r.jpeg)
 Are you an entrepreneur struggling to find the right tech talent for your startup? Here is how global teams can save you from tech talent shortage.
 
-### [200. Embracing Imperfection: Being Okay with Okay (For Now)](https://hackernoon.com/embracing-imperfection-being-okay-with-okay-for-now)
-![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-w593prw.jpeg)
-For a lot of people, there is a hesitation to try anything at all. Well, you know who I don’t interview? Someone who never even tried. 
+### [199. Perpetually Exhausted? There’s a Reason for It](https://hackernoon.com/perpetually-exhausted-theres-a-reason-for-it)
+![](https://cdn.hackernoon.com/images/a-middle-aged-person-exhausted-after-a-whole-day-of-work-clgyziymm000201s66n7a6v6h.png)
+Microstress is something much more nuanced and complex. It's an insidious toxin lurking in your own backyard – and it comes from interacting with those........
 
-### [201. Startup Disrupt: Positive Disruption of Society and the Commercial Sphere](https://hackernoon.com/startup-disrupt-positive-disruption-of-society-and-the-commercial-sphere-lq4e3ygt)
+### [200. Startup Disrupt: Positive Disruption of Society and the Commercial Sphere](https://hackernoon.com/startup-disrupt-positive-disruption-of-society-and-the-commercial-sphere-lq4e3ygt)
 ![](https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Startup Disrupt has become a part of the Czech startup world. This platform for startups aims to educate, inspire and connect entrepreneurs, startups, mentors, technology innovators as well as investors and corporations not only in the Czech Republic but also within the startup communities around the world. This initiative has been launched by Patrik Juránek who already built a chapters for global startup communities in past.
 
-### [202. How to Build a Technical Blogging Platform with David Smooke and Clever Programming ](https://hackernoon.com/how-to-build-a-technical-blogging-platform-with-david-smooke-and-clever-programming-tz9g3795)
-![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-x3d3o9y.jpeg)
-In this video, Naz will be interviewing the CEO of Hackernoon, David Smooke. Tune in for some insights!
+### [201. Embracing Imperfection: Being Okay with Okay (For Now)](https://hackernoon.com/embracing-imperfection-being-okay-with-okay-for-now)
+![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-w593prw.jpeg)
+For a lot of people, there is a hesitation to try anything at all. Well, you know who I don’t interview? Someone who never even tried. 
+
+### [202. John Climaco Talks About Defining Your Legacy As An Entrepreneur](https://hackernoon.com/john-climaco-talks-about-defining-your-legacy-as-an-entrepreneur)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-vs93yk0.jpeg)
+John Climaco | Defining Your Legacy As An Entrepreneur
 
 ### [203. Meet the Writer: Entrepreneur Mathew Georghiou](https://hackernoon.com/meet-the-writer-entrepreneur-mathew-georghiou)
 ![](https://cdn.hackernoon.com/images/TAcCKU24TqNqpYfO6fsbznnOcgj2-6b139im.jpeg)
 Mathew Georghiou — CEO, entrepreneur, engineer, inventor, writer. 
 
-### [204. John Climaco Talks About Defining Your Legacy As An Entrepreneur](https://hackernoon.com/john-climaco-talks-about-defining-your-legacy-as-an-entrepreneur)
-![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-vs93yk0.jpeg)
-John Climaco | Defining Your Legacy As An Entrepreneur
+### [204. How to Build a Technical Blogging Platform with David Smooke and Clever Programming ](https://hackernoon.com/how-to-build-a-technical-blogging-platform-with-david-smooke-and-clever-programming-tz9g3795)
+![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-x3d3o9y.jpeg)
+In this video, Naz will be interviewing the CEO of Hackernoon, David Smooke. Tune in for some insights!
 
-### [205. Is Idea Validation Broken? How I Learned Users Don’t Always Mean What They Click](https://hackernoon.com/is-idea-validation-broken-how-i-learned-users-dont-always-mean-what-they-click)
-![](https://cdn.hackernoon.com/images/4F3kOOLk5DPjpqEhhxfgySIZugR2-4533eak.jpeg)
-Discover why traditional idea validation often fails — and how clicks can mislead you. 
-
-### [206. The Noonification: We Need to Stop Glamorizing Exhaustion (5/25/2023)](https://hackernoon.com/5-25-2023-noonification)
+### [205. The Noonification: We Need to Stop Glamorizing Exhaustion (5/25/2023)](https://hackernoon.com/5-25-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 5/25/2023: Top 5 stories on the Hackernoon homepage!
 
-### [207. How Early IPOs Can Transform Customers Into Evangelists](https://hackernoon.com/how-early-ipos-can-transform-customers-into-evangelists)
+### [206. How Early IPOs Can Transform Customers Into Evangelists](https://hackernoon.com/how-early-ipos-can-transform-customers-into-evangelists)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-7p93uyg.jpeg)
 Taking a company public is a massive undertaking and can be the wrong move for some businesses.
 
-### [208. The Noonification: To Guarantee Your Success, You Have to Burn Your Boats (8/24/2023)](https://hackernoon.com/8-24-2023-noonification)
+### [207. The Noonification: To Guarantee Your Success, You Have to Burn Your Boats (8/24/2023)](https://hackernoon.com/8-24-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_424_g0l4vrrs10v5nru03cj5dpvi.png)
 8/24/2023: Top 5 stories on the Hackernoon homepage!
 
-### [209. Business Digitalization Introduces Additional Cyber Threats To Be Aware Of](https://hackernoon.com/business-digitalization-introduces-additional-cyber-threats-to-be-aware-of-kq4735gh)
+### [208. Business Digitalization Introduces Additional Cyber Threats To Be Aware Of](https://hackernoon.com/business-digitalization-introduces-additional-cyber-threats-to-be-aware-of-kq4735gh)
 ![](https://cdn.hackernoon.com/images/WzF50ojaqPMB0fYKKl9jMrw1oCz1-ell3swq.png)
 This new wave of business digitalization increased the number of cyber attacks - the so-called cyber pandemic began.
 
-### [210. Tech Start-up Insights From Turing Fest 2019](https://hackernoon.com/tech-start-up-insights-from-turing-fest-2019-w9363zol)
+### [209. Tech Start-up Insights From Turing Fest 2019](https://hackernoon.com/tech-start-up-insights-from-turing-fest-2019-w9363zol)
 ![](https://cdn.hackernoon.com/drafts/kk4r3zfz.png)
 From growth leaders from Shopify, UnBounce, Yoast and Monzo.
+
+### [210. Boulevard of Broken Dreams: What Happens After Your First Failure](https://hackernoon.com/boulevard-of-broken-dreams-what-happens-after-your-first-failure)
+![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-oj93ofv.jpeg)
+Bouncing Back From Broken Dreams: What Happens After Your First Failure
 
 ### [211. This Is How Old These Billionaires Where When They Earned Their First Billion](https://hackernoon.com/this-is-how-old-these-billionaires-where-when-they-earned-their-first-billion)
 ![](https://cdn.hackernoon.com/images/billionaires-pwu8upbcqx3qzxw38f792uqc.png)
 Andrew Lokenauth details when these billionaires earned their first billion.
 
-### [212. Boulevard of Broken Dreams: What Happens After Your First Failure](https://hackernoon.com/boulevard-of-broken-dreams-what-happens-after-your-first-failure)
-![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-oj93ofv.jpeg)
-Bouncing Back From Broken Dreams: What Happens After Your First Failure
+### [212. Is Idea Validation Broken? How I Learned Users Don’t Always Mean What They Click](https://hackernoon.com/is-idea-validation-broken-how-i-learned-users-dont-always-mean-what-they-click)
+![](https://cdn.hackernoon.com/images/4F3kOOLk5DPjpqEhhxfgySIZugR2-4533eak.jpeg)
+Discover why traditional idea validation often fails — and how clicks can mislead you. 
 

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [mongodb](https://hackernoon.com/tagged/mongodb)
+### Let's learn about [Mongodb](https://hackernoon.com/tagged/mongodb) via these 114 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+MongoDB is a popular NoSQL database that stores data in flexible, JSON-like documents, ideal for handling large volumes of unstructured data and offering high scalability and performance. It matters by providing a agile and powerful solution for modern applications that require flexible data models and horizontal scaling.
+
 ### [1. Building a MongoDB NoSQL E-Commerce Data Model](https://hackernoon.com/building-a-mongodb-nosql-e-commerce-data-model-fn8135bc)
 ![](https://cdn.hackernoon.com/images/luNcoaJnkJhoplfHFMeY40nJYoJ3-jl4y33hc.jpeg)
 MongoDB supports ACID transactions, and its cloud offering is PCI DSS compliant. It's one of the best NoSQL options for e-commerce.
@@ -206,21 +210,21 @@ Do we need all of this just to run a couple of integration tests for the databas
 ![](https://cdn.hackernoon.com/images/todo-list-cl9ec1f9ylyi6imtxqo61hhe.png)
 Many have wondered how a simple task sheet or applications that provide such functionality work. In this article, we will write a small TODO service.
 
-### [52. How I build Coronavirus Tracking Application](https://hackernoon.com/how-i-build-coronavirus-tracking-application-t44g3yrg)
+### [52. Essential Databases Every Developer Should Be Familiar With](https://hackernoon.com/essential-databases-every-developer-should-be-familiar-with)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-8d93rt6.jpeg)
+Here's that every kind of database that every developer to know about.
+
+### [53. Improving Our MongoDB Write Throughput with SQS](https://hackernoon.com/improving-our-mongodb-write-throughput-with-sqs)
+![](https://cdn.hackernoon.com/images/OvwuoiazfhadPwHa8D5XpI6E8eu2-qi03738.jpeg)
+Deep dive on how we got our MongoDB load at a steady sub 50% CPU load by using an SQS layer between our Node application and the database to save costs.
+
+### [54. How I build Coronavirus Tracking Application](https://hackernoon.com/how-i-build-coronavirus-tracking-application-t44g3yrg)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-pc82rgl.jpeg)
 What is Coronavirus (COVID-19)?
 
 Coronavirus (COVID-19) which is an infectious disease caused by respiratory illness and symptoms like flu, cough, fever, difficulty breathing, on December 31, 2019, the first case was recorded in Wuhan, China and later the virus got spread around the world and as of now, around 1 million+ confirmed cases are being recorded since then.
 
 You can protect yourself from this virus by following basic precautions like washing your hand frequently, avoid touching your face, maintaining a distance of (1 meter or 3 feet) between people and most importantly if you are sick then immediately call for medical help at your nearest hospital.
-
-### [53. Essential Databases Every Developer Should Be Familiar With](https://hackernoon.com/essential-databases-every-developer-should-be-familiar-with)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-8d93rt6.jpeg)
-Here's that every kind of database that every developer to know about.
-
-### [54. Improving Our MongoDB Write Throughput with SQS](https://hackernoon.com/improving-our-mongodb-write-throughput-with-sqs)
-![](https://cdn.hackernoon.com/images/OvwuoiazfhadPwHa8D5XpI6E8eu2-qi03738.jpeg)
-Deep dive on how we got our MongoDB load at a steady sub 50% CPU load by using an SQS layer between our Node application and the database to save costs.
 
 ### [55. InfluxDB: From Open Source Time Series Database to Millions in Revenue](https://hackernoon.com/influxdb-from-open-source-time-series-database-to-millions-in-revenue-av2433e2)
 ![](https://cdn.hackernoon.com/images/mvOkYqAhoLOSxkr5SCJA5giaxJY2-kzla33gt.png)
@@ -246,13 +250,13 @@ Take your Node.js skills to the next level with our top 10 library picks! Stream
 ![](https://cdn.hackernoon.com/drafts/0312q3668.png)
 Are you trying to decide if you should use MongoDB or DocumentDB? With the recent controversy surrounding licensing with MongoDB, it can be confusing to decide which option is right for your company or project. Amazon decided the core MongoDB code is challenging to scale while remaining highly available. Amazon wrote their implementation, which is compatible with the Apache 2.0 open source MongoDB 3.6 API. MongoDB, Inc. has also recently changed their license to make future imitations more difficult. To do this, they created an entirely new license called the Server Side Public License.
 
-### [61. Design for E-Commerce Apps Using a NoSQL Database](https://hackernoon.com/design-for-e-commerce-apps-using-a-nosql-database-qz2p310f)
-![](https://cdn.hackernoon.com/images/IroSf6EnlyPFluZD7T6u8Nu07vM2-1ir31n5.jpeg)
-Working with a lot of data like products, orders, categories, users and payments is a very important topic when building e-commerce applications. In this post you'll learn the very basics of structuring your noSQL schema so it's fast and scalable for e-commerce scenarios.
-
-### [62. Efficient File Uploads in Node.js: Using Express, MongoDB, and GridFS for Scalable Storage](https://hackernoon.com/efficient-file-uploads-in-nodejs-using-express-mongodb-and-gridfs-for-scalable-storage)
+### [61. Efficient File Uploads in Node.js: Using Express, MongoDB, and GridFS for Scalable Storage](https://hackernoon.com/efficient-file-uploads-in-nodejs-using-express-mongodb-and-gridfs-for-scalable-storage)
 ![](https://cdn.hackernoon.com/images/bHnRlPu5SmfrpVa2FZEtXZIAmpl1-cz03g9v.png)
 Learn how to efficiently handle file uploads in Node.js using Express, MongoDB, and GridFS to ensure scalability, security, and seamless file management.
+
+### [62. Design for E-Commerce Apps Using a NoSQL Database](https://hackernoon.com/design-for-e-commerce-apps-using-a-nosql-database-qz2p310f)
+![](https://cdn.hackernoon.com/images/IroSf6EnlyPFluZD7T6u8Nu07vM2-1ir31n5.jpeg)
+Working with a lot of data like products, orders, categories, users and payments is a very important topic when building e-commerce applications. In this post you'll learn the very basics of structuring your noSQL schema so it's fast and scalable for e-commerce scenarios.
 
 ### [63. MongoDB vs. DynamoDB: Choosing the Best Database for Your Business](https://hackernoon.com/mongodb-vs-dynamodb-choosing-the-best-database-for-your-business-oqh34gv)
 ![](https://cdn.hackernoon.com/images/n9uGIYN6nPa0y5U5xpRtPWt8jx52-ge934rx.jpeg)
@@ -270,13 +274,13 @@ and ever since then we never look at a kitty the same way again. meow!
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOoBDSa6OtHPQUbU7EghoxojLgWo1-3f403xxg.jpeg?alt=media&token=95a88f70-7d00-4e65-8928-2a4830355c8b)
 Let us learn about MongoDB, Mongoose, Node, and other tech by building a simple URL shortener project.
 
-### [67. Using C# To Delete Documents From MongoDB](https://hackernoon.com/using-c-to-delete-documents-from-mongodb)
-![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-bm835as.jpeg)
-See code examples for how to delete documents from MongoDB in C#. This article covers the basics of different methods you can use to delete records from Mongo!
-
-### [68. 8 Tools You Can Use to Analyze Big Data](https://hackernoon.com/8-tools-you-can-use-to-analyze-big-data-3vvp3asb)
+### [67. 8 Tools You Can Use to Analyze Big Data](https://hackernoon.com/8-tools-you-can-use-to-analyze-big-data-3vvp3asb)
 ![](https://cdn.hackernoon.com/drafts/oar37rz.png)
 An essential part of modern business, no matter what the industry, is Big Data - sets of copious amounts of data that reveal much in terms of trends and patterns regarding human behavior and interaction. 
+
+### [68. Using C# To Delete Documents From MongoDB](https://hackernoon.com/using-c-to-delete-documents-from-mongodb)
+![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-bm835as.jpeg)
+See code examples for how to delete documents from MongoDB in C#. This article covers the basics of different methods you can use to delete records from Mongo!
 
 ### [69. Meet MongoDB: HackerNoon Company of the Week](https://hackernoon.com/meet-mongodb-hackernoon-company-of-the-week)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-e902qgm.png)
@@ -298,29 +302,29 @@ So, there are tonnes of jargon, commands, processes that we follow blindly after
 ![](https://cdn.hackernoon.com/images/eEKnKNvz4GhzakXZkv2SzcmgnG73-nn134h7.png)
 This text is a practical guide to performing basic operations in MongoDB. It focuses on essential topics like CRUD operations (Create, Read, Update, Delete) 
 
-### [74. A DIY Guide to Building an Analytics Dashboard with Node, Express, and Cube.js](https://hackernoon.com/node-express-analytics-dashboard-with-cubejs-og8ne3sqa)
-![](https://cdn.hackernoon.com/images/q78nb3spq.jpg)
-In the following tutorial, I’ll show you how to create a basic analytics dashboard with Node, Express, and Cube.js. As a database, we’re going to use MongoDB with MongoDB BI Connector. If you’re not familiar with it, I highly recommend you go through the Building a MongoDB Dashboard tutorial. It covers the basics of setting up Mongo and its BI Connector.
-
-### [75. Django MongoDB Backend Quickstart: Everything You Need to Know](https://hackernoon.com/django-mongodb-backend-quickstart-everything-you-need-to-know)
+### [74. Django MongoDB Backend Quickstart: Everything You Need to Know](https://hackernoon.com/django-mongodb-backend-quickstart-everything-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/cQw7KuFmcaauwZH8luWpnCl5PKF2-2f03lk4.webp)
 Follow the quickstart to create a Django application, connect that application to a MongoDB deployment, and interact with the data stored in your database.
+
+### [75. Boost MongoDB Performance: Motor Client vs PyMongo - Which is Faster?](https://hackernoon.com/boost-mongodb-performance-motor-client-vs-pymongo-which-is-faster)
+![](https://cdn.hackernoon.com/images/AKDc0p7ZDncP6OQbnTDbvHt6mVE2-mw8375w.png)
+To illustrate the performance differences, I prepared a stress test using two scripts: one using Motor (asynchronous) and the other using PyMongo (synchronous).
 
 ### [76. VoidZero, The New ESLint, MongoDB 8.0, and More - This Week in JS](https://hackernoon.com/voidzero-the-new-eslint-mongodb-80-and-more-this-week-in-js)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-ta031j1.png)
 This week, we have exciting updates that will make your development workflow smoother and faster. 
 
-### [77. A Brief Introduction to MongoDB](https://hackernoon.com/a-brief-introduction-to-mongo-db)
+### [77. A DIY Guide to Building an Analytics Dashboard with Node, Express, and Cube.js](https://hackernoon.com/node-express-analytics-dashboard-with-cubejs-og8ne3sqa)
+![](https://cdn.hackernoon.com/images/q78nb3spq.jpg)
+In the following tutorial, I’ll show you how to create a basic analytics dashboard with Node, Express, and Cube.js. As a database, we’re going to use MongoDB with MongoDB BI Connector. If you’re not familiar with it, I highly recommend you go through the Building a MongoDB Dashboard tutorial. It covers the basics of setting up Mongo and its BI Connector.
+
+### [78. A Brief Introduction to MongoDB](https://hackernoon.com/a-brief-introduction-to-mongo-db)
 ![](https://cdn.hackernoon.com/images/MPQxyfch0lZHKZM3k3hMies8Fpv1-9s47383i.jpeg)
 MongoDB is a document-oriented NoSQL database for storing large amounts of data. MongoDB uses collections and documents instead of tables and rows
 
-### [78. MERN Stack: A Guide for New Developers](https://hackernoon.com/mern-stack-a-guide-for-new-developers)
+### [79. MERN Stack: A Guide for New Developers](https://hackernoon.com/mern-stack-a-guide-for-new-developers)
 ![](https://cdn.hackernoon.com/images/PsLSGWDqvwRwRu86Yijli0LDi782-kh03vv3.jpeg)
 Setting up a MERN stack application efficiently, leveraging a pre-configured repository and streamlined development environment management.
-
-### [79. Boost MongoDB Performance: Motor Client vs PyMongo - Which is Faster?](https://hackernoon.com/boost-mongodb-performance-motor-client-vs-pymongo-which-is-faster)
-![](https://cdn.hackernoon.com/images/AKDc0p7ZDncP6OQbnTDbvHt6mVE2-mw8375w.png)
-To illustrate the performance differences, I prepared a stress test using two scripts: one using Motor (asynchronous) and the other using PyMongo (synchronous).
 
 ### [80. NoSQL: A Brief History and the DynamoDB Challenge](https://hackernoon.com/nosql-a-brief-history-and-the-dynamodb-challenge-7c2u34b8)
 ![](https://cdn.hackernoon.com/images/WX99GHnVfDMBAnJiau9thEHb71i1-681a3wjz.jpeg)
@@ -330,21 +334,21 @@ Dynamo accelerated the NoSQL revolution that’s driving the database industry.
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-7m835h7.jpeg)
 Curious about C# MongoDB insert benchmarks? In this article, I show you BenchmarkDotNet code and the results for several variations of inserting data!
 
-### [82. Easily Run Local Databases Using C# Testcontainers for MongoDB](https://hackernoon.com/easily-run-local-databases-using-c-testcontainers-for-mongodb)
-![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-0t835x7.jpeg)
-Learn how to use C# Testcontainers for MongoDB! If you're developing a dotnet application and want to use MongoDB, Testcontainers can be a HUGE asset!
+### [82. 🔥here's How I Built a Stunning Chat App With React 🚀](https://hackernoon.com/heres-how-i-built-a-stunning-chat-app-with-react)
+![](https://cdn.hackernoon.com/images/GPJ76xULl7geuFTrXbplNnbeQCf2-iu036ec.jpeg)
+Realtime Chat App built using React.js, Node.js, Socket.io, Express and MongoDB. This chat app is also responsive. 
 
-### [83. Building a Task Manager API with NodeJS, Express, MongoDB, and Heroku](https://hackernoon.com/building-a-task-manager-api-with-nodejs-express-mongodb-and-heroku)
-![](https://cdn.hackernoon.com/images/3fqF3O1TlWgiNvnKd6ig6aFrCtW2-g492r0z.jpeg)
-This article provides a step-by-step guide on how to build and deploy a Task Manager API using popular technologies such as NodeJS, Express, MongoDB, and Heroku
-
-### [84. How to Connect MongoDB(4.2.10) and MongoDB Compass Locally](https://hackernoon.com/how-to-connect-mongodb4210-and-mongodb-compass-locally-mhu31ws)
+### [83. How to Connect MongoDB(4.2.10) and MongoDB Compass Locally](https://hackernoon.com/how-to-connect-mongodb4210-and-mongodb-compass-locally-mhu31ws)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fw13wkpgEqlQcx2vj0AzBLo66a4n1-5o2d3xhm.jpeg?alt=media&token=d7664f30-2781-4e80-8126-e0f00fa64dec)
 What is MongoDB?
 
-### [85. 🔥here's How I Built a Stunning Chat App With React 🚀](https://hackernoon.com/heres-how-i-built-a-stunning-chat-app-with-react)
-![](https://cdn.hackernoon.com/images/GPJ76xULl7geuFTrXbplNnbeQCf2-iu036ec.jpeg)
-Realtime Chat App built using React.js, Node.js, Socket.io, Express and MongoDB. This chat app is also responsive. 
+### [84. Easily Run Local Databases Using C# Testcontainers for MongoDB](https://hackernoon.com/easily-run-local-databases-using-c-testcontainers-for-mongodb)
+![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-0t835x7.jpeg)
+Learn how to use C# Testcontainers for MongoDB! If you're developing a dotnet application and want to use MongoDB, Testcontainers can be a HUGE asset!
+
+### [85. Building a Task Manager API with NodeJS, Express, MongoDB, and Heroku](https://hackernoon.com/building-a-task-manager-api-with-nodejs-express-mongodb-and-heroku)
+![](https://cdn.hackernoon.com/images/3fqF3O1TlWgiNvnKd6ig6aFrCtW2-g492r0z.jpeg)
+This article provides a step-by-step guide on how to build and deploy a Task Manager API using popular technologies such as NodeJS, Express, MongoDB, and Heroku
 
 ### [86. SQL Databases Vs. NOSQL Databases](https://hackernoon.com/sql-databases-vs-nosql-databases-ja3g3yy9)
 ![](https://cdn.hackernoon.com/drafts/i61hj2ep2.png)
@@ -358,41 +362,41 @@ Master the art of deploying MongoDB sharded clusters with Ansible—a detailed s
 ![](https://cdn.hackernoon.com/images/ya113ytm.jpg)
 In the past few months we have been getting this question a lot:
 
-### [89. The Pros and Cons of NoSQL](https://hackernoon.com/the-pros-and-cons-of-nosql-391l3268)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-l41b35au.jpeg)
-Learn how NoSQL differs from SQL and how it's built for high performance and availability. And no, it doesn't stand for "No SQL".
-
-### [90. Breaking Down MSON Template Queries](https://hackernoon.com/breaking-down-mson-template-queries-mw1133g7)
+### [89. Breaking Down MSON Template Queries](https://hackernoon.com/breaking-down-mson-template-queries-mw1133g7)
 ![](https://cdn.hackernoon.com/images/fNaodJx94rhQL6VmzGVbEo8jA692-0igd3397.jpeg)
 Template Queries are dynamic templates constructed with MongoDB-style operators, which allow you to customize MSON components with less code.
 
-### [91. How to Run Node.js with MongoDB [Tutorial]](https://hackernoon.com/how-to-run-nodejs-with-mongodb-xck32ry)
-![](https://images.unsplash.com/photo-1483736762161-1d107f3c78e1?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Many of today’s web applications use node.js in conjunction with MongoDB to store and access data on the backend server. Not only does node.js excel in ease of access to non-relational databases like MongoDB, but brings scalability and speed to the server side of your app.
+### [90. The Pros and Cons of NoSQL](https://hackernoon.com/the-pros-and-cons-of-nosql-391l3268)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-l41b35au.jpeg)
+Learn how NoSQL differs from SQL and how it's built for high performance and availability. And no, it doesn't stand for "No SQL".
 
-### [92. Making Cooking a Breeze By Building Your Own Recipe Finder With Nodejs](https://hackernoon.com/making-cooking-a-breeze-by-building-your-own-recipe-finder-with-nodejs)
+### [91. Making Cooking a Breeze By Building Your Own Recipe Finder With Nodejs](https://hackernoon.com/making-cooking-a-breeze-by-building-your-own-recipe-finder-with-nodejs)
 ![](https://cdn.hackernoon.com/images/VpqwpmMoRqMPXNlXJRe5FxKgjwn2-i6236ux.png)
 The Recipe Finder API is a versatile solution for efficiently storing and retrieving recipes based on ingredients, dietary needs, and other preferences.
 
-### [93. Self-Healing Infrastructure Could Be the Future of Data Management](https://hackernoon.com/self-healing-infrastructure-could-be-the-future-of-data-management)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o802wp0.jpeg)
-AI-driven automation in database management transforms reactive ops into predictive, self-healing systems for scale, reliability, and performance.
+### [92. How to Run Node.js with MongoDB [Tutorial]](https://hackernoon.com/how-to-run-nodejs-with-mongodb-xck32ry)
+![](https://images.unsplash.com/photo-1483736762161-1d107f3c78e1?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Many of today’s web applications use node.js in conjunction with MongoDB to store and access data on the backend server. Not only does node.js excel in ease of access to non-relational databases like MongoDB, but brings scalability and speed to the server side of your app.
 
-### [94. I Tried Every Open Source Database and Found Only One That is Actually Useful](https://hackernoon.com/i-tried-every-open-source-database-and-found-only-one-that-is-actually-useful)
-![](https://cdn.hackernoon.com/images/n46TzZ1AaqbEkZzpTB21rYVJHNG3-cd03aig.png)
-Let's walk through this journey. My journey. Maybe it helps someone else avoid the same database-induced headache.
-
-### [95. How to Change Parameters of a Server at Runtime](https://hackernoon.com/how-to-change-parameters-of-a-server-at-runtime)
-![](https://cdn.hackernoon.com/images/wbpx3HjpyqPKnyTWEn9WMG6yYUA2-i1a3p2l.jpeg)
-Implementation of business configuration provider tips. Java, Spring and MongoDB in action
-
-### [96. CP Systems Explained, Part 2: Quorums, Consensus, and the Price of Being Right](https://hackernoon.com/cp-systems-explained-part-2-quorums-consensus-and-the-price-of-being-right)
+### [93. CP Systems Explained, Part 2: Quorums, Consensus, and the Price of Being Right](https://hackernoon.com/cp-systems-explained-part-2-quorums-consensus-and-the-price-of-being-right)
 ![](https://cdn.hackernoon.com/images/yE0A1CFa8ZTrQCrf5pzws36wxGn2-2s0210h.png)
 Let's look at what CP systems actually do under the hood when they choose consistency over availability.
 
-### [97. I Built an Open-Source Schema Visualization Tool for Mongoose/MongodDB Under 1000 Lines of Code](https://hackernoon.com/i-built-an-open-source-schema-visualization-tool-for-mongoosemongoddb-under-1000-lines-of-code)
+### [94. Self-Healing Infrastructure Could Be the Future of Data Management](https://hackernoon.com/self-healing-infrastructure-could-be-the-future-of-data-management)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o802wp0.jpeg)
+AI-driven automation in database management transforms reactive ops into predictive, self-healing systems for scale, reliability, and performance.
+
+### [95. I Tried Every Open Source Database and Found Only One That is Actually Useful](https://hackernoon.com/i-tried-every-open-source-database-and-found-only-one-that-is-actually-useful)
+![](https://cdn.hackernoon.com/images/n46TzZ1AaqbEkZzpTB21rYVJHNG3-cd03aig.png)
+Let's walk through this journey. My journey. Maybe it helps someone else avoid the same database-induced headache.
+
+### [96. I Built an Open-Source Schema Visualization Tool for Mongoose/MongodDB Under 1000 Lines of Code](https://hackernoon.com/i-built-an-open-source-schema-visualization-tool-for-mongoosemongoddb-under-1000-lines-of-code)
 ![](https://cdn.hackernoon.com/images/sDATQ8jkcuSaZ8ZnpCerfWSeVhk2-8kb3073.jpeg)
 This article is about an open-source tool that can create schema visualizations from Mongoose schema files.
+
+### [97. How to Change Parameters of a Server at Runtime](https://hackernoon.com/how-to-change-parameters-of-a-server-at-runtime)
+![](https://cdn.hackernoon.com/images/wbpx3HjpyqPKnyTWEn9WMG6yYUA2-i1a3p2l.jpeg)
+Implementation of business configuration provider tips. Java, Spring and MongoDB in action
 
 ### [98. The Noonification: State of the Noonion 2024: HackerNoon Keeps on Blogging (4/2/2024)](https://hackernoon.com/4-2-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_484_xr57unni3wkrjhustqbxxpvd.png)
@@ -418,43 +422,47 @@ Learn the basics of MongoDB Filtering in C# with simple code examples! See how t
 ![](https://cdn.hackernoon.com/images/AKDc0p7ZDncP6OQbnTDbvHt6mVE2-vv837wc.png)
 In this post, I will share r.eal experience that I gained while working with hundred's of millions of pieces of data in MongoDB
 
-### [104. How to Find Insecure MongoDB Connection Strings in Public GitHub Repositories](https://hackernoon.com/how-to-find-insecure-mongodb-connection-strings-in-public-github-repositories)
-![](https://cdn.hackernoon.com/images/fJowWHavL0XT8jKc2lCn9VB199e2-sg93l3n.jpeg)
-A guide on how to protect yourself and your projects while on Github. 
-
-### [105. How to Stop Your MongoDB Cluster from Going Read-Only at the Worst Possible Time](https://hackernoon.com/how-to-stop-your-mongodb-cluster-from-going-read-only-at-the-worst-possible-time)
+### [104. How to Stop Your MongoDB Cluster from Going Read-Only at the Worst Possible Time](https://hackernoon.com/how-to-stop-your-mongodb-cluster-from-going-read-only-at-the-worst-possible-time)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-g402uy0.jpeg)
 A knowledge of MongoDB’s election process and quorum requirements is important before choosing the best approach.
 
-### [106. Mongo Speaks ](https://hackernoon.com/mongo-speaks)
-![](https://cdn.hackernoon.com/images/kpM7OuzcypQiVxeNzYY1iki9nAh1-rt831z7.jpeg)
-Mongo here. Mongo not always DBA, once Mongo just simple man, love horse, love outdoors
+### [105. How to Find Insecure MongoDB Connection Strings in Public GitHub Repositories](https://hackernoon.com/how-to-find-insecure-mongodb-connection-strings-in-public-github-repositories)
+![](https://cdn.hackernoon.com/images/fJowWHavL0XT8jKc2lCn9VB199e2-sg93l3n.jpeg)
+A guide on how to protect yourself and your projects while on Github. 
+
+### [106. Mongo Lens Earns a 46 Proof of Usefulness Score by Building a Powerful Mobile MongoDB Client](https://hackernoon.com/mongo-lens-earns-a-46-proof-of-usefulness-score-by-building-a-powerful-mobile-mongodb-client)
+![](https://cdn.hackernoon.com/images/a-developer-holds-a-smartphone-displaying-an-interactive-mongo-db-database-graph-with-nodes-and-connections-visualized-in-a-sleek-mobile-interface-in899wxna3djax2sbgnihgc4.png)
+Mongo Lens earns a 46 Proof of Usefulness score, offering a mobile MongoDB client for secure, on-the-go database management and visualization.
 
 ### [107. Tracking Mongoose Query Times with a Few Lines of Code](https://hackernoon.com/tracking-mongoose-query-times-with-a-few-lines-of-code)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-z802wg2.jpeg)
 This article details how to build a lightweight query profiler using Mongoose pre and post hooks without having to integrate APM tools. 
 
-### [108. When ORMs Disobey: A Mongoose Story](https://hackernoon.com/when-orms-disobey-a-mongoose-story-q11e33k2)
-![](https://cdn.hackernoon.com/images/Jbv61SoMcENMPm2lc557EfdNNtN2-444i20y8.jpeg)
-In hindsight, it seems like mongoose was doing the sensible thing by simply ensuring that the document existed in the database.
+### [108. Mongo Speaks ](https://hackernoon.com/mongo-speaks)
+![](https://cdn.hackernoon.com/images/kpM7OuzcypQiVxeNzYY1iki9nAh1-rt831z7.jpeg)
+Mongo here. Mongo not always DBA, once Mongo just simple man, love horse, love outdoors
 
 ### [109. The Ultimate Guide To Custom Role Based Access Without Third Party Libraries](https://hackernoon.com/the-ultimate-guide-to-custom-role-based-access-without-third-party-libraries-pt1031mx)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-3f1528g9.jpeg?alt=media&token=c26db394-dff8-41d4-81f1-7bcabb8a2038)
 Here, we have four roles: Sme, Sponsor, Admin, Operations.Initially, we had only 3 roles.Operations role was added later and Operations user has permissions similar to the Admin user.In the code, we had to replace every instance of if (user.type == USER_TYPES.ADMIN) with if (user.type == USER_TYPES.ADMIN || user.type == USER_TYPES.OPERATIONS).As this is time consuming and we can also miss many instances, we have created a roles module. In the roles module,the roles are defined along with their respective permissions as seen in Code (Part-III). Based on the permissions for each role, we will evaluate the authorization for the user in each of our controller methods.If the user has access, only then he will be granted the resources.
 
-### [110. AvionDB Introduction: A MongoDB-like Distributed Database](https://hackernoon.com/aviondb-introduction-a-mongodb-like-distributed-database-10463v3x)
-![](https://cdn.hackernoon.com/images/uw1c26on.jpg)
-In the past few months we have been getting this question a lot:
+### [110. When ORMs Disobey: A Mongoose Story](https://hackernoon.com/when-orms-disobey-a-mongoose-story-q11e33k2)
+![](https://cdn.hackernoon.com/images/Jbv61SoMcENMPm2lc557EfdNNtN2-444i20y8.jpeg)
+In hindsight, it seems like mongoose was doing the sensible thing by simply ensuring that the document existed in the database.
 
 ### [111. Py-DockerDB: Simplifying Programmatic Database Handling](https://hackernoon.com/py-dockerdb-simplifying-programmatic-database-handling)
 ![](https://cdn.hackernoon.com/images/t0xlzl7gstV4OIz8ZrrbIWCzWdl1-hs032c5.png)
 Local database setup is deceptively expensive. It introduces variance into your dev environments and bakes hidden assumptions into your codebase. I wanted every
 
-### [112. The Noonification: The Denominator (5/9/2023)](https://hackernoon.com/5-9-2023-noonification)
+### [112. AvionDB Introduction: A MongoDB-like Distributed Database](https://hackernoon.com/aviondb-introduction-a-mongodb-like-distributed-database-10463v3x)
+![](https://cdn.hackernoon.com/images/uw1c26on.jpg)
+In the past few months we have been getting this question a lot:
+
+### [113. The Noonification: The Denominator (5/9/2023)](https://hackernoon.com/5-9-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 5/9/2023: Top 5 stories on the Hackernoon homepage!
 
-### [113. The Noonification: Nvidias Ascent Proves AI is Where Its At 🤖 (6/7/2023)](https://hackernoon.com/6-7-2023-noonification)
+### [114. The Noonification: Nvidias Ascent Proves AI is Where Its At 🤖 (6/7/2023)](https://hackernoon.com/6-7-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 6/7/2023: Top 5 stories on the Hackernoon homepage!
 

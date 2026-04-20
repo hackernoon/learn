@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [tips](https://hackernoon.com/tagged/tips)
+### Let's learn about [Tips](https://hackernoon.com/tagged/tips) via these 230 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Tips are concise pieces of advice or practical suggestions intended to help someone improve skills, solve problems, or achieve efficiency. They are valuable for quick learning and optimizing various processes and workflows.
+
 ### [1. Here's How To Fix Your Ethernet If It's Not Working](https://hackernoon.com/heres-how-to-fix-your-ethernet-if-its-not-working-7r6y3yxw)
 ![](drafts/lc62c36q4.png)
 If your WiFi is working properly but your wired ethernet connection isn't, here's a bunch of things you can do. The first thing you need to do is turn off the WiFi. Right-click on the WiFi icon in the notification area and click "Open Network and Internet Settings". Go to the WiFi tab and use the toggle to turn it off.
@@ -174,13 +178,13 @@ Need help learning about Linux's pacman? Look no further. Here's everything you 
 ![](https://cdn.hackernoon.com/images/VaJY70GisVeIZmLtMN3tlqjFryX2-sw93kdd.jpeg)
 OpenAI's "Dall-E" artificial intelligence can be very frustrating for some professional uses. Here are a few things that Dall-E just can't seem to do.
 
-### [44. What is Cyber Grooming?](https://hackernoon.com/what-is-cyber-grooming)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-kf93q4b.jpeg)
-Cyber grooming is one of the most dangerous types of cyber crimes since the victims are teenagers and young kids.
-
-### [45. Unraveling the Maze of Large JSON Files: Tips and Tools for Local JSON Parsing](https://hackernoon.com/unraveling-the-maze-of-large-json-files-tips-and-tools-for-local-json-parsing)
+### [44. Unraveling the Maze of Large JSON Files: Tips and Tools for Local JSON Parsing](https://hackernoon.com/unraveling-the-maze-of-large-json-files-tips-and-tools-for-local-json-parsing)
 ![](https://cdn.hackernoon.com/images/CnUvYk7uE1SVkKwkkYf7E2XCRr13-ync3pg8.jpeg)
 Discover how a backend developer overcomes obstacles in processing large JSON log files. 
+
+### [45. What is Cyber Grooming?](https://hackernoon.com/what-is-cyber-grooming)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-kf93q4b.jpeg)
+Cyber grooming is one of the most dangerous types of cyber crimes since the victims are teenagers and young kids.
 
 ### [46. Top 5 Tips to Pitch Your Way Into Startup Accelerators](https://hackernoon.com/top-5-tips-to-pitch-your-way-into-startup-accelerators)
 ![](https://cdn.hackernoon.com/images/vebAZ0fTN2PUAfrB58FnqlZCkfk1-agn3o77.jpeg)
@@ -279,13 +283,13 @@ Third article where I review my guides about building a small K8s cluster on a s
 ![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-pk93ngz.jpeg)
 This article explores what good code is and shares some tenets of good structure. 
 
-### [70. Technical Interview: How to Prepare, Structure, and More Tips](https://hackernoon.com/technical-interview-how-to-prepare-structure-and-more-tips)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-yx93nq0.jpeg)
-Interviewing someone isn't as easy as it seems. Here are some tips to form the best interview,  both for you and your interviewee. 
-
-### [71. Web Scraping Optimization: Tips for Faster, Smarter Scrapers](https://hackernoon.com/web-scraping-optimization-tips-for-faster-smarter-scrapers)
+### [70. Web Scraping Optimization: Tips for Faster, Smarter Scrapers](https://hackernoon.com/web-scraping-optimization-tips-for-faster-smarter-scrapers)
 ![](https://cdn.hackernoon.com/images/0FC9YtxD4fbD3T7mPipOt4HSxY42-7y034nb.png)
 Let's dive into advanced web scraping tips for optimization. Take your scraper to the next level!
+
+### [71. Technical Interview: How to Prepare, Structure, and More Tips](https://hackernoon.com/technical-interview-how-to-prepare-structure-and-more-tips)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-yx93nq0.jpeg)
+Interviewing someone isn't as easy as it seems. Here are some tips to form the best interview,  both for you and your interviewee. 
 
 ### [72. Forget To-do Lists. What About To-learn Lists? ](https://hackernoon.com/forget-to-do-lists-what-about-to-learn-lists)
 ![](https://cdn.hackernoon.com/images/3nZg1mO3L1hKsmOFhBFXYNh4Pty2-da93q5t.jpeg)
@@ -304,18 +308,18 @@ Looking to understand the critical factors to learn programming faster are liste
 ![](https://cdn.hackernoon.com/images/stylish-study-room-with-a-mac-wac0x8htxgn5eymikt54rnwe.png)
 Not another Pomodoro article. A senior iOS engineer shares 7 career-tested habits — from managing up to showcasing work — that actually move the needle.
 
-### [75. 25 Questions Candidates Should Ask in an Interview for Remote Work](https://hackernoon.com/25-questions-candidates-should-ask-in-an-interview-for-remote-work)
-![](https://cdn.hackernoon.com/images/dekqFKbCjYP7GoUnRP2jptMYXsC3-jpb3ku5.jpeg)
-Remote interviews allow companies same time and money on travel expenses, while determining whether a candidate should be hired. 
-
-### [76. Mark Your Calendars, Bad Bots Are Coming for the Last Months of 2022](https://hackernoon.com/mark-your-calendars-bad-bots-are-coming-for-the-last-months-of-2022)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-eu93od6.jpeg)
-The sad reality for many online business websites and applications is that they are flooded by automated bad bots
-
-### [77. Finding Product of Array Except Self](https://hackernoon.com/finding-product-of-array-except-self)
+### [75. Finding Product of Array Except Self](https://hackernoon.com/finding-product-of-array-except-self)
 ![](https://cdn.hackernoon.com/images/WyL2V0Nj20amUlioe5bpd0cPHF92-9lb3pvx.jpeg)
 Sergei Golitsyn. Find the product of all the elements of nums except nums[i].
 The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit int
+
+### [76. 25 Questions Candidates Should Ask in an Interview for Remote Work](https://hackernoon.com/25-questions-candidates-should-ask-in-an-interview-for-remote-work)
+![](https://cdn.hackernoon.com/images/dekqFKbCjYP7GoUnRP2jptMYXsC3-jpb3ku5.jpeg)
+Remote interviews allow companies same time and money on travel expenses, while determining whether a candidate should be hired. 
+
+### [77. Mark Your Calendars, Bad Bots Are Coming for the Last Months of 2022](https://hackernoon.com/mark-your-calendars-bad-bots-are-coming-for-the-last-months-of-2022)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-eu93od6.jpeg)
+The sad reality for many online business websites and applications is that they are flooded by automated bad bots
 
 ### [78. Meet the Writer: HackerNoon's Contributor Nikita Starichenko, SWE at Snap Inc.](https://hackernoon.com/meet-the-writer-hackernoons-contributor-nikita-starichenko-swe-at-snap-inc)
 ![](https://cdn.hackernoon.com/images/OujWaQx7FhMxIORYNRgWYZuh1kb2-4993p0r.jpeg)
@@ -333,13 +337,13 @@ A business's inventory is one of its most important and valuable assets. In this
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-cc93nzi.jpeg)
 Refurbished phones are becoming more and more popular, but the U.S. is lagging behind in sales. Here's a look at why.
 
-### [82. A Simple Vacuum Tube Detector Receiver ](https://hackernoon.com/a-simple-vacuum-tube-detector-receiver)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-vy93o12.jpeg)
-Though the vacuum tube detector has more complicated circuits than a crystal detector, it doesn't require constant adjustment like the crystal detector. 
-
-### [83. 3 Golang Pitfalls Every Developer Needs to Know](https://hackernoon.com/3-golang-pitfalls-every-developer-needs-to-know)
+### [82. 3 Golang Pitfalls Every Developer Needs to Know](https://hackernoon.com/3-golang-pitfalls-every-developer-needs-to-know)
 ![](https://cdn.hackernoon.com/images/MfzjAS5aJtQASHhbBk2J3gunFf23-rj92ix2.png)
 Over-viewing common coding pitfalls we've encountered when we started to use GoLang for production systems
+
+### [83. A Simple Vacuum Tube Detector Receiver ](https://hackernoon.com/a-simple-vacuum-tube-detector-receiver)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-vy93o12.jpeg)
+Though the vacuum tube detector has more complicated circuits than a crystal detector, it doesn't require constant adjustment like the crystal detector. 
 
 ### [84. Cybersecurity Considerations for Employee Onboarding](https://hackernoon.com/cybersecurity-considerations-for-employee-onboarding)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-ic93qg3.jpeg)
@@ -366,53 +370,53 @@ Guy Melamed is the co-founder and CEO of Exberry, the exchange technology pionee
 ![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-o293pwe.jpeg)
 All the talk about quiet quitting makes it seem like everyone hates their jobs and is just sleepwalking through the workday, but that’s not the case -here's why
 
-### [90. Getting Rid of Garbage in Java](https://hackernoon.com/getting-rid-of-garbage-in-java)
+### [90. AWS Chatbot Magic: Building Conversational AI with AWS Services](https://hackernoon.com/aws-chatbot-magic-building-conversational-ai-with-aws-services)
+![](https://cdn.hackernoon.com/images/two-chat-bots-having-a-conversation-clehngxns000001s63xibhea6.png)
+AWS offers a range of services that can be used for chatbot development and deployment. The steps outlined in this article show you how. 
+
+### [91. Getting Rid of Garbage in Java](https://hackernoon.com/getting-rid-of-garbage-in-java)
 ![](https://cdn.hackernoon.com/images/qRCYveQ3SAVQcIAe3CbXRrmAsZ12-nrf3aew.jpeg)
 Every application needs memory to run. However, computer memory is limited. Therefore, it is important to clear it of old unused data to make room for new ones.
 
-### [91. 5 Best Practices for Writing Efficient Python Code](https://hackernoon.com/5-best-practices-for-writing-efficient-python-code)
+### [92. 5 Best Practices for Writing Efficient Python Code](https://hackernoon.com/5-best-practices-for-writing-efficient-python-code)
 ![](https://cdn.hackernoon.com/images/mZGnGVFc4QQ9Dzv5a5vjYGpkHLS2-y993663.jpeg)
 In this article, we'll discuss some basic principles of coding in python that can help you optimize your programs' performance. 
-
-### [92. AWS Chatbot Magic: Building Conversational AI with AWS Services](https://hackernoon.com/aws-chatbot-magic-building-conversational-ai-with-aws-services)
-![](https://cdn.hackernoon.com/images/two-chat-bots-having-a-conversation-clehngxns000001s63xibhea6.png)
-AWS offers a range of services that can be used for chatbot development and deployment. The steps outlined in this article show you how. 
 
 ### [93. Choosing the Best Azure Database Deployment Option for You](https://hackernoon.com/choosing-the-best-azure-database-deployment-option-for-you)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-8e93owk.jpeg)
 Azure SQL Database Deployment Options: Choosing the Right Option for Your Needs
 
-### [94. How Color Psychology Impacts Branding](https://hackernoon.com/how-color-psychology-impacts-branding)
-![](https://cdn.hackernoon.com/images/p0aCUjQZG9OkutDTWRdZFYj2zi22-mt93qad.jpeg)
-While there is still much research to be done, color psychology has been used in fields such as marketing and design to help create appealing appealing products
+### [94. Hide the Exported ENV Variables From the History](https://hackernoon.com/hide-the-exported-env-variables-from-the-history-it8q36i1)
+![](https://images.unsplash.com/photo-1549605659-32d82da3a059?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Hi, happy to join your community. This is my first post, so I start from the simple one, but useful. Maybe you don't know about it yet.
 
 ### [95. Complexity is An Opportunity, Not A Threat](https://hackernoon.com/complexity-is-an-opportunity-not-a-threat)
 ![](https://cdn.hackernoon.com/images/uwdds9GP9oRGK8rZBtabE59fB8P2-n193p4a.jpeg)
 For every facet of an organization, the increasing and infinite demands that need to be met are inevitable, especially if your company is growing.
 
-### [96. Hide the Exported ENV Variables From the History](https://hackernoon.com/hide-the-exported-env-variables-from-the-history-it8q36i1)
-![](https://images.unsplash.com/photo-1549605659-32d82da3a059?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Hi, happy to join your community. This is my first post, so I start from the simple one, but useful. Maybe you don't know about it yet.
+### [96. How Color Psychology Impacts Branding](https://hackernoon.com/how-color-psychology-impacts-branding)
+![](https://cdn.hackernoon.com/images/p0aCUjQZG9OkutDTWRdZFYj2zi22-mt93qad.jpeg)
+While there is still much research to be done, color psychology has been used in fields such as marketing and design to help create appealing appealing products
 
 ### [97. Tips for Safeguarding Your WordPress Website](https://hackernoon.com/tips-for-safeguarding-your-wordpress-website)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5i92cnz.jpeg)
 All websites are prone to cyber-attacks from hackers attempting to control website resources and users' data. 
 
-### [98. From Science to Soup: The Power of Transferable Skills ](https://hackernoon.com/from-science-to-soup-the-power-of-transferable-skills)
-![](https://cdn.hackernoon.com/images/XUXlssl4t8Y4pDFf1tsFXOpRr3A2-c193p9v.jpeg)
-Discover how these top five skills can lead to new career opportunities.
-
-### [99. How Spike Replaces Slack as the Leading Communications Tool](https://hackernoon.com/how-spike-replaces-slack-as-the-leading-communications-tool)
+### [98. How Spike Replaces Slack as the Leading Communications Tool](https://hackernoon.com/how-spike-replaces-slack-as-the-leading-communications-tool)
 ![](https://cdn.hackernoon.com/images/8XNzGveuOJaoGXYGO2zNhOfmd7N2-ix93obr.jpeg)
 
 
-### [100. How Do You Find the Longest Common Subsequence of Two Strings in Java?](https://hackernoon.com/how-do-you-find-the-longest-common-subsequence-of-two-strings-in-java)
-![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-dba3pn6.jpeg)
-Strings are nothing but a combination of characters, and working on strings is a common part of a programmer’s life.  
+### [99. From Science to Soup: The Power of Transferable Skills ](https://hackernoon.com/from-science-to-soup-the-power-of-transferable-skills)
+![](https://cdn.hackernoon.com/images/XUXlssl4t8Y4pDFf1tsFXOpRr3A2-c193p9v.jpeg)
+Discover how these top five skills can lead to new career opportunities.
 
-### [101. Game Theory’s Ultimate Answer to Real World Dilemmas: “Generous Tit for Tat”](https://hackernoon.com/game-theorys-ultimate-answer-to-real-world-dilemmas-generous-tit-for-tat)
+### [100. Game Theory’s Ultimate Answer to Real World Dilemmas: “Generous Tit for Tat”](https://hackernoon.com/game-theorys-ultimate-answer-to-real-world-dilemmas-generous-tit-for-tat)
 ![](https://cdn.hackernoon.com/images/F85G0zI2I8NTTiz8yT1JU8oVuOl1-iz92ce4.jpeg)
 Game theory provides compelling insights into the power of actively pursuing co-operation over competition, even when it exacts a heavy price.
+
+### [101. How Do You Find the Longest Common Subsequence of Two Strings in Java?](https://hackernoon.com/how-do-you-find-the-longest-common-subsequence-of-two-strings-in-java)
+![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-dba3pn6.jpeg)
+Strings are nothing but a combination of characters, and working on strings is a common part of a programmer’s life.  
 
 ### [102. 7 Tips to Make your Presentation Balanced and Appealing ](https://hackernoon.com/7-tips-to-make-your-presentation-balanced-and-appealing)
 ![](https://cdn.hackernoon.com/images/m7KaOHuCmoZPJKNxY8yZwc9mc953-gg93qgv.jpeg)
@@ -442,42 +446,42 @@ A Vacuum tube is more sensitive than a crystal detector because it rectifies the
 ![](https://cdn.hackernoon.com/images/W4LIupoWgRMS6GEGyf6tLScioh62-2jb3n6b.jpeg)
 The Student debt crisis is a pressing issue. As such, this article explores financial aid alternatives to be considered before taking out a student loan.
 
-### [109. Your Go-to Programs to Master Web Development](https://hackernoon.com/your-go-to-programs-to-master-web-development-dum3te0)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-idf3t68.jpeg?alt=media&token=e25053b4-3679-4b80-9055-0d5232580c22)
-In this day and age, faster always wins. Tools can make or break any job.  Tasks that you do everyday shouldn't become a hassle.  This is a list of tools I use when I develop websites, logos and anything else when I'm making content for the web.
+### [109. Meet The Entrepreneur: Dvir Ben Aroya, Co-Founder & CEO, Spike ](https://hackernoon.com/meet-the-entrepreneur-dvir-ben-aroya-co-founder-and-ceo-spike)
+![](https://cdn.hackernoon.com/images/uwdds9GP9oRGK8rZBtabE59fB8P2-n493v97.jpeg)
+Dvir has over 20 years of executive experience leading technology and internet companies.
 
 ### [110. How I Gather Technical Requirements before Building Systems](https://hackernoon.com/how-i-gather-technical-requirements-before-building-systems)
 ![](https://cdn.hackernoon.com/images/9S1vwdm8BSSIM68NViog8lnaQPi2-n892hsk.jpeg)
 Learn about how to gather technical requirements for the systems you build. 
 
-### [111. 4 Reasons for Cyber Intelligence Failure](https://hackernoon.com/4-reasons-for-cyber-intelligence-failure)
+### [111. Your Go-to Programs to Master Web Development](https://hackernoon.com/your-go-to-programs-to-master-web-development-dum3te0)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-idf3t68.jpeg?alt=media&token=e25053b4-3679-4b80-9055-0d5232580c22)
+In this day and age, faster always wins. Tools can make or break any job.  Tasks that you do everyday shouldn't become a hassle.  This is a list of tools I use when I develop websites, logos and anything else when I'm making content for the web.
+
+### [112. 4 Reasons for Cyber Intelligence Failure](https://hackernoon.com/4-reasons-for-cyber-intelligence-failure)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-g593ol0.jpeg)
 Cybersecurity is a complex game of cat-and-mouse between you and would-be hackers.
 
-### [112. 7 Vital Steps in the Machine Learning Life Cycle](https://hackernoon.com/7-vital-steps-in-the-machine-learning-life-cycle)
+### [113. Google Sheets Hack: How to Get Currency Data into Google Sheets](https://hackernoon.com/google-sheets-hack-how-to-get-currency-data-into-google-sheets)
+![](https://cdn.hackernoon.com/images/VY9SO7G0uGMU8XepKKdNpCmZ6Fl2-woc3ots.jpeg)
+I recently came across the challenge of getting currency exchange data into spreadsheets. In this article, I show two quick and easy methods to do so.
+
+### [114. 7 Vital Steps in the Machine Learning Life Cycle](https://hackernoon.com/7-vital-steps-in-the-machine-learning-life-cycle)
 ![](https://cdn.hackernoon.com/images/xmWKpbFjefgHRKmoA0BGgqKyJJd2-jb93qho.jpeg)
 This is a framework for using machine learning in your business.
 
-### [113. How to Overcome the Problem of Time](https://hackernoon.com/how-to-overcome-the-problem-of-time)
+### [115. How to Overcome the Problem of Time](https://hackernoon.com/how-to-overcome-the-problem-of-time)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-mua3okt.jpeg)
 Whenever you say “I don’t have time,” you are sending a message about how you prioritize and organize your own life. Stop using this phrase.
-
-### [114. Bitcoin Halving Economics: Impact on Miners and the Cryptocurrency Market](https://hackernoon.com/bitcoin-halving-economics-impact-on-miners-and-the-cryptocurrency-market)
-![](https://cdn.hackernoon.com/images/tvNEQyh3w3SCiWtN102YrKCcynz1-hce33ao.jpeg)
-Bitcoin 2024 Halving: Impact on mining, market dynamics, and strategies. Decentralization, security, and regulatory insights in the evolving crypto space.
-
-### [115. Google Sheets Hack: How to Get Currency Data into Google Sheets](https://hackernoon.com/google-sheets-hack-how-to-get-currency-data-into-google-sheets)
-![](https://cdn.hackernoon.com/images/VY9SO7G0uGMU8XepKKdNpCmZ6Fl2-woc3ots.jpeg)
-I recently came across the challenge of getting currency exchange data into spreadsheets. In this article, I show two quick and easy methods to do so.
 
 ### [116. Getting to the Promised Land of Software Engineering](https://hackernoon.com/getting-to-the-promised-land-of-software-engineering)
 ![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-vl93o2s.jpeg)
 A software engineer navigating the benefits of good communication in a remote workplace
 
 
-### [117. Meet The Entrepreneur: Dvir Ben Aroya, Co-Founder & CEO, Spike ](https://hackernoon.com/meet-the-entrepreneur-dvir-ben-aroya-co-founder-and-ceo-spike)
-![](https://cdn.hackernoon.com/images/uwdds9GP9oRGK8rZBtabE59fB8P2-n493v97.jpeg)
-Dvir has over 20 years of executive experience leading technology and internet companies.
+### [117. Bitcoin Halving Economics: Impact on Miners and the Cryptocurrency Market](https://hackernoon.com/bitcoin-halving-economics-impact-on-miners-and-the-cryptocurrency-market)
+![](https://cdn.hackernoon.com/images/tvNEQyh3w3SCiWtN102YrKCcynz1-hce33ao.jpeg)
+Bitcoin 2024 Halving: Impact on mining, market dynamics, and strategies. Decentralization, security, and regulatory insights in the evolving crypto space.
 
 ### [118. How to Embed Video Call Function on Your Website with PreBuilt SDK](https://hackernoon.com/embed-a-video-call-function-on-your-website-with-prebuilt-sdk)
 ![](https://cdn.hackernoon.com/images/EV8tJPb1ZePGA5hXoES9OSfKWms1-5h93jku.jpeg)
@@ -499,13 +503,13 @@ Fourth and last article where I review my guides about building a small K8s clus
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-u3g3yhw.jpeg)
 Becoming an expert in Microsoft web development is no easy feat. It requires a significant amount of time, dedication, and hard work. However, the rewards that 
 
-### [123. Short: The React Virtual DOM ](https://hackernoon.com/short-the-react-virtual-dom)
-![](https://cdn.hackernoon.com/images/XWk05i8rnIh4jD7Lpxp4izORJrq2-8wa3r3w.jpeg)
-Short refresher about the Virtual DOM used in React. What are the differences between the browser DOM and the virtual DOM?
-
-### [124. What Should be Included in an Internal Component Library](https://hackernoon.com/what-should-be-included-in-an-internal-component-library)
+### [123. What Should be Included in an Internal Component Library](https://hackernoon.com/what-should-be-included-in-an-internal-component-library)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-4q93tj0.jpeg)
 Some helpful tips that can steer you in the right direction and help you decide if a component should be part of your internal component library.
+
+### [124. Short: The React Virtual DOM ](https://hackernoon.com/short-the-react-virtual-dom)
+![](https://cdn.hackernoon.com/images/XWk05i8rnIh4jD7Lpxp4izORJrq2-8wa3r3w.jpeg)
+Short refresher about the Virtual DOM used in React. What are the differences between the browser DOM and the virtual DOM?
 
 ### [125. Efficient Database Migration with Dynamic Queries ](https://hackernoon.com/efficient-database-migration-with-dynamic-queries)
 ![](https://cdn.hackernoon.com/images/JVuR2U7vEzdHAibZhEVpkxrPcq62-xr93ltn.gif.webp)
@@ -521,17 +525,17 @@ When I started writing HTML and CSS documents, I found out that one of the best 
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ta93oly.jpeg)
 Before delving into the mysteries of receiving and sending messages without wires, we look at the history of the art and its present-day applications. 
 
-### [128. The Radio Amateur's Hand Book - Table of Links](https://hackernoon.com/the-radio-amateurs-hand-book-table-of-links)
+### [128. Techniques To Deal with Ultra-Tight Deadlines](https://hackernoon.com/techniques-to-deal-with-ultra-tight-deadlines)
+![](https://cdn.hackernoon.com/images/H1Kt3WQuXBfdDi4rQyjrbV1tkdz1-7ya3p3w.jpeg)
+Here are some tips that I use to efficiently meet strict deadlines. 
+
+### [129. The Radio Amateur's Hand Book - Table of Links](https://hackernoon.com/the-radio-amateurs-hand-book-table-of-links)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yp93o8o.jpeg)
 The Radio Amateur's Hand Book, by A. Frederick Collins, is part of HackerNoon’s Book Blog Post series. The table of Links for this book can be found here. 
 
-### [129. Amending and Updating a Git Commit](https://hackernoon.com/amending-and-updating-a-git-commit)
+### [130. Amending and Updating a Git Commit](https://hackernoon.com/amending-and-updating-a-git-commit)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-hg93oqc.jpeg)
 Now, you can easily update your commit messages by simply adding --amend to your git command.
-
-### [130. Techniques To Deal with Ultra-Tight Deadlines](https://hackernoon.com/techniques-to-deal-with-ultra-tight-deadlines)
-![](https://cdn.hackernoon.com/images/H1Kt3WQuXBfdDi4rQyjrbV1tkdz1-7ya3p3w.jpeg)
-Here are some tips that I use to efficiently meet strict deadlines. 
 
 ### [131. Graphic Designer Tips: How to Communicate With Your Clients](https://hackernoon.com/graphic-designer-tips-how-to-communicate-with-your-clients-ll3g3163)
 ![](https://cdn.hackernoon.com/images/2vOzNW3CzhPzZV11OfA2uLyn3Hv1-hx2j31og.jpeg)
@@ -573,320 +577,320 @@ How to use automated tests in mobile games. Tips for effective work.
 ![](https://cdn.hackernoon.com/images/hqrL4Sb80WNPcC3AIKF16UVfPFt1-uz02g8r.jpeg)
 A conversion rate of 1% is regarded as good in general. 
 
-### [141. Six Things I Learned When Integrating Stripe Connect](https://hackernoon.com/six-things-i-learned-when-integrating-stripe-connect-s02p3yg2)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-0d2j3ug4.webp?alt=media&token=3bfb83f1-945b-4038-84d5-c741879c877e)
-Almost every service on the Internet today deals with money. And dealing with money requires a robust Billing system. Building your own billing system is a pain. It is a crucial component that should be highly available, secure, and 100% bug-free, otherwise, your users or your business might lose some money, which is unacceptable.
-
-### [142. 5 Tips for PR Managers How to Get Published in Forbes](https://hackernoon.com/5-tips-for-pr-managers-how-to-get-published-in-forbes-xg203vad)
-![](https://cdn.hackernoon.com/drafts/kndk3k8q.png)
-Working in the field of cybersecurity has been one long lesson about outreach and promotion. I worked with an Abstract Stylist magazine for a year and CyberNews media outlet for half a year, and I managed to reach the world's biggest media outlets on my own. How to do it if you're a new business? 
-
-### [143. Why I have 218 Tabs Open ](https://hackernoon.com/guess-how-many-browser-tabs-i-have-opened-218)
+### [141. Why I have 218 Tabs Open ](https://hackernoon.com/guess-how-many-browser-tabs-i-have-opened-218)
 ![](https://cdn.hackernoon.com/images/oUS9HxHnMOackh1UhEDoXjMokWv1-0j92dwk.png)
 It's been decades since the invention of browser tabs. Now, everybody uses them. What does the future of tabs look like?
 
-### [144. The Quiet Quitting Trend and Why You Should Not Follow It ](https://hackernoon.com/the-quiet-quitting-trend-and-why-you-should-not-follow-it)
-![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-jo93pj4.jpeg)
-According to Blind, white-collar tech professionals have lost 100,826 jobs so far this year. Here is how you can avoid getting laid off this time. 
+### [142. Six Things I Learned When Integrating Stripe Connect](https://hackernoon.com/six-things-i-learned-when-integrating-stripe-connect-s02p3yg2)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-0d2j3ug4.webp?alt=media&token=3bfb83f1-945b-4038-84d5-c741879c877e)
+Almost every service on the Internet today deals with money. And dealing with money requires a robust Billing system. Building your own billing system is a pain. It is a crucial component that should be highly available, secure, and 100% bug-free, otherwise, your users or your business might lose some money, which is unacceptable.
 
-### [145. 8 Debugging Techniques for Dev & Ops Teams](https://hackernoon.com/8-debugging-techniques-for-dev-and-ops-teams)
+### [143. 5 Tips for PR Managers How to Get Published in Forbes](https://hackernoon.com/5-tips-for-pr-managers-how-to-get-published-in-forbes-xg203vad)
+![](https://cdn.hackernoon.com/drafts/kndk3k8q.png)
+Working in the field of cybersecurity has been one long lesson about outreach and promotion. I worked with an Abstract Stylist magazine for a year and CyberNews media outlet for half a year, and I managed to reach the world's biggest media outlets on my own. How to do it if you're a new business? 
+
+### [144. 8 Debugging Techniques for Dev & Ops Teams](https://hackernoon.com/8-debugging-techniques-for-dev-and-ops-teams)
 ![](https://cdn.hackernoon.com/images/ndmRTSZBXSSVUlE4TsO4u09ZOkO2-7k93om7.jpeg)
 This blog highlights eight debugging techniques that will help Software engineers adopt the DevOps approach to debugging a code.
 
-### [146. Top Management Tips for Startup Founders ](https://hackernoon.com/top-management-tips-for-startup-founders-bx3z24vx)
-![](https://cdn.hackernoon.com/images/ir1i3yva.gif)
-Here are some top dos and don'ts for startup founders, alongside some management tips for startup founders from successful entrepreneurs.
+### [145. The Quiet Quitting Trend and Why You Should Not Follow It ](https://hackernoon.com/the-quiet-quitting-trend-and-why-you-should-not-follow-it)
+![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-jo93pj4.jpeg)
+According to Blind, white-collar tech professionals have lost 100,826 jobs so far this year. Here is how you can avoid getting laid off this time. 
 
-### [147. Crystal Detectors and Telephonic Speech ](https://hackernoon.com/crystal-detectors-and-telephonic-speech)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-8e93ol3.jpeg)
-With a crystal detector receiving set you can receive either telegraphic dots and dashes or telephonic speech and music.
-
-### [148. 10 Ways to Cope with Remote Work to Make Working From Home Enjoyable](https://hackernoon.com/10-ways-to-cope-with-remote-work-to-make-working-from-home-enjoyable)
-![](https://cdn.hackernoon.com/images/7skvMoTLQPTuwU5MRJrEZ31wECq2-r4035fu.jpeg)
-In this post, you’ll find 10 tech tips and hacks to make remote working productive and fun.
-
-### [149. 7 Ways MSPs Can Manage a Remote Workforce ](https://hackernoon.com/7-ways-msps-can-manage-a-remote-workforce)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-ri93h48.jpeg)
-With issues like Great resignation coming into prominence MSPs need to create proper remote workforce management strategies to grow. Here’s how to do so.
-
-
-### [150. How to Estimate Stories in Scrum: Tips for Beginners](https://hackernoon.com/how-to-estimate-stories-in-scrum-tips-for-beginners)
+### [146. How to Estimate Stories in Scrum: Tips for Beginners](https://hackernoon.com/how-to-estimate-stories-in-scrum-tips-for-beginners)
 ![](https://cdn.hackernoon.com/images/TRitLpffkiUte8hEIiq0jTtuhmy2-cd93pji.jpeg)
 
 A brief guide to story punctuation.
 
-### [151. How to Make an App That Is Unbreakable](https://hackernoon.com/how-to-make-an-app-that-is-unbreakable)
-![](https://cdn.hackernoon.com/images/0PnKXzdeU8Px7YXXEvic98yylwz1-yd937tu.jpeg)
-Discover the story of Stops, a real-time public transport app for Samara. Learn how its stability and user preference make it a low-maintenance success.
+### [147. Top Management Tips for Startup Founders ](https://hackernoon.com/top-management-tips-for-startup-founders-bx3z24vx)
+![](https://cdn.hackernoon.com/images/ir1i3yva.gif)
+Here are some top dos and don'ts for startup founders, alongside some management tips for startup founders from successful entrepreneurs.
 
-### [152. How to Nail Your Product Manager Interview in the IT Sector](https://hackernoon.com/how-to-nail-your-product-manager-interview-in-the-it-sector)
+### [148. Crystal Detectors and Telephonic Speech ](https://hackernoon.com/crystal-detectors-and-telephonic-speech)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-8e93ol3.jpeg)
+With a crystal detector receiving set you can receive either telegraphic dots and dashes or telephonic speech and music.
+
+### [149. 10 Ways to Cope with Remote Work to Make Working From Home Enjoyable](https://hackernoon.com/10-ways-to-cope-with-remote-work-to-make-working-from-home-enjoyable)
+![](https://cdn.hackernoon.com/images/7skvMoTLQPTuwU5MRJrEZ31wECq2-r4035fu.jpeg)
+In this post, you’ll find 10 tech tips and hacks to make remote working productive and fun.
+
+### [150. 7 Ways MSPs Can Manage a Remote Workforce ](https://hackernoon.com/7-ways-msps-can-manage-a-remote-workforce)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-ri93h48.jpeg)
+With issues like Great resignation coming into prominence MSPs need to create proper remote workforce management strategies to grow. Here’s how to do so.
+
+
+### [151. How to Nail Your Product Manager Interview in the IT Sector](https://hackernoon.com/how-to-nail-your-product-manager-interview-in-the-it-sector)
 ![](https://cdn.hackernoon.com/images/RFagVU43pwT3snvGql0hcFRnnlu1-cw93673.jpeg)
 This article provides 12 mistakes every PM should avoid during the job interview.
+
+### [152. How to Make an App That Is Unbreakable](https://hackernoon.com/how-to-make-an-app-that-is-unbreakable)
+![](https://cdn.hackernoon.com/images/0PnKXzdeU8Px7YXXEvic98yylwz1-yd937tu.jpeg)
+Discover the story of Stops, a real-time public transport app for Samara. Learn how its stability and user preference make it a low-maintenance success.
 
 ### [153. 6 Tips for Working Remotely](https://hackernoon.com/6-tips-for-working-remotely-3s2v3yr2)
 ![](https://images.unsplash.com/photo-1509579332522-892d62f9bbb8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Due to the COVID-19 outbreak, millions of people have suddenly had to relocate their office to their own homes. In normal times, around 8 million Americans work from home, but in just a few days, that number has multiplied, and then multiplied again.
 
-### [154. How to Pick the Best Email Marketing Platform](https://hackernoon.com/how-to-pick-the-best-email-marketing-platform-g51l3wfd)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-8l213wi7.jpeg?alt=media&token=65a4e1d7-bb8a-4e8d-9ada-831f381a3216)
-Email marketing, where many view it as a dying industry, is still very active - by 2024, it is estimated that more than 361 billion emails will be sent each and every day. This massive resource is already being utilized by many different companies to market a wide array of products and services. Email marketing can be much more effective than other forms of marketing campaigns - email marketing campaigns have been shown to acquire 40 times more customers than Twitter and Facebook campaigns combined. Email offers can also make customers spend more than twice as much with a special email offer. Marketing professionals say that email engagement is their top metric for measuring content performance, that email is one of their top free and organic distribution channels, and that email newsletters are their most used form of content marketing. 
-
-### [155. Modern Approaches to Complex IT Development: Managing business requirements](https://hackernoon.com/modern-approaches-to-complex-it-development-managing-business-requirements)
+### [154. Modern Approaches to Complex IT Development: Managing business requirements](https://hackernoon.com/modern-approaches-to-complex-it-development-managing-business-requirements)
 ![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-dfa3qye.jpeg)
 Strategies for the seamless development process and business alignment
 
-### [156. Security For PMs: A Step-By-Step Guide](https://hackernoon.com/security-for-pms-a-step-by-step-guide-8b1b3tgk)
+### [155. Debunking 6 Common Stereotypes About Working in IT](https://hackernoon.com/debunking-6-common-stereotypes-about-working-in-it)
+![](https://cdn.hackernoon.com/images/ucqmtPj504MCU1r9XzVtNQI3OdK2-i893p6a.jpeg)
+Stereotypes about IT still live on. However, every year they seem less and less witty to IT specialists. In this post we've taken apart the most popular ones.
+
+### [156. How to Pick the Best Email Marketing Platform](https://hackernoon.com/how-to-pick-the-best-email-marketing-platform-g51l3wfd)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-8l213wi7.jpeg?alt=media&token=65a4e1d7-bb8a-4e8d-9ada-831f381a3216)
+Email marketing, where many view it as a dying industry, is still very active - by 2024, it is estimated that more than 361 billion emails will be sent each and every day. This massive resource is already being utilized by many different companies to market a wide array of products and services. Email marketing can be much more effective than other forms of marketing campaigns - email marketing campaigns have been shown to acquire 40 times more customers than Twitter and Facebook campaigns combined. Email offers can also make customers spend more than twice as much with a special email offer. Marketing professionals say that email engagement is their top metric for measuring content performance, that email is one of their top free and organic distribution channels, and that email newsletters are their most used form of content marketing. 
+
+### [157. What Are Some Simple Ways to Find Out if Your Business Idea Is Any Good?](https://hackernoon.com/what-are-some-simple-ways-to-find-out-if-your-business-idea-is-any-good)
+![](https://cdn.hackernoon.com/images/hnOK0fAd72WknjvPmEBGfd1mOl92-k393oxb.jpeg)
+With the help of digital technologies, it will be easier for any startup to constantly research its audience, interests, and current needs.
+
+### [158. Security For PMs: A Step-By-Step Guide](https://hackernoon.com/security-for-pms-a-step-by-step-guide-8b1b3tgk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-0a1b3tqa.jpeg?alt=media&token=13d6ed49-ebdd-445f-8bb8-5501b8353e0a)
 Cybersecurity is among the most significant trends over the last decade and has become even more important now, especially due to more remote work being done. From ransomware to cyber espionage, hackers have developed sophisticated techniques to break into your project/company data and get away with critical information or demand ransom.
 
 Even well known organizations such as Canon, Garmin, Twitter, Honda, and Travelex have fallen victims to malicious actors. A data breach can be a disaster for your company/project, destroy the trust of your customers, and spoil your company’s reputation.
 
-### [157. Debunking 6 Common Stereotypes About Working in IT](https://hackernoon.com/debunking-6-common-stereotypes-about-working-in-it)
-![](https://cdn.hackernoon.com/images/ucqmtPj504MCU1r9XzVtNQI3OdK2-i893p6a.jpeg)
-Stereotypes about IT still live on. However, every year they seem less and less witty to IT specialists. In this post we've taken apart the most popular ones.
-
-### [158. What Are Some Simple Ways to Find Out if Your Business Idea Is Any Good?](https://hackernoon.com/what-are-some-simple-ways-to-find-out-if-your-business-idea-is-any-good)
-![](https://cdn.hackernoon.com/images/hnOK0fAd72WknjvPmEBGfd1mOl92-k393oxb.jpeg)
-With the help of digital technologies, it will be easier for any startup to constantly research its audience, interests, and current needs.
-
 ### [159. What to Do After You've Deployed Your WebApp](https://hackernoon.com/what-to-do-after-youve-deployed-your-webapp)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-qg9314r.jpeg)
 When your web app is live, it’s definitely worth checking how search engines will like it.
 
-### [160. 5 Tools To Decide If a Crypto Project Is Worth Investing In](https://hackernoon.com/5-tools-for-deciding-if-a-crypto-project-is-worth-investing-in)
-![](https://cdn.hackernoon.com/images/rMG3OAUqC1PWRJWF42X0HzilLP13-s093sc5.jpeg)
-There are tools that help VCs and institutional investors assess the potential of a crypto project before investing
-
-### [161. Removing Duplicates in Google Sheets: A Guide for Non-coders](https://hackernoon.com/removing-duplicates-in-google-sheets-a-guide-for-non-coders)
+### [160. Removing Duplicates in Google Sheets: A Guide for Non-coders](https://hackernoon.com/removing-duplicates-in-google-sheets-a-guide-for-non-coders)
 ![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-3f92p5a.jpeg)
 Highlight and Remove duplicate rows in your google spreadsheet with this script for free. Works with any type and length of sheets.
 
-### [162. Privacy and Security, Though Distinct Concepts, Are Interdependent](https://hackernoon.com/privacy-and-security-though-distinct-concepts-are-interdependent)
-![](https://cdn.hackernoon.com/images/ikbL5FgsQnPs2muFUmyvO72zC1t1-ef92h61.jpeg)
-Security & Privacy are often confused, but are distinct. It’s important that we understand the difference so that we can protect ourselves
+### [161. 5 Tools To Decide If a Crypto Project Is Worth Investing In](https://hackernoon.com/5-tools-for-deciding-if-a-crypto-project-is-worth-investing-in)
+![](https://cdn.hackernoon.com/images/rMG3OAUqC1PWRJWF42X0HzilLP13-s093sc5.jpeg)
+There are tools that help VCs and institutional investors assess the potential of a crypto project before investing
 
-### [163. Among Several Hundred Thousand Interested in Telephony](https://hackernoon.com/among-several-hundred-thousand-interested-in-telephony)
+### [162. Among Several Hundred Thousand Interested in Telephony](https://hackernoon.com/among-several-hundred-thousand-interested-in-telephony)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-i893oc4.jpeg)
 There are two distinct kinds of wireless systems and these are: the wireless telegraph system, and the wireless telephone system.
+
+### [163. Privacy and Security, Though Distinct Concepts, Are Interdependent](https://hackernoon.com/privacy-and-security-though-distinct-concepts-are-interdependent)
+![](https://cdn.hackernoon.com/images/ikbL5FgsQnPs2muFUmyvO72zC1t1-ef92h61.jpeg)
+Security & Privacy are often confused, but are distinct. It’s important that we understand the difference so that we can protect ourselves
 
 ### [164. Guide to Speaking at Your First Tech Conferences and Tips to Stand Out](https://hackernoon.com/guide-to-speaking-at-your-first-tech-conferences-and-tips-to-stand-out)
 ![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-rgb3btt.jpeg)
 Proven Strategies from 19+ Public Appearances: Networking with CEOs, World-Class Experts, and Renowned Authors.
 
-### [165. Common Mistakes Made by Developers While Redesigning](https://hackernoon.com/common-mistakes-made-by-developers-while-redesigning)
-![](https://cdn.hackernoon.com/images/INL4cGxrwnR0r7FDyWTj45Z5Oxy1-av92ndd.jpeg)
-Mistakes made during software redesign - Perfection, following a trend, hitting with a big hammer
-
-### [166. Demystifying Manual Testing: Skills, Process and Career Prospects](https://hackernoon.com/demystifying-manual-testing-skills-process-and-career-prospects)
+### [165. Demystifying Manual Testing: Skills, Process and Career Prospects](https://hackernoon.com/demystifying-manual-testing-skills-process-and-career-prospects)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-vd93lgq.jpeg)
  Learn how manual testing fits into the software development process, the essential skills required, and the ways it contributes to ensuring software quality.
+
+### [166. Common Mistakes Made by Developers While Redesigning](https://hackernoon.com/common-mistakes-made-by-developers-while-redesigning)
+![](https://cdn.hackernoon.com/images/INL4cGxrwnR0r7FDyWTj45Z5Oxy1-av92ndd.jpeg)
+Mistakes made during software redesign - Perfection, following a trend, hitting with a big hammer
 
 ### [167. Practical Tips For Binary Classification Excellence](https://hackernoon.com/practical-tips-for-binary-classification-excellence-ape3w02)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVvzpxMOKDoNEVayQaqvc3d8j4wq1-dz863w4x.jpeg?alt=media&token=89a33d0b-15df-48b7-b0a5-9641d97714d1)
 Imagine if you could get all the tips and tricks you need to tackle a binary classification problem on Kaggle or anywhere else. I have gone over 10 Kaggle competitions including:
 
-### [168. 4 Tips SaaS Founders can use to Optimize their Sales Funnel](https://hackernoon.com/4-tips-saas-founders-can-use-to-optimize-their-sales-funnel)
+### [168. 6 Strategies for App Developers Dealing With Anxiety During Layoffs](https://hackernoon.com/6-strategies-for-app-developers-dealing-with-anxiety-during-layoffs)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-pv833un.jpeg)
+App developers, manage anxiety amid layoffs with tips from Calmer app creator Daniel Leimanis: mindfulness, physical health, goals, support, and more.
+
+### [169. 4 Tips SaaS Founders can use to Optimize their Sales Funnel](https://hackernoon.com/4-tips-saas-founders-can-use-to-optimize-their-sales-funnel)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-pw93oi0.jpeg)
 This article will show you 4 tactics for optimizing your SaaS sales funnel
 
 
-### [169. How to Accelerate Mobile App Development](https://hackernoon.com/how-to-accelerate-mobile-app-development-vjr3uig)
+### [170. How to Accelerate Mobile App Development](https://hackernoon.com/how-to-accelerate-mobile-app-development-vjr3uig)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYNjYMAORLDXKVMgvMoDXiCGGEtI3-201u3u93.png?alt=media&token=f2558b05-2bdb-4ab2-91c2-681f13eeac22)
 Modern mobile products are the quintessence of the founders’ vision and actual market needs. To be successful, a mobile application needs to continually evolve in order to keep pace with changing market conditions. However, not every approach to application development can ensure such success. 
-
-### [170. 6 Strategies for App Developers Dealing With Anxiety During Layoffs](https://hackernoon.com/6-strategies-for-app-developers-dealing-with-anxiety-during-layoffs)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-pv833un.jpeg)
-App developers, manage anxiety amid layoffs with tips from Calmer app creator Daniel Leimanis: mindfulness, physical health, goals, support, and more.
 
 ### [171. How to Win Git and Influence Repositories: 15 Git Commands Every Engineer Needs](https://hackernoon.com/how-to-win-git-and-influence-repositories-15-git-commands-every-engineer-needs)
 ![](https://cdn.hackernoon.com/images/8S7YTEYJyrdVGKzKgPKnA471tYm1-8i93k0u.png)
 The version control system is the foundation of the basics, without which it is impossible to conduct team product development in our time.
 
-### [172. YSK about [Unix tools]](https://hackernoon.com/ysk-about-unix-tools-rf2q289s)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVK3VPElfEfgTBhNrSSYpDaCpam42-cn1f28hc.jpeg?alt=media&token=a8ee354c-46fd-41d3-b1b0-3e7ccbb4dc99)
-This Slack discussion, featuring myself in some sleep-deprived rambling, occurred in hackernoon's official #protips channel, and has been [barely] edited for readability.
-
-### [173. 4 Ways to Destructure Array in JavaScript & Make Your Code Look Clean](https://hackernoon.com/4-ways-to-destructure-array-in-javascript-and-make-your-code-look-clean)
+### [172. 4 Ways to Destructure Array in JavaScript & Make Your Code Look Clean](https://hackernoon.com/4-ways-to-destructure-array-in-javascript-and-make-your-code-look-clean)
 ![](https://cdn.hackernoon.com/images/jStFgqJ9QRdiGkR6khwJAgLD6Dl2-doa3v5q.png)
 Dive Deep into 4 ways of Array Destructuring Techniques and Elevate Your JavaScript Skills to the Next Level!
+
+### [173. YSK about [Unix tools]](https://hackernoon.com/ysk-about-unix-tools-rf2q289s)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVK3VPElfEfgTBhNrSSYpDaCpam42-cn1f28hc.jpeg?alt=media&token=a8ee354c-46fd-41d3-b1b0-3e7ccbb4dc99)
+This Slack discussion, featuring myself in some sleep-deprived rambling, occurred in hackernoon's official #protips channel, and has been [barely] edited for readability.
 
 ### [174. Life Hacks You Wish You Knew Growing Up](https://hackernoon.com/life-hacks-you-wish-you-knew-growing-up)
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-a2137kt.jpeg)
 In this thread, our community shared the main lessons they've learned throughout lo life - from exercising to investing in education and seizing the day.
 
-### [175. 10 Must-Try Computer Tricks For Both Mac and Windows](https://hackernoon.com/10-must-try-computer-tricks-for-both-mac-and-windows-n72a31w5)
-![](https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-1. Undo Closing A Tab
-
-### [176. Lessons Learned Using Docker from Development to Production](https://hackernoon.com/lessons-learned-using-docker-from-development-to-production-00173uaq)
+### [175. Lessons Learned Using Docker from Development to Production](https://hackernoon.com/lessons-learned-using-docker-from-development-to-production-00173uaq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaQ7yg4CEDpTDsNvbr567B6gPOEz2-n62p23tt.jpeg?alt=media&token=b783e6a3-0afb-46b5-a408-398e65989c33)
 Like many tools in the software developer's toolbox, docker is relatively easy to jump into and takes some time to master. Using it for a variety of projects over the years I've learned a few lessons along the way.
 
-### [177. Use Jupyter to Restart the Script from the Point Where the Scrapper Terminated](https://hackernoon.com/use-jupyter-to-restart-the-script-from-the-point-where-the-scrapper-terminated-jp6g32fm)
-![](https://images.unsplash.com/photo-1501139083538-0139583c060f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Have you ever had a situation where your scrapper came across an error [may it be server error or scraper block] and had to start over again?
+### [176. 10 Must-Try Computer Tricks For Both Mac and Windows](https://hackernoon.com/10-must-try-computer-tricks-for-both-mac-and-windows-n72a31w5)
+![](https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+1. Undo Closing A Tab
 
-### [178. The Operation  of Vacuum Tube Receptors](https://hackernoon.com/the-operation-of-vacuum-tube-receptors)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-j093p0q.jpeg)
-To understand how a vacuum tube acts as a detector and as an amplifier you must first know what electrons are.
-
-### [179. There is a Striking Resemblance Between Sound Waves ](https://hackernoon.com/there-is-a-striking-resemblance-between-sound-waves)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-1793pqj.png)
-There is a strikingly close resemblance between sound waves and the way they are set up in the air by a mechanically vibrating body.
-
-### [180. The Best Mechanical Keyboards for Gamers](https://hackernoon.com/the-best-mechanical-keyboards-for-gamers)
-![](https://cdn.hackernoon.com/images/ySvJWvmLFuNYXIa6D1MX7Q5YmsZ2-uzc3ute.jpeg)
-This article takes a look at some of the best mechanical keyboards for gamers. 
-
-### [181. 5 Tips For Launching a Successful Product](https://hackernoon.com/5-tips-for-launching-a-successful-product-8nh3udo)
-![](https://cdn.hackernoon.com/drafts/mim23vtf.png)
-Many new products get launched in the market every day. But not every product is a hit.
-
-### [182. Become a UX Wizard With These Simple Tips for Beginner Designers](https://hackernoon.com/become-a-ux-wizard-with-these-simple-tips-for-beginner-designers)
+### [177. Become a UX Wizard With These Simple Tips for Beginner Designers](https://hackernoon.com/become-a-ux-wizard-with-these-simple-tips-for-beginner-designers)
 ![](https://cdn.hackernoon.com/images/tkrQlHa3rzMIodIxifgaPQzmuNi2-rzi3ocx.png)
 Taking the first step towards something new is never easy.
 
-### [183. What I Wish I Knew Before Building with Bootstrap](https://hackernoon.com/what-i-wish-i-knew-before-building-with-bootstrap-r4ah32po)
-![](https://cdn.hackernoon.com/drafts/hen3yx6.png)
-I don’t know if it’s just me and the way I was raised, but I had the wacky idea that Bootstrap was supposed to make things easier for building websites. It turns out it doesn’t. At least not if you’re new to it. 
+### [178. The Best Mechanical Keyboards for Gamers](https://hackernoon.com/the-best-mechanical-keyboards-for-gamers)
+![](https://cdn.hackernoon.com/images/ySvJWvmLFuNYXIa6D1MX7Q5YmsZ2-uzc3ute.jpeg)
+This article takes a look at some of the best mechanical keyboards for gamers. 
+
+### [179. Use Jupyter to Restart the Script from the Point Where the Scrapper Terminated](https://hackernoon.com/use-jupyter-to-restart-the-script-from-the-point-where-the-scrapper-terminated-jp6g32fm)
+![](https://images.unsplash.com/photo-1501139083538-0139583c060f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Have you ever had a situation where your scrapper came across an error [may it be server error or scraper block] and had to start over again?
+
+### [180. There is a Striking Resemblance Between Sound Waves ](https://hackernoon.com/there-is-a-striking-resemblance-between-sound-waves)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-1793pqj.png)
+There is a strikingly close resemblance between sound waves and the way they are set up in the air by a mechanically vibrating body.
+
+### [181. The Operation  of Vacuum Tube Receptors](https://hackernoon.com/the-operation-of-vacuum-tube-receptors)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-j093p0q.jpeg)
+To understand how a vacuum tube acts as a detector and as an amplifier you must first know what electrons are.
+
+### [182. What Headphones and Loud Speakers Were like in 2002](https://hackernoon.com/what-headphones-and-loud-speakers-were-like-in-2002)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-0t93pys.jpeg)
+Wireless Headphones.--A telephone receiver for a wireless receiving set is made exactly on the same principle as an ordinary Bell telephone receiver.
+
+### [183. 5 Tips For Launching a Successful Product](https://hackernoon.com/5-tips-for-launching-a-successful-product-8nh3udo)
+![](https://cdn.hackernoon.com/drafts/mim23vtf.png)
+Many new products get launched in the market every day. But not every product is a hit.
 
 ### [184. Amend vs Reset: 4 Simple Ways to Reverse a Git Commit  ](https://hackernoon.com/amend-vs-reset-4-simple-ways-to-reverse-a-git-commit)
 ![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-3w93o97.jpeg)
 If you want to keep your history clean and make your mistake disappear, let me show you 4 different ways to undo a commit.
 
-### [185. What Headphones and Loud Speakers Were like in 2002](https://hackernoon.com/what-headphones-and-loud-speakers-were-like-in-2002)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-0t93pys.jpeg)
-Wireless Headphones.--A telephone receiver for a wireless receiving set is made exactly on the same principle as an ordinary Bell telephone receiver.
-
-### [186. Pythonic Techniques for Handling Sequences](https://hackernoon.com/pythonic-techniques-for-handling-sequences)
+### [185. Pythonic Techniques for Handling Sequences](https://hackernoon.com/pythonic-techniques-for-handling-sequences)
 ![](https://cdn.hackernoon.com/images/e4cwcBBfPIYqCiH6kehr6SpkmAT2-htc3p89.png)
 Advanced Tips for better List and Tuple Manipulation and Sequence Handling.
 
+
+### [186. What I Wish I Knew Before Building with Bootstrap](https://hackernoon.com/what-i-wish-i-knew-before-building-with-bootstrap-r4ah32po)
+![](https://cdn.hackernoon.com/drafts/hen3yx6.png)
+I don’t know if it’s just me and the way I was raised, but I had the wacky idea that Bootstrap was supposed to make things easier for building websites. It turns out it doesn’t. At least not if you’re new to it. 
 
 ### [187. Why Fast Typing Speed Is Counterproductive](https://hackernoon.com/why-fast-typing-speed-is-counterproductive)
 ![](https://cdn.hackernoon.com/images/JnwMdaVZrzSOfLb9FHlT2x1vsd62-fz930d6.jpeg)
 Typing 150+ words per minute won't help you get things done. Likely it will do the opposite.
 
-### [188. Clarity is the Best Tool to Amplify Your Outputs ](https://hackernoon.com/clarity-is-the-best-tool-to-amplify-your-outputs)
-![](https://cdn.hackernoon.com/images/uwdds9GP9oRGK8rZBtabE59fB8P2-zy93qmx.jpeg)
-Planning ahead and having clarity about what you want to achieve can save you time and increase your outputs, especially as a leader in a large organisation. 
-
-### [189. (Un)Stablecoins: A Risk-Averse Investor’s Guide to Safeguarding Your Crypto](https://hackernoon.com/unstablecoins-a-risk-averse-investors-guide-to-safeguarding-your-crypto)
+### [188. (Un)Stablecoins: A Risk-Averse Investor’s Guide to Safeguarding Your Crypto](https://hackernoon.com/unstablecoins-a-risk-averse-investors-guide-to-safeguarding-your-crypto)
 ![](https://cdn.hackernoon.com/images/illustrate-a-basket-filled-with-stablecoins-clfs55k6n000701s661r43rel.png)
 Stablecoins have always been heralded as the solution to crypto volatility, but if the stablecoins are crashing, where do you store your digital assets?
 
-### [190. Buying an iPhone Landed me my First Job as a Developer](https://hackernoon.com/buying-an-iphone-landed-me-my-first-job-as-a-developer)
-![](https://cdn.hackernoon.com/images/cpYIG0dDgbNBwSO0hIah1C8w3Sa2-3392d74.jpeg)
-Buying an iphone gave me a great idea, that resulted in my first job as a develop, here's how!
+### [189. Clarity is the Best Tool to Amplify Your Outputs ](https://hackernoon.com/clarity-is-the-best-tool-to-amplify-your-outputs)
+![](https://cdn.hackernoon.com/images/uwdds9GP9oRGK8rZBtabE59fB8P2-zy93qmx.jpeg)
+Planning ahead and having clarity about what you want to achieve can save you time and increase your outputs, especially as a leader in a large organisation. 
 
-### [191. Sales Pitch Shake-Up: Part One—3 Pitfalls To Pull The Plug On](https://hackernoon.com/sales-pitch-shake-up-part-one3-pitfalls-to-pull-the-plug-on)
+### [190. Sales Pitch Shake-Up: Part One—3 Pitfalls To Pull The Plug On](https://hackernoon.com/sales-pitch-shake-up-part-one3-pitfalls-to-pull-the-plug-on)
 ![](https://cdn.hackernoon.com/images/pC9ETKtznagNvUGUgZ8sqefPnUA3-lt130ze.png)
 3 "gold standard" sales pitches all tech startups NEED to avoid. Here's why. 
 
-### [192. How an NFT Investor can Survive a Bear Market: Practical Tips](https://hackernoon.com/how-an-nft-investor-can-survive-a-bear-market-practical-tips)
-![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-owb3ndp.jpeg)
+### [191. Buying an iPhone Landed me my First Job as a Developer](https://hackernoon.com/buying-an-iphone-landed-me-my-first-job-as-a-developer)
+![](https://cdn.hackernoon.com/images/cpYIG0dDgbNBwSO0hIah1C8w3Sa2-3392d74.jpeg)
+Buying an iphone gave me a great idea, that resulted in my first job as a develop, here's how!
 
-
-### [193. Why the GNU General Public License v3 for Your Open-Source Project?](https://hackernoon.com/why-the-gnu-general-public-license-v3-for-your-open-source-project)
+### [192. Why the GNU General Public License v3 for Your Open-Source Project?](https://hackernoon.com/why-the-gnu-general-public-license-v3-for-your-open-source-project)
 ![](https://cdn.hackernoon.com/images/code-on-a-computer-screen-foxwte5sf88p9fblnkpam4ey.png)
 Things to consider when choosing an open-source software license for your project. 
 
-### [194. How to Elevate Your Development Workflow With GitHub PR Templates! 🌟](https://hackernoon.com/how-to-elevate-your-development-workflow-with-github-pr-templates)
+### [193. How an NFT Investor can Survive a Bear Market: Practical Tips](https://hackernoon.com/how-an-nft-investor-can-survive-a-bear-market-practical-tips)
+![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-owb3ndp.jpeg)
+
+
+### [194. Understanding the Hot Tub Strategy](https://hackernoon.com/understanding-the-hot-tub-strategy)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-0e93pl4.png)
+Turn up the heat on your crypto game with Hot Tub. Access arbitrage alpha with our automated strategy that is low-risk, sustainable and delta neutral. 
+
+### [195. How to Elevate Your Development Workflow With GitHub PR Templates! 🌟](https://hackernoon.com/how-to-elevate-your-development-workflow-with-github-pr-templates)
 ![](https://cdn.hackernoon.com/images/jStFgqJ9QRdiGkR6khwJAgLD6Dl2-nc83z64.png)
 Elevate Your Development Workflow with GitHub PR Templates!
 Streamline Your Process with Custom Pull Request Templates
 
-### [195. Understanding the Hot Tub Strategy](https://hackernoon.com/understanding-the-hot-tub-strategy)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-0e93pl4.png)
-Turn up the heat on your crypto game with Hot Tub. Access arbitrage alpha with our automated strategy that is low-risk, sustainable and delta neutral. 
-
-### [196. 10 Common Coding Mistakes Data Scientists Should Watch Out For](https://hackernoon.com/10-common-coding-mistakes-data-scientists-should-watch-out-for)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-x793pch.jpeg)
-A look at common mistakes that data scientists make in the process of service delivery. 
-
-### [197. 6 Practical Consequences of Set Theory in Python](https://hackernoon.com/6-practical-consequences-of-set-theory-in-python)
-![](https://cdn.hackernoon.com/images/e4cwcBBfPIYqCiH6kehr6SpkmAT2-z9c3pci.jpeg)
-A Quick Guide to Implementing and Using Sets efficiently
-
-### [198. Telegraphs in the 80s](https://hackernoon.com/telegraphs-in-the-80s)
+### [196. Telegraphs in the 80s](https://hackernoon.com/telegraphs-in-the-80s)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ne93ons.jpeg)
 A wireless telegraph transmitting set can be installed for a very small amount of money provided you are content with one that has a limited range.
 
-### [199. Speed Up Your Windows 10 With These 10 Tips](https://hackernoon.com/speed-up-your-windows-10-with-these-10-tips-mo6d36qq)
-![](https://cdn.hackernoon.com/drafts/ktm364i.png)
-Just because Windows 10 is the latest version of Microsoft doesn’t mean it’s immune to slow downs. Here are 10 tips you can try to speed up Windows 10:
+### [197. 10 Common Coding Mistakes Data Scientists Should Watch Out For](https://hackernoon.com/10-common-coding-mistakes-data-scientists-should-watch-out-for)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-x793pch.jpeg)
+A look at common mistakes that data scientists make in the process of service delivery. 
+
+### [198. 6 Practical Consequences of Set Theory in Python](https://hackernoon.com/6-practical-consequences-of-set-theory-in-python)
+![](https://cdn.hackernoon.com/images/e4cwcBBfPIYqCiH6kehr6SpkmAT2-z9c3pci.jpeg)
+A Quick Guide to Implementing and Using Sets efficiently
+
+### [199. Intermediate and Long wave Regenerative Receiving Sets](https://hackernoon.com/intermediate-and-long-wave-regenerative-receiving-sets)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-d793pmq.jpeg)
+All receiving sets that receive over a range of wave lengths of from 150 meters to 3,000 meters are called intermediate wave sets.
 
 ### [200. A Practical Guides for Putting Up Your Aerial Receivers](https://hackernoon.com/a-practical-guides-for-putting-up-your-aerial-receivers)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-3r93o3d.jpeg)
 An aerial for receiving does not have to be nearly as well made or put up as one for sending.
 
-### [201. Intermediate and Long wave Regenerative Receiving Sets](https://hackernoon.com/intermediate-and-long-wave-regenerative-receiving-sets)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-d793pmq.jpeg)
-All receiving sets that receive over a range of wave lengths of from 150 meters to 3,000 meters are called intermediate wave sets.
+### [201. Speed Up Your Windows 10 With These 10 Tips](https://hackernoon.com/speed-up-your-windows-10-with-these-10-tips-mo6d36qq)
+![](https://cdn.hackernoon.com/drafts/ktm364i.png)
+Just because Windows 10 is the latest version of Microsoft doesn’t mean it’s immune to slow downs. Here are 10 tips you can try to speed up Windows 10:
 
 ### [202. Learn How to Monetize Your Blog From These 5 Lifestyle Bloggers](https://hackernoon.com/learn-how-to-monetize-your-blog-from-these-5-lifestyle-bloggers)
 ![](https://cdn.hackernoon.com/images/gdQFWRWI2dUfuUXpjZp8v9uzDtH2-t9936f2.jpeg)
 Whether you're a novice or an experienced blogger, these top influencers offer inspiration and a wealth of knowledge to aid your journey.
 
-### [203. A Saner Method for Keeping Under API Rate Limits](https://hackernoon.com/a-saner-method-for-keeping-under-api-rate-limits)
-![](https://cdn.hackernoon.com/images/software-development-cliwg5841000201s634m91l9l.png)
-Uncover a better way to keep under API rate limits. 
-
-### [204. Protect Your iPhone and iPad Better With These Security Tips](https://hackernoon.com/protect-your-iphone-and-ipad-better-with-these-security-tips-xd1g33ui)
-![](https://cdn.hackernoon.com/drafts/175p636e4.png)
-1. Keep The Device Up To Date
-
-### [205. Electricity, What a Concept!](https://hackernoon.com/electricity-what-a-concept)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-zn93o1n.jpeg)
-It is easy to understand how electricity behaves and what it does if you get the right idea of it at the start.
-
-### [206. 6 Types of Web Hosting to Consider](https://hackernoon.com/6-types-of-web-hosting-to-consider-mu1g3tee)
-![](https://cdn.hackernoon.com/drafts/sgg3tje.png)
-When it comes to web hosting, you’ll find that there are plenty of options out there. However, each of these has its own pros and cons. Usually, they’re all tailored for the specific needs of the website owner. And while all of them are basically storage space you rent for your website, there are plenty of differences between them; ranging from the required technical knowledge to reliability and server speeds. With that in mind, here are the six basic kinds of web hosting you should consider!
-
-### [207. The Mighty App Developer vs a Pesky Bug](https://hackernoon.com/the-mighty-app-developer-vs-a-pesky-bug)
-![](https://cdn.hackernoon.com/images/mighty-developer-vs-pesky-bug-cle705nnb000001s68zhf2dck.png)
-A year ago, I, the almighty mobile application developer, was brought down by a pesky bug that was causing my precious creation to crash frequently for users.
-
-### [208. 5 Tips To Extend Your Battery Life On A Windows Laptop](https://hackernoon.com/5-tips-to-extend-your-battery-life-on-a-windows-laptop-xi3u36m5)
-![](https://cdn.hackernoon.com/drafts/dp2o331c.png)
-One of the greatest things about having a laptop is being able to bring it anywhere. However, it's not so great when your laptop is running out of battery and there's no outlet in sight. To keep this from happening, here are some things you can do to extend your laptop's battery life:
-
-### [209. 7 Things New Mac Users Need to Do](https://hackernoon.com/7-things-new-mac-users-need-to-do-xoh136j2)
-![](https://cdn.hackernoon.com/drafts/a845a36k0.png)
-Hi! My name is Robert and I own a computer repairs company in Australia. As a company owner, I often help my clients with setting up their Mac devices. Here are some things I think every new Mac user should know:
-
-### [210. How to Search Haster With These 3 AI Search Engines](https://hackernoon.com/how-to-search-haster-with-these-3-ai-search-engines)
+### [203. How to Search Haster With These 3 AI Search Engines](https://hackernoon.com/how-to-search-haster-with-these-3-ai-search-engines)
 ![](https://cdn.hackernoon.com/images/m9JBS4HuFHgt9h0AOMHgC4YWlgJ2-py03cvy.webp)
 Searching for info these days can be a pain. Who wants to waste hours just to find... nothing? The New Way: AI Search Engine - Do faster search!
 
-### [211. Mastering Public Static and Void Functions: Key Concepts for Effective Coding](https://hackernoon.com/mastering-public-static-and-void-functions-key-concepts-for-effective-coding)
+### [204. A Saner Method for Keeping Under API Rate Limits](https://hackernoon.com/a-saner-method-for-keeping-under-api-rate-limits)
+![](https://cdn.hackernoon.com/images/software-development-cliwg5841000201s634m91l9l.png)
+Uncover a better way to keep under API rate limits. 
+
+### [205. Mastering Public Static and Void Functions: Key Concepts for Effective Coding](https://hackernoon.com/mastering-public-static-and-void-functions-key-concepts-for-effective-coding)
 ![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-xc93pnm.jpeg)
 While "public static" as well as "void" fulfill separate functions, it is critical to grasp the distinctions between them to fully utilize their capabilities.
 
-### [212. 5 Web Design Tips for Beginners](https://hackernoon.com/5-web-design-tips-for-beginners)
-![](https://cdn.hackernoon.com/images/hX1yfsZiaJTx5abi3rNIMJIWvK72-6e03cmq.jpeg)
-Here is a list of 5 things you didn't know you didn't know about designing a website.
+### [206. Electricity, What a Concept!](https://hackernoon.com/electricity-what-a-concept)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-zn93o1n.jpeg)
+It is easy to understand how electricity behaves and what it does if you get the right idea of it at the start.
 
-### [213. Stop Interruptions: Turn Off Notifications in Windows 11](https://hackernoon.com/stop-interruptions-turn-off-notifications-in-windows-11)
+### [207. Protect Your iPhone and iPad Better With These Security Tips](https://hackernoon.com/protect-your-iphone-and-ipad-better-with-these-security-tips-xd1g33ui)
+![](https://cdn.hackernoon.com/drafts/175p636e4.png)
+1. Keep The Device Up To Date
+
+### [208. The Mighty App Developer vs a Pesky Bug](https://hackernoon.com/the-mighty-app-developer-vs-a-pesky-bug)
+![](https://cdn.hackernoon.com/images/mighty-developer-vs-pesky-bug-cle705nnb000001s68zhf2dck.png)
+A year ago, I, the almighty mobile application developer, was brought down by a pesky bug that was causing my precious creation to crash frequently for users.
+
+### [209. 6 Types of Web Hosting to Consider](https://hackernoon.com/6-types-of-web-hosting-to-consider-mu1g3tee)
+![](https://cdn.hackernoon.com/drafts/sgg3tje.png)
+When it comes to web hosting, you’ll find that there are plenty of options out there. However, each of these has its own pros and cons. Usually, they’re all tailored for the specific needs of the website owner. And while all of them are basically storage space you rent for your website, there are plenty of differences between them; ranging from the required technical knowledge to reliability and server speeds. With that in mind, here are the six basic kinds of web hosting you should consider!
+
+### [210. 5 Tips To Extend Your Battery Life On A Windows Laptop](https://hackernoon.com/5-tips-to-extend-your-battery-life-on-a-windows-laptop-xi3u36m5)
+![](https://cdn.hackernoon.com/drafts/dp2o331c.png)
+One of the greatest things about having a laptop is being able to bring it anywhere. However, it's not so great when your laptop is running out of battery and there's no outlet in sight. To keep this from happening, here are some things you can do to extend your laptop's battery life:
+
+### [211. 7 Things New Mac Users Need to Do](https://hackernoon.com/7-things-new-mac-users-need-to-do-xoh136j2)
+![](https://cdn.hackernoon.com/drafts/a845a36k0.png)
+Hi! My name is Robert and I own a computer repairs company in Australia. As a company owner, I often help my clients with setting up their Mac devices. Here are some things I think every new Mac user should know:
+
+### [212. Stop Interruptions: Turn Off Notifications in Windows 11](https://hackernoon.com/stop-interruptions-turn-off-notifications-in-windows-11)
 ![](https://cdn.hackernoon.com/images/MQBhHY3JhYMo0hRJSnBtaDcbvhD3-y203b8c.png)
 Notifications are useful, however, it varies with user and the notification type. 
+
+### [213. 5 Web Design Tips for Beginners](https://hackernoon.com/5-web-design-tips-for-beginners)
+![](https://cdn.hackernoon.com/images/hX1yfsZiaJTx5abi3rNIMJIWvK72-6e03cmq.jpeg)
+Here is a list of 5 things you didn't know you didn't know about designing a website.
 
 ### [214. 6 Types of Web Hosting to Consider](https://hackernoon.com/6-types-of-web-hosting-to-consider-flo34as)
 ![](https://cdn.hackernoon.com/drafts/sgg3tje.png)
 When it comes to web hosting, you’ll find that there are plenty of options out there. However, each of these has its own pros and cons. Usually, they’re all tailored for the specific needs of the website owner. And while all of them are basically storage space you rent for your website, there are plenty of differences between them; ranging from the required technical knowledge to reliability and server speeds. With that in mind, here are the six basic kinds of web hosting you should consider!
 
-### [215. The Smartest Person in the Room Myth](https://hackernoon.com/the-smartest-person-in-the-room-myth)
-![](https://cdn.hackernoon.com/images/ZVGZD9vCBTgsVGCx1hbvQ09lFVp1-cp23bdw.jpeg)
-Many professionals chase the idea of being “the smartest person in the room,” believing it’s the key to success. 
-
-### [216. Overcoming the Challenges of Using a Serverless Stack](https://hackernoon.com/overcoming-the-challenges-of-using-a-serverless-stack)
+### [215. Overcoming the Challenges of Using a Serverless Stack](https://hackernoon.com/overcoming-the-challenges-of-using-a-serverless-stack)
 ![](https://cdn.hackernoon.com/images/JVuR2U7vEzdHAibZhEVpkxrPcq62-h3a3lqh.gif.webp)
 In this article, I want to share a few challenges I've encountered while working with a serverless stack on AWS Lambda.
 
-### [217. Security For PMs: How-To [Part II]](https://hackernoon.com/security-for-pms-how-to-part-ii-oa1j3tm7)
+### [216. Security For PMs: How-To [Part II]](https://hackernoon.com/security-for-pms-how-to-part-ii-oa1j3tm7)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-4jv280v.jpeg?alt=media&token=1335d196-7ff7-41b9-8ea3-8684b03598a3)
 In the first part of this article, we have talked about the ways in which your customers may check if your statements of the security matter in your company line up with reality. Now let us focus on how to ensure that your security practices are actually working and how to avoid the numerous pitfalls on this way.
+
+### [217. Building a Divider App: How Many Cases Can Share One Operation?](https://hackernoon.com/building-a-divider-app-how-many-cases-can-share-one-operation)
+![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-tf92hza.jpeg)
+Thinking about all the things that could go wrong in code execution and preparing for them is a big part of a programmer's job.
 
 ### [218. 7 Tips Before Choosing a Web Design Agency](https://hackernoon.com/7-tips-for-choosing-a-web-design-agency)
 ![](https://cdn.hackernoon.com/images/00TXPmyh1Veszngfd8YUf904vc92-18337f5.jpeg)
@@ -896,37 +900,37 @@ The corporate image of a company is everything in today's world. That is why whe
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-6b93ooa.jpeg)
 The easiest way to know how a wireless transmitter sends out electric waves and how a wireless receptor receives them is to consider each one separately. 
 
-### [220. Building a Divider App: How Many Cases Can Share One Operation?](https://hackernoon.com/building-a-divider-app-how-many-cases-can-share-one-operation)
-![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-tf92hza.jpeg)
-Thinking about all the things that could go wrong in code execution and preparing for them is a big part of a programmer's job.
-
-### [221. Using the Binary Search Algorithm With Git and AWS Kinesis](https://hackernoon.com/using-the-binary-search-algorithm-with-git-and-aws-kinesis)
+### [220. Using the Binary Search Algorithm With Git and AWS Kinesis](https://hackernoon.com/using-the-binary-search-algorithm-with-git-and-aws-kinesis)
 ![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-bp93sbv.jpeg)
 Discover how the binary search algorithm improves performance in Git and AWS Kinesis. Learn how to implement it in your own projects for better efficiency.
 
-### [222. Guarding Against Burnout in Software Teams](https://hackernoon.com/guarding-against-burnout-in-software-teams)
+### [221. Guarding Against Burnout in Software Teams](https://hackernoon.com/guarding-against-burnout-in-software-teams)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-i393nr9.jpeg)
 Here are the strategies I use to prevent burnout in Agile software teams. Getting wellbeing strategies right helps improve productivity and work-life balance.
+
+### [222. How I Find Order in Everyday Chaos ](https://hackernoon.com/how-i-find-order-in-everyday-chaos)
+![](https://cdn.hackernoon.com/images/ID5vpYFPVyMYcsLE5TUbYLZp6n73-oc93p0r.jpeg)
+Tips for improving your productivity amidst even the most chaotic days.  
 
 ### [223. Regenerative Amplification and Receiving Sets ](https://hackernoon.com/regenerative-amplification-and-receiving-sets)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-5w93pcr.jpeg)
 While a vacuum tube detector has an amplifying action of its own, its action can be further increased by making radio frequency currents react on the detector. 
 
-### [224. How I Find Order in Everyday Chaos ](https://hackernoon.com/how-i-find-order-in-everyday-chaos)
-![](https://cdn.hackernoon.com/images/ID5vpYFPVyMYcsLE5TUbYLZp6n73-oc93p0r.jpeg)
-Tips for improving your productivity amidst even the most chaotic days.  
+### [224. Comparing Threads, Processes, and Programs: Establishing Key Differences](https://hackernoon.com/comparing-threads-processes-and-programs-establishing-key-differences)
+![](https://cdn.hackernoon.com/images/EoVbI98oiigmAxrHs5vIf7ng6qF3-sx9360n.jpeg)
+This is an exciting interview question to check the fundamentals of an interviewee. People often need clarification on these three terms.
 
-### [225. Heterodyne or Beat Long wave Telegraph Receiving Set?](https://hackernoon.com/heterodyne-or-beat-long-wave-telegraph-receiving-set)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-hc93pok.jpeg)
-In 2002, there were four different ways used to break up the continuous waves of a wireless telegraph transmitter into groups. Let's discuss them.
-
-### [226. Effortlessly Transfer Your Website to a New Host in 6 Simple Steps](https://hackernoon.com/effortlessly-transfer-your-website-to-a-new-host-in-6-simple-steps)
+### [225. Effortlessly Transfer Your Website to a New Host in 6 Simple Steps](https://hackernoon.com/effortlessly-transfer-your-website-to-a-new-host-in-6-simple-steps)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-hs93p0x.jpeg)
 If you want to transfer your website to a new host, this how-to article outlines the step-by-step process for a smooth migration.
 
-### [227. Comparing Threads, Processes, and Programs: Establishing Key Differences](https://hackernoon.com/comparing-threads-processes-and-programs-establishing-key-differences)
-![](https://cdn.hackernoon.com/images/EoVbI98oiigmAxrHs5vIf7ng6qF3-sx9360n.jpeg)
-This is an exciting interview question to check the fundamentals of an interviewee. People often need clarification on these three terms.
+### [226. Heterodyne or Beat Long wave Telegraph Receiving Set?](https://hackernoon.com/heterodyne-or-beat-long-wave-telegraph-receiving-set)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-hc93pok.jpeg)
+In 2002, there were four different ways used to break up the continuous waves of a wireless telegraph transmitter into groups. Let's discuss them.
+
+### [227. The Smartest Person in the Room Myth](https://hackernoon.com/the-smartest-person-in-the-room-myth)
+![](https://cdn.hackernoon.com/images/ZVGZD9vCBTgsVGCx1hbvQ09lFVp1-cp23bdw.jpeg)
+Many professionals chase the idea of being “the smartest person in the room,” believing it’s the key to success. 
 
 ### [228. 7 Most Important Tips for New Sellers](https://hackernoon.com/7-most-important-tips-for-new-sellers-nl3jp389j)
 ![](https://cdn.hackernoon.com/drafts/rc3mt38u2.png)

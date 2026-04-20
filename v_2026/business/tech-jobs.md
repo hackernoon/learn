@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [tech-jobs](https://hackernoon.com/tagged/tech-jobs)
+### Let's learn about [Tech Jobs](https://hackernoon.com/tagged/tech-jobs) via these 127 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Tech jobs encompass roles within the technology sector, driving innovation and providing crucial career opportunities in a rapidly evolving industry. They are vital for economic growth and advancing digital capabilities across all sectors.
+
 ### [1. Top 10 Job Boards Where You Can Find Your Next Software Engineering Job](https://hackernoon.com/top-10-job-boards-where-you-can-find-your-next-software-engineering-job)
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-q993oyy.jpeg)
 I’ve compiled just a few of the best places for you to look for new job openings.
@@ -97,13 +101,13 @@ Have your efforts as a woman in tech garnered heightened respect in a male-domin
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-enb3ov0.jpeg)
 A look at what the jobs of the future will look like
 
-### [25. How to Land a Tech Job in a Post-Layoff Market](https://hackernoon.com/how-to-land-a-tech-job-in-a-post-layoff-market)
-![](https://cdn.hackernoon.com/images/iDqFm3EzpNMytDX4B7qgGnZD2Eg2-6b8319i.jpeg)
-Navigating 2024’s tech layoffs can be tough. Understanding why they are happening is a crucial step to embrace the changing landscape and land a new job.
-
-### [26. 5 Useful Tips from My Amazon SDE II Interview Experience ](https://hackernoon.com/5-useful-tips-from-my-amazon-sde-ii-interview-experience)
+### [25. 5 Useful Tips from My Amazon SDE II Interview Experience ](https://hackernoon.com/5-useful-tips-from-my-amazon-sde-ii-interview-experience)
 ![](https://cdn.hackernoon.com/images/QnFDojAB33cV3HI4TKLtqZgddXp1-2f93jlh.jpeg)
 Amazon SDEII coding and system design interview experience from initial recruiter call to online assessment and onsite rounds.
+
+### [26. How to Land a Tech Job in a Post-Layoff Market](https://hackernoon.com/how-to-land-a-tech-job-in-a-post-layoff-market)
+![](https://cdn.hackernoon.com/images/iDqFm3EzpNMytDX4B7qgGnZD2Eg2-6b8319i.jpeg)
+Navigating 2024’s tech layoffs can be tough. Understanding why they are happening is a crucial step to embrace the changing landscape and land a new job.
 
 ### [27. Ageism in Tech: How It Feels To Be The Oldest in the Room](https://hackernoon.com/ageism-in-tech-how-it-feels-to-be-the-oldest-in-the-room-c5g63yjg)
 ![](https://cdn.hackernoon.com/drafts/8e5x384n.png)
@@ -145,13 +149,13 @@ Redesigned CV boosted job interview rate from 2% to 20%. Learn the 5 resume fixe
 ![](https://cdn.hackernoon.com/drafts/fp4u3266.png)
 Hi there!
 
-### [37. The Power of Tech Communities](https://hackernoon.com/the-magic-of-a-tech-community-6a4d362c)
-![](https://cdn.hackernoon.com/images/zc3d36d2.jpg)
-And how it led me to a Software Engineering job at one of India’s largest online grocery company. 
-
-### [38. What Does a Blockchain Engineer Do](https://hackernoon.com/what-does-a-blockchain-engineer-do)
+### [37. What Does a Blockchain Engineer Do](https://hackernoon.com/what-does-a-blockchain-engineer-do)
 ![](https://cdn.hackernoon.com/images/qbjdMko7eFaiqBJgAApmsjilPv83-6593px3.jpeg)
 Given the vast potential of blockchain technology, it's no surprise that there is high demand for workers with blockchain engineering skills.
+
+### [38. The Power of Tech Communities](https://hackernoon.com/the-magic-of-a-tech-community-6a4d362c)
+![](https://cdn.hackernoon.com/images/zc3d36d2.jpg)
+And how it led me to a Software Engineering job at one of India’s largest online grocery company. 
 
 ### [39. How to Ace Your Interview Assignment to Land Your Next Front-end Job](https://hackernoon.com/how-to-ace-your-interview-assignment-to-land-your-next-front-end-job)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-2gb3hly.jpeg)
@@ -227,13 +231,13 @@ Tech workers with more than one job are becoming the norm - but is this trend se
 ![](https://images.unsplash.com/photo-1549923746-c502d488b3ea?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 So, you have just finished your SEO Training from a well-known institute and are about to give your first interview. But HANG ON! Are you sure you are well prepared for what's coming?
 
-### [57. Your Job Through the Lens of Artificial Intelligence](https://hackernoon.com/your-job-through-the-lens-of-artificial-intelligence)
-![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-uqm3pj1.jpeg)
-Over the past few months, journalists have been raving about AI-generated art. 
-
-### [58. What is Data Science like at NVIDIA?](https://hackernoon.com/what-is-data-science-like-at-nvidia)
+### [57. What is Data Science like at NVIDIA?](https://hackernoon.com/what-is-data-science-like-at-nvidia)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-ed93l6z.jpeg)
 What is it like to work in big companies like NVIDIA, and how to get there?
+
+### [58. Your Job Through the Lens of Artificial Intelligence](https://hackernoon.com/your-job-through-the-lens-of-artificial-intelligence)
+![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-uqm3pj1.jpeg)
+Over the past few months, journalists have been raving about AI-generated art. 
 
 ### [59. What Are The Best Paying Jobs in Tech in 2022?](https://hackernoon.com/what-are-the-best-paying-jobs-in-tech-in-2022)
 ![](https://cdn.hackernoon.com/images/6ybbl9aWWfY00B17CQRTGLygdlQ2-9v93ol2.jpeg)
@@ -279,13 +283,13 @@ Disclaimer: this reflects my personal opinions, not those of my employer.
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-sy03bzb.jpeg)
 AI is eliminating jobs with 342 tech-company layoffs and 77,999 people impacted so far in 2025. 
 
-### [70. How to Work in Tech Without  Technical Experience](https://hackernoon.com/how-to-work-in-tech-without-technical-experience)
-![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-2t935js.jpeg)
-Learn what are the best entry level IT jobs. I describe briefly what QA engineer, product owner, scrum master, UX/UI designer, CSM and technical writer do. It's
-
-### [71. A Short History of Graphic Design Jobs](https://hackernoon.com/a-short-history-of-graphic-design-jobs)
+### [70. A Short History of Graphic Design Jobs](https://hackernoon.com/a-short-history-of-graphic-design-jobs)
 ![](https://cdn.hackernoon.com/images/j0VcnIj58mOSDbu7dw8c43rhpYC2-8492hi2.jpeg)
 Graphic Designers and Artists are in high demand, but with advancements in software and the growth of the internet some fear that these jobs will die off.
+
+### [71. How to Work in Tech Without  Technical Experience](https://hackernoon.com/how-to-work-in-tech-without-technical-experience)
+![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-2t935js.jpeg)
+Learn what are the best entry level IT jobs. I describe briefly what QA engineer, product owner, scrum master, UX/UI designer, CSM and technical writer do. It's
 
 ### [72. Everybody Hates Marketers in the Tech World](https://hackernoon.com/everybody-hates-marketers-in-the-tech-world)
 ![](https://cdn.hackernoon.com/images/1jgpaEo7nCTzLsBcKsqiWygK06I3-rdc36ln.gif.webp)
@@ -307,65 +311,65 @@ Learn everything you need to know about Job Search via these 81 free HackerNoon 
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-u192dic.jpeg)
 The security operation center analyst, often called the SOC analyst, is a lesser-known profession in IT. 
 
-### [77. Why is There Not Enough Software Engineers? ](https://hackernoon.com/why-is-there-not-enough-software-engineers-tqca3680)
-![](https://cdn.hackernoon.com/images/td4c39km.jpg)
-“The tech industry is thriving. It’s expanding almost three times faster than the rest of the UK economy and it’s nearly worth £184bn.”
-
-### [78. How to Nail Your Product Manager Interview in the IT Sector](https://hackernoon.com/how-to-nail-your-product-manager-interview-in-the-it-sector)
+### [77. How to Nail Your Product Manager Interview in the IT Sector](https://hackernoon.com/how-to-nail-your-product-manager-interview-in-the-it-sector)
 ![](https://cdn.hackernoon.com/images/RFagVU43pwT3snvGql0hcFRnnlu1-cw93673.jpeg)
 This article provides 12 mistakes every PM should avoid during the job interview.
 
-### [79. Reflecting on Five Years of Remote Work at NoDesk](https://hackernoon.com/reflecting-on-five-years-of-remote-work-at-nodesk-4o1e3t8v)
+### [78. Your Complete Guide to Getting A Job On Blockchain](https://hackernoon.com/your-complete-guide-to-getting-a-job-on-blockchain)
+![](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-gf93oc1.png)
+Blockchain Gaming is One of the Best Methods of Self Employment on Blockchain for People who Don't want A Skill Focused Job AND want to Have Fun while Earning.
+
+### [79. Why is There Not Enough Software Engineers? ](https://hackernoon.com/why-is-there-not-enough-software-engineers-tqca3680)
+![](https://cdn.hackernoon.com/images/td4c39km.jpg)
+“The tech industry is thriving. It’s expanding almost three times faster than the rest of the UK economy and it’s nearly worth £184bn.”
+
+### [80. Reflecting on Five Years of Remote Work at NoDesk](https://hackernoon.com/reflecting-on-five-years-of-remote-work-at-nodesk-4o1e3t8v)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F50cfMlkdrFdQ1bjhqQCU5GSD5A53-2x253toq.jpeg?alt=media&token=5a3cd0e5-2064-4c5b-bc50-e7797703551c)
 This past July, NoDesk turned five. As part of this milestone, I want to reflect on how and why NoDesk came to be, what’s changed over the years, and talk about what’s next as we all look towards the future of work.
 
-### [80. How to Hold on to Critical Knowledge When Employees Leave](https://hackernoon.com/how-to-hold-on-to-critical-knowledge-when-employees-leave-9a133utn)
+### [81. How to Hold on to Critical Knowledge When Employees Leave](https://hackernoon.com/how-to-hold-on-to-critical-knowledge-when-employees-leave-9a133utn)
 ![](https://cdn.hackernoon.com/images/hyc53wax.jpg)
 If you do a good job as a leader, the people you mentor will eventually outgrow their original roles. Some will rise within their departments; others will go on to lead new teams. Many will go on to work for other businesses. 
-
-### [81. Your Complete Guide to Getting A Job On Blockchain](https://hackernoon.com/your-complete-guide-to-getting-a-job-on-blockchain)
-![](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-gf93oc1.png)
-Blockchain Gaming is One of the Best Methods of Self Employment on Blockchain for People who Don't want A Skill Focused Job AND want to Have Fun while Earning.
 
 ### [82. Few Hacks For Your Next Tech Resume](https://hackernoon.com/few-hacks-for-your-next-tech-resume-1gf3uu2)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-9m1728rt.png?alt=media&token=0a09646e-7582-4e57-a839-16eabe3db4ba)
 Here's every mistake (or advice) I can think of when building your resume based on my humble experience reviewing more than 500 resumes as Head of Engineering at a tech company.
 
-### [83. The Best Way to Find Software Developer Jobs in Switzerland](https://hackernoon.com/the-best-way-to-find-software-developer-jobs-in-switzerland)
+### [83. Tips and Insights From a Successful SDE-2 Application: Microsoft Engineer Interview (Offer 2024)](https://hackernoon.com/tips-and-insights-from-a-successful-sde-2-application-microsoft-engineer-interview-offer-2024)
+![](https://cdn.hackernoon.com/images/tNYyQ4dunVPIYf2kfl8GXWaMH903-2402zcl.png)
+Surabhi Gupta shares her journey to secure a position at Microsoft after spending over four fulfilling years at a startup. 
+
+### [84. The Best Way to Find Software Developer Jobs in Switzerland](https://hackernoon.com/the-best-way-to-find-software-developer-jobs-in-switzerland)
 ![](https://cdn.hackernoon.com/images/Pge19rPKUBWxG7wfaNEYPGRfvNk2-ssc3pum.png)
 If you want to find a job in Switzerland - This step by step guide tells you: how to find job, what is important when applying and what are the formalities!
 
-### [84. Tech Jobs Are Among The Best Paying Jobs In 2021](https://hackernoon.com/tech-jobs-are-among-the-best-paying-jobs-in-2021-qd2634qz)
+### [85. Tech Jobs Are Among The Best Paying Jobs In 2021](https://hackernoon.com/tech-jobs-are-among-the-best-paying-jobs-in-2021-qd2634qz)
 ![](https://cdn.hackernoon.com/images/kE9GqcNb5zNXCSntuirx0nLsBV52-7po3406.jpeg)
 Tech jobs have gained an increasingly important status in the modern world. See what type of jobs are among the best paying ones.
-
-### [85. Tips and Insights From a Successful SDE-2 Application: Microsoft Engineer Interview (Offer 2024)](https://hackernoon.com/tips-and-insights-from-a-successful-sde-2-application-microsoft-engineer-interview-offer-2024)
-![](https://cdn.hackernoon.com/images/tNYyQ4dunVPIYf2kfl8GXWaMH903-2402zcl.png)
-Surabhi Gupta shares her journey to secure a position at Microsoft after spending over four fulfilling years at a startup. 
 
 ### [86. I Went From 166 Rejections to an Offer—Here Are The 5 Rules That Worked For Me](https://hackernoon.com/i-went-from-166-rejections-to-an-offerhere-are-the-5-rules-that-worked-for-me)
 ![](https://cdn.hackernoon.com/images/utrrS4gs9nPc1i8z2qupQFJNhhK2-xw43jos.png)
 A few months back, I sent out 166 applications, pouring my heart into each one, hoping for a breakthrough. But the reality was harsh.
 
-### [87. 3 Ways to Win the Negotiation for What You Want From Your Next Job](https://hackernoon.com/3-ways-to-win-the-negotiation-for-what-you-want-from-your-next-job-kax3ud2)
+### [87. How to Make Your Social Media Bio Catchy and Memorable With ChatGPT](https://hackernoon.com/how-to-make-your-social-media-bio-catchy-and-memorable-with-chatgpt)
+![](https://cdn.hackernoon.com/images/5bUHPRn0Elfz3IyYaf07EC5rOao2-h00322g.png)
+Practical ChatGPT input for a comprehensive professional bio
+
+### [88. 3 Ways to Win the Negotiation for What You Want From Your Next Job](https://hackernoon.com/3-ways-to-win-the-negotiation-for-what-you-want-from-your-next-job-kax3ud2)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY8OnbrBlePVzFHizwYeYKtHAbMn1-x0a628kg.jpeg?alt=media&token=c2c9f52e-526f-4a01-9a43-dada10c1c946)
 If you are tech worker right now, you are in demand. If you are considering moving on to another position, you are going to want to prepare. Of course, you need to burnish your resume and reach out to your LinkedIn network for endorsements. Such things are a given, but if you really want to be a TOUGH negotiator, then certain things must be so. Get your ducks in a row.
 
-### [88. AI Isn't Here to Steal Your Job, Techies—Proven Points to Understand](https://hackernoon.com/ai-isnt-here-to-steal-your-job-techiesproven-points-to-understand)
+### [89. AI Isn't Here to Steal Your Job, Techies—Proven Points to Understand](https://hackernoon.com/ai-isnt-here-to-steal-your-job-techiesproven-points-to-understand)
 ![](https://cdn.hackernoon.com/images/VdThZgqYnkfg78mMLTxGHSjfNDg2-iu034dg.jpeg)
 Find how AI complements tech jobs by enhancing productivity, creating new roles, and empowering creativity. Learn why AI is an ally, not a threat.
 
-### [89. 300 Million Jobs Could Potentially Be Lost to Automation](https://hackernoon.com/300-million-jobs-could-potentially-be-lost-to-automation)
+### [90. 300 Million Jobs Could Potentially Be Lost to Automation](https://hackernoon.com/300-million-jobs-could-potentially-be-lost-to-automation)
 ![](https://cdn.hackernoon.com/images/robot-going-to-work-clh9k6rzi000001s6dd3y4535.png)
 Alex Banks talks about the potential 300 million jobs that could be lost to automation. 
 
-### [90. AI's Impact on Jobs: Automation, Upskilling, and New Opportunities](https://hackernoon.com/ais-impact-on-jobs-automation-upskilling-and-new-opportunities)
+### [91. AI's Impact on Jobs: Automation, Upskilling, and New Opportunities](https://hackernoon.com/ais-impact-on-jobs-automation-upskilling-and-new-opportunities)
 ![](https://cdn.hackernoon.com/images/gfw4NxkUQKPp2R0AkcTiS85lGiG2-t393tgn.jpeg)
 Artificial intelligence is expected to create 20–50 million new jobs globally by 2030. The new jobs will be in a range of industries, including healthcare...
-
-### [91. How to Make Your Social Media Bio Catchy and Memorable With ChatGPT](https://hackernoon.com/how-to-make-your-social-media-bio-catchy-and-memorable-with-chatgpt)
-![](https://cdn.hackernoon.com/images/5bUHPRn0Elfz3IyYaf07EC5rOao2-h00322g.png)
-Practical ChatGPT input for a comprehensive professional bio
 
 ### [92. The Tech Job Market 2020: Can You Still Hit Your Engineering Hiring Goals?](https://hackernoon.com/the-tech-job-market-2020-can-you-still-hit-your-engineering-hiring-goals-nox3wgy)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMVSUGjZ6hNZd5HAMok4XfJBU7RG3-hx1m3t7n.jpeg?alt=media&token=3e0cd644-c5a1-4f8f-a2e2-e1656de0c00f)
@@ -375,21 +379,21 @@ COVID 19’s impact in the tech sector highlights its importance in today’s ci
 ![](https://cdn.hackernoon.com/images/7a4p3zt5.jpg)
 Now the title may sound a little bit confusing. What does law have to do with programming? How can these two drastically different professions find anything in common in the future?
 
-### [94. How to Prepare Yourself (and your CV) for Remote Tech Opportunities](https://hackernoon.com/how-to-prepare-yourself-and-your-cv-for-remote-tech-opportunities-k91k37qy)
+### [94. 20 Ways to Stand Out in a Hiring Process (That Doesn’t Involve Your Resume)](https://hackernoon.com/20-ways-to-stand-out-in-a-hiring-process-that-doesnt-involve-your-resume)
+![](https://cdn.hackernoon.com/images/jAe8nDJHWuhNTYfeZVmoqHUgxXz2-bz93wl0.jpeg)
+20 ways to stand out in a hiring process that don’t involve your resume. 
+
+### [95. How to Prepare Yourself (and your CV) for Remote Tech Opportunities](https://hackernoon.com/how-to-prepare-yourself-and-your-cv-for-remote-tech-opportunities-k91k37qy)
 ![](https://cdn.hackernoon.com/images/JgUqzrFGnFdSlnGv7mgbtAIzfbb2-jj1o354i.jpeg)
 Do you want to find remote work in tech? Find out the most essential tips, tools and resources to help you prepare yourself and your CV for tech roles.
 
-### [95. Ask for a Signing Bonus, Baby!](https://hackernoon.com/ask-for-a-signing-bonus-baby-0b1431hx)
+### [96. Ask for a Signing Bonus, Baby!](https://hackernoon.com/ask-for-a-signing-bonus-baby-0b1431hx)
 ![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-xg5928ll.jpeg)
 You are in demand. You have a good paying job right now. Why should you move? Yes, there are lots of reasons, especially in tech to move on to the next job. However, you are under no great economic pressure to do so. 
 
-### [96. Landing a Job at Tesla Using Facebook Ads](https://hackernoon.com/landing-a-job-at-tesla-using-facebook-ads-4o7y3yn7)
+### [97. Landing a Job at Tesla Using Facebook Ads](https://hackernoon.com/landing-a-job-at-tesla-using-facebook-ads-4o7y3yn7)
 ![](https://cdn.hackernoon.com/drafts/0j1cl3yd1.png)
 Step by step guide how to stand out of the crowd landing a job with Facebook ads
-
-### [97. 20 Ways to Stand Out in a Hiring Process (That Doesn’t Involve Your Resume)](https://hackernoon.com/20-ways-to-stand-out-in-a-hiring-process-that-doesnt-involve-your-resume)
-![](https://cdn.hackernoon.com/images/jAe8nDJHWuhNTYfeZVmoqHUgxXz2-bz93wl0.jpeg)
-20 ways to stand out in a hiring process that don’t involve your resume. 
 
 ### [98. My Top Tip to Avoid Being Ghosted During Your Job Hunt in 2025 ](https://hackernoon.com/my-top-tip-to-avoid-being-ghosted-during-your-job-hunt-in-2025)
 ![](https://cdn.hackernoon.com/images/utrrS4gs9nPc1i8z2qupQFJNhhK2-3o03lrk.jpeg)
@@ -403,9 +407,9 @@ Motorola cut the cord when it placed the first handheld mobile phone call over 4
 ![](https://cdn.hackernoon.com/images/om1j3yzx.gif)
 Let's face it, there's a lot that could go wrong in a remote interview. The technical glitches alone could change the whole tone. 
 
-### [101. I almost quit my job until I learned from these mistakes.](https://hackernoon.com/i-almost-quit-my-job-until-i-learned-from-these-mistakes-wr7q37k9)
-![](https://hackernoon.com/images/vJZjNRXjG5OwQ3VPCR4tScyGSEC3-v24e3517.jpeg)
-Have you ever been frustrated and felt like quitting? Well, wanting to quit one's job is normal, but little did I know. These are my biggest mistakes & lessons.
+### [101. From Discrimination to Empowerment: Women's Journeys in Tech](https://hackernoon.com/from-discrimination-to-empowerment-womens-journeys-in-tech)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-bq93pip.jpeg)
+Despite the difficulties they encounter, women have made important contributions to the technology sector. 
 
 ### [102. How to Choose the Best Resume Template to Land Your Dream Tech Job](https://hackernoon.com/how-to-choose-the-best-resume-template-to-land-your-dream-tech-job-s72p37e9)
 ![](https://cdn.hackernoon.com/images/AqYX8DaByfOj7QKAO2JKsnQ0rvL2-s03y35v3.jpeg)
@@ -415,9 +419,9 @@ Struggling to decide to find a suitable resume template? Follow this easy guide 
 ![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-9b82tyr.jpeg)
 Like any industry, jobs in tech have their highs and lows. Don't confuse today's temporary challenges for something more permanent.
 
-### [104. From Discrimination to Empowerment: Women's Journeys in Tech](https://hackernoon.com/from-discrimination-to-empowerment-womens-journeys-in-tech)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-bq93pip.jpeg)
-Despite the difficulties they encounter, women have made important contributions to the technology sector. 
+### [104. I almost quit my job until I learned from these mistakes.](https://hackernoon.com/i-almost-quit-my-job-until-i-learned-from-these-mistakes-wr7q37k9)
+![](https://hackernoon.com/images/vJZjNRXjG5OwQ3VPCR4tScyGSEC3-v24e3517.jpeg)
+Have you ever been frustrated and felt like quitting? Well, wanting to quit one's job is normal, but little did I know. These are my biggest mistakes & lessons.
 
 ### [105. Tips and Stories on Getting into Tech with No IT Background](https://hackernoon.com/tips-and-stories-on-getting-into-tech-with-no-it-background)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-gv92cl7.jpeg)
@@ -435,37 +439,37 @@ For the better part of a year, the 25-year-old wouldn’t respond when spoken to
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhWqqw2Na5Kf9N5oQQOMmLDXaqew2-vh3e3teh.jpeg?alt=media&token=ef392fde-64b3-490b-9a9e-8596406eefa3)
 If you are passionate about the Tech sector you have probably dreamed at least once of being a Googler, of being part of the team that will launch the next iPhone or working on the next feature of an app with millions of users.
 
-### [109. From Happy Hours to Team Size: What Does Tech Talent Actually Care About?](https://hackernoon.com/from-happy-hours-to-team-size-what-does-tech-talent-actually-care-about-pa1o4zku)
-![](https://cdn.hackernoon.com/images/9v2542l5.jpg)
-Growing a happy, productive tech team (and one that sticks around longer than a year or two) is a balancing act. Because money isn’t always a sole motivator for employees, rising startups and big-name brands are reeling in candidates with value-driven company cultures and incentivizing perks, such as the freedom to work from home, readily available cold (or craft) brew on tap or, in the case of Dallas-based Southwest Airlines, unlimited flights.
+### [109. Tech Workers Need More Than the Average U.S. Salary And This Is Why](https://hackernoon.com/tech-workers-need-more-than-the-average-us-salary-and-this-is-why)
+![](https://cdn.hackernoon.com/images/CFe2OEutzHPpZu5ypBrXf2VsWPW2-fa9389q.jpeg)
+And according to recent data compiled by Indeed, job seekers are 75% more likely to apply for a job that displays salary information over those that don’t.
 
 ### [110. 83 Stories To Learn About Tech Jobs](https://hackernoon.com/83-stories-to-learn-about-tech-jobs)
 ![](https://cdn.hackernoon.com/images/github/tech-jobs-577.png)
 Learn everything you need to know about Tech Jobs via these 83 free HackerNoon stories.
 
-### [111. Tech Workers Need More Than the Average U.S. Salary And This Is Why](https://hackernoon.com/tech-workers-need-more-than-the-average-us-salary-and-this-is-why)
-![](https://cdn.hackernoon.com/images/CFe2OEutzHPpZu5ypBrXf2VsWPW2-fa9389q.jpeg)
-And according to recent data compiled by Indeed, job seekers are 75% more likely to apply for a job that displays salary information over those that don’t.
+### [111. From Happy Hours to Team Size: What Does Tech Talent Actually Care About?](https://hackernoon.com/from-happy-hours-to-team-size-what-does-tech-talent-actually-care-about-pa1o4zku)
+![](https://cdn.hackernoon.com/images/9v2542l5.jpg)
+Growing a happy, productive tech team (and one that sticks around longer than a year or two) is a balancing act. Because money isn’t always a sole motivator for employees, rising startups and big-name brands are reeling in candidates with value-driven company cultures and incentivizing perks, such as the freedom to work from home, readily available cold (or craft) brew on tap or, in the case of Dallas-based Southwest Airlines, unlimited flights.
 
 ### [112. Job Listed As In-Office? You Might Be Able To Go Remote](https://hackernoon.com/job-listed-as-in-office-you-might-be-able-to-go-remote)
 ![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-4y82tg9.jpeg)
 Despite the chatter about RTO (return to office) it's still possible to take a job that's listed as in-office and negotiate it as a remote position. 
 
-### [113. Tips for Engineering Graduates](https://hackernoon.com/tips-for-engineering-graduates-ez1u36am)
-![](https://cdn.hackernoon.com/images/xn7f47cf.jpg)
-Mechanical Engineering Graduates, here are some tips to kick-start your career. Because we know how difficult and challenging it is in this domain, with so many unanswered questions, especially for beginners.
-
-### [114. How To Recruit Great Scrum Masters](https://hackernoon.com/how-to-recruit-great-scrum-masters-4wb43yu6)
+### [113. How To Recruit Great Scrum Masters](https://hackernoon.com/how-to-recruit-great-scrum-masters-4wb43yu6)
 ![](https://cdn.hackernoon.com/drafts/a6n23ygs.png)
 Finding a Scrum Master is simple and complex. There are plenty of people out there who call themselves “Scrum Masters”, but how do you know if the person you are hiring really is a great Scrum Master?
 
-### [115. Your CV Is Full of Mistakes—Here's How to Spot Them](https://hackernoon.com/your-cv-is-full-of-mistakesheres-how-to-spot-them)
-![](https://cdn.hackernoon.com/images/utrrS4gs9nPc1i8z2qupQFJNhhK2-6r33l7g.png)
-The article highlights 3 common CV mistakes: rating skill levels, including personal info, and using text blocks. Get practical fixes to improve your CV.
+### [114. Tips for Engineering Graduates](https://hackernoon.com/tips-for-engineering-graduates-ez1u36am)
+![](https://cdn.hackernoon.com/images/xn7f47cf.jpg)
+Mechanical Engineering Graduates, here are some tips to kick-start your career. Because we know how difficult and challenging it is in this domain, with so many unanswered questions, especially for beginners.
 
-### [116. Jobs Ahoy! Level up Your Tech Career With HackerNoon](https://hackernoon.com/jobs-ahoy-level-up-your-tech-career-with-hackernoon)
+### [115. Jobs Ahoy! Level up Your Tech Career With HackerNoon](https://hackernoon.com/jobs-ahoy-level-up-your-tech-career-with-hackernoon)
 ![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-ktc3s87.jpeg)
 HackerNoon is now making it easier than ever to find your dream job, right from within our website. Read on to find out more.
+
+### [116. Your CV Is Full of Mistakes—Here's How to Spot Them](https://hackernoon.com/your-cv-is-full-of-mistakesheres-how-to-spot-them)
+![](https://cdn.hackernoon.com/images/utrrS4gs9nPc1i8z2qupQFJNhhK2-6r33l7g.png)
+The article highlights 3 common CV mistakes: rating skill levels, including personal info, and using text blocks. Get practical fixes to improve your CV.
 
 ### [117. What Do You Prefer: Fully Remote, Hybrid, or Fully In-Office?](https://hackernoon.com/what-do-you-prefer-fully-remote-hybrid-or-fully-in-office)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-wk83ec9.jpeg)
@@ -495,13 +499,13 @@ Ah, the age-old question: which tech stack should I learn?
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3A85qIm6nIQQMupj0NCg3JAoI7k1-wtd23j5.png?alt=media&token=320a1a47-feab-4638-a69f-b5a49cbaf6d7)
 Recently, I’ve seen people discuss on Twitter about whether a college degree is required to get into a tech job and if having one gives you any competitive advantage over the self-taught ones. I believe I can add a cent or two to that discussion. I am going to tell my story and experience so it might encourage others.
 
-### [124. What To Do If You Don’t Have a Summer Internship](https://hackernoon.com/what-to-do-if-you-dont-have-a-summer-internship-zi6w3ys6)
-![](https://cdn.hackernoon.com/drafts/lqhp3yzq.png)
-If you prefer to follow along via my YouTube video, you can watch it here!
-
-### [125. Courier is Building a Healthy, Inclusive Work Culture to Attract Top Talent](https://hackernoon.com/courier-is-building-a-healthy-inclusive-work-culture-to-attract-top-talent)
+### [124. Courier is Building a Healthy, Inclusive Work Culture to Attract Top Talent](https://hackernoon.com/courier-is-building-a-healthy-inclusive-work-culture-to-attract-top-talent)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-cm93ya5.png)
 How do you fairly compensate your employees for a job well done?
+
+### [125. What To Do If You Don’t Have a Summer Internship](https://hackernoon.com/what-to-do-if-you-dont-have-a-summer-internship-zi6w3ys6)
+![](https://cdn.hackernoon.com/drafts/lqhp3yzq.png)
+If you prefer to follow along via my YouTube video, you can watch it here!
 
 ### [126. Are Video Resumes a Good Idea for Fresh Graduates?](https://hackernoon.com/are-video-resumes-a-good-idea-for-fresh-graduates-ws13371o)
 ![](https://cdn.hackernoon.com/images/8QOqJY4kaYNE3VnJB6juEXTHfry2-1oe35bw.jpeg)

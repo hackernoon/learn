@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [scam](https://hackernoon.com/tagged/scam)
+### Let's learn about [Scam](https://hackernoon.com/tagged/scam) via these 60 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 "The key to my success was my ability to be a chameleon, to adapt and become whoever I needed to be in order to pull off my schemes," Frank Abagnale Jr.
 
 ### [1. Amway: Pyramid Scheme or Legitimate Business Opportunity?](https://hackernoon.com/amway-pyramid-scheme-or-legitimate-business-opportunity)
@@ -79,21 +81,21 @@ I never thought that as a web design agency owner, I would be susceptible to sca
 ![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-8qh2hj4.jpeg)
 A ProPublica investigation determined that Jugenburg’s dubious alter ego was created as part of what appears to be an Instagram account verification scam.
 
-### [20. Deepfake Voices: AI’s New Playground](https://hackernoon.com/deepfake-voices-ais-new-playground)
-![](https://cdn.hackernoon.com/images/0yWFzvZxdnR06ofY5hSQmg6HXd32-tda3ou4.jpeg)
-Deepfakes twist voices and visuals. Beware of scams using AI-edited videos; what you see may not be real!
-
-### [21. Human Trafficking Victims Also Forced to Cyberscam](https://hackernoon.com/human-trafficking-victims-are-forced-to-cyberscam)
+### [20. Human Trafficking Victims Also Forced to Cyberscam](https://hackernoon.com/human-trafficking-victims-are-forced-to-cyberscam)
 ![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-k0k2gz4.jpeg)
 It was selling human beings — in particular, human beings in Sihanoukville, Cambodia, and other cities in southeast Asia.
 
-### [22. How To Make Millions With Unemployment Sites That Don't Work](https://hackernoon.com/how-to-make-millions-with-unemployment-sites-that-dont-work-4k1v35ej)
-![](https://hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-3r10347v.jpeg)
-In at least one case, that same company is now getting pandemic-relatedcontracts
+### [21. Deepfake Voices: AI’s New Playground](https://hackernoon.com/deepfake-voices-ais-new-playground)
+![](https://cdn.hackernoon.com/images/0yWFzvZxdnR06ofY5hSQmg6HXd32-tda3ou4.jpeg)
+Deepfakes twist voices and visuals. Beware of scams using AI-edited videos; what you see may not be real!
 
-### [23. Geographz.com is a SCAM Please Don't Trust: Fake T-Shirts](https://hackernoon.com/geographzcom-is-a-scam-please-dont-trust-fake-t-shirts)
+### [22. Geographz.com is a SCAM Please Don't Trust: Fake T-Shirts](https://hackernoon.com/geographzcom-is-a-scam-please-dont-trust-fake-t-shirts)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-74b3dgp.png)
 Geographz.com is a complete scam! Please don't waste your money.
+
+### [23. How To Make Millions With Unemployment Sites That Don't Work](https://hackernoon.com/how-to-make-millions-with-unemployment-sites-that-dont-work-4k1v35ej)
+![](https://hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-3r10347v.jpeg)
+In at least one case, that same company is now getting pandemic-relatedcontracts
 
 ### [24. 10 Tips to Avoid Being Scammed by Fake Job Ads ](https://hackernoon.com/10-tips-to-avoid-being-scammed-by-fake-job-ads)
 ![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-xef2h4q.jpeg)
@@ -111,13 +113,13 @@ Following the successful but expensive launch and sales of digital land plots of
 ![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-swf2hz9.jpeg)
 Instead, the ads are cybercriminals’ latest attempt to steal people’s identities and use them to commit fraud, according to recent warnings from the FBI
 
-### [28. Dear Substack Writers Who've Been Approached by TechBullion](https://hackernoon.com/dear-substack-writers-whove-been-approached-by-techbullion-0z2v319a)
-![](https://cdn.hackernoon.com/images/qwlVSFUNhGO3DAw4hoBd17XGTAC2-q86g341c.jpeg)
-TechBullion.com has a budget for approaching authors on Substack. Here's how I responded. 
-
-### [29. MEVgate: How Twitter Collaborated With a Known Crypto Scammer](https://hackernoon.com/mevgate-how-twitter-collaborated-with-a-known-crypto-scammer)
+### [28. MEVgate: How Twitter Collaborated With a Known Crypto Scammer](https://hackernoon.com/mevgate-how-twitter-collaborated-with-a-known-crypto-scammer)
 ![](https://cdn.hackernoon.com/images/Qba5s3Jm3tf7wieS5ydYonkEJSh2-y4d3lsj.jpeg)
 Not only did Twitter let a scammer promote his fake bots for months, but also actively censored the investigator who called him out. 
+
+### [29. Dear Substack Writers Who've Been Approached by TechBullion](https://hackernoon.com/dear-substack-writers-whove-been-approached-by-techbullion-0z2v319a)
+![](https://cdn.hackernoon.com/images/qwlVSFUNhGO3DAw4hoBd17XGTAC2-q86g341c.jpeg)
+TechBullion.com has a budget for approaching authors on Substack. Here's how I responded. 
 
 ### [30. Protecting the Japanese Elderly from Scams Using AI](https://hackernoon.com/protecting-the-japanese-elderly-from-scams-using-ai-tl393uq7)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZ9fVIWoPLsYpD4WjKorOgas3CZq1-fp143u86.png?alt=media&token=38a7b554-46f8-4fca-9274-77b44c98435e)
@@ -163,37 +165,37 @@ Just about the time today I was writing a LinkedIn post touting the greatness of
 ![](https://cdn.hackernoon.com/images/RLJKsfwZCDWTI3PRMeoW9Ciw6Y62-3a93rxc.jpeg)
 My desperate plea for Elon to save my inbox from scamming emails.
 
-### [41. Cryptocurrency: A Boom in Value Begets a Boom in Crime](https://hackernoon.com/cryptocurrency-a-boom-in-value-begets-a-boom-in-crime-0cy33ep)
-![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-0qi33la.jpeg)
-When cryptocurrency value rises, we can expect a parallel rise in crypto-related crime, including phishing, fake brokers, and scams impersonating exchanges and other legitimate services.
-
-### [42. Deceptive Doppelgangers: How Deepfakes Caused a Scam of HK $200 Million](https://hackernoon.com/deceptive-doppelgangers-how-deepfakes-caused-a-scam-of-hk-$200-million)
+### [41. Deceptive Doppelgangers: How Deepfakes Caused a Scam of HK $200 Million](https://hackernoon.com/deceptive-doppelgangers-how-deepfakes-caused-a-scam-of-hk-$200-million)
 ![](https://cdn.hackernoon.com/images/GwlxHSudjFXp2j21DJ7mg0SknSK2-me83ged.jpeg)
 Deceptive Doppelgangers: How Deepfakes Caused a Scam of HK $200 Million
+
+### [42. Cryptocurrency: A Boom in Value Begets a Boom in Crime](https://hackernoon.com/cryptocurrency-a-boom-in-value-begets-a-boom-in-crime-0cy33ep)
+![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-0qi33la.jpeg)
+When cryptocurrency value rises, we can expect a parallel rise in crypto-related crime, including phishing, fake brokers, and scams impersonating exchanges and other legitimate services.
 
 ### [43. The Noonification: The Ray of Madness (9/18/2022)](https://hackernoon.com/9-18-2022-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 9/18/2022: Top 5 stories on the Hackernoon homepage!
 
-### [44. Cybersecurity Essentials to Protect Remote Workers Online](https://hackernoon.com/cybersecurity-essentials-to-protect-remote-workers-online-fl283vou)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bq82qtj.jpeg)
-As the pandemic forces many workers from the office to their home office, the world of work has been changed forever. And while working from home can have many benefits in the long-term for both staff and corporation, it’s not ideal for every business. For example, one major fear at the moment stems from having enough cybersecurity at home.
-
-### [45. How Can You Protect Yourself from Social Engineering in a World Full of Fraud?](https://hackernoon.com/how-can-you-protect-yourself-from-social-engineering-in-a-world-full-of-fraud)
+### [44. How Can You Protect Yourself from Social Engineering in a World Full of Fraud?](https://hackernoon.com/how-can-you-protect-yourself-from-social-engineering-in-a-world-full-of-fraud)
 ![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-qye3xj4.jpeg)
 Are you susceptible to social engineering? This post covers how these attacks work and how you can avoid them. 
+
+### [45. Cybersecurity Essentials to Protect Remote Workers Online](https://hackernoon.com/cybersecurity-essentials-to-protect-remote-workers-online-fl283vou)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bq82qtj.jpeg)
+As the pandemic forces many workers from the office to their home office, the world of work has been changed forever. And while working from home can have many benefits in the long-term for both staff and corporation, it’s not ideal for every business. For example, one major fear at the moment stems from having enough cybersecurity at home.
 
 ### [46. Cybercriminals Fall for Scams Too](https://hackernoon.com/cybercriminals-fall-for-scams-too)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-jr93rj4.jpeg)
 Even scammers aren't immune to their own tactics. Here's how karma catches up to these bad actors, with scammers getting scammed by other scammers.
 
-### [47. How Fraudsters Carry out Holiday Themed Scams to Steal Your Identity ](https://hackernoon.com/how-fraudsters-carry-out-holiday-themed-scams-to-steal-your-identity-4s2l34gy)
-![](https://cdn.hackernoon.com/images/BTebIQC3QWRzOkHa6vmi4XvDiLM2-zxa3w34.jpeg)
-Online scammers become more active during the holiday season with new and improved techniques to carry out phishing scams. Watch out for a fake personal letter.
-
-### [48. How to Spot a “Real Crypto Project” Especially Now That So Many Fail Within Two Years](https://hackernoon.com/how-to-spot-a-real-crypto-project-especially-now-that-so-many-fail-within-two-years)
+### [47. How to Spot a “Real Crypto Project” Especially Now That So Many Fail Within Two Years](https://hackernoon.com/how-to-spot-a-real-crypto-project-especially-now-that-so-many-fail-within-two-years)
 ![](https://cdn.hackernoon.com/images/cPav5sXiU5TWYzb4sHIZoNIMu0c2-dz93tih.jpeg)
 for more than a decade now, it is crystal clear that not all crypto projects are real projects, hence, the reason so many of them begin on good notes and die
+
+### [48. How Fraudsters Carry out Holiday Themed Scams to Steal Your Identity ](https://hackernoon.com/how-fraudsters-carry-out-holiday-themed-scams-to-steal-your-identity-4s2l34gy)
+![](https://cdn.hackernoon.com/images/BTebIQC3QWRzOkHa6vmi4XvDiLM2-zxa3w34.jpeg)
+Online scammers become more active during the holiday season with new and improved techniques to carry out phishing scams. Watch out for a fake personal letter.
 
 ### [49. Is Cryptocurrency Nothing But A Scam?](https://hackernoon.com/is-cryptocurrency-nothing-but-a-scam)
 ![](https://cdn.hackernoon.com/images/KmpmTH2TGpeyMS3TJLuiZyrIOly1-q6830z4.jpeg)
@@ -223,13 +225,13 @@ I received an email a couple of days ago and it was a ransomware scam. I have re
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-xh9303b.jpeg)
 Investors and business leaders are always drawn to the next big thing. While joining in on a project early is always exciting and may result in massive returns, there are still potential pitfalls to be aware of. 
 
-### [56. Online Scams: Types, Mechanisms, Victim Profiles, and Protection](https://hackernoon.com/online-scams-types-mechanisms-victim-profiles-and-protection-0i2g3u27)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGL2u4Ho48vbrAlD9O5BAaueWDzy2-cnv3uxc.jpeg?alt=media&token=f36bc54e-bf8f-4f0e-bf21-e9b4f83ee97f)
-Online scams start from a similar piece of financial discernment. At the point when it’s conceivable to communicate to a huge number of individuals, it’s inescapable that somebody, some place, will chomp. In any case, not all scams are made equivalent. While the Nigerian Banker may not trick you, other progressively unpretentious scam could very well. This is what you have to know.
-
-### [57. 39 Stories To Learn About Scam](https://hackernoon.com/39-stories-to-learn-about-scam)
+### [56. 39 Stories To Learn About Scam](https://hackernoon.com/39-stories-to-learn-about-scam)
 ![](https://cdn.hackernoon.com/images/github/scam-674.png)
 Learn everything you need to know about Scam via these 39 free HackerNoon stories.
+
+### [57. Online Scams: Types, Mechanisms, Victim Profiles, and Protection](https://hackernoon.com/online-scams-types-mechanisms-victim-profiles-and-protection-0i2g3u27)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGL2u4Ho48vbrAlD9O5BAaueWDzy2-cnv3uxc.jpeg?alt=media&token=f36bc54e-bf8f-4f0e-bf21-e9b4f83ee97f)
+Online scams start from a similar piece of financial discernment. At the point when it’s conceivable to communicate to a huge number of individuals, it’s inescapable that somebody, some place, will chomp. In any case, not all scams are made equivalent. While the Nigerian Banker may not trick you, other progressively unpretentious scam could very well. This is what you have to know.
 
 ### [58. 5 Effective Strategies To Identify Phishing Sites](https://hackernoon.com/5-effective-strategies-to-identify-phishing-sites-xh4k35v9)
 ![](https://cdn.hackernoon.com/images/m7QQa5tsVEhuMJVr63eh0xscrje2-tm1g3x6h.jpeg)

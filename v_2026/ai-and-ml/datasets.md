@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [datasets](https://hackernoon.com/tagged/datasets)
+### Let's learn about [Datasets](https://hackernoon.com/tagged/datasets) via these 102 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Learn how to leverage diverse datasets to fuel innovation and solve complex problems.
 
 
@@ -74,29 +76,29 @@ Intro
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-vui34qz.jpeg)
 For digital nomads, college students, stay-at-home parents or anyone looking for remote work positions, this article introduces online/remote work positions that are available today in the fields of AI Data Collection and Data Annotation. 
 
-### [18. "We Are Very Early in Our Work With LLMs," - Prem Ramaswami, Head of Data Commons at Google](https://hackernoon.com/we-are-very-early-in-our-work-with-llms-prem-ramaswami-head-of-data-commons-at-google)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-x303nfr.png)
-Google's Head of Data Commons joined HackerNoon to discuss grounding AI in verifiable data, and why "we are very early with LLMs," MCP's open approach. 
-
-### [19. How To Master Elasticsearch Query DSL](https://hackernoon.com/how-to-master-elasticsearch-query-dsl-454632cg)
+### [18. How To Master Elasticsearch Query DSL](https://hackernoon.com/how-to-master-elasticsearch-query-dsl-454632cg)
 ![](https://cdn.hackernoon.com/drafts/1u1232zg.png)
 Photo by Evgeni Tcherkasski on Unsplash
 
-### [20. 11 Torchvision Datasets for Computer Vision You Need to Know](https://hackernoon.com/11-torchvision-datasets-for-computer-vision-you-need-to-know)
+### [19. 11 Torchvision Datasets for Computer Vision You Need to Know](https://hackernoon.com/11-torchvision-datasets-for-computer-vision-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/thousands-of-images-organized-together-in-small-frames-clfkn4ai7000001s63baz0lfr.png)
 With torchvision datasets, developers can train and test their machine learning models on a range of tasks, such as image classification and object detection.
 
-### [21. 10 Best Hugging Face Datasets for Building NLP Models](https://hackernoon.com/10-best-hugging-face-datasets-for-building-nlp-models)
+### [20. 10 Best Hugging Face Datasets for Building NLP Models](https://hackernoon.com/10-best-hugging-face-datasets-for-building-nlp-models)
 ![](https://cdn.hackernoon.com/images/XpJR5t0jZkOEpTUlwMdX7M38xQ83-lf93tud.png)
 Hugging Face offers solutions and tools for developers and researchers. This article looks at the Best Hugging Face Datasets for Building NLP Models.
 
-### [22. An Intro to No-Code Web Scraping](https://hackernoon.com/an-intro-to-no-code-web-scraping)
+### [21. An Intro to No-Code Web Scraping](https://hackernoon.com/an-intro-to-no-code-web-scraping)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-8403o5g.jpeg)
 Web scraping has broken the barriers of programming and can now be done in a much simpler and easier manner without using a single line of code.
 
-### [23. 10 Best Image Classification Datasets for ML Projects](https://hackernoon.com/10-best-image-classification-datasets-for-ml-projects-kt2l3zzf)
+### [22. 10 Best Image Classification Datasets for ML Projects](https://hackernoon.com/10-best-image-classification-datasets-for-ml-projects-kt2l3zzf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-xl1v3zr2.jpeg?alt=media&token=4856863a-4248-4d47-8904-3f122d3e19d2)
 To help you build object recognition models, scene recognition models, and more, we’ve compiled a list of the best image classification datasets. These datasets vary in scope and magnitude and can suit a variety of use cases. Furthermore, the datasets have been divided into the following categories: medical imaging, agriculture & scene recognition, and others. 
+
+### [23. "We Are Very Early in Our Work With LLMs," - Prem Ramaswami, Head of Data Commons at Google](https://hackernoon.com/we-are-very-early-in-our-work-with-llms-prem-ramaswami-head-of-data-commons-at-google)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-x303nfr.png)
+Google's Head of Data Commons joined HackerNoon to discuss grounding AI in verifiable data, and why "we are very early with LLMs," MCP's open approach. 
 
 ### [24. How to Draw an Attractive Convenient Table — Design Techniques and Examples](https://hackernoon.com/how-to-draw-an-attractive-convenient-table-design-techniques-and-examples)
 ![](https://cdn.hackernoon.com/images/vxVSPGKwioacsSd1Iw5XdYEklLD3-kg92w66.png)
@@ -194,13 +196,13 @@ In the battle for the best data, is first-party better? Not by itself, but it co
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-m6e31y3.jpeg)
 A list of African language datasets from across the web that can be used in numerous NLP tasks.
 
-### [48. Going From Data Lakes to Oceans](https://hackernoon.com/from-data-lakes-to-oceans-kdd32q4)
-![](https://cdn.hackernoon.com/images/u1kg326d.jpg)
-Aggregating into data lakes is the solution of today — but are Federated Sources the solution of tomorrow?
-
-### [49. Multi-EuP: Analysis of Bias in Information Retrieval - Abstract and Intro](https://hackernoon.com/multi-eup-analysis-of-bias-in-information-retrieval-abstract-and-intro)
+### [48. Multi-EuP: Analysis of Bias in Information Retrieval - Abstract and Intro](https://hackernoon.com/multi-eup-analysis-of-bias-in-information-retrieval-abstract-and-intro)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-r582q8i.jpeg)
 Explore language bias in multilingual information retrieval with the Multi-EuP dataset, revealing insights into fairness and demographic factors.
+
+### [49. Going From Data Lakes to Oceans](https://hackernoon.com/from-data-lakes-to-oceans-kdd32q4)
+![](https://cdn.hackernoon.com/images/u1kg326d.jpg)
+Aggregating into data lakes is the solution of today — but are Federated Sources the solution of tomorrow?
 
 ### [50. A Deep Dive Into Facebook’s AI Transcoder](https://hackernoon.com/a-deep-dive-into-facebooks-ai-transcoder-9xx3usf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-ue1928bk.jpeg?alt=media&token=ead79737-9a18-415d-afcb-eb4b5ea5d175)
@@ -218,13 +220,13 @@ We will guide you through a specific dataset, demonstrating how to implement the
 ![](https://images.unsplash.com/photo-1484253292651-6e940b0a0e26?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 WHAT IS DATA ANALYTICS?
 
-### [54. Merging Datasets from Different Timescales](https://hackernoon.com/merging-datasets-from-different-timescales)
-![](https://cdn.hackernoon.com/images/TYAy8YXF3pNC96IPW15fOOqYix43-5d92rwa.jpeg)
-One of the trickiest situations in machine learning is when you have to deal with datasets coming from different time scales.
-
-### [55. Top 15 Datasets for Autonomous Driving](https://hackernoon.com/top-15-datasets-for-autonomous-driving-ea2u35ej)
+### [54. Top 15 Datasets for Autonomous Driving](https://hackernoon.com/top-15-datasets-for-autonomous-driving-ea2u35ej)
 ![](https://cdn.hackernoon.com/images/fl5CJVyh8tSOSbowsznA9Sb8XYu2-wd3735er.jpeg)
 A2D2, ApolloScape, and Berkeley DeepDrive are among the best autonomous driving datasets available today. 
+
+### [55. Merging Datasets from Different Timescales](https://hackernoon.com/merging-datasets-from-different-timescales)
+![](https://cdn.hackernoon.com/images/TYAy8YXF3pNC96IPW15fOOqYix43-5d92rwa.jpeg)
+One of the trickiest situations in machine learning is when you have to deal with datasets coming from different time scales.
 
 ### [56. What is Web Data Collection?](https://hackernoon.com/what-is-web-data-collection)
 ![](https://cdn.hackernoon.com/images/0FC9YtxD4fbD3T7mPipOt4HSxY42-skg3hui.png)
@@ -294,17 +296,17 @@ In this article, I would like to share my own experience of developing a smart c
 ![](https://cdn.hackernoon.com/drafts/3vk32t4.png)
 How Can You Sort Through Online Data?
 
-### [73. Here's Why We Built An Open-Source Goldmine of Crypto-Markets Datasets](https://hackernoon.com/heres-why-we-built-an-open-source-goldmine-of-crypto-markets-datasets-cl2h3xmi)
+### [73. Multi-EuP: Analysis of Bias in Information Retrieval - Conclusion, Limitations, and Ethics Statement](https://hackernoon.com/multi-eup-analysis-of-bias-in-information-retrieval-conclusion-limitations-and-ethics-statement)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-3c82qv1.jpeg)
+Explore language bias in multilingual information retrieval with the Multi-EuP dataset, revealing insights into fairness and demographic factors.
+
+### [74. Here's Why We Built An Open-Source Goldmine of Crypto-Markets Datasets](https://hackernoon.com/heres-why-we-built-an-open-source-goldmine-of-crypto-markets-datasets-cl2h3xmi)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJo7iOlPYdbSgNW2IeQldjrg972S2-wk6u286a.jpeg?alt=media&token=71b2a779-6a5f-4813-a216-f52a2c59d61c)
 How to run a distributed data-mining operation to source and process crypto market data at zero cost.
 
-### [74. MODEL-CENTRIC vs DATA-CENTRIC Approaches in Machine Learning](https://hackernoon.com/model-centric-vs-data-centric-approaches-in-machine-learning)
+### [75. MODEL-CENTRIC vs DATA-CENTRIC Approaches in Machine Learning](https://hackernoon.com/model-centric-vs-data-centric-approaches-in-machine-learning)
 ![](https://cdn.hackernoon.com/images/jIDMtQuyHQfJ8GN62OI3NQtsHBX2-dja3ly6.jpeg)
 Machine learning is an area of artificial intelligence (AI) and computer science that focuses on using data and algorithms to mimic the way humans learn
-
-### [75. Multi-EuP: Analysis of Bias in Information Retrieval - Conclusion, Limitations, and Ethics Statement](https://hackernoon.com/multi-eup-analysis-of-bias-in-information-retrieval-conclusion-limitations-and-ethics-statement)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-3c82qv1.jpeg)
-Explore language bias in multilingual information retrieval with the Multi-EuP dataset, revealing insights into fairness and demographic factors.
 
 ### [76. Face Data Augmentation - Part 1: Geometric Transformation](https://hackernoon.com/face-data-augmentation-part-1-geometric-transformation)
 ![](https://cdn.hackernoon.com/images/Stolt6tEO4bBbtH98cxI4xo7luw1-73533k2.png)
@@ -362,54 +364,58 @@ Explore language bias in multilingual information retrieval with the Multi-EuP d
 ![](https://cdn.hackernoon.com/images/a-red-emergency-light-going-off-while-a-robot-escapes-from-its-cell-pnrev2ba0x6qbqd7hzd4ozrv.png)
 We have created a new high-quality benchmark, WikiWebQuestions, for large knowledge-base question answering.
 
-### [90. Things to Consider When Looking For Data Science Roles](https://hackernoon.com/things-to-keep-an-eye-out-for-when-looking-for-data-science-roles-r63e34nl)
+### [90. Introducing a Simple Module for Parsing CSV Files](https://hackernoon.com/introducing-a-simple-module-for-parsing-csv-files)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-xh93m6n.jpeg)
+This Slogging thread by  and Arthur Tkachenko occurred in slogging's official #programming channel, and has been edited for readability.
+
+### [91. Things to Consider When Looking For Data Science Roles](https://hackernoon.com/things-to-keep-an-eye-out-for-when-looking-for-data-science-roles-r63e34nl)
 ![](https://cdn.hackernoon.com/drafts/95191345z.png)
 There is a great demand for data scientists presenting market dynamics that are favourable for the community. More so than your peers in other professions, you will be able to evaluate a company for what it is able to offer you, rather than solely being the one that is being evaluated. So what should you look for when comparing and evaluating data science roles? Here is a list of some commonly known factors plus some less discussed ones that will help you in your evaluation.
 
 
-### [91. Introducing a Simple Module for Parsing CSV Files](https://hackernoon.com/introducing-a-simple-module-for-parsing-csv-files)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-xh93m6n.jpeg)
-This Slogging thread by  and Arthur Tkachenko occurred in slogging's official #programming channel, and has been edited for readability.
+### [92. Multi-EuP: Analysis of Bias in Information Retrieval - Background and Related Work](https://hackernoon.com/multi-eup-analysis-of-bias-in-information-retrieval-background-and-related-work)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1x82q3i.jpeg)
+Explore language bias in multilingual information retrieval with the Multi-EuP dataset, revealing insights into fairness and demographic factors.
 
-### [92. How This Open Litter Database Will Save the Planet](https://hackernoon.com/how-this-open-litter-database-will-save-the-planet-iy2e3u3p)
+### [93. How This Open Litter Database Will Save the Planet](https://hackernoon.com/how-this-open-litter-database-will-save-the-planet-iy2e3u3p)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUoUFHeSQcLhInI2OkCTOloAVWTR2-7re3ui9.jpeg?alt=media&token=1ebbf9c4-9e04-4161-bdc8-09b55744db74)
 The Litterati app has been around for a couple years on iOS + Android. Over that time, well over 100k people have downloaded the app and been a part of a global team that is 'crowdsource cleaning the Earth'.
 
 Over that time, people only had access to the data that they themselves generated. 
 
-### [93. How to Aid Disease Research with a Biomedical Knowledge Graph](https://hackernoon.com/how-to-aid-disease-research-with-a-biomedical-knowledge-graph-sn58359p)
+### [94. How to Aid Disease Research with a Biomedical Knowledge Graph](https://hackernoon.com/how-to-aid-disease-research-with-a-biomedical-knowledge-graph-sn58359p)
 ![](https://cdn.hackernoon.com/images/owUeJT0dLubHoWBfQmFO7pNCtvk2-3o735af.jpeg)
 Building a biomedical knowledge graph using publicly available datasets to better aid disease research and biomedical data modelling.
 
-### [94. Multi-EuP: Analysis of Bias in Information Retrieval - Background and Related Work](https://hackernoon.com/multi-eup-analysis-of-bias-in-information-retrieval-background-and-related-work)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1x82q3i.jpeg)
-Explore language bias in multilingual information retrieval with the Multi-EuP dataset, revealing insights into fairness and demographic factors.
+### [95. What AV Programs That Ship Get Right About Data Annotation](https://hackernoon.com/what-av-programs-that-ship-get-right-about-data-annotation)
+![](https://cdn.hackernoon.com/images/nyJ3v3rRv5NGM0ueVYbwsOuSUNr1-f483dq0.png)
+The gap between 50,000 frames and 100 million is where most AV programs quietly fall apart. What production-grade annotation operations get right from day one.
 
-### [95. Towards an ImageNet Moment for Speech-to-Text: A Deep Dive](https://hackernoon.com/towards-an-imagenet-moment-for-speech-to-text-a-deep-dive-td1g3xjy)
+### [96. Towards an ImageNet Moment for Speech-to-Text: A Deep Dive](https://hackernoon.com/towards-an-imagenet-moment-for-speech-to-text-a-deep-dive-td1g3xjy)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FTgX9h3WojCeyiyqTfP009csxITH3-v1533uvz.jpeg?alt=media&token=ddcce43a-fa27-41ef-b6b0-c145d6890fa2)
 Speech-to-text (STT), also known as automated-speech-recognition (ASR), has a long history and has made amazing progress over the past decade. Currently, it is often believed that only large corporations like Google,  Facebook, or Baidu (or local state-backed monopolies for the Russian language) can provide deployable “in-the-wild” solutions.
 
-### [96. Spending Weekend with GraphQL](https://hackernoon.com/spending-weekend-with-graphql-yk6c3y13)
+### [97. Spending Weekend with GraphQL](https://hackernoon.com/spending-weekend-with-graphql-yk6c3y13)
 ![](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Have you ever experienced an itch you just can’t scratch? If yes, then you will feel my pain. A few days back, everything was fine, I was happily writing code(!) and doing standup meetings regularly. Just before the weekend, my boss called me and shared this problem with me.
 
-### [97. Is Data Catalog an Indispensable Tool for Corporate?](https://hackernoon.com/is-data-catalog-an-indispensable-tool-for-corporate-pnf130s3)
-![](https://cdn.hackernoon.com/drafts/umez30cd.png)
-To understand the concept of data catalog, we need an assessment of the fundamentals that constitute the process on an elementary level. At the most rudimentary stage lies the idea of arrangement and the order of things. 
-
-### [98. Multi-EuP: Analysis of Bias in Information Retrieval - Experiments and Findings](https://hackernoon.com/multi-eup-analysis-of-bias-in-information-retrieval-experiments-and-findings)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-3182q60.jpeg)
-Explore language bias in multilingual information retrieval with the Multi-EuP dataset, revealing insights into fairness and demographic factors.
-
-### [99. Multi-EuP: Analysis of Bias in Information Retrieval - Language Bias Discussion](https://hackernoon.com/multi-eup-analysis-of-bias-in-information-retrieval-language-bias-discussion)
+### [98. Multi-EuP: Analysis of Bias in Information Retrieval - Language Bias Discussion](https://hackernoon.com/multi-eup-analysis-of-bias-in-information-retrieval-language-bias-discussion)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-uu82qyi.jpeg)
 Explore language bias in multilingual information retrieval with the Multi-EuP dataset, revealing insights into fairness and demographic factors.
 
-### [100. WikiWebQuestions (WWQ) Dataset: What Is It?](https://hackernoon.com/wikiwebquestions-wwq-dataset-what-is-it)
+### [99. WikiWebQuestions (WWQ) Dataset: What Is It?](https://hackernoon.com/wikiwebquestions-wwq-dataset-what-is-it)
 ![](https://cdn.hackernoon.com/images/questions-getting-thrown-at-a-person-j50xg40hhzv2bn9muwa46tgb.png)
 We migrated WebQuestionsSP, the best collection of natural language questions over a general knowledge graph, from Freebase to Wikidata.
 
-### [101. What Makes LightCap Tick? Breaking Down the Numbers and Components](https://hackernoon.com/what-makes-lightcap-tick-breaking-down-the-numbers-and-components)
+### [100. Is Data Catalog an Indispensable Tool for Corporate?](https://hackernoon.com/is-data-catalog-an-indispensable-tool-for-corporate-pnf130s3)
+![](https://cdn.hackernoon.com/drafts/umez30cd.png)
+To understand the concept of data catalog, we need an assessment of the fundamentals that constitute the process on an elementary level. At the most rudimentary stage lies the idea of arrangement and the order of things. 
+
+### [101. Multi-EuP: Analysis of Bias in Information Retrieval - Experiments and Findings](https://hackernoon.com/multi-eup-analysis-of-bias-in-information-retrieval-experiments-and-findings)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-3182q60.jpeg)
+Explore language bias in multilingual information retrieval with the Multi-EuP dataset, revealing insights into fairness and demographic factors.
+
+### [102. What Makes LightCap Tick? Breaking Down the Numbers and Components](https://hackernoon.com/what-makes-lightcap-tick-breaking-down-the-numbers-and-components)
 ![](https://cdn.hackernoon.com/images/power-bi-dataset-cldv3mg5l000001s63d5yc7uz.png)
 LightCap, trained on 5.8M image-text pairs, excels on COCO and nocaps using BLEU@4, METEOR, CIDEr, SPICE; ablations show each module’s performance boost.
 

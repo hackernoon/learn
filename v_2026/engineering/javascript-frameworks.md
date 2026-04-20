@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [javascript-frameworks](https://hackernoon.com/tagged/javascript-frameworks)
+### Let's learn about [Javascript Frameworks](https://hackernoon.com/tagged/javascript-frameworks) via these 190 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+JavaScript frameworks are collections of pre-written JavaScript code that provide a structured foundation for building web applications, streamlining development and enhancing maintainability. They are indispensable for efficient and scalable frontend development.
+
 ### [1. A Guide on How to Build a Blockchain with Javascript](https://hackernoon.com/a-guide-on-how-to-build-a-blockchain-with-javascript)
 ![](https://cdn.hackernoon.com/images/dEr5DsADiKOXf3cSyYhd9dUYVNo1-fr93kla.png)
 Although JavaScript is now the most widely used programming language worldwide, it is not usually the first language picked for building a blockchain
@@ -77,13 +81,13 @@ In this tutorial, you’ll learn how to connect a front-end library, React, with
 ![](https://cdn.hackernoon.com/images/h2XnsfW9qjbuqoJSJ1SnogTK87r1-wqk3hw4.png)
 Pivot Charts are useful tools that can be relied on to visualise huge amounts of data. These 7 JavaScript Pivot Widgets are some of the best ways to use them.
 
-### [20. The Main Differences Between Angular, React, and Vue ](https://hackernoon.com/the-main-differences-between-angular-react-and-vue)
-![](https://cdn.hackernoon.com/images/xWx1eln9Ida9r216TnPyHFrKw1J2-gl036s5.jpeg)
-Gathered review of the major used frameworks: Angular, React, and Vue. We compared them by the most crucial criteria for deciding on one of them for a project.
-
-### [21. Building Ping Command in Node.js: Practical Guide to Buffers, Sockets, and Bit Manipulation](https://hackernoon.com/building-ping-command-in-nodejs-practical-guide-to-buffers-sockets-and-bit-manipulation)
+### [20. Building Ping Command in Node.js: Practical Guide to Buffers, Sockets, and Bit Manipulation](https://hackernoon.com/building-ping-command-in-nodejs-practical-guide-to-buffers-sockets-and-bit-manipulation)
 ![](https://cdn.hackernoon.com/images/fN6gqyEn1ZWGSnRkRVKQmlxFpdc2-wyh3x51.png)
 Building ping command in Node.js for fun. Short practical guide to buffers, sockets, bit manipulation, performance measurement, and Wireshark.
+
+### [21. The Main Differences Between Angular, React, and Vue ](https://hackernoon.com/the-main-differences-between-angular-react-and-vue)
+![](https://cdn.hackernoon.com/images/xWx1eln9Ida9r216TnPyHFrKw1J2-gl036s5.jpeg)
+Gathered review of the major used frameworks: Angular, React, and Vue. We compared them by the most crucial criteria for deciding on one of them for a project.
 
 ### [22. Top 10 Javascript File Managers to Use in 2022](https://hackernoon.com/top-10-javascript-file-managers-to-use-in-2022)
 ![](https://cdn.hackernoon.com/images/h2XnsfW9qjbuqoJSJ1SnogTK87r1-n6b3g7l.png)
@@ -121,13 +125,13 @@ There are two popular options for creating web applications with React: Next.js 
 ![](https://cdn.hackernoon.com/images/3fOe72NVq2e9NcncXonHTIZgl8x2-ij137ci.jpeg)
 A fresh perspective on if Angular is dying or if it's still worth learning in 2022!
 
-### [31. 3 Practical Tasks for Your Next React Interview](https://hackernoon.com/practical-tasks-for-your-next-react-interview)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-gq93qsc.jpeg)
-Here are 3 React tasks to check your coding skills, way of thinking, and ability to create good understandable code.
-
-### [32. Dates in JavaScript are Broken. Who Shall Fix them?](https://hackernoon.com/dates-in-javascript-are-broken-who-shall-fix-them)
+### [31. Dates in JavaScript are Broken. Who Shall Fix them?](https://hackernoon.com/dates-in-javascript-are-broken-who-shall-fix-them)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-mf93yrz.jpeg)
 The Javascript Date constructor is known to have a lot of bugs and issues. Let's look at some of its major flaws so you can avoid them.
+
+### [32. 3 Practical Tasks for Your Next React Interview](https://hackernoon.com/practical-tasks-for-your-next-react-interview)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-gq93qsc.jpeg)
+Here are 3 React tasks to check your coding skills, way of thinking, and ability to create good understandable code.
 
 ### [33. How to Create a Personal WebDev IDE in Next.js](https://hackernoon.com/how-to-create-a-personal-webdev-ide-in-nextjs)
 ![](https://cdn.hackernoon.com/images/5ubhiDL3VZdrG0Vq0mJNdCe5Lzz2-qn93pt4.jpeg)
@@ -233,17 +237,17 @@ This article discusses how to pass React Server Components as props to Client Co
 ![](https://cdn.hackernoon.com/images/ZHAz9wv9l3eZzNLiVyAUACoJBo03-ja930rz.jpeg)
  React, Gatsby, Next.js. Which of the three should you choose for your frontend web development and what should you understand before you make the decision?
 
-### [59. Optimizing State Management in React Applications: From Small to Large-Scale](https://hackernoon.com/optimizing-state-management-in-react-applications-from-small-to-large-scale)
-![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-1793ymm.jpeg)
-Learn techniques for handling state effectively in large-scale React applications. 
-
-### [60. Who Would Win Between Flutter and React Native](https://hackernoon.com/who-would-win-between-flutter-and-react-native)
+### [59. Who Would Win Between Flutter and React Native](https://hackernoon.com/who-would-win-between-flutter-and-react-native)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-6j931yx.jpeg)
 This Flutter Vs. React Native comparison is going to be fun so stick with me till the end and you will have an answer to which one's worthy of your app idea.
 
-### [61. 10 Cool Data Table Libraries with Advanced Features](https://hackernoon.com/10-cool-data-table-libraries-with-advanced-features-nb4e35l2)
+### [60. 10 Cool Data Table Libraries with Advanced Features](https://hackernoon.com/10-cool-data-table-libraries-with-advanced-features-nb4e35l2)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-yh1k35i8.jpeg)
 JavaScript is on the list of requirements for a position as a web developer in any IT company at the moment. It is hard to imagine building modern web applications without JavaScript. This programming language provides IT specialists with an effective and relatively easy way to create interactive applications able to comply with the tastes of any picky customer. The choice of the JS libraries and frameworks adds dedicated followers to this language. 
+
+### [61. Optimizing State Management in React Applications: From Small to Large-Scale](https://hackernoon.com/optimizing-state-management-in-react-applications-from-small-to-large-scale)
+![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-1793ymm.jpeg)
+Learn techniques for handling state effectively in large-scale React applications. 
 
 ### [62. 15 Best Practices for Optimizing Service Workers in 2023](https://hackernoon.com/15-best-practices-for-optimizing-service-workers-in-2023)
 ![](https://cdn.hackernoon.com/images/xrcihzZaKxVlTFVk9t1oNXPs71V2-5gb3xjk.jpeg)
@@ -269,21 +273,21 @@ Nucleoid is low-code framework for Node.js, lets you build your APIs with the he
 ![](https://cdn.hackernoon.com/images/YhQrn2uriTN9SEA31DxtfMz7glu1-nla3yql.jpeg)
 Are you looking to build an app with minimal effort? With Remix, you can do just that! Learn how this relatively new web framework compares.
 
-### [68. Mastering useReducer for Complex State Management](https://hackernoon.com/mastering-usereducer-for-complex-state-management)
-![](https://cdn.hackernoon.com/images/illustrate-react-code-displayed-on-a-desktop-screen-mn4qaqlyfyrvdue1zthq7mif.png)
-Complex state management in ReactJS with React's useReducer() explained with beginner as well as advanced examples.
-
-### [69. Setting Default Inject/Provide Values in Vue](https://hackernoon.com/setting-default-injectprovide-values-in-vue)
+### [68. Setting Default Inject/Provide Values in Vue](https://hackernoon.com/setting-default-injectprovide-values-in-vue)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-esa3of0.jpeg)
 Vue uses provide and inject to send data down multiple levels without having to use properties - did you know you can set default values for any injected data?
 
-### [70. Using JavaScript Grid Tutorial to Solve Issues With App Development](https://hackernoon.com/using-javascript-grid-tutorial-to-solve-issues-with-app-development)
-![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-imd3ofs.jpeg)
-The importance of web and mobile apps that can handle massive volumes of data has skyrocketed over the past few years. As a result, small and large enterprises want to make the most of their data for monitoring and better decision-making. 
-
-### [71. Moonshot's Kimi K2 Is a Hefty Contender to Claude, GPT-4 & Even Gemini](https://hackernoon.com/moonshots-kimi-k2-is-a-hefty-contender-to-claude-gpt-4-and-even-gemini)
+### [69. Moonshot's Kimi K2 Is a Hefty Contender to Claude, GPT-4 & Even Gemini](https://hackernoon.com/moonshots-kimi-k2-is-a-hefty-contender-to-claude-gpt-4-and-even-gemini)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-vl039om.png)
 Could models like Claude, GPT-4, or Gemini Pro be losing their top spot?
+
+### [70. Mastering useReducer for Complex State Management](https://hackernoon.com/mastering-usereducer-for-complex-state-management)
+![](https://cdn.hackernoon.com/images/illustrate-react-code-displayed-on-a-desktop-screen-mn4qaqlyfyrvdue1zthq7mif.png)
+Complex state management in ReactJS with React's useReducer() explained with beginner as well as advanced examples.
+
+### [71. Using JavaScript Grid Tutorial to Solve Issues With App Development](https://hackernoon.com/using-javascript-grid-tutorial-to-solve-issues-with-app-development)
+![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-imd3ofs.jpeg)
+The importance of web and mobile apps that can handle massive volumes of data has skyrocketed over the past few years. As a result, small and large enterprises want to make the most of their data for monitoring and better decision-making. 
 
 ### [72. MUI (Material-UI) Releases v5 of its Core React Components](https://hackernoon.com/mui-material-ui-releases-v5-of-its-core-react-components)
 ![](https://cdn.hackernoon.com/images/MR29WSibpKb19UivRTcjcGWkGyn1-a2035cq.png)
@@ -301,13 +305,13 @@ I've never met a true, passionate web developer who isn't a multi-dimensional sp
 ![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-qf93n96.jpeg)
 An easy-to-use and comprehensive JavaScript framework are of utmost importance if you are a web developer. 
 
-### [76. The Bloated State of Web Development](https://hackernoon.com/the-bloated-state-of-web-development)
-![](https://cdn.hackernoon.com/images/b2tyklhVayOxl8TvGyYsAbrp6iI3-a6b3vao.png)
-The web development landscape keeps getting crowded and crowded but there are no signs of improvement, only of heavy and bloated web apps.
-
-### [77. How to Implement a Minimalist NFT zkRollup With Circom and SnarkJS](https://hackernoon.com/how-to-implement-a-minimalist-nft-zkrollup-with-circom-and-snarkjs)
+### [76. How to Implement a Minimalist NFT zkRollup With Circom and SnarkJS](https://hackernoon.com/how-to-implement-a-minimalist-nft-zkrollup-with-circom-and-snarkjs)
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-1xa2yv9.jpeg)
 How to implement a minimalist NFT zkRollup with Circom and SnarkJS
+
+### [77. The Bloated State of Web Development](https://hackernoon.com/the-bloated-state-of-web-development)
+![](https://cdn.hackernoon.com/images/b2tyklhVayOxl8TvGyYsAbrp6iI3-a6b3vao.png)
+The web development landscape keeps getting crowded and crowded but there are no signs of improvement, only of heavy and bloated web apps.
 
 ### [78. How to Build a GatsbyJS Blog (Part 1): Creating the Project](https://hackernoon.com/how-to-build-a-gatsbyjs-blog-part-1-creating-the-project)
 ![](https://cdn.hackernoon.com/images/YhQrn2uriTN9SEA31DxtfMz7glu1-kt93shf.jpeg)
@@ -321,33 +325,33 @@ How Wasp went from an idea to simplify web development in JavaScript to building
 ![](https://cdn.hackernoon.com/images/YhQrn2uriTN9SEA31DxtfMz7glu1-oha3ss5.jpeg)
 GatsbyJS is a fantastic static site generator for React-based websites. I broke it down in this article if you're curious to learn more about this framework.
 
-### [81. Introducing a New, Lightweight WYSIWYG HTML Editor That Fits Any Technology Framework](https://hackernoon.com/introducing-a-new-lightweight-wysiwyg-html-editor-that-fits-any-technology-framework)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-9k93y25.jpeg)
-
-
-### [82. Why JavaScript Should Be Your Technology For Startups in 2022](https://hackernoon.com/why-javascript-should-be-your-technology-for-startups-in-2022)
-![](https://cdn.hackernoon.com/images/l1m0jH88k2aMTkDZ6NfLrlB7sl63-1ng3ovy.jpeg)
-Startups choose JavaScript as main technology in 2022 thanks to impressive number of frameworks, its libraries and third-party APIs integrations.
-
-### [83. Here's How I Built an App With Remix in 30 Minutes](https://hackernoon.com/heres-how-i-built-an-app-with-remix-in-30-minutes)
-![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-5f822fd.jpeg)
-Discover how to build and deploy a fast Remix app in under 30 minutes. Learn about Remix's features and quick Heroku deployment in this hands-on guide.
-
-### [84. Deploying a Node.js App with an Associated Domain](https://hackernoon.com/deploying-a-nodejs-app-with-an-associated-domain)
-![](https://cdn.hackernoon.com/images/RxIFGDejXQUaj54NhArKLyi3a272-9bt33hq.jpeg)
-How to deploy node.js app with domain
-
-### [85. How to Build a GatsbyJS Blog (Part 3): The Blog and Post Pages](https://hackernoon.com/how-to-build-a-gatsbyjs-blog-part-3-the-blog-and-post-pages)
+### [81. How to Build a GatsbyJS Blog (Part 3): The Blog and Post Pages](https://hackernoon.com/how-to-build-a-gatsbyjs-blog-part-3-the-blog-and-post-pages)
 ![](https://cdn.hackernoon.com/images/YhQrn2uriTN9SEA31DxtfMz7glu1-uuc3s9j.jpeg)
 In part three of our "Building a Gatsby Blog" series, we delve into the blog itself and create the list and post pages.
 
-### [86. Migrating to Next.js 13: A Simple Walkthrough](https://hackernoon.com/migrating-to-nextjs-13-a-simple-walkthrough)
-![](https://cdn.hackernoon.com/images/rIVD9uGtDyTmdfox8lpMYgJi5AZ2-2l93xwr.jpeg)
-A step-by-step process for migrating from next.js 12 to 13. 
+### [82. Here's How I Built an App With Remix in 30 Minutes](https://hackernoon.com/heres-how-i-built-an-app-with-remix-in-30-minutes)
+![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-5f822fd.jpeg)
+Discover how to build and deploy a fast Remix app in under 30 minutes. Learn about Remix's features and quick Heroku deployment in this hands-on guide.
 
-### [87. 5 reasons to consider Next.js for your next projects](https://hackernoon.com/5-reasons-to-consider-nextjs-for-your-next-projects)
+### [83. Introducing a New, Lightweight WYSIWYG HTML Editor That Fits Any Technology Framework](https://hackernoon.com/introducing-a-new-lightweight-wysiwyg-html-editor-that-fits-any-technology-framework)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-9k93y25.jpeg)
+
+
+### [84. Why JavaScript Should Be Your Technology For Startups in 2022](https://hackernoon.com/why-javascript-should-be-your-technology-for-startups-in-2022)
+![](https://cdn.hackernoon.com/images/l1m0jH88k2aMTkDZ6NfLrlB7sl63-1ng3ovy.jpeg)
+Startups choose JavaScript as main technology in 2022 thanks to impressive number of frameworks, its libraries and third-party APIs integrations.
+
+### [85. Deploying a Node.js App with an Associated Domain](https://hackernoon.com/deploying-a-nodejs-app-with-an-associated-domain)
+![](https://cdn.hackernoon.com/images/RxIFGDejXQUaj54NhArKLyi3a272-9bt33hq.jpeg)
+How to deploy node.js app with domain
+
+### [86. 5 reasons to consider Next.js for your next projects](https://hackernoon.com/5-reasons-to-consider-nextjs-for-your-next-projects)
 ![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-ugc3zlc.jpeg)
 Next.js is a framework built on React that gives frontend developers the flexibility of creating modern and scalable apps
+
+### [87. Migrating to Next.js 13: A Simple Walkthrough](https://hackernoon.com/migrating-to-nextjs-13-a-simple-walkthrough)
+![](https://cdn.hackernoon.com/images/rIVD9uGtDyTmdfox8lpMYgJi5AZ2-2l93xwr.jpeg)
+A step-by-step process for migrating from next.js 12 to 13. 
 
 ### [88. How to Use Data Grid to Render Great Info in Your Web Apps](https://hackernoon.com/how-to-use-data-grid-to-render-great-info-in-your-web-apps)
 ![](https://cdn.hackernoon.com/images/3T7C9VLnvkbALyRtM666V4ptB0C3-oz93nb9.jpeg)
@@ -369,31 +373,31 @@ Learn how to write clean and maintainable code in TypeScript by following best p
 ![](https://cdn.hackernoon.com/images/axyiaAUcX9SOdDHhOXZdJCWPT2H3-qa1fd31qx.png)
 In addition, web technologies help to automate business processes within a company and enhance the overall working efficiency of employees.
 
-### [93. Beginner in Front-End? Don't Learn React, Angular or Vue ](https://hackernoon.com/beginner-in-front-end-dont-learn-react-angular-or-vue-jc1f3wku)
+### [93. Why Is React the Best Front-end Framework to Learn in 2024?](https://hackernoon.com/why-is-react-the-best-front-end-framework-to-learn-in-2024)
+![](https://cdn.hackernoon.com/images/XWk05i8rnIh4jD7Lpxp4izORJrq2-5u93xo0.jpeg)
+In this article, we will explore why React stands out, comparing it with two other popular frameworks, Angular and Vue.js, and why you should choose React.
+
+### [94. Beginner in Front-End? Don't Learn React, Angular or Vue ](https://hackernoon.com/beginner-in-front-end-dont-learn-react-angular-or-vue-jc1f3wku)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxseHM89vPuWWovVMPqKSMmXE7iS2-2ad3w7p.jpeg?alt=media&token=1125d7af-2147-4a66-ab62-4dd8efb4331d)
 In the first steps as a programmer , people really lose their way trying to find their passion and they keep asking themself a lot of questions like: what should I learn? maybe front-end web development, or maybe Cloud computing, Machine learning engineering is better for me ,nah back-end web development is the one chosen for me .
 
-### [94. 4 Simple Steps to Become a JavaScript Developer FREE](https://hackernoon.com/4-simple-steps-to-become-a-javascript-developer-free)
+### [95. 4 Simple Steps to Become a JavaScript Developer FREE](https://hackernoon.com/4-simple-steps-to-become-a-javascript-developer-free)
 ![](https://cdn.hackernoon.com/images/jAe8nDJHWuhNTYfeZVmoqHUgxXz2-5c93wk9.jpeg)
 Learning JavaScript can get you into many fields of Programming; Frontend, Backend, Mobile, Web Development.
-
-### [95. Why Is React the Best Front-end Framework to Learn in 2024?](https://hackernoon.com/why-is-react-the-best-front-end-framework-to-learn-in-2024)
-![](https://cdn.hackernoon.com/images/XWk05i8rnIh4jD7Lpxp4izORJrq2-5u93xo0.jpeg)
-In this article, we will explore why React stands out, comparing it with two other popular frameworks, Angular and Vue.js, and why you should choose React.
 
 ### [96. 6 Reasons why JavaScript is the GOAT of Programming Languages](https://hackernoon.com/6-reasons-why-javascript-is-the-goat)
 ![](https://cdn.hackernoon.com/images/TqjYgi5ui3Nr0brkDUy9j1XhOUx2-tu92mmn.jpeg)
 Often considered as a tool to build applications in your web browser, JavaScript can also be used as a general-purpose scripting language. Discover why
 
-### [97. JavaScript: The Apocalyptic Dumpster Fire That Has Coders Begging it to Stop](https://hackernoon.com/javascript-the-apocalyptic-dumpster-fire-that-has-coders-begging-it-to-stop)
+### [97. Why I Chose 60 Lines of JavaScript Over NestJS for a Budget Project](https://hackernoon.com/why-i-chose-60-lines-of-javascript-over-nestjs-for-a-budget-project)
+![](https://cdn.hackernoon.com/images/7iTGJwHNeXMRzio4Ip84sbpyF7P2-7o034ts.png)
+Raw Node or NestJS? One dev builds, benchmarks, and stress-tests both to find the best backend setup for a $1K budget and a $6 VPS.
+
+### [98. JavaScript: The Apocalyptic Dumpster Fire That Has Coders Begging it to Stop](https://hackernoon.com/javascript-the-apocalyptic-dumpster-fire-that-has-coders-begging-it-to-stop)
 ![](https://cdn.hackernoon.com/images/qbjdMko7eFaiqBJgAApmsjilPv83-8x93lqw.jpeg)
 The Frankensteinian Hodgepodge That Puts Mr. Burns' Smithers in Charge of the Starship Enterprise and Leaves Coders Screaming 'Wubba Lubba Dub Dub!'"
 
 In a real
-
-### [98. Why I Chose 60 Lines of JavaScript Over NestJS for a Budget Project](https://hackernoon.com/why-i-chose-60-lines-of-javascript-over-nestjs-for-a-budget-project)
-![](https://cdn.hackernoon.com/images/7iTGJwHNeXMRzio4Ip84sbpyF7P2-7o034ts.png)
-Raw Node or NestJS? One dev builds, benchmarks, and stress-tests both to find the best backend setup for a $1K budget and a $6 VPS.
 
 ### [99. ReactJS: The Javascript Developer’s Guide](https://hackernoon.com/reactjs-the-javascript-developers-guide-5q2b3z0o)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FuEeA5IEPqbgLWGwgx7ngt2xJrbI2-4q11303i.png?alt=media&token=649fd54a-ebdb-49e0-b5d7-e43f1b2eae01)
@@ -403,13 +407,13 @@ This article will walk you through the concepts you would need to know to step i
 ![](https://cdn.hackernoon.com/images/DUNwZCukeJNLc4sNJWS9gfbJuRg1-z893q5a.jpeg)
 React introduced a new feature called React Server Components (RSC) in December 2020. RSC are a new type of React component that can run on the server
 
-### [101. Best JavaScript Frameworks 2025, Laravel vs. Next.js, and More - This Week in JS](https://hackernoon.com/best-javascript-frameworks-2025-laravel-vs-nextjs-and-more-this-week-in-js)
-![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-yi03191.png)
-It’s 2025, and we've got some exciting trends to kick off the year, including the evolution of tech stacks, the Laravel vs Next.js rivalry
-
-### [102. Newbie React Developer? Watch Out for These 15 Common Mistakes ](https://hackernoon.com/newbie-react-developer-watch-out-for-these-15-common-mistakes)
+### [101. Newbie React Developer? Watch Out for These 15 Common Mistakes ](https://hackernoon.com/newbie-react-developer-watch-out-for-these-15-common-mistakes)
 ![](https://cdn.hackernoon.com/images/1Q2GB4CpCUMN5XiyaLtJfwCyuz83-1bc3ol5.jpeg)
 15 common mistakes that every newbie React developer ends up making
+
+### [102. Best JavaScript Frameworks 2025, Laravel vs. Next.js, and More - This Week in JS](https://hackernoon.com/best-javascript-frameworks-2025-laravel-vs-nextjs-and-more-this-week-in-js)
+![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-yi03191.png)
+It’s 2025, and we've got some exciting trends to kick off the year, including the evolution of tech stacks, the Laravel vs Next.js rivalry
 
 ### [103. How to Update and Support URL Parameters in JavaScript](https://hackernoon.com/how-to-update-and-support-url-parameters-in-javascript)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-uq93pbd.png)
@@ -479,53 +483,53 @@ Introducing Remake
 ![](https://cdn.hackernoon.com/images/0sm1KIKmbZhu9AD2GAr4cKywoN43-qud3nfj.jpeg)
 React is the most popular JavaScript framework on the planet. You can use it to quickly create feature-rich web applications. 
 
-### [120. Why you Should Choose AngularJS over React in 2022](https://hackernoon.com/build-your-startup-on-angularjs-in-2022)
-![](https://cdn.hackernoon.com/images/4M1v4uN1ptWKawlFypubbTs7up73-ldb3jo2.jpeg)
-It's a good idea to use angular development framework in 2022 since it doesn't require any unnecessary antiquated code and has a slew of amazing capabilities. 
-
-### [121. TypeScript Delivers Better Developer Experience With New Enhancements](https://hackernoon.com/typescript-delivers-better-developer-experience-with-new-enhancements)
+### [120. TypeScript Delivers Better Developer Experience With New Enhancements](https://hackernoon.com/typescript-delivers-better-developer-experience-with-new-enhancements)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-rq039je.png)
 TypeScript 5.9 delivers practical enhancements that directly address common developer pain points.
 
-### [122. 19 JavaScript Data Chart Libraries](https://hackernoon.com/19-javascript-data-chart-libraries-jj1435m7)
-![](https://cdn.hackernoon.com/images/CPZcQZuKTIRNEmHkkkOCBTvsTyd2-iyf2354s.jpeg)
-Javascript charting library is important when you need to present data in the most informative way. Check our top of the best JS chart libraries here!
+### [121. Why you Should Choose AngularJS over React in 2022](https://hackernoon.com/build-your-startup-on-angularjs-in-2022)
+![](https://cdn.hackernoon.com/images/4M1v4uN1ptWKawlFypubbTs7up73-ldb3jo2.jpeg)
+It's a good idea to use angular development framework in 2022 since it doesn't require any unnecessary antiquated code and has a slew of amazing capabilities. 
 
-### [123. What are Truthy and Falsy Values in JavaScript?](https://hackernoon.com/what-are-truthy-and-falsy-values-in-javascript)
+### [122. What are Truthy and Falsy Values in JavaScript?](https://hackernoon.com/what-are-truthy-and-falsy-values-in-javascript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-94b3obp.jpeg)
 In JavaScript, things can be true, or false, but they can also be truthy or falsy.
 
-### [124. The Possibilities for Innovation Within the JavaScript Ecosystem](https://hackernoon.com/the-possibilities-for-innovation-within-the-javascript-ecosystem)
-![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-w8035ed.jpeg)
-Can You Master the Rapidly Evolving JS Ecosystem? Discover how to discover and satisfy users' requirements to remain competitive in the marketplace.
+### [123. 19 JavaScript Data Chart Libraries](https://hackernoon.com/19-javascript-data-chart-libraries-jj1435m7)
+![](https://cdn.hackernoon.com/images/CPZcQZuKTIRNEmHkkkOCBTvsTyd2-iyf2354s.jpeg)
+Javascript charting library is important when you need to present data in the most informative way. Check our top of the best JS chart libraries here!
 
-### [125. Let's Talk About Vanilla JavaScript: What Is Vanilla JS, and Why Should I Spend Any Time On It?](https://hackernoon.com/lets-talk-about-vanilla-javascript-what-is-vanilla-js-and-why-should-i-spend-any-time-on-it-sb2f3522)
-![](https://cdn.hackernoon.com/images/Leo4OZTSXUZzooAPCmafUlbqBo63-sdn33mj.jpeg)
-Know a little JavaScript, but can't do much with it yet? This tutorial, "Vanilla JS in the DOM", will help you understand the background of Vanilla Javascript.
-
-### [126. 10 Top Advantages of Node.js in eCommerce Industry](https://hackernoon.com/10-top-advantages-of-nodejs-in-ecommerce-industry-8vw30l8)
-![](https://images.unsplash.com/photo-1512436991641-6745cdb1723f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-It is estimated that 2.14 billion people will buy online by 2021. Do you want to be the best choice for them?  It is not so easy as the competition in the e-commerce industry is becoming fierce year by year. 
-
-### [127. Unlocking the Puzzle: Investigating Multiple Event Listeners in Vue.js](https://hackernoon.com/unlocking-the-puzzle-how-to-investigate-multiple-event-listeners-in-vuejs)
-![](https://cdn.hackernoon.com/images/Y26OVi0lSWPunl54mcBvdXRVdlX2-y593xw3.jpeg)
-Explore Vue.js Event Handling: Unveiling Undocumented Behaviors in Multiple Listeners, Inline Handlers, and Method Detection
-
-### [128. How to Build a GatsbyJS Blog (Part 2): Layout and Pages](https://hackernoon.com/how-to-build-a-gatsbyjs-blog-part-2-layout-and-pages)
-![](https://cdn.hackernoon.com/images/YhQrn2uriTN9SEA31DxtfMz7glu1-onb3s3f.jpeg)
-In the second part of the "Building a GatsbyJS Blog" series, we will create a page layout and scaffold the main pages of the blog.
-
-### [129. Deno FINALLY Reintroduces Bundle Everyone Has Been Asking For](https://hackernoon.com/deno-finally-reintroduces-bundle-everyone-has-been-asking-for)
+### [124. Deno FINALLY Reintroduces Bundle Everyone Has Been Asking For](https://hackernoon.com/deno-finally-reintroduces-bundle-everyone-has-been-asking-for)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-2g038o2.png)
 Deno 2.4 reintroduces the long-requested deno bundle command, enabling single-file JavaScript or TypeScript bundles for both server and browser environments.
 
-### [130. New Gatsby Plugin Image: One Of The Coolest Innovations At GatsbyConf 2021](https://hackernoon.com/new-gatsby-plugin-image-one-of-the-coolest-innovations-at-gatsbyconf-2021-9ho33dz)
-![](https://cdn.hackernoon.com/images/J4L7lcgWG9Zj2vGLgkpwZIANGdh1-4t4w37qj.jpeg)
-March is off to a great start with the coming & going of GatsbyConf 2021 and the big announcement of Gatsby v3.0! Let's talk about the new Gatsby Image Plugin!
+### [125. The Possibilities for Innovation Within the JavaScript Ecosystem](https://hackernoon.com/the-possibilities-for-innovation-within-the-javascript-ecosystem)
+![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-w8035ed.jpeg)
+Can You Master the Rapidly Evolving JS Ecosystem? Discover how to discover and satisfy users' requirements to remain competitive in the marketplace.
 
-### [131. Exploring Bitwise Operations in JavaScript: A Beginner's Guide](https://hackernoon.com/exploring-bitwise-operations-in-javascript-a-beginners-guide)
+### [126. Let's Talk About Vanilla JavaScript: What Is Vanilla JS, and Why Should I Spend Any Time On It?](https://hackernoon.com/lets-talk-about-vanilla-javascript-what-is-vanilla-js-and-why-should-i-spend-any-time-on-it-sb2f3522)
+![](https://cdn.hackernoon.com/images/Leo4OZTSXUZzooAPCmafUlbqBo63-sdn33mj.jpeg)
+Know a little JavaScript, but can't do much with it yet? This tutorial, "Vanilla JS in the DOM", will help you understand the background of Vanilla Javascript.
+
+### [127. 10 Top Advantages of Node.js in eCommerce Industry](https://hackernoon.com/10-top-advantages-of-nodejs-in-ecommerce-industry-8vw30l8)
+![](https://images.unsplash.com/photo-1512436991641-6745cdb1723f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+It is estimated that 2.14 billion people will buy online by 2021. Do you want to be the best choice for them?  It is not so easy as the competition in the e-commerce industry is becoming fierce year by year. 
+
+### [128. Unlocking the Puzzle: Investigating Multiple Event Listeners in Vue.js](https://hackernoon.com/unlocking-the-puzzle-how-to-investigate-multiple-event-listeners-in-vuejs)
+![](https://cdn.hackernoon.com/images/Y26OVi0lSWPunl54mcBvdXRVdlX2-y593xw3.jpeg)
+Explore Vue.js Event Handling: Unveiling Undocumented Behaviors in Multiple Listeners, Inline Handlers, and Method Detection
+
+### [129. How to Build a GatsbyJS Blog (Part 2): Layout and Pages](https://hackernoon.com/how-to-build-a-gatsbyjs-blog-part-2-layout-and-pages)
+![](https://cdn.hackernoon.com/images/YhQrn2uriTN9SEA31DxtfMz7glu1-onb3s3f.jpeg)
+In the second part of the "Building a GatsbyJS Blog" series, we will create a page layout and scaffold the main pages of the blog.
+
+### [130. Exploring Bitwise Operations in JavaScript: A Beginner's Guide](https://hackernoon.com/exploring-bitwise-operations-in-javascript-a-beginners-guide)
 ![](https://cdn.hackernoon.com/images/XlA9cknHGBbfyNT6GHhk5MAt5Qz1-5ua3ury.jpeg)
 Learn how to use & | ^ ~ << >> >>> operators in JS with clear examples. Demystify bitwise operations for a more powerful and efficient code.
+
+### [131. New Gatsby Plugin Image: One Of The Coolest Innovations At GatsbyConf 2021](https://hackernoon.com/new-gatsby-plugin-image-one-of-the-coolest-innovations-at-gatsbyconf-2021-9ho33dz)
+![](https://cdn.hackernoon.com/images/J4L7lcgWG9Zj2vGLgkpwZIANGdh1-4t4w37qj.jpeg)
+March is off to a great start with the coming & going of GatsbyConf 2021 and the big announcement of Gatsby v3.0! Let's talk about the new Gatsby Image Plugin!
 
 ### [132. Sending emails with Edge Functions on Supabase](https://hackernoon.com/sending-emails-with-edge-functions-on-supabase)
 ![](https://cdn.hackernoon.com/images/ZzIywxH9q4XRaclAvr2iax4otYn2-vob3v3f.jpeg)
@@ -551,45 +555,45 @@ Here is a list of pretty much any action you would want to perform on an array, 
 ![](https://cdn.hackernoon.com/images/v2vbcF16oXZmHSCzmO79EscR2hQ2-bb93lpq.jpeg)
 How using default exports hurts your codebase readability and refactoring.
 
-### [138. Understanding Nullish Coalescing (or ??) in Javascript](https://hackernoon.com/understanding-nullish-coalescing-or-in-javascript)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-psb3ojm.jpeg)
-The nullish coalescing operator is useful in situations where something can be returned as either null or undefined, and helps us tighten up our code.
-
-### [139. Why Do You Need A JavaScript Test Framework?](https://hackernoon.com/why-do-you-need-a-javascript-test-framework)
+### [138. Why Do You Need A JavaScript Test Framework?](https://hackernoon.com/why-do-you-need-a-javascript-test-framework)
 ![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-0u93rn4.jpeg)
 The JavaScript testing framework enables you to boost your development workflow significantly. In addition, it increases your team’s speed and efficiency. 
 
-### [140. How Records Can Help You Implement Complex Data in Typescript ](https://hackernoon.com/how-records-can-help-you-implement-complex-data-in-typescript)
+### [139. How Records Can Help You Implement Complex Data in Typescript ](https://hackernoon.com/how-records-can-help-you-implement-complex-data-in-typescript)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-js93o9s.jpeg)
 TypeScript Records are a great way to ensure consistency when trying to implement more complex types of data.
 
-### [141. Angular vs AngularJS: What is the Difference](https://hackernoon.com/angular-vs-angularjs-what-is-the-difference)
-![](https://cdn.hackernoon.com/images/KQ9Nx7oEhfNwepTX7PHW2WLj3mD2-f093p5y.jpeg)
-The fact that Angular is based on TypeScript and AngularJS is based on JavaScript is one of the most significant differences between the two frameworks.
+### [140. Understanding Nullish Coalescing (or ??) in Javascript](https://hackernoon.com/understanding-nullish-coalescing-or-in-javascript)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-psb3ojm.jpeg)
+The nullish coalescing operator is useful in situations where something can be returned as either null or undefined, and helps us tighten up our code.
 
-### [142. 10 JavaScript Apps to Power your Business](https://hackernoon.com/10-javascript-apps-to-power-your-business)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-zd93znq.jpeg)
-
-
-### [143. Angular 21 Rolls Out Modern Testing, Headless A11y Components, and AI Tools](https://hackernoon.com/angular-21-rolls-out-modern-testing-headless-a11y-components-and-ai-tools)
+### [141. Angular 21 Rolls Out Modern Testing, Headless A11y Components, and AI Tools](https://hackernoon.com/angular-21-rolls-out-modern-testing-headless-a11y-components-and-ai-tools)
 ![](https://cdn.hackernoon.com/images/a-sleek-modern-ui-dashboard-with-reactive-data-signals-ai-assisted-coding-tools-and-angular-themed-visual-elements-glowing-in-a-futuristic-development-workspace-rmnbkd450a6mqrdkbqxhtnvb.png)
 Angular v21 brings signal-driven forms, new accessibility tools, AI-powered CLI features, zoneless apps, and modern testing with Vitest.
+
+### [142. The Developer's Guide to Updating npm Packages](https://hackernoon.com/the-developers-guide-to-updating-npm-packages)
+![](https://cdn.hackernoon.com/images/bcFWRJ5sFoP1gqnxXoU3iohjidG2-k692lsn.jpeg)
+ A simple guide for updating for npm packages. 
+
+### [143. Angular vs AngularJS: What is the Difference](https://hackernoon.com/angular-vs-angularjs-what-is-the-difference)
+![](https://cdn.hackernoon.com/images/KQ9Nx7oEhfNwepTX7PHW2WLj3mD2-f093p5y.jpeg)
+The fact that Angular is based on TypeScript and AngularJS is based on JavaScript is one of the most significant differences between the two frameworks.
 
 ### [144. A Kanban Board Component for Project Management](https://hackernoon.com/a-kanban-board-component-for-project-management)
 ![](https://cdn.hackernoon.com/images/DgIHgUcx99gVUPhnmk5o7713Bzl2-ufe3nfe.jpeg)
 Project management is a crucial domain in the sphere of IT. 
 
-### [145. The Developer's Guide to Updating npm Packages](https://hackernoon.com/the-developers-guide-to-updating-npm-packages)
-![](https://cdn.hackernoon.com/images/bcFWRJ5sFoP1gqnxXoU3iohjidG2-k692lsn.jpeg)
- A simple guide for updating for npm packages. 
+### [145. 10 JavaScript Apps to Power your Business](https://hackernoon.com/10-javascript-apps-to-power-your-business)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-zd93znq.jpeg)
 
-### [146. The Alchemy of the Web: Transforming Ideas Into Reality With HTML/CSS and JavaScript](https://hackernoon.com/the-alchemy-of-the-web-transforming-ideas-into-reality-with-htmlcss-and-javascript)
-![](https://cdn.hackernoon.com/images/skBvJWlumBc3DaQ44sr87NZUg3b2-rnb2qgt.jpeg)
-The world we live in today is intricately linked through the vast expanse of the Internet. Behind every engaging website and interactive web application lies a 
 
-### [147. JavaScript Security: Mitigating Vulnerabilities for Safer Web Development](https://hackernoon.com/javascript-security-mitigating-vulnerabilities-for-safer-web-development)
+### [146. JavaScript Security: Mitigating Vulnerabilities for Safer Web Development](https://hackernoon.com/javascript-security-mitigating-vulnerabilities-for-safer-web-development)
 ![](https://cdn.hackernoon.com/images/skssOeH48yQNdDqRAn28z8IHu6i1-3k93s2t.jpeg)
  Learn how to safeguard your JavaScript code from common security flaws with expert tips on vulnerability mitigation.
+
+### [147. The Alchemy of the Web: Transforming Ideas Into Reality With HTML/CSS and JavaScript](https://hackernoon.com/the-alchemy-of-the-web-transforming-ideas-into-reality-with-htmlcss-and-javascript)
+![](https://cdn.hackernoon.com/images/skBvJWlumBc3DaQ44sr87NZUg3b2-rnb2qgt.jpeg)
+The world we live in today is intricately linked through the vast expanse of the Internet. Behind every engaging website and interactive web application lies a 
 
 ### [148. 10 Reasons to Choose Sencha Ext JS for Your Data Driven Web Applications](https://hackernoon.com/10-reasons-to-choose-sencha-ext-js-for-your-data-driven-web-applications)
 ![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-s903ad6.jpeg)
@@ -603,105 +607,105 @@ This article talks about the journey I have about react folder structure and the
 ![](https://cdn.hackernoon.com/images/3hdZTiupssamlsTub25ilKl38HF3-43b3og3.png)
 JavaScript often referred to as JS, is the most useful and popular object-oriented, interpreted programming language
 
-### [151. Introducing the at() Method for JavaScript Arrays](https://hackernoon.com/introducing-the-at-method-for-javascript-arrays)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-vf93z4j.jpeg)
-This article is about latest ecma script or ES22 update of at() method of array. at() method of array is used for getting the value based on index
+### [151. Why Developers Aren’t Really Ditching Frameworks for Vanilla JavaScript](https://hackernoon.com/why-developers-arent-really-ditching-frameworks-for-vanilla-javascript)
+![](https://cdn.hackernoon.com/images/code-on-a-desktop-monitor-tirsl34qby19k4d4i94ykxc8.png)
+Framework fatigue is real, but abandoning build tools and frameworks can quietly increase security risk. A sober look at Vanilla JS and ES modules.
 
 ### [152. Everything You Need To Know About TypeScript](https://hackernoon.com/everything-you-need-to-know-about-typescript)
 ![](https://cdn.hackernoon.com/images/xnExhhWVgGRFDoTG4pYFD7lqIng1-ct82su8.jpeg)
 Mastering TypeScript: A Comprehensive Guide,From Fundamentals to Intermediate Techniques for Effective Development
 
-### [153. Angular 19 Is Here, Next.js From China, NEWEST JavaScript Engine, and More - This Week in JS](https://hackernoon.com/angular-19-is-here-nextjs-from-china-newest-javascript-engine-and-more-this-week-in-js)
+### [153. Introducing the at() Method for JavaScript Arrays](https://hackernoon.com/introducing-the-at-method-for-javascript-arrays)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-vf93z4j.jpeg)
+This article is about latest ecma script or ES22 update of at() method of array. at() method of array is used for getting the value based on index
+
+### [154. Angular 19 Is Here, Next.js From China, NEWEST JavaScript Engine, and More - This Week in JS](https://hackernoon.com/angular-19-is-here-nextjs-from-china-newest-javascript-engine-and-more-this-week-in-js)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-40031je.png)
 Today, we’ll be looking at Angular’s game-changing updates, an unknown JavaScript framework from China, and a revolutionary JavaScript engine called Nova
 
-### [154. Everything About the Javascript Logical AND Operator](https://hackernoon.com/everything-about-the-javascript-logical-and-operator)
+### [155. Everything About the Javascript Logical AND Operator](https://hackernoon.com/everything-about-the-javascript-logical-and-operator)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-6k93oic.jpeg)
 In this complete guide, let's look at how && works, and go through some examples to explain when it returns values, and what values it will return.
 
-### [155. Best JavaScript Framework Alternatives to Open Source](https://hackernoon.com/best-javascript-framework-alternatives-to-open-source)
-![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-lya3jyj.jpeg)
-Every organization has different tools to support internal processes. As companies scale, IT teams are faced with the growing complexity of user requirements, which often go beyond the capacity of consumer software. 
-
-### [156. Why Developers Aren’t Really Ditching Frameworks for Vanilla JavaScript](https://hackernoon.com/why-developers-arent-really-ditching-frameworks-for-vanilla-javascript)
-![](https://cdn.hackernoon.com/images/code-on-a-desktop-monitor-tirsl34qby19k4d4i94ykxc8.png)
-Framework fatigue is real, but abandoning build tools and frameworks can quietly increase security risk. A sober look at Vanilla JS and ES modules.
-
-### [157. Think Before You Hibernate](https://hackernoon.com/think-before-you-hibernate-dqt32g2)
-![](https://cdn.hackernoon.com/images/RevY70p7qRavAql4HdqQvJo6t6I2-rjq356t.jpeg)
-This article explains what the general pros and cons of Hibernate are so that you can better determine your need to add this dependency in a new microservice.
-
-### [158. Javascript Pointers Do Exist!](https://hackernoon.com/javascript-pointers-do-exist)
-![](https://cdn.hackernoon.com/images/KZkb1zzObqdx1sjOAplc30l7Kpp1-38136li.jpeg)
-I bet you didn’t know that Javascript has pointers. Well, it does! Let’s take a quick look at how they are implemented and how they work. 
-
-### [159. How to Add Typing Effects to Your React App with React Typical ](https://hackernoon.com/how-to-add-typing-effects-to-your-react-app-with-react-typical)
-![](https://cdn.hackernoon.com/images/ykJxkPDADpgkWhi5rN6fOrTcA5A2-lf837je.png)
-Learn how to create a dynamic typing effect in your React app using react-typical and Tailwind CSS. 
-
-### [160. Let’s Understand Chrome V8 — Chapter 10: Ignition Execution Unit](https://hackernoon.com/lets-understand-chrome-v8-chapter-10-ignition-execution-unit)
+### [156. Let’s Understand Chrome V8 — Chapter 10: Ignition Execution Unit](https://hackernoon.com/lets-understand-chrome-v8-chapter-10-ignition-execution-unit)
 ![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-ne93jt9.jpeg)
 "Let's Understand Chrome V8" are serial technology articles that explain the V8 code, it covers many V8 kernel fundamentals such as ignition execution.
 
-### [161. How To Add A Data Grid To A React Application](https://hackernoon.com/how-to-add-a-data-grid-to-a-react-application)
+### [157. Best JavaScript Framework Alternatives to Open Source](https://hackernoon.com/best-javascript-framework-alternatives-to-open-source)
+![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-lya3jyj.jpeg)
+Every organization has different tools to support internal processes. As companies scale, IT teams are faced with the growing complexity of user requirements, which often go beyond the capacity of consumer software. 
+
+### [158. How To Add A Data Grid To A React Application](https://hackernoon.com/how-to-add-a-data-grid-to-a-react-application)
 ![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-xae3kpx.jpeg)
 As a developer, when building a data-driven application, a data table with columns and rows can be what you need to display data to users of your application. 
 
-### [162. Debugging Angular Applications: The Tool You Need to Know](https://hackernoon.com/debugging-angular-applications-the-tool-you-need-to-know)
-![](https://cdn.hackernoon.com/images/lmcwhIPXHyPIgqoOoDrA9xd8umf1-dk0354f.jpeg)
-Angular DevTools is a great tool to make app development faster and more efficient. 
+### [159. Javascript Pointers Do Exist!](https://hackernoon.com/javascript-pointers-do-exist)
+![](https://cdn.hackernoon.com/images/KZkb1zzObqdx1sjOAplc30l7Kpp1-38136li.jpeg)
+I bet you didn’t know that Javascript has pointers. Well, it does! Let’s take a quick look at how they are implemented and how they work. 
+
+### [160. Think Before You Hibernate](https://hackernoon.com/think-before-you-hibernate-dqt32g2)
+![](https://cdn.hackernoon.com/images/RevY70p7qRavAql4HdqQvJo6t6I2-rjq356t.jpeg)
+This article explains what the general pros and cons of Hibernate are so that you can better determine your need to add this dependency in a new microservice.
+
+### [161. How to Add Typing Effects to Your React App with React Typical ](https://hackernoon.com/how-to-add-typing-effects-to-your-react-app-with-react-typical)
+![](https://cdn.hackernoon.com/images/ykJxkPDADpgkWhi5rN6fOrTcA5A2-lf837je.png)
+Learn how to create a dynamic typing effect in your React app using react-typical and Tailwind CSS. 
+
+### [162. Mastering Modern UI Development with React and Tailwind CSS](https://hackernoon.com/mastering-modern-ui-development-with-react-and-tailwind-css)
+![](https://cdn.hackernoon.com/images/HT6CQZaJUrNuIT41gYj8XNtrJAz2-4nb3iy9.webp)
+Learn to build responsive and maintainable user interfaces with React and Tailwind CSS in this comprehensive guide.
 
 ### [163. Why Are UI Components Important For Web-Based Development](https://hackernoon.com/why-are-ui-components-important-for-web-based-development)
 ![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-qu93nle.jpeg)
 Organizations are looking for web applications that provide users with many unique functionalities. For example, the User Interface is the essential part of a web application for anything they provide. 
 
-### [164. How to start with Create React App?](https://hackernoon.com/how-to-start-with-create-react-app)
+### [164. Debugging Angular Applications: The Tool You Need to Know](https://hackernoon.com/debugging-angular-applications-the-tool-you-need-to-know)
+![](https://cdn.hackernoon.com/images/lmcwhIPXHyPIgqoOoDrA9xd8umf1-dk0354f.jpeg)
+Angular DevTools is a great tool to make app development faster and more efficient. 
+
+### [165. How to start with Create React App?](https://hackernoon.com/how-to-start-with-create-react-app)
 ![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-s893oc8.jpeg)
 Due to the numerous build tools, configuration files, and dependencies, developers frequently find it challenging to create React apps. React JavaScript library, which is a creation of Facebook, functions as a tool for designing user interface components. 
 
-### [165. Mastering Modern UI Development with React and Tailwind CSS](https://hackernoon.com/mastering-modern-ui-development-with-react-and-tailwind-css)
-![](https://cdn.hackernoon.com/images/HT6CQZaJUrNuIT41gYj8XNtrJAz2-4nb3iy9.webp)
-Learn to build responsive and maintainable user interfaces with React and Tailwind CSS in this comprehensive guide.
-
-### [166. I Did Not Choose Javascript, JavaScript Chose Me](https://hackernoon.com/i-did-not-choose-javascript-javascript-chose-me-jves3zio)
-![](https://cdn.hackernoon.com/images/xd473vkz.jpg)
-Nowadays most applications – server, mobile, web – can run on JavaScript. In the last couple of years the popularity of this programming language has been steadily increasing, and today it is used more frequently than PHP and Java. At the height of the language’s popularity, it is worth spending a few minutes to learn about it, and decide whether it’s worth spending the long hours it takes to learn it. To this end we interviewed our JS developer Alexander Podik about his career, life skills and JavaScript tips and tricks. 
-
-### [167. Using Provide and Inject in Vue](https://hackernoon.com/using-provide-and-inject-in-vue)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-nq93occ.jpeg)
-With properties in Vue, we can pass data from a parent element or vue template to a child element. It's easy in Vue to give properties to a child element.
-
-### [168. How to Render React Components: Comparing Loops and .map()](https://hackernoon.com/how-to-render-react-components-comparing-loops-and-map)
-![](https://cdn.hackernoon.com/images/gRvABHmeEfVogoKhXnSbObdUGYc2-5y92kv5.jpeg)
-Explore the benefits and trade-offs of rendering React components with for loops vs. .map(). Compare syntax, immutability, JSX integration, and more.
-
-### [169. Why a Majority of Startups Prefer ReactJS](https://hackernoon.com/why-a-majority-of-startups-prefer-reactjs-ih3y33jt)
-![](https://cdn.hackernoon.com/images/MqpxiO0IPyQ2AJiLR8mrAdpCcCT2-qx683343.jpeg)
-Just like progress in other tech fields, front-end web development is advancing too. Let's try and understand why ReactJS development is a startup favorite?
-
-### [170. OpenAI Unveils Codex—An AI Dev Assistant Built for JavaScript and React](https://hackernoon.com/openai-unveils-codexan-ai-dev-assistant-built-for-javascript-and-react)
+### [166. OpenAI Unveils Codex—An AI Dev Assistant Built for JavaScript and React](https://hackernoon.com/openai-unveils-codexan-ai-dev-assistant-built-for-javascript-and-react)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-wy038yw.png)
 Codex is OpenAI’s software engineering agent that helps developers, especially web and JavaScript developers-automate coding tasks.
 
-### [171. Choosing the Right Data Handling Path in React: Controlled vs. Uncontrolled Components ](https://hackernoon.com/choosing-the-right-data-handling-path-in-react-controlled-vs-uncontrolled-components)
-![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-yg93y0e.jpeg)
-Explore the world of React component data handling with a focus on controlled and uncontrolled components.
+### [167. I Did Not Choose Javascript, JavaScript Chose Me](https://hackernoon.com/i-did-not-choose-javascript-javascript-chose-me-jves3zio)
+![](https://cdn.hackernoon.com/images/xd473vkz.jpg)
+Nowadays most applications – server, mobile, web – can run on JavaScript. In the last couple of years the popularity of this programming language has been steadily increasing, and today it is used more frequently than PHP and Java. At the height of the language’s popularity, it is worth spending a few minutes to learn about it, and decide whether it’s worth spending the long hours it takes to learn it. To this end we interviewed our JS developer Alexander Podik about his career, life skills and JavaScript tips and tricks. 
 
-### [172. NEW JavaScript Framework, Bun Update Fixes 40+ Bugs, and More - This Week in JS](https://hackernoon.com/new-javascript-framework-bun-update-fixes-40-bugs-and-more-this-week-in-js)
+### [168. Using Provide and Inject in Vue](https://hackernoon.com/using-provide-and-inject-in-vue)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-nq93occ.jpeg)
+With properties in Vue, we can pass data from a parent element or vue template to a child element. It's easy in Vue to give properties to a child element.
+
+### [169. How to Render React Components: Comparing Loops and .map()](https://hackernoon.com/how-to-render-react-components-comparing-loops-and-map)
+![](https://cdn.hackernoon.com/images/gRvABHmeEfVogoKhXnSbObdUGYc2-5y92kv5.jpeg)
+Explore the benefits and trade-offs of rendering React components with for loops vs. .map(). Compare syntax, immutability, JSX integration, and more.
+
+### [170. Why a Majority of Startups Prefer ReactJS](https://hackernoon.com/why-a-majority-of-startups-prefer-reactjs-ih3y33jt)
+![](https://cdn.hackernoon.com/images/MqpxiO0IPyQ2AJiLR8mrAdpCcCT2-qx683343.jpeg)
+Just like progress in other tech fields, front-end web development is advancing too. Let's try and understand why ReactJS development is a startup favorite?
+
+### [171. NEW JavaScript Framework, Bun Update Fixes 40+ Bugs, and More - This Week in JS](https://hackernoon.com/new-javascript-framework-bun-update-fixes-40-bugs-and-more-this-week-in-js)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-n00311h.png)
 A new JavaScript Framework, an update to Bun that fixes 40+ bugs, and some TypeScript configuration hacks, along with the latest tools from Electron...
 
-### [173. GitHub Just Made Coding Optional](https://hackernoon.com/github-just-made-coding-optional)
-![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-7o039y6.png)
-GitHub Spark lets you build and deploy full-stack apps using AI, prompts, or clicks—no coding, setup, or API keys required.
+### [172. Choosing the Right Data Handling Path in React: Controlled vs. Uncontrolled Components ](https://hackernoon.com/choosing-the-right-data-handling-path-in-react-controlled-vs-uncontrolled-components)
+![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-yg93y0e.jpeg)
+Explore the world of React component data handling with a focus on controlled and uncontrolled components.
 
-### [174. WWDC 2025's Biggest Updates, Oxlint is Finally Stable, and pnpm's Newest Update - This Week in JS](https://hackernoon.com/wwdc-2025s-biggest-updates-oxlint-is-finally-stable-and-pnpms-newest-update-this-week-in-js)
+### [173. WWDC 2025's Biggest Updates, Oxlint is Finally Stable, and pnpm's Newest Update - This Week in JS](https://hackernoon.com/wwdc-2025s-biggest-updates-oxlint-is-finally-stable-and-pnpms-newest-update-this-week-in-js)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-vl038xx.png)
 This week, we’re unpacking Safari 26 Beta’s game-changing WebKit updates, pnpm 10.12’s performance leaps, and Oxlint 1.0’s blazing-fast linting.
 
-### [175. TypeScript 5.7 RC Released, New npm Alternative, Future of JavaScript Frameworks - This Week in JS](https://hackernoon.com/typescript-57-rc-released-new-npm-alternative-future-of-javascript-frameworks-this-week-in-js)
+### [174. TypeScript 5.7 RC Released, New npm Alternative, Future of JavaScript Frameworks - This Week in JS](https://hackernoon.com/typescript-57-rc-released-new-npm-alternative-future-of-javascript-frameworks-this-week-in-js)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-p10310r.png)
 TypeScript’s latest release candidate, a thought-provoking discussion about the future of frameworks in the AI era, and some must-know tools to boost your skill
+
+### [175. GitHub Just Made Coding Optional](https://hackernoon.com/github-just-made-coding-optional)
+![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-7o039y6.png)
+GitHub Spark lets you build and deploy full-stack apps using AI, prompts, or clicks—no coding, setup, or API keys required.
 
 ### [176. TypeScript 5.8 Beta Is Here, WebAssembly Tips, and New Developer Tools - This Week in JS](https://hackernoon.com/typescript-58-beta-is-here-webassembly-tips-and-new-developer-tools-this-week-in-js)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-bl031na.png)
@@ -735,7 +739,11 @@ What is a Shadow DOM (shadow tree)
 ![](https://cdn.hackernoon.com/images/RWCYmI7R4vSFp7VGOuclE1L2eEF2-4m82jwe.jpeg)
 Learn how to create your own Slackbot, 'reacting-bot', that automatically reacts with a heavy plus sign emoji to every message sent by a specific user.
 
-### [184. How to Insert Jump Anchors on Headings with PugJS](https://hackernoon.com/how-to-insert-jump-anchors-on-headings-with-pugjs-poq28st)
+### [184. Autonomous APIs are the Future - Interview with Jean Machuca, Founder, QCObjects](https://hackernoon.com/autonomous-apis-are-the-future-interview-with-jean-machuca-founder-qcobjects)
+![](https://cdn.hackernoon.com/images/d3qk0hxJgjhef6b7702LeYwLmbA3-1f93ttl.jpeg)
+QCObjects recognized as Startup of the Year 2021
+
+### [185. How to Insert Jump Anchors on Headings with PugJS](https://hackernoon.com/how-to-insert-jump-anchors-on-headings-with-pugjs-poq28st)
 ![](https://cdn.hackernoon.com/drafts/7c1er289b.png)
 I'm definitely a fan of cats 😺️ in real life, but when it comes to 
 code this reverses and I've got a preference for Pug 🐶️ For those who 
@@ -745,17 +753,13 @@ simple turning the Pug-lang into HTML. At the moment I'm not using the
 potential of the language - I use PugJS mostly to hold my content. Let's
  look at some ways to get more out of Pug I've learned about recently.
 
-### [185. Getting Information From The Most Granular Demographics Dataset](https://hackernoon.com/getting-information-from-the-most-granular-demographics-dataset-8b2u348v)
-![](https://cdn.hackernoon.com/images/eoFt9fvUnJZWjIQFjCu3guaNGFj2-wl3q2a4c.gif)
-Find out how to set up and work locally with the most granular demographics dataset that is out there.
-
-### [186. Autonomous APIs are the Future - Interview with Jean Machuca, Founder, QCObjects](https://hackernoon.com/autonomous-apis-are-the-future-interview-with-jean-machuca-founder-qcobjects)
-![](https://cdn.hackernoon.com/images/d3qk0hxJgjhef6b7702LeYwLmbA3-1f93ttl.jpeg)
-QCObjects recognized as Startup of the Year 2021
-
-### [187. PresenceJS: The Simplest Way to Power Realtime Experience in My Collaborative Apps](https://hackernoon.com/presencejs-the-simplest-way-to-power-realtime-experience-in-my-collaborative-apps)
+### [186. PresenceJS: The Simplest Way to Power Realtime Experience in My Collaborative Apps](https://hackernoon.com/presencejs-the-simplest-way-to-power-realtime-experience-in-my-collaborative-apps)
 ![](https://cdn.hackernoon.com/images/JPB5EEJ8K8XjtpTaf4kTlj0WmoC3-dm93p4a.jpeg)
 Presencejs is a JavaScript library that enables the creation of real-time multiplayer/collaboration web applications that support WebTransport.
+
+### [187. Getting Information From The Most Granular Demographics Dataset](https://hackernoon.com/getting-information-from-the-most-granular-demographics-dataset-8b2u348v)
+![](https://cdn.hackernoon.com/images/eoFt9fvUnJZWjIQFjCu3guaNGFj2-wl3q2a4c.gif)
+Find out how to set up and work locally with the most granular demographics dataset that is out there.
 
 ### [188. Sencha Announces Release of Ext JS 7.4 at Annual SenchaCon Virtual Conference](https://hackernoon.com/sencha-announces-release-of-ext-js-74-at-annual-senchacon-virtual-conference-ac1w228o)
 ![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-3cx33hf.jpeg)

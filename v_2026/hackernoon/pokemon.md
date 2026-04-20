@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [pokemon](https://hackernoon.com/tagged/pokemon)
+### Let's learn about [Pokemon](https://hackernoon.com/tagged/pokemon) via these 50 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Pokémon is a globally recognized media franchise centered around fictional creatures that humans catch, train, and battle. Its enduring popularity spans video games, animated series, and merchandise, fostering a massive community.
+
 ### [1. 5 Best Pokémon GO Hacks and How to Get Them](https://hackernoon.com/5-common-pokemon-go-hacks-and-how-to-get-them-ofz35xj)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-ie2235c1.jpeg)
 Due to the popularity of Pokémon GO, many users have tried to find ways to hack it. Common Pokemon Go hacks include spoofing and botting, amongst others.
@@ -129,41 +133,41 @@ Josh Wilson's concept of Sacred Tails illustrates how we might consider gaming a
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-zf93qms.jpeg)
 Despite some persistent graphical glitches, the new Pokemon Scarlet and Violet successfully expand on the open world concept brought in by Legends: Arceus.
 
-### [33. How to Find and Use the Pokémon Sword Destiny Knot ](https://hackernoon.com/how-to-find-and-use-the-pokemon-sword-destiny-knot-1t2434sm)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-ky4z34aj.jpeg)
-You can find the Pokémon Sword Destiny Knot in a BP store,  Cramomatic. and through the  through the pickup ability. It can be used for breeding and infatuation
-
-### [34. The Top Yikes of Pokémon Scarlet and Violet](https://hackernoon.com/the-top-yikes-of-pokemon-scarlet-and-violet)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-a393uq6.jpeg)
-Poor performance and lazy pokemon design in Pokemon Scarlet and Violet are among the top complaints from diehard fans of the franchise.
-
-### [35. I Built 10 Pokemon Agents That Learn From Each Other Using Kafka and Flink](https://hackernoon.com/i-built-10-pokemon-agents-that-learn-from-each-other-using-kafka-and-flink)
+### [33. I Built 10 Pokemon Agents That Learn From Each Other Using Kafka and Flink](https://hackernoon.com/i-built-10-pokemon-agents-that-learn-from-each-other-using-kafka-and-flink)
 ![](https://cdn.hackernoon.com/images/QpXjEM8zsiZJPvjc7UP80C6Srfk1-1aa3e3y.png)
 The agent runs headless inside a stereOS VM with no display server. It reads game memory directly from known RAM addresses.
 
-### [36.  Fanable Gets $11.5M to Power the Future of Pokémon & Collectibles; $COLLECT Token Farming Goes Live](https://hackernoon.com/fanable-gets-$115m-to-power-the-future-of-pokemon-and-collectibles-$collect-token-farming-goes-live)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-wm037lv.jpeg)
- is partnering with the Collect Foundation to launch a point farming campaign for the upcoming $COLLECT token.
+### [34. How to Find and Use the Pokémon Sword Destiny Knot ](https://hackernoon.com/how-to-find-and-use-the-pokemon-sword-destiny-knot-1t2434sm)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-ky4z34aj.jpeg)
+You can find the Pokémon Sword Destiny Knot in a BP store,  Cramomatic. and through the  through the pickup ability. It can be used for breeding and infatuation
 
-### [37. The Digital Evolution of the Collecting Sector](https://hackernoon.com/the-digital-evolution-of-the-collecting-sector-pj1f34d3)
+### [35. The Top Yikes of Pokémon Scarlet and Violet](https://hackernoon.com/the-top-yikes-of-pokemon-scarlet-and-violet)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-a393uq6.jpeg)
+Poor performance and lazy pokemon design in Pokemon Scarlet and Violet are among the top complaints from diehard fans of the franchise.
+
+### [36. The Digital Evolution of the Collecting Sector](https://hackernoon.com/the-digital-evolution-of-the-collecting-sector-pj1f34d3)
 ![](https://cdn.hackernoon.com/images/AGa6OXjjwjdjGF24YQqLGODirdD2-g14c3eys.jpeg)
 Collecting is part of human nature. Since the times of Roman generals who exhibited the trophies collected during the war campaigns in their homes.
 
-### [38. Pokémon Legends: Arceus Revealed Alongside Diamond and Pearl Remakes](https://hackernoon.com/pokemon-legends-arceus-revealed-alongside-diamond-and-pearl-remakes-7tl33gb)
+### [37. Pokémon Legends: Arceus Revealed Alongside Diamond and Pearl Remakes](https://hackernoon.com/pokemon-legends-arceus-revealed-alongside-diamond-and-pearl-remakes-7tl33gb)
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-65j33pr.jpeg)
 The Pokémon Company has revealed Pokémon Legends: Arceus, a single-player open-world Pokémon RPG set to release worldwide in early 2022. 
 
-### [39. Will the Next New Pokémon Game be a Diamond and Pearl Remake?](https://hackernoon.com/will-the-next-new-pokemon-game-be-a-diamond-and-pearl-remake-89p33o6)
+### [38. Will the Next New Pokémon Game be a Diamond and Pearl Remake?](https://hackernoon.com/will-the-next-new-pokemon-game-be-a-diamond-and-pearl-remake-89p33o6)
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-yo2833dp.jpeg)
 Fans have speculated that the next new Pokemon game could be a Pokemon Diamond and Pearl remake, based on historical trends in the company's release cycle.
 
-### [40. New Pokémon Snap: 5 Reasons Why it Might be the Best Game of 2021](https://hackernoon.com/new-pokemon-snap-5-reasons-why-it-might-be-the-best-game-of-2021-kg1234z2)
+### [39. New Pokémon Snap: 5 Reasons Why it Might be the Best Game of 2021](https://hackernoon.com/new-pokemon-snap-5-reasons-why-it-might-be-the-best-game-of-2021-kg1234z2)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-x01e34u3.jpeg)
 New Pokémon Snap can be one of the best games of 2021due to its gimmicky nature and social media connectivity that may help it stand out from the crowd. 
 
-### [41. 46 Stories To Learn About Pokemon](https://hackernoon.com/46-stories-to-learn-about-pokemon)
+### [40. 46 Stories To Learn About Pokemon](https://hackernoon.com/46-stories-to-learn-about-pokemon)
 ![](https://cdn.hackernoon.com/images/github/pokemon-493.png)
 Learn everything you need to know about Pokemon via these 46 free HackerNoon stories.
+
+### [41.  Fanable Gets $11.5M to Power the Future of Pokémon & Collectibles; $COLLECT Token Farming Goes Live](https://hackernoon.com/fanable-gets-$115m-to-power-the-future-of-pokemon-and-collectibles-$collect-token-farming-goes-live)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-wm037lv.jpeg)
+ is partnering with the Collect Foundation to launch a point farming campaign for the upcoming $COLLECT token.
 
 ### [42. Pokemon Legends Arceus Review: Is the New Open World Pokemon Game Worth it?](https://hackernoon.com/pokemon-legends-arceus-review-is-the-new-open-world-pokemon-game-worth-it)
 ![](https://cdn.hackernoon.com/images/fTXf3VMEAsaM9hOcNy7EtEqOmaU2-jr03a3y.jpeg)
@@ -173,13 +177,13 @@ Pokemon Legends: Arceus is the latest release and brings overhauls the Pokedex, 
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-go2b35kd.jpeg)
 Hackernoon presents the latest and interesting news, trends, and events emerging in the gaming world. Read the latest gaming industry stories on Hacker Noon, where 10k+ technologists publish stories for 4M+ monthly readers. 
 
-### [44. Will Pokémon Legends: Arceus Live Up to the Hype?](https://hackernoon.com/will-pokemon-legends-arceus-live-up-to-the-hype)
-![](https://cdn.hackernoon.com/images/sEVHo7GjLfYwVu0eY2zD6t877F73-zt83oay.jpeg)
-Pokémon Legends looks to be the open world makeover Pokémon fans have craved. However, mixed signals from recent trailers leave me more skeptical than hopeful. 
-
-### [45. Pokemon Arceus is Out! What is Your Favorite Pokemon?](https://hackernoon.com/pokemon-arceus-is-out-what-is-your-favorite-pokemon)
+### [44. Pokemon Arceus is Out! What is Your Favorite Pokemon?](https://hackernoon.com/pokemon-arceus-is-out-what-is-your-favorite-pokemon)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-qt03gwl.jpeg)
 To celebrate the release of Pokemon Legends Arceus, the team at Hackernoon discusses their favourite Pokemon and why! Spoilers it is definitely not Pikachu.
+
+### [45. Will Pokémon Legends: Arceus Live Up to the Hype?](https://hackernoon.com/will-pokemon-legends-arceus-live-up-to-the-hype)
+![](https://cdn.hackernoon.com/images/sEVHo7GjLfYwVu0eY2zD6t877F73-zt83oay.jpeg)
+Pokémon Legends looks to be the open world makeover Pokémon fans have craved. However, mixed signals from recent trailers leave me more skeptical than hopeful. 
 
 ### [46. Augmented Reality: Connecting the Physical and Digital Worlds](https://hackernoon.com/augmented-reality-connecting-the-physical-and-digital-worlds-735c3wmw)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-f6493wnm.jpeg?alt=media&token=0f68b080-461b-4b88-bb40-19913d1cbd1f)

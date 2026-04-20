@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [spring-boot](https://hackernoon.com/tagged/spring-boot)
+### Let's learn about [Spring Boot](https://hackernoon.com/tagged/spring-boot) via these 152 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Spring Boot is a popular Java framework that simplifies the creation of production-ready, stand-alone Spring applications with minimal configuration. It significantly boosts developer productivity and accelerates microservice development.
+
 ### [1. Using Postgres Effectively in Spring Boot Applications](https://hackernoon.com/using-postgres-effectively-in-spring-boot-applications)
 ![](https://cdn.hackernoon.com/images/a16j1YV6cXc33fiuCa00z09Aqgs2-8ta3rey.jpeg)
 Spring Boot supports Postgres. Just add dependencies, create a database, connect to it, and create an entity, repository, and controller.
@@ -191,13 +195,13 @@ This article explores the implementation of multi-tenant authentication using Ke
 ![](images/rs4g3y4g.jpg)
 Microservices is an architectural style used for creating applications made of individual fine-grained services, which encourages functional decoupling, re-usability, and scalability. This is becoming increasingly popular compared to the monolithic applications we generally build. Monoliths generally lack the flexibility given by microservices in separating out functional components to have their own independent development teams, lifecycles, and deployment.
 
-### [48. Building Graphql API with Spring Boot, Neo4j and Kong [Part 2]](https://hackernoon.com/building-graphql-api-with-spring-boot-neo4j-and-kong-part-2-t7w3uha)
-![](https://images.unsplash.com/photo-1544006659-f0b21884ce1d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Part 1 of this series provides detailed description on GraphQL server and how to start setting it up using springboot, Schema Definition Language (SDL) and its types.
-
-### [49. How I Built a Spring Boot Application that Handles Requests for a Telegram Bot](https://hackernoon.com/how-i-built-a-spring-boot-application-that-handles-requests-for-a-telegram-bot)
+### [48. How I Built a Spring Boot Application that Handles Requests for a Telegram Bot](https://hackernoon.com/how-i-built-a-spring-boot-application-that-handles-requests-for-a-telegram-bot)
 ![](https://cdn.hackernoon.com/images/IydseHhaP1RRAGISU5o7L5wy3r62-u40275z.jpeg)
 I chose Spring Cloud for the architecture of my Kotlin pet project and it was right. What conclusions have I drawn?
+
+### [49. Building Graphql API with Spring Boot, Neo4j and Kong [Part 2]](https://hackernoon.com/building-graphql-api-with-spring-boot-neo4j-and-kong-part-2-t7w3uha)
+![](https://images.unsplash.com/photo-1544006659-f0b21884ce1d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Part 1 of this series provides detailed description on GraphQL server and how to start setting it up using springboot, Schema Definition Language (SDL) and its types.
 
 ### [50. Top 10 Interview Questions on Spring Boot](https://hackernoon.com/top-10-interview-questions-on-spring-boot-ta1i3ym2)
 ![](https://cdn.hackernoon.com/drafts/1ni42yr8.png)
@@ -219,13 +223,13 @@ Learn how to write fluent integration tests for modern web applications!
 ![](https://cdn.hackernoon.com/images/t7jQ5r7J69Xka9L0AUfquWBggzO2-ip93s6x.jpeg)
 Explore how Camunda empowers chatbots to handle business conversations. Through BPMN, create conversation blueprints and use Camunda for a seamless workflow.
 
-### [55. How to Use Gitlab CI/CD to Build, Test and Deploy a Spring Boot Web App](https://hackernoon.com/use-gitlab-cicd-to-build-test-and-deploy-a-spring-boot-web-app)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-tc038qa.jpeg)
-Create a Spring Boot application, set up your server and configure Gitlab to build your app, run tests and automatically deploy it to your server
-
-### [56. SpringAI vs LangChain4j: The Real-World LLM Battle for Java Devs](https://hackernoon.com/springai-vs-langchain4j-the-real-world-llm-battle-for-java-devs)
+### [55. SpringAI vs LangChain4j: The Real-World LLM Battle for Java Devs](https://hackernoon.com/springai-vs-langchain4j-the-real-world-llm-battle-for-java-devs)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-p602wps.jpeg)
 SpringAI and LangChain4j are redefining what’s possible for Java developers in the LLM era. This article compares them head-to-head across real code, architectu
+
+### [56. How to Use Gitlab CI/CD to Build, Test and Deploy a Spring Boot Web App](https://hackernoon.com/use-gitlab-cicd-to-build-test-and-deploy-a-spring-boot-web-app)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-tc038qa.jpeg)
+Create a Spring Boot application, set up your server and configure Gitlab to build your app, run tests and automatically deploy it to your server
 
 ### [57. Spring Framework: To Use Or Not To Use, That Is The Question](https://hackernoon.com/spring-framework-to-use-or-not-to-use-that-is-the-question-gzc3w3e)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FoIZ6zbypp5XdOfvNWimTAhHLpGC2-0rs28i3.jpeg?alt=media&token=fe03263d-5cb3-4971-a65f-a6028335c714)
@@ -235,41 +239,41 @@ It's impossible to write OOP code with Spring. From its core it promotes the use
 ![](https://cdn.hackernoon.com/images/0Odj6XPwyJZBx2GDcet6RUTPufR2-0p93pky.jpeg)
 Spring Boot Java applications now with real-time unified messaging and streaming with Apache Pulsar
 
-### [59. How To Shorten URLs: Java and Spring Step-By-Step Guide](https://hackernoon.com/how-to-shorten-urls-java-and-spring-step-by-step-guide)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-g093pdn.jpeg)
-URL shortener Java and Spring boot tutorial. A step-by-step guide that is easy to follow. This is a common interview task that should be understood by devs.
-
-### [60. Choosing the Right Caching Strategy](https://hackernoon.com/choosing-the-right-caching-strategy)
+### [59. Choosing the Right Caching Strategy](https://hackernoon.com/choosing-the-right-caching-strategy)
 ![](https://cdn.hackernoon.com/images/caching-jrycrlfnyfof28zw2nii31wi.png)
 This article explores different caching strategies—such as in-memory, distributed, and hybrid approaches—for optimizing performance in microservices or monolith
 
-### [61. Building a CRUD RESTful API/Web Service with Spring Boot [A How-To Guide]](https://hackernoon.com/building-a-crud-restful-apiweb-service-with-spring-boot-a-how-to-guide-7n1u3ygd)
-![](https://images.unsplash.com/photo-1508830524289-0adcbe822b40?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-This guide aims to help you create from scratch a CRUD RESTful API with Spring Boot. We'll create a User entity and develop its endpoints accordingly with a Rest Controller and a Service class.
-
-### [62. A Guide to Creating Spring Boot Projects With Spring Initializr](https://hackernoon.com/a-guide-to-creating-spring-boot-projects-with-spring-initializr)
-![](https://cdn.hackernoon.com/images/a16j1YV6cXc33fiuCa00z09Aqgs2-qt93reg.jpeg)
-You can use a tool called Spring Initializr to generate the initial Spring Boot boilerplate code by accessing it through an online form.
-
-### [63. Spring Boot Audit Logs: Capture Every API Action Without Writing Boilerplate Code](https://hackernoon.com/spring-boot-audit-logs-capture-every-api-action-without-writing-boilerplate-code)
+### [60. Spring Boot Audit Logs: Capture Every API Action Without Writing Boilerplate Code](https://hackernoon.com/spring-boot-audit-logs-capture-every-api-action-without-writing-boilerplate-code)
 ![](https://cdn.hackernoon.com/images/code-displayed-on-a-laptop-screen-okeo45qqq4xzn1nnlcv68l64.png)
 Build a fully automated audit logging system in Spring Boot using AOP and JPA, capturing every REST API action without manual log statements.
 
-### [64. Using pgvector To Locate Similarities In Enterprise Data](https://hackernoon.com/using-pgvector-to-locate-similarities-in-enterprise-data)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-1b834zo.jpeg)
-Harness the power of word vectors and similarity searches to help discover data correlations with enterprise data to assist with a marketing campaign.
+### [61. How To Shorten URLs: Java and Spring Step-By-Step Guide](https://hackernoon.com/how-to-shorten-urls-java-and-spring-step-by-step-guide)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-g093pdn.jpeg)
+URL shortener Java and Spring boot tutorial. A step-by-step guide that is easy to follow. This is a common interview task that should be understood by devs.
 
-### [65. How to Server-Side Render With Spring Boot](https://hackernoon.com/how-to-server-side-render-with-spring-boot)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-ih22mui.jpeg)
-Understanding the shared steps in the project setup is crucial before delving into the specifics of each client-augmenting technology.
+### [62. Building a CRUD RESTful API/Web Service with Spring Boot [A How-To Guide]](https://hackernoon.com/building-a-crud-restful-apiweb-service-with-spring-boot-a-how-to-guide-7n1u3ygd)
+![](https://images.unsplash.com/photo-1508830524289-0adcbe822b40?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+This guide aims to help you create from scratch a CRUD RESTful API with Spring Boot. We'll create a User entity and develop its endpoints accordingly with a Rest Controller and a Service class.
 
-### [66. Spring Boot - Annotation Cheatsheet Pt. 1](https://hackernoon.com/spring-boot-annotation-cheatsheet-pt-1)
+### [63. A Guide to Creating Spring Boot Projects With Spring Initializr](https://hackernoon.com/a-guide-to-creating-spring-boot-projects-with-spring-initializr)
+![](https://cdn.hackernoon.com/images/a16j1YV6cXc33fiuCa00z09Aqgs2-qt93reg.jpeg)
+You can use a tool called Spring Initializr to generate the initial Spring Boot boilerplate code by accessing it through an online form.
+
+### [64. A Practical Guide to the Saga Pattern in Spring Boot Microservices](https://hackernoon.com/a-practical-guide-to-the-saga-pattern-in-spring-boot-microservices)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-og022on.jpeg)
+A Saga is a sequence of local transactions.
+
+### [65. Spring Boot - Annotation Cheatsheet Pt. 1](https://hackernoon.com/spring-boot-annotation-cheatsheet-pt-1)
 ![](https://cdn.hackernoon.com/images/413euGpz9JcvX40wUDuWJVtHdMz1-s2e3ooq.jpeg)
 One-Place Reference with Code Samples for Spring Boot Annotations.
 
-### [67. A Practical Guide to the Saga Pattern in Spring Boot Microservices](https://hackernoon.com/a-practical-guide-to-the-saga-pattern-in-spring-boot-microservices)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-og022on.jpeg)
-A Saga is a sequence of local transactions.
+### [66. How to Server-Side Render With Spring Boot](https://hackernoon.com/how-to-server-side-render-with-spring-boot)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-ih22mui.jpeg)
+Understanding the shared steps in the project setup is crucial before delving into the specifics of each client-augmenting technology.
+
+### [67. Using pgvector To Locate Similarities In Enterprise Data](https://hackernoon.com/using-pgvector-to-locate-similarities-in-enterprise-data)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-1b834zo.jpeg)
+Harness the power of word vectors and similarity searches to help discover data correlations with enterprise data to assist with a marketing campaign.
 
 ### [68. Quarkus vs. Spring Boot - A Brief Overview](https://hackernoon.com/understanding-quarkus-vs-spring-boot)
 ![](https://cdn.hackernoon.com/images/s4E6t8SQDZWLTb5ce9XpKRuvO303-mj93k4d.jpeg)
@@ -291,133 +295,133 @@ ORM frameworks like Hibernate and other JPA implementors can significantly simpl
 ![](https://cdn.hackernoon.com/images/QpC8uvsrcIbBaLwlXpejpkdCIgq2-vw821ry.jpeg)
 Explore the seamless world of advanced search services in Spring Boot with JPA Search Helper.
 
-### [73. Ultimate Guide To Building an Unbeatable Multi-Tenant SaaS Startup With Heroku [Part 1]](https://hackernoon.com/ultimate-guide-to-building-an-unbeatable-multi-tenant-saas-startup-with-heroku-part-1-1iw3ttj)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-bk144xl1.jpeg?alt=media&token=47ec2ca8-c162-4b5d-ad9b-e5540bd22011)
-In this multi-part series, I'll transform a new application into a multi-tenant experience running in the Heroku ecosystem. This article focuses on the object model, design, architecture, and security.
-
-### [74. Learn Why and How to Use Relational Database Migrations ](https://hackernoon.com/learn-why-and-how-to-use-relational-database-migrations)
+### [73. Learn Why and How to Use Relational Database Migrations ](https://hackernoon.com/learn-why-and-how-to-use-relational-database-migrations)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-zwa3pz7.jpeg)
 Learn Why And How To Use Relational Database Migrations. The way to initialize and update schema for relational databases with Java.
 
-### [75. How Do I Integrate WebSockets and Not Get Burned?](https://hackernoon.com/how-do-i-integrate-websockets-and-not-get-burned)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-oo93oyd.jpeg)
-Dashkivsky Roman, 5 years in Java. An avid gamer. Successfully balances work and volunteering. How to implement simple task using WebSockets and not burn out
+### [74. Ultimate Guide To Building an Unbeatable Multi-Tenant SaaS Startup With Heroku [Part 1]](https://hackernoon.com/ultimate-guide-to-building-an-unbeatable-multi-tenant-saas-startup-with-heroku-part-1-1iw3ttj)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-bk144xl1.jpeg?alt=media&token=47ec2ca8-c162-4b5d-ad9b-e5540bd22011)
+In this multi-part series, I'll transform a new application into a multi-tenant experience running in the Heroku ecosystem. This article focuses on the object model, design, architecture, and security.
+
+### [75. Back to the Future: Running Spring Boot 2 in GlassFish 4 Using Java 8](https://hackernoon.com/back-to-the-future-running-spring-boot-2-in-glassfish-4-using-java-8)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-t6032su.jpeg)
+Learn how to deploy a Spring Boot 2.7.18 application on GlassFish 4.1.2 using Java 8, with step-by-step instructions and tips. 
 
 ### [76. Shutting Down Spring Boot Applications](https://hackernoon.com/shutting-down-spring-boot-applications)
 ![](https://cdn.hackernoon.com/images/413euGpz9JcvX40wUDuWJVtHdMz1-hhl3onr.jpeg)
 Ways for Clean Shutdown of Spring Boot Applications, whether in Developer mode or in Production Mode. Code Samples are provided Inline and via Git Repo.
 
-### [77. Back to the Future: Running Spring Boot 2 in GlassFish 4 Using Java 8](https://hackernoon.com/back-to-the-future-running-spring-boot-2-in-glassfish-4-using-java-8)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-t6032su.jpeg)
-Learn how to deploy a Spring Boot 2.7.18 application on GlassFish 4.1.2 using Java 8, with step-by-step instructions and tips. 
+### [77. How Do I Integrate WebSockets and Not Get Burned?](https://hackernoon.com/how-do-i-integrate-websockets-and-not-get-burned)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-oo93oyd.jpeg)
+Dashkivsky Roman, 5 years in Java. An avid gamer. Successfully balances work and volunteering. How to implement simple task using WebSockets and not burn out
 
 ### [78. Leveraging Marqeta to Build a Payment Service in Spring Boot: A How-To Guide](https://hackernoon.com/leveraging-marqeta-to-build-a-payment-service-in-spring-boot-a-how-to-guide)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-kr1fg35xg.jpeg)
 After paying an Uber, John Vester decided to dig into the Marqeta API used for payment processing. Hours later, he created a fully functional Payment Service.
 
-### [79. Kafka Message Testing: How to Write Integration Tests ](https://hackernoon.com/kafka-message-testing-how-to-write-integration-tests)
-![](https://cdn.hackernoon.com/images/MQ5fUOiNSpXFtgak1Nkj9tyaEBL2-f5334kt.jpeg)
-This article offers an approach to writing integration tests for Kafka-based applications that focuses on interaction specification, making tests more readable 
-
-### [80. A Developer's Guide to Merging AI with the Spring Ecosystem](https://hackernoon.com/a-developers-guide-to-merging-ai-with-the-spring-ecosystem)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1c02vmi.jpeg)
-Spring AI is a lightweight, developer-friendly framework from the Spring team that bridges the gap between modern AI tools and the Spring Boot ecosystem.
-
-### [81. Use DocRaptor to Add Output Options to a Full-Stack Application](https://hackernoon.com/use-docraptor-to-add-output-options-to-a-full-stack-application-i31f31s5)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-5g6t31ha.jpeg)
-Learn how to add DocRaptor to convert HTML to a PDF with advanced features, such as custom headers, footers, watermarks, and endless styling options.
-
-### [82. How to Build Resilient APIs With Resilience4j Circuit Breaker in Spring Boot](https://hackernoon.com/how-to-build-resilient-apis-with-resilience4j-circuit-breaker-in-spring-boot)
+### [79. How to Build Resilient APIs With Resilience4j Circuit Breaker in Spring Boot](https://hackernoon.com/how-to-build-resilient-apis-with-resilience4j-circuit-breaker-in-spring-boot)
 ![](https://cdn.hackernoon.com/images/metal-boots-animated-ztu55bqlxl5qv7fckekhcfjo.png)
 Learn how to make your microservice calls resilient using the Circuit Breaker pattern with Resilience4j and Spring Boot
 
-### [83. What’s in Store for the Future With GraalVM?](https://hackernoon.com/whats-in-store-for-the-future-with-graalvm)
-![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-0p92d48.jpeg)
-The big release of Spring and official support for spring native resurfaced my thoughts on migrating to GraalVM native image. Is it SubstrateVM time?
+### [80. Kafka Message Testing: How to Write Integration Tests ](https://hackernoon.com/kafka-message-testing-how-to-write-integration-tests)
+![](https://cdn.hackernoon.com/images/MQ5fUOiNSpXFtgak1Nkj9tyaEBL2-f5334kt.jpeg)
+This article offers an approach to writing integration tests for Kafka-based applications that focuses on interaction specification, making tests more readable 
 
-### [84. Microservice Patterns to Design and Implement Any Java-Based Event-Driven Microservices Application](https://hackernoon.com/microservice-patterns-to-design-and-implement-any-java-based-event-driven-microservices-application)
-![](https://cdn.hackernoon.com/images/eQAboXKgBIZ0OD357lPO5ho4RdA2-jki3jqm.jpeg)
-Java spring boot developers tutorial- Tips to use partitioning strategies in your microservices application and use of various Deployment Patterns & Strategies.
-
-### [85. Introducing gdocweb: Web Building with Java 21, Spring Boot 3.x, and More](https://hackernoon.com/introducing-gdocweb-web-building-with-java-21-spring-boot-3x-and-more)
-![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-ny82mu2.jpeg)
-Explore the journey of building gdocweb: a developer's insight into choosing Java 21, Spring Boot 3.x, and navigating tech stack challenges.
-
-### [86. Improving Integration Test Transparency](https://hackernoon.com/creating-effective-integration-tests-best-practices-and-tools-within-the-spring-framework)
-![](https://cdn.hackernoon.com/images/MQ5fUOiNSpXFtgak1Nkj9tyaEBL2-zs834jx.jpeg)
-Practical strategies for writing effective and maintainable integration tests in Spring, enhancing readability and efficiency.
-
-### [87. Integrating Flyway With Spring Boot](https://hackernoon.com/integrating-flyway-with-spring-boot)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-hs93om5.png)
-Learn how to integrate FlywayDB to Spring boot application to help with adding database migration functionality to your Spring Boot project using Flyway.
-
-### [88. Top 10 Books to Learn Java](https://hackernoon.com/top-10-books-to-learn-java)
-![](https://cdn.hackernoon.com/images/bu2EcgsBMkb4EPIleKDsMfYfLKF3-fq03avu.jpeg)
-This collection lists the best Java books. The books are listed in ascending order of the reader's level of training.
-
-### [89. Contract-First APIs: How OpenAPI Becomes Your Single Source of Truth](https://hackernoon.com/contract-first-apis-how-openapi-becomes-your-single-source-of-truth)
+### [81. Contract-First APIs: How OpenAPI Becomes Your Single Source of Truth](https://hackernoon.com/contract-first-apis-how-openapi-becomes-your-single-source-of-truth)
 ![](https://cdn.hackernoon.com/images/dy9jGxt8zmhW4A22TFX79eWo9772-rx03mzi.png)
 Learn how to auto-generate production-ready REST APIs and type-safe SDKs from OpenAPI specs using Maven and OpenAPI Generator.
 
-### [90. Application Modernization: Breaking the God Service Using Heroku](https://hackernoon.com/application-modernization-breaking-up-the-god-service-using-heroku)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-boj35je.jpeg)
-Stop replacing your monolith with a God service and start doing things better. Let John Vester show you how to get started.
+### [82. A Developer's Guide to Merging AI with the Spring Ecosystem](https://hackernoon.com/a-developers-guide-to-merging-ai-with-the-spring-ecosystem)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1c02vmi.jpeg)
+Spring AI is a lightweight, developer-friendly framework from the Spring team that bridges the gap between modern AI tools and the Spring Boot ecosystem.
 
-### [91. Building GraphQL API with Spring Boot, Neo4j and Kong – Part 3](https://hackernoon.com/building-graphql-api-with-spring-boot-neo4j-and-kong-part-3-5y113yw2)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlBhQoqjIaMU4EX9kZOsv7rSkzzx1-hw53ur0.webp?alt=media&token=43a0ede4-37d0-40fe-a801-7f2897e789b3)
-In part 1 and part 2, the setting up and testing of GraphQL APIs was covered. In this article, the focus is on the querying of the graph DB, which is Neo4j in this case. For querying, the Neo4j OGM library and Spring Data’s Neo4jRepository will be used.
+### [83. Use DocRaptor to Add Output Options to a Full-Stack Application](https://hackernoon.com/use-docraptor-to-add-output-options-to-a-full-stack-application-i31f31s5)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-5g6t31ha.jpeg)
+Learn how to add DocRaptor to convert HTML to a PDF with advanced features, such as custom headers, footers, watermarks, and endless styling options.
 
-### [92. Which Backend Is Better for Speed? We Ran 1 Million Tests to Find Out](https://hackernoon.com/which-backend-is-better-for-speed-we-ran-1-million-tests-to-find-out)
+### [84. What’s in Store for the Future With GraalVM?](https://hackernoon.com/whats-in-store-for-the-future-with-graalvm)
+![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-0p92d48.jpeg)
+The big release of Spring and official support for spring native resurfaced my thoughts on migrating to GraalVM native image. Is it SubstrateVM time?
+
+### [85. Microservice Patterns to Design and Implement Any Java-Based Event-Driven Microservices Application](https://hackernoon.com/microservice-patterns-to-design-and-implement-any-java-based-event-driven-microservices-application)
+![](https://cdn.hackernoon.com/images/eQAboXKgBIZ0OD357lPO5ho4RdA2-jki3jqm.jpeg)
+Java spring boot developers tutorial- Tips to use partitioning strategies in your microservices application and use of various Deployment Patterns & Strategies.
+
+### [86. Introducing gdocweb: Web Building with Java 21, Spring Boot 3.x, and More](https://hackernoon.com/introducing-gdocweb-web-building-with-java-21-spring-boot-3x-and-more)
+![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-ny82mu2.jpeg)
+Explore the journey of building gdocweb: a developer's insight into choosing Java 21, Spring Boot 3.x, and navigating tech stack challenges.
+
+### [87. Building a Product Catalog API with Pagination, Filtering & Sorting using Spring Boot](https://hackernoon.com/building-a-product-catalog-api-with-pagination-filtering-and-sorting-using-spring-boot)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-55023sv.jpeg)
+This setup forms the backbone of any enterprise API that needs to handle data efficiently while remaining scalable and maintainable.
+
+### [88. Improving Integration Test Transparency](https://hackernoon.com/creating-effective-integration-tests-best-practices-and-tools-within-the-spring-framework)
+![](https://cdn.hackernoon.com/images/MQ5fUOiNSpXFtgak1Nkj9tyaEBL2-zs834jx.jpeg)
+Practical strategies for writing effective and maintainable integration tests in Spring, enhancing readability and efficiency.
+
+### [89. Integrating Flyway With Spring Boot](https://hackernoon.com/integrating-flyway-with-spring-boot)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-hs93om5.png)
+Learn how to integrate FlywayDB to Spring boot application to help with adding database migration functionality to your Spring Boot project using Flyway.
+
+### [90. Top 10 Books to Learn Java](https://hackernoon.com/top-10-books-to-learn-java)
+![](https://cdn.hackernoon.com/images/bu2EcgsBMkb4EPIleKDsMfYfLKF3-fq03avu.jpeg)
+This collection lists the best Java books. The books are listed in ascending order of the reader's level of training.
+
+### [91. Which Backend Is Better for Speed? We Ran 1 Million Tests to Find Out](https://hackernoon.com/which-backend-is-better-for-speed-we-ran-1-million-tests-to-find-out)
 ![](https://cdn.hackernoon.com/images/BtjpboAJojhsZer7SAIVzOYlpFn1-5mh2zwg.png)
 A performance comparison of Node.js (Express) and Spring Boot using a real-world URL shortener, across single and clustered deployments.
 
-### [93. The Best Solution Ever For Application Monitoring](https://hackernoon.com/the-best-solution-ever-for-application-monitoring-nzq3tw0)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTMgodFHH4evRjSdNFNz3dacaM23-fa623xsm.jpeg?alt=media&token=f56f33c6-9c8d-4639-a099-b4762dbd4a04)
-Just because we do something one way, doesn’t always mean it is the right way … or even the best way.
+### [92. Application Modernization: Breaking the God Service Using Heroku](https://hackernoon.com/application-modernization-breaking-up-the-god-service-using-heroku)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-boj35je.jpeg)
+Stop replacing your monolith with a God service and start doing things better. Let John Vester show you how to get started.
 
-### [94. Building a Product Catalog API with Pagination, Filtering & Sorting using Spring Boot](https://hackernoon.com/building-a-product-catalog-api-with-pagination-filtering-and-sorting-using-spring-boot)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-55023sv.jpeg)
-This setup forms the backbone of any enterprise API that needs to handle data efficiently while remaining scalable and maintainable.
+### [93. Building GraphQL API with Spring Boot, Neo4j and Kong – Part 3](https://hackernoon.com/building-graphql-api-with-spring-boot-neo4j-and-kong-part-3-5y113yw2)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlBhQoqjIaMU4EX9kZOsv7rSkzzx1-hw53ur0.webp?alt=media&token=43a0ede4-37d0-40fe-a801-7f2897e789b3)
+In part 1 and part 2, the setting up and testing of GraphQL APIs was covered. In this article, the focus is on the querying of the graph DB, which is Neo4j in this case. For querying, the Neo4j OGM library and Spring Data’s Neo4jRepository will be used.
+
+### [94. Using Maven's Dependency Analyzer to Get Rid of Unused Dependencies is Dangerous Advice Today](https://hackernoon.com/using-mavens-dependency-analyzer-to-get-rid-of-unused-dependencies-is-dangerous-advice-today)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-dy22lv4.jpeg)
+The current state of the Maven analyzer doesn't offer any benefit to modern Spring Boot projects. 
 
 ### [95. How to Create a Springboot Project](https://hackernoon.com/how-to-create-a-springboot-project)
 ![](https://cdn.hackernoon.com/images/ahx60lvdMggln7YVmzstpfgr2Rn2-u593mah.gif.webp)
 Creating a springboot Project
 
-### [96. Should You Use Spring Boot for Full-Stack Development?](https://hackernoon.com/should-you-use-spring-boot-for-full-stack-development)
-![](https://cdn.hackernoon.com/images/a-boot-with-springs-on-the-bottom-f5ej2uwllocs9y263susu02w.png)
-The thing with Java and Spring Boot is that it is slightly harder to learn them; once you have learned and spent some time with them, it is a breeze to use.
+### [96. The Best Solution Ever For Application Monitoring](https://hackernoon.com/the-best-solution-ever-for-application-monitoring-nzq3tw0)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTMgodFHH4evRjSdNFNz3dacaM23-fa623xsm.jpeg?alt=media&token=f56f33c6-9c8d-4639-a099-b4762dbd4a04)
+Just because we do something one way, doesn’t always mean it is the right way … or even the best way.
 
 ### [97. Distributed Tracing in Spring Boot Without OpenTelemetry](https://hackernoon.com/distributed-tracing-in-spring-boot-without-opentelemetry)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2t022a8.jpeg)
 Implement distributed tracing in Spring Boot without OpenTelemetry using custom trace IDs, async context propagation, and MDC‑based logs.
 
-### [98. Launching Docker Desktop with Spring Boot](https://hackernoon.com/launching-docker-desktop-with-spring-boot)
+### [98. Should You Use Spring Boot for Full-Stack Development?](https://hackernoon.com/should-you-use-spring-boot-for-full-stack-development)
+![](https://cdn.hackernoon.com/images/a-boot-with-springs-on-the-bottom-f5ej2uwllocs9y263susu02w.png)
+The thing with Java and Spring Boot is that it is slightly harder to learn them; once you have learned and spent some time with them, it is a breeze to use.
+
+### [99. Launching Docker Desktop with Spring Boot](https://hackernoon.com/launching-docker-desktop-with-spring-boot)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4092bk6.jpeg)
 Explanation and Example of a Real-World Spring Boot and Docker Desktop based Deployment. Code Samples are provided Inline and via Git Repo.
-
-### [99. Using Maven's Dependency Analyzer to Get Rid of Unused Dependencies is Dangerous Advice Today](https://hackernoon.com/using-mavens-dependency-analyzer-to-get-rid-of-unused-dependencies-is-dangerous-advice-today)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-dy22lv4.jpeg)
-The current state of the Maven analyzer doesn't offer any benefit to modern Spring Boot projects. 
 
 ### [100. How to Secure Coroutines and WebFlux Reactive Applications With Prometheus, Grafana, and InfluxDB](https://hackernoon.com/how-to-secure-coroutines-and-webflux-reactive-applications-with-prometheus-grafana-and-influxdb)
 ![](https://cdn.hackernoon.com/images/XKjmz9tZa8XTDU9MqcuFluHFxfj2-ab02587.jpeg)
 Monitoring applications can easier said than done. What if I told you that it can be easier and it can be done? Let's try Grafana and Prometheus!
 
-### [101. How To Introduce a New API Quickly Using Spring Boot and Gradle](https://hackernoon.com/how-to-introduce-a-new-api-quickly-using-spring-boot-and-gradle)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-l303649.jpeg)
-Time to market can make or break any idea or solution. Check out how quickly a RESTful API can be created by leveraging ChatGPT, Spring Boot, Gradle, and Heroku
-
-### [102. Spring Boot Quick Start: Spring Boot Tutorial for Beginners](https://hackernoon.com/spring-boot-quick-start-spring-boot-tutorial-for-beginners)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-zz03bnu.jpeg)
-How to create spring boot application using Spring Initializr and creating spring boot rest  api example
-
-### [103. How to Deploy a Spring Boot Application on Choreo](https://hackernoon.com/how-to-deploy-a-spring-boot-application-on-choreo)
+### [101. How to Deploy a Spring Boot Application on Choreo](https://hackernoon.com/how-to-deploy-a-spring-boot-application-on-choreo)
 ![](https://cdn.hackernoon.com/images/vIeD0PLtUPYRYo9Ml8LMzs6iXZa2-bf93u48.png)
 Step by Step guide on running a SpringBoot Application on Choreo
 
-### [104. Creating a Service for Sensitive Data with Spring and Redis](https://hackernoon.com/creating-a-service-for-sensitive-data-with-spring-and-redis)
+### [102. How To Introduce a New API Quickly Using Spring Boot and Gradle](https://hackernoon.com/how-to-introduce-a-new-api-quickly-using-spring-boot-and-gradle)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-l303649.jpeg)
+Time to market can make or break any idea or solution. Check out how quickly a RESTful API can be created by leveraging ChatGPT, Spring Boot, Gradle, and Heroku
+
+### [103. Creating a Service for Sensitive Data with Spring and Redis](https://hackernoon.com/creating-a-service-for-sensitive-data-with-spring-and-redis)
 ![](https://cdn.hackernoon.com/images/ayEsAWmV07diOj37fFIIQoDVdVD2-ln134wd.webp)
 A simplified example of an application that handles sensitive data leveraging Spring and Redis.
+
+### [104. Spring Boot Quick Start: Spring Boot Tutorial for Beginners](https://hackernoon.com/spring-boot-quick-start-spring-boot-tutorial-for-beginners)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-zz03bnu.jpeg)
+How to create spring boot application using Spring Initializr and creating spring boot rest  api example
 
 ### [105. Here's Why Java Is Still Alive And Kicking](https://hackernoon.com/heres-why-java-is-still-alive-and-kicking-0d16340s)
 ![](https://cdn.hackernoon.com/images/e3N1YN3EIBboDWlXIrGE70pUigm2-y81y3635.jpeg)
@@ -427,41 +431,41 @@ Let’s see what awaits our favorite Java language directly, and then — what a
 ![](https://cdn.hackernoon.com/images/THenOWOiE3O1dgeM096pYJbOVNi1-lro034w1.png)
 Spring Boot is an easy to use web framework built on top of the framework Spring. Let's bootstrap an API using Spring Boot.
 
-### [107. Dockerizing a Spring Boot 3 Application](https://hackernoon.com/dockerizing-a-spring-boot-3-application)
-![](https://cdn.hackernoon.com/images/spring-boot-k96jzzhinqik4qn3fhp2yluu.png)
-In this article, we will learn how to dockerize a spring boot 3 application.
+### [107. Can WebFlux Be Better Than Spring MVC? What You Need to Know](https://hackernoon.com/can-webflux-be-better-than-spring-mvc-what-you-need-to-know)
+![](https://cdn.hackernoon.com/images/XKjmz9tZa8XTDU9MqcuFluHFxfj2-lw025q0.jpeg)
+Can WebFlux be better than the tradition MVC? Why and why not? This is your test to clear that up!
 
 ### [108. How To Leverage The Salesforce API Without The Salesforce Client](https://hackernoon.com/how-to-leverage-the-salesforce-api-without-the-salesforce-client)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-z1o135s6.jpeg)
 Interested in using Salesforce with your own client application? Learn how to use Spring Boot to accomplish this need, caching data along the way.
 
-### [109. Keyword-Based Anomaly Detection in Log Files](https://hackernoon.com/keyword-based-anomaly-detection-in-log-files)
-![](https://cdn.hackernoon.com/images/fnfwDp6ir7bPgWfQf6eyL02AvmK2-ea833tt.jpeg)
-Spring-based suites are utilized to build a log anomaly detection system. This is a three-part series, with the foundation components covered in the first part.
+### [109. Dockerizing a Spring Boot 3 Application](https://hackernoon.com/dockerizing-a-spring-boot-3-application)
+![](https://cdn.hackernoon.com/images/spring-boot-k96jzzhinqik4qn3fhp2yluu.png)
+In this article, we will learn how to dockerize a spring boot 3 application.
 
-### [110. Spring Boot on Choreo: Connecting a Database](https://hackernoon.com/spring-boot-on-choreo-connecting-a-database)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6c83m2a.png)
-Learn to configure a robust database in a Spring Boot app on Choreo, from development to deployment, ensuring a seamless and secure transition.
-
-### [111. How To Build Graphql API with Spring Boot, Neo4j and Kong [Part 4]](https://hackernoon.com/how-to-build-graphql-api-with-spring-boot-neo4j-and-kong-part-4-4qq3upa)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlBhQoqjIaMU4EX9kZOsv7rSkzzx1-mz243u9b.webp?alt=media&token=71edc31f-bd30-46eb-8112-1140b1ec192d)
-Introduction
-
-### [112. Reliable Testing with Kafka: Isolation Techniques](https://hackernoon.com/streamlining-kafka-integration-testing-isolation-with-testcontainers-and-spring-boot-31)
+### [110. Reliable Testing with Kafka: Isolation Techniques](https://hackernoon.com/streamlining-kafka-integration-testing-isolation-with-testcontainers-and-spring-boot-31)
 ![](https://cdn.hackernoon.com/images/MQ5fUOiNSpXFtgak1Nkj9tyaEBL2-n28345b.jpeg)
 Kafka integration testing with Testcontainers and Spring Boot 3.1, ensuring test isolation and full message access for reliable and efficient tests.
 
-### [113. SaaS Database Migration To Heroku Postgres](https://hackernoon.com/saas-database-migration-to-heroku-postgres-wan34k6)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-tve34i6.jpeg)
-The next step in my fitness application journey is to migrate to Heroku Postgres. Check out how easy this turned out to be too.
+### [111. Spring Boot on Choreo: Connecting a Database](https://hackernoon.com/spring-boot-on-choreo-connecting-a-database)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6c83m2a.png)
+Learn to configure a robust database in a Spring Boot app on Choreo, from development to deployment, ensuring a seamless and secure transition.
 
-### [114. A Guide to OpenTelemetry Tracing for the JVM](https://hackernoon.com/a-guide-to-opentelemetry-tracing-for-the-jvm)
+### [112. Keyword-Based Anomaly Detection in Log Files](https://hackernoon.com/keyword-based-anomaly-detection-in-log-files)
+![](https://cdn.hackernoon.com/images/fnfwDp6ir7bPgWfQf6eyL02AvmK2-ea833tt.jpeg)
+Spring-based suites are utilized to build a log anomaly detection system. This is a three-part series, with the foundation components covered in the first part.
+
+### [113. A Guide to OpenTelemetry Tracing for the JVM](https://hackernoon.com/a-guide-to-opentelemetry-tracing-for-the-jvm)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-jm62sih.jpeg)
 Let's compare the different zero-code OpenTelemetry approaches on the JVM, covering the most widespread.
 
-### [115. Can WebFlux Be Better Than Spring MVC? What You Need to Know](https://hackernoon.com/can-webflux-be-better-than-spring-mvc-what-you-need-to-know)
-![](https://cdn.hackernoon.com/images/XKjmz9tZa8XTDU9MqcuFluHFxfj2-lw025q0.jpeg)
-Can WebFlux be better than the tradition MVC? Why and why not? This is your test to clear that up!
+### [114. How To Build Graphql API with Spring Boot, Neo4j and Kong [Part 4]](https://hackernoon.com/how-to-build-graphql-api-with-spring-boot-neo4j-and-kong-part-4-4qq3upa)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlBhQoqjIaMU4EX9kZOsv7rSkzzx1-mz243u9b.webp?alt=media&token=71edc31f-bd30-46eb-8112-1140b1ec192d)
+Introduction
+
+### [115. SaaS Database Migration To Heroku Postgres](https://hackernoon.com/saas-database-migration-to-heroku-postgres-wan34k6)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-tve34i6.jpeg)
+The next step in my fitness application journey is to migrate to Heroku Postgres. Check out how easy this turned out to be too.
 
 ### [116. Dependencies, Entity Classes, and Configuration for Jinq to Create Database Queries in Java](https://hackernoon.com/dependencies-entity-classes-and-configuration-for-jinq-to-create-database-queries-in-java-fj5i35n7)
 ![](https://cdn.hackernoon.com/images/bu2EcgsBMkb4EPIleKDsMfYfLKF3-jpfz37s3.jpeg)
@@ -471,141 +475,145 @@ Jinq is a library that provides a convenient and natural way to build typesafe d
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-x192e2l.jpeg)
 My talk was accepted by SpringOne in San Francisco. I never went to that conference and was really looking forward to it.
 
-### [118. Heavy Rotation of Relational Hashicorp Vault Database Secrets in Spring](https://hackernoon.com/how-to-handle-the-expiration-of-hashicorp-vault-database-secrets-in-spring-80qa3y16)
-![](https://cdn.hackernoon.com/drafts/9k113yjs.png)
-Rotate Expiring Spring Cloud Vault Database Credentials Without Downtime
-
-### [119. Difference Between Spring MVC and Spring Boot](https://hackernoon.com/difference-between-spring-mvc-and-spring-boot-xrv3uys)
-![](https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Spring MVC is a framework that is used to build web applications. It follows the Model View Controller pattern. DispatcherServlet is the servlet that controls the flow of a request from view to controller. Since Spring 3.1, the Servlet 3 API is supported and we no longer need web.xml for configuring DispatcherServlet – instead, it is configured programmatically. 
-
-### [120. How to Use Kong Ingress Controller with Spring Boot Services](https://hackernoon.com/how-to-use-kong-ingress-controller-with-spring-boot-services)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-j593ks9.jpeg)
-Kong Ingress Controller allows users to include the power of Kong Gateway in existing Kubernetes implementations, all without much effort.
-
-### [121. Building Ultra-Fast APIs with Spring Boot 3.2 and Redis Caching](https://hackernoon.com/building-ultra-fast-apis-with-spring-boot-32-and-redis-caching)
-![](https://cdn.hackernoon.com/images/flashy-red-boots-c0p972djq5zxdmdtz44qne6k.png)
-By integrating Redis caching into your Spring Boot application, you offload database pressure, and you enhance user experience through faster responses.
-
-### [122. OpenTelemetry Tracing in Spring Boot: Choosing Between Java Agent and Micrometer Tracing](https://hackernoon.com/opentelemetry-tracing-in-spring-boot-choosing-between-java-agent-and-micrometer-for)
+### [118. OpenTelemetry Tracing in Spring Boot: Choosing Between Java Agent and Micrometer Tracing](https://hackernoon.com/opentelemetry-tracing-in-spring-boot-choosing-between-java-agent-and-micrometer-for)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-4fi2lig.png)
 Compare the OpenTelemetry Java Agent v1 and v2 with Micrometer Tracing in a Spring Boot application.
 
-### [123. OpenAPI Specification v. 3+ Introduction](https://hackernoon.com/openapi-specification-v-3-introduction-c41v3u3i)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfSn0FdIYzffezOPfjIQE1JZnkj03-pd73ujg.jpeg?alt=media&token=b35afb61-fa4c-41b6-bf54-c1ef330a03e4)
-Mental Checklist
+### [119. Heavy Rotation of Relational Hashicorp Vault Database Secrets in Spring](https://hackernoon.com/how-to-handle-the-expiration-of-hashicorp-vault-database-secrets-in-spring-80qa3y16)
+![](https://cdn.hackernoon.com/drafts/9k113yjs.png)
+Rotate Expiring Spring Cloud Vault Database Credentials Without Downtime
 
-### [124. Apache Seata Turns Distributed Transaction Nightmares into Spring Boot Dreams](https://hackernoon.com/apache-seata-turns-distributed-transaction-nightmares-into-spring-boot-dreams)
+### [120. Building Ultra-Fast APIs with Spring Boot 3.2 and Redis Caching](https://hackernoon.com/building-ultra-fast-apis-with-spring-boot-32-and-redis-caching)
+![](https://cdn.hackernoon.com/images/flashy-red-boots-c0p972djq5zxdmdtz44qne6k.png)
+By integrating Redis caching into your Spring Boot application, you offload database pressure, and you enhance user experience through faster responses.
+
+### [121. How to Use Kong Ingress Controller with Spring Boot Services](https://hackernoon.com/how-to-use-kong-ingress-controller-with-spring-boot-services)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-j593ks9.jpeg)
+Kong Ingress Controller allows users to include the power of Kong Gateway in existing Kubernetes implementations, all without much effort.
+
+### [122. Difference Between Spring MVC and Spring Boot](https://hackernoon.com/difference-between-spring-mvc-and-spring-boot-xrv3uys)
+![](https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Spring MVC is a framework that is used to build web applications. It follows the Model View Controller pattern. DispatcherServlet is the servlet that controls the flow of a request from view to controller. Since Spring 3.1, the Servlet 3 API is supported and we no longer need web.xml for configuring DispatcherServlet – instead, it is configured programmatically. 
+
+### [123. Apache Seata Turns Distributed Transaction Nightmares into Spring Boot Dreams](https://hackernoon.com/apache-seata-turns-distributed-transaction-nightmares-into-spring-boot-dreams)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rm02wrd.jpeg)
 Tame distributed transactions with Apache Seata and Spring Boot. Learn how to simplify microservices consistency without complex rollback logic.
 
-### [125. Designing Reliable API Systems: Exception Handling with Spring Boot’s ControllerAdvice](https://hackernoon.com/designing-reliable-api-systems-exception-handling-with-spring-boots-controlleradvice)
+### [124. OpenAPI Specification v. 3+ Introduction](https://hackernoon.com/openapi-specification-v-3-introduction-c41v3u3i)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfSn0FdIYzffezOPfjIQE1JZnkj03-pd73ujg.jpeg?alt=media&token=b35afb61-fa4c-41b6-bf54-c1ef330a03e4)
+Mental Checklist
+
+### [125. I Built a Fix So You Can Stop Writing Micrometer Boilerplate](https://hackernoon.com/i-built-a-fix-so-you-can-stop-writing-micrometer-boilerplate)
+![](https://cdn.hackernoon.com/images/a-clean-java-code-editor-transforming-complex-metric-setup-into-simple-annotations-cncba280l1tnfv1q1lxg6oem.png)
+Metrify simplifies Spring Boot metrics with annotations, removing Micrometer boilerplate and enabling cleaner, faster observability.
+
+### [126. Designing Reliable API Systems: Exception Handling with Spring Boot’s ControllerAdvice](https://hackernoon.com/designing-reliable-api-systems-exception-handling-with-spring-boots-controlleradvice)
 ![](https://cdn.hackernoon.com/images/code-displayed-on-a-laptop-screen-vyebco6xytk6oehvb6ygde5n.png)
 Build reliable Spring Boot APIs with centralized exception handling using @ControllerAdvice. Learn how to create clean, consistent, and scalable error responses
 
-### [126. Building a Local AI Chatbot with LangChain4J and Ollama](https://hackernoon.com/building-a-local-ai-chatbot-with-langchain4j-and-ollama)
+### [127. Building a Local AI Chatbot with LangChain4J and Ollama](https://hackernoon.com/building-a-local-ai-chatbot-with-langchain4j-and-ollama)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-1902lyc.jpeg)
 
 
-### [127. In-Depth Guide to Plugin Architectures with Spring, Consul, and Camel](https://hackernoon.com/in-depth-guide-to-plugin-architectures-with-spring-consul-and-camel-en1k3w67)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4CIXILaY2ySzhSciNTLA9bzYzBo2-ud1i13cm.png?alt=media&token=5e3afb35-c5f0-46a3-838e-d44866d2de9f)
-For the past couple of months I've been working on a data management tool I'm calling OpenDMP.  As I've started adding more features, I've run into a scalability issue a bit sooner than I had expected and so I decided to tackle what is hopefully the biggest remaining piece of the project's system architecture.
-
-### [128. Seamless Deployment to Aptible: Choosing the Right Approach](https://hackernoon.com/seamless-deployment-to-aptible-choosing-the-right-approach)
-![](https://cdn.hackernoon.com/images/programmer-c1mbp98fabk0f186rk7515x8.png)
-Exploring ways to deploy simple spring-boot application to Aptible.
-
-### [129. IKODIX Helps to Create Admin Panel Fullstack Apps for Your Databases](https://hackernoon.com/ikodix-helps-to-create-admin-panel-fullstack-apps-for-your-databases)
-![](https://cdn.hackernoon.com/images/y9OVFPjdpVUENC2T7pL1sZSvNIY2-mk2eg35ws.jpeg)
-IKODIX is an online code generator for admin panel full-stack applications for any relational database. 
-
-### [130. Using Heroku To Leverage CloudAMQP](https://hackernoon.com/using-heroku-to-leverage-cloudamqp-il1635fi)
+### [128. Using Heroku To Leverage CloudAMQP](https://hackernoon.com/using-heroku-to-leverage-cloudamqp-il1635fi)
 ![](https://hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-t63k3129.jpeg)
 As part of my Fitness application journey, the CloudAMQP service is introduced into the Heroku-based service in order to process invoices asynchronously.
 
-### [131. Hashicorp Vault max_ttl Killed My Spring App](https://hackernoon.com/hashicorp-vault-max_ttl-killed-my-spring-app-zk7p367z)
+### [129. In-Depth Guide to Plugin Architectures with Spring, Consul, and Camel](https://hackernoon.com/in-depth-guide-to-plugin-architectures-with-spring-consul-and-camel-en1k3w67)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4CIXILaY2ySzhSciNTLA9bzYzBo2-ud1i13cm.png?alt=media&token=5e3afb35-c5f0-46a3-838e-d44866d2de9f)
+For the past couple of months I've been working on a data management tool I'm calling OpenDMP.  As I've started adding more features, I've run into a scalability issue a bit sooner than I had expected and so I decided to tackle what is hopefully the biggest remaining piece of the project's system architecture.
+
+### [130. Seamless Deployment to Aptible: Choosing the Right Approach](https://hackernoon.com/seamless-deployment-to-aptible-choosing-the-right-approach)
+![](https://cdn.hackernoon.com/images/programmer-c1mbp98fabk0f186rk7515x8.png)
+Exploring ways to deploy simple spring-boot application to Aptible.
+
+### [131. IKODIX Helps to Create Admin Panel Fullstack Apps for Your Databases](https://hackernoon.com/ikodix-helps-to-create-admin-panel-fullstack-apps-for-your-databases)
+![](https://cdn.hackernoon.com/images/y9OVFPjdpVUENC2T7pL1sZSvNIY2-mk2eg35ws.jpeg)
+IKODIX is an online code generator for admin panel full-stack applications for any relational database. 
+
+### [132. Hashicorp Vault max_ttl Killed My Spring App](https://hackernoon.com/hashicorp-vault-max_ttl-killed-my-spring-app-zk7p367z)
 ![](https://cdn.hackernoon.com/drafts/yl1l3x2p.png)
 How to ensure that expiring Spring Cloud Vault dynamic database secrets are renewed, when reaching Hashicorp Vault’s max_ttl
 
-### [132. Traffic-Based Anomaly Detection in Log Files](https://hackernoon.com/traffic-based-anomaly-detection-in-log-files)
+### [133. Traffic-Based Anomaly Detection in Log Files](https://hackernoon.com/traffic-based-anomaly-detection-in-log-files)
 ![](https://cdn.hackernoon.com/images/fnfwDp6ir7bPgWfQf6eyL02AvmK2-c7832e6.jpeg)
 By focusing on the core functionality of detection, we ensure that potential problems are flagged as soon as they arise, which allows for immediate intervention
 
-### [133. Error Rate-Based Anomaly Detection in Log Files](https://hackernoon.com/error-rate-based-anomaly-detection-in-log-files)
+### [134. Error Rate-Based Anomaly Detection in Log Files](https://hackernoon.com/error-rate-based-anomaly-detection-in-log-files)
 ![](https://cdn.hackernoon.com/images/fnfwDp6ir7bPgWfQf6eyL02AvmK2-m5832tk.jpeg)
 This article will focus on implementing error rate-based detection, a crucial aspect of comprehensive log analysis. 
-
-### [134. CI/CD Workflow for SpringBoot Applications on Kubernetes via Skaffold](https://hackernoon.com/cicd-workflow-for-springboot-applications-on-kubernetes-via-skaffold-g01y3497)
-![](https://cdn.hackernoon.com/images/jUaZ7H8q4Eaa7nCwEGiEuaActit1-6m5t3ws5.jpeg)
-In this article, we'll explain how to create a CI/CD workflow for a SpringBoot Application deployed to Kubernetes using Skaffold.
 
 ### [135. How to Document a Java WebSocket API Using Smart-Doc](https://hackernoon.com/how-to-document-a-java-websocket-api-using-smart-doc)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-2l033sd.webp)
 Learn how to use Smart-Doc to generate Java WebSocket interface documentation and provide a complete example of a WebSocket server.
 
-### [136. An Awesome Tool To Quickly Create An Amazon-Like Recommendation Engine ](https://hackernoon.com/an-awesome-tool-to-quickly-create-an-amazon-like-recommendation-engine-8k473whc)
+### [136. CI/CD Workflow for SpringBoot Applications on Kubernetes via Skaffold](https://hackernoon.com/cicd-workflow-for-springboot-applications-on-kubernetes-via-skaffold-g01y3497)
+![](https://cdn.hackernoon.com/images/jUaZ7H8q4Eaa7nCwEGiEuaActit1-6m5t3ws5.jpeg)
+In this article, we'll explain how to create a CI/CD workflow for a SpringBoot Application deployed to Kubernetes using Skaffold.
+
+### [137. An Awesome Tool To Quickly Create An Amazon-Like Recommendation Engine ](https://hackernoon.com/an-awesome-tool-to-quickly-create-an-amazon-like-recommendation-engine-8k473whc)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-zzl3wcp.jpeg?alt=media&token=380af6ab-efa6-4ab9-98e2-9326b9a9e842)
 [TL;DR; Get started using Dgraph's Slash GraphQL product and connect to a Spring Boot application which will act as a simple RESTful recommendation service.]
 
-### [137. Creating a Simple gRPC Service on the Client Side](https://hackernoon.com/creating-a-simple-grpc-service-on-the-client-side)
+### [138. Creating a Simple gRPC Service on the Client Side](https://hackernoon.com/creating-a-simple-grpc-service-on-the-client-side)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-uda2dxn.jpeg)
 Standard schema validation allows delegating the validation to a third-party library and being done with it. Without one, we must fall back to manual validation
 
-### [138. Spring Data JPA: Speed Up Development & Business Focus](https://hackernoon.com/spring-data-jpa-speed-up-development-and-business-focus)
+### [139. Spring Data JPA: Speed Up Development & Business Focus](https://hackernoon.com/spring-data-jpa-speed-up-development-and-business-focus)
 ![](https://cdn.hackernoon.com/images/pCfBXKNYPYeKL9MTtONWeoyYNUs2-rr0349e.png)
 Spring Data JPA is a framework that abstracts all of the complexity needed for you to interact with your databases.
-
-### [139. From Monolith to Microservices: Scaling with Spring Boot and Spring Cloud](https://hackernoon.com/from-monolith-to-microservices-scaling-with-spring-boot-and-spring-cloud)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-mi023cd.jpeg)
-In this step-by-step tutorial, we’ll build a fully working microservices ecosystem from scratch.
 
 ### [140. Leveraging JMX for Efficient Debugging, Revisited](https://hackernoon.com/debugging-using-jmx-revisited)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-h682ngf.jpeg)
 Learn how to leverage JMX and Spring Boot for advanced debugging and management, enabling efficient monitoring and control of Java applications.
 
-### [141. Avoid security loopholes using @JsonView](https://hackernoon.com/avoid-security-loopholes-using-jsonview-apl3z6l)
+### [141. From Monolith to Microservices: Scaling with Spring Boot and Spring Cloud](https://hackernoon.com/from-monolith-to-microservices-scaling-with-spring-boot-and-spring-cloud)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-mi023cd.jpeg)
+In this step-by-step tutorial, we’ll build a fully working microservices ecosystem from scratch.
+
+### [142. Avoid security loopholes using @JsonView](https://hackernoon.com/avoid-security-loopholes-using-jsonview-apl3z6l)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvCuO49rOqteHpJV3F6Jhk4kp4o43-ag623xxs.jpeg?alt=media&token=f4a738c6-c706-4772-9e04-d805a35a54c4)
 Don’t expose more than you think needs exposing.
 
 If a certain property on an object is not useful to a consumer and internal to your business, then don’t return it.
 
-### [142. The HackerNoon Newsletter: Why Gemini 3.0 is a Great Builder But Still Needs a Human in the Loop (12/5/2025)](https://hackernoon.com/12-5-2025-newsletter)
+### [143. The HackerNoon Newsletter: Why Gemini 3.0 is a Great Builder But Still Needs a Human in the Loop (12/5/2025)](https://hackernoon.com/12-5-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_867_jgrpmmonroa0rjd5b6ewzpgu.png)
 12/5/2025: Top 5 stories on the HackerNoon homepage!
 
-### [143. Book Review: Effortless Cloud Native App Development Using Skaffold](https://hackernoon.com/book-review-effortless-cloud-native-app-development-using-skaffold)
+### [144. Book Review: Effortless Cloud Native App Development Using Skaffold](https://hackernoon.com/book-review-effortless-cloud-native-app-development-using-skaffold)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-9x02gt6.jpeg)
 Skaffold is a cloud native open source framework from Google that lets Spring Boot developers build Kubernetes apps easily and deploy effortlessly
 
-### [144. Secret Tecniques To Improve Dependency Resolution On App Class Loader](https://hackernoon.com/secret-tecniques-to-improve-dependency-resolution-on-app-class-loader-eqo3wi2)
+### [145. Secret Tecniques To Improve Dependency Resolution On App Class Loader](https://hackernoon.com/secret-tecniques-to-improve-dependency-resolution-on-app-class-loader-eqo3wi2)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F82dYFuavVVh4WYKNKyjj4OBt0cf1-t21k3w0k.jpeg?alt=media&token=875759c5-52eb-473a-b262-71fc42456a14)
 Recently I had the need to change certain classes -from external dependencies- loaded on a Spring Boot application. All this happened in a very restrictive environment, where I was not allowed to use other libraries or tweak the JRE, it was only possible to modify the fat JAR and environment variables or system properties.
 
-### [145. How to Integrate Traditional Cloud Development With Salesforce](https://hackernoon.com/how-to-integrate-traditional-cloud-development-with-salesforce-z41t34d2)
+### [146. How to Integrate Traditional Cloud Development With Salesforce](https://hackernoon.com/how-to-integrate-traditional-cloud-development-with-salesforce-z41t34d2)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-3cp31qd.jpeg)
 Heroku provides the necessary components to integrate cloud services with Salesforce to easily create a burndown chart to track performance.
 
-### [146. How to Deploy Java GraphQL APIs Using Apifi — A Quick Start Guide](https://hackernoon.com/how-to-deploy-java-graphql-apis-using-apifi-a-quick-start-guide-hz1a3w1c)
+### [147. How to Deploy Java GraphQL APIs Using Apifi — A Quick Start Guide](https://hackernoon.com/how-to-deploy-java-graphql-apis-using-apifi-a-quick-start-guide-hz1a3w1c)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvBTWKG5mIAPUpw518dIq2QvB4zy2-0c663w0k.png?alt=media&token=0e624abb-6d7a-4cbe-8c89-63459cb930ab)
 A Quick Start Guide to Getting a Java GraphQL API up and Running in no time Using Apifi.
-
-### [147. Spring Boot Debugging with Aspect-Oriented Programming (AOP) to Increase Modularity](https://hackernoon.com/spring-boot-debugging-with-aspect-oriented-programming-aop-to-increase-modularity)
-![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-2ka2g70.jpeg)
-Does your application fail CI tests "sometimes"? Does it display flaky behavior? Did you add many logs trying to solve it? There's a better way: AOP!
 
 ### [148. This Architecture Principle from 2005 Can Address Caveats Introduced by Object-oriented Programming](https://hackernoon.com/this-architecture-principle-from-2005-can-address-caveats-introduced-by-object-oriented-programming)
 ![](https://cdn.hackernoon.com/images/XKjmz9tZa8XTDU9MqcuFluHFxfj2-cg02444.jpeg)
 Ports and Adapters architecture was created by Alistair Cockburn in 2005.
 
-### [149. API Development Gets a Boost as ChatGPT and Quarkus Streamline Java Workflow](https://hackernoon.com/api-development-gets-a-boost-as-chatgpt-and-quarkus-streamline-java-workflow)
+### [149. Spring Boot Debugging with Aspect-Oriented Programming (AOP) to Increase Modularity](https://hackernoon.com/spring-boot-debugging-with-aspect-oriented-programming-aop-to-increase-modularity)
+![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-2ka2g70.jpeg)
+Does your application fail CI tests "sometimes"? Does it display flaky behavior? Did you add many logs trying to solve it? There's a better way: AOP!
+
+### [150. API Development Gets a Boost as ChatGPT and Quarkus Streamline Java Workflow](https://hackernoon.com/api-development-gets-a-boost-as-chatgpt-and-quarkus-streamline-java-workflow)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-hy03897.png)
 Stepping outside of my comfort zone, let’s see how quickly we can introduce an API-First-driven RESTful by leveraging ChatGPT, Quarkus, and Heroku.
 
-### [150. Tutorial: Learn How to Use the h2 Database With Spring Boot! 🤔](https://hackernoon.com/tutorial-learn-how-to-use-the-h2-database-with-spring-boot)
+### [151. Tutorial: Learn How to Use the h2 Database With Spring Boot! 🤔](https://hackernoon.com/tutorial-learn-how-to-use-the-h2-database-with-spring-boot)
 ![](https://cdn.hackernoon.com/images/QUpz7WkNRAOwFgHfe9ukzuDHb3l2-4i834aq.png)
 Learn how to use the H2 Database with Spring Boot in this step-by-step guide which includes a working example written in Groovy. 
 
-### [151. CI/CD Workflow for SpringBoot Applications on Kubernetes via Skaffold](https://hackernoon.com/cicd-workflow-for-springboot-applications-on-kubernetes-via-skaffold-zu1x34oc)
+### [152. CI/CD Workflow for SpringBoot Applications on Kubernetes via Skaffold](https://hackernoon.com/cicd-workflow-for-springboot-applications-on-kubernetes-via-skaffold-zu1x34oc)
 ![](https://cdn.hackernoon.com/images/jUaZ7H8q4Eaa7nCwEGiEuaActit1-6m5t3ws5.jpeg)
 In this article, we'll explain how to create a CI/CD workflow for a SpringBoot Application deployed to Kubernetes using Skaffold.
 

@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [nlp](https://hackernoon.com/tagged/nlp)
+### Let's learn about [Nlp](https://hackernoon.com/tagged/nlp) via these 248 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 nlp - Natural language processing. A branch of AI that helps computers understand text and words like humans.
 
 ### [1. Decoding Transformers' Superiority over RNNs in NLP Tasks](https://hackernoon.com/decoding-transformers-superiority-over-rnns-in-nlp-tasks)
@@ -156,21 +158,21 @@ How to analyze the sentiments from a text using AWS services like Amazon Compreh
 ![](https://cdn.hackernoon.com/images/DUgalx4alqOf4QlthE3dDI1x7Wq2-vqfx37hd.jpeg)
 Too lazy to scrape nlp data yourself? In this post, I’ll show you a quick way to scrape NLP datasets using Youtube and Python.
 
-### [39. How to Integrate Dialogflow Chatbot with AngularJS [Step-By-Step Guide]](https://hackernoon.com/how-to-integrate-dialogflow-chatbot-with-angular-js-pio32pk)
-![](https://cdn.hackernoon.com/drafts/xq3x32ka.png)
-There are numerous posts about developing a chatbot using Dialogflow. But creating chatbot isn’t enough. Connecting Dialogflow to the web interface is even more interesting and challenging. With Angular being a popular and emerging platform, here is our guide to integrate Dialogflow chatbot with Angular JS.
-
-### [40. wav2vec2 for Automatic Speech Recognition In Plain English](https://hackernoon.com/wav2vec2-for-automatic-speech-recognition-in-plain-english)
+### [39. wav2vec2 for Automatic Speech Recognition In Plain English](https://hackernoon.com/wav2vec2-for-automatic-speech-recognition-in-plain-english)
 ![](https://cdn.hackernoon.com/images/cF7mu2NOvjhw93apYPWBBmsndEM2-pm832aq.jpeg)
 Plain English description of how Meta AI Research's wav2vec2 model works with respect to automatic speech recognition (ASR).
 
-### [41. How To Create a Python Data Engineering Project with a Pipeline Pattern](https://hackernoon.com/how-to-create-a-python-data-engineering-project-with-a-pipeline-pattern-uj5t33od)
-![](https://cdn.hackernoon.com/images/Apj3GcI7SYbhNozR0srJR5un7bT2-se7y33vo.jpeg)
-In this article, we cover how to use pipeline patterns in python data engineering projects. Create a functional pipeline, install fastcore, and other steps.
+### [40. How to Integrate Dialogflow Chatbot with AngularJS [Step-By-Step Guide]](https://hackernoon.com/how-to-integrate-dialogflow-chatbot-with-angular-js-pio32pk)
+![](https://cdn.hackernoon.com/drafts/xq3x32ka.png)
+There are numerous posts about developing a chatbot using Dialogflow. But creating chatbot isn’t enough. Connecting Dialogflow to the web interface is even more interesting and challenging. With Angular being a popular and emerging platform, here is our guide to integrate Dialogflow chatbot with Angular JS.
 
-### [42. Analyzing Twitter Conversations with the New Twitter V2 API](https://hackernoon.com/analyzing-twitter-conversations-with-the-new-twitter-v2-api)
+### [41. Analyzing Twitter Conversations with the New Twitter V2 API](https://hackernoon.com/analyzing-twitter-conversations-with-the-new-twitter-v2-api)
 ![](https://cdn.hackernoon.com/images/GSTMmhFFnPNVYMvHRaWlYvEj6mj1-ble3mua.jpeg)
 Getting actionable insights around a topic using the new Twitter API v2 endpoint
+
+### [42. How To Create a Python Data Engineering Project with a Pipeline Pattern](https://hackernoon.com/how-to-create-a-python-data-engineering-project-with-a-pipeline-pattern-uj5t33od)
+![](https://cdn.hackernoon.com/images/Apj3GcI7SYbhNozR0srJR5un7bT2-se7y33vo.jpeg)
+In this article, we cover how to use pipeline patterns in python data engineering projects. Create a functional pipeline, install fastcore, and other steps.
 
 ### [43. GPT-4 Explained: ChatGPT's Big Brother is Here to Disrupt Everything](https://hackernoon.com/gpt-4-explained-chatgpts-big-brother-is-here-to-disrupt-everything)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-8y93lw5.jpeg)
@@ -184,13 +186,13 @@ In this post, I wanted to share a Reddit dataset list that gained a lot of tract
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-kf03bcn.webp)
 <em>By </em><a href="https://medium.com/@irastepanyuk"><em>Ira Stepanyuk</em></a><em>, Data Scientist at </em><a href="https://potehalabs.com/"><em>Poteha&nbsp;Labs</em></a>
 
-### [46. Deploying Twitter Bot to Heroku](https://hackernoon.com/deploying-twitter-bot-to-heroku-6b143uaj)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgFu8VrqJPmQedqTJrWTKvZ5oJhZ2-se522ubh.jpeg?alt=media&token=0d35c12b-6ceb-45c4-b8c2-a03a1f3ecf9b)
-Most of us are familiar with Twitter. But we are not much familiar that we can automate the activities like status posting, retweeting,  liking, commenting and so on. So,here I'll show you how we can automate some of the activities like getting the twitter data,posting the status and retweeting with Node.js and a npm package called Twit.
-
-### [47. The Ultimate Guide to Best News APIs ](https://hackernoon.com/the-ultimate-guide-to-news-apis)
+### [46. The Ultimate Guide to Best News APIs ](https://hackernoon.com/the-ultimate-guide-to-news-apis)
 ![](https://cdn.hackernoon.com/images/y1iTahuNKJR216z1OXXjsvYJnbh2-4n93plw.jpeg)
 The ultimate guide to the best news APIs, written by a professional data wrangler and ML practitioner. 
+
+### [47. Deploying Twitter Bot to Heroku](https://hackernoon.com/deploying-twitter-bot-to-heroku-6b143uaj)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgFu8VrqJPmQedqTJrWTKvZ5oJhZ2-se522ubh.jpeg?alt=media&token=0d35c12b-6ceb-45c4-b8c2-a03a1f3ecf9b)
+Most of us are familiar with Twitter. But we are not much familiar that we can automate the activities like status posting, retweeting,  liking, commenting and so on. So,here I'll show you how we can automate some of the activities like getting the twitter data,posting the status and retweeting with Node.js and a npm package called Twit.
 
 ### [48. Text Embedding Explained: How AI Understands Words](https://hackernoon.com/text-embedding-explained-how-ai-understands-words)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-h693l3t.jpeg)
@@ -221,13 +223,13 @@ Google BERT will help you to kickstart your NLP journey by showing you how the t
 ![](https://cdn.hackernoon.com/images/YqzNjVX0nYVlCUWqv4gnCWnKpey1-x793ptl.jpeg)
 This blog provides you with some strong rationale to use Kubernetes on large AI/ML datasets on which distributed inferences are performed. Loop in for more. 
 
-### [55. AI for Noobs: How Amazon Alexa Works](https://hackernoon.com/ai-for-noobs-how-amazon-alexa-works)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-db03e18.jpeg)
-How Amazon Alexa AI processes and implements commands.
-
-### [56. 'El transformador ilustrado' una traducción al español](https://hackernoon.com/el-transformador-ilustrado-una-traduccion-al-espanol-0y73wwp)
+### [55. 'El transformador ilustrado' una traducción al español](https://hackernoon.com/el-transformador-ilustrado-una-traduccion-al-espanol-0y73wwp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHFUEKwOWUPZSlUykLPDZ2wtZy5O2-3h403w2p.jpeg?alt=media&token=39bfaaac-6549-4644-88a0-70fca5652a73)
 <meta name="monetization" content="$ilp.uphold.com/EXa8i9DQ32qy">
+
+### [56. AI for Noobs: How Amazon Alexa Works](https://hackernoon.com/ai-for-noobs-how-amazon-alexa-works)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-db03e18.jpeg)
+How Amazon Alexa AI processes and implements commands.
 
 ### [57. Galactica is an AI Model Trained on 120 Billion Parameters](https://hackernoon.com/galactica-is-an-ai-model-trained-on-120-billion-parameters)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-j7a3msr.jpeg)
@@ -237,17 +239,17 @@ On November 15th, MetaAI and Papers with Code announced the release of Galactic
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ek03733.jpeg)
 My biggest worry (and excitement) is that AI will progress enough to become more creative than humans.
 
-### [59. [Reviewed] 6 Conversational Feedback Tools](https://hackernoon.com/6-best-conversational-feedback-tools-tp1k3zfa)
+### [59. A Subreddit Where Only AI Chatbots Can Post](https://hackernoon.com/a-subreddit-where-only-ai-chatbots-can-post)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-yo93jwf.jpeg)
+There’s a subreddit with a called r/SubSimulator that took three years in the making and which is fully powered by bots
+
+### [60. [Reviewed] 6 Conversational Feedback Tools](https://hackernoon.com/6-best-conversational-feedback-tools-tp1k3zfa)
 ![](https://cdn.hackernoon.com/drafts/nh103zvk.png)
 Chatbots for surveys, surveybots, conversational surveys, feedback chatbots, conversational survey tools, AI survey tools, chatbot questionnaires. The list of names goes on and on. But how do they compare and which one is the best performer?
 
-### [60. ChatGPT Offers 5 Multi-Million Dollar Business Ideas Built With ChatGPT](https://hackernoon.com/chatgpt-offers-5-multi-million-dollar-business-ideas-built-with-chatgpt)
+### [61. ChatGPT Offers 5 Multi-Million Dollar Business Ideas Built With ChatGPT](https://hackernoon.com/chatgpt-offers-5-multi-million-dollar-business-ideas-built-with-chatgpt)
 ![](https://cdn.hackernoon.com/images/a-robot-ceo-clc8mb34c000601s6gthcdbuz.png)
 I wanted to ask ChatGPT about ideas worth millions of dollars. Here are the answers:
-
-### [61. A Subreddit Where Only AI Chatbots Can Post](https://hackernoon.com/a-subreddit-where-only-ai-chatbots-can-post)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-yo93jwf.jpeg)
-There’s a subreddit with a called r/SubSimulator that took three years in the making and which is fully powered by bots
 
 ### [62. Conferencing and The Art of 'Paper Blitzing'](https://hackernoon.com/paper-blitz-acl-2022-round-ups)
 ![](https://cdn.hackernoon.com/images/G6OScDcbO2V5YjMMDu4VMossUhU2-gje3pgl.jpeg)
@@ -273,21 +275,21 @@ A brief overview of Natural Language Understanding industry and out current poin
 ![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-2md37iq.jpeg)
 AI assistant technology is in many ways similar to a traditional chatbot but integrates next-generation machine learning, AR/VR and data science.
 
-### [68. A Deep Learning Overview: NLP vs CNN](https://hackernoon.com/a-deep-learning-overview-nlp-vs-cnn-8gcj3222)
+### [68. Stop the LLM From Rambling: Using Penalties to Control Repetition](https://hackernoon.com/stop-the-llm-from-rambling-using-penalties-to-control-repetition)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1z02397.jpeg)
+A practical guide to penalty settings that reduce repetition and fluff in LLM outputs—without making the text weird.
+
+### [69. A Deep Learning Overview: NLP vs CNN](https://hackernoon.com/a-deep-learning-overview-nlp-vs-cnn-8gcj3222)
 ![](drafts/vsam3ytm.png)
 Artificial Intelligence is a lot more than a tech buzzword these days. This technology has disrupted almost every industry within a decade. Every company wants to implement this cutting edge technology in its system to cut costs, save time, and make the overall process more efficient with automation.
 
-### [69. Dingo: A Microframework for Building Conversational AI Agents](https://hackernoon.com/dingo-a-microframework-for-building-conversational-ai-agents)
+### [70. Dingo: A Microframework for Building Conversational AI Agents](https://hackernoon.com/dingo-a-microframework-for-building-conversational-ai-agents)
 ![](https://cdn.hackernoon.com/images/LkU0b6RAHWhGN3QIk2bUV70yDtD2-ya93toc.png)
 Integrate any Python function into ChatGPT in a single line of code.
 
-### [70. How to Build Basic Chatbot Without Coding and Deploy to Websites](https://hackernoon.com/how-to-build-basic-chatbot-without-coding-and-deploy-to-websites-1roi33dm)
+### [71. How to Build Basic Chatbot Without Coding and Deploy to Websites](https://hackernoon.com/how-to-build-basic-chatbot-without-coding-and-deploy-to-websites-1roi33dm)
 ![](https://cdn.hackernoon.com/images/3xxn37j5.jpg)
 Build best automated AI chat bot using Google Dialog flow
-
-### [71. Stop the LLM From Rambling: Using Penalties to Control Repetition](https://hackernoon.com/stop-the-llm-from-rambling-using-penalties-to-control-repetition)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1z02397.jpeg)
-A practical guide to penalty settings that reduce repetition and fluff in LLM outputs—without making the text weird.
 
 ### [72. 8 Companies Using Machine Learning in Cool Ways](https://hackernoon.com/8-companies-using-machine-learning-in-cool-ways-0v1x3zor)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-q4t28io.jpeg?alt=media&token=332e8980-0407-4424-9a61-3c84b2665fa2)
@@ -301,33 +303,33 @@ Explore the fascinating world of Natural Language Processing - its history, grow
 ![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-du936wl.jpeg)
 This almost maniacal obsession with possessing an all knowing chatbot is sweeping across industries and geographies.
 
-### [75. Getting Started with Natural Language Processing: US Airline Sentiment Analysis](https://hackernoon.com/getting-started-with-natural-language-processing-us-airline-sentiment-analysis-4l7k327a)
-![](https://cdn.hackernoon.com/images/3sy3203.jpg)
-By: Comet.ml and Niko Laskaris, customer facing data scientist, Comet.ml 
+### [75. Prompt Length vs. Context Window: The Real Limits of LLM Performance](https://hackernoon.com/prompt-length-vs-context-window-the-real-limits-of-llm-performance)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-cy023sl.jpeg)
+how prompt length interacts with an LLM’s context window—why it matters, how it breaks, and how to design prompts that stay sharp and scalable.
 
 ### [76. Meet SOPHIA: A Clinical Decision Support System Built with Open Source Technologies](https://hackernoon.com/meet-sophia-a-clinical-decision-support-system-built-with-open-source-technologies-6n9633ow)
 ![](https://cdn.hackernoon.com/images/owUeJT0dLubHoWBfQmFO7pNCtvk2-kdbq33zn.jpeg)
 A Clinical Decision Support System (CDSS) provides the doctor with a tool that eases their work, and increases the value of the time spent with the patient.
 
-### [77. 10 Free Resources to Become a Health Data Scientist](https://hackernoon.com/10-free-resources-to-become-a-health-data-scientist)
+### [77. Getting Started with Natural Language Processing: US Airline Sentiment Analysis](https://hackernoon.com/getting-started-with-natural-language-processing-us-airline-sentiment-analysis-4l7k327a)
+![](https://cdn.hackernoon.com/images/3sy3203.jpg)
+By: Comet.ml and Niko Laskaris, customer facing data scientist, Comet.ml 
+
+### [78. 10 Free Resources to Become a Health Data Scientist](https://hackernoon.com/10-free-resources-to-become-a-health-data-scientist)
 ![](https://cdn.hackernoon.com/images/HrbP0m2ie9Pjw5ngXlkepdMC7Yw1-zs93pah.jpeg)
 Becoming a health data scientist can be challenging but rewarding; it merges statistical analysis with other tools to gain insights from healthcare data. 
 
-### [78. ChatGPT Writes The Great Gatsby Set in a Zombie Apocalypse](https://hackernoon.com/chatgpt-writes-the-great-gatsby-set-in-a-zombie-apocalypse)
+### [79. ChatGPT Writes The Great Gatsby Set in a Zombie Apocalypse](https://hackernoon.com/chatgpt-writes-the-great-gatsby-set-in-a-zombie-apocalypse)
 ![](https://cdn.hackernoon.com/images/the-great-gatsby-pointing-a-gun-at-a-zombie-clb6ltjud000001s69bw5h2dt.png)
 I told OpenAI's ChatGPT model to write The Great Gatsby, but with zombies. Here's what happened...
 
-### [79. The Usefulness Of Data Science In Law Enforcement](https://hackernoon.com/the-usefulness-of-data-science-in-law-enforcement)
+### [80. The Usefulness Of Data Science In Law Enforcement](https://hackernoon.com/the-usefulness-of-data-science-in-law-enforcement)
 ![](https://cdn.hackernoon.com/images/m42VHJLj6sgiKeU5JVtWyFbAkC13-3493p79.jpeg)
 Law enforcement agencies are not new to the data and its usage, but with the advancement in technology, Data science in law enforcement has become a need. 
 
-### [80. ATLAS: A Multi-Agent AI Architecture for Natural Language Service Management](https://hackernoon.com/atlas-a-multi-agent-ai-architecture-for-natural-language-service-management)
+### [81. ATLAS: A Multi-Agent AI Architecture for Natural Language Service Management](https://hackernoon.com/atlas-a-multi-agent-ai-architecture-for-natural-language-service-management)
 ![](https://cdn.hackernoon.com/images/4XrSo13GYXUPH3a6ZZykmeIAJqA3-0u023pr.png)
 A technical deep-dive into building conversational AI interfaces for enterprise ITSM systems using a three-stage multi-agent pipeline. 
-
-### [81. Prompt Length vs. Context Window: The Real Limits of LLM Performance](https://hackernoon.com/prompt-length-vs-context-window-the-real-limits-of-llm-performance)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-cy023sl.jpeg)
-how prompt length interacts with an LLM’s context window—why it matters, how it breaks, and how to design prompts that stay sharp and scalable.
 
 ### [82. A Deep Dive Into Facebook’s AI Transcoder](https://hackernoon.com/a-deep-dive-into-facebooks-ai-transcoder-9xx3usf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-ue1928bk.jpeg?alt=media&token=ead79737-9a18-415d-afcb-eb4b5ea5d175)
@@ -365,21 +367,21 @@ If you’re a millennial, you’ll know SmarterChild, the first-ever instant mes
 ![](https://cdn.hackernoon.com/images/kcbJJkj9FtWX0xUIL4DYmwC6ius1-5qc35iu.png)
 Closing b2b deals is difficult. People are not buying aggressive selling techniques. Existing sales softwares aren't helping. New tech can help.
 
-### [91. ICDAR 2021 Competition: Detecting Tables Using Image Recognition](https://hackernoon.com/icdar-2021-competition-detecting-tables-using-image-recognition-3j3x3wgp)
+### [91. How I Built a Demo App to Listen to 5000+ Hours of Joe Rogan With the Help of AI](https://hackernoon.com/how-i-built-a-demo-app-to-listen-to-5000-hours-of-joe-rogan-with-the-help-of-ai)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ob931fi.jpeg)
+I’m consuming 5500+ hours of Joe Rogan with the help of AI
+
+### [92. ICDAR 2021 Competition: Detecting Tables Using Image Recognition](https://hackernoon.com/icdar-2021-competition-detecting-tables-using-image-recognition-3j3x3wgp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F46nb3VLFFNNkgIMPECg3vqo3WpI3-xcl3tak.jpeg?alt=media&token=8f07a86b-59fc-47d6-adae-72d04133fc6b)
 To participate go to: https://competitions.codalab.org/competitions/26979
 
-### [92. TMNT: Translation Memory and Neural Translation](https://hackernoon.com/tmnt-translation-memory-and-neural-translation)
+### [93. TMNT: Translation Memory and Neural Translation](https://hackernoon.com/tmnt-translation-memory-and-neural-translation)
 ![](https://cdn.hackernoon.com/images/G6OScDcbO2V5YjMMDu4VMossUhU2-b6a3mlx.jpeg)
 As we advance the state of machine translation, translation memory has its place in todays’ translation tech stack that benefits MT users and human translators.
 
-### [93. This Entire Article Was Written by ChatGPT's Grandfather](https://hackernoon.com/this-entire-article-was-written-by-chatgpts-grandfather)
+### [94. This Entire Article Was Written by ChatGPT's Grandfather](https://hackernoon.com/this-entire-article-was-written-by-chatgpts-grandfather)
 ![](https://cdn.hackernoon.com/images/robot-with-a-beard-clcsh4jho000001s6g2do06jt.png)
 As a historical reference, here is what ChatGPT’s grandfather, GPT2 was able to produce all the way back in 2020. It’ll be interesting to compare it to what Cha
-
-### [94. How I Built a Demo App to Listen to 5000+ Hours of Joe Rogan With the Help of AI](https://hackernoon.com/how-i-built-a-demo-app-to-listen-to-5000-hours-of-joe-rogan-with-the-help-of-ai)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ob931fi.jpeg)
-I’m consuming 5500+ hours of Joe Rogan with the help of AI
 
 ### [95. Embeddings in Machine Learning: Everything You Need to Know](https://hackernoon.com/embeddings-in-machine-learning-everything-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/JtxROHpDgwSYqHV0NQJBkCsMM933-xr036hv.jpeg)
@@ -449,13 +451,13 @@ Artificial Intelligence (AI) technology is too far evolved to still be relying o
 ![](https://cdn.hackernoon.com/images/G6OScDcbO2V5YjMMDu4VMossUhU2-lpb3rph.jpeg)
 Using ChatGPT, Stable Diffusion and SpeechT5 to automatically generate word list flashcard for early childhood right brain education
 
-### [112. Our Proposed Framework: Using LLMs for Thematic Analysis](https://hackernoon.com/our-proposed-framework-using-llms-for-thematic-analysis)
-![](https://cdn.hackernoon.com/images/unveiling-a-brand-new-car-in-a-showcase-wowlqjosz5vbneq3l32rt12q.png)
-The framework relies on OpenAI’s GPT-4 model’s capabilities to perform complex NLP tasks in zero-shot settings 
-
-### [113. From Facebook to MindverseAI: Felix Tao's Insights on AI Evolution and the Future of Large Language ](https://hackernoon.com/from-facebook-to-mindverseai-felix-taos-insights-on-ai-evolution-and-the-future-of-large-language)
+### [112. From Facebook to MindverseAI: Felix Tao's Insights on AI Evolution and the Future of Large Language ](https://hackernoon.com/from-facebook-to-mindverseai-felix-taos-insights-on-ai-evolution-and-the-future-of-large-language)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-5o93nrk.jpeg)
 NLP expert discusses the evolution of AI, waking up the consciousness and the biggest issues with LLMs...
+
+### [113. Our Proposed Framework: Using LLMs for Thematic Analysis](https://hackernoon.com/our-proposed-framework-using-llms-for-thematic-analysis)
+![](https://cdn.hackernoon.com/images/unveiling-a-brand-new-car-in-a-showcase-wowlqjosz5vbneq3l32rt12q.png)
+The framework relies on OpenAI’s GPT-4 model’s capabilities to perform complex NLP tasks in zero-shot settings 
 
 ### [114. Natural Language Processing: Explaining BERT to Business People](https://hackernoon.com/natural-language-processing-explaining-bert-to-business-people-obz3uno)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgXGZQdsOeIevPJF0ruTX3PyCPVq2-u8h3u7z.webp?alt=media&token=0a70fa7c-a3af-484e-b93d-407727182d36)
@@ -489,21 +491,21 @@ Using Apache SeaTunnel, Milvus, and OpenAI, we can achieve more accurate book ti
 ![](https://cdn.hackernoon.com/images/GPWtDVRw0oWCLyyZB3TTzZ7tkpD3-5u93pxl.png)
 ChatGPT for healthcare? Learn everything you need to know about MedPaLM, a new LLM developed by Google specifically for medical and clinical applications.
 
-### [122. ChatGPT Translator VS Mine: Which One Is Better?](https://hackernoon.com/chatgpt-translator-vs-mine-which-one-is-better)
-![](https://cdn.hackernoon.com/images/67vgVOry1RW1Yad4psMVNMncZj73-w593kz4.png)
-Does ChatGPT Translator really so good as mentioned in many posts ? 
-
-### [123. Processing Structured and Unstructured Data with SuperAGI and LlamaIndex](https://hackernoon.com/processing-structured-and-unstructured-data-with-superagi-and-llamaindex)
+### [122. Processing Structured and Unstructured Data with SuperAGI and LlamaIndex](https://hackernoon.com/processing-structured-and-unstructured-data-with-superagi-and-llamaindex)
 ![](https://cdn.hackernoon.com/images/FqqD51nbeyRIwypeMTAxrjVdQ0F2-0m93r0b.jpeg)
 SuperAGI's latest integration with LlamaIndex can extend the overall agent’s capability of understanding and working with a wide range of data types and source.
 
-### [124. Language Modeling - A Look at the Most Common Pre-Training Tasks](https://hackernoon.com/language-modeling-a-look-at-the-most-common-pre-training-tasks)
+### [123. Language Modeling - A Look at the Most Common Pre-Training Tasks](https://hackernoon.com/language-modeling-a-look-at-the-most-common-pre-training-tasks)
 ![](https://cdn.hackernoon.com/images/ZSa5YBqOQjX9b3NuiItQGTNXAym1-or93xgi.jpeg)
 This article is about putting all the popular pre-training tasks used in various language modelling tasks at a glance.
 
-### [125. Subtitles for Living: AR's Role in Language Translation](https://hackernoon.com/subtitles-for-living-ars-role-in-language-translation)
+### [124. Subtitles for Living: AR's Role in Language Translation](https://hackernoon.com/subtitles-for-living-ars-role-in-language-translation)
 ![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-0k93oc0.jpeg)
 AR shines when our relationship with technology becomes more intuitive and in 2022, emerging AR capabilities are taking language translation a step further.
+
+### [125. ChatGPT Translator VS Mine: Which One Is Better?](https://hackernoon.com/chatgpt-translator-vs-mine-which-one-is-better)
+![](https://cdn.hackernoon.com/images/67vgVOry1RW1Yad4psMVNMncZj73-w593kz4.png)
+Does ChatGPT Translator really so good as mentioned in many posts ? 
 
 ### [126. Accelerating Excavation and Refinement of Data Gold Mines](https://hackernoon.com/accelerating-excavation-and-refinement-of-data-gold-mines)
 ![](https://cdn.hackernoon.com/images/illustrate-a-gold-mine-clfzwgc6p000101s610z96412.png)
@@ -513,17 +515,17 @@ Unlock the potential of data-driven decision-making with generative AI and NLP.
 ![](https://cdn.hackernoon.com/images/XWcK00R3cTTUvLP1SzUNkcyMLEg1-x2df33w0.png)
 Unconventional sentiment analysis with CatBoost. The result is comparable to BERT SOTA.
 
-### [128. New Formula Could Make AI Agents Actually Useful in the Real World](https://hackernoon.com/new-formula-could-make-ai-agents-actually-useful-in-the-real-world)
+### [128. AI Dungeon: An AI-Generated Adventure Game by Nick Walton](https://hackernoon.com/ai-dungeon-an-ai-generated-adventure-game-by-nick-walton-e32y34na)
+![](https://cdn.hackernoon.com/images/Hv649QtrDhRGQMog7YJJwJK4SjH2-zla3was.jpeg)
+The original AI Dungeon was made just over a year ago, the result of a curious gamer, a hackathon, and the GPT-2 text transformer. Fast forward to the present day, and AI Dungeon has expanded into a unique example of creative AI technology. The game now boasts 1.5 million players, multiple genres for stories, and even multiplayer adventures.
+
+### [129. New Formula Could Make AI Agents Actually Useful in the Real World](https://hackernoon.com/new-formula-could-make-ai-agents-actually-useful-in-the-real-world)
 ![](https://cdn.hackernoon.com/images/64TWkFuWnxQmU8QySV3Ao9o2fXG2-f7a36ub.gif.webp)
 A mathematical framework for optimizing large language models in multi-agent systems using a formal objective function balancing brevity and context. 
 
-### [129. What to do When Reviewing Academic Papers](https://hackernoon.com/what-to-do-when-reviewing-academic-papers)
+### [130. What to do When Reviewing Academic Papers](https://hackernoon.com/what-to-do-when-reviewing-academic-papers)
 ![](https://cdn.hackernoon.com/images/G6OScDcbO2V5YjMMDu4VMossUhU2-3t93qsz.jpeg)
 Academic paper reviews is a necessary civic duty for researchers in all fields, humanities, science, engineering or anything in between. 
-
-### [130. AI Dungeon: An AI-Generated Adventure Game by Nick Walton](https://hackernoon.com/ai-dungeon-an-ai-generated-adventure-game-by-nick-walton-e32y34na)
-![](https://cdn.hackernoon.com/images/Hv649QtrDhRGQMog7YJJwJK4SjH2-zla3was.jpeg)
-The original AI Dungeon was made just over a year ago, the result of a curious gamer, a hackathon, and the GPT-2 text transformer. Fast forward to the present day, and AI Dungeon has expanded into a unique example of creative AI technology. The game now boasts 1.5 million players, multiple genres for stories, and even multiplayer adventures.
 
 ### [131. How Effective is ChatGPT in Customer Support, Lead Generation, and Data Analytics?](https://hackernoon.com/how-effective-is-chatgpt-in-customer-support-lead-generation-and-data-analytics)
 ![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-gdu35dm.jpeg)
@@ -545,129 +547,129 @@ Do you also want to learn NLP as Quick as Possible ? Perhaps you are here becaus
 ![](https://cdn.hackernoon.com/drafts/bdx3zn4.png)
 Nothing excites business owners more than the opportunities to cut cost. So it’s no surprise that in the era of chatbots, many customer service organizations are jumping at the opportunity to show human agents the door. 
 
-### [136. LLMs Excel in NLP: Enabling Sophisticated Search Functionalities in E-commerce Platforms](https://hackernoon.com/llms-excel-in-nlp-enabling-sophisticated-search-functionalities-in-e-commerce-platforms)
-![](https://cdn.hackernoon.com/images/eDWklHMkGuPQp81E3K3NkA6TfHj1-8b92to4.jpeg)
-Provide exceptional shopping experiences, businesses must leverage the power of LLMs as the e-commerce industry continues to evolve. 
-
-### [137. GPTerm: Creating Intelligent Terminal Apps with ChatGPT and LLM Models](https://hackernoon.com/gpterm-creating-intelligent-terminal-apps-with-chatgpt-and-llm-models)
+### [136. GPTerm: Creating Intelligent Terminal Apps with ChatGPT and LLM Models](https://hackernoon.com/gpterm-creating-intelligent-terminal-apps-with-chatgpt-and-llm-models)
 ![](https://cdn.hackernoon.com/images/gHMlJKXRQih8J6tFoFPzex5q6ke2-so93puh.jpeg)
 In this article, the exciting realm of making terminal applications smarter is delved into by integrating ChatGPT, a cutting-edge language model.
 
-### [138. How to Leverage AI in Learning Management Systems](https://hackernoon.com/how-to-leverage-ai-in-learning-management-systems)
+### [137. LLMs Excel in NLP: Enabling Sophisticated Search Functionalities in E-commerce Platforms](https://hackernoon.com/llms-excel-in-nlp-enabling-sophisticated-search-functionalities-in-e-commerce-platforms)
+![](https://cdn.hackernoon.com/images/eDWklHMkGuPQp81E3K3NkA6TfHj1-8b92to4.jpeg)
+Provide exceptional shopping experiences, businesses must leverage the power of LLMs as the e-commerce industry continues to evolve. 
+
+### [138. RAG Is Not a Feature: Why Your AI Still Hallucinates](https://hackernoon.com/rag-is-not-a-feature-why-your-ai-still-hallucinates)
+![](https://cdn.hackernoon.com/images/eu5dIKsHPOb7HcxKVW5fEwA0U0X2-nq03e12.png)
+Moving from a RAG demo to prod requires more than just vector search. Learn the four critical layers of production grade RAG systems including hybrid retr
+
+### [139. How to Leverage AI in Learning Management Systems](https://hackernoon.com/how-to-leverage-ai-in-learning-management-systems)
 ![](https://cdn.hackernoon.com/images/Mzi7x4fT0rZqzrPZG45Ghjyiveb2-9a8422k.jpeg)
 Discover the transformative power of integrating AI into Learning Management Systems (LMS) for enhanced educational experiences. 
 
-### [139. Top 6 Applications of Natural Language Processing in Healthcare](https://hackernoon.com/top-6-applications-of-natural-language-processing-in-healthcare-lop32rk)
+### [140. Top 6 Applications of Natural Language Processing in Healthcare](https://hackernoon.com/top-6-applications-of-natural-language-processing-in-healthcare-lop32rk)
 ![](https://cdn.hackernoon.com/images/ixi32un.jpg)
 For many healthcare providers, the industry is shaping up to be more of a shifting quandary of regulatory issues, financial turmoil, and unforeseeable eruptions of resentment from practitioners on the edge of revolt. The industry is now taking the opportunity to scale up their big data defenses and develop the technological infrastructure required to meet the imminent challenges.
 
-### [140. What Is Conversational AI: Principles and Examples](https://hackernoon.com/what-is-conversational-ai-principles-and-examples)
-![](https://cdn.hackernoon.com/images/yEPQ6i4CCAdpczrPlRcHgxdggFC2-q9037zf.jpeg)
-In this article, we will take the time to explain what conversational AI is: principles and examples to have a better idea of ​​how you can implement it.
-
-### [141. NO! GPT-3 Will Not Steal Your Programming Job](https://hackernoon.com/no-gpt-3-will-not-steal-your-programming-bob-by1h3xws)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-akh3xtx.jpeg?alt=media&token=7d4a0f89-c486-4a26-8196-b8822ab0df40)
- TL;DR; GPT-3 will not take your programming job (Unless you are a terrible programmer, in which case you would have lost your job anyway)
-
-### [142. Understanding Conversational AI: As Chat Enabled Customer Service](https://hackernoon.com/understanding-conversational-ai-as-chat-enabled-customer-service-da9e247m)
-![](https://cdn.hackernoon.com/drafts/6iw3zih.png)
-Technological innovations are necessary to cope up with the customer demands. Customers nowadays use multiple channels to access the services from a business. Thus, they expect multiple channel customer service from companies. 
-
-### [143. Technologies Behind No-code & Low-Code Solutions and How to Build Your Own](https://hackernoon.com/technologies-behind-no-code-and-low-code-solutions-and-how-to-build-your-own)
-![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-js934dq.jpeg)
-Let’s find out how no-code / low-code platforms are built and what it takes to create your own solution. We’ll focus on the development approaches, architecture
-
-### [144. Foundation Models - A hidden revolution in enterprise Artificial Intelligence](https://hackernoon.com/foundation-models-a-hidden-revolution-in-enterprise-artificial-intelligence)
-![](https://cdn.hackernoon.com/images/wfOhdkoK2Ng95bY7s4ahmT5sb9N2-gvc3qz4.jpeg)
-An introductory article to bring a preliminary cognizance on the broadening prospects of foundation models in the AI industry.
-
-### [145. Why Financial Sentiment Analysis Failed Without Explainability (And How I Fixed It)](https://hackernoon.com/why-financial-sentiment-analysis-failed-without-explainability-and-how-i-fixed-it)
-![](https://cdn.hackernoon.com/images/SpyyNn0DiuTGW5f8Hz85qIlQtBq1-5t03eqg.png)
-If you're building AI systems for high-stakes domains—finance, healthcare, criminal justice—remember this: a model is not a product until it's explainable.
-
-### [146. Why No Single Algorithm Solves Deduplication — and What to Do Instead](https://hackernoon.com/why-no-single-algorithm-solves-deduplication-and-what-to-do-instead)
+### [141. Why No Single Algorithm Solves Deduplication — and What to Do Instead](https://hackernoon.com/why-no-single-algorithm-solves-deduplication-and-what-to-do-instead)
 ![](https://cdn.hackernoon.com/images/JdNHanE7hLRfttiTobqSYl4SpCh1-xc3381m.png)
  No one-size-fits-all deduplication method exists. Learn how hybrid pipelines combine blocking, LSH, and embeddings for scalable, high-recall entity matching.
 
-### [147. 15 Must-read Machine Learning Articles for Data Scientists](https://hackernoon.com/15-must-read-machine-learning-articles-for-data-scientists-rw7e3uiv)
+### [142. Why Financial Sentiment Analysis Failed Without Explainability (And How I Fixed It)](https://hackernoon.com/why-financial-sentiment-analysis-failed-without-explainability-and-how-i-fixed-it)
+![](https://cdn.hackernoon.com/images/SpyyNn0DiuTGW5f8Hz85qIlQtBq1-5t03eqg.png)
+If you're building AI systems for high-stakes domains—finance, healthcare, criminal justice—remember this: a model is not a product until it's explainable.
+
+### [143. What Is Conversational AI: Principles and Examples](https://hackernoon.com/what-is-conversational-ai-principles-and-examples)
+![](https://cdn.hackernoon.com/images/yEPQ6i4CCAdpczrPlRcHgxdggFC2-q9037zf.jpeg)
+In this article, we will take the time to explain what conversational AI is: principles and examples to have a better idea of ​​how you can implement it.
+
+### [144. NO! GPT-3 Will Not Steal Your Programming Job](https://hackernoon.com/no-gpt-3-will-not-steal-your-programming-bob-by1h3xws)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-akh3xtx.jpeg?alt=media&token=7d4a0f89-c486-4a26-8196-b8822ab0df40)
+ TL;DR; GPT-3 will not take your programming job (Unless you are a terrible programmer, in which case you would have lost your job anyway)
+
+### [145. Understanding Conversational AI: As Chat Enabled Customer Service](https://hackernoon.com/understanding-conversational-ai-as-chat-enabled-customer-service-da9e247m)
+![](https://cdn.hackernoon.com/drafts/6iw3zih.png)
+Technological innovations are necessary to cope up with the customer demands. Customers nowadays use multiple channels to access the services from a business. Thus, they expect multiple channel customer service from companies. 
+
+### [146. Technologies Behind No-code & Low-Code Solutions and How to Build Your Own](https://hackernoon.com/technologies-behind-no-code-and-low-code-solutions-and-how-to-build-your-own)
+![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-js934dq.jpeg)
+Let’s find out how no-code / low-code platforms are built and what it takes to create your own solution. We’ll focus on the development approaches, architecture
+
+### [147. Foundation Models - A hidden revolution in enterprise Artificial Intelligence](https://hackernoon.com/foundation-models-a-hidden-revolution-in-enterprise-artificial-intelligence)
+![](https://cdn.hackernoon.com/images/wfOhdkoK2Ng95bY7s4ahmT5sb9N2-gvc3qz4.jpeg)
+An introductory article to bring a preliminary cognizance on the broadening prospects of foundation models in the AI industry.
+
+### [148. 15 Must-read Machine Learning Articles for Data Scientists](https://hackernoon.com/15-must-read-machine-learning-articles-for-data-scientists-rw7e3uiv)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-yv133umo.jpeg?alt=media&token=77c08492-5a9b-4fc7-b594-d770145806ca)
 As always, the fields of deep learning and natural language processing are as busy as ever. Despite many industries being hindered by the quarantine restrictions in many countries, the machine learning industry continues to move forward. 
 
-### [148. 8 Open-source NLP Tools You Should Try](https://hackernoon.com/8-open-source-nlp-tools-you-should-try-375g35bc)
+### [149. 8 Open-source NLP Tools You Should Try](https://hackernoon.com/8-open-source-nlp-tools-you-should-try-375g35bc)
 ![](https://cdn.hackernoon.com/images/AQlOExTk8KhP0hsiGOZ5MYFvfbG2-816h34ff.jpeg)
 The write-up is about various free open-source NLP tools available in the market which any developer can use as per the requirement.
 
-### [149. Harnessing Metaverse Technology to Build Your Brand Application](https://hackernoon.com/harnessing-metaverse-technology-to-build-your-brand-application)
+### [150. Harnessing Metaverse Technology to Build Your Brand Application](https://hackernoon.com/harnessing-metaverse-technology-to-build-your-brand-application)
 ![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-syg34ji.jpeg)
 Let’s talk about what technologies are used in metaverse development and how businesses can create their own metaverse applications.
 
-### [150. What is Natural Language Processing? A Brief Overview](https://hackernoon.com/what-is-natural-language-processing-a-brief-overview-wzm310l)
+### [151. What is Natural Language Processing? A Brief Overview](https://hackernoon.com/what-is-natural-language-processing-a-brief-overview-wzm310l)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-2z3331lu.jpeg)
 Natural language processing (NLP) is a subfield of artificial intelligence. It is the ability to analyze and process a natural language. 
 
-### [151. Unsupervised Data Augmentation](https://hackernoon.com/unsupervised-data-augmentation-b037c3zz1)
+### [152. Unsupervised Data Augmentation](https://hackernoon.com/unsupervised-data-augmentation-b037c3zz1)
 ![](https://cdn.hackernoon.com/drafts/zp3au3z01.png)
 More data we have, better performance we can achieve. However, it is very too luxury to annotate large amount of training data. Therefore, proper data augmentation is useful to boost up your model performance. Authors of Unsupervised Data Augmentation (Xie et al., 2019) proposed Unsupervised Data Augmentation (UDA) assistants us to build a better model by leveraging several data augmentation methods. 
 
-### [152. How To Be A Fantastic Data Scientist: An Expert Shares His Secrets](https://hackernoon.com/how-to-be-a-fantastic-data-scientist-an-expert-shares-his-secrets-rsx3w99)
+### [153. How To Be A Fantastic Data Scientist: An Expert Shares His Secrets](https://hackernoon.com/how-to-be-a-fantastic-data-scientist-an-expert-shares-his-secrets-rsx3w99)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVvzpxMOKDoNEVayQaqvc3d8j4wq1-5b2c3wyo.jpeg?alt=media&token=d4001256-7168-4ff1-b9a0-a8280ef02dc6)
 In the latest episode of our podcast, Machine Learning that Works, I had a great pleasure to talk to Gabriel Preda, a Lead Data Scientist at Endava and a Kaggle Grandmaster.
-
-### [153. Text Classification in iOS using tensorflowlite [A How-To Guide]](https://hackernoon.com/text-classification-in-ios-using-tensorflowlite-a-how-to-guide-hla932yb)
-![](https://cdn.hackernoon.com/drafts/v0eo41by.png)
-Text classification is task of categorising text according to its content. It is the fundamental problem in the field of Natural Language Processing(NLP). More general applications of text classifications are in email spam detection, sentiment analysis and topic labelling etc.
 
 ### [154. Cocktail Alchemy: Creating New Recipes With Transformers](https://hackernoon.com/cocktail-alchemy-creating-new-recipes-with-transformers)
 ![](https://cdn.hackernoon.com/images/Xc0KXgvV5JdgW2DnkpC3TTUBpoY2-7693pph.jpeg)
 Build a transformer model with natural language processing to create new cocktail recipes from a cocktail database.
 
-### [155. How Machine Learning is changing Financial Services in 2020](https://hackernoon.com/how-machine-learning-is-changing-financial-services-in-2020-4pp3uaa)
+### [155. Text Classification in iOS using tensorflowlite [A How-To Guide]](https://hackernoon.com/text-classification-in-ios-using-tensorflowlite-a-how-to-guide-hla932yb)
+![](https://cdn.hackernoon.com/drafts/v0eo41by.png)
+Text classification is task of categorising text according to its content. It is the fundamental problem in the field of Natural Language Processing(NLP). More general applications of text classifications are in email spam detection, sentiment analysis and topic labelling etc.
+
+### [156. How Machine Learning is changing Financial Services in 2020](https://hackernoon.com/how-machine-learning-is-changing-financial-services-in-2020-4pp3uaa)
 ![](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 An Introduction to Machine Learning for Finance. 
-
-### [156. Blockchain-Verified Sentiment](https://hackernoon.com/blockchain-verified-sentiment-postulate-p0z936pj)
-![](https://cdn.hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-z89230h.jpeg)
-The explosion of content on the world wide web, social media and chat networks greatly increased the interest in sentiment analysis from a growing number and variety of interested parties. 
 
 ### [157. AI & Its Impact Within a Homogenous Society](https://hackernoon.com/ai-and-its-impact-within-a-homogenous-society)
 ![](https://cdn.hackernoon.com/images/zaGs6Q0I7SY8qLi6ofbogocZVlJ2-x0935yl.jpeg)
 Sanksshep Mahendra insists that the frameworks of society aren’t moving quickly enough to keep pace with the ever-increasing rate of change AI has.
 
-### [158. NATURAL LANGUAGE PROCESSING (NLP) | EXPLAINED](https://hackernoon.com/natural-language-processing-nlp-or-explained-mc3ji30oy)
+### [158. Blockchain-Verified Sentiment](https://hackernoon.com/blockchain-verified-sentiment-postulate-p0z936pj)
+![](https://cdn.hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-z89230h.jpeg)
+The explosion of content on the world wide web, social media and chat networks greatly increased the interest in sentiment analysis from a growing number and variety of interested parties. 
+
+### [159. NATURAL LANGUAGE PROCESSING (NLP) | EXPLAINED](https://hackernoon.com/natural-language-processing-nlp-or-explained-mc3ji30oy)
 ![](https://cdn.hackernoon.com/drafts/jy18b30ib.png)
 Natural Language Processing (NLP) refers to AI method of communicating with intelligent systems using a natural language such as English.
 
-### [159. Maximizing NLP Capabilities with Large Language Models](https://hackernoon.com/maximizing-nlp-capabilities-with-large-language-models)
+### [160. Maximizing NLP Capabilities with Large Language Models](https://hackernoon.com/maximizing-nlp-capabilities-with-large-language-models)
 ![](https://cdn.hackernoon.com/images/gHUb3gpvAqau9GPWSrcKkSa7opC3-k393wux.jpeg)
 While NLP effectively facilitates machines to understand human language, the LLM capabilities have been greatly enhanced. Read this blog post to learn more.
 
-### [160. How I Extracted Meaningful Information from Inconsistent Data Using ChatGPT](https://hackernoon.com/how-i-extracted-meaningful-information-from-inconsistent-data-using-chatgpt)
+### [161. How I Extracted Meaningful Information from Inconsistent Data Using ChatGPT](https://hackernoon.com/how-i-extracted-meaningful-information-from-inconsistent-data-using-chatgpt)
 ![](https://cdn.hackernoon.com/images/data-extraction-clg5jn11g000101s6g8hq43ef.png)
 Data Analyis Project using Spacy and Regular Expressions to extract specific strings from a data set.
 
-### [161. How the Conversational AI Analytics will transform the business?](https://hackernoon.com/how-the-conversational-ai-analytics-will-transform-the-business-c3q3bc5)
+### [162. How the Conversational AI Analytics will transform the business?](https://hackernoon.com/how-the-conversational-ai-analytics-will-transform-the-business-c3q3bc5)
 ![](https://cdn.hackernoon.com/images/89k3b4d.jpg)
 
 
-### [162. As AI Gets Better at Writing, There's Some Trouble on the Horizon](https://hackernoon.com/as-ai-gets-better-at-writing-theres-some-trouble-on-the-horizon-vg1k3w1r)
-![](https://cdn.hackernoon.com/drafts/zv1ot3wdj.png)
-In the realm of AI development, there's perhaps no more important goal than to create systems that can truly master natural language processing (NLP). That's the key to making AI broadly useful, as it will need to interact with humans (who lack the programming skills to speak machine languages). On the path to NLP, it's fair to say that getting an AI to speak human languages is a prerequisite to getting them to understand what people are saying.
-
-### [163. To be Relevant or not to be: a Search Story about Precision and Recall](https://hackernoon.com/to-be-relevant-or-not-to-be-a-search-story-about-precision-and-recall-ss373t5x)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fh42pozfm4scRLxV00TWDEetyEPJ3-y7w3t7l.jpeg?alt=media&token=4b5449a3-13fd-4541-9858-d359191988e2)
-With the amount of data created growing exponentially each year and forecasted to reach 59 zettabytes in 2020 and more than 175 zettabytes by 2025, the importance of discovering and understanding this data will continue to be, even more than before, a decisive and competitive differentiator for many companies.
-
-### [164. The Art of Transformers: How AI Intuitively Summarizes Business Papers Using NLP](https://hackernoon.com/the-art-of-transformers-how-ai-intuitively-summarizes-business-papers-using-nlp-9vaa335z)
-![](https://cdn.hackernoon.com/images/gXGZQdsOeIevPJF0ruTX3PyCPVq2-9x1n3315.jpeg)
-“I don’t want a full paper, just give me a concise summary of it”. Who hasn't found themselves in this situation, at least once? Sound familiar?
-
-### [165. 3 Years After Forking Sphinx: A Brief Report on Manticore Search](https://hackernoon.com/3-years-after-forking-sphinx-a-brief-report-on-manticore-search-rn3p33nl)
+### [163. 3 Years After Forking Sphinx: A Brief Report on Manticore Search](https://hackernoon.com/3-years-after-forking-sphinx-a-brief-report-on-manticore-search-rn3p33nl)
 ![](https://hackernoon.com/images/2yEHZMN6JeQSAmOaVn8T8TtsI7E3-mh854495.jpeg)
 In May 2017 we made a fork of Sphinxsearch 2.3.2, which we called Manticore Search. Below you will find a brief report on Manticore Search as a fork of Sphinx and our achievements since then.
 
-### [166. RAG Is Not a Feature: Why Your AI Still Hallucinates](https://hackernoon.com/rag-is-not-a-feature-why-your-ai-still-hallucinates)
-![](https://cdn.hackernoon.com/images/eu5dIKsHPOb7HcxKVW5fEwA0U0X2-nq03e12.png)
-Moving from a RAG demo to prod requires more than just vector search. Learn the four critical layers of production grade RAG systems including hybrid retr
+### [164. As AI Gets Better at Writing, There's Some Trouble on the Horizon](https://hackernoon.com/as-ai-gets-better-at-writing-theres-some-trouble-on-the-horizon-vg1k3w1r)
+![](https://cdn.hackernoon.com/drafts/zv1ot3wdj.png)
+In the realm of AI development, there's perhaps no more important goal than to create systems that can truly master natural language processing (NLP). That's the key to making AI broadly useful, as it will need to interact with humans (who lack the programming skills to speak machine languages). On the path to NLP, it's fair to say that getting an AI to speak human languages is a prerequisite to getting them to understand what people are saying.
+
+### [165. To be Relevant or not to be: a Search Story about Precision and Recall](https://hackernoon.com/to-be-relevant-or-not-to-be-a-search-story-about-precision-and-recall-ss373t5x)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fh42pozfm4scRLxV00TWDEetyEPJ3-y7w3t7l.jpeg?alt=media&token=4b5449a3-13fd-4541-9858-d359191988e2)
+With the amount of data created growing exponentially each year and forecasted to reach 59 zettabytes in 2020 and more than 175 zettabytes by 2025, the importance of discovering and understanding this data will continue to be, even more than before, a decisive and competitive differentiator for many companies.
+
+### [166. The Art of Transformers: How AI Intuitively Summarizes Business Papers Using NLP](https://hackernoon.com/the-art-of-transformers-how-ai-intuitively-summarizes-business-papers-using-nlp-9vaa335z)
+![](https://cdn.hackernoon.com/images/gXGZQdsOeIevPJF0ruTX3PyCPVq2-9x1n3315.jpeg)
+“I don’t want a full paper, just give me a concise summary of it”. Who hasn't found themselves in this situation, at least once? Sound familiar?
 
 ### [167. First Talos, Now GPT-3: A Deep Dive](https://hackernoon.com/first-talos-now-gpt-3-a-deep-dive-8o1p3zof)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6E774J2BygcL7az0I4txmVV4Xfg2-a61y3wm1.jpeg?alt=media&token=e19fac99-e6c5-4a07-874e-33dd9c86493e)
@@ -681,207 +683,207 @@ Recurrent Neural Networks (RNN) have played a major role in sequence modeling in
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOZMuPThVMbPy6XuiQypFgbNwAyV2-mz2c3tfa.jpeg?alt=media&token=47ca66f4-d65b-4325-8c43-5f54b03d68ee)
 You might be wondering if machines are a threat to the world we live in, or if they’re just another tool in our quest to improve ourselves. If you think that AI is just another tool, you might be surprised to hear that some of the biggest names in technology have a clear concern for it. As Mark Ralston wrote, “The great fear of machine intelligence is that it may take over our jobs, our economies, and our governments”.
 
-### [170. Ways To Overcome Linguistic Barriers with Language Technologies](https://hackernoon.com/ways-to-overcome-linguistic-barriers-with-language-technologies-jw1f35io)
+### [170. How to Analyze Call Sentiment With Open-Source NLP Libraries](https://hackernoon.com/how-to-analyze-call-sentiment-with-open-source-nlp-libraries)
+![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-rj03doy.jpeg)
+Unlock call sentiment analysis using open-source NLP. Discover how to analyze customer emotions, improve service, and gain valuable insights from voice data. 
+
+### [171. Natural Language Processing in Healthcare: A Path to Adoption](https://hackernoon.com/natural-language-processing-in-healthcare-a-path-to-adoption)
+![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-dqc3pal.jpeg)
+Whether you already have experience with AI or not, implementing natural language processing in healthcare can take some of the load off your employees’ .......
+
+### [172. When the Best Solution Isn’t the Obvious One: A Case Study in Address Parsing](https://hackernoon.com/when-the-best-solution-isnt-the-obvious-one-a-case-study-in-address-parsing)
+![](https://cdn.hackernoon.com/images/XAABEU8meidDRZoEexv1kqoGdLn2-pa03bjr.webp)
+This case study explores how a "simple" XML deserialization task turned into a complex NLP problem requiring integration of a C library into Java ecosystem.
+
+### [173. Ways To Overcome Linguistic Barriers with Language Technologies](https://hackernoon.com/ways-to-overcome-linguistic-barriers-with-language-technologies-jw1f35io)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-fuq35v1.jpeg)
 COVID-19 has impacted every other industry and has made people adopt newer norms. The traditional translation industry is no different. Several disruptions have been introduced to keep things moving, thanks to Big data and machine translation technologies that have enabled the world to do business as usual. 
 
 
-### [171. Exploring T5 Model : Text to Text Transfer Transformer Model ](https://hackernoon.com/exploring-t5-model-text-to-text-transfer-transformer-model-4mc03v3z)
-![](https://cdn.hackernoon.com/images/nd15v29ad.jpg)
-Recent years have seen a plethora of pre-trained models such as ULMFiT, BERT, GPT,  etc being open-sourced to the NLP community. Given the size of such humungous models, it's nearly impossible to train such networks from scratch considering the amount of data and computation that is required.  This is where a new learning paradigm "Transfer Learning" kicks in. Transfer learning is a research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. 
-
-### [172. Natural Language Processing in Healthcare: A Path to Adoption](https://hackernoon.com/natural-language-processing-in-healthcare-a-path-to-adoption)
-![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-dqc3pal.jpeg)
-Whether you already have experience with AI or not, implementing natural language processing in healthcare can take some of the load off your employees’ .......
-
-### [173. Incorporating NLP Capabilities Into an Existing Application Stack Is Easier Than Ever: Here's Why](https://hackernoon.com/incorporating-nlp-capabilities-into-an-existing-application-stack-is-easier-than-ever-heres-why)
+### [174. Incorporating NLP Capabilities Into an Existing Application Stack Is Easier Than Ever: Here's Why](https://hackernoon.com/incorporating-nlp-capabilities-into-an-existing-application-stack-is-easier-than-ever-heres-why)
 ![](https://cdn.hackernoon.com/images/3dP1h4oDXWfdH1z81Je2nAo7JKq1-t793psy.jpeg)
 Speed development, create content and speed data-driven decisions with new ML tools that make it easy to incorporate NLP into your tech stack.
 
-### [174. From Sustainable Agriculture to Programming - with Noonies Nominee Akis Loumpourdis](https://hackernoon.com/from-sustainable-agriculture-to-programming-with-noonies-nominee-akis-loumpourdis)
-![](https://cdn.hackernoon.com/images/8xNQTIFg1xeWlaQzwWEXvZTggdf1-1p037cc.jpeg)
-I am Akis Loumpourdis, a 2021 Noonies Nominee. This is a  small interview to get to know me a bit better.
+### [175. Exploring T5 Model : Text to Text Transfer Transformer Model ](https://hackernoon.com/exploring-t5-model-text-to-text-transfer-transformer-model-4mc03v3z)
+![](https://cdn.hackernoon.com/images/nd15v29ad.jpg)
+Recent years have seen a plethora of pre-trained models such as ULMFiT, BERT, GPT,  etc being open-sourced to the NLP community. Given the size of such humungous models, it's nearly impossible to train such networks from scratch considering the amount of data and computation that is required.  This is where a new learning paradigm "Transfer Learning" kicks in. Transfer learning is a research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. 
 
-### [175. How Web3 Is Shaping the Future of Marketing ](https://hackernoon.com/how-web3-is-shaping-the-future-of-marketing)
+### [176. How Web3 Is Shaping the Future of Marketing ](https://hackernoon.com/how-web3-is-shaping-the-future-of-marketing)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-4i93paw.jpeg)
 How Web3 Is Shaping the Future of Marketing
-
-### [176. I Got Close to Winning an NLP Comp — With No Machine Learning Knowledge](https://hackernoon.com/i-got-close-to-winning-an-nlp-comp-with-no-machine-learning-knowledge)
-![](https://cdn.hackernoon.com/images/uImczOw37VPYQHsLR8uKf2N5fFz1-ig4f357x.png)
-Learn how to leverage software developer tools to beat the best in a Natural Language Processing competition on Kaggle, without using any Machine Learning.
 
 ### [177. How Banks are Damaging their Business by Misusing Chatbots](https://hackernoon.com/how-banks-are-damaging-their-business-by-misusing-chatbots)
 ![](https://cdn.hackernoon.com/images/ZSnNpZ3GejgVSxqs3EyP38vlsLL2-pe93poq.jpeg)
 The US State of Multichannel Customer Service, found two-thirds of customers are frustrated with companies before they speak with agents.
 
-### [178. Tired of Digging Through Long PDFs? You Can Build a Bot That Can Quickly Answer Questions for You](https://hackernoon.com/tired-of-digging-through-long-pdfs-you-can-build-a-bot-that-can-quickly-answer-questions-for-you)
+### [178. From Sustainable Agriculture to Programming - with Noonies Nominee Akis Loumpourdis](https://hackernoon.com/from-sustainable-agriculture-to-programming-with-noonies-nominee-akis-loumpourdis)
+![](https://cdn.hackernoon.com/images/8xNQTIFg1xeWlaQzwWEXvZTggdf1-1p037cc.jpeg)
+I am Akis Loumpourdis, a 2021 Noonies Nominee. This is a  small interview to get to know me a bit better.
+
+### [179. I Got Close to Winning an NLP Comp — With No Machine Learning Knowledge](https://hackernoon.com/i-got-close-to-winning-an-nlp-comp-with-no-machine-learning-knowledge)
+![](https://cdn.hackernoon.com/images/uImczOw37VPYQHsLR8uKf2N5fFz1-ig4f357x.png)
+Learn how to leverage software developer tools to beat the best in a Natural Language Processing competition on Kaggle, without using any Machine Learning.
+
+### [180. Tired of Digging Through Long PDFs? You Can Build a Bot That Can Quickly Answer Questions for You](https://hackernoon.com/tired-of-digging-through-long-pdfs-you-can-build-a-bot-that-can-quickly-answer-questions-for-you)
 ![](https://cdn.hackernoon.com/images/mM0I6NciNefSjw4NPEgAf8S8Hjl2-ih032z8.png)
 A beginner-friendly guide to building your own “Ask My Book” bot using Retrieval-Augmented Generation (RAG).
 
-### [179. How to Analyze Call Sentiment With Open-Source NLP Libraries](https://hackernoon.com/how-to-analyze-call-sentiment-with-open-source-nlp-libraries)
-![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-rj03doy.jpeg)
-Unlock call sentiment analysis using open-source NLP. Discover how to analyze customer emotions, improve service, and gain valuable insights from voice data. 
-
-### [180. How AI is Reshaping Enterprise Analytics](https://hackernoon.com/how-ai-is-reshaping-enterprise-analytics)
+### [181. How AI is Reshaping Enterprise Analytics](https://hackernoon.com/how-ai-is-reshaping-enterprise-analytics)
 ![](https://cdn.hackernoon.com/images/IKXzMIRzuqcRvy8v7VsXkDPhvBK2-e903gyt.png)
 Thirumal Raju Pambala highlights that AI integrated into analytics platforms marks a pivotal shift.
 
-### [181. Thrilled to be Recognized as #1 Startup in Budapest](https://hackernoon.com/thrilled-to-be-recognized-as-1-startup-in-budapest)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-2j93iws.jpeg)
-We’re really proud that we can be in a group of like-minded technologists and be acknowledged by them.
-
-### [182. What Soggy Breadsticks Taught Us About Service and Social Listening ](https://hackernoon.com/what-soggy-breadsticks-taught-us-about-service-and-social-listening-ztpm3wtl)
-![](https://cdn.hackernoon.com/drafts/jt1zt3y2s.png)
-Breadsticks, of all things, were the reason for a huge backlash at the famous Olive Garden chain of restaurants both from customers and employees.
-
-### [183. 60 Stories To Learn About Conversational Ai](https://hackernoon.com/60-stories-to-learn-about-conversational-ai)
+### [182. 60 Stories To Learn About Conversational Ai](https://hackernoon.com/60-stories-to-learn-about-conversational-ai)
 ![](https://cdn.hackernoon.com/images/github/conversational-ai-441.png)
 Learn everything you need to know about Conversational Ai via these 60 free HackerNoon stories.
 
-### [184. Natural Language Processing with Python: A Detailed Overview](https://hackernoon.com/natural-language-processing-with-python-a-detailed-overview)
+### [183. Thrilled to be Recognized as #1 Startup in Budapest](https://hackernoon.com/thrilled-to-be-recognized-as-1-startup-in-budapest)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-2j93iws.jpeg)
+We’re really proud that we can be in a group of like-minded technologists and be acknowledged by them.
+
+### [184. What Soggy Breadsticks Taught Us About Service and Social Listening ](https://hackernoon.com/what-soggy-breadsticks-taught-us-about-service-and-social-listening-ztpm3wtl)
+![](https://cdn.hackernoon.com/drafts/jt1zt3y2s.png)
+Breadsticks, of all things, were the reason for a huge backlash at the famous Olive Garden chain of restaurants both from customers and employees.
+
+### [185. LLMs Cannot Find Reasoning Errors, but They Can Correct Them!](https://hackernoon.com/llms-cannot-find-reasoning-errors-but-they-can-correct-them)
+![](https://cdn.hackernoon.com/images/a-giant-robot-in-the-sky-using-a-magnifying-glass-xaq6xr7zw740wgfqaw8qqja2.png)
+In this paper, we break down the self-correction process into two core components: mistake finding and output correction.
+
+### [186. Natural Language Processing with Python: A Detailed Overview](https://hackernoon.com/natural-language-processing-with-python-a-detailed-overview)
 ![](https://cdn.hackernoon.com/images/SedLQpc1EoechPSvpzRTe2O8omg2-sea3gx3.jpeg)
 A detailed overview of an AI subfield called Natural Language Processing or NLP and how to learn NLP.
-
-### [185. Mental Health Basics: Diagnosis, Treatment, Tech Tools](https://hackernoon.com/mental-health-basics-diagnosis-treatment-tech-tools-e25n3wg2)
-![](https://cdn.hackernoon.com/drafts/aa2437j8.png)
-Last year I found I had ADD.
-
-### [186. When the Best Solution Isn’t the Obvious One: A Case Study in Address Parsing](https://hackernoon.com/when-the-best-solution-isnt-the-obvious-one-a-case-study-in-address-parsing)
-![](https://cdn.hackernoon.com/images/XAABEU8meidDRZoEexv1kqoGdLn2-pa03bjr.webp)
-This case study explores how a "simple" XML deserialization task turned into a complex NLP problem requiring integration of a C library into Java ecosystem.
 
 ### [187. Customer Service Automation: What It Is And How To Find Balance](https://hackernoon.com/customer-service-automation-what-it-is-and-how-to-find-balance-hmh3ufy)
 ![](https://cdn.hackernoon.com/drafts/slo3vns.png)
 Customer service automation is not a new thing in business. Many brands have successfully implemented automation to streamline the processes and save costs. However, there are still many questions on how to balance automation with a human touch and worries about sounding robotic and impersonal.
 
-### [188. Tell If Your SMS is Spam](https://hackernoon.com/tell-if-your-sms-is-spam-tx2c3yc9)
-![](https://cdn.hackernoon.com/images/yvey3ya4.jpg)
-Introduction
+### [188. Mental Health Basics: Diagnosis, Treatment, Tech Tools](https://hackernoon.com/mental-health-basics-diagnosis-treatment-tech-tools-e25n3wg2)
+![](https://cdn.hackernoon.com/drafts/aa2437j8.png)
+Last year I found I had ADD.
 
-### [189. LLMs Cannot Find Reasoning Errors, but They Can Correct Them!](https://hackernoon.com/llms-cannot-find-reasoning-errors-but-they-can-correct-them)
-![](https://cdn.hackernoon.com/images/a-giant-robot-in-the-sky-using-a-magnifying-glass-xaq6xr7zw740wgfqaw8qqja2.png)
-In this paper, we break down the self-correction process into two core components: mistake finding and output correction.
-
-### [190. How AI is Making it Easier to Spread Fake News](https://hackernoon.com/how-ai-is-making-it-easier-to-spread-fake-news-4p6a3t0v)
+### [189. How AI is Making it Easier to Spread Fake News](https://hackernoon.com/how-ai-is-making-it-easier-to-spread-fake-news-4p6a3t0v)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOZMuPThVMbPy6XuiQypFgbNwAyV2-ryg3tf8.jpeg?alt=media&token=bd935c90-54af-4f80-9144-cd2879e5339b)
 Is Bitcoin the revolution against unequal economic systems, or a scam and money laundry mechanism? Will artificial intelligence (AI) improve and boost humankind, or terminate our species? These questions present incompatible scenarios, but you will find supporters for all of them. They cannot be all right, so who’s wrong then?
+
+### [190. Tell If Your SMS is Spam](https://hackernoon.com/tell-if-your-sms-is-spam-tx2c3yc9)
+![](https://cdn.hackernoon.com/images/yvey3ya4.jpg)
+Introduction
 
 ### [191. The History of LLMs - Part 1: The Era of Mechanical Translation and How It Crashed ](https://hackernoon.com/the-history-of-llms-part-1-the-era-of-mechanical-translation-and-how-it-crashed)
 ![](https://cdn.hackernoon.com/images/QQjXHzffKqMzT1XJkmJG5o1ndgo2-kkk3sfz.jpeg)
 A series about the history of large language models (LLMs). First episode: discover the birth of mechanical translation, one of the first areas of NLP.
 
-### [192. How to Build Scalable NLP-Powered Voice Agents for Seamless User Interactions](https://hackernoon.com/how-to-build-scalable-nlp-powered-voice-agents-for-seamless-user-interactions)
+### [192. Bits of Thought: Yelp Content As Embeddings](https://hackernoon.com/bits-of-thought-yelp-content-as-embeddings)
+![](https://cdn.hackernoon.com/images/h42pozfm4scRLxV00TWDEetyEPJ3-f983n1w.jpeg)
+You want an intro to embeddings, learn about the cool things done at Yelp, and later play with the off-the-shelf models available on Hugging Face? Let's dive in
+
+### [193. How to Build Scalable NLP-Powered Voice Agents for Seamless User Interactions](https://hackernoon.com/how-to-build-scalable-nlp-powered-voice-agents-for-seamless-user-interactions)
 ![](https://cdn.hackernoon.com/images/jlXOpnrrF0Q3kMBW5eNZ9oU4kpF2-q7232tq.jpeg)
 Explore how to build scalable NLP-powered systems that turn voice requests into backend actions.
-
-### [193. Natural Language Processing Applications in HR Software](https://hackernoon.com/natural-language-processing-applications-in-hr-software-nk1m3wq1)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtS0xGnwBGxMA5CKTzkx9ZtzQqMF3-9zw3w6d.jpeg?alt=media&token=963631fa-fe2d-4ee9-a422-6c2f80dbec4f)
-A company’s HR department holds a unique role that is entirely centered around the employees’ experience. Not only do these functions span over the length of the employee’s tenure, it even covers their involvement from the moment candidates are considered for the job. 
 
 ### [194. Why Embeddings Are the Back Bone of LLMs](https://hackernoon.com/why-embeddings-are-the-back-bone-of-llms)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-p602oie.jpeg)
 You’re not alone if the term “embeddings” has ever left you scratching your head or feeling lost in a sea of technical jargon. 
 
-### [195. Stemming vs. Lemmatization: What Healthcare Text Data Taught Me About NLP Choices](https://hackernoon.com/stemming-vs-lemmatization-what-healthcare-text-data-taught-me-about-nlp-choices)
-![](https://cdn.hackernoon.com/images/033FrKsfkwPA6xlU45o0h7poZao1-8mb3agv.png)
-An NLP experiment on stemming vs. lemmatization in healthcare text reveals why precision matters more than speed when lives are at stake.
-
-### [196. Why Are We Training AI like Dogs Instead of Humans?](https://hackernoon.com/why-are-we-training-ai-like-dogs-instead-of-humans)
-![](https://cdn.hackernoon.com/images/vExqK0MVjgTMR6bmqcgkDVwJzfc2-j403sv1.jpeg)
-The fundamental problem of the modern AI is that it tries to create a sophisticated trained dog. This approach is a dead end and needs to be drastically changed
-
-### [197. CTDS: 1 Year anniversary | Kaggle Contest | CTDS.News Launch](https://hackernoon.com/ctds-1-year-anniversary-or-kaggle-contest-or-ctdsnews-launch-3ld3yey)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fv0gZAogT2bWE4EI2XSXDBihOMOH3-mh43u7b.webp?alt=media&token=6b2e6937-dabc-4718-b538-a556e500af93)
-In the Birthday AMA Episode, Sanyam Bhutani had shared a small series of "exciting updates" coming to CTDS.Show:
-
-### [198. Exploring the Advancements in Few-Shot Learning with Noisy Channel Language Model Prompting](https://hackernoon.com/exploring-the-advancements-in-few-shot-learning-with-noisy-channel-language-model-prompting)
+### [195. Exploring the Advancements in Few-Shot Learning with Noisy Channel Language Model Prompting](https://hackernoon.com/exploring-the-advancements-in-few-shot-learning-with-noisy-channel-language-model-prompting)
 ![](https://cdn.hackernoon.com/images/nEdrz0Lw1IY6Xbla9InP9oHSskY2-sh033fl.jpeg)
 Noisy channel language model prompting takes inspiration from classic noisy channel models in machine translation to improve few-shot text classification.
 
-### [199. Bits of Thought: Yelp Content As Embeddings](https://hackernoon.com/bits-of-thought-yelp-content-as-embeddings)
-![](https://cdn.hackernoon.com/images/h42pozfm4scRLxV00TWDEetyEPJ3-f983n1w.jpeg)
-You want an intro to embeddings, learn about the cool things done at Yelp, and later play with the off-the-shelf models available on Hugging Face? Let's dive in
+### [196. Natural Language Processing Applications in HR Software](https://hackernoon.com/natural-language-processing-applications-in-hr-software-nk1m3wq1)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtS0xGnwBGxMA5CKTzkx9ZtzQqMF3-9zw3w6d.jpeg?alt=media&token=963631fa-fe2d-4ee9-a422-6c2f80dbec4f)
+A company’s HR department holds a unique role that is entirely centered around the employees’ experience. Not only do these functions span over the length of the employee’s tenure, it even covers their involvement from the moment candidates are considered for the job. 
 
-### [200. Is GPT Powerful Enough to Analyze the Emotions of Memes?: Methodology](https://hackernoon.com/is-gpt-powerful-enough-to-analyze-the-emotions-of-memes-methodology)
+### [197. Why Are We Training AI like Dogs Instead of Humans?](https://hackernoon.com/why-are-we-training-ai-like-dogs-instead-of-humans)
+![](https://cdn.hackernoon.com/images/vExqK0MVjgTMR6bmqcgkDVwJzfc2-j403sv1.jpeg)
+The fundamental problem of the modern AI is that it tries to create a sophisticated trained dog. This approach is a dead end and needs to be drastically changed
+
+### [198. CTDS: 1 Year anniversary | Kaggle Contest | CTDS.News Launch](https://hackernoon.com/ctds-1-year-anniversary-or-kaggle-contest-or-ctdsnews-launch-3ld3yey)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fv0gZAogT2bWE4EI2XSXDBihOMOH3-mh43u7b.webp?alt=media&token=6b2e6937-dabc-4718-b538-a556e500af93)
+In the Birthday AMA Episode, Sanyam Bhutani had shared a small series of "exciting updates" coming to CTDS.Show:
+
+### [199. Is GPT Powerful Enough to Analyze the Emotions of Memes?: Methodology](https://hackernoon.com/is-gpt-powerful-enough-to-analyze-the-emotions-of-memes-methodology)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-8h82mig.jpeg)
 Explore how ChatGPT analyzes meme emotions in this study on AI-driven sentiment analysis of social media content.
 
-### [201. Building A Chatbot On Your Own Might Not Make As Much Sense As You Think](https://hackernoon.com/building-a-chatbot-on-your-own-might-not-make-as-much-sense-as-you-think-8t423zz5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGPWtDVRw0oWCLyyZB3TTzZ7tkpD3-eq213tev.jpeg?alt=media&token=4ace9cc9-1e07-4810-964a-53be869423a8)
-Over the past decade plus, chatbots have dominated the conversation (no pun intended) when it comes to digital engagement. You’ve undoubtedly had experiences interacting with them, some helpful while others underwhelming, and perhaps even fiddled around with building one on your own. 
-
-### [202. From Theory to Tech: How Counterspeech Research Tackles Digital Abuse](https://hackernoon.com/from-theory-to-tech-how-counterspeech-research-tackles-digital-abuse)
+### [200. From Theory to Tech: How Counterspeech Research Tackles Digital Abuse](https://hackernoon.com/from-theory-to-tech-how-counterspeech-research-tackles-digital-abuse)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-k4030u6.jpeg)
 Counterspeech counters online hate via supportive rebuttals. This review bridges social and computer science to enhance automated generation.
 
-### [203. 2 Years In The Life Of AI, ML, DL And Java - Part II](https://hackernoon.com/2-years-in-the-life-of-ai-ml-dl-and-java-part-ii-7316344c)
-![](https://cdn.hackernoon.com/images/kSEgNnZS7TXEXqG2ff2hdouPNT93-cc3y31nx.jpeg)
-A follow-up post on the back of the post two-years ago with the title "Two Years In The Life Of AI, ML, DL And Java"
-
-### [204. Enhancing Content Diversity with NLP-Based Clustering](https://hackernoon.com/enhancing-content-diversity-with-nlp-based-clustering)
+### [201. Enhancing Content Diversity with NLP-Based Clustering](https://hackernoon.com/enhancing-content-diversity-with-nlp-based-clustering)
 ![](https://cdn.hackernoon.com/images/WWeh9n2OemWlEGxKDrBEiVLrpYp1-sc039lm.jpeg)
 How NLP-based clustering techniques help diversify content, reduce repetition, and promote discovery through smarter recommendation systems.
 
-### [205. Optimizing Language Models: Decoding Griffin’s Local Attention and Memory Efficiency](https://hackernoon.com/optimizing-language-models-decoding-griffins-local-attention-and-memory-efficiency)
+### [202. Concluding Remarks on Consistency Large Language Models and Future Directions](https://hackernoon.com/concluding-remarks-on-consistency-large-language-models-and-future-directions)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-9x030as.jpeg)
+CLLMs offer a simpler, more efficient approach to LLM acceleration without extra architectures or draft models, achieving significant speedup gains.
+
+### [203. Building A Chatbot On Your Own Might Not Make As Much Sense As You Think](https://hackernoon.com/building-a-chatbot-on-your-own-might-not-make-as-much-sense-as-you-think-8t423zz5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGPWtDVRw0oWCLyyZB3TTzZ7tkpD3-eq213tev.jpeg?alt=media&token=4ace9cc9-1e07-4810-964a-53be869423a8)
+Over the past decade plus, chatbots have dominated the conversation (no pun intended) when it comes to digital engagement. You’ve undoubtedly had experiences interacting with them, some helpful while others underwhelming, and perhaps even fiddled around with building one on your own. 
+
+### [204. Optimizing Language Models: Decoding Griffin’s Local Attention and Memory Efficiency](https://hackernoon.com/optimizing-language-models-decoding-griffins-local-attention-and-memory-efficiency)
 ![](https://cdn.hackernoon.com/images/space-technology-m06lzm0pg3lp9zxb160aycgd.png)
 Explores how Griffin’s local attention and recurrent layers outperform traditional Transformers, improving language modeling at scale and faster inference.
 
-### [206. DreamLLM: Additional Related Works to Look Out For](https://hackernoon.com/dreamllm-additional-related-works-to-look-out-for)
+### [205. DreamLLM: Additional Related Works to Look Out For](https://hackernoon.com/dreamllm-additional-related-works-to-look-out-for)
 ![](https://cdn.hackernoon.com/images/multiple-dreams-meshing-into-one-mindbend-lh5yuswnuvnbt2gor6zp0pvp.png)
 This breakthrough garnered a lot of attention and paved the way for further research and development in the field.
+
+### [206. 2 Years In The Life Of AI, ML, DL And Java - Part II](https://hackernoon.com/2-years-in-the-life-of-ai-ml-dl-and-java-part-ii-7316344c)
+![](https://cdn.hackernoon.com/images/kSEgNnZS7TXEXqG2ff2hdouPNT93-cc3y31nx.jpeg)
+A follow-up post on the back of the post two-years ago with the title "Two Years In The Life Of AI, ML, DL And Java"
 
 ### [207. "AI Can’t 'Think” Like Us Independently," - says Machine Learning Engineer Mani Sarkar](https://hackernoon.com/ai-cant-think-like-us-independently-says-machine-learning-engineer-mani-sarkar-ma373zpe)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkSEgNnZS7TXEXqG2ff2hdouPNT93-glg3wo5.jpeg?alt=media&token=de952e18-cd35-49b9-a1a9-43a6798dbae0)
 In our new blog series, we’re interviewing data scientists and machine learning engineers about their career paths, areas of interest and thoughts on the future of AI. We kick off this week with a 20-year veteran and jack-of-all-trades when it comes to machine learning and data science: Mani Sarkar. Mani is a strategic machine learning engineer based in London, UK, who believes in getting beyond the theoretical and applying AI to real-world problems.
 
-### [208. How to Streamline the Landlord-Tenant Relationship Through Conversational AI](https://hackernoon.com/how-to-streamline-the-landlord-tenant-relationship-through-conversational-ai-gv253uv3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGPWtDVRw0oWCLyyZB3TTzZ7tkpD3-r12k3ufn.jpeg?alt=media&token=b57ca993-441b-42e4-918a-e0770db2b042)
-According to Mashivor, 50% of tenants move out because they are not happy with their landlord. The landlord-tenant relationship is more often than not a contentious one. It features two sides with similar intentions but entirely different priorities. Both parties are interested in peaceful, fluid, and uneventful correspondence and both are wary of being cheated, ill-treated, and misinformed. 
-
-### [209. Naive Sentiment Analysis Using R](https://hackernoon.com/naive-sentiment-analysis-using-r-ng5d36n1)
-![](https://cdn.hackernoon.com/drafts/vcl3vrh.png)
-Cleuton Sampaio, October 2019
-
-### [210. Sea of Transformation: Chatbots in The Logistics Industry](https://hackernoon.com/sea-of-transformation-chatbots-in-the-logistics-industry-rn3o3v3b)
-![](https://images.unsplash.com/photo-1577563908411-5077b6dc7624?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-The usage of the new age customer support technology bots, popularly known as Chatbots is on the rise. Researches show that more than 80% of the customer communication that is done on websites or mobile apps are done through chatbots. Chatbots are highly valuable for the companies because they can work round the clock, are easy to use and do not make any kind of errors.
-
-### [211. Teaching Old LLMs New Tricks: The Consistency Model Makeover for Speed](https://hackernoon.com/teaching-old-llms-new-tricks-the-consistency-model-makeover-for-speed)
+### [208. Teaching Old LLMs New Tricks: The Consistency Model Makeover for Speed](https://hackernoon.com/teaching-old-llms-new-tricks-the-consistency-model-makeover-for-speed)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-jv03zn0.jpeg)
 CLLMs refine pre-trained LLMs for faster Jacobi decoding by consistently mapping trajectory states to fixed points, accelerating inference.
 
-### [212. Concluding Remarks on Consistency Large Language Models and Future Directions](https://hackernoon.com/concluding-remarks-on-consistency-large-language-models-and-future-directions)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-9x030as.jpeg)
-CLLMs offer a simpler, more efficient approach to LLM acceleration without extra architectures or draft models, achieving significant speedup gains.
+### [209. How to Streamline the Landlord-Tenant Relationship Through Conversational AI](https://hackernoon.com/how-to-streamline-the-landlord-tenant-relationship-through-conversational-ai-gv253uv3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGPWtDVRw0oWCLyyZB3TTzZ7tkpD3-r12k3ufn.jpeg?alt=media&token=b57ca993-441b-42e4-918a-e0770db2b042)
+According to Mashivor, 50% of tenants move out because they are not happy with their landlord. The landlord-tenant relationship is more often than not a contentious one. It features two sides with similar intentions but entirely different priorities. Both parties are interested in peaceful, fluid, and uneventful correspondence and both are wary of being cheated, ill-treated, and misinformed. 
 
-### [213. Splitting Hairs: Exploring the Interrelationship of Machine Learning and AI](https://hackernoon.com/splitting-hairs-exploring-the-interrelationship-of-machine-learning-and-ai)
+### [210. Naive Sentiment Analysis Using R](https://hackernoon.com/naive-sentiment-analysis-using-r-ng5d36n1)
+![](https://cdn.hackernoon.com/drafts/vcl3vrh.png)
+Cleuton Sampaio, October 2019
+
+### [211. Approaches to Counterspeech Detection and Generation Using NLP Techniques](https://hackernoon.com/approaches-to-counterspeech-detection-and-generation-using-nlp-techniques)
+![](https://cdn.hackernoon.com/images/social-media-memes-eix2frwtzwgcmbvdspy0us4e.png)
+Counterspeech detection uses binary or multi-label classification; generation leverages LLMs like GPT-2, facing evaluation and deployment challenges.
+
+### [212. Splitting Hairs: Exploring the Interrelationship of Machine Learning and AI](https://hackernoon.com/splitting-hairs-exploring-the-interrelationship-of-machine-learning-and-ai)
 ![](https://cdn.hackernoon.com/images/k637U4fYr0RGVspCP5s7dpkuIBG2-9pa3ds0.jpeg)
 Navigating the Nuances: The Relationship and Differences Between AI and Machine Learning
 
 
-### [214. Approaches to Counterspeech Detection and Generation Using NLP Techniques](https://hackernoon.com/approaches-to-counterspeech-detection-and-generation-using-nlp-techniques)
-![](https://cdn.hackernoon.com/images/social-media-memes-eix2frwtzwgcmbvdspy0us4e.png)
-Counterspeech detection uses binary or multi-label classification; generation leverages LLMs like GPT-2, facing evaluation and deployment challenges.
+### [213. Sea of Transformation: Chatbots in The Logistics Industry](https://hackernoon.com/sea-of-transformation-chatbots-in-the-logistics-industry-rn3o3v3b)
+![](https://images.unsplash.com/photo-1577563908411-5077b6dc7624?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+The usage of the new age customer support technology bots, popularly known as Chatbots is on the rise. Researches show that more than 80% of the customer communication that is done on websites or mobile apps are done through chatbots. Chatbots are highly valuable for the companies because they can work round the clock, are easy to use and do not make any kind of errors.
 
-### [215. Decoding the Magic: How Machines Master Human Language](https://hackernoon.com/decoding-the-magic-how-machines-master-human-language)
+### [214. Decoding the Magic: How Machines Master Human Language](https://hackernoon.com/decoding-the-magic-how-machines-master-human-language)
 ![](https://cdn.hackernoon.com/images/EL33vKRe8wcfWFfQ02V3X2mLjsw2-ne136y4.png)
 LLMs in an easy way explanation, InstructGPT explanation, ML for non professionals, how machine learning models trained 
 
-### [216. Using Sentiment Analysis to Attain and Retain Customers](https://hackernoon.com/using-sentiment-analysis-to-attain-and-retain-customers-z9iy35ha)
-![](https://cdn.hackernoon.com/images/OwW0fuWdnegPRZtIJ5JFCgflV8r2-df2t35c4.jpeg)
-Analyzing customer sentiment allows businesses to look into how customers feel about their products & services.
+### [215. Refining Jacobi Decoding for LLMs with Consistency-Based Fine-Tuning](https://hackernoon.com/refining-jacobi-decoding-for-llms-with-consistency-based-fine-tuning)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-49030uf.jpeg)
+CLLMs boost LLM inference 2.4-3.4x by refining Jacobi decoding to rapidly predict fixed points, preserving quality without extra memory.
 
-### [217. No. You Still Cannot Have A Real Conversation With a Chatbot.](https://hackernoon.com/no-you-still-cannot-have-a-real-conversation-with-a-chatbot-503z32o5)
+### [216. No. You Still Cannot Have A Real Conversation With a Chatbot.](https://hackernoon.com/no-you-still-cannot-have-a-real-conversation-with-a-chatbot-503z32o5)
 ![](https://cdn.hackernoon.com/images/M9LO994YtLTc8NQOsTxhgG6QnaA2-pr3m31f5.jpeg)
 Chatbots do not really understand what you are saying and you cannot have a real conversation with a personal assistant like you can with another person.
+
+### [217. Using Sentiment Analysis to Attain and Retain Customers](https://hackernoon.com/using-sentiment-analysis-to-attain-and-retain-customers-z9iy35ha)
+![](https://cdn.hackernoon.com/images/OwW0fuWdnegPRZtIJ5JFCgflV8r2-df2t35c4.jpeg)
+Analyzing customer sentiment allows businesses to look into how customers feel about their products & services.
 
 ### [218. How Advanced Analytics Can Improve the Public Sector](https://hackernoon.com/how-advanced-analytics-can-improve-the-public-sector-tu2i34wz)
 ![](https://cdn.hackernoon.com/images/vMIW1g3rtVOLLixHAieMFeUFpbz1-a363335s.jpeg)
 Advanced analytic models can identify and predict negative outcomes such as health and safety challenges or compliance risks that would be overlooked by manual.
 
-### [219. Refining Jacobi Decoding for LLMs with Consistency-Based Fine-Tuning](https://hackernoon.com/refining-jacobi-decoding-for-llms-with-consistency-based-fine-tuning)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-49030uf.jpeg)
-CLLMs boost LLM inference 2.4-3.4x by refining Jacobi decoding to rapidly predict fixed points, preserving quality without extra memory.
+### [219. How Many Glitch Tokens Hide in Popular LLMs? Revelations from Large-Scale Testing](https://hackernoon.com/effectiveness-of-indicators-and-verification)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-tx03zb5.jpeg)
+Under-trained token indicators efficiently flag risky tokens in LLMs, with cross-model results showing 0.1–1% of vocabularies consistently problematic.
 
 ### [220. Is GPT Powerful Enough to Analyze the Emotions of Memes?: References](https://hackernoon.com/is-gpt-powerful-enough-to-analyze-the-emotions-of-memes-references)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-sx82miy.jpeg)
@@ -891,89 +893,89 @@ Explore how ChatGPT analyzes meme emotions in this study on AI-driven sentiment 
 ![](https://images.unsplash.com/photo-1551808525-51a94da548ce?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 In the event that you don’t have a Google Voice telephone number yet, you’re passing up a great opportunity. Google Voice has some extraordinary highlights that can help ensure your security. Also, you can keep your Google Voice telephone number forever, or for in any event insofar as Google is eager to have it.
 
-### [222. How Many Glitch Tokens Hide in Popular LLMs? Revelations from Large-Scale Testing](https://hackernoon.com/effectiveness-of-indicators-and-verification)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-tx03zb5.jpeg)
-Under-trained token indicators efficiently flag risky tokens in LLMs, with cross-model results showing 0.1–1% of vocabularies consistently problematic.
+### [222. Is GPT Powerful Enough to Analyze the Emotions of Memes?: Abstract & Intro](https://hackernoon.com/is-gpt-powerful-enough-to-analyze-the-emotions-of-memes-abstract-and-intro)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1a82mva.jpeg)
+Explore how ChatGPT analyzes meme emotions in this study on AI-driven sentiment analysis of social media content.
 
 ### [223. 6 Chatbot Mistakes that Scare Your Customers Away](https://hackernoon.com/6-chatbot-mistakes-that-scare-your-customers-away-0s3f377l)
 ![](https://cdn.hackernoon.com/images/NqFBgsMsodTucsTW6YyqzBOeFmI2-r02w29ns.png)
 Six unforgivable mistakes that scare off your customers and prospects? The Smart Tribune team answers you.
 
-### [224. Is GPT Powerful Enough to Analyze the Emotions of Memes?: Abstract & Intro](https://hackernoon.com/is-gpt-powerful-enough-to-analyze-the-emotions-of-memes-abstract-and-intro)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1a82mva.jpeg)
-Explore how ChatGPT analyzes meme emotions in this study on AI-driven sentiment analysis of social media content.
-
-### [225. Sentiment Classification for 2019 Lok Sabha Elections Using Text Based Classifiers ](https://hackernoon.com/sentiment-classification-for-2019-lok-sabha-elections-using-text-based-classifiers-8o26328q)
-![](https://images.unsplash.com/photo-1494172961521-33799ddd43a5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Introduction
-
-### [226. The Creation of ArSyTa, a Novel 8.27-Million-Context Dataset for Local Citation Recommendation](https://hackernoon.com/the-creation-of-arsyta-a-novel-827-million-context-dataset-for-local-citation-recommendation)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-p2032f8.jpeg)
-This paper details ArSyTa, a new, massive dataset for citation AI. It has 8.27M rich contexts from arXiv papers to improve recommendation models.
-
-### [227. Artificial Minds, Human Consequences: Explaining AI’s Impact on Our Education, Cognition, and More](https://hackernoon.com/artificial-minds-human-consequences-explaining-ais-impact-on-our-education-cognition-and-more)
-![](https://cdn.hackernoon.com/images/a-robot-trying-to-brainwash-a-human-gritty-f07nhusjynf7m8exmwa5l6fy.png)
-This text critiques AI language models' impact on learning, creativity, and ethics. Explores copyright issues, bias, and the fundamental differences between hum
-
-### [228. Bots + Legaltech = Meet AILIRA](https://hackernoon.com/behind-successful-chatbots-ailira-r317n3xqk)
-![](https://cdn.hackernoon.com/drafts/1q15m3xbx.png)
-Ailira (www.ailira.com) the ”artificially intelligent legal information research assistant”, is an AI chatbot that uses natural language processing. The chatbot has been designed to understand and process sophisticated technical legal questions & search quickly. Ailira was created by Adrian Cartland, the founder of Cartland Tech and the law firm without lawyers.
-
-### [229. Is GPT Powerful Enough to Analyze the Emotions of Memes?: Discussion](https://hackernoon.com/is-gpt-powerful-enough-to-analyze-the-emotions-of-memes-discussion)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ll82mtn.jpeg)
-Explore how ChatGPT analyzes meme emotions in this study on AI-driven sentiment analysis of social media content.
-
-### [230. My Journey Into Predicting States Using Emoji Observations With Viterbi Algorithm](https://hackernoon.com/my-journey-into-predicting-states-using-emoji-observations-with-viterbi-algorithm-wxv34jq)
-![](https://cdn.hackernoon.com/images/vRoU2RubPwNr0c3bCtSNzTL6OQC3-td4q332j.jpeg)
-See the implementation of the Viterbi algorithm in Python
-
-### [231. 7 Must-Read Generative Models Papers from ICLR 2020](https://hackernoon.com/7-must-read-generative-models-papers-from-iclr-2020-rk3b3wl3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVvzpxMOKDoNEVayQaqvc3d8j4wq1-oy1u3w0z.jpeg?alt=media&token=dc4fcde3-9442-4314-a598-054e8a428f41)
-The International Conference on Learning Representations (ICLR) took place last week, and I had a pleasure to participate in it. ICLR is an event dedicated to research on all aspects of representation learning, commonly known as deep learning. 
-
-### [232. How Griffin’s Local Attention Window Beats Global Transformers at Their Own Game](https://hackernoon.com/understanding-counterspeech-for-online-harm-mitigation-review-methodology)
+### [224. How Griffin’s Local Attention Window Beats Global Transformers at Their Own Game](https://hackernoon.com/understanding-counterspeech-for-online-harm-mitigation-review-methodology)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-0h0308x.jpeg)
 Explores how Griffin’s local attention and recurrent layers outperform traditional Transformers, improving language modeling at scale and faster inference.
 
-### [233. Counterspeech Impact: Lessons Learned and the Path to Scalable Interventions](https://hackernoon.com/counterspeech-impact-lessons-learned-and-the-path-to-scalable-interventions)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-n5030c0.jpeg)
-Counterspeech's impact varies; real-world, scalable tests are needed. Interdisciplinary collaboration is key to automate effective hate mitigation.
+### [225. Stemming vs. Lemmatization: What Healthcare Text Data Taught Me About NLP Choices](https://hackernoon.com/stemming-vs-lemmatization-what-healthcare-text-data-taught-me-about-nlp-choices)
+![](https://cdn.hackernoon.com/images/033FrKsfkwPA6xlU45o0h7poZao1-8mb3agv.png)
+An NLP experiment on stemming vs. lemmatization in healthcare text reveals why precision matters more than speed when lives are at stake.
 
-### [234. Is GPT Powerful Enough to Analyze the Emotions of Memes?: Experiment Results](https://hackernoon.com/is-gpt-powerful-enough-to-analyze-the-emotions-of-memes-experiment-results)
+### [226. Sentiment Classification for 2019 Lok Sabha Elections Using Text Based Classifiers ](https://hackernoon.com/sentiment-classification-for-2019-lok-sabha-elections-using-text-based-classifiers-8o26328q)
+![](https://images.unsplash.com/photo-1494172961521-33799ddd43a5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Introduction
+
+### [227. Bots + Legaltech = Meet AILIRA](https://hackernoon.com/behind-successful-chatbots-ailira-r317n3xqk)
+![](https://cdn.hackernoon.com/drafts/1q15m3xbx.png)
+Ailira (www.ailira.com) the ”artificially intelligent legal information research assistant”, is an AI chatbot that uses natural language processing. The chatbot has been designed to understand and process sophisticated technical legal questions & search quickly. Ailira was created by Adrian Cartland, the founder of Cartland Tech and the law firm without lawyers.
+
+### [228. Is GPT Powerful Enough to Analyze the Emotions of Memes?: Discussion](https://hackernoon.com/is-gpt-powerful-enough-to-analyze-the-emotions-of-memes-discussion)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ll82mtn.jpeg)
+Explore how ChatGPT analyzes meme emotions in this study on AI-driven sentiment analysis of social media content.
+
+### [229. The Creation of ArSyTa, a Novel 8.27-Million-Context Dataset for Local Citation Recommendation](https://hackernoon.com/the-creation-of-arsyta-a-novel-827-million-context-dataset-for-local-citation-recommendation)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-p2032f8.jpeg)
+This paper details ArSyTa, a new, massive dataset for citation AI. It has 8.27M rich contexts from arXiv papers to improve recommendation models.
+
+### [230. Artificial Minds, Human Consequences: Explaining AI’s Impact on Our Education, Cognition, and More](https://hackernoon.com/artificial-minds-human-consequences-explaining-ais-impact-on-our-education-cognition-and-more)
+![](https://cdn.hackernoon.com/images/a-robot-trying-to-brainwash-a-human-gritty-f07nhusjynf7m8exmwa5l6fy.png)
+This text critiques AI language models' impact on learning, creativity, and ethics. Explores copyright issues, bias, and the fundamental differences between hum
+
+### [231. My Journey Into Predicting States Using Emoji Observations With Viterbi Algorithm](https://hackernoon.com/my-journey-into-predicting-states-using-emoji-observations-with-viterbi-algorithm-wxv34jq)
+![](https://cdn.hackernoon.com/images/vRoU2RubPwNr0c3bCtSNzTL6OQC3-td4q332j.jpeg)
+See the implementation of the Viterbi algorithm in Python
+
+### [232. Is GPT Powerful Enough to Analyze the Emotions of Memes?: Experiment Results](https://hackernoon.com/is-gpt-powerful-enough-to-analyze-the-emotions-of-memes-experiment-results)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-4b82mvm.jpeg)
 Explore how ChatGPT analyzes meme emotions in this study on AI-driven sentiment analysis of social media content.
 
-### [235. A Three-Stage Architecture for Precision Citation Recommendation](https://hackernoon.com/a-three-stage-architecture-for-precision-citation-recommendation)
+### [233. 7 Must-Read Generative Models Papers from ICLR 2020](https://hackernoon.com/7-must-read-generative-models-papers-from-iclr-2020-rk3b3wl3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVvzpxMOKDoNEVayQaqvc3d8j4wq1-oy1u3w0z.jpeg?alt=media&token=dc4fcde3-9442-4314-a598-054e8a428f41)
+The International Conference on Learning Representations (ICLR) took place last week, and I had a pleasure to participate in it. ICLR is an event dedicated to research on all aspects of representation learning, commonly known as deep learning. 
+
+### [234. A Three-Stage Architecture for Precision Citation Recommendation](https://hackernoon.com/a-three-stage-architecture-for-precision-citation-recommendation)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-mr033my.jpeg)
 SymTax, a new AI for citation recommendation, uses a "symbiotic" model and taxonomy fusion to more accurately predict relevant scientific papers.
 
-### [236.  A Quantitative and Qualitative Analysis of the SymTax Citation Recommendation Model](https://hackernoon.com/a-quantitative-and-qualitative-analysis-of-the-symtax-citation-recommendation-model)
+### [235. Counterspeech Impact: Lessons Learned and the Path to Scalable Interventions](https://hackernoon.com/counterspeech-impact-lessons-learned-and-the-path-to-scalable-interventions)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-n5030c0.jpeg)
+Counterspeech's impact varies; real-world, scalable tests are needed. Interdisciplinary collaboration is key to automate effective hate mitigation.
+
+### [236. How DigiSkills AI Chatbot helped 10K students enroll for the program](https://hackernoon.com/how-digiskills-ai-chatbot-helped-10k-students-enroll-for-the-program-zs1z3wlb)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ie82ryw.jpeg)
+DigiSkills Training Program is Pakistan’s first Online Training Program that offers free-of-cost training courses. The platform was created to train the youth with in-demand digital skills such as content marketing, graphic designing, Creatives and SEO, etc. 
+
+### [237.  A Quantitative and Qualitative Analysis of the SymTax Citation Recommendation Model](https://hackernoon.com/a-quantitative-and-qualitative-analysis-of-the-symtax-citation-recommendation-model)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-nf033nw.jpeg)
 This deep-dive analysis proves why SymTax works, showing its 'symbiotic' enricher and taxonomy fusion are essential for its state-of-the-art performance.
 
-### [237. The Quest for Faster LLMs: What Came Before Consistency Models](https://hackernoon.com/the-quest-for-faster-llms-what-came-before-consistency-models)
+### [238. The Quest for Faster LLMs: What Came Before Consistency Models](https://hackernoon.com/the-quest-for-faster-llms-what-came-before-consistency-models)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-vq030uz.jpeg)
 Reviews methods for efficient LLM inference (training-free vs. training-based), LLM distillation, and consistency models, positioning CLLMs as unique.
 
-### [238. My Experiments With AI Poetry And Some Random Thoughts](https://hackernoon.com/my-experiments-with-ai-poetry-and-some-random-thoughts-3kfi3xzk)
+### [239. My Experiments With AI Poetry And Some Random Thoughts](https://hackernoon.com/my-experiments-with-ai-poetry-and-some-random-thoughts-3kfi3xzk)
 ![](https://images.unsplash.com/photo-1515104882246-521e5ba18f5e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 I have become a ‘covidiot’ nowadays. I’m stuck in the home since last one and half months since COVID-19 outbreak. There is hardly any physical activity and I’m spending the longest era of my life without underwear since my adulthood.
-
-### [239. How DigiSkills AI Chatbot helped 10K students enroll for the program](https://hackernoon.com/how-digiskills-ai-chatbot-helped-10k-students-enroll-for-the-program-zs1z3wlb)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ie82ryw.jpeg)
-DigiSkills Training Program is Pakistan’s first Online Training Program that offers free-of-cost training courses. The platform was created to train the youth with in-demand digital skills such as content marketing, graphic designing, Creatives and SEO, etc. 
 
 ### [240. From Twitter to Reddit: Exploring Data Sources for Computational Counterspeech](https://hackernoon.com/from-twitter-to-reddit-exploring-data-sources-for-computational-counterspeech)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-vz0309r.jpeg)
 Computational counterspeech studies use datasets from Twitter, YouTube, Reddit, or expert-written content, often in English, for detection and generation.
 
-### [241. A Comparative Performance Analysis of SymTax on Five Citation Recommendation Datasets](https://hackernoon.com/a-comparative-performance-analysis-of-symtax-on-five-citation-recommendation-datasets)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-6b0330q.jpeg)
-This paper presents empirical proof that the SymTax model significantly outperforms state-of-the-art AI on all major citation recommendation benchmarks.
-
-### [242. How Symbiotic AI Can Find Your Paper's Next Great Citation](https://hackernoon.com/how-symbiotic-ai-can-find-your-papers-next-great-citation)
+### [241. How Symbiotic AI Can Find Your Paper's Next Great Citation](https://hackernoon.com/how-symbiotic-ai-can-find-your-papers-next-great-citation)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-kv033z8.jpeg)
 SymTax is a novel AI for citation recommendation. It mimics human behavior by using a "symbiotic" model and hyperbolic geometry to improve accuracy.
+
+### [242. A Comparative Performance Analysis of SymTax on Five Citation Recommendation Datasets](https://hackernoon.com/a-comparative-performance-analysis-of-symtax-on-five-citation-recommendation-datasets)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-6b0330q.jpeg)
+This paper presents empirical proof that the SymTax model significantly outperforms state-of-the-art AI on all major citation recommendation benchmarks.
 
 ### [243. Is GPT Powerful Enough to Analyze the Emotions of Memes?: Related Work](https://hackernoon.com/is-gpt-powerful-enough-to-analyze-the-emotions-of-memes-related-work)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6x82mp7.jpeg)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [whatsapp](https://hackernoon.com/tagged/whatsapp)
+### Let's learn about [Whatsapp](https://hackernoon.com/tagged/whatsapp) via these 60 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+WhatsApp is a widely used cross-platform messaging and voice-over-IP service owned by Meta Platforms. It's crucial for global communication, offering end-to-end encrypted messaging, calls, and media sharing.
+
 ### [1. How do You Hack Whatsapp Chats? - 7 Vulnerabilities Explained](https://hackernoon.com/how-to-hack-whatsapp-chats-9f203tq0)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYjMQ5ovwY0YTXp30fB6AUAZcstA3-6o333tvf.jpeg?alt=media&token=b33f0efd-a1d6-4279-bada-28458c02dfd0)
 You can Hack WhatsApp chats by syncing the web version of the app, exporting chat logs, using POCWAPP,  WhatsAPP Scan Pro, spoofing, and spy apps.
@@ -153,13 +157,13 @@ Android Accessibility Service to Alter the Way You Use Your Mobile
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 10/22/2022: Top 5 stories on the Hackernoon homepage!
 
-### [39. Top 5 Video Chat Apps of 2020](https://hackernoon.com/top-5-video-chat-apps-of-2020-xtif3xnb)
-![](https://cdn.hackernoon.com/drafts/zyr53y77.png)
-The world has been evolving ever since its inception. There is no doubt that Generation-Z (1997-2012) has witnessed many changes. These changes were related especially with the advancement of science and technology. The concept of video calling dates back to the year 1910, and back then it was termed as video telephony. So, the concept is pretty antiquated, but with time innovation played its part and kept it looking contemporary. Having said that, we’ll now look at the options we have when it comes to video calling.
-
-### [40. What is Eventual Consistency and How Do You Deal with It?](https://hackernoon.com/what-is-eventually-consistency-and-how-do-you-deal-with-it)
+### [39. What is Eventual Consistency and How Do You Deal with It?](https://hackernoon.com/what-is-eventually-consistency-and-how-do-you-deal-with-it)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-dl93i9d.jpeg)
 Eventually consistency is a fancy name of doing something and only expecting the changed state after a while. But it won't work well with caching.
+
+### [40. Top 5 Video Chat Apps of 2020](https://hackernoon.com/top-5-video-chat-apps-of-2020-xtif3xnb)
+![](https://cdn.hackernoon.com/drafts/zyr53y77.png)
+The world has been evolving ever since its inception. There is no doubt that Generation-Z (1997-2012) has witnessed many changes. These changes were related especially with the advancement of science and technology. The concept of video calling dates back to the year 1910, and back then it was termed as video telephony. So, the concept is pretty antiquated, but with time innovation played its part and kept it looking contemporary. Having said that, we’ll now look at the options we have when it comes to video calling.
 
 ### [41. Privacy Communities: Blockchain-Based Networks Rise After the Breakdown of Tech Giants](https://hackernoon.com/privacy-communities-blockchain-based-networks-rise-after-the-breakdown-of-tech-giants-9134330u)
 ![](https://cdn.hackernoon.com/images/rrklQPNbspZjuipgqdjB7er0G6e2-zjo238q.jpeg)
@@ -169,13 +173,13 @@ Online communication is undergoing a tidal shift as various groups and communiti
 ![](https://cdn.hackernoon.com/images/gFpkiE74dQYFbv6hDUCCcIQa9083-s593pf1.jpeg)
  With secure messaging apps willing to cease operations, UK's attempt to fight cybercrime with its Online Safety Bill has sparked the encryption debate again.
 
-### [43. The Noonification: The Last of Us HBO Series; The Nth of Many (9/29/2022)](https://hackernoon.com/9-29-2022-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-9/29/2022: Top 5 stories on the Hackernoon homepage!
-
-### [44. Meta's Superapp Ambitions Take Shape as WhatsApp Expands UPI Access in India](https://hackernoon.com/metas-superapp-ambitions-take-shape-as-whatsapp-expands-upi-access-in-india)
+### [43. Meta's Superapp Ambitions Take Shape as WhatsApp Expands UPI Access in India](https://hackernoon.com/metas-superapp-ambitions-take-shape-as-whatsapp-expands-upi-access-in-india)
 ![](https://cdn.hackernoon.com/images/3pTeNO1AnShySIvjgizFrTlMh2j2-280346a.png)
 WhatsApp’s is playing an important role in Indian digitalization and in increasing Meta's footprint in India.
+
+### [44. The Noonification: The Last of Us HBO Series; The Nth of Many (9/29/2022)](https://hackernoon.com/9-29-2022-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+9/29/2022: Top 5 stories on the Hackernoon homepage!
 
 ### [45. The Facebook Outage Proved a Need for Greater Decentralization](https://hackernoon.com/the-facebook-outage-proved-a-need-for-greater-decentralization)
 ![](https://cdn.hackernoon.com/images/5q5VrlKO8ac9SpKWTlyrckGLIT72-ss03nyx.jpeg)
@@ -197,17 +201,17 @@ In a world where encryption of our messaging apps is at stake, is there a soluti
 ![](https://cdn.hackernoon.com/drafts/7bm23yqt.png)
 WhatsApp, Facebook Messenger, and We Chat apps do not require any introduction. These messaging apps have become more popular than social media, and many entrepreneurs want to capitalize on their popularity. However, it is quite a task to make any new instant messaging app like WhatsApp successful because of intense competition. Let’s go through five formulas to make your messaging app capable of standing firm against the giants. 
 
-### [50. In the Billionaire’s Fight, We’re the Casualties](https://hackernoon.com/in-the-billionaires-fight-were-the-casualties)
+### [50. Code Smell 270 - Boolean APIs](https://hackernoon.com/code-smell-270-boolean-apis)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-9y0331f.jpeg)
+An API might have a secure parameter that enables additional security checks when set to true. While this approach seems simple, it introduces several problems.
+
+### [51. In the Billionaire’s Fight, We’re the Casualties](https://hackernoon.com/in-the-billionaires-fight-were-the-casualties)
 ![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-5y93ugf.jpeg)
 These two men have a combined net worth of $345 billion (!), 150+ million followers (!) and 13+ kids (!). 
 
-### [51. Helpful Strategies to Combat WhatsApp Security Threats](https://hackernoon.com/helpful-strategies-to-combat-whatsapp-security-threats-s54433ya)
+### [52. Helpful Strategies to Combat WhatsApp Security Threats](https://hackernoon.com/helpful-strategies-to-combat-whatsapp-security-threats-s54433ya)
 ![](https://cdn.hackernoon.com/images/GCGWS4vdFDa1ADxe4jfiCKy9q4r2-npi337j.jpeg)
 In the previous year, a security flaw was found in the WhatsApp desktop version. It allowed cyber-crooks to push malware or deploy codes by using harmless messages.
-
-### [52. Code Smell 270 - Boolean APIs](https://hackernoon.com/code-smell-270-boolean-apis)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-9y0331f.jpeg)
-An API might have a secure parameter that enables additional security checks when set to true. While this approach seems simple, it introduces several problems.
 
 ### [53. Democratizing Cryptocurrency With Chat-Based Wallets](https://hackernoon.com/democratizing-cryptocurrency-with-chat-based-wallets)
 ![](https://cdn.hackernoon.com/images/YRKuB1GmYbXk8zbMBLJHYnL2nXk1-wa027gg.png)
@@ -221,13 +225,13 @@ Are you living in a house with kids? Do you often face a situation where you are
 ![](https://cdn.hackernoon.com/images/a-robot-using-a-cellphone-and-texting-someone-clg1a8f3p000101s67kaj9isg.png)
 DieKoll goes over why WhatsApp may be introducing subscriptions in the near future.
 
-### [56. Encryption vs. Surveillance in Hong Kong](https://hackernoon.com/encryption-vs-surveillance-in-hong-kong-nb2e344j)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7YuCXaHGzuZddOtm07z1r8GbKes2-xa3q3wci.jpeg?alt=media&token=510869d4-0809-4787-a155-17b3f59b8dcb)
-The Hong Kong national security law created a series of provisions that restrict the flow of information and suppress the civil unrest within the region. In the short term, this new law has had a profound impact on the business landscape, creating a series of winners who seek to expand their share in the local marketplace. In the long term, it will reform the technology landscape in Hong Kong for years to come
-
-### [57. How to Build an AI-Powered WhatsApp Bot That Analyzes Images Using Python and Vision Models](https://hackernoon.com/how-i-built-an-ai-powered-whatsapp-bot-that-analyzes-images-using-python-and-vision-models)
+### [56. How to Build an AI-Powered WhatsApp Bot That Analyzes Images Using Python and Vision Models](https://hackernoon.com/how-i-built-an-ai-powered-whatsapp-bot-that-analyzes-images-using-python-and-vision-models)
 ![](https://cdn.hackernoon.com/images/SpyyNn0DiuTGW5f8Hz85qIlQtBq1-nm03gim.png)
 This tutorial shows you how to build a WhatsApp bot that accepts images, analyzes them using AI vision models, and responds with intelligent insights. 
+
+### [57. Encryption vs. Surveillance in Hong Kong](https://hackernoon.com/encryption-vs-surveillance-in-hong-kong-nb2e344j)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7YuCXaHGzuZddOtm07z1r8GbKes2-xa3q3wci.jpeg?alt=media&token=510869d4-0809-4787-a155-17b3f59b8dcb)
+The Hong Kong national security law created a series of provisions that restrict the flow of information and suppress the civil unrest within the region. In the short term, this new law has had a profound impact on the business landscape, creating a series of winners who seek to expand their share in the local marketplace. In the long term, it will reform the technology landscape in Hong Kong for years to come
 
 ### [58. The Noonification: Introducing Drag Your GAN: Drag Objects to Create New Images (6/25/2023)](https://hackernoon.com/6-25-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_601_ilnibmbwhcgcpcczxjf504x9.png)

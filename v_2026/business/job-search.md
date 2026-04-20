@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [job-search](https://hackernoon.com/tagged/job-search)
+### Let's learn about [Job Search](https://hackernoon.com/tagged/job-search) via these 103 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Job search refers to the active pursuit of employment opportunities. It is fundamental for professional growth and economic participation, involving identifying suitable roles, preparing applications, and navigating interview processes.
+
 ### [1. My Terrible Experience Applying for a Job at Crossover for Work](https://hackernoon.com/my-terrible-experience-applying-for-a-job-at-crossover-for-work-hr2c34hr)
 ![](https://cdn.hackernoon.com/images/m4QBpFGz2jOCYvxjx2wHuZ1uNeO2-f82l34za.jpeg)
 Crossover for Work advertises dozens of jobs all the time, many of them highly paid, many for senior developers and architects. Everyone works from home. 
@@ -86,13 +90,13 @@ to the Benefits and Use Cases of an Advanced People Search Engine](https://hacke
 ![](https://cdn.hackernoon.com/images/zaGs6Q0I7SY8qLi6ofbogocZVlJ2-xz936zm.jpeg)
 With TruePeopleSearch.io, locating individuals quickly and accurately has become easier than ever.
 
-### [22. How to Work in Web 3, Cryptocurrency?](https://hackernoon.com/how-to-work-in-web-3-cryptocurrency)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-6zc3ijq.jpeg)
-This article will help readers sort out the types of jobs in this field and the mindsets and traits they should have if they want to apply for those positions.
-
-### [23. The Ultimate Guide to Software Development Job Interview Prep ](https://hackernoon.com/the-ultimate-guide-to-software-development-job-interview-prep)
+### [22. The Ultimate Guide to Software Development Job Interview Prep ](https://hackernoon.com/the-ultimate-guide-to-software-development-job-interview-prep)
 ![](https://cdn.hackernoon.com/images/IzGq6ZjAP5bDH89ofBqoSUWRLuy1-p793p04.jpeg)
 
+
+### [23. How to Work in Web 3, Cryptocurrency?](https://hackernoon.com/how-to-work-in-web-3-cryptocurrency)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-6zc3ijq.jpeg)
+This article will help readers sort out the types of jobs in this field and the mindsets and traits they should have if they want to apply for those positions.
 
 ### [24. Diversity in the Workplace: A Challenge for HR ](https://hackernoon.com/diversity-in-the-workplace-a-challenge-for-hr)
 ![](https://cdn.hackernoon.com/images/frDeWhzZjDacAQUpRCFRiLQSmdx2-goe3qne.jpeg)
@@ -192,33 +196,33 @@ Help hiring managers feel confident you are the one who can defend their tech in
 ![](https://cdn.hackernoon.com/images/y3uk89KMZnfiawpEREPict96IDp2-y393pl6.jpeg)
 This article highlights the top 10 factors to keep in mind when relocating, including language barriers, tax systems, medical care, job security, and more.
 
-### [48. Why Startups Are Better To Work For](https://hackernoon.com/why-startups-are-better-to-work-for-d8y3t9x)
-![](https://cdn.hackernoon.com/drafts/5rd73tw4.png)
-Last fall as I started my last year at UCLA, I aggressively applied and interviewed for programming jobs. The decision agonized me for weeks and I devoured career guides and advice. And in the end, I chose a small 50 person startup over exciting companies like Facebook, Stripe, and Cruise. I basically chose less money for more work mostly because it was a startup.
-
-### [49. FAQs For a Software Engineering Hiring Manager - Part 4 of 5: Applying & Job Hunting](https://hackernoon.com/faqs-for-a-software-engineering-hiring-manager-part-4-of-5-applying-and-job-hunting)
+### [48. FAQs For a Software Engineering Hiring Manager - Part 4 of 5: Applying & Job Hunting](https://hackernoon.com/faqs-for-a-software-engineering-hiring-manager-part-4-of-5-applying-and-job-hunting)
 ![](https://cdn.hackernoon.com/images/iWyiPHeSffVd0q7cGprXTrQalGX2-c293omg.jpeg)
 With over 10 years of experience as a hiring manager for software engineers, I've compiled a list of the many recurring questions I've received from job seekers
+
+### [49. Why Startups Are Better To Work For](https://hackernoon.com/why-startups-are-better-to-work-for-d8y3t9x)
+![](https://cdn.hackernoon.com/drafts/5rd73tw4.png)
+Last fall as I started my last year at UCLA, I aggressively applied and interviewed for programming jobs. The decision agonized me for weeks and I devoured career guides and advice. And in the end, I chose a small 50 person startup over exciting companies like Facebook, Stripe, and Cruise. I basically chose less money for more work mostly because it was a startup.
 
 ### [50. 20 Companies With Remote Tech Jobs](https://hackernoon.com/20-companies-with-remote-tech-jobs-2hl33jo)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-2ak33hf.jpeg)
 FlexJobs recently compiled a list of 20 companies that commonly hire for work-from-home IT jobs
 
-### [51. 5 Simple Job Interview Tips](https://hackernoon.com/5-simple-job-interview-tips-g51k3upt)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-rs11282q.jpeg?alt=media&token=b5135942-7314-4588-8cc6-a9ef218543e3)
-Disclaimer: this reflects my personal opinions, not those of my employer.
-
-### [52. Stop Looking At Other Resume Guides: This Is The Only One You'll Ever Need](https://hackernoon.com/stop-looking-at-other-resume-guides-this-is-the-only-one-youll-ever-need)
+### [51. Stop Looking At Other Resume Guides: This Is The Only One You'll Ever Need](https://hackernoon.com/stop-looking-at-other-resume-guides-this-is-the-only-one-youll-ever-need)
 ![](https://cdn.hackernoon.com/images/qy2THJpyvRPy3lZxnWWnKsKgsix2-se1388g.png)
 A hiring manager’s no-BS playbook for writing a resume that actually works.
 
-### [53. The NEAR Balkans Summership: Web3 Internship](https://hackernoon.com/the-near-balkans-summership-web3-internship)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ck93ke6.jpeg)
-NEAR Balkans Hub has established a paid summer internship program with the aim of creating Web3 skills in young developers that is open for applications now
+### [52. 5 Simple Job Interview Tips](https://hackernoon.com/5-simple-job-interview-tips-g51k3upt)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-rs11282q.jpeg?alt=media&token=b5135942-7314-4588-8cc6-a9ef218543e3)
+Disclaimer: this reflects my personal opinions, not those of my employer.
 
-### [54. Why I Hire Non-IT Graduates in The  Cybersecurity Field](https://hackernoon.com/why-i-hire-non-it-graduates-in-the-cybersecurity-field-c73c31mb)
+### [53. Why I Hire Non-IT Graduates in The  Cybersecurity Field](https://hackernoon.com/why-i-hire-non-it-graduates-in-the-cybersecurity-field-c73c31mb)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-nv1425t3.jpeg)
 Essential elements you should have and why I hire non-IT graduates.
+
+### [54. The NEAR Balkans Summership: Web3 Internship](https://hackernoon.com/the-near-balkans-summership-web3-internship)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ck93ke6.jpeg)
+NEAR Balkans Hub has established a paid summer internship program with the aim of creating Web3 skills in young developers that is open for applications now
 
 ### [55. 5 Successful Strategies for Finding a Job in Tech](https://hackernoon.com/5-successful-strategies-for-finding-a-job-in-tech-vj463uul)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtTB1guMEEpTjqSrWivQoD1ErY6n2-nc1d3uf4.jpeg?alt=media&token=e30e3bd6-0c26-4600-bcbc-aacbaaeba883)
@@ -268,13 +272,13 @@ Here's every mistake (or advice) I can think of when building your resume based 
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-ca03aci.jpeg)
 Looking for work can be challenging, especially if you don't know where to start. Thinking of you, we decided to share a few hacks to help you nail the job.
 
-### [67. Examples and Expert Tips for a Winning Job Search - Junior Software Engineer Resumes](https://hackernoon.com/examples-and-expert-tips-for-a-winning-job-search-junior-software-engineer-resumes)
-![](https://cdn.hackernoon.com/images/QRqitUIXi9Z5pvAY0aAnCzCu0002-my02uan.png)
-Effective tips for Junior Software Engineers to perfect their CV.
-
-### [68. I Hit “Apply” 142 Times—and Heard Back Twice](https://hackernoon.com/i-hit-apply-142-timesand-heard-back-twice)
+### [67. I Hit “Apply” 142 Times—and Heard Back Twice](https://hackernoon.com/i-hit-apply-142-timesand-heard-back-twice)
 ![](https://cdn.hackernoon.com/images/jRwwcVG82DMtp3zTIazacx3SGRa2-i0038mn.png)
 Student tired of internship ghosting builds a one-click Chrome extension that finds recruiters and sends follow-up emails—open-source help wanted.
+
+### [68. Examples and Expert Tips for a Winning Job Search - Junior Software Engineer Resumes](https://hackernoon.com/examples-and-expert-tips-for-a-winning-job-search-junior-software-engineer-resumes)
+![](https://cdn.hackernoon.com/images/QRqitUIXi9Z5pvAY0aAnCzCu0002-my02uan.png)
+Effective tips for Junior Software Engineers to perfect their CV.
 
 ### [69. The Best Way to Find Software Developer Jobs in Switzerland](https://hackernoon.com/the-best-way-to-find-software-developer-jobs-in-switzerland)
 ![](https://cdn.hackernoon.com/images/Pge19rPKUBWxG7wfaNEYPGRfvNk2-ssc3pum.png)
@@ -296,33 +300,33 @@ If you are tech worker right now, you are in demand. If you are considering movi
 ![](images/x014c3yeo.jpg)
 Writing a resume that really stands out doesn’t need to be a daunting task.
 
-### [74. How to Prepare Yourself (and your CV) for Remote Tech Opportunities](https://hackernoon.com/how-to-prepare-yourself-and-your-cv-for-remote-tech-opportunities-k91k37qy)
+### [74. 20 Ways to Stand Out in a Hiring Process (That Doesn’t Involve Your Resume)](https://hackernoon.com/20-ways-to-stand-out-in-a-hiring-process-that-doesnt-involve-your-resume)
+![](https://cdn.hackernoon.com/images/jAe8nDJHWuhNTYfeZVmoqHUgxXz2-bz93wl0.jpeg)
+20 ways to stand out in a hiring process that don’t involve your resume. 
+
+### [75. How to Prepare Yourself (and your CV) for Remote Tech Opportunities](https://hackernoon.com/how-to-prepare-yourself-and-your-cv-for-remote-tech-opportunities-k91k37qy)
 ![](https://cdn.hackernoon.com/images/JgUqzrFGnFdSlnGv7mgbtAIzfbb2-jj1o354i.jpeg)
 Do you want to find remote work in tech? Find out the most essential tips, tools and resources to help you prepare yourself and your CV for tech roles.
 
-### [75. Landing a Job at Tesla Using Facebook Ads](https://hackernoon.com/landing-a-job-at-tesla-using-facebook-ads-4o7y3yn7)
+### [76. Landing a Job at Tesla Using Facebook Ads](https://hackernoon.com/landing-a-job-at-tesla-using-facebook-ads-4o7y3yn7)
 ![](https://cdn.hackernoon.com/drafts/0j1cl3yd1.png)
 Step by step guide how to stand out of the crowd landing a job with Facebook ads
-
-### [76. 20 Ways to Stand Out in a Hiring Process (That Doesn’t Involve Your Resume)](https://hackernoon.com/20-ways-to-stand-out-in-a-hiring-process-that-doesnt-involve-your-resume)
-![](https://cdn.hackernoon.com/images/jAe8nDJHWuhNTYfeZVmoqHUgxXz2-bz93wl0.jpeg)
-20 ways to stand out in a hiring process that don’t involve your resume. 
 
 ### [77. Improve Your (Junior) Developer Resume Bullets [A How To Guide]](https://hackernoon.com/how-to-improve-your-junior-developer-resume-bullets-nqt3zqp)
 ![](https://cdn.hackernoon.com/images/3y603zt8.jpg)
 How to make your tech resume attractive to employers and recruiters if you don’t have a lot of professional experience? Strengthening experience descriptions is one of the ways you can achieve this goal.
 
-### [78. How To Become A Machine Learning Practitioner Fast](https://hackernoon.com/how-to-become-a-machine-learning-practitioner-fast)
-![](https://cdn.hackernoon.com/images/6AS2LZQ2kqfeGq1d9IpZv3EOcfJ2-cab3jri.jpeg)
-Learn machine learning fast in 2022.
+### [78. How To Find A Job As A Software Developer In Japan](https://hackernoon.com/how-to-find-a-job-as-a-software-developer-in-japan-192o3t88)
+![](https://cdn.hackernoon.com/drafts/0g233z3v.png)
+Originally published on the Japan Dev Blog
 
 ### [79. So, Do You Have Any Questions For Us?](https://hackernoon.com/so-do-you-have-any-questions-for-us-kd2r3xz1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtMlyikZUAcVNxPGl4Rh16UfkoTh1-5w143utk.jpeg?alt=media&token=ca4f76c4-aaab-4d81-a89a-14842d6b256e)
 OR: How to ask the right questions in order to find your dream company.
 
-### [80. How To Find A Job As A Software Developer In Japan](https://hackernoon.com/how-to-find-a-job-as-a-software-developer-in-japan-192o3t88)
-![](https://cdn.hackernoon.com/drafts/0g233z3v.png)
-Originally published on the Japan Dev Blog
+### [80. How To Become A Machine Learning Practitioner Fast](https://hackernoon.com/how-to-become-a-machine-learning-practitioner-fast)
+![](https://cdn.hackernoon.com/images/6AS2LZQ2kqfeGq1d9IpZv3EOcfJ2-cab3jri.jpeg)
+Learn machine learning fast in 2022.
 
 ### [81. Mobile App Development Jobs Trending in 2019](https://hackernoon.com/trending-now-the-state-of-mobile-app-development-jobs-p51x040gz)
 ![](https://cdn.hackernoon.com/drafts/po1wy40p9.png)
@@ -348,17 +352,17 @@ Things that job-seekers believe might be happening to harm their job search whic
 ![](https://cdn.hackernoon.com/images/QCkH5anM7ePoLuXTiE8M8YTHUgb2-4k138ma.png)
 nPloy is an AI-powered job matching platform designed to turn the job hunt from a painful chore into a human-centered, intuitive experience. 
 
-### [87. 3 Outside-the-box Questions to Ask During a Cybersecurity Interview](https://hackernoon.com/3-outside-the-box-questions-to-ask-during-a-cybersecurity-interview)
+### [87. The Secrets of Success: How Young Men Can Make Their Fortune](https://hackernoon.com/the-secrets-of-success-how-young-men-can-make-their-fortune)
+![](https://cdn.hackernoon.com/images/Dh779CmdTWcT0wfGv6t0L3Zkjkj1-t4a3lx6.jpeg)
+One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series.
+
+### [88. 3 Outside-the-box Questions to Ask During a Cybersecurity Interview](https://hackernoon.com/3-outside-the-box-questions-to-ask-during-a-cybersecurity-interview)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-vk039k6.jpeg)
 When interviewing, I initially used the popular lists you find via Google. This led to asking questions that candidates that made selection even more difficult.
 
-### [88. How I got Interviewed by Fiverr Without Sending a Resume](https://hackernoon.com/how-i-got-interviewed-by-fiverr-without-sending-a-resume-jh2f3txu)
+### [89. How I got Interviewed by Fiverr Without Sending a Resume](https://hackernoon.com/how-i-got-interviewed-by-fiverr-without-sending-a-resume-jh2f3txu)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhWqqw2Na5Kf9N5oQQOMmLDXaqew2-vh3e3teh.jpeg?alt=media&token=ef392fde-64b3-490b-9a9e-8596406eefa3)
 If you are passionate about the Tech sector you have probably dreamed at least once of being a Googler, of being part of the team that will launch the next iPhone or working on the next feature of an app with millions of users.
-
-### [89. The Secrets of Success: How Young Men Can Make Their Fortune](https://hackernoon.com/the-secrets-of-success-how-young-men-can-make-their-fortune)
-![](https://cdn.hackernoon.com/images/Dh779CmdTWcT0wfGv6t0L3Zkjkj1-t4a3lx6.jpeg)
-One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series.
 
 ### [90. 83 Stories To Learn About Tech Jobs](https://hackernoon.com/83-stories-to-learn-about-tech-jobs)
 ![](https://cdn.hackernoon.com/images/github/tech-jobs-577.png)
@@ -368,13 +372,13 @@ Learn everything you need to know about Tech Jobs via these 83 free HackerNoon s
 ![](https://cdn.hackernoon.com/images/OpTt1C8NqfWBMShLv5W7Td386b03-uz03nkl.jpeg)
 Mass tech layoffs hit 80K+ workers in 2025. Learn 7 steps to reset, budget, rebuild your CV, network, prep, and adapt for a stronger job search comeback.
 
-### [92. Tips for Engineering Graduates](https://hackernoon.com/tips-for-engineering-graduates-ez1u36am)
-![](https://cdn.hackernoon.com/images/xn7f47cf.jpg)
-Mechanical Engineering Graduates, here are some tips to kick-start your career. Because we know how difficult and challenging it is in this domain, with so many unanswered questions, especially for beginners.
-
-### [93. Eight Recruiting Trends for 2022](https://hackernoon.com/eight-recruiting-trends-for-2022)
+### [92. Eight Recruiting Trends for 2022](https://hackernoon.com/eight-recruiting-trends-for-2022)
 ![](https://cdn.hackernoon.com/images/16ChB2rveuMbaKoi890weUEWtCC3-nva3gvj.jpeg)
 Telling you what IT employers should pay attention to in order to fill IT vacancies in one to two months.
+
+### [93. Tips for Engineering Graduates](https://hackernoon.com/tips-for-engineering-graduates-ez1u36am)
+![](https://cdn.hackernoon.com/images/xn7f47cf.jpg)
+Mechanical Engineering Graduates, here are some tips to kick-start your career. Because we know how difficult and challenging it is in this domain, with so many unanswered questions, especially for beginners.
 
 ### [94. Your CV Is Full of Mistakes—Here's How to Spot Them](https://hackernoon.com/your-cv-is-full-of-mistakesheres-how-to-spot-them)
 ![](https://cdn.hackernoon.com/images/utrrS4gs9nPc1i8z2qupQFJNhhK2-6r33l7g.png)
@@ -384,18 +388,18 @@ The article highlights 3 common CV mistakes: rating skill levels, including pers
 ![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-up93qar.jpeg)
 
 
-### [96. If You Fail To Demonstrate Your Values, You'll Lose Your Customers & Candidates](https://hackernoon.com/if-you-fail-to-demonstrate-your-values-youll-lose-your-customers-and-candidates-asdt31ht)
+### [96. Negotiating Salary and Benefits for Your Job Offers](https://hackernoon.com/negotiating-salary-and-benefits-for-your-job-offers-9o2e37jr)
+![](https://cdn.hackernoon.com/images/69WgOCZVNPNiaNo1IgmC2r450Q62-7h9356u.jpeg)
+How to negotiate a higher salary at your tech job, without having to upset the stakeholders involved.
+
+### [97. If You Fail To Demonstrate Your Values, You'll Lose Your Customers & Candidates](https://hackernoon.com/if-you-fail-to-demonstrate-your-values-youll-lose-your-customers-and-candidates-asdt31ht)
 ![](https://cdn.hackernoon.com/images/nePmJX1ffrXtWlHHBTRNQfy2W392-3wnk32xm.jpeg)
 A company’s actions speak louder than its words. Companies lose customers & candidates during the hiring process when they fail to demonstrate their values.
 
-### [97. What the bitcoin job market looks like in 2019 (and beyond)](https://hackernoon.com/what-the-bitcoin-job-market-looks-like-in-2019-and-beyond-mnr4265)
+### [98. What the bitcoin job market looks like in 2019 (and beyond)](https://hackernoon.com/what-the-bitcoin-job-market-looks-like-in-2019-and-beyond-mnr4265)
 ![](https://cdn.hackernoon.com/images/fvn42l5.jpg)
 A gold rush mentality surrounds bitcoin, cryptocurrency and blockchain. And despite drastic price fluctuations (Bitcoin’s value shot up more than 230% in the first six months of 2019 to above $12K) and nearly half of companies citing regulatory uncertainty as a major barrier to blockchain adoption, employers continue to ride the wave and invest in both blockchain tech and talent. 
 
-
-### [98. Negotiating Salary and Benefits for Your Job Offers](https://hackernoon.com/negotiating-salary-and-benefits-for-your-job-offers-9o2e37jr)
-![](https://cdn.hackernoon.com/images/69WgOCZVNPNiaNo1IgmC2r450Q62-7h9356u.jpeg)
-How to negotiate a higher salary at your tech job, without having to upset the stakeholders involved.
 
 ### [99. Introducing The Cosmos Jobs Board Built on The Promise Protocol](https://hackernoon.com/introducing-the-cosmos-jobs-board-built-on-the-promise-protocol-jd1w3zve)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPLJvlaQJxYdnmfEMH03KmwWiqUr1-uki3tsi.jpeg?alt=media&token=29aa098d-9e58-492f-a831-a626834ac76a)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [python-top-story](https://hackernoon.com/tagged/python-top-story)
+### Let's learn about [Python Top Story](https://hackernoon.com/tagged/python-top-story) via these 76 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A Python top story refers to a prominent or highly viewed article about Python on HackerNoon. Such stories highlight significant developments, tutorials, or insights within the Python ecosystem, serving as key resources for the community.
+
 ### [1. How to Read Text File in Python?](https://hackernoon.com/how-to-read-text-file-in-python)
 ![](https://cdn.hackernoon.com/images/OJljH3PJ19XhnfrEjYPYRLg9Y2s2-uu0363o.jpeg)
 Python provides built-in functions to perform file operations, such as creating, reading, and writing into text files.
@@ -289,17 +293,17 @@ You can use Python for general software development, data science and math. But 
 ![](https://cdn.hackernoon.com/images/SedLQpc1EoechPSvpzRTe2O8omg2-sea3gx3.jpeg)
 A detailed overview of an AI subfield called Natural Language Processing or NLP and how to learn NLP.
 
-### [72. What's The Best Programming Language For Machine Learning Projects](https://hackernoon.com/whats-the-best-programming-language-for-machine-learning-projects-k6d332th)
+### [72. Pandas Refresher: Using Join on Tables](https://hackernoon.com/pandas-refresher-using-join-on-tables)
+![](https://cdn.hackernoon.com/images/zBNvq4KPzuQTagLdn5CRuQiJhhu2-ef0377h.jpeg)
+Working with tables by join in Pandas: how to load tables in Pandas, merging data in tables, left join, right join, outer join, inner join. 
+
+### [73. What's The Best Programming Language For Machine Learning Projects](https://hackernoon.com/whats-the-best-programming-language-for-machine-learning-projects-k6d332th)
 ![](https://cdn.hackernoon.com/drafts/8co3yxw.png)
 …and why it is Python.
 
-### [73. Hyperparameter Tuning on Any Python Script in 3 Easy Steps [A How-To Guide]](https://hackernoon.com/hyperparameter-tuning-on-any-python-script-in-3-easy-steps-a-how-to-guide-5u4g329e)
+### [74. Hyperparameter Tuning on Any Python Script in 3 Easy Steps [A How-To Guide]](https://hackernoon.com/hyperparameter-tuning-on-any-python-script-in-3-easy-steps-a-how-to-guide-5u4g329e)
 ![](https://cdn.hackernoon.com/drafts/vr1w3yda.png)
 You wrote a Python script that trains and evaluates your machine learning model. Now, you would like to automatically tune hyperparameters to improve its performance?
-
-### [74. Pandas Refresher: Using Join on Tables](https://hackernoon.com/pandas-refresher-using-join-on-tables)
-![](https://cdn.hackernoon.com/images/zBNvq4KPzuQTagLdn5CRuQiJhhu2-ef0377h.jpeg)
-Working with tables by join in Pandas: how to load tables in Pandas, merging data in tables, left join, right join, outer join, inner join. 
 
 ### [75. Pipenv & Requests Libraries Author Kenneth Reitz Talks About Python Scalability: An Interview](https://hackernoon.com/pipenv-and-requests-libraries-author-kenneth-reitz-talks-about-python-scalability-an-interview-jl2d343v)
 ![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-zbx31bd.jpeg)

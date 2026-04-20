@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [engineering](https://hackernoon.com/tagged/engineering)
+### Let's learn about [Engineering](https://hackernoon.com/tagged/engineering) via these 285 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 “Normal people believe that if it ain’t broke, don’t fix it. Engineers believe that if it ain’t broke, it doesn’t have enough features yet.”
 - Scott Adams
 
@@ -120,13 +122,13 @@ I was very much interested in developing distributed systems and the like. But i
 ![](https://cdn.hackernoon.com/images/9mEVhVUDuCNNlVwf2fYGWWBDAdt1-ibx3r4m.jpeg)
 Python is a an easy language to use when implementing Finite element method to numerically get the response of engineering structures when subjected to stress.
 
-### [30. We Built The World's Largest Real time High-Frequency, Low Latency Streaming System on Golang](https://hackernoon.com/we-built-the-worlds-largest-real-time-high-frequency-low-latency-streaming-system-on-golang-xf4r346e)
-![](https://cdn.hackernoon.com/images/YXr0nxMhtHTYcIxg5sFngxEQeGk1-ybx3we4.jpeg)
-The evolution, failures and design decisions behind one of the world’s largest real-time, high-frequency and low-latency streaming systems.
-
-### [31. Engineering Teams Can Ship Assignment Submission Portals in Hours: How You Can Do It Too](https://hackernoon.com/engineering-teams-can-ship-assignment-submission-portals-in-hours-how-you-can-do-it-too)
+### [30. Engineering Teams Can Ship Assignment Submission Portals in Hours: How You Can Do It Too](https://hackernoon.com/engineering-teams-can-ship-assignment-submission-portals-in-hours-how-you-can-do-it-too)
 ![](https://cdn.hackernoon.com/images/0sm1KIKmbZhu9AD2GAr4cKywoN43-yp43ebu.jpeg)
 This guide is for engineering leaders who want to avoid this situation. Instead of building file handling from scratch, you can use ready-made file services
+
+### [31. We Built The World's Largest Real time High-Frequency, Low Latency Streaming System on Golang](https://hackernoon.com/we-built-the-worlds-largest-real-time-high-frequency-low-latency-streaming-system-on-golang-xf4r346e)
+![](https://cdn.hackernoon.com/images/YXr0nxMhtHTYcIxg5sFngxEQeGk1-ybx3we4.jpeg)
+The evolution, failures and design decisions behind one of the world’s largest real-time, high-frequency and low-latency streaming systems.
 
 ### [32. An Essential Guide to Legacy Code](https://hackernoon.com/an-essential-guide-to-legacy-code-no2337ml)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-c8hd350h.png)
@@ -204,13 +206,13 @@ Don't tell me about pull requests.  They don't work either
 ![](https://cdn.hackernoon.com/drafts/znqi3ysm.png)
 Software development might not look exhausting at first glance, but it’s one of the most consuming fields out there. Developers need to maintain steady concentration through 8-10-hour working days, approach tasks creatively, and maintain communication with their colleagues. Even top talent gets bored and burnt out. 
 
-### [51. My First Panic Attack And Subsequent Relationship With Depression And Anxiety - Part I](https://hackernoon.com/my-first-panic-attack-and-subsequent-relationship-with-depression-and-anxiety-part-i)
-![](https://cdn.hackernoon.com/images/BB2YpqrhQFNDkmPeyOAC2tyaYwt1-pr93o6k.jpeg)
-The first panic attack I had was back in 2015. During an official college trip with a few college friends. 
-
-### [52. From Automation to Autonomy: How AI is Transforming Site Reliability Engineering](https://hackernoon.com/from-automation-to-autonomy-how-ai-is-transforming-site-reliability-engineering)
+### [51. From Automation to Autonomy: How AI is Transforming Site Reliability Engineering](https://hackernoon.com/from-automation-to-autonomy-how-ai-is-transforming-site-reliability-engineering)
 ![](https://cdn.hackernoon.com/images/GDHgESxfGhf9Cc796AvKn0g7UoF3-zz03cyf.jpeg)
 This is the real story of where operations is headed.
+
+### [52. My First Panic Attack And Subsequent Relationship With Depression And Anxiety - Part I](https://hackernoon.com/my-first-panic-attack-and-subsequent-relationship-with-depression-and-anxiety-part-i)
+![](https://cdn.hackernoon.com/images/BB2YpqrhQFNDkmPeyOAC2tyaYwt1-pr93o6k.jpeg)
+The first panic attack I had was back in 2015. During an official college trip with a few college friends. 
 
 ### [53. Are You Telling The Story of Your Software?](https://hackernoon.com/are-you-telling-the-story-of-your-software-mc133w92)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGFZfovEeTcffLhV2aOiNXXtwnb83-ntrh3uv0.jpeg?alt=media&token=53023bf6-cde3-44fb-a055-5bbd6e09ec2e)
@@ -240,17 +242,17 @@ Python was originally conceptualized by Guido van Rossum in the late 1980s as a 
 ![](https://cdn.hackernoon.com/images/88Yij7ZV63XFIg7xwZBWab3cb843-gq835k6.png)
 A 100-day commitment to learning facilitated by Cloud Academy. Sign up, complete the Cloud Marathon and your education is free.
 
-### [60. How to Use ES6 with Webpack](https://hackernoon.com/how-to-use-es6-with-webpack-xyz3u3h)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1oCJFG81lvMIHkaAVW0sBIBEwDY2-jg8e3ur2.png?alt=media&token=8ee94d09-e82a-4829-977e-702b6fb30da2)
-This article is for those who use ES6 syntax along with Webpack. After I started using Javascript with Webpack I met a lot of unexpected errors. All of them were because of ES6 syntax usage. Those of you who decided to start javascript using "Classes" or you need to use ESlint I'll try to explain how to save some time. In short, it's all about loaders.
+### [60. Student Spaceshot Rocket Clubs — Part 1 (USA)](https://hackernoon.com/student-spaceshot-rocket-clubs-part-1-usa)
+![](https://cdn.hackernoon.com/images/g0F0Zb609nZIP5Ond7HZKf2cI9X2-7792vcf.jpeg)
+In the past few years, liquid propulsion and spaceshot rocket clubs have popped up at high schools and colleges worldwide. Let's take a look at some of them.
 
 ### [61. What are the Top Startups in Africa?](https://hackernoon.com/what-are-the-top-startups-in-africa)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-5v93wfc.jpeg)
 HackerNoon.com hosted Startups of The Year to highlight the backbone of the future - tech startups!
 
-### [62. Student Spaceshot Rocket Clubs — Part 1 (USA)](https://hackernoon.com/student-spaceshot-rocket-clubs-part-1-usa)
-![](https://cdn.hackernoon.com/images/g0F0Zb609nZIP5Ond7HZKf2cI9X2-7792vcf.jpeg)
-In the past few years, liquid propulsion and spaceshot rocket clubs have popped up at high schools and colleges worldwide. Let's take a look at some of them.
+### [62. How to Use ES6 with Webpack](https://hackernoon.com/how-to-use-es6-with-webpack-xyz3u3h)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1oCJFG81lvMIHkaAVW0sBIBEwDY2-jg8e3ur2.png?alt=media&token=8ee94d09-e82a-4829-977e-702b6fb30da2)
+This article is for those who use ES6 syntax along with Webpack. After I started using Javascript with Webpack I met a lot of unexpected errors. All of them were because of ES6 syntax usage. Those of you who decided to start javascript using "Classes" or you need to use ESlint I'll try to explain how to save some time. In short, it's all about loaders.
 
 ### [63. How to Extract the Maximum Value From Logs](https://hackernoon.com/how-to-extract-the-maximum-value-from-logs)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-ma92soi.jpeg)
@@ -305,17 +307,17 @@ The Art of Teaching Associative Thinking to Machines](https://hackernoon.com/whe
 ![](https://cdn.hackernoon.com/images/6o1z3yn0.jpg)
 The idea of LensAI was born last year sometime in May. If you've missed Part I of my story, you can read it here ->  How We Taught Artificial Intelligence to Sell.
 
-### [76. Prompt Engineers Can Make $335K a Year: What Are They and How to Become One](https://hackernoon.com/prompt-engineers-can-make-$335k-a-year-what-are-they-and-how-to-become-one)
-![](https://cdn.hackernoon.com/images/aen3snxECVSRPNcjBRo7qJhmg2A3-9ya3r19.jpeg)
-It’s hard to say what the job market will look like in the next several years, but it seems that prompt engineers will continue to be in high demand. 
+### [76. Beyond Coding: The 5 Must-Have Skills to Have If You Want to Become a Senior Programmer](https://hackernoon.com/beyond-coding-the-5-must-have-skills-to-have-if-you-want-to-become-a-senior-programmer)
+![](https://cdn.hackernoon.com/images/KlveZHHB1mTZqcSWAehh7gYTCJH2-ud93sjq.jpeg)
+Creating code is only a small part of what programmers do. To become a complete senior dev, you must master also these 5 other skills.
 
 ### [77. How to Build a Circuit: Breadboards for Beginners](https://hackernoon.com/how-to-build-a-circuit-breadboards-for-beginners)
 ![](https://cdn.hackernoon.com/images/60sDyxyXFwZR4t5KULJbflhNDjv1-yfcy342k.jpeg)
 When learning how to build a circuit, the breadboard is one of the most basic components. A breadboard is a rectangular plastic board with many small jacks.
 
-### [78. Beyond Coding: The 5 Must-Have Skills to Have If You Want to Become a Senior Programmer](https://hackernoon.com/beyond-coding-the-5-must-have-skills-to-have-if-you-want-to-become-a-senior-programmer)
-![](https://cdn.hackernoon.com/images/KlveZHHB1mTZqcSWAehh7gYTCJH2-ud93sjq.jpeg)
-Creating code is only a small part of what programmers do. To become a complete senior dev, you must master also these 5 other skills.
+### [78. Prompt Engineers Can Make $335K a Year: What Are They and How to Become One](https://hackernoon.com/prompt-engineers-can-make-$335k-a-year-what-are-they-and-how-to-become-one)
+![](https://cdn.hackernoon.com/images/aen3snxECVSRPNcjBRo7qJhmg2A3-9ya3r19.jpeg)
+It’s hard to say what the job market will look like in the next several years, but it seems that prompt engineers will continue to be in high demand. 
 
 ### [79. 5 Important Lessons I Learnt As A Software Engineer](https://hackernoon.com/5-important-lessons-i-learnt-as-a-software-engineer-mqn43a91)
 ![](https://cdn.hackernoon.com/drafts/rd9d3apd.png)
@@ -325,13 +327,13 @@ Recently I completed 2 years as a full-time software engineer. I started working
 ![](https://cdn.hackernoon.com/images/pA9PrO17zzYKuXR5AMSOwkCjXCs2-lbb3ssi.jpeg)
 Completing a passion project that seemed impossible.
 
-### [81. Replacing Apache Hive, Elasticsearch and PostgreSQL with Apache Doris](https://hackernoon.com/replacing-apache-hive-elasticsearch-and-postgresql-with-apache-doris)
-![](https://cdn.hackernoon.com/images/80tY1SZicJdKKK7J8w8lDuCdJpo1-hnk37r8.jpeg)
-Simplicity is the best policy.
-
-### [82. What Does a Blockchain Engineer Do](https://hackernoon.com/what-does-a-blockchain-engineer-do)
+### [81. What Does a Blockchain Engineer Do](https://hackernoon.com/what-does-a-blockchain-engineer-do)
 ![](https://cdn.hackernoon.com/images/qbjdMko7eFaiqBJgAApmsjilPv83-6593px3.jpeg)
 Given the vast potential of blockchain technology, it's no surprise that there is high demand for workers with blockchain engineering skills.
+
+### [82. Replacing Apache Hive, Elasticsearch and PostgreSQL with Apache Doris](https://hackernoon.com/replacing-apache-hive-elasticsearch-and-postgresql-with-apache-doris)
+![](https://cdn.hackernoon.com/images/80tY1SZicJdKKK7J8w8lDuCdJpo1-hnk37r8.jpeg)
+Simplicity is the best policy.
 
 ### [83. Top 6 AutoCAD Advanced Concepts You Need to Know ](https://hackernoon.com/top-6-autocad-advanced-concepts-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-vm93v68.jpeg)
@@ -369,13 +371,13 @@ In this Blog Post, I share some of the things I have learned so far while workin
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-s893od6.jpeg)
 In this post, we offer details for developers who are planning to build a Slack integration for their notification system.
 
-### [92. 10 Web Designing Institute In Chennai To Learn Web Development](https://hackernoon.com/top-10-web-designing-institute-in-india-to-learn-web-designing-course-x8h2dk3)
-![](https://cdn.hackernoon.com/drafts/ro24d2gpv.png)
-Web designing is where you design your UX/UI with blasts of colors, attractive structure, font and text styles, images, graphics for a well interactive web page for your user. In order to stand out of the crowd, you need to acquire adequate knowledge in different areas of the field. 
-
-### [93. Meet the HackerNoon Top Writers: Writing Through the Noise of AI with Albert Lie](https://hackernoon.com/meet-the-hackernoon-top-writers-writing-through-the-noise-of-ai-with-albert-lie)
+### [92. Meet the HackerNoon Top Writers: Writing Through the Noise of AI with Albert Lie](https://hackernoon.com/meet-the-hackernoon-top-writers-writing-through-the-noise-of-ai-with-albert-lie)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-r60346h.png)
 Meet Albert Lie, Co-Founder & CTO of Forward Labs, in his interview with HackerNoon Writers Spotlight, talking about writing amid the Noise of AI.
+
+### [93. 10 Web Designing Institute In Chennai To Learn Web Development](https://hackernoon.com/top-10-web-designing-institute-in-india-to-learn-web-designing-course-x8h2dk3)
+![](https://cdn.hackernoon.com/drafts/ro24d2gpv.png)
+Web designing is where you design your UX/UI with blasts of colors, attractive structure, font and text styles, images, graphics for a well interactive web page for your user. In order to stand out of the crowd, you need to acquire adequate knowledge in different areas of the field. 
 
 ### [94. Studying Engineering in the UK: What Courses and Which Universities?](https://hackernoon.com/studying-engineering-in-the-uk-what-courses-and-which-universities)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-gu931if.jpeg)
@@ -397,46 +399,46 @@ It all started when we ordered an actuator, with an encoder, from China for a pr
 ![](https://cdn.hackernoon.com/images/Jbv61SoMcENMPm2lc557EfdNNtN2-v38g3148.jpeg)
 Learn how finite state machines or automatons can be used to process text with nodejs
 
-### [99. In Brief: What You Should Expect from A Full-Stack Dev](https://hackernoon.com/what-would-you-expect-from-full-stack-development-company-q9543zu3)
-![](https://cdn.hackernoon.com/drafts/wl173z0c.png)
-Hiring a full stack development company or developer reduces the need to hire too many resources in-house for product development. Broadly speaking, the software development process is divided into two parts:
+### [99. Developing, Packaging and Distributing a Python Library](https://hackernoon.com/developing-packaging-and-distributing-a-python-library)
+![](https://cdn.hackernoon.com/images/3IsSQpnu88cRkat5gOsYPSwjrNj1-nf93jma.jpeg)
+How to use new packaging standards with virtual environment tools — adapted from the official documentations of python.org and Pipenv
 
 ### [100. Sensor-based Control in Cobots: Its Opportunities and Challenges](https://hackernoon.com/sensor-based-control-in-cobots-its-opportunities-and-challenges)
 ![](https://cdn.hackernoon.com/images/gem6U6JuqSdkAdgNraPt6d2uFQ53-1h93njy.jpeg)
 Introduction of the very basic formulation of the major sensor-servo problem, and then presenting its most common approaches like touch-based,
 
-### [101. Developing, Packaging and Distributing a Python Library](https://hackernoon.com/developing-packaging-and-distributing-a-python-library)
-![](https://cdn.hackernoon.com/images/3IsSQpnu88cRkat5gOsYPSwjrNj1-nf93jma.jpeg)
-How to use new packaging standards with virtual environment tools — adapted from the official documentations of python.org and Pipenv
+### [101. In Brief: What You Should Expect from A Full-Stack Dev](https://hackernoon.com/what-would-you-expect-from-full-stack-development-company-q9543zu3)
+![](https://cdn.hackernoon.com/drafts/wl173z0c.png)
+Hiring a full stack development company or developer reduces the need to hire too many resources in-house for product development. Broadly speaking, the software development process is divided into two parts:
 
 ### [102. The Rise of Reusable SQL-based Data Modeling Tools and DataOps services](https://hackernoon.com/the-resurgence-of-sql-based-rdbms-if-there-is-one-analytics-trend-we-can-all-agree-on-it-is-that-we-0iy32i5)
 ![](https://cdn.hackernoon.com/images/sem232o6.jpg)
 The resurgence of SQL-based RDBMS
 
-### [103. The 4 Mindsets of a Great Startup Engineer](https://hackernoon.com/the-4-mindsets-of-a-great-startup-engineer-pj5234v9)
-![](https://cdn.hackernoon.com/images/5B8aGYVpn2hDtn7sZ2vg5F7sBRw2-w95933y9.png)
-For those looking to leap into the world of startups, here are the four essential mindsets that will make you a successful startup engineer.
-
-### [104. How Should I Prepare For a Technical Interview?](https://hackernoon.com/how-should-i-prepare-for-a-technical-interview)
+### [103. How Should I Prepare For a Technical Interview?](https://hackernoon.com/how-should-i-prepare-for-a-technical-interview)
 ![](https://cdn.hackernoon.com/images/rKGKQDckdbSO34zjM6wAS8sXwWv1-pp93j6c.jpeg)
 Red flag: Individuals who immediately jump into solutions and coding before the interviewer gives them the green light.
+
+### [104. The 4 Mindsets of a Great Startup Engineer](https://hackernoon.com/the-4-mindsets-of-a-great-startup-engineer-pj5234v9)
+![](https://cdn.hackernoon.com/images/5B8aGYVpn2hDtn7sZ2vg5F7sBRw2-w95933y9.png)
+For those looking to leap into the world of startups, here are the four essential mindsets that will make you a successful startup engineer.
 
 ### [105. Binary Lifting and Its Applications](https://hackernoon.com/binary-lifting-and-its-applications)
 ![](https://cdn.hackernoon.com/images/hxgB3A2KjtPk4sJXB1ezGnusKBx1-x093kan.jpeg)
 Binary Lifting and its use in finding Lowest Common Ancestor (LCA). Explore this amazing algorithm that speeds up ancestor queries in the tree data structure. 
 
-### [106. How To Become A Blockchain Developer With Jimmy Song](https://hackernoon.com/how-to-become-a-blockchain-developer-with-jimmy-song-dn7o3pin)
+### [106. Engineering Management: The Nine Challenges  ](https://hackernoon.com/engineering-management-the-nine-challenges-365t3evm)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-vd353euf.jpeg?alt=media&token=cea56bae-1116-433c-be71-c7156fa170d8)
+“I would describe an engineering manager as a Sergeant Major. They are very much part of the mission delivery team and manage a group of experts to perform specific tasks,” says David Ives, Engineering Manager at Pusher.
+
+### [107. How To Become A Blockchain Developer With Jimmy Song](https://hackernoon.com/how-to-become-a-blockchain-developer-with-jimmy-song-dn7o3pin)
 ![](https://cdn.hackernoon.com/drafts/p22493pp1.png)
 One of the hardest things about running or scaling any technology business is finding good developers especially when it comes to Blockchain. Everyone wants ninja engineers who can pull a rabbit out of a hat, but they are unicorns. The ones I know are either founders, co-founders, CTO’s or in some senior engineering role being paid a ransom.
 
 
-### [107. A Simple Mistake That Costs Engineers Time and Money](https://hackernoon.com/a-simple-mistake-that-costs-engineers-time-and-money-9l1ag30is)
+### [108. A Simple Mistake That Costs Engineers Time and Money](https://hackernoon.com/a-simple-mistake-that-costs-engineers-time-and-money-9l1ag30is)
 ![](https://cdn.hackernoon.com/drafts/ny19q30tc.png)
 This expensive trap is easily avoided by approaching problems from the right mindset.
-
-### [108. Engineering Management: The Nine Challenges  ](https://hackernoon.com/engineering-management-the-nine-challenges-365t3evm)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-vd353euf.jpeg?alt=media&token=cea56bae-1116-433c-be71-c7156fa170d8)
-“I would describe an engineering manager as a Sergeant Major. They are very much part of the mission delivery team and manage a group of experts to perform specific tasks,” says David Ives, Engineering Manager at Pusher.
 
 ### [109. USAF's New Strategy for Future Tech](https://hackernoon.com/usafs-new-strategy-for-future-tech-67133u1h)
 ![](https://cdn.hackernoon.com/images/cb6p3wkg.jpg)
@@ -446,276 +448,296 @@ Key takeaways from Dr. Will Roper, Assistant Secretary of the Air Force for Acqu
 ![](https://cdn.hackernoon.com/drafts/ihi3ae0.png)
 I got 99 problems but my branching strategy ain't one.
 
-### [111. Top Machine Learning Algorithms](https://hackernoon.com/top-machine-learning-algorithms-r7t32z6)
-![](https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-For newbies, machine learning algorithms may seem too boring and complicated. Well, to some extent, this is true. In most cases, you stumble upon a few-page description for each algorithm and yes, it’s hard to find time and energy to deal with each and every detail. However, if you truly, madly, deeply want to be an ML-expert, you have to brush up your knowledge regarding it and there is no other way to be. But relax, today I will try to simplify this task and explain core principles of 10 most common algorithms in simple words (each includes a brief description, guides, and useful links). So, breath in, breath out, and let’s get started!
-
-### [112. What Can IoT Tech do for the Automobile Industry?](https://hackernoon.com/what-can-iot-tech-do-for-the-automobile-industry)
+### [111. What Can IoT Tech do for the Automobile Industry?](https://hackernoon.com/what-can-iot-tech-do-for-the-automobile-industry)
 ![](https://cdn.hackernoon.com/images/nQusoKyTgKbi9zm9Pa7sVekSV553-3492orn.jpeg)
 The (IoT) is a setup that takes all the physical computing devices and connects them to the Internet, providing them with UID and the ability to transfer data.
+
+### [112. Top Machine Learning Algorithms](https://hackernoon.com/top-machine-learning-algorithms-r7t32z6)
+![](https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+For newbies, machine learning algorithms may seem too boring and complicated. Well, to some extent, this is true. In most cases, you stumble upon a few-page description for each algorithm and yes, it’s hard to find time and energy to deal with each and every detail. However, if you truly, madly, deeply want to be an ML-expert, you have to brush up your knowledge regarding it and there is no other way to be. But relax, today I will try to simplify this task and explain core principles of 10 most common algorithms in simple words (each includes a brief description, guides, and useful links). So, breath in, breath out, and let’s get started!
 
 ### [113. How to Go About Building a WebAssembly Language for Fun and Profit ](https://hackernoon.com/how-to-go-about-building-a-webassembly-language-for-fun-and-profit)
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-6ub3oix.jpeg)
 This guide provides a simple overview designed to help get your feet wet in building languages and exploring the inner workings of WebAssembly
 
-### [114. A Path to a Successful IoT Startup](https://hackernoon.com/a-path-to-a-successful-iot-startup-6n2n3yx9)
+### [114. What Is Harness Engineering?](https://hackernoon.com/what-is-harness-engineering)
+![](https://cdn.hackernoon.com/images/MuZ7dLLOimhbe3Z3Tn8Iui1GYz43-mp83hza.jpeg)
+How stepping away from the keyboard became the most powerful thing a builder can do.
+
+### [115. A Path to a Successful IoT Startup](https://hackernoon.com/a-path-to-a-successful-iot-startup-6n2n3yx9)
 ![](https://images.unsplash.com/photo-1532188363366-3a1b2ac4a338?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 There are so many industries that are flourishing today, but we’d say the most promising area is anything connected with the IoT — the Internet of Things. Why? Because IoT is taking over more and more areas of our lives, starting from the simple act of connecting your phone to your TV set. For this reason, let’s take a look at:
 
-### [115. 10 Best VS Code Extensions to Improve Your Productivity](https://hackernoon.com/10-best-vs-code-extensions-to-improve-your-productivity-391g371z)
+### [116. 10 Best VS Code Extensions to Improve Your Productivity](https://hackernoon.com/10-best-vs-code-extensions-to-improve-your-productivity-391g371z)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-mo3l35fx.jpeg)
 I asked developers in my team what VS Code extensions they use to boost their productivity, and here’s what they said.
 
-### [116. Your SaaS User Communications: Don't Overlook the Security Issues](https://hackernoon.com/your-saas-user-communications-dont-overlook-the-security-issues)
+### [117. Your SaaS User Communications: Don't Overlook the Security Issues](https://hackernoon.com/your-saas-user-communications-dont-overlook-the-security-issues)
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-dw93np2.jpeg)
 In this article, we cover why you should look closely at how secure your customer communications are and implement strict security measures for emails, push not
 
-### [117. The Non-Technical Founder](https://hackernoon.com/the-non-technical-founder-a59ab7508018)
+### [118. The Non-Technical Founder](https://hackernoon.com/the-non-technical-founder-a59ab7508018)
 ![](https://hackernoon.com/hn-images/0*KRN-NY5XBFdnf-4u.jpg)
 I have been speaking to Coworking spaces, Incubators and Accelerators across London and it has become apparent that there is a common problem arising from non-technical startup founders. This transcends the culture, this impacts more than just female or minority-led startups.
 
-### [118. Bye Bye Google: How I Botched My Company's Launch After Leaving](https://hackernoon.com/bye-bye-google-how-i-botched-my-companys-launch-after-leaving-iv833yld)
+### [119. Bye Bye Google: How I Botched My Company's Launch After Leaving](https://hackernoon.com/bye-bye-google-how-i-botched-my-companys-launch-after-leaving-iv833yld)
 ![](https://cdn.hackernoon.com/drafts/gw1536eb.png)
 I like to analyze my past work through the prism of evaluating my mistakes (I’m sure my therapist would have a field day with that one). I launched my first publicly available engineering project in early December and as George W. Bush once said, “Mistakes were made”.
 
-### [119. Helping My Engineering Friend Build a Text Classifier](https://hackernoon.com/helping-my-engineering-friend-build-a-text-classifier)
+### [120. Helping My Engineering Friend Build a Text Classifier](https://hackernoon.com/helping-my-engineering-friend-build-a-text-classifier)
 ![](https://cdn.hackernoon.com/images/lsDIIdQCayYoreyVyKVsDN2UpdV2-6y93rhl.jpeg)
 My engineering friend, let’s address him as Mr. Wolf 🐺 (identify hidden), requested a 1:1 call to help him fix his classification model.
 
-### [120. How To Prepare For A Technical Interview](https://hackernoon.com/how-to-prepare-for-a-technical-interview-yb3c33ap)
-![](https://cdn.hackernoon.com/images/sTYtL95YQgMhq7PQ36vEbuJNsRm2-0t132386.jpeg)
-As an engineer you will face several controversial situations when looking for a new job. I've been there too and now I'm sharing what worked for me.
-
-### [121. Elegance as a Law of Harmony: An Engineer’s View of Tech Business Growth and Management ](https://hackernoon.com/elegance-as-a-law-of-harmony-an-engineers-view-of-tech-business-growth-and-management)
-![](https://cdn.hackernoon.com/images/ug1gSvov2VRED0I0BHZSsIsCEq23-xca3rj7.jpeg)
-Nataliia Zub shared her perspective about secure digital transformation, risk management in times of crisis, as well as Engineering Leadership as a mindset.
-
-### [122. The Brain, The Body, and The Blue Screen: Why I’m Quitting Hardware](https://hackernoon.com/the-brain-the-body-and-the-blue-screen-why-im-quitting-hardware)
+### [121. The Brain, The Body, and The Blue Screen: Why I’m Quitting Hardware](https://hackernoon.com/the-brain-the-body-and-the-blue-screen-why-im-quitting-hardware)
 ![](https://cdn.hackernoon.com/images/HqBNpfClEPOWXHMUs4YEiALeN2n2-vr03aas.png)
 I have a visual disability—20/400 vision in my right eye and zero peripheral vision. This makes hardware terrifying.
 
-### [123. A Simple CDN Speed Test Script in Python](https://hackernoon.com/a-simple-cdn-speed-test-script-in-python)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-oaf35jp.jpeg)
-Here is a simple python script I use to speed test CDNs. It’s open-sourced under an MIT license.
+### [122. Elegance as a Law of Harmony: An Engineer’s View of Tech Business Growth and Management ](https://hackernoon.com/elegance-as-a-law-of-harmony-an-engineers-view-of-tech-business-growth-and-management)
+![](https://cdn.hackernoon.com/images/ug1gSvov2VRED0I0BHZSsIsCEq23-xca3rj7.jpeg)
+Nataliia Zub shared her perspective about secure digital transformation, risk management in times of crisis, as well as Engineering Leadership as a mindset.
 
-### [124. Daily Standup Meeting Is Wasting Your Time](https://hackernoon.com/daily-standup-meeting-is-wasting-your-time-1ss3270)
-![](https://images.unsplash.com/37/tEREUy1vSfuSu8LzTop3_IMG_2538.jpg?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Here is how I saved my team 2200 hours annually not to do it.
+### [123. How To Prepare For A Technical Interview](https://hackernoon.com/how-to-prepare-for-a-technical-interview-yb3c33ap)
+![](https://cdn.hackernoon.com/images/sTYtL95YQgMhq7PQ36vEbuJNsRm2-0t132386.jpeg)
+As an engineer you will face several controversial situations when looking for a new job. I've been there too and now I'm sharing what worked for me.
 
-### [125. A CyberSecurity Mindset  May Involve Being The Guy With The Most Negative Attitude](https://hackernoon.com/a-cybersecurity-mindset-may-involve-being-the-guy-with-the-most-negative-attitude-cf4435ll)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-fxu3zmv.jpeg)
-We cannot solve the problem if we use the wrong mindset. A security mindset is risk-based, contextual, and ultimately ensures nothing happens.
-
-### [126. 4 Core Principles of Pragmatic Engineering](https://hackernoon.com/4-core-principles-of-pragmatic-engineering)
+### [124. 4 Core Principles of Pragmatic Engineering](https://hackernoon.com/4-core-principles-of-pragmatic-engineering)
 ![](https://cdn.hackernoon.com/images/z2Iy8u5EY7TxhoyVl5XlRLEkCSx2-vna335i.jpeg)
 The following principles will save you time, money, energy, and increase the probability of your organization’s success.
 
-### [127. How to Build a WebAssembly Language for Fun and Profit](https://hackernoon.com/how-to-build-a-webassembly-language-for-fun-and-profit)
+### [125. A Simple CDN Speed Test Script in Python](https://hackernoon.com/a-simple-cdn-speed-test-script-in-python)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-oaf35jp.jpeg)
+Here is a simple python script I use to speed test CDNs. It’s open-sourced under an MIT license.
+
+### [126. Daily Standup Meeting Is Wasting Your Time](https://hackernoon.com/daily-standup-meeting-is-wasting-your-time-1ss3270)
+![](https://images.unsplash.com/37/tEREUy1vSfuSu8LzTop3_IMG_2538.jpg?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Here is how I saved my team 2200 hours annually not to do it.
+
+### [127. How Frontier Labs Use FP8 to Train Faster and Spend Less](https://hackernoon.com/how-frontier-labs-use-fp8-to-train-faster-and-spend-less)
+![](https://cdn.hackernoon.com/images/xfsFctZLE6a0UdK3UZyiDlDHMfk2-qbu3cne.png)
+Naively casting to FP8 destroys your numerics. Here's the per-tensor and blockwise quantization mechanics that make it actually work at pretraining scale.
+
+### [128. How to Build a WebAssembly Language for Fun and Profit](https://hackernoon.com/how-to-build-a-webassembly-language-for-fun-and-profit)
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-ih93nja.jpeg)
 The final phase of our compiler is code generation. This phase takes the AST and converts it to a set of executable instructions. In our case, WebAssembly. 
 
 
-### [128. Bitcoin Ultimatum – The Next Generation Bitcoin by Nikolay Udianskyi](https://hackernoon.com/the-good-the-bad-and-the-ugly-aspects-of-video-games-xw5n3b20)
+### [129. A CyberSecurity Mindset  May Involve Being The Guy With The Most Negative Attitude](https://hackernoon.com/a-cybersecurity-mindset-may-involve-being-the-guy-with-the-most-negative-attitude-cf4435ll)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-fxu3zmv.jpeg)
+We cannot solve the problem if we use the wrong mindset. A security mindset is risk-based, contextual, and ultimately ensures nothing happens.
+
+### [130. Bitcoin Ultimatum – The Next Generation Bitcoin by Nikolay Udianskyi](https://hackernoon.com/the-good-the-bad-and-the-ugly-aspects-of-video-games-xw5n3b20)
 ![](https://cdn.hackernoon.com/images/ilg52iqg.jpg)
 Cryptocurrencies have proven to be the most innovative technology to be developed in a while. From making payments and settling remittances to serving as a hedge for investments and helping to transfer assets over a secure and anonymous network, there are various uses of cryptocurrencies- and each of them continued to get developed almost as the days go by.
 
-### [129. What is a Perfect Duty Engineer?](https://hackernoon.com/perfect-duty-engineer)
+### [131. What is a Perfect Duty Engineer?](https://hackernoon.com/perfect-duty-engineer)
 ![](https://cdn.hackernoon.com/images/y15VP55pk7TqOGhAcD3MsToJGnk1-j392ick.jpeg)
 Tools and skills for great duty and on-call for engineers.
 
-### [130. How to Become a Quality Assurance Engineer](https://hackernoon.com/how-to-become-a-quality-assurance-engineer)
+### [132. How to Become a Quality Assurance Engineer](https://hackernoon.com/how-to-become-a-quality-assurance-engineer)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-oz93v15.jpeg)
 A Quality Assurance (QA) Engineer is a professional who tests software during the entire development process. 
 
-### [131. The Big O](https://hackernoon.com/the-big-o)
+### [133. The Big O](https://hackernoon.com/the-big-o)
 ![](https://cdn.hackernoon.com/images/E9wk9VmYAffu4uCpvu3n5aJXn1L2-xhc2fwk.jpeg)
 The Big O is a way to measure how well your code solves a problem
-
-### [132. How to Become a DevOps Engineer in 2022 (with Resources)](https://hackernoon.com/how-to-become-a-devops-engineer-in-2022-with-resources)
-![](https://cdn.hackernoon.com/images/q4jUepDWV5h0iWw9JO2xESWTeNz1-w6b3drt.jpeg)
-Want to become a DevOps Engineer? Here is a roadmap and resources to become a DevOps engineer.
-
-### [133. How to build a Slack App more reliable then Slack](https://hackernoon.com/how-to-build-a-slack-app-more-reliable-then-a-slack-0n4m33zch)
-![](https://cdn.hackernoon.com/images/8p2q3z9u.jpg)
-When I started working on a start-up nine months ago, this statement didn’t satisfy me or my co-founders:
 
 ### [134. Are Stablecoins Actually Stable?](https://hackernoon.com/stablecoins-are-they-really-stable-time-as-the-most-valuable-asset-they-can-be-pegged-to)
 ![](https://cdn.hackernoon.com/images/kHmjlBgSzubv4ecXBQJFooO88AF2-ta93lcg.jpeg)
 Unlike highly volatile popular cryptocurrencies, stablecoins are virtual assets that maintain their value since they are pegged to less volatile assets.
 
-### [135. Rails and Laravel Explained With Basic MVC Structure](https://hackernoon.com/rails-and-laravel-explained-with-basic-mvc-b6222gal)
-![](https://cdn.hackernoon.com/images/vo1f2gxl.jpg)
-Ok, first of all, this isn’t an article about which framework is better since they have different base languages.
+### [135. How to Become a DevOps Engineer in 2022 (with Resources)](https://hackernoon.com/how-to-become-a-devops-engineer-in-2022-with-resources)
+![](https://cdn.hackernoon.com/images/q4jUepDWV5h0iWw9JO2xESWTeNz1-w6b3drt.jpeg)
+Want to become a DevOps Engineer? Here is a roadmap and resources to become a DevOps engineer.
 
-### [136. Computer Architect Creates History: One Of The Youngest Ever To Receive Elite Engineering Accolade](https://hackernoon.com/computer-architect-creates-history-one-of-the-youngest-ever-to-receive-elite-engineering-accolade)
+### [136. How to build a Slack App more reliable then Slack](https://hackernoon.com/how-to-build-a-slack-app-more-reliable-then-a-slack-0n4m33zch)
+![](https://cdn.hackernoon.com/images/8p2q3z9u.jpg)
+When I started working on a start-up nine months ago, this statement didn’t satisfy me or my co-founders:
+
+### [137. Computer Architect Creates History: One Of The Youngest Ever To Receive Elite Engineering Accolade](https://hackernoon.com/computer-architect-creates-history-one-of-the-youngest-ever-to-receive-elite-engineering-accolade)
 ![](https://cdn.hackernoon.com/images/88uWqVknF7VJRL9QFgBe8kS59O53-6a92mn1.jpeg)
 Dr. Akash Sridhar, a top computer architecture expert has made history by being awarded the prestigious title of Fellow by the Institution of Engineering and Te
 
-### [137. 5 Ways to Get Kids Interested in Stem](https://hackernoon.com/5-ways-to-get-kids-interested-in-stem)
-![](https://cdn.hackernoon.com/images/QCzUXmup1gWrS723VFnOS8C4jQ03-lv93pgp.jpeg)
-Studying STEM has become crucial for students who want to be part of an innovative, rapidly growing industry with excellent career prospects.
+### [138. Rails and Laravel Explained With Basic MVC Structure](https://hackernoon.com/rails-and-laravel-explained-with-basic-mvc-b6222gal)
+![](https://cdn.hackernoon.com/images/vo1f2gxl.jpg)
+Ok, first of all, this isn’t an article about which framework is better since they have different base languages.
 
-### [138. Top 3 Metrics For Engineering Team Performance](https://hackernoon.com/top-3-metrics-for-engineering-team-performance-fe23374x)
-![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-vb563529.png)
-What’s the overall performance of your engineering team? Let’s look at how we can improve your team’s performance.
-
-### [139. Startups of The Year: Meet the Engineering Industry](https://hackernoon.com/startups-of-the-year-meet-the-engineering-industry)
-![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-l7034w8.png)
-This series will detail our Startups of the Year key industries and demonstrate how HackerNoon can help you explore them further. Today's Industry: Engineering!
-
-### [140. Code Reviews And Why They Matter For Developers Performace](https://hackernoon.com/code-reviews-and-why-they-matter-618i3zv6)
-![](https://cdn.hackernoon.com/images/t57y3zxd.jpg)
-We used to think that the secret to getting better at anything was directly linked to the timed dedicated to practice (we’ve all heard about the 10, 000 hours that stand between us and achieving mastery in any field) but, as in turns out, it’s not how much we practice but also how we do it. According to psychologist Andres Ericsson, “deliberate practice” is what matters and makes a huge difference in achieving expert performance.
-
-### [141. The Key Differences Between Consumer and Industrial Hardware Development](https://hackernoon.com/the-key-differences-between-consumer-and-industrial-hardware-development)
+### [139. The Key Differences Between Consumer and Industrial Hardware Development](https://hackernoon.com/the-key-differences-between-consumer-and-industrial-hardware-development)
 ![](https://cdn.hackernoon.com/images/LEymvvrtvURIHWScxGtFiYzJjRf2-cke3pe7.jpeg)
 The term “industrial electronics” refers to any electrical equipment or system used for manufacturing goods or participating in this process indirectly. 
 
-### [142. How to Build Tech with Less ](https://hackernoon.com/how-to-build-tech-with-less)
+### [140. 5 Ways to Get Kids Interested in Stem](https://hackernoon.com/5-ways-to-get-kids-interested-in-stem)
+![](https://cdn.hackernoon.com/images/QCzUXmup1gWrS723VFnOS8C4jQ03-lv93pgp.jpeg)
+Studying STEM has become crucial for students who want to be part of an innovative, rapidly growing industry with excellent career prospects.
+
+### [141. How to Build Tech with Less ](https://hackernoon.com/how-to-build-tech-with-less)
 ![](https://cdn.hackernoon.com/images/8tR681X1Hmb7PC7rYRqH5Pj6S1K3-0g93pzv.jpeg)
 Co-founder and engineering lead of a fast-growth tech company explains how he's built innovative tech with just a team of four.
 
-### [143. Incorporating Art into Engineering by Introducing the STEAM Approach](https://hackernoon.com/incorporating-art-into-engineering-by-introducing-the-steam-approach)
+### [142. Startups of The Year: Meet the Engineering Industry](https://hackernoon.com/startups-of-the-year-meet-the-engineering-industry)
+![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-l7034w8.png)
+This series will detail our Startups of the Year key industries and demonstrate how HackerNoon can help you explore them further. Today's Industry: Engineering!
+
+### [143. Top 3 Metrics For Engineering Team Performance](https://hackernoon.com/top-3-metrics-for-engineering-team-performance-fe23374x)
+![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-vb563529.png)
+What’s the overall performance of your engineering team? Let’s look at how we can improve your team’s performance.
+
+### [144. Incorporating Art into Engineering by Introducing the STEAM Approach](https://hackernoon.com/incorporating-art-into-engineering-by-introducing-the-steam-approach)
 ![](https://cdn.hackernoon.com/images/HkmXgPuVwSNu66hEcBWdvrCCWl72-j0636sp.jpeg)
 There is a perception that science, technology, and the arts are separate vocations. The STEAM approach incorporates the arts and sciences.
 
-### [144. How Serverless Can Encourage Good Engineering Practices](https://hackernoon.com/how-serverless-can-encourage-good-engineering-practices-do3t335g)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-i92l33df.jpeg)
-In this article, we list the seven reasons why and how serverless computing enables useful engineering practices.
+### [145. Code Reviews And Why They Matter For Developers Performace](https://hackernoon.com/code-reviews-and-why-they-matter-618i3zv6)
+![](https://cdn.hackernoon.com/images/t57y3zxd.jpg)
+We used to think that the secret to getting better at anything was directly linked to the timed dedicated to practice (we’ve all heard about the 10, 000 hours that stand between us and achieving mastery in any field) but, as in turns out, it’s not how much we practice but also how we do it. According to psychologist Andres Ericsson, “deliberate practice” is what matters and makes a huge difference in achieving expert performance.
 
-### [145. How I Manufactured and Sold Electronic Badges - Part 1: Designing and Prototyping the Board](https://hackernoon.com/how-i-manufactured-and-sold-electronic-badges-part-1-designing-and-prototyping-the-board)
+### [146. How I Manufactured and Sold Electronic Badges - Part 1: Designing and Prototyping the Board](https://hackernoon.com/how-i-manufactured-and-sold-electronic-badges-part-1-designing-and-prototyping-the-board)
 ![](https://cdn.hackernoon.com/images/HroytlnOQUWUlDlZjpb6ofRFEWy1-23a2sbn.jpeg)
 My experience designing and manufacturing a 'social battery' pin badge to sell online.
 
-### [146. Jargon Is Killing Your Leadership: You Should Be Doing This Instead](https://hackernoon.com/jargon-is-killing-your-leadership-you-should-be-doing-this-instead)
+### [147. How Serverless Can Encourage Good Engineering Practices](https://hackernoon.com/how-serverless-can-encourage-good-engineering-practices-do3t335g)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-i92l33df.jpeg)
+In this article, we list the seven reasons why and how serverless computing enables useful engineering practices.
+
+### [148. Jargon Is Killing Your Leadership: You Should Be Doing This Instead](https://hackernoon.com/jargon-is-killing-your-leadership-you-should-be-doing-this-instead)
 ![](https://cdn.hackernoon.com/images/BGxDwa3b3xZ4ElWzxNjNLDk81R02-t4537gr.jpeg)
 Effective communication as an engineering leader is about striking the right balance between clarity and engagement.
 
-### [147. 3 Ways Personal Projects Make You A Better Developer](https://hackernoon.com/3-ways-personal-projects-make-you-a-better-developer-pez53sh1)
-![](https://cdn.hackernoon.com/drafts/65z03sww.png)
-
-
-### [148. Leading By Letting Go. How To Quit Disturbing Your Engineering Team From Growing](https://hackernoon.com/leading-by-letting-go-how-to-quit-disturbing-your-engineering-team-from-growing)
+### [149. Leading By Letting Go. How To Quit Disturbing Your Engineering Team From Growing](https://hackernoon.com/leading-by-letting-go-how-to-quit-disturbing-your-engineering-team-from-growing)
 ![](https://cdn.hackernoon.com/images/CJGeZq7y46aN4NEpsZipLLReLrg2-7z93siy.jpeg)
 In this article, Taras Lazoriv, Advanced Software Engineer at Innovecs, shares his leadership experience and thoughts on growing an engineering team.
 
-### [149. 5 Skills Every Successful ML Engineer Should Have](https://hackernoon.com/5-skills-every-successful-ml-engineer-should-have)
+### [150. 3 Ways Personal Projects Make You A Better Developer](https://hackernoon.com/3-ways-personal-projects-make-you-a-better-developer-pez53sh1)
+![](https://cdn.hackernoon.com/drafts/65z03sww.png)
+
+
+### [151. 5 Skills Every Successful ML Engineer Should Have](https://hackernoon.com/5-skills-every-successful-ml-engineer-should-have)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6c92gmd.jpeg)
 Uncover the five essential skills every successful machine learning engineer should have. Boost your ML engineering career with these invaluable insights.
 
-### [150. Top Five Frameworks For Hybrid App Development](https://hackernoon.com/best-hybrid-app-development-for-2020-7kkq3618)
-![](https://cdn.hackernoon.com/drafts/2lko361l.png)
-Whenever the company decides to make a mobile application, the most important they are looking for efficient ways to implement the idea.
-
-### [151. How (And Why) to Determine Power Factor for Medical Devices](https://hackernoon.com/how-and-why-to-determine-power-factor-for-medical-devices)
+### [152. How (And Why) to Determine Power Factor for Medical Devices](https://hackernoon.com/how-and-why-to-determine-power-factor-for-medical-devices)
 ![](https://cdn.hackernoon.com/images/thomas-edison-looking-at-the-lightbulb-clhsn7q5f000001s6131m8kgf.png)
 Power factor is classically defined as the cosine of the angle between the root mean square (RMS) AC voltage.
 
-### [152. Expressing Gains in PID Controllers Through Mathematical Notation](https://hackernoon.com/expressing-gains-in-pid-controllers-through-mathematical-notation)
-![](https://cdn.hackernoon.com/images/LEymvvrtvURIHWScxGtFiYzJjRf2-ro93qp8.jpeg)
-In this paper, we analyze the mathematical representations of PID controller gains used to tune the algorithm.
-
-### [153. 5 Lessons Learned from Hiring Engineers: Here’s What Talent Managers are Doing Wrong](https://hackernoon.com/5-lessons-learned-from-hiring-engineers-heres-what-talent-managers-are-doing-wrong-ep1u33u9)
-![](https://cdn.hackernoon.com/images/A2NuQGtNJ2cgz2Q6lKliUK0DpZt2-us2k3217.jpeg)
-Hiring a skilled engineer is crucial your project - that's you want to get it right. Here are 5 lessons we learned from helping companies hire engineers. 
+### [153. Top Five Frameworks For Hybrid App Development](https://hackernoon.com/best-hybrid-app-development-for-2020-7kkq3618)
+![](https://cdn.hackernoon.com/drafts/2lko361l.png)
+Whenever the company decides to make a mobile application, the most important they are looking for efficient ways to implement the idea.
 
 ### [154. Why Product-Driven Teams Ship, and Engineering-Led Ones Stall](https://hackernoon.com/why-product-driven-teams-ship-and-engineering-led-ones-stall)
 ![](https://cdn.hackernoon.com/images/l0Lh8qR0PhPBZ5GgRLHnB3Bl3az1-z513osy.jpeg)
 Goodness Kayode shares why product-led teams ship faster than engineering-led teams.
 
-### [155. How Shortage of Labor Will Create More AI & Automation Careers](https://hackernoon.com/how-shortage-of-labor-will-create-more-ai-and-automation-careers)
+### [155. Expressing Gains in PID Controllers Through Mathematical Notation](https://hackernoon.com/expressing-gains-in-pid-controllers-through-mathematical-notation)
+![](https://cdn.hackernoon.com/images/LEymvvrtvURIHWScxGtFiYzJjRf2-ro93qp8.jpeg)
+In this paper, we analyze the mathematical representations of PID controller gains used to tune the algorithm.
+
+### [156. 5 Lessons Learned from Hiring Engineers: Here’s What Talent Managers are Doing Wrong](https://hackernoon.com/5-lessons-learned-from-hiring-engineers-heres-what-talent-managers-are-doing-wrong-ep1u33u9)
+![](https://cdn.hackernoon.com/images/A2NuQGtNJ2cgz2Q6lKliUK0DpZt2-us2k3217.jpeg)
+Hiring a skilled engineer is crucial your project - that's you want to get it right. Here are 5 lessons we learned from helping companies hire engineers. 
+
+### [157. How Shortage of Labor Will Create More AI & Automation Careers](https://hackernoon.com/how-shortage-of-labor-will-create-more-ai-and-automation-careers)
 ![](https://cdn.hackernoon.com/images/EAoWSsrWAFZTtjOYXmIuIN8lRBI2-2x92d93.jpeg)
 Automation and artificial intelligence technology are beginning to make seismic shifts in the way that things are done in today’s world. From making certain processes more streamlined to replacing humans with machinery, these forms of technology are ushering in a new age of productivity, optimization, and efficiency. 
 
-### [156. 200+ Software Engineers Taught Me The Best Way To Manage Technical Debt](https://hackernoon.com/200-software-engineers-taught-me-the-best-way-to-manage-technical-debt-8l3a3zu6)
+### [158. 200+ Software Engineers Taught Me The Best Way To Manage Technical Debt](https://hackernoon.com/200-software-engineers-taught-me-the-best-way-to-manage-technical-debt-8l3a3zu6)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FySpu1hBXHrMRvb88XyZUQgx0l4K2-5x4r3wbr.jpeg?alt=media&token=bac02515-7ef0-4142-8248-a1a961153d18)
 Over the last six months, I’ve learned how the best software engineers and leaders manage technical debt. I've interviewed more than 200 experts, to understand how tech debt is handled at growing software companies.
-
-### [157. How to Make a DevOps Strategy](https://hackernoon.com/how-to-make-a-devops-strategy-pk153uyb)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-s8123wp8.jpeg?alt=media&token=860d68f8-d6f4-4314-9826-1d593bd21af5)
-DevOps is a deployment process that helps automate a lot of processes that used to take a team hours to days to get through. When you are trying to get that process going, you need to know that everyone is on-board or else it won't work. Switching from Waterfall deployments to DevOps is a huge organizational change.
-
-### [158. Bias in development and why it's dangerous](https://hackernoon.com/bias-in-development-and-why-its-dangerous-226z328y)
-![](https://cdn.hackernoon.com/drafts/2ws324t.png)
-A short story about Alice. 
 
 ### [159. Software Engineer Performance Review are a Paradox](https://hackernoon.com/software-engineer-performance-review-are-a-paradox)
 ![](https://cdn.hackernoon.com/images/Y5xUDKXadXQIeyMZaO8cLhZMnGi2-pr93kov.jpeg)
 Performance reviews play a big role in the operation of the organization.
 
-### [160. Not Too Dry: How to Showcase SDKs by Keeping Application Code Simple](https://hackernoon.com/not-too-dry-how-to-showcase-sdks-by-keeping-application-code-simple)
+### [160. Bias in development and why it's dangerous](https://hackernoon.com/bias-in-development-and-why-its-dangerous-226z328y)
+![](https://cdn.hackernoon.com/drafts/2ws324t.png)
+A short story about Alice. 
+
+### [161. How to Make a DevOps Strategy](https://hackernoon.com/how-to-make-a-devops-strategy-pk153uyb)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-s8123wp8.jpeg?alt=media&token=860d68f8-d6f4-4314-9826-1d593bd21af5)
+DevOps is a deployment process that helps automate a lot of processes that used to take a team hours to days to get through. When you are trying to get that process going, you need to know that everyone is on-board or else it won't work. Switching from Waterfall deployments to DevOps is a huge organizational change.
+
+### [162. Not Too Dry: How to Showcase SDKs by Keeping Application Code Simple](https://hackernoon.com/not-too-dry-how-to-showcase-sdks-by-keeping-application-code-simple)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-gs93vk7.jpeg)
 Above all else, the sample apps team wanted these products to serve as teaching tools for engineers.
 
-### [161. These 2 Mental Models Will Determine Whether Your AI Startup Will Last](https://hackernoon.com/these-2-mental-models-will-determine-whether-your-ai-startup-will-last)
+### [163. These 2 Mental Models Will Determine Whether Your AI Startup Will Last](https://hackernoon.com/these-2-mental-models-will-determine-whether-your-ai-startup-will-last)
 ![](https://cdn.hackernoon.com/images/dgG6Ydpg5FP7vNR3lIVAKS7a8gx2-rd031gw.png)
 2 Mental models for predicting which AI products will create and capture the most amount of value in the next 24 months.
 
-### [162. Software Developers Can Build Beautiful Software: Here's How](https://hackernoon.com/software-developers-can-build-beautiful-software-heres-how)
+### [164. Software Developers Can Build Beautiful Software: Here's How](https://hackernoon.com/software-developers-can-build-beautiful-software-heres-how)
 ![](https://cdn.hackernoon.com/images/l61ol1hTJBfErW28zenWXvgU7l52-388307z.jpeg)
 Software developers can build beautiful software. A comprehensive guide detailing how developers can design beautiful and elegant software.
 
-### [163. What Is Harness Engineering?](https://hackernoon.com/what-is-harness-engineering)
-![](https://cdn.hackernoon.com/images/MuZ7dLLOimhbe3Z3Tn8Iui1GYz43-mp83hza.jpeg)
-How stepping away from the keyboard became the most powerful thing a builder can do.
-
-### [164. Hiring an Engineer: 7 Different Types of Engineering Interviews](https://hackernoon.com/hiring-an-engineer-7-different-types-of-engineering-interviews)
-![](https://cdn.hackernoon.com/images/9qHd24jMwUgVhRjFKOxlxzDVQaq2-hx93gur.jpeg)
-These are 7 Different Types of Engineering interviews that engineers may come when searching for jobs, including those used by large companies like Google.
-
-### [165. What is an AI agent?](https://hackernoon.com/what-is-an-ai-agent)
-![](https://cdn.hackernoon.com/images/GEzHv2fimSWJ4R67IRgO30ruaCb2-4ib3z70.jpeg)
-Agentification of everything is temporary. Here is what the term "AI agent" could mean.
-
-### [166. Efficient Enterprise Data Solutions With Stream Processing](https://hackernoon.com/efficient-enterprise-data-solutions-with-stream-processing)
+### [165. Efficient Enterprise Data Solutions With Stream Processing](https://hackernoon.com/efficient-enterprise-data-solutions-with-stream-processing)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-eza2pfv.jpeg)
 Enterprise data solutions—handling myriad data sources and massive data volume—are expensive. Stream processing reduces costs and brings real-time scalability.
 
-### [167. The Noonification: DeFi May Save The World Financially (8/27/2022)](https://hackernoon.com/8-27-2022-noonification)
+### [166. Hiring an Engineer: 7 Different Types of Engineering Interviews](https://hackernoon.com/hiring-an-engineer-7-different-types-of-engineering-interviews)
+![](https://cdn.hackernoon.com/images/9qHd24jMwUgVhRjFKOxlxzDVQaq2-hx93gur.jpeg)
+These are 7 Different Types of Engineering interviews that engineers may come when searching for jobs, including those used by large companies like Google.
+
+### [167. What is an AI agent?](https://hackernoon.com/what-is-an-ai-agent)
+![](https://cdn.hackernoon.com/images/GEzHv2fimSWJ4R67IRgO30ruaCb2-4ib3z70.jpeg)
+Agentification of everything is temporary. Here is what the term "AI agent" could mean.
+
+### [168. The Noonification: DeFi May Save The World Financially (8/27/2022)](https://hackernoon.com/8-27-2022-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 8/27/2022: Top 5 stories on the Hackernoon homepage!
 
-### [168. Agile is "The Best"!](https://hackernoon.com/agile-is-the-best-13w3usb)
+### [169. Agile is "The Best"!](https://hackernoon.com/agile-is-the-best-13w3usb)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBZfsDQXMOBR4IM2Hg048MOYnWEs1-b653ubw.jpeg?alt=media&token=2616ab1c-4af3-4e28-982c-9424fb71c50e)
 I was asked to answer the Quora question, “Why is the Agile model the best”. 
-
-### [169. Adopt a DevOps Culture Before Looking for DevOps Engineers](https://hackernoon.com/adopt-a-devops-culture-before-looking-for-devops-engineers-do533uol)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaOMBiR4535W8zWy17Ay54mCQux13-kbb28d0.jpeg?alt=media&token=338e3ae7-bc93-425f-b117-cd757707b693)
-Job specs for DevOps engineer jobs often mention a vast variety of duties and responsibilities. Are they hiring for a single role or a whole team?
 
 ### [170. A Q&A With Slack's Rukmini Reddy on Data-Driven Mentorship, Career Paths, and Belonging](https://hackernoon.com/a-qanda-with-slacks-rukmini-reddy-on-data-driven-mentorship-career-paths-and-belonging)
 ![](https://cdn.hackernoon.com/images/QliruVK1cgQIvQ4wCknVeQTEZDt1-v7a3pg4.jpeg)
 Hear Rukmini Reddy's story - Slack SVP of Engineering and Twilio Developer Searchlight Honoree
 
-### [171. Interviewing Top Talent, Made Easy](https://hackernoon.com/interviewing-senior-talent-made-easy-pz1fy389a)
-![](https://cdn.hackernoon.com/drafts/xb1937cv.png)
-Hiring senior talent doesn’t have to be hard with this simple process.
-
-### [172. How Engineering Leaders Can Prioritize Code Quality](https://hackernoon.com/how-engineering-leaders-can-prioritize-code-quality)
+### [171. How Engineering Leaders Can Prioritize Code Quality](https://hackernoon.com/how-engineering-leaders-can-prioritize-code-quality)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-4yg3rxj.jpeg)
 Learn why code quality matters, the most important metrics you need to manage quality, and how to track and manage code quality issues.
 
-### [173. How to Consistently Deliver Your Projects on Time: 5 Tips to Follow](https://hackernoon.com/how-to-consistently-deliver-your-projects-on-time-5-tips-to-follow)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-jl13b3s.jpeg)
-The bread and butter of knowledge work is figuring out what needs to be done, in what order, and what can be cut.
+### [172. Adopt a DevOps Culture Before Looking for DevOps Engineers](https://hackernoon.com/adopt-a-devops-culture-before-looking-for-devops-engineers-do533uol)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaOMBiR4535W8zWy17Ay54mCQux13-kbb28d0.jpeg?alt=media&token=338e3ae7-bc93-425f-b117-cd757707b693)
+Job specs for DevOps engineer jobs often mention a vast variety of duties and responsibilities. Are they hiring for a single role or a whole team?
+
+### [173. Interviewing Top Talent, Made Easy](https://hackernoon.com/interviewing-senior-talent-made-easy-pz1fy389a)
+![](https://cdn.hackernoon.com/drafts/xb1937cv.png)
+Hiring senior talent doesn’t have to be hard with this simple process.
 
 ### [174. Simplifying Amazon S3: A Must-Read for AWS Associate Certification](https://hackernoon.com/simplifying-amazon-s3-a-must-read-for-aws-associate-certification)
 ![](https://cdn.hackernoon.com/images/VOqer0x035MrTBhszpB3PF2doL52-vc035hp.gif.webp)
 Discover essential AWS S3 knowledge for Associate AWS Solution Architects. Learn key features, use cases, and best practices to master this crucial AWS storage
 
-### [175. Finding A Software Developer Mentor When You're A Newbie](https://hackernoon.com/finding-a-software-developer-mentor-when-youre-a-newbie-7t6132ns)
+### [175. How to Consistently Deliver Your Projects on Time: 5 Tips to Follow](https://hackernoon.com/how-to-consistently-deliver-your-projects-on-time-5-tips-to-follow)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-jl13b3s.jpeg)
+The bread and butter of knowledge work is figuring out what needs to be done, in what order, and what can be cut.
+
+### [176. The n8n + PostgreSQL Integration Nobody Talks About](https://hackernoon.com/the-n8n-postgresql-integration-nobody-talks-about)
+![](https://cdn.hackernoon.com/images/pF2ttKW6mMgUxpPmiaJBxTofQdn2-6j83hp1.webp)
+Every tutorial covers the happy path. Nobody talks about what happens the second time your sync runs — duplicate records, Salesforce's 2,000-record pagination.
+
+### [177. Finding A Software Developer Mentor When You're A Newbie](https://hackernoon.com/finding-a-software-developer-mentor-when-youre-a-newbie-7t6132ns)
 ![](https://cdn.hackernoon.com/images/hiBZYKUE6eSMbNqS3hVGEQ91emH2-bg5h32xl.jpeg)
 Your first job as a software developer can be very challenging. Having a mentor to discuss your industry-related challenges can be key to your career.
 
-### [176. "The pandemic has literally changed my perspective towards life" – Karan Jagota, 2020 Noonie Nominee](https://hackernoon.com/the-pandemic-has-literally-changed-my-perspective-towards-life-karan-jagota-2020-noonie-nominee-zf4h3uxg)
+### [178. "The pandemic has literally changed my perspective towards life" – Karan Jagota, 2020 Noonie Nominee](https://hackernoon.com/the-pandemic-has-literally-changed-my-perspective-towards-life-karan-jagota-2020-noonie-nominee-zf4h3uxg)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-vr473up7.jpeg?alt=media&token=073e25dc-dd1d-4782-95f2-415926b19500)
 Hacker Noon's annual Noonie awards help shine a spotlight on some of the greatest minds in tech. Head over to our awards page and nominate YOUR best people and products today at NOONIES.TECH.
 
-### [177. Introduction to a Career in Data Engineering](https://hackernoon.com/introduction-to-a-career-in-data-engineering)
+### [179. Introduction to a Career in Data Engineering](https://hackernoon.com/introduction-to-a-career-in-data-engineering)
 ![](https://cdn.hackernoon.com/images/lo4HVoscl4cgeiMrC6BRRx9HbrR2-kf037i5.jpeg)
 A valuable asset for anyone looking to break into the Data Engineering field is understanding the different types of data and the Data Pipeline.
 
-### [178. How CodeClimate's VP of Engineering Used Data to Support Our Engineering Team on a Human Level](https://hackernoon.com/how-codeclimates-vp-of-engineering-used-data-to-support-our-engineering-team-on-a-human-level-xxlo3yox)
+### [180. Happy Pride Month From HackerNoon!](https://hackernoon.com/happy-pride-month-from-hackernoon)
+![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-xj93vic.jpeg)
+A code of solidarity. 
+
+### [181. When It's 3AM and Your App is on Fire: How Distributed Tracing Saves the Day](https://hackernoon.com/when-its-3am-and-your-app-is-on-fire-how-distributed-tracing-saves-the-day)
+![](https://cdn.hackernoon.com/images/NJOIwiz8UeXYqPiHqbg3I9xK7J82-d1039ls.png)
+Discover how distributed tracing helps developers debug complex microservices at 3AM, turning chaos into clarity in minutes, not hours.
+
+### [182. How Does a Steam Turbine work?](https://hackernoon.com/how-does-a-steam-turbine-work)
+![](https://cdn.hackernoon.com/images/dnYvaJIz3yg6iVUnr6qTeMGBijH2-5p6c35dq.jpeg)
+A steam turbine is a device that converts the thermal energy of steam pressure into mechanical energy, where the steam is expanded in stages in the turbine to d
+
+### [183. How CodeClimate's VP of Engineering Used Data to Support Our Engineering Team on a Human Level](https://hackernoon.com/how-codeclimates-vp-of-engineering-used-data-to-support-our-engineering-team-on-a-human-level-xxlo3yox)
 ![](https://images.unsplash.com/photo-1495592822108-9e6261896da8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 When global circumstances required our team to go completely remote, we knew things would be tough. Team members wouldn’t just be working from home; they’d be working from home during a time of intense fear and uncertainty, with a myriad of new concerns and distractions. We expected that engineering activity would decline as a result, and we were understanding — as our VP of Engineering, Ale Paredes, explained during a panel on working remotely through the crisis, “We're not trying to behave as if it's business as usual, because it's not business as usual.” 
 
@@ -723,95 +745,75 @@ But when Ale checked the team’s productivity metrics in Velocity, our engineer
 
 To find out why the team wasn’t making progress, Ale dug deeper into the data. Not only did she find answers, she used that information to develop better ways to support the team.
 
-### [179. When It's 3AM and Your App is on Fire: How Distributed Tracing Saves the Day](https://hackernoon.com/when-its-3am-and-your-app-is-on-fire-how-distributed-tracing-saves-the-day)
-![](https://cdn.hackernoon.com/images/NJOIwiz8UeXYqPiHqbg3I9xK7J82-d1039ls.png)
-Discover how distributed tracing helps developers debug complex microservices at 3AM, turning chaos into clarity in minutes, not hours.
+### [184. “](https://hackernoon.com/growth-hacking-isnt-the-goal-how-stitch-fix-approaches-product-onboarding-tb24d3zav)
+![](https://cdn.hackernoon.com/images/at25x3zg5.jpg)
 
-### [180. Happy Pride Month From HackerNoon!](https://hackernoon.com/happy-pride-month-from-hackernoon)
-![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-xj93vic.jpeg)
-A code of solidarity. 
 
-### [181. Model Paradigm for Engineering](https://hackernoon.com/model-paradigm-for-engineering-f17g36rg)
+### [185. Model Paradigm for Engineering](https://hackernoon.com/model-paradigm-for-engineering-f17g36rg)
 ![](https://images.unsplash.com/photo-1511970093628-4e9f59378b4d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Model-Based Engineering (MBE) is getting more attention these days and in order to explore it, I came up with this certain sort of a roadmap.
 
-### [182. The Difference Between ML Engineers & Data Scientists](https://hackernoon.com/the-difference-between-ml-engineers-and-data-scientists)
+### [186. The Difference Between ML Engineers & Data Scientists](https://hackernoon.com/the-difference-between-ml-engineers-and-data-scientists)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-lr92g8k.jpeg)
 Explore the differences between MLOps Engineer vs Data Scientist roles, focusing on their expertise, collaboration, and model lifecycle.
 
-### [183. The Devils 0666 File Creation Permission](https://hackernoon.com/the-devils-file-creation-permission-da61324k)
+### [187. Navigating Startup Storms: The Crucial Role of a Product Engineer](https://hackernoon.com/navigating-startup-storms-the-crucial-role-of-a-product-engineer)
+![](https://cdn.hackernoon.com/images/generate-an-image-that-captures-the-dynamic-essence-of-a-startup-journey-symbolizing-challenges-resilience-include-elements-of-growth-technology-tools-and-the-startup-ecosystem-the-image-should-evoke-a-sense-of-adventure-and-the-determination-to-navigate-through-the-stormy-seas-of-entrepreneurs-lv1jut8dupxy7b81h8yn6wx7.png)
+Explore the rollercoaster of startups, the role of a 'Product Engineer,' and crucial lessons for early-stage success.
+
+### [188. The Devils 0666 File Creation Permission](https://hackernoon.com/the-devils-file-creation-permission-da61324k)
 ![](https://cdn.hackernoon.com/drafts/3u81322y.png)
 As far as I can tell, this is hard-coded into standard utilities. I straced both a touch creating a new file and a mkdir creating a new directory.
 
 The touch trace produced this:
 
-### [184. “](https://hackernoon.com/growth-hacking-isnt-the-goal-how-stitch-fix-approaches-product-onboarding-tb24d3zav)
-![](https://cdn.hackernoon.com/images/at25x3zg5.jpg)
-
-
-### [185. How Does a Steam Turbine work?](https://hackernoon.com/how-does-a-steam-turbine-work)
-![](https://cdn.hackernoon.com/images/dnYvaJIz3yg6iVUnr6qTeMGBijH2-5p6c35dq.jpeg)
-A steam turbine is a device that converts the thermal energy of steam pressure into mechanical energy, where the steam is expanded in stages in the turbine to d
-
-### [186. Navigating Startup Storms: The Crucial Role of a Product Engineer](https://hackernoon.com/navigating-startup-storms-the-crucial-role-of-a-product-engineer)
-![](https://cdn.hackernoon.com/images/generate-an-image-that-captures-the-dynamic-essence-of-a-startup-journey-symbolizing-challenges-resilience-include-elements-of-growth-technology-tools-and-the-startup-ecosystem-the-image-should-evoke-a-sense-of-adventure-and-the-determination-to-navigate-through-the-stormy-seas-of-entrepreneurs-lv1jut8dupxy7b81h8yn6wx7.png)
-Explore the rollercoaster of startups, the role of a 'Product Engineer,' and crucial lessons for early-stage success.
-
-### [187. What are Default Interface Methods in C# 8.0?](https://hackernoon.com/what-are-default-interface-methods-in-c-80-9y4y3yol)
+### [189. What are Default Interface Methods in C# 8.0?](https://hackernoon.com/what-are-default-interface-methods-in-c-80-9y4y3yol)
 ![](https://cdn.hackernoon.com/drafts/sxir3zui.png)
 Introduction
 
-### [188. The History and Future of CAD in Engineering](https://hackernoon.com/the-history-and-future-of-cad-in-engineering)
-![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-z303btr.jpeg)
- The first CAD hardware system, the Dimension III Systems from Calma, was operable with a keyboard and stylus.
-
-### [189. From Microsoft Teams to Democratizing AI for Small Businesses: The Journey Of Vinod Kumar](https://hackernoon.com/from-microsoft-teams-to-democratizing-ai-for-small-businesses-the-journey-of-vinod-kumar)
+### [190. From Microsoft Teams to Democratizing AI for Small Businesses: The Journey Of Vinod Kumar](https://hackernoon.com/from-microsoft-teams-to-democratizing-ai-for-small-businesses-the-journey-of-vinod-kumar)
 ![](https://cdn.hackernoon.com/images/hAIOr5Wt5ZgalZEgw4QLgOMBa003-75838m3.jpeg)
 Explore the remarkable journey of Vinod Kumar, an engineer whose passion for computers led to transformative contributions. 
-
-### [190. The 10x value isn't all originating from the engineer, though](https://hackernoon.com/those-are-not-10x-engineers-youre-talking-about-wa2cj3cbr)
-![](https://cdn.hackernoon.com/drafts/yi2hf3ccy.png)
-There's been a lot of discussion on Twitter recently about so-called 10x engineers. 
 
 ### [191. How to Win as an Associate Software Engineer](https://hackernoon.com/how-to-win-as-an-associate-software-engineer)
 ![](https://cdn.hackernoon.com/images/UeoHX6TCUvc8YoIqScisslDrmr73-i5a3brl.jpeg)
 Being a new engineer can be challenging, but you can rock the role if you know how. Hint: not deleting the production database helps.
 
-### [192. Beyond Numbers: Embracing Contextual Intelligence in Engineering Leadership](https://hackernoon.com/beyond-numbers-embracing-contextual-intelligence-in-engineering-leadership)
-![](https://cdn.hackernoon.com/images/RfaByq6jrSdkVOFkt36mB7zTYME3-q793z41.jpeg)
-This article explores the gap between engineering teams and their leaders, highlighting the importance of cohesion and alignment
-
-### [193. What Career Path Should Software Engineers Take: Startup vs. Big Company](https://hackernoon.com/what-career-path-should-software-engineers-take-startup-vs-big-company)
-![](https://cdn.hackernoon.com/images/rKGKQDckdbSO34zjM6wAS8sXwWv1-hu038gs.jpeg)
-Startup vs. Big Company. This article outlines key questions to ask yourself before making your next career move as a software engineer.
-
-### [194. How to Prepare for a Technical,  Software Engineering Interview](https://hackernoon.com/how-to-prepare-for-a-technical-software-engineering-interview)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-y103o0k.jpeg)
-Technical interviews are daunting, here is a guide to help you through the process. 
-
-### [195. How Computers Are Designed for Extreme Environments](https://hackernoon.com/how-computers-are-designed-for-extreme-environments)
-![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-ea035xg.jpeg)
-Some computers have to operate in extreme cold and heat, and even in space. How are these devices designed to withstand such environments?
-
-### [196. Here's How to Escape the Hectic Assembly Line](https://hackernoon.com/heres-how-to-escape-the-hectic-assembly-line)
-![](https://cdn.hackernoon.com/images/ojSdI4tVIxUSuoz0H6IGOPjWPpu2-br038hm.jpeg)
-To address the work-life balance problem, there are several options we can explore, such as delegating tasks within the team or improving time management
-
-### [197. How Ricky Zhang Is Pioneering the Hybrid Role of Design Engineering](https://hackernoon.com/how-ricky-zhang-is-pioneering-the-hybrid-role-of-design-engineering)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-6k032ti.png)
-Ricky Zhang is a design engineer at Mintlify, a San Francisco-based company that uses AI to help developers create and maintain documentation.
-
-### [198. From Breadboard to Classroom: The Long Journey of Educational Hardware Prototypes](https://hackernoon.com/from-breadboard-to-classroom-the-long-journey-of-educational-hardware-prototypes)
-![](https://cdn.hackernoon.com/images/oGjLt7fd0jbdRaJOwpP6nniAXoV2-jr02233.png)
-From messy breadboards to polished classroom tools - a firsthand look at the real engineering challenges behind turning educational hardware ideas into reality.
-
-### [199. AI: Concise Prompts Are the New Command Line for Network Engineers](https://hackernoon.com/ai-concise-prompts-are-the-new-command-line-for-network-engineers)
+### [192. AI: Concise Prompts Are the New Command Line for Network Engineers](https://hackernoon.com/ai-concise-prompts-are-the-new-command-line-for-network-engineers)
 ![](https://cdn.hackernoon.com/images/nfzxvhhEKETh44kJrLda6JEOBMW2-uy03b9h.jpeg)
 Discover how network engineers can leverage concise AI prompts as the modern command line, boosting efficiency and automation in network management.
 
-### [200. Launching the Impossible Engineering Challenge](https://hackernoon.com/launching-the-impossible-engineering-challenge-xzs34q8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgpabZ3ae5AMod6NEaJWlcWwdp7G2-fe1n13ff.jpeg?alt=media&token=3b8772c0-4bac-42e0-b500-0e2eab9573a3)
-Currently, in order to promote the open innovation license, I have decided to launch an engineering challenge. 
+### [193. Beyond Numbers: Embracing Contextual Intelligence in Engineering Leadership](https://hackernoon.com/beyond-numbers-embracing-contextual-intelligence-in-engineering-leadership)
+![](https://cdn.hackernoon.com/images/RfaByq6jrSdkVOFkt36mB7zTYME3-q793z41.jpeg)
+This article explores the gap between engineering teams and their leaders, highlighting the importance of cohesion and alignment
+
+### [194. How Computers Are Designed for Extreme Environments](https://hackernoon.com/how-computers-are-designed-for-extreme-environments)
+![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-ea035xg.jpeg)
+Some computers have to operate in extreme cold and heat, and even in space. How are these devices designed to withstand such environments?
+
+### [195. The 10x value isn't all originating from the engineer, though](https://hackernoon.com/those-are-not-10x-engineers-youre-talking-about-wa2cj3cbr)
+![](https://cdn.hackernoon.com/drafts/yi2hf3ccy.png)
+There's been a lot of discussion on Twitter recently about so-called 10x engineers. 
+
+### [196. What Career Path Should Software Engineers Take: Startup vs. Big Company](https://hackernoon.com/what-career-path-should-software-engineers-take-startup-vs-big-company)
+![](https://cdn.hackernoon.com/images/rKGKQDckdbSO34zjM6wAS8sXwWv1-hu038gs.jpeg)
+Startup vs. Big Company. This article outlines key questions to ask yourself before making your next career move as a software engineer.
+
+### [197. Here's How to Escape the Hectic Assembly Line](https://hackernoon.com/heres-how-to-escape-the-hectic-assembly-line)
+![](https://cdn.hackernoon.com/images/ojSdI4tVIxUSuoz0H6IGOPjWPpu2-br038hm.jpeg)
+To address the work-life balance problem, there are several options we can explore, such as delegating tasks within the team or improving time management
+
+### [198. How to Prepare for a Technical,  Software Engineering Interview](https://hackernoon.com/how-to-prepare-for-a-technical-software-engineering-interview)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-y103o0k.jpeg)
+Technical interviews are daunting, here is a guide to help you through the process. 
+
+### [199. Motion Without Translation: Why Fast Teams Slowly Lose the Plot](https://hackernoon.com/motion-without-translation-why-fast-teams-slowly-lose-the-plot)
+![](https://cdn.hackernoon.com/images/1vQ6UmzaynWRRSMXjFIX7TLZBpe2-1y03hf9.png)
+Why fast-moving teams lose alignment without realizing it—and how execution velocity can quietly erase shared understanding.
+
+### [200. How Ricky Zhang Is Pioneering the Hybrid Role of Design Engineering](https://hackernoon.com/how-ricky-zhang-is-pioneering-the-hybrid-role-of-design-engineering)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-6k032ti.png)
+Ricky Zhang is a design engineer at Mintlify, a San Francisco-based company that uses AI to help developers create and maintain documentation.
 
 ### [201. Test Smarter, Not Harder: How Purpose-Built Test Management Tools Outperform Spreadsheets](https://hackernoon.com/test-smarter-not-harder-how-purpose-built-test-management-tools-outperform-spreadsheets)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-sn02vz9.jpeg)
@@ -821,313 +823,337 @@ Why modern test management tools outperform spreadsheets when organising data.
 ![](https://cdn.hackernoon.com/images/EeG8WGFw4EUuYZvRw0Sc5HS9Kzl1-e103fux.jpeg)
 An off-ramp is needed for tech training to continue its relevance in the post-employment age. This will be a fundamental re-design of training. 
 
-### [203. Motion Without Translation: Why Fast Teams Slowly Lose the Plot](https://hackernoon.com/motion-without-translation-why-fast-teams-slowly-lose-the-plot)
-![](https://cdn.hackernoon.com/images/1vQ6UmzaynWRRSMXjFIX7TLZBpe2-1y03hf9.png)
-Why fast-moving teams lose alignment without realizing it—and how execution velocity can quietly erase shared understanding.
+### [203. The Limitations of Text Embeddings in RAG Applications: A Deep Engineering Dive](https://hackernoon.com/the-limitations-of-text-embeddings-in-rag-applications-a-deep-engineering-dive)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ie022ty.jpeg)
+Text embeddings are a powerful tool, but they are not a silver bullet.
 
-### [204. Why Implementing Modular Robotic Systems in the CPG Sector is Crucial in 2023](https://hackernoon.com/why-implementing-modular-robotic-systems-in-the-cpg-sector-is-crucial-in-2023)
-![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-gia3qhq.jpeg)
-An interview with Svyat Stesin, the CEO of rexR, a company that designs, produces, and implements high-speed industrial robots and robotic systems
+### [204. Launching the Impossible Engineering Challenge](https://hackernoon.com/launching-the-impossible-engineering-challenge-xzs34q8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgpabZ3ae5AMod6NEaJWlcWwdp7G2-fe1n13ff.jpeg?alt=media&token=3b8772c0-4bac-42e0-b500-0e2eab9573a3)
+Currently, in order to promote the open innovation license, I have decided to launch an engineering challenge. 
 
-### [205. AI Is Making Our Concrete Buildings And Bridges Safer](https://hackernoon.com/ai-is-making-our-concrete-buildings-and-bridges-safer-a43937rc)
-![](https://cdn.hackernoon.com/images/Kyy5p4Pob6VF0xa8TwiHQYZZ1QL2-4n3k351w.jpeg)
-AIs application to civil engineering and concrete construction is the future of structural safety. There have been various successful & innovative applications.
-
-### [206. Incident Management Process: How to Train For The Tech-Fu ](https://hackernoon.com/incident-management-process-how-to-train-for-the-tech-fu-80133uqt)
-![](https://images.unsplash.com/photo-1530417838433-4b24dd3f72d4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-A well-known expression states “Hope for the best and prepare for the worst” — I was repeating it to myself over and over again while traveling between countries and offices with my 6 hours long, 220 slides, just-theory-no-practice incident management training. It was a fantastic experience, and I got great feedback. But today, three years later, I think it was one of the most stupid ideas of mine.
-
-### [207. Fueling Success: Empowering Engineering Teams through Ownership and Accountability](https://hackernoon.com/fueling-success-empowering-engineering-teams-through-ownership-and-accountability)
+### [205. Fueling Success: Empowering Engineering Teams through Ownership and Accountability](https://hackernoon.com/fueling-success-empowering-engineering-teams-through-ownership-and-accountability)
 ![](https://cdn.hackernoon.com/images/WSUjyKfry1UDbm8VmU8kGIQagr72-xq93ytj.jpeg)
 This text discusses the importance of trust, ownership, and accountability in engineering teams and how they contribute to fostering growth and development.
 
-### [208. Courier's Journey to Becoming HIPAA-Compliant](https://hackernoon.com/couriers-journey-to-becoming-hipaa-compliant)
+### [206. Why Implementing Modular Robotic Systems in the CPG Sector is Crucial in 2023](https://hackernoon.com/why-implementing-modular-robotic-systems-in-the-cpg-sector-is-crucial-in-2023)
+![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-gia3qhq.jpeg)
+An interview with Svyat Stesin, the CEO of rexR, a company that designs, produces, and implements high-speed industrial robots and robotic systems
+
+### [207. Incident Management Process: How to Train For The Tech-Fu ](https://hackernoon.com/incident-management-process-how-to-train-for-the-tech-fu-80133uqt)
+![](https://images.unsplash.com/photo-1530417838433-4b24dd3f72d4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+A well-known expression states “Hope for the best and prepare for the worst” — I was repeating it to myself over and over again while traveling between countries and offices with my 6 hours long, 220 slides, just-theory-no-practice incident management training. It was a fantastic experience, and I got great feedback. But today, three years later, I think it was one of the most stupid ideas of mine.
+
+### [208. AI Is Making Our Concrete Buildings And Bridges Safer](https://hackernoon.com/ai-is-making-our-concrete-buildings-and-bridges-safer-a43937rc)
+![](https://cdn.hackernoon.com/images/Kyy5p4Pob6VF0xa8TwiHQYZZ1QL2-4n3k351w.jpeg)
+AIs application to civil engineering and concrete construction is the future of structural safety. There have been various successful & innovative applications.
+
+### [209. Courier's Journey to Becoming HIPAA-Compliant](https://hackernoon.com/couriers-journey-to-becoming-hipaa-compliant)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-lz93sah.jpeg)
 This article explains why SaaS companies should be HIPAA compliant, why this is important for our company, and the steps we took to get here.
 
-### [209. Why I Spent Years Writing a Children’s Book on Data Science](https://hackernoon.com/why-i-spent-years-writing-a-childrens-book-on-data-science-4m5p33u0)
+### [210. Why I Spent Years Writing a Children’s Book on Data Science](https://hackernoon.com/why-i-spent-years-writing-a-childrens-book-on-data-science-4m5p33u0)
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-agi33o1.jpeg)
 I wrote a children's book on data science to inform others who have a hard time understanding data science and machine learning concepts, especially kids!
 
-### [210. My Experience with Scala](https://hackernoon.com/my-experience-with-scala)
-![](https://cdn.hackernoon.com/images/XP2vqzbciwaV8mAkRID4EhDyq3o1-p693l69.jpeg)
- If you are learning scala or wondering if you should use for new project in your organisation, I suggest that you do. As always, see if scala and scala’s ecosy
-
-### [211. Beyond the Hype: Why a “Trust Gap” Forced My Custom Voice AI Architecture](https://hackernoon.com/beyond-the-hype-why-a-trust-gap-forced-my-custom-voice-ai-architecture)
-![](https://cdn.hackernoon.com/images/TFLLC6I9hQNQIgaPZe3aztpL9H62-t433djz.jpeg)
-Learn how a Fortune 500 IT Director bridges the "Trust Gap" in Voice AI with a modular "Buy Fast, Build Safe" architecture designed for regulated industries.
-
-### [212. Meet the Writer: HackerNoon's Contributor Ally Haire, Developer Relations Engineer](https://hackernoon.com/meet-the-writer-hackernoons-contributor-ally-haire-developer-relations-engineer)
-![](https://cdn.hackernoon.com/images/ObHpUBhgwmh4jL47oSP2xNsYUN52-xg93gd3.jpeg)
- I’m Ally and I work as a Developer Relations Engineer - currently in the decentralized web space (aka web3).
-
-### [213. Meet the Writer: HackerNoon's Contributor David Finson, Software Engineer](https://hackernoon.com/meet-the-writer-hackernoons-contributor-david-finson-software-engineer)
-![](https://cdn.hackernoon.com/images/vBTWKG5mIAPUpw518dIq2QvB4zy2-hb93ojq.jpeg)
-I channel that passion by working on open-source projects like the Apifi Java GraphQL framework...
-
-### [214. Meet Fedor Yaremenko: Senior Software Engineer and Glider Pilot](https://hackernoon.com/meet-fedor-yaremenko-senior-software-engineer-and-glider-pilot)
+### [211. Meet Fedor Yaremenko: Senior Software Engineer and Glider Pilot](https://hackernoon.com/meet-fedor-yaremenko-senior-software-engineer-and-glider-pilot)
 ![](https://cdn.hackernoon.com/images/bu2EcgsBMkb4EPIleKDsMfYfLKF3-cm92dys.jpeg)
 Hi, my name is Fedor Yaremenko. I have 10+ years of experience in software development. I have developed Java enterprise applications for the past eight years.
 
-### [215. Can You Land a Junior Role as a Dev Ops Engineer?](https://hackernoon.com/can-you-land-a-junior-role-as-a-dev-ops-engineer)
+### [212. Beyond the Hype: Why a “Trust Gap” Forced My Custom Voice AI Architecture](https://hackernoon.com/beyond-the-hype-why-a-trust-gap-forced-my-custom-voice-ai-architecture)
+![](https://cdn.hackernoon.com/images/TFLLC6I9hQNQIgaPZe3aztpL9H62-t433djz.jpeg)
+Learn how a Fortune 500 IT Director bridges the "Trust Gap" in Voice AI with a modular "Buy Fast, Build Safe" architecture designed for regulated industries.
+
+### [213. My Experience with Scala](https://hackernoon.com/my-experience-with-scala)
+![](https://cdn.hackernoon.com/images/XP2vqzbciwaV8mAkRID4EhDyq3o1-p693l69.jpeg)
+ If you are learning scala or wondering if you should use for new project in your organisation, I suggest that you do. As always, see if scala and scala’s ecosy
+
+### [214. Meet the Writer: HackerNoon's Contributor Ally Haire, Developer Relations Engineer](https://hackernoon.com/meet-the-writer-hackernoons-contributor-ally-haire-developer-relations-engineer)
+![](https://cdn.hackernoon.com/images/ObHpUBhgwmh4jL47oSP2xNsYUN52-xg93gd3.jpeg)
+ I’m Ally and I work as a Developer Relations Engineer - currently in the decentralized web space (aka web3).
+
+### [215. Meet the Writer: HackerNoon's Contributor David Finson, Software Engineer](https://hackernoon.com/meet-the-writer-hackernoons-contributor-david-finson-software-engineer)
+![](https://cdn.hackernoon.com/images/vBTWKG5mIAPUpw518dIq2QvB4zy2-hb93ojq.jpeg)
+I channel that passion by working on open-source projects like the Apifi Java GraphQL framework...
+
+### [216. Meet the Writer: Danielle Gruber, Lover of Brains & Student of Engineering](https://hackernoon.com/meet-the-writer-danielle-gruber-lover-of-brains-and-student-of-engineering)
+![](https://cdn.hackernoon.com/images/4ubEk77saieDAikHeJ91Nove1au1-bt23azi.gif.webp)
+My name's Danielle and I'm an electrical engineering major with a passion for neuroscience. 
+
+### [217. Can You Land a Junior Role as a Dev Ops Engineer?](https://hackernoon.com/can-you-land-a-junior-role-as-a-dev-ops-engineer)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-bd03ol0.jpeg)
 You'll see "junior" level DevOps and SRE roles. You'll also see several people asking how to get into DevOps or SRE as a junior-level candidate. 
 
-### [216. On the Exportation of Machinery](https://hackernoon.com/on-the-exportation-of-machinery)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-fja3swn.jpeg)
-Thus, therefore, the machine-maker is himself interested in giving the first advantage of any new improvement to his own countrymen.
-
-### [217. Insights and Tips From a Lead Engineer](https://hackernoon.com/insights-and-tips-from-a-lead-engineer)
+### [218. Insights and Tips From a Lead Engineer](https://hackernoon.com/insights-and-tips-from-a-lead-engineer)
 ![](https://cdn.hackernoon.com/images/yJx6Jb9xDbaeUH6oktJcQUQy9xR2-ug1330q.png)
 Top tips from an engineer communication, deliver results, read code, solve problems, stay curious, and maintain work-life balance etc. to succeed in career.
 
 
-### [218. Meet the Writer: Danielle Gruber, Lover of Brains & Student of Engineering](https://hackernoon.com/meet-the-writer-danielle-gruber-lover-of-brains-and-student-of-engineering)
-![](https://cdn.hackernoon.com/images/4ubEk77saieDAikHeJ91Nove1au1-bt23azi.gif.webp)
-My name's Danielle and I'm an electrical engineering major with a passion for neuroscience. 
+### [219. On the Exportation of Machinery](https://hackernoon.com/on-the-exportation-of-machinery)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-fja3swn.jpeg)
+Thus, therefore, the machine-maker is himself interested in giving the first advantage of any new improvement to his own countrymen.
 
-### [219. The Limitations of Text Embeddings in RAG Applications: A Deep Engineering Dive](https://hackernoon.com/the-limitations-of-text-embeddings-in-rag-applications-a-deep-engineering-dive)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ie022ty.jpeg)
-Text embeddings are a powerful tool, but they are not a silver bullet.
+### [220. Diego Landi Is Bringing AI Discipline to America’s Housing Infrastructure](https://hackernoon.com/diego-landi-is-bringing-ai-discipline-to-americas-housing-infrastructure)
+![](https://cdn.hackernoon.com/images/WzArTxLr3oO6legAd66a4kbGNGh1-51a3bo6.jpeg)
+Diego Landi is applying AI, engineering rigor, and systems thinking to modernize affordable housing and construction delivery in South Florida.
 
-### [220. Solving Access to Finance for Underserved Communities: Interview with Supratik Mukherjee](https://hackernoon.com/solving-access-to-finance-for-underserved-communities-interview-with-supratik-mukherjee)
+### [221. The History and Future of CAD in Engineering](https://hackernoon.com/the-history-and-future-of-cad-in-engineering)
+![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-z303btr.jpeg)
+ The first CAD hardware system, the Dimension III Systems from Calma, was operable with a keyboard and stylus.
+
+### [222. Solving Access to Finance for Underserved Communities: Interview with Supratik Mukherjee](https://hackernoon.com/solving-access-to-finance-for-underserved-communities-interview-with-supratik-mukherjee)
 ![](https://cdn.hackernoon.com/images/NqGcPtSSmAYTeKdDIeaoJymE16i1-v7037q5.jpeg)
 Supratik Mukherjee is the Product Lead at Camino Financial, the first AI-powered Community Development Financial Institution (“neo-CDFI).
 
-### [221. Engineering and Product Teams: Are They Partners or Frenemies?](https://hackernoon.com/engineering-and-product-teams-are-they-partners-or-frenemies)
+### [223. Engineering and Product Teams: Are They Partners or Frenemies?](https://hackernoon.com/engineering-and-product-teams-are-they-partners-or-frenemies)
 ![](https://cdn.hackernoon.com/images/ojSdI4tVIxUSuoz0H6IGOPjWPpu2-0l138ra.jpeg)
 The engineering team and product team cooperate and partner with each other. The deadlines of projects often trigger conflicts.
 
-### [222. 183 Stories To Learn About Engineering](https://hackernoon.com/183-stories-to-learn-about-engineering)
+### [224. 183 Stories To Learn About Engineering](https://hackernoon.com/183-stories-to-learn-about-engineering)
 ![](https://cdn.hackernoon.com/images/github/engineering-0.png)
 Learn everything you need to know about Engineering via these 183 free HackerNoon stories.
-
-### [223. McKinsey is Right About the Future, But They're Missing a Key Detail: It's a Job for a Surgeon](https://hackernoon.com/mckinsey-is-right-about-the-future-but-theyre-missing-a-key-detail-its-a-job-for-a-surgeon)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7a022ix.jpeg)
-AI isn't taking your coding job; it's demanding a better version of you. The future of software engineering isn't about writing boilerplate code.
-
-### [224. Tips for Engineering Graduates](https://hackernoon.com/tips-for-engineering-graduates-ez1u36am)
-![](https://cdn.hackernoon.com/images/xn7f47cf.jpg)
-Mechanical Engineering Graduates, here are some tips to kick-start your career. Because we know how difficult and challenging it is in this domain, with so many unanswered questions, especially for beginners.
 
 ### [225. Startups of The Year 2024: 9,686 Startups Nominated in the Manufacturing Industry](https://hackernoon.com/startups-of-the-year-2024-9686-startups-nominated-in-the-manufacturing-industry)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-2v0343r.png)
 HackerNoon is pleased to announce the nominees for Startups of The Year, featuring the most innovative companies in the Manufacturing Industry.
 
-### [226. The HackerNoon Newsletter: The Brain, The Body, and The Blue Screen: Why I’m Quitting Hardware (1/6/2026)](https://hackernoon.com/1-6-2026-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_386_wzvszvsipxscmxsy8c8anuq0.png)
-1/6/2026: Top 5 stories on the HackerNoon homepage!
+### [226. The "No-Code" Scaling Paradox: Why Your Frankenstein Architecture Will Eventually Fail](https://hackernoon.com/the-no-code-scaling-paradox-why-your-frankenstein-architecture-will-eventually-fail)
+![](https://cdn.hackernoon.com/images/oV93AQV9DjVhuDFOoKFxEoC6PKz2-mi83ckj.png)
+An architectural analysis of why No-Code tools fail at scale, focusing on API latency, technical debt, and the ROI of custom software development. 
 
-### [227. How to Start a Public Invention and Humanitarian Engineering Club at Your University](https://hackernoon.com/how-to-start-a-public-invention-and-humanitarian-engineering-club-at-your-university)
+### [227. From Breadboard to Classroom: The Long Journey of Educational Hardware Prototypes](https://hackernoon.com/from-breadboard-to-classroom-the-long-journey-of-educational-hardware-prototypes)
+![](https://cdn.hackernoon.com/images/oGjLt7fd0jbdRaJOwpP6nniAXoV2-jr02233.png)
+From messy breadboards to polished classroom tools - a firsthand look at the real engineering challenges behind turning educational hardware ideas into reality.
+
+### [228. How to Start a Public Invention and Humanitarian Engineering Club at Your University](https://hackernoon.com/how-to-start-a-public-invention-and-humanitarian-engineering-club-at-your-university)
 ![](https://cdn.hackernoon.com/images/jCVszLVXGtafmK26jlXY8SFFbvO2-sbc935qw.jpeg)
 You should start a student Public Invention and Humanitarian Engineering Club at your University! This is how and why.
 
-### [228. Startups of the Year 2024: Engineering Interview ](https://hackernoon.com/startups-of-the-year-2024-engineering-interview)
+### [229. Tips for Engineering Graduates](https://hackernoon.com/tips-for-engineering-graduates-ez1u36am)
+![](https://cdn.hackernoon.com/images/xn7f47cf.jpg)
+Mechanical Engineering Graduates, here are some tips to kick-start your career. Because we know how difficult and challenging it is in this domain, with so many unanswered questions, especially for beginners.
+
+### [230. The HackerNoon Newsletter: The Brain, The Body, and The Blue Screen: Why I’m Quitting Hardware (1/6/2026)](https://hackernoon.com/1-6-2026-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_386_wzvszvsipxscmxsy8c8anuq0.png)
+1/6/2026: Top 5 stories on the HackerNoon homepage!
+
+### [231. Startups of the Year 2024: Engineering Interview ](https://hackernoon.com/startups-of-the-year-2024-engineering-interview)
 ![](https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-of032ey.png)
 Explore the top engineering startups of 2024, driving innovation with cutting-edge solutions and technologies across various engineering disciplines.
 
-### [229. On the Effect of Taxes and of Legal Restrictions upon Manufactures](https://hackernoon.com/on-the-effect-of-taxes-and-of-legal-restrictions-upon-manufactures)
+### [232. On the Effect of Taxes and of Legal Restrictions upon Manufactures](https://hackernoon.com/on-the-effect-of-taxes-and-of-legal-restrictions-upon-manufactures)
 ![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-3ta3shk.jpeg)
 It appears to have been collected with care, and contains, in a single sheet of paper, a body of facts of the greatest importance. 
 
-### [230. Should Anyone be Called a DevOps Engineer?](https://hackernoon.com/should-anyone-be-called-a-devops-engineer)
+### [233. On the Future Prospects of Manufactures, as Connected with Science](https://hackernoon.com/on-the-future-prospects-of-manufactures-as-connected-with-science)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-hka3srn.jpeg)
+ I shall here content myself with referring to that work.
+
+### [234. Should Anyone be Called a DevOps Engineer?](https://hackernoon.com/should-anyone-be-called-a-devops-engineer)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-9b03o9i.jpeg)
 DevOps is all the the rage insert fancy clothes and glass of champagne. Interestingly enough, many organizations are hiring for it and have no idea what its pur
 
-### [231. On a New System of Manufacturing](https://hackernoon.com/on-a-new-system-of-manufacturing)
+### [235. On a New System of Manufacturing](https://hackernoon.com/on-a-new-system-of-manufacturing)
 ![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-u593yv2.jpeg)
 Every person concerned in the factory would have an immediate interest in preventing any waste or mismanagement in all the departments.
 
-### [232. The Invisible Hardware behind Interactive Ed-Tech: An Engineer's Perspective](https://hackernoon.com/the-invisible-hardware-behind-interactive-ed-tech-an-engineers-perspective)
+### [236. Sources of the Advantages arising from Machinery and Manufactures](https://hackernoon.com/sources-of-the-advantages-arising-from-machinery-and-manufactures)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-ul93y2n.jpeg)
+A country must, however, have reached a high degree of civilization before it will have approached the limit of this economy. 
+
+### [237. The Invisible Hardware behind Interactive Ed-Tech: An Engineer's Perspective](https://hackernoon.com/the-invisible-hardware-behind-interactive-ed-tech-an-engineers-perspective)
 ![](https://cdn.hackernoon.com/images/oGjLt7fd0jbdRaJOwpP6nniAXoV2-vx0228b.jpeg)
 Explore how sensors, microcontrollers, and LEDs inside sensory wall panels shape interactive learning experiences in Ed-Tech.
 
-### [233. Proper Circumstances for the Application of Machinery](https://hackernoon.com/proper-circumstances-for-the-application-of-machinery)
+### [238. Proper Circumstances for the Application of Machinery](https://hackernoon.com/proper-circumstances-for-the-application-of-machinery)
 ![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-mga3tgx.jpeg)
 The boldness which characterizes this work, the sagacity and skill displayed in all its arrangements, have excited the wonder of every person who has seen it.
 
-### [234. How Engineering Teams Can Leverage the Power of Metrics](https://hackernoon.com/how-engineering-teams-can-leverage-the-power-of-metrics)
+### [239. On Contriving Machinery](https://hackernoon.com/on-contriving-machinery)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-0la3tdv.jpeg)
+This will most frequently arise from the circumstance of its producing its work at a greater expense than that at which it can be made by other methods.
+
+### [240. How Engineering Teams Can Leverage the Power of Metrics](https://hackernoon.com/how-engineering-teams-can-leverage-the-power-of-metrics)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-x4035o7.png)
 Ever wondered what key metrics other engineering teams are tracking? 
 The short answer: it varies completely. Even within the same organization, different teams
 
-### [235. On Contriving Machinery](https://hackernoon.com/on-contriving-machinery)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-0la3tdv.jpeg)
-This will most frequently arise from the circumstance of its producing its work at a greater expense than that at which it can be made by other methods.
-
-### [236. Why Application Performance Monitoring Matters](https://hackernoon.com/why-application-performance-monitoring-matters)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-re0370b.jpeg)
-Ensuring that a system and application are performing the way they're supposed to isn't anything new.
-
-### [237. On the Future Prospects of Manufactures, as Connected with Science](https://hackernoon.com/on-the-future-prospects-of-manufactures-as-connected-with-science)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-hka3srn.jpeg)
- I shall here content myself with referring to that work.
-
-### [238. 8 Unsolved Carbon Markets' Problems That Engineers Need To Get Behind And Solve](https://hackernoon.com/8-unsolved-carbon-markets-problems-that-engineers-need-to-get-behind-and-solve-5a3g3wlo)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fj2kiakTKMlMW2g4K1Vo26O5gje52-ll223tmt.jpeg?alt=media&token=652860ca-6f34-4d59-a932-dc9995a9ab75)
-I think about this conversation I had with Paul a lot. It kicked off what has now been over three years of imaginative, grueling, wonderful, painful, mind-blowing, and confounding work-- all of which took place alongside the minds of amazing co-founders, teammates, and advisors. 
-
-### [239. On the Division of Labour](https://hackernoon.com/on-the-division-of-labour-egfhwqk)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-a393y9t.jpeg)
-A manager, who has the general knowledge of all that is to be done, and who may be assisted by one or more skilful persons.
-
-### [240. The present volume may be considered as one of the consequences](https://hackernoon.com/the-present-volume-may-be-considered-as-one-of-the-consequences)
+### [241. The present volume may be considered as one of the consequences](https://hackernoon.com/the-present-volume-may-be-considered-as-one-of-the-consequences)
 ![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-h493ybg.jpeg)
 The difficulty of understanding the processes of manufactures has unfortunately been greatly overrated. 
 
-### [241. Of Money as a Medium of Exchange](https://hackernoon.com/of-money-as-a-medium-of-exchange)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-4l93x2i.jpeg)
-Both metallic and paper money, it is true, may be depreciated, but with very different effects.
+### [242. On the Division of Labour](https://hackernoon.com/on-the-division-of-labour-egfhwqk)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-a393y9t.jpeg)
+A manager, who has the general knowledge of all that is to be done, and who may be assisted by one or more skilful persons.
 
-### [242. Sources of the Advantages arising from Machinery and Manufactures](https://hackernoon.com/sources-of-the-advantages-arising-from-machinery-and-manufactures)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-ul93y2n.jpeg)
-A country must, however, have reached a high degree of civilization before it will have approached the limit of this economy. 
+### [243. Why Application Performance Monitoring Matters](https://hackernoon.com/why-application-performance-monitoring-matters)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-re0370b.jpeg)
+Ensuring that a system and application are performing the way they're supposed to isn't anything new.
 
-### [243. On the Position of Large Factories](https://hackernoon.com/on-the-position-of-large-factories)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-gfa3xgt.jpeg)
-Snag is the name given in America to trees which stand nearly upright in the stream with their roots fixed at the bottom.
+### [244. 8 Unsolved Carbon Markets' Problems That Engineers Need To Get Behind And Solve](https://hackernoon.com/8-unsolved-carbon-markets-problems-that-engineers-need-to-get-behind-and-solve-5a3g3wlo)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fj2kiakTKMlMW2g4K1Vo26O5gje52-ll223tmt.jpeg?alt=media&token=652860ca-6f34-4d59-a932-dc9995a9ab75)
+I think about this conversation I had with Paul a lot. It kicked off what has now been over three years of imaginative, grueling, wonderful, painful, mind-blowing, and confounding work-- all of which took place alongside the minds of amazing co-founders, teammates, and advisors. 
 
-### [244. The object of the present volume is to point out the effects and the advantages](https://hackernoon.com/the-object-of-the-present-volume-is-to-point-out-the-effects-and-the-advantages)
+### [245. The object of the present volume is to point out the effects and the advantages](https://hackernoon.com/the-object-of-the-present-volume-is-to-point-out-the-effects-and-the-advantages)
 ![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-ju93y2m.jpeg)
 A view of the mechanical part of the subject will, in the first instance, occupy our attention, and to this the first section of the work will be devoted. 
 
-### [245. Distinction Between Making and Manufacturing](https://hackernoon.com/distinction-between-making-and-manufacturing)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-et93yzh.jpeg)
-The holes for the rivets were punched by hand-punching with presses, and the 1680 holes which each tank required cost seven shillings. 
-
-### [246. Why Tech Startup Leaders Should Still Spend Some of their Time Coding](https://hackernoon.com/why-tech-startup-leaders-should-still-spend-some-of-their-time-coding)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-gs039wl.jpeg)
-In this blog post, you'll learn why it's important for a manager to stay technical and how it can help grow your business.
-
-### [247. On the Cost of Each Separate Process in a Manufacture](https://hackernoon.com/on-the-cost-of-each-separate-process-in-a-manufacture)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-fp93yy2.jpeg)
-The present work was set up in slips, but the corrections have been unusually large, and the revises frequent.
-
-### [248. 5 Tips to Align Your Remote Engineering Teams](https://hackernoon.com/5-tips-to-align-your-remote-engineering-teams)
-![](https://cdn.hackernoon.com/images/5piuqbzGNPae5bZRCn8CCDvc78P2-y893nd8.jpeg)
-With only 4% working full time on-site, more and more companies are moving forward with fully remote work models. Check out our tips below 
-
-### [249. Economy of the Materials Employed](https://hackernoon.com/economy-of-the-materials-employed)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-0e93y13.jpeg)
-The consumption of ink by the machine was to that by the balls as four to nine, or rather less than one-half.
-
-### [250. Registering Operations](https://hackernoon.com/registering-operations)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-ye93x8s.jpeg)
-The sale of water by the different companies in London, might also, with advantage, be regulated by a meter.
-
-### [251. Increase and Diminution of Velocity](https://hackernoon.com/increase-and-diminution-of-velocity)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-tx93yft.jpeg)
-The object in this instance was, to give the earliest publicity to the fact, and to assure to M. Gambart the title of its first discoverer.
-
-### [252. On the Economy of Machinery and Manufactures by Charles Babbage - Table of Links](https://hackernoon.com/on-the-economy-of-machinery-and-manufactures-by-charles-babbage-table-of-links)
-![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-y593vhl.jpeg)
-On the Economy of Machinery and Manufactures by Charles Babbage is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
-
-### [253. On the Division of Labour](https://hackernoon.com/on-the-division-of-labour)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-9va3y8f.jpeg)
-The object of this process is to straighten the wire, which had acquired a considerable curvature in the small coils in which it had been wound. 
-
-### [254. On the Causes and Consequences of Large Factories](https://hackernoon.com/on-the-causes-and-consequences-of-large-factories)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-gm93yky.jpeg)
-An attention to this circumstance sometimes causes the union of two trades in one factory, which otherwise might have been separated.
-
-### [255. Infrastructure as Code in Practice: What It Solves — and What It Doesn’t](https://hackernoon.com/infrastructure-as-code-in-practice-what-it-solves-and-what-it-doesnt)
+### [246. Infrastructure as Code in Practice: What It Solves — and What It Doesn’t](https://hackernoon.com/infrastructure-as-code-in-practice-what-it-solves-and-what-it-doesnt)
 ![](https://cdn.hackernoon.com/images/slT3HCgc9CZ4HGESXdHgPgAICaj1-5ha3d9n.jpeg)
 Infrastructure as Code has long become a standard approach to managing cloud infrastructure.
 
-### [256. On Combinations of Masters against the public](https://hackernoon.com/on-combinations-of-masters-against-the-public)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-83a3tuu.jpeg)
-This, probably, is often the case, and admitting it, no reasonable person can object to a proportionate increase of price. 
+### [247. On the Position of Large Factories](https://hackernoon.com/on-the-position-of-large-factories)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-gfa3xgt.jpeg)
+Snag is the name given in America to trees which stand nearly upright in the stream with their roots fixed at the bottom.
 
-### [257. Is VSM the New Way to Measure DevOps?](https://hackernoon.com/is-vsm-the-new-way-to-measure-devops)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-bj038ej.jpeg)
-Value Stream Management (VSM) aims to help management and leadership teams determine the value of software development and CICD efforts for the organization. 
+### [248. Registering Operations](https://hackernoon.com/registering-operations)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-ye93x8s.jpeg)
+The sale of water by the different companies in London, might also, with advantage, be regulated by a meter.
 
-### [258. Why Bank Risk Systems Never Truly Went “Real-Time”](https://hackernoon.com/why-bank-risk-systems-never-truly-went-real-time)
+### [249. Of Money as a Medium of Exchange](https://hackernoon.com/of-money-as-a-medium-of-exchange)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-4l93x2i.jpeg)
+Both metallic and paper money, it is true, may be depreciated, but with very different effects.
+
+### [250. Distinction Between Making and Manufacturing](https://hackernoon.com/distinction-between-making-and-manufacturing)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-et93yzh.jpeg)
+The holes for the rivets were punched by hand-punching with presses, and the 1680 holes which each tank required cost seven shillings. 
+
+### [251. On the Economy of Machinery and Manufactures by Charles Babbage - Table of Links](https://hackernoon.com/on-the-economy-of-machinery-and-manufactures-by-charles-babbage-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-y593vhl.jpeg)
+On the Economy of Machinery and Manufactures by Charles Babbage is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [252. 5 Tips to Align Your Remote Engineering Teams](https://hackernoon.com/5-tips-to-align-your-remote-engineering-teams)
+![](https://cdn.hackernoon.com/images/5piuqbzGNPae5bZRCn8CCDvc78P2-y893nd8.jpeg)
+With only 4% working full time on-site, more and more companies are moving forward with fully remote work models. Check out our tips below 
+
+### [253. Economy of the Materials Employed](https://hackernoon.com/economy-of-the-materials-employed)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-0e93y13.jpeg)
+The consumption of ink by the machine was to that by the balls as four to nine, or rather less than one-half.
+
+### [254. On the Cost of Each Separate Process in a Manufacture](https://hackernoon.com/on-the-cost-of-each-separate-process-in-a-manufacture)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-fp93yy2.jpeg)
+The present work was set up in slips, but the corrections have been unusually large, and the revises frequent.
+
+### [255. Why Tech Startup Leaders Should Still Spend Some of their Time Coding](https://hackernoon.com/why-tech-startup-leaders-should-still-spend-some-of-their-time-coding)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-gs039wl.jpeg)
+In this blog post, you'll learn why it's important for a manager to stay technical and how it can help grow your business.
+
+### [256. Why Bank Risk Systems Never Truly Went “Real-Time”](https://hackernoon.com/why-bank-risk-systems-never-truly-went-real-time)
 ![](https://cdn.hackernoon.com/images/PqONTUNbcAYpl2Bo86McJdlrjqz1-os83hor.webp)
 How financial risk systems evolved inside investment banks under real constraints—and why batching, recalculation, and hybrid architectures still persist today
 
-### [259. Of Price as Measured by Money](https://hackernoon.com/of-price-as-measured-by-money)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-gj93y9r.jpeg)
-The English traveller rarely fails to acquiesce in this change, and often praises the filial piety of the rogue who has deceived him.
+### [257. Increase and Diminution of Velocity](https://hackernoon.com/increase-and-diminution-of-velocity)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-tx93yft.jpeg)
+The object in this instance was, to give the earliest publicity to the fact, and to assure to M. Gambart the title of its first discoverer.
 
-### [260. Accumulating Power](https://hackernoon.com/accumulating-power)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-l493yvs.jpeg)
-But until the first wave reaches the impediment at the muzzle, the air can exert no pressure against it.
+### [258. McKinsey is Right About the Future, But They're Missing a Key Detail: It's a Job for a Surgeon](https://hackernoon.com/mckinsey-is-right-about-the-future-but-theyre-missing-a-key-detail-its-a-job-for-a-surgeon)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7a022ix.jpeg)
+AI isn't taking your coding job; it's demanding a better version of you. The future of software engineering isn't about writing boilerplate code.
 
-### [261. On the Influence of Durability on Price](https://hackernoon.com/on-the-influence-of-durability-on-price)
+### [259. On the Causes and Consequences of Large Factories](https://hackernoon.com/on-the-causes-and-consequences-of-large-factories)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-gm93yky.jpeg)
+An attention to this circumstance sometimes causes the union of two trades in one factory, which otherwise might have been separated.
+
+### [260. On the Division of Labour](https://hackernoon.com/on-the-division-of-labour)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-9va3y8f.jpeg)
+The object of this process is to straighten the wire, which had acquired a considerable curvature in the small coils in which it had been wound. 
+
+### [261. Is VSM the New Way to Measure DevOps?](https://hackernoon.com/is-vsm-the-new-way-to-measure-devops)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-bj038ej.jpeg)
+Value Stream Management (VSM) aims to help management and leadership teams determine the value of software development and CICD efforts for the organization. 
+
+### [262. Building a Commission Calculation Engine That Doesn't Fall Apart at Month-End](https://hackernoon.com/building-a-commission-calculation-engine-that-doesnt-fall-apart-at-month-end)
+![](https://cdn.hackernoon.com/images/pF2ttKW6mMgUxpPmiaJBxTofQdn2-8e83elw.webp)
+How to build a commission calculation engine that handles negative balances, post-close adjustments, and multi-tier structures without breaking at month-end.x
+
+### [263. On Combinations of Masters against the public](https://hackernoon.com/on-combinations-of-masters-against-the-public)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-83a3tuu.jpeg)
+This, probably, is often the case, and admitting it, no reasonable person can object to a proportionate increase of price. 
+
+### [264. On the Influence of Durability on Price](https://hackernoon.com/on-the-influence-of-durability-on-price)
 ![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-1293xi7.jpeg)
 Tin. The chief waste of this metal arises from tinned iron; some is lost in solder and in solutions for the dyers.
 
-### [262. Combatting Overengineering: Don't Be Afraid To Throw Away Your Code](https://hackernoon.com/combatting-overengineering-dont-be-afraid-to-throw-away-your-code-5e4235iq)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-i03s26tf.jpeg)
-There are two lessons here: 1) Think before you code - this one I regularly forget. 2) Don’t be afraid to throw away your code.
+### [265. Of Price as Measured by Money](https://hackernoon.com/of-price-as-measured-by-money)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-gj93y9r.jpeg)
+The English traveller rarely fails to acquiesce in this change, and often praises the filial piety of the rogue who has deceived him.
 
-### [263. On the Duration of Machinery](https://hackernoon.com/on-the-duration-of-machinery)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-78a3stw.jpeg)
-If this supply was for Great Britain only, it was consumed by about ten and a half millions of persons.
-
-### [264. On Combinations Amongst Masters or Workmen against Each Other](https://hackernoon.com/on-combinations-amongst-masters-or-workmen-against-each-other)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-m2a3tsi.jpeg)
-'I have received these articles repeatedly—I know these things have been paid to a great extent in this way.'
-
-### [265. GENERAL ENQUIRIES](https://hackernoon.com/general-enquiries)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-5d93xwk.jpeg)
-If the same process is repeated several times, state the diminution or increase of measure, and the loss, if any, at each repetition.
-
-### [266. In two months from the publication of the first edition of this volume](https://hackernoon.com/in-two-months-from-the-publication-of-the-first-edition-of-this-volume)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-w893yo0.jpeg)
-It has been objected to me, that I have exposed too freely the secrets of trade.
-
-### [267. Of the Identity of the Work When It is of the Same Kind, and its Accuracy when of Different Kinds](https://hackernoon.com/of-the-identity-of-the-work-when-it-is-of-the-same-kind-and-its-accuracy-when-of-different-kinds)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-ma93yzz.jpeg)
-The same process by the aid of the lathe and the sliding-rest is the everyday employment of hundreds of workmen.
-
-### [268. Of Copying](https://hackernoon.com/of-copying)
+### [266. Of Copying](https://hackernoon.com/of-copying)
 ![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-rw93ypp.jpeg)
 Each colour requiring a distinct set of blocks, those oilcloths with the greatest variety of colours are most expensive.
 
-### [269. On the Effect of Machinery in Reducing the Demand for Labour](https://hackernoon.com/on-the-effect-of-machinery-in-reducing-the-demand-for-labour)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-oaa3t8v.jpeg)
-In 1810, the workman's wages were guaranteed not to be less than 26s.
+### [267. Accumulating Power](https://hackernoon.com/accumulating-power)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-l493yvs.jpeg)
+But until the first wave reaches the impediment at the muzzle, the air can exert no pressure against it.
 
-### [270. Exerting Forces Too Great for Human Power, and Executing, Operations Too Delicate for Human Touch](https://hackernoon.com/exerting-forces-too-great-for-human-power-and-executing-operations-too-delicate-for-human-touch)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-qg93yoo.jpeg)
-A sailing vessel would not have beat up to Milford, as we did, in twelve months.
-
-### [271. On Over Manufacturing](https://hackernoon.com/on-over-manufacturing)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-hc93yv4.jpeg)
-The same quantity of fuel, applied at once to the furnace, would only prolong the duration of its heat, not augment its intensity.
-
-### [272. Enquiries Previous to Commencing any Manufactory](https://hackernoon.com/enquiries-previous-to-commencing-any-manufactory)
-![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-ig93xti.jpeg)
- This is not always foreseen; and when anticipated is often inaccurately estimated. 
-
-### [273. Why Accuracy Metrics Break Down When Humans Are Part of the System](https://hackernoon.com/why-accuracy-metrics-break-down-when-humans-are-part-of-the-system)
-![](https://cdn.hackernoon.com/images/darts-target-bullseye-dbjf42evj4pogenz5kmd57np.png)
-High accuracy doesn’t mean reliable AI. This story explains why real-world systems fail—and how predictable behavior drives adoption.
-
-### [274. Of Raw Materials](https://hackernoon.com/of-raw-materials)
+### [268. Of Raw Materials](https://hackernoon.com/of-raw-materials)
 ![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-1w93x23.jpeg)
 The quantity of labour expended on these chains is, however, incomparably less than that which is applied in some of the manufactures of iron.
 
-### [275. On the Influence of Verification on Price](https://hackernoon.com/on-the-influence-of-verification-on-price)
+### [269. Of the Identity of the Work When It is of the Same Kind, and its Accuracy when of Different Kinds](https://hackernoon.com/of-the-identity-of-the-work-when-it-is-of-the-same-kind-and-its-accuracy-when-of-different-kinds)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-ma93yzz.jpeg)
+The same process by the aid of the lathe and the sliding-rest is the everyday employment of hundreds of workmen.
+
+### [270. On the Duration of Machinery](https://hackernoon.com/on-the-duration-of-machinery)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-78a3stw.jpeg)
+If this supply was for Great Britain only, it was consumed by about ten and a half millions of persons.
+
+### [271. Exerting Forces Too Great for Human Power, and Executing, Operations Too Delicate for Human Touch](https://hackernoon.com/exerting-forces-too-great-for-human-power-and-executing-operations-too-delicate-for-human-touch)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-qg93yoo.jpeg)
+A sailing vessel would not have beat up to Milford, as we did, in twelve months.
+
+### [272. On Combinations Amongst Masters or Workmen against Each Other](https://hackernoon.com/on-combinations-amongst-masters-or-workmen-against-each-other)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-m2a3tsi.jpeg)
+'I have received these articles repeatedly—I know these things have been paid to a great extent in this way.'
+
+### [273. GENERAL ENQUIRIES](https://hackernoon.com/general-enquiries)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-5d93xwk.jpeg)
+If the same process is repeated several times, state the diminution or increase of measure, and the loss, if any, at each repetition.
+
+### [274. Combatting Overengineering: Don't Be Afraid To Throw Away Your Code](https://hackernoon.com/combatting-overengineering-dont-be-afraid-to-throw-away-your-code-5e4235iq)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-i03s26tf.jpeg)
+There are two lessons here: 1) Think before you code - this one I regularly forget. 2) Don’t be afraid to throw away your code.
+
+### [275. In two months from the publication of the first edition of this volume](https://hackernoon.com/in-two-months-from-the-publication-of-the-first-edition-of-this-volume)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-w893yo0.jpeg)
+It has been objected to me, that I have exposed too freely the secrets of trade.
+
+### [276. On the Effect of Machinery in Reducing the Demand for Labour](https://hackernoon.com/on-the-effect-of-machinery-in-reducing-the-demand-for-labour)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-oaa3t8v.jpeg)
+In 1810, the workman's wages were guaranteed not to be less than 26s.
+
+### [277. On Over Manufacturing](https://hackernoon.com/on-over-manufacturing)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-hc93yv4.jpeg)
+The same quantity of fuel, applied at once to the furnace, would only prolong the duration of its heat, not augment its intensity.
+
+### [278. Enquiries Previous to Commencing any Manufactory](https://hackernoon.com/enquiries-previous-to-commencing-any-manufactory)
+![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-ig93xti.jpeg)
+ This is not always foreseen; and when anticipated is often inaccurately estimated. 
+
+### [279. On the Influence of Verification on Price](https://hackernoon.com/on-the-influence-of-verification-on-price)
 ![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-2m93ygg.jpeg)
 The inferior can be made to look nearly as well as the better article, and the purchaser can scarcely discover the difference without cutting into it.
 
-### [276. Extending the Time of Action of Forces](https://hackernoon.com/extending-the-time-of-action-of-forces)
+### [280. Why Accuracy Metrics Break Down When Humans Are Part of the System](https://hackernoon.com/why-accuracy-metrics-break-down-when-humans-are-part-of-the-system)
+![](https://cdn.hackernoon.com/images/darts-target-bullseye-dbjf42evj4pogenz5kmd57np.png)
+High accuracy doesn’t mean reliable AI. This story explains why real-world systems fail—and how predictable behavior drives adoption.
+
+### [281. Extending the Time of Action of Forces](https://hackernoon.com/extending-the-time-of-action-of-forces)
 ![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-x693yg5.jpeg)
 Another object to which a similar apparatus may be applied, is the polishing of small specimens of minerals for optical experiments.
 
-### [277. Regulating Power](https://hackernoon.com/regulating-power)
+### [282. Regulating Power](https://hackernoon.com/regulating-power)
 ![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-8x93xi3.jpeg)
 The dampers of ashpits and chimneys are also, in some cases, connected with machines in order to regulate their speed.
 
-### [278. On the Method of Observing Manufactories](https://hackernoon.com/on-the-method-of-observing-manufactories)
+### [283. The HackerNoon Newsletter: AI Coding Tip 015 - Force the AI to Obey You (4/14/2026)](https://hackernoon.com/4-14-2026-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_856_od9ytqc2jrcnt7kvzmuigpun.png)
+4/14/2026: Top 5 stories on the HackerNoon homepage!
+
+### [284. On the Method of Observing Manufactories](https://hackernoon.com/on-the-method-of-observing-manufactories)
 ![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-ks93yvp.jpeg)
 Each manufacture requires its own list of questions, which will be better drawn up after the first visit. 
 
-### [279. Saving time in Natural Operations](https://hackernoon.com/saving-time-in-natural-operations)
+### [285. Saving time in Natural Operations](https://hackernoon.com/saving-time-in-natural-operations)
 ![](https://cdn.hackernoon.com/images/qzEPt6WCBlRJnf7boorku9ZBoru2-aw93ysf.jpeg)
 The water is first pumped up to a reservoir, and then allowed to fall in small streams through faggots.
 

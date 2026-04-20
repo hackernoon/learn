@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [mobile](https://hackernoon.com/tagged/mobile)
+### Let's learn about [Mobile](https://hackernoon.com/tagged/mobile) via these 131 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 These days, mobility is everything. Luckily, you can read these stories on the go. 
 
 ### [1. 7 Color Pattern Trends in Mobile App Design](https://hackernoon.com/8-top-trends-of-color-patterns-in-mobile-app-designing-xsnyo3zgc)
@@ -87,24 +89,24 @@ How smartphone navigation feeds our reward receptors
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7hNScric1WcTcZqxOlzpN8s54n43-r4fd3jtg.jpeg?alt=media&token=f1535efc-38e0-4419-b96c-ef9b1b91d818)
 AWS Amplify is a framework that lets you develop a web or mobile application quickly, by accessing the backend cloud services offered by AWS. In this article, we are going to learn how to use AWS Amplify in React Native by building a fully functional login and registration flow.
 
-### [22. Introducing Nanc: A Backend-Agnostic CMS Perfect for Flutter Apps](https://hackernoon.com/introducing-nanc-a-backend-agnostic-cms-perfect-for-flutter-apps)
+### [22. The DIY 5G Router Hack That Turns a Raspberry Pi Into a Pocket-Sized Powerhouse](https://hackernoon.com/the-diy-5g-router-hack-that-turns-a-raspberry-pi-into-a-pocket-sized-powerhouse)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ax0236q.jpeg)
+This step-by-step guide shows you how to add mobile connectivity and create a pocket-sized network powerhouse.
+
+### [23. Introducing Nanc: A Backend-Agnostic CMS Perfect for Flutter Apps](https://hackernoon.com/introducing-nanc-a-backend-agnostic-cms-perfect-for-flutter-apps)
 ![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-fga3l94.jpeg)
 Nanc is a new kind of CMS for Flutter applications, but not only for them. It is a backend-agnostic CMS that doesn't pull its own backend. 
 
-### [23. How Do I know if My Phone has been Hacked?](https://hackernoon.com/how-do-i-know-if-my-phone-has-been-hacked-f63e3t22)
+### [24. How Do I know if My Phone has been Hacked?](https://hackernoon.com/how-do-i-know-if-my-phone-has-been-hacked-f63e3t22)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXXujHw5nuzb0SveVD1rDRzMdqm12-dm4z3u2x.jpeg?alt=media&token=85dcb0fb-cd65-4e2e-8ea8-2b501824e5b5)
 Our smartphones are our lives. We do everything on them and
 spend a lot of time. All major mobile phone manufacturers and application
 developers had to start introducing digital health features to curb our
 addiction. 
 
-### [24. Creating Webview Application with Flutter](https://hackernoon.com/flutter-webview-application-shubham-narkhede-shubham-narkhede-dec-13-2-min-read-source-code-of-t-yza732yr)
+### [25. Creating Webview Application with Flutter](https://hackernoon.com/flutter-webview-application-shubham-narkhede-shubham-narkhede-dec-13-2-min-read-source-code-of-t-yza732yr)
 ![](https://images.unsplash.com/photo-1563941811030-aecd7b37eb66?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Source code of this article https://github.com/Shubham-Narkhede/flutter_webviews_app
-
-### [25. The DIY 5G Router Hack That Turns a Raspberry Pi Into a Pocket-Sized Powerhouse](https://hackernoon.com/the-diy-5g-router-hack-that-turns-a-raspberry-pi-into-a-pocket-sized-powerhouse)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ax0236q.jpeg)
-This step-by-step guide shows you how to add mobile connectivity and create a pocket-sized network powerhouse.
 
 ### [26. The World's First Cell Phone Cost $4,000](https://hackernoon.com/the-worlds-first-cell-phone-cost-dollar4000)
 ![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-wi93ppu.gif.webp)
@@ -130,17 +132,17 @@ Giphy is the largest library providing one of the most popular forms of media wi
 ![](https://cdn.hackernoon.com/images/fyV0Wd8M2tTDQ7h6MtKP68rEhFv1-bk93mi5.jpeg)
 This article explains how to use ZEGOCLOUD's ZEGOLive to quickly build a live broadcast application, including functions such as mic, beauty, and messaging
 
-### [32. How Much Estimated Cost To Develop Android App?](https://hackernoon.com/cost-considerations-for-android-app-development-ca861e015726)
-![](https://cdn.hackernoon.com/images/xh5j31mj.jpg)
-Photo by Matthew Kwong on Unsplash
+### [32. How to work with Koin Scopes in Jetpack Compose Navigation](https://hackernoon.com/how-to-work-with-koin-scopes-in-jetpack-compose-navigation)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-i602spe.jpeg)
+When developing modern Android applications, convenient screen navigation and effective dependency management play a crucial role.
 
 ### [33. Mobile DevOps: Code Signing iOS Apps Automatically](https://hackernoon.com/mobile-devops-code-signing-ios-apps-automatically)
 ![](https://cdn.hackernoon.com/images/gsw7B04U0yPHQTIT0Z29jKY2Yy63-3u93j24.jpeg)
 In this tutorial, you will learn how to use the Xcode Archive & Export for iOS step to manage your iOS code signing assets, archives and export an .ipa.
 
-### [34. How to work with Koin Scopes in Jetpack Compose Navigation](https://hackernoon.com/how-to-work-with-koin-scopes-in-jetpack-compose-navigation)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-i602spe.jpeg)
-When developing modern Android applications, convenient screen navigation and effective dependency management play a crucial role.
+### [34. How Much Estimated Cost To Develop Android App?](https://hackernoon.com/cost-considerations-for-android-app-development-ca861e015726)
+![](https://cdn.hackernoon.com/images/xh5j31mj.jpg)
+Photo by Matthew Kwong on Unsplash
 
 ### [35. 3 Best Free GPS Tracker Apps on Android](https://hackernoon.com/3-best-free-gps-tracker-apps-on-android)
 ![](https://cdn.hackernoon.com/images/4T8hHbqeocMAcHpPQU4UsCHHhop2-f5b93581.jpeg)
@@ -170,17 +172,17 @@ Research of iOS developers' salaries based on data from PayScale, Glassdoor, Ind
 ![](https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 There are currently almost 10.000.000 mobile apps available in the leading app stores.
 
-### [42. Effective Error Handling in iOS](https://hackernoon.com/effective-error-handling-in-ios-py2a338v)
+### [42. How To Implement a Video Call App Using iOS CallKit and ZEGOCLOUD](https://hackernoon.com/how-to-implement-a-video-call-app-using-ios-callkit-and-zegocloud)
+![](https://cdn.hackernoon.com/images/EV8tJPb1ZePGA5hXoES9OSfKWms1-t293omz.jpeg)
+This article will explain how to use CallKit and ZEGOCLOUD to build a Video Call App with a native calling experience.
+
+### [43. Effective Error Handling in iOS](https://hackernoon.com/effective-error-handling-in-ios-py2a338v)
 ![](https://cdn.hackernoon.com/images/I65vGdTMqQZL8HJDyoIczj6dXjy1-mup336r.jpeg)
 Why caring about error handling, and practical improvements to apply on your iOS app. Examples in Swift.
 
-### [43. How to Implement a Simple Video Calling Feature Using the ZEGOCLOUD Video API](https://hackernoon.com/how-to-implement-a-simple-video-calling-feature-using-the-zegocloud-video-api)
+### [44. How to Implement a Simple Video Calling Feature Using the ZEGOCLOUD Video API](https://hackernoon.com/how-to-implement-a-simple-video-calling-feature-using-the-zegocloud-video-api)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-d193pki.jpeg)
 This article describes what is the video API? How does the video API ensure smooth transmission of audio and video？
-
-### [44. How To Implement a Video Call App Using iOS CallKit and ZEGOCLOUD](https://hackernoon.com/how-to-implement-a-video-call-app-using-ios-callkit-and-zegocloud)
-![](https://cdn.hackernoon.com/images/EV8tJPb1ZePGA5hXoES9OSfKWms1-t293omz.jpeg)
-This article will explain how to use CallKit and ZEGOCLOUD to build a Video Call App with a native calling experience.
 
 ### [45. Have Your Privacy Cake on Android and Eat it Too](https://hackernoon.com/have-your-privacy-cake-on-android-and-eat-it-too-db1f37b5)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-131337ve.jpeg)
@@ -190,25 +192,25 @@ How to set up your Android phone to provide ultimate privacy while also letting 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQPLkPwc9V7XxM2Duc9VCYzKzGrw1-914j3t6r.jpeg?alt=media&token=acc07c43-5794-45a5-9d13-d7998badc271)
 With the pace of smartphone evolution, there is always something waiting for you behind the scenes. No sooner have you spotted the last handset, than there is anticipation for the next big thing.
 
-### [47. Accelerating Development with Kotlin Multiplatform](https://hackernoon.com/accelerating-development-with-kotlin-multiplatform-qel134ac)
-![](https://cdn.hackernoon.com/images/crsk341h.jpg)
-Disclosure: Sam is Engineering Manager at Touchlab, a mobile innovation consultancy based in NYC with expertise in Kotlin Multiplatform. 
-
-### [48. Shopify in 2026: 5 eCommerce Trends That Will Decide Which Merchants Win](https://hackernoon.com/shopify-in-2026-5-ecommerce-trends-that-will-decide-which-merchants-win)
+### [47. Shopify in 2026: 5 eCommerce Trends That Will Decide Which Merchants Win](https://hackernoon.com/shopify-in-2026-5-ecommerce-trends-that-will-decide-which-merchants-win)
 ![](https://cdn.hackernoon.com/images/QCzUXmup1gWrS723VFnOS8C4jQ03-3503bzo.jpeg)
 Shopify is becoming the operating system for modern commerce. Here are five eCommerce trends shaping 2026 and how Shopify merchants can prepare to win. 
+
+### [48. Accelerating Development with Kotlin Multiplatform](https://hackernoon.com/accelerating-development-with-kotlin-multiplatform-qel134ac)
+![](https://cdn.hackernoon.com/images/crsk341h.jpg)
+Disclosure: Sam is Engineering Manager at Touchlab, a mobile innovation consultancy based in NYC with expertise in Kotlin Multiplatform. 
 
 ### [49. Is iOS 16 Really Worth Getting? ](https://hackernoon.com/is-ios-16-really-worth-getting)
 ![](https://cdn.hackernoon.com/images/GzuFZ9AxaVWByngmHZ3tMW1C6Sz2-aza3o19.jpeg)
 Apple has its own way of gaining eyeballs, and this time it's the beta release of iOS 16. While the recently launched iOS version is gaining all the attention, reactions are mixed, with some still wondering whether iOS 16 is worth getting or not. To address the same, I wanted to share an in-depth analysis of newly introduced features and usability. 
 
-### [50. Tips, Tricks and Tools for Mobile App Development](https://hackernoon.com/tips-tricks-and-tools-for-mobile-app-development-yq233z2d)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-a11v3z6c.jpeg)
-Developing an application may seem a piece of cake for pros, but newbies need online guides to help them get from A to Z with their app development project. 
-
-### [51. 11 Phases Of Simple Mobile Game App Development](https://hackernoon.com/11-phases-of-simple-mobile-game-app-development)
+### [50. 11 Phases Of Simple Mobile Game App Development](https://hackernoon.com/11-phases-of-simple-mobile-game-app-development)
 ![](https://cdn.hackernoon.com/images/fXjWWB8qaSdJsT2cZVIgwhVEMoa2-9693qm7.jpeg)
 11 phases of simple mobile game app development: ideation, prototype development, testing, and launch.
+
+### [51. Tips, Tricks and Tools for Mobile App Development](https://hackernoon.com/tips-tricks-and-tools-for-mobile-app-development-yq233z2d)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-a11v3z6c.jpeg)
+Developing an application may seem a piece of cake for pros, but newbies need online guides to help them get from A to Z with their app development project. 
 
 ### [52. 5 Mobile App Development Trends That Will Dominate in 2022](https://hackernoon.com/5-mobile-app-development-trends-that-will-dominate-in-2022)
 ![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-gx037rc.jpeg)
@@ -222,14 +224,14 @@ The next version of the operating system for iPhone and iPad has launched(iOS 13
 ![](https://cdn.hackernoon.com/images/JHYEEX1dR2NS4UEi2ldlE4102Qs1-f34r33lk.jpeg)
 Minecraft, Scrabble GO,  and Call of Duty Mobile are some of the best mobile games that have multiplayer options to play with friends online.
 
-### [55. The Cost of Building a Mobile App in 2020](https://hackernoon.com/the-cost-of-building-a-mobile-app-in-2020-lm4e3tux)
+### [55. Unit Testing Vs. Integration Testing In Android](https://hackernoon.com/unit-testing-vs-integration-testing-in-android-t71433k9)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-7612288s.jpeg)
+Android development has witnessed massive growth in all these years, and any developer who’s worth his salt will thoroughly test his products before launching them into the market. While having a conversation about testing in Android, we often hear two forms of tests doing the rounds — Unit Test and Integration Test. 
+
+### [56. The Cost of Building a Mobile App in 2020](https://hackernoon.com/the-cost-of-building-a-mobile-app-in-2020-lm4e3tux)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlV7kXgF1Y4dIXrCN4EXQA7VdwYX2-2g823tp0.jpeg?alt=media&token=7246ae3f-eebf-4e22-954c-0178d581d2e5)
 The question of how much does it cost to build a quality app has become common. This article has highlighted an in-depth overview of the cost to develop an app in the market. It will also state the factors that influence
 effective app management and development.
-
-### [56. Unit Testing Vs. Integration Testing In Android](https://hackernoon.com/unit-testing-vs-integration-testing-in-android-t71433k9)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-7612288s.jpeg)
-Android development has witnessed massive growth in all these years, and any developer who’s worth his salt will thoroughly test his products before launching them into the market. While having a conversation about testing in Android, we often hear two forms of tests doing the rounds — Unit Test and Integration Test. 
 
 ### [57. From TF to TFLite: Deploying ML Models on Mobile [Part 2]](https://hackernoon.com/from-tf-to-tflite-deploying-ml-models-on-mobile-part-2-4cl3uaz)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FelavJ05XeOPbp9SI1wTsWCBCI8s2-bh2w3t2k.jpeg?alt=media&token=51a01f71-ca4e-478a-859c-38bf5f58747a)
@@ -259,17 +261,17 @@ Using LiveData in Coinverse
 ![](https://cdn.hackernoon.com/images/ouIf9OWDjkQeJvOhcgl883A8NZw2-gpa3q07.jpeg)
 It doesn't matter if you run a B2B or B2C company, a marketing agency or a SaaS firm, an eCommerce site, or a brick-and-mortar shop: evaluations are critical for any business.
 
-### [64. React Native WebView Plugin Introduction](https://hackernoon.com/react-native-webview-plugin-introduction-ps1u3urr)
+### [64. Build a Clubhouse Clone App with Android and ZEGOCLOUD](https://hackernoon.com/build-a-clubhouse-clone-app-with-android-and-zegocloud)
+![](https://cdn.hackernoon.com/images/EV8tJPb1ZePGA5hXoES9OSfKWms1-8v93k2i.jpeg)
+This article explains how to quickly clone a  Clubhouse app using ZEGOCLOUD's ZEGOLiveAudioRoom SDK
+
+### [65. React Native WebView Plugin Introduction](https://hackernoon.com/react-native-webview-plugin-introduction-ps1u3urr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-4ut3uwd.gif?alt=media&token=00caf32e-f22a-4269-a06c-69ed43644329)
 In React Native, WebViews enable access to any web portal in the mobile app itself. In other words, a web view allows us to open the web URLs inside the app interface. While React Native provides us with a built-it web view component, but we are going to use react-native-webview plugin in this tutorial, since it is more powerful. React Native WebView is a modern, well-supported, and cross-platform WebView for React Native.
 
-### [65. Approaching Unit Testing in iOS Correctly](https://hackernoon.com/approaching-unit-testing-in-ios-correctly-lmr3u13)
+### [66. Approaching Unit Testing in iOS Correctly](https://hackernoon.com/approaching-unit-testing-in-ios-correctly-lmr3u13)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsKUg89yJOWchW3oscCcEhyRkcjj1-fd2d3uoa.jpeg?alt=media&token=1fa605c5-8559-4ba8-a35a-7e0681e9eda9)
 Why does my application get so buggy after each release?
-
-### [66. Build a Clubhouse Clone App with Android and ZEGOCLOUD](https://hackernoon.com/build-a-clubhouse-clone-app-with-android-and-zegocloud)
-![](https://cdn.hackernoon.com/images/EV8tJPb1ZePGA5hXoES9OSfKWms1-8v93k2i.jpeg)
-This article explains how to quickly clone a  Clubhouse app using ZEGOCLOUD's ZEGOLiveAudioRoom SDK
 
 ### [67. How to Ensure Privacy and Security on Your Smartphones](https://hackernoon.com/how-to-strengthen-privacy-and-security-on-your-mobile-phone-pi4l3wjk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2VwQBELexObVQoYia4QApd7d7RA3-ww403w0y.jpeg?alt=media&token=fa917e6f-7c1a-4590-b64f-ab918e7ea993)
@@ -279,13 +281,13 @@ All you need to know about the security loopholes in your android device and how
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-5u93y68.jpeg)
 Build a new app in a matter of minutes? Check out this mobile application created using the Salesforce Lightning App Builder.
 
-### [69. In-App Advertising Checklist: 2020 Edition](https://hackernoon.com/in-app-advertising-checklist-2020-edition-xw7436vy)
-![](https://cdn.hackernoon.com/drafts/xwsv3663.png)
-At the beginning of the new millennium, mobile applications penetrated every business area. No matter who you are or what you’re looking for, you can guarantee that ‘there’s an app for that.’ Such a significant growth of the mobile field, considering apps have maintained their role as a critical revenue stream for the industry, made user acquisition a crucial part of product development. Too much competition on the market places UA managers in the face of numerous challenges, and this year is no exception mobile marketers seek for new ways to improve UA, maximize ROI or expand to the new market.
-
-### [70. Top Mobile App Development Companies ](https://hackernoon.com/top-mobile-app-development-companies-p91k33vs)
+### [69. Top Mobile App Development Companies ](https://hackernoon.com/top-mobile-app-development-companies-p91k33vs)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-08y33mq.jpeg)
 Are you planning to create an app for your business or an upcoming project? If yes, you need not browse multiple search engines and go through the details of hu
+
+### [70. In-App Advertising Checklist: 2020 Edition](https://hackernoon.com/in-app-advertising-checklist-2020-edition-xw7436vy)
+![](https://cdn.hackernoon.com/drafts/xwsv3663.png)
+At the beginning of the new millennium, mobile applications penetrated every business area. No matter who you are or what you’re looking for, you can guarantee that ‘there’s an app for that.’ Such a significant growth of the mobile field, considering apps have maintained their role as a critical revenue stream for the industry, made user acquisition a crucial part of product development. Too much competition on the market places UA managers in the face of numerous challenges, and this year is no exception mobile marketers seek for new ways to improve UA, maximize ROI or expand to the new market.
 
 ### [71. Playing Simon Says with Gemma-2b and MediaPipe ](https://hackernoon.com/playing-simon-says-with-gemma-2b-and-mediapipe)
 ![](https://cdn.hackernoon.com/images/jDpmEvX2s9NOjteuQqYzwKALIDn2-r592oih.jpeg)
@@ -299,13 +301,13 @@ https://en.wikipedia.org/wiki/HTC_Dream
 ![](https://cdn.hackernoon.com/drafts/8m1w230ik.png)
 A recent development in the android circuit that has been circulating about the launch of Android 10 that has been released by Google on September 3, keeping aside all the rumours that have been going around the naming convention of Android 10 which was earlier named as Android Quiche. 
 
-### [74. Top 6 Mobile Analytics Tools of 2020](https://hackernoon.com/top-6-mobile-analytics-tools-of-2020-7dt3utc)
-![](https://cdn.hackernoon.com/drafts/2bnx3wdm.png)
-Data has become an increasingly important factor when it comes to the health of any app or website. Having all of your important numbers such as the number of downloads, amount of money generated from downloads and even the most recent feedback is the key to continued success. 
-
-### [75. Airbnb UI Clone with React Native Part #3 : Home View Around The World Section](https://hackernoon.com/airbnb-home-screen-ui-clone-with-react-native-3-home-around-the-world-9z3en32qu)
+### [74. Airbnb UI Clone with React Native Part #3 : Home View Around The World Section](https://hackernoon.com/airbnb-home-screen-ui-clone-with-react-native-3-home-around-the-world-9z3en32qu)
 ![](https://cdn.hackernoon.com/images/2e3eh32bg.jpg)
 This tutorial is the third part of our Airbnb Home Screen UI clone using React Native. In the previous part, we successfully implemented the Category and Airbnb plus sections. This tutorial is the continuation of the same tutorial from where we left off in the last part. So, it is recommended to go through the previous parts for better understanding and insight into the overall project.
+
+### [75. Top 6 Mobile Analytics Tools of 2020](https://hackernoon.com/top-6-mobile-analytics-tools-of-2020-7dt3utc)
+![](https://cdn.hackernoon.com/drafts/2bnx3wdm.png)
+Data has become an increasingly important factor when it comes to the health of any app or website. Having all of your important numbers such as the number of downloads, amount of money generated from downloads and even the most recent feedback is the key to continued success. 
 
 ### [76. The Impact of COVID-19 on Apple Search Ads](https://hackernoon.com/the-impact-of-covid-19-on-apple-search-ads-lucx24x3)
 ![](https://images.unsplash.com/photo-1503852460961-aa7ffdd3d64d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -319,37 +321,37 @@ Today business owners should consider their apps as effective tools for doing bu
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FD0OBb8CGuBNP82rV561sQ8t51Gp1-ezd3w7e.png?alt=media&token=8fed4695-98c5-4cb1-a901-5525eb41d1e0)
 If the title of this article means something to you, then you are probably aware of the earthquake caused by iOS14.
 
-### [79. Creating Applications with React Native: 5 Important Tips](https://hackernoon.com/creating-applications-with-react-native-5-important-tips-ci4s37mq)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-nf1c37rz.jpeg)
-React Native is an awesome, open-source framework for creating native, cross-platform mobile applications, but coding in react native can be quite daunting. In this article, we will go over some tips, and techniques when building a React Native application, to make your work easier and more efficient. 
-
-### [80. How to Secure iOS Apps?](https://hackernoon.com/how-to-secure-ios-apps-4a383tmf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-jz133tny.jpeg?alt=media&token=ca7c4b66-a33d-48dc-8e64-a0627a43cbd2)
-This is the mobile era and pretty much everything these days can happen from our smart phone. Thanks to millions of apps out there which help us in accomplishing anything we want. Whether it is maintaining your schedule (calendar) to managing financial information on the go, all things can be done by mobile apps running on our smart phones. Since these apps have access to so much of confidential information, as developer when we make an app we need to follow highest security standards so that information is not accessed by someone who is not entitled for it. 
-
-### [81. Building a Kotlin Mobile App with the Salesforce SDK: Editing and Creating Data - Part 2](https://hackernoon.com/building-a-kotlin-mobile-app-with-the-salesforce-sdk-editing-and-creating-data-part-2)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-sw93z0o.jpeg)
-
-
-### [82. Android CodeView: How To Highlight Text And Where You Can Apply It](https://hackernoon.com/android-codeview-how-to-highlight-text-and-where-you-can-apply-it-wy1f3617)
-![](https://cdn.hackernoon.com/images/dkdP4VfxtrUVSMiq5X0VGwTQuZ23-3z4q343h.jpeg)
-New ideas about how to use the Android CodeView library easily to do implement features that can be used in any app not just Code Editor's or IDE's
-
-### [83. Build Your Own JavaScript Library to Detect Mobile Browsers](https://hackernoon.com/build-your-own-javascript-library-to-detect-mobile-browsers)
+### [79. Build Your Own JavaScript Library to Detect Mobile Browsers](https://hackernoon.com/build-your-own-javascript-library-to-detect-mobile-browsers)
 ![](https://cdn.hackernoon.com/images/7TFKjn3oLpbHgnTw2EhtFa9CVPv2-8593jk0.png)
 What are the most common methods for detecting mobile browsers with JavaScript? This article covers both independent snippets and popular libraries.
 
-### [84. How to Keep Yourself from Becoming a Victim of Flytrap Malware](https://hackernoon.com/how-to-keep-yourself-from-becoming-a-victim-of-flytrap-malware)
+### [80. Building a Kotlin Mobile App with the Salesforce SDK: Editing and Creating Data - Part 2](https://hackernoon.com/building-a-kotlin-mobile-app-with-the-salesforce-sdk-editing-and-creating-data-part-2)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-sw93z0o.jpeg)
+
+
+### [81. Android CodeView: How To Highlight Text And Where You Can Apply It](https://hackernoon.com/android-codeview-how-to-highlight-text-and-where-you-can-apply-it-wy1f3617)
+![](https://cdn.hackernoon.com/images/dkdP4VfxtrUVSMiq5X0VGwTQuZ23-3z4q343h.jpeg)
+New ideas about how to use the Android CodeView library easily to do implement features that can be used in any app not just Code Editor's or IDE's
+
+### [82. Creating Applications with React Native: 5 Important Tips](https://hackernoon.com/creating-applications-with-react-native-5-important-tips-ci4s37mq)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-nf1c37rz.jpeg)
+React Native is an awesome, open-source framework for creating native, cross-platform mobile applications, but coding in react native can be quite daunting. In this article, we will go over some tips, and techniques when building a React Native application, to make your work easier and more efficient. 
+
+### [83. How to Secure iOS Apps?](https://hackernoon.com/how-to-secure-ios-apps-4a383tmf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-jz133tny.jpeg?alt=media&token=ca7c4b66-a33d-48dc-8e64-a0627a43cbd2)
+This is the mobile era and pretty much everything these days can happen from our smart phone. Thanks to millions of apps out there which help us in accomplishing anything we want. Whether it is maintaining your schedule (calendar) to managing financial information on the go, all things can be done by mobile apps running on our smart phones. Since these apps have access to so much of confidential information, as developer when we make an app we need to follow highest security standards so that information is not accessed by someone who is not entitled for it. 
+
+### [84. How to Make Web Calls Feel Native on Mobile](https://hackernoon.com/how-to-make-web-calls-feel-native-on-mobile)
+![](https://cdn.hackernoon.com/images/RizoyVPV6bMg1md9SNnh4PLPqir2-0j93fj2.png)
+Practical techniques to improve mobile web calling UX using Wake Lock, screen locking overlays, and PWA standalone mode. Includes React examples. 
+
+### [85. How to Keep Yourself from Becoming a Victim of Flytrap Malware](https://hackernoon.com/how-to-keep-yourself-from-becoming-a-victim-of-flytrap-malware)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-gp032xz.jpeg)
 Threat actors are leveraging common user misunderstandings that logging into the true domain is always secure.
 
-### [85. Ready Player China: An Introduction to China’s Booming Video Game Market](https://hackernoon.com/ready-player-china-an-introduction-to-chinas-booming-video-game-market-qv2h3zl0)
+### [86. Ready Player China: An Introduction to China’s Booming Video Game Market](https://hackernoon.com/ready-player-china-an-introduction-to-chinas-booming-video-game-market-qv2h3zl0)
 ![](https://cdn.hackernoon.com/images/7YuCXaHGzuZddOtm07z1r8GbKes2-n62t3wyf.jpeg)
 Despite its history of strict regulation against the industry, China’s gaming market is flourishing. Chinese MMOs and RPGs are topping lists around the globe while high-quality cross-platform releases, along with creative marketing through films, eSport competitions, and livestreaming, have set the tone for China’s growing gaming market for years to come at home.
-
-### [86. How to Make Web Calls Feel Native on Mobile](https://hackernoon.com/how-to-make-web-calls-feel-native-on-mobile)
-![](https://cdn.hackernoon.com/images/RizoyVPV6bMg1md9SNnh4PLPqir2-0j93fj2.png)
-Practical techniques to improve mobile web calling UX using Wake Lock, screen locking overlays, and PWA standalone mode. Includes React examples. 
 
 ### [87. Why I'm Looking Forward to the 2027 iPhone](https://hackernoon.com/why-im-looking-forward-to-the-2027-iphone-154c3w0r)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUkAeqbeEiOajpjolJeRyMutEDag1-ehh3eyu.jpeg?alt=media&token=a997a900-0c8b-4669-860c-79f6ee910896)
@@ -371,29 +373,29 @@ In one town, police say products like Nextdoor and Ring are helping fight crime.
 ![](https://cdn.hackernoon.com/images/6xw595pbeORe7horIJFJuOhl3mL2-z443fo3.jpeg)
 Examine Motorola’s pivot to IoT security and smart home surveillance. We highlight key features and infrastructure to decode what's important in home safety. 
 
-### [92. Mobile DevOps Engineer Trends](https://hackernoon.com/mobile-devops-engineer-trends)
+### [92. How to Implement Sound Waves in iOS by Using ZEGOCLOUD SDK](https://hackernoon.com/how-to-implement-sound-waves-in-ios-by-using-zegocloud-sdk)
+![](https://cdn.hackernoon.com/images/FmEa53U7DCevCTvqdaNf6eUn0PR2-rk93qmu.jpeg)
+This article explains how to achieve the sound wave effect in live broadcast, voice chat, call and other scenarios
+
+### [93. Mobile DevOps Engineer Trends](https://hackernoon.com/mobile-devops-engineer-trends)
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-1lc3r57.jpeg)
 Crowned the most coveted occupation in 2021, the ‘DevOps Engineer’ has been instrumental in the growth of the DevOps market. 
 
-### [93. 5 Trends That Show Where eCommerce Is Heading in 2021](https://hackernoon.com/5-trends-that-show-where-ecommerce-is-heading-cf1n36tg)
+### [94. 5 Trends That Show Where eCommerce Is Heading in 2021](https://hackernoon.com/5-trends-that-show-where-ecommerce-is-heading-cf1n36tg)
 ![](https://cdn.hackernoon.com/images/DlEIB3EbcVVA6sk1W2L9z6grlxw2-vs2k35c4.jpeg)
 Contributing significantly to eCommerce and its spiking sales levels, consumer habits, behaviors, and shopping trends in the USA are changing. And this change is not about to stop anytime soon, with post-Covid trends in eCommerce continuing to place further benefits on this sector and those that take advantage of these trends. 
 
-### [94. Bluetooth 5: Differences and Advantages in Bluetooth Glasses](https://hackernoon.com/bluetooth-5-differences-and-advantages-over-older-specifications)
+### [95. Bluetooth 5: Differences and Advantages in Bluetooth Glasses](https://hackernoon.com/bluetooth-5-differences-and-advantages-over-older-specifications)
 ![](https://cdn.hackernoon.com/images/Ypdd2zdgN8XDBX9XVlJ5pD5uxJK2-4d026ln.png)
 Bluetooth is a radio technology that is used for the Internet or transmission from smartphone to smartphone or even to speakers. It's latest version, 5 is here.
-
-### [95. UI Techniques to Boost Perceived Performance in Mobile Apps](https://hackernoon.com/how-to-improve-perceived-performance-in-mobile-apps-5ed3268)
-![](https://cdn.hackernoon.com/images/te3b8320j.jpg)
-Mobile apps must be snappy and playful. To fall in love with your mobile app, users need to perceive it as fast, responsive and bug-free. Perceived performance measures how fast a user thinks your mobile app is. In this article, I'm presenting a handful of UI techniques that will make your mobile app feel more performant to the end user.
 
 ### [96. How to Accelerate Mobile App Development](https://hackernoon.com/how-to-accelerate-mobile-app-development-vjr3uig)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYNjYMAORLDXKVMgvMoDXiCGGEtI3-201u3u93.png?alt=media&token=f2558b05-2bdb-4ab2-91c2-681f13eeac22)
 Modern mobile products are the quintessence of the founders’ vision and actual market needs. To be successful, a mobile application needs to continually evolve in order to keep pace with changing market conditions. However, not every approach to application development can ensure such success. 
 
-### [97. How to Implement Sound Waves in iOS by Using ZEGOCLOUD SDK](https://hackernoon.com/how-to-implement-sound-waves-in-ios-by-using-zegocloud-sdk)
-![](https://cdn.hackernoon.com/images/FmEa53U7DCevCTvqdaNf6eUn0PR2-rk93qmu.jpeg)
-This article explains how to achieve the sound wave effect in live broadcast, voice chat, call and other scenarios
+### [97. UI Techniques to Boost Perceived Performance in Mobile Apps](https://hackernoon.com/how-to-improve-perceived-performance-in-mobile-apps-5ed3268)
+![](https://cdn.hackernoon.com/images/te3b8320j.jpg)
+Mobile apps must be snappy and playful. To fall in love with your mobile app, users need to perceive it as fast, responsive and bug-free. Perceived performance measures how fast a user thinks your mobile app is. In this article, I'm presenting a handful of UI techniques that will make your mobile app feel more performant to the end user.
 
 ### [98. Why You Need to Shift-left with Mobile Testing](https://hackernoon.com/why-you-need-to-shift-left-with-mobile-testing)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-mj834ri.jpeg)
@@ -411,13 +413,13 @@ My teacher once told me in school, “Your shoe reflects a lot about your person
 ![](https://cdn.hackernoon.com/drafts/d0rs3w0f.png)
 (Technology for the developing countries)
 
-### [102. Mobile Application Prototyping: Risk Management in Technology Domain](https://hackernoon.com/mobile-application-prototyping-risk-management-in-technology-domain-y56b32qh)
-![](https://images.unsplash.com/photo-1576153192281-d558108925bb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-With the advent of Cognitive Technologies like Artificial Intelligence, IoT, Virtual Reality and Augmented Reality, there are no more standalone projects in Technology Domain. 
-
-### [103. How to Choose the Right Food Delivery Software for Your Business](https://hackernoon.com/how-to-choose-the-right-food-delivery-software-for-your-business)
+### [102. How to Choose the Right Food Delivery Software for Your Business](https://hackernoon.com/how-to-choose-the-right-food-delivery-software-for-your-business)
 ![](https://cdn.hackernoon.com/images/6FA8K5sIWkVBAKnX3dNoym83VPf2-8b93o8h.jpeg)
 In this post, details shared regarding choosing the Right Food Delivery Software for Your Business. Explore it.
+
+### [103. Mobile Application Prototyping: Risk Management in Technology Domain](https://hackernoon.com/mobile-application-prototyping-risk-management-in-technology-domain-y56b32qh)
+![](https://images.unsplash.com/photo-1576153192281-d558108925bb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+With the advent of Cognitive Technologies like Artificial Intelligence, IoT, Virtual Reality and Augmented Reality, there are no more standalone projects in Technology Domain. 
 
 ### [104. 5 Steps You Should Take To Launch A Cool Game](https://hackernoon.com/5-steps-you-should-take-to-launch-a-cool-game-f9y333h)
 ![](https://cdn.hackernoon.com/images/HPKTXpNUNMbhwUaRX9c7sxUvnau1-8k1933pc.jpeg)
@@ -431,13 +433,13 @@ How can you make your app popular? I’ve collected 30+ sources for the app revi
 ![](https://cdn.hackernoon.com/images/dkdP4VfxtrUVSMiq5X0VGwTQuZ23-4pa28on.jpeg)
 Hi I am Amr Hesham a Software Engineer, I am interested in Android Development and Compiler Design 😎
 
-### [107. From App Idea To Implementation [Guideline]](https://hackernoon.com/from-app-idea-to-implementation-sy4v3zlt)
-![](https://cdn.hackernoon.com/images/70sd3zlo.jpg)
-When you have an app idea, you need to get things sorted out before you jump onto the development train. Getting the right people at the table, talking to users and defining your blueprint will help you to get things sorted out. Read on if you want to get solid advice on doing so.
-
-### [108. Why You Should Repair Your Broken Smartphone](https://hackernoon.com/why-you-should-repair-your-broken-smartphone-fa3b38ix)
+### [107. Why You Should Repair Your Broken Smartphone](https://hackernoon.com/why-you-should-repair-your-broken-smartphone-fa3b38ix)
 ![](https://cdn.hackernoon.com/images/al2o38gf.jpg)
 Cell phones are a crutch in American culture and when our crutches are broken, we struggle to function as well. Since 1973, the rise of cellular phones have been the fastest growing technology phenomenon ever. 95% of Americans owned a cell phone in 2018, up 33% from 2002.
+
+### [108. From App Idea To Implementation [Guideline]](https://hackernoon.com/from-app-idea-to-implementation-sy4v3zlt)
+![](https://cdn.hackernoon.com/images/70sd3zlo.jpg)
+When you have an app idea, you need to get things sorted out before you jump onto the development train. Getting the right people at the table, talking to users and defining your blueprint will help you to get things sorted out. Read on if you want to get solid advice on doing so.
 
 ### [109. Android vs Apple: HackerNoon Debates](https://hackernoon.com/android-vs-apple-hackernoon-debates)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-wj137d1.jpeg)
@@ -451,13 +453,13 @@ I have some mobile tech stories to share with our slogging folks, hope you will 
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-ylj33or.jpeg)
 Real-time communication is the vigorous pillar when it’s about businesses in recent days. This Blog helps to identify the best Voice Call APP.
 
-### [112. The Tech Advancements Powering Mobile Blockchains](https://hackernoon.com/the-tech-advancements-powering-mobile-blockchains-lz5h3732)
-![](https://cdn.hackernoon.com/images/22qULrU2ZPb8VRsSedCeA6x7AJ13-j72y3ojk.jpeg)
-Improved battery life, superior connectivity, consensus mechanisms with low energy requirements, and more powerful phones will enable mobile blockchains.
-
-### [113. Apple Watch Series 6 Review](https://hackernoon.com/apple-watch-series-6-review-yk353wzt)
+### [112. Apple Watch Series 6 Review](https://hackernoon.com/apple-watch-series-6-review-yk353wzt)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FR2mZ8xoyhxN4ldhz2BU4woV0pm42-p283tcm.jpeg?alt=media&token=146d7654-21a0-4401-ba52-c44f0198b03e)
 As technology is updating day by day, many new products are introduced in the market. Today, the device we will discuss is one of the most trendy from 2019 to 2020. A smartwatch, yes, we are going to review ​the Apple Watch Series 6​. 
+
+### [113. The Tech Advancements Powering Mobile Blockchains](https://hackernoon.com/the-tech-advancements-powering-mobile-blockchains-lz5h3732)
+![](https://cdn.hackernoon.com/images/22qULrU2ZPb8VRsSedCeA6x7AJ13-j72y3ojk.jpeg)
+Improved battery life, superior connectivity, consensus mechanisms with low energy requirements, and more powerful phones will enable mobile blockchains.
 
 ### [114. What We Learned While Designing a Mobile Payments SDK](https://hackernoon.com/what-we-learnt-while-designing-a-mobile-payments-sdk-4l4g32xq)
 ![](https://cdn.hackernoon.com/drafts/6bt36fm.png)
@@ -483,21 +485,21 @@ Hello World, today we are going to see how we can implement a dark theme or nig
 ![](https://cdn.hackernoon.com/images/Xzg7rYllMRhosIUAWLr704K6l6u2-jqd3peq.jpeg)
 This article offers insight into mobile app users' and mobile engineers' different perspectives on app performance based on research done by Embrace.
 
-### [120. Communicating to Save Lives: Digital Healthcare in 2021 [Infographic]](https://hackernoon.com/communicating-to-save-lives-digital-healthcare-in-2021-infographic-9t2p332s)
-![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-de1i33oy.jpeg)
-A look at how the future of healthcare has become mobile.
+### [120. Introducing the World’s First Mobile DevOps Assessment: MODAS](https://hackernoon.com/introducing-the-worlds-first-mobile-devops-assessment-modas)
+![](https://cdn.hackernoon.com/images/gsw7B04U0yPHQTIT0Z29jKY2Yy63-ir93owd.jpeg)
+The world’s first Mobile DevOps, Performance, Productivity, and Maturity Assessment.
 
 ### [121. Using Android Studio to Explore the Salesforce Mobile SDK](https://hackernoon.com/using-android-studio-to-explore-the-salesforce-mobile-sdk)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-0093k10.jpeg)
 In the 2nd article of the series, create a native Android application that leverages the Salesforce platform and the Salesforce Mobile SDK.
 
-### [122. 5G Networks and the Future of Cloud Gaming](https://hackernoon.com/5g-networks-and-the-future-of-cloud-gaming)
+### [122. Communicating to Save Lives: Digital Healthcare in 2021 [Infographic]](https://hackernoon.com/communicating-to-save-lives-digital-healthcare-in-2021-infographic-9t2p332s)
+![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-de1i33oy.jpeg)
+A look at how the future of healthcare has become mobile.
+
+### [123. 5G Networks and the Future of Cloud Gaming](https://hackernoon.com/5g-networks-and-the-future-of-cloud-gaming)
 ![](https://cdn.hackernoon.com/images/sVBkbk6XmzVXPG60Acjsp44Cwgt1-z993jfr.jpeg)
 5G has the potential to bring in a new era of gaming in which mobile devices reign supreme.
-
-### [123. Introducing the World’s First Mobile DevOps Assessment: MODAS](https://hackernoon.com/introducing-the-worlds-first-mobile-devops-assessment-modas)
-![](https://cdn.hackernoon.com/images/gsw7B04U0yPHQTIT0Z29jKY2Yy63-ir93owd.jpeg)
-The world’s first Mobile DevOps, Performance, Productivity, and Maturity Assessment.
 
 ### [124. The July Tech Stories That Dominated Our Mobile Newsfeeds](https://hackernoon.com/the-july-tech-stories-that-dominated-our-mobile-newsfeeds-962o3x78)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9CF30VWzFDVN7cdF2lJPZLEAQie2-6c2x3up0.jpeg?alt=media&token=4d81f9f1-a5ef-4665-8714-0be83cc25f92)
@@ -511,13 +513,13 @@ Learn how a mobile app's payment issue was resolved by a software engineer throu
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0t0ePfouBqeDA6bYtv0K9K3uj2q1-4t1a3tx2.jpeg?alt=media&token=99c31501-faf2-4a2a-9fde-f2cb17c4cbe7)
 Only sometime before, 4g was introduced to us and now the hype of 5g is already up. The technology sector is advancing at a very fast rate than any other sector.
 
-### [127. The Power of Mobile Communications](https://hackernoon.com/the-power-of-mobile-communications-at113tzv)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-op1u3td2.jpeg?alt=media&token=91a02c2a-7887-4fae-a951-a0150a0be23b)
-In 2019, 69% of people would rather use their phone than approach an employee in a store. 
-
-### [128. The Noonification: The Worlds First Cell Phone Cost $4,000 (4/30/2023)](https://hackernoon.com/4-30-2023-noonification)
+### [127. The Noonification: The Worlds First Cell Phone Cost $4,000 (4/30/2023)](https://hackernoon.com/4-30-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 4/30/2023: Top 5 stories on the Hackernoon homepage!
+
+### [128. The Power of Mobile Communications](https://hackernoon.com/the-power-of-mobile-communications-at113tzv)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-op1u3td2.jpeg?alt=media&token=91a02c2a-7887-4fae-a951-a0150a0be23b)
+In 2019, 69% of people would rather use their phone than approach an employee in a store. 
 
 ### [129. The Secret Trick For Mobile Viewports](https://hackernoon.com/the-secret-trick-for-mobile-viewports)
 ![](https://cdn.hackernoon.com/images/m1JWnUaHzSX3LPHoHfOainoiYvq2-nu2s3f08.jpeg)

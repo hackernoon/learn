@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [vuejs](https://hackernoon.com/tagged/vuejs)
+### Let's learn about [Vuejs](https://hackernoon.com/tagged/vuejs) via these 99 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Java's open source frameworks offer immense value. Vue Js, in the same vein, is approachable and possesses intuitive API and world class documentation.
 
 ### [1. Angular vs React vs Vue: Which is the Best Choice for 2019?](https://hackernoon.com/angular-vs-react-vs-vue-which-is-the-best-choice-for-2019-16ce0deb3847)
@@ -140,13 +142,13 @@ Over 40, with no technical background, this is how I learned a Frontend Framewor
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-esa3of0.jpeg)
 Vue uses provide and inject to send data down multiple levels without having to use properties - did you know you can set default values for any injected data?
 
-### [35. Lessons From Starting a New Web Service Business ](https://hackernoon.com/lessons-from-starting-a-new-web-service-business)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-w4930mg.jpeg)
- A company wants to start a new web service - a messaging aggregator for customer support. How do you go from an idea to a Python/Vue/Socket.IO web application?
-
-### [36. Using Vue 3 with Parcel JS](https://hackernoon.com/using-vue-3-with-parcel-js)
+### [35. Using Vue 3 with Parcel JS](https://hackernoon.com/using-vue-3-with-parcel-js)
 ![](https://cdn.hackernoon.com/images/7UvMZlp4xVQu6AqlsRww5pVK61t2-cz93plz.jpeg)
 Setting up Parcel JS to build a Vue 3 app
+
+### [36. Lessons From Starting a New Web Service Business ](https://hackernoon.com/lessons-from-starting-a-new-web-service-business)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-w4930mg.jpeg)
+ A company wants to start a new web service - a messaging aggregator for customer support. How do you go from an idea to a Python/Vue/Socket.IO web application?
 
 ### [37. How to Create Dynamic CSS Using Vue Reactive Variables](https://hackernoon.com/how-to-create-dynamic-css-using-vue-reactive-variables)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-i093070.jpeg)
@@ -172,21 +174,21 @@ Build a real-time chat app with Laravel Reverb, Sanctum, and Nuxt 3. Learn secur
 ![](https://cdn.hackernoon.com/images/nau3wyr.jpg)
 When naming your (Vue.js) components, you might sometimes be worried that the names are getting very long. In this article, we take a closer look at how long is too long and what are the most important best practices when it comes to naming your components.
 
-### [43. How to Add Localization to Vue.js App with vue-i18n and Localazy](https://hackernoon.com/how-to-add-localization-to-vuejs-app-with-vue-i18n-and-localazy-71t3whc)
+### [43. The Top Vue Reporting Tools](https://hackernoon.com/the-top-vue-reporting-tools)
+![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-7p0343e.png)
+Explore the top Vue reporting tools and their notable features for your applications in this review of leading options.
+
+### [44. How to Add Localization to Vue.js App with vue-i18n and Localazy](https://hackernoon.com/how-to-add-localization-to-vuejs-app-with-vue-i18n-and-localazy-71t3whc)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMoJkXw8yrXWtwstaEMp5yol53TD2-y5q2wix.png?alt=media&token=bf9cd78f-4553-4576-ad43-198d52483a04)
 Localization of any type of application, be it a web, mobile or desktop app, can be tedious and irritating. In this article, I’ll show you how can you handle that easily with Localazy and vue-18n in a way that you’ll spend your time effectively and actually enjoy the localization process.
 
-### [44. What is ECMAScript and How is it Different From JavaScript?](https://hackernoon.com/what-is-ecmascript-and-how-is-it-different-from-javascrip-m1263u76)
+### [45. What is ECMAScript and How is it Different From JavaScript?](https://hackernoon.com/what-is-ecmascript-and-how-is-it-different-from-javascrip-m1263u76)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2URpjmJLkjVeYGsWZeCo2hCb90Y2-up1g3yt6.jpeg?alt=media&token=5732d5b6-c303-4c6e-b10a-cd1decea1095)
 Many times developers use JavaScript and ECMAScript synonymously for each other. Though they are very closely linked to each other, it does not mean they are the same thing.
 
-### [45. We Built An Open-Source Backend Server for Web & Mobile Developers: AppWrite v0.5 [Announcement] ](https://hackernoon.com/we-built-an-open-source-backend-server-for-web-and-mobile-developers-appwrite-v05-announcement-k68632wq)
+### [46. We Built An Open-Source Backend Server for Web & Mobile Developers: AppWrite v0.5 [Announcement] ](https://hackernoon.com/we-built-an-open-source-backend-server-for-web-and-mobile-developers-appwrite-v05-announcement-k68632wq)
 ![](https://cdn.hackernoon.com/images/l0g13y48.jpg)
 Built-in, automated SSL, custom domains, new authentication features, dark mode, and more! After a lot of work and anticipation from our developers’ community, I am really excited to announce the release of version 0.5 of the Appwrite back-end server.
-
-### [46. The Top Vue Reporting Tools](https://hackernoon.com/the-top-vue-reporting-tools)
-![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-7p0343e.png)
-Explore the top Vue reporting tools and their notable features for your applications in this review of leading options.
 
 ### [47. The Importance Of Selecting The Right Frontend Framework](https://hackernoon.com/the-importance-of-selecting-the-right-frontend-framework-4sk34ae)
 ![](https://hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-6bk349r.jpeg)
@@ -201,13 +203,13 @@ Would you like to know the future of the JavaScript ecosystem and get connected 
 In this article, I will teach you the basics of making your own web app, by creating a checklist app. ASP NET Core will be used to create a CRUD API and Vue will be used to create the frontend UI. Using the knowledge gained here, you should be able to apply it to start making your own web apps. You can find the complete solution in the GitHub repository.
 
 
-### [50. Beginner in Front-End? Don't Learn React, Angular or Vue ](https://hackernoon.com/beginner-in-front-end-dont-learn-react-angular-or-vue-jc1f3wku)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxseHM89vPuWWovVMPqKSMmXE7iS2-2ad3w7p.jpeg?alt=media&token=1125d7af-2147-4a66-ab62-4dd8efb4331d)
-In the first steps as a programmer , people really lose their way trying to find their passion and they keep asking themself a lot of questions like: what should I learn? maybe front-end web development, or maybe Cloud computing, Machine learning engineering is better for me ,nah back-end web development is the one chosen for me .
-
-### [51. Why Is React the Best Front-end Framework to Learn in 2024?](https://hackernoon.com/why-is-react-the-best-front-end-framework-to-learn-in-2024)
+### [50. Why Is React the Best Front-end Framework to Learn in 2024?](https://hackernoon.com/why-is-react-the-best-front-end-framework-to-learn-in-2024)
 ![](https://cdn.hackernoon.com/images/XWk05i8rnIh4jD7Lpxp4izORJrq2-5u93xo0.jpeg)
 In this article, we will explore why React stands out, comparing it with two other popular frameworks, Angular and Vue.js, and why you should choose React.
+
+### [51. Beginner in Front-End? Don't Learn React, Angular or Vue ](https://hackernoon.com/beginner-in-front-end-dont-learn-react-angular-or-vue-jc1f3wku)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxseHM89vPuWWovVMPqKSMmXE7iS2-2ad3w7p.jpeg?alt=media&token=1125d7af-2147-4a66-ab62-4dd8efb4331d)
+In the first steps as a programmer , people really lose their way trying to find their passion and they keep asking themself a lot of questions like: what should I learn? maybe front-end web development, or maybe Cloud computing, Machine learning engineering is better for me ,nah back-end web development is the one chosen for me .
 
 ### [52. Vue: How To Use The Teleport Command](https://hackernoon.com/vue-how-to-use-the-teleport-command)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-p9b3obh.jpeg)
@@ -237,13 +239,13 @@ User authentication and authorization can be difficult and time consuming. Getti
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5w92i6g.jpeg)
 Unlock the full potential of Vue.js with my comprehensive guide to lifecycle hooks, complete with practical examples.
 
-### [59. How to Create a Pronunciation Assessment App (Part 1)](https://hackernoon.com/how-to-create-a-pronunciation-assessment-app-part-1)
-![](https://cdn.hackernoon.com/images/PYCfe2K40igu60gTxx6mvz2TF3q1-i5c2pqi.png)
-The purpose of this tutorial is to create an application to control the user's pronunciation. 
-
-### [60. What is the Difference Between the Composition and Options API in Vue?](https://hackernoon.com/what-is-the-difference-between-the-composition-and-options-api-in-vue)
+### [59. What is the Difference Between the Composition and Options API in Vue?](https://hackernoon.com/what-is-the-difference-between-the-composition-and-options-api-in-vue)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-2s93kfm.jpeg)
 Understand how the newer Composition API in Vue3 differs from the Vue 2 methodology, known as the Options API.
+
+### [60. How to Create a Pronunciation Assessment App (Part 1)](https://hackernoon.com/how-to-create-a-pronunciation-assessment-app-part-1)
+![](https://cdn.hackernoon.com/images/PYCfe2K40igu60gTxx6mvz2TF3q1-i5c2pqi.png)
+The purpose of this tutorial is to create an application to control the user's pronunciation. 
 
 ### [61. Vue.js Plugins: What Are They, Their Benefits, and How to Integrate Them](https://hackernoon.com/vuejs-plugins-what-are-they-their-benefits-and-how-to-integrate-them)
 ![](https://cdn.hackernoon.com/images/JkEsyejByEMVfyf9chUAMs5UcC63-h683xjf.jpeg)
@@ -281,21 +283,21 @@ When building apps that rely on data from an API, two things are essential: we w
 ![](https://cdn.hackernoon.com/images/IdYQsqcNblYaTMb1PeKWepT3eTi1-1kc3pr2.gif.webp)
 Growing up, I had an interest in learning and always dreamed of creating my own software.
 
-### [70. We Created a Netflix Inspired Cover Generator as a NuxtJS Project for Our YT Channel](https://hackernoon.com/we-created-a-netflix-inspired-cover-generator-as-a-nuxtjs-project-for-our-yt-channel-c44s33bz)
+### [70. How to Use an Event Bus in Vue.js 3 ](https://hackernoon.com/how-to-use-an-event-bus-in-vuejs-3)
+![](https://cdn.hackernoon.com/images/4GGscyBq54WMZTFvPzvXy1w56hu1-4k93s28.jpeg)
+In this tutorial, we will use the Vite build tool to scaffold a project.
+
+### [71. We Created a Netflix Inspired Cover Generator as a NuxtJS Project for Our YT Channel](https://hackernoon.com/we-created-a-netflix-inspired-cover-generator-as-a-nuxtjs-project-for-our-yt-channel-c44s33bz)
 ![](https://cdn.hackernoon.com/images/dNECBEJ63YfVC5NiINOPCn7ggPu1-xx1133bz.jpeg)
 We had a need to speed up our YouTube cover creation process. The cover must be interesting, containing the right information and in the right format.
-
-### [71. How To Get 700+ Github Stars in One Week](https://hackernoon.com/how-to-get-700-github-stars-in-one-week-vi2y316o)
-![](https://cdn.hackernoon.com/images/oNVRGVQbqGdKJwCDd4rRpaMQ4US2-7q3r3gd9.jpeg)
-How to quickly get your open source product promoted on GitHub.
 
 ### [72. Nested Changes in Vue: How to Watch Out for them](https://hackernoon.com/nested-changes-in-vue-how-to-watch-out-for-them)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-p093kgn.jpeg)
 In Vue, we sometimes want to watch for changes of properties within properties. In this guide, let's look at how to watch for nested changes in Vue.
 
-### [73. How to Use an Event Bus in Vue.js 3 ](https://hackernoon.com/how-to-use-an-event-bus-in-vuejs-3)
-![](https://cdn.hackernoon.com/images/4GGscyBq54WMZTFvPzvXy1w56hu1-4k93s28.jpeg)
-In this tutorial, we will use the Vite build tool to scaffold a project.
+### [73. How To Get 700+ Github Stars in One Week](https://hackernoon.com/how-to-get-700-github-stars-in-one-week-vi2y316o)
+![](https://cdn.hackernoon.com/images/oNVRGVQbqGdKJwCDd4rRpaMQ4US2-7q3r3gd9.jpeg)
+How to quickly get your open source product promoted on GitHub.
 
 ### [74. A Closer Look at Theme Redone - a WordPress Theme](https://hackernoon.com/a-closer-look-at-theme-redone-a-wordpress-theme)
 ![](https://cdn.hackernoon.com/images/IIYj9A0u8BaTH3XOzaGwOsiEeaU2-iig3108.jpeg)
@@ -331,17 +333,17 @@ Augmenting an SSR app with Vue is pretty straightforward, but you may encounter 
 ![](https://cdn.hackernoon.com/images/doE390LZZVcSI3Ju99QRE2zPs8G3-pd2349s.png)
 Discover the top 6 Vue.js UI libraries of 2024 for Vue 3 apps. Explore Vuetify, Quasar, Element Plus, and more for efficient, modern frontend development.
 
-### [82. I Pushed my Code to the Master Branch Without Tests](https://hackernoon.com/i-pushed-my-code-to-the-master-branch-without-tests-h21m34fp)
+### [82. How to Use Redux in a Project](https://hackernoon.com/how-to-use-redux-in-a-project)
+![](https://cdn.hackernoon.com/images/1W3dv3tgGtYsS9uFXn75FQWYeSE2-yb933n5.png)
+Redux is JavaScript library which is use for centralized state management .
+
+### [83. I Pushed my Code to the Master Branch Without Tests](https://hackernoon.com/i-pushed-my-code-to-the-master-branch-without-tests-h21m34fp)
 ![](https://cdn.hackernoon.com/images/SWuYxmBe5WPlAjznGj5Fb05Thnl1-iqe1bfy.jpeg)
 Until I stumbled upon TDD, I had never really understood tests. I remember writing a whole project without tests and publishing it. Can you believe it? 
 
-### [83. 6 VueJS Admin Templates With Cool UX Design You Should Check Out](https://hackernoon.com/6-vuejs-admin-templates-with-cool-ux-design-you-should-check-out-z51834zt)
+### [84. 6 VueJS Admin Templates With Cool UX Design You Should Check Out](https://hackernoon.com/6-vuejs-admin-templates-with-cool-ux-design-you-should-check-out-z51834zt)
 ![](https://hackernoon.com/images/CPZcQZuKTIRNEmHkkkOCBTvsTyd2-uzjw34jf.jpeg)
 Choose the VueJS template, the fastest-growing framework in JavaScript due to its high performance and flexibility. Check all the benefits inside. 
-
-### [84. How to Use Redux in a Project](https://hackernoon.com/how-to-use-redux-in-a-project)
-![](https://cdn.hackernoon.com/images/1W3dv3tgGtYsS9uFXn75FQWYeSE2-yb933n5.png)
-Redux is JavaScript library which is use for centralized state management .
 
 ### [85. Build a Video Conferencing App using SignalWire and Vue 3](https://hackernoon.com/build-a-video-conferencing-app-using-signalwire-and-vue-3)
 ![](https://cdn.hackernoon.com/images/ODlzSzzaWWcIJKGBZAuZYlaTFj43-72b3gjr.jpeg)
@@ -389,13 +391,13 @@ Using the Teleport function in Vue JS to move Ben Franklin around the screen.
 It is becoming a common pattern to see websites and web apps written as a front end single page application (SPA) connected to a backend API. For this reason, the Visual Studio provides a several project templates for getting up and going with a Web API + SPA project.
 
 
-### [96. Why I Think VueJS Is Exciting with Noonies Nominee Rushikesh Mhetre](https://hackernoon.com/why-i-think-vuejs-is-exciting-with-noonies-nominee-rushikesh-mhetre)
-![](https://cdn.hackernoon.com/images/KabR25RjPfUXthb4Ppf4MEBeaxT2-n713677.jpeg)
-How I became the best at what I do
-
-### [97. Say Hello to Kitbag Router: A New Era of Vue.js Routing](https://hackernoon.com/say-hello-to-kitbag-router-a-new-era-of-vuejs-routing)
+### [96. Say Hello to Kitbag Router: A New Era of Vue.js Routing](https://hackernoon.com/say-hello-to-kitbag-router-a-new-era-of-vuejs-routing)
 ![](https://cdn.hackernoon.com/images/RqKAXZURaZVBvfazjlltxXIYtyo2-l483yrf.png)
 Kitbag Router is a new type safe Vue.js router. It's built from scratch with Typescript and Vue3. 
+
+### [97. Why I Think VueJS Is Exciting with Noonies Nominee Rushikesh Mhetre](https://hackernoon.com/why-i-think-vuejs-is-exciting-with-noonies-nominee-rushikesh-mhetre)
+![](https://cdn.hackernoon.com/images/KabR25RjPfUXthb4Ppf4MEBeaxT2-n713677.jpeg)
+How I became the best at what I do
 
 ### [98. Give Your Users What They Want And You Will Become Successful: Vue.js Creator Interview](https://hackernoon.com/give-your-users-what-they-want-and-you-will-become-successful-vuejs-creator-interview-q3q3t6j)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOlBBYiAclpfCGPi4fQnz4uL5Xa53-j0203toq.jpeg?alt=media&token=f3409b6b-ec60-4aa0-8ab9-863fc7fae005)

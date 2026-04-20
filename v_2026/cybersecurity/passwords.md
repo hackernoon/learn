@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [passwords](https://hackernoon.com/tagged/passwords)
+### Let's learn about [Passwords](https://hackernoon.com/tagged/passwords) via these 74 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Passwords are secret combinations of characters used for authenticating identity and granting access to digital systems, serving as a primary defense against unauthorized access. They matter by being the first line of defense in cybersecurity, crucial for protecting personal and corporate data from malicious actors.
+
 ### [1. 3 Ways to Crack WinRAR Password Protected Files](https://hackernoon.com/3-ways-to-crack-winrar-password-protected-files-5a3r34nw)
 ![](https://hackernoon.com/images/fk3qeJ4h0CMePZUTkb6y9FAvOkF2-ws1331ad.jpeg)
 This article will explain the 3 best methods to recover WinRAR password protected files.
@@ -54,22 +58,22 @@ It can be risky to self-host a password vault if a user lacks full security comp
 ![](https://cdn.hackernoon.com/images/5p2jm3y22.jpg)
 A key derivation function, or KDF, derives one or many secret keys from a secret value. Therefore, If you've ever needed to store a password in a database or create a private key from a password, you may have used a KDF.
 
-### [14. Hands-On WPA Cracking — Capture, Convert, Crack with Hashcat](https://hackernoon.com/hands-on-wpa-cracking-capture-convert-crack-with-hashcat)
-![](https://cdn.hackernoon.com/images/na1LA50pIxdXCxwaer7ISkWR5q52-3t03k1w.png)
-Crack WPA handshakes with Hashcat, learn password hashing, brute-force and mask attack techniques, and how weak Wi-Fi passwords expose networks to threats.
-
-### [15. The Future of Authentication](https://hackernoon.com/the-future-of-authentication-qhbi3ahu)
+### [14. The Future of Authentication](https://hackernoon.com/the-future-of-authentication-qhbi3ahu)
 ![](https://images.unsplash.com/photo-1533709752211-118fcaf03312?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Strong authentication's war is fought not in the trenches of password management along with more complex passwords, passphrases, or even better multifactor authentication. Instead, this war must start with
 fundamental authentication processes as none of the current options will become a long-lasting silver bullet.
 
-### [16. Modernizing Secrets Scanning: Part 1–the Problem](https://hackernoon.com/modernizing-secrets-scanning-part-1-the-problem)
+### [15. Modernizing Secrets Scanning: Part 1–the Problem](https://hackernoon.com/modernizing-secrets-scanning-part-1-the-problem)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ci93pph.jpeg)
 Today I'd like to share some new approaches to secret search at the scanner level.
 
-### [17. Cryptography Trends and News for 2020](https://hackernoon.com/cryptography-trends-and-news-for-2020-087b32u7)
+### [16. Cryptography Trends and News for 2020](https://hackernoon.com/cryptography-trends-and-news-for-2020-087b32u7)
 ![](https://cdn.hackernoon.com/drafts/gv1fo3y8k.png)
 Quantum Computing
+
+### [17. Hands-On WPA Cracking — Capture, Convert, Crack with Hashcat](https://hackernoon.com/hands-on-wpa-cracking-capture-convert-crack-with-hashcat)
+![](https://cdn.hackernoon.com/images/na1LA50pIxdXCxwaer7ISkWR5q52-3t03k1w.png)
+Crack WPA handshakes with Hashcat, learn password hashing, brute-force and mask attack techniques, and how weak Wi-Fi passwords expose networks to threats.
 
 ### [18. How to Go Passwordless with idemeum JavaScript SDK](https://hackernoon.com/how-to-go-passwordless-with-idemeum-javascript-sdk-kk1l34v9)
 ![](https://cdn.hackernoon.com/images/jaWbakAJQ5WAd5zp66eDVCe6mqY2-1i5b3fvt.jpeg)
@@ -183,57 +187,57 @@ In online protection systems, authentication and authorization play an important
 ![](https://cdn.hackernoon.com/drafts/r05x3ypd.png)
 A recent Threatpost poll found that 40 percent of the companies transitioning to WFH experienced a spike in cyberattacks. The survey concluded that patching and updating are among the top challenges for employees when securing their remote footprint.
 
-### [46. Why 85% of People Reuse Passwords Against Expert Advice](https://hackernoon.com/why-85percent-of-people-reuse-passwords-against-expert-advice)
-![](https://cdn.hackernoon.com/images/Pza7Fnbfy7OCXpN7qxXukOmtNnf2-c703b6f.jpeg)
-Traditional password advice is technically correct but practically impossible. Analysis shows 85% reuse passwords due to cognitive overload. 
-
-### [47. 64 Stories To Learn About Passwords](https://hackernoon.com/64-stories-to-learn-about-passwords)
+### [46. 64 Stories To Learn About Passwords](https://hackernoon.com/64-stories-to-learn-about-passwords)
 ![](https://cdn.hackernoon.com/images/github/passwords-873.png)
 Learn everything you need to know about Passwords via these 64 free HackerNoon stories.
 
-### [48. Passwords Suck: Here Are 4 Ways We Can Fix Them](https://hackernoon.com/passwords-suck-here-are-4-ways-we-can-fix-them-vz4h346m)
+### [47. Passwords Suck: Here Are 4 Ways We Can Fix Them](https://hackernoon.com/passwords-suck-here-are-4-ways-we-can-fix-them-vz4h346m)
 ![](https://cdn.hackernoon.com/images/COsrVL2FSsY47237NS3cioaLAjq1-tk8y34kv.jpeg)
 Passwords are a critical part of cybersecurity that individuals and businesses use every day.
 
-### [49. 112 Stories To Learn About Password Security](https://hackernoon.com/112-stories-to-learn-about-password-security)
+### [48. 112 Stories To Learn About Password Security](https://hackernoon.com/112-stories-to-learn-about-password-security)
 ![](https://cdn.hackernoon.com/images/github/password-security-11.png)
 Learn everything you need to know about Password Security via these 112 free HackerNoon stories.
 
-### [50. The Business Costs of Compromised Passwords](https://hackernoon.com/the-business-costs-of-compromised-passwords-3s3834bx)
+### [49. The Business Costs of Compromised Passwords](https://hackernoon.com/the-business-costs-of-compromised-passwords-3s3834bx)
 ![](https://cdn.hackernoon.com/images/G1hdk0kwQEckZIgQj3wUNk7uYNq2-ab1l313x.jpeg)
 Passwords and Their Ability to Bring Down Even the Largest of Enterprises
 
-### [51. Not All Password Managers Are Created Equal: Which is the Best?](https://hackernoon.com/not-all-password-managers-are-created-equal-which-is-the-best-891v346e)
+### [50. Not All Password Managers Are Created Equal: Which is the Best?](https://hackernoon.com/not-all-password-managers-are-created-equal-which-is-the-best-891v346e)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkymH2LDsTvUnmvHkA1oHATjrZwN2-k083wai.jpeg?alt=media&token=62c19958-073e-4e13-badb-4ce196b554da)
 Web-based password managers have emerged as a response to the proliferation of web applications. 
 
-### [52. Password Managers Should be A Mandatory Part of Everyone’s Digital Life](https://hackernoon.com/password-managers-should-be-a-mandatory-part-of-everyones-digital-life-9r4m3yqk)
+### [51. Password Managers Should be A Mandatory Part of Everyone’s Digital Life](https://hackernoon.com/password-managers-should-be-a-mandatory-part-of-everyones-digital-life-9r4m3yqk)
 ![](https://images.unsplash.com/photo-1559085715-23704349e326?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Everyone knows it’s a good idea to use strong, unique passwords, and as employees around the world have been forced to work remotely, logging in from multiple devices and multiple locations, the need for strong password security has only grown. But last year’s Verizon Data Breach Investigations Report (DBIR) revealed that weak or compromised credentials still cause 80% of hacking-related breaches. Throughout the current pandemic, attackers have been scouring remote workforce applications to gather and sell user credentials on the dark web, even targeting healthcare organizations such as the National Institutes of Health and the World Health Organization.
+
+### [52. Passwords Are Dead. What’s Your Excuse for Still Using Them?](https://hackernoon.com/passwords-are-dead-whats-your-excuse-for-still-using-them)
+![](https://cdn.hackernoon.com/images/9G33x0cZ2oXJp3ByghOjQGNRapl2-18039tw.jpeg)
+Passwords don't work. Passwordless authentication isn’t an experiment. It’s a requirement. 
 
 ### [53. The Elimination of Cybersecurity's Status Quo – Passwords  ](https://hackernoon.com/the-elimination-of-cybersecuritys-status-quo---passwords-2l1f379d)
 ![](https://cdn.hackernoon.com/images/G1hdk0kwQEckZIgQj3wUNk7uYNq2-vh3f339o.jpeg)
 According to a report by the World Economic Forum, in the year 2020, cybercrime cost the world economy a staggering $2.9million every minute. According to another report, every single day, enterprises lose about 5 million records containing sensitive data due to vulnerability in their system or a human factor failure. 
 
-### [54. Passwords Are Dead. What’s Your Excuse for Still Using Them?](https://hackernoon.com/passwords-are-dead-whats-your-excuse-for-still-using-them)
-![](https://cdn.hackernoon.com/images/9G33x0cZ2oXJp3ByghOjQGNRapl2-18039tw.jpeg)
-Passwords don't work. Passwordless authentication isn’t an experiment. It’s a requirement. 
-
-### [55. Introduction to Cryptography: Vigenère Cipher [Part 2]](https://hackernoon.com/introduction-to-cryptography-vigenere-cipher-part-2-xo1s31k9)
+### [54. Introduction to Cryptography: Vigenère Cipher [Part 2]](https://hackernoon.com/introduction-to-cryptography-vigenere-cipher-part-2-xo1s31k9)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-8r1c31pk.png)
 Hi again and welcome back to part 2 of the basic cryptography. Previously we discuss about what is cryptography and how fundamental and ancient problem it is in communication science. We talk about ceaser's cipher and how easy it is to break. We also talk about Substitution Cipher which was slight improvement to Ceaser' cipher but can easily be cracked using Frequency analysis technique.
 
-### [56. How Hackers Can Brute-Force Passwords And Find A Correct Key?](https://hackernoon.com/how-hackers-can-brute-force-passwords-and-find-a-correct-key-0yev3yfg)
+### [55. How Hackers Can Brute-Force Passwords And Find A Correct Key?](https://hackernoon.com/how-hackers-can-brute-force-passwords-and-find-a-correct-key-0yev3yfg)
 ![](https://cdn.hackernoon.com/drafts/xq1oe3y28.png)
 Brute force attackers guess passwords, passphrases, and private keys in an attempt to eventually get the right answer and crack the security of a system, but how do they know when they have the right key?
 
-### [57. Death, Taxes, and Password Negligence: The Inevitability of Pwned Passwords](https://hackernoon.com/death-taxes-and-password-negligence-the-inevitability-of-pwned-passwords-os1u3t0d)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxMHIwRtVUPbZchWnZj8KL3SuPOG3-f61u3tz4.jpeg?alt=media&token=e893a139-c7af-45a4-856c-50916b3a2682)
-The internet security slang pwned-- pronounced ‘poned’-- is mainly used to indicate administrative control over someone’s computer account or computer. A password that has been pwned is one that has been compromised in some kind of breach, and it means that it’s no longer safe to use. 
+### [56. Why 85% of People Reuse Passwords Against Expert Advice](https://hackernoon.com/why-85percent-of-people-reuse-passwords-against-expert-advice)
+![](https://cdn.hackernoon.com/images/Pza7Fnbfy7OCXpN7qxXukOmtNnf2-c703b6f.jpeg)
+Traditional password advice is technically correct but practically impossible. Analysis shows 85% reuse passwords due to cognitive overload. 
 
-### [58. MFA Vs. 2FA: Which Is Better And More Secure](https://hackernoon.com/mfa-vs-2fa-which-is-better-and-more-secure-t5l34bt)
+### [57. MFA Vs. 2FA: Which Is Better And More Secure](https://hackernoon.com/mfa-vs-2fa-which-is-better-and-more-secure-t5l34bt)
 ![](https://hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-nhq34hm.jpeg)
 Your 8-character password with numbers, symbols, lowercase, uppercase, and special letters are not enough to shoo away hackers! What to do then? Find out here.
+
+### [58. Death, Taxes, and Password Negligence: The Inevitability of Pwned Passwords](https://hackernoon.com/death-taxes-and-password-negligence-the-inevitability-of-pwned-passwords-os1u3t0d)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxMHIwRtVUPbZchWnZj8KL3SuPOG3-f61u3tz4.jpeg?alt=media&token=e893a139-c7af-45a4-856c-50916b3a2682)
+The internet security slang pwned-- pronounced ‘poned’-- is mainly used to indicate administrative control over someone’s computer account or computer. A password that has been pwned is one that has been compromised in some kind of breach, and it means that it’s no longer safe to use. 
 
 ### [59. Passwords Are a Weak Security Link and Stolen Credentials Is Big Business](https://hackernoon.com/passwords-are-a-weak-security-link-and-stolen-credentials-is-big-business-f67237cr)
 ![](https://cdn.hackernoon.com/images/dUSbiF74uxdUmZwh3jXPmR0TxYv1-oe202bgv.jpeg)
@@ -251,47 +255,51 @@ You may ask, "My web browser already has a built-in password manager, why do I n
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FG1hdk0kwQEckZIgQj3wUNk7uYNq2-1ul3uv6.jpeg?alt=media&token=147d0728-660b-4a5a-ba09-1ad4569c5a99)
 A 2019 research conducted by HYPR showed that 78% of people forgot their passwords and required a reset within the last 90 days. Passwords aren’t just difficult to manage, they are inconvenient, insecure, and expensive because passwords are just too easy to guess, hack or intercept and what’s more, the legacy of password reuse is leading to constant attack and account vulnerabilities.
 
-### [63. Three Things the Coronavirus Confirmed About Enterprise Security](https://hackernoon.com/three-things-the-coronavirus-confirmed-about-enterprise-security-bx9n32gm)
-![](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-With virtually every non-essential business forced to rely on new technology and embrace different ways of working, the coronavirus pandemic has presented organizations with numerous obstacles. While much attention has been paid to how companies can best navigate these challenges, it’s important that we also recognize another truth emerging from our new normal: enterprise security still leaves much to be desired.
-
-### [64. 63% of data breaches exploit weak credentials - Cybersecurity to support remote workers](https://hackernoon.com/63percent-of-data-breaches-exploit-weak-credentials-cybersecurity-to-support-remote-workers-4f3z35rv)
-![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-ucd34as.jpeg)
-A look at how to update the old passwords model to support the future of distributed work.
-
-### [65. Keeping Hackers at Bay with Password Managers  ](https://hackernoon.com/keeping-hackers-at-bay-with-password-managers)
+### [63. Keeping Hackers at Bay with Password Managers  ](https://hackernoon.com/keeping-hackers-at-bay-with-password-managers)
 ![](https://cdn.hackernoon.com/images/CoxvCyMpmLf9vhOHw5DgZ4ezWQj1-8va3tug.jpeg)
 Password managers thwart hackers by securely storing and managing complex passwords, bolstering your online account security
 
-### [66. How Machine Learning Prevents Identity Theft](https://hackernoon.com/how-machine-learning-prevents-identity-theft-9h2z3vpa)
+### [64. Three Things the Coronavirus Confirmed About Enterprise Security](https://hackernoon.com/three-things-the-coronavirus-confirmed-about-enterprise-security-bx9n32gm)
+![](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+With virtually every non-essential business forced to rely on new technology and embrace different ways of working, the coronavirus pandemic has presented organizations with numerous obstacles. While much attention has been paid to how companies can best navigate these challenges, it’s important that we also recognize another truth emerging from our new normal: enterprise security still leaves much to be desired.
+
+### [65. The Password Era Is Dying - But What Comes Next?](https://hackernoon.com/the-password-era-is-dying-but-what-comes-next)
+![](https://cdn.hackernoon.com/images/0occow2Rm7Zauw41hUhjTOc8N7C2-wb83vvx.png)
+As passwords become easier to steal and harder to manage, the future of online security is shifting toward passkeys, biometrics, and smarter identity systems.
+
+### [66. 63% of data breaches exploit weak credentials - Cybersecurity to support remote workers](https://hackernoon.com/63percent-of-data-breaches-exploit-weak-credentials-cybersecurity-to-support-remote-workers-4f3z35rv)
+![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-ucd34as.jpeg)
+A look at how to update the old passwords model to support the future of distributed work.
+
+### [67. How Machine Learning Prevents Identity Theft](https://hackernoon.com/how-machine-learning-prevents-identity-theft-9h2z3vpa)
 ![](https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 With the Big Data gathering precious information, and us leaving our digital footprints all over the internet, it appears that hackers have their hands full. Only in 2018, there were over 3 million identity theft cases in the US. In 25% of them, the amount of money was lost. 
-
-### [67. Do Passwordless Technologies Have an Impact on Cybersecurity?](https://hackernoon.com/do-passwordless-technologies-have-an-impact-on-cybersecurity-mc2p37wv)
-![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-6c1g32gm.jpeg)
-Contrary to popular belief, traditional passwords are not the best way to protect sensitive information on our digital devices.
 
 ### [68. You’ve Learned to Break Wi-Fi. Now Learn to Lock It Down.](https://hackernoon.com/youve-learned-to-break-wi-fi-now-learn-to-lock-it-down)
 ![](https://cdn.hackernoon.com/images/na1LA50pIxdXCxwaer7ISkWR5q52-nf03knz.png)
 A practical guide to Wi-Fi hardening using strong passwords, entropy, OpSec and key router safeguards for a safer, more resilient network.
 
-### [69. Security.org Knows 15 Million Americans Will Be Buying Cryptocurrency in the Next Year](https://hackernoon.com/securityorg-knows-15-million-americans-will-be-buying-cryptocurrency-in-the-next-year-pt7z31xx)
+### [69. Do Passwordless Technologies Have an Impact on Cybersecurity?](https://hackernoon.com/do-passwordless-technologies-have-an-impact-on-cybersecurity-mc2p37wv)
+![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-6c1g32gm.jpeg)
+Contrary to popular belief, traditional passwords are not the best way to protect sensitive information on our digital devices.
+
+### [70. Security.org Knows 15 Million Americans Will Be Buying Cryptocurrency in the Next Year](https://hackernoon.com/securityorg-knows-15-million-americans-will-be-buying-cryptocurrency-in-the-next-year-pt7z31xx)
 ![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-ae7t31yg.jpeg)
 Twelve years after the Bitcoin network came into existence in 2009, we asked nearly 1,300 U.S adults about their familiarity, ownership, and confidence in cryptocurrencies, from Dogecoin to Ethereum, and everything in between. One highlight?  Nearly 15 million Americans plan to purchase crypto for the first time in the next year.
 
-### [70. How Password Managers Can Protect You From Phishing](https://hackernoon.com/how-password-managers-can-protect-you-from-phishing-fi253yfb)
+### [71. How Password Managers Can Protect You From Phishing](https://hackernoon.com/how-password-managers-can-protect-you-from-phishing-fi253yfb)
 ![](https://cdn.hackernoon.com/drafts/km5k36bj.png)
 Password managers are a convenient way to use strong, unique passwords everywhere. Another good thing about password managers is that they help protect you from malicious websites that attempt to "phish" passwords.
 
-### [71. The Anatomy of A Strong Passphrase That Is Easy To Remember](https://hackernoon.com/the-anatomy-of-a-strong-passphrase-that-is-easy-to-remember-sp8c32zp)
+### [72. The Anatomy of A Strong Passphrase That Is Easy To Remember](https://hackernoon.com/the-anatomy-of-a-strong-passphrase-that-is-easy-to-remember-sp8c32zp)
 ![](https://cdn.hackernoon.com/drafts/sg5h03yw0.png)
 We all have hundreds of online accounts. Ideally, as many of those accounts as possible have unique passwords. Unique passwords however present a difficult problem: No one can remember hundreds of strong passwords. 
 
-### [72. How Password Issues Plague Help Desk Calls](https://hackernoon.com/how-password-issues-plague-help-desk-calls-vg3i37jo)
+### [73. How Password Issues Plague Help Desk Calls](https://hackernoon.com/how-password-issues-plague-help-desk-calls-vg3i37jo)
 ![](https://cdn.hackernoon.com/images/G1hdk0kwQEckZIgQj3wUNk7uYNq2-dlq33go.jpeg)
 A article on passwords, password security, and how businesses can train employees to handle passwords themselves.
 
-### [73. Salts and Hashes](https://hackernoon.com/salts-and-hashes-o8683y4y)
+### [74. Salts and Hashes](https://hackernoon.com/salts-and-hashes-o8683y4y)
 ![](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 For the time being, I want you p33ps to ignore the general meaning of these words used in daily context and give a new meaning to them for the current time being.
 

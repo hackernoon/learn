@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [streaming](https://hackernoon.com/tagged/streaming)
+### Let's learn about [Streaming](https://hackernoon.com/tagged/streaming) via these 145 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Streaming is the continuous transmission of audio or video data over a network, allowing instant consumption without full downloads. It has revolutionized media consumption, making content accessible worldwide and driving interactive experiences.
+
 ### [1. How to Use DeepAR For AR Effects on Amazon IVS Live Streams ](https://hackernoon.com/how-to-use-deepar-for-ar-effects-on-amazon-ivs-live-streams)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-wbf3uyj.jpeg)
 Now that people are more accustomed to using video technology, AR stands to dial up both the functionality and fun factor of the medium.
@@ -226,45 +230,45 @@ Read this post for insight into the implications of Beyoncé's successful halfti
 ![](https://cdn.hackernoon.com/images/7GGjdbIpEWhSoNNMb3i5kpsuefF3-q693vyz.jpeg)
 Virtual comedy platform uses scalable, low-latency live stream technology.
 
-### [57. From Wojcicki to Mohan: A Look at the Future of YouTube Under the New CEO](https://hackernoon.com/from-wojcicki-to-mohan-a-look-at-the-future-of-youtube-under-the-new-ceo)
+### [57. I Made a Stream Deck For Literally No Money](https://hackernoon.com/i-made-a-stream-deck-for-literally-no-money)
+![](https://cdn.hackernoon.com/images/AIzf70UHTRQSZpUaEJmqB7MYSRy2-a9835lz.png)
+We all know Stream Decks are expensive. So I decided to make it for literally no money. I’ve been working on an open-source project called NumberDeck.
+
+### [58. From Wojcicki to Mohan: A Look at the Future of YouTube Under the New CEO](https://hackernoon.com/from-wojcicki-to-mohan-a-look-at-the-future-of-youtube-under-the-new-ceo)
 ![](https://cdn.hackernoon.com/images/Fs6yMNLemSQFopm3m8hIZVuGaqN2-is93n84.jpeg)
 In light of Susan Wojcicki's departure as the CEO of Youtube, what is the future of the company like?
 
-### [58. Watching a War, in a Digital Age](https://hackernoon.com/watching-a-war-in-a-digital-age)
+### [59. Watching a War, in a Digital Age](https://hackernoon.com/watching-a-war-in-a-digital-age)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-g793v06.jpeg)
 Watching a war in a digital age, his-story has the potential to become their-story, our-story, and humanity’s-story. 
-
-### [59. I Made a Stream Deck For Literally No Money](https://hackernoon.com/i-made-a-stream-deck-for-literally-no-money)
-![](https://cdn.hackernoon.com/images/AIzf70UHTRQSZpUaEJmqB7MYSRy2-a9835lz.png)
-We all know Stream Decks are expensive. So I decided to make it for literally no money. I’ve been working on an open-source project called NumberDeck.
 
 ### [60. Migrating To Serverless Video Streaming Platforms like AWS Elemental](https://hackernoon.com/migrating-to-serverless-video-streaming-platforms-like-aws-elemental-mo59358g)
 ![](https://cdn.hackernoon.com/images/GTQFBRpjkjMwaWsAydTcKgupNWn2-kqr33tg.jpeg)
 Serverless technology is spreading across the SaaS industry like wildfire, including the Video Streaming industry. Is it a good idea? 
 
-### [61. The MAX Streaming Buffet Is Open ](https://hackernoon.com/the-max-streaming-buffet-is-open)
-![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-eba37de.jpeg)
-WarnerBros. Discovery has raised eyebrows by killing the HBO name and launching a blandly named service, Max. 
-
-### [62. 10 Free Netflix Alternatives](https://hackernoon.com/10-free-netflix-alternatives-dran3v8b)
+### [61. 10 Free Netflix Alternatives](https://hackernoon.com/10-free-netflix-alternatives-dran3v8b)
 ![](https://cdn.hackernoon.com/drafts/uv1a3ynw.png)
 At the point when your spending plan is tight, sliced the string and change to amusement applications like Netflix. There are a few projects like Netflix that offer free TV gushing and free film spilling.
 
-### [63. Beginners can make Money from Video Content Creation- Here's How ](https://hackernoon.com/beginners-can-make-money-from-video-content-creation-heres-how)
-![](https://cdn.hackernoon.com/images/sMb9jbG7hmMOZ6r98HZ2E9i1y6q2-h2b3nhs.jpeg)
-Master how to make money with videos online with this practical guide for beginners! Monetize your video creation skills and earn extra income for your business
+### [62. The MAX Streaming Buffet Is Open ](https://hackernoon.com/the-max-streaming-buffet-is-open)
+![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-eba37de.jpeg)
+WarnerBros. Discovery has raised eyebrows by killing the HBO name and launching a blandly named service, Max. 
 
-### [64. VPNs vs. Streaming Platforms: The Never-Ending War](https://hackernoon.com/vpns-vs-streaming-platforms-the-never-ending-war)
+### [63. VPNs vs. Streaming Platforms: The Never-Ending War](https://hackernoon.com/vpns-vs-streaming-platforms-the-never-ending-war)
 ![](https://cdn.hackernoon.com/images/plnPAeTBlGOPi71snk5X5QqXaO13-8za3qah.jpeg)
 Why are VoDs not banning users for VPN usage on their platform? Read about the never-ending battle between VPN services and streaming platforms.
 
-### [65. Understanding WebRTC ](https://hackernoon.com/understanding-webrtc-fo163umc)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6MJgeKBubmfJXTtT2zEqkAFBZ1E3-3m5w3ubc.jpeg?alt=media&token=969fa55d-cffd-4b7f-8e2e-21abfcd9c8cf)
-What is WebRTC?
+### [64. Beginners can make Money from Video Content Creation- Here's How ](https://hackernoon.com/beginners-can-make-money-from-video-content-creation-heres-how)
+![](https://cdn.hackernoon.com/images/sMb9jbG7hmMOZ6r98HZ2E9i1y6q2-h2b3nhs.jpeg)
+Master how to make money with videos online with this practical guide for beginners! Monetize your video creation skills and earn extra income for your business
 
-### [66. 5 Best Screen Recording Programs for Windows](https://hackernoon.com/5-best-screen-recording-programs-for-windows)
+### [65. 5 Best Screen Recording Programs for Windows](https://hackernoon.com/5-best-screen-recording-programs-for-windows)
 ![](https://cdn.hackernoon.com/images/oEevWswN2vfPMhTFlGQfXPeFXDe2-kme361l.jpeg)
 So you want to create professional-looking screencasts, or record demos for your business, podcast or blog and provide a tutorial for your users?  
+
+### [66. Understanding WebRTC ](https://hackernoon.com/understanding-webrtc-fo163umc)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6MJgeKBubmfJXTtT2zEqkAFBZ1E3-3m5w3ubc.jpeg?alt=media&token=969fa55d-cffd-4b7f-8e2e-21abfcd9c8cf)
+What is WebRTC?
 
 ### [67. Building A Roku Channel From Scratch](https://hackernoon.com/building-a-roku-channel-from-scratch-j51r3uj2)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYmHydCcGCzQzUWBvxb6PtrLtiRg1-dl4u3xrl.jpeg?alt=media&token=eac4dde6-3cfa-4a37-924a-ff49785cf0b9)
@@ -274,41 +278,41 @@ I’d been wanting to create a Roku channel for years but I was really put off
 ![](https://cdn.hackernoon.com/images/7GGjdbIpEWhSoNNMb3i5kpsuefF3-0k93v78.jpeg)
 With the rise of interactive live streaming, the format is no longer confined by traditional broadcast parameters, opening new opportunities.
 
-### [69. Automatic for the People: Why Netflix Is at the Center of a Fight Between Artists and Audiences](https://hackernoon.com/automatic-for-the-people-why-netflix-is-at-the-center-of-a-fight-between-artists-and-audiences-8e223kja)
+### [69. Learning AI From Scratch: Streaming Output, the Secret Sauce Behind Real-Time LLMs](https://hackernoon.com/learning-ai-from-scratch-streaming-output-the-secret-sauce-behind-real-time-llms)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1l02336.jpeg)
+Learn how to build real-time AI experiences with LangChain’s streaming API. Stream tokens, enhance UX, and master LCEL for scalable LLM pipelines.
+
+### [70. Automatic for the People: Why Netflix Is at the Center of a Fight Between Artists and Audiences](https://hackernoon.com/automatic-for-the-people-why-netflix-is-at-the-center-of-a-fight-between-artists-and-audiences-8e223kja)
 ![](https://cdn.hackernoon.com/images/njg436j9.jpg)
 Netflix may well be a haven for original voices in filmmaking. But recently Netflix also alienated artists by testing a feature that would allow viewers to adjust the playback speed of the content they watch. As first reported in Android Police, the feature, known as variable playback speed, is being tested with a small group of Netflix customers who use Android devices. Variable playback speed would make it possible for viewers to reduce the speed of content to 0.5x or 0.75x or accelerate the speed to 1.25x or 1.5x.
 
-### [70. An SVOD Platform That Puts Creators and Consumers in Control - With DeFi](https://hackernoon.com/an-svod-platform-that-puts-creators-and-consumers-in-control-with-defi-zk1g37jd)
+### [71. An SVOD Platform That Puts Creators and Consumers in Control - With DeFi](https://hackernoon.com/an-svod-platform-that-puts-creators-and-consumers-in-control-with-defi-zk1g37jd)
 ![](https://cdn.hackernoon.com/images/KYxOvJh8eBMcIm30PudRwpQ05Kv1-gj223dfb.jpeg)
 Vabble, a blockchain-powered subscription video on demand (SVOD) service that gives both creators and consumers total power over their user experience.
 
-### [71. 98 Stories To Learn About Netflix](https://hackernoon.com/98-stories-to-learn-about-netflix)
+### [72. 98 Stories To Learn About Netflix](https://hackernoon.com/98-stories-to-learn-about-netflix)
 ![](https://cdn.hackernoon.com/images/github/netflix-998.png)
 Learn everything you need to know about Netflix via these 98 free HackerNoon stories.
 
-### [72. Netflix Seeks Higher Revenues by Reaching More Subscribers Despite Ongoing Economic Downturn](https://hackernoon.com/netflix-aims-for-higher-revenues-by-reaching-more-subscribers-despite-economic-downturn)
+### [73. Netflix Seeks Higher Revenues by Reaching More Subscribers Despite Ongoing Economic Downturn](https://hackernoon.com/netflix-aims-for-higher-revenues-by-reaching-more-subscribers-despite-economic-downturn)
 ![](https://cdn.hackernoon.com/images/netflix-cld5dwnwl000001s60n612dsx.png)
 Netflix reported its fourth-quarter earnings on Jan. 19 showing growth in subscribers. Following the results, the company’s stock increased by almost 6%.
-
-### [73. Learning AI From Scratch: Streaming Output, the Secret Sauce Behind Real-Time LLMs](https://hackernoon.com/learning-ai-from-scratch-streaming-output-the-secret-sauce-behind-real-time-llms)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1l02336.jpeg)
-Learn how to build real-time AI experiences with LangChain’s streaming API. Stream tokens, enhance UX, and master LCEL for scalable LLM pipelines.
 
 ### [74. What You Need to Know About Advanced Patterns for Symfony HttpClient](https://hackernoon.com/what-you-need-to-know-about-advanced-patterns-for-symfony-httpclient)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-r903b4c.jpeg)
 I’ll explore high-performance concurrency, memory-safe streaming with new Symfony features, and advanced resilience with retries and circuit breakers
 
-### [75. Batch Processing is So Last Decade—Real-Time Data is the Future](https://hackernoon.com/batch-processing-is-so-last-decadereal-time-data-is-the-future)
+### [75. “Lilo & Stitch” and “Mission: Impossible” Show Why Theaters Matter in a Streaming World](https://hackernoon.com/lilo-and-stitch-and-mission-impossible-show-why-theaters-matter-in-a-streaming-world)
+![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-qr03lxw.png)
+#StitchImpossible is reigniting a debate about the place of movie theaters in a streaming-first world. 
+
+### [76. Batch Processing is So Last Decade—Real-Time Data is the Future](https://hackernoon.com/batch-processing-is-so-last-decadereal-time-data-is-the-future)
 ![](https://cdn.hackernoon.com/images/MAKH1nnwZESgNpmN1TR2ZxT8edl1-lw42sg2.jpeg)
 Businesses need real-time insights to stay competitive and make well-informed decisions in today's data-driven environment. 
 
-### [76. Streaming Revenue Growth Slowed by 19.1% Year-Over-Year in 2019 ](https://hackernoon.com/what-do-the-music-industry-and-netflix-have-in-common-the-slowing-streaming-growth-2jnk32i1)
+### [77. Streaming Revenue Growth Slowed by 19.1% Year-Over-Year in 2019 ](https://hackernoon.com/what-do-the-music-industry-and-netflix-have-in-common-the-slowing-streaming-growth-2jnk32i1)
 ![](https://cdn.hackernoon.com/images/755e32mv.jpg)
 What Do the Music Industry and Netflix Have in Common? The Slowing Streaming Growth
-
-### [77. “Lilo & Stitch” and “Mission: Impossible” Show Why Theaters Matter in a Streaming World](https://hackernoon.com/lilo-and-stitch-and-mission-impossible-show-why-theaters-matter-in-a-streaming-world)
-![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-qr03lxw.png)
-#StitchImpossible is reigniting a debate about the place of movie theaters in a streaming-first world. 
 
 ### [78. Should We Really Adapt to Streaming Services and Say Goodbye to Old School TV?](https://hackernoon.com/should-we-really-adapt-to-streaming-services-and-say-goodbye-to-old-school-tv)
 ![](https://cdn.hackernoon.com/images/eiht07u5rkbElXUpvGsCBqFARrO2-mvc3x69.jpeg)
@@ -322,118 +326,118 @@ What did Netflix really miss? Its more than earnings.
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-fo934gj.jpeg)
 Read this post to understand why Apple Music became the NFL's official partner for the Super Bowl Halftime Show and why the deal matters to sports streaming.
 
-### [81. Video Monetization Strategies:  Methods for Generating Revenue from Online Audiences](https://hackernoon.com/video-monetization-strategies-methods-for-generating-revenue-from-online-audiences-tmn3uir)
+### [81. AVOD vs SVOD: The Business Model Shift Rewriting How Streaming Actually Works](https://hackernoon.com/avod-vs-svod-the-business-model-shift-rewriting-how-streaming-actually-works)
+![](https://cdn.hackernoon.com/images/N9j3RsfGizVgVrabjtuC4bTaHFc2-b683is8.png)
+Ad-tier subscribers are now more profitable than ad-free ones. Here's what the AVOD vs SVOD shift actually means for how streaming makes money.
+
+### [82. Video Monetization Strategies:  Methods for Generating Revenue from Online Audiences](https://hackernoon.com/video-monetization-strategies-methods-for-generating-revenue-from-online-audiences-tmn3uir)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FelSxFAxSKrdQdNKR1XbMJp3CF4f1-lu1k3upn.jpeg?alt=media&token=ea9e16ee-38cf-4614-9a3e-39c675a964d8)
 The online video industry has become popular in the past years with many businesses offering a variety of video services on various niches in streaming media. Due to the high potential of the industry in both business and revenue perspective, many organizations are investing in the streaming market. If your business is looking to use on demand or live video content as a primary revenue streaming, knowing how to monetize videos is important. 
 
-### [82. Podcast Analytics: How to Accurately Measure Content Performance](https://hackernoon.com/podcast-analytics-how-to-accurately-measure-content-performance)
+### [83. Podcast Analytics: How to Accurately Measure Content Performance](https://hackernoon.com/podcast-analytics-how-to-accurately-measure-content-performance)
 ![](https://cdn.hackernoon.com/images/2154ss2B5bMErCDLCSBLfgeyqLE2-v393mzv.jpeg)
 The podcast industry is booming. Each week the number of Americans who listen to podcasts tops the number of those who have  Netflix accounts.
 
 
-### [83. Are There Tax Benefits for Digital Creators?](https://hackernoon.com/are-there-tax-benefits-for-digital-creators)
+### [84. Are There Tax Benefits for Digital Creators?](https://hackernoon.com/are-there-tax-benefits-for-digital-creators)
 ![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-yl93rzw.jpeg)
 Content creators, streamers and social media influencers can all benefit from a wide range of tax deductions. 
 
-### [84. How to Stream Sports Without Cable in Minutes](https://hackernoon.com/how-to-stream-sports-without-cable-in-minutes-b82o3z06)
+### [85. How to Stream Sports Without Cable in Minutes](https://hackernoon.com/how-to-stream-sports-without-cable-in-minutes-b82o3z06)
 ![](https://cdn.hackernoon.com/images/EO1OfWi9WfblI7TLUX8f59eqAuP2-1qu3xle.jpeg)
 More people than ever before are cutting cable and switching solely to streaming to get the programming they desire. However, there’s one group in particular that has been hesitant to cut the cord: sports fans. The biggest reason is they aren’t sure if they’ll be able to watch their favorite games or teams without cable. 
 
-### [85. WebRTC: All You Need To Know About its Advantages and Technical Challenges](https://hackernoon.com/webrtc-all-you-need-to-know-about-its-advantages-and-technical-challenges-bsby3y8y)
+### [86. WebRTC: All You Need To Know About its Advantages and Technical Challenges](https://hackernoon.com/webrtc-all-you-need-to-know-about-its-advantages-and-technical-challenges-bsby3y8y)
 ![](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 WebRTC is a browser technology designed to transfer streaming data between browsers or applications using point-to-point transmission technology. This technology is attractive because it allows you to establish the connection between users using only a browser. For many developers, when they learn about WebRTC, this becomes a discovery: you can create a video chat without using a third-party server, you only need a browser — and this is cool!
 
-### [86. How to Add Streaming to Your Jamstack Site in Minutes](https://hackernoon.com/how-to-add-streaming-to-your-jamstack-site-in-minutes)
+### [87. The Streamable-UI Pattern: Turn Chat Into a Live, Clickable React Dashboard](https://hackernoon.com/the-streamable-ui-pattern-turn-chat-into-a-live-clickable-react-dashboard)
+![](https://cdn.hackernoon.com/images/5W6o6n0PrTMK2FTmudgC0plHuas1-9u13d3o.png)
+A practical walkthrough to stream an AI report as an interactive React component.
+
+### [88. How to Add Streaming to Your Jamstack Site in Minutes](https://hackernoon.com/how-to-add-streaming-to-your-jamstack-site-in-minutes)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ih93pgh.jpeg)
 A look at how simple it is to use Amazon IVS in a simple Jamstack site.
 
-### [87. How to set up a Podcast Studio for Live Streaming](https://hackernoon.com/how-to-set-up-a-podcast-studio-for-live-streaming)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-ck03o8e.jpeg)
-A summary of the video and audio setup I have honed over the past 18 months.
+### [89. Real-Time tricks: Harnessing Kafka Streams for Seamless Data Tasks](https://hackernoon.com/real-time-tricks-harnessing-kafka-streams-for-seamless-data-tasks)
+![](https://cdn.hackernoon.com/images/UEotafwfFeWNbpiTd8aMne1xKrD2-hp83g5t.jpeg)
+Apache Kafka simplifies data discovery and dynamic data integration by providing a unified platform for event streaming and data integration. 
 
-### [88. Three Questions for Netflix’s New Co-CEOs](https://hackernoon.com/three-questions-for-netflixs-new-co-ceos)
+### [90. Three Questions for Netflix’s New Co-CEOs](https://hackernoon.com/three-questions-for-netflixs-new-co-ceos)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-mtc36j6.png)
 Read this post for a deep dive into Netflix's three growth imperatives for 2023..
-
-### [89. Web3 and Metaverse are Overcomplicating the Music Industry](https://hackernoon.com/web3-and-metaverse-are-overcomplicating-the-music-industry)
-![](https://cdn.hackernoon.com/images/Ah2jLzMePieEW0CzYzRXo6GsVyA3-dv93z8n.jpeg)
-Web3 is overcomplicating solutions in the entertainment industry by trying to shoehorn crypto and NFTs into everything and I don’t think it’s necessary. 
-
-### [90. What the Amazon/NFL Deal Means for New Hollywood](https://hackernoon.com/what-the-amazonnfl-deal-means-for-new-hollywood)
-![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-14934ya.png)
-The NFL officially joined the streaming era through a $13 billion deal with Amazon in which TNF games air on Amazon Prime. Here's what this moment means.
 
 ### [91. fitlive is a Better, Easier Way to Provide a Virtual Fitness Experience ](https://hackernoon.com/fitlive-is-a-better-easier-way-to-provide-a-virtual-fitness-experience)
 ![](https://cdn.hackernoon.com/images/7GGjdbIpEWhSoNNMb3i5kpsuefF3-0q93vug.jpeg)
 Fitness instructors are not necessarily all digital natives, although many have large followings.
 
-### [92. CTV Advertising: What It Is and How Brands Can Make the Most of It](https://hackernoon.com/ctv-advertising-what-it-is-and-how-brands-can-make-the-most-of-it)
+### [92. How to set up a Podcast Studio for Live Streaming](https://hackernoon.com/how-to-set-up-a-podcast-studio-for-live-streaming)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-ck03o8e.jpeg)
+A summary of the video and audio setup I have honed over the past 18 months.
+
+### [93. What the Amazon/NFL Deal Means for New Hollywood](https://hackernoon.com/what-the-amazonnfl-deal-means-for-new-hollywood)
+![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-14934ya.png)
+The NFL officially joined the streaming era through a $13 billion deal with Amazon in which TNF games air on Amazon Prime. Here's what this moment means.
+
+### [94. CTV Advertising: What It Is and How Brands Can Make the Most of It](https://hackernoon.com/ctv-advertising-what-it-is-and-how-brands-can-make-the-most-of-it)
 ![](https://cdn.hackernoon.com/images/nIylqmrGl1VrsVg2Cb0puyNcYXP2-2z93qgq.jpeg)
 The entertainment industry is evolving rapidly. Here's how brands can optimize connected TV (CTV) advertising to reach audiences lost to cord-cutting.
 
-### [93. The Modern Day Black Samurai and The Potential of Netflix's New Merchandising Shop ](https://hackernoon.com/the-modern-day-black-samurai-and-the-potential-of-netflixs-new-merchandising-shop-3j5l375m)
+### [95. The Modern Day Black Samurai and The Potential of Netflix's New Merchandising Shop ](https://hackernoon.com/the-modern-day-black-samurai-and-the-potential-of-netflixs-new-merchandising-shop-3j5l375m)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-d04n3goo.jpeg)
 Learn how Netflix is branching out into eCommerce by launching Netflix.shop, which takes an inclusive approach by featuring merchandise from diverse artists.
 
-### [94. Real-Time tricks: Harnessing Kafka Streams for Seamless Data Tasks](https://hackernoon.com/real-time-tricks-harnessing-kafka-streams-for-seamless-data-tasks)
-![](https://cdn.hackernoon.com/images/UEotafwfFeWNbpiTd8aMne1xKrD2-hp83g5t.jpeg)
-Apache Kafka simplifies data discovery and dynamic data integration by providing a unified platform for event streaming and data integration. 
-
-### [95. How to Stream Little League Games 2022 and Its Full Schedule](https://hackernoon.com/how-to-stream-little-league-games-2022-and-its-full-schedule)
+### [96. How to Stream Little League Games 2022 and Its Full Schedule](https://hackernoon.com/how-to-stream-little-league-games-2022-and-its-full-schedule)
 ![](https://cdn.hackernoon.com/images/jLnWCt2fSdOR5QjDq9zr2y03Yhe2-4m93cf8.jpeg)
 For your convenience, we have listed the most popular broadcast networks as well as their schedules.
 
-### [96. Will New Hollywood Save Old Hollywood?](https://hackernoon.com/will-new-hollywood-save-old-hollywood)
+### [97. Will New Hollywood Save Old Hollywood?](https://hackernoon.com/will-new-hollywood-save-old-hollywood)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-bs936t3.jpeg)
 Read this article for insight how New Hollywood streaming companies could help Old Hollywood by releasing films in theaters.
-
-### [97. The Streamable-UI Pattern: Turn Chat Into a Live, Clickable React Dashboard](https://hackernoon.com/the-streamable-ui-pattern-turn-chat-into-a-live-clickable-react-dashboard)
-![](https://cdn.hackernoon.com/images/5W6o6n0PrTMK2FTmudgC0plHuas1-9u13d3o.png)
-A practical walkthrough to stream an AI report as an interactive React component.
 
 ### [98. AI-Native Automation in 5G-Advanced and 6G](https://hackernoon.com/ai-native-automation-in-5g-advanced-and-6g)
 ![](https://cdn.hackernoon.com/images/MqWYbn35dsYpAPosGiMtLgvrVJE2-w783ejg.jpeg)
 Discover how AI-native control planes and edge intelligence solve buffering in the 5G-Advanced era to deliver seamless 8K, XR, and live streaming.
 
-### [99. Using KSQL Stream Processing & Real-Time Databases to Analyze Kafka Streaming Data [A How-To Guide]](https://hackernoon.com/using-ksql-stream-processing-and-real-time-databases-to-analyze-kafka-streaming-data-a-how-to-guide-804i327m)
-![](https://cdn.hackernoon.com/images/vkn53y1i.jpg)
-Intro
-
-### [100. Paramount/Skydance: The Birth of a New Hollywood Mogul?](https://hackernoon.com/paramountskydance-the-birth-of-a-new-hollywood-mogul)
+### [99. Paramount/Skydance: The Birth of a New Hollywood Mogul?](https://hackernoon.com/paramountskydance-the-birth-of-a-new-hollywood-mogul)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-yk83eo0.jpeg)
 Read this post to get insight into the near-term future of New Paramount, the company formed by the merger of Skydance and Paramount. 
 
-### [101. Disney's Subscriber Dip Prompts Focus on Cutting Costs, Improving Streaming Content Quality](https://hackernoon.com/disneys-subscriber-dip-in-q1-prompts-focus-on-cutting-costs-improving-streaming-content-quality)
-![](https://cdn.hackernoon.com/images/8XNOXRgh02hSlut2mkXST3bfX703-jd93pkz.jpeg)
-With the aim of making their streaming business more profitable, Disney said it plans to cut $5.5 billion in costs as well as 7,000 jobs.
+### [100. Using KSQL Stream Processing & Real-Time Databases to Analyze Kafka Streaming Data [A How-To Guide]](https://hackernoon.com/using-ksql-stream-processing-and-real-time-databases-to-analyze-kafka-streaming-data-a-how-to-guide-804i327m)
+![](https://cdn.hackernoon.com/images/vkn53y1i.jpg)
+Intro
 
-### [102. Streaming Services Overtake Free-to-air TV For First Time in Australia; What Does it Imply](https://hackernoon.com/streaming-services-overtake-free-to-air-tv-for-first-time-in-australia-what-does-it-imply)
+### [101. Streaming Services Overtake Free-to-air TV For First Time in Australia; What Does it Imply](https://hackernoon.com/streaming-services-overtake-free-to-air-tv-for-first-time-in-australia-what-does-it-imply)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1292a83.jpeg)
 Australian viewers of OTP streaming services and FTA television were almost the same. However, by the end of 2020 the popularity of OTP services grew by 70%.
 
-### [103. What is the HLS Streaming Protocol and How Does it Work?](https://hackernoon.com/what-is-the-hls-streaming-protocol-and-how-does-it-work-xw1534sp)
+### [102. Disney's Subscriber Dip Prompts Focus on Cutting Costs, Improving Streaming Content Quality](https://hackernoon.com/disneys-subscriber-dip-in-q1-prompts-focus-on-cutting-costs-improving-streaming-content-quality)
+![](https://cdn.hackernoon.com/images/8XNOXRgh02hSlut2mkXST3bfX703-jd93pkz.jpeg)
+With the aim of making their streaming business more profitable, Disney said it plans to cut $5.5 billion in costs as well as 7,000 jobs.
+
+### [103. NFL Going Against VPN Sites For ‘Promoting’ Illegal Streaming](https://hackernoon.com/nfl-going-against-vpn-sites-for-promoting-illegal-streaming-ol1l31ao)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-nkh31sa.jpeg)
+Several takedown notices, reportedly sent on behalf of the NFL, are asking Google to remove VPN-related URLs. According to a recent request, these sites promote the use of VPN services "to illegally stream NFL games." While many of the pages show how VPNs can bypass geographical restrictions, Google has left most URLs in its search results.
+
+### [104. What is the HLS Streaming Protocol and How Does it Work?](https://hackernoon.com/what-is-the-hls-streaming-protocol-and-how-does-it-work-xw1534sp)
 ![](https://hackernoon.com/images/BvZojDJjKgUlcjswNQapIQirZt03-ym2836dm.jpeg)
 HTML5 live streaming solutions have become more popular lately. One of them is the HLS protocol. There are some reasons why this is so popular, the most important of which is that RTMP lost its support by the end of 2020. 
 
-### [104. How To Pick Top Video Call APIs and SDKs For Android and iOS](https://hackernoon.com/how-to-pick-top-video-call-apis-and-sdks-for-android-and-ios-p8y331k)
+### [105. How To Pick Top Video Call APIs and SDKs For Android and iOS](https://hackernoon.com/how-to-pick-top-video-call-apis-and-sdks-for-android-and-ios-p8y331k)
 ![](https://cdn.hackernoon.com/images/WqX56heW9AfoPpvDvvvsumofQo73-ss1623jf.jpeg)
 Video calling is ideal for every type of industry and is considered one of the easiest and safest modes of communication. Because of this, several organizations around the globe are opting for live video chat apps and integrating real-time streaming chat software. The ultimate intention is to facilitate visitors on the website or portal and make communication easy and effective. But, how does an organization choose a video call service provider? And what are the factors to consider before opting for the best live video call APIs and SDKs?
-
-### [105. NFL Going Against VPN Sites For ‘Promoting’ Illegal Streaming](https://hackernoon.com/nfl-going-against-vpn-sites-for-promoting-illegal-streaming-ol1l31ao)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-nkh31sa.jpeg)
-Several takedown notices, reportedly sent on behalf of the NFL, are asking Google to remove VPN-related URLs. According to a recent request, these sites promote the use of VPN services "to illegally stream NFL games." While many of the pages show how VPNs can bypass geographical restrictions, Google has left most URLs in its search results.
 
 ### [106. How Startups Can Leverage AWS for Better Backend Discounts](https://hackernoon.com/how-startups-can-leverage-aws-for-better-backend-discounts)
 ![](https://cdn.hackernoon.com/images/8GQanzjUdAYGxBqUi1iFCeJwMiK2-ml93ybv.jpeg)
 Discover how leveraging AWS's comprehensive services transformed Loop Media, offering insights into cost savings and effective negotiation strategies.
 
-### [107. Why Apple's Win at the 2022 Oscars is a Win for New Hollywood](https://hackernoon.com/why-apples-win-at-the-2022-oscars-is-a-win-for-new-hollywood)
+### [107. Measurement And Attribution Really Matter in 2021: The Hottest CTV Ad Market Trend](https://hackernoon.com/measurement-and-attribution-really-matter-in-2021-the-hottest-ctv-ad-market-trend-kf1633cx)
+![](https://cdn.hackernoon.com/images/OCL36J4ps5MTuW7YoY17gO1cuaN2-ra5d33zv.jpeg)
+How CTV/OTT measurement influences the results and helps in optimization.
+
+### [108. Why Apple's Win at the 2022 Oscars is a Win for New Hollywood](https://hackernoon.com/why-apples-win-at-the-2022-oscars-is-a-win-for-new-hollywood)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-i9932hx.jpeg)
 Read this post for insight into why Apple's victory at the 2022 Oscars is a win for all the New Hollywood streaming companies -- and a sign of Oscar's demise.
-
-### [108. The Future of Health and Entertainment: Technology Benefits Amidst the Pandemic](https://hackernoon.com/the-future-of-health-and-entertainment-technology-benefits-amidst-the-pandemic-jc2p3w0f)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-hp2k3wni.jpeg?alt=media&token=6342c74b-fead-4384-9893-aa2e34b88d57)
-The world presently faces a huge healthcare crisis, in managing the coronavirus. So, it is only ideal to talk about healthcare solutions. However, when a virus is sweeping through the world is not the best time to discuss a 'trivial' issue such as entertainment. More so, where is the connection between the two?
 
 ### [109. How Tonal Introduced Data-Driven Strength Training Classes Through Amazon IVS](https://hackernoon.com/how-tonal-introduced-data-driven-strength-training-classes-through-amazon-ivs)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-x4137vw.png)
@@ -443,29 +447,29 @@ Developed with a data-centric approach to fitness, users refer to Tonal as the w
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-y792g06.jpeg)
 Marketers can expect (yet, again) another turbulent year ahead, but it will include significant opportunities.
 
-### [111. 5 Best VPN Services for Fire Stick](https://hackernoon.com/5-best-vpn-services-for-fire-stick)
+### [111. The Future of Health and Entertainment: Technology Benefits Amidst the Pandemic](https://hackernoon.com/the-future-of-health-and-entertainment-technology-benefits-amidst-the-pandemic-jc2p3w0f)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-hp2k3wni.jpeg?alt=media&token=6342c74b-fead-4384-9893-aa2e34b88d57)
+The world presently faces a huge healthcare crisis, in managing the coronavirus. So, it is only ideal to talk about healthcare solutions. However, when a virus is sweeping through the world is not the best time to discuss a 'trivial' issue such as entertainment. More so, where is the connection between the two?
+
+### [112. 5 Best VPN Services for Fire Stick](https://hackernoon.com/5-best-vpn-services-for-fire-stick)
 ![](https://cdn.hackernoon.com/images/amazon-firestick-on-tv-clfjprxbi000301s6aiw8b400.png)
 Learn about 5 VPN services that work great for streaming on Amazon Fire Stick!
 
-### [112. The Fate of Streaming Services After the Pandemic](https://hackernoon.com/the-pandemics-impact-on-streaming-services)
+### [113. The Fate of Streaming Services After the Pandemic](https://hackernoon.com/the-pandemics-impact-on-streaming-services)
 ![](https://cdn.hackernoon.com/images/aezW4BjRheR0nEbJOTSTOILsyvq2-3pg3otv.jpeg)
 Want to see how the contemporary streaming empire is holding up right now? Who’s leading the pack, and who’s falling behind? Say no more; I got you! 
-
-### [113. Measurement And Attribution Really Matter in 2021: The Hottest CTV Ad Market Trend](https://hackernoon.com/measurement-and-attribution-really-matter-in-2021-the-hottest-ctv-ad-market-trend-kf1633cx)
-![](https://cdn.hackernoon.com/images/OCL36J4ps5MTuW7YoY17gO1cuaN2-ra5d33zv.jpeg)
-How CTV/OTT measurement influences the results and helps in optimization.
 
 ### [114. What Is MPEG-DASH: Dynamic Adaptive Streaming Protocol](https://hackernoon.com/what-is-mpeg-dash-dynamic-adaptive-streaming-protocol-qn2b346j)
 ![](https://cdn.hackernoon.com/images/hppPxBgSz0aMkYziHUEZ3RAFHIi1-ia933ku.jpeg)
 DASH is stated as not a system or a protocol or a demonstration or a codec or interactivity or a client specification
 
-### [115. Please Enjoy Some Brain Candy This Weekend!](https://hackernoon.com/please-enjoy-some-brain-candy-this-weekend)
-![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-qe03pam.jpeg)
-Food for thought is delicious.
-
-### [116. Will Disney+ Create Magic through Profitable Content and Commerce?](https://hackernoon.com/will-disney-create-magic-through-profitable-content-and-commerce)
+### [115. Will Disney+ Create Magic through Profitable Content and Commerce?](https://hackernoon.com/will-disney-create-magic-through-profitable-content-and-commerce)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-oce36xj.jpeg)
 Read this post for insight into two keys to the future of Disney+ and New Hollywood: content and commerce.
+
+### [116. Please Enjoy Some Brain Candy This Weekend!](https://hackernoon.com/please-enjoy-some-brain-candy-this-weekend)
+![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-qe03pam.jpeg)
+Food for thought is delicious.
 
 ### [117. Sign up for the Game: Can AI Make Sports Streams Accessible?](https://hackernoon.com/sign-up-for-the-game-can-ai-make-sports-streams-accessible)
 ![](https://cdn.hackernoon.com/images/tgtfkwpZLncbANN9iyAeL6nJhAh2-6ga3ycw.jpeg)
@@ -481,25 +485,25 @@ When we think of streaming TV shows and movies, the first thing that comes into 
 
 
 
-### [120. Your Guide To Video Streaming Equipment for PC: 2021 Edition](https://hackernoon.com/your-guide-to-video-streaming-equipment-for-pc-2021-edition-wc2131kn)
-![](https://cdn.hackernoon.com/images/DVVIirdDNMZTSEjv6DWRa1kOUSq1-c61331vt.jpeg)
-
+### [120. From Dune HD to Platform24: Dmitry Orekhov’s journey in streaming](https://hackernoon.com/from-dune-hd-to-platform24-dmitry-orekhovs-journey-in-streaming)
+![](https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-vw037ik.jpeg)
+I spoke with Dmitry Orekhov, Executive Director at Platform24, a cutting-edge white-label interactive television and video-on-demand (VoD) platform.
 
 ### [121. It’s Time to Go Beyond the TV in CTV](https://hackernoon.com/its-time-to-go-beyond-the-tv-in-ctv)
 ![](https://cdn.hackernoon.com/images/ZhS0mnYYWpW1ltoZT2wBkScxtv13-fb93kef.png)
 There is no doubt that the explosive growth of connected television (CTV) has been exciting, but the speed at which it has grown has resulted in problems.
 
-### [122. How AI-powered Mobile Apps have turned into a Game-Changer for Musicians](https://hackernoon.com/how-ai-powered-mobile-apps-have-turned-into-a-game-changer-for-musicians-951v3wke)
+### [122. Your Guide To Video Streaming Equipment for PC: 2021 Edition](https://hackernoon.com/your-guide-to-video-streaming-equipment-for-pc-2021-edition-wc2131kn)
+![](https://cdn.hackernoon.com/images/DVVIirdDNMZTSEjv6DWRa1kOUSq1-c61331vt.jpeg)
+
+
+### [123. How AI-powered Mobile Apps have turned into a Game-Changer for Musicians](https://hackernoon.com/how-ai-powered-mobile-apps-have-turned-into-a-game-changer-for-musicians-951v3wke)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSlzb2rFHhpglCn4hRXIqKe76Dvy2-nxu3w4b.jpeg?alt=media&token=4cc3a1ab-d571-47ec-b3b1-90fc06ca889e)
 Between social distancing requirements, stay-at-home orders live concerts, dive bar gigs and massive festivals have disappeared. Making it extremely difficult for musicians to earn a living due to the lack of solutions for fan engagement and revenue. 
 
-### [123. Why the 2021 Emmys Are a Victory for New Hollywood](https://hackernoon.com/why-the-2021-emmys-are-a-victory-for-new-hollywood)
+### [124. Why the 2021 Emmys Are a Victory for New Hollywood](https://hackernoon.com/why-the-2021-emmys-are-a-victory-for-new-hollywood)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-kw03ozv.jpeg)
 Read this post for insight into why the 2021 Emmys represent a victory for New Hollywood hybrid TV/movie streaming companies. 
-
-### [124. From Dune HD to Platform24: Dmitry Orekhov’s journey in streaming](https://hackernoon.com/from-dune-hd-to-platform24-dmitry-orekhovs-journey-in-streaming)
-![](https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-vw037ik.jpeg)
-I spoke with Dmitry Orekhov, Executive Director at Platform24, a cutting-edge white-label interactive television and video-on-demand (VoD) platform.
 
 ### [125. Luive Introduction: Where Music Meets Direct Monetization](https://hackernoon.com/luive-introduction-where-music-meets-direct-monetization-lq253159)
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-l103dgg.jpeg)
@@ -509,79 +513,79 @@ Whether music is your greatest passion project, full-time career, or favorite ho
 ![](https://cdn.hackernoon.com/images/dkjgV1JZZIZLBTFGKK4nRc3It7M2-h91389h.png)
 How to handle updates in indexing pipelines without breaking consistency or reprocessing everything. Practical strategies from real-world systems.
 
-### [127. Media Products vs The Rest: The High Leverage Phenomenon In Media Products](https://hackernoon.com/media-products-vs-the-rest-the-high-leverage-phenomenon-in-media-products-9gv3x70)
+### [127. How Headliner Helped Artists Deliver Quality Virtual Concert Experience During the Pandemic](https://hackernoon.com/how-headliner-helped-artists-deliver-quality-virtual-concert-experience-during-the-pandemic)
+![](https://cdn.hackernoon.com/images/7GGjdbIpEWhSoNNMb3i5kpsuefF3-yh334i8.jpeg)
+While most music is accessible today via streaming services, the allure of experiencing performances live remains strong as fans seek out concerts and festivals. When the global pandemic halted large gatherings, artists began exploring alternate ways to continue performing, typically via live streams ranging from intimate and low-fi setups to clones of stage shows in empty halls. Inspired to help deliver a more dynamic virtual concert experience, Headliner Founder and CEO Matt Smolin began building a new way for artists to connect with fans. Leveraging Amazon Interactive Video Service (Amazon IVS) for ultra-low latency streaming, Headliner established a new medium for performers to host live, interactive virtual concert events.
+
+### [128. Media Products vs The Rest: The High Leverage Phenomenon In Media Products](https://hackernoon.com/media-products-vs-the-rest-the-high-leverage-phenomenon-in-media-products-9gv3x70)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY14t1a3ZEoT7RE6300ayez7dRN83-owm3ui3.jpeg?alt=media&token=0386c527-0fc2-492d-8163-a4e8da6fb042)
 Hulu purchased the rights of Seinfeld in 2015 for $150 Million. For the same deal after 4 years Netflix wrote a check of $400 Million. During these 4 years, neither Larry David nor Jerry Seinfeld (creators of Seinfeld) has done any new work for the show. 
 
-### [128. Shapeshift's FOX Token, H.R.3289, and Of Course…The Cybertruck](https://hackernoon.com/shapeshifts-fox-token-hr3289-and-of-coursethe-cybertruck-6t1p32cn)
+### [129. From a Mac Mini, Running Windows XP, to Streaming Giant: The Twitch Come-Up](https://hackernoon.com/from-a-mac-mini-running-windows-xp-to-streaming-giant-the-twitch-come-up)
+![](https://cdn.hackernoon.com/images/R5Fz9lWq0cOT5bOMbI5RSqffJL93-zsc3p0r.jpeg)
+A brief look at Twitch's humble beginnings, as well as pivotal decisions that turned their fortunes around. 
+
+### [130. Shapeshift's FOX Token, H.R.3289, and Of Course…The Cybertruck](https://hackernoon.com/shapeshifts-fox-token-hr3289-and-of-coursethe-cybertruck-6t1p32cn)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-f683xeg.jpeg)
 11/24/2019
-
-### [129. A Simple Live Stream Toolkit for Business](https://hackernoon.com/a-simple-live-stream-toolkit-for-business)
-![](https://cdn.hackernoon.com/images/25FD7aJjvQXZmpBWsHFW5JYdjMt1-5d037ed.jpeg)
-Not many businesses are using live streaming in their marketing strategies. And they should be. But there's quite a bit of fear of failure standing in the way.
-
-### [130. How Headliner Helped Artists Deliver Quality Virtual Concert Experience During the Pandemic](https://hackernoon.com/how-headliner-helped-artists-deliver-quality-virtual-concert-experience-during-the-pandemic)
-![](https://cdn.hackernoon.com/images/7GGjdbIpEWhSoNNMb3i5kpsuefF3-yh334i8.jpeg)
-While most music is accessible today via streaming services, the allure of experiencing performances live remains strong as fans seek out concerts and festivals. When the global pandemic halted large gatherings, artists began exploring alternate ways to continue performing, typically via live streams ranging from intimate and low-fi setups to clones of stage shows in empty halls. Inspired to help deliver a more dynamic virtual concert experience, Headliner Founder and CEO Matt Smolin began building a new way for artists to connect with fans. Leveraging Amazon Interactive Video Service (Amazon IVS) for ultra-low latency streaming, Headliner established a new medium for performers to host live, interactive virtual concert events.
 
 ### [131. The Noonification: The MAX Streaming Buffet Is Open  (4/18/2023)](https://hackernoon.com/4-18-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 4/18/2023: Top 5 stories on the Hackernoon homepage!
 
-### [132. From a Mac Mini, Running Windows XP, to Streaming Giant: The Twitch Come-Up](https://hackernoon.com/from-a-mac-mini-running-windows-xp-to-streaming-giant-the-twitch-come-up)
-![](https://cdn.hackernoon.com/images/R5Fz9lWq0cOT5bOMbI5RSqffJL93-zsc3p0r.jpeg)
-A brief look at Twitch's humble beginnings, as well as pivotal decisions that turned their fortunes around. 
+### [132. A Simple Live Stream Toolkit for Business](https://hackernoon.com/a-simple-live-stream-toolkit-for-business)
+![](https://cdn.hackernoon.com/images/25FD7aJjvQXZmpBWsHFW5JYdjMt1-5d037ed.jpeg)
+Not many businesses are using live streaming in their marketing strategies. And they should be. But there's quite a bit of fear of failure standing in the way.
 
-### [133. Monetizing Interactive Live Video: How To Get It Right](https://hackernoon.com/monetizing-interactive-live-video-how-to-get-it-right)
-![](https://cdn.hackernoon.com/images/7GGjdbIpEWhSoNNMb3i5kpsuefF3-9x93hwg.jpeg)
-Business success for any brand hinges on monetization. Read on to know how to get it right when it comes to monetizing interactive live videos.
-
-### [134. What Is the Right AWS Live Streaming Solution for Your Use Case](https://hackernoon.com/what-is-the-right-aws-live-streaming-solution-for-your-use-case)
+### [133. What Is the Right AWS Live Streaming Solution for Your Use Case](https://hackernoon.com/what-is-the-right-aws-live-streaming-solution-for-your-use-case)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-3k035qi.jpeg)
 In July last year, AWS launched Amazon IVS, a managed live streaming platform for creating low latency interactive streaming services.
+
+### [134. Monetizing Interactive Live Video: How To Get It Right](https://hackernoon.com/monetizing-interactive-live-video-how-to-get-it-right)
+![](https://cdn.hackernoon.com/images/7GGjdbIpEWhSoNNMb3i5kpsuefF3-9x93hwg.jpeg)
+Business success for any brand hinges on monetization. Read on to know how to get it right when it comes to monetizing interactive live videos.
 
 ### [135. The Fall of a Video Rental Empire: How Blockbuster Grew too Big to Change](https://hackernoon.com/the-fall-of-a-video-rental-empire-how-blockbuster-grew-too-big-to-change-8y7s33xe)
 ![](https://cdn.hackernoon.com/images/q6Bi49pjxyXjrHxoaRaCpxlrHwt2-yg5q33og.jpeg)
 What made Blockbuster different from Netflix; differences that ultimately led to its demise?
 
-### [136. Why Choosing The Right Video Platform Is Essential For Your Business](https://hackernoon.com/why-choosing-the-right-video-platform-is-essential-for-your-business-v11k33on)
-![](https://cdn.hackernoon.com/images/nyJ3v3rRv5NGM0ueVYbwsOuSUNr1-f3t33zo.jpeg)
-The amount of video being created today, as opposed to pre-pandemic, has skyrocketed. 
-
-### [137. Why Warner Brothers Has Gone New Hollywood](https://hackernoon.com/why-warner-brothers-has-gone-new-hollywood-le1c31qv)
-![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-p0y3ebg.jpeg)
-You could have seen this coming.
-
-### [138. What is Adaptive Bitrate Streaming? A Brief Intro to ABR](https://hackernoon.com/what-is-adaptive-bitrate-streaming-a-brief-intro-to-abr)
+### [136. What is Adaptive Bitrate Streaming? A Brief Intro to ABR](https://hackernoon.com/what-is-adaptive-bitrate-streaming-a-brief-intro-to-abr)
 ![](https://cdn.hackernoon.com/images/f3n7t2O1t9U6qbtPUNN2mYK5hIJ2-b893qz9.jpeg)
 Adaptive bitrate streaming, or ABR, is the capability of a video player to adjust the video quality dynamically to match the viewer's network.
 
-### [139. First steps toward interactive live streaming](https://hackernoon.com/first-steps-toward-interactive-live-streaming)
+### [137. First steps toward interactive live streaming](https://hackernoon.com/first-steps-toward-interactive-live-streaming)
 ![](https://cdn.hackernoon.com/images/7GGjdbIpEWhSoNNMb3i5kpsuefF3-ga036ze.jpeg)
 Live video is central to many aspects of modern life, from the way we socialize and keep ourselves entertained to how we work, learn, and more.
 
-### [140. The Big Spotify Shakeup: Founder/CEO Daniel Ek Steps Down, Co-CEOs Norström and Söderström Step Up](https://hackernoon.com/the-big-spotify-shakeup-founderceo-daniel-ek-steps-down-co-ceos-norstrom-and-soderstrom-step-up)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-t203nzz.png)
-The Spotify universe just got a massive leadership shakeup. On September 30, 2025, founder and CEO Daniel Ek announced he’s officially stepping down.
+### [138. Why Choosing The Right Video Platform Is Essential For Your Business](https://hackernoon.com/why-choosing-the-right-video-platform-is-essential-for-your-business-v11k33on)
+![](https://cdn.hackernoon.com/images/nyJ3v3rRv5NGM0ueVYbwsOuSUNr1-f3t33zo.jpeg)
+The amount of video being created today, as opposed to pre-pandemic, has skyrocketed. 
+
+### [139. Why Warner Brothers Has Gone New Hollywood](https://hackernoon.com/why-warner-brothers-has-gone-new-hollywood-le1c31qv)
+![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-p0y3ebg.jpeg)
+You could have seen this coming.
+
+### [140. The HackerNoon Newsletter: Netflix and Amazon: A Tale of Two Ad Tiers (11/14/2024)](https://hackernoon.com/11-14-2024-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_719_sxw11c6ey35qm9l6cp08ah5f.png)
+11/14/2024: Top 5 stories on the HackerNoon homepage!
 
 ### [141. The Perks of Piracy: How Sports Industry Earns Thanks to a Portion of Pirates](https://hackernoon.com/the-perks-of-piracy-how-sports-industry-earns-thanks-to-a-portion-of-pirates)
 ![](https://cdn.hackernoon.com/images/RNrx5pnl6RZYIv9etWzhJ84VDNb2-we036lj.jpeg)
 New research published by Synamedia shows that the sports industry can potentially earn billions in extra revenue with a tailored approach to piracy. 
 
-### [142. The HackerNoon Newsletter: Netflix and Amazon: A Tale of Two Ad Tiers (11/14/2024)](https://hackernoon.com/11-14-2024-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_719_sxw11c6ey35qm9l6cp08ah5f.png)
-11/14/2024: Top 5 stories on the HackerNoon homepage!
-
-### [143. Video on Demand: Comparing the Monetization Models](https://hackernoon.com/video-on-demand-comparing-the-monetization-models)
+### [142. Video on Demand: Comparing the Monetization Models](https://hackernoon.com/video-on-demand-comparing-the-monetization-models)
 ![](https://cdn.hackernoon.com/images/Q87WIz0cnrUeQU36QhscyPwtesU2-wf7359f.png)
 The infrastructure needed to stream videos for your website can be very expensive to build and maintain. These are three monetization strategies that get used.
 
-### [144. How to Build a Product in Public And Get Traction](https://hackernoon.com/how-to-build-a-product-in-public-n91k3xf2)
+### [143. How to Build a Product in Public And Get Traction](https://hackernoon.com/how-to-build-a-product-in-public-n91k3xf2)
 ![](https://cdn.hackernoon.com/images/292632b5.jpg)
 Image by Jorge Guillen from Pixabay 
 
 An increasing number of indie makers decide to build in public. Some do it via their blog, on Twitter, on an open page or via communities. But it can be incredibly daunting to makers who are used to build their products in a more private fashion.
+
+### [144. The Big Spotify Shakeup: Founder/CEO Daniel Ek Steps Down, Co-CEOs Norström and Söderström Step Up](https://hackernoon.com/the-big-spotify-shakeup-founderceo-daniel-ek-steps-down-co-ceos-norstrom-and-soderstrom-step-up)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-t203nzz.png)
+The Spotify universe just got a massive leadership shakeup. On September 30, 2025, founder and CEO Daniel Ek announced he’s officially stepping down.
 
 ### [145. Will Superhero Movies Survive the Streaming Era?](https://hackernoon.com/will-superhero-movies-survive-the-streaming-era-nm313348)
 ![](https://cdn.hackernoon.com/images/WmXWvkdZImbMgbPPYuJzbjVietd2-af2f32sk.jpeg)

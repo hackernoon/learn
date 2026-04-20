@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [teamwork](https://hackernoon.com/tagged/teamwork)
+### Let's learn about [Teamwork](https://hackernoon.com/tagged/teamwork) via these 164 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 There's no I in team. 
 
 ### [1. Deep Dive into Big Tech Design: Experimenting Your Way to Great Products](https://hackernoon.com/deep-dive-into-big-tech-design-experimenting-your-way-to-great-products)
@@ -88,13 +90,13 @@ Learning to lead and manage teams are essential skills for anyone looking to adv
 ![](https://cdn.hackernoon.com/images/gv1g3yeg.jpg)
 Does your team have psychological safety? This may be a much more important question than you think. It may seem unintuitive but safety is a critical ingredient to unlocking your team's potential. Google certainly believes so, and Amy Edmondson at Harvard Business School agrees. 
 
-### [22. How to Use Story Mapping to Define MVP Requirements and Align Teams](https://hackernoon.com/how-to-use-story-mapping-to-define-mvp-requirements-and-align-teams-sc313ugj)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAO7tvfK5ZxMJC8TZ2vk4R3GTxUX2-aw2r3uka.jpeg?alt=media&token=e0003d8b-5f0f-4775-b6d7-2d2dae6edcee)
-Over the course of my career, I have had the pleasure of building multiple products from scratch, and have collected some strategies that help the process of building a new product and lead to a highly productive and streamlined experience for all stakeholders involved. Story mapping is one of those.
-
-### [23. Understanding the Tuckman Model of Team Development](https://hackernoon.com/understanding-the-tuckman-model-of-team-development)
+### [22. Understanding the Tuckman Model of Team Development](https://hackernoon.com/understanding-the-tuckman-model-of-team-development)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-v393zb5.jpeg)
 Psychologist Bruce Tuckman described how teams move through stages known as forming, storming, norming, and performing, and adjourning.
+
+### [23. How to Use Story Mapping to Define MVP Requirements and Align Teams](https://hackernoon.com/how-to-use-story-mapping-to-define-mvp-requirements-and-align-teams-sc313ugj)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAO7tvfK5ZxMJC8TZ2vk4R3GTxUX2-aw2r3uka.jpeg?alt=media&token=e0003d8b-5f0f-4775-b6d7-2d2dae6edcee)
+Over the course of my career, I have had the pleasure of building multiple products from scratch, and have collected some strategies that help the process of building a new product and lead to a highly productive and streamlined experience for all stakeholders involved. Story mapping is one of those.
 
 ### [24. 5 Rules for Effective Team Management in Post-covid Times](https://hackernoon.com/5-rules-for-effective-team-management-in-post-covid-times)
 ![](https://cdn.hackernoon.com/images/FbffgeSiHWYXbhFLDYduYSDX0It2-6293p6e.jpeg)
@@ -128,17 +130,17 @@ Special thanks to a number of people who reviewed this article and gave useful f
 ![](https://cdn.hackernoon.com/images/RMGhgLGonReGmisPwIYAa7M4rTo1-1o92b5f.jpeg)
 Through teamwork and collaboration, you can make yourself replaceable. This ensures the project stays stable and has benefits for you and for the team.
 
-### [32. The Quintessential Work of Remote Developers](https://hackernoon.com/the-quintessential-work-of-remote-developers-5kam367d)
-![](https://cdn.hackernoon.com/images/uppe36w5.jpg)
-Building and supporting software does not require you to be in the office every day. Companies like GitLab, Digital Ocean, CircleCI, InVision, and Stripe have realized that remote work gives them a recruiting and productivity advantage over the competition. 
-
-### [33. How to Become the Greatest Leader of All Time: Tom Brady Style](https://hackernoon.com/how-to-become-the-greatest-leader-of-all-time-tom-brady-style)
+### [32. How to Become the Greatest Leader of All Time: Tom Brady Style](https://hackernoon.com/how-to-become-the-greatest-leader-of-all-time-tom-brady-style)
 ![](https://cdn.hackernoon.com/images/QCzUXmup1gWrS723VFnOS8C4jQ03-drd3ghu.jpeg)
 One of the essential qualities to Tom Brady’s game is his leadership skills to get the maximum talent and productivity out of his teams to become the GOAT. 
 
-### [34. Detailed PMO Time Management Guide: Practical Productivity Hacks ](https://hackernoon.com/detailed-pmo-time-management-guide-practical-productivity-hacks)
+### [33. Detailed PMO Time Management Guide: Practical Productivity Hacks ](https://hackernoon.com/detailed-pmo-time-management-guide-practical-productivity-hacks)
 ![](https://cdn.hackernoon.com/images/SDh5FjAEg1Vr4KDAR5ZU1UpUozl1-wda3ptp.jpeg)
 This is a short guide from the Head of Project Management at Techstack, detailing practical steps for managing your time effectively.  
+
+### [34. The Quintessential Work of Remote Developers](https://hackernoon.com/the-quintessential-work-of-remote-developers-5kam367d)
+![](https://cdn.hackernoon.com/images/uppe36w5.jpg)
+Building and supporting software does not require you to be in the office every day. Companies like GitLab, Digital Ocean, CircleCI, InVision, and Stripe have realized that remote work gives them a recruiting and productivity advantage over the competition. 
 
 ### [35. HackerNoon and the Time We Took the 16 Personalities Test](https://hackernoon.com/hackernoon-and-the-time-we-took-the-16-personalities-test)
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-sx93ofe.jpeg)
@@ -156,13 +158,13 @@ A lot of remote teams start using Slack as a watering hole for getting everyone 
 ![](https://cdn.hackernoon.com/drafts/1fs321s.png)
 There are hundreds of things that could possibly go wrong when you start your own thing. It surely is in the startup stage right now, but there is a clear difference between it growing big and dying out after a year. That difference is - The Vision.
 
-### [39. Why Shielding Your Tech Team May Not Be the Optimal Leadership Approach](https://hackernoon.com/why-shielding-your-tech-team-may-not-be-the-optimal-leadership-approach)
-![](https://cdn.hackernoon.com/images/Eg1Tfo5ZDNXdykFV8q1ZaoXfSQz1-4gc36yn.jpeg)
-New managers often shield their teams from everything. Devs are happy and peacefully working in their cozy world. Everything is amazing! Or is it?
-
-### [40. 7 Most Valuable Soft Skills Of Exceptional Software Engineers](https://hackernoon.com/7-most-valuable-soft-skills-of-exceptional-software-engineers-4t18k30zo)
+### [39. 7 Most Valuable Soft Skills Of Exceptional Software Engineers](https://hackernoon.com/7-most-valuable-soft-skills-of-exceptional-software-engineers-4t18k30zo)
 ![](https://cdn.hackernoon.com/drafts/fh17x3035.png)
 When we think about software engineering, we tend to think about the technical skill set of the professional first. And this makes sense because the skill set defines the quality of work that the software engineer can perform-and make no mistake, quality comes above everything in software development. 
+
+### [40. Why Shielding Your Tech Team May Not Be the Optimal Leadership Approach](https://hackernoon.com/why-shielding-your-tech-team-may-not-be-the-optimal-leadership-approach)
+![](https://cdn.hackernoon.com/images/Eg1Tfo5ZDNXdykFV8q1ZaoXfSQz1-4gc36yn.jpeg)
+New managers often shield their teams from everything. Devs are happy and peacefully working in their cozy world. Everything is amazing! Or is it?
 
 ### [41. Talking to a Developer [Part 1]](https://hackernoon.com/talking-to-a-developer-part-1-145r3z1i)
 ![](https://cdn.hackernoon.com/drafts/bc3tc3zyu.png)
@@ -180,29 +182,29 @@ COVID-19 coronavirus pandemic has resulted in many people to work from home. How
 ![](https://cdn.hackernoon.com/images/the-avengers-clh5cmt7m000001s6573m7461.png)
 Marc Randolph goes over the importance of building a great team.
 
-### [45. Navigating the Software Development Jungle: Spotting Toxic Work Environments](https://hackernoon.com/navigating-the-software-development-jungle-spotting-toxic-work-environments)
-![](https://cdn.hackernoon.com/images/TiGt7cjJFCgJPG6c7CRlJFGBCyk1-sh93zcf.jpeg)
-Navigating a toxic work environment in software development often feels like you're wading through muddy waters.
-
-### [46. I Didn’t Learn Leadership in a Book — I Lived It](https://hackernoon.com/i-didnt-learn-leadership-in-a-book-i-lived-it)
+### [45. I Didn’t Learn Leadership in a Book — I Lived It](https://hackernoon.com/i-didnt-learn-leadership-in-a-book-i-lived-it)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-t402vxz.jpeg)
 An honest, personal reflection on leadership in software teams—covering trust, culture, remote work, and how real leadership starts by showing up.
+
+### [46. Navigating the Software Development Jungle: Spotting Toxic Work Environments](https://hackernoon.com/navigating-the-software-development-jungle-spotting-toxic-work-environments)
+![](https://cdn.hackernoon.com/images/TiGt7cjJFCgJPG6c7CRlJFGBCyk1-sh93zcf.jpeg)
+Navigating a toxic work environment in software development often feels like you're wading through muddy waters.
 
 ### [47. Think of Your Startup as an Ecosystem](https://hackernoon.com/think-of-your-startup-as-an-ecosystem-l28c329z)
 ![](https://cdn.hackernoon.com/drafts/taga532ek.png)
 👆Photo by Markus Spiske
 
-### [48. How to Hack Your Team: Top 5 Tools For Team Management Automation in 2021](https://hackernoon.com/how-to-hack-your-team-top-5-tools-for-team-management-automation-in-2021-sw6231xd)
+### [48. Daily Standup Meeting Is Wasting Your Time](https://hackernoon.com/daily-standup-meeting-is-wasting-your-time-1ss3270)
+![](https://images.unsplash.com/37/tEREUy1vSfuSu8LzTop3_IMG_2538.jpg?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Here is how I saved my team 2200 hours annually not to do it.
+
+### [49. How to Hack Your Team: Top 5 Tools For Team Management Automation in 2021](https://hackernoon.com/how-to-hack-your-team-top-5-tools-for-team-management-automation-in-2021-sw6231xd)
 ![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-6c2a31v2.jpeg)
 Wondering how to increase your remote team's productivity? These tools will help.
 
-### [49. Restcaperoom is an Interactive Exercise for Programmer Interviews](https://hackernoon.com/restcaperoom-is-an-interactive-exercise-for-programmer-interviews-ao3o3u1n)
+### [50. Restcaperoom is an Interactive Exercise for Programmer Interviews](https://hackernoon.com/restcaperoom-is-an-interactive-exercise-for-programmer-interviews-ao3o3u1n)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fec8Z6KvJRRX64jAZmXiQ3hcoS282-x3q3u6x.png?alt=media&token=52f4892a-f0a1-4ee6-ae65-b4294ce6bf1e)
 When you are looking to hire skilled programmers, how do you know if the person you are interviewing indeed has the capabilities he or she is talking about? Well, just let them show you!
-
-### [50. Daily Standup Meeting Is Wasting Your Time](https://hackernoon.com/daily-standup-meeting-is-wasting-your-time-1ss3270)
-![](https://images.unsplash.com/37/tEREUy1vSfuSu8LzTop3_IMG_2538.jpg?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Here is how I saved my team 2200 hours annually not to do it.
 
 ### [51. Ask These 5 Questions From Your Managers Every Month to 10X The Impact](https://hackernoon.com/ask-these-5-questions-from-your-managers-every-month-to-10x-the-impact)
 ![](https://cdn.hackernoon.com/images/corporate-office-humans-in-corporate-attire-clfbdz1x4000001s66rjdhkkh.png)
@@ -212,13 +214,13 @@ The gap between how you view your behaviors and actions and how others perceive 
 ![](https://cdn.hackernoon.com/images/Grou4Hq3q5eKb20yxz41CwiuIny1-8na3kyy.jpeg)
 Historically, management consulting companies have relied primarily on human capital to solve complex business challenges of their clients.
 
-### [53. Online Hackathon to Make the Web More Fun for the Billions Stuck at Home](https://hackernoon.com/online-hackathon-to-make-the-web-more-fun-for-the-billions-stuck-at-home-pq5w322n)
-![](https://cdn.hackernoon.com/images/6hi3yjm.jpg)
-If nothing else, we’ve learned by way of pandemic both the strength of our Internet and how many tools are left to build. As developers, we are in an exciting position to set the standards of our new normal and lay tracks toward the next frontier. This weekend, we are hosting our first Pioneer Hackathon, an attempt to provide community for those in isolation and a bit of prize-fueled, productive fun to fight global cabin fever.
-
-### [54. The 6 Principles of Planning Development and Testing Workload](https://hackernoon.com/the-6-principles-of-planning-development-and-testing-workload)
+### [53. The 6 Principles of Planning Development and Testing Workload](https://hackernoon.com/the-6-principles-of-planning-development-and-testing-workload)
 ![](https://cdn.hackernoon.com/images/OSUTmJJtiXasM5DCthbFVDc3uBi1-e993xu8.jpeg)
 In this article I’d like to introduce 6 principles of workload planning for development & testing teams to create comfortable workflows & deliver top results
+
+### [54. Online Hackathon to Make the Web More Fun for the Billions Stuck at Home](https://hackernoon.com/online-hackathon-to-make-the-web-more-fun-for-the-billions-stuck-at-home-pq5w322n)
+![](https://cdn.hackernoon.com/images/6hi3yjm.jpg)
+If nothing else, we’ve learned by way of pandemic both the strength of our Internet and how many tools are left to build. As developers, we are in an exciting position to set the standards of our new normal and lay tracks toward the next frontier. This weekend, we are hosting our first Pioneer Hackathon, an attempt to provide community for those in isolation and a bit of prize-fueled, productive fun to fight global cabin fever.
 
 ### [55. 8 ways to communicate your ideas to your development team](https://hackernoon.com/8-ways-to-communicate-your-ideas-to-your-development-team-9n4137cw)
 ![](https://cdn.hackernoon.com/images/aHcUME45O0Sw3JLt9OGFJpazIvO2-t83l29e6.jpeg)
@@ -228,13 +230,13 @@ In this article I’d like to introduce 6 principles of workload planning for de
 ![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-9h93o2t.jpeg)
 One-on-one meetings go wrong not because of lack of effort. They go wrong when you don’t pay attention to the little things that are needed to get them right.
 
-### [57. How Slack's Huddles Gave Us The Boost We Needed To Launch](https://hackernoon.com/how-slacks-huddles-gave-us-the-boost-we-needed-to-launch)
-![](https://cdn.hackernoon.com/images/5piuqbzGNPae5bZRCn8CCDvc78P2-pva3pev.jpeg)
-Remote working makes it hard to have the spontaneity that offices can bring. Slack Huddles managed to bring that to one team's successful bid for ProductHunt
-
-### [58. A Guide to Managing Your Agile Engineering Team](https://hackernoon.com/a-guide-to-managing-your-agile-engineering-team)
+### [57. A Guide to Managing Your Agile Engineering Team](https://hackernoon.com/a-guide-to-managing-your-agile-engineering-team)
 ![](https://cdn.hackernoon.com/images/nhCLNNsSDjg02xElB0lsDfZp7g13-r2a3r9j.jpeg)
 Tips to succeed at software Engineering Team Management
+
+### [58. How Slack's Huddles Gave Us The Boost We Needed To Launch](https://hackernoon.com/how-slacks-huddles-gave-us-the-boost-we-needed-to-launch)
+![](https://cdn.hackernoon.com/images/5piuqbzGNPae5bZRCn8CCDvc78P2-pva3pev.jpeg)
+Remote working makes it hard to have the spontaneity that offices can bring. Slack Huddles managed to bring that to one team's successful bid for ProductHunt
 
 ### [59. 84 Stories To Learn About Team Building](https://hackernoon.com/84-stories-to-learn-about-team-building)
 ![](https://cdn.hackernoon.com/images/github/team-building-557.png)
@@ -264,13 +266,13 @@ To be the best of the best, Super Bowl championship teams need an elite level of
 ![](https://cdn.hackernoon.com/images/afaGQhqgIih7mjOnoS6e51t20oH3-ch93rrx.jpeg)
 Do you use the “Three Amigos” Agile strategy?
 
-### [66. What is DevOps and How Does it Influence the Digital Transformation of Companies?](https://hackernoon.com/what-is-devops-and-how-does-it-influence-the-digital-transformation-of-companies-ik2e3wib)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FekjoUM2hWheqSZChQ86GyRsPYCW2-yt2m3wzk.jpeg?alt=media&token=43ebe875-8f1a-49a5-ac59-5b0b0e96ed80)
-When we talk about DevOps we mean the set of process automation practices in the software and IT departments. DevOps is a movement, or work philosophy, also defined as a culture of shared responsibility or systematic thinking, whose ultimate objective is none other than to work based on collaboration between members of the software development and IT / operations teams to achieve better and more agile results.
-
-### [67. 12 Effective Communication Tips Every Software Engineer Should Imbibe ](https://hackernoon.com/12-effective-communication-tips-every-software-engineer-should-imbibe)
+### [66. 12 Effective Communication Tips Every Software Engineer Should Imbibe ](https://hackernoon.com/12-effective-communication-tips-every-software-engineer-should-imbibe)
 ![](https://cdn.hackernoon.com/images/pPX468t5lxWcWjWC6mnoc1uB98G2-bl93ifk.jpeg)
 How to improve your communication skills as a software engineer and increase your effectivity
+
+### [67. What is DevOps and How Does it Influence the Digital Transformation of Companies?](https://hackernoon.com/what-is-devops-and-how-does-it-influence-the-digital-transformation-of-companies-ik2e3wib)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FekjoUM2hWheqSZChQ86GyRsPYCW2-yt2m3wzk.jpeg?alt=media&token=43ebe875-8f1a-49a5-ac59-5b0b0e96ed80)
+When we talk about DevOps we mean the set of process automation practices in the software and IT departments. DevOps is a movement, or work philosophy, also defined as a culture of shared responsibility or systematic thinking, whose ultimate objective is none other than to work based on collaboration between members of the software development and IT / operations teams to achieve better and more agile results.
 
 ### [68. 7 Soft Skills You Need for 2023 and How to Develop Them](https://hackernoon.com/7-soft-skills-you-need-for-2023-and-how-to-develop-them)
 ![](https://cdn.hackernoon.com/images/7w1808IzuEYmT5lSPXBgFUs43Ym2-l193on2.jpeg)
@@ -280,17 +282,17 @@ This post will share seven soft skills programmers can develop to position them 
 ![](https://cdn.hackernoon.com/images/fQM8X1NqkSb7lOzNeX2NxO5YUIA3-ukb3584.jpeg)
 To prepare for brainstorming, it is necessary to gather a team, acquaint all the participants with the rules of brainstorming, and also prepare questions.
 
-### [70. Decentralizing the Office Space: Distributed Workplace is a New Norm](https://hackernoon.com/decentralizing-the-office-space-for-a-distributed-workplace-txk3nmu)
+### [70. From Zero to Hero: Build a Team of High-Performers](https://hackernoon.com/from-zero-to-hero-build-a-team-of-high-performers)
+![](https://cdn.hackernoon.com/images/9iahrcrDpMhRaZM9YsXtu7BNLsq2-vg93pf9.jpeg)
+Building a successful business is a challenging task. It takes dedication, hard work, and a team of individuals willing to work together to achieve a common goal. I always say this, but businesses don’t move people; people move businesses.
+
+### [71. Decentralizing the Office Space: Distributed Workplace is a New Norm](https://hackernoon.com/decentralizing-the-office-space-for-a-distributed-workplace-txk3nmu)
 ![](https://cdn.hackernoon.com/images/ft1f3ns3.jpg)
 In recent years, remote working has become less of a concept and more of a reality. In lieu of traditional office space, full-time employees and freelancers alike are occupying home-offices, WeWork hot desks, and tables at their local life-source outlets (read: cafés selling coffee). Many progressive thinkers at the forefront of business forecasting, like Naval Ravikant, are professing that a digitally-facilitated, remote working environment is the next logical step for contemporary businesses looking to up their productivity output. However, is this just optimistic theorizing, or is there an actual basis for the distributed workplace to, well, work in the long-term? 
 
-### [71. Successful Managers Are Shit Umbrellas: Leadership 101](https://hackernoon.com/successful-managers-are-shit-umbrellas-leadership-101-j3483wuh)
+### [72. Successful Managers Are Shit Umbrellas: Leadership 101](https://hackernoon.com/successful-managers-are-shit-umbrellas-leadership-101-j3483wuh)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV9J0kJWT15dwSuG3CLQTn9lZjeE3-1c1z31c4.jpeg?alt=media&token=b3442641-a0dd-424e-a5ba-4af95442574f)
 From the desk of a brilliant weirdo #1: If you’re having a hard time getting your team on the same page, I want to let you know that you’re not alone.
-
-### [72. From Zero to Hero: Build a Team of High-Performers](https://hackernoon.com/from-zero-to-hero-build-a-team-of-high-performers)
-![](https://cdn.hackernoon.com/images/9iahrcrDpMhRaZM9YsXtu7BNLsq2-vg93pf9.jpeg)
-Building a successful business is a challenging task. It takes dedication, hard work, and a team of individuals willing to work together to achieve a common goal. I always say this, but businesses don’t move people; people move businesses.
 
 ### [73. Save Yourself the Headaches and Document Agreements the Right Way](https://hackernoon.com/save-yourself-the-headaches-and-document-agreements-the-right-way)
 ![](https://cdn.hackernoon.com/images/Eg1Tfo5ZDNXdykFV8q1ZaoXfSQz1-vz936oa.jpeg)
@@ -300,89 +302,89 @@ Agreements are an essential part of software development. They lower development
 ![](https://cdn.hackernoon.com/drafts/bg1xr2gox.png)
 The definition and content of activities of the software development manager can vary widely.
 
-### [75. The Art of (Architecture) Decision Making](https://hackernoon.com/the-art-of-architecture-decision-making)
+### [75. Bring me Problems Not Solutions: Why Problem-Centric Leadership is Effective ](https://hackernoon.com/bring-me-problems-not-solutions-why-problem-centric-leadership-is-effective)
+![](https://cdn.hackernoon.com/images/BGxDwa3b3xZ4ElWzxNjNLDk81R02-da930zu.jpeg)
+Explore the limitations of the common leadership mantra "Bring me solutions, not problems." 
+
+### [76. The Art of (Architecture) Decision Making](https://hackernoon.com/the-art-of-architecture-decision-making)
 ![](https://cdn.hackernoon.com/images/n0njuj6YxWUeuiSXS6D2qNFP4vI2-uq92kh8.gif.webp)
 Architects play an important part in decision making, but it comes with great responsibility.  What if the decision is "wrong"  How to minimize the uncertainty?
 
-### [76. What Is Your Leadership Style](https://hackernoon.com/what-is-your-leadership-style-x8l3u4c)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAO7tvfK5ZxMJC8TZ2vk4R3GTxUX2-9qa63uk1.jpeg?alt=media&token=956e66ee-f68a-4c3a-9e7a-de63b11b4573)
-Leadership comes in many shapes and forms, sizes, titles or lack thereof, and has a profound impact on whoever and whatever follows. Google defines leadership as "the action of leading a group of people or an organization", and to lead as "organize and direct", "be the principal player of a group", or "set (a process) in motion" among many similar definitions.
-
-### [77. Approach to design of information systems](https://hackernoon.com/approach-to-design-of-information-systems-o31633ue)
-![](https://cdn.hackernoon.com/images/eV5PQYztB3aTpBnYWcEFhU3vsYf2-vhk33yw.jpeg)
-One of the leading Free TON development teams - RSquad shares its experience in information systems design and teamwork
+### [77. Same Product = Same Team: Myth or Fact?](https://hackernoon.com/same-product-same-team-myth-or-fact-4o7p32te)
+![](https://cdn.hackernoon.com/drafts/l02f32ig.png)
+The Scrum Guide is quite clear on one important thing: for one product there is only one Product Owner and only one Product Backlog:
 
 ### [78. How to Build a Dream Team: Tips for CTO](https://hackernoon.com/how-to-build-a-dream-team-tips-for-cto-946o35t6)
 ![](https://cdn.hackernoon.com/images/0qfg9cGG68XNM6wWCkDej6KjiX92-7da633f8.jpeg)
 Even though a group of individuals is called a team, they are not. People do not know exactly which direction they are going and may pursue different goals.
 
-### [79. Same Product = Same Team: Myth or Fact?](https://hackernoon.com/same-product-same-team-myth-or-fact-4o7p32te)
-![](https://cdn.hackernoon.com/drafts/l02f32ig.png)
-The Scrum Guide is quite clear on one important thing: for one product there is only one Product Owner and only one Product Backlog:
+### [79. What Is Your Leadership Style](https://hackernoon.com/what-is-your-leadership-style-x8l3u4c)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAO7tvfK5ZxMJC8TZ2vk4R3GTxUX2-9qa63uk1.jpeg?alt=media&token=956e66ee-f68a-4c3a-9e7a-de63b11b4573)
+Leadership comes in many shapes and forms, sizes, titles or lack thereof, and has a profound impact on whoever and whatever follows. Google defines leadership as "the action of leading a group of people or an organization", and to lead as "organize and direct", "be the principal player of a group", or "set (a process) in motion" among many similar definitions.
 
-### [80. How to Deal With Different People on Your Team ](https://hackernoon.com/how-to-deal-with-different-people-on-your-team)
-![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-tr03bxa.png)
-If you take the time to notice people around you, you’ll find that they all have unique styles in the way they talk, how they work and what motivates them.
+### [80. Approach to design of information systems](https://hackernoon.com/approach-to-design-of-information-systems-o31633ue)
+![](https://cdn.hackernoon.com/images/eV5PQYztB3aTpBnYWcEFhU3vsYf2-vhk33yw.jpeg)
+One of the leading Free TON development teams - RSquad shares its experience in information systems design and teamwork
 
-### [81. How I Learned to Stop Worrying and Love Technical Debt](https://hackernoon.com/how-i-learned-to-stop-worrying-and-love-technical-debt)
-![](https://cdn.hackernoon.com/images/KobPcf5nazNcjh4iUfyRlmitv723-z493qzp.jpeg)
-Jamal stared at his screen, perplexed by the convoluted SQL query he was trying to decipher. 
-
-### [82. DevOps Principles: Culture Vs. Tooling](https://hackernoon.com/devops-principles-culture-vs-tooling-vvac367z)
+### [81. DevOps Principles: Culture Vs. Tooling](https://hackernoon.com/devops-principles-culture-vs-tooling-vvac367z)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-nm82riz.jpeg)
 One of the last questions asked in a DevOps interview is usually "so, what does DevOps mean to you?" I think this is a smart question, because DevOps is wildly misunderstood by the greater IT community. Some may answer that it's Continuous Integration and Releases, another may say it's having everything in Git, and the last might say that it's having tests available. All of these technical solutions do represent a key aspect of DevOps which is the tool chain, but it is the least important. 
 
-### [83. Bring me Problems Not Solutions: Why Problem-Centric Leadership is Effective ](https://hackernoon.com/bring-me-problems-not-solutions-why-problem-centric-leadership-is-effective)
-![](https://cdn.hackernoon.com/images/BGxDwa3b3xZ4ElWzxNjNLDk81R02-da930zu.jpeg)
-Explore the limitations of the common leadership mantra "Bring me solutions, not problems." 
+### [82. How I Learned to Stop Worrying and Love Technical Debt](https://hackernoon.com/how-i-learned-to-stop-worrying-and-love-technical-debt)
+![](https://cdn.hackernoon.com/images/KobPcf5nazNcjh4iUfyRlmitv723-z493qzp.jpeg)
+Jamal stared at his screen, perplexed by the convoluted SQL query he was trying to decipher. 
 
-### [84. Healthy Conflict is Necessary in the Workplace](https://hackernoon.com/healthy-conflict-is-necessary-in-the-workplace-4o4z3tce)
+### [83. Healthy Conflict is Necessary in the Workplace](https://hackernoon.com/healthy-conflict-is-necessary-in-the-workplace-4o4z3tce)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-wv263t8y.png?alt=media&token=33721fb9-4625-46c4-b50f-2c03fe5fffc3)
 I have always been wowed by people’s irrational desire to avoid healthy conflicts at work. It seemed that their primary goal is not to achieve results but to treat each other politely. Everyone was super polite and courteous. We were not making pots and pans; we were celebrating the Day of Politeness. 
 
-### [85. Creating a Simple yet Effective Engineering Culture](https://hackernoon.com/creating-a-simple-yet-effective-engineering-culture)
-![](https://cdn.hackernoon.com/images/GyHcclXEqxMEGaXs0kqDvWMZubD2-f6f3p5k.gif.webp)
-The best time to build an engineering culture is from the start, as retrofitting culture is not always so smooth, but the next-best time is now.
+### [84. Can Your Team Be as Powerful as the Justice League?](https://hackernoon.com/can-your-team-be-as-powerful-as-the-justice-league)
+![](https://cdn.hackernoon.com/images/GRuz5kK8mePkhBUO2meFLLpfR6o1-6093oqs.jpeg)
+Surround yourself with people much smarter than you, keep them happy, take care of them, let them know that you see them as important, amazing people, and they 
 
-### [86. Nasty Psychological Tricks People Play](https://hackernoon.com/nasty-psychological-tricks-people-play)
+### [85. Nasty Psychological Tricks People Play](https://hackernoon.com/nasty-psychological-tricks-people-play)
 ![](https://cdn.hackernoon.com/images/l9CvmWIChROxVjowyW2j4VzGEW32-o4a30sa.gif.webp)
 Three ways we play psychological games in relationships through the lens of the Karpman Drama Triangle, victimhood, manipulation and different ego states
 
-### [87. Can Your Team Be as Powerful as the Justice League?](https://hackernoon.com/can-your-team-be-as-powerful-as-the-justice-league)
-![](https://cdn.hackernoon.com/images/GRuz5kK8mePkhBUO2meFLLpfR6o1-6093oqs.jpeg)
-Surround yourself with people much smarter than you, keep them happy, take care of them, let them know that you see them as important, amazing people, and they 
+### [86. Creating a Simple yet Effective Engineering Culture](https://hackernoon.com/creating-a-simple-yet-effective-engineering-culture)
+![](https://cdn.hackernoon.com/images/GyHcclXEqxMEGaXs0kqDvWMZubD2-f6f3p5k.gif.webp)
+The best time to build an engineering culture is from the start, as retrofitting culture is not always so smooth, but the next-best time is now.
+
+### [87. Learn How To Use Git Submodules on Practice](https://hackernoon.com/learn-how-to-use-git-submodules-on-practice-t51435ii)
+![](https://cdn.hackernoon.com/images/4HtDd2gu7Ya3rJQk75OcK0ERkP73-wf7u45wt.jpeg)
+In this post we learn about concept of Submodules in git by actually troubleshooting a case of embedding multiple git repositories
 
 ### [88. Keep Sharing Context: How to Enable Better and Faster Product Decisions](https://hackernoon.com/product-managing-a-team-how-to-enable-better-and-faster-product-decisions-ir3m3tq1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGsh3fmpheYQwIPKBkd2v4WdsjV63-c9a3tq9.jpeg?alt=media&token=d98c491b-6240-452b-8718-3f02b4485925)
 “So, what do you think?” — says the Product Manager after a product strategy presentation to his team
 
-### [89. Learn How To Use Git Submodules on Practice](https://hackernoon.com/learn-how-to-use-git-submodules-on-practice-t51435ii)
-![](https://cdn.hackernoon.com/images/4HtDd2gu7Ya3rJQk75OcK0ERkP73-wf7u45wt.jpeg)
-In this post we learn about concept of Submodules in git by actually troubleshooting a case of embedding multiple git repositories
-
-### [90. Skyeng’s In-house Services: Doing More With Less](https://hackernoon.com/skyengs-in-house-services-doing-more-with-less-nl1433hr)
-![](https://cdn.hackernoon.com/images/aPQSXVJRQbXJjkCDJXLdynyL9hd2-0z7t3338.jpeg)
-How We Accomplish More While Working Less
-
-### [91. How Team Collaboration Impacts Cybersecurity](https://hackernoon.com/how-team-collaboration-impacts-cybersecurity)
-![](https://cdn.hackernoon.com/images/08kqxtF0wOR294ukfFuRLXEWE052-p293puh.jpeg)
-Team synergy is everything when it comes to cybersecurity.
-
-### [92. The “Best Practice” Trap](https://hackernoon.com/the-best-practice-trap)
+### [89. The “Best Practice” Trap](https://hackernoon.com/the-best-practice-trap)
 ![](https://substackcdn.com/image/fetch/$s_!C2Ty!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f211230-3840-4290-965d-ca4adb27fe3c_1024x572.png)
 Don’t go in with an opinion. Go in with data. Prepare one piece of evidence before you walk into the room or join the call.
 
-### [93. Code Reviews: Tips On Getting More Feedback](https://hackernoon.com/code-reviews-tips-on-getting-more-feedback-mg2535zb)
+### [90. How Team Collaboration Impacts Cybersecurity](https://hackernoon.com/how-team-collaboration-impacts-cybersecurity)
+![](https://cdn.hackernoon.com/images/08kqxtF0wOR294ukfFuRLXEWE052-p293puh.jpeg)
+Team synergy is everything when it comes to cybersecurity.
+
+### [91. Code Reviews: Tips On Getting More Feedback](https://hackernoon.com/code-reviews-tips-on-getting-more-feedback-mg2535zb)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-ds1n352c.jpeg)
 Nobody leaving comments on your code reviews? Try out these 3 tips on getting eye balls on your pull requests
+
+### [92. Skyeng’s In-house Services: Doing More With Less](https://hackernoon.com/skyengs-in-house-services-doing-more-with-less-nl1433hr)
+![](https://cdn.hackernoon.com/images/aPQSXVJRQbXJjkCDJXLdynyL9hd2-0z7t3338.jpeg)
+How We Accomplish More While Working Less
+
+### [93. Cross-Functional, Self-Organized, or Self-Managed Teams](https://hackernoon.com/cross-functional-self-organized-or-self-managed-teams)
+![](https://cdn.hackernoon.com/images/4heWOm7oGwNwUUrXGb8YLf1kc4P2-pl033np.jpeg)
+Exploring misconceptions about Agile methods and terminology, including cross-functional and self-managed teams, and the importance of focusing on actual work.
 
 ### [94. Explaining Important Skills For Hero Developers Using Lego Bricks](https://hackernoon.com/explaining-important-skills-for-hero-developers-using-lego-bricks-ru9832ax)
 ![](https://cdn.hackernoon.com/drafts/a61ev36fi.png)
 Programming is like building Lego bricks. Any developer can pick a brand new Lego set and build it following the instructions. This is very easy. Think of it as coding school assignments or entry level tutorials.
 
-### [95. Cross-Functional, Self-Organized, or Self-Managed Teams](https://hackernoon.com/cross-functional-self-organized-or-self-managed-teams)
-![](https://cdn.hackernoon.com/images/4heWOm7oGwNwUUrXGb8YLf1kc4P2-pl033np.jpeg)
-Exploring misconceptions about Agile methods and terminology, including cross-functional and self-managed teams, and the importance of focusing on actual work.
+### [95. Explore Why You Should Keep a Growth Mindset in Interviews](https://hackernoon.com/explore-why-you-should-keep-a-growth-mindset-in-interviews)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-8v93vg6.jpeg)
+In situations where we change or update the tech stack, the team will be required to learn new languages, frameworks, databases, etc.
 
 ### [96. Secrets of Effective Collaboration With a Remote Team](https://hackernoon.com/secrets-of-effective-collaboration-with-a-remote-team-4o1c324o)
 ![](https://cdn.hackernoon.com/images/mgw32nt.jpg)
@@ -392,21 +394,21 @@ Alexey Kataev, Head of Development at Skyeng, talks about running an efficient r
 ![](https://cdn.hackernoon.com/drafts/hnmx2zzl.png)
 Every single day, people head to work with the desires that they will have the option to finish their day by day undertakings liberated from accidents or some other wellbeing dangers. Positively, we as a whole have the right to work in protected and clean conditions. And keeping in mind that most organizations take measures to guarantee the wellbeing of their representatives, accidents will undoubtedly occur. In any case, there are approaches to guarantee that such accidents are limited and unfit to show genuine sick impacts. 
 
-### [98. Explore Why You Should Keep a Growth Mindset in Interviews](https://hackernoon.com/explore-why-you-should-keep-a-growth-mindset-in-interviews)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-8v93vg6.jpeg)
-In situations where we change or update the tech stack, the team will be required to learn new languages, frameworks, databases, etc.
-
-### [99. Hacking the Set Up of Your Scrum Team to Start Delivering Within 48 hours](https://hackernoon.com/hacking-the-set-up-of-your-scrum-team-to-start-delivering-within-48-hours-se2l36mh)
+### [98. Hacking the Set Up of Your Scrum Team to Start Delivering Within 48 hours](https://hackernoon.com/hacking-the-set-up-of-your-scrum-team-to-start-delivering-within-48-hours-se2l36mh)
 ![](https://cdn.hackernoon.com/images/YkXbI1d3JYbsFUXUXntGyt1n5073-mt2l34i7.jpeg)
 The complete guide to hacking the setup of your scrum team and start delivering business value in 48 hours.
 
-### [100. Product Teams: Stop Estimating, Start Budgeting](https://hackernoon.com/product-teams-stop-estimating-start-budgeting-ep1x32ug)
+### [99. Product Teams: Stop Estimating, Start Budgeting](https://hackernoon.com/product-teams-stop-estimating-start-budgeting-ep1x32ug)
 ![](https://cdn.hackernoon.com/images/k7lu3yu2.jpg)
 Why do we so often ask teams to estimate in detail how much effort is required to build a product, and to that upfront? There’s evidence that this lead us to output-oriented thinking, premature optimization, bloat and generally a commitment to suboptimal solutions that are designed with too many assumptions and a lack of clarity on the problem space.
 
-### [101. The Four Cornerstones of Mindful Leadership](https://hackernoon.com/the-four-cornerstones-of-mindful-leadership-zgfv3wdc)
+### [100. The Four Cornerstones of Mindful Leadership](https://hackernoon.com/the-four-cornerstones-of-mindful-leadership-zgfv3wdc)
 ![](https://images.unsplash.com/photo-1499728603263-13726abce5fd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Mindfulness: Paying attention, on purpose, in the present moment, without judgement.
+
+### [101. Beyond Numbers: Embracing Contextual Intelligence in Engineering Leadership](https://hackernoon.com/beyond-numbers-embracing-contextual-intelligence-in-engineering-leadership)
+![](https://cdn.hackernoon.com/images/RfaByq6jrSdkVOFkt36mB7zTYME3-q793z41.jpeg)
+This article explores the gap between engineering teams and their leaders, highlighting the importance of cohesion and alignment
 
 ### [102. Roles Of Support Are The New Normal](https://hackernoon.com/roles-of-support-are-the-new-normal-d51034y9)
 ![](https://cdn.hackernoon.com/images/YmHydCcGCzQzUWBvxb6PtrLtiRg1-812734va.jpeg)
@@ -416,53 +418,53 @@ Are you being the best leader you can be? Is your leader effective? here are som
 ![](https://cdn.hackernoon.com/images/ANOvK6YEO3VsptqSywRdUlk1LnD3-xzy33fd.jpeg)
 While product management enjoys unquestioned support in the world’s most successful tech companies, other organisations that could substantially benefit from product management are still yet to adopt and embrace the discipline. So, I want to go through why you need product management in your tech or digital organisation.  
 
-### [104. Beyond Numbers: Embracing Contextual Intelligence in Engineering Leadership](https://hackernoon.com/beyond-numbers-embracing-contextual-intelligence-in-engineering-leadership)
-![](https://cdn.hackernoon.com/images/RfaByq6jrSdkVOFkt36mB7zTYME3-q793z41.jpeg)
-This article explores the gap between engineering teams and their leaders, highlighting the importance of cohesion and alignment
+### [104. 62 Stories To Learn About Collaboration](https://hackernoon.com/62-stories-to-learn-about-collaboration)
+![](https://cdn.hackernoon.com/images/github/collaboration-711.png)
+Learn everything you need to know about Collaboration via these 62 free HackerNoon stories.
 
 ### [105. Fun at Work Matters: Building a Company Culture](https://hackernoon.com/fun-at-work-matters-building-a-company-culture)
 ![](https://cdn.hackernoon.com/images/RMGhgLGonReGmisPwIYAa7M4rTo1-z792gon.jpeg)
 Having non-productive fun with colleagues at work is a great way of relaxing during work and getting to know the team.
 
-### [106. 62 Stories To Learn About Collaboration](https://hackernoon.com/62-stories-to-learn-about-collaboration)
-![](https://cdn.hackernoon.com/images/github/collaboration-711.png)
-Learn everything you need to know about Collaboration via these 62 free HackerNoon stories.
-
-### [107. Successfully Change Collaborative Meetings With These Five Proven Methods of Facilitation](https://hackernoon.com/successfully-change-collaborative-meetings-with-these-five-proven-methods-of-facilitation-no2n31pu)
+### [106. Successfully Change Collaborative Meetings With These Five Proven Methods of Facilitation](https://hackernoon.com/successfully-change-collaborative-meetings-with-these-five-proven-methods-of-facilitation-no2n31pu)
 ![](https://cdn.hackernoon.com/images/FDSLAUqwdlOzoGiZjrvaUOs8iqH2-681i3e1q.jpeg)
 The five methods of facilitation I use to create collaborative meetings from over a decade of experience as a software engineering leader.
+
+### [107. In the Search of High Achievers, A.K.A., Self-Propelled Missiles](https://hackernoon.com/in-the-search-of-high-achievers-aka-self-propelled-missiles)
+![](https://cdn.hackernoon.com/images/a-businessman-using-binoculars-on-top-of-a-skyscraper-animated-bwj6wfa0v4519hi3p2pedxo6.png)
+High performers overwhelmingly prefer to work with others like themselves because it leads to greater efficiency, innovation, and satisfaction. 
 
 ### [108. Scrum Vs. Waterfall: What is the Difference?](https://hackernoon.com/scrum-vs-waterfall-what-is-the-difference-u12a33hr)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-ar16318y.jpeg)
 The software development market is gigantic and has a lot to offer us
 
-### [109. How to Build a Startup? CTO, Freelancers, Agency?](https://hackernoon.com/how-to-build-a-startup-cto-freelancers-agency-qj1s3zgt)
-![](https://cdn.hackernoon.com/images/hut83z68.jpg)
-You have a brilliant idea, but you have no idea how to build a startup. And you can’t code. You have 4 options:
-
-### [110. Creathievity: Can Your Ideas Be Stolen? (& What to Do)](https://hackernoon.com/creathievity-can-your-ideas-be-stolen-and-what-to-do)
+### [109. Creathievity: Can Your Ideas Be Stolen? (& What to Do)](https://hackernoon.com/creathievity-can-your-ideas-be-stolen-and-what-to-do)
 ![](https://cdn.hackernoon.com/images/x21VprIQHYaYrJEbiyMkN7uuOTH2_59aknvqo.jpeg)
 Can your ideas be stolen? should you share them? find out the answers and what you can do about it
+
+### [110. Progressive Problem-Solving: Confidently Answering the Unknown by Getting More People Involved](https://hackernoon.com/progressive-problem-solving-confidently-answering-the-unknown-by-getting-more-people-involved)
+![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-b593skn.jpeg)
+Progressive Problem-Solving: Confidently Answering the Unknown
 
 ### [111. How to Help Team Members Adopt Research Insights Better](https://hackernoon.com/how-to-help-team-members-adopt-research-insights-better)
 ![](https://cdn.hackernoon.com/images/MH2lFr4a5LX1PvVEsgDxBagnGvx2-qib35r0.jpeg)
 Have you ever delivered research insights to your team but never heard back?
 
-### [112. In the Search of High Achievers, A.K.A., Self-Propelled Missiles](https://hackernoon.com/in-the-search-of-high-achievers-aka-self-propelled-missiles)
-![](https://cdn.hackernoon.com/images/a-businessman-using-binoculars-on-top-of-a-skyscraper-animated-bwj6wfa0v4519hi3p2pedxo6.png)
-High performers overwhelmingly prefer to work with others like themselves because it leads to greater efficiency, innovation, and satisfaction. 
+### [112. How to Build a Startup? CTO, Freelancers, Agency?](https://hackernoon.com/how-to-build-a-startup-cto-freelancers-agency-qj1s3zgt)
+![](https://cdn.hackernoon.com/images/hut83z68.jpg)
+You have a brilliant idea, but you have no idea how to build a startup. And you can’t code. You have 4 options:
 
-### [113. Progressive Problem-Solving: Confidently Answering the Unknown by Getting More People Involved](https://hackernoon.com/progressive-problem-solving-confidently-answering-the-unknown-by-getting-more-people-involved)
-![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-b593skn.jpeg)
-Progressive Problem-Solving: Confidently Answering the Unknown
-
-### [114. 5 Tips To Help Your Employee Manage Their Work Effectively](https://hackernoon.com/5-tips-to-help-your-employee-manage-their-work-effectively-2j653ygr)
-![](https://images.unsplash.com/photo-1573167710701-35950a41e251?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-"Clients do not come first. Employees come first. If you take care of your employees, they will take care of the clients and your business." – Richard Branson
-
-### [115. Fueling Success: Empowering Engineering Teams through Ownership and Accountability](https://hackernoon.com/fueling-success-empowering-engineering-teams-through-ownership-and-accountability)
+### [113. Fueling Success: Empowering Engineering Teams through Ownership and Accountability](https://hackernoon.com/fueling-success-empowering-engineering-teams-through-ownership-and-accountability)
 ![](https://cdn.hackernoon.com/images/WSUjyKfry1UDbm8VmU8kGIQagr72-xq93ytj.jpeg)
 This text discusses the importance of trust, ownership, and accountability in engineering teams and how they contribute to fostering growth and development.
+
+### [114. How to Deal With Different People on Your Team ](https://hackernoon.com/how-to-deal-with-different-people-on-your-team)
+![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-tr03bxa.png)
+If you take the time to notice people around you, you’ll find that they all have unique styles in the way they talk, how they work and what motivates them.
+
+### [115. 5 Tips To Help Your Employee Manage Their Work Effectively](https://hackernoon.com/5-tips-to-help-your-employee-manage-their-work-effectively-2j653ygr)
+![](https://images.unsplash.com/photo-1573167710701-35950a41e251?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+"Clients do not come first. Employees come first. If you take care of your employees, they will take care of the clients and your business." – Richard Branson
 
 ### [116. Leading the Pack: The Exciting Role of an Engineering Manager and How to Excel in It](https://hackernoon.com/leading-the-pack-the-exciting-role-of-an-engineering-manager-and-how-to-excel-in-it)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-z392hxi.jpeg)
@@ -472,29 +474,29 @@ An engineering manager is a technical leader responsible for managing and develo
 ![](https://cdn.hackernoon.com/images/MuH1HRot9SSAlcFvZc7HWwYNN8m1-8n1a3g27.jpeg)
 Filling in and submit timesheets are tedious. Today there are timeless software and tools that capture all employee activities.
 
-### [118. How A Tech Sergeant Can Make An Impact In Your Business](https://hackernoon.com/how-a-tech-sergeant-can-make-an-impact-in-your-business-g4n3th4)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY8OnbrBlePVzFHizwYeYKtHAbMn1-7lb28n6.jpeg?alt=media&token=495a54e9-c34f-4a04-9f31-34ab89fe7738)
-Military minds understand their armies are really only as good as their sergeants. Sure an army needs officers, but often lower ranking officers are usually young and inexperienced. Though they outrank the sergeant, they lack the experience of real world execution. The sergeant, the non-commissioned officer, is also a leader of men. Their paths to this leadership position can be a much longer slog doing the same work as the mainline enlisted.
-
-### [119. Make a Code Review Great Again: Patterns of Quick and Effective Code Quality Control](https://hackernoon.com/make-a-code-review-great-again-patterns-of-quick-and-effective-code-quality-control)
+### [118. Make a Code Review Great Again: Patterns of Quick and Effective Code Quality Control](https://hackernoon.com/make-a-code-review-great-again-patterns-of-quick-and-effective-code-quality-control)
 ![](https://cdn.hackernoon.com/images/JG7t4PlqbId6T1BVFWx7bA6vkfw1-s383k1i.png)
 Code review is an essential tool for code quality control in the programming industry. This topic has caught my attention for many years, and I would like to sh
 
-### [120. How to Cultivate a Collaborative Culture in a Team Using Well-defined Language](https://hackernoon.com/how-to-cultivate-a-collaborative-culture-in-a-team-using-well-defined-language-2qh34gc)
+### [119. 5 Ways Engineering Managers Can Motivate Individual Contributors ](https://hackernoon.com/5-ways-engineering-managers-can-motivate-individual-contributors)
+![](https://cdn.hackernoon.com/images/OaKbDySLt9XUEwmFIQVq3BBEYot1-tf93uxa.jpeg)
+Want to inspire and motivate your individual contributors? Try setting clear goals and expectations, providing ongoing feedback and support, encouraging career 
+
+### [120. How A Tech Sergeant Can Make An Impact In Your Business](https://hackernoon.com/how-a-tech-sergeant-can-make-an-impact-in-your-business-g4n3th4)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY8OnbrBlePVzFHizwYeYKtHAbMn1-7lb28n6.jpeg?alt=media&token=495a54e9-c34f-4a04-9f31-34ab89fe7738)
+Military minds understand their armies are really only as good as their sergeants. Sure an army needs officers, but often lower ranking officers are usually young and inexperienced. Though they outrank the sergeant, they lack the experience of real world execution. The sergeant, the non-commissioned officer, is also a leader of men. Their paths to this leadership position can be a much longer slog doing the same work as the mainline enlisted.
+
+### [121. How to Cultivate a Collaborative Culture in a Team Using Well-defined Language](https://hackernoon.com/how-to-cultivate-a-collaborative-culture-in-a-team-using-well-defined-language-2qh34gc)
 ![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-pte32qc.jpeg)
 Navigating the culture of a team is more art than science.  Let's explore how a team can communicate and collaborate effectively. 
 
-### [121. Pro-Tip: Deliver Feedback as a Cop and Not as a Messenger](https://hackernoon.com/deliver-feedback-as-a-cop-and-not-as-a-messenger-3qm830w9)
+### [122. Pro-Tip: Deliver Feedback as a Cop and Not as a Messenger](https://hackernoon.com/deliver-feedback-as-a-cop-and-not-as-a-messenger-3qm830w9)
 ![](https://cdn.hackernoon.com/drafts/zcno30uo.png)
 Annie leads the business operations platform engineering group within Square’s platform & infrastructure organization. Prior to Square, she worked at a number of startups across a spectrum of industries from consumer products to enterprise solutions, as well as a wide variety of teams from sales to engineering. Having worked with many different managers, she’s formed her own leadership philosophies.
 
-### [122. What to Do When Your Employees are Fighting in the Workplace](https://hackernoon.com/what-to-do-when-your-employees-are-fighting-in-the-workplace)
+### [123. What to Do When Your Employees are Fighting in the Workplace](https://hackernoon.com/what-to-do-when-your-employees-are-fighting-in-the-workplace)
 ![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-lj93hpx.jpeg)
 I have always enjoyed healthy disagreements about my own ideas and opinions at home and at work. They give me a peek into so many unique perspectives and help me see how different the world is around us. I do not agree with everything people say, but I am definitely open to hearing them around.
-
-### [123. 5 Ways Engineering Managers Can Motivate Individual Contributors ](https://hackernoon.com/5-ways-engineering-managers-can-motivate-individual-contributors)
-![](https://cdn.hackernoon.com/images/OaKbDySLt9XUEwmFIQVq3BBEYot1-tf93uxa.jpeg)
-Want to inspire and motivate your individual contributors? Try setting clear goals and expectations, providing ongoing feedback and support, encouraging career 
 
 ### [124. Be The Person Who Lifts Your Team Up, Please](https://hackernoon.com/be-the-person-who-lifts-your-team-up-ck10365z)
 ![](https://cdn.hackernoon.com/images/i4bx362w.jpg)
@@ -512,33 +514,33 @@ Technical debt is a common term in software engineering management. It has been 
 ![](https://cdn.hackernoon.com/images/uhOzFmjZ9faCfeASQoSY4RdK9az2-gc02q04.png)
 Clear roles and ownership can save your team from confusion, delays, and finger-pointing. Real talk, real examples.
 
-### [128. The Most Dangerous Lie in Startups](https://hackernoon.com/the-most-dangerous-lie-in-startups)
-![](https://cdn.hackernoon.com/images/b5hVlTnE9FNaiXCja0PHa6L1cKw2-6d038gc.png)
-Most founders skip a founder agreement because they trust each other. But when pressure hits -  that missing structure becomes the root of chaos.
-
-### [129. Working in Agile Environments: The Sprint is Not Just About You](https://hackernoon.com/working-in-agile-environments-the-sprint-is-not-just-about-you)
-![](https://cdn.hackernoon.com/images/TRitLpffkiUte8hEIiq0jTtuhmy2-8f9339x.jpeg)
-The depths of agile sprints, teamwork, and challenges in software development: the sprint is more than you think.
-
-### [130. Strategies to Enhance Remote and Hybrid Collaboration in 2024](https://hackernoon.com/strategies-to-enhance-remote-and-hybrid-collaboration-in-2024)
+### [128. Strategies to Enhance Remote and Hybrid Collaboration in 2024](https://hackernoon.com/strategies-to-enhance-remote-and-hybrid-collaboration-in-2024)
 ![](https://cdn.hackernoon.com/images/cPo9MrVZm5O0aHz2gKvPg31Y4E22-sy81mm1.jpeg)
 Remote and hybrid forms of collaboration have become the new standard for a vast number of enterprises.
 
-### [131. Workplace Strategies for Team Well-being and Success](https://hackernoon.com/workplace-strategies-for-team-well-being-and-success)
-![](https://cdn.hackernoon.com/images/rljMLsp0SOV9HAfVnq1uNwu0vez1-7481pdt.jpeg)
-Let's traverse numerous approaches for forming a helpful workspace that leads to squad welfare and achievement.
+### [129. The Most Dangerous Lie in Startups](https://hackernoon.com/the-most-dangerous-lie-in-startups)
+![](https://cdn.hackernoon.com/images/b5hVlTnE9FNaiXCja0PHa6L1cKw2-6d038gc.png)
+Most founders skip a founder agreement because they trust each other. But when pressure hits -  that missing structure becomes the root of chaos.
 
-### [132. Thriving in Tech: Embracing Innovation in the Digital Age](https://hackernoon.com/thriving-in-tech-embracing-innovation-in-the-digital-age)
+### [130. Working in Agile Environments: The Sprint is Not Just About You](https://hackernoon.com/working-in-agile-environments-the-sprint-is-not-just-about-you)
+![](https://cdn.hackernoon.com/images/TRitLpffkiUte8hEIiq0jTtuhmy2-8f9339x.jpeg)
+The depths of agile sprints, teamwork, and challenges in software development: the sprint is more than you think.
+
+### [131. Thriving in Tech: Embracing Innovation in the Digital Age](https://hackernoon.com/thriving-in-tech-embracing-innovation-in-the-digital-age)
 ![](https://cdn.hackernoon.com/images/BGxDwa3b3xZ4ElWzxNjNLDk81R02-3m93zty.jpeg)
 Discover how tech organizations thrive by prioritizing principles, trust, innovation, and learning in the dynamic digital landscape. Adapt or fade.
 
-### [133. Remote Meetings Basics](https://hackernoon.com/remote-meetings-basics-do1t3u81)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXu95yeuEbQVs6PQjEid54SrPOwg1-4t1z3ufy.jpeg?alt=media&token=aa3f26cb-81fe-42f6-80ac-de787aff8f80)
-Everyone does remote meetings nowadays! The culture has changed from having a room with people, drinking coffee, typing at their laptops and guiding discussions through the multitude of subject matters that they have to cover and resolve to… them doing the same thing BUT through their screens.
-
-### [134. Engineering and Product Teams: Are They Partners or Frenemies?](https://hackernoon.com/engineering-and-product-teams-are-they-partners-or-frenemies)
+### [132. Engineering and Product Teams: Are They Partners or Frenemies?](https://hackernoon.com/engineering-and-product-teams-are-they-partners-or-frenemies)
 ![](https://cdn.hackernoon.com/images/ojSdI4tVIxUSuoz0H6IGOPjWPpu2-0l138ra.jpeg)
 The engineering team and product team cooperate and partner with each other. The deadlines of projects often trigger conflicts.
+
+### [133. Workplace Strategies for Team Well-being and Success](https://hackernoon.com/workplace-strategies-for-team-well-being-and-success)
+![](https://cdn.hackernoon.com/images/rljMLsp0SOV9HAfVnq1uNwu0vez1-7481pdt.jpeg)
+Let's traverse numerous approaches for forming a helpful workspace that leads to squad welfare and achievement.
+
+### [134. Remote Meetings Basics](https://hackernoon.com/remote-meetings-basics-do1t3u81)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXu95yeuEbQVs6PQjEid54SrPOwg1-4t1z3ufy.jpeg?alt=media&token=aa3f26cb-81fe-42f6-80ac-de787aff8f80)
+Everyone does remote meetings nowadays! The culture has changed from having a room with people, drinking coffee, typing at their laptops and guiding discussions through the multitude of subject matters that they have to cover and resolve to… them doing the same thing BUT through their screens.
 
 ### [135. 54 Stories To Learn About Team Collaboration](https://hackernoon.com/54-stories-to-learn-about-team-collaboration)
 ![](https://cdn.hackernoon.com/images/github/team-collaboration-597.png)
@@ -572,66 +574,66 @@ For many leaders, recent progress can be difficult. It's not that we're not inte
 ![](https://cdn.hackernoon.com/images/dFW9aLMnLpgfjylixlaQdWQLp2C3-j283oka.jpeg)
 A robust DevOps team facilitates faster development of new products.
 
-### [143. Corporations Goes with Remote Devs: Skype, Slack, GitHub, MySQL cases](https://hackernoon.com/why-do-corporations-choose-a-remote-team-for-software-developmentskype-slack-github-mysql-cases-1y942d9l)
-![](https://cdn.hackernoon.com/images/85ql2d5s.jpg)
-Full-fledged remote work has become a global trend. The trend of a remote team (virtual team) has become popular with top world companies such as Skype, Slack, Github, MySQL, Opera, Groove, and others. In the world, there are quite a lot of large companies operating completely remotely. Businesses that implement remote work policies see increased efficiency, productivity, and fulfillment from their employees. So why do companies choose remote or distributed teams for software development?
-
-### [144. End The "Not Another Meeting" Discussions: There's A Better Way To Hold Efficient Meetings](https://hackernoon.com/end-the-not-another-meeting-discussions-theres-a-better-way-to-hold-efficient-meetings-4m3v353e)
-![](https://cdn.hackernoon.com/images/7VKGhN9WI3PvPAtnBswSforogTU2-af1s34i5.jpeg)
-It turns out there is a way to hold better meetings. If you want them to be more efficient and productive, there are a few simple things your meetings need to b
-
-### [145. Mastering Cross-Team Collaboration in the Creative Sphere ](https://hackernoon.com/mastering-cross-team-collaboration-in-the-creative-sphere)
+### [143. Mastering Cross-Team Collaboration in the Creative Sphere ](https://hackernoon.com/mastering-cross-team-collaboration-in-the-creative-sphere)
 ![](https://cdn.hackernoon.com/images/ZSnNpZ3GejgVSxqs3EyP38vlsLL2-nj93b89.jpeg)
 In today’s episode of the Brains Byte Back podcast, we speak with Meredith Bailey, Founder & CEO at StreamWork.
 
-### [146. Tested Strategies for New Managers: The Do’s and the Don’ts](https://hackernoon.com/tested-strategies-for-new-managers-the-dos-and-the-donts-lw4x3thy)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-7xb3td8.jpeg?alt=media&token=a32be654-86b9-4768-90d2-3cf04548d3c0)
-After a year in people management roles, I discovered that people are the toughest part of it all. You can find perfect tools to automate your routine tasks or build fantastic processes causing you no trouble. You can get all other issues resolved, but the human factor will still be your biggest risk.
+### [144. Corporations Goes with Remote Devs: Skype, Slack, GitHub, MySQL cases](https://hackernoon.com/why-do-corporations-choose-a-remote-team-for-software-developmentskype-slack-github-mysql-cases-1y942d9l)
+![](https://cdn.hackernoon.com/images/85ql2d5s.jpg)
+Full-fledged remote work has become a global trend. The trend of a remote team (virtual team) has become popular with top world companies such as Skype, Slack, Github, MySQL, Opera, Groove, and others. In the world, there are quite a lot of large companies operating completely remotely. Businesses that implement remote work policies see increased efficiency, productivity, and fulfillment from their employees. So why do companies choose remote or distributed teams for software development?
 
-### [147. "They're The Ones Signing The Check..."](https://hackernoon.com/theyre-the-ones-signing-the-check)
+### [145. End The "Not Another Meeting" Discussions: There's A Better Way To Hold Efficient Meetings](https://hackernoon.com/end-the-not-another-meeting-discussions-theres-a-better-way-to-hold-efficient-meetings-4m3v353e)
+![](https://cdn.hackernoon.com/images/7VKGhN9WI3PvPAtnBswSforogTU2-af1s34i5.jpeg)
+It turns out there is a way to hold better meetings. If you want them to be more efficient and productive, there are a few simple things your meetings need to b
+
+### [146. "They're The Ones Signing The Check..."](https://hackernoon.com/theyre-the-ones-signing-the-check)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-rm93qkq.jpeg)
 Signing the check
 The good and the bad
 
-### [148. Important Work Life Lessons on How to Effectively Manage an Existing Engineering Team](https://hackernoon.com/important-work-life-lessons-on-how-to-effectively-manage-an-existing-engineering-team-sy4v33z2)
+### [147. Tested Strategies for New Managers: The Do’s and the Don’ts](https://hackernoon.com/tested-strategies-for-new-managers-the-dos-and-the-donts-lw4x3thy)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-7xb3td8.jpeg?alt=media&token=a32be654-86b9-4768-90d2-3cf04548d3c0)
+After a year in people management roles, I discovered that people are the toughest part of it all. You can find perfect tools to automate your routine tasks or build fantastic processes causing you no trouble. You can get all other issues resolved, but the human factor will still be your biggest risk.
+
+### [148. When an Employee's Pet Passes, Give Them Time and Space to Grieve](https://hackernoon.com/how-to-do-better-next-time-when-your-colleagues-cat-passes-56bn31cq)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-s482rex.jpeg)
+People who know my co-founder (and wife) Rena and me or who follow our cats and dogs on Instagram know we have a Gaffigan-esque number of four-legged family members.
+
+### [149. Important Work Life Lessons on How to Effectively Manage an Existing Engineering Team](https://hackernoon.com/important-work-life-lessons-on-how-to-effectively-manage-an-existing-engineering-team-sy4v33z2)
 ![](https://cdn.hackernoon.com/images/FDSLAUqwdlOzoGiZjrvaUOs8iqH2-5g7j3f7s.jpeg)
 Use this advice to lead an existing engineering team to success, regardless of different coding languages or systems.
 
-### [149. Only Data-Minded Marketers and Market-Minded Developers Can Achieve Data Driven Marketing](https://hackernoon.com/only-data-minded-marketers-and-market-minded-developers-can-achieve-data-driven-marketing-vh2034op)
+### [150. Only Data-Minded Marketers and Market-Minded Developers Can Achieve Data Driven Marketing](https://hackernoon.com/only-data-minded-marketers-and-market-minded-developers-can-achieve-data-driven-marketing-vh2034op)
 ![](https://cdn.hackernoon.com/images/EO1OfWi9WfblI7TLUX8f59eqAuP2-go2d3xxg.jpeg)
 Using data as a part of your marketing plan can have a tremendous impact on your overall results, which is why data-driven marketing has become the standard for many agencies. 
-
-### [150. When an Employee's Pet Passes, Give Them Time and Space to Grieve](https://hackernoon.com/how-to-do-better-next-time-when-your-colleagues-cat-passes-56bn31cq)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-s482rex.jpeg)
-People who know my co-founder (and wife) Rena and me or who follow our cats and dogs on Instagram know we have a Gaffigan-esque number of four-legged family members.
 
 ### [151. Get Beyond Small Talk To Forming Meaningful Connections At Work](https://hackernoon.com/get-beyond-small-talk-to-forming-meaningful-connections-at-work-8r933i1)
 ![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-due32os.jpeg)
 Striking up a conversation at work can be intimidating. We avoid eye contact, turn our heads away and pretend to be busy on our phones all in an attempt to save ourselves from the awkward moment of meeting someone and not sure what to say. 
 
-### [152. How to Create a Remote Work Policy For Your Accounting Team During the COVID-19 Crisis](https://hackernoon.com/how-to-create-a-remote-work-policy-for-your-accounting-team-during-the-covid-19-crisis-ys1c3wdt)
-![](https://cdn.hackernoon.com/drafts/hv2863v9f.png)
-The COVID-19 pandemic has brought the world to a standstill. With over 5 million global cases and counting, the medical professionals from all over the world have joined hands to find a vaccine. However, until that happens, the only precaution that can be taken is to stay at home. 
-
-### [153. Team Building Activities In The Workplace Help To Establish Trust](https://hackernoon.com/team-building-activities-in-the-workplace-help-to-establish-trust-f73z35rm)
+### [152. Team Building Activities In The Workplace Help To Establish Trust](https://hackernoon.com/team-building-activities-in-the-workplace-help-to-establish-trust-f73z35rm)
 ![](https://cdn.hackernoon.com/images/7skvMoTLQPTuwU5MRJrEZ31wECq2-ck3u34eg.jpeg)
 Let’s take a look at some benefits of team building activities and games at the workplace.
+
+### [153. How to Create a Remote Work Policy For Your Accounting Team During the COVID-19 Crisis](https://hackernoon.com/how-to-create-a-remote-work-policy-for-your-accounting-team-during-the-covid-19-crisis-ys1c3wdt)
+![](https://cdn.hackernoon.com/drafts/hv2863v9f.png)
+The COVID-19 pandemic has brought the world to a standstill. With over 5 million global cases and counting, the medical professionals from all over the world have joined hands to find a vaccine. However, until that happens, the only precaution that can be taken is to stay at home. 
 
 ### [154. How To Establish Better Governance](https://hackernoon.com/how-to-establish-better-governance-in1v3zqk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fnud82t9OpHSjNGHAaJRzTjnQd7l2-fv93w1p.jpeg?alt=media&token=4a3d0ab8-b7ac-40a8-93a7-4fc0b81ecf73)
 Recently, one of our Site Reliability Engineers (SRE) noticed a workload running in our cluster which he hasn’t seen before. The workload was consuming some resources and the SRE wanted to apply some updates to the cluster but was not sure who owns the workload, and doesn’t know if his updates would have an impact on it or not. 
 
-### [155. One Simple Hack For Making Remote Work Great: Trust](https://hackernoon.com/one-simple-hack-for-making-remote-work-great-trust-yg633xp1)
+### [155. Engineering Teams Need Inspiration to Thrive and Succeed](https://hackernoon.com/engineering-teams-need-inspiration-to-thrive-and-succeed)
+![](https://cdn.hackernoon.com/images/oRrc1XjOivXThYbwovbyF9tZD5R2-pb037g5.jpeg)
+We don’t deserve the team we can’t inspire. Camaraderie, purpose, and appreciation need to become our priority.
+
+### [156. One Simple Hack For Making Remote Work Great: Trust](https://hackernoon.com/one-simple-hack-for-making-remote-work-great-trust-yg633xp1)
 ![](https://cdn.hackernoon.com/drafts/804y3wxy.png)
 Remote work is on everyone’s minds right now. If you are fortunate enough to still have a job right now chances are you are doing it remotely. And you’ve probably learned that you can do your job pretty well from home - just as well as you did in the office if not better. And why is that? It’s certainly not because of the added stress of a pandemic. Could it be because your management team actually trusts you to get it done?
 
-### [156. Team Productivity Doesn’t Have to Suffer When You Go Remote](https://hackernoon.com/team-productivity-doesnt-have-to-suffer-when-you-go-remote-lo1b24oy)
+### [157. Team Productivity Doesn’t Have to Suffer When You Go Remote](https://hackernoon.com/team-productivity-doesnt-have-to-suffer-when-you-go-remote-lo1b24oy)
 ![](https://cdn.hackernoon.com/images/hk573ylx.gif)
 So what to do when your remote team struggles with getting things done?
-
-### [157. Engineering Teams Need Inspiration to Thrive and Succeed](https://hackernoon.com/engineering-teams-need-inspiration-to-thrive-and-succeed)
-![](https://cdn.hackernoon.com/images/oRrc1XjOivXThYbwovbyF9tZD5R2-pb037g5.jpeg)
-We don’t deserve the team we can’t inspire. Camaraderie, purpose, and appreciation need to become our priority.
 
 ### [158. Virtual Corporate Events  and Meetings as a New Trend in the HR Industry](https://hackernoon.com/virtual-corporate-events-and-meetings-as-a-new-trend-in-the-hr-industry-af3c33gm)
 ![](https://cdn.hackernoon.com/images/XoykbRflAFO3jCg7cdBMMPEpOfs2-vki3253.jpeg)
@@ -649,13 +651,13 @@ Never Trusting Anybody, and the Impact it Had on Me
 ![](https://cdn.hackernoon.com/images/zr7tLnKsIdXFwHkzzgiXsMooCff2-by1t32yb.jpeg)
 Kindness is a hidden superpower for software engineers. It helps your peers feel safe so they can take risks that enable efficiency and honesty.
 
-### [162. Here's The Correct Way to Raise Concerns at Work](https://hackernoon.com/heres-the-correct-way-to-raise-concerns-at-work)
-![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-6a03bf3.png)
-Instead of whining, complaining, and sobbing about your problems, use that time and energy to achieve your goals.
-
-### [163. 🧠 The Most Underrated Skill in Agile Teams? Critical Thinking](https://hackernoon.com/the-most-underrated-skill-in-agile-teams-critical-thinking)
+### [162. 🧠 The Most Underrated Skill in Agile Teams? Critical Thinking](https://hackernoon.com/the-most-underrated-skill-in-agile-teams-critical-thinking)
 ![](https://cdn.hackernoon.com/images/ozESALSPb9PWeM05VkWH911ADP92-6t03a1s.png)
 Agile teams are fast—but are they thinking? This piece explores why critical thinking is the missing skill behind backlogs, sprints, and AI-fueled workflows.
+
+### [163. Here's The Correct Way to Raise Concerns at Work](https://hackernoon.com/heres-the-correct-way-to-raise-concerns-at-work)
+![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-6a03bf3.png)
+Instead of whining, complaining, and sobbing about your problems, use that time and energy to achieve your goals.
 
 ### [164. Virtual Corporate Events  and Meetings as a New Trend in the HR Industry](https://hackernoon.com/virtual-corporate-events-and-meetings-as-a-new-trend-in-the-hr-industry-j53b33md)
 ![](https://cdn.hackernoon.com/images/XoykbRflAFO3jCg7cdBMMPEpOfs2-vki3253.jpeg)

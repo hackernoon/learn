@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [movies](https://hackernoon.com/tagged/movies)
+### Let's learn about [Movies](https://hackernoon.com/tagged/movies) via these 115 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Movies make the idea of the world go 'round. We publish about the technology behind it, and their impact on media at large.
 
 ### [1. The Tom Holland Spider-Man Movies in Order of Release Date](https://hackernoon.com/the-tom-holland-spider-man-movies-in-order-of-release-date)
@@ -99,13 +101,13 @@ Manage and organize your personal movie collection with Notion
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-nd93pgc.jpeg)
 It continued storylines from the first phase, but it also introduced new characters and heroes. In total, phase 2 was composed of 6 films. 
 
-### [25. Horror Movies For the Weak (and Not So Weak) Hearted](https://hackernoon.com/horror-movies-for-the-weak-and-not-so-weak-hearted)
-![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-pg137m1.jpeg)
-The spooky season is around the corner and we couldn't let it pass without sharing some horror movie suggestions, even for the weak-hearted. 
-
-### [26. How Many Oscars Does Will Smith Have? Answering All of Your Oscar-Related Questions](https://hackernoon.com/how-many-oscars-does-will-smith-have-answering-all-of-your-oscar-related-questions)
+### [25. How Many Oscars Does Will Smith Have? Answering All of Your Oscar-Related Questions](https://hackernoon.com/how-many-oscars-does-will-smith-have-answering-all-of-your-oscar-related-questions)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0693o65.jpeg)
 How many Oscars does Leonardo DiCaprio have? How many Oscars does Anthony Hopkins have? 1 and 2, respectively. Find out how many Will Smith has. 
+
+### [26. Horror Movies For the Weak (and Not So Weak) Hearted](https://hackernoon.com/horror-movies-for-the-weak-and-not-so-weak-hearted)
+![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-pg137m1.jpeg)
+The spooky season is around the corner and we couldn't let it pass without sharing some horror movie suggestions, even for the weak-hearted. 
 
 ### [27. 24 Best Live Action Anime Movies Ranked by Review Scores](https://hackernoon.com/24-live-action-anime-movies-ranked-by-review-scores)
 ![](https://cdn.hackernoon.com/images/sEVHo7GjLfYwVu0eY2zD6t877F73-j5r3s8m.jpeg)
@@ -131,13 +133,13 @@ Files are getting larger and space for your favorite content can be at a premium
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-mw93pva.jpeg)
 The Imperfects is a Netflix drama that has some similarities with other shows in its genre. The characters are mostly rebellious and the visuals are gory.
 
-### [33. The Star Wars Movies in Chronological Order ](https://hackernoon.com/the-star-wars-movies-in-chronological-order)
-![](https://cdn.hackernoon.com/images/x11WbMITBYSUR73iUo35FRN0sOE3-cec31e8.jpeg)
-Star Wars May be and if not one of the best Movie franchises of all time. Even though the films are pretty easy to tell which one to watch first it can be very complicated at times.
-
-### [34. Answering All of Your Spider-Man Questions](https://hackernoon.com/answering-all-of-your-spider-man-questions)
+### [33. Answering All of Your Spider-Man Questions](https://hackernoon.com/answering-all-of-your-spider-man-questions)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-l993pin.jpeg)
 Here are the answers to all of your Spider-Man questions including who portrays the character, who created him, and how many movies are there.
+
+### [34. The Star Wars Movies in Chronological Order ](https://hackernoon.com/the-star-wars-movies-in-chronological-order)
+![](https://cdn.hackernoon.com/images/x11WbMITBYSUR73iUo35FRN0sOE3-cec31e8.jpeg)
+Star Wars May be and if not one of the best Movie franchises of all time. Even though the films are pretty easy to tell which one to watch first it can be very complicated at times.
 
 ### [35. Every Michael Jackson Project From Albums to Movies](https://hackernoon.com/every-michael-jackson-project-from-albums-to-movies)
 ![](https://cdn.hackernoon.com/images/x11WbMITBYSUR73iUo35FRN0sOE3-tg93cj3.jpeg)
@@ -159,13 +161,13 @@ Nmap was seen in many successful movies, from Chloe to Rihanna and die-hard 4. D
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-sb136ve.jpeg)
 In this Slogging thread, we discuss the best CGI in movies, tv shows and video games.
 
-### [40. Old And New Strategies That Help Movie Theaters' Owners Make Money](https://hackernoon.com/old-and-new-strategies-that-help-movie-theaters-owners-make-money-lwt3wiz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrXG7YlNW7gRJzFPCxRjJJJ13pGF2-to1g30rs.jpeg?alt=media&token=1ff60d8d-c46c-41ad-a3c1-59e6929e6545)
-Movie theaters have five methods of making money. The theater's income sources are preview ads, concessions, ticket sales, memberships, and more.
-
-### [41. Every DC Movie That Got Canceled in 2022](https://hackernoon.com/every-dc-movie-that-got-canceled-in-2022)
+### [40. Every DC Movie That Got Canceled in 2022](https://hackernoon.com/every-dc-movie-that-got-canceled-in-2022)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-om93p2a.jpeg)
 Here are all of the DC films that were canceled in 2022: Batgirl, Man of Steel 2, Wonder Woman 3, and a Black Adam sequel. 
+
+### [41. Old And New Strategies That Help Movie Theaters' Owners Make Money](https://hackernoon.com/old-and-new-strategies-that-help-movie-theaters-owners-make-money-lwt3wiz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrXG7YlNW7gRJzFPCxRjJJJ13pGF2-to1g30rs.jpeg?alt=media&token=1ff60d8d-c46c-41ad-a3c1-59e6929e6545)
+Movie theaters have five methods of making money. The theater's income sources are preview ads, concessions, ticket sales, memberships, and more.
 
 ### [42. How to Jailbreak Your Amazon Firestick in 2021](https://hackernoon.com/how-to-jailbreak-your-amazon-firestick-in-2021-0t1y353g)
 ![](https://cdn.hackernoon.com/images/JfTdcSZ6ndSVwCxf81msBlYfGGp2-148x3fgj.jpeg)
@@ -175,60 +177,60 @@ Learn how to jailbreak your Amazon Fire TV Stick! This will let you watch more m
 ![](https://cdn.hackernoon.com/images/iEB7EVjsMCRFL8jW48kmn53ySU92-xv034a3.png)
 Ethan Hunt faces his most elusive enemy yet: a rogue AI that rewrites reality. A grounded take on power, restraint, and digital collapse.
 
-### [44. How to Watch the Harry Potter Movies in Order](https://hackernoon.com/how-to-watch-the-harry-potter-movies-in-order)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-unb38tf.jpeg)
-1. Harry Potter and the Philosopher’s Stone
-2. Harry Potter and the Chamber of Secrets
-3. Harry Potter and the Prisoner of Azkaban
-4. Harry Potter and the Goble
-
-### [45. Hallyu for Idiots: Understand the Korean Wave via Parasite and K-dramas](https://hackernoon.com/hallyu-for-idiots-understand-the-korean-wave-via-parasite-and-k-dramas-n1cm3abj)
-![](https://cdn.hackernoon.com/images/o2i1s33sm.gif)
-Feature Picture: Parasite - Best movie of the decade, in my opinion. As well as 2019 Best Picture according to the Academy Awards. 
-
-### [46. What Whiplash Teaches Us About the "Sink or Swim" Method in Engineering](https://hackernoon.com/what-whiplash-teaches-us-about-the-sink-or-swim-method-in-engineering-o24s3u9q)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fg7D437eRushMNynnEU4BytE4xzr2-lrh3u5f.jpeg?alt=media&token=756bb177-f7de-4510-b364-c958fc2d8453)
-I love movies - Particularly ones that can be referenced to bring a point home in a professional discussion. Such is the case with the movie “Whiplash” and the debate over the “sink or swim” methodology in engineer onboarding.
-
-### [47. Content-Based Recommender Using Natural Language Processing (NLP)](https://hackernoon.com/content-based-recommender-using-natural-language-processing-nlp-98t3ucl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxpWOWpzF3EYM2RPt1PB3bH7xk9V2-764r3u3i.jpeg?alt=media&token=64b5a4a1-755d-4547-b41f-64349053accf)
-A guide to build a movie recommender model based on content-based NLP: When we provide ratings for products and services on the internet, all the preferences we express and data we share (explicitly or not), are used to generate recommendations by recommender systems. The most common examples are that of Amazon, Google and Netflix.
-
-### [48. Answering All of Your Captain America Questions](https://hackernoon.com/answering-all-of-your-captain-america-questions)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-z393po5.jpeg)
-Answering all of your Captain America questions. 
-
-### [49. What's With All These FREE HD Blockbuster Movies on YouTube?](https://hackernoon.com/whats-with-all-these-free-hd-blockbuster-movies-on-youtube)
-![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-y0034c9.jpeg)
-There’s an invasion of YouTube channels with movies you couldn’t believe are available for free in top-resolution quality.
-
-### [50. How to Watch the Mission: Impossible Movies in Chronological Order](https://hackernoon.com/how-to-watch-the-mission-impossible-movies-in-chronological-order)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-a9439vo.jpeg)
-Want to do a Mission: Impossible marathon before Final Reckoning? Here are all the Mission: Impossible movies in chronological order.
-
-### [51. CoinRunners NFTs: Bringing Hollywood Movies to the Blockchain](https://hackernoon.com/coinrunners-nfts-bringing-hollywood-movies-to-the-blockchain)
-![](https://cdn.hackernoon.com/images/C7LGfLlZs3OY2w0N7r4ePehwKBI2-gi93299.jpeg)
-CoinRunners’ movie, an autobiographical film by experienced and renowned cryptocurrency trader Lisa N Edwards, is creating a new utility concept within the NFT 
-
-### [52. SOMA Finance and Meta Hollywood to Launch Tokenized Film Financing Offerings](https://hackernoon.com/soma-finance-and-meta-hollywood-to-launch-tokenized-film-financing-offerings)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-f993uh6.jpeg)
-Meta Hollywood has chosen SOMA Finance as the issuing partner for their upcoming digital securities ecosystem for tokenizing physical and digital assets. 
-
-### [53. Answering All of Your Hulk Questions](https://hackernoon.com/answering-all-of-your-hulk-questions)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-j093ok8.jpeg)
-Here are the answers to all of your Hulk questions.
-
-### [54. The MCU Phase 1 Movies in Order](https://hackernoon.com/the-mcu-phase-1-movies-in-order)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0eh3pwe.jpeg)
-MCU Phase 1 Movies in Order: Iron Man, The Incredible Hulk, Iron Man, Thor, Captain America: The First Avenger,  and Marvel’s The Avengers.
-
-### [55. The Twilight Movies in Chronological Order: A Watch Guide](https://hackernoon.com/the-twilight-movies-in-chronological-order-a-watch-guide)
+### [44. The Twilight Movies in Chronological Order: A Watch Guide](https://hackernoon.com/the-twilight-movies-in-chronological-order-a-watch-guide)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-mz13d6p.jpeg)
 1. Twilight
 2. Twilight: New Moon
 3. Twilight: Eclipse
 4. Twilight: Breaking Dawn - Part 1
 5. Twilight: Breaking Dawn - Part 2
+
+### [45. How to Watch the Harry Potter Movies in Order](https://hackernoon.com/how-to-watch-the-harry-potter-movies-in-order)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-unb38tf.jpeg)
+1. Harry Potter and the Philosopher’s Stone
+2. Harry Potter and the Chamber of Secrets
+3. Harry Potter and the Prisoner of Azkaban
+4. Harry Potter and the Goble
+
+### [46. Hallyu for Idiots: Understand the Korean Wave via Parasite and K-dramas](https://hackernoon.com/hallyu-for-idiots-understand-the-korean-wave-via-parasite-and-k-dramas-n1cm3abj)
+![](https://cdn.hackernoon.com/images/o2i1s33sm.gif)
+Feature Picture: Parasite - Best movie of the decade, in my opinion. As well as 2019 Best Picture according to the Academy Awards. 
+
+### [47. What Whiplash Teaches Us About the "Sink or Swim" Method in Engineering](https://hackernoon.com/what-whiplash-teaches-us-about-the-sink-or-swim-method-in-engineering-o24s3u9q)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fg7D437eRushMNynnEU4BytE4xzr2-lrh3u5f.jpeg?alt=media&token=756bb177-f7de-4510-b364-c958fc2d8453)
+I love movies - Particularly ones that can be referenced to bring a point home in a professional discussion. Such is the case with the movie “Whiplash” and the debate over the “sink or swim” methodology in engineer onboarding.
+
+### [48. Content-Based Recommender Using Natural Language Processing (NLP)](https://hackernoon.com/content-based-recommender-using-natural-language-processing-nlp-98t3ucl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxpWOWpzF3EYM2RPt1PB3bH7xk9V2-764r3u3i.jpeg?alt=media&token=64b5a4a1-755d-4547-b41f-64349053accf)
+A guide to build a movie recommender model based on content-based NLP: When we provide ratings for products and services on the internet, all the preferences we express and data we share (explicitly or not), are used to generate recommendations by recommender systems. The most common examples are that of Amazon, Google and Netflix.
+
+### [49. How to Watch the Mission: Impossible Movies in Chronological Order](https://hackernoon.com/how-to-watch-the-mission-impossible-movies-in-chronological-order)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-a9439vo.jpeg)
+Want to do a Mission: Impossible marathon before Final Reckoning? Here are all the Mission: Impossible movies in chronological order.
+
+### [50. What's With All These FREE HD Blockbuster Movies on YouTube?](https://hackernoon.com/whats-with-all-these-free-hd-blockbuster-movies-on-youtube)
+![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-y0034c9.jpeg)
+There’s an invasion of YouTube channels with movies you couldn’t believe are available for free in top-resolution quality.
+
+### [51. Answering All of Your Captain America Questions](https://hackernoon.com/answering-all-of-your-captain-america-questions)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-z393po5.jpeg)
+Answering all of your Captain America questions. 
+
+### [52. CoinRunners NFTs: Bringing Hollywood Movies to the Blockchain](https://hackernoon.com/coinrunners-nfts-bringing-hollywood-movies-to-the-blockchain)
+![](https://cdn.hackernoon.com/images/C7LGfLlZs3OY2w0N7r4ePehwKBI2-gi93299.jpeg)
+CoinRunners’ movie, an autobiographical film by experienced and renowned cryptocurrency trader Lisa N Edwards, is creating a new utility concept within the NFT 
+
+### [53. Answering All of Your Hulk Questions](https://hackernoon.com/answering-all-of-your-hulk-questions)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-j093ok8.jpeg)
+Here are the answers to all of your Hulk questions.
+
+### [54. SOMA Finance and Meta Hollywood to Launch Tokenized Film Financing Offerings](https://hackernoon.com/soma-finance-and-meta-hollywood-to-launch-tokenized-film-financing-offerings)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-f993uh6.jpeg)
+Meta Hollywood has chosen SOMA Finance as the issuing partner for their upcoming digital securities ecosystem for tokenizing physical and digital assets. 
+
+### [55. The MCU Phase 1 Movies in Order](https://hackernoon.com/the-mcu-phase-1-movies-in-order)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0eh3pwe.jpeg)
+MCU Phase 1 Movies in Order: Iron Man, The Incredible Hulk, Iron Man, Thor, Captain America: The First Avenger,  and Marvel’s The Avengers.
 
 ### [56. Comparing Piracy Cycles: Movie Pirates are Ready to Wait For HD Quality Releases](https://hackernoon.com/comparing-piracy-cycles-movie-pirates-are-ready-to-wait-for-hd-quality-releases)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-00033yb.jpeg)
@@ -238,29 +240,29 @@ New data shared by piracy tracking company MUSO shows that most torrenting movie
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-6uh31fu.jpeg)
 The operator of the popular torrent site YTS has resolved the piracy lawsuit that was filed by movie outfit Wicked Nevada last year. In a consent judgment, which is signed by both parties, the YTS admin agreed to pay $150,000 in damages. The site is no longer allowed to share torrents of the film "Extremely Wicked, Shockingly Evil, And Vile," but YTS itself remains online for now.
 
-### [58. What are the Best Battle Scenes in Movies?](https://hackernoon.com/what-are-the-best-battle-scenes-in-movies)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-0l63753.jpeg)
-In this Slogging thread, the movie geeks at Hackernoon discuss the best battle scenes in movies. We talk about our favourite alongside our love for certain movi
-
-### [59. The MCU Phase 3 Movies in Order](https://hackernoon.com/the-mcu-phase-3-movies-in-order)
+### [58. The MCU Phase 3 Movies in Order](https://hackernoon.com/the-mcu-phase-3-movies-in-order)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-fs832li.jpeg)
 1. Captain America: Civil War 2. Doctor Strange 3. Guardians of the Galaxy Vol. 2 4. Spider-Man: Homecoming 5. Thor: Ragnarok 6. Avengers: Infinity War
 
-### [60. Moviegoers Will Inspire New Growth in the NFT Collectibles Market](https://hackernoon.com/moviegoers-will-inspire-new-growth-in-the-nft-collectibles-market)
-![](https://cdn.hackernoon.com/images/H5DGuJSfATTFKJMtxN5EhhYvrpI2-78135pn.jpeg)
-The growth of NFTs is mind-blowing. Here we explore the largest untapped market in the NFT landscape, movies-oriented collections.
+### [59. What are the Best Battle Scenes in Movies?](https://hackernoon.com/what-are-the-best-battle-scenes-in-movies)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-0l63753.jpeg)
+In this Slogging thread, the movie geeks at Hackernoon discuss the best battle scenes in movies. We talk about our favourite alongside our love for certain movi
 
-### [61. Answering All of Your Iron Man Questions](https://hackernoon.com/answering-all-of-your-iron-man-questions)
+### [60. Answering All of Your Iron Man Questions](https://hackernoon.com/answering-all-of-your-iron-man-questions)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-gs93pf1.jpeg)
 For those who liked the movies and want to know more about the character, here are all of your Iron Man questions answered.
 
-### [62. A New Direction for Netflix?](https://hackernoon.com/a-new-direction-for-netflix)
-![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-z9a35ol.jpeg)
-Read this post to get insight into the deal between Netflix and major movie theaters to exhibit "Glass Onion: A Knives Out Mystery" in November 2022.
+### [61. Moviegoers Will Inspire New Growth in the NFT Collectibles Market](https://hackernoon.com/moviegoers-will-inspire-new-growth-in-the-nft-collectibles-market)
+![](https://cdn.hackernoon.com/images/H5DGuJSfATTFKJMtxN5EhhYvrpI2-78135pn.jpeg)
+The growth of NFTs is mind-blowing. Here we explore the largest untapped market in the NFT landscape, movies-oriented collections.
 
-### [63. “Lilo & Stitch” and “Mission: Impossible” Show Why Theaters Matter in a Streaming World](https://hackernoon.com/lilo-and-stitch-and-mission-impossible-show-why-theaters-matter-in-a-streaming-world)
+### [62. “Lilo & Stitch” and “Mission: Impossible” Show Why Theaters Matter in a Streaming World](https://hackernoon.com/lilo-and-stitch-and-mission-impossible-show-why-theaters-matter-in-a-streaming-world)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-qr03lxw.png)
 #StitchImpossible is reigniting a debate about the place of movie theaters in a streaming-first world. 
+
+### [63. A New Direction for Netflix?](https://hackernoon.com/a-new-direction-for-netflix)
+![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-z9a35ol.jpeg)
+Read this post to get insight into the deal between Netflix and major movie theaters to exhibit "Glass Onion: A Knives Out Mystery" in November 2022.
 
 ### [64. The New Mortal Kombat Movie in 2021: 5 Characters We Want to See](https://hackernoon.com/the-new-mortal-kombat-movie-in-2021-5-characters-we-want-to-see-5d1o33dt)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ol3s28yr.jpeg)
@@ -280,21 +282,21 @@ Tuck Everlasting
 ![](https://cdn.hackernoon.com/images/the-movie-the-shinning-clim2gveo000401s6g4eq0w69.png)
 Kubrick completely ignored it, though and called King’s screenwriting, “weak”.
 
-### [67. The Noonification: Web Automation with Python and Selenium (9/10/2022)](https://hackernoon.com/9-10-2022-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-9/10/2022: Top 5 stories on the Hackernoon homepage!
-
-### [68. Answering All of Your Captain Marvel Questions](https://hackernoon.com/answering-all-of-your-captain-marvel-questions)
+### [67. Answering All of Your Captain Marvel Questions](https://hackernoon.com/answering-all-of-your-captain-marvel-questions)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ki93p1z.jpeg)
 Although Captain Marvel is insanely popular, some people still have questions. This article has you covered.
 
-### [69. Unpopular Opinions: Nicolas Cage is a Good Actor](https://hackernoon.com/unpopular-opinions-nicolas-cage-is-a-good-actor-2dk34o9)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ls1t33ne.png)
-Nicolas Cage has gotta be the only actor who has been in a movie with Cher, Meg Ryan, AND Emma Stone.
+### [68. The Noonification: Web Automation with Python and Selenium (9/10/2022)](https://hackernoon.com/9-10-2022-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+9/10/2022: Top 5 stories on the Hackernoon homepage!
 
-### [70. All DC Movies Coming Out in 2023](https://hackernoon.com/all-dc-movies-coming-out-in-2023)
+### [69. All DC Movies Coming Out in 2023](https://hackernoon.com/all-dc-movies-coming-out-in-2023)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-e193o9i.jpeg)
 Here are the DC movies coming out in 2023: Shazam, The Flash, Blue Beetle, and Aquaman. 
+
+### [70. Unpopular Opinions: Nicolas Cage is a Good Actor](https://hackernoon.com/unpopular-opinions-nicolas-cage-is-a-good-actor-2dk34o9)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ls1t33ne.png)
+Nicolas Cage has gotta be the only actor who has been in a movie with Cher, Meg Ryan, AND Emma Stone.
 
 ### [71. Three Questions for Netflix’s New Co-CEOs](https://hackernoon.com/three-questions-for-netflixs-new-co-ceos)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-mtc36j6.png)
@@ -329,107 +331,107 @@ But even though a lot of people love him, they still might have questions regard
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-r002vay.jpeg)
 Some movies that never got sequels, but left fans wanting more.
 
-### [79. Tracking the Worst Sci-Fi Movies With Angular and Slash GraphQL](https://hackernoon.com/tracking-the-worst-sci-fi-movies-with-angular-and-slash-graphql-5kt31qa)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-v2e31mx.jpeg)
-A Slash GraphQL service instance contains everything needed to provide data to an Angular app. Let’s make a fun demonstration using some of the worst movies.
-
-### [80. Behind the Incredible Soundtracks of Hans Zimmer and Christopher Nolan](https://hackernoon.com/behind-the-incredible-soundtracks-of-hans-zimmer-and-christopher-nolan)
+### [79. Behind the Incredible Soundtracks of Hans Zimmer and Christopher Nolan](https://hackernoon.com/behind-the-incredible-soundtracks-of-hans-zimmer-and-christopher-nolan)
 ![](https://cdn.hackernoon.com/images/music-clikkiids000001s6acix6ym0.png)
 Christopher Nolan and Hans Zimmer have collaborated on some of the most iconic film soundtracks. 
+
+### [80. Tracking the Worst Sci-Fi Movies With Angular and Slash GraphQL](https://hackernoon.com/tracking-the-worst-sci-fi-movies-with-angular-and-slash-graphql-5kt31qa)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-v2e31mx.jpeg)
+A Slash GraphQL service instance contains everything needed to provide data to an Angular app. Let’s make a fun demonstration using some of the worst movies.
 
 ### [81. What is your Favorite Holiday Movie?](https://hackernoon.com/what-is-your-favorite-holiday-movie)
 ![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-us038zv.jpeg)
 The holidays are just around the corner! In this slogging thread, the random channel discussed our all-time favorite movies for this time of the year. 
 
-### [82. Will Disney+ Create Magic through Profitable Content and Commerce?](https://hackernoon.com/will-disney-create-magic-through-profitable-content-and-commerce)
-![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-oce36xj.jpeg)
-Read this post for insight into two keys to the future of Disney+ and New Hollywood: content and commerce.
-
-### [83. On the Music and Movie Industries Entering the Metaverse](https://hackernoon.com/on-the-music-and-movie-industries-entering-the-metaverse)
-![](https://cdn.hackernoon.com/images/Ah2jLzMePieEW0CzYzRXo6GsVyA3-3r1n37d3.jpeg)
-The metaverse represents an entirely new medium of storytelling in movies and musical experience. Who will be the first to push the boundaries of immersion?
-
-### [84. Seven 2000s Movies With The Most Magical Adventures](https://hackernoon.com/seven-2000s-movies-with-the-most-magical-adventures)
+### [82. Seven 2000s Movies With The Most Magical Adventures](https://hackernoon.com/seven-2000s-movies-with-the-most-magical-adventures)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-cu023m9.jpeg)
 The most magical movies from the turn of the millenium.
 
-### [85. No More Loud Chewers at the Movies!](https://hackernoon.com/no-more-loud-chewers-at-the-movies)
+### [83. Will Disney+ Create Magic through Profitable Content and Commerce?](https://hackernoon.com/will-disney-create-magic-through-profitable-content-and-commerce)
+![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-oce36xj.jpeg)
+Read this post for insight into two keys to the future of Disney+ and New Hollywood: content and commerce.
+
+### [84. No More Loud Chewers at the Movies!](https://hackernoon.com/no-more-loud-chewers-at-the-movies)
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-7293jc8.jpeg)
 This slogging thread discusses a Swedish film festival's experiment with hypnosis, using this technique on spectators. The results have been quite interesting.
 
-### [86. Movie Streaming Apps: An Innovative Way to Redefine Entertainment](https://hackernoon.com/movie-streaming-apps-innovating-way-to-redefine-entertainment-km2734gu)
+### [85. Movie Streaming Apps: An Innovative Way to Redefine Entertainment](https://hackernoon.com/movie-streaming-apps-innovating-way-to-redefine-entertainment-km2734gu)
 ![](https://cdn.hackernoon.com/images/okWPLHThAuVW8eFqndiqlnw1ker2-6m831nm.jpeg)
 When we think of streaming TV shows and movies, the first thing that comes into our mind is Netflix, Hulu, and Amazon Prime Instant Video which dominates all the movie streaming apps in the entertainment industry. It seems like they captured the world with its cutting edge technology base and remove the era of CDs, DVDs, and video players. As per the survey held on February 2019, Netflix is one of the largest providers of streaming movies and TV shows on the internet with 139 million subscribers.
 
 
 
-### [87. The Most Disappointing Movie Sequels Of All Time](https://hackernoon.com/the-most-disappointing-movie-sequels-of-all-time)
+### [86. The Most Disappointing Movie Sequels Of All Time](https://hackernoon.com/the-most-disappointing-movie-sequels-of-all-time)
 ![](https://cdn.hackernoon.com/images/frV59fs9NuPDT4y6nCr3glGjtj93-cv034jz.jpeg)
 Some sequels are a letdown, with some even ruining the franchise.
 
-### [88. Wonder Woman 1984 Could've Done Better If It Was Named For The Years 1994 or 2004](https://hackernoon.com/wonder-woman-1984-couldve-done-better-if-it-was-named-for-the-years-1994-or-2004-0b4b34va)
+### [87. Wonder Woman 1984 Could've Done Better If It Was Named For The Years 1994 or 2004](https://hackernoon.com/wonder-woman-1984-couldve-done-better-if-it-was-named-for-the-years-1994-or-2004-0b4b34va)
 ![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-qa25317f.jpeg)
 Would Wonder Woman 1984 have worked better as Wonder Woman 1994 or Wonder Woman 2004?
 
-### [89. Tariffs Could Push AI to the Center of American Filmmaking](https://hackernoon.com/tariffs-could-push-ai-to-the-center-of-american-filmmaking)
+### [88. Tariffs Could Push AI to the Center of American Filmmaking](https://hackernoon.com/tariffs-could-push-ai-to-the-center-of-american-filmmaking)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-m103lgr.jpeg)
 Read  this post for insight into why tariffs proposed by President Trump could acclerate the adoption of AI in U.S moviemaking.
 
-### [90. The Top 7 Eagerly Anticipated Movies Of 2025: Superman, Thunderbolts, and More](https://hackernoon.com/the-top-7-eagerly-anticipated-movies-of-2025-superman-thunderbolts-and-more)
+### [89. The Top 7 Eagerly Anticipated Movies Of 2025: Superman, Thunderbolts, and More](https://hackernoon.com/the-top-7-eagerly-anticipated-movies-of-2025-superman-thunderbolts-and-more)
 ![](https://cdn.hackernoon.com/images/frV59fs9NuPDT4y6nCr3glGjtj93-3p037p5.jpeg)
 Here are my top picks for the most awaited films that deserve the big screen experience.
+
+### [90. Final Destination's Sixth Installment Brings a Smart, Psychological Twist to Horror Tropes](https://hackernoon.com/final-destinations-sixth-installment-brings-a-smart-psychological-twist-to-horror-tropes)
+![](https://cdn.hackernoon.com/images/iEB7EVjsMCRFL8jW48kmn53ySU92-qy035yi.png)
+A deep dive into how Final Destination: Bloodlines reboots horror with tech-inspired storytelling, exploring fate as a flawed system.
 
 ### [91. The Matrix VS Metaverse: Looking at Through the Prism of Cinema](https://hackernoon.com/the-matrix-vs-metaverse-looking-at-through-the-prism-of-cinema)
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-lqa3fla.jpeg)
 Soon we can see a widespread metaverse. I have analyzed what metaverse is based on The Matrix. And it gave me some amazing thoughts you should hear.
 
-### [92. Final Destination's Sixth Installment Brings a Smart, Psychological Twist to Horror Tropes](https://hackernoon.com/final-destinations-sixth-installment-brings-a-smart-psychological-twist-to-horror-tropes)
-![](https://cdn.hackernoon.com/images/iEB7EVjsMCRFL8jW48kmn53ySU92-qy035yi.png)
-A deep dive into how Final Destination: Bloodlines reboots horror with tech-inspired storytelling, exploring fate as a flawed system.
-
-### [93. 81 Stories To Learn About Movies](https://hackernoon.com/81-stories-to-learn-about-movies)
+### [92. 81 Stories To Learn About Movies](https://hackernoon.com/81-stories-to-learn-about-movies)
 ![](https://cdn.hackernoon.com/images/github/movies-583.png)
 Learn everything you need to know about Movies via these 81 free HackerNoon stories.
 
-### [94. Can Deepfake Destroy Hollywood?](https://hackernoon.com/can-deepfake-disrupt-hollywood-fu14t32la)
+### [93. Can Deepfake Destroy Hollywood?](https://hackernoon.com/can-deepfake-disrupt-hollywood-fu14t32la)
 ![](https://cdn.hackernoon.com/images/qy14932c3.jpg)
 Artificial Intelligence is a real thing. The building blocks are readily available to anyone who can afford to rent GPU power and string together Python code. As technology advances and it becomes easier to manipulate the human form with AI, will Hollywood continue to exist? 
 
-### [95. Elon Musk Should Name A City On Mars After Val Kilmer](https://hackernoon.com/elon-musk-should-name-a-city-on-mars-after-val-kilmer)
+### [94. Elon Musk Should Name A City On Mars After Val Kilmer](https://hackernoon.com/elon-musk-should-name-a-city-on-mars-after-val-kilmer)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-uj037zl.jpeg)
 How about a future city on Mars in memory of Val Kilmer?
+
+### [95. What are the Best Comedy Movies of the 21st Century?](https://hackernoon.com/what-are-the-best-comedy-movies-of-the-21st-century)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-e81377w.jpeg)
+In this slogging post, the team at Hackernoon discusses the best comedy movies of the 21st century. 
 
 ### [96. Who is the Best Comic Relief Character in the World of Sitcoms?](https://hackernoon.com/who-is-the-best-comic-relief-character-in-the-world-of-sitcoms)
 ![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-l293hac.jpeg)
 There's always that one character that can make you laugh. In this slogging thread, our pop culture channel discussed the best comic relief character.
 
-### [97. What are the Best Comedy Movies of the 21st Century?](https://hackernoon.com/what-are-the-best-comedy-movies-of-the-21st-century)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-e81377w.jpeg)
-In this slogging post, the team at Hackernoon discusses the best comedy movies of the 21st century. 
-
-### [98. Amazon, MGM, and the Triumph of New Hollywood](https://hackernoon.com/amazon-mgm-and-the-triumph-of-new-hollywood-k2l366v)
+### [97. Amazon, MGM, and the Triumph of New Hollywood](https://hackernoon.com/amazon-mgm-and-the-triumph-of-new-hollywood-k2l366v)
 ![](https://cdn.hackernoon.com/images/nTolwVCe2KPryOw11aq31tS22Ky1-qp1t3f6l.jpeg)
 Read this post for insight into how the rise of Amazon and the fall of MGM signals the triumph of New Hollywood.
+
+### [98. Bosnian Man Chooses to Live as a 21st Century Ragnar](https://hackernoon.com/bosnian-man-chooses-to-live-as-a-21st-century-ragnar)
+![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-dga3hwb.jpeg)
+In this thread, our community discusses Stipe Pleic's case and whether or not they'll go total immersion in a characters' lifestyle.
 
 ### [99. The Fall of a Video Rental Empire: How Blockbuster Grew too Big to Change](https://hackernoon.com/the-fall-of-a-video-rental-empire-how-blockbuster-grew-too-big-to-change-8y7s33xe)
 ![](https://cdn.hackernoon.com/images/q6Bi49pjxyXjrHxoaRaCpxlrHwt2-yg5q33og.jpeg)
 What made Blockbuster different from Netflix; differences that ultimately led to its demise?
 
-### [100. Bosnian Man Chooses to Live as a 21st Century Ragnar](https://hackernoon.com/bosnian-man-chooses-to-live-as-a-21st-century-ragnar)
-![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-dga3hwb.jpeg)
-In this thread, our community discusses Stipe Pleic's case and whether or not they'll go total immersion in a characters' lifestyle.
+### [100. I Know What You Did Last Summer (With Glitch and Cloudflare)](https://hackernoon.com/i-know-what-you-did-last-summer-with-glitch-and-cloudflare)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ql93nl9.jpeg)
+Using a Markov chain to generate spooky movie titles!
 
 ### [101. What is your favorite video game movie?](https://hackernoon.com/what-is-your-favorite-video-game-movie-6f1q33mg)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-st1t29bf.jpeg)
 Video game movies have earned a reputation for being less than stellar, but are there any good ones?
 
-### [102. I Know What You Did Last Summer (With Glitch and Cloudflare)](https://hackernoon.com/i-know-what-you-did-last-summer-with-glitch-and-cloudflare)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ql93nl9.jpeg)
-Using a Markov chain to generate spooky movie titles!
-
-### [103. 4 Intellectual Properties that Deserve a Proper Video Game Adaptation](https://hackernoon.com/4-intellectual-properties-that-deserve-a-proper-video-game-adaptation-zi5f33qn)
+### [102. 4 Intellectual Properties that Deserve a Proper Video Game Adaptation](https://hackernoon.com/4-intellectual-properties-that-deserve-a-proper-video-game-adaptation-zi5f33qn)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-xv7s337k.jpeg)
 Plenty of intellectual properties have been adapted into successful video games or even their own game series.
+
+### [103. What's Your Favorite Fictional Universe?](https://hackernoon.com/whats-your-favorite-fictional-universe)
+![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-hc038ih.jpeg)
+We've grown up with amazing stories, and we can't help but have a soft spot for their universes. In this thread, we discussed our favorites fictional worlds.
 
 ### [104. 83 Stories To Learn About Entertainment](https://hackernoon.com/83-stories-to-learn-about-entertainment)
 ![](https://cdn.hackernoon.com/images/github/entertainment-239.png)
@@ -439,21 +441,21 @@ Learn everything you need to know about Entertainment via these 83 free HackerNo
 ![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-ge138pb.jpeg)
 Who doesn't like a good laugh? We've seen comedians in series and movies, and in this slogging thread, we discussed which one has made us laugh the most.
 
-### [106. Getting Ready for The Oscars 2022](https://hackernoon.com/getting-ready-for-the-oscars-2022)
+### [106. The HackerNoon Newsletter: I Didn’t Learn Leadership in a Book — I Lived It (5/26/2025)](https://hackernoon.com/5-26-2025-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_297_ds66qk7aweago39ed2xxhmma.png)
+5/26/2025: Top 5 stories on the HackerNoon homepage!
+
+### [107. Getting Ready for The Oscars 2022](https://hackernoon.com/getting-ready-for-the-oscars-2022)
 ![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-e3a3hni.jpeg)
 In this slogging thread, our pop-culture channel discussed the Oscars, mainly the movies we've watched and the ones we would like to watch.
-
-### [107. What's Your Favorite Fictional Universe?](https://hackernoon.com/whats-your-favorite-fictional-universe)
-![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-hc038ih.jpeg)
-We've grown up with amazing stories, and we can't help but have a soft spot for their universes. In this thread, we discussed our favorites fictional worlds.
 
 ### [108. Is The Matrix Resurrections Worth Watching? (Slogging Insights)](https://hackernoon.com/is-the-matrix-resurrections-worth-watching-slogging-insights)
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-9f037lc.jpeg)
 In this slogging thread, our community discusses the Matrix saga and their expectations for the new movie.
 
-### [109. The HackerNoon Newsletter: I Didn’t Learn Leadership in a Book — I Lived It (5/26/2025)](https://hackernoon.com/5-26-2025-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_297_ds66qk7aweago39ed2xxhmma.png)
-5/26/2025: Top 5 stories on the HackerNoon homepage!
+### [109. How Shorter Movie Release Windows Impact Piracy](https://hackernoon.com/how-shorter-movie-release-windows-impact-piracy)
+![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-w9033a2.jpeg)
+Movie studios are increasingly experimenting with shorter release windows or even simultaneous theatrical and digital premieres.
 
 ### [110. 6 Video Game Properties Overdue for a Hollywood Film or TV Adaptation](https://hackernoon.com/6-video-game-properties-overdue-for-a-hollywood-film-or-tv-adaptation-p73j338x)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-u93h33bd.jpeg)
@@ -467,19 +469,15 @@ Find out what it takes to create a hit film or series.
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-wx93g9e.jpeg)
 In this slogging thread, the gaming community discusses the best and worst video games movie adaptations, from the Tomb Raider to Detective Pikachu.
 
-### [113. How Shorter Movie Release Windows Impact Piracy](https://hackernoon.com/how-shorter-movie-release-windows-impact-piracy)
-![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-w9033a2.jpeg)
-Movie studios are increasingly experimenting with shorter release windows or even simultaneous theatrical and digital premieres.
-
-### [114. Will Superhero Movies Survive the Streaming Era?](https://hackernoon.com/will-superhero-movies-survive-the-streaming-era-nm313348)
+### [113. Will Superhero Movies Survive the Streaming Era?](https://hackernoon.com/will-superhero-movies-survive-the-streaming-era-nm313348)
 ![](https://cdn.hackernoon.com/images/WmXWvkdZImbMgbPPYuJzbjVietd2-af2f32sk.jpeg)
 The majority of cinemas all over the world have had to close their doors for much of 2020 to maintain social distancing protocols. 
 
-### [115. Is the New Spiderman Movie any Good?](https://hackernoon.com/is-the-new-spiderman-movie-any-good)
+### [114. Is the New Spiderman Movie any Good?](https://hackernoon.com/is-the-new-spiderman-movie-any-good)
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-xje3gzp.jpeg)
  In this slogging thread, our community discusses their opinions on the new spiderman movie, the new Marvel generation, and the future of superhero movies.
 
-### [116. A Good Movie for Founders](https://hackernoon.com/a-good-movie-for-founders-bc3484ea166a)
+### [115. A Good Movie for Founders](https://hackernoon.com/a-good-movie-for-founders-bc3484ea166a)
 ![](https://cdn.hackernoon.com/images/a-political-drama-playing-on-a-big-theatre-screen-ycpyzhinzfyfcpu1m2xi7l9b.png)
 I just finished watching <em>The Martian. </em>It’s basically a modern version of Apollo 13. The overarching theme is to presevere in adversity, &amp; I think it’s very fitting for people starting a company. So, I’m going to coin the <a href="https://goo.gl/vpZV6T" target="_blank">movie</a> title to represent this theme: I’m going to Martian the shit out of this startup.
 

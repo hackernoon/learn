@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [productivity-tools](https://hackernoon.com/tagged/productivity-tools)
+### Let's learn about [Productivity Tools](https://hackernoon.com/tagged/productivity-tools) via these 96 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 It's called "Slack" for a reason.
 
 ### [1. How to Create a Habit Tracker in Notion](https://hackernoon.com/how-to-create-a-habit-tracker-in-notion-b5143uzn)
@@ -131,13 +133,13 @@ After a year that included 40% growth in user base and a 130% surge in demand fo
 ![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-6ja3h37.jpeg)
 
 
-### [33. The Era of Opinionated Productivity Software: Superhuman, Roam, What’s Next?](https://hackernoon.com/the-era-of-opinionated-productivity-software-superhuman-roam-whats-next-87j3uwb)
-![](https://cdn.hackernoon.com/drafts/odi73vuk.png)
-Productivity software is indispensable for all of us. Dedicated tools for creating spreadsheets, writing down notes, managing our to-dos etc. ensure that we are productive in our professions. Incumbent vendors (e.g. Microsoft, Google) have dominated this space for many years — yet, there is a chance for new players to enter the stage. New challengers such as the E-Mail client Superhuman or the note-taking tool Roam Research can compete by developing highly opinionated products which deliberately omit flexibility. Instead, the software is stringently crafted around a very particular way of approaching a process, which is inherently seen as superior by the firm.
-
-### [34. 6 Incredible Productivity Tools for Programmers](https://hackernoon.com/6-incredible-productivity-tools-for-programmers-na2j33i0)
+### [33. 6 Incredible Productivity Tools for Programmers](https://hackernoon.com/6-incredible-productivity-tools-for-programmers-na2j33i0)
 ![](https://cdn.hackernoon.com/images/eZBVdYLNmrWE6T2SjFlyviCtzU62-ev2t2yc4.jpeg)
 Productivity is key when it comes to getting work done with a smile. Burndowns are natural, here is how to minimize them and keep hustling.
+
+### [34. The Era of Opinionated Productivity Software: Superhuman, Roam, What’s Next?](https://hackernoon.com/the-era-of-opinionated-productivity-software-superhuman-roam-whats-next-87j3uwb)
+![](https://cdn.hackernoon.com/drafts/odi73vuk.png)
+Productivity software is indispensable for all of us. Dedicated tools for creating spreadsheets, writing down notes, managing our to-dos etc. ensure that we are productive in our professions. Incumbent vendors (e.g. Microsoft, Google) have dominated this space for many years — yet, there is a chance for new players to enter the stage. New challengers such as the E-Mail client Superhuman or the note-taking tool Roam Research can compete by developing highly opinionated products which deliberately omit flexibility. Instead, the software is stringently crafted around a very particular way of approaching a process, which is inherently seen as superior by the firm.
 
 ### [35. Unleashing Your Software Developer Potential: Mastering Growth with a Notion Template](https://hackernoon.com/unleashing-your-software-developer-potential-mastering-growth-with-a-notion-template)
 ![](https://cdn.hackernoon.com/images/IzGq6ZjAP5bDH89ofBqoSUWRLuy1-i593pcp.jpeg)
@@ -175,13 +177,13 @@ Here are the game changing productivity hacks, tools, and tips that have helped 
 ![](https://cdn.hackernoon.com/images/MWmFi8CBYBSm5Jb4pIf9jlekMbS2-8e3t31qm.jpeg)
 How to improve your focus - especially as a software developer. Book review of Deep Work by Cal Newport. 
 
-### [44. Notion: Superior Productivity For All](https://hackernoon.com/notion-superior-productivity-for-all-w24y338r)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-b211285n.jpeg)
-Notion is an All-In-One workspace. Notion’s platform allows you to create task-oriented lists and projects, wikis, databases, lightweight CRM’s, tables & more!
-
-### [45. 5 Tech Tools to Sharpen Your Creativity](https://hackernoon.com/5-tech-tools-to-sharpen-your-creativity)
+### [44. 5 Tech Tools to Sharpen Your Creativity](https://hackernoon.com/5-tech-tools-to-sharpen-your-creativity)
 ![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-qf93op7.jpeg)
 Creativity is important today because it helps us innovate and think outside the box. Knowing how to use your creativity can open up a world of opportunities, so it's worthwhile taking the time to sharpen these skills with the right tools. 
+
+### [45. Notion: Superior Productivity For All](https://hackernoon.com/notion-superior-productivity-for-all-w24y338r)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-b211285n.jpeg)
+Notion is an All-In-One workspace. Notion’s platform allows you to create task-oriented lists and projects, wikis, databases, lightweight CRM’s, tables & more!
 
 ### [46. I Quit Chrome for Edge and Firefox—and I’m Not Going Back](https://hackernoon.com/i-quit-chrome-for-edge-and-firefoxand-im-not-going-back)
 ![](https://cdn.hackernoon.com/images/9SBj6OzMvXOEhDxTjjuu75pLYnp1-ly03ero.webp)
@@ -227,33 +229,33 @@ Top 10 Web Dev Tools in 2021
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-n3136ie.jpeg)
 Your well-being, routines, motivations and how effectively you plan, all play a role in your ability to remain focused while coding.
 
-### [57. 15 Best Project Management Tools  ](https://hackernoon.com/15-best-project-management-tools)
-![](https://cdn.hackernoon.com/images/8tYpoSHmnsMkNKg6PmZT8gj99EF3-6row35xn.jpeg)
-Project management systems are supposed to make the life of teams easier and the work process faster and more efficient. 
-
-### [58. 5 Productivity Tools Every Solopreneur Needs](https://hackernoon.com/5-productivity-tools-every-solopreneur-needs-4wr3udt)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FLdJ7jB4Ejue1xXrCIKttzM9ZNHA3-7453xbf.jpeg?alt=media&token=e23d1d20-29e7-41e0-abe2-1561c20b326c)
-This pandemic is the perfect time to focus on your side hustle
-
-### [59. I Turned a Failed Product Hunt Launch Into a Top 3 Win on a Budget](https://hackernoon.com/i-turned-a-failed-product-hunt-launch-into-a-top-3-win-on-a-budget)
+### [57. I Turned a Failed Product Hunt Launch Into a Top 3 Win on a Budget](https://hackernoon.com/i-turned-a-failed-product-hunt-launch-into-a-top-3-win-on-a-budget)
 ![](https://cdn.hackernoon.com/images/jdX9nKbWXae70fzbljKiPn0yxqp2-0803las.png)
 The first time I launched my app, it was super half-arsed. The second time I relaunched it, it shot up to #3 product of the day.
 
-### [60. 4 Productivity Hacks That Yield Quick Results](https://hackernoon.com/4-productivity-hacks-that-yield-quick-results-o52c3uhd)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVy8F9TD8MnRuffSPhFqEdcbGjh13-uv3i3ut3.jpeg?alt=media&token=9c1da34c-f058-4c91-83cd-02c40ecacdcd)
-Having trouble hitting deadlines and staying focused? Well, have no fear! This article will introduce four productivity hacks that almost anyone can implement immediately and see fast results.
+### [58. 15 Best Project Management Tools  ](https://hackernoon.com/15-best-project-management-tools)
+![](https://cdn.hackernoon.com/images/8tYpoSHmnsMkNKg6PmZT8gj99EF3-6row35xn.jpeg)
+Project management systems are supposed to make the life of teams easier and the work process faster and more efficient. 
 
-### [61. The Zen of Python: As Related by Masters](https://hackernoon.com/the-zen-of-python-as-related-by-masters-n32h3tu3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fz9GuQDlPoadikM3gvzuide67FCB2-3xb3vjz.jpeg?alt=media&token=d528bfe1-4b00-43c3-817a-e46eb8a51dd2)
-The Zen of Python saw light for the first time in 1999. It's one of the many aspects that adds to the awesomeness of Python. It's a set of expressions which corners the spirit of the language. It was enounced by Tim Peters, a reputable software engineer, master Pythonista and Python's 'most prolific and tenacious core developer' in the words of none other than Guido [18]. This article bases itself mostly on the saying of core devs and highly reputable members. It makes a great gift to all those interested in the history of the sysadmin script which took the world by (pleasent) surprise.
+### [59. 5 Productivity Tools Every Solopreneur Needs](https://hackernoon.com/5-productivity-tools-every-solopreneur-needs-4wr3udt)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FLdJ7jB4Ejue1xXrCIKttzM9ZNHA3-7453xbf.jpeg?alt=media&token=e23d1d20-29e7-41e0-abe2-1561c20b326c)
+This pandemic is the perfect time to focus on your side hustle
 
-### [62. 13 Must-Have Tools for Content Marketing in 2020](https://hackernoon.com/13-must-have-tools-for-content-marketing-in-2020-7hay3waf)
+### [60. 13 Must-Have Tools for Content Marketing in 2020](https://hackernoon.com/13-must-have-tools-for-content-marketing-in-2020-7hay3waf)
 ![](https://cdn.hackernoon.com/drafts/j7i3yrc.png)
 Hey there! If you’re looking for the best Content Marketing tool for your Business, stick here! Because I’ve made a list of tools for you that you need for your Content Marketing in 2020. I’ve used a lot of tools for my Content Marketing and shortlisted a few that are a must-have if you are to market your business through social media and Content Marketing. 
 
-### [63. Why I Continue to Use ChatGPT Despite its Limitations — A C-level Perspective ](https://hackernoon.com/why-i-continue-to-use-chatgpt-despite-its-limitations-a-c-level-perspective)
+### [61. 4 Productivity Hacks That Yield Quick Results](https://hackernoon.com/4-productivity-hacks-that-yield-quick-results-o52c3uhd)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVy8F9TD8MnRuffSPhFqEdcbGjh13-uv3i3ut3.jpeg?alt=media&token=9c1da34c-f058-4c91-83cd-02c40ecacdcd)
+Having trouble hitting deadlines and staying focused? Well, have no fear! This article will introduce four productivity hacks that almost anyone can implement immediately and see fast results.
+
+### [62. Why I Continue to Use ChatGPT Despite its Limitations — A C-level Perspective ](https://hackernoon.com/why-i-continue-to-use-chatgpt-despite-its-limitations-a-c-level-perspective)
 ![](https://cdn.hackernoon.com/images/a-robot-talking-to-a-crowd-of-people-w9qzm1okgtfx1w1cv5byecc5.png)
 Discover the insights of a C-level professional on using ChatGPT as a digital assistant in daily work routines. 
+
+### [63. The Zen of Python: As Related by Masters](https://hackernoon.com/the-zen-of-python-as-related-by-masters-n32h3tu3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fz9GuQDlPoadikM3gvzuide67FCB2-3xb3vjz.jpeg?alt=media&token=d528bfe1-4b00-43c3-817a-e46eb8a51dd2)
+The Zen of Python saw light for the first time in 1999. It's one of the many aspects that adds to the awesomeness of Python. It's a set of expressions which corners the spirit of the language. It was enounced by Tim Peters, a reputable software engineer, master Pythonista and Python's 'most prolific and tenacious core developer' in the words of none other than Guido [18]. This article bases itself mostly on the saying of core devs and highly reputable members. It makes a great gift to all those interested in the history of the sysadmin script which took the world by (pleasent) surprise.
 
 ### [64. Get Rid Of Your Self-Imposed Restrictions: An App Review of Freedom](https://hackernoon.com/get-rid-of-your-self-imposed-restrictions-an-app-review-of-freedom-0o4a359w)
 ![](https://cdn.hackernoon.com/images/VYTbQ9RCY6Madi01sqFPdM88UX52-5m3634g7.jpeg)
@@ -267,13 +269,13 @@ Many people, including me, find ourselves overwhelmed by the complexity of moder
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4v022rp.jpeg)
 A subtle change is underway in how knowledge work begins.
 
-### [67. Technology Was Meant to Make Work Easier, but Has it Just Made us Busier?](https://hackernoon.com/technology-was-meant-to-make-work-easier-but-has-it-just-made-us-busier)
-![](https://cdn.hackernoon.com/images/cKs78lxUwmhmmdj8AyccPMXHSzJ3-5v134mp.webp)
-AI, automation, and always-on tools increase expectations, but do they truly boost productivity?
-
-### [68. 5 Best Online Tools to Compress and Optimize Your Images](https://hackernoon.com/5-best-online-tools-to-compress-and-optimize-your-images)
+### [67. 5 Best Online Tools to Compress and Optimize Your Images](https://hackernoon.com/5-best-online-tools-to-compress-and-optimize-your-images)
 ![](https://cdn.hackernoon.com/images/dCtmEr7l8IXctDJkwiyRwTnWiz43-9e93o6j.jpeg)
 Here are the 5 Best Online Tools to Compress and Optimize Your Images.
+
+### [68. Technology Was Meant to Make Work Easier, but Has it Just Made us Busier?](https://hackernoon.com/technology-was-meant-to-make-work-easier-but-has-it-just-made-us-busier)
+![](https://cdn.hackernoon.com/images/cKs78lxUwmhmmdj8AyccPMXHSzJ3-5v134mp.webp)
+AI, automation, and always-on tools increase expectations, but do they truly boost productivity?
 
 ### [69. 85 Stories To Learn About Productivity Hacks](https://hackernoon.com/85-stories-to-learn-about-productivity-hacks)
 ![](https://cdn.hackernoon.com/images/github/productivity-hacks-407.png)
@@ -299,37 +301,37 @@ A simple analyses of Pocket app using the infamous Hook Framework
 ![](https://cdn.hackernoon.com/images/github/productivity-tools-860.png)
 Learn everything you need to know about Productivity Tools via these 69 free HackerNoon stories.
 
-### [75. How to Simplify Your Work Using the CAKE.com Suite of Tools](https://hackernoon.com/how-to-simplify-your-work-using-the-cakecom-suite-of-tools)
+### [75. How to check word count in Google Docs?](https://hackernoon.com/how-to-count-the-number-of-words-in-your-google-docs-document)
+![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-ba92pei.jpeg)
+Are you tired of manually counting the number of words in your Google Docs while working on your blog or article?
+
+### [76. How to Simplify Your Work Using the CAKE.com Suite of Tools](https://hackernoon.com/how-to-simplify-your-work-using-the-cakecom-suite-of-tools)
 ![](https://cdn.hackernoon.com/images/jfyKa8ItrCQoyEsVS9qGOCIoaxA2-i4g3slv.jpeg)
 If you want to simplify employees' work on a daily basis suite of tools such as CAKE.com offers, can be perfect solution for your team.
-
-### [76. 5 Team Communication Tools That Will Skyrocket Your Productivity](https://hackernoon.com/5-team-communication-tools-that-will-skyrocket-your-productivity-ouq3wsj)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrgVd9kkVg5ekfqLz1pMfOVzWhKG2-0e2j3wpj.jpeg?alt=media&token=b05c013a-ce58-4957-a96f-1d6cbf43f11c)
-Teams come in all sizes and these days from all parts of the world. Geography is no longer a limitation with messaging tools that can connect you with anyone in the world. The right communication tools can skyrocket your team’s productivity, as ability to easily share information and ideas with all your stakeholders is key to driving productivity.
 
 ### [77. Most People Using AI Aren’t Actually Building Anything](https://hackernoon.com/most-people-using-ai-arent-actually-building-anything)
 ![](https://cdn.hackernoon.com/images/tuRGL7enrHNul58fKjy7iu0d1Eg2-ni033kx.jpeg)
 Discover why most AI users aren’t actually building and how clarity first workflows, human AI collaboration, Ai project strategist and tools like Tablary and No
 
-### [78. NPX Introduction: Fast Work With NPM Package Binaries](https://hackernoon.com/npx-work-faster-with-npm-package-binaries-jrk3yd7)
+### [78. 5 Team Communication Tools That Will Skyrocket Your Productivity](https://hackernoon.com/5-team-communication-tools-that-will-skyrocket-your-productivity-ouq3wsj)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrgVd9kkVg5ekfqLz1pMfOVzWhKG2-0e2j3wpj.jpeg?alt=media&token=b05c013a-ce58-4957-a96f-1d6cbf43f11c)
+Teams come in all sizes and these days from all parts of the world. Geography is no longer a limitation with messaging tools that can connect you with anyone in the world. The right communication tools can skyrocket your team’s productivity, as ability to easily share information and ideas with all your stakeholders is key to driving productivity.
+
+### [79. NPX Introduction: Fast Work With NPM Package Binaries](https://hackernoon.com/npx-work-faster-with-npm-package-binaries-jrk3yd7)
 ![](https://cdn.hackernoon.com/drafts/o2u32z1.png)
 With Node.js, building CLI utilities and development tools have gotten so much easier.
 
-### [79. 6 Chrome Extensions That You’ve Never Heard Of But Should Try Out](https://hackernoon.com/6-hand-picked-chrome-extensions-that-youve-never-heard-of-fpn3zhm)
-![](https://cdn.hackernoon.com/drafts/d31c3z06.png)
-There are two types of people when it comes to using browser extensions. You have them all or you have them none. The adventure starts with just one install button. Then, you're lost in the extension world.  You’re adding a new one to your browser week by week. But what are the best Google Chrome extensions that you need to have?
-
-### [80. How to check word count in Google Docs?](https://hackernoon.com/how-to-count-the-number-of-words-in-your-google-docs-document)
-![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-ba92pei.jpeg)
-Are you tired of manually counting the number of words in your Google Docs while working on your blog or article?
-
-### [81. Productivity 101: How to Implement the Pomodoro Productivity Technique](https://hackernoon.com/productivity-101-how-to-implement-the-pomodoro-productivity-technique)
+### [80. Productivity 101: How to Implement the Pomodoro Productivity Technique](https://hackernoon.com/productivity-101-how-to-implement-the-pomodoro-productivity-technique)
 ![](https://cdn.hackernoon.com/images/ZI6rcoTwwzWS1AH495rMgbPSeWl1-51g3h31.jpeg)
 If you’re looking to be more productive in your life, you may have heard of the Pomodoro productivity hack or technique. 
 
-### [82. Are You Tired of Copy-Pasting ASIN & ISBN Codes on Amazon Search?](https://hackernoon.com/are-you-tired-of-copy-pasting-asin-and-isbn-codes-on-amazon-search)
+### [81. Are You Tired of Copy-Pasting ASIN & ISBN Codes on Amazon Search?](https://hackernoon.com/are-you-tired-of-copy-pasting-asin-and-isbn-codes-on-amazon-search)
 ![](https://cdn.hackernoon.com/images/3rT8LlPGDMhrhnneC6EErXOQdpi1-yca3s8p.jpeg)
 A Free Chrome Extension that helps link unlinked ISBN and ASIN codes to improve productivity.
+
+### [82. 6 Chrome Extensions That You’ve Never Heard Of But Should Try Out](https://hackernoon.com/6-hand-picked-chrome-extensions-that-youve-never-heard-of-fpn3zhm)
+![](https://cdn.hackernoon.com/drafts/d31c3z06.png)
+There are two types of people when it comes to using browser extensions. You have them all or you have them none. The adventure starts with just one install button. Then, you're lost in the extension world.  You’re adding a new one to your browser week by week. But what are the best Google Chrome extensions that you need to have?
 
 ### [83. All You Need To Know About SharePoint Migration ](https://hackernoon.com/all-you-need-to-know-about-sharepoint-migration)
 ![](https://cdn.hackernoon.com/images/bUPlHu7kg1b6URDw6SxFSjecYRF2-qb93n6g.png)
@@ -339,47 +341,51 @@ Learn how you can simplify SharePoint Migration process easily with the best Sha
 ![](https://cdn.hackernoon.com/drafts/zl3zc36zh.png)
 This is not a joke. Stationery stores and selling pocket notebooks with the word "PASSWORDS" written across the front. Inside are pages, with alphabetized tabs and spaces for you to record the website name, the username (login), and your password. Plus a space for notes.
 
-### [85. Celebrating 10,000+ stars on GitHub repository⭐ ❤️️](https://hackernoon.com/celebrating-10000-stars-on-github-together-cxx3235)
-![](https://cdn.hackernoon.com/images/ww1i3220.jpg)
-Postwoman is celebrating the milestone of reaching 10,000 GitHub stars 🎉
-
-### [86. How to Improve Developer Productivity](https://hackernoon.com/how-to-improve-developer-productivity)
+### [85. How to Improve Developer Productivity](https://hackernoon.com/how-to-improve-developer-productivity)
 ![](https://cdn.hackernoon.com/images/DbgZsSQ7Gce2sUVuH9fj1uKyfyG2-nj02dy5.jpeg)
 Become more productive as a developer in the next 10 minutes using researched backed tips and hacks.
 
-### [87. How To Choose A Time Tracking Solution For Your Business: A Step By Step Guide](https://hackernoon.com/how-to-choose-a-time-tracking-solution-for-your-business-a-step-by-step-guide-5a29340t)
+### [86. Celebrating 10,000+ stars on GitHub repository⭐ ❤️️](https://hackernoon.com/celebrating-10000-stars-on-github-together-cxx3235)
+![](https://cdn.hackernoon.com/images/ww1i3220.jpg)
+Postwoman is celebrating the milestone of reaching 10,000 GitHub stars 🎉
+
+### [87. The Five Things I Did When I Landed a Role as a DevRel](https://hackernoon.com/the-five-things-i-did-when-i-landed-a-role-as-a-devrel)
+![](https://cdn.hackernoon.com/images/h9zh5laZcuVhjnaK4lBLPxYH14f2-fl93tv1.png)
+From hackathon finalist to full-time DevRel at a leading RPC provider. These are the five strategies I used to excel in my first Developer Relations role.
+
+### [88. How To Choose A Time Tracking Solution For Your Business: A Step By Step Guide](https://hackernoon.com/how-to-choose-a-time-tracking-solution-for-your-business-a-step-by-step-guide-5a29340t)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQPTbivd4nuMPc0Jjp0czjp6KrJz2-0val3wfi.jpeg?alt=media&token=e3472b7b-7b24-4333-aaea-22feb0acc2b0)
 As the impact of the COVID 19 epidemic on the global economy and societies starts to feel like less of a momentary blip on the radar and more of the new normal that we are all going to have to adjust to and get used to, people are getting used to the idea of working from home or remotely in some capacity. One of the technologies that have enabled this to happen and thus proven indispensable to the pandemic economy is time tracking solution.
-
-### [88. apibeats: Get Notified on Slack When The API Changes](https://hackernoon.com/apibeats-get-notified-on-slack-when-the-api-changes-0yr3eo8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fdw6f3IzK9kY8EvuzbqVAMhPAQvj1-a63r28kw.jpeg?alt=media&token=79f7e2b9-7ed0-48fe-984a-72a93e700200)
-apibeats is an API maintenance platform that lets backend and frontend developers collaborate, and notifies teams on Slack & Email when the API changes in any way. apibeats provides a complete environment for you to interact with your APIs. It lets you create collections of endpoints and watch them for uptime/downtime and changes in structure, test your collections by making requests without writing any code and document your API collections. 
 
 ### [89. How I Built a Multi-Scale CGPA Calculator](https://hackernoon.com/how-i-built-a-multi-scale-cgpa-calculator)
 ![](https://cdn.hackernoon.com/images/ZYdlMho2joXtqw0834ae5Xv2SXm1-di03a3s.jpeg)
 As a developer with a background in education technology, I noticed students struggling with a common problem: calculating and understanding their Cumulative...
 
-### [90. The Fintech CTO's Guide To Remote Team Tools and Reviews](https://hackernoon.com/the-fintech-ctos-guide-to-remote-team-tools-and-reviews-zva13yqb)
-![](https://cdn.hackernoon.com/images/fi1243y0x.jpg)
-Remote culture has never been so in demand before. The pandemic has changed the way we thought the world was likely to evolve in the nearest future. However, changes always go hand in hand with opportunities.
+### [90. apibeats: Get Notified on Slack When The API Changes](https://hackernoon.com/apibeats-get-notified-on-slack-when-the-api-changes-0yr3eo8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fdw6f3IzK9kY8EvuzbqVAMhPAQvj1-a63r28kw.jpeg?alt=media&token=79f7e2b9-7ed0-48fe-984a-72a93e700200)
+apibeats is an API maintenance platform that lets backend and frontend developers collaborate, and notifies teams on Slack & Email when the API changes in any way. apibeats provides a complete environment for you to interact with your APIs. It lets you create collections of endpoints and watch them for uptime/downtime and changes in structure, test your collections by making requests without writing any code and document your API collections. 
 
 ### [91. How Task Management Software Helps Achieve Productivity in a Post-Pandemic World](https://hackernoon.com/how-task-management-software-helps-achieve-productivity-in-a-post-pandemic-world-ye373u24)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnyVviPG3PrQsCwxDXWMzFSDFpQu1-mp2e3esk.jpeg?alt=media&token=cb267023-2a89-41a2-a694-6015ece87971)
 Before the pandemic, roughly 30% of the part-time workforce was working remotely. It is estimated this will expand to at least 48% post-pandemic. Until the pandemic is over, it’s unclear exactly how much of the full-time workforce that can work remotely will continue to do so.
 
-### [92. MakeMySummary Software Update:  June 2020](https://hackernoon.com/makemysummary-software-update-june-2020-xz113ues)
+### [92. The Fintech CTO's Guide To Remote Team Tools and Reviews](https://hackernoon.com/the-fintech-ctos-guide-to-remote-team-tools-and-reviews-zva13yqb)
+![](https://cdn.hackernoon.com/images/fi1243y0x.jpg)
+Remote culture has never been so in demand before. The pandemic has changed the way we thought the world was likely to evolve in the nearest future. However, changes always go hand in hand with opportunities.
+
+### [93. MakeMySummary Software Update:  June 2020](https://hackernoon.com/makemysummary-software-update-june-2020-xz113ues)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-e0h3umh.gif?alt=media&token=d87b00eb-b566-47f3-848b-6c0267ed04b7)
 We recently released an update for MakeMySummary. The following are the highlights of the update.
 
-### [93. Without Digital Adoption, Your Enterprise will Struggle](https://hackernoon.com/without-digital-adoption-your-enterprise-will-struggle-f01e32v2)
+### [94. Without Digital Adoption, Your Enterprise will Struggle](https://hackernoon.com/without-digital-adoption-your-enterprise-will-struggle-f01e32v2)
 ![](https://cdn.hackernoon.com/images/czed322h.jpg)
 It’s clear to everyone that we’re living in a digital age. In a time when people expect to run their lives through their smartphones, competitive enterprises have no choice but to adopt digital tools.
 
-### [94. Productivity Tools I Use Across Design, Dev, and Marketing](https://hackernoon.com/productivity-tools-i-use-across-design-dev-and-marketing)
+### [95. Productivity Tools I Use Across Design, Dev, and Marketing](https://hackernoon.com/productivity-tools-i-use-across-design-dev-and-marketing)
 ![](https://cdn.hackernoon.com/images/ojfKspBSu8U4BKrMDrT7ahQLUav2-jo034zv.jpeg)
 A curated list of lesser known productivity tools that actually work. Covers testing, deployment, design, writing, and marketing automation.
 
-### [95. Invoicing Tech Can Boost Brand Appeal](https://hackernoon.com/invoicing-tech-can-boost-brand-appeal-797232r9)
+### [96. Invoicing Tech Can Boost Brand Appeal](https://hackernoon.com/invoicing-tech-can-boost-brand-appeal-797232r9)
 ![](https://cdn.hackernoon.com/drafts/sd20c3y12.png)
 Your brand is the essence of your company. It’s what your customers perceive you to be, and it’s how you portray your business to the world. 
 

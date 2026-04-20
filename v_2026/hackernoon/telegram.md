@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [telegram](https://hackernoon.com/tagged/telegram)
+### Let's learn about [Telegram](https://hackernoon.com/tagged/telegram) via these 96 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Telegram is a cloud-based mobile and desktop messaging app known for its focus on speed, security, and extensive group communication features, providing encrypted communication and channel broadcasting capabilities. It matters as a privacy-focused communication tool and a platform for large-scale information dissemination.
+
 ### [1. How to Create and Deploy a Telegram Bot?](https://hackernoon.com/how-to-create-and-deploy-a-telegram-bot-2addd8aec6b4)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-xc03bsu.png)
 <strong><em>(you may skip it if you already know what to do with your bot)</em></strong>
@@ -49,13 +53,13 @@ Telegram is not the gold-standard for secure messaging that it paints itself to 
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-2y9302w.jpeg)
 Building telegram bot using Rust.
 
-### [13. How You Can Control Your Smart Home Through a Telegram Bot](https://hackernoon.com/controlling-your-smart-home-over-a-telegram-bot-3z742xc5)
-![](https://cdn.hackernoon.com/drafts/rk17t2xbw.png)
-You’ve got your smart home fully set up. You regularly like to show off with your friends how cool it is to turn on light bulbs, play videos and movies with a hint to your voice assistant, make coffee and adjust the thermostat with a tap on an app. Congratulations! 
-
-### [14. What's wrong with stickers in Telegram? Deanonymize anonymous channels in two clicks](https://hackernoon.com/whats-wrong-with-stickers-in-telegram-deanonymize-anonymous-channels-in-two-clicks)
+### [13. What's wrong with stickers in Telegram? Deanonymize anonymous channels in two clicks](https://hackernoon.com/whats-wrong-with-stickers-in-telegram-deanonymize-anonymous-channels-in-two-clicks)
 ![](https://cdn.hackernoon.com/images/TYJUMtiClUZJ10sVuaeuHOy548K2-2k2b3zj3.jpeg)
 Did you know that Telegram stickers can give you away? In this article, I will teach you how to deanonymize anonymous channel authors using a module for Maltego
+
+### [14. How You Can Control Your Smart Home Through a Telegram Bot](https://hackernoon.com/controlling-your-smart-home-over-a-telegram-bot-3z742xc5)
+![](https://cdn.hackernoon.com/drafts/rk17t2xbw.png)
+You’ve got your smart home fully set up. You regularly like to show off with your friends how cool it is to turn on light bulbs, play videos and movies with a hint to your voice assistant, make coffee and adjust the thermostat with a tap on an app. Congratulations! 
 
 ### [15. How to Create a Telegram Bot Using Ruby](https://hackernoon.com/how-to-create-a-telegram-bot-using-ruby-n7ag32c1)
 ![](https://cdn.hackernoon.com/drafts/0u5i3ylj.png)
@@ -85,13 +89,13 @@ In this article, I want to explain how the Hamster Kombat game business works—
 ![](https://cdn.hackernoon.com/images/p4L57crmEaTy3DvDgkp2hgwJqci1-t3a2gqk.jpeg)
 Last week my friend asked for help with coding a Telegram bot for the VIP 😏 customers of his herbs shop.
 
-### [22. We Tried Hacking Telegram's Cryptocurrency TON For 3 Straight Weeks [Part I]](https://hackernoon.com/while-ton-is-under-sec-attack-we-were-hacking-for-3-weeks-on-tons-contest-part-1-ll2830ff)
-![](https://cdn.hackernoon.com/images/tan5307p.jpg)
-Summary of https://contest.com/blockchain from BUTTON Wallet Team
-
-### [23. 10 Methods to Build Your Telegram Crypto Community](https://hackernoon.com/10-methods-to-build-your-telegram-crypto-community)
+### [22. 10 Methods to Build Your Telegram Crypto Community](https://hackernoon.com/10-methods-to-build-your-telegram-crypto-community)
 ![](https://cdn.hackernoon.com/images/JmKbQ7mMRAZeu3id1Rc2V6W9Eqf2-x4a3l0y.jpeg)
 Grow your Telegram crypto community with 10 effective methods, from feedback to marketing strategies.
+
+### [23. We Tried Hacking Telegram's Cryptocurrency TON For 3 Straight Weeks [Part I]](https://hackernoon.com/while-ton-is-under-sec-attack-we-were-hacking-for-3-weeks-on-tons-contest-part-1-ll2830ff)
+![](https://cdn.hackernoon.com/images/tan5307p.jpg)
+Summary of https://contest.com/blockchain from BUTTON Wallet Team
 
 ### [24. Creating Telegram Bots with n8n, a No-Code Platform](https://hackernoon.com/creating-telegram-bots-with-n8n-a-no-code-platform-f22y32xr)
 ![](https://cdn.hackernoon.com/images/k0i2ez8.jpg)
@@ -129,25 +133,25 @@ Grindery co-founder Tim Delhaes discusses how account abstraction and integratio
 ![](https://cdn.hackernoon.com/images/2v7XLvX2fMR4EErEB0cRTAONxFX2-gl93zz9.jpeg)
 In part 2 of 3, we explore simple altering for Telegram bots when the system starts to fail.
 
-### [33. Crypto Telegram Detox: The Only 7 Telegram Channels You Need in 2023](https://hackernoon.com/crypto-telegram-detox-the-only-7-telegram-channels-you-need-in-2023)
-![](https://cdn.hackernoon.com/images/IpmZFqsKp6Y2MQOjJpfg55Kf9La2-occ3rn8.jpeg)
-Get rid of useless telegram channels that shill crypto scams and ads. Here you'll find the list of 7 best telegram channels for crypto and web3.
+### [33. What Happens When Telegram's 1 Billion Users Get Access to Ethical AI? AlphaTON Has a Plan](https://hackernoon.com/what-happens-when-telegrams-1-billion-users-get-access-to-ethical-ai-alphaton-has-a-plan)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-0i03b9s.png)
+AlphaTON partners with SingularityNET to deploy hydroelectric-powered GPUs for Telegram's Cocoon AI network in Sweden.
 
 ### [34. How to Develop a React Native Library for Telegram’s TDLib: Part 1](https://hackernoon.com/how-to-develop-a-react-native-library-for-telegrams-tdlib-part-1)
 ![](https://cdn.hackernoon.com/images/raD3IjEsJBWIqwoxcjk2om7YGHm1-vd73ed5.png)
 Getting started with Telegram TDLib in React Native: Exploring authorization, user profile retrieval, and the first steps into native code.
 
-### [35. What Happens When Telegram's 1 Billion Users Get Access to Ethical AI? AlphaTON Has a Plan](https://hackernoon.com/what-happens-when-telegrams-1-billion-users-get-access-to-ethical-ai-alphaton-has-a-plan)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-0i03b9s.png)
-AlphaTON partners with SingularityNET to deploy hydroelectric-powered GPUs for Telegram's Cocoon AI network in Sweden.
+### [35. Crypto Telegram Detox: The Only 7 Telegram Channels You Need in 2023](https://hackernoon.com/crypto-telegram-detox-the-only-7-telegram-channels-you-need-in-2023)
+![](https://cdn.hackernoon.com/images/IpmZFqsKp6Y2MQOjJpfg55Kf9La2-occ3rn8.jpeg)
+Get rid of useless telegram channels that shill crypto scams and ads. Here you'll find the list of 7 best telegram channels for crypto and web3.
 
-### [36. Telegram Bots Have Helped Pave The Way for dApps](https://hackernoon.com/telegram-bots-have-helped-pave-the-way-for-dapps-ru3y3xv8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrrklQPNbspZjuipgqdjB7er0G6e2-27c28g4.jpeg?alt=media&token=3d59e4dc-befb-44d1-ac05-8d2937e40025)
-2020 is shaping up to be the year of dApps! New communities are forming around cryptocurrency and they are asking for just one thing: decentralization. All the services and platforms you are accessing online right now can be decentralized in one way or another. 
-
-### [37. The Benefits of Utilizing Telegram for your Business](https://hackernoon.com/the-benefits-of-utilizing-telegram-for-your-business)
+### [36. The Benefits of Utilizing Telegram for your Business](https://hackernoon.com/the-benefits-of-utilizing-telegram-for-your-business)
 ![](https://cdn.hackernoon.com/images/xVO4i7dLjPc57CoRnIzMsN92Zs62-3f93hgy.jpeg)
 Telegram Marketing is a method of attracting and retaining new consumers through the creation of Telegram communities
+
+### [37. Telegram Bots Have Helped Pave The Way for dApps](https://hackernoon.com/telegram-bots-have-helped-pave-the-way-for-dapps-ru3y3xv8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrrklQPNbspZjuipgqdjB7er0G6e2-27c28g4.jpeg?alt=media&token=3d59e4dc-befb-44d1-ac05-8d2937e40025)
+2020 is shaping up to be the year of dApps! New communities are forming around cryptocurrency and they are asking for just one thing: decentralization. All the services and platforms you are accessing online right now can be decentralized in one way or another. 
 
 ### [38. Telegram VS WhatsApp VS Utopia](https://hackernoon.com/telegram-vs-whatsapp-vs-utopia-jy4k32r6)
 ![](https://cdn.hackernoon.com/images/syi3ybd.jpg)
@@ -173,47 +177,47 @@ Telegram Premium was released in June this year. It brings added customization f
 ![](https://cdn.hackernoon.com/images/fkiAHofl2lTojgydkvXas5u0Hep1-9w03sc2.png)
 Telegram Mini Apps for business are a cross-platform alternative to apps and websites, boosting user acquisition while minimizing deployment lag.
 
-### [44. Dating in the Metaverse? Seal it With an NFT](https://hackernoon.com/dating-in-the-metaverse-seal-it-with-an-nft)
+### [44. I asked the Portal One+ Telegram AI assistant to review itself. Here's how it went](https://hackernoon.com/i-asked-the-portal-one-telegram-ai-assistant-to-review-itself-heres-how-it-went)
+![](https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-ku83f3l.png)
+The Portal One+ Telegram bot assistant, built on the OpenClaw runtime, aims to be fundamentally different to other AI assistants within Telegram
+
+### [45. Dating in the Metaverse? Seal it With an NFT](https://hackernoon.com/dating-in-the-metaverse-seal-it-with-an-nft)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-3t03nsv.jpeg)
 71% of Millennials and 79% of Generation Z in the U.S. admit to feeling lonely. 60% of Tinder users say the same. NFT vows, social connections in the metaverse,
 
-### [45. Is Telegram Digging Its Own Grave?](https://hackernoon.com/is-telegram-digging-its-own-grave)
+### [46. Is Telegram Digging Its Own Grave?](https://hackernoon.com/is-telegram-digging-its-own-grave)
 ![](https://cdn.hackernoon.com/images/JUu4vk3zNOflyr7cdgayohEPkoz2-mxa2fx3.jpeg)
 Pavel Durov, the founder of Telegram, wants to introduce Web 3.0 technologies into the instant messaging app in a contested move.
 
-### [46. Catchain Consensus Algorithm of Telegram's TON Blockchain [A Deep Dive]](https://hackernoon.com/catchain-consensus-algorithm-of-telegrams-ton-blockchain-a-deep-dive-58e232ro)
+### [47. Catchain Consensus Algorithm of Telegram's TON Blockchain [A Deep Dive]](https://hackernoon.com/catchain-consensus-algorithm-of-telegrams-ton-blockchain-a-deep-dive-58e232ro)
 ![](https://cdn.hackernoon.com/images/ccx3yxk.jpg)
 In our previous review, we made a detailed overview of Telegram Open Network and the specific features in the operation of key nodes (validators) of TON Blockchain. In this article, we will elaborate on one of the key aspects affecting the security and correct operation of the TON blockchain – a protocol allowing to achieve consensus between the network validators that are thoroughly described in the recently released document Catchain Consensus: An Outline authored by Nikolay Durov.
 
-### [47. [Analysis] News Distribution of Telegram's GRAM Token Sale on Liquid Cryptocurrency Exchange](https://hackernoon.com/the-way-of-news-gram-token-sale-on-liquid-exchange-h9b33wx0)
+### [48. [Analysis] News Distribution of Telegram's GRAM Token Sale on Liquid Cryptocurrency Exchange](https://hackernoon.com/the-way-of-news-gram-token-sale-on-liquid-exchange-h9b33wx0)
 ![](https://cdn.hackernoon.com/images/0046g3zuy.jpg)
 On June 11, Techcrunch.com and the Liquid cryptocurrency exchange website published news that the sale of the alleged Telegram tokens will start on July 10. The newsworthy event has caught buzz within the cryptocurrency community, and based on it we have decided to explore the channels and the news flash sequence, namely which sites are most effective and what tools can be used to make the newsworthy event even more noticeable.
 
-### [48. Fast Prototyping With Azure Functions and TDD](https://hackernoon.com/fast-prototyping-with-azure-functions-and-tdd-m7xb32c2)
+### [49. Fast Prototyping With Azure Functions and TDD](https://hackernoon.com/fast-prototyping-with-azure-functions-and-tdd-m7xb32c2)
 ![](https://cdn.hackernoon.com/images/loic32g3.jpg)
 I Had an Idea
 
-### [49. How I Built a Simple Forex App with Telegram Bots and AWS Lambda](https://hackernoon.com/how-i-built-a-simple-forex-app-with-telegram-bots-and-aws-lambda)
+### [50. How I Built a Simple Forex App with Telegram Bots and AWS Lambda](https://hackernoon.com/how-i-built-a-simple-forex-app-with-telegram-bots-and-aws-lambda)
 ![](https://cdn.hackernoon.com/images/cO4vHBEMNYgIhZDaoJGjpM2rRMK2-2la2f0v.jpeg)
 As a freelancer working for different countries, I needed to optimize my currency exchange. So, I built a simple forex app with AWS Lamda and Telegram bots.
-
-### [50. I asked the Portal One+ Telegram AI assistant to review itself. Here's how it went](https://hackernoon.com/i-asked-the-portal-one-telegram-ai-assistant-to-review-itself-heres-how-it-went)
-![](https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-ku83f3l.png)
-The Portal One+ Telegram bot assistant, built on the OpenClaw runtime, aims to be fundamentally different to other AI assistants within Telegram
 
 ### [51. How to Create a Telegram Bot for Monitoring Your Service Uptime in Python (Part 3: Getting Graphs)](https://hackernoon.com/how-to-create-a-telegram-bot-for-monitoring-your-service-uptime-in-python-part-3-getting-graphs)
 ![](https://cdn.hackernoon.com/images/2v7XLvX2fMR4EErEB0cRTAONxFX2-lk93z42.jpeg)
 After a couple of days of using the service described in previous articles, I felt the need to also get graphs directly in Telegram.
 
-### [52. Telegram Games Have Boring Marketing Strategies ](https://hackernoon.com/telegram-games-have-boring-marketing-strategies)
-![](https://cdn.hackernoon.com/images/XfkAcRQSKZeCWfyOwsqkFfN3Gxf2-u7c240t.webp)
-Why Telegram games need to do better with marketing. 
-
-### [53. Increasing Your Productivity With Telegram and Node.js](https://hackernoon.com/increasing-your-productivity-with-telegram-and-nodejs-rn6c3yfl)
+### [52. Increasing Your Productivity With Telegram and Node.js](https://hackernoon.com/increasing-your-productivity-with-telegram-and-nodejs-rn6c3yfl)
 ![](https://cdn.hackernoon.com/drafts/hmt3yuw.png)
 Some time ago I searched for an easy way to establish a communication channel between a mobile device and a Node.js webserver. My goal was to exchange messages over this channel and receive information about the weather, public transportation and more.
 
 For example I send the message /train and receive a response with realtime details about train departure times of preconfigured routes. So the Node.js server receives the incoming message, processes it and sends a response back to the client.
+
+### [53. Telegram Games Have Boring Marketing Strategies ](https://hackernoon.com/telegram-games-have-boring-marketing-strategies)
+![](https://cdn.hackernoon.com/images/XfkAcRQSKZeCWfyOwsqkFfN3Gxf2-u7c240t.webp)
+Why Telegram games need to do better with marketing. 
 
 ### [54. From Zero to 45k Users: How We Created a Chatbot To Track Airfares](https://hackernoon.com/zero-to-45k-users-how-we-created-a-chatbot-to-track-airfares-4e1b3uag)
 ![](https://cdn.hackernoon.com/drafts/vbwf3uww.png)
@@ -251,29 +255,29 @@ GRAM - a new token on the TON blockchain, was launched on January 30th. Since it
 ![](https://cdn.hackernoon.com/images/XfkAcRQSKZeCWfyOwsqkFfN3Gxf2-rq131fj.jpeg)
 Telegram games are fast becoming scams. Personal experience with a Telegram game's founder.
 
-### [63. I bet Pavel Durov wishes Telegram was like Bitcoin](https://hackernoon.com/i-bet-pavel-durov-wishes-telegram-was-like-bitcoin)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-xz02qxv.jpeg)
-Bitcoin is not a social media site and cannot be one. Social media is full of noise and hype.
-
-### [64. Monetag Unveils New Monetization Option for Telegram Mini Apps via Rewarded Interstitial Ads](https://hackernoon.com/monetag-unveils-new-monetization-option-for-telegram-mini-apps-via-rewarded-interstitial-ads)
+### [63. Monetag Unveils New Monetization Option for Telegram Mini Apps via Rewarded Interstitial Ads](https://hackernoon.com/monetag-unveils-new-monetization-option-for-telegram-mini-apps-via-rewarded-interstitial-ads)
 ![](https://cdn.hackernoon.com/images/iRbOHPwIo2hED0rACW3cailrVtl2-lj035ia.jpeg)
 Monetag, a monetization platform, announces a new traffic monetization opportunity for Telegram Mini Apps owners - monetizing their app audience.
 
-### [65. TON Community Launches Free Version of Telegram Open Blockchain](https://hackernoon.com/ton-community-launches-free-version-of-telegram-open-blockchain-br6c323q)
-![](https://images.unsplash.com/photo-1521931961826-fe48677230a5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Free TON Blockchain and tokens are launching today by the decentralized community, which claims that Telegram needs to step away from the project.
+### [64. I bet Pavel Durov wishes Telegram was like Bitcoin](https://hackernoon.com/i-bet-pavel-durov-wishes-telegram-was-like-bitcoin)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-xz02qxv.jpeg)
+Bitcoin is not a social media site and cannot be one. Social media is full of noise and hype.
 
-### [66. How I Created My Own Telegram Bot - Pt. 2 Explanation and Markups](https://hackernoon.com/how-i-created-my-own-telegram-bot-pt-2-explanation-and-markups)
-![](https://cdn.hackernoon.com/images/C6BDdo0xaFcPBRk1mqlMRJFj4Ug2-3w839b7.png)
-Explore how I built a language-learning Telegram bot with NestJS, a powerful Node.js framework. Follow along as I detail the development process and share insig
-
-### [67. The Lockstep Toward Banning Encryption: On Durov, Telegram, and Potential Implications](https://hackernoon.com/the-lockstep-toward-banning-encryption-on-durov-telegram-and-potential-implications)
+### [65. The Lockstep Toward Banning Encryption: On Durov, Telegram, and Potential Implications](https://hackernoon.com/the-lockstep-toward-banning-encryption-on-durov-telegram-and-potential-implications)
 ![](https://cdn.hackernoon.com/images/g8d3oHAdHpNfqbOkOEDOqYqvVrz2-mi02vne.webp)
 Encryption is a human right - the right to privacy and to personal expression.
 
-### [68. Building a Telegram Bot to Monitor BNB Chain Wallet Activity with GetBlock](https://hackernoon.com/building-a-telegram-bot-to-monitor-bnb-chain-wallet-activity-with-getblock)
+### [66. TON Community Launches Free Version of Telegram Open Blockchain](https://hackernoon.com/ton-community-launches-free-version-of-telegram-open-blockchain-br6c323q)
+![](https://images.unsplash.com/photo-1521931961826-fe48677230a5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Free TON Blockchain and tokens are launching today by the decentralized community, which claims that Telegram needs to step away from the project.
+
+### [67. Building a Telegram Bot to Monitor BNB Chain Wallet Activity with GetBlock](https://hackernoon.com/building-a-telegram-bot-to-monitor-bnb-chain-wallet-activity-with-getblock)
 ![](https://cdn.hackernoon.com/images/0x9c738cc901a8dc641be1aff1f88c60ecc2757fdf-64233ec.png)
 Learn to build a Node.js Telegram bot with Telegraf that tracks BNB Chain wallet activity in real-time using WebSockets like GetBlock.
+
+### [68. How I Created My Own Telegram Bot - Pt. 2 Explanation and Markups](https://hackernoon.com/how-i-created-my-own-telegram-bot-pt-2-explanation-and-markups)
+![](https://cdn.hackernoon.com/images/C6BDdo0xaFcPBRk1mqlMRJFj4Ug2-3w839b7.png)
+Explore how I built a language-learning Telegram bot with NestJS, a powerful Node.js framework. Follow along as I detail the development process and share insig
 
 ### [69. Using an API to Return a Daily Poem in Telegram to Celebrate World Poetry Day](https://hackernoon.com/using-an-api-to-return-a-daily-poem-in-telegram-to-celebrate-world-poetry-day-vz3r35pj)
 ![](https://cdn.hackernoon.com/images/zhuoO29JlJebgaxanq2fbxKNuEu1-ra9233d.jpeg)
@@ -291,13 +295,13 @@ This article demonstrates how to create a simple chatbot in Telegram and configu
 ![](https://cdn.hackernoon.com/images/sBGdF0DbxXNwhS0pFRPmgiVVOt32-kd033o3.jpeg)
 Why Pavel Durov was arrested in France? A description of legal conflict between Telegram and EU authorities.
 
-### [73. 52 Stories To Learn About Telegram](https://hackernoon.com/52-stories-to-learn-about-telegram)
-![](https://cdn.hackernoon.com/images/github/telegram-577.png)
-Learn everything you need to know about Telegram via these 52 free HackerNoon stories.
-
-### [74. How I Created My Own Telegram Bot - Pt. 3 Final ](https://hackernoon.com/how-i-created-my-own-telegram-bot-pt-3-final)
+### [73. How I Created My Own Telegram Bot - Pt. 3 Final ](https://hackernoon.com/how-i-created-my-own-telegram-bot-pt-3-final)
 ![](https://cdn.hackernoon.com/images/C6BDdo0xaFcPBRk1mqlMRJFj4Ug2-j8839ig.png)
 Discover the revolutionary features of my new Telegram bot in this exclusive HackerNoon article. Learn how our app integrates cutting-edge technology 
+
+### [74. 52 Stories To Learn About Telegram](https://hackernoon.com/52-stories-to-learn-about-telegram)
+![](https://cdn.hackernoon.com/images/github/telegram-577.png)
+Learn everything you need to know about Telegram via these 52 free HackerNoon stories.
 
 ### [75. Alternatives to WhatsApp: Five Messaging Apps to Consider Instead of WhatsApp](https://hackernoon.com/alternatives-to-whatsapp-five-messaging-apps-to-consider-instead-of-whatsapp)
 ![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-xs4330k.jpeg)
@@ -315,29 +319,29 @@ Two months ago a bill that would allow the extradition of Hong Kong’s criminal
 ![](https://cdn.hackernoon.com/images/x36d3619.jpg)
 Note: these directions come without much conversation, let the hacking begin!
 
-### [79. Telegram's TON is Dead: Alternatives, Feasibility, And What Lies Ahead](https://hackernoon.com/telegrams-ton-is-dead-alternatives-feasibility-and-what-lies-ahead-tj3s32rt)
+### [79. Democratizing Cryptocurrency With Chat-Based Wallets](https://hackernoon.com/democratizing-cryptocurrency-with-chat-based-wallets)
+![](https://cdn.hackernoon.com/images/YRKuB1GmYbXk8zbMBLJHYnL2nXk1-wa027gg.png)
+Chat-based cryptocurrency wallets integrate with p2p chat and online community apps and platforms to simplify crypto transactions.
+
+### [80. EVM dApps Now Just One Tap Away in Telegram via TAC](https://hackernoon.com/evm-dapps-now-just-one-tap-away-in-telegram-via-tac)
+![](https://cdn.hackernoon.com/images/kP4Q7O2NJuQqrhDqxIov8XA3zWS2-q813dct.jpeg)
+Positioned as a purpose-built Layer 1 blockchain instead of a Layer 2, TAC promises Telegram’s billion-strong user base one-tap access to Ethereum-grade DeFi.
+
+### [81. Telegram's TON is Dead: Alternatives, Feasibility, And What Lies Ahead](https://hackernoon.com/telegrams-ton-is-dead-alternatives-feasibility-and-what-lies-ahead-tj3s32rt)
 ![](https://cdn.hackernoon.com/images/hLH3QfZNSPbjO2D2yqwhTDR5ECs2-s42z31mg.jpeg)
 TON alternatives and why Telegram Open Network failed as a project. What can we expect from other projects
 
-### [80. TON Foundation Enlists The Support Of Elliptic To Provide Ecosystem Analysis And Security](https://hackernoon.com/ton-foundation-enlists-the-support-of-elliptic-to-provide-ecosystem-analysis-and-security)
+### [82. TON Foundation Enlists The Support Of Elliptic To Provide Ecosystem Analysis And Security](https://hackernoon.com/ton-foundation-enlists-the-support-of-elliptic-to-provide-ecosystem-analysis-and-security)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-4n93ytv.jpeg)
 Elliptic joins forces with TON Foundation, fortifying the Telegram-based Web3 ecosystem against illicit activities, fostering crypto security.
-
-### [81. The New Era of In-Messenger Games: How Asia’s Innovations and Web3 Technology are Shaping the Future](https://hackernoon.com/the-new-era-of-in-messenger-games-how-asias-innovations-and-web3-technology-are-shaping-the-future)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-e20301d.jpeg)
-WeChat and Kakao have merged gaming with messaging, while Telegram is shaping the GameFi future. Learn about a new era of in-messenger gaming.
-
-### [82. Democratizing Cryptocurrency With Chat-Based Wallets](https://hackernoon.com/democratizing-cryptocurrency-with-chat-based-wallets)
-![](https://cdn.hackernoon.com/images/YRKuB1GmYbXk8zbMBLJHYnL2nXk1-wa027gg.png)
-Chat-based cryptocurrency wallets integrate with p2p chat and online community apps and platforms to simplify crypto transactions.
 
 ### [83. Will Consumer Adoption of Web3 Ever Take Off?](https://hackernoon.com/will-consumer-adoption-of-web3-ever-take-off)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2b02qe2.jpeg)
 Consumer adoption in web3 and how chains are positioning themselves for mass adoption.
 
-### [84. EVM dApps Now Just One Tap Away in Telegram via TAC](https://hackernoon.com/evm-dapps-now-just-one-tap-away-in-telegram-via-tac)
-![](https://cdn.hackernoon.com/images/kP4Q7O2NJuQqrhDqxIov8XA3zWS2-q813dct.jpeg)
-Positioned as a purpose-built Layer 1 blockchain instead of a Layer 2, TAC promises Telegram’s billion-strong user base one-tap access to Ethereum-grade DeFi.
+### [84. The New Era of In-Messenger Games: How Asia’s Innovations and Web3 Technology are Shaping the Future](https://hackernoon.com/the-new-era-of-in-messenger-games-how-asias-innovations-and-web3-technology-are-shaping-the-future)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-e20301d.jpeg)
+WeChat and Kakao have merged gaming with messaging, while Telegram is shaping the GameFi future. Learn about a new era of in-messenger gaming.
 
 ### [85. Wallet in Telegram Launches Cross Chain Deposits in Self Custodial TON Wallet](https://hackernoon.com/wallet-in-telegram-launches-cross-chain-deposits-in-self-custodial-ton-wallet)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-jk93ht1.jpeg)
@@ -356,14 +360,14 @@ Interview with Oleksandr Savieliev, CEO and Founder of TripleA, a Telegram mini-
 ![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-li037d6.jpeg)
 The Company has entered into a definitive agreement for the purchase of an aggregate of 15,000,000 of its ordinary shares (or pre-funded warrants in lieu thereo
 
-### [89. Link-To-Earn Incentive Model: A Blueprint For Mass Adoption? ](https://hackernoon.com/link-to-earn-incentive-model-a-blueprint-for-mass-adoption)
-![](https://cdn.hackernoon.com/images/XEwEsoKKiSM0pGjq4dyeehqOfjj2-h09208t.jpeg)
-Notcoin and UXLINK are the two breakout projects built on the social messaging app Telegram.
-
-### [90. Telegram and The Collaborative Community](https://hackernoon.com/telegram-and-the-collaborative-community)
+### [89. Telegram and The Collaborative Community](https://hackernoon.com/telegram-and-the-collaborative-community)
 ![](https://cdn.hackernoon.com/images/KJDMr08XFDY3F7ZfOObc0Lj04k93-fo2192v.jpeg)
 Telegram strives to maintain an active and healthy community of volunteers. However, the big question is, why create these spaces for participation? 
 
+
+### [90. Link-To-Earn Incentive Model: A Blueprint For Mass Adoption? ](https://hackernoon.com/link-to-earn-incentive-model-a-blueprint-for-mass-adoption)
+![](https://cdn.hackernoon.com/images/XEwEsoKKiSM0pGjq4dyeehqOfjj2-h09208t.jpeg)
+Notcoin and UXLINK are the two breakout projects built on the social messaging app Telegram.
 
 ### [91. A Recap of WePlay's AMA on CryptoSquad Community](https://hackernoon.com/a-recap-of-weplays-ama-on-cryptosquad-community)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-2o930f7.jpeg)

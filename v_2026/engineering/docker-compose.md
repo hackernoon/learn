@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [docker-compose](https://hackernoon.com/tagged/docker-compose)
+### Let's learn about [Docker Compose](https://hackernoon.com/tagged/docker-compose) via these 62 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Docker Compose is a tool for defining and running multi-container Docker applications, simplifying the orchestration and deployment of complex, interconnected services with a single configuration file. It matters by streamlining development workflows for containerized applications, making it easier to manage and deploy distributed systems.
+
 ### [1. How To Debug PHP Container With Xdebug And PhpStorm](https://hackernoon.com/how-to-debug-php-container-with-xdebug-and-phpstorm-1b2k3yjo)
 ![](https://cdn.hackernoon.com/drafts/th4t3y9u.png)
 I will setup a very simple php page and debug it using xdebug and PhpStorm.
@@ -113,61 +117,61 @@ In this article, we've explored the world of microservices and native applicatio
 ![](https://cdn.hackernoon.com/drafts/k6gf326m.png)
 Many of us using Docker to make our lives easier have ran into the issue of conflicting ports due to running more than 1 docker container. It’s easy to get bogged down into changing config files and squander an entire afternoon. I intend to write this article as a reminder to my future self whenever I need to set up multiple instances of docker container on a single machine.
 
-### [29. Deploy Docker Using Ansible](https://hackernoon.com/deploy-docker-using-ansible)
-![](https://cdn.hackernoon.com/images/9DGvEbbd20S6wIuDCTcX9gr5quL2-qc03tgd.jpeg)
-
-
-### [30. Solving the FastAPI, Alembic, Docker Problem](https://hackernoon.com/solving-the-fastapi-alembic-docker-problem)
+### [29. Solving the FastAPI, Alembic, Docker Problem](https://hackernoon.com/solving-the-fastapi-alembic-docker-problem)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2y023yi.jpeg)
 Dockerize your FastAPI application that incorporates alembic and sqlachemy. 
 
-### [31. Full Production Django Docker Configuration](https://hackernoon.com/full-production-django-docker-configuration-5r4o3wxq)
-![](https://cdn.hackernoon.com/drafts/g3jg2b94.png)
-The current software development ecosystem moves fast and it seems older frameworks like Django or Rails becoming absolute, but it is a huge underestimation! Django is one of the unique frameworks that I like to use - first of all because it contains everything in it, with just a few simple configurations.
+### [30. Deploy Docker Using Ansible](https://hackernoon.com/deploy-docker-using-ansible)
+![](https://cdn.hackernoon.com/images/9DGvEbbd20S6wIuDCTcX9gr5quL2-qc03tgd.jpeg)
 
-### [32. How to Use Materialize and Redpanda to Analyze Raspberry Pi Temperature Data](https://hackernoon.com/how-to-use-materialize-and-redpanda-to-analyze-raspberry-pi-temperature-data)
-![](https://cdn.hackernoon.com/images/tRW6o57hoNezh0iZnOdGsW3dKI02-d503cgr.jpeg)
-This is a self-contained demo using Materialize to process data IoT devices data directly from a PostgreSQL server.
 
-### [33. Docker for Beginners: Containerizing a Nextjs Application](https://hackernoon.com/docker-for-beginners-containerizing-a-nextjs-application)
-![](https://cdn.hackernoon.com/images/an-app-in-a-container-ohlaicqewia3lyxs801gpxta.png)
-Containerization in it's entirety is an incredibly useful concept. From being able to execute applications in isolation, to being able to port them easily..
-
-### [34. An Introduction to Docker Stack: Deployment and Secrets Management](https://hackernoon.com/an-introduction-to-docker-stack-deployment-and-secrets-management)
-![](https://cdn.hackernoon.com/images/EhOksHhKNyMZwPJjQr9Fdf6i9Rz1-9a834ly.jpeg)
-Learn how to use Docker Stacker effectively for seamless service and secret management.
-
-### [35. How To Run PostgreSQL as a Build Requirement in TeamCity Build](https://hackernoon.com/how-to-run-postgresql-as-a-build-requirement-in-teamcity-build-068x3w94)
-![](https://cdn.hackernoon.com/drafts/nc4j3vig.png)
-We use different Continuous Integration tools in our projects. One of them is TeamCity software. A pipeline for TeamCity can be configured easily and has two steps, such as run tests and build a docker image for further deployment. However, I needed to run Postgres before running tests. I made a research, I read the documentation and this article may be useful to close a gap for team city’s documentation.
-
-### [36. How I Built a 1 GB Observability Stack for My Go Startup Using Prometheus, Loki, and Grafana](https://hackernoon.com/how-i-built-a-1-gb-observability-stack-for-my-go-startup-using-prometheus-loki-and-grafana)
+### [31. How I Built a 1 GB Observability Stack for My Go Startup Using Prometheus, Loki, and Grafana](https://hackernoon.com/how-i-built-a-1-gb-observability-stack-for-my-go-startup-using-prometheus-loki-and-grafana)
 ![](https://cdn.hackernoon.com/images/Vw1TKBpUQOcGBXTB4BrDUxQca4y2-qmc3ei3.png)
 How to set up Prometheus, Loki, and Grafana on a free VPS with just 1 GB of RAM for a Go service. Stack comparison, configs, and Grafana dashboards
 
-### [37. An Introduction to Docker for Web Development](https://hackernoon.com/an-introduction-to-docker-for-web-development-8z3f3tyl)
+### [32. Full Production Django Docker Configuration](https://hackernoon.com/full-production-django-docker-configuration-5r4o3wxq)
+![](https://cdn.hackernoon.com/drafts/g3jg2b94.png)
+The current software development ecosystem moves fast and it seems older frameworks like Django or Rails becoming absolute, but it is a huge underestimation! Django is one of the unique frameworks that I like to use - first of all because it contains everything in it, with just a few simple configurations.
+
+### [33. An AI-Powered Workflow Automation Guide: How You Can Self-Host n8n with Docker Compose and Traefik](https://hackernoon.com/an-ai-powered-workflow-automation-guide-how-you-can-self-host-n8n-with-docker-compose-and-traefik)
+![](https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxhaSUyMGFnZW50fGVufDB8fHx8MTc1MTg4MzUzNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000)
+Everyone talks about n8n. Again, let's learn how to self-host n8n with Docker & Traefik as a reverse proxy.
+
+### [34. How to Use Materialize and Redpanda to Analyze Raspberry Pi Temperature Data](https://hackernoon.com/how-to-use-materialize-and-redpanda-to-analyze-raspberry-pi-temperature-data)
+![](https://cdn.hackernoon.com/images/tRW6o57hoNezh0iZnOdGsW3dKI02-d503cgr.jpeg)
+This is a self-contained demo using Materialize to process data IoT devices data directly from a PostgreSQL server.
+
+### [35. An Introduction to Docker Stack: Deployment and Secrets Management](https://hackernoon.com/an-introduction-to-docker-stack-deployment-and-secrets-management)
+![](https://cdn.hackernoon.com/images/EhOksHhKNyMZwPJjQr9Fdf6i9Rz1-9a834ly.jpeg)
+Learn how to use Docker Stacker effectively for seamless service and secret management.
+
+### [36. Docker for Beginners: Containerizing a Nextjs Application](https://hackernoon.com/docker-for-beginners-containerizing-a-nextjs-application)
+![](https://cdn.hackernoon.com/images/an-app-in-a-container-ohlaicqewia3lyxs801gpxta.png)
+Containerization in it's entirety is an incredibly useful concept. From being able to execute applications in isolation, to being able to port them easily..
+
+### [37. How To Run PostgreSQL as a Build Requirement in TeamCity Build](https://hackernoon.com/how-to-run-postgresql-as-a-build-requirement-in-teamcity-build-068x3w94)
+![](https://cdn.hackernoon.com/drafts/nc4j3vig.png)
+We use different Continuous Integration tools in our projects. One of them is TeamCity software. A pipeline for TeamCity can be configured easily and has two steps, such as run tests and build a docker image for further deployment. However, I needed to run Postgres before running tests. I made a research, I read the documentation and this article may be useful to close a gap for team city’s documentation.
+
+### [38. An Introduction to Docker for Web Development](https://hackernoon.com/an-introduction-to-docker-for-web-development-8z3f3tyl)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwpMgmYEsvHPWleC9kTVpIRfgvEO2-hhg2b9d.jpeg?alt=media&token=b4b18231-94dd-4002-86b4-a2f3d2d54cfa)
 This is the introduction to a series that was originally published on tech.osteel.me. Only the introduction was brought to Hacker Noon — links to other parts will take you to that other website.
 
-### [38. How to Setup SonarQube Locally Using Docker](https://hackernoon.com/how-to-setup-sonarqube-locally-using-docker)
+### [39. How to Setup SonarQube Locally Using Docker](https://hackernoon.com/how-to-setup-sonarqube-locally-using-docker)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-p2035uw.jpeg)
 I will explain how you can set up SonarQube locally with docker.
-
-### [39. An AI-Powered Workflow Automation Guide: How You Can Self-Host n8n with Docker Compose and Traefik](https://hackernoon.com/an-ai-powered-workflow-automation-guide-how-you-can-self-host-n8n-with-docker-compose-and-traefik)
-![](https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxhaSUyMGFnZW50fGVufDB8fHx8MTc1MTg4MzUzNnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000)
-Everyone talks about n8n. Again, let's learn how to self-host n8n with Docker & Traefik as a reverse proxy.
 
 ### [40. Introducing gdocweb: Web Building with Java 21, Spring Boot 3.x, and More](https://hackernoon.com/introducing-gdocweb-web-building-with-java-21-spring-boot-3x-and-more)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-ny82mu2.jpeg)
 Explore the journey of building gdocweb: a developer's insight into choosing Java 21, Spring Boot 3.x, and navigating tech stack challenges.
 
-### [41. Application Testing In Go: Do It Right And Don't Create a Mess](https://hackernoon.com/application-testing-in-go-do-it-right-and-dont-create-a-mess-xwfc3y19)
-![](https://cdn.hackernoon.com/drafts/spgx3yra.png)
-Problem - How many times have we faced this problem of worrying about cleaning up after running test cases. When some of our test cases run, they might add data to our database or add files to our directory which we don’t want to worry about every time.
-
-### [42. PHP on Docker from Scratch in 2022](https://hackernoon.com/php-on-docker-from-scratch-in-2022)
+### [41. PHP on Docker from Scratch in 2022](https://hackernoon.com/php-on-docker-from-scratch-in-2022)
 ![](https://cdn.hackernoon.com/images/Syb8pJ61mKPGZO7h4wUZ8zlDwJJ3-hrc3nj3.jpeg)
 How to set up a repository with Docker 'from scratch' to develop PHP 8.1 applications in 2022.
+
+### [42. Application Testing In Go: Do It Right And Don't Create a Mess](https://hackernoon.com/application-testing-in-go-do-it-right-and-dont-create-a-mess-xwfc3y19)
+![](https://cdn.hackernoon.com/drafts/spgx3yra.png)
+Problem - How many times have we faced this problem of worrying about cleaning up after running test cases. When some of our test cases run, they might add data to our database or add files to our directory which we don’t want to worry about every time.
 
 ### [43. Docker Containerization: The Ultimate Guide](https://hackernoon.com/docker-containerization-the-ultimate-guide)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-jo93xav.jpeg)
@@ -189,25 +193,25 @@ Explanation and Example of a Real-World Spring Boot and Docker Desktop based Dep
 ![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-fie397d.jpeg)
 Learn how to setup a development environment for Wordpress plugins.
 
-### [48. Set Up Laravel 6 on Google Cloud Run  with Continuous Integration [Step-by-Step Guide]](https://hackernoon.com/set-up-laravel-6-on-google-cloud-run-step-by-step-with-continuous-integration-ci-1c2y3zr4)
-![](https://cdn.hackernoon.com/drafts/wo1h32tf.png)
-Laravel has soared in popularity in the last few years. The Laravel community even says that Laravel has made writing PHP enjoyable than a pain. Laravel 6 has some interesting new features. Getting a super scaleable working URL for your application take hours if not days. Setting up something like Kubernetes is a huge task. This is where Google Cloud Run shines, you can get a working HTTPs URL for any of your containerized app in minutes.
+### [48. A Deep Dive into Docker Compose](https://hackernoon.com/a-deep-dive-into-docker-compose)
+![](https://cdn.hackernoon.com/images/TbvBlyikqbYO9TG8r4NopOMeGSs1-er02ntu.png)
+The flexibility of Docker Compose makes it easy to scale and manage services as your project grows.
 
 ### [49. Container Development: Tools and Configurations for an Effortless Workflow in Docker and Kubernetes](https://hackernoon.com/container-development-tools-and-configurations-for-an-effortless-workflow-in-docker-and-kubernetes)
 ![](https://cdn.hackernoon.com/images/FnJSyiTSqmPvpvgC9FHggSRb8Gj2-rk832xb.jpeg)
 Effortlessly sync local changes with Docker/Kubernetes using tools like Docker Compose, Skaffold, and Tilt. Boost your coding efficiency with practical examples
 
-### [50. A Deep Dive into Docker Compose](https://hackernoon.com/a-deep-dive-into-docker-compose)
-![](https://cdn.hackernoon.com/images/TbvBlyikqbYO9TG8r4NopOMeGSs1-er02ntu.png)
-The flexibility of Docker Compose makes it easy to scale and manage services as your project grows.
+### [50. Set Up Laravel 6 on Google Cloud Run  with Continuous Integration [Step-by-Step Guide]](https://hackernoon.com/set-up-laravel-6-on-google-cloud-run-step-by-step-with-continuous-integration-ci-1c2y3zr4)
+![](https://cdn.hackernoon.com/drafts/wo1h32tf.png)
+Laravel has soared in popularity in the last few years. The Laravel community even says that Laravel has made writing PHP enjoyable than a pain. Laravel 6 has some interesting new features. Getting a super scaleable working URL for your application take hours if not days. Setting up something like Kubernetes is a huge task. This is where Google Cloud Run shines, you can get a working HTTPs URL for any of your containerized app in minutes.
 
-### [51. How To Find Your Docker Logs](https://hackernoon.com/how-to-find-your-docker-logs-3pa13ync)
-![](https://cdn.hackernoon.com/drafts/pemm22s8.png)
-There’s a short answer, and a long answer. The short answer, that will satisfy your needs in the vast majority of cases, is:
-
-### [52. How to Run a Microsoft .NET Docker Image in C#](https://hackernoon.com/how-to-run-a-microsoft-net-docker-image-in-c)
+### [51. How to Run a Microsoft .NET Docker Image in C#](https://hackernoon.com/how-to-run-a-microsoft-net-docker-image-in-c)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-sna3yev.jpeg)
 Docker has become an essential tool in modern software development, providing an efficient and portable way to package and distribute applications. 
+
+### [52. How To Find Your Docker Logs](https://hackernoon.com/how-to-find-your-docker-logs-3pa13ync)
+![](https://cdn.hackernoon.com/drafts/pemm22s8.png)
+There’s a short answer, and a long answer. The short answer, that will satisfy your needs in the vast majority of cases, is:
 
 ### [53. How to Dockerize Your Application and Deploy It to Sevalla](https://hackernoon.com/how-to-dockerize-your-application-and-deploy-it-to-sevalla)
 ![](https://cdn.hackernoon.com/images/AGr8KngsfDgFeQNG1b8p0b616hy2-me83dev.png)

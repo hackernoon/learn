@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [metrics](https://hackernoon.com/tagged/metrics)
+### Let's learn about [Metrics](https://hackernoon.com/tagged/metrics) via these 83 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Metrics are quantifiable measures used to track and assess the status of a specific business process, product, or activity. Metrics are essential for data-driven decision-making, performance evaluation, and identifying areas for improvement, guiding strategic planning and operational adjustments.
+
 ### [1. My Notes on MAE vs MSE Error Metrics 🚀](https://hackernoon.com/my-notes-on-mae-vs-mse-error-metrics)
 ![](https://cdn.hackernoon.com/images/GM6DSaJcTeUSvYIRlwBoj4pUrXi1-ynb3h2q.jpeg)
 We will focus on MSE and MAE metrics, which are frequently used model evaluation metrics in regression models.
@@ -138,13 +142,13 @@ Analysts have come up with all sorts of data models and metrics to predict lofty
 ![](https://cdn.hackernoon.com/images/deUGkuJB9Ggm3EcvgqnpHgqWZkX2-ob92hlf.jpeg)
 The metrics we choose can expose problems. But it can also hide them behind irrelevant data.
 
-### [35. Applying First Principles Thinking to your Startup Idea to Enhance Impact](https://hackernoon.com/applying-first-principles-thinking-to-your-startup-rm1g3031)
-![](https://cdn.hackernoon.com/drafts/fr2v30x2.png)
-One thing that surprises me over and over is how many startup founders don’t use models and equations in their business. I always get strange looks when invariably I ask my favorite business questions: “So, what is the equation here? What variable are you hoping to affect by doing this?”
-
-### [36. How to Use Dora Metrics to Become an Elite Team](https://hackernoon.com/how-to-use-dora-metrics-to-become-an-elite-team)
+### [35. How to Use Dora Metrics to Become an Elite Team](https://hackernoon.com/how-to-use-dora-metrics-to-become-an-elite-team)
 ![](https://cdn.hackernoon.com/images/deUGkuJB9Ggm3EcvgqnpHgqWZkX2-7392h5g.jpeg)
 Tradeoff between speed and quality is a myth.
+
+### [36. Applying First Principles Thinking to your Startup Idea to Enhance Impact](https://hackernoon.com/applying-first-principles-thinking-to-your-startup-rm1g3031)
+![](https://cdn.hackernoon.com/drafts/fr2v30x2.png)
+One thing that surprises me over and over is how many startup founders don’t use models and equations in their business. I always get strange looks when invariably I ask my favorite business questions: “So, what is the equation here? What variable are you hoping to affect by doing this?”
 
 ### [37. Setup Monitoring Using Apache Zookeeper and OpenTelemetry](https://hackernoon.com/setup-monitoring-using-apache-zookeeper-and-opentelemetry)
 ![](https://cdn.hackernoon.com/images/v4bGzuWFNzddA2aKa5PRh6IvL3J3-jp93pzg.png)
@@ -154,13 +158,13 @@ In this article, I’ll show you a simplified way to configure a critical open-s
 ![](https://hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-5k3e34pk.jpeg)
 If you have darker skin, shuffle when you walk, or regularly push a stroller, it can throw off the data
 
-### [39. Find a Hard Metric From the Start](https://hackernoon.com/find-a-hard-metric-z21ga3851)
-![](https://cdn.hackernoon.com/drafts/gi6031mn.png)
-To succeed at sales, you need to know the value of your product.
-
-### [40. Proven Metrics and Important KPIs for Startups to Measure Success](https://hackernoon.com/proven-metrics-and-important-kpis-for-startups-to-measure-success)
+### [39. Proven Metrics and Important KPIs for Startups to Measure Success](https://hackernoon.com/proven-metrics-and-important-kpis-for-startups-to-measure-success)
 ![](https://cdn.hackernoon.com/images/ZUe5l1n4sIYKBn1LvI1rfv58CLf2-36036m7.jpeg)
 What are the most important KPIs for startups to measure success? Find your answer in this article and learn what key product metrics to track to enable growth.
+
+### [40. Find a Hard Metric From the Start](https://hackernoon.com/find-a-hard-metric-z21ga3851)
+![](https://cdn.hackernoon.com/drafts/gi6031mn.png)
+To succeed at sales, you need to know the value of your product.
 
 ### [41. The Most Infuriating And Outrageous Fiverr Scam of All Time](https://hackernoon.com/the-most-infuriating-and-outrageous-fiverr-scam-of-all-time)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-ww034o6.jpeg)
@@ -191,13 +195,13 @@ Confusion Matrix is one of the core foundations of evaluating AI model performan
 ![](https://cdn.hackernoon.com/drafts/yg1c3y41.png)
 Becoming a manager is usually one of the biggest challenges of an engineer’s career. We are usually used to algorithms and state machines, which are predictable and have specific outputs depending on the input.
 
-### [48. How To Avoid Manipulating Data Subconsciously: A P-Hacking Story](https://hackernoon.com/how-to-avoid-manipulating-data-subconsciously-a-p-hacking-story-213j3zbt)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fqgt5hSmZcqT1kXzIO6Tdj8adQ0Q2-jm5i3tva.gif?alt=media&token=8f249912-046f-4cf4-904a-15cdd5e5f2ed)
-P value is the probability that the results we are seeing are real and not by random chance. P-Hacking is a term used to describe the scientific manipulation of data to get the desired P value. All of us do this with our experiments, consciously or not.
-
-### [49. 5 Metrics for a Startup, and How to Choose Yours](https://hackernoon.com/5-metrics-for-a-startup-and-how-to-choose-yours-lm103yvv)
+### [48. 5 Metrics for a Startup, and How to Choose Yours](https://hackernoon.com/5-metrics-for-a-startup-and-how-to-choose-yours-lm103yvv)
 ![](https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Ah, business metrics… To me, it’s the best illustration of how information overload can do more harm than good. A brief online search will provide you with dozens of “key, important, essential business metrics that every company should know”. 
+
+### [49. How To Avoid Manipulating Data Subconsciously: A P-Hacking Story](https://hackernoon.com/how-to-avoid-manipulating-data-subconsciously-a-p-hacking-story-213j3zbt)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fqgt5hSmZcqT1kXzIO6Tdj8adQ0Q2-jm5i3tva.gif?alt=media&token=8f249912-046f-4cf4-904a-15cdd5e5f2ed)
+P value is the probability that the results we are seeing are real and not by random chance. P-Hacking is a term used to describe the scientific manipulation of data to get the desired P value. All of us do this with our experiments, consciously or not.
 
 ### [50. How to Measure Product-Market Fit](https://hackernoon.com/how-to-measure-product-market-fit-gn1x343j)
 ![](https://cdn.hackernoon.com/images/5SeEe0qRS6efzyRh9WDzwN5f91L2-065233x1.jpeg)
@@ -215,33 +219,33 @@ We had observability tools. Logs, metrics, dashboards. But they weren’t built 
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-gc92iea.jpeg)
 Observability is an orchestra, not a single instrument. By combining multiple data points we form an accurate production narrative to resolve issues.
 
-### [54. Engineering Metrics: The Moneyball Approach](https://hackernoon.com/engineering-metrics-the-moneyball-approach-a21b3zdb)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSnhq2R1AhrcVU2y5TKCrutBJCqx1-21o3wux.jpeg?alt=media&token=9617f84f-56ff-47d5-bfe8-c176ea8fb79f)
-Engineering managers often rely on subjective clues to assess how their team is doing. But decisions made based on gut feel and imperfect measurements are less than ideal — sometimes they result in team success; other times they result in disappointment. 
-
-### [55. Beyond Numbers: Embracing Contextual Intelligence in Engineering Leadership](https://hackernoon.com/beyond-numbers-embracing-contextual-intelligence-in-engineering-leadership)
+### [54. Beyond Numbers: Embracing Contextual Intelligence in Engineering Leadership](https://hackernoon.com/beyond-numbers-embracing-contextual-intelligence-in-engineering-leadership)
 ![](https://cdn.hackernoon.com/images/RfaByq6jrSdkVOFkt36mB7zTYME3-q793z41.jpeg)
 This article explores the gap between engineering teams and their leaders, highlighting the importance of cohesion and alignment
 
-### [56. This One Prometheus Feature Could Save You Hours of Debugging](https://hackernoon.com/this-one-prometheus-feature-could-save-you-hours-of-debugging)
+### [55. This One Prometheus Feature Could Save You Hours of Debugging](https://hackernoon.com/this-one-prometheus-feature-could-save-you-hours-of-debugging)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-x702uv1.jpeg)
 Whether you're using Go, Python, or another language, the investment in implementing exemplars will pay dividends in your observability journey.
+
+### [56. Engineering Metrics: The Moneyball Approach](https://hackernoon.com/engineering-metrics-the-moneyball-approach-a21b3zdb)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSnhq2R1AhrcVU2y5TKCrutBJCqx1-21o3wux.jpeg?alt=media&token=9617f84f-56ff-47d5-bfe8-c176ea8fb79f)
+Engineering managers often rely on subjective clues to assess how their team is doing. But decisions made based on gut feel and imperfect measurements are less than ideal — sometimes they result in team success; other times they result in disappointment. 
 
 ### [57. How Goji Investments Enhances Developer Experience via Observability](https://hackernoon.com/how-goji-investments-enhances-developer-experience-via-observability-641f3w2q)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBO1sxWKkO9aAZvozbs1W60TJZCn1-5p403uti.jpeg?alt=media&token=9edc1b6a-56ea-4e04-94fc-1bf1aeeb3db0)
 This post was written by Dean Record, Engineer at Goji Investments.
 
-### [58. 5 Tips to Effectively Monitor Heroku Applications](https://hackernoon.com/5-tips-to-effectively-monitor-heroku-applications-iu113tzr)
+### [58. Scaling PHP Symfony Metrics at 200k RPM: 50+ Servers, Zero Overhead with UDP + Telegraf](https://hackernoon.com/scaling-php-symfony-metrics-at-200k-rpm-50-servers-zero-overhead-with-udp-telegraf)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-gr03bj1.png)
+Fix PHP monitoring bottlenecks: learn how UDP + Telegraf replaced Prometheus pull, scaling to 50+ servers with zero timeouts.
+
+### [59. 5 Tips to Effectively Monitor Heroku Applications](https://hackernoon.com/5-tips-to-effectively-monitor-heroku-applications-iu113tzr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FczB8te4aJKgpsTMwXFxqEd3rAtB3-c2263ux9.jpeg?alt=media&token=de3c4cc1-6c1f-4c93-9d06-c504187a3a86)
 Heroku differentiates itself from other cloud providers, by offering a complete, cohesive environment. Where AWS and GCP present a decoupled toolkit, Heroku strives for a seamless, UI-driven experience for the user. This philosophy is clearly embodied in its metrics functionality, which is often a single click or basic configuration file away.
 
-### [59. DevOps: I Measure The Metrics A Bit Differently. Here's Why](https://hackernoon.com/devops-i-measure-the-metrics-a-bit-differently-heres-why-2d3c3z1a)
+### [60. DevOps: I Measure The Metrics A Bit Differently. Here's Why](https://hackernoon.com/devops-i-measure-the-metrics-a-bit-differently-heres-why-2d3c3z1a)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBDsCAvWUh0Rof1G9AjKiE7xbZgZ2-euh3wzb.jpeg?alt=media&token=2ca5dd03-1b9b-41d2-94d8-c6889c78965a)
 The four key DevOps metrics are an exciting set of measurements. They’re getting more and more relevant since the book Accelerate has been published. I firmly believe they’re essential for engineering teams seeking effectiveness and efficiency.
-
-### [60. Scaling PHP Symfony Metrics at 200k RPM: 50+ Servers, Zero Overhead with UDP + Telegraf](https://hackernoon.com/scaling-php-symfony-metrics-at-200k-rpm-50-servers-zero-overhead-with-udp-telegraf)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-gr03bj1.png)
-Fix PHP monitoring bottlenecks: learn how UDP + Telegraf replaced Prometheus pull, scaling to 50+ servers with zero timeouts.
 
 ### [61. Beyond Numbers: Making Metrics Make Sense](https://hackernoon.com/beyond-numbers-making-metrics-make-sense)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-kz02yz0.jpeg)
@@ -255,13 +259,13 @@ There is no universal standard for which metrics should be used in specific case
 ![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-lq83ugs.jpeg)
 No matter how big or small your business is, you need to have certain metrics that tell you how much growth it has achieved. 
 
-### [64. 3 Business Lessons We (Re)Learned (Re)Watching Moneyball at Waydev](https://hackernoon.com/three-valuable-business-lessons-we-were-reminded-of-while-rewatching-moneyball-a41z32ot)
-![](https://cdn.hackernoon.com/drafts/kh1e330lz.png)
-To help soothe the shock of returning to work after the holidays, we've started a new tradition over at Waydev and kick off the year with a good movie or two. Since it had to be something both entertaining and inspiring, we chose to go with a classic: Moneyball, the 2011 film starring Brad Pitt.
-
-### [65. The Unusual Product Strategies That Scaled an EdTech Giant](https://hackernoon.com/the-unusual-product-strategies-that-scaled-an-edtech-giant)
+### [64. The Unusual Product Strategies That Scaled an EdTech Giant](https://hackernoon.com/the-unusual-product-strategies-that-scaled-an-edtech-giant)
 ![](https://cdn.hackernoon.com/images/KqQwwwXNIWNwSdG2JIKBYE5uHbt2-dz0360g.jpeg)
 This is the story of how we turned community, competition, and cartoon mascots into one of the most powerful products and go-to-market engines in K–12 education
+
+### [65. 3 Business Lessons We (Re)Learned (Re)Watching Moneyball at Waydev](https://hackernoon.com/three-valuable-business-lessons-we-were-reminded-of-while-rewatching-moneyball-a41z32ot)
+![](https://cdn.hackernoon.com/drafts/kh1e330lz.png)
+To help soothe the shock of returning to work after the holidays, we've started a new tradition over at Waydev and kick off the year with a good movie or two. Since it had to be something both entertaining and inspiring, we chose to go with a classic: Moneyball, the 2011 film starring Brad Pitt.
 
 ### [66. Evidence-Based Management in Business: Will it make a difference?](https://hackernoon.com/evidence-based-management-in-business-will-it-make-a-difference)
 ![](https://cdn.hackernoon.com/images/4heWOm7oGwNwUUrXGb8YLf1kc4P2-f083zvq.jpeg)
@@ -283,23 +287,27 @@ Imagine the situation, you have a legacy system partially migrated to multiple s
 ![](https://cdn.hackernoon.com/drafts/i21232tq.png)
 Our concepts of Lead Time and Cycle Time came from the field of Operations Management and Production Engineering. As such, I think it’s beneficial to all of us to maintain coherent with them and use the same semantics in Software Engineering Management as well.
 
-### [71. On Discussing Engineering Metrics to Direct Your Team's Focus, Daily](https://hackernoon.com/on-discussing-engineering-metrics-to-direct-your-teams-focus-daily-gohf3wwm)
+### [71. I Defined the Same Business Metric in 4 Semantic Layers. 3 of Them Disagreed.](https://hackernoon.com/i-defined-the-same-business-metric-in-4-semantic-layers-3-of-them-disagreed)
+![](https://cdn.hackernoon.com/images/nZUOsUekMgduRcTLAVIl3En9Zs23-5283e31.gif.webp)
+Define the metric once, in one place, and every tool (and every AI agent) that queries it gets the same answer.
+
+### [72. On Discussing Engineering Metrics to Direct Your Team's Focus, Daily](https://hackernoon.com/on-discussing-engineering-metrics-to-direct-your-teams-focus-daily-gohf3wwm)
 ![](https://images.unsplash.com/photo-1556155092-490a1ba16284?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Software engineering metrics help daily stand-up meetings to be more productive for the team. They can become tedious or irrelevant for many developers when they frequently exceed the fifteen minutes time box or even sound like a work report.
 
-### [72. How Metrics Lead to Effective Sprint Retrospectives](https://hackernoon.com/how-metrics-lead-to-effective-sprint-retrospectives-7d2r3t4p)
+### [73. How Metrics Lead to Effective Sprint Retrospectives](https://hackernoon.com/how-metrics-lead-to-effective-sprint-retrospectives-7d2r3t4p)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBDsCAvWUh0Rof1G9AjKiE7xbZgZ2-xx1i3urv.jpeg?alt=media&token=af2c04f6-5388-4dbb-9c82-a8539287f4f8)
 In the Atlassian playbook, it states that Sprint Retrospective’s goal is to identify how to improve teamwork by reflecting on what worked, what didn’t, and why. Usually, the meeting consists of brainstorming what the team did well and what the team needs to do better.
-
-### [73. How Engineering Managers Benefit from Synthetic Metrics](https://hackernoon.com/goal-to-2020-to-learn-how-engineering-managers-benefit-from-synthetic-metric-hi1a3260)
-![](https://images.unsplash.com/photo-1488998427799-e3362cec87c3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Engineering managers are in charge of tech teams. It means there are tens or maybe hundreds of people supporting them. Generally, they need to ensure the best practices around software development, hire and train engineering staff, align and motivate the team towards the company’s goal, manage the team’s performance, and be accountable for all technical decisions.
 
 ### [74. Financial Modeling: Key Importance Tips to Build Your Winning Model](https://hackernoon.com/financial-modeling-key-importance-tips-to-build-your-winning-model)
 ![](https://cdn.hackernoon.com/images/financial-modeling-jk29ose6xxuqb2ed27ww7gd0.png)
 Financial modeling is a critical tool for informed decision-making and strategic planning for any business.
 
-### [75. Rework Costs Your Company Millions — How to Cut Back?](https://hackernoon.com/rework-costs-your-company-millions-how-to-cut-back-nwq3wdv)
+### [75. How Engineering Managers Benefit from Synthetic Metrics](https://hackernoon.com/goal-to-2020-to-learn-how-engineering-managers-benefit-from-synthetic-metric-hi1a3260)
+![](https://images.unsplash.com/photo-1488998427799-e3362cec87c3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Engineering managers are in charge of tech teams. It means there are tens or maybe hundreds of people supporting them. Generally, they need to ensure the best practices around software development, hire and train engineering staff, align and motivate the team towards the company’s goal, manage the team’s performance, and be accountable for all technical decisions.
+
+### [76. Rework Costs Your Company Millions — How to Cut Back?](https://hackernoon.com/rework-costs-your-company-millions-how-to-cut-back-nwq3wdv)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSnhq2R1AhrcVU2y5TKCrutBJCqx1-fq273u3c.jpeg?alt=media&token=d9558d58-0423-41a0-a6e5-a6ee706acc94)
 On average, a software development team reworks about 26% of its code prior to release. Even after accounting for necessary changes, those wasted hours can cost a medium-sized business upwards of $4.7M a year. 
 
@@ -309,30 +317,26 @@ But not all costs come with such a clear price tag — inefficiencies in the sof
 
 According to a 2017 DORA white paper, Forecasting the Value of DevOps Transformations, the cost of Rework in software development is staggering, setting businesses of all sizes back millions of dollars a year.  
 
-### [76. How Engineering Teams Can Leverage the Power of Metrics](https://hackernoon.com/how-engineering-teams-can-leverage-the-power-of-metrics)
+### [77. How Engineering Teams Can Leverage the Power of Metrics](https://hackernoon.com/how-engineering-teams-can-leverage-the-power-of-metrics)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-x4035o7.png)
 Ever wondered what key metrics other engineering teams are tracking? 
 The short answer: it varies completely. Even within the same organization, different teams
 
-### [77. Monitoring Observability — or What the Heck Is It Anyway?](https://hackernoon.com/monitoring-observability-or-what-the-heck-is-it-anyway)
+### [78. Monitoring Observability — or What the Heck Is It Anyway?](https://hackernoon.com/monitoring-observability-or-what-the-heck-is-it-anyway)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-0h02wt5.jpeg)
 Observability is more than just sexy dashboards with colorful graphs. It's about predicting the problem before it becomes one.
 
-### [78. Consensus 2021: Understanding LatAm Blockchain States and Protocol Usage Metrics](https://hackernoon.com/consensus-2021-understanding-latam-blockchain-states-and-protocol-usage-metrics-gd1d37az)
+### [79. Consensus 2021: Understanding LatAm Blockchain States and Protocol Usage Metrics](https://hackernoon.com/consensus-2021-understanding-latam-blockchain-states-and-protocol-usage-metrics-gd1d37az)
 ![](https://cdn.hackernoon.com/images/RvQWsh30rgZy9bIbtgJeWD2UxQ62-6oj7357c.jpeg)
 Consensus 2021 panel discussions around crypto states in Latin America and layer one and layer two blockchain protocols. Tokenomics metrics and usage growth.
 
-### [79. Exporting Data to Fit Your Needs](https://hackernoon.com/exporting-data-to-fit-your-needs)
+### [80. Exporting Data to Fit Your Needs](https://hackernoon.com/exporting-data-to-fit-your-needs)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-pg035g0.jpeg)
 A lot of the work we do at ChartMogul centers around how we display and present your data in a clear and transparent way.
 
-### [80. Tracking Metrics as a Bootstrapper](https://hackernoon.com/tracking-metrics-as-a-bootstrapper)
+### [81. Tracking Metrics as a Bootstrapper](https://hackernoon.com/tracking-metrics-as-a-bootstrapper)
 ![](https://cdn.hackernoon.com/images/3PnNoHyV2aU8slqG9RjZp5SVLg93-8n93es8.jpeg)
 I’m a ChartMogul customer, and I’m a bootstrapper. I’m the founder of Feature Upvote, a bootstrapped and profitable SaaS.
-
-### [81. I Defined the Same Business Metric in 4 Semantic Layers. 3 of Them Disagreed.](https://hackernoon.com/i-defined-the-same-business-metric-in-4-semantic-layers-3-of-them-disagreed)
-![](https://cdn.hackernoon.com/images/nZUOsUekMgduRcTLAVIl3En9Zs23-5283e31.gif.webp)
-Define the metric once, in one place, and every tool (and every AI agent) that queries it gets the same answer.
 
 ### [82. Why Accuracy Metrics Break Down When Humans Are Part of the System](https://hackernoon.com/why-accuracy-metrics-break-down-when-humans-are-part-of-the-system)
 ![](https://cdn.hackernoon.com/images/darts-target-bullseye-dbjf42evj4pogenz5kmd57np.png)

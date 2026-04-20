@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ruby](https://hackernoon.com/tagged/ruby)
+### Let's learn about [Ruby](https://hackernoon.com/tagged/ruby) via these 202 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Big in Japan. Also, it was pretty big in the states from 2005-2015.
 
 ### [1. Ruby: How to read/write JSON File](https://hackernoon.com/ruby-how-to-readwrite-json-file-a23h3vxa)
@@ -262,17 +264,17 @@ There are times when one as a Ruby on Rails developer wants to implement a real-
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVWTKMvlu5fal8I6akyEYhg4jNdO2-7aen20ti.jpeg?alt=media&token=56c84fa0-295a-4fc8-a49b-4669be010991)
 The most satisfying thing beyond building something is to make it available to the world. Heroku is great for beginners because it’s a free and “simple” push-to-deploy system.
 
-### [64. Solving the Edit Distance Problem Using The Dynamic Programming Approach ](https://hackernoon.com/solving-the-edit-distance-problem-using-the-dynamic-programming-approach-486c32lu)
+### [64. How I Upgraded Rails to Version 5.1.5 And Lived To Tell The Tale](https://hackernoon.com/how-i-upgraded-rails-to-version-515-and-lived-to-tell-the-tale-2fhy30sn)
+![](https://cdn.hackernoon.com/drafts/kbp32f2.png)
+Our Rails’ version was 4.2 and we needed to upgrade to a later version mostly because Heroku stack requires it.
+
+### [65. Solving the Edit Distance Problem Using The Dynamic Programming Approach ](https://hackernoon.com/solving-the-edit-distance-problem-using-the-dynamic-programming-approach-486c32lu)
 ![](https://cdn.hackernoon.com/drafts/3k5v32o3.png)
 The first question that arises when solving a problem using dynamic programming(DP) is how to figure out that DP is a way to solve it?
 
-### [65. Building Rails Carousels Using Bootstrap](https://hackernoon.com/building-rails-carousels-using-bootstrap-st9g35yt)
+### [66. Building Rails Carousels Using Bootstrap](https://hackernoon.com/building-rails-carousels-using-bootstrap-st9g35yt)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-hev357e.jpeg)
 Bootstrap carousel with rails
-
-### [66. How I Upgraded Rails to Version 5.1.5 And Lived To Tell The Tale](https://hackernoon.com/how-i-upgraded-rails-to-version-515-and-lived-to-tell-the-tale-2fhy30sn)
-![](https://cdn.hackernoon.com/drafts/kbp32f2.png)
-Our Rails’ version was 4.2 and we needed to upgrade to a later version mostly because Heroku stack requires it.
 
 ### [67. Why Python is The 1st Language](https://hackernoon.com/why-python-is-the-1st-language-p91g3140)
 ![](https://cdn.hackernoon.com/images/J02wLUAg9qdpEaClVLYeyVVVZuR2-qp3725i4.jpeg)
@@ -320,33 +322,33 @@ So you've developed an impressive rails APP that showcases a gallery of images. 
  
 By popular choice, AWS S3 cloud service would be suitable to host your images. They offer a free plan, but to sign up it requires a credit/debit card. In my experience setting AWS up for image-handling was challenge. If one does not exercise extreme caution; API key and secret will get exposed on Github. 
 
-### [78. Unobtrusive JavaScript in Ruby On Rails [Beginners Guide]](https://hackernoon.com/unobtrusive-javascript-in-ruby-on-rails-beginners-guide-nj1b3ufu)
-![](https://images.unsplash.com/photo-1555099962-4199c345e5dd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Recently I learned Ruby On Rails, an amazing framework, you can easily build complex web applications with it. In this article, I want to talk about Unobtrusive JavaScript in Ruby On Rails, a tool that can help you build a more responsive web application in a simple way. With it, you can manage all your JavaScript in the server and you don’t need to pollute your HTML files, there is no need for adding events listeners and ajax requests.
-
-### [79. Timecop: A Ruby Gem to Write Time-Sensitives Tests](https://hackernoon.com/timecop-a-ruby-gem-to-write-time-sensitives-tests)
+### [78. Timecop: A Ruby Gem to Write Time-Sensitives Tests](https://hackernoon.com/timecop-a-ruby-gem-to-write-time-sensitives-tests)
 ![](https://cdn.hackernoon.com/images/XSFGnD4xKsRHcCHwLExU1XJX4U42-m583v3s.jpeg)
 Timecop is a ruby gem created for those specific cases where we have tests dependent on time. It could be birthdays, but also it could be expiration days for JW
 
-### [80. How to Seed Your Rails Database with Faker ](https://hackernoon.com/how-to-seed-your-rails-database-with-faker-q7w3udo)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-ju1c289u.jpeg?alt=media&token=64d06407-039a-4424-bc0c-a4228bc473ae)
-I built a Customer Support System a few days ago and started to think of a way to seed my rails database with random data for testing without having to manually type in the data. This may not be the best way to do it, but it works and allows you to test your application.
+### [79. Unobtrusive JavaScript in Ruby On Rails [Beginners Guide]](https://hackernoon.com/unobtrusive-javascript-in-ruby-on-rails-beginners-guide-nj1b3ufu)
+![](https://images.unsplash.com/photo-1555099962-4199c345e5dd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Recently I learned Ruby On Rails, an amazing framework, you can easily build complex web applications with it. In this article, I want to talk about Unobtrusive JavaScript in Ruby On Rails, a tool that can help you build a more responsive web application in a simple way. With it, you can manage all your JavaScript in the server and you don’t need to pollute your HTML files, there is no need for adding events listeners and ajax requests.
 
-### [81. Control TCP Retransmissions: Early Issue Detection to Prevent Data Loss](https://hackernoon.com/control-tcp-retransmissions-early-issue-detection-to-prevent-data-loss)
+### [80. Control TCP Retransmissions: Early Issue Detection to Prevent Data Loss](https://hackernoon.com/control-tcp-retransmissions-early-issue-detection-to-prevent-data-loss)
 ![](https://cdn.hackernoon.com/images/P2QELgqFjOgzYPEnwwPsm9OU22K3-qy835sv.jpeg)
 Prevent Data Loss in TCP: How to handle server failures effectively and avoid long TCP retransmissions
 
-### [82. Should I Learn Rails in 2020?](https://hackernoon.com/should-i-learn-rails-in-2020-kyu3uxi)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2PAguTtQXWXvgDvAhaLSWXDjur73-es9820g7.jpeg?alt=media&token=8e18afa1-aa28-4532-bfdd-f2b0df4d8cf1)
-Rails (or ruby on rails) used to the most popular web development framework just a couple of years ago, but it's not so popular now. If you are struggling to make a decision, this post may end up saving a lot of your time. But it is recommended that do research of your own about the technology and what it does best, will it be a good fit for you?
+### [81. How to Seed Your Rails Database with Faker ](https://hackernoon.com/how-to-seed-your-rails-database-with-faker-q7w3udo)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-ju1c289u.jpeg?alt=media&token=64d06407-039a-4424-bc0c-a4228bc473ae)
+I built a Customer Support System a few days ago and started to think of a way to seed my rails database with random data for testing without having to manually type in the data. This may not be the best way to do it, but it works and allows you to test your application.
 
-### [83. 3 Things I Learned in 1 Year Working with Functional Programming](https://hackernoon.com/3-things-i-learned-in-1-year-working-with-functional-programming-lj1g3up1)
+### [82. 3 Things I Learned in 1 Year Working with Functional Programming](https://hackernoon.com/3-things-i-learned-in-1-year-working-with-functional-programming-lj1g3up1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkT1VQM2AHoQbpj9ymHkA5hUOfmx1-eho3eos.jpeg?alt=media&token=71ff7fbd-a271-487e-90de-9bcce6312c13)
 Just like the great majority of programming-related courses, I was introduced to programming with the object-oriented paradigm (OOP). Even though many languages are multi-paradigm, like Python, C++, JavaScript and Ruby, we still have OOP as the norm.
 
-### [84. All For One, And One For All: A Single Ruby on Rails Validator For All Controllers ](https://hackernoon.com/all-for-one-and-one-for-all-one-validator-for-all-controllers-ruby-on-rails-wk3l30b2)
+### [83. All For One, And One For All: A Single Ruby on Rails Validator For All Controllers ](https://hackernoon.com/all-for-one-and-one-for-all-one-validator-for-all-controllers-ruby-on-rails-wk3l30b2)
 ![](https://cdn.hackernoon.com/drafts/m6hs303a.png)
 
+
+### [84. Should I Learn Rails in 2020?](https://hackernoon.com/should-i-learn-rails-in-2020-kyu3uxi)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2PAguTtQXWXvgDvAhaLSWXDjur73-es9820g7.jpeg?alt=media&token=8e18afa1-aa28-4532-bfdd-f2b0df4d8cf1)
+Rails (or ruby on rails) used to the most popular web development framework just a couple of years ago, but it's not so popular now. If you are struggling to make a decision, this post may end up saving a lot of your time. But it is recommended that do research of your own about the technology and what it does best, will it be a good fit for you?
 
 ### [85. Functional Programming In Ruby: How To Create Pure Functions](https://hackernoon.com/functional-programming-in-ruby-how-to-create-pure-functions-0uq3ujr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FiPMsn4watqNfBon09hUSnBTqL8A3-lh4s3udc.jpeg?alt=media&token=d44de9b0-cf99-4172-867d-ddc3132897e7)
@@ -356,13 +358,13 @@ In functional programming, pure functions are at the core of this paradigm. When
 ![](https://cdn.hackernoon.com/images/nLBjbmEzqsRcnIfAFW3exh6idX82-kx930wv.jpeg)
 Within almost 15 years of programming Ruby, I collected a quite vast collection of tools and techniques that help me achive the best performance to my projects
 
-### [87. How a n00b Programer Climbed The Binary Tree in Ruby](https://hackernoon.com/how-a-n00b-programer-climbed-the-binary-tree-in-ruby-al6437bv)
-![](https://cdn.hackernoon.com/images/chm39ik.jpg)
-When I faced a search problem in Ruby the first thing that came to my head was a binary tree (yes, I’m a weirdo). After some search about it, I decided to create an open-source tree of my own so anyone can just download and use it in the future. 
-
-### [88. Github Actions auto split of slow RSpec test file in parallel jobs for Ruby on Rails project](https://hackernoon.com/github-actions-auto-split-of-slow-rspec-test-file-in-parallel-jobs-for-ruby-on-rails-project-gtj34u2)
+### [87. Github Actions auto split of slow RSpec test file in parallel jobs for Ruby on Rails project](https://hackernoon.com/github-actions-auto-split-of-slow-rspec-test-file-in-parallel-jobs-for-ruby-on-rails-project-gtj34u2)
 ![](https://cdn.hackernoon.com/images/E24EbX15XQZvYPaITR5WEGVmupv2-jrf31oc.jpeg)
 How to run slow RSpec test files on Github Actions with parallel jobs by doing an auto split of the spec file by test examples
+
+### [88. How a n00b Programer Climbed The Binary Tree in Ruby](https://hackernoon.com/how-a-n00b-programer-climbed-the-binary-tree-in-ruby-al6437bv)
+![](https://cdn.hackernoon.com/images/chm39ik.jpg)
+When I faced a search problem in Ruby the first thing that came to my head was a binary tree (yes, I’m a weirdo). After some search about it, I decided to create an open-source tree of my own so anyone can just download and use it in the future. 
 
 ### [89. Interview with Yukihiro Matsumoto: Ruby is Designed for Humans, not Machines](https://hackernoon.com/interview-with-yukihiro-matsumoto-ruby-is-designed-for-humans-not-machines-1fee3610)
 ![](https://cdn.hackernoon.com/drafts/rz1r337g.png)
@@ -376,13 +378,13 @@ How to configure parallel jobs on Semaphore CI for RSpec, Cypress and Jest tests
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUBNPKUBqvuM01nn4wJOVA8byi8l2-ie1kh2u4r.png?alt=media&token=a6125d98-faa1-45cf-a0cc-95b978576c25)
 Learning to code is a path full of struggles, and learning Ruby isn't the exception. But you'll agree with me, that practice is the best way to learn and develop your skills.
 
-### [92. An Introduction to Backtracking in Ruby](https://hackernoon.com/an-introduction-to-backtracking-in-ruby-fb5z32so)
-![](https://images.unsplash.com/photo-1583115260445-f95fe37202ae?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-in this blog post, we are going to take a look at what is backtracking and how to implement it using ruby
-
-### [93. You Can Do More With Rails Console by Configuring ~/.irbrc 🎉](https://hackernoon.com/you-can-do-more-with-rails-console-by-configuring-irbrc-2f113usf)
+### [92. You Can Do More With Rails Console by Configuring ~/.irbrc 🎉](https://hackernoon.com/you-can-do-more-with-rails-console-by-configuring-irbrc-2f113usf)
 ![](https://cdn.hackernoon.com/images/urXXuvx13FewEHbKSbD0UhxWJNm2-ok934m2.jpeg)
 It´s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive. — Steve McConnell
+
+### [93. An Introduction to Backtracking in Ruby](https://hackernoon.com/an-introduction-to-backtracking-in-ruby-fb5z32so)
+![](https://images.unsplash.com/photo-1583115260445-f95fe37202ae?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+in this blog post, we are going to take a look at what is backtracking and how to implement it using ruby
 
 ### [94. Understanding LinkedList Data Structure in Ruby](https://hackernoon.com/understanding-linkedlist-data-structure-in-ruby-4q653yqo)
 ![](https://cdn.hackernoon.com/images/471bw32gl.jpg)
@@ -404,25 +406,25 @@ Example migration of rails app from Prometheus to VictoriaMetrics to unlock the 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUNa1XsLgFRZYV89M5eBNURDd36H3-afb3yr0.jpeg?alt=media&token=323a20d3-aab6-4bba-807b-b090c5b8e0b5)
 Creating a new Rails app is super easy by itself. And, creating a Rails app set up as an API is not much different.
 
-### [99. Why Ruby Shall Still Be Relevant in 2021](https://hackernoon.com/why-ruby-shall-still-be-relevant-in-2021-5l2v34la)
-![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-342131eu.jpeg)
-Ruby and the Rails framework are both under active development and regular updates are released for both all year round
-
-### [100. Use GitLab's CI/CD Tool to Run Parallel Tests](https://hackernoon.com/use-gitlabs-cicd-tool-to-run-parallel-tests-yj303103)
+### [99. Use GitLab's CI/CD Tool to Run Parallel Tests](https://hackernoon.com/use-gitlabs-cicd-tool-to-run-parallel-tests-yj303103)
 ![](https://cdn.hackernoon.com/images/E24EbX15XQZvYPaITR5WEGVmupv2-da4d31kd.jpeg)
 How to run parallel jobs for RSpec tests on GitLab CI Pipeline and speed up Ruby & JavaScript testing
+
+### [100. Why Ruby Shall Still Be Relevant in 2021](https://hackernoon.com/why-ruby-shall-still-be-relevant-in-2021-5l2v34la)
+![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-342131eu.jpeg)
+Ruby and the Rails framework are both under active development and regular updates are released for both all year round
 
 ### [101. Changing Database Column in Rails 5](https://hackernoon.com/changing-database-column-in-rails-5-6y1cq3ye7)
 ![](https://cdn.hackernoon.com/images/o117s3y97.jpg)
 While working on a Rails application, we all have had to change the database column in some way. You can change the column name and the column type, as well as changing the column with the type conversion.
 
-### [102. Setting Up Ruby on Rails On Github Using CircleCI [A How-To Guide]](https://hackernoon.com/setting-up-ruby-on-rails-on-github-using-circleci-a-how-to-guide-4nal328a)
-![](https://cdn.hackernoon.com/images/aa1sd3y9e.jpg)
-This is the ultimate guide for your next Ruby on Rails project setup on Github with CircleCI for continuous integration in 2020.
-
-### [103. All The Secrets Of Encrypting API Keys In Ruby Revealed](https://hackernoon.com/all-the-secrets-of-encrypting-api-keys-in-ruby-revealed-5qf3t5l)
+### [102. All The Secrets Of Encrypting API Keys In Ruby Revealed](https://hackernoon.com/all-the-secrets-of-encrypting-api-keys-in-ruby-revealed-5qf3t5l)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-551r28ag.jpeg?alt=media&token=c7407508-0cca-4a0c-9463-7a8f80c084ac)
 
+
+### [103. Setting Up Ruby on Rails On Github Using CircleCI [A How-To Guide]](https://hackernoon.com/setting-up-ruby-on-rails-on-github-using-circleci-a-how-to-guide-4nal328a)
+![](https://cdn.hackernoon.com/images/aa1sd3y9e.jpg)
+This is the ultimate guide for your next Ruby on Rails project setup on Github with CircleCI for continuous integration in 2020.
 
 ### [104. Is Ruby Installed On A Mac? How To Check On macOS Catalina and Big Sur](https://hackernoon.com/is-ruby-installed-on-a-mac-how-to-check-on-macos-catalina-and-big-sur-8p3r33n8)
 ![](https://cdn.hackernoon.com/images/LsGvaPQYa1VJpuIXu9VxJ52CvhT2-we1f337z.jpeg)
@@ -520,13 +522,13 @@ Learn how to use Redis and its geospatial indexes and commands for complex geo c
 ![](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 This is the first part of a 2 series tutorial to setup action mailbox with postfix. In this part, we will implement action mailbox with postfix and test in development.
 
-### [128. Open-sourcing Ferrum: a fearless Ruby Chrome driver](https://hackernoon.com/open-sourcing-ferrum-a-fearless-ruby-chrome-driver-812t3ybr)
-![](https://cdn.hackernoon.com/images/j2jc3y0y.jpg)
-If you want to run integration tests on your website, you have three options: Poltergeist, Selenium and now, a new secret weapon — Ferrum.
-
-### [129. How to Combine two Programming Languages: A Ruby and Golang Tutorial](https://hackernoon.com/how-to-combine-two-programming-languages-a-ruby-and-golang-tutorial)
+### [128. How to Combine two Programming Languages: A Ruby and Golang Tutorial](https://hackernoon.com/how-to-combine-two-programming-languages-a-ruby-and-golang-tutorial)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-pb03p27.jpeg)
 During past projects, I experienced difficulties when developing with a Ruby encryption pack. 
+
+### [129. Open-sourcing Ferrum: a fearless Ruby Chrome driver](https://hackernoon.com/open-sourcing-ferrum-a-fearless-ruby-chrome-driver-812t3ybr)
+![](https://cdn.hackernoon.com/images/j2jc3y0y.jpg)
+If you want to run integration tests on your website, you have three options: Poltergeist, Selenium and now, a new secret weapon — Ferrum.
 
 ### [130. A Recipe For A Checkerboard Styled Page](https://hackernoon.com/a-recipe-for-a-checkerboard-styled-page-cxf3u3z)
 ![](https://cdn.hackernoon.com/images/gozn3v7h.jpg)
@@ -536,21 +538,21 @@ Last week, as part of an assignment for a Ruby on Rails application, I was given
 ![](https://cdn.hackernoon.com/images/5e3hf3yln.jpg)
 In RSpec, there are two different ways to write DRY tests, by using before or let. Their purpose is to create variables that are common across tests. In this post, we will explore differences between before and let and explain why let is preferred by the Ruby community.
 
-### [132. Profiling: the obvious step after Benchmarking your Ruby code.](https://hackernoon.com/profiling-the-obvious-step-after-benchmarking-your-ruby-code-8d183tvk)
+### [132. Building Your Own Programming Language From Scratch: Part X - Exceptions Handling](https://hackernoon.com/building-your-own-programming-language-from-scratch-part-x-exceptions-handling)
+![](https://cdn.hackernoon.com/images/a088Dwhw1pNtxFTtazApdvSQJk03-q6b2lsw.jpeg)
+In this part of creating your programming language, we’ll implement raising exceptions with the stack trace and provide the exceptions handling in Ruby syntax
+
+### [133. Profiling: the obvious step after Benchmarking your Ruby code.](https://hackernoon.com/profiling-the-obvious-step-after-benchmarking-your-ruby-code-8d183tvk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUBNPKUBqvuM01nn4wJOVA8byi8l2-e152u6r.png?alt=media&token=0abc957b-2a22-43e5-a3ce-cae8e13fc077)
 Weeks ago I wrote a post about Benchmarking your Ruby code. I talked about how doing it would improve your coding skills and make you a better programmer. 
 
-### [133. Ruby on Rails is Not Dead! Here's How to Upgrade Ruby Legacy Applications](https://hackernoon.com/ruby-on-rails-is-not-dead-heres-how-to-upgrade-ruby-legacy-applications-p12j37i0)
+### [134. Ruby on Rails is Not Dead! Here's How to Upgrade Ruby Legacy Applications](https://hackernoon.com/ruby-on-rails-is-not-dead-heres-how-to-upgrade-ruby-legacy-applications-p12j37i0)
 ![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-mo3a35vr.jpeg)
 Have you wondered how to modernize your Ruby on Rails? Read the owner’s guide for upgrading legacy software and learn why Ruby is still a good choice in 2021.
 
-### [134. Arrays in Ruby: Benefits and Costs to Use Them](https://hackernoon.com/arrays-in-ruby-benefits-and-costs-to-use-them-8d143u6j)
+### [135. Arrays in Ruby: Benefits and Costs to Use Them](https://hackernoon.com/arrays-in-ruby-benefits-and-costs-to-use-them-8d143u6j)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-nit2897.jpeg?alt=media&token=b31d088d-e461-4b4b-a414-a8ebef69bf9f)
 Data structures are eagerly introduced to new programmers, since they will be using them pretty much through their whole career. Knowing them, how they work, what are they good for, which one to use, are things that can change the performance of your solutions quite vastly.
-
-### [135. Building Your Own Programming Language From Scratch: Part X - Exceptions Handling](https://hackernoon.com/building-your-own-programming-language-from-scratch-part-x-exceptions-handling)
-![](https://cdn.hackernoon.com/images/a088Dwhw1pNtxFTtazApdvSQJk03-q6b2lsw.jpeg)
-In this part of creating your programming language, we’ll implement raising exceptions with the stack trace and provide the exceptions handling in Ruby syntax
 
 ### [136. Circle CI: How To Run Ruby and JavaScript Tests in Parallel](https://hackernoon.com/circle-ci-how-to-run-ruby-and-javascript-tests-in-parallel-he1n31st)
 ![](https://cdn.hackernoon.com/images/E24EbX15XQZvYPaITR5WEGVmupv2-z82a31n3.jpeg)
@@ -560,79 +562,79 @@ Configure the CI server to run parallel tests in the shortest CI build time. Rub
 ![](https://cdn.hackernoon.com/images/magnifying-glass-over-a-document-clj4kfujm000101s68fzr07eh.png)
 In this article, we will explore how to integrate Elasticsearch into a Ruby on Rails application and leverage its advanced features to deliver efficient results
 
-### [138. Ruby and Python: A Tale of Two Strings](https://hackernoon.com/ruby-and-python-a-tale-of-two-strings)
+### [138. Breaking Down The Odin Project’s Ruby Curriculum—One Project at a Time](https://hackernoon.com/breaking-down-the-odin-projects-ruby-curriculumone-project-at-a-time)
+![](https://cdn.hackernoon.com/images/UF3Ri4poFsf3HWltLaPVOxlJ0OW2-qz83bim.png)
+A personal breakdown of my 468-day journey through The Odin Project’s Ruby path. Struggles, projects, lessons learned, and why it was all worth it.
+
+### [139. Ruby and Python: A Tale of Two Strings](https://hackernoon.com/ruby-and-python-a-tale-of-two-strings)
 ![](https://cdn.hackernoon.com/images/XSFGnD4xKsRHcCHwLExU1XJX4U42-qz93rz6.jpeg)
 Unlock Python and Ruby String Magic! Learn the essentials about strings in both languages for elevating your coding skills and conquering string challenges.
 
-### [139. When is Ruby on Rails the Right Choice?](https://hackernoon.com/when-is-ruby-on-rails-the-right-choice-b5163tmr)
+### [140. When is Ruby on Rails the Right Choice?](https://hackernoon.com/when-is-ruby-on-rails-the-right-choice-b5163tmr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2PAguTtQXWXvgDvAhaLSWXDjur73-o0629lk.jpeg?alt=media&token=6b3dcc98-7003-458a-9685-090947f121bb)
 Often side projects or even your main project need to be done quickly and delivered to people and learn from what they've got to say and well-informed decisions instead of endlessly building what you think is the perfect solution.
-
-### [140. What You Need to Know About Ruby on Rails to Start Developing Your First Application](https://hackernoon.com/what-you-need-to-know-about-ruby-on-rails-to-start-developing-your-first-application-rhgx374a)
-![](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Ruby on Rails is a framework based on Ruby programming language, it is mainly used for web development. what do you need to know about it?
 
 ### [141. Sending Emails With Ruby](https://hackernoon.com/sending-emails-with-ruby)
 ![](https://cdn.hackernoon.com/images/bsM9zYoeeNQuIt7EG6jLMc0Ss9Q2-9493j1f.jpeg)
 This tutorial is tailored is aimed at  helping you implement sending emails with Ruby.
 
-### [142. Breaking Down The Odin Project’s Ruby Curriculum—One Project at a Time](https://hackernoon.com/breaking-down-the-odin-projects-ruby-curriculumone-project-at-a-time)
-![](https://cdn.hackernoon.com/images/UF3Ri4poFsf3HWltLaPVOxlJ0OW2-qz83bim.png)
-A personal breakdown of my 468-day journey through The Odin Project’s Ruby path. Struggles, projects, lessons learned, and why it was all worth it.
+### [142. What You Need to Know About Ruby on Rails to Start Developing Your First Application](https://hackernoon.com/what-you-need-to-know-about-ruby-on-rails-to-start-developing-your-first-application-rhgx374a)
+![](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Ruby on Rails is a framework based on Ruby programming language, it is mainly used for web development. what do you need to know about it?
 
 ### [143. Implementing CRUD Using  Ruby On Rails CLI](https://hackernoon.com/implementing-crud-using-ruby-on-rails-cli-4f233u98)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlUIWCnsIcEWiqNUhAQ2KZ1MVrv63-ywbe3w13.jpeg?alt=media&token=4825349f-7673-43db-a904-dba239b6466a)
 Learning to be a Full-Stack web developer in Microverse – a remote software development school domiciled in California had so much taught me a lot like patience, resilience, tenacity and the curiosity to get things done the right way and at the right time. Ruby on rails web application is an application that is somewhat complicated for someone who is getting started in learning how this powerful web application works. But when you get to understand how it works and how to navigate round in building your application with it, you will be glad you did.
 
-### [144. How To Use Named Scopes In Rails](https://hackernoon.com/using-named-scopes-in-rails-slus3y07)
+### [144. Architectural Principles of Error Handling in Ruby](https://hackernoon.com/architectural-principles-of-error-handling-in-ruby)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-hk033g5.webp)
+Let’s go through the different kinds of errors and different approaches and try to find the optimal way how to handle errors properly.
+
+### [145. How To Use Named Scopes In Rails](https://hackernoon.com/using-named-scopes-in-rails-slus3y07)
 ![](https://cdn.hackernoon.com/drafts/3ew63yc6.png)
 Named Scopes are a subset of a collection. I will illustrate this with an example. If you have Users and you wish to find all users who have their account confirmed. This means you will have some sort of column in your database that represents this. Let's assume that the column is user_confirmed. 
-
-### [145. The FAQs of RuboCup](https://hackernoon.com/the-faqs-of-rubocup-rh103t7v)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-sxe3tkd.jpeg?alt=media&token=52cb94c5-b674-457e-bfc4-e9fe22e9ccc1)
-RuboCop is a Ruby static code analyzer and code formatter which helps to track errors easily and fix minor code issues during the development process saving your time. It has many advantages and you can learn more about RuboCop on https://docs.rubocop.org/en/stable/. 
 
 ### [146. A Beginner's Guide to Traefik Tuning for Rails Applications](https://hackernoon.com/a-beginners-guide-to-traefik-tuning-for-rails-applications)
 ![](https://cdn.hackernoon.com/images/a-train-speeding-through-the-night-wkh7zunxqt9pu5z54cl7dvbu.png)
 Traefik is an Edge Router; it means that it’s the door to your platform and that it intercepts and routes every incoming request but does not process requests 
 
-### [147. Extracting Information From Hash in Ruby on Rails](https://hackernoon.com/extracting-information-from-hash-in-ruby-on-rails-f51p3uef)
+### [147. The FAQs of RuboCup](https://hackernoon.com/the-faqs-of-rubocup-rh103t7v)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-sxe3tkd.jpeg?alt=media&token=52cb94c5-b674-457e-bfc4-e9fe22e9ccc1)
+RuboCop is a Ruby static code analyzer and code formatter which helps to track errors easily and fix minor code issues during the development process saving your time. It has many advantages and you can learn more about RuboCop on https://docs.rubocop.org/en/stable/. 
+
+### [148. Extracting Information From Hash in Ruby on Rails](https://hackernoon.com/extracting-information-from-hash-in-ruby-on-rails-f51p3uef)
 ![](https://cdn.hackernoon.com/drafts/e61g3091.png)
 When I was recently working in one of the client project, I had to communicate with external mariadb server to store records from react/rails app, that means I would get activerecord hash from our app which I had to convert to pure sql query and send it to external server for storing.
 
 If you have worked with sql queries previously then you must know that keys and values must be separated for insert operations like
 
-### [148. How to Call a Method in Ruby: 12 Different Ways ](https://hackernoon.com/how-to-call-a-method-in-ruby-12-different-ways-7v3531cd)
+### [149. How to Call a Method in Ruby: 12 Different Ways ](https://hackernoon.com/how-to-call-a-method-in-ruby-12-different-ways-7v3531cd)
 ![](https://cdn.hackernoon.com/images/J02wLUAg9qdpEaClVLYeyVVVZuR2-zj5b25lt.jpeg)
 Ruby is one of the more flexible and versatile language. In this short experiment I come up with different ways to call the same method in Ruby.
 
-### [149. How to Setup a Free GitHub Page with Jekyll](https://hackernoon.com/how-to-setup-a-free-github-page-with-jekyll-ic3n3w4l)
+### [150. How to Setup a Free GitHub Page with Jekyll](https://hackernoon.com/how-to-setup-a-free-github-page-with-jekyll-ic3n3w4l)
 ![](https://cdn.hackernoon.com/drafts/582v3wcv.png)
 This is a quick tutorial on how to create a GitHub page and learn some tricks on how to perfect it. I will be going through the steps of how I created my GitHub page.
-
-### [150. Architectural Principles of Error Handling in Ruby](https://hackernoon.com/architectural-principles-of-error-handling-in-ruby)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-hk033g5.webp)
-Let’s go through the different kinds of errors and different approaches and try to find the optimal way how to handle errors properly.
 
 ### [151. Should Deploying Production Infrastructure be Hard?](https://hackernoon.com/deploying-production-infrastructure-should-it-be-hard-ad5ze3288)
 ![](https://cdn.hackernoon.com/images/79l324r.jpg)
 Below I'll explain why I built terra_boi to deploy Clientelify, why I think it was downloaded 1,000 times in the first 10 days (despite not promoting it anywhere), and why deploying an application to production shouldn't suck.
 
-### [152. Testing  on Ruby on Rails [A How-To Guide]](https://hackernoon.com/testing-on-ruby-on-rails-a-how-to-guide-ox2u3y3i)
-![](https://cdn.hackernoon.com/images/zc1s26w4.jpg)
-The testing stage is a very important step in the software development life-cycle of any application. It helps software developers detect and fix bugs much earlier in the development process.
-
-### [153. How I Made a Ten Line Ruby Script to Get My 1st Jab](https://hackernoon.com/how-i-made-a-ten-line-ruby-script-to-get-my-1st-jab-0q6o31hf)
+### [152. How I Made a Ten Line Ruby Script to Get My 1st Jab](https://hackernoon.com/how-i-made-a-ten-line-ruby-script-to-get-my-1st-jab-0q6o31hf)
 ![](https://cdn.hackernoon.com/images/urXXuvx13FewEHbKSbD0UhxWJNm2-45j3425.jpeg)
 Use a Ruby script to get the jab in India
 
-### [154. Learning RegEx Basics in Ruby](https://hackernoon.com/learning-regex-basics-in-ruby-4qel3y5i)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ho82qjc.jpeg)
-Find patterns in strings is a common problem for developers. One of the main scenarios where you could need this is on form validations, has the email the right structure? has the user first name any invalid character?. That's where regular expressions appear.
+### [153. Testing  on Ruby on Rails [A How-To Guide]](https://hackernoon.com/testing-on-ruby-on-rails-a-how-to-guide-ox2u3y3i)
+![](https://cdn.hackernoon.com/images/zc1s26w4.jpg)
+The testing stage is a very important step in the software development life-cycle of any application. It helps software developers detect and fix bugs much earlier in the development process.
 
-### [155. How To Add Action Mailbox To A Rails 6 Application](https://hackernoon.com/how-to-add-action-mailbox-to-a-rails-6-application-6x193ukg)
+### [154. How To Add Action Mailbox To A Rails 6 Application](https://hackernoon.com/how-to-add-action-mailbox-to-a-rails-6-application-6x193ukg)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-8o724xuk.jpeg?alt=media&token=a2fc09f8-0331-4d8a-adb2-558eb4ab3b49)
 Sending mail from a Rails application has been covered by hundreds or thousands of articles, however, there is not a ton of articles about receiving, parsing and using the new ActionMailbox.
+
+### [155. Learning RegEx Basics in Ruby](https://hackernoon.com/learning-regex-basics-in-ruby-4qel3y5i)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ho82qjc.jpeg)
+Find patterns in strings is a common problem for developers. One of the main scenarios where you could need this is on form validations, has the email the right structure? has the user first name any invalid character?. That's where regular expressions appear.
 
 ### [156. A Guide to Remote Working as a Beginner](https://hackernoon.com/a-guide-to-remote-working-as-a-beginner-z41p3y3o)
 ![](https://images.unsplash.com/photo-1499290731724-12e120cfaef3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -646,17 +648,17 @@ This tutorial shows how to perform basic select queries to interact with MySQL S
 ![](https://cdn.hackernoon.com/drafts/1co32h6.png)
 I wouldn’t like to carry out the same long and boring known task after somebody told me that there is a better and shorter way of doing the same.
 
-### [159. A Refactoring Guide for Ruby on Rails](https://hackernoon.com/a-refactoring-guide-for-ruby-on-rails-lvx3yb4)
+### [159. How I Landed My First Client Midway Through The Odin Project](https://hackernoon.com/how-i-landed-my-first-client-midway-through-the-odin-project)
+![](https://cdn.hackernoon.com/images/UF3Ri4poFsf3HWltLaPVOxlJ0OW2-fo13c63.png)
+Aspiring devs; read how I landed my first freelance client halfway through The Odin Project journey, proof that persistence pays off!
+
+### [160. A Refactoring Guide for Ruby on Rails](https://hackernoon.com/a-refactoring-guide-for-ruby-on-rails-lvx3yb4)
 ![](https://cdn.hackernoon.com/drafts/ihf63wf3.png)
 “Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live” — John F. Woods
 
-### [160. Closure in Ruby and Javascript](https://hackernoon.com/closure-in-ruby-and-javascript-5oh3217)
+### [161. Closure in Ruby and Javascript](https://hackernoon.com/closure-in-ruby-and-javascript-5oh3217)
 ![](https://cdn.hackernoon.com/drafts/kwo532nv.png)
 What is closure
-
-### [161. How I Landed My First Client Midway Through The Odin Project](https://hackernoon.com/how-i-landed-my-first-client-midway-through-the-odin-project)
-![](https://cdn.hackernoon.com/images/UF3Ri4poFsf3HWltLaPVOxlJ0OW2-fo13c63.png)
-Aspiring devs; read how I landed my first freelance client halfway through The Odin Project journey, proof that persistence pays off!
 
 ### [162. Speed ​​Up Your Development Time With Queries in Ruby on Rails](https://hackernoon.com/speed-up-your-development-time-with-queries-in-ruby-on-rails-ol4l3vg0)
 ![](https://cdn.hackernoon.com/images/00s3ypu.jpg)
@@ -690,25 +692,25 @@ Some things you do as a developer can work for you for years, then turn around a
 ![](https://cdn.hackernoon.com/images/9FAqWzUIAWRsUQx3CGAg58oiU9w1-ni83abk.jpeg)
 An analysis of Ruby Gems download trends (2013-2023), showing rapid growth from 2019, likely linked to CI/CD adoption and Ruby's rising popularity.
 
-### [170. Take a Ride on the Ruby Rails Express — Understanding The MVC Architecture](https://hackernoon.com/take-a-ride-on-the-ruby-rails-express-understanding-the-mvc-architecture-0i9c35i1)
-![](https://cdn.hackernoon.com/images/xIc4qf71fQZOmjmWzsdfFDw6NIq2-r5o219o2.jpeg)
-A quick story explaining the Ruby on Rails MVC architecture. You find yourself at the Ruby on Rails train station exploring the MVC architecture.
-
-### [171. Google Developer Expert Phil Nash is Nominated for Ruby on Rails "Thinker of the Year"](https://hackernoon.com/google-developer-expert-phil-nash-is-nominated-for-ruby-on-rails-thinker-of-the-year-134i3uif)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-6e463ub1.jpeg?alt=media&token=7ce5c217-d27e-4320-a666-03acef96a00e)
-Among the 2,000+ deserving humans nominated across 5 categories for over 200 award titles in this year's Noonies, we discovered Phil Nash from the United states. 
-
-### [172. Falling in Love with Ruby: Getting Started with The Odin Project](https://hackernoon.com/falling-in-love-with-ruby-getting-started-with-the-odin-project)
+### [170. Falling in Love with Ruby: Getting Started with The Odin Project](https://hackernoon.com/falling-in-love-with-ruby-getting-started-with-the-odin-project)
 ![](https://cdn.hackernoon.com/images/UF3Ri4poFsf3HWltLaPVOxlJ0OW2-u30378l.png)
 Discover my journey into Ruby with The Odin Project! From installation to mastering OOP, learn how I fell in love with this elegant, developer-friendly language
 
-### [173. Optimizing OpenTelemetry Tracing with Multi-Stack Warehouse Components](https://hackernoon.com/optimizing-opentelemetry-tracing-with-multi-stack-warehouse-components)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-4ad2muc.jpeg)
+### [171. Take a Ride on the Ruby Rails Express — Understanding The MVC Architecture](https://hackernoon.com/take-a-ride-on-the-ruby-rails-express-understanding-the-mvc-architecture-0i9c35i1)
+![](https://cdn.hackernoon.com/images/xIc4qf71fQZOmjmWzsdfFDw6NIq2-r5o219o2.jpeg)
+A quick story explaining the Ruby on Rails MVC architecture. You find yourself at the Ruby on Rails train station exploring the MVC architecture.
 
+### [172. Google Developer Expert Phil Nash is Nominated for Ruby on Rails "Thinker of the Year"](https://hackernoon.com/google-developer-expert-phil-nash-is-nominated-for-ruby-on-rails-thinker-of-the-year-134i3uif)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-6e463ub1.jpeg?alt=media&token=7ce5c217-d27e-4320-a666-03acef96a00e)
+Among the 2,000+ deserving humans nominated across 5 categories for over 200 award titles in this year's Noonies, we discovered Phil Nash from the United states. 
 
-### [174. The First-Person Sequel and Roda Insights from the Lead Dev: an Exclusive Interview with Jeremy Evan](https://hackernoon.com/the-first-person-sequel-and-roda-insights-from-the-lead-dev-an-exclusive-interview-with-jeremy-evan-ii15337b)
+### [173. The First-Person Sequel and Roda Insights from the Lead Dev: an Exclusive Interview with Jeremy Evan](https://hackernoon.com/the-first-person-sequel-and-roda-insights-from-the-lead-dev-an-exclusive-interview-with-jeremy-evan-ii15337b)
 ![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-r51533aq.jpeg)
 Jeremy Evans is the lead developer of the Sequel database library, the Roda web toolkit, the Rodauth authentication framework, and many other Ruby libraries. He
+
+### [174. Optimizing OpenTelemetry Tracing with Multi-Stack Warehouse Components](https://hackernoon.com/optimizing-opentelemetry-tracing-with-multi-stack-warehouse-components)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-4ad2muc.jpeg)
+
 
 ### [175. 6 Tips for Taking Ownership of a Legacy Rails Project](https://hackernoon.com/legacy-rails-application-surviving-guide-top-6-tips-qf1h34ou)
 ![](https://cdn.hackernoon.com/images/9xpauPIeEyQRYUDnm7rOBnWGLyD2-qf1628ne.jpeg)
@@ -718,45 +720,45 @@ Becoming the owner of a legacy Rails app can mean inheriting a project bogged do
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaHcUME45O0Sw3JLt9OGFJpazIvO2-iq828rd.jpeg?alt=media&token=51008b91-f8e5-460e-b741-4df01203fb4d)
 Ruby is one of the popular programming languages which was developed by Yukihiro Matsumoto in the mid-1990s. Ruby is a general-purpose language and is easy to learn. So, today we will be talking about the top 14 most asked questions about Ruby.
 
-### [177. When Time is of the Essence, These are the 19 Gems I Reach For](https://hackernoon.com/when-time-is-of-the-essence-these-are-the-19-gems-i-reach-for-5w4g3zvf)
+### [177. Active Record Validations In Rails: How They Work](https://hackernoon.com/active-record-validations-in-rails-how-they-work-e32i34ef)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-fj2a346s.jpeg)
+ver open up a Rails console to debug a problem and come away wondering how the data got so funky? Despite our best efforts the database will accept plenty of garbage data if you let it. There are tons of methods to bypass the Rails callbacks and validations while still updating your database. If you are like me you have probably used these methods in the Rails console to fix some of that funky data you found after some other code created it in the first place.
+
+### [178. When Time is of the Essence, These are the 19 Gems I Reach For](https://hackernoon.com/when-time-is-of-the-essence-these-are-the-19-gems-i-reach-for-5w4g3zvf)
 ![](https://cdn.hackernoon.com/images/ul423zxe.jpg)
 An application can only be as good as the features it is providing for its end-users. Every developer toes the line between indiscriminately adding gems and building new functionality themselves. When time is of the essence, these are the gems I reach for:
 
-### [178. "Rust Isn’t Afraid to be Imperfect as Long as we Ship something Useful" - Steve Klabnik](https://hackernoon.com/rust-isnt-afraid-to-be-imperfect-as-long-as-we-ship-something-useful-steve-klabnik-bj193wgp)
+### [179. "Rust Isn’t Afraid to be Imperfect as Long as we Ship something Useful" - Steve Klabnik](https://hackernoon.com/rust-isnt-afraid-to-be-imperfect-as-long-as-we-ship-something-useful-steve-klabnik-bj193wgp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOlBBYiAclpfCGPi4fQnz4uL5Xa53-o6333uqr.jpeg?alt=media&token=d4634d2c-bb05-40a8-9c27-7974bcb2b4c3)
 Steve Klabnik is a member of the Rust core team, an active open-source contributor, and author of The Rust Programming Language, Rails 4 in Action, and Designing Hypermedia APIs books. In 2012 and 2016, we invited Steve to speak at the RailsClub (now RubyRussia) conference. Since then, Steve has been working on Rust a lot, did a lot of interesting things and we realized that we should definitely interview him once again!
 
-### [179. How To Avoid N + 1 problem in Rails](https://hackernoon.com/how-to-avoid-n-1-problem-in-rails-ksw3u1g)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FjgEn4pl8zcXh7o5u4rDJGThDZWL2-h39s23e1.png?alt=media&token=f513cb6d-4a30-4be1-b59e-653ef932a408)
-Almost any app that we build has a lot of interactive options with a lot of data, to this we can also have conditions to which data should we show to what type of user, making us request data from different tables based on a unique identifier, if the queries are not handled in a proper manner this can slow down the loading, and that is because of the "N + 1" problem.
-
-### [180. Active Record Validations In Rails: How They Work](https://hackernoon.com/active-record-validations-in-rails-how-they-work-e32i34ef)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-fj2a346s.jpeg)
-ver open up a Rails console to debug a problem and come away wondering how the data got so funky? Despite our best efforts the database will accept plenty of garbage data if you let it. There are tons of methods to bypass the Rails callbacks and validations while still updating your database. If you are like me you have probably used these methods in the Rails console to fix some of that funky data you found after some other code created it in the first place.
+### [180. Test Driven Development and Rails Era Best Practices Could Improve AI Generated Code](https://hackernoon.com/test-driven-development-and-rails-era-best-practices-could-improve-ai-generated-code)
+![](https://cdn.hackernoon.com/images/4NtFMVgMofW6YcgieEcjA5Tzhxb2-pq02pzz.jpeg)
+Following TDD and strict software engineering practices popular in the ruby on rails community helps AI generate better code
 
 ### [181. From Real Estate to Ruby: My Journey of Reinvention and Discovery](https://hackernoon.com/from-real-estate-to-ruby-my-journey-of-reinvention-and-discovery)
 ![](https://cdn.hackernoon.com/images/UF3Ri4poFsf3HWltLaPVOxlJ0OW2-9mf35vk.png)
 On a journey from real estate to learning Ruby, I'm still figuring it out. This is about why I chose coding, the challenges I face, and what keeps me going.
 
-### [182. Here's How I Keep Myself Motivated While Learning Ruby (Even When It’s Hard)](https://hackernoon.com/heres-how-i-keep-myself-motivated-while-learning-ruby-even-when-its-hard)
+### [182. How To Avoid N + 1 problem in Rails](https://hackernoon.com/how-to-avoid-n-1-problem-in-rails-ksw3u1g)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FjgEn4pl8zcXh7o5u4rDJGThDZWL2-h39s23e1.png?alt=media&token=f513cb6d-4a30-4be1-b59e-653ef932a408)
+Almost any app that we build has a lot of interactive options with a lot of data, to this we can also have conditions to which data should we show to what type of user, making us request data from different tables based on a unique identifier, if the queries are not handled in a proper manner this can slow down the loading, and that is because of the "N + 1" problem.
+
+### [183. Here's How I Keep Myself Motivated While Learning Ruby (Even When It’s Hard)](https://hackernoon.com/heres-how-i-keep-myself-motivated-while-learning-ruby-even-when-its-hard)
 ![](https://cdn.hackernoon.com/images/UF3Ri4poFsf3HWltLaPVOxlJ0OW2-0w13813.png)
 Staying motivated while learning Ruby isn’t easy! Here’s how I push through tough days, avoid burnout, and keep moving forward on my coding journey.
 
-### [183. 7 Ruby Security Pitfalls And How To Avoid Them](https://hackernoon.com/7-ruby-security-pitfalls-and-how-to-avoid-them-c9c34dq)
+### [184. 7 Ruby Security Pitfalls And How To Avoid Them](https://hackernoon.com/7-ruby-security-pitfalls-and-how-to-avoid-them-c9c34dq)
 ![](https://cdn.hackernoon.com/images/0I6R35A9RIUYkz5dLhzMlFeYfki2-816k31ax.png)
 Ruby is a very versatile language. It combines the simplicity of an elegant syntax with powerful features such as support (and encouragement) for monkey patching. 
 
-### [184. Test Driven Development and Rails Era Best Practices Could Improve AI Generated Code](https://hackernoon.com/test-driven-development-and-rails-era-best-practices-could-improve-ai-generated-code)
-![](https://cdn.hackernoon.com/images/4NtFMVgMofW6YcgieEcjA5Tzhxb2-pq02pzz.jpeg)
-Following TDD and strict software engineering practices popular in the ruby on rails community helps AI generate better code
-
-### [185. You Will Thank Us Later: The Hidden Waffle Secrets You Need To Know](https://hackernoon.com/you-will-thank-us-later-the-hidden-waffle-secrets-you-need-to-know-fwo3t3c)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOlBBYiAclpfCGPi4fQnz4uL5Xa53-dl493tse.jpeg?alt=media&token=9161d9ea-e341-4749-b018-3963396672d6)
-Do you work on Elixir projects that need to handle file uploads from users?
-
-### [186. The Noonification: Buh-Bye Webpack and Node.js, Hello Rails and Import Maps (8/7/2024)](https://hackernoon.com/8-7-2024-noonification)
+### [185. The Noonification: Buh-Bye Webpack and Node.js, Hello Rails and Import Maps (8/7/2024)](https://hackernoon.com/8-7-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_261_qelk4ststwh01xuxy2dxw8kp.png)
 8/7/2024: Top 5 stories on the HackerNoon homepage!
+
+### [186. You Will Thank Us Later: The Hidden Waffle Secrets You Need To Know](https://hackernoon.com/you-will-thank-us-later-the-hidden-waffle-secrets-you-need-to-know-fwo3t3c)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOlBBYiAclpfCGPi4fQnz4uL5Xa53-dl493tse.jpeg?alt=media&token=9161d9ea-e341-4749-b018-3963396672d6)
+Do you work on Elixir projects that need to handle file uploads from users?
 
 ### [187. Testing Signed and Encrypted Cookies in Rails Application](https://hackernoon.com/testing-signed-and-encrypted-cookies-in-rails-application-358z369v)
 ![](https://cdn.hackernoon.com/images/7x672ejq.jpg)
@@ -775,29 +777,29 @@ Blog App](https://hackernoon.com/integrating-a-voting-system-into-your-blog-app-
 ![](https://images.unsplash.com/photo-1553532435-93d532a45f15?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 This article is about adding a voting system to your blog app, where users can vote or not vote an article. We all want to allow users to show their interest and react to an article through voting and also get the article with the highest vote. So let’s get started.
 
-### [191. Introduction to Ruby Conditionals](https://hackernoon.com/introduction-to-ruby-conditionals-np2r24d3)
-![](https://cdn.hackernoon.com/drafts/1ij8u3yu7.png)
-Our daily life contains a set of conditionals whose job is to define us as individuals, these conditionals are introduced to us from the very first day:
-
-### [192. A Dive into Active Record Connection Pools and Horizontal Sharding in a Gem](https://hackernoon.com/a-dive-into-active-record-connection-pools-and-horizontal-sharding-in-a-gem-en2632ze)
+### [191. A Dive into Active Record Connection Pools and Horizontal Sharding in a Gem](https://hackernoon.com/a-dive-into-active-record-connection-pools-and-horizontal-sharding-in-a-gem-en2632ze)
 ![](https://cdn.hackernoon.com/images/mcZnBQiadrRfU5UbF2HzcL7zKiB2-vje340o.jpeg)
 Rails is a great framework that enables us to avoid grungy but essential topics like database connection pooling with all the inherent complexities of multi-threading and error handling.
+
+### [192. Introduction to Ruby Conditionals](https://hackernoon.com/introduction-to-ruby-conditionals-np2r24d3)
+![](https://cdn.hackernoon.com/drafts/1ij8u3yu7.png)
+Our daily life contains a set of conditionals whose job is to define us as individuals, these conditionals are introduced to us from the very first day:
 
 ### [193. An Introduction to Ruby Conditionals](https://hackernoon.com/an-introduction-to-ruby-conditionals-b14j321l)
 ![](https://cdn.hackernoon.com/images/1ij8u3yu7.jpg)
 Our daily life contains a set of conditionals whose job is to define us as individuals, these conditionals are introduced to us from the very first day:
 
-### [194. Why you should check the performance of your code?](https://hackernoon.com/why-you-should-check-the-performance-of-your-code-b62ot3szb)
-![](https://cdn.hackernoon.com/drafts/sc1c03skl.png)
-Just like most of you, I usually don't care the performance of my codes. Until one day, I saw the comparison between my code and my teammates', I changed my mind since. 
-
-### [195. How to Connect With External MySQL Servers (Part 2: Insert & Update Operations)](https://hackernoon.com/how-to-connect-with-external-mysql-servers-part-2-insert-and-update-operations-dy4j31li)
+### [194. How to Connect With External MySQL Servers (Part 2: Insert & Update Operations)](https://hackernoon.com/how-to-connect-with-external-mysql-servers-part-2-insert-and-update-operations-dy4j31li)
 ![](https://cdn.hackernoon.com/images/aHcUME45O0Sw3JLt9OGFJpazIvO2-lna28a4.jpeg)
 This is the second part of the series where we perform insert and update operations to interact with the MySQL server in Rails using MySQL2 gem. 
 
-### [196. Making Friends with RuboCop: Ruby Static Code Analyzer](https://hackernoon.com/making-friends-with-rubocop-ruby-static-code-analyzer-rp9c36wr)
+### [195. Making Friends with RuboCop: Ruby Static Code Analyzer](https://hackernoon.com/making-friends-with-rubocop-ruby-static-code-analyzer-rp9c36wr)
 ![](https://images.unsplash.com/photo-1543941869-11da6518d88f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 At Memory.ai, we started using RuboCop heavily. This is a story of how we integrated RuboCop into our existing app. 
+
+### [196. Why you should check the performance of your code?](https://hackernoon.com/why-you-should-check-the-performance-of-your-code-b62ot3szb)
+![](https://cdn.hackernoon.com/drafts/sc1c03skl.png)
+Just like most of you, I usually don't care the performance of my codes. Until one day, I saw the comparison between my code and my teammates', I changed my mind since. 
 
 ### [197. JohnnyTheCoder Cares About the Environment; Getting People Hired](https://hackernoon.com/johnnythecoder-cares-about-the-environment-getting-people-hired-tcbz3txc)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-zp9k3tg2.jpeg?alt=media&token=98e39c70-b198-41f5-a9eb-1fb7fed7ac4c)
@@ -807,15 +809,19 @@ John Selawsky (US) is a coding tutor and 4x Hacker Noon Awards Nominee who’s b
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOlBBYiAclpfCGPi4fQnz4uL5Xa53-6x193tn3.jpeg?alt=media&token=eb1351be-f4b4-4afc-8f6f-af8adfc6031d)
 Vessel is a fast, open source, high-level, web crawling and scraping framework for Ruby, built on top of Ferrum — a minimal-dependency pure-Ruby driver for running headless Google Chrome instances.
 
-### [199. Pending Cops in Rubocop to Make Upgrade Easier [Project Update]](https://hackernoon.com/pending-cops-in-rubocop-to-make-upgrade-easier-project-update-859732du)
+### [199. Why One-Person SaaS Builders Should Pick Ruby](https://hackernoon.com/why-one-person-saas-builders-should-pick-ruby)
+![](https://cdn.hackernoon.com/images/K81fryK5pbeCqWnsy8CksERnpcz1-6c82y6p.webp)
+Python dominates AI and data science, but Ruby still shines for SaaS, readability, and developer happiness. Here’s why builders keep choosing it.
+
+### [200. Pending Cops in Rubocop to Make Upgrade Easier [Project Update]](https://hackernoon.com/pending-cops-in-rubocop-to-make-upgrade-easier-project-update-859732du)
 ![](https://images.unsplash.com/photo-1543286386-713bdd548da4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Whenever a new version of Rubocop comes out, there are always some new cops. If our code is not compatible with new cops, then the rubocop build fails. With every new release, we have to spend time to make our code compatible with the new cops. Well not any more!
 
-### [200. How to Create a Stock Market Price Watcher Using Ruby](https://hackernoon.com/how-to-create-a-stock-market-price-watcher-using-ruby-q6e23zoe)
+### [201. How to Create a Stock Market Price Watcher Using Ruby](https://hackernoon.com/how-to-create-a-stock-market-price-watcher-using-ruby-q6e23zoe)
 ![](https://cdn.hackernoon.com/drafts/9s15k3ys1.png)
 For my first ever wrote article, I've decided to write about web scraping and how I built a Stock Market Watcher using Ruby and Nokogiri Gem.
 
-### [201. Do Not Add Database Index If It Already Exists in Rails](https://hackernoon.com/do-not-add-database-index-if-it-already-exists-in-rails-a03q32bj)
+### [202. Do Not Add Database Index If It Already Exists in Rails](https://hackernoon.com/do-not-add-database-index-if-it-already-exists-in-rails-a03q32bj)
 ![](https://images.unsplash.com/photo-1566134101508-13059be7d678?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Rails 6 added an option if_not_exists to the create_table method which will not create the table if it already exists.  This option is handy when we have added a table directly in production but now want to add it through a migration so that it is available in other environments as well.
 

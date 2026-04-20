@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [gaming-fellowship](https://hackernoon.com/tagged/gaming-fellowship)
+### Let's learn about [Gaming Fellowship](https://hackernoon.com/tagged/gaming-fellowship) via these 290 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 HackerNoon runs a blogging fellowship to help people become better writers. Here are the stories from the gaming fellows!
 
 ### [1. 9 Best Body Mods for Skyrim](https://hackernoon.com/9-best-body-mods-for-skyrim-bp11337p)
@@ -91,13 +93,13 @@ If you’re looking for a cool Minecraft dragon mod, then Ice and Fire: Dragons,
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-xyl33lh.jpeg)
 There are plenty of Fallout 4 Armor Mods on the Nexus. We have 7 of the best mods here on this list ranging from lore-friendly to modern miltary.
 
-### [23. MH Rise Weapons Ranked by Speedrun Performance](https://hackernoon.com/mh-rise-weapons-ranked-by-speedrun-performance-wi1e2441)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-0lk34ab.jpeg)
-Monster Hunter (MH) Rise is all about, well, hunting monsters. The game has an impressive variety of dangerous beasts with unique mechanics, behaviors and even compelling animations. Unfortunately for them, we’re not talking about how amazing they are. We’re talking about which weapon works best with killing them. 
-
-### [24. 10 Cutest Pink Pokémon of All Time](https://hackernoon.com/10-cutest-pink-pokemon-of-all-time-2y2e3735)
+### [23. 10 Cutest Pink Pokémon of All Time](https://hackernoon.com/10-cutest-pink-pokemon-of-all-time-2y2e3735)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-h51v37vs.jpeg)
 The franchise has many adorable cute pink Pokémon in its roster. Such as Jigglypuff, Mew and Slowpoke.
+
+### [24. MH Rise Weapons Ranked by Speedrun Performance](https://hackernoon.com/mh-rise-weapons-ranked-by-speedrun-performance-wi1e2441)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-0lk34ab.jpeg)
+Monster Hunter (MH) Rise is all about, well, hunting monsters. The game has an impressive variety of dangerous beasts with unique mechanics, behaviors and even compelling animations. Unfortunately for them, we’re not talking about how amazing they are. We’re talking about which weapon works best with killing them. 
 
 ### [25. Destiny 2: Darkness in the Light Quest Guide ](https://hackernoon.com/destiny-2-darkness-in-the-light-quest-guide-4j1f379l)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-1g1g35ji.jpeg)
@@ -364,13 +366,13 @@ The Gigabyte, Strix, and ASUS ROG Zephyrus are some of the best gaming laptops w
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-8wow35hu.jpeg)
 The Nintendo Wii is an incredibly successful video game console. Its games have also been successful, with the best Wii games selling over 35 million.
 
-### [91. 5 Best Roblox Survival Games](https://hackernoon.com/5-best-roblox-survival-games-is1o34xo)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-kqn344i.jpeg)
-Survival games are some of the most fun you can have on Roblox. Here are five paticularly fun ones to challenge yourself with. See if you can survive them!
-
-### [92. How to Show FPS in Apex Legends on PC](https://hackernoon.com/how-to-show-fps-in-apex-legends-on-pc-r81l34k9)
+### [91. How to Show FPS in Apex Legends on PC](https://hackernoon.com/how-to-show-fps-in-apex-legends-on-pc-r81l34k9)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-2t4i345t.jpeg)
 There are more than a few ways to show FPS in Apex Legends on PC. Here are three paticularly easy ways to see it as well as an explanation of what they tell you
+
+### [92. 5 Best Roblox Survival Games](https://hackernoon.com/5-best-roblox-survival-games-is1o34xo)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-kqn344i.jpeg)
+Survival games are some of the most fun you can have on Roblox. Here are five paticularly fun ones to challenge yourself with. See if you can survive them!
 
 ### [93. 25 Best Fire Emblem Three Houses Memes ](https://hackernoon.com/25-best-fire-emblem-three-houses-memes-2v1a24qw)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-oi3n3421.jpeg)
@@ -468,13 +470,13 @@ An early look at the new Instinct Full Size Gaming Headset Deluxe Edition for Pl
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-iy4d35tz.jpeg)
 The E3 2021 Nintendo direct could be a big one; it is likely the company could reveal potential new games while showcasing anticipated games such as BOTW2.
 
-### [117. 5 Best Superhero Video Games from Marvel](https://hackernoon.com/5-best-superhero-video-games-from-marvel-c11i37y1)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-amu355y.jpeg)
-The list of Marvel's best superhero games is a mixed bag of fighting games, puzzle games, and action games. Take a look at the titles that made the cut. 
-
-### [118. How to Find the Monster Hunter World (MHW) Warped Bone and How to Use It](https://hackernoon.com/how-to-find-the-monster-hunter-world-mhw-warped-bone-and-how-to-use-it-qz1j334b)
+### [117. How to Find the Monster Hunter World (MHW) Warped Bone and How to Use It](https://hackernoon.com/how-to-find-the-monster-hunter-world-mhw-warped-bone-and-how-to-use-it-qz1j334b)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-c33i32cb.jpeg)
 The Monster Hunter World (MHW) Warped Bone can be found in the Rotten Vale and can be used to craft high-level armour, weapons and charms.
+
+### [118. 5 Best Superhero Video Games from Marvel](https://hackernoon.com/5-best-superhero-video-games-from-marvel-c11i37y1)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-amu355y.jpeg)
+The list of Marvel's best superhero games is a mixed bag of fighting games, puzzle games, and action games. Take a look at the titles that made the cut. 
 
 ### [119. 460 Stories To Learn About Video Games](https://hackernoon.com/460-stories-to-learn-about-video-games)
 ![](https://cdn.hackernoon.com/images/github/video-games-17.png)
@@ -488,37 +490,37 @@ The Entertainment Software Association has confirmed more guests, panels, and ev
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-5ul33fd.jpeg)
 Skybound Entertainment has revealed a new tower defense mobile game based on The Walking Dead franchise called The Walking Dead: Survivors.
 
-### [122. New Date for New Batman Game: Gotham Knights Delayed to 2022](https://hackernoon.com/new-date-for-new-batman-game-gotham-knights-delayed-to-2022-lz1u336w)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0z1k29qy.jpeg)
-Gotham Knights has been delayed to 2022. The official Twitter account of Gotham Knights announced that they’ll have to delay the game until next year.
-
-### [123. How to Find and Use the Pokémon Sword Destiny Knot ](https://hackernoon.com/how-to-find-and-use-the-pokemon-sword-destiny-knot-1t2434sm)
+### [122. How to Find and Use the Pokémon Sword Destiny Knot ](https://hackernoon.com/how-to-find-and-use-the-pokemon-sword-destiny-knot-1t2434sm)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-ky4z34aj.jpeg)
 You can find the Pokémon Sword Destiny Knot in a BP store,  Cramomatic. and through the  through the pickup ability. It can be used for breeding and infatuation
+
+### [123. New Date for New Batman Game: Gotham Knights Delayed to 2022](https://hackernoon.com/new-date-for-new-batman-game-gotham-knights-delayed-to-2022-lz1u336w)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0z1k29qy.jpeg)
+Gotham Knights has been delayed to 2022. The official Twitter account of Gotham Knights announced that they’ll have to delay the game until next year.
 
 ### [124. 5 of the Best Boss Themes in Gaming History](https://hackernoon.com/5-of-the-best-boss-themes-in-gaming-history-1b7p3362)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-g97733bn.jpeg)
 What is the best boss theme in gaming? We discuss 5 of the best boss battle tracks in video game history.
 
-### [125. PlayStation Discord Partnership Announced ](https://hackernoon.com/playstation-discord-partnership-announced-vf183416)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-tp1v34tr.jpeg)
-A PlayStation Discord partnership was announced, but what does this mean for the future of both companies?
-
-### [126. 6 Games That Everyone Should Play at Least Once](https://hackernoon.com/6-games-that-everyone-should-play-at-least-once-693033t6)
+### [125. 6 Games That Everyone Should Play at Least Once](https://hackernoon.com/6-games-that-everyone-should-play-at-least-once-693033t6)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-lh2p28ry.jpeg)
 There are some games that everyone should experience at least once. We discuss which games those should be and our reason why.
+
+### [126. PlayStation Discord Partnership Announced ](https://hackernoon.com/playstation-discord-partnership-announced-vf183416)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-tp1v34tr.jpeg)
+A PlayStation Discord partnership was announced, but what does this mean for the future of both companies?
 
 ### [127. 5 Underrated Video Games Everyone Should Try](https://hackernoon.com/5-underrated-video-games-everyone-should-try-n43w33b0)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ft2o33v3.jpeg)
 What game do you consider underrated and why? We discuss the most underrated video games in gaming.
 
-### [128. The Callisto Protocol: Skybound Entertainment Forms Partnership for New Survival Horror Game](https://hackernoon.com/the-callisto-protocol-skybound-entertainment-forms-partnership-for-new-survival-horror-game-w9o33e0)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-c31a337u.jpeg)
-Skybound Entertainment has announced a partnership with Striking Distance Studios to serve as a strategic partner for The Callisto Protocol.
-
-### [129. Is Virtual Reality Still a Niche Within the Games Industry?](https://hackernoon.com/is-virtual-reality-still-a-niche-within-the-games-industry-fh1j33xf)
+### [128. Is Virtual Reality Still a Niche Within the Games Industry?](https://hackernoon.com/is-virtual-reality-still-a-niche-within-the-games-industry-fh1j33xf)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-dqn332ol.jpeg)
 The HackerNoon community discusses whether virtual reality is still a niche within the gaming space and how long it will take for VR to become mainstream.
+
+### [129. The Callisto Protocol: Skybound Entertainment Forms Partnership for New Survival Horror Game](https://hackernoon.com/the-callisto-protocol-skybound-entertainment-forms-partnership-for-new-survival-horror-game-w9o33e0)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-c31a337u.jpeg)
+Skybound Entertainment has announced a partnership with Striking Distance Studios to serve as a strategic partner for The Callisto Protocol.
 
 ### [130. The New Mortal Kombat Movie in 2021: 5 Characters We Want to See](https://hackernoon.com/the-new-mortal-kombat-movie-in-2021-5-characters-we-want-to-see-5d1o33dt)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ol3s28yr.jpeg)
@@ -532,29 +534,29 @@ There are games so good that you wish you could relive it. We discuss what some 
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-qyb321o.jpeg)
 How to find all the new bunker locations in Call of Duty: Warzone located near Arklov Peak Military Base, Novi Grazna Hills, and Styor Park.
 
-### [133. Rust Coming to PS4 and Xbox: Rust Console Date Details](https://hackernoon.com/rust-coming-to-ps4-and-xbox-rust-console-date-details-f91333rn)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-gyo28hx.jpeg)
-Rust is finally on its way to Xbox and Playstation. Here's details on the Rust console date.
-
-### [134. Marvel Future Fight Adds Mephisto, New Costumes & More in March Update](https://hackernoon.com/marvel-future-fight-adds-mephisto-new-costumes-and-more-in-march-update-zxm33qp)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-z31d33v1.jpeg)
-Netmarble releases a new March update for Marvel Future Fight featuring a new playable character, new hero outfits, a new boss fight, and more.
-
-### [135. 5 Best Assault Rifles in Warzone Based on Stats](https://hackernoon.com/5-best-assault-rifles-in-warzone-based-on-stats-ah2m37va)
+### [133. 5 Best Assault Rifles in Warzone Based on Stats](https://hackernoon.com/5-best-assault-rifles-in-warzone-based-on-stats-ah2m37va)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-zx3d35jq.jpeg)
 The FFAR 1 is the best assault rifle in Warzone. Other guns, such as the CR-56 AMAX and the Kilo, are also some of the best alongside others. 
 
-### [136. 5 Best Single-Player PS4 Horror Games to Play in the Dark](https://hackernoon.com/5-best-single-player-ps4-horror-games-to-play-in-the-dark-4v1237p7)
+### [134. Rust Coming to PS4 and Xbox: Rust Console Date Details](https://hackernoon.com/rust-coming-to-ps4-and-xbox-rust-console-date-details-f91333rn)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-gyo28hx.jpeg)
+Rust is finally on its way to Xbox and Playstation. Here's details on the Rust console date.
+
+### [135. Marvel Future Fight Adds Mephisto, New Costumes & More in March Update](https://hackernoon.com/marvel-future-fight-adds-mephisto-new-costumes-and-more-in-march-update-zxm33qp)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-z31d33v1.jpeg)
+Netmarble releases a new March update for Marvel Future Fight featuring a new playable character, new hero outfits, a new boss fight, and more.
+
+### [136. 741 Stories To Learn About Blogging Fellowship](https://hackernoon.com/741-stories-to-learn-about-blogging-fellowship)
+![](https://cdn.hackernoon.com/images/github/blogging-fellowship-176.png)
+Learn everything you need to know about Blogging Fellowship via these 741 free HackerNoon stories.
+
+### [137. 5 Best Single-Player PS4 Horror Games to Play in the Dark](https://hackernoon.com/5-best-single-player-ps4-horror-games-to-play-in-the-dark-4v1237p7)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-1cf356c.jpeg)
 There are plenty of great PS4 horror games. It doesn't matter what type of scare you're looking for because they have it all. Check out the best of the best. 
 
-### [137. Aliens: Fireteam Set for August Launch, Pre-Order Bonuses Revealed](https://hackernoon.com/aliens-fireteam-set-for-august-launch-pre-order-bonuses-revealed-0zz37t0)
+### [138. Aliens: Fireteam Set for August Launch, Pre-Order Bonuses Revealed](https://hackernoon.com/aliens-fireteam-set-for-august-launch-pre-order-bonuses-revealed-0zz37t0)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-qwbi35ro.jpeg)
 Aliens: FIreteam Elite is coming to multiple platforms in August. Cold Iron Studios also released a new pre-order trailer for the upcoming release.
-
-### [138. 741 Stories To Learn About Blogging Fellowship](https://hackernoon.com/741-stories-to-learn-about-blogging-fellowship)
-![](https://cdn.hackernoon.com/images/github/blogging-fellowship-176.png)
-Learn everything you need to know about Blogging Fellowship via these 741 free HackerNoon stories.
 
 ### [139. My Hero Academia: The Strongest Hero Due Out for Spring Global Release, New Trailer](https://hackernoon.com/my-hero-academia-the-strongest-hero-due-out-for-spring-global-release-new-trailer-iew23fr)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-06b633w6.jpeg)
@@ -576,25 +578,25 @@ Blizzard has teased the gameplay for Overwatch 2 and it looks incredible. Unfort
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-sq16356k.jpeg)
 There's no denying that there's a lot of great Nintendo franchises, but the company can't focus on all of them. Here are 5 Nintendo franchises we want back. 
 
-### [144. Streets of Rage 4 to Receive new Mr. X Nightmare DLC](https://hackernoon.com/streets-of-rage-4-to-receive-new-mr-x-nightmare-dlc-yir33qp)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-7y1a3351.jpeg)
-Dotemu has revealed a new DLC in the works for Streets of Rage 4 called Mr. Nightmare X that will feature new playable characters, new moves, and music.
-
-### [145. Deathloop Explained Video Showcases a Genre Mashup of Sci-Fi and Lavish Spy-Thrillers](https://hackernoon.com/deathloop-explained-video-showcases-a-genre-mashup-of-sci-fi-and-lavish-spy-thrillers-fv1h33ej)
+### [144. Deathloop Explained Video Showcases a Genre Mashup of Sci-Fi and Lavish Spy-Thrillers](https://hackernoon.com/deathloop-explained-video-showcases-a-genre-mashup-of-sci-fi-and-lavish-spy-thrillers-fv1h33ej)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-i0h3340.jpeg)
 Bethesda Softworks drops a new gameplay video for Arkane Studios' Deathloop, offering a robust overview at the game's story, mechanics, and gameplay.
 
-### [146. Lost Souvenir Destiny 2 Quest Guide](https://hackernoon.com/lost-souvenir-destiny-2-quest-guide-zz17375t)
+### [145. Streets of Rage 4 to Receive new Mr. X Nightmare DLC](https://hackernoon.com/streets-of-rage-4-to-receive-new-mr-x-nightmare-dlc-yir33qp)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-7y1a3351.jpeg)
+Dotemu has revealed a new DLC in the works for Streets of Rage 4 called Mr. Nightmare X that will feature new playable characters, new moves, and music.
+
+### [146. 5 of the Most Iconic Weapons in Gaming](https://hackernoon.com/5-of-the-most-iconic-weapons-in-gaming-v61v33fw)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-zq15332v.jpeg)
+Weapons are easily some of the most iconic parts of gaming, being plastered all over covers and trailers and having their names said with reverence and disdain.
+
+### [147. Lost Souvenir Destiny 2 Quest Guide](https://hackernoon.com/lost-souvenir-destiny-2-quest-guide-zz17375t)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-e0123539.jpeg)
 The Destiny 2 lost souvenir quest is an excellent questline to get you one of the most underrated cosmetics in the game. 
 
-### [147. Zombies Ate My Neighbors & Ghoul Patrol Coming to the Switch](https://hackernoon.com/zombies-ate-my-neighbors-and-ghoul-patrol-coming-to-the-switch-av1z24wx)
+### [148. Zombies Ate My Neighbors & Ghoul Patrol Coming to the Switch](https://hackernoon.com/zombies-ate-my-neighbors-and-ghoul-patrol-coming-to-the-switch-av1z24wx)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-b1ck34ai.jpeg)
 Lucasfilm Games is teaming up with DotEmu to re-release some classic LucasArts games, Zombies Ate My Neighbors & Ghoul Patrol, for the Nintendo Switch console.
-
-### [148. 5 of the Most Iconic Weapons in Gaming](https://hackernoon.com/5-of-the-most-iconic-weapons-in-gaming-v61v33fw)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-zq15332v.jpeg)
-Weapons are easily some of the most iconic parts of gaming, being plastered all over covers and trailers and having their names said with reverence and disdain.
 
 ### [149. 25 Predictions for E3 2021](https://hackernoon.com/25-predictions-for-e3-2021-bm25359c)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-ejj035xb.jpeg)
@@ -608,53 +610,53 @@ Sony Interactive Entertainment has announced a new PlayStation 5 System Software
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-uwg356l.jpeg)
 Necromunda: Hired Gun's a fast paced shooter set in Warhammer 40k's most famous underhive. It mixes Doom with Titanfall for what had the potential to be amazing
 
-### [152. The Potential for Video Games as a Storytelling Medium: 6 Best Story-Driven Games](https://hackernoon.com/the-potential-for-video-games-as-a-storytelling-medium-6-best-story-driven-games-j9e33q0)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-po4h332r.jpeg)
-In this article, we talk about the games that best illustrate how well video games can tell stories.
-
-### [153. Dark Alliance to Deliver Hack & Slash Gameplay This June](https://hackernoon.com/dark-alliance-to-deliver-hack-and-slash-gameplay-this-june-tmq336u)
+### [152. Dark Alliance to Deliver Hack & Slash Gameplay This June](https://hackernoon.com/dark-alliance-to-deliver-hack-and-slash-gameplay-this-june-tmq336u)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-v31j330s.jpeg)
 Wizards of the Coast and Tuque Games have unveiled the gameplay trailer and preorder details for the upcoming Dungeons & Dragons video game, Dark Alliance.
 
-### [154. 15 Most Memorable Co-op Games from the Sega Genesis to the Xbox](https://hackernoon.com/15-most-memorable-co-op-games-from-the-sega-genesis-to-the-xbox-wn3a331z)
+### [153. 15 Most Memorable Co-op Games from the Sega Genesis to the Xbox](https://hackernoon.com/15-most-memorable-co-op-games-from-the-sega-genesis-to-the-xbox-wn3a331z)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-i12m33pn.jpeg)
 These are some of the best multiplayer co-op games that stood out to us and left a lasting impression. 
 
-### [155. Super Smash Bros: 5 Characters We Could See in The Future](https://hackernoon.com/super-smash-bros-5-characters-we-could-see-in-the-future-lj2m33wh)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-cm3r281e.jpeg)
-Super Smash Bros. has a great roster that's always increasing. Here are the characters that could appear in the game in the near future.
+### [154. The Potential for Video Games as a Storytelling Medium: 6 Best Story-Driven Games](https://hackernoon.com/the-potential-for-video-games-as-a-storytelling-medium-6-best-story-driven-games-j9e33q0)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-po4h332r.jpeg)
+In this article, we talk about the games that best illustrate how well video games can tell stories.
 
-### [156. Pokémon Legends: Arceus Revealed Alongside Diamond and Pearl Remakes](https://hackernoon.com/pokemon-legends-arceus-revealed-alongside-diamond-and-pearl-remakes-7tl33gb)
-![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-65j33pr.jpeg)
-The Pokémon Company has revealed Pokémon Legends: Arceus, a single-player open-world Pokémon RPG set to release worldwide in early 2022. 
-
-### [157. Will the Next New Pokémon Game be a Diamond and Pearl Remake?](https://hackernoon.com/will-the-next-new-pokemon-game-be-a-diamond-and-pearl-remake-89p33o6)
-![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-yo2833dp.jpeg)
-Fans have speculated that the next new Pokemon game could be a Pokemon Diamond and Pearl remake, based on historical trends in the company's release cycle.
-
-### [158. Immersive Gaming HIVE Review: A New Way to Listen in Gaming](https://hackernoon.com/immersive-gaming-hive-review-a-new-way-to-listen-in-gaming-jd2835ep)
+### [155. Immersive Gaming HIVE Review: A New Way to Listen in Gaming](https://hackernoon.com/immersive-gaming-hive-review-a-new-way-to-listen-in-gaming-jd2835ep)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-l51135ob.jpeg)
 Immersive Gaming Hive is an interesting new kind of software that claims to dramatically change the way you listen in games. But how much? We discuss that. 
 
-### [159. What the Acquisition of Bethesda Means for Xbox](https://hackernoon.com/what-the-acquisition-of-bethesda-means-for-xbox-7o333394)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-ud3o3269.jpeg)
-Xbox acquired Bethesda to either make the developer's games first-party exclusive or to publish titles as a third party.
-
-### [160. Xbox Free Games With Gold and Xbox Live Update (May 2021) ](https://hackernoon.com/xbox-free-games-with-gold-and-xbox-live-update-may-2021-at1d24g0)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0rt298f.jpeg)
-What are the Xbox free games for May? Lego Batman stands out as one, but there are other interesting titles on the list. 
-
-### [161. Politicisation Across the Eras of Gaming: A Survey ](https://hackernoon.com/politicisation-across-the-eras-of-gaming-a-survey-011o37hn)
+### [156. Politicisation Across the Eras of Gaming: A Survey ](https://hackernoon.com/politicisation-across-the-eras-of-gaming-a-survey-011o37hn)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-c7g35j5.jpeg)
 Politics is having an influential impact on the games industry, but how much?  The following survey seeks to answer this. Please take time to fill it out.
 
-### [162. Who Will Win the Next-gen Console War?](https://hackernoon.com/who-will-win-the-next-gen-console-war-tk1p34ia)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-8qdg34ft.jpeg)
-In this slogging post, we discuss who we think is winning the current next-generation console war. We agree to disagree.
+### [157. Xbox Free Games With Gold and Xbox Live Update (May 2021) ](https://hackernoon.com/xbox-free-games-with-gold-and-xbox-live-update-may-2021-at1d24g0)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0rt298f.jpeg)
+What are the Xbox free games for May? Lego Batman stands out as one, but there are other interesting titles on the list. 
 
-### [163. Guardians of the Galaxy Game: Release Date, Gameplay, Story](https://hackernoon.com/guardians-of-the-galaxy-game-release-date-gameplay-story-5e1k37tn)
+### [158. Super Smash Bros: 5 Characters We Could See in The Future](https://hackernoon.com/super-smash-bros-5-characters-we-could-see-in-the-future-lj2m33wh)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-cm3r281e.jpeg)
+Super Smash Bros. has a great roster that's always increasing. Here are the characters that could appear in the game in the near future.
+
+### [159. Pokémon Legends: Arceus Revealed Alongside Diamond and Pearl Remakes](https://hackernoon.com/pokemon-legends-arceus-revealed-alongside-diamond-and-pearl-remakes-7tl33gb)
+![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-65j33pr.jpeg)
+The Pokémon Company has revealed Pokémon Legends: Arceus, a single-player open-world Pokémon RPG set to release worldwide in early 2022. 
+
+### [160. Will the Next New Pokémon Game be a Diamond and Pearl Remake?](https://hackernoon.com/will-the-next-new-pokemon-game-be-a-diamond-and-pearl-remake-89p33o6)
+![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-yo2833dp.jpeg)
+Fans have speculated that the next new Pokemon game could be a Pokemon Diamond and Pearl remake, based on historical trends in the company's release cycle.
+
+### [161. What the Acquisition of Bethesda Means for Xbox](https://hackernoon.com/what-the-acquisition-of-bethesda-means-for-xbox-7o333394)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-ud3o3269.jpeg)
+Xbox acquired Bethesda to either make the developer's games first-party exclusive or to publish titles as a third party.
+
+### [162. Guardians of the Galaxy Game: Release Date, Gameplay, Story](https://hackernoon.com/guardians-of-the-galaxy-game-release-date-gameplay-story-5e1k37tn)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-9l9y35e3.jpeg)
 Marvel's Guardians of the Galaxy game is shaping up to be amazing. Here's what you need to know about this team of misfits and its leader, Star-Lord.
+
+### [163. Who Will Win the Next-gen Console War?](https://hackernoon.com/who-will-win-the-next-gen-console-war-tk1p34ia)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-8qdg34ft.jpeg)
+In this slogging post, we discuss who we think is winning the current next-generation console war. We agree to disagree.
 
 ### [164. Is a New Nintendo Switch Model Coming in 2021?](https://hackernoon.com/is-a-new-nintendo-switch-model-coming-in-2021-whp33xa)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-jq3h32t3.jpeg)
@@ -696,25 +698,25 @@ The Teenage Mutant Ninja Turtles are back in a new arcade-style beat 'em up romp
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-hsc3751.jpeg)
  I had the pleasure of interviewing Peer Schnieder, co-founder, COO and EVP of IGN, about his time at the company, his passion for games and where he sees the i
 
-### [174. Tech Trends that will Rule the Gaming Industry in 2022](https://hackernoon.com/tech-trends-that-will-rule-the-gaming-industry-in-2022)
-![](https://cdn.hackernoon.com/images/Egk4QeHIKwhohdHCIbmstmLhCnp2-e492ihs.jpeg)
-India's gaming sector has achieved 38% astronomical growth and is expected to exceed $ 5 billion by 2025. India, home to 420 million onlinegamers, is also second only to China. 
-
-### [175. Not the Nintendo Switch Pro We Were Looking For, But it's Something](https://hackernoon.com/not-the-nintendo-switch-pro-we-were-looking-for-but-its-something-yu5437nm)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-dngi35ba.jpeg)
-The Nintendo Switch console is getting an update. Nintendo has officially unveiled the Nintendo Switch OLED Model due out in early October.
-
-### [176. 121 Stories To Learn About Nintendo](https://hackernoon.com/121-stories-to-learn-about-nintendo)
+### [174. 121 Stories To Learn About Nintendo](https://hackernoon.com/121-stories-to-learn-about-nintendo)
 ![](https://cdn.hackernoon.com/images/github/nintendo-826.png)
 Learn everything you need to know about Nintendo via these 121 free HackerNoon stories.
 
-### [177. Mega Man: The Wily Wars to Receive Special Collector's Edition](https://hackernoon.com/mega-man-the-wily-wars-to-receive-special-collectors-edition-m61a34au)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-tmd634lq.jpeg)
-Retro-Bit Publishing is set to release a special collector's edition for Mega Man: The Wily Wars later this year. The game will soon be launching pre-orders.
+### [175. Tech Trends that will Rule the Gaming Industry in 2022](https://hackernoon.com/tech-trends-that-will-rule-the-gaming-industry-in-2022)
+![](https://cdn.hackernoon.com/images/Egk4QeHIKwhohdHCIbmstmLhCnp2-e492ihs.jpeg)
+India's gaming sector has achieved 38% astronomical growth and is expected to exceed $ 5 billion by 2025. India, home to 420 million onlinegamers, is also second only to China. 
 
-### [178. Destiny 2's Witch Queen Lives Amongst Us](https://hackernoon.com/destiny-2s-witch-queen-lives-amongst-us-eaz37hw)
+### [176. Not the Nintendo Switch Pro We Were Looking For, But it's Something](https://hackernoon.com/not-the-nintendo-switch-pro-we-were-looking-for-but-its-something-yu5437nm)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-dngi35ba.jpeg)
+The Nintendo Switch console is getting an update. Nintendo has officially unveiled the Nintendo Switch OLED Model due out in early October.
+
+### [177. Destiny 2's Witch Queen Lives Amongst Us](https://hackernoon.com/destiny-2s-witch-queen-lives-amongst-us-eaz37hw)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-c41o35j8.jpeg)
 A recent update by Bungie implies Savathun, Destiny's next main villain, the witch queen, has taken human form in the tower 
+
+### [178. Mega Man: The Wily Wars to Receive Special Collector's Edition](https://hackernoon.com/mega-man-the-wily-wars-to-receive-special-collectors-edition-m61a34au)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-tmd634lq.jpeg)
+Retro-Bit Publishing is set to release a special collector's edition for Mega Man: The Wily Wars later this year. The game will soon be launching pre-orders.
 
 ### [179. Godzilla Battle Line Receives New Gameplay Trailer & Key Art](https://hackernoon.com/godzilla-battle-line-receives-new-gameplay-trailer-and-key-art-f5x33ay)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-ix1g33mg.jpeg)
@@ -724,29 +726,29 @@ TOHO Games, the official game label of Toho Co. Ltd., released a new preview vid
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-3i3934fl.jpeg)
 Garvin seemed annoyed with gamers who maybe want a sequel to a newer game or IP, such as Days Gone, but don't want to pay full price.
 
-### [181. The Walking Dead: Survivors Launches Next Week](https://hackernoon.com/the-walking-dead-survivors-launches-next-week-t3z339f)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-1k56333d.jpeg)
-The Walking Dead: Survivors has been announced for an April 12 release on iOS and Android after receiving 1.5 million pre-registered users.
-
-### [182. EA to Reveal New Game for 'Established' IP Next Month, Possible Dead Space Revival](https://hackernoon.com/ea-to-reveal-new-game-for-established-ip-next-month-possible-dead-space-revival-m7193776)
+### [181. EA to Reveal New Game for 'Established' IP Next Month, Possible Dead Space Revival](https://hackernoon.com/ea-to-reveal-new-game-for-established-ip-next-month-possible-dead-space-revival-m7193776)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-6xet354x.jpeg)
 Is Dead Space finally going to make a return? New evidence appears to indicate that EA is about to announce a revival of the dormant game series at EA Play.
 
-### [183. Who's your favorite video game protagonist?](https://hackernoon.com/whos-your-favorite-video-game-protagonist-ukx37pk)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-f5f350s.jpeg)
-Video games have had iconic protagonists since the beginning. Here are our favorite protagonists and our favorite thing about th
-
-### [184. Injustice Movie Announced](https://hackernoon.com/injustice-movie-announced-4n1334nl)
+### [182. Injustice Movie Announced](https://hackernoon.com/injustice-movie-announced-4n1334nl)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ui2h34fy.jpeg)
 The Injustice video game story has been praised by fans for years, and it looks like it's being adapted into a movie. Here's what we know so far. 
 
-### [185. How to get the Destiny 2 Upgrade Module](https://hackernoon.com/how-to-get-the-destiny-2-upgrade-module-9k2937fq)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-6r6035nw.jpeg)
-The Destiny 2 upgrade module can be acquired through several different methods, including from Banshee-44
+### [183. The Walking Dead: Survivors Launches Next Week](https://hackernoon.com/the-walking-dead-survivors-launches-next-week-t3z339f)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-1k56333d.jpeg)
+The Walking Dead: Survivors has been announced for an April 12 release on iOS and Android after receiving 1.5 million pre-registered users.
 
-### [186. Bethesda Softworks Unveils New 2021 Roadmap for Fallout 76](https://hackernoon.com/bethesda-softworks-unveils-new-2021-roadmap-for-fallout-76-ur1t33tw)
+### [184. Who's your favorite video game protagonist?](https://hackernoon.com/whos-your-favorite-video-game-protagonist-ukx37pk)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-f5f350s.jpeg)
+Video games have had iconic protagonists since the beginning. Here are our favorite protagonists and our favorite thing about th
+
+### [185. Bethesda Softworks Unveils New 2021 Roadmap for Fallout 76](https://hackernoon.com/bethesda-softworks-unveils-new-2021-roadmap-for-fallout-76-ur1t33tw)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-ar1t334q.jpeg)
 Bethesda Softworks has detailed a new content roadmap for Fallout 76 with more details on what fans can expect for the rest of this year.
+
+### [186. How to get the Destiny 2 Upgrade Module](https://hackernoon.com/how-to-get-the-destiny-2-upgrade-module-9k2937fq)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-6r6035nw.jpeg)
+The Destiny 2 upgrade module can be acquired through several different methods, including from Banshee-44
 
 ### [187. Assassin’s Creed Valhalla-Wrath of the Druids DLC Review (PC)](https://hackernoon.com/assassins-creed-valhalla-wrath-of-the-druids-dlc-review-pc-98v377l)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-1j8i3565.jpeg)
@@ -764,73 +766,73 @@ A Plague Tale: Innocence Releases on July 6 in 4K UHD on Xbox Series X & Play
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-bvb33se.jpeg)
 This week, Hello Games founder Sean Murray detailed a new major update for No Man’s Sky called Expeditions, which includes a new seasonal gameplay mode.
 
-### [191. Streets of Rage 4 Mr. X Nightmare DLC Arrives This Month](https://hackernoon.com/streets-of-rage-4-mr-x-nightmare-dlc-arrives-this-month-wex37fz)
+### [191. 22 Video Games that Got Us Through the Pandemic](https://hackernoon.com/22-video-games-that-got-us-through-the-pandemic-do6q339o)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-5g4533iv.jpeg)
+When lockdown restrictions came into effect, lots of people turned to gaming as an escape, or just simply a way to pass the time. 
+
+### [192. Streets of Rage 4 Mr. X Nightmare DLC Arrives This Month](https://hackernoon.com/streets-of-rage-4-mr-x-nightmare-dlc-arrives-this-month-wex37fz)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-5pba35pq.jpeg)
 Streets of Rage 4 will receive its official Mr. X Nightmare DLC on July 14. The new features and characters were recently detailed on the PlayStation Blog.
 
-### [192. IDW Celebrates 30th Anniversary of Sonic the Hedgehog With Special Comic Release](https://hackernoon.com/idw-celebrates-30th-anniversary-of-sonic-the-hedgehog-with-special-comic-release-kw1133vq)
+### [193. IDW Celebrates 30th Anniversary of Sonic the Hedgehog With Special Comic Release](https://hackernoon.com/idw-celebrates-30th-anniversary-of-sonic-the-hedgehog-with-special-comic-release-kw1133vq)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-bc1633c2.jpeg)
 IDW Comics will be celebrating the 30th Anniversary of Sonic the Hedgehog with a special comic release later this summer.
 
-### [193. Should Google Continue Supporting the Google Stadia?](https://hackernoon.com/should-google-continue-supporting-the-google-stadia-mtt34y5)
+### [194. Should Google Continue Supporting the Google Stadia?](https://hackernoon.com/should-google-continue-supporting-the-google-stadia-mtt34y5)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-lx3634zr.jpeg)
 Should Google continue supporting Google Stadia, and are they telling the truth when an executive said the console is alive and well?"
 
-### [194. Nickelodeon All-Star Brawl: Smash Bros. Meets SpongeBob SquarePants](https://hackernoon.com/nickelodeon-all-star-brawl-smash-bros-meets-spongebob-squarepants-eh3u3727)
+### [195. Nickelodeon All-Star Brawl: Smash Bros. Meets SpongeBob SquarePants](https://hackernoon.com/nickelodeon-all-star-brawl-smash-bros-meets-spongebob-squarepants-eh3u3727)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-mvel35da.jpeg)
 Nickelodeon is making its own Super Smash Bros.! Nickelodeon All-Star Brawl is a fighting game with multiple NickToon characters.
-
-### [195. The PlayStation Game Pass: How does PS Now Work? ](https://hackernoon.com/the-playstation-game-pass-how-does-ps-now-work-rb1q33iq)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-1zj298k.jpeg)
-PlayStation's Game Pass, PS Now, has seem to fallen under the radar. So you may be wondering, how does PS Now work? Here's how.
 
 ### [196. Nintendo Switch Reaches Over 84 Million Units Sold](https://hackernoon.com/nintendo-switch-reaches-over-84-million-units-sold-qg1q245e)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-p5v342t.jpeg)
 Nintendo released its end of the fiscal year results for investors this month. The Nintendo Switch and games boasted some pretty staggering sales figures.
 
-### [197. 5 Video Games that Should Get a Battle Royale](https://hackernoon.com/5-video-games-that-should-get-a-battle-royale-yd2e33ie)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-pgh1327k.jpeg)
-As the battle royale genre becomes more popular, we discuss what game franchises we want to see have a battle royale in this slogging post.
+### [197. The PlayStation Game Pass: How does PS Now Work? ](https://hackernoon.com/the-playstation-game-pass-how-does-ps-now-work-rb1q33iq)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-1zj298k.jpeg)
+PlayStation's Game Pass, PS Now, has seem to fallen under the radar. So you may be wondering, how does PS Now work? Here's how.
 
 ### [198. 84 Stories To Learn About Nintendo Switch](https://hackernoon.com/84-stories-to-learn-about-nintendo-switch)
 ![](https://cdn.hackernoon.com/images/github/nintendo-switch-343.png)
 Learn everything you need to know about Nintendo Switch via these 84 free HackerNoon stories.
 
-### [199. New WWE Game, WWE 2K22 Announced During Wrestlemania](https://hackernoon.com/new-wwe-game-wwe-2k22-announced-during-wrestlemania-4co33vw)
+### [199. 5 Video Games that Should Get a Battle Royale](https://hackernoon.com/5-video-games-that-should-get-a-battle-royale-yd2e33ie)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-pgh1327k.jpeg)
+As the battle royale genre becomes more popular, we discuss what game franchises we want to see have a battle royale in this slogging post.
+
+### [200. New WWE Game, WWE 2K22 Announced During Wrestlemania](https://hackernoon.com/new-wwe-game-wwe-2k22-announced-during-wrestlemania-4co33vw)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-aro2955.jpeg)
 A new WWE game was announced during WrestleMania and we're excited for the next chapter in the WWE/2K series. 
-
-### [200. E3 Returning as Online Only Digital Event in 2021](https://hackernoon.com/e3-returning-as-online-only-digital-event-in-2021-1ir33vr)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-6i11333n.jpeg)
-The Electronic Entertainment Expo has confirmed a June 2021 return for the conference as an online-only, virtual event.
 
 ### [201. Multiple Online Retailers Restock Nintendo Switch: Mario Red & Blue Edition](https://hackernoon.com/multiple-online-retailers-restock-nintendo-switch-mario-red-and-blue-edition-txz33xp)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-ni3233ha.jpeg)
 Just in time for Nintendo Day, you can purchase the new Nintendo Switch: Mario Red & Blue Edition console at multiple online retailers.
 
-### [202. Cyberpunk 2077 Returning to PlayStation Store on June 21](https://hackernoon.com/cyberpunk-2077-returning-to-playstation-store-on-june-21-r61d37sq)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-yubv35ck.jpeg)
-CD Projekt RED has confirmed that Cyberpunk 2077 is being reinstated to the PlayStation Store beginning June 21 after it was yanked due to poor performance.
+### [202. E3 Returning as Online Only Digital Event in 2021](https://hackernoon.com/e3-returning-as-online-only-digital-event-in-2021-1ir33vr)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-6i11333n.jpeg)
+The Electronic Entertainment Expo has confirmed a June 2021 return for the conference as an online-only, virtual event.
 
-### [203. What Era of History Should Assassin's Creed Tackle Next?](https://hackernoon.com/what-era-of-history-should-assassins-creed-tackle-next-uy1j339r)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-kube32lj.jpeg)
-The Hacker Noon Community discusses the era of history we want the Assassins creed franchise to visit next and the perfect entry point.
-
-### [204. 5 Games We Didn't Expect to Love](https://hackernoon.com/5-games-we-didnt-expect-to-love-ui1s34eq)
+### [203. 5 Games We Didn't Expect to Love](https://hackernoon.com/5-games-we-didnt-expect-to-love-ui1s34eq)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-ia7834b1.jpeg)
 The HackerNoon community discusses the video games and franchises we didn't expect to like but ended up loving and the perfect entry points to these games. 
 
-### [205. 22 Video Games that Got Us Through the Pandemic](https://hackernoon.com/22-video-games-that-got-us-through-the-pandemic-do6q339o)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-5g4533iv.jpeg)
-When lockdown restrictions came into effect, lots of people turned to gaming as an escape, or just simply a way to pass the time. 
+### [204. Cyberpunk 2077 Returning to PlayStation Store on June 21](https://hackernoon.com/cyberpunk-2077-returning-to-playstation-store-on-june-21-r61d37sq)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-yubv35ck.jpeg)
+CD Projekt RED has confirmed that Cyberpunk 2077 is being reinstated to the PlayStation Store beginning June 21 after it was yanked due to poor performance.
 
-### [206. Shadow Warrior 3 Gameplay Video Reveals Gore Weapon Mechanic](https://hackernoon.com/shadow-warrior-3-gameplay-video-reveals-gore-weapon-mechanic-t2r3439)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-igk83458.jpeg)
-Shadow Warrior 3 is due out later this year. A new gameplay video showcased some of the game's newest features, such as Gore Weapons, and a new level reveal.
+### [205. What Era of History Should Assassin's Creed Tackle Next?](https://hackernoon.com/what-era-of-history-should-assassins-creed-tackle-next-uy1j339r)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-kube32lj.jpeg)
+The Hacker Noon Community discusses the era of history we want the Assassins creed franchise to visit next and the perfect entry point.
 
-### [207. 62 Stories To Learn About Playstation](https://hackernoon.com/62-stories-to-learn-about-playstation)
+### [206. 62 Stories To Learn About Playstation](https://hackernoon.com/62-stories-to-learn-about-playstation)
 ![](https://cdn.hackernoon.com/images/github/playstation-485.png)
 Learn everything you need to know about Playstation via these 62 free HackerNoon stories.
+
+### [207. Shadow Warrior 3 Gameplay Video Reveals Gore Weapon Mechanic](https://hackernoon.com/shadow-warrior-3-gameplay-video-reveals-gore-weapon-mechanic-t2r3439)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-igk83458.jpeg)
+Shadow Warrior 3 is due out later this year. A new gameplay video showcased some of the game's newest features, such as Gore Weapons, and a new level reveal.
 
 ### [208. The Elder Scrolls Online: Console Enhanced Version Arrives to Next-Gen Systems](https://hackernoon.com/the-elder-scrolls-online-console-enhanced-version-arrives-to-next-gen-systems-o0p3355)
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-xr4s33qh.jpeg)
@@ -840,25 +842,25 @@ During this week’s Blackwood Chapter Preview Event, Bethesda Softworks announc
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-qdec353w.jpeg)
 It appears there is finally going to be some marketing synergy between the smash-hit Netflix TV series, The Witcher, with the upcoming WitcherCon event in July.
 
-### [210. The Legend of Zelda: Breath of the Wild Sequel Set for 2022 Launch](https://hackernoon.com/the-legend-of-zelda-breath-of-the-wild-sequel-set-for-2022-launch-wr1a37fc)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-pp4g35ir.jpeg)
-Nintendo has officially revealed The Legend of Zelda: Breath of the Wild with a new reveal teaser at the Nintendo Direct event for E3 2021.
-
-### [211. E3 Confirms Square Enix, SEGA, and Bandai Namco for 2021 Convention](https://hackernoon.com/e3-confirms-square-enix-sega-and-bandai-namco-for-2021-convention-gt1i34rw)
+### [210. E3 Confirms Square Enix, SEGA, and Bandai Namco for 2021 Convention](https://hackernoon.com/e3-confirms-square-enix-sega-and-bandai-namco-for-2021-convention-gt1i34rw)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-b0dg34vj.jpeg)
 The Electronic Software Association has confirmed that a number of new companies will be participating in E3 2021 including Square Enix, Sega, and more.
 
-### [212. Far Cry 6 Release Date and Gameplay: Everything You Need to Know](https://hackernoon.com/far-cry-6-release-date-and-gameplay-everything-you-need-to-know-i21035s3)
+### [211. Far Cry 6 Release Date and Gameplay: Everything You Need to Know](https://hackernoon.com/far-cry-6-release-date-and-gameplay-everything-you-need-to-know-i21035s3)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-7jz3559.jpeg)
 Far Cry has been a loved franchise since its inception, but what's next for the series? Here's what you need to know about the Far Cry 6 release date and more. 
 
-### [213. Resident Evil Village Launches on May 7, Multiplayer Re:Verse Experience Announced](https://hackernoon.com/resident-evil-village-launches-on-may-7-multiplayer-reverse-experience-announced-fum33so)
+### [212. Resident Evil Village Launches on May 7, Multiplayer Re:Verse Experience Announced](https://hackernoon.com/resident-evil-village-launches-on-may-7-multiplayer-reverse-experience-announced-fum33so)
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-idu3388.jpeg)
 Capcom confirmed during its Resident Evil Showcase digital program that Resident Evil Village will have its multi-platform release on May 7 on PS5, PS4, Xbox 
 
-### [214. Mortal Kombat 11 DLC Support Is Officially Ending After Over Two Years](https://hackernoon.com/mortal-kombat-11-dlc-support-is-officially-ending-after-over-two-years-lb1337u4)
+### [213. Mortal Kombat 11 DLC Support Is Officially Ending After Over Two Years](https://hackernoon.com/mortal-kombat-11-dlc-support-is-officially-ending-after-over-two-years-lb1337u4)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-mdaq35lp.jpeg)
 NetherRealm Studios has confirmed that Mortal Kombat 11 is ending its DLC support after over two years following its release to focus on a new project.
+
+### [214. The Legend of Zelda: Breath of the Wild Sequel Set for 2022 Launch](https://hackernoon.com/the-legend-of-zelda-breath-of-the-wild-sequel-set-for-2022-launch-wr1a37fc)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-pp4g35ir.jpeg)
+Nintendo has officially revealed The Legend of Zelda: Breath of the Wild with a new reveal teaser at the Nintendo Direct event for E3 2021.
 
 ### [215. Power Rangers: Battle for the Grid Brings in Ryu & Chun-Li With the Street Fighter Pack](https://hackernoon.com/power-rangers-battle-for-the-grid-brings-in-ryu-and-chun-li-with-the-street-fighter-pack-gk1b33yg)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-b4h933if.jpeg)
@@ -872,57 +874,57 @@ The first screenshot was revealed showing Cate Blanchett as Lilith from the upco
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-d4j33cs.jpeg)
 Should EA or BioWare revamp and reboot Anthem, or should they call it quits on the title?
 
-### [218. 5 Video Games that Desperately Deserve a Sequel](https://hackernoon.com/5-video-games-that-desperately-deserve-a-sequel-6p2d33g4)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-om35290w.jpeg)
-Games come and go, but there are titles that are so good that we need more of it. Here are games that should have a sequel.
-
-### [219. Overwatch Director Jeff Kaplan Exits Blizzard Entertainment](https://hackernoon.com/overwatch-director-jeff-kaplan-exits-blizzard-entertainment-bq1n34fj)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-jvb933wu.jpeg)
-In a landmark, shocking announcement, Jeff Kaplan is leaving Blizzard Entertainment. Aaron Keller has been announced as his successor for the franchise.
-
-### [220. Nerds Talking About Fire Emblem: Three Houses](https://hackernoon.com/nerds-talking-about-fire-emblem-three-houses-w2q345q)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-iti34pz.jpeg)
-2019's Fire Emblem: Three Houses's branching storylines makes it hard for everyone to have experienced the same thing. Here, we all weigh in our experiences 
-
-### [221. What Are Your Most Anticipated Games for the Rest of 2021?](https://hackernoon.com/what-are-your-most-anticipated-games-for-the-rest-of-2021-prj34hx)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-gl29342n.jpeg)
-This Slogging thread by JeffreyHarris, Jose Hernandez, Nicolas Ng, Jack Boreham and Limarc Ambalina occurred in slogging's official #gaming channel, and has been edited for readability.
-
-### [222. What was your favorite video game of 2020?](https://hackernoon.com/what-was-your-favorite-video-game-of-2020-oh2y3391)
+### [218. What was your favorite video game of 2020?](https://hackernoon.com/what-was-your-favorite-video-game-of-2020-oh2y3391)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-m14929c4.jpeg)
 2020 was a good year for gaming. Among us blew up in popularity, Tony Hawk made a comeback, and Hades made waves. Here are some of our favorite games of 2020.
 
-### [223. Ghost of Tsushima: Director's Cut Announced by Sony Interactive Entertainment](https://hackernoon.com/ghost-of-tsushima-directors-cut-announced-by-sony-interactive-entertainment-p31g371j)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-wzb735zq.jpeg)
-After initial evidence surface, Sony PlayStation confirmed a Ghost of Tsushima: Director's Cut is in the works, which includes a PlayStation 5 release.
+### [219. 5 Video Games that Desperately Deserve a Sequel](https://hackernoon.com/5-video-games-that-desperately-deserve-a-sequel-6p2d33g4)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-om35290w.jpeg)
+Games come and go, but there are titles that are so good that we need more of it. Here are games that should have a sequel.
 
-### [224. Call of Duty: Mobile Season 3 Arrives with Tokyo Escape](https://hackernoon.com/call-of-duty-mobile-season-3-arrives-with-tokyo-escape-k81133kd)
+### [220. Overwatch Director Jeff Kaplan Exits Blizzard Entertainment](https://hackernoon.com/overwatch-director-jeff-kaplan-exits-blizzard-entertainment-bq1n34fj)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-jvb933wu.jpeg)
+In a landmark, shocking announcement, Jeff Kaplan is leaving Blizzard Entertainment. Aaron Keller has been announced as his successor for the franchise.
+
+### [221. Call of Duty: Mobile Season 3 Arrives with Tokyo Escape](https://hackernoon.com/call-of-duty-mobile-season-3-arrives-with-tokyo-escape-k81133kd)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-vsjr33xd.jpeg)
 Call of Duty: Mobile will receive its Season 3 update on Friday with Tokyo Escape, which will bring a boatload of new samurai-themed content to players.
 
-### [225. Metro Exodus PC Enhanced Edition Release Date Set for May 6th](https://hackernoon.com/metro-exodus-pc-enhanced-edition-release-date-set-for-may-6th-511o243v)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-d9b634hi.jpeg)
-Metro Exodus is going to receive a free PC Enhanced Edition, which launches on May 6. It will be a free upgrade to all existing owners of the game .
+### [222. Nerds Talking About Fire Emblem: Three Houses](https://hackernoon.com/nerds-talking-about-fire-emblem-three-houses-w2q345q)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-iti34pz.jpeg)
+2019's Fire Emblem: Three Houses's branching storylines makes it hard for everyone to have experienced the same thing. Here, we all weigh in our experiences 
 
-### [226. 5 Gaming YouTubers That are Worth a Sub](https://hackernoon.com/5-gaming-youtubers-that-are-worth-a-sub-ef4g337u)
+### [223. What Are Your Most Anticipated Games for the Rest of 2021?](https://hackernoon.com/what-are-your-most-anticipated-games-for-the-rest-of-2021-prj34hx)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-gl29342n.jpeg)
+This Slogging thread by JeffreyHarris, Jose Hernandez, Nicolas Ng, Jack Boreham and Limarc Ambalina occurred in slogging's official #gaming channel, and has been edited for readability.
+
+### [224. Ghost of Tsushima: Director's Cut Announced by Sony Interactive Entertainment](https://hackernoon.com/ghost-of-tsushima-directors-cut-announced-by-sony-interactive-entertainment-p31g371j)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-wzb735zq.jpeg)
+After initial evidence surface, Sony PlayStation confirmed a Ghost of Tsushima: Director's Cut is in the works, which includes a PlayStation 5 release.
+
+### [225. 5 Gaming YouTubers That are Worth a Sub](https://hackernoon.com/5-gaming-youtubers-that-are-worth-a-sub-ef4g337u)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-6e3m3374.jpeg)
 There are far too many people sharing their opinions about gaming on the internet but not all of them are for us. These are some people who we enjoy the most. 
 
-### [227. What's the Most Exciting Video Game Launch this Year?](https://hackernoon.com/whats-the-most-exciting-video-game-launch-this-year-ra2z33a0)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-anl33it.jpeg)
-What's the most exciting video game launch this year? Looking forward to Elder Scrolls 6, After the Fall, and more.
+### [226. Metro Exodus PC Enhanced Edition Release Date Set for May 6th](https://hackernoon.com/metro-exodus-pc-enhanced-edition-release-date-set-for-may-6th-511o243v)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-d9b634hi.jpeg)
+Metro Exodus is going to receive a free PC Enhanced Edition, which launches on May 6. It will be a free upgrade to all existing owners of the game .
 
-### [228. Ghost of Tsushima Film in the Works After Selling Over 6.5 Million Copies](https://hackernoon.com/ghost-of-tsushima-film-in-the-works-after-selling-over-65-million-copies-rlo33md)
+### [227. Ghost of Tsushima Film in the Works After Selling Over 6.5 Million Copies](https://hackernoon.com/ghost-of-tsushima-film-in-the-works-after-selling-over-65-million-copies-rlo33md)
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-tt8n33o7.jpeg)
 Sucker Punch Productions announced on the PlayStation Blog that a live-action feature film based on the mega-hit game, Ghost of Tsushima,
 
-### [229. Dying Light 2: Release Date, Gameplay, and More](https://hackernoon.com/dying-light-2-release-date-gameplay-and-more-bt1a35bq)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-iee35u8.jpeg)
-The Dying Light 2 release date is inching closer and closer, so here are the things you need to know about the upcoming zombie game. 
-
-### [230. God of War: Ragnarok Gets Release Window Delayed to 2022](https://hackernoon.com/god-of-war-ragnarok-gets-release-window-delayed-to-2022-65r35q2)
+### [228. God of War: Ragnarok Gets Release Window Delayed to 2022](https://hackernoon.com/god-of-war-ragnarok-gets-release-window-delayed-to-2022-65r35q2)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-9yd635xn.jpeg)
 God of  War: Ragnarok will not be releasing in 2021. Santa Monica Studio and Sony PlayStation Studios confirmed the release window has been pushed back to 2022.
+
+### [229. What's the Most Exciting Video Game Launch this Year?](https://hackernoon.com/whats-the-most-exciting-video-game-launch-this-year-ra2z33a0)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-anl33it.jpeg)
+What's the most exciting video game launch this year? Looking forward to Elder Scrolls 6, After the Fall, and more.
+
+### [230. Dying Light 2: Release Date, Gameplay, and More](https://hackernoon.com/dying-light-2-release-date-gameplay-and-more-bt1a35bq)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-iee35u8.jpeg)
+The Dying Light 2 release date is inching closer and closer, so here are the things you need to know about the upcoming zombie game. 
 
 ### [231. What is your favorite video game movie?](https://hackernoon.com/what-is-your-favorite-video-game-movie-6f1q33mg)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-st1t29bf.jpeg)
@@ -936,33 +938,33 @@ Doom 3 is getting a VR facelift. Bethesda Softworks has confirmed a PSVR version
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-xv7s337k.jpeg)
 Plenty of intellectual properties have been adapted into successful video games or even their own game series.
 
-### [234. What's one popular game/franchise that you could never get into?](https://hackernoon.com/whats-one-popular-gamefranchise-that-you-could-never-get-into-mdn332k)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-oyt29ty.jpeg)
-Some games are great, but they just don't click with us for whatever reason. Here are the games we could never get into.
-
-### [235. Crash Bandicoot 4 Set for Next-Gen Console Release ](https://hackernoon.com/crash-bandicoot-4-set-for-next-gen-console-release-byq331n)
+### [234. Crash Bandicoot 4 Set for Next-Gen Console Release ](https://hackernoon.com/crash-bandicoot-4-set-for-next-gen-console-release-byq331n)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-5fk330d.jpeg)
 Activision has confirmed that Crash Bandicoot 4 will receive a next-gen console release, including a free upgrade for owners in the same console family.
 
-### [236. Capcom Reveals E3 2021 Lineup: Monster Hunter Rise, The Great Ace Attorney](https://hackernoon.com/capcom-reveals-e3-2021-lineup-monster-hunter-rise-the-great-ace-attorney-9ao35f7)
+### [235. What's one popular game/franchise that you could never get into?](https://hackernoon.com/whats-one-popular-gamefranchise-that-you-could-never-get-into-mdn332k)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-oyt29ty.jpeg)
+Some games are great, but they just don't click with us for whatever reason. Here are the games we could never get into.
+
+### [236. What is your favorite video game adjacent media?](https://hackernoon.com/what-is-your-favorite-video-game-adjacent-media-7a1x340w)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-vsv29kl.jpeg)
+There are some video game stories that are so good, they seep into other mediums including comics, books, and tv shows. Here are our favorite examples. 
+
+### [237. Capcom Reveals E3 2021 Lineup: Monster Hunter Rise, The Great Ace Attorney](https://hackernoon.com/capcom-reveals-e3-2021-lineup-monster-hunter-rise-the-great-ace-attorney-9ao35f7)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-pf7k35sh.jpeg)
 The return of the Electronic Entertainment Expo (E3) is just around the corner, and Capcom has announced its early lineup for next week's event. 
 
-### [237. Latest Rachet & Clank: Rift Apart Gameplay Trailer Showcases Rivet, New Locations & Mechanics](https://hackernoon.com/latest-rachet-and-clank-rift-apart-gameplay-trailer-showcases-rivet-new-locations-and-mechanics-vwn3479)
+### [238. Latest Rachet & Clank: Rift Apart Gameplay Trailer Showcases Rivet, New Locations & Mechanics](https://hackernoon.com/latest-rachet-and-clank-rift-apart-gameplay-trailer-showcases-rivet-new-locations-and-mechanics-vwn3479)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-xdck332u.jpeg)
 Isomniac Games has released a new gameplay trailer for Ratchet & Clank: Rift Apart, featuring the new female Lombax playable character, Rivet, and new footage.
 
-### [238. Pixel Frames: Mega Man 7 & Castlevania (Review)](https://hackernoon.com/pixel-frames-mega-man-7-and-castlevania-review-141e371v)
+### [239. Pixel Frames: Mega Man 7 & Castlevania (Review)](https://hackernoon.com/pixel-frames-mega-man-7-and-castlevania-review-141e371v)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-59nq35e6.jpeg)
 Our review of Pixel Frames art pieces which recreate scenes from classic video games as framed, pixelated artwork.
 
-### [239. Is the Games as a Live Service Concept Still Valid in 2021?](https://hackernoon.com/is-the-games-as-a-live-service-concept-still-valid-in-2021-022333ak)
+### [240. Is the Games as a Live Service Concept Still Valid in 2021?](https://hackernoon.com/is-the-games-as-a-live-service-concept-still-valid-in-2021-022333ak)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-6xm33tb.jpeg)
 Over the last 10 years we saw the emergence of the idea of games as a live service concept.
-
-### [240. What is your favorite video game adjacent media?](https://hackernoon.com/what-is-your-favorite-video-game-adjacent-media-7a1x340w)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-vsv29kl.jpeg)
-There are some video game stories that are so good, they seep into other mediums including comics, books, and tv shows. Here are our favorite examples. 
 
 ### [241. Who are The Best Video Game Villains?](https://hackernoon.com/who-are-the-best-video-game-villains)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-l1437vn.jpeg)
@@ -996,57 +998,57 @@ Cold Iron Studios has revealed a new cooperative, third-person shooter action ga
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-rb9i35yx.jpeg)
 CD Projekt RED and Netflix will be presenting WitcherCon in July. The full schedule has now been confirmed for the upcoming online-only, digital event.
 
-### [249. Resident Evil Re:Verse Delayed Again, Finding the Silver Lining in this Cloud](https://hackernoon.com/resident-evil-reverse-delayed-again-finding-the-silver-lining-in-this-cloud-ti1737qq)
+### [249. Scream The Game: Why We Need It](https://hackernoon.com/scream-the-game-why-we-need-it)
+![](https://cdn.hackernoon.com/images/5Prz51a65WevCnBVDzOYV17srxr2-l1036j3.jpeg)
+A Scream game needs to happen; we've never properly had a game based around the iconic franchise and it's about time we get one.
+
+### [250. Resident Evil Re:Verse Delayed Again, Finding the Silver Lining in this Cloud](https://hackernoon.com/resident-evil-reverse-delayed-again-finding-the-silver-lining-in-this-cloud-ti1737qq)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-ohhl35cx.jpeg)
 Resident Evil Re:Verse, the multiplayer game experience, has been delayed again to 2022. Capcom made the announcement on the experience earlier this week.
-
-### [250. Warhammer Age of Sigmar: Storm Ground Arrives May 27, New Trailer Out](https://hackernoon.com/warhammer-age-of-sigmar-storm-ground-arrives-may-27-new-trailer-out-z51n33lr)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-7a3333xu.jpeg)
-Focus Home Interactive and Gasket Games have revealed the release date and a new gameplay trailer for Warhammer Age of Sigmar: Storm Ground, which hits in May.
 
 ### [251. Dead by Daylight New Killer: Resident Evil Crossover Details](https://hackernoon.com/dead-by-daylight-new-killer-resident-evil-crossover-details-tr1235l3)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-q0m35dw.jpeg)
 The Dead by Deadlight new killer is one of Resident Evil's most popular villains. Here are the details on the Dead by Deadlight and Resident Evil crossover. 
 
-### [252. What Do You Think About a Price Increase for AAA Games?](https://hackernoon.com/what-do-you-think-about-a-price-increase-for-aaa-games-zvw332t)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-y82g33cb.jpeg)
-Is now the right time for a price increase on games? Also, will a price increase prevent some of the practices that have been criticized by gamers?
-
-### [253. Star Wars Jedi: Fallen Order to Receive Next-Gen Console Release Later This Year](https://hackernoon.com/star-wars-jedi-fallen-order-to-receive-next-gen-console-release-later-this-year-rvq34rs)
+### [252. Star Wars Jedi: Fallen Order to Receive Next-Gen Console Release Later This Year](https://hackernoon.com/star-wars-jedi-fallen-order-to-receive-next-gen-console-release-later-this-year-rvq34rs)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-1q6v34bl.jpeg)
 Lucasfilm has confirmed that the hit video game, Star Wars Jedi: Fallen Order, will receive a next-gen console release, plus a free upgrade later this summer.
 
-### [254. Horizon Zero Dawn: Complete Edition is Free Until May 14](https://hackernoon.com/horizon-zero-dawn-complete-edition-is-free-until-may-14-jq1h34if)
+### [253. Warhammer Age of Sigmar: Storm Ground Arrives May 27, New Trailer Out](https://hackernoon.com/warhammer-age-of-sigmar-storm-ground-arrives-may-27-new-trailer-out-z51n33lr)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-7a3333xu.jpeg)
+Focus Home Interactive and Gasket Games have revealed the release date and a new gameplay trailer for Warhammer Age of Sigmar: Storm Ground, which hits in May.
+
+### [254. Street Fighter V Season 5 Kicks Off: Dan & Rose Join the Fight](https://hackernoon.com/street-fighter-v-season-5-kicks-off-dan-and-rose-join-the-fight-u4j33qs)
+![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-441033nr.jpeg)
+Capcom recently revealed that the upcoming Season 5 Winter Update for Street Fighter V will bring new fighters and features to the game.
+
+### [255. What Do You Think About a Price Increase for AAA Games?](https://hackernoon.com/what-do-you-think-about-a-price-increase-for-aaa-games-zvw332t)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-y82g33cb.jpeg)
+Is now the right time for a price increase on games? Also, will a price increase prevent some of the practices that have been criticized by gamers?
+
+### [256. Horizon Zero Dawn: Complete Edition is Free Until May 14](https://hackernoon.com/horizon-zero-dawn-complete-edition-is-free-until-may-14-jq1h34if)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-44mf33i7.jpeg)
 Horizon Zero Dawn: Complete Edition is the latest free game content drop for Sony PlayStation's Play at Home 2021 program. Gamers can download it for free now.
 
-### [255. If you could pick one video game to turn into a movie, what would it be?](https://hackernoon.com/if-you-could-pick-one-video-game-to-turn-into-a-movie-what-would-it-be-tio33h4)
+### [257. If you could pick one video game to turn into a movie, what would it be?](https://hackernoon.com/if-you-could-pick-one-video-game-to-turn-into-a-movie-what-would-it-be-tio33h4)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-7a1s32x2.jpeg)
 The Hacker Noon community discusses what video games we would want to be turned into a movie! 
-
-### [256. Resident Evil Re:Verse Pushed Back to Summer 2021](https://hackernoon.com/resident-evil-reverse-pushed-back-to-summer-2021-io2b343c)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-22ar34pm.jpeg)
-Resident Evil Re:Verse has been quietly delayed by Capcom. Instead of launching along with Resident Evil Village in May, it's release window has been to summer.
-
-### [257. What Inspired us to Write About Games?](https://hackernoon.com/what-inspired-us-to-write-about-games-bq1g330t)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-97ad32xs.jpeg)
-Here at Hacker Noon, we love both games and writing. In this slogging post, we discuss what inspired us to write about games and our fondest gaming memories.
 
 ### [258. Evil Dead: The Game Trailer, Gameplay Mechanics, and New Footage](https://hackernoon.com/evil-dead-the-game-trailer-gameplay-mechanics-and-new-footage-ix1637qd)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-qfar359v.jpeg)
 A new gameplay trailer is out for the next Evil Dead video game, which is due out later this year, featuring new footage and reveals.
 
-### [259. Should Other Games Receive Director's Cut Treatments Similar to Ghost of Tsushima & Death Stranding?](https://hackernoon.com/should-other-games-receive-directors-cut-treatments-similar-to-ghost-of-tsushima-and-death-stranding-py1337b3)
+### [259. Resident Evil Re:Verse Pushed Back to Summer 2021](https://hackernoon.com/resident-evil-reverse-pushed-back-to-summer-2021-io2b343c)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-22ar34pm.jpeg)
+Resident Evil Re:Verse has been quietly delayed by Capcom. Instead of launching along with Resident Evil Village in May, it's release window has been to summer.
+
+### [260. What Inspired us to Write About Games?](https://hackernoon.com/what-inspired-us-to-write-about-games-bq1g330t)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-97ad32xs.jpeg)
+Here at Hacker Noon, we love both games and writing. In this slogging post, we discuss what inspired us to write about games and our fondest gaming memories.
+
+### [261. Should Other Games Receive Director's Cut Treatments Similar to Ghost of Tsushima & Death Stranding?](https://hackernoon.com/should-other-games-receive-directors-cut-treatments-similar-to-ghost-of-tsushima-and-death-stranding-py1337b3)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-rx4d350k.jpeg)
 A director's cut of Ghost of Tsushima is in the works that will be released on both PS4 and PS5 with additional DLC content.
-
-### [260. Street Fighter V Season 5 Kicks Off: Dan & Rose Join the Fight](https://hackernoon.com/street-fighter-v-season-5-kicks-off-dan-and-rose-join-the-fight-u4j33qs)
-![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-441033nr.jpeg)
-Capcom recently revealed that the upcoming Season 5 Winter Update for Street Fighter V will bring new fighters and features to the game.
-
-### [261. 6 Video Game Properties Overdue for a Hollywood Film or TV Adaptation](https://hackernoon.com/6-video-game-properties-overdue-for-a-hollywood-film-or-tv-adaptation-p73j338x)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-u93h33bd.jpeg)
-Are flops such as Assassin's Creed and Warcraft well in the rearview mirror? What video game properties do you want to see as live-action films now? 
 
 ### [262. Dark Alliance Gameplay Overview Trailer Released Ahead of June Launch](https://hackernoon.com/dark-alliance-gameplay-overview-trailer-released-ahead-of-june-launch-c0t35se)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-lybs350i.jpeg)
@@ -1060,61 +1062,61 @@ During the latest Nintendo Direct, Capcom revealed new details on Monster Hunter
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-ta2l337d.jpeg)
 Paramount Pictures dropped the title announcement and logo for Sonic the Hedgehog 2, which is due to arrive in April 2022.
 
-### [265. Scream The Game: Why We Need It](https://hackernoon.com/scream-the-game-why-we-need-it)
-![](https://cdn.hackernoon.com/images/5Prz51a65WevCnBVDzOYV17srxr2-l1036j3.jpeg)
-A Scream game needs to happen; we've never properly had a game based around the iconic franchise and it's about time we get one.
+### [265. 6 Video Game Properties Overdue for a Hollywood Film or TV Adaptation](https://hackernoon.com/6-video-game-properties-overdue-for-a-hollywood-film-or-tv-adaptation-p73j338x)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-u93h33bd.jpeg)
+Are flops such as Assassin's Creed and Warcraft well in the rearview mirror? What video game properties do you want to see as live-action films now? 
 
-### [266. What is your favourite Nintendo first-party franchise?](https://hackernoon.com/what-is-your-favourite-nintendo-first-party-franchise-qg2934sq)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-6a6a34zj.jpeg)
-Nintendo has a plethora of games on its video game systems. The HackerNoon community discusses what our favourite first-party Nintendo franchises are.
-
-### [267. Horizon Forbidden West Release Pushed Back to 2022](https://hackernoon.com/horizon-forbidden-west-release-pushed-back-to-2022-glq37dw)
+### [266. Horizon Forbidden West Release Pushed Back to 2022](https://hackernoon.com/horizon-forbidden-west-release-pushed-back-to-2022-glq37dw)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-nhac35we.jpeg)
 Horizon Forbidden Dawn has had its release date moved back to 2022. Find out what this means and what the implications are for PlayStation Studios.
+
+### [267. What is your favourite Nintendo first-party franchise?](https://hackernoon.com/what-is-your-favourite-nintendo-first-party-franchise-qg2934sq)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-6a6a34zj.jpeg)
+Nintendo has a plethora of games on its video game systems. The HackerNoon community discusses what our favourite first-party Nintendo franchises are.
 
 ### [268. The Witcher 3: Wild Hunt GOTY Edition Hits PlayStation Now Service](https://hackernoon.com/the-witcher-3-wild-hunt-goty-edition-hits-playstation-now-service-xh14342t)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-w0834mh.jpeg)
 The Witcher 3: Wild Hunt Game of the Year Edition has now made its way to PlayStation Now, so subscribers can experience the full game from start to finish.
 
-### [269. E3 Reveals Broadcast Distribution Partners for 2021 Online-Only Event](https://hackernoon.com/e3-reveals-broadcast-distribution-partners-for-2021-online-only-event-nm1k341f)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-ykaa34st.jpeg)
-E3 has confirmed the broadcast and streaming partners for the 2021 convention, including Twitch, YouTube, Facebook, and more for this year's all-digital show.
-
-### [270. Call of Duty Warzone Update Adds Rambo and John McClane](https://hackernoon.com/call-of-duty-warzone-update-adds-rambo-and-john-mcclane-bb1534hr)
+### [269. Call of Duty Warzone Update Adds Rambo and John McClane](https://hackernoon.com/call-of-duty-warzone-update-adds-rambo-and-john-mcclane-bb1534hr)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-e19344o.jpeg)
 Call of Duty Warzone update adds iconic action stars, Rambo and John McClane. Here's everything you need to know about the details of their bundles. 
 
-### [271. Super Nintendo World at Universal Studios Japan Opens March 18th](https://hackernoon.com/super-nintendo-world-at-universal-studios-japan-opens-march-18th-ud16334u)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-v21s33m4.jpeg)
-After many delays, Super Nintendo World at Universal Studios Japan looks to finally open later this month.
+### [270. Square Enix Reveals Dragon Quest 12: The Flames of Fate](https://hackernoon.com/square-enix-reveals-dragon-quest-12-the-flames-of-fate-k9o34ju)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-4t4x34xv.jpeg)
+Dragon Quest is returning. Square Enix officially confirmed the next game in the series, Dragon Quest 12: The Flames of Fate during an anniversary livestream.
 
-### [272. PlayStation 5 New DualSense Controllers in Cosmic Red & Midnight Black](https://hackernoon.com/playstation-5-new-dualsense-controllers-in-cosmic-red-and-midnight-black-sk1i34sa)
+### [271. E3 Reveals Broadcast Distribution Partners for 2021 Online-Only Event](https://hackernoon.com/e3-reveals-broadcast-distribution-partners-for-2021-online-only-event-nm1k341f)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-ykaa34st.jpeg)
+E3 has confirmed the broadcast and streaming partners for the 2021 convention, including Twitch, YouTube, Facebook, and more for this year's all-digital show.
+
+### [272. Biomutant Video Showcases Unedited Gameplay Captured on PC](https://hackernoon.com/biomutant-video-showcases-unedited-gameplay-captured-on-pc-1y1434c9)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-l7bq345u.jpeg)
+THQ Nordic dropped some amazing, new footage of the upcoming Biomutant game showing the PC gameplay experience ahead of the May 2021 launch.
+
+### [273. PlayStation 5 New DualSense Controllers in Cosmic Red & Midnight Black](https://hackernoon.com/playstation-5-new-dualsense-controllers-in-cosmic-red-and-midnight-black-sk1i34sa)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-588x34lt.jpeg)
 Sony PlayStation has revealed new colors for the PlayStation 5 DualSense Controller in Cosmic Red and Midnight Black that will be available later this June.
-
-### [273. Which console do you think has better exclusives?](https://hackernoon.com/which-console-do-you-think-has-better-exclusives-hc19345p)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-bul29rf.jpeg)
-Exclusives have been a thing in video games for decades, and there's been a constant debate on which console has the better exclusives. Here's our preferences. 
 
 ### [274. Rose Now Available for Street Fighter V: Champion Edition, New Trailer](https://hackernoon.com/rose-now-available-for-street-fighter-v-champion-edition-new-trailer-ym1934uu)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-e4bj33ee.jpeg)
 Rose is the newest fighter for Street Fighter V: Champions Edition. The new DLC for Rose, plus her own stage, are now available for players.
 
-### [275. Square Enix Reveals Dragon Quest 12: The Flames of Fate](https://hackernoon.com/square-enix-reveals-dragon-quest-12-the-flames-of-fate-k9o34ju)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-4t4x34xv.jpeg)
-Dragon Quest is returning. Square Enix officially confirmed the next game in the series, Dragon Quest 12: The Flames of Fate during an anniversary livestream.
+### [275. Super Nintendo World at Universal Studios Japan Opens March 18th](https://hackernoon.com/super-nintendo-world-at-universal-studios-japan-opens-march-18th-ud16334u)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-v21s33m4.jpeg)
+After many delays, Super Nintendo World at Universal Studios Japan looks to finally open later this month.
 
-### [276. Tokyo Olympics 2020 Celebrates Sonic the Hedgehog's 30th Anniversary](https://hackernoon.com/tokyo-olympics-2020-celebrates-sonic-the-hedgehogs-30th-anniversary-otc37zv)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-qc9335qo.jpeg)
-SEGA is celebrating Sonic the Hedgehog's 30th Anniversary with a special video and promotion for the Sonic at the Olympic Games - Tokyo 2020 mobile title.
-
-### [277. Back 4 Blood Trailer Introduces The Cleaners and Showcases Game Story](https://hackernoon.com/back-4-blood-trailer-introduces-the-cleaners-and-showcases-game-story-1s1p34dh)
+### [276. Back 4 Blood Trailer Introduces The Cleaners and Showcases Game Story](https://hackernoon.com/back-4-blood-trailer-introduces-the-cleaners-and-showcases-game-story-1s1p34dh)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-f7cx34o5.jpeg)
 Back 4 Blood dropped a new story trailer today revealing The Cleaners, the playable heroes of the game, and also dropped more information on the game's story.
 
-### [278. Biomutant Video Showcases Unedited Gameplay Captured on PC](https://hackernoon.com/biomutant-video-showcases-unedited-gameplay-captured-on-pc-1y1434c9)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-l7bq345u.jpeg)
-THQ Nordic dropped some amazing, new footage of the upcoming Biomutant game showing the PC gameplay experience ahead of the May 2021 launch.
+### [277. Which console do you think has better exclusives?](https://hackernoon.com/which-console-do-you-think-has-better-exclusives-hc19345p)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-bul29rf.jpeg)
+Exclusives have been a thing in video games for decades, and there's been a constant debate on which console has the better exclusives. Here's our preferences. 
+
+### [278. Tokyo Olympics 2020 Celebrates Sonic the Hedgehog's 30th Anniversary](https://hackernoon.com/tokyo-olympics-2020-celebrates-sonic-the-hedgehogs-30th-anniversary-otc37zv)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-qc9335qo.jpeg)
+SEGA is celebrating Sonic the Hedgehog's 30th Anniversary with a special video and promotion for the Sonic at the Olympic Games - Tokyo 2020 mobile title.
 
 ### [279. Will Future Bethesda Titles be Xbox Exclusives? ](https://hackernoon.com/will-future-bethesda-titles-be-xbox-exclusives-f626334f)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-m36l3283.jpeg)
@@ -1144,21 +1146,21 @@ A Tony Hawk Nintendo Switch port is on its way, so here's everything you need to
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-a43p331e.jpeg)
 Capcom confirmed a new Resident Evil Digital Showcase event for April, plus a new open beta test for the Resident Evil: Re:Verse multiplayer experience.
 
-### [286. Sonic the Hedgehog 30th Anniversary Livestream Scheduled for May 27](https://hackernoon.com/sonic-the-hedgehog-30th-anniversary-livestream-scheduled-for-may-27-ye10343r)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-za8u34ht.jpeg)
-SEGA has announced that there will be a livestream celebration this week for Sonic the Hedgehog and the Blue Blur's 30th anniversary. 
-
-### [287. Back 4 Blood Release Pushed Back to October](https://hackernoon.com/back-4-blood-release-pushed-back-to-october-1d1l33ka)
+### [286. Back 4 Blood Release Pushed Back to October](https://hackernoon.com/back-4-blood-release-pushed-back-to-october-1d1l33ka)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-bs1e33hn.jpeg)
 Turtle Rock Studios has confirmed a release delay for Back 4 Blood, which is moving from June 22 to October 12, 2021.
 
-### [288. Anthem: BioWare Ceasing Development on Game Restructuring aka Anthem NEXT](https://hackernoon.com/anthem-bioware-ceasing-development-on-game-restructuring-aka-anthem-next-qr2o33xp)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-0g1z3377.jpeg)
-In an official blog post, BioWare has announced that the studio is officially ending all development on Anthem and a planned relaunch, Anthem Next.
+### [287. Sonic the Hedgehog 30th Anniversary Livestream Scheduled for May 27](https://hackernoon.com/sonic-the-hedgehog-30th-anniversary-livestream-scheduled-for-may-27-ye10343r)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-za8u34ht.jpeg)
+SEGA has announced that there will be a livestream celebration this week for Sonic the Hedgehog and the Blue Blur's 30th anniversary. 
 
-### [289. 5 Gaming YouTubers That are Worth a Sub](https://hackernoon.com/5-gaming-youtubers-that-are-worth-a-sub-pr4f33lb)
+### [288. 5 Gaming YouTubers That are Worth a Sub](https://hackernoon.com/5-gaming-youtubers-that-are-worth-a-sub-pr4f33lb)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-6e3m3374.jpeg)
 There are far too many people sharing their opinions about gaming on the internet but not all of them are for us. These are some people who we enjoy the most. 
+
+### [289. Anthem: BioWare Ceasing Development on Game Restructuring aka Anthem NEXT](https://hackernoon.com/anthem-bioware-ceasing-development-on-game-restructuring-aka-anthem-next-qr2o33xp)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-0g1z3377.jpeg)
+In an official blog post, BioWare has announced that the studio is officially ending all development on Anthem and a planned relaunch, Anthem Next.
 
 ### [290. Should EA or BioWare Revamp and Reboot Anthem? ](https://hackernoon.com/should-ea-or-bioware-revamp-and-reboot-anthem-pz1934wy)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-d4j33cs.jpeg)

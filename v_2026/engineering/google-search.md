@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [google-search](https://hackernoon.com/tagged/google-search)
+### Let's learn about [Google Search](https://hackernoon.com/tagged/google-search) via these 85 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Google Search is a web search engine that indexes billions of web pages, allowing users to find information using keywords. It is indispensable for accessing information, conducting research, and navigating the vastness of the internet, profoundly impacting daily life and commerce.
+
 ### [1. How to Use Google Trends API with Python  ](https://hackernoon.com/how-to-use-google-trends-api-with-python)
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-bo03215.jpeg)
 Google Trends website provides analysis of different search results on Google Search based on various criteria such as regions, time and language. As a developer, you can use Google Trends API in python to get the same results as presented on the Google Trends website via Pytrends.
@@ -73,13 +77,13 @@ Private search engines aren't just for people wearing tinfoil hats anymore. Over
 ![](https://cdn.hackernoon.com/images/3FjCCaNQLtgZLoGL3n1QJy0eZMi1-8h834jf.jpeg)
 Uncover the harsh truth behind search ranking. I've had a conversation with Google's AI, Gemini, revealing ranking flaws where valuable content gets buried.
 
-### [19. Link Building 3.0: How Smart Links Will Change How We Transact Online](https://hackernoon.com/link-building-30-how-smart-links-will-change-how-we-transact-online-ok3t36w2)
-![](https://cdn.hackernoon.com/drafts/08m36mp.png)
-Cryptocurrencies are a democratization of typical currencies. They’re not regulated by any single governing body. They’re accessible to anyone with technological access and understanding. And hypothetically, they could be universally accessible. Even more importantly, their existence is maintained, tracked, and governed by the people using them. 
-
-### [20. Google, the Rise of Junk Articles and Why it has Become Harder to Find Info on the Web ](https://hackernoon.com/google-the-rise-of-junk-articles-and-why-it-has-become-harder-to-find-info-on-the-web)
+### [19. Google, the Rise of Junk Articles and Why it has Become Harder to Find Info on the Web ](https://hackernoon.com/google-the-rise-of-junk-articles-and-why-it-has-become-harder-to-find-info-on-the-web)
 ![](https://cdn.hackernoon.com/images/PbjUz2YTWJM7LTzystEKNHyN5xw1-bvp3px0.jpeg)
 You’re googling something. The first result seems promising. You open it. It’s a really long, messy article, and you can’t find your needle in this haystack.
+
+### [20. Link Building 3.0: How Smart Links Will Change How We Transact Online](https://hackernoon.com/link-building-30-how-smart-links-will-change-how-we-transact-online-ok3t36w2)
+![](https://cdn.hackernoon.com/drafts/08m36mp.png)
+Cryptocurrencies are a democratization of typical currencies. They’re not regulated by any single governing body. They’re accessible to anyone with technological access and understanding. And hypothetically, they could be universally accessible. Even more importantly, their existence is maintained, tracked, and governed by the people using them. 
 
 ### [21. AI Says My Schtick is Bigger Than Yours!](https://hackernoon.com/ai-says-my-schtick-is-bigger-than-yours)
 ![](https://cdn.hackernoon.com/images/n1dI6li21TP6VwxnogARUrBf8t62-sdb3v71.jpeg)
@@ -149,69 +153,69 @@ We've all ran to Google to research and checked the suggestions right after typi
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-qc93mt0.jpeg)
 Google has introduced the groundbreaking Google Search Generative Experience, revolutionizing how we explore and discover information.
 
-### [38. How to Do Local SEO in 2019](https://hackernoon.com/how-to-do-local-seo-in-2019-7hu3226)
-![](https://cdn.hackernoon.com/drafts/hglx32qd.png)
-Every business should have a strong local strategy if they want to target the local audience. Local SEO strategy will help them rank higher on local SERP and generate quality leads.
-
-### [39. SEO, Data Science & Correlative Analysis For Google Organic Traffic](https://hackernoon.com/seo-data-science-and-correlative-analysis-for-google-organic-traffic-qrq3ukg)
+### [38. SEO, Data Science & Correlative Analysis For Google Organic Traffic](https://hackernoon.com/seo-data-science-and-correlative-analysis-for-google-organic-traffic-qrq3ukg)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsuZmnkqH7EdIWfJF0dGeH0ZZ8vx2-vigf3uzp.jpeg?alt=media&token=ecfeee80-3f9c-4f56-98c6-45a576d39301)
 This article will touch on how data science can be used in SEO and look at how correlative analysis should be used during the content creation process. For those not familiar with these topics, there will be examples and pictures but as should be expected when covering any complicated topic, the scope of the article will be limited to the main purpose.
+
+### [39. How to Do Local SEO in 2019](https://hackernoon.com/how-to-do-local-seo-in-2019-7hu3226)
+![](https://cdn.hackernoon.com/drafts/hglx32qd.png)
+Every business should have a strong local strategy if they want to target the local audience. Local SEO strategy will help them rank higher on local SERP and generate quality leads.
 
 ### [40. Humans Go to War for Machines: A Case of Google and OpenAI](https://hackernoon.com/humans-go-to-war-for-machines-a-case-of-google-and-openai)
 ![](https://cdn.hackernoon.com/images/gJIQIg1YPxb5RjSISA8RrkbCDv83-kd93q29.jpeg)
 We thought nothing could beat the value that Google brings to the market, as a search engine. We had no idea we were in for a surprise. 
 
-### [41. 376 Stories To Learn About Google](https://hackernoon.com/376-stories-to-learn-about-google)
-![](https://cdn.hackernoon.com/images/github/google-655.png)
-Learn everything you need to know about Google via these 376 free HackerNoon stories.
-
-### [42. How to Build a Strong Local SEO Strategy (5 Expert Tips)](https://hackernoon.com/how-to-build-a-strong-local-seo-strategy-5-expert-tips)
+### [41. How to Build a Strong Local SEO Strategy (5 Expert Tips)](https://hackernoon.com/how-to-build-a-strong-local-seo-strategy-5-expert-tips)
 ![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-el93kft.jpeg)
 Driving more local search traffic to your site can help you increase sales and engagement. I'm going to show you how to get started. 
+
+### [42. 376 Stories To Learn About Google](https://hackernoon.com/376-stories-to-learn-about-google)
+![](https://cdn.hackernoon.com/images/github/google-655.png)
+Learn everything you need to know about Google via these 376 free HackerNoon stories.
 
 ### [43. Is Google’s Hegemonic Long Years of Being a Search Engine Ending?](https://hackernoon.com/is-googles-hegemonic-long-years-of-being-a-search-engine-ending)
 ![](https://cdn.hackernoon.com/images/a-servant-bowing-to-a-master-cld8wwmqq000001s69uw2aw60.png)
 TikTok releases an ad on how to search on the app; hence, functioning seemingly to the Google search engine. 
 
-### [44. Googling Is a Skill: 4 Advanced Search Tips to Ask Google the Right Way](https://hackernoon.com/googling-is-a-skill-4-advanced-search-tips-to-ask-google-the-right-way)
-![](https://cdn.hackernoon.com/images/9S1vwdm8BSSIM68NViog8lnaQPi2-2c92g0o.jpeg)
-Why don't you just ask Google? 
-
-### [45. Understanding Core Web Vitals: The Vital Signs of Your Website](https://hackernoon.com/understanding-core-web-vitals-the-vital-signs-of-your-website)
+### [44. Understanding Core Web Vitals: The Vital Signs of Your Website](https://hackernoon.com/understanding-core-web-vitals-the-vital-signs-of-your-website)
 ![](https://cdn.hackernoon.com/images/fLJ2N25lXzgKxtgg4SiAfT9VDls1-pt834tk.jpeg)
 We provide an in-depth look at Google's Core Web Vitals, metrics introduced to assess website performance. 
 
-### [46. AI Growth Marketing: Between Business Reality and Obscure Singularity](https://hackernoon.com/ai-growth-marketing-between-business-reality-and-obscure-singularity)
+### [45. AI Growth Marketing: Between Business Reality and Obscure Singularity](https://hackernoon.com/ai-growth-marketing-between-business-reality-and-obscure-singularity)
 ![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-i193rq2.jpeg)
 In Growth Marketing Kingdom, Content Is Still The King, And ChatGPT Is The Queen. But, There's A Catch...
+
+### [46. Googling Is a Skill: 4 Advanced Search Tips to Ask Google the Right Way](https://hackernoon.com/googling-is-a-skill-4-advanced-search-tips-to-ask-google-the-right-way)
+![](https://cdn.hackernoon.com/images/9S1vwdm8BSSIM68NViog8lnaQPi2-2c92g0o.jpeg)
+Why don't you just ask Google? 
 
 ### [47. Everyone Says Google Is Dead. Here’s Why They’re Wrong](https://hackernoon.com/everyone-says-google-is-dead-heres-why-theyre-wrong)
 ![](https://cdn.hackernoon.com/images/1sdeCsI7RcMBQLeyOD1lFOWGYXK2-8j03fmx.jpeg)
 Google is still cooking amazing things in their AI kitchen.
 
-### [48. 7 Reasons Why You're Not Ranking On Google’s First Page Yet](https://hackernoon.com/7-reasons-why-youre-not-ranking-on-googles-first-page-yet-1s11343h)
-![](https://hackernoon.com/images/qufEodg27xS4MML5E3FgitA1TkN2-102331rg.jpeg)
-Here you will learn what’s stopping your excellent site from hitting the first page of Google. Fix these 7 issues and rank higher on Google.
-
-### [49. How I Get My Blog on #1 Page on Google Without Any SEO Hacks](https://hackernoon.com/how-i-get-my-blog-on-1-page-on-google-without-any-seo-hacks-l6113uf2)
+### [48. How I Get My Blog on #1 Page on Google Without Any SEO Hacks](https://hackernoon.com/how-i-get-my-blog-on-1-page-on-google-without-any-seo-hacks-l6113uf2)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKhFKJSpEVWerA4xngWNOb5njusf1-tex3u1d.webp?alt=media&token=61bb30d6-38d0-49a3-b720-d77cb814d609)
 No, it isn’t clickbait or a false promise. I’m really going to show you how I ranked my blog on the first page on Google.
 
-### [50. Why Startups Should Focus on Revenue And Innovation, Not at SEO ](https://hackernoon.com/why-startups-should-focus-on-revenue-and-innovation-not-at-seo-7s1336h4)
-![](https://cdn.hackernoon.com/drafts/0o723617.png)
-The success-killer for most startups is not running out of cash. It’s running out of time.
+### [49. 7 Reasons Why You're Not Ranking On Google’s First Page Yet](https://hackernoon.com/7-reasons-why-youre-not-ranking-on-googles-first-page-yet-1s11343h)
+![](https://hackernoon.com/images/qufEodg27xS4MML5E3FgitA1TkN2-102331rg.jpeg)
+Here you will learn what’s stopping your excellent site from hitting the first page of Google. Fix these 7 issues and rank higher on Google.
 
-### [51. Why I've Replaced Google With AI For Research](https://hackernoon.com/why-ive-replaced-google-with-ai-for-research)
-![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-v803bjy.jpeg)
-AI tools like Claude are changing how we search—faster answers, cited sources, and no tab chaos. But Google isn’t dead yet.
-
-### [52. Privacy is a human right: An Interview with Startpage founder, Robert E.G. Beens](https://hackernoon.com/privacy-is-a-human-right-an-interview-with-startpage-founder-robert-eg-beens-f93f35s9)
+### [50. Privacy is a human right: An Interview with Startpage founder, Robert E.G. Beens](https://hackernoon.com/privacy-is-a-human-right-an-interview-with-startpage-founder-robert-eg-beens-f93f35s9)
 ![](https://cdn.hackernoon.com/images/UlJuUK0WvGgdR04z1uEima8N6w83-vr3a23zk.jpeg)
 Startpage Founder and CEO Robert E.G. Beens explains what inspired him to start the world's first private search engine.
 
-### [53. AI-Generated Content vs. Google Search: Comprehensive Guide](https://hackernoon.com/ai-generated-content-vs-google-search-comprehensive-guide)
+### [51. Why Startups Should Focus on Revenue And Innovation, Not at SEO ](https://hackernoon.com/why-startups-should-focus-on-revenue-and-innovation-not-at-seo-7s1336h4)
+![](https://cdn.hackernoon.com/drafts/0o723617.png)
+The success-killer for most startups is not running out of cash. It’s running out of time.
+
+### [52. AI-Generated Content vs. Google Search: Comprehensive Guide](https://hackernoon.com/ai-generated-content-vs-google-search-comprehensive-guide)
 ![](https://cdn.hackernoon.com/images/LV1DMLyNWcXbOhs5NmADf3fDxY83-jd831t0.jpeg)
 AI-generated content has become omnipresent in the current media landscape, which is not baseless.
+
+### [53. Why Hasn't My Page Ranked on Google’s First Page Yet?](https://hackernoon.com/why-hasnt-my-page-ranked-on-googles-first-page-yet-a26p31id)
+![](https://cdn.hackernoon.com/images/qufEodg27xS4MML5E3FgitA1TkN2-102331rg.jpeg)
+Here you will learn what’s stopping your excellent site from hitting the first page of Google. Fix these 7 issues and rank higher on Google.
 
 ### [54. Perplexity.ai - The New King of Search](https://hackernoon.com/why-i-stopped-using-google-and-switched-to-this-llm-instead)
 ![](https://cdn.hackernoon.com/images/9SBj6OzMvXOEhDxTjjuu75pLYnp1-zf8369d.png)
@@ -225,64 +229,64 @@ we will discuss a few methods to get rid of (to disable) the “Google’s Se
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgB5snUK7yJQrARkIwZjFQl3lEnO2-k0r4ut4.jpeg?alt=media&token=b18eaa4b-42f2-4510-bd0c-dd1ef8e4097a)
 As you take steps to grow search engine traffic to your website, there are dumb SEO mistakes you need to avoid.
 
-### [57. Why Hasn't My Page Ranked on Google’s First Page Yet?](https://hackernoon.com/why-hasnt-my-page-ranked-on-googles-first-page-yet-a26p31id)
-![](https://cdn.hackernoon.com/images/qufEodg27xS4MML5E3FgitA1TkN2-102331rg.jpeg)
-Here you will learn what’s stopping your excellent site from hitting the first page of Google. Fix these 7 issues and rank higher on Google.
+### [57. Ranking to Sell: How to Rank on Google so you Can Sell More](https://hackernoon.com/ranking-to-sell-how-to-rank-on-google-so-you-can-sell-more)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-4o93z8f.jpeg)
+Conducting successful sales online has never been an easy task, especially with the dawn of SEO ranking on Google. The ranking system on Google is in such a way that websites ranking outside the first ten results hardly get recognition. This means that their products are rarely bought online, reducing their sales and e-commerce business. Therefore, you need to ensure your online business website ranks among the first ten on Google to guarantee your online visibility and improve your sales. Although it could be a daunting task, this article has compiled the best ways to ensure your Google ranking soars up, and your sales increase over time. 
 
-### [58. Trends in Search: 8 SEO Tips to Increase Your SERP Ranking in 2021](https://hackernoon.com/trends-in-search-8-seo-tips-to-increase-your-serp-ranking-in-2021)
-![](https://cdn.hackernoon.com/images/1GwrAxeOyjTdTwr3efl6AA6tdIb2-y4d9353i.jpeg)
-SEO can be a difficult topic to understand with acronyms and words most people have never heard before. Despite this, it is an essential part of growing online.
-
-### [59. Google Ads Tutorial: A Guide to Setting Up Your First Google Ads Campaign](https://hackernoon.com/google-ads-tutorial-a-guide-to-setting-up-your-first-google-ads-campaign-u32m3y9p)
+### [58. Google Ads Tutorial: A Guide to Setting Up Your First Google Ads Campaign](https://hackernoon.com/google-ads-tutorial-a-guide-to-setting-up-your-first-google-ads-campaign-u32m3y9p)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-s282qcv.jpeg)
 Google Ads are to online marketing what the “pizza move” is to beginner skiers—once you get the hang of the basics, you’ll start seeing results straight away (and likely be keen to learn more, more, more). But that initial learning curve can be a little daunting, especially if you’re still learning about online marketing in general, and all the tactics, tools, and strategies that come with it.
 
-### [60. What are the Best Google Searching Tips and Tricks?](https://hackernoon.com/what-are-the-best-google-searching-tips-and-tricks)
+### [59. Trends in Search: 8 SEO Tips to Increase Your SERP Ranking in 2021](https://hackernoon.com/trends-in-search-8-seo-tips-to-increase-your-serp-ranking-in-2021)
+![](https://cdn.hackernoon.com/images/1GwrAxeOyjTdTwr3efl6AA6tdIb2-y4d9353i.jpeg)
+SEO can be a difficult topic to understand with acronyms and words most people have never heard before. Despite this, it is an essential part of growing online.
+
+### [60. Top Search Marketing Predictions for 2026- How AI Will Reshape SEO in The Coming Year ](https://hackernoon.com/top-search-marketing-predictions-for-2026-how-ai-will-reshape-seo-in-the-coming-year)
+![](https://cdn.hackernoon.com/images/iOdNnBBKAJcYssj85LqMJSOyKaF2-q203glw.png)
+Here are the top search marketing predictions for 2026 and how AI will reshape SEO, from AI-driven answers to brand authority and structured data strategies. 
+
+### [61. What are the Best Google Searching Tips and Tricks?](https://hackernoon.com/what-are-the-best-google-searching-tips-and-tricks)
 ![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-jk0350r.jpeg)
 Google has many hacks that most of us are not aware. In this slogging thread, the tech channel covered tips that can be useful for searching a specific topic.
 
-### [61. What to Expect in 2019 From Google’s Knowledge Graph Updates](https://hackernoon.com/what-to-expect-in-2019-from-googles-knowledge-graph-updates-341532vg)
+### [62. What to Expect in 2019 From Google’s Knowledge Graph Updates](https://hackernoon.com/what-to-expect-in-2019-from-googles-knowledge-graph-updates-341532vg)
 ![](https://cdn.hackernoon.com/drafts/iki232fl.png)
 To those folks who are accustomed doing search engine optimization (SEO), we’ve been viewing URLs stuffed with content, and links between that content, however algorithms like PageRank (based upon links pointed between pages) and data retrieval scores primarily based upon the connection of that content are determinative how well pages rank in search engines and ends up in response to queries entered into search boxes by searchers. Websites connected by links are seen as info points connected by nodes. This was the primary generation of SEO.
 
 Chances are pretty high that several of the strategies that we've been exploiting and trying to do SEO can stay the identical as new options seem in search, like knowledge panels, rich results, featured snippets, structured snippets, search by photos, and enlarged schema covering more industries and options then it does at the moment. 
 
-### [62. Awesome Free Tools Made By Google That Can Improve your SEO ](https://hackernoon.com/awesome-free-tools-made-by-google-that-can-improve-your-seo-i71r3tr8)
+### [63. Awesome Free Tools Made By Google That Can Improve your SEO ](https://hackernoon.com/awesome-free-tools-made-by-google-that-can-improve-your-seo-i71r3tr8)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3kvPLNdvNIZiacYq1UpVaIvWR8m1-3y73x3q.jpeg?alt=media&token=03d7c726-4a81-4254-940e-1fa0c37980ee)
 In this article, I have prepared a list of free SEO tools developed by Google that everyone must use. I have also provided links to every tool.
 
-### [63. Ranking to Sell: How to Rank on Google so you Can Sell More](https://hackernoon.com/ranking-to-sell-how-to-rank-on-google-so-you-can-sell-more)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-4o93z8f.jpeg)
-Conducting successful sales online has never been an easy task, especially with the dawn of SEO ranking on Google. The ranking system on Google is in such a way that websites ranking outside the first ten results hardly get recognition. This means that their products are rarely bought online, reducing their sales and e-commerce business. Therefore, you need to ensure your online business website ranks among the first ten on Google to guarantee your online visibility and improve your sales. Although it could be a daunting task, this article has compiled the best ways to ensure your Google ranking soars up, and your sales increase over time. 
-
-### [64. Top Search Marketing Predictions for 2026- How AI Will Reshape SEO in The Coming Year ](https://hackernoon.com/top-search-marketing-predictions-for-2026-how-ai-will-reshape-seo-in-the-coming-year)
-![](https://cdn.hackernoon.com/images/iOdNnBBKAJcYssj85LqMJSOyKaF2-q203glw.png)
-Here are the top search marketing predictions for 2026 and how AI will reshape SEO, from AI-driven answers to brand authority and structured data strategies. 
+### [64. Will ChatGPT Do to Google What Google Did to The Yellow Pages?](https://hackernoon.com/will-chatgpt-do-to-google-what-google-did-to-the-yellow-pages)
+![](https://cdn.hackernoon.com/images/will-chat-gpt-do-to-google-what-google-did-to-the-yellow-pages-clcscyv24000001s6g0qv4pvu.png)
+Joe Speiser goes over ChatGPT and if it will take over Google's use.
 
 ### [65. How Does Google Calculate the SERP?](https://hackernoon.com/how-does-google-calculate-the-serp-lk1r3ww8)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FloNECI0cSoOsnDiem1s9vr2VmUB2-yg113tte.jpeg?alt=media&token=a6b85dcb-9757-4c75-a3dd-df0f96a49c2e)
 Business visionaries and sponsors the world over are endeavouring to understand how to get their pages to rank better in Google. Nevertheless, it's basic to consider why and how Google ranks locales. Those locales that appear on the essential page for a search question are those that Google considers being the most critical, relevant and finally significant to the searcher, for a specific request. 
 
-### [66. Will ChatGPT Do to Google What Google Did to The Yellow Pages?](https://hackernoon.com/will-chatgpt-do-to-google-what-google-did-to-the-yellow-pages)
-![](https://cdn.hackernoon.com/images/will-chat-gpt-do-to-google-what-google-did-to-the-yellow-pages-clcscyv24000001s6g0qv4pvu.png)
-Joe Speiser goes over ChatGPT and if it will take over Google's use.
-
-### [67. A Guide to Google Multisearch](https://hackernoon.com/a-guide-to-google-multisearch)
+### [66. A Guide to Google Multisearch](https://hackernoon.com/a-guide-to-google-multisearch)
 ![](https://cdn.hackernoon.com/images/LP4MgvFqPAMAedTeWi7uoO8raut1-hp93pct.jpeg)
 Google Multisearch has the potential to radically alter how online searches are conducted, which will certainly have ramifications for website owners everywhere
 
-### [68. Google Custom Search Engine and More: Search Engines, Made By Google](https://hackernoon.com/google-custom-search-engine-and-more-search-engines-made-by-google-g63b3uui)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGL2u4Ho48vbrAlD9O5BAaueWDzy2-bbn3unr.jpeg?alt=media&token=ed4cf115-f56b-4a8c-86f7-4027f3557ddf)
-Google has a web index. We’re all acquainted with it. It’s at google.com. 
+### [67. Why I've Replaced Google With AI For Research](https://hackernoon.com/why-ive-replaced-google-with-ai-for-research)
+![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-v803bjy.jpeg)
+AI tools like Claude are changing how we search—faster answers, cited sources, and no tab chaos. But Google isn’t dead yet.
 
-### [69. How Long Does It Take To Rank At The Top Of Google Search Results ](https://hackernoon.com/how-long-does-it-take-to-rank-at-the-top-of-google-search-results-xp1j33qf)
+### [68. How Long Does It Take To Rank At The Top Of Google Search Results ](https://hackernoon.com/how-long-does-it-take-to-rank-at-the-top-of-google-search-results-xp1j33qf)
 ![](https://cdn.hackernoon.com/images/T5UJy0cgSmfMWgGtpeYfQu3nlVH3-rfn33yr.jpeg)
 The question that always come up regarding search engine optimization is; How long my SEO results start to visible? Let's find the answer to that elusive quest.
 
-### [70. What Analyzing Google Search Results Revealed About Google](https://hackernoon.com/what-analyzing-google-search-results-revealed-about-google-k4z32mz)
+### [69. What Analyzing Google Search Results Revealed About Google](https://hackernoon.com/what-analyzing-google-search-results-revealed-about-google-k4z32mz)
 ![](https://hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-kyr34t6.jpeg)
 We designed an experiment to measure the quantity and placement of 
 these Google-created and self-referential search results and how they compare to others.
+
+### [70. Google Custom Search Engine and More: Search Engines, Made By Google](https://hackernoon.com/google-custom-search-engine-and-more-search-engines-made-by-google-g63b3uui)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGL2u4Ho48vbrAlD9O5BAaueWDzy2-bbn3unr.jpeg?alt=media&token=ed4cf115-f56b-4a8c-86f7-4027f3557ddf)
+Google has a web index. We’re all acquainted with it. It’s at google.com. 
 
 ### [71. How to Create and Market Content in the New Googleverse: Part 1](https://hackernoon.com/how-to-create-and-market-content-in-the-new-googleverse-part-1)
 ![](https://cdn.hackernoon.com/images/jHNNmyUnfjeUdKkK11xXs6PC8C22-ig93xg2.jpeg)
@@ -306,25 +310,25 @@ The Markup obtained internal documents that coach new employees to avoid creatin
 Search engines exist today because of the pioneering work of Yorkshire-born computer scientist Karen Spärck Jones.  
 
 
-### [76. Are You Sick of Big Brother's Search Engine Results?](https://hackernoon.com/are-you-sick-of-big-brothers-search-engine-results)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-i9p37vj.jpeg)
-Get an *expletive* move on and create a search engine that gives us some sought-after results, instead of paid-for ads from nincompoops.
-
-### [77. Chrome Extention That Will Enable Dev Snippets on Google Search Results](https://hackernoon.com/chrome-extention-that-will-enable-dev-snippets-on-google-search-results-rg7m3yzi)
-![](https://cdn.hackernoon.com/images/b413a3ytf.jpg)
-Are you too lazy to click on search results to see the actual Stack Overflow answer, npm install instructions or the GitHub repo's README.md file?
-
-### [78. How to Find and Leverage Your Most Popular Pages](https://hackernoon.com/how-to-find-and-leverage-your-most-popular-pages-qer35ub)
+### [76. How to Find and Leverage Your Most Popular Pages](https://hackernoon.com/how-to-find-and-leverage-your-most-popular-pages-qer35ub)
 ![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-go2k35pa.jpeg)
 Learn easy ways to find and leverage your most popular pages to maximize the organic traffic to your website and boost sales for your business.
 
-### [79. Google's Search Algorithm Affects Our Lives in More Ways Than One [A Deep Dive]](https://hackernoon.com/googles-search-algorithm-affects-our-lives-in-more-ways-than-one-a-deep-dive-2tg438ie)
-![](https://cdn.hackernoon.com/images/14p736ch.jpg)
-For better or for worse, Google has become one of the biggest vendors of information in the world. Its library of search results shape and/or reaffirm opinions on a daily basis. The search giant's algorithm dictates what information searchers receive and thus has a direct impact on every person's knowledge base and understanding of numerous topics.
+### [77. Are You Sick of Big Brother's Search Engine Results?](https://hackernoon.com/are-you-sick-of-big-brothers-search-engine-results)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-i9p37vj.jpeg)
+Get an *expletive* move on and create a search engine that gives us some sought-after results, instead of paid-for ads from nincompoops.
 
-### [80. Building Links for Your Business: 4 Expert Tips](https://hackernoon.com/building-links-for-your-business-4-expert-tips)
+### [78. Chrome Extention That Will Enable Dev Snippets on Google Search Results](https://hackernoon.com/chrome-extention-that-will-enable-dev-snippets-on-google-search-results-rg7m3yzi)
+![](https://cdn.hackernoon.com/images/b413a3ytf.jpg)
+Are you too lazy to click on search results to see the actual Stack Overflow answer, npm install instructions or the GitHub repo's README.md file?
+
+### [79. Building Links for Your Business: 4 Expert Tips](https://hackernoon.com/building-links-for-your-business-4-expert-tips)
 ![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-7893htl.jpeg)
 Building links for your business is an excellent way to generate more sales, build trust with your audience, and increase engagement. Here's how to get started.
+
+### [80. Google's Search Algorithm Affects Our Lives in More Ways Than One [A Deep Dive]](https://hackernoon.com/googles-search-algorithm-affects-our-lives-in-more-ways-than-one-a-deep-dive-2tg438ie)
+![](https://cdn.hackernoon.com/images/14p736ch.jpg)
+For better or for worse, Google has become one of the biggest vendors of information in the world. Its library of search results shape and/or reaffirm opinions on a daily basis. The search giant's algorithm dictates what information searchers receive and thus has a direct impact on every person's knowledge base and understanding of numerous topics.
 
 ### [81. Tips on Recovering From a Google Penalty ](https://hackernoon.com/tips-on-recovering-from-a-google-penalty-f62l3yq9)
 ![](https://cdn.hackernoon.com/drafts/8p9p4wbf.png)

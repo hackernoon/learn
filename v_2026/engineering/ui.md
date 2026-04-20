@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ui](https://hackernoon.com/tagged/ui)
+### Let's learn about [Ui](https://hackernoon.com/tagged/ui) via these 174 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 UI stands for User Interface. Want to learn more about it? Check out the latest articles on UI.
 
 ### [1. 23 Best React UI Component Libraries And Frameworks](https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42)
@@ -172,17 +174,17 @@ AI tools give marketers and designers unique opportunities to create a better us
 ![](https://cdn.hackernoon.com/images/D0OBb8CGuBNP82rV561sQ8t51Gp1-no93okm.jpeg)
 The New Technology Dilemma
 
-### [42. Why visualizations in Health don’t work](https://hackernoon.com/why-visualizations-in-health-dont-work-og1wx3w1l)
-![](https://cdn.hackernoon.com/images/jn5803zcn.jpg)
-Visualizations in the most favorite health apps don’t have enough comparing and exploring possibilities.
+### [42. 12 Awesome Toggle Switch Designs (With Source Code!) 🎨💖](https://hackernoon.com/12-awesome-toggle-switch-designs-with-source-code)
+![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-ns83y16.jpeg)
+Finding the perfect toggle design can be a challenge. This article addresses the problem by showcasing 12 creative examples with code.
 
 ### [43. Enhance Your UI/UX With These 16 Web Designer Resources🔥🎨](https://hackernoon.com/enhance-your-uiux-with-these-16-web-designer-resources)
 ![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-4e03y3s.jpeg)
 In this article, I've curated 16 essential resources across a variety of domains including icons, illustrations, colors, gradients, fonts, mockups, etc.
 
-### [44. 12 Awesome Toggle Switch Designs (With Source Code!) 🎨💖](https://hackernoon.com/12-awesome-toggle-switch-designs-with-source-code)
-![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-ns83y16.jpeg)
-Finding the perfect toggle design can be a challenge. This article addresses the problem by showcasing 12 creative examples with code.
+### [44. Why visualizations in Health don’t work](https://hackernoon.com/why-visualizations-in-health-dont-work-og1wx3w1l)
+![](https://cdn.hackernoon.com/images/jn5803zcn.jpg)
+Visualizations in the most favorite health apps don’t have enough comparing and exploring possibilities.
 
 ### [45. Using the imgix API to Build a Responsive Image Gallery in React](https://hackernoon.com/using-the-imgix-api-to-build-a-responsive-image-gallery-in-react)
 ![](https://cdn.hackernoon.com/images/qEyR6rrtSuQYAumVgjwd7lxvi9L2-vta3pnb.jpeg)
@@ -224,13 +226,13 @@ I curated some of my favorite front-end resources for colors and palettes, fonts
 ![](https://cdn.hackernoon.com/images/VsmA4nuNj6M5RgFEXKLYCAjyQdg2-7ca3u6i.jpeg)
 One way to help your web3 project grow and thrive is by incorporating game mechanics, which are the principles and rules that govern a game.
 
-### [55. How Can Declarative Programming  Simplify Your User Interface](https://hackernoon.com/how-can-declarative-programming-simplify-your-user-interface-8b1i3udy)
-![](https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Flower
-
-### [56. The Top C# .NET Datagrids](https://hackernoon.com/the-top-c-net-datagrids)
+### [55. The Top C# .NET Datagrids](https://hackernoon.com/the-top-c-net-datagrids)
 ![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-vd0344i.png)
 Explore C# .NET datagrids and their notable features for your applications in this review of leading options.
+
+### [56. How Can Declarative Programming  Simplify Your User Interface](https://hackernoon.com/how-can-declarative-programming-simplify-your-user-interface-8b1i3udy)
+![](https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Flower
 
 ### [57. Best Practices for Designing a User-Centric Dashboard](https://hackernoon.com/best-practices-for-designing-a-user-centric-dashboard-ubqb32au)
 ![](https://cdn.hackernoon.com/drafts/nh6h3y0x.png)
@@ -252,13 +254,13 @@ Typically, domain models and UI views are completely separated. A few years ago,
 ![](https://cdn.hackernoon.com/images/XkPFT5zwClawBHoLEpMGegeEAZ12-7db36om.jpeg)
 How troubleshooting CI Machines and identifying elements is helpful when testing your iOS UI mockup for your project as well as how to speed up the process. 
 
-### [62. Developer Challenge: Can You Recreate this Web Component?](https://hackernoon.com/developer-challenge-can-you-recreate-this-web-component)
-![](https://cdn.hackernoon.com/images/oUS9HxHnMOackh1UhEDoXjMokWv1-19418mv.jpeg)
-Are you a confident front-end developer? I challenge you to re-create this component from GitHub. It’s not as easy as you may think!
-
-### [63. Design Battle: Visual Design vs Functional Design](https://hackernoon.com/design-battle-visual-design-vs-functional-design)
+### [62. Design Battle: Visual Design vs Functional Design](https://hackernoon.com/design-battle-visual-design-vs-functional-design)
 ![](https://cdn.hackernoon.com/images/fvUVecsJcIafdFxC4UfK1Rh1J5q2-sh93hqa.jpeg)
 Sometimes, designers get confused on which design styles to apply to their work. It all depends on what the work is for and who the target audience is.
+
+### [63. Developer Challenge: Can You Recreate this Web Component?](https://hackernoon.com/developer-challenge-can-you-recreate-this-web-component)
+![](https://cdn.hackernoon.com/images/oUS9HxHnMOackh1UhEDoXjMokWv1-19418mv.jpeg)
+Are you a confident front-end developer? I challenge you to re-create this component from GitHub. It’s not as easy as you may think!
 
 ### [64. Is it Necessary for a UX/UI Designer to Know How to Code?](https://hackernoon.com/is-it-necessary-for-a-uxui-designer-to-know-how-to-code)
 ![](https://cdn.hackernoon.com/images/Hr4zJaE09hYutGUApRLUdnqle5d2-1z938zw.jpeg)
@@ -272,13 +274,13 @@ Learn about the best Angular UI Components for your web applications in this gui
 ![](https://cdn.hackernoon.com/images/zplk319f.jpg)
 REST stands for REpresentational State Transfer
 
-### [67. How User Experience Is Crucial for Mass Adoption of Blockchain Technology](https://hackernoon.com/how-user-experience-is-crucial-for-mass-adoption-of-blockchain-technology)
-![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-3ya2clt.jpeg)
-User experience, or UX, refers to how easily users interact with a product or service. In blockchain technology, a positive user experience can be critical for its adoption because it can determine how readily people are willing to use the technology. 
-
-### [68. Product Expert Harish Srigiriraju Highlights Importance of Personalization in Digital Applications](https://hackernoon.com/product-expert-harish-srigiriraju-highlights-importance-of-personalization-in-digital-applications)
+### [67. Product Expert Harish Srigiriraju Highlights Importance of Personalization in Digital Applications](https://hackernoon.com/product-expert-harish-srigiriraju-highlights-importance-of-personalization-in-digital-applications)
 ![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-1493q5q.jpeg)
 Harish Srigiriraju is a product expert at one of the world’s leading telecom companies. He developed a model to personalize the home screen.
+
+### [68. How User Experience Is Crucial for Mass Adoption of Blockchain Technology](https://hackernoon.com/how-user-experience-is-crucial-for-mass-adoption-of-blockchain-technology)
+![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-3ya2clt.jpeg)
+User experience, or UX, refers to how easily users interact with a product or service. In blockchain technology, a positive user experience can be critical for its adoption because it can determine how readily people are willing to use the technology. 
 
 ### [69. The Moral Cost of the Growth Hack](https://hackernoon.com/the-moral-cost-of-the-growth-hack)
 ![](https://cdn.hackernoon.com/images/tTQI7BPY9JXInGarUsuaQwvYDTl1-js03cmg.webp)
@@ -304,37 +306,37 @@ If you have chosen React for building a web app, you will still need additional 
 ![](https://cdn.hackernoon.com/images/github/ux-185.png)
 Learn everything you need to know about Ux via these 236 free HackerNoon stories.
 
-### [75. Learning UX/UI: Developers and Designers](https://hackernoon.com/learning-uxui-developers-and-designers-ya1h3zut)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWvW28jEl4jUjfwJehRmZlkXmrQw2-gse30jk.png?alt=media&token=eda0cb20-110c-45de-9499-c2c8dd0ee132)
-A few weeks ago I stumbled upon Uxcel, an app that teaches you UX/UI. It looked really clean, so I decided to give it a go. 
-
-### [76. How Poor User Experience is Holding Back Web3 Adoption](https://hackernoon.com/how-poor-user-experience-is-holding-back-web3-adoption)
+### [75. How Poor User Experience is Holding Back Web3 Adoption](https://hackernoon.com/how-poor-user-experience-is-holding-back-web3-adoption)
 ![](https://cdn.hackernoon.com/images/lwkTcbzSrvVcrq3IFOH68ZlHn7K2-tqa3pwl.jpeg)
 Web3 adoption is hindered by poor UX. The new technology is quite confusing and risky, even though the masses are aware of its potential benefits. 
+
+### [76. Learning UX/UI: Developers and Designers](https://hackernoon.com/learning-uxui-developers-and-designers-ya1h3zut)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWvW28jEl4jUjfwJehRmZlkXmrQw2-gse30jk.png?alt=media&token=eda0cb20-110c-45de-9499-c2c8dd0ee132)
+A few weeks ago I stumbled upon Uxcel, an app that teaches you UX/UI. It looked really clean, so I decided to give it a go. 
 
 ### [77. Adding Light and Dark Modes, with a Toggle Switch, to Your Website](https://hackernoon.com/adding-light-and-dark-modes-with-a-toggle-switch-to-your-website)
 ![](https://cdn.hackernoon.com/images/oJkZK1nJPOOiADYWc2TT0tjr4al1-x592jbv.jpeg)
 I've recently rebranded and redesigned the look and feel of my website. As a part of that redesign, I've implemented both a light and a dark theme. Here's how.
 
-### [78. Do You Have to Code to Be in Tech?](https://hackernoon.com/can-i-be-in-tech-without-being-a-coder-q61l32tq)
+### [78. Stop Fighting with Date Formats—Angular’s DatePipe Has You Covered](https://hackernoon.com/stop-fighting-with-date-formatsangulars-datepipe-has-you-covered)
+![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-zw036bu.png)
+Learn to use Angular's DatePipe for flexible date formatting and test across time zones with Chrome DevTools for consistent global user experience.
+
+### [79. Do You Have to Code to Be in Tech?](https://hackernoon.com/can-i-be-in-tech-without-being-a-coder-q61l32tq)
 ![](https://cdn.hackernoon.com/drafts/av2ea3268.png)
 Software Development is a route that’s proved to be very popular in the last couple of years in tech. From HTML & CSS webinars to Ruby on Rails meet ups, you can’t escape the hype. But what if coding isn’t for you? What if you want to solve problems in Tech without writing code, is there a career out there for you?
 
-### [79. The Dangers of an ADA Non-Compliant Website](https://hackernoon.com/ada-non-compliant-website-dangers-and-guidelines-explained-if-yours-is-not)
+### [80. The Dangers of an ADA Non-Compliant Website](https://hackernoon.com/ada-non-compliant-website-dangers-and-guidelines-explained-if-yours-is-not)
 ![](https://cdn.hackernoon.com/images/0RiQtNe5nHZyu2hZdH2Gt7GOPgm2-8xb3pap.jpeg)
 Owning an ADA non-compliant website could lead to severe penalties if found guilty.
 
-### [80. How to Get Your First UX/UI Design Job](https://hackernoon.com/how-to-get-your-first-uxui-design-job)
+### [81. How to Get Your First UX/UI Design Job](https://hackernoon.com/how-to-get-your-first-uxui-design-job)
 ![](https://cdn.hackernoon.com/images/5oXTQ8W6TqTa1ouikp3LOkznIZj1-tf73atb.jpeg)
 I want to share some alternatives to finding jobs that you can use if you are currently looking for a job as a junior designer.
 
-### [81. Why I Love Vaadin but Tauri Isn't for Me](https://hackernoon.com/why-i-love-vaadin-but-tauri-isnt-for-me)
+### [82. Why I Love Vaadin but Tauri Isn't for Me](https://hackernoon.com/why-i-love-vaadin-but-tauri-isnt-for-me)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-7n82mtx.png)
 A review of Tauri, a Rust-based framework for desktop apps, exploring its strengths and limitations compared to Vaadin.
-
-### [82. Stop Fighting with Date Formats—Angular’s DatePipe Has You Covered](https://hackernoon.com/stop-fighting-with-date-formatsangulars-datepipe-has-you-covered)
-![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-zw036bu.png)
-Learn to use Angular's DatePipe for flexible date formatting and test across time zones with Chrome DevTools for consistent global user experience.
 
 ### [83. Mastering Mobile App Development: Overcoming UI Challenges and Navigation Hurdles Like a Pro](https://hackernoon.com/mastering-mobile-app-development-overcoming-ui-challenges-and-navigation-hurdles-like-a-pro)
 ![](https://cdn.hackernoon.com/images/0occow2Rm7Zauw41hUhjTOc8N7C2-yz93r5f.gif.webp)
@@ -360,21 +362,21 @@ In this article, we'll discuss some tips on how to create a great user experienc
 ![](https://cdn.hackernoon.com/images/upto36xw.jpg)
 A lot of newbies to web development, don’t get it from the first time working with CSS grid. And that is the reason why I decided to write this article, besides that, I also want to give a brief intro to CSS grid and try to explain to people who are new to CSS, how to work with this amazing feature in the simplest way possible.
 
-### [89. Brand Identity Versus Product Design — What is the Difference?](https://hackernoon.com/brand-identity-versus-product-design-what-is-the-difference)
+### [89. When Building a Dating Machine Optimized Everything Except Love](https://hackernoon.com/when-building-a-dating-machine-optimized-everything-except-love)
+![](https://cdn.hackernoon.com/images/PwXqza83PvbAKn9kIgMHZMg2B3w2-y403d7k.jpeg)
+When apps continue to surface large volumes of weak signals, users learn to do the heavy lifting themselves. 
+
+### [90. Brand Identity Versus Product Design — What is the Difference?](https://hackernoon.com/brand-identity-versus-product-design-what-is-the-difference)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6292fef.jpeg)
 Difference between brand identity design and product design. 
 
-### [90. Component Interactions in Angular](https://hackernoon.com/component-interactions-in-angular-82183udq)
+### [91. Component Interactions in Angular](https://hackernoon.com/component-interactions-in-angular-82183udq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIC3eMdcIZ2O9W7Hr7CVPEzvZPiC2-h02i3y9s.jpeg?alt=media&token=e0bb57fb-7650-473c-83cc-8abe6a0f385b)
 Today, we are going to talk about Angular Component Communication, the last version of Angular is @9, but I will show definitions to communicate in all angular versions, probably it will be in the angular platform for a long time. If you need to start with basic concepts in Angular I recommend for you the tour of heroes tutorial before reading this article.
 
-### [91. Through a browser, darkly](https://hackernoon.com/through-a-browser-darkly-0z1dk3zfk)
+### [92. Through a browser, darkly](https://hackernoon.com/through-a-browser-darkly-0z1dk3zfk)
 ![](https://cdn.hackernoon.com/images/u472z3xto.gif)
 Exposing dark patterns in digital publishing
-
-### [92. When Building a Dating Machine Optimized Everything Except Love](https://hackernoon.com/when-building-a-dating-machine-optimized-everything-except-love)
-![](https://cdn.hackernoon.com/images/PwXqza83PvbAKn9kIgMHZMg2B3w2-y403d7k.jpeg)
-When apps continue to surface large volumes of weak signals, users learn to do the heavy lifting themselves. 
 
 ### [93. Seven Deadly Sins You Can Make in Mobile App Design ](https://hackernoon.com/seven-deadly-sins-you-can-make-in-mobile-app-design)
 ![](https://cdn.hackernoon.com/images/gvq02irtWETgkyw1yfFAeDjK4xG3-02h3v26.jpeg)
@@ -396,38 +398,38 @@ Generate the same UI for all iPhone Screens by using NSLayoutConstraint Scaling.
 ![](https://cdn.hackernoon.com/images/aHRIJ4BitzfeYnBSGbstwACxdhk1-zm93la7.jpeg)
 Color is one of the most important tools for creating user interfaces that don't suck, so stop doing it wrong.
 
-### [98. 8 Chrome Extensions for UI/UX Designers](https://hackernoon.com/8-chrome-extensions-for-uiux-designers)
-![](https://cdn.hackernoon.com/images/5oXTQ8W6TqTa1ouikp3LOkznIZj1-9sh3h3f.jpeg)
-I have compiled eight chrome extensions to help get the job done faster and more productive.
+### [98. Offline-First JavaScript for Space Missions: How JS Thrives in Low-Connectivity Environments](https://hackernoon.com/offline-first-javascript-for-space-missions-how-js-thrives-in-low-connectivity-environments)
+![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-cy238ol.png)
+The use of offline-first strategies by JavaScript enables space missions to function. 
 
-### [99. A Beginner's Guide to Font Selection: Tips and Top Free Typeface Combinations for Impactful UI](https://hackernoon.com/the-beginners-guide-to-font-selection-tips-and-top-free-typeface-combinations-for-impactful-ui)
-![](https://cdn.hackernoon.com/images/PjnirPq7KLXVDAdgG1JJwqR92pG2-s2q3obu.jpeg)
-Discover the secrets of impactful UI design through effective font selection. This guide shares tips for junior designers.
-
-### [100. 113 Stories To Learn About Ui Design](https://hackernoon.com/113-stories-to-learn-about-ui-design)
+### [99. 113 Stories To Learn About Ui Design](https://hackernoon.com/113-stories-to-learn-about-ui-design)
 ![](https://cdn.hackernoon.com/images/github/ui-design-718.png)
 Learn everything you need to know about Ui Design via these 113 free HackerNoon stories.
 
-### [101. Users Make Decisions Based on Predictable Subconscious Patterns](https://hackernoon.com/users-make-decisions-based-on-predictable-subconscious-patterns-l83d3w6v)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FB5kOTfUlZBgHHO0Tl4UH6x7O7j32-m92728q2.png?alt=media&token=87b200d5-f868-4f0b-a151-8f86feb1d3da)
-We like to apply labels to users: they’re irrational, lazy, unpredictable, rushed, and so on.
+### [100. A Beginner's Guide to Font Selection: Tips and Top Free Typeface Combinations for Impactful UI](https://hackernoon.com/the-beginners-guide-to-font-selection-tips-and-top-free-typeface-combinations-for-impactful-ui)
+![](https://cdn.hackernoon.com/images/PjnirPq7KLXVDAdgG1JJwqR92pG2-s2q3obu.jpeg)
+Discover the secrets of impactful UI design through effective font selection. This guide shares tips for junior designers.
+
+### [101. 8 Chrome Extensions for UI/UX Designers](https://hackernoon.com/8-chrome-extensions-for-uiux-designers)
+![](https://cdn.hackernoon.com/images/5oXTQ8W6TqTa1ouikp3LOkznIZj1-9sh3h3f.jpeg)
+I have compiled eight chrome extensions to help get the job done faster and more productive.
 
 ### [102. Cut Load Times in Half with These Next.js Tweaks](https://hackernoon.com/cut-load-times-in-half-with-these-nextjs-tweaks)
 ![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-pp036y4.png)
 To enhance your Next.js application performance you should prevent typical mistakes while applying essential optimization techniques. Discover methods to reduce
 
-### [103. Cross Functional Teams](https://hackernoon.com/cross-functional-teams)
+### [103. Users Make Decisions Based on Predictable Subconscious Patterns](https://hackernoon.com/users-make-decisions-based-on-predictable-subconscious-patterns-l83d3w6v)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FB5kOTfUlZBgHHO0Tl4UH6x7O7j32-m92728q2.png?alt=media&token=87b200d5-f868-4f0b-a151-8f86feb1d3da)
+We like to apply labels to users: they’re irrational, lazy, unpredictable, rushed, and so on.
+
+### [104. Cross Functional Teams](https://hackernoon.com/cross-functional-teams)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-kl92atq.jpeg)
 Cross Functional Teams
 
-### [104. Effective Product Discovery: Process & Strategies for Success](https://hackernoon.com/effective-product-discovery-process-and-strategies-for-success)
+### [105. Effective Product Discovery: Process & Strategies for Success](https://hackernoon.com/effective-product-discovery-process-and-strategies-for-success)
 ![](https://cdn.hackernoon.com/images/c4BlFYFz2rffCXiZ2YTMl5vKhK32-w993q35.jpeg)
 Learn how to create successful products by understanding user needs and pain points through a product discovery process. Discover best practices now.
 
-
-### [105. Offline-First JavaScript for Space Missions: How JS Thrives in Low-Connectivity Environments](https://hackernoon.com/offline-first-javascript-for-space-missions-how-js-thrives-in-low-connectivity-environments)
-![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-cy238ol.png)
-The use of offline-first strategies by JavaScript enables space missions to function. 
 
 ### [106. Rio: WebApps in pure Python — A fresh Layouting System](https://hackernoon.com/rio-webapps-in-pure-python-a-fresh-layouting-system)
 ![](https://cdn.hackernoon.com/images/02VWTpZBSka24Nyd1FJV3jxryi02-fn12tz1.png)
@@ -437,33 +439,33 @@ Rio’s two-step approach to layouting, where  each component starts by defining
 ![](https://cdn.hackernoon.com/images/65JcEwJM7shIS6JEnPbeeP3W4tn2-hqf3oqd.jpeg)
 The software market is suffocated with new mobile and web apps monthly. That’s why the focus has moved on ensuring a client-centered and visible UI/UX design.
 
-### [108. Integrating STACS with Project Ubin V - A Client-First Approach to Technical Design](https://hackernoon.com/integrating-stacs-with-project-ubin-v-a-client-experience-approach-to-technical-design-wu2132d2)
+### [108. The Importance of UX/UI and Graphic Design for B2B Business Models](https://hackernoon.com/the-importance-of-uxui-and-graphic-design-for-b2b-business-models)
+![](https://cdn.hackernoon.com/images/Hr4zJaE09hYutGUApRLUdnqle5d2-uj937jg.jpeg)
+This text is about the reasons why UX/UI and graphic design are underestimated by B2B IT companies and how design can impact their business results.
+
+### [109. Integrating STACS with Project Ubin V - A Client-First Approach to Technical Design](https://hackernoon.com/integrating-stacs-with-project-ubin-v-a-client-experience-approach-to-technical-design-wu2132d2)
 ![](https://cdn.hackernoon.com/images/yd1ku32mr.jpg)
 Event-Driven Architecture with Real-time UI
 
-### [109. Why Are UI Components Important For Web-Based Development](https://hackernoon.com/why-are-ui-components-important-for-web-based-development)
+### [110. Why Are UI Components Important For Web-Based Development](https://hackernoon.com/why-are-ui-components-important-for-web-based-development)
 ![](https://cdn.hackernoon.com/images/07PslBywmoc0M3yGp1a5mxKeJxB2-qu93nle.jpeg)
 Organizations are looking for web applications that provide users with many unique functionalities. For example, the User Interface is the essential part of a web application for anything they provide. 
 
-### [110. Step-by-Step Guide to Accessibility Testing](https://hackernoon.com/step-by-step-guide-to-accessibility-testing)
+### [111. Step-by-Step Guide to Accessibility Testing](https://hackernoon.com/step-by-step-guide-to-accessibility-testing)
 ![](https://cdn.hackernoon.com/images/NJ7TAb1r97RRjOQX1EaXEyma0qN2-7y93rj3.jpeg)
 In this post we talk about the importance of carrying out accessibility tests over systems and mention different tools and techniques to put them into practice.
-
-### [111. The Importance of UX/UI and Graphic Design for B2B Business Models](https://hackernoon.com/the-importance-of-uxui-and-graphic-design-for-b2b-business-models)
-![](https://cdn.hackernoon.com/images/Hr4zJaE09hYutGUApRLUdnqle5d2-uj937jg.jpeg)
-This text is about the reasons why UX/UI and graphic design are underestimated by B2B IT companies and how design can impact their business results.
 
 ### [112. The Tips and Tricks for Building UX in Fintech](https://hackernoon.com/the-tips-and-tricks-for-building-ux-in-fintech-cp1h3u83)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fg5EC6lQZD5e2SRvphk4Q2JEKBzu2-3s6d4x6e.jpeg?alt=media&token=7c59a8c9-4c71-4b53-9628-da14c5b0f865)
 When it comes to user convenience, understanding consumer habits is as important as the market your app operates in. The ability to combine simple gestures with user-friendly interface results in a solution that appears simple and comprehensive. Mirroring of the physical actions into digital ones is one of the ways to do it. 
 
-### [113. How To Pick The Right Stock Photo For Your Next Design Project](https://hackernoon.com/picking-the-right-stock-photo-for-your-next-design-project-gl1l32hu)
-![](https://cdn.hackernoon.com/images/lj1332rz.jpg)
-We all love beautiful pictures
-
-### [114. Six Powerful Ways to Improve Your Mobile App](https://hackernoon.com/six-powerful-ways-to-improve-your-mobile-app)
+### [113. Six Powerful Ways to Improve Your Mobile App](https://hackernoon.com/six-powerful-ways-to-improve-your-mobile-app)
 ![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-gg93sys.jpeg)
 Mobile applications are more popular than ever before. Do you want to maximize engagement and build a successful app? If so, we have you covered. 
+
+### [114. How To Pick The Right Stock Photo For Your Next Design Project](https://hackernoon.com/picking-the-right-stock-photo-for-your-next-design-project-gl1l32hu)
+![](https://cdn.hackernoon.com/images/lj1332rz.jpg)
+We all love beautiful pictures
 
 ### [115. Selecting The Right Open-Source Project In React Ecosystem](https://hackernoon.com/selecting-the-right-open-source-project-in-react-ecosystem-5v1034p9)
 ![](https://cdn.hackernoon.com/images/CPZcQZuKTIRNEmHkkkOCBTvsTyd2-1uhl34up.jpeg)
@@ -473,105 +475,105 @@ Make your top-notch sites with React, check the list of the best React open-sour
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-y182qmb.jpeg)
 Visual hierarchy is one of the most important principles behind effective web design. I say this because the goal of a web page is to communicate, and that is essentially the same goal of good visual design.
 
-### [117. The Absolute Basics of Website UX](https://hackernoon.com/how-to-improve-the-ux-of-your-site-451h738m7)
+### [117. The Remote Work Fantasy Breaks in Real Life](https://hackernoon.com/the-remote-work-fantasy-breaks-in-real-life)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7g021jq.jpeg)
+I moved from Istanbul to LA and found the same Figma files waiting. Reflections on nomadic remote work, timezone pain, and why stability matters for design....
+
+### [118. The Absolute Basics of Website UX](https://hackernoon.com/how-to-improve-the-ux-of-your-site-451h738m7)
 ![](https://cdn.hackernoon.com/drafts/jm1is38ij.png)
 The set of behaviors visitors to a site exhibit constitute the UX. Based on this, design teams create products and sites that provide a meaningful user experience.
 
-### [118. Introduction to DevSecOps: Securing the Software Development Lifecycle](https://hackernoon.com/introduction-to-devsecops-securing-the-software-development-lifecycle)
+### [119. Introduction to DevSecOps: Securing the Software Development Lifecycle](https://hackernoon.com/introduction-to-devsecops-securing-the-software-development-lifecycle)
 ![](https://cdn.hackernoon.com/images/f7mvcLjRzefkWf55Afwfc6OSxO93-h6h2l6p.jpeg)
 DevSecOps, an abbreviation for Development, Security, and Operations, is a methodology that enriches DevOps workflow with security practices.
 
-### [119. Create Scalable Interfaces With PostCSS-px-to-viewport Module](https://hackernoon.com/create-scalable-interfaces-with-postcss-px-to-viewport-module-aqp3z3h)
-![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-hb2h3whh.png)
-Most mobile and cross-platform web developers have encountered the problem at some point: you need your web app to scale neatly to the device screen size, regardless of which of the many thousands of devices there are out there, but your units only have one design layout width, mainly mobile. Or perhaps you need to create a per-device stylesheet for a truly scalable cross-platform UI, and want to use a scaled version of an original to base it upon. In either case, converting everything by hand is laborious and inconvenient.
-
-### [120. 16 Places to Find Illustrations for Your Projects 📚🎨](https://hackernoon.com/16-places-to-find-illustrations-for-your-projects)
-![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-9r03g56.jpeg)
-16 sites that offer free illustrations 
-
-### [121. The HackerNoon Newsletter: System Design in a Nutshell (10/24/2025)](https://hackernoon.com/10-24-2025-newsletter)
+### [120. The HackerNoon Newsletter: System Design in a Nutshell (10/24/2025)](https://hackernoon.com/10-24-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_980_p27shbg5mowkg4sazyecdr1m.png)
 10/24/2025: Top 5 stories on the HackerNoon homepage!
 
-### [122. The Main Principle of Designing Interactive Environments](https://hackernoon.com/the-main-principle-of-designing-interactive-environments-p01o33yl)
-![](https://cdn.hackernoon.com/images/SVk1E6GoWaNbJKzIqDejvwfsqwf1-g71z32hd.jpeg)
-What interactivity means and why you need it to make immersive products. We’ll also cover what constitutes immersion, and why “user” is an objectifying term. 
+### [121. Create Scalable Interfaces With PostCSS-px-to-viewport Module](https://hackernoon.com/create-scalable-interfaces-with-postcss-px-to-viewport-module-aqp3z3h)
+![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-hb2h3whh.png)
+Most mobile and cross-platform web developers have encountered the problem at some point: you need your web app to scale neatly to the device screen size, regardless of which of the many thousands of devices there are out there, but your units only have one design layout width, mainly mobile. Or perhaps you need to create a per-device stylesheet for a truly scalable cross-platform UI, and want to use a scaled version of an original to base it upon. In either case, converting everything by hand is laborious and inconvenient.
+
+### [122. 16 Places to Find Illustrations for Your Projects 📚🎨](https://hackernoon.com/16-places-to-find-illustrations-for-your-projects)
+![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-9r03g56.jpeg)
+16 sites that offer free illustrations 
 
 ### [123. Are Your Landing Pages, UI, and Emails Engaging Your Audience?](https://hackernoon.com/are-your-landing-pages-ui-and-emails-engaging-your-audience)
 ![](https://cdn.hackernoon.com/images/mMD5TbdcyWeeZODA8EhDSeRwBIv1-yda3ypa.jpeg)
 Making Your Landing Page, UI, and Email Speak to Your Audience.
 
-### [124. Developing An Android App With a UI-First Approach](https://hackernoon.com/developing-an-android-app-with-a-ui-first-approach-dl1l33ye)
+### [124. The Main Principle of Designing Interactive Environments](https://hackernoon.com/the-main-principle-of-designing-interactive-environments-p01o33yl)
+![](https://cdn.hackernoon.com/images/SVk1E6GoWaNbJKzIqDejvwfsqwf1-g71z32hd.jpeg)
+What interactivity means and why you need it to make immersive products. We’ll also cover what constitutes immersion, and why “user” is an objectifying term. 
+
+### [125. Developing An Android App With a UI-First Approach](https://hackernoon.com/developing-an-android-app-with-a-ui-first-approach-dl1l33ye)
 ![](https://cdn.hackernoon.com/images/S116vnqqkCcD37ODWCQr3Ud2i6U2-mq1g3fo8.jpeg)
 The real-life experience of Sigma Software's team using UI first in mind when developing an app.
 
-### [125. The Importance of Focusing on User Experience](https://hackernoon.com/the-importance-of-focusing-on-user-experience-s14j3z04)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FdT32g7XFaCbLUgpiGouaU7uxZfz2-f65o3wda.jpeg?alt=media&token=0840d807-1945-4107-bc29-d05492d8fae0)
-10 years. For 10 years I have been working with data. I still remember those first days when we didn’t even have that much data to work with, then Google Analytics came in and changed the way we track users. I remember the rise of apps and the attribution tools that followed to help us understand how the user found us. Compared to 10 years ago, we have become even more clueless about our users, and the worst part is that we still make decisions based on emotions – despite having so much data to support us.
-
-### [126. How To Plan Your Next Website Redesign](https://hackernoon.com/how-to-plan-your-next-website-redesign-ou3531jq)
-![](https://cdn.hackernoon.com/images/MCfgBiFOpThWNPrXGbzcjKveGfn2-p61331ef.jpeg)
-Learn how to plan and execute a website redesign, whether you use a CMS like Drupal or you build a site from scratch.
-
-### [127. 8 Important Criteria to Follow Before Selecting the Right RPA Tool](https://hackernoon.com/8-important-criteria-to-follow-before-selecting-the-right-rpa-tool-rbdq3yav)
+### [126. 8 Important Criteria to Follow Before Selecting the Right RPA Tool](https://hackernoon.com/8-important-criteria-to-follow-before-selecting-the-right-rpa-tool-rbdq3yav)
 ![](https://cdn.hackernoon.com/drafts/ywl3t97.png)
 Robotic Process Automation (RPA) is the technology that allows businesses to configure computer software, or a “robot” to emulate and integrate the actions of a human interacting within digital systems to execute a business process. RPA robots utilize the user interface to capture data and manipulate applications mimicking human actions. They interpret, trigger responses and communicate with other systems in order to perform on a vast variety of repetitive and mundane tasks. What acts in the favor of an RPA software is that unlike humans, robots never sleep, make zero mistakes and costs a lot less than an employee.
 
-### [128. Top Mobile App UI Design: 2021 Edition](https://hackernoon.com/top-mobile-app-ui-design-2021-edition-jv1833wf)
-![](https://cdn.hackernoon.com/images/9HUB5XcnrzboujIZVfzkLT9PHqI3-xkdo33dm.jpeg)
-Top User Interface Mobile Application Design 2021. 
-
-### [129. Improving Design Handoffs: A Guide](https://hackernoon.com/improving-design-handoffs-a-guide-ri3z3tjm)
+### [127. Improving Design Handoffs: A Guide](https://hackernoon.com/improving-design-handoffs-a-guide-ri3z3tjm)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWvW28jEl4jUjfwJehRmZlkXmrQw2-hye305v.png?alt=media&token=6bf42279-545a-412d-a10c-5778219d79c1)
 To build an awesome and successful digital product you need to do a lot of things. Such as planning, market research, build a prototype, design it, code it, ship it etc. For this whole process, you need to go through lots of handoffs and team communications. One of the more painful handoffs is the Design-to-Development Handoff.
 
-### [130. How to Implement Dark Mode: 5 Essential Tips to Remember](https://hackernoon.com/how-to-implement-dark-mode-5-essential-tips-to-remember)
+### [128. How To Plan Your Next Website Redesign](https://hackernoon.com/how-to-plan-your-next-website-redesign-ou3531jq)
+![](https://cdn.hackernoon.com/images/MCfgBiFOpThWNPrXGbzcjKveGfn2-p61331ef.jpeg)
+Learn how to plan and execute a website redesign, whether you use a CMS like Drupal or you build a site from scratch.
+
+### [129. The Importance of Focusing on User Experience](https://hackernoon.com/the-importance-of-focusing-on-user-experience-s14j3z04)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FdT32g7XFaCbLUgpiGouaU7uxZfz2-f65o3wda.jpeg?alt=media&token=0840d807-1945-4107-bc29-d05492d8fae0)
+10 years. For 10 years I have been working with data. I still remember those first days when we didn’t even have that much data to work with, then Google Analytics came in and changed the way we track users. I remember the rise of apps and the attribution tools that followed to help us understand how the user found us. Compared to 10 years ago, we have become even more clueless about our users, and the worst part is that we still make decisions based on emotions – despite having so much data to support us.
+
+### [130. Top Mobile App UI Design: 2021 Edition](https://hackernoon.com/top-mobile-app-ui-design-2021-edition-jv1833wf)
+![](https://cdn.hackernoon.com/images/9HUB5XcnrzboujIZVfzkLT9PHqI3-xkdo33dm.jpeg)
+Top User Interface Mobile Application Design 2021. 
+
+### [131. How to Implement Dark Mode: 5 Essential Tips to Remember](https://hackernoon.com/how-to-implement-dark-mode-5-essential-tips-to-remember)
 ![](https://cdn.hackernoon.com/images/hS37dtFlOtPxuHM03IBKFB7INsO2-hd93i1w.jpeg)
 Here are 5 tips you should keep in mind when implementing dark mode in your apps.
 
-### [131. Unlocking Your Potential: Ways to Reignite Passion for Product Managers](https://hackernoon.com/unlocking-your-potential-ways-to-reignite-passion-for-product-managers)
-![](https://cdn.hackernoon.com/images/si8gGeuvHgMb9QlPkXN7xN7fc8s2-5w930u5.jpeg)
-Phani K Vuyyuru, Senior Product Manager, explains how we can reignite our passion for building great products.
-
-### [132. How Does User Experience Leave A Footprint On Your Business?](https://hackernoon.com/how-does-user-experience-leave-a-footprint-on-your-business-q41q3yyv)
-![](https://cdn.hackernoon.com/images/5gnd3y3g.jpg)
-Everything boils down to customer experience today. Whether it is a mobile application or a website, there is absolutely no way you can turn a blind eye to UX and UI. 
-
-### [133. Bad Hair Day? Not for Product Managers](https://hackernoon.com/bad-hair-day-not-for-product-managers)
+### [132. Bad Hair Day? Not for Product Managers](https://hackernoon.com/bad-hair-day-not-for-product-managers)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-aq02yf3.jpeg)
 Hair provides a masterclass in creating enduring value propositions. Product managers will do well to emulate these (HAAIRR) attributes into their designs.
 
-### [134. Advancing Online Education in Singapore: A Northell Case Study](https://hackernoon.com/advancing-online-education-in-singapore-a-northell-case-study-3p30314e)
-![](https://cdn.hackernoon.com/images/XOJFwvXpsrZ44vRVb68U5KzfPLx2-jvx3e52.jpeg)
-Modern education is becoming more and more digitized: while even ten years ago notebooks and printed materials were necessary for studying, all you need today is alaptop and an Internet connection. Various classroom management systems are now used for the education of all levels, from primary schools to corporate training. It is a sure way to make the learning process more efficient —  for example, taking quizzes and tests online helps automate grading and provide immediate access to the student’s performance. 
+### [133. Unlocking Your Potential: Ways to Reignite Passion for Product Managers](https://hackernoon.com/unlocking-your-potential-ways-to-reignite-passion-for-product-managers)
+![](https://cdn.hackernoon.com/images/si8gGeuvHgMb9QlPkXN7xN7fc8s2-5w930u5.jpeg)
+Phani K Vuyyuru, Senior Product Manager, explains how we can reignite our passion for building great products.
 
-### [135. Making a Product Design Great for Business [A How To Guide]](https://hackernoon.com/making-a-product-design-great-for-business-a-how-to-guide-n57v32yi)
-![](https://cdn.hackernoon.com/drafts/4c5s36oz.png)
-In the first seconds of use, one application might seem more convenient because it’s easy to navigate and zoom, as well as to satisfy the user’s needs and solve their problem quickly. While comparing to another application that might look fancy and colorful but at the same time will confuse or even worse — distract the user. And of course, it will bring zero-value to them.
-
-### [136. Accessibility Quick Start: High Impact Practices for Non-Frontend Devs](https://hackernoon.com/accessibility-quick-start-high-impact-practices-for-non-frontend-devs)
+### [134. Accessibility Quick Start: High Impact Practices for Non-Frontend Devs](https://hackernoon.com/accessibility-quick-start-high-impact-practices-for-non-frontend-devs)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ph02yek.jpeg)
 Practical, high-impact strategies to help app developers who don't specialize in front end improve accessibility.
 
-### [137. Using sessionStorage API to design a user-friendly Lead Generation Form](https://hackernoon.com/using-sessionstorage-api-to-design-a-user-friendly-lead-generation-form-xn5g3y92)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-j282rc0.jpeg)
-TL;DR
+### [135. How Does User Experience Leave A Footprint On Your Business?](https://hackernoon.com/how-does-user-experience-leave-a-footprint-on-your-business-q41q3yyv)
+![](https://cdn.hackernoon.com/images/5gnd3y3g.jpg)
+Everything boils down to customer experience today. Whether it is a mobile application or a website, there is absolutely no way you can turn a blind eye to UX and UI. 
 
-### [138. Privacy Is Broken in Everyday Tools — But the Browser Can Fix It](https://hackernoon.com/privacy-is-broken-in-everyday-tools-but-the-browser-can-fix-it)
-![](https://cdn.hackernoon.com/images/eY3kTLSk7JZjnAUcqnOr4Ka4z2G3-5q03cs9.png)
-Discover how tools like pdfyogi built with WebAssembly can protect your data and fix the privacy flaws of cloud-based apps like iLovePDF and SmallPDF.
+### [136. Advancing Online Education in Singapore: A Northell Case Study](https://hackernoon.com/advancing-online-education-in-singapore-a-northell-case-study-3p30314e)
+![](https://cdn.hackernoon.com/images/XOJFwvXpsrZ44vRVb68U5KzfPLx2-jvx3e52.jpeg)
+Modern education is becoming more and more digitized: while even ten years ago notebooks and printed materials were necessary for studying, all you need today is alaptop and an Internet connection. Various classroom management systems are now used for the education of all levels, from primary schools to corporate training. It is a sure way to make the learning process more efficient —  for example, taking quizzes and tests online helps automate grading and provide immediate access to the student’s performance. 
 
-### [139. To UI Engineering and Back Again](https://hackernoon.com/to-ui-engineering-and-back-again-985p33ld)
-![](https://images.unsplash.com/photo-1493217465235-252dd9c0d632?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-This is going to be one of those once upon a time articles so buckle up and prepare for a story.
+### [137. Making a Product Design Great for Business [A How To Guide]](https://hackernoon.com/making-a-product-design-great-for-business-a-how-to-guide-n57v32yi)
+![](https://cdn.hackernoon.com/drafts/4c5s36oz.png)
+In the first seconds of use, one application might seem more convenient because it’s easy to navigate and zoom, as well as to satisfy the user’s needs and solve their problem quickly. While comparing to another application that might look fancy and colorful but at the same time will confuse or even worse — distract the user. And of course, it will bring zero-value to them.
 
-### [140. Twelve-year-old Selects His Favorite Tech and Design Picks of 2025](https://hackernoon.com/twelve-year-old-selects-his-favorite-tech-and-design-picks-of-2025)
+### [138. The Dos and Don'ts of Designing Chat Messaging UIs for Your App](https://hackernoon.com/the-dos-and-donts-of-designing-chat-messaging-uis-for-your-app)
+![](https://cdn.hackernoon.com/images/gzG25VLfJzghBdT1v97jIfj9DE52-8393r2w.jpeg)
+Get valuable insights on designing user-friendly in-app chat UIs. Learn the dos and don'ts, best practices, and tips on simplifying, enhancing UX with color and
+
+### [139. Twelve-year-old Selects His Favorite Tech and Design Picks of 2025](https://hackernoon.com/twelve-year-old-selects-his-favorite-tech-and-design-picks-of-2025)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-sj0229r.jpeg)
 A 12-year-old's thoughts on the outgoing year in tech and design.
 
-### [141. The Dos and Don'ts of Designing Chat Messaging UIs for Your App](https://hackernoon.com/the-dos-and-donts-of-designing-chat-messaging-uis-for-your-app)
-![](https://cdn.hackernoon.com/images/gzG25VLfJzghBdT1v97jIfj9DE52-8393r2w.jpeg)
-Get valuable insights on designing user-friendly in-app chat UIs. Learn the dos and don'ts, best practices, and tips on simplifying, enhancing UX with color and
+### [140. Using sessionStorage API to design a user-friendly Lead Generation Form](https://hackernoon.com/using-sessionstorage-api-to-design-a-user-friendly-lead-generation-form-xn5g3y92)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-j282rc0.jpeg)
+TL;DR
+
+### [141. To UI Engineering and Back Again](https://hackernoon.com/to-ui-engineering-and-back-again-985p33ld)
+![](https://images.unsplash.com/photo-1493217465235-252dd9c0d632?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+This is going to be one of those once upon a time articles so buckle up and prepare for a story.
 
 ### [142. The Quickest Way to Test Components That Use Container Queries](https://hackernoon.com/the-quickest-way-to-test-components-that-use-container-queries)
 ![](https://cdn.hackernoon.com/images/TrD4DzyJu6g677bJSu6xzJ3TxA12-7vb3rgk.jpeg)
@@ -581,108 +583,128 @@ Container queries are amazing. They let us build UI that allows a component to l
 ![](https://cdn.hackernoon.com/images/JWrNiSCjJOXil7KG4iyVKg1Y9eZ2-t43829a7.jpeg)
 What makes the user interface ethical? Give the user enough options, that they keep their autonomy. But not too many, that they become paralysed by choice.
 
-### [144. Basic Web Design Principles to make Your Websites Pop](https://hackernoon.com/web-design-principles-with-examples)
-![](https://cdn.hackernoon.com/images/5L1PsURyndeLVm1wIoUdHEN6ZP12-mq039g5.jpeg)
-Five pillars of web design
-
-### [145. Scaling Gen Z-Focused Apps: Authenticity, AI Personalization, and Monetizing Niche Communities](https://hackernoon.com/scaling-gen-z-focused-apps-authenticity-ai-personalization-and-monetizing-niche-communities)
+### [144. Scaling Gen Z-Focused Apps: Authenticity, AI Personalization, and Monetizing Niche Communities](https://hackernoon.com/scaling-gen-z-focused-apps-authenticity-ai-personalization-and-monetizing-niche-communities)
 ![](https://cdn.hackernoon.com/images/JGVZFxTZFBggextIwcKsJ5H7UXD3-0t03bop.png)
 Learn how to scale Gen Z-focused apps with authenticity, AI personalization, and niche community monetization. Insights from apps with millions of users. 
 
-### [146. Learn to Detect & Prevent JSD Attacks With This Guide](https://hackernoon.com/learn-to-detect-and-prevent-jsd-attacks-with-this-guide)
-![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-v2036i4.png)
-Whatever weakness is there in JS, attackers will use it to disturb the flow of the beautiful empire of JS.
+### [145. Basic Web Design Principles to make Your Websites Pop](https://hackernoon.com/web-design-principles-with-examples)
+![](https://cdn.hackernoon.com/images/5L1PsURyndeLVm1wIoUdHEN6ZP12-mq039g5.jpeg)
+Five pillars of web design
 
-### [147. 99 Stories To Learn About Ui](https://hackernoon.com/99-stories-to-learn-about-ui)
+### [146. 99 Stories To Learn About Ui](https://hackernoon.com/99-stories-to-learn-about-ui)
 ![](https://cdn.hackernoon.com/images/github/ui-752.png)
 Learn everything you need to know about Ui via these 99 free HackerNoon stories.
 
-### [148. Ditch AutoLayout, Speed Up Your App: The Old-School Trick That Works](https://hackernoon.com/ditch-autolayout-speed-up-your-app-the-old-school-trick-that-works)
-![](https://cdn.hackernoon.com/images/928A5MdLmkgtIlxpQv0Ir97p6BG3-pp03e0l.png)
-Manual frame layout. Instead of relying on AutoLayout, you calculate and set frames explicitly. Yes, it means writing more code, but the tradeoff is speed.
+### [147. Learn to Detect & Prevent JSD Attacks With This Guide](https://hackernoon.com/learn-to-detect-and-prevent-jsd-attacks-with-this-guide)
+![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-v2036i4.png)
+Whatever weakness is there in JS, attackers will use it to disturb the flow of the beautiful empire of JS.
+
+### [148. Kimi-K2.5 Turns Wireframes Into Code—and Brings an Agent Swarm With It](https://hackernoon.com/kimi-k25-turns-wireframes-into-codeand-brings-an-agent-swarm-with-it)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-89023ij.jpeg)
+Kimi-K2.5 is Moonshot AI’s multimodal MoE model with a 256K context window, vision+video understanding, and agent swarms for tool-driven workflows.
 
 ### [149. How to Hire An Offshore UI/UX Team for Your Next Project](https://hackernoon.com/how-to-hire-an-offshore-uiux-team-for-your-next-project)
 ![](https://cdn.hackernoon.com/images/Bkz9nafSHbNbsnztcqoNMQJmJNo1-a0237ef.jpeg)
 Nowadays, businesses just can’t do without relying on the web and various kinds of digital technologies.
 
-### [150. Kimi-K2.5 Turns Wireframes Into Code—and Brings an Agent Swarm With It](https://hackernoon.com/kimi-k25-turns-wireframes-into-codeand-brings-an-agent-swarm-with-it)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-89023ij.jpeg)
-Kimi-K2.5 is Moonshot AI’s multimodal MoE model with a 256K context window, vision+video understanding, and agent swarms for tool-driven workflows.
+### [150. Ditch AutoLayout, Speed Up Your App: The Old-School Trick That Works](https://hackernoon.com/ditch-autolayout-speed-up-your-app-the-old-school-trick-that-works)
+![](https://cdn.hackernoon.com/images/928A5MdLmkgtIlxpQv0Ir97p6BG3-pp03e0l.png)
+Manual frame layout. Instead of relying on AutoLayout, you calculate and set frames explicitly. Yes, it means writing more code, but the tradeoff is speed.
 
 ### [151. What Are the 6 Types of Website Accessibility Audits?](https://hackernoon.com/what-are-the-6-types-of-website-accessibility-audits)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-tk93ix4.jpeg)
 An accessibility audit is the process of performing manual and automated tests on your website to find out the improvement areas. There are 6 different types.
 
-### [152. Secrets Of The Design Process You Wish You Knew Before](https://hackernoon.com/secrets-of-the-design-process-you-wish-you-knew-before-sfn33ch)
-![](https://cdn.hackernoon.com/images/B5kOTfUlZBgHHO0Tl4UH6x7O7j32-wj8f28mj.png)
-The UX industry puts a lot of emphasis on processes. But is that the best way to think fundamentally about design?
-
-### [153. Harmony Over Imposition: What Japanese Aesthetics Taught Me About Building Software Products ](https://hackernoon.com/harmony-over-imposition-what-japanese-aesthetics-taught-me-about-building-software-products)
+### [152. Harmony Over Imposition: What Japanese Aesthetics Taught Me About Building Software Products ](https://hackernoon.com/harmony-over-imposition-what-japanese-aesthetics-taught-me-about-building-software-products)
 ![](https://cdn.hackernoon.com/images/uqukTKhVfHMtJ7uZVDrVWTqcXob2-6e030ve.jpeg)
 Drawing from Japanese aesthetics, this article explores harmony and ambient design in digital products.
 
-### [154. Minimalism In Design:
-Alexander Perelman Shares His Perspective](https://hackernoon.com/minimalism-in-design-alexander-perelman-shares-his-perspective)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-lx02tip.jpeg)
-Alexander Perelman is an award-winning art director and designer with over 15 years of experience in branding, visual design, and art direction.
+### [153. Secrets Of The Design Process You Wish You Knew Before](https://hackernoon.com/secrets-of-the-design-process-you-wish-you-knew-before-sfn33ch)
+![](https://cdn.hackernoon.com/images/B5kOTfUlZBgHHO0Tl4UH6x7O7j32-wj8f28mj.png)
+The UX industry puts a lot of emphasis on processes. But is that the best way to think fundamentally about design?
+
+### [154. Why AI-generated UI Gets Messy](https://hackernoon.com/why-ai-generated-ui-gets-messy)
+![](https://cdn.hackernoon.com/images/WnwPGlES2WY4nze2ShULktvmMBF2-ho92ijb.png)
+AI UI gets messy when prompts are vague. Learn a spec-first workflow that improves consistency, reduces guesswork, and makes iteration painless.
 
 ### [155. Designing an Effective UI: Improve Your eCommerce Website Design](https://hackernoon.com/designing-an-effective-ui-improve-your-ecommerce-website-design)
 ![](https://cdn.hackernoon.com/images/mR6cSv5WZbMfQbszcfyaTCtX0RI3-pbaa35jt.jpeg)
 An E-commerce web design that user would find easy to shop. A good design make shopping engaging and easy for the users. And navigation is just the first step.
 
-### [156. How PostCSS-px-to-Viewport Module Can Help To Create Scalable Interfaces ](https://hackernoon.com/how-postcss-px-to-viewport-module-can-help-to-create-scalable-interfaces-5bi31y2)
+### [156. Minimalism In Design:
+Alexander Perelman Shares His Perspective](https://hackernoon.com/minimalism-in-design-alexander-perelman-shares-his-perspective)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-lx02tip.jpeg)
+Alexander Perelman is an award-winning art director and designer with over 15 years of experience in branding, visual design, and art direction.
+
+### [157. How PostCSS-px-to-Viewport Module Can Help To Create Scalable Interfaces ](https://hackernoon.com/how-postcss-px-to-viewport-module-can-help-to-create-scalable-interfaces-5bi31y2)
 ![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-hb2h3whh.png)
 Most mobile and cross-platform web developers have encountered the problem at some point: you need your web app to scale neatly to the device screen size, regardless of which of the many thousands of devices there are out there, but your units only have one design layout width, mainly mobile. Or perhaps you need to create a per-device stylesheet for a truly scalable cross-platform UI, and want to use a scaled version of an original to base it upon. In either case, converting everything by hand is laborious and inconvenient.
 
-### [157. Hey Google, Where's the Search?](https://hackernoon.com/hey-google-wheres-the-search-shw3501)
+### [158. Hey Google, Where's the Search?](https://hackernoon.com/hey-google-wheres-the-search-shw3501)
 ![](https://cdn.hackernoon.com/images/YmHydCcGCzQzUWBvxb6PtrLtiRg1-uy1035q6.jpeg)
 Just some of the things that could be easily fixed to make the Google Cloud Platform and Workspace easier to use.
 
-### [158. Your Creativity is More Valuable Than The Tools You Use](https://hackernoon.com/your-creativity-is-more-valuable-than-the-tools-you-use-ld5e313s)
+### [159. Your Creativity is More Valuable Than The Tools You Use](https://hackernoon.com/your-creativity-is-more-valuable-than-the-tools-you-use-ld5e313s)
 ![](https://cdn.hackernoon.com/images/YewJw124hdVWpEcCAK0j1jLgnrq1-an3o31pk.jpeg)
 Using a design tool isn’t a skill. It’s just good practice to display them in your portfolio to depict how strong you’re with the tool.
 
-### [159. How To Value SaaS Business](https://hackernoon.com/how-to-value-saas-business-pd1j31d7)
+### [160. How To Value SaaS Business](https://hackernoon.com/how-to-value-saas-business-pd1j31d7)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FK1LunyHAbWNr7h5tVcI1VNXbXJ83-lz8231yc.jpeg?alt=media&token=36736dc4-7922-46a8-88a5-0ab312916938)
 This post focuses on how SaaS metrics relate to customer onboarding, company growth, and the generation of sustainable income needed and sufficient to not only stay afloat in the turbulent sea of web marketing but thrive.
 
-### [160. Why AI-generated UI Gets Messy](https://hackernoon.com/why-ai-generated-ui-gets-messy)
-![](https://cdn.hackernoon.com/images/WnwPGlES2WY4nze2ShULktvmMBF2-ho92ijb.png)
-AI UI gets messy when prompts are vague. Learn a spec-first workflow that improves consistency, reduces guesswork, and makes iteration painless.
+### [161. The Design Work Nobody Posts on Dribbble](https://hackernoon.com/the-design-work-nobody-posts-on-dribbble)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bg021uu.jpeg)
+Five years into product design at a fintech, the majority of my work is documentation, edge cases, and maintenance. 
 
-### [161. Chrome Browser Extension to Remover Hacker Noon Header](https://hackernoon.com/removing-the-colorful-header-from-hacker-noon-story-for-more-read-space-o3bj3x3e)
+### [162. Privacy Is Broken in Everyday Tools — But the Browser Can Fix It](https://hackernoon.com/privacy-is-broken-in-everyday-tools-but-the-browser-can-fix-it)
+![](https://cdn.hackernoon.com/images/eY3kTLSk7JZjnAUcqnOr4Ka4z2G3-5q03cs9.png)
+Discover how tools like pdfyogi built with WebAssembly can protect your data and fix the privacy flaws of cloud-based apps like iLovePDF and SmallPDF.
+
+### [163. Chrome Browser Extension to Remover Hacker Noon Header](https://hackernoon.com/removing-the-colorful-header-from-hacker-noon-story-for-more-read-space-o3bj3x3e)
 ![](https://cdn.hackernoon.com/images/dj58h3xzb.jpg)
 Hackernoon is my favorite source of knowledge about technology. I love reading Hackernoon story since Medium. However, the Hackernoon new site makes me harder to stay reading more stories before going to bed. It got a big bright green and yellow header on top of the story. At first, I think maybe I can scroll the page down, and it will disappear. I was wrong, it was fixed over the page and it takes a portion of the readable screen.
 
-### [162. Utility First CSS Leads to Rapid Prototyping](https://hackernoon.com/utility-first-css-leads-to-rapid-prototyping-ay5x3052)
+### [164. Utility First CSS Leads to Rapid Prototyping](https://hackernoon.com/utility-first-css-leads-to-rapid-prototyping-ay5x3052)
 ![](https://images.unsplash.com/photo-1576595580361-90a855b84b20?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 I am the co-founder of Flexiple and Remote Tools. In this post, I describe why I chose to use a utility-first CSS framework to build my website’s UI in a fast, robust and low-maintenance way.
 
-### [163. The Real Complexity Behind 'Just Make a Simple Fintech Service' — and 5 Tactics to Survive It](https://hackernoon.com/the-real-complexity-behind-just-make-a-simple-fintech-service-and-5-tactics-to-survive-it)
+### [165. GLM-4.7-Flash-GGUF Brings Fast Local AI to Consumer Hardware](https://hackernoon.com/glm-47-flash-gguf-brings-fast-local-ai-to-consumer-hardware)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-r40217o.jpeg)
+GLM-4.7-Flash-GGUF offers fast local text generation with multiple quantization options for PCs, edge devices, and small servers.
+
+### [166. The Real Complexity Behind 'Just Make a Simple Fintech Service' — and 5 Tactics to Survive It](https://hackernoon.com/the-real-complexity-behind-just-make-a-simple-fintech-service-and-5-tactics-to-survive-it)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-z702vsz.jpeg)
 In fintech, you're not building a single feature. You're building a chain of dependencies where any link can break everything. 
 
-### [164. JSWorld Conference 2022: Part III](https://hackernoon.com/jsworld-conference-2022-part-iii)
+### [167. JSWorld Conference 2022: Part III](https://hackernoon.com/jsworld-conference-2022-part-iii)
 ![](https://cdn.hackernoon.com/images/NYsEt0jSD0Ttv4Gl8UDQGzu9Q9C3-nxn3n7b.jpeg)
 JSWorld Conference is the number one JavaScript Conference in the world, and I share a summary of all the talks with you. Part III
 
-### [165. Building a Slack App with Native SFDC Integration](https://hackernoon.com/building-a-slack-app-with-native-sfdc-integration)
+### [168. Building a Slack App with Native SFDC Integration](https://hackernoon.com/building-a-slack-app-with-native-sfdc-integration)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-dj93mb2.jpeg)
 This post is a continuation of our series based on a video series explaining how to build Slack Apps that integrate with Salesforce APIs.
 
-### [166. Game Design First: A Beginner’s Free Toolkit](https://hackernoon.com/game-design-first-a-beginners-free-toolkit)
-![](https://images.unsplash.com/photo-1536419598693-94435e7f9757?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyNXx8c3BpcmFsfGVufDB8fHx8MTcyMzMyMDE5MHww&amp;ixlib=rb-4.0.3&amp;q=80&amp;w=1080)
-Game design isn’t about production tools or techniques. It’s about having a clear vision and a plan. 
+### [169. Google Stitch Is Changing UI/UX Design in 2026](https://hackernoon.com/google-stitch-is-changing-uiux-design-in-2026)
+![](https://cdn.hackernoon.com/images/ELnaBFRIfTMkt8qhuBYXxa8B9DS2-5683csq.png)
+Google Stitch generates UI from text but Figma is not going anywhere. Here is why AI is accelerating design and not replacing designers in 2026. 
 
-### [167. Semantic Design Tokens That Scale Across Platforms](https://hackernoon.com/semantic-design-tokens-that-scale-across-platforms)
+### [170. Semantic Design Tokens That Scale Across Platforms](https://hackernoon.com/semantic-design-tokens-that-scale-across-platforms)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ft02214.jpeg)
 A practical guide to semantic design tokens for multi-platform UI. 
 
-### [168. The Real Reason Big Companies Spend $10M+ on Checkout](https://hackernoon.com/the-real-reason-big-companies-spend-$10m-on-checkout)
+### [171. Game Design First: A Beginner’s Free Toolkit](https://hackernoon.com/game-design-first-a-beginners-free-toolkit)
+![](https://images.unsplash.com/photo-1536419598693-94435e7f9757?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyNXx8c3BpcmFsfGVufDB8fHx8MTcyMzMyMDE5MHww&amp;ixlib=rb-4.0.3&amp;q=80&amp;w=1080)
+Game design isn’t about production tools or techniques. It’s about having a clear vision and a plan. 
+
+### [172. Four Years Inside One Figma File](https://hackernoon.com/four-years-inside-one-figma-file)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-0t0210w.jpeg)
+What four years as the sole designer on a fintech product teaches you about depth, restraint, and the trade-offs agency work never prepares you for....
+
+### [173. The Real Reason Big Companies Spend $10M+ on Checkout](https://hackernoon.com/the-real-reason-big-companies-spend-$10m-on-checkout)
 ![](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/842daec6-0017-4ef4-9615-252f84d46d4d/649c1c862ffc8439cf01ab5e_Appraisily.jpg?t=1754251038)
 When you look at the LinkedIn profile of all successful subscription companies, you'll see a lot of people who work on checkout pages. Big companies spend 10...
 
-### [169. The Button That Teaches People to Stop Paying Attention](https://hackernoon.com/the-button-that-teaches-people-to-stop-paying-attention)
+### [174. The Button That Teaches People to Stop Paying Attention](https://hackernoon.com/the-button-that-teaches-people-to-stop-paying-attention)
 ![](https://cdn.hackernoon.com/images/haIreD2bRcV2aVB90KGUiGgLPFJ3-7s02uax.png)
 "Maybe Later" buttons feel polite but kill user success. Why that innocent onboarding escape hatch causes higher churn rates and how to design guidance user.
 

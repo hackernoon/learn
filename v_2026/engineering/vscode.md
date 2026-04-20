@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [vscode](https://hackernoon.com/tagged/vscode)
+### Let's learn about [Vscode](https://hackernoon.com/tagged/vscode) via these 104 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+VS Code (Visual Studio Code) is a free, open-source code editor developed by Microsoft, known for its extensibility, integrated debugging, and robust feature set. It has become an indispensable tool for developers across various programming languages and platforms due to its efficiency and versatility.
+
 ### [1. Top 10 Popular VS Code Themes You Need to Try in 2023](https://hackernoon.com/top-10-popular-vs-code-themes-you-need-to-try-in-2023)
 ![](https://cdn.hackernoon.com/images/541r0RExUOQ3nFAQs7oJuST9Axf2-n5k3p1j.jpeg)
 Discover the top 10 popular VS Code themes for 2023. From dark to light, minimalist to custom themes, find the best syntax highlighting color themes for Visual.
@@ -241,13 +245,13 @@ By the end of this short guide, you’d be able to run, debug, and get IntelliSe
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-7t03wzf.jpeg)
 A static analyzer can reduce the possibility of bugs, such as when you accidentally overwrite a variable with another value.
 
-### [61. 5 Copy and Pasting Tips For Every Developer to Know](https://hackernoon.com/5-copy-and-pasting-tips-that-every-developer-should-know-6m1yh32ee)
-![](https://cdn.hackernoon.com/drafts/it1z32ew.png)
-Work Smarter, Not Harder.
-
-### [62. A Step-by-Step Introduction to CSS Preprocessors with VS Code  ](https://hackernoon.com/a-step-by-step-introduction-to-css-preprocessors-with-vs-code-5t3k3u3y)
+### [61. A Step-by-Step Introduction to CSS Preprocessors with VS Code  ](https://hackernoon.com/a-step-by-step-introduction-to-css-preprocessors-with-vs-code-5t3k3u3y)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FomkXEWM7jKhRvS5iJZ5CVWqld9T2-hr1j4uu5.jpeg?alt=media&token=716ca929-6e97-4733-bd2c-e68e2cd9a236)
 It is fun to build cool and good looking pages when you know CSS like the back of your hand. But when you have a few hundred lines of code, this is exactly when things begin to get complicated and messy. This is where CSS preprocessors come to play, helping you to manage and improve the maintainability of your code.
+
+### [62. 5 Copy and Pasting Tips For Every Developer to Know](https://hackernoon.com/5-copy-and-pasting-tips-that-every-developer-should-know-6m1yh32ee)
+![](https://cdn.hackernoon.com/drafts/it1z32ew.png)
+Work Smarter, Not Harder.
 
 ### [63. It Isn't Just GitLens: 6 Cool VS Code Extensions to Supercharge Git](https://hackernoon.com/it-isnt-just-gitlens-6-cool-vs-code-extensions-to-supercharge-git-dt4k35fl)
 ![](https://cdn.hackernoon.com/images/HjmFcObwWgVzap4HlFpzGNpClau2-5zb729l1.jpeg)
@@ -347,21 +351,21 @@ As software engineers, we use tools built by other devs dozens of times a day. P
 ![](https://cdn.hackernoon.com/images/ql5j5TZB0tU1vWA4EaF6tI4lfED3-nq93kkv.jpeg)
 Visual Studio Code offers useful tools to help developers debug Python code effectively, but configuring its debugger requires some extra effort.
 
-### [87. I Built a VSCode Extension: ngrok for VSCode](https://hackernoon.com/i-built-a-vscode-extension-ngrok-for-vscode-vf733yg5)
-![](https://images.unsplash.com/photo-1577894947058-cfdae4276bef?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Over the Easter weekend, a four day weekend characterised by lockdowns all over the world, I decided to use the extra time I had at home to start a new project and learn a new skill. By the end of the weekend I was proud to release my first VSCode extension: ngrok for VSCode.
-
-### [88. Quick Guide to Install Node, Yarn, Git and VSCode on Linux, Mac, and Windows](https://hackernoon.com/quick-guide-to-install-node-yarn-git-and-vscode-on-linux-mac-and-windows-9r1i37xl)
+### [87. Quick Guide to Install Node, Yarn, Git and VSCode on Linux, Mac, and Windows](https://hackernoon.com/quick-guide-to-install-node-yarn-git-and-vscode-on-linux-mac-and-windows-9r1i37xl)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-4m1g29oa.jpeg)
 How to install Node, Yarn, Git and VSCode on Linux, Mac and Windows, a simple and easy guide to follow.
 
-### [89. Useful Tools To Make Working on HTML and CSS Easier](https://hackernoon.com/useful-tools-to-make-working-on-html-and-css-easier-wk5832ln)
-![](https://cdn.hackernoon.com/drafts/g6543y3a.png)
-Programmers and Developers are lazy people, they always want to make their jobs easy. They do not want manual and repetitive tasks. They want to automate tasks. 
+### [88. I Built a VSCode Extension: ngrok for VSCode](https://hackernoon.com/i-built-a-vscode-extension-ngrok-for-vscode-vf733yg5)
+![](https://images.unsplash.com/photo-1577894947058-cfdae4276bef?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Over the Easter weekend, a four day weekend characterised by lockdowns all over the world, I decided to use the extra time I had at home to start a new project and learn a new skill. By the end of the weekend I was proud to release my first VSCode extension: ngrok for VSCode.
 
-### [90. VS Code Gets a Major AI Upgrade with GitHub Copilot’s Agent Mode](https://hackernoon.com/vs-code-gets-a-major-ai-upgrade-with-github-copilots-agent-mode)
+### [89. VS Code Gets a Major AI Upgrade with GitHub Copilot’s Agent Mode](https://hackernoon.com/vs-code-gets-a-major-ai-upgrade-with-github-copilots-agent-mode)
 ![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-2x028rt.png)
 Agent Mode is an autonomous AI pair programmer integrated directly into your VS Code editor.
+
+### [90. Useful Tools To Make Working on HTML and CSS Easier](https://hackernoon.com/useful-tools-to-make-working-on-html-and-css-easier-wk5832ln)
+![](https://cdn.hackernoon.com/drafts/g6543y3a.png)
+Programmers and Developers are lazy people, they always want to make their jobs easy. They do not want manual and repetitive tasks. They want to automate tasks. 
 
 ### [91. Top 5 VS Code Extensions for Remote Working](https://hackernoon.com/top-5-vs-code-extensions-for-remote-working)
 ![](https://cdn.hackernoon.com/images/oG1q9ZwNQDTjc6DhArlJ33YYtn42-d54w352w.jpeg)
@@ -387,14 +391,14 @@ Photo by Casey Horner on Unsplash
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBnMb3F4vjTb8PuRduWJNBwABhlb2-w4c3uz7.jpeg?alt=media&token=4bebce43-c8a5-4c25-8ef0-8a0a5e0aad14)
 I recently had a large amount of data to refactor out of HTML and into JSON. The details about how I achieved this is a whole different article. What I want to document for myself (and maybe others will find it useful, even if it's only a refresher) are the various code expand and collapse options.
 
-### [97. Code Faster: 12 VS Code Shortcuts](https://hackernoon.com/code-faster-12-vs-code-shortcuts)
-![](https://cdn.hackernoon.com/images/mAItCJAJYNOm6v8esblAzdtCmmh1-m903nj5.jpeg)
-Here are 12 VS code shortcuts to help code faster.
-
-### [98. Get Notified When There are Commits to Pull in VS Code](https://hackernoon.com/get-notified-when-there-are-commits-to-pull-in-vs-code)
+### [97. Get Notified When There are Commits to Pull in VS Code](https://hackernoon.com/get-notified-when-there-are-commits-to-pull-in-vs-code)
 ![](https://cdn.hackernoon.com/images/F3ZSsqKRGadVkDBs4QaFU5371x52-qv93o67.jpeg)
 With the help of GitLive’s new pull reminders, you can now pull sooner, reduce the chances of conflicts, and merge faster!
 
+
+### [98. Code Faster: 12 VS Code Shortcuts](https://hackernoon.com/code-faster-12-vs-code-shortcuts)
+![](https://cdn.hackernoon.com/images/mAItCJAJYNOm6v8esblAzdtCmmh1-m903nj5.jpeg)
+Here are 12 VS code shortcuts to help code faster.
 
 ### [99. 7 Must Use Tools For Newbie Web Developers ](https://hackernoon.com/7-things-that-every-beginner-web-developer-should-know)
 ![](https://cdn.hackernoon.com/images/Y0kXG115Z7VorP4rguIGxwn3FoD3-eh037kk.jpeg)
@@ -408,13 +412,13 @@ In a previous article about VS Code, Search-and-Replace using RegEx, I had a que
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-lbf37my.jpeg)
 COVID-19 may have forced us all into working remotely, but that doesn't mean we can't still pair program! The VS Code Live Share extension is here to help.
 
-### [102. How to See Which Branch Your Teammates are on in VS Code](https://hackernoon.com/how-to-see-which-branch-your-teammates-are-on-in-vs-code-o92k377g)
-![](https://cdn.hackernoon.com/images/UXbP4RwOl8ZwnfIiCRT6SsQ9yEA3-h82g35ti.jpeg)
-In VS Code, open up the team tab by clicking on the GitLive icon on the activity bar. Locate the teammate you are interested in and click the arrow
-
-### [103. How to Fix the VS Code Explorer for Content Projects](https://hackernoon.com/how-to-fix-the-vs-code-explorer-for-content-projects)
+### [102. How to Fix the VS Code Explorer for Content Projects](https://hackernoon.com/how-to-fix-the-vs-code-explorer-for-content-projects)
 ![](https://cdn.hackernoon.com/images/NaU3BOE6YnOtNpCIV9kfvX1BqL03-sq9371c.jpeg)
 Stop fighting the VS Code Explorer. Use mixed sort order for content projects.
+
+### [103. How to See Which Branch Your Teammates are on in VS Code](https://hackernoon.com/how-to-see-which-branch-your-teammates-are-on-in-vs-code-o92k377g)
+![](https://cdn.hackernoon.com/images/UXbP4RwOl8ZwnfIiCRT6SsQ9yEA3-h82g35ti.jpeg)
+In VS Code, open up the team tab by clicking on the GitLive icon on the activity bar. Locate the teammate you are interested in and click the arrow
 
 ### [104. Cloud Collaboration Tools for Engineering Teams](https://hackernoon.com/vs-code-in-the-cloud-cloud-collaborating-tools-for-engineering-teams)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-sh03n81.jpeg)

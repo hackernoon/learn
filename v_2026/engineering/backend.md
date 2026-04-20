@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [backend](https://hackernoon.com/tagged/backend)
+### Let's learn about [Backend](https://hackernoon.com/tagged/backend) via these 478 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 All that server-side nuisance.
 
 ### [1. Overloading Vs. Overriding in C#](https://hackernoon.com/overloading-vs-overriding-in-c-nn1331h4)
@@ -133,13 +135,13 @@ We are going to create an android UI for our UserProfile backend API we are crea
 ![](https://cdn.hackernoon.com/drafts/l2fpx3ykt.png)
 Building your first authentication system may look intimidating at first. But to be honest, it's really easy. After reading this article, you will know how easy it is to create a session based authentication in rails.
 
-### [33. Top 5 Boilerplate Admin Templates With Node.js Backend](https://hackernoon.com/top-5-boilerplate-admin-templates-with-nodejs-backend-a5l3ulo)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-3f1g4vhq.jpeg?alt=media&token=75734ae9-7bd6-4976-81e4-3321d45a5914)
-More and more developers are currently deciding to boost their workflow, minimize unnecessary tasks, and structure their virtual desks through admin panels with Node.js backend. 
-
-### [34. One-Time Password Generation Using speakeasy, Nest.js And MongoDB](https://hackernoon.com/one-time-password-generation-using-speakeasy-nestjs-and-mongodb-c53b31ql)
+### [33. One-Time Password Generation Using speakeasy, Nest.js And MongoDB](https://hackernoon.com/one-time-password-generation-using-speakeasy-nestjs-and-mongodb-c53b31ql)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-212e313k.jpeg)
 Here, we have designed and developed a flow for OTP(One time password) for user registration and also blocking a user's account after the maximum retries for incorrect otp is exceeded.
+
+### [34. Top 5 Boilerplate Admin Templates With Node.js Backend](https://hackernoon.com/top-5-boilerplate-admin-templates-with-nodejs-backend-a5l3ulo)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-3f1g4vhq.jpeg?alt=media&token=75734ae9-7bd6-4976-81e4-3321d45a5914)
+More and more developers are currently deciding to boost their workflow, minimize unnecessary tasks, and structure their virtual desks through admin panels with Node.js backend. 
 
 ### [35. Introducing NodePort Service in Kubernetes](https://hackernoon.com/introducing-nodeport-service-in-kubernetes-ear0360s)
 ![](https://cdn.hackernoon.com/drafts/7i36s33v9.png)
@@ -169,27 +171,27 @@ In this quick article, you'll see how to prevent one of the OWASP Top 10 securit
 ![](https://cdn.hackernoon.com/images/HiQHPtNnSzNaqynCdOJ4cpJyHUt2-l5b3pxl.jpeg)
 This article explains how to gracefully shut down an asyncio app without losing data. It illustrates problems with asyncio.shield().
 
-### [42. Machine Learning Model with FLASK REST API](https://hackernoon.com/machine-learning-w22g322x)
-![](https://cdn.hackernoon.com/images/7967432wy.jpg)
-In this tutorial we will see how you can make your first REST API for Machine Learning Model using FLASK. We will start by creating machine learning model. Then we will see step-by-step procedure to create API using Flask and test it using Postman. 
-
-### [43. Custom TraceID in Elastic APM](https://hackernoon.com/custom-traceid-in-elastic-apm-82q3uox)
+### [42. Custom TraceID in Elastic APM](https://hackernoon.com/custom-traceid-in-elastic-apm-82q3uox)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOmS47d2l5aTGBvNqG2NaiodANxL2-kkjn3u9y.jpeg?alt=media&token=8942fa6b-5baa-45c3-b2e2-d85e47953329)
 Elastic APM is extensively useful in monitoring the lifecycle of a HTTP request in a system especially in µservices architecture. Wide variety of web frameworks and databases are supported which is useful in tracking the request up to DB calls. The documentation is simple and concise which makes it easy to instrument the application.
 
 This article aims to help or at least make it easy to trace the HTTP request lifecycle after instrumentation. Golang is used in this article for code snippets but the concept can be extended to other languages as well.
 
+### [43. Machine Learning Model with FLASK REST API](https://hackernoon.com/machine-learning-w22g322x)
+![](https://cdn.hackernoon.com/images/7967432wy.jpg)
+In this tutorial we will see how you can make your first REST API for Machine Learning Model using FLASK. We will start by creating machine learning model. Then we will see step-by-step procedure to create API using Flask and test it using Postman. 
+
 ### [44. Fixing Logging Issues In ASP.NET: TelemetryClient Vs. ILogger](https://hackernoon.com/fixing-logging-issues-in-aspnet-telemetryclient-vs-ilogger-sev339a)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-bli29lf.jpeg)
 TelemetryClient vs ILogger or how to improve logging experience in C# ASP.NET for Application Insights
 
-### [45. Lightbug 🔥🐝- The First Mojo HTTP Framework](https://hackernoon.com/lightbug-the-first-mojo-http-framework)
-![](https://cdn.hackernoon.com/images/nQvM1p4mbMZk0oMZqVyalLKK8893-t382k9m.jpeg)
-Intro to Lightbug 🔥🐝, a lightweight HTTP framework in pure Mojo that allows to build web services with simplicity of Python and performance of C++
-
-### [46. Designing Functional Authentication and Authorization Systems](https://hackernoon.com/designing-functional-authentication-and-authorization-systems)
+### [45. Designing Functional Authentication and Authorization Systems](https://hackernoon.com/designing-functional-authentication-and-authorization-systems)
 ![](https://cdn.hackernoon.com/images/ZgWtnLhNQ1Q13Um4rTs807oBHZf1-2l82vjc.jpeg)
 In this article, we are going to talk about a system for performing authentication and authorization securely. 
+
+### [46. Lightbug 🔥🐝- The First Mojo HTTP Framework](https://hackernoon.com/lightbug-the-first-mojo-http-framework)
+![](https://cdn.hackernoon.com/images/nQvM1p4mbMZk0oMZqVyalLKK8893-t382k9m.jpeg)
+Intro to Lightbug 🔥🐝, a lightweight HTTP framework in pure Mojo that allows to build web services with simplicity of Python and performance of C++
 
 ### [47. How Properly Configure Nginx Server for TLS](https://hackernoon.com/how-properly-configure-nginx-server-for-tls-sg1d3udt)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FdVKFOwDXeJRFgx4ASfpjx7LJ4oy2-tn63tug.webp?alt=media&token=9dfa9dbb-bb1b-4a1e-8ab8-72cc62dbc82e)
@@ -255,11 +257,15 @@ Embarking on your first software development project can be a daunting experienc
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FylnGlTHPFrVo7g2hEomtk5C2j3d2-nx2u3z7x.jpeg?alt=media&token=52e6b4a9-88af-4eb0-a370-e9abf055826c)
 Front-end seems to be one of the most popular developers’ niche over the last years. Front-enders create the front view of the web application. The code consists of HTML, CSS, and JavaScript. Three of them create the magic we all experience on the internet. But there is much more than a web application that needs to work. The back-end is the other side of the applications that we don’t see, but the experience. 
 
-### [62. How SQL Database Engine Work](https://hackernoon.com/how-sql-database-engine-work-483e32o7)
+### [62. Apache Web Server Hardening: How To Protect Your Server From Attacks](https://hackernoon.com/apache-web-server-hardening-how-to-protect-your-server-from-attacks-tc1t3umm)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-l3f28qu.png?alt=media&token=7d160689-ae2c-4d65-9a3a-09269de578d6)
+he web server has a crucial role in web-based applications. Since most of us leave it to the default configuration, it can leak sensitive data regarding the web server.
+
+### [63. How SQL Database Engine Work](https://hackernoon.com/how-sql-database-engine-work-483e32o7)
 ![](https://cdn.hackernoon.com/images/l98q32oh.jpg)
 For now, I am assuming that you all know what is SQL or you have some experience with SQL or you are using SQL for many years. I know many people who know so much about SQL and even have created many projects based on SQL and they do not know what is SQL engine or how actually SQL database engine works. It’s obvious no one’s care about the internal working of SQL engine or something because without knowing How SQL works we can still create and access database using any SQL program.
 
-### [63. How to Become a Backend Developer in 2020](https://hackernoon.com/learning-path-to-become-a-backend-developer-in-2020-qr1v32eo)
+### [64. How to Become a Backend Developer in 2020](https://hackernoon.com/learning-path-to-become-a-backend-developer-in-2020-qr1v32eo)
 ![](drafts/a3vw32np.png)
 Are you looking for a career in Backend Development? To build complete applications beyond the user-interface companies need rockstar back-end developers.
 
@@ -268,21 +274,17 @@ All the app data is stored and processed on the back-end. Back-end development i
 The average salary for a back-end developer is $123,689 per year in the United States as of 2019. In this post, let’s learn about what it means to be a Backend Developer.
 
 
-### [64. Apache Web Server Hardening: How To Protect Your Server From Attacks](https://hackernoon.com/apache-web-server-hardening-how-to-protect-your-server-from-attacks-tc1t3umm)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-l3f28qu.png?alt=media&token=7d160689-ae2c-4d65-9a3a-09269de578d6)
-he web server has a crucial role in web-based applications. Since most of us leave it to the default configuration, it can leak sensitive data regarding the web server.
+### [65. Argon2 in Practice: How to Implement Secure Password Hashing in Your Application](https://hackernoon.com/argon2-in-practice-how-to-implement-secure-password-hashing-in-your-application)
+![](https://cdn.hackernoon.com/images/dZoc9pAR15QU9belAtekOli93ox1-9r037hu.jpeg)
+Master Argon2 password hashing! Practical tutorial with code examples, library setup, & best practices for secure apps. 
 
-### [65. An Anatomy of Tiny URL Provider Service](https://hackernoon.com/an-anatomy-of-tiny-url-provider-service-1ly31gd)
+### [66. An Anatomy of Tiny URL Provider Service](https://hackernoon.com/an-anatomy-of-tiny-url-provider-service-1ly31gd)
 ![](https://cdn.hackernoon.com/images/eQAboXKgBIZ0OD357lPO5ho4RdA2-xlnz31fv.jpeg)
 In this article, java developers explain the Anatomy of system designing of a URL Shortener Solution or Tiny URL provider Service.
 
-### [66. Speech Recognition And Speech Synthesis on Angular](https://hackernoon.com/speech-recognition-and-speech-synthesis-on-angular-wj1a3ulr)
+### [67. Speech Recognition And Speech Synthesis on Angular](https://hackernoon.com/speech-recognition-and-speech-synthesis-on-angular-wj1a3ulr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYn5tWMJ716SW4g4burnKobHKlAl1-kag3zt7.jpeg?alt=media&token=87eeb9a3-66dc-41cd-acd4-f1737178b55d)
 I was writing a chat bot where a user interacts with a machine learning powered bot, then I wanted to write a general example application for anybody to use it. In this application, there will not be any intelligence. The bot will simply recite what it heard so that anyone can implement his/her own logic. 
-
-### [67. Argon2 in Practice: How to Implement Secure Password Hashing in Your Application](https://hackernoon.com/argon2-in-practice-how-to-implement-secure-password-hashing-in-your-application)
-![](https://cdn.hackernoon.com/images/dZoc9pAR15QU9belAtekOli93ox1-9r037hu.jpeg)
-Master Argon2 password hashing! Practical tutorial with code examples, library setup, & best practices for secure apps. 
 
 ### [68. Exploring PL/SQL Nested Tables in Oracle](https://hackernoon.com/exploring-plsql-nested-tables-in-oracle-gx1v3ufk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FoLOHnc5zURNjrvDSYl4N3LhooT53-bb2g3up7.jpeg?alt=media&token=597301ad-9db0-41da-886c-730ce6f23960)
@@ -505,25 +507,25 @@ The Backends-for-Frontends pattern might be exactly what you need to avoid monol
 ![](https://cdn.hackernoon.com/drafts/yp5f23n7t.png)
 Implementing a good GraphQL backend to serve your database data is not an easy task, you have to implement a lot of resolvers, add authorization, pagination of the fields and use a DataLoader to not repeat your database queries during relations.
 
-### [122. How To Generate API Blueprint using SwagGo](https://hackernoon.com/how-to-generate-api-blueprint-using-swaggo-gz1s33v7)
-![](https://cdn.hackernoon.com/images/Xksz4YvTGffqu7mETSmp6Nd2HI33-qx1g132se.jpeg)
-Generating API blueprint REST API Golang using SwagGo tools
-
-### [123. The Only Guide You Need to Pass the CKAD (Certified Kubernetes Application Developer) Exam](https://hackernoon.com/the-only-guide-you-need-to-pass-the-ckad-certified-kubernetes-application-developer-exam)
-![](https://cdn.hackernoon.com/images/FnJSyiTSqmPvpvgC9FHggSRb8Gj2-y3832rn.png)
-Learn how to pass the CKAD exam with my guide. Practical tips and strategies from my experience will help you succeed.
-
-### [124. Building a Recommendation Engine using Ruby on Rails](https://hackernoon.com/building-a-recommendation-engine-using-ruby-on-rails-dg1h31o4)
+### [122. Building a Recommendation Engine using Ruby on Rails](https://hackernoon.com/building-a-recommendation-engine-using-ruby-on-rails-dg1h31o4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-6g2s28un.jpeg?alt=media&token=24a23a77-37b0-4e4a-a078-a5075104cab8)
 Just to give you some context, we were working on the new Diabecarp App a few days ago. I can't talk much about the new features, but I am going to extrapolate 2 interesting solutions during the process, give you why, explain a bit and, as always, put together a demo with Rails ♥️.
 
-### [125. Important Differences Between Cloud-Based, Cloud-Enabled, And Cloud-Native Apps](https://hackernoon.com/important-differences-between-cloud-based-cloud-enabled-and-cloud-native-apps-mmw33q7)
-![](https://cdn.hackernoon.com/images/aBBfgZPPZyb0YobTc0dCp6i6p7V2-tt1933de.jpeg)
-Learn the difference between Cloud-Based, Cloud-Enabled, and Cloud-Native Applications.
+### [123. How To Generate API Blueprint using SwagGo](https://hackernoon.com/how-to-generate-api-blueprint-using-swaggo-gz1s33v7)
+![](https://cdn.hackernoon.com/images/Xksz4YvTGffqu7mETSmp6Nd2HI33-qx1g132se.jpeg)
+Generating API blueprint REST API Golang using SwagGo tools
 
-### [126. How Libuv Thread Pool Can Boost Your Node JS Performance](https://hackernoon.com/how-libuv-thread-pool-can-boost-your-node-js-performance-bel3tyf)
+### [124. The Only Guide You Need to Pass the CKAD (Certified Kubernetes Application Developer) Exam](https://hackernoon.com/the-only-guide-you-need-to-pass-the-ckad-certified-kubernetes-application-developer-exam)
+![](https://cdn.hackernoon.com/images/FnJSyiTSqmPvpvgC9FHggSRb8Gj2-y3832rn.png)
+Learn how to pass the CKAD exam with my guide. Practical tips and strategies from my experience will help you succeed.
+
+### [125. How Libuv Thread Pool Can Boost Your Node JS Performance](https://hackernoon.com/how-libuv-thread-pool-can-boost-your-node-js-performance-bel3tyf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEVKIyOE5g0e70Zsmj3IswB8Udbk2-5g3b3e5m.jpeg?alt=media&token=15a7f267-0066-45c5-97a6-bb945fb5dba8)
 In this 5th instalment of my “Node JS Performance Optimizations” series, I show you how to increase Node JS performance with thread pool management. We achieve this by understanding how Libuv works, how the thread pool works and how to configure the number of threads based on your machine specs.
+
+### [126. Important Differences Between Cloud-Based, Cloud-Enabled, And Cloud-Native Apps](https://hackernoon.com/important-differences-between-cloud-based-cloud-enabled-and-cloud-native-apps-mmw33q7)
+![](https://cdn.hackernoon.com/images/aBBfgZPPZyb0YobTc0dCp6i6p7V2-tt1933de.jpeg)
+Learn the difference between Cloud-Based, Cloud-Enabled, and Cloud-Native Applications.
 
 ### [127. How To Build An API Without Coding [Python]](https://hackernoon.com/how-to-build-an-api-without-coding-bgs3wlj)
 ![](https://cdn.hackernoon.com/images/7b3vb3wu9.jpg)
@@ -581,13 +583,13 @@ Introduction
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-83i33wi.jpeg)
 An implementation of the standard Javascript Fetch API which can be used in public and backend code for fetching resources from 3rd party servicesusing HTTPS. Learn more.
 
-### [141. What is an API, Simply Explained](https://hackernoon.com/what-is-an-api-simply-explained-2d6x3yf6)
-![](https://cdn.hackernoon.com/drafts/3g2t3ybc.png)
-Connectivity is something amazing. Right now, we are used to use our computers or phones to buy, post, watch, etc. We can do lots of things actually. We are connected to the world and to each other.
-
-### [142. Nucleoid: A Low-code Framework for Node.js](https://hackernoon.com/nucleoid-a-low-code-framework-for-nodejs)
+### [141. Nucleoid: A Low-code Framework for Node.js](https://hackernoon.com/nucleoid-a-low-code-framework-for-nodejs)
 ![](https://cdn.hackernoon.com/images/ZfW2FmULqJg70a4vxjbep3OZIBf1-zhc3oad.jpeg)
 Nucleoid is low-code framework for Node.js, lets you build your APIs with the help of AI and built-in datastore in declarative runtime engine.
+
+### [142. What is an API, Simply Explained](https://hackernoon.com/what-is-an-api-simply-explained-2d6x3yf6)
+![](https://cdn.hackernoon.com/drafts/3g2t3ybc.png)
+Connectivity is something amazing. Right now, we are used to use our computers or phones to buy, post, watch, etc. We can do lots of things actually. We are connected to the world and to each other.
 
 ### [143. Creating Image Uploader in Rails 6 Using Cloudinary and Carrierwave](https://hackernoon.com/creating-image-uploader-in-rails-6-using-cloudinary-and-carrierwave-jp173u1w)
 ![](https://images.unsplash.com/photo-1533839346998-ba7ebed7e89d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -601,22 +603,22 @@ It's an awesome feeling to see something you have built one year ago gaining pop
 ![](https://cdn.hackernoon.com/images/zg5KqJKmaoa55jd5lFdol5UDODA2-yid2kxs.jpeg)
 Keep your Model Observers in Laravel under control.
 
-### [146. A Detailed Guide To Using Apache Storm](https://hackernoon.com/a-detailed-guide-to-using-apache-storm-8kd53vik)
-![](https://cdn.hackernoon.com/drafts/mb1rl3yz1.png)
-Continuous streams of data are ubiquitous and becoming even more so with the increasing number of IoT devices being used. Of course this data is stored, processed and analyzed to provide predictive, actionable results. But petabytes take long to analyze, even with Hadoop (as good as MapReduce may be) or Spark (a remedy to the limitations of MapReduce). 
-
-### [147. Why Math Functions in C++ Are So Slow](https://hackernoon.com/why-math-functions-in-c-are-so-slow-nxz3155)
+### [146. Why Math Functions in C++ Are So Slow](https://hackernoon.com/why-math-functions-in-c-are-so-slow-nxz3155)
 ![](https://cdn.hackernoon.com/images/jtq5zXwLOJc1DaoLNnZAfir0KuV2-zv5v3167.png)
 Why C++ math functions can be slow and how to fix them
 
 
-### [148. How to Architect Individual Throttles for Users and Tables in FastAPI](https://hackernoon.com/how-to-architect-individual-throttles-for-users-and-tables-in-fastapi)
-![](https://cdn.hackernoon.com/images/QrMnmxqNYWcVX1tdZpiiZOE5DLM2-tmj3zki.jpeg)
-FastAPI has been instrumental to me in understanding backend engineering and thinking about processes and how stuff can and should work. It is an intelligent to
+### [147. A Detailed Guide To Using Apache Storm](https://hackernoon.com/a-detailed-guide-to-using-apache-storm-8kd53vik)
+![](https://cdn.hackernoon.com/drafts/mb1rl3yz1.png)
+Continuous streams of data are ubiquitous and becoming even more so with the increasing number of IoT devices being used. Of course this data is stored, processed and analyzed to provide predictive, actionable results. But petabytes take long to analyze, even with Hadoop (as good as MapReduce may be) or Spark (a remedy to the limitations of MapReduce). 
 
-### [149. How To Create Secure Registration Flow with PHP and Password Hashing](https://hackernoon.com/how-to-create-secure-registration-flow-with-php-and-password-hashing-nw1b3t1z)
+### [148. How To Create Secure Registration Flow with PHP and Password Hashing](https://hackernoon.com/how-to-create-secure-registration-flow-with-php-and-password-hashing-nw1b3t1z)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-8nr2838.jpeg?alt=media&token=928f1dac-65a4-4e24-a0c2-6bb28c625270)
 Building a secure user registration form with PHP seems like a scary task. How do I protect myself from MySQL injection and other methods of hacking. Surprisingly, with only a few steps and precautions, you can greatly reduce the chance of success for attacks.
+
+### [149. How to Architect Individual Throttles for Users and Tables in FastAPI](https://hackernoon.com/how-to-architect-individual-throttles-for-users-and-tables-in-fastapi)
+![](https://cdn.hackernoon.com/images/QrMnmxqNYWcVX1tdZpiiZOE5DLM2-tmj3zki.jpeg)
+FastAPI has been instrumental to me in understanding backend engineering and thinking about processes and how stuff can and should work. It is an intelligent to
 
 ### [150. Gossip Simulation Implemented In Python](https://hackernoon.com/gossip-simulation-implemented-in-python-r8u345b)
 ![](https://cdn.hackernoon.com/images/8TYrRgo0HFPExnKBzEy9yKwK4W12-v9l34ol.jpeg)
@@ -658,66 +660,66 @@ Learn how to easily setup a tsconfig file to build for nodejs.
 ![](https://cdn.hackernoon.com/images/2CbhZnaRUnSoJWPEOx5vtMVp0UE2-um6p35sf.jpeg)
 Deploy Django on Kubernetes in a few clicks without even Dockerizing your application.
 
-### [160. Enlarge your DRY :  How to Share Values Between Web App Backend and Frontend](https://hackernoon.com/enlarge-your-dry-how-to-share-values-between-web-app-backend-and-frontend-mo2e33bc)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-6xx32hc.jpeg)
-REST API endpoints paths list which backend uses to route API requests and frontend uses to make backend API requests.
-
-### [161. How to use HashMap with Custom Keys (and Avoid Shooting Yourself in the Leg)](https://hackernoon.com/how-to-use-hashmap-with-custom-keys-and-avoid-shooting-yourself-in-the-leg)
+### [160. How to use HashMap with Custom Keys (and Avoid Shooting Yourself in the Leg)](https://hackernoon.com/how-to-use-hashmap-with-custom-keys-and-avoid-shooting-yourself-in-the-leg)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-p593iuc.jpeg)
 Immutable objects, HashMap data loss, Equals and HashCode, and Builder. Thread-safe, side-effects free.
 
-### [162. Building Microservices With Nameko](https://hackernoon.com/building-microservices-with-nameko-part1-ud1135ug)
+### [161. Enlarge your DRY :  How to Share Values Between Web App Backend and Frontend](https://hackernoon.com/enlarge-your-dry-how-to-share-values-between-web-app-backend-and-frontend-mo2e33bc)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-6xx32hc.jpeg)
+REST API endpoints paths list which backend uses to route API requests and frontend uses to make backend API requests.
+
+### [162. Understanding Authentication: A Guide to Cookie-Based and Session-Based Authentication](https://hackernoon.com/understanding-authentication-a-guide-to-cookie-based-and-session-based-authentication)
+![](https://cdn.hackernoon.com/images/glJc8wR7pPZxszJ5nouCekLyfcA2-hq82sds.png)
+Cookies-Based Authentication Vs. Session-Based Authentication: All You Should Know!
+
+### [163. Building Microservices With Nameko](https://hackernoon.com/building-microservices-with-nameko-part1-ud1135ug)
 ![](https://cdn.hackernoon.com/images/mzgCTKFkzTPgfA3pJDyGxHKXklA2-y11a932b7.png)
 What is Nameko?
 Nameko is a framework for building lightweight, highly scalable and fault-tolerant service in Python.
-
-### [163. Understanding Authentication: A Guide to Cookie-Based and Session-Based Authentication](https://hackernoon.com/understanding-authentication-a-guide-to-cookie-based-and-session-based-authentication)
-![](https://cdn.hackernoon.com/images/glJc8wR7pPZxszJ5nouCekLyfcA2-hq82sds.png)
-Cookies-Based Authentication Vs. Session-Based Authentication: All You Should Know!
 
 ### [164. Mastering Go Channels for Elegant Synchronization](https://hackernoon.com/mastering-go-channels-for-elegant-synchronization)
 ![](https://cdn.hackernoon.com/images/8KGWNss2rIT5ieSmxoe0XLD4sac2_7rkevoh.jpeg)
 Channels in Go are a core part of the language's concurrency model, which is built around the principles of Communicating Sequential Processes.
 
-### [165. JavaScript Typed Arrays: Beginners Guide](https://hackernoon.com/javascript-typed-arrays-beginners-guide-ld1x3136)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-zki31ez.jpeg)
-JavaScript typed arrays are array-like objects that provide a mechanism for reading and writing raw binary data in memory buffers. As you may already know, Array objects grow and shrink dynamically and can have any JavaScript value. JavaScript engines perform optimizations so that these arrays are fast.
-
-### [166. Authenticating Your API Using "Knock Gem" in Rails](https://hackernoon.com/authenticating-your-api-using-knock-gem-in-rails-1e1r3uyh)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fro0nRmwtRqTxK5jGVIaEH7kx75j2-qr8z3zjc.jpeg?alt=media&token=07e05371-d19c-4beb-809f-f8d7ad2ad6fc)
-Due to the inability to generate a well-defined way to authenticate rails API, I have sourced out this information in order to help me and you have a way of authenticating our rails API token. This tutorial would be based on the latest version (6.0) of Ruby on Rails.
-
-### [167. 7 Companies with Recipe APIs in 2022](https://hackernoon.com/7-companies-with-recipe-apis-in-2022)
+### [165. 7 Companies with Recipe APIs in 2022](https://hackernoon.com/7-companies-with-recipe-apis-in-2022)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-p293oix.jpeg)
 An overview of 7 Companies with recipe APIs in 2022
 
-### [168. Unobtrusive JavaScript in Ruby On Rails [Beginners Guide]](https://hackernoon.com/unobtrusive-javascript-in-ruby-on-rails-beginners-guide-nj1b3ufu)
-![](https://images.unsplash.com/photo-1555099962-4199c345e5dd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Recently I learned Ruby On Rails, an amazing framework, you can easily build complex web applications with it. In this article, I want to talk about Unobtrusive JavaScript in Ruby On Rails, a tool that can help you build a more responsive web application in a simple way. With it, you can manage all your JavaScript in the server and you don’t need to pollute your HTML files, there is no need for adding events listeners and ajax requests.
+### [166. JavaScript Typed Arrays: Beginners Guide](https://hackernoon.com/javascript-typed-arrays-beginners-guide-ld1x3136)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-zki31ez.jpeg)
+JavaScript typed arrays are array-like objects that provide a mechanism for reading and writing raw binary data in memory buffers. As you may already know, Array objects grow and shrink dynamically and can have any JavaScript value. JavaScript engines perform optimizations so that these arrays are fast.
 
-### [169. Navigating the Path to Becoming a Backend Developer: What I Learned From My Self-Taught Journey](https://hackernoon.com/navigating-the-path-to-becoming-a-backend-developer-what-i-learned-from-my-self-taught-journey)
+### [167. Authenticating Your API Using "Knock Gem" in Rails](https://hackernoon.com/authenticating-your-api-using-knock-gem-in-rails-1e1r3uyh)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fro0nRmwtRqTxK5jGVIaEH7kx75j2-qr8z3zjc.jpeg?alt=media&token=07e05371-d19c-4beb-809f-f8d7ad2ad6fc)
+Due to the inability to generate a well-defined way to authenticate rails API, I have sourced out this information in order to help me and you have a way of authenticating our rails API token. This tutorial would be based on the latest version (6.0) of Ruby on Rails.
+
+### [168. Navigating the Path to Becoming a Backend Developer: What I Learned From My Self-Taught Journey](https://hackernoon.com/navigating-the-path-to-becoming-a-backend-developer-what-i-learned-from-my-self-taught-journey)
 ![](https://cdn.hackernoon.com/images/GDWLkGCWYjSdrUcsr7oj18Z4Gzn2-po82sw6.jpeg)
 Gain insights from my Golang journey. Choose a job-friendly language. Avoid stress. Forge your path.
 
-### [170. Obtaining Data From Images Using Exif: How To Automate The Process](https://hackernoon.com/obtaining-data-from-images-using-exif-how-to-automate-the-process-fzr33w3)
-![](https://cdn.hackernoon.com/images/hy5hwiViojexm8PPhxbom0FcgtT2-q1cd33xr.jpeg)
-A how-to guide for automating the EXIF data from batch image files. 
+### [169. Unobtrusive JavaScript in Ruby On Rails [Beginners Guide]](https://hackernoon.com/unobtrusive-javascript-in-ruby-on-rails-beginners-guide-nj1b3ufu)
+![](https://images.unsplash.com/photo-1555099962-4199c345e5dd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Recently I learned Ruby On Rails, an amazing framework, you can easily build complex web applications with it. In this article, I want to talk about Unobtrusive JavaScript in Ruby On Rails, a tool that can help you build a more responsive web application in a simple way. With it, you can manage all your JavaScript in the server and you don’t need to pollute your HTML files, there is no need for adding events listeners and ajax requests.
 
-### [171. How to Spot N+1 SQL Query Problems Early for Laravel Projects](https://hackernoon.com/how-to-spot-n1-sql-query-problems-early-for-laravel-projects)
+### [170. How to Spot N+1 SQL Query Problems Early for Laravel Projects](https://hackernoon.com/how-to-spot-n1-sql-query-problems-early-for-laravel-projects)
 ![](https://cdn.hackernoon.com/images/zg5KqJKmaoa55jd5lFdol5UDODA2-3m92kwn.png)
 My top favorite tools for spotting N+1 problems in database queries for Laravel projects.
+
+### [171. Obtaining Data From Images Using Exif: How To Automate The Process](https://hackernoon.com/obtaining-data-from-images-using-exif-how-to-automate-the-process-fzr33w3)
+![](https://cdn.hackernoon.com/images/hy5hwiViojexm8PPhxbom0FcgtT2-q1cd33xr.jpeg)
+A how-to guide for automating the EXIF data from batch image files. 
 
 ### [172. Kubernetes Tutorial: Using The System For Personal Projects](https://hackernoon.com/kubernetes-tutorial-using-the-system-for-personal-projects-xry33ay)
 ![](https://cdn.hackernoon.com/images/gOION3UpzLYB2bAzKFMIXwcmdD03-hpcv333b.jpeg)
 Learn how to deploy a simple rest API with ExpressJS and expose it using a service and ingress. Great for Kubernetes personal projects.
 
-### [173. How to Seed Your Rails Database with Faker ](https://hackernoon.com/how-to-seed-your-rails-database-with-faker-q7w3udo)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-ju1c289u.jpeg?alt=media&token=64d06407-039a-4424-bc0c-a4228bc473ae)
-I built a Customer Support System a few days ago and started to think of a way to seed my rails database with random data for testing without having to manually type in the data. This may not be the best way to do it, but it works and allows you to test your application.
-
-### [174. Velo How-To: On Performance Optimization And Data](https://hackernoon.com/velo-how-to-on-performance-optimization-and-data-e41j35qx)
+### [173. Velo How-To: On Performance Optimization And Data](https://hackernoon.com/velo-how-to-on-performance-optimization-and-data-e41j35qx)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-9wk35oy.jpeg)
 Using data from database collections or from a 3rd-party source can be a powerful tool to enhance your site's functionality. However, sending a lot of data to the browser from the server can be a time-consuming operation and negatively affect your site's loading time. Therefore, you want to minimize the amount of data that is sent from the server to the browser.  This article lists a number of approaches you can use, whether you're using a dataset or the Data API, to improve your site's performance.
+
+### [174. How to Seed Your Rails Database with Faker ](https://hackernoon.com/how-to-seed-your-rails-database-with-faker-q7w3udo)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-ju1c289u.jpeg?alt=media&token=64d06407-039a-4424-bc0c-a4228bc473ae)
+I built a Customer Support System a few days ago and started to think of a way to seed my rails database with random data for testing without having to manually type in the data. This may not be the best way to do it, but it works and allows you to test your application.
 
 ### [175. All For One, And One For All: A Single Ruby on Rails Validator For All Controllers ](https://hackernoon.com/all-for-one-and-one-for-all-one-validator-for-all-controllers-ruby-on-rails-wk3l30b2)
 ![](https://cdn.hackernoon.com/drafts/m6hs303a.png)
@@ -743,21 +745,21 @@ If you already have a handy tool that you like to add to your daily environment,
 ![](https://cdn.hackernoon.com/images/ojnQGejM7vR48x30ThHci37k0cC3-nx83709.jpeg)
 A practical approach to test an application that uses async redux-thunk action. The test will check the effect of dispatched action on the state.
 
-### [181. Magento 2.4.2 Release Notes](https://hackernoon.com/magento-242-release-notes-y1r322h)
-![](https://cdn.hackernoon.com/images/v70nLMLxgQeWOoNaR0OzVzSFxOX2-1o263113.jpeg)
-Magento 2.4.2 is unleashing on 09 Feb 2021, all the noted issues of Magento 2.4.1 has been resolved in this release -Check All update in 5 minutes! 
-
-### [182. Software Architects' headache - the Integration Point](https://hackernoon.com/software-architects-headache-the-integration-point)
+### [181. Software Architects' headache - the Integration Point](https://hackernoon.com/software-architects-headache-the-integration-point)
 ![](https://cdn.hackernoon.com/images/u0oH89Eo5TRSzQ55Xm6hulaWJ0s2-6h93o1b.jpeg)
 Today we will talk about a software architecture pattern of Architecture Points. Architects might find this knowledge interesting in solving their problems.
 
-### [183. Why Front End Developers Going Full Stack Should Choose Go](https://hackernoon.com/why-front-end-developers-going-full-stack-should-choose-go-2ct3ewm)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ffms5hEAIFUXalFpkFdSTymA0Cmn2-ni2c3u57.jpeg?alt=media&token=1f1fd470-c3cb-4eb9-98ac-8e7bbbe9134c)
-So you’re a front end developer, and you want to learn some backend stuff. You want to become a full stack developer someday, so where do you start? Google’s Go language is an excellent place.
+### [182. Magento 2.4.2 Release Notes](https://hackernoon.com/magento-242-release-notes-y1r322h)
+![](https://cdn.hackernoon.com/images/v70nLMLxgQeWOoNaR0OzVzSFxOX2-1o263113.jpeg)
+Magento 2.4.2 is unleashing on 09 Feb 2021, all the noted issues of Magento 2.4.1 has been resolved in this release -Check All update in 5 minutes! 
 
-### [184. 8 Crucial Tips for Hardening PostgreSQL 14.4 servers in 2022](https://hackernoon.com/8-crucial-tips-for-hardening-postgresql-144-servers-in-2022)
+### [183. 8 Crucial Tips for Hardening PostgreSQL 14.4 servers in 2022](https://hackernoon.com/8-crucial-tips-for-hardening-postgresql-144-servers-in-2022)
 ![](https://cdn.hackernoon.com/images/WgVLUehxmxgNrCz3vWPCb1fnrPF3-yze3qek.jpeg)
 As of July 13th, 2022, there are 135 security flaws reported to the CVE database. Here are 8 essential measures you can take to protect your PostgreSQL server.
+
+### [184. Why Front End Developers Going Full Stack Should Choose Go](https://hackernoon.com/why-front-end-developers-going-full-stack-should-choose-go-2ct3ewm)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ffms5hEAIFUXalFpkFdSTymA0Cmn2-ni2c3u57.jpeg?alt=media&token=1f1fd470-c3cb-4eb9-98ac-8e7bbbe9134c)
+So you’re a front end developer, and you want to learn some backend stuff. You want to become a full stack developer someday, so where do you start? Google’s Go language is an excellent place.
 
 ### [185. How To Run Deno.js in Docker](https://hackernoon.com/how-to-run-denojs-in-docker-c21q31fv)
 ![](https://cdn.hackernoon.com/images/ixAUCeTPWNguVreGlVMJnhUXrQU2-7w3a35hv.jpeg)
@@ -772,13 +774,13 @@ Low-level languages like C, have manual memory management primitives such as ma
 ![](https://cdn.hackernoon.com/images/1YXFIyZr1ESaAbiPktwpv7ignz73-ky32337p.png)
 Creating a Slack clone with Supabase and Next.js
 
-### [188. How to Handle Database Versioning on Multiple Environments](https://hackernoon.com/how-to-handle-database-versioning-on-multiple-environments-b45a3v51)
-![](https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Ok, so here is the situation: you work in a team, and each developer works with a local environment. Or  you have multiple environments. Or... We don't care. The only thing is, you have to handle different versions of databases, and you don't know how to do this safely and efficiently.  
-
-### [189. Writing Your First REST API: A How-to Guide](https://hackernoon.com/writing-your-first-web-api-a-how-to-guide-i912343r)
+### [188. Writing Your First REST API: A How-to Guide](https://hackernoon.com/writing-your-first-web-api-a-how-to-guide-i912343r)
 ![](https://cdn.hackernoon.com/images/WJS2k58dZ6eYykgvtkWUl41lNI83-bz4328o3.png)
 As part of my Borum Jot project, I made a Web API for all my front-end platforms to create, retrieve, update, and delete (CRUD) data on the database. In this article, I'll discuss what exactly an API is and how I made my own Web API. 
+
+### [189. How to Handle Database Versioning on Multiple Environments](https://hackernoon.com/how-to-handle-database-versioning-on-multiple-environments-b45a3v51)
+![](https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Ok, so here is the situation: you work in a team, and each developer works with a local environment. Or  you have multiple environments. Or... We don't care. The only thing is, you have to handle different versions of databases, and you don't know how to do this safely and efficiently.  
 
 ### [190. How To Create a Simple Autocomplete Field And Connect it With Elasticsearch](https://hackernoon.com/how-to-create-a-simple-autocomplete-field-and-connect-it-with-elasticsearch-5w2431xo)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWnT4onrLDxWJByyjiz9SY4adyu73-yd463whh.jpeg?alt=media&token=dba8b22b-ab08-4906-ae19-a02e3c74e293)
@@ -792,17 +794,17 @@ Learn how digital certificates ensure secure internet communication. Understand 
 ![](https://cdn.hackernoon.com/images/EIcuB1BaaCgyysQkgxzCoeejxvt2-hcj33sn.jpeg)
 Check out why you should use golang for your next project
 
-### [193. Choosing the Right Microservices Framework ](https://hackernoon.com/choosing-the-right-microservices-framework-gp1235dw)
+### [193. Building a Secure Web Chat With Redis, mTLS and GCP](https://hackernoon.com/building-a-secure-web-chat-with-redis-mtls-and-gcp)
+![](https://cdn.hackernoon.com/images/PyERAjWATVTJ0CA5MOShZMIP0CF2-p5s35sd.jpeg)
+Securing Redis installation with mTLS and accessing it from a compute instance on GCP for free.
+
+### [194. Choosing the Right Microservices Framework ](https://hackernoon.com/choosing-the-right-microservices-framework-gp1235dw)
 ![](https://cdn.hackernoon.com/images/gHvMTDyns0g53SYh2RCVA1FKqjv1-f5g2931.jpeg)
 Microservices architecture is a methodology that allows you to split a monolithic single application into small applications and services.
 
-### [194. A Brief Guide to Everything You Need to Know About APIs](https://hackernoon.com/a-brief-guide-to-everything-you-need-to-know-about-apis)
+### [195. A Brief Guide to Everything You Need to Know About APIs](https://hackernoon.com/a-brief-guide-to-everything-you-need-to-know-about-apis)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-hx93pip.jpeg)
 In this article, we will be discussing in-depth APIs and web services. Also learn the basics of making an API call, its vulnerabilities, and the future.
-
-### [195. Building a Secure Web Chat With Redis, mTLS and GCP](https://hackernoon.com/building-a-secure-web-chat-with-redis-mtls-and-gcp)
-![](https://cdn.hackernoon.com/images/PyERAjWATVTJ0CA5MOShZMIP0CF2-p5s35sd.jpeg)
-Securing Redis installation with mTLS and accessing it from a compute instance on GCP for free.
 
 ### [196. UMA (User-Managed Access) 2.0: How It Works And What It Can Be Used For ](https://hackernoon.com/uma-user-managed-access-20-how-it-works-and-what-it-can-be-used-for-eh2834lu)
 ![](https://cdn.hackernoon.com/images/6kyWRUf5yVh84FRLRMec4J2o2rj1-6c1o34ri.jpeg)
@@ -812,94 +814,94 @@ User-Managed Access (UMA) is an OAuth-based access management protocol standard.
 ![](https://cdn.hackernoon.com/images/uh3E7QeBnLaH17aRK8RIBQ5TEJa2-2v83yb4.webp)
 Logging is a crucial yet frequently underestimated component of application development. Proper logging practices can enhance the visibility of your application
 
-### [198. Pool Architecture for Saas](https://hackernoon.com/pool-architecture-for-saas-qil3ur3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5pQpZNSj2mO0Oi9X4Lrj7YIqfHE2-ap2s285o.jpeg?alt=media&token=89deeb94-1a93-4ed8-b818-f974228f3045)
-Most of the startups facing scaling problems move to microservices. Inspired by cell-based architecture, it split services per function and scale only specific features. It works especially well for B2C where traffic is uniformly spread across users. However, B2B can face a different type of scaling issue where only one user is scaling. A pool architecture is a simpler yet powerful solution, used both by GAFA and fast-growing startups.
-
-### [199. Glossary of Security Terms: Forbidden Header Name](https://hackernoon.com/glossary-of-security-terms-forbidden-header-name-chh3uap)
+### [198. Glossary of Security Terms: Forbidden Header Name](https://hackernoon.com/glossary-of-security-terms-forbidden-header-name-chh3uap)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-ztf28jr.jpeg?alt=media&token=108a31cd-0dd0-4717-9bf3-d0cc207c9197)
 A forbidden header name is the name of any HTTP header that cannot be modified programmatically; specifically, an HTTP request header name (in contrast with a Forbidden response header name).
 
-### [200. How Percolate Queries in Elasticsearch Make Alerting a Breeze](https://hackernoon.com/how-percolate-queries-in-elasticsearch-make-alerting-a-breeze-fp3z3wqu)
+### [199. Pool Architecture for Saas](https://hackernoon.com/pool-architecture-for-saas-qil3ur3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5pQpZNSj2mO0Oi9X4Lrj7YIqfHE2-ap2s285o.jpeg?alt=media&token=89deeb94-1a93-4ed8-b818-f974228f3045)
+Most of the startups facing scaling problems move to microservices. Inspired by cell-based architecture, it split services per function and scale only specific features. It works especially well for B2C where traffic is uniformly spread across users. However, B2B can face a different type of scaling issue where only one user is scaling. A pool architecture is a simpler yet powerful solution, used both by GAFA and fast-growing startups.
+
+### [200. Frontend vs Backend: All the Differences Explained](https://hackernoon.com/frontend-vs-backend-all-the-differences-explained)
+![](https://cdn.hackernoon.com/images/3WkIqMH13eTAHrnhYBLgQBK0A1z2-0c03a0k.jpeg)
+With the evolution of technologies, both front-end and backend have evolved to a great extent. The difference between the two is what we are going to discuss.
+
+### [201. How Percolate Queries in Elasticsearch Make Alerting a Breeze](https://hackernoon.com/how-percolate-queries-in-elasticsearch-make-alerting-a-breeze-fp3z3wqu)
 ![](https://cdn.hackernoon.com/drafts/0d23r3yuc.png)
 Once upon a time, a company I worked for had a problem: We had thousands of messages flowing through our data pipeline each second, and we want to be able to send email and SMS alerts to ours users when messages matching specific criteria were seen.
-
-### [201. Wix App Collections, Permissions, and Code: Velo Feature Guide for Developers](https://hackernoon.com/wix-app-collections-permissions-and-code-velo-feature-guide-for-developers-4n12330a)
-![](https://cdn.hackernoon.com/images/HzWefNlq2pZkZcUGS9ud2aXzUkd2-t87v3zim.jpeg)
-This article explains what Wix app collections are and how you can work with them.
 
 ### [202. Front-End or Back-End: What Should You Learn First?](https://hackernoon.com/front-end-or-back-end-what-should-you-learn-first)
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-9593pt1.jpeg)
 As someone who’s held both front-end and back-end positions, and even been a hiring manager, read on and I’ll give you my thoughts.
 
-### [203. Frontend vs Backend: All the Differences Explained](https://hackernoon.com/frontend-vs-backend-all-the-differences-explained)
-![](https://cdn.hackernoon.com/images/3WkIqMH13eTAHrnhYBLgQBK0A1z2-0c03a0k.jpeg)
-With the evolution of technologies, both front-end and backend have evolved to a great extent. The difference between the two is what we are going to discuss.
+### [203. Wix App Collections, Permissions, and Code: Velo Feature Guide for Developers](https://hackernoon.com/wix-app-collections-permissions-and-code-velo-feature-guide-for-developers-4n12330a)
+![](https://cdn.hackernoon.com/images/HzWefNlq2pZkZcUGS9ud2aXzUkd2-t87v3zim.jpeg)
+This article explains what Wix app collections are and how you can work with them.
 
-### [204. Using Python For Finance: How To Analyze Profitability Margin](https://hackernoon.com/using-python-for-finance-how-to-analyze-profitability-margin-jj1b344s)
-![](https://cdn.hackernoon.com/images/q5cPSnrcWRW8kqthxh6yv8s3s3t1-wc343ffi.jpeg)
-Learn how to perform a profitability analysis by peer companies using Python
+### [204. Clean Code: Functions and Error Handling in Go: From Chaos to Clarity [Part 1]](https://hackernoon.com/clean-code-functions-and-error-handling-in-go-from-chaos-to-clarity-part-1)
+![](https://cdn.hackernoon.com/images/ZTiVtl9TF6Mqdq0GSgDuxuALFDX2-3o023ba.png)
+Learn how to write clean Go functions that pass code review. Practical patterns for single responsibility, error handling, and the defer statement from 6 years 
 
-### [205. Comprehensive Guide to Understand Spring Bean Scopes](https://hackernoon.com/comprehensive-guide-to-understand-spring-bean-scopes-hd2133zf)
-![](https://cdn.hackernoon.com/images/ZCNrjFlNkxZZ9UTa97pV29zTSS63-zeb33ni.jpeg)
-An object that is instantiated, gathered, and otherwise managed by a Spring IoC container is called a bean.The configuration metadata that you provide to the co
-
-### [206. Master The Art Of Using Typescript Without The Compile Step](https://hackernoon.com/master-the-art-of-using-typescript-without-the-compile-step-tbv33wd)
+### [205. Master The Art Of Using Typescript Without The Compile Step](https://hackernoon.com/master-the-art-of-using-typescript-without-the-compile-step-tbv33wd)
 ![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-5m1l392i.jpeg)
 If you're like me you create scripts to automate things all the time. While you can do quite a bit with bash, it's just a lot easier to use your primary language--in this case TypeScript. With just a few tricks you can start writing your scripts in TypeScript.
 
-### [207. Creating a New Website? I Have Nuttertools for You](https://hackernoon.com/creating-a-new-website-i-have-nuttertools-for-you)
+### [206. Using Python For Finance: How To Analyze Profitability Margin](https://hackernoon.com/using-python-for-finance-how-to-analyze-profitability-margin-jj1b344s)
+![](https://cdn.hackernoon.com/images/q5cPSnrcWRW8kqthxh6yv8s3s3t1-wc343ffi.jpeg)
+Learn how to perform a profitability analysis by peer companies using Python
+
+### [207. Comprehensive Guide to Understand Spring Bean Scopes](https://hackernoon.com/comprehensive-guide-to-understand-spring-bean-scopes-hd2133zf)
+![](https://cdn.hackernoon.com/images/ZCNrjFlNkxZZ9UTa97pV29zTSS63-zeb33ni.jpeg)
+An object that is instantiated, gathered, and otherwise managed by a Spring IoC container is called a bean.The configuration metadata that you provide to the co
+
+### [208. Creating a New Website? I Have Nuttertools for You](https://hackernoon.com/creating-a-new-website-i-have-nuttertools-for-you)
 ![](https://cdn.hackernoon.com/images/zNAmdIBal0acjd0Lz3ACO12Pifo2-kja2dbi.jpeg)
 With this website, you get to run performance, lighthouse, core web vitals, visual comparison, and traceroute tests on your website. 
 
-### [208. How To Connect Ruby on Rails API, PostgreSQL And Heroku](https://hackernoon.com/how-to-connect-ruby-on-rails-api-postgresql-and-heroku-762e3t2g)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUNa1XsLgFRZYV89M5eBNURDd36H3-afb3yr0.jpeg?alt=media&token=323a20d3-aab6-4bba-807b-b090c5b8e0b5)
-Creating a new Rails app is super easy by itself. And, creating a Rails app set up as an API is not much different.
-
-### [209. Active Record Associations in Rails](https://hackernoon.com/active-record-associations-in-rails-gm19w3ysu)
-![](https://cdn.hackernoon.com/images/b81r63yiq.jpg)
-An association is a connection between two Active Record models. It makes much easier to perform various operations on the records in your code. We will divide associations into four categories:
-
-### [210. Backend Development 101: Prime Numbers and Multi-threading](https://hackernoon.com/backend-development-101-prime-numbers-and-multi-threading-g42j3uex)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FH9QtZOVl28VWuyF99z0T0VRjINj2-2rag3xe6.jpeg?alt=media&token=a0913841-972d-4fcc-a489-06b488ad2d74)
-Recently, I have been trying to expand my knowledge as a backend developer. I want to understand solving problems at scale and also breaking down big tasks into little chunks of tasks.
-
-### [211. 10 Cool CI/CD Tools For Your Project](https://hackernoon.com/10-cool-cicd-tools-for-your-project-h1163ud7)
-![](https://cdn.hackernoon.com/drafts/uw4b3w06.png)
-Continuous Integration, shortly called ‘CI’ in DevOps is an important process or a set of processes that are defined and carried out as a part of a pipeline called Build Pipeline or CI Pipeline.
-
-### [212. How To Configure Routers For Your Website with wix-router](https://hackernoon.com/how-to-configure-routers-for-your-website-with-wix-router-we3t34m9)
+### [209. How To Configure Routers For Your Website with wix-router](https://hackernoon.com/how-to-configure-routers-for-your-website-with-wix-router-we3t34m9)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-1vn346v.jpeg)
 Using Velo you can create routers that allow you to take complete control when handling incoming requests to your site. To do so, you set up a router to receive all incoming requests with a specified prefix and define the logic of what to do when a request with that prefix is received. You decide what actions to perform, what response to return, where to route the request, and what data to pass to the page.
 
-### [213. Clean Code: Interfaces in Go - Why Small Is Beautiful [Part 3]](https://hackernoon.com/clean-code-interfaces-in-go-why-small-is-beautiful-part-3)
+### [210. How To Connect Ruby on Rails API, PostgreSQL And Heroku](https://hackernoon.com/how-to-connect-ruby-on-rails-api-postgresql-and-heroku-762e3t2g)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUNa1XsLgFRZYV89M5eBNURDd36H3-afb3yr0.jpeg?alt=media&token=323a20d3-aab6-4bba-807b-b090c5b8e0b5)
+Creating a new Rails app is super easy by itself. And, creating a Rails app set up as an API is not much different.
+
+### [211. Active Record Associations in Rails](https://hackernoon.com/active-record-associations-in-rails-gm19w3ysu)
+![](https://cdn.hackernoon.com/images/b81r63yiq.jpg)
+An association is a connection between two Active Record models. It makes much easier to perform various operations on the records in your code. We will divide associations into four categories:
+
+### [212. Clean Code: Interfaces in Go - Why Small Is Beautiful [Part 3]](https://hackernoon.com/clean-code-interfaces-in-go-why-small-is-beautiful-part-3)
 ![](https://cdn.hackernoon.com/images/ZTiVtl9TF6Mqdq0GSgDuxuALFDX2-d10233z.png)
 Master Go interfaces: why single-method interfaces rule, accept interfaces return structs, and the nil interface gotcha that crashes production. From 6 years of
 
-### [214. How My Employer Forced Me To Learn JavaScript](https://hackernoon.com/how-my-employer-forced-me-to-learn-javascript-njy3u24)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FknJOeeHfWcbD1LZBwpLiXe4CgJE2-z8k73u2t.jpeg?alt=media&token=a6cf402e-4c57-4e86-accb-ccbc7bdb26d5)
-In my student years everybody around me mocked JavaScript. Being part of the tribe, I have never really tried to learn JavaScript. I used quick and dirty solutions, copied code from Stackoverflow, without really understanding it and hoped it will not break. It changed after my first full-time job. 
+### [213. 10 Cool CI/CD Tools For Your Project](https://hackernoon.com/10-cool-cicd-tools-for-your-project-h1163ud7)
+![](https://cdn.hackernoon.com/drafts/uw4b3w06.png)
+Continuous Integration, shortly called ‘CI’ in DevOps is an important process or a set of processes that are defined and carried out as a part of a pipeline called Build Pipeline or CI Pipeline.
+
+### [214. Backend Development 101: Prime Numbers and Multi-threading](https://hackernoon.com/backend-development-101-prime-numbers-and-multi-threading-g42j3uex)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FH9QtZOVl28VWuyF99z0T0VRjINj2-2rag3xe6.jpeg?alt=media&token=a0913841-972d-4fcc-a489-06b488ad2d74)
+Recently, I have been trying to expand my knowledge as a backend developer. I want to understand solving problems at scale and also breaking down big tasks into little chunks of tasks.
 
 ### [215. Why You Can't Become a Back End Developer in 16 Weeks or Less](https://hackernoon.com/why-you-cant-become-a-back-end-developer-in-16-weeks-or-less)
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-kj93pgy.jpeg)
 I get really frustrated when I see people and companies online selling unrealistic dreams when it comes to coding education.
 
-### [216. Get The Most Out Of Everything You Read  Using Python](https://hackernoon.com/get-the-most-out-of-everything-you-read-using-python-kw1o3uiz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5Zz7llkxJtRqaIJy2BQzv4g5Yvm1-147z3uwh.jpeg?alt=media&token=2de6f78e-751c-4d2f-9818-1d321031067f)
-Imagine reading something, and never losing track of that information.
+### [216. How My Employer Forced Me To Learn JavaScript](https://hackernoon.com/how-my-employer-forced-me-to-learn-javascript-njy3u24)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FknJOeeHfWcbD1LZBwpLiXe4CgJE2-z8k73u2t.jpeg?alt=media&token=a6cf402e-4c57-4e86-accb-ccbc7bdb26d5)
+In my student years everybody around me mocked JavaScript. Being part of the tribe, I have never really tried to learn JavaScript. I used quick and dirty solutions, copied code from Stackoverflow, without really understanding it and hoped it will not break. It changed after my first full-time job. 
 
 ### [217. How To Use Gulp And Prettier on Code Snippets and API Outputs](https://hackernoon.com/how-to-use-gulp-and-prettier-on-code-snippets-and-api-outputs-4r1f31b8)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-jrg31pa.jpeg)
 Code editors come with "beautifiers" which programmers can use to make code uniformly and conventionally laid out, aka: "pretty".  
 
-### [218. A Guide on How to Cancel Duplicate Fetch Requests in JavaScript Enhanced Forms](https://hackernoon.com/a-guide-on-how-to-cancel-duplicate-fetch-requests-in-javascript-enhanced-forms)
+### [218. Get The Most Out Of Everything You Read  Using Python](https://hackernoon.com/get-the-most-out-of-everything-you-read-using-python-kw1o3uiz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5Zz7llkxJtRqaIJy2BQzv4g5Yvm1-147z3uwh.jpeg?alt=media&token=2de6f78e-751c-4d2f-9818-1d321031067f)
+Imagine reading something, and never losing track of that information.
+
+### [219. A Guide on How to Cancel Duplicate Fetch Requests in JavaScript Enhanced Forms](https://hackernoon.com/a-guide-on-how-to-cancel-duplicate-fetch-requests-in-javascript-enhanced-forms)
 ![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-mr92ac6.png)
 Avoid duplicate-request & race-condition when creating JavaScript enhanced forms. Cancel previous fetch requests with AbortController.
 
-
-### [219. What Frontend Engineers Should Know About Backend](https://hackernoon.com/what-frontend-engineers-should-know-about-backend-ks7r3ylc)
-![](https://cdn.hackernoon.com/images/gbo328f.jpg)
-The vast majority of things a frontend engineers need to do can be done without knowing anything about the backend other than the API. If you work on different parts of the frontend for long enough though, you'll probably run into something that does require some backend knowledge. Here's the short list of topics that a frontend engineer should know about the backend.
 
 ### [220. Meet the Writer: HackerNoon's Contributor Nikita Starichenko, SWE at Snap Inc.](https://hackernoon.com/meet-the-writer-hackernoons-contributor-nikita-starichenko-swe-at-snap-inc)
 ![](https://cdn.hackernoon.com/images/OujWaQx7FhMxIORYNRgWYZuh1kb2-4993p0r.jpeg)
@@ -909,93 +911,93 @@ From Engineering to Surfing!
 ![](https://cdn.hackernoon.com/images/o117s3y97.jpg)
 While working on a Rails application, we all have had to change the database column in some way. You can change the column name and the column type, as well as changing the column with the type conversion.
 
-### [222. Monetizing APIs with WSO2 API Manager](https://hackernoon.com/monetizing-apis-with-wso2-api-manager-jo303ylv)
+### [222. What Frontend Engineers Should Know About Backend](https://hackernoon.com/what-frontend-engineers-should-know-about-backend-ks7r3ylc)
+![](https://cdn.hackernoon.com/images/gbo328f.jpg)
+The vast majority of things a frontend engineers need to do can be done without knowing anything about the backend other than the API. If you work on different parts of the frontend for long enough though, you'll probably run into something that does require some backend knowledge. Here's the short list of topics that a frontend engineer should know about the backend.
+
+### [223. Monetizing APIs with WSO2 API Manager](https://hackernoon.com/monetizing-apis-with-wso2-api-manager-jo303ylv)
 ![](https://cdn.hackernoon.com/drafts/j61z3yld.png)
 Today APIs have become a key way for application developers to generate revenue, meaning monetisation is becoming a sought-after feature in the API Management space. Even though API monetisation has a broader meaning than simply charging for APIs; in our experience, most companies want to charge for API usage. There are a number of different ways that this can be achieved, but let’s take a look at the two most popular and how they can be effectively rolled out to bring in revenue.
-
-### [223. How To Run PostgreSQL as a Build Requirement in TeamCity Build](https://hackernoon.com/how-to-run-postgresql-as-a-build-requirement-in-teamcity-build-068x3w94)
-![](https://cdn.hackernoon.com/drafts/nc4j3vig.png)
-We use different Continuous Integration tools in our projects. One of them is TeamCity software. A pipeline for TeamCity can be configured easily and has two steps, such as run tests and build a docker image for further deployment. However, I needed to run Postgres before running tests. I made a research, I read the documentation and this article may be useful to close a gap for team city’s documentation.
 
 ### [224. How A Full Stack Framework Can Make An Impact In Your Business](https://hackernoon.com/how-a-full-stack-framework-can-make-an-impact-in-your-business-j7x3wgi)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fd3qk0hxJgjhef6b7702LeYwLmbA3-eu2f3ezf.jpeg?alt=media&token=638c5297-c317-48da-bd33-61218e70e15a)
 It's been a year since the exhibition of QCObjects in the Web Summit and now a lot of people and companies are interested in placing QCObjects at the very core of its enterprise software solution. But why is it?
 
-### [225. Clean Code: Functions and Error Handling in Go: From Chaos to Clarity [Part 1]](https://hackernoon.com/clean-code-functions-and-error-handling-in-go-from-chaos-to-clarity-part-1)
-![](https://cdn.hackernoon.com/images/ZTiVtl9TF6Mqdq0GSgDuxuALFDX2-3o023ba.png)
-Learn how to write clean Go functions that pass code review. Practical patterns for single responsibility, error handling, and the defer statement from 6 years 
-
-### [226. Beginners Guide to Node.JS](https://hackernoon.com/beginners-guide-to-nodejs-unz3urq)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIG0HMPfEyNQx8cRrxAhOnddG5Ch2-7b6w3u6w.jpeg?alt=media&token=7d56e749-0f12-470a-82f7-31f936b35722)
-Introduction to Node.JS
-
-### [227. Frontend Vs Backend Developers: All You Need to Know](https://hackernoon.com/frontend-vs-backend-developers-all-you-need-to-know-5u3e3772)
-![](https://cdn.hackernoon.com/images/evloeJHe09eqSFVZKFnHoXQVzWZ2-xt9c352t.jpeg)
-Frontend is anything that the user sees and interacts with. Backend, on the other hand, ensures that everything that you’re seeing works fine. 
-
-### [228. ES7-style Async/Await Implementation in Golang](https://hackernoon.com/es7-style-asyncawait-implementation-in-golang)
-![](https://cdn.hackernoon.com/images/vJ81EiSSyNWKp3BQcsiIsHd9F262-eqa3rfn.jpeg)
-In Golang, we use goroutines to execute asynchronous tasks while these goroutines communicate with each other via the data structure called Channel.
-
-### [229. Python vs. JavaScript: A Comparative Review ](https://hackernoon.com/python-vs-javascript-a-comparative-review)
-![](https://cdn.hackernoon.com/images/KtYYKlCMo7fVLZfX7FDxpl0iAh83-qp93q0m.jpeg)
-Python and JavaScript are two of the most used programming languages. Even though both are object-oriented programming languages, they have different scopes.
-
-### [230. How To Use PHP As A Backend While Using React For Frontend](https://hackernoon.com/how-to-use-php-as-a-backend-while-using-react-for-frontend)
+### [225. How To Use PHP As A Backend While Using React For Frontend](https://hackernoon.com/how-to-use-php-as-a-backend-while-using-react-for-frontend)
 ![](https://cdn.hackernoon.com/images/glJc8wR7pPZxszJ5nouCekLyfcA2-un02wbu.png)
 This tutorial shows how to combine the functionality of a PHP backend and React front-end. The goal is to utilize their respective strengths fully.
 
-### [231. Why Appwrite 0.8 Is A Great Open-Source Firebase Alternative](https://hackernoon.com/why-appwrite-08-is-a-great-open-source-firebase-alternative-ed2n34ns)
-![](https://cdn.hackernoon.com/images/PS8hMJYbctWKb61wkjdO9AWa6fe2-fi1j34xa.jpeg)
-Announcing Appwrite 0.8 with JWT authentication, ARM support, Anonymous Login, new storage capabilities and many more new features.
+### [226. How To Run PostgreSQL as a Build Requirement in TeamCity Build](https://hackernoon.com/how-to-run-postgresql-as-a-build-requirement-in-teamcity-build-068x3w94)
+![](https://cdn.hackernoon.com/drafts/nc4j3vig.png)
+We use different Continuous Integration tools in our projects. One of them is TeamCity software. A pipeline for TeamCity can be configured easily and has two steps, such as run tests and build a docker image for further deployment. However, I needed to run Postgres before running tests. I made a research, I read the documentation and this article may be useful to close a gap for team city’s documentation.
+
+### [227. Beginners Guide to Node.JS](https://hackernoon.com/beginners-guide-to-nodejs-unz3urq)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIG0HMPfEyNQx8cRrxAhOnddG5Ch2-7b6w3u6w.jpeg?alt=media&token=7d56e749-0f12-470a-82f7-31f936b35722)
+Introduction to Node.JS
+
+### [228. Frontend Vs Backend Developers: All You Need to Know](https://hackernoon.com/frontend-vs-backend-developers-all-you-need-to-know-5u3e3772)
+![](https://cdn.hackernoon.com/images/evloeJHe09eqSFVZKFnHoXQVzWZ2-xt9c352t.jpeg)
+Frontend is anything that the user sees and interacts with. Backend, on the other hand, ensures that everything that you’re seeing works fine. 
+
+### [229. ES7-style Async/Await Implementation in Golang](https://hackernoon.com/es7-style-asyncawait-implementation-in-golang)
+![](https://cdn.hackernoon.com/images/vJ81EiSSyNWKp3BQcsiIsHd9F262-eqa3rfn.jpeg)
+In Golang, we use goroutines to execute asynchronous tasks while these goroutines communicate with each other via the data structure called Channel.
+
+### [230. Your ORM Is Lying to You (And You're Paying for It)](https://hackernoon.com/your-orm-is-lying-to-you-and-youre-paying-for-it)
+![](https://cdn.hackernoon.com/images/XIlys8PrM8eJ7n0qjETjuC0lbkB2-xv839pc.png)
+ORMs hide what they really do to your database. Learn the patterns that kill performance and the architecture that uses both ORM and raw SQL correctly. 
+
+### [231. Python vs. JavaScript: A Comparative Review ](https://hackernoon.com/python-vs-javascript-a-comparative-review)
+![](https://cdn.hackernoon.com/images/KtYYKlCMo7fVLZfX7FDxpl0iAh83-qp93q0m.jpeg)
+Python and JavaScript are two of the most used programming languages. Even though both are object-oriented programming languages, they have different scopes.
 
 ### [232. Beginners Guide to Fetch API](https://hackernoon.com/beginners-guide-to-fetch-api-qev31ag)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-16p31l9.jpeg)
 This is not the same average blog post you have seen on many sites. This is something new and amazing. 
 
-### [233. AWS Lambda For Dummies [Part 2]](https://hackernoon.com/aws-lambda-for-dummies-part-2-xe1l341j)
+### [233. Why Appwrite 0.8 Is A Great Open-Source Firebase Alternative](https://hackernoon.com/why-appwrite-08-is-a-great-open-source-firebase-alternative-ed2n34ns)
+![](https://cdn.hackernoon.com/images/PS8hMJYbctWKb61wkjdO9AWa6fe2-fi1j34xa.jpeg)
+Announcing Appwrite 0.8 with JWT authentication, ARM support, Anonymous Login, new storage capabilities and many more new features.
+
+### [234. AWS Lambda For Dummies [Part 2]](https://hackernoon.com/aws-lambda-for-dummies-part-2-xe1l341j)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-78f3t14.jpeg?alt=media&token=9cedee72-e0f8-4c02-b690-65ec8a01b286)
 In Part 1 of our Complete AWS Lambda Handbook for Beginners, we gave a refresher on the fundamentals of AWS Lambda and what is AWS Lambda. In this post, we’ll look at AWS Lambda pricing, some interesting Lambda facts and examples of great AWS Lambda use cases in your serverless application. 
 
-### [234. How To Create CLI Apps](https://hackernoon.com/how-to-create-cli-apps-2i1133ak)
-![](https://hackernoon.com/images/e178Xecok0TlGP5gaTutNkU1thY2-c5w33sl.gif)
-Being a programmer, my interaction with the terminal is more than any non-programmer. So, I was thinking why not make CLI apps and decorate them. They should have a nice interface, not like the GUI apps. But a little bit nice, than usual.
-
-### [235. How To Create a Communication Bridge Between Flutter And JavaScript](https://hackernoon.com/how-to-create-a-communication-bridge-between-flutter-and-javascript-3sm314v)
-![](https://cdn.hackernoon.com/images/D0OBb8CGuBNP82rV561sQ8t51Gp1-4783woy.jpeg)
-As a follow up to my article explaining how to create communication bridges in Android and iOS, I thought it might be a good idea to do the same for Flutter. While it may seem like this is a straightforward affair, you’ll soon realize it takes a bit of work to get this functionality working.
-
-### [236. Processing 350K Requests Per Month via Three Free ETA Services Instead of One Paid Google Service](https://hackernoon.com/processing-350k-requests-per-month-via-three-free-eta-services-instead-of-one-paid-google-service-ab303ylb)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-o32j3u0o.jpeg?alt=media&token=f0bf76fd-1deb-4c1f-8846-e6ce4604dfa9)
-This is a story on how to not spend even a penny by using three ETA (estimated time of arrival) services instead of one. Everything is based on my personal experience working as a back-end developer at GoDee project. GoDee is a start-up project that offers booking seats on a bus online. You could find more information about this project here.
-
-### [237. 3 Most Common Ways to Connect your Node and React Applications](https://hackernoon.com/3-most-common-ways-to-connect-your-node-and-react-applications)
-![](https://cdn.hackernoon.com/images/5L1PsURyndeLVm1wIoUdHEN6ZP12-f2039za.jpeg)
-There are different ways to connect react frontend and NodeJS backend. In this blog, I am going to tell you three ways how you can connect backend and frontend.
-
-### [238. Configuring Developer Tools and Packages Within PhpStorm For Laravel](https://hackernoon.com/configuring-developer-tools-and-packages-within-phpstorm-for-laravel)
-![](https://cdn.hackernoon.com/images/zg5KqJKmaoa55jd5lFdol5UDODA2-qc92j7s.png)
-In this article, we will also go over and configure anything exclusive to PhpStorm. We start by setting some good defaults, that help with automated code format
-
-### [239. Essential Databases Every Developer Should Be Familiar With](https://hackernoon.com/essential-databases-every-developer-should-be-familiar-with)
+### [235. Essential Databases Every Developer Should Be Familiar With](https://hackernoon.com/essential-databases-every-developer-should-be-familiar-with)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-8d93rt6.jpeg)
 Here's that every kind of database that every developer to know about.
 
-### [240. How to Use Wix App Collections and Code to Customize Your Website](https://hackernoon.com/how-to-use-wix-app-collections-and-code-to-customize-your-website-1s1m33d5)
+### [236. 3 Most Common Ways to Connect your Node and React Applications](https://hackernoon.com/3-most-common-ways-to-connect-your-node-and-react-applications)
+![](https://cdn.hackernoon.com/images/5L1PsURyndeLVm1wIoUdHEN6ZP12-f2039za.jpeg)
+There are different ways to connect react frontend and NodeJS backend. In this blog, I am going to tell you three ways how you can connect backend and frontend.
+
+### [237. How To Create CLI Apps](https://hackernoon.com/how-to-create-cli-apps-2i1133ak)
+![](https://hackernoon.com/images/e178Xecok0TlGP5gaTutNkU1thY2-c5w33sl.gif)
+Being a programmer, my interaction with the terminal is more than any non-programmer. So, I was thinking why not make CLI apps and decorate them. They should have a nice interface, not like the GUI apps. But a little bit nice, than usual.
+
+### [238. How To Create a Communication Bridge Between Flutter And JavaScript](https://hackernoon.com/how-to-create-a-communication-bridge-between-flutter-and-javascript-3sm314v)
+![](https://cdn.hackernoon.com/images/D0OBb8CGuBNP82rV561sQ8t51Gp1-4783woy.jpeg)
+As a follow up to my article explaining how to create communication bridges in Android and iOS, I thought it might be a good idea to do the same for Flutter. While it may seem like this is a straightforward affair, you’ll soon realize it takes a bit of work to get this functionality working.
+
+### [239. Processing 350K Requests Per Month via Three Free ETA Services Instead of One Paid Google Service](https://hackernoon.com/processing-350k-requests-per-month-via-three-free-eta-services-instead-of-one-paid-google-service-ab303ylb)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-o32j3u0o.jpeg?alt=media&token=f0bf76fd-1deb-4c1f-8846-e6ce4604dfa9)
+This is a story on how to not spend even a penny by using three ETA (estimated time of arrival) services instead of one. Everything is based on my personal experience working as a back-end developer at GoDee project. GoDee is a start-up project that offers booking seats on a bus online. You could find more information about this project here.
+
+### [240. Configuring Developer Tools and Packages Within PhpStorm For Laravel](https://hackernoon.com/configuring-developer-tools-and-packages-within-phpstorm-for-laravel)
+![](https://cdn.hackernoon.com/images/zg5KqJKmaoa55jd5lFdol5UDODA2-qc92j7s.png)
+In this article, we will also go over and configure anything exclusive to PhpStorm. We start by setting some good defaults, that help with automated code format
+
+### [241. How to Use Wix App Collections and Code to Customize Your Website](https://hackernoon.com/how-to-use-wix-app-collections-and-code-to-customize-your-website-1s1m33d5)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-xw143310.jpeg)
 This article explains what Wix app collections are and how you can work with them.
 
-### [241. How To Build A Website With Velo [Beginners Guide]](https://hackernoon.com/how-to-build-a-website-with-velo-beginners-guide-2v24352s)
+### [242. How To Build A Website With Velo [Beginners Guide]](https://hackernoon.com/how-to-build-a-website-with-velo-beginners-guide-2v24352s)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-ttk3519.jpeg)
 Excited as you are to get started building your website using Velo by Wix, let's take a moment to plan ahead.
 
-### [242. How to Setup Action Mailbox with Postfix [Part 2]](https://hackernoon.com/how-to-setup-action-mailbox-with-postfix-part-2-8xor3v99)
+### [243. How to Setup Action Mailbox with Postfix [Part 2]](https://hackernoon.com/how-to-setup-action-mailbox-with-postfix-part-2-8xor3v99)
 ![](https://images.unsplash.com/photo-1588257076537-ecbdf55b55e8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 This is the second part of a 2 series tutorial to setup action mailbox with postfix. In this part, we will configure postfix in production server to forward incoming emails to our rails app so action mailbox can process it.
-
-### [243. Understanding Rails Polymorphic Active Record Associations](https://hackernoon.com/understanding-rails-polymorphic-active-record-associations-jg703wbi)
-![](https://cdn.hackernoon.com/images/tqhd3v8r.jpg)
-Brief Introduction
 
 ### [244. How To Create an API using Swift and Vapor](https://hackernoon.com/creating-apis-using-swift-hi-vapor-swift-51vapor-3-ax173kae)
 ![](https://cdn.hackernoon.com/drafts/7p5s3kf6.png)
@@ -1003,45 +1005,45 @@ HELLO INTERNET. Calling all fellow iOS devs to start drinking backend with Swif
 
 Creating an API with Swift is here, and it’s juicy. Here’s what’s up. 
 
-### [245. Writing CRUD operations for a Swift API 🍭🍦](https://hackernoon.com/writing-crud-operations-for-a-swift-api-swift-51vapor-3-b0273nt5)
+### [245. Understanding Rails Polymorphic Active Record Associations](https://hackernoon.com/understanding-rails-polymorphic-active-record-associations-jg703wbi)
+![](https://cdn.hackernoon.com/images/tqhd3v8r.jpg)
+Brief Introduction
+
+### [246. Writing CRUD operations for a Swift API 🍭🍦](https://hackernoon.com/writing-crud-operations-for-a-swift-api-swift-51vapor-3-b0273nt5)
 ![](https://cdn.hackernoon.com/images/gjaw3nhc.jpg)
 HELLO INTERNET.🍭🍦 In this video I go into creating CRUD endpoints for a Swift API !! 🖥
 
-### [246. Connecting Dots: Go, Docker and k8s [Part 1]](https://hackernoon.com/connecting-dots-go-docker-and-k8s-part-1-1i1k33lm)
+### [247. Connecting Dots: Go, Docker and k8s [Part 1]](https://hackernoon.com/connecting-dots-go-docker-and-k8s-part-1-1i1k33lm)
 ![](https://cdn.hackernoon.com/images/VZCQ0e1Yv2eJAMyEidHksLMysJ73-s11e35m3.jpeg)
 In this post my plan is to create open tcp port scanning tool, use GO and worker pool to make it very fast. Expose it via REST resource, containerise and deploy
 
-### [247. How To Connect SailsJS with GraphQL Guide](https://hackernoon.com/how-to-connect-sailsjs-with-graphql-guide-jgdm3y7l)
+### [248. How To Connect SailsJS with GraphQL Guide](https://hackernoon.com/how-to-connect-sailsjs-with-graphql-guide-jgdm3y7l)
 ![](https://cdn.hackernoon.com/images/xa1rz3y6q.jpg)
 If you're having troubles with organizing API for the Node.js app, using the Sails.js framework with the GraphQL, know that you're not the only one - we've been there too.
-
-### [248. How to Create a Tinder Clone Application in Phở [No-Code Approach]](https://hackernoon.com/how-to-create-a-tinder-clone-application-in-pho-no-code-approach-86fy3y2e)
-![](https://cdn.hackernoon.com/images/rn1i3z0b.jpg)
-In this tutorial, we’ll be creating a Tinder clone, in under 1 hour using Phở Networks, an open-source no-code platform that makes it seamlessly easy to create social applications.
 
 ### [249. How To Work with External Database](https://hackernoon.com/how-to-work-with-external-database-b521351x)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-zwz35e5.jpeg)
 When you enable Velo you also automatically get Wix Data, which lets you work with our built-in databases on your site. You may also want to work with data that you maintain in an external database. Velo lets you connect your site to an external database and then work with that database collection in your site just as you would with our built-in collections.
 
-### [250. Ruby on Rails Hidden Secrets: How To Get The Most Out Of Active Record Associations](https://hackernoon.com/ruby-on-rails-hidden-secrets-how-to-get-the-most-out-of-active-record-associations-6m133w8a)
+### [250. How to Create a Tinder Clone Application in Phở [No-Code Approach]](https://hackernoon.com/how-to-create-a-tinder-clone-application-in-pho-no-code-approach-86fy3y2e)
+![](https://cdn.hackernoon.com/images/rn1i3z0b.jpg)
+In this tutorial, we’ll be creating a Tinder clone, in under 1 hour using Phở Networks, an open-source no-code platform that makes it seamlessly easy to create social applications.
+
+### [251. Ruby on Rails Hidden Secrets: How To Get The Most Out Of Active Record Associations](https://hackernoon.com/ruby-on-rails-hidden-secrets-how-to-get-the-most-out-of-active-record-associations-6m133w8a)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-dxq4x96.jpeg?alt=media&token=90a6b406-5988-40eb-91fa-3bc4ece5404b)
 Hello folks! In this article, we are going to unravel the mystery behind the Rails Active Record class. To be honest, I struggled a lot with Rails models as a beginner.  I spent a lot of time reading the docs, read a couple of medium articles, watched some youtube videos but all in vain. I have chosen to draft a nice article that constitutes of baby steps that is suitable for aspiring Rails Engineers.
 
-### [251. Your ORM Is Lying to You (And You're Paying for It)](https://hackernoon.com/your-orm-is-lying-to-you-and-youre-paying-for-it)
-![](https://cdn.hackernoon.com/images/XIlys8PrM8eJ7n0qjETjuC0lbkB2-xv839pc.png)
-ORMs hide what they really do to your database. Learn the patterns that kill performance and the architecture that uses both ORM and raw SQL correctly. 
+### [252. Build a Lightning-fast SMS Reminder System With Vonage SMS API and FastAPI Backend!](https://hackernoon.com/build-a-lightning-fast-sms-reminder-system-with-vonage-sms-api-and-fastapi-backend)
+![](https://cdn.hackernoon.com/images/9S1vwdm8BSSIM68NViog8lnaQPi2-f892l32.jpeg)
+Learn how to build an SMS reminder system using Vonage SMS API and FastAPI
 
-### [252. Swiftly Starting Your Chatbot Journey: Building a Chatbot with Botter](https://hackernoon.com/swiftly-starting-your-chatbot-journey-building-a-chatbot-with-botter)
+### [253. Swiftly Starting Your Chatbot Journey: Building a Chatbot with Botter](https://hackernoon.com/swiftly-starting-your-chatbot-journey-building-a-chatbot-with-botter)
 ![](https://cdn.hackernoon.com/images/BIedK0ndH1XRRDdMnJA4Zxjp7ld2-9f93ndn.jpeg)
 Unleash the power of Swift in chatbot development with Botter, the future of chatbot development is here, and it's Swift! 🚀🤖🍏
 
-### [253. What Happens When You Click a URL: DNS Lookup, TCP Handshake & HTTP Request](https://hackernoon.com/what-happens-when-you-click-a-url-dns-lookup-tcp-handshake-and-http-request)
+### [254. What Happens When You Click a URL: DNS Lookup, TCP Handshake & HTTP Request](https://hackernoon.com/what-happens-when-you-click-a-url-dns-lookup-tcp-handshake-and-http-request)
 ![](https://cdn.hackernoon.com/images/OvBGt46oGAcBSX3jKWMtVuNCZGh2-dh8346z.jpeg)
 DNS stands for Domain Name System, and it is a huge database where domain names are stored with their corresponding IP addresses.
-
-### [254. Build a Lightning-fast SMS Reminder System With Vonage SMS API and FastAPI Backend!](https://hackernoon.com/build-a-lightning-fast-sms-reminder-system-with-vonage-sms-api-and-fastapi-backend)
-![](https://cdn.hackernoon.com/images/9S1vwdm8BSSIM68NViog8lnaQPi2-f892l32.jpeg)
-Learn how to build an SMS reminder system using Vonage SMS API and FastAPI
 
 ### [255. How to Upload File Uploads in Node & Nuxt](https://hackernoon.com/how-to-upload-file-uploads-in-node-and-nuxt)
 ![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-al92dwy.png)
@@ -1065,17 +1067,17 @@ The main innovation in Java 9 was the introduction of modules. There was a lot o
 ![](https://cdn.hackernoon.com/images/Qam0yHGLEIaMMqEaBuBm4zQZysQ2-1ib3btw.jpeg)
 Best practices to follow while writing the node.js application. 
 
-### [260. How To Use Velo and Wix Fetch To Extend Your Website Functionality](https://hackernoon.com/how-to-use-velo-and-wix-fetch-to-extend-your-website-functionality-ox12341b)
+### [260. The Top Backend Development Frameworks in 2023](https://hackernoon.com/the-top-backend-development-frameworks-in-2023)
+![](https://cdn.hackernoon.com/images/9e01kgY0PyP7vuD45iBObcL80SA3-5993pq1.jpeg)
+Take a look at our annual breakdown of the top web backend frameworks in 2023. Leading the list is the clear leader NodeJS.
+
+### [261. How To Use Velo and Wix Fetch To Extend Your Website Functionality](https://hackernoon.com/how-to-use-velo-and-wix-fetch-to-extend-your-website-functionality-ox12341b)
 ![](https://cdn.hackernoon.com/images/HzWefNlq2pZkZcUGS9ud2aXzUkd2-c7gp3zmp.jpeg)
 Velo supports working in JavaScript and some special features, including:
 
-### [261. "Specified key was too long; max key length is 767 bytes" Error in Laravel](https://hackernoon.com/specified-key-was-too-long-max-key-length-is-767-bytes-error-in-laravel-o7133u5m)
+### [262. "Specified key was too long; max key length is 767 bytes" Error in Laravel](https://hackernoon.com/specified-key-was-too-long-max-key-length-is-767-bytes-error-in-laravel-o7133u5m)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FftUCnMhOe2XTZI6pMhyPHKIZ3Ip1-iv1b23el.jpeg?alt=media&token=33f46439-01da-461f-92c9-807c074565d4)
 One of these issues you might stumble across using the PHP framework Laravel is this one:
-
-### [262. The Top Backend Development Frameworks in 2023](https://hackernoon.com/the-top-backend-development-frameworks-in-2023)
-![](https://cdn.hackernoon.com/images/9e01kgY0PyP7vuD45iBObcL80SA3-5993pq1.jpeg)
-Take a look at our annual breakdown of the top web backend frameworks in 2023. Leading the list is the clear leader NodeJS.
 
 ### [263. 4 JavaScript Portfolio Projects to Help You Land a Web Developer Position](https://hackernoon.com/4-java-script-portfolio-projects-to-help-you-land-a-web-developer-position)
 ![](https://cdn.hackernoon.com/images/39mblVBljxZEYT1ILyGYXoPb9Mq2-1nc36zu.jpeg)
@@ -1105,46 +1107,46 @@ One of the most fundamental and crucial interactions while Selenium automation t
 ![](https://cdn.hackernoon.com/images/l13yNZx0OPN39hqL2pJ02CRRxsu1-w27831kc.jpeg)
 Fundamental Concepts of Angular for beginners to advanced level developers.
 
-### [270. Cherrypy Introduction: Simple Python Library for Quick Application Development](https://hackernoon.com/cherrypy-introduction-simple-python-library-for-quick-application-development-pe1h3tuw)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgnwwxVyywHfOfFROnQtw5ijHIMJ3-wsd3u5k.png?alt=media&token=5f672b1a-baf7-41cb-bf65-0cc6a68375ca)
-For day to day work in dev-ops or for testing team , we need to put stub in between some application to fill the gap for the application which are not present on local testing lab , for that we need to put some stub so that it can mimic like actual application .
-
-### [271. How to hire the Most Skilled Web Developers?](https://hackernoon.com/how-to-hire-the-most-skilled-web-developers-3gra31op)
-![](https://cdn.hackernoon.com/drafts/9fqm31b4.png)
-Did you know that by 2020, it’s expected that there will be 1 million programming jobs unfilled? Unfortunately, great developers are rare to find. If you have tried to hire a developer for your startup, you’d know how difficult it is to find qualified candidates who don’t only have the required skills but also fit your culture. 
-
-### [272. Laravel Background Processes Analytics with Inspector](https://hackernoon.com/laravel-background-processes-analytics-with-inspector-ez513y6y)
-![](https://cdn.hackernoon.com/images/pDUI21JXq3hUt99Uzg6NBXjyGOB2-q0i37b2.jpeg)
-In this article I would show you how to turn on analytics in the dark side of your application: "background Jobs and scheduled Artisan commands execution".
-
-### [273. Decoding Nodejs](https://hackernoon.com/decoding-nodejs-4cp3txb)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWms7z8UV6wOxbxx5octvMJwMWXA3-7n1p2u8g.jpeg?alt=media&token=a834d8f7-196d-48f9-929e-b2fe0865e664)
-The main goal of this blog is to explain the “Architecture of Nodejs” and to know how the Nodejs works behind the scenes,
-
-### [274. Amazon Data Science Interview: Window Functions and Aliasing](https://hackernoon.com/amazon-data-science-interview-window-functions-and-aliasing-cf1e33r3)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-t76628pg.jpeg)
-I have an advanced data science interview question from Amazon today. This question is going to test your date manipulation and formatting skills as well as our window function knowledge. 
-
-### [275. Adjust Your Market Risk Wisely With This Awesome Python and Google Sheets Rotation Dashboard](https://hackernoon.com/adjust-your-market-risk-wisely-with-this-awesome-python-and-google-sheets-rotation-dashboard-3n1e34l1)
+### [270. Adjust Your Market Risk Wisely With This Awesome Python and Google Sheets Rotation Dashboard](https://hackernoon.com/adjust-your-market-risk-wisely-with-this-awesome-python-and-google-sheets-rotation-dashboard-3n1e34l1)
 ![](https://hackernoon.com/images/boHVnzNNFNWD3u6nFL8m7qEgSow1-9t3w34l6.jpeg)
 Get smarter with your risk, using this market rotation dashboard (python/Google Sheets, works with any financial instrument)
 Adjust your risk intelligently as t
 
-### [276. Backend Developers And UX Design: Who Should Pay Attention?](https://hackernoon.com/backend-developers-and-ux-design-who-should-pay-attention-ov2b3uqz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FX9bWcRXhDFfhOtgMt4DKVC9xsX13-usc3u28.webp?alt=media&token=33055c36-862b-4118-8f84-b43ccbddaf63)
-There are many languages ​​and technologies in the arsenal of both the front end and the back end. A fierce debate is ongoing about their relevance and convenience. But the truth, as always, is somewhere nearby.
+### [271. Cherrypy Introduction: Simple Python Library for Quick Application Development](https://hackernoon.com/cherrypy-introduction-simple-python-library-for-quick-application-development-pe1h3tuw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgnwwxVyywHfOfFROnQtw5ijHIMJ3-wsd3u5k.png?alt=media&token=5f672b1a-baf7-41cb-bf65-0cc6a68375ca)
+For day to day work in dev-ops or for testing team , we need to put stub in between some application to fill the gap for the application which are not present on local testing lab , for that we need to put some stub so that it can mimic like actual application .
+
+### [272. How to hire the Most Skilled Web Developers?](https://hackernoon.com/how-to-hire-the-most-skilled-web-developers-3gra31op)
+![](https://cdn.hackernoon.com/drafts/9fqm31b4.png)
+Did you know that by 2020, it’s expected that there will be 1 million programming jobs unfilled? Unfortunately, great developers are rare to find. If you have tried to hire a developer for your startup, you’d know how difficult it is to find qualified candidates who don’t only have the required skills but also fit your culture. 
+
+### [273. How You Can Use Pepper to Further Secure Encrypted Passwords](https://hackernoon.com/how-you-can-use-pepper-to-further-secure-encrypted-passwords)
+![](https://cdn.hackernoon.com/images/QNFVRf2iTVO0bYTAXHHcb2yqSh12-zg934gu.jpeg)
+We already understand the importance of encrypting passwords before saving them in the database. 
+
+### [274. Laravel Background Processes Analytics with Inspector](https://hackernoon.com/laravel-background-processes-analytics-with-inspector-ez513y6y)
+![](https://cdn.hackernoon.com/images/pDUI21JXq3hUt99Uzg6NBXjyGOB2-q0i37b2.jpeg)
+In this article I would show you how to turn on analytics in the dark side of your application: "background Jobs and scheduled Artisan commands execution".
+
+### [275. Decoding Nodejs](https://hackernoon.com/decoding-nodejs-4cp3txb)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWms7z8UV6wOxbxx5octvMJwMWXA3-7n1p2u8g.jpeg?alt=media&token=a834d8f7-196d-48f9-929e-b2fe0865e664)
+The main goal of this blog is to explain the “Architecture of Nodejs” and to know how the Nodejs works behind the scenes,
+
+### [276. Amazon Data Science Interview: Window Functions and Aliasing](https://hackernoon.com/amazon-data-science-interview-window-functions-and-aliasing-cf1e33r3)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-t76628pg.jpeg)
+I have an advanced data science interview question from Amazon today. This question is going to test your date manipulation and formatting skills as well as our window function knowledge. 
 
 ### [277. Build Your Next eCommerce Store on NodeJS](https://hackernoon.com/build-your-next-ecommerce-store-on-nodejs)
 ![](https://cdn.hackernoon.com/images/CPZcQZuKTIRNEmHkkkOCBTvsTyd2-8c037lw.jpeg)
 Top easiest ways to make an eCommerce store with Node.js. Shopify vs. buit-for-you solution.
 
-### [278. Glossary of Security Terms: CORS-Safelisted Request Header](https://hackernoon.com/glossary-of-security-terms-cors-safelisted-request-header-rvf3ut0)
+### [278. Backend Developers And UX Design: Who Should Pay Attention?](https://hackernoon.com/backend-developers-and-ux-design-who-should-pay-attention-ov2b3uqz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FX9bWcRXhDFfhOtgMt4DKVC9xsX13-usc3u28.webp?alt=media&token=33055c36-862b-4118-8f84-b43ccbddaf63)
+There are many languages ​​and technologies in the arsenal of both the front end and the back end. A fierce debate is ongoing about their relevance and convenience. But the truth, as always, is somewhere nearby.
+
+### [279. Glossary of Security Terms: CORS-Safelisted Request Header](https://hackernoon.com/glossary-of-security-terms-cors-safelisted-request-header-rvf3ut0)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-lsd286h.jpeg?alt=media&token=f2bbad03-f12a-49c3-b576-a0218a0a9408)
 A CORS-safelisted request header is one of the following HTTP headers:
-
-### [279. How You Can Use Pepper to Further Secure Encrypted Passwords](https://hackernoon.com/how-you-can-use-pepper-to-further-secure-encrypted-passwords)
-![](https://cdn.hackernoon.com/images/QNFVRf2iTVO0bYTAXHHcb2yqSh12-zg934gu.jpeg)
-We already understand the importance of encrypting passwords before saving them in the database. 
 
 ### [280. A Deep Look Into The Service Template Compiler Solution In Python](https://hackernoon.com/a-deep-look-into-the-service-template-compiler-solution-in-python-ez1333pa)
 ![](https://cdn.hackernoon.com/images/zvtTc5L7wgXbe4oh196K0IuAXU43-j9aa33k9.jpeg)
@@ -1154,49 +1156,49 @@ Automatic translation of pure Python code to AWS CloudFormation Stack Template.
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEVKIyOE5g0e70Zsmj3IswB8Udbk2-1y63een.jpeg?alt=media&token=7f03a9db-9f9d-4233-af54-07094201da2c)
 'Have you developed or are you in the process of creating an API Server that will be used on a production or cloud environment? In this 4th instalment of my Node JS Performance Optimizations series, I show you how to test the availability of your API Server, so that you can understand how many requests per second it can handle whilst performing heavy duty tasks.
 
-### [282. This One Programming Choice Completely Changed These Tech Firms—Here's How](https://hackernoon.com/this-one-programming-choice-completely-changed-these-tech-firmsheres-how)
-![](https://cdn.hackernoon.com/images/1fq1znkuBWaNW9Ozxi9L8O2MtfI3-uy034hg.png)
-Clojure is reshaping how teams build software, enabling small, focused groups to tackle complex challenges efficiently.
-
-### [283. Replace Comments With Better Code](https://hackernoon.com/replace-comments-with-better-code-2u6v3y3n)
-![](images/ml1032s5.jpg)
-Hi, I’m Valerio, software engineer from Italy.
-
-### [284. WebSockets: Plugging More People into Payments](https://hackernoon.com/websockets-plugging-more-people-into-payments-xkp35hi)
+### [282. WebSockets: Plugging More People into Payments](https://hackernoon.com/websockets-plugging-more-people-into-payments-xkp35hi)
 ![](https://cdn.hackernoon.com/images/7Oj851Eo7TTD9ygsR2PLf7qAVh13-7p1r34me.jpeg)
 Whether tethering off a feature phone or using the latest in wireless, a WebSockets backbone aids in user connectivity on many levels.
 
-### [285. 6 Best Chrome & VS Code Extensions For Developers](https://hackernoon.com/6-best-chrome-and-vs-code-extensions-for-developers)
-![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-dy536r7.jpeg)
-Extensions can make our life as a developer a little easier. Here are 6 of the best Chrome and VSCode extensions for Developers.
+### [283. This One Programming Choice Completely Changed These Tech Firms—Here's How](https://hackernoon.com/this-one-programming-choice-completely-changed-these-tech-firmsheres-how)
+![](https://cdn.hackernoon.com/images/1fq1znkuBWaNW9Ozxi9L8O2MtfI3-uy034hg.png)
+Clojure is reshaping how teams build software, enabling small, focused groups to tackle complex challenges efficiently.
 
-### [286. Getting your Swift API Interacting With a MySQL Database 💾 ](https://hackernoon.com/getting-your-swift-api-interacting-with-a-mysql-database-swift-51vapor-3-cy1x3n4i)
+### [284. Replace Comments With Better Code](https://hackernoon.com/replace-comments-with-better-code-2u6v3y3n)
+![](images/ml1032s5.jpg)
+Hi, I’m Valerio, software engineer from Italy.
+
+### [285. Getting your Swift API Interacting With a MySQL Database 💾 ](https://hackernoon.com/getting-your-swift-api-interacting-with-a-mysql-database-swift-51vapor-3-cy1x3n4i)
 ![](https://cdn.hackernoon.com/images/euw3nmv.jpg)
 Continuing our Swift backend takeover 😬 by configuring our API with a popular, powerful database MySQL 🖥
 
-### [287. Why Do Startups Love Ruby on Rails?](https://hackernoon.com/why-do-startups-love-ruby-on-rails-z12c3ys8)
+### [286. PHP’s New Property Hooks Are Here—But Should You Use Them?](https://hackernoon.com/phps-new-property-hooks-are-herebut-should-you-use-them)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4n02vso.jpeg)
+With property hooks, you can add custom actions whenever a property is accessed or changed.
+
+### [287. 6 Best Chrome & VS Code Extensions For Developers](https://hackernoon.com/6-best-chrome-and-vs-code-extensions-for-developers)
+![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-dy536r7.jpeg)
+Extensions can make our life as a developer a little easier. Here are 6 of the best Chrome and VSCode extensions for Developers.
+
+### [288. Why Do Startups Love Ruby on Rails?](https://hackernoon.com/why-do-startups-love-ruby-on-rails-z12c3ys8)
 ![](https://cdn.hackernoon.com/drafts/02ha322t.png)
 Why do so many startups choose Ruby on Rails over other technologies?
 
-### [288. Does Python Skills Equal Getting a Coding Job?](https://hackernoon.com/does-python-skills-equal-getting-a-coding-job-l5l3tod)
+### [289. Does Python Skills Equal Getting a Coding Job?](https://hackernoon.com/does-python-skills-equal-getting-a-coding-job-l5l3tod)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0k8rhBVQHSRnJBYUjpFXJBJ0Lq22-7y1a3unz.jpeg?alt=media&token=ccc6ddf6-166c-4b40-9bf9-c2d40a1bdc32)
 Python is one of the most popular programming languages. It is easy to pick up and begin with the basics. It is a general-purpose language and can be used for more a lot of things other than just web development. To get a job, you need to go beyond learning just the basics and have a solid understanding of the complexities involved in the language. 
 
-### [289. Must-Have Velo Glossary for Coders: 60+ Essential Terms Precisely Explained](https://hackernoon.com/must-have-velo-glossary-for-coders-60-essential-terms-precisely-explained-8x1n33rn)
+### [290. Must-Have Velo Glossary for Coders: 60+ Essential Terms Precisely Explained](https://hackernoon.com/must-have-velo-glossary-for-coders-60-essential-terms-precisely-explained-8x1n33rn)
 ![](https://cdn.hackernoon.com/images/HzWefNlq2pZkZcUGS9ud2aXzUkd2-esce3zle.jpeg)
 In Velo, the schema defines which fields are in each of your collections and their type.
-
-### [290. An Introduction to Elasticsearch: Lightning Fast Search Solutions](https://hackernoon.com/an-introduction-to-elasticsearch-lightning-fast-search-solutions-jm2o34si)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZkfENnt2LdcfkiwMm6iukaGEHnB3-7d1p31na.jpeg?alt=media&token=ba018f5c-67b6-4254-ba25-0a0a2c20debe)
-If you're reading this blog, chances are you really interested in Elasticsearch and the solutions that it provides. This blog will introduce you to Elasticsearch and explain how to get started with implementing a fast search for your app in less than 10 minutes. Of course, we're not going to code up a full-blown production-ready search solution here. But, the below-mentioned concepts will help you get up to speed quickly. So, without further ado, let's start!
 
 ### [291. Building API Integrations Like a Pro](https://hackernoon.com/building-api-integrations-like-a-pro-vvt3tz3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZU0eJAp5VveahOSuhUDdoMF6uE43-1h1728y9.jpeg?alt=media&token=862013f3-63f4-4bd3-8576-118cbb5351c6)
 Modern applications aren’t built in silos. They rely on the features of other applications. This reliance can come in the form of open-source libraries, access to a wealth of data, or complex features distilled down into a consumable API. Incorporating third-party dependencies into your own project can be challenging. It comes with the benefits of faster development, and the downside of reliance. 
 
-### [292. PHP’s New Property Hooks Are Here—But Should You Use Them?](https://hackernoon.com/phps-new-property-hooks-are-herebut-should-you-use-them)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4n02vso.jpeg)
-With property hooks, you can add custom actions whenever a property is accessed or changed.
+### [292. An Introduction to Elasticsearch: Lightning Fast Search Solutions](https://hackernoon.com/an-introduction-to-elasticsearch-lightning-fast-search-solutions-jm2o34si)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZkfENnt2LdcfkiwMm6iukaGEHnB3-7d1p31na.jpeg?alt=media&token=ba018f5c-67b6-4254-ba25-0a0a2c20debe)
+If you're reading this blog, chances are you really interested in Elasticsearch and the solutions that it provides. This blog will introduce you to Elasticsearch and explain how to get started with implementing a fast search for your app in less than 10 minutes. Of course, we're not going to code up a full-blown production-ready search solution here. But, the below-mentioned concepts will help you get up to speed quickly. So, without further ado, let's start!
 
 ### [293. Use Dynamic Classes to Debug in Python](https://hackernoon.com/use-dynamic-classes-to-debug-in-python-ce7f3yc2)
 ![](https://cdn.hackernoon.com/drafts/0q34g3y9t.png)
@@ -1218,18 +1220,18 @@ Using Velo you can write code to access 3rd-party web services. You can call a 3
 ![](https://cdn.hackernoon.com/images/1jP4AN8YLrbDBYfB3aT5eoM6KS02-r9d31db.jpeg)
 The cost of microservices from a developer's perspective.
 
-### [298. How to Setup Action Mailbox with Postfix [Part 1]](https://hackernoon.com/how-to-setup-action-mailbox-with-postfix-part-1-cjog3vqx)
-![](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-This is the first part of a 2 series tutorial to setup action mailbox with postfix. In this part, we will implement action mailbox with postfix and test in development.
-
-### [299. Velo How-To: API Aggregations](https://hackernoon.com/velo-how-to-api-aggregations-uu1l35nl)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-e61235ki.jpeg)
-Using the aggregation functionality of the Data API you can perform certain calculations on your collection data, as whole or on groups of items that you define, to retrieve meaningful summaries. You can also add filtering and sorting to your aggregations to retrieve exactly what you need.
-
-### [300. Dealing with Velo Web Modules: Our Advanced Tips for Improved Function Import](https://hackernoon.com/dealing-with-velo-web-modules-our-advanced-tips-for-improved-function-import-8t2233oc)
+### [298. Dealing with Velo Web Modules: Our Advanced Tips for Improved Function Import](https://hackernoon.com/dealing-with-velo-web-modules-our-advanced-tips-for-improved-function-import-8t2233oc)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-y7q33fs.jpeg)
 Web modules are exclusive to Velo and enable you to write functions that 
 run server-side in the backend, and easily call them in your client-side code.
+
+### [299. How to Setup Action Mailbox with Postfix [Part 1]](https://hackernoon.com/how-to-setup-action-mailbox-with-postfix-part-1-cjog3vqx)
+![](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+This is the first part of a 2 series tutorial to setup action mailbox with postfix. In this part, we will implement action mailbox with postfix and test in development.
+
+### [300. Velo How-To: API Aggregations](https://hackernoon.com/velo-how-to-api-aggregations-uu1l35nl)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-e61235ki.jpeg)
+Using the aggregation functionality of the Data API you can perform certain calculations on your collection data, as whole or on groups of items that you define, to retrieve meaningful summaries. You can also add filtering and sorting to your aggregations to retrieve exactly what you need.
 
 ### [301. Exploring Node.js Event Loop](https://hackernoon.com/exploring-nodejs-event-loop-lr2b33qd)
 ![](https://hackernoon.com/images/PTUWJ0yT1BckVIQfRFi3q4fsiOK2-wx2z339r.jpeg)
@@ -1243,49 +1245,49 @@ A queue using an SQL-database? well, you need to know pros and cons, and a typic
 ![](https://cdn.hackernoon.com/images/OvBGt46oGAcBSX3jKWMtVuNCZGh2-ie835x2.jpeg)
 Explore JWT authentication: a secure, stateless user authentication standard for web apps. Learn its structure, workflow, pros, and cons.
 
-### [304. What Developers Mean When They Talk About API](https://hackernoon.com/what-developers-mean-when-they-talk-about-api-w19b3yir)
-![](https://cdn.hackernoon.com/drafts/v31d3yru.png)
-API has become one of those catch-all terms that developers throw around without really considering the context. On any given week, you will come across discussions like "How to use the Twitter API", "New framework X is great because it has a low API surface", and "Best practices for building an API."
-
-### [305. API Development in the Time of COVID-19](https://hackernoon.com/api-development-in-the-time-of-covid-19-r4an3y3p)
-![](https://images.unsplash.com/flagged/photo-1584036561584-b03c19da874c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Let’s face it.
-
-### [306. Book Rating System From Scratch using Goodreads API and Slash GraphQL](https://hackernoon.com/book-rating-system-from-scratch-using-goodreads-api-and-slash-graphql-xy1x31bx)
-![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-mebg35d9.jpeg)
-GraphQL is a relatively new way to build user interfaces and APIs for consumers. It's essentially a querying language backed by a strongly typed schema, which makes it easy to write human-readable requests to get exactly the data you need. Compared to REST, whose responses are dictated by the server, GraphQL queries place the power squarely in the hands of the client.
-
-### [307. Laravel Real-Time Controllers Monitoring with Inspector - Laravel Package](https://hackernoon.com/laravel-real-time-controllers-monitoring-with-inspector-laravel-package-ml1f3u3o)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpDUI21JXq3hUt99Uzg6NBXjyGOB2-y02e3ylr.webp?alt=media&token=110f83a9-ab3d-40dc-9793-1c2a2480e954)
-Hi, I'm Valerio, software engineer from Italy and CTO at Inspector.
-
-### [308. Using Azure SignalR Service In DotNetify](https://hackernoon.com/using-azure-signalr-service-in-dotnetify-myy33cz)
-![](https://cdn.hackernoon.com/images/7ezgpQALEDUxT0GWyNN2szHCP0l2-35813zfr.jpeg)
-How dotNetify implemented horizontal scaling of SignalR apps with proxy instead of a backplane.
-
-### [309. APIs for Beginners: What They Are and How They Work](https://hackernoon.com/apis-for-beginners-what-they-are-and-how-they-work)
+### [304. APIs for Beginners: What They Are and How They Work](https://hackernoon.com/apis-for-beginners-what-they-are-and-how-they-work)
 ![](https://cdn.hackernoon.com/images/2tF3z5TEqxg7A3HryhiCsw8hLUP2-pgb3bb9.jpeg)
 A beginner's guide to what an API is, what frontend, backend, server, and JSON are, and how communication between programs happens over the Internet.
 
-### [310. How To Build a Todo List App by Using Svelte and Meteor](https://hackernoon.com/how-to-build-todoist-app-by-using-svelte-and-meteor-0o1u318n)
-![](https://cdn.hackernoon.com/images/1YXFIyZr1ESaAbiPktwpv7ignz73-tt193179.jpeg)
-Creating a Todo app with Svelte and Meteor
+### [305. What Developers Mean When They Talk About API](https://hackernoon.com/what-developers-mean-when-they-talk-about-api-w19b3yir)
+![](https://cdn.hackernoon.com/drafts/v31d3yru.png)
+API has become one of those catch-all terms that developers throw around without really considering the context. On any given week, you will come across discussions like "How to use the Twitter API", "New framework X is great because it has a low API surface", and "Best practices for building an API."
 
-### [311. How To Make A Cost Effective API Serverless Infrastructures](https://hackernoon.com/how-to-make-a-cost-effective-api-serverless-infrastructures-q41f3uy8)
+### [306. API Development in the Time of COVID-19](https://hackernoon.com/api-development-in-the-time-of-covid-19-r4an3y3p)
+![](https://images.unsplash.com/flagged/photo-1584036561584-b03c19da874c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Let’s face it.
+
+### [307. Book Rating System From Scratch using Goodreads API and Slash GraphQL](https://hackernoon.com/book-rating-system-from-scratch-using-goodreads-api-and-slash-graphql-xy1x31bx)
+![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-mebg35d9.jpeg)
+GraphQL is a relatively new way to build user interfaces and APIs for consumers. It's essentially a querying language backed by a strongly typed schema, which makes it easy to write human-readable requests to get exactly the data you need. Compared to REST, whose responses are dictated by the server, GraphQL queries place the power squarely in the hands of the client.
+
+### [308. Laravel Real-Time Controllers Monitoring with Inspector - Laravel Package](https://hackernoon.com/laravel-real-time-controllers-monitoring-with-inspector-laravel-package-ml1f3u3o)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpDUI21JXq3hUt99Uzg6NBXjyGOB2-y02e3ylr.webp?alt=media&token=110f83a9-ab3d-40dc-9793-1c2a2480e954)
+Hi, I'm Valerio, software engineer from Italy and CTO at Inspector.
+
+### [309. Using Azure SignalR Service In DotNetify](https://hackernoon.com/using-azure-signalr-service-in-dotnetify-myy33cz)
+![](https://cdn.hackernoon.com/images/7ezgpQALEDUxT0GWyNN2szHCP0l2-35813zfr.jpeg)
+How dotNetify implemented horizontal scaling of SignalR apps with proxy instead of a backplane.
+
+### [310. How To Make A Cost Effective API Serverless Infrastructures](https://hackernoon.com/how-to-make-a-cost-effective-api-serverless-infrastructures-q41f3uy8)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-5qj3u3l.jpeg?alt=media&token=19e6d239-d79c-4e9c-a65d-1ba379f33cc4)
 AWS API Gateway is a great service but can be quite expensive, and even cost-prohibitive in some cases.
 
-### [312. Working With Files In Python: Part 2](https://hackernoon.com/working-with-files-in-python-part-2-jmt3u0g)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSWuYxmBe5WPlAjznGj5Fb05Thnl1-gj8q186q.png?alt=media&token=1cf8bcb7-9e79-4403-b515-f5a0f015e4c3)
-This is the second part of the series File management with python. We pick up from where we left last time Part 1, where we organized files according to the extension. So, let's get started.
-
-### [313. What Every Gopher Should Know About the Go Memory Model](https://hackernoon.com/what-every-gopher-should-know-about-the-go-memory-model)
+### [311. What Every Gopher Should Know About the Go Memory Model](https://hackernoon.com/what-every-gopher-should-know-about-the-go-memory-model)
 ![](https://cdn.hackernoon.com/images/8KGWNss2rIT5ieSmxoe0XLD4sac2-2xa38uv.jpeg)
 Learn how Go's memory model defines visibility between goroutines using happens-before rules and synchronization primitives like channels and mutexes.
 
-### [314. Why A Fintech Dev Writes About His Work](https://hackernoon.com/why-a-fintech-dev-write-about-his-work)
+### [312. Why A Fintech Dev Writes About His Work](https://hackernoon.com/why-a-fintech-dev-write-about-his-work)
 ![](https://cdn.hackernoon.com/images/evTYKjg9tYatYaHQVkt4aQTdaL03-mj93klb.jpeg)
 Why a Backend Software Engineer chose to write about his work on HackerNoon and how he managed to land his job at a fintech business with millions of clients.
+
+### [313. How To Build a Todo List App by Using Svelte and Meteor](https://hackernoon.com/how-to-build-todoist-app-by-using-svelte-and-meteor-0o1u318n)
+![](https://cdn.hackernoon.com/images/1YXFIyZr1ESaAbiPktwpv7ignz73-tt193179.jpeg)
+Creating a Todo app with Svelte and Meteor
+
+### [314. Working With Files In Python: Part 2](https://hackernoon.com/working-with-files-in-python-part-2-jmt3u0g)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSWuYxmBe5WPlAjznGj5Fb05Thnl1-gj8q186q.png?alt=media&token=1cf8bcb7-9e79-4403-b515-f5a0f015e4c3)
+This is the second part of the series File management with python. We pick up from where we left last time Part 1, where we organized files according to the extension. So, let's get started.
 
 ### [315. Smart E-bike Kits: A Tour Inside Our Servers](https://hackernoon.com/smart-e-bike-kits-a-tour-inside-our-servers-mg5l3yem)
 ![](https://cdn.hackernoon.com/drafts/p4n3y2r.png)
@@ -1315,341 +1317,341 @@ Retica is a free and open-source python web framework and is available via the p
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-dx92ay8.jpeg)
 WSO2 Integration Studio is a development environment for designing, developing, debugging, and testing integration solutions.
 
-### [322. How to Master AWS Identity and Access Management](https://hackernoon.com/how-to-master-aws-identity-and-access-management)
-![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-ag03uuc.jpeg)
-From the basic to advanced concepts of AWS own service for identity and access management: users, groups, permissions for resources and much more.
-
-### [323. Finding the Best Chat API: Should You Develop Your Own or Use a Third-Party Solution?](https://hackernoon.com/finding-the-best-chat-api-should-you-develop-your-own-or-use-a-third-party-solution)
+### [322. Finding the Best Chat API: Should You Develop Your Own or Use a Third-Party Solution?](https://hackernoon.com/finding-the-best-chat-api-should-you-develop-your-own-or-use-a-third-party-solution)
 ![](https://cdn.hackernoon.com/images/gzG25VLfJzghBdT1v97jIfj9DE52-t693opx.jpeg)
 When searching for the best chat API, there are pros and cons to building your own or paying for a third-party solution, and we'll help you decide what is best.
+
+### [323. How to Master AWS Identity and Access Management](https://hackernoon.com/how-to-master-aws-identity-and-access-management)
+![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-ag03uuc.jpeg)
+From the basic to advanced concepts of AWS own service for identity and access management: users, groups, permissions for resources and much more.
 
 ### [324. Javascript: The Most Complex Language ](https://hackernoon.com/javascript-the-most-complex-language-for-me-k1e53ymu)
 ![](https://images.unsplash.com/photo-1485856407642-7f9ba0268b51?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 For me this is one of the strangest things I did in my life, talk to you about what is it for me one of the most complex languages that I have worked with. Javascript is something really strange when you compare it with other languages.
 
-### [325. When We Should Use Domain Driven Design Approach](https://hackernoon.com/when-we-should-use-domain-driven-design-approach-qx1034k2)
-![](https://cdn.hackernoon.com/images/CYEYylYrsETPY5msGsX1KT98mpk2-7y6133et.jpeg)
-In the world of software development, is talked about DDD more than using it practically. We want to see when we should go to DDD!
-
-### [326. Authentication Vs. Authorization [Infographic]](https://hackernoon.com/authentication-vs-authorization-infographic-si183wpw)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQ7Ilpvu5bRN22EpJho9JEiSRxSo2-5c4j3t6l.jpeg?alt=media&token=8acd613d-3ac6-4ec4-971d-03f31fe3b02b)
-In online protection systems, authentication and authorization play an important role. They confirm the user's identity and grant your website or application access. In order to decide which combination of web tools best fits your security needs, it is important that you notice their differences.
-
-### [327. Implementing CRUD Using  Ruby On Rails CLI](https://hackernoon.com/implementing-crud-using-ruby-on-rails-cli-4f233u98)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlUIWCnsIcEWiqNUhAQ2KZ1MVrv63-ywbe3w13.jpeg?alt=media&token=4825349f-7673-43db-a904-dba239b6466a)
-Learning to be a Full-Stack web developer in Microverse – a remote software development school domiciled in California had so much taught me a lot like patience, resilience, tenacity and the curiosity to get things done the right way and at the right time. Ruby on rails web application is an application that is somewhat complicated for someone who is getting started in learning how this powerful web application works. But when you get to understand how it works and how to navigate round in building your application with it, you will be glad you did.
-
-### [328. Introduction to GraphQL](https://hackernoon.com/introduction-to-graphql-62173u9k)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWEfI6q2RxCOnGJnIhXiwpumf0Ri2-cm493ucy.jpeg?alt=media&token=e0d962dc-ea59-4be4-a48b-9860cb056c14)
-TL;DR
-
-### [329. How To Build Graphql API with Spring Boot, Neo4j and Kong [Part 4]](https://hackernoon.com/how-to-build-graphql-api-with-spring-boot-neo4j-and-kong-part-4-4qq3upa)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlBhQoqjIaMU4EX9kZOsv7rSkzzx1-mz243u9b.webp?alt=media&token=71edc31f-bd30-46eb-8112-1140b1ec192d)
-Introduction
-
-### [330. Good and Not So Good Things With Firebase](https://hackernoon.com/good-and-not-so-good-things-with-firebase-4p423yo3)
-![](https://cdn.hackernoon.com/images/uio3y2s.jpg)
-Most of the developers have heard for Google’s product called Firebase. It’s, how Google says “mobile platform that helps you quickly develop high-quality apps and grow your business.“. It’s basically a set of tools that most developers will need when building an app. In this article I’ll go over these tools, and point all the things you need to know if you choose to use Firebase.
-
-### [331. Buffer Overview in Node.js](https://hackernoon.com/buffer-overview-in-nodejs-mw1b3u5g)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-0uf3ubz.jpeg?alt=media&token=28003796-9b51-434d-b261-218c9f9a4c1d)
-Everyone who worked in Node.js, should have came across the term Buffer. Few may think that Buffer is only for library developers and its not in the scope of application developer. Here this blog is for you to provide an overview about the Buffer and its usage.
-
-### [332. Laravel 8 Features That You Should Know](https://hackernoon.com/laravel-8-features-that-you-should-know-c91d34le)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-7g1e29ys.jpeg)
-This blog talks about why Laravel 8 deserves another look because of several features that makes it perfect for web development.
-
-### [333. Would You Use Clojure Again? These Companies Say Yes — and Here’s Why](https://hackernoon.com/would-you-use-clojure-again-these-companies-say-yes-and-heres-why)
+### [325. Would You Use Clojure Again? These Companies Say Yes — and Here’s Why](https://hackernoon.com/would-you-use-clojure-again-these-companies-say-yes-and-heres-why)
 ![](https://cdn.hackernoon.com/images/1fq1znkuBWaNW9Ozxi9L8O2MtfI3-3f038og.png)
 "Clojure in Product. Would you do it again?" podcast explores how teams use the language to grow their businesses.
 
-### [334. Gopher Pythonista #1: Transitioning from Python to Go](https://hackernoon.com/gopher-pythonista-1-transitioning-from-python-to-go)
+### [326. When We Should Use Domain Driven Design Approach](https://hackernoon.com/when-we-should-use-domain-driven-design-approach-qx1034k2)
+![](https://cdn.hackernoon.com/images/CYEYylYrsETPY5msGsX1KT98mpk2-7y6133et.jpeg)
+In the world of software development, is talked about DDD more than using it practically. We want to see when we should go to DDD!
+
+### [327. Authentication Vs. Authorization [Infographic]](https://hackernoon.com/authentication-vs-authorization-infographic-si183wpw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQ7Ilpvu5bRN22EpJho9JEiSRxSo2-5c4j3t6l.jpeg?alt=media&token=8acd613d-3ac6-4ec4-971d-03f31fe3b02b)
+In online protection systems, authentication and authorization play an important role. They confirm the user's identity and grant your website or application access. In order to decide which combination of web tools best fits your security needs, it is important that you notice their differences.
+
+### [328. Implementing CRUD Using  Ruby On Rails CLI](https://hackernoon.com/implementing-crud-using-ruby-on-rails-cli-4f233u98)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlUIWCnsIcEWiqNUhAQ2KZ1MVrv63-ywbe3w13.jpeg?alt=media&token=4825349f-7673-43db-a904-dba239b6466a)
+Learning to be a Full-Stack web developer in Microverse – a remote software development school domiciled in California had so much taught me a lot like patience, resilience, tenacity and the curiosity to get things done the right way and at the right time. Ruby on rails web application is an application that is somewhat complicated for someone who is getting started in learning how this powerful web application works. But when you get to understand how it works and how to navigate round in building your application with it, you will be glad you did.
+
+### [329. Introduction to GraphQL](https://hackernoon.com/introduction-to-graphql-62173u9k)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWEfI6q2RxCOnGJnIhXiwpumf0Ri2-cm493ucy.jpeg?alt=media&token=e0d962dc-ea59-4be4-a48b-9860cb056c14)
+TL;DR
+
+### [330. How To Build Graphql API with Spring Boot, Neo4j and Kong [Part 4]](https://hackernoon.com/how-to-build-graphql-api-with-spring-boot-neo4j-and-kong-part-4-4qq3upa)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlBhQoqjIaMU4EX9kZOsv7rSkzzx1-mz243u9b.webp?alt=media&token=71edc31f-bd30-46eb-8112-1140b1ec192d)
+Introduction
+
+### [331. Good and Not So Good Things With Firebase](https://hackernoon.com/good-and-not-so-good-things-with-firebase-4p423yo3)
+![](https://cdn.hackernoon.com/images/uio3y2s.jpg)
+Most of the developers have heard for Google’s product called Firebase. It’s, how Google says “mobile platform that helps you quickly develop high-quality apps and grow your business.“. It’s basically a set of tools that most developers will need when building an app. In this article I’ll go over these tools, and point all the things you need to know if you choose to use Firebase.
+
+### [332. Buffer Overview in Node.js](https://hackernoon.com/buffer-overview-in-nodejs-mw1b3u5g)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-0uf3ubz.jpeg?alt=media&token=28003796-9b51-434d-b261-218c9f9a4c1d)
+Everyone who worked in Node.js, should have came across the term Buffer. Few may think that Buffer is only for library developers and its not in the scope of application developer. Here this blog is for you to provide an overview about the Buffer and its usage.
+
+### [333. Gopher Pythonista #1: Transitioning from Python to Go](https://hackernoon.com/gopher-pythonista-1-transitioning-from-python-to-go)
 ![](https://cdn.hackernoon.com/images/ql5j5TZB0tU1vWA4EaF6tI4lfED3-m693kp2.jpeg)
 The transition from one language to another doesn't need to be hard. Especially, when you are building backend apps in Python and you want to switch to Go.
 
-### [335. Tips About TestNG Listeners In Selenium WebDriver With Examples](https://hackernoon.com/tips-about-testng-listeners-in-selenium-webdriver-with-examples-ds1631dr)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-eef3150.jpeg)
-There are different interfaces provided by Java that allows you to modify TestNG behaviour. These interfaces are further known as TestNG Listeners in Selenium WebDriver. TestNG Listeners also allows you to customize the tests logs or report according to your project requirements. TestNG Listeners in Selenium WebDriver are modules that listens to certain events and keep track of test execution while performing some action at every stage of test execution.
+### [334. Laravel 8 Features That You Should Know](https://hackernoon.com/laravel-8-features-that-you-should-know-c91d34le)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-7g1e29ys.jpeg)
+This blog talks about why Laravel 8 deserves another look because of several features that makes it perfect for web development.
 
-### [336. The FAQs of RuboCup](https://hackernoon.com/the-faqs-of-rubocup-rh103t7v)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-sxe3tkd.jpeg?alt=media&token=52cb94c5-b674-457e-bfc4-e9fe22e9ccc1)
-RuboCop is a Ruby static code analyzer and code formatter which helps to track errors easily and fix minor code issues during the development process saving your time. It has many advantages and you can learn more about RuboCop on https://docs.rubocop.org/en/stable/. 
+### [335. Going Beyond Spring: Exploring Vert.x for Reactive Java Development](https://hackernoon.com/going-beyond-spring-exploring-vertx-for-reactive-java-development)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-s1823gb.jpeg)
+Eclipse Vert.x vs Spring WebFlux a practical Java comparison of event-loop architecture, performance, and reactive programming with real code examples.
 
-### [337. Are Angular and Angular JS The Same?](https://hackernoon.com/are-angular-and-angular-js-the-same-c6o3tn3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBzPgfgOjQ7PvB2dIqnujhKIRnLU2-de3o3u26.jpeg?alt=media&token=0f0f26bd-9775-4587-9632-97f8d2bd9364)
-In this article, we figure out the key differences between Angular and AngularJS open source tools for front end developers to make the usage of these frameworks, terms, and names more conscious. But before we start to compare, let’s clarify what these names mean.
-
-### [338.  RabbitMQ Introduced in Brief](https://hackernoon.com/rabbitmq-introduced-in-brief)
-![](https://cdn.hackernoon.com/images/e8iYFeVmyLg0fVAbPx1z0FG7pCl1-cvf2cwq.jpeg)
-This is a short introduction to RabbitMQ, an open-source message broker software that can be used to distribute long-running tasks into separate processes. 
-
-### [339. When to Use Node.js for Your Web Application](https://hackernoon.com/when-to-use-nodejs-for-your-web-application)
+### [336. When to Use Node.js for Your Web Application](https://hackernoon.com/when-to-use-nodejs-for-your-web-application)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-zz93h4j.jpeg)
 Want to know what is NodeJS and Why You Should Use It? Here is detailed blog covering every minute detail of NodeJS.
 
-### [340. How to Build an eCars App on Salesforce and Heroku [Part 2] ](https://hackernoon.com/how-to-build-an-ecars-app-on-salesforce-and-heroku-part-2-5j2334qx)
+### [337. Tips About TestNG Listeners In Selenium WebDriver With Examples](https://hackernoon.com/tips-about-testng-listeners-in-selenium-webdriver-with-examples-ds1631dr)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-eef3150.jpeg)
+There are different interfaces provided by Java that allows you to modify TestNG behaviour. These interfaces are further known as TestNG Listeners in Selenium WebDriver. TestNG Listeners also allows you to customize the tests logs or report according to your project requirements. TestNG Listeners in Selenium WebDriver are modules that listens to certain events and keep track of test execution while performing some action at every stage of test execution.
+
+### [338. The FAQs of RuboCup](https://hackernoon.com/the-faqs-of-rubocup-rh103t7v)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-sxe3tkd.jpeg?alt=media&token=52cb94c5-b674-457e-bfc4-e9fe22e9ccc1)
+RuboCop is a Ruby static code analyzer and code formatter which helps to track errors easily and fix minor code issues during the development process saving your time. It has many advantages and you can learn more about RuboCop on https://docs.rubocop.org/en/stable/. 
+
+### [339.  RabbitMQ Introduced in Brief](https://hackernoon.com/rabbitmq-introduced-in-brief)
+![](https://cdn.hackernoon.com/images/e8iYFeVmyLg0fVAbPx1z0FG7pCl1-cvf2cwq.jpeg)
+This is a short introduction to RabbitMQ, an open-source message broker software that can be used to distribute long-running tasks into separate processes. 
+
+### [340. Are Angular and Angular JS The Same?](https://hackernoon.com/are-angular-and-angular-js-the-same-c6o3tn3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBzPgfgOjQ7PvB2dIqnujhKIRnLU2-de3o3u26.jpeg?alt=media&token=0f0f26bd-9775-4587-9632-97f8d2bd9364)
+In this article, we figure out the key differences between Angular and AngularJS open source tools for front end developers to make the usage of these frameworks, terms, and names more conscious. But before we start to compare, let’s clarify what these names mean.
+
+### [341. How to Build an eCars App on Salesforce and Heroku [Part 2] ](https://hackernoon.com/how-to-build-an-ecars-app-on-salesforce-and-heroku-part-2-5j2334qx)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-lgc31bk.jpeg)
 This is the 2nd article documenting what I’ve learned from a series of 10 Trailhead Live video sessions on Modern App Development on Salesforce and Heroku.  In these articles I’m walking you through how to combine Salesforce with Heroku to build an “eCars” app—a sales and service application for a fictitious electric car company (“Pulsar”) that allows users to customize and buy cars, service techs to view live diagnostic info from the car, and more.  
 
-### [341. Extracting Information From Hash in Ruby on Rails](https://hackernoon.com/extracting-information-from-hash-in-ruby-on-rails-f51p3uef)
+### [342. Extracting Information From Hash in Ruby on Rails](https://hackernoon.com/extracting-information-from-hash-in-ruby-on-rails-f51p3uef)
 ![](https://cdn.hackernoon.com/drafts/e61g3091.png)
 When I was recently working in one of the client project, I had to communicate with external mariadb server to store records from react/rails app, that means I would get activerecord hash from our app which I had to convert to pure sql query and send it to external server for storing.
 
 If you have worked with sql queries previously then you must know that keys and values must be separated for insert operations like
 
-### [342. Creating a Bash Shell Script That Alerts Via Telegram if Your Zetachain Validator Gets Jailed](https://hackernoon.com/creating-a-bash-shell-script-that-alerts-via-telegram-if-your-zetachain-validator-gets-jailed)
+### [343. Creating a Bash Shell Script That Alerts Via Telegram if Your Zetachain Validator Gets Jailed](https://hackernoon.com/creating-a-bash-shell-script-that-alerts-via-telegram-if-your-zetachain-validator-gets-jailed)
 ![](https://cdn.hackernoon.com/images/fuxWrCcK6uTzYk0oPIMFkG8AbQ62-4ec3uyp.jpeg)
 In this article, we’re going to show you how to create tooling that alerts you via Telegram if your node is jailed. 
 
-### [343. Understanding Kafka Partitions: How to Get the Most out of Your Kafka Cluster](https://hackernoon.com/understanding-kafka-partitions-how-to-get-the-most-out-of-your-kafka-cluster-vaji36zv)
-![](https://cdn.hackernoon.com/drafts/mepk32ad.png)
-This blog provides an overview around the two fundamental concepts in Apache Kafka: Topics and Partitions. While developing and scaling our Anomalia Machina application we have discovered that distributed applications using Kafka and Cassandra clusters require careful tuning to achieve close to linear scalability, and critical variables included the number of Kafka topics and partitions. In this blog, we test that theory and answer questions like “What impact does increasing partitions have on throughput?” and “Is there an optimal number of partitions for a cluster to maximize write throughput?” And more!
-
-### [344. Wix Velo Introduction: Basic Tips for Beginners](https://hackernoon.com/wix-velo-introduction-basic-tips-for-beginners-t81f33do)
-![](https://cdn.hackernoon.com/images/qqhiNJ0QGNQ25e6lW7Ze8njyZXj2-xz16337i.jpeg)
-An Overview On Wix Velo
-
-### [345. Startups, Do You Really Want to Pay The Microservices Tax?](https://hackernoon.com/startups-do-you-really-want-to-pay-the-microservices-tax)
+### [344. Startups, Do You Really Want to Pay The Microservices Tax?](https://hackernoon.com/startups-do-you-really-want-to-pay-the-microservices-tax)
 ![](https://cdn.hackernoon.com/images/qqQuQnB1axa4HS9uKXmxjdYUt2f1-2t12to2.png)
 Why early microservices can kill your startup’s velocity, and how monoliths help you ship faster and stay alive.
 
-### [346. How To Determine The Right HTTP Response Code For Various Situations](https://hackernoon.com/how-to-determine-the-right-http-response-code-for-various-situations-hl34359u)
+### [345. Wix Velo Introduction: Basic Tips for Beginners](https://hackernoon.com/wix-velo-introduction-basic-tips-for-beginners-t81f33do)
+![](https://cdn.hackernoon.com/images/qqhiNJ0QGNQ25e6lW7Ze8njyZXj2-xz16337i.jpeg)
+An Overview On Wix Velo
+
+### [346. Understanding Kafka Partitions: How to Get the Most out of Your Kafka Cluster](https://hackernoon.com/understanding-kafka-partitions-how-to-get-the-most-out-of-your-kafka-cluster-vaji36zv)
+![](https://cdn.hackernoon.com/drafts/mepk32ad.png)
+This blog provides an overview around the two fundamental concepts in Apache Kafka: Topics and Partitions. While developing and scaling our Anomalia Machina application we have discovered that distributed applications using Kafka and Cassandra clusters require careful tuning to achieve close to linear scalability, and critical variables included the number of Kafka topics and partitions. In this blog, we test that theory and answer questions like “What impact does increasing partitions have on throughput?” and “Is there an optimal number of partitions for a cluster to maximize write throughput?” And more!
+
+### [347. How To Determine The Right HTTP Response Code For Various Situations](https://hackernoon.com/how-to-determine-the-right-http-response-code-for-various-situations-hl34359u)
 ![](https://cdn.hackernoon.com/images/OEU7rDM2JZStpP1To3cbDp9JhWK2-879638wv.jpeg)
 A collection of a few things I needed to clear up (to myself or others) about HTTP Status Codes while building a RESTful API. 
 
-### [347. How To Add Action Mailbox To A Rails 6 Application](https://hackernoon.com/how-to-add-action-mailbox-to-a-rails-6-application-6x193ukg)
+### [348. How To Add Action Mailbox To A Rails 6 Application](https://hackernoon.com/how-to-add-action-mailbox-to-a-rails-6-application-6x193ukg)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-8o724xuk.jpeg?alt=media&token=a2fc09f8-0331-4d8a-adb2-558eb4ab3b49)
 Sending mail from a Rails application has been covered by hundreds or thousands of articles, however, there is not a ton of articles about receiving, parsing and using the new ActionMailbox.
 
-### [348. Difference Between Spring MVC and Spring Boot](https://hackernoon.com/difference-between-spring-mvc-and-spring-boot-xrv3uys)
-![](https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Spring MVC is a framework that is used to build web applications. It follows the Model View Controller pattern. DispatcherServlet is the servlet that controls the flow of a request from view to controller. Since Spring 3.1, the Servlet 3 API is supported and we no longer need web.xml for configuring DispatcherServlet – instead, it is configured programmatically. 
-
-### [349. Plan Your Breaks Easily with Python](https://hackernoon.com/plan-your-breaks-easily-with-python-za2235r5)
-![](https://cdn.hackernoon.com/images/uaPC3alJGZYWa8bXdj0MJNXLMDC2-ri89355r.jpeg)
-Working from home is the new normal. In this blog post, we will learn how to build a break Scheduler using webbrowser with Python.
-
-### [350. How To Learn Ruby on Rails](https://hackernoon.com/how-to-learn-ruby-on-rails-n9163w7x)
+### [349. How To Learn Ruby on Rails](https://hackernoon.com/how-to-learn-ruby-on-rails-n9163w7x)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEgZmQfwcdgPufCLcwJmSyMs42r63-1a3q3wkf.jpeg?alt=media&token=18a50d73-def4-4d6e-a58a-6383273942b2)
 How to get around in your first Rails projects
+
+### [350. Difference Between Spring MVC and Spring Boot](https://hackernoon.com/difference-between-spring-mvc-and-spring-boot-xrv3uys)
+![](https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Spring MVC is a framework that is used to build web applications. It follows the Model View Controller pattern. DispatcherServlet is the servlet that controls the flow of a request from view to controller. Since Spring 3.1, the Servlet 3 API is supported and we no longer need web.xml for configuring DispatcherServlet – instead, it is configured programmatically. 
 
 ### [351. How HTTP Works - A Hands-On Explanation](https://hackernoon.com/how-http-works-a-hands-on-explanation)
 ![](https://cdn.hackernoon.com/images/jkCY8j2BD8PVDu7VxKIxMURl3Sn2-xm92l8x.jpeg)
 A high-level, hands-on explanation of how HTTP works with real-life examples. Get your hands on using Telnet and CURL to make HTTP requests.
 
-### [352. How To Add Data Sensitivity Classification Command in SQL Server 2019](https://hackernoon.com/how-to-add-data-sensitivity-classification-command-in-sql-server-2019-g6253ws4)
+### [352. Plan Your Breaks Easily with Python](https://hackernoon.com/plan-your-breaks-easily-with-python-za2235r5)
+![](https://cdn.hackernoon.com/images/uaPC3alJGZYWa8bXdj0MJNXLMDC2-ri89355r.jpeg)
+Working from home is the new normal. In this blog post, we will learn how to build a break Scheduler using webbrowser with Python.
+
+### [353. How To Add Data Sensitivity Classification Command in SQL Server 2019](https://hackernoon.com/how-to-add-data-sensitivity-classification-command-in-sql-server-2019-g6253ws4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMi8z5HenKGNpOVoDYBJHLVcRhWS2-qx103tnn.jpeg?alt=media&token=9a58a86d-399f-41d0-94a5-1ece0eec26a4)
 For a database administrator, the common everyday practice involves running multiple operations targeted at ensuring database security and integrity. Thus, we shouldn’t overlook the importance of sensitive data stored in the database under any circumstances. In light of this, we are excited to demonstrate the new ADD SENSITIVITY CLASSIFICATION command introduced in SQL Server 2019, which allows adding the sensitivity classification metadata to database columns.
 
-### [353. Glossary of Security Terms: CORS](https://hackernoon.com/glossary-of-security-terms-cors-tgf3upb)
+### [354. Glossary of Security Terms: CORS](https://hackernoon.com/glossary-of-security-terms-cors-tgf3upb)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-xjd28jk.jpeg?alt=media&token=839633c9-3edb-4458-bb51-a26bc9f67ba1)
 CORS (Cross-Origin Resource Sharing) is a system, consisting of transmitting HTTP headers, that determines whether browsers block frontend JavaScript code from accessing responses for cross-origin requests.
-
-### [354. OpenAPI Specification v. 3+ Introduction](https://hackernoon.com/openapi-specification-v-3-introduction-c41v3u3i)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfSn0FdIYzffezOPfjIQE1JZnkj03-pd73ujg.jpeg?alt=media&token=b35afb61-fa4c-41b6-bf54-c1ef330a03e4)
-Mental Checklist
 
 ### [355. How to Connect MongoDB(4.2.10) and MongoDB Compass Locally](https://hackernoon.com/how-to-connect-mongodb4210-and-mongodb-compass-locally-mhu31ws)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fw13wkpgEqlQcx2vj0AzBLo66a4n1-5o2d3xhm.jpeg?alt=media&token=d7664f30-2781-4e80-8126-e0f00fa64dec)
 What is MongoDB?
 
-### [356. How to Simplify Data Validation in PHP With ValidationMyPhp](https://hackernoon.com/how-to-simplify-data-validation-in-php-with-validationmyphp)
+### [356. OpenAPI Specification v. 3+ Introduction](https://hackernoon.com/openapi-specification-v-3-introduction-c41v3u3i)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfSn0FdIYzffezOPfjIQE1JZnkj03-pd73ujg.jpeg?alt=media&token=b35afb61-fa4c-41b6-bf54-c1ef330a03e4)
+Mental Checklist
+
+### [357. How to Simplify Data Validation in PHP With ValidationMyPhp](https://hackernoon.com/how-to-simplify-data-validation-in-php-with-validationmyphp)
 ![](https://cdn.hackernoon.com/images/RXadfDF7FAUpoNxhRqBIwlyiOM02-kh93vwy.jpeg)
 In this article, we'll dive into how ValidationMyPhp simplifies data validation in PHP applications and why it deserves your attention on GitHub.
 
-### [357. SQL Databases Vs. NOSQL Databases](https://hackernoon.com/sql-databases-vs-nosql-databases-ja3g3yy9)
+### [358. SQL Databases Vs. NOSQL Databases](https://hackernoon.com/sql-databases-vs-nosql-databases-ja3g3yy9)
 ![](https://cdn.hackernoon.com/drafts/i61hj2ep2.png)
 The decision to choose a database  for project is not that simple. But when it comes to choosing a database, the biggest decisions is picking a relational (SQL) or non-relational (NoSQL) data structure.
 
-### [358. How to Use The Realtime Messaging API in Velo](https://hackernoon.com/how-to-use-realtime-messaging-api-in-velo-mm2234kf)
+### [359. How to Use The Realtime Messaging API in Velo](https://hackernoon.com/how-to-use-realtime-messaging-api-in-velo-mm2234kf)
 ![](https://hackernoon.com/images/HzWefNlq2pZkZcUGS9ud2aXzUkd2-kybu3zvi.jpeg)
 The Realtime API is used to send messages in realtime over channels that your site visitors are subscribed to. In this tutorial, we demonstrate the usage of the Realtime API by sending breaking news alerts to visitors on a news site. We allow visitors who are members of our site to decide what types of news alerts they receive. Alerts are sent using an admin page where the admin can choose what type of alert to send.
 
-### [359. You Will Love These Java 9 API Improvements](https://hackernoon.com/you-will-love-these-java-9-api-improvements-u9k34df)
-![](https://hackernoon.com/images/KoDOFsZgQ0PHmAEf9yflAtYWtQA2-2aak34al.jpeg)
-New java features you must use.
-
-### [360. Managing NPM Dependency as A Professional](https://hackernoon.com/managing-npm-dependency-as-a-professional-ktz31jk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FDBmwq0SteFQHHX3MAHWlSX4NC1X2-wk4030c1.jpeg?alt=media&token=f1d349be-4c50-45ec-aef7-2e4487cf9175)
-Why do we talk about project quality and technical debt so much? Because this directly or indirectly affects the speed of development, the complexity of support, the time to implement new functionality, and the possibility of extending the current one.
+### [360. How To Use the Paid Plans API for Pricing Plan Ordering](https://hackernoon.com/how-to-use-the-paid-plans-api-for-pricing-plan-ordering-pr1q352k)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-rjt35tw.jpeg)
+This article describes how you can use the Velo Paid Plans API to customize how you offer pricing plans to your site's visitors. We're going to explain how we set up a sample site and the code we added to make it work.
 
 ### [361. How to Build a Voting Application for Tech Courses with GraphCMS and Nuxt](https://hackernoon.com/how-to-build-a-voting-application-for-tech-courses-with-graphcms-and-nuxt-v21p37cs)
 ![](https://cdn.hackernoon.com/images/iOKnuwYEXZaUvz5goZmkHGWwDAq2-sdej35ut.jpeg)
 Build an application that allows you to vote courses in tech. You will use technologies such as GraphCMS, Nuxt.js, GitHub, TailwindCSS and NPM.
 
-### [362. ASP.NET FAQs](https://hackernoon.com/aspnet-faqs-gd1b3tl4)
+### [362. You Will Love These Java 9 API Improvements](https://hackernoon.com/you-will-love-these-java-9-api-improvements-u9k34df)
+![](https://hackernoon.com/images/KoDOFsZgQ0PHmAEf9yflAtYWtQA2-2aak34al.jpeg)
+New java features you must use.
+
+### [363. Managing NPM Dependency as A Professional](https://hackernoon.com/managing-npm-dependency-as-a-professional-ktz31jk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FDBmwq0SteFQHHX3MAHWlSX4NC1X2-wk4030c1.jpeg?alt=media&token=f1d349be-4c50-45ec-aef7-2e4487cf9175)
+Why do we talk about project quality and technical debt so much? Because this directly or indirectly affects the speed of development, the complexity of support, the time to implement new functionality, and the possibility of extending the current one.
+
+### [364. ASP.NET FAQs](https://hackernoon.com/aspnet-faqs-gd1b3tl4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaHcUME45O0Sw3JLt9OGFJpazIvO2-wr728p8.jpeg?alt=media&token=6cc8e10a-a7d0-4195-b1d3-901e855eae29)
 ASP.NET is an open-source server-side web application framework that was developed by Microsoft. It is mostly used for building dynamic websites and applications. It is free and a cross-platform framework. So, today we will be checking out the 11 most asked ASP.NET questions.
 
-### [363. Creating Appsync API using Amplify CLI](https://hackernoon.com/creating-appsync-api-using-amplify-cli-h4603v1z)
+### [365. Creating Appsync API using Amplify CLI](https://hackernoon.com/creating-appsync-api-using-amplify-cli-h4603v1z)
 ![](https://cdn.hackernoon.com/images/fyi53w3i.jpg)
 While using any services from AWS you can do it via their API,Console or CLI tool like amplify, amplify was designed specifically to work with AWS and to make it easier for developers to deploy applications on the cloud just by running some commands, In this blog i will be showing you how can you create an Appsync API with Amplify, It will have auto generated resolvers for all the queries,mutation and DynamoDB as the database.Yes you read that right everything will be created for you by AWS using cloudformation which acts as template for all the services that you will be needing. So before we get started i encourage you to install Amplify CLI on your computer and configure it with your Credentials. Let’s get started now.
 
-### [364. How To Use the Paid Plans API for Pricing Plan Ordering](https://hackernoon.com/how-to-use-the-paid-plans-api-for-pricing-plan-ordering-pr1q352k)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-rjt35tw.jpeg)
-This article describes how you can use the Velo Paid Plans API to customize how you offer pricing plans to your site's visitors. We're going to explain how we set up a sample site and the code we added to make it work.
-
-### [365. Breaking Down MSON Template Queries](https://hackernoon.com/breaking-down-mson-template-queries-mw1133g7)
+### [366. Breaking Down MSON Template Queries](https://hackernoon.com/breaking-down-mson-template-queries-mw1133g7)
 ![](https://cdn.hackernoon.com/images/fNaodJx94rhQL6VmzGVbEo8jA692-0igd3397.jpeg)
 Template Queries are dynamic templates constructed with MongoDB-style operators, which allow you to customize MSON components with less code.
 
-### [366. Conditional API Responses for JavaScript vs. HTML Forms: An Essential Guide](https://hackernoon.com/conditional-api-responses-for-javascript-vs-html-forms-an-essential-guide)
+### [367. Conditional API Responses for JavaScript vs. HTML Forms: An Essential Guide](https://hackernoon.com/conditional-api-responses-for-javascript-vs-html-forms-an-essential-guide)
 ![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-u9928z2.png)
 Learn how to build backend APIs that support progressive enhancement by detecting if a request was submitted with HTML forms or JavaScript.
 
-### [367. Go 1.21: Taking Your Go Apps to the Next Level](https://hackernoon.com/go-121-taking-your-go-apps-to-the-next-level)
+### [368. Go 1.21: Taking Your Go Apps to the Next Level](https://hackernoon.com/go-121-taking-your-go-apps-to-the-next-level)
 ![](https://cdn.hackernoon.com/images/x2cx7JIyp7MnzU1thrm5j2g7k752-wk93xhr.png)
 Discover Go 1.21's cutting-edge features: profile-guided optimization, min-max functions, clear function, loop variable enhancement, and more.
 
-### [368. Glossary of Security Terms: Certificate Authority](https://hackernoon.com/glossary-of-security-terms-certificate-authority-icf3ull)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-zsd280e.jpeg?alt=media&token=c39eefa6-4895-4491-a4da-b7745205ab28)
-A certificate authority (CA) is an organization that signs digital certificates and their associated public keys. This certifies that an organization that requested a digital certificate (e.g., Mozilla Corporation) is authorized to request a certificate for the subject named in the certificate (e.g., mozilla.org).
-
-### [369. How To Pick Top Video Call APIs and SDKs For Android and iOS](https://hackernoon.com/how-to-pick-top-video-call-apis-and-sdks-for-android-and-ios-p8y331k)
-![](https://cdn.hackernoon.com/images/WqX56heW9AfoPpvDvvvsumofQo73-ss1623jf.jpeg)
-Video calling is ideal for every type of industry and is considered one of the easiest and safest modes of communication. Because of this, several organizations around the globe are opting for live video chat apps and integrating real-time streaming chat software. The ultimate intention is to facilitate visitors on the website or portal and make communication easy and effective. But, how does an organization choose a video call service provider? And what are the factors to consider before opting for the best live video call APIs and SDKs?
-
-### [370. Configuring Multi Cluster Setup in Postman](https://hackernoon.com/configuring-multi-cluster-setup-in-postman-skw315v)
+### [369. Configuring Multi Cluster Setup in Postman](https://hackernoon.com/configuring-multi-cluster-setup-in-postman-skw315v)
 ![](https://cdn.hackernoon.com/images/oT1lSR6NAaNYgE6qwDbhM0bRg9p2-4w6b31z4.png)
 If you are testing REST APIs application with Oauth on Postman, generally you do the following,
 
-### [371. The Basics of a Standard Type Inference Technique](https://hackernoon.com/the-basics-of-a-standard-type-inference-technique-oaw3t05)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FthiowC24W3N1MegiuRFVZJYpXYz2-xbb3um4.jpeg?alt=media&token=d7755e06-32ac-47e5-bb56-e0be2bba9692)
-Type inference is a common feature among mainstream programming languages. The functional ones, like ML and Haskell, are pioneers in exploring this programming paradigm where the declaration of a variable or a function may omit a type annotation. Today, even classic imperative languages such as C++ offer, to a certain extent, a kind of type inference.
+### [370. Glossary of Security Terms: Certificate Authority](https://hackernoon.com/glossary-of-security-terms-certificate-authority-icf3ull)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-zsd280e.jpeg?alt=media&token=c39eefa6-4895-4491-a4da-b7745205ab28)
+A certificate authority (CA) is an organization that signs digital certificates and their associated public keys. This certifies that an organization that requested a digital certificate (e.g., Mozilla Corporation) is authorized to request a certificate for the subject named in the certificate (e.g., mozilla.org).
 
-### [372. How To Integrate Your Laptop With AWS And Deploy DynamoDB Locally](https://hackernoon.com/how-to-integrate-your-laptop-with-aws-and-deploy-dynamodb-locally-933633mv)
-![](https://cdn.hackernoon.com/images/QjlLIOV3g0cXJkgnJSndhuCcun43-lf1b3lyk.jpeg)
-How to Interact with AWS (Amazon Web Services) cloud from your local machine. 
+### [371. How To Pick Top Video Call APIs and SDKs For Android and iOS](https://hackernoon.com/how-to-pick-top-video-call-apis-and-sdks-for-android-and-ios-p8y331k)
+![](https://cdn.hackernoon.com/images/WqX56heW9AfoPpvDvvvsumofQo73-ss1623jf.jpeg)
+Video calling is ideal for every type of industry and is considered one of the easiest and safest modes of communication. Because of this, several organizations around the globe are opting for live video chat apps and integrating real-time streaming chat software. The ultimate intention is to facilitate visitors on the website or portal and make communication easy and effective. But, how does an organization choose a video call service provider? And what are the factors to consider before opting for the best live video call APIs and SDKs?
 
+### [372. Velo How-To: Security Checklist](https://hackernoon.com/velo-how-to-security-checklist-p92234cp)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-35o3412.jpeg)
+In general, your site is secure without you having to do anything. Wix takes care of that for you. However, there are certain situations where you have to take some precautions so that you don't expose your sensitive data to your site's visitors.
 
 ### [373. How to set up NetSuite Token-based Authentication (TBA) in Laravel](https://hackernoon.com/how-to-set-up-netsuite-token-based-authentication-tba-in-laravel)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bl02si0.jpeg)
 Learn to set up Token-based Authentication (TBA) in Laravel for NetSuite integration with this step-by-step guide, including code snippets and UI screenshots.
 
-### [374. Velo How-To: Security Checklist](https://hackernoon.com/velo-how-to-security-checklist-p92234cp)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-35o3412.jpeg)
-In general, your site is secure without you having to do anything. Wix takes care of that for you. However, there are certain situations where you have to take some precautions so that you don't expose your sensitive data to your site's visitors.
-
-### [375. A Non-Standard Way to Use Apache Kafka Message Broker](https://hackernoon.com/a-non-standard-way-to-use-apache-kafka-message-broker)
+### [374. A Non-Standard Way to Use Apache Kafka Message Broker](https://hackernoon.com/a-non-standard-way-to-use-apache-kafka-message-broker)
 ![](https://cdn.hackernoon.com/images/wbpx3HjpyqPKnyTWEn9WMG6yYUA2-95d3ps8.jpeg)
 Distribute business-configuration using Apache Kafka, it could be a good idea if your services already use it for other purposes
 
-### [376. Benefits of Migration to Latest Magento Version](https://hackernoon.com/benefits-of-migration-to-latest-magento-version-qxg3uui)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-cf2l3uej.jpeg?alt=media&token=d4916531-9d86-4bd8-b2de-2504c209e756)
-It has been officially announced that Magento 1 rounded off its support on June 20, 2020, which means that new features and updates are no longer delivered for this edition of the platform. How will it affect your business? Staying with Magento 1, you are likely to experience:
+### [375. How To Integrate Your Laptop With AWS And Deploy DynamoDB Locally](https://hackernoon.com/how-to-integrate-your-laptop-with-aws-and-deploy-dynamodb-locally-933633mv)
+![](https://cdn.hackernoon.com/images/QjlLIOV3g0cXJkgnJSndhuCcun43-lf1b3lyk.jpeg)
+How to Interact with AWS (Amazon Web Services) cloud from your local machine. 
 
-### [377. Speed ​​Up Your Development Time With Queries in Ruby on Rails](https://hackernoon.com/speed-up-your-development-time-with-queries-in-ruby-on-rails-ol4l3vg0)
-![](https://cdn.hackernoon.com/images/00s3ypu.jpg)
-Whether you have made simple queries with SQL language to get records in some relational database or you have experience as a complex database administrator, when starting it might seem extremely difficult to learn the syntax to select only what you require, or which table to join with which to make the necessary consultation. 
 
-### [378. Reasons Why Everybody Loves The New GraphQL Editor 3.0](https://hackernoon.com/reasons-why-everybody-loves-the-new-graphql-editor-30-9ym3w8a)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQ9Ye8lX44HeXgiNJTqa5yvn0r2H2-3a1d3wod.jpeg?alt=media&token=8a327a48-617e-4b35-91e0-ed6304b3d090)
-We’ve just launched GraphQL Editor 3.0 and I must say it’s nothing like a year ago as we released it. When we started our vision was to provide an alternative way of designing a GraphQL schema, but what we ended up with is a lot more.
+### [376. The Basics of a Standard Type Inference Technique](https://hackernoon.com/the-basics-of-a-standard-type-inference-technique-oaw3t05)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FthiowC24W3N1MegiuRFVZJYpXYz2-xbb3um4.jpeg?alt=media&token=d7755e06-32ac-47e5-bb56-e0be2bba9692)
+Type inference is a common feature among mainstream programming languages. The functional ones, like ML and Haskell, are pioneers in exploring this programming paradigm where the declaration of a variable or a function may omit a type annotation. Today, even classic imperative languages such as C++ offer, to a certain extent, a kind of type inference.
 
-### [379. LINQ Query: Benefits of Deferred Execution](https://hackernoon.com/linq-query-benefits-of-deferred-execution-n82734gy)
+### [377. Forget Plug-and-Play AI—Here’s How to Roll Your Own](https://hackernoon.com/forget-plug-and-play-aiheres-how-to-roll-your-own)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-so03ajh.png)
+In this article, I’ll walk you through how to create your own AI agent in just 11 minutes using Symfony.
+
+### [378. LINQ Query: Benefits of Deferred Execution](https://hackernoon.com/linq-query-benefits-of-deferred-execution-n82734gy)
 ![](https://cdn.hackernoon.com/images/LFCaL0mBeyY8JHz0m6GDFp0v7go2-l55u33t2.jpeg)
 If you've spent much time around C# and .NET, it's likely that you will have come across LINQ (Language-Integrated Query), which allows you to use a range of powerful querying capabilities directly in the C# language.
 
 
-### [380. Rails Migrations Are Not Scary [Beginners Guide]](https://hackernoon.com/rails-migrations-are-not-scary-x73g32u2)
+### [379. Reasons Why Everybody Loves The New GraphQL Editor 3.0](https://hackernoon.com/reasons-why-everybody-loves-the-new-graphql-editor-30-9ym3w8a)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQ9Ye8lX44HeXgiNJTqa5yvn0r2H2-3a1d3wod.jpeg?alt=media&token=8a327a48-617e-4b35-91e0-ed6304b3d090)
+We’ve just launched GraphQL Editor 3.0 and I must say it’s nothing like a year ago as we released it. When we started our vision was to provide an alternative way of designing a GraphQL schema, but what we ended up with is a lot more.
+
+### [380. Benefits of Migration to Latest Magento Version](https://hackernoon.com/benefits-of-migration-to-latest-magento-version-qxg3uui)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-cf2l3uej.jpeg?alt=media&token=d4916531-9d86-4bd8-b2de-2504c209e756)
+It has been officially announced that Magento 1 rounded off its support on June 20, 2020, which means that new features and updates are no longer delivered for this edition of the platform. How will it affect your business? Staying with Magento 1, you are likely to experience:
+
+### [381. Speed ​​Up Your Development Time With Queries in Ruby on Rails](https://hackernoon.com/speed-up-your-development-time-with-queries-in-ruby-on-rails-ol4l3vg0)
+![](https://cdn.hackernoon.com/images/00s3ypu.jpg)
+Whether you have made simple queries with SQL language to get records in some relational database or you have experience as a complex database administrator, when starting it might seem extremely difficult to learn the syntax to select only what you require, or which table to join with which to make the necessary consultation. 
+
+### [382. Rails Migrations Are Not Scary [Beginners Guide]](https://hackernoon.com/rails-migrations-are-not-scary-x73g32u2)
 ![](https://images.unsplash.com/photo-1520792532857-293bd046307a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 I am a full-stack developer student currently doing the Microverse program, and I've been developing things for months until now. This article is for helping newcomers to Rails to understand Rails migrations by showing some examples and explaining them the best I can.
 
-### [381. Forget Plug-and-Play AI—Here’s How to Roll Your Own](https://hackernoon.com/forget-plug-and-play-aiheres-how-to-roll-your-own)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-so03ajh.png)
-In this article, I’ll walk you through how to create your own AI agent in just 11 minutes using Symfony.
-
-### [382. Languages and Architecture — The Importance of Being Language/Architecture Agnostic](https://hackernoon.com/languages-and-architecture-the-importance-of-being-languagearchitecture-agnostic)
-![](https://cdn.hackernoon.com/images/BuFudq5u1iNvNZzYijHZxw7PX5Y2-vh83w7l.jpeg)
-We shouldn't blindly follow all mainstream trends. Rather, we should carefully decide which architecture to choose. 
-
-### [383. Launch Your Website Development Career in 2021](https://hackernoon.com/launch-your-website-development-career-in-2021-gp4531fi)
-![](https://cdn.hackernoon.com/images/GRZpzqpoJyMvFZW6lPH4PI3T5HB2-8bp31cg.jpeg)
-We cover the fundamental concepts to kickstart your career as a web developer in 2021, such as learning the basics, connecting to the backend, and more.
-
-### [384. Como Instalar um Servidor Apache HTTPD](https://hackernoon.com/como-instalar-um-servidor-apache-httpd-qt5b3yqf)
-![](https://cdn.hackernoon.com/images/b1u83yyt.jpg)
-Oi pessoal!
-
-### [385. This Developer Built a Custom Framework to Tame Legacy Tech and Speed Up Communication](https://hackernoon.com/this-developer-built-a-custom-framework-to-tame-legacy-tech-and-speed-up-communication)
+### [383. This Developer Built a Custom Framework to Tame Legacy Tech and Speed Up Communication](https://hackernoon.com/this-developer-built-a-custom-framework-to-tame-legacy-tech-and-speed-up-communication)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-su02tcq.jpeg)
 WitCom is a versatile API that simplifies client-server communication with intuitive interfaces, robust security, and flexible serialization options. 
 
-### [386. How To Manage Sensitive Data Using SQL Data Discovery and Classification](https://hackernoon.com/how-to-manage-sensitive-data-using-sql-data-discovery-and-classification-661g3wpm)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMi8z5HenKGNpOVoDYBJHLVcRhWS2-1m6r3t32.jpeg?alt=media&token=fffe6e7e-1f52-4c93-bb9d-ed3002aec854)
-The 17.5 version of SQL Server Management Studio (SSMS) brought with it a new built-in security tool. Since then, the Data Discovery and Classification feature has become a difference-maker in the protection of sensitive information.
+### [384. Languages and Architecture — The Importance of Being Language/Architecture Agnostic](https://hackernoon.com/languages-and-architecture-the-importance-of-being-languagearchitecture-agnostic)
+![](https://cdn.hackernoon.com/images/BuFudq5u1iNvNZzYijHZxw7PX5Y2-vh83w7l.jpeg)
+We shouldn't blindly follow all mainstream trends. Rather, we should carefully decide which architecture to choose. 
 
-### [387. You Aren’t Qualified To Have an Opinion on Test-Driven Development Just Yet](https://hackernoon.com/you-arent-qualified-to-have-an-opinion-on-test-driven-development-just-yet)
+### [385. You Aren’t Qualified To Have an Opinion on Test-Driven Development Just Yet](https://hackernoon.com/you-arent-qualified-to-have-an-opinion-on-test-driven-development-just-yet)
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-xkb3v4r.jpeg)
 Discover the significance of context when considering developer opinions and controversial topics in the tech world. 
 
-### [388. How To Create Auth by Connecting Devise into Your ROR Project ](https://hackernoon.com/how-to-create-auth-by-connecting-devise-into-your-ror-project-jp2o3ulc)
-![](https://cdn.hackernoon.com/drafts/sd4a3wm6.png)
-As a student of Microverse, I’ve reached the point where Rails’ framework was introduced to me. It appeared to me with the best omens on its hands. Ruby on Rails is a starting point for many start-ups because all of them got blinded by its beauty and simplicity. I have to admit that I felt intimidated for a while. Surely I can't say we are the best friends now but things started to make sense. Ruby on Rails is designed under the MVC principles - Model View Controllers.
+### [386. Launch Your Website Development Career in 2021](https://hackernoon.com/launch-your-website-development-career-in-2021-gp4531fi)
+![](https://cdn.hackernoon.com/images/GRZpzqpoJyMvFZW6lPH4PI3T5HB2-8bp31cg.jpeg)
+We cover the fundamental concepts to kickstart your career as a web developer in 2021, such as learning the basics, connecting to the backend, and more.
+
+### [387. How To Manage Sensitive Data Using SQL Data Discovery and Classification](https://hackernoon.com/how-to-manage-sensitive-data-using-sql-data-discovery-and-classification-661g3wpm)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMi8z5HenKGNpOVoDYBJHLVcRhWS2-1m6r3t32.jpeg?alt=media&token=fffe6e7e-1f52-4c93-bb9d-ed3002aec854)
+The 17.5 version of SQL Server Management Studio (SSMS) brought with it a new built-in security tool. Since then, the Data Discovery and Classification feature has become a difference-maker in the protection of sensitive information.
+
+### [388. Como Instalar um Servidor Apache HTTPD](https://hackernoon.com/como-instalar-um-servidor-apache-httpd-qt5b3yqf)
+![](https://cdn.hackernoon.com/images/b1u83yyt.jpg)
+Oi pessoal!
 
 ### [389. How to Build Backends Lightning-Fast With YAML: Digesto](https://hackernoon.com/how-to-build-backends-lightning-fast-with-yaml-digesto)
 ![](https://cdn.hackernoon.com/images/a-lot-of-lightning-in-the-night-sky-rwyn0me1ugitg2b74dwhxt87.png)
 Digesto is an experimental Node.js library that lets you define your data model in a YAML file
 
-### [390. Have you Used the Streams API in Java?](https://hackernoon.com/have-you-used-the-streams-api-in-java)
-![](https://cdn.hackernoon.com/images/u8zdoGfwxzbJbUMX8BISChIErgH2-2ob3n4c.jpeg)
-Introduction to streams API
+### [390. How To Create Auth by Connecting Devise into Your ROR Project ](https://hackernoon.com/how-to-create-auth-by-connecting-devise-into-your-ror-project-jp2o3ulc)
+![](https://cdn.hackernoon.com/drafts/sd4a3wm6.png)
+As a student of Microverse, I’ve reached the point where Rails’ framework was introduced to me. It appeared to me with the best omens on its hands. Ruby on Rails is a starting point for many start-ups because all of them got blinded by its beauty and simplicity. I have to admit that I felt intimidated for a while. Surely I can't say we are the best friends now but things started to make sense. Ruby on Rails is designed under the MVC principles - Model View Controllers.
 
 ### [391. How to Change Parameters of a Server at Runtime](https://hackernoon.com/how-to-change-parameters-of-a-server-at-runtime)
 ![](https://cdn.hackernoon.com/images/wbpx3HjpyqPKnyTWEn9WMG6yYUA2-i1a3p2l.jpeg)
 Implementation of business configuration provider tips. Java, Spring and MongoDB in action
 
-### [392. Know the Vitality of Mobile App Architecture](https://hackernoon.com/know-the-vitality-of-mobile-app-architecture-w3o32ml)
-![](https://cdn.hackernoon.com/images/r9123zry.jpg)
-The output is what measures the success of a business. Therefore, all the business houses are adopting all the inevitable methods and programs to intensify their productivity/ output by adopting new technologies and concepts. There are several technologies available and many in the developing phase, which effectively fulfil customers’ needs and generates high output.
-
-### [393. CI/CD Isn't Just About Efficiency](https://hackernoon.com/cicd-isnt-just-about-efficiency)
+### [392. CI/CD Isn't Just About Efficiency](https://hackernoon.com/cicd-isnt-just-about-efficiency)
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-g593pik.jpeg)
 I’d like to talk about something we don’t bring up quite as often.
 
 Put simply, CI/CD makes us happy.
 
-### [394. Velo How-To: On SEO For Router Pages](https://hackernoon.com/velo-how-to-on-seo-for-router-pages-gv1a34ka)
+### [393. Have you Used the Streams API in Java?](https://hackernoon.com/have-you-used-the-streams-api-in-java)
+![](https://cdn.hackernoon.com/images/u8zdoGfwxzbJbUMX8BISChIErgH2-2ob3n4c.jpeg)
+Introduction to streams API
+
+### [394. Know the Vitality of Mobile App Architecture](https://hackernoon.com/know-the-vitality-of-mobile-app-architecture-w3o32ml)
+![](https://cdn.hackernoon.com/images/r9123zry.jpg)
+The output is what measures the success of a business. Therefore, all the business houses are adopting all the inevitable methods and programs to intensify their productivity/ output by adopting new technologies and concepts. There are several technologies available and many in the developing phase, which effectively fulfil customers’ needs and generates high output.
+
+### [395. Velo How-To: On SEO For Router Pages](https://hackernoon.com/velo-how-to-on-seo-for-router-pages-gv1a34ka)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-4dn344k.png)
 SEO Settings for router pages vary slightly from the settings for regular pages. Learn about SEO for Wix pages here.
 
-### [395. MySQL FAQs](https://hackernoon.com/mysql-faqs-aw123tab)
+### [396. MySQL FAQs](https://hackernoon.com/mysql-faqs-aw123tab)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-bii3tgz.jpeg?alt=media&token=7f6e7e58-1be0-4992-897b-dd89ed5721f0)
 MySQL is an open-source relational database management system. As the
 name suggests, it is used to create, update, and store databases. It is based on SQL (Structured Query Language). So, today we will be checking out the 13 most asked questions on MySQL.
 
-### [396. Ruby Services Vs. Objects: The Battle for Decomposition and Reuse](https://hackernoon.com/ruby-services-vs-objects-the-battle-for-decomposition-and-reuse-9ux349y)
+### [397. Ruby Services Vs. Objects: The Battle for Decomposition and Reuse](https://hackernoon.com/ruby-services-vs-objects-the-battle-for-decomposition-and-reuse-9ux349y)
 ![](https://cdn.hackernoon.com/images/GNcPqSgJwFXt46mCNhVluDIR8hB3-gl4d29rb.jpeg)
 Frustrated with unorganized business logic in your Ruby-on-Rails app? Forget what you know about object-oriented design and start using services. 
-
-### [397. Exploring Differences Between Promises And Callbacks in JavaScript](https://hackernoon.com/exploring-differences-between-promises-and-callbacks-in-javascript-9m2a3uk0)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV6GevBI7I3VP0omAU8rjJeDJIxx2-ud1u3uos.jpeg?alt=media&token=cf5b52e0-0f60-48d1-9b4f-b1a7cf058101)
-You might have heard what a Promise is or what Callback functions are in JavaScript. Clarity is needed when distinguishing between these two functions more so, when working with APIs in JavaScript-based applications.
 
 ### [398. How To Use Velo Mixins ](https://hackernoon.com/how-to-use-velo-mixins-bqj34o9)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-ki1834g6.jpeg)
 A mixin is a class that exists solely to provide properties and functions to other classes. Using mixins, you can simulate inheritance between classes. 
 
 
-### [399. AWS Core Services: Major Serverless Tools That You Should Use](https://hackernoon.com/aws-core-services-major-serverless-tools-that-you-should-use-zk293ui2)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-l01v3uet.gif?alt=media&token=a4c62782-036b-4369-938e-2bbc469cc688)
-When first looking into serverless migration and its architecture, it can feel like you’re staring down an endless shopping aisle of critical serverless tools that all need to be put into your basket straight away. Some services seem to offer the same function, while others can feel wildly different - both, as a result, can instill some doubts as to what is really necessary for your business and serverless application.
+### [399. Exploring Differences Between Promises And Callbacks in JavaScript](https://hackernoon.com/exploring-differences-between-promises-and-callbacks-in-javascript-9m2a3uk0)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV6GevBI7I3VP0omAU8rjJeDJIxx2-ud1u3uos.jpeg?alt=media&token=cf5b52e0-0f60-48d1-9b4f-b1a7cf058101)
+You might have heard what a Promise is or what Callback functions are in JavaScript. Clarity is needed when distinguishing between these two functions more so, when working with APIs in JavaScript-based applications.
 
 ### [400. MySQL Errors Messages And Common Problems](https://hackernoon.com/mysql-errors-messages-and-common-problems-lm2631yv)
 ![](https://cdn.hackernoon.com/images/Grgs8fW6Q5WxmhfWelUFe1Tf4vo2-ya2j3eju.jpeg)
 Errors or mistakes are common in any aspects, especially in development. Using MySQL or any database can't guarantee you an error-free environment.
 
-### [401. How to Run DynamoDB Tables On A Budget](https://hackernoon.com/how-to-run-dynamodb-tables-on-a-budget-mj1k3u52)
+### [401. AWS Core Services: Major Serverless Tools That You Should Use](https://hackernoon.com/aws-core-services-major-serverless-tools-that-you-should-use-zk293ui2)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-l01v3uet.gif?alt=media&token=a4c62782-036b-4369-938e-2bbc469cc688)
+When first looking into serverless migration and its architecture, it can feel like you’re staring down an endless shopping aisle of critical serverless tools that all need to be put into your basket straight away. Some services seem to offer the same function, while others can feel wildly different - both, as a result, can instill some doubts as to what is really necessary for your business and serverless application.
+
+### [402. How to Run DynamoDB Tables On A Budget](https://hackernoon.com/how-to-run-dynamodb-tables-on-a-budget-mj1k3u52)
 ![](https://cdn.hackernoon.com/images/ed3r3woj.jpg)
 As we all know, the on-demand capacity mode of DynamoDB is great but can be cost-prohibitive in some cases (up to seven times more expensive than the Provisioned Capacity mode).
 
-### [402. How I Switched From My Traditional Career Path to a Tech-Savvy Software Developer](https://hackernoon.com/how-i-switched-from-my-traditional-career-path-to-a-tech-savvy-software-developer)
+### [403. How I Switched From My Traditional Career Path to a Tech-Savvy Software Developer](https://hackernoon.com/how-i-switched-from-my-traditional-career-path-to-a-tech-savvy-software-developer)
 ![](https://cdn.hackernoon.com/images/9VfF8rt6v7a6IKv9qJrQJp9xg7o1-cvd3pec.jpeg)
 Just a short story about how I switched my career path to software development.
-
-### [403. Using Workload Identity to Handle Keys in Google Kubernetes Engine](https://hackernoon.com/using-workload-identity-to-handle-keys-in-google-kubernetes-engine-9chz36aj)
-![](https://cdn.hackernoon.com/images/jl1q36jt.jpg)
-Workload identity is a modern way to provision keys for pods running on Google Kubernetes Engine. It allows individual pods to use a service account with a suitable set of permissions, without manually managing Kubernetes secrets. In this article, we will describe Workload identity, compare it to other approaches, and finally show a real world example on how to configure a Kubernetes cluster with Workload identity enabled.
 
 ### [404. Making Progress on My Site, Art & Culture](https://hackernoon.com/making-progress-on-my-site-art-and-culture)
 ![](https://cdn.hackernoon.com/images/h8CUcLVeeNXxFkkWzrmCaaMpjcS2-sl931gg.png)
@@ -1659,147 +1661,147 @@ I created Art & Culture, a digital gallery for global art lovers. This is my tec
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-jnb28xh.jpeg?alt=media&token=73ee40fa-6dc0-48fd-8d3b-3f6eb16f51be)
 A cryptographic hash function, also sometimes called a digest function, is a cryptographic primitive transforming a message of arbitrary size into a message of fixed size, called a digest. Cryptographic hash functions are used for authentication, digital signatures, and message authentication codes.
 
-### [406. How To Setup An Effective Refactoring Process of a Heavy Database Interface](https://hackernoon.com/how-to-setup-an-effective-refactoring-process-of-a-heavy-database-interface-9a123u0j)
+### [406. Using Workload Identity to Handle Keys in Google Kubernetes Engine](https://hackernoon.com/using-workload-identity-to-handle-keys-in-google-kubernetes-engine-9chz36aj)
+![](https://cdn.hackernoon.com/images/jl1q36jt.jpg)
+Workload identity is a modern way to provision keys for pods running on Google Kubernetes Engine. It allows individual pods to use a service account with a suitable set of permissions, without manually managing Kubernetes secrets. In this article, we will describe Workload identity, compare it to other approaches, and finally show a real world example on how to configure a Kubernetes cluster with Workload identity enabled.
+
+### [407. How To Setup An Effective Refactoring Process of a Heavy Database Interface](https://hackernoon.com/how-to-setup-an-effective-refactoring-process-of-a-heavy-database-interface-9a123u0j)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-ds3g3ujw.jpeg?alt=media&token=c736a685-8bc3-431b-9568-a0e9de924164)
 This story is about pain, agony, and denial of ready-made solutions. It is also about changes that improve the code’s readability and help the development team stay happy. The object of this post is an interface that helps a program communicate with a database.
-
-### [407. Getting Your Ruby on Rails Application Live On The Internet With Heroku [A How-To Guide]](https://hackernoon.com/getting-your-ruby-on-rails-application-live-on-the-internet-with-heroku-a-how-to-guide-xa2k3y32)
-![](https://cdn.hackernoon.com/drafts/rk103wde.png)
-As a back-end developer, the happy moment is to show your client that the work is now is live on the internet, everyone on the world can access the website. In this article, I will share my experience step by step to deploy your ruby on rails application on Heroku.
 
 ### [408. Rethinking Full-Stack Development: Is a Custom Backend the Best Choice?](https://hackernoon.com/rethinking-full-stack-development-is-a-custom-backend-the-best-choice)
 ![](https://cdn.hackernoon.com/images/iOKnuwYEXZaUvz5goZmkHGWwDAq2-c293t3u.jpeg)
 Explore traditional full-stack development, its limitations, and an alternative backend solution to enhance your custom-built applications.
 
-### [409. How to Build a Job Application Tracking System with Notion API, Node.js, and FastifyJS](https://hackernoon.com/automating-job-applications-tracking-with-notion-api-nodejs-and-fastifyjs-112735dv)
-![](https://cdn.hackernoon.com/images/iOKnuwYEXZaUvz5goZmkHGWwDAq2-dw9835e0.jpeg)
-Track your job applications with the new Notion API. Besides that, you also use Node.js and FastifyJS to create a REST API.
+### [409. Getting Your Ruby on Rails Application Live On The Internet With Heroku [A How-To Guide]](https://hackernoon.com/getting-your-ruby-on-rails-application-live-on-the-internet-with-heroku-a-how-to-guide-xa2k3y32)
+![](https://cdn.hackernoon.com/drafts/rk103wde.png)
+As a back-end developer, the happy moment is to show your client that the work is now is live on the internet, everyone on the world can access the website. In this article, I will share my experience step by step to deploy your ruby on rails application on Heroku.
 
-### [410. Glossary of Security Terms: CSRF](https://hackernoon.com/glossary-of-security-terms-csrf-uyf3u4q)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-2id28mu.jpeg?alt=media&token=00f89ae2-48e3-4a61-8013-3fdcba5888c3)
-CSRF (Cross-Site Request Forgery) is an attack that impersonates a trusted user and sends a website unwanted commands. This can be done, for example, by including malicious parameters in a URL behind a link that purports to go somewhere else:
-
-### [411. Serverless Benefits And Challenges: 2020 Edition](https://hackernoon.com/serverless-benefits-and-challenges-2020-edition-922t3une)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-5nd3uiy.jpeg?alt=media&token=8b11b3d1-8e66-4693-94d2-853bfadb5757)
-While we know the many benefits of going serverless - reduced costs via pay-per-use pricing models, less operational burden/overhead, instant scalability, increased automation - the challenges are often not addressed as comprehensively. The understandable concerns over migrating can stop any architectural decisions and actions being made for fear of getting it wrong and not having the right resources. This article discusses the common concerns around going serverless and our advice to minimise their impact.
-
-### [412. The Frontend is Gross: Why I've Always Preferred the Backend](https://hackernoon.com/the-frontend-is-gross-why-ive-always-preferred-the-backend)
+### [410. The Frontend is Gross: Why I've Always Preferred the Backend](https://hackernoon.com/the-frontend-is-gross-why-ive-always-preferred-the-backend)
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-xm93rds.jpeg)
 6 reasons why I prefer backend development to frontend development. 
 
-### [413. APIs Are Secretly Wrecking Your Website, and You Don’t Even Know It](https://hackernoon.com/apis-are-secretly-wrecking-your-website-and-you-dont-even-know-it)
+### [411. How to Build a Job Application Tracking System with Notion API, Node.js, and FastifyJS](https://hackernoon.com/automating-job-applications-tracking-with-notion-api-nodejs-and-fastifyjs-112735dv)
+![](https://cdn.hackernoon.com/images/iOKnuwYEXZaUvz5goZmkHGWwDAq2-dw9835e0.jpeg)
+Track your job applications with the new Notion API. Besides that, you also use Node.js and FastifyJS to create a REST API.
+
+### [412. Serverless Benefits And Challenges: 2020 Edition](https://hackernoon.com/serverless-benefits-and-challenges-2020-edition-922t3une)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-5nd3uiy.jpeg?alt=media&token=8b11b3d1-8e66-4693-94d2-853bfadb5757)
+While we know the many benefits of going serverless - reduced costs via pay-per-use pricing models, less operational burden/overhead, instant scalability, increased automation - the challenges are often not addressed as comprehensively. The understandable concerns over migrating can stop any architectural decisions and actions being made for fear of getting it wrong and not having the right resources. This article discusses the common concerns around going serverless and our advice to minimise their impact.
+
+### [413. Glossary of Security Terms: CSRF](https://hackernoon.com/glossary-of-security-terms-csrf-uyf3u4q)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-2id28mu.jpeg?alt=media&token=00f89ae2-48e3-4a61-8013-3fdcba5888c3)
+CSRF (Cross-Site Request Forgery) is an attack that impersonates a trusted user and sends a website unwanted commands. This can be done, for example, by including malicious parameters in a URL behind a link that purports to go somewhere else:
+
+### [414. The First-Person Sequel and Roda Insights from the Lead Dev: an Exclusive Interview with Jeremy Evan](https://hackernoon.com/the-first-person-sequel-and-roda-insights-from-the-lead-dev-an-exclusive-interview-with-jeremy-evan-ii15337b)
+![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-r51533aq.jpeg)
+Jeremy Evans is the lead developer of the Sequel database library, the Roda web toolkit, the Rodauth authentication framework, and many other Ruby libraries. He
+
+### [415. Why Type-Safe Testing is Crucial in Backends-for-Frontends ](https://hackernoon.com/why-type-safe-testing-is-crucial-in-backends-for-frontends)
+![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-ue93mjo.jpeg)
+As BFFs can aggregate and map downstream data however you like, from various sources, each with its own architecture, testing becomes more critical. 
+
+### [416. APIs Are Secretly Wrecking Your Website, and You Don’t Even Know It](https://hackernoon.com/apis-are-secretly-wrecking-your-website-and-you-dont-even-know-it)
 ![](https://cdn.hackernoon.com/images/Grv8aNhewDYVOXLb5L2xcjB54h32-zr035h6.jpeg)
 API can break the frontend if it sends unexpected data or returns an error in the response. 
 
-### [414. Glossary of Security Terms: Challenge-Response Authentication](https://hackernoon.com/glossary-of-security-terms-challenge-response-authentication-gcf3ua2)
+### [417. Glossary of Security Terms: Challenge-Response Authentication](https://hackernoon.com/glossary-of-security-terms-challenge-response-authentication-gcf3ua2)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-sid28vd.jpeg?alt=media&token=c879d1b1-5d88-4b44-b454-8b8319505191)
 In security protocols, a challenge is some data sent to the client by the server in order to generate a different response each time. Challenge-response protocols are one way to fight against replay attacks where an attacker listens to the previous messages and resends them at a later time to get the same credentials as the original message.
 
-### [415. Glossary of Security Terms: Block Cipher Mode of Operation](https://hackernoon.com/glossary-of-security-terms-block-cipher-mode-of-operation-3qg3u7k)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-sid28sz.jpeg?alt=media&token=ebdea6e7-f352-48f6-beea-a5d5b4af59a6)
-A block cipher mode of operation, usually just called a "mode" in context, specifies how a block cipher should be used to encrypt or decrypt messages that are longer than the block size.
+### [418. Registering a Domain in AWS Cloud](https://hackernoon.com/registering-a-domain-in-aws-cloud)
+![](https://cdn.hackernoon.com/images/rBaHyfXRkSNYQKqiYnAeO2os5v43-98f36v8.jpeg)
+Register a new domain name for your web application in AWS Cloud
 
-### [416. File Upload Security and Malware Protection: Everything You Need to Know](https://hackernoon.com/file-upload-security-and-malware-protection-everything-you-need-to-know)
+### [419. File Upload Security and Malware Protection: Everything You Need to Know](https://hackernoon.com/file-upload-security-and-malware-protection-everything-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-vg92b22.png)
 In this article, we implement several of the OWASP recommendations for file upload security. We also dive into malware scanning solutions.
 
 
-### [417. An Introduction To The GraphQL Editor v 4.5 ](https://hackernoon.com/an-introduction-to-the-graphql-editor-v-45-9l1733su)
+### [420. An Introduction To The GraphQL Editor v 4.5 ](https://hackernoon.com/an-introduction-to-the-graphql-editor-v-45-9l1733su)
 ![](https://cdn.hackernoon.com/images/Q9Ye8lX44HeXgiNJTqa5yvn0r2H2-ch1633ou.jpeg)
 GraphQL Editor new release
 
-### [418. Why Type-Safe Testing is Crucial in Backends-for-Frontends ](https://hackernoon.com/why-type-safe-testing-is-crucial-in-backends-for-frontends)
-![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-ue93mjo.jpeg)
-As BFFs can aggregate and map downstream data however you like, from various sources, each with its own architecture, testing becomes more critical. 
+### [421. Glossary of Security Terms: Block Cipher Mode of Operation](https://hackernoon.com/glossary-of-security-terms-block-cipher-mode-of-operation-3qg3u7k)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-sid28sz.jpeg?alt=media&token=ebdea6e7-f352-48f6-beea-a5d5b4af59a6)
+A block cipher mode of operation, usually just called a "mode" in context, specifies how a block cipher should be used to encrypt or decrypt messages that are longer than the block size.
 
-### [419. Backend-Powered Styles for Your User Interface ](https://hackernoon.com/backend-powered-styles-for-your-user-interface)
+### [422. Backend-Powered Styles for Your User Interface ](https://hackernoon.com/backend-powered-styles-for-your-user-interface)
 ![](https://cdn.hackernoon.com/images/UFEEcIqHcqP6lvUySxLp5yEcvBD2-7992ipq.jpeg)
 Explore the art of harnessing backend-powered styles for your user interface, using Angular as a framework of reference.
 
-### [420. Spending Weekend with GraphQL](https://hackernoon.com/spending-weekend-with-graphql-yk6c3y13)
+### [423. Spending Weekend with GraphQL](https://hackernoon.com/spending-weekend-with-graphql-yk6c3y13)
 ![](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Have you ever experienced an itch you just can’t scratch? If yes, then you will feel my pain. A few days back, everything was fine, I was happily writing code(!) and doing standup meetings regularly. Just before the weekend, my boss called me and shared this problem with me.
 
-### [421. The First-Person Sequel and Roda Insights from the Lead Dev: an Exclusive Interview with Jeremy Evan](https://hackernoon.com/the-first-person-sequel-and-roda-insights-from-the-lead-dev-an-exclusive-interview-with-jeremy-evan-ii15337b)
-![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-r51533aq.jpeg)
-Jeremy Evans is the lead developer of the Sequel database library, the Roda web toolkit, the Rodauth authentication framework, and many other Ruby libraries. He
-
-### [422. MySQL Single Leader Replication with Node.js and Docker  ](https://hackernoon.com/mysql-single-leader-replication-with-nodejs-and-docker)
+### [424. MySQL Single Leader Replication with Node.js and Docker  ](https://hackernoon.com/mysql-single-leader-replication-with-nodejs-and-docker)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ax0209m.jpeg)
 How to set up MySQL single-leader replication on your local machine using Docker. 
 
-### [423. Going Beyond Spring: Exploring Vert.x for Reactive Java Development](https://hackernoon.com/going-beyond-spring-exploring-vertx-for-reactive-java-development)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-s1823gb.jpeg)
-Eclipse Vert.x vs Spring WebFlux a practical Java comparison of event-loop architecture, performance, and reactive programming with real code examples.
-
-### [424. Registering a Domain in AWS Cloud](https://hackernoon.com/registering-a-domain-in-aws-cloud)
-![](https://cdn.hackernoon.com/images/rBaHyfXRkSNYQKqiYnAeO2os5v43-98f36v8.jpeg)
-Register a new domain name for your web application in AWS Cloud
-
-### [425. Glossary of Security Terms: Hash](https://hackernoon.com/glossary-of-security-terms-hash-tph3ulr)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-tid289h.jpeg?alt=media&token=9a746caf-458b-488f-86ba-ff165436ca0e)
-The hash function takes a variable length message input and produces a fixed-length hash output. It is commonly in the form of a 128-bit "fingerprint" or "message digest". Hashes are very useful for cryptography — they insure the integrity of transmitted data. This provides the basis for HMAC's, which provide message authentication.
-
-### [426. How to Speed Up Performance by Reducing Latency: A CDN Guide](https://hackernoon.com/how-to-speed-up-performance-by-reducing-latency-a-cdn-guide)
+### [425. How to Speed Up Performance by Reducing Latency: A CDN Guide](https://hackernoon.com/how-to-speed-up-performance-by-reducing-latency-a-cdn-guide)
 ![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-uy92cro.png)
 This post covers what CDNs are, how they work, and why you need one. I also show you how to connect Akamai CDN to Object Storage.
 
 
-### [427. Production Horror Story: How My Startup (Almost) Went Bankrupt ](https://hackernoon.com/production-horror-story-how-my-startup-almost-went-bankrupt)
-![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-8402fan.jpeg)
-Just in time for Halloween failures in production are scarier than most movie monsters. Here's a personal scary story of a production fail.
-
-### [428. Glossary of Security Terms: Cipher Suite](https://hackernoon.com/glossary-of-security-terms-cipher-suite-fof3u3d)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-5id28gg.jpeg?alt=media&token=6330d77d-6e6d-44e7-80df-76ff31eb4da1)
-A cipher suite is a combination of a key exchange algorithm, authentication method, bulk encryption cipher, and message authentication code.
-
-### [429. Glossary of Security Terms: CORS-Safelisted Response Header](https://hackernoon.com/glossary-of-security-terms-cors-safelisted-response-header-pnf3usi)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-d9c28cp.jpeg?alt=media&token=d7c5b4d1-f5c9-43fc-bc8a-fb82f363b283)
-A CORS-safelisted response header is an HTTP header which has been safelisted so that it will not be filtered when responses are processed by CORS, since they're considered safe (as the headers listed in Access-Control-Expose-Headers). By default, the safelist includes the following response headers:
-
-### [430. Velo Keyboard Shortcuts: Main IDE and File Search Key Combinations ](https://hackernoon.com/velo-keyboard-shortcuts-main-ide-and-file-search-key-combinations-q91e33hd)
-![](https://cdn.hackernoon.com/images/HzWefNlq2pZkZcUGS9ud2aXzUkd2-rzwo3z8j.jpeg)
-IDE and File Search Key Combinations 
-
-### [431. Introducing Yet Another JWT Debugger](https://hackernoon.com/introducing-yet-another-jwt-debugger-ba6h3wy5)
-![](https://cdn.hackernoon.com/drafts/zaa63wi9.png)
-Introducing a new JWT Debugger App - our way to contribute back to the developer community. The app is available on the web and as Desktop apps for Windows, Linux, and Mac. With JWT Debugger App we immediately highlight what really matters to you as a developer without any shenanigans. It is a very simple tool but we hope it will improve the developer experience. 
-
-### [432. Comparing Different Serverless Monitoring Platforms](https://hackernoon.com/comparing-different-serverless-monitoring-platforms-ms1u3u7y)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-qvu3unf.gif?alt=media&token=37d9dfa7-41a6-43e0-a4e1-55a166acdc88)
-Technology touches almost every corner of the world economy. Even when it’s an indirect relation, in many cases tech is an essential, vital part of our societies. It just can’t fail without causing too much distress and losses. Not only financially, but especially to the human aspect.
-
-### [433. Active Record Validations In Rails: How They Work](https://hackernoon.com/active-record-validations-in-rails-how-they-work-e32i34ef)
+### [426. Active Record Validations In Rails: How They Work](https://hackernoon.com/active-record-validations-in-rails-how-they-work-e32i34ef)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-fj2a346s.jpeg)
 ver open up a Rails console to debug a problem and come away wondering how the data got so funky? Despite our best efforts the database will accept plenty of garbage data if you let it. There are tons of methods to bypass the Rails callbacks and validations while still updating your database. If you are like me you have probably used these methods in the Rails console to fix some of that funky data you found after some other code created it in the first place.
 
-### [434. How A Real-Time Voice Chat API Helps You Make Dramatic Changes In Your Business](https://hackernoon.com/how-a-real-time-voice-chat-api-helps-you-make-dramatic-changes-in-your-business-8315333p)
+### [427. Glossary of Security Terms: Hash](https://hackernoon.com/glossary-of-security-terms-hash-tph3ulr)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-tid289h.jpeg?alt=media&token=9a746caf-458b-488f-86ba-ff165436ca0e)
+The hash function takes a variable length message input and produces a fixed-length hash output. It is commonly in the form of a 128-bit "fingerprint" or "message digest". Hashes are very useful for cryptography — they insure the integrity of transmitted data. This provides the basis for HMAC's, which provide message authentication.
+
+### [428. Velo Keyboard Shortcuts: Main IDE and File Search Key Combinations ](https://hackernoon.com/velo-keyboard-shortcuts-main-ide-and-file-search-key-combinations-q91e33hd)
+![](https://cdn.hackernoon.com/images/HzWefNlq2pZkZcUGS9ud2aXzUkd2-rzwo3z8j.jpeg)
+IDE and File Search Key Combinations 
+
+### [429. Glossary of Security Terms: Cipher Suite](https://hackernoon.com/glossary-of-security-terms-cipher-suite-fof3u3d)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-5id28gg.jpeg?alt=media&token=6330d77d-6e6d-44e7-80df-76ff31eb4da1)
+A cipher suite is a combination of a key exchange algorithm, authentication method, bulk encryption cipher, and message authentication code.
+
+### [430. Production Horror Story: How My Startup (Almost) Went Bankrupt ](https://hackernoon.com/production-horror-story-how-my-startup-almost-went-bankrupt)
+![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-8402fan.jpeg)
+Just in time for Halloween failures in production are scarier than most movie monsters. Here's a personal scary story of a production fail.
+
+### [431. Comparing Different Serverless Monitoring Platforms](https://hackernoon.com/comparing-different-serverless-monitoring-platforms-ms1u3u7y)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-qvu3unf.gif?alt=media&token=37d9dfa7-41a6-43e0-a4e1-55a166acdc88)
+Technology touches almost every corner of the world economy. Even when it’s an indirect relation, in many cases tech is an essential, vital part of our societies. It just can’t fail without causing too much distress and losses. Not only financially, but especially to the human aspect.
+
+### [432. Glossary of Security Terms: CORS-Safelisted Response Header](https://hackernoon.com/glossary-of-security-terms-cors-safelisted-response-header-pnf3usi)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-d9c28cp.jpeg?alt=media&token=d7c5b4d1-f5c9-43fc-bc8a-fb82f363b283)
+A CORS-safelisted response header is an HTTP header which has been safelisted so that it will not be filtered when responses are processed by CORS, since they're considered safe (as the headers listed in Access-Control-Expose-Headers). By default, the safelist includes the following response headers:
+
+### [433. How A Real-Time Voice Chat API Helps You Make Dramatic Changes In Your Business](https://hackernoon.com/how-a-real-time-voice-chat-api-helps-you-make-dramatic-changes-in-your-business-8315333p)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-ylj33or.jpeg)
 Real-time communication is the vigorous pillar when it’s about businesses in recent days. This Blog helps to identify the best Voice Call APP.
 
-### [435. Secret Tecniques To Improve Dependency Resolution On App Class Loader](https://hackernoon.com/secret-tecniques-to-improve-dependency-resolution-on-app-class-loader-eqo3wi2)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F82dYFuavVVh4WYKNKyjj4OBt0cf1-t21k3w0k.jpeg?alt=media&token=875759c5-52eb-473a-b262-71fc42456a14)
-Recently I had the need to change certain classes -from external dependencies- loaded on a Spring Boot application. All this happened in a very restrictive environment, where I was not allowed to use other libraries or tweak the JRE, it was only possible to modify the fat JAR and environment variables or system properties.
+### [434. Introducing Yet Another JWT Debugger](https://hackernoon.com/introducing-yet-another-jwt-debugger-ba6h3wy5)
+![](https://cdn.hackernoon.com/drafts/zaa63wi9.png)
+Introducing a new JWT Debugger App - our way to contribute back to the developer community. The app is available on the web and as Desktop apps for Windows, Linux, and Mac. With JWT Debugger App we immediately highlight what really matters to you as a developer without any shenanigans. It is a very simple tool but we hope it will improve the developer experience. 
+
+### [435. Your Django Site Can Get Banned for Ad Fraud You Didn’t Commit](https://hackernoon.com/your-django-site-can-get-banned-for-ad-fraud-you-didnt-commit)
+![](https://cdn.hackernoon.com/images/ba4rLX7JElaDPxKSilJGsb1NTn33-3y03dik.png)
+A real case where abnormal ad impression patterns on a Django site nearly caused an ad network ban — and the application-level mitigation that reduced the risk.
 
 ### [436. Glossary of Security Terms: HMAC](https://hackernoon.com/glossary-of-security-terms-hmac-roh3uc6)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-mvd28a6.jpeg?alt=media&token=2041f9c6-985b-4efd-8913-817d665bf45b)
 HMAC is a protocol used for cryptographically authenticating messages. It can use any kind of cryptographic functions, and its strengh depends on the underlying function (SHA1 or MD5 for instance), and the chosen secret key. With such a combination, the HMAC verification algorithm is then known with a compound name such as HMAC-SHA1.
 
-### [437. Glossary of Security Terms: Cross-Site Scripting](https://hackernoon.com/glossary-of-security-terms-cross-site-scripting-ncg3u6x)
+### [437. Secret Tecniques To Improve Dependency Resolution On App Class Loader](https://hackernoon.com/secret-tecniques-to-improve-dependency-resolution-on-app-class-loader-eqo3wi2)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F82dYFuavVVh4WYKNKyjj4OBt0cf1-t21k3w0k.jpeg?alt=media&token=875759c5-52eb-473a-b262-71fc42456a14)
+Recently I had the need to change certain classes -from external dependencies- loaded on a Spring Boot application. All this happened in a very restrictive environment, where I was not allowed to use other libraries or tweak the JRE, it was only possible to modify the fat JAR and environment variables or system properties.
+
+### [438. Glossary of Security Terms: Cross-Site Scripting](https://hackernoon.com/glossary-of-security-terms-cross-site-scripting-ncg3u6x)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-3yd2819.jpeg?alt=media&token=38c80037-d7f2-4244-bfd1-e245116355fc)
 Cross-site scripting (XSS) is a security exploit which allows an attacker to inject into a website malicious client-side code. This code is executed by the victims and lets the attackers bypass access controls and impersonate users. According to the Open Web Application Security Project, XSS was the seventh most common Web app vulnerability in 2017.
 
-### [438. Your Django Site Can Get Banned for Ad Fraud You Didn’t Commit](https://hackernoon.com/your-django-site-can-get-banned-for-ad-fraud-you-didnt-commit)
-![](https://cdn.hackernoon.com/images/ba4rLX7JElaDPxKSilJGsb1NTn33-3y03dik.png)
-A real case where abnormal ad impression patterns on a Django site nearly caused an ad network ban — and the application-level mitigation that reduced the risk.
-
-### [439. How To Test A Controller in Ruby On Rails](https://hackernoon.com/how-to-test-a-controller-in-ruby-on-rails-0e283ua6)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-0s114xc4.jpeg?alt=media&token=2871e54b-9071-4548-a678-54d255dabfeb)
-In this section, I am going to write test code. Here we"ll discuss a little bit philosophy of testing but more writing tests.
-
-### [440. How the Parts Fit Together in Web Development: A Guide for Beginners](https://hackernoon.com/how-the-parts-fit-together-in-web-development-a-guide-for-beginners)
+### [439. How the Parts Fit Together in Web Development: A Guide for Beginners](https://hackernoon.com/how-the-parts-fit-together-in-web-development-a-guide-for-beginners)
 ![](https://cdn.hackernoon.com/images/4M1v4uN1ptWKawlFypubbTs7up73-er93ird.jpeg)
 Web development includes client-side scripting, server-side scripting, server and network security setup, e-commerce development, and content management system 
+
+### [440. How To Test A Controller in Ruby On Rails](https://hackernoon.com/how-to-test-a-controller-in-ruby-on-rails-0e283ua6)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-0s114xc4.jpeg?alt=media&token=2871e54b-9071-4548-a678-54d255dabfeb)
+In this section, I am going to write test code. Here we"ll discuss a little bit philosophy of testing but more writing tests.
 
 ### [441. How to Build an MVC App On Rails](https://hackernoon.com/how-to-build-an-mvc-app-on-rails-l61k33so)
 ![](https://cdn.hackernoon.com/images/1mPqyosK7TOSe5cJkVYBak7T2ho1-3yk321k.jpeg)
@@ -1809,65 +1811,65 @@ MVC In Ruby On Rails.
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-a4d28os.jpeg?alt=media&token=118ddc23-ac57-4495-9985-051c6b3b9fa1)
 In cryptography, decryption is the conversion of ciphertext into cleartext.
 
-### [443. The Noonification: Web3 hiring culture. What can we improve? (6/22/2024)](https://hackernoon.com/6-22-2024-noonification)
-![](https://cdn.hackernoon.com/images/noonification_656_gm07z26xltfntui735js2v6j.png)
-6/22/2024: Top 5 stories on the HackerNoon homepage!
-
-### [444. Glossary of Security Terms: HSTS](https://hackernoon.com/glossary-of-security-terms-hsts-97h3u8b)
+### [443. Glossary of Security Terms: HSTS](https://hackernoon.com/glossary-of-security-terms-hsts-97h3u8b)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-02g28gf.jpeg?alt=media&token=b56fac8a-7eee-4ac2-8616-4226d454fc97)
 HTTP Strict Transport Security lets a web site inform the browser that it should never load the site using HTTP and should automatically convert all attempts to access the site using HTTP to HTTPS requests instead. It consists in one HTTP header, Strict-Transport-Security, sent by the server with the resource.
 
-### [445. Glossary of Security Terms: Cryptanalysis](https://hackernoon.com/glossary-of-security-terms-cryptanalysis-woh3u99)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-1tc282r.jpeg?alt=media&token=97ab34ef-5078-4839-9b21-fa8e1c7036fe)
-Cryptanalysis is the branch of cryptography that studies how to break codes and cryptosystems. Cryptanalysis creates techniques to break ciphers, in particular by methods more efficient than a brute-force search. In addition to traditional methods like frequency analysis and index of coincidence, cryptanalysis includes more recent methods, like linear cryptanalysis or differential cryptanalysis, that can break more advanced ciphers.
+### [444. The Noonification: Web3 hiring culture. What can we improve? (6/22/2024)](https://hackernoon.com/6-22-2024-noonification)
+![](https://cdn.hackernoon.com/images/noonification_656_gm07z26xltfntui735js2v6j.png)
+6/22/2024: Top 5 stories on the HackerNoon homepage!
 
-### [446. Instance Comparison Chart: Find The Right AWS EC2 Instance](https://hackernoon.com/instance-comparison-chart-find-the-right-aws-ec2-instance-u97y3yq3)
+### [445. Instance Comparison Chart: Find The Right AWS EC2 Instance](https://hackernoon.com/instance-comparison-chart-find-the-right-aws-ec2-instance-u97y3yq3)
 ![](https://cdn.hackernoon.com/images/yn7s3ycy.jpg)
 So you’ve decided to choose AWS as the primary provider of your cloud service and now you’re looking into setting up your environment. You’ve got your project to be deployed and all you have left to do is choose an AWS instance that will run your machine image. But now, like many others before you, you are stumped by the countless choices of EC2 instances out there.
 
-### [447. Glossary of Security Terms: MitM](https://hackernoon.com/glossary-of-security-terms-mitm-qtg3urf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-e9d28du.jpeg?alt=media&token=1afac11d-d908-4c8c-a61a-70134bebbb58)
-A Man-in-the-middle attack (MitM) intercepts a communication between two systems. For example, a Wi-Fi router can be compromised.
+### [446. Glossary of Security Terms: Cryptanalysis](https://hackernoon.com/glossary-of-security-terms-cryptanalysis-woh3u99)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-1tc282r.jpeg?alt=media&token=97ab34ef-5078-4839-9b21-fa8e1c7036fe)
+Cryptanalysis is the branch of cryptography that studies how to break codes and cryptosystems. Cryptanalysis creates techniques to break ciphers, in particular by methods more efficient than a brute-force search. In addition to traditional methods like frequency analysis and index of coincidence, cryptanalysis includes more recent methods, like linear cryptanalysis or differential cryptanalysis, that can break more advanced ciphers.
 
-### [448. Glossary of Security Terms: Cipher](https://hackernoon.com/glossary-of-security-terms-cipher-s4f3u7d)
+### [447. Glossary of Security Terms: Cipher](https://hackernoon.com/glossary-of-security-terms-cipher-s4f3u7d)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-t6d28q4.jpeg?alt=media&token=6705e20f-db62-41b7-aa17-7b07b0e7fa91)
 In cryptography, a cipher is an algorithm that can encode cleartext to make it unreadable, and to decode it back.
+
+### [448. Glossary of Security Terms: MitM](https://hackernoon.com/glossary-of-security-terms-mitm-qtg3urf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-e9d28du.jpeg?alt=media&token=1afac11d-d908-4c8c-a61a-70134bebbb58)
+A Man-in-the-middle attack (MitM) intercepts a communication between two systems. For example, a Wi-Fi router can be compromised.
 
 ### [449. The Ultimate Guide To Custom Role Based Access Without Third Party Libraries](https://hackernoon.com/the-ultimate-guide-to-custom-role-based-access-without-third-party-libraries-pt1031mx)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-3f1528g9.jpeg?alt=media&token=c26db394-dff8-41d4-81f1-7bcabb8a2038)
 Here, we have four roles: Sme, Sponsor, Admin, Operations.Initially, we had only 3 roles.Operations role was added later and Operations user has permissions similar to the Admin user.In the code, we had to replace every instance of if (user.type == USER_TYPES.ADMIN) with if (user.type == USER_TYPES.ADMIN || user.type == USER_TYPES.OPERATIONS).As this is time consuming and we can also miss many instances, we have created a roles module. In the roles module,the roles are defined along with their respective permissions as seen in Code (Part-III). Based on the permissions for each role, we will evaluate the authorization for the user in each of our controller methods.If the user has access, only then he will be granted the resources.
 
-### [450. Glossary of Security Terms: Ciphertext](https://hackernoon.com/glossary-of-security-terms-ciphertext-c3f3u2p)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-62h28jm.jpeg?alt=media&token=3155da36-2ce0-4dbc-ad5c-1339b3832728)
-In cryptography, a ciphertext is a scrambled message that conveys information but is not legible unless decrypted with the right cipher and the right secret (usually a key), reproducing the original cleartext. A ciphertext's security, and therefore the secrecy of the contained information, depends on using a secure cipher and keeping the key secret.
-
-### [451. Velo How-To: Assigning Permissions For Web Modules](https://hackernoon.com/velo-how-to-assigning-permissions-for-web-modules-bp1s34mt)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-jo1534ig.jpeg)
-Note: You should have already learned about Web Modules before reading this article.
-
-### [452. Glossary of Security Terms: Datagram Transport Layer Security](https://hackernoon.com/glossary-of-security-terms-datagram-transport-layer-security-qxi3u34)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-2wh28o7.jpeg?alt=media&token=8cda36e3-b97b-4d66-be2f-9a84498f697f)
-Datagram Transport Layer Security (DTLS) is a protocol used to secure datagram-based communications. It's based on the stream-focused Transport Layer Security (TLS), providing a similar level of security. As a datagram protocol, DTLS doesn't guarantee the order of message delivery, or even that messages will be delivered at all. However, DTLS gains the benefits of datagram protocols, too; in particular, the lower overhead and reduced latency.
-
-### [453. I Replaced ResponseEntity<Any> with Sealed Interfaces—My Tests Finally Make Sense](https://hackernoon.com/i-replaced-responseentitylessanygreater-with-sealed-interfacesmy-tests-finally-make-sense)
+### [450. I Replaced ResponseEntity<Any> with Sealed Interfaces—My Tests Finally Make Sense](https://hackernoon.com/i-replaced-responseentitylessanygreater-with-sealed-interfacesmy-tests-finally-make-sense)
 ![](https://cdn.hackernoon.com/images/rcB8Mm3bjPP7Q6vcfU8FYlvDNoV2-8g039ck.png)
 ResponseEntity<Any> breaks type safety, complicates documentation, and hinders testing.
 
-### [454. Glossary of Security Terms: HPKP](https://hackernoon.com/glossary-of-security-terms-hpkp-m4h3uv6)
+### [451. Glossary of Security Terms: Datagram Transport Layer Security](https://hackernoon.com/glossary-of-security-terms-datagram-transport-layer-security-qxi3u34)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-2wh28o7.jpeg?alt=media&token=8cda36e3-b97b-4d66-be2f-9a84498f697f)
+Datagram Transport Layer Security (DTLS) is a protocol used to secure datagram-based communications. It's based on the stream-focused Transport Layer Security (TLS), providing a similar level of security. As a datagram protocol, DTLS doesn't guarantee the order of message delivery, or even that messages will be delivered at all. However, DTLS gains the benefits of datagram protocols, too; in particular, the lower overhead and reduced latency.
+
+### [452. Velo How-To: Assigning Permissions For Web Modules](https://hackernoon.com/velo-how-to-assigning-permissions-for-web-modules-bp1s34mt)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-jo1534ig.jpeg)
+Note: You should have already learned about Web Modules before reading this article.
+
+### [453. Glossary of Security Terms: Ciphertext](https://hackernoon.com/glossary-of-security-terms-ciphertext-c3f3u2p)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-62h28jm.jpeg?alt=media&token=3155da36-2ce0-4dbc-ad5c-1339b3832728)
+In cryptography, a ciphertext is a scrambled message that conveys information but is not legible unless decrypted with the right cipher and the right secret (usually a key), reproducing the original cleartext. A ciphertext's security, and therefore the secrecy of the contained information, depends on using a secure cipher and keeping the key secret.
+
+### [454. Velo Properties Panel In-Depth: Descriptions of the Most Essential 5 Properties](https://hackernoon.com/velo-properties-panel-in-depth-descriptions-of-the-most-essential-5-properties-1f1t33lx)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-xei33nd.jpeg)
+See what the Properties and Events panel looks like here
+
+### [455. Glossary of Security Terms: HPKP](https://hackernoon.com/glossary-of-security-terms-hpkp-m4h3uv6)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-v7d286z.jpeg?alt=media&token=e47a0802-57da-4180-b0de-8e57d0dcd661)
 HTTP Public Key Pinning (HPKP) is a security feature that tells a web client to associate a specific cryptographic public key with a certain web server to decrease the risk of MITM attacks with forged certificates.
 
-### [455. Glossary of Security Terms: Digital Сertificate](https://hackernoon.com/glossary-of-security-terms-digital-sertificate-xeh3urt)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-mtf28cz.jpeg?alt=media&token=6ce7b21e-8944-49c6-825c-4532a29431d8)
-A digital certificate is a data file that binds a publicly known cryptographic key to an organization. A digital certificate contains information about an organization, such as the common name (e.g., mozilla.org), the organization unit (e.g., Mozilla Corporation), and the location (e.g., Mountain View). 
+### [456. Creating and Debugging Website Routers ](https://hackernoon.com/creating-and-debugging-website-routers-hh1g34aj)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-411a34be.jpeg)
+Creating a router allows you to take complete control when handling certain incoming requests to your site.
 
-### [456. Glossary of Security Terms: CSP](https://hackernoon.com/glossary-of-security-terms-csp-axf3udu)
+### [457. Glossary of Security Terms: CSP](https://hackernoon.com/glossary-of-security-terms-csp-axf3udu)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-gld28mi.jpeg?alt=media&token=669843cd-b66a-49af-8f75-bf931d18fa43)
 A CSP (Content Security Policy) is used to detect and mitigate certain types of website related attacks like XSS and data injections.
-
-### [457. Velo Properties Panel In-Depth: Descriptions of the Most Essential 5 Properties](https://hackernoon.com/velo-properties-panel-in-depth-descriptions-of-the-most-essential-5-properties-1f1t33lx)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-xei33nd.jpeg)
-See what the Properties and Events panel looks like here
 
 ### [458. Glossary of Security Terms: Encryption](https://hackernoon.com/glossary-of-security-terms-encryption-l8x3tab)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-4zb28ph.jpeg?alt=media&token=7a8d24b9-04aa-44ea-99f0-f364d1ac37d8)
@@ -1877,38 +1879,38 @@ In cryptography, encryption is the conversion of cleartext into a coded text or
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-msd283e.jpeg?alt=media&token=37a6ca2f-4ace-436c-bc45-8e0d63ec9f86)
  A forbidden response header name is an HTTP header name (either `Set-Cookie` or `Set-Cookie2`) that cannot be modified programmatically.
 
-### [460. Stream File Uploads to S3 Object Storage and Save Money](https://hackernoon.com/stream-file-uploads-to-s3-object-storage-and-save-money)
+### [460. Glossary of Security Terms: Digital Сertificate](https://hackernoon.com/glossary-of-security-terms-digital-sertificate-xeh3urt)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-mtf28cz.jpeg?alt=media&token=6ce7b21e-8944-49c6-825c-4532a29431d8)
+A digital certificate is a data file that binds a publicly known cryptographic key to an organization. A digital certificate contains information about an organization, such as the common name (e.g., mozilla.org), the organization unit (e.g., Mozilla Corporation), and the location (e.g., Mountain View). 
+
+### [461. Firecrawl Part 2: This Confidence Gate Decides When Bing Gets a Vote - How It Works](https://hackernoon.com/firecrawl-part-2-this-confidence-gate-decides-when-bing-gets-a-vote-how-it-works)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-8y83e2q.png)
+My enrichment pipeline shipped "Unknown" as a company name—silently. The fix: a confidence gate that checks usable fields, not return codes.
+
+### [462. Stream File Uploads to S3 Object Storage and Save Money](https://hackernoon.com/stream-file-uploads-to-s3-object-storage-and-save-money)
 ![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-tt92d67.png)
 Learn how to upload files directly to S3-compatible Object Storage from your Node application to improve availability and reduce costs.
 
 
-### [461. Creating and Debugging Website Routers ](https://hackernoon.com/creating-and-debugging-website-routers-hh1g34aj)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-411a34be.jpeg)
-Creating a router allows you to take complete control when handling certain incoming requests to your site.
-
-### [462. Refi App Allows Devs to Get Through 4 Firestore Issues at Once: Learn More](https://hackernoon.com/refi-app-allows-devs-to-get-through-4-firestore-issues-at-once-learn-more-thw334j)
+### [463. Refi App Allows Devs to Get Through 4 Firestore Issues at Once: Learn More](https://hackernoon.com/refi-app-allows-devs-to-get-through-4-firestore-issues-at-once-learn-more-thw334j)
 ![](https://cdn.hackernoon.com/images/noz7t4z89wVsgU4IFZNeqzaO2kv2-fl5339c8.png)
 Refi App - A tool to make developer less painful when interacting with Firestore DB
-
-### [463. How To Create an AWS S3 Bucket](https://hackernoon.com/how-to-create-an-aws-s3-bucket-zr183u37)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUBNPKUBqvuM01nn4wJOVA8byi8l2-qb14d2uvb.jpeg?alt=media&token=0b33634f-690c-4d90-9b2e-f4aec6513342)
-What's AWS S3? 
 
 ### [464. Glossary of Security Terms: HTTPS](https://hackernoon.com/glossary-of-security-terms-https-qbh3uzq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-1ed28gp.jpeg?alt=media&token=f1b9e7cd-0243-4246-9f9b-7bd9f0f36774)
 HTTPS (HyperText Transfer Protocol Secure) is an encrypted version of the HTTP protocol. It uses SSL or TLS to encrypt all communication between a client and a server. This secure connection allows clients to safely exchange sensitive data with a server, such as when performing banking activities or online shopping.
 
-### [465. C# Sorting - A Minor Error](https://hackernoon.com/c-sorting-a-minor-error-851333rs)
-![](https://cdn.hackernoon.com/images/sHlS9kz5JWgDC6Irc6Iw1ZTwUGE2-vl3233c8.jpeg)
-Is it true that the inverse of a negative number is always a positive number? If you think it's true, you might get a subtle error while implementing comparison
+### [465. How To Create an AWS S3 Bucket](https://hackernoon.com/how-to-create-an-aws-s3-bucket-zr183u37)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUBNPKUBqvuM01nn4wJOVA8byi8l2-qb14d2uvb.jpeg?alt=media&token=0b33634f-690c-4d90-9b2e-f4aec6513342)
+What's AWS S3? 
 
 ### [466. PostgreSQL Couldn’t Handle Our Time-Series Data—TimescaleDB Crushed It](https://hackernoon.com/postgresql-couldnt-handle-our-time-series-datatimescaledb-crushed-it)
 ![](https://cdn.hackernoon.com/images/zOzxrUxPBDeR1tdipIk3ZNUh6qG3-uo03ae8.png)
 Learn how TimescaleDB's compression features reduced storage needs by 83% while maintaining query performance.
 
-### [467. Firecrawl Part 2: This Confidence Gate Decides When Bing Gets a Vote - How It Works](https://hackernoon.com/firecrawl-part-2-this-confidence-gate-decides-when-bing-gets-a-vote-how-it-works)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-8y83e2q.png)
-My enrichment pipeline shipped "Unknown" as a company name—silently. The fix: a confidence gate that checks usable fields, not return codes.
+### [467. C# Sorting - A Minor Error](https://hackernoon.com/c-sorting-a-minor-error-851333rs)
+![](https://cdn.hackernoon.com/images/sHlS9kz5JWgDC6Irc6Iw1ZTwUGE2-vl3233c8.jpeg)
+Is it true that the inverse of a negative number is always a positive number? If you think it's true, you might get a subtle error while implementing comparison
 
 ### [468. What Makes The Teeing Method In The Java API So Cool](https://hackernoon.com/what-makes-the-teeing-method-in-the-java-api-so-cool-wjj349u)
 ![](https://hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-qr6r26ik.jpeg)
@@ -1918,35 +1920,39 @@ Last week, I described a use-case for a custom Stream Collector. I received a in
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPpYbbOApcoT249C1okeO6P5loPR2-yad28r2.jpeg?alt=media&token=49f73be7-3ea7-497f-aa7b-619087b2c518)
 A key is a piece of information used by a cipher for encryption and/or decryption. Encrypted messages should remain secure even if everything about the cryptosystem, except for the key, is public knowledge.
 
-### [470. Understanding the Essential Elements of an End-to-End Setup](https://hackernoon.com/understanding-the-essential-elements-of-an-end-to-end-setup)
+### [470. Why Distributed Systems Rarely Live at Pure CP or AP](https://hackernoon.com/why-distributed-systems-rarely-live-at-pure-cp-or-ap)
+![](https://cdn.hackernoon.com/images/yE0A1CFa8ZTrQCrf5pzws36wxGn2-y0821ev.png)
+Learn why CAP Theorem is not a binary choice, how PACELC fills the gap, and how real systems balance consistency, availability, and latency.
+
+### [471. Understanding the Essential Elements of an End-to-End Setup](https://hackernoon.com/understanding-the-essential-elements-of-an-end-to-end-setup)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-3v93lck.jpeg)
 In this article, I’ll walk you through all the necessary pieces of a successful E2E setup.
 
-### [471. Successful Cost Optimization on AWS: Best Practices](https://hackernoon.com/successful-cost-optimization-on-aws-best-practices-wo1f3tj3)
+### [472. Successful Cost Optimization on AWS: Best Practices](https://hackernoon.com/successful-cost-optimization-on-aws-best-practices-wo1f3tj3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FofsLJCGsEyP2OZO2GUpOWi8KhEG3-g5h3udw.jpeg?alt=media&token=dd716865-5a46-4145-8041-808986d080a4)
 Cost optimization strategies for AWS services are abundant. Prioritizing between your options is necessary to make sure you don’t overload yourself with the wealth of information. Looking at the best practices in the industry right now and the practices that have now become obsolete would help you find stability in your finances.
 
-### [472. How Database Backends Have Become Overcomplicated](https://hackernoon.com/how-database-backends-have-become-overcomplicated)
+### [473. How Database Backends Have Become Overcomplicated](https://hackernoon.com/how-database-backends-have-become-overcomplicated)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-nx93mu3.jpeg)
 Let's talk about something that has been grinding my gears for quite some time – the mind-boggling overcomplication of database backends.
 
-### [473. How To Connect Heroku Server with Slack](https://hackernoon.com/how-to-connect-heroku-server-with-slack-bwx31fw)
+### [474. How To Connect Heroku Server with Slack](https://hackernoon.com/how-to-connect-heroku-server-with-slack-bwx31fw)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-yn74312u.jpeg)
 Heroku makes it easy to integrate with the Slack business communication platform. Three available options are presented in this article by @johnjvester
 
-### [474. ROT13 at Warp Speed: A Practical Optimization Playbook](https://hackernoon.com/rot13-at-warp-speed-a-practical-optimization-playbook)
+### [475. ROT13 at Warp Speed: A Practical Optimization Playbook](https://hackernoon.com/rot13-at-warp-speed-a-practical-optimization-playbook)
 ![](https://cdn.hackernoon.com/images/ymemb7hlU3SS96MeLUfvqbWcRkE2-j503bcs.png)
 Complete optimization playbook for ROT13 cipher implementation. Learn SIMD, parallel processing, cache optimization, and CUDA techniques to achieve 13x speedup.
 
-### [475. Writing Clean Code: Practical Tricks for PHP](https://hackernoon.com/writing-clean-code-practical-tricks-for-php-1b1c33p1)
+### [476. Writing Clean Code: Practical Tricks for PHP](https://hackernoon.com/writing-clean-code-practical-tricks-for-php-1b1c33p1)
 ![](https://cdn.hackernoon.com/images/LLNXiPKIsZM5IWTNJfmlBf6EZjZ2-2n6126ni.jpeg)
 Writing clean code isn’t hard, but sometimes getting a piece of code to work right can get in the way of making it maintainable. 
 
-### [476. Understanding Memory Management in JavaScript](https://hackernoon.com/understanding-memory-management-in-javascript-zf2e319j)
+### [477. Understanding Memory Management in JavaScript](https://hackernoon.com/understanding-memory-management-in-javascript-zf2e319j)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-csi31v7.jpeg)
 Low-level languages like C, have manual memory management primitives such as malloc() and free(). In contrast, JavaScript automatically allocates memory when objects are created and frees it when they are not used anymore (garbage collection). This automaticity is a potential source of confusion: it can give developers the false impression that they don't need to worry about memory management.
 
-### [477. Django vs. Laravel: A Beginners Guide](https://hackernoon.com/django-vs-laravel-a-beginners-guide)
+### [478. Django vs. Laravel: A Beginners Guide](https://hackernoon.com/django-vs-laravel-a-beginners-guide)
 ![](https://cdn.hackernoon.com/images/dXQWhzkJaPNIsfgin1CWcGchcuY2-ep037ao.jpeg)
 Django is a straightforward option to pick up and offers a backend customized according to the users' needs.
 

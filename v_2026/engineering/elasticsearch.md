@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [elasticsearch](https://hackernoon.com/tagged/elasticsearch)
+### Let's learn about [Elasticsearch](https://hackernoon.com/tagged/elasticsearch) via these 61 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases, from full-text search to operational analytics. It's critical for real-time search, data analytics, and logging, enabling rapid access to vast amounts of information.
+
 ### [1. How to Use Fuzzy Query Matches in Elasticsearch](https://hackernoon.com/how-to-use-fuzzy-query-matches-in-elasticsearch-dh1h3167)
 ![](https://cdn.hackernoon.com/images/WnT4onrLDxWJByyjiz9SY4adyu73-gp2b31ma.jpeg)
 Typo is something that often happens and can reduce user’s experience, fortunately, Elasticsearch can handle it easily with Fuzzy Query.
@@ -179,33 +183,33 @@ A behind‑the‑scenes look at building an AI‑driven attribute sorting pipeli
 ![](https://cdn.hackernoon.com/images/bKYjS2C6Rxcv14egxakvrg8O65x1-li93v1k.jpeg)
 One effective "strike while the iron is hot" technique is to create a test environment immediately after identifying the need.
 
-### [45. To be Relevant or not to be: a Search Story about Precision and Recall](https://hackernoon.com/to-be-relevant-or-not-to-be-a-search-story-about-precision-and-recall-ss373t5x)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fh42pozfm4scRLxV00TWDEetyEPJ3-y7w3t7l.jpeg?alt=media&token=4b5449a3-13fd-4541-9858-d359191988e2)
-With the amount of data created growing exponentially each year and forecasted to reach 59 zettabytes in 2020 and more than 175 zettabytes by 2025, the importance of discovering and understanding this data will continue to be, even more than before, a decisive and competitive differentiator for many companies.
-
-### [46. 3 Years After Forking Sphinx: A Brief Report on Manticore Search](https://hackernoon.com/3-years-after-forking-sphinx-a-brief-report-on-manticore-search-rn3p33nl)
+### [45. 3 Years After Forking Sphinx: A Brief Report on Manticore Search](https://hackernoon.com/3-years-after-forking-sphinx-a-brief-report-on-manticore-search-rn3p33nl)
 ![](https://hackernoon.com/images/2yEHZMN6JeQSAmOaVn8T8TtsI7E3-mh854495.jpeg)
 In May 2017 we made a fork of Sphinxsearch 2.3.2, which we called Manticore Search. Below you will find a brief report on Manticore Search as a fork of Sphinx and our achievements since then.
+
+### [46. To be Relevant or not to be: a Search Story about Precision and Recall](https://hackernoon.com/to-be-relevant-or-not-to-be-a-search-story-about-precision-and-recall-ss373t5x)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fh42pozfm4scRLxV00TWDEetyEPJ3-y7w3t7l.jpeg?alt=media&token=4b5449a3-13fd-4541-9858-d359191988e2)
+With the amount of data created growing exponentially each year and forecasted to reach 59 zettabytes in 2020 and more than 175 zettabytes by 2025, the importance of discovering and understanding this data will continue to be, even more than before, a decisive and competitive differentiator for many companies.
 
 ### [47. Doing First Steps with the Kubernetes Operator ](https://hackernoon.com/doing-first-steps-with-the-kubernetes-operator-ovgp3yq9)
 ![](https://cdn.hackernoon.com/images/ag4lw3ycg.jpg)
 This article demonstrates how you can use the Operator Lifecycle Manager to deploy a Kubernetes Operator to your cluster. Then, you will use the Operator to spin up an Elastic Cloud on Kubernetes (ECK) cluster.
 
-### [48. Using KSQL Stream Processing & Real-Time Databases to Analyze Kafka Streaming Data [A How-To Guide]](https://hackernoon.com/using-ksql-stream-processing-and-real-time-databases-to-analyze-kafka-streaming-data-a-how-to-guide-804i327m)
-![](https://cdn.hackernoon.com/images/vkn53y1i.jpg)
-Intro
-
-### [49. Dead Letter Queue no Elastic Stack](https://hackernoon.com/dead-letter-queue-no-elastic-stack-v4y3uuz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOZwySkE5euQdNfwKZkGHoo5ey9Q2-4u2i3uvj.jpeg?alt=media&token=84221b53-f833-4eb0-b4dc-a3a7a638e1f9)
-Melhore a obsevabilidade da sua Stack Elastic, baseado em fatos reais
-
-### [50. Understanding Elasticsearch Reindexing: When to Reindex, Best Practices and Alternatives](https://hackernoon.com/understanding-elasticsearch-reindexing-when-to-reindex-best-practices-and-alternatives)
+### [48. Understanding Elasticsearch Reindexing: When to Reindex, Best Practices and Alternatives](https://hackernoon.com/understanding-elasticsearch-reindexing-when-to-reindex-best-practices-and-alternatives)
 ![](https://cdn.hackernoon.com/images/NhIoZk6O6IhX4DwkvWssYV9eCyA2-fv834r9.jpeg)
 Whether you're a seasoned Elasticsearch user or just beginning your journey, understanding reindexing is important for maintaining an efficient cluster.
 
-### [51. Symfony Search That Doesn’t Go Down: Zero-Downtime Elasticsearch + Async Indexing](https://hackernoon.com/symfony-search-that-doesnt-go-down-zero-downtime-elasticsearch-async-indexing)
+### [49. Using KSQL Stream Processing & Real-Time Databases to Analyze Kafka Streaming Data [A How-To Guide]](https://hackernoon.com/using-ksql-stream-processing-and-real-time-databases-to-analyze-kafka-streaming-data-a-how-to-guide-804i327m)
+![](https://cdn.hackernoon.com/images/vkn53y1i.jpg)
+Intro
+
+### [50. Symfony Search That Doesn’t Go Down: Zero-Downtime Elasticsearch + Async Indexing](https://hackernoon.com/symfony-search-that-doesnt-go-down-zero-downtime-elasticsearch-async-indexing)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-hd03df9.jpeg)
 Stop blocking user saves on Elasticsearch. Learn a senior Symfony pattern: decouple indexing with Messenger and ship zero-downtime reindexing using aliases.
+
+### [51. Dead Letter Queue no Elastic Stack](https://hackernoon.com/dead-letter-queue-no-elastic-stack-v4y3uuz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOZwySkE5euQdNfwKZkGHoo5ey9Q2-4u2i3uvj.jpeg?alt=media&token=84221b53-f833-4eb0-b4dc-a3a7a638e1f9)
+Melhore a obsevabilidade da sua Stack Elastic, baseado em fatos reais
 
 ### [52. The Noonification: Effective Workarounds for SQL-Style Joins in Elasticsearch (3/24/2024)](https://hackernoon.com/3-24-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_225_lw8c5hq80ngi8qgzh4vpia3o.png)
@@ -239,7 +243,11 @@ Fetch more than 10,000 records at a time—use Python and PIT for scalable log e
 ![](https://cdn.hackernoon.com/images/noonification_299_h7n2pxvwmrfl8pa4rjfp51tn.png)
 3/17/2024: Top 5 stories on the HackerNoon homepage!
 
-### [60. Fundamentals of Full-Text Operators and Basic Search](https://hackernoon.com/fundamentals-of-full-text-operators-and-basic-search-aa1634o7)
+### [60. How DoorDash Optimized Item Availability at Scale Using Elasticsearch](https://hackernoon.com/how-doordash-optimized-item-availability-at-scale-using-elasticsearch)
+![](https://cdn.hackernoon.com/images/a-high-scale-food-delivery-app-backend-visualized-as-data-pipelines-flowing-into-a-fast-search-engine-with-latency-metrics-dropping-as-optimized-indexing-structures-light-up-h7n4ji1li0rfryscv7kj8d5q.png)
+How DoorDash cut item availability query latency from 600ms to 250ms in Elasticsearch by moving from nested documents to BKD-tree backed range fields.
+
+### [61. Fundamentals of Full-Text Operators and Basic Search](https://hackernoon.com/fundamentals-of-full-text-operators-and-basic-search-aa1634o7)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fgg0GBsp3JWXNWPYf56xyncqyFey1-mt53t22.jpeg?alt=media&token=b964ef83-3bb4-488a-8944-afda4553ed08)
 In this tutorial, we will explore full-text search operators available in Manticore Search.
 

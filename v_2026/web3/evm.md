@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [evm](https://hackernoon.com/tagged/evm)
+### Let's learn about [Evm](https://hackernoon.com/tagged/evm) via these 57 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+The Ethereum Virtual Machine (EVM) is the runtime environment for smart contracts on the Ethereum blockchain, enabling the execution of decentralized applications. It defines the protocol's state transitions and ensures consistent, deterministic operation across the network.
+
 ### [1. Smart Contract Optimization: How to Use Less Gas in Ethereum](https://hackernoon.com/smart-contract-optimization-how-to-use-less-gas-in-ethereum)
 ![](https://cdn.hackernoon.com/images/lokbjQEefQRUe8qF8EHzsPop2hP2-ze93sa4.jpeg)
 Learn how to optimize gas usage in Ethereum smart contracts to reduce costs and enhance efficiency.
@@ -97,14 +101,14 @@ Ethernaut is a smart contract security CTF game, presented by OpenZeppelin.
 ![](https://cdn.hackernoon.com/images/Ns6mVt8NqgNkfsouVyus9tAe3mB2-dv93rfv.jpeg)
 In this article, we delve into the concept of “Hybrid Rollup,” examining how projects Aztec, Miden, and Ola approach this technology. 
 
-### [25. Qtum – How Many Transactions Per Second?](https://hackernoon.com/qtum---how-many-transactions-per-second)
+### [25. BlackRock Expands Digital Fund to Avalanche Network](https://hackernoon.com/blackrock-expands-digital-fund-to-avalanche-network)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-uw037gn.png)
+BlackRock has launched its USD Institutional Digital Liquidity Fund (BUIDL) on the Avalanche blockchain through digital asset firm Securitize.
+
+### [26. Qtum – How Many Transactions Per Second?](https://hackernoon.com/qtum---how-many-transactions-per-second)
 ![](https://cdn.hackernoon.com/images/xzQTuPQjBSPzte9mtu7SfO5NuMI3-ic92luo.jpeg)
 Qtum can  can handle 1,000 TPS on a fully decentralized Layer-1 blockchain. Scalability and speed of L1.
 
-
-### [26. BlackRock Expands Digital Fund to Avalanche Network](https://hackernoon.com/blackrock-expands-digital-fund-to-avalanche-network)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-uw037gn.png)
-BlackRock has launched its USD Institutional Digital Liquidity Fund (BUIDL) on the Avalanche blockchain through digital asset firm Securitize.
 
 ### [27. zkEVM: A Potential Solution for Ethereum Scalability or a Privacy Nightmare?](https://hackernoon.com/zkevm-a-potential-solution-for-ethereum-scalability-or-a-privacy-nightmare)
 ![](https://cdn.hackernoon.com/images/EoVbI98oiigmAxrHs5vIf7ng6qF3-zg936nu.jpeg)
@@ -126,13 +130,13 @@ If you're looking to migrate your smart contract from Ethereum to any EVM, you n
 ![](https://cdn.hackernoon.com/images/wigx3JsTvDOJSxLPmAl3OdM9Xsn2-7193p95.png)
 This launch is a true one-of-a-kind opportunity for developers to build exceptional DeFi solutions on the Rootstock blockchain that shatter the status quo...
 
-### [32. Yul in Solidity: Potential Gas Griefing From Return Data When Transferring Ether?](https://hackernoon.com/yul-in-solidity-potential-gas-griefing-from-return-data-when-transferring-ether)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-0683lww.jpeg)
-Exploring risks in Solidity transfers: Gas griefing, return data handling & mitigations in smart contracts using Yul, Vyper, and EVM.
-
-### [33. Why Cardano Struggled with Cross-Chain Bridges and How Apex Fusion Plans to Fix It](https://hackernoon.com/why-cardano-struggled-with-cross-chain-bridges-and-how-apex-fusion-plans-to-fix-it)
+### [32. Why Cardano Struggled with Cross-Chain Bridges and How Apex Fusion Plans to Fix It](https://hackernoon.com/why-cardano-struggled-with-cross-chain-bridges-and-how-apex-fusion-plans-to-fix-it)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-a003j8v.png)
 Cardano's unique architecture made bridging difficult. Apex Fusion now introduces Reactor and Skyline to solve it. Here's what it means.
+
+### [33. Yul in Solidity: Potential Gas Griefing From Return Data When Transferring Ether?](https://hackernoon.com/yul-in-solidity-potential-gas-griefing-from-return-data-when-transferring-ether)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-0683lww.jpeg)
+Exploring risks in Solidity transfers: Gas griefing, return data handling & mitigations in smart contracts using Yul, Vyper, and EVM.
 
 ### [34. EVMs in 2024: Vitalik's ZK-EVM Proposal and the Developer Shift to EVM Chains](https://hackernoon.com/evms-in-2024-vitaliks-zk-evm-proposal-and-the-developer-shift-to-evm-chains)
 ![](https://cdn.hackernoon.com/images/wfm0qi0hmxcUYRnXg9j6NlR61V82-zc83u38.jpeg)
@@ -142,13 +146,13 @@ The state of Ethereum Virutal Machines in 2024, from Vitaliks proposal to zero k
 ![](https://cdn.hackernoon.com/images/twyQxsBsxnRAkzdRQZQwa4moT752-szh35jp.jpeg)
 Instead of waiting for Ethereum to fix itself, learn how other chains stepped up and fixed it themselves.
 
-### [36. Radix Engine: A Better Model for “Enshrinement"](https://hackernoon.com/radix-engine-a-better-model-for-enshrinement)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-a2832l5.png)
-As demand for a faster, more secure, and more usable DeFi platform grows, increased enshrinement will follow. Radix Engine was designed with this in mind.
-
-### [37. A Deterministic Address for an EVM Multi-Chain Proxy](https://hackernoon.com/a-deterministic-address-for-an-evm-multi-chain-proxy)
+### [36. A Deterministic Address for an EVM Multi-Chain Proxy](https://hackernoon.com/a-deterministic-address-for-an-evm-multi-chain-proxy)
 ![](https://cdn.hackernoon.com/images/aTOIdZhANAU0Kp1wB3hUaNXMcPL2-q9134v2.png)
 Learn about the complexities developers face when deploying smart contracts on multiple chains and how to maintain contract address consistency.
+
+### [37. Radix Engine: A Better Model for “Enshrinement"](https://hackernoon.com/radix-engine-a-better-model-for-enshrinement)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-a2832l5.png)
+As demand for a faster, more secure, and more usable DeFi platform grows, increased enshrinement will follow. Radix Engine was designed with this in mind.
 
 ### [38. Demystifying EVM Compatibility - Part I](https://hackernoon.com/demystifying-evm-compatibility-part-i)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-r393pkx.jpeg)
@@ -158,72 +162,76 @@ This article will address the fundamentals of EVM and the advantages of creating
 ![](https://cdn.hackernoon.com/images/XEwEsoKKiSM0pGjq4dyeehqOfjj2-bp92p1u.jpeg)
 I interviewed Arnaud Bauer, a Senior Solution Architect at BNB Chain, about the recently launched opBNB Testnet. Here's what we discussed. 
 
-### [40. Firewall Raises $3.7M To Take Smart Contracts Mainstream With Programmable Finality](https://hackernoon.com/firewall-raises-$37m-to-take-smart-contracts-mainstream-with-programmable-finality)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-ua833gu.jpeg)
-The founders envision Firewall as a part of every smart contract network, acting as an embedded security system that intelligently guards against threats.
-
-### [41. Bitboost: an EVM Co-processor for Bitcoin Mainnet](https://hackernoon.com/bitboost-an-evm-co-processor-for-bitcoin-mainnet)
+### [40. Bitboost: an EVM Co-processor for Bitcoin Mainnet](https://hackernoon.com/bitboost-an-evm-co-processor-for-bitcoin-mainnet)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9v82hi3.jpeg)
 The Bitboost co-processor is a programmable execution environment on Bitcoin.
 
-### [42. Giving Power Back to Your Users with Flow’s Account Model](https://hackernoon.com/giving-power-back-to-your-users-with-flows-account-model)
+### [41. Giving Power Back to Your Users with Flow’s Account Model](https://hackernoon.com/giving-power-back-to-your-users-with-flows-account-model)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-hy93n02.jpeg)
 In this article, we’ll look in detail at Flow's new account model, how it works, and how it might be able to solve difficult UX problems in blockchain.
 
-### [43. How the Ethereum Blockchain Incentivizes Users to Clear Storage ](https://hackernoon.com/how-the-ethereum-blockchain-incentivizes-users-to-clear-storage)
+### [42. Firewall Raises $3.7M To Take Smart Contracts Mainstream With Programmable Finality](https://hackernoon.com/firewall-raises-$37m-to-take-smart-contracts-mainstream-with-programmable-finality)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-ua833gu.jpeg)
+The founders envision Firewall as a part of every smart contract network, acting as an embedded security system that intelligently guards against threats.
+
+### [43. Why “EVM Hacking” Became a Bigger Story Than EVM Security](https://hackernoon.com/why-evm-hacking-became-a-bigger-story-than-evm-security)
+![](https://cdn.hackernoon.com/images/0occow2Rm7Zauw41hUhjTOc8N7C2-6583vpf.png)
+How “EVM hacking” became a bigger public fear than EVM security itself.
+
+### [44. How the Ethereum Blockchain Incentivizes Users to Clear Storage ](https://hackernoon.com/how-the-ethereum-blockchain-incentivizes-users-to-clear-storage)
 ![](https://cdn.hackernoon.com/images/Ki0s6KrHo0TbF2TNPyb1p3oNtQi1-9y93viu.jpeg)
 Ethereum has an incentivization mechanism for smart contract users/developers to reduce the storage captured by a smart contract. 
 This article explains how.
 
-### [44. Crypto Infrastructure is Experiencing Significant Market Fatigue](https://hackernoon.com/crypto-infrastructure-is-experiencing-significant-market-fatigue)
+### [45. Crypto Infrastructure is Experiencing Significant Market Fatigue](https://hackernoon.com/crypto-infrastructure-is-experiencing-significant-market-fatigue)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-y702vna.jpeg)
 Crypto infrastructure is experiencing significant market fatigue and declining valuations. 
 
-### [45. The Case Against Upgradeable Smart Contracts](https://hackernoon.com/the-case-against-upgradeable-smart-contracts)
+### [46. The Case Against Upgradeable Smart Contracts](https://hackernoon.com/the-case-against-upgradeable-smart-contracts)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1d92af6.jpeg)
 The use cases appropriate for upgradeable smart contracts may be narrower than you think. 
 
-### [46. Rollux, a Novel EVM Layer-2 Backed by Bitcoin, Goes Live](https://hackernoon.com/rollux-a-novel-evm-layer-2-backed-by-bitcoin-goes-live)
+### [47. Rollux, a Novel EVM Layer-2 Backed by Bitcoin, Goes Live](https://hackernoon.com/rollux-a-novel-evm-layer-2-backed-by-bitcoin-goes-live)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-v593rjo.jpeg)
 SYS Labs, a Web3 product suite powered by Syscoin, has announced the launch of Rollux, an innovative EVM Layer-2 solution. 
 
-### [47. How Predicting Access Lists Can Be a Potential Way to Speed Up Evm for Portal Clients](https://hackernoon.com/how-predicting-access-lists-can-be-a-potential-way-to-speed-up-evm-for-portal-clients)
+### [48. How Predicting Access Lists Can Be a Potential Way to Speed Up Evm for Portal Clients](https://hackernoon.com/how-predicting-access-lists-can-be-a-potential-way-to-speed-up-evm-for-portal-clients)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-6693lda.jpeg)
 Learn how predicting the access list is a potential solution to speed up EVM execution for portal clients.
 
-### [48. Iva Wisher on PROM's Mission to Revolutionize Blockchain Interoperability](https://hackernoon.com/iva-wisher-on-proms-mission-to-revolutionize-blockchain-interoperability)
+### [49. Iva Wisher on PROM's Mission to Revolutionize Blockchain Interoperability](https://hackernoon.com/iva-wisher-on-proms-mission-to-revolutionize-blockchain-interoperability)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-t283589.png)
 Discover how PROM is revolutionizing the blockchain industry with modular ZkEVM Layer 2 solutions, enabling multichain interoperability & enhanced scalability.
 
-### [49. Why Is the EVM So Important to the Web3 Ecosystem?](https://hackernoon.com/why-is-the-evm-so-important-to-the-web3-ecosystem)
+### [50. Why Is the EVM So Important to the Web3 Ecosystem?](https://hackernoon.com/why-is-the-evm-so-important-to-the-web3-ecosystem)
 ![](https://cdn.hackernoon.com/images/D2Kfj0qxSRQHO0nYbkJy1MM6Bf43-eid3ued.jpeg)
 The EVM powers the worlds most valuable blockchains. Learn how the EVM works and how it unlocks never before seen levels of customizability on the blockchain.
 
-### [50. QuickSwap Expands to Ethereum Network Through Orbs Liquidity Hub Integration](https://hackernoon.com/quickswap-expands-to-ethereum-network-through-orbs-liquidity-hub-integration)
+### [51. QuickSwap Expands to Ethereum Network Through Orbs Liquidity Hub Integration](https://hackernoon.com/quickswap-expands-to-ethereum-network-through-orbs-liquidity-hub-integration)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-eb038zp.jpeg)
 QuickSwap, a multi-chain decentralized exchange (DEX), announced its expansion to Ethereum through integration with Orbs Liquidity Hub. 
 
-### [51. AppLayer Unveils Fastest EVM Network And $1.5M Network Incentive Program](https://hackernoon.com/applayer-unveils-fastest-evm-network-and-$15m-network-incentive-program)
+### [52. AppLayer Unveils Fastest EVM Network And $1.5M Network Incentive Program](https://hackernoon.com/applayer-unveils-fastest-evm-network-and-$15m-network-incentive-program)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-y683609.jpeg)
  Imagine having both the speediest EVM in the game and the best tools to build on it – that's what AppLayer brings to the table!
 
-### [52. Opside Ecosystem: Growing Together & Accelerating the Multi-Rollup Era](https://hackernoon.com/opside-ecosystem-growing-together-and-accelerating-the-multi-rollup-era)
+### [53. Opside Ecosystem: Growing Together & Accelerating the Multi-Rollup Era](https://hackernoon.com/opside-ecosystem-growing-together-and-accelerating-the-multi-rollup-era)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-h493rpi.jpeg)
 Opside aims to make ZK-Rollup more user-friendly and popular, thereby enabling the widespread implementation of application chains based on zkEVM.  Here's how. 
 
-### [53. Zircuit: A Game-Changing EVM-Compatible ZK-Rollup for Faster, More Secure Transactions](https://hackernoon.com/zircuit-a-game-changing-evm-compatible-zk-rollup-for-faster-more-secure-transactions)
+### [54. Zircuit: A Game-Changing EVM-Compatible ZK-Rollup for Faster, More Secure Transactions](https://hackernoon.com/zircuit-a-game-changing-evm-compatible-zk-rollup-for-faster-more-secure-transactions)
 ![](https://cdn.hackernoon.com/images/IQRE8lqTDwPtRajEDJm79DvjtSo2-j083tif.jpeg)
 Learn all about Zircuit, a paradigm-shifting, EVM-compatible ZK-rollup that allows faster transactions, lower fees, and higher security.
 
-### [54. Sin7Y Researchers Dialogues - Thoughts on Ethereum Virtual Machine (EVM)](https://hackernoon.com/sin7y-researchers-dialogues-thoughts-on-ethereum-virtual-machine-evm)
+### [55. Sin7Y Researchers Dialogues - Thoughts on Ethereum Virtual Machine (EVM)](https://hackernoon.com/sin7y-researchers-dialogues-thoughts-on-ethereum-virtual-machine-evm)
 ![](https://cdn.hackernoon.com/images/Ns6mVt8NqgNkfsouVyus9tAe3mB2-5l047bo.jpeg)
 Sin7Y invited anonymous experts in the industry to provide some ideas and predictions about the future of the EVM platform. This is the transcript for the event
 
-### [55. Taraxa Launches $10 Million Grant Program For Its BlockDAG Ecosystem](https://hackernoon.com/taraxa-launches-$10-million-grant-program-for-its-blockdag-ecosystem)
+### [56. Taraxa Launches $10 Million Grant Program For Its BlockDAG Ecosystem](https://hackernoon.com/taraxa-launches-$10-million-grant-program-for-its-blockdag-ecosystem)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-lq832vi.jpeg)
 The Taraxa Grant Program is open to any individual, team, and organizations of any type.
 
-### [56. Nibiru EVM To Transform Ethereum Capabilities For Tomorrow’s Web3](https://hackernoon.com/nibiru-evm-to-transform-ethereum-capabilities-for-tomorrows-web3)
+### [57. Nibiru EVM To Transform Ethereum Capabilities For Tomorrow’s Web3](https://hackernoon.com/nibiru-evm-to-transform-ethereum-capabilities-for-tomorrows-web3)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-h48356u.jpeg)
 Nibiru plans to scale beyond Ethereum's current infrastructure, which is limited to approximately 20 transactions per second (TPS) and results in high fees duri
 

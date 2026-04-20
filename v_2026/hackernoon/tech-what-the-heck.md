@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [tech-what-the-heck](https://hackernoon.com/tagged/tech-what-the-heck)
+### Let's learn about [Tech What The Heck](https://hackernoon.com/tagged/tech-what-the-heck) via these 143 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+This tag serves as a category for exploring unusual, surprising, or quirky aspects of technology and digital culture. It matters for showcasing the less conventional or perplexing side of innovation and its impact.
+
 ### [1. I Tried Perplexity For a Week, And I Don't Think AI Search Engines Can Replace Google.. Yet](https://hackernoon.com/i-tried-perplexity-for-a-week-and-i-dont-think-ai-search-engines-can-replace-google-yet)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-sk12qa3.png)
 Perplexity hit the scene just around the same time ChatGPT launched, but is it truly the be-all end-all one would have you believe? 
@@ -193,13 +197,13 @@ It looks like large-scale fears about the rise of artificial intelligence have r
 ![](https://cdn.hackernoon.com/images/elon-musk-furiously-tweeting-from-his-bathroom-angry-elon-musk-face-onzquc1vpvp2wd09c32ucp3m.png)
 What happens when the world's richest man gets caught in the crosshairs of one of the oldest and most reputable news organizations in the world? Fireworks 🎆
 
-### [49. Have U Been Pwned?](https://hackernoon.com/have-u-been-pwned)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ml92g36.jpeg)
-Elon Musk's social media company has suffered a data breach. The result? Nearly 200 million email addresses are now up for grabs.
-
-### [50. Intel Stuns Employees By Cutting Free Office Fruit (And Staff)](https://hackernoon.com/intel-stuns-employees-by-cutting-free-office-fruit-and-staff)
+### [49. Intel Stuns Employees By Cutting Free Office Fruit (And Staff)](https://hackernoon.com/intel-stuns-employees-by-cutting-free-office-fruit-and-staff)
 ![](https://cdn.hackernoon.com/images/a-bowl-of-fruit-q0726szftcctdgoy1ty2kgor.png)
 Intel is perhaps one of the only big tech companies that, despite following the AI fad, is losing out
+
+### [50. Have U Been Pwned?](https://hackernoon.com/have-u-been-pwned)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ml92g36.jpeg)
+Elon Musk's social media company has suffered a data breach. The result? Nearly 200 million email addresses are now up for grabs.
 
 ### [51. Musk Is No Visionary: Half of Twitter Workforce Laid Off](https://hackernoon.com/musk-is-no-visionary-half-of-twitter-workforce-laid-off)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-0c92eb2.jpeg)
@@ -249,13 +253,13 @@ Nvidia may have inadvertently given credence to reports that it is not going to 
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ii92ifc.jpeg)
 It's been a busy few weeks, with each of the tech behemoths reporting their earnings for the third quarter of the year.
 
-### [63. With New Change, 'X' Comes Into Conflict With App Store, Google Play](https://hackernoon.com/with-new-change-x-comes-into-conflict-with-app-store-google-play)
-![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-elon-musk-browsing-his-phone-g2f9uj14shsd6u1qsn2dzzb7.png)
-The world's richest man has a habit of experimenting with changes to his social media company and the latest update might be his most brazen yet.
-
-### [64. Microsoft's AI Bet Fails to Dent Google's Search Dominance ](https://hackernoon.com/microsofts-ai-bet-fails-to-dent-googles-search-dominance)
+### [63. Microsoft's AI Bet Fails to Dent Google's Search Dominance ](https://hackernoon.com/microsofts-ai-bet-fails-to-dent-googles-search-dominance)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1ma2f3h.jpeg)
 Google posted better-than-expected financial results last week — squashing fears that Microsoft's AI-powered Bing could relegate it to the No. 2 spot.
+
+### [64. With New Change, 'X' Comes Into Conflict With App Store, Google Play](https://hackernoon.com/with-new-change-x-comes-into-conflict-with-app-store-google-play)
+![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-elon-musk-browsing-his-phone-g2f9uj14shsd6u1qsn2dzzb7.png)
+The world's richest man has a habit of experimenting with changes to his social media company and the latest update might be his most brazen yet.
 
 ### [65. Tech Giants Give Longtime Employees a Massive FU](https://hackernoon.com/tech-giants-give-longtime-employees-a-massive-fu)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rc92hgo.jpeg)
@@ -273,17 +277,17 @@ Interest in Microsoft Wanes 12% while Apple Remains Trendy AF
 ![](https://cdn.hackernoon.com/images/a-family-taking-selfies-ikpsntpomoq8rnyasl4bsnjq.png)
 If the thought of an AI model trained on Facebook and Instagram posts frightens you, boy, do we have news for you.
 
-### [69. Boomer vs. Zoomer](https://hackernoon.com/boomer-vs-zoomer)
+### [69. Facebook: Now Available at an Introductory Price of $11.99](https://hackernoon.com/facebook-now-available-at-an-introductory-price-of-$1199)
+![](https://cdn.hackernoon.com/images/person-wearing-a-vr-headset-with-dollar-signs-floating-in-the-background-cleftuvo5000401s6d4t5cf4i.png)
+Meta announced a so-called subscription bundle that will get you the verified badge on Facebook and Instagram along with a bunch of other benefits. 
+
+### [70. Boomer vs. Zoomer](https://hackernoon.com/boomer-vs-zoomer)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-a792d9v.jpeg)
 A video of Mark Zuckerburg trading blows with MMA fighter Khai Wu has the Boomies of the internet united.
 
-### [70. Team Red vs. Team Blue](https://hackernoon.com/team-red-vs-team-blue)
+### [71. Team Red vs. Team Blue](https://hackernoon.com/team-red-vs-team-blue)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bd92dmc.jpeg)
 As if the console wars weren't bad enough, now PC gamers have to get into the same dilemma: go for team red or team blue.
-
-### [71. Facebook: Now Available at an Introductory Price of $11.99](https://hackernoon.com/facebook-now-available-at-an-introductory-price-of-$1199)
-![](https://cdn.hackernoon.com/images/person-wearing-a-vr-headset-with-dollar-signs-floating-in-the-background-cleftuvo5000401s6d4t5cf4i.png)
-Meta announced a so-called subscription bundle that will get you the verified badge on Facebook and Instagram along with a bunch of other benefits. 
 
 ### [72. The Most Consequential Technology Stories of 2023, According to HackerNoon Editors](https://hackernoon.com/the-most-consequential-technology-stories-of-2023-according-to-hackernoon-editors)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-fx92i9e.jpeg)
@@ -317,37 +321,37 @@ The Santa Clara, Calif.-based chip maker saw a meteoric rise in its stock price 
 ![](https://cdn.hackernoon.com/images/img-lg02rlg.jpeg)
 Intel is either going to be bought or Pat Gelsinger will be fired, possibly both.
 
-### [80. The Most Consequential Technology Stories of 2024, According to HackerNoon Editors](https://hackernoon.com/the-most-consequential-technology-stories-of-2024-according-to-hackernoon-editors)
-![](https://cdn.hackernoon.com/images/img-am12urd.png)
-HackerNoon editors get together to discuss what they thought were the most important themes and news bites of 2024.
-
-### [81. Tesla In, Twitter Out 🐤](https://hackernoon.com/tesla-in-twitter-out)
+### [80. Tesla In, Twitter Out 🐤](https://hackernoon.com/tesla-in-twitter-out)
 ![](https://cdn.hackernoon.com/images/elon-musk-3-leaving-a-tall-building-clear-face-clhqd7926000001s63u5a5ne4.png)
 Everyone's favorite billionaire and former "Chief Twit" of Twitter, Elon Musk, has decided to pass on the torch to someone more capable of running the company.
+
+### [81. The Most Consequential Technology Stories of 2024, According to HackerNoon Editors](https://hackernoon.com/the-most-consequential-technology-stories-of-2024-according-to-hackernoon-editors)
+![](https://cdn.hackernoon.com/images/img-am12urd.png)
+HackerNoon editors get together to discuss what they thought were the most important themes and news bites of 2024.
 
 ### [82. Artificial Intelligence: Now Coming to a Google Product Near You ](https://hackernoon.com/artificial-intelligence-now-coming-to-a-google-product-near-you)
 ![](https://cdn.hackernoon.com/images/humanoid-robot-hunched-over-a-computer-screen-clhqdl23i000701s660gq8k3c.png)
 Not to be outdone by Microsoft, Pichai and his team announced new capabilities designed to "one up" Microsoft and to regain its dominance in the tech industry.
 
-### [83. The Hackx0rs Were Active](https://hackernoon.com/the-hackx0rs-were-active)
-![](https://cdn.hackernoon.com/images/a-pirate-ship-flag-with-skulls-and-bones-logo-f1y4d3ny035equemg37uf9dq.png)
-The internet was a flurry of activity recently involving bad actors.
-
-### [84. If You Can't Beat' Em, Buy 'Em!](https://hackernoon.com/if-you-cant-beat-em-buy-em)
+### [83. If You Can't Beat' Em, Buy 'Em!](https://hackernoon.com/if-you-cant-beat-em-buy-em)
 ![](https://cdn.hackernoon.com/images/a-board-room-with-lawyers-sitting-around-a-round-table-an1k3jt799fqyq5tib5snpe4.png)
 AMD announced the acquisition of a company called Nod.ai this past week in a move it hopes would help Team Red catch up to its competition in AI.
+
+### [84. The Hackx0rs Were Active](https://hackernoon.com/the-hackx0rs-were-active)
+![](https://cdn.hackernoon.com/images/a-pirate-ship-flag-with-skulls-and-bones-logo-f1y4d3ny035equemg37uf9dq.png)
+The internet was a flurry of activity recently involving bad actors.
 
 ### [85. It's a Bird... It's a Plane… Loljk It's AI Regulation ⚒️](https://hackernoon.com/its-a-bird-its-a-plane-loljk-its-ai-regulation)
 ![](https://cdn.hackernoon.com/images/hopelander-flying-over-a-server-farm-that-hosts-chatgpt-clgwd54y9000201s62eim1a9x.png)
 While governments are still grappling with the implication of AI and the policies they should develop, some government agencies are already taking charge. 
 
-### [86. Shut Up And Take My Money. No Thanks, Says Sony](https://hackernoon.com/shut-up-and-take-my-money-no-thanks-says-sony)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rn82rqf.jpeg)
-Ghost of Tsushima's PC port has been mired in controversy after Sony decided to limit sales of the game to countries where the PlayStation Network is available.
-
-### [87. OpenAI is Sam Altman; Sam Altman is OpenAI](https://hackernoon.com/openai-is-sam-altman-sam-altman-is-openai)
+### [86. OpenAI is Sam Altman; Sam Altman is OpenAI](https://hackernoon.com/openai-is-sam-altman-sam-altman-is-openai)
 ![](https://cdn.hackernoon.com/images/ce-os-of-the-biggest-tech-companies-in-the-world-laughing-a-sinister-smile-kxnitmx0od7f0cr4o7tom4tm.png)
 Sam Altman is back at OpenAIcapping what was perhaps one of the most tumultuous periods in the generative AI company's history.
+
+### [87. Shut Up And Take My Money. No Thanks, Says Sony](https://hackernoon.com/shut-up-and-take-my-money-no-thanks-says-sony)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rn82rqf.jpeg)
+Ghost of Tsushima's PC port has been mired in controversy after Sony decided to limit sales of the game to countries where the PlayStation Network is available.
 
 ### [88. Apple Bets on the Metaverse With New Headset 🤖](https://hackernoon.com/apple-bets-on-the-metaverse-with-new-headset)
 ![](https://cdn.hackernoon.com/images/apple-bets-on-the-metaverse-with-new-headset-clikh7cre000001s67dvfcjwx.png)
@@ -357,21 +361,21 @@ Called the "Vision Pro", the Cupertino, Calif.-based company plans to sell these
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-by92h7i.jpeg)
 Thousands of people from across the globe tracked Nancy Pelosi's plane ahead of its touchdown in Taiwan, making it one of the most tracked flights of all time.
 
-### [90. Netflix Brings Out the Big Guns](https://hackernoon.com/netflix-brings-out-the-big-guns)
-![](https://cdn.hackernoon.com/images/theater-announcement-clj5m9udk000601s60a34ckcf.png)
-It was a big weekend for Netflix as the live streaming platform gave subscribers a taste of what's in store for 2023 and beyond. 
-
-### [91. With New Product Launch, Intel Takes a Page from the Nvidia Playbook 🐒](https://hackernoon.com/with-new-product-launch-intel-takes-a-page-from-the-nvidia-playbook)
-![](https://cdn.hackernoon.com/images/a-person-inserting-a-cpu-inside-of-a-motherboard-m6poa8iq9y4aow55aqufill8.png)
-Team Blue launched their 14 series of processors last week, and boy, where do we even begin with this one.
-
-### [92. Privacy vs. Convenience](https://hackernoon.com/privacy-vs-convenience)
+### [90. Privacy vs. Convenience](https://hackernoon.com/privacy-vs-convenience)
 ![](https://cdn.hackernoon.com/images/a-view-from-outside-an-apartments-window-a-person-watching-a-video-on-their-phone-inside-that-apartment-a-surveillance-camera-looking-into-the-apartment-ahbvg78jcq7q8jxlmnveyjt3.png)
 Looks like Google has had it with lawmakers, particularly when it comes to formulating laws involving how the company collects data on teenagers and children.
 
-### [93. AI Boom Propels Nvidia Revenue to Unprecedented Levels, Stunning Wall Street](https://hackernoon.com/ai-boom-propels-nvidia-revenue-to-unprecedented-levels-stunning-wall-street)
+### [91. AI Boom Propels Nvidia Revenue to Unprecedented Levels, Stunning Wall Street](https://hackernoon.com/ai-boom-propels-nvidia-revenue-to-unprecedented-levels-stunning-wall-street)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8p92g0q.jpeg)
 Jensen Huang's company is quite literally the only business selling the metaphorical shovels during the ongoing AI gold rush, making it very, very rich.
+
+### [92. Netflix Brings Out the Big Guns](https://hackernoon.com/netflix-brings-out-the-big-guns)
+![](https://cdn.hackernoon.com/images/theater-announcement-clj5m9udk000601s60a34ckcf.png)
+It was a big weekend for Netflix as the live streaming platform gave subscribers a taste of what's in store for 2023 and beyond. 
+
+### [93. With New Product Launch, Intel Takes a Page from the Nvidia Playbook 🐒](https://hackernoon.com/with-new-product-launch-intel-takes-a-page-from-the-nvidia-playbook)
+![](https://cdn.hackernoon.com/images/a-person-inserting-a-cpu-inside-of-a-motherboard-m6poa8iq9y4aow55aqufill8.png)
+Team Blue launched their 14 series of processors last week, and boy, where do we even begin with this one.
 
 ### [94. Nvidia, Artificial Intelligence, & Bitcoin Dominate Headlines in 2024](https://hackernoon.com/nvidia-artificial-intelligence-and-bitcoin-dominate-headlines-in-2024)
 ![](https://cdn.hackernoon.com/images/img-1n02ucy.jpeg)
@@ -381,73 +385,73 @@ HackerNoon's Tech What the Heck special edition recapping some of the biggest te
 ![](https://cdn.hackernoon.com/images/video-game-character-jc-denton-walking-on-the-busy-streets-of-new-yorkr-clezj9fh7000101s6hovw64c7.png)
 Musk might not be a neurosurgeon, but it was only a matter of time before he also entered the world of healthcare.
 
-### [96. The Noonification: Tapswap: What Is Everyone Tapping? (6/9/2024)](https://hackernoon.com/6-9-2024-noonification)
-![](https://cdn.hackernoon.com/images/noonification_690_aa9on99dwoz9difv1qfstoo9.png)
-6/9/2024: Top 5 stories on the HackerNoon homepage!
-
-### [97. The Big T](https://hackernoon.com/the-big-t)
+### [96. The Big T](https://hackernoon.com/the-big-t)
 ![](https://cdn.hackernoon.com/images/img-2402rot.jpeg)
 T for Trump. T for Tesla. And T for technology. And we'll add in a B for good measure.
 
-### [98. With Virgin's Collapse, Musk is Left With the Bigger Rocket 🚀](https://hackernoon.com/with-virgins-collapse-musk-is-left-with-the-bigger-rocket)
+### [97. The Noonification: Tapswap: What Is Everyone Tapping? (6/9/2024)](https://hackernoon.com/6-9-2024-noonification)
+![](https://cdn.hackernoon.com/images/noonification_690_aa9on99dwoz9difv1qfstoo9.png)
+6/9/2024: Top 5 stories on the HackerNoon homepage!
+
+### [98. New Thread, Who Dis? ](https://hackernoon.com/new-thread-who-dis)
+![](https://cdn.hackernoon.com/images/elon-musk-on-his-knees-looking-at-the-remains-of-his-company-fzmersrgfyzoyhvco3zo6ux2.png)
+Not even a week since launch and Mark Zuckerberg's Threads has given Elon Musk another reason to get into that cage match.
+
+### [99. With Virgin's Collapse, Musk is Left With the Bigger Rocket 🚀](https://hackernoon.com/with-virgins-collapse-musk-is-left-with-the-bigger-rocket)
 ![](https://cdn.hackernoon.com/images/a-rocket-leaving-earth-with-elon-musk-in-front-clgcc0k1r000701s64o4xbglf.png)
 Last week, Virgin Orbit filed for bankruptcy after failing to secure key funding that would have helped it stay afloat.
-
-### [99. Twitter Just Got Smaller](https://hackernoon.com/twitter-just-got-smaller)
-![](https://cdn.hackernoon.com/images/andy-warhol-style-stacks-of-cellphones-tweeting-thumbsticks-on-cellphone-cleocd0xu000301s607ek32c9.png)
-Twitter let go of at least 200 employees recently, leaving it with a workforce of less than 2,000.
 
 ### [100. More Than Just an OS: Microsoft Stays at #1](https://hackernoon.com/more-than-just-an-os-microsoft-stays-at-1)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-yo92dkg.jpeg)
 More Than Just an OS: Microsoft Stays at #1
 
-### [101. Timing of TikTok's New Feature Highly Suspicious 🤔🤔🤔](https://hackernoon.com/timing-of-tiktoks-new-feature-highly-suspicious)
+### [101. Twitter Just Got Smaller](https://hackernoon.com/twitter-just-got-smaller)
+![](https://cdn.hackernoon.com/images/andy-warhol-style-stacks-of-cellphones-tweeting-thumbsticks-on-cellphone-cleocd0xu000301s607ek32c9.png)
+Twitter let go of at least 200 employees recently, leaving it with a workforce of less than 2,000.
+
+### [102. Timing of TikTok's New Feature Highly Suspicious 🤔🤔🤔](https://hackernoon.com/timing-of-tiktoks-new-feature-highly-suspicious)
 ![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-happy-young-people-making-videos-for-tiktok-hgwngef6ggictmqnyq4acag8.png)
 It's obvious that China's TikTok really wants a piece of that sweet, sweet social media pie.
 
-### [102. TikTok CEO Fails to "Tok" His Way Out of Trouble, Intensifying Calls for Ban 🕺](https://hackernoon.com/tiktok-ceo-fails-to-tok-his-way-out-of-trouble-intensifying-calls-for-ban)
+### [103. TikTok CEO Fails to "Tok" His Way Out of Trouble, Intensifying Calls for Ban 🕺](https://hackernoon.com/tiktok-ceo-fails-to-tok-his-way-out-of-trouble-intensifying-calls-for-ban)
 ![](https://cdn.hackernoon.com/images/tik-tok-ceo-appears-for-a-house-hearing-while-speaker-kevin-mc-carthy-shouts-at-him-clfsaxwuo000001s65vy835z7.png)
 Calls for banning TikTok have reached critical mass, with more and more governments barring either employees or lawmakers from installing the social media app..
 
-### [103. With New AI Model, Meta Hopes Imperfect Hands Will be a Thing of the Past](https://hackernoon.com/with-new-ai-model-meta-hopes-imperfect-hands-will-be-a-thing-of-the-past)
+### [104. With New AI Model, Meta Hopes Imperfect Hands Will be a Thing of the Past](https://hackernoon.com/with-new-ai-model-meta-hopes-imperfect-hands-will-be-a-thing-of-the-past)
 ![](https://cdn.hackernoon.com/images/handshake-clj5m21k8000401s64ygsb2gz.png)
 Meta is heating up the AI arms race with the launch of a new artificial intelligence model that can help users analyze and complete unfinished images.
 
-### [104. Tesla's Good Quarter](https://hackernoon.com/teslas-good-quarter)
+### [105. Tesla's Good Quarter](https://hackernoon.com/teslas-good-quarter)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5902qn8.jpeg)
 Tesla's Q3 results couldn't have come at a better time as Wall Street was becoming increasingly concerned with the company's direction.
 
-### [105. New Thread, Who Dis? ](https://hackernoon.com/new-thread-who-dis)
-![](https://cdn.hackernoon.com/images/elon-musk-on-his-knees-looking-at-the-remains-of-his-company-fzmersrgfyzoyhvco3zo6ux2.png)
-Not even a week since launch and Mark Zuckerberg's Threads has given Elon Musk another reason to get into that cage match.
-
-### [106. The Year of the Crypto](https://hackernoon.com/the-year-of-the-crypto)
-![](https://cdn.hackernoon.com/images/men-in-suits-sitting-around-a-board-room-o0ndojbkjlvrl98da92pchom.png)
-2024 might as well be renamed the year of the crypto now that the US Securities and Exchange Commission has opened the floodgates into crypto investment.
+### [106. How Amazon Played the Competition and Made Money While Doing So 💸💸💸](https://hackernoon.com/how-amazon-played-the-competition-and-made-money-while-doing-so)
+![](https://cdn.hackernoon.com/images/evil-jeff-bezos-laughing-in-his-office-vn84bm6drkqqu2z5gew8ydm2.png)
+Jeff Bezos' ecommerce giant is currently in the crosshairs of the US Federal Trade Commission which alleges the tech behemoth abused its market position.
 
 ### [107. You Can Thank Twitter for Brazil](https://hackernoon.com/you-can-thank-twitter-for-brazil)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-xf92h3c.png)
 Elon Musk keeps trending over the internet because of his hot takes and equally hot aversion to 'wokeism'.
 
-### [108. How Amazon Played the Competition and Made Money While Doing So 💸💸💸](https://hackernoon.com/how-amazon-played-the-competition-and-made-money-while-doing-so)
-![](https://cdn.hackernoon.com/images/evil-jeff-bezos-laughing-in-his-office-vn84bm6drkqqu2z5gew8ydm2.png)
-Jeff Bezos' ecommerce giant is currently in the crosshairs of the US Federal Trade Commission which alleges the tech behemoth abused its market position.
+### [108. The Year of the Crypto](https://hackernoon.com/the-year-of-the-crypto)
+![](https://cdn.hackernoon.com/images/men-in-suits-sitting-around-a-board-room-o0ndojbkjlvrl98da92pchom.png)
+2024 might as well be renamed the year of the crypto now that the US Securities and Exchange Commission has opened the floodgates into crypto investment.
 
 ### [109. Apple to Consumers: No Money? No Problem 💸](https://hackernoon.com/apple-to-consumers-no-money-no-problem)
 ![](https://cdn.hackernoon.com/images/tim-cook-overseeing-dozens-of-people-entering-apple-stores-while-holding-bags-of-money-clg2gtezb000001s67jace8bt.png)
 Apple made a surprise announcement last week to enter the "buy now, pay later" industry, competing against the likes of Afterpay, Affirm, and Klarna.
 
-### [110. The Tech Company News Brief: Is This the End of Facebook Ads?](https://hackernoon.com/the-tech-company-news-brief-is-this-the-end-of-facebook-ads)
+### [110. Are The New iPhone and PS5 Pro Dead on Arrival?](https://hackernoon.com/are-the-new-iphone-and-ps5-pro-dead-on-arrival)
+![](https://cdn.hackernoon.com/images/img-2v02rs6.jpeg)
+Earlier this month, the world's most valuable company announced the latest iteration of its iPhone, and the reaction was largely... mixed.
+
+### [111. The Tech Company News Brief: Is This the End of Facebook Ads?](https://hackernoon.com/the-tech-company-news-brief-is-this-the-end-of-facebook-ads)
 ![](https://cdn.hackernoon.com/images/a-view-of-a-cafe-young-people-using-their-smartphones-hunched-towards-their-screens-vrosavrv2h94xtfi1qr3u706.png)
 Paying to turn ads off isn't something new, with Alphabet's YouTube or others like Spotify offering similar functionality for a price.
 
-### [111. Here's How Your Favorite Tech Giants Did Financially This Quarter](https://hackernoon.com/heres-how-your-favorite-tech-giants-did-financially)
+### [112. Here's How Your Favorite Tech Giants Did Financially This Quarter](https://hackernoon.com/heres-how-your-favorite-tech-giants-did-financially)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-b692dpf.jpeg)
 Tech giants reported their earnings this past week and stories about these results played a role in the latest round of HackerNoon Tech Company rankings. 
-
-### [112. Are The New iPhone and PS5 Pro Dead on Arrival?](https://hackernoon.com/are-the-new-iphone-and-ps5-pro-dead-on-arrival)
-![](https://cdn.hackernoon.com/images/img-2v02rs6.jpeg)
-Earlier this month, the world's most valuable company announced the latest iteration of its iPhone, and the reaction was largely... mixed.
 
 ### [113. Bitcoin Just Rallied But Coinbase Employees Are Still Being Let Go ](https://hackernoon.com/bitcoin-just-rallied-but-coinbase-employees-are-still-being-let-go)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-n592g2f.jpeg)
@@ -457,29 +461,29 @@ Being an employee in the tech industry became a whole lot worse this past week a
 ![](https://cdn.hackernoon.com/images/img-ap02tjq.jpeg)
 Gelsinger's departure may not have been as ceremonious as Intel announced.
 
-### [115. Intel Just Got Pounded For Not Taking AMD Seriously Enough](https://hackernoon.com/intel-just-got-pounded-for-not-taking-amd-seriously-enough)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-zi92izt.jpeg)
-Team blue laid bare its earnings this past week, and the results both shocked and underwhelmed investors.
-
-### [116. The Tech Company News Brief: Google Wants More of that AI Pie 🤖](https://hackernoon.com/the-tech-company-news-brief-google-wants-more-of-that-ai-pie)
-![](https://cdn.hackernoon.com/images/a-person-eating-a-large-pie-v2g0rxbxxzxvyxdckrmnekch.png)
-It looks like Google will throw money at any company developing AI these days, perhaps in an effort to never be bamboozled by the likes of Microsoft again.
-
-### [117. Big Tech Wants to Prevent Election Fraud](https://hackernoon.com/big-tech-wants-to-prevent-election-fraud)
+### [115. Big Tech Wants to Prevent Election Fraud](https://hackernoon.com/big-tech-wants-to-prevent-election-fraud)
 ![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-ce-os-of-major-tech-companies-with-clear-faces-sitting-around-a-big-round-table-in-a-mansion-ce-os-have-ominous-look-some-are-wearing-cult-clothing-zllmdtgh9fmkb6jk2nvfy2h5.png)
 The destructive potential of generative AI has big tech banding together to better help voters against AI-generated video, audio, or text during elections.
 
-### [118. Apple Extends Lead Over Microsoft as World's Most Valuable Company ](https://hackernoon.com/apple-extends-lead-over-microsoft-as-worlds-most-valuable-company)
+### [116. Intel Just Got Pounded For Not Taking AMD Seriously Enough](https://hackernoon.com/intel-just-got-pounded-for-not-taking-amd-seriously-enough)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-zi92izt.jpeg)
+Team blue laid bare its earnings this past week, and the results both shocked and underwhelmed investors.
+
+### [117. Apple Extends Lead Over Microsoft as World's Most Valuable Company ](https://hackernoon.com/apple-extends-lead-over-microsoft-as-worlds-most-valuable-company)
 ![](https://cdn.hackernoon.com/images/two-marathon-runners-with-one-far-ahead-of-the-one-behind-him-with-clear-faces-clhgjwtfp000401s68uqr1sdh.png)
 Silicon Valley darling Apple saw its worth increase by $100 billion this past week after it reported its earnings.
 
-### [119. Google AI Did Not Write This Headline (Though It Should Have)](https://hackernoon.com/google-ai-did-not-write-this-headline-though-it-should-have)
-![](https://cdn.hackernoon.com/images/img-j602q9n.webp)
-Google's annual "Made by Google" had one singular focus: artificial intelligence.
+### [118. The Tech Company News Brief: Google Wants More of that AI Pie 🤖](https://hackernoon.com/the-tech-company-news-brief-google-wants-more-of-that-ai-pie)
+![](https://cdn.hackernoon.com/images/a-person-eating-a-large-pie-v2g0rxbxxzxvyxdckrmnekch.png)
+It looks like Google will throw money at any company developing AI these days, perhaps in an effort to never be bamboozled by the likes of Microsoft again.
 
-### [120. Indian PM Woos Tech CEOs During U.S. State Visit ](https://hackernoon.com/indian-pm-woos-tech-ceos-during-us-state-visit)
+### [119. Indian PM Woos Tech CEOs During U.S. State Visit ](https://hackernoon.com/indian-pm-woos-tech-ceos-during-us-state-visit)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6b92gyk.png)
 The meeting was part of the Indian PM's plan to get more and more American companies investing in India. 
+
+### [120. Google AI Did Not Write This Headline (Though It Should Have)](https://hackernoon.com/google-ai-did-not-write-this-headline-though-it-should-have)
+![](https://cdn.hackernoon.com/images/img-j602q9n.webp)
+Google's annual "Made by Google" had one singular focus: artificial intelligence.
 
 ### [121. Microsoft, Apple Trade Blows For Top Spot](https://hackernoon.com/microsoft-apple-trade-blows-for-top-spot)
 ![](https://cdn.hackernoon.com/images/clear-apple-logo-vs-a-clear-logo-of-microsoft-y8tvza9dd17ralkys5hl63ys.png)
@@ -489,25 +493,25 @@ What company is more valuable, Microsoft or Apple? That's the question Wall Stre
 ![](https://cdn.hackernoon.com/images/uncle-sam-as-a-wrestler-on-the-top-rope-fdkl8gmi3fzjjhvsbiyu6ydw.png)
 Adobe recently got sued by the U.S. government for harming consumers with their subscription model and their cancellation method. 
 
-### [123. The Tech Company News Brief: AMD is Going to be A-OK!](https://hackernoon.com/the-tech-company-news-brief-amd-is-going-to-be-a-ok)
-![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-a-gpu-farm-pt0zuxoo0r0uhxat9q2q1kdi.png)
-After months of wrangling and being relegated to second fiddle against Nvidia's might in the AI hardware space, AMD has finally offered more clarity.
-
-### [124. Not. Enough. iPhones. Apple Loses Value as Sales Drop](https://hackernoon.com/not-enough-iphones-apple-loses-value-as-sales-drop)
+### [123. Not. Enough. iPhones. Apple Loses Value as Sales Drop](https://hackernoon.com/not-enough-iphones-apple-loses-value-as-sales-drop)
 ![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-tim-cook-crying-in-his-office-jqnruq17wkv77l91vwcj5k9m.png)
 Apple's stock took a bit of a beating because the company failed to sell as many iPhones as shareholders would have liked.
+
+### [124. The Tech Company News Brief: AMD is Going to be A-OK!](https://hackernoon.com/the-tech-company-news-brief-amd-is-going-to-be-a-ok)
+![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-a-gpu-farm-pt0zuxoo0r0uhxat9q2q1kdi.png)
+After months of wrangling and being relegated to second fiddle against Nvidia's might in the AI hardware space, AMD has finally offered more clarity.
 
 ### [125. The 'X' Factor](https://hackernoon.com/the-x-factor)
 ![](https://cdn.hackernoon.com/images/elon-musk-in-medieval-times-wearing-a-wizards-robe-k0scdbb7ftfv816970vsb233.png)
 Musk has decided to pull the plug on the Twitter branding and accelerate plans for the "everything app" known as X. 
 
-### [126. Tech Companies Show Support For Women After Roe v. Wade Overturned](https://hackernoon.com/tech-companies-show-support-for-women-after-roe-v-wade-overturned)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-f392edw.jpeg)
-American politics are making international headlines yet again with the latest on Roe v. Wade and gun rights.
-
-### [127. Apple Cements Position as Most Valuable Company In the World — Again ](https://hackernoon.com/apple-cements-position-as-most-valuable-company-in-the-world-again)
+### [126. Apple Cements Position as Most Valuable Company In the World — Again ](https://hackernoon.com/apple-cements-position-as-most-valuable-company-in-the-world-again)
 ![](https://cdn.hackernoon.com/images/stock-chart-going-up-xqicosootn7vtu5arnytg0ez.png)
 If Apple seems unfazed by the achievement, it's probably because this isn't the first time the company has made waves for its market cap.
+
+### [127. Tech Companies Show Support For Women After Roe v. Wade Overturned](https://hackernoon.com/tech-companies-show-support-for-women-after-roe-v-wade-overturned)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-f392edw.jpeg)
+American politics are making international headlines yet again with the latest on Roe v. Wade and gun rights.
 
 ### [128. Independence! And All the Tech Companies in Between](https://hackernoon.com/independence-and-all-the-tech-companies-in-between)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-za92dqv.jpeg)
@@ -557,13 +561,13 @@ Microsoft's Nadella was in the news on Monday after he showed up to testify agai
 ![](https://cdn.hackernoon.com/images/noonification_343_htsudnnj6k7uz2gwmll147af.png)
 7/5/2024: Top 5 stories on the HackerNoon homepage!
 
-### [140. The Noonification: The Good Quarter (8/14/2024)](https://hackernoon.com/8-14-2024-noonification)
-![](https://cdn.hackernoon.com/images/noonification_21_aqh0imtz39e2xgnwp915e7bj.png)
-8/14/2024: Top 5 stories on the HackerNoon homepage!
-
-### [141. The HackerNoon Newsletter: Better - An AI Powered Code Reviewer (11/21/2024)](https://hackernoon.com/11-21-2024-newsletter)
+### [140. The HackerNoon Newsletter: Better - An AI Powered Code Reviewer (11/21/2024)](https://hackernoon.com/11-21-2024-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_898_s6xwitq1wgv1xwnbzv2yxk50.png)
 11/21/2024: Top 5 stories on the HackerNoon homepage!
+
+### [141. The Noonification: The Good Quarter (8/14/2024)](https://hackernoon.com/8-14-2024-noonification)
+![](https://cdn.hackernoon.com/images/noonification_21_aqh0imtz39e2xgnwp915e7bj.png)
+8/14/2024: Top 5 stories on the HackerNoon homepage!
 
 ### [142. The HackerNoon Newsletter: Meet Āut Labs: HackerNoon Company of the Week (12/9/2024)](https://hackernoon.com/12-9-2024-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_501_jbeoork9zi5o2dxyaafeuar2.png)

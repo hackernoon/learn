@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [uniswap](https://hackernoon.com/tagged/uniswap)
+### Let's learn about [Uniswap](https://hackernoon.com/tagged/uniswap) via these 67 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Uniswap is a decentralized exchange (DEX) protocol built on Ethereum that facilitates automated trading of cryptocurrency tokens without traditional intermediaries. It's a cornerstone of the DeFi ecosystem, enabling permissionless token swaps and liquidity provision.
+
 ### [1. 3 Promising Cryptocurrencies to Invest In For 2021 & 2022](https://hackernoon.com/3-promising-cryptocurrencies-to-look-out-for-2021-2022-v2w372z)
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-ile635tf.jpeg)
 3 Promising Cryptocurrencies to Look Out For 2021 - 2022
@@ -191,34 +195,34 @@ The first challenge of oracle design starts with a philosophical question: What 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2597MoWJqIfIagq4DtkKt1rtGmW2-c97y3z8h.jpeg?alt=media&token=dd31e13b-7cd3-4e75-bfdd-828736072326)
 PRIA’s (short) History
 
-### [48. The Uniswap (UNI) SWOT Analysis ](https://hackernoon.com/the-uniswap-uni-swot-analysis)
+### [48. BlackRock Brings Tokenized Treasuries to Uniswap: What This Signals for Gold and Other RWAs](https://hackernoon.com/blackrock-brings-tokenized-treasuries-to-uniswap-what-this-signals-for-gold-and-other-rwas)
+![](https://cdn.hackernoon.com/images/JvUgrqBJGHbQVXtXMY1rNpeC87H2-9683c4z.jpeg)
+BlackRock brings tokenized Treasuries to Uniswap, signaling a major shift for gold, silver and other real-world assets entering DeFi infrastructure. 
+
+### [49. The Uniswap (UNI) SWOT Analysis ](https://hackernoon.com/the-uniswap-uni-swot-analysis)
 ![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-w893et8.jpeg)
 UniSwap(UNI), the industry’s leading decentralized exchange protocol and pioneer of the AMM trading model, will get a SWOT analysis. 
 
-### [49. [Announcement] Mega Rewards on Digitex Program Coming Soon With Uniswap](https://hackernoon.com/announcement-mega-rewards-on-digitex-program-coming-soon-with-uniswap-62153z78)
+### [50. [Announcement] Mega Rewards on Digitex Program Coming Soon With Uniswap](https://hackernoon.com/announcement-mega-rewards-on-digitex-program-coming-soon-with-uniswap-62153z78)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fe624Li1JXCOBE53yJLZgeafVSuG2-90k3wgx.jpeg?alt=media&token=e12d2a16-f950-48e2-83d1-3e960edbbc37)
 DeFi has dominated the topic of conversation in the cryptocurrency space in 2020 with few signs of slowing down. Among its many innovations, the trend of liquidity mining has without doubt caused the largest stir and allowed investors to make massive gains reminiscent of the ICO days.
 
-### [50. BTC, ETH, ICOs, and now - DeFi: How far Have We Come?](https://hackernoon.com/btc-eth-icos-and-now-defi-how-far-have-we-come)
+### [51. BTC, ETH, ICOs, and now - DeFi: How far Have We Come?](https://hackernoon.com/btc-eth-icos-and-now-defi-how-far-have-we-come)
 ![](https://cdn.hackernoon.com/images/dFW9aLMnLpgfjylixlaQdWQLp2C3-5o13o2q.jpeg)
 Bitcoin caught the attention of technologists and anarchists alike following the 2008 Global recession. Ethereum took Bitcoin’s ‘Digital Gold’ status and gave us smart contracts. ICOs took smart contracts and gave us supply chain management solutions for problems that we never knew existed.
 
 
-### [51. DeFi Needs To Be Scaled Down Or Reined In Before It Gets REKT](https://hackernoon.com/defi-needs-to-be-scaled-down-or-reined-in-before-it-gets-rekt-tr2o3zks)
+### [52. DeFi Needs To Be Scaled Down Or Reined In Before It Gets REKT](https://hackernoon.com/defi-needs-to-be-scaled-down-or-reined-in-before-it-gets-rekt-tr2o3zks)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPjhUTDCVZpgRiMEttRyZMghuqm02-tyg3zwv.jpeg?alt=media&token=71ea7474-15ff-4ea0-92e6-ebfd5fe3b019)
 DeFi is a blanket term, which explains a whole set of functions in the economy built around decentralized protocols. 
 
-### [52. Uniswap Under Government Scanner: Can't Stop Crypto Though](https://hackernoon.com/uniswap-under-government-scanner-cant-stop-crypto-though)
+### [53. Uniswap Under Government Scanner: Can't Stop Crypto Though](https://hackernoon.com/uniswap-under-government-scanner-cant-stop-crypto-though)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-762r3962.jpeg)
 SEC regulators are investigating Uniswap, sending chills through the US cryptocurrency community. But is it really worth worrying about?
 
-### [53. The Great Divide: Does Your CEX Know About Your DEX?](https://hackernoon.com/the-great-divide-does-your-cex-know-about-your-dex-lx1834ca)
+### [54. The Great Divide: Does Your CEX Know About Your DEX?](https://hackernoon.com/the-great-divide-does-your-cex-know-about-your-dex-lx1834ca)
 ![](https://cdn.hackernoon.com/images/btdeube8vcUiCwVc5VE5AzxD0Q82-wsu36wk.jpeg)
 A guy walks into a bar...
-
-### [54. BlackRock Brings Tokenized Treasuries to Uniswap: What This Signals for Gold and Other RWAs](https://hackernoon.com/blackrock-brings-tokenized-treasuries-to-uniswap-what-this-signals-for-gold-and-other-rwas)
-![](https://cdn.hackernoon.com/images/JvUgrqBJGHbQVXtXMY1rNpeC87H2-9683c4z.jpeg)
-BlackRock brings tokenized Treasuries to Uniswap, signaling a major shift for gold, silver and other real-world assets entering DeFi infrastructure. 
 
 ### [55. Hedging Against Market Manipulation with DeFi](https://hackernoon.com/hedging-against-market-manipulation-with-defi-mg2q33q1)
 ![](https://cdn.hackernoon.com/images/4FnNVQr5WaVz9Pb3rjDALHRb4XA2-cjl325c.jpeg)
@@ -240,13 +244,13 @@ Is this the holy grail of Web3 fashion? Explaining the Web3 grail of fashion NFT
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-jx93hp6.jpeg)
 dHEDGE partners with Uniswap to add new investment options for asset managers.
 
-### [60. A Technical Exploration of Optimistic Rollups in the context of Collaboration](https://hackernoon.com/a-technical-exploration-of-optimistic-rollups-in-the-context-of-collaboration-tn1c3weh)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWX7ai15Hr1RmyCFCEXaiaVlo0j02-s91i30o6.jpeg?alt=media&token=333f2e5d-aaf1-4e5a-8685-eb080d937a5b)
-Optimistic Rollups (ORU) is a type of layer two constructs that aims to provide low gas and high TPS simultaneously. 
-
-### [61. Memevengers ($MMVG) Lists on MEXC Following Uniswap Deployment](https://hackernoon.com/memevengers-$mmvg-lists-on-mexc-following-uniswap-deployment)
+### [60. Memevengers ($MMVG) Lists on MEXC Following Uniswap Deployment](https://hackernoon.com/memevengers-$mmvg-lists-on-mexc-following-uniswap-deployment)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-j692gxc.jpeg)
 Memevengers coin ($MMVG) has been gaining attention following a Uniswap listing on May 25th.
+
+### [61. A Technical Exploration of Optimistic Rollups in the context of Collaboration](https://hackernoon.com/a-technical-exploration-of-optimistic-rollups-in-the-context-of-collaboration-tn1c3weh)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWX7ai15Hr1RmyCFCEXaiaVlo0j02-s91i30o6.jpeg?alt=media&token=333f2e5d-aaf1-4e5a-8685-eb080d937a5b)
+Optimistic Rollups (ORU) is a type of layer two constructs that aims to provide low gas and high TPS simultaneously. 
 
 ### [62. The Advantages and Challenges of Building a Decentralized Cross-Chain Oracle Solution Using Uniswap](https://hackernoon.com/the-advantages-and-challenges-of-building-a-decentralized-cross-chain-oracle-solution-using-uniswap)
 ![](https://cdn.hackernoon.com/images/t03XIzsJKARrMflzDrlxmlIic9U2-h6832cz.jpeg)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [guide](https://hackernoon.com/tagged/guide)
+### Let's learn about [Guide](https://hackernoon.com/tagged/guide) via these 310 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A guide is a comprehensive resource offering instructions, advice, or explanations on a particular topic. Guides are invaluable for learning new skills, navigating complex systems, and optimizing processes.
+
 ### [1. Minecraft: How to Make an Invisibility Potion](https://hackernoon.com/minecraft-how-to-make-an-invisibility-potion)
 ![](https://cdn.hackernoon.com/images/z2O4NeofWDX5SOchZg5vCRj7Rsz1-ggd3ljy.jpeg)
 Add a golden carrot and a fermented spider eye to an awkward potion to make invisibility potions in Minecraft. Then, use these potions to sneak up on others.
@@ -201,13 +205,13 @@ How to Bridge Tokens from Ethereum to Polygon with MetaMask
 ![](https://cdn.hackernoon.com/images/rD3ZPSbOTDVcZgugSUvaEY2oV0x1-r393n3z.jpeg)
 In this article, I will try to explain basic ideas on how to create your own OCR service for free, using python, fastAPI, tesseract, redis, celery and docker.
 
-### [51. 9 Useful Interactive CLI Tools for Linux](https://hackernoon.com/9-useful-interactive-cli-tools-for-linux)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3d92c75.jpeg)
-9 text-based interactive CLI tools for Linux that you must know.
-
-### [52. Ditch the Notification and Show an Activity on Your Android Lock Screen Instead](https://hackernoon.com/ditch-the-notification-and-show-an-activity-on-your-android-lock-screen-instead)
+### [51. Ditch the Notification and Show an Activity on Your Android Lock Screen Instead](https://hackernoon.com/ditch-the-notification-and-show-an-activity-on-your-android-lock-screen-instead)
 ![](https://cdn.hackernoon.com/images/Qf32qIA0rKRPvvfxl82cUcPLRV82-pd92h04.jpeg)
 Today we’re gonna learn how to show a full screen activity instead of a notification when the device is locked.
+
+### [52. 9 Useful Interactive CLI Tools for Linux](https://hackernoon.com/9-useful-interactive-cli-tools-for-linux)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3d92c75.jpeg)
+9 text-based interactive CLI tools for Linux that you must know.
 
 ### [53. How to Use Mock API in Playwright](https://hackernoon.com/how-to-use-mock-api-in-playwright)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-yo92i4b.jpeg)
@@ -245,13 +249,13 @@ As you know Flutter provides an outstanding possibility to have one single code 
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oy92hqr.png)
 GitHub Actions is a powerful, flexible automation tool integrated into the GitHub platform.
 
-### [62. IMAP Email Server on AWS](https://hackernoon.com/imap-email-server-on-aws)
-![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-o293q7c.jpeg)
-Set Up an IMAP Postfix E-Mail Server with Dovecot on AWS.
-
-### [63. What the Heck Is Malloy?](https://hackernoon.com/what-the-heck-is-malloy)
+### [62. What the Heck Is Malloy?](https://hackernoon.com/what-the-heck-is-malloy)
 ![](https://cdn.hackernoon.com/images/YmHydCcGCzQzUWBvxb6PtrLtiRg1-ep93l1s.png)
 Malloy is a new experimental language for describing data relationships and transformations created by the developer of Looker.
+
+### [63. IMAP Email Server on AWS](https://hackernoon.com/imap-email-server-on-aws)
+![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-o293q7c.jpeg)
+Set Up an IMAP Postfix E-Mail Server with Dovecot on AWS.
 
 ### [64. How to Print Receipts With TSPL and JavaScript](https://hackernoon.com/how-to-print-receipts-with-tspl-and-javascript)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5092bna.jpeg)
@@ -289,23 +293,23 @@ The react hooks are regular functions.
 ![](https://cdn.hackernoon.com/images/cjwcVDmwpbVBV6tzg2NsNKh90hL2-1w13244.png)
 Configure Geolocation-based AWS CloudFront with CloudFuntions for enhancing the user experience in modern web apps.
 
-### [73. CI/CD Pipelines on GitLab and AWS: Speed Up Your Deployments](https://hackernoon.com/cicd-pipelines-on-gitlab-and-aws-speed-up-your-deployments)
-![](https://cdn.hackernoon.com/images/wY6K2KcA52crjFK5bbPE4UZyoUl1-1o36e351e.jpeg)
-Brief guide how to deploy websites with Gitlab CI to AWS S3
-
-### [74. Python Libraries That One Must Try For Fun](https://hackernoon.com/python-libraries-that-one-must-try-for-fun)
+### [73. Python Libraries That One Must Try For Fun](https://hackernoon.com/python-libraries-that-one-must-try-for-fun)
 ![](https://cdn.hackernoon.com/images/IhwaXpJHotbQjTYSlIjXeTnE7ST2-xv93ijj.jpeg)
 So you want to make some projects for fun in python but do not know where to start. Well you can start from these libraries, which are very easy and very fun. 
 
-### [75. How To Pack Javascript Code with Webpack](https://hackernoon.com/how-to-pack-javascript-code-with-webpack-hn4y3y1g)
+### [74. CI/CD Pipelines on GitLab and AWS: Speed Up Your Deployments](https://hackernoon.com/cicd-pipelines-on-gitlab-and-aws-speed-up-your-deployments)
+![](https://cdn.hackernoon.com/images/wY6K2KcA52crjFK5bbPE4UZyoUl1-1o36e351e.jpeg)
+Brief guide how to deploy websites with Gitlab CI to AWS S3
+
+### [75. What Is Cloudwatch Embedded Metrics?](https://hackernoon.com/what-is-cloudwatch-embedded-metrics)
+![](https://cdn.hackernoon.com/images/TlU0qyilehYV4XrjqgkglSwSK413-j0a3qqt.jpeg)
+I can’t believe not many people are talking about this AWS feature. It’s a game changer!
+
+### [76. How To Pack Javascript Code with Webpack](https://hackernoon.com/how-to-pack-javascript-code-with-webpack-hn4y3y1g)
 ![](https://images.unsplash.com/photo-1536238349444-c05ffb6837e4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 What is Webpack?
 
 Webpack is a module bundler for JavaScript as well as HTML applications. It grabs modular pieces of code compartmentalized in folders. Followed by reconstituting them into a compiled form. Then it's read as a whole by the application. You must be thinking, "Why break up a working code?" As your code scales, so does its complexity. Finding a correlation between each block becomes a challenge.  
-
-### [76. What Is Cloudwatch Embedded Metrics?](https://hackernoon.com/what-is-cloudwatch-embedded-metrics)
-![](https://cdn.hackernoon.com/images/TlU0qyilehYV4XrjqgkglSwSK413-j0a3qqt.jpeg)
-I can’t believe not many people are talking about this AWS feature. It’s a game changer!
 
 ### [77. How Multi-Processing Helped Me Speed Up My JavaScript Application By 4x](https://hackernoon.com/how-multi-processing-helped-me-speed-up-my-javascript-application-by-4x)
 ![](https://cdn.hackernoon.com/images/RRkr6iAVrkZUPDYc4JP3vhSkNkc2-opf2f7n.jpeg)
@@ -395,14 +399,14 @@ Blog website using a static site generator Hugo and deploying it to Netlify
 ![](https://cdn.hackernoon.com/images/QepJZAyLUDcMpCXcZjnWeHJM7ad2-3693t8p.jpeg)
 Self-host your own website analytics with Umami.
 
-### [99. Deploy Like Vercel and Netlify with Cloud Run: Live, Preview, and Modern Workflow](https://hackernoon.com/deploy-like-vercel-and-netlify-with-cloud-run-live-preview-and-modern-workflow)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1b92dnk.jpeg)
-The modern workflow that unlocks your team's potential to ship faster.
-
-### [100. How to Make a Responsive Mega Menu in HTML CSS](https://hackernoon.com/how-to-make-a-responsive-mega-menu-in-html-css)
+### [99. How to Make a Responsive Mega Menu in HTML CSS](https://hackernoon.com/how-to-make-a-responsive-mega-menu-in-html-css)
 ![](https://cdn.hackernoon.com/images/MoanquIkoEM6FHMfBxh180aartg1-3w93q0x.jpeg)
 In this tutorial, we will learn how to create a mega-menu in HTML/CSS, also called a "dropdown menu".
 
+
+### [100. Deploy Like Vercel and Netlify with Cloud Run: Live, Preview, and Modern Workflow](https://hackernoon.com/deploy-like-vercel-and-netlify-with-cloud-run-live-preview-and-modern-workflow)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1b92dnk.jpeg)
+The modern workflow that unlocks your team's potential to ship faster.
 
 ### [101. WebSockets vs. Webhooks: Which is Better for Real-Time Communication?](https://hackernoon.com/websockets-vs-webhooks-which-is-better-for-real-time-communication)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8192fzs.jpeg)
@@ -432,15 +436,15 @@ How to Automate Job Application with ChatGPT in 3 Steps
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5q92990.jpeg)
 This article will provide a brief guide on creating a webhook URL in three popular cloud platforms: AWS, Heroku, and GCP. 
 
-### [108. Using ReactPHP to Stream Media](https://hackernoon.com/using-reactphp-to-stream-media)
-![](https://cdn.hackernoon.com/images/PuORuGm6w5heku18h0n6ohGlli73-0n9332b.jpeg)
-A design for a streaming media server using ReactPHP and Laravel.
-
-### [109. AWS Lambda Alias: An Essential Guide ](https://hackernoon.com/aws-lambda-alias-an-essential-guide)
+### [108. AWS Lambda Alias: An Essential Guide ](https://hackernoon.com/aws-lambda-alias-an-essential-guide)
 ![](https://cdn.hackernoon.com/images/TlU0qyilehYV4XrjqgkglSwSK413-h9g3ni8.png)
 Why you should be using AWS Lambda alias for your versioning strategy
 
 
+
+### [109. Using ReactPHP to Stream Media](https://hackernoon.com/using-reactphp-to-stream-media)
+![](https://cdn.hackernoon.com/images/PuORuGm6w5heku18h0n6ohGlli73-0n9332b.jpeg)
+A design for a streaming media server using ReactPHP and Laravel.
 
 ### [110. How to Read Image Sizes and Dimensions with Alpine.js](https://hackernoon.com/how-to-read-image-sizes-and-dimensions-with-alpinejs)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-k292fdk.jpeg)
@@ -450,17 +454,17 @@ A look at determining image sizes using Alpine.js.
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-d392btv.jpeg)
 From version v3, the OpenApi standard brings another way to introduce query parameters via DeepObject.
 
-### [112. Introduction to gRPC Testing on a Real Project](https://hackernoon.com/introduction-to-grpc-testing-on-a-real-project)
-![](https://cdn.hackernoon.com/images/GwtSLychDFVQnp9pa3AqtIpWQ073-nt93rw0.jpeg)
-n this story, I will demonstrate how to test a service that communicates through the gRPC framework on an actual project.
+### [112. How to Create an NFT Reveal With Solidity](https://hackernoon.com/how-to-create-an-nft-reveal-with-solidity)
+![](https://cdn.hackernoon.com/images/eMAhpJlZRZWKBIGuJh4n8qxPiTK2-us93j63.jpeg)
+This guide will show you how to create an NFT reveal in Solidity. You'll learn how to update smart contracts code, integrate metadata and setup IPFS
 
 ### [113. Building a Small K8s Cluster on a Single PC - Chapter 1 -  A Host is Rising.](https://hackernoon.com/building-a-small-k8s-cluster-on-a-single-pc-chapter-1-a-host-is-rising)
 ![](https://cdn.hackernoon.com/images/QHp9lRiuzvcvSTo0yYYsq3pQ1G93-jj92ju6.jpeg)
 First article in a series for introducing a guide about building a K8s cluster on a single PC with Proxmox VE and K3s
 
-### [114. How to Create an NFT Reveal With Solidity](https://hackernoon.com/how-to-create-an-nft-reveal-with-solidity)
-![](https://cdn.hackernoon.com/images/eMAhpJlZRZWKBIGuJh4n8qxPiTK2-us93j63.jpeg)
-This guide will show you how to create an NFT reveal in Solidity. You'll learn how to update smart contracts code, integrate metadata and setup IPFS
+### [114. Introduction to gRPC Testing on a Real Project](https://hackernoon.com/introduction-to-grpc-testing-on-a-real-project)
+![](https://cdn.hackernoon.com/images/GwtSLychDFVQnp9pa3AqtIpWQ073-nt93rw0.jpeg)
+n this story, I will demonstrate how to test a service that communicates through the gRPC framework on an actual project.
 
 ### [115. Rewriting Git History With Confidence: A Guide](https://hackernoon.com/rewriting-git-history-with-confidence-a-guide)
 ![](https://cdn.hackernoon.com/images/gmOc0oFqu1bhmjIHPPRIHb8K3Vh1-wsb3l1n.jpeg)
@@ -472,25 +476,25 @@ This post will give you the tools to rewrite history.
 ![](https://cdn.hackernoon.com/images/zHdHBEH1IkdiU7bxeo1GQkasIO22-wy93oh3.jpeg)
 New to API testing? This tutorial will show you everything you need to start, from understanding what an API is to using popular tools to make testing easier. 
 
-### [117. Creating PowerPoint Presentations With ChatGPT and MARP (As a Software Engineer): A Guide](https://hackernoon.com/creating-powerpoint-presentations-with-chatgpt-and-marp-as-a-software-engineer-a-guide)
-![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-3na3phi.jpeg)
-Streamlining PowerPoint Presentation Creation with ChatGPT and MARP.
-
-### [118. How to Receive Webhooks With Supabase Edge Functions](https://hackernoon.com/how-to-receive-webhooks-with-supabase-edge-functions)
+### [117. How to Receive Webhooks With Supabase Edge Functions](https://hackernoon.com/how-to-receive-webhooks-with-supabase-edge-functions)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-uf93vr3.jpeg)
 In this tutorial we'll set up a Supabase Edge Function to receive a webhook from Svix and validate the webhook signature.
+
+### [118. Creating PowerPoint Presentations With ChatGPT and MARP (As a Software Engineer): A Guide](https://hackernoon.com/creating-powerpoint-presentations-with-chatgpt-and-marp-as-a-software-engineer-a-guide)
+![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-3na3phi.jpeg)
+Streamlining PowerPoint Presentation Creation with ChatGPT and MARP.
 
 ### [119. Filestack API — Everything You Need to Know](https://hackernoon.com/filestack-api-everything-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-5l92kfo.jpeg)
 Filestack is a powerful API for file upload, transformation, and delivery.
 
-### [120. How to Add GraphQL Wrapper Over REST API](https://hackernoon.com/how-to-add-graphql-wrapper-over-rest-api)
-![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-jak3vcn.jpeg)
-How to add GraphQL wrapper along with swagger documentation in ASP.Net C# using NSwag tool
-
-### [121. Replace the Placeholders in a Text With the Values of the Object](https://hackernoon.com/replace-the-placeholders-in-a-text-with-the-values-of-the-object)
+### [120. Replace the Placeholders in a Text With the Values of the Object](https://hackernoon.com/replace-the-placeholders-in-a-text-with-the-values-of-the-object)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8u92a9c.jpeg)
 Tutorial on how to easily replace 1 line of code placeholder in any text with value of an object.
+
+### [121. How to Add GraphQL Wrapper Over REST API](https://hackernoon.com/how-to-add-graphql-wrapper-over-rest-api)
+![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-jak3vcn.jpeg)
+How to add GraphQL wrapper along with swagger documentation in ASP.Net C# using NSwag tool
 
 ### [122. Accelerating Android Application Development With the ADB Idea Plugin](https://hackernoon.com/accelerating-android-application-development-with-the-adb-idea-plugin)
 ![](https://cdn.hackernoon.com/images/EeX35fKg9SMcjCyjLf6mn4qpi7X2-sea3p15.jpeg)
@@ -552,29 +556,29 @@ I used PHP GD to create, and generate watermark images! Also if you want to know
 ![](https://cdn.hackernoon.com/images/TVzbYHH4h7RpL2BVldOmrkMuKa72-qk93r5u.jpeg)
 Strong cryptographic assurances are needed to secure data. This is where Docker Content Trust (DCT) comes into the picture.
 
-### [137. 10 Steps to Build a High-Value Startup with $44k Free Credits](https://hackernoon.com/10-steps-to-build-a-high-value-startup-with-dollar44k-free-credits-k2203zzw)
-![](https://cdn.hackernoon.com/images/6rIUew2PIuaENjVOkH9rgfSaGA73-4a5a3e8i.jpeg)
-10 steps to build a high value start up with $44k free credits and the best tools out there
-
-### [138. [A Step by Step Guide] Integrating Apple Pay in Your iOS App](https://hackernoon.com/how-to-integrate-apple-pay-in-ios-app-easy-vq2hl30ra)
-![](https://cdn.hackernoon.com/drafts/tds32is.png)
-Today Apple Pay accounts for 70% of the world’s card payment transactions, making the Apple payment gateway a must-have for any digital business. Additionally, it allows you to accept overseas payments since this service is available in over 20 countries. 
-
-### [139. 125 Stories To Learn How To Do X](https://hackernoon.com/125-stories-to-learn-about-how-to)
+### [137. 125 Stories To Learn How To Do X](https://hackernoon.com/125-stories-to-learn-about-how-to)
 ![](https://cdn.hackernoon.com/images/github/how-to-382.png)
 Learn everything you need to know about How To via these 125 free HackerNoon stories.
+
+### [138. How to Quickly Build an Admin Panel With Rails7 and Infold](https://hackernoon.com/how-to-quickly-build-an-admin-panel-with-rails7-and-infold)
+![](https://cdn.hackernoon.com/images/3x48XNxOCHRpwU5sn6IcIUxngmw1-1z92och.jpeg)
+Infold is a scaffold code generator for CRUD applications, such as an Admin panel with Rails7. This article explains how to use Gem in a tutorial format.
+
+### [139. The Use Case Chronicles – Part 1: Who, What, and How to Use Cases](https://hackernoon.com/the-use-case-chronicles-part-1-who-what-and-how-to-use-cases)
+![](https://cdn.hackernoon.com/images/5Zb40MjyqFPNqh9pXpqyWFYXMsz2-e0l3y6c.jpeg)
+Explore Use Cases: Invented by Ivar Jacobson, they define user interactions in apps through text or diagrams, aiding analysts, engineers, and architects.
 
 ### [140. Mastering Integers in Python: A Comprehensive Beginner's Guide](https://hackernoon.com/mastering-integers-in-python-a-comprehensive-beginners-guide)
 ![](https://cdn.hackernoon.com/images/mCQMNMUuBRQ0LIqGt5Ff1WvWWSL2-tr93lav.jpeg)
 This article provides a comprehensive beginner's guide to everything related to integers in Python. Whether you are just starting out with programming or lookin
 
-### [141. How to Quickly Build an Admin Panel With Rails7 and Infold](https://hackernoon.com/how-to-quickly-build-an-admin-panel-with-rails7-and-infold)
-![](https://cdn.hackernoon.com/images/3x48XNxOCHRpwU5sn6IcIUxngmw1-1z92och.jpeg)
-Infold is a scaffold code generator for CRUD applications, such as an Admin panel with Rails7. This article explains how to use Gem in a tutorial format.
+### [141. [A Step by Step Guide] Integrating Apple Pay in Your iOS App](https://hackernoon.com/how-to-integrate-apple-pay-in-ios-app-easy-vq2hl30ra)
+![](https://cdn.hackernoon.com/drafts/tds32is.png)
+Today Apple Pay accounts for 70% of the world’s card payment transactions, making the Apple payment gateway a must-have for any digital business. Additionally, it allows you to accept overseas payments since this service is available in over 20 countries. 
 
-### [142. The Use Case Chronicles – Part 1: Who, What, and How to Use Cases](https://hackernoon.com/the-use-case-chronicles-part-1-who-what-and-how-to-use-cases)
-![](https://cdn.hackernoon.com/images/5Zb40MjyqFPNqh9pXpqyWFYXMsz2-e0l3y6c.jpeg)
-Explore Use Cases: Invented by Ivar Jacobson, they define user interactions in apps through text or diagrams, aiding analysts, engineers, and architects.
+### [142. 10 Steps to Build a High-Value Startup with $44k Free Credits](https://hackernoon.com/10-steps-to-build-a-high-value-startup-with-dollar44k-free-credits-k2203zzw)
+![](https://cdn.hackernoon.com/images/6rIUew2PIuaENjVOkH9rgfSaGA73-4a5a3e8i.jpeg)
+10 steps to build a high value start up with $44k free credits and the best tools out there
 
 ### [143. Learn Modern AI Terms to Stay in the Know](https://hackernoon.com/learn-modern-ai-terms-to-stay-in-the-know)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-dd93q0r.jpeg)
@@ -596,45 +600,45 @@ Top 5 resources to get yourself ready for system design interviews, including bo
 ![](https://cdn.hackernoon.com/images/413euGpz9JcvX40wUDuWJVtHdMz1-s2e3ooq.jpeg)
 One-Place Reference with Code Samples for Spring Boot Annotations.
 
-### [148. Kubernetes Cluster Must-Haves To Be Production Ready](https://hackernoon.com/kubernetes-cluster-must-haves-to-be-production-ready)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7m92alp.jpeg)
-What you always have as a Kubernetes cluster is usually always the bare minimum. 
+### [148. Revealing the Digital Detective: Essential OSINT Tools and Techniques for Investigators](https://hackernoon.com/revealing-the-digital-detective-essential-osint-tools-and-techniques-for-investigators)
+![](https://cdn.hackernoon.com/images/U1m5GaMYDHWJzl8Irz0ejTcfrpI2-kz93sa0.jpeg)
+ In this chapter, we will provide an introduction to OSINT (Open Source Intelligence) and its significance in the realm of investigations. 
 
 ### [149. Building a Solana Wallet Generator with React](https://hackernoon.com/building-a-solana-wallet-generator-with-react)
 ![](https://cdn.hackernoon.com/images/i7v7PgAY6gVvOdyUcry2bx970OO2-06d31oh.jpeg)
 In this tutorial, we would successfully develop a Solana wallet-generating web application with basic capabilities. 
 
-### [150. How to Build a Github User Finder App With Next.js & Tailwind CSS](https://hackernoon.com/how-to-build-a-github-user-finder-app-with-nextjs-and-tailwind-css)
+### [150. Kubernetes Cluster Must-Haves To Be Production Ready](https://hackernoon.com/kubernetes-cluster-must-haves-to-be-production-ready)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7m92alp.jpeg)
+What you always have as a Kubernetes cluster is usually always the bare minimum. 
+
+### [151. How to Build a Github User Finder App With Next.js & Tailwind CSS](https://hackernoon.com/how-to-build-a-github-user-finder-app-with-nextjs-and-tailwind-css)
 ![](https://cdn.hackernoon.com/images/Y0kXG115Z7VorP4rguIGxwn3FoD3-gh93mx7.jpeg)
 In this project, we are going to build GitHub user Search App using Github API. We will design the UI of the app using Tailwind CSS with Next.js as a framework.
 
-### [151. Revealing the Digital Detective: Essential OSINT Tools and Techniques for Investigators](https://hackernoon.com/revealing-the-digital-detective-essential-osint-tools-and-techniques-for-investigators)
-![](https://cdn.hackernoon.com/images/U1m5GaMYDHWJzl8Irz0ejTcfrpI2-kz93sa0.jpeg)
- In this chapter, we will provide an introduction to OSINT (Open Source Intelligence) and its significance in the realm of investigations. 
-
-### [152. Best Practices for Cold Emailing Under GDPR](https://hackernoon.com/cold-emailing-under-gdpr-complete-guide-86r3nr6)
-![](https://cdn.hackernoon.com/images/u86g3noc.jpg)
-As a growth hacker I do cold emailing. A lot! 
-
-### [153. Axios: What to Do When Something Goes Wrong](https://hackernoon.com/axios-what-to-do-when-something-goes-wrong)
+### [152. Axios: What to Do When Something Goes Wrong](https://hackernoon.com/axios-what-to-do-when-something-goes-wrong)
 ![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-0193rqx.jpeg)
 You've seen a couple of ways to deal with error responses when making HTTP calls with Axios. 
 
-### [154. An Introduction to LÖVE the 2D Game Engine](https://hackernoon.com/an-introduction-to-love-the-2d-game-engine)
+### [153. An Introduction to LÖVE the 2D Game Engine](https://hackernoon.com/an-introduction-to-love-the-2d-game-engine)
 ![](https://cdn.hackernoon.com/images/5ZmiyWebQcgzkkVANit1176aFLP2-s693pra.jpeg)
 If you are looking into starting with LÖVE, this guide compiles a lot of information that will help you to get started and save you hours of research.
+
+### [154. Best Practices for Cold Emailing Under GDPR](https://hackernoon.com/cold-emailing-under-gdpr-complete-guide-86r3nr6)
+![](https://cdn.hackernoon.com/images/u86g3noc.jpg)
+As a growth hacker I do cold emailing. A lot! 
 
 ### [155. A Guide to Virtual Town Hall Meetings](https://hackernoon.com/a-guide-to-virtual-town-hall-meetings-zv1v3tga)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FiuirgjBQ4Thx60vCesH1NaS5wZj1-fq5y3tfg.jpeg?alt=media&token=66b1eef9-8545-4f3c-afcc-b0d744d27ef7)
 As we step ahead, virtual events and virtual conferences are gaining momentum and becoming immensely popular. Hosting recurring day to day internal virtual meetings and conferences have become an integral part of businesses today. A sudden boost in web conferencing platforms has been witnessed on the internet that offers interactive & engaging online meeting solutions.
 
-### [156. How to Build Small K8s Cluster on a Single PC - Chapter 3 - Crafting the Appscape.](https://hackernoon.com/how-to-build-small-k8s-cluster-on-a-single-pc-chapter-3-crafting-the-appscape)
-![](https://cdn.hackernoon.com/images/QHp9lRiuzvcvSTo0yYYsq3pQ1G93-6f92jk4.jpeg)
-Third article where I review my guides about building a small K8s cluster on a single PC with Proxmox VE, Debian VMs, and K3s.
-
-### [157. How to Delete Your Reddit Account](https://hackernoon.com/how-to-delete-your-reddit-account)
+### [156. How to Delete Your Reddit Account](https://hackernoon.com/how-to-delete-your-reddit-account)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-4193pho.jpeg)
 The first step is obvious: go to Reddit and make sure that you’re logged into the account you want to be deleted.
+
+### [157. How to Build Small K8s Cluster on a Single PC - Chapter 3 - Crafting the Appscape.](https://hackernoon.com/how-to-build-small-k8s-cluster-on-a-single-pc-chapter-3-crafting-the-appscape)
+![](https://cdn.hackernoon.com/images/QHp9lRiuzvcvSTo0yYYsq3pQ1G93-6f92jk4.jpeg)
+Third article where I review my guides about building a small K8s cluster on a single PC with Proxmox VE, Debian VMs, and K3s.
 
 ### [158. How Does Vite Achieve Constant Time Builds?](https://hackernoon.com/how-does-vite-achieve-constant-time-builds)
 ![](https://cdn.hackernoon.com/images/TlU0qyilehYV4XrjqgkglSwSK413-wwf3que.png)
@@ -644,17 +648,17 @@ The 3 key decisions that makes Vite faster than Webpack.
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-qb92i4q.jpeg)
 In some projects it is crucial to respect the same size for the component on the page, or to guarantee the exact visualization each time.
 
-### [160. Building Stupid Stuff](https://hackernoon.com/building-stupid-stuff)
+### [160. Ultimate Blockchain Nodes Guide: What Is It and How Does It Work?](https://hackernoon.com/ultimate-blockchain-nodes-guide-what-is-it-and-how-does-it-work)
+![](https://cdn.hackernoon.com/images/0xc3dae29f3fc59bfcef7bab95bc7266173338213f-s4234ol.jpeg)
+Complete guide to blockchain nodes: types, functions, setup, income potential & maintenance. Essential for developers and crypto enthusiasts.
+
+### [161. Building Stupid Stuff](https://hackernoon.com/building-stupid-stuff)
 ![](https://cdn.hackernoon.com/images/HxNfkrh26UTEtXQzDqREGxYItVs2-zua3t0f.jpeg)
 A first blog post to reduce (or increase?) the awkwardness.
 
-### [161. Technical Interview: How to Prepare, Structure, and More Tips](https://hackernoon.com/technical-interview-how-to-prepare-structure-and-more-tips)
+### [162. Technical Interview: How to Prepare, Structure, and More Tips](https://hackernoon.com/technical-interview-how-to-prepare-structure-and-more-tips)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-yx93nq0.jpeg)
 Interviewing someone isn't as easy as it seems. Here are some tips to form the best interview,  both for you and your interviewee. 
-
-### [162. DEX's And AMM's Fuel DeFi Growth](https://hackernoon.com/dexs-and-amms-fuel-defi-growth)
-![](https://cdn.hackernoon.com/images/0occow2Rm7Zauw41hUhjTOc8N7C2-ga93sng.jpeg)
-Further advancements in blockchain technology drive the rise of decentralized financial technology (DFT). 
 
 ### [163. How to Define a Flutter Theme?](https://hackernoon.com/how-to-define-a-flutter-theme)
 ![](https://cdn.hackernoon.com/images/gjQkVcwbXQPVp1wM6h9gfXvD0Vp1-hk92ow8.jpeg)
@@ -664,21 +668,21 @@ Design Global themes for a flutter app. Define a set of colors, font families, f
 ![](https://cdn.hackernoon.com/images/StporCKQ0pVgkgmytaORphBwnL83-0k93hl1.jpeg)
 Let’s create a simple Angular application that will load the data of a github user, and then (not) beautifully crash when trying to load a non-existent one.
 
-### [165. Ultimate Blockchain Nodes Guide: What Is It and How Does It Work?](https://hackernoon.com/ultimate-blockchain-nodes-guide-what-is-it-and-how-does-it-work)
-![](https://cdn.hackernoon.com/images/0xc3dae29f3fc59bfcef7bab95bc7266173338213f-s4234ol.jpeg)
-Complete guide to blockchain nodes: types, functions, setup, income potential & maintenance. Essential for developers and crypto enthusiasts.
+### [165. DEX's And AMM's Fuel DeFi Growth](https://hackernoon.com/dexs-and-amms-fuel-defi-growth)
+![](https://cdn.hackernoon.com/images/0occow2Rm7Zauw41hUhjTOc8N7C2-ga93sng.jpeg)
+Further advancements in blockchain technology drive the rise of decentralized financial technology (DFT). 
 
-### [166. How to Get Your First Job as a Video Game Designer](https://hackernoon.com/how-to-get-your-first-job-as-a-video-game-designer-5fz32q8)
+### [166. Git blame - Figuring Out Who Modified a Line With Git](https://hackernoon.com/git-blame-figuring-out-who-modified-a-line-with-git)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-of93o4l.jpeg)
+Have you ever found a bug inducing line change in your code, and wondered who made the change to that line? Fortunately, git has a command for that
+
+### [167. How to Get Your First Job as a Video Game Designer](https://hackernoon.com/how-to-get-your-first-job-as-a-video-game-designer-5fz32q8)
 ![](https://cdn.hackernoon.com/images/uj9as32zx.jpg)
 How many of us have thought to ourselves “how cool would it be to become a game designer!” It might seem like a pipe dream at first, but with the right approach, it’s possible, even for someone in their 30s with a completely unrelated education or background.   
 
-### [167. The Use Case Chronicles – Part 3: Insights and Tips for Writers](https://hackernoon.com/the-use-case-chronicles-part-3-insights-and-tips-for-writers)
+### [168. The Use Case Chronicles – Part 3: Insights and Tips for Writers](https://hackernoon.com/the-use-case-chronicles-part-3-insights-and-tips-for-writers)
 ![](https://cdn.hackernoon.com/images/5Zb40MjyqFPNqh9pXpqyWFYXMsz2-sw93ycx.jpeg)
 To make a use case, identify actors, define their needs, connect them. Find out templates and examples: levels of detail and extension.
-
-### [168. Git blame - Figuring Out Who Modified a Line With Git](https://hackernoon.com/git-blame-figuring-out-who-modified-a-line-with-git)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-of93o4l.jpeg)
-Have you ever found a bug inducing line change in your code, and wondered who made the change to that line? Fortunately, git has a command for that
 
 ### [169. Creating a Profitable Product Without Spending a Dime on Marketing: A Zero to Hero Guide](https://hackernoon.com/creating-a-profitable-product-without-spending-a-dime-on-marketing-a-zero-to-hero-guide)
 ![](https://cdn.hackernoon.com/images/clark-kent-changing-to-his-superman-costume-ofajpsfpymtlktpqlx43jimx.png)
@@ -688,53 +692,53 @@ Yes, you read that correctly! We'll dive deep into the world of keywords, backli
 ![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-1093ech.jpeg)
 Sprinkled with fairy dust and lathered in memes, the Crypto industry is built on a foundation of extremely informationally dense subject matters. Computer sc...
 
-### [171. Learning to Build an End-to-End NFT Project Using Truffle Suite](https://hackernoon.com/learning-to-build-an-end-to-end-nft-project-using-truffle-suite)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-vh930qv.jpeg)
-Learn about the Truffle Suite and how they fit in the web3 dev lifecycle. Then we'll create an end-to-end NFT project and verify a successful launch. 
-
-### [172. CheatSheet: 20 JavaScript Array Methods](https://hackernoon.com/cheatsheet-20-javascript-array-methods)
-![](https://cdn.hackernoon.com/images/IwasHOxtJGhHQhXIk72ArsvJjMq1-exb3vac.jpeg)
-Arrays are objects that enable storing a collection of items and data under a single variable name and have the capability to perform a certain operation.
-
-### [173. Shutting Down Spring Boot Applications](https://hackernoon.com/shutting-down-spring-boot-applications)
+### [171. Shutting Down Spring Boot Applications](https://hackernoon.com/shutting-down-spring-boot-applications)
 ![](https://cdn.hackernoon.com/images/413euGpz9JcvX40wUDuWJVtHdMz1-hhl3onr.jpeg)
 Ways for Clean Shutdown of Spring Boot Applications, whether in Developer mode or in Production Mode. Code Samples are provided Inline and via Git Repo.
 
-### [174. Configuring Bundler and Cocoapods for Xcode Cloud - A Quick Guide](https://hackernoon.com/configuring-bundler-and-cocoapods-for-xcode-cloud-a-quick-guide)
-![](https://cdn.hackernoon.com/images/jNAUqlGwtmQxcp6ZD2ZThzm7l6R2-j293smr.jpeg)
-How to Configure Bundler and Cocoapods for Xcode Cloud: A Comprehensive Guide
+### [172. Learning to Build an End-to-End NFT Project Using Truffle Suite](https://hackernoon.com/learning-to-build-an-end-to-end-nft-project-using-truffle-suite)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-vh930qv.jpeg)
+Learn about the Truffle Suite and how they fit in the web3 dev lifecycle. Then we'll create an end-to-end NFT project and verify a successful launch. 
 
-### [175. How to Apply Security at the Source Using GitOps](https://hackernoon.com/how-to-apply-security-at-the-source-using-gitops)
+### [173. CheatSheet: 20 JavaScript Array Methods](https://hackernoon.com/cheatsheet-20-javascript-array-methods)
+![](https://cdn.hackernoon.com/images/IwasHOxtJGhHQhXIk72ArsvJjMq1-exb3vac.jpeg)
+Arrays are objects that enable storing a collection of items and data under a single variable name and have the capability to perform a certain operation.
+
+### [174. How to Apply Security at the Source Using GitOps](https://hackernoon.com/how-to-apply-security-at-the-source-using-gitops)
 ![](https://cdn.hackernoon.com/images/9FQpIoFFubgQG6ktIOzixXaUlZs2-aq93or9.jpeg)
 Discover how GitOps can improve your current methodology. Also, how to add an extra security layer to it and the tools available.
 
-### [176. Understanding zkSync: A Comprehensive Guide to Airdrop Opportunities](https://hackernoon.com/understanding-zksync-a-comprehensive-guide-to-airdrop-opportunities)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-y493rsp.jpeg)
-zkSync is a trustless protocol built by Matter Labs for scalable, low-cost payments on Ethereum, powered by zk-rollup technology.
-
-### [177. Improve Productivity by Using mamba to Speed up Creating Python Virtual Environment](https://hackernoon.com/improve-productivity-by-using-mamba-to-speed-up-creating-python-virtual-environment)
+### [175. Improve Productivity by Using mamba to Speed up Creating Python Virtual Environment](https://hackernoon.com/improve-productivity-by-using-mamba-to-speed-up-creating-python-virtual-environment)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-fn93ruh.jpeg)
 Improve productivity by using mamba to speed up creating Python virtual environment. Resolve the issue of extremely slow environment solving when using conda.
 
-### [178. RTK for the useReducer Hook: A Guide](https://hackernoon.com/rtk-for-the-usereducer-hook-a-guide)
+### [176. Configuring Bundler and Cocoapods for Xcode Cloud - A Quick Guide](https://hackernoon.com/configuring-bundler-and-cocoapods-for-xcode-cloud-a-quick-guide)
+![](https://cdn.hackernoon.com/images/jNAUqlGwtmQxcp6ZD2ZThzm7l6R2-j293smr.jpeg)
+How to Configure Bundler and Cocoapods for Xcode Cloud: A Comprehensive Guide
+
+### [177. Practical Cryptography with Go](https://hackernoon.com/practical-cryptography-with-go)
+![](https://cdn.hackernoon.com/images/iwcbZLXt2tWT1T9ZNtQukR36MJo2-s492ouz.jpeg)
+What algorithm(s) to use, what is safe enough, what is not safe, which implementation, padding, what type of key, encoding, etc
+
+### [178. Understanding zkSync: A Comprehensive Guide to Airdrop Opportunities](https://hackernoon.com/understanding-zksync-a-comprehensive-guide-to-airdrop-opportunities)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-y493rsp.jpeg)
+zkSync is a trustless protocol built by Matter Labs for scalable, low-cost payments on Ethereum, powered by zk-rollup technology.
+
+### [179. RTK for the useReducer Hook: A Guide](https://hackernoon.com/rtk-for-the-usereducer-hook-a-guide)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-pr93q3i.jpeg)
 So, in the basic scenario when there are no needs in the redux, I will only use the hook itself without heavy libraries just for the small feature.
 
-### [179. Pandas Code Testing Guide for New Python Developers](https://hackernoon.com/pandas-code-testing-guide-for-new-python-developers)
-![](https://cdn.hackernoon.com/images/42fVSCMQWfSi7dcFWQN3DtjfjLC2-ga93ftn.jpeg)
-A guide on how to write efficient and effective unit tests for Pandas functions using Pytest.
-
-### [180. Publish Go Packages With Goreleaser](https://hackernoon.com/publish-go-packages-with-goreleaser)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-2m93p76.jpeg)
-Goreleaser is awesome. It's a simple tool that allows you to release your go packages.
-
-### [181. A Cat-Centric Guide to Using Web Components in Alpine.js](https://hackernoon.com/a-cat-centric-guide-to-using-web-components-in-alpinejs)
+### [180. A Cat-Centric Guide to Using Web Components in Alpine.js](https://hackernoon.com/a-cat-centric-guide-to-using-web-components-in-alpinejs)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-4893njg.jpeg)
 A quick look at using web components with Alpine.js
 
-### [182. Practical Cryptography with Go](https://hackernoon.com/practical-cryptography-with-go)
-![](https://cdn.hackernoon.com/images/iwcbZLXt2tWT1T9ZNtQukR36MJo2-s492ouz.jpeg)
-What algorithm(s) to use, what is safe enough, what is not safe, which implementation, padding, what type of key, encoding, etc
+### [181. Publish Go Packages With Goreleaser](https://hackernoon.com/publish-go-packages-with-goreleaser)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-2m93p76.jpeg)
+Goreleaser is awesome. It's a simple tool that allows you to release your go packages.
+
+### [182. Pandas Code Testing Guide for New Python Developers](https://hackernoon.com/pandas-code-testing-guide-for-new-python-developers)
+![](https://cdn.hackernoon.com/images/42fVSCMQWfSi7dcFWQN3DtjfjLC2-ga93ftn.jpeg)
+A guide on how to write efficient and effective unit tests for Pandas functions using Pytest.
 
 ### [183. A Step-by-Step Guide to Learning C++](https://hackernoon.com/a-step-by-step-guide-to-learning-c)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-uu934qq.jpeg)
@@ -748,37 +752,37 @@ In this blog post we will explain how the Jenkins webhook plugin vulnerability w
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1n93p3d.jpeg)
 In this article, I want to show by example how ChatGPT can help a developer right now. We will make an application and then improve it.
 
-### [186. A Quick Guide on How to Create Accessible Buttons in HTML](https://hackernoon.com/a-quick-guide-on-how-to-create-accessible-buttons-in-html)
+### [186. Salesforce Functions for Caching Expensive Queries](https://hackernoon.com/salesforce-functions-for-caching-expensive-queries)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-rw93q9q.jpeg)
+In this article, we will walk through the use of Salesforce Functions to cache expensive queries. 
+
+### [187. A Quick Guide on How to Create Accessible Buttons in HTML](https://hackernoon.com/a-quick-guide-on-how-to-create-accessible-buttons-in-html)
 ![](https://cdn.hackernoon.com/images/HWFAWxGBOGhZROldCWk4gX3WWFs1-0u93qv3.jpeg)
 Creating accessible buttons in HTML is crucial to becoming a great front-end developer; learn how with this guide!
 
-### [187. Face the Facts: There is no Kubectl Restart Pod Command. Here's What You Can Try Instead](https://hackernoon.com/face-the-facts-there-is-no-kubectl-restart-pod-command-heres-what-you-can-try-instead)
+### [188. Face the Facts: There is no Kubectl Restart Pod Command. Here's What You Can Try Instead](https://hackernoon.com/face-the-facts-there-is-no-kubectl-restart-pod-command-heres-what-you-can-try-instead)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-a592ci7.jpeg)
 Many Kubernetes operators search for a command like “kubectl restart pod." Sadly, there is no such command in Kubernetes. But workarounds exist.
-
-### [188. The Hitchhiker's Guide to Command Line Interfaces in Python](https://hackernoon.com/the-hitchhikers-guide-to-command-line-interfaces-in-python-zy4h32tf)
-![](https://cdn.hackernoon.com/images/0w3i3yl2.jpg)
-This article is based on my PyCon 2020 talk of the same title. Originally published at vinayak.io on May 4, 2020.
 
 ### [189. The Simplest Guide of What Happened With SBF That You Will Ever Come Across](https://hackernoon.com/the-simplest-guide-of-what-happened-with-sbf-that-you-will-ever-come-across)
 ![](https://cdn.hackernoon.com/images/the-simplest-guide-of-what-happened-with-sbf-that-you-will-ever-come-across-clbliwz56000301s6091310lm.png)
 Compound248 gives the people a simple description of what happened with SBF.
 
-### [190. Salesforce Functions for Caching Expensive Queries](https://hackernoon.com/salesforce-functions-for-caching-expensive-queries)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-rw93q9q.jpeg)
-In this article, we will walk through the use of Salesforce Functions to cache expensive queries. 
+### [190. The Hitchhiker's Guide to Command Line Interfaces in Python](https://hackernoon.com/the-hitchhikers-guide-to-command-line-interfaces-in-python-zy4h32tf)
+![](https://cdn.hackernoon.com/images/0w3i3yl2.jpg)
+This article is based on my PyCon 2020 talk of the same title. Originally published at vinayak.io on May 4, 2020.
 
-### [191. How to Build a Video Call App with ZEGOCLOUD and React](https://hackernoon.com/how-to-build-a-video-call-app-with-zegocloud-and-react)
+### [191. Getting Started With MidJourney AI Art](https://hackernoon.com/getting-started-with-midjourney-ai-art)
+![](https://cdn.hackernoon.com/images/I4qHwlSAHceLdAcDasGAH4Tc8aq1-d3a3pmq.jpeg)
+MidJourney is a powerful AI image generator -- here's how to get started making unique images of your own.
+
+### [192. How to Build a Video Call App with ZEGOCLOUD and React](https://hackernoon.com/how-to-build-a-video-call-app-with-zegocloud-and-react)
 ![](https://cdn.hackernoon.com/images/GPJ76xULl7geuFTrXbplNnbeQCf2-8a92ul9.jpeg)
 In this blog post, I will show you how to create a video call app using ZEGOCLOUD and React. ZEGOCLOUD is a cloud-based video call platform.
 
-### [192. 8 Tips to Boost Your Web3 Marketing Campaign](https://hackernoon.com/8-tips-to-boost-your-web3-marketing-campaign)
+### [193. 8 Tips to Boost Your Web3 Marketing Campaign](https://hackernoon.com/8-tips-to-boost-your-web3-marketing-campaign)
 ![](https://cdn.hackernoon.com/images/3148XUJwNzfIzvWsFrgBm8NKpO82-wrb2b8g.jpeg)
 In a world where the speed of digital content is accelerating exponentially, it's a challenge for business owners and marketers to keep up. 
-
-### [193. Getting Started With MidJourney AI Art](https://hackernoon.com/getting-started-with-midjourney-ai-art)
-![](https://cdn.hackernoon.com/images/I4qHwlSAHceLdAcDasGAH4Tc8aq1-d3a3pmq.jpeg)
-MidJourney is a powerful AI image generator -- here's how to get started making unique images of your own.
 
 ### [194. Become Professional Scrum Master I (PSM I) and Learn How Scrum Really Works](https://hackernoon.com/become-professional-scrum-master-i-psm-i-and-learn-how-scrum-really-works-b7bh3w96)
 ![](https://cdn.hackernoon.com/images/t97r3y1y.jpg)
@@ -809,41 +813,41 @@ Sometimes, when we are making changes to a project in git, we realize we suddenl
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-8g93p2v.jpeg)
 A look at an API that makes it easier to work with cookies in the browser.
 
-### [201. Benefits of Using WebAssembly for Your Applications](https://hackernoon.com/benefits-of-using-webassembly-for-your-applications)
-![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-c2a34cz.jpeg)
-Learn the top advantages of using WebAssembly for your applications.
-
-### [202. Unifying Random Generation and Shrinking (Property-based Testing Part 4)](https://hackernoon.com/unifying-random-generation-and-shrinking-property-based-testing-part-4)
+### [201. Unifying Random Generation and Shrinking (Property-based Testing Part 4)](https://hackernoon.com/unifying-random-generation-and-shrinking-property-based-testing-part-4)
 ![](https://cdn.hackernoon.com/images/G7xnCfjZh5VWW5gNObhHMmWwODk1-76f28z0.jpeg)
 How property-based testing libraries like Clojure's test.check and Haskell/F#'s Hedgehog unify their random generation and shrinking API.
+
+### [202. Benefits of Using WebAssembly for Your Applications](https://hackernoon.com/benefits-of-using-webassembly-for-your-applications)
+![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-c2a34cz.jpeg)
+Learn the top advantages of using WebAssembly for your applications.
 
 ### [203. The Complete Guide to Building Your Own Web Scraper With NodeJS](https://hackernoon.com/the-complete-guide-to-building-your-own-web-scraper-with-nodejs)
 ![](https://cdn.hackernoon.com/images/UxSpyQqnxcha0fOLXlJCgNfQjAA3-2210d35bz.jpeg)
 When you need tons of data quickly, a web scraper is the best option. Luckily, making your own scraper isn't as hard as it seems. Here's how to do it in NodeJS!
 
-### [204. Building a Small K8s Cluster on a Single PC - Chapter 2 - Forging the Cluster.](https://hackernoon.com/building-a-small-k8s-cluster-on-a-single-pc-chapter-2-forging-the-cluster)
-![](https://cdn.hackernoon.com/images/QHp9lRiuzvcvSTo0yYYsq3pQ1G93-vn92jxv.jpeg)
-Second article where I review my guides about building a small K8s cluster on a single PC with Proxmox VE, Debian VMs, and K3s.
-
-### [205. Build a Clubhouse Clone App with Android and ZEGOCLOUD](https://hackernoon.com/build-a-clubhouse-clone-app-with-android-and-zegocloud)
+### [204. Build a Clubhouse Clone App with Android and ZEGOCLOUD](https://hackernoon.com/build-a-clubhouse-clone-app-with-android-and-zegocloud)
 ![](https://cdn.hackernoon.com/images/EV8tJPb1ZePGA5hXoES9OSfKWms1-8v93k2i.jpeg)
 This article explains how to quickly clone a  Clubhouse app using ZEGOCLOUD's ZEGOLiveAudioRoom SDK
+
+### [205. Building a Small K8s Cluster on a Single PC - Chapter 2 - Forging the Cluster.](https://hackernoon.com/building-a-small-k8s-cluster-on-a-single-pc-chapter-2-forging-the-cluster)
+![](https://cdn.hackernoon.com/images/QHp9lRiuzvcvSTo0yYYsq3pQ1G93-vn92jxv.jpeg)
+Second article where I review my guides about building a small K8s cluster on a single PC with Proxmox VE, Debian VMs, and K3s.
 
 ### [206. Power Up Your Logging in Node.js](https://hackernoon.com/power-up-your-logging-in-nodejs)
 ![](https://cdn.hackernoon.com/images/9u6FwQhzjdOYa0Qc5R7bA7IyYAR2-7x93glv.jpeg)
 Power up your logging and build good developer habits. As your codebase grows you'll need to debug it more easily and one tool is logging.
 
-### [207. How to Build Landmark Recognition App with React Native and Vision AI ](https://hackernoon.com/how-to-build-landmark-recognition-app-with-react-native-and-vision-ai-r21s34uj)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxcBRnQbsGCTrom5xuzwoxpuYWrJ3-zg6a3wfy.jpeg?alt=media&token=5a0f210b-be89-47eb-b5e4-95aefceee0b7)
-In this article, we cover the second part of our two part series. We will create a React Native application that makes use of the Firebase Cloud Function that we created in the first part. Here I will cover building the application in detail. If you want to skip ahead to the finish line, the full code is available here.
-
-### [208. Fixing The Parkison's Effect: How Freelance Writers can meet up with Schedule](https://hackernoon.com/fixing-the-parkisons-effect-how-freelance-writers-can-meet-up-with-schedule)
+### [207. Fixing The Parkison's Effect: How Freelance Writers can meet up with Schedule](https://hackernoon.com/fixing-the-parkisons-effect-how-freelance-writers-can-meet-up-with-schedule)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7792aqj.jpeg)
 Parkinson’s Effect is all about an overlooked barrier to efficient time management summarised as; every task takes exactly the amount of time you devote to it.
 
-### [209. Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://hackernoon.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ic92hl1.jpeg)
-If you know typescript, it’s easy to add the ability to create, mint, and manage non-fungible tokens (NFTs) to your app. 
+### [208. Write your own E2E Test Scripts for Playwright & Puppeteer](https://hackernoon.com/write-your-own-e2e-test-scripts-for-playwright-and-puppeteer)
+![](https://cdn.hackernoon.com/images/LvVvyEgHvdT7kkAl1bHBFqbvkqw2-g293hqd.jpeg)
+A few tricks to quickly craft reliable E2E tests with Playwright and Puppeteer
+
+### [209. How to Build Landmark Recognition App with React Native and Vision AI ](https://hackernoon.com/how-to-build-landmark-recognition-app-with-react-native-and-vision-ai-r21s34uj)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxcBRnQbsGCTrom5xuzwoxpuYWrJ3-zg6a3wfy.jpeg?alt=media&token=5a0f210b-be89-47eb-b5e4-95aefceee0b7)
+In this article, we cover the second part of our two part series. We will create a React Native application that makes use of the Firebase Cloud Function that we created in the first part. Here I will cover building the application in detail. If you want to skip ahead to the finish line, the full code is available here.
 
 ### [210. A Comprehensive Guide to Silent Push Notifications in iOS: A Step-by-Step Walkthrough](https://hackernoon.com/a-comprehensive-guide-to-silent-push-notifications-a-step-by-step-walkthrough)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-3o93mzz.jpeg)
@@ -853,33 +857,33 @@ In this article, I would like to share my experience of implementing Silent Push
 ![](https://cdn.hackernoon.com/images/SNkDpvdu7pTt1J6clyL9fJIE0Jo2-dk931d7.jpeg)
 With LSTs users can earn yields on their staked tokens while retaining liquidity. Explore what LSTs are, how they work, and platforms enabling this.
 
-### [212. Write your own E2E Test Scripts for Playwright & Puppeteer](https://hackernoon.com/write-your-own-e2e-test-scripts-for-playwright-and-puppeteer)
-![](https://cdn.hackernoon.com/images/LvVvyEgHvdT7kkAl1bHBFqbvkqw2-g293hqd.jpeg)
-A few tricks to quickly craft reliable E2E tests with Playwright and Puppeteer
+### [212. Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://hackernoon.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ic92hl1.jpeg)
+If you know typescript, it’s easy to add the ability to create, mint, and manage non-fungible tokens (NFTs) to your app. 
 
-### [213. Optimize Model Training with a Data Streaming Client](https://hackernoon.com/optimize-model-training-with-a-data-streaming-client)
-![](https://cdn.hackernoon.com/images/gftycAYCOWhE0ZzqqjbIzKFUvIt1-2x92h57.jpeg)
-Were you ever annoyed when you had to pull a massive dataset (versioned using DVC) before training your model? 
-
-### [214. Golang: Debugging CLI Applications in VSCode](https://hackernoon.com/golang-debugging-cli-applications-in-vscode)
+### [213. Golang: Debugging CLI Applications in VSCode](https://hackernoon.com/golang-debugging-cli-applications-in-vscode)
 ![](https://cdn.hackernoon.com/images/pbHhPcoSDWY470tliHRnqSk6GMX2-qze3nuq.jpeg)
 How do debug CLI apps in VSCode? We'll see how to do it with a sample Golang app.
 
-### [215. ImageBank: An Easy Display Solution for Sharing a Large Number of Images](https://hackernoon.com/imagebank-an-easy-display-solution-for-sharing-a-large-number-of-images)
-![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-84a3snc.jpeg)
-What I wanted to be able to do is just mass upload and display some of these images in an easy-to-use fashion...
+### [214. Optimize Model Training with a Data Streaming Client](https://hackernoon.com/optimize-model-training-with-a-data-streaming-client)
+![](https://cdn.hackernoon.com/images/gftycAYCOWhE0ZzqqjbIzKFUvIt1-2x92h57.jpeg)
+Were you ever annoyed when you had to pull a massive dataset (versioned using DVC) before training your model? 
 
-### [216. Upgrading From Rails 7.1 to Rails 7.2: A Step-by-Step Guide for Enhancing Your Application](https://hackernoon.com/upgrading-from-rails-71-to-rails-72-a-step-by-step-guide-for-enhancing-your-application)
+### [215. Upgrading From Rails 7.1 to Rails 7.2: A Step-by-Step Guide for Enhancing Your Application](https://hackernoon.com/upgrading-from-rails-71-to-rails-72-a-step-by-step-guide-for-enhancing-your-application)
 ![](https://cdn.hackernoon.com/images/create-a-image-with-a-railroad-that-is-having-an-upgrade-kicqioww7ouws53713eyuntl.png)
 Learn how to effortlessly upgrade your Rails project to version 7.2 with insights and tips.
 
-### [217. How to Build a Small K8s Cluster on a Single PC - Chapter 4 - Care About your System](https://hackernoon.com/how-to-build-a-small-k8s-cluster-on-a-single-pc-chapter-04-care-about-your-system)
-![](https://cdn.hackernoon.com/images/QHp9lRiuzvcvSTo0yYYsq3pQ1G93-dp92j7t.jpeg)
-Fourth and last article where I review my guides about building a small K8s cluster on a single PC with Proxmox VE, Debian VMs, and K3s.
-
-### [218. Best Practices I Wish We Knew When Integrating Stripe Webhooks ](https://hackernoon.com/best-practices-i-wish-we-knew-when-integrating-stripe-webhooks)
+### [216. Best Practices I Wish We Knew When Integrating Stripe Webhooks ](https://hackernoon.com/best-practices-i-wish-we-knew-when-integrating-stripe-webhooks)
 ![](https://cdn.hackernoon.com/images/QxHa3gX8BJSLmB3yGTXodMPNfGQ2-bhi3oeh.jpeg)
 In this article we will describe what are the best practices to create a webhook integration with Stripe. 
+
+### [217. ImageBank: An Easy Display Solution for Sharing a Large Number of Images](https://hackernoon.com/imagebank-an-easy-display-solution-for-sharing-a-large-number-of-images)
+![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-84a3snc.jpeg)
+What I wanted to be able to do is just mass upload and display some of these images in an easy-to-use fashion...
+
+### [218. How to Build a Small K8s Cluster on a Single PC - Chapter 4 - Care About your System](https://hackernoon.com/how-to-build-a-small-k8s-cluster-on-a-single-pc-chapter-04-care-about-your-system)
+![](https://cdn.hackernoon.com/images/QHp9lRiuzvcvSTo0yYYsq3pQ1G93-dp92j7t.jpeg)
+Fourth and last article where I review my guides about building a small K8s cluster on a single PC with Proxmox VE, Debian VMs, and K3s.
 
 ### [219. Light DOM and Lightning Web Components in Salesforce](https://hackernoon.com/light-dom-and-lightning-web-components-in-salesforce)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6x92bwh.jpeg)
@@ -893,17 +897,17 @@ A step-by-step guide on how to build a custom tool and add it to SuperAGI.
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-5q93m8x.jpeg)
 Delve into Kotlin delegates, understanding their implementation in Android app development for efficient and reusable code.
 
-### [222. Simplify Your Server JS Tests](https://hackernoon.com/simplify-your-server-js-tests)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0y93ouh.jpeg)
-When you start to write tests you could spread many duplicated rows of your code all over the tests. 
+### [222. How to Limit the Ever-growing Execution Time of E2E Tests](https://hackernoon.com/how-to-limit-the-ever-growing-execution-time-of-e2e-tests)
+![](https://cdn.hackernoon.com/images/programmer-waiting-for-his-code-to-run-clg3ijs85000001s64yi3h8mk.png)
+Maintaining the same E2E coverage will require more and more tests—and their execution time will add up.
 
 ### [223. Resolving Canon Printer Not Printing Black Issue](https://hackernoon.com/resolving-canon-printer-not-printing-black-issue)
 ![](https://cdn.hackernoon.com/images/Mqjnfj0bpyVVsMwrWdfwzY4whPI3-9s93qhm.jpeg)
 Canon printers may sometimes get weariness in their components and parts featured in them.
 
-### [224. How to Limit the Ever-growing Execution Time of E2E Tests](https://hackernoon.com/how-to-limit-the-ever-growing-execution-time-of-e2e-tests)
-![](https://cdn.hackernoon.com/images/programmer-waiting-for-his-code-to-run-clg3ijs85000001s64yi3h8mk.png)
-Maintaining the same E2E coverage will require more and more tests—and their execution time will add up.
+### [224. Simplify Your Server JS Tests](https://hackernoon.com/simplify-your-server-js-tests)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0y93ouh.jpeg)
+When you start to write tests you could spread many duplicated rows of your code all over the tests. 
 
 ### [225. The Lightweight Alternative to GraphQL, Resolvers Instead of Endpoints](https://hackernoon.com/the-lightweight-alternative-to-graphql-resolvers-instead-of-endpoints)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-yg92h0t.jpeg)
@@ -921,13 +925,13 @@ Learn how to build a cloud-managed version of any open-source project with this 
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ht92aj6.jpeg)
 Kubernetes(K8s) role-based access control is a powerful tool in restricting access to resources within a Kubernetes cluster.
 
-### [229. Improving Your Web-Based App With Micro Frontends](https://hackernoon.com/micro-frontends)
-![](https://cdn.hackernoon.com/images/R8cbpKzhckgtteks9CAGVh7VJqp2-0m93od6.png)
-In this blog post, we will explore what micro frontends are, why they are beneficial, how to implement them in your project, and potential uses
-
-### [230. Navigating the Challenges of Learning OOPs Principles](https://hackernoon.com/navigating-the-challenges-of-learning-oops-principles)
+### [229. Navigating the Challenges of Learning OOPs Principles](https://hackernoon.com/navigating-the-challenges-of-learning-oops-principles)
 ![](https://cdn.hackernoon.com/images/Bx5RBp30wkP0B2wZkhJHfAVBl9N2-2a93i2n.jpeg)
 Understand OOPs concepts in an easy way. 
+
+### [230. Improving Your Web-Based App With Micro Frontends](https://hackernoon.com/micro-frontends)
+![](https://cdn.hackernoon.com/images/R8cbpKzhckgtteks9CAGVh7VJqp2-0m93od6.png)
+In this blog post, we will explore what micro frontends are, why they are beneficial, how to implement them in your project, and potential uses
 
 ### [231. Crypto and Tax Accounting: A Match Made in Heaven?](https://hackernoon.com/crypto-and-tax-accounting-a-match-made-in-heaven)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-p803ot6.jpeg)
@@ -965,21 +969,21 @@ A little guide to building your own professional CV/Resume website with Velo by 
 ![](https://cdn.hackernoon.com/images/FqqD51nbeyRIwypeMTAxrjVdQ0F2-gz93rbl.jpeg)
 A step-by-step guide for building and adding your own custom tool with SuperAGI, a dev-first open-source framework.
 
-### [240. Cybersecurity Essentials For Startups: 8 Tools to Scale Safely (and Avoid a Breach)](https://hackernoon.com/cybersecurity-essentials-for-startups-8-tools-to-scale-safely-and-avoid-a-breach)
-![](https://cdn.hackernoon.com/images/tools-and-laptops-and-books-clart4cz8000001s63fpj79pu.png)
-Cybersecurity often gets sidelined in early-stage startups. This guide breaks down 8 essential cybersecurity tools every small business needs to stay secure.
+### [240. Here's How You Could Become a High Demand Blockchain Developer](https://hackernoon.com/heres-how-you-could-become-a-high-demand-blockchain-developer)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-tj92b50.jpeg)
+With the growing popularity of blockchain technology in recent years, there is a significant need for knowledgeable developers who can deal with this technology
 
 ### [241. How to Change Your Email Signature in Outlook](https://hackernoon.com/how-to-change-your-email-signature-in-outlook)
 ![](https://cdn.hackernoon.com/images/n5jC2PDrb9hJje5wDf8NTMHI6YY2-fj93ole.jpeg)
 Learn how to edit or update your Outlook signature on desktop, web, and mobile. Quickly change your Outlook signature with these simple steps.
 
-### [242. Here's How You Could Become a High Demand Blockchain Developer](https://hackernoon.com/heres-how-you-could-become-a-high-demand-blockchain-developer)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-tj92b50.jpeg)
-With the growing popularity of blockchain technology in recent years, there is a significant need for knowledgeable developers who can deal with this technology
+### [242. Cybersecurity Essentials For Startups: 8 Tools to Scale Safely (and Avoid a Breach)](https://hackernoon.com/cybersecurity-essentials-for-startups-8-tools-to-scale-safely-and-avoid-a-breach)
+![](https://cdn.hackernoon.com/images/tools-and-laptops-and-books-clart4cz8000001s63fpj79pu.png)
+Cybersecurity often gets sidelined in early-stage startups. This guide breaks down 8 essential cybersecurity tools every small business needs to stay secure.
 
-### [243. Lost Souvenir Destiny 2 Quest Guide](https://hackernoon.com/lost-souvenir-destiny-2-quest-guide-zz17375t)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-e0123539.jpeg)
-The Destiny 2 lost souvenir quest is an excellent questline to get you one of the most underrated cosmetics in the game. 
+### [243. How to Set up GitHub Enterprise Server on Azure (for Dummies)](https://hackernoon.com/how-to-set-up-github-enterprise-server-on-azure-for-dummies)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2192gt4.png)
+The easiest way to install GitHub Enterprise Server on Azure! A simple to-do list to create your first virtual machine on Azure. 
 
 ### [244. Setting up Monorepo With Npm Workspaces and Lerna](https://hackernoon.com/setting-up-monorepo-with-npm-workspaces-and-lerna)
 ![](https://cdn.hackernoon.com/images/8SbntZgz0Gd3BdNeT9KrdzGK6wv1-fk93s5y.jpeg)
@@ -989,21 +993,21 @@ Monorepos lets you manage multiple repositories into one single repository but m
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ta92btw.jpeg)
 As the year comes to a close, this blog post will discuss the importance of Retrospectives from the perspective of a developer.
 
-### [246. Creating a Bash Shell Script That Alerts Via Telegram if Your Zetachain Validator Gets Jailed](https://hackernoon.com/creating-a-bash-shell-script-that-alerts-via-telegram-if-your-zetachain-validator-gets-jailed)
-![](https://cdn.hackernoon.com/images/fuxWrCcK6uTzYk0oPIMFkG8AbQ62-4ec3uyp.jpeg)
-In this article, we’re going to show you how to create tooling that alerts you via Telegram if your node is jailed. 
+### [246. Lost Souvenir Destiny 2 Quest Guide](https://hackernoon.com/lost-souvenir-destiny-2-quest-guide-zz17375t)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-e0123539.jpeg)
+The Destiny 2 lost souvenir quest is an excellent questline to get you one of the most underrated cosmetics in the game. 
 
-### [247. Design Philosophies You Should Embrace When Creating Web Applications For Users With Disabilities](https://hackernoon.com/design-philosophies-you-should-embrace-when-creating-web-applications-for-users-with-disabilities)
-![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-1th31mp.gif.webp)
-It might be challenging to create an accessible online application in.NET, but ensuring that all users can view your web content is critical. 
-
-### [248. How to Create a 3D Audio Effect Generator](https://hackernoon.com/how-to-create-a-3d-audio-effect-generator)
+### [247. How to Create a 3D Audio Effect Generator](https://hackernoon.com/how-to-create-a-3d-audio-effect-generator)
 ![](https://cdn.hackernoon.com/images/8UrLGAAQiNVobUqTiCbOp2ZVfH53-qa93pka.jpeg)
 3D audio makes app audio more immersive and is easy to integrate — Read on to learn what and how.
 
-### [249. How to Set up GitHub Enterprise Server on Azure (for Dummies)](https://hackernoon.com/how-to-set-up-github-enterprise-server-on-azure-for-dummies)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2192gt4.png)
-The easiest way to install GitHub Enterprise Server on Azure! A simple to-do list to create your first virtual machine on Azure. 
+### [248. Creating a Bash Shell Script That Alerts Via Telegram if Your Zetachain Validator Gets Jailed](https://hackernoon.com/creating-a-bash-shell-script-that-alerts-via-telegram-if-your-zetachain-validator-gets-jailed)
+![](https://cdn.hackernoon.com/images/fuxWrCcK6uTzYk0oPIMFkG8AbQ62-4ec3uyp.jpeg)
+In this article, we’re going to show you how to create tooling that alerts you via Telegram if your node is jailed. 
+
+### [249. Design Philosophies You Should Embrace When Creating Web Applications For Users With Disabilities](https://hackernoon.com/design-philosophies-you-should-embrace-when-creating-web-applications-for-users-with-disabilities)
+![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-1th31mp.gif.webp)
+It might be challenging to create an accessible online application in.NET, but ensuring that all users can view your web content is critical. 
 
 ### [250. How News Affects Crypto Prices](https://hackernoon.com/cryptocurrency-news-trading-strategy-how-news-can-affects-the-crypto-price)
 ![](https://cdn.hackernoon.com/images/jMlq2fOQsVXqEwlCUboY2RBvLYJ3-v194r16.png)
@@ -1013,13 +1017,13 @@ In this article we’ll discuss how news trading strategy works and how to use i
 ![](https://cdn.hackernoon.com/images/EoVbI98oiigmAxrHs5vIf7ng6qF3-doe3kza.jpeg)
 Peer-to-Peer (P2P) architecture is a decentralized model where each node, or "peer," acts as a client and a server. This contrasts with the traditional client-s
 
-### [252. Bitcoin Blocks: A Simple Way to Understand the Bitcoin Basics](https://hackernoon.com/bitcoin-blocks-a-simple-way-to-understand-the-bitcoin-basics)
-![](https://cdn.hackernoon.com/images/EoVbI98oiigmAxrHs5vIf7ng6qF3-z293k65.jpeg)
-A Bitcoin block is a fundamental component of the Bitcoin blockchain. It is a data structure that contains a collection of transactions that have been verified 
-
-### [253. How to Flip an Array in JavaScript](https://hackernoon.com/how-to-flip-an-array-in-javascript)
+### [252. How to Flip an Array in JavaScript](https://hackernoon.com/how-to-flip-an-array-in-javascript)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ea92itq.jpeg)
 In this article we will learn how to reverse an array in JavaScript.
+
+### [253. Bitcoin Blocks: A Simple Way to Understand the Bitcoin Basics](https://hackernoon.com/bitcoin-blocks-a-simple-way-to-understand-the-bitcoin-basics)
+![](https://cdn.hackernoon.com/images/EoVbI98oiigmAxrHs5vIf7ng6qF3-z293k65.jpeg)
+A Bitcoin block is a fundamental component of the Bitcoin blockchain. It is a data structure that contains a collection of transactions that have been verified 
 
 ### [254. Choosing Between Debounce and Throttle - The Web App Duel](https://hackernoon.com/choosing-between-debounce-and-throttle-the-web-app-duel)
 ![](https://cdn.hackernoon.com/images/L79Bn4QauxVT0oBr1v6HT1hm9Sg1-3p93rr9.jpeg)
@@ -1029,102 +1033,102 @@ Elevate Your React or JavaScript-based Applications Performance to the Next Leve
 ![](https://cdn.hackernoon.com/images/ifDiukLaCGVkd6C6aAyQ93quDOc2-w693ut0.png)
 In this blog, we will understand the different types of Index in MySQL, their use cases, and various strategies to decide the index for a table.
 
-### [256. The 5 Ws of Exit Interviews and How To Conduct Them](https://hackernoon.com/the-5-ws-of-exit-interviews-and-how-to-conduct-them-zz5t375u)
-![](https://cdn.hackernoon.com/images/zDxKiOq2XxYxNbFVaHVWf50Nhww1-0c835cc.jpeg)
-Conducting exit interviews correctly and taking retention actions can have an impact on the organisations' happiness and bottom-line profitability. 
-
-### [257. Building Two-Way Conversations Between Apps](https://hackernoon.com/building-two-way-conversations-between-apps)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-5y03awu.jpeg)
-Symfony’s Webhook and RemoteEvent components power secure, scalable, real-time apps and enable true two-way communication.
-
-### [258. Controlled Experiments: The Safe Way to Use New Technology in IT](https://hackernoon.com/controlled-experiments-the-safe-way-to-use-new-technology-in-it)
-![](https://cdn.hackernoon.com/images/bay1cHXuNyZB4jEjbHe5jfI7UZI3-hj93rny.jpeg)
-The "controllable experiment" strategy helps significantly mitigate the risks of using new technologies and unlocks the potential to use them often.
-
-### [259. Crypto Trading Tips: What’s AMM And How To Use It?](https://hackernoon.com/crypto-trading-tips-whats-amm-and-how-to-use-it)
+### [256. Crypto Trading Tips: What’s AMM And How To Use It?](https://hackernoon.com/crypto-trading-tips-whats-amm-and-how-to-use-it)
 ![](https://cdn.hackernoon.com/images/jMlq2fOQsVXqEwlCUboY2RBvLYJ3-1y94rjf.png)
 Cryptocurrency exchanges with AMM are different from traditional ones, and in this article we will find out how. 
 
-### [260. The Critical Role of Security Testing in Banking Software Development](https://hackernoon.com/the-critical-role-of-security-testing-in-banking-software-development)
-![](https://cdn.hackernoon.com/images/oohNv4i0tJTHze4ugb9NJesMdMg2-25835fa.jpeg)
+### [257. Controlled Experiments: The Safe Way to Use New Technology in IT](https://hackernoon.com/controlled-experiments-the-safe-way-to-use-new-technology-in-it)
+![](https://cdn.hackernoon.com/images/bay1cHXuNyZB4jEjbHe5jfI7UZI3-hj93rny.jpeg)
+The "controllable experiment" strategy helps significantly mitigate the risks of using new technologies and unlocks the potential to use them often.
 
-Security testing is vital in banking software development to prevent breaches, protect sensitive data, and maintain customer trust and regulatory compliance.
+### [258. A Guide to Understanding Benchmarks, Baselines, and Golden Images](https://hackernoon.com/a-guide-to-understanding-benchmarks-baselines-and-golden-images)
+![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-pl93s5d.jpeg)
+Understanding what Benchmarks, Baselines & Golden images are as well as how they work together is an important concept.  
 
-### [261. How to Share Rust Types With TypeScript for WebAssembly in 30 Seconds: A Quick Guide](https://hackernoon.com/how-to-share-rust-types-with-typescript-for-webassembly-in-30-seconds-a-quick-guide)
+### [259. The 5 Ws of Exit Interviews and How To Conduct Them](https://hackernoon.com/the-5-ws-of-exit-interviews-and-how-to-conduct-them-zz5t375u)
+![](https://cdn.hackernoon.com/images/zDxKiOq2XxYxNbFVaHVWf50Nhww1-0c835cc.jpeg)
+Conducting exit interviews correctly and taking retention actions can have an impact on the organisations' happiness and bottom-line profitability. 
+
+### [260. How to Share Rust Types With TypeScript for WebAssembly in 30 Seconds: A Quick Guide](https://hackernoon.com/how-to-share-rust-types-with-typescript-for-webassembly-in-30-seconds-a-quick-guide)
 ![](https://cdn.hackernoon.com/images/XyqHIwK0xDMOGdIf5iTNW4CrLjb2-h4c3621.jpeg)
 Discover the most seamless developer experience with Rust and WebAssembly. This is the fastest way to auto-generate TypeScript definitions from your Rust code.
 
-### [262. Integrating Redux to your React App — A Step by Step Guide](https://hackernoon.com/integrating-redux-to-your-react-app-a-step-by-step-guide)
+### [261. Integrating Redux to your React App — A Step by Step Guide](https://hackernoon.com/integrating-redux-to-your-react-app-a-step-by-step-guide)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-n192hwy.jpeg)
 Integrating Redux into a React application can seem like a daunting task, but with a solid understanding of the basics, it can be a breeze.
+
+### [262. The Critical Role of Security Testing in Banking Software Development](https://hackernoon.com/the-critical-role-of-security-testing-in-banking-software-development)
+![](https://cdn.hackernoon.com/images/oohNv4i0tJTHze4ugb9NJesMdMg2-25835fa.jpeg)
+
+Security testing is vital in banking software development to prevent breaches, protect sensitive data, and maintain customer trust and regulatory compliance.
 
 ### [263. Creating a React Studio Plugin From an npm Library - a Walk in The Park!](https://hackernoon.com/creating-a-react-studio-plugin-from-an-npm-library-a-walk-in-the-park)
 ![](https://cdn.hackernoon.com/images/MXz4Ux6aHlXjeuCpfUEyboFPLwJ3-lzte3obj.jpeg)
 It takes only 15 minutes to create your first nocode plugin using React Studio. We go over how to do it and provide the knowledge to understand the process. 
 
-### [264. A Guide to Understanding Benchmarks, Baselines, and Golden Images](https://hackernoon.com/a-guide-to-understanding-benchmarks-baselines-and-golden-images)
-![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-pl93s5d.jpeg)
-Understanding what Benchmarks, Baselines & Golden images are as well as how they work together is an important concept.  
+### [264. What’s The Worst That Could Happen? These Security Mistakes Nearly Showed Me](https://hackernoon.com/whats-the-worst-that-could-happen-these-security-mistakes-nearly-showed-me)
+![](https://cdn.hackernoon.com/images/cybersecurity-v36fy0vggfk77vlyqljchgy9.png)
+I’ve seen small security slip-ups turn into full-blown disasters. Learn the real mistakes developers (including me) make. And how to avoid them.
 
 ### [265. The ABC of DevOps Implementation with Containerization and Docker](https://hackernoon.com/the-abc-of-devops-implementation-with-containerization-and-docker-st1332l7)
 ![](https://cdn.hackernoon.com/drafts/4qry32v0.png)
 DevOps is a rage in the IT industry. 
 
-### [266. What’s The Worst That Could Happen? These Security Mistakes Nearly Showed Me](https://hackernoon.com/whats-the-worst-that-could-happen-these-security-mistakes-nearly-showed-me)
-![](https://cdn.hackernoon.com/images/cybersecurity-v36fy0vggfk77vlyqljchgy9.png)
-I’ve seen small security slip-ups turn into full-blown disasters. Learn the real mistakes developers (including me) make. And how to avoid them.
-
-### [267. Cryptocurrency 101: A Guide to Help Women Start Their Journey in the Digital Currency Space](https://hackernoon.com/cryptocurrency-101-a-guide-to-help-women-start-their-journey-in-the-digital-currency-space)
+### [266. Cryptocurrency 101: A Guide to Help Women Start Their Journey in the Digital Currency Space](https://hackernoon.com/cryptocurrency-101-a-guide-to-help-women-start-their-journey-in-the-digital-currency-space)
 ![](https://cdn.hackernoon.com/images/JvUgrqBJGHbQVXtXMY1rNpeC87H2-9r93iex.jpeg)
 Cryptocurrency 101: An Empowering Financial Journey for Women into the Digital Currency Space
 
-### [268. How to Create Event Types Via OpenAPI Import](https://hackernoon.com/how-to-create-event-types-via-openapi-import)
+### [267. How to Create Event Types Via OpenAPI Import](https://hackernoon.com/how-to-create-event-types-via-openapi-import)
 ![](https://cdn.hackernoon.com/images/f8MmnSz4wNTrkyqZnPESxfuXyH93-lb93s1e.jpeg)
 The key to providing an easy webhook integration experience for your users lies in your event types.
 
-### [269. How to set up a Linux Virtual Machine with Virtual Box](https://hackernoon.com/how-to-set-up-a-linux-virtual-machine-with-virtual-box)
+### [268. How to set up a Linux Virtual Machine with Virtual Box](https://hackernoon.com/how-to-set-up-a-linux-virtual-machine-with-virtual-box)
 ![](https://cdn.hackernoon.com/images/linux-virtual-machine-clicxrijo000001s6ebht8u4w.png)
 A virtual machine is the software emulation of a physical computer that acts as a separate computer with its operating system (OS), CPU, and storage.
 
-### [270. Incident Management Best Practices: 2021 Edition](https://hackernoon.com/incident-management-best-practices-2021-edition-n81z31l1)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-eo1r31yv.jpeg)
-Covering the basics
+### [269. How to Create an Account on Binance and Begin Trading Digital Assets](https://hackernoon.com/how-to-create-an-account-on-binance-and-begin-trading-digital-assets)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-qn92ib5.jpeg)
+In this article, we will go through a step-by-step process of opening a Binance account for cryptocurrency trading.
 
-### [271. How Much Screen Time Should Teenager Get On Their Phones?](https://hackernoon.com/how-much-screen-time-should-teenager-get-on-their-phones)
+### [270. How Much Screen Time Should Teenager Get On Their Phones?](https://hackernoon.com/how-much-screen-time-should-teenager-get-on-their-phones)
 ![](https://cdn.hackernoon.com/images/ojAuQJsJKfW9SgN7Z8MWpMs3q8K2-8c93kji.jpeg)
 When screen time became such a major part of our daily lives, it was only a matter of time before people began to question the pros and cons of how much technol
 
-### [272. The 30-Day .NET Challenge Day 11: Helper Methods — Array](https://hackernoon.com/the-30-day-net-challenge-day-11-helper-methods-array)
+### [271. The 30-Day .NET Challenge Day 11: Helper Methods — Array](https://hackernoon.com/the-30-day-net-challenge-day-11-helper-methods-array)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-zf833ie.jpeg)
 The article demonstrates the use of various C# helper methods like Sort, Reverse, Clear and Resize. Learn how to use helper methods such as Sort and Reverse. 
 
-### [273. How to Create an Account on Binance and Begin Trading Digital Assets](https://hackernoon.com/how-to-create-an-account-on-binance-and-begin-trading-digital-assets)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-qn92ib5.jpeg)
-In this article, we will go through a step-by-step process of opening a Binance account for cryptocurrency trading.
+### [272. Incident Management Best Practices: 2021 Edition](https://hackernoon.com/incident-management-best-practices-2021-edition-n81z31l1)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-eo1r31yv.jpeg)
+Covering the basics
+
+### [273. The 7 Pillars of Zero Trust Security: A Developer's Zero Trust Christmas Carol ](https://hackernoon.com/the-7-pillars-of-zero-trust-security-a-developers-zero-trust-christmas-carol)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-khl3ugv.jpeg)
+Elevate your festive spirits and fortify your applications! Explore a snowy expanse of cybersecurity with our Developer’s Zero Trust Christmas Carol.
 
 ### [274. The OpenCV Journey Part II: Canny Edge Detection](https://hackernoon.com/the-opencv-journey-part-ii-canny-edge-detection)
 ![](https://cdn.hackernoon.com/images/O2DQwR2oEgVO9dzTvmBHaCIbbD82-aha2r1o.jpeg)
 This is an article on Canny Edge Detection, starting with the theoretical background, to the custom implementation of the algorithm.
 
-### [275. Supercharge Your SEO Game: Powered By getStaticProps](https://hackernoon.com/supercharge-your-seo-game-powered-by-getstaticprops-dp1e43ytf)
-![](https://cdn.hackernoon.com/drafts/1xbs3yz5.png)
-This is mainly useful for websites that use React/NextJS with a CMS (Content Management System) integration. No matter, whether it's WordPress, Contentful, Prismic or any other CMS. This concept is highly relevant for companies that require non-engineers to update the content easily. Whether, it's a change in the content, A/B testing or conversion-rate-optimization related. There are many reasons why the content of a website gets updated quite often throughout the year. 
-
-### [276. Starting Your Journey in Quantum Computing: A Beginner's Guide](https://hackernoon.com/starting-your-journey-in-quantum-computing-a-beginners-guide)
+### [275. Starting Your Journey in Quantum Computing: A Beginner's Guide](https://hackernoon.com/starting-your-journey-in-quantum-computing-a-beginners-guide)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-t293sy4.jpeg)
 A guide to where and how to start a career in quantum computing without all the physics.
 
-### [277. The 7 Pillars of Zero Trust Security: A Developer's Zero Trust Christmas Carol ](https://hackernoon.com/the-7-pillars-of-zero-trust-security-a-developers-zero-trust-christmas-carol)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-khl3ugv.jpeg)
-Elevate your festive spirits and fortify your applications! Explore a snowy expanse of cybersecurity with our Developer’s Zero Trust Christmas Carol.
+### [276. Supercharge Your SEO Game: Powered By getStaticProps](https://hackernoon.com/supercharge-your-seo-game-powered-by-getstaticprops-dp1e43ytf)
+![](https://cdn.hackernoon.com/drafts/1xbs3yz5.png)
+This is mainly useful for websites that use React/NextJS with a CMS (Content Management System) integration. No matter, whether it's WordPress, Contentful, Prismic or any other CMS. This concept is highly relevant for companies that require non-engineers to update the content easily. Whether, it's a change in the content, A/B testing or conversion-rate-optimization related. There are many reasons why the content of a website gets updated quite often throughout the year. 
 
-### [278. How to Create an Authentic Data Science Project for your Portfolio](https://hackernoon.com/how-to-create-an-authentic-data-science-project-for-your-portfolio-0o4z3txg)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6rIUew2PIuaENjVOkH9rgfSaGA73-26333evs.jpeg?alt=media&token=e35dd53e-29ae-439e-9c8f-f78c237f21ef)
-Follow me along on how I explored Germany’s largest travel forum Vielfliegertref. As an inspiring data scientist, building interesting portfolio projects is key to showcase your skills. When I learned coding and data science as a business student through online courses, I disliked that datasets were made up of fake data or were solved before like Boston House Prices or the Titanic dataset on Kaggle.
+### [277. Embarking on a Quick Project With Django Rest Framework](https://hackernoon.com/embarking-on-a-quick-project-with-django-rest-framework)
+![](https://cdn.hackernoon.com/images/hNSMEz4Q4oPNGGfNNllOA7g6y2b2-i993wrs.jpeg)
+In this article, we'll create a project that posts about rants using Django and Django Rest Framework. 
 
-### [279. Sorting an Array in JavaScript: A Beginner's Guide](https://hackernoon.com/sorting-an-array-in-javascript-a-beginners-guide)
+### [278. Sorting an Array in JavaScript: A Beginner's Guide](https://hackernoon.com/sorting-an-array-in-javascript-a-beginners-guide)
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-dga2k5n.jpeg)
 In short, the Javascript sort() method is an incredibly useful way to organize an array, whether you’re sorting numbers, strings, or objects. 
+
+### [279. How to Create an Authentic Data Science Project for your Portfolio](https://hackernoon.com/how-to-create-an-authentic-data-science-project-for-your-portfolio-0o4z3txg)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6rIUew2PIuaENjVOkH9rgfSaGA73-26333evs.jpeg?alt=media&token=e35dd53e-29ae-439e-9c8f-f78c237f21ef)
+Follow me along on how I explored Germany’s largest travel forum Vielfliegertref. As an inspiring data scientist, building interesting portfolio projects is key to showcase your skills. When I learned coding and data science as a business student through online courses, I disliked that datasets were made up of fake data or were solved before like Boston House Prices or the Titanic dataset on Kaggle.
 
 ### [280. Your Guide to Crypto Exchange Development](https://hackernoon.com/your-guide-to-crypto-exchange-development)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-j593p58.jpeg)
@@ -1134,29 +1138,29 @@ Crypto exchange development is not easy, but it can be done. As a developer, you
 ![](https://cdn.hackernoon.com/images/deploying-a-rocket-into-space-lxrglkk0txv9w7q8nbrycaxw.png)
 In this article, you will learn how to deploy LLMs with MindsDB and OpenAI.
 
-### [282. Embarking on a Quick Project With Django Rest Framework](https://hackernoon.com/embarking-on-a-quick-project-with-django-rest-framework)
-![](https://cdn.hackernoon.com/images/hNSMEz4Q4oPNGGfNNllOA7g6y2b2-i993wrs.jpeg)
-In this article, we'll create a project that posts about rants using Django and Django Rest Framework. 
+### [282. The Importance of Performant Data Processing Architecture in Creating AI Chatbots](https://hackernoon.com/the-importance-of-performant-data-processing-architecture-in-creating-ai-chatbots)
+![](https://cdn.hackernoon.com/images/a-robot-tuned-into-the-data-coming-from-all-over-the-internet-in-style-of-ghost-in-the-shell-clg0zbt79000001s6ep1deabx.png)
+If you believe in the idea that big data is the fuel for artificial intelligence, you will see how important a performant data processing architecture is for us
 
 ### [283. Learning to Make a GUI in Python With Tkinter by Creating a Flipping Bits Game](https://hackernoon.com/learning-to-make-a-gui-in-python-with-tkinter-by-creating-a-flipping-bits-game)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-hw92g77.jpeg)
 A good way to discover how to make GUI in Python with Tkinter.
 
-### [284. The Importance of Performant Data Processing Architecture in Creating AI Chatbots](https://hackernoon.com/the-importance-of-performant-data-processing-architecture-in-creating-ai-chatbots)
-![](https://cdn.hackernoon.com/images/a-robot-tuned-into-the-data-coming-from-all-over-the-internet-in-style-of-ghost-in-the-shell-clg0zbt79000001s6ep1deabx.png)
-If you believe in the idea that big data is the fuel for artificial intelligence, you will see how important a performant data processing architecture is for us
+### [284. How to Design an Effective Dashboard: The Essential Guide](https://hackernoon.com/how-to-design-an-effective-dashboard-the-essential-guide)
+![](https://cdn.hackernoon.com/images/jXed9vf1PqWWqc2FaVerNOOqaXy2-m0h3pmh.jpeg)
+Effective dashboard design helps DevOps, SRE and developers easily understand the system and quickly troubleshoot incidents. Here's how to do it right.
 
 ### [285. Prepare for Your Selenium Interview With These 10 Questions](https://hackernoon.com/prepare-for-your-selenium-interview-with-these-10-questions)
 ![](https://cdn.hackernoon.com/images/bUw7pSWtnMd7150YtsqIxRf0ARc2-zj93r9v.jpeg)
 If you're preparing Selenium interview questions, the following tricky questions will be really helpful.
 
-### [286. The MVP Lite Approach: A Software Development Approach for 2021 And Beyond](https://hackernoon.com/the-mvp-lite-approach-a-software-development-approach-for-2021-and-beyond-se3734bk)
+### [286. Building Two-Way Conversations Between Apps](https://hackernoon.com/building-two-way-conversations-between-apps)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-5y03awu.jpeg)
+Symfony’s Webhook and RemoteEvent components power secure, scalable, real-time apps and enable true two-way communication.
+
+### [287. The MVP Lite Approach: A Software Development Approach for 2021 And Beyond](https://hackernoon.com/the-mvp-lite-approach-a-software-development-approach-for-2021-and-beyond-se3734bk)
 ![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-8u7i31zv.jpeg)
 What helps people overcome obstacles? Crushing obstacles is hard work. It requires a lot of planning, time management, inner fire, and a thorough understanding of your goals. 
-
-### [287. How to Design an Effective Dashboard: The Essential Guide](https://hackernoon.com/how-to-design-an-effective-dashboard-the-essential-guide)
-![](https://cdn.hackernoon.com/images/jXed9vf1PqWWqc2FaVerNOOqaXy2-m0h3pmh.jpeg)
-Effective dashboard design helps DevOps, SRE and developers easily understand the system and quickly troubleshoot incidents. Here's how to do it right.
 
 ### [288. Getting Started With Unit Testing With Rspec on Ruby With Rails](https://hackernoon.com/getting-started-with-unit-testing-with-rspec-on-ruby-with-rails)
 ![](https://cdn.hackernoon.com/images/SIf6b69SzaWHMp5FdfCsjZzccao2-lc93pfs.jpeg)
@@ -1166,17 +1170,17 @@ Getting started with Unit testing with Rspec on ruby with rails
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-4d93m40.jpeg)
 The AWS Node.js SDK can be used to generate signed URLs. The SDK is modularized, so instead of installing a giant SDK, you get just what you need.
 
-### [290. How to Pass the Acquia Site Studio 6.x Site Builder Certification ](https://hackernoon.com/how-to-pass-the-acquia-site-studio-6x-site-builder-certification)
+### [290. Cache: Everything You Need to Know](https://hackernoon.com/cache-everything-you-need-to-know)
+![](https://cdn.hackernoon.com/images/diz7g6pDlXeBKWZ91ORSwWcGk8e2-oq93mze.jpeg)
+In a world where websites need to be fast and everyone shouts to optimize everything, there is one thing which is always mentioned: "cache".
+
+### [291. How to Pass the Acquia Site Studio 6.x Site Builder Certification ](https://hackernoon.com/how-to-pass-the-acquia-site-studio-6x-site-builder-certification)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-sl932wy.jpeg)
 The exam is one hour long (60 minutes) and has 40 questions.
 
-### [291. What you Need to Know About Phishing Malware](https://hackernoon.com/what-you-need-to-know-about-phishing-malware)
+### [292. What you Need to Know About Phishing Malware](https://hackernoon.com/what-you-need-to-know-about-phishing-malware)
 ![](https://cdn.hackernoon.com/images/Lk7yzqXXqaTaP9s2206Fi1AvXI02-fl03sbb.jpeg)
 For phishing malware to start working, it should be installed or just downloaded to a smartphone or computer. This software typically looks relatively harmless: it might come as a video or audio file or a meme received from a friend. Let's take a look at typical malware use cases and countermeasures. 
-
-### [292. Cache: Everything You Need to Know](https://hackernoon.com/cache-everything-you-need-to-know)
-![](https://cdn.hackernoon.com/images/diz7g6pDlXeBKWZ91ORSwWcGk8e2-oq93mze.jpeg)
-In a world where websites need to be fast and everyone shouts to optimize everything, there is one thing which is always mentioned: "cache".
 
 ### [293. Building .NET Document API Layouts Using Flat Element Hierarchy](https://hackernoon.com/building-net-document-api-layouts-using-flat-element-hierarchy)
 ![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-i8e37lu.jpeg)
@@ -1190,17 +1194,17 @@ In this article, we will learn what breakpoint() is, how to use it with PDB and 
 ![](https://cdn.hackernoon.com/images/two-websites-talking-to-each-other-v2kedugq46c45htvk5mcbual.png)
 If you are new to tech, you might be confused by a term that you’ll see all over the place: API.
 
-### [296. How to Find Awesome Graphics for Your Design Project ](https://hackernoon.com/how-to-find-awesome-graphics-for-your-design-project)
-![](https://cdn.hackernoon.com/images/QepJZAyLUDcMpCXcZjnWeHJM7ad2-k503ase.jpeg)
-When we work with website design and development, we often need to add a variety of different graphics. 
-
-### [297. Sigma Python #1 — Decorators](https://hackernoon.com/sigma-python-1-decorators)
+### [296. Sigma Python #1 — Decorators](https://hackernoon.com/sigma-python-1-decorators)
 ![](https://cdn.hackernoon.com/images/ql5j5TZB0tU1vWA4EaF6tI4lfED3-bc93kcg.jpeg)
 Whether you are a beginner or an experienced Python programmer, understanding decorators is essential for writing clean, concise, and maintainable code.
 
-### [298. Everything You Need to Know About Regular Expressions in JavaScript](https://hackernoon.com/everything-you-need-to-know-about-regular-expressions-in-javascript)
+### [297. Everything You Need to Know About Regular Expressions in JavaScript](https://hackernoon.com/everything-you-need-to-know-about-regular-expressions-in-javascript)
 ![](https://cdn.hackernoon.com/images/keyboard-shortcut-keys-clij5501z000701s6cf3g501s.png)
 Regular expressions can be a bit tricky to master, but they can be incredibly useful for working with text in JavaScript. 
+
+### [298. How to Find Awesome Graphics for Your Design Project ](https://hackernoon.com/how-to-find-awesome-graphics-for-your-design-project)
+![](https://cdn.hackernoon.com/images/QepJZAyLUDcMpCXcZjnWeHJM7ad2-k503ase.jpeg)
+When we work with website design and development, we often need to add a variety of different graphics. 
 
 ### [299. The Complete Guide to IoT Update Management](https://hackernoon.com/the-complete-guide-to-iot-update-management)
 ![](https://cdn.hackernoon.com/images/Pn2j3dOoTFXvvShx5tOEsmyVBJF3-br03ait.jpeg)
@@ -1230,13 +1234,13 @@ Improve your online sales with my comprehensive guide on Conversion Rate Optimiz
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-9j93zxh.jpeg)
 Wait, do not close or flip the article just because it describes the experience of an IT service company. Actually, our experience may be useful for a working product company, early-stage startup, or anyone interested. If you are considering conferences as a new source of useful acquaintances and clients, then this article is what you need.
 
-### [306. CSS Basics: How To Take A Control](https://hackernoon.com/css-basics-how-to-take-a-control-gm6k3vxd)
-![](https://cdn.hackernoon.com/drafts/woc13ycv.png)
-As a web developer, we have to work at some point on the visual aspect of our applications and this is where we talk about style and therefore CSS (Cascading Style Sheet). 
-
-### [307. Iterating on Your Divider App: Improving Edge Cases](https://hackernoon.com/iterating-on-your-divider-app-improving-edge-cases)
+### [306. Iterating on Your Divider App: Improving Edge Cases](https://hackernoon.com/iterating-on-your-divider-app-improving-edge-cases)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-ei92hbv.jpeg)
 In the previous article, we took a look at all the edge cases one can find in a simple operation: dividing two numbers. Now, let’s improve on all those aspects.
+
+### [307. CSS Basics: How To Take A Control](https://hackernoon.com/css-basics-how-to-take-a-control-gm6k3vxd)
+![](https://cdn.hackernoon.com/drafts/woc13ycv.png)
+As a web developer, we have to work at some point on the visual aspect of our applications and this is where we talk about style and therefore CSS (Cascading Style Sheet). 
 
 ### [308. Animal Crossing: New Horizons Update - Everything You Need to Know](https://hackernoon.com/animal-crossing-new-horizons-update-everything-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-c3934bh.jpeg)

@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [webdev](https://hackernoon.com/tagged/webdev)
+### Let's learn about [Webdev](https://hackernoon.com/tagged/webdev) via these 452 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Resources generated from and catering to the development of a website for internet or intranet.
 
 ### [1. How to Update Object Key Values Using Javascript](https://hackernoon.com/how-to-update-object-key-values-using-javascript)
@@ -305,17 +307,17 @@ In theory, a new technology or a modern approach should have a lot of benefits, 
 ![](https://cdn.hackernoon.com/images/UkCGosn8u8RYCcOvW57o2EE4rZF3-3393b8g.jpeg)
 21 Useful HTML & CSS tips for every project
 
-### [76. Web Design Principles That Will Take Centre Stage in 2023](https://hackernoon.com/web-design-principles-that-will-take-centre-stage-in-2023)
+### [76. Why localStorage Still Crashes Your Website in 2023](https://hackernoon.com/why-localstorage-still-crashes-your-website-in-2023)
+![](https://cdn.hackernoon.com/images/IDrwnuUpw3ciQtHAlLVk7zUZSpN2-6ba3yvb.jpeg)
+How to deal with the Browser SecurityError: The operation is insecure or localStorage is not defined. 
+
+### [77. Web Design Principles That Will Take Centre Stage in 2023](https://hackernoon.com/web-design-principles-that-will-take-centre-stage-in-2023)
 ![](https://cdn.hackernoon.com/images/sQ92Mpf2ePeaaNhuqIIynonruY72-5da3oil.jpeg)
 A cursory look at the web design principles will become the norm in 2023. 
 
-### [77. 13 Angular App Optimization Tips for Frontend Developers](https://hackernoon.com/13-angular-app-optimization-tips-for-frontend-developers-z392329t)
+### [78. 13 Angular App Optimization Tips for Frontend Developers](https://hackernoon.com/13-angular-app-optimization-tips-for-frontend-developers-z392329t)
 ![](https://images.unsplash.com/photo-1563191911-e65f8655ebf9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 How to optimize an Angular app? First, we need to consider how we understand optimization as such. Optimization helps achieve better app performance and easier code maintenance. Optimization is not a checklist or a to-do-list, and there is no universal way to optimize your app.
-
-### [78. Why localStorage Still Crashes Your Website in 2023](https://hackernoon.com/why-localstorage-still-crashes-your-website-in-2023)
-![](https://cdn.hackernoon.com/images/IDrwnuUpw3ciQtHAlLVk7zUZSpN2-6ba3yvb.jpeg)
-How to deal with the Browser SecurityError: The operation is insecure or localStorage is not defined. 
 
 ### [79. Streamlining Form Validation with JSON Schema for Front-End and Back-End](https://hackernoon.com/streamlining-form-validation-with-json-schema-for-front-end-and-back-end)
 ![](https://cdn.hackernoon.com/images/pDvJYC69zQULcwlOn1zKE5Nh8sH3-fb93qm0.jpeg)
@@ -393,13 +395,13 @@ The delivery of high-quality code is crucial in the constantly changing world of
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-0m93l2v.jpeg)
 In the web development field, auth (authentication + authorization) plays a vital role in securing user access and protecting sensitive data.
 
-### [98. 14 Top Node.js Open Source Projects: 2021 Edition](https://hackernoon.com/14-top-nodejs-open-source-projects-2021-edition-q22p339c)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-dxi33l2.jpeg)
-Note that under open source projects we assume the following:
-
-### [99. Authentication Using the Auth0 to a React Application](https://hackernoon.com/authentication-using-the-auth0-to-an-react-application)
+### [98. Authentication Using the Auth0 to a React Application](https://hackernoon.com/authentication-using-the-auth0-to-an-react-application)
 ![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-jl92jth.jpeg)
 Application example built with React with authentication using the Auth0 service.
+
+### [99. 14 Top Node.js Open Source Projects: 2021 Edition](https://hackernoon.com/14-top-nodejs-open-source-projects-2021-edition-q22p339c)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-dxi33l2.jpeg)
+Note that under open source projects we assume the following:
 
 ### [100. Leveraging Salesforce Using a Client Written In Vue.js](https://hackernoon.com/leveraging-salesforce-using-a-client-written-in-vuejs)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-1e036qp.jpeg)
@@ -466,13 +468,13 @@ Adobe fattens up by acquiring Figma, causing disgust and indignation amongst web
 ![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-2092hoh.jpeg)
 Application example built with React and adding the Material UI CSS framework using the @mui/material library.
 
-### [116. Building Analytics React Dashboard With Cube.js](https://hackernoon.com/building-analytics-react-dashboard-with-cubejs-qy2g24i0)
-![](https://cdn.hackernoon.com/drafts/6b4923kd7.png)
-Imagine that you need to develop a web application from scratch to monitor and analyze raw data. For example, you own an average size online store. You are not satisfied with the existing solutions for data analytics and you want to manage what components will be in your admin panel by yourself. It is also very important for you to work with raw data and build analytical charts yourself.
-
-### [117. A Guide to Self-Hosting Your Own Website Analytics With Umami](https://hackernoon.com/a-guide-to-self-hosting-your-own-website-analytics-with-umami)
+### [116. A Guide to Self-Hosting Your Own Website Analytics With Umami](https://hackernoon.com/a-guide-to-self-hosting-your-own-website-analytics-with-umami)
 ![](https://cdn.hackernoon.com/images/QepJZAyLUDcMpCXcZjnWeHJM7ad2-3693t8p.jpeg)
 Self-host your own website analytics with Umami.
+
+### [117. Building Analytics React Dashboard With Cube.js](https://hackernoon.com/building-analytics-react-dashboard-with-cubejs-qy2g24i0)
+![](https://cdn.hackernoon.com/drafts/6b4923kd7.png)
+Imagine that you need to develop a web application from scratch to monitor and analyze raw data. For example, you own an average size online store. You are not satisfied with the existing solutions for data analytics and you want to manage what components will be in your admin panel by yourself. It is also very important for you to work with raw data and build analytical charts yourself.
 
 ### [118. Add Depth to Your Web Design Using CSS Shadow Generators](https://hackernoon.com/add-depth-to-your-web-design-using-css-shadow-generators)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-oh93zwx.jpeg)
@@ -494,14 +496,14 @@ If you don’t have any definite preferences in design, you should try dark colo
 ![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-k992lco.jpeg)
 Application example built with Angular 14 with authentication using the Supabase service.
 
-### [123. Rails Security: Eliminating CSRF and XSS Vulnerabilities](https://hackernoon.com/rails-security-eliminating-csrf-and-xss-vulnerabilities-e84g328r)
+### [123. Managing Django Media & Static Files on Heroku with Bucketeer](https://hackernoon.com/managing-django-media-and-static-files-on-heroku-with-bucketeer)
+![](https://cdn.hackernoon.com/images/KLWopdD8nMNFrlEbvhSNqn6YAW72-qm92me5.jpeg)
+Prepare your Heroku-deployed Django application to be closer to production-ready by implementing public & private storage backends for media & static files.
+
+### [124. Rails Security: Eliminating CSRF and XSS Vulnerabilities](https://hackernoon.com/rails-security-eliminating-csrf-and-xss-vulnerabilities-e84g328r)
 ![](images/5m3v3yd5.jpg)
 “…3,813 breaches were reported through June 30, 2019,
 exposing over 4.1 billion records. Compared to the midyear of 2018, the number of reported breaches was up 54% and the number of exposed records was up 52%”. - Source, RiskBasedSecurity
-
-### [124. Managing Django Media & Static Files on Heroku with Bucketeer](https://hackernoon.com/managing-django-media-and-static-files-on-heroku-with-bucketeer)
-![](https://cdn.hackernoon.com/images/KLWopdD8nMNFrlEbvhSNqn6YAW72-qm92me5.jpeg)
-Prepare your Heroku-deployed Django application to be closer to production-ready by implementing public & private storage backends for media & static files.
 
 ### [125. Postman Collection for Salesforce: Mock Servers and Code Snippets](https://hackernoon.com/postman-collection-for-salesforce-mock-servers-and-code-snippets)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-l80369n.jpeg)
@@ -515,17 +517,17 @@ Here are some most recommended JavaScript Mini Projects.
 ![](https://cdn.hackernoon.com/images/SFsbtjO6xoXZQmI9d6SeRPSFgnH2-ix837g4.jpeg)
 What criteria do you use when choosing a React boilerplate?  We made a comparison of boilerplates by features and analyzed each of them
 
-### [128. Creating a Web3 Application with the Coinbase Wallet SDK](https://hackernoon.com/creating-a-web3-application-with-the-coinbase-wallet-sdk)
+### [128. Pros and Cons of Popular JavaScript Templating Engines](https://hackernoon.com/pros-and-cons-of-popular-javascript-templating-engines)
+![](https://cdn.hackernoon.com/images/a-laptop-displaying-code-gloy715p69s7cf4rz8w8wovd.png)
+Explore the dynamic world of web development with a deep dive into three popular JavaScript templating engines-Pug, Handlebars, and EJS. 
+
+### [129. Creating a Web3 Application with the Coinbase Wallet SDK](https://hackernoon.com/creating-a-web3-application-with-the-coinbase-wallet-sdk)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-9093z8y.jpeg)
 Confused about where to start with Web3? John Vester shows how easy it is to get started using the Coinbase developer tools.
 
-### [129. 50+ GitHub Repositories Every Front-End Developer Needs](https://hackernoon.com/50-github-repositories-every-front-end-developer-needs)
+### [130. 50+ GitHub Repositories Every Front-End Developer Needs](https://hackernoon.com/50-github-repositories-every-front-end-developer-needs)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-aj93qau.jpeg)
 50+ Github Repositories Every Front-end Developer Needs
-
-### [130. Pros and Cons of Popular JavaScript Templating Engines](https://hackernoon.com/pros-and-cons-of-popular-javascript-templating-engines)
-![](https://cdn.hackernoon.com/images/a-laptop-displaying-code-gloy715p69s7cf4rz8w8wovd.png)
-Explore the dynamic world of web development with a deep dive into three popular JavaScript templating engines-Pug, Handlebars, and EJS. 
 
 ### [131. An Essential Guide to Angular User Login and Registration (Cookies and JWT)](https://hackernoon.com/an-essential-guide-to-angular-user-login-and-registration-cookies-and-jwt-ge3437p1)
 ![](https://cdn.hackernoon.com/images/xIKD4gy2B8QvR2LfxJEsKQU3u1R2-pp4z3kdc.jpeg)
@@ -539,13 +541,13 @@ Web self-hosting for small to medium companies, business owners, non-profit orga
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-c303o6i.jpeg)
 Salesforce can expose custom-coded services to third-party applications, either as SOAP web services or REST APIs. 
 
-### [134. Why You Should be Learning about the Remix Framework ](https://hackernoon.com/why-you-should-be-learning-about-the-remix-framework)
-![](https://cdn.hackernoon.com/images/YhQrn2uriTN9SEA31DxtfMz7glu1-nla3yql.jpeg)
-Are you looking to build an app with minimal effort? With Remix, you can do just that! Learn how this relatively new web framework compares.
-
-### [135. How Instagram's Homepage has Changed Over the Past 10 Years](https://hackernoon.com/how-instagrams-homepage-has-changed-over-the-past-10-years-1g1134el)
+### [134. How Instagram's Homepage has Changed Over the Past 10 Years](https://hackernoon.com/how-instagrams-homepage-has-changed-over-the-past-10-years-1g1134el)
 ![](https://cdn.hackernoon.com/images/t8YfmPLljONPuePCR5fPH7ndZRn2-fok31p1.jpeg)
 Instagram or Insta is one of the world’s most used photo and video sharing social networks. It is owned by Facebook and was launched in 2010 on iOS and the Android version was launched two years later along with a trimmed down desktop version. Today, let us see how the homepage of Instagram has evolved over the years.
+
+### [135. Why You Should be Learning about the Remix Framework ](https://hackernoon.com/why-you-should-be-learning-about-the-remix-framework)
+![](https://cdn.hackernoon.com/images/YhQrn2uriTN9SEA31DxtfMz7glu1-nla3yql.jpeg)
+Are you looking to build an app with minimal effort? With Remix, you can do just that! Learn how this relatively new web framework compares.
 
 ### [136. Building a Minimum Viable PWA [A Step by Step Guide]](https://hackernoon.com/building-a-minimum-viable-pwa-a-step-by-step-guide-wx6y37w9)
 ![](https://cdn.hackernoon.com/images/vm1c39v1.jpg)
@@ -559,13 +561,13 @@ Want to add API key authentication middleware into your ASP.NET Core application
 ![](https://cdn.hackernoon.com/images/Ve6JdQOItYcauAkKDILSwLYDpLI2-uz93mpi.jpeg)
 The operating manual for bundlejs.com, with tips and tricks to using bundlejs, and an explanation of how bundlejs works; esbuild-wasm, gzip/brotli compression.
 
-### [139. How to Build Your Own Booking Platform with Velo](https://hackernoon.com/how-to-build-your-own-booking-platform-with-velo-7p3r37l4)
-![](https://cdn.hackernoon.com/images/GzsIenWpOdRoSwQSsjkboHAUl0p2-r61tp37vy.jpeg)
-In this article I develop a way to bypass wixBookings and build my own custom bookings platform. 
-
-### [140. HTTP For Beginners - Part 1: Definitions](https://hackernoon.com/a-beginners-guide-to-http-part-1-definitions)
+### [139. HTTP For Beginners - Part 1: Definitions](https://hackernoon.com/a-beginners-guide-to-http-part-1-definitions)
 ![](https://cdn.hackernoon.com/images/l8IjwGiKy0f84w69douv81sBfUA2-0c93mpz.jpeg)
 In this article, I'll cover HTTP terms, tools, and the structure of HTTP messages. 
+
+### [140. How to Build Your Own Booking Platform with Velo](https://hackernoon.com/how-to-build-your-own-booking-platform-with-velo-7p3r37l4)
+![](https://cdn.hackernoon.com/images/GzsIenWpOdRoSwQSsjkboHAUl0p2-r61tp37vy.jpeg)
+In this article I develop a way to bypass wixBookings and build my own custom bookings platform. 
 
 ### [141. 6 AI Tools Software Devs Should Have On Their Radar](https://hackernoon.com/6-ai-tools-software-devs-should-have-on-their-radar)
 ![](https://cdn.hackernoon.com/images/JiCWhBChsNZ6j6UWMSu6EP66pN52-5k83z73.jpeg)
@@ -591,21 +593,21 @@ Enhance your SwifWeb app with SweetAlert2. Learn benefits & implement customizab
 ![](https://cdn.hackernoon.com/images/gS9x989UdEYLqxgBp9uFiQXoXv23-er82w9s.jpeg)
 A devops guide on deploying pocketbase to the cold using docker and nginx and adding support for SSL
 
-### [147. Is Web 3.0 The FUTURE or Just a MARKETING Ploy? ](https://hackernoon.com/is-web-30-the-future-or-just-a-marketing-ploy)
-![](https://cdn.hackernoon.com/images/j6e4LqlhYQfLjS05BOXq2Sa9yng1-go93lrl.jpeg)
-Criticisms or not, web3 existence remains valid as it has some edges over web2. Find out the reasons for this claim!
+### [147. How to Receive Webhooks With Supabase Edge Functions](https://hackernoon.com/how-to-receive-webhooks-with-supabase-edge-functions)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-uf93vr3.jpeg)
+In this tutorial we'll set up a Supabase Edge Function to receive a webhook from Svix and validate the webhook signature.
 
 ### [148. Purpose-Driven Microservice Design](https://hackernoon.com/purpose-driven-microservice-design)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-aq93pp2.jpeg)
 Creating purpose-driven microservices should always be a goal. Find out how Render Blueprints can offer a reproducible microservices strategy.
 
-### [149. Best Online Code Editors To Use In 2022🚀](https://hackernoon.com/best-online-code-editors-to-use-in-2021-8p1q327n)
+### [149. Is Web 3.0 The FUTURE or Just a MARKETING Ploy? ](https://hackernoon.com/is-web-30-the-future-or-just-a-marketing-ploy)
+![](https://cdn.hackernoon.com/images/j6e4LqlhYQfLjS05BOXq2Sa9yng1-go93lrl.jpeg)
+Criticisms or not, web3 existence remains valid as it has some edges over web2. Find out the reasons for this claim!
+
+### [150. Best Online Code Editors To Use In 2022🚀](https://hackernoon.com/best-online-code-editors-to-use-in-2021-8p1q327n)
 ![](https://cdn.hackernoon.com/images/bFFEe4dIUoXgbouiLfgW9PI9b8q1-4m1h35m1.jpeg)
 Are you looking for the Best Online Code editors? Here is the collection of Best Online Code Editors For Web Developers.
-
-### [150. How to Receive Webhooks With Supabase Edge Functions](https://hackernoon.com/how-to-receive-webhooks-with-supabase-edge-functions)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-uf93vr3.jpeg)
-In this tutorial we'll set up a Supabase Edge Function to receive a webhook from Svix and validate the webhook signature.
 
 ### [151. jQuery vs JavaScript: Why We Decide to Remove jQuery From Our Templates](https://hackernoon.com/jquery-vs-javascript-why-we-removed-jquery-from-our-templates-drs3nmm)
 ![](https://cdn.hackernoon.com/drafts/id2p3ngp.png)
@@ -632,13 +634,13 @@ Application example using Angular where a simple WEB application will be impleme
 JavaScript Promises evaluate eagerly, but sometimes that's a problem. This post covers why and how to create custom lazy-evaluating promises.
 
 
-### [157. Adding the ESLint to an Angular Application](https://hackernoon.com/adding-the-eslint-to-an-angular-application)
-![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-vq92rvb.jpeg)
-Application example built with Angular 14 and adding the ESLint using @angular-eslint/schematics library.
-
-### [158. MomentJS Tutorial -The Ultimate Guide to Moment.JS](https://hackernoon.com/momentjs-tutorial-the-ultimate-guide-to-momentjs)
+### [157. MomentJS Tutorial -The Ultimate Guide to Moment.JS](https://hackernoon.com/momentjs-tutorial-the-ultimate-guide-to-momentjs)
 ![](https://cdn.hackernoon.com/images/QUCwfIDJx7PKhBu03In0tMSPA7K2-ug037jt.jpeg)
 Moment.js tutorial shows how to work with data and time in JavaScript with the Moment.js module.
+
+### [158. Adding the ESLint to an Angular Application](https://hackernoon.com/adding-the-eslint-to-an-angular-application)
+![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-vq92rvb.jpeg)
+Application example built with Angular 14 and adding the ESLint using @angular-eslint/schematics library.
 
 ### [159. Practical Introduction to Domain-Driven Design](https://hackernoon.com/practical-introduction-to-domain-driven-design)
 ![](https://cdn.hackernoon.com/images/ql5j5TZB0tU1vWA4EaF6tI4lfED3-jf93jhd.jpeg)
@@ -652,17 +654,17 @@ Domain-driven design terminology, building blocks, and other concepts to get sta
 ![](https://cdn.hackernoon.com/images/xc4tHTeTFVT2acicoza639IgwXu1-4z93scp.jpeg)
 Discover how to secure your web applications against browser vulnerabilities with this comprehensive guide for web developers
 
-### [162. Securing Your Laravel Application: A Comprehensive Guide](https://hackernoon.com/securing-your-laravel-application-a-comprehensive-guide)
-![](https://cdn.hackernoon.com/images/vdp7kT2sUoaoYz8cG6xEvOAFTVJ3-xja3rj8.jpeg)
-This guide is perfect for developers wanting to ensure their Laravel application is rock-solid and secure. Get started today.
-
-### [163. How to Create a Google Chrome Extension Part 2: Image Grabber](https://hackernoon.com/how-to-create-a-google-chrome-extension-part-2-image-grabber)
+### [162. How to Create a Google Chrome Extension Part 2: Image Grabber](https://hackernoon.com/how-to-create-a-google-chrome-extension-part-2-image-grabber)
 ![](https://cdn.hackernoon.com/images/xB1fZ7i6v7a3uD2Vj1Ss6u95Tsd2-wm92q6q.jpeg)
 How to Create Google Chrome Extension Part 2
 
-### [164. REST API Design Mistakes](https://hackernoon.com/rest-api-design-mistakes)
+### [163. REST API Design Mistakes](https://hackernoon.com/rest-api-design-mistakes)
 ![](https://cdn.hackernoon.com/images/framework-cli0cmayh000001s68bvi8yws.png)
 REST principles are difficult to follow 100% of the time. However, avoiding the mistakes shared in this piece will make your API cleaner and easier to use. 
+
+### [164. Securing Your Laravel Application: A Comprehensive Guide](https://hackernoon.com/securing-your-laravel-application-a-comprehensive-guide)
+![](https://cdn.hackernoon.com/images/vdp7kT2sUoaoYz8cG6xEvOAFTVJ3-xja3rj8.jpeg)
+This guide is perfect for developers wanting to ensure their Laravel application is rock-solid and secure. Get started today.
 
 ### [165. How To Score A Perfect 100 Google Lighthouse Score in Chrome Dev Tools](https://hackernoon.com/how-to-score-a-perfect-100-google-lighthouse-score-in-chrome-dev-tools-8v4833dx)
 ![](https://cdn.hackernoon.com/images/m1JWnUaHzSX3LPHoHfOainoiYvq2-9g3z3f0t.jpeg)
@@ -672,17 +674,17 @@ This is How I Built My Portfolio Site and personal blog using React and NextJS, 
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-4k930j6.jpeg)
 Learn tips that will help you create a better user experience and ensure a consistent level of security throughout the Flow ecosystem. 
 
-### [167. Understanding the Javascript Array Reduce Method](https://hackernoon.com/understanding-the-javascript-array-reduce-method)
+### [167. The Top JavaScript Datagrids](https://hackernoon.com/the-top-javascript-datagrids)
+![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-vb0342s.png)
+Explore the top JavaScript Datagrids and their notable features for your applications in this review of leading options.
+
+### [168. Understanding the Javascript Array Reduce Method](https://hackernoon.com/understanding-the-javascript-array-reduce-method)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-pg93pt6.jpeg)
 The JS reduce method is a recursive way to perform a computation based on every element in the array while considering the previous elements of the array.
 
-### [168. CSS Frameworks Vs Custom CSS [An Overview]](https://hackernoon.com/css-frameworks-vs-custom-css-an-overview-wf9l32mq)
+### [169. CSS Frameworks Vs Custom CSS [An Overview]](https://hackernoon.com/css-frameworks-vs-custom-css-an-overview-wf9l32mq)
 ![](https://images.unsplash.com/photo-1483213097419-365e22f0f258?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Frameworks have definitely changed a lot about the web development process. Pure hard-coding of CSS always gets the job done, but there came the need for speed and uniformity. This need was the foundation for the birth of CSS frameworks. The need to develop web pages quickly, and ensure consistent designs and layout was key.
-
-### [169. The Top JavaScript Datagrids](https://hackernoon.com/the-top-javascript-datagrids)
-![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-vb0342s.png)
-Explore the top JavaScript Datagrids and their notable features for your applications in this review of leading options.
 
 ### [170. Become a Better Developer by Learning Functional Programming in JavaScript](https://hackernoon.com/become-a-better-developer-by-learning-functional-programming-in-javascript)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-2x93irn.jpeg)
@@ -692,45 +694,45 @@ Functional programming is a programming paradigm. This post tells you the basics
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-7t03wzf.jpeg)
 A static analyzer can reduce the possibility of bugs, such as when you accidentally overwrite a variable with another value.
 
-### [172. 10 UI Elements Web Developers Should Know About](https://hackernoon.com/10-ui-elements-web-developers-should-know-about-n1q3t3z)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-7zn3t8b.jpeg?alt=media&token=ebe1db4a-e679-4c47-8941-e40acd5220b7)
-For web developers, it’s crucial to have a deep understanding of UI elements and how users interact with them. UI elements lay at the heart of web development and act as a common design language between web developers.
+### [172. How to Build a GatsbyJS Blog (Part 3): The Blog and Post Pages](https://hackernoon.com/how-to-build-a-gatsbyjs-blog-part-3-the-blog-and-post-pages)
+![](https://cdn.hackernoon.com/images/YhQrn2uriTN9SEA31DxtfMz7glu1-uuc3s9j.jpeg)
+In part three of our "Building a Gatsby Blog" series, we delve into the blog itself and create the list and post pages.
 
-### [173. 3 Reasons Webhooks Are Better than Regular HTTP Requests](https://hackernoon.com/3-reasons-webhooks-are-better-than-regular-http-requests)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-2793ppp.jpeg)
-A guide on why Webhooks are often considered better than regular HTTP requests for a few reasons.
+### [173. How to Handle Your Web Components Errors Effectively ](https://hackernoon.com/how-to-handle-your-web-components-errors-effectively)
+![](https://cdn.hackernoon.com/images/zaFsi86habTuCYRikyd3UBKEgKE3-3793qgj.jpeg)
+This blog post provides an overview on how to effectively handle errors in web components and the recommended way to do it in the React ecosystem.
 
 ### [174. How Can I Use Selenium to Automate Shadow DOM Elements?](https://hackernoon.com/how-can-i-use-selenium-to-automate-shadow-dom-elements)
 ![](https://cdn.hackernoon.com/images/2EHqLYnBA1e6rDsHRwLC7iNmRov2-6993ptt.jpeg)
 In this blog, we highlighted the automation of the shadow DOM elements using the selenium web driver. 
 
-### [175. How to Handle Your Web Components Errors Effectively ](https://hackernoon.com/how-to-handle-your-web-components-errors-effectively)
-![](https://cdn.hackernoon.com/images/zaFsi86habTuCYRikyd3UBKEgKE3-3793qgj.jpeg)
-This blog post provides an overview on how to effectively handle errors in web components and the recommended way to do it in the React ecosystem.
+### [175. 3 Reasons Webhooks Are Better than Regular HTTP Requests](https://hackernoon.com/3-reasons-webhooks-are-better-than-regular-http-requests)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-2793ppp.jpeg)
+A guide on why Webhooks are often considered better than regular HTTP requests for a few reasons.
 
-### [176. How to Scale Like a Boss with Heroku Dynos](https://hackernoon.com/how-to-scale-like-a-boss-with-heroku-dynos)
+### [176. 10 UI Elements Web Developers Should Know About](https://hackernoon.com/10-ui-elements-web-developers-should-know-about-n1q3t3z)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-7zn3t8b.jpeg?alt=media&token=ebe1db4a-e679-4c47-8941-e40acd5220b7)
+For web developers, it’s crucial to have a deep understanding of UI elements and how users interact with them. UI elements lay at the heart of web development and act as a common design language between web developers.
+
+### [177. How to Scale Like a Boss with Heroku Dynos](https://hackernoon.com/how-to-scale-like-a-boss-with-heroku-dynos)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-ot11f35u8.jpeg)
 Now that you are running on Heroku, John Vester helps explore options for scaling your applications or services to meet end-user demands.
 
-### [177. How To Create a Custom Webhook URL Using Autocode](https://hackernoon.com/how-to-create-a-custom-webhook-url-using-autocode-kx1x3uck)
+### [178. How To Create a Custom Webhook URL Using Autocode](https://hackernoon.com/how-to-create-a-custom-webhook-url-using-autocode-kx1x3uck)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-82k3u47.jpeg?alt=media&token=ab3f5a86-6bc8-4a00-823f-dfac568fe051)
 TLDR (30s)
 
-### [178. How to Build a GatsbyJS Blog (Part 3): The Blog and Post Pages](https://hackernoon.com/how-to-build-a-gatsbyjs-blog-part-3-the-blog-and-post-pages)
-![](https://cdn.hackernoon.com/images/YhQrn2uriTN9SEA31DxtfMz7glu1-uuc3s9j.jpeg)
-In part three of our "Building a Gatsby Blog" series, we delve into the blog itself and create the list and post pages.
+### [179. Making a Gradient Color Generator App Using JavaScript](https://hackernoon.com/making-a-gradient-color-generator-app-using-javascript)
+![](https://cdn.hackernoon.com/images/awSK9UBJcfNNXiYmqyT1Ihlw5Hr2-ae03645.jpeg)
+In this article, I have shown you how to make Gradient Color Generator using JavaScript.
 
-### [179. Static vs Dynamic Website with JAM Stack Website in Between](https://hackernoon.com/static-vs-dynamic-website-with-jam-stack-website-in-between-8a4h32u5)
+### [180. Static vs Dynamic Website with JAM Stack Website in Between](https://hackernoon.com/static-vs-dynamic-website-with-jam-stack-website-in-between-8a4h32u5)
 ![](https://cdn.hackernoon.com/drafts/q23m3y63.png)
 The web has been around for a while now. I have been building websites for 20 years now and I started by building static websites. Later I worked on many dynamic websites and web applications. This post is a quick rundown on the major difference between dynamic and static websites. There are some details about the JAM (Javascript API and Markup) stack. It also has some explanation of the technologies and costs associated with each of the 3 options.
 
-### [180. Become a Front-End Developer in 6 Months with These 4 Skills](https://hackernoon.com/become-a-front-end-developer-in-6-months-with-these-4-skills)
+### [181. Become a Front-End Developer in 6 Months with These 4 Skills](https://hackernoon.com/become-a-front-end-developer-in-6-months-with-these-4-skills)
 ![](https://cdn.hackernoon.com/images/uQO3uORgs4Mk6ZUOS7HXdbzK9Ui1-4s137zf.jpeg)
 Let me give you a simple roadmap to know where you are, and where you should go next. So here are 4 essential skills to become a frontend developer in 6 months.
-
-### [181. Making a Gradient Color Generator App Using JavaScript](https://hackernoon.com/making-a-gradient-color-generator-app-using-javascript)
-![](https://cdn.hackernoon.com/images/awSK9UBJcfNNXiYmqyT1Ihlw5Hr2-ae03645.jpeg)
-In this article, I have shown you how to make Gradient Color Generator using JavaScript.
 
 ### [182. You’ll Need to Use a Proxy Server, Sooner or Later](https://hackernoon.com/youll-need-to-use-a-proxy-server-sooner-or-later)
 ![](https://cdn.hackernoon.com/images/ibRkmu5aVJXXD6liofFFR23PdGC2-oef3rmj.jpeg)
@@ -740,17 +742,17 @@ Why in large web scraping projects there's the need of proxy servers? Here a bri
 ![](https://cdn.hackernoon.com/images/f1763803.jpg)
 As a developer, I love listening to music while coding. The orchestral music allows me to focus more on what I do. And one day I noticed my fingers dance on the keyboard by the music rhythm. Like playing the piano. Every word or symbol in the code was written with harmony. And then I thought... how it could sound... The code I write every day?
 
-### [184. Top Mistakes JavaScript Developers Make](https://hackernoon.com/top-mistakes-javascript-developers-make-294q39ef)
-![](https://cdn.hackernoon.com/images/ZAlXEyfPKLbLU1vNVOx7As2FeRz1-rh1c39nj.jpeg)
-This article will show you some typical mistakes that almost every Javascript programmer has made during his career.
-
-### [185. Browser-Based Games are Making a Comeback...Again](https://hackernoon.com/browser-based-games-are-making-a-comebackagain)
+### [184. Browser-Based Games are Making a Comeback...Again](https://hackernoon.com/browser-based-games-are-making-a-comebackagain)
 ![](https://cdn.hackernoon.com/images/Sn0TyXr1KQeU4DIrOvvbOz0ayoo2-br93p5b.jpeg)
 With the creation of wasm, are web based games going to rise again? 
 
-### [186. Understanding Javascript's Array Slice Method](https://hackernoon.com/understanding-javascripts-array-slice-method)
+### [185. Understanding Javascript's Array Slice Method](https://hackernoon.com/understanding-javascripts-array-slice-method)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-cb93p0l.jpeg)
 The slice method on arrays returns a shallow copy of a part of an array. It takes two numbers, a start, and an end. Every array has a slice method. 
+
+### [186. Top Mistakes JavaScript Developers Make](https://hackernoon.com/top-mistakes-javascript-developers-make-294q39ef)
+![](https://cdn.hackernoon.com/images/ZAlXEyfPKLbLU1vNVOx7As2FeRz1-rh1c39nj.jpeg)
+This article will show you some typical mistakes that almost every Javascript programmer has made during his career.
 
 ### [187. Building with PHP in the Era of Microservices and API-Driven Architectures](https://hackernoon.com/building-with-php-in-the-era-of-microservices-and-api-driven-architectures)
 ![](https://cdn.hackernoon.com/images/oTZ8b9FUzDSBeVCoipwJ5IEuU823-bd93t0d.jpeg)
@@ -760,13 +762,13 @@ Microservices can be made using lightweight PHP frameworks like Slim or Lumen, p
 ![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-mg93mk2.jpeg)
 Application example built with Angular 14 and adding the map MapLibre component using the Amazon Amplify Geo and Amazon Location Service services.
 
-### [189. The Simplicity of tRPC with the Power of GraphQL ](https://hackernoon.com/the-simplicity-of-trpc-with-the-power-of-graphql)
-![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-30a3pq0.jpeg)
-
-
-### [190. How to Fix the NextJS App Router and FSD Problem](https://hackernoon.com/how-to-deal-with-the-nextjs-app-router-and-fsd-problem)
+### [189. How to Fix the NextJS App Router and FSD Problem](https://hackernoon.com/how-to-deal-with-the-nextjs-app-router-and-fsd-problem)
 ![](https://cdn.hackernoon.com/images/9XknCnZTKoYkhLw6ANWS7J1i9RQ2-40835uw.jpeg)
 Solving Feature-Sliced Design aka FSD combination problem with NextJS
+
+### [190. The Simplicity of tRPC with the Power of GraphQL ](https://hackernoon.com/the-simplicity-of-trpc-with-the-power-of-graphql)
+![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-30a3pq0.jpeg)
+
 
 ### [191. CSS Color Functions in 2023 - Everything You Need to Know to Get Started](https://hackernoon.com/css-color-functions-in-2023-everything-you-need-to-know-to-get-started)
 ![](https://cdn.hackernoon.com/images/RX8xMnl8Q5fsB6oGTIzeeX6BLfh1-hn92k9z.jpeg)
@@ -800,144 +802,146 @@ I looked at archive.org and found a website I put live in 2001, which means I ha
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-3q930ay.jpeg)
 Smart contract development is a complex process that consists of different vital steps. Find out which tooling provides the best value for Web3 developers.
 
-### [199. Automate Web Debugging: A Practical Guide to Chrome DevTools MCP](https://hackernoon.com/automate-web-debugging-a-practical-guide-to-chrome-devtools-mcp)
-![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-oo02b8n.webp)
-
-
-### [200. Building Websites Using Templates vs. Developing From Scratch](https://hackernoon.com/building-websites-using-templates-vs-developing-from-scratch)
+### [199. Building Websites Using Templates vs. Developing From Scratch](https://hackernoon.com/building-websites-using-templates-vs-developing-from-scratch)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-o8a3igq.jpeg)
 Is it true that a website template cannot provide you with excellent SEO and the freedom to modify it? Learn how a website created from a template really works.
 
-### [201. Hosting an Angular application on GitHub Pages using GitHub Actions](https://hackernoon.com/a-step-by-step-guide-to-hosting-angular-applications-on-github-pages-using-github-actions)
-![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-1792my3.jpeg)
-Application example built with Angular 15 and hosted on GitHub Pages using GitHub Actions.
+### [200. How To Use Mod_Rewrite To Remove Your (.PHP) Extension From Your Work ](https://hackernoon.com/how-to-use-mod_rewrite-to-remove-your-php-extension-from-your-work)
+![](https://cdn.hackernoon.com/images/glJc8wR7pPZxszJ5nouCekLyfcA2-0k02q6r.png)
+Learn how to remove .php extensions from URLs using mod_rewrite in .htaccess, with steps to enable cleaner, SEO-friendly URLs on your Apache server.
 
-### [202. How to Use Zeet to Take Your Devops from 0 to 100](https://hackernoon.com/how-to-use-zeet-to-take-your-devops-from-0-to-100)
+### [201. How to Use Zeet to Take Your Devops from 0 to 100](https://hackernoon.com/how-to-use-zeet-to-take-your-devops-from-0-to-100)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-6o137k3.jpeg)
 What happens when you combine an awesome idea with a driven leader? You get an exciting product, like Zeet, which automates your DevOps tasks.
+
+### [202. Hosting an Angular application on GitHub Pages using GitHub Actions](https://hackernoon.com/a-step-by-step-guide-to-hosting-angular-applications-on-github-pages-using-github-actions)
+![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-1792my3.jpeg)
+Application example built with Angular 15 and hosted on GitHub Pages using GitHub Actions.
 
 ### [203. Use Github Pages to Create a Portfolio Website with Custom Domain ](https://hackernoon.com/use-github-pages-to-create-a-portfolio-website-with-custom-domain)
 ![](https://cdn.hackernoon.com/images/jwVTL7uSEHWwASBwbAaULWbCbnI2-0193r4y.jpeg)
 How to make a simple professional portfolio for beginner developers. Perfect for finding a tech job to help you stand out from other applicants. 
 
-### [204. How To Use Mod_Rewrite To Remove Your (.PHP) Extension From Your Work ](https://hackernoon.com/how-to-use-mod_rewrite-to-remove-your-php-extension-from-your-work)
-![](https://cdn.hackernoon.com/images/glJc8wR7pPZxszJ5nouCekLyfcA2-0k02q6r.png)
-Learn how to remove .php extensions from URLs using mod_rewrite in .htaccess, with steps to enable cleaner, SEO-friendly URLs on your Apache server.
+### [204. CSS Named Colors: Everything Explained ](https://hackernoon.com/css-named-colors-everything-explained)
+![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-ew928fe.png)
+This page provides resources for working with CSS Name Colors. It contains Named Color groups, palettes, favorites, and even fun facts.
 
-### [205. Building a Random Quote Generator with Flutter](https://hackernoon.com/building-a-random-quote-generator-with-flutter)
-![](https://cdn.hackernoon.com/images/a-machine-churning-out-solid-letters-z0ewnomqdg7h5ek91lo0m5mn.png)
-In this article, we will be building a random quote generator in Flutter.
+
+### [205. How to Update and Support URL Parameters in JavaScript](https://hackernoon.com/how-to-update-and-support-url-parameters-in-javascript)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-uq93pbd.png)
+A look at writing a web application that can save it's state to the URL, making it easier to share state with others.
 
 ### [206. Building a GraphQL eCommerce App from Scratch](https://hackernoon.com/building-a-graphql-ecommerce-app-from-scratch)
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-t0i3pmj.jpeg)
 How to Build a GraphQL eCommerce App from Scratch
 
-### [207. How to Update and Support URL Parameters in JavaScript](https://hackernoon.com/how-to-update-and-support-url-parameters-in-javascript)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-uq93pbd.png)
-A look at writing a web application that can save it's state to the URL, making it easier to share state with others.
+### [207. Building a Random Quote Generator with Flutter](https://hackernoon.com/building-a-random-quote-generator-with-flutter)
+![](https://cdn.hackernoon.com/images/a-machine-churning-out-solid-letters-z0ewnomqdg7h5ek91lo0m5mn.png)
+In this article, we will be building a random quote generator in Flutter.
 
 ### [208. Mark Your Calendars, Bad Bots Are Coming for the Last Months of 2022](https://hackernoon.com/mark-your-calendars-bad-bots-are-coming-for-the-last-months-of-2022)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-eu93od6.jpeg)
 The sad reality for many online business websites and applications is that they are flooded by automated bad bots
 
-### [209. CSS Named Colors: Everything Explained ](https://hackernoon.com/css-named-colors-everything-explained)
-![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-ew928fe.png)
-This page provides resources for working with CSS Name Colors. It contains Named Color groups, palettes, favorites, and even fun facts.
+### [209. A Guide on How to Cancel Duplicate Fetch Requests in JavaScript Enhanced Forms](https://hackernoon.com/a-guide-on-how-to-cancel-duplicate-fetch-requests-in-javascript-enhanced-forms)
+![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-mr92ac6.png)
+Avoid duplicate-request & race-condition when creating JavaScript enhanced forms. Cancel previous fetch requests with AbortController.
 
 
 ### [210. Tail-kit Introduction: 200+ Free Tailwind CSS Components And Templates](https://hackernoon.com/tail-kit-introduction-200-free-tailwind-css-components-and-templates-d7v31v2)
 ![](https://cdn.hackernoon.com/images/I6baOfMDJPVeudwIwtHwkMpYTdz2-qj2m3625.jpeg)
 Free and open source Tailwind css 2.0 components and templates KIT for React, vueJS and Angular. 
 
-### [211. A Guide on How to Cancel Duplicate Fetch Requests in JavaScript Enhanced Forms](https://hackernoon.com/a-guide-on-how-to-cancel-duplicate-fetch-requests-in-javascript-enhanced-forms)
-![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-mr92ac6.png)
-Avoid duplicate-request & race-condition when creating JavaScript enhanced forms. Cancel previous fetch requests with AbortController.
-
+### [211. How to Design a Functional Pastebin](https://hackernoon.com/how-to-design-a-functional-pastebin)
+![](https://cdn.hackernoon.com/images/OAWNH2u4oMfvIQnqBHkGhGDHPN72-6ud3lqv.jpeg)
+This article gives a skeletal guide for designing your very own pastebin.
 
 ### [212. The Future of Web Development: 5 Things to Expect in the Next Decade](https://hackernoon.com/the-future-of-web-development-5-things-to-expect-in-the-next-decade)
 ![](https://cdn.hackernoon.com/images/T6rSbAFb1SP87rQxiZsQbbw6cb63-xxb3psr.jpeg)
 We'll address web development's future and detail companies' development trends to cope with changes. You'll also find how to position yourself 
 
-### [213. The Website Accessibility Checklist](https://hackernoon.com/the-website-accessibility-checklist)
-![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-lz9362k.jpeg)
-Cheatsheet to make your web app more accessible with little effort
-
-### [214. Build a Production Ready Restaurant Website with Next.js 12 and Cosmic](https://hackernoon.com/build-a-production-ready-restaurant-website-with-nextjs-12-and-cosmic)
+### [213. Build a Production Ready Restaurant Website with Next.js 12 and Cosmic](https://hackernoon.com/build-a-production-ready-restaurant-website-with-nextjs-12-and-cosmic)
 ![](https://cdn.hackernoon.com/images/Jxe9yCMk4BW1cZd1hs3AlUhayZv1-z793lsi.jpeg)
 How you can use Next.js and Cosmic to create special web pages such as restaurant websites that include restaurant menus that have many images and animations.
+
+### [214. The Website Accessibility Checklist](https://hackernoon.com/the-website-accessibility-checklist)
+![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-lz9362k.jpeg)
+Cheatsheet to make your web app more accessible with little effort
 
 ### [215. The Top 10 Benefits of Angular for Web Development](https://hackernoon.com/the-top-10-benefits-of-angular-for-web-development)
 ![](https://cdn.hackernoon.com/images/3q9BbFdldvgJCloYVOtUJ7Y0Xsq2-oc93ra8.jpeg)
 Angular was designed with performance in mind. It's fast and efficient, making it a great choice for high website traffic.
 
-### [216. How to Design a Functional Pastebin](https://hackernoon.com/how-to-design-a-functional-pastebin)
-![](https://cdn.hackernoon.com/images/OAWNH2u4oMfvIQnqBHkGhGDHPN72-6ud3lqv.jpeg)
-This article gives a skeletal guide for designing your very own pastebin.
-
-### [217. How to Deploy a Hugo Blog to GitHub Pages With Actions](https://hackernoon.com/how-to-deploy-a-hugo-blog-to-github-pages-with-actions)
+### [216. How to Deploy a Hugo Blog to GitHub Pages With Actions](https://hackernoon.com/how-to-deploy-a-hugo-blog-to-github-pages-with-actions)
 ![](https://cdn.hackernoon.com/images/qqQuQnB1axa4HS9uKXmxjdYUt2f1-uo12tsc.png)
 Learn how I built a technical blog using Hugo, Caddy, and GitHub Pages. A simple, lightweight setup for developers new to blogging
 
-### [218. SwifWeb Libraries: Materialize CSS](https://hackernoon.com/swifweb-libraries-materialize-css)
+### [217. SwifWeb Libraries: Materialize CSS](https://hackernoon.com/swifweb-libraries-materialize-css)
 ![](https://cdn.hackernoon.com/images/cnk75wzdkHOamvwE3F8u3w3Q3Ni1-wj935ly.jpeg)
 A detailed example that uses MaterializeCSS front end framework with SwifWeb to create various web elements and design features. 
 
-### [219. Understanding Domain Driven Design (DDD)](https://hackernoon.com/understanding-domain-driven-design-ddd)
+### [218. Understanding Domain Driven Design (DDD)](https://hackernoon.com/understanding-domain-driven-design-ddd)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yb93ppg.jpeg)
 DDD is not about technology. Instead, it's about understanding the problem you’re trying to solve in a business context.
+
+### [219. TypeScript vs JavaScript: Understanding the Differences](https://hackernoon.com/the-difference-between-typescript-and-javascript)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-wg93pnd.jpeg)
+ In this guide, I'll explain exactly what TypeScript is and why it's different from Javascript. 
 
 ### [220. Visual Studio Code 1.100: AI Gets Personal!](https://hackernoon.com/visual-studio-code-1100-ai-gets-personal)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-y9038ul.png)
 The latest release transforms how the AI assistant understands your coding style, making it feel like it's truly part of your development team.
 
-### [221. TypeScript vs JavaScript: Understanding the Differences](https://hackernoon.com/the-difference-between-typescript-and-javascript)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-wg93pnd.jpeg)
- In this guide, I'll explain exactly what TypeScript is and why it's different from Javascript. 
+### [221. Load Testing Using Vegeta: Rapid Step by Step Guide](https://hackernoon.com/load-testing-using-vegeta-rapid-step-by-step-guide-qi3431ot)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJeJLJhOGw1UlLLa7yUZkQm6W5fp1-yis3wzc.jpeg?alt=media&token=930856a3-1c02-4deb-a53d-696ffcfa0c43)
+Load testing is an important part of releasing a reliable API or application. Vegeta load testing will give you the confidence that the application will work well under a defined load. In this post, we will discuss how to use Vegeta for your load testing needs with some GET request examples. As it is just a go binary it is much easier to set up and use than you think, let's get started.
+
 
 ### [222. Introduction to Strapi : Headless CMS for Building Web Applications](https://hackernoon.com/introduction-to-strapi-headless-cms-for-building-web-applications-0v2o31cm)
 ![](https://cdn.hackernoon.com/images/bqq1vavQnKeXAOodyo8V8H52q8G2-qu8350k.jpeg)
 Strapi is an open-source Headless CMS that gives developers the freedom to choose their favorite tools and frameworks.
 
-### [223. Load Testing Using Vegeta: Rapid Step by Step Guide](https://hackernoon.com/load-testing-using-vegeta-rapid-step-by-step-guide-qi3431ot)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJeJLJhOGw1UlLLa7yUZkQm6W5fp1-yis3wzc.jpeg?alt=media&token=930856a3-1c02-4deb-a53d-696ffcfa0c43)
-Load testing is an important part of releasing a reliable API or application. Vegeta load testing will give you the confidence that the application will work well under a defined load. In this post, we will discuss how to use Vegeta for your load testing needs with some GET request examples. As it is just a go binary it is much easier to set up and use than you think, let's get started.
-
-
-### [224. Why Appwrite 0.8 Is A Great Open-Source Firebase Alternative](https://hackernoon.com/why-appwrite-08-is-a-great-open-source-firebase-alternative-ed2n34ns)
+### [223. Why Appwrite 0.8 Is A Great Open-Source Firebase Alternative](https://hackernoon.com/why-appwrite-08-is-a-great-open-source-firebase-alternative-ed2n34ns)
 ![](https://cdn.hackernoon.com/images/PS8hMJYbctWKb61wkjdO9AWa6fe2-fi1j34xa.jpeg)
 Announcing Appwrite 0.8 with JWT authentication, ARM support, Anonymous Login, new storage capabilities and many more new features.
 
-### [225. The Top React Datagrids](https://hackernoon.com/the-top-react-datagrids)
+### [224. The Top React Datagrids](https://hackernoon.com/the-top-react-datagrids)
 ![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-ml034pl.png)
 Explore the top React Datagrids and their notable features for your applications in this review of leading options.
+
+### [225. How to Building Fancy List Items in Astro](https://hackernoon.com/how-to-building-fancy-list-items-in-astro)
+![](https://cdn.hackernoon.com/images/TrD4DzyJu6g677bJSu6xzJ3TxA12-j7f3r9x.jpeg)
+This article shows you how to add custom SVG to any markdown list items in Astro, so you don't have to write custom HTML each time you want to make nice lists.
 
 ### [226. Why is the Documentation of Tech Products So Hard to Use? (in the User’s Point of View)](https://hackernoon.com/why-is-the-documentation-of-tech-products-so-hard-to-use-in-the-users-point-of-view)
 ![](https://cdn.hackernoon.com/images/q6mx6E5l6TgXIk2JYkZfKEBcWnF2-93a3afv.jpeg)
 Documenting tech products is a key part of making a project sustainable in the long term. Despite that, properly documenting them is incredibly difficult. 
 
-### [227. How to Building Fancy List Items in Astro](https://hackernoon.com/how-to-building-fancy-list-items-in-astro)
-![](https://cdn.hackernoon.com/images/TrD4DzyJu6g677bJSu6xzJ3TxA12-j7f3r9x.jpeg)
-This article shows you how to add custom SVG to any markdown list items in Astro, so you don't have to write custom HTML each time you want to make nice lists.
-
-### [228. Hack Your Technical Debt: The 1% Better Every Day Challenge](https://hackernoon.com/hack-your-technical-debt-the-1percent-better-every-day-challenge-9k5c31pe)
+### [227. Hack Your Technical Debt: The 1% Better Every Day Challenge](https://hackernoon.com/hack-your-technical-debt-the-1percent-better-every-day-challenge-9k5c31pe)
 ![](https://cdn.hackernoon.com/images/wTLXRHcYZvU57CVqgls1STwilUg2-2mc312q.jpeg)
 It's easy for technical debt to grow in our codebase. Commit to spending 20 minutes a day for 30 days to tackling technical debt and get 1% better every day.
 
-### [229. JavaScript's Clipboard Copy: Crafting with AI](https://hackernoon.com/javascripts-clipboard-copy-crafting-with-ai)
+### [228. JavaScript's Clipboard Copy: Crafting with AI](https://hackernoon.com/javascripts-clipboard-copy-crafting-with-ai)
 ![](https://cdn.hackernoon.com/images/EVKIyOE5g0e70Zsmj3IswB8Udbk2-hr936bf.jpeg)
 Dive into a reusable JavaScript Clipboard Copy Function crafted with AI, highlighting error handling & best practices.
+
+### [229. Salesforce Functions for Caching Expensive Queries](https://hackernoon.com/salesforce-functions-for-caching-expensive-queries)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-rw93q9q.jpeg)
+In this article, we will walk through the use of Salesforce Functions to cache expensive queries. 
 
 ### [230. Designing an API Rate Limiter ](https://hackernoon.com/designing-an-api-rate-limiter)
 ![](https://cdn.hackernoon.com/images/OAWNH2u4oMfvIQnqBHkGhGDHPN72-1ga3l58.jpeg)
 Distributed systems implement an API rate limiter for high availability and security.
 
-### [231. Salesforce Functions for Caching Expensive Queries](https://hackernoon.com/salesforce-functions-for-caching-expensive-queries)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-rw93q9q.jpeg)
-In this article, we will walk through the use of Salesforce Functions to cache expensive queries. 
-
-### [232. What Happens When You Click a URL: DNS Lookup, TCP Handshake & HTTP Request](https://hackernoon.com/what-happens-when-you-click-a-url-dns-lookup-tcp-handshake-and-http-request)
+### [231. What Happens When You Click a URL: DNS Lookup, TCP Handshake & HTTP Request](https://hackernoon.com/what-happens-when-you-click-a-url-dns-lookup-tcp-handshake-and-http-request)
 ![](https://cdn.hackernoon.com/images/OvBGt46oGAcBSX3jKWMtVuNCZGh2-dh8346z.jpeg)
 DNS stands for Domain Name System, and it is a huge database where domain names are stored with their corresponding IP addresses.
+
+### [232. Building an AI-Powered Content Moderation System with JavaScript: A Quick Guide](https://hackernoon.com/building-an-ai-powered-content-moderation-system-with-javascript-a-quick-guide)
+![](https://cdn.hackernoon.com/images/JiCWhBChsNZ6j6UWMSu6EP66pN52-ta93ylh.jpeg)
+Learn how to leverage OpenAI to quickly build an AI-powered moderation system that automatically detects and filters toxic comments.
+
+
 
 ### [233. Deconstructing React 18 ](https://hackernoon.com/deconstructing-react-18)
 ![](https://cdn.hackernoon.com/images/uDPqwahUxKSKSQ17IYMKmh9T5uu1-pw93sia.jpeg)
@@ -947,11 +951,9 @@ React 18 is a major improvement to React’s rendering mechanisms. It focused on
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-7293zi9.jpeg)
 Here are 5 React frameworks that could speed up your development time when building a web application.
 
-### [235. Building an AI-Powered Content Moderation System with JavaScript: A Quick Guide](https://hackernoon.com/building-an-ai-powered-content-moderation-system-with-javascript-a-quick-guide)
-![](https://cdn.hackernoon.com/images/JiCWhBChsNZ6j6UWMSu6EP66pN52-ta93ylh.jpeg)
-Learn how to leverage OpenAI to quickly build an AI-powered moderation system that automatically detects and filters toxic comments.
-
-
+### [235. Can I Build a Generative AI Demo to Help Me Win Big in Vegas?](https://hackernoon.com/can-i-build-a-generative-ai-demo-to-help-me-win-big-in-vegas)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6j83lcr.jpeg)
+A failed AI-assisted demo combining generative AI prompts for strategic advice in card games. 
 
 ### [236. Everything You Need to Know About Web APIs](https://hackernoon.com/everything-you-need-to-know-about-web-apis)
 ![](https://cdn.hackernoon.com/images/the-world-wide-web-lrtew37toqazrmf2y6k07tci.png)
@@ -965,98 +967,98 @@ A tutorial to discover how to crawl and parse Web pages in Python, then how to p
 ![](https://cdn.hackernoon.com/images/OaKbDySLt9XUEwmFIQVq3BBEYot1-5t83xh0.jpeg)
 In this article, we'll discuss using Chrome's Code Coverage panel and how you can leverage its insights to optimise performance.
 
-### [239. Back-end Data and API Prototyping with Faker.js and JSON-Server](https://hackernoon.com/back-end-data-and-api-prototyping-with-fakerjs-and-json-server-n5t36uw)
-![](https://cdn.hackernoon.com/images/xk1o3ap7.jpg)
-Introduction
-
-### [240. Can I Build a Generative AI Demo to Help Me Win Big in Vegas?](https://hackernoon.com/can-i-build-a-generative-ai-demo-to-help-me-win-big-in-vegas)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6j83lcr.jpeg)
-A failed AI-assisted demo combining generative AI prompts for strategic advice in card games. 
-
-### [241. Understanding Web Standard - Shadow DOM and Custom HTML Elements](https://hackernoon.com/understanding-web-standard-shadow-dom-and-custom-html-elements-321f3422)
+### [239. Understanding Web Standard - Shadow DOM and Custom HTML Elements](https://hackernoon.com/understanding-web-standard-shadow-dom-and-custom-html-elements-321f3422)
 ![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-vq4l357s.jpeg)
 Getting Familiar with New Web Standards
 
-### [242. 4 JavaScript Portfolio Projects to Help You Land a Web Developer Position](https://hackernoon.com/4-java-script-portfolio-projects-to-help-you-land-a-web-developer-position)
+### [240. Back-end Data and API Prototyping with Faker.js and JSON-Server](https://hackernoon.com/back-end-data-and-api-prototyping-with-fakerjs-and-json-server-n5t36uw)
+![](https://cdn.hackernoon.com/images/xk1o3ap7.jpg)
+Introduction
+
+### [241. 4 JavaScript Portfolio Projects to Help You Land a Web Developer Position](https://hackernoon.com/4-java-script-portfolio-projects-to-help-you-land-a-web-developer-position)
 ![](https://cdn.hackernoon.com/images/39mblVBljxZEYT1ILyGYXoPb9Mq2-1nc36zu.jpeg)
 If you're starting to apply for your first web developer junior position, then you might want to consider building out one of the 4 (if not all) projects.
 
-### [243. How To Deploy An ERC-20 Smart Contract On Avalanche with Infura](https://hackernoon.com/how-to-deploy-an-erc-20-smart-contract-on-avalanche-with-infura)
+### [242. I Choose Mermaid for Graph Creation and You Should Too 🚀](https://hackernoon.com/i-choose-mermaid-for-graph-creation-and-you-should-too)
+![](https://cdn.hackernoon.com/images/GWHX2lBFLbMSZ4olDc5OKN28T0h1-e193wol.jpeg)
+Mermaid is a lightweight diagramming and charting tool designed to tackle stale diagrams.
+
+### [243. Automate Web Debugging: A Practical Guide to Chrome DevTools MCP](https://hackernoon.com/automate-web-debugging-a-practical-guide-to-chrome-devtools-mcp)
+![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-oo02b8n.webp)
+
+
+### [244. How To Deploy An ERC-20 Smart Contract On Avalanche with Infura](https://hackernoon.com/how-to-deploy-an-erc-20-smart-contract-on-avalanche-with-infura)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-3e93049.jpeg)
 Avalanche has emerged as one of the most formidable alternatives to Ethereum, becoming the fastest smart contract platform in the blockchain industry.
 
-### [244. 8 Great Material Admin Dashboards To Use In Your Project](https://hackernoon.com/8-great-material-admin-dashboards-to-use-in-your-project-vh1j3u62)
+### [245. 8 Great Material Admin Dashboards To Use In Your Project](https://hackernoon.com/8-great-material-admin-dashboards-to-use-in-your-project-vh1j3u62)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-ec73ub1.jpeg?alt=media&token=82c7a4bd-72fe-47c4-830b-0844a72105d0)
 Looking through the admin template market you can easily conclude that this market is saturated. It’s observed in the number of templates, the amount of developers and (what is of the most important) a bunch of articles of «Best templates …(and here year, description or whatever goes)». And the amount of template becomes bigger and bigger every year. After reading several articles you may find out that to remember the name of the template you have liked is not (just believe us, really “not”) an easy task (of course, if you keep a template page in a browser tab it’s much easier, but don’t forget that RAM is limited and your browser may already keep 40+ tabs). 
 
-### [245. Web Development Is Still The Wild Wild West in 2023](https://hackernoon.com/web-development-is-still-the-wild-wild-west-in-2023)
+### [246. Web Development Is Still The Wild Wild West in 2023](https://hackernoon.com/web-development-is-still-the-wild-wild-west-in-2023)
 ![](https://cdn.hackernoon.com/images/OtJzzAct4ogl0v25V43xSyGcJAt1-m993tc0.jpeg)
 Web development is still (thankfully) a frontier, where there is little to no official regulation, certification or oversight. Will it always be the wild west?
 
-### [246. The Browser in the Browser (BITB) Attack: Lies, Deceit, and CSS](https://hackernoon.com/the-browser-in-the-browser-bitb-attack-lies-deceit-and-css)
-![](https://cdn.hackernoon.com/images/GWHX2lBFLbMSZ4olDc5OKN28T0h1-4r93nd9.jpeg)
-“Beware the Ides of March”, they say; and we should for good reason.
-
-### [247. TURN Time Into Value](https://hackernoon.com/turn-time-into-value)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-jg93y29.jpeg)
-Web3 projects can now leverage TURN tokens – a new open marketplace for buyers and sellers of Diligence smart contract security auditing.
-
-### [248. 5 Simple Tips to Become a Better Programmer](https://hackernoon.com/5-simple-tips-to-become-a-better-programmer)
+### [247. 5 Simple Tips to Become a Better Programmer](https://hackernoon.com/5-simple-tips-to-become-a-better-programmer)
 ![](https://cdn.hackernoon.com/images/xW8Q0uYJUTMJrV73OYEylMCCQOn1-34a2ie6.jpeg)
 Developing software is more than just 'coding'. To grow as a programmer, you'll have to master other practices — here are 5 timeless tools and methods.
 
-### [249. I Choose Mermaid for Graph Creation and You Should Too 🚀](https://hackernoon.com/i-choose-mermaid-for-graph-creation-and-you-should-too)
-![](https://cdn.hackernoon.com/images/GWHX2lBFLbMSZ4olDc5OKN28T0h1-e193wol.jpeg)
-Mermaid is a lightweight diagramming and charting tool designed to tackle stale diagrams.
+### [248. The Browser in the Browser (BITB) Attack: Lies, Deceit, and CSS](https://hackernoon.com/the-browser-in-the-browser-bitb-attack-lies-deceit-and-css)
+![](https://cdn.hackernoon.com/images/GWHX2lBFLbMSZ4olDc5OKN28T0h1-4r93nd9.jpeg)
+“Beware the Ides of March”, they say; and we should for good reason.
+
+### [249. TURN Time Into Value](https://hackernoon.com/turn-time-into-value)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-jg93y29.jpeg)
+Web3 projects can now leverage TURN tokens – a new open marketplace for buyers and sellers of Diligence smart contract security auditing.
 
 ### [250. How To Build a Table With Sticky Headers in Pure CSS](https://hackernoon.com/how-to-build-a-table-with-sticky-headers-in-pure-css-pc19313h)
 ![](https://cdn.hackernoon.com/images/4qzOWT5DeLPh3BnxwuF5cUyAwzs2-2kg31oz.png)
 While creating user interfaces, we often encounter the problem that there is more data in our tables than can be fitted in the visible viewport. To achieve an excellent user experience on components like Gannt charts, data tables and spreadsheets, we often use the sticky CSS property on the header elements. This is a simple task when doing it only on one edge of the table.
 
-### [251. 5 Essential Python Packages You Should Know](https://hackernoon.com/5-essential-python-packages-you-should-know)
+### [251. The Array Every Method in JavaScript](https://hackernoon.com/the-array-every-method-in-javascript)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-5y93s5e.png)
+Sometimes, with arrays, we want to test every element for a certain condition.
+
+### [252. 5 Essential Python Packages You Should Know](https://hackernoon.com/5-essential-python-packages-you-should-know)
 ![](https://cdn.hackernoon.com/images/ql5j5TZB0tU1vWA4EaF6tI4lfED3-0n93kf2.jpeg)
 A list of universal libraries for working with Python projects.
 
-
-### [252. The Array Every Method in JavaScript](https://hackernoon.com/the-array-every-method-in-javascript)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-5y93s5e.png)
-Sometimes, with arrays, we want to test every element for a certain condition.
 
 ### [253. Translate Your React App with Tolgee: A Step-by-Step Guide](https://hackernoon.com/translate-your-react-app-with-tolgee-a-step-by-step-guide)
 ![](https://cdn.hackernoon.com/images/G6xFXeYzgfSNur6yRW1nAvG64Vk1-ze03bc8.jpeg)
 Tutorial how to localize (i18n) React application using Tolgee. It allows you to translate your string in-context and generate screenshots.
 
-### [254. Destructuring in Javascript](https://hackernoon.com/destructuring-in-javascript-7lm3t1r)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQabgMGCvjmY1fg3TSQtFH14qcG22-w02y3wp3.jpeg?alt=media&token=12efa548-8d2a-4ddb-b080-c14c5485fd8e)
-Destructuring is a very simple concept in javascript, it allows you to pull out some variables from object/array, but it has a lot of features. Here are some cool things you can do with it!
+### [254. What Building a Simple Age Calculator Taught Me About Time, Technology, and Small Tools](https://hackernoon.com/what-building-a-simple-age-calculator-taught-me-about-time-technology-and-small-tools)
+![](https://cdn.hackernoon.com/images/Op5zx6yE88gatRYZ5tEfDzwnyn52-3g63b66.png)
+From days to heartbeats: how a friend’s question led me to build an age calculator and discover the power of small tools.
 
 ### [255. Why You Should Ditch JavaScript](https://hackernoon.com/why-you-should-ditch-javascript)
 ![](https://cdn.hackernoon.com/images/1xOaiEL6VrhnKiRtNl7JCDwppI62-ihb3pkc.jpeg)
 Yes, it's true; we are breaking the web!
 
-### [256. A Guide on Using the Cookie Store API](https://hackernoon.com/a-guide-on-using-the-cookie-store-api)
+### [256. Destructuring in Javascript](https://hackernoon.com/destructuring-in-javascript-7lm3t1r)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQabgMGCvjmY1fg3TSQtFH14qcG22-w02y3wp3.jpeg?alt=media&token=12efa548-8d2a-4ddb-b080-c14c5485fd8e)
+Destructuring is a very simple concept in javascript, it allows you to pull out some variables from object/array, but it has a lot of features. Here are some cool things you can do with it!
+
+### [257. A Guide on Using the Cookie Store API](https://hackernoon.com/a-guide-on-using-the-cookie-store-api)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-8g93p2v.jpeg)
 A look at an API that makes it easier to work with cookies in the browser.
 
-### [257. What Building a Simple Age Calculator Taught Me About Time, Technology, and Small Tools](https://hackernoon.com/what-building-a-simple-age-calculator-taught-me-about-time-technology-and-small-tools)
-![](https://cdn.hackernoon.com/images/Op5zx6yE88gatRYZ5tEfDzwnyn52-3g63b66.png)
-From days to heartbeats: how a friend’s question led me to build an age calculator and discover the power of small tools.
-
-### [258. GraphQL Is Not a Silver Bullet](https://hackernoon.com/graphql-is-not-a-silver-bullet)
-![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-8f93pug.png)
-GraphQL is not a configuration language, also not a transformation language, a replacement for SQL, and definitely not Terraform.
-
-### [259. What is Big O in Web Development?](https://hackernoon.com/what-is-big-o-in-web-development)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-g193ux0.jpeg)
-Big O is an Important tool in analyzing the efficiency of algorithms. In this article we explore its importance in web development.
-
-### [260. Adding Light and Dark Modes, with a Toggle Switch, to Your Website](https://hackernoon.com/adding-light-and-dark-modes-with-a-toggle-switch-to-your-website)
+### [258. Adding Light and Dark Modes, with a Toggle Switch, to Your Website](https://hackernoon.com/adding-light-and-dark-modes-with-a-toggle-switch-to-your-website)
 ![](https://cdn.hackernoon.com/images/oJkZK1nJPOOiADYWc2TT0tjr4al1-x592jbv.jpeg)
 I've recently rebranded and redesigned the look and feel of my website. As a part of that redesign, I've implemented both a light and a dark theme. Here's how.
 
-### [261. Getting started with Manual Content Discovery](https://hackernoon.com/getting-started-with-manual-content-discovery)
+### [259. Getting started with Manual Content Discovery](https://hackernoon.com/getting-started-with-manual-content-discovery)
 ![](https://cdn.hackernoon.com/images/Iq1h7VbsRlXgacEYCMttecZPJls2-1ba2ggw.jpeg)
 Understanding Robots.txt, Favicon, Sitemap.xml, HTML Headers and the Framework stack
+
+### [260. What is Big O in Web Development?](https://hackernoon.com/what-is-big-o-in-web-development)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-g193ux0.jpeg)
+Big O is an Important tool in analyzing the efficiency of algorithms. In this article we explore its importance in web development.
+
+### [261. GraphQL Is Not a Silver Bullet](https://hackernoon.com/graphql-is-not-a-silver-bullet)
+![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-8f93pug.png)
+GraphQL is not a configuration language, also not a transformation language, a replacement for SQL, and definitely not Terraform.
 
 ### [262. Coinbase Cloud Node & NFT APIs](https://hackernoon.com/coinbase-cloud-node-and-nft-apis)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-0x93zfg.jpeg)
@@ -1070,245 +1072,245 @@ Explore the game-changing launch of WunderGraph's Open Federation and the forthc
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-idf3t68.jpeg?alt=media&token=e25053b4-3679-4b80-9055-0d5232580c22)
 In this day and age, faster always wins. Tools can make or break any job.  Tasks that you do everyday shouldn't become a hassle.  This is a list of tools I use when I develop websites, logos and anything else when I'm making content for the web.
 
-### [265. Building a Simple Tic-Tac-Toe Game with JavaScript](https://hackernoon.com/building-a-simple-tic-tac-toe-game-with-javascript)
+### [265. Your UI Automation Is Flaky Because You’re Waiting Wrong (Here’s the Fix in .NET Playwright)](https://hackernoon.com/your-ui-automation-is-flaky-because-youre-waiting-wrong-heres-the-fix-in-net-playwright)
+![](https://cdn.hackernoon.com/images/snowflakes-falling-from-the-sky-beautiful-u06542tkuzukq5xw2d3qf6pv.png)
+In this article, I will use a fictional but realistic example: an internal web app called ExpenseFlow, where employees submit expense claims. 
+
+### [266. Building a Simple Tic-Tac-Toe Game with JavaScript](https://hackernoon.com/building-a-simple-tic-tac-toe-game-with-javascript)
 ![](https://cdn.hackernoon.com/images/awSK9UBJcfNNXiYmqyT1Ihlw5Hr2-sp93qrm.jpeg)
 In this article, we will be building a simple version of Tic Tac Toe using HTML, CSS, and JavaScript.
 
 
 
-### [266. How to Make Composites Requests Against Salesforce](https://hackernoon.com/how-to-make-composites-requests-against-salesforce)
+### [267. How to Make Composites Requests Against Salesforce](https://hackernoon.com/how-to-make-composites-requests-against-salesforce)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-g10375s.jpeg)
 Journey into the Salesforce API and learn what composite requests bring to the table: reductions of API requests and help you avoid cyclomatic complexity issues
 
-### [267. Bootstrap vs Media Queries: How to Make a Page Responsive](https://hackernoon.com/bootstrap-vs-media-queries-how-to-make-a-page-responsive-3k343z65)
+### [268. Bootstrap vs Media Queries: How to Make a Page Responsive](https://hackernoon.com/bootstrap-vs-media-queries-how-to-make-a-page-responsive-3k343z65)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-wo283z5s.jpeg)
 Using Bootstrap to make a page responsive saves one so much time and memory space. Let's see how this is possible, I have created a dummy web page that has four grids as shown below:
 
-### [268. How to Make Rough Estimates of SQL Queries](https://hackernoon.com/how-to-make-rough-estimates-of-sql-queries)
+### [269. How to Make Rough Estimates of SQL Queries](https://hackernoon.com/how-to-make-rough-estimates-of-sql-queries)
 ![](https://cdn.hackernoon.com/images/calculator-cldso8u7m000501s6e028459i.png)
 To do estimates of SQL queries we need to understand how DB works with queries. Let's find out what exactly the db do with queries.
 
-### [269. Journey to Become a Web Developer From Scratch [Step-by-Step Guide]](https://hackernoon.com/journey-to-become-a-web-developer-guide-5j3i32ox)
+### [270. Journey to Become a Web Developer From Scratch [Step-by-Step Guide]](https://hackernoon.com/journey-to-become-a-web-developer-guide-5j3i32ox)
 ![](https://cdn.hackernoon.com/drafts/vu3632hr.png)
 Before getting in, let’s discuss about objectives.
 
-### [270. Building a Basic Salesforce Mobile App with Lightning App Builder](https://hackernoon.com/building-a-basic-salesforce-mobile-app-with-lightning-app-builder)
+### [271. Building a Basic Salesforce Mobile App with Lightning App Builder](https://hackernoon.com/building-a-basic-salesforce-mobile-app-with-lightning-app-builder)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-5u93y68.jpeg)
 Build a new app in a matter of minutes? Check out this mobile application created using the Salesforce Lightning App Builder.
 
-### [271. Trends We Are Watching: API Democratization and API Management](https://hackernoon.com/trends-we-are-watching-api-democratization-and-api-management)
+### [272. Trends We Are Watching: API Democratization and API Management](https://hackernoon.com/trends-we-are-watching-api-democratization-and-api-management)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-yl93ruw.jpeg)
 If you’re a developer of any type of modern application, then you’re likely more than just familiar with APIs—you’re probably a power user.
 
-### [272. How I Structure my React Projects](https://hackernoon.com/how-i-structure-my-react-projects)
+### [273. How I Structure my React Projects](https://hackernoon.com/how-i-structure-my-react-projects)
 ![](https://cdn.hackernoon.com/images/2us6opa3wiYzGrBRHGVKk3LrYeL2-yf0364a.jpeg)
 A React folder structure that fits my needs. How to Structure and organize a React application.
 
-### [273. 15 Amazing Things You Did Not Know You Could Do With Simple JavaScript 🤯](https://hackernoon.com/15-amazing-things-you-did-not-know-you-could-do-with-simple-javascript)
-![](https://cdn.hackernoon.com/images/pzQpRb44hiXtJnOKdjuoGEvPJu83-lm035n2.png)
-JavaScript is full of surprises and is used for so many amazing things. Here are 15 amazing tricks that you might not know.
+### [274. The Lessons I Learned From Building 10 Free Claude Code Tools in a Weekend](https://hackernoon.com/the-lessons-i-learned-from-building-10-free-claude-code-tools-in-a-weekend)
+![](https://cdn.hackernoon.com/images/dqDdBkfpoiNAhh7eabL6GUoOREn2-5d93cz1.png)
+10 free browser-based tools for Claude Code CLAUDE.md generator, token counter, slash command builder, model comparison, and more. No sign-in, no API keys.
 
-### [274. How I Refactored a SPA Project](https://hackernoon.com/how-i-refactored-a-spa-project)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-fw93pcb.jpeg)
-In this article, I’m not gonna talk about specific code refactoring details but some critical issues of this project.
-
-### [275. An Introductory Guide to Tailwind and React: Setup and Design Patterns](https://hackernoon.com/an-introductory-guide-to-tailwind-and-react-setup-and-design-patterns-cm2r3wef)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6F2DaTghHNTrDwol2kSU9hUSXOG3-nr213wq7.jpeg?alt=media&token=c4ab4a9c-d13c-4f9d-b111-60c168977510)
-You've probably heard of Tailwind by now, but if you haven't, it is essentially a utility-first CSS framework and is much less opinionated compared to other CSS frameworks like Bootstrap and Foundation. 
-
-### [276. How to Send Webhooks From Your Message Queue With Svix Bridge: A Beginner's Guide](https://hackernoon.com/how-to-send-webhooks-from-your-message-queue-with-svix-bridge-a-beginners-guide)
-![](https://cdn.hackernoon.com/images/f8MmnSz4wNTrkyqZnPESxfuXyH93-nb93skn.jpeg)
-Our customers' webhooks start out as events flowing through internal message queues. We built Bridge to make adapting pre-existing messages into webhooks.
-
-### [277. Light DOM and Lightning Web Components in Salesforce](https://hackernoon.com/light-dom-and-lightning-web-components-in-salesforce)
+### [275. Light DOM and Lightning Web Components in Salesforce](https://hackernoon.com/light-dom-and-lightning-web-components-in-salesforce)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6x92bwh.jpeg)
 Lightning Web Components (LWC) from Salesforce are based on standard Web Components built using HTML and JavaScript.
 
-### [278. Creating an Astro Site: Add Lucide Icons to Astro](https://hackernoon.com/creating-an-astro-site-add-lucide-icons-to-astro)
+### [276. How I Refactored a SPA Project](https://hackernoon.com/how-i-refactored-a-spa-project)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-fw93pcb.jpeg)
+In this article, I’m not gonna talk about specific code refactoring details but some critical issues of this project.
+
+### [277. How to Send Webhooks From Your Message Queue With Svix Bridge: A Beginner's Guide](https://hackernoon.com/how-to-send-webhooks-from-your-message-queue-with-svix-bridge-a-beginners-guide)
+![](https://cdn.hackernoon.com/images/f8MmnSz4wNTrkyqZnPESxfuXyH93-nb93skn.jpeg)
+Our customers' webhooks start out as events flowing through internal message queues. We built Bridge to make adapting pre-existing messages into webhooks.
+
+### [278. 15 Amazing Things You Did Not Know You Could Do With Simple JavaScript 🤯](https://hackernoon.com/15-amazing-things-you-did-not-know-you-could-do-with-simple-javascript)
+![](https://cdn.hackernoon.com/images/pzQpRb44hiXtJnOKdjuoGEvPJu83-lm035n2.png)
+JavaScript is full of surprises and is used for so many amazing things. Here are 15 amazing tricks that you might not know.
+
+### [279. An Introductory Guide to Tailwind and React: Setup and Design Patterns](https://hackernoon.com/an-introductory-guide-to-tailwind-and-react-setup-and-design-patterns-cm2r3wef)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6F2DaTghHNTrDwol2kSU9hUSXOG3-nr213wq7.jpeg?alt=media&token=c4ab4a9c-d13c-4f9d-b111-60c168977510)
+You've probably heard of Tailwind by now, but if you haven't, it is essentially a utility-first CSS framework and is much less opinionated compared to other CSS frameworks like Bootstrap and Foundation. 
+
+### [280. Creating an Astro Site: Add Lucide Icons to Astro](https://hackernoon.com/creating-an-astro-site-add-lucide-icons-to-astro)
 ![](https://cdn.hackernoon.com/images/NaU3BOE6YnOtNpCIV9kfvX1BqL03-w29387c.jpeg)
 How to add Lucide icons to an Astro site.
 
-### [279. How I Successfully Ended My One Week Job Hunt](https://hackernoon.com/how-i-successfully-ended-my-one-week-job-hunt)
+### [281. How I Successfully Ended My One Week Job Hunt](https://hackernoon.com/how-i-successfully-ended-my-one-week-job-hunt)
 ![](https://cdn.hackernoon.com/images/uiOb0Rkt9yS93a8NdRiv1MqQRh92-ld637ii.jpeg)
 After spending months studying front end development (HTML, CSS, JavaScript, React, and Git), and weeks building my portfolio, I landed a job in one week!
 
-### [280. 2024 Was a Watershed Moment for Artificial Intelligence](https://hackernoon.com/2024-was-a-watershed-moment-for-artificial-intelligence)
+### [282. 2024 Was a Watershed Moment for Artificial Intelligence](https://hackernoon.com/2024-was-a-watershed-moment-for-artificial-intelligence)
 ![](https://cdn.hackernoon.com/images/ZGIF6TAmPuhwn5Y5HQEFuaGIhw93-jl23682.jpeg)
 Explore 2024's AI revolution: groundbreaking advancements, public adaptation, ethical challenges, and the path to a transformative future in AI
 
-### [281. Your UI Automation Is Flaky Because You’re Waiting Wrong (Here’s the Fix in .NET Playwright)](https://hackernoon.com/your-ui-automation-is-flaky-because-youre-waiting-wrong-heres-the-fix-in-net-playwright)
-![](https://cdn.hackernoon.com/images/snowflakes-falling-from-the-sky-beautiful-u06542tkuzukq5xw2d3qf6pv.png)
-In this article, I will use a fictional but realistic example: an internal web app called ExpenseFlow, where employees submit expense claims. 
-
-### [282. Blazor Render Mode – How To Avoid Dependency Injection Woes](https://hackernoon.com/blazor-render-mode-how-to-avoid-dependency-injection-woes)
+### [283. Blazor Render Mode – How To Avoid Dependency Injection Woes](https://hackernoon.com/blazor-render-mode-how-to-avoid-dependency-injection-woes)
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-bm834ui.jpeg)
 Running into issues with your Blazor render mode? In my case, I didn't even know it was breaking my dependency injection AND my event handlers. My error though!
 
-### [283. Exploring Javascript Console Object](https://hackernoon.com/exploring-javascript-console-object)
-![](https://cdn.hackernoon.com/images/e8iYFeVmyLg0fVAbPx1z0FG7pCl1-hpj2bnv.jpeg)
-The specifics of how console object works vary from browser to browser, but there is a de facto set of features that are typically provided.
-
-### [284. How to Create a Customer Frontend Scaffold](https://hackernoon.com/how-to-create-a-customer-frontend-scaffold)
-![](https://cdn.hackernoon.com/images/3Kc78Xa8F9fgkueud8AvqYOqRx63-brf3m5t.jpeg)
-This blog shall embark upon the construction of a custom-made scaffolding tool, commencing from naught.
-
-### [285. How to Build a Blog with NextJs, Chakra UI, and HyGraph](https://hackernoon.com/how-to-build-a-blog-with-nextjs-chakra-ui-and-hygraph)
+### [284. How to Build a Blog with NextJs, Chakra UI, and HyGraph](https://hackernoon.com/how-to-build-a-blog-with-nextjs-chakra-ui-and-hygraph)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-gf93p1q.jpeg)
 In this article, I described how I created my blog using NextJs, Chakra UI, and GraphCMS. I also disclosed the tools, technologies, and services that I used.
 
-### [286. Making your own personal website from scratch](https://hackernoon.com/making-your-own-personal-website-from-scratch)
-![](https://cdn.hackernoon.com/images/zI8R5BXScMfvRNRdVAYti6JNSad2-bia3idd.jpeg)
-An introduction to HTML and CSS - the foundation and styling for any website
-
-### [287. The Rewards Card System is Broken and Here is How I Tried to Fix It](https://hackernoon.com/the-rewards-card-system-is-broken-and-here-is-how-i-tried-to-fix-it)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-hp33cr1.jpeg)
-Rewards cards are a way to incentivize customer loyalty. Check out how easy this concept can become a reality - just by using the Marqeta service.
-
-### [288. How to Receive Webhooks With Svix Bridge](https://hackernoon.com/how-to-receive-webhooks-with-svix-bridge)
+### [285. How to Receive Webhooks With Svix Bridge](https://hackernoon.com/how-to-receive-webhooks-with-svix-bridge)
 ![](https://cdn.hackernoon.com/images/f8MmnSz4wNTrkyqZnPESxfuXyH93-2ja3s7p.jpeg)
 To consume webhooks you have to stand up an HTTP server to receive incoming POST requests, then do some verification to make sure the request is legitimate.
 
-### [289. CSS Positions: Real Examples to Help You Learn](https://hackernoon.com/css-positions-real-examples-to-help-you-learn)
-![](https://cdn.hackernoon.com/images/ZVaOT4wuYocdOWlS2EVBWtrCK0K3-g282obd.png)
-Let's start with even do you need CSS positions aren't the other properties enough to make you faint? Why CSS positions?
+### [286. How to Create a Customer Frontend Scaffold](https://hackernoon.com/how-to-create-a-customer-frontend-scaffold)
+![](https://cdn.hackernoon.com/images/3Kc78Xa8F9fgkueud8AvqYOqRx63-brf3m5t.jpeg)
+This blog shall embark upon the construction of a custom-made scaffolding tool, commencing from naught.
 
-Say you want to create an navigation..
+### [287. HTTP For Beginners - Part 2: Responses](https://hackernoon.com/http-for-beginners-part-2-responses)
+![](https://cdn.hackernoon.com/images/l8IjwGiKy0f84w69douv81sBfUA2-ku93m72.jpeg)
+In this part of the series, I'll demonstrate generating HTTP responses from a simple Node.js Express server.
 
-### [290. These GraphQL Directives Are Overkill](https://hackernoon.com/these-graphql-directives-are-overkill)
-![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-qh93p7o.gif.webp)
-I think that in 90% of the cases, you don't need @defer and @stream at all.
+### [288. Exploring Javascript Console Object](https://hackernoon.com/exploring-javascript-console-object)
+![](https://cdn.hackernoon.com/images/e8iYFeVmyLg0fVAbPx1z0FG7pCl1-hpj2bnv.jpeg)
+The specifics of how console object works vary from browser to browser, but there is a de facto set of features that are typically provided.
+
+### [289. The Myth of Single-Threaded JavaScript: Inside the Language’s Hidden Concurrency Engine](https://hackernoon.com/the-myth-of-single-threaded-javascript-inside-the-languages-hidden-concurrency-engine)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-00023qg.png)
+Explore the concurrency model of modern JavaScript, including the event loop, async/await, and more.
+
+### [290. The Rewards Card System is Broken and Here is How I Tried to Fix It](https://hackernoon.com/the-rewards-card-system-is-broken-and-here-is-how-i-tried-to-fix-it)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-hp33cr1.jpeg)
+Rewards cards are a way to incentivize customer loyalty. Check out how easy this concept can become a reality - just by using the Marqeta service.
 
 ### [291. Building Powerful Search Functionality with Elasticsearch Integration in Ruby on Rails](https://hackernoon.com/building-powerful-search-functionality-with-elasticsearch-integration-in-ruby-on-rails)
 ![](https://cdn.hackernoon.com/images/magnifying-glass-over-a-document-clj4kfujm000101s68fzr07eh.png)
 In this article, we will explore how to integrate Elasticsearch into a Ruby on Rails application and leverage its advanced features to deliver efficient results
 
-### [292. The Myth of Single-Threaded JavaScript: Inside the Language’s Hidden Concurrency Engine](https://hackernoon.com/the-myth-of-single-threaded-javascript-inside-the-languages-hidden-concurrency-engine)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-00023qg.png)
-Explore the concurrency model of modern JavaScript, including the event loop, async/await, and more.
+### [292. Making your own personal website from scratch](https://hackernoon.com/making-your-own-personal-website-from-scratch)
+![](https://cdn.hackernoon.com/images/zI8R5BXScMfvRNRdVAYti6JNSad2-bia3idd.jpeg)
+An introduction to HTML and CSS - the foundation and styling for any website
 
-### [293. Take These 12 Quick Challenges to Find Out if You Know Javascript](https://hackernoon.com/take-these-12-quick-challenges-to-find-out-if-you-know-javascript)
-![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-4593p30.jpeg)
-Do you know Javascript? The language we all love has some weird and sometimes unexpected behaviors.
-
-### [294. Exploring Django’s Architecture: Key Components for Building Web Apps](https://hackernoon.com/exploring-djangos-architecture-key-components-for-building-web-apps)
-![](https://cdn.hackernoon.com/images/web-applications-cliqreicx000001s62ubpc1ia.png)
-Django: Python web framework. MVT pattern. ORM for database. Views handle requests. Templates generate UI. Middleware for request processing. URL routing.
-
-### [295. Having Fun with the Lightning Design System for React](https://hackernoon.com/having-fun-with-the-lightning-design-system-for-react)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-6g737cv.jpeg)
-Did you know that the rock-solid design system inside of Salesforce can be included in a standard React application? This is not only possible, but easy too.
-
-### [296. 101 Stories To Learn About Salesforce](https://hackernoon.com/101-stories-to-learn-about-salesforce)
+### [293. 101 Stories To Learn About Salesforce](https://hackernoon.com/101-stories-to-learn-about-salesforce)
 ![](https://cdn.hackernoon.com/images/github/salesforce-773.png)
 Learn everything you need to know about Salesforce via these 101 free HackerNoon stories.
 
-### [297. Adding the internationalization (i18n) component to an Angular application](https://hackernoon.com/adding-the-internationalization-i18n-component-to-an-angular-application)
-![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-60c2m3z.jpeg)
-Application example built with Angular 14 and adding the map Leaflet component using the leaflet library.
+### [294. These GraphQL Directives Are Overkill](https://hackernoon.com/these-graphql-directives-are-overkill)
+![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-qh93p7o.gif.webp)
+I think that in 90% of the cases, you don't need @defer and @stream at all.
 
-### [298. How Am I Dealing With My Ever-Improving Debugging Techniques](https://hackernoon.com/how-am-i-dealing-with-my-ever-improving-debugging-techniques-9t1t36ye)
-![](https://images.unsplash.com/photo-1478104718532-efe04cc3ff7f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-How much time do you spend in debugging? Well, I know that the question is bit vague and the answer would vary. After spending close to 15 years in Computer Programming, I still can't say confidently how much time I really spend in debugging things. There could be multiple factors that influence it and make it uncertain to answer:
+### [295. CSS Positions: Real Examples to Help You Learn](https://hackernoon.com/css-positions-real-examples-to-help-you-learn)
+![](https://cdn.hackernoon.com/images/ZVaOT4wuYocdOWlS2EVBWtrCK0K3-g282obd.png)
+Let's start with even do you need CSS positions aren't the other properties enough to make you faint? Why CSS positions?
 
-### [299. HTTP For Beginners - Part 2: Responses](https://hackernoon.com/http-for-beginners-part-2-responses)
-![](https://cdn.hackernoon.com/images/l8IjwGiKy0f84w69douv81sBfUA2-ku93m72.jpeg)
-In this part of the series, I'll demonstrate generating HTTP responses from a simple Node.js Express server.
+Say you want to create an navigation..
 
-### [300. Symfony 7.4’s Request Cleanup Closes a Classic Parameter Pollution Trap](https://hackernoon.com/symfony-74s-request-cleanup-closes-a-classic-parameter-pollution-trap)
+### [296. Take These 12 Quick Challenges to Find Out if You Know Javascript](https://hackernoon.com/take-these-12-quick-challenges-to-find-out-if-you-know-javascript)
+![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-4593p30.jpeg)
+Do you know Javascript? The language we all love has some weird and sometimes unexpected behaviors.
+
+### [297. Symfony 7.4’s Request Cleanup Closes a Classic Parameter Pollution Trap](https://hackernoon.com/symfony-74s-request-cleanup-closes-a-classic-parameter-pollution-trap)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-8003dye.jpeg)
 Symfony 7.4 deprecates Request::get() to remove ambiguous input precedence and reduce HTTP parameter pollution risks ahead of Symfony 8.
 
-### [301. The Lessons I Learned From Building 10 Free Claude Code Tools in a Weekend](https://hackernoon.com/the-lessons-i-learned-from-building-10-free-claude-code-tools-in-a-weekend)
-![](https://cdn.hackernoon.com/images/dqDdBkfpoiNAhh7eabL6GUoOREn2-5d93cz1.png)
-10 free browser-based tools for Claude Code CLAUDE.md generator, token counter, slash command builder, model comparison, and more. No sign-in, no API keys.
+### [298. Exploring Django’s Architecture: Key Components for Building Web Apps](https://hackernoon.com/exploring-djangos-architecture-key-components-for-building-web-apps)
+![](https://cdn.hackernoon.com/images/web-applications-cliqreicx000001s62ubpc1ia.png)
+Django: Python web framework. MVT pattern. ORM for database. Views handle requests. Templates generate UI. Middleware for request processing. URL routing.
 
-### [302. Five Important Tips For Working With JWTs](https://hackernoon.com/five-key-learnings-from-working-with-jwts-mr153wgc)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-og1h3e7z.jpeg?alt=media&token=9bc31e74-28e5-4acc-a37a-1a0d569aa04d)
-Nowadays, JSON Web Tokens are the most common way of proving identity information to APIs. The concepts behind JWTs are also quite easy to understand, and it takes only a couple of minutes to have the most basic authentication running. 
+### [299. Having Fun with the Lightning Design System for React](https://hackernoon.com/having-fun-with-the-lightning-design-system-for-react)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-6g737cv.jpeg)
+Did you know that the rock-solid design system inside of Salesforce can be included in a standard React application? This is not only possible, but easy too.
 
-### [303. Introduction to IDaaS and its Applications ](https://hackernoon.com/introduction-to-idaas-and-its-applications-evv31uc)
-![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-tpb358h.jpeg)
-If you're reading this article, you might be interested to learn how to implement user management for your application, understanding the complete picture of how identity management services work. That's what we'll do in this article. You'll learn what is Identity as a Service (IDaaS), why to use such a service, what is Single Sign-On (SSO), and IDaaS platforms.
+### [300. Adding the internationalization (i18n) component to an Angular application](https://hackernoon.com/adding-the-internationalization-i18n-component-to-an-angular-application)
+![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-60c2m3z.jpeg)
+Application example built with Angular 14 and adding the map Leaflet component using the leaflet library.
 
-### [304. Debugging Python Apps Using VSCode](https://hackernoon.com/debugging-python-apps-using-vscode)
+### [301. How Am I Dealing With My Ever-Improving Debugging Techniques](https://hackernoon.com/how-am-i-dealing-with-my-ever-improving-debugging-techniques-9t1t36ye)
+![](https://images.unsplash.com/photo-1478104718532-efe04cc3ff7f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+How much time do you spend in debugging? Well, I know that the question is bit vague and the answer would vary. After spending close to 15 years in Computer Programming, I still can't say confidently how much time I really spend in debugging things. There could be multiple factors that influence it and make it uncertain to answer:
+
+### [302. How To Leverage The Salesforce API Without The Salesforce Client](https://hackernoon.com/how-to-leverage-the-salesforce-api-without-the-salesforce-client)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-z1o135s6.jpeg)
+Interested in using Salesforce with your own client application? Learn how to use Spring Boot to accomplish this need, caching data along the way.
+
+### [303. Debugging Python Apps Using VSCode](https://hackernoon.com/debugging-python-apps-using-vscode)
 ![](https://cdn.hackernoon.com/images/ql5j5TZB0tU1vWA4EaF6tI4lfED3-nq93kkv.jpeg)
 Visual Studio Code offers useful tools to help developers debug Python code effectively, but configuring its debugger requires some extra effort.
+
+### [304. Five Important Tips For Working With JWTs](https://hackernoon.com/five-key-learnings-from-working-with-jwts-mr153wgc)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-og1h3e7z.jpeg?alt=media&token=9bc31e74-28e5-4acc-a37a-1a0d569aa04d)
+Nowadays, JSON Web Tokens are the most common way of proving identity information to APIs. The concepts behind JWTs are also quite easy to understand, and it takes only a couple of minutes to have the most basic authentication running. 
 
 ### [305. Vizzu: Open Source Library For Animated Data Visualizations and Data Stories](https://hackernoon.com/vizzu-open-source-library-for-animated-data-visualizations-and-data-stories)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-1193ghp.jpeg)
 How Vizzu, a new open-source library for animated data visualizations and data stories came to be and how it all works behind the scenes with sources.
 
-### [306. How To Leverage The Salesforce API Without The Salesforce Client](https://hackernoon.com/how-to-leverage-the-salesforce-api-without-the-salesforce-client)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-z1o135s6.jpeg)
-Interested in using Salesforce with your own client application? Learn how to use Spring Boot to accomplish this need, caching data along the way.
+### [306. Introduction to IDaaS and its Applications ](https://hackernoon.com/introduction-to-idaas-and-its-applications-evv31uc)
+![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-tpb358h.jpeg)
+If you're reading this article, you might be interested to learn how to implement user management for your application, understanding the complete picture of how identity management services work. That's what we'll do in this article. You'll learn what is Identity as a Service (IDaaS), why to use such a service, what is Single Sign-On (SSO), and IDaaS platforms.
 
-### [307. Javascript: The Most Complex Language ](https://hackernoon.com/javascript-the-most-complex-language-for-me-k1e53ymu)
-![](https://images.unsplash.com/photo-1485856407642-7f9ba0268b51?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-For me this is one of the strangest things I did in my life, talk to you about what is it for me one of the most complex languages that I have worked with. Javascript is something really strange when you compare it with other languages.
-
-### [308. Turning the Company’s PC Into a Personal “Vercel-Like” Platform](https://hackernoon.com/turning-the-companys-pc-into-a-personal-vercel-like-platform)
+### [307. Turning the Company’s PC Into a Personal “Vercel-Like” Platform](https://hackernoon.com/turning-the-companys-pc-into-a-personal-vercel-like-platform)
 ![](https://cdn.hackernoon.com/images/Y6CZkfnk8oe63Rp5nL2u1gJAPc63-zj92tbq.png)
 A quick look at how I turned my company's PC into a personal vercel-like platform.
 
-### [309. 10 Most Useful Code Editors Hotkeys](https://hackernoon.com/10-most-useful-ide-hotkeys-501q32aj)
-![](https://images.unsplash.com/photo-1526920929362-5b26677c148c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Do you know what percentage of people do not use Ctrl+F when searching text on pages?
+### [308. Javascript: The Most Complex Language ](https://hackernoon.com/javascript-the-most-complex-language-for-me-k1e53ymu)
+![](https://images.unsplash.com/photo-1485856407642-7f9ba0268b51?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+For me this is one of the strangest things I did in my life, talk to you about what is it for me one of the most complex languages that I have worked with. Javascript is something really strange when you compare it with other languages.
+
+### [309. Introducing Our New JavaScript Standard Library](https://hackernoon.com/introducing-our-new-javascript-standard-library)
+![](https://cdn.hackernoon.com/images/SNXm2OS5zxWNrMXzQsdE0juLpLW2-5o830rx.jpeg)
+Introducing our new JavaScript Standard Library @opentf/std.
 
 ### [310. 4 Tailwind CSS Options For Premium Templates & Components](https://hackernoon.com/4-tailwind-css-options-for-premium-templates-and-components)
 ![](https://cdn.hackernoon.com/images/p3qBwUKPv7M11MuaMx6DdPirp2A2-ael35dl.jpeg)
 Tired of your website looking like every other Tailwind website? Here are 4 templates that will make you stand out without learning design.
 
-### [311. Introducing Our New JavaScript Standard Library](https://hackernoon.com/introducing-our-new-javascript-standard-library)
-![](https://cdn.hackernoon.com/images/SNXm2OS5zxWNrMXzQsdE0juLpLW2-5o830rx.jpeg)
-Introducing our new JavaScript Standard Library @opentf/std.
-
-### [312. How to Get the Fastest Browser Image Loads](https://hackernoon.com/how-to-get-the-fastest-browser-image-loads)
-![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-58d3rux.jpeg)
-Use of the Picture Element allows the browser to select a single optimum image to download and display from among a list of images
-
-### [313. The Journey to Becoming a Rockstar Salesforce Developer](https://hackernoon.com/the-journey-to-becoming-a-rockstar-salesforce-developer)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-3193zv3.jpeg)
-Looking for something new, with expected needs and without a heavy learning curve? Here's how you can get started today.
-
-### [314. How Astro Made My Portfolio 82% Faster to Build](https://hackernoon.com/how-astro-made-my-portfolio-82percent-faster-to-build)
+### [311. How Astro Made My Portfolio 82% Faster to Build](https://hackernoon.com/how-astro-made-my-portfolio-82percent-faster-to-build)
 ![](https://cdn.hackernoon.com/images/A7coZ0uhYMgPNXXtkg7aiDfCsxT2-yg03g51.png)
 I moved my portfolio website from Next.js to Astro after three years. Faster builds, less JavaScript, better SEO, and a simpler setup that just works.
 
-### [315. Build an NFT Website Using The Flow Blockchain and Cadence [Part 1]](https://hackernoon.com/build-an-nft-website-using-the-flow-blockchain-and-cadence-part-1)
+### [312. Build an NFT Website Using The Flow Blockchain and Cadence [Part 1]](https://hackernoon.com/build-an-nft-website-using-the-flow-blockchain-and-cadence-part-1)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-pp93zwu.jpeg)
 Understand more about the Flow blockchain and Cadence smart contract language by building a new website focused on collecting digital collectibles.
+
+### [313. 10 Most Useful Code Editors Hotkeys](https://hackernoon.com/10-most-useful-ide-hotkeys-501q32aj)
+![](https://images.unsplash.com/photo-1526920929362-5b26677c148c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Do you know what percentage of people do not use Ctrl+F when searching text on pages?
+
+### [314. How to Get the Fastest Browser Image Loads](https://hackernoon.com/how-to-get-the-fastest-browser-image-loads)
+![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-58d3rux.jpeg)
+Use of the Picture Element allows the browser to select a single optimum image to download and display from among a list of images
+
+### [315. The Journey to Becoming a Rockstar Salesforce Developer](https://hackernoon.com/the-journey-to-becoming-a-rockstar-salesforce-developer)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-3193zv3.jpeg)
+Looking for something new, with expected needs and without a heavy learning curve? Here's how you can get started today.
 
 ### [316. Using WunderGraph and Interval for Building Internal Tools ](https://hackernoon.com/using-wundergraph-and-interval-for-building-internal-tools)
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-fnb3phv.gif.webp)
 Building internal tools, you either love it or hate it. 
 
-### [317. Testing Website Localization and Why It's Important](https://hackernoon.com/testing-website-localization-and-why-its-important)
-![](https://cdn.hackernoon.com/images/1GwrAxeOyjTdTwr3efl6AA6tdIb2-h8a3kfz.jpeg)
-Are you thinking about expanding your business globally? Find out what localization testing is and why it's a critical step in reaching a new audience here. 
-
-### [318. DunYan: Understanding Inheritance in JavaScript](https://hackernoon.com/dunyan-understanding-inheritance-in-javascript)
+### [317. DunYan: Understanding Inheritance in JavaScript](https://hackernoon.com/dunyan-understanding-inheritance-in-javascript)
 ![](https://cdn.hackernoon.com/images/online-website-clilqxvpb000401s6gd36g4lx.png)
 Inheritance is a mechanism in JavaScript that allows an object to inherit properties and methods from another object.
 
-### [319. Use Metho to Safely Add Dynamic Superpowers to JS Objects](https://hackernoon.com/use-metho-to-safely-add-dynamic-superpowers-to-js-objects)
-![](https://cdn.hackernoon.com/images/XSQf5P0LccUUd3IxzsUa7TcxCkx1-yja2fjd.jpeg)
-Metho allows you to safely 'monkey patch' any object with new capabilities and dynamic properties. Great for extending the functionality of native JS prototypes
-
-### [320. How to Leverage Salesforce via a Client Written In Angular](https://hackernoon.com/how-to-leverage-salesforce-via-a-client-written-in-angular)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-rz037tb.jpeg)
-In this series article, John Vester introduces an Angular application and NgRx state management to read data from Salesforce for use by a basic component.
-
-### [321. Scaling Styling Roadblocks Caused by Astro Islands and Slots](https://hackernoon.com/scaling-styling-roadblocks-caused-by-astro-islands-and-slots)
+### [318. Scaling Styling Roadblocks Caused by Astro Islands and Slots](https://hackernoon.com/scaling-styling-roadblocks-caused-by-astro-islands-and-slots)
 ![](https://cdn.hackernoon.com/images/TrD4DzyJu6g677bJSu6xzJ3TxA12-0lb365z.jpeg)
 Astro islands and slots cause styling frustrations because they use the display:contents style. This article shows you how to overcome these frustrations. 
 
-### [322. What I Learned from Scanning Dozens of Small Government Websites (and Why the Same Bugs Keep Coming)](https://hackernoon.com/what-i-learned-from-scanning-dozens-of-small-government-websites-and-why-the-same-bugs-keep-coming)
+### [319. Testing Website Localization and Why It's Important](https://hackernoon.com/testing-website-localization-and-why-its-important)
+![](https://cdn.hackernoon.com/images/1GwrAxeOyjTdTwr3efl6AA6tdIb2-h8a3kfz.jpeg)
+Are you thinking about expanding your business globally? Find out what localization testing is and why it's a critical step in reaching a new audience here. 
+
+### [320. What I Learned from Scanning Dozens of Small Government Websites (and Why the Same Bugs Keep Coming)](https://hackernoon.com/what-i-learned-from-scanning-dozens-of-small-government-websites-and-why-the-same-bugs-keep-coming)
 ![](https://cdn.hackernoon.com/images/mfNwIcubeXgDeK5YwgVm7RN4XZZ2-l003b98.jpeg)
 What I found while scanning dozens of small U.S. government websites with an open-source tool — the same five security mistakes and how to fix them.
 
-### [323. The Everything Guide to Data Collection in DevSecOps](https://hackernoon.com/the-everything-guide-to-data-collection-in-devsecops)
+### [321. Use Metho to Safely Add Dynamic Superpowers to JS Objects](https://hackernoon.com/use-metho-to-safely-add-dynamic-superpowers-to-js-objects)
+![](https://cdn.hackernoon.com/images/XSQf5P0LccUUd3IxzsUa7TcxCkx1-yja2fjd.jpeg)
+Metho allows you to safely 'monkey patch' any object with new capabilities and dynamic properties. Great for extending the functionality of native JS prototypes
+
+### [322. The Everything Guide to Data Collection in DevSecOps](https://hackernoon.com/the-everything-guide-to-data-collection-in-devsecops)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-ct93ztk.jpeg)
 Collecting wide swaths of observability and security data is key to a high-quality digital experience. Find out what you need to know to get started.
+
+### [323. How to Leverage Salesforce via a Client Written In Angular](https://hackernoon.com/how-to-leverage-salesforce-via-a-client-written-in-angular)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-rz037tb.jpeg)
+In this series article, John Vester introduces an Angular application and NgRx state management to read data from Salesforce for use by a basic component.
 
 ### [324. Building React Applications with Deno and AlephJS](https://hackernoon.com/building-react-applications-with-deno-and-alephjs-3m16342n)
 ![](https://cdn.hackernoon.com/images/YuHQ8Lhn2IT1way5nhFige44Oky1-bhe2b3m.gif)
@@ -1323,34 +1325,34 @@ In this post, we’re going to look at what API reconstruction is and how APICla
 When do people report bugs? You probably never asked yourself that question, which was one of the reasons we wanted to answer it. The second reason was that we had the right type of data available, since our tool helps teams report and fix bugs. Long story short, we decided to learn more about the way software development teams approach the bug reporting process. For that exercise we've taken a random sample of 3000 bug recordings uploaded to our database in the last 2 months. Here's what we found.
 
 
-### [327. Simplifying Real-Time Communication with SignalR](https://hackernoon.com/simplifying-real-time-communication-with-signalr)
-![](https://cdn.hackernoon.com/images/0cmYgupgU1gaMkDx9iUtlWRyHWE3-nke3p57.jpeg)
-Discover the potential of SignalR, a powerful real-time communication library, in our comprehensive introduction with practical examples.
+### [327. My Journey From a Novice to Becoming a Front-End Engineer](https://hackernoon.com/my-journey-from-a-novice-to-becoming-a-front-end-engineer)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-gj93p92.jpeg)
+This blog is about my journey - from a confused college student to a frontend developer. How I got into coding, then into web development. 
 
 ### [328. How to Write Great Webhook Docs](https://hackernoon.com/how-to-write-great-webhook-docs)
 ![](https://cdn.hackernoon.com/images/f8MmnSz4wNTrkyqZnPESxfuXyH93-8g93sep.jpeg)
 Even if your webhook service is perfectly secure, reliable, and scalable, you need great documentation to provide a seamless user experience.
 
-### [329. My Journey From a Novice to Becoming a Front-End Engineer](https://hackernoon.com/my-journey-from-a-novice-to-becoming-a-front-end-engineer)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-gj93p92.jpeg)
-This blog is about my journey - from a confused college student to a frontend developer. How I got into coding, then into web development. 
+### [329. Simplifying Real-Time Communication with SignalR](https://hackernoon.com/simplifying-real-time-communication-with-signalr)
+![](https://cdn.hackernoon.com/images/0cmYgupgU1gaMkDx9iUtlWRyHWE3-nke3p57.jpeg)
+Discover the potential of SignalR, a powerful real-time communication library, in our comprehensive introduction with practical examples.
 
-### [330. A First Look into Conditional When and Else Statements in CSS](https://hackernoon.com/a-first-look-into-conditional-when-and-else-statements-in-css)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-ak93ktl.jpeg)
-
-
-### [331. IP Address Restoration in Kotlin](https://hackernoon.com/ip-address-restoration-in-kotlin)
+### [330. IP Address Restoration in Kotlin](https://hackernoon.com/ip-address-restoration-in-kotlin)
 ![](https://cdn.hackernoon.com/images/uRoI8oauMUSL1OEueHGhCxCQqmY2-39935ed.jpeg)
 This post is about providing a solution in Kotlin for finding all valid IP addresses that can be formed by inserting dots into a given string of digits.
 
-### [332. Implementing Dynamic Tags in Astro](https://hackernoon.com/implementing-dynamic-tags-in-astro)
+### [331. A First Look into Conditional When and Else Statements in CSS](https://hackernoon.com/a-first-look-into-conditional-when-and-else-statements-in-css)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-ak93ktl.jpeg)
+
+
+### [332. Creating a Video Background on Your Website with HTML and CSS](https://hackernoon.com/creating-a-video-background-on-your-website-with-html-and-css)
+![](https://cdn.hackernoon.com/images/NkLh6IFgpcMQGDGQJJVnxe79PVp1-s0l3k4z.jpeg)
+Learn how to create an engaging video background for your website using HTML and CSS.
+
+### [333. Implementing Dynamic Tags in Astro](https://hackernoon.com/implementing-dynamic-tags-in-astro)
 ![](https://cdn.hackernoon.com/images/NaU3BOE6YnOtNpCIV9kfvX1BqL03-wt93osx.jpeg)
 Astro has dynamic tags — a way to accept an element or component as a prop. And they're totally different than React's polymorphic as prop pattern.
 
-
-### [333. Creating a Video Background on Your Website with HTML and CSS](https://hackernoon.com/creating-a-video-background-on-your-website-with-html-and-css)
-![](https://cdn.hackernoon.com/images/NkLh6IFgpcMQGDGQJJVnxe79PVp1-s0l3k4z.jpeg)
-Learn how to create an engaging video background for your website using HTML and CSS.
 
 ### [334. 🎉 Deno: 1.0: A Review of Features [We're Going Live]](https://hackernoon.com/deno-10-a-review-of-features-were-going-live-ri8030ql)
 ![](https://cdn.hackernoon.com/images/tp3zn3yfn.jpg)
@@ -1368,17 +1370,17 @@ In React, an error boundary is a component that wraps around other components to
 ![](https://cdn.hackernoon.com/images/9xrr184t.jpg)
 There was a time that positioning elements with CSS could be a real hassle, depending on what was needed to do.
 
-### [338. Compare Static Form Providers Side-by-Side](https://hackernoon.com/a-comparison-of-static-form-providers-sj9o3bna)
+### [338. Creating Custom API Endpoints in Salesforce with Apex](https://hackernoon.com/creating-custom-api-endpoints-in-salesforce-with-apex)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-qi93zlt.jpeg)
+Simple Object Access Protocol (SOAP) is a messaging protocol based on requests and responses using an XML format. 
+
+### [339. Compare Static Form Providers Side-by-Side](https://hackernoon.com/a-comparison-of-static-form-providers-sj9o3bna)
 ![](https://cdn.hackernoon.com/drafts/boa43bfj.png)
 Let’s attempt to coin a term here: "Static Form Provider." You bring your HTML <form>, but don’t worry about the back-end processing that makes it work. There are a lot of these services out there!
 
-### [339. Managing NPM Dependency as A Professional](https://hackernoon.com/managing-npm-dependency-as-a-professional-ktz31jk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FDBmwq0SteFQHHX3MAHWlSX4NC1X2-wk4030c1.jpeg?alt=media&token=f1d349be-4c50-45ec-aef7-2e4487cf9175)
-Why do we talk about project quality and technical debt so much? Because this directly or indirectly affects the speed of development, the complexity of support, the time to implement new functionality, and the possibility of extending the current one.
-
-### [340. Creating Custom API Endpoints in Salesforce with Apex](https://hackernoon.com/creating-custom-api-endpoints-in-salesforce-with-apex)
-![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-qi93zlt.jpeg)
-Simple Object Access Protocol (SOAP) is a messaging protocol based on requests and responses using an XML format. 
+### [340. From Ethereum to Aurora With Infura](https://hackernoon.com/from-ethereum-to-aurora-with-infura)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-enw3x0h.jpeg)
+Learn how to deploy and interact with a smart contract using the Aurora Testnet, creating a custom RPC URL connection in MetaMask using Infura.
 
 ### [341. Static Website Generators: Brief Introduction](https://hackernoon.com/a-brief-introduction-into-static-site-generators-gn8228v3)
 ![](https://cdn.hackernoon.com/images/kb1yl28cz.jpg)
@@ -1388,25 +1390,25 @@ Even in 2020 many developers are used to spinning up a WordPress (or similar sof
 ![](https://cdn.hackernoon.com/images/gRvABHmeEfVogoKhXnSbObdUGYc2-5y92kv5.jpeg)
 Explore the benefits and trade-offs of rendering React components with for loops vs. .map(). Compare syntax, immutability, JSX integration, and more.
 
-### [343. Boosting Website Performance with Server-Side Rendering](https://hackernoon.com/boosting-website-performance-with-server-side-rendering)
+### [343. Managing NPM Dependency as A Professional](https://hackernoon.com/managing-npm-dependency-as-a-professional-ktz31jk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FDBmwq0SteFQHHX3MAHWlSX4NC1X2-wk4030c1.jpeg?alt=media&token=f1d349be-4c50-45ec-aef7-2e4487cf9175)
+Why do we talk about project quality and technical debt so much? Because this directly or indirectly affects the speed of development, the complexity of support, the time to implement new functionality, and the possibility of extending the current one.
+
+### [344. Boosting Website Performance with Server-Side Rendering](https://hackernoon.com/boosting-website-performance-with-server-side-rendering)
 ![](https://cdn.hackernoon.com/images/z5L7cZprQRgVvL7bpydqTnZfaqu1-9093uqk.jpeg)
 Enhance website speed and performance with server-side rendering. Learn implementation tips in this guide for improved user experience and SEO.
 
-### [344. From Ethereum to Aurora With Infura](https://hackernoon.com/from-ethereum-to-aurora-with-infura)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-enw3x0h.jpeg)
-Learn how to deploy and interact with a smart contract using the Aurora Testnet, creating a custom RPC URL connection in MetaMask using Infura.
-
-### [345. Make Your App or Site Carbon Neutral in 3 Steps](https://hackernoon.com/make-your-app-or-site-carbon-neutral-in-3-steps)
-![](https://cdn.hackernoon.com/images/aCIjlH1H4dbEIL1I3whRaYLLCS13-c493l4t.jpeg)
-
-
-### [346. Never Listen to Alarmist, and Other Career Advice I Would Give Myself If I Could Go Back in Time](https://hackernoon.com/never-listen-to-alarmist-and-other-career-advice-i-would-give-myself-if-i-could-go-back-in-time)
+### [345. Never Listen to Alarmist, and Other Career Advice I Would Give Myself If I Could Go Back in Time](https://hackernoon.com/never-listen-to-alarmist-and-other-career-advice-i-would-give-myself-if-i-could-go-back-in-time)
 ![](https://cdn.hackernoon.com/images/9XknCnZTKoYkhLw6ANWS7J1i9RQ2-4w036i6.jpeg)
 Having had a nearly 4-year career, I realize some things that as a student I could never have fully comprehended. 
 
-### [347. The Noob Guides: Your Shortest Path on Becoming a Developer (Full Stack)](https://hackernoon.com/the-noob-guides-your-shortest-path-on-becoming-a-developer-full-stack-gl10u30lc)
-![](https://cdn.hackernoon.com/images/2a10s30mu.jpg)
-The Noob Guides: Your Shortest Path on Becoming a Developer (Full Stack)
+### [346. Make Your App or Site Carbon Neutral in 3 Steps](https://hackernoon.com/make-your-app-or-site-carbon-neutral-in-3-steps)
+![](https://cdn.hackernoon.com/images/aCIjlH1H4dbEIL1I3whRaYLLCS13-c493l4t.jpeg)
+
+
+### [347. A Simple Web Component for Building a Slideshow](https://hackernoon.com/a-simple-web-component-for-building-a-slideshow)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-mu93om5.jpeg)
+Building a web component that renders one picture at a time. 
 
 ### [348. How to set up NetSuite Token-based Authentication (TBA) in Laravel](https://hackernoon.com/how-to-set-up-netsuite-token-based-authentication-tba-in-laravel)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bl02si0.jpeg)
@@ -1420,201 +1422,201 @@ Dive deep into JavaScript's core concepts, detailed guide on object prototypes a
 ![](https://cdn.hackernoon.com/images/bJmCjBFKDCdFyOp2WyArQwy7BiF3-l98354z.png)
 Learn how to add Annotation, redact, and form editor tools to a JavaScript PDF viewer. See more from Document Solutions today.
 
-### [351. A Simple Web Component for Building a Slideshow](https://hackernoon.com/a-simple-web-component-for-building-a-slideshow)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-mu93om5.jpeg)
-Building a web component that renders one picture at a time. 
+### [351. The Noob Guides: Your Shortest Path on Becoming a Developer (Full Stack)](https://hackernoon.com/the-noob-guides-your-shortest-path-on-becoming-a-developer-full-stack-gl10u30lc)
+![](https://cdn.hackernoon.com/images/2a10s30mu.jpg)
+The Noob Guides: Your Shortest Path on Becoming a Developer (Full Stack)
 
 ### [352. Optimizing Core Web Vitals: A Step-by-Step Guide](https://hackernoon.com/optimizing-core-web-vitals-a-step-by-step-guide)
 ![](https://cdn.hackernoon.com/images/dyFQr2M9XkcUih4asT8lHhE5t1B3-fb93ri1.jpeg)
 Adopting Core Web Vitals metrics can help you improve your website or app's performance and provide a better user experience for visitors.
 
-### [353. Ten Reasons You Should Remove Google Analytics From Your Site, and I'm Building a Competitor](https://hackernoon.com/ten-reasons-you-should-remove-google-analytics-from-your-site-and-im-building-a-competitor-tfcx3zs9)
-![](https://cdn.hackernoon.com/images/n01023l3.jpg)
-I'm working on a leaner and more transparent alternative to Google Analytics without all the privacy baggage. It's called Plausible Analytics and you can see the live demo here.
+### [353. DOM Readiness in Javascript](https://hackernoon.com/dom-readiness-in-javascript)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-pu93pnv.jpeg)
+If your Javascript appears before your HTML, then trying to do things like attach events to your HTML is not possible.
 
-### [354. SwifWeb and How to Center the Div!](https://hackernoon.com/swifweb-and-how-to-center-the-div)
-![](https://cdn.hackernoon.com/images/cnk75wzdkHOamvwE3F8u3w3Q3Ni1-nte35o3.jpeg)
-Autolayout is a powerful tool that extends basic CSS functionality, allowing you to create complex and dynamic layouts for your SwifWeb website.
+### [354. Exploring the Salesforce Mobile SDK Using Xcode](https://hackernoon.com/exploring-the-salesforce-mobile-sdk-using-xcode)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-bw93k50.jpeg)
+In the 3rd article of the series, create a native iOS application that leverages the Salesforce platform and the Salesforce Mobile SDK.
 
 ### [355. How to Build Progressive Web Apps with Lightning Web Components [Part 2]](https://hackernoon.com/how-to-build-progressive-web-apps-with-lightning-web-components-part-2-6j1y34ev)
 ![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-u51f35vt.jpeg)
 Earlier this year, a post came out on the Salesforce Developers Blog, entitled “How to Build Progressive Web Apps with Offline Support using Lightning Web Components.” During the post's discussion about using Lightning Web Components (LWC) to build progressive web apps, it mentioned push notifications. My interest was piqued. How simple would it be to use LWC to build an app for push notifications? It turns out — really simple.
 
-### [356. Exploring the Salesforce Mobile SDK Using Xcode](https://hackernoon.com/exploring-the-salesforce-mobile-sdk-using-xcode)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-bw93k50.jpeg)
-In the 3rd article of the series, create a native iOS application that leverages the Salesforce platform and the Salesforce Mobile SDK.
-
-### [357. How To Use Command Line](https://hackernoon.com/how-to-use-command-line-pra63y0z)
-![](https://cdn.hackernoon.com/drafts/vs13n3y27.png)
-💻 Command Line:
-
-### [358. Comparing Web Development Architectures: Headless vs Decoupled vs Traditional](https://hackernoon.com/comparing-web-development-architecture-headless-vs-decoupled-vs-traditional)
-![](https://cdn.hackernoon.com/images/ePQndQZnN5VLv3YAqt7I4iFTpNG3-zd93pl7.jpeg)
-Get a detailed insight into the differences between traditional, decoupled and headless architecture and decide which architecture may best fit your business.
-
-### [359. Incident Management Best Practices: 2021 Edition](https://hackernoon.com/incident-management-best-practices-2021-edition-n81z31l1)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-eo1r31yv.jpeg)
-Covering the basics
-
-### [360. When AI Refactors Your Code, But You Have to Refactor Its Architecture](https://hackernoon.com/when-ai-refactors-your-code-but-you-have-to-refactor-its-architecture)
+### [356. When AI Refactors Your Code, But You Have to Refactor Its Architecture](https://hackernoon.com/when-ai-refactors-your-code-but-you-have-to-refactor-its-architecture)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-u70238g.jpeg)
 How a simple authentication refactor taught me that AI assistants are great at code, but need human guidance for architectural decisions
 
-### [361. Angular Signals Are A Game Changer: How They're A Great Fit For Scalable Apps](https://hackernoon.com/angular-signals-are-a-game-changer-how-theyre-a-great-fit-for-scalable-apps)
-![](https://cdn.hackernoon.com/images/qHMZ8kVymOZI7HXE58IAYCn1UW23-sh034tb.png)
-Signals are a new concept in Angular that plays well with reactive programming and templates.
+### [357. Comparing Web Development Architectures: Headless vs Decoupled vs Traditional](https://hackernoon.com/comparing-web-development-architecture-headless-vs-decoupled-vs-traditional)
+![](https://cdn.hackernoon.com/images/ePQndQZnN5VLv3YAqt7I4iFTpNG3-zd93pl7.jpeg)
+Get a detailed insight into the differences between traditional, decoupled and headless architecture and decide which architecture may best fit your business.
 
-### [362. How to Build an eCars App on Heroku and Salesforce (Part 4)](https://hackernoon.com/how-to-build-an-ecars-app-on-heroku-and-salesforce-part-4-nt31313n)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-iz22310a.jpeg)
-In these articles, we’re focusing on how to combine Salesforce with Heroku to build an “eCars” app—a sales and service application for a fictitious company
+### [358. SwifWeb and How to Center the Div!](https://hackernoon.com/swifweb-and-how-to-center-the-div)
+![](https://cdn.hackernoon.com/images/cnk75wzdkHOamvwE3F8u3w3Q3Ni1-nte35o3.jpeg)
+Autolayout is a powerful tool that extends basic CSS functionality, allowing you to create complex and dynamic layouts for your SwifWeb website.
 
-### [363. What I Learned From Building for 6 Months and Getting My First Customer](https://hackernoon.com/what-i-learned-from-building-for-6-months-and-getting-my-first-customer)
-![](https://cdn.hackernoon.com/images/Qx0ZNV0Fv7SwsUni7t8dhE4JpGE2-5w037g1.png)
-Spent 6 months building and finally got my first customer. Here’s what actually worked and what didn’t.
+### [359. Ten Reasons You Should Remove Google Analytics From Your Site, and I'm Building a Competitor](https://hackernoon.com/ten-reasons-you-should-remove-google-analytics-from-your-site-and-im-building-a-competitor-tfcx3zs9)
+![](https://cdn.hackernoon.com/images/n01023l3.jpg)
+I'm working on a leaner and more transparent alternative to Google Analytics without all the privacy baggage. It's called Plausible Analytics and you can see the live demo here.
 
-### [364. Chronology and Evolution of Angular through the Years - From v2 to v19](https://hackernoon.com/chronology-and-evolution-of-angular-through-the-years-from-v2-to-v19)
-![](https://cdn.hackernoon.com/images/LrWNRAIdtCOY8d8u2QJVOs2d1dv1-pf5340m.png)
-The Chronology and Evolution of Angular through the Years - From v2 to v19
+### [360. How To Use Command Line](https://hackernoon.com/how-to-use-command-line-pra63y0z)
+![](https://cdn.hackernoon.com/drafts/vs13n3y27.png)
+💻 Command Line:
 
-### [365. I Built an Open-Source Schema Visualization Tool for Mongoose/MongodDB Under 1000 Lines of Code](https://hackernoon.com/i-built-an-open-source-schema-visualization-tool-for-mongoosemongoddb-under-1000-lines-of-code)
+### [361. I Built an Open-Source Schema Visualization Tool for Mongoose/MongodDB Under 1000 Lines of Code](https://hackernoon.com/i-built-an-open-source-schema-visualization-tool-for-mongoosemongoddb-under-1000-lines-of-code)
 ![](https://cdn.hackernoon.com/images/sDATQ8jkcuSaZ8ZnpCerfWSeVhk2-8kb3073.jpeg)
 This article is about an open-source tool that can create schema visualizations from Mongoose schema files.
 
-### [366. Dependency Injection with Symfony: Streamlining Code Management for Efficiency](https://hackernoon.com/dependency-injection-with-symfony-streamlining-code-management-for-efficiency)
-![](https://cdn.hackernoon.com/images/9Lp56cU2QZNqCiTmaYPijWLLpdW2-4e93pj0.jpeg)
-Explore the capabilities of Symfony Dependency Injection and enhance your application's scalability with this insightful article.
+### [362. Incident Management Best Practices: 2021 Edition](https://hackernoon.com/incident-management-best-practices-2021-edition-n81z31l1)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-eo1r31yv.jpeg)
+Covering the basics
 
-### [367. How to Implement Dark Mode: 5 Essential Tips to Remember](https://hackernoon.com/how-to-implement-dark-mode-5-essential-tips-to-remember)
-![](https://cdn.hackernoon.com/images/hS37dtFlOtPxuHM03IBKFB7INsO2-hd93i1w.jpeg)
-Here are 5 tips you should keep in mind when implementing dark mode in your apps.
+### [363. Angular Signals Are A Game Changer: How They're A Great Fit For Scalable Apps](https://hackernoon.com/angular-signals-are-a-game-changer-how-theyre-a-great-fit-for-scalable-apps)
+![](https://cdn.hackernoon.com/images/qHMZ8kVymOZI7HXE58IAYCn1UW23-sh034tb.png)
+Signals are a new concept in Angular that plays well with reactive programming and templates.
 
-### [368. DOM Readiness in Javascript](https://hackernoon.com/dom-readiness-in-javascript)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-pu93pnv.jpeg)
-If your Javascript appears before your HTML, then trying to do things like attach events to your HTML is not possible.
-
-### [369. Web Application Templates with Perfect Design in 2022](https://hackernoon.com/web-application-templates-with-perfect-design-in-2022)
-![](https://cdn.hackernoon.com/images/a2n9GodCotfUHvvM9KmOiHPmLci1-hh039kd.jpeg)
-This is our rating of the best Web App Templates. Keep reading to know which ones they are and how they can speed up and improve your web development practice!
-
-### [370. Benefits of Admin Templates Explained](https://hackernoon.com/benefits-of-admin-templates-explained-aa3a3ysd)
-![](https://cdn.hackernoon.com/images/qzv63k0h.jpg)
-When your web development project requires custom, well-designed admin panel or dashboard interface, you might be still on the fence about the tech you are going to use. Should you develop it from scratch, or stick with the chosen CMS, or go for a template? Well, of course, you should go for a template! Because it’s almost always the fastest and the most cost-effective solution when you aim for extensive customization and integration of your admin panel. But don’t just take our biased word for it, read on to see for yourself.
-
-### [371. A Beginner's Guide to Testcontainers in ASP.NET Core](https://hackernoon.com/a-beginners-guide-to-testcontainers-in-aspnet-core)
-![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-vn836ii.jpeg)
-Use Testcontainers in ASP.NET Core testing to get better coverage! Learn how to simulate dependencies, test in parallel, and integrate with CI/CD tools!
-
-### [372. Build Native-Like Bottom Sheets with CSS Scroll Snap ](https://hackernoon.com/build-native-like-bottom-sheets-with-css-scroll-snap)
-![](https://cdn.hackernoon.com/images/qzmEawjOHNWoLumJiliWlFmrQVI2-px32vzr.png)
-Modern web features like CSS scroll snap allow creating native-like bottom sheets featuring multiple snap points and nested scrolling without JavaScript
-
-### [373. How to Build a Digital Collectibles Portal Using Flow and Cadence (Part 2)](https://hackernoon.com/how-to-build-a-digital-collectibles-portal-using-flow-and-cadence-part-2)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-oe83d4q.jpeg)
-With a Collectibles portal on the Flow blockchain and deployed to the testnet we can now focus on creating the frontend using React.
-
-### [374. 7 Websites to Inspire Your Next Web Design](https://hackernoon.com/7-websites-to-inspire-next-level-web-design)
-![](https://cdn.hackernoon.com/images/uRTauF3LioZDGkbCBMkvP0si8Lr2-w893rtq.jpeg)
-As a developer or designer, it's always important to stay up-to-date on the latest trends and techniques in your field.
-
-### [375. 9 Tips and Best Practices for HTML 5 ](https://hackernoon.com/9-tips-and-best-practices-for-html-5-c01137w7)
-![](https://cdn.hackernoon.com/images/L2ZzoLGpt8d6cP7hjSEpZluSjt72-z3t35tb.jpeg)
-Read this article to find out the most common HTM5 best practices. 
-
-### [376. The Critical Role of Architecture in Going From Chaos to Clarity](https://hackernoon.com/the-critical-role-of-architecture-in-going-from-chaos-to-clarity)
-![](https://cdn.hackernoon.com/images/9XknCnZTKoYkhLw6ANWS7J1i9RQ2-hb534fv.jpeg)
-Discover why software architecture matters, key concepts like cohesion and coupling, and how to build scalable, maintainable projects in React, Vue, Svelte.
-
-### [377. What's New in Laravel 10: A Peek at New and Upcoming Features](https://hackernoon.com/whats-new-in-laravel-10-a-peek-at-new-and-upcoming-features)
-![](https://cdn.hackernoon.com/images/FpV7utoiWLd83o2fu2aLmvSwSPL2-bo92kwh.jpeg)
- What to expect in laravel 10: An overview of upcoming features and changes. Laravel v10 is the next major version of Laravel after Laravel v9 and laravel v8
-
-### [378. An Introduction to the Xanny Framework](https://hackernoon.com/an-introduction-to-the-xanny-framework-uk3p34ag)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-hli28iv.jpeg)
-Xanny finally reached version 1.0 in Dec 2020. According to its [official repository](https://github.com/xanny-projects/xanny), Xanny is a simple, fast and low HTTP router and URL marcher for building Deno servers.
-
-### [379. Angular: Exploring Imperative and Declarative Programming with RxJS and Signals](https://hackernoon.com/angular-exploring-imperative-and-declarative-programming-with-rxjs-and-signals)
-![](https://cdn.hackernoon.com/images/SR5gzWPkCtV47bRI7pvk4VJ34sY2-pq0327r.png)
-In this post, we’ll explore these styles with a practical example of fetching and filtering a list of fruits.
-
-### [380. How to Get Started Using the EyeDropper API with JavaScript](https://hackernoon.com/how-to-get-started-using-the-eyedropper-api-with-javascript)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-eb13o94.jpeg)
-With the new EyeDropper API in Chromium, websites can let visitors pick colors from anywhere on their screen
-
-### [381. What to Consider When Choose an I18n Library for a Next.js 14 Application](https://hackernoon.com/what-to-consider-when-choose-an-i18n-library-for-a-nextjs-14-application)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6782h9j.png)
-What is the best choice, and how does one go about selecting an i18n library for production? Let’s address this decision-making process.
-
-### [382. Build delightful APIs using the OpenAPI Specification](https://hackernoon.com/build-delightful-apis-using-the-openapi-specification)
-![]()
-APIs need standards, too. Building your application on top of unpredictable and unreliable APIs is a time-killer. It’s just one headache after another. 
-
-### [383. Optimizing Component Development in Astro without Astro Files](https://hackernoon.com/optimizing-component-development-in-astro-without-astro-files)
-![](https://cdn.hackernoon.com/images/software-development-hmghgw23uazx7422c0yttrf1.png)
-When building components in Astro, you might not want to use Astro files
-
-### [384. How To Cache RESTful API Requests for Redis With Heroku Data](https://hackernoon.com/how-to-cache-restful-api-requests-for-redis-with-heroku-data)
-![](https://cdn.hackernoon.com/images/a-laptop-displaying-code-mcd106se32kc82vix766euyx.png)
-Learn how to significantly improve your Node.js application's performance by implementing RESTful request caching with Redis.
-
-### [385. React Introduction](https://hackernoon.com/react-introduction-en1333bo)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-dsz33yw.jpeg)
-React happens to be the most popular JavaScript framework sourced from Stack Overflow Developer Survey (2020). It is the best alternative to two other popular JavaScript frameworks, Angular and Vue. They all allow you to create fast apps in the browser.
-
-### [386. Comparing Nginx and Caddy: Configuring Wildcard Subdomains](https://hackernoon.com/comparing-nginx-and-caddy-configuring-wildcard-subdomains)
+### [364. Comparing Nginx and Caddy: Configuring Wildcard Subdomains](https://hackernoon.com/comparing-nginx-and-caddy-configuring-wildcard-subdomains)
 ![](https://cdn.hackernoon.com/images/gS9x989UdEYLqxgBp9uFiQXoXv23-ug82wfg.jpeg)
 Wildcard subdomains allow you to dynamically handle multiple subdomains under a parent domain without explicitly defining the configuration for each subdomain.
 
-### [387. 15 Lodash methods for everyday coding](https://hackernoon.com/15-lodash-methods-for-everyday-coding)
-![](https://cdn.hackernoon.com/images/47NkqQMutwUjxg2pZd2zfao3ma12-qm93p10.jpeg)
-The Lodash open-source library has some useful methods that can help developers write code faster and streamline their processes to improve their work.
+### [365. What I Learned From Building for 6 Months and Getting My First Customer](https://hackernoon.com/what-i-learned-from-building-for-6-months-and-getting-my-first-customer)
+![](https://cdn.hackernoon.com/images/Qx0ZNV0Fv7SwsUni7t8dhE4JpGE2-5w037g1.png)
+Spent 6 months building and finally got my first customer. Here’s what actually worked and what didn’t.
 
-### [388. Solid Tips On How Get Better At Responsive Web Design](https://hackernoon.com/solid-tips-on-how-get-better-at-responsive-web-design-kmj3wvn)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fs6UbzE7nwfPS3bLT9dBPqMDbe9t2-une351z.jpeg?alt=media&token=f5c14f91-d0e2-412c-90bd-f80fb9918d42)
-Better Responsive Web Design, A Structured Approach
+### [366. How to Implement Dark Mode: 5 Essential Tips to Remember](https://hackernoon.com/how-to-implement-dark-mode-5-essential-tips-to-remember)
+![](https://cdn.hackernoon.com/images/hS37dtFlOtPxuHM03IBKFB7INsO2-hd93i1w.jpeg)
+Here are 5 tips you should keep in mind when implementing dark mode in your apps.
 
-### [389. The Dos and Don'ts of Designing Chat Messaging UIs for Your App](https://hackernoon.com/the-dos-and-donts-of-designing-chat-messaging-uis-for-your-app)
-![](https://cdn.hackernoon.com/images/gzG25VLfJzghBdT1v97jIfj9DE52-8393r2w.jpeg)
-Get valuable insights on designing user-friendly in-app chat UIs. Learn the dos and don'ts, best practices, and tips on simplifying, enhancing UX with color and
+### [367. How to Build an eCars App on Heroku and Salesforce (Part 4)](https://hackernoon.com/how-to-build-an-ecars-app-on-heroku-and-salesforce-part-4-nt31313n)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-iz22310a.jpeg)
+In these articles, we’re focusing on how to combine Salesforce with Heroku to build an “eCars” app—a sales and service application for a fictitious company
 
-### [390. A Simple Way to Rename Local and Remote Git Branch](https://hackernoon.com/a-simple-way-to-rename-local-and-remote-git-branch)
-![](https://cdn.hackernoon.com/images/kw6AgCK3xsUyGcooHvUKqUiQ2An2-2w02bzo.jpeg)
-Have you ever come across a situation where you want to rename a Git branch? If yes then this article will help you with that.
+### [368. Chronology and Evolution of Angular through the Years - From v2 to v19](https://hackernoon.com/chronology-and-evolution-of-angular-through-the-years-from-v2-to-v19)
+![](https://cdn.hackernoon.com/images/LrWNRAIdtCOY8d8u2QJVOs2d1dv1-pf5340m.png)
+The Chronology and Evolution of Angular through the Years - From v2 to v19
 
-### [391. Building a Bounded-Latency Quote Pipeline That Never Lies](https://hackernoon.com/building-a-bounded-latency-quote-pipeline-that-never-lies)
-![](https://cdn.hackernoon.com/images/1AEfUQMP4tf1dhJbvKhQYr7Sq5W2-2s03a8u.jpeg)
-Your users don’t care why a quote failed—they care that the number didn’t flash 0.00.
+### [369. Build Native-Like Bottom Sheets with CSS Scroll Snap ](https://hackernoon.com/build-native-like-bottom-sheets-with-css-scroll-snap)
+![](https://cdn.hackernoon.com/images/qzmEawjOHNWoLumJiliWlFmrQVI2-px32vzr.png)
+Modern web features like CSS scroll snap allow creating native-like bottom sheets featuring multiple snap points and nested scrolling without JavaScript
 
-### [392. How to Dynamically Hide and Show Slot Content in a Web Component](https://hackernoon.com/how-to-dynamically-hide-and-show-slot-content-in-a-web-component)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yu93ot5.jpeg)
-My attempt at dynamically showing/hiding various slots.
+### [370. A Beginner's Guide to Testcontainers in ASP.NET Core](https://hackernoon.com/a-beginners-guide-to-testcontainers-in-aspnet-core)
+![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-vn836ii.jpeg)
+Use Testcontainers in ASP.NET Core testing to get better coverage! Learn how to simulate dependencies, test in parallel, and integrate with CI/CD tools!
 
-### [393. SPA Tracking & Monitoring: How to Build Better Single-Page Applications With Real User Monitoring](https://hackernoon.com/spa-tracking-and-monitoring-how-to-build-better-single-page-applications-with-real-user-monitoring-z6kv34yk)
-![](https://cdn.hackernoon.com/drafts/071u234l6.png)
-Did you know roughly half of the users that visit your website leave if it takes more than 3 seconds to load? Optimizing your website or webapp for stellar performance is always a crucial goal for any software-based business.
+### [371. 500 Password Resets: A Case Study in the UX Scapegoat](https://hackernoon.com/500-password-resets-a-case-study-in-the-ux-scapegoat)
+![](https://cdn.hackernoon.com/images/eu5dIKsHPOb7HcxKVW5fEwA0U0X2-ya03edw.png)
+A Django developer noticed 500 password resets in 3 weeks. They blamed the UI, but the real culprit was a silent database bug. Read the full postmortem.
 
-### [394. I Built a Mock API Platform in 2.5 Months (Django + React + Redis + PostgreSQL)](https://hackernoon.com/i-built-a-mock-api-platform-in-25-months-django-react-redis-postgresql)
-![](https://cdn.hackernoon.com/images/TH2RNK2abshiZhXjR75tfZjkZQm1-8303fpb.png)
-I built MockMyData.io in 10 weeks - a multi-tenant SaaS that generates mock REST APIs. Here's how I handled subdomains, rate limiting, and Redis caching. 
+### [372. How to Build a Digital Collectibles Portal Using Flow and Cadence (Part 2)](https://hackernoon.com/how-to-build-a-digital-collectibles-portal-using-flow-and-cadence-part-2)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-oe83d4q.jpeg)
+With a Collectibles portal on the Flow blockchain and deployed to the testnet we can now focus on creating the frontend using React.
 
-### [395. Sooo! I Published My First Chrome Extension Font Tester - Here's How It Went.](https://hackernoon.com/sooo-i-published-my-first-chrome-extension-font-tester-heres-how-it-went)
+### [373. 7 Websites to Inspire Your Next Web Design](https://hackernoon.com/7-websites-to-inspire-next-level-web-design)
+![](https://cdn.hackernoon.com/images/uRTauF3LioZDGkbCBMkvP0si8Lr2-w893rtq.jpeg)
+As a developer or designer, it's always important to stay up-to-date on the latest trends and techniques in your field.
+
+### [374. 9 Tips and Best Practices for HTML 5 ](https://hackernoon.com/9-tips-and-best-practices-for-html-5-c01137w7)
+![](https://cdn.hackernoon.com/images/L2ZzoLGpt8d6cP7hjSEpZluSjt72-z3t35tb.jpeg)
+Read this article to find out the most common HTM5 best practices. 
+
+### [375. Dependency Injection with Symfony: Streamlining Code Management for Efficiency](https://hackernoon.com/dependency-injection-with-symfony-streamlining-code-management-for-efficiency)
+![](https://cdn.hackernoon.com/images/9Lp56cU2QZNqCiTmaYPijWLLpdW2-4e93pj0.jpeg)
+Explore the capabilities of Symfony Dependency Injection and enhance your application's scalability with this insightful article.
+
+### [376. What's New in Laravel 10: A Peek at New and Upcoming Features](https://hackernoon.com/whats-new-in-laravel-10-a-peek-at-new-and-upcoming-features)
+![](https://cdn.hackernoon.com/images/FpV7utoiWLd83o2fu2aLmvSwSPL2-bo92kwh.jpeg)
+ What to expect in laravel 10: An overview of upcoming features and changes. Laravel v10 is the next major version of Laravel after Laravel v9 and laravel v8
+
+### [377. Sooo! I Published My First Chrome Extension Font Tester - Here's How It Went.](https://hackernoon.com/sooo-i-published-my-first-chrome-extension-font-tester-heres-how-it-went)
 ![](https://cdn.hackernoon.com/images/9N4ACnZ47AVK6fuKDziF6ZGm07i1-q803zxm.png)
 I built a Chrome extension to help me choose fonts; I now pass on the wisdom to anyone else looking to build extensions.
 
-### [396. How To Write a Solidity Smart Contract and Deploy it on Ropsten](https://hackernoon.com/how-to-write-solidity-smart-contract-deploy-ropsten)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-2t93n7y.jpeg)
-Smart contracts allow two parties to enter into an agreement. Take a deep dive into smart contracts to show how to reuse a single contract over and over again.
+### [378. Web Application Templates with Perfect Design in 2022](https://hackernoon.com/web-application-templates-with-perfect-design-in-2022)
+![](https://cdn.hackernoon.com/images/a2n9GodCotfUHvvM9KmOiHPmLci1-hh039kd.jpeg)
+This is our rating of the best Web App Templates. Keep reading to know which ones they are and how they can speed up and improve your web development practice!
 
-### [397. Understanding The RxJS Autorun Process](https://hackernoon.com/understanding-the-rxjs-autorun-process-itf3whw)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7wOnKDDXTVhdcJdZQKiEUll6gnC3-45173w55.png?alt=media&token=7d255589-b7e9-46e1-b5aa-8d333e1e6555)
-Hey, RxJS streamers! 🙋‍♂️
+### [379. Benefits of Admin Templates Explained](https://hackernoon.com/benefits-of-admin-templates-explained-aa3a3ysd)
+![](https://cdn.hackernoon.com/images/qzv63k0h.jpg)
+When your web development project requires custom, well-designed admin panel or dashboard interface, you might be still on the fence about the tech you are going to use. Should you develop it from scratch, or stick with the chosen CMS, or go for a template? Well, of course, you should go for a template! Because it’s almost always the fastest and the most cost-effective solution when you aim for extensive customization and integration of your admin panel. But don’t just take our biased word for it, read on to see for yourself.
 
-### [398. What is 'Lazy' loading in CSS for page speed](https://hackernoon.com/use-lazy-for-lightning-fast-webpage-loading)
+### [380. The Critical Role of Architecture in Going From Chaos to Clarity](https://hackernoon.com/the-critical-role-of-architecture-in-going-from-chaos-to-clarity)
+![](https://cdn.hackernoon.com/images/9XknCnZTKoYkhLw6ANWS7J1i9RQ2-hb534fv.jpeg)
+Discover why software architecture matters, key concepts like cohesion and coupling, and how to build scalable, maintainable projects in React, Vue, Svelte.
+
+### [381. How to Dynamically Hide and Show Slot Content in a Web Component](https://hackernoon.com/how-to-dynamically-hide-and-show-slot-content-in-a-web-component)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yu93ot5.jpeg)
+My attempt at dynamically showing/hiding various slots.
+
+### [382. Angular: Exploring Imperative and Declarative Programming with RxJS and Signals](https://hackernoon.com/angular-exploring-imperative-and-declarative-programming-with-rxjs-and-signals)
+![](https://cdn.hackernoon.com/images/SR5gzWPkCtV47bRI7pvk4VJ34sY2-pq0327r.png)
+In this post, we’ll explore these styles with a practical example of fetching and filtering a list of fruits.
+
+### [383. What to Consider When Choose an I18n Library for a Next.js 14 Application](https://hackernoon.com/what-to-consider-when-choose-an-i18n-library-for-a-nextjs-14-application)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6782h9j.png)
+What is the best choice, and how does one go about selecting an i18n library for production? Let’s address this decision-making process.
+
+### [384. An Introduction to the Xanny Framework](https://hackernoon.com/an-introduction-to-the-xanny-framework-uk3p34ag)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-hli28iv.jpeg)
+Xanny finally reached version 1.0 in Dec 2020. According to its [official repository](https://github.com/xanny-projects/xanny), Xanny is a simple, fast and low HTTP router and URL marcher for building Deno servers.
+
+### [385. How to Get Started Using the EyeDropper API with JavaScript](https://hackernoon.com/how-to-get-started-using-the-eyedropper-api-with-javascript)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-eb13o94.jpeg)
+With the new EyeDropper API in Chromium, websites can let visitors pick colors from anywhere on their screen
+
+### [386. Optimizing Component Development in Astro without Astro Files](https://hackernoon.com/optimizing-component-development-in-astro-without-astro-files)
+![](https://cdn.hackernoon.com/images/software-development-hmghgw23uazx7422c0yttrf1.png)
+When building components in Astro, you might not want to use Astro files
+
+### [387. Build delightful APIs using the OpenAPI Specification](https://hackernoon.com/build-delightful-apis-using-the-openapi-specification)
+![]()
+APIs need standards, too. Building your application on top of unpredictable and unreliable APIs is a time-killer. It’s just one headache after another. 
+
+### [388. The Dos and Don'ts of Designing Chat Messaging UIs for Your App](https://hackernoon.com/the-dos-and-donts-of-designing-chat-messaging-uis-for-your-app)
+![](https://cdn.hackernoon.com/images/gzG25VLfJzghBdT1v97jIfj9DE52-8393r2w.jpeg)
+Get valuable insights on designing user-friendly in-app chat UIs. Learn the dos and don'ts, best practices, and tips on simplifying, enhancing UX with color and
+
+### [389. How To Cache RESTful API Requests for Redis With Heroku Data](https://hackernoon.com/how-to-cache-restful-api-requests-for-redis-with-heroku-data)
+![](https://cdn.hackernoon.com/images/a-laptop-displaying-code-mcd106se32kc82vix766euyx.png)
+Learn how to significantly improve your Node.js application's performance by implementing RESTful request caching with Redis.
+
+### [390. React Introduction](https://hackernoon.com/react-introduction-en1333bo)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-dsz33yw.jpeg)
+React happens to be the most popular JavaScript framework sourced from Stack Overflow Developer Survey (2020). It is the best alternative to two other popular JavaScript frameworks, Angular and Vue. They all allow you to create fast apps in the browser.
+
+### [391. I Built a Mock API Platform in 2.5 Months (Django + React + Redis + PostgreSQL)](https://hackernoon.com/i-built-a-mock-api-platform-in-25-months-django-react-redis-postgresql)
+![](https://cdn.hackernoon.com/images/TH2RNK2abshiZhXjR75tfZjkZQm1-8303fpb.png)
+I built MockMyData.io in 10 weeks - a multi-tenant SaaS that generates mock REST APIs. Here's how I handled subdomains, rate limiting, and Redis caching. 
+
+### [392. 15 Lodash methods for everyday coding](https://hackernoon.com/15-lodash-methods-for-everyday-coding)
+![](https://cdn.hackernoon.com/images/47NkqQMutwUjxg2pZd2zfao3ma12-qm93p10.jpeg)
+The Lodash open-source library has some useful methods that can help developers write code faster and streamline their processes to improve their work.
+
+### [393. What is 'Lazy' loading in CSS for page speed](https://hackernoon.com/use-lazy-for-lightning-fast-webpage-loading)
 ![](https://cdn.hackernoon.com/images/ZooZQzFE7INYxlbDjBNNxqTpP8g2-v303x7h.jpeg)
 The loading attribute of the <img> element is a powerful tool that empowers web developers to optimize image loading. 
 
-### [399. The Frontend is Gross: Why I've Always Preferred the Backend](https://hackernoon.com/the-frontend-is-gross-why-ive-always-preferred-the-backend)
+### [394. Solid Tips On How Get Better At Responsive Web Design](https://hackernoon.com/solid-tips-on-how-get-better-at-responsive-web-design-kmj3wvn)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fs6UbzE7nwfPS3bLT9dBPqMDbe9t2-une351z.jpeg?alt=media&token=f5c14f91-d0e2-412c-90bd-f80fb9918d42)
+Better Responsive Web Design, A Structured Approach
+
+### [395. SPA Tracking & Monitoring: How to Build Better Single-Page Applications With Real User Monitoring](https://hackernoon.com/spa-tracking-and-monitoring-how-to-build-better-single-page-applications-with-real-user-monitoring-z6kv34yk)
+![](https://cdn.hackernoon.com/drafts/071u234l6.png)
+Did you know roughly half of the users that visit your website leave if it takes more than 3 seconds to load? Optimizing your website or webapp for stellar performance is always a crucial goal for any software-based business.
+
+### [396. A Simple Way to Rename Local and Remote Git Branch](https://hackernoon.com/a-simple-way-to-rename-local-and-remote-git-branch)
+![](https://cdn.hackernoon.com/images/kw6AgCK3xsUyGcooHvUKqUiQ2An2-2w02bzo.jpeg)
+Have you ever come across a situation where you want to rename a Git branch? If yes then this article will help you with that.
+
+### [397. How To Write a Solidity Smart Contract and Deploy it on Ropsten](https://hackernoon.com/how-to-write-solidity-smart-contract-deploy-ropsten)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-2t93n7y.jpeg)
+Smart contracts allow two parties to enter into an agreement. Take a deep dive into smart contracts to show how to reuse a single contract over and over again.
+
+### [398. The Frontend is Gross: Why I've Always Preferred the Backend](https://hackernoon.com/the-frontend-is-gross-why-ive-always-preferred-the-backend)
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-xm93rds.jpeg)
 6 reasons why I prefer backend development to frontend development. 
+
+### [399. Understanding The RxJS Autorun Process](https://hackernoon.com/understanding-the-rxjs-autorun-process-itf3whw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7wOnKDDXTVhdcJdZQKiEUll6gnC3-45173w55.png?alt=media&token=7d255589-b7e9-46e1-b5aa-8d333e1e6555)
+Hey, RxJS streamers! 🙋‍♂️
 
 ### [400. How to Handle All PHP Errors](https://hackernoon.com/how-to-handle-all-php-errors)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-sr93pbm.jpeg)
@@ -1624,116 +1626,116 @@ Sometimes your PHP application might produce many different types of earnings.
 ![](https://cdn.hackernoon.com/images/Q9Ye8lX44HeXgiNJTqa5yvn0r2H2-ch1633ou.jpeg)
 GraphQL Editor new release
 
-### [402. How to Embed Credit Card Offerings Into Your Technology Product](https://hackernoon.com/how-to-embed-credit-card-offerings-into-your-technology-product)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-n3930hd.jpeg)
-Creating a card program can be challenging. Find out how Marqeta’s RiskControl portfolio mitigates risk and satisfies compliance needs.
-
-### [403. Rethinking the Complexity of Software Dev](https://hackernoon.com/rethinking-the-complexity-of-software-dev)
+### [402. Rethinking the Complexity of Software Dev](https://hackernoon.com/rethinking-the-complexity-of-software-dev)
 ![](https://cdn.hackernoon.com/images/ZO7sLgE2azcjLOrwmV8ke0N45YK2-x393k52.jpeg)
 Navigating the Evolution of Web Development Tools and Standards
 
 Explore the journey of web development tools and standards, from the early days of varied brows
 
-### [404. Avoid Costly Technical Debt with the Open-Closed Principle ](https://hackernoon.com/avoid-costly-technical-debt-with-the-open-closed-principle)
-![](https://cdn.hackernoon.com/images/rjEfNJmRsHbRtEujPZtEwxsM1vb2-wn93rnf.jpeg)
-Discover the Open-Closed Principle in programming. Improve software resilience and manageability by adding features without changing existing code.
+### [403. How to Embed Credit Card Offerings Into Your Technology Product](https://hackernoon.com/how-to-embed-credit-card-offerings-into-your-technology-product)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-n3930hd.jpeg)
+Creating a card program can be challenging. Find out how Marqeta’s RiskControl portfolio mitigates risk and satisfies compliance needs.
 
-### [405. Exploring Hidden Navigation for Domestic Violence Sites](https://hackernoon.com/exploring-hidden-navigation-for-domestic-violence-sites-761e34dt)
-![](https://cdn.hackernoon.com/images/BnMb3F4vjTb8PuRduWJNBwABhlb2-2m3i3u8k.jpeg)
-Recently, I had the incredible honor to work with an individual who was a Survivor of Domestic Violence. This was all part of a business "hackathon."
-
-### [406. An Essential Guide to Rendering your Website](https://hackernoon.com/an-essential-guide-to-rendering-your-website-em1x3tcd)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWvW28jEl4jUjfwJehRmZlkXmrQw2-hre30wv.png?alt=media&token=00154de9-ff5c-44bf-a8f6-4418b475f4e2)
-Back in the day, rendering a website was simple. You needed a web server that served HTML files. Those were static sites. Then developers started using databases and authentication. To achieve that, they needed to manipulate the HTML file before serving it. 
-
-### [407. Augmenting the Client With HTMX](https://hackernoon.com/augmenting-the-client-with-htmx)
+### [404. Augmenting the Client With HTMX](https://hackernoon.com/augmenting-the-client-with-htmx)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-a502lpi.jpeg)
 This post is part of a series comparing different ways to implement asynchronous requests on the client to augment the latter. 
 
-### [408. Hosting an Angular application on GitHub Pages using Travis CI](https://hackernoon.com/using-travis-ci-to-host-an-angular-app-on-github-pages-f8x35pj)
-![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-2kf2mv2.jpeg)
-Application example built with Angular 15 and hosted on GitHub Pages using Travis CI.
+### [405. Avoid Costly Technical Debt with the Open-Closed Principle ](https://hackernoon.com/avoid-costly-technical-debt-with-the-open-closed-principle)
+![](https://cdn.hackernoon.com/images/rjEfNJmRsHbRtEujPZtEwxsM1vb2-wn93rnf.jpeg)
+Discover the Open-Closed Principle in programming. Improve software resilience and manageability by adding features without changing existing code.
 
-### [409. Is Node.js Worth The Hoopla?](https://hackernoon.com/is-nodejs-worth-the-hoopla-gz1235rd)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fwqn8FTTUlabc0wgqLiB1u2A5wgr1-ib163wjy.jpeg?alt=media&token=4544759d-55c8-4bf2-b0d3-19736ac94b44)
-If you’ve gotten started programming with HTML and JavaScript (JS), you know how easy JS is to use. The interface is right at your fingertips. You can easily access your entire web page with simple commands. 
-
-### [410. The 30-Day .NET Challenge - Day 29: Generics & Custom Interfaces](https://hackernoon.com/the-30-day-net-challenge-day-29-generics-and-custom-interfaces)
-![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-rk833f2.png)
-Learn to enhance your maintainability with generics and custom interfaces in C#. Discover a better approach on Day 29 of our 30-Day .NET Challenge.
-
-### [411. An Advanced Approach to Migrating From useState to useReducer](https://hackernoon.com/an-advanced-approach-to-migrating-from-usestate-to-usereducer)
-![](https://cdn.hackernoon.com/images/p78YqcSArmS6R4uiGKkhQ5CNJa22-6ma3fuu.jpeg)
-In this blog, we'll dive into a more complex example of how to manage state. Let's take a look at how we can make state management more scaleable.
-
-### [412. Benefits of Using WordPress to Power Your Company’s Website](https://hackernoon.com/benefits-of-using-wordpress-to-power-your-companys-website-vh1w3wvw)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FjQDXU3mqnKYcTEtUfYCAMxuob2H3-yfd3wek.jpeg?alt=media&token=00e956a8-5075-4224-9f36-13fa71089ede)
-WordPress is one of the most popular CMS platforms and it powers nearly one-third of the world’s websites. You can use WordPress Development Services from small personal blogs to the complex sites of major corporations such as Sony, and TIME Magazine, and so on
-
-### [413. How to Offer Buy Now, Pay Later to Customers with No Stress](https://hackernoon.com/building-a-buy-now-pay-later-payment-solution)
+### [406. How to Offer Buy Now, Pay Later to Customers with No Stress](https://hackernoon.com/building-a-buy-now-pay-later-payment-solution)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-fk93kxg.jpeg)
 Convenient payment options often lure customers to buy sooner. See how quick and easy this can be using the Marqeta platform.
 
-### [414. 7 Must Use Tools For Newbie Web Developers ](https://hackernoon.com/7-things-that-every-beginner-web-developer-should-know)
-![](https://cdn.hackernoon.com/images/Y0kXG115Z7VorP4rguIGxwn3FoD3-eh037kk.jpeg)
-During my journey of learning web development I came across this different technology and stuffs which are often used during web development or writing code and
+### [407. Exploring Hidden Navigation for Domestic Violence Sites](https://hackernoon.com/exploring-hidden-navigation-for-domestic-violence-sites-761e34dt)
+![](https://cdn.hackernoon.com/images/BnMb3F4vjTb8PuRduWJNBwABhlb2-2m3i3u8k.jpeg)
+Recently, I had the incredible honor to work with an individual who was a Survivor of Domestic Violence. This was all part of a business "hackathon."
 
-### [415. Why Learn Any Other Programming Language When You Can Learn Typescript?](https://hackernoon.com/why-learn-any-other-programming-language-when-you-can-learn-typescript)
-![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-ua036gb.jpeg)
-Use TypeScript in all your projects and all use cases without any limitation. You can now do frontend, backend, infrastructure and machine learning in one progr
-
-### [416. Bootstrapping Laravel + Admiral: Auth Without the Boilerplate](https://hackernoon.com/bootstrapping-laravel-admiral-auth-without-the-boilerplate)
+### [408. Bootstrapping Laravel + Admiral: Auth Without the Boilerplate](https://hackernoon.com/bootstrapping-laravel-admiral-auth-without-the-boilerplate)
 ![](https://cdn.hackernoon.com/images/FPQfbJY2fYbkpykIFnuaI2Xsd9v2-64038jd.jpeg)
 Learn how to bootstrap a modern admin using Laravel 12, Sanctum, and the open-source Admiral admin panel. 
 
-### [417. 12-Step Checklist for Releasing a Website](https://hackernoon.com/12-step-checklist-for-releasing-a-website-ei5034lz)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-8v4y34i5.jpeg)
-Releasing a website is a stressful and important moment. And you want to make sure everything is ready.
+### [409. Hosting an Angular application on GitHub Pages using Travis CI](https://hackernoon.com/using-travis-ci-to-host-an-angular-app-on-github-pages-f8x35pj)
+![](https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-2kf2mv2.jpeg)
+Application example built with Angular 15 and hosted on GitHub Pages using Travis CI.
 
-### [418. How to Get Faster Responses With HTTP Streaming: AI For Web Devs](https://hackernoon.com/how-to-get-faster-responses-with-http-streaming-ai-for-web-devs)
-![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-kb83szc.png)
-Adding HTTP streaming to AI applications can improve perceived performance. This post covers the server side and client side requirements.
+### [410. An Essential Guide to Rendering your Website](https://hackernoon.com/an-essential-guide-to-rendering-your-website-em1x3tcd)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWvW28jEl4jUjfwJehRmZlkXmrQw2-hre30wv.png?alt=media&token=00154de9-ff5c-44bf-a8f6-4418b475f4e2)
+Back in the day, rendering a website was simple. You needed a web server that served HTML files. Those were static sites. Then developers started using databases and authentication. To achieve that, they needed to manipulate the HTML file before serving it. 
 
+### [411. The 30-Day .NET Challenge - Day 29: Generics & Custom Interfaces](https://hackernoon.com/the-30-day-net-challenge-day-29-generics-and-custom-interfaces)
+![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-rk833f2.png)
+Learn to enhance your maintainability with generics and custom interfaces in C#. Discover a better approach on Day 29 of our 30-Day .NET Challenge.
+
+### [412. A Guide on How to Embed YouTube Videos Responsively](https://hackernoon.com/a-guide-on-how-to-embed-youtube-videos-responsively)
+![](https://cdn.hackernoon.com/images/NaU3BOE6YnOtNpCIV9kfvX1BqL03-i0b3nk4.jpeg)
+Embed YouTube videos into personal sites with a responsive container that plays nice in flex and grid layouts.
+
+### [413. Is Node.js Worth The Hoopla?](https://hackernoon.com/is-nodejs-worth-the-hoopla-gz1235rd)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fwqn8FTTUlabc0wgqLiB1u2A5wgr1-ib163wjy.jpeg?alt=media&token=4544759d-55c8-4bf2-b0d3-19736ac94b44)
+If you’ve gotten started programming with HTML and JavaScript (JS), you know how easy JS is to use. The interface is right at your fingertips. You can easily access your entire web page with simple commands. 
+
+### [414. An Advanced Approach to Migrating From useState to useReducer](https://hackernoon.com/an-advanced-approach-to-migrating-from-usestate-to-usereducer)
+![](https://cdn.hackernoon.com/images/p78YqcSArmS6R4uiGKkhQ5CNJa22-6ma3fuu.jpeg)
+In this blog, we'll dive into a more complex example of how to manage state. Let's take a look at how we can make state management more scaleable.
+
+### [415. Streamlining File Handling in JavaScript](https://hackernoon.com/streamlining-file-handling-in-javascript)
+![](https://cdn.hackernoon.com/images/GhC4MWswMgZnphVInOdXt0Zk2ED3-eo93pg4.jpeg)
+Learn how to handle files with JavaScript and how libraries like Filestack can simplify the process.
+
+### [416. Benefits of Using WordPress to Power Your Company’s Website](https://hackernoon.com/benefits-of-using-wordpress-to-power-your-companys-website-vh1w3wvw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FjQDXU3mqnKYcTEtUfYCAMxuob2H3-yfd3wek.jpeg?alt=media&token=00e956a8-5075-4224-9f36-13fa71089ede)
+WordPress is one of the most popular CMS platforms and it powers nearly one-third of the world’s websites. You can use WordPress Development Services from small personal blogs to the complex sites of major corporations such as Sony, and TIME Magazine, and so on
+
+### [417. 7 Must Use Tools For Newbie Web Developers ](https://hackernoon.com/7-things-that-every-beginner-web-developer-should-know)
+![](https://cdn.hackernoon.com/images/Y0kXG115Z7VorP4rguIGxwn3FoD3-eh037kk.jpeg)
+During my journey of learning web development I came across this different technology and stuffs which are often used during web development or writing code and
+
+### [418. Why Learn Any Other Programming Language When You Can Learn Typescript?](https://hackernoon.com/why-learn-any-other-programming-language-when-you-can-learn-typescript)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-ua036gb.jpeg)
+Use TypeScript in all your projects and all use cases without any limitation. You can now do frontend, backend, infrastructure and machine learning in one progr
 
 ### [419. How Adopting Serverless is a Competitive Advantage for Your Business](https://hackernoon.com/how-adopting-serverless-is-a-competitive-advantage-for-your-business-1s3433zu)
 ![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-qk4836ix.jpeg)
 How could serverless help move your business faster and outpace competitors? With serverless, you don't need to worry about anything except your code.
 
-### [420. A Guide on How to Embed YouTube Videos Responsively](https://hackernoon.com/a-guide-on-how-to-embed-youtube-videos-responsively)
-![](https://cdn.hackernoon.com/images/NaU3BOE6YnOtNpCIV9kfvX1BqL03-i0b3nk4.jpeg)
-Embed YouTube videos into personal sites with a responsive container that plays nice in flex and grid layouts.
+### [420. How to Get Faster Responses With HTTP Streaming: AI For Web Devs](https://hackernoon.com/how-to-get-faster-responses-with-http-streaming-ai-for-web-devs)
+![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-kb83szc.png)
+Adding HTTP streaming to AI applications can improve perceived performance. This post covers the server side and client side requirements.
+
 
 ### [421. A Saner Method for Keeping Under API Rate Limits](https://hackernoon.com/a-saner-method-for-keeping-under-api-rate-limits)
 ![](https://cdn.hackernoon.com/images/software-development-cliwg5841000201s634m91l9l.png)
 Uncover a better way to keep under API rate limits. 
 
-### [422. Streamlining File Handling in JavaScript](https://hackernoon.com/streamlining-file-handling-in-javascript)
-![](https://cdn.hackernoon.com/images/GhC4MWswMgZnphVInOdXt0Zk2ED3-eo93pg4.jpeg)
-Learn how to handle files with JavaScript and how libraries like Filestack can simplify the process.
+### [422. 12-Step Checklist for Releasing a Website](https://hackernoon.com/12-step-checklist-for-releasing-a-website-ei5034lz)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-8v4y34i5.jpeg)
+Releasing a website is a stressful and important moment. And you want to make sure everything is ready.
 
-### [423. Solidity: Utilizing Set Structure](https://hackernoon.com/leveraging-the-set-structure-in-solidity)
-![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-iaa35iw.jpeg)
-Leveraging the Set Structure in Solidity
-
-### [424. Elastic Magento: What Can You Fit into a Magento Commerce Website?](https://hackernoon.com/elastic-magento-what-can-you-fit-into-a-magento-commerce-website)
+### [423. Elastic Magento: What Can You Fit into a Magento Commerce Website?](https://hackernoon.com/elastic-magento-what-can-you-fit-into-a-magento-commerce-website)
 ![](https://cdn.hackernoon.com/images/syeJJqs1UoPXrZHuy4G1iXAJ3p82-m793pcr.jpeg)
 Discover the power of Magento Commerce and how it can drive eCommerce success. Learn how DefaultValue optimizes websites for growth.
 
-### [425. Want to Stop Wasting Hours on OpenGraph Images? Let's Fix That Together 👋 ](https://hackernoon.com/want-to-stop-wasting-hours-on-opengraph-images-lets-fix-that-together)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-oq035d9.jpeg)
-Developers spend hours tweaking OpenGraph images to get them just right.
+### [424. Solidity: Utilizing Set Structure](https://hackernoon.com/leveraging-the-set-structure-in-solidity)
+![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-iaa35iw.jpeg)
+Leveraging the Set Structure in Solidity
 
-### [426. Building an AWS Integration for Salesforce Image Handling](https://hackernoon.com/building-an-aws-integration-for-salesforce-image-handling)
+### [425. Building an AWS Integration for Salesforce Image Handling](https://hackernoon.com/building-an-aws-integration-for-salesforce-image-handling)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-l003bka.jpeg)
 In this article, we’ll look at a solution that not only offloads your Salesforce image storage to AWS, but also resizes and renders them on demand.
 
-### [427. How to Push an Empty Commit with Git](https://hackernoon.com/learn-to-push-an-empty-commit)
-![](https://cdn.hackernoon.com/images/kw6AgCK3xsUyGcooHvUKqUiQ2An2-1d12bww.jpeg)
-Have you ever faced the need to push a commit to a Git branch without changing any files in order to re-run your integration process?
-
-### [428. The Developer Hack That Turned 3-Minute Waits Into 30 Seconds](https://hackernoon.com/the-developer-hack-that-turned-3-minute-waits-into-30-seconds)
+### [426. The Developer Hack That Turned 3-Minute Waits Into 30 Seconds](https://hackernoon.com/the-developer-hack-that-turned-3-minute-waits-into-30-seconds)
 ![](https://cdn.hackernoon.com/images/2GvLYqtExzWQVpFYbHz7jwspTxB2-uq03bl6.jpeg)
 Ugh, waiting for PR previews to load is the worst, right? he Pre-Configured Slots Pattern is so underrated — zero-wait deploys, shareable URLs, and no cost.
+
+### [427. Want to Stop Wasting Hours on OpenGraph Images? Let's Fix That Together 👋 ](https://hackernoon.com/want-to-stop-wasting-hours-on-opengraph-images-lets-fix-that-together)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-oq035d9.jpeg)
+Developers spend hours tweaking OpenGraph images to get them just right.
+
+### [428. How to Push an Empty Commit with Git](https://hackernoon.com/learn-to-push-an-empty-commit)
+![](https://cdn.hackernoon.com/images/kw6AgCK3xsUyGcooHvUKqUiQ2An2-1d12bww.jpeg)
+Have you ever faced the need to push a commit to a Git branch without changing any files in order to re-run your integration process?
 
 ### [429. 22 Internet Stories From Hacker News, and Beyond! ](https://hackernoon.com/22-internet-stories-from-hacker-news-and-beyond)
 ![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-kv037dr.jpeg)
@@ -1743,85 +1745,93 @@ This is the first weekly list of top content collected from hacker news and ot
 ![](https://cdn.hackernoon.com/images/SX77kQ7AuphQDZQhV7OSkx49OZc2-rj93ke4.jpeg)
 It’s hard to believe, but after two and a half years of studying and about two years of meaningful job search, I finally got my first job in IT.
 
-### [431. The Fine Balance Between Internal Product Vs. Customer-Facing - Tales From a Software Engineer](https://hackernoon.com/the-fine-balance-between-internal-product-vs-customer-facing-tales-from-a-software-engineer-fm3p314v)
+### [431. Building a Bounded-Latency Quote Pipeline That Never Lies](https://hackernoon.com/building-a-bounded-latency-quote-pipeline-that-never-lies)
+![](https://cdn.hackernoon.com/images/1AEfUQMP4tf1dhJbvKhQYr7Sq5W2-2s03a8u.jpeg)
+Your users don’t care why a quote failed—they care that the number didn’t flash 0.00.
+
+### [432. The Fine Balance Between Internal Product Vs. Customer-Facing - Tales From a Software Engineer](https://hackernoon.com/the-fine-balance-between-internal-product-vs-customer-facing-tales-from-a-software-engineer-fm3p314v)
 ![](https://cdn.hackernoon.com/images/JeJLJhOGw1UlLLa7yUZkQm6W5fp1-y26k31vj.jpeg)
 Get the inside outs of working as a software engineer on internal products
  vs customer-facing application for e-commerce companies in this 1950+ word post.
 
-### [432. How NOT to Secure Web Payment Systems](https://hackernoon.com/how-not-to-secure-web-payment-systems-npi435t7)
+### [433. How NOT to Secure Web Payment Systems](https://hackernoon.com/how-not-to-secure-web-payment-systems-npi435t7)
 ![](https://cdn.hackernoon.com/images/uuWu2jadCVYFY7WzfMFVwHvBD1l1-9qb832ci.jpeg)
 How to get a Covid test for free | Bugs in covid payment systems are everywhere. This is the story of how I found one of them
-
-### [433. What is HTML? - A Guide for Beginners](https://hackernoon.com/what-is-html-a-guide-for-beginners)
-![](https://cdn.hackernoon.com/images/ocWHzppXsmWRtRpX3dMjAmnpLjw1-i8d2kak.jpeg)
-HTML stands for Hyper Text Markup Language. It defines the content and structure of a website. It is a markup language
 
 ### [434. Maintaining Quality When Transitioning from Monolith to Microservices](https://hackernoon.com/maintaining-quality-when-transitioning-from-monolith-to-microservices)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-sw93ltd.jpeg)
 Piece by piece, legacy monolith applications are being broken down and replaced by microservices. 
 
-### [435. Using Android Studio to Explore the Salesforce Mobile SDK](https://hackernoon.com/using-android-studio-to-explore-the-salesforce-mobile-sdk)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-0093k10.jpeg)
-In the 2nd article of the series, create a native Android application that leverages the Salesforce platform and the Salesforce Mobile SDK.
-
-### [436. A Quick Introduction to Jamstack ](https://hackernoon.com/a-quick-introduction-to-jamstack-jl4l35hj)
+### [435. A Quick Introduction to Jamstack ](https://hackernoon.com/a-quick-introduction-to-jamstack-jl4l35hj)
 ![](https://cdn.hackernoon.com/images/L2ZzoLGpt8d6cP7hjSEpZluSjt72-za9m35rr.jpeg)
 This approach is not a framework but is actually an architectural guideline using many of the tools and skills developers were already familiar with.
 
-### [437. Specifying a Node Version in Netlify Builds](https://hackernoon.com/specifying-a-node-version-in-netlify-builds)
+### [436. What is HTML? - A Guide for Beginners](https://hackernoon.com/what-is-html-a-guide-for-beginners)
+![](https://cdn.hackernoon.com/images/ocWHzppXsmWRtRpX3dMjAmnpLjw1-i8d2kak.jpeg)
+HTML stands for Hyper Text Markup Language. It defines the content and structure of a website. It is a markup language
+
+### [437. Using Android Studio to Explore the Salesforce Mobile SDK](https://hackernoon.com/using-android-studio-to-explore-the-salesforce-mobile-sdk)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-0093k10.jpeg)
+In the 2nd article of the series, create a native Android application that leverages the Salesforce platform and the Salesforce Mobile SDK.
+
+### [438. How We Built Open Previews and Used Invisible Divs in GitHub Discussions as a Key-Value Store](https://hackernoon.com/how-we-built-open-previews-and-used-invisible-divs-in-github-discussions-as-a-key-value-store)
+![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-lxa3rew.jpeg)
+We came up with an open-source solution for commenting and using invisible divs in GitHub discussions.
+
+### [439. Specifying a Node Version in Netlify Builds](https://hackernoon.com/specifying-a-node-version-in-netlify-builds)
 ![](https://cdn.hackernoon.com/images/software-nodes-clgc9xgpr000001s62s4dh2lw.png)
 Often, I need to 'tell' Netlify the Node version for my sites, and often I can't find the correct docs for this. Here's a potential solution, if you can relate.
 
-### [438. Reactime, Time Traveling State Debugger: Now Supporting Concurrent Mode, Routers, and more](https://hackernoon.com/time-traveling-state-debugger-reactime-now-supporting-concurrent-mode-routers-and-more-b1s36o2)
+### [440. Reactime, Time Traveling State Debugger: Now Supporting Concurrent Mode, Routers, and more](https://hackernoon.com/time-traveling-state-debugger-reactime-now-supporting-concurrent-mode-routers-and-more-b1s36o2)
 ![](https://images.unsplash.com/photo-1524678714210-9917a6c619c2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Chrome dev tool for tracking and visualizing state changes in React applications
-
-### [439. Generating 2FA One-Time Passwords in JS Using Web Crypto API](https://hackernoon.com/generating-2fa-one-time-passwords-in-js-using-web-crypto-api-zc3493r8c)
-![](https://cdn.hackernoon.com/drafts/5uk3rlc.png)
-Introduction
-
-### [440. How We Built Open Previews and Used Invisible Divs in GitHub Discussions as a Key-Value Store](https://hackernoon.com/how-we-built-open-previews-and-used-invisible-divs-in-github-discussions-as-a-key-value-store)
-![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-lxa3rew.jpeg)
-We came up with an open-source solution for commenting and using invisible divs in GitHub discussions.
 
 ### [441. Implementing Sticky sessions via Apache APISIX](https://hackernoon.com/implementing-sticky-sessions-via-apache-apisix)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-o9b2ckr.jpeg)
 In this post, I'll describe the reason behind sticky sessions, available alternatives, and how to implement them via Apache APISIX.
 
-### [442. How to Build Relationships With Clients: Speak Only the Language of Facts](https://hackernoon.com/how-to-build-relationships-with-clients-speak-only-the-language-of-facts)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-e703op4.jpeg)
-Tell me what you want. Or tell me how to do it. Don’t tell me both
+### [442. Generating 2FA One-Time Passwords in JS Using Web Crypto API](https://hackernoon.com/generating-2fa-one-time-passwords-in-js-using-web-crypto-api-zc3493r8c)
+![](https://cdn.hackernoon.com/drafts/5uk3rlc.png)
+Introduction
 
 ### [443. Building a Divider App: How Many Cases Can Share One Operation?](https://hackernoon.com/building-a-divider-app-how-many-cases-can-share-one-operation)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-tf92hza.jpeg)
 Thinking about all the things that could go wrong in code execution and preparing for them is a big part of a programmer's job.
 
-### [444. Intro Guide to CSS: Explore Your Box](https://hackernoon.com/intro-guide-to-css-explore-your-box-5b1e379l)
+### [444. How to Build Relationships With Clients: Speak Only the Language of Facts](https://hackernoon.com/how-to-build-relationships-with-clients-speak-only-the-language-of-facts)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-e703op4.jpeg)
+Tell me what you want. Or tell me how to do it. Don’t tell me both
+
+### [445. Intro Guide to CSS: Explore Your Box](https://hackernoon.com/intro-guide-to-css-explore-your-box-5b1e379l)
 ![](https://cdn.hackernoon.com/images/L2ZzoLGpt8d6cP7hjSEpZluSjt72-kfm352g.jpeg)
 When I started in web development, the box model was one of the first concepts that really helped me understand what was going on. 
 
 
-### [445. How to Fix the VS Code Explorer for Content Projects](https://hackernoon.com/how-to-fix-the-vs-code-explorer-for-content-projects)
+### [446. How to Fix the VS Code Explorer for Content Projects](https://hackernoon.com/how-to-fix-the-vs-code-explorer-for-content-projects)
 ![](https://cdn.hackernoon.com/images/NaU3BOE6YnOtNpCIV9kfvX1BqL03-sq9371c.jpeg)
 Stop fighting the VS Code Explorer. Use mixed sort order for content projects.
 
-### [446. My Experience at THAT Conference 2023: Opinions and Thoughts](https://hackernoon.com/my-experience-at-that-conference-2023-opinions-and-thoughts)
+### [447. My Experience at THAT Conference 2023: Opinions and Thoughts](https://hackernoon.com/my-experience-at-that-conference-2023-opinions-and-thoughts)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-lq93p4h.jpeg)
 Weeks ago, I had the pleasure and privilege of attending THAT Conference Austin as a workshop presenter, and I thought it would be cool to share my review.
 
-### [447. Web Developers, Don't Let This Browser Deal Pass You By](https://hackernoon.com/web-developers-dont-let-this-browser-deal-pass-you-by)
+### [448. Web Developers, Don't Let This Browser Deal Pass You By](https://hackernoon.com/web-developers-dont-let-this-browser-deal-pass-you-by)
 ![](https://cdn.hackernoon.com/images/2hqIDcIhdfbtYbT1XjZr6yOvxgq1-4602rcn.png)
 Polypane is offering a massive 25% discount on all yearly plans for Black Friday which runs until Monday, December 2nd.
 
-### [448. Top Spooky Fonts to Use for Your Website on Halloween 🎃](https://hackernoon.com/top-spooky-fonts-to-use-for-your-website-on-halloween)
+### [449. Inside Dograh: The Architecture Behind an Open Voice AI Stack](https://hackernoon.com/inside-dograh-the-architecture-behind-an-open-voice-ai-stack)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jn82zsg.jpeg)
+A candid walkthrough of Dograh, the self-hostable voice AI platform built for developers who want full control, tracing, and no platform fees.
+
+### [450. Top Spooky Fonts to Use for Your Website on Halloween 🎃](https://hackernoon.com/top-spooky-fonts-to-use-for-your-website-on-halloween)
 ![](https://cdn.hackernoon.com/images/9N4ACnZ47AVK6fuKDziF6ZGm07i1-jf036ea.png)
 You don’t need to go overboard with decorations, something as simple as changing your fonts can make a big impact.
 
-### [449. The Secret Trick For Mobile Viewports](https://hackernoon.com/the-secret-trick-for-mobile-viewports)
+### [451. The Secret Trick For Mobile Viewports](https://hackernoon.com/the-secret-trick-for-mobile-viewports)
 ![](https://cdn.hackernoon.com/images/m1JWnUaHzSX3LPHoHfOainoiYvq2-nu2s3f08.jpeg)
 How to make handling the viewport on mobile less awful, correctly fill the viewport, and get correct specific viewport sizes.
 
-### [450. Hack Your Technical Debt: The 1% Better Every Day Challenge](https://hackernoon.com/hack-your-technical-debt-the-1percent-better-every-day-challenge-bo5b31j4)
+### [452. Hack Your Technical Debt: The 1% Better Every Day Challenge](https://hackernoon.com/hack-your-technical-debt-the-1percent-better-every-day-challenge-bo5b31j4)
 ![](https://cdn.hackernoon.com/images/wTLXRHcYZvU57CVqgls1STwilUg2-2mc312q.jpeg)
 It's easy for technical debt to grow in our codebase. Commit to spending 20 minutes a day for 30 days to tackling technical debt and get 1% better every day.
 

@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [videogames](https://hackernoon.com/tagged/videogames)
+### Let's learn about [Videogames](https://hackernoon.com/tagged/videogames) via these 104 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Need a break from playing video games? Why don't you READ about video games instead?
 
 ### [1. 3 Ways To Get Free Robux in Roblox](https://hackernoon.com/3-ways-to-get-free-robux-in-roblox-6yh33zx)
@@ -120,13 +122,13 @@ Axiom Verge, Dark Souls and Salt and Sanctuary are some of the amazing games lik
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTolwVCe2KPryOw11aq31tS22Ky1-f48a3eqx.jpeg?alt=media&token=2fe4a7fb-ee71-42f0-bb9a-87c0d9b538f8)
 When hip-hip artist Travis Scott appeared on Fortnite for a 10-minute virtual concert in April, he created one of the culturally defining moments of 2020. At a time when a global pandemic has put a halt to the concert industry, Scott managed to attract an audience of millions without even technically showing up for a live show. 
 
-### [30. 2021 Will Bring a Blockchain Gaming Revolution](https://hackernoon.com/2021-will-bring-a-blockchain-gaming-revolution-az3231fw)
-![](https://cdn.hackernoon.com/images/fbnUVjnl8Hh4qtRO7PCOLjKggfn1-oef32ow.jpeg)
-Blockchain gaming technology can bring countless benefits to the table when it comes to gaming functionality and utility.
-
-### [31. 5 Best Minecraft PvP Texture Packs](https://hackernoon.com/5-best-minecraft-pvp-texture-packs)
+### [30. 5 Best Minecraft PvP Texture Packs](https://hackernoon.com/5-best-minecraft-pvp-texture-packs)
 ![](https://cdn.hackernoon.com/images/ibqeocQC8GaGFVViRsekKfcGfHz2-y1037mh.jpeg)
 A list filled with the best Texture Packs to improve your PvP in Minecraft Java Edition
+
+### [31. 2021 Will Bring a Blockchain Gaming Revolution](https://hackernoon.com/2021-will-bring-a-blockchain-gaming-revolution-az3231fw)
+![](https://cdn.hackernoon.com/images/fbnUVjnl8Hh4qtRO7PCOLjKggfn1-oef32ow.jpeg)
+Blockchain gaming technology can bring countless benefits to the table when it comes to gaming functionality and utility.
 
 ### [32. How to Implement Doom UI Streaming in Docker](https://hackernoon.com/how-to-implement-doom-ui-streaming-in-docker-g9453teb)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmYNGXrCldHc2c4YeBmw37JXAXKv2-3h83w0i.jpeg?alt=media&token=31b85755-0ec9-42a8-a57a-ab774e98ed38)
@@ -140,13 +142,13 @@ Surviving your first night in Sons of the Forest is no easy task and this walkth
 ![](https://cdn.hackernoon.com/images/z2O4NeofWDX5SOchZg5vCRj7Rsz1-b6d3lwb.jpeg)
 Octopath Traveler 2 maintains the high-quality aspects of the previous game while fixing any setbacks it had. Overall, it's a must-play for JRPG fans.
 
-### [35. Hacker Noon: 10 PSN Games and DLC to Buy Before The Store Shuts Down Forever ](https://hackernoon.com/10-psn-games-and-dlc-to-buy-before-the-store-shuts-down-forever-jy5z33ur)
-![](https://hackernoon.com/images/I1RqXC8kOKSDaHHAC47plKSr25v1-f6c63487.jpeg)
-This is a list of the 10 things I feel you should get before the PS3, PSP, and PS Vita Stores close down on PS Vita, PSP, and PS3 on July 2nd.
-
-### [36. The Ultimate 2025 Blueprint: How to Create a Blockchain Game That Actually Makes Money](https://hackernoon.com/the-ultimate-2025-blueprint-how-to-create-a-blockchain-game-that-actually-makes-money)
+### [35. The Ultimate 2025 Blueprint: How to Create a Blockchain Game That Actually Makes Money](https://hackernoon.com/the-ultimate-2025-blueprint-how-to-create-a-blockchain-game-that-actually-makes-money)
 ![](https://cdn.hackernoon.com/images/nxtWKMHuO1UKGUbmzmzTuQsBx4H2-0v13atr.png)
 Learn the secrets of successful blockchain game development. Complete guide with expert tips and proven strategies. 
+
+### [36. Hacker Noon: 10 PSN Games and DLC to Buy Before The Store Shuts Down Forever ](https://hackernoon.com/10-psn-games-and-dlc-to-buy-before-the-store-shuts-down-forever-jy5z33ur)
+![](https://hackernoon.com/images/I1RqXC8kOKSDaHHAC47plKSr25v1-f6c63487.jpeg)
+This is a list of the 10 things I feel you should get before the PS3, PSP, and PS Vita Stores close down on PS Vita, PSP, and PS3 on July 2nd.
 
 ### [37. Video Game Development is not a Game [Mythbusting]](https://hackernoon.com/the-misconceptions-about-game-development-d9q3zn5)
 ![](drafts/3a1o3zef.png)
@@ -172,25 +174,25 @@ A trio of arcade classics on a single disc sure to stimulate the senses and temp
 ![](https://cdn.hackernoon.com/images/0ND921QitCePbuLAJQgufmkRClY2-n283s5d.jpeg)
 Despite the minor drawbacks and sometimes tedious puzzles, The Wild at Heart is the perfect game to escape reality and relax on a cold winter evening.
 
-### [43. Celebrating Video Games and Video Game Writers With #Noonies2022](https://hackernoon.com/celebrating-video-games-and-video-game-writers-with-noonies2022)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-7693ncm.jpeg)
-The Noonies are upon us, so you know what that means. It's time to celebrate all of the corners of the internet.
-
-### [44. The 5 Best Video Games I Played in 2020](https://hackernoon.com/the-5-best-video-games-i-played-in-2020-0q7v318p)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-bh6p319n.jpeg)
-This Slogging post is about the 5 best video games of 2020 that helped me get through the year with my sanity in check. 
-
-### [45. How Does Gaming Affect Mental Health?](https://hackernoon.com/how-does-gaming-affect-mental-health)
+### [43. How Does Gaming Affect Mental Health?](https://hackernoon.com/how-does-gaming-affect-mental-health)
 ![](https://cdn.hackernoon.com/images/PVN1qtxyOSTgqH0W7fHB84Zowlt1-vc93oyp.jpeg)
 There may be no significant detrimental impacts on mental health from playing video games in moderation.
 
-### [46. 10 Best Mobile Games to Play with Friends in 2021](https://hackernoon.com/10-best-mobile-games-to-play-with-friends-in-2021-hj4v33d5)
-![](https://cdn.hackernoon.com/images/JHYEEX1dR2NS4UEi2ldlE4102Qs1-f34r33lk.jpeg)
-Minecraft, Scrabble GO,  and Call of Duty Mobile are some of the best mobile games that have multiplayer options to play with friends online.
+### [44. Celebrating Video Games and Video Game Writers With #Noonies2022](https://hackernoon.com/celebrating-video-games-and-video-game-writers-with-noonies2022)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-7693ncm.jpeg)
+The Noonies are upon us, so you know what that means. It's time to celebrate all of the corners of the internet.
 
-### [47. Video Game Startups Are On The Rise](https://hackernoon.com/video-game-startups-are-on-the-rise)
+### [45. The 5 Best Video Games I Played in 2020](https://hackernoon.com/the-5-best-video-games-i-played-in-2020-0q7v318p)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-bh6p319n.jpeg)
+This Slogging post is about the 5 best video games of 2020 that helped me get through the year with my sanity in check. 
+
+### [46. Video Game Startups Are On The Rise](https://hackernoon.com/video-game-startups-are-on-the-rise)
 ![](https://cdn.hackernoon.com/images/video-games-clgvwjfqi000101s6fvqt91ml.png)
 From virtual reality and augmented reality, to artificial intelligence and voice technology, these advances are driving the creation of new games and apps.
+
+### [47. 10 Best Mobile Games to Play with Friends in 2021](https://hackernoon.com/10-best-mobile-games-to-play-with-friends-in-2021-hj4v33d5)
+![](https://cdn.hackernoon.com/images/JHYEEX1dR2NS4UEi2ldlE4102Qs1-f34r33lk.jpeg)
+Minecraft, Scrabble GO,  and Call of Duty Mobile are some of the best mobile games that have multiplayer options to play with friends online.
 
 ### [48. A Quick Primer on Play-to-Earn Gaming/NFTs/Metaverses](https://hackernoon.com/a-quick-primer-on-play-to-earn-gamingnftsmetaverses)
 ![](https://cdn.hackernoon.com/images/Q1vdXTJ7aWOASbuDjXbugLNYG2M2-hbi4370w.jpeg)
@@ -216,13 +218,13 @@ Cryptocurrencies have proven to be the most innovative technology to be develope
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-poa3xzw.jpeg)
 
 
-### [54. Will Video Games Replace Film and TV?](https://hackernoon.com/will-video-games-replace-film-and-tv-sl3b3wvd)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-s6243wpf.jpeg?alt=media&token=ceb523d0-345d-4e7d-9c63-5aa97429fdf5)
-This Slack discussion by Patrick Lee, David, richard-kubina,  Dane, Linh, and I occurred in Hacker Noon's official #slogging-beta channel.
-
-### [55. 6 Games That Everyone Should Play at Least Once](https://hackernoon.com/6-games-that-everyone-should-play-at-least-once-693033t6)
+### [54. 6 Games That Everyone Should Play at Least Once](https://hackernoon.com/6-games-that-everyone-should-play-at-least-once-693033t6)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-lh2p28ry.jpeg)
 There are some games that everyone should experience at least once. We discuss which games those should be and our reason why.
+
+### [55. Will Video Games Replace Film and TV?](https://hackernoon.com/will-video-games-replace-film-and-tv-sl3b3wvd)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-s6243wpf.jpeg?alt=media&token=ceb523d0-345d-4e7d-9c63-5aa97429fdf5)
+This Slack discussion by Patrick Lee, David, richard-kubina,  Dane, Linh, and I occurred in Hacker Noon's official #slogging-beta channel.
 
 ### [56. Unpacking (Indie Game Review): A Meditative Stress Buster ](https://hackernoon.com/unpacking-indie-game-review-a-meditative-stress-buster)
 ![](https://cdn.hackernoon.com/images/0ND921QitCePbuLAJQgufmkRClY2-g443ov6.jpeg)
@@ -240,13 +242,13 @@ What game do you consider underrated and why? We discuss the most underrated vid
 ![](https://cdn.hackernoon.com/images/UkAeqbeEiOajpjolJeRyMutEDag1-ae2g3etq.jpeg)
 When Sony announced that the PS5 would launch in November, I decided that it was time to say goodbye to my old Xbox 360. I read a lot about preorder fiascos with previous launches, and even more about the risks of being an early adopter of a next-gen console, but I didn’t let any reading discourage me
 
-### [60. Top 5 Weirdest and Wackiest Japanese Video Games Available in English](https://hackernoon.com/top-5-weirdest-and-wackiest-japanese-video-games-available-in-english-4n9p3wu9)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-f66t3w37.jpeg?alt=media&token=a74bc310-2cbf-4db1-ac91-73318137ae3f)
-Japan is home to many things, but perhaps its most unique element is its unparalleled otaku (nerd) culture.
-
-### [61. AI is Fostering in a New Era of Video Game Development](https://hackernoon.com/ai-is-fostering-in-a-new-era-of-video-game-development-1na3udt)
+### [60. AI is Fostering in a New Era of Video Game Development](https://hackernoon.com/ai-is-fostering-in-a-new-era-of-video-game-development-1na3udt)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-9t2g3ul4.jpeg?alt=media&token=52cf7fa0-6d90-4d2a-a578-2910fe21d654)
 With Fortnite, developer Epic Games didn’t just create an internationally acclaimed game; they built a new virtual space for socializing. With the PlayStation VR, Sony released the first mass-market console that allowed us to experience high-definition virtual reality in the comfort of our own living rooms.
+
+### [61. Top 5 Weirdest and Wackiest Japanese Video Games Available in English](https://hackernoon.com/top-5-weirdest-and-wackiest-japanese-video-games-available-in-english-4n9p3wu9)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-f66t3w37.jpeg?alt=media&token=a74bc310-2cbf-4db1-ac91-73318137ae3f)
+Japan is home to many things, but perhaps its most unique element is its unparalleled otaku (nerd) culture.
 
 ### [62. AI in Gaming: 5 Ways Machine Learning Will Change the Industry](https://hackernoon.com/ai-in-gaming-5-ways-machine-learning-will-change-the-industry-i683ut8)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-mmr3u7p.jpeg?alt=media&token=0cea90ab-cdcd-42f8-8022-9a2e959103a6)
@@ -312,41 +314,41 @@ While the blockchain and crypto industry participants never stop developing and 
 ![](https://hackernoon.com/hn-images/1*JtpIWr9yAJ3vilbxEDL7Jw.png)
 Despite being a fairly mediocre artist, I get a lot of comments and compliments on the artwork and visual design in Ikenfell. This makes me <em>very</em> happy, of course. Obviously those who dislike it are much less likely to say so to me personally, but I love that lots of people are very receptive to the look and style of the game. I’ve been asked several times to talk about my approach to the pixel art, and what kinds of rules, palettes, and inspirations I use for the game. So this will be a large, orderless, and rambling post about all of&nbsp;that!
 
-### [78. What the Acquisition of Bethesda Means for Xbox](https://hackernoon.com/what-the-acquisition-of-bethesda-means-for-xbox-7o333394)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-ud3o3269.jpeg)
-Xbox acquired Bethesda to either make the developer's games first-party exclusive or to publish titles as a third party.
-
-### [79. On the Rise of Esports: What Do the Scholars Say?](https://hackernoon.com/on-the-rise-of-esports-what-do-the-scholars-say)
+### [78. On the Rise of Esports: What Do the Scholars Say?](https://hackernoon.com/on-the-rise-of-esports-what-do-the-scholars-say)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-8n93kd3.jpeg)
 Esports has been a global entertainment and technology phenomenon. The rate of its growth has seen it expand into several areas of businesses.
+
+### [79. What the Acquisition of Bethesda Means for Xbox](https://hackernoon.com/what-the-acquisition-of-bethesda-means-for-xbox-7o333394)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-ud3o3269.jpeg)
+Xbox acquired Bethesda to either make the developer's games first-party exclusive or to publish titles as a third party.
 
 ### [80. The Rise Of The Multiverse Economies And Social Interactions In Video Games](https://hackernoon.com/the-rise-of-the-multiverse-economies-and-social-interactions-in-video-games-he2y3xvk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnyJ3v3rRv5NGM0ueVYbwsOuSUNr1-qbx3ud3.jpeg?alt=media&token=bbae29ac-856a-4318-80f4-22ae163bc530)
 Now ANYONE can build a business inside of a game.
 
-### [81. Demographics of the Gaming Industry: Reading Between the Lines](https://hackernoon.com/demographics-of-the-gaming-industry-reading-between-the-lines-662s33ur)
+### [81. 9 Games We Love on Mobile: From Angry Birds to Occidental Heroes](https://hackernoon.com/9-games-we-love-on-mobile-from-angry-birds-to-occidental-heroes-m8ab33bp)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-sz8k33nk.jpeg)
+The rise of mobile games converted many non-gamers into gamers, within the past decade.
+
+### [82. Demographics of the Gaming Industry: Reading Between the Lines](https://hackernoon.com/demographics-of-the-gaming-industry-reading-between-the-lines-662s33ur)
 ![](https://cdn.hackernoon.com/images/HPKTXpNUNMbhwUaRX9c7sxUvnau1-ig4y32q8.jpeg)
 An overview of recent developments in the gaming industry and what they mean for publishers and developers.
 
-### [82. How Gamers Decide Tomorrow’s Technology ](https://hackernoon.com/how-gamers-decide-tomorrows-technology-oq3b3w38)
+### [83. How Gamers Decide Tomorrow’s Technology ](https://hackernoon.com/how-gamers-decide-tomorrows-technology-oq3b3w38)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F8JLxFzQ2iTgJlUJYWOp6j0cmOC22-juv3w15.jpeg?alt=media&token=5d8775e6-2755-416d-8b93-4148b9067256)
 What do Apple, Google, and Amazon all have in common? Well, plenty of things if we’re being honest. It’s easier to list the things that they don’t share. But one thing that people don’t usually associate with any of these big tech companies is how deeply involved they are with an increasingly relevant sector in technology: video gaming. 
-
-### [83. 9 Games We Love on Mobile: From Angry Birds to Occidental Heroes](https://hackernoon.com/9-games-we-love-on-mobile-from-angry-birds-to-occidental-heroes-m8ab33bp)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-sz8k33nk.jpeg)
-The rise of mobile games converted many non-gamers into gamers, within the past decade.
 
 ### [84. What are the Best Video Game Controllers of all Time?](https://hackernoon.com/what-are-the-best-video-game-controllers-of-all-time-8hh33er)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-vx6d32iq.jpeg)
 The HackerNoon community discusses what our favourite video game controllers are and how third-party controllers compare.
 
-### [85. My Journey into Understanding NFTs by Playing a Blockchain Card Game](https://hackernoon.com/my-journey-into-understanding-nfts-by-playing-a-blockchain-card-game)
-![](https://cdn.hackernoon.com/images/aGqHBBl4t4hpGmQh1vZ9ruKH3Iv1-b993ift.jpeg)
-I started playing Gods Unchained on 4/8/2020. It's that specific because that's when I purchased my first card for that game, as verified by Etherscan.
-
-### [86. 141 Stories To Learn About Games](https://hackernoon.com/141-stories-to-learn-about-games)
+### [85. 141 Stories To Learn About Games](https://hackernoon.com/141-stories-to-learn-about-games)
 ![](https://cdn.hackernoon.com/images/github/games-324.png)
 Learn everything you need to know about Games via these 141 free HackerNoon stories.
+
+### [86. My Journey into Understanding NFTs by Playing a Blockchain Card Game](https://hackernoon.com/my-journey-into-understanding-nfts-by-playing-a-blockchain-card-game)
+![](https://cdn.hackernoon.com/images/aGqHBBl4t4hpGmQh1vZ9ruKH3Iv1-b993ift.jpeg)
+I started playing Gods Unchained on 4/8/2020. It's that specific because that's when I purchased my first card for that game, as verified by Etherscan.
 
 ### [87. The Importance of Music in Video Games](https://hackernoon.com/the-importance-of-music-in-video-games-2k2y3td2)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAodWcUCDGIW6F773VYkxzgADk8r1-zu9h3el7.jpeg?alt=media&token=20d85e7e-f117-4b8b-8469-292a21b567bb)
@@ -356,25 +358,25 @@ Think back to the year of 1986. You are an excited child sprinting through the a
 ![](https://cdn.hackernoon.com/images/AmUaywGH0WNIW3Knrlaq5Jc4tvW2-yo93ojp.jpeg)
 Gaming fosters the mindset that allows creativity to grow. Now that gaming has been slowly recognized, will it continue to rise against all odds?
 
-### [89. KFC Partners with Cooler Master to Launch Gaming Console with Chicken Warmer](https://hackernoon.com/kfc-partners-with-cooler-master-to-launch-gaming-console-with-chicken-warmer-6z533363)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-8uj2817.png)
-A new collaboration between fast-food chain giant KFC, Intel, and Cooler Master has birthed the perfect gaming console for the chicken lover.
-
-### [90. Craig Williams is a Comedian and the Curator of Your Wasted Time](https://hackernoon.com/craig-williams-is-a-comedian-and-the-curator-of-your-wasted-time)
+### [89. Craig Williams is a Comedian and the Curator of Your Wasted Time](https://hackernoon.com/craig-williams-is-a-comedian-and-the-curator-of-your-wasted-time)
 ![](https://cdn.hackernoon.com/images/ThW5IzKQgPNv9nyi58jMOsSoDsY2-y28350s.jpeg)
 I'm Craig Williams and this is my article. I wrote it with my old man and my son, Big Hoss. Everything in it has a story and words. I've learned nothing.
+
+### [90. KFC Partners with Cooler Master to Launch Gaming Console with Chicken Warmer](https://hackernoon.com/kfc-partners-with-cooler-master-to-launch-gaming-console-with-chicken-warmer-6z533363)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-8uj2817.png)
+A new collaboration between fast-food chain giant KFC, Intel, and Cooler Master has birthed the perfect gaming console for the chicken lover.
 
 ### [91. What Era of History Should Assassin's Creed Tackle Next?](https://hackernoon.com/what-era-of-history-should-assassins-creed-tackle-next-uy1j339r)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-kube32lj.jpeg)
 The Hacker Noon Community discusses the era of history we want the Assassins creed franchise to visit next and the perfect entry point.
 
-### [92. Turbo Chopper Simulator (Amstrad CPC) Review](https://hackernoon.com/turbo-chopper-simulator-amstrad-cpc-review-26p24qn)
-![](https://hackernoon.com/images/gd0SQf7WPsYcZnyCjkdJj8hy9mA3-mw1a33xq.jpeg)
-An arcade action helicopter hit that deserves far more than its cult status warrants - a CPC classic for all ages.
-
-### [93. 5 Games That Should be Ported to Modern Consoles](https://hackernoon.com/5-games-that-should-be-ported-to-modern-consoles)
+### [92. 5 Games That Should be Ported to Modern Consoles](https://hackernoon.com/5-games-that-should-be-ported-to-modern-consoles)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0vj3jnd.jpeg)
 Sometimes it feels like a lot of classic video games are stuck in the past. That's why it's nice to see older games like these get ported to modern consoles.
+
+### [93. Turbo Chopper Simulator (Amstrad CPC) Review](https://hackernoon.com/turbo-chopper-simulator-amstrad-cpc-review-26p24qn)
+![](https://hackernoon.com/images/gd0SQf7WPsYcZnyCjkdJj8hy9mA3-mw1a33xq.jpeg)
+An arcade action helicopter hit that deserves far more than its cult status warrants - a CPC classic for all ages.
 
 ### [94. The Over-justification Effect of Games as a Service](https://hackernoon.com/the-over-justification-effect-of-games-as-a-service-dk6f3tst)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0DlMo8ZsLxUyudSZ9ZxKpsiauvl1-tj323w4u.jpeg?alt=media&token=107cc2eb-f1ba-476a-850a-aab99b3fecb0)
@@ -404,13 +406,13 @@ This Slogging thread by Mónica Freitas, Katarina Andrejević, Limarc Ambalina, 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FII3qMjBh73e72VJHWbdJcXCMgvs1-4mj3w3a.png?alt=media&token=b096d5df-5086-4c91-9859-72745b3793db)
 It's simple, really: ff you want to become a good game developer, you need to make lots of games. Let’s first start with why you need to be productive: the more games you make the better and faster you become at making games. Every new game you make is a new addition to your portfolio. Publish your games on different portals to see what the players think about your game, see what works, and what kind of ideas don’t.
 
-### [100. If you could pick one video game to turn into a movie, what would it be?](https://hackernoon.com/if-you-could-pick-one-video-game-to-turn-into-a-movie-what-would-it-be-tio33h4)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-7a1s32x2.jpeg)
-The Hacker Noon community discusses what video games we would want to be turned into a movie! 
-
-### [101. Street Fighter V Season 5 Kicks Off: Dan & Rose Join the Fight](https://hackernoon.com/street-fighter-v-season-5-kicks-off-dan-and-rose-join-the-fight-u4j33qs)
+### [100. Street Fighter V Season 5 Kicks Off: Dan & Rose Join the Fight](https://hackernoon.com/street-fighter-v-season-5-kicks-off-dan-and-rose-join-the-fight-u4j33qs)
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-441033nr.jpeg)
 Capcom recently revealed that the upcoming Season 5 Winter Update for Street Fighter V will bring new fighters and features to the game.
+
+### [101. If you could pick one video game to turn into a movie, what would it be?](https://hackernoon.com/if-you-could-pick-one-video-game-to-turn-into-a-movie-what-would-it-be-tio33h4)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-7a1s32x2.jpeg)
+The Hacker Noon community discusses what video games we would want to be turned into a movie! 
 
 ### [102. Call of Duty Warzone Update Adds Rambo and John McClane](https://hackernoon.com/call-of-duty-warzone-update-adds-rambo-and-john-mcclane-bb1534hr)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-e19344o.jpeg)

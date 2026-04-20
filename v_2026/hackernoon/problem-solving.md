@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [problem-solving](https://hackernoon.com/tagged/problem-solving)
+### Let's learn about [Problem Solving](https://hackernoon.com/tagged/problem-solving) via these 104 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Problem-solving is the process of identifying, analyzing, and resolving complex or difficult issues, a critical skill across all industries and disciplines. It is often enhanced by technological tools and systematic approaches, driving progress and innovation.
+
 ### [1. Kadane’s Algorithm Explained with Examples](https://hackernoon.com/kadanes-algorithm-explained-50316f4fd8a6)
 ![](https://cdn.hackernoon.com/hn-images/1*XuUYS-A4W7gk4RCrI4aAaw.jpeg)
 Given an array, the algorithm to find the maximum subarray sum is called Kadane’s Algorithm.
@@ -109,23 +113,23 @@ When creating any software, it is almost inevitable to spend a big part of your 
 ![](https://cdn.hackernoon.com/images/1k2eWiUClgQ4VZSz8evAFbbCf1A3-y62s335v.jpeg)
 Getting better at problem-solving requires more than just reps. It’s also how you go about it. We discuss How to Get Better at Solving Programming Problems.
 
-### [28. Read This If You Want to Be an Inventor, Not an Imitator](https://hackernoon.com/read-this-if-you-want-to-be-an-inventor-not-an-imitator)
-![](https://cdn.hackernoon.com/images/x21VprIQHYaYrJEbiyMkN7uuOTH2-bt03jfn.webp)
-Stop chasing last season's gold rush. Discover why prerequisites are a myth, why your network is a side effect of your work, and where new worlds are built
-
-### [29. 7 Most Valuable Soft Skills Of Exceptional Software Engineers](https://hackernoon.com/7-most-valuable-soft-skills-of-exceptional-software-engineers-4t18k30zo)
+### [28. 7 Most Valuable Soft Skills Of Exceptional Software Engineers](https://hackernoon.com/7-most-valuable-soft-skills-of-exceptional-software-engineers-4t18k30zo)
 ![](https://cdn.hackernoon.com/drafts/fh17x3035.png)
 When we think about software engineering, we tend to think about the technical skill set of the professional first. And this makes sense because the skill set defines the quality of work that the software engineer can perform-and make no mistake, quality comes above everything in software development. 
 
-### [30. How To Swap Values In JavaScript](https://hackernoon.com/how-to-swap-values-in-javascript-tcr3ulr)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fi0Pv3gpsxwYqwjHkSTRvJQnzpsT2-oa1g3uhj.jpeg?alt=media&token=6bab5628-a164-4601-85f8-a64fb8cc82bb)
-At some point in their career, developers need to swap values. Most of the time we use the one plain old solution of “using a temporary variable”. Ugh, if only there was a better way. But wait! There is, and there’s not just one but many. In desperate times, we scour the web for solutions, find one, and copy it without ever wondering how this little snippet of code works. Lucky for you, now is the time to learn about how to swap values easily and efficiently, putting an end to your misery.
+### [29. Read This If You Want to Be an Inventor, Not an Imitator](https://hackernoon.com/read-this-if-you-want-to-be-an-inventor-not-an-imitator)
+![](https://cdn.hackernoon.com/images/x21VprIQHYaYrJEbiyMkN7uuOTH2-bt03jfn.webp)
+Stop chasing last season's gold rush. Discover why prerequisites are a myth, why your network is a side effect of your work, and where new worlds are built
 
-### [31. Contains Duplicate and Missing Number](https://hackernoon.com/contains-duplicate-and-missing-number)
+### [30. Contains Duplicate and Missing Number](https://hackernoon.com/contains-duplicate-and-missing-number)
 ![](https://cdn.hackernoon.com/images/WyL2V0Nj20amUlioe5bpd0cPHF92-ne93q50.jpeg)
 author: Sergei Golitsyn https://t.me/crack_code_interview
 1. return true if any value appears at least twice
 2. number in the range that is missing from arr
+
+### [31. How To Swap Values In JavaScript](https://hackernoon.com/how-to-swap-values-in-javascript-tcr3ulr)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fi0Pv3gpsxwYqwjHkSTRvJQnzpsT2-oa1g3uhj.jpeg?alt=media&token=6bab5628-a164-4601-85f8-a64fb8cc82bb)
+At some point in their career, developers need to swap values. Most of the time we use the one plain old solution of “using a temporary variable”. Ugh, if only there was a better way. But wait! There is, and there’s not just one but many. In desperate times, we scour the web for solutions, find one, and copy it without ever wondering how this little snippet of code works. Lucky for you, now is the time to learn about how to swap values easily and efficiently, putting an end to your misery.
 
 ### [32. TRIZ: The Problem-Solving Methodology for Product Managers](https://hackernoon.com/triz-the-problem-solving-methodology-for-product-managers)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-nk92bps.jpeg)
@@ -139,27 +143,27 @@ You need to solve this: given an integer array nums representing the amount of
 ![](https://cdn.hackernoon.com/images/lsDIIdQCayYoreyVyKVsDN2UpdV2-6y93rhl.jpeg)
 My engineering friend, let’s address him as Mr. Wolf 🐺 (identify hidden), requested a 1:1 call to help him fix his classification model.
 
-### [35. Slaying Live Coding Challenges: A Beginner's Guide to Success](https://hackernoon.com/slaying-live-coding-challenges-a-beginners-guide-to-success)
+### [35. Iterative vs Recursive vs Derivative Approaches](https://hackernoon.com/iterative-vs-recursive-vs-derivative-approaches)
+![](https://cdn.hackernoon.com/images/JA5IYEzAm5Nok0M7DPM0ZPvaLqM2-7w93tdf.jpeg)
+In the realm of problem-solving, various techniques and strategies are employed to achieve desired outcomes. 
+
+### [36. Slaying Live Coding Challenges: A Beginner's Guide to Success](https://hackernoon.com/slaying-live-coding-challenges-a-beginners-guide-to-success)
 ![](https://cdn.hackernoon.com/images/coding-challenge-ns9lqj96wpb3dlq3ss1sitn8.png)
 Prepare for your live coding session with a systematic approach to problem-solving, one step at a time.
 
-### [36. Solving the Single Number and Climbing Stairs Coding Challenge](https://hackernoon.com/solving-the-single-number-and-climbing-stairs-coding-challenge)
+### [37. Solving the Single Number and Climbing Stairs Coding Challenge](https://hackernoon.com/solving-the-single-number-and-climbing-stairs-coding-challenge)
 ![](https://cdn.hackernoon.com/images/WyL2V0Nj20amUlioe5bpd0cPHF92-9493qxj.jpeg)
 author: Sergei Golitsyn
 element appears twice except for one. Find that single one.
 how many distinct ways can you climb to the top?
 
-### [37. Iterative vs Recursive vs Derivative Approaches](https://hackernoon.com/iterative-vs-recursive-vs-derivative-approaches)
-![](https://cdn.hackernoon.com/images/JA5IYEzAm5Nok0M7DPM0ZPvaLqM2-7w93tdf.jpeg)
-In the realm of problem-solving, various techniques and strategies are employed to achieve desired outcomes. 
-
-### [38. Why You Should Forget Everything You Know About Problem Solving](https://hackernoon.com/why-you-should-forget-everything-you-know-about-problem-solving)
-![](https://cdn.hackernoon.com/images/qkXA8MX2eJScMSRNgGr3WBlDxfN2-kld33rr.jpeg)
-Master problem-solving with a fresh perspective by unleashing First Principle Thinking. 
-
-### [39. The Isekai Archetypes of Computer Programming](https://hackernoon.com/the-isekai-archetypes-of-computer-programming)
+### [38. The Isekai Archetypes of Computer Programming](https://hackernoon.com/the-isekai-archetypes-of-computer-programming)
 ![](https://cdn.hackernoon.com/images/u2j6S8lkcpSo8y2DC5puAo1YHIF3-fe036te.webp)
 Explore programming roles as isekai archetypes. Discover parallels between developers and fantasy characters in software engineering.
+
+### [39. Why You Should Forget Everything You Know About Problem Solving](https://hackernoon.com/why-you-should-forget-everything-you-know-about-problem-solving)
+![](https://cdn.hackernoon.com/images/qkXA8MX2eJScMSRNgGr3WBlDxfN2-kld33rr.jpeg)
+Master problem-solving with a fresh perspective by unleashing First Principle Thinking. 
 
 ### [40. I Really Struggled With Math Because My Teachers Were Horrible](https://hackernoon.com/i-really-struggled-with-math-at-a-point-cause-my-teachers-were-horrible)
 ![](https://cdn.hackernoon.com/images/hRDOVk3kuFUKcdoCm3DRio5srhh1-1g93s6e.jpeg)
@@ -173,83 +177,83 @@ In simple language, First Principles Thinking involves actively questioning ever
 ![](https://cdn.hackernoon.com/images/bqq1vavQnKeXAOodyo8V8H52q8G2-ho835ew.jpeg)
 Learn how to mitigate certificate expiration errors in cURL and the Android HTTP client using the AddTrust certificate.
 
-### [43. Daily Coding Problem: Rotating Matrices](https://hackernoon.com/daily-coding-problem-rotating-matrices)
+### [43. Leetcode or Projects — Which One Is Likely to Land You a Tech Job?](https://hackernoon.com/leetcode-or-projects-which-one-is-likely-to-land-you-a-tech-job)
+![](https://cdn.hackernoon.com/images/IYXqfnSadehiMIPPHRg7yoAmak12-0u039o2.webp)
+If your résumé has no strong projects, you might get rejected. On the flip side, if you haven’t done any interview prep, you might bomb the actual interviews.
+
+### [44. Daily Coding Problem: Rotating Matrices](https://hackernoon.com/daily-coding-problem-rotating-matrices)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-8393rmw.jpeg)
 In this article we are building an algorithm to rotate a matrix by a certain degree, doing this with in-place and not-in-place algorithms
 
-### [44. MO’s Algorithm: Efficient Way to Solve Offline Range Query Problems](https://hackernoon.com/mos-algorithm-efficient-way-to-solve-offline-range-query-problems-30s3u6d)
+### [45. Be Your Own Coach: How to Navigate Through Complex Problems](https://hackernoon.com/be-your-own-coach-how-to-navigate-through-complex-problems)
+![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-g583cc6.png)
+Most days at work require us to navigate and solve complex problems. These problems often come unannounced and don’t show up with a bang. 
+
+### [46. MO’s Algorithm: Efficient Way to Solve Offline Range Query Problems](https://hackernoon.com/mos-algorithm-efficient-way-to-solve-offline-range-query-problems-30s3u6d)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJnDkD1wyIndod2MhViUhOnomVJf2-xq5m3ut8.jpeg?alt=media&token=8d65ec79-15fa-42a0-b4d1-a8a3c32c7bdb)
 MO’s Algorithm aka Square Root Decomposition, a very efficient and easy technique to solve Range Query Problems (RQP). For MO’s Algorithm to work, the RQP has to be offline. In this post, we will understand about RQP, Offline RPQ, Naive Approach to solve RQP and an Efficient Approach using MO’s Algorithm.
 
 What is Range Query Problem?
 
-### [45. This One Programming Concept Made Me a Better Coder (and Planner)](https://hackernoon.com/this-one-programming-concept-made-me-a-better-coder-and-planner)
+### [47. This One Programming Concept Made Me a Better Coder (and Planner)](https://hackernoon.com/this-one-programming-concept-made-me-a-better-coder-and-planner)
 ![](https://cdn.hackernoon.com/images/x4iejpqx0jQZeoBqCVsPeFtrpUs2-d71376e.jpeg)
 How functional programming changed the way I write and think about code — with easy Python examples and lessons from real coding struggle.
 
-### [46. How Product Manager Solve Complex Problems](https://hackernoon.com/how-product-manager-solve-complex-problems-eo3z3w2l)
-![](https://images.unsplash.com/photo-1539627831859-a911cf04d3cd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Excellent problem-solving skill is very essential for a Product Manager, because in the real day to day as a Product Manager will face a lot of complex problems that require deeply thinking for finding the root cause of problems, not only user’s problems but also internal problems such as slow development process, increase growth rate, increase retention rate, etc.
-
-### [47. Following George Pólya’s Methods of Problem-solving. How It Might Help You In The Process of Coding.](https://hackernoon.com/following-george-polyas-methods-of-problem-solving-how-it-might-help-you-in-the-process-of-coding)
+### [48. Following George Pólya’s Methods of Problem-solving. How It Might Help You In The Process of Coding.](https://hackernoon.com/following-george-polyas-methods-of-problem-solving-how-it-might-help-you-in-the-process-of-coding)
 ![](https://cdn.hackernoon.com/images/vFWQHkp2QBcp5uXyjGm6rLWzGU93-xq93maq.jpeg)
 When my coding instructor started teaching the topic ‘Approaching Solution Of A Problem’ ,  he introduced George Pólya’s methods of problem-solving to us.
 
-### [48. Incorporating Art into Engineering by Introducing the STEAM Approach](https://hackernoon.com/incorporating-art-into-engineering-by-introducing-the-steam-approach)
+### [49. How Product Manager Solve Complex Problems](https://hackernoon.com/how-product-manager-solve-complex-problems-eo3z3w2l)
+![](https://images.unsplash.com/photo-1539627831859-a911cf04d3cd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Excellent problem-solving skill is very essential for a Product Manager, because in the real day to day as a Product Manager will face a lot of complex problems that require deeply thinking for finding the root cause of problems, not only user’s problems but also internal problems such as slow development process, increase growth rate, increase retention rate, etc.
+
+### [50. Incorporating Art into Engineering by Introducing the STEAM Approach](https://hackernoon.com/incorporating-art-into-engineering-by-introducing-the-steam-approach)
 ![](https://cdn.hackernoon.com/images/HkmXgPuVwSNu66hEcBWdvrCCWl72-j0636sp.jpeg)
 There is a perception that science, technology, and the arts are separate vocations. The STEAM approach incorporates the arts and sciences.
 
-### [49. Leetcode or Projects — Which One Is Likely to Land You a Tech Job?](https://hackernoon.com/leetcode-or-projects-which-one-is-likely-to-land-you-a-tech-job)
-![](https://cdn.hackernoon.com/images/IYXqfnSadehiMIPPHRg7yoAmak12-0u039o2.webp)
-If your résumé has no strong projects, you might get rejected. On the flip side, if you haven’t done any interview prep, you might bomb the actual interviews.
-
-### [50. Big O Notation: What Is It and Why Is It Important?](https://hackernoon.com/big-o-notation-what-is-it-and-why-is-it-important)
+### [51. Big O Notation: What Is It and Why Is It Important?](https://hackernoon.com/big-o-notation-what-is-it-and-why-is-it-important)
 ![](https://cdn.hackernoon.com/images/rTGkuSmEEIdJxS4Bj7H8MUxQhOg2-0t93sx2.jpeg)
 Demystify Big O Notation with a relatable guide! Bridge the gap between abstract & concrete thinking in algorithms. Let’s eliminate the confusion!
 
-### [51. Daily Coding Problem: Pascal’s Triangles and Space Complexity](https://hackernoon.com/daily-coding-problem-pascals-triangles-and-space-complexity)
+### [52. Daily Coding Problem: Pascal’s Triangles and Space Complexity](https://hackernoon.com/daily-coding-problem-pascals-triangles-and-space-complexity)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-xl93rtk.jpeg)
 Build Pascal's triangles with code, with different algorithms, analyze theirs speed and space complexity.
 
-### [52. 53% of People Think We Buy New Tech, Not Progress. They're Wrong.](https://hackernoon.com/53percent-of-my-followers-think-we-buy-new-tech-not-progress-heres-why-theyre-wrong-id4d3uo6)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FspPtT7sHsbTqlbKS8GmuXQc3vpu2-qid3epn.png?alt=media&token=d86eb198-a5a5-492f-99a9-593659c5df11)
-I did a Twitter poll to see what people think is the best approach to developing new products/services. The poll has been featured among people with startup or entrepreneurial interests. After looking at the results, I was surprised. 
-
-### [53. The Developer’s Guide to Being a Better Leader: Solution-ing is Contagious](https://hackernoon.com/the-developers-guide-to-being-a-better-leader-solution-ing-is-contagious-w98p375i)
-![](https://images.unsplash.com/photo-1518961039426-cdc80759ff57?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-More often than not, developers and architects spend a large portion of their time in solving problems. The complexity involved in finding a solution varies from problem-to-problem and is directly proportionate to the individual’s or team’s ability in finding the solution. As a lead, architect or a senior architect, we need to instill the culture of solution-ing in our team.
-
-### [54. An Introduction to Design Thinking](https://hackernoon.com/an-introduction-to-design-thinking-xn2t3z69)
-![](https://cdn.hackernoon.com/images/tuUVADcypxTbUmxrrGHG7lc47al2-yk2132zw.jpeg)
-Some of the most common approaches to solve a problem are situational or context-specific. For example, in the field of structural engineering, most of the challenges are solved by applying time tested rules in the field of civil engineering. For a problem that is considered less severe, a common approach is a trial by error. Mission-critical requirements and issues are solved by using a well-defined set of steps and strategies. The first reaction to solve any problem is to compartmentalize the problem into something which was solved earlier. The mind likes the comfort of the known after all. This is our primordial nature. These approaches have served us since time immemorial and will continue to do so. A common thread running through all these problems is they are well known, and they have been faced before plus they are well documented
-
-### [55. Using Data Science To Deal With RTOs](https://hackernoon.com/using-data-science-to-deal-with-rtos)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-xg93od4.jpeg)
-Considering how much fraudulent RTOs can cost a business, using data science to mitigate their frequency can help save an e-commerce business money over time.
-
-### [56. Streamlining Workflow with Puppeteer](https://hackernoon.com/streamlining-workflow-with-puppeteer)
+### [53. Streamlining Workflow with Puppeteer](https://hackernoon.com/streamlining-workflow-with-puppeteer)
 ![](https://cdn.hackernoon.com/images/uwos0chJX2fO3WCG9AogsFGrN4S2-apa3bsf.png)
 My journey of streamlining my workflow with Puppeteer.
 
-### [57. 6 Marketing Problems Of 2021 And How To Fix Them ](https://hackernoon.com/6-marketing-problems-of-2021-and-how-to-fix-them-ys2g33l6)
+### [54. 53% of People Think We Buy New Tech, Not Progress. They're Wrong.](https://hackernoon.com/53percent-of-my-followers-think-we-buy-new-tech-not-progress-heres-why-theyre-wrong-id4d3uo6)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FspPtT7sHsbTqlbKS8GmuXQc3vpu2-qid3epn.png?alt=media&token=d86eb198-a5a5-492f-99a9-593659c5df11)
+I did a Twitter poll to see what people think is the best approach to developing new products/services. The poll has been featured among people with startup or entrepreneurial interests. After looking at the results, I was surprised. 
+
+### [55. The Developer’s Guide to Being a Better Leader: Solution-ing is Contagious](https://hackernoon.com/the-developers-guide-to-being-a-better-leader-solution-ing-is-contagious-w98p375i)
+![](https://images.unsplash.com/photo-1518961039426-cdc80759ff57?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+More often than not, developers and architects spend a large portion of their time in solving problems. The complexity involved in finding a solution varies from problem-to-problem and is directly proportionate to the individual’s or team’s ability in finding the solution. As a lead, architect or a senior architect, we need to instill the culture of solution-ing in our team.
+
+### [56. An Introduction to Design Thinking](https://hackernoon.com/an-introduction-to-design-thinking-xn2t3z69)
+![](https://cdn.hackernoon.com/images/tuUVADcypxTbUmxrrGHG7lc47al2-yk2132zw.jpeg)
+Some of the most common approaches to solve a problem are situational or context-specific. For example, in the field of structural engineering, most of the challenges are solved by applying time tested rules in the field of civil engineering. For a problem that is considered less severe, a common approach is a trial by error. Mission-critical requirements and issues are solved by using a well-defined set of steps and strategies. The first reaction to solve any problem is to compartmentalize the problem into something which was solved earlier. The mind likes the comfort of the known after all. This is our primordial nature. These approaches have served us since time immemorial and will continue to do so. A common thread running through all these problems is they are well known, and they have been faced before plus they are well documented
+
+### [57. Using Data Science To Deal With RTOs](https://hackernoon.com/using-data-science-to-deal-with-rtos)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-xg93od4.jpeg)
+Considering how much fraudulent RTOs can cost a business, using data science to mitigate their frequency can help save an e-commerce business money over time.
+
+### [58. 6 Marketing Problems Of 2021 And How To Fix Them ](https://hackernoon.com/6-marketing-problems-of-2021-and-how-to-fix-them-ys2g33l6)
 ![](https://cdn.hackernoon.com/images/RKMlJx8lfbWMC35XuP6ocaanBzi1-4pg28s5.jpeg)
 The internet has changed the world. Most would say for the better, especially those of us running an online business. When it comes to business, marketing has never been so easy as it is today - with access to a plethora of digital marketing channels.
 
-### [58. Be Your Own Coach: How to Navigate Through Complex Problems](https://hackernoon.com/be-your-own-coach-how-to-navigate-through-complex-problems)
-![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-g583cc6.png)
-Most days at work require us to navigate and solve complex problems. These problems often come unannounced and don’t show up with a bang. 
-
-### [59. This Is Why We Suck at Problem-Solving](https://hackernoon.com/this-is-why-we-suck-at-problem-solving)
-![](https://cdn.hackernoon.com/images/W7PI5aEw75bGVb03XYIdMpjM6852-bh82rvb.jpeg)
-Why are so many of us poor at problem solving. Why do we struggle to find root causes? Why after declaring the victory, problem resurfaces?
-
-### [60. Is the Pinterest Way to Measure Ads the Right Way?](https://hackernoon.com/how-to-use-the-pinterest-way-to-measure-ads)
+### [59. Is the Pinterest Way to Measure Ads the Right Way?](https://hackernoon.com/how-to-use-the-pinterest-way-to-measure-ads)
 ![](https://cdn.hackernoon.com/images/lsDIIdQCayYoreyVyKVsDN2UpdV2-kif3qd6.jpeg)
 A cutting-edge data science model can only be created if impact is measured properly. Pinterest upgraded everyone's preferred impact measurement metric, CTR.
 
-### [61. Three Amigos Teach Us a Lot About Writing Better Agile User Stories ](https://hackernoon.com/the-spanish-can-teach-us-a-lot-about-writing-better-user-stories-in-agile)
+### [60. Three Amigos Teach Us a Lot About Writing Better Agile User Stories ](https://hackernoon.com/the-spanish-can-teach-us-a-lot-about-writing-better-user-stories-in-agile)
 ![](https://cdn.hackernoon.com/images/afaGQhqgIih7mjOnoS6e51t20oH3-ch93rrx.jpeg)
 Do you use the “Three Amigos” Agile strategy?
+
+### [61. This Is Why We Suck at Problem-Solving](https://hackernoon.com/this-is-why-we-suck-at-problem-solving)
+![](https://cdn.hackernoon.com/images/W7PI5aEw75bGVb03XYIdMpjM6852-bh82rvb.jpeg)
+Why are so many of us poor at problem solving. Why do we struggle to find root causes? Why after declaring the victory, problem resurfaces?
 
 ### [62. Daily Coding Problem: Computing Big Exponentials](https://hackernoon.com/daily-coding-problem-computing-big-exponentials)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-2y93lq6.jpeg)
@@ -283,13 +287,13 @@ That’s right. There is NO flexbox vs CSS Grid. It’s just flexbox and CSS g
 ![](https://cdn.hackernoon.com/images/YRaBw26oTddAlVDuWlFAngZSlvY2-as93tqt.jpeg)
 Use paperless-ngx to build out the ultimate document storage system!
 
-### [70. Grokking Dynamic Programming (Part 2)](https://hackernoon.com/grokking-dynamic-programming-part-2)
-![](https://cdn.hackernoon.com/images/Y2fAHbtIx0dvnHB1xqBk1zw8SQl1-geb32lp.jpeg)
-Part 2 on my series about dynamic programming problems and coding techniques to solve them.
-
-### [71. Bring me Problems Not Solutions: Why Problem-Centric Leadership is Effective ](https://hackernoon.com/bring-me-problems-not-solutions-why-problem-centric-leadership-is-effective)
+### [70. Bring me Problems Not Solutions: Why Problem-Centric Leadership is Effective ](https://hackernoon.com/bring-me-problems-not-solutions-why-problem-centric-leadership-is-effective)
 ![](https://cdn.hackernoon.com/images/BGxDwa3b3xZ4ElWzxNjNLDk81R02-da930zu.jpeg)
 Explore the limitations of the common leadership mantra "Bring me solutions, not problems." 
+
+### [71. Grokking Dynamic Programming (Part 2)](https://hackernoon.com/grokking-dynamic-programming-part-2)
+![](https://cdn.hackernoon.com/images/Y2fAHbtIx0dvnHB1xqBk1zw8SQl1-geb32lp.jpeg)
+Part 2 on my series about dynamic programming problems and coding techniques to solve them.
 
 ### [72. You Cannot Learn Coding without Problem-Solving Skills](https://hackernoon.com/you-cannot-learn-coding-without-problem-solving-skills)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-t093zlm.jpeg)
@@ -307,115 +311,115 @@ There is a fundamental conflation between what problem-solving means to differen
 ![](https://cdn.hackernoon.com/images/IGXI0VtzPmVCh9D2pnvTqBtHrHJ3-le3b28rt.jpeg)
 This story is my own take on why working solo shouldn't mean you take the easy route as a developer. Sometimes you've got to force yourself to do things to become better at what you do. 
 
-### [76. Automation: Figuring It Out is Just Like Doing a Puzzle](https://hackernoon.com/automation-figuring-it-out-is-just-like-doing-a-puzzle-aa4v3tbn)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIGXI0VtzPmVCh9D2pnvTqBtHrHJ3-2r2d282m.jpeg?alt=media&token=56601b40-ba70-4e63-9193-ccc055a14b9d)
-When you're wondering if something can be automated or not, a way of looking at the situation is like a puzzle. 
-
-### [77. Pay Special Attention to Definitions When Solving a Problem](https://hackernoon.com/pay-special-attention-to-definitions-when-solving-a-problem)
+### [76. Pay Special Attention to Definitions When Solving a Problem](https://hackernoon.com/pay-special-attention-to-definitions-when-solving-a-problem)
 ![](https://cdn.hackernoon.com/images/a-jigsaw-puzzle-almost-solved-aalotp2xw03t0rilvy5jn6zf.png)
 Problem-solving methods span a spectrum from unstructured to highly structured.
 
-### [78. Scrum Teams Thinking Like Millennials is the Way Ahead](https://hackernoon.com/why-it-benefits-scrum-teams-to-think-like-a-millennial-mrpl3yvt)
+### [77. Automation: Figuring It Out is Just Like Doing a Puzzle](https://hackernoon.com/automation-figuring-it-out-is-just-like-doing-a-puzzle-aa4v3tbn)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIGXI0VtzPmVCh9D2pnvTqBtHrHJ3-2r2d282m.jpeg?alt=media&token=56601b40-ba70-4e63-9193-ccc055a14b9d)
+When you're wondering if something can be automated or not, a way of looking at the situation is like a puzzle. 
+
+### [78. The “Brain Hangover” That Ruins Your Afternoon](https://hackernoon.com/the-brain-hangover-that-ruins-your-afternoon)
+![](https://cdn.hackernoon.com/images/qkXA8MX2eJScMSRNgGr3WBlDxfN2-gx83rve.png)
+Naps don’t refresh everyone. For some brains, they trigger fog, irritability, and “brain hangover.” Try the Controlled Downshift Protocol instead.
+
+### [79. Scrum Teams Thinking Like Millennials is the Way Ahead](https://hackernoon.com/why-it-benefits-scrum-teams-to-think-like-a-millennial-mrpl3yvt)
 ![](https://cdn.hackernoon.com/drafts/cjn53yrh.png)
 By Professional Scrum Trainer, John Gillespie, Scrum.org
 
-### [79. How to Solve Engineering Problems Using Scientific Method](https://hackernoon.com/how-to-solve-engineering-problems-using-scientific-method-kd5236fm)
+### [80. The Hidden Cost of “Being Thorough”](https://hackernoon.com/the-hidden-cost-of-being-thorough)
+![](https://cdn.hackernoon.com/images/x21VprIQHYaYrJEbiyMkN7uuOTH2-j403j9c.webp)
+99% of people believe more thinking equals better outcomes. They’re wrong. Learn how high-quality compression separate human intelligence from animals and AI.
+
+### [81. How to Solve Engineering Problems Using Scientific Method](https://hackernoon.com/how-to-solve-engineering-problems-using-scientific-method-kd5236fm)
 ![](https://cdn.hackernoon.com/drafts/xy16p36a1.png)
 On every new software product, feature or project you develop you are bound to come across challenges that don’t have a clear answer at first.
 
-### [80. Simple Advice on How To Complete That Never Ending Task](https://hackernoon.com/simple-advice-on-how-to-complete-that-never-ending-task-eq173tsr)
+### [82. Reflecting on My Year of Consistent Leetcode Practice and Mistakes to Avoid](https://hackernoon.com/reflecting-on-my-year-of-consistent-leetcode-practice-and-mistakes-to-avoid)
+![](https://cdn.hackernoon.com/images/yJx6Jb9xDbaeUH6oktJcQUQy9xR2-5ra33p4.jpeg)
+A year of consistent leetcode practice in improving problem solving skills
+
+### [83. RCA for Tech Managers : How to approach a Product Issue ](https://hackernoon.com/rca-for-tech-managers-how-to-approach-a-product-issue)
+![](https://cdn.hackernoon.com/images/BMCMAVeDVlS30JrkH42Iyxto1T43-h893h3y.jpeg)
+Root Cause Analysis  for Managers
+
+### [84. Simple Advice on How To Complete That Never Ending Task](https://hackernoon.com/simple-advice-on-how-to-complete-that-never-ending-task-eq173tsr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIGXI0VtzPmVCh9D2pnvTqBtHrHJ3-l4n28up.jpeg?alt=media&token=dcc0ccbc-f66b-44c9-b492-c9abfa355529)
 Faced with a mind numbing, insurmountable challenge, you stare at 
 your screen, thinking of all the hours that are about to slip by you as 
 you chip away at the never ending task you’ve been set.                       
 
-### [81. Reflecting on My Year of Consistent Leetcode Practice and Mistakes to Avoid](https://hackernoon.com/reflecting-on-my-year-of-consistent-leetcode-practice-and-mistakes-to-avoid)
-![](https://cdn.hackernoon.com/images/yJx6Jb9xDbaeUH6oktJcQUQy9xR2-5ra33p4.jpeg)
-A year of consistent leetcode practice in improving problem solving skills
-
-### [82. RCA for Tech Managers : How to approach a Product Issue ](https://hackernoon.com/rca-for-tech-managers-how-to-approach-a-product-issue)
-![](https://cdn.hackernoon.com/images/BMCMAVeDVlS30JrkH42Iyxto1T43-h893h3y.jpeg)
-Root Cause Analysis  for Managers
-
-### [83. Why do you need project templates?](https://hackernoon.com/why-do-you-need-project-templates)
+### [85. Why do you need project templates?](https://hackernoon.com/why-do-you-need-project-templates)
 ![](https://cdn.hackernoon.com/images/6WifzFKsrTU6u6nvz13jxc6dQ1O2-3i027bg.png)
 With the ubiquitous use of microservices, docker, k8s, and other containerization technologies, I noticed an interesting change. Microservices - although they can be written in different programming languages, use different databases, cache systems, and other backend technologies, they tend to be uniform. This is a very important and correct step since such services are easy to manage, deploy and maintain.
 
-### [84. Innovative Problem Solving for Developers](https://hackernoon.com/innovative-problem-solving-for-developers)
+### [86. Innovative Problem Solving for Developers](https://hackernoon.com/innovative-problem-solving-for-developers)
 ![](https://cdn.hackernoon.com/images/rTGkuSmEEIdJxS4Bj7H8MUxQhOg2-vz93vd8.jpeg)
 Look into innovative problem-solving techniques tailored for developers. From Design Thinking to interdisciplinary learning, discover tools that fuel creativity
 
-### [85. Become a Problem Solving Machine With 'AI Thinking'—No Neural Implants Necessary!](https://hackernoon.com/become-a-problem-solving-machine-with-ai-thinkingno-neural-implants-necessary)
+### [87. Become a Problem Solving Machine With 'AI Thinking'—No Neural Implants Necessary!](https://hackernoon.com/become-a-problem-solving-machine-with-ai-thinkingno-neural-implants-necessary)
 ![](https://cdn.hackernoon.com/images/TeSquWinJ6XqiqIk34yxhcYr9G02-uz03ddj.png)
 Here’s a step-by-step guide to start thinking in the "AI way."
-
-### [86. The Hidden Cost of “Being Thorough”](https://hackernoon.com/the-hidden-cost-of-being-thorough)
-![](https://cdn.hackernoon.com/images/x21VprIQHYaYrJEbiyMkN7uuOTH2-j403j9c.webp)
-99% of people believe more thinking equals better outcomes. They’re wrong. Learn how high-quality compression separate human intelligence from animals and AI.
-
-### [87. The Case Against Upgradeable Smart Contracts](https://hackernoon.com/the-case-against-upgradeable-smart-contracts)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1d92af6.jpeg)
-The use cases appropriate for upgradeable smart contracts may be narrower than you think. 
 
 ### [88. Creativity and Problem Solving is Required at Every Level](https://hackernoon.com/creativity-and-problem-solving-is-required-at-every-level)
 ![](https://cdn.hackernoon.com/images/F01pqbyFfOYS3G2IfJfOPQ9WpbM2-dg93gzw.jpeg)
 Many times, the best problem solvers in an organization never get a chance to contribute their creativity, so a lot of potential goes undiscovered.
 
-### [89. Working in Agile Environments: The Sprint is Not Just About You](https://hackernoon.com/working-in-agile-environments-the-sprint-is-not-just-about-you)
+### [89. The Case Against Upgradeable Smart Contracts](https://hackernoon.com/the-case-against-upgradeable-smart-contracts)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1d92af6.jpeg)
+The use cases appropriate for upgradeable smart contracts may be narrower than you think. 
+
+### [90. Working in Agile Environments: The Sprint is Not Just About You](https://hackernoon.com/working-in-agile-environments-the-sprint-is-not-just-about-you)
 ![](https://cdn.hackernoon.com/images/TRitLpffkiUte8hEIiq0jTtuhmy2-8f9339x.jpeg)
 The depths of agile sprints, teamwork, and challenges in software development: the sprint is more than you think.
 
-### [90. Users Who Hate Change; Not Pivoting Enough; And Other Product Challenges](https://hackernoon.com/theres-no-place-like-deployed-the-top-4-challenges-facing-pms-mx1kf3weh)
+### [91. Users Who Hate Change; Not Pivoting Enough; And Other Product Challenges](https://hackernoon.com/theres-no-place-like-deployed-the-top-4-challenges-facing-pms-mx1kf3weh)
 ![](https://cdn.hackernoon.com/drafts/rp4l31eq.png)
 
 
-### [91. The Biggest Problems Can’t Be Googled](https://hackernoon.com/the-biggest-problems-cant-be-googled)
+### [92. The Biggest Problems Can’t Be Googled](https://hackernoon.com/the-biggest-problems-cant-be-googled)
 ![](https://cdn.hackernoon.com/images/Mifs5akxaCbafBDLv5tjMtXgGMX2-oo039a9.webp)
 Solving big problems requires new paradigms, not old tools—history shows breakthroughs come from shifting perspectives, not more information. 
 
-### [92. Conquering the Smart Home Beast: A Quest for Better Sleep](https://hackernoon.com/conquering-the-smart-home-beast-a-quest-for-better-sleep)
+### [93. Conquering the Smart Home Beast: A Quest for Better Sleep](https://hackernoon.com/conquering-the-smart-home-beast-a-quest-for-better-sleep)
 ![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-sj83gr3.jpeg)
 My victory over smart devices and insights for tomorrow's tech
 
-### [93. Unleashing Genius: How Bitget's U30 Hackathon Is Changing the Game in Blockchain and AI](https://hackernoon.com/unleashing-genius-how-bitgets-u30-hackathon-is-changing-the-game-in-blockchain-and-ai)
+### [94. Unleashing Genius: How Bitget's U30 Hackathon Is Changing the Game in Blockchain and AI](https://hackernoon.com/unleashing-genius-how-bitgets-u30-hackathon-is-changing-the-game-in-blockchain-and-ai)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-h993usw.jpeg)
 Bitget's U30 Virtual Hackathon is like a grand ball where the world joins hands to find the best talent. 
 
-### [94. A Framework That Will Help You Solve Your Problems The Right Way](https://hackernoon.com/a-framework-that-will-help-you-solve-your-problems-the-right-way)
+### [95. A Framework That Will Help You Solve Your Problems The Right Way](https://hackernoon.com/a-framework-that-will-help-you-solve-your-problems-the-right-way)
 ![](https://cdn.hackernoon.com/images/l9CvmWIChROxVjowyW2j4VzGEW32-j093xbq.jpeg)
 Problems are created by how we contextualize them (mindset) and language (how we speak about them). I offer a reframe to change your relationship to problems
 
-### [95. Stubborn vs. Strategic Approaches to Problem-Solving in Software Development](https://hackernoon.com/stubborn-vs-strategic-approaches-to-problem-solving-in-software-development)
+### [96. Stubborn vs. Strategic Approaches to Problem-Solving in Software Development](https://hackernoon.com/stubborn-vs-strategic-approaches-to-problem-solving-in-software-development)
 ![](https://cdn.hackernoon.com/images/rTGkuSmEEIdJxS4Bj7H8MUxQhOg2-7w93rd0.jpeg)
 Learn from the contrasting problem-solving approaches of two developer profiles. 
 
-### [96. Succeeding at Pre-Sales and Solutions Engineering [The Prerequisites]](https://hackernoon.com/succeeding-at-pre-sales-and-solutions-engineering-the-prerequisites-mr5g3220)
+### [97. Succeeding at Pre-Sales and Solutions Engineering [The Prerequisites]](https://hackernoon.com/succeeding-at-pre-sales-and-solutions-engineering-the-prerequisites-mr5g3220)
 ![](https://cdn.hackernoon.com/drafts/wgsz4y4v.png)
 A lot of the people I know, have been asking me questions regarding pre-sales / Solution engineering and how to succeed in it
 
-### [97. Field Notes from My Journey into Engineering Management](https://hackernoon.com/field-notes-from-my-journey-into-engineering-management-rver3wcl)
-![](https://cdn.hackernoon.com/drafts/rpie32hk.png)
-I am going through what one might call “career puberty”. I’m growing up and moving to an engineering manager role. It’s more of a recognition of a position I reached organically and a job I’ve been de facto doing for some time now, rather than an abrupt change dictated by external factors.
-
-### [98. Crucial Steps Towards Effective Problem Solving In The Workplace](https://hackernoon.com/crucial-steps-towards-effective-problem-solving-in-the-workplace-p61133x9)
-![](https://cdn.hackernoon.com/images/2yRNw8i4Sthf96A5PoMFRjbH9ay2-j1x635af.jpeg)
-Every business - and everyone - encounters problems, whether it's too few customers, a product now working, or a team not functioning as it should.
-
-### [99. A Step By Step Guide To Finding The Best Partner To Outsource From](https://hackernoon.com/a-step-by-step-guide-to-finding-the-best-partner-to-outsource-from)
-![](https://cdn.hackernoon.com/images/j6eEtOxobBXDpeb9sl6pogtfO0o1-jm93jc0.jpeg)
-In this blog, we will discuss some points you should consider to help narrow down the most suitable partner for outsourcing.
-
-### [100. How Builders Think in Multivariate Reality](https://hackernoon.com/how-builders-think-in-multivariate-reality)
+### [98. How Builders Think in Multivariate Reality](https://hackernoon.com/how-builders-think-in-multivariate-reality)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-i68239d.jpeg)
 The "natural" world is not a sanctuary; it is a sequence of variables indifferent to your survival. 
 
-### [101. Harnessing Growth Mindset to Design a Spider Killer](https://hackernoon.com/harnessing-growth-mindset-to-design-a-spider-killer-euz3wpp)
+### [99. Field Notes from My Journey into Engineering Management](https://hackernoon.com/field-notes-from-my-journey-into-engineering-management-rver3wcl)
+![](https://cdn.hackernoon.com/drafts/rpie32hk.png)
+I am going through what one might call “career puberty”. I’m growing up and moving to an engineering manager role. It’s more of a recognition of a position I reached organically and a job I’ve been de facto doing for some time now, rather than an abrupt change dictated by external factors.
+
+### [100. A Step By Step Guide To Finding The Best Partner To Outsource From](https://hackernoon.com/a-step-by-step-guide-to-finding-the-best-partner-to-outsource-from)
+![](https://cdn.hackernoon.com/images/j6eEtOxobBXDpeb9sl6pogtfO0o1-jm93jc0.jpeg)
+In this blog, we will discuss some points you should consider to help narrow down the most suitable partner for outsourcing.
+
+### [101. Crucial Steps Towards Effective Problem Solving In The Workplace](https://hackernoon.com/crucial-steps-towards-effective-problem-solving-in-the-workplace-p61133x9)
+![](https://cdn.hackernoon.com/images/2yRNw8i4Sthf96A5PoMFRjbH9ay2-j1x635af.jpeg)
+Every business - and everyone - encounters problems, whether it's too few customers, a product now working, or a team not functioning as it should.
+
+### [102. Harnessing Growth Mindset to Design a Spider Killer](https://hackernoon.com/harnessing-growth-mindset-to-design-a-spider-killer-euz3wpp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3w7eKCjU7mgvI5Wdpmas4Mc1W4z2-0g1x3wxr.jpeg?alt=media&token=5259ce24-25bb-4597-b493-444f341ac6c5)
 I was in the middle of doing a pilates class over Zoom when I noticed a big spider on the ceiling. I pointed it out to my kids who were in the room with me, but knowing that none of us could reach it, I dismissed it and went back to struggling through “the hundreds”. Around me, the kids also resumed their activity... or so I thought. 
-
-### [102. The “Brain Hangover” That Ruins Your Afternoon](https://hackernoon.com/the-brain-hangover-that-ruins-your-afternoon)
-![](https://cdn.hackernoon.com/images/qkXA8MX2eJScMSRNgGr3WBlDxfN2-gx83rve.png)
-Naps don’t refresh everyone. For some brains, they trigger fog, irritability, and “brain hangover.” Try the Controlled Downshift Protocol instead.
 
 ### [103. Corporate Cybersecurity Should Include Trust, Accountability, and Culture](https://hackernoon.com/corporate-cybersecurity-should-include-trust-accountability-and-culture-u77q3121)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-a9f2550.jpeg)

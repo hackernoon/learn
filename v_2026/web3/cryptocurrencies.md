@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [cryptocurrencies](https://hackernoon.com/tagged/cryptocurrencies)
+### Let's learn about [Cryptocurrencies](https://hackernoon.com/tagged/cryptocurrencies) via these 71 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Comparing different cryptocurrencies from a technical, marketing, and business perspectives is what's up in this Hacker Noon page.
 
 ### [1. The Best Cardano Stake Pool To Stake ADA, & The Pros and Cons of Cardano Staking](https://hackernoon.com/the-pros-and-cons-of-staking-with-cardano-o13m33dg)
@@ -64,21 +66,21 @@ The global gambling market reached a value of nearly $449.3 billion in 2018, hav
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-lh83aj8.jpeg)
 MiCA is live. Bybit survived the biggest crypto hack in history. And trust, in 2026, is something users must verify for themselves - here is how.
 
-### [16. The Bitcoin Drop Explained in Seven Fascinating Blockchain Analytics](https://hackernoon.com/the-bitcoin-drop-explained-in-seven-fascinating-blockchain-analytics-p5n36gk)
-![](https://cdn.hackernoon.com/images/0f8w362f.jpg)
-We are going through one those irrationally bearish moments in the cryptocurrency markets with prices dropping from mid 8000s to low 7000s. A lot of speculation has been created around the macro-factors influencing the downturn. 
-
-### [17. The State of Web3 - Cryptocurrency Exchange Growth and Trading Volume in 2022](https://hackernoon.com/the-state-of-web3-cryptocurrency-exchange-growth-and-trading-volume-in-2022)
+### [16. The State of Web3 - Cryptocurrency Exchange Growth and Trading Volume in 2022](https://hackernoon.com/the-state-of-web3-cryptocurrency-exchange-growth-and-trading-volume-in-2022)
 ![](https://cdn.hackernoon.com/images/PqBokrbZnUh88uMPTuuAuDPfPi53-e593uj3.jpeg)
 Has interest in crypto exchanges grown or shrunk the last 2 years? We pulled market presence and trading volume from 58 different exchanges to find out. 
 
-### [18. WTF is Decentralized Finance or DeFi?](https://hackernoon.com/wtf-is-decentralized-finance-or-defi-wx3f37t8)
-![](https://cdn.hackernoon.com/images/h03u43r3e.jpg)
-1. Well kept billion dollar secret at your fingertips
+### [17. The Bitcoin Drop Explained in Seven Fascinating Blockchain Analytics](https://hackernoon.com/the-bitcoin-drop-explained-in-seven-fascinating-blockchain-analytics-p5n36gk)
+![](https://cdn.hackernoon.com/images/0f8w362f.jpg)
+We are going through one those irrationally bearish moments in the cryptocurrency markets with prices dropping from mid 8000s to low 7000s. A lot of speculation has been created around the macro-factors influencing the downturn. 
 
-### [19. 3 Best Crypto Trading Strategy for Beginners](https://hackernoon.com/3-best-crypto-trading-strategy-for-beginners)
+### [18. 3 Best Crypto Trading Strategy for Beginners](https://hackernoon.com/3-best-crypto-trading-strategy-for-beginners)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-aq83lr6.jpeg)
 Learn profitable crypto strategies for beginners in a bull run. Maximize gains with expert tips and tactics.
+
+### [19. WTF is Decentralized Finance or DeFi?](https://hackernoon.com/wtf-is-decentralized-finance-or-defi-wx3f37t8)
+![](https://cdn.hackernoon.com/images/h03u43r3e.jpg)
+1. Well kept billion dollar secret at your fingertips
 
 ### [20. Perpetual Swaps, Futures, and Contracts — Which One Fits You Best](https://hackernoon.com/perpetual-swaps-futures-and-contracts-which-one-fits-you-best-v01n3ul1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPSgoueQKzPakMmLWu6rewqpcy963-xg333uws.png?alt=media&token=2734e2e1-ece7-4b2f-9569-9cabfecf195b)
@@ -110,13 +112,13 @@ Web3 has been gaining momentum and captivating users from all walks of life. Thi
 ![](https://cdn.hackernoon.com/drafts/e4ju33zv.png)
 Let’s do a quick test, try to think about how many times you’ve heard expressions like this:
 
-### [27. The Various Cryptocurrencies — A Framework to Understanding Crypto-assets](https://hackernoon.com/4-types-of-cryptocurrencies-a-framework-to-think-about-cryptoassets-2fw531xl)
-![](https://cdn.hackernoon.com/images/z65331dq.jpg)
-On coinmarketcap alone, there are 2,347 unique cryptocurrencies listed as of September 3, 2019.
-
-### [28. The Best Crypto Marketing Agencies for Advertising Cryptocurrency Projects in 2022](https://hackernoon.com/the-best-crypto-marketing-agencies-for-advertising-cryptocurrency-projects-in-2022)
+### [27. The Best Crypto Marketing Agencies for Advertising Cryptocurrency Projects in 2022](https://hackernoon.com/the-best-crypto-marketing-agencies-for-advertising-cryptocurrency-projects-in-2022)
 ![](https://cdn.hackernoon.com/images/4FnNVQr5WaVz9Pb3rjDALHRb4XA2-25934qk.jpeg)
 We compiled a list of the best crypto marketing agencies for advertising cryptocurrency projects in 2022. 
+
+### [28. The Various Cryptocurrencies — A Framework to Understanding Crypto-assets](https://hackernoon.com/4-types-of-cryptocurrencies-a-framework-to-think-about-cryptoassets-2fw531xl)
+![](https://cdn.hackernoon.com/images/z65331dq.jpg)
+On coinmarketcap alone, there are 2,347 unique cryptocurrencies listed as of September 3, 2019.
 
 ### [29. Could Cryptocurrencies Soothe International Tensions?](https://hackernoon.com/could-cryptocurrencies-soothe-international-tensions-hi4x32y9)
 ![](https://cdn.hackernoon.com/drafts/891kb3y3l.png)
@@ -126,13 +128,13 @@ It’s natural to think about the potential growth and profitability of cryptocu
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-i613o6n.jpeg)
 This article covers everything you need to know about the process, history, and principles behind Bitcoin mining.
 
-### [31. How To Do Fundamental Analysis Like A Pro](https://hackernoon.com/how-to-do-fundamental-analysis-like-a-pro)
-![](https://cdn.hackernoon.com/images/YdTMbinvwEhCSbsv31LViVRHHX32-34931gy.jpeg)
-By the time you're done reading this article, you will understand the concept of fundamental analysis in cryptocurrency projects.
-
-### [32. Blockchain defies a key UX tenet ](https://hackernoon.com/blockchain-defies-a-key-ux-tenet)
+### [31. Blockchain defies a key UX tenet ](https://hackernoon.com/blockchain-defies-a-key-ux-tenet)
 ![](https://cdn.hackernoon.com/images/MSN030FMY6ePSy6JfNwanDTuLRk1-yta3hp7.jpeg)
 Foreseeing and preventing user errors is a good and time-honored staple of UX design. Should blockchain defy that?
+
+### [32. How To Do Fundamental Analysis Like A Pro](https://hackernoon.com/how-to-do-fundamental-analysis-like-a-pro)
+![](https://cdn.hackernoon.com/images/YdTMbinvwEhCSbsv31LViVRHHX32-34931gy.jpeg)
+By the time you're done reading this article, you will understand the concept of fundamental analysis in cryptocurrency projects.
 
 ### [33. Is It Too Late To Buy Cryptocurrencies, Or Is 2022 The Perfect Year To Invest?](https://hackernoon.com/is-it-too-late-to-buy-cryptocurrencies-or-is-2022-the-perfect-year-to-invest)
 ![](https://cdn.hackernoon.com/images/skssOeH48yQNdDqRAn28z8IHu6i1-ea93o2x.jpeg)
@@ -182,26 +184,26 @@ Crypto exchanges are online platforms where you can buy, sell, or trade cryptocu
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-7982mv1.jpeg)
 Explore the power of Zero-Knowledge Proofs in blockchain, enhancing privacy and trust in smart contracts. Cryptocurrency, Groth16, and more.
 
-### [45. What Centralized Exchanges Tell Us About Crypto Investors](https://hackernoon.com/what-centralized-exchanges-tell-us-about-crypto-investors-7m4a33ir)
-![](https://cdn.hackernoon.com/images/uqr330r.jpg)
-When comes to trading, centralized exchange rule the crypto market. Based on some of the work we have done at IntoTheBlock, we believe around 40% of the daily volume in major cryptocurrencies is processed through centralized exchanges. Sadly, centralized exchanges are also one of the most difficult components to analyze in the crypto space and a regular source of poor/fake data. 
-
-### [46. 7 Reasons Why Ethereum is Worth Buying](https://hackernoon.com/7-reasons-why-ethereum-is-worth-buying)
+### [45. 7 Reasons Why Ethereum is Worth Buying](https://hackernoon.com/7-reasons-why-ethereum-is-worth-buying)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-1x93p9b.jpeg)
 Ethereum has a lot of potentials, and here are just a few reasons why it might be worth buying into.
 
+
+### [46. What Centralized Exchanges Tell Us About Crypto Investors](https://hackernoon.com/what-centralized-exchanges-tell-us-about-crypto-investors-7m4a33ir)
+![](https://cdn.hackernoon.com/images/uqr330r.jpg)
+When comes to trading, centralized exchange rule the crypto market. Based on some of the work we have done at IntoTheBlock, we believe around 40% of the daily volume in major cryptocurrencies is processed through centralized exchanges. Sadly, centralized exchanges are also one of the most difficult components to analyze in the crypto space and a regular source of poor/fake data. 
 
 ### [47. Is "Depopulation" of Cryptocurrencies a Necessary Evil?](https://hackernoon.com/is-depopulation-of-cryptocurrencies-a-necessary-evil)
 ![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-ty92hub.jpeg)
 All Cryptocurrencies Are Equal, But Some Cryptocurrencies Are More Equal Than Others!
 
-### [48. Hybrid Trading Platforms - Meet Your Newest Competitor](https://hackernoon.com/meet-synchrobit-the-latest-addition-to-the-growing-world-of-blockchain-hybrid-trading-platforms-oiq17av)
-![](https://cdn.hackernoon.com/drafts/fqbx14cl.png)
-Digital asset trading platforms or cryptocurrency exchanges have been a hot topic in the blockchain industry and will continue to be so as long as the industry exists. According to statistics, there are about 2004 Listed cryptocurrencies on CoinMarketCap, which are tradable in about 14287 markets with a total market cap of USD 222.8 Billion, this creates a daily trade volume of USD 14 Billion. 
-
-### [49. Data Reduction in Preparation for Lightweight Machine Learning: Applied in Foreign Exchange Trading](https://hackernoon.com/data-reduction-in-preparation-for-lightweight-machine-learning-applied-in-foreign-exchange-trading-nk553adu)
+### [48. Data Reduction in Preparation for Lightweight Machine Learning: Applied in Foreign Exchange Trading](https://hackernoon.com/data-reduction-in-preparation-for-lightweight-machine-learning-applied-in-foreign-exchange-trading-nk553adu)
 ![](https://cdn.hackernoon.com/drafts/wn1ix1av6.png)
 1. Introduction
+
+### [49. Hybrid Trading Platforms - Meet Your Newest Competitor](https://hackernoon.com/meet-synchrobit-the-latest-addition-to-the-growing-world-of-blockchain-hybrid-trading-platforms-oiq17av)
+![](https://cdn.hackernoon.com/drafts/fqbx14cl.png)
+Digital asset trading platforms or cryptocurrency exchanges have been a hot topic in the blockchain industry and will continue to be so as long as the industry exists. According to statistics, there are about 2004 Listed cryptocurrencies on CoinMarketCap, which are tradable in about 14287 markets with a total market cap of USD 222.8 Billion, this creates a daily trade volume of USD 14 Billion. 
 
 ### [50. The Crypto Paradox: ICO failures, and the rise of STOs — 2019](https://hackernoon.com/the-crypto-paradox-and-why-are-they-failing-50f4ba01c7bb)
 ![](https://cdn.hackernoon.com/images/jk1l3wet.jpg)
@@ -259,13 +261,13 @@ Decentralized finance differentiates itself from the traditional financial incen
 ![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-pxa32t2.jpeg)
 Equip yourself with a mental framework to rise above & shine brighter than ever before! 
 
-### [64. The Elephant in the Crypto-Analysis Room: Counterparty Intelligence](https://hackernoon.com/the-elephant-in-the-crypto-analysis-room-counterparty-intelligence-q76z3dts)
-![](https://cdn.hackernoon.com/drafts/7i6f3dc8.png)
-The analytics shown in this article have been generated by the IntoTheBlock platform.
-
-### [65. Robert F. Kennedy Pits CBDCs Against Cryptocurrencies in the American Political Arena](https://hackernoon.com/robert-f-kennedy-pits-cbdcs-against-cryptocurrencies-in-the-american-political-arena)
+### [64. Robert F. Kennedy Pits CBDCs Against Cryptocurrencies in the American Political Arena](https://hackernoon.com/robert-f-kennedy-pits-cbdcs-against-cryptocurrencies-in-the-american-political-arena)
 ![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-jra3vxe.jpeg)
 Let's hope that the general public understands the urgency to act to protect themselves against the Central Bank Digital Currencies.
+
+### [65. The Elephant in the Crypto-Analysis Room: Counterparty Intelligence](https://hackernoon.com/the-elephant-in-the-crypto-analysis-room-counterparty-intelligence-q76z3dts)
+![](https://cdn.hackernoon.com/drafts/7i6f3dc8.png)
+The analytics shown in this article have been generated by the IntoTheBlock platform.
 
 ### [66. VALR CMO Ben Caselin Reveals How Digital Assets are Reshaping Finance in Unexpected Ways](https://hackernoon.com/valr-cmo-ben-caselin-reveals-how-digital-assets-are-reshaping-finance-in-unexpected-ways)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-yp834vb.jpeg)
@@ -279,13 +281,13 @@ Financialization will bring new risks and will increase third party custody well
 ![](https://cdn.hackernoon.com/images/github/cryptocurrencies-893.png)
 Learn everything you need to know about Cryptocurrencies via these 60 free HackerNoon stories.
 
-### [69. Economic Interests Trump Technical Improvements...Always](https://hackernoon.com/economic-over-technical-improvements-d71k32pr)
-![](https://cdn.hackernoon.com/drafts/qu3f32cr.png)
-When considering the attributes of candidate cryptocurrencies, you should always prefer economic over technical improvements. The obvious example is Bitcoin, which over the years I have been active in crypto (2011-Present), has lost about half its market cap to altcoins. 
-
-### [70. How to Avoid Cryptocurrency Fraud](https://hackernoon.com/how-to-avoid-cryptocurrency-fraud)
+### [69. How to Avoid Cryptocurrency Fraud](https://hackernoon.com/how-to-avoid-cryptocurrency-fraud)
 ![](https://cdn.hackernoon.com/images/DqCGqXbgcuR2ygH0QXbn8drntR82-1592n8z.jpeg)
 The safest way to invest in a new cryptocurrency like Puppy coin is by searching a lot and trust nobody offering easy ways to gain money.
+
+### [70. Economic Interests Trump Technical Improvements...Always](https://hackernoon.com/economic-over-technical-improvements-d71k32pr)
+![](https://cdn.hackernoon.com/drafts/qu3f32cr.png)
+When considering the attributes of candidate cryptocurrencies, you should always prefer economic over technical improvements. The obvious example is Bitcoin, which over the years I have been active in crypto (2011-Present), has lost about half its market cap to altcoins. 
 
 ### [71. Can you trust the price? What’s behind crypto’s irrational markets](https://hackernoon.com/can-you-trust-the-price-whats-behind-cryptos-irrational-markets-w4p934rn)
 ![](https://cdn.hackernoon.com/images/ygp434rp.jpg)

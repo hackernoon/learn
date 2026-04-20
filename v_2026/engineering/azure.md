@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [azure](https://hackernoon.com/tagged/azure)
+### Let's learn about [Azure](https://hackernoon.com/tagged/azure) via these 140 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Azure is Microsoft's cloud computing platform, offering a vast array of services for building, deploying, and managing applications and services through a global network of data centers. It matters by providing scalable, flexible, and secure infrastructure that empowers businesses to innovate and operate globally without managing physical hardware.
+
 ### [1. Logging in Azure with Application Insights and Serilog](https://hackernoon.com/logging-in-azure-with-application-insights-and-serilog)
 ![](https://cdn.hackernoon.com/images/FUmMuBwNhpPp6qgj0iLHAWTb8SH3-nag2k3k.jpeg)
 This article reviews in details various aspects to make Application Insights and Serilog combination shine and bring real value to the logs.
@@ -145,13 +149,13 @@ Many Deep learning or Machine Learning projects require GPU acceleration, and ge
 ![](https://cdn.hackernoon.com/images/rD3ZPSbOTDVcZgugSUvaEY2oV0x1-80b3pwc.jpeg)
 In this article, we'll explore common pitfalls and potential solutions when working with TypeScript (using ts-node) in Azure Serverless Development Pipelines. T
 
-### [37. This One Python Tool Fixed My AI's Function-Calling Chaos](https://hackernoon.com/this-one-python-tool-fixed-my-ais-function-calling-chaos)
-![](https://cdn.hackernoon.com/images/8HKl6FNr4PcR7BVek2SN7D8BNL42-c0038dd.png)
-Learn how to tame unpredictable AI outputs with Pydantic validation. This guide shows how to enforce consistent JSON structures from function calling. 
-
-### [38. Implementing Blue/Green Deployments with Azure Web Apps for Containers](https://hackernoon.com/implementing-bluegreen-deployments-with-azure-web-apps-for-containers)
+### [37. Implementing Blue/Green Deployments with Azure Web Apps for Containers](https://hackernoon.com/implementing-bluegreen-deployments-with-azure-web-apps-for-containers)
 ![](https://cdn.hackernoon.com/images/pffQtygCu8Uaa9SSArIb41t2PYU2-v6a3h2p.jpeg)
 Using Deployment slots, we can perform Blue/Green deployments in Azure App Service to achieve zero-downtime deployments for our containerized workloads.
+
+### [38. This One Python Tool Fixed My AI's Function-Calling Chaos](https://hackernoon.com/this-one-python-tool-fixed-my-ais-function-calling-chaos)
+![](https://cdn.hackernoon.com/images/8HKl6FNr4PcR7BVek2SN7D8BNL42-c0038dd.png)
+Learn how to tame unpredictable AI outputs with Pydantic validation. This guide shows how to enforce consistent JSON structures from function calling. 
 
 ### [39. Beginner's Guide to Deploying a Spring Boot App to Azure App Service](https://hackernoon.com/beginners-guide-to-deploying-a-spring-boot-app-to-azure-app-service-6i393w63)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnhqEdP9ERCRp7J5czNOC8UWdo1R2-qt153w2j.jpeg?alt=media&token=b494a8c4-6a39-4d57-9de1-408d07772cc6)
@@ -218,13 +222,13 @@ Follow these steps to understand how to deploy a CakePHP application to the clou
 ![](https://cdn.hackernoon.com/images/XCbLxne4HhcBPlbrrFbTNz5DUGv1-arh30jb.png)
 The story is about how fast to create and deploy ASP.NET Core web applications to Azure.
 
-### [55. Cloud Wars: AWS Vs. Azure Vs. Google Cloud](https://hackernoon.com/cloud-wars-aws-vs-azure-vs-google-cloud)
-![](https://cdn.hackernoon.com/images/n7kMM88Yy0ObPsFg7DEK5Gh81gu1-5a93jwj.jpeg)
-AWS, Azure, and Google Cloud are three cloud services that are the creations of three large worldwide corporations with a global customer base and a constant commitment to improving their services andproducts.
-
-### [56. Azure SQL Benchmark : Comparing Performances Between DTU and vCore](https://hackernoon.com/azure-sql-benchmark-comparing-performances-between-dtu-and-vcore)
+### [55. Azure SQL Benchmark : Comparing Performances Between DTU and vCore](https://hackernoon.com/azure-sql-benchmark-comparing-performances-between-dtu-and-vcore)
 ![](https://cdn.hackernoon.com/images/4DGIyKM0CWN1POpVJajjg4wtAWx1-irf36ka.png)
 Compare performance of Azure SQL offerings - DTU vs. vCore
+
+### [56. Cloud Wars: AWS Vs. Azure Vs. Google Cloud](https://hackernoon.com/cloud-wars-aws-vs-azure-vs-google-cloud)
+![](https://cdn.hackernoon.com/images/n7kMM88Yy0ObPsFg7DEK5Gh81gu1-5a93jwj.jpeg)
+AWS, Azure, and Google Cloud are three cloud services that are the creations of three large worldwide corporations with a global customer base and a constant commitment to improving their services andproducts.
 
 ### [57. Efficient AKS Cluster Provisioning in a Virtual Network Using Terraform](https://hackernoon.com/efficient-aks-cluster-provisioning-in-a-virtual-network-using-terraform)
 ![](https://cdn.hackernoon.com/images/ywCyl8mvkZWzqsISZFO2B08cv812-b3b3u3g.jpeg)
@@ -234,47 +238,47 @@ Hello readers! Today, we're going to walk you through creating an AKS cluster wi
 ![](https://cdn.hackernoon.com/images/4XrSo13GYXUPH3a6ZZykmeIAJqA3-0u023pr.png)
 A technical deep-dive into building conversational AI interfaces for enterprise ITSM systems using a three-stage multi-agent pipeline. 
 
-### [59. SQL Server container in Azure Kubernetes Services (AKS)](https://hackernoon.com/sql-server-container-in-azure-kubernetes-services-aks-sh713va3)
-![](https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-So recently I got involved with an ASP.NET project which was build over 10 years ago and over the years Developers and Change Requests came and went. And over the period the Application became quite cumbersome and quite hard to understand and manage, the Application became quite large in terms of functionality, codebase and data.
+### [59. Multi-Cloud Load Balancers, Explained: AWS vs GCP vs Azure (L4, L7, and Global Edge)](https://hackernoon.com/multi-cloud-load-balancers-explained-aws-vs-gcp-vs-azure-l4-l7-and-global-edge)
+![](https://cdn.hackernoon.com/images/ywCyl8mvkZWzqsISZFO2B08cv812-5703dqh.png)
+Choosing the right load balancer can make or break your application’s performance, scalability, and cost efficiency.
 
 ### [60. Fast Prototyping With Azure Functions and TDD](https://hackernoon.com/fast-prototyping-with-azure-functions-and-tdd-m7xb32c2)
 ![](https://cdn.hackernoon.com/images/loic32g3.jpg)
 I Had an Idea
 
-### [61. Simple Steps To Connect SQL Azure To SSMS](https://hackernoon.com/simple-steps-to-connect-sql-azure-to-ssms-sk1l349f)
+### [61. SQL Server container in Azure Kubernetes Services (AKS)](https://hackernoon.com/sql-server-container-in-azure-kubernetes-services-aks-sh713va3)
+![](https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+So recently I got involved with an ASP.NET project which was build over 10 years ago and over the years Developers and Change Requests came and went. And over the period the Application became quite cumbersome and quite hard to understand and manage, the Application became quite large in terms of functionality, codebase and data.
+
+### [62. Simple Steps To Connect SQL Azure To SSMS](https://hackernoon.com/simple-steps-to-connect-sql-azure-to-ssms-sk1l349f)
 ![](https://hackernoon.com/images/q3gYlp9SrIY4C2XKyEGWnV36ykq1-knlj34oq.jpeg)
 Find out easy and sequential process on how to connect to Azure SQL Server and create a database using SQL Server Management Studio.
-
-### [62. Migration On-Premises Application to Serverless](https://hackernoon.com/migration-on-premises-application-to-serverless-72w32ju)
-![](https://images.unsplash.com/photo-1574027542338-98e75acfd385?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Note: This article covers everything that I present in Viet Nam Web Summit 2019 (VNWS2019) — the biggest event of Viet Nam IT Community.
-
-Nowadays, “Serverless” keyword becomes very popular. Serverless is changing how developers and companies alike approach delivering business value using the public cloud. You can easily find a dozen of articles regarding this keyword. However, I’m pretty sure that, there are not too many articles show you step-by-step to migrate an On-Premises application to Serverless, but in this article, I will do!
 
 ### [63. How to Create and Connecting Redis to a Serverless Node.js App on Azure](https://hackernoon.com/how-to-create-and-connecting-redis-to-a-serverless-nodejs-app-on-azure)
 ![](https://cdn.hackernoon.com/images/rD3ZPSbOTDVcZgugSUvaEY2oV0x1-6le3rfb.jpeg)
 Hello, everyone! Today, we'll be diving into the fascinating world of software development, specifically dealing with Node.js, Azure and Redis.
 
-### [64. A Complete Inventory of Your AWS Footprint in 5 Minutes](https://hackernoon.com/a-complete-inventory-of-your-aws-footprint-in-5-minutes)
+### [64. Migration On-Premises Application to Serverless](https://hackernoon.com/migration-on-premises-application-to-serverless-72w32ju)
+![](https://images.unsplash.com/photo-1574027542338-98e75acfd385?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Note: This article covers everything that I present in Viet Nam Web Summit 2019 (VNWS2019) — the biggest event of Viet Nam IT Community.
+
+Nowadays, “Serverless” keyword becomes very popular. Serverless is changing how developers and companies alike approach delivering business value using the public cloud. You can easily find a dozen of articles regarding this keyword. However, I’m pretty sure that, there are not too many articles show you step-by-step to migrate an On-Premises application to Serverless, but in this article, I will do!
+
+### [65. A Complete Inventory of Your AWS Footprint in 5 Minutes](https://hackernoon.com/a-complete-inventory-of-your-aws-footprint-in-5-minutes)
 ![](https://cdn.hackernoon.com/images/inYqfEO5e8bPAi12uYQmGNEVE7s1-mya3jan.png)
 Multi-cloud asset inventory for AWS, Azure, GCP. 
 
-### [65. Creating and Provisioning Azure Container Apps with Bicep](https://hackernoon.com/creating-and-provisioning-azure-container-apps-with-bicep)
+### [66. Creating and Provisioning Azure Container Apps with Bicep](https://hackernoon.com/creating-and-provisioning-azure-container-apps-with-bicep)
 ![](https://cdn.hackernoon.com/images/pffQtygCu8Uaa9SSArIb41t2PYU2-9fb3hlw.jpeg)
 Using Bicep, we can deploy Azure Container Apps quickly and easily!
 
-### [66. Azure's Perfect Storm: Unraveling the Biggest Cloud Disaster of 2024](https://hackernoon.com/azures-perfect-storm-unraveling-the-biggest-cloud-disaster-of-2024)
+### [67. Azure's Perfect Storm: Unraveling the Biggest Cloud Disaster of 2024](https://hackernoon.com/azures-perfect-storm-unraveling-the-biggest-cloud-disaster-of-2024)
 ![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-1w823mr.jpeg)
 On July 19, 2024, Microsoft’s Azure cloud services experienced a significant outage, causing widespread disruption.
 
-### [67. How to Create an Azure API Management Instance using Bicep Lang via Azure DevOps](https://hackernoon.com/how-to-create-an-azure-api-management-instance-using-bicep-lang-via-azure-devops-9s2t379d)
+### [68. How to Create an Azure API Management Instance using Bicep Lang via Azure DevOps](https://hackernoon.com/how-to-create-an-azure-api-management-instance-using-bicep-lang-via-azure-devops-9s2t379d)
 ![](https://cdn.hackernoon.com/images/pffQtygCu8Uaa9SSArIb41t2PYU2-rn3z35ko.jpeg)
 The more I use Bicep, the more I love it. This is what ARM Templates should have been.
-
-### [68. Multi-Cloud Load Balancers, Explained: AWS vs GCP vs Azure (L4, L7, and Global Edge)](https://hackernoon.com/multi-cloud-load-balancers-explained-aws-vs-gcp-vs-azure-l4-l7-and-global-edge)
-![](https://cdn.hackernoon.com/images/ywCyl8mvkZWzqsISZFO2B08cv812-5703dqh.png)
-Choosing the right load balancer can make or break your application’s performance, scalability, and cost efficiency.
 
 ### [69. AWS Vs. Azure: Key Differences and Business Benefits](https://hackernoon.com/aws-vs-azure-key-differences-and-business-benefits-8h1a3u3l)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ff5S47h91gKSLad1A8Zqp7eltQGk1-i91j3uph.png?alt=media&token=fbad0377-59b8-4072-a20c-e87df7c88d90)
@@ -304,14 +308,14 @@ Amazon Web Services (AWS) had a second in a row-major outage a few days ago. Mos
 ![](https://cdn.hackernoon.com/images/cjjYJETrsAWBPcQEbEiwuqRfna82-wy3a35vj.jpeg)
 How to choose the right cloud provider for your business? Read this updated 2021 pricing comparison for AWS vs. Azure vs. Google Cloud.
 
-### [76. An Invitation to Hack Microsoft’s Azure Security Lab.](https://hackernoon.com/an-invitation-to-hack-microsofts-azure-security-lab-n8bt3z9f)
-![](https://cdn.hackernoon.com/drafts/2q1l3zi4.png)
-Disclaimer: I am not sponsored by anyway from Microsoft's Azure Team.
-
-### [77. Building Secure and Performant Web Applications Using Azure AD and .NET Core Identity on macOS](https://hackernoon.com/building-secure-and-performant-web-applications-using-azure-ad-and-net-core-identity-on-macos)
+### [76. Building Secure and Performant Web Applications Using Azure AD and .NET Core Identity on macOS](https://hackernoon.com/building-secure-and-performant-web-applications-using-azure-ad-and-net-core-identity-on-macos)
 ![](https://cdn.hackernoon.com/images/wjBObpDSbYZBVD1KyZtkr6I5Ywf2-lk83ebt.png)
 Secure and scalable web apps using Azure AD and .NET Core Identity on macOS with strong authentication and performance.
 
+
+### [77. An Invitation to Hack Microsoft’s Azure Security Lab.](https://hackernoon.com/an-invitation-to-hack-microsofts-azure-security-lab-n8bt3z9f)
+![](https://cdn.hackernoon.com/drafts/2q1l3zi4.png)
+Disclaimer: I am not sponsored by anyway from Microsoft's Azure Team.
 
 ### [78. Enable Additional Logs in Azure Pipeline Execution With This Guide](https://hackernoon.com/enable-additional-logs-in-azure-pipeline-execution-with-this-guide)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ok02tkc.jpeg)
@@ -325,17 +329,17 @@ Dive into the new year’s top cloud and infra-tech trends, straight from a clou
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-rd037un.jpeg)
 This article will explain how to build serverless functions on the primary cloud providers services: Azure and AWS.
 
-### [81. Golang: A Short History of My Tech Journey](https://hackernoon.com/golang-a-short-history-of-my-tech-journey-qkaz3tdo)
+### [81. Using Jupyter/TensorBoard In Any Cloud With One Command](https://hackernoon.com/using-jupytertensorboard-in-any-cloud-with-one-command)
+![](https://cdn.hackernoon.com/images/BuASZbCAPqalkbvP6IvRsW0XlWf2-36i2bm2.jpeg)
+Using Terraform Provider Iterative for bespoke Machine Learning & Data Science on AWS, Azure, GCP and K8s
+
+### [82. Golang: A Short History of My Tech Journey](https://hackernoon.com/golang-a-short-history-of-my-tech-journey-qkaz3tdo)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-al6c3tx8.jpeg?alt=media&token=9d3b3db4-def7-4187-af59-da18cc92a0eb)
 The journey of a thousand miles begins with a single step. That's how everything in our tech journey begins. We all got here with a single step, that slowly became multiple steps. Before we know it, we are a thousand miles in. When I first started my career, I was in helpdesk. Now, I’m a developer advocate. The way that happened was with thousands of steps.
 
-### [82. Automating SwaggerHub User Management with Azure AD, Microsoft Graph, and Azure Functions](https://hackernoon.com/automating-swaggerhub-user-management-with-azure-ad-microsoft-graph-and-azure-functions)
+### [83. Automating SwaggerHub User Management with Azure AD, Microsoft Graph, and Azure Functions](https://hackernoon.com/automating-swaggerhub-user-management-with-azure-ad-microsoft-graph-and-azure-functions)
 ![](https://cdn.hackernoon.com/images/PpopDh7l1CQ6N7nMbjq72sFVAUf1-0x839rx.jpeg)
 How to automate SwaggerHub user management with a mixture of Microsoft services including Azure and Graph with an API to keep things simple for developers.
-
-### [83. Using Jupyter/TensorBoard In Any Cloud With One Command](https://hackernoon.com/using-jupytertensorboard-in-any-cloud-with-one-command)
-![](https://cdn.hackernoon.com/images/BuASZbCAPqalkbvP6IvRsW0XlWf2-36i2bm2.jpeg)
-Using Terraform Provider Iterative for bespoke Machine Learning & Data Science on AWS, Azure, GCP and K8s
 
 ### [84. CAST AI vs. Spot.io: Two Approaches to Automated Cloud Cost Optimization](https://hackernoon.com/cast-ai-vs-spotio-two-approaches-to-automated-cloud-cost-optimization)
 ![](https://cdn.hackernoon.com/images/cjjYJETrsAWBPcQEbEiwuqRfna82-6c2os3547.jpeg)
@@ -373,25 +377,25 @@ We dig into how to continuously run Locust to ensure your deployments meet the m
 ![](https://cdn.hackernoon.com/drafts/7y6d3yk9.png)
 The sky is the limit with Azure ARC. Networking for your business can mean more than just getting servers and connecting them together. It can mean creating, developing, and evolving solutions to address your business' IT infrastructure needs.
 
-### [93. Terraform State Management: A Deep Dive Beyond the Basics for Azure Deployments](https://hackernoon.com/terraform-state-management-a-deep-dive-beyond-the-basics-for-azure-deployments)
-![](https://cdn.hackernoon.com/images/8HKl6FNr4PcR7BVek2SN7D8BNL42-yh136wn.jpeg)
-Discover Terraform state management strategies for Azure deployments that go beyond basics to ensure security, scalability, and resilience at enterprise
-
-### [94. Using Azure SignalR Service In DotNetify](https://hackernoon.com/using-azure-signalr-service-in-dotnetify-myy33cz)
+### [93. Using Azure SignalR Service In DotNetify](https://hackernoon.com/using-azure-signalr-service-in-dotnetify-myy33cz)
 ![](https://cdn.hackernoon.com/images/7ezgpQALEDUxT0GWyNN2szHCP0l2-35813zfr.jpeg)
 How dotNetify implemented horizontal scaling of SignalR apps with proxy instead of a backplane.
 
-### [95. Replacing Service Principal Secrets in Crossplane with Azure Workload Identity Federation](https://hackernoon.com/replacing-service-principal-secrets-in-crossplane-with-azure-workload-identity-federation)
+### [94. Replacing Service Principal Secrets in Crossplane with Azure Workload Identity Federation](https://hackernoon.com/replacing-service-principal-secrets-in-crossplane-with-azure-workload-identity-federation)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2c024ql.jpeg)
 When using Crossplane to provision Azure resources from Kubernetes, authentication becomes a critical challenge.
 
-### [96. Building a Custom Solution for Financial Analytics](https://hackernoon.com/building-a-custom-solution-for-financial-analytics)
-![](https://cdn.hackernoon.com/images/fxFqv8scuCZQKHnuHsaf8Nb30wR2-sq03ojq.jpeg)
-The success of financial services is highly dependent on data accuracy and analytics. Creating a custom solution helps to overcome this challenge.
+### [95. Terraform State Management: A Deep Dive Beyond the Basics for Azure Deployments](https://hackernoon.com/terraform-state-management-a-deep-dive-beyond-the-basics-for-azure-deployments)
+![](https://cdn.hackernoon.com/images/8HKl6FNr4PcR7BVek2SN7D8BNL42-yh136wn.jpeg)
+Discover Terraform state management strategies for Azure deployments that go beyond basics to ensure security, scalability, and resilience at enterprise
 
-### [97. Brewing Observability Insights: What LinkedIn, Netflix, and eBay Taught Me at Monitorama 2024](https://hackernoon.com/brewing-observability-insights-what-linkedin-netflix-and-ebay-taught-me-at-monitorama-2024)
+### [96. Brewing Observability Insights: What LinkedIn, Netflix, and eBay Taught Me at Monitorama 2024](https://hackernoon.com/brewing-observability-insights-what-linkedin-netflix-and-ebay-taught-me-at-monitorama-2024)
 ![](https://cdn.hackernoon.com/images/NJOIwiz8UeXYqPiHqbg3I9xK7J82-wp039tb.jpeg)
 A Senior Product Manager's perspective on Portland's premier monitoring conference.
+
+### [97. Building a Custom Solution for Financial Analytics](https://hackernoon.com/building-a-custom-solution-for-financial-analytics)
+![](https://cdn.hackernoon.com/images/fxFqv8scuCZQKHnuHsaf8Nb30wR2-sq03ojq.jpeg)
+The success of financial services is highly dependent on data accuracy and analytics. Creating a custom solution helps to overcome this challenge.
 
 ### [98. The State of Cloud Automation and the Promise of Infrastructure Automation](https://hackernoon.com/the-state-of-cloud-automation-10k325l)
 ![](https://cdn.hackernoon.com/images/m81e323x.jpg)
@@ -401,38 +405,38 @@ The Cloud has become a familiar feature of the tech stacks at most organizations
 ![](https://cdn.hackernoon.com/images/gl5q369u.jpg)
 Every big Cloud service provider offers you guaranteed SLAs availability about 99.95 %, and this percentage of availability can make you think that cloud is perfect for a SQL Server deployment which requires High Availability. Azure and AWS are the two giants of cloud services, and their geographical distribution of data centers can leverage you to think of cloud for a SQL server development configured with disaster recovery.
 
-### [100. Simplifying Domain Management with Azure Front Door: A Step-by-Step Guide](https://hackernoon.com/simplifying-domain-management-with-azure-front-door-a-step-by-step-guide)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8n023lk.jpeg)
-Managing multiple Azure resources with custom domains can quickly become messy.
-
-### [101. Microsoft Azure Certifications: What is the difference between AZ-303 and AZ-304?](https://hackernoon.com/microsoft-azure-certifications-what-is-the-difference-between-az-303-and-az-304)
+### [100. Microsoft Azure Certifications: What is the difference between AZ-303 and AZ-304?](https://hackernoon.com/microsoft-azure-certifications-what-is-the-difference-between-az-303-and-az-304)
 ![](https://cdn.hackernoon.com/images/JScpukZ2R3dsxRfR6bRlQTMA2a83-fw3365h.jpeg)
 Cloud computing has become one of the most important features of the modern IT industry. Every client needs to have their application highly scalable.
+
+### [101. How to Set up GitHub Enterprise Server on Azure (for Dummies)](https://hackernoon.com/how-to-set-up-github-enterprise-server-on-azure-for-dummies)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2192gt4.png)
+The easiest way to install GitHub Enterprise Server on Azure! A simple to-do list to create your first virtual machine on Azure. 
 
 ### [102. How to Get Started With Azure OpenAI Services](https://hackernoon.com/how-to-get-started-with-azure-openai-services)
 ![](https://cdn.hackernoon.com/images/cdMRGNEQvZYT6a1loPqyXOS12xM2-3ta3p4p.jpeg)
 This is the first article of a series on Azure OpenAI Services. This article describes how to start and brings you directly to Azure OpenAI Service Studio.
 
-### [103. How to Set up GitHub Enterprise Server on Azure (for Dummies)](https://hackernoon.com/how-to-set-up-github-enterprise-server-on-azure-for-dummies)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2192gt4.png)
-The easiest way to install GitHub Enterprise Server on Azure! A simple to-do list to create your first virtual machine on Azure. 
-
-### [104. How to Fix 401 Unauthorized Errors in Dockerized Azure Functions](https://hackernoon.com/how-to-fix-401-unauthorized-errors-in-dockerized-azure-functions)
+### [103. How to Fix 401 Unauthorized Errors in Dockerized Azure Functions](https://hackernoon.com/how-to-fix-401-unauthorized-errors-in-dockerized-azure-functions)
 ![](https://cdn.hackernoon.com/images/code-displayed-on-a-laptop-screen-okeo45qqq4xzn1nnlcv68l64.png)
 Fixing 401 errors in Dockerized Azure Functions requires switching from file-based to blob-based secret storage. Learn why this happens and how to resolve it.
 
-### [105. How to Build Token Refresh Service for the Fitbit API in Azure](https://hackernoon.com/how-to-build-token-refresh-service-for-the-fitbit-api-in-azure-b87x35eb)
+### [104. How to Build Token Refresh Service for the Fitbit API in Azure](https://hackernoon.com/how-to-build-token-refresh-service-for-the-fitbit-api-in-azure-b87x35eb)
 ![](https://cdn.hackernoon.com/images/pffQtygCu8Uaa9SSArIb41t2PYU2-8i5k350p.jpeg)
 We can generate a refresh and access token required to call the Fitbit API programmatically with a simple Timer trigger function in Azure.
 
 
-### [106. A Quick Overview of Active Directory (AD) and Azure Active Directory (AAD)](https://hackernoon.com/a-quick-overview-of-active-directory-ad-and-azure-active-directory-aad)
+### [105. A Quick Overview of Active Directory (AD) and Azure Active Directory (AAD)](https://hackernoon.com/a-quick-overview-of-active-directory-ad-and-azure-active-directory-aad)
 ![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-3583w0f.jpeg)
 Learn the differences between Active Directory (AD) and Azure Active Directory (AAD) for seamless network and cloud identity management.
 
-### [107. Azure's Four Levels of Management Explained in a Simple Way](https://hackernoon.com/azures-four-levels-of-management-explained-in-a-simple-way)
+### [106. Azure's Four Levels of Management Explained in a Simple Way](https://hackernoon.com/azures-four-levels-of-management-explained-in-a-simple-way)
 ![](https://cdn.hackernoon.com/images/four-levels-of-management-clilhx7uh000101s61pq13yhq.png)
 Azure provides four levels of management scope, which are designed to provide flexibility and control in managing resources.
+
+### [107. Simplifying Domain Management with Azure Front Door: A Step-by-Step Guide](https://hackernoon.com/simplifying-domain-management-with-azure-front-door-a-step-by-step-guide)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8n023lk.jpeg)
+Managing multiple Azure resources with custom domains can quickly become messy.
 
 ### [108. Ethics, AI, and Responsible ML: Design Principles and Potential Dangers](https://hackernoon.com/ethics-ai-and-responsible-ml-design-principles-and-potential-dangers-j95m3tkv)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJLKehBeMBONvfxPRcUdK8mvpAYz1-6l1y3u0r.jpeg?alt=media&token=02b39b53-f1c4-4b70-88b7-af92d07e675e)
@@ -442,25 +446,25 @@ As we enter the 2020s, it is interesting to look back at how life has changed ov
 ![](https://cdn.hackernoon.com/images/cjjYJETrsAWBPcQEbEiwuqRfna82-lp1a3133.png)
 What if you could just migrate between cloud providers in seconds while achieving the best cost and performance combination? CAST AI connects them
 
-### [110. Get a Free Week on Cloud Academy To Kickstart Your Tech Training](https://hackernoon.com/get-a-free-week-on-cloud-academy-to-kickstart-your-tech-training-fn1e3yxr)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F88Yij7ZV63XFIg7xwZBWab3cb843-kku3uvh.webp?alt=media&token=a9a96d24-1fe6-4beb-8d51-f26630396a28)
-Are you looking to make a jump in your technical career? Want to get trained or certified on AWS, Azure, Google Cloud Platform, DevOps, Kubernetes, Python, or another in-demand skill?
-
-### [111. Taking the Azure Open AI Challenge - Day 1](https://hackernoon.com/taking-the-azure-open-ai-challenge-day-1)
-![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-yeh31jr.jpeg)
-The Microsoft team has recently launched an Open AI challenge, in which a developer can learn how to build Azure AI solutions and apps.
-
-### [112. How To Use Ballerina in Azure Functions](https://hackernoon.com/how-to-use-ballerina-in-azure-functions-121c3urp)
+### [110. How To Use Ballerina in Azure Functions](https://hackernoon.com/how-to-use-ballerina-in-azure-functions-121c3urp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fl5zOLSJSCXbNFE632NiK1dIRRaI3-3el3u8e.jpeg?alt=media&token=aa0105bf-256c-4792-8866-6dc7b20e0f20)
 Ballerina since v1.2.5 has built-in support for Azure Functions. In this way, you can take a Ballerina function and expose it as a serverless function in Azure Functions. Azure Functions take on a unique approach in defining serverless functions with the function trigger and bindings concept. In this way, we can access other cloud services such as storage services (queue, blob, etc.), CosmosDB, Twillio, and timers right from the function itself without any additional connectors or authentication processes. We map our parameters and return types with these bindings, which provides us direct access to the resources.
 
-### [113. Cheapskate's Journey to On-Demand Load Tests with Locust](https://hackernoon.com/cheapskates-journey-to-on-demand-load-tests-with-locust-khe3u2w)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTMgodFHH4evRjSdNFNz3dacaM23-2jb63ujh.webp?alt=media&token=96e7f02b-0f2f-4155-a487-58ce15733bc3)
-Published with permission by Rahul Rai
+### [111. Get a Free Week on Cloud Academy To Kickstart Your Tech Training](https://hackernoon.com/get-a-free-week-on-cloud-academy-to-kickstart-your-tech-training-fn1e3yxr)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F88Yij7ZV63XFIg7xwZBWab3cb843-kku3uvh.webp?alt=media&token=a9a96d24-1fe6-4beb-8d51-f26630396a28)
+Are you looking to make a jump in your technical career? Want to get trained or certified on AWS, Azure, Google Cloud Platform, DevOps, Kubernetes, Python, or another in-demand skill?
 
-### [114. The DevOps Tools to Optimize your Workflow](https://hackernoon.com/the-devops-tools-to-optimize-your-workflow)
+### [112. Taking the Azure Open AI Challenge - Day 1](https://hackernoon.com/taking-the-azure-open-ai-challenge-day-1)
+![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-yeh31jr.jpeg)
+The Microsoft team has recently launched an Open AI challenge, in which a developer can learn how to build Azure AI solutions and apps.
+
+### [113. The DevOps Tools to Optimize your Workflow](https://hackernoon.com/the-devops-tools-to-optimize-your-workflow)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ev93yaf.jpeg)
 Want to take a laugh at yet another boring list, right? I’ll try to surprise you with a list of unique tools that you probably still don’t know!
+
+### [114. Cheapskate's Journey to On-Demand Load Tests with Locust](https://hackernoon.com/cheapskates-journey-to-on-demand-load-tests-with-locust-khe3u2w)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTMgodFHH4evRjSdNFNz3dacaM23-2jb63ujh.webp?alt=media&token=96e7f02b-0f2f-4155-a487-58ce15733bc3)
+Published with permission by Rahul Rai
 
 ### [115. AWS Auto Scaling Groups: Have Fun Learning AWS Through Comics](https://hackernoon.com/aws-auto-scaling-groups-have-fun-learning-aws-through-comics-o4463128)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-7n2x31cq.jpeg)
@@ -478,45 +482,45 @@ Powershell forms an important part of automation in the azure and windows world.
 ![](https://cdn.hackernoon.com/images/PZfOxG3vzGajwaRjIjUdO1aq2w92-5qf3a02.png)
 Dive into the critical build-vs-buy decision for Industrial IoT (IIoT) architecture in the oil and gas industry. 
 
-### [119. How to Set Up Azure CDN For Lower Latency and Bandwidth Consumption](https://hackernoon.com/how-to-set-up-azure-cdn-for-lower-latency-and-bandwidth-consumption-0u4y35oy)
+### [119. Understanding Azure AZ-500 Certification Exam](https://hackernoon.com/understanding-azure-az-500-certification-exam-e53v35zg)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-cm3f352l.jpeg)
+Thinking about what is this AZ-500 test and on the off chance that you need to take it? Allow us to illuminate the subtleties to you!
+
+### [120. How to Set Up Azure CDN For Lower Latency and Bandwidth Consumption](https://hackernoon.com/how-to-set-up-azure-cdn-for-lower-latency-and-bandwidth-consumption-0u4y35oy)
 ![](https://cdn.hackernoon.com/images/90mS17sBsoQ9KSmAro1V3bR8PoE3-zu5e3wl4.png)
 A Content Delivery Network (CDN) helps you deliver your content more quickly. Read more on how you can achieve that. 
-
-### [120. How to Reduce the Chances of an Outage](https://hackernoon.com/reduce-your-chances-of-a-service-outage-with-these-proven-methods-xi7532sg)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-vh1d31bd.jpeg)
-An outage (also known as downtime) is a period of time when a given service or system is unavailable, failing to provide and perform its primary functionality. 
 
 ### [121. CNAPPgoat Part 1: The New Frontier for Cybersecurity Training](https://hackernoon.com/cnappgoat-part-1-the-new-frontier-for-cybersecurity-training)
 ![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-hz83xxe.jpeg)
 Explore the innovative CNAPPgoat tool in our comprehensive blog, detailing its modular architecture for cybersecurity training, vulnerability testing in cloud e
 
-### [122. Understanding Azure AZ-500 Certification Exam](https://hackernoon.com/understanding-azure-az-500-certification-exam-e53v35zg)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-cm3f352l.jpeg)
-Thinking about what is this AZ-500 test and on the off chance that you need to take it? Allow us to illuminate the subtleties to you!
+### [122. How to Reduce the Chances of an Outage](https://hackernoon.com/reduce-your-chances-of-a-service-outage-with-these-proven-methods-xi7532sg)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-vh1d31bd.jpeg)
+An outage (also known as downtime) is a period of time when a given service or system is unavailable, failing to provide and perform its primary functionality. 
 
-### [123. A Look at Use of API Gateways When Creating Complex Systems](https://hackernoon.com/a-look-at-use-of-api-gateways-when-creating-complex-systems-pi3433zq)
-![](https://cdn.hackernoon.com/images/sHlS9kz5JWgDC6Irc6Iw1ZTwUGE2-v92w33bu.jpeg)
-API Gateways can help you create microservices and micro frontends, and expose rich APIs to your customers while keeping things simple on your company.
-
-### [124. Why Small Businesses Shouldn't Move Away from Cloud Services ](https://hackernoon.com/why-small-businesses-shouldnt-move-away-from-cloud-services)
+### [123. Why Small Businesses Shouldn't Move Away from Cloud Services ](https://hackernoon.com/why-small-businesses-shouldnt-move-away-from-cloud-services)
 ![](https://cdn.hackernoon.com/images/S20bwqNg2Dc5eOrKxjK2AGe1PCu1-w793pbf.jpeg)
 Humans possess a remarkable ability to nostalgically reminisce about dark times as if they were the best of times. 
+
+### [124. A Look at Use of API Gateways When Creating Complex Systems](https://hackernoon.com/a-look-at-use-of-api-gateways-when-creating-complex-systems-pi3433zq)
+![](https://cdn.hackernoon.com/images/sHlS9kz5JWgDC6Irc6Iw1ZTwUGE2-v92w33bu.jpeg)
+API Gateways can help you create microservices and micro frontends, and expose rich APIs to your customers while keeping things simple on your company.
 
 ### [125. 6 Tips on How to Choose a Proper VM and Save on Your Cloud Costs](https://hackernoon.com/6-tips-on-how-to-choose-a-proper-vm-and-save-on-your-cloud-costs-6nn33ct)
 ![](https://cdn.hackernoon.com/images/cjjYJETrsAWBPcQEbEiwuqRfna82-3uz3388.jpeg)
 Did you know that 90% of applications have 5x more resources than they actually need?
 
-### [126. Securing Microsoft Active Directory](https://hackernoon.com/securing-microsoft-active-directory-h168371r)
+### [126. What You Need To Know About Vertical and Horizontal Scaling](https://hackernoon.com/what-you-need-to-know-about-vertical-and-horizontal-scaling)
+![](https://cdn.hackernoon.com/images/RHuvedDHs8b4MoHaBn6D9PxtiTB3-vp83w65.jpeg)
+Enhance infrastructure using vertical and horizontal cloud scaling for cost-effective performance improvement without compromising quality
+
+### [127. Securing Microsoft Active Directory](https://hackernoon.com/securing-microsoft-active-directory-h168371r)
 ![](https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-y3d736ii.jpeg)
 Active Directory is an integrated directory By Microsoft. Security is one of the major reasons why many companies have failed to invest in Active Directory. 
 
-### [127. Unified Data, Smarter Agents—Is Your Architecture Future-Proof?](https://hackernoon.com/unified-data-smarter-agentsis-your-architecture-future-proof)
+### [128. Unified Data, Smarter Agents—Is Your Architecture Future-Proof?](https://hackernoon.com/unified-data-smarter-agentsis-your-architecture-future-proof)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-z8021at.jpeg)
 A hands-on guide to architecting unified, governed and AI-ready data platforms using open table formats, semantic layers and multicloud governance.
-
-### [128. What You Need To Know About Vertical and Horizontal Scaling](https://hackernoon.com/what-you-need-to-know-about-vertical-and-horizontal-scaling)
-![](https://cdn.hackernoon.com/images/RHuvedDHs8b4MoHaBn6D9PxtiTB3-vp83w65.jpeg)
-Enhance infrastructure using vertical and horizontal cloud scaling for cost-effective performance improvement without compromising quality
 
 ### [129. Integrating An SAP ABAP System With The Ethereum Mainnet [A Step-by-Step Guide]](https://hackernoon.com/integrating-an-sap-abap-system-with-the-ethereum-mainnet-a-step-by-step-guide-jz4934wi)
 ![](https://cdn.hackernoon.com/images/IiLjzvoDDoY0EkD7DtHRImKjN072-lkk32dl.jpeg)
@@ -538,21 +542,21 @@ CAST AI platform that optimizes cloud spend now supports all three major cloud s
 ![](https://cdn.hackernoon.com/images/YkCf930zFRTLwK7MSVzDq3HlEOj2-31834zp.jpeg)
 Discover why disaster recovery, data loss prevention, compliance, and testing and development are crucial aspects of a robust backup strategy.
 
-### [134. Running Azure IoT Edge for Node.js on Ubuntu 18.04](https://hackernoon.com/running-azure-iot-edge-for-nodejs-on-ubuntu-1804-j880330r)
+### [134. Firecrawl Part 2: This Confidence Gate Decides When Bing Gets a Vote - How It Works](https://hackernoon.com/firecrawl-part-2-this-confidence-gate-decides-when-bing-gets-a-vote-how-it-works)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-8y83e2q.png)
+My enrichment pipeline shipped "Unknown" as a company name—silently. The fix: a confidence gate that checks usable fields, not return codes.
+
+### [135. Running Azure IoT Edge for Node.js on Ubuntu 18.04](https://hackernoon.com/running-azure-iot-edge-for-nodejs-on-ubuntu-1804-j880330r)
 ![](https://cdn.hackernoon.com/images/XusFGl80klV8cE3cV1AMrYfTvmv2-61gw33jm.jpeg)
 Azure IoT Edge is a relatively new addition to the Azure IoT cloud solution. It is used to analyze data on devices "at the edge" instead of in the cloud.
 
-### [135. Cloud Cost Management Vs. Cloud Cost Optimization: Which is Better?](https://hackernoon.com/cloud-cost-management-vs-cloud-cost-optimization-which-is-better)
+### [136. Cloud Cost Management Vs. Cloud Cost Optimization: Which is Better?](https://hackernoon.com/cloud-cost-management-vs-cloud-cost-optimization-which-is-better)
 ![](https://cdn.hackernoon.com/images/cjjYJETrsAWBPcQEbEiwuqRfna82-qt337ll.jpeg)
 Cloud cost management doesn’t guarantee savings, automated optimization does.
 
-### [136. How to Backup Your Microsoft Azure Storage Accounts](https://hackernoon.com/how-to-backup-your-microsoft-azure-storage-accounts-sz823vjr)
+### [137. How to Backup Your Microsoft Azure Storage Accounts](https://hackernoon.com/how-to-backup-your-microsoft-azure-storage-accounts-sz823vjr)
 ![](https://cdn.hackernoon.com/drafts/h714d385z.png)
 Azure Storage Account is one of the foundation services of Azure. Pretty much all other services use it under the cover in a way or another. This service is simple, works great, and has crazy SLA and redundancy capabilities. However, it doesn't provide a point in time restore. Meaning that if you corrupt or delete some data, there's no way to recover it. There are some solutions that you can find over the internet, but unfortunately, none of them is a silver bullet. Let's explore and compare some of them.
-
-### [137. Firecrawl Part 2: This Confidence Gate Decides When Bing Gets a Vote - How It Works](https://hackernoon.com/firecrawl-part-2-this-confidence-gate-decides-when-bing-gets-a-vote-how-it-works)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-8y83e2q.png)
-My enrichment pipeline shipped "Unknown" as a company name—silently. The fix: a confidence gate that checks usable fields, not return codes.
 
 ### [138. Making Our Data Actually Work for Us](https://hackernoon.com/making-our-data-actually-work-for-us)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-xz020l5.jpeg)

@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [trading](https://hackernoon.com/tagged/trading)
+### Let's learn about [Trading](https://hackernoon.com/tagged/trading) via these 324 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 You’re most likely looking at crypto trading related articles right now, no? But occasionally the community may surprise you with something more traditional.
 
 ### [1. 3 Things Not to Do When Bitcoin is Going Down](https://hackernoon.com/3-things-not-to-do-when-bitcoin-is-going-down-e80097d15796)
@@ -163,13 +165,13 @@ Timechain, a decentralized exchange aggregator and permissionless lending and bo
 ![](https://cdn.hackernoon.com/images/mgwv33zsy.jpg)
 Over the past 10 years we've seen the rise and rise of trading bots and Quantitative Funds and we've seen the fall and fall of traditional Asset Managers and Hedge Funds.
 
-### [40. What I've Learned from Years of Arbitrage and Market Making](https://hackernoon.com/what-ive-learned-from-years-of-arbitrage-and-market-making-975w38rs)
-![](https://cdn.hackernoon.com/images/mgq32dm.jpg)
-Introduction
-
-### [41. Why You Shouldn’t Judge by PnL Alone](https://hackernoon.com/why-you-shouldnt-judge-by-pnl-alone)
+### [40. Why You Shouldn’t Judge by PnL Alone](https://hackernoon.com/why-you-shouldnt-judge-by-pnl-alone)
 ![](https://cdn.hackernoon.com/images/QKtk1z95cxYd7JnjlzS8WrIP5RA2-df13ub0.png)
 PnL can lie. This hands-on guide shows traders how hypothesis testing separate luck from edge, with a Python example and tips on how not to fool yourself.
+
+### [41. What I've Learned from Years of Arbitrage and Market Making](https://hackernoon.com/what-ive-learned-from-years-of-arbitrage-and-market-making-975w38rs)
+![](https://cdn.hackernoon.com/images/mgq32dm.jpg)
+Introduction
 
 ### [42. FTX Implosion TL;DR and Why Proof of Reserves is NOT the Solution We Need](https://hackernoon.com/ftx-implosion-tldr-and-why-proof-of-reserves-is-not-the-solution-we-need)
 ![](https://cdn.hackernoon.com/images/computer-imploding-into-the-colors-of-red-and-blue-that-showers-a-thousand-people-claflvbkk000001s6hjzybbun.png)
@@ -211,13 +213,13 @@ Simple Moving Averages are calculated by getting the mean closing price over a p
 ![](https://cdn.hackernoon.com/images/7e2we30tx.jpg)
 Sharing the trade-offs between each method of trading
 
-### [52. Trading Crypto When Charts Fail: How To Use Elliott Waves and Fibonacci Retracement Instead](https://hackernoon.com/trading-crypto-when-charts-fail-how-to-use-elliott-waves-and-fibonacci-retracement-instead-v4t32b1)
-![](https://cdn.hackernoon.com/drafts/vb2jc3yr4.png)
-In this article, we dive deep into the advanced concepts and techniques employed in the technical analysis of cryptocurrencies. We'll be witnessing how the market moves in waves, as a whole, and on all other levels as well, through our analysis of advanced methods like Elliott Wave theory, Fibonacci Retracement, and much more.
-
-### [53. DeFi Option Vaults: Options Democratized](https://hackernoon.com/defi-option-vaults-options-democratized)
+### [52. DeFi Option Vaults: Options Democratized](https://hackernoon.com/defi-option-vaults-options-democratized)
 ![](https://cdn.hackernoon.com/images/i5csabFq7EdBIF1GlV0NLT3icWG2-f193z5j.jpeg)
 DeFi Option Vaults: Options Democratized
+
+### [53. Trading Crypto When Charts Fail: How To Use Elliott Waves and Fibonacci Retracement Instead](https://hackernoon.com/trading-crypto-when-charts-fail-how-to-use-elliott-waves-and-fibonacci-retracement-instead-v4t32b1)
+![](https://cdn.hackernoon.com/drafts/vb2jc3yr4.png)
+In this article, we dive deep into the advanced concepts and techniques employed in the technical analysis of cryptocurrencies. We'll be witnessing how the market moves in waves, as a whole, and on all other levels as well, through our analysis of advanced methods like Elliott Wave theory, Fibonacci Retracement, and much more.
 
 ### [54. Bitcoin – Comparing Previous Market Cycles With The Bull Run of 2021](https://hackernoon.com/bitcoin-comparing-previous-market-cycles-with-the-bull-run-of-2021-lc2033k2)
 ![](https://cdn.hackernoon.com/images/lRf4kL1bMBWI0TuYCyQdn05yE0t1-haj33ak.jpeg)
@@ -259,58 +261,58 @@ RSI or Relative Strength Index is one of the most common indicators when chartin
 ![](https://cdn.hackernoon.com/images/0xa5311u.jpg)
 During the past couple of years, I’ve been building and running my own automated cryptocurrency trading strategies. While I am not as profitable as my naive past-self imagined, I did discover a few things that helped me grow, and ultimately change how I perceive and approach the markets.
 
-### [64. What is a Copy Trading Platform and Why We Need One for Cryptocurrencies?](https://hackernoon.com/what-is-a-copy-trading-platform-and-why-we-need-one-for-cryptocurrencies-k41ms315t)
-![](https://cdn.hackernoon.com/drafts/a21p131ph.png)
-Copy trading is often confused with social trading, but they differ largely from each other.
-
-### [65. Uniswap Overtakes Coinbase - How DEXs Are Back And Why Uniswap Is The Flag Bearer of DeFi](https://hackernoon.com/uniswap-overtakes-coinbase-how-dexs-are-back-and-why-uniswap-is-the-flag-bearer-of-defi-cg4e3w8s)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnicD63CMaOd7L4JEMQxKFdQlb7J2-ynf3tt5.jpeg?alt=media&token=11831dbf-38a8-4e58-9a9d-3a962e411a03)
-Nothing in this document constitutes financial advice.
-
-### [66. Trading Cup and Handles With MarketSmith Pattern Recognition](https://hackernoon.com/trading-cup-and-handles-with-marketsmith-pattern-recognition-rvi3787)
+### [64. Trading Cup and Handles With MarketSmith Pattern Recognition](https://hackernoon.com/trading-cup-and-handles-with-marketsmith-pattern-recognition-rvi3787)
 ![](https://cdn.hackernoon.com/images/c4H5dJO11HMcVyXTq7bAl2kz88I2-eoar356z.jpeg)
 The Cup With Handle pattern, developed by William O’Neil, is a technical indicator for identifying the continuation of a trend after a period of consolidation.
 
-### [67. Margin Trading: What You Don't Think About Today Will Bite You Hard Tomorrow](https://hackernoon.com/margin-trading-what-you-dont-think-about-today-will-bite-you-hard-tomorrow-uyb232my)
+### [65. What is a Copy Trading Platform and Why We Need One for Cryptocurrencies?](https://hackernoon.com/what-is-a-copy-trading-platform-and-why-we-need-one-for-cryptocurrencies-k41ms315t)
+![](https://cdn.hackernoon.com/drafts/a21p131ph.png)
+Copy trading is often confused with social trading, but they differ largely from each other.
+
+### [66. Uniswap Overtakes Coinbase - How DEXs Are Back And Why Uniswap Is The Flag Bearer of DeFi](https://hackernoon.com/uniswap-overtakes-coinbase-how-dexs-are-back-and-why-uniswap-is-the-flag-bearer-of-defi-cg4e3w8s)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnicD63CMaOd7L4JEMQxKFdQlb7J2-ynf3tt5.jpeg?alt=media&token=11831dbf-38a8-4e58-9a9d-3a962e411a03)
+Nothing in this document constitutes financial advice.
+
+### [67. Best Stock Market Data APIs For Algorithmic Traders (2025 Edition)](https://hackernoon.com/best-stock-market-data-apis-for-algorithmic-traders-2025-edition)
+![](https://cdn.hackernoon.com/images/stock-market-chart-with-arrows-on-it-ik5hurfu8qs90vfmnwldimoz.png)
+Best Stock Market Data APIs for algorithmic traders, fintech developers, and AI agents. 
+
+### [68. Margin Trading: What You Don't Think About Today Will Bite You Hard Tomorrow](https://hackernoon.com/margin-trading-what-you-dont-think-about-today-will-bite-you-hard-tomorrow-uyb232my)
 ![](https://cdn.hackernoon.com/images/r217i321x.jpg)
 How many chats on your phone are discussing where the Bitcoin price is heading right now? Even if you only touch the crypto industry with your left pinky, the Bitcoin price talk is hard to miss. Add to this the stories about someone who always seems to forecast the price right. A friend of a friend who moved to Bali and now makes a ton of money by trading straight out of his pool. The wizard sees in the price charts what others don’t see and makes profits when the markets are good, bad, and even ugly. 
 
-### [68. Ready-Made Algorithmic Trading Bots vs. Building One From Scratch: Things You Should Know](https://hackernoon.com/ready-made-algorithmic-trading-bots-vs-building-one-from-scratch-things-you-should-know)
+### [69. Ready-Made Algorithmic Trading Bots vs. Building One From Scratch: Things You Should Know](https://hackernoon.com/ready-made-algorithmic-trading-bots-vs-building-one-from-scratch-things-you-should-know)
 ![](https://cdn.hackernoon.com/images/25FD7aJjvQXZmpBWsHFW5JYdjMt1-w483wpd.jpeg)
 Do you ride the wave with a ready-made bot or plunge into the deep end coding your own? Let's explore this exciting frontier.
 
-### [69. A Peek Into the Arsenal of Crypto Day Traders](https://hackernoon.com/a-peek-into-the-arsenal-of-crypto-day-traders-j9j33iu)
+### [70. A Peek Into the Arsenal of Crypto Day Traders](https://hackernoon.com/a-peek-into-the-arsenal-of-crypto-day-traders-j9j33iu)
 ![](https://cdn.hackernoon.com/images/Kmt2h6pCM6hahhfBJVS4z0H2QtG2-1k4t358l.jpeg)
 Abhijoy and I have always been fascinated by the world of cryptocurrency trading, often wondering how our lives would shape out if we seriously considered trading as a vocation. 
-
-### [70. Trading With Moving Averages -  SMA’s & EMA’s](https://hackernoon.com/trading-with-moving-averages-smas-and-emas-k1143wf7)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-zi243tnc.jpeg?alt=media&token=39a987c5-3bf0-43dc-903d-4a0b6a83bf71)
-Entering the realm of technical indicators, it’s easy to get lost in the jargon and the countless techniques available. As an introduction, we’re starting with the oldest and most widely used technical indicator. It also just happens to be the simplest - the moving average. 
 
 ### [71. Applying Statistical Analysis to Intraday Forex Trading Using SQL](https://hackernoon.com/applying-statistical-analysis-to-intraday-forex-trading-using-sql)
 ![](https://cdn.hackernoon.com/images/ZFT8ypYqRcQGo0NU17QYMPRU2zK2-r3g3oyk.jpeg)
 Statistical Analysis, Intraday Forex Trading, Using SQL
 
-### [72. Best Stock Market Data APIs For Algorithmic Traders (2025 Edition)](https://hackernoon.com/best-stock-market-data-apis-for-algorithmic-traders-2025-edition)
-![](https://cdn.hackernoon.com/images/stock-market-chart-with-arrows-on-it-ik5hurfu8qs90vfmnwldimoz.png)
-Best Stock Market Data APIs for algorithmic traders, fintech developers, and AI agents. 
+### [72. Trading With Moving Averages -  SMA’s & EMA’s](https://hackernoon.com/trading-with-moving-averages-smas-and-emas-k1143wf7)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-zi243tnc.jpeg?alt=media&token=39a987c5-3bf0-43dc-903d-4a0b6a83bf71)
+Entering the realm of technical indicators, it’s easy to get lost in the jargon and the countless techniques available. As an introduction, we’re starting with the oldest and most widely used technical indicator. It also just happens to be the simplest - the moving average. 
 
-### [73. Zero-Fee Trading, Global Liquidity, and The Many Woos of WooTrade](https://hackernoon.com/zero-fee-trading-global-liquidity-and-the-many-woos-of-wootrade-tg5d33di)
+### [73. Comparing the Best Charts to Launch Your Fintech App](https://hackernoon.com/comparing-the-best-charts-to-launch-your-fintech-app)
+![](https://cdn.hackernoon.com/images/AT0spvtJUUXB9SxsUb6dCzRQdvF3-xkm2h7f.jpeg)
+The overview and comparison of 4 best downloadable self-hosted charting libraries: TW, DXcharts, ChartIQ, HC. You decide which to use for your financial startup
+
+### [74. Zero-Fee Trading, Global Liquidity, and The Many Woos of WooTrade](https://hackernoon.com/zero-fee-trading-global-liquidity-and-the-many-woos-of-wootrade-tg5d33di)
 ![](https://cdn.hackernoon.com/images/20NP8ZY47FNgvPflBqcRNco17zk1-7wl3c4n.jpeg)
 A summary of Wootrade and how it is disrupting market of Global Liquidity.
 
 
-### [74. Comparing the Best Charts to Launch Your Fintech App](https://hackernoon.com/comparing-the-best-charts-to-launch-your-fintech-app)
-![](https://cdn.hackernoon.com/images/AT0spvtJUUXB9SxsUb6dCzRQdvF3-xkm2h7f.jpeg)
-The overview and comparison of 4 best downloadable self-hosted charting libraries: TW, DXcharts, ChartIQ, HC. You decide which to use for your financial startup
-
-### [75. The Evolution and Future of AI in the Stock Market](https://hackernoon.com/the-evolution-and-future-of-ai-in-the-stock-market-nn2q33ou)
-![](https://cdn.hackernoon.com/images/25FD7aJjvQXZmpBWsHFW5JYdjMt1-r5f337h.jpeg)
-AI-powered trading holds several advantages over its algorithm-only predecessors. An AI-powered system can make decisions based on rich data in real-time.
-
-### [76. Cybersecurity Risks Worth Considering in Online Trading](https://hackernoon.com/cybersecurity-risks-worth-considering-in-online-trading)
+### [75. Cybersecurity Risks Worth Considering in Online Trading](https://hackernoon.com/cybersecurity-risks-worth-considering-in-online-trading)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-yp8311j.jpeg)
 As online trading platforms grow in popularity, hackers increase their attacks. Here are the cybersecurity risks in online trading.
+
+### [76. The Evolution and Future of AI in the Stock Market](https://hackernoon.com/the-evolution-and-future-of-ai-in-the-stock-market-nn2q33ou)
+![](https://cdn.hackernoon.com/images/25FD7aJjvQXZmpBWsHFW5JYdjMt1-r5f337h.jpeg)
+AI-powered trading holds several advantages over its algorithm-only predecessors. An AI-powered system can make decisions based on rich data in real-time.
 
 ### [77. Here's Why Google Sheets is a Powerful Tool for Trading and Investing](https://hackernoon.com/heres-why-google-sheets-is-a-powerful-tool-for-trading-and-investing)
 ![](https://cdn.hackernoon.com/images/google-sheet-cliew3lck000601s63952ejod.png)
@@ -332,13 +334,13 @@ Nowadays, binary options trading has transformed into one of the most popular fi
 ![](https://cdn.hackernoon.com/images/ql5zq0dPQjeTcZhNpsmq9xjb8Ic2-tz0387i.jpeg)
 In with the new, out with the old. Coinstore is the crypto exchange for the new generation. Learn what their co-founder, Jennifer, has to say.
 
-### [82. How to Win at the Crypto Investment Game](https://hackernoon.com/how-to-win-at-the-crypto-investment-game)
-![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-f6a3ijg.jpeg)
-Buying cryptocurrencies is a game. The main rule is to strike a balance between opportunism (gains) and losing money. Here is a guide on how to do this.
-
-### [83. abc](https://hackernoon.com/coindex-labs-novel-search-applied-via-evolutionary-ai-creating-a-money-making-machine-n62j2gei)
+### [82. abc](https://hackernoon.com/coindex-labs-novel-search-applied-via-evolutionary-ai-creating-a-money-making-machine-n62j2gei)
 ![](https://cdn.hackernoon.com/images/uoio33l1.jpg)
 1. Introduction
+
+### [83. How to Win at the Crypto Investment Game](https://hackernoon.com/how-to-win-at-the-crypto-investment-game)
+![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-f6a3ijg.jpeg)
+Buying cryptocurrencies is a game. The main rule is to strike a balance between opportunism (gains) and losing money. Here is a guide on how to do this.
 
 ### [84. 48 Stories To Learn About Algorithmic Trading](https://hackernoon.com/48-stories-to-learn-about-algorithmic-trading)
 ![](https://cdn.hackernoon.com/images/github/algorithmic-trading-12.png)
@@ -400,15 +402,15 @@ Cryptocurrency is one of the most in-demand assets to have in your portfolio rig
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-776a3573.jpeg)
 Interview with the CEO of Rocket Vault, where we discuss use of artificial intelligence in building smart trading systems. 
 
-### [99. The Ethical Implications with Algorithmic Trading](https://hackernoon.com/the-ethical-dilemma-of-high-frequency-trading-the-future-of-trading-or-the-race-to-the-bottom-m7i3z93)
+### [99. Lux Algo: Separating Information From The Static During The 2022 Crypto Winter](https://hackernoon.com/lux-algo-separating-information-from-the-static-during-the-2022-crypto-winter)
+![](https://cdn.hackernoon.com/images/zaGs6Q0I7SY8qLi6ofbogocZVlJ2-0993q15.jpeg)
+The 2022 crypto winter is entering its fourth month, with many investors panicking before the end of the year.
+
+### [100. The Ethical Implications with Algorithmic Trading](https://hackernoon.com/the-ethical-dilemma-of-high-frequency-trading-the-future-of-trading-or-the-race-to-the-bottom-m7i3z93)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fw24dkR3whBQOH7r7hT1hUe4PAIE3-iq1d3t5b.jpeg?alt=media&token=9c978304-f509-4319-bff0-16be4b61195c)
 Between the 2000 dot.com boom and bust and the "Big Short" of the 2008 credit crunch, we heeded the wisdom of the legendary traders of the 20th century - guys like Jesse Livermore (1920s) and Paul Tudor Jones (1970s). The wisdom was to be dispassionate (no emotion) and trade methodically (like a robot) - executing trades mechanistically every time.
 
 Of course, for the previous generation of traders, the rise of the PC and internet and exchange APIs meant that much of this "mechanistic" work could be automated. Most of the technical and methodical signals can be algorithmically determined and acted upon. The trader is merely the strategist and commander who decides when which algorithm (trading method) should be applied.
-
-### [100. Lux Algo: Separating Information From The Static During The 2022 Crypto Winter](https://hackernoon.com/lux-algo-separating-information-from-the-static-during-the-2022-crypto-winter)
-![](https://cdn.hackernoon.com/images/zaGs6Q0I7SY8qLi6ofbogocZVlJ2-0993q15.jpeg)
-The 2022 crypto winter is entering its fourth month, with many investors panicking before the end of the year.
 
 ### [101. Will The Game Stop with Gamestop Or Is This Just The Beginning?](https://hackernoon.com/will-the-game-stop-with-gamestop-or-is-this-just-the-beginning-2j1x32aa)
 ![](https://cdn.hackernoon.com/images/9ZkJ5JzVTQh7IupoflIpECnRHzB3-yg3s33cz.jpeg)
@@ -426,13 +428,13 @@ In this story, we will examine what some of the top crypto-friendly banks have i
 ![](https://cdn.hackernoon.com/images/j87g36h6.jpg)
 
 
-### [105. Here's What My Crypto-Trading Bot Will Do ...With A Little Help From Binance and Deribit](https://hackernoon.com/heres-what-my-crypto-trading-bot-will-do-with-a-little-help-from-binance-and-deribit-ac1ml32ny)
-![](https://cdn.hackernoon.com/images/ka6332o6.jpg)
-Over the last week, I’ve managed to wrangle pretty good deals from Deribit and Binance.
-
-### [106. 11 N00b Mistakes I Made with Crypto Trading Bots - A Tale of Lessons Learned (The Hard Way)](https://hackernoon.com/11-n00b-mistakes-i-made-with-crypto-trading-bots-a-tale-of-lessons-learned-the-hard-way)
+### [105. 11 N00b Mistakes I Made with Crypto Trading Bots - A Tale of Lessons Learned (The Hard Way)](https://hackernoon.com/11-n00b-mistakes-i-made-with-crypto-trading-bots-a-tale-of-lessons-learned-the-hard-way)
 ![](https://cdn.hackernoon.com/images/Y8el8iGwQ5U5jX9Yh7on3x5mEzF2-yvf3wub.jpeg)
 Discover the top beginner mistakes I made with crypto trading bots. Learn from my misadventures for a successful trading journey
+
+### [106. Here's What My Crypto-Trading Bot Will Do ...With A Little Help From Binance and Deribit](https://hackernoon.com/heres-what-my-crypto-trading-bot-will-do-with-a-little-help-from-binance-and-deribit-ac1ml32ny)
+![](https://cdn.hackernoon.com/images/ka6332o6.jpg)
+Over the last week, I’ve managed to wrangle pretty good deals from Deribit and Binance.
 
 ### [107. 3 Trends of the Neural Network Usage for Algorithmic Trading](https://hackernoon.com/3-trends-of-the-neural-network-usage-for-algorithmic-trading)
 ![](https://cdn.hackernoon.com/images/dGWqB8LEZBhGjcvFXLwmrj7Beog2-3f92970.jpeg)
@@ -466,65 +468,65 @@ The whistle for “halve-time” is set to blow, with May 2020 creeping ever clo
 ![](https://cdn.hackernoon.com/images/dGWqB8LEZBhGjcvFXLwmrj7Beog2-u49293x.jpeg)
 
 
-### [115. Open Interest, Volume, and Their Differences Explained](https://hackernoon.com/open-interest-volume-and-their-differences-explained-tw2k32sj)
-![](https://cdn.hackernoon.com/images/FgI5sGPy6JMSHWzRSmxpQp5TJQp2-m68932ci.jpeg)
-What is Volume? What is Open Interest? And what do they tell us about the market? 
-
-### [116. Crypto-Trading Bots: An Overview](https://hackernoon.com/crypto-trading-bots-an-overview-9j3b3yu1)
+### [115. Crypto-Trading Bots: An Overview](https://hackernoon.com/crypto-trading-bots-an-overview-9j3b3yu1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fik4C3xu8dTaQNvRJjlvpksNekrW2-9i2d3eum.png?alt=media&token=e66b6b2e-929a-4136-bbf6-2f164a13d310)
 As the mainstream popularity of cryptocurrency trading grows, more and more people are looking for a way to casually get into it. Many realize the difficulties, as well as the risks of trading, thus trying to ease into the process without putting too much on the line right away. 
+
+### [116. Open Interest, Volume, and Their Differences Explained](https://hackernoon.com/open-interest-volume-and-their-differences-explained-tw2k32sj)
+![](https://cdn.hackernoon.com/images/FgI5sGPy6JMSHWzRSmxpQp5TJQp2-m68932ci.jpeg)
+What is Volume? What is Open Interest? And what do they tell us about the market? 
 
 ### [117. (Almost) Risk-Free Futures Trading by Leveraging Options](https://hackernoon.com/almost-risk-free-futures-trading-by-leveraging-options-j7803zk9)
 ![](https://cdn.hackernoon.com/images/nh2d36ey.jpg)
 Introduction
 
-### [118. Decoding Penny Stocks with Timothy Sykes ](https://hackernoon.com/decoding-penny-stocks-with-timothy-sykes-s8z33y4)
+### [118. BTCC.Com Exchange Review: We traded $100,000 On 14 Year Old Veteran Crypto Exchange](https://hackernoon.com/btcccom-exchange-review-we-traded-$100000-on-14-year-old-veteran-crypto-exchange)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-2sc3i4n.png)
+Explore our in-depth review of BTCC, one of the oldest crypto exchanges, featuring hands-on testing, 500x leverage, copy trading, and loss protection insights.
+
+### [119. Decoding Penny Stocks with Timothy Sykes ](https://hackernoon.com/decoding-penny-stocks-with-timothy-sykes-s8z33y4)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-0y2935k6.jpeg)
 In this interview, Timothy Sykes decodes how penny stocks work and what strategies should traders have in place when trading penny stocks. 
 
-### [119. Mine Digital Exchange: Q1, 2020 [Report]](https://hackernoon.com/mine-digital-exchange-q1-2020-report-p8fz32xu)
+### [120. Mine Digital Exchange: Q1, 2020 [Report]](https://hackernoon.com/mine-digital-exchange-q1-2020-report-p8fz32xu)
 ![](https://cdn.hackernoon.com/drafts/bdo3yvd.png)
 For those who are not aware – the gold to silver ratio is a historic comparison used as far back as Roman times (at 12:1) to determine the value of money (currency). The ratio had been highly important to the fortunes of Spain with their South American Gold, China with its Silver demand and Britain over the years.
-
-### [120. Better Technical Analysis with Blockchain Indicators: Bollinger Bands](https://hackernoon.com/better-technical-analysis-with-blockchain-indicators-bollinger-bands-ma3732ak)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-9e82rbq.jpeg)
-Technical analysis (TA) represents one of the most popular mechanisms used by traders in capital markets and crypto is not the exception. One great thing about TA is that you can find as many fans as detractors in any asset class. In the case of a nascent and immature capital market such as crypto-assets, TA has established itself as one of the few viable mechanisms for extracting short term signals from the behavior of crypto assets. I’ve never been a fan of TA but I also don’t neglect its value and passionate community. Lately, we have been spending some time at IntoTheBlock, thinking about how some popular TA indicators can be improved with blockchain-native signals.
 
 ### [121. How I Made a 65% ROI with this Boeing Trading Algorithm](https://hackernoon.com/how-i-made-a-65percent-roi-with-this-boeing-trading-algorithm-5r5335t4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5pvLB1CdRWbN8Bvdho7pKWNYRov1-w7a23sx.jpeg?alt=media&token=e946ade7-b1e9-4bb7-927b-b0f0cbddf220)
 Since the market crashed in March of 2020 the rebound has been swift and irrational.
 
-### [122. Crypto Market Making Explained: The Secret Keystone To A Token Project's Success](https://hackernoon.com/crypto-market-making-explained-the-secret-keystone-to-a-token-projects-success)
+### [122. Better Technical Analysis with Blockchain Indicators: Bollinger Bands](https://hackernoon.com/better-technical-analysis-with-blockchain-indicators-bollinger-bands-ma3732ak)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-9e82rbq.jpeg)
+Technical analysis (TA) represents one of the most popular mechanisms used by traders in capital markets and crypto is not the exception. One great thing about TA is that you can find as many fans as detractors in any asset class. In the case of a nascent and immature capital market such as crypto-assets, TA has established itself as one of the few viable mechanisms for extracting short term signals from the behavior of crypto assets. I’ve never been a fan of TA but I also don’t neglect its value and passionate community. Lately, we have been spending some time at IntoTheBlock, thinking about how some popular TA indicators can be improved with blockchain-native signals.
+
+### [123. Crypto Market Making Explained: The Secret Keystone To A Token Project's Success](https://hackernoon.com/crypto-market-making-explained-the-secret-keystone-to-a-token-projects-success)
 ![](https://cdn.hackernoon.com/images/aCSixjy3gRdK5gzQmHvbJgt8PRJ2-ewc3smd.jpeg)
 Even highly liquid markets experience high volatility. Crypto market making is, therefore, an essential element for any token project.
 
-### [123. How To Trade within TradingView with Alpaca](https://hackernoon.com/alpaca-trading-within-tradingview-fbv32zb)
+### [124. How To Trade within TradingView with Alpaca](https://hackernoon.com/alpaca-trading-within-tradingview-fbv32zb)
 ![](https://cdn.hackernoon.com/images/55c132qg.jpg)
 Nothing goes better with algorithmic trading than tons of data. That's why we're delighted to announce our integration with TradingView to give you deep insights into markets, stocks, etc, all while seamlessly using Alpaca's commission-free API trading platform.
 
-### [124. My Learnings from over 10 years in Developing Trading Software](https://hackernoon.com/now-crypto-lessons-learned-from-over-10-years-of-developing-trading-software-zwdw3276)
+### [125. My Learnings from over 10 years in Developing Trading Software](https://hackernoon.com/now-crypto-lessons-learned-from-over-10-years-of-developing-trading-software-zwdw3276)
 ![](https://cdn.hackernoon.com/drafts/7edu32wa.png)
 Reading news about crypto we regularly see the big money inflow to new companies with a lot of potentially breakthrough ideas. But aside from the hype from the business side, there are sophisticated technical projects going on underneath. 
 
-### [125. Fraud Detection to Robo Investing: AI in Finance is Rising](https://hackernoon.com/fraud-detection-to-robo-investing-ai-in-finance-is-rising)
+### [126. Fraud Detection to Robo Investing: AI in Finance is Rising](https://hackernoon.com/fraud-detection-to-robo-investing-ai-in-finance-is-rising)
 ![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-b893rfy.jpeg)
 Artificial intelligence (AI) is transforming the world of finance by allowing financial institutions to make more accurate and data-driven decisions. 
 
-### [126. The first blockchain-funded COVID vaccine: An interview with George Mac, CEO of KELTA](https://hackernoon.com/should-you-think-about-trading-strategies-during-pandemic-m0y3t34)
+### [127. The first blockchain-funded COVID vaccine: An interview with George Mac, CEO of KELTA](https://hackernoon.com/should-you-think-about-trading-strategies-during-pandemic-m0y3t34)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FICFDnsDmDOZvcYkjBuTkWflsLiF2-j763tu1.jpeg?alt=media&token=93d006a3-bc11-48f8-bf1a-cff48066e45b)
 When the world went into lockdown in March, the blockchain event industry ground to a halt, and then switched to the online format. Fast-forward six months, and the first post-lockdown offline events are already being scheduled. We've chatted with George Mac – CEO of the mining platform KELTA – and the man behind the upcoming SLOBLOCO congress in Bratislava, Slovakia.
 
-### [127. BTCC.Com Exchange Review: We traded $100,000 On 14 Year Old Veteran Crypto Exchange](https://hackernoon.com/btcccom-exchange-review-we-traded-$100000-on-14-year-old-veteran-crypto-exchange)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-2sc3i4n.png)
-Explore our in-depth review of BTCC, one of the oldest crypto exchanges, featuring hands-on testing, 500x leverage, copy trading, and loss protection insights.
-
-### [128. “Bitcoin is going to hit $65,000, and it's going to hit it very soon,” - Anti Danilevski](https://hackernoon.com/bitcoin-is-going-to-hit-dollar65000-and-its-going-to-hit-it-very-soon-anti-danilevski-tk2q320k)
-![](https://cdn.hackernoon.com/images/hMY7XlkAizNZbnRvkVr08nHfSPF3-bj833qa.jpeg)
-At the beginning of January 2021, Bitcoin set a new record-breaking price point, surpassing the $42,000 mark. Many experts believe that this is still far from the limit.
-
-### [129. Cryptocurrency Investment Strategies: Momentum Trading versus Call Options [Reviewed]](https://hackernoon.com/cryptocurrency-investment-strategies-momentum-trading-versus-call-options-reviewed-vpdz32zx)
+### [128. Cryptocurrency Investment Strategies: Momentum Trading versus Call Options [Reviewed]](https://hackernoon.com/cryptocurrency-investment-strategies-momentum-trading-versus-call-options-reviewed-vpdz32zx)
 ![](https://cdn.hackernoon.com/images/exo32oq.jpg)
 With the recent sell-off in global markets, we wanted to take the time to review the performance of our investment strategies in cryptocurrencies and evaluate the risk in them.
+
+### [129. “Bitcoin is going to hit $65,000, and it's going to hit it very soon,” - Anti Danilevski](https://hackernoon.com/bitcoin-is-going-to-hit-dollar65000-and-its-going-to-hit-it-very-soon-anti-danilevski-tk2q320k)
+![](https://cdn.hackernoon.com/images/hMY7XlkAizNZbnRvkVr08nHfSPF3-bj833qa.jpeg)
+At the beginning of January 2021, Bitcoin set a new record-breaking price point, surpassing the $42,000 mark. Many experts believe that this is still far from the limit.
 
 ### [130. How gaming with cryptocurrencies can help in the fight against COVID-19](https://hackernoon.com/11-cryptocurrency-trading-courses-to-help-you-begin-trading-alts-and-sats-577s321g)
 ![](https://cdn.hackernoon.com/drafts/2kr2b4g.png)
@@ -554,13 +556,13 @@ Bitcoin supply is becoming scarce in the face of demand - Here's what you need t
 ![](https://cdn.hackernoon.com/images/k19nLKcxOBem9jR2tlfjjqACdwH2-bba3rwe.jpeg)
 How AI will affect crypto? And how does that work now? 
 
-### [137. Best Margin Tools for Taking Your Trading to the Next Level [June 2021 Edition]](https://hackernoon.com/best-margin-tools-for-taking-your-trading-to-the-next-level-june-2021-edition-3j1u35z4)
-![](https://cdn.hackernoon.com/images/55mgLtvwWdf0kHZQ9QMkL4gmWue2-4u3837yg.jpeg)
-If you wondered how to make big profits in the times when the entire crypto market is no longer a small thing, margin trading could come to your avail. Only if you are ready to take on a little more risk.
-
-### [138. Can We Predict the Future of Cryptocurrency?](https://hackernoon.com/can-we-predict-the-future-of-cryptocurrency)
+### [137. Can We Predict the Future of Cryptocurrency?](https://hackernoon.com/can-we-predict-the-future-of-cryptocurrency)
 ![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-wga3pfc.jpeg)
 What's the future of cryptocurrency? With all eyes focused on the global economic climate and a tumultuous recent history for crypto, it's anything but clear.
+
+### [138. Best Margin Tools for Taking Your Trading to the Next Level [June 2021 Edition]](https://hackernoon.com/best-margin-tools-for-taking-your-trading-to-the-next-level-june-2021-edition-3j1u35z4)
+![](https://cdn.hackernoon.com/images/55mgLtvwWdf0kHZQ9QMkL4gmWue2-4u3837yg.jpeg)
+If you wondered how to make big profits in the times when the entire crypto market is no longer a small thing, margin trading could come to your avail. Only if you are ready to take on a little more risk.
 
 ### [139. 4 Gold-Backed Tokens to Fight Crypto Volatility](https://hackernoon.com/4-gold-backed-tokens-to-fight-crypto-volatility)
 ![](https://cdn.hackernoon.com/images/4FnNVQr5WaVz9Pb3rjDALHRb4XA2-ic9330s.png)
@@ -598,62 +600,61 @@ Throughout 2021, ecstatic shouts of “Wagmi!” floated down the gold-plated NF
 ![](https://cdn.hackernoon.com/images/OjEJS6k01SYS5O3A9zp2NjQ24Hz1-767h32kb.jpeg)
 Trading is a booming sector that today attracts many people. Here are 10 tips to help you succeed as a trader.
 
-### [148. Crypto Options: Who to Know and What to Watch](https://hackernoon.com/crypto-options-who-to-know-and-what-to-watch-vyr33hx)
-![](https://cdn.hackernoon.com/images/Rfj29N1iK7M03N2VMHLiihQRYuj1-v75k39hp.jpeg)
- The introduction of bitcoin futures offerings from CME began to change that, opening the door for other crypto derivative products.
-
-### [149. How Chintai is Making the Trading Life Cycle More Efficient](https://hackernoon.com/how-chintai-is-making-the-trade-life-cycle-more-efficient-read-thei)
+### [148. How Chintai is Making the Trading Life Cycle More Efficient](https://hackernoon.com/how-chintai-is-making-the-trade-life-cycle-more-efficient-read-thei)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-4m0385n.jpeg)
 The HackerNoon community talked to Ryan Bethem from Chintai about Chintai's position in the market and what sets them apart from their competitors.
 
-### [150. Decoding Market Makers: How to Select the Best One. ](https://hackernoon.com/decoding-market-makers-how-to-select-the-best-one)
+### [149. Crypto Options: Who to Know and What to Watch](https://hackernoon.com/crypto-options-who-to-know-and-what-to-watch-vyr33hx)
+![](https://cdn.hackernoon.com/images/Rfj29N1iK7M03N2VMHLiihQRYuj1-v75k39hp.jpeg)
+ The introduction of bitcoin futures offerings from CME began to change that, opening the door for other crypto derivative products.
+
+### [150. BITLEVEX Secures $50m From GEM Digital](https://hackernoon.com/bitlevex-secures-$50m-from-gem-digital)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-f992aok.jpeg)
+Estonia-based investment platform BITLEVEX announced that it had secured an investment facility totaling $50M from GEM Digital Limited.
+
+### [151. Decoding Market Makers: How to Select the Best One. ](https://hackernoon.com/decoding-market-makers-how-to-select-the-best-one)
 ![](https://cdn.hackernoon.com/images/aen3snxECVSRPNcjBRo7qJhmg2A3-r793zku.png)
 Discover the crucial role of market makers in the volatile world of cryptocurrency, exploring their impact on liquidity and token success.
 
-### [151. Crypto Whales are Laying the Groundwork for the Next Bull Run](https://hackernoon.com/crypto-whales-are-laying-the-groundwork-for-the-next-bull-run)
+### [152. Crypto Whales are Laying the Groundwork for the Next Bull Run](https://hackernoon.com/crypto-whales-are-laying-the-groundwork-for-the-next-bull-run)
 ![](https://cdn.hackernoon.com/images/IZH5VrBxylTJuG6oTbU11LwJemA3-wc638l6.png)
 The psychology driving the market isn’t random; it’s a game of human nature, and the winners know how to play it. 
-
-### [152. Liquidity Matters: Reviewing 10 Popular Decentralized Exchanges in Web3](https://hackernoon.com/liquidity-matters-reviewing-10-popular-decentralized-exchanges-in-web3)
-![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-ej93e35.jpeg)
-Decentralized Exchanges are one of the foundational infrastructure applications that allow humanity a chance to realize the vision of a digital economy.
 
 ### [153. How Useful are Computational Models to Traders in Their Decision Making?](https://hackernoon.com/how-useful-are-computational-models-to-traders-in-their-decision-making)
 ![](https://cdn.hackernoon.com/images/f3jWnMJtX8YEiIL68O6fY1ufljw2-izb3n49.jpeg)
 An article on the history, present and future of Machine Learning in trading.
 
-### [154. From CEX to DEX: The Shifting Landscape of Crypto Exchanges](https://hackernoon.com/from-cex-to-dex-the-shifting-landscape-of-crypto-exchanges)
-![](https://cdn.hackernoon.com/images/xzQTuPQjBSPzte9mtu7SfO5NuMI3-1392lnj.png)
-Does the rise of decentralized exchanges denote the fall of centralized exchanges? Let us find out.
-
-### [155. Uncovering the Dark Truth Behind De Hek and Kassam - Liars Targeting Apollo Fintech](https://hackernoon.com/a-friendly-reminder-that-cryptocurrency-is-the-future-of-money-j62w3uir)
+### [154. Uncovering the Dark Truth Behind De Hek and Kassam - Liars Targeting Apollo Fintech](https://hackernoon.com/a-friendly-reminder-that-cryptocurrency-is-the-future-of-money-j62w3uir)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY6FmFn0ZIfO15FTb4oUA3EXBVCr2-s9m28hl.jpeg?alt=media&token=1b0aff94-97d3-4fbf-941a-86ef7012c452)
 So far, the cryptocurrency industry has grown to be one of the most lucrative in the world. After a decade of existence, Bitcoin has so far become the best performing asset – period. Statistics from last year show that Bitcoin was the best –performing investment class of the year, as well as the past decade.
 
-### [156. BITLEVEX Secures $50m From GEM Digital](https://hackernoon.com/bitlevex-secures-$50m-from-gem-digital)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-f992aok.jpeg)
-Estonia-based investment platform BITLEVEX announced that it had secured an investment facility totaling $50M from GEM Digital Limited.
+### [155. Liquidity Matters: Reviewing 10 Popular Decentralized Exchanges in Web3](https://hackernoon.com/liquidity-matters-reviewing-10-popular-decentralized-exchanges-in-web3)
+![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-ej93e35.jpeg)
+Decentralized Exchanges are one of the foundational infrastructure applications that allow humanity a chance to realize the vision of a digital economy.
 
-### [157. Candlestick Analysis & Top Patterns](https://hackernoon.com/candlestick-analysis-and-top-patterns-723c3ubk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhMY7XlkAizNZbnRvkVr08nHfSPF3-dz5g3uub.jpeg?alt=media&token=a75adf5f-6ffb-4208-801c-34f493c94243)
-As we have already figured out, in all financial markets the price of any asset is shown in the form of graphs that are constantly changing during the trading session. Candlestick analysis of the currency market remains popular to this day, proving its effectiveness and relevance. 
+### [156. From CEX to DEX: The Shifting Landscape of Crypto Exchanges](https://hackernoon.com/from-cex-to-dex-the-shifting-landscape-of-crypto-exchanges)
+![](https://cdn.hackernoon.com/images/xzQTuPQjBSPzte9mtu7SfO5NuMI3-1392lnj.png)
+Does the rise of decentralized exchanges denote the fall of centralized exchanges? Let us find out.
+
+### [157. This Is How JP Morgan Trades with AI](https://hackernoon.com/this-is-how-jp-morgan-trades-with-ai)
+![](https://cdn.hackernoon.com/images/280nxN3q9QYgHWHTlDGlbDv4vzf1-um135fl.webp)
+Learn how Machine Learning helps us get a better execution strategy.
 
 ### [158. The 5 Best Crypto Strategies to Know About After the Crash](https://hackernoon.com/the-5-best-crypto-strategies-to-know-about-after-the-crash)
 ![](https://cdn.hackernoon.com/images/OWwusqtd11XIq9iOOIyuavuCQ7p2-28a3w92.jpeg)
 The crypto crash has absolutely devastated the entire market, and the future of cryptocurrency looks bleak overall.
 
-### [159. The Harsh Truth About Crypto: Demand Is Everything, and You’re Probably Losing](https://hackernoon.com/the-harsh-truth-about-crypto-demand-is-everything-and-youre-probably-losing)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-f202t2e.jpeg)
-Supply in crypto is superabundant. When supply outpaces demand, attention is diverted, liquidity gets spread unevenly, and order books become thin. But, when...
+### [159. Candlestick Analysis & Top Patterns](https://hackernoon.com/candlestick-analysis-and-top-patterns-723c3ubk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhMY7XlkAizNZbnRvkVr08nHfSPF3-dz5g3uub.jpeg?alt=media&token=a75adf5f-6ffb-4208-801c-34f493c94243)
+As we have already figured out, in all financial markets the price of any asset is shown in the form of graphs that are constantly changing during the trading session. Candlestick analysis of the currency market remains popular to this day, proving its effectiveness and relevance. 
 
 ### [160. 268 Stories To Learn About Trading](https://hackernoon.com/268-stories-to-learn-about-trading)
 ![](https://cdn.hackernoon.com/images/github/trading-925.png)
 Learn everything you need to know about Trading via these 268 free HackerNoon stories.
 
-### [161. Can AI Revolutionize the Efficiency of Algo Execution in Institutional Trading?](https://hackernoon.com/can-ai-revolutionize-the-efficiency-of-algo-execution-in-institutional-trading)
-![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-2c8352b.jpeg)
-The AI revolution in FX appears to be focused on portfolio optimization through algorithmic trading and execution. 
-
+### [161. The Harsh Truth About Crypto: Demand Is Everything, and You’re Probably Losing](https://hackernoon.com/the-harsh-truth-about-crypto-demand-is-everything-and-youre-probably-losing)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-f202t2e.jpeg)
+Supply in crypto is superabundant. When supply outpaces demand, attention is diverted, liquidity gets spread unevenly, and order books become thin. But, when...
 
 ### [162. Multi-Asset Brokerage & The Future Of  Digital Trading: An Interview With B2Broker CEO Arthur Azizov](https://hackernoon.com/multi-asset-brokerage-and-the-future-of-digital-trading-an-interview-with-b2broker-ceo-arthur-azizov)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-t0030za.png)
@@ -661,18 +662,19 @@ In this interview with Olayimika Oyebanji, Arthur Azizov -- the CEO of B2Broker 
 
 
 
-### [163. Complaint About BitMex’s WebSocket API, and Update On Profitable Market Makers](https://hackernoon.com/complaint-about-bitmexs-websocket-api-and-update-on-profitable-market-makers-qi14363v)
-![](https://cdn.hackernoon.com/images/nwq327e.jpg)
+### [163. Can AI Revolutionize the Efficiency of Algo Execution in Institutional Trading?](https://hackernoon.com/can-ai-revolutionize-the-efficiency-of-algo-execution-in-institutional-trading)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-2c8352b.jpeg)
+The AI revolution in FX appears to be focused on portfolio optimization through algorithmic trading and execution. 
 
 
-### [164. This Is How JP Morgan Trades with AI](https://hackernoon.com/this-is-how-jp-morgan-trades-with-ai)
-![](https://cdn.hackernoon.com/images/280nxN3q9QYgHWHTlDGlbDv4vzf1-um135fl.webp)
-Learn how Machine Learning helps us get a better execution strategy.
-
-### [165. Adjust Your Market Risk Wisely With This Awesome Python and Google Sheets Rotation Dashboard](https://hackernoon.com/adjust-your-market-risk-wisely-with-this-awesome-python-and-google-sheets-rotation-dashboard-3n1e34l1)
+### [164. Adjust Your Market Risk Wisely With This Awesome Python and Google Sheets Rotation Dashboard](https://hackernoon.com/adjust-your-market-risk-wisely-with-this-awesome-python-and-google-sheets-rotation-dashboard-3n1e34l1)
 ![](https://hackernoon.com/images/boHVnzNNFNWD3u6nFL8m7qEgSow1-9t3w34l6.jpeg)
 Get smarter with your risk, using this market rotation dashboard (python/Google Sheets, works with any financial instrument)
 Adjust your risk intelligently as t
+
+### [165. Complaint About BitMex’s WebSocket API, and Update On Profitable Market Makers](https://hackernoon.com/complaint-about-bitmexs-websocket-api-and-update-on-profitable-market-makers-qi14363v)
+![](https://cdn.hackernoon.com/images/nwq327e.jpg)
+
 
 ### [166. Stock To Flow Deviation #6](https://hackernoon.com/stock-to-flow-deviation-6-xs1234ng)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-59i34jo.jpeg)
@@ -686,33 +688,33 @@ If you have been paying attention to the global crypto space, you might have spo
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5HUaaJqHv2Of3gb6EeMMe4S0ZWY2-kfk3te6.jpeg?alt=media&token=9d1a14ed-7c5f-48f5-a292-9ba54fde1615)
 I was looking for an app that helps you practice trading, something that would replay historical candles and let me trade on them at a point in time, kind of like a trading simulator, but I couldn't find anything that suited my needs.
 
-### [169. What is A Credit Spread And Why Is It Important?](https://hackernoon.com/what-is-a-credit-spread-and-why-is-it-important-u91l3375)
-![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-px1a33gz.jpeg)
-There are many instruments on the financial market investment houses use to predict the future, describe the present and, of course, make money. 
-
-### [170. The Smart New Tools Powering The Crypto Trading Boom](https://hackernoon.com/the-smart-new-tools-powering-the-crypto-trading-boom)
+### [169. The Smart New Tools Powering The Crypto Trading Boom](https://hackernoon.com/the-smart-new-tools-powering-the-crypto-trading-boom)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-lj92bdb.jpeg)
 The Smart New Tools Powering The Crypto Trading Boom
+
+### [170. What is A Credit Spread And Why Is It Important?](https://hackernoon.com/what-is-a-credit-spread-and-why-is-it-important-u91l3375)
+![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-px1a33gz.jpeg)
+There are many instruments on the financial market investment houses use to predict the future, describe the present and, of course, make money. 
 
 ### [171. Exotic Markets Bringing Derivatives & Structured Products to Solana Ecosystem](https://hackernoon.com/exotic-markets-bringing-derivatives-and-structured-products-to-solana-ecosystem)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-1rb3mk8.jpeg)
 Exotic Markets is bringing crypto-based derivatives and structured products to the Solana blockchain.
 
-### [172. Could xDEXs Do To UniSwap What UniSwap Did To DEXs and CEXs?](https://hackernoon.com/could-xdexs-do-to-uniswap-what-uniswap-did-to-dexs-and-cexs-l1383wiy)
+### [172. Q&A with Pluto Co-Founder and CEO Jacob Sansbury](https://hackernoon.com/qanda-with-pluto-co-founder-and-ceo-jacob-sansbury)
+![](https://cdn.hackernoon.com/images/HMOUMhHTnVcjmJTEHjEX9ealKMN2-4593q1c.jpeg)
+Q&A with Pluto Co-Founder and CEO Jacob Sansbury
+
+### [173. Could xDEXs Do To UniSwap What UniSwap Did To DEXs and CEXs?](https://hackernoon.com/could-xdexs-do-to-uniswap-what-uniswap-did-to-dexs-and-cexs-l1383wiy)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPbbfrARZ78UfnvwvOMBFrN2mLJi1-2dq3099.jpeg?alt=media&token=88d90323-98d6-4763-abc5-4caa90ce22e0)
 On September 22, 2020 a new cross-chain decentralized exchange (xDEX) launched called mimo 8 - a fully decentralized protocol with automated liquidity. 
-
-### [173. How to diversify your Investment Portfolio without leaving your cryptocurrency wallet](https://hackernoon.com/how-to-diversify-your-investment-portfolio-without-leaving-your-cryptocurrency-wallet-wb40v38gl)
-![](https://cdn.hackernoon.com/images/u63f338iu.jpg)
-One of the investment mantras we keep hearing from various financial advisors is: “Don’t keep all your eggs in one bucket” which actually means “Always diversify your investment portfolio”. In crypto, it’s harder to implement this advice, because almost every altcoin follows Bitcoin like a dog on a leash. 
 
 ### [174. Overview of the Innovative Features Brought to Financial Markets by Level01](https://hackernoon.com/overview-of-the-innovative-features-brought-to-financial-markets-by-level01-hb293z1n)
 ![](https://cdn.hackernoon.com/drafts/qv8y44o3.png)
 It has become common knowledge that blockchain has immense disruptive power that allows it to push a multifaceted narrative that seems to encapsulate the entirety of the global market, especially the financial markets. While this is a given, very few startups have successfully implemented blockchain solutions targeted at a large demographic and are poised to take on a financial sector that is traditionally known to thrive on intermediate services. 
 
-### [175. Q&A with Pluto Co-Founder and CEO Jacob Sansbury](https://hackernoon.com/qanda-with-pluto-co-founder-and-ceo-jacob-sansbury)
-![](https://cdn.hackernoon.com/images/HMOUMhHTnVcjmJTEHjEX9ealKMN2-4593q1c.jpeg)
-Q&A with Pluto Co-Founder and CEO Jacob Sansbury
+### [175. How to diversify your Investment Portfolio without leaving your cryptocurrency wallet](https://hackernoon.com/how-to-diversify-your-investment-portfolio-without-leaving-your-cryptocurrency-wallet-wb40v38gl)
+![](https://cdn.hackernoon.com/images/u63f338iu.jpg)
+One of the investment mantras we keep hearing from various financial advisors is: “Don’t keep all your eggs in one bucket” which actually means “Always diversify your investment portfolio”. In crypto, it’s harder to implement this advice, because almost every altcoin follows Bitcoin like a dog on a leash. 
 
 ### [176. Information Asymmetry and Crypto Trading](https://hackernoon.com/information-asymmetry-and-crypto-trading)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-vw93il0.jpeg)
@@ -730,13 +732,13 @@ It’s been almost a decade since the first bitcoin exchange emerged and cryptoc
 ![](https://cdn.hackernoon.com/images/EBNEt8ZDkqPFfK65oD0aZyPRqBk1-eoul39ex.jpeg)
 Robinhood's recent debacle leads to rising demand for decentralized solutions. 
 
-### [180. IEO and Trading Bots to Help You Win Each Battle](https://hackernoon.com/ieo-and-trading-bots-to-help-you-win-each-battle-vl1ll312u)
-![](https://cdn.hackernoon.com/images/uy1gv31x8.jpg)
-Post by Tim Kozak, Head of Technology at Intellectsoft Blockchain Lab
-
-### [181. Navigating Crypto: Crafting a Successful Trading Philosophy](https://hackernoon.com/navigating-crypto-crafting-a-successful-trading-philosophy)
+### [180. Navigating Crypto: Crafting a Successful Trading Philosophy](https://hackernoon.com/navigating-crypto-crafting-a-successful-trading-philosophy)
 ![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-94c3o0n.jpeg)
 The philosophy of Crypto Trading differs from cryptocurrency investing. Learning the main principles can give you an edge over other investors.
+
+### [181. IEO and Trading Bots to Help You Win Each Battle](https://hackernoon.com/ieo-and-trading-bots-to-help-you-win-each-battle-vl1ll312u)
+![](https://cdn.hackernoon.com/images/uy1gv31x8.jpg)
+Post by Tim Kozak, Head of Technology at Intellectsoft Blockchain Lab
 
 ### [182. FTX, Alameda & SBF: A Breakdown of Events](https://hackernoon.com/ftx-alameda-and-sbf-a-breakdown-of-events)
 ![](https://cdn.hackernoon.com/images/K7NKtRqnbBMLqrDPcozAD3wnsGJ2-ib93ss1.png)
@@ -754,45 +756,45 @@ The financial market has evolved from what it used to be. There are a lot of red
 ![](https://cdn.hackernoon.com/images/yoA0FdQkIRSGtmfJGIc16IukOSz1-oa26f37al.jpeg)
 Hosting in-game assets on the blockchain would open countless doors in the world of video game asset trading and ownership. It's not a matter of if, but when.
 
-### [186. How to get into Crypto Trading: An Interview with David Waslen](https://hackernoon.com/how-to-get-into-crypto-trading-an-interview-with-david-waslen-pcb732ww)
-![](https://cdn.hackernoon.com/images/4bho36on.jpg)
-David Waslen was finance first, then tech and, in the latter, he was influenced by his good friend and co-founder of HedgeTrade, Peter Danihel. David has studied in the States as well as in the UK, taking a number of economic degrees. 
-
-### [187. A Week to Forget About Inflation](https://hackernoon.com/a-week-to-forget-about-inflation)
+### [186. A Week to Forget About Inflation](https://hackernoon.com/a-week-to-forget-about-inflation)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-wh92d42.jpeg)
 The Black Friday Sale with discounts of up to 60% starts on Tradingview.
 
-### [188. An Introduction to Relative Strength Index Trading Strategies](https://hackernoon.com/an-introduction-to-relative-strength-index-trading-strategies-ml1e3zq7)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-tr153t6l.jpeg?alt=media&token=7248b83e-dd69-47a0-a154-66044b147e43)
-Relative Strength Index (RSI) is another staple indicator of the technical analysis world. What is the Relative Strength Index?  It measures the speed and change of price movements to evaluate if a stock is overbought or oversold. A wildly popular tool among traders, it is also widely misunderstood.
+### [187. How to get into Crypto Trading: An Interview with David Waslen](https://hackernoon.com/how-to-get-into-crypto-trading-an-interview-with-david-waslen-pcb732ww)
+![](https://cdn.hackernoon.com/images/4bho36on.jpg)
+David Waslen was finance first, then tech and, in the latter, he was influenced by his good friend and co-founder of HedgeTrade, Peter Danihel. David has studied in the States as well as in the UK, taking a number of economic degrees. 
 
-### [189. Retail Trading Tech Trends, the Positive Impacts, and More](https://hackernoon.com/retail-trading-tech-trends-the-positive-impacts-and-more)
+### [188. Retail Trading Tech Trends, the Positive Impacts, and More](https://hackernoon.com/retail-trading-tech-trends-the-positive-impacts-and-more)
 ![](https://cdn.hackernoon.com/images/HMOUMhHTnVcjmJTEHjEX9ealKMN2-wi93qn3.png)
 Pluto is democratizing finance and aims to shift power from Wall Street back into the hands of retail investors.
+
+### [189. An Introduction to Relative Strength Index Trading Strategies](https://hackernoon.com/an-introduction-to-relative-strength-index-trading-strategies-ml1e3zq7)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-tr153t6l.jpeg?alt=media&token=7248b83e-dd69-47a0-a154-66044b147e43)
+Relative Strength Index (RSI) is another staple indicator of the technical analysis world. What is the Relative Strength Index?  It measures the speed and change of price movements to evaluate if a stock is overbought or oversold. A wildly popular tool among traders, it is also widely misunderstood.
 
 ### [190. Understanding Exponential Moving Average (EMA) for Trading](https://hackernoon.com/understanding-exponential-moving-average-ema-for-trading-zz2u3z90)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-55v28wl.jpeg?alt=media&token=ba93d635-6f26-4a20-b2a5-3280b379c375)
 Broadly technical analysis is all about seeing the trend and predicting the future. Future is always uncertain and there is probability involved. I recommend using many indicators for a hawk eye view as it will provide the required congruence and high chance of success.
 
-### [191. Why Gen Z and Millennials are Choosing Prop Trading Firms](https://hackernoon.com/why-gen-z-and-millennials-are-choosing-prop-trading-firms)
-![](https://cdn.hackernoon.com/images/nJa28QkpxyX7Ba6xgZPsQ6UmEYK2-d40357m.png)
-Learn why the younger generations are turning to prop firms, favouring online trading challenges and funded accounts over traditional CFD brokers.
-
-### [192. What You Should Know to Win at Algorithmic Trading](https://hackernoon.com/what-you-should-know-to-win-at-algorithmic-trading)
+### [191. What You Should Know to Win at Algorithmic Trading](https://hackernoon.com/what-you-should-know-to-win-at-algorithmic-trading)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-v593vvr.jpeg)
 Among all the trading techniques, one of the most popular and sophisticated is algorithmic trading. 
 
-### [193. How Smart Money Influenced LAZIO's Price](https://hackernoon.com/how-smart-money-influenced-lazios-price)
+### [192. How Smart Money Influenced LAZIO's Price](https://hackernoon.com/how-smart-money-influenced-lazios-price)
 ![](https://cdn.hackernoon.com/images/W2AOLDGrlKNxXUWIQEzOHVPW9jX2-a6h3p5j.jpeg)
 The whole world is eagerly awaiting the World Cup and Fan Token is the top target for price pumping. So there we have it - an analysis of LAZIO.
 
-### [194. [A Response] to the Citron Research Report on Nanox](https://hackernoon.com/a-response-to-the-citron-research-report-on-nanox-o2193wga)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgpabZ3ae5AMod6NEaJWlcWwdp7G2-ahk13ns.jpeg?alt=media&token=7cd15081-795f-4c82-af5d-a8ad54283a32)
-Story first seen here, republished as well to Hackernoon on 9/20/2020 2:28PM
+### [193. Why Gen Z and Millennials are Choosing Prop Trading Firms](https://hackernoon.com/why-gen-z-and-millennials-are-choosing-prop-trading-firms)
+![](https://cdn.hackernoon.com/images/nJa28QkpxyX7Ba6xgZPsQ6UmEYK2-d40357m.png)
+Learn why the younger generations are turning to prop firms, favouring online trading challenges and funded accounts over traditional CFD brokers.
 
-### [195. Millionaire Crypto Influencer Found Chopped in a Suitcase😨](https://hackernoon.com/millionaire-crypto-influencer-found-chopped-in-a-suitcase)
+### [194. Millionaire Crypto Influencer Found Chopped in a Suitcase😨](https://hackernoon.com/millionaire-crypto-influencer-found-chopped-in-a-suitcase)
 ![](https://cdn.hackernoon.com/images/crypto-news-getjsu23fap7x550ygh69xxj.png)
 .. and BlackRock reveals its perfect portfolio standard.
+
+### [195. [A Response] to the Citron Research Report on Nanox](https://hackernoon.com/a-response-to-the-citron-research-report-on-nanox-o2193wga)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgpabZ3ae5AMod6NEaJWlcWwdp7G2-ahk13ns.jpeg?alt=media&token=7cd15081-795f-4c82-af5d-a8ad54283a32)
+Story first seen here, republished as well to Hackernoon on 9/20/2020 2:28PM
 
 ### [196. 5 Ways To Earn an Income During the Pandemic](https://hackernoon.com/5-ways-to-earn-an-income-during-the-pandemic-ub4x3w5b)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-hv3s3wny.jpeg?alt=media&token=fa695824-8d2d-43ba-99cc-12d28213395b)
@@ -844,13 +846,13 @@ In the ever competitive and volatile cryptocurrency market, finding alpha can be
 ![](https://cdn.hackernoon.com/drafts/t11h3y2q.png)
 Right now, many Americans are facing difficult times, with more than 33 million people filing for unemployment over the last eight weeks, the US economy is feeling the pressure.
 
-### [208. Cybersecurity in Crypto Trading: Everything You Need to Know](https://hackernoon.com/cybersecurity-in-crypto-trading-everything-you-need-to-know)
-![](https://cdn.hackernoon.com/images/l2eAYc6mZ4MZ1oc7JNZ3j2rWfTH2-t193std.jpeg)
-Cybersecurity is one of the world’s most pressing concerns at the moment. State departments, major corporations, healthcare providers, universities, and manufacturing facilities have all been hit hard by cybercrime actors.     
-
-### [209. AI Trading Bots Are Great, But Only If Crypto Exchanges Avoid the Hype Trap](https://hackernoon.com/ai-trading-bots-are-great-but-only-if-crypto-exchanges-avoid-the-hype-trap)
+### [208. AI Trading Bots Are Great, But Only If Crypto Exchanges Avoid the Hype Trap](https://hackernoon.com/ai-trading-bots-are-great-but-only-if-crypto-exchanges-avoid-the-hype-trap)
 ![](https://cdn.hackernoon.com/images/y571Oo88B3MdW4bJfQqELtL8ZWM2-yg03bis.png)
 Read about how AI supercharges crypto, but in-house bots blur into asset management and erode trust.
+
+### [209. Cybersecurity in Crypto Trading: Everything You Need to Know](https://hackernoon.com/cybersecurity-in-crypto-trading-everything-you-need-to-know)
+![](https://cdn.hackernoon.com/images/l2eAYc6mZ4MZ1oc7JNZ3j2rWfTH2-t193std.jpeg)
+Cybersecurity is one of the world’s most pressing concerns at the moment. State departments, major corporations, healthcare providers, universities, and manufacturing facilities have all been hit hard by cybercrime actors.     
 
 ### [210. SEC Charges Crypto Market Maker in a Pump-and-dump of a Worthless Token](https://hackernoon.com/sec-charges-crypto-market-maker-in-a-pump-and-dump-of-a-worthless-token)
 ![](https://cdn.hackernoon.com/images/0CGwb8UgNaRccuSFJRKWy6lEpHB2-bqd3yia.jpeg)
@@ -872,33 +874,41 @@ Crypto markets saw some oomph over the weekend but have now begun to take anothe
 ![](https://cdn.hackernoon.com/drafts/9s12i31uw.png)
 With the advent of global equity and digital currency markets, trading has become more accessible to ordinary individuals than ever before. While there is no denying that effective trading can be immensely rewarding and profitable, most asset classes are known to be unforgiving to even the tiniest of mistakes. The good news, however, is that most of these mistakes can be easily avoided with some prior knowledge and determination.
 
-### [215. Will AI Sentiment Analysis Be the Next Online Trading Tool for Risk-averse Investors?](https://hackernoon.com/will-ai-driven-sentiment-analysis-be-the-next-online-trading-tool-for-risk-averse-investors)
-![](https://cdn.hackernoon.com/images/3WCyMXbicVbDNv1AdnVXo4Z5rM52-xk833yn.jpeg)
-Explore whether an AI-powered sentiment analysis could drive smarter and safer decisions in trading.
-
-### [216. The Key to Turning Crypto Into a Trillion Dollar Industry is Trust ](https://hackernoon.com/the-key-to-turning-crypto-into-a-trillion-dollar-industry-is-trust-5kn3wr5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7rEmNIeHNFOBfZZtUMQerOZIGGH3-f94o3z70.jpeg?alt=media&token=3f6ffe01-e770-4495-90a9-ed0c1c72dd83)
-The interest in crypto-derivatives has gained substantial momentum among investors and traders since the introduction of the Chicago Board Options Exchange (CBOE) and the Chicago Mercantile Exchange (CME) in late 2017. Crypto derivatives trading volume soared by 58 percent as compared to the prior month. The monthly volume reached $712bn in August, sufficient to surpass the previous high of $602bn registered in May 2020. Huobi, OKEx, BitMEX, and Binance registered a volume of $208 billion, $190 billion, $72 billion, and $184 billion, respectively.
-
-### [217. ChainGPT Helps Facilitate the Launch of the GT Protocol, Bringing AI-powered Auto-trading to Crypto](https://hackernoon.com/chaingpt-helps-facilitate-the-launch-of-the-gt-protocol-bringing-ai-powered-auto-trading-to-crypto)
+### [215. ChainGPT Helps Facilitate the Launch of the GT Protocol, Bringing AI-powered Auto-trading to Crypto](https://hackernoon.com/chaingpt-helps-facilitate-the-launch-of-the-gt-protocol-bringing-ai-powered-auto-trading-to-crypto)
 ![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-bd834v0.jpeg)
 The GT Protocol launch is catalyzed by a strategic partnership with ChainGPT Pad.
 
-### [218. The Bitcoin Price in the Long Run (Part 2 - Fibonacci Ratios Everywhere!)](https://hackernoon.com/the-bitcoin-price-in-the-long-run-part-2-fibonacci-ratios-everywhere-udt3z65)
+### [216. Will AI Sentiment Analysis Be the Next Online Trading Tool for Risk-averse Investors?](https://hackernoon.com/will-ai-driven-sentiment-analysis-be-the-next-online-trading-tool-for-risk-averse-investors)
+![](https://cdn.hackernoon.com/images/3WCyMXbicVbDNv1AdnVXo4Z5rM52-xk833yn.jpeg)
+Explore whether an AI-powered sentiment analysis could drive smarter and safer decisions in trading.
+
+### [217. aarnâ Protocol's Alpha Creator Program: Pioneering the Future of DeFi](https://hackernoon.com/aarna-protocols-alpha-creator-program-pioneering-the-future-of-defi)
+![](https://cdn.hackernoon.com/images/SVExkzaI1bU3XQqSxrbMNgjrSrr2-1q932up.jpeg)
+Aarnâ is set to launch its Alpha Creator Program. It will provide a platform for the best minds in DeFi to shape the future through collaborative intelligence.
+
+### [218. The Key to Turning Crypto Into a Trillion Dollar Industry is Trust ](https://hackernoon.com/the-key-to-turning-crypto-into-a-trillion-dollar-industry-is-trust-5kn3wr5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7rEmNIeHNFOBfZZtUMQerOZIGGH3-f94o3z70.jpeg?alt=media&token=3f6ffe01-e770-4495-90a9-ed0c1c72dd83)
+The interest in crypto-derivatives has gained substantial momentum among investors and traders since the introduction of the Chicago Board Options Exchange (CBOE) and the Chicago Mercantile Exchange (CME) in late 2017. Crypto derivatives trading volume soared by 58 percent as compared to the prior month. The monthly volume reached $712bn in August, sufficient to surpass the previous high of $602bn registered in May 2020. Huobi, OKEx, BitMEX, and Binance registered a volume of $208 billion, $190 billion, $72 billion, and $184 billion, respectively.
+
+### [219. Introducing Nova Finance](https://hackernoon.com/introducing-nova-finance)
+![](https://cdn.hackernoon.com/images/PCHI5iyUPhWSeRAcGgWPTLqX05W2-pt93v8i.jpeg)
+Nova is an inclusive portfolio management platform that harnesses the power of programmable assets built on Solana.
+
+### [220. The Bitcoin Price in the Long Run (Part 2 - Fibonacci Ratios Everywhere!)](https://hackernoon.com/the-bitcoin-price-in-the-long-run-part-2-fibonacci-ratios-everywhere-udt3z65)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fw24dkR3whBQOH7r7hT1hUe4PAIE3-2p63wni.jpeg?alt=media&token=c2f321b2-9bcc-4fb8-9074-e74ec911060f)
 Part 1 of this series of analysis articles introduced Elliott Wave Principle (EWP). The core assumption is counter-intuitive, at first:
 
 "The Wave Principle argues that markets are not driven by fundamentals or news, but instead by “social mood” – the collective psychology of all market participants"
 
-### [219. How News Affects Crypto Prices](https://hackernoon.com/cryptocurrency-news-trading-strategy-how-news-can-affects-the-crypto-price)
+### [221. How News Affects Crypto Prices](https://hackernoon.com/cryptocurrency-news-trading-strategy-how-news-can-affects-the-crypto-price)
 ![](https://cdn.hackernoon.com/images/jMlq2fOQsVXqEwlCUboY2RBvLYJ3-v194r16.png)
 In this article we’ll discuss how news trading strategy works and how to use it to your advantage in Crypto World.
 
-### [220. aarnâ Protocol's Alpha Creator Program: Pioneering the Future of DeFi](https://hackernoon.com/aarna-protocols-alpha-creator-program-pioneering-the-future-of-defi)
-![](https://cdn.hackernoon.com/images/SVExkzaI1bU3XQqSxrbMNgjrSrr2-1q932up.jpeg)
-Aarnâ is set to launch its Alpha Creator Program. It will provide a platform for the best minds in DeFi to shape the future through collaborative intelligence.
+### [222. Bitcoin Navigator - Price Analysis [November, 2019]](https://hackernoon.com/bitcoin-navigator-current-analysis-and-predictions-on-btc-y1o32ph)
+![](https://cdn.hackernoon.com/images/nn1as329j.jpg)
+Hello friends and HODLers
 
-### [221. What Crypto Novelties Should We Expect in 2020?](https://hackernoon.com/dive-in-new-year-with-some-new-features-what-novelties-to-expect-in-the-crypto-market-during-2020-e41s32op)
+### [223. What Crypto Novelties Should We Expect in 2020?](https://hackernoon.com/dive-in-new-year-with-some-new-features-what-novelties-to-expect-in-the-crypto-market-during-2020-e41s32op)
 ![](https://cdn.hackernoon.com/drafts/nlw032qr.png)
 Every year Cryptocurrency Market keeps attracting the attention and trust of masses. Mostly, people divide into two camps: those who trust in crypto, and skeptics, who keep saying that “sweet 2017” will never happen to cryptocurrencies again.
 
@@ -906,414 +916,414 @@ Firstly, let’s summarize what the past 2019 year led to.
 
 The Six Main Crypto-Market Changes During 2019:
 
-### [222. The Role of AI and ML in Enhancing The Ability Of Multiplying Wealth	](https://hackernoon.com/the-role-of-ai-and-ml-in-enhancing-the-ability-of-multiplying-wealth-0g2e34vm)
-![](https://cdn.hackernoon.com/images/5O5F1ZCMRLYcTRCXuHmZRnmps2t2-gwm31dn.jpeg)
-Landing a good job is generally considered the purpose of education today. 
-
-### [223. Bitcoin Navigator - Price Analysis [November, 2019]](https://hackernoon.com/bitcoin-navigator-current-analysis-and-predictions-on-btc-y1o32ph)
-![](https://cdn.hackernoon.com/images/nn1as329j.jpg)
-Hello friends and HODLers
-
-### [224. Introducing Nova Finance](https://hackernoon.com/introducing-nova-finance)
-![](https://cdn.hackernoon.com/images/PCHI5iyUPhWSeRAcGgWPTLqX05W2-pt93v8i.jpeg)
-Nova is an inclusive portfolio management platform that harnesses the power of programmable assets built on Solana.
-
-### [225. Digital Derivatives, Their Types and Specifics of Their Use](https://hackernoon.com/digital-derivatives-their-types-and-specifics-of-their-use)
-![](https://cdn.hackernoon.com/images/55mgLtvwWdf0kHZQ9QMkL4gmWue2-b3b3mc8.jpeg)
-Blockchain has already created new ways of managing businesses. Now, its constant development can lead to the complete disruption of traditional finance. We can observe how it starts when a new spot for digital asset products appears, such as cryptocurrencies and stablecoin. Their development led to the rapid growth of the digital-based derivatives market. 
-
-### [226. Can Bitcoin Go Even Higher?](https://hackernoon.com/can-bitcoin-go-even-higher-esv33ab)
-![](https://cdn.hackernoon.com/images/r633U8vKGhQp66FOBDmgOkw0J472-7n123xup.jpeg)
-An overview of bitocin's bull cycle using on-chain analysis. Can bitcoin go higher? Read more to find out.
-
-### [227. “Bitcoin Is Up! Oh, Nevermind”: What Volatility Means for Crypto Investors](https://hackernoon.com/bitcoin-is-up-oh-nevermind-what-volatility-means-for-crypto-investors)
-![](https://cdn.hackernoon.com/images/LYBTgRnDN2czaHdhZ2x1ZeYjVYv1-b2b3k1h.jpeg)
-“Bitcoin Is Up! Oh, Nevermind”: What Volatility Means for Crypto Investors
-
-### [228. “Don’t just beat the market - crush it”](https://hackernoon.com/dont-just-beat-the-market-crush-it-i0m34rd)
-![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-v1i34pn.jpeg)
-When I was reviewing our new flagship SaaS TradersAlmanac.ai, I thought that the charts could use a little extra 'oomph' to make them do their conversion magic more powerfully.
-
-### [229. “Make Every Trade Count” with BitDelta, the New Platform Set to Revolutionize Trading](https://hackernoon.com/make-every-trade-count-with-bitdelta-the-new-platform-set-to-revolutionize-trading)
+### [224. “Make Every Trade Count” with BitDelta, the New Platform Set to Revolutionize Trading](https://hackernoon.com/make-every-trade-count-with-bitdelta-the-new-platform-set-to-revolutionize-trading)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-r892fq8.jpeg)
 BitDelta is a trading platform meticulously crafted by traders for traders. 
 
-### [230. JBL and Abboud Trading Corporation: A Strategic Partnership Driving Market Expansion](https://hackernoon.com/jbl-and-abboud-trading-corporation-a-strategic-partnership-driving-market-expansion)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-j58347s.jpeg)
-We interviewed Rafael Cintra, JBL's Sales and Marketing Director, to explore the details and achievements of the JBL-ATC partnership.
+### [225. The Role of AI and ML in Enhancing The Ability Of Multiplying Wealth	](https://hackernoon.com/the-role-of-ai-and-ml-in-enhancing-the-ability-of-multiplying-wealth-0g2e34vm)
+![](https://cdn.hackernoon.com/images/5O5F1ZCMRLYcTRCXuHmZRnmps2t2-gwm31dn.jpeg)
+Landing a good job is generally considered the purpose of education today. 
 
-### [231. POC Bot #1 Up 31.5% in 5 Hours – 3% Max Drawdown](https://hackernoon.com/poc-bot-1-up-315percent-in-5-hours-3percent-max-drawdown-2l12363p)
-![](https://cdn.hackernoon.com/images/68s32gp.jpg)
-View This Post in It’s Original Form on dunncreativess.github.io!
+### [226. “Bitcoin Is Up! Oh, Nevermind”: What Volatility Means for Crypto Investors](https://hackernoon.com/bitcoin-is-up-oh-nevermind-what-volatility-means-for-crypto-investors)
+![](https://cdn.hackernoon.com/images/LYBTgRnDN2czaHdhZ2x1ZeYjVYv1-b2b3k1h.jpeg)
+“Bitcoin Is Up! Oh, Nevermind”: What Volatility Means for Crypto Investors
 
-### [232. Trading Instruments - Metatrader 4 Key Functions](https://hackernoon.com/trading-instruments-metatrader-4-key-functions-cu1j3tjm)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGZDSbFZOARVAVpKeO3dNbzzICdz1-zu4v3t7l.jpeg?alt=media&token=eae12d6a-ea4e-4c44-880c-4fbf08a615f2)
-The forex market is one of the biggest entities of its type anywhere in the world, with an estimated $6.6 trillion traded globally every single day.
+### [227. Digital Derivatives, Their Types and Specifics of Their Use](https://hackernoon.com/digital-derivatives-their-types-and-specifics-of-their-use)
+![](https://cdn.hackernoon.com/images/55mgLtvwWdf0kHZQ9QMkL4gmWue2-b3b3mc8.jpeg)
+Blockchain has already created new ways of managing businesses. Now, its constant development can lead to the complete disruption of traditional finance. We can observe how it starts when a new spot for digital asset products appears, such as cryptocurrencies and stablecoin. Their development led to the rapid growth of the digital-based derivatives market. 
 
-### [233. TradeGDT AI Project Achieves 10% of Bybit Derivatives Trading Volume in 4 Hours](https://hackernoon.com/tradegdt-ai-project-achieves-10percent-of-bybit-derivatives-trading-volume-in-4-hours)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-d6b2p5r.jpeg)
-Join TraderDAO's TradeGDT revolution and harness the power of advanced quant trading and ChatGPT integration.
+### [228. Can Bitcoin Go Even Higher?](https://hackernoon.com/can-bitcoin-go-even-higher-esv33ab)
+![](https://cdn.hackernoon.com/images/r633U8vKGhQp66FOBDmgOkw0J472-7n123xup.jpeg)
+An overview of bitocin's bull cycle using on-chain analysis. Can bitcoin go higher? Read more to find out.
 
-### [234. A Look at PeachHub & Its Defi-Focused Trading Tools](https://hackernoon.com/a-look-at-peachhub-and-its-defi-focused-trading-tools)
-![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-r293jvb.jpeg)
-In this post, we’ll look at Peachfolio and their PeachHub app, as well as the features available for DeFi investors.
+### [229. “Don’t just beat the market - crush it”](https://hackernoon.com/dont-just-beat-the-market-crush-it-i0m34rd)
+![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-v1i34pn.jpeg)
+When I was reviewing our new flagship SaaS TradersAlmanac.ai, I thought that the charts could use a little extra 'oomph' to make them do their conversion magic more powerfully.
 
-### [235. Bitcoin and Altcoins: Truth #3 "Size Does NOT Matter"](https://hackernoon.com/bitcoin-and-altcoins-truth-3-size-does-not-matter)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-f103ol0.jpeg)
-There is no altcoin cycle. They all move up and down at roughly the same time, regardless of size.
-
-### [236. How Can SEO for Forex Companies be Useful and Profitable?](https://hackernoon.com/how-can-seo-for-forex-companies-be-useful-and-profitable)
+### [230. How Can SEO for Forex Companies be Useful and Profitable?](https://hackernoon.com/how-can-seo-for-forex-companies-be-useful-and-profitable)
 ![](https://cdn.hackernoon.com/images/PVN1qtxyOSTgqH0W7fHB84Zowlt1-r693kz2.jpeg)
 Companies may improve their search engine results by obtaining high-quality links from other websites or obtaining backlinks that lead to their own site
 
-### [237. A Brief Look at of Some of the Richest NFT Collectors of all Time](https://hackernoon.com/an-brief-look-at-of-some-of-the-richest-nft-collectors-of-all-time)
+### [231. Emerging Market Alpha or Legal Liability?](https://hackernoon.com/emerging-market-alpha-or-legal-liability)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-t3024b2.webp)
+Emerging market alpha in Albania comes with serious structural risk, from land restitution disputes to banking bottlenecks.
+
+### [232. JBL and Abboud Trading Corporation: A Strategic Partnership Driving Market Expansion](https://hackernoon.com/jbl-and-abboud-trading-corporation-a-strategic-partnership-driving-market-expansion)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-j58347s.jpeg)
+We interviewed Rafael Cintra, JBL's Sales and Marketing Director, to explore the details and achievements of the JBL-ATC partnership.
+
+### [233. A Look at PeachHub & Its Defi-Focused Trading Tools](https://hackernoon.com/a-look-at-peachhub-and-its-defi-focused-trading-tools)
+![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-r293jvb.jpeg)
+In this post, we’ll look at Peachfolio and their PeachHub app, as well as the features available for DeFi investors.
+
+### [234. TradeGDT AI Project Achieves 10% of Bybit Derivatives Trading Volume in 4 Hours](https://hackernoon.com/tradegdt-ai-project-achieves-10percent-of-bybit-derivatives-trading-volume-in-4-hours)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-d6b2p5r.jpeg)
+Join TraderDAO's TradeGDT revolution and harness the power of advanced quant trading and ChatGPT integration.
+
+### [235. POC Bot #1 Up 31.5% in 5 Hours – 3% Max Drawdown](https://hackernoon.com/poc-bot-1-up-315percent-in-5-hours-3percent-max-drawdown-2l12363p)
+![](https://cdn.hackernoon.com/images/68s32gp.jpg)
+View This Post in It’s Original Form on dunncreativess.github.io!
+
+### [236. Trading Instruments - Metatrader 4 Key Functions](https://hackernoon.com/trading-instruments-metatrader-4-key-functions-cu1j3tjm)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGZDSbFZOARVAVpKeO3dNbzzICdz1-zu4v3t7l.jpeg?alt=media&token=eae12d6a-ea4e-4c44-880c-4fbf08a615f2)
+The forex market is one of the biggest entities of its type anywhere in the world, with an estimated $6.6 trillion traded globally every single day.
+
+### [237. Bitcoin and Altcoins: Truth #3 "Size Does NOT Matter"](https://hackernoon.com/bitcoin-and-altcoins-truth-3-size-does-not-matter)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-f103ol0.jpeg)
+There is no altcoin cycle. They all move up and down at roughly the same time, regardless of size.
+
+### [238. A Brief Look at of Some of the Richest NFT Collectors of all Time](https://hackernoon.com/an-brief-look-at-of-some-of-the-richest-nft-collectors-of-all-time)
 ![](https://cdn.hackernoon.com/images/AQWA6aseNlcd9p2FA11jmnr7O8t1-7003pfi.png)
 As you may know, Apollo42 tracks top NFT traders based on profit made. Notably, that means the top wallet holders are sure to stand out among the rest. We took the time to examine these top traders so you can learn a little more about stories and people behind those shocking NFT profits.
-
-### [238. 3 Types of Crypto Investors: Which Strategy Wins?](https://hackernoon.com/3-types-of-crypto-investors-which-strategy-wins)
-![](https://cdn.hackernoon.com/images/gold-coins-on-a-chess-board-clddyiw5a000101s649yy6hiq.png)
-Having a plan in place helps to avoid mistakes that can result in large losses.
 
 ### [239. Not Your Keys, Not Your Coins, or Consequences of Using API Keys for Trading](https://hackernoon.com/not-your-keys-not-your-coins-or-consequences-of-using-api-keys-for-trading)
 ![](https://cdn.hackernoon.com/images/LfIWgEvv7eQxowzxo2fYPBh2gAo1-wlc3ps8.jpeg)
 Using trading bots is a common practice among crypto traders but what does the case with 3Commas teaches us? How to protect funds when using a trading bot.
 
 
-### [240. Final Bot Pre-Launch & Initial HN 2.0 Post!](https://hackernoon.com/final-bot-pre-launch-andand-initial-hn-20-post-wm45j3ze3)
-![](https://cdn.hackernoon.com/images/3r46y3zkk.jpg)
-Hi folks!
+### [240. 3 Types of Crypto Investors: Which Strategy Wins?](https://hackernoon.com/3-types-of-crypto-investors-which-strategy-wins)
+![](https://cdn.hackernoon.com/images/gold-coins-on-a-chess-board-clddyiw5a000101s649yy6hiq.png)
+Having a plan in place helps to avoid mistakes that can result in large losses.
 
 ### [241. MEXC Global’s Record Low Fees Boosts Crypto Market Recovery](https://hackernoon.com/mexc-globals-record-low-fees-boosts-crypto-market-recovery)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-vb92hx5.jpeg)
 Ever since MEXC Global announced it was slashing maker and taker fees on the platform, the exchange has seen renewed growth.
 
-### [242. The Difference Between Long Positions and Short Positions in Trading](https://hackernoon.com/the-difference-between-long-positions-and-short-positions-in-trading-bz3g37ux)
-![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-ddi328n.jpeg)
-When it comes to trading, we call long positions the buy orders that are placed by traders who want to benefit from the ascending price of an asset.
-
-### [243. What is Online Trading?](https://hackernoon.com/what-is-online-trading)
+### [242. What is Online Trading?](https://hackernoon.com/what-is-online-trading)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-3ca3vh8.jpeg)
 Online trading comes with a number of risks, so it's important to understand what you're getting into before placing any trades. 
 
 
-### [244. Crypto CFDs and Derivatives Should be Regulated for Investor's Safety ](https://hackernoon.com/crypto-cfds-and-derivatives-should-be-regulated-for-investors-safety)
+### [243. Final Bot Pre-Launch & Initial HN 2.0 Post!](https://hackernoon.com/final-bot-pre-launch-andand-initial-hn-20-post-wm45j3ze3)
+![](https://cdn.hackernoon.com/images/3r46y3zkk.jpg)
+Hi folks!
+
+### [244. The Difference Between Long Positions and Short Positions in Trading](https://hackernoon.com/the-difference-between-long-positions-and-short-positions-in-trading-bz3g37ux)
+![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-ddi328n.jpeg)
+When it comes to trading, we call long positions the buy orders that are placed by traders who want to benefit from the ascending price of an asset.
+
+### [245. Crypto CFDs and Derivatives Should be Regulated for Investor's Safety ](https://hackernoon.com/crypto-cfds-and-derivatives-should-be-regulated-for-investors-safety)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-fy03boh.jpeg)
 In this interview with Marcus Fetherston from Eightcap, we talk about CFDs, derivatives, and regulations. 
 
-### [245. Build on Your Trading Knowledge: What Are Stop Loss and Stop Limit Orders?](https://hackernoon.com/build-on-your-trading-knowledge-what-are-stop-loss-and-stop-limit-orders)
+### [246. Build on Your Trading Knowledge: What Are Stop Loss and Stop Limit Orders?](https://hackernoon.com/build-on-your-trading-knowledge-what-are-stop-loss-and-stop-limit-orders)
 ![](https://cdn.hackernoon.com/images/dXI1QRJ8zNgLlqk3LlqfBXRzniJ3-fh53665.jpeg)
 I bet you’re guessing a stop-loss order, and you’re right. In fact, it’s one of the most common risk management techniques to limit potential losses.
 
-### [246. An Introductory Guide to the Crypto Tax Season](https://hackernoon.com/an-introductory-guide-to-the-crypto-tax-season-vi6d3309)
-![](https://cdn.hackernoon.com/images/zD3iIWSfpPPm5R66L7favBzHxBI2-ma5g35qi.jpeg)
-Whether you are an active day trader or a passive holder, taxes are likely not the first thing that comes to mind when you think about your crypto portfolio. 
-
-### [247. POC Bot Selling Feature #9: Auto-Withdraw Realized PNL Take Profit](https://hackernoon.com/poc-bot-selling-feature-9-auto-withdraw-realized-pnl-take-profit-6d1336j2)
-![](https://cdn.hackernoon.com/images/17l36xk.jpg)
-Lol with me if you can find the spelling mistake embedded in my code? :D
-
-### [248. Forget About Bitcoin's Price Predictions. Do This Instead](https://hackernoon.com/forget-about-bitcoins-price-predictions-do-this-instead)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-2ca3f5m.jpeg)
-Bitcoin price predictions are great but usually wrong. Dismiss them at your own peril, but also to go beyond them.
-
-### [249. A Hard Look Into Noticeable Cross-Exchange Inefficiencies [freebie inside]](https://hackernoon.com/a-hard-look-into-noticeable-cross-exchange-inefficiencies-freebie-inside-s3ex329n)
-![](https://cdn.hackernoon.com/drafts/ibe432vj.png)
-Price action tends to happen where people are planning to keep the crypto they buy. A bigger movement on a spot exchange easily translates into a much more radical move on the exchanges that match and mirror cash’s behavior, like perpetual swaps and futures.
-
-### [250. The Impressive Power of a Forex Brokers List](https://hackernoon.com/the-impressive-power-of-a-forex-brokers-list)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-9e834qd.jpeg)
-Discover how a reliable Forex Brokers List can enhance your trading success by providing vetted, regulated brokers, saving you time and ensuring quality trading
-
-### [251. How Looking for The One Perfect Crypto Exchange Made Me Lose Faith in All](https://hackernoon.com/how-looking-for-the-perfect-crypto-exchange-led-me-to-not-use-one-4vit3y9k)
-![](https://cdn.hackernoon.com/drafts/mxk83y59.png)
-About six months ago, I decided it was high time for me to seriously get involved in cryptocurrency trading. I’m not a full-time trader, but I do consider myself a skilled trader on the foreign exchange markets. I’ve done quite well for myself over the years (regardless of my ups and downs), but I wanted a new challenge. A trading experience different than what I’d ever had before. Crypto trading promised me that challenge. 
-
-### [252. Inside the Millisecond Machine: A Candid Conversation With Trading-Tech Veteran Kanaiyalal Gangani](https://hackernoon.com/inside-the-millisecond-machine-a-candid-conversation-with-trading-tech-veteran-kanaiyalal-gangani)
+### [247. Inside the Millisecond Machine: A Candid Conversation With Trading-Tech Veteran Kanaiyalal Gangani](https://hackernoon.com/inside-the-millisecond-machine-a-candid-conversation-with-trading-tech-veteran-kanaiyalal-gangani)
 ![](https://cdn.hackernoon.com/images/IKXzMIRzuqcRvy8v7VsXkDPhvBK2-xw03dhj.jpeg)
 A two-decade trading-tech veteran explains why modern high-frequency systems are less about being the fastest and more about building resilient. 
 
-### [253. Should One Invest in the Financial Markets During Economic Downturns?](https://hackernoon.com/should-one-invest-in-the-financial-markets-during-economic-downturns-js1k3x9c)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY6FmFn0ZIfO15FTb4oUA3EXBVCr2-qf1429uo.jpeg?alt=media&token=9dc36285-443a-4939-bade-3435ede02ce4)
-An economic downturn does not mean investors should veer away from investing and trading in the financial markets. It is still possible to scoop profits during a recession.
+### [248. POC Bot Selling Feature #9: Auto-Withdraw Realized PNL Take Profit](https://hackernoon.com/poc-bot-selling-feature-9-auto-withdraw-realized-pnl-take-profit-6d1336j2)
+![](https://cdn.hackernoon.com/images/17l36xk.jpg)
+Lol with me if you can find the spelling mistake embedded in my code? :D
 
-### [254. Emerging Market Alpha or Legal Liability?](https://hackernoon.com/emerging-market-alpha-or-legal-liability)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-t3024b2.webp)
-Emerging market alpha in Albania comes with serious structural risk, from land restitution disputes to banking bottlenecks.
+### [249. An Introductory Guide to the Crypto Tax Season](https://hackernoon.com/an-introductory-guide-to-the-crypto-tax-season-vi6d3309)
+![](https://cdn.hackernoon.com/images/zD3iIWSfpPPm5R66L7favBzHxBI2-ma5g35qi.jpeg)
+Whether you are an active day trader or a passive holder, taxes are likely not the first thing that comes to mind when you think about your crypto portfolio. 
+
+### [250. Building a Scalable Price Pipeline for Trading Systems](https://hackernoon.com/building-a-scalable-price-pipeline-for-trading-systems)
+![](https://cdn.hackernoon.com/images/QcTjpbq6vmUrd44L0PDBQ5mfvK73-e2d23cz.jpeg)
+Learn how to build a scalable price aggregation pipeline for trading systems. Covers dual-buffer design, columnar storage with ClickHouse, and real-time stream.
+
+### [251. Forget About Bitcoin's Price Predictions. Do This Instead](https://hackernoon.com/forget-about-bitcoins-price-predictions-do-this-instead)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-2ca3f5m.jpeg)
+Bitcoin price predictions are great but usually wrong. Dismiss them at your own peril, but also to go beyond them.
+
+### [252. The Impressive Power of a Forex Brokers List](https://hackernoon.com/the-impressive-power-of-a-forex-brokers-list)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-9e834qd.jpeg)
+Discover how a reliable Forex Brokers List can enhance your trading success by providing vetted, regulated brokers, saving you time and ensuring quality trading
+
+### [253. A Hard Look Into Noticeable Cross-Exchange Inefficiencies [freebie inside]](https://hackernoon.com/a-hard-look-into-noticeable-cross-exchange-inefficiencies-freebie-inside-s3ex329n)
+![](https://cdn.hackernoon.com/drafts/ibe432vj.png)
+Price action tends to happen where people are planning to keep the crypto they buy. A bigger movement on a spot exchange easily translates into a much more radical move on the exchanges that match and mirror cash’s behavior, like perpetual swaps and futures.
+
+### [254. Crypto Trading on Centralized vs. Decentralized Exchanges](https://hackernoon.com/crypto-trading-on-centralized-vs-decentralized-exchanges)
+![](https://cdn.hackernoon.com/images/UxIVBYXKcBbupDdae4FrLTdB2Dv2-e2a3zfz.jpeg)
+On a centralized exchange, users do not have control over their funds, as they are stored on the exchange's servers.
 
 ### [255. Getting Exposure to Crypto: An Inside Look at 5 Different Methods](https://hackernoon.com/5-ways-to-get-started-in-crypto-a-beginners-guide)
 ![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-qf93233.jpeg)
 What sets apart the conscious being that is man from all other forms of life on earth is our ability to not only plan for the future but to proactively build.. 
 
-### [256. Use SANsheet to Analyse Cryptocurrencies In A More Comprehensive Manner](https://hackernoon.com/use-sansheet-to-analyse-cryptocurrencies-in-a-more-comprehensive-manner-sl1j3wzl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9wP4DWHXAdNQg74LZ8j0PeU91GT2-267w29ga.jpeg?alt=media&token=7eedfad6-7d12-4bf0-98c8-31b9df9008ea)
-How crypto-traders can set up a simple and free spreadsheet to track the technicals, fundamentals and sentiment of 900+ cryptocurrencies. 
+### [256. How Looking for The One Perfect Crypto Exchange Made Me Lose Faith in All](https://hackernoon.com/how-looking-for-the-perfect-crypto-exchange-led-me-to-not-use-one-4vit3y9k)
+![](https://cdn.hackernoon.com/drafts/mxk83y59.png)
+About six months ago, I decided it was high time for me to seriously get involved in cryptocurrency trading. I’m not a full-time trader, but I do consider myself a skilled trader on the foreign exchange markets. I’ve done quite well for myself over the years (regardless of my ups and downs), but I wanted a new challenge. A trading experience different than what I’d ever had before. Crypto trading promised me that challenge. 
 
-### [257. Crypto Trading on Centralized vs. Decentralized Exchanges](https://hackernoon.com/crypto-trading-on-centralized-vs-decentralized-exchanges)
-![](https://cdn.hackernoon.com/images/UxIVBYXKcBbupDdae4FrLTdB2Dv2-e2a3zfz.jpeg)
-On a centralized exchange, users do not have control over their funds, as they are stored on the exchange's servers.
-
-### [258. "Free Market will Adopt the Best Form of Money, and Bitcoin Checks all the Boxes" - Carl Runefelt](https://hackernoon.com/free-market-will-adopt-the-best-form-of-money-and-bitcoin-checks-all-the-boxes-carl-runefelt-981137jy)
-![](https://cdn.hackernoon.com/images/iumnGL1xp3ghC3RL7cb6UMd6VkE3-i83e36pa.jpeg)
-In a bid to help crypto enthusiasts with more insight and information, I reached out to Carl Runefelt, a crypto influencer, for his opinion and expert insights.
-
-### [259. How to Gain Financial Security As a Man with this 5 Safe Tips](https://hackernoon.com/how-to-gain-financial-security-as-a-man-with-this-5-safe-tips-103y3ycs)
-![](https://cdn.hackernoon.com/drafts/sa1td37d3.png)
-‘The risk comes from not knowing what you're doing,' says the rich person.
-
-### [260. Technological Shifts in Forex Trading Systems: A Spotlight on Algorithmic Advances](https://hackernoon.com/technological-shifts-in-forex-trading-systems-a-spotlight-on-algorithmic-advances-xn2j3tyz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHueZCcpfyvNLd38vaPTWmzUz1W03-yp143t4w.jpeg?alt=media&token=07705740-cae0-4b99-9607-5d17365c69c2)
-Thanks to technological advancements, the Forex exchange market has come a long way. Robotics and AI have made the process of data analysis simpler than we imagine. From the best algorithmic Forex robots to Forex indicators and diligent Forex signals services, almost every aspect in the space of Forex is evolving with groundbreaking advancements.
-
-### [261. Building a Scalable Price Pipeline for Trading Systems](https://hackernoon.com/building-a-scalable-price-pipeline-for-trading-systems)
-![](https://cdn.hackernoon.com/images/QcTjpbq6vmUrd44L0PDBQ5mfvK73-e2d23cz.jpeg)
-Learn how to build a scalable price aggregation pipeline for trading systems. Covers dual-buffer design, columnar storage with ClickHouse, and real-time stream.
-
-### [262. How to Create an Account on Binance and Begin Trading Digital Assets](https://hackernoon.com/how-to-create-an-account-on-binance-and-begin-trading-digital-assets)
+### [257. How to Create an Account on Binance and Begin Trading Digital Assets](https://hackernoon.com/how-to-create-an-account-on-binance-and-begin-trading-digital-assets)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-qn92ib5.jpeg)
 In this article, we will go through a step-by-step process of opening a Binance account for cryptocurrency trading.
 
-### [263. Trading Cryptocurrencies and Forex During Times Of Crisis - A How-To Guide](https://hackernoon.com/trading-cryptocurrencies-and-forex-during-times-of-crisis-a-how-to-guide-qz3b3w1a)
+### [258. Should One Invest in the Financial Markets During Economic Downturns?](https://hackernoon.com/should-one-invest-in-the-financial-markets-during-economic-downturns-js1k3x9c)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY6FmFn0ZIfO15FTb4oUA3EXBVCr2-qf1429uo.jpeg?alt=media&token=9dc36285-443a-4939-bade-3435ede02ce4)
+An economic downturn does not mean investors should veer away from investing and trading in the financial markets. It is still possible to scoop profits during a recession.
+
+### [259. What This Weekend's Iran Crisis Actually Taught us About Price Action](https://hackernoon.com/what-this-weekends-iran-crisis-actually-taught-us-about-price-action)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bd824ba.jpeg)
+Crypto crashed Saturday, recovered Sunday. The Iran strikes weren't the cause — liquidity and leverage were. Here's what actually moves price during chaos.
+
+### [260. Use SANsheet to Analyse Cryptocurrencies In A More Comprehensive Manner](https://hackernoon.com/use-sansheet-to-analyse-cryptocurrencies-in-a-more-comprehensive-manner-sl1j3wzl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9wP4DWHXAdNQg74LZ8j0PeU91GT2-267w29ga.jpeg?alt=media&token=7eedfad6-7d12-4bf0-98c8-31b9df9008ea)
+How crypto-traders can set up a simple and free spreadsheet to track the technicals, fundamentals and sentiment of 900+ cryptocurrencies. 
+
+### [261. "Free Market will Adopt the Best Form of Money, and Bitcoin Checks all the Boxes" - Carl Runefelt](https://hackernoon.com/free-market-will-adopt-the-best-form-of-money-and-bitcoin-checks-all-the-boxes-carl-runefelt-981137jy)
+![](https://cdn.hackernoon.com/images/iumnGL1xp3ghC3RL7cb6UMd6VkE3-i83e36pa.jpeg)
+In a bid to help crypto enthusiasts with more insight and information, I reached out to Carl Runefelt, a crypto influencer, for his opinion and expert insights.
+
+### [262. How to Gain Financial Security As a Man with this 5 Safe Tips](https://hackernoon.com/how-to-gain-financial-security-as-a-man-with-this-5-safe-tips-103y3ycs)
+![](https://cdn.hackernoon.com/drafts/sa1td37d3.png)
+‘The risk comes from not knowing what you're doing,' says the rich person.
+
+### [263. Technological Shifts in Forex Trading Systems: A Spotlight on Algorithmic Advances](https://hackernoon.com/technological-shifts-in-forex-trading-systems-a-spotlight-on-algorithmic-advances-xn2j3tyz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHueZCcpfyvNLd38vaPTWmzUz1W03-yp143t4w.jpeg?alt=media&token=07705740-cae0-4b99-9607-5d17365c69c2)
+Thanks to technological advancements, the Forex exchange market has come a long way. Robotics and AI have made the process of data analysis simpler than we imagine. From the best algorithmic Forex robots to Forex indicators and diligent Forex signals services, almost every aspect in the space of Forex is evolving with groundbreaking advancements.
+
+### [264. Trading Cryptocurrencies and Forex During Times Of Crisis - A How-To Guide](https://hackernoon.com/trading-cryptocurrencies-and-forex-during-times-of-crisis-a-how-to-guide-qz3b3w1a)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpViZjlJMG2Sae1BGDP1xaL96I5M2-m51b3upt.png?alt=media&token=dcf5bd67-0b81-47eb-b509-43c0be22a7b7)
 Since the COVID-19 pandemic hit the Western hemisphere, many individuals and retail investors have flocked to the digital currency market. 
 
-### [264. 5 Reasons to Try Out Social Trading in Cryptocurrencies](https://hackernoon.com/5-reasons-to-try-out-social-trading-in-cryptocurrencies-lz7t368i)
+### [265. 5 Reasons to Try Out Social Trading in Cryptocurrencies](https://hackernoon.com/5-reasons-to-try-out-social-trading-in-cryptocurrencies-lz7t368i)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-r483xaa.jpeg)
 Social Trading on The Cryptocurrency Market: What Is It? What For? How To Use? Where To Find? And More:)
 
-### [265. Crypto in 2020: The Year Of Institutions](https://hackernoon.com/crypto-in-2020-the-year-of-institutions-08j34cs)
+### [266. Crypto in 2020: The Year Of Institutions](https://hackernoon.com/crypto-in-2020-the-year-of-institutions-08j34cs)
 ![](https://cdn.hackernoon.com/images/hMY7XlkAizNZbnRvkVr08nHfSPF3-3y2b3wf0.jpeg)
 Crypto in 2020 round-up by Anti Danilevski: The Year Of Institutions
 
-### [266. HODLing: Risks and Rewards Every Crypto HODLer Should Know](https://hackernoon.com/hodling-risks-and-rewards-every-crypto-hodler-should-know)
+### [267. HODLing: Risks and Rewards Every Crypto HODLer Should Know](https://hackernoon.com/hodling-risks-and-rewards-every-crypto-hodler-should-know)
 ![](https://cdn.hackernoon.com/images/2gsT6fLCIiW9YSQGbCU1yOwaCB12-lj036r9.jpeg)
 HODL cryptocurrency is the best strategy when trading crypto. But you can earn long-term interest with your existing assets to earn even more.
-
-### [267. The 11 Ways to Lose Time and Money With Bitcoin (and How to Prevent It)](https://hackernoon.com/the-11-ways-to-lose-time-and-money-with-bitcoin-and-how-to-prevent-it)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9392gsk.jpeg)
-It's all about knowledge. Knowledge will give you total confidence in Bitcoin. Bitcoin will allow you to take power over your life.
 
 ### [268. Any Financial Advice You Can Get Online Should be Taken with Caution](https://hackernoon.com/any-financial-advice-you-can-get-online-should-be-taken-with-caution)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-mw03ea3.jpeg)
 This article talks about social trading and copy trading. Further, why retail investors should not listen to financial advice online. 
 
-### [269. Misadventures in Crypto: The Phantom Deposit](https://hackernoon.com/misadventures-in-crypto-the-phantom-deposit-vg31e35lw)
-![](https://cdn.hackernoon.com/images/vc3443502.jpg)
-Spend enough time on the blockchain, and you’re bound to encounter hiccups. A misplaced zero on an exchange can mean practically giving your funds away to a lucky trader. Or maybe you've felt the pain of losing your seed phrase and locking yourself out of a digital wallet.
+### [269. The 11 Ways to Lose Time and Money With Bitcoin (and How to Prevent It)](https://hackernoon.com/the-11-ways-to-lose-time-and-money-with-bitcoin-and-how-to-prevent-it)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9392gsk.jpeg)
+It's all about knowledge. Knowledge will give you total confidence in Bitcoin. Bitcoin will allow you to take power over your life.
 
-### [270. What This Weekend's Iran Crisis Actually Taught us About Price Action](https://hackernoon.com/what-this-weekends-iran-crisis-actually-taught-us-about-price-action)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bd824ba.jpeg)
-Crypto crashed Saturday, recovered Sunday. The Iran strikes weren't the cause — liquidity and leverage were. Here's what actually moves price during chaos.
-
-### [271. Trading Range: Finding Your Next Runners](https://hackernoon.com/trading-range-finding-your-next-runners-sq383w65)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-fp103t89.jpeg?alt=media&token=b115a67f-3168-47ff-a5a7-af11439c7461)
-Ask traders how they find the next breakout move, the next runner that’s going to skyrocket to +2000% profit. They’ll likely spout a bunch of technical indicators, screeners, Bollinger Bands, RSI, Stochastic Indicators… the list could go on. Before we even get to these tools, we first need to understand what the stock is breaking out from. So without further ado, here is your lesson on Trading Range.
-
-### [272. The Technology Behind Automated Trading: How Does it Help Investors?](https://hackernoon.com/the-technology-behind-automated-trading-how-does-it-help-investors)
+### [270. The Technology Behind Automated Trading: How Does it Help Investors?](https://hackernoon.com/the-technology-behind-automated-trading-how-does-it-help-investors)
 ![](https://cdn.hackernoon.com/images/QZw3EhFLx9W36rx22pz1XqKKm382-vd93tv3.jpeg)
 The practice of automated trading has become increasingly dominant throughout the digital age, even within more traditional markets.
 
-### [273. Investing in Optimism: Exploring The Ways to Invest as Markets Rally on Hope of Covid Vaccine](https://hackernoon.com/investing-in-optimism-exploring-the-ways-to-invest-as-markets-rally-on-hope-of-covid-vaccine-xrj3z4j)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaBxCRG4PdBeC4Gw5xSpatovTWXC2-uu123w6c.jpeg?alt=media&token=9bbbccb8-2528-4ecc-8e02-2934f506f303)
-Disclaimer: Trading and investing involves risk. This is not an endorsement to invest in stocks and companies or trade via platforms mentioned in this article. Trade at your own risk. 
+### [271. Misadventures in Crypto: The Phantom Deposit](https://hackernoon.com/misadventures-in-crypto-the-phantom-deposit-vg31e35lw)
+![](https://cdn.hackernoon.com/images/vc3443502.jpg)
+Spend enough time on the blockchain, and you’re bound to encounter hiccups. A misplaced zero on an exchange can mean practically giving your funds away to a lucky trader. Or maybe you've felt the pain of losing your seed phrase and locking yourself out of a digital wallet.
 
-### [274. How to Make Money on "Relief" During the Bear Market](https://hackernoon.com/how-to-make-money-on-relief-during-the-bear-market)
+### [272. How to Make Money on "Relief" During the Bear Market](https://hackernoon.com/how-to-make-money-on-relief-during-the-bear-market)
 ![](https://cdn.hackernoon.com/images/01bBNYgbQZavo9ln0ylsHq8FzCn1-md93n7t.jpeg)
 How to make money on "relief" during the Bear Market
+
+### [273. Trading Range: Finding Your Next Runners](https://hackernoon.com/trading-range-finding-your-next-runners-sq383w65)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-fp103t89.jpeg?alt=media&token=b115a67f-3168-47ff-a5a7-af11439c7461)
+Ask traders how they find the next breakout move, the next runner that’s going to skyrocket to +2000% profit. They’ll likely spout a bunch of technical indicators, screeners, Bollinger Bands, RSI, Stochastic Indicators… the list could go on. Before we even get to these tools, we first need to understand what the stock is breaking out from. So without further ado, here is your lesson on Trading Range.
+
+### [274. Investing in Optimism: Exploring The Ways to Invest as Markets Rally on Hope of Covid Vaccine](https://hackernoon.com/investing-in-optimism-exploring-the-ways-to-invest-as-markets-rally-on-hope-of-covid-vaccine-xrj3z4j)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaBxCRG4PdBeC4Gw5xSpatovTWXC2-uu123w6c.jpeg?alt=media&token=9bbbccb8-2528-4ecc-8e02-2934f506f303)
+Disclaimer: Trading and investing involves risk. This is not an endorsement to invest in stocks and companies or trade via platforms mentioned in this article. Trade at your own risk. 
 
 ### [275. Stock To Flow Deviations - Part 2](https://hackernoon.com/stock-to-flow-deviations-part-2-85133491)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-c7i343n.jpeg)
 Measuring The Bitcoin Peak Using Data Science
 
-### [276. PayPal's Bitcoin Play Will To Create A Sharp Uptick in Crypto-Adoption](https://hackernoon.com/paypals-bitcoin-play-will-to-create-a-sharp-uptick-in-crypto-adoption-w63p3zw3)
-![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-rw3d3zqa.jpeg)
-PayPal’s user base could generate demand for over 15% of Bitcoin’s current market cap over the next 12 months.
-
-### [277. 3 Most Undervalued Chinese Stocks](https://hackernoon.com/3-most-undervalued-chinese-stocks)
-![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-tk0375c.jpeg)
-The Chinese stock market is not a place for the faint of heart but that does not mean that you should ignore it.
-
-### [278. The Top 11 Things to AVOID in Crypto  ](https://hackernoon.com/the-top-11-things-to-avoid-in-crypto)
+### [276. The Top 11 Things to AVOID in Crypto  ](https://hackernoon.com/the-top-11-things-to-avoid-in-crypto)
 ![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-68k32rw.jpeg)
 Success in life is defined as much by the actions that we take as it is by the actions that we avoid.
 
-### [279. Bitcoin Bear Market: Is It Over Now?](https://hackernoon.com/bitcoin-bear-market-is-it-over-now-fy3h32b3)
-![](https://cdn.hackernoon.com/images/fkn3yaq.jpg)
-We take a look at Bitcoin from the technical perspective
+### [277. Blackperp Earns a 36 Proof of Usefulness Score by Building a Real-Time Decision Engine for Crypto Perpetual Futures](https://hackernoon.com/blackperp-earns-a-36-proof-of-usefulness-score-by-building-a-real-time-decision-engine-for-crypto-perpetual-futures)
+![](https://cdn.hackernoon.com/images/lbzvBVQ3TBPF6xPNzBPCGdDEM4T2-5y0243k.jpeg)
+Blackperp fuses 173 live signals into actionable crypto futures trade setups with a self-learning engine.
 
-### [280. A Successful Forex Plan Is Within Your Grasp](https://hackernoon.com/a-successful-forex-plan-is-within-your-grasp-ym13130bs)
+### [278. PayPal's Bitcoin Play Will To Create A Sharp Uptick in Crypto-Adoption](https://hackernoon.com/paypals-bitcoin-play-will-to-create-a-sharp-uptick-in-crypto-adoption-w63p3zw3)
+![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-rw3d3zqa.jpeg)
+PayPal’s user base could generate demand for over 15% of Bitcoin’s current market cap over the next 12 months.
+
+### [279. A Successful Forex Plan Is Within Your Grasp](https://hackernoon.com/a-successful-forex-plan-is-within-your-grasp-ym13130bs)
 ![](https://cdn.hackernoon.com/drafts/il16130lb.png)
 While the potential for profits is large when trading with forex, it is important to learn about it first. The following information can help you in some of the demo account well.
 
-### [281. Understanding Stock Options](https://hackernoon.com/understanding-stock-options-qo6e3tyq)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-64493tvq.jpeg?alt=media&token=b78b1230-e6c5-4856-9c20-709ec67b980a)
-Stock Options are one of the most misunderstood investment instruments available on the stock market. Just mention ‘Stock Options’ to everyday investors, and you’re bound to hear such misnomers as — “they’re too risky”, “they’re too complicated”, and “isn’t it just gambling?”
+### [280. 3 Most Undervalued Chinese Stocks](https://hackernoon.com/3-most-undervalued-chinese-stocks)
+![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-tk0375c.jpeg)
+The Chinese stock market is not a place for the faint of heart but that does not mean that you should ignore it.
+
+### [281. Bitcoin Bear Market: Is It Over Now?](https://hackernoon.com/bitcoin-bear-market-is-it-over-now-fy3h32b3)
+![](https://cdn.hackernoon.com/images/fkn3yaq.jpg)
+We take a look at Bitcoin from the technical perspective
 
 ### [282. Fintech-Populism: Using Technology to Level the Financial Playing Field](https://hackernoon.com/fintech-populism-using-technology-to-level-the-financial-playing-field)
 ![](https://cdn.hackernoon.com/images/HMOUMhHTnVcjmJTEHjEX9ealKMN2-t193pwd.jpeg)
 The solution to investing inequality is simply to build trading algorithms for the people.
 
-### [283. What is a Copy Trading Platform and Why We Need One for Cryptocurrencies?](https://hackernoon.com/what-is-a-copy-trading-platform-and-why-we-need-one-for-cryptocurrencies-k7wx311d)
+### [283. Understanding Stock Options](https://hackernoon.com/understanding-stock-options-qo6e3tyq)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-64493tvq.jpeg?alt=media&token=b78b1230-e6c5-4856-9c20-709ec67b980a)
+Stock Options are one of the most misunderstood investment instruments available on the stock market. Just mention ‘Stock Options’ to everyday investors, and you’re bound to hear such misnomers as — “they’re too risky”, “they’re too complicated”, and “isn’t it just gambling?”
+
+### [284. What is a Copy Trading Platform and Why We Need One for Cryptocurrencies?](https://hackernoon.com/what-is-a-copy-trading-platform-and-why-we-need-one-for-cryptocurrencies-k7wx311d)
 ![](https://cdn.hackernoon.com/drafts/7n1934nv.png)
 Copy trading is often confused with social trading, but they differ largely from each other.
 
-### [284. The Growth of PFOF and How it Really Works](https://hackernoon.com/the-growth-of-pfof-and-how-it-really-works-ri2x35dr)
+### [285. The SEC is Still Cracking Whips on Crypto - Should Investors be Concerned?](https://hackernoon.com/the-sec-is-still-cracking-whips-on-crypto-should-investors-be-concerned)
+![](https://cdn.hackernoon.com/images/fmtaHcL2aSSqXuScpakxadSPem53-zy92j0c.jpeg)
+The crypto market has witnessed increased volatility recently, due to the SEC's unabated crackdowns on the crypto industry.
+
+### [286. Should you use a Sector Rotation Strategy?](https://hackernoon.com/should-you-use-a-sector-rotation-strategy-cg103w9q)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-87363tyy.jpeg?alt=media&token=e419908c-77df-4c4b-9c07-8b07ff2c3848)
+‘What goes around comes around’
+
+### [287. The Epistemology of Price: Why the Ticker is a Hallucination, Not a Truth](https://hackernoon.com/the-epistemology-of-price-why-the-ticker-is-a-hallucination-not-a-truth)
+![](https://cdn.hackernoon.com/images/gpxDNFnQraWqyRhQ9zUdo8VkFvC3_ej8asn7g.jpeg)
+Why the market ticker isn't a math equation, but a mirror of our collective hallucinations.
+
+### [288. From Early Success to Failure — My Lessons in ForEx Trading](https://hackernoon.com/from-early-success-to-failure-my-lessons-in-forex-trading)
+![](https://cdn.hackernoon.com/images/HvpAvSh4fdRJmPl3ogYCgRsbXIz1-u4a3s0v.png)
+The story is about a beginner forex trader who achieved early success in the market but lost it all due to arrogance.
+
+### [289. The Growth of PFOF and How it Really Works](https://hackernoon.com/the-growth-of-pfof-and-how-it-really-works-ri2x35dr)
 ![](https://cdn.hackernoon.com/images/ewAGeJ7g5pXixQvEMIo833zbCd92-uv7135we.jpeg)
 PFOF has become most affordable trading approach yielding great profits for everyone, especially after SEC disclosure of information amendment 
 
 
-### [285. Should you use a Sector Rotation Strategy?](https://hackernoon.com/should-you-use-a-sector-rotation-strategy-cg103w9q)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-87363tyy.jpeg?alt=media&token=e419908c-77df-4c4b-9c07-8b07ff2c3848)
-‘What goes around comes around’
+### [290. Indebted to the Tech](https://hackernoon.com/indebted-to-the-tech-2t573y6z)
+![](https://cdn.hackernoon.com/images/gmxn2ewo.jpg)
+Having been in software long enough to work across industries and with a variety of distributed systems, I know every system has its day. Software and systems engineers create performance requirements, latency constraints, and sweat the details on software quality. Their hard work ensures retail sites stay online through black Friday, ad campaigns survive the Superbowl, accounting systems make it through tax season, and media sites stay up to date during the election. And that’s not even counting safety critical systems we rely on each day, systems that keep our hospitals, our vehicles, and our industries humming.
 
-### [286. From Early Success to Failure — My Lessons in ForEx Trading](https://hackernoon.com/from-early-success-to-failure-my-lessons-in-forex-trading)
-![](https://cdn.hackernoon.com/images/HvpAvSh4fdRJmPl3ogYCgRsbXIz1-u4a3s0v.png)
-The story is about a beginner forex trader who achieved early success in the market but lost it all due to arrogance.
-
-### [287. The SEC is Still Cracking Whips on Crypto - Should Investors be Concerned?](https://hackernoon.com/the-sec-is-still-cracking-whips-on-crypto-should-investors-be-concerned)
-![](https://cdn.hackernoon.com/images/fmtaHcL2aSSqXuScpakxadSPem53-zy92j0c.jpeg)
-The crypto market has witnessed increased volatility recently, due to the SEC's unabated crackdowns on the crypto industry.
-
-### [288. Startup Interview with Denis Vasilev, LAVA's Founder](https://hackernoon.com/startup-interview-with-denis-vasilev-lavas-founder)
+### [291. Startup Interview with Denis Vasilev, LAVA's Founder](https://hackernoon.com/startup-interview-with-denis-vasilev-lavas-founder)
 ![](https://cdn.hackernoon.com/images/86UCfOMZqhesMpRBTr28sakRoY72-052n3ojc.png)
 LAVA was nominated as one of the top startups in Moscow in Startups of the year hosted by HackerNoon. This is an interview with its founder.
 
 
 
-### [289. Indebted to the Tech](https://hackernoon.com/indebted-to-the-tech-2t573y6z)
-![](https://cdn.hackernoon.com/images/gmxn2ewo.jpg)
-Having been in software long enough to work across industries and with a variety of distributed systems, I know every system has its day. Software and systems engineers create performance requirements, latency constraints, and sweat the details on software quality. Their hard work ensures retail sites stay online through black Friday, ad campaigns survive the Superbowl, accounting systems make it through tax season, and media sites stay up to date during the election. And that’s not even counting safety critical systems we rely on each day, systems that keep our hospitals, our vehicles, and our industries humming.
-
-### [290. What Are The Risks Associated with HODLing Crypto?](https://hackernoon.com/what-are-the-risks-associated-with-hodling-crypto-ws2o35bl)
-![](https://cdn.hackernoon.com/images/dXI1QRJ8zNgLlqk3LlqfBXRzniJ3-rcf335wf.jpeg)
-Cryptocurrencies are digital or virtual currencies created on something called the blockchain, a public ledger that stores the information about cryptocurrency 
-
-### [291. Why are There So Many Darn Cryptocurrencies?](https://hackernoon.com/why-are-there-so-many-darn-cryptocurrencies)
+### [292. Why are There So Many Darn Cryptocurrencies?](https://hackernoon.com/why-are-there-so-many-darn-cryptocurrencies)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-ki039y1.jpeg)
 CoinGecko lists over 40,000 cryptos. How did they get so many? Are they all scams?
 
-### [292. Boost Your Trading Performance With Commissions](https://hackernoon.com/boost-your-trading-performance-with-commissions-im1634bo)
+### [293. What Are The Risks Associated with HODLing Crypto?](https://hackernoon.com/what-are-the-risks-associated-with-hodling-crypto-ws2o35bl)
+![](https://cdn.hackernoon.com/images/dXI1QRJ8zNgLlqk3LlqfBXRzniJ3-rcf335wf.jpeg)
+Cryptocurrencies are digital or virtual currencies created on something called the blockchain, a public ledger that stores the information about cryptocurrency 
+
+### [294. Boost Your Trading Performance With Commissions](https://hackernoon.com/boost-your-trading-performance-with-commissions-im1634bo)
 ![](https://cdn.hackernoon.com/images/HKHRZglVnEccdOEZNkg3vdtV2843-6d2631l7.jpeg)
 How to boost your trading performance: Commissions
 
-### [293. A Dash Primer - Digital Cash You Can Spend Anywhere](https://hackernoon.com/dash-digital-cash-you-can-spend-anywhere-njb232pj)
+### [295. A Dash Primer - Digital Cash You Can Spend Anywhere](https://hackernoon.com/dash-digital-cash-you-can-spend-anywhere-njb232pj)
 ![](https://cdn.hackernoon.com/images/1w9z32of.jpg)
 "The Dash Platform has the potential to rule them all." This statement by Dash Product Owner, Dana Alibrandi, hints to the value that the platform provides in the cryptocurrency space. On Thursday, May the 23rd, Blockchain at UCLA hosted Dana Alibrandi for their first event of the spring to about what Dash is, how the platform works, and its potential use cases.
 
-### [294. How Technology is Useful to Swing Traders](https://hackernoon.com/how-technology-is-useful-to-swing-traders)
-![](https://cdn.hackernoon.com/images/5g1a5YG1heb2DxFXIOhLa9IPNcO2-ym0378h.jpeg)
-Technology has a huge impact on our everyday lives, especially for traders. From the moment you wake up (to check how the market behaved overnight), to the moment you go back to sleep (to check how markets will open on the other side of the world), technology plays a huge role in ensuring that every trader has the necessary tools and resources to create a successful career.Advanced technology has been the key factor in transforming the way things are done, especially for financial markets. It is the core of how traders operate and maintain their competitive edge in a cutthroat financial market environment.In this digital age, trading continues to evolve due to innovative technology. Here are a few things that have become very useful for traders due to technological innovation.
-
-### [295. Why Markets Struggle to Read Signals in a World of Quiet Constraints](https://hackernoon.com/why-markets-struggle-to-read-signals-in-a-world-of-quiet-constraints)
+### [296. Why Markets Struggle to Read Signals in a World of Quiet Constraints](https://hackernoon.com/why-markets-struggle-to-read-signals-in-a-world-of-quiet-constraints)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6u022fg.jpeg)
 The most important forces shaping markets today are not hidden. They are simply understated. 
 
-### [296. Crypto vs. Slots: Different Buttons, Same Game](https://hackernoon.com/crypto-vs-slots-different-buttons-same-game)
+### [297. Crypto vs. Slots: Different Buttons, Same Game](https://hackernoon.com/crypto-vs-slots-different-buttons-same-game)
 ![](https://cdn.hackernoon.com/images/AkhFfzF4zFYc4FGX7hkJ6lVJFOR2-kt43asx.jpeg)
 Discover why crypto trading and slot machines are basically the same game disguised differently. 
 
-### [297. Automated Trading - What, How, and Why?](https://hackernoon.com/automated-trading-what-how-and-why-rx1c3zah)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPVN1qtxyOSTgqH0W7fHB84Zowlt1-lx1j3wb1.jpeg?alt=media&token=21078a0d-a3f9-4e00-9130-fdbd0ab6209c)
-Automatic trading is a very useful addition to the trader’s arsenal. Back in the 2000s when trading just became available for average people with the development of the MetaTrader 4 platform there were not many options to automate the process. 
+### [298. How Technology is Useful to Swing Traders](https://hackernoon.com/how-technology-is-useful-to-swing-traders)
+![](https://cdn.hackernoon.com/images/5g1a5YG1heb2DxFXIOhLa9IPNcO2-ym0378h.jpeg)
+Technology has a huge impact on our everyday lives, especially for traders. From the moment you wake up (to check how the market behaved overnight), to the moment you go back to sleep (to check how markets will open on the other side of the world), technology plays a huge role in ensuring that every trader has the necessary tools and resources to create a successful career.Advanced technology has been the key factor in transforming the way things are done, especially for financial markets. It is the core of how traders operate and maintain their competitive edge in a cutthroat financial market environment.In this digital age, trading continues to evolve due to innovative technology. Here are a few things that have become very useful for traders due to technological innovation.
 
-### [298. Crypto Investing 101: How to Maximize Your Returns](https://hackernoon.com/crypto-investing-101-how-to-maximize-your-returns)
+### [299. Walk-Forward Optimisation in Python, Step by Step](https://hackernoon.com/walk-forward-optimisation-in-python-step-by-step)
+![](https://cdn.hackernoon.com/images/rtCuyAkI7hbSNQRiNiOrzXUrTxB2-nwa3eds.jpeg)
+Walk-forward optimisation is a way of tuning a trading strategy to the data it has already been trained on.
+
+### [300. Crypto Investing 101: How to Maximize Your Returns](https://hackernoon.com/crypto-investing-101-how-to-maximize-your-returns)
 ![](https://cdn.hackernoon.com/images/bitcoin-king-clicat0jj000001s626kp73wa.png)
 Maximize your crypto investment returns with expert tips and strategies in this Crypto Investing 101 guide.
 
-### [299. Should Crypto-Prices Converge If One Exchange Has Positive Funding Rate While Another Has Negative?](https://hackernoon.com/should-crypto-prices-converge-if-one-exchange-has-positive-funding-rate-while-another-has-negative-zx4p3x3x)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-j73p3x4n.jpeg?alt=media&token=eca55165-6f6e-4756-a3dd-253b732e2e58)
-I was revisiting the theory behind Deribit/Bitmex/Bybit ETH/BTC funding rate arbitrager. Given the theory behind funding rates, if one exchange has a negative rate while another has positive it should mean that the prices converge.
+### [301. Automated Trading - What, How, and Why?](https://hackernoon.com/automated-trading-what-how-and-why-rx1c3zah)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPVN1qtxyOSTgqH0W7fHB84Zowlt1-lx1j3wb1.jpeg?alt=media&token=21078a0d-a3f9-4e00-9130-fdbd0ab6209c)
+Automatic trading is a very useful addition to the trader’s arsenal. Back in the 2000s when trading just became available for average people with the development of the MetaTrader 4 platform there were not many options to automate the process. 
 
-### [300. KuCoin Partners with Chingari to Distribute $20 Million Rupees Worth of Tokens](https://hackernoon.com/kucoin-partners-with-chingari-to-distribute-$20-million-rupees-worth-of-tokens)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-w2e3nhe.jpeg)
-KuCoin, one of the major cryptocurrency exchanges, has partnered with Chingari, a short video-sharing app to distribute tokens worth $20 million rupees. 
-
-### [301. Using Greeks Symbols in Tech, Finance, and Crypto](https://hackernoon.com/using-greeks-symbols-in-tech-finance-and-crypto)
+### [302. Using Greeks Symbols in Tech, Finance, and Crypto](https://hackernoon.com/using-greeks-symbols-in-tech-finance-and-crypto)
 ![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-7r93ar4.jpeg)
 Being at the intersection of technology and finance, crypto has inherited the illustrious vocabulary of wall street traders, computer scientists, and degens...
 
-### [302. Average True Range (ATR): What it is and Its Role in Trading](https://hackernoon.com/average-true-range-atr-what-it-is-and-its-role-in-trading)
+### [303. KuCoin Partners with Chingari to Distribute $20 Million Rupees Worth of Tokens](https://hackernoon.com/kucoin-partners-with-chingari-to-distribute-$20-million-rupees-worth-of-tokens)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-w2e3nhe.jpeg)
+KuCoin, one of the major cryptocurrency exchanges, has partnered with Chingari, a short video-sharing app to distribute tokens worth $20 million rupees. 
+
+### [304. Should Crypto-Prices Converge If One Exchange Has Positive Funding Rate While Another Has Negative?](https://hackernoon.com/should-crypto-prices-converge-if-one-exchange-has-positive-funding-rate-while-another-has-negative-zx4p3x3x)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-j73p3x4n.jpeg?alt=media&token=eca55165-6f6e-4756-a3dd-253b732e2e58)
+I was revisiting the theory behind Deribit/Bitmex/Bybit ETH/BTC funding rate arbitrager. Given the theory behind funding rates, if one exchange has a negative rate while another has positive it should mean that the prices converge.
+
+### [305. Bitcoin bull market? Not so fast, folks](https://hackernoon.com/bitcoin-bull-market-not-so-fast-folks)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-xfd3zai.jpeg)
+Bitcoin's price started pumping and some altcoins caught a bid, just like they do in every bear market. Why only now is it a bull market?
+
+### [306. Average True Range (ATR): What it is and Its Role in Trading](https://hackernoon.com/average-true-range-atr-what-it-is-and-its-role-in-trading)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-w103378.jpeg)
 Everyone wants to know when their favorite cryptocurrency will burst into volatility? And let’s be real, I’m guessing you’re no exception.
 
 
 
-### [303. Bitcoin bull market? Not so fast, folks](https://hackernoon.com/bitcoin-bull-market-not-so-fast-folks)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-xfd3zai.jpeg)
-Bitcoin's price started pumping and some altcoins caught a bid, just like they do in every bear market. Why only now is it a bull market?
-
-### [304. Virtual Futures: How We "Copied" Financial Markets on Ethereum](https://hackernoon.com/virtual-futures-how-we-copied-financial-markets-on-ethereum)
+### [307. Virtual Futures: How We "Copied" Financial Markets on Ethereum](https://hackernoon.com/virtual-futures-how-we-copied-financial-markets-on-ethereum)
 ![](https://cdn.hackernoon.com/images/ooWmjwuq61agCxve2zkA6p7zEyF3-3513s4w.jpeg)
 Find out how we used Ethereum to create Morpher, a trading app that has “virtual copies” of over 700 markets on the blockchain, from Apple stocks to gold.
 
-### [305. The HackerNoon Newsletter: How EliteCircle Tackles Loneliness Among High Achievers (6/8/2025)](https://hackernoon.com/6-8-2025-newsletter)
+### [308. The HackerNoon Newsletter: How EliteCircle Tackles Loneliness Among High Achievers (6/8/2025)](https://hackernoon.com/6-8-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_528_h8tsdj14996iv3338nu3io2j.png)
 6/8/2025: Top 5 stories on the HackerNoon homepage!
 
-### [306. Despite the Bearish Sentiment, There are Still Ways to Make Quick Gains with IDOs](https://hackernoon.com/despite-the-bearish-sentiment-there-are-still-ways-to-make-quick-gains-with-idos)
-![](https://cdn.hackernoon.com/images/l8QHwOZIpCajrMV4KaxQqiie6TT2-f893gws.jpeg)
-There are still ways to make quick gains in the crytpo market with IDOs despite the market being bearish in the last few months thanks to disruptions.
-
-### [307. Large Companies May Take Metaverse Market Share from Small Startups](https://hackernoon.com/large-companies-may-take-metaverse-market-share-from-small-startups)
+### [309. Large Companies May Take Metaverse Market Share from Small Startups](https://hackernoon.com/large-companies-may-take-metaverse-market-share-from-small-startups)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-gb03e2i.jpeg)
 The large game companies with all the capital, user base and creativity are probably in the best position to take the metaverse to the next level. 
 
-### [308. The Epistemology of Price: Why the Ticker is a Hallucination, Not a Truth](https://hackernoon.com/the-epistemology-of-price-why-the-ticker-is-a-hallucination-not-a-truth)
-![](https://cdn.hackernoon.com/images/gpxDNFnQraWqyRhQ9zUdo8VkFvC3_ej8asn7g.jpeg)
-Why the market ticker isn't a math equation, but a mirror of our collective hallucinations.
+### [310. Despite the Bearish Sentiment, There are Still Ways to Make Quick Gains with IDOs](https://hackernoon.com/despite-the-bearish-sentiment-there-are-still-ways-to-make-quick-gains-with-idos)
+![](https://cdn.hackernoon.com/images/l8QHwOZIpCajrMV4KaxQqiie6TT2-f893gws.jpeg)
+There are still ways to make quick gains in the crytpo market with IDOs despite the market being bearish in the last few months thanks to disruptions.
 
-### [309. Marketing Tips For Open-Source Projects](https://hackernoon.com/marketing-tips-for-open-source-projects-l74p3571)
+### [311. Marketing Tips For Open-Source Projects](https://hackernoon.com/marketing-tips-for-open-source-projects-l74p3571)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-s11729vz.jpeg)
  Tips on how to get started with the marketing of your open-source project.
 
-### [310. An Open Essay on the U.S. Federal Reserve, Treasuries, Cryptocurrencies and More: Part 1](https://hackernoon.com/an-open-essay-on-the-us-federal-reserve-treasuries-cryptocurrencies-and-more-part-1)
+### [312. An Open Essay on the U.S. Federal Reserve, Treasuries, Cryptocurrencies and More: Part 1](https://hackernoon.com/an-open-essay-on-the-us-federal-reserve-treasuries-cryptocurrencies-and-more-part-1)
 ![](https://cdn.hackernoon.com/images/r633U8vKGhQp66FOBDmgOkw0J472-fgb3ohe.jpeg)
 The Federal Reserve is raising rates. Markets are turning bearish. Can crypto, bitcoin, or the market rise higher? Here's how to help navigate the markets today
 
-### [311. The Curious Case of Exchange Traded Funds or ETFs](https://hackernoon.com/the-curious-case-of-exchange-traded-funds-or-etfs-hv2k3zkv)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-wjf3zmp.jpeg?alt=media&token=b39925c2-ca1b-444c-91d6-25900db2f607)
-First thing first, it is important to mention that ETF is an instrument that allows you to invest in a fund that makes investments in stocks, bonds, or other assets and, in return, to receive an interest in that investment pool. ETF shares are traded on a national stock exchange. 
-
-### [312. Meme Stocks: What Do they Mean for The Stock Market?](https://hackernoon.com/meme-stocks-what-does-it-mean-for-the-stock-market)
+### [313. Meme Stocks: What Do they Mean for The Stock Market?](https://hackernoon.com/meme-stocks-what-does-it-mean-for-the-stock-market)
 ![](https://cdn.hackernoon.com/images/k1jy6ifNyNVFlhXuo3YTbSZWTjB2-fl03604.jpeg)
 Diving into the story of Reddit-induced surge of GameStop’s stocks, how it impacted the economy, and how should investors treat these types of stocks.
 
-### [313. Dividends vs. Trading Profits](https://hackernoon.com/dividends-vs-trading-profits)
+### [314. The Curious Case of Exchange Traded Funds or ETFs](https://hackernoon.com/the-curious-case-of-exchange-traded-funds-or-etfs-hv2k3zkv)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-wjf3zmp.jpeg?alt=media&token=b39925c2-ca1b-444c-91d6-25900db2f607)
+First thing first, it is important to mention that ETF is an instrument that allows you to invest in a fund that makes investments in stocks, bonds, or other assets and, in return, to receive an interest in that investment pool. ETF shares are traded on a national stock exchange. 
+
+### [315. Dividends vs. Trading Profits](https://hackernoon.com/dividends-vs-trading-profits)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ja93jx9.png)
 Before starting your crypto journey first learn which one is better than between dividends or trading profits. Which one easier or less risky.
 
-### [314. How many borders are closed for trades due to fear and insecurity?](https://hackernoon.com/how-many-borders-are-closed-for-trades-due-to-fear-and-insecurity-tt19z31kq)
+### [316. How many borders are closed for trades due to fear and insecurity?](https://hackernoon.com/how-many-borders-are-closed-for-trades-due-to-fear-and-insecurity-tt19z31kq)
 ![](https://cdn.hackernoon.com/images/8a1831dt.jpg)
 The current world is a very interconnected place. Countries trade with other countries, selling them the surplus of goods they produce and buying goods they don’t have in sufficient quantities. International trade encourages countries to specialize in producing only those goods and services which they can produce with the most efficiency at the lowest cost. It also makes it harder for domestic monopolies to thrive, because they face competition from foreign companies. Almost all economists agree that international trading is beneficial for all participants. But still, some countries are restricted from trading for various reasons. In this article we’ll try to understand the restrictions that many countries face, and how they can overcome them, using blockchain solutions. 
 
-### [315. Volatility & Crypto: The Good, The Bad, and the Ugly Truth ](https://hackernoon.com/volatility-and-crypto-the-good-the-bad-and-the-ugly-truth)
+### [317. Volatility & Crypto: The Good, The Bad, and the Ugly Truth ](https://hackernoon.com/volatility-and-crypto-the-good-the-bad-and-the-ugly-truth)
 ![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-efa3710.jpeg)
 Widowmaker of the untrained trader. Destroyer of margin trading degenerates. Equalizer of Illusion. Whatever you call it, Volatility is an omnipresent r....
 
-### [316. 2020 Noonie Nominee Alyze Sam has Cheated Death Three times](https://hackernoon.com/2020-noonie-nominee-alyze-sam-has-cheated-death-three-times-5a663tjq)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-gk5y3tf7.jpeg?alt=media&token=f30c78ba-fd69-4b8b-8a41-0881661cb201)
-You know that feeling when you work really hard on something for really long and it feels like nobody really notices? Hacker Noon’s Annual Tech Industry Awards, the 2020 Noonies, are here to help with that. 
-
-### [317. Overconfidence: The Thief of Joy](https://hackernoon.com/overconfidence-the-thief-of-joy)
+### [318. Overconfidence: The Thief of Joy](https://hackernoon.com/overconfidence-the-thief-of-joy)
 ![](https://cdn.hackernoon.com/images/kUOnDFG4TfcyWt7u3zDgKznqfdv2-qv13iya.jpeg)
 Overconfidence is the thief of your gains. Protect your investments!
 
-### [318. Is it Safe to Bet on Uranium?](https://hackernoon.com/is-it-safe-to-bet-on-uranium)
-![]()
-Over the past week, global uranium prices have risen by more than about 8% amid protests and unrest in Kazakhstan, the world's largest producer of nuclear fuel.
-
-### [319. Bitcoin ATH Notwithstanding, Gold Price Is Rallying Towards Its Own Highs](https://hackernoon.com/bitcoin-ath-notwithstanding-gold-price-is-rallying-towards-its-own-highs-js49345k)
-![](https://cdn.hackernoon.com/images/5mue33nD4lPf0Jw1l2sHniSBPTD3-i92d31gq.jpeg)
-The thing that most likely raised quite a few eyebrows this week was – in addition to gold’s recent move by itself – the fact that gold rallied mostly without the dollar’s help. Yesterday (Jan. 5) I wrote that one swallow doesn’t make a summer and that a single session rarely changes much.
+### [319. 2020 Noonie Nominee Alyze Sam has Cheated Death Three times](https://hackernoon.com/2020-noonie-nominee-alyze-sam-has-cheated-death-three-times-5a663tjq)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-gk5y3tf7.jpeg?alt=media&token=f30c78ba-fd69-4b8b-8a41-0881661cb201)
+You know that feeling when you work really hard on something for really long and it feels like nobody really notices? Hacker Noon’s Annual Tech Industry Awards, the 2020 Noonies, are here to help with that. 
 
 ### [320. False Breakouts Aren't Failures — They're the Feature](https://hackernoon.com/false-breakouts-arent-failures-theyre-the-feature)
 ![](https://cdn.hackernoon.com/images/KpTn9R1HuAbmyF7a2i6tBLlibK02-rl83rxn.png)
 False breakouts aren't random noise or manipulation — they're a predictable mechanical outcome of how liquidity concentrates at key levels. 
 
-### [321. Leverage Tokens: The Magic Bullet Every DeFi Grinder Needs](https://hackernoon.com/leverage-tokens-the-magic-bullet-every-defi-grinder-needs)
+### [321. Is it Safe to Bet on Uranium?](https://hackernoon.com/is-it-safe-to-bet-on-uranium)
+![]()
+Over the past week, global uranium prices have risen by more than about 8% amid protests and unrest in Kazakhstan, the world's largest producer of nuclear fuel.
+
+### [322. Bitcoin ATH Notwithstanding, Gold Price Is Rallying Towards Its Own Highs](https://hackernoon.com/bitcoin-ath-notwithstanding-gold-price-is-rallying-towards-its-own-highs-js49345k)
+![](https://cdn.hackernoon.com/images/5mue33nD4lPf0Jw1l2sHniSBPTD3-i92d31gq.jpeg)
+The thing that most likely raised quite a few eyebrows this week was – in addition to gold’s recent move by itself – the fact that gold rallied mostly without the dollar’s help. Yesterday (Jan. 5) I wrote that one swallow doesn’t make a summer and that a single session rarely changes much.
+
+### [323. Leverage Tokens: The Magic Bullet Every DeFi Grinder Needs](https://hackernoon.com/leverage-tokens-the-magic-bullet-every-defi-grinder-needs)
 ![](https://cdn.hackernoon.com/images/HeYK1ZZc0baFvddnzC0EKhmflCp2-ur53z5e.png)
 Simplify DeFi yield farming with Leverage Tokens. Learn how these ERC-20 tokens manage collateral, borrowing, & rebalancing for less stress and more efficiency.
 
-### [322. Understanding Exponential Moving Average (EMA) for Trading](https://hackernoon.com/understanding-exponential-moving-average-ema-for-trading-im2t3zts)
+### [324. Understanding Exponential Moving Average (EMA) for Trading](https://hackernoon.com/understanding-exponential-moving-average-ema-for-trading-im2t3zts)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-55v28wl.jpeg?alt=media&token=ba93d635-6f26-4a20-b2a5-3280b379c375)
 Broadly technical analysis is all about seeing the trend and predicting the future. Future is always uncertain and there is probability involved. I recommend using many indicators for a hawk eye view as it will provide the required congruence and high chance of success.
 

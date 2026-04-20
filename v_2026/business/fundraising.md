@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [fundraising](https://hackernoon.com/tagged/fundraising)
+### Let's learn about [Fundraising](https://hackernoon.com/tagged/fundraising) via these 121 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Even the noblest, most life changing ideas and solutions need to be bankrolled. 
 
 ### [1. The ICO Handbook](https://hackernoon.com/the-ico-handbook-705a89fa8978)
@@ -79,13 +81,13 @@ According to Paul A. Gompers and Anna Kovner’s research, serial entrepreneu
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-za93tg4.jpeg)
 KOLnet is an innovative, transparent and fair launchpad that allows early-stage projects to optimise their marketing strategy through the innovation of Web3.
 
-### [20. Can Open Source Pay Your Rent? 💸 Pay for My Coffee At Least. No?](https://hackernoon.com/pay-your-rent-from-open-source-2l2bc32w1)
-![](https://cdn.hackernoon.com/images/2u3h3zaj.jpg)
-hello world! 👋
-
-### [21. Networking at VC Events: How to Gain More Value?](https://hackernoon.com/networking-at-vc-events-how-to-gain-more-value)
+### [20. Networking at VC Events: How to Gain More Value?](https://hackernoon.com/networking-at-vc-events-how-to-gain-more-value)
 ![](https://cdn.hackernoon.com/images/sZWSQ6YzqYX15mpfVAfpju6dlJq2-2ea31gj.jpeg)
 The pandemic and lockdowns have proven to the world the simple truth that we are social beings.
+
+### [21. Can Open Source Pay Your Rent? 💸 Pay for My Coffee At Least. No?](https://hackernoon.com/pay-your-rent-from-open-source-2l2bc32w1)
+![](https://cdn.hackernoon.com/images/2u3h3zaj.jpg)
+hello world! 👋
 
 ### [22. 2 Lessons From The Early Years Of Impact DAOs](https://hackernoon.com/2-lessons-from-the-early-years-of-impact-daos)
 ![](https://cdn.hackernoon.com/images/yBDd4DBhXaUAIM250qotZ4fHvyF3-5e93twa.jpeg)
@@ -151,13 +153,13 @@ This map is a visual overview of every company that helps you get an investment 
 ![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-af92dgq.jpeg)
 Let's look at how crowdfunding and how it relates to the crypto market.
 
-### [38. From ICO to DYCO: A Brief History of Crypto-Fundraising](https://hackernoon.com/from-ico-to-dyco-a-brief-history-of-crypto-fundraising-gc1o345g)
-![](https://cdn.hackernoon.com/images/n2UNASNaMSbfJCZVycuvAaD6KUE3-m862ben.png)
-Potential use and the benefits of blockchain technology and cryptocurrencies were quickly seen by dozens of entrepreneurial people worldwide.
-
-### [39. Bootstrapping Surge: Why 57% More Founders Are Self-Funding in 2025](https://hackernoon.com/bootstrapping-surge-why-57percent-more-founders-are-self-funding-in-2025)
+### [38. Bootstrapping Surge: Why 57% More Founders Are Self-Funding in 2025](https://hackernoon.com/bootstrapping-surge-why-57percent-more-founders-are-self-funding-in-2025)
 ![](https://cdn.hackernoon.com/images/nyJ3v3rRv5NGM0ueVYbwsOuSUNr1-p7438g1.png)
 Pilot's annual founder survey report found that a quarter of founders are self-funding. 
+
+### [39. From ICO to DYCO: A Brief History of Crypto-Fundraising](https://hackernoon.com/from-ico-to-dyco-a-brief-history-of-crypto-fundraising-gc1o345g)
+![](https://cdn.hackernoon.com/images/n2UNASNaMSbfJCZVycuvAaD6KUE3-m862ben.png)
+Potential use and the benefits of blockchain technology and cryptocurrencies were quickly seen by dozens of entrepreneurial people worldwide.
 
 ### [40. Understanding Term Sheets -  Part 1: Liquidation Preferences](https://hackernoon.com/understanding-term-sheets-part-1-liquidation-preferences)
 ![](https://cdn.hackernoon.com/images/3IsSQpnu88cRkat5gOsYPSwjrNj1-6t93k6w.jpeg)
@@ -172,13 +174,13 @@ When it comes to defining startup success, no milestone seems more desired than 
 ![](https://cdn.hackernoon.com/drafts/or79v31e4.png)
 I first of all would like to thank you for giving me trust. We have an opportunity to impact the world together. Im are glad to share an amazing article with some additions (my own). By Alex Wilson and Pat Duffy, co-founders of The Giving Block
 
-### [43. The Unusual Strategy This Entrepreneur Used To Raise Most of His Round Before It Even Started](https://hackernoon.com/the-unusual-strategy-this-entrepreneur-used-to-raise-most-of-his-round-before-it-even-started-ffaa25a88509)
-![](https://cdn.hackernoon.com/drafts/zxp3wio.png)
-A few years ago, Matthew Klein and his brother Andrew saw that the retail landscape was changing and that companies needed more agility than ever.
-
-### [44. Five Tips for Nailing Your Remote Startup Pitch During the Pandemic ](https://hackernoon.com/five-tips-for-nailing-your-remote-startup-pitch-during-the-pandemic-5qb9323g)
+### [43. Five Tips for Nailing Your Remote Startup Pitch During the Pandemic ](https://hackernoon.com/five-tips-for-nailing-your-remote-startup-pitch-during-the-pandemic-5qb9323g)
 ![](https://cdn.hackernoon.com/drafts/jv27t3ku1.png)
 Now that almost everyone is working from home, startup founders looking to raise money from investors will need to do so remotely. In fact, in-person pitches may now be a thing of the past.  
+
+### [44. The Unusual Strategy This Entrepreneur Used To Raise Most of His Round Before It Even Started](https://hackernoon.com/the-unusual-strategy-this-entrepreneur-used-to-raise-most-of-his-round-before-it-even-started-ffaa25a88509)
+![](https://cdn.hackernoon.com/drafts/zxp3wio.png)
+A few years ago, Matthew Klein and his brother Andrew saw that the retail landscape was changing and that companies needed more agility than ever.
 
 ### [45. Fundraising: No One is Going to Do It For You](https://hackernoon.com/my-tough-love-talk-to-founders-who-are-struggling-to-raise-capital-wcq230o4)
 ![](https://cdn.hackernoon.com/drafts/hg9h30ee.png)
@@ -228,30 +230,30 @@ Startup founders' dreams are often filled with massive fundraising rounds, IPOs,
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEGul00e0hBMKb9qQPbz5JJAtB3t2-do2h3wu6.jpeg?alt=media&token=ccd9dce9-376b-4463-b2cb-310ef0ce9be3)
 Joseph Woodbury of Neighbor.com shares three pieces of advice on how to raise capital — from integrating yourself into the local ecosystem to being able to change your plans on a moment’s notice.
 
-### [57. Smart VCs Look for Potential Monopolies](https://hackernoon.com/smart-vcs-look-for-potential-monopolies-qu4033u4)
-![](https://cdn.hackernoon.com/images/l2bhzjRpybaWZSy731tvYuNuxEG2-7bh128ta.jpeg)
-Understand how VC investors think and evaluate how good your startup idea is for VC investments.
-
-### [58. A Thorough Guide on How Wefunder Works](https://hackernoon.com/a-thorough-guide-on-how-wefunder-works)
+### [57. A Thorough Guide on How Wefunder Works](https://hackernoon.com/a-thorough-guide-on-how-wefunder-works)
 ![](https://cdn.hackernoon.com/images/aIXwrTmUDiak9cQrDfjCgnCIaDg1-zx03p1o.png)
 What is Wefunder? How do you get starting crowdfunding your business? Read this in-depth guide to find out. 
+
+### [58. Smart VCs Look for Potential Monopolies](https://hackernoon.com/smart-vcs-look-for-potential-monopolies-qu4033u4)
+![](https://cdn.hackernoon.com/images/l2bhzjRpybaWZSy731tvYuNuxEG2-7bh128ta.jpeg)
+Understand how VC investors think and evaluate how good your startup idea is for VC investments.
 
 ### [59. VC Market Trends and Current Situation Explained by a Corporate Lawyer](https://hackernoon.com/vc-market-trends-and-current-situation-explained-by-a-corporate-lawyer)
 ![](https://cdn.hackernoon.com/images/8wlyTs6rS1Ns9rTwC8LtCyE03B52-rrb3zrv.jpeg)
 How does the VC market look like in late 2022, what jurisdiction do venture funds use now to establish their operations, and which laws affect their business?
 
-### [60. What An Investor Needs to Feel to Say Yes to Your Startup](https://hackernoon.com/what-an-investor-needs-to-feel-to-say-yes-to-your-startup-fan03w2f)
-![](https://cdn.hackernoon.com/drafts/9q1573yj3.png)
-A Previous VC Reveals What Matters More Than Your Pitch Deck.
-
-### [61. 6 Lessons Learned Fundraising for Our Startup in Africa](https://hackernoon.com/6-lessons-learned-fundraising-for-our-startup-in-africa-s19h3wvp)
-![](https://cdn.hackernoon.com/drafts/uf1b3hc7.png)
-After the announcement and news on raising our first external round of capital, several budding African entrepreneurs have reached out to me through various social media channels asking, "Tesh, please could you share some tips on how you did it?" Reflecting upon the same and the numerous congratulatory messages that came streaming in this past week made me think about the struggle of fundraising, and why it is indeed a great milestone for entrepreneurs. As much as the capital we have raised ($350k) for our startup, MarketForce 360, is very 'small' - compared to some counterparts across the globe - I have come to learn that less than 0.5% of startups globally get funded by either angel investors or VC's (venture capitalists). In Africa, the statistics are worse!
-
-### [62. The Rise of AI for Good](https://hackernoon.com/the-rise-of-ai-for-good)
+### [60. The Rise of AI for Good](https://hackernoon.com/the-rise-of-ai-for-good)
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-1e833dv.jpeg)
 How AI adoption can help nonprofits predict donor behavior and optimize their fundraising
 
+
+### [61. What An Investor Needs to Feel to Say Yes to Your Startup](https://hackernoon.com/what-an-investor-needs-to-feel-to-say-yes-to-your-startup-fan03w2f)
+![](https://cdn.hackernoon.com/drafts/9q1573yj3.png)
+A Previous VC Reveals What Matters More Than Your Pitch Deck.
+
+### [62. 6 Lessons Learned Fundraising for Our Startup in Africa](https://hackernoon.com/6-lessons-learned-fundraising-for-our-startup-in-africa-s19h3wvp)
+![](https://cdn.hackernoon.com/drafts/uf1b3hc7.png)
+After the announcement and news on raising our first external round of capital, several budding African entrepreneurs have reached out to me through various social media channels asking, "Tesh, please could you share some tips on how you did it?" Reflecting upon the same and the numerous congratulatory messages that came streaming in this past week made me think about the struggle of fundraising, and why it is indeed a great milestone for entrepreneurs. As much as the capital we have raised ($350k) for our startup, MarketForce 360, is very 'small' - compared to some counterparts across the globe - I have come to learn that less than 0.5% of startups globally get funded by either angel investors or VC's (venture capitalists). In Africa, the statistics are worse!
 
 ### [63. Delphi Digital, Arrington Capital, Gnosis and Flow Ventures Invest $3.5 million in Azuro](https://hackernoon.com/delphi-digital-arrington-capital-gnosis-and-flow-ventures-invest-$35-million-in-azuro)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-pr03eo0.jpeg)
@@ -273,13 +275,13 @@ Tyk's micro-grant program is now accepting applications! Get a chance to receive
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-of93rmf.jpeg)
 Startup valuation is a crucial factor in the early-stage venture market, driving innovation and economic growth. With valuation benchmarks we add transparency.
 
-### [68. 'European Uber' Raises $109M · The UK Has No Chill · Libya is Waging a Proxy War](https://hackernoon.com/european-uber-raises-dollar109m-the-uk-has-no-chill-libya-is-waging-a-proxy-war-yb1jw3tul)
-![](https://cdn.hackernoon.com/images/2k4sb3t5z.gif)
-The top 3 headlines from across the pond for Tuesday, May 26, 2020.
-
-### [69. ICO/IDO & Funds: A Deep Dive](https://hackernoon.com/icoido-and-funds-a-deep-dive-o218347m)
+### [68. ICO/IDO & Funds: A Deep Dive](https://hackernoon.com/icoido-and-funds-a-deep-dive-o218347m)
 ![](https://cdn.hackernoon.com/images/Kr6a1KoRKQhb9ACsjPJxEOh1WTK2-jh3z364z.png)
 There is always a simultaneous connection and conflict of interests between investors and founders. This is most evident in the project’s tokenomics.  
+
+### [69. 'European Uber' Raises $109M · The UK Has No Chill · Libya is Waging a Proxy War](https://hackernoon.com/european-uber-raises-dollar109m-the-uk-has-no-chill-libya-is-waging-a-proxy-war-yb1jw3tul)
+![](https://cdn.hackernoon.com/images/2k4sb3t5z.gif)
+The top 3 headlines from across the pond for Tuesday, May 26, 2020.
 
 ### [70. Exploring the Fundamentals and Advantages of a Decentralized Approach to Fundraising](https://hackernoon.com/exploring-the-fundamentals-and-advantages-of-a-decentralized-approach-to-fundraising)
 ![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-ch92g1g.jpeg)
@@ -325,29 +327,29 @@ When raising capital, not all startups have options—they only receive one term
 ![](https://cdn.hackernoon.com/images/realistic-portrait-a-person-counting-dollar-bills-z6l44ixkpm2vpygb9jof287b.png)
 A better approach to funding is to bootstrap SaaS instead of using VC money. Here, we'll explore many of those underrated and underused ways.
 
-### [79. 5 Key Tips for Raising Funds in a Niche Industry](https://hackernoon.com/5-key-tips-for-raising-funds-in-a-niche-industry)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-xoa3ppk.jpeg)
-5 Tips for fundraising in a niche industry from personal experience building a dating app for Africans
-
-### [80. How to Master the Art of Early-Stage Fundraising](https://hackernoon.com/how-to-master-the-art-of-early-stage-fundraising)
+### [79. How to Master the Art of Early-Stage Fundraising](https://hackernoon.com/how-to-master-the-art-of-early-stage-fundraising)
 ![](https://cdn.hackernoon.com/images/a5GdQIcZFmVidrSVogoCV960w2r1-l8d3gik.jpeg)
 By starting small, refining your pitch, and carefully vetting potential investors, you can build a solid foundation for your startup's future. 
 
-### [81. Building a Bulletproof Pitch: Interview With Victor Larionov](https://hackernoon.com/building-a-bulletproof-pitch-interview-with-victor-larionov-3e7d32ew)
-![](https://cdn.hackernoon.com/images/iumnGL1xp3ghC3RL7cb6UMd6VkE3-rub36ck.jpeg)
-While pitching investors might sound straightforward, there are some underlying technicalities most people fail to understand. Here's an explanation of them.
+### [80. 5 Key Tips for Raising Funds in a Niche Industry](https://hackernoon.com/5-key-tips-for-raising-funds-in-a-niche-industry)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-xoa3ppk.jpeg)
+5 Tips for fundraising in a niche industry from personal experience building a dating app for Africans
 
-### [82. Portal is Raising Capital on Republic Through Reg D Equity Offering](https://hackernoon.com/portal-is-raising-capital-on-republic-through-reg-d-equity-offering)
+### [81. Portal is Raising Capital on Republic Through Reg D Equity Offering](https://hackernoon.com/portal-is-raising-capital-on-republic-through-reg-d-equity-offering)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-x493ump.jpeg)
 Portal has announced its Reg D equity offering through Republic. Republic is a multi-asset investment platform.
 
-### [83. How William the Conquerer Invented Humility](https://hackernoon.com/how-william-the-conquerer-invented-humility-56k3ygn)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQu5Zha5wu5ZtXA9vjm60OUnhJhs2-21by3tjg.webp?alt=media&token=c752cd00-45fc-474f-89cb-a69ace7610eb)
-Following is the never-before published introduction for The Humility Imperative, releasing June 30th, 2020. 
+### [82. Building a Bulletproof Pitch: Interview With Victor Larionov](https://hackernoon.com/building-a-bulletproof-pitch-interview-with-victor-larionov-3e7d32ew)
+![](https://cdn.hackernoon.com/images/iumnGL1xp3ghC3RL7cb6UMd6VkE3-rub36ck.jpeg)
+While pitching investors might sound straightforward, there are some underlying technicalities most people fail to understand. Here's an explanation of them.
 
-### [84. Share Dilution for Startups: Balancing Funding and Ownership](https://hackernoon.com/share-dilution-for-startups-balancing-funding-and-ownership)
+### [83. Share Dilution for Startups: Balancing Funding and Ownership](https://hackernoon.com/share-dilution-for-startups-balancing-funding-and-ownership)
 ![](https://cdn.hackernoon.com/images/illustrate-a-4-groups-of-color-coded-employees-in-an-business-setting-clg549lfx000001s61v501irx.png)
 Getting a new investment for a startup may also result in reduced ownership and voting power due to share dilution. But, it's not that scary as it sounds.
+
+### [84. How William the Conquerer Invented Humility](https://hackernoon.com/how-william-the-conquerer-invented-humility-56k3ygn)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQu5Zha5wu5ZtXA9vjm60OUnhJhs2-21by3tjg.webp?alt=media&token=c752cd00-45fc-474f-89cb-a69ace7610eb)
+Following is the never-before published introduction for The Humility Imperative, releasing June 30th, 2020. 
 
 ### [85. AI Startup Surge Risks Repeating Tech’s Last Funding Mania](https://hackernoon.com/ai-startup-surge-risks-repeating-techs-last-funding-mania)
 ![](https://cdn.hackernoon.com/images/dOzJ35hnYMbYNaVPLiVxolWucDz1-sa137we.jpeg)
@@ -365,26 +367,26 @@ Colizeum, a software development kit startup that provides SDK for mobile game d
 ![](https://cdn.hackernoon.com/images/github/fundraising-916.png)
 Learn everything you need to know about Fundraising via these 102 free HackerNoon stories.
 
-### [89. A Primer to Fundraising Basics And How To Become Pitch Perfect](https://hackernoon.com/a-primer-to-fundraising-basics-and-how-to-become-pitch-perfect-gnk432s7)
-![](https://cdn.hackernoon.com/drafts/ewee3ybb.png)
-Often one of the biggest obstacles to starting a business is finding the capital to get your idea off the ground. Those who cannot turn to their own personal savings or borrow funds from family members or friends must turn to investors, funding organizations, or bank loans to raise startup funds.
-
-### [90. Fundraising in the Crypto Sector](https://hackernoon.com/fundraising-in-the-crypto-sector)
+### [89. Fundraising in the Crypto Sector](https://hackernoon.com/fundraising-in-the-crypto-sector)
 ![](https://cdn.hackernoon.com/images/vKrVt5KoiNdXYifBHJkuQsEsi7F2-la93x0g.jpeg)
 10 recent investments in the crypto market 
 
 
-### [91. Raising Funds for Blockchain Projects is a Long and Winding Road](https://hackernoon.com/raising-funds-for-blockchain-projects-is-a-long-and-winding-road)
+### [90. A Primer to Fundraising Basics And How To Become Pitch Perfect](https://hackernoon.com/a-primer-to-fundraising-basics-and-how-to-become-pitch-perfect-gnk432s7)
+![](https://cdn.hackernoon.com/drafts/ewee3ybb.png)
+Often one of the biggest obstacles to starting a business is finding the capital to get your idea off the ground. Those who cannot turn to their own personal savings or borrow funds from family members or friends must turn to investors, funding organizations, or bank loans to raise startup funds.
+
+### [91. AlphaTON Capital Corp Announces $15 Million Registered Direct Offering](https://hackernoon.com/alphaton-capital-corp-announces-$15-million-registered-direct-offering)
+![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-li037d6.jpeg)
+The Company has entered into a definitive agreement for the purchase of an aggregate of 15,000,000 of its ordinary shares (or pre-funded warrants in lieu thereo
+
+### [92. Raising Funds for Blockchain Projects is a Long and Winding Road](https://hackernoon.com/raising-funds-for-blockchain-projects-is-a-long-and-winding-road)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-2vbs3o6x.jpeg)
 Raising funding for blockchain projects presents many challenges. This article lists some of them. 
 
-### [92. Outtakes From The First Draft of Hacker Noon's Crowdfunding Campaign ](https://hackernoon.com/outtakes-from-the-first-draft-of-hacker-noons-crowdfunding-campaign-2ac13ayb)
+### [93. Outtakes From The First Draft of Hacker Noon's Crowdfunding Campaign ](https://hackernoon.com/outtakes-from-the-first-draft-of-hacker-noons-crowdfunding-campaign-2ac13ayb)
 ![](https://cdn.hackernoon.com/images/bd6qn32io.jpg)
 It's been over 14 months since we launched the Hacker Noon Equity Crowdfunding Campaign and almost a year since we successfully raised the max amount of $1.07M. 
-
-### [93. AlphaTON Capital Corp Announces $15 Million Registered Direct Offering](https://hackernoon.com/alphaton-capital-corp-announces-$15-million-registered-direct-offering)
-![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-li037d6.jpeg)
-The Company has entered into a definitive agreement for the purchase of an aggregate of 15,000,000 of its ordinary shares (or pre-funded warrants in lieu thereo
 
 ### [94. Are Exchanges Manipulating the Price on Initial Exchange Offerings?](https://hackernoon.com/are-exchanges-manipulating-the-price-on-initial-exchange-offerings-m01g32ke)
 ![](https://cdn.hackernoon.com/drafts/121832k4.png)
@@ -410,87 +412,91 @@ Equity crowdfunding was not the easiest choice to make, but it kept us true to o
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3492gi1.jpeg)
 Positioning itself as a bridge to new emerging economies, the Ethereum-backed Web3 investment platform is set to attract investors, crypto advocates, and ......
 
-### [100. How Can a Startup Avoid Being Taken for a Ride by an Investor?](https://hackernoon.com/how-can-a-startup-avoid-being-taken-for-a-ride-by-an-investor)
-![](https://cdn.hackernoon.com/images/GArKgcabu9PjC4jOKDHkJGxythI3-1r03dwx.jpeg)
-Focus on the business, not the lottery.
-
-### [101. MOOKY Memecoin Secures $900K for Final Presale Push](https://hackernoon.com/mooky-memecoin-secures-$900k-for-final-presale-push)
+### [100. MOOKY Memecoin Secures $900K for Final Presale Push](https://hackernoon.com/mooky-memecoin-secures-$900k-for-final-presale-push)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-f7a2p3j.jpeg)
 Memecoin Mooky is gearing up for its final presale phase, having raised $900,000 to date.
 
-### [102. We Raised $450k For Omnisearch’s  Pre-Seed Round: Here's What We Learned](https://hackernoon.com/we-raised-dollar450k-for-omnisearchs-pre-seed-round-heres-what-we-learned)
-![](https://cdn.hackernoon.com/images/rqIHPfkFCOdjMHpkMoqjloHSxvS2-yc337ag.jpeg)
-Eight key takeaways from raising Omnisearch's pre-seed round.
+### [101. How Can a Startup Avoid Being Taken for a Ride by an Investor?](https://hackernoon.com/how-can-a-startup-avoid-being-taken-for-a-ride-by-an-investor)
+![](https://cdn.hackernoon.com/images/GArKgcabu9PjC4jOKDHkJGxythI3-1r03dwx.jpeg)
+Focus on the business, not the lottery.
 
-### [103. Raising Capital For Your Business: First Steps To a Great Deal](https://hackernoon.com/raising-capital-for-your-business-first-steps-to-a-great-deal-a13z3vz6)
+### [102. Raising Capital For Your Business: First Steps To a Great Deal](https://hackernoon.com/raising-capital-for-your-business-first-steps-to-a-great-deal-a13z3vz6)
 ![](https://cdn.hackernoon.com/drafts/syyd3yq0.png)
 Money, or lack of it, can make or break a startup. Period.
+
+### [103. We Raised $450k For Omnisearch’s  Pre-Seed Round: Here's What We Learned](https://hackernoon.com/we-raised-dollar450k-for-omnisearchs-pre-seed-round-heres-what-we-learned)
+![](https://cdn.hackernoon.com/images/rqIHPfkFCOdjMHpkMoqjloHSxvS2-yc337ag.jpeg)
+Eight key takeaways from raising Omnisearch's pre-seed round.
 
 ### [104. Dear Entrepreneurs, Here's How to Love Fundraising ](https://hackernoon.com/dear-entrepreneurs-heres-how-to-love-fundraising-gd3z3yhx)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNoGGwDyqCyZvG7v7d4GnssOATse2-zpq3ygg.webp?alt=media&token=6efa130b-1532-4a07-8ee2-56ff38c2e666)
 If you are an Entrepreneur and have a pulse, fundraising is one of the worst things that you have to deal when you are running a Startup.
 
-### [105. Why My New Book is a Failed Attempt at Something I Can’t Put My Finger On](https://hackernoon.com/why-my-new-book-is-a-failed-attempt-at-something-i-cant-put-my-finger-on-en2y3umq)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQu5Zha5wu5ZtXA9vjm60OUnhJhs2-hed3ucj.webp?alt=media&token=62ec1622-55e1-49cc-a468-5a7b5ee3e420)
-On June 30th, 2020 my new book, The Humility Imperative — Effective Leadership in an Era of Arrogance — will be released. 
-
-### [106. Courier Raised a $35M Series B to Make Notifications Delightful](https://hackernoon.com/courier-raised-a-$35m-series-b-to-make-notifications-delightful)
-![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-q693mck.jpeg)
-We’ve raised $35M to provide engineering teams with great notification infrastructure! The round was led by GV with participation from our existing investors.
-
-### [107. Why Crowdfunding and Charity Platforms Are Valuable ](https://hackernoon.com/why-crowdfunding-and-charity-platforms-are-valuable)
+### [105. Why Crowdfunding and Charity Platforms Are Valuable ](https://hackernoon.com/why-crowdfunding-and-charity-platforms-are-valuable)
 ![](https://cdn.hackernoon.com/images/zwEXaVTnRKRhxqlvf5u6JueAWyM2-si92em9.jpeg)
 Crowdfunding and online charity platforms have exploded, allowing individuals, charities, and entrepreneurs to fundraise from a large pool of potential donors.
 
-### [108. The Beginners' Guide to Gut Checking your Competition](https://hackernoon.com/the-beginners-guide-to-gut-checking-your-competition)
-![](https://cdn.hackernoon.com/images/FOngTir0M4aeAVN3dnA555mRb7p1-xc1wp3750.jpeg)
-The beginners' guide to competitive analysis. Here are the best tools to see how your competition is doing.
+### [106. Cineflicks Launches First Presale Round as It Develops Participation-Based Streaming Platform](https://hackernoon.com/cineflicks-launches-first-presale-round-as-it-develops-participation-based-streaming-platform)
+![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-m183g71.jpeg)
+The model focuses on integrating content consumption with user participation, aiming to create a more interactive entertainment experience.
 
-### [109. 3 Best Tips To Attract Investors Being An Outsider](https://hackernoon.com/3-best-tips-to-attract-investors-being-an-outsider-10k3w13)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEGul00e0hBMKb9qQPbz5JJAtB3t2-kl153tji.jpeg?alt=media&token=61d331b5-a435-4df0-b734-29182063f3ad)
-Unshackled Ventures founding partner Nitin Pachisia explains three ways he built a strong network during his fundraising journey.
+### [107. Courier Raised a $35M Series B to Make Notifications Delightful](https://hackernoon.com/courier-raised-a-$35m-series-b-to-make-notifications-delightful)
+![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-q693mck.jpeg)
+We’ve raised $35M to provide engineering teams with great notification infrastructure! The round was led by GV with participation from our existing investors.
 
-### [110. Knowing When to Hard Pivot Might Be This Year's Most Valuable Skill](https://hackernoon.com/knowing-when-to-hard-pivot-might-be-this-years-most-valuable-skill-s96b3tfh)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrGWF1RDlLZchb3zju0HpnW7gT6X2-fid3uu6.jpeg?alt=media&token=6667be8f-d370-4bac-8fc3-47c50533a9ef)
-In mid-May, we were just closing our seed round after an 8-week-long fundraising process. Two weeks later, we started to have concerns over our product and vision. After a full month of interviews and explorations, we understood we needed to hard pivot. This article is about how we came to understand the shortcomings of our vision, and why we eventually decided to pivot. We talk about how we handled it with all the stakeholders (investors and team) in this article.
+### [108. Why My New Book is a Failed Attempt at Something I Can’t Put My Finger On](https://hackernoon.com/why-my-new-book-is-a-failed-attempt-at-something-i-cant-put-my-finger-on-en2y3umq)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQu5Zha5wu5ZtXA9vjm60OUnhJhs2-hed3ucj.webp?alt=media&token=62ec1622-55e1-49cc-a468-5a7b5ee3e420)
+On June 30th, 2020 my new book, The Humility Imperative — Effective Leadership in an Era of Arrogance — will be released. 
 
-### [111. 263 Meetings, 12 Months and $128,700 in Startup Funding Later](https://hackernoon.com/263-meetings-12-months-and-dollar128700-in-startup-funding-later)
+### [109. 263 Meetings, 12 Months and $128,700 in Startup Funding Later](https://hackernoon.com/263-meetings-12-months-and-dollar128700-in-startup-funding-later)
 ![](https://cdn.hackernoon.com/images/1BW5yZGTxiWu5iaIExemIpxTpUs1-yd03aff.jpeg)
 Is traction enough to raise funding for a Startup or do you need more than that? Here's how we raised $128,700 at Alpe.
 
-### [112. Valuable Insights About The Fundraising Process](https://hackernoon.com/valuable-insights-about-the-fundraising-process-bd1c3515)
+### [110. The Beginners' Guide to Gut Checking your Competition](https://hackernoon.com/the-beginners-guide-to-gut-checking-your-competition)
+![](https://cdn.hackernoon.com/images/FOngTir0M4aeAVN3dnA555mRb7p1-xc1wp3750.jpeg)
+The beginners' guide to competitive analysis. Here are the best tools to see how your competition is doing.
+
+### [111. 3 Best Tips To Attract Investors Being An Outsider](https://hackernoon.com/3-best-tips-to-attract-investors-being-an-outsider-10k3w13)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEGul00e0hBMKb9qQPbz5JJAtB3t2-kl153tji.jpeg?alt=media&token=61d331b5-a435-4df0-b734-29182063f3ad)
+Unshackled Ventures founding partner Nitin Pachisia explains three ways he built a strong network during his fundraising journey.
+
+### [112. Knowing When to Hard Pivot Might Be This Year's Most Valuable Skill](https://hackernoon.com/knowing-when-to-hard-pivot-might-be-this-years-most-valuable-skill-s96b3tfh)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrGWF1RDlLZchb3zju0HpnW7gT6X2-fid3uu6.jpeg?alt=media&token=6667be8f-d370-4bac-8fc3-47c50533a9ef)
+In mid-May, we were just closing our seed round after an 8-week-long fundraising process. Two weeks later, we started to have concerns over our product and vision. After a full month of interviews and explorations, we understood we needed to hard pivot. This article is about how we came to understand the shortcomings of our vision, and why we eventually decided to pivot. We talk about how we handled it with all the stakeholders (investors and team) in this article.
+
+### [113. Valuable Insights About The Fundraising Process](https://hackernoon.com/valuable-insights-about-the-fundraising-process-bd1c3515)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-32x35vx.jpeg)
 We Raised a $26M Series-A to Change How Data Is Moved with our open-source ELT solution. Here's how we did it, deck included
 
-### [113. How Running a Venture Capital Firm is Similar to Playing Basketball](https://hackernoon.com/how-running-a-venture-capital-firm-is-similar-to-playing-basketball-1r5c3yn0)
+### [114. How Running a Venture Capital Firm is Similar to Playing Basketball](https://hackernoon.com/how-running-a-venture-capital-firm-is-similar-to-playing-basketball-1r5c3yn0)
 ![](https://cdn.hackernoon.com/drafts/225m3ysb.png)
 Justin Caldbeck of Binary Capital explains similarities between basketball game and a venture capital firm.
 
-### [114. Everything Changes and Nothing Does…](https://hackernoon.com/everything-changes-and-nothing-does-ma44329r)
+### [115. Everything Changes and Nothing Does…](https://hackernoon.com/everything-changes-and-nothing-does-ma44329r)
 ![](https://cdn.hackernoon.com/drafts/so4532cg.png)
 In the past few months, I have met and spoken to many people from the blockchain space. Enthusiasts, professionals, enthusiasts who pretended to be experts, people who were predicting the future of the decentralization and those who were super excited to hear about it for the first time… Moon and Lambo guys, crypto traders, blockchain startup founders…. people from the traditional finance who were telling me to run away before it’s too late because all this is just a bubble…
-
-### [115. New Investment Report: Is All Capital the Same Shade of Green?](https://hackernoon.com/new-investment-report-is-all-capital-the-same-shade-of-green-861h3tv6)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKEEwPLkGqvOiDOEz8mBumPtWKnF3-523g3usp.jpeg?alt=media&token=898786ae-ef7b-4414-9f30-a2dba9e9941a)
-A new study released today challenges the misperception that taking on Out-of-State capital drives more attractive valuations and better business outcomes for founders. The study, titled “Is all Investment Capital the Same Shade of Green?,” draws on data from the Atlanta Technology Development Center (“ATDC”) to understand the deal dynamics and outcomes of companies in the ATDC incubator program that accepted capital from In-State versus Out-of-State equity providers from 2014 to 2019. In the study, “In-State” represents companies that included investors that reside in the state of Georgia, and “Out-of-State” represents companies that raised capital entirely from investors based outside of Georgia.
 
 ### [116. Your Story Matters More Than Your Traction: Jiga's Adar Hay On Fundraising](https://hackernoon.com/your-story-matters-more-than-your-traction-jigas-adar-hay-on-fundraising)
 ![](https://cdn.hackernoon.com/images/ec5ExNllSsMuJ8mpsiklMn85GGJ2-sn8w37dy.jpeg)
 Adar Hay is a co-founder of Jiga, a Startup Of The Year nominee, and shares with us the origin story of Jiga, as well as their startup and fundraising lessons.
 
-### [117. Perfecting The Art Of Investor Updates: How-to Guide And A Template](https://hackernoon.com/perfecting-the-art-of-investor-updates-how-to-guide-and-a-template-66j35jj)
+### [117. New Investment Report: Is All Capital the Same Shade of Green?](https://hackernoon.com/new-investment-report-is-all-capital-the-same-shade-of-green-861h3tv6)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKEEwPLkGqvOiDOEz8mBumPtWKnF3-523g3usp.jpeg?alt=media&token=898786ae-ef7b-4414-9f30-a2dba9e9941a)
+A new study released today challenges the misperception that taking on Out-of-State capital drives more attractive valuations and better business outcomes for founders. The study, titled “Is all Investment Capital the Same Shade of Green?,” draws on data from the Atlanta Technology Development Center (“ATDC”) to understand the deal dynamics and outcomes of companies in the ATDC incubator program that accepted capital from In-State versus Out-of-State equity providers from 2014 to 2019. In the study, “In-State” represents companies that included investors that reside in the state of Georgia, and “Out-of-State” represents companies that raised capital entirely from investors based outside of Georgia.
+
+### [118. Perfecting The Art Of Investor Updates: How-to Guide And A Template](https://hackernoon.com/perfecting-the-art-of-investor-updates-how-to-guide-and-a-template-66j35jj)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-si1h31kc.jpeg)
 Our investor update guide includes a template and best practices, including why you should send updates before you even have investors.
-
-### [118. "Don't Listen To Other People", Interview with Leia Ruseva](https://hackernoon.com/dont-listen-to-other-people-interview-with-leia-ruseva-1c1m3uyk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-5zj3ut5.jpeg?alt=media&token=8ea0c1c3-77bb-4daa-ba23-4af60313123a)
-Leia Ruseva from India has been nominated for a 2020 #Noonie in the Future Heroes and Technology categories.
 
 ### [119. Web3 Founder Survey: Product-Market Fit and Timing Are Most Existential Challenges](https://hackernoon.com/web3-founder-survey-product-market-fit-and-timing-are-most-existential-challenges)
 ![](https://cdn.hackernoon.com/images/eGK0peZ09QUpjGh1qiW0UkJ5euj2-id93rr8.jpeg)
 The survey covered 13 questions, meant to elicit both open-ended qualitative responses, as well as structured rankings of common challenges
 
-### [120. Helping Crypto Projects Grow - Interview with Startups of the Year Nominee, Polkastarter](https://hackernoon.com/helping-crypto-projects-grow-interview-with-startups-of-the-year-nominee-polkastarter)
+### [120. "Don't Listen To Other People", Interview with Leia Ruseva](https://hackernoon.com/dont-listen-to-other-people-interview-with-leia-ruseva-1c1m3uyk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-5zj3ut5.jpeg?alt=media&token=8ea0c1c3-77bb-4daa-ba23-4af60313123a)
+Leia Ruseva from India has been nominated for a 2020 #Noonie in the Future Heroes and Technology categories.
+
+### [121. Helping Crypto Projects Grow - Interview with Startups of the Year Nominee, Polkastarter](https://hackernoon.com/helping-crypto-projects-grow-interview-with-startups-of-the-year-nominee-polkastarter)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-o593rja.jpeg)
 At Polkastarter, our startup is poised to disrupt the traditional fundraising landscape within the blockchain industry. Find out about how we do this!
 

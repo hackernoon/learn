@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [agile-development](https://hackernoon.com/tagged/agile-development)
+### Let's learn about [Agile Development](https://hackernoon.com/tagged/agile-development) via these 98 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Agile development is an iterative approach to software development that emphasizes collaboration, flexibility, continuous improvement, and rapid delivery of working software. It helps teams respond effectively to change and deliver value quickly in complex projects.
+
 ### [1. McKinsey’s “Agile Transformation Office” is the Final Nail in the Coffin](https://hackernoon.com/mckinseys-agile-transformation-office-is-the-final-nail-in-the-coffin-7x3937vn)
 ![](https://cdn.hackernoon.com/images/ANOvK6YEO3VsptqSywRdUlk1LnD3-q1j359p.jpeg)
 The agile movement is now dead with the final blow dealt by McKinsey recently promoting an “agile transformation office”.
@@ -149,25 +153,25 @@ How do you measure how well your engineering team is doing and how do you find t
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-rn93zeg.jpeg)
 This story discusses 22 actionable tips that will help you all to improve your web design skills in 2022. 
 
-### [38. A Beginner's Guide to Pull Request Stacking](https://hackernoon.com/a-beginners-guide-to-pull-request-stacking)
-![](https://cdn.hackernoon.com/images/veOFc5GVmFPRVEhxrM5XQ7wCvtE2-2i83z3q.jpeg)
-Explore the concept of PR stacking in software development, its benefits, tools to use, and strategies for effective implementation.
-
-### [39. Meet the Writer: Sergey Fedorov on Finding Joy in Software Development Through Structure](https://hackernoon.com/meet-the-writer-sergey-fedorov-on-finding-joy-in-software-development-through-structure)
+### [38. Meet the Writer: Sergey Fedorov on Finding Joy in Software Development Through Structure](https://hackernoon.com/meet-the-writer-sergey-fedorov-on-finding-joy-in-software-development-through-structure)
 ![](https://cdn.hackernoon.com/images/9MDGkdkdIFMGi5LDWNbuzAufTAH3-9f83rof.png)
 HackerNoon interview with Sergey Fedorov, CPO: top stories about team processes, product development, IdeaOps, Agile, AI transformation
+
+### [39. A Beginner's Guide to Pull Request Stacking](https://hackernoon.com/a-beginners-guide-to-pull-request-stacking)
+![](https://cdn.hackernoon.com/images/veOFc5GVmFPRVEhxrM5XQ7wCvtE2-2i83z3q.jpeg)
+Explore the concept of PR stacking in software development, its benefits, tools to use, and strategies for effective implementation.
 
 ### [40. From Resistance to Resilience: Change Management for First-timers in Digital Transformation](https://hackernoon.com/from-resistance-to-resilience-change-management-for-first-timers-in-digital-transformation)
 ![](https://cdn.hackernoon.com/images/GX01rbM2IEM2hXtuMBTT3k8lCjO2-6l0343e.webp)
 Explore how a change mgmt. approach inspired by the Kotter’s 8-Step Model drove enterprise digital transformation through fostering mindset and behavior change
 
-### [41. An Introduction to Agile Practices: Why Small Release in Scrum? ](https://hackernoon.com/an-introduction-to-agile-practices-why-small-release-in-scrum-fk2m34h9)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-96v28vp.jpeg)
-Extreme Programming promotes small releases through continuous integration(CI) and other extreme programming practices.
-
-### [42. The MoSCoW Method: Key to Agile Product Management](https://hackernoon.com/the-moscow-method-key-to-agile-product-management)
+### [41. The MoSCoW Method: Key to Agile Product Management](https://hackernoon.com/the-moscow-method-key-to-agile-product-management)
 ![](https://cdn.hackernoon.com/images/9MDGkdkdIFMGi5LDWNbuzAufTAH3-8a73sge.jpeg)
 Learn MoSCoW prioritization in Agile: practical guide to must-have, should-have, could-have features and how to set priorities in software development.
+
+### [42. An Introduction to Agile Practices: Why Small Release in Scrum? ](https://hackernoon.com/an-introduction-to-agile-practices-why-small-release-in-scrum-fk2m34h9)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-96v28vp.jpeg)
+Extreme Programming promotes small releases through continuous integration(CI) and other extreme programming practices.
 
 ### [43. Why the Discovery Phase in Software Development is Crucial for Success](https://hackernoon.com/why-the-discovery-phase-in-software-development-is-crucial-for-success-bjq33em)
 ![](https://cdn.hackernoon.com/images/WTlf5A7rB3gfHUQIUxrcmJKt3D52-7465333e.jpeg)
@@ -181,13 +185,13 @@ Learn why asynchronous daily standups are beneficial for team collaboration. Exp
 ![](https://cdn.hackernoon.com/images/AO7tvfK5ZxMJC8TZ2vk4R3GTxUX2-sua35k6.png)
 Imagine the philosophies of Socrates, Plato, Confucius, Seneca, and Marcus Aurelius all combined into a one-pager. That's the Agile manifesto for you...
 
-### [46. Process Gates are the Hellish Spawn of Evil You Should Avoid - Here's Why](https://hackernoon.com/process-gates-are-the-hellish-spawn-of-evil-you-should-avoid-heres-why)
-![](https://cdn.hackernoon.com/images/Rb23uaREMkalhM7X3fdN0xnYgsT2-6fi34na.jpeg)
-Process gates are a common leadership trap you may not even realize you’re making: adding steps that require someone to do something. They often backfire!
-
-### [47. How to Define Service Level Objectives as Code to Enhance SRE](https://hackernoon.com/how-to-define-service-level-objectives-as-code-to-enhance-sre-01jt34wx)
+### [46. How to Define Service Level Objectives as Code to Enhance SRE](https://hackernoon.com/how-to-define-service-level-objectives-as-code-to-enhance-sre-01jt34wx)
 ![](https://cdn.hackernoon.com/images/bYofbIxVS1ayc3YlbwmDJGhEUbU2-9w573fhx.jpeg)
 This article introduces how you can define executable Service Level Objectives in code; and why this is such a powerful technique for SRE.
+
+### [47. Process Gates are the Hellish Spawn of Evil You Should Avoid - Here's Why](https://hackernoon.com/process-gates-are-the-hellish-spawn-of-evil-you-should-avoid-heres-why)
+![](https://cdn.hackernoon.com/images/Rb23uaREMkalhM7X3fdN0xnYgsT2-6fi34na.jpeg)
+Process gates are a common leadership trap you may not even realize you’re making: adding steps that require someone to do something. They often backfire!
 
 ### [48. What is Agile Methodology?](https://hackernoon.com/what-is-agile-methodology)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-z093svx.jpeg)
@@ -201,13 +205,13 @@ Agile can be defined as the ability to move quickly and easily. However, for tho
 ![](https://cdn.hackernoon.com/images/ANOvK6YEO3VsptqSywRdUlk1LnD3-vwe3530.jpeg)
 Making agile work at scale is ultimately about changing behavior, not just for the individual contributors involved, but also for the leaders.
 
-### [51. How to Ensure the Success of Microservices-based Projects](https://hackernoon.com/how-to-ensure-the-success-of-microservices-based-projects-lj3e34my)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-eb13286k.jpeg)
-Microservices-based projects are a great idea to deliver products in less time and with great flexibility/agility. 
-
-### [52. How Scrum Teams Can Identify Dependencies by Playing Dependency Poker](https://hackernoon.com/how-scrum-teams-can-identify-dependencies-by-playing-dependency-poker)
+### [51. How Scrum Teams Can Identify Dependencies by Playing Dependency Poker](https://hackernoon.com/how-scrum-teams-can-identify-dependencies-by-playing-dependency-poker)
 ![](https://cdn.hackernoon.com/images/Jr6kz8tAmkhU8nm50CeCk2xeJI03-jt93qn5.jpeg)
 Identify and manage your Dependency with Dependency Poker
+
+### [52. How to Ensure the Success of Microservices-based Projects](https://hackernoon.com/how-to-ensure-the-success-of-microservices-based-projects-lj3e34my)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-eb13286k.jpeg)
+Microservices-based projects are a great idea to deliver products in less time and with great flexibility/agility. 
 
 ### [53. Writing Engaging User Stories](https://hackernoon.com/writing-engaging-user-stories)
 ![](https://cdn.hackernoon.com/images/Ost0Yu7R8YRpFW6b3mNIw0Oq2LX2-qt835ur.jpeg)
@@ -217,17 +221,17 @@ This article describes a model for writing engaging user stories that can be use
 ![](https://cdn.hackernoon.com/images/chKleYAYUwOqE514UDZeirCiTZ52-kw7w34r1.jpeg)
 Many tech businesses rely on a mix of process and platitudes to define how they work. Instead, they should focus on the tactics that inform their processes.
 
-### [55. Scrum vs. Kanban: Which is Better for Your Team?](https://hackernoon.com/scrum-vs-kanban-which-is-better-for-your-team)
-![](https://cdn.hackernoon.com/images/zBNvq4KPzuQTagLdn5CRuQiJhhu2-9b2378u.jpeg)
-Scrum vs Kanban: core principles, similarities and differences. See schedule and cadence in both methods, release approaches, roles and attitude towards changes
+### [55. Daily Standups Tools or Traditional Standups: The Final Verdict](https://hackernoon.com/daily-standups-tools-vs-traditional-standups-the-verdict)
+![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-6j93n72.jpeg)
+The debate about the best way to run daily standups has plenty of nuance. I dig into the options we have for this agile ceremony.
 
 ### [56. Agile Software Development Meets Modern Business Requirements](https://hackernoon.com/agile-software-development-meets-modern-business-requirements-133l32en)
 ![](https://cdn.hackernoon.com/images/7t1232r1.jpg)
 Software development methodology points to a set method for solving information problems using a programming language. This field covers precise methods that outlook the stages of analyzing, designing, developing, testing, documenting, implementing, and evaluating within the convoluted sphere of software engineering.
 
-### [57. Daily Standups Tools or Traditional Standups: The Final Verdict](https://hackernoon.com/daily-standups-tools-vs-traditional-standups-the-verdict)
-![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-6j93n72.jpeg)
-The debate about the best way to run daily standups has plenty of nuance. I dig into the options we have for this agile ceremony.
+### [57. Scrum vs. Kanban: Which is Better for Your Team?](https://hackernoon.com/scrum-vs-kanban-which-is-better-for-your-team)
+![](https://cdn.hackernoon.com/images/zBNvq4KPzuQTagLdn5CRuQiJhhu2-9b2378u.jpeg)
+Scrum vs Kanban: core principles, similarities and differences. See schedule and cadence in both methods, release approaches, roles and attitude towards changes
 
 ### [58. Agile User Story Mapping Board for Jira](https://hackernoon.com/agile-user-story-mapping-board-for-jira-we1r3tlp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMuH1HRot9SSAlcFvZc7HWwYNN8m1-pu283eze.jpeg?alt=media&token=e043e9ba-5f26-44b7-85ae-3204496b5ef8)
@@ -237,17 +241,17 @@ It could be tricky to prioritise hundreds of user stories in spreadsheet or Jira
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-yb82pv6.jpeg)
 The reality of Agile implementation is often far from the glossy picture painted by consultants and textbooks.
 
-### [60. Lean and Agile: Why Not Both? An Introduction for the Uninitiated ](https://hackernoon.com/lean-and-agile-why-not-both-an-introduction-for-the-uninitiated-9rwv3y25)
-![](https://cdn.hackernoon.com/images/fodl3yg9.gif)
-If you aren't an educated and/or experienced tech person, a lot of question marks may pop up in your mind while looking at these two terms: Lean and Agile. Even if you are technically proficient, you may wonder what the difference between these two really is. 
-
-### [61. The AI FOMO Dilemma: Why Agility Gives Practitioners an Edge in the AI Era](https://hackernoon.com/the-ai-fomo-dilemma-why-agility-gives-practitioners-an-edge-in-the-ai-era)
+### [60. The AI FOMO Dilemma: Why Agility Gives Practitioners an Edge in the AI Era](https://hackernoon.com/the-ai-fomo-dilemma-why-agility-gives-practitioners-an-edge-in-the-ai-era)
 ![](https://cdn.hackernoon.com/images/PwlwuygkzsbYFsBnnPNFbs38O7c2-sm03nhj.jpeg)
 AI FOMO comes from seeing everyone’s polished AI achievements while you see all your own experiments, failures, and confusion.
 
-### [62. RUI: A Web-based Road Updates Information System using Google Maps API](https://hackernoon.com/rui-a-web-based-road-updates-information-system-using-google-maps-api)
+### [61. RUI: A Web-based Road Updates Information System using Google Maps API](https://hackernoon.com/rui-a-web-based-road-updates-information-system-using-google-maps-api)
 ![](https://cdn.hackernoon.com/images/busy-road-g0d6idvlp86uqqoy9e97dhp9.png)
 Discover a revolutionary web-based road update system using Google Maps API, offering real-time information on road conditions, accidents, and construction.
+
+### [62. Lean and Agile: Why Not Both? An Introduction for the Uninitiated ](https://hackernoon.com/lean-and-agile-why-not-both-an-introduction-for-the-uninitiated-9rwv3y25)
+![](https://cdn.hackernoon.com/images/fodl3yg9.gif)
+If you aren't an educated and/or experienced tech person, a lot of question marks may pop up in your mind while looking at these two terms: Lean and Agile. Even if you are technically proficient, you may wonder what the difference between these two really is. 
 
 ### [63. How to Apply Lean Production Principles in Software Development](https://hackernoon.com/how-to-apply-lean-production-principles-in-software-development-2i1k3yqv)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9m82q4j.jpeg)
@@ -265,21 +269,21 @@ Explore the vital role of Architectural Decision Records (ADRs) in modern softwa
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ij82mda.jpeg)
 Software product thinking is taking agile to new levels, especially as software becomes an integral part of the product mix. 
 
-### [67. An Agile Approach to Developing Accurate Navigation Systems for Road Safety](https://hackernoon.com/agile-approach-in-developing-accurate-navigation-systems-for-road-safety)
+### [67. Pair Programming: How to Avoid "Losing the Partner"](https://hackernoon.com/pair-programming-how-to-avoid-losing-the-partner)
+![](https://cdn.hackernoon.com/images/someone-floating-in-the-ocean-while-a-ship-leaves-them-behind-sketch-bafp0r7318kt6fx3pxfgosdm.png)
+Losing the Partner is a common anti-pattern in pair programming where one developer neglects their teammate, creating a knowledge gap and reducing collaboration
+
+### [68. An Agile Approach to Developing Accurate Navigation Systems for Road Safety](https://hackernoon.com/agile-approach-in-developing-accurate-navigation-systems-for-road-safety)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-t383150.jpeg)
 Learn about a systematic software development methodology focusing on planning, requirements analysis, design and evaluation for navigation & road safety apps. 
 
-### [68. Tackling The Technical Debt in Five Steps](https://hackernoon.com/tackling-the-technical-debt-in-five-steps-drl3thi)
+### [69. Tackling The Technical Debt in Five Steps](https://hackernoon.com/tackling-the-technical-debt-in-five-steps-drl3thi)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-jui2858.jpeg?alt=media&token=ef18194f-0c28-47ac-b0a4-72fe1d963c78)
 Recognizing that you have technical debt is easy. And if you don’t recognize it already, one of your engineers will likely tell you:)
 
-### [69. Mastering the Daily Scrum: A Practical Guide](https://hackernoon.com/mastering-the-daily-scrum-a-practical-guide)
+### [70. Mastering the Daily Scrum: A Practical Guide](https://hackernoon.com/mastering-the-daily-scrum-a-practical-guide)
 ![](https://cdn.hackernoon.com/images/QRqitUIXi9Z5pvAY0aAnCzCu0002-rl32t1l.jpeg)
 The Daily Scrum is a vital part of Agile practices. Get it right, and you'll speed your team up no end. Get it wrong and it's a waste of valuable time.
-
-### [70. Pair Programming: How to Avoid "Losing the Partner"](https://hackernoon.com/pair-programming-how-to-avoid-losing-the-partner)
-![](https://cdn.hackernoon.com/images/someone-floating-in-the-ocean-while-a-ship-leaves-them-behind-sketch-bafp0r7318kt6fx3pxfgosdm.png)
-Losing the Partner is a common anti-pattern in pair programming where one developer neglects their teammate, creating a knowledge gap and reducing collaboration
 
 ### [71. If Formula-1 Defined Efficiency](https://hackernoon.com/if-formula-1-defined-efficiency-675z3yqd)
 ![](https://cdn.hackernoon.com/drafts/ksef3y2c.png)
@@ -309,85 +313,93 @@ Waterfall vs Agile
 ![](https://cdn.hackernoon.com/images/busy-road-h88xp7tjlpsqoxc4ikhnsnfh.png)
 Explore the latest advancements in navigation app tech and discover how these innovations are transforming navigation and road safety. 
 
-### [78. On Discussing Engineering Metrics to Direct Your Team's Focus, Daily](https://hackernoon.com/on-discussing-engineering-metrics-to-direct-your-teams-focus-daily-gohf3wwm)
-![](https://images.unsplash.com/photo-1556155092-490a1ba16284?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Software engineering metrics help daily stand-up meetings to be more productive for the team. They can become tedious or irrelevant for many developers when they frequently exceed the fifteen minutes time box or even sound like a work report.
+### [78. Expediency and Togetherness: The Core of Skilled Pair Programming](https://hackernoon.com/expediency-and-togetherness-the-core-of-skilled-pair-programming)
+![](https://cdn.hackernoon.com/images/cut-out-stick-figures-colorful-t03rtzochiv8s3cns64i4l4o.png)
+Skilled pair programming goes beyond just coding together. This summary outlines three key anti-patterns
 
 ### [79. How to Make DevTestOps Orchestration for Agile Teams Work](https://hackernoon.com/how-to-make-devtestops-orchestration-for-agile-teams-work)
 ![](https://cdn.hackernoon.com/images/q4JmpLxJmpe4eNkyo0m1jfxQPft2-u4036c3.png)
 The three key positions in a software development team are developer, tester, and operations. Required tasks among these positions are continuously reinvented.
 
-### [80. Expediency and Togetherness: The Core of Skilled Pair Programming](https://hackernoon.com/expediency-and-togetherness-the-core-of-skilled-pair-programming)
-![](https://cdn.hackernoon.com/images/cut-out-stick-figures-colorful-t03rtzochiv8s3cns64i4l4o.png)
-Skilled pair programming goes beyond just coding together. This summary outlines three key anti-patterns
+### [80. On Discussing Engineering Metrics to Direct Your Team's Focus, Daily](https://hackernoon.com/on-discussing-engineering-metrics-to-direct-your-teams-focus-daily-gohf3wwm)
+![](https://images.unsplash.com/photo-1556155092-490a1ba16284?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Software engineering metrics help daily stand-up meetings to be more productive for the team. They can become tedious or irrelevant for many developers when they frequently exceed the fifteen minutes time box or even sound like a work report.
 
-### [81. The Psychology Behind Successful Pair Programming](https://hackernoon.com/the-psychology-behind-successful-pair-programming)
-![](https://cdn.hackernoon.com/images/two-programmers-sharing-a-workstation-xpuru6gchgihulgo34bzpnk6.png)
-This study explores the psychology of pair programming, improving motivation and teamwork, and the future of AI-assisted coding partnerships.
+### [81. “Discovery Tax” Highlights Cost of Incomplete Requirements in Tech Projects](https://hackernoon.com/discovery-tax-highlights-cost-of-incomplete-requirements-in-tech-projects)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-vv13bl0.webp)
+Skipping discovery in software projects leads to higher costs, missed deadlines, and failure. Proper scoping reduces risk and improves outcomes.
 
-### [82. How Agile Teams Shorten SDLC Using DevTestOps](https://hackernoon.com/how-agile-teams-shorten-sdlc-using-devtestops)
-![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-fu035p3.jpeg)
-Moreover, the duty of code quality can slowly be forgotten in the developers’ minds as they know their work would be tested either way. 
+4. TL;DR
 
-### [83. Pair Programming: The Buddy System, But With Fewer Bugs (Hopefully)](https://hackernoon.com/pair-programming-the-buddy-system-but-with-fewer-bugs-hopefully)
+Skip
+
+### [82. Pair Programming: The Buddy System, But With Fewer Bugs (Hopefully)](https://hackernoon.com/pair-programming-the-buddy-system-but-with-fewer-bugs-hopefully)
 ![](https://cdn.hackernoon.com/images/two-programmers-sharing-a-workstation-vteph4t1f0pwjmjurqm2toe8.png)
 A study on pair programming’s psychological effects, comparing pilot, navigator, and solo roles, with insights for AI pairing software and software education.
 
 
 
-### [84. Can You Weave Security Through Low Code Platforms](https://hackernoon.com/can-you-weave-security-through-low-code-platforms-5o6m31n4)
-![](https://cdn.hackernoon.com/images/AKRKaCfXJ9f2LC6BEwNjMRzBnuO2-zm4k3441.jpeg)
-weaving security in low code app development platforms
+### [83. How Agile Teams Shorten SDLC Using DevTestOps](https://hackernoon.com/how-agile-teams-shorten-sdlc-using-devtestops)
+![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-fu035p3.jpeg)
+Moreover, the duty of code quality can slowly be forgotten in the developers’ minds as they know their work would be tested either way. 
 
-### [85. Pair Programming Proficiency: Is it About Experience or Something Else?](https://hackernoon.com/pair-programming-proficiency-is-it-about-experience-or-something-else)
+### [84. The Psychology Behind Successful Pair Programming](https://hackernoon.com/the-psychology-behind-successful-pair-programming)
+![](https://cdn.hackernoon.com/images/two-programmers-sharing-a-workstation-xpuru6gchgihulgo34bzpnk6.png)
+This study explores the psychology of pair programming, improving motivation and teamwork, and the future of AI-assisted coding partnerships.
+
+### [85. The Science Behind Pair Programming: A UADY Experiment](https://hackernoon.com/the-science-behind-pair-programming-a-uady-experiment)
+![](https://cdn.hackernoon.com/images/science-and-atoms-abstract-bgbtf6xlgrzv982qny0x1o3f.png)
+Explore the results of a student-led experiment on pair programming that measured its impact on task duration and effort.
+
+### [86. Pair Programming Proficiency: Is it About Experience or Something Else?](https://hackernoon.com/pair-programming-proficiency-is-it-about-experience-or-something-else)
 ![](https://cdn.hackernoon.com/images/a-lake-being-luminated-by-the-moon-sketch-lojot8lpez44yy26t0wgdkh5.png)
 Does pair programming skill come from experience? This discussion explores why new developers can excel at pairing while veterans sometimes struggle,
 
-### [86. Quality Evaluation of Road Updates System: ISO/IEC 25010 Assessment](https://hackernoon.com/quality-evaluation-of-road-updates-system-isoiec-25010-assessment)
+### [87. Quality Evaluation of Road Updates System: ISO/IEC 25010 Assessment](https://hackernoon.com/quality-evaluation-of-road-updates-system-isoiec-25010-assessment)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-r6831fp.jpeg)
 Explore the comprehensive evaluation results of the Road Updates Information System, assessed according to ISO/IEC 25010 standards.
-
-### [87. The Science Behind Pair Programming: A UADY Experiment](https://hackernoon.com/the-science-behind-pair-programming-a-uady-experiment)
-![](https://cdn.hackernoon.com/images/science-and-atoms-abstract-bgbtf6xlgrzv982qny0x1o3f.png)
-Explore the results of a student-led experiment on pair programming that measured its impact on task duration and effort.
 
 ### [88. Beyond Anti-Patterns: How Skilled Pairs Stay on Track](https://hackernoon.com/beyond-anti-patterns-how-skilled-pairs-stay-on-track)
 ![](https://cdn.hackernoon.com/images/train-tracks-going-down-a-spiral-ieg4r6zgp6k6l4lmfn06l0mr.png)
 Skilled pair programmers know how to avoid common anti-patterns like Getting Lost in the Weeds, Losing the Partner, and Drowning the Partner.
 
-### [89. How Pair Programming Affects Student Motivation and Learning](https://hackernoon.com/how-pair-programming-affects-student-motivation-and-learning)
+### [89. Can You Weave Security Through Low Code Platforms](https://hackernoon.com/can-you-weave-security-through-low-code-platforms-5o6m31n4)
+![](https://cdn.hackernoon.com/images/AKRKaCfXJ9f2LC6BEwNjMRzBnuO2-zm4k3441.jpeg)
+weaving security in low code app development platforms
+
+### [90. How Pair Programming Affects Student Motivation and Learning](https://hackernoon.com/how-pair-programming-affects-student-motivation-and-learning)
 ![](https://cdn.hackernoon.com/images/two-programmers-sharing-a-workstation-c6hdwo9vxn1sto354pcs0v9x.png)
 A study analyzing intrinsic motivation in pair programming, revealing role-based differences and psychological insights from student experiences.
 
-### [90. How to Cover the Basics of Test Orchestration](https://hackernoon.com/how-to-cover-the-basics-of-test-orchestration)
+### [91. How to Cover the Basics of Test Orchestration](https://hackernoon.com/how-to-cover-the-basics-of-test-orchestration)
 ![](https://cdn.hackernoon.com/images/q4JmpLxJmpe4eNkyo0m1jfxQPft2-or236ki.jpeg)
 In the agile development methodology, the velocity of testing holds the key to delivering the best quality software within the stipulated budget and time constr
-
-### [91. Does Programming with a Partner Make Learning Easier?](https://hackernoon.com/does-programming-with-a-partner-make-learning-easier)
-![](https://cdn.hackernoon.com/images/two-programmers-sharing-a-workstation-fdsnbqoypdy9qsvd73m0d2rl.png)
-A controlled study on pair programming in university classrooms, analyzing motivation, role dynamics, and experimental design concerns.
 
 ### [92. Impactful Road Update Systems: Practical and Research Implications for Commuters and Agencies](https://hackernoon.com/impactful-road-update-systems-practical-and-research-implications-for-commuters-and-agencies)
 ![](https://cdn.hackernoon.com/images/busy-road-xb5agvsc3i9ptbrrf59rztbm.png)
 Explore the recommendations, future plans, and practical implications of a road updates web application. 
 
-### [93. What Science Says About Learning to Code in Pairs](https://hackernoon.com/what-science-says-about-learning-to-code-in-pairs)
-![](https://cdn.hackernoon.com/images/two-programmers-sharing-a-workstation-v8kyv2swtqjopeu37dbtp2lb.png)
-Exploring the psychological aspects of pair programming, its impact on student motivation, and how insights can enhance AI pairing software and education. 
+### [93. Does Programming with a Partner Make Learning Easier?](https://hackernoon.com/does-programming-with-a-partner-make-learning-easier)
+![](https://cdn.hackernoon.com/images/two-programmers-sharing-a-workstation-fdsnbqoypdy9qsvd73m0d2rl.png)
+A controlled study on pair programming in university classrooms, analyzing motivation, role dynamics, and experimental design concerns.
 
 ### [94. Measuring Intrinsic Motivation in Pair Programming](https://hackernoon.com/measuring-intrinsic-motivation-in-pair-programming)
 ![](https://cdn.hackernoon.com/images/two-programmers-sharing-a-workstation-v0cwl26pesy248xcyd9e5ldd.png)
 A study using statistical and thematic analysis to examine intrinsic motivation in pair programming, leveraging R scripts, ANOVA tests, and qualitative coding.
 
-### [95. Human-Centric Blockchains: How to Build Scalable DLTs](https://hackernoon.com/human-centric-blockchains-how-to-build-scalable-dlts-u7t33r9)
+### [95. What Science Says About Learning to Code in Pairs](https://hackernoon.com/what-science-says-about-learning-to-code-in-pairs)
+![](https://cdn.hackernoon.com/images/two-programmers-sharing-a-workstation-v8kyv2swtqjopeu37dbtp2lb.png)
+Exploring the psychological aspects of pair programming, its impact on student motivation, and how insights can enhance AI pairing software and education. 
+
+### [96. Human-Centric Blockchains: How to Build Scalable DLTs](https://hackernoon.com/human-centric-blockchains-how-to-build-scalable-dlts-u7t33r9)
 ![](https://cdn.hackernoon.com/images/5XfdKTDvpshIqPx69HxOQALJFK73-fw8d330a.jpeg)
 All too often, I see founders in the blockchain space making the same mistake; a lack of human-centric design. I’m talking about intimately involving who...
 
-### [96. Unlocking the Pair Programmer's Mind: The Core Elements of PP Skill](https://hackernoon.com/unlocking-the-pair-programmers-mind-the-core-elements-of-pp-skill)
+### [97. Unlocking the Pair Programmer's Mind: The Core Elements of PP Skill](https://hackernoon.com/unlocking-the-pair-programmers-mind-the-core-elements-of-pp-skill)
 ![](https://cdn.hackernoon.com/images/a-brain-stuck-in-prison-soxfks1x88n781xk9axc4cvt.png)
 Reviewing literature that defines pair programming skill, exploring concepts like "tight coupling" and the "Power Gap" to understand successful pairs 
 
-### [97. Be Careful: Agile and DevOps Practices Can Break Your Business](https://hackernoon.com/be-careful-agile-and-devops-practices-can-break-your-business-fva73wz6)
+### [98. Be Careful: Agile and DevOps Practices Can Break Your Business](https://hackernoon.com/be-careful-agile-and-devops-practices-can-break-your-business-fva73wz6)
 ![](https://cdn.hackernoon.com/drafts/nci3ysn.png)
 Few industry trends have been as disruptive as the Agile software development revolution. But the same wave of innovation that’s allowed dev teams to get more value into the hands of users faster has left the majority of non-technical teams across the business reeling.
 

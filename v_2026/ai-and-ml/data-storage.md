@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [data-storage](https://hackernoon.com/tagged/data-storage)
+### Let's learn about [Data Storage](https://hackernoon.com/tagged/data-storage) via these 95 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Data storage involves saving digital information on various media for future access, crucial for preserving data integrity, ensuring business continuity, and supporting all digital operations. It matters by being the foundation for all computing, enabling applications, analytics, and record-keeping that power the modern world.
+
 ### [1. The Long Now of the Web: Inside the Internet Archive’s Fight Against Forgetting](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)
 ![](https://cdn.hackernoon.com/images/bI3BzyBanbVxEZqmLV7jRnw6d9o2-yn0373q.png)
 A deep dive into the Internet Archive's custom tech stack.
@@ -85,17 +89,17 @@ This blog examines the top players in the Hyperconverged Infrastructure software
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-a292jpu.jpeg)
 The idea for Swarm came from Gavin Wood, one of the founders of Ethereum.
 
-### [22. Migrate to AI-Ready Infrastructure: Hitachi Content Platform to MinIO](https://hackernoon.com/migrate-to-ai-ready-infrastructure-hitachi-content-platform-to-minio)
+### [22. Silicon Valley’s Pied Piper is Now Real Thanks to New Compression Technology](https://hackernoon.com/silicon-valleys-pied-piper-is-now-real-thanks-to-new-compression-technology)
+![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-bi2328r.jpeg)
+HBO's Silicon Valley imagined data compression with Pied Piper. Fast forward to 2024, and real-world startups like SQream Blue are making that dream a reality. 
+
+### [23. Migrate to AI-Ready Infrastructure: Hitachi Content Platform to MinIO](https://hackernoon.com/migrate-to-ai-ready-infrastructure-hitachi-content-platform-to-minio)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-6d032b5.jpeg)
 Developed to support customers' evolving storage needs, the HCP-to-MinIO tool is freely available on GitHub and greatly simplifies the migration process. 
 
-### [23. Decentralized Cloud Storage is changing the face of the internet (1/2)](https://hackernoon.com/decentralized-cloud-storage-how-it-will-change-the-face-of-the-internet-12-pc1fw3476)
+### [24. Decentralized Cloud Storage is changing the face of the internet (1/2)](https://hackernoon.com/decentralized-cloud-storage-how-it-will-change-the-face-of-the-internet-12-pc1fw3476)
 ![](https://cdn.hackernoon.com/images/0xp347m.jpg)
 (Read Part 2 here)
-
-### [24. Silicon Valley’s Pied Piper is Now Real Thanks to New Compression Technology](https://hackernoon.com/silicon-valleys-pied-piper-is-now-real-thanks-to-new-compression-technology)
-![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-bi2328r.jpeg)
-HBO's Silicon Valley imagined data compression with Pied Piper. Fast forward to 2024, and real-world startups like SQream Blue are making that dream a reality. 
 
 ### [25. Sustainable Computing beyond the Cloud](https://hackernoon.com/sustainable-computing-beyond-the-cloud)
 ![](https://cdn.hackernoon.com/images/YmaVbuPclNSIPgbMpuXsLac2LuG2-1s93jom.jpeg)
@@ -159,13 +163,13 @@ Walk through NFT Standard, NFT characteristic traits and explanations, NFT utili
 ![](https://cdn.hackernoon.com/images/IPAo2WxOWWcO4KPMS6F6e2nnoma2-5c93plz.jpeg)
 What makes Kafka so Fast? A Deep Dive into Kafka Storage Internals.
 
-### [40. "We plan to establish the first IPFS node on Mars" - says Filecoin Miner Neo Ge](https://hackernoon.com/we-plan-to-establish-the-first-ipfs-node-on-mars-says-filecoin-miner-neo-ge-ke2c3whe)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIDEiMURPuJeyz1VqKi7OZKm1sG82-639z3tmf.jpeg?alt=media&token=61f02274-1d8f-472b-b57c-1769d531bb89)
-As Filecoin gears up for launch, miners across the globe have been participating in Space Race, competing to onboard as much storage as possible to the testnet. 
-
-### [41. 5 Ways to Store Market Data: CSV, SQLite, Postgres, Mongo, Arctic](https://hackernoon.com/5-ways-to-store-market-data-csv-sqlite-postgres-mongo-arctic)
+### [40. 5 Ways to Store Market Data: CSV, SQLite, Postgres, Mongo, Arctic](https://hackernoon.com/5-ways-to-store-market-data-csv-sqlite-postgres-mongo-arctic)
 ![](https://cdn.hackernoon.com/images/EoZlJheKCUSXBF4gIxl56zp7oyg1-kop3yu4.jpeg)
 What's the most efficient way to store market data? SQL or NoSQL? Let's compare 5 most common options and find out what is best.
+
+### [41. "We plan to establish the first IPFS node on Mars" - says Filecoin Miner Neo Ge](https://hackernoon.com/we-plan-to-establish-the-first-ipfs-node-on-mars-says-filecoin-miner-neo-ge-ke2c3whe)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIDEiMURPuJeyz1VqKi7OZKm1sG82-639z3tmf.jpeg?alt=media&token=61f02274-1d8f-472b-b57c-1769d531bb89)
+As Filecoin gears up for launch, miners across the globe have been participating in Space Race, competing to onboard as much storage as possible to the testnet. 
 
 ### [42. Data Lakehouses: The New Data Storage Model](https://hackernoon.com/data-lakehouses-the-new-data-storage-model)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-r493k5j.jpeg)
@@ -219,37 +223,37 @@ A Distributed Storage Network (DSN) is a peer-to-peer network based on blockchai
 ![](https://cdn.hackernoon.com/images/TbvBlyikqbYO9TG8r4NopOMeGSs1-zc8230i.jpeg)
 These guides are designed to provide you with practical experience in working with Apache Iceberg.
 
-### [55. Storing data with Vinyl](https://hackernoon.com/storing-data-with-vinyl)
-![](https://cdn.hackernoon.com/images/ldEEl0MpjWcFVqGFZgIKs6EFtUL2-80i378e.jpeg)
-This article describes how the developers of the in-memory computing platform Tarantool implemented disk storage.
-
-### [56. How To Fix: The File is Too Large for the Destination File System Error](https://hackernoon.com/how-to-fix-the-file-is-too-large-for-the-destination-file-system-9q3u34pp)
+### [55. How To Fix: The File is Too Large for the Destination File System Error](https://hackernoon.com/how-to-fix-the-file-is-too-large-for-the-destination-file-system-9q3u34pp)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-zh3d3408.jpeg)
 Have you ever encountered this error “the file is too large for the destination file system” while moving files from your windows PC to USB flash drive or external hard drive?
+
+### [56. Storing data with Vinyl](https://hackernoon.com/storing-data-with-vinyl)
+![](https://cdn.hackernoon.com/images/ldEEl0MpjWcFVqGFZgIKs6EFtUL2-80i378e.jpeg)
+This article describes how the developers of the in-memory computing platform Tarantool implemented disk storage.
 
 ### [57. Scaling PostgreSQL Databases Just Got Cheaper: Timescale's Tiered Storage Hits General Availability](https://hackernoon.com/scaling-postgresql-databases-just-got-cheaper-timescales-tiered-storage-hits-general-availability)
 ![](https://cdn.hackernoon.com/images/e4ofSuQppSUsutiFu2ksDnDqqEf1-np83w3s.png)
 Timescale's Tiered Storage, now in General Availability, introduces a multi-tiered storage architecture for PostgreSQL databases.
 
-### [58. What Is the Use of a Linked List Class?](https://hackernoon.com/what-is-the-use-of-a-linked-list-class)
-![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-bsa3v64.jpeg)
-Whether you're a beginner programmer or an experienced developer, understanding the linked list class is essential.
-
-### [59. Compression in Big Data: Types and Techniques](https://hackernoon.com/compression-in-big-data-types-and-techniques)
+### [58. Compression in Big Data: Types and Techniques](https://hackernoon.com/compression-in-big-data-types-and-techniques)
 ![](https://cdn.hackernoon.com/images/0SJDPPBUdETEB538KSL76mR3qfU2-dk03ds7.jpeg)
 This article will discuss compression in the Big Data context, covering the types and methods of compression
+
+### [59. What Is the Use of a Linked List Class?](https://hackernoon.com/what-is-the-use-of-a-linked-list-class)
+![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-bsa3v64.jpeg)
+Whether you're a beginner programmer or an experienced developer, understanding the linked list class is essential.
 
 ### [60. Enhancing Scalability with Off-Chain Data Storage in Blockchain Ecosystems](https://hackernoon.com/enhancing-scalability-with-off-chain-data-storage-in-blockchain-ecosystems)
 ![](https://cdn.hackernoon.com/images/urMVMHGdtaYtlg1iSzaSSgO9bHO2-2ob3rl9.jpeg)
 Exploring the role of off-chain data storage in blockchain technology, and how off-chain solutions can enhance scalability.
 
-### [61. Decentralizing Data Storage on the Blockchain: An Exclusive Interview With Vincent Irlweck](https://hackernoon.com/decentralizing-data-storage-on-the-blockchain-an-exclusive-interview-with-vincent-irlweck)
-![](https://cdn.hackernoon.com/images/data-storage-igatiwjq9rcvt1s59np7wyg3.png)
-Interview with Vincent Irlweck, CMO at Inery Blockchain to discuss their  decentralized data storage solution and democratizing the data industry.
-
-### [62. 9 Data Trends You’ll See in 2023](https://hackernoon.com/9-data-trends-youll-see-in-2023)
+### [61. 9 Data Trends You’ll See in 2023](https://hackernoon.com/9-data-trends-youll-see-in-2023)
 ![](https://cdn.hackernoon.com/images/QS5iLJhRSPR2YH4y0tLF8pVa75h1-ica3os0.jpeg)
 2022 saw the data space grow by leaps and bounds. Here are the top 9 things our team of data experts expects to see in 2023. 
+
+### [62. Decentralizing Data Storage on the Blockchain: An Exclusive Interview With Vincent Irlweck](https://hackernoon.com/decentralizing-data-storage-on-the-blockchain-an-exclusive-interview-with-vincent-irlweck)
+![](https://cdn.hackernoon.com/images/data-storage-igatiwjq9rcvt1s59np7wyg3.png)
+Interview with Vincent Irlweck, CMO at Inery Blockchain to discuss their  decentralized data storage solution and democratizing the data industry.
 
 ### [63. "We want functional decentralization" Q&A with Wildland Creators](https://hackernoon.com/we-want-functional-decentralization-qanda-with-wildland-developers-ub2o31pt)
 ![](https://cdn.hackernoon.com/images/RjgNGSVn7zcezsJCnv62k3V3Hg62-2j5j20cb.png)
@@ -283,26 +287,26 @@ Whether you're a seasoned Elasticsearch user or just beginning your journey, und
 ![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-8k93odl.jpeg)
 Some tout data storage as recession-proof, but with little precedence to learn from, what will a recession look like for colocation?
 
-### [71. Distributed Ledgers: The Next Logical Step](https://hackernoon.com/distributed-ledgers-the-logical-next-step)
-![](https://cdn.hackernoon.com/images/eV5PQYztB3aTpBnYWcEFhU3vsYf2-xo0365l.jpeg)
-How modern blockchain approaches the problem of data storage in decentralized systems and how a distributed ledger can be organized.
-
-### [72. Optimizing Web Apps for High Traffic: Load Balancing, Caching, Database Performance](https://hackernoon.com/optimizing-web-apps-for-high-traffic-load-balancing-caching-database-performance)
+### [71. Optimizing Web Apps for High Traffic: Load Balancing, Caching, Database Performance](https://hackernoon.com/optimizing-web-apps-for-high-traffic-load-balancing-caching-database-performance)
 ![](https://cdn.hackernoon.com/images/oTZ8b9FUzDSBeVCoipwJ5IEuU823-se93t1r.jpeg)
 We live with the constant need for web apps to effectively process high volumes of data exchange. In this, we explore some tried and tested techniques to do so.
 
-### [73. How Velocity Can Change Data Storage And Propagation In 
-Blockchain Nodes?](https://hackernoon.com/how-velocity-can-change-data-storage-and-propagation-in-blockchain-nodes-07x3z8b)
-![](https://cdn.hackernoon.com/images/g31rs3zxd.jpg)
-Blockchain technologies have been disruptive and propagate the democratization of the data. This has led to its wider usage and popularity. The blockchain paradigm has shifted from financial usage towards application development usages.
+### [72. Distributed Ledgers: The Next Logical Step](https://hackernoon.com/distributed-ledgers-the-logical-next-step)
+![](https://cdn.hackernoon.com/images/eV5PQYztB3aTpBnYWcEFhU3vsYf2-xo0365l.jpeg)
+How modern blockchain approaches the problem of data storage in decentralized systems and how a distributed ledger can be organized.
+
+### [73. 49 Stories To Learn About Data Storage](https://hackernoon.com/49-stories-to-learn-about-data-storage)
+![](https://cdn.hackernoon.com/images/github/data-storage-911.png)
+Learn everything you need to know about Data Storage via these 49 free HackerNoon stories.
 
 ### [74. Optimized Metadata Loading Process on ShardingSphere: A Technical Deep-Dive](https://hackernoon.com/optimized-metadata-loading-process-on-shardingsphere-a-technical-deep-dive)
 ![](https://cdn.hackernoon.com/images/4VS8OUqMU2OVjiLkl1gVM8UKbAv2-0k33750.png)
 The powerful database middleware ShardingSphere core functions such as data sharding, encryption and decryption are all based on the database metadata.
 
-### [75. 49 Stories To Learn About Data Storage](https://hackernoon.com/49-stories-to-learn-about-data-storage)
-![](https://cdn.hackernoon.com/images/github/data-storage-911.png)
-Learn everything you need to know about Data Storage via these 49 free HackerNoon stories.
+### [75. How Velocity Can Change Data Storage And Propagation In 
+Blockchain Nodes?](https://hackernoon.com/how-velocity-can-change-data-storage-and-propagation-in-blockchain-nodes-07x3z8b)
+![](https://cdn.hackernoon.com/images/g31rs3zxd.jpg)
+Blockchain technologies have been disruptive and propagate the democratization of the data. This has led to its wider usage and popularity. The blockchain paradigm has shifted from financial usage towards application development usages.
 
 ### [76. LLMs: How to Build AI Superintelligence? [Hint: Storage]](https://hackernoon.com/llms-how-to-build-ai-superintelligence-hint-storage)
 ![](https://cdn.hackernoon.com/images/a-gpu-farm-ti11nwcph3ta70ubgszyu9i5.png)
@@ -348,13 +352,13 @@ This is the first article for the Data Migration Tax that first appeared on my L
 ![](https://cdn.hackernoon.com/images/64yaDZujGrT0zBEC4aX4Jp1RJn62-yc5s31b1.jpeg)
 This article will go over the most effective, economical and long-lasting methods for storing our data.
 
-### [87. The Evolution Of Hacking Data Storage [Infographic]](https://hackernoon.com/the-evolution-of-hacking-data-storage-infographic-vhoz3y0g)
-![](https://cdn.hackernoon.com/drafts/8n5r3yne.png)
-When the first computers were made, the information needed to run them was on punch cards. The computing device would decode the patterns on the punch cards and translate it to an action. It wasn’t until 1956 that IBM came up with the first magnetic hard drive, and floppy discs didn’t enter the scene until the 1960s. Early computer storage was rudimentary, which is why there was no real viable threat of hackers in those early decades of computing. Once data storage became more sophisticated, hackers became a real threat. Subsequently, the need for cyber protection was born.
-
-### [88. Making Sense of Unbounded Data & Real-Time Processing Systems](https://hackernoon.com/making-sense-of-unbounded-data-vi6b32x2)
+### [87. Making Sense of Unbounded Data & Real-Time Processing Systems](https://hackernoon.com/making-sense-of-unbounded-data-vi6b32x2)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-ys16326a.jpeg)
 A real-time processing architecture should have these logical components to address event ingestion & processing challenges, such as a stream processing system.
+
+### [88. The Evolution Of Hacking Data Storage [Infographic]](https://hackernoon.com/the-evolution-of-hacking-data-storage-infographic-vhoz3y0g)
+![](https://cdn.hackernoon.com/drafts/8n5r3yne.png)
+When the first computers were made, the information needed to run them was on punch cards. The computing device would decode the patterns on the punch cards and translate it to an action. It wasn’t until 1956 that IBM came up with the first magnetic hard drive, and floppy discs didn’t enter the scene until the 1960s. Early computer storage was rudimentary, which is why there was no real viable threat of hackers in those early decades of computing. Once data storage became more sophisticated, hackers became a real threat. Subsequently, the need for cyber protection was born.
 
 ### [89. Data Storage Security: 5 Best Practices to Secure Your Data](https://hackernoon.com/data-storage-security-5-best-practices-to-secure-your-data-eb7m3yt5)
 ![](https://images.unsplash.com/photo-1506399558188-acca6f8cbf41?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [hr](https://hackernoon.com/tagged/hr)
+### Let's learn about [Hr](https://hackernoon.com/tagged/hr) via these 114 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+HR, or Human Resources, is the department responsible for managing an organization's employees, vital for talent acquisition, development, and retention. Effective HR practices are crucial for fostering a productive work environment and ensuring organizational success.
+
 ### [1. The Benefits of B2B Contracts for Workers in the IT Industry](https://hackernoon.com/the-benefits-of-b2b-contracts-for-workers-in-the-it-industry)
 ![](https://cdn.hackernoon.com/images/6vGAnfwlZvT3hn2Ei9NfVA20GN03-0y93hyo.jpeg)
 Since Covid-19 and the rise of remote work, B2B contracts are rapidly growing in popularity and transforming the world of IT recruitment and remuneration. 
@@ -97,13 +101,13 @@ If, by any chance, a comprehensive analysis of interview processes already exist
 ![](https://cdn.hackernoon.com/drafts/dlsf32nb.png)
 Elanor is an HR executive at Unicorn marketer. She’s been involved in the recruitment process for six years now. Every year they do a campus drive at the most prestigious college in Chicago. They’re always on the look for a promising candidate for a challenging role as a Digital Marketer. Elanor has been maintaining a spreadsheet of rejected candidates for the same post and logging the reasons for rejection as well.
 
-### [25. How to Hack Your Team: Top 5 Tools For Team Management Automation in 2021](https://hackernoon.com/how-to-hack-your-team-top-5-tools-for-team-management-automation-in-2021-sw6231xd)
-![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-6c2a31v2.jpeg)
-Wondering how to increase your remote team's productivity? These tools will help.
-
-### [26. The Basics Of Getting A Job](https://hackernoon.com/the-basics-of-getting-a-job)
+### [25. The Basics Of Getting A Job](https://hackernoon.com/the-basics-of-getting-a-job)
 ![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-gb93z3h.jpeg)
 Getting hired needs applicants to complete some steps; writing resume/CV, cover letter, popular interview questions, general interview advice, choosing a job.
+
+### [26. How to Hack Your Team: Top 5 Tools For Team Management Automation in 2021](https://hackernoon.com/how-to-hack-your-team-top-5-tools-for-team-management-automation-in-2021-sw6231xd)
+![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-6c2a31v2.jpeg)
+Wondering how to increase your remote team's productivity? These tools will help.
 
 ### [27. Human Resources Management Software Business Research [Part 2]](https://hackernoon.com/human-resources-management-software-business-research-part-2-0y8l249d)
 ![](https://images.unsplash.com/photo-1563986768609-322da13575f3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -129,13 +133,13 @@ Big Data is changing human resource management for good. We explore 4 major ways
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-rs11282q.jpeg?alt=media&token=b5135942-7314-4588-8cc6-a9ef218543e3)
 Disclaimer: this reflects my personal opinions, not those of my employer.
 
-### [33. Top HR Tools to Improve Your Hiring Processes](https://hackernoon.com/top-hr-tools-to-improve-your-hiring-processes)
-![](https://cdn.hackernoon.com/images/yIdBUErBM4bKtuYHlGVfyMxAJS02-a8m2ok2.jpeg)
-In this article, we will learn about HR tools and the types that can help automate and simplify HR functionalities.
-
-### [34. Software Engineer Performance Review are a Paradox](https://hackernoon.com/software-engineer-performance-review-are-a-paradox)
+### [33. Software Engineer Performance Review are a Paradox](https://hackernoon.com/software-engineer-performance-review-are-a-paradox)
 ![](https://cdn.hackernoon.com/images/Y5xUDKXadXQIeyMZaO8cLhZMnGi2-pr93kov.jpeg)
 Performance reviews play a big role in the operation of the organization.
+
+### [34. Top HR Tools to Improve Your Hiring Processes](https://hackernoon.com/top-hr-tools-to-improve-your-hiring-processes)
+![](https://cdn.hackernoon.com/images/yIdBUErBM4bKtuYHlGVfyMxAJS02-a8m2ok2.jpeg)
+In this article, we will learn about HR tools and the types that can help automate and simplify HR functionalities.
 
 ### [35. How to Tackle Recruiter Bias Using AI [Infographic]](https://hackernoon.com/how-to-tackle-recruiter-bias-using-ai-infographic-al2h32ma)
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-ip37326d.jpeg)
@@ -145,21 +149,21 @@ A look at how to use artificial intelligence to solve for recruiting bias in the
 ![](https://cdn.hackernoon.com/images/qj1a22xj.jpg)
 Software development can be a complex area that can sometimes confuse even the best of us. While many equate it to writing code, software development includes much more activity and responsibility. There are numerous roles and methodologies that can impact almost every aspect of the business, from customer experience to revenue flow.
 
-### [37. Blockchain Technology's Role in Recruitment](https://hackernoon.com/blockchain-technologys-role-in-recruitment-y41sp38nr)
-![](https://cdn.hackernoon.com/drafts/0o1u438un.png)
-Yes, you heard it right! After the revolutions in finance, energy and healthcare Blockchain is putting its footsteps on Human Resource now. 
+### [37. Blockchain transforming HR from the backend](https://hackernoon.com/blockchain-transforming-hr-from-the-backend)
+![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-vi037z0.jpeg)
+HR is in desperate need of a method of managing talent and people. Blockchain can do that.
 
 ### [38. Why Unconscious Bias is Ruining the UK Workforce and How AI is Helping to Counter HR Inefficiencies](https://hackernoon.com/why-unconscious-bias-is-ruining-the-uk-workforce-and-how-ai-is-helping-to-counter-hr-inefficiencies)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-w003c57.jpeg)
 Unconscious bias has long impacted the quality of hiring throughout the UK workforce because of how frequently it can cloud the judgement of skilled recruiters.
 
-### [39. How Aspiration Killed My Motivation](https://hackernoon.com/how-aspiration-killed-my-motivation)
+### [39. Blockchain Technology's Role in Recruitment](https://hackernoon.com/blockchain-technologys-role-in-recruitment-y41sp38nr)
+![](https://cdn.hackernoon.com/drafts/0o1u438un.png)
+Yes, you heard it right! After the revolutions in finance, energy and healthcare Blockchain is putting its footsteps on Human Resource now. 
+
+### [40. How Aspiration Killed My Motivation](https://hackernoon.com/how-aspiration-killed-my-motivation)
 ![](https://cdn.hackernoon.com/images/D0OBb8CGuBNP82rV561sQ8t51Gp1-4v036z8.jpeg)
 Never get too close to the sun
-
-### [40. Blockchain transforming HR from the backend](https://hackernoon.com/blockchain-transforming-hr-from-the-backend)
-![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-vi037z0.jpeg)
-HR is in desperate need of a method of managing talent and people. Blockchain can do that.
 
 ### [41. 7 SaaS Tools to Guarantee Accelerated Growth for Your Business](https://hackernoon.com/7-saas-tools-to-guarantee-accelerated-growth-for-your-business)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-ee93p3w.jpeg)
@@ -177,25 +181,25 @@ As technology advances, so too must the systems that companies use to manage the
 ![](https://cdn.hackernoon.com/images/CIY3QOaCE5Zq8DSZSQdJnHVHjvf1-ep93i47.jpeg)
 Tech job interviews are awful. We all know it. However, between coding exercises, take-home projects, and technical questions, we are making them worse. 
 
-### [45. Rethinking IT Recruitment: The Traditional Ways of Assessing Candidates Have Got to Go](https://hackernoon.com/rethinking-it-recruitment-the-traditional-ways-of-assessing-candidates-have-got-to-go)
+### [45. Explore Why You Should Include AI in Your Recruitment Strategy](https://hackernoon.com/explore-why-you-should-include-ai-in-your-recruitment-strategy)
+![](https://cdn.hackernoon.com/images/ZBG8HtnnijfhGsbFk1Jzls77K3B3-fb93kle.jpeg)
+Why using AI in your recruitment strategy may help you have a more balanced hiring process for your company by avoiding recruiter bias and improving efficiency.
+
+### [46. Rethinking IT Recruitment: The Traditional Ways of Assessing Candidates Have Got to Go](https://hackernoon.com/rethinking-it-recruitment-the-traditional-ways-of-assessing-candidates-have-got-to-go)
 ![](https://cdn.hackernoon.com/images/h5bXQFuvBeZqGvRadvoz59vbHKF3-sia3hl4.jpeg)
 The hiring process has been changing. For a long time, the companies decided which talents fit them most — the time has come to let the talents choose the best 
-
-### [46. Why is There Not Enough Software Engineers? ](https://hackernoon.com/why-is-there-not-enough-software-engineers-tqca3680)
-![](https://cdn.hackernoon.com/images/td4c39km.jpg)
-“The tech industry is thriving. It’s expanding almost three times faster than the rest of the UK economy and it’s nearly worth £184bn.”
 
 ### [47. How To Manage Remote Employees for Better Productivity](https://hackernoon.com/how-to-manage-remote-employees-for-better-productivity-0o2r24pt)
 ![](https://cdn.hackernoon.com/drafts/fn1dx3yaf.png)
 Work From Home and Remote working is now the new normal across the globe. The Covid-19 outbreak has widely impacted businesses all over the world. Organizations need to initially focus on employees’ well being with regard to this pandemic and take the required steps to revive their productivity and sustain performance. 
 
-### [48. How to Use Artificial Intelligence In Talent Acquisition](https://hackernoon.com/how-to-use-artificial-intelligence-in-talent-acquisition-8r293w0e)
+### [48. Why is There Not Enough Software Engineers? ](https://hackernoon.com/why-is-there-not-enough-software-engineers-tqca3680)
+![](https://cdn.hackernoon.com/images/td4c39km.jpg)
+“The tech industry is thriving. It’s expanding almost three times faster than the rest of the UK economy and it’s nearly worth £184bn.”
+
+### [49. How to Use Artificial Intelligence In Talent Acquisition](https://hackernoon.com/how-to-use-artificial-intelligence-in-talent-acquisition-8r293w0e)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIUGr6dJnAuhZ1q8b3PrD36XpqXa2-v82n3tvx.jpeg?alt=media&token=274dbe47-e2df-476e-a5c3-65d440e7512e)
 AI has made headlines for the last few years and it’s here to make an impact. But what does exactly that mean for HR professionals and recruiters?
-
-### [49. Explore Why You Should Include AI in Your Recruitment Strategy](https://hackernoon.com/explore-why-you-should-include-ai-in-your-recruitment-strategy)
-![](https://cdn.hackernoon.com/images/ZBG8HtnnijfhGsbFk1Jzls77K3B3-fb93kle.jpeg)
-Why using AI in your recruitment strategy may help you have a more balanced hiring process for your company by avoiding recruiter bias and improving efficiency.
 
 ### [50. How to Hold on to Critical Knowledge When Employees Leave](https://hackernoon.com/how-to-hold-on-to-critical-knowledge-when-employees-leave-9a133utn)
 ![](https://cdn.hackernoon.com/images/hyc53wax.jpg)
@@ -214,33 +218,33 @@ Learn everything you need to know about Human Resources via these 102 free Hacke
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRzWZoUoR26cb7sNrjpeNcHo01Y22-aj1140ez.jpeg?alt=media&token=953462f4-294c-4a0d-8bcc-b55af2aac58a)
 ﻿Get the job you want as markets are soaring to all new heights. The multitude of MNCs is overwhelming therefore there is the demand for employees and they are using best possible human resources in order to ensure their sustainability and growth in the competitive environment. Every employer requires the most desirable skills in an employee.
 
-### [54. The Best Way to Find Software Developer Jobs in Switzerland](https://hackernoon.com/the-best-way-to-find-software-developer-jobs-in-switzerland)
+### [54. How to Deal with a Coworker Making More Money Than You ](https://hackernoon.com/how-to-deal-with-a-coworker-making-more-money-than-you)
+![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-lz93ifg.jpeg)
+As many companies increase pay to attract new talent in an increasingly competitive Job market some workers are finding themselves left behind. What do they do?
+
+### [55. The Best Way to Find Software Developer Jobs in Switzerland](https://hackernoon.com/the-best-way-to-find-software-developer-jobs-in-switzerland)
 ![](https://cdn.hackernoon.com/images/Pge19rPKUBWxG7wfaNEYPGRfvNk2-ssc3pum.png)
 If you want to find a job in Switzerland - This step by step guide tells you: how to find job, what is important when applying and what are the formalities!
-
-### [55. Hiring Manager Perspective on Technology Interviews](https://hackernoon.com/hiring-manager-perspective-on-technology-interviews-evk31ue)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzDxKiOq2XxYxNbFVaHVWf50Nhww1-743131ng.jpeg?alt=media&token=9d24be25-e91d-486e-80fd-169fd85ce623)
-Many candidates have never been in the interviewer chair I'm hoping to share a different perspective with candidates so they can prepare accordingly and it can act as a guide to hiring managers.
 
 ### [56. Stop Using Skype and Google Docs for Remote Interviews](https://hackernoon.com/stop-using-skype-and-google-docs-for-remote-interviews-0c2s3x5k)
 ![](https://cdn.hackernoon.com/images/1r3n32oj.jpg)
 
 
-### [57. How to Deal with a Coworker Making More Money Than You ](https://hackernoon.com/how-to-deal-with-a-coworker-making-more-money-than-you)
-![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-lz93ifg.jpeg)
-As many companies increase pay to attract new talent in an increasingly competitive Job market some workers are finding themselves left behind. What do they do?
+### [57. Hiring Manager Perspective on Technology Interviews](https://hackernoon.com/hiring-manager-perspective-on-technology-interviews-evk31ue)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzDxKiOq2XxYxNbFVaHVWf50Nhww1-743131ng.jpeg?alt=media&token=9d24be25-e91d-486e-80fd-169fd85ce623)
+Many candidates have never been in the interviewer chair I'm hoping to share a different perspective with candidates so they can prepare accordingly and it can act as a guide to hiring managers.
 
-### [58. A Brief Intro to HRMS Software](https://hackernoon.com/a-brief-intro-to-hrms-software)
-![](https://cdn.hackernoon.com/images/ydssEFW0wAXaMR7dwPPipBFN4A52-sda3h1g.jpeg)
-Finally, HRMS software is becoming more global. This means that it can be used to manage employees in different countries.
+### [58. Here's My Exact AI Prompt to Audit Any Professional Profile on the Internet — Including Your Own](https://hackernoon.com/heres-my-exact-ai-prompt-to-audit-any-professional-profile-on-the-internet-including-your-own)
+![](https://cdn.hackernoon.com/images/NnO2WTNqJeZdKiFNk3994TJufF92-q6138w6.png)
+A new tool lets you audit your LinkedIn profile using AI and brutal honesty.
 
 ### [59. 8 Ways to Avoid Cover Letter Mistakes](https://hackernoon.com/8-ways-to-avoid-cover-letter-mistakes-um3c3z1z)
 ![](https://cdn.hackernoon.com/drafts/w9ml3zr8.png)
 You have found a few advertisements for potential jobs and have created a great resume. The next step is creating a cover letter that will capture the attention of the hiring manager. While cover letters are not difficult to write, there are some common mistakes that people make while writing them. Here are eight ways to avoid cover letter mistakes. 
 
-### [60. Here's My Exact AI Prompt to Audit Any Professional Profile on the Internet — Including Your Own](https://hackernoon.com/heres-my-exact-ai-prompt-to-audit-any-professional-profile-on-the-internet-including-your-own)
-![](https://cdn.hackernoon.com/images/NnO2WTNqJeZdKiFNk3994TJufF92-q6138w6.png)
-A new tool lets you audit your LinkedIn profile using AI and brutal honesty.
+### [60. A Brief Intro to HRMS Software](https://hackernoon.com/a-brief-intro-to-hrms-software)
+![](https://cdn.hackernoon.com/images/ydssEFW0wAXaMR7dwPPipBFN4A52-sda3h1g.jpeg)
+Finally, HRMS software is becoming more global. This means that it can be used to manage employees in different countries.
 
 ### [61. How to Clean Up the Mess in Your Employee Training Program](https://hackernoon.com/how-to-clean-up-the-mess-in-your-employee-training-program-581r2g8u)
 ![](https://cdn.hackernoon.com/drafts/dni2g0t.png)
@@ -295,77 +299,77 @@ compensation strategy.
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-ynp2917.jpeg)
 This article reviews common mistakes in the recruitment of IT Professionals. HR shouldn't need to struggle to find perfect candidates. 
 
-### [74. How to Create an Employee Engagement Plan: The Key to a Happy Staff](https://hackernoon.com/how-to-create-an-employee-engagement-plan-the-key-to-a-happy-staff)
-![](https://cdn.hackernoon.com/images/qPxkwP0q0JZ8GkJTNz5QSKPmQk63-bv03af3.jpeg)
-Make your employee incentive plan focused on each team member because your staff can only succeed when the incentives resonate with them.
-
-### [75. Companies Need More Tech-Driven Hiring Strategies to Tackle Talent Shortages](https://hackernoon.com/companies-need-more-tech-driven-hiring-strategies-to-tackle-talent-shortages)
+### [74. Companies Need More Tech-Driven Hiring Strategies to Tackle Talent Shortages](https://hackernoon.com/companies-need-more-tech-driven-hiring-strategies-to-tackle-talent-shortages)
 ![](https://cdn.hackernoon.com/images/D5OjbQnQePUB4DmoTZMJmP9zpoo2-8c93oxs.jpeg)
 Hiring talent has been a tough row to hoe in 2022: 7 out of 10 executives stated they receive too few applicants, most of whom are underqualified. 
 
-### [76. What Were the Top IT Jobs of 2021? - An End-of-Year Market Analysis](https://hackernoon.com/what-were-the-top-it-jobs-of-2021-an-end-of-year-market-analysis)
-![](https://cdn.hackernoon.com/images/16ChB2rveuMbaKoi890weUEWtCC3-cd037xy.jpeg)
-What are current trends in the IT industry? Which IT jobs are in high demand today? Find the answers in our new article.
+### [75. How to Create an Employee Engagement Plan: The Key to a Happy Staff](https://hackernoon.com/how-to-create-an-employee-engagement-plan-the-key-to-a-happy-staff)
+![](https://cdn.hackernoon.com/images/qPxkwP0q0JZ8GkJTNz5QSKPmQk63-bv03af3.jpeg)
+Make your employee incentive plan focused on each team member because your staff can only succeed when the incentives resonate with them.
+
+### [76. 54 Stories To Learn About Employee Engagement](https://hackernoon.com/54-stories-to-learn-about-employee-engagement)
+![](https://cdn.hackernoon.com/images/github/employee-engagement-56.png)
+Learn everything you need to know about Employee Engagement via these 54 free HackerNoon stories.
 
 ### [77. Why Generative AI and That Human Touch Can Transform Your Online HR Software Strategy](https://hackernoon.com/why-generative-ai-and-that-human-touch-can-transform-your-online-hr-software-strategy)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-as03acg.jpeg)
 The integration of generative AI into your HR software can rapidly transform how you carry out traditional HR practices, introducing new time-saving features.
 
-### [78. 54 Stories To Learn About Employee Engagement](https://hackernoon.com/54-stories-to-learn-about-employee-engagement)
-![](https://cdn.hackernoon.com/images/github/employee-engagement-56.png)
-Learn everything you need to know about Employee Engagement via these 54 free HackerNoon stories.
-
-### [79. An Open Letter to My Invisible Employer](https://hackernoon.com/an-open-letter-to-my-invisible-employer-6w193upf)
-![](https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-I have lived 6 years in this corporate life. I have spent my valuable energy, time and patience on you.
-
-### [80. How to Build a Recruiting Brand](https://hackernoon.com/how-to-build-a-recruiting-brand-s5633yre)
-![](https://images.unsplash.com/photo-1549923746-c502d488b3ea?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Hiring great talent is getting harder by the day. Big-brand tech companies are expanding, legacy enterprises are going digital, and the startup world is growing fast. For early-stage tech companies, it’s an uphill battle to outmaneuver the competition that’s now coming from every corner and land the right candidates.
-
-### [81. Impact of IoT from Recruiting to the Final Product](https://hackernoon.com/impact-of-iot-from-recruiting-to-the-final-product-2fl32mt)
-![](https://cdn.hackernoon.com/drafts/9k1132oi.png)
-(Source: Image by methodshop from Pixabay) 
-
-### [82. Leveraging AI for Streamlined Hiring: An Essential Guide for Entrepreneurs](https://hackernoon.com/leveraging-ai-for-streamlined-hiring-an-essential-guide-for-entrepreneurs)
-![](https://cdn.hackernoon.com/images/WgOKoJKnu6c6jqD2UtvN7rgBH093-aua36gr.jpeg)
-AI assists in making the recruitment process more optimal and making it easier to screen out irrelevant candidates early on.
-
-### [83. Designing a Pragmatic Coding Interview [Part 1]](https://hackernoon.com/designing-a-pragmatic-coding-interview-part-1-1v5x3yjc)
-![](https://cdn.hackernoon.com/drafts/5w3i3yil.png)
-In the following series of posts, I’ll be sharing the internals of designing a pragmatic coding interview that I got to know after interviewing folks for different tech positions for some time and here comes the first one.
-
-### [84. How to Find and Hire the Top Remote Tech Talents in 2021 [Part 1]](https://hackernoon.com/how-to-find-and-hire-the-top-remote-tech-talents-in-2021-part-1)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-pp037e5.jpeg)
-Finding, hiring, and retaining top remote tech talents has become a challenge for most companies, and is getting more complex and challenging by the day. With t
-
-### [85. The Irresistible Automation of Talent Acquisition](https://hackernoon.com/the-irresistible-automation-of-talent-acquisition-rw1v3ywa)
-![](https://cdn.hackernoon.com/drafts/w9w3yk8.png)
-The automation of part of the recruitment process finally seems to be a reality thanks to the significant progress made in artificial intelligence (AI) and machine learning .
-
-### [86. How To Recruit Great Scrum Masters](https://hackernoon.com/how-to-recruit-great-scrum-masters-4wb43yu6)
-![](https://cdn.hackernoon.com/drafts/a6n23ygs.png)
-Finding a Scrum Master is simple and complex. There are plenty of people out there who call themselves “Scrum Masters”, but how do you know if the person you are hiring really is a great Scrum Master?
-
-### [87. The Best Software HR Can Use in the Workplace to Reduce Workload](https://hackernoon.com/the-best-software-hr-can-use-in-the-workplace-to-reduce-workload)
-![](https://cdn.hackernoon.com/images/frDeWhzZjDacAQUpRCFRiLQSmdx2-l4e3qws.jpeg)
-This article will discuss five of the best tools HR professionals can use to make their lives easier. Workday, Bamboo HR, Zenefits, and Infor are just a few of the software solutions available. These tools help HR professionals and business users optimize workflow processes and provide a consistent experience across platforms. Let's take a look at each one in turn. Which of these tools will you need to use?
-
-### [88. Layoffs Forced by AI Adoption - What This Shift Really Means?](https://hackernoon.com/layoffs-forced-by-ai-adoption-what-this-shift-really-means)
-![](https://cdn.hackernoon.com/images/z2PISsD12MRlh2uHntMLZDKsCXQ2-yc03gbo.jpeg)
-AI in the workplace pits machines against humans — surrender or collaborate?
-
-### [89. Why Employee Disengagement Spreads Faster in Large Organizations](https://hackernoon.com/why-employee-disengagement-spreads-faster-in-large-organizations)
+### [78. Why Employee Disengagement Spreads Faster in Large Organizations](https://hackernoon.com/why-employee-disengagement-spreads-faster-in-large-organizations)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-p103esu.jpeg)
 Once disengagement starts to spread, company culture and productivity can take a big hit, so it’s important that steps are taken.
 
-### [90. 4 Ways HR Overcomes Work Challenges](https://hackernoon.com/4-ways-hr-overcomes-work-challenges)
-![](https://cdn.hackernoon.com/images/frDeWhzZjDacAQUpRCFRiLQSmdx2-k9c3qvs.jpeg)
-Here are 4 ways that an HR department can help overcome challenges in the workplace that hold back many businesses that do not have such facilities available.
+### [79. What Were the Top IT Jobs of 2021? - An End-of-Year Market Analysis](https://hackernoon.com/what-were-the-top-it-jobs-of-2021-an-end-of-year-market-analysis)
+![](https://cdn.hackernoon.com/images/16ChB2rveuMbaKoi890weUEWtCC3-cd037xy.jpeg)
+What are current trends in the IT industry? Which IT jobs are in high demand today? Find the answers in our new article.
 
-### [91. 104 Stories To Learn About Hr](https://hackernoon.com/104-stories-to-learn-about-hr)
+### [80. An Open Letter to My Invisible Employer](https://hackernoon.com/an-open-letter-to-my-invisible-employer-6w193upf)
+![](https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+I have lived 6 years in this corporate life. I have spent my valuable energy, time and patience on you.
+
+### [81. Leveraging AI for Streamlined Hiring: An Essential Guide for Entrepreneurs](https://hackernoon.com/leveraging-ai-for-streamlined-hiring-an-essential-guide-for-entrepreneurs)
+![](https://cdn.hackernoon.com/images/WgOKoJKnu6c6jqD2UtvN7rgBH093-aua36gr.jpeg)
+AI assists in making the recruitment process more optimal and making it easier to screen out irrelevant candidates early on.
+
+### [82. How to Build a Recruiting Brand](https://hackernoon.com/how-to-build-a-recruiting-brand-s5633yre)
+![](https://images.unsplash.com/photo-1549923746-c502d488b3ea?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Hiring great talent is getting harder by the day. Big-brand tech companies are expanding, legacy enterprises are going digital, and the startup world is growing fast. For early-stage tech companies, it’s an uphill battle to outmaneuver the competition that’s now coming from every corner and land the right candidates.
+
+### [83. Impact of IoT from Recruiting to the Final Product](https://hackernoon.com/impact-of-iot-from-recruiting-to-the-final-product-2fl32mt)
+![](https://cdn.hackernoon.com/drafts/9k1132oi.png)
+(Source: Image by methodshop from Pixabay) 
+
+### [84. Designing a Pragmatic Coding Interview [Part 1]](https://hackernoon.com/designing-a-pragmatic-coding-interview-part-1-1v5x3yjc)
+![](https://cdn.hackernoon.com/drafts/5w3i3yil.png)
+In the following series of posts, I’ll be sharing the internals of designing a pragmatic coding interview that I got to know after interviewing folks for different tech positions for some time and here comes the first one.
+
+### [85. How to Find and Hire the Top Remote Tech Talents in 2021 [Part 1]](https://hackernoon.com/how-to-find-and-hire-the-top-remote-tech-talents-in-2021-part-1)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-pp037e5.jpeg)
+Finding, hiring, and retaining top remote tech talents has become a challenge for most companies, and is getting more complex and challenging by the day. With t
+
+### [86. The Best Software HR Can Use in the Workplace to Reduce Workload](https://hackernoon.com/the-best-software-hr-can-use-in-the-workplace-to-reduce-workload)
+![](https://cdn.hackernoon.com/images/frDeWhzZjDacAQUpRCFRiLQSmdx2-l4e3qws.jpeg)
+This article will discuss five of the best tools HR professionals can use to make their lives easier. Workday, Bamboo HR, Zenefits, and Infor are just a few of the software solutions available. These tools help HR professionals and business users optimize workflow processes and provide a consistent experience across platforms. Let's take a look at each one in turn. Which of these tools will you need to use?
+
+### [87. How To Recruit Great Scrum Masters](https://hackernoon.com/how-to-recruit-great-scrum-masters-4wb43yu6)
+![](https://cdn.hackernoon.com/drafts/a6n23ygs.png)
+Finding a Scrum Master is simple and complex. There are plenty of people out there who call themselves “Scrum Masters”, but how do you know if the person you are hiring really is a great Scrum Master?
+
+### [88. The Irresistible Automation of Talent Acquisition](https://hackernoon.com/the-irresistible-automation-of-talent-acquisition-rw1v3ywa)
+![](https://cdn.hackernoon.com/drafts/w9w3yk8.png)
+The automation of part of the recruitment process finally seems to be a reality thanks to the significant progress made in artificial intelligence (AI) and machine learning .
+
+### [89. 104 Stories To Learn About Hr](https://hackernoon.com/104-stories-to-learn-about-hr)
 ![](https://cdn.hackernoon.com/images/github/hr-433.png)
 Learn everything you need to know about Hr via these 104 free HackerNoon stories.
+
+### [90. Layoffs Forced by AI Adoption - What This Shift Really Means?](https://hackernoon.com/layoffs-forced-by-ai-adoption-what-this-shift-really-means)
+![](https://cdn.hackernoon.com/images/z2PISsD12MRlh2uHntMLZDKsCXQ2-yc03gbo.jpeg)
+AI in the workplace pits machines against humans — surrender or collaborate?
+
+### [91. 4 Ways HR Overcomes Work Challenges](https://hackernoon.com/4-ways-hr-overcomes-work-challenges)
+![](https://cdn.hackernoon.com/images/frDeWhzZjDacAQUpRCFRiLQSmdx2-k9c3qvs.jpeg)
+Here are 4 ways that an HR department can help overcome challenges in the workplace that hold back many businesses that do not have such facilities available.
 
 ### [92. The Series A Startup Guide to Outstaffing Software Developers](https://hackernoon.com/the-series-a-startup-guide-to-outstaffing-software-developers)
 ![](https://cdn.hackernoon.com/images/R2EyjV01iJMEoR6DS6Z1FhEXhm13-be03a9f.jpeg)
@@ -375,21 +379,21 @@ This is a quick guide on how to select remote development teams for startups at 
 ![](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 During my software engineering career, I've been both - the interviewer and the job-seeker. Many of the actions I took to get a new job weren’t impactful. But here are the things that helped me most in getting the right software engineering job.
 
-### [94. The Process Behind Building Our Own Applicant Tracking System](https://hackernoon.com/the-process-behind-building-our-own-applicant-tracking-system)
-![](https://cdn.hackernoon.com/images/RRvoMy9wtWMjYgcYvHm1xfYVMkq1-zo13513.jpeg)
-An applicant tracking system, usually referred to simply as ATS, is a software application that simplifies handing of candidate data through automation and enables companies to streamline their recruitment processes from sourcing and communication to testing and selecting candidates. 
-
-### [95. How Can HR Facilitate Your Remote Workplace Mental Health Initiatives?](https://hackernoon.com/how-can-hr-facilitate-your-remote-workplace-mental-health-initiatives)
+### [94. How Can HR Facilitate Your Remote Workplace Mental Health Initiatives?](https://hackernoon.com/how-can-hr-facilitate-your-remote-workplace-mental-health-initiatives)
 ![](https://cdn.hackernoon.com/images/YOIwQLWfJzeFyKx6yElWIyv3qzA2-84036fq.jpeg)
 In this article, we will explain the role of HR in helping employees solve mental health problems and see what HR is doing to address this issue.
 
-### [96. Interviewing Android Developers: View From the Other Side](https://hackernoon.com/interviewing-android-developers-view-from-the-other-side-l8ao341d)
-![](https://cdn.hackernoon.com/drafts/sb6j37gx.png)
-Because we all want to work with the best people for the job!
+### [95. The Process Behind Building Our Own Applicant Tracking System](https://hackernoon.com/the-process-behind-building-our-own-applicant-tracking-system)
+![](https://cdn.hackernoon.com/images/RRvoMy9wtWMjYgcYvHm1xfYVMkq1-zo13513.jpeg)
+An applicant tracking system, usually referred to simply as ATS, is a software application that simplifies handing of candidate data through automation and enables companies to streamline their recruitment processes from sourcing and communication to testing and selecting candidates. 
 
-### [97. The First Major Challenge HR Managers Face is Retaining Top Talent](https://hackernoon.com/the-first-major-challenge-hr-managers-face-is-retaining-top-talent)
+### [96. The First Major Challenge HR Managers Face is Retaining Top Talent](https://hackernoon.com/the-first-major-challenge-hr-managers-face-is-retaining-top-talent)
 ![](https://cdn.hackernoon.com/images/ciRzKpwwLQOvGGGMPK7DpTkf9Jq1-wf93qle.jpeg)
 A major challenge for startup HR is attracting and retaining top talent. Many startups focus on output instead of employee performance, which results in a lack of engagement and motivation. When employees feel that their work is not valued, they often leave the company for better opportunities elsewhere. Developing and nurturing a talent pipeline can solve these challenges. Startups must also take care to ensure that their employees are aligned with the company's vision. This requirescareful planning and in-house training programs for all employees.
+
+### [97. Interviewing Android Developers: View From the Other Side](https://hackernoon.com/interviewing-android-developers-view-from-the-other-side-l8ao341d)
+![](https://cdn.hackernoon.com/drafts/sb6j37gx.png)
+Because we all want to work with the best people for the job!
 
 ### [98. 7 Tips to Make Your Transition to a New IT Job Smoother](https://hackernoon.com/7-tips-to-make-your-transition-to-a-new-it-job-smoother-vwi32ws)
 ![](https://cdn.hackernoon.com/drafts/jadr32bv.png)
@@ -405,25 +409,25 @@ Recruitment today is not the same as it was a few years ago. The traditional rec
 
 
 
-### [101. Managing Diversity in the Workplace: Building an Inclusive Organizational Culture](https://hackernoon.com/managing-diversity-in-the-workplace-building-an-inclusive-organizational-culture-z751362y)
+### [101. Why Staff Churn Is Becoming a Bigger Threat in 2026](https://hackernoon.com/why-staff-churn-is-becoming-a-bigger-threat-in-2026)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-7o03ck1.jpeg)
+Although resignations are normal within all businesses, the impact can go much further than the inconvenience of having to rehire.
+
+### [102. Managing Diversity in the Workplace: Building an Inclusive Organizational Culture](https://hackernoon.com/managing-diversity-in-the-workplace-building-an-inclusive-organizational-culture-z751362y)
 ![](https://cdn.hackernoon.com/images/cH6Xu9J11SUiWvKWkKblkVhY5jH2-6x2m342i.jpeg)
 Diversity in the workplace is increasingly becoming a top priority for all organizational leaders. Initially, workplace diversity was merely a tick in the box with a narrow focus on just hiring professionals from different age, geographical and gender groups. The conversation has now matured significantly, with expansion not only in the scope of what diversity in the workplace entails, but also how it pans out. Let’s dive deep into the various aspects of diversity and inclusion in the workplace.
 
-### [102. 3 Ways to Help Prevent New Hire Churn in Tech Industries](https://hackernoon.com/3-ways-to-help-prevent-new-hire-churn-in-tech-industries)
+### [103. 3 Ways to Help Prevent New Hire Churn in Tech Industries](https://hackernoon.com/3-ways-to-help-prevent-new-hire-churn-in-tech-industries)
 ![](https://cdn.hackernoon.com/images/rjEfNJmRsHbRtEujPZtEwxsM1vb2-fa93hfs.jpeg)
 How can you make the process of adding new members to your team effective and fast? And how can you help them fit in as well? 
-
-### [103. Legal Business Documents: Non-Disclosure Agreement and Demand Letter](https://hackernoon.com/legal-business-documents-non-disclosure-agreement-and-demand-letter-55333y39)
-![](https://cdn.hackernoon.com/drafts/f9ua2ewz.png)
-In business, there are many instances where you want to share confidential information with another party. But the key to doing so safely is to make sure that the other party is bound to respect the sensitive information you provide and will not use it to their own detriment.
 
 ### [104. Working with Startups: Factors that are Important for an IT Specialist Today](https://hackernoon.com/working-with-startups-factors-that-are-important-for-an-it-specialist-today)
 ![](https://cdn.hackernoon.com/images/16ChB2rveuMbaKoi890weUEWtCC3-5993jr4.jpeg)
 IT specialists & startups: what is vital for tech candidates today?
 
-### [105. Some Tips On Holding a Productive Virtual Offsite](https://hackernoon.com/some-tips-on-holding-a-productive-virtual-offsite-4vt3t1q)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZU0eJAp5VveahOSuhUDdoMF6uE43-vo1328ki.jpeg?alt=media&token=6b5971c9-d5c5-4d93-88db-974e31785da5)
-Offsites are a big part of remote teams. They allow everyone to socialize, connect more deeply with coworkers, and help build shared experiences and empathy. Even if video calls are a great tool to share information, they can be tiring. It's too easy to miss non-verbal cues. Chance encounters over coffee never happen, and we don’t always experience the same personal connections that come from small-talk. That’s the downside of remote work, and that's why meeting a few times a year is a great way to fill the gap!
+### [105. Legal Business Documents: Non-Disclosure Agreement and Demand Letter](https://hackernoon.com/legal-business-documents-non-disclosure-agreement-and-demand-letter-55333y39)
+![](https://cdn.hackernoon.com/drafts/f9ua2ewz.png)
+In business, there are many instances where you want to share confidential information with another party. But the key to doing so safely is to make sure that the other party is bound to respect the sensitive information you provide and will not use it to their own detriment.
 
 ### [106. Blockroll and The Intern Place Form a Strategic Partnership](https://hackernoon.com/blockroll-and-the-intern-place-form-a-strategic-partnership)
 ![](https://cdn.hackernoon.com/images/a-robot-shaking-another-robots-hand-clgye8rvy000101s68wdpeibu.png)
@@ -433,27 +437,31 @@ Blockroll has partnered with The Intern Place (TiP).
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-z803b2j.jpeg)
 With around one in four Americans suggesting that they don’t have a single friend at work, it’s clear that the working lives of staff can be challenging. 
 
-### [108. Tips For Conducting Successful Remote Interviews](https://hackernoon.com/tips-for-conducting-successful-remote-interviews-t71431fg)
+### [108. Some Tips On Holding a Productive Virtual Offsite](https://hackernoon.com/some-tips-on-holding-a-productive-virtual-offsite-4vt3t1q)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZU0eJAp5VveahOSuhUDdoMF6uE43-vo1328ki.jpeg?alt=media&token=6b5971c9-d5c5-4d93-88db-974e31785da5)
+Offsites are a big part of remote teams. They allow everyone to socialize, connect more deeply with coworkers, and help build shared experiences and empathy. Even if video calls are a great tool to share information, they can be tiring. It's too easy to miss non-verbal cues. Chance encounters over coffee never happen, and we don’t always experience the same personal connections that come from small-talk. That’s the downside of remote work, and that's why meeting a few times a year is a great way to fill the gap!
+
+### [109. Tips For Conducting Successful Remote Interviews](https://hackernoon.com/tips-for-conducting-successful-remote-interviews-t71431fg)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIUGr6dJnAuhZ1q8b3PrD36XpqXa2-7x1x3w8e.jpeg?alt=media&token=7b6f2a69-dd51-4538-a0c3-53af96765178)
 How do you conduct effective remote interviews? Looking for remote interview tips?
 
-### [109. Making HR and Payroll More Effective for SMEs: Giacomo Verde from HROne](https://hackernoon.com/making-hr-and-payroll-more-effective-for-smes-giacomo-verde-from-hrone)
+### [110. Making HR and Payroll More Effective for SMEs: Giacomo Verde from HROne](https://hackernoon.com/making-hr-and-payroll-more-effective-for-smes-giacomo-verde-from-hrone)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ewy35a1.jpeg)
 Starting a Business in China is a difficult prospect. Giacomo, the Digital Market Manager of HROne speaks about his company that helps other startups in China.
 
-### [110. How HR Managers Can Engage a Multi-Generational Workforce?](https://hackernoon.com/how-hr-managers-can-engage-a-multi-generational-workforce)
+### [111. How HR Managers Can Engage a Multi-Generational Workforce?](https://hackernoon.com/how-hr-managers-can-engage-a-multi-generational-workforce)
 ![](https://cdn.hackernoon.com/images/ydssEFW0wAXaMR7dwPPipBFN4A52-360370y.jpeg)
 One characteristic that truly distinguishes today’s employees from old generations is the understanding of and alignment with modern technologies
 
-### [111. Hiring Process And Onboarding Virtually During COVID-19](https://hackernoon.com/hiring-process-and-onboarding-virtually-during-covid-19-fs713yqj)
+### [112. Hiring Process And Onboarding Virtually During COVID-19](https://hackernoon.com/hiring-process-and-onboarding-virtually-during-covid-19-fs713yqj)
 ![](https://cdn.hackernoon.com/images/ivg93yqv.jpg)
 The coronavirus pandemic has brought the world to a virtual standstill and has millions of us at home. COVID-19 also presents an unprecedented challenge for recruiters — interviewing new candidates, hiring and onboarding them. Keeping these challenges at bay, many companies have turned to virtual hiring as an alternative to traditional hiring. 
 
-### [112. Omnipresent Requests That All Employees Return to the Office: The Best April Fools Prank Ever?](https://hackernoon.com/omnipresent-requests-all-employees-return-to-the-office-the-april-fools-prank-ever)
+### [113. Omnipresent Requests That All Employees Return to the Office: The Best April Fools Prank Ever?](https://hackernoon.com/omnipresent-requests-all-employees-return-to-the-office-the-april-fools-prank-ever)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-lq93hax.jpeg)
 What would you do if your employer suddenly announced that everyone needed to work from the office? Just kidding, it's just a really good joke.
 
-### [113. How To Retain High-Performing Talent](https://hackernoon.com/how-to-retain-high-performing-talent)
+### [114. How To Retain High-Performing Talent](https://hackernoon.com/how-to-retain-high-performing-talent)
 ![](https://cdn.hackernoon.com/images/frDeWhzZjDacAQUpRCFRiLQSmdx2-3zb3qw2.jpeg)
 Talent retention has always been a challenge for HR. The challenge is made even more difficult by a high turnover rate. While it can be difficult to keep top talent, there are some key strategies you can use to retain top performers. Here are some of them:
 

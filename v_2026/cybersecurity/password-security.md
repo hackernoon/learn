@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [password-security](https://hackernoon.com/tagged/password-security)
+### Let's learn about [Password Security](https://hackernoon.com/tagged/password-security) via these 149 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Password security involves practices and technologies designed to protect user accounts and sensitive data from unauthorized access through strong, unique passwords. It is fundamental for safeguarding personal and organizational information in the digital world, preventing breaches and identity theft.
+
 ### [1. 3 Ways to Crack WinRAR Password Protected Files](https://hackernoon.com/3-ways-to-crack-winrar-password-protected-files-5a3r34nw)
 ![](https://hackernoon.com/images/fk3qeJ4h0CMePZUTkb6y9FAvOkF2-ws1331ad.jpeg)
 This article will explain the 3 best methods to recover WinRAR password protected files.
@@ -69,29 +73,29 @@ It can be risky to self-host a password vault if a user lacks full security comp
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-66832ex.jpeg)
 The success of online safety protocols depends on user experience. Here's how to optimize multi-factor authentication for effortless UX.
 
-### [18. Hands-On WPA Cracking — Capture, Convert, Crack with Hashcat](https://hackernoon.com/hands-on-wpa-cracking-capture-convert-crack-with-hashcat)
-![](https://cdn.hackernoon.com/images/na1LA50pIxdXCxwaer7ISkWR5q52-3t03k1w.png)
-Crack WPA handshakes with Hashcat, learn password hashing, brute-force and mask attack techniques, and how weak Wi-Fi passwords expose networks to threats.
-
-### [19. How To Store Encrypted Data Collected By Your Web Application With PHP7 and LibSodium](https://hackernoon.com/how-to-store-encrypted-data-collected-by-your-web-application-with-php7-and-libsodium-ww1y32a5)
+### [18. How To Store Encrypted Data Collected By Your Web Application With PHP7 and LibSodium](https://hackernoon.com/how-to-store-encrypted-data-collected-by-your-web-application-with-php7-and-libsodium-ww1y32a5)
 ![](https://cdn.hackernoon.com/drafts/t1x3zub.png)
 Reasonable security through architecture
 
-### [20. Password Security And Thoughts On Authentication Methods](https://hackernoon.com/password-security-and-thoughts-on-authentication-methods-dw6u3tuh)
+### [19. Password Security And Thoughts On Authentication Methods](https://hackernoon.com/password-security-and-thoughts-on-authentication-methods-dw6u3tuh)
 ![](https://cdn.hackernoon.com/images/1yuf73tpt.jpg)
 We use passwords to access personal information and user accounts. With so many applications requiring passwords (e.g. online banking, shopping and social media just to name a few), it can be hard to track and at worst remember. Some applications require users to change their passwords every so often, and that can lead to users forgetting them or getting careless by writing down their password on a piece of paper. That piece of paper can later be misplaced which can lead to worse things. The problem with requiring frequent password changes and applying complexity to passwords is that it can become more complicated for users.
 
-### [21. LastPass Confirms Hackers Stole Encrypted Password Vaults... Four Months Ago](https://hackernoon.com/lastpass-confirms-hackers-stole-encrypted-password-vaults-four-months-ago)
+### [20. LastPass Confirms Hackers Stole Encrypted Password Vaults... Four Months Ago](https://hackernoon.com/lastpass-confirms-hackers-stole-encrypted-password-vaults-four-months-ago)
 ![](https://cdn.hackernoon.com/images/bYnj8YlSMrbGYYve1iskmRSuqXg1-2jb2gnp.jpeg)
 A password vault leak had happened four months ago and LastPass is only telling you that now.
 
-### [22. Understanding the PBKDF2 Аlgorithm With a Java Service Example](https://hackernoon.com/understanding-the-pbkdf2-algorithm-with-a-java-service-example)
+### [21. Understanding the PBKDF2 Аlgorithm With a Java Service Example](https://hackernoon.com/understanding-the-pbkdf2-algorithm-with-a-java-service-example)
 ![](https://cdn.hackernoon.com/images/kCt8F2gqyfe9YuAmrb6DBZFVyiB3-x493v0e.jpeg)
 Learn how the PBKDF2 algorithm strengthens the security of passwords by creating cryptographic keys for cryptographic operations like encryption.
 
-### [23. Introducing Figaro Module: Rails Configuration Gem](https://hackernoon.com/introducing-figaro-module-rails-configuration-gem-ih8736td)
+### [22. Introducing Figaro Module: Rails Configuration Gem](https://hackernoon.com/introducing-figaro-module-rails-configuration-gem-ih8736td)
 ![](https://cdn.hackernoon.com/images/yj1e929ns.jpg)
 INTRODUCTION
+
+### [23. Hands-On WPA Cracking — Capture, Convert, Crack with Hashcat](https://hackernoon.com/hands-on-wpa-cracking-capture-convert-crack-with-hashcat)
+![](https://cdn.hackernoon.com/images/na1LA50pIxdXCxwaer7ISkWR5q52-3t03k1w.png)
+Crack WPA handshakes with Hashcat, learn password hashing, brute-force and mask attack techniques, and how weak Wi-Fi passwords expose networks to threats.
 
 ### [24. How To Create Secure Registration Flow with PHP and Password Hashing](https://hackernoon.com/how-to-create-secure-registration-flow-with-php-and-password-hashing-nw1b3t1z)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-8nr2838.jpeg?alt=media&token=928f1dac-65a4-4e24-a0c2-6bb28c625270)
@@ -217,50 +221,50 @@ If you are growing up with technology, your password should be grown up too.
 ![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-8683upt.jpeg)
 Explore the importance of high-entropy passwords in cybersecurity: a mix of unpredictability and randomness, essential for thwarting hackers in the digital age
 
-### [53. Making your Password Generator: Practicum Coding Bootamp [Step-By-Step Guide]](https://hackernoon.com/making-your-own-password-generator-a-step-by-step-guide-8rs42eb)
-![](drafts/vl1142i3.png)
-Let’s make something! 
+### [53. Beyond Cracking the Handshake: A Technical Analysis of WPA2 Weaknesses and Router Exposure](https://hackernoon.com/beyond-cracking-the-handshake-a-technical-analysis-of-wpa2-weaknesses-and-router-exposure)
+![](https://cdn.hackernoon.com/images/na1LA50pIxdXCxwaer7ISkWR5q52-3d123no3.png)
+A captured handshake. One Reddit comment. Full router access. See how weak security choices cascade into complete network compromise and how to stop it.
 
 ### [54. Passwordless vs MFA: The Future of Authentication](https://hackernoon.com/passwordless-vs-mfa-the-future-of-authentication)
 ![](https://cdn.hackernoon.com/images/AiJJJ2MaO0dN7KCZ73EaYbtGSvk1-lc93ps1.jpeg)
 A passwordless approach is not the end-all-be-all for data security, but it is the start of establishing a single, strong user identity and trust.
 
-### [55. Password Security in 2022 — A Complete Guide](https://hackernoon.com/password-security-in-2021-a-complete-guide)
+### [55. Making your Password Generator: Practicum Coding Bootamp [Step-By-Step Guide]](https://hackernoon.com/making-your-own-password-generator-a-step-by-step-guide-8rs42eb)
+![](drafts/vl1142i3.png)
+Let’s make something! 
+
+### [56. Password Security in 2022 — A Complete Guide](https://hackernoon.com/password-security-in-2021-a-complete-guide)
 ![](https://cdn.hackernoon.com/images/DHOqXwtCIKY1Gm9k9zgzeImIqrk2-p7136hm.jpeg)
 A comprehensive guide to password security for all IT managers (and everyone else!). Learn why it is important, the risks of insecure passwords and how you can 
 
-### [56. 7 Ways to Protect Your Company from Insecure Credentials](https://hackernoon.com/7-ways-to-protect-your-company-from-insecure-credentials-nyk3yg3)
+### [57. 7 Ways to Protect Your Company from Insecure Credentials](https://hackernoon.com/7-ways-to-protect-your-company-from-insecure-credentials-nyk3yg3)
 ![](https://cdn.hackernoon.com/images/kf1n73vct.jpg)
 Verizon’s 2020 DBIR reports that more than 80% of hacking-related breaches involve brute force or the use of lost or stolen credentials— here’s how to prevent weak or compromised credentials from being used in your company’s applications and network
 
-### [57. The ZEE5 User Data Leak That The Media Didn't Report On](https://hackernoon.com/the-zee5-user-data-leak-that-the-media-didnt-report-on-4p71324y)
+### [58. The ZEE5 User Data Leak That The Media Didn't Report On](https://hackernoon.com/the-zee5-user-data-leak-that-the-media-didnt-report-on-4p71324y)
 ![](https://images.unsplash.com/photo-1560169897-fc0cdbdfa4d5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 In an exclusive story reported on my blog about a month ago and on no other mainstream media outlet, credentials of some 1,023 Premium accounts were found floating on the web. These user accounts belong to the popular video-on-demand streaming service, ZEE5.
 
-### [58. How Secure is Your Password? - 5 Password Security Risks to Avoid](https://hackernoon.com/how-secure-is-your-password-5-password-security-risks-to-avoid)
+### [59. How Secure is Your Password? - 5 Password Security Risks to Avoid](https://hackernoon.com/how-secure-is-your-password-5-password-security-risks-to-avoid)
 ![](https://cdn.hackernoon.com/images/UyvYhYhsBwOlNtUcnMaFDBHizA42-o9439x1.jpeg)
 Cybercrimes are becoming more prevalent, so it's a must to keep your passwords strong and secure to protect your accounts and personal information from hackers.
 
-### [59. Saving Passwords with Relative Security [A Guide for Dummies]](https://hackernoon.com/saving-passwords-with-relative-security-a-guide-for-dummies-7p1s32pt)
+### [60. Saving Passwords with Relative Security [A Guide for Dummies]](https://hackernoon.com/saving-passwords-with-relative-security-a-guide-for-dummies-7p1s32pt)
 ![](https://cdn.hackernoon.com/images/9s1y3z6b.jpg)
 There is a mystical aura around password creation. Some kind of occult knowledge reached only by the distant cryptographic hermits who ascended to nirvana after decades of meditation on the Patagonian glaciers and liters of instant coffee. In this article, we will try to translate a few drops of this ancient wisdom so that we, mere mortals, have secure accounts to store pictures of cats and e-books that we will never read.
 
-### [60. Personal Online Security: How to Stay Safe Online](https://hackernoon.com/personal-online-security-how-to-stay-safe-online)
+### [61. Personal Online Security: How to Stay Safe Online](https://hackernoon.com/personal-online-security-how-to-stay-safe-online)
 ![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-7e9317v.jpeg)
 Every individual or organization must be mindful of securing their online data. Online security is essential for better online data privacy and security.
 
 
-### [61. Tips To Secure Your AWS Account](https://hackernoon.com/tips-to-secure-your-aws-account)
+### [62. Tips To Secure Your AWS Account](https://hackernoon.com/tips-to-secure-your-aws-account)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-wf92a7r.jpeg)
 It is no news that Cloud Computing technology has come to stay.
 
-### [62. 7 Things Every Startup Founder Should Know About Software Security](https://hackernoon.com/7-things-every-startup-founder-should-know-about-software-security)
+### [63. 7 Things Every Startup Founder Should Know About Software Security](https://hackernoon.com/7-things-every-startup-founder-should-know-about-software-security)
 ![](https://cdn.hackernoon.com/images/O60Az8JlXre6D4xTNc5kmUwMszp2-tma3s31.png)
 Explore vital security aspects that all startup founders should know. These insights will help you understand what you should expect from your security team.
-
-### [63. Beyond Cracking the Handshake: A Technical Analysis of WPA2 Weaknesses and Router Exposure](https://hackernoon.com/beyond-cracking-the-handshake-a-technical-analysis-of-wpa2-weaknesses-and-router-exposure)
-![](https://cdn.hackernoon.com/images/na1LA50pIxdXCxwaer7ISkWR5q52-3d123no3.png)
-A captured handshake. One Reddit comment. Full router access. See how weak security choices cascade into complete network compromise and how to stop it.
 
 ### [64. Will 2025 Be The Turning Point For Passwords: What’s Next For The Passwordless Future?](https://hackernoon.com/will-2025-be-the-turning-point-for-passwords-whats-next-for-the-passwordless-future)
 ![](https://cdn.hackernoon.com/images/QXsXg7hvkgUim8nVzmpA0TNWPaL2-vw03wa4.png)
@@ -294,13 +298,13 @@ What happens after you accidentally leak secrets to a public code repository.
 ![](https://cdn.hackernoon.com/drafts/z2nl33fb.png)
 Most users, having entered the key to the wireless network on the router, remember about it when they need to connect a new device. In this article, we will examine in detail where to find the Wi-Fi password and, if necessary, change it.
 
-### [72. A Honeypot Experiment Shows How Long It Takes To Get Hacked](https://hackernoon.com/a-honeypot-experiment-shows-how-long-it-takes-to-get-hacked-f83y33iu)
-![](https://cdn.hackernoon.com/images/ec8Z6KvJRRX64jAZmXiQ3hcoS282-vb1ea33gu.png)
-Some systems are specifically meant to be hacked. The little experiment I describe shows that a system is found quite soon after being connected to the Internet
-
-### [73. Fortify Your Digital Defenses: Top Home Cybersecurity Strategies for Personal Protection](https://hackernoon.com/fortify-your-digital-defenses-top-home-cybersecurity-strategies-for-personal-protection)
+### [72. Fortify Your Digital Defenses: Top Home Cybersecurity Strategies for Personal Protection](https://hackernoon.com/fortify-your-digital-defenses-top-home-cybersecurity-strategies-for-personal-protection)
 ![](https://cdn.hackernoon.com/images/2mJgjTmSOuYVpIIuuLDsJOrR0s42-xo833lp.png)
 Living in a digital world, we need digital protection. Here are my tips and tricks for you to fortify your digital defenses at home and in your personal life.
+
+### [73. A Honeypot Experiment Shows How Long It Takes To Get Hacked](https://hackernoon.com/a-honeypot-experiment-shows-how-long-it-takes-to-get-hacked-f83y33iu)
+![](https://cdn.hackernoon.com/images/ec8Z6KvJRRX64jAZmXiQ3hcoS282-vb1ea33gu.png)
+Some systems are specifically meant to be hacked. The little experiment I describe shows that a system is found quite soon after being connected to the Internet
 
 ### [74. The Louvre Heist: Intimidation, DNA, and the Real Story Behind the Global Headline](https://hackernoon.com/the-louvre-heist-intimidation-dna-and-the-real-story-behind-the-global-headline)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-g203b0w.jpeg)
@@ -338,127 +342,127 @@ At least once per day, we're seeing examples of digital identity theft. Most wel
 ![](https://cdn.hackernoon.com/images/56dBKMOkihULueV9i44LFg1HFrn2-r03l31c4.jpeg)
 NIST Guidelines have changed over the years so it is important to keep up with the changes. Password recommendations, such as eliminating special character use.
 
-### [83. The Anatomy of Credential Stuffing Attacks in 2020 ](https://hackernoon.com/the-anatomy-of-credential-stuffing-attacks-in-2020-04x3tss)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGudf4GY4eFRNpCTF0AgrATkzf413-7f1u3taj.jpeg?alt=media&token=6a682961-e0e6-4bef-9eda-50bc56be87ee)
-This year began in chaos. The chaos brought numerous challenges to both businesses and employees alike. With a significant portion of the population working from home, home network security and online safety's been brought to the forefront of technological challenges. Now that the year is coming to a closer end, 2020 reports are revealing an increase in cyber-attacks and consequential financial losses.
-
-### [84. You Should Be Faking Your Security Answers](https://hackernoon.com/you-should-be-faking-your-security-answers)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-6b03bct.jpeg)
-One way to guarantee they won’t know the answers to these questions is if you make them up and save them in your password manager for future reference.
-
-### [85. Why 85% of People Reuse Passwords Against Expert Advice](https://hackernoon.com/why-85percent-of-people-reuse-passwords-against-expert-advice)
-![](https://cdn.hackernoon.com/images/Pza7Fnbfy7OCXpN7qxXukOmtNnf2-c703b6f.jpeg)
-Traditional password advice is technically correct but practically impossible. Analysis shows 85% reuse passwords due to cognitive overload. 
-
-### [86. Psst, Your DNS is Showing: Uncovering Vulnerabilities in DNS and Password Managers.](https://hackernoon.com/psst-your-dns-is-showing-uncovering-vulnerabilities-in-dns-and-password-managers)
+### [83. Psst, Your DNS is Showing: Uncovering Vulnerabilities in DNS and Password Managers.](https://hackernoon.com/psst-your-dns-is-showing-uncovering-vulnerabilities-in-dns-and-password-managers)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-fw02o7b.png)
 DNS is being used as a vector for phishing attacks and leveraged to compromise even the most secure password managers.
 
-### [87. 64 Stories To Learn About Passwords](https://hackernoon.com/64-stories-to-learn-about-passwords)
+### [84. The Anatomy of Credential Stuffing Attacks in 2020 ](https://hackernoon.com/the-anatomy-of-credential-stuffing-attacks-in-2020-04x3tss)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGudf4GY4eFRNpCTF0AgrATkzf413-7f1u3taj.jpeg?alt=media&token=6a682961-e0e6-4bef-9eda-50bc56be87ee)
+This year began in chaos. The chaos brought numerous challenges to both businesses and employees alike. With a significant portion of the population working from home, home network security and online safety's been brought to the forefront of technological challenges. Now that the year is coming to a closer end, 2020 reports are revealing an increase in cyber-attacks and consequential financial losses.
+
+### [85. 64 Stories To Learn About Passwords](https://hackernoon.com/64-stories-to-learn-about-passwords)
 ![](https://cdn.hackernoon.com/images/github/passwords-873.png)
 Learn everything you need to know about Passwords via these 64 free HackerNoon stories.
 
-### [88. What Ali Baba Should Have Taught His Brother Before Entering The Secret Cave](https://hackernoon.com/what-ali-baba-should-have-taught-his-brother-before-entering-the-secret-cave-541r34zo)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-yi2i25gz.jpeg)
-Password rules are always the first thing in my awareness training for customers. Let me share it with all of you so that more people know about this.
-
-### [89. Passwords Suck: Here Are 4 Ways We Can Fix Them](https://hackernoon.com/passwords-suck-here-are-4-ways-we-can-fix-them-vz4h346m)
+### [86. Passwords Suck: Here Are 4 Ways We Can Fix Them](https://hackernoon.com/passwords-suck-here-are-4-ways-we-can-fix-them-vz4h346m)
 ![](https://cdn.hackernoon.com/images/COsrVL2FSsY47237NS3cioaLAjq1-tk8y34kv.jpeg)
 Passwords are a critical part of cybersecurity that individuals and businesses use every day.
 
-### [90. An Introduction to Credential Stuffing Attacks ](https://hackernoon.com/an-introduction-to-credential-stuffing-attacks)
+### [87. What Ali Baba Should Have Taught His Brother Before Entering The Secret Cave](https://hackernoon.com/what-ali-baba-should-have-taught-his-brother-before-entering-the-secret-cave-541r34zo)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-yi2i25gz.jpeg)
+Password rules are always the first thing in my awareness training for customers. Let me share it with all of you so that more people know about this.
+
+### [88. An Introduction to Credential Stuffing Attacks ](https://hackernoon.com/an-introduction-to-credential-stuffing-attacks)
 ![](https://cdn.hackernoon.com/images/qbsyEA7JQwfYge3lRDodxRMFjFf1-kla3p6n.jpeg)
 Protecting user accounts from cyber threats is crucial in today's world. Credential stuffing attacks are a major threat to businesses today. 
 
-### [91. 8 Most Important Cybersecurity Tricks Every Internet User Should Follow](https://hackernoon.com/8-most-important-cybersecurity-tricks-every-internet-user-should-follow-ki6a3y6l)
+### [89. 8 Most Important Cybersecurity Tricks Every Internet User Should Follow](https://hackernoon.com/8-most-important-cybersecurity-tricks-every-internet-user-should-follow-ki6a3y6l)
 ![](https://cdn.hackernoon.com/drafts/gu9i3yjq.png)
 The cyber-world now accommodates billions of users. There are more than  4 billion internet users in the world today. It's just unfortunate that a large percentage of these users face cyber attacks from unknown sources. While some users are afraid of being attacked, others are ignorant of possible attacks. As an organisation or an individual that utilises the internet, it's a must to know some security tricks. If you're wondering what the tricks are, read on. 
 
-### [92. Configuring Single Sign-On for Zoom With WSO2 Identity Server](https://hackernoon.com/configuring-single-sign-on-for-zoom-with-wso2-identity-server-1q7d3y8z)
+### [90. Configuring Single Sign-On for Zoom With WSO2 Identity Server](https://hackernoon.com/configuring-single-sign-on-for-zoom-with-wso2-identity-server-1q7d3y8z)
 ![](https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 In the wake of remote working, Zoom has become one of the most 
 essential tools for video conferencing. This blog discusses how you can 
 configure single sign-on (SSO) for Zoom with WSO2 Identity Server.
 
-### [93. Password Management and Protection - Part 1: The Basics](https://hackernoon.com/password-management-and-protection-part-1-the-basics)
-![](https://cdn.hackernoon.com/images/veOFc5GVmFPRVEhxrM5XQ7wCvtE2-7r93z8j.jpeg)
-Password managers can be the key to safeguarding your digital life and granting you peace of mind in case of a data breach.
-
-### [94. Understanding Code Signing and SSL Certificates: Safeguarding Software and Websites](https://hackernoon.com/understanding-code-signing-and-ssl-certificates-safeguarding-software-and-websites)
+### [91. Understanding Code Signing and SSL Certificates: Safeguarding Software and Websites](https://hackernoon.com/understanding-code-signing-and-ssl-certificates-safeguarding-software-and-websites)
 ![](https://cdn.hackernoon.com/images/bZON38GCIxdziuxOjtTI8HmYndy2-uw83xh0.jpeg)
 Exploring Code Signing & SSL Certificates: Protecting software integrity and website security with digital assurance.
 
-### [95. The Ultimate Guide to Privacy and Security Tools](https://hackernoon.com/the-ultimate-guide-to-privacy-and-security-tools-zw463tsm)
+### [92. Password Management and Protection - Part 1: The Basics](https://hackernoon.com/password-management-and-protection-part-1-the-basics)
+![](https://cdn.hackernoon.com/images/veOFc5GVmFPRVEhxrM5XQ7wCvtE2-7r93z8j.jpeg)
+Password managers can be the key to safeguarding your digital life and granting you peace of mind in case of a data breach.
+
+### [93. The Ultimate Guide to Privacy and Security Tools](https://hackernoon.com/the-ultimate-guide-to-privacy-and-security-tools-zw463tsm)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FDz38XhptSqQQwbfC5O3hmVUOjoH3-g8ah3tlh.jpeg?alt=media&token=a38dad90-7f91-421e-9be0-7f37945f6dd1)
 A while ago, Nora asked me if I had a list of privacy tools I use regularly. I didn't, so I wrote one with the help of lp1, and you're about to read it. These are the tools we’ve been using for a while and we recommend.
 
-### [96. 112 Stories To Learn About Password Security](https://hackernoon.com/112-stories-to-learn-about-password-security)
+### [94. 112 Stories To Learn About Password Security](https://hackernoon.com/112-stories-to-learn-about-password-security)
 ![](https://cdn.hackernoon.com/images/github/password-security-11.png)
 Learn everything you need to know about Password Security via these 112 free HackerNoon stories.
 
-### [97. 4 Dangers of Sticking with Outdated MFA Methods](https://hackernoon.com/4-dangers-of-sticking-with-outdated-mfa-methods)
+### [95. 4 Dangers of Sticking with Outdated MFA Methods](https://hackernoon.com/4-dangers-of-sticking-with-outdated-mfa-methods)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-r703ain.jpeg)
 Adopting Multifactor Authentication is just the start of securing your digital systems, but outdated MFA methods can still present vulnerabilities if unchecked.
 
-### [98. Password Managers Should be A Mandatory Part of Everyone’s Digital Life](https://hackernoon.com/password-managers-should-be-a-mandatory-part-of-everyones-digital-life-9r4m3yqk)
+### [96. Password Managers Should be A Mandatory Part of Everyone’s Digital Life](https://hackernoon.com/password-managers-should-be-a-mandatory-part-of-everyones-digital-life-9r4m3yqk)
 ![](https://images.unsplash.com/photo-1559085715-23704349e326?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Everyone knows it’s a good idea to use strong, unique passwords, and as employees around the world have been forced to work remotely, logging in from multiple devices and multiple locations, the need for strong password security has only grown. But last year’s Verizon Data Breach Investigations Report (DBIR) revealed that weak or compromised credentials still cause 80% of hacking-related breaches. Throughout the current pandemic, attackers have been scouring remote workforce applications to gather and sell user credentials on the dark web, even targeting healthcare organizations such as the National Institutes of Health and the World Health Organization.
 
-### [99. LazyAdminFinder: Easily Discover Shared Passwords and Enhance Active Directory Security](https://hackernoon.com/lazyadminfinder-easily-discover-shared-passwords-and-enhance-active-directory-security)
+### [97. LazyAdminFinder: Easily Discover Shared Passwords and Enhance Active Directory Security](https://hackernoon.com/lazyadminfinder-easily-discover-shared-passwords-and-enhance-active-directory-security)
 ![](https://cdn.hackernoon.com/images/4NjZG0BQBrWLXP7brNKWdJSPct32-yj021wa.png)
 LazyAdminFinder detects shared and reused passwords in Active Directory, helping you catch risky admin behavior and strengthen your security posture.
 
-### [100. Best Practises For Protecting Your Email](https://hackernoon.com/best-practises-for-protecting-your-email-ro9236qo)
+### [98. Best Practises For Protecting Your Email](https://hackernoon.com/best-practises-for-protecting-your-email-ro9236qo)
 ![](https://images.unsplash.com/photo-1557200134-90327ee9fafa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Ever get a Microsoft security alert email? One out of every 412 emails contains a malware attack. It doesn’t matter if you’re just a person sitting comfortably at home or a dedicated worker pushing one email after the other with short breaks of sweet old coffee. Every one of us is susceptible to these attacks and in a slightly twisted way we should all expect them. They could come in all shapes or sizes, and if you don’t want to lose a speech for your “Dyno week” conference that you spent a 100 hours writing maybe you shouldn’t let your friend open an email link with the subject line “Nude pictures of Anna Kournikova.”
 
-### [101. Why You Should Never Store Passwords in Web Browsers](https://hackernoon.com/why-you-should-never-store-passwords-in-web-browsers)
+### [99. Why You Should Never Store Passwords in Web Browsers](https://hackernoon.com/why-you-should-never-store-passwords-in-web-browsers)
 ![](https://cdn.hackernoon.com/images/BugaLC6k6haVzqRw5mELajiQSkZ2-62d3ttv.jpeg)
 
 
-### [102. The Elimination of Cybersecurity's Status Quo – Passwords  ](https://hackernoon.com/the-elimination-of-cybersecuritys-status-quo---passwords-2l1f379d)
-![](https://cdn.hackernoon.com/images/G1hdk0kwQEckZIgQj3wUNk7uYNq2-vh3f339o.jpeg)
-According to a report by the World Economic Forum, in the year 2020, cybercrime cost the world economy a staggering $2.9million every minute. According to another report, every single day, enterprises lose about 5 million records containing sensitive data due to vulnerability in their system or a human factor failure. 
-
-### [103. Passwords Are Dead. What’s Your Excuse for Still Using Them?](https://hackernoon.com/passwords-are-dead-whats-your-excuse-for-still-using-them)
+### [100. Passwords Are Dead. What’s Your Excuse for Still Using Them?](https://hackernoon.com/passwords-are-dead-whats-your-excuse-for-still-using-them)
 ![](https://cdn.hackernoon.com/images/9G33x0cZ2oXJp3ByghOjQGNRapl2-18039tw.jpeg)
 Passwords don't work. Passwordless authentication isn’t an experiment. It’s a requirement. 
 
-### [104. What Cybercrime Would Look Like in 2020](https://hackernoon.com/what-cybercrime-would-look-like-in-2020-9k593zcx)
+### [101. The Elimination of Cybersecurity's Status Quo – Passwords  ](https://hackernoon.com/the-elimination-of-cybersecuritys-status-quo---passwords-2l1f379d)
+![](https://cdn.hackernoon.com/images/G1hdk0kwQEckZIgQj3wUNk7uYNq2-vh3f339o.jpeg)
+According to a report by the World Economic Forum, in the year 2020, cybercrime cost the world economy a staggering $2.9million every minute. According to another report, every single day, enterprises lose about 5 million records containing sensitive data due to vulnerability in their system or a human factor failure. 
+
+### [102. What Cybercrime Would Look Like in 2020](https://hackernoon.com/what-cybercrime-would-look-like-in-2020-9k593zcx)
 ![](https://cdn.hackernoon.com/drafts/vyke3293.png)
 2019 was the year of data breaches, phishing and ransomware attacks. From US real estate giant inadvertently leaking 900 million records to Danish hearing aid manufacturer Demant being a victim to a 95 million US dollars hack –cybercriminals ran rampant in the last year. 
 
-### [105. 3 Tips on How to Stay Safe in Your Everyday Cyber Life](https://hackernoon.com/3-tips-on-how-to-stay-safe-in-your-everyday-cyber-life-qgx3yjy)
-![](https://cdn.hackernoon.com/drafts/hz183shx.png)
-Remember your mom always repeating "stay safe" phrase? Well, you should stay safe! Not only in streets, but also in cyberspace. 
-
-### [106. How To Prevent Data Theft With Cybersecurity](https://hackernoon.com/how-to-prevent-data-theft-with-cybersecurity-bjn3w8g)
+### [103. How To Prevent Data Theft With Cybersecurity](https://hackernoon.com/how-to-prevent-data-theft-with-cybersecurity-bjn3w8g)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FteZjGAOiJSb6mCX5IZC4gL8Emuo2-bdb3w6h.jpeg?alt=media&token=22912c84-9c01-42aa-9169-25b72b1f0015)
 Technology has many advantages to offer businesses, but it also presents unique threats. Cyberattacks are levied at businesses and consumers alike, but companies are often directly targeted. This is because companies deal with large amounts of valuable data, including the personal information of customers and clients, and that can make for a veritable treasure trove for hackers. Protecting your company and your customers from bad actors on the world wide web should be a major priority. Here’s what you need to know.
 
-### [107. How Hackers Can Brute-Force Passwords And Find A Correct Key?](https://hackernoon.com/how-hackers-can-brute-force-passwords-and-find-a-correct-key-0yev3yfg)
+### [104. 3 Tips on How to Stay Safe in Your Everyday Cyber Life](https://hackernoon.com/3-tips-on-how-to-stay-safe-in-your-everyday-cyber-life-qgx3yjy)
+![](https://cdn.hackernoon.com/drafts/hz183shx.png)
+Remember your mom always repeating "stay safe" phrase? Well, you should stay safe! Not only in streets, but also in cyberspace. 
+
+### [105. Unveiling the Intricacies of Zero-Knowledge Proofs and Their Varied Implementations](https://hackernoon.com/unveiling-the-intricacies-of-zero-knowledge-proofs-and-their-varied-implementations)
+![](https://cdn.hackernoon.com/images/AUjxENwAM1TIF6x3EOCgwb3Vq7s1-rvk2nia.jpeg)
+Zero-knowledge proofs' guardians surround a central lock, symbolizing digital privacy. A visual metaphor for privacy in the digital age.
+
+### [106. How Hackers Can Brute-Force Passwords And Find A Correct Key?](https://hackernoon.com/how-hackers-can-brute-force-passwords-and-find-a-correct-key-0yev3yfg)
 ![](https://cdn.hackernoon.com/drafts/xq1oe3y28.png)
 Brute force attackers guess passwords, passphrases, and private keys in an attempt to eventually get the right answer and crack the security of a system, but how do they know when they have the right key?
+
+### [107. The Importance of Email Credential Leak Monitoring ](https://hackernoon.com/the-importance-of-email-credential-leak-monitoring)
+![](https://cdn.hackernoon.com/images/tU0jH25eESMZVMBA1Rohg0LAuLG3-5m92r82.jpeg)
+Email credential leaks occur when an individual's email address and password are exposed to unauthorized parties. T
 
 ### [108. Why Cybersecurity is Important For Small Businesses](https://hackernoon.com/why-cybersecurity-is-important-for-small-businesses)
 ![](https://cdn.hackernoon.com/images/G1hdk0kwQEckZIgQj3wUNk7uYNq2-kg037dr.jpeg)
 Source: Pexels
 
-### [109. The Importance of Email Credential Leak Monitoring ](https://hackernoon.com/the-importance-of-email-credential-leak-monitoring)
-![](https://cdn.hackernoon.com/images/tU0jH25eESMZVMBA1Rohg0LAuLG3-5m92r82.jpeg)
-Email credential leaks occur when an individual's email address and password are exposed to unauthorized parties. T
+### [109. Why 85% of People Reuse Passwords Against Expert Advice](https://hackernoon.com/why-85percent-of-people-reuse-passwords-against-expert-advice)
+![](https://cdn.hackernoon.com/images/Pza7Fnbfy7OCXpN7qxXukOmtNnf2-c703b6f.jpeg)
+Traditional password advice is technically correct but practically impossible. Analysis shows 85% reuse passwords due to cognitive overload. 
 
-### [110. Unveiling the Intricacies of Zero-Knowledge Proofs and Their Varied Implementations](https://hackernoon.com/unveiling-the-intricacies-of-zero-knowledge-proofs-and-their-varied-implementations)
-![](https://cdn.hackernoon.com/images/AUjxENwAM1TIF6x3EOCgwb3Vq7s1-rvk2nia.jpeg)
-Zero-knowledge proofs' guardians surround a central lock, symbolizing digital privacy. A visual metaphor for privacy in the digital age.
+### [110. MFA Vs. 2FA: Which Is Better And More Secure](https://hackernoon.com/mfa-vs-2fa-which-is-better-and-more-secure-t5l34bt)
+![](https://hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-nhq34hm.jpeg)
+Your 8-character password with numbers, symbols, lowercase, uppercase, and special letters are not enough to shoo away hackers! What to do then? Find out here.
 
 ### [111. Death, Taxes, and Password Negligence: The Inevitability of Pwned Passwords](https://hackernoon.com/death-taxes-and-password-negligence-the-inevitability-of-pwned-passwords-os1u3t0d)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxMHIwRtVUPbZchWnZj8KL3SuPOG3-f61u3tz4.jpeg?alt=media&token=e893a139-c7af-45a4-856c-50916b3a2682)
 The internet security slang pwned-- pronounced ‘poned’-- is mainly used to indicate administrative control over someone’s computer account or computer. A password that has been pwned is one that has been compromised in some kind of breach, and it means that it’s no longer safe to use. 
 
-### [112. MFA Vs. 2FA: Which Is Better And More Secure](https://hackernoon.com/mfa-vs-2fa-which-is-better-and-more-secure-t5l34bt)
-![](https://hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-nhq34hm.jpeg)
-Your 8-character password with numbers, symbols, lowercase, uppercase, and special letters are not enough to shoo away hackers! What to do then? Find out here.
+### [112. You Should Be Faking Your Security Answers](https://hackernoon.com/you-should-be-faking-your-security-answers)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-6b03bct.jpeg)
+One way to guarantee they won’t know the answers to these questions is if you make them up and save them in your password manager for future reference.
 
 ### [113. How You're Compromising Your Company's Cybersecurity Without Realizing It](https://hackernoon.com/how-youre-compromising-your-companys-cybersecurity-without-realizing-it)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-nn03424.jpeg)
@@ -506,69 +510,69 @@ It is vital to learn how to clearly tell if an email has been spoofed in order t
 ![](https://cdn.hackernoon.com/images/KjSiRteEg2XncAatjT5MwVXZqkp1-4c93p4d.jpeg)
 The article examines three crucial (and simple) ways to protect yourself online, and how to choose an effective service for the job.
 
-### [124. Three Things the Coronavirus Confirmed About Enterprise Security](https://hackernoon.com/three-things-the-coronavirus-confirmed-about-enterprise-security-bx9n32gm)
+### [124. Keeping Hackers at Bay with Password Managers  ](https://hackernoon.com/keeping-hackers-at-bay-with-password-managers)
+![](https://cdn.hackernoon.com/images/CoxvCyMpmLf9vhOHw5DgZ4ezWQj1-8va3tug.jpeg)
+Password managers thwart hackers by securely storing and managing complex passwords, bolstering your online account security
+
+### [125. Three Things the Coronavirus Confirmed About Enterprise Security](https://hackernoon.com/three-things-the-coronavirus-confirmed-about-enterprise-security-bx9n32gm)
 ![](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 With virtually every non-essential business forced to rely on new technology and embrace different ways of working, the coronavirus pandemic has presented organizations with numerous obstacles. While much attention has been paid to how companies can best navigate these challenges, it’s important that we also recognize another truth emerging from our new normal: enterprise security still leaves much to be desired.
-
-### [125. The Most Essential Password Manager Features For 2022](https://hackernoon.com/the-most-essential-password-manager-features-for-2022)
-![](https://cdn.hackernoon.com/images/KjSiRteEg2XncAatjT5MwVXZqkp1-p923awv.jpeg)
-Why We Added A Security Dashboard (And More) To our password manager 
 
 ### [126. Are You Where You Say You Are? - User Verification Based on Typing Patterns](https://hackernoon.com/are-you-where-you-say-you-are-user-verification-based-on-typing-patterns-dl3k3zfj)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2kAZlaRVjHVXG4EijEmap26m5q03-0m5128ne.jpeg?alt=media&token=8a4b2d9b-f477-4dc1-96e4-5e037e6fc9a7)
 Join us down the rabbit hole to a place of suspense, of dastardly motives, of spies perhaps, and of lobbing off of thumbs, or gauging out of eyes.
 
-### [127. Organize and Protect Your Online Data](https://hackernoon.com/organize-and-protect-your-online-data-d5k3zpg)
+### [127. The Most Essential Password Manager Features For 2022](https://hackernoon.com/the-most-essential-password-manager-features-for-2022)
+![](https://cdn.hackernoon.com/images/KjSiRteEg2XncAatjT5MwVXZqkp1-p923awv.jpeg)
+Why We Added A Security Dashboard (And More) To our password manager 
+
+### [128. Organize and Protect Your Online Data](https://hackernoon.com/organize-and-protect-your-online-data-d5k3zpg)
 ![](https://cdn.hackernoon.com/drafts/1b3q3zqa.png)
 Online security is a vitally important consideration in this day and age. From doxxing to ransomware to identity theft, hacking online accounts is one of the most popular ways for the modern criminal makes his living. Keeping your online data organized and secure can take many forms, but it's not really an optional safety measure anymore. You must do all you can to protect your online data. Here are a few options for how to achieve that goal.
 
-### [128. How To Overcome All Challenges And Create A Great Password Manager App](https://hackernoon.com/how-to-overcome-all-challenges-and-create-a-great-password-manager-app-8l1d313l)
+### [129. How To Overcome All Challenges And Create A Great Password Manager App](https://hackernoon.com/how-to-overcome-all-challenges-and-create-a-great-password-manager-app-8l1d313l)
 ![](https://cdn.hackernoon.com/images/KjSiRteEg2XncAatjT5MwVXZqkp1-3cc3eeh.jpeg)
 Creating a new product is never easy. From the moment you come up with a new idea to the moment you actually launch it, months--if not years--can pass. And after your product launches, you need to make sure that you never stop improving it, so you don’t fall behind your competition.  KeepSolid has already brought several products to market, and each of them has had its own successes and challenges. Here’s the story of our journey to launch our latest product, Passwarden.
 
-### [129. Keeping Hackers at Bay with Password Managers  ](https://hackernoon.com/keeping-hackers-at-bay-with-password-managers)
-![](https://cdn.hackernoon.com/images/CoxvCyMpmLf9vhOHw5DgZ4ezWQj1-8va3tug.jpeg)
-Password managers thwart hackers by securely storing and managing complex passwords, bolstering your online account security
-
-### [130. 10 Best Tactics For Your WooCommerce Store Security](https://hackernoon.com/10-best-tactics-for-your-woocommerce-store-security-ei5c357h)
-![](https://cdn.hackernoon.com/images/ftPZRCtvMhXxqOnL3eNGXNTDVHt1-8aq3591.jpeg)
-WooCommerce is a great plugin for WordPress to build an online store. With an entire eCommerce ecosystem and a dedicated global community, it has achieved the reputation of an industry standard. Still, this doesn’t mean that nothing c go wrong, especially if you ignore essential security precautions. Here are ten tips on how to make your business (and your customers’ data) safe.
-
-### [131. Why Cybersecurity Must Start with Company Culture](https://hackernoon.com/why-cybersecurity-must-start-with-company-culture-mc663yw2)
-![](https://cdn.hackernoon.com/images/g6ss37fc.jpg)
-Cyberattacks, though frequently thought of as ‘sophisticated’, are often anything but. They are actually surprisingly straightforward and mostly financially motivated. We often see the media reporting on large-scale cyberattacks that have managed to breach complex security protocols, at a substantial financial cost to the business involved. 
-
-### [132. Do Passwordless Technologies Have an Impact on Cybersecurity?](https://hackernoon.com/do-passwordless-technologies-have-an-impact-on-cybersecurity-mc2p37wv)
-![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-6c1g32gm.jpeg)
-Contrary to popular belief, traditional passwords are not the best way to protect sensitive information on our digital devices.
-
-### [133. You’ve Learned to Break Wi-Fi. Now Learn to Lock It Down.](https://hackernoon.com/youve-learned-to-break-wi-fi-now-learn-to-lock-it-down)
+### [130. You’ve Learned to Break Wi-Fi. Now Learn to Lock It Down.](https://hackernoon.com/youve-learned-to-break-wi-fi-now-learn-to-lock-it-down)
 ![](https://cdn.hackernoon.com/images/na1LA50pIxdXCxwaer7ISkWR5q52-nf03knz.png)
 A practical guide to Wi-Fi hardening using strong passwords, entropy, OpSec and key router safeguards for a safer, more resilient network.
 
-### [134.  Protect Yourself From Data Breaches: Why You Should Use a Password Manager](https://hackernoon.com/protect-yourself-from-data-breaches-why-you-should-use-a-password-manager)
+### [131. 10 Best Tactics For Your WooCommerce Store Security](https://hackernoon.com/10-best-tactics-for-your-woocommerce-store-security-ei5c357h)
+![](https://cdn.hackernoon.com/images/ftPZRCtvMhXxqOnL3eNGXNTDVHt1-8aq3591.jpeg)
+WooCommerce is a great plugin for WordPress to build an online store. With an entire eCommerce ecosystem and a dedicated global community, it has achieved the reputation of an industry standard. Still, this doesn’t mean that nothing c go wrong, especially if you ignore essential security precautions. Here are ten tips on how to make your business (and your customers’ data) safe.
+
+### [132.  Protect Yourself From Data Breaches: Why You Should Use a Password Manager](https://hackernoon.com/protect-yourself-from-data-breaches-why-you-should-use-a-password-manager)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-un03afp.jpeg)
 1Password isn’t for everyone. It costs money and stores your data, in encrypted form, on its servers, which isn’t something everyone is comfortable with.
 
-### [135. These Password Essentials Will Keep Hackers At Bay](https://hackernoon.com/these-password-essentials-will-keep-hackers-at-bay-2em3t7r)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZxnoSjdREnP2qqJZUWg4MluwrBz1-w5152uss.jpeg?alt=media&token=34dcc037-ca8d-42e3-8519-48670baf6dfb)
-One of the common ways hackers target online users is by cracking their passwords. In this article, I will share tips on how to ensure your passwords are secure to keep hackers at bay.
+### [133. Why Cybersecurity Must Start with Company Culture](https://hackernoon.com/why-cybersecurity-must-start-with-company-culture-mc663yw2)
+![](https://cdn.hackernoon.com/images/g6ss37fc.jpg)
+Cyberattacks, though frequently thought of as ‘sophisticated’, are often anything but. They are actually surprisingly straightforward and mostly financially motivated. We often see the media reporting on large-scale cyberattacks that have managed to breach complex security protocols, at a substantial financial cost to the business involved. 
 
-### [136. 54 Stories To Learn About Password Protection](https://hackernoon.com/54-stories-to-learn-about-password-protection)
+### [134. 54 Stories To Learn About Password Protection](https://hackernoon.com/54-stories-to-learn-about-password-protection)
 ![](https://cdn.hackernoon.com/images/github/password-protection-369.png)
 Learn everything you need to know about Password Protection via these 54 free HackerNoon stories.
 
-### [137. Maybe, Just Maybe, Writing Your Passwords On Paper Isn't So Bad?](https://hackernoon.com/maybe-just-maybe-writing-your-passwords-on-paper-isnt-so-bad-mi1s36n8)
+### [135. Do Passwordless Technologies Have an Impact on Cybersecurity?](https://hackernoon.com/do-passwordless-technologies-have-an-impact-on-cybersecurity-mc2p37wv)
+![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-6c1g32gm.jpeg)
+Contrary to popular belief, traditional passwords are not the best way to protect sensitive information on our digital devices.
+
+### [136. Poor Management of Secrets Could Cost You Millions](https://hackernoon.com/poor-management-of-secrets-could-cost-you-millions)
+![](https://cdn.hackernoon.com/images/zNKRSl7CH3clGgtLVt9YUfnUFzA2-d5333i4.jpeg)
+This article raises awareness of mistakes made by developers when handling secrets.
+
+### [137. These Password Essentials Will Keep Hackers At Bay](https://hackernoon.com/these-password-essentials-will-keep-hackers-at-bay-2em3t7r)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZxnoSjdREnP2qqJZUWg4MluwrBz1-w5152uss.jpeg?alt=media&token=34dcc037-ca8d-42e3-8519-48670baf6dfb)
+One of the common ways hackers target online users is by cracking their passwords. In this article, I will share tips on how to ensure your passwords are secure to keep hackers at bay.
+
+### [138. Maybe, Just Maybe, Writing Your Passwords On Paper Isn't So Bad?](https://hackernoon.com/maybe-just-maybe-writing-your-passwords-on-paper-isnt-so-bad-mi1s36n8)
 ![](https://cdn.hackernoon.com/drafts/zl3zc36zh.png)
 This is not a joke. Stationery stores and selling pocket notebooks with the word "PASSWORDS" written across the front. Inside are pages, with alphabetized tabs and spaces for you to record the website name, the username (login), and your password. Plus a space for notes.
 
-### [138. How Password Managers Can Protect You From Phishing](https://hackernoon.com/how-password-managers-can-protect-you-from-phishing-fi253yfb)
+### [139. How Password Managers Can Protect You From Phishing](https://hackernoon.com/how-password-managers-can-protect-you-from-phishing-fi253yfb)
 ![](https://cdn.hackernoon.com/drafts/km5k36bj.png)
 Password managers are a convenient way to use strong, unique passwords everywhere. Another good thing about password managers is that they help protect you from malicious websites that attempt to "phish" passwords.
-
-### [139. Poor Management of Secrets Could Cost You Millions](https://hackernoon.com/poor-management-of-secrets-could-cost-you-millions)
-![](https://cdn.hackernoon.com/images/zNKRSl7CH3clGgtLVt9YUfnUFzA2-d5333i4.jpeg)
-This article raises awareness of mistakes made by developers when handling secrets.
 
 ### [140. Public Computers Safety Tips: Interview with Cybersecurity Expert Ravi Bahethi](https://hackernoon.com/public-computers-safety-tips-interview-with-cybersecurity-expert-ravi-bahethi-gha1363e)
 ![](https://cdn.hackernoon.com/drafts/4r4t36vq.png)
@@ -598,13 +602,13 @@ Two Factor Authentication or Two Factor Verification is a service used to confir
 ![](https://cdn.hackernoon.com/images/Q7Ilpvu5bRN22EpJho9JEiSRxSo2-qu2t34a9.jpeg)
 The industry is just getting started with IoT design and deployment. Now is a good time to think about how CIAM fits with other security services you require.
 
-### [147. The Noonification: Tesla In, Twitter Out 🐤 (5/17/2023)](https://hackernoon.com/5-17-2023-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-5/17/2023: Top 5 stories on the Hackernoon homepage!
-
-### [148. Effects a Data Breach Can Have on Your Business in the Long Term](https://hackernoon.com/effects-a-data-breach-can-have-on-your-business-in-the-long-term-au6n3ytt)
+### [147. Effects a Data Breach Can Have on Your Business in the Long Term](https://hackernoon.com/effects-a-data-breach-can-have-on-your-business-in-the-long-term-au6n3ytt)
 ![](https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 In today’s cybersecurity landscape, businesses are increasingly becoming victims of data breaches. Worldwide spending on cybersecurity is estimated to reach a whopping $133.7 billion by 2022 and it’s not a surprise that businesses are more focused on building a better security culture.
+
+### [148. The Noonification: Tesla In, Twitter Out 🐤 (5/17/2023)](https://hackernoon.com/5-17-2023-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+5/17/2023: Top 5 stories on the Hackernoon homepage!
 
 ### [149. Need for an Identity Theft Protection](https://hackernoon.com/need-for-an-identity-theft-protection-5v1r3yn6)
 ![](https://cdn.hackernoon.com/drafts/mi533ycl.png)

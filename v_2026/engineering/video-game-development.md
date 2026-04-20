@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [video-game-development](https://hackernoon.com/tagged/video-game-development)
+### Let's learn about [Video Game Development](https://hackernoon.com/tagged/video-game-development) via these 103 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Video game development is the art and science of creating video games. It matters as it drives innovation in graphics, interactive storytelling, and human-computer interaction, fueling a massive global entertainment industry.
+
 ### [1. Build a Game Engine from Scratch in C++](https://hackernoon.com/build-a-game-engine-from-scratch-in-c)
 ![](https://cdn.hackernoon.com/images/nZpaJeLTrKVCL2NONopZb20IUZS2-jba3qan.jpeg)
 So you want to learn more about game engines and write one yourself? That's awesome! To help you on your journey, here are some recommendations of C++ libraries
@@ -130,17 +134,17 @@ There are a lot of reasons to learn to code with games. Games are fun. Unlike to
 ![](https://cdn.hackernoon.com/images/the-developer-tries-to-add-an-asset-to-code-as-a-block-component-n38awa16rwbnkyfrh05kl6r1.png)
 10 useful assets and third-party kits for Unity developers of any level that help developers to simplify the work process
 
-### [33. Adapting to AI: Insights from a Project Manager in Game Development](https://hackernoon.com/adapting-to-ai-insights-from-a-project-manager-in-game-development)
+### [33. An Introduction to LÖVE the 2D Game Engine](https://hackernoon.com/an-introduction-to-love-the-2d-game-engine)
+![](https://cdn.hackernoon.com/images/5ZmiyWebQcgzkkVANit1176aFLP2-s693pra.jpeg)
+If you are looking into starting with LÖVE, this guide compiles a lot of information that will help you to get started and save you hours of research.
+
+### [34. Adapting to AI: Insights from a Project Manager in Game Development](https://hackernoon.com/adapting-to-ai-insights-from-a-project-manager-in-game-development)
 ![](https://cdn.hackernoon.com/images/2DzCEJB5j3XSvYW7aWWxadAKsTp2-ry02zht.jpeg)
 I became a project manager in a game company in 2021 and witnessed how production processes evolved in parallel with the rapid emergence of new AI tools.
 
-### [34. Video Game Development is not a Game [Mythbusting]](https://hackernoon.com/the-misconceptions-about-game-development-d9q3zn5)
+### [35. Video Game Development is not a Game [Mythbusting]](https://hackernoon.com/the-misconceptions-about-game-development-d9q3zn5)
 ![](drafts/3a1o3zef.png)
 Video Games have slithered into the modern culture without anyone really noticing, to be honest. Once they were considered as revolutionary pieces of software, and nowadays they have become such a common sight that people still believe they’re as easy to develop as Pac Man was at the time.
-
-### [35. An Introduction to LÖVE the 2D Game Engine](https://hackernoon.com/an-introduction-to-love-the-2d-game-engine)
-![](https://cdn.hackernoon.com/images/5ZmiyWebQcgzkkVANit1176aFLP2-s693pra.jpeg)
-If you are looking into starting with LÖVE, this guide compiles a lot of information that will help you to get started and save you hours of research.
 
 ### [36. How to Become an Indie Game Developer: Tips from Insular Games](https://hackernoon.com/how-to-become-an-indie-game-developer-tips-from-insular-games-en6q3txn)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxlZmCc7RrnX4xMHIPzMN1CmcETi1-d863tkz.jpeg?alt=media&token=7d05aaa5-abfc-490d-81c9-82b27795d14f)
@@ -150,21 +154,21 @@ Hello Hacker Noon Community!
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-1l93oti.jpeg)
 In this Slogging thread, our community discussed Netflix's move and how that'll impact the gaming industry. 
 
-### [38. Godot 4.4 dev 4: Interactive In-Game Editing, Plus Much More!](https://hackernoon.com/godot-44-dev-4-interactive-in-game-editing-plus-much-more)
+### [38. 40 Of The Top 100 Mobile Games Have Launched Their Web Shop Using Xsolla](https://hackernoon.com/40-of-the-top-100-mobile-games-have-launched-their-web-shop-using-xsolla)
+![](https://cdn.hackernoon.com/images/mobile-game-store-yzolnyvi2cclqy22rxfmqko6.png)
+Xsolla, a global video game commerce company, shares insights that 40 of the top 100 mobile games have launched their Web Shop using Xsolla's solution.
+
+### [39. Godot 4.4 dev 4: Interactive In-Game Editing, Plus Much More!](https://hackernoon.com/godot-44-dev-4-interactive-in-game-editing-plus-much-more)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ty03bpz.jpeg)
 Many of the changes in this release are bug fixes that will be backported to Godot 4.3.1!
 
-### [39. What Are Roguelites? A Deep Dive](https://hackernoon.com/what-are-roguelites-a-deep-dive)
+### [40. What Are Roguelites? A Deep Dive](https://hackernoon.com/what-are-roguelites-a-deep-dive)
 ![](https://cdn.hackernoon.com/images/AA0S3G9weRM3biUfJZ9ilO0mpDx1-m2f36w8.jpeg)
 Learn why roguelites are the fastest growing game genre
 
-### [40. BattleTabs Proves the Potential of Browser-Based Games](https://hackernoon.com/battletabs-proves-the-potential-of-browser-based-games)
+### [41. BattleTabs Proves the Potential of Browser-Based Games](https://hackernoon.com/battletabs-proves-the-potential-of-browser-based-games)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-hf038ub.jpeg)
 BattleTabs is a video game that started as a Chrome plugin, which shows the potential of browser-based games in today's market.
-
-### [41. 40 Of The Top 100 Mobile Games Have Launched Their Web Shop Using Xsolla](https://hackernoon.com/40-of-the-top-100-mobile-games-have-launched-their-web-shop-using-xsolla)
-![](https://cdn.hackernoon.com/images/mobile-game-store-yzolnyvi2cclqy22rxfmqko6.png)
-Xsolla, a global video game commerce company, shares insights that 40 of the top 100 mobile games have launched their Web Shop using Xsolla's solution.
 
 ### [42. 72 Stories To Learn About Video Game Development](https://hackernoon.com/72-stories-to-learn-about-video-game-development)
 ![](https://cdn.hackernoon.com/images/github/video-game-development-295.png)
@@ -186,17 +190,17 @@ Blockchain technology is actively being introduced into the video game market wi
 ![](https://cdn.hackernoon.com/images/QL9DyBlq8KSasvotrjiBlCBkxLx2-pe8337q.jpeg)
 As the video game industry evolves, players anticipate engaging with their favorite titles seamlessly across all platforms, form factors, and control methods.
 
-### [47. How to Enhance Your Game Project Using the ObjectPool Pattern (A Unity Guide)](https://hackernoon.com/how-to-enhance-your-game-project-using-the-objectpool-pattern-a-unity-guide)
+### [47. Battle Passes: A Boon or a Bumble?](https://hackernoon.com/battle-passes-a-boon-or-a-bumble)
+![](https://cdn.hackernoon.com/images/ERNPpaKVK4Q3gM1MG2JdydY6Z4K2-yb93lw4.jpeg)
+Battle passes have spread across the online gaming industry like wildfire for the past five years. But is the concept another flavor of corporate greed?
+
+### [48. How to Enhance Your Game Project Using the ObjectPool Pattern (A Unity Guide)](https://hackernoon.com/how-to-enhance-your-game-project-using-the-objectpool-pattern-a-unity-guide)
 ![](https://cdn.hackernoon.com/images/ufIIdiv3ouTBjUdskdPLKpulhej1-3ki31g4.jpeg)
 The Object Pool pattern usage for optimizing game projects. Guide for Unity Developers
 
-### [48. Becoming a Game Designer is More Attainable Than You Think](https://hackernoon.com/becoming-a-game-designer-is-more-attainable-than-you-think)
+### [49. Becoming a Game Designer is More Attainable Than You Think](https://hackernoon.com/becoming-a-game-designer-is-more-attainable-than-you-think)
 ![](https://cdn.hackernoon.com/images/ZFjrjKyru3ZAtV6LHrpdLvoZTLv2-cm137pi.jpeg)
 The School of Game Design: Lifetime Membership - $49 - is on sale for just $49 for a limited time.
-
-### [49. Battle Passes: A Boon or a Bumble?](https://hackernoon.com/battle-passes-a-boon-or-a-bumble)
-![](https://cdn.hackernoon.com/images/ERNPpaKVK4Q3gM1MG2JdydY6Z4K2-yb93lw4.jpeg)
-Battle passes have spread across the online gaming industry like wildfire for the past five years. But is the concept another flavor of corporate greed?
 
 ### [50. Getting Started With Game Development](https://hackernoon.com/getting-started-with-game-development)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-tc93oiv.jpeg)
@@ -234,13 +238,13 @@ Nicole Nguyen is the co-founder of Duelist King, the first NFT game powered by D
 ![](https://cdn.hackernoon.com/images/4DEZ3I9NeEYl1VAoqXMD2HiUESS2-q2fi335c.jpeg)
 These are tried and tested techniques from game designers to generate a fantastic game ideas.
 
-### [59. Advantages of AI in Gaming: How We're Creating Smarter Competition](https://hackernoon.com/advantages-of-ai-in-gaming-how-were-creating-smarter-competition)
-![](https://cdn.hackernoon.com/images/4Gum8Dod89bhd5H904iNVRVVmAi1-sd436lk.jpeg)
-Why artificial intelligence is being introduced into competitive and cooperative games today, and how the development teams of such games use AI. 
-
-### [60. 223 Stories To Learn About Game Development](https://hackernoon.com/223-stories-to-learn-about-game-development)
+### [59. 223 Stories To Learn About Game Development](https://hackernoon.com/223-stories-to-learn-about-game-development)
 ![](https://cdn.hackernoon.com/images/github/game-development-539.png)
 Learn everything you need to know about Game Development via these 223 free HackerNoon stories.
+
+### [60. Advantages of AI in Gaming: How We're Creating Smarter Competition](https://hackernoon.com/advantages-of-ai-in-gaming-how-were-creating-smarter-competition)
+![](https://cdn.hackernoon.com/images/4Gum8Dod89bhd5H904iNVRVVmAi1-sd436lk.jpeg)
+Why artificial intelligence is being introduced into competitive and cooperative games today, and how the development teams of such games use AI. 
 
 ### [61. Oculus Quest 2 "Accidentally" Leaked by Facebook](https://hackernoon.com/oculus-quest-2-accidentally-leaked-by-facebook-536g3ukf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-ls5c3upo.jpeg?alt=media&token=469e086f-55b3-411b-88a4-2ea83dded07d)
@@ -278,13 +282,13 @@ Kojima and company sell you big ideas on the back of small, inconsequential deta
 ![](https://cdn.hackernoon.com/images/E94jeG4kuxf5Akvr1TBep1bZVSg1-egbo37kj.png)
 Gaming continues to grow past pandemic lockdown according to NewZoo report. 
 
-### [70. Demographics of the Gaming Industry: Reading Between the Lines](https://hackernoon.com/demographics-of-the-gaming-industry-reading-between-the-lines-662s33ur)
-![](https://cdn.hackernoon.com/images/HPKTXpNUNMbhwUaRX9c7sxUvnau1-ig4y32q8.jpeg)
-An overview of recent developments in the gaming industry and what they mean for publishers and developers.
-
-### [71. Meet Modelsend—The Company That’s Democratizing 3D Model Feedback](https://hackernoon.com/meet-modelsendthe-company-thats-democratizing-3d-model-feedback)
+### [70. Meet Modelsend—The Company That’s Democratizing 3D Model Feedback](https://hackernoon.com/meet-modelsendthe-company-thats-democratizing-3d-model-feedback)
 ![](https://cdn.hackernoon.com/images/dAQmpJgHB3YxhizsfyWI57pGtZ52-hd93xkr.jpeg)
 Modelsend - Meet The Company That's Democratizing 3D Model Feedback
+
+### [71. Demographics of the Gaming Industry: Reading Between the Lines](https://hackernoon.com/demographics-of-the-gaming-industry-reading-between-the-lines-662s33ur)
+![](https://cdn.hackernoon.com/images/HPKTXpNUNMbhwUaRX9c7sxUvnau1-ig4y32q8.jpeg)
+An overview of recent developments in the gaming industry and what they mean for publishers and developers.
 
 ### [72. Meet Decimated, the Noonies 2022 Winner of Blockchain Game Developer of the Year ](https://hackernoon.com/meet-decimated-the-noonies-2022-winner-of-blockchain-game-developer-of-the-year)
 ![](https://cdn.hackernoon.com/images/ca2XwRFT3uOlR2NRaY6ce3MN26W2-f693s11.jpeg)
@@ -306,29 +310,29 @@ I love Worms. Therefore, I love Team17. But a CEO launching surprise NFTs while 
 ![](https://cdn.hackernoon.com/images/HPKTXpNUNMbhwUaRX9c7sxUvnau1-8k1933pc.jpeg)
 The key steps of the game development process, how each of them functions, and what roles and operations they consist of. 
 
-### [77. VR Math: The Difficulties of Moving Objects in Virtual Reality](https://hackernoon.com/vr-math-the-difficulties-of-moving-objects-in-virtual-reality-3h4834j1)
-![](https://cdn.hackernoon.com/images/IbqvYOzZg0OxVD2PD3FHCsXU7Qb2-cp3d31t2.jpeg)
-Applied game dev math can be tricky, but is really rewarding. Here’s a follow-up to Nevyn’s Twitter thread on his journey from incomprehensible mess to enlightened one-liner. 
-
-### [78. What Can You Do to Make Reddit Aware of Your Game? A Real Experience](https://hackernoon.com/what-can-you-do-to-make-reddit-aware-of-your-game-a-real-experience)
-![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-btp3fju.jpeg)
-In this article, you will find how to promote your game on Reddit, how to get karma, and what subreddits you can use for this. All you need is this article.
-
-### [79. Why are Games About Mundane Tasks so Much Fun?](https://hackernoon.com/why-are-games-about-mundane-tasks-so-much-fun)
+### [77. Why are Games About Mundane Tasks so Much Fun?](https://hackernoon.com/why-are-games-about-mundane-tasks-so-much-fun)
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-g0d3hhg.jpeg)
 In this slogging thread, our community discusses why mundane tasks in games are so fun.
 
-### [80. Recognized and Accepted: The Inevitable Rise of the Gaming World](https://hackernoon.com/recognized-and-accepted-the-inevitable-rise-of-gaming-world)
+### [78. Recognized and Accepted: The Inevitable Rise of the Gaming World](https://hackernoon.com/recognized-and-accepted-the-inevitable-rise-of-gaming-world)
 ![](https://cdn.hackernoon.com/images/AmUaywGH0WNIW3Knrlaq5Jc4tvW2-yo93ojp.jpeg)
 Gaming fosters the mindset that allows creativity to grow. Now that gaming has been slowly recognized, will it continue to rise against all odds?
 
-### [81. EA to Reveal New Game for 'Established' IP Next Month, Possible Dead Space Revival](https://hackernoon.com/ea-to-reveal-new-game-for-established-ip-next-month-possible-dead-space-revival-m7193776)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-6xet354x.jpeg)
-Is Dead Space finally going to make a return? New evidence appears to indicate that EA is about to announce a revival of the dormant game series at EA Play.
+### [79. What Can You Do to Make Reddit Aware of Your Game? A Real Experience](https://hackernoon.com/what-can-you-do-to-make-reddit-aware-of-your-game-a-real-experience)
+![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-btp3fju.jpeg)
+In this article, you will find how to promote your game on Reddit, how to get karma, and what subreddits you can use for this. All you need is this article.
 
-### [82. 51 Stories To Learn About Gamedev](https://hackernoon.com/51-stories-to-learn-about-gamedev)
+### [80. VR Math: The Difficulties of Moving Objects in Virtual Reality](https://hackernoon.com/vr-math-the-difficulties-of-moving-objects-in-virtual-reality-3h4834j1)
+![](https://cdn.hackernoon.com/images/IbqvYOzZg0OxVD2PD3FHCsXU7Qb2-cp3d31t2.jpeg)
+Applied game dev math can be tricky, but is really rewarding. Here’s a follow-up to Nevyn’s Twitter thread on his journey from incomprehensible mess to enlightened one-liner. 
+
+### [81. 51 Stories To Learn About Gamedev](https://hackernoon.com/51-stories-to-learn-about-gamedev)
 ![](https://cdn.hackernoon.com/images/github/gamedev-661.png)
 Learn everything you need to know about Gamedev via these 51 free HackerNoon stories.
+
+### [82. EA to Reveal New Game for 'Established' IP Next Month, Possible Dead Space Revival](https://hackernoon.com/ea-to-reveal-new-game-for-established-ip-next-month-possible-dead-space-revival-m7193776)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-6xet354x.jpeg)
+Is Dead Space finally going to make a return? New evidence appears to indicate that EA is about to announce a revival of the dormant game series at EA Play.
 
 ### [83. 5 Super Heroes Who Need their Own Game](https://hackernoon.com/5-super-heroes-who-need-their-own-game)
 ![](https://cdn.hackernoon.com/images/oGvZV41S6kMsCGz7SnKY5YdLQLy1-yt035x3.jpeg)
@@ -350,14 +354,14 @@ Unity's pricing changes rock game development! How will this affect smaller devs
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-bw93rrq.jpeg)
 On July 19, Other Ocean Interactive announced the development of The Walking Dead: Betrayal, a new social deduction game in partnership with Skybound Games. 
 
-### [88. The 'Cult' Of Kojima](https://hackernoon.com/the-cult-of-kojima-5t3l34b4)
+### [88. First Impressions of Pokémon Legends: Arceus](https://hackernoon.com/first-impressions-of-pokemon-legends-arceus)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-9ia3jdl.jpeg)
+This Slogging thread by Limarc Ambalina, Jack Boreham, SuperSaiyanProgramming, Blake Cram, Adrian Morales and Sara Pinto occurred in slogging's official #gaming channel, and has been edited for readability.
+
+### [89. The 'Cult' Of Kojima](https://hackernoon.com/the-cult-of-kojima-5t3l34b4)
 ![](https://cdn.hackernoon.com/images/JOIJNtEhpcU76iugD6krqeO8NVn2-n4pi3146.jpeg)
 Can one man have so much love and hatred at the same time?
 If Your Hideo Kojima, it's par for the course.
-
-### [89. First Impressions of Pokémon Legends: Arceus](https://hackernoon.com/first-impressions-of-pokemon-legends-arceus)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-9ia3jdl.jpeg)
-This Slogging thread by Limarc Ambalina, Jack Boreham, SuperSaiyanProgramming, Blake Cram, Adrian Morales and Sara Pinto occurred in slogging's official #gaming channel, and has been edited for readability.
 
 ### [90. E3 Returning as Online Only Digital Event in 2021](https://hackernoon.com/e3-returning-as-online-only-digital-event-in-2021-1ir33vr)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-6i11333n.jpeg)
@@ -367,11 +371,7 @@ The Electronic Entertainment Expo has confirmed a June 2021 return for the confe
 ![](https://hackernoon.com/images/UtjrvB2emJYjJAxepCqM2jtlOS23-aq3u2bmc.jpeg)
 Today I learned more on how to build a community through communication and so can you. This is a condensed view of my experience at the Steamworks Virtual Con.
 
-### [92. Launching a New Play-to-Earn Game Studio](https://hackernoon.com/launching-a-new-play-to-earn-game-studio)
-![](https://cdn.hackernoon.com/images/Ah2jLzMePieEW0CzYzRXo6GsVyA3-7w13b94.jpeg)
-We're really excited to break cover and launch a new video game studio dedicated to developing large play-to-earn worlds.
-
-### [93. The Over-justification Effect of Games as a Service](https://hackernoon.com/the-over-justification-effect-of-games-as-a-service-dk6f3tst)
+### [92. The Over-justification Effect of Games as a Service](https://hackernoon.com/the-over-justification-effect-of-games-as-a-service-dk6f3tst)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0DlMo8ZsLxUyudSZ9ZxKpsiauvl1-tj323w4u.jpeg?alt=media&token=107cc2eb-f1ba-476a-850a-aab99b3fecb0)
 A goal that you set yourself is more powerful than a goal that is set for you.
 
@@ -379,21 +379,25 @@ Over this current and passing generation of gaming consoles, we've witnessed the
 
 To quote a good friend - the "ecosystem" has become the dirtiest word in the industry, with developers and publishers alike looking for ways to keep players engaged long-term. What started with the odd PC only expansion model in the 90's, blossomed into DLC, Season Passes and now Games as a Service. A system that consists of some sort of persistent online world, a gameplay loop designed to be engaging (usually) with constant daily events, new loot and bigger content drops that add new wrinkles every so often. All with the intent of keeping players engaged for years.
 
-### [94. 'Seed' by Klang Games: Part 1 of The Game AI Series ](https://hackernoon.com/seed-by-klang-games-part-1-of-the-game-ai-series-607035f5)
+### [93. 'Seed' by Klang Games: Part 1 of The Game AI Series ](https://hackernoon.com/seed-by-klang-games-part-1-of-the-game-ai-series-607035f5)
 ![](https://cdn.hackernoon.com/images/WzZilRnIjcgdCcFf6qQWW3k9cyp2-3g98337i.jpeg)
 I spoke to their excellent game AI engineer Alessia Nigretti to get some insights into the team’s development process and the technology unpinning the game.
+
+### [94. 6 Reasons to Utilize Sandbox Technology in Game Development](https://hackernoon.com/6-reasons-to-utilize-sandbox-technology-in-game-development)
+![](https://cdn.hackernoon.com/images/JTaCO9hIyogzTC7whM9lzl5Gwlx1-ij0366h.jpeg)
+Running a successful online application is an exciting journey, But it is also full of challenges. It starts from product-market fit (PMF)
 
 ### [95. Nostalgia for Nerds: What is your favorite game system of all time?](https://hackernoon.com/nostalgia-for-nerds-what-is-your-favorite-game-system-of-all-time-r83d332j)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-wj243391.jpeg)
 My favourite game console of all time is the Nintendo DS, such a versatile machine with tons of games.
 
-### [96. 6 Reasons to Utilize Sandbox Technology in Game Development](https://hackernoon.com/6-reasons-to-utilize-sandbox-technology-in-game-development)
-![](https://cdn.hackernoon.com/images/JTaCO9hIyogzTC7whM9lzl5Gwlx1-ij0366h.jpeg)
-Running a successful online application is an exciting journey, But it is also full of challenges. It starts from product-market fit (PMF)
-
-### [97. Fall Guys' Free Fall: Is Mediatonic Resuscitating a 'Dead' Game?](https://hackernoon.com/fall-guys-free-fall-is-mediatonic-resuscitating-a-dead-game)
+### [96. Fall Guys' Free Fall: Is Mediatonic Resuscitating a 'Dead' Game?](https://hackernoon.com/fall-guys-free-fall-is-mediatonic-resuscitating-a-dead-game)
 ![](https://cdn.hackernoon.com/images/bWf7Y9sKoce7uN7b8MgFPMs2uXm1-1oa3jku.jpeg)
 Back in 2020, the highly competitive battle royales space was swamped with path-breaking games like Fortnite and Call of Duty: Warzone. These games cornered the majority of the market size and were really intense. Amidst all this, Fall Guys made its debut in the market as a game with a comic show setting.
+
+### [97. Using Unity's Networking Features to Prevent and Manage Trolling in Multiplayer Games](https://hackernoon.com/using-unitys-networking-features-to-prevent-and-manage-trolling-in-multiplayer-games)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-fu93xeq.jpeg)
+If you've ever been part of or created a multiplayer game, you probably know all too well the frustrating and disruptive impact of trolling behavior.
 
 ### [98. Far Cry 6’s Gameplay Doesn’t Need to Change, but Ubisoft Does](https://hackernoon.com/far-cry-6s-gameplay-doesnt-need-to-change-but-ubisoft-does)
 ![](https://cdn.hackernoon.com/images/oGvZV41S6kMsCGz7SnKY5YdLQLy1-120372v.jpeg)
@@ -403,23 +407,19 @@ Far Cry doesn't need to change its core gameplay, but Ubisoft does need to chang
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FII3qMjBh73e72VJHWbdJcXCMgvs1-4mj3w3a.png?alt=media&token=b096d5df-5086-4c91-9859-72745b3793db)
 It's simple, really: ff you want to become a good game developer, you need to make lots of games. Let’s first start with why you need to be productive: the more games you make the better and faster you become at making games. Every new game you make is a new addition to your portfolio. Publish your games on different portals to see what the players think about your game, see what works, and what kind of ideas don’t.
 
-### [100. Using Unity's Networking Features to Prevent and Manage Trolling in Multiplayer Games](https://hackernoon.com/using-unitys-networking-features-to-prevent-and-manage-trolling-in-multiplayer-games)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-fu93xeq.jpeg)
-If you've ever been part of or created a multiplayer game, you probably know all too well the frustrating and disruptive impact of trolling behavior.
+### [100. Resident Evil Re:Verse Pushed Back to Summer 2021](https://hackernoon.com/resident-evil-reverse-pushed-back-to-summer-2021-io2b343c)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-22ar34pm.jpeg)
+Resident Evil Re:Verse has been quietly delayed by Capcom. Instead of launching along with Resident Evil Village in May, it's release window has been to summer.
 
 ### [101. Justify Your Game Price Increase, Don't Just Raise It](https://hackernoon.com/justify-your-game-price-increase-dont-just-raise-it)
 ![](https://cdn.hackernoon.com/images/oGvZV41S6kMsCGz7SnKY5YdLQLy1-jld350h.jpeg)
 Games are increasing price, but they haven't been in value.
 
-### [102. Resident Evil Re:Verse Pushed Back to Summer 2021](https://hackernoon.com/resident-evil-reverse-pushed-back-to-summer-2021-io2b343c)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-22ar34pm.jpeg)
-Resident Evil Re:Verse has been quietly delayed by Capcom. Instead of launching along with Resident Evil Village in May, it's release window has been to summer.
-
-### [103. E3 Reveals Broadcast Distribution Partners for 2021 Online-Only Event](https://hackernoon.com/e3-reveals-broadcast-distribution-partners-for-2021-online-only-event-nm1k341f)
+### [102. E3 Reveals Broadcast Distribution Partners for 2021 Online-Only Event](https://hackernoon.com/e3-reveals-broadcast-distribution-partners-for-2021-online-only-event-nm1k341f)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-ykaa34st.jpeg)
 E3 has confirmed the broadcast and streaming partners for the 2021 convention, including Twitch, YouTube, Facebook, and more for this year's all-digital show.
 
-### [104. Anthem: BioWare Ceasing Development on Game Restructuring aka Anthem NEXT](https://hackernoon.com/anthem-bioware-ceasing-development-on-game-restructuring-aka-anthem-next-qr2o33xp)
+### [103. Anthem: BioWare Ceasing Development on Game Restructuring aka Anthem NEXT](https://hackernoon.com/anthem-bioware-ceasing-development-on-game-restructuring-aka-anthem-next-qr2o33xp)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-0g1z3377.jpeg)
 In an official blog post, BioWare has announced that the studio is officially ending all development on Anthem and a planned relaunch, Anthem Next.
 

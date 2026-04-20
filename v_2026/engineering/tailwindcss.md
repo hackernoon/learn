@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [tailwindcss](https://hackernoon.com/tagged/tailwindcss)
+### Let's learn about [Tailwindcss](https://hackernoon.com/tagged/tailwindcss) via these 50 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Tailwind CSS is a utility-first CSS framework that provides low-level utility classes to build custom designs directly in your markup, accelerating UI development without writing custom CSS. It matters by boosting development speed and consistency, allowing developers to quickly create unique and responsive user interfaces.
+
 ### [1. How to Centre an Element in CSS with Tailwind](https://hackernoon.com/how-to-centre-an-element-in-css-with-tailwind)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-9n93pxk.jpeg)
 In this guide, we'll be covering how you can vertically and horizontally center an element or text with tailwind.
@@ -81,33 +85,33 @@ This Amazon Clone features a wide range of technologies and functionalities, inc
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ky93oa4.jpeg)
 Buttons are the most basic element we love to neglect, but buttons don't have to be boring. Here are 7 spicy button designs using Tailwind CSS. 
 
-### [21. My New Junior Developer Kinda Sucks](https://hackernoon.com/my-new-junior-developer-kinda-sucks)
-![](https://cdn.hackernoon.com/images/oUS9HxHnMOackh1UhEDoXjMokWv1-8w92ed5.png)
-ChatGPT is all the rage these days. Is it really that good for developers though?
-
-### [22. React Context API login example using FaceIO for face authentication.](https://hackernoon.com/react-context-api-login-example-using-faceio-for-face-authentication)
+### [21. React Context API login example using FaceIO for face authentication.](https://hackernoon.com/react-context-api-login-example-using-faceio-for-face-authentication)
 ![](https://cdn.hackernoon.com/images/htVjKcTLFYes7Isse0vYEolH3GF2-v292q0a.jpeg)
 React.js, typescript tutorial showing how to add facial recognition to a website using FaceIO.
 
-### [23. Design Once, Reuse Everywhere — How I Built a Custom Shadcn UI Registry with Next.js and Vercel](https://hackernoon.com/design-once-reuse-everywhere-how-i-built-a-custom-shadcn-ui-registry-with-nextjs-and-vercel)
-![](https://cdn.hackernoon.com/images/vPAtR2l9msRL9X25DuyW2iGFfQv2-8r03bgl.png)
-Build and deploy a public shadcn/ui registry on Next.js & Vercel—covering setup, registry.json, cssVars, deps, and quick CLI install.
+### [22. My New Junior Developer Kinda Sucks](https://hackernoon.com/my-new-junior-developer-kinda-sucks)
+![](https://cdn.hackernoon.com/images/oUS9HxHnMOackh1UhEDoXjMokWv1-8w92ed5.png)
+ChatGPT is all the rage these days. Is it really that good for developers though?
 
-### [24. Sveltekit and Appwrite Cloud: How to build a list app](https://hackernoon.com/sveltekit-and-appwrite-cloud-how-to-build-a-list-app)
+### [23. Sveltekit and Appwrite Cloud: How to build a list app](https://hackernoon.com/sveltekit-and-appwrite-cloud-how-to-build-a-list-app)
 ![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-p493ko6.jpeg)
 Learn how to use Appwrite’s API and Svelte to create a list app with features like task creation and deletion and storing the data in Appwrite Cloud.
 
-### [25. 10 Reasons To Use TailwindCSS In Your Next Project](https://hackernoon.com/10-reasons-to-use-tailwindcss-in-your-next-project)
+### [24. 10 Reasons To Use TailwindCSS In Your Next Project](https://hackernoon.com/10-reasons-to-use-tailwindcss-in-your-next-project)
 ![](https://cdn.hackernoon.com/images/FpKROxxtLBRmSsCCb4lxCS7LBVr2-sz037s0.jpeg)
 Tailwind as a framework is designed for optimum performance and fewer style clashes. Learn 10 reasons to choose Tailwind CSS for your next project.
 
-### [26. Top 3 React UI Component & Asset Libraries in 2021 ](https://hackernoon.com/top-3-react-ui-component-and-asset-libraries-in-2021-il2o330f)
+### [25. Top 3 React UI Component & Asset Libraries in 2021 ](https://hackernoon.com/top-3-react-ui-component-and-asset-libraries-in-2021-il2o330f)
 ![](https://cdn.hackernoon.com/images/CKm5QWycYDYVoSD7SPg8hYqgO7p1-aq8a3778.png)
 I’m going to condense down years of trial and error and give you my top three React libraries to help you make beautiful websites and apps.
 
-### [27. How to Build a Github User Finder App With Next.js & Tailwind CSS](https://hackernoon.com/how-to-build-a-github-user-finder-app-with-nextjs-and-tailwind-css)
+### [26. How to Build a Github User Finder App With Next.js & Tailwind CSS](https://hackernoon.com/how-to-build-a-github-user-finder-app-with-nextjs-and-tailwind-css)
 ![](https://cdn.hackernoon.com/images/Y0kXG115Z7VorP4rguIGxwn3FoD3-gh93mx7.jpeg)
 In this project, we are going to build GitHub user Search App using Github API. We will design the UI of the app using Tailwind CSS with Next.js as a framework.
+
+### [27. Design Once, Reuse Everywhere — How I Built a Custom Shadcn UI Registry with Next.js and Vercel](https://hackernoon.com/design-once-reuse-everywhere-how-i-built-a-custom-shadcn-ui-registry-with-nextjs-and-vercel)
+![](https://cdn.hackernoon.com/images/vPAtR2l9msRL9X25DuyW2iGFfQv2-8r03bgl.png)
+Build and deploy a public shadcn/ui registry on Next.js & Vercel—covering setup, registry.json, cssVars, deps, and quick CLI install.
 
 ### [28. Tail-kit Introduction: 200+ Free Tailwind CSS Components And Templates](https://hackernoon.com/tail-kit-introduction-200-free-tailwind-css-components-and-templates-d7v31v2)
 ![](https://cdn.hackernoon.com/images/I6baOfMDJPVeudwIwtHwkMpYTdz2-qj2m3625.jpeg)
@@ -125,13 +129,13 @@ This article teaches you how to build a generative AI application that generates
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-1g93gzx.jpeg)
 In this post, I introduce TwNFT, an application that lets you mint your tweets as NFTs easily and for free and explain how it works and how I made it.
 
-### [32. How to add Video Call and Voice Call Functionality in a Full Stack Whatsapp Clone](https://hackernoon.com/how-to-add-video-call-and-voice-call-functionality-in-a-full-stack-whatsapp-clone)
-![](https://cdn.hackernoon.com/images/GPJ76xULl7geuFTrXbplNnbeQCf2-9x92x6i.jpeg)
-This blog post demonstrates how to integrate Zegocloud's services for Video Call and Voice Call functionality into a Full Stack WhatsApp Clone.
-
-### [33. Take Your Tailwind Skills to the Next Level by Using these Resources](https://hackernoon.com/take-your-tailwind-skills-to-the-next-level-by-using-these-resources)
+### [32. Take Your Tailwind Skills to the Next Level by Using these Resources](https://hackernoon.com/take-your-tailwind-skills-to-the-next-level-by-using-these-resources)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-d503nd3.jpeg)
 Must have Tailwind CSS resources to maximize your productivity. VS Code extensions, plugins, component libraries that you must bookmark to code more efficiently
+
+### [33. How to add Video Call and Voice Call Functionality in a Full Stack Whatsapp Clone](https://hackernoon.com/how-to-add-video-call-and-voice-call-functionality-in-a-full-stack-whatsapp-clone)
+![](https://cdn.hackernoon.com/images/GPJ76xULl7geuFTrXbplNnbeQCf2-9x92x6i.jpeg)
+This blog post demonstrates how to integrate Zegocloud's services for Video Call and Voice Call functionality into a Full Stack WhatsApp Clone.
 
 ### [34. How to Deploy Go + Templ + HTMX + TailwindCSS to Production](https://hackernoon.com/how-to-deploy-go-templ-htmx-tailwindcss-to-production)
 ![](https://cdn.hackernoon.com/images/a-colorful-tornado-abstract-ww5vrfd9ln635x3wtakluhkt.png)

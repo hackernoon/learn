@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [spring](https://hackernoon.com/tagged/spring)
+### Let's learn about [Spring](https://hackernoon.com/tagged/spring) via these 61 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Spring is a comprehensive open-source framework for building robust, enterprise-level Java applications, offering extensive tools for dependency injection, data access, and web application development. It matters by providing a powerful and flexible ecosystem that significantly streamlines the creation of complex, scalable software solutions.
+
 ### [1. How to Schedule Jobs With Quartz in Spring Boot](https://hackernoon.com/how-to-schedule-jobs-with-quartz-in-spring-boot)
 ![](https://cdn.hackernoon.com/images/bu2EcgsBMkb4EPIleKDsMfYfLKF3-h792hz4.png)
 In this article, we will look at how to schedule tasks using the Quartz framework in Spring Boot. We will consider JobStore, and thread pools.
@@ -157,21 +161,21 @@ Stop replacing your monolith with a God service and start doing things better. L
 ![](https://images.unsplash.com/photo-1553532434-5ab5b6b84993?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Open closed principle is the most simple one in the list of software design principles I understand. "Open for extension, close for modification" - the idea seems quite straightforward. Let's create an example about validation. 
 
-### [40. The Best Solution Ever For Application Monitoring](https://hackernoon.com/the-best-solution-ever-for-application-monitoring-nzq3tw0)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTMgodFHH4evRjSdNFNz3dacaM23-fa623xsm.jpeg?alt=media&token=f56f33c6-9c8d-4639-a099-b4762dbd4a04)
-Just because we do something one way, doesn’t always mean it is the right way … or even the best way.
-
-### [41. Using Maven's Dependency Analyzer to Get Rid of Unused Dependencies is Dangerous Advice Today](https://hackernoon.com/using-mavens-dependency-analyzer-to-get-rid-of-unused-dependencies-is-dangerous-advice-today)
+### [40. Using Maven's Dependency Analyzer to Get Rid of Unused Dependencies is Dangerous Advice Today](https://hackernoon.com/using-mavens-dependency-analyzer-to-get-rid-of-unused-dependencies-is-dangerous-advice-today)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-dy22lv4.jpeg)
 The current state of the Maven analyzer doesn't offer any benefit to modern Spring Boot projects. 
 
-### [42. April Infrastructure Shift Brings May Time On Story Page Lift](https://hackernoon.com/april-platform-shift-brings-may-time-on-story-page-lift-bo1kv3zyx)
-![](https://images.unsplash.com/photo-1489537235181-fc05daed5805?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Hacker Noon Product Update: Overview of What We Deployed in April 2020
+### [41. The Best Solution Ever For Application Monitoring](https://hackernoon.com/the-best-solution-ever-for-application-monitoring-nzq3tw0)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTMgodFHH4evRjSdNFNz3dacaM23-fa623xsm.jpeg?alt=media&token=f56f33c6-9c8d-4639-a099-b4762dbd4a04)
+Just because we do something one way, doesn’t always mean it is the right way … or even the best way.
 
-### [43. AOP For Post-Processing of REST Requests On The Example of Spring And AspectJ](https://hackernoon.com/aop-for-post-processing-of-rest-requests-on-the-example-of-spring-and-aspectj)
+### [42. AOP For Post-Processing of REST Requests On The Example of Spring And AspectJ](https://hackernoon.com/aop-for-post-processing-of-rest-requests-on-the-example-of-spring-and-aspectj)
 ![](https://cdn.hackernoon.com/images/ayEsAWmV07diOj37fFIIQoDVdVD2-xj1345g.webp)
 AOP represents a very powerful approach to solving many problems that would be hard to achieve without it or difficult to maintain.
+
+### [43. April Infrastructure Shift Brings May Time On Story Page Lift](https://hackernoon.com/april-platform-shift-brings-may-time-on-story-page-lift-bo1kv3zyx)
+![](https://images.unsplash.com/photo-1489537235181-fc05daed5805?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Hacker Noon Product Update: Overview of What We Deployed in April 2020
 
 ### [44. How to Secure Coroutines and WebFlux Reactive Applications With Prometheus, Grafana, and InfluxDB](https://hackernoon.com/how-to-secure-coroutines-and-webflux-reactive-applications-with-prometheus-grafana-and-influxdb)
 ![](https://cdn.hackernoon.com/images/XKjmz9tZa8XTDU9MqcuFluHFxfj2-ab02587.jpeg)
@@ -181,13 +185,13 @@ Monitoring applications can easier said than done. What if I told you that it ca
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-mx023k0.jpeg)
 Discover how to use Google Gemini in a Spring Boot application with Spring AI.
 
-### [46. Spring Boot Quick Start: Spring Boot Tutorial for Beginners](https://hackernoon.com/spring-boot-quick-start-spring-boot-tutorial-for-beginners)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-zz03bnu.jpeg)
-How to create spring boot application using Spring Initializr and creating spring boot rest  api example
-
-### [47. Creating a Service for Sensitive Data with Spring and Redis](https://hackernoon.com/creating-a-service-for-sensitive-data-with-spring-and-redis)
+### [46. Creating a Service for Sensitive Data with Spring and Redis](https://hackernoon.com/creating-a-service-for-sensitive-data-with-spring-and-redis)
 ![](https://cdn.hackernoon.com/images/ayEsAWmV07diOj37fFIIQoDVdVD2-ln134wd.webp)
 A simplified example of an application that handles sensitive data leveraging Spring and Redis.
+
+### [47. Spring Boot Quick Start: Spring Boot Tutorial for Beginners](https://hackernoon.com/spring-boot-quick-start-spring-boot-tutorial-for-beginners)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-zz03bnu.jpeg)
+How to create spring boot application using Spring Initializr and creating spring boot rest  api example
 
 ### [48. How To Leverage The Salesforce API Without The Salesforce Client](https://hackernoon.com/how-to-leverage-the-salesforce-api-without-the-salesforce-client)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-z1o135s6.jpeg)
@@ -197,13 +201,13 @@ Interested in using Salesforce with your own client application? Learn how to us
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlBhQoqjIaMU4EX9kZOsv7rSkzzx1-mz243u9b.webp?alt=media&token=71edc31f-bd30-46eb-8112-1140b1ec192d)
 Introduction
 
-### [50. How to Convert a Project From Java to Kotlin Without Pain and Why It Is Necessary](https://hackernoon.com/how-to-convert-a-project-from-java-to-kotlin-without-pain-and-why-it-is-necessary)
-![](https://cdn.hackernoon.com/images/transformer-clintttl3000101s63niodmfy.png)
-In one project, we got an application that contained half of the source code in Java, and the other half in Kotlin. In fact, I asked a question: "Why is it so?"
-
-### [51. SpringOne Tel Aviv World Tour Trip Report](https://hackernoon.com/springone-tel-aviv-world-tour-trip-report)
+### [50. SpringOne Tel Aviv World Tour Trip Report](https://hackernoon.com/springone-tel-aviv-world-tour-trip-report)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-x192e2l.jpeg)
 My talk was accepted by SpringOne in San Francisco. I never went to that conference and was really looking forward to it.
+
+### [51. How to Convert a Project From Java to Kotlin Without Pain and Why It Is Necessary](https://hackernoon.com/how-to-convert-a-project-from-java-to-kotlin-without-pain-and-why-it-is-necessary)
+![](https://cdn.hackernoon.com/images/transformer-clintttl3000101s63niodmfy.png)
+In one project, we got an application that contained half of the source code in Java, and the other half in Kotlin. In fact, I asked a question: "Why is it so?"
 
 ### [52. Heavy Rotation of Relational Hashicorp Vault Database Secrets in Spring](https://hackernoon.com/how-to-handle-the-expiration-of-hashicorp-vault-database-secrets-in-spring-80qa3y16)
 ![](https://cdn.hackernoon.com/drafts/9k113yjs.png)
@@ -217,29 +221,29 @@ Configuring Redis settings in Spring Boot application using KeyspaceSettings.
 ![](https://cdn.hackernoon.com/images/x95vR82RuKhcswrBRspp0PoJ8M22-14034m7.png)
 AOP is useful in tackling cross cutting concerns which are fully incorporated in the development of an application but cannot be attributed to a specific class.
 
-### [55. Hashicorp Vault max_ttl Killed My Spring App](https://hackernoon.com/hashicorp-vault-max_ttl-killed-my-spring-app-zk7p367z)
-![](https://cdn.hackernoon.com/drafts/yl1l3x2p.png)
-How to ensure that expiring Spring Cloud Vault dynamic database secrets are renewed, when reaching Hashicorp Vault’s max_ttl
-
-### [56. Implementation of the Strategy Pattern in Kotlin and Spring](https://hackernoon.com/implementation-of-the-strategy-pattern-in-kotlin-and-spring)
+### [55. Implementation of the Strategy Pattern in Kotlin and Spring](https://hackernoon.com/implementation-of-the-strategy-pattern-in-kotlin-and-spring)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-i482pg3.jpeg)
 The Strategy pattern is a behavioral design pattern that enables selecting an algorithm’s behavior at runtime
+
+### [56. Hashicorp Vault max_ttl Killed My Spring App](https://hackernoon.com/hashicorp-vault-max_ttl-killed-my-spring-app-zk7p367z)
+![](https://cdn.hackernoon.com/drafts/yl1l3x2p.png)
+How to ensure that expiring Spring Cloud Vault dynamic database secrets are renewed, when reaching Hashicorp Vault’s max_ttl
 
 ### [57. Leveraging JMX for Efficient Debugging, Revisited](https://hackernoon.com/debugging-using-jmx-revisited)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-h682ngf.jpeg)
 Learn how to leverage JMX and Spring Boot for advanced debugging and management, enabling efficient monitoring and control of Java applications.
 
-### [58. My Findings Regarding Transactions and ThreadLocal in Spring: What I've Discovered](https://hackernoon.com/my-findings-regarding-transactions-and-threadlocal-in-spring-what-ive-discovered)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-1932uop.jpeg)
-I was intrigued because, though I used Spring transactions a lot via the @Transactional annotation, I never thought about looking at their implementation.
-
-### [59. How to Package a Java Project in a "Box" using Spring Framework](https://hackernoon.com/how-to-package-a-java-project-in-a-box-using-spring-framework)
+### [58. How to Package a Java Project in a "Box" using Spring Framework](https://hackernoon.com/how-to-package-a-java-project-in-a-box-using-spring-framework)
 ![](https://cdn.hackernoon.com/images/java-in-a-box-clhoyxf7a000001s61akje1j5.png)
 
 
-### [60. Secret Tecniques To Improve Dependency Resolution On App Class Loader](https://hackernoon.com/secret-tecniques-to-improve-dependency-resolution-on-app-class-loader-eqo3wi2)
+### [59. Secret Tecniques To Improve Dependency Resolution On App Class Loader](https://hackernoon.com/secret-tecniques-to-improve-dependency-resolution-on-app-class-loader-eqo3wi2)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F82dYFuavVVh4WYKNKyjj4OBt0cf1-t21k3w0k.jpeg?alt=media&token=875759c5-52eb-473a-b262-71fc42456a14)
 Recently I had the need to change certain classes -from external dependencies- loaded on a Spring Boot application. All this happened in a very restrictive environment, where I was not allowed to use other libraries or tweak the JRE, it was only possible to modify the fat JAR and environment variables or system properties.
+
+### [60. My Findings Regarding Transactions and ThreadLocal in Spring: What I've Discovered](https://hackernoon.com/my-findings-regarding-transactions-and-threadlocal-in-spring-what-ive-discovered)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-1932uop.jpeg)
+I was intrigued because, though I used Spring transactions a lot via the @Transactional annotation, I never thought about looking at their implementation.
 
 ### [61. Singleton Beans and Debugging Nightmares 😲](https://hackernoon.com/singleton-beans-and-debugging-nightmares)
 ![](https://cdn.hackernoon.com/images/GWHX2lBFLbMSZ4olDc5OKN28T0h1-d60378b.jpeg)

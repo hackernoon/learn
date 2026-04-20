@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ethereum-top-story](https://hackernoon.com/tagged/ethereum-top-story)
+### Let's learn about [Ethereum Top Story](https://hackernoon.com/tagged/ethereum-top-story) via these 97 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+An Ethereum top story highlights significant news or developments related to the Ethereum blockchain platform, which is critical for understanding market movements and technological advancements. These stories often cover major upgrades, project launches, or regulatory discussions impacting the second-largest cryptocurrency ecosystem.
+
 ### [1. What the heck is EIP-1559? ](https://hackernoon.com/what-the-heck-is-eip-1559-1fm33uz)
 ![](https://hackernoon.com/images/GVAuOZKLuAQST1DG9ZHkrlNwain1-oye33vw.jpeg)
 What is EIP-1559? Will this improvement proposal makes the transaction fees lower and the transaction speeds faster? Read on to learn more!
@@ -245,33 +249,33 @@ HOLDCommunity is like no other crypto and it's changing lives and wealth as we k
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-jy932c5.jpeg)
 A breakdown of the Ethereum Merge. What is ETH 2.0 and what it means for the Web3 industry
 
-### [62. Could Cryptocurrencies Finally Go Viral in 2020?](https://hackernoon.com/could-cryptocurrencies-finally-go-viral-in-2020-efeb323q)
-![](https://cdn.hackernoon.com/drafts/0i1n3ydb.png)
-2020 is the best time to talk about mass user adoption in crypto. After a decade of development and innovation, a year of hype, and two years of stagnation, now is finally the time to “reap the fruits” of our efforts. 
-
-### [63. Why the Ethereum Merge Could Be Pivotal for DeFi and Crypto](https://hackernoon.com/why-ethereum-merge-could-be-a-pivotal-point-for-defi-and-crypto)
+### [62. Why the Ethereum Merge Could Be Pivotal for DeFi and Crypto](https://hackernoon.com/why-ethereum-merge-could-be-a-pivotal-point-for-defi-and-crypto)
 ![](https://cdn.hackernoon.com/images/0LUKMTfjz2b3TVXHj82YEEeSsGz2-b6d3tty.jpeg)
 The Ethereum Merge is a significant event in blockchain history that has been heavily hyped by many individuals and investors, including financial experts. After years of development, the gigantic Ethereum upgrade known as the Merge has finally happened, switching the digital machinery at the core of the second-largest cryptocurrency by market value to a considerably more energy-efficient system.
 
-### [64. Here's How and Why We're Building A Decentralized Caching Layer on Ethereum](https://hackernoon.com/heres-how-and-why-were-building-a-decentralized-caching-layer-on-ethereum-k82k3z7b)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-ml2g3ztx.jpeg?alt=media&token=164e1939-b3f0-4d86-a463-f786603cfbf8)
-The Graph project is building a decentralized data network to enable fast access to Ethereum and IPFS data for Dapps.
+### [63. Could Cryptocurrencies Finally Go Viral in 2020?](https://hackernoon.com/could-cryptocurrencies-finally-go-viral-in-2020-efeb323q)
+![](https://cdn.hackernoon.com/drafts/0i1n3ydb.png)
+2020 is the best time to talk about mass user adoption in crypto. After a decade of development and innovation, a year of hype, and two years of stagnation, now is finally the time to “reap the fruits” of our efforts. 
 
-### [65. Ethereum dApps grow 104% as DeFi Activity Jumps 294%. EOS slows & TRON is Still Las Vegas [Analysis]](https://hackernoon.com/ethereum-dapps-grow-104percent-as-defi-activity-jumps-294percent-eos-slows-and-tron-is-still-las-vegas-analysis-bqx032x2)
+### [64. Ethereum dApps grow 104% as DeFi Activity Jumps 294%. EOS slows & TRON is Still Las Vegas [Analysis]](https://hackernoon.com/ethereum-dapps-grow-104percent-as-defi-activity-jumps-294percent-eos-slows-and-tron-is-still-las-vegas-analysis-bqx032x2)
 ![](https://cdn.hackernoon.com/images/rqo34fe.jpg)
 We’re moving rapidly into Spring and so it’s time for DappRadar to take a look at how the dapp ecosystem has grown during February 2020. We’ve evaluated data from the dapps running on the three main smart contract Blockchains – Ethereum, EOS, and TRON. 
+
+### [65. Here's How and Why We're Building A Decentralized Caching Layer on Ethereum](https://hackernoon.com/heres-how-and-why-were-building-a-decentralized-caching-layer-on-ethereum-k82k3z7b)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-ml2g3ztx.jpeg?alt=media&token=164e1939-b3f0-4d86-a463-f786603cfbf8)
+The Graph project is building a decentralized data network to enable fast access to Ethereum and IPFS data for Dapps.
 
 ### [66. Future Expectations: What Will Affect Ethereum Price in 2021?](https://hackernoon.com/future-expectations-what-will-affect-ethereum-price-in-2021-kzz377d)
 ![](https://cdn.hackernoon.com/images/Nz2NjECzoEYHQpp9n48J5HYxPGQ2-bm4h37ea.jpeg)
 Today, we will analyze Ethereum's (ETH) value and the various technical, competitive, and regulatory factors that may affect its valuation in the future. 
 
-### [67. Rising Gas Fees in the Run-up to Ethereum 2.0 Upgrade](https://hackernoon.com/rising-gas-fees-in-the-run-up-to-ethereum-20-upgrade-0ol3x3d)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2lw2eoJaRDWCFQZC7lfDev9awoC3-k4b3upw.jpeg?alt=media&token=842f601d-c3d6-49c6-a9a9-bfdbb127c937)
-Ethereum gas fees have been on the rise since the beginning of the year. In the latest developments, miners on the world’s second-largest blockchain protocol voted to increase the gas limit from 10 to 12.5 million Gwei. This increase of 25 percent in miner fees contributes to the more than 75 percent rise year-to-date.
-
-### [68. Understanding Token Standards in Ethereum Part-II (ERC721)](https://hackernoon.com/understanding-token-standards-in-ethereum-part-ii-erc721)
+### [67. Understanding Token Standards in Ethereum Part-II (ERC721)](https://hackernoon.com/understanding-token-standards-in-ethereum-part-ii-erc721)
 ![](https://cdn.hackernoon.com/images/Ki0s6KrHo0TbF2TNPyb1p3oNtQi1-zm93nrc.jpeg)
 This story is the second part of my ERC series, in this post,  you will get a complete understanding of the NFT contracts. Development, working etc.
+
+### [68. Rising Gas Fees in the Run-up to Ethereum 2.0 Upgrade](https://hackernoon.com/rising-gas-fees-in-the-run-up-to-ethereum-20-upgrade-0ol3x3d)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2lw2eoJaRDWCFQZC7lfDev9awoC3-k4b3upw.jpeg?alt=media&token=842f601d-c3d6-49c6-a9a9-bfdbb127c937)
+Ethereum gas fees have been on the rise since the beginning of the year. In the latest developments, miners on the world’s second-largest blockchain protocol voted to increase the gas limit from 10 to 12.5 million Gwei. This increase of 25 percent in miner fees contributes to the more than 75 percent rise year-to-date.
 
 ### [69. What Should We Expect From The Upcoming Release of Ethereum 2.0? ](https://hackernoon.com/what-should-we-expect-from-the-upcoming-release-of-ethereum-20-gc5m38hs)
 ![](https://cdn.hackernoon.com/drafts/851wy3x4e.png)
@@ -319,14 +323,14 @@ Growing up in South Africa, the team at Wildcards witnessed first-hand the impac
 ![](https://cdn.hackernoon.com/images/ADS3IjZLFdQgsYwXySYZJ0Qns402-ev039fh.jpeg)
 Karl Hedin, Lead Developer at ZKSwap Europe has spoken at Dcentral about one of the most important topics in crypto today: layer2 chains and applications. 
 
-### [80. Blockchain Bridges And Interoperability: Overview, Roles, and Integrations](https://hackernoon.com/blockchain-bridges-and-interoperability-overview-roles-and-integrations-r64433i2)
-![](https://cdn.hackernoon.com/images/qS8luKQXtzfSDzuVBNuu2gz3uFE3-d998343w.jpeg)
-To resolve the issue of non-interoperability, a cornerstone technology of blockchain has been developed — the bridge.
-
-### [81. Queen Elizabeth’s death inundates the crypto world with Innumerable NFTs and Meme Coins](https://hackernoon.com/queen-elizabeths-death-inundates-the-crypto-world-with-innumerable-nfts-and-meme-coins)
+### [80. Queen Elizabeth’s death inundates the crypto world with Innumerable NFTs and Meme Coins](https://hackernoon.com/queen-elizabeths-death-inundates-the-crypto-world-with-innumerable-nfts-and-meme-coins)
 ![](https://cdn.hackernoon.com/images/s7Uy4vUGHkagAvzLcOwQqTObOP03-lc93ojy.jpeg)
 The death of Queen Elizabeth has sparked the invention of innumerable so-called “meme coins” looking to capitalize on this misfortune occasion. 
 
+
+### [81. Blockchain Bridges And Interoperability: Overview, Roles, and Integrations](https://hackernoon.com/blockchain-bridges-and-interoperability-overview-roles-and-integrations-r64433i2)
+![](https://cdn.hackernoon.com/images/qS8luKQXtzfSDzuVBNuu2gz3uFE3-d998343w.jpeg)
+To resolve the issue of non-interoperability, a cornerstone technology of blockchain has been developed — the bridge.
 
 ### [82. Tapping Into Ethereum Grandpa's  Curious Consciousness with Dmitry Buterin](https://hackernoon.com/tapping-into-ethereum-grandpas-curious-consciousness-with-dmitry-buterin-jn1j331a)
 ![](https://cdn.hackernoon.com/images/sZgLpNbOPtQFz0sTBASstUpb7kG2-wta73153.jpeg)

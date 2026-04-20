@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [redis](https://hackernoon.com/tagged/redis)
+### Let's learn about [Redis](https://hackernoon.com/tagged/redis) via these 91 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Redis is an open-source, in-memory data structure store, used as a database, cache, and message broker. It is critical for high-performance applications that require fast data access, offering excellent speed and versatility for various use cases.
+
 ### [1. In-Memory Caching in Golang](https://hackernoon.com/in-memory-caching-in-golang)
 ![](https://cdn.hackernoon.com/images/uUy2hcEeUBUzpB2avIU9bM9u8Gt2-o2037pl.jpeg)
 How to implement in-memory cache in Golang App
@@ -76,13 +80,13 @@ performance of our application.
 ![](https://cdn.hackernoon.com/drafts/k3pk3ysx.png)
 Here I’m assuming you already have your basic Django project setup. And, already know what Celery is? if not, I’ll suggest getting a basic understanding of it here. So let’s just directly jump into the steps.
 
-### [19. Migrating from Heroku to Render](https://hackernoon.com/migrating-from-heroku-to-render)
-![](https://cdn.hackernoon.com/images/A8ZFQ7LaiZM6zK7mTXUQxktIElg1-ee93f6n.jpeg)
-Migrate from Heroku to Render
-
-### [20. Using Redis Streams with NestJS: Part 3 - Consumer groups](https://hackernoon.com/using-redis-streams-with-nestjs-part-3-consumer-groups)
+### [19. Using Redis Streams with NestJS: Part 3 - Consumer groups](https://hackernoon.com/using-redis-streams-with-nestjs-part-3-consumer-groups)
 ![](https://cdn.hackernoon.com/images/CgB3JUoAMba0EfivxJcY6vlIFNU2-7f93pyx.png)
 This is part 3 of a 3-part series, where we will explore how to use Redis streams with NestJS.
+
+### [20. Migrating from Heroku to Render](https://hackernoon.com/migrating-from-heroku-to-render)
+![](https://cdn.hackernoon.com/images/A8ZFQ7LaiZM6zK7mTXUQxktIElg1-ee93f6n.jpeg)
+Migrate from Heroku to Render
 
 ### [21. We Built The World's Largest Real time High-Frequency, Low Latency Streaming System on Golang](https://hackernoon.com/we-built-the-worlds-largest-real-time-high-frequency-low-latency-streaming-system-on-golang-xf4r346e)
 ![](https://cdn.hackernoon.com/images/YXr0nxMhtHTYcIxg5sFngxEQeGk1-ybx3we4.jpeg)
@@ -140,17 +144,17 @@ There are times when one as a Ruby on Rails developer wants to implement a real-
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-c24a28jy.jpeg)
 Go emerged from Google out of a need to build highly performant applications using an easy-to-understand syntax. It's a statically typed, compiled language developed by some of the innovators of C, without the programming burden of manual memory management. Primarily, it was designed to take advantage of modern multicore CPUs and networked machines.
 
-### [35. What is Idempotency and Why We Need It](https://hackernoon.com/why-we-need-idempotency-mechanism-9s4b32lp)
+### [35. Optimise LLM usage costs with Semantic Cache](https://hackernoon.com/optimise-llm-usage-costs-with-semantic-cache)
+![](https://cdn.hackernoon.com/images/pqfgO1Z1kgfRHXl344UMGBETwOz1-e593cx5.jpeg)
+Agentic AI workflows can create a financial black hole. Learn how semantic caching uses vector similarity to cut your LLM token burn by 24%.
+
+### [36. What is Idempotency and Why We Need It](https://hackernoon.com/why-we-need-idempotency-mechanism-9s4b32lp)
 ![](https://cdn.hackernoon.com/images/6yr3z5p.jpg)
 Idempotency is a strategy that makes sure an event that executed multiple times will give the same result. For example, GET method on the HTTP request. If you calling the endpoint with GET method will give you the same result. But POST method is not idempotent because every time you call an endpoint with POST method will create a new record on the database (the database state changes).
 
-### [36. How to Implement Multi-Device Authentication System with FastAPI, Redis, and JWT](https://hackernoon.com/how-to-implement-multi-device-authentication-system-with-fastapi-redis-and-jwt)
+### [37. How to Implement Multi-Device Authentication System with FastAPI, Redis, and JWT](https://hackernoon.com/how-to-implement-multi-device-authentication-system-with-fastapi-redis-and-jwt)
 ![](https://cdn.hackernoon.com/images/NGxqBinxp6TjZNefNTICTcmtBA92-t102tmt.png)
 You know how you can sign-in to  multiple devices on Google and sign-out from on one device through another, well, I tried to implement that using Redis
-
-### [37. Optimise LLM usage costs with Semantic Cache](https://hackernoon.com/optimise-llm-usage-costs-with-semantic-cache)
-![](https://cdn.hackernoon.com/images/pqfgO1Z1kgfRHXl344UMGBETwOz1-e593cx5.jpeg)
-Agentic AI workflows can create a financial black hole. Learn how semantic caching uses vector similarity to cut your LLM token burn by 24%.
 
 ### [38. Introducing Huey: A Celery Alternative for Django](https://hackernoon.com/introducing-huey-a-celery-alternative-for-django)
 ![](https://cdn.hackernoon.com/images/Q7bRw6RMSZOUtpMqMbMMmweG3BX2-2t82t76.jpeg)
@@ -160,47 +164,47 @@ Trying out a lightweight asynchronous task queue as an alternative to Celery wit
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-da93k6o.jpeg)
 Let's discuss the easiest way of setting up the Redis Docker image using the Docker container.
 
-### [40. Choosing the Right Caching Strategy](https://hackernoon.com/choosing-the-right-caching-strategy)
+### [40. Explaining What a Cache Stampede Is and How to Prevent It Using Redis](https://hackernoon.com/explaining-what-a-cache-stampede-is-and-how-to-prevent-it-using-redis)
+![](https://cdn.hackernoon.com/images/522HUnTfSIbvDbyhWY3RIecYcZy2-8p13v2o.jpeg)
+A cache stampede happens when expired cache triggers a flood of backend requests.
+
+### [41. Choosing the Right Caching Strategy](https://hackernoon.com/choosing-the-right-caching-strategy)
 ![](https://cdn.hackernoon.com/images/caching-jrycrlfnyfof28zw2nii31wi.png)
 This article explores different caching strategies—such as in-memory, distributed, and hybrid approaches—for optimizing performance in microservices or monolith
 
-### [41. ROLE BASED ACCESS CONTROL (RBAC) DESIGN FOR MICROSERVICES](https://hackernoon.com/role-based-access-control-design-for-micro-services-dg1233079)
+### [42. ROLE BASED ACCESS CONTROL (RBAC) DESIGN FOR MICROSERVICES](https://hackernoon.com/role-based-access-control-design-for-micro-services-dg1233079)
 ![](https://cdn.hackernoon.com/images/7l13o30k5.jpg)
 This article extends the principles and design of API gateway discussed in the article here API Gateway.
 
-### [42. Using LUA Scripts in Redis with Node.js: Why It’s Beneficial](https://hackernoon.com/using-lua-scripts-in-redis-with-nodejs-why-its-beneficial)
+### [43. Using LUA Scripts in Redis with Node.js: Why It’s Beneficial](https://hackernoon.com/using-lua-scripts-in-redis-with-nodejs-why-its-beneficial)
 ![](https://cdn.hackernoon.com/images/GThmB9MKVeXk59Hz8IVZfAzhNW53-oq737od.jpeg)
 Without a thorough understanding of Redis' data structures, commands, and how it works, we may not be able to fully leverage its performance capabilities.
-
-### [43. Explaining What a Cache Stampede Is and How to Prevent It Using Redis](https://hackernoon.com/explaining-what-a-cache-stampede-is-and-how-to-prevent-it-using-redis)
-![](https://cdn.hackernoon.com/images/522HUnTfSIbvDbyhWY3RIecYcZy2-8p13v2o.jpeg)
-A cache stampede happens when expired cache triggers a flood of backend requests.
 
 ### [44. How to Create and Connecting Redis to a Serverless Node.js App on Azure](https://hackernoon.com/how-to-create-and-connecting-redis-to-a-serverless-nodejs-app-on-azure)
 ![](https://cdn.hackernoon.com/images/rD3ZPSbOTDVcZgugSUvaEY2oV0x1-6le3rfb.jpeg)
 Hello, everyone! Today, we'll be diving into the fascinating world of software development, specifically dealing with Node.js, Azure and Redis.
 
-### [45. Caches in Python](https://hackernoon.com/caches-in-python)
+### [45. Fixing Race Conditions in Go with Redis-Based Distributed Locks](https://hackernoon.com/fixing-race-conditions-in-go-with-redis-based-distributed-locks)
+![](https://cdn.hackernoon.com/images/lfFKjSfJfkamXdqdlc6jYh0R8003-bu138ck.png)
+Go's 'sync.Mutex' is a lock designed to lock critical sections of code.
+
+### [46. Caches in Python](https://hackernoon.com/caches-in-python)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-cs93ok0.jpeg)
 Let's learn about Caches, Caching Operations, Cache Eviction Policies,
 Implementation of Cache Eviction Policies, Distributed Caching
 and Caching In Python
 
-### [46. Building a Secure Web Chat With Redis, mTLS and GCP](https://hackernoon.com/building-a-secure-web-chat-with-redis-mtls-and-gcp)
+### [47. Building a Secure Web Chat With Redis, mTLS and GCP](https://hackernoon.com/building-a-secure-web-chat-with-redis-mtls-and-gcp)
 ![](https://cdn.hackernoon.com/images/PyERAjWATVTJ0CA5MOShZMIP0CF2-p5s35sd.jpeg)
 Securing Redis installation with mTLS and accessing it from a compute instance on GCP for free.
 
-### [47. Fixing Race Conditions in Go with Redis-Based Distributed Locks](https://hackernoon.com/fixing-race-conditions-in-go-with-redis-based-distributed-locks)
-![](https://cdn.hackernoon.com/images/lfFKjSfJfkamXdqdlc6jYh0R8003-bu138ck.png)
-Go's 'sync.Mutex' is a lock designed to lock critical sections of code.
-
-### [48. How to Reduce Response Times and Improve Performance with Redis Caching](https://hackernoon.com/how-to-reduce-response-times-and-improve-performance-with-redis-caching)
-![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-n793pyq.jpeg)
-Learn how to improve the performance of your web application by caching API requests with Redis and Node.js. Reduce response time and increase efficiency by sto
-
-### [49. NestJS Too Slow? Just Queue It!](https://hackernoon.com/nestjs-too-slow-just-queue-it)
+### [48. NestJS Too Slow? Just Queue It!](https://hackernoon.com/nestjs-too-slow-just-queue-it)
 ![](https://cdn.hackernoon.com/images/522HUnTfSIbvDbyhWY3RIecYcZy2-uk03v04.jpeg)
 Optimize your NestJS app with queue processing! Learn how to use Bull and Redis to offload tasks, improve performance, and scale efficiently. 
+
+### [49. How to Reduce Response Times and Improve Performance with Redis Caching](https://hackernoon.com/how-to-reduce-response-times-and-improve-performance-with-redis-caching)
+![](https://cdn.hackernoon.com/images/ngHeZCLQ7RUFohMJcsEYn7UCXkz2-n793pyq.jpeg)
+Learn how to improve the performance of your web application by caching API requests with Redis and Node.js. Reduce response time and increase efficiency by sto
 
 ### [50. Deploying Complex Microservice Apps Using PMKFT [A How To Guide]](https://hackernoon.com/deploying-complex-microservice-apps-using-pmkft-a-how-to-guide-wq8f325l)
 ![](https://cdn.hackernoon.com/drafts/iiti3yqr.png)
@@ -231,38 +235,38 @@ What's Redis stream and how to use it.
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-dt93pzw.jpeg)
 Redis hashes are a type of record stored in a Redis database. They are little like JSON objects and store data as key-value pairs.
 
-### [57. A Successful Selenium Parallel Testing With Zalenium](https://hackernoon.com/a-successful-selenium-parallel-testing-with-zalenium-0to3476)
-![](https://hackernoon.com/images/NTOkNBCCoJY3y1iD6MxsHPJrUd53-0ibr33g2.jpeg)
-Do you run a lot of automation frameworks using Selenium but finding it difficult to scale with a Dockerized infra? Maybe our case study can be of help. Read on
-
-### [58. How to Use Redis for Caching in Full Stack Applications](https://hackernoon.com/how-to-use-redis-for-caching-in-full-stack-applications)
+### [57. How to Use Redis for Caching in Full Stack Applications](https://hackernoon.com/how-to-use-redis-for-caching-in-full-stack-applications)
 ![](https://cdn.hackernoon.com/images/TmomnkEduPhXKVzMMPa8AQsBG4e2-0i13czv.png)
 Redis can cache many types of data and actions. The key is to identify parts of your app where speed matters most — and where data doesn’t change every second.
+
+### [58. A Successful Selenium Parallel Testing With Zalenium](https://hackernoon.com/a-successful-selenium-parallel-testing-with-zalenium-0to3476)
+![](https://hackernoon.com/images/NTOkNBCCoJY3y1iD6MxsHPJrUd53-0ibr33g2.jpeg)
+Do you run a lot of automation frameworks using Selenium but finding it difficult to scale with a Dockerized infra? Maybe our case study can be of help. Read on
 
 ### [59. Most Common Redis Use Cases by Core Data Structures](https://hackernoon.com/top-redis-use-cases-by-core-data-structure-types-3i1v131xc)
 ![](https://cdn.hackernoon.com/drafts/jq1qo31yw.png)
 Redis, short for Remote Dictionary Server, is a BSD-licensed, open-source in-memory key-value data structure store written in C language by Salvatore Sanfillipo and was first released on May 10, 2009. Depending on how it is configured, Redis can act like a database, a cache or a message broker. It’s important to note that Redis is a NoSQL database system. This implies that unlike SQL (Structured Query Language) driven database systems like MySQL, PostgreSQL, and Oracle, Redis does not store data in well-defined database schemas which constitute tables, rows, and columns. Instead, Redis stores data in data structures which makes it very flexible to use. In this blog, we outline the top Redis use cases by the different core data structure types.
 
-### [60. Choosing the Right Redis Library for Microservices: Go-Redis vs. RedisPipe](https://hackernoon.com/choosing-the-right-redis-library-for-microservices-go-redis-vs-redispipe)
-![](https://cdn.hackernoon.com/images/illustrate-a-diagrammatic-representation-of-a-microservices-software-architecture-te-fpybotcmm8tikykamarhj285.png)
-Explore the strengths and considerations of Go-Redis and RedisPipe, two popular Redis libraries for microservices.
-
-### [61. Redis Can Help You Deal With Tough Calculations for Geospatial Data Easily](https://hackernoon.com/redis-can-help-you-deal-with-tough-calculations-for-geospatial-data-easily)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-h293pnd.jpeg)
-Learn how to use Redis and its geospatial indexes and commands for complex geo calculations.
-
-### [62. The Many Layers of Caching: All the Places Data Lives in Modern Systems](https://hackernoon.com/the-many-layers-of-caching-all-the-places-data-lives-in-modern-systems)
+### [60. The Many Layers of Caching: All the Places Data Lives in Modern Systems](https://hackernoon.com/the-many-layers-of-caching-all-the-places-data-lives-in-modern-systems)
 ![](https://cdn.hackernoon.com/images/JdAMnkKbQwN94BHuIt3Fhdifbbv2-3i138xp.jpeg)
 Dive deep into the many layers of caching in modern systems from browser and CDN to app memory and database internals. Learn strategies, consistency models.
 
-### [63. Introduction to Redis: The In-memory Database](https://hackernoon.com/introduction-to-redis-the-in-memory-database)
+### [61. Choosing the Right Redis Library for Microservices: Go-Redis vs. RedisPipe](https://hackernoon.com/choosing-the-right-redis-library-for-microservices-go-redis-vs-redispipe)
+![](https://cdn.hackernoon.com/images/illustrate-a-diagrammatic-representation-of-a-microservices-software-architecture-te-fpybotcmm8tikykamarhj285.png)
+Explore the strengths and considerations of Go-Redis and RedisPipe, two popular Redis libraries for microservices.
+
+### [62. Redis Can Help You Deal With Tough Calculations for Geospatial Data Easily](https://hackernoon.com/redis-can-help-you-deal-with-tough-calculations-for-geospatial-data-easily)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-h293pnd.jpeg)
+Learn how to use Redis and its geospatial indexes and commands for complex geo calculations.
+
+### [63. Building a Global Production Ready Marketplace With Medusa JS](https://hackernoon.com/building-a-global-production-ready-marketplace-with-medusa-js)
+![](https://cdn.hackernoon.com/images/522HUnTfSIbvDbyhWY3RIecYcZy2-cc134ir.webp)
+Build a scalable marketplace with Medusa JS: from tech stack choices to custom plugins, payments, messaging, and shipping for a global, production-ready MVP
+
+### [64. Introduction to Redis: The In-memory Database](https://hackernoon.com/introduction-to-redis-the-in-memory-database)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-ig93i9n.jpeg)
 Redis is a type of database and it can be added to your production level application to make it more performant. I will cover the basics of Redis and show a real world example of Redis.
 
-
-### [64. Building a Global Production Ready Marketplace With Medusa JS](https://hackernoon.com/building-a-global-production-ready-marketplace-with-medusa-js)
-![](https://cdn.hackernoon.com/images/522HUnTfSIbvDbyhWY3RIecYcZy2-cc134ir.webp)
-Build a scalable marketplace with Medusa JS: from tech stack choices to custom plugins, payments, messaging, and shipping for a global, production-ready MVP
 
 ### [65. How to Effectively Integrate a Third-Party Core in a Complex IT Infrastructure: A Banking Migration](https://hackernoon.com/how-to-effectively-integrate-a-third-party-core-in-a-complex-it-infrastructure-a-banking-migration)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-aj83l0r.jpeg)
@@ -280,13 +284,13 @@ A simplified example of an application that handles sensitive data leveraging Sp
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-1c03bfu.jpeg)
 This article will guide you through the process of containerizing a Symfony application using Docker and Docker Compose.
 
-### [69. How to Accidentally Build a Programming Language While Cleaning Redis](https://hackernoon.com/how-to-accidentally-build-a-programming-language-while-cleaning-redis)
-![](https://cdn.hackernoon.com/images/XAABEU8meidDRZoEexv1kqoGdLn2-d603beu.png)
-I tried to clean Redis. I accidentally built a programming language. A true production story about business rules, JSON, and unintended complexity. 
-
-### [70. Redis’ Key Expiration Strategy: A Masterclass in Probabilistic System Design](https://hackernoon.com/redis-key-expiration-strategy-a-masterclass-in-probabilistic-system-design)
+### [69. Redis’ Key Expiration Strategy: A Masterclass in Probabilistic System Design](https://hackernoon.com/redis-key-expiration-strategy-a-masterclass-in-probabilistic-system-design)
 ![](https://cdn.hackernoon.com/images/Ayf0vhKtQEhqzfqN7ro7sa9lB5B2-2y03bmo.png)
 Redis doesn’t track expirations with sorted lists, it uses randomness. Learn how its probabilistic key cleanup keeps speed, memory, and simplicity in balance. 
+
+### [70. How to Accidentally Build a Programming Language While Cleaning Redis](https://hackernoon.com/how-to-accidentally-build-a-programming-language-while-cleaning-redis)
+![](https://cdn.hackernoon.com/images/XAABEU8meidDRZoEexv1kqoGdLn2-d603beu.png)
+I tried to clean Redis. I accidentally built a programming language. A true production story about business rules, JSON, and unintended complexity. 
 
 ### [71. Go Context Timeouts and External Calls: Cook Them Properly](https://hackernoon.com/go-context-timeouts-and-external-calls-cook-them-properly)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-8a93t5b.jpeg)
@@ -296,7 +300,11 @@ Optimizing external service calls in Go with context package: balancing timeouts
 ![](https://cdn.hackernoon.com/images/2czVC8uP1VPm8FCbX6aJ9WTneIi1-6x934c8.png)
 Redis is an in-memory database that can be used to store and persist multiple data formats for complex applications.
 
-### [73. Let's Build It: Real-time Session Invalidation](https://hackernoon.com/lets-build-it-real-time-session-invalidation-wnaa3vmg)
+### [73. Introduction to ADN: API Delivery Network](https://hackernoon.com/introduction-to-adn-api-delivery-network-he2231em)
+![](https://cdn.hackernoon.com/images/YXr0nxMhtHTYcIxg5sFngxEQeGk1-kr2g3174.gif)
+A CDN designed for APIs with pre-heating and real-time purges, that sits in front of all our API servers, always serving a hit and never a miss.
+
+### [74. Let's Build It: Real-time Session Invalidation](https://hackernoon.com/lets-build-it-real-time-session-invalidation-wnaa3vmg)
 ![](https://cdn.hackernoon.com/images/sd1sl3yvk.gif)
 How would we build an experience like the one above?
 
@@ -304,75 +312,71 @@ Demo Repo
 
 Some applications need to limit users to a single client or browser instance. This post covers how to build, improve, and scale this feature. We begin with a simple web app with two API endpoints:
 
-### [74. Introduction to ADN: API Delivery Network](https://hackernoon.com/introduction-to-adn-api-delivery-network-he2231em)
-![](https://cdn.hackernoon.com/images/YXr0nxMhtHTYcIxg5sFngxEQeGk1-kr2g3174.gif)
-A CDN designed for APIs with pre-heating and real-time purges, that sits in front of all our API servers, always serving a hit and never a miss.
+### [75. Poorman's Memory Cache Improvements for Web Applications](https://hackernoon.com/hit-the-snooze-on-cache-keys-and-how-it-boosts-web-app-performance)
+![](https://cdn.hackernoon.com/images/tUyDy3WCvhMrS9XRgsoD10WmU5k2-sa036ek.jpeg)
+Dynamically extending cache expiration times for popular keys can boost efficiency and handle high traffic without requiring expensive tools or complex changes.
 
-### [75. Getting Started with Kvrocks and Go-redis](https://hackernoon.com/getting-started-with-kvrocks-and-go-redis)
+### [76. Getting Started with Kvrocks and Go-redis](https://hackernoon.com/getting-started-with-kvrocks-and-go-redis)
 ![](https://cdn.hackernoon.com/images/vYKilz2t7xOCGye0QH3snaKWaGF2-1492r5y.jpeg)
 Learn how to use the go-redis client to get started with Apache Kvrocks, a distributed key-value NoSQL database.
 
-### [76. How to Set up Redis Properties Programmatically](https://hackernoon.com/how-to-set-up-redis-properties-programmatically)
+### [77. How to Set up Redis Properties Programmatically](https://hackernoon.com/how-to-set-up-redis-properties-programmatically)
 ![](https://cdn.hackernoon.com/images/ayEsAWmV07diOj37fFIIQoDVdVD2-zz034bi.webp)
 Configuring Redis settings in Spring Boot application using KeyspaceSettings.
 
-### [77. The Pros and Cons of NoSQL](https://hackernoon.com/the-pros-and-cons-of-nosql-391l3268)
+### [78. The Pros and Cons of NoSQL](https://hackernoon.com/the-pros-and-cons-of-nosql-391l3268)
 ![](https://cdn.hackernoon.com/images/JT4BgXlfxveziEP9szyBKsEXoFf2-l41b35au.jpeg)
 Learn how NoSQL differs from SQL and how it's built for high performance and availability. And no, it doesn't stand for "No SQL".
-
-### [78. Poorman's Memory Cache Improvements for Web Applications](https://hackernoon.com/hit-the-snooze-on-cache-keys-and-how-it-boosts-web-app-performance)
-![](https://cdn.hackernoon.com/images/tUyDy3WCvhMrS9XRgsoD10WmU5k2-sa036ek.jpeg)
-Dynamically extending cache expiration times for popular keys can boost efficiency and handle high traffic without requiring expensive tools or complex changes.
 
 ### [79. Graph Theory-Based Semantic Caching: Scaling LLM Applications](https://hackernoon.com/graph-theory-based-semantic-caching-scaling-llm-applications)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-qd03a0z.jpeg)
 This graph-based approach transforms semantic caching from brute-force problem into an elegant graph traversal challenge, delivering performance & cost savings
 
-### [80. I Tried Every Open Source Database and Found Only One That is Actually Useful](https://hackernoon.com/i-tried-every-open-source-database-and-found-only-one-that-is-actually-useful)
-![](https://cdn.hackernoon.com/images/n46TzZ1AaqbEkZzpTB21rYVJHNG3-cd03aig.png)
-Let's walk through this journey. My journey. Maybe it helps someone else avoid the same database-induced headache.
+### [80. Leveraging MariaDB’s MEMORY Storage Engine: Efficient Caching and Performance Optimization](https://hackernoon.com/leveraging-mariadbs-memory-storage-engine-efficient-caching-and-performance-optimization)
+![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-ij83zgr.png)
+Using MariaDB instead of Redis as a fast in-memory cache key-value database
 
 ### [81. The 10-Day .Net Aspire Challenge - Day 6: Redis Cache](https://hackernoon.com/the-10-day-net-aspire-challenge-day-6-redis-cache)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-2q032aw.png)
 Step-by-step guide on how to use the .Net Aspire Redis Cache component in Visual Studio.
 
-### [82. Leveraging MariaDB’s MEMORY Storage Engine: Efficient Caching and Performance Optimization](https://hackernoon.com/leveraging-mariadbs-memory-storage-engine-efficient-caching-and-performance-optimization)
-![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-ij83zgr.png)
-Using MariaDB instead of Redis as a fast in-memory cache key-value database
+### [82. I Tried Every Open Source Database and Found Only One That is Actually Useful](https://hackernoon.com/i-tried-every-open-source-database-and-found-only-one-that-is-actually-useful)
+![](https://cdn.hackernoon.com/images/n46TzZ1AaqbEkZzpTB21rYVJHNG3-cd03aig.png)
+Let's walk through this journey. My journey. Maybe it helps someone else avoid the same database-induced headache.
 
 ### [83. The Noonification: Understanding sync.Cond in Go: A Guide for Beginners (4/29/2024)](https://hackernoon.com/4-29-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_725_cgegnoqdkmbj1vj7vhy5nw5j.png)
 4/29/2024: Top 5 stories on the HackerNoon homepage!
 
-### [84. How I Scaled a Legacy Node.js App to Handle 40k+ Long-Lived WebSocket Connections](https://hackernoon.com/how-i-scaled-a-legacy-nodejs-app-to-handle-40k-long-lived-websocket-connections)
-![](https://cdn.hackernoon.com/images/8dTTQIuv5EShl8lg4OPtdq809KB2-mg23wna.webp)
-How Redis helped transform a legacy WebSocket system into a scalable, distributed, and fault-tolerant real-time application.
+### [84. The HackerNoon Newsletter: Optimise LLM usage costs with Semantic Cache (2/25/2026)](https://hackernoon.com/2-25-2026-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_804_em4h2o9zvhhhjxazk7tx0ken.png)
+2/25/2026: Top 5 stories on the HackerNoon homepage!
 
 ### [85. How To Cache RESTful API Requests for Redis With Heroku Data](https://hackernoon.com/how-to-cache-restful-api-requests-for-redis-with-heroku-data)
 ![](https://cdn.hackernoon.com/images/a-laptop-displaying-code-mcd106se32kc82vix766euyx.png)
 Learn how to significantly improve your Node.js application's performance by implementing RESTful request caching with Redis.
 
-### [86. The HackerNoon Newsletter: Optimise LLM usage costs with Semantic Cache (2/25/2026)](https://hackernoon.com/2-25-2026-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_804_em4h2o9zvhhhjxazk7tx0ken.png)
-2/25/2026: Top 5 stories on the HackerNoon homepage!
+### [86. I Built a Mock API Platform in 2.5 Months (Django + React + Redis + PostgreSQL)](https://hackernoon.com/i-built-a-mock-api-platform-in-25-months-django-react-redis-postgresql)
+![](https://cdn.hackernoon.com/images/TH2RNK2abshiZhXjR75tfZjkZQm1-8303fpb.png)
+I built MockMyData.io in 10 weeks - a multi-tenant SaaS that generates mock REST APIs. Here's how I handled subdomains, rate limiting, and Redis caching. 
 
 ### [87. What Is Redis and How Can It Make Your Website 30-40% Faster?](https://hackernoon.com/what-is-redis-and-how-can-it-make-your-website-30-40percent-faster)
 ![](https://cdn.hackernoon.com/images/dQivUEEj1RcFc2A4GiaE0hI9ypA3-2q3r358q.jpeg)
 Redis is a type of database that can be used to significantly improve your website's loading speed thanks to its design and its versatile selection of modules.
 
-### [88. I Built a Mock API Platform in 2.5 Months (Django + React + Redis + PostgreSQL)](https://hackernoon.com/i-built-a-mock-api-platform-in-25-months-django-react-redis-postgresql)
-![](https://cdn.hackernoon.com/images/TH2RNK2abshiZhXjR75tfZjkZQm1-8303fpb.png)
-I built MockMyData.io in 10 weeks - a multi-tenant SaaS that generates mock REST APIs. Here's how I handled subdomains, rate limiting, and Redis caching. 
-
-### [89. Optimizing OpenTelemetry Tracing with Multi-Stack Warehouse Components](https://hackernoon.com/optimizing-opentelemetry-tracing-with-multi-stack-warehouse-components)
+### [88. Optimizing OpenTelemetry Tracing with Multi-Stack Warehouse Components](https://hackernoon.com/optimizing-opentelemetry-tracing-with-multi-stack-warehouse-components)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-4ad2muc.jpeg)
 
 
-### [90. Useful Redis Commands You Should Know](https://hackernoon.com/useful-redis-commands-you-should-know)
+### [89. Useful Redis Commands You Should Know](https://hackernoon.com/useful-redis-commands-you-should-know)
 ![](https://cdn.hackernoon.com/images/a-list-of-special-commands-on-an-ancient-scroll-j301zol2xtts1jhserdn921g.png)
 Here are some useful commands that you can use to work with the Redis keys
 
-### [91. When Distributed Locks Go Wrong—and the Database Saves the Day](https://hackernoon.com/when-distributed-locks-go-wrongand-the-database-saves-the-day)
+### [90. When Distributed Locks Go Wrong—and the Database Saves the Day](https://hackernoon.com/when-distributed-locks-go-wrongand-the-database-saves-the-day)
 ![](https://cdn.hackernoon.com/images/vIFzhE65ScfhfzDjJiyXSmW6o372-5103ezi.jpeg)
 Redis locks failed us at 3 AM. PostgreSQL fixed it with ACID guarantees and fairness. Here’s why databases beat distributed locks every time.
+
+### [91. How I Scaled a Legacy Node.js App to Handle 40k+ Long-Lived WebSocket Connections](https://hackernoon.com/how-i-scaled-a-legacy-nodejs-app-to-handle-40k-long-lived-websocket-connections)
+![](https://cdn.hackernoon.com/images/8dTTQIuv5EShl8lg4OPtdq809KB2-mg23wna.webp)
+How Redis helped transform a legacy WebSocket system into a scalable, distributed, and fault-tolerant real-time application.
 

@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [money](https://hackernoon.com/tagged/money)
+### Let's learn about [Money](https://hackernoon.com/tagged/money) via these 297 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Money makes the world go around. And yes, you little crypto nerd - by money we mean ALL kinds of money.
 
 ### [1. The Fed's Disastrous Confusion about Money](https://hackernoon.com/the-feds-disaterous-confusion-about-money)
@@ -243,12 +245,12 @@ Everyone's dream is to make money without having to work for it. While that migh
 ![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-b493vun.jpeg)
 The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series. 
 
-### [60. The Art of Money Getting or, Golden Rules for Making Money - Chapter 14](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-14)
-![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-va93vv7.jpeg)
+### [60. The Art of Money Getting or, Golden Rules for Making Money - Chapter 13](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-13)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-w093v0h.jpeg)
 The Art of Money Getting or, Golden Rules for Making Money by P. T. Barnum is part of HackerNoon’s Book Blog Post series.
 
-### [61. The Art of Money Getting or, Golden Rules for Making Money - Chapter 13](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-13)
-![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-w093v0h.jpeg)
+### [61. The Art of Money Getting or, Golden Rules for Making Money - Chapter 14](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-14)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-va93vv7.jpeg)
 The Art of Money Getting or, Golden Rules for Making Money by P. T. Barnum is part of HackerNoon’s Book Blog Post series.
 
 ### [62. No One is Talking About How Cryptocurrency Solves This Massive Problem](https://hackernoon.com/no-one-is-talking-about-how-cryptocurrency-solves-this-massive-problem-0kav34f4)
@@ -311,61 +313,61 @@ It's a common question in a growing business: How do you scale without breaking 
 ![](https://cdn.hackernoon.com/images/NbkygUB9G6Zx5nmHwA4JRCtfZkr2-qw4936zg.jpeg)
 The narrative that Bitcoin wastes a tremendous amount of energy immediately became a popular headline. This idea is not grounded in reality.
 
-### [77. Blockchain-Powered Mobile Wallets Are Changing The Cross-Border Payments Landscape](https://hackernoon.com/blockchain-powered-mobile-wallets-are-changing-the-cross-border-payments-landscape-t45733ic)
+### [77. Seven Stages of Empire](https://hackernoon.com/seven-stages-of-empire)
+![](https://cdn.hackernoon.com/images/7XySryL7eBZuFZKjRrt7WZ4k61G3-wb33af4.jpeg)
+Your true wealth is your time and freedom. Money is just a tool for trading and acts as a container to store your economic energy unit when you want to use it.
+
+### [78. Blockchain-Powered Mobile Wallets Are Changing The Cross-Border Payments Landscape](https://hackernoon.com/blockchain-powered-mobile-wallets-are-changing-the-cross-border-payments-landscape-t45733ic)
 ![](drafts/0zi3164.png)
 Every year hundreds of billions of dollars are transferred internationally by businesses and individuals who have emigrated from their home countries and cross-border money transfers are likely to experience double-digit annual growth rates over the next few years.  
 
-### [78. Were Fintechs Engaging in Fraud? The House Committee Thinks So](https://hackernoon.com/were-fintechs-engaging-in-fraud-the-house-committee-thinks-so)
+### [79. Were Fintechs Engaging in Fraud? The House Committee Thinks So](https://hackernoon.com/were-fintechs-engaging-in-fraud-the-house-committee-thinks-so)
 ![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-ora2lor.jpeg)
 One such executive falsely claimed in loan documents to be a Black veteran and received loans through multiple business entities
 
-### [79. Don't Forget The Pattern Day Trader (PDT) Rule](https://hackernoon.com/dont-forget-the-pattern-day-trader-pdt-rule-mtw3w16)
+### [80. Don't Forget The Pattern Day Trader (PDT) Rule](https://hackernoon.com/dont-forget-the-pattern-day-trader-pdt-rule-mtw3w16)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-ps723ta7.jpeg?alt=media&token=a7d519f5-809d-46ef-9e15-a17af3bec2e3)
 A common source of frustration for beginner and more experienced traders alike, is the Pattern Day Trader (PDT) Rule. ‘Pattern Day Trader’ is a regulatory designation from the Securities and Exchange Commission (SEC), to discourage retail traders from excessive trading. The PDT Rule places a minimum equity requirement on margin accounts where the stock market trader executes four or more day trades within five business days.
 
-### [80. Could Cryptocurrencies Ever Be Anything More Than the Creation of Money Out of Thin Air?](https://hackernoon.com/could-cryptocurrencies-ever-be-anything-more-than-the-creation-of-money-out-of-thin-air-syls32h4)
+### [81. Could Cryptocurrencies Ever Be Anything More Than the Creation of Money Out of Thin Air?](https://hackernoon.com/could-cryptocurrencies-ever-be-anything-more-than-the-creation-of-money-out-of-thin-air-syls32h4)
 ![](https://cdn.hackernoon.com/images/ie8332jf.jpg)
 Something many people cannot seem to wrap their heads around is the concept of cryptocurrencies - how are cryptocurrencies created? What makes them valuable? To understand this, let’s take a brief look back at the history of money.  
 
-### [81. 71 Stories To Learn About Personal Finance](https://hackernoon.com/71-stories-to-learn-about-personal-finance)
+### [82. 71 Stories To Learn About Personal Finance](https://hackernoon.com/71-stories-to-learn-about-personal-finance)
 ![](https://cdn.hackernoon.com/images/github/personal-finance-397.png)
 Learn everything you need to know about Personal Finance via these 71 free HackerNoon stories.
 
-### [82. Why You're the Only One Who Cares About Bitcoin & Cryptocurrencies](https://hackernoon.com/why-youre-the-only-one-who-cares-about-bitcoin-and-cryptocurrency-piq36q6)
+### [83. Why You're the Only One Who Cares About Bitcoin & Cryptocurrencies](https://hackernoon.com/why-youre-the-only-one-who-cares-about-bitcoin-and-cryptocurrency-piq36q6)
 ![](https://cdn.hackernoon.com/drafts/j4sc36xf.png)
 Cryptocurrency has an odd and insular community.
-
-### [83. Seven Stages of Empire](https://hackernoon.com/seven-stages-of-empire)
-![](https://cdn.hackernoon.com/images/7XySryL7eBZuFZKjRrt7WZ4k61G3-wb33af4.jpeg)
-Your true wealth is your time and freedom. Money is just a tool for trading and acts as a container to store your economic energy unit when you want to use it.
 
 ### [84. The Case for Alternate Systems of Money in Today's World](https://hackernoon.com/the-case-for-alternate-systems-of-money-in-todays-world-6a333yee)
 ![](https://cdn.hackernoon.com/drafts/nzb7s323j.png)
 During World War I, there was a general shortage of metals to mint low-value coins for everyday commerce. Austrian and German institutions from banks to municipalities to utility companies started circulating their own form of money without authorization from the central government. These took the form of colorful paper notes for "emergency money" or notgeld that are a valued collectors item to this day. 
 
-### [85. 5 Ways Open Finance is Changing Money Forever](https://hackernoon.com/5-ways-open-finance-is-changing-money-forever-28o44z2)
+### [85. Monetized Comments: The Quickest Way to Get Paid Online?](https://hackernoon.com/monetized-comments-the-quickest-way-to-get-paid-online)
+![](https://cdn.hackernoon.com/images/y05RBbFBGlU7NtaiX3bYLSnMjfL2-x3a2puw.jpeg)
+Reader comments on openDemocracy can be highlighted and receive micropayments. This feature changes the way we fund public debate.
+
+### [86. 5 Ways Open Finance is Changing Money Forever](https://hackernoon.com/5-ways-open-finance-is-changing-money-forever-28o44z2)
 ![](https://cdn.hackernoon.com/drafts/3dlf444b.png)
 What if your money was intelligent and could lend itself out to the highest interest rate or how about a no-loss lottery where you always get your initial money back, or perhaps you'd like to receive your paycheck on a daily basis rather than monthly. Well, this is all possible today.
 
-### [86. Cryptocurrency is Just Getting Started](https://hackernoon.com/cryptocurrency-is-just-getting-started-3118344t)
+### [87. Cryptocurrency is Just Getting Started](https://hackernoon.com/cryptocurrency-is-just-getting-started-3118344t)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-713135fi.png)
 Despite bitcoin hitting new all-time highs, cryptocurrency is still a very small market. How big could it grow?
 
-### [87. Make it Easy on Me: How to Easily Invest in Crypto Even if You Have No Time ](https://hackernoon.com/make-it-easy-on-me-how-to-invest-in-crypto-even-if-you-have-not-had-the-time-to-choose)
+### [88. Make it Easy on Me: How to Easily Invest in Crypto Even if You Have No Time ](https://hackernoon.com/make-it-easy-on-me-how-to-invest-in-crypto-even-if-you-have-not-had-the-time-to-choose)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-rya3wmn.jpeg)
 Bogle believed that “investing is for everyone.” 
 
-### [88. Why You Should Chase Interesting Problems, Not Money](https://hackernoon.com/why-you-should-chase-interesting-problems-not-money-y0y35kl)
+### [89. Why You Should Chase Interesting Problems, Not Money](https://hackernoon.com/why-you-should-chase-interesting-problems-not-money-y0y35kl)
 ![](https://cdn.hackernoon.com/images/m0roYAZBrtccjJeRbrYxPDpnmlw1-fk3f34bb.jpeg)
 Feeling dissatisfied with your career? We grow up with the lie that money makes everything right. And it doesn't. Here's why. 
 
-### [89. How To Prevent Your Property From Being Taken By Eminent Domain](https://hackernoon.com/how-to-prevent-your-property-from-being-taken-by-eminent-domain-gzy33qx)
+### [90. How To Prevent Your Property From Being Taken By Eminent Domain](https://hackernoon.com/how-to-prevent-your-property-from-being-taken-by-eminent-domain-gzy33qx)
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-r12w33id.jpeg)
 A closer look on how to protect your property from eminent domain.
-
-### [90. Monetized Comments: The Quickest Way to Get Paid Online?](https://hackernoon.com/monetized-comments-the-quickest-way-to-get-paid-online)
-![](https://cdn.hackernoon.com/images/y05RBbFBGlU7NtaiX3bYLSnMjfL2-x3a2puw.jpeg)
-Reader comments on openDemocracy can be highlighted and receive micropayments. This feature changes the way we fund public debate.
 
 ### [91. Bitcoin and FIAT Money: The Past, Present, And The Future](https://hackernoon.com/bitcoin-and-fiat-money-the-past-present-and-the-future-9i7x32fw)
 ![](https://images.unsplash.com/photo-1554386690-cc2d52c7f3d6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -375,26 +377,26 @@ The popular and most successful cryptocurrency to date, Bitcoin, has continued t
 ![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-7aug31ci.jpeg)
 Do not fool yourself, your identity is on the Dark Web already.
 
-### [93. Crypto Market Seems to Recover - Can You Still Make Profits?](https://hackernoon.com/crypto-market-seems-to-recover-can-you-still-make-profits)
+### [93. History & Evolution of Fiat Money To Digital Assets](https://hackernoon.com/history-and-evolution-of-fiat-money-to-digital-assets)
+![](https://cdn.hackernoon.com/images/4LKlOHT8BtURWNF54Dmjj74h57s2-e1a30w1.jpeg)
+Currency is a vast subject, understanding the history of money opens the door to a deeper appreciation of digital assets and commodity-backed digital currencies
+
+### [94. Crypto Market Seems to Recover - Can You Still Make Profits?](https://hackernoon.com/crypto-market-seems-to-recover-can-you-still-make-profits)
 ![](https://cdn.hackernoon.com/images/GASQffVfuFWjW8ie6BuhOzznCLt1-2f93ony.jpeg)
 In this article here, we will examine some of the top trading strategies you can use to make money in the cryptocurrency bear market.
 
 
-### [94. History & Evolution of Fiat Money To Digital Assets](https://hackernoon.com/history-and-evolution-of-fiat-money-to-digital-assets)
-![](https://cdn.hackernoon.com/images/4LKlOHT8BtURWNF54Dmjj74h57s2-e1a30w1.jpeg)
-Currency is a vast subject, understanding the history of money opens the door to a deeper appreciation of digital assets and commodity-backed digital currencies
+### [95. NFTs: Beyond Monkey Jpegs and Flipping](https://hackernoon.com/nfts-beyond-monkey-jpegs-and-flipping)
+![](https://cdn.hackernoon.com/images/nf-ts-beyond-monkey-jpegs-and-flipping-h5w7djk32aw2irse6aam20rg.png)
+NFTs are not bad. It aims to infuse so many benefits, some of which are still unscratched. 
 
-### [95. Rich Man Values Gold, His Son Values Bitcoin](https://hackernoon.com/rich-man-values-gold-his-son-values-bitcoin-7t113ezq)
+### [96. Rich Man Values Gold, His Son Values Bitcoin](https://hackernoon.com/rich-man-values-gold-his-son-values-bitcoin-7t113ezq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fn5ld9fKE5xhTwn7KxPGA8cNuAi42-bt73w96.jpeg?alt=media&token=93d443d2-4fe1-4d7e-a868-ff13df8e2d46)
 How do the rich get richer? At the poker table, it's simple, when you have more chips, you have earned the right to lie more often. 
 
-### [96. Blockchain Regulation Confusions](https://hackernoon.com/blockchain-regulation-confusion-an-overview-f7723z0t)
+### [97. Blockchain Regulation Confusions](https://hackernoon.com/blockchain-regulation-confusion-an-overview-f7723z0t)
 ![](https://hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-wv8239l.jpeg)
 When listening to regulators, it becomes apparent that there's still a wide gap in understanding decentralized technologies, including blockchains. First off, blockchain technology (BT) is not the same as blockchain. The former refers to an advanced encryption scheme, and is mentioned as such in reference two of the Bitcoin Whitepaper. Bitcoin and other blockchains utilize this hashing and time-stamping schema in their architecture towards the three main innovations: smart contracts, digital bearer instruments, and decentralized autonomous organization structures. Well, it's technically just one, since the latter two are made-off the first.
-
-### [97. NFTs: Beyond Monkey Jpegs and Flipping](https://hackernoon.com/nfts-beyond-monkey-jpegs-and-flipping)
-![](https://cdn.hackernoon.com/images/nf-ts-beyond-monkey-jpegs-and-flipping-h5w7djk32aw2irse6aam20rg.png)
-NFTs are not bad. It aims to infuse so many benefits, some of which are still unscratched. 
 
 ### [98. Stop Listening to Interest-as-Income Advice by Crypto 'Experts'](https://hackernoon.com/stop-listening-to-interest-as-income-advice-by-crypto-experts)
 ![](https://cdn.hackernoon.com/images/ozQaVbvb1Va2Vp5YebrDI2AOVrJ2-sn037dr.jpeg)
@@ -408,54 +410,54 @@ Fresh off the German government’s decision to let banks store and sell cryptoc
 ![](https://cdn.hackernoon.com/images/NbkygUB9G6Zx5nmHwA4JRCtfZkr2-i32r35a4.jpeg)
 There has been a lot of talk about a dollar collapse and the rise of inflation recently. 
 
-### [101. The Time to Think In Satoshis Has Come](https://hackernoon.com/the-time-to-think-in-satoshis-has-come)
+### [101. Bitcoin’s Role in the Biggest Pump-and-Dump in Human History](https://hackernoon.com/bitcoins-role-in-the-biggest-pump-and-dump-in-human-history)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-2zb3sha.jpeg)
+FTX’s demise, potential collapse of USDT Tether, tightest monetary environment in a generation, looming global recession, and bitcoin plays a role.
+
+### [102. The Time to Think In Satoshis Has Come](https://hackernoon.com/the-time-to-think-in-satoshis-has-come)
 ![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-vm23b49.jpeg)
 If talking in terms of Satoshi will become the norm in the future, thinking in Satoshi must become the norm now to encourage mainstream adoption of Bitcoin.
 
-### [102. The Difference Between Crypto Trading and Crypto Investing](https://hackernoon.com/the-difference-between-crypto-trading-and-crypto-investing)
+### [103. The Difference Between Crypto Trading and Crypto Investing](https://hackernoon.com/the-difference-between-crypto-trading-and-crypto-investing)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-420383y.jpeg)
 You can trade or invest, but not both
 
-### [103. Money: A Basketcase [A Deep Dive]](https://hackernoon.com/money-a-basketcase-a-deep-dive-bl5k32tp)
+### [104. Money: A Basketcase [A Deep Dive]](https://hackernoon.com/money-a-basketcase-a-deep-dive-bl5k32tp)
 ![](https://cdn.hackernoon.com/drafts/ng40p3ybt.png)
 The failures of the USD as a global reserve currency mean
 that we must reimagine money.
 
-### [104. Bitcoin’s Role in the Biggest Pump-and-Dump in Human History](https://hackernoon.com/bitcoins-role-in-the-biggest-pump-and-dump-in-human-history)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-2zb3sha.jpeg)
-FTX’s demise, potential collapse of USDT Tether, tightest monetary environment in a generation, looming global recession, and bitcoin plays a role.
-
-### [105. Doughnut Economics in Amsterdam Prove 'Economy or Life' to be a False Dichotomy](https://hackernoon.com/doughnut-economics-in-amsterdam-prove-economy-or-life-to-be-a-false-dichotomy-uvjl3t8o)
-![](https://cdn.hackernoon.com/drafts/j53n3ywt.png)
-Wherever you are in this world, the chances are that you are living in some form of lockdown. A few countries have been able to relax the restrictions a bit earlier than others, mostly because they acted quickly, while others that are still experiencing high numbers of infections and deaths are easing their restrictions. Why are they taking this risk? Because ‘they’, and we’re mostly talking about the USA and the United Kingdom in this respect, appear to be more concerned about the economy than peoples’ lives.
+### [105. Uncovering the Dark Truth Behind De Hek and Kassam - Liars Targeting Apollo Fintech](https://hackernoon.com/a-friendly-reminder-that-cryptocurrency-is-the-future-of-money-j62w3uir)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY6FmFn0ZIfO15FTb4oUA3EXBVCr2-s9m28hl.jpeg?alt=media&token=1b0aff94-97d3-4fbf-941a-86ef7012c452)
+So far, the cryptocurrency industry has grown to be one of the most lucrative in the world. After a decade of existence, Bitcoin has so far become the best performing asset – period. Statistics from last year show that Bitcoin was the best –performing investment class of the year, as well as the past decade.
 
 ### [106. How Much Money is Enough Money?🥲](https://hackernoon.com/how-much-money-is-enough-money)
 ![](https://cdn.hackernoon.com/images/ZuocuvgiRXTKEUI9f6h0Nv3xDXZ2-yt93qvf.jpeg)
 This Slogging thread by Manas Goel, Valentine Enedah, GemInRubbles, Mónica Freitas and Sara Pinto occurred in slogging's official #random channel, and has been edited for readability.
 
-### [107. Uncovering the Dark Truth Behind De Hek and Kassam - Liars Targeting Apollo Fintech](https://hackernoon.com/a-friendly-reminder-that-cryptocurrency-is-the-future-of-money-j62w3uir)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY6FmFn0ZIfO15FTb4oUA3EXBVCr2-s9m28hl.jpeg?alt=media&token=1b0aff94-97d3-4fbf-941a-86ef7012c452)
-So far, the cryptocurrency industry has grown to be one of the most lucrative in the world. After a decade of existence, Bitcoin has so far become the best performing asset – period. Statistics from last year show that Bitcoin was the best –performing investment class of the year, as well as the past decade.
+### [107. Doughnut Economics in Amsterdam Prove 'Economy or Life' to be a False Dichotomy](https://hackernoon.com/doughnut-economics-in-amsterdam-prove-economy-or-life-to-be-a-false-dichotomy-uvjl3t8o)
+![](https://cdn.hackernoon.com/drafts/j53n3ywt.png)
+Wherever you are in this world, the chances are that you are living in some form of lockdown. A few countries have been able to relax the restrictions a bit earlier than others, mostly because they acted quickly, while others that are still experiencing high numbers of infections and deaths are easing their restrictions. Why are they taking this risk? Because ‘they’, and we’re mostly talking about the USA and the United Kingdom in this respect, appear to be more concerned about the economy than peoples’ lives.
 
 ### [108. People Will Not Care About Cryptocurrencies Until THIS One Thing Changes](https://hackernoon.com/people-will-not-care-about-cryptocurrency-until-one-thing-changes-z6s335l)
 ![](https://cdn.hackernoon.com/drafts/vnkj33c1.png)
 This Tweet:
 
-### [109. Kava Launches Harvest.io - World’s First Cross-chain Money Market ](https://hackernoon.com/kava-launches-harvestio-worlds-first-cross-chain-money-market-zp1q3w7n)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-olz3wnh.jpeg?alt=media&token=ae5cd0b5-45cf-489f-91bd-b5b581d6cb43)
-Decentralized finance project Kava launches cross-chain money market Harvest.io. The media is calling Kava, the "Apple App Store of DeFi" because the platform enables app developers to quickly deploy DeFi apps using its cross-chain infrastructure and framework. 
-
-### [110. Wall Street Wants All Of Your Bitcoin](https://hackernoon.com/wall-street-wants-all-of-your-bitcoin-b61k34g6)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-a130317r.jpeg)
-I know a few people in finance.
-
-### [111. The Science of Getting Rich: Chapter 6](https://hackernoon.com/the-science-of-getting-rich-chapter-6)
+### [109. The Science of Getting Rich: Chapter 6](https://hackernoon.com/the-science-of-getting-rich-chapter-6)
 ![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-mq93va0.jpeg)
 The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series. 
 
-### [112. The Art of Money Getting or, Golden Rules for Making Money - Chapter 19](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-19)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-eo9329f.jpeg)
-The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
+### [110. Kava Launches Harvest.io - World’s First Cross-chain Money Market ](https://hackernoon.com/kava-launches-harvestio-worlds-first-cross-chain-money-market-zp1q3w7n)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-olz3wnh.jpeg?alt=media&token=ae5cd0b5-45cf-489f-91bd-b5b581d6cb43)
+Decentralized finance project Kava launches cross-chain money market Harvest.io. The media is calling Kava, the "Apple App Store of DeFi" because the platform enables app developers to quickly deploy DeFi apps using its cross-chain infrastructure and framework. 
+
+### [111. Wall Street Wants All Of Your Bitcoin](https://hackernoon.com/wall-street-wants-all-of-your-bitcoin-b61k34g6)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-a130317r.jpeg)
+I know a few people in finance.
+
+### [112. Crypto Supercycle 2025? Elliott Waves Tell the True Story](https://hackernoon.com/crypto-supercycle-2025-elliott-waves-tell-the-true-story)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-u7039lx.png)
+Elliott Wave theory says Bitcoin and the crypto market may have completed wave 5, the final wave before a crash.
 
 ### [113. The Science of Getting Rich: Chapter 14](https://hackernoon.com/the-science-of-getting-rich-chapter-14)
 ![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-qb93ke4.jpeg)
@@ -463,62 +465,62 @@ The Science of Getting Rich  by Wallace D. Wattles is part of
 [HackerNoon’s Book Blog Post series](https://hackernoon.com/u/hackernoonbooks) . The table of Links for this book can be found here:
 [https://app.hackernoon.com/drafts/0rPO8JkhRaDY0rLVCaVL] (https://app.hackernoon.com/drafts/0rPO8JkhRaDY0rLVCaVL*)
 
-### [114. Why Cryptocurrency Doesn’t Need to Compete With Government Money](https://hackernoon.com/why-cryptocurrency-doesnt-need-to-compete-with-government-money-fe143ykf)
+### [114. The Art of Money Getting or, Golden Rules for Making Money - Chapter 19](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-19)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-eo9329f.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
+
+### [115. "We need to change our mindset about wealth" ft. Linh Dao Smooke & Host An Truong of Vietcetera](https://hackernoon.com/we-need-to-change-our-mindset-about-wealth-ft-linh-dao-smooke-and-host-an-truong-of-vietcetera)
+![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-yz9330f.jpeg)
+What we (really) talk about when we talk about money, how HackerNoon (actually) makes money, and my personal wealth. All are discussed in this hour long podcast
+
+### [116. One Thousand Ways to Make Money by PageFox - Table of Links](https://hackernoon.com/one-thousand-ways-to-make-money-by-pagefox-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-ez93qrh.jpeg)
+One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series.
+
+### [117. Why Cryptocurrency Doesn’t Need to Compete With Government Money](https://hackernoon.com/why-cryptocurrency-doesnt-need-to-compete-with-government-money-fe143ykf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-2jz3yk9.webp?alt=media&token=ea9f57c7-f006-4859-b522-f5a675daf33d)
 As the global financial crisis accelerates, cryptocurrency has returned to mainstream public discourse. You know bitcoin has reached some level of legitimacy when Bloomberg Radio quotes its price.
 
-### [115. Crypto Supercycle 2025? Elliott Waves Tell the True Story](https://hackernoon.com/crypto-supercycle-2025-elliott-waves-tell-the-true-story)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-u7039lx.png)
-Elliott Wave theory says Bitcoin and the crypto market may have completed wave 5, the final wave before a crash.
-
-### [116. The Great Hijacking of the Bitcoin Revolution Has Begun](https://hackernoon.com/the-great-hijacking-of-the-bitcoin-revolution-has-begun)
+### [118. The Great Hijacking of the Bitcoin Revolution Has Begun](https://hackernoon.com/the-great-hijacking-of-the-bitcoin-revolution-has-begun)
 ![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-u5139up.jpeg)
 BlackRock, other financial giants, banks, financial institutions, Michael J. Saylor, and others are complicit in a veritable theft.
 
 
-### [117. One Thousand Ways to Make Money by PageFox - Table of Links](https://hackernoon.com/one-thousand-ways-to-make-money-by-pagefox-table-of-links)
-![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-ez93qrh.jpeg)
-One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series.
-
-### [118. How to Create a Billion-Dollar Business on a Budget](https://hackernoon.com/how-to-create-a-billion-dollar-business-on-a-budget)
+### [119. How to Create a Billion-Dollar Business on a Budget](https://hackernoon.com/how-to-create-a-billion-dollar-business-on-a-budget)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-4l13olb.jpeg)
 The lessons learned in business can make you happier, wealthier and give you more free time.
 
-### [119. The Bitcoin Millionaire Fastlane Currently Costs $637 USD](https://hackernoon.com/the-bitcoin-millionaire-fastlane-only-costs-dollar637-usd)
+### [120. The Bitcoin Millionaire Fastlane Currently Costs $637 USD](https://hackernoon.com/the-bitcoin-millionaire-fastlane-only-costs-dollar637-usd)
 ![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-fm139qg.jpeg)
 True wealth is not about having more and more money, but about having the freedom to use your money. That's exactly what Bitcoin allows.
-
-### [120. Barter to Bitcoin: The Evolution of Money Through The Ages](https://hackernoon.com/barter-to-bitcoin-the-evolution-of-money-through-the-ages-m03c34a9)
-![](https://cdn.hackernoon.com/images/wYVsaB2md5QrfgtiJtxj5uzlACo2-tc1c3ihk.jpeg)
-The last few years the interest for cryptocurrencies and blockchain technology has skyrocketed. Many financial institutions and companies have invested in...
 
 ### [121. Monetary Systems and The Future ](https://hackernoon.com/monetary-systems-and-the-future)
 ![](https://cdn.hackernoon.com/images/PDUSNhPZdqOLSb59OQHawDU0wR82-1w93n4v.jpeg)
 The future of money and the dollar in the world of crypto and Central Bank Digital Currencies - CBDC. What will change and how it might look like?
 
-### [122. You Will Buy Crypto at Higher Prices, But Not Today](https://hackernoon.com/you-will-buy-crypto-at-higher-prices-but-not-today)
+### [122. Barter to Bitcoin: The Evolution of Money Through The Ages](https://hackernoon.com/barter-to-bitcoin-the-evolution-of-money-through-the-ages-m03c34a9)
+![](https://cdn.hackernoon.com/images/wYVsaB2md5QrfgtiJtxj5uzlACo2-tc1c3ihk.jpeg)
+The last few years the interest for cryptocurrencies and blockchain technology has skyrocketed. Many financial institutions and companies have invested in...
+
+### [123. You Will Buy Crypto at Higher Prices, But Not Today](https://hackernoon.com/you-will-buy-crypto-at-higher-prices-but-not-today)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-dt93som.jpeg)
 As the world falls apart, cryptocurrency's too risky - but if you wait for prices to go higher, you will only get more risk for less reward.
 
-### [123. If you had infinite money, no job, and no responsibilities, what would you do...](https://hackernoon.com/if-you-had-infinite-money-no-job-and-no-responsibilities-what-would-you-do-dg1722fb)
+### [124. If you had infinite money, no job, and no responsibilities, what would you do...](https://hackernoon.com/if-you-had-infinite-money-no-job-and-no-responsibilities-what-would-you-do-dg1722fb)
 ![](https://cdn.hackernoon.com/images/VK3VPElfEfgTBhNrSSYpDaCpam42-zjg22xa.jpeg)
 This Slack discussion by austin, Linh and Dane occurred in hackernoon's official #slogging-beta channel, and has been edited for readability.
-
-### [124. "We need to change our mindset about wealth" ft. Linh Dao Smooke & Host An Truong of Vietcetera](https://hackernoon.com/we-need-to-change-our-mindset-about-wealth-ft-linh-dao-smooke-and-host-an-truong-of-vietcetera)
-![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-yz9330f.jpeg)
-What we (really) talk about when we talk about money, how HackerNoon (actually) makes money, and my personal wealth. All are discussed in this hour long podcast
 
 ### [125. Blockchain Investing 101](https://hackernoon.com/blockchain-investing-101-402u33pn)
 ![](https://hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-61923k0.jpeg)
 The largest opportunities for profits are frequently found at the introduction of new disruptive technologies. An often-cited example of this observation is the emergence of the internet and the World Wide Web, which created some of the most notable investment opportunities in recent decades. Companies such as Google, Amazon and Facebook turned hundreds of their employees into millionaires and made billionaires of some of their founders and early investors.
 
-### [126. The Crypto State of Affairs in 2021](https://hackernoon.com/the-crypto-state-of-affairs-in-2021-283e37l4)
-![](https://cdn.hackernoon.com/images/r633U8vKGhQp66FOBDmgOkw0J472-r21d35os.jpeg)
-The stories to track regarding government regulation that will determine the future of cryptocurrency.
-
-### [127. How MicroStrategy Exposes the Absurdity of the Stock Market](https://hackernoon.com/how-microstrategy-exposes-the-absurdity-of-the-stock-market)
+### [126. How MicroStrategy Exposes the Absurdity of the Stock Market](https://hackernoon.com/how-microstrategy-exposes-the-absurdity-of-the-stock-market)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-nn039ng.jpeg)
 It's all made up and the points don't matter.
+
+### [127. The Crypto State of Affairs in 2021](https://hackernoon.com/the-crypto-state-of-affairs-in-2021-283e37l4)
+![](https://cdn.hackernoon.com/images/r633U8vKGhQp66FOBDmgOkw0J472-r21d35os.jpeg)
+The stories to track regarding government regulation that will determine the future of cryptocurrency.
 
 ### [128. The Art of Money Getting or, Golden Rules for Making Money  - Table of Links](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-table-of-links)
 ![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-co93u1v.jpeg)
@@ -541,17 +543,17 @@ In a previous article, we outlined investment opportunities in companies utilizi
 ![](https://cdn.hackernoon.com/images/dmz32af.jpg)
 Bitcoin is dead.
 
-### [133. We Built A Trader's Almanac And The Results Are Promising](https://hackernoon.com/we-built-a-traders-almanac-and-the-results-are-promising-0j2z34gu)
-![](https://cdn.hackernoon.com/images/qwlVSFUNhGO3DAw4hoBd17XGTAC2-5x4i340k.jpeg)
-ANN
-
-### [134. How To Fall Victim to Cyber Scammers](https://hackernoon.com/how-to-fall-victim-to-cyber-scammers)
+### [133. How To Fall Victim to Cyber Scammers](https://hackernoon.com/how-to-fall-victim-to-cyber-scammers)
 ![](https://cdn.hackernoon.com/images/7kL2qGvz0EMioZPUQK1EKKpqxG62-jv93o3b.jpeg)
 Cybersecurity has become more important as over 7 billion dollars was lost to hackers in 2021 and Forbes...
 
-### [135. What Does Total Compensation Really Mean?](https://hackernoon.com/what-does-total-compensation-really-mean)
+### [134. What Does Total Compensation Really Mean?](https://hackernoon.com/what-does-total-compensation-really-mean)
 ![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-f493p9h.jpeg)
 It is common to think of compensation purely as salary – money you get paid for the work you do. But many people get compensated with more than just salary.
+
+### [135. We Built A Trader's Almanac And The Results Are Promising](https://hackernoon.com/we-built-a-traders-almanac-and-the-results-are-promising-0j2z34gu)
+![](https://cdn.hackernoon.com/images/qwlVSFUNhGO3DAw4hoBd17XGTAC2-5x4i340k.jpeg)
+ANN
 
 ### [136. Economics, Crypto, and Really Smart Women](https://hackernoon.com/economics-crypto-and-really-smart-women)
 ![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-j303673.jpeg)
@@ -565,25 +567,25 @@ This article is about the haves and the have-nots. 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-tr153t6l.jpeg?alt=media&token=7248b83e-dd69-47a0-a154-66044b147e43)
 Relative Strength Index (RSI) is another staple indicator of the technical analysis world. What is the Relative Strength Index?  It measures the speed and change of price movements to evaluate if a stock is overbought or oversold. A wildly popular tool among traders, it is also widely misunderstood.
 
-### [139. Here's Why We Need Bitcoin [Part I]](https://hackernoon.com/heres-why-we-need-bitcoin-part-i-np2l3yzl)
-![](https://images.unsplash.com/photo-1526913299589-f35a3ddeb7ae?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-The objective of this series of posts is to show why Bitcoin is a better form of money than the ones we currently use. For that, however, we first need to think about some fundamental concepts without which considering Bitcoin in a serious way is impossible. 
-
-### [140. One Thousand Ways to Make Money, November 2017 by Page Fox: Preface](https://hackernoon.com/one-thousand-ways-to-make-money-november-2017-by-page-fox-preface)
+### [139. One Thousand Ways to Make Money, November 2017 by Page Fox: Preface](https://hackernoon.com/one-thousand-ways-to-make-money-november-2017-by-page-fox-preface)
 ![](https://cdn.hackernoon.com/images/Dh779CmdTWcT0wfGv6t0L3Zkjkj1-eg93t1c.jpeg)
 One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series.
 
-### [141. Why Bitcoin’s Pi Cycle May Fail to Spot the Top in 2025](https://hackernoon.com/why-bitcoins-pi-cycle-may-fail-to-spot-the-top-in-2025)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-3d038bh.jpeg)
-The most "accurate" indicator may not flash this cycle
+### [140. Here's Why We Need Bitcoin [Part I]](https://hackernoon.com/heres-why-we-need-bitcoin-part-i-np2l3yzl)
+![](https://images.unsplash.com/photo-1526913299589-f35a3ddeb7ae?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+The objective of this series of posts is to show why Bitcoin is a better form of money than the ones we currently use. For that, however, we first need to think about some fundamental concepts without which considering Bitcoin in a serious way is impossible. 
 
-### [142. It Can Never Be Too Late to Get Into Bitcoin: Here's Why](https://hackernoon.com/it-can-never-be-too-late-to-get-into-bitcoin-heres-why)
+### [141. It Can Never Be Too Late to Get Into Bitcoin: Here's Why](https://hackernoon.com/it-can-never-be-too-late-to-get-into-bitcoin-heres-why)
 ![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-fb838wc.jpeg)
 The reason lies in the profound meaning of the Bitcoin revolution.
 
-### [143. The Man Who Takes His Bank to Bed With Him](https://hackernoon.com/the-man-who-takes-his-bank-to-bed-with-him)
+### [142. The Man Who Takes His Bank to Bed With Him](https://hackernoon.com/the-man-who-takes-his-bank-to-bed-with-him)
 ![](https://cdn.hackernoon.com/images/Dh779CmdTWcT0wfGv6t0L3Zkjkj1-7x93l33.jpeg)
 One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series. 
+
+### [143. Why Bitcoin’s Pi Cycle May Fail to Spot the Top in 2025](https://hackernoon.com/why-bitcoins-pi-cycle-may-fail-to-spot-the-top-in-2025)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-3d038bh.jpeg)
+The most "accurate" indicator may not flash this cycle
 
 ### [144. Ignoring the Billionaires](https://hackernoon.com/ignoring-the-billionaires)
 ![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-k593sh0.jpeg)
@@ -601,49 +603,49 @@ Sex, money, tech and power. OnlyFans, a social media platform created to share e
 ![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-5r3n34ce.jpeg)
 Ever wondered how to save enough money in a short period of time? Find out how to save money fast and build that stash for a rainy day.
 
-### [148. 5 Ways To Earn an Income During the Pandemic](https://hackernoon.com/5-ways-to-earn-an-income-during-the-pandemic-ub4x3w5b)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-hv3s3wny.jpeg?alt=media&token=fa695824-8d2d-43ba-99cc-12d28213395b)
-One global recession in a single generation drives major changes in the economy and business landscape. Imagine dealing with two. Millennials (born between 1981 to 1996) are more affected by the 2009 recession and COVID-19 pandemic since their financial footing is much worse than their predecessors. The International Monetary Fund (IMF) deems that the economic toll due to the lockdown is much worse than the Great Depression. 
-
-### [149. The Art of Money Getting or, Golden Rules for Making Money - Chapter 6](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-6)
+### [148. The Art of Money Getting or, Golden Rules for Making Money - Chapter 6](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-6)
 ![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-yh93v9m.jpeg)
 The Art of Money Getting or, Golden Rules for Making Money by P. T. Barnum is part of HackerNoon’s Book Blog Post series. 
+
+### [149. 5 Ways To Earn an Income During the Pandemic](https://hackernoon.com/5-ways-to-earn-an-income-during-the-pandemic-ub4x3w5b)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAURTLQvt67O9A2fTYbN0UXvtzYI3-hv3s3wny.jpeg?alt=media&token=fa695824-8d2d-43ba-99cc-12d28213395b)
+One global recession in a single generation drives major changes in the economy and business landscape. Imagine dealing with two. Millennials (born between 1981 to 1996) are more affected by the 2009 recession and COVID-19 pandemic since their financial footing is much worse than their predecessors. The International Monetary Fund (IMF) deems that the economic toll due to the lockdown is much worse than the Great Depression. 
 
 ### [150. 5 Ways DeFi Is Impacted By the Adoption of Embedded Finance in the Blockchain Industry](https://hackernoon.com/5-ways-defi-is-impacted-by-the-adoption-of-embedded-finance-in-the-blockchain-industry)
 ![](https://cdn.hackernoon.com/images/QWt6cm7ViVQr25sXjRQV0zeXHD53-zi92iq0.jpeg)
 The integration of financial services by non-financial organisations is referred to as embedded finance. This system has changed the way we engage with money.
 
-### [151. The Science of Getting Rich: Chapter 8](https://hackernoon.com/the-science-of-getting-rich-chapter-8)
-![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-co93vju.jpeg)
-The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series.
-
-### [152. Why Bitcoin Matters to Millennials](https://hackernoon.com/why-bitcoin-matters-to-millennials-uky3wfe)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNgBhuMTisXRHJvE5E2S3MKsexy52-av530t8.jpeg?alt=media&token=beb39b42-319a-4e4b-9061-ecc46d2a30fe)
-With bitcoin’s price booming and its market cap reaching all-time highs, you can excuse people for getting excited. When money talks, people listen.
-
-### [153. The Science of Getting Rich: Chapter 11](https://hackernoon.com/the-science-of-getting-rich-chapter-11)
+### [151. The Science of Getting Rich: Chapter 11](https://hackernoon.com/the-science-of-getting-rich-chapter-11)
 ![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-1a93vks.jpeg)
 The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series.
 
-### [154. Saving for the Future - Deception in the Financial Status Quo](https://hackernoon.com/saving-for-the-future-deception-in-the-financial-status-quo)
-![](https://cdn.hackernoon.com/images/qYpg1wCoJ2aLK94FtDwa3V5WoBV2-kl93470.jpeg)
-Deception in the age of fintech and investment savings.
+### [152. The Science of Getting Rich: Chapter 8](https://hackernoon.com/the-science-of-getting-rich-chapter-8)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-co93vju.jpeg)
+The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series.
 
-### [155. Is Crypto Lending Worth it?](https://hackernoon.com/is-crypto-lending-worth-it-tb4r3oxv)
-![](https://cdn.hackernoon.com/images/Kyy5p4Pob6VF0xa8TwiHQYZZ1QL2-y36f35m6.jpeg)
-Cryptocurrency is quickly rising as a popular form of digital currency. It wouldn’t be surprising if, in the future, most loans are done via crypto.
+### [153. Why Bitcoin Matters to Millennials](https://hackernoon.com/why-bitcoin-matters-to-millennials-uky3wfe)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNgBhuMTisXRHJvE5E2S3MKsexy52-av530t8.jpeg?alt=media&token=beb39b42-319a-4e4b-9061-ecc46d2a30fe)
+With bitcoin’s price booming and its market cap reaching all-time highs, you can excuse people for getting excited. When money talks, people listen.
 
-### [156. The Greatest Cult In History Is Your Money (And Bitcoin Knows It)](https://hackernoon.com/the-greatest-cult-in-history-is-your-money-and-bitcoin-knows-it)
+### [154. The Greatest Cult In History Is Your Money (And Bitcoin Knows It)](https://hackernoon.com/the-greatest-cult-in-history-is-your-money-and-bitcoin-knows-it)
 ![](https://cdn.hackernoon.com/images/zPrD9dStcVNuGibdDrABkeDGapw1-bz0395k.jpeg)
 How modern fiat currency systems employ cult-like psychological manipulation techniques, and why Bitcoin might be our escape from financial indoctrination.
 
-### [157. The Current Debt-Based System Is Enslaving You](https://hackernoon.com/the-current-debt-based-system-is-enslaving-you)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-a593pa8.jpeg)
-It's time to start looking for a system that protects you. It starts with a B.
+### [155. Saving for the Future - Deception in the Financial Status Quo](https://hackernoon.com/saving-for-the-future-deception-in-the-financial-status-quo)
+![](https://cdn.hackernoon.com/images/qYpg1wCoJ2aLK94FtDwa3V5WoBV2-kl93470.jpeg)
+Deception in the age of fintech and investment savings.
 
-### [158. The Science of Getting Rich: Chapter 15](https://hackernoon.com/the-science-of-getting-rich-chapter-15)
+### [156. Is Crypto Lending Worth it?](https://hackernoon.com/is-crypto-lending-worth-it-tb4r3oxv)
+![](https://cdn.hackernoon.com/images/Kyy5p4Pob6VF0xa8TwiHQYZZ1QL2-y36f35m6.jpeg)
+Cryptocurrency is quickly rising as a popular form of digital currency. It wouldn’t be surprising if, in the future, most loans are done via crypto.
+
+### [157. The Science of Getting Rich: Chapter 15](https://hackernoon.com/the-science-of-getting-rich-chapter-15)
 ![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-6r93kx2.jpeg)
 The Science of Getting Rich  by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series.
+
+### [158. The Current Debt-Based System Is Enslaving You](https://hackernoon.com/the-current-debt-based-system-is-enslaving-you)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-a593pa8.jpeg)
+It's time to start looking for a system that protects you. It starts with a B.
 
 ### [159. Money vs Currency](https://hackernoon.com/money-vs-currency)
 ![](https://cdn.hackernoon.com/images/7XySryL7eBZuFZKjRrt7WZ4k61G3-4e23a8w.jpeg)
@@ -663,46 +665,46 @@ People lost so much money with crypto this year.
 ![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-ex93vq7.jpeg)
 The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series.
 
-### [163. xMoney Launches $XMN on Sui, Expands Listings Across Global Exchanges](https://hackernoon.com/xmoney-launches-$xmn-on-sui-expands-listings-across-global-exchanges)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-iu13gcm.jpeg)
-Following the launch, $XMN is now available across several leading exchanges, including Kraken, MEXC, Bluefin, BingX, and CoinEx.
+### [163. The Science of Getting Rich: Chapter 12](https://hackernoon.com/the-science-of-getting-rich-chapter-12)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-1493vyo.jpeg)
+The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series.
 
 ### [164. What is Money? And Can Bitcoin Function as a Reliable Means of Payment?](https://hackernoon.com/what-is-money-and-can-bitcoin-function-as-a-reliable-means-of-payment-wwk3esq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnyapelkGyweDWKbxBdZDhgNH5EI3-jzb3udr.jpeg?alt=media&token=b889e519-2abe-44e3-8964-610b26ff65bd)
 The global corona pandemic has not only turned all of our private lives upside down, but also changed the financial market considerably. Central banks are printing more money than they have done in a very long time out of an emergency situation, national debts are increasing and we have a record-high unemployment rate.
 
-### [165. The Science of Getting Rich: Chapter 12](https://hackernoon.com/the-science-of-getting-rich-chapter-12)
-![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-1493vyo.jpeg)
-The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series.
+### [165. One Thousand Ways to Make Money by Page Fox: Introduction](https://hackernoon.com/one-thousand-ways-to-make-money-by-page-fox-introduction)
+![](https://cdn.hackernoon.com/images/Dh779CmdTWcT0wfGv6t0L3Zkjkj1-6u93lpb.jpeg)
+One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series.
 
 ### [166. What Will Happen to Bitcoin When COVID-19 Ends?](https://hackernoon.com/what-will-happen-to-bitcoin-when-covid-19-ends-io223wwz)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-dzf28ev.jpeg?alt=media&token=119981a4-2325-45de-af69-1bd94718f5b4)
 “The global bastard,” COVID-19, continues to wreck everything, but this will change sooner than you think.
 
-### [167. When is an Asset "Digital"?](https://hackernoon.com/when-is-an-asset-digital-ta7930np)
-![](https://hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-vz923pa.jpeg)
-As outlined in an earlier article, blockchain-native digital bearer instruments such as Bitcoin's mining reward bitcoin introduced new concepts of ownership and value transfer, upsetting the order of enumerated asset classes heretofore seemingly complete. 
-
-### [168. 5 Tips for Negotiating Your Compensation](https://hackernoon.com/5-tips-for-negotiating-your-compensation)
+### [167. 5 Tips for Negotiating Your Compensation](https://hackernoon.com/5-tips-for-negotiating-your-compensation)
 ![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-cka3p6k.jpeg)
 Getting paid what you are worth can be a challenge, especially if you don’t know your worth. 
 
-### [169. Can Your Crypto Be A Currency?](https://hackernoon.com/can-your-crypto-be-a-currency-ay1n33dg)
+### [168. Understanding Money (and Crypto) Like a Programmer](https://hackernoon.com/understanding-money-and-crypto-like-a-programmer)
+![](https://cdn.hackernoon.com/images/mDnfhhvFedNRq47pIqUTurVZu0t1-qn03lvq.jpeg)
+Discover money and crypto through a programmer’s lens! This article breaks down money as a database, explores taxes, inflation, and central banks, and proposes
+
+### [169. When is an Asset "Digital"?](https://hackernoon.com/when-is-an-asset-digital-ta7930np)
+![](https://hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-vz923pa.jpeg)
+As outlined in an earlier article, blockchain-native digital bearer instruments such as Bitcoin's mining reward bitcoin introduced new concepts of ownership and value transfer, upsetting the order of enumerated asset classes heretofore seemingly complete. 
+
+### [170. Can Your Crypto Be A Currency?](https://hackernoon.com/can-your-crypto-be-a-currency-ay1n33dg)
 ![](https://cdn.hackernoon.com/images/WQwLTIlSFbglskJXmsVKScRarTa2-ms2535uk.jpeg)
 Explores the question of when an asset can be called money, particularly in the context of cryptocurrencies, role of supply/demand on volatility and stablecoins
 
-### [170. One Thousand Ways to Make Money by Page Fox: Introduction](https://hackernoon.com/one-thousand-ways-to-make-money-by-page-fox-introduction)
-![](https://cdn.hackernoon.com/images/Dh779CmdTWcT0wfGv6t0L3Zkjkj1-6u93lpb.jpeg)
-One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series.
-
-### [171. Popular Approaches For Making Fast Payments On Blockchain [Explained]](https://hackernoon.com/popular-approaches-for-making-fast-payments-on-blockchain-explained-9y3v3y37)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvcGEjJVESdeMxbOxtkNgIHkWzE22-t51m3uqa.jpeg?alt=media&token=18119e6c-f1b2-4863-8cb9-102d7ee6ab05)
-Hey! Hope you’re safe at home during the pandemic. During my free time at home nowadays, I read about blockchain. I’ve learned something really interesting about it and wanna share the same. Here I go!
-
-### [172. The Science of Getting: Chapter 1](https://hackernoon.com/the-science-of-getting-chapter-1)
+### [171. The Science of Getting: Chapter 1](https://hackernoon.com/the-science-of-getting-chapter-1)
 ![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-f093v5x.jpeg)
 The Science of Getting Rich  by Wallace D. Wattles is part of
  HackerNoon’s Book Blog Post series . The table of Links for this book can be found here.
+
+### [172. Popular Approaches For Making Fast Payments On Blockchain [Explained]](https://hackernoon.com/popular-approaches-for-making-fast-payments-on-blockchain-explained-9y3v3y37)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvcGEjJVESdeMxbOxtkNgIHkWzE22-t51m3uqa.jpeg?alt=media&token=18119e6c-f1b2-4863-8cb9-102d7ee6ab05)
+Hey! Hope you’re safe at home during the pandemic. During my free time at home nowadays, I read about blockchain. I’ve learned something really interesting about it and wanna share the same. Here I go!
 
 ### [173. Is the Reputation Economy a Dystopia? [Discussion]](https://hackernoon.com/the-dystopia-of-reputation-economies-imen3390)
 ![](https://cdn.hackernoon.com/drafts/2r4ii33oj.png)
@@ -720,80 +722,80 @@ The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Boo
 ![](https://cdn.hackernoon.com/images/gWfkbUlBjSN2Pau9FHoZODLg8aW2-pt93vq7.jpeg)
 Financial intelligence that’ll put you on Forbes’ billionaire list.
 
-### [177. 3 Step Guide to Starting a Podcast](https://hackernoon.com/3-step-guide-to-starting-a-podcast-6r613wui)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-x782rs5.jpeg)
-Nearly 55% people in America listen to podcasts each month, which translates to about 160 million people.
-
-### [178. 6 Techniques to Generate Revenue Using Chat APIs](https://hackernoon.com/6-techniques-to-generate-revenue-using-messaging-apis-oobn3yf5)
-![](https://cdn.hackernoon.com/drafts/lejp3t3w.png)
-In-App Chat allows Mobile Apps and Websites to improve their User Engagement, and achieve new use-cases. Whether it’s a conversation between – Service Providers and Customers in On-demand Services Apps, Doctors and Patients in Healthcare, Teachers and Parents in Education, Advisors and Investors in Finance Apps, Recruiters and Candidates in Jobs Apps, Attendees in Event Apps, or Prospects in Dating, effective Chat feature in the App can be used to empower all!
-
-### [179. The Art of Money Getting or, Golden Rules for Making Money - Chapter 2](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-part-2)
+### [177. The Art of Money Getting or, Golden Rules for Making Money - Chapter 2](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-part-2)
 ![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-vb93vl5.jpeg)
 The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
 
-### [180. Bitcoin As A Safe Haven Asset: An Evaluation](https://hackernoon.com/bitcoin-as-a-safe-haven-asset-an-evaluation-9y2i3wbe)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOLglkzDjdId2bqkryVFMTu3n33W2-wac3ekx.jpeg?alt=media&token=a87fa8aa-26bf-40a1-9d19-015ed90eb0eb)
-Bitcoin isn’t exactly a safe haven asset yet but its monetary policy and its long-term trajectory shows that it’s working it’s way there.
+### [178. 3 Step Guide to Starting a Podcast](https://hackernoon.com/3-step-guide-to-starting-a-podcast-6r613wui)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-x782rs5.jpeg)
+Nearly 55% people in America listen to podcasts each month, which translates to about 160 million people.
 
-### [181. The Keynote of a $20,000,000 Sale](https://hackernoon.com/the-keynote-of-a-dollar20000000-sale)
-![](https://cdn.hackernoon.com/images/Dh779CmdTWcT0wfGv6t0L3Zkjkj1-isa3lbx.jpeg)
-One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series. 
+### [179. 6 Techniques to Generate Revenue Using Chat APIs](https://hackernoon.com/6-techniques-to-generate-revenue-using-messaging-apis-oobn3yf5)
+![](https://cdn.hackernoon.com/drafts/lejp3t3w.png)
+In-App Chat allows Mobile Apps and Websites to improve their User Engagement, and achieve new use-cases. Whether it’s a conversation between – Service Providers and Customers in On-demand Services Apps, Doctors and Patients in Healthcare, Teachers and Parents in Education, Advisors and Investors in Finance Apps, Recruiters and Candidates in Jobs Apps, Attendees in Event Apps, or Prospects in Dating, effective Chat feature in the App can be used to empower all!
 
-### [182. The Art of Money Getting or, Golden Rules for Making Money - Chapter 20](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-20)
+### [180. The Art of Money Getting or, Golden Rules for Making Money - Chapter 9](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-9)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-q293v0b.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
+
+### [181. The Art of Money Getting or, Golden Rules for Making Money - Chapter 20](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-20)
 ![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-uo93v95.jpeg)
 The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
 
-### [183. The Art of Money Getting or, Golden Rules for Making Money - Chapter 9](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-9)
-![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-q293v0b.jpeg)
-The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
+### [182. Bitcoin As A Safe Haven Asset: An Evaluation](https://hackernoon.com/bitcoin-as-a-safe-haven-asset-an-evaluation-9y2i3wbe)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOLglkzDjdId2bqkryVFMTu3n33W2-wac3ekx.jpeg?alt=media&token=a87fa8aa-26bf-40a1-9d19-015ed90eb0eb)
+Bitcoin isn’t exactly a safe haven asset yet but its monetary policy and its long-term trajectory shows that it’s working it’s way there.
+
+### [183. The Keynote of a $20,000,000 Sale](https://hackernoon.com/the-keynote-of-a-dollar20000000-sale)
+![](https://cdn.hackernoon.com/images/Dh779CmdTWcT0wfGv6t0L3Zkjkj1-isa3lbx.jpeg)
+One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series. 
 
 ### [184. The Art of Money Getting or, Golden Rules for Making Money - Chapter 18](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-18)
 ![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-t393vwy.jpeg)
 The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
 
-### [185. Understanding Money (and Crypto) Like a Programmer](https://hackernoon.com/understanding-money-and-crypto-like-a-programmer)
-![](https://cdn.hackernoon.com/images/mDnfhhvFedNRq47pIqUTurVZu0t1-qn03lvq.jpeg)
-Discover money and crypto through a programmer’s lens! This article breaks down money as a database, explores taxes, inflation, and central banks, and proposes
-
-### [186. The Science of Getting Rich: Chapter 17](https://hackernoon.com/the-science-of-getting-rich-chapter-17)
+### [185. The Science of Getting Rich: Chapter 17](https://hackernoon.com/the-science-of-getting-rich-chapter-17)
 ![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-x493p6i.jpeg)
 The Science of Getting Rich  by Wallace D. Wattles is part of
  [HackerNoon’s Book Blog Post series](https://hackernoon.com/u/hackernoonbooks) . The table of Links for this book can be found here:
 [https://app.hackernoon.com/drafts/0rPO8JkhRaDY0rLVCaVL] (https://app.hackernoon.com/drafts/0rPO8JkhRaDY0rLVCaVL*)
 
 
-### [187. The Sovereign Individual: The Best Revolution is Forgetting](https://hackernoon.com/the-sovereign-individual-the-best-revolution-is-forgetting)
+### [186. The Sovereign Individual: The Best Revolution is Forgetting](https://hackernoon.com/the-sovereign-individual-the-best-revolution-is-forgetting)
 ![](https://cdn.hackernoon.com/images/BidO7U8T9IQmETD142QgQ3cMVSH3-st93oz0.jpeg)
 If only 49 were it...so many bad actors with billions.
 
-### [188. US Banks Will Soon Offer Bitcoin Custody: Is This The End of Bitcoin as a Tool for Self-Sovereignty?](https://hackernoon.com/us-banks-will-soon-offer-bitcoin-custody-is-this-the-end-of-bitcoin-as-a-tool-for-self-sovereignty)
-![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-6c239nn.jpeg)
-Is this the prelude to a government plan to ban BTC self-custody in the future?
-
-### [189. Understanding Digital Assets: How Cryptocurrencies, Tokens, and NFTs Differ](https://hackernoon.com/understanding-digital-assets-how-cryptocurrencies-tokens-and-nfts-differ)
+### [187. Understanding Digital Assets: How Cryptocurrencies, Tokens, and NFTs Differ](https://hackernoon.com/understanding-digital-assets-how-cryptocurrencies-tokens-and-nfts-differ)
 ![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-9u9385a.jpeg)
 The language in the crypto industry is lagging behind the evolution of its technology. Long used as an umbrella term for all digital assets "crypto" has ...
 
-### [190. Karma: an ERC20-compatible Alternative Money on the Ethereum Blockchain](https://hackernoon.com/karma-an-erc20-compatible-alternative-money-on-the-ethereum-blockchain)
+### [188. Karma: an ERC20-compatible Alternative Money on the Ethereum Blockchain](https://hackernoon.com/karma-an-erc20-compatible-alternative-money-on-the-ethereum-blockchain)
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-g592zot.jpeg)
 Karma: an ERC20-compatible alternative money on the Ethereum blockchain.
+
+### [189. US Banks Will Soon Offer Bitcoin Custody: Is This The End of Bitcoin as a Tool for Self-Sovereignty?](https://hackernoon.com/us-banks-will-soon-offer-bitcoin-custody-is-this-the-end-of-bitcoin-as-a-tool-for-self-sovereignty)
+![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-6c239nn.jpeg)
+Is this the prelude to a government plan to ban BTC self-custody in the future?
+
+### [190. The End of the Petrodollar With Bitcoin As the Big Winner? Mind You, It’s Not Quite That Simple!](https://hackernoon.com/the-end-of-the-petrodollar-with-bitcoin-as-the-big-winner-mind-you-its-not-quite-that-simple)
+![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-z1838tc.jpeg)
+A few thoughts on the death of the king dollar will make you realize that we're a long way from that.
 
 ### [191. Bitcoin and Altcoins: Truth #3 "Size Does NOT Matter"](https://hackernoon.com/bitcoin-and-altcoins-truth-3-size-does-not-matter)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-f103ol0.jpeg)
 There is no altcoin cycle. They all move up and down at roughly the same time, regardless of size.
 
-### [192. The End of the Petrodollar With Bitcoin As the Big Winner? Mind You, It’s Not Quite That Simple!](https://hackernoon.com/the-end-of-the-petrodollar-with-bitcoin-as-the-big-winner-mind-you-its-not-quite-that-simple)
-![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-z1838tc.jpeg)
-A few thoughts on the death of the king dollar will make you realize that we're a long way from that.
-
-### [193. How Money Works: Value Created, Reach, and Personal Satisfaction](https://hackernoon.com/how-money-works-value-created-reach-and-personal-satisfaction)
+### [192. How Money Works: Value Created, Reach, and Personal Satisfaction](https://hackernoon.com/how-money-works-value-created-reach-and-personal-satisfaction)
 ![](https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-xp93hu9.jpeg)
 Choosing a career path that will enable you financial solidity is important. Only if you are not struggling financially you will be able to flourish in life 
 
-### [194. The Science of Getting Rich: Chapter 5](https://hackernoon.com/the-science-of-getting-rich-chapter-5)
+### [193. The Science of Getting Rich: Chapter 5](https://hackernoon.com/the-science-of-getting-rich-chapter-5)
 ![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-b593vnc.jpeg)
 The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series.
+
+### [194. India's Distinction Between Online Games and Real Money Games Delights Esports Industry](https://hackernoon.com/indias-distinction-between-online-games-and-real-money-games-delights-esports-industry)
+![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-ol93ph0.jpeg)
+The Esports industry feels it’s a great move to separate online games and real money games. 
 
 ### [195. Taking a Look at How Much Money & Cryptocurrency Exists in the World](https://hackernoon.com/taking-a-look-at-how-much-money-and-cryptocurrency-exists-in-the-world)
 ![](https://cdn.hackernoon.com/images/22qULrU2ZPb8VRsSedCeA6x7AJ13-z7137s6.png)
@@ -803,53 +805,53 @@ Bitcoin and cryptocurrencies are still small compared to more traditional forms 
 ![](https://cdn.hackernoon.com/images/x21VprIQHYaYrJEbiyMkN7uuOTH2-ej03r66.png)
 Before I teach you how to build a sovereign mind, I need to show you how the world systematically steals it.
 
-### [197. Community Governed Loans and Mobile Money in Nigeria with Adebola Adeniran on The HackerNoon Podcast](https://hackernoon.com/community-governed-loans-and-mobile-money-in-nigeria-with-adebola-adeniran-on-the-hackernoon-podcast)
-![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-lj93h7i.jpeg)
-In this episode of the HackerNoon Podcast, Amy Tom sits down with Adebola Adeniran to talk about Money; specifically, mobile money in Nigeria
-
-### [198. No Bullsh** Guide to Start a Money Making Blog in 10 Minutes](https://hackernoon.com/no-bullsh-guide-to-start-a-money-making-blog-in-10-minutes-nf463yx5)
-![](https://cdn.hackernoon.com/drafts/6yq3yjz.png)
-Be it for your passion for writing or to help generate an extra income, blogging is your one stop solution.
-
-### [199. 5 Steps to Start and Monetize Your Own Successful Sports Blog](https://hackernoon.com/5-steps-to-start-and-monetize-your-own-successful-sports-blog)
+### [197. 5 Steps to Start and Monetize Your Own Successful Sports Blog](https://hackernoon.com/5-steps-to-start-and-monetize-your-own-successful-sports-blog)
 ![](https://cdn.hackernoon.com/images/3FbSFiKElhQ9L31a3J4bYa80XPA2-2fg3q6d.jpeg)
 A sports blog can become one of the most exciting things for sports fans. No matter if you want to create a sports blog for entertainment or profit, read on.
 
-### [200. A Hard Look Into Noticeable Cross-Exchange Inefficiencies [freebie inside]](https://hackernoon.com/a-hard-look-into-noticeable-cross-exchange-inefficiencies-freebie-inside-s3ex329n)
-![](https://cdn.hackernoon.com/drafts/ibe432vj.png)
-Price action tends to happen where people are planning to keep the crypto they buy. A bigger movement on a spot exchange easily translates into a much more radical move on the exchanges that match and mirror cash’s behavior, like perpetual swaps and futures.
+### [198. Community Governed Loans and Mobile Money in Nigeria with Adebola Adeniran on The HackerNoon Podcast](https://hackernoon.com/community-governed-loans-and-mobile-money-in-nigeria-with-adebola-adeniran-on-the-hackernoon-podcast)
+![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-lj93h7i.jpeg)
+In this episode of the HackerNoon Podcast, Amy Tom sits down with Adebola Adeniran to talk about Money; specifically, mobile money in Nigeria
 
-### [201. How To Fool Prices: Price Discrimination in the Digital Economy](https://hackernoon.com/how-to-fool-prices-ojs32di)
+### [199. No Bullsh** Guide to Start a Money Making Blog in 10 Minutes](https://hackernoon.com/no-bullsh-guide-to-start-a-money-making-blog-in-10-minutes-nf463yx5)
+![](https://cdn.hackernoon.com/drafts/6yq3yjz.png)
+Be it for your passion for writing or to help generate an extra income, blogging is your one stop solution.
+
+### [200. How To Fool Prices: Price Discrimination in the Digital Economy](https://hackernoon.com/how-to-fool-prices-ojs32di)
 ![](https://images.unsplash.com/photo-1522576395574-124317abc90e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Price discrimination have been around for years. It is seen as a benefit for both companies and buyers, but there is a line that price discrimination can cross to become illegal and harmful for our digital life.
 
-### [202. Psst, It's Time to Pay Attention To Cryptocurrency Again.](https://hackernoon.com/psst-its-time-to-pay-attention-to-cryptocurrency-again-fe3x3akz)
-![](https://cdn.hackernoon.com/drafts/a714ee33ii.png)
-Photo Credit: Photo by André François McKenzie on Unsplash 
+### [201. A Hard Look Into Noticeable Cross-Exchange Inefficiencies [freebie inside]](https://hackernoon.com/a-hard-look-into-noticeable-cross-exchange-inefficiencies-freebie-inside-s3ex329n)
+![](https://cdn.hackernoon.com/drafts/ibe432vj.png)
+Price action tends to happen where people are planning to keep the crypto they buy. A bigger movement on a spot exchange easily translates into a much more radical move on the exchanges that match and mirror cash’s behavior, like perpetual swaps and futures.
 
-### [203. 5 Handy Apps to Power Up Your Investments in Times of Uncertainty](https://hackernoon.com/5-handy-apps-to-power-up-your-investments-in-times-of-uncertainty)
+### [202. 5 Handy Apps to Power Up Your Investments in Times of Uncertainty](https://hackernoon.com/5-handy-apps-to-power-up-your-investments-in-times-of-uncertainty)
 ![](https://cdn.hackernoon.com/images/8wlyTs6rS1Ns9rTwC8LtCyE03B52-jze3z6r.jpeg)
 Get the list of handy apps that will fuel your investment decisions even in the crisis period!
 
-### [204. India's Distinction Between Online Games and Real Money Games Delights Esports Industry](https://hackernoon.com/indias-distinction-between-online-games-and-real-money-games-delights-esports-industry)
-![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-ol93ph0.jpeg)
-The Esports industry feels it’s a great move to separate online games and real money games. 
+### [203. 8 Quotes From Friedrich Nietzsche That Will Convince You of the Future Success of Bitcoin](https://hackernoon.com/8-quotes-from-friedrich-nietzsche-that-will-convince-you-of-the-future-success-of-bitcoin)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-p892ffw.jpeg)
+Yes, you read that right, Friedrich Nietzsche would probably have been a Bitcoiner.
 
-### [205. The Legacy Financial System Isn’t Built for You, But Crypto Might Be (If You Let It Be)](https://hackernoon.com/the-legacy-financial-system-isnt-built-for-you-but-crypto-might-be-if-you-let-it-be)
+### [204. Psst, It's Time to Pay Attention To Cryptocurrency Again.](https://hackernoon.com/psst-its-time-to-pay-attention-to-cryptocurrency-again-fe3x3akz)
+![](https://cdn.hackernoon.com/drafts/a714ee33ii.png)
+Photo Credit: Photo by André François McKenzie on Unsplash 
+
+### [205. xMoney Launches $XMN on Sui, Expands Listings Across Global Exchanges](https://hackernoon.com/xmoney-launches-$xmn-on-sui-expands-listings-across-global-exchanges)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-iu13gcm.jpeg)
+Following the launch, $XMN is now available across several leading exchanges, including Kraken, MEXC, Bluefin, BingX, and CoinEx.
+
+### [206. The Legacy Financial System Isn’t Built for You, But Crypto Might Be (If You Let It Be)](https://hackernoon.com/the-legacy-financial-system-isnt-built-for-you-but-crypto-might-be-if-you-let-it-be)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-37038j4.jpeg)
 You're playing a game you can't win
 
-### [206. How to Gain Financial Security As a Man with this 5 Safe Tips](https://hackernoon.com/how-to-gain-financial-security-as-a-man-with-this-5-safe-tips-103y3ycs)
+### [207. How to Gain Financial Security As a Man with this 5 Safe Tips](https://hackernoon.com/how-to-gain-financial-security-as-a-man-with-this-5-safe-tips-103y3ycs)
 ![](https://cdn.hackernoon.com/drafts/sa1td37d3.png)
 ‘The risk comes from not knowing what you're doing,' says the rich person.
 
-### [207. About The Money In Your Pocket...Or Your Bank: Creation And Evaporation of Value](https://hackernoon.com/about-the-money-in-your-pocketor-your-bank-creation-and-evaporation-of-value-sj473wwu)
+### [208. About The Money In Your Pocket...Or Your Bank: Creation And Evaporation of Value](https://hackernoon.com/about-the-money-in-your-pocketor-your-bank-creation-and-evaporation-of-value-sj473wwu)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQbeabsGfb4R3iXPr7HqGFI3X1bu1-8cf83tys.jpeg?alt=media&token=78acabbe-acb8-4985-9916-97ca4635130e)
 As I briefly explained in this other post, money is something that has always interested me.
-
-### [208. 8 Quotes From Friedrich Nietzsche That Will Convince You of the Future Success of Bitcoin](https://hackernoon.com/8-quotes-from-friedrich-nietzsche-that-will-convince-you-of-the-future-success-of-bitcoin)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-p892ffw.jpeg)
-Yes, you read that right, Friedrich Nietzsche would probably have been a Bitcoiner.
 
 ### [209. Stablecoins Vs. US Sanctions: How Do Circumvention Mechanisms Work With Tether (USDT)?](https://hackernoon.com/stablecoins-vs-us-sanctions-how-do-circumvention-mechanisms-work-with-tether-usdt)
 ![](https://cdn.hackernoon.com/images/0x83eeedecf21095c3a93b037ca4dac064d1268272-7ve30zb.jpeg)
@@ -863,50 +865,50 @@ The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Boo
 ![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-cz93pbd.jpeg)
 The Science of Getting Rich  by Wallace D. Wattles is part of HackerNoon’s Book Blog Blog Post series. 
 
-### [212. Crypto in 2020: The Year Of Institutions](https://hackernoon.com/crypto-in-2020-the-year-of-institutions-08j34cs)
+### [212. Is Bitcoin still a good investment in 2024?](https://hackernoon.com/is-bitcoin-still-a-good-investment-in-2024)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-it8302k.png)
+Half of the Internet thinks Bitcoin started a bear market. The other half thinks the bull is yet to come. Who should you believe?
+
+### [213. Crypto in 2020: The Year Of Institutions](https://hackernoon.com/crypto-in-2020-the-year-of-institutions-08j34cs)
 ![](https://cdn.hackernoon.com/images/hMY7XlkAizNZbnRvkVr08nHfSPF3-3y2b3wf0.jpeg)
 Crypto in 2020 round-up by Anti Danilevski: The Year Of Institutions
 
-### [213. Suddenly Everyone Likes Elon Musk! Here is Why](https://hackernoon.com/suddenly-everyone-likes-elon-musk-here-is-why)
+### [214. Suddenly Everyone Likes Elon Musk! Here is Why](https://hackernoon.com/suddenly-everyone-likes-elon-musk-here-is-why)
 ![](https://cdn.hackernoon.com/images/n5jC2PDrb9hJje5wDf8NTMHI6YY2-iib3r4l.jpeg)
 Elon Musk's new Twitter monetization feature surprises creators with earnings, sparking a surge in his popularity. #ThankYouElonMusk
 
-### [214. The Art of Money Getting or, Golden Rules for Making Money - Part 3 - 
+### [215. The Art of Money Getting or, Golden Rules for Making Money - Part 3 - 
 Avoid Debt](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-part-3-avoid-debt)
 ![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-v593v1a.jpeg)
 The Art of Money Getting or, Golden Rules for Making Money  by  P. T. Barnum is part of [HackerNoon’s Book Blog Post series]
 
-### [215. Is Bitcoin still a good investment in 2024?](https://hackernoon.com/is-bitcoin-still-a-good-investment-in-2024)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-it8302k.png)
-Half of the Internet thinks Bitcoin started a bear market. The other half thinks the bull is yet to come. Who should you believe?
-
-### [216. The 11 Ways to Lose Time and Money With Bitcoin (and How to Prevent It)](https://hackernoon.com/the-11-ways-to-lose-time-and-money-with-bitcoin-and-how-to-prevent-it)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9392gsk.jpeg)
-It's all about knowledge. Knowledge will give you total confidence in Bitcoin. Bitcoin will allow you to take power over your life.
-
-### [217. ”Money Doesn’t Equal Happiness” - Reality of Hackers’ Life](https://hackernoon.com/money-doesnt-equal-happiness-reality-of-hackers-life)
+### [216. ”Money Doesn’t Equal Happiness” - Reality of Hackers’ Life](https://hackernoon.com/money-doesnt-equal-happiness-reality-of-hackers-life)
 ![](https://cdn.hackernoon.com/images/X5iCYW3DeNSXBvMKkcGscX4bNM83-75337hr.jpeg)
 Hackers are also ordinary people who fear, worry, and feel ashamed of their atrocities
 
-### [218. How to Make the Most of the Bitcoin Revolution in the Future: 6 Golden Rules](https://hackernoon.com/how-to-make-the-most-of-the-bitcoin-revolution-in-the-future-6-golden-rules)
+### [217. How to Make the Most of the Bitcoin Revolution in the Future: 6 Golden Rules](https://hackernoon.com/how-to-make-the-most-of-the-bitcoin-revolution-in-the-future-6-golden-rules)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-6v93rtn.jpeg)
 Rule #1: Don't trust anyone, verify everything for yourself.
 
-### [219. This is Not an Investment Advice](https://hackernoon.com/this-is-not-an-investment-advice)
+### [218. This is Not an Investment Advice](https://hackernoon.com/this-is-not-an-investment-advice)
 ![](https://cdn.hackernoon.com/images/AZqFlTZHBTO6KZCpE9R185PutOf2-kn0379s.jpeg)
 "Not Investment Advice" is not just a legal disclaimer. 
 
-### [220. Trading Range: Finding Your Next Runners](https://hackernoon.com/trading-range-finding-your-next-runners-sq383w65)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-fp103t89.jpeg?alt=media&token=b115a67f-3168-47ff-a5a7-af11439c7461)
-Ask traders how they find the next breakout move, the next runner that’s going to skyrocket to +2000% profit. They’ll likely spout a bunch of technical indicators, screeners, Bollinger Bands, RSI, Stochastic Indicators… the list could go on. Before we even get to these tools, we first need to understand what the stock is breaking out from. So without further ado, here is your lesson on Trading Range.
-
-### [221. Sudden Swing in Bitcoin's Price? It's Leverage, and Lots of It](https://hackernoon.com/sudden-swing-in-bitcoins-price-its-leverage-and-lots-of-it)
+### [219. Sudden Swing in Bitcoin's Price? It's Leverage, and Lots of It](https://hackernoon.com/sudden-swing-in-bitcoins-price-its-leverage-and-lots-of-it)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-se03hof.png)
 Until circumstances change, don’t be surprised if we get more of these sudden swings—both to the upside and downside.
 
-### [222. 15 Bitcoin Insights Spock Would've Shared](https://hackernoon.com/15-bitcoin-insights-spock-wouldve-shared)
+### [220. The 11 Ways to Lose Time and Money With Bitcoin (and How to Prevent It)](https://hackernoon.com/the-11-ways-to-lose-time-and-money-with-bitcoin-and-how-to-prevent-it)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9392gsk.jpeg)
+It's all about knowledge. Knowledge will give you total confidence in Bitcoin. Bitcoin will allow you to take power over your life.
+
+### [221. 15 Bitcoin Insights Spock Would've Shared](https://hackernoon.com/15-bitcoin-insights-spock-wouldve-shared)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-vo93oad.jpeg)
 Born in 2230, 90 years after the last Bitcoin was issued, Spock also had the mindset of a Bitcoiner. Proof in 16 quotes.
+
+### [222. Trading Range: Finding Your Next Runners](https://hackernoon.com/trading-range-finding-your-next-runners-sq383w65)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-fp103t89.jpeg?alt=media&token=b115a67f-3168-47ff-a5a7-af11439c7461)
+Ask traders how they find the next breakout move, the next runner that’s going to skyrocket to +2000% profit. They’ll likely spout a bunch of technical indicators, screeners, Bollinger Bands, RSI, Stochastic Indicators… the list could go on. Before we even get to these tools, we first need to understand what the stock is breaking out from. So without further ado, here is your lesson on Trading Range.
 
 ### [223. The Art of Money Getting or, Golden Rules for Making Money - Chapter 5](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-5)
 ![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-bt93v90.jpeg)
@@ -920,168 +922,168 @@ The Art of Money Getting; Or, Golden Rules for Making Money by P. T. Barnum
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-3h239pe.jpeg)
 Bitcoin's spent 6 months in the banana zone. How long until you split?
 
-### [226. Bitcoin vs. CBDC – The Battle for Privacy That You Must Fight Before It’s Too Late](https://hackernoon.com/bitcoin-vs-cbdc---the-battle-for-privacy-that-you-must-fight-before-its-too-late)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-w692bvg.jpeg)
-This comparative list will help you understand where your interest lies.
-
-### [227. NBA NFTs Are More Than Just Trading Cards](https://hackernoon.com/nba-nf-ts-more-than-just-trading-cards)
-![](https://cdn.hackernoon.com/images/rXG7YlNW7gRJzFPCxRjJJJ13pGF2-nidm37ga.jpeg)
-The platform releases digital packs through drops. Drops create scarcity and urgency for consumers on the platform.
-
-### [228. This Man Is Accused of Funneling Money to the Terrorist Group Hezbollah](https://hackernoon.com/this-man-is-accused-of-funneling-money-to-the-terrorist-group-hezbollah)
+### [226. This Man Is Accused of Funneling Money to the Terrorist Group Hezbollah](https://hackernoon.com/this-man-is-accused-of-funneling-money-to-the-terrorist-group-hezbollah)
 ![](https://cdn.hackernoon.com/images/DHLHUeGBoGbWCejTVSkvu4IYM9r2-9s92kx5.jpeg)
 Mohammad Ibrahim Bazzi, 58, is accused by federal prosecutors of attempting to evade sanctions by trying to launder and move more than $800,000...
 
-### [229. Bitcoin has Many Parallels with the California Gold Rush. Will it End the Same Way?](https://hackernoon.com/bitcoin-is-a-modern-day-california-gold-rush-will-it-end-the-same-way-6w1c3xff)
-![](https://cdn.hackernoon.com/images/m0713x02.jpg)
-Earlier this year, Hacked published an article comparing bitcoin to the California gold rush, when the discovery of gold sparked a frenzied, greed-driven migration into California from 1848 to 1855.
+### [227. Bitcoin vs. CBDC – The Battle for Privacy That You Must Fight Before It’s Too Late](https://hackernoon.com/bitcoin-vs-cbdc---the-battle-for-privacy-that-you-must-fight-before-its-too-late)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-w692bvg.jpeg)
+This comparative list will help you understand where your interest lies.
 
-### [230. Clever Financial Hacks You Need to Try](https://hackernoon.com/clever-financial-hacks-you-need-to-try)
-![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-qvd3g1d.jpeg)
-In this thread, our community shared a few clever financial hacks you need to start using today.
+### [228. NBA NFTs Are More Than Just Trading Cards](https://hackernoon.com/nba-nf-ts-more-than-just-trading-cards)
+![](https://cdn.hackernoon.com/images/rXG7YlNW7gRJzFPCxRjJJJ13pGF2-nidm37ga.jpeg)
+The platform releases digital packs through drops. Drops create scarcity and urgency for consumers on the platform.
 
-### [231. Altcoins Are Running. Here’s What I’m Watching Now.](https://hackernoon.com/altcoins-are-running-heres-what-im-watching-now)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-cj03hfr.jpeg)
-Altcoins often pump at the end of Bitcoin’s rallies. Speculative enthusiasm is back, but watch how the market structure evolves
-
-### [232. Blackrock’s ETF Isn’t Pumping Bitcoin’s Price. TUSD is.](https://hackernoon.com/blackrocks-etf-isnt-pumping-bitcoins-price-tusd-is)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-htc3vms.jpeg)
-They're telling you Wall Street's going to pump your crypto, but a small stablecoin already did . . .
-
-### [233. Does Money Buy Happiness? Yes. Yes It Does](https://hackernoon.com/does-money-buy-happiness-yes-yes-it-does)
-![](https://cdn.hackernoon.com/images/IhwaXpJHotbQjTYSlIjXeTnE7ST2-wm336ou.jpeg)
-Money and happiness are a great combination, yet many wonder about their relationship.
-
-### [234. Former CEO of Bitcoin.com Joins Nodle’s Board](https://hackernoon.com/former-ceo-of-bitcoincom-joins-nodles-board-1n1f3t34)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FLsYP1YQeQ2cREbuDPmuZLMxMYV52-u0o3uas.jpeg?alt=media&token=3ad5e96c-7a24-46f0-88b5-212e87185380)
-Stefan Rust to Help Grow Nodle Cash, a Cryptocurrency for IoT Built on Polkadot
-
-### [235. Turning Income Into Collateralized Crypto Loans - Hodl!](https://hackernoon.com/turning-income-into-collateralized-crypto-loans-hodl-pflrr2bzq)
-![](https://cdn.hackernoon.com/images/3rlr02b2d.jpg)
-Tomorrow, I'm getting $1313 CAD refund as a present from Newegg for their defunctional laptop they'd sent me. I'm going to etransfer it to canadianbitcoins.com in exchange for ETH at around 5% loss on the dollar.
-
-### [236. Before Taking a Payday Loan, Read this!](https://hackernoon.com/before-taking-a-payday-loan-read-this)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-hd93ym7.jpeg)
-What you need to know about payday loans. How it works and how to apply payday loan online
-
-### [237. Understanding Stock Options](https://hackernoon.com/understanding-stock-options-qo6e3tyq)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-64493tvq.jpeg?alt=media&token=b78b1230-e6c5-4856-9c20-709ec67b980a)
-Stock Options are one of the most misunderstood investment instruments available on the stock market. Just mention ‘Stock Options’ to everyday investors, and you’re bound to hear such misnomers as — “they’re too risky”, “they’re too complicated”, and “isn’t it just gambling?”
-
-### [238. Money That You Can Respect](https://hackernoon.com/money-you-can-respect-53lu3vuc)
-![](https://cdn.hackernoon.com/drafts/mm2y3x1n.png)
-Cryptocurrencies like Bitcoin are volatile. They are hard to transact and even harder to understand. Most people wouldn’t consider them an asset class, never mind a viable form of money. So what does it tell us that a debate has begun as to whether crypto is a good hedge against everything else?
-
-### [239. How I Got Into Every University That I Applied To (for computer science)](https://hackernoon.com/how-i-got-into-every-university-that-i-applied-to-for-computer-science-ba4k3712)
-![](https://cdn.hackernoon.com/images/m1JWnUaHzSX3LPHoHfOainoiYvq2-yj363otm.jpeg)
-Here is how I managed to wriggle into the top university for computer science. How to write a half-decent personal statement and suceed in life!
-
-### [240. What to Expect From Bitcoin in the Next Few Months](https://hackernoon.com/what-to-expect-from-bitcoin-in-the-next-few-months)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-a40368n.png)
-Down and sideways until price does this one thing.
-
-### [241. ETH ETF Inflows Are Surging. Why Aren't You Seeing the Gains?](https://hackernoon.com/eth-etf-inflows-are-surging-why-arent-you-seeing-the-gains)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-eu03f5g.png)
-Ethereum ETF inflows have surged in recent weeks, even outpacing Bitcoin at times. So why hasn’t ETH’s price followed? 
-
-### [242. How Island Communities Are Using Blockchain to Escape the Red Button Economy](https://hackernoon.com/how-island-communities-are-using-blockchain-to-escape-the-red-button-economy)
+### [229. How Island Communities Are Using Blockchain to Escape the Red Button Economy](https://hackernoon.com/how-island-communities-are-using-blockchain-to-escape-the-red-button-economy)
 ![](https://cdn.hackernoon.com/images/E4pYfD4L6vO8RC4YQzgPS6joiXL2-5i02al8.png)
 Island communities are building decentralized infrastructure and adopting Bitcoin to unlock global monetary freedom through DePIN, AI, and cultural blockchain.
 
-### [243. Nexo for Crypto Loans and Bitcoin Loans and Crypto Cards [Reviewed]](https://hackernoon.com/nexo-for-crypto-loans-and-bitcoin-loans-and-crypto-cards-reviewed-6k8x36n4)
-![](https://cdn.hackernoon.com/images/uzga3x1m.jpg)
-What if Nexo had more than $100m USD worth of YOUR assets? More than their centralized bank-backed insurance fund protects? What if Nexo began speculatively investing YOUR funds into third-party protocols, putting the capital at risk — or even losing substantial amounts of it?
+### [230. Does Money Buy Happiness? Yes. Yes It Does](https://hackernoon.com/does-money-buy-happiness-yes-yes-it-does)
+![](https://cdn.hackernoon.com/images/IhwaXpJHotbQjTYSlIjXeTnE7ST2-wm336ou.jpeg)
+Money and happiness are a great combination, yet many wonder about their relationship.
 
-### [244. The Key to the Crypto Market: Look at 2016, not 2015 or 2019](https://hackernoon.com/the-key-to-the-crypto-market-look-at-2016-not-2015-or-2019)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-n1b3zkf.jpeg)
-If you're looking for historical parallels for crypto guidance, 2016 fits best.
+### [231. Bitcoin has Many Parallels with the California Gold Rush. Will it End the Same Way?](https://hackernoon.com/bitcoin-is-a-modern-day-california-gold-rush-will-it-end-the-same-way-6w1c3xff)
+![](https://cdn.hackernoon.com/images/m0713x02.jpg)
+Earlier this year, Hacked published an article comparing bitcoin to the California gold rush, when the discovery of gold sparked a frenzied, greed-driven migration into California from 1848 to 1855.
 
-### [245. Stop Thinking Bitcoin Is a Way of Life, It's Our Best Option for Living Life on Our Own Terms](https://hackernoon.com/stop-thinking-bitcoin-is-a-way-of-life-its-our-best-option-for-living-life-on-our-own-terms)
+### [232. Altcoins Are Running. Here’s What I’m Watching Now.](https://hackernoon.com/altcoins-are-running-heres-what-im-watching-now)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-cj03hfr.jpeg)
+Altcoins often pump at the end of Bitcoin’s rallies. Speculative enthusiasm is back, but watch how the market structure evolves
+
+### [233. Clever Financial Hacks You Need to Try](https://hackernoon.com/clever-financial-hacks-you-need-to-try)
+![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-qvd3g1d.jpeg)
+In this thread, our community shared a few clever financial hacks you need to start using today.
+
+### [234. Blackrock’s ETF Isn’t Pumping Bitcoin’s Price. TUSD is.](https://hackernoon.com/blackrocks-etf-isnt-pumping-bitcoins-price-tusd-is)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-htc3vms.jpeg)
+They're telling you Wall Street's going to pump your crypto, but a small stablecoin already did . . .
+
+### [235. Former CEO of Bitcoin.com Joins Nodle’s Board](https://hackernoon.com/former-ceo-of-bitcoincom-joins-nodles-board-1n1f3t34)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FLsYP1YQeQ2cREbuDPmuZLMxMYV52-u0o3uas.jpeg?alt=media&token=3ad5e96c-7a24-46f0-88b5-212e87185380)
+Stefan Rust to Help Grow Nodle Cash, a Cryptocurrency for IoT Built on Polkadot
+
+### [236. Stop Thinking Bitcoin Is a Way of Life, It's Our Best Option for Living Life on Our Own Terms](https://hackernoon.com/stop-thinking-bitcoin-is-a-way-of-life-its-our-best-option-for-living-life-on-our-own-terms)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6b93mf0.jpeg)
 I'm a Bitcoiner, and I'm convinced of the future success of the Bitcoin revolution, even if certain things worry me about the future of Bitcoin.
 
-### [246. What Does the Future Hold for Mobile Money?](https://hackernoon.com/what-does-the-future-hold-for-mobile-money-zl1d3u1b)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fsv44fyoBhcZkWLCkSXaoEuVmdcX2-ik2l3uua.jpeg?alt=media&token=9db4e7e3-f5ea-4895-acbd-d4a9aa095ca3)
-In an East African country, an idea that gives birth to the developing world by storm. The concept of mobile money solution was introduced in Kenya in 2007 by two mobile network operators, namely Safaricom and Vodafone. 
+### [237. Before Taking a Payday Loan, Read this!](https://hackernoon.com/before-taking-a-payday-loan-read-this)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-hd93ym7.jpeg)
+What you need to know about payday loans. How it works and how to apply payday loan online
+
+### [238. Turning Income Into Collateralized Crypto Loans - Hodl!](https://hackernoon.com/turning-income-into-collateralized-crypto-loans-hodl-pflrr2bzq)
+![](https://cdn.hackernoon.com/images/3rlr02b2d.jpg)
+Tomorrow, I'm getting $1313 CAD refund as a present from Newegg for their defunctional laptop they'd sent me. I'm going to etransfer it to canadianbitcoins.com in exchange for ETH at around 5% loss on the dollar.
+
+### [239. What to Expect From Bitcoin in the Next Few Months](https://hackernoon.com/what-to-expect-from-bitcoin-in-the-next-few-months)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-a40368n.png)
+Down and sideways until price does this one thing.
+
+### [240. Money That You Can Respect](https://hackernoon.com/money-you-can-respect-53lu3vuc)
+![](https://cdn.hackernoon.com/drafts/mm2y3x1n.png)
+Cryptocurrencies like Bitcoin are volatile. They are hard to transact and even harder to understand. Most people wouldn’t consider them an asset class, never mind a viable form of money. So what does it tell us that a debate has begun as to whether crypto is a good hedge against everything else?
+
+### [241. How I Got Into Every University That I Applied To (for computer science)](https://hackernoon.com/how-i-got-into-every-university-that-i-applied-to-for-computer-science-ba4k3712)
+![](https://cdn.hackernoon.com/images/m1JWnUaHzSX3LPHoHfOainoiYvq2-yj363otm.jpeg)
+Here is how I managed to wriggle into the top university for computer science. How to write a half-decent personal statement and suceed in life!
+
+### [242. Understanding Stock Options](https://hackernoon.com/understanding-stock-options-qo6e3tyq)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-64493tvq.jpeg?alt=media&token=b78b1230-e6c5-4856-9c20-709ec67b980a)
+Stock Options are one of the most misunderstood investment instruments available on the stock market. Just mention ‘Stock Options’ to everyday investors, and you’re bound to hear such misnomers as — “they’re too risky”, “they’re too complicated”, and “isn’t it just gambling?”
+
+### [243. ETH ETF Inflows Are Surging. Why Aren't You Seeing the Gains?](https://hackernoon.com/eth-etf-inflows-are-surging-why-arent-you-seeing-the-gains)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-eu03f5g.png)
+Ethereum ETF inflows have surged in recent weeks, even outpacing Bitcoin at times. So why hasn’t ETH’s price followed? 
+
+### [244. Institutions Will Buy Crypto Once This One Thing Changes](https://hackernoon.com/institutions-will-buy-crypto-once-this-one-thing-changes)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-hg93sl7.jpeg)
+Boomers keep dying. Millennials are inheriting their assets. Gen-Z is starting to get jobs and make money. Wall Street needs to keep its options open.
+
+### [245. Nexo for Crypto Loans and Bitcoin Loans and Crypto Cards [Reviewed]](https://hackernoon.com/nexo-for-crypto-loans-and-bitcoin-loans-and-crypto-cards-reviewed-6k8x36n4)
+![](https://cdn.hackernoon.com/images/uzga3x1m.jpg)
+What if Nexo had more than $100m USD worth of YOUR assets? More than their centralized bank-backed insurance fund protects? What if Nexo began speculatively investing YOUR funds into third-party protocols, putting the capital at risk — or even losing substantial amounts of it?
+
+### [246. The Science of Getting Rich: Chapter 9](https://hackernoon.com/the-science-of-getting-rich-chapter-9)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-yo93vpi.jpeg)
+The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series. 
 
 ### [247. Bitcoin and the Uncoiling Spring: Defunding the State by Changing the Money.](https://hackernoon.com/bitcoin-and-the-uncoiling-spring-defunding-the-state-by-changing-the-money)
 ![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-1m03f2t.jpeg)
 We stand at a pivotal moment in history. For the first time, we have a viable exit. We can build a parallel economy, a new financial infrastructure that is open
 
-### [248. Institutions Will Buy Crypto Once This One Thing Changes](https://hackernoon.com/institutions-will-buy-crypto-once-this-one-thing-changes)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-hg93sl7.jpeg)
-Boomers keep dying. Millennials are inheriting their assets. Gen-Z is starting to get jobs and make money. Wall Street needs to keep its options open.
+### [248. The Key to the Crypto Market: Look at 2016, not 2015 or 2019](https://hackernoon.com/the-key-to-the-crypto-market-look-at-2016-not-2015-or-2019)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-n1b3zkf.jpeg)
+If you're looking for historical parallels for crypto guidance, 2016 fits best.
 
-### [249. The Science of Getting Rich: Chapter 13](https://hackernoon.com/the-science-of-getting-rich-chapter-13)
-![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-ah93oow.jpeg)
-You must use your thought as directed in previous chapters, and begin to do what you can do where you are; and you must do ALL that you can do where you are.
+### [249. The Secrets of Success: How Young Men Can Make Their Fortune](https://hackernoon.com/the-secrets-of-success-how-young-men-can-make-their-fortune)
+![](https://cdn.hackernoon.com/images/Dh779CmdTWcT0wfGv6t0L3Zkjkj1-t4a3lx6.jpeg)
+One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series.
 
-### [250. What dYdX and StarkWare's Partnership Means for DeFi's Perpetuals & Future(s)](https://hackernoon.com/what-dydx-and-starkwares-partnership-means-for-defis-perpetuals-and-futures-9z123xul)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FqwlVSFUNhGO3DAw4hoBd17XGTAC2-ks72ywa.jpeg?alt=media&token=0284cd6a-080c-44e6-a9e0-b777310fc5ab)
-dYdX and Antonio Juliano Zhuoxun Yin Brendan Chou Everett Hu just sent me this handy mail announcing a partnership with StarkWare and their scalability engine, StarkEx.
+### [250. What Does the Future Hold for Mobile Money?](https://hackernoon.com/what-does-the-future-hold-for-mobile-money-zl1d3u1b)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fsv44fyoBhcZkWLCkSXaoEuVmdcX2-ik2l3uua.jpeg?alt=media&token=9db4e7e3-f5ea-4895-acbd-d4a9aa095ca3)
+In an East African country, an idea that gives birth to the developing world by storm. The concept of mobile money solution was introduced in Kenya in 2007 by two mobile network operators, namely Safaricom and Vodafone. 
 
-### [251. Libra: The Ideavirus](https://hackernoon.com/libra-the-ideavirus-9u653vi0)
-![](https://cdn.hackernoon.com/drafts/7hq33vu0.png)
-The lid on the fabled "Facebook coin" project has been finally lifted in the middle of June. Libra, a name evoking an ancient unit of weight, scales of justice and a somewhat clever jab at Winklevoss' Gemini, has already been written about extensively. 
-
-### [252. Crypto’s Booming. Buy More Later. ](https://hackernoon.com/cryptos-booming-buy-more-later)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-iwb35vj.jpeg)
-YouTube, Twitter, and Reddit tell you to make money now, FAST, and cash out with massive gains. I have a different idea that may do better.
-
-### [253. The Science of Getting Rich: Chapter 9](https://hackernoon.com/the-science-of-getting-rich-chapter-9)
-![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-yo93vpi.jpeg)
-The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series. 
-
-### [254. As the US Loses Crypto, the Crypto Market Wins](https://hackernoon.com/as-the-us-loses-crypto-the-crypto-market-wins)
+### [251. As the US Loses Crypto, the Crypto Market Wins](https://hackernoon.com/as-the-us-loses-crypto-the-crypto-market-wins)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-v883zdu.jpeg)
 We may remember 2023 as the year the US lost crypto.
 
-### [255. The Secrets of Success: How Young Men Can Make Their Fortune](https://hackernoon.com/the-secrets-of-success-how-young-men-can-make-their-fortune)
-![](https://cdn.hackernoon.com/images/Dh779CmdTWcT0wfGv6t0L3Zkjkj1-t4a3lx6.jpeg)
-One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series.
+### [252. The Science of Getting Rich: Chapter 13](https://hackernoon.com/the-science-of-getting-rich-chapter-13)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-ah93oow.jpeg)
+You must use your thought as directed in previous chapters, and begin to do what you can do where you are; and you must do ALL that you can do where you are.
+
+### [253. What dYdX and StarkWare's Partnership Means for DeFi's Perpetuals & Future(s)](https://hackernoon.com/what-dydx-and-starkwares-partnership-means-for-defis-perpetuals-and-futures-9z123xul)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FqwlVSFUNhGO3DAw4hoBd17XGTAC2-ks72ywa.jpeg?alt=media&token=0284cd6a-080c-44e6-a9e0-b777310fc5ab)
+dYdX and Antonio Juliano Zhuoxun Yin Brendan Chou Everett Hu just sent me this handy mail announcing a partnership with StarkWare and their scalability engine, StarkEx.
+
+### [254. Crypto’s Booming. Buy More Later. ](https://hackernoon.com/cryptos-booming-buy-more-later)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-iwb35vj.jpeg)
+YouTube, Twitter, and Reddit tell you to make money now, FAST, and cash out with massive gains. I have a different idea that may do better.
+
+### [255. Libra: The Ideavirus](https://hackernoon.com/libra-the-ideavirus-9u653vi0)
+![](https://cdn.hackernoon.com/drafts/7hq33vu0.png)
+The lid on the fabled "Facebook coin" project has been finally lifted in the middle of June. Libra, a name evoking an ancient unit of weight, scales of justice and a somewhat clever jab at Winklevoss' Gemini, has already been written about extensively. 
 
 ### [256. RFK Jr. Wants America to Buy 9.4M BTC: A Potential Disaster to the Bitcoin System?](https://hackernoon.com/rfk-jr-wants-america-to-buy-94m-btc-a-potential-disaster-to-the-bitcoin-system)
 ![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-9s83a8n.jpeg)
 To see America owning so much BTC would be a fatal blow to the Bitcoin system as a superior alternative to the US Dollar system.
 
-### [257. A Dash Primer - Digital Cash You Can Spend Anywhere](https://hackernoon.com/dash-digital-cash-you-can-spend-anywhere-njb232pj)
-![](https://cdn.hackernoon.com/images/1w9z32of.jpg)
-"The Dash Platform has the potential to rule them all." This statement by Dash Product Owner, Dana Alibrandi, hints to the value that the platform provides in the cryptocurrency space. On Thursday, May the 23rd, Blockchain at UCLA hosted Dana Alibrandi for their first event of the spring to about what Dash is, how the platform works, and its potential use cases.
+### [257. Is Cash Disappearing? The Vanishing Act of Change](https://hackernoon.com/the-vanishing-act-of-change-is-cash-next-in-line)
+![](https://cdn.hackernoon.com/images/gGLqqTHCGigz7mgWEI6xUoCh7x83-1z92v76.jpeg)
+Is change becoming a thing of the past? Explore the declining role of physical change in transactions and dive into the idea that cash might be following suit. 
 
-### [258. I Beat 99% of Wall Street Investment Firms Last Year. Here's How.](https://hackernoon.com/i-beat-99percent-of-wall-street-investment-firms-last-year-heres-how)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-2m83n2v.jpeg)
-You want great returns on your investments. I found a great way to do that.
-
-### [259. What's Up With Staking? ](https://hackernoon.com/whats-up-with-staking)
-![](https://cdn.hackernoon.com/images/a-wooden-stake-ebns7t5jvr8jvgrd2c5f7zul.png)
-Staking is a popular way to engage with certain blockchain protocols and their networks while earning rewards.
-
-### [260. These Religious Institutions Are Worth Billions](https://hackernoon.com/these-religious-institutions-are-worth-billions)
+### [258. These Religious Institutions Are Worth Billions](https://hackernoon.com/these-religious-institutions-are-worth-billions)
 ![](https://cdn.hackernoon.com/images/a-cash-pile-clh8a3utz000701s609dz3n5c.png)
 Aleksandr Volodarsky details religious institutes that are worth billions.
 
-### [261. How to Travel to Africa During
+### [259. How to Travel to Africa During
 COVID-19](https://hackernoon.com/how-to-travel-to-africa-during-covid-19-682j37er)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnfnAYWWXsfggobL09i6xOsVH7DL2-d1k3t3z.jpeg?alt=media&token=6ccb0be8-7bb8-4f56-a571-08f4c028ddc2)
 Things to know before traveling to Africa during COVID-19.
 
+
+### [260. What's Up With Staking? ](https://hackernoon.com/whats-up-with-staking)
+![](https://cdn.hackernoon.com/images/a-wooden-stake-ebns7t5jvr8jvgrd2c5f7zul.png)
+Staking is a popular way to engage with certain blockchain protocols and their networks while earning rewards.
+
+### [261. I Beat 99% of Wall Street Investment Firms Last Year. Here's How.](https://hackernoon.com/i-beat-99percent-of-wall-street-investment-firms-last-year-heres-how)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-2m83n2v.jpeg)
+You want great returns on your investments. I found a great way to do that.
 
 ### [262. Education Is Key to the Success of the Bitcoin Revolution and El Salvador Is Leading the Way](https://hackernoon.com/education-is-key-to-the-success-of-the-bitcoin-revolution-and-el-salvador-is-leading-the-way)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7h92fci.jpeg)
 More than 25,000 students in El Salvador have discovered Bitcoin in class.
 
 
-### [263. Is Cash Disappearing? The Vanishing Act of Change](https://hackernoon.com/the-vanishing-act-of-change-is-cash-next-in-line)
-![](https://cdn.hackernoon.com/images/gGLqqTHCGigz7mgWEI6xUoCh7x83-1z92v76.jpeg)
-Is change becoming a thing of the past? Explore the declining role of physical change in transactions and dive into the idea that cash might be following suit. 
+### [263. A Dash Primer - Digital Cash You Can Spend Anywhere](https://hackernoon.com/dash-digital-cash-you-can-spend-anywhere-njb232pj)
+![](https://cdn.hackernoon.com/images/1w9z32of.jpg)
+"The Dash Platform has the potential to rule them all." This statement by Dash Product Owner, Dana Alibrandi, hints to the value that the platform provides in the cryptocurrency space. On Thursday, May the 23rd, Blockchain at UCLA hosted Dana Alibrandi for their first event of the spring to about what Dash is, how the platform works, and its potential use cases.
 
-### [264. Why Crypto: The Gold Standard](https://hackernoon.com/why-crypto-the-gold-standard-r71k3714)
-![](https://cdn.hackernoon.com/images/msYnzNtL8qe6aYmZRwCNUbHyJjL2-wv7v370x.jpeg)
-In the future, cryptocurrencies could be far more stable and reliable than traditional money. Trustless crypto reserves could back digital currencies.
-
-### [265. Taking a Stance on Bitcoin Will Become a Must for All US Presidential Candidates in 2024 ](https://hackernoon.com/taking-a-stance-on-bitcoin-will-become-a-must-for-all-us-presidential-candidates-in-2024)
+### [264. Taking a Stance on Bitcoin Will Become a Must for All US Presidential Candidates in 2024 ](https://hackernoon.com/taking-a-stance-on-bitcoin-will-become-a-must-for-all-us-presidential-candidates-in-2024)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-vg92f7j.jpeg)
 This shows the evolution of the Bitcoin revolution, which no one can ignore any longer.
+
+### [265. Why Crypto: The Gold Standard](https://hackernoon.com/why-crypto-the-gold-standard-r71k3714)
+![](https://cdn.hackernoon.com/images/msYnzNtL8qe6aYmZRwCNUbHyJjL2-wv7v370x.jpeg)
+In the future, cryptocurrencies could be far more stable and reliable than traditional money. Trustless crypto reserves could back digital currencies.
 
 ### [266. Financial Crises and Bitcoin: Why You're Worrying About the Wrong Market](https://hackernoon.com/financial-crises-and-bitcoin-why-youre-worrying-about-the-wrong-market-0e4h325g)
 ![](https://images.unsplash.com/photo-1584447128309-b66b7a4d1b63?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -1101,29 +1103,29 @@ In my case, I noticed that I got a lot more traffic from my money-making code li
 ![](https://cdn.hackernoon.com/images/Zsb71bWROKg0qI1Z0N5VpdHGjly1-zu33551.jpeg)
 With rising inflation, it’s time to rethink money. Discover how Bitcoin’s deflationary power could preserve your wealth in a changing world.
 
-### [269. Is $14k Bitcoin the New $100k Bitcoin?](https://hackernoon.com/is-$14k-bitcoin-the-new-$100k-bitcoin)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-rp93ryw.jpeg)
-$14,000 is the most realistic, sensible, natural technical price level in bitcoin history. But if you’re waiting for it to happen, you could be waiting forever.
-
-### [270. Using Greeks Symbols in Tech, Finance, and Crypto](https://hackernoon.com/using-greeks-symbols-in-tech-finance-and-crypto)
+### [269. Using Greeks Symbols in Tech, Finance, and Crypto](https://hackernoon.com/using-greeks-symbols-in-tech-finance-and-crypto)
 ![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-7r93ar4.jpeg)
 Being at the intersection of technology and finance, crypto has inherited the illustrious vocabulary of wall street traders, computer scientists, and degens...
+
+### [270. Is $14k Bitcoin the New $100k Bitcoin?](https://hackernoon.com/is-$14k-bitcoin-the-new-$100k-bitcoin)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-rp93ryw.jpeg)
+$14,000 is the most realistic, sensible, natural technical price level in bitcoin history. But if you’re waiting for it to happen, you could be waiting forever.
 
 ### [271. Bitcoin Conference 2024: A Critical Look at Commercialization and Political Influences](https://hackernoon.com/bitcoin-conference-2024-a-critical-look-at-commercialization-and-political-influences)
 ![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-ywb3a0h.jpeg)
 You don't need to spend your hard-earned money to fatten up politicians like Donald Trump and pseudo-Bitcoiners who are only out to make a profit off you.
 
-### [272. Is Cryptocurrency the Salary of the Future?](https://hackernoon.com/is-cryptocurrency-the-salary-of-the-future)
+### [272. Bitcoin’s Clash for Years to Come: Beyond Weak Money and Influencer Hype](https://hackernoon.com/bitcoins-clash-for-years-to-come-beyond-weak-money-and-influencer-hype)
+![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-8r939kv.jpeg)
+Bitcoin’s price in fiat may fall, but its true value lies in understanding its purpose: a revolution against the flawed system, not just a store of value.
+
+### [273. Is Cryptocurrency the Salary of the Future?](https://hackernoon.com/is-cryptocurrency-the-salary-of-the-future)
 ![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-fi138c4.jpeg)
 In this slogging thread, our technology channel talked about companies starting to pay their employees with cryptocurrency and how this can be a new reality
 
-### [273. Stop Saying "Buy Bitcoin" - Say "Own Bitcoin" Instead](https://hackernoon.com/stop-saying-buy-bitcoin-say-own-bitcoin-instead)
+### [274. Stop Saying "Buy Bitcoin" - Say "Own Bitcoin" Instead](https://hackernoon.com/stop-saying-buy-bitcoin-say-own-bitcoin-instead)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o892g0g.jpeg)
 "Study Bitcoin" is also an excellent message.
-
-### [274. Bitcoin’s Clash for Years to Come: Beyond Weak Money and Influencer Hype](https://hackernoon.com/bitcoins-clash-for-years-to-come-beyond-weak-money-and-influencer-hype)
-![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-8r939kv.jpeg)
-Bitcoin’s price in fiat may fall, but its true value lies in understanding its purpose: a revolution against the flawed system, not just a store of value.
 
 ### [275. Trump or Harris? Won’t Matter for Your Crypto Portfolio](https://hackernoon.com/trump-or-harris-wont-matter-for-your-crypto-portfolio)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-yz039yr.jpeg)
@@ -1157,49 +1159,49 @@ Harriet Tubman is THE woman America needs NOW! Over a century ago, Harriet Tubma
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-er33hf6.jpeg)
 One killer bullish trading pattern. Let's hope it plays out differently than last time!
 
-### [283. The Profound Nature and Future of Money](https://hackernoon.com/the-profound-nature-and-future-of-money)
-![](https://cdn.hackernoon.com/images/FxOPrOy8iKSOrQnduKodRq32HnQ2-gs93uhz.jpeg)
-Money is described as a technology for channeling human attention and coordinating economic action. It's more than metal or paper; it turns desires into reality
-
-### [284. How Stripe Crushed Our Small Biz and Shattered Trust](https://hackernoon.com/how-stripe-crushed-our-small-biz-and-shattered-trust)
+### [283. How Stripe Crushed Our Small Biz and Shattered Trust](https://hackernoon.com/how-stripe-crushed-our-small-biz-and-shattered-trust)
 ![](https://cdn.hackernoon.com/images/bankrupt-clikg0j16000101s6efiyai6t.png)
 Stripe just shut down a small biz we own and said they "may give our money back in 30 days." Criminal. 
+
+### [284. The Profound Nature and Future of Money](https://hackernoon.com/the-profound-nature-and-future-of-money)
+![](https://cdn.hackernoon.com/images/FxOPrOy8iKSOrQnduKodRq32HnQ2-gs93uhz.jpeg)
+Money is described as a technology for channeling human attention and coordinating economic action. It's more than metal or paper; it turns desires into reality
 
 ### [285. With the Crypto Market, Choose Your Conclusions Wisely](https://hackernoon.com/with-the-crypto-market-choose-your-conclusions-wisely)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-nna3fex.jpeg)
 Nobody shares more data than the crypto community. Does that mean you should believe it?
 
-### [286. Energy, Fuel, and Food Prices Soar - Cost of Living Hits 30-Year High](https://hackernoon.com/energy-fuel-and-food-prices-soar-cost-of-living-hits-30-year-high)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-tya3hk2.jpeg)
-In this slogging thread, we discuss the current living crises, facing most of the western world. As prices increase, wages have stagnated or at worst decreased.
-
-### [287. Today’s Federal Reserve: A Faith-Based Organization](https://hackernoon.com/todays-fed-a-faith-based-organization)
+### [286. Today’s Federal Reserve: A Faith-Based Organization](https://hackernoon.com/todays-fed-a-faith-based-organization)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-j393qtm.jpeg)
 Nobody knows whether Fed decisions matter, but people act like they do. They do so on the basis of faith, not facts. 
 
-### [288. Bitcoin Bear Market Already?](https://hackernoon.com/bitcoin-bear-market-already-9tt32zm)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-a1j377u.jpeg)
-Seriously? I wait three years for a bitcoin bull market and it only lasts five months?
+### [287. Energy, Fuel, and Food Prices Soar - Cost of Living Hits 30-Year High](https://hackernoon.com/energy-fuel-and-food-prices-soar-cost-of-living-hits-30-year-high)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-tya3hk2.jpeg)
+In this slogging thread, we discuss the current living crises, facing most of the western world. As prices increase, wages have stagnated or at worst decreased.
+
+### [288. Reflecting On My 2023: A Year of Growth, Opportunities, and Financial Insights](https://hackernoon.com/reflecting-on-my-2023-a-year-of-growth-opportunities-and-financial-insights)
+![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-pra3gc2.jpeg)
+Stats, money, moving apartments, life, goals
 
 ### [289. Following My Own Damn Advice & Dollar Cost Averaging with Bitwage.com](https://hackernoon.com/following-my-own-damn-advice-and-dollar-cost-averaging-with-bitwagecom)
 ![](https://cdn.hackernoon.com/images/qwlVSFUNhGO3DAw4hoBd17XGTAC2-ige2392e.jpeg)
 
 
-### [290. An Open Essay on the U.S. Federal Reserve, Treasuries, Cryptocurrencies and More: Part 3](https://hackernoon.com/an-open-essay-on-the-us-federal-reserve-treasuries-cryptocurrencies-and-more-part-3)
+### [290. Bitcoin Bear Market Already?](https://hackernoon.com/bitcoin-bear-market-already-9tt32zm)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-a1j377u.jpeg)
+Seriously? I wait three years for a bitcoin bull market and it only lasts five months?
+
+### [291. An Open Essay on the U.S. Federal Reserve, Treasuries, Cryptocurrencies and More: Part 3](https://hackernoon.com/an-open-essay-on-the-us-federal-reserve-treasuries-cryptocurrencies-and-more-part-3)
 ![](https://cdn.hackernoon.com/images/r633U8vKGhQp66FOBDmgOkw0J472-6r93ova.jpeg)
 Here is how inflation will impact markets. And how bitcoin, cryptocurrency, and markets as a whole will look in the months and years to come.
 
-### [291. Reflecting On My 2023: A Year of Growth, Opportunities, and Financial Insights](https://hackernoon.com/reflecting-on-my-2023-a-year-of-growth-opportunities-and-financial-insights)
-![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-pra3gc2.jpeg)
-Stats, money, moving apartments, life, goals
-
-### [292. Gearing Up for Marketing Mumbo Jumbo: A New Squeeze Page + Blog!](https://hackernoon.com/gearing-up-for-marketing-mumbo-jumbo-a-new-squeeze-page-blog-80aa44w6)
-![](https://cdn.hackernoon.com/images/p99q44vs.jpg)
-Celebrating 20% gains in about a day, we're preparing to launch our first-ever marketing collabroation with the team and friends over at CryptoCatBot where we might even feature in their products section and/or get an email blast - for a marginal trade of referral commission, tbd - stay tuned for our glorious launch celebration in Telegram :)
-
-### [293. The Art of Money Getting or, Golden Rules for Making Money - Chapter 16](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-16)
+### [292. The Art of Money Getting or, Golden Rules for Making Money - Chapter 16](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-16)
 ![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-0r93v1l.jpeg)
 The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
+
+### [293. Gearing Up for Marketing Mumbo Jumbo: A New Squeeze Page + Blog!](https://hackernoon.com/gearing-up-for-marketing-mumbo-jumbo-a-new-squeeze-page-blog-80aa44w6)
+![](https://cdn.hackernoon.com/images/p99q44vs.jpg)
+Celebrating 20% gains in about a day, we're preparing to launch our first-ever marketing collabroation with the team and friends over at CryptoCatBot where we might even feature in their products section and/or get an email blast - for a marginal trade of referral commission, tbd - stay tuned for our glorious launch celebration in Telegram :)
 
 ### [294. An Open Essay on the U.S. Federal Reserve, Treasuries, Cryptocurrencies and More: Part 2](https://hackernoon.com/an-open-essay-on-the-us-federal-reserve-treasuries-cryptocurrencies-and-more-part-2)
 ![](https://cdn.hackernoon.com/images/r633U8vKGhQp66FOBDmgOkw0J472-po93od5.jpeg)

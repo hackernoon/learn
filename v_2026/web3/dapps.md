@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [dapps](https://hackernoon.com/tagged/dapps)
+### Let's learn about [Dapps](https://hackernoon.com/tagged/dapps) via these 176 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Dapps is short for "decentralized application". 
 
 ### [1. Subnets are Solving the Crypto Scalability Problem](https://hackernoon.com/subnets-are-solving-the-crypto-scalability-problem)
@@ -83,13 +85,13 @@ Pi Network is sort of this controversial platform, but one that interests me. Th
 ![](https://cdn.hackernoon.com/images/xC2EA4fmH7drPQTliecLxzRLYl53-v893qje.jpeg)
 Complete decentralization cannot come into play until there is mass adoption in web3. For mass adoption to occur, interoperability is a crucial factor.
 
-### [21. dApps: An important step for Blockchain adaptation](https://hackernoon.com/dapps-are-they-future-of-the-blockchain-technology-i0713txw)
-![](https://cdn.hackernoon.com/drafts/rj2lu3t1e.png)
-It is a well-known fact that blockchain is becoming more widespread; therefore, its daily life functions continue to increase. As part of the adaptation, many initiatives are taking essential steps for the use of cryptocurrencies in everyday life.
-
-### [22. Pros and Cons of Development On Polygon](https://hackernoon.com/pros-and-cons-of-development-on-polygon)
+### [21. Pros and Cons of Development On Polygon](https://hackernoon.com/pros-and-cons-of-development-on-polygon)
 ![](https://cdn.hackernoon.com/images/5rS4yrERbxUtfUCTsrb3x2kieP32-5xe3rdd.jpeg)
 Polygon is a second-level blockchain that runs on the Ethereum ecosystem.  Figure out what are its advantages and what are the pros and cons of developing on it
+
+### [22. dApps: An important step for Blockchain adaptation](https://hackernoon.com/dapps-are-they-future-of-the-blockchain-technology-i0713txw)
+![](https://cdn.hackernoon.com/drafts/rj2lu3t1e.png)
+It is a well-known fact that blockchain is becoming more widespread; therefore, its daily life functions continue to increase. As part of the adaptation, many initiatives are taking essential steps for the use of cryptocurrencies in everyday life.
 
 ### [23. How to Build an Awesome Web3 Crowd-Funding Platform with React, Solidity, and CometChat](https://hackernoon.com/how-to-build-an-awesome-web3-crowd-funding-platform-with-react-solidity-and-cometchat)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-ym93sko.jpeg)
@@ -191,14 +193,14 @@ ideally, good web3 UX suggests more than design interfaces. Developers and UI de
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-o193o7o.jpeg)
 In this guide, we will teach you how to build your own decentralized voting dapp using Next.js, TypeScript, Tailwind CSS, and CometChat. 
 
-### [48. What is 'Sharding' and UTXO Scaling for Blockchain?](https://hackernoon.com/what-is-sharding-and-utxo-scaling-for-blockchain)
+### [48. Build a Decentralized Freelancer Marketplace With React, Solidity, and CometChat](https://hackernoon.com/build-a-decentralized-freelancer-marketplace-with-react-solidity-and-cometchat)
+![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-m093ov5.jpeg)
+Learn how to build a decentralized freelance marketplace like Upwork using React, Solidity, and CometChat.
+
+### [49. What is 'Sharding' and UTXO Scaling for Blockchain?](https://hackernoon.com/what-is-sharding-and-utxo-scaling-for-blockchain)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-uj03blf.jpeg)
 We propose an improved algorithm called proof-of-less-work.
 
-
-### [49. Build a Decentralized Freelancer Marketplace With React, Solidity, and CometChat](https://hackernoon.com/build-a-decentralized-freelancer-marketplace-with-react-solidity-and-cometchat)
-![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-m093ov5.jpeg)
-Learn how to build a decentralized freelance marketplace like Upwork using React, Solidity, and CometChat.
 
 ### [50. Privacy in Blockchain: Building A Surveillance Free World ](https://hackernoon.com/privacy-in-blockchain-building-a-surveillance-free-world)
 ![](https://cdn.hackernoon.com/images/PWiKbaVxohZ8PidtkLYzFcnG9Qw2-or93gbe.jpeg)
@@ -220,29 +222,29 @@ Decentralised wallets, or DeFi wallets are a gateway to the world of Decentralis
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-2393mg5.jpeg)
 In this comprehensive tutorial, consider us your companions on an exhilarating journey to construct an advanced Web3 Play-To-Earn Money DApp. 
 
-### [55. All Aboard Web 3.0: Why Onboarding New dApp Users is a Titanic Task](https://hackernoon.com/all-aboard-web-30-why-on-boarding-new-dapp-users-is-a-titanic-task-mq1kh36dk)
-![](https://cdn.hackernoon.com/drafts/ha6v136oh.png)
-If there’s any one metric which indicates an app’s success, it’s how many people are using it - but dApp user numbers aren’t stacking up.
-
-### [56. Exclusive Interview With OpenChat Co-founder Matthew Grogan](https://hackernoon.com/exclusive-interview-with-openchat-co-founder-matthew-grogan)
+### [55. Exclusive Interview With OpenChat Co-founder Matthew Grogan](https://hackernoon.com/exclusive-interview-with-openchat-co-founder-matthew-grogan)
 ![](https://cdn.hackernoon.com/images/XEwEsoKKiSM0pGjq4dyeehqOfjj2-f493gct.jpeg)
 OpenChat boasts of the potential to upend social media networking.
+
+### [56. All Aboard Web 3.0: Why Onboarding New dApp Users is a Titanic Task](https://hackernoon.com/all-aboard-web-30-why-on-boarding-new-dapp-users-is-a-titanic-task-mq1kh36dk)
+![](https://cdn.hackernoon.com/drafts/ha6v136oh.png)
+If there’s any one metric which indicates an app’s success, it’s how many people are using it - but dApp user numbers aren’t stacking up.
 
 ### [57. Token Standards: ERC-20 vs. ERC-721 vs. ERC-1155](https://hackernoon.com/token-standards-erc-20-vs-erc-721-vs-erc-1155)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-0z931dw.jpeg)
 ERC stands for Ethereum Request for Comment, and by addressing this topic is going to help us better understand the reach of many blockchain use cases.
 
-### [58. Polkadot Parachains will Lead to Best Practices for Cross-Consensus Communication](https://hackernoon.com/polkadot-parachains-will-lead-to-best-practices-for-cross-consensus-communication)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-xx03aap.jpeg)
-Phala Network provides computing power to other blockchain applications while protecting the data layer.
-
-### [59. Binance Smart Chain's CeDeFi Is Not Likely To Rain On Ethereum's DeFi Parade](https://hackernoon.com/binance-smart-chains-cedefi-is-not-likely-to-rain-on-ethereums-defi-parade-m75233x8)
+### [58. Binance Smart Chain's CeDeFi Is Not Likely To Rain On Ethereum's DeFi Parade](https://hackernoon.com/binance-smart-chains-cedefi-is-not-likely-to-rain-on-ethereums-defi-parade-m75233x8)
 ![](https://cdn.hackernoon.com/images/mo6FDyqxsmNgBKjqW9MRvCl9vfI3-815m33uu.jpeg)
 DeFi vs CeDeFi and Ethereum vs BSC: their competitive advantages, their defensibility, and how this might shape their market position and dominance over time
 
-### [60. Elon Musk Is Proving the Need For Decentralization: Here's How](https://hackernoon.com/elon-musk-is-proving-the-need-for-decentralization-heres-how)
+### [59. Elon Musk Is Proving the Need For Decentralization: Here's How](https://hackernoon.com/elon-musk-is-proving-the-need-for-decentralization-heres-how)
 ![](https://cdn.hackernoon.com/images/PqBokrbZnUh88uMPTuuAuDPfPi53-5u93mtx.jpeg)
 A lot of the popular Web3 business models are trying their best not to rely on advertising from brands or the selling of data to stay solvent.
+
+### [60. Polkadot Parachains will Lead to Best Practices for Cross-Consensus Communication](https://hackernoon.com/polkadot-parachains-will-lead-to-best-practices-for-cross-consensus-communication)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-xx03aap.jpeg)
+Phala Network provides computing power to other blockchain applications while protecting the data layer.
 
 ### [61. Creating Flawless DApps with No-code Bubble + Nexus.io Plugin](https://hackernoon.com/creating-flawless-dapps-with-no-code-bubble-nexusio-plugin)
 ![](https://cdn.hackernoon.com/images/6Uy7JQ8n4CNQTxkGnF5wqNasJDV2-dz03gvu.jpeg)
@@ -252,13 +254,13 @@ Nexus’ no-code Bubble plugin allows you to create Web3 applications on the Nex
 ![](https://cdn.hackernoon.com/images/SwepmJNMSIMECdXaWIT8wlEJCD93-hrx35zf.gif)
 Hashmasks are a new experiment in crypto art. But 30% of the project's Name Changing Token (NCT) is already owned by users who do not even own a Hashmask. 
 
-### [63. Solana Goes Forth with extrnode’s Open-Source Load Balancer](https://hackernoon.com/solana-goes-forth-with-extrnodes-open-source-load-balancer)
-![](https://cdn.hackernoon.com/images/21Jy8tUQo1ffWQbcAYCZIEXbhZ72-az93re6.jpeg)
-Everstake launches extrnode load balancer that distributes requests within a cluster of Solana’s public RPC nodes to help decentralize the RPC layer in Web3.
-
-### [64. Disrupting the Global Healthcare in Web3](https://hackernoon.com/disrupting-the-global-healthcare-in-web3)
+### [63. Disrupting the Global Healthcare in Web3](https://hackernoon.com/disrupting-the-global-healthcare-in-web3)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-u192br5.jpeg)
 Keep Disrupting the Global Healthcare in Web3 Together
+
+### [64. Solana Goes Forth with extrnode’s Open-Source Load Balancer](https://hackernoon.com/solana-goes-forth-with-extrnodes-open-source-load-balancer)
+![](https://cdn.hackernoon.com/images/21Jy8tUQo1ffWQbcAYCZIEXbhZ72-az93re6.jpeg)
+Everstake launches extrnode load balancer that distributes requests within a cluster of Solana’s public RPC nodes to help decentralize the RPC layer in Web3.
 
 ### [65. How One Blockchain Company BUIDLed Their Way to the Top 50](https://hackernoon.com/how-one-blockchain-company-buidled-their-way-to-the-top-50-enu32oa)
 ![](https://cdn.hackernoon.com/images/7x1t32yz.jpg)
@@ -268,29 +270,29 @@ The future looks bright for the world of blockchain. According to Gartner, the i
 ![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-jq8357r.jpeg)
 When it comes to being able to pay for contract calls, integration with multiple on-ramps guarantees that all users will be able to obtain tokens quickly and ea
 
-### [67. Of Art Tokenization, Blockchain, and Provenance with A Sprinkling of Non-Fungible Tokens](https://hackernoon.com/revolutionizing-the-art-industry-with-blockchain-d836m34vb)
-![](https://cdn.hackernoon.com/drafts/c535h34m2.png)
-The global art market grew 6% in 2018 to 67.4 billion in sales according to economist Clare McAndrew’s report “The Art Market 2019,” released by Art Basel and UBS, however, despite the 6% growth, 57% of dealers saw their sales decline in 2018. 
-
-### [68. Is Layer 2 Scaling for Blockchains Living up to Its Promise?](https://hackernoon.com/is-layer-2-scaling-for-blockchains-living-up-to-its-promise-ok3632jy)
+### [67. Is Layer 2 Scaling for Blockchains Living up to Its Promise?](https://hackernoon.com/is-layer-2-scaling-for-blockchains-living-up-to-its-promise-ok3632jy)
 ![](https://cdn.hackernoon.com/images/b33z3ymt.jpg)
 As crypto-mania approached its peak in 2017, it seemed like every project was striving to build the latest, greatest blockchain platform, resulting in rafts of mainnet launches in 2018. The reality is that many of those projects have struggled to survive. They’re competing for a limited pool of developers and see little activity beyond a few underused dApps. 
 
-### [69. Top 3 dApps That Nobody is Talking About](https://hackernoon.com/top-3-dapps-that-nobody-is-talking-about-5aah3243)
+### [68. Of Art Tokenization, Blockchain, and Provenance with A Sprinkling of Non-Fungible Tokens](https://hackernoon.com/revolutionizing-the-art-industry-with-blockchain-d836m34vb)
+![](https://cdn.hackernoon.com/drafts/c535h34m2.png)
+The global art market grew 6% in 2018 to 67.4 billion in sales according to economist Clare McAndrew’s report “The Art Market 2019,” released by Art Basel and UBS, however, despite the 6% growth, 57% of dealers saw their sales decline in 2018. 
+
+### [69. How to Build a Cinema Ticket Booking Dapp with React, Solidity, and CometChat](https://hackernoon.com/how-to-build-a-cinema-ticket-booking-dapp-with-react-solidity-and-cometchat)
+![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-0y93mt4.jpeg)
+This tutorial is a decentralized application that uses blockchain technology to revolutionize the movie industry. The project offers a comprehensive solution...
+
+### [70. Top 3 dApps That Nobody is Talking About](https://hackernoon.com/top-3-dapps-that-nobody-is-talking-about-5aah3243)
 ![](https://cdn.hackernoon.com/drafts/0co32iq.png)
 Decentralized applications are much safer since users’ data are stored in decentralized nodes, not in a centralized repository. Besides that, users can act much more confident while using and spending money on applications because of these dApps are using the smart contracts which the blockchain has.
 
-### [70. [Tutorial] How to Develop Blockchain Applications — Part 2/2](https://hackernoon.com/the-introduction-to-blockchain-application-development-part-22-wj1q3qbw)
+### [71. [Tutorial] How to Develop Blockchain Applications — Part 2/2](https://hackernoon.com/the-introduction-to-blockchain-application-development-part-22-wj1q3qbw)
 ![](https://cdn.hackernoon.com/images/bi103qoe.jpg)
 In this post, we will take a deep-dive into developing custom transaction types with our Core GTI (Generic Transaction Interface) technology.
 
-### [71. Alternative Avenues to Raise Funds as a DApp Developer in 2020](https://hackernoon.com/alternative-avenues-to-raise-funds-as-a-dapp-developer-in-2020-ixjq36vb)
+### [72. Alternative Avenues to Raise Funds as a DApp Developer in 2020](https://hackernoon.com/alternative-avenues-to-raise-funds-as-a-dapp-developer-in-2020-ixjq36vb)
 ![](https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Admit it! Startups are hard, why? Because in startup space we are looking at a problem that no one is solving or an incumbent is making lives miserable there and we improve the state, we add value, we find a new business model while doing so and somehow make that startup - now turned into a business - self sustainable!
-
-### [72. How to Build a Cinema Ticket Booking Dapp with React, Solidity, and CometChat](https://hackernoon.com/how-to-build-a-cinema-ticket-booking-dapp-with-react-solidity-and-cometchat)
-![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-0y93mt4.jpeg)
-This tutorial is a decentralized application that uses blockchain technology to revolutionize the movie industry. The project offers a comprehensive solution...
 
 ### [73. How Grape Maximizes Flexibility for Projects on the Web4 and AI Blockchain](https://hackernoon.com/how-grape-maximizes-flexibility-for-projects-on-the-web4-and-ai-blockchain)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-pp93pk8.png)
@@ -345,22 +347,22 @@ Chainlink is the market-leading oracle network, helping secure hundreds of billi
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-gfe3tu5.jpeg)
 Ankr has joined Optimism, an Ethereum blockchain-based Layer-2 scaling solution, as an RPC (Remote Procedure Call) Using RPCs.
 
-### [86. "India May Regulate Crypto But I don’t Anticipate A Ban" - Sandeep Nailwal](https://hackernoon.com/india-may-regulate-crypto-but-i-dont-anticipate-a-ban-sandeep-nailwal-c82i33pb)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-bj5435zz.jpeg)
-This interview discusses the internet of blockchain, Polygon/matic and Defi and how developers can build decentralised applications. 
-
-### [87. Hybrid Rollup — What do Aztec, Miden, & Ola Hold for the Future of Next-Generation Infrastructure?](https://hackernoon.com/hybrid-rollup-what-do-aztec-miden-and-ola-hold-for-the-future-of-next-generation-infrastructure)
+### [86. Hybrid Rollup — What do Aztec, Miden, & Ola Hold for the Future of Next-Generation Infrastructure?](https://hackernoon.com/hybrid-rollup-what-do-aztec-miden-and-ola-hold-for-the-future-of-next-generation-infrastructure)
 ![](https://cdn.hackernoon.com/images/Ns6mVt8NqgNkfsouVyus9tAe3mB2-dv93rfv.jpeg)
 In this article, we delve into the concept of “Hybrid Rollup,” examining how projects Aztec, Miden, and Ola approach this technology. 
 
-### [88. Blockchain Network Using Bitcoin Codebase Adds RingCT and Bulletproofs](https://hackernoon.com/blockchain-network-using-bitcoin-codebase-adds-ringct-and-bulletproofs-g21lw38h6)
-![](https://cdn.hackernoon.com/drafts/d41nb3889.png)
-Privacy is something we all value, but some value it far more than others. Transacting in cryptocurrency has its inherent advantages, but not all cryptocurrencies are totally private or secure.
+### [87. "India May Regulate Crypto But I don’t Anticipate A Ban" - Sandeep Nailwal](https://hackernoon.com/india-may-regulate-crypto-but-i-dont-anticipate-a-ban-sandeep-nailwal-c82i33pb)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-bj5435zz.jpeg)
+This interview discusses the internet of blockchain, Polygon/matic and Defi and how developers can build decentralised applications. 
 
-### [89. Innovators of Interoperability: Three Solutions](https://hackernoon.com/why-developers-are-seeking-new-blockchain-platforms-9j1oi3z70)
+### [88. Innovators of Interoperability: Three Solutions](https://hackernoon.com/why-developers-are-seeking-new-blockchain-platforms-9j1oi3z70)
 ![](https://cdn.hackernoon.com/drafts/gm5d3zl5.png)
 Choosing a platform upon which to build your blockchain, token or smart contract can be difficult - and this is a problem which a range of pioneering projects are attempting to solve.
 
+
+### [89. Blockchain Network Using Bitcoin Codebase Adds RingCT and Bulletproofs](https://hackernoon.com/blockchain-network-using-bitcoin-codebase-adds-ringct-and-bulletproofs-g21lw38h6)
+![](https://cdn.hackernoon.com/drafts/d41nb3889.png)
+Privacy is something we all value, but some value it far more than others. Transacting in cryptocurrency has its inherent advantages, but not all cryptocurrencies are totally private or secure.
 
 ### [90. The Next Phase of Crypto Will be The Age of dApps](https://hackernoon.com/the-next-phase-of-crypto-will-be-the-age-of-dapps)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-so03bfm.jpeg)
@@ -370,13 +372,13 @@ This article talks about Polkadot, blockchain data transfer and substrate projec
 ![](https://cdn.hackernoon.com/images/14TrUQaAknSmk2wmjSwmUYqTmiI2-xu13z1b.png)
 RPC Nodes are significant part of the blockchain infrastructure. Read on to learn about the danger of centralized RPC and the reliable alternatives.
 
-### [92. The Projects Working to Lower Ethereum Gas Fees](https://hackernoon.com/ethereum-gas-fees-are-there-any-projects-working-to-optimize-eth-gas-fees)
-![](https://cdn.hackernoon.com/images/IfUODTXhvnYvbRHkY9YZSyjHTvE3-cd13sdf.jpeg)
-As more investors try their hand at DeFi, gas fees are shooting over the roof, making engaging with decentralized apps uneconomical for most users. 
-
-### [93. Feature, Not Bug: The Terrible Rationale Behind Web3's Product Design](https://hackernoon.com/feature-not-bug-the-terrible-rationale-behind-web3s-product-design)
+### [92. Feature, Not Bug: The Terrible Rationale Behind Web3's Product Design](https://hackernoon.com/feature-not-bug-the-terrible-rationale-behind-web3s-product-design)
 ![](https://cdn.hackernoon.com/images/OwFc24c80LOgSLJfXqJrRGUrSyA3-9c930pz.jpeg)
 Let's attempt to look through the rationale behind terrible web3 product design.
+
+### [93. The Projects Working to Lower Ethereum Gas Fees](https://hackernoon.com/ethereum-gas-fees-are-there-any-projects-working-to-optimize-eth-gas-fees)
+![](https://cdn.hackernoon.com/images/IfUODTXhvnYvbRHkY9YZSyjHTvE3-cd13sdf.jpeg)
+As more investors try their hand at DeFi, gas fees are shooting over the roof, making engaging with decentralized apps uneconomical for most users. 
 
 ### [94. DevOps Tooling for Web 3.0: Building, Deploying, and Scaling Decentralized Applications](https://hackernoon.com/devops-tooling-for-web-30-building-deploying-and-scaling-decentralized-applications)
 ![](https://cdn.hackernoon.com/images/interconnected-nodes-in-a-vacuum-b8jw5mqcx7k5qgcr1f7n6bk7.png)
@@ -390,13 +392,13 @@ What inspired us to build SimpleAsWater?
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-n3833uo.png)
 In this article, we'll delve into the top three programming languages for blockchain development: Solidity, Rust, and Motoko. 
 
-### [97. The Path to a Seamless Web3: Account Abstraction from Flow (Part 1)](https://hackernoon.com/the-path-to-a-seamless-web3-account-abstraction-from-flow-part-1)
-![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-azb2u6h.jpeg)
-Walletless dApps from Flow use account abstraction to improve the web3 user experience. In part one, we walk through how to build the backend for this dApp.
-
-### [98. RootStock L2 : Pioneering Dapps on Bitcoin](https://hackernoon.com/rootstock-l2-pioneering-dapps-on-bitcoin)
+### [97. RootStock L2 : Pioneering Dapps on Bitcoin](https://hackernoon.com/rootstock-l2-pioneering-dapps-on-bitcoin)
 ![](https://cdn.hackernoon.com/images/nAelb8PIvBUfp3cYnveQaijcEkT2-0us2xuo.jpeg)
 Rootstock (RSK) is a Layer 2 solution for Bitcoin that operates as a sidechain, enabling high throughput and scalability for transactions and smart contracts. 
+
+### [98. The Path to a Seamless Web3: Account Abstraction from Flow (Part 1)](https://hackernoon.com/the-path-to-a-seamless-web3-account-abstraction-from-flow-part-1)
+![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-azb2u6h.jpeg)
+Walletless dApps from Flow use account abstraction to improve the web3 user experience. In part one, we walk through how to build the backend for this dApp.
 
 ### [99. What Are The Benefits Of Having DApps Run 100% On-Chain?](https://hackernoon.com/what-are-the-benefits-of-having-dapps-run-100percent-on-chain)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ss931tz.jpeg)
@@ -406,73 +408,73 @@ DApps on most blockchains don't run their full applications on chain, which is a
 ![](https://cdn.hackernoon.com/images/5EiKboAxZhXMXqh4gqp7BUh0chf1-qba3rb7.jpeg)
 This blog post describes a common authentication issue that Web3 BUIDLers face that can be resolved using the Lumos Metaverse’s Multi-Wallet Login WIdget SDK.
 
-### [101. Importance of a Gratitude Journal ](https://hackernoon.com/importance-of-a-gratitude-journal-ttcs32qb)
-![](https://images.unsplash.com/photo-1573322420067-20b6228d9158?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Gratitude works its magic by serving as an antidote to negative emotions. It’s like white blood cells for the soul, protecting us from cynicism, entitlement, anger, and resignation. — Arianna Huffington, Thrive.
-
-### [102. How to Build a Web3 NFT Cross-Breeding Dapp with React, Solidity, and CometChat](https://hackernoon.com/how-to-build-a-web3-nft-cross-breeding-dapp-with-react-solidity-and-cometchat)
-![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-ol93mc5.jpeg)
-In this tutorial, we will walk you through the process of building a web3 NFT cross-breeding DApp using React, Solidity, and CometChat.
-
-### [103. How the Internet has Evolved: The Journey From Web1.0 to Web3.0](https://hackernoon.com/how-the-internet-has-evolved-the-journey-from-web10-to-web30)
+### [101. How the Internet has Evolved: The Journey From Web1.0 to Web3.0](https://hackernoon.com/how-the-internet-has-evolved-the-journey-from-web10-to-web30)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-5v930na.jpeg)
 The Internet has come a long way - from the simple web pages of web1.0 to the decentralized web3.0. 
 
-### [104. Notes on Ethereum Governance and UI/UX Usability in dApps](https://hackernoon.com/notes-on-ethereum-governance-and-uiux-usability-in-dapps-972l3z51)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpqKoCJAfsvPV3kTPrueYQmdFvun2-rp1528oj.jpeg?alt=media&token=1828c53f-6159-4746-8af6-116f9db214b6)
-While most of blockchain and Ethereum in particular, developers only focus on building and testing their DApps, they often forget the end users or customers. That means, they underestimate the importance of UI/UX and governance in their product commercialization and success. To that end, this article sheds more lights on best practices for successfully building Ethereum based on User Interface (UI)/User Experience (UX) and governance.
+### [102. Importance of a Gratitude Journal ](https://hackernoon.com/importance-of-a-gratitude-journal-ttcs32qb)
+![](https://images.unsplash.com/photo-1573322420067-20b6228d9158?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Gratitude works its magic by serving as an antidote to negative emotions. It’s like white blood cells for the soul, protecting us from cynicism, entitlement, anger, and resignation. — Arianna Huffington, Thrive.
 
-### [105. How Bitcoin's Layer-2 Networks Are Transforming The World's Oldest Digital Asset](https://hackernoon.com/how-bitcoins-layer-2-networks-are-transforming-the-worlds-oldest-digital-asset)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-91835fa.jpeg)
-Rootstock, one of the oldest Bitcoin layer-2s, has processed more than 13 million transactions in its lifetime.
+### [103. How to Build a Web3 NFT Cross-Breeding Dapp with React, Solidity, and CometChat](https://hackernoon.com/how-to-build-a-web3-nft-cross-breeding-dapp-with-react-solidity-and-cometchat)
+![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-ol93mc5.jpeg)
+In this tutorial, we will walk you through the process of building a web3 NFT cross-breeding DApp using React, Solidity, and CometChat.
 
-### [106. "DApps!" A New Buzzword, or Here to Stay for Good?](https://hackernoon.com/dapps-just-a-new-buzzword-or-here-to-stay-mfq46qm)
+### [104. "DApps!" A New Buzzword, or Here to Stay for Good?](https://hackernoon.com/dapps-just-a-new-buzzword-or-here-to-stay-mfq46qm)
 ![](https://cdn.hackernoon.com/drafts/4xyc4664.png)
 For the last few months, there’s been a new hot topic in crypto circles: DApps!  Even as someone with a beginner’s understanding of blockchains, cryptocurrencies and its related environments, I hadn’t heard of the term ‘DApp’ until quite recently. But ever since, I’ve been deeply intrigued by them and their potential to change the way we perceive and interact with apps.
 
-### [107. Intro to Web3 Domains: Easier Identity Authentication](https://hackernoon.com/intro-to-web3-domains-easier-identity-authentication)
+### [105. Notes on Ethereum Governance and UI/UX Usability in dApps](https://hackernoon.com/notes-on-ethereum-governance-and-uiux-usability-in-dapps-972l3z51)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpqKoCJAfsvPV3kTPrueYQmdFvun2-rp1528oj.jpeg?alt=media&token=1828c53f-6159-4746-8af6-116f9db214b6)
+While most of blockchain and Ethereum in particular, developers only focus on building and testing their DApps, they often forget the end users or customers. That means, they underestimate the importance of UI/UX and governance in their product commercialization and success. To that end, this article sheds more lights on best practices for successfully building Ethereum based on User Interface (UI)/User Experience (UX) and governance.
+
+### [106. Intro to Web3 Domains: Easier Identity Authentication](https://hackernoon.com/intro-to-web3-domains-easier-identity-authentication)
 ![](https://cdn.hackernoon.com/images/internet-clgyi1awz000101s69biv61ew.png)
 Web3 domains are expected to solve the centralization problem of the Web2 era.
+
+### [107. How Bitcoin's Layer-2 Networks Are Transforming The World's Oldest Digital Asset](https://hackernoon.com/how-bitcoins-layer-2-networks-are-transforming-the-worlds-oldest-digital-asset)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-91835fa.jpeg)
+Rootstock, one of the oldest Bitcoin layer-2s, has processed more than 13 million transactions in its lifetime.
 
 ### [108. How To Decentralize The Internet?](https://hackernoon.com/how-to-decentralize-the-internet-q33d345l)
 ![](https://cdn.hackernoon.com/images/wb443va6tWfO9ezfAOTebkX324z2-rf9v359r.jpeg)
 Can we decentralize the internet? Or are the blockchains of today not up to task? I speak to Pavel Prigolovko, of TON Labs, to find out how it can be possible.
 
-### [109. Users Will Vote With Their Wallets to Decide Who Wins Web3](https://hackernoon.com/users-will-vote-with-their-wallets-to-decide-who-wins-web3)
-![](https://cdn.hackernoon.com/images/Ah2jLzMePieEW0CzYzRXo6GsVyA3-a193qzc.jpeg)
-Who do you trust with your digital wallet? Someone like Apple or Google? Someone like your bank? Starbucks? Your airline?
-
-### [110. How to Create a Web3 Events Marketplace with Next.js, Typescript, and Solidity](https://hackernoon.com/how-to-create-a-web3-events-marketplace-with-nextjs-typescript-and-solidity)
+### [109. How to Create a Web3 Events Marketplace with Next.js, Typescript, and Solidity](https://hackernoon.com/how-to-create-a-web3-events-marketplace-with-nextjs-typescript-and-solidity)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-ub83wxu.jpeg)
 By the end of this guide, you'll have a functioning decentralized platform where users can list and participate in events.
 
-### [111. How Does Polygon Help Ethereum Scale?](https://hackernoon.com/how-does-polygon-help-ethereum-scale)
-![](https://cdn.hackernoon.com/images/YpGUqiNYo2Sl2tRp2O2FS0ePM0V2-7093j66.jpeg)
-Learn all about the Polygon Proof of Stake sidechain and how it helps Ethereum scale. Then compare Polygon to Ethereum by quickly launching an NFT project.
-
-### [112. How to Build a Decentralized House Rental Platform with Next.js, Redux, and Solidity](https://hackernoon.com/how-to-build-a-decentralized-house-rental-platform-with-nextjs-redux-and-solidity)
-![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-k783v3k.jpeg)
-Learn to build a decentralized house rental marketplace on Ethereum.
-
-### [113. 7 Consensus Mechanisms Developers Must Know to BUIDL for Web3](https://hackernoon.com/7-consensus-mechanisms-developers-must-know-to-buidl-for-web3)
+### [110. 7 Consensus Mechanisms Developers Must Know to BUIDL for Web3](https://hackernoon.com/7-consensus-mechanisms-developers-must-know-to-buidl-for-web3)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-n192dgl.jpeg)
 Blockchain has replaced 3rd-party trust with decentralized ledgers & the root of decentralized peer-to-peer networks lies in Consensus Mechanisms.
 
-### [114. Machine Learning: A High Level Overview](https://hackernoon.com/machine-learning-a-high-level-overview-ou9n3agd)
+### [111. How to Build a Decentralized House Rental Platform with Next.js, Redux, and Solidity](https://hackernoon.com/how-to-build-a-decentralized-house-rental-platform-with-nextjs-redux-and-solidity)
+![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-k783v3k.jpeg)
+Learn to build a decentralized house rental marketplace on Ethereum.
+
+### [112. How Does Polygon Help Ethereum Scale?](https://hackernoon.com/how-does-polygon-help-ethereum-scale)
+![](https://cdn.hackernoon.com/images/YpGUqiNYo2Sl2tRp2O2FS0ePM0V2-7093j66.jpeg)
+Learn all about the Polygon Proof of Stake sidechain and how it helps Ethereum scale. Then compare Polygon to Ethereum by quickly launching an NFT project.
+
+### [113. Machine Learning: A High Level Overview](https://hackernoon.com/machine-learning-a-high-level-overview-ou9n3agd)
 ![](https://cdn.hackernoon.com/drafts/9igz3cew.png)
 When I try to introduce the concept of AI DApps, I often find that it is particularly difficult when people lack an accurate grasp of what machine learning is. There is an overwhelming amount of information online about machine learning targeted toward audiences with different levels of technical expertise. 
 
-### [115. Five Learnings from ETHDenver 2020](https://hackernoon.com/five-learnings-from-ethdenver-2020-pj3b37gr)
-![](https://cdn.hackernoon.com/drafts/qqlo3r0t.png)
-Come gather ‘round B is for Bufficorn children!
+### [114. Which is Better for Your DApp: a Custom Polygon RPC Node or a Public Polygon Node?](https://hackernoon.com/which-is-better-for-your-dapp-a-custom-polygon-rpc-node-or-a-public-polygon-node)
+![](https://cdn.hackernoon.com/images/gal2pB0AJ4aC5LR8KKDVLi7Mbnk2-ks03a7v.jpeg)
+Learn which is best for your dApp, whether it’s a custom Polygon RPC node or a public Polygon node. Learn about performance, reliability, and cost. 
 
-### [116. Mastering Your Own Matrix: Decentralized Identity (DID) and Reputation in Web3](https://hackernoon.com/mastering-your-own-matrix-decentralized-identity-did-and-reputation-in-web3)
+### [115. Mastering Your Own Matrix: Decentralized Identity (DID) and Reputation in Web3](https://hackernoon.com/mastering-your-own-matrix-decentralized-identity-did-and-reputation-in-web3)
 ![](https://cdn.hackernoon.com/images/LjXZ5mIcFPdihzb1A16Wpxg1ZFw2-xgc2nej.jpeg)
 Step into a future where we command our own tales of identity and trust. It's time to explore the decentralized frontier of self-sovereign stories in Web3.
 
-### [117. The Upgradeability Crisis in Blockchain](https://hackernoon.com/the-upgradeability-crisis-in-blockchain-vnm3w8v)
+### [116. The Upgradeability Crisis in Blockchain](https://hackernoon.com/the-upgradeability-crisis-in-blockchain-vnm3w8v)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5Bjz78MORcPQx3lUTVedEHus0mG2-26ck3wyz.jpeg?alt=media&token=4388a1b4-34a1-4dce-9f81-4849001d7c1f)
 I'm Andrew Levine, the CEO of OpenOrchard where we are developing the Koinos blockchain. 
+
+### [117. Five Learnings from ETHDenver 2020](https://hackernoon.com/five-learnings-from-ethdenver-2020-pj3b37gr)
+![](https://cdn.hackernoon.com/drafts/qqlo3r0t.png)
+Come gather ‘round B is for Bufficorn children!
 
 ### [118. How to Onboard New Users With Coinbase Wallet](https://hackernoon.com/how-to-onboard-new-users-with-coinbase-wallet)
 ![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-ht93ihz.jpeg)
@@ -482,61 +484,61 @@ Learn how to make onboarding new users to your web3 dapps easier by using Coinba
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgPaPGvf3PJfuQWl6JgbSMewWfin1-cc6g3tws.png?alt=media&token=dab405eb-18ce-4646-a429-7f99d6425ed2)
 The onset of Web 3.0 has been marked by a flurry of decentralised apps (or dApps in short) making their way into our daily lives. dApps take the modular approach to applications and combine it with a non-centralised management structure. In a world, where personal data integrity and freedom of speech is increasingly important, dApps will play a major role in creating a more safe space for end users when it comes to individual privacy and data access liberty. 
 
-### [120. Which is Better for Your DApp: a Custom Polygon RPC Node or a Public Polygon Node?](https://hackernoon.com/which-is-better-for-your-dapp-a-custom-polygon-rpc-node-or-a-public-polygon-node)
-![](https://cdn.hackernoon.com/images/gal2pB0AJ4aC5LR8KKDVLi7Mbnk2-ks03a7v.jpeg)
-Learn which is best for your dApp, whether it’s a custom Polygon RPC node or a public Polygon node. Learn about performance, reliability, and cost. 
-
-### [121. Flare Just Airdropped 4.279 Billion Tokens: The Largest Drop in Crypto History](https://hackernoon.com/flare-just-airdropped-4279-billion-tokens-the-largest-drop-in-crypto-history)
+### [120. Flare Just Airdropped 4.279 Billion Tokens: The Largest Drop in Crypto History](https://hackernoon.com/flare-just-airdropped-4279-billion-tokens-the-largest-drop-in-crypto-history)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-dw93osb.jpeg)
 Flare, a layer one blockchain for building applications that utilize data from other chains and the internet, has successfully completed its long-awaited token 
 
-### [122. Solving the Problem of Blockchain Congestion](https://hackernoon.com/solving-the-problem-of-blockchain-congestion)
+### [121. Solving the Problem of Blockchain Congestion](https://hackernoon.com/solving-the-problem-of-blockchain-congestion)
 ![](https://cdn.hackernoon.com/images/E5pzMBNmQ9SBU6qVMYl6X48inok2-a593p21.jpeg)
 Let's go through what needs to be done to solve the problem of congestion on blockchains.
+
+### [122. Exploring the Technical Integration of OpenRTB with a Crypto-Native Advertising Platform](https://hackernoon.com/exploring-the-technical-integration-of-openrtb-with-a-crypto-native-advertising-platforms)
+![](https://cdn.hackernoon.com/images/qQyocHsWbMczkyxgRp3TUDFdoNx1-web3ta7.jpeg)
+Explore blockchain's potential in digital advertising with OpenRTB integration, on-chain smart contracts, and innovative publisher solutions.
 
 ### [123. dApp Development With Michael Vandeberg: An Interview](https://hackernoon.com/dapp-development-with-michael-vandeberg-an-interview-482534wr)
 ![](https://cdn.hackernoon.com/images/5Bjz78MORcPQx3lUTVedEHus0mG2-k8r345y.jpeg)
 Blockchain engineer explains how to build decentralized applications (dApp)
 
-### [124. Exploring the Technical Integration of OpenRTB with a Crypto-Native Advertising Platform](https://hackernoon.com/exploring-the-technical-integration-of-openrtb-with-a-crypto-native-advertising-platforms)
-![](https://cdn.hackernoon.com/images/qQyocHsWbMczkyxgRp3TUDFdoNx1-web3ta7.jpeg)
-Explore blockchain's potential in digital advertising with OpenRTB integration, on-chain smart contracts, and innovative publisher solutions.
-
-### [125. Introducing Ola's Pre-Alpha Testnet: Empowering Data Ownership and ZK Smart Contract Innovation  ](https://hackernoon.com/introducing-olas-pre-alpha-testnet-empowering-data-ownership-and-zk-smart-contract-innovation)
+### [124. Introducing Ola's Pre-Alpha Testnet: Empowering Data Ownership and ZK Smart Contract Innovation  ](https://hackernoon.com/introducing-olas-pre-alpha-testnet-empowering-data-ownership-and-zk-smart-contract-innovation)
 ![](https://cdn.hackernoon.com/images/Ns6mVt8NqgNkfsouVyus9tAe3mB2-ww831n4.png)
 Join Ola's Incentivized Pre-Alpha Testnet and embark on a journey of blockchain innovation
 
-### [126. We Put Back Decentralization in DeFi](https://hackernoon.com/we-put-back-decentralization-in-defi)
+### [125. We Put Back Decentralization in DeFi](https://hackernoon.com/we-put-back-decentralization-in-defi)
 ![](https://cdn.hackernoon.com/images/0MITgsWJxSdskYALGNDPcu3QIux2-2n03kd9.png)
 Discover how Aleph Cloud’s decentralized frontend marketplace eliminates centralized hosting risks for DeFi apps like Aave, Liquity, and dYdX. 
 
-### [127. How Etherspot Redefines The Way We Build Ethereum Smart Contracts (Account Abstraction)](https://hackernoon.com/how-etherspot-redefines-the-way-we-build-ethereum-smart-contracts-account-abstraction)
+### [126. How Etherspot Redefines The Way We Build Ethereum Smart Contracts (Account Abstraction)](https://hackernoon.com/how-etherspot-redefines-the-way-we-build-ethereum-smart-contracts-account-abstraction)
 ![](https://cdn.hackernoon.com/images/YCxWeB1114PupVFVYclhZfpceCQ2-jha3b6h.jpeg)
 Explore ERC-4337, Account Abstraction, and how Etherspot's innovative approach streamlines the onboarding of new users into dApps & the broader Web3 ecosystem
 
-### [128. Meet the winners of the Polkadot Buildathon: India](https://hackernoon.com/meet-the-winners-of-the-polkadot-buildathon-india-ht18377x)
-![](https://cdn.hackernoon.com/images/78Gp8u6oOWX1hp1eng75bF9MSJ42-tbd135k0.png)
-Three blockchain projects built on Polkadot won the Polkadot Buildathon: India. Learn more about what they built, the Buildathon and Polkadot's support for devs
-
-### [129. Supra And Google Partner To Bring Fast Price Feeds To Financial Markets](https://hackernoon.com/supra-and-google-partner-to-bring-fast-price-feeds-to-financial-markets)
-![](https://cdn.hackernoon.com/images/f-1-grand-prix-race-track-formula-1-cars-racing-in-the-background-two-executives-shaking-a-hand-on-the-sidelines-g5ruu0y1adcrjgovqn4juw8m.png)
-The partnership will allow Supra to leverage Google Cloud's infrastructure and expertise to provide dApps with access to real-time price data.
-
-### [130. Zircuit, New ZK Rollup Backed by Pioneering L2 Research Launches Public Testnet](https://hackernoon.com/zircuit-new-zk-rollup-backed-by-pioneering-l2-research-launches-public-testnet)
+### [127. Zircuit, New ZK Rollup Backed by Pioneering L2 Research Launches Public Testnet](https://hackernoon.com/zircuit-new-zk-rollup-backed-by-pioneering-l2-research-launches-public-testnet)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-fs83zse.jpeg)
 To celebrate the launch, Zircuit will be hosting a multi-day event during Devconnect that begins on Monday, November 13th.
 
-### [131. RSK Gitcoin Hackathon: Building the Future on Bitcoin](https://hackernoon.com/rsk-gitcoin-hackathon-building-the-future-on-bitcoin-0a1j33z7)
+### [128. Supra And Google Partner To Bring Fast Price Feeds To Financial Markets](https://hackernoon.com/supra-and-google-partner-to-bring-fast-price-feeds-to-financial-markets)
+![](https://cdn.hackernoon.com/images/f-1-grand-prix-race-track-formula-1-cars-racing-in-the-background-two-executives-shaking-a-hand-on-the-sidelines-g5ruu0y1adcrjgovqn4juw8m.png)
+The partnership will allow Supra to leverage Google Cloud's infrastructure and expertise to provide dApps with access to real-time price data.
+
+### [129. Meet the winners of the Polkadot Buildathon: India](https://hackernoon.com/meet-the-winners-of-the-polkadot-buildathon-india-ht18377x)
+![](https://cdn.hackernoon.com/images/78Gp8u6oOWX1hp1eng75bF9MSJ42-tbd135k0.png)
+Three blockchain projects built on Polkadot won the Polkadot Buildathon: India. Learn more about what they built, the Buildathon and Polkadot's support for devs
+
+### [130. RSK Gitcoin Hackathon: Building the Future on Bitcoin](https://hackernoon.com/rsk-gitcoin-hackathon-building-the-future-on-bitcoin-0a1j33z7)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-5lk33o8.jpeg)
 We recently announced the RSK hackathon on Gitcoin - which kicks off on 15/04/2021, so save the date.
+
+### [131. The Evolution & Impact of Autonomous Cross-Chain DApps](https://hackernoon.com/the-evolution-and-impact-of-autonomous-cross-chain-dapps)
+![](https://cdn.hackernoon.com/images/t03XIzsJKARrMflzDrlxmlIic9U2-il93p2g.jpeg)
+The next generation of dApps will be autonomous cross-chain applications. Find out why in this presentations from @oraclesummit.
 
 ### [132. Blockchain Is Now A Crucial Technology - And Executives Know It](https://hackernoon.com/blockchain-is-now-a-crucial-technology-and-executives-know-it-5p1ot2ht7)
 ![](https://cdn.hackernoon.com/drafts/ee1or2hba.png)
 The blockchain hype experienced from around 2015, reaching its peak in 2017, has subsided greatly.
 
-### [133. The Evolution & Impact of Autonomous Cross-Chain DApps](https://hackernoon.com/the-evolution-and-impact-of-autonomous-cross-chain-dapps)
-![](https://cdn.hackernoon.com/images/t03XIzsJKARrMflzDrlxmlIic9U2-il93p2g.jpeg)
-The next generation of dApps will be autonomous cross-chain applications. Find out why in this presentations from @oraclesummit.
+### [133. A Beginner's Guide to Raffle Draws on the Ethereum Blockchain](https://hackernoon.com/a-beginners-guide-to-raffle-draws-on-the-ethereum-blockchain)
+![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-hn93ryy.jpeg)
+we'll take a look at how to create a smart contract that can be used to conduct a raffle draw on the Ethereum blockchain.
 
 ### [134. Fact or Cap: NFTs are the Future](https://hackernoon.com/fact-or-cap-nfts-are-the-future)
 ![](https://cdn.hackernoon.com/images/ax2Isej2hWcZZXO9SOMVDXNUkAk2-im03kna.jpeg)
@@ -546,54 +548,54 @@ One degen's take on NFTs, web3, and the future of decentralized assets.
 ![](https://cdn.hackernoon.com/images/px6mGDEUJ2dVkfIk5PHKE18lCo83-8h93brl.jpeg)
 Milana Valmont, CEO KIRA, Layer 1 network that enables market access to any digital, about DApps market, the current pitfalls, trends, and the future of DApps
 
-### [136. A Beginner's Guide to Raffle Draws on the Ethereum Blockchain](https://hackernoon.com/a-beginners-guide-to-raffle-draws-on-the-ethereum-blockchain)
-![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-hn93ryy.jpeg)
-we'll take a look at how to create a smart contract that can be used to conduct a raffle draw on the Ethereum blockchain.
-
-### [137. Balancing Usability and Security in the Wake of a Breach: An Interview With Magpie Protocol's CIO](https://hackernoon.com/balancing-usability-and-security-in-the-wake-of-a-breach-an-interview-with-magpie-protocols-cio)
+### [136. Balancing Usability and Security in the Wake of a Breach: An Interview With Magpie Protocol's CIO](https://hackernoon.com/balancing-usability-and-security-in-the-wake-of-a-breach-an-interview-with-magpie-protocols-cio)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-c183xll.jpeg)
 We sat with Dr. Ali Raheman, Founder of Magpie, to get his perspective on DeFi security concerns and their experience and learnings following getting hacked.
 
-### [138. Does Anyone Really Use Blockchain Based Applications?](https://hackernoon.com/does-anyone-really-use-blockchain-pf1043c4)
+### [137. Does Anyone Really Use Blockchain Based Applications?](https://hackernoon.com/does-anyone-really-use-blockchain-pf1043c4)
 ![](https://cdn.hackernoon.com/images/k1o43i3.jpg)
 I am, by all measures, a Blockchain believer. I’m 20 years old, and my first practical experience with Blockchain was buying Bitcoin several years ago, before the massive bull run to $20,000 that made everyone from your barber to your cab driver vying to get a piece of the action.
 
-### [139. How I Rebuilt the Classic Snake Game on the CENNZnet Blockchain](https://hackernoon.com/how-i-rebuilt-the-classic-snake-game-on-the-cennznet-blockchain-hu5d37qg)
+### [138. How I Rebuilt the Classic Snake Game on the CENNZnet Blockchain](https://hackernoon.com/how-i-rebuilt-the-classic-snake-game-on-the-cennznet-blockchain-hu5d37qg)
 ![](https://cdn.hackernoon.com/images/cdoWDbRZxubjFcNnjse22PoFjfE2-zab35nn.png)
 What goes into building a blockchain using Rust? Our newest dev at the CENNZnet project provides an insight into his latest project.
 
-### [140. Start Building Smart Contracts on the Nexus Blockchain](https://hackernoon.com/start-building-smart-contracts-on-the-nexus-blockchain)
+### [139. Start Building Smart Contracts on the Nexus Blockchain](https://hackernoon.com/start-building-smart-contracts-on-the-nexus-blockchain)
 ![](https://cdn.hackernoon.com/images/6Uy7JQ8n4CNQTxkGnF5wqNasJDV2-3343gr0.jpeg)
 There is an increasing number of smart contract platforms rolling out in the crypto space, with many becoming household names. However, a dark horse in the race to be the most efficient and secure blockchain is ‘Nexus’. Given its low market cap, most people have never heard of this seven year old blockchain, yet it delivers far more than many of the leading smart contract platforms today. 
 
-### [141. WTF is Understandable Blockchain (UBC)?](https://hackernoon.com/wtf-is-understandable-blockchain-ubc-xl9332gg)
+### [140. WTF is Understandable Blockchain (UBC)?](https://hackernoon.com/wtf-is-understandable-blockchain-ubc-xl9332gg)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-d082rij.jpeg)
 Currently, too many public blockchains exist and they all use different API and data structure, meaning that non-blockchain experts have to concern themselves too much with the intricacies of blockchain technology, as well as, their products and service development (DApps). 
 
-### [142. Build A Social Authentication dApp on Ethereum using Next.js and Next-Auth-js](https://hackernoon.com/build-a-social-authentication-dapp-on-ethereum-using-nextjs-and-next-auth-js-b93j37lq)
+### [141. Build A Social Authentication dApp on Ethereum using Next.js and Next-Auth-js](https://hackernoon.com/build-a-social-authentication-dapp-on-ethereum-using-nextjs-and-next-auth-js-b93j37lq)
 ![](https://cdn.hackernoon.com/images/SsN3jhaiTGYzpKfgSOu2EJPH03Y2-zf1n371t.jpeg)
 Learn how to implement a Dapp for Ethereum using Next.js
 
-### [143. What Is Ethereum? And What Is Its Relevance to Decentralization?](https://hackernoon.com/what-is-ethereum-and-what-is-its-relevance-to-decentralization)
+### [142. What Is Ethereum? And What Is Its Relevance to Decentralization?](https://hackernoon.com/what-is-ethereum-and-what-is-its-relevance-to-decentralization)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-xm0375b.jpeg)
 A common mistake occurs when Ethereum and Ether are used interchangeably to describe cryptocurrency. But that is not entirely accurate.
 
-### [144. 6+ Free Dapps and Features to Get Started with on Obyte](https://hackernoon.com/6-free-dapps-and-features-to-get-started-with-on-obyte)
+### [143. 6+ Free Dapps and Features to Get Started with on Obyte](https://hackernoon.com/6-free-dapps-and-features-to-get-started-with-on-obyte)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-am834d3.jpeg)
 Obyte enables users to make smart transactions quickly and reliably, while offering online freedom. Plus: you can start using a lot of features for free. 
 
 
-### [145. Intro to dApps: A Beginners Guide to Decentralized Applications](https://hackernoon.com/intro-to-dapps-a-beginners-guide-to-decentralized-applications)
-![](https://cdn.hackernoon.com/images/MPQxyfch0lZHKZM3k3hMies8Fpv1-4q0367u.jpeg)
-A decentralized app (dApp) is a digital application or a program that resides and executes on a blockchain or peer-to-peer network of computers 
+### [144. EVM dApps Now Just One Tap Away in Telegram via TAC](https://hackernoon.com/evm-dapps-now-just-one-tap-away-in-telegram-via-tac)
+![](https://cdn.hackernoon.com/images/kP4Q7O2NJuQqrhDqxIov8XA3zWS2-q813dct.jpeg)
+Positioned as a purpose-built Layer 1 blockchain instead of a Layer 2, TAC promises Telegram’s billion-strong user base one-tap access to Ethereum-grade DeFi.
 
-### [146. Crypto Singularity and Data Dignity: the Lowdown at Blockstack Summit](https://hackernoon.com/crypto-singularity-and-data-dignity-at-blockstack-summit-in-san-francisco-94ab2g23)
+### [145. Crypto Singularity and Data Dignity: the Lowdown at Blockstack Summit](https://hackernoon.com/crypto-singularity-and-data-dignity-at-blockstack-summit-in-san-francisco-94ab2g23)
 ![](https://cdn.hackernoon.com/images/cb20u2gdq.jpg)
 This 2019 has been clearly marked by a bearish wave (and also speculative events) and with that comes a breath of much needed space for the builders to have room to build the runway for the solutions proposed in the many white papers distributed all over the web. 
 
-### [147. EVM dApps Now Just One Tap Away in Telegram via TAC](https://hackernoon.com/evm-dapps-now-just-one-tap-away-in-telegram-via-tac)
-![](https://cdn.hackernoon.com/images/kP4Q7O2NJuQqrhDqxIov8XA3zWS2-q813dct.jpeg)
-Positioned as a purpose-built Layer 1 blockchain instead of a Layer 2, TAC promises Telegram’s billion-strong user base one-tap access to Ethereum-grade DeFi.
+### [146. Doxreporter Brings Blockchain Storage to Cyber Incident Reporting](https://hackernoon.com/doxreporter-brings-blockchain-storage-to-cyber-incident-reporting)
+![](https://cdn.hackernoon.com/images/YvjkXI2EJ4gZ25lgLTJ0hfWehHX2-mo03e0z.png)
+Doxreporter earns a 26.48 Proof of Usefulness score, using blockchain and IPFS to create tamper-proof cyber incident reports for enterprises.
+
+### [147. Intro to dApps: A Beginners Guide to Decentralized Applications](https://hackernoon.com/intro-to-dapps-a-beginners-guide-to-decentralized-applications)
+![](https://cdn.hackernoon.com/images/MPQxyfch0lZHKZM3k3hMies8Fpv1-4q0367u.jpeg)
+A decentralized app (dApp) is a digital application or a program that resides and executes on a blockchain or peer-to-peer network of computers 
 
 ### [148. Startup Interview with Nicole Upchurch, CENNZnet CEO](https://hackernoon.com/startup-interview-with-nicole-upchurch-cennznet-ceo)
 ![](https://cdn.hackernoon.com/images/ec5ExNllSsMuJ8mpsiklMn85GGJ2-sn8w37dy.jpeg)
@@ -609,25 +611,25 @@ Are you curious to know more details about Bunzz ecosystem?
 
 What are the advantages for users and for contributors? 
 
-### [151. Meet Philcoin: Unleashing the Power of Philanthropy in Developing Communities](https://hackernoon.com/meet-philcoin-unleashing-the-power-of-philanthropy-in-developing-communities)
-![](https://cdn.hackernoon.com/images/CiPuyPQVAlh3JWuL6gIHSvGXVVr1-0w93rjv.jpeg)
-Philcoin, launched in March 2021, is a pioneer blockchain-based philanthropic ecosystem that aims to empower developing communities 
-
-### [152. From Fiat Money to Ethical DeFi ](https://hackernoon.com/from-fiat-money-to-ethical-defi)
-![](https://cdn.hackernoon.com/images/RdOi0KrOFPUq3ekdIakjlarMRRx2-xn93agu.gif)
-The number of public companies that are taking positions in bitcoin is simply staggering. 
-
-### [153. Decentralized Storage and Data Privacy for Developers](https://hackernoon.com/decentralized-storage-and-data-privacy-for-developers)
-![](https://cdn.hackernoon.com/images/Y0BCqyw0FHUbHq4C2tHsuY0hIUA3-xs23a4p.jpeg)
-Arcana Network runs on its blockchain, independent of a large centralized entity. have no central storage. Data Privacy on the blockchain.
-
-### [154. My Top 7 Ecosystem Tools That are Fundamental for DApp Development](https://hackernoon.com/my-top-7-ecosystem-tools-that-are-fundamental-for-dapp-development)
+### [151. My Top 7 Ecosystem Tools That are Fundamental for DApp Development](https://hackernoon.com/my-top-7-ecosystem-tools-that-are-fundamental-for-dapp-development)
 ![](https://cdn.hackernoon.com/images/0x9c738cc901a8dc641be1aff1f88c60ecc2757fdf-ta134aq.png)
 I discuss 7 topo ecosystem tools for dApp development: Aleo, dRPS, Alchemy Notify, Chainlink VRF, TenderlQDy, Hardhat, and The Graph.
 
-### [155. Can We Eliminate the Need for Crypto Wallets in dApps?](https://hackernoon.com/can-we-eliminate-the-need-for-crypto-wallets-in-dapps)
+### [152. Can We Eliminate the Need for Crypto Wallets in dApps?](https://hackernoon.com/can-we-eliminate-the-need-for-crypto-wallets-in-dapps)
 ![](https://cdn.hackernoon.com/images/nBdoW8QYRDe9SsSWMEq8GSCsU6p2-f1936za.jpeg)
 By using one of these methods, a user no longer needs a wallet. Applications can sign transactions on behalf of users. 
+
+### [153. Meet Philcoin: Unleashing the Power of Philanthropy in Developing Communities](https://hackernoon.com/meet-philcoin-unleashing-the-power-of-philanthropy-in-developing-communities)
+![](https://cdn.hackernoon.com/images/CiPuyPQVAlh3JWuL6gIHSvGXVVr1-0w93rjv.jpeg)
+Philcoin, launched in March 2021, is a pioneer blockchain-based philanthropic ecosystem that aims to empower developing communities 
+
+### [154. From Fiat Money to Ethical DeFi ](https://hackernoon.com/from-fiat-money-to-ethical-defi)
+![](https://cdn.hackernoon.com/images/RdOi0KrOFPUq3ekdIakjlarMRRx2-xn93agu.gif)
+The number of public companies that are taking positions in bitcoin is simply staggering. 
+
+### [155. Decentralized Storage and Data Privacy for Developers](https://hackernoon.com/decentralized-storage-and-data-privacy-for-developers)
+![](https://cdn.hackernoon.com/images/Y0BCqyw0FHUbHq4C2tHsuY0hIUA3-xs23a4p.jpeg)
+Arcana Network runs on its blockchain, independent of a large centralized entity. have no central storage. Data Privacy on the blockchain.
 
 ### [156. Is Web3 (still) the Internet of the Future?](https://hackernoon.com/is-web3-still-the-internet-of-the-future)
 ![](https://cdn.hackernoon.com/images/acJ0mtxJAgZs56NWxLarbm1IqXg1-q593mqs.jpeg)
@@ -669,13 +671,13 @@ Use Aleph Cloud for decentralised storage, computing, and secure message routing
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-ta93uni.jpeg)
 Venom Foundation is thrilled to announce the signing of an MOU with the UAE government to developp and implement the National Carbon Credit System. 
 
-### [166. How to Build an Answer-to-Earn Platform with React, Solidity and CometChat](https://hackernoon.com/how-to-build-an-answer-to-earn-platform-with-react-solidity-and-cometchat)
-![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-e993x0s.jpeg)
-This tutorial combines blockchain technology, real-time communication, and user-generated content to create an interactive platform that rewards users for their
-
-### [167. 119 Stories To Learn About Dapps](https://hackernoon.com/119-stories-to-learn-about-dapps)
+### [166. 119 Stories To Learn About Dapps](https://hackernoon.com/119-stories-to-learn-about-dapps)
 ![](https://cdn.hackernoon.com/images/github/dapps-559.png)
 Learn everything you need to know about Dapps via these 119 free HackerNoon stories.
+
+### [167. How to Build an Answer-to-Earn Platform with React, Solidity and CometChat](https://hackernoon.com/how-to-build-an-answer-to-earn-platform-with-react-solidity-and-cometchat)
+![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-e993x0s.jpeg)
+This tutorial combines blockchain technology, real-time communication, and user-generated content to create an interactive platform that rewards users for their
 
 ### [168. The Path to a Seamless Web3: Account Abstraction from Flow (Part 2)](https://hackernoon.com/the-path-to-a-seamless-web3-account-abstraction-from-flow-part-2)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-e3f2ut0.jpeg)

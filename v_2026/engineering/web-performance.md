@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [web-performance](https://hackernoon.com/tagged/web-performance)
+### Let's learn about [Web Performance](https://hackernoon.com/tagged/web-performance) via these 62 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Web performance focuses on optimizing websites and web applications for speed and responsiveness, directly impacting user experience, engagement, and search engine rankings. It matters because fast-loading sites lead to higher conversions, better user retention, and improved SEO, which are critical for online success.
+
 ### [1. 10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)
 ![](https://cdn.hackernoon.com/images/story-image-default.jpg)
 This post is about performance techniques, so I hope you won’t mind that the site in question is not quite finished.
@@ -166,65 +170,65 @@ I have been in the tech industry for more than a decade, and during this time, I
 ![](https://cdn.hackernoon.com/images/Av4EGr2tekgn70KhOoIXGos1nNz1-ox03box.png)
 Learn how to implement lazy loading for images and videos in JavaScript using the Intersection Observer API.
 
-### [42. 5 Best Free WordPress Plugins to Improve Website Performance](https://hackernoon.com/5-best-free-wordpress-plugins-to-improve-website-performance)
-![](https://cdn.hackernoon.com/images/Rgwkme0RFTfJhtoXte0GmeGDDLK2-tpc37yo.jpeg)
-Learn how to improve and fix WordPress website performance issues. Step by step tutorial on how to configure free WordPress plugins.
-
-### [43. Optimizing Core Web Vitals: A Step-by-Step Guide](https://hackernoon.com/optimizing-core-web-vitals-a-step-by-step-guide)
-![](https://cdn.hackernoon.com/images/dyFQr2M9XkcUih4asT8lHhE5t1B3-fb93ri1.jpeg)
-Adopting Core Web Vitals metrics can help you improve your website or app's performance and provide a better user experience for visitors.
-
-### [44. How to Get the Perfect Core Web Vitals Score and Its Correlations With SEO Results](https://hackernoon.com/how-to-get-the-perfect-core-web-vitals-score-and-its-correlations-with-seo-results)
+### [42. How to Get the Perfect Core Web Vitals Score and Its Correlations With SEO Results](https://hackernoon.com/how-to-get-the-perfect-core-web-vitals-score-and-its-correlations-with-seo-results)
 ![](https://cdn.hackernoon.com/images/hWPUbi4VxYQxd5sRWA6VXhPNAxp1-ov93p46.jpeg)
 Check out this Core Web Vitals case study to learn how we went from all red to perfect scores + how that translated into organic impressions, clicks, and more.
 
-### [45. Globalping - A Community-Powered Global Network Testing Platform - Is Officially Live!](https://hackernoon.com/globalping-a-community-powered-global-network-testing-platform-is-officially-live)
+### [43. Globalping - A Community-Powered Global Network Testing Platform - Is Officially Live!](https://hackernoon.com/globalping-a-community-powered-global-network-testing-platform-is-officially-live)
 ![](https://cdn.hackernoon.com/images/network-connecting-the-world-clinoez2g000101s6d4uth4yy.png)
 A modern RIPE Atlas alternative goes live helping anyone run network tests and latency benchmarks with amazing UI and UX. Fully open source.
 
-### [46. Core Web Vitals: How To Improve To Rank Higher On Google And Succeed In Your Business ](https://hackernoon.com/core-web-vitals-how-to-improve-to-rank-higher-on-google-and-succeed-in-your-business-9f173wah)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXAzN6nKMBMW8TomIi1JTTlWalZD2-ef5a23b1.jpeg?alt=media&token=a0fdb4dd-f35b-4067-a3f4-c83458d818bb)
-Core web vitals from Google is the new ranking signal in the town expected to arrive with full force in 2021. It will join the ‘page experience signal’ to promote the websites for developing better user experience characteristics like mobile-friendliness, loading speed, etc. 
+### [44. 5 Best Free WordPress Plugins to Improve Website Performance](https://hackernoon.com/5-best-free-wordpress-plugins-to-improve-website-performance)
+![](https://cdn.hackernoon.com/images/Rgwkme0RFTfJhtoXte0GmeGDDLK2-tpc37yo.jpeg)
+Learn how to improve and fix WordPress website performance issues. Step by step tutorial on how to configure free WordPress plugins.
+
+### [45. Optimizing Core Web Vitals: A Step-by-Step Guide](https://hackernoon.com/optimizing-core-web-vitals-a-step-by-step-guide)
+![](https://cdn.hackernoon.com/images/dyFQr2M9XkcUih4asT8lHhE5t1B3-fb93ri1.jpeg)
+Adopting Core Web Vitals metrics can help you improve your website or app's performance and provide a better user experience for visitors.
+
+### [46. Design Arabic Websites with Consistent Fonts, Optimal Sizes, and Culturally Aligned Images](https://hackernoon.com/design-arabic-websites-with-consistent-fonts-optimal-sizes-and-culturally-aligned-images)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-kh134r7.webp)
+Insights on Arabic website usability, focusing on font and image practices, cultural adherence, and recommendations for enhanced legibility and engagement.
 
 ### [47. Enhancing Web Performance: Strategies for Efficient Resource Fetching and Prioritization](https://hackernoon.com/enhancing-web-performance-strategies-for-efficient-resource-fetching-and-prioritization)
 ![](https://cdn.hackernoon.com/images/anfJV6KSo1bThcpN0mDFqo1MKQp2-kj835qm.jpeg)
 Discover powerful strategies to optimize web performance through efficient resource fetching and prioritization techniques. Learn about preconnect, DNS-prefetch
 
-### [48. Design Arabic Websites with Consistent Fonts, Optimal Sizes, and Culturally Aligned Images](https://hackernoon.com/design-arabic-websites-with-consistent-fonts-optimal-sizes-and-culturally-aligned-images)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-kh134r7.webp)
-Insights on Arabic website usability, focusing on font and image practices, cultural adherence, and recommendations for enhanced legibility and engagement.
+### [48. Core Web Vitals: How To Improve To Rank Higher On Google And Succeed In Your Business ](https://hackernoon.com/core-web-vitals-how-to-improve-to-rank-higher-on-google-and-succeed-in-your-business-9f173wah)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXAzN6nKMBMW8TomIi1JTTlWalZD2-ef5a23b1.jpeg?alt=media&token=a0fdb4dd-f35b-4067-a3f4-c83458d818bb)
+Core web vitals from Google is the new ranking signal in the town expected to arrive with full force in 2021. It will join the ‘page experience signal’ to promote the websites for developing better user experience characteristics like mobile-friendliness, loading speed, etc. 
 
-### [49. How We Increased our Website Loading Time by 24%](https://hackernoon.com/how-we-improved-our-website-loading-time-by-24percent-with-3-unusual-changes-uv1l361d)
-![](https://cdn.hackernoon.com/drafts/uv19364n.png)
-Last weekend we had a chance to fine-tune the performance of SwissDev Jobs.
-
-### [50. What Makes Reporting Software Fast and Why It Matters](https://hackernoon.com/what-makes-reporting-software-fast-and-why-it-matters)
+### [49. What Makes Reporting Software Fast and Why It Matters](https://hackernoon.com/what-makes-reporting-software-fast-and-why-it-matters)
 ![](https://cdn.hackernoon.com/images/pexX6r4fscfmYiYxaNdrKiRC2zz1-kwc31ph.jpeg)
 Analytical insights are like sparks - they are quick to come and go. That's why fast data analytical software is not a bonus, but a necessity for business today
+
+### [50. How We Increased our Website Loading Time by 24%](https://hackernoon.com/how-we-improved-our-website-loading-time-by-24percent-with-3-unusual-changes-uv1l361d)
+![](https://cdn.hackernoon.com/drafts/uv19364n.png)
+Last weekend we had a chance to fine-tune the performance of SwissDev Jobs.
 
 ### [51. How to Set Up Azure CDN For Lower Latency and Bandwidth Consumption](https://hackernoon.com/how-to-set-up-azure-cdn-for-lower-latency-and-bandwidth-consumption-0u4y35oy)
 ![](https://cdn.hackernoon.com/images/90mS17sBsoQ9KSmAro1V3bR8PoE3-zu5e3wl4.png)
 A Content Delivery Network (CDN) helps you deliver your content more quickly. Read more on how you can achieve that. 
 
-### [52. How to Improve eStore Performance with QA](https://hackernoon.com/how-to-improve-estore-performance-with-qa-171w37xs)
-![](https://cdn.hackernoon.com/images/3JYKsoiQfLWPDpguQcfofJPWedE3-j08u35j2.jpeg)
-A pandemic has become a tipping point for eCommerce. How to cope with the skyrocketed number of shoppers and succeed amid long-term changes? Welcome to find the
-
-### [53. Optimizing Web Images: On-the-Fly Resizing and Ahead-of-Time Resizing](https://hackernoon.com/optimizing-web-images-on-the-fly-resizing-and-ahead-of-time-resizing)
+### [52. Optimizing Web Images: On-the-Fly Resizing and Ahead-of-Time Resizing](https://hackernoon.com/optimizing-web-images-on-the-fly-resizing-and-ahead-of-time-resizing)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-81b2eig.jpeg)
 Efficient image management in web development: Compare traditional resizing with on-the-fly solutions like imgproxy and Apache APISIX.
 
-### [54. The Power of Open Source and JavaScript: The Journey of Globalping](https://hackernoon.com/the-power-of-open-source-and-javascript-the-journey-of-globalping)
+### [53. Live Score Apps Only Work If Fans Believe Them](https://hackernoon.com/live-score-apps-only-work-if-fans-believe-them)
+![](https://cdn.hackernoon.com/images/PqW4cd9K8FUoSB1t0S37naXYJzf1-9ha3fq7.png)
+Why fans distrust live sports score apps—and the UX, performance, and design signals that make real-time score platforms feel reliable.
+
+### [54. How to Improve eStore Performance with QA](https://hackernoon.com/how-to-improve-estore-performance-with-qa-171w37xs)
+![](https://cdn.hackernoon.com/images/3JYKsoiQfLWPDpguQcfofJPWedE3-j08u35j2.jpeg)
+A pandemic has become a tipping point for eCommerce. How to cope with the skyrocketed number of shoppers and succeed amid long-term changes? Welcome to find the
+
+### [55. The Power of Open Source and JavaScript: The Journey of Globalping](https://hackernoon.com/the-power-of-open-source-and-javascript-the-journey-of-globalping)
 ![](https://cdn.hackernoon.com/images/VjcOYPSKVETEHpleit5iu2OpYIH3-0993xqg.png)
 Globalping is an open source platform for running networking tests and performance testing from anywhere in the world built to be reliable and nonbiased 
 
-### [55. What's in Store for the Future of Arabic Web Design and Usability](https://hackernoon.com/whats-in-store-for-the-future-of-arabic-web-design-and-usability)
+### [56. What's in Store for the Future of Arabic Web Design and Usability](https://hackernoon.com/whats-in-store-for-the-future-of-arabic-web-design-and-usability)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-my034wi.webp)
 An in-depth study of Arabic websites highlights font inconsistency, cultural image practices, and future research directions for enhanced usability.
-
-### [56. Live Score Apps Only Work If Fans Believe Them](https://hackernoon.com/live-score-apps-only-work-if-fans-believe-them)
-![](https://cdn.hackernoon.com/images/PqW4cd9K8FUoSB1t0S37naXYJzf1-9ha3fq7.png)
-Why fans distrust live sports score apps—and the UX, performance, and design signals that make real-time score platforms feel reliable.
 
 ### [57. Understanding How CSS3 Aspect-Ratio Property Works](https://hackernoon.com/understanding-how-css3-aspect-ratio-property-works-501t333j)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-rr1728ab.jpeg)

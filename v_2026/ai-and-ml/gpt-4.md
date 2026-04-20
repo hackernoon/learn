@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [gpt-4](https://hackernoon.com/tagged/gpt-4)
+### Let's learn about [Gpt 4](https://hackernoon.com/tagged/gpt-4) via these 63 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+GPT-4 is a highly advanced large language model developed by OpenAI, capable of understanding and generating human-like text across various tasks. It represents a significant leap in AI capabilities, driving advancements in natural language processing and creative AI applications.
+
 ### [1. How to Use ChatGPT for Python Programming](https://hackernoon.com/how-to-use-chatgpt-for-python-programming)
 ![](https://cdn.hackernoon.com/images/2lw2eoJaRDWCFQZC7lfDev9awoC3-nok2nmw.jpeg)
 ChatGPT is a large language model developed by OpneAI. Here are some ways you can use ChatGPT for Python programming.
@@ -117,13 +121,13 @@ We've just realized how LLMs work internally - a legible, scientific hypothesis.
 ![](https://cdn.hackernoon.com/images/aeoSxDTx2RPI8MH4rYZXIS7IIKj1-jw93o4g.jpeg)
 Pythagora is an open source tool that uses GPT-4 to generate unit tests. With a single command, you can get from 0 to 90% code coverage.
 
-### [29. The One-Shot Generalization Paradox: Why Generative AI Struggles With New Information](https://hackernoon.com/the-one-shot-generalization-paradox-why-generative-ai-struggles-with-new-information)
-![](https://cdn.hackernoon.com/images/F6a0pqebSyMNpnnPJ1pwd1veUwJ2-8c031vx.webp)
-Learn why GenAI models fail with new information, the 'One-Shot Generalization Paradox,' and what future AI research holds for overcoming this challenge.
-
-### [30. Different Roles for Different Models: LLMs and Reinforcement Learning](https://hackernoon.com/different-roles-for-different-models-llms-and-reinforcement-learning)
+### [29. Different Roles for Different Models: LLMs and Reinforcement Learning](https://hackernoon.com/different-roles-for-different-models-llms-and-reinforcement-learning)
 ![](https://cdn.hackernoon.com/images/Xnvz2cmJN3MXO91Uyx4dzyJnvCK2-m693plm.jpeg)
 The rise of large language models like ChatGPT, with their ability to generate highly fluent and accurate text, has been remarkable. But they are flawed.
+
+### [30. The One-Shot Generalization Paradox: Why Generative AI Struggles With New Information](https://hackernoon.com/the-one-shot-generalization-paradox-why-generative-ai-struggles-with-new-information)
+![](https://cdn.hackernoon.com/images/F6a0pqebSyMNpnnPJ1pwd1veUwJ2-8c031vx.webp)
+Learn why GenAI models fail with new information, the 'One-Shot Generalization Paradox,' and what future AI research holds for overcoming this challenge.
 
 ### [31. AI & Blockchain Won't Compete Against One Another But Work Together To Build A New Economic System ](https://hackernoon.com/ai-and-blockchain-wont-compete-against-one-another-but-work-together-to-build-a-new-economic-system)
 ![](https://cdn.hackernoon.com/images/F4d4mZJG7NcMf4R3IgbId8VoDtD3-qta36wf.jpeg)
@@ -193,29 +197,29 @@ In this paper, we tell the story of GPT4All, a popular open source repository th
 ![](https://cdn.hackernoon.com/images/robot-censorship-clgy4nsn9000001s60p3k7ile.png)
 Kevin Fischer explains ChatGPT's censorship and how it's problematic.
 
-### [48. A Quick OpenAI Model Deprecation Guide](https://hackernoon.com/a-quick-openai-model-deprecation-guide)
+### [48. I Built 7 AI Agents That Run Marketing Operations. Here's the Entire Architecture.](https://hackernoon.com/i-built-7-ai-agents-that-run-marketing-operations-heres-the-entire-architecture)
+![](https://cdn.hackernoon.com/images/CS80iCMsrWOnPzrYnPSSI2P1Gfy1-b983de2.png)
+I built 7 AI agents that run marketing operations for ecommerce brands. Here's the full architecture, what worked, what broke, and what I'd do differently.
+
+### [49. A Quick OpenAI Model Deprecation Guide](https://hackernoon.com/a-quick-openai-model-deprecation-guide)
 ![](https://cdn.hackernoon.com/images/a-robot-getting-a-retirement-party-oshbef6vd3nflfyosi36jo3u.png)
 On Jan 4, OpenAI will retire 33 models, including GPT-3 (text-davinci-003) and various others. This is OpenAI's biggest model deprecation so far.
 
-### [49. 3 Approaches To Digitizing Newspapers & Magazines](https://hackernoon.com/3-approaches-to-digitizing-newspapers-and-magazines)
+### [50. 3 Approaches To Digitizing Newspapers & Magazines](https://hackernoon.com/3-approaches-to-digitizing-newspapers-and-magazines)
 ![](https://cdn.hackernoon.com/images/2DFAaGGO5cfymtBKn4bFFAoT6sg2-co435z2.png)
 Newspaper article detection is one of the most difficult digitization tasks. From GPT-4 to segmentation models, explore how AI helps detect newspaper articles.
 
-### [50. Why Most AI Startups Are Just Fancy CRUD Apps With a GPT Wrapper](https://hackernoon.com/why-most-ai-startups-are-just-fancy-crud-apps-with-a-gpt-wrapper)
+### [51. Why Most AI Startups Are Just Fancy CRUD Apps With a GPT Wrapper](https://hackernoon.com/why-most-ai-startups-are-just-fancy-crud-apps-with-a-gpt-wrapper)
 ![](https://cdn.hackernoon.com/images/iEB7EVjsMCRFL8jW48kmn53ySU92-qe134r0.png)
 A blunt take on why most AI startups are just simple apps wrapped around GPT—slick on the surface, hollow underneath.
 
-### [51. It's Time for Lawmakers to Regulate the Development and Use of AI](https://hackernoon.com/its-time-for-lawmakers-to-regulate-the-development-and-use-of-ai)
+### [52. It's Time for Lawmakers to Regulate the Development and Use of AI](https://hackernoon.com/its-time-for-lawmakers-to-regulate-the-development-and-use-of-ai)
 ![](https://cdn.hackernoon.com/images/zaVyJ3dcr6YgXE0hJ3QabUCHwFi1-ej93thq.jpeg)
 BigTech companies are racing against each other to win the AI war, and lawmakers are falling several laps behind.
 
-### [52. 90% of Developers Were Outperformed by GPT-4](https://hackernoon.com/90percent-of-developers-were-outperformed-by-gpt-4)
+### [53. 90% of Developers Were Outperformed by GPT-4](https://hackernoon.com/90percent-of-developers-were-outperformed-by-gpt-4)
 ![](https://cdn.hackernoon.com/images/robot-exercising-at-the-gym-clgve06b7000101s6690n287u.png)
 Discover how ChatGPT-4 surpasses 90% of developers in solving coding challenges. Explore the future and potential of AI in software development.
-
-### [53. I Built 7 AI Agents That Run Marketing Operations. Here's the Entire Architecture.](https://hackernoon.com/i-built-7-ai-agents-that-run-marketing-operations-heres-the-entire-architecture)
-![](https://cdn.hackernoon.com/images/CS80iCMsrWOnPzrYnPSSI2P1Gfy1-b983de2.png)
-I built 7 AI agents that run marketing operations for ecommerce brands. Here's the full architecture, what worked, what broke, and what I'd do differently.
 
 ### [54. The Potential of Large Language Models (LLMs) in Diabetes Management ](https://hackernoon.com/the-potential-of-large-language-models-llms-in-diabetes-management)
 ![](https://cdn.hackernoon.com/images/0IfDKT345LUyRWOn35ESZSejyO03-hb834xp.png)
@@ -241,13 +245,13 @@ Users upload their bank statement, get roasted by GPT-4 with savage, witty humor
 ![](https://cdn.hackernoon.com/images/nEdrz0Lw1IY6Xbla9InP9oHSskY2-sh033fl.jpeg)
 Noisy channel language model prompting takes inspiration from classic noisy channel models in machine translation to improve few-shot text classification.
 
-### [60. Why Multimodal AI is the Future of LLMs](https://hackernoon.com/why-multimodal-ai-is-the-future-of-llms)
-![](https://cdn.hackernoon.com/images/nFGMPDaUJhN2rZiFEyVXNSMVezD3-u6036nk.jpeg)
-Text-only and image-only AI models are a thing of the past. Here's why multimodal AI is the future.
-
-### [61. Is ChatGPT Going to Overtake Our Jobs?](https://hackernoon.com/is-chatgpt-going-to-overtake-our-jobs)
+### [60. Is ChatGPT Going to Overtake Our Jobs?](https://hackernoon.com/is-chatgpt-going-to-overtake-our-jobs)
 ![](https://cdn.hackernoon.com/images/RnMZwfsSDPZG9OBXlKwd37WEDsH3-c3b3p3i.jpeg)
 You must have heard people say that ChatGPT is going to replace us. But is it true? Let's find out.
+
+### [61. Why Multimodal AI is the Future of LLMs](https://hackernoon.com/why-multimodal-ai-is-the-future-of-llms)
+![](https://cdn.hackernoon.com/images/nFGMPDaUJhN2rZiFEyVXNSMVezD3-u6036nk.jpeg)
+Text-only and image-only AI models are a thing of the past. Here's why multimodal AI is the future.
 
 ### [62. GPT Prompting Performance: Explanatory Feedback for Tutor Praise](https://hackernoon.com/gpt-prompting-performance-explanatory-feedback-for-tutor-praise)
 ![](https://cdn.hackernoon.com/images/ai-and-machines-abstract-art-y52lgodcxe85azqxjgtz8cp6.png)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [play-to-earn](https://hackernoon.com/tagged/play-to-earn)
+### Let's learn about [Play To Earn](https://hackernoon.com/tagged/play-to-earn) via these 228 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Play-to-earn is a gaming model where players can earn cryptocurrency and NFTs by participating in games. This innovation transforms the gaming industry by giving players true ownership and financial incentives.
+
 ### [1. The Future of Gaming Writing Contest by Megafans x HackerNoon](https://hackernoon.com/the-future-of-gaming-writing-contest-by-megafans-x-hackernoon)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-4a93lpp.jpeg)
 The Future of Gaming Writing Contest runs from April 1 to June 30th w/$5300 in  cash prizes for the top 5 stories submitted each month.
@@ -63,13 +67,13 @@ Can you call it a Metaverse environment if there's no VR? These five platforms a
 ![](https://cdn.hackernoon.com/images/5kgsXrxOpUOXXt5CcxWHL8aia023-lp93s6n.jpeg)
 While some games require an investment in tokens or NFTs, others allow people to earn crypto just by playing it.
 
-### [16. Are Telegram Mini Apps a New Global Trend for Crypto?](https://hackernoon.com/are-telegram-mini-apps-a-new-global-trend-for-crypto)
-![](https://cdn.hackernoon.com/images/sBGdF0DbxXNwhS0pFRPmgiVVOt32-b68332c.jpeg)
-Tapping mini-apps on the TON blockchain, like Notcoin and Hamster Kombat, have gained extreme popularity.
-
-### [17. Play-to-Own: Is This Game Mode the Future of Web3?](https://hackernoon.com/play-to-own-is-this-game-mode-the-future-of-web3)
+### [16. Play-to-Own: Is This Game Mode the Future of Web3?](https://hackernoon.com/play-to-own-is-this-game-mode-the-future-of-web3)
 ![](https://cdn.hackernoon.com/images/TM8IKMBtnoVzmc1qKCN55eztHxE3-iaf3rw8.jpeg)
 In the past few years, gaming and crypto tokens started to forge a unique relationship.
+
+### [17. Are Telegram Mini Apps a New Global Trend for Crypto?](https://hackernoon.com/are-telegram-mini-apps-a-new-global-trend-for-crypto)
+![](https://cdn.hackernoon.com/images/sBGdF0DbxXNwhS0pFRPmgiVVOt32-b68332c.jpeg)
+Tapping mini-apps on the TON blockchain, like Notcoin and Hamster Kombat, have gained extreme popularity.
 
 ### [18. Moving Away from Free to Play with First Light Games CEO Neil McFarland](https://hackernoon.com/moving-away-from-free-to-play-with-first-light-games-ceo-neil-mcfarland)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-xh93ts2.jpeg)
@@ -163,13 +167,13 @@ NFTs are now transforming into a useful instrument that can solve pain points in
 ![](https://cdn.hackernoon.com/images/wft93xxEPWNZAcwH9WT6bC0cxM22-cg17n35r8.jpeg)
 With ever increasing popularity in blockchain gaming, gamers are getting sucked into the vortex of play to earn games. Is P2E here to stay or is it just a fad?
 
-### [41. Video Games, NFTs, and Hamburgers from The Metaverse](https://hackernoon.com/video-games-nfts-and-hamburgers-from-the-metaverse)
-![](https://cdn.hackernoon.com/images/lhIQGUKU5tYiNN7tjRxOBV4YSO63-3y03a65.jpeg)
-Discover the main reasons why you would choose the RFOX VALT retail and entertainment metaverse over The Sandbox gaming metaverse.
-
-### [42. The Sandbox vs. Decentraland](https://hackernoon.com/the-sandbox-vs-decentraland)
+### [41. The Sandbox vs. Decentraland](https://hackernoon.com/the-sandbox-vs-decentraland)
 ![](https://cdn.hackernoon.com/images/hvBf6yZOxyfCQQY9n6JLFtPhf952-x693pr6.jpeg)
 Land in both Sandbox and Decentraland can be quite expensive. 
+
+### [42. Video Games, NFTs, and Hamburgers from The Metaverse](https://hackernoon.com/video-games-nfts-and-hamburgers-from-the-metaverse)
+![](https://cdn.hackernoon.com/images/lhIQGUKU5tYiNN7tjRxOBV4YSO63-3y03a65.jpeg)
+Discover the main reasons why you would choose the RFOX VALT retail and entertainment metaverse over The Sandbox gaming metaverse.
 
 ### [43. Let's Look at BattleFly: A Competitive Play-to-Earn Strategy Game](https://hackernoon.com/lets-look-at-battlefly-a-competitive-play-to-earn-strategy-game)
 ![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-i893lg1.jpeg)
@@ -219,13 +223,13 @@ The Play-2-Earn (P2E) gaming industry, which many consider a gateway into Web3.0
 ![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-blockchain-technology-tuzz0spwozj48jjrvmwfu23k.png)
 In this article, we'll delve into these remarkable niches and how they continue to improve the creative potential of the blockchain industry.
 
-### [55. Forget Play-to-Earn – The Future Of Web3 Is Data-to-Earn](https://hackernoon.com/the-blockchain-gaming-evolution-from-play-to-earn-to-data-to-earn)
-![](https://cdn.hackernoon.com/images/ZIGWlKK8CHXJsNL9BaLFR1bbG8R2-vx832dk.jpeg)
-Discover blockchain gaming's evolution with data-to-earn, offering passive income and user-centric experiences. 
-
-### [56. The Future Of Web3 Gaming And How To Get Involved](https://hackernoon.com/the-future-of-web3-gaming-and-how-to-get-involved)
+### [55. The Future Of Web3 Gaming And How To Get Involved](https://hackernoon.com/the-future-of-web3-gaming-and-how-to-get-involved)
 ![](https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-uua3ax1.jpeg)
 Blockchains represent the future of gaming, and its becoming easier and easier for Web2 developers to jump into Web3 gaming through dedicated sdks. 
+
+### [56. Forget Play-to-Earn – The Future Of Web3 Is Data-to-Earn](https://hackernoon.com/the-blockchain-gaming-evolution-from-play-to-earn-to-data-to-earn)
+![](https://cdn.hackernoon.com/images/ZIGWlKK8CHXJsNL9BaLFR1bbG8R2-vx832dk.jpeg)
+Discover blockchain gaming's evolution with data-to-earn, offering passive income and user-centric experiences. 
 
 ### [57. How to Earn NFTs by Playing Minecraft](https://hackernoon.com/how-to-earn-nfts-by-playing-minecraft)
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-5jf3fs4.jpeg)
@@ -263,13 +267,13 @@ A look at Bit.Country and Roblox, two up and coming metaverse's. We'll look at h
 ![](https://cdn.hackernoon.com/images/kYZRLgTWXOdL6lcWCVcynsiy3d43-qw93p5g.jpeg)
 Experience the future of gaming with Play-to-Own. Own your gameplay, earn real rewards, and discover a new level of entertainment on the blockchain.
 
-### [66. NFTs and Traditional Industries: A New Frontier for Creative Commerce](https://hackernoon.com/nfts-and-traditional-industries-a-new-frontier-for-creative-commerce)
-![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-a693ghm.jpeg)
-NFTs have undergone a significant evolution, from CryptoKitties to Beeple's $69 million digital art sale, and now big brands are joining the space. 
-
-### [67. 4 Innovative Sci-Fi Play-to-Earn Projects to Follow in 2022](https://hackernoon.com/4-innovative-sci-fi-play-to-earn-projects-to-follow-in-2022)
+### [66. 4 Innovative Sci-Fi Play-to-Earn Projects to Follow in 2022](https://hackernoon.com/4-innovative-sci-fi-play-to-earn-projects-to-follow-in-2022)
 ![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-8ih3j7m.jpeg)
 No one will be surprised by my saying that the gaming industry has been hitting different lately, producing incredible results with their ramp-up rates and total capitalization. This boom can be easily explained by the influx of new players as a result of the pandemic and the increased demand for practical and intuitive online games, especially on mobile platforms. 
+
+### [67. NFTs and Traditional Industries: A New Frontier for Creative Commerce](https://hackernoon.com/nfts-and-traditional-industries-a-new-frontier-for-creative-commerce)
+![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-a693ghm.jpeg)
+NFTs have undergone a significant evolution, from CryptoKitties to Beeple's $69 million digital art sale, and now big brands are joining the space. 
 
 ### [68. Why Blockchain Gaming in its Current Form Can’t Survive](https://hackernoon.com/why-blockchain-gaming-in-its-current-form-cant-survive)
 ![](https://cdn.hackernoon.com/images/JzMQJLwjMUb7ce9BBP2U728OwdY2-j493k4r.jpeg)
@@ -299,13 +303,13 @@ The fullest NFT marketing and promotion guide on the internet. It's a 2023 playb
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-l5b3na6.jpeg)
 Banger Games has raised €10 million to become the first gaming hub that aggregates, organizes, and informs players' gaming experiences.
 
-### [75. How GameFi is Driving NFT and Crypto Mainstream Adoption](https://hackernoon.com/how-gamefi-is-driving-nft-and-crypto-mainstream-adoption)
-![](https://cdn.hackernoon.com/images/VcefXHpAcrXkPGTrzkEG7V1SnFV2-kdc3nbi.jpeg)
-GameFi offers a unique gaming model and financial framework that’s focused on rewarding gamers with cryptocurrencies or NFTs just for playing games. 
-
-### [76. Mining Digital Assets on Android Phones](https://hackernoon.com/mining-digital-assets-on-android-phones)
+### [75. Mining Digital Assets on Android Phones](https://hackernoon.com/mining-digital-assets-on-android-phones)
 ![](https://cdn.hackernoon.com/images/AeN5UxxhTYYzhLU6tmtZr5mtML12-o0f3kl6.jpeg)
 Mining Digital Assets on Android Phones
+
+### [76. How GameFi is Driving NFT and Crypto Mainstream Adoption](https://hackernoon.com/how-gamefi-is-driving-nft-and-crypto-mainstream-adoption)
+![](https://cdn.hackernoon.com/images/VcefXHpAcrXkPGTrzkEG7V1SnFV2-kdc3nbi.jpeg)
+GameFi offers a unique gaming model and financial framework that’s focused on rewarding gamers with cryptocurrencies or NFTs just for playing games. 
 
 ### [77. UniX a Crypto Gaming Guild is Launching Karmaverse, One of the First Triple A-Rated Blockchain Games](https://hackernoon.com/unix-a-crypto-gaming-guild-is-launching-karmaverse-one-of-the-first-triple-a-rated-blockchain-game)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-z793nnc.jpeg)
@@ -355,21 +359,21 @@ A look at the impact of blockchain technology on the gaming industry
 ![](https://cdn.hackernoon.com/images/making-money-while-exercising-clgo7oqhj000001s68w6ihslr.png)
 The world is changing as a result of Web3 and blockchain technology. These technologies are affecting our lives, and we shouldn't ignore them.
 
-### [89. Trailblazers: Pioneering Metaverse Projects That Paved the Web3 Way](https://hackernoon.com/trailblazers-pioneering-metaverse-projects-that-paved-the-web3-way)
+### [89. Play To Earn: A Key Part Of Metaverse Economics](https://hackernoon.com/play-to-earn-a-key-part-of-metaverse-economics)
+![](https://cdn.hackernoon.com/images/IJYksI7QczZ4CDmdUFXiE0Vlyvi2-1ra34da.gif.webp)
+The gaming craze was on a high note starting last year as more people engaged in online activities following the Pandemic. 
+
+### [90. Trailblazers: Pioneering Metaverse Projects That Paved the Web3 Way](https://hackernoon.com/trailblazers-pioneering-metaverse-projects-that-paved-the-web3-way)
 ![](https://cdn.hackernoon.com/images/Rfj29N1iK7M03N2VMHLiihQRYuj1-s293t89.jpeg)
 An inside look at the companies paving the way for Web3 mass adoption. 
 
-### [90. The Future of GameFi: Where Must It Go Next?](https://hackernoon.com/the-future-of-gamefi-where-must-it-go-next)
+### [91. The Future of GameFi: Where Must It Go Next?](https://hackernoon.com/the-future-of-gamefi-where-must-it-go-next)
 ![](https://cdn.hackernoon.com/images/yLAAkSkEZXfXV0ssFw5PgR7u0ka2-ue93pfk.jpeg)
 The rising popularity of blockchain gaming is also helping to spread crypto adoption among the masses.
 
-### [91. The Inevitability of Cross-Chain Gaming-Specific NFT Marketplaces](https://hackernoon.com/the-inevitability-of-cross-chain-gaming-specific-nft-marketplaces)
+### [92. The Inevitability of Cross-Chain Gaming-Specific NFT Marketplaces](https://hackernoon.com/the-inevitability-of-cross-chain-gaming-specific-nft-marketplaces)
 ![](https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-aj03gjb.jpeg)
 Gaming NFT marketplaces will soon become billion-dollar industries that put the player first. 
-
-### [92. Play To Earn: A Key Part Of Metaverse Economics](https://hackernoon.com/play-to-earn-a-key-part-of-metaverse-economics)
-![](https://cdn.hackernoon.com/images/IJYksI7QczZ4CDmdUFXiE0Vlyvi2-1ra34da.gif.webp)
-The gaming craze was on a high note starting last year as more people engaged in online activities following the Pandemic. 
 
 ### [93. Bug or Feature? The First In-Game Interactions of Our Blockchain FPS](https://hackernoon.com/bug-or-feature-the-first-in-game-interactions-of-our-blockchain-fps)
 ![](https://cdn.hackernoon.com/images/5ZAMiBFQxdg6XyyVENHsHGEf6RU2-m6g3pg5.jpeg)
@@ -379,53 +383,53 @@ Combining all of the assets in Unity is always exciting and difficult because it
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-jt93mdy.jpeg)
 PlotX is a non-custodial decentralized prediction protocol that enables users to predict the future of crypto assets.
 
-### [95. Let’s Look at Time Raiders: An NFT Treasure Hunting Game](https://hackernoon.com/lets-look-at-time-raiders-an-nft-treasure-hunting-game)
-![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-hr93mof.jpeg)
-Let's take a closer look at Time Riaders gameplay elements and the NFTs within its ecosystem. 
-
-### [96. Why Web3 and NFT Gaming Can Be the Biggest Trend of 2023](https://hackernoon.com/why-web3-and-nft-gaming-can-be-the-biggest-trend-of-2023)
+### [95. Why Web3 and NFT Gaming Can Be the Biggest Trend of 2023](https://hackernoon.com/why-web3-and-nft-gaming-can-be-the-biggest-trend-of-2023)
 ![](https://cdn.hackernoon.com/images/IZH5VrBxylTJuG6oTbU11LwJemA3-lhb355k.jpeg)
 Web3 and NFT gaming can be the biggest trend of 2023 in crypto. And here's why.
 
-### [97. Manifesting The Metaverse With Play-to-Earn Games](https://hackernoon.com/manifesting-the-metaverse-with-play-to-earn-games)
-![](https://cdn.hackernoon.com/images/jgCjCVYfiYfsNL5xVxIu0f9hSCf1-v8e370h.jpeg)
-In Facebook’s recent earnings call with investors and analysts, Mark Zuckerberg repeatedly mentioned “metaverse”, and announced his expectation for Facebook Inc
+### [96. Let’s Look at Time Raiders: An NFT Treasure Hunting Game](https://hackernoon.com/lets-look-at-time-raiders-an-nft-treasure-hunting-game)
+![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-hr93mof.jpeg)
+Let's take a closer look at Time Riaders gameplay elements and the NFTs within its ecosystem. 
 
-### [98. The Future of Gaming is Play-and-Earn, Not Play-to-Earn](https://hackernoon.com/the-future-of-gaming-is-play-and-earn-not-play-to-earn)
+### [97. The Future of Gaming is Play-and-Earn, Not Play-to-Earn](https://hackernoon.com/the-future-of-gaming-is-play-and-earn-not-play-to-earn)
 ![](https://cdn.hackernoon.com/images/GAkTlCgOUjOa1Y70fJ5CkqHtvBb2-kgb3r2h.jpeg)
 The Web3 space has seen its fair share of value propositions come and go throughout the years, with some living up to expectations, and others not so much. 
+
+### [98. Manifesting The Metaverse With Play-to-Earn Games](https://hackernoon.com/manifesting-the-metaverse-with-play-to-earn-games)
+![](https://cdn.hackernoon.com/images/jgCjCVYfiYfsNL5xVxIu0f9hSCf1-v8e370h.jpeg)
+In Facebook’s recent earnings call with investors and analysts, Mark Zuckerberg repeatedly mentioned “metaverse”, and announced his expectation for Facebook Inc
 
 ### [99. Bringing Social Integration With Play to Earn (P2E) Gaming](https://hackernoon.com/bringing-social-integration-with-play-to-earn-p2e-gaming)
 ![](https://cdn.hackernoon.com/images/Poz9Ds7gCLQxA9x9yU9L5ezKNyk2-gj93o2d.jpeg)
 NFTs are digitizing everything, whether physical or digital, making  Web 3.0 the future of social integration. 
 
-### [100. Shaping the Future of Entertainment: Web3.0 and Play-to-Earn Games](https://hackernoon.com/shaping-the-future-of-entertainment-web30-and-play-to-earn-games)
+### [100. Why 'Crypto Games' Fail But 'Games With Crypto' Succeed](https://hackernoon.com/why-crypto-games-fail-but-games-with-crypto-succeed)
+![](https://cdn.hackernoon.com/images/rk7tcRUztgZDo5vm5v67FOb6Wpm2-6x03rk1.gif.webp)
+Discover why blockchain games succeed when they prioritize gameplay over crypto. Analysis of Off the Grid, Illuvium, and Chainers reveals strategies.
+
+### [101. Shaping the Future of Entertainment: Web3.0 and Play-to-Earn Games](https://hackernoon.com/shaping-the-future-of-entertainment-web30-and-play-to-earn-games)
 ![](https://cdn.hackernoon.com/images/TYAy8YXF3pNC96IPW15fOOqYix43-qz92rw7.jpeg)
 The combination of these two forces will significantly impact the future of entertainment.
 
-### [101. Meet YARD Hub: The Web3, NFT & P2E Incubator Platform ](https://hackernoon.com/building-a-web3-nft-and-p2e-platform-with-the-help-of-an-incubator-and-ventures-platform)
+### [102. Meet YARD Hub: The Web3, NFT & P2E Incubator Platform ](https://hackernoon.com/building-a-web3-nft-and-p2e-platform-with-the-help-of-an-incubator-and-ventures-platform)
 ![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-5y93nva.jpeg)
 A look at Yard Hub and how the platform works.
 
-### [102. Making Games More Interoperable with GameFi](https://hackernoon.com/making-games-more-interoperable-with-gamefi)
+### [103. Making Games More Interoperable with GameFi](https://hackernoon.com/making-games-more-interoperable-with-gamefi)
 ![](https://cdn.hackernoon.com/images/Poz9Ds7gCLQxA9x9yU9L5ezKNyk2-do93nqj.jpeg)
 For eons, traditional games have isolated players from other games and, in some cases, other players. GameFi changes that, read more to find out. 
 
-### [103. GameFi - The Way To Make Money Playing Games](https://hackernoon.com/gamefi-the-way-to-make-money-playing-games)
+### [104. GameFi - The Way To Make Money Playing Games](https://hackernoon.com/gamefi-the-way-to-make-money-playing-games)
 ![](https://cdn.hackernoon.com/images/KCkGNmETWobKBnvNmC7qbdsnipf2-be7399k.jpeg)
 GameFi is a new monetisation model that will let gamers earn money from gaming. But how will it work and what can we expect from this new form of monetisation? 
-
-### [104. Play, Build, and Earn on Play-to-Earn Platforms](https://hackernoon.com/play-build-and-earn-on-play-to-earn-platforms)
-![](https://cdn.hackernoon.com/images/9H83FKyvtiaLZhkIY0Scr1mYE2i1-ot839kd.png)
-In this article, we'll explore P2E gaming on the blockchain, and how players are rewarded for their time and effort put into playing these games.
 
 ### [105. Discovering Web3 Gaming with Long Do and Laura Cullell](https://hackernoon.com/discovering-web3-gaming-with-long-do-and-laura-cullell)
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-x993ocx.jpeg)
 In this exciting AMA, we're joined by Long Do and Laura Cullell from Anomura, an NFT pixel art play-and-earn gaming experience.
 
-### [106. Why 'Crypto Games' Fail But 'Games With Crypto' Succeed](https://hackernoon.com/why-crypto-games-fail-but-games-with-crypto-succeed)
-![](https://cdn.hackernoon.com/images/rk7tcRUztgZDo5vm5v67FOb6Wpm2-6x03rk1.gif.webp)
-Discover why blockchain games succeed when they prioritize gameplay over crypto. Analysis of Off the Grid, Illuvium, and Chainers reveals strategies.
+### [106. Play, Build, and Earn on Play-to-Earn Platforms](https://hackernoon.com/play-build-and-earn-on-play-to-earn-platforms)
+![](https://cdn.hackernoon.com/images/9H83FKyvtiaLZhkIY0Scr1mYE2i1-ot839kd.png)
+In this article, we'll explore P2E gaming on the blockchain, and how players are rewarded for their time and effort put into playing these games.
 
 ### [107. Why Some Gamers Dislike the P2E Movement](https://hackernoon.com/why-some-gamers-dislike-the-p2e-movement)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ji93ofy.jpeg)
@@ -455,45 +459,45 @@ Let's take a look at the crypto gaming ecosystem in 2022 and some recent develop
 ![](https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-qt13gfv.jpeg)
 Meta is trying to stay relevant by looking forward to a VR future. The problem is there are far better ways to take part in that future than logging into Insta.
 
-### [114. Spielworks Launches Season One of its Wombat Dungeon Master NFT Game](https://hackernoon.com/spielworks-launches-season-one-of-its-wombat-dungeon-master-nft-game)
-![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-83a3h06.jpeg)
-Season One of the Wombat Dungeon Master NFT game has launched and the Genesis item pack sold out in only a second. We'll take a deeper look at the NFT RPG Game.
+### [114. Making P2E Gaming Guilds More Fair for Gamers: Problems and Solutions](https://hackernoon.com/making-p2e-gaming-guilds-more-fair-for-gamers-problems-and-solutions)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-y393k86.jpeg)
+Play-to-earn gaming guilds could be more beneficial to players by lowering the potential barrier to entry into the genre. Here are some problems and solutions.
 
 ### [115. The Most Important Thing in GameFi is to Create Good Tokenomics](https://hackernoon.com/the-most-important-thing-in-gamefi-is-to-create-good-tokenomics)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-d093k4k.jpeg)
 Juanjo Chust is CEO of Arker Labs, a company founded in 2018 which has been developing all kinds of applications. 
 
-### [116. Making P2E Gaming Guilds More Fair for Gamers: Problems and Solutions](https://hackernoon.com/making-p2e-gaming-guilds-more-fair-for-gamers-problems-and-solutions)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-y393k86.jpeg)
-Play-to-earn gaming guilds could be more beneficial to players by lowering the potential barrier to entry into the genre. Here are some problems and solutions.
+### [116. Spielworks Launches Season One of its Wombat Dungeon Master NFT Game](https://hackernoon.com/spielworks-launches-season-one-of-its-wombat-dungeon-master-nft-game)
+![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-83a3h06.jpeg)
+Season One of the Wombat Dungeon Master NFT game has launched and the Genesis item pack sold out in only a second. We'll take a deeper look at the NFT RPG Game.
 
 ### [117. The Future of Play-to-Earn: Sustainability, Development, Prospects](https://hackernoon.com/the-future-of-play-to-earn-sustainability-development-prospects)
 ![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-ds93q3i.png)
 This article dives into the theory and shares some basic information about what the Play-to-Earn industry is all about. 
 
-### [118. How Web3 is Revolutionzing the Gaming Industry](https://hackernoon.com/how-web3-is-revolutionzing-the-gaming-industry)
-![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-wi92fe4.jpeg)
-A look at how web3 is revolutionzing the gaming industry
+### [118. Why Games Will Be the Breakthrough Product for Mass Adoption of Crypto](https://hackernoon.com/why-games-will-be-the-breakthrough-product-for-mass-adoption-of-crypto)
+![](https://cdn.hackernoon.com/images/NUJReFNcEvR4OICNYqOjnotD4FO2-y8e3urz.jpeg)
+In this piece I put forward the argument that gaming will be the lynchpin that'll drive crypto adoption
 
 ### [119. The Rise of Crypto Gaming Guilds in Africa](https://hackernoon.com/the-rise-of-crypto-gaming-guilds-in-africa)
 ![](https://cdn.hackernoon.com/images/E5pzMBNmQ9SBU6qVMYl6X48inok2-t093ma5.jpeg)
 Let's ask the deep questions and explore the why, how and what behind the rise of crypto gaming guilds in Africa.
 
-### [120. Why Games Will Be the Breakthrough Product for Mass Adoption of Crypto](https://hackernoon.com/why-games-will-be-the-breakthrough-product-for-mass-adoption-of-crypto)
-![](https://cdn.hackernoon.com/images/NUJReFNcEvR4OICNYqOjnotD4FO2-y8e3urz.jpeg)
-In this piece I put forward the argument that gaming will be the lynchpin that'll drive crypto adoption
+### [120. How Web3 is Revolutionzing the Gaming Industry](https://hackernoon.com/how-web3-is-revolutionzing-the-gaming-industry)
+![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-wi92fe4.jpeg)
+A look at how web3 is revolutionzing the gaming industry
 
 ### [121. Top 7 NFT P2E Game Development Companies in 2023](https://hackernoon.com/top-7-nft-p2e-game-development-companies-in-2022)
 ![](https://cdn.hackernoon.com/images/H2bQ0VxqVDYspCvef2FVf9lTip73-nd93o2n.jpeg)
 Looking for top NFT game development companies? Here they are. Just take a look at their experience and case studies in play 2 earn game development direction. 
 
-### [122. Play-to-earn. Move-to-earn. The next big thing?  Watch-to-earn…](https://hackernoon.com/play-to-earn-move-to-earn-the-next-big-thing-watch-to-earn)
-![](https://cdn.hackernoon.com/images/oogPelnhlHOhFfdTlZBL7CzygM12-z593wsb.jpeg)
-After the boom of "play-to-earn" projects, the world seems to be moving to "move-to-earn". But what is the next big thing in the “do-something-to-earn” space? 
-
-### [123. Introducing Pepemon: Degen Battleground](https://hackernoon.com/introducing-pepemon-degen-battleground)
+### [122. Introducing Pepemon: Degen Battleground](https://hackernoon.com/introducing-pepemon-degen-battleground)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-yu93ogq.jpeg)
 Pepemon started as an experiment between developers and graphic designers. But it quickly evolved into one of the most under-the-radar projects in the space.
+
+### [123. Play-to-earn. Move-to-earn. The next big thing?  Watch-to-earn…](https://hackernoon.com/play-to-earn-move-to-earn-the-next-big-thing-watch-to-earn)
+![](https://cdn.hackernoon.com/images/oogPelnhlHOhFfdTlZBL7CzygM12-z593wsb.jpeg)
+After the boom of "play-to-earn" projects, the world seems to be moving to "move-to-earn". But what is the next big thing in the “do-something-to-earn” space? 
 
 ### [124. A Brief Intro to Play-to-Earn Games](https://hackernoon.com/a-brief-intro-to-play-to-earn-games)
 ![](https://cdn.hackernoon.com/images/iKnAyX6wonPP7zZPoUrPycGhfFf2-n293860.jpeg)
@@ -511,214 +515,214 @@ Everything Crypto: In-Conversation with Bulliverse
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-u493qxy.jpeg)
 Splinterlands is among the most prominent play-to-earn (P2E) games that are scheduled to transition to Splintershards (SPS) validator nodes.
 
-### [128. Play2Earn Games Explained + 4 P2E Gaming Companies to Follow in 2022](https://hackernoon.com/play2earn-games-explained-4-p2e-gaming-companies-to-follow-in-2022)
-![](https://cdn.hackernoon.com/images/oCyQIVJAJmc4P3Id6USm7G9OUZ53-8f93ok9.jpeg)
-Over the past few years, the play to earn game model has taken the world by storm.
+### [128. The Future of GameFi is Play-2-Earn: Interview with Chase Layman](https://hackernoon.com/the-future-of-gamefi-is-play-2-earn-interview-with-chase-layman)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-ef93n13.jpeg)
+Attack Wagon Games was founded in January 2021 as a development studio for Free to Play and Play To Earn Games.
 
 ### [129. A Look at UniX Gaming: The Growing P2E Crypto Gaming Guild](https://hackernoon.com/a-look-at-unix-gaming-the-growing-p2e-crypto-gaming-guild)
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-xr93jhk.jpeg)
 UniX Gaming is a community-focused platform that seeks to create a home for gamers in the metaverse.
 
-### [130. The Future of GameFi is Play-2-Earn: Interview with Chase Layman](https://hackernoon.com/the-future-of-gamefi-is-play-2-earn-interview-with-chase-layman)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-ef93n13.jpeg)
-Attack Wagon Games was founded in January 2021 as a development studio for Free to Play and Play To Earn Games.
+### [130. Play2Earn Games Explained + 4 P2E Gaming Companies to Follow in 2022](https://hackernoon.com/play2earn-games-explained-4-p2e-gaming-companies-to-follow-in-2022)
+![](https://cdn.hackernoon.com/images/oCyQIVJAJmc4P3Id6USm7G9OUZ53-8f93ok9.jpeg)
+Over the past few years, the play to earn game model has taken the world by storm.
 
-### [131. The Future of Gaming will have a Fully Player-Driven Economy: Unhashed #20](https://hackernoon.com/the-future-of-gaming-will-have-a-fully-player-driven-economy-unhashed-20)
-![](https://cdn.hackernoon.com/images/J4wbz3JAj4ck2KKzkB83S10DntP2-xe136m2.jpeg)
-Unhashed is a QnA series where I speak with top execs of new and established blockchain projects to unravel the mystery of blockchain & crypto.
-
+### [131. Landrocker's $2.5M Funding Unleashes a New Era Of Hardcore P2E Gaming And Pro Players To Blockchain](https://hackernoon.com/landrockers-$25m-funding-unleashes-a-new-era-of-hardcore-p2e-gaming-and-pro-players-to-blockchain)
+![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-9x8335l.jpeg)
+The capital will be strategically utilized to continuously enhance Landrocker’s gameplay by adding fresh features and modes. 
 
 ### [132. Play-to-Warn in Web 3.0: What can Make a Game Successful](https://hackernoon.com/play-to-warn-in-web-30-what-can-make-a-game-successful)
 ![](https://cdn.hackernoon.com/images/l2eAYc6mZ4MZ1oc7JNZ3j2rWfTH2-7u93r9r.jpeg)
 Play-to-Earn games have already revolutionized the blockchain industry. 
 
-### [133. Landrocker's $2.5M Funding Unleashes a New Era Of Hardcore P2E Gaming And Pro Players To Blockchain](https://hackernoon.com/landrockers-$25m-funding-unleashes-a-new-era-of-hardcore-p2e-gaming-and-pro-players-to-blockchain)
-![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-9x8335l.jpeg)
-The capital will be strategically utilized to continuously enhance Landrocker’s gameplay by adding fresh features and modes. 
-
-### [134. 5 Gameplay-Focused Blockchain Games](https://hackernoon.com/5-gameplay-focused-blockchain-games)
+### [133. 5 Gameplay-Focused Blockchain Games](https://hackernoon.com/5-gameplay-focused-blockchain-games)
 ![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-ej93o3v.jpeg)
 In this post, we'll take a look at five blockchain games that are primarily concerned with gameplay.
+
+### [134. The Future of Gaming will have a Fully Player-Driven Economy: Unhashed #20](https://hackernoon.com/the-future-of-gaming-will-have-a-fully-player-driven-economy-unhashed-20)
+![](https://cdn.hackernoon.com/images/J4wbz3JAj4ck2KKzkB83S10DntP2-xe136m2.jpeg)
+Unhashed is a QnA series where I speak with top execs of new and established blockchain projects to unravel the mystery of blockchain & crypto.
+
 
 ### [135. How Blockchain Technology Affects Ownership in the Gaming Industry](https://hackernoon.com/how-blockchain-technology-affects-ownership-in-the-gaming-industry)
 ![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-k292djm.jpeg)
 A look at the value of blockchain technology within the gaming industry
 
-### [136. GameFi and The Need for a Dedicated Stablecoin](https://hackernoon.com/gamefi-and-the-need-for-a-dedicated-stablecoin)
-![](https://cdn.hackernoon.com/images/E5pzMBNmQ9SBU6qVMYl6X48inok2-2093kev.jpeg)
-The stablecoin for play-to-earn game economies in Web3 (the Metaverse) to avoid the problem of hyperinflation.
-
-### [137. Web3 Gaming Takes a Leap with "Off the Grid"](https://hackernoon.com/web3-gaming-takes-a-leap-with-off-the-grid)
-![](https://cdn.hackernoon.com/images/9IwtzQGRqIUqi3nriCDxBIR6rCn1-jw136sw.jpeg)
-Discover how *Off the Grid*, a cyberpunk battle royale game, is redefining gaming with Web3 technology. Learn how players can own in-game assets. 
-
-### [138. Meet the Moonland Metaverse](https://hackernoon.com/meet-the-moonland-metaverse)
+### [136. Meet the Moonland Metaverse](https://hackernoon.com/meet-the-moonland-metaverse)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-n993ux2.jpeg)
 Primary drivers of blockchain gaming include integration with NFTs,play-to-earn and free-to-play models. Moonland is a gaming platform.
 
-### [139. What is The Wasted Lands? A Look at The New NFT & Puzzle-RPG Game](https://hackernoon.com/what-is-the-wasted-lands-a-look-at-the-new-nft-and-puzzle-rpg-game)
-![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-3ef3h0v.jpeg)
-In this post we'll look at The Wasted Lands, a blockchain based, Play-to-Earn, NFT & Puzzle-RPG Game.
+### [137. GameFi and The Need for a Dedicated Stablecoin](https://hackernoon.com/gamefi-and-the-need-for-a-dedicated-stablecoin)
+![](https://cdn.hackernoon.com/images/E5pzMBNmQ9SBU6qVMYl6X48inok2-2093kev.jpeg)
+The stablecoin for play-to-earn game economies in Web3 (the Metaverse) to avoid the problem of hyperinflation.
 
-### [140. P2E Public Relations Checklist for a Successful Campaign](https://hackernoon.com/p2e-public-relations-checklist-for-a-successful-campaign)
+### [138. Web3 Gaming Takes a Leap with "Off the Grid"](https://hackernoon.com/web3-gaming-takes-a-leap-with-off-the-grid)
+![](https://cdn.hackernoon.com/images/9IwtzQGRqIUqi3nriCDxBIR6rCn1-jw136sw.jpeg)
+Discover how *Off the Grid*, a cyberpunk battle royale game, is redefining gaming with Web3 technology. Learn how players can own in-game assets. 
+
+### [139. P2E Public Relations Checklist for a Successful Campaign](https://hackernoon.com/p2e-public-relations-checklist-for-a-successful-campaign)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-b593k8w.jpeg)
 Play-to-earn (P2E) is currently one of the hottest niches in the cryptocurrency and blockchain industry. In the last two years, the emergence of P2E games such 
+
+### [140. What is The Wasted Lands? A Look at The New NFT & Puzzle-RPG Game](https://hackernoon.com/what-is-the-wasted-lands-a-look-at-the-new-nft-and-puzzle-rpg-game)
+![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-3ef3h0v.jpeg)
+In this post we'll look at The Wasted Lands, a blockchain based, Play-to-Earn, NFT & Puzzle-RPG Game.
 
 ### [141. Getting Involved in The Metaverse](https://hackernoon.com/getting-involved-in-the-metaverse)
 ![](https://cdn.hackernoon.com/images/oOAIYVH2JeWnKukF7SdhtTPUfTl1-c493lns.jpeg)
 Getting involved in the metaverse, from corporations to creators. 
 
-### [142. Long-Term Game-Fi Trends to Look Out For ](https://hackernoon.com/long-term-game-fi-trends-to-look-out-for)
+### [142. Experiencing Humanity on an NFT Project](https://hackernoon.com/experiencing-humanity-on-an-nft-project)
+![](https://cdn.hackernoon.com/images/91u4a1U7wRQyBUaNq85QGyqNJKu2-fka2jbb.jpeg)
+A brief story about DeltaFlare, a Play And Earn NFT project growing and expanding its limits.
+
+### [143. Long-Term Game-Fi Trends to Look Out For ](https://hackernoon.com/long-term-game-fi-trends-to-look-out-for)
 ![](https://cdn.hackernoon.com/images/J251DfSxk4ShTpDSIst2Ub0HrhU2-qh93lhv.jpeg)
 In this article, I’ll share our vision of the processes that are now impacting GameFi — and how to use them to create a successful strategy. 
 
-### [143. Play-To-Earn Industry: B**** Better Have My Money](https://hackernoon.com/play-to-earn-industry-b-better-have-my-money)
+### [144. Play-To-Earn Industry: B**** Better Have My Money](https://hackernoon.com/play-to-earn-industry-b-better-have-my-money)
 ![](https://cdn.hackernoon.com/images/KGTFaWujV3WROYDbGn02182ZFGF3-tf23a6p.jpeg)
 Play-to-Earn, Metaverse, and GameFi are the latest hype in the crypto space as they help bridge the traditional world with the crypto world.
-
-### [144. Experiencing Humanity on an NFT Project](https://hackernoon.com/experiencing-humanity-on-an-nft-project)
-![](https://cdn.hackernoon.com/images/91u4a1U7wRQyBUaNq85QGyqNJKu2-fka2jbb.jpeg)
-A brief story about DeltaFlare, a Play And Earn NFT project growing and expanding its limits.
 
 ### [145. Why You Shouldn't Quit Your Job to Make Money Playing Games](https://hackernoon.com/why-you-shouldnt-quit-your-job-to-make-money-playing-games)
 ![](https://cdn.hackernoon.com/images/2C0HEdrhFiM22pMboeFLzZvJLDe2-c6b3i4p.jpeg)
 The what, why and when of playing to earn games.
 
-### [146. Web3 Gaming Had a Bad 2024](https://hackernoon.com/web3-gaming-had-a-bad-2024)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-vj02tu1.jpeg)
-Despite notable progress, Web3 gaming has faced significant challenges competing with other parts of the gaming ecosystem.
-
-### [147. Interview with Brilliantcrypto's CEO: Insights on Innovation, Growth, and What's Next](https://hackernoon.com/interview-with-brilliantcryptos-ceo-insights-on-innovation-growth-and-whats-next)
+### [146. Interview with Brilliantcrypto's CEO: Insights on Innovation, Growth, and What's Next](https://hackernoon.com/interview-with-brilliantcryptos-ceo-insights-on-innovation-growth-and-whats-next)
 ![](https://cdn.hackernoon.com/images/JmKbQ7mMRAZeu3id1Rc2V6W9Eqf2-ta03lke.jpeg)
 Discover the vision behind Brilliantcrypto's success in this exclusive interview with CEO Harai Yoshiaki. 
 
-### [148. $20K Reward Pool, Daily Airdrops, And an Amazing Launchpad — BigBait’s Airdrops Keep Players Hooked](https://hackernoon.com/$20k-reward-pool-daily-airdrops-and-an-amazing-launchpad-bigbaits-airdrops-keep-players-hooked)
+### [147. $20K Reward Pool, Daily Airdrops, And an Amazing Launchpad — BigBait’s Airdrops Keep Players Hooked](https://hackernoon.com/$20k-reward-pool-daily-airdrops-and-an-amazing-launchpad-bigbaits-airdrops-keep-players-hooked)
 ![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-i4025tk.jpeg)
 In gaming, value isn't about owning something; it's about the story behind that asset. This is exactly why the traditional gaming infrastructure is breaking und
+
+### [148. Web3 Gaming Had a Bad 2024](https://hackernoon.com/web3-gaming-had-a-bad-2024)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-vj02tu1.jpeg)
+Despite notable progress, Web3 gaming has faced significant challenges competing with other parts of the gaming ecosystem.
 
 ### [149. 113 Stories To Learn About Gamefi](https://hackernoon.com/113-stories-to-learn-about-gamefi)
 ![](https://cdn.hackernoon.com/images/github/gamefi-685.png)
 Learn everything you need to know about Gamefi via these 113 free HackerNoon stories.
 
-### [150. NFTs to Earn: Promising Projects During the Bear Market](https://hackernoon.com/nfts-to-earn-promising-projects-during-the-bear-market)
-![](https://cdn.hackernoon.com/images/CW9ZwDCl1kQCd0dp6RiIobclACV2-3793q6e.jpeg)
-With new NFT collections on the way, let’s find out about the passive income model for this type of crypto assets. Is it limited to play-to-earn?
-
-### [151. Top 5 Play-to-earn (P2E) NFT Games in 2022](https://hackernoon.com/top-5-play-to-earn-p2e-nft-games-in-2022)
-![](https://cdn.hackernoon.com/images/TW2o8k3NYGhDfshXVng2gcYV6Gi2-98f3ixv.jpeg)
-This article is dedicated to 5 play-to-earn NFT games. The blockchain-based games are based on the play-to-earn P2E principle, where gamers earn while playing.
-
-### [152. Meet the Writer: HackerNoon's Contributor Eran Elhanani, Co-Founder of BullPerks and GamesPad](https://hackernoon.com/meet-the-writer-hackernoons-contributor-eran-elhanani-co-founder-of-bullperks-and-gamespad)
+### [150. Meet the Writer: HackerNoon's Contributor Eran Elhanani, Co-Founder of BullPerks and GamesPad](https://hackernoon.com/meet-the-writer-hackernoons-contributor-eran-elhanani-co-founder-of-bullperks-and-gamespad)
 ![](https://cdn.hackernoon.com/images/GAkTlCgOUjOa1Y70fJ5CkqHtvBb2-8s93rgc.jpeg)
 My name is Eran Elhanani, and I’m the Co-Founder of BullPerks, a decentralized VC and multichain launchpad, currently ranking as the #2 IDO investment platform.
 
-### [153. My Experience with Blockchain in Decentralized Gaming](https://hackernoon.com/my-experience-with-blockchain-in-decentralized-gaming-p43n37u4)
+### [151. NFTs to Earn: Promising Projects During the Bear Market](https://hackernoon.com/nfts-to-earn-promising-projects-during-the-bear-market)
+![](https://cdn.hackernoon.com/images/CW9ZwDCl1kQCd0dp6RiIobclACV2-3793q6e.jpeg)
+With new NFT collections on the way, let’s find out about the passive income model for this type of crypto assets. Is it limited to play-to-earn?
+
+### [152. Is the P2E Model Running Out? What is Next for Web3 Development](https://hackernoon.com/is-the-p2e-model-running-out-what-is-next-for-web3-development)
+![](https://cdn.hackernoon.com/images/TM8IKMBtnoVzmc1qKCN55eztHxE3-f2h304u.jpeg)
+On average, global gaming enthusiasts will spend 8.45 hours on various forms of gaming.
+
+### [153. Top 5 Play-to-earn (P2E) NFT Games in 2022](https://hackernoon.com/top-5-play-to-earn-p2e-nft-games-in-2022)
+![](https://cdn.hackernoon.com/images/TW2o8k3NYGhDfshXVng2gcYV6Gi2-98f3ixv.jpeg)
+This article is dedicated to 5 play-to-earn NFT games. The blockchain-based games are based on the play-to-earn P2E principle, where gamers earn while playing.
+
+### [154. Games That Embrace the Spirit of Satoshi](https://hackernoon.com/games-that-embrace-the-spirit-of-satoshi)
+![](https://cdn.hackernoon.com/images/QyZoXOrxXgQO7DQXu5oq2kXMP722-l3c3sen.jpeg)
+It is clear to see which games are in keeping with the ethos of Bitcoin. Such games provide their users with more control over in-game currencies and items
+
+### [155. My Experience with Blockchain in Decentralized Gaming](https://hackernoon.com/my-experience-with-blockchain-in-decentralized-gaming-p43n37u4)
 ![](https://cdn.hackernoon.com/images/cboMzkXNeobtCqwB8hNiMYAyZWH2-yj4v25ph.jpeg)
 The intersecting of Blockchain and gaming has always been an interesting
 world. In this new world, the lifelike reality is possible in a
 virtual world. 
 
-### [154. An Evolution in Gaming: Blockchain Gaming & The Metaverse ](https://hackernoon.com/an-evolution-in-gaming-blockchain-gaming-and-the-metaverse)
-![](https://cdn.hackernoon.com/images/xUG3Rwf9eHYr5eMaeQVDCjFVwvJ3-ouo380x.gif)
-There’s an evolution happening in the video gaming industry which is shifting the current pay-to-play framework into a play-to-earn ecosystem.
-
-### [155. What DeFi Can Learn from Tokenomics Design in Play-To-Earn](https://hackernoon.com/what-defi-can-learn-from-tokenomics-design-in-play-to-earn)
+### [156. What DeFi Can Learn from Tokenomics Design in Play-To-Earn](https://hackernoon.com/what-defi-can-learn-from-tokenomics-design-in-play-to-earn)
 ![](https://cdn.hackernoon.com/images/bl00wwd7DBTVMkWga10sm4vyVTU2-8fc3q6f.jpeg)
 3 lessons from Play-To-Earn can be adapted and applied in other products like DeFi and drive a new wave of innovations.
 
-### [156. Games That Embrace the Spirit of Satoshi](https://hackernoon.com/games-that-embrace-the-spirit-of-satoshi)
-![](https://cdn.hackernoon.com/images/QyZoXOrxXgQO7DQXu5oq2kXMP722-l3c3sen.jpeg)
-It is clear to see which games are in keeping with the ethos of Bitcoin. Such games provide their users with more control over in-game currencies and items
-
-### [157. Is the P2E Model Running Out? What is Next for Web3 Development](https://hackernoon.com/is-the-p2e-model-running-out-what-is-next-for-web3-development)
-![](https://cdn.hackernoon.com/images/TM8IKMBtnoVzmc1qKCN55eztHxE3-f2h304u.jpeg)
-On average, global gaming enthusiasts will spend 8.45 hours on various forms of gaming.
-
-### [158. Where am I? 🤔 - Creating Maps for FPS Games](https://hackernoon.com/where-am-i-creating-maps-for-fps-games)
-![](https://cdn.hackernoon.com/images/5ZAMiBFQxdg6XyyVENHsHGEf6RU2-oql3k3e.jpeg)
-Similar to racing games, maps in FPS games have a significant impact on gameplay because they define strategy and it can be difficult to balance.
-
-### [159. Introducing Entropy Mainnet: A Gateway to Experience and Earnings (X&E)](https://hackernoon.com/introducing-entropy-mainnet-a-gateway-to-experience-and-earnings-xande)
-![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-mo93vwg.jpeg)
-Entropy Network is  now officially live for the general public. This groundbreaking network is designed to integrate businesses into a blockchain network.
-
-### [160. Rocky Rabbit's Transition: How Hamster Kombat Is Fueling The Play-To-Earn Switch](https://hackernoon.com/from-tap-to-earn-to-play-to-earn-how-hamster-kombat-is-fueling-the-switch)
+### [157. Rocky Rabbit's Transition: How Hamster Kombat Is Fueling The Play-To-Earn Switch](https://hackernoon.com/from-tap-to-earn-to-play-to-earn-how-hamster-kombat-is-fueling-the-switch)
 ![](https://cdn.hackernoon.com/images/TxDoBkwYR6SJyE4M2HkfSa574hE3-e10230w.jpeg)
 Today, Tap-To-Earn clickers games boast millions of players on Telegram and a combined market capitalization of over 1 billion dollars. 
 
-### [161. The Lay of the Cryptoland - Part II: NFTs, P2E Games, and DeFi](https://hackernoon.com/the-lay-of-the-cryptoland-part-ii-nfts-p2e-games-and-defi)
-![](https://cdn.hackernoon.com/images/OkskACwfJSV9GlgHDeK1JUJXAot2-fp23bg8.jpeg)
-Learn more about the lay of the cryptoland. An introductory post on NFTs, Play-to-earn games, and Decentralized Finance.
+### [158. An Evolution in Gaming: Blockchain Gaming & The Metaverse ](https://hackernoon.com/an-evolution-in-gaming-blockchain-gaming-and-the-metaverse)
+![](https://cdn.hackernoon.com/images/xUG3Rwf9eHYr5eMaeQVDCjFVwvJ3-ouo380x.gif)
+There’s an evolution happening in the video gaming industry which is shifting the current pay-to-play framework into a play-to-earn ecosystem.
 
-### [162. Web3's Impact on the Shifting Landscape of Video Gaming](https://hackernoon.com/web3s-impact-on-the-shifting-landscape-of-video-gaming)
-![](https://cdn.hackernoon.com/images/Eyd11IOsuMUc5xXLd3KU8kjUXhh1-fr93z72.jpeg)
-Today, the integration of blockchain technology is set to take things to a whole new level, making it the perfect moment to analyze the evolution of gaming...
+### [159. Where am I? 🤔 - Creating Maps for FPS Games](https://hackernoon.com/where-am-i-creating-maps-for-fps-games)
+![](https://cdn.hackernoon.com/images/5ZAMiBFQxdg6XyyVENHsHGEf6RU2-oql3k3e.jpeg)
+Similar to racing games, maps in FPS games have a significant impact on gameplay because they define strategy and it can be difficult to balance.
 
-### [163. Play-To-Earn And The Optimization Of GameFi](https://hackernoon.com/play-to-earn-and-the-optimization-of-gamefi)
+### [160. Introducing Entropy Mainnet: A Gateway to Experience and Earnings (X&E)](https://hackernoon.com/introducing-entropy-mainnet-a-gateway-to-experience-and-earnings-xande)
+![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-mo93vwg.jpeg)
+Entropy Network is  now officially live for the general public. This groundbreaking network is designed to integrate businesses into a blockchain network.
+
+### [161. Play-To-Earn And The Optimization Of GameFi](https://hackernoon.com/play-to-earn-and-the-optimization-of-gamefi)
 ![](https://cdn.hackernoon.com/images/KTsAalOsFZcNRUZ8VTJlXGrvLZo1-lz93pyh.jpeg)
 While GameFi itself is an exciting prospect, what really makes this market so vibrant has been the introduction of the play-to-earn model. 
 
 
 
-### [164. P2E Coins and Why It’s Important to Pay Attention to Them](https://hackernoon.com/p2e-coins-and-why-its-important-to-pay-attention-to-them)
+### [162. Web3's Impact on the Shifting Landscape of Video Gaming](https://hackernoon.com/web3s-impact-on-the-shifting-landscape-of-video-gaming)
+![](https://cdn.hackernoon.com/images/Eyd11IOsuMUc5xXLd3KU8kjUXhh1-fr93z72.jpeg)
+Today, the integration of blockchain technology is set to take things to a whole new level, making it the perfect moment to analyze the evolution of gaming...
+
+### [163. P2E Coins and Why It’s Important to Pay Attention to Them](https://hackernoon.com/p2e-coins-and-why-its-important-to-pay-attention-to-them)
 ![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-aif3i0u.jpeg)
 P2E is making waves in the gaming and crypto markets and is becoming one of the main targets for crypto investors. Despite their rising popularity, there is so much misinformation about the play-to-earn model that some clarifications are required to understand why P2E coins are important, and why not all of them are here to stay.
 
-### [165. Get Paid To Play Oldie Games - Yes, You Heard That Right](https://hackernoon.com/get-paid-to-play-oldie-games-yes-you-heard-that-right-sp2j330f)
-![](https://cdn.hackernoon.com/images/nxtWKMHuO1UKGUbmzmzTuQsBx4H2-yd3038ew.jpeg)
-Did You know that You can earn crypto just playing traditional games on Your smartphone?
+### [164. The Lay of the Cryptoland - Part II: NFTs, P2E Games, and DeFi](https://hackernoon.com/the-lay-of-the-cryptoland-part-ii-nfts-p2e-games-and-defi)
+![](https://cdn.hackernoon.com/images/OkskACwfJSV9GlgHDeK1JUJXAot2-fp23bg8.jpeg)
+Learn more about the lay of the cryptoland. An introductory post on NFTs, Play-to-earn games, and Decentralized Finance.
 
-### [166. How Nifty League Is Pioneering the Future of Gaming and P2E](https://hackernoon.com/how-nifty-league-is-pioneering-the-future-of-gaming-and-p2e)
-![](https://cdn.hackernoon.com/images/yLOjW9bomjT1c65UsbigOtxBTP12-x2l3jxx.jpeg)
-Nifty League is bringing competitive gaming to web3 - moving away from play-to-earn (P2E) into a new era of play-and-earn (P&E) 
-
-### [167. Playtime Named Best Money-Making Platform of 2025 in New Independent Review](https://hackernoon.com/playtime-named-best-money-making-platform-of-2025-in-new-independent-review)
+### [165. Playtime Named Best Money-Making Platform of 2025 in New Independent Review](https://hackernoon.com/playtime-named-best-money-making-platform-of-2025-in-new-independent-review)
 ![](https://cdn.hackernoon.com/images/iRbOHPwIo2hED0rACW3cailrVtl2-6r038h0.jpeg)
 Playtime has unveiled the results of an independent evaluation confirming its place as the most trustworthy and high-performing money-earning app of 2025.
 
-### [168. The Untapped Potential of Blockchain: Safeguarding P2E Game Rewards with Smart Contracts](https://hackernoon.com/the-untapped-potential-of-blockchain-safeguarding-p2e-game-rewards-with-smart-contracts)
-![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-za92i6s.jpeg)
-An interview with Hamid Fathalian on safeguarding P2E gaming rewards via blockchain technology.
+### [166. Emerging Markets and The Future Of Blockchain](https://hackernoon.com/emerging-markets-and-the-future-of-blockchain)
+![](https://cdn.hackernoon.com/images/E5pzMBNmQ9SBU6qVMYl6X48inok2-8bc3k4d.jpeg)
+In order to guarantee the adoption in the Blockchain space, the West must not ignore the role the emerging markets like African Countries have to play.
+
+### [167. How Nifty League Is Pioneering the Future of Gaming and P2E](https://hackernoon.com/how-nifty-league-is-pioneering-the-future-of-gaming-and-p2e)
+![](https://cdn.hackernoon.com/images/yLOjW9bomjT1c65UsbigOtxBTP12-x2l3jxx.jpeg)
+Nifty League is bringing competitive gaming to web3 - moving away from play-to-earn (P2E) into a new era of play-and-earn (P&E) 
+
+### [168. Get Paid To Play Oldie Games - Yes, You Heard That Right](https://hackernoon.com/get-paid-to-play-oldie-games-yes-you-heard-that-right-sp2j330f)
+![](https://cdn.hackernoon.com/images/nxtWKMHuO1UKGUbmzmzTuQsBx4H2-yd3038ew.jpeg)
+Did You know that You can earn crypto just playing traditional games on Your smartphone?
 
 ### [169. Secrets of Successful P2E Projects from a Blockchain Game CEO](https://hackernoon.com/secrets-of-successful-p2e-projects-from-a-blockchain-game-ceo)
 ![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-n6c3jyg.jpeg)
 To state the obvious, GameFi is one of the most appealing sectors for newbie users within the crypto space. It successfully attracts users who are not into the complex technological solutions of DeFi projects. Secondly, GameFi has given retail investors more opportunities to enter the market.
 
-### [170. The Evolution of P2E Games](https://hackernoon.com/the-evolution-of-p2e-games)
+### [170. The Untapped Potential of Blockchain: Safeguarding P2E Game Rewards with Smart Contracts](https://hackernoon.com/the-untapped-potential-of-blockchain-safeguarding-p2e-game-rewards-with-smart-contracts)
+![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-za92i6s.jpeg)
+An interview with Hamid Fathalian on safeguarding P2E gaming rewards via blockchain technology.
+
+### [171. The Evolution of P2E Games](https://hackernoon.com/the-evolution-of-p2e-games)
 ![](https://cdn.hackernoon.com/images/9ASR4WP1zmbxEMkQS3PmQMGj9Nr1-0wb3iht.jpeg)
 The article provides an overview of the current state of the play-to-earn gaming market, as well as an analysis of a blockchain gaming industry.
 
-### [171. Splinterlands and Play to Earn Blockchain Based Games: Noonies 2022 Interview](https://hackernoon.com/splinterlands-and-play-to-earn-blockchain-based-games-noonies-2022-interview)
+### [172. Splinterlands and Play to Earn Blockchain Based Games: Noonies 2022 Interview](https://hackernoon.com/splinterlands-and-play-to-earn-blockchain-based-games-noonies-2022-interview)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-pma2cpl.png)
 A brief introduction to Splinterlands and the philosophies it's founded on.
 
-### [172. Meet the Writer: "I Want to Make Sure What I Write is Accessible," says Joanelle Toh](https://hackernoon.com/meet-the-writer-i-want-to-make-sure-what-i-write-is-accessible-says-joanelle-toh)
+### [173. Meet the Writer: "I Want to Make Sure What I Write is Accessible," says Joanelle Toh](https://hackernoon.com/meet-the-writer-i-want-to-make-sure-what-i-write-is-accessible-says-joanelle-toh)
 ![](https://cdn.hackernoon.com/images/YScIfJiVGgXvabN9tXmFqUIrtLk2-2y0377u.jpeg)
 Jo is a VC and Tech Lawyer by day, and a Hacker Noon contributor on the topics of NFT and crypto by night. Sharing her story as part of Meet the Writer series.
 
-### [173. Gaming and the Metaverse: A Match Made in Heaven?](https://hackernoon.com/gaming-and-the-metaverse-a-match-made-in-heaven)
+### [174. Gaming and the Metaverse: A Match Made in Heaven?](https://hackernoon.com/gaming-and-the-metaverse-a-match-made-in-heaven)
 ![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-0u92dgz.jpeg)
 A look at the gaming industry and the metaverse and why the two industries are inextricably linked though not necessarily in a harmonious union together.
 
-### [174. Leveling Up MENA's Web3 Gaming Scene: Insights from Faizy Ahmed, Astra Nova CEO & Co-Founder](https://hackernoon.com/leveling-up-menas-web3-gaming-scene-insights-from-faizy-ahmed-astra-nova-ceo-and-co-founder)
+### [175. Leveling Up MENA's Web3 Gaming Scene: Insights from Faizy Ahmed, Astra Nova CEO & Co-Founder](https://hackernoon.com/leveling-up-menas-web3-gaming-scene-insights-from-faizy-ahmed-astra-nova-ceo-and-co-founder)
 ![](https://cdn.hackernoon.com/images/JmKbQ7mMRAZeu3id1Rc2V6W9Eqf2-zp03g21.jpeg)
 Explore the growing Web3 gaming market in MENA with Faizy Ahmed. Get insights on blockchain gaming, play-to-earn models, and Astra Nova's innovative approach.
 
-### [175. The Best Features of Blockchain will be Realized in the Gaming Industry](https://hackernoon.com/the-best-features-of-blockchain-will-be-realized-in-the-gaming-industry)
+### [176. The Best Features of Blockchain will be Realized in the Gaming Industry](https://hackernoon.com/the-best-features-of-blockchain-will-be-realized-in-the-gaming-industry)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-nm93jp0.jpeg)
 The Last Country is the first blockchain-based game in the MetaPlan series and a construction and management simulation (“CMS”) game set in a post-apocalyptic w
 
-### [176. On the Future of NFT, Play 2 Earn: Meet the Writer Sergey Baloyan](https://hackernoon.com/on-the-future-of-nft-play-2-earn-meet-the-writer-sergey-baloyan)
+### [177. On the Future of NFT, Play 2 Earn: Meet the Writer Sergey Baloyan](https://hackernoon.com/on-the-future-of-nft-play-2-earn-meet-the-writer-sergey-baloyan)
 ![](https://cdn.hackernoon.com/images/IZH5VrBxylTJuG6oTbU11LwJemA3-ww13s2z.jpeg)
 Sergey Baloyan, a Hacker Noon contributor and a fintech expert on the future of play to earn, podcasting, and what to expect from the gaming-crypto mix.
 
-### [177. Can P2E Games be Fun If They’re Equitable? ](https://hackernoon.com/can-p2e-games-be-fun-if-theyre-equitable)
+### [178. Can P2E Games be Fun If They’re Equitable? ](https://hackernoon.com/can-p2e-games-be-fun-if-theyre-equitable)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-nm93oxw.jpeg)
 GameFi has the potential to change the world in ways that are hard to imagine. But not all GameFi is created equal.
-
-### [178. Emerging Markets and The Future Of Blockchain](https://hackernoon.com/emerging-markets-and-the-future-of-blockchain)
-![](https://cdn.hackernoon.com/images/E5pzMBNmQ9SBU6qVMYl6X48inok2-8bc3k4d.jpeg)
-In order to guarantee the adoption in the Blockchain space, the West must not ignore the role the emerging markets like African Countries have to play.
 
 ### [179. Play-to-Earn Gaming Provides Multi-Layered Value to Investors](https://hackernoon.com/play-to-earn-gaming-provides-multi-layered-value-to-investors)
 ![](https://cdn.hackernoon.com/images/zbzf4eUv2QhWbfSK4bieABR5a7f2-oe037uw.jpeg)
@@ -728,58 +732,58 @@ Plat-to-earn: the evolution of gaming, a pyramid scheme, or the missing link to 
 ![](https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-5q03eql.png)
 In an economy suffering from low wages and pandemic lockdowns, play-to-earn has become an attractive option for those sitting at home.
 
-### [181. Solving the Problems With Play-to-earn Gaming](https://hackernoon.com/solving-the-problems-with-play-to-earn-gaming)
-![](https://cdn.hackernoon.com/images/Ah2jLzMePieEW0CzYzRXo6GsVyA3-pa03gd7.jpeg)
-If you’ve launched a play-to-earn game with a token linked to an external crypto-exchange then you’ve already failed.
+### [181. What Are The Trends Of Play To Earn Games That Should Be Considered?](https://hackernoon.com/what-are-the-trends-of-play-to-earn-games-that-should-be-considered)
+![](https://cdn.hackernoon.com/images/PVN1qtxyOSTgqH0W7fHB84Zowlt1-hh93on7.jpeg)
+P2E business model is a vital part of fast-growing gaming industry, What kind of trends of Play to Earn Games players should consider being at a winning point?
+
 
 ### [182. The NFT Paradigm Shift Toward Metaverse and Gaming in 2022](https://hackernoon.com/the-nft-paradigm-shift-toward-metaverse-and-gaming-in-2022)
 ![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-4uf3jlh.jpeg)
 These days, it seems the entire world  is talking about non-fungible tokens. The first non-fungible tokens, CryptoKitties, clogged the Ethereum blockchain in 2017 when they were launched, due to the overwhelming demand from people who wanted to collect, breed, sell, buy, and exchange those virtual cats.
 
-### [183. What Are The Trends Of Play To Earn Games That Should Be Considered?](https://hackernoon.com/what-are-the-trends-of-play-to-earn-games-that-should-be-considered)
-![](https://cdn.hackernoon.com/images/PVN1qtxyOSTgqH0W7fHB84Zowlt1-hh93on7.jpeg)
-P2E business model is a vital part of fast-growing gaming industry, What kind of trends of Play to Earn Games players should consider being at a winning point?
-
-
-### [184. The Most Exciting Metaverse Projects of 2022](https://hackernoon.com/the-most-exciting-metaverse-projects-of-2022)
-![](https://cdn.hackernoon.com/images/n76wlbrnJobsDOsRD8qFpuMsVxF2-v3d3p6v.jpeg)
-Want to know the next thing in GameFi/Metaverse in 2022? Don’t miss these 3 projects!
-
-### [185. 195 Stories To Learn About Play To Earn](https://hackernoon.com/195-stories-to-learn-about-play-to-earn)
+### [183. 195 Stories To Learn About Play To Earn](https://hackernoon.com/195-stories-to-learn-about-play-to-earn)
 ![](https://cdn.hackernoon.com/images/github/play-to-earn-351.png)
 Learn everything you need to know about Play To Earn via these 195 free HackerNoon stories.
 
-### [186. Examining The Viability of The Play-to-Earn Marketplaces](https://hackernoon.com/examining-the-viability-of-the-play-to-earn-marketplaces)
+### [184. Examining The Viability of The Play-to-Earn Marketplaces](https://hackernoon.com/examining-the-viability-of-the-play-to-earn-marketplaces)
 ![](https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-sg23gw7.png)
 There is a real chance that playing video games could become a career for more and more people. 
+
+### [185. Play-to-Earn Games: Fad or Promising Future?](https://hackernoon.com/play-to-earn-games-fad-or-promising-future)
+![](https://cdn.hackernoon.com/images/KiFUcvBayxQmrL8L6rB3AOaMi8K2-8p03yei.jpeg)
+The future of play-to-earn (P2E) gaming, once all the rage, is now at a crossroads. Although the initial hype around these games during the cryptocurrency boom 
+
+### [186. The Most Exciting Metaverse Projects of 2022](https://hackernoon.com/the-most-exciting-metaverse-projects-of-2022)
+![](https://cdn.hackernoon.com/images/n76wlbrnJobsDOsRD8qFpuMsVxF2-v3d3p6v.jpeg)
+Want to know the next thing in GameFi/Metaverse in 2022? Don’t miss these 3 projects!
 
 ### [187. Are We Taking The Metaverse Seriously Enough?](https://hackernoon.com/are-we-taking-the-metaverse-seriously-enough)
 ![](https://cdn.hackernoon.com/images/JwmstrvE0ReIdu5QIWfQUm68TTE2-sp5370y.jpeg)
 Amid the metaverse hype and buzzword vapourware, we need to call out false metaverse tokens and recognise actual people building actual metaverse(s).
 
-### [188. Decentral Games Emerges As The Front-Runner In The Growing Play-To-Earn Model Revolution](https://hackernoon.com/decentral-games-emerges-as-the-front-runner-in-the-growing-play-to-earn-model-revolution)
-![](https://cdn.hackernoon.com/images/G7rCprYXbgYuBUT7ARH0BKtm5CH2-5a5k3524.jpeg)
-Decentral Games Emerges As The Front-Runner In The Growing Play-To-Earn Model Revolution
+### [188. Game Developer to Launch House Party Metaverse](https://hackernoon.com/game-developer-to-launch-house-party-metaverse)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-kx039ex.jpeg)
+A Metaverse in the making, created by the community, for the community.
 
 ### [189. An Overview of Time Raiders: A Play-to-Earn Treasure Hunting Game ](https://hackernoon.com/an-overview-of-time-raiders-a-play-to-earn-treasure-hunting-game)
 ![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-3wg3i6v.jpeg)
 Time Raiders, built on the Polygon blockchain, is a fast-paced, shoot-and-loot game with prizes in NFTs.
 
-### [190. GameFi Review: Top 5 New Games with NFTs in 2022](https://hackernoon.com/gamefi-review-top-5-new-games-with-nfts-in-2022)
+### [190. Decentral Games Emerges As The Front-Runner In The Growing Play-To-Earn Model Revolution](https://hackernoon.com/decentral-games-emerges-as-the-front-runner-in-the-growing-play-to-earn-model-revolution)
+![](https://cdn.hackernoon.com/images/G7rCprYXbgYuBUT7ARH0BKtm5CH2-5a5k3524.jpeg)
+Decentral Games Emerges As The Front-Runner In The Growing Play-To-Earn Model Revolution
+
+### [191. GameFi Review: Top 5 New Games with NFTs in 2022](https://hackernoon.com/gamefi-review-top-5-new-games-with-nfts-in-2022)
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-o2j3ftx.jpeg)
 Are you looking for new crypto games? Here I gathered the top 5 games with NFT for 2022 that have great potential. Read this article to learn more.
 
-### [191. Game Developer to Launch House Party Metaverse](https://hackernoon.com/game-developer-to-launch-house-party-metaverse)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-kx039ex.jpeg)
-A Metaverse in the making, created by the community, for the community.
-
-### [192. Play-to-Earn Games: Fad or Promising Future?](https://hackernoon.com/play-to-earn-games-fad-or-promising-future)
-![](https://cdn.hackernoon.com/images/KiFUcvBayxQmrL8L6rB3AOaMi8K2-8p03yei.jpeg)
-The future of play-to-earn (P2E) gaming, once all the rage, is now at a crossroads. Although the initial hype around these games during the cryptocurrency boom 
-
-### [193. How To Earn With Play-to-Earn: Basics of Hottest Crypto Trend Right Now](https://hackernoon.com/how-to-earn-with-play-to-earn-basics-of-hottest-crypto-trend-right-now)
+### [192. How To Earn With Play-to-Earn: Basics of Hottest Crypto Trend Right Now](https://hackernoon.com/how-to-earn-with-play-to-earn-basics-of-hottest-crypto-trend-right-now)
 ![](https://cdn.hackernoon.com/images/Ch3H1Ff9YuPIwKdJgGfLJ6Pl26q2-lo93l1l.jpeg)
 Play-to-Earn or GameFi protocols became mainstream in Q3-Q4, 2021 - and euphoria around them still gains steam.
+
+### [193. Top 7 Play-to-Earn Games and  3 Top Gaming Marketing Agencies](https://hackernoon.com/top-7-play-to-earn-games-and-3-top-gaming-marketing-agencies)
+![](https://cdn.hackernoon.com/images/HMrgtTRJt8c7wkQR32hEXyypuOL2-vai4x0q.jpeg)
+The gaming industry has had a revolutionary change in terms of Blockchain technology involvement which in turn has provided lots of benefits.
 
 ### [194. Moonscape Patch Updates #1, April 2022](https://hackernoon.com/moonscape-patch-updates-1-april-2022)
 ![](https://cdn.hackernoon.com/images/367qdTkBBQfNHCfrpAH19SHaJP33-qs93mai.jpeg)
@@ -789,145 +793,137 @@ The Moonscape development team has been collecting all the data and feedback and
 ![](https://cdn.hackernoon.com/images/RrHa5J714gVkWCWhEddRASlvXrz2-5c03cr6.jpeg)
 Rebel Bots announced today it has secured investments from top tier investors including Ubisoft, Overwolf, and Makers Fund, via a $2M private token sale. 
 
-### [196. Top 7 Play-to-Earn Games and  3 Top Gaming Marketing Agencies](https://hackernoon.com/top-7-play-to-earn-games-and-3-top-gaming-marketing-agencies)
-![](https://cdn.hackernoon.com/images/HMrgtTRJt8c7wkQR32hEXyypuOL2-vai4x0q.jpeg)
-The gaming industry has had a revolutionary change in terms of Blockchain technology involvement which in turn has provided lots of benefits.
+### [196. To-Earn Crypto Platforms And The Question Of Sustainability](https://hackernoon.com/to-earn-crypto-platforms-and-the-question-of-sustainability)
+![](https://cdn.hackernoon.com/images/XEwEsoKKiSM0pGjq4dyeehqOfjj2-ct820hr.webp)
+The crypto rebound has witnessed the rise of yet another trend that has captivated millions of people. 
 
 ### [197. A New Paradigm: From "Play to Earn" to "Play to Build" Gaming](https://hackernoon.com/a-new-paradigm-from-play-to-earn-to-play-to-build-gaming)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-y493j91.jpeg)
 Play to Build game mechanics create sustainable economies within metaverse worlds where players can play to earn NFTs.
 
-### [198. To-Earn Crypto Platforms And The Question Of Sustainability](https://hackernoon.com/to-earn-crypto-platforms-and-the-question-of-sustainability)
-![](https://cdn.hackernoon.com/images/XEwEsoKKiSM0pGjq4dyeehqOfjj2-ct820hr.webp)
-The crypto rebound has witnessed the rise of yet another trend that has captivated millions of people. 
-
-### [199. A Look At Metabloqs: The Networking-Focused Metaverse](https://hackernoon.com/a-look-at-metabloqs-the-networking-focused-metaverse)
+### [198. A Look At Metabloqs: The Networking-Focused Metaverse](https://hackernoon.com/a-look-at-metabloqs-the-networking-focused-metaverse)
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-js93hz1.jpeg)
 A look at Metabloqs, a Metaverse project that aims to build a realistic virtual world.
 
-### [200. Exciting NFT Trends You Didn't Know About](https://hackernoon.com/exciting-nft-trends-you-didnt-know-about)
+### [199. Exciting NFT Trends You Didn't Know About](https://hackernoon.com/exciting-nft-trends-you-didnt-know-about)
 ![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-nc92d9v.jpeg)
 A look at several exciting NFT trends you didn't know about such as NFTs as in-game assets and even NFTs being used as a form of music ownership for musicians.
 
-### [201. Gaming - Not DeFi - will Provide Mass Crypto Adoption](https://hackernoon.com/gaming-not-defi-will-provide-mass-crypto-adoption)
+### [200. Gaming - Not DeFi - will Provide Mass Crypto Adoption](https://hackernoon.com/gaming-not-defi-will-provide-mass-crypto-adoption)
 ![](https://cdn.hackernoon.com/images/dRi3rBXK9FQwYo7sytNzbvrpniJ2-wx03e97.jpeg)
 Can gaming be the killer app for cryptocurrencies? Lepricon thinks it can.
 
-### [202. A Guide on Staking the Axie Infinity Sidechain](https://hackernoon.com/a-guide-on-staking-the-axie-infinity-sidechain)
+### [201. A Guide on Staking the Axie Infinity Sidechain](https://hackernoon.com/a-guide-on-staking-the-axie-infinity-sidechain)
 ![](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-qy039vr.png)
 This is a complete guide for those who play Axie infinity and know it well BUT also for complete beginners with no previous knowledge of staking and Axie Tokens
 
-### [203. The Noonification: How ChatGPT Handles Linux Bash Scripting (2/20/2023)](https://hackernoon.com/2-20-2023-noonification)
+### [202. The Noonification: How ChatGPT Handles Linux Bash Scripting (2/20/2023)](https://hackernoon.com/2-20-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 2/20/2023: Top 5 stories on the Hackernoon homepage!
 
-### [204. The Coolest Cyberpunk-Inspired P2E Games to Look Out For in 2022](https://hackernoon.com/the-coolest-cyberpunk-inspired-p2e-games-to-look-out-for-in-2022)
+### [203. The Coolest Cyberpunk-Inspired P2E Games to Look Out For in 2022](https://hackernoon.com/the-coolest-cyberpunk-inspired-p2e-games-to-look-out-for-in-2022)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-na93w0r.jpeg)
 A quick rundown of the coolest Cyberpunk games that you can play to earn!
 
-### [205. 5 Upcoming Play to Earn Games to Keep your Eye On](https://hackernoon.com/5-upcoming-play-to-earn-games-to-keep-your-eye-on)
+### [204. 5 Upcoming Play to Earn Games to Keep your Eye On](https://hackernoon.com/5-upcoming-play-to-earn-games-to-keep-your-eye-on)
 ![](https://cdn.hackernoon.com/images/pxtbZrdmt0VrZ3Z4asVTcVTnXOB2-1463a60.jpeg)
 Five upcoming games looking to be a part of the play-2-earn revolution. 
 
-### [206. NFTs and Crypto: Earning Money by Playing Video Games](https://hackernoon.com/nfts-and-crypto-earning-money-by-playing-video-games)
+### [205. NFTs and Crypto: Earning Money by Playing Video Games](https://hackernoon.com/nfts-and-crypto-earning-money-by-playing-video-games)
 ![](https://cdn.hackernoon.com/images/K62jTy92t8a10q1nqusesXs2TRM2-47037qq.jpeg)
 Immersion is key in gaming and earning crypto and trading in-game NFTs can make the game immersive. Both gamer and dev should be able to earn from the game. 
+
+### [206. Battle World Game: Play2Earn with Web3 Integration - Launching Soon!](https://hackernoon.com/battle-world-game-play2earn-with-web3-integration-launching-soon)
+![](https://cdn.hackernoon.com/images/iRbOHPwIo2hED0rACW3cailrVtl2-yp93zy4.jpeg)
+Battle World Game: Play2Earn with web3 integration is launching soon!
 
 ### [207. Blockchain Gaming – A New Era of In-Game Content and Experiences for Gamers](https://hackernoon.com/blockchain-gaming---a-new-era-of-in-game-content-and-experiences-for-gamers)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-aom37hr.jpeg)
 Decentralized gaming is blooming as a completely new direction in the digital recreation and entertainment industry.
 
-### [208. Battle World Game: Play2Earn with Web3 Integration - Launching Soon!](https://hackernoon.com/battle-world-game-play2earn-with-web3-integration-launching-soon)
-![](https://cdn.hackernoon.com/images/iRbOHPwIo2hED0rACW3cailrVtl2-yp93zy4.jpeg)
-Battle World Game: Play2Earn with web3 integration is launching soon!
-
-### [209. Launching a New Play-to-Earn Game Studio](https://hackernoon.com/launching-a-new-play-to-earn-game-studio)
-![](https://cdn.hackernoon.com/images/Ah2jLzMePieEW0CzYzRXo6GsVyA3-7w13b94.jpeg)
-We're really excited to break cover and launch a new video game studio dedicated to developing large play-to-earn worlds.
-
-### [210. Cross The Ages Launches ReVerse, Bridging Virtual Gaming with Real Assets](https://hackernoon.com/cross-the-ages-launches-reverse-bridging-virtual-gaming-with-real-assets)
+### [208. Cross The Ages Launches ReVerse, Bridging Virtual Gaming with Real Assets](https://hackernoon.com/cross-the-ages-launches-reverse-bridging-virtual-gaming-with-real-assets)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-c2836kp.png)
 ReVerse aims to create a tangible link between virtual interactions and real-world outcomes. 
 
-### [211. Warner Music Partners with Splinterlands to Bring Play-2-Earn Arcade Style Blockchain Games](https://hackernoon.com/warner-music-partners-with-splinterlands-to-bring-play-2-earn-arcade-style-blockchain-games)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-0293npu.jpeg)
-Warner Music has partnered with Splinterlands to tap the GameFi and Play-to-Earn by collaborating to allow artists to create and develop the play-2-earn game. 
+### [209. PotionLabs Kicks Off Auction for ‘Potion Unlock’ — a Novel NFT Game to Open Source a DeFi Protocol](https://hackernoon.com/potionlabs-kicks-off-auction-for-potion-unlock-a-novel-nft-game-to-open-source-a-defi-protocol)
+![](https://cdn.hackernoon.com/images/Sa0O096fEbNEnuaiccixkGFmLP83-3fd3juo.jpeg)
+The Potion Unlock game is a social experiment to bootstrap a decentralized community around a DeFi protocol
 
-### [212. Cyborg Legends: A Promising Way to Play-to-Earn](https://hackernoon.com/cyborg-legends-an-promising-way-to-play-to-earn)
+### [210. A New Turn for the Play-to-Earn Movement](https://hackernoon.com/a-new-turn-for-the-play-to-earn-movement)
+![](https://cdn.hackernoon.com/images/PfaG89sAojgMbeizUVWtNerbUW92-hga3lo5.jpeg)
+In order to achieve casual gamers’ adoption, many blockchain games are hiding their core features
+
+### [211. Cyborg Legends: A Promising Way to Play-to-Earn](https://hackernoon.com/cyborg-legends-an-promising-way-to-play-to-earn)
 ![](https://cdn.hackernoon.com/images/uzMh16t4toUowgEJj4tasKpgwzN2-j293jct.jpeg)
 Cyborg Legends, an auto-battler game, might turn out to be an interesting approach in the world of play-to-earn thanks to its deep integration with NFTs
 
-### [213. A New Turn for the Play-to-Earn Movement](https://hackernoon.com/a-new-turn-for-the-play-to-earn-movement)
-![](https://cdn.hackernoon.com/images/PfaG89sAojgMbeizUVWtNerbUW92-hga3lo5.jpeg)
-In order to achieve casual gamers’ adoption, many blockchain games are hiding their core features
+### [212. Warner Music Partners with Splinterlands to Bring Play-2-Earn Arcade Style Blockchain Games](https://hackernoon.com/warner-music-partners-with-splinterlands-to-bring-play-2-earn-arcade-style-blockchain-games)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-0293npu.jpeg)
+Warner Music has partnered with Splinterlands to tap the GameFi and Play-to-Earn by collaborating to allow artists to create and develop the play-2-earn game. 
+
+### [213. There's More To NFTs Than Just Collectibles and NFTfi](https://hackernoon.com/theres-more-to-nfts-than-just-collectibles-and-nftfi)
+![](https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-yj13gay.jpeg)
+It is important to study the NFT space as a whole when considering investing in or creating new projects. 
 
 ### [214. How to Automate Crypto Payments and Invoicing for Web3, DeFi, and NFT Projects](https://hackernoon.com/how-to-automate-crypto-payments-and-invoicing-for-web3-defi-and-nft-projects)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-gh93lzg.jpeg)
 Since launching in 2021, over 1,400 web3 companies now use Request Finance to automate their crypto payments, and invoicing workstreams. Here’s how. 
 
-### [215. There's More To NFTs Than Just Collectibles and NFTfi](https://hackernoon.com/theres-more-to-nfts-than-just-collectibles-and-nftfi)
-![](https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-yj13gay.jpeg)
-It is important to study the NFT space as a whole when considering investing in or creating new projects. 
-
-### [216. PotionLabs Kicks Off Auction for ‘Potion Unlock’ — a Novel NFT Game to Open Source a DeFi Protocol](https://hackernoon.com/potionlabs-kicks-off-auction-for-potion-unlock-a-novel-nft-game-to-open-source-a-defi-protocol)
-![](https://cdn.hackernoon.com/images/Sa0O096fEbNEnuaiccixkGFmLP83-3fd3juo.jpeg)
-The Potion Unlock game is a social experiment to bootstrap a decentralized community around a DeFi protocol
-
-### [217. Play-to-Earn Games Regulate Ownership and Support NFT Growth](https://hackernoon.com/play-to-earn-games-regulate-ownership-and-support-nft-growth)
+### [215. Play-to-Earn Games Regulate Ownership and Support NFT Growth](https://hackernoon.com/play-to-earn-games-regulate-ownership-and-support-nft-growth)
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-qh137xt.jpeg)
 Play to Earn games can become a new trend in the video game industry. Find out what Play to Earn games are and how this approach works below.
 
-### [218. Play2Earn Forgot One Important Thing: Gamers Earn to Play](https://hackernoon.com/play2earn-forgot-one-important-thing-gamers-earn-to-play)
+### [216. Play2Earn Forgot One Important Thing: Gamers Earn to Play](https://hackernoon.com/play2earn-forgot-one-important-thing-gamers-earn-to-play)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-kvb3in7.jpeg)
 The P2E model has a huge problem. Gamers don't play to earn, they earn to play. And until P2E games take note, they will never attract the users they want.
 
-### [219. Floki Announces Major Ad Campaign For Valhalla In The English Premier League For 2024-25 Season](https://hackernoon.com/floki-announces-major-ad-campaign-for-valhalla-in-the-english-premier-league-for-2024-25-season)
+### [217. Floki Announces Major Ad Campaign For Valhalla In The English Premier League For 2024-25 Season](https://hackernoon.com/floki-announces-major-ad-campaign-for-valhalla-in-the-english-premier-league-for-2024-25-season)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-qi82zo3.png)
 For the 2022-23 season, the EPL boasted a cumulative audience of 3.23 billion.
 
 
 
-### [220. Crypto and Gaming Converge to Catalyze Innovative Economic Models](https://hackernoon.com/crypto-and-gaming-converge-to-catalyze-innovative-economic-models)
-![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-g993k7u.jpeg)
-A recent report shared by Yahoo Finance estimates that the blockchain gaming market will hit $104.5 billion by 2028, growing at a CAGR of 68.2%. 
-
-### [221. First Bitcoin Blockchain ICO Rockets Past $5M Milestone](https://hackernoon.com/first-bitcoin-blockchain-ico-rockets-past-$5m-milestone)
+### [218. First Bitcoin Blockchain ICO Rockets Past $5M Milestone](https://hackernoon.com/first-bitcoin-blockchain-ico-rockets-past-$5m-milestone)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-pp833a0.jpeg)
 The ICO is covering fresh territory: no BRC-20 token on the BTC blockchain has been available for public presale until now. 
 
-### [222. Free-to-Play Web3 Games: The Scope of It All](https://hackernoon.com/free-to-play-web3-games-the-scope-of-it-all)
+### [219. Crypto and Gaming Converge to Catalyze Innovative Economic Models](https://hackernoon.com/crypto-and-gaming-converge-to-catalyze-innovative-economic-models)
+![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-g993k7u.jpeg)
+A recent report shared by Yahoo Finance estimates that the blockchain gaming market will hit $104.5 billion by 2028, growing at a CAGR of 68.2%. 
+
+### [220. Free-to-Play Web3 Games: The Scope of It All](https://hackernoon.com/free-to-play-web3-games-the-scope-of-it-all)
 ![](https://cdn.hackernoon.com/images/oIxX7ULOzLe09fQ708nJtp1tO2i2-3m93zvs.jpeg)
 Reading this blog, you may come to know about the rise and scope of free-to-play web3 games in the game economy. 
 
-### [223. Have we Met(A) Before?](https://hackernoon.com/have-we-meta-before)
+### [221. Have we Met(A) Before?](https://hackernoon.com/have-we-meta-before)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ky93zfg.jpeg)
 The metaverse is a network of virtual spaces where users, builders, and AI can interact. From P2E and NFTs to DAOs, gilds, and DeFi — new tech transforms.
 
-### [224. 4 Reasons Why Some P2E Games Become Gain Viral Adoption While Others Cannot](https://hackernoon.com/4-reasons-why-some-p2e-games-become-gain-viral-adoption-while-others-cannot)
+### [222. 4 Reasons Why Some P2E Games Become Gain Viral Adoption While Others Cannot](https://hackernoon.com/4-reasons-why-some-p2e-games-become-gain-viral-adoption-while-others-cannot)
 ![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-58c3j2d.jpeg)
 The global gaming community is currently witnessing large-scale adoption of Play-to-earn gaming. This piece explores the drivers of this increasing success. 
 
-### [225. From Busker to Global Music Star: Detailing My Short Journey in the Rising Star Game](https://hackernoon.com/from-busker-to-global-music-star-detailing-my-short-journey-in-the-rising-star-game)
+### [223. From Busker to Global Music Star: Detailing My Short Journey in the Rising Star Game](https://hackernoon.com/from-busker-to-global-music-star-detailing-my-short-journey-in-the-rising-star-game)
 ![](https://cdn.hackernoon.com/images/H9COnG9qrfRlJ0ZEWE8PsG01C8B3-awd3sfh.jpeg)
 Rising Star is an NFT trading card game where you start your path as a lowly “busker”, or street performer, and work your way up to being a global music star.
 
-### [226. Why E-sports Needs Blockchain Tech to Thrive](https://hackernoon.com/why-e-sports-needs-blockchain-tech-to-thrive)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-zq93j1w.jpeg)
-E-sports teams and players, as well as casual gamers, can now compete for crypto  on any game, on any platform capable of streaming to twitch, Facebook Gaming.
-
-### [227. What is Megafans? - Diving into a New P2E Esports Platform](https://hackernoon.com/what-is-megafans-diving-into-a-new-p2e-esports-platform)
+### [224. What is Megafans? - Diving into a New P2E Esports Platform](https://hackernoon.com/what-is-megafans-diving-into-a-new-p2e-esports-platform)
 ![](https://cdn.hackernoon.com/images/hvBf6yZOxyfCQQY9n6JLFtPhf952-9ue3pfj.jpeg)
 Megafans is a platform that offers mobile esports gaming, play to earn games, tournaments, and more.
 
-### [228. An Overview of The Wasted Lands: NFT Heroes & Play-to-Earn Combat](https://hackernoon.com/an-overview-of-the-wasted-lands-nft-heroes-and-play-to-earn-combat)
+### [225. Why E-sports Needs Blockchain Tech to Thrive](https://hackernoon.com/why-e-sports-needs-blockchain-tech-to-thrive)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-zq93j1w.jpeg)
+E-sports teams and players, as well as casual gamers, can now compete for crypto  on any game, on any platform capable of streaming to twitch, Facebook Gaming.
+
+### [226. An Overview of The Wasted Lands: NFT Heroes & Play-to-Earn Combat](https://hackernoon.com/an-overview-of-the-wasted-lands-nft-heroes-and-play-to-earn-combat)
 ![](https://cdn.hackernoon.com/images/QWt6cm7ViVQr25sXjRQV0zeXHD53-ss92ikr.jpeg)
 The Wasted Lands is a play-to-earn (p2e) strategy game with a puzzle based, match-3 combat system.
 
-### [229. The Cats Corporation: An Overview](https://hackernoon.com/the-cats-corporation-an-overview)
-![](https://cdn.hackernoon.com/images/qPYNvbvEfadI4LXR0IqryqAUPpq1-cu33opy.png)
-Cats Corporation is a alternative universe developed by a group of cat-loving artists. Projects like Cool Cats and Crypto Kitty influenced us. 
-
-### [230. Friendships, Passion, Knowledge… This is My Metaverse](https://hackernoon.com/friendships-passion-knowledge-this-is-my-metaverse)
+### [227. Friendships, Passion, Knowledge… This is My Metaverse](https://hackernoon.com/friendships-passion-knowledge-this-is-my-metaverse)
 ![](https://cdn.hackernoon.com/images/MZurrB5i3rcD37JWzwLf4iyTEEK2-p22a38ty.jpeg)
 Not only has Sandbox given us an opportunity to escape from what we were experiencing but it has also created economic support. This is my metaverse!
+
+### [228. The Cats Corporation: An Overview](https://hackernoon.com/the-cats-corporation-an-overview)
+![](https://cdn.hackernoon.com/images/qPYNvbvEfadI4LXR0IqryqAUPpq1-cu33opy.png)
+Cats Corporation is a alternative universe developed by a group of cat-loving artists. Projects like Cool Cats and Crypto Kitty influenced us. 
 

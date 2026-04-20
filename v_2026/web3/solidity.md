@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [solidity](https://hackernoon.com/tagged/solidity)
+### Let's learn about [Solidity](https://hackernoon.com/tagged/solidity) via these 215 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Solidity is an object-oriented, high-level programming language used for implementing smart contracts on blockchain platforms like Ethereum. It's crucial for developing decentralized applications and driving innovation in the Web3 space.
+
 ### [1. How to Implement a Merkle Tree in Solidity](https://hackernoon.com/how-to-implement-a-merkle-tree-in-solidity)
 ![](https://cdn.hackernoon.com/images/lokbjQEefQRUe8qF8EHzsPop2hP2-qd93wko.jpeg)
 Without Merkle trees, blockchains would be too cumbersome, and Merkle proofs allow for cost-effective verification of data authenticity. Solidity Now! 
@@ -54,13 +58,13 @@ Not much talking, let’s get coding… We’ll begin by installing the rest of 
 ![](https://cdn.hackernoon.com/images/2VftJjxuwsZ19AsybJmsSIp6DX53-034s2bti.jpeg)
 how to create a mapping in solidity
 
-### [14. Create a BEP-20 token on BSC With Remix: A Step-By-Step Guide](https://hackernoon.com/create-a-bep-20-token-on-bsc-with-remix-a-step-by-step-guide)
-![](https://cdn.hackernoon.com/images/mtUYYolOaLMo1sHxQK2OPU9mMx83-0993371s.jpeg)
-How to create a BEP-20 token on BSC using Remix.
-
-### [15. How to Implement a Stake and Reward Contract in Solidity](https://hackernoon.com/how-to-implement-a-stake-and-reward-contract-in-solidity)
+### [14. How to Implement a Stake and Reward Contract in Solidity](https://hackernoon.com/how-to-implement-a-stake-and-reward-contract-in-solidity)
 ![](https://cdn.hackernoon.com/images/9nMyFjQNicRJ5HwksmBytJBySMi2-a0d3sq1.jpeg)
 How to Implement a Stake and Reward Contract in Solidity. Code that you can use in production.
+
+### [15. Create a BEP-20 token on BSC With Remix: A Step-By-Step Guide](https://hackernoon.com/create-a-bep-20-token-on-bsc-with-remix-a-step-by-step-guide)
+![](https://cdn.hackernoon.com/images/mtUYYolOaLMo1sHxQK2OPU9mMx83-0993371s.jpeg)
+How to create a BEP-20 token on BSC using Remix.
 
 ### [16. How Did We Bypass the Sweeper Bot and Saved $26K Tokens in the Dark Forest of Blockchain ?](https://hackernoon.com/how-did-we-bypass-the-sweeper-bot-and-saved-$26k-tokens-in-the-dark-forest-of-blockchain)
 ![](https://cdn.hackernoon.com/images/Wf0U2mbRSuWMpaGiZaJ9PWRvZum2-ai93p0d.jpeg)
@@ -142,13 +146,13 @@ This is the first article in a series teaching Solidity. We will create a contra
 ![](https://cdn.hackernoon.com/images/t2NwItKwOlhJh8RQmiqP3YLcX2s1-se2f37jn.jpeg)
 Today, cryptocurrencies and blockchain have changed a lot of traditional methods and solutions.
 
-### [36. How to Solve the Ethernaut Game's Level 5: Token](https://hackernoon.com/how-to-solve-the-ethernaut-games-level-5-token)
-![](https://cdn.hackernoon.com/images/2VftJjxuwsZ19AsybJmsSIp6DX53-ut32jwi.jpeg)
-In challenge 5 you are given 20 tokens to start with and you will beat the level if you somehow manage to get your hands on any additional tokens.
-
-### [37. How I Built A Smart Contract That Pays People Automatically](https://hackernoon.com/how-i-built-a-smart-contract-that-pays-people-automatically-x91j34mp)
+### [36. How I Built A Smart Contract That Pays People Automatically](https://hackernoon.com/how-i-built-a-smart-contract-that-pays-people-automatically-x91j34mp)
 ![](https://hackernoon.com/images/r1gGZuNNzjc0wNAM0O1SLicFdny2-kcr23l6.jpeg)
 Learn how an Ethereum smart contract can pay your kids, employees, or whomever quickly, fairly, and automatically. No more banks, no more headaches.
+
+### [37. How to Solve the Ethernaut Game's Level 5: Token](https://hackernoon.com/how-to-solve-the-ethernaut-games-level-5-token)
+![](https://cdn.hackernoon.com/images/2VftJjxuwsZ19AsybJmsSIp6DX53-ut32jwi.jpeg)
+In challenge 5 you are given 20 tokens to start with and you will beat the level if you somehow manage to get your hands on any additional tokens.
 
 ### [38. Implementing the ERC-2981 NFT royalty standard with Solidity](https://hackernoon.com/implementing-the-erc-2981-nft-royalty-standard-with-solidity)
 ![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-8ha32b3.jpeg)
@@ -262,25 +266,25 @@ This article is a tutorial about creating a full-fledged NFT-minting dapp for th
 ![](https://cdn.hackernoon.com/images/Pag22dDowMftWpOYNEh2VnQtjy63-3b92rjb.jpeg)
 Getting started with Foundry by developing, testing, deploying, and verifying your smart contracts with Foundry
 
-### [66. Building An Ethereum-based Decentralized casino: How I Did It](https://hackernoon.com/building-an-ethereum-based-decentralized-casino-how-i-did-it-az1p33bx)
-![](https://cdn.hackernoon.com/images/E3HTsnXGE5h3laPoYc4iwFszwUn2-e01j3373n.jpeg)
-There are a lot of different gambling platforms out there. But there is almost no project that offers a transparent and fair experience. Let's fix that!
-
-### [67. 🌈🦄  Building Your Own AI-Generated Art NFT DApp With Bacalhau](https://hackernoon.com/building-your-own-ai-generated-art-nft-dapp-with-bacalhau)
+### [66. 🌈🦄  Building Your Own AI-Generated Art NFT DApp With Bacalhau](https://hackernoon.com/building-your-own-ai-generated-art-nft-dapp-with-bacalhau)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8b92i7r.jpeg)
 A complete guide to building, running & deploying a DApp with your own Text-to Image script to mint AI-generated art NFTs on FVM Hyperspace Testnet!
+
+### [67. Building An Ethereum-based Decentralized casino: How I Did It](https://hackernoon.com/building-an-ethereum-based-decentralized-casino-how-i-did-it-az1p33bx)
+![](https://cdn.hackernoon.com/images/E3HTsnXGE5h3laPoYc4iwFszwUn2-e01j3373n.jpeg)
+There are a lot of different gambling platforms out there. But there is almost no project that offers a transparent and fair experience. Let's fix that!
 
 ### [68. Earn 50 ROSE tokens in the Oasis Second State Hackathon - A Step by Step Guide](https://hackernoon.com/earn-50-rose-tokens-in-the-oasis-second-state-hackathon-a-step-by-step-guide-901w3wkh)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpaSE3gvLy1NGp7gqSgGshdcyrO72-a8dz3x9i.png?alt=media&token=96f82294-4d0f-4cee-aa84-9477c704982d)
 Public blockchains enable us to build decentralized web applications (Dapps) that are censorship-resistant and have built-in economic incentives. 
 
-### [69. A Step-by-Step Guide to Authenticating Users in Your DApp with 'Sign in with Ethereum'](https://hackernoon.com/a-step-by-step-guide-to-authenticating-users-in-your-dapp-with-sign-in-with-ethereum)
-![](https://cdn.hackernoon.com/images/Pag22dDowMftWpOYNEh2VnQtjy63-w392rau.jpeg)
-Connecting Your Decentralized Application (Dapp) with a Backend: A Step-by-Step Guide.
-
-### [70. How to Write & Compile Your Solidity Smart Contract Code in Remix: dApp Development Basics](https://hackernoon.com/how-to-write-and-compile-your-solidity-smart-contract-code-in-remix-dapp-development-basics)
+### [69. How to Write & Compile Your Solidity Smart Contract Code in Remix: dApp Development Basics](https://hackernoon.com/how-to-write-and-compile-your-solidity-smart-contract-code-in-remix-dapp-development-basics)
 ![](https://cdn.hackernoon.com/images/kw3QJxcqVgfN1ahfqsw2FRBwNcD3-7us3s5k.jpeg)
 This blog post describes the Remix IDE, its key high-level features and how to write and debug your first Solidity smart contract. Read on to know more…
+
+### [70. A Step-by-Step Guide to Authenticating Users in Your DApp with 'Sign in with Ethereum'](https://hackernoon.com/a-step-by-step-guide-to-authenticating-users-in-your-dapp-with-sign-in-with-ethereum)
+![](https://cdn.hackernoon.com/images/Pag22dDowMftWpOYNEh2VnQtjy63-w392rau.jpeg)
+Connecting Your Decentralized Application (Dapp) with a Backend: A Step-by-Step Guide.
 
 ### [71. Top 7 Smart Contract Auditors to Check For Your Smart Contract](https://hackernoon.com/top-7-smart-contract-auditors-to-check-for-your-smart-contract)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8u92hod.jpeg)
@@ -299,13 +303,13 @@ In this article, we will create a simple full-stack application using React, Har
 ![](https://cdn.hackernoon.com/images/E3HTsnXGE5h3laPoYc4iwFszwUn2-zqan36pv.jpeg)
 This solution provides a level of security that is enough to automate critical decision making in any DAO such as automatic protocol modification or even autom
 
-### [75. Using AccessControl.sol [A How-To Guide]](https://hackernoon.com/using-accesscontrolsol-a-how-to-guide-0c3c325t)
-![](https://cdn.hackernoon.com/drafts/v0tf3228.png)
-Three example configurations for the new OpenZeppelin access control contract.
-
-### [76. Taking a Closer Look at Flash Swap Loans ⚡](https://hackernoon.com/taking-a-closer-look-at-flash-swap-loans)
+### [75. Taking a Closer Look at Flash Swap Loans ⚡](https://hackernoon.com/taking-a-closer-look-at-flash-swap-loans)
 ![](https://cdn.hackernoon.com/images/bGbpkyjKjtdhLSXP4aP6bP6IoeG3-cnl2lzn.jpeg)
 Learn how to implement Flash swap using Uniswap!
+
+### [76. Using AccessControl.sol [A How-To Guide]](https://hackernoon.com/using-accesscontrolsol-a-how-to-guide-0c3c325t)
+![](https://cdn.hackernoon.com/drafts/v0tf3228.png)
+Three example configurations for the new OpenZeppelin access control contract.
 
 ### [77. Set Up Hardhat with Typescript](https://hackernoon.com/set-up-hardhat-with-typescript)
 ![](https://cdn.hackernoon.com/images/uCxecSd3neS54d5qhzN4tU7egvo1-y7a3k4p.jpeg)
@@ -316,13 +320,13 @@ Hardhat is a development environment for compiling, deploying, testing, and debu
 ![](https://cdn.hackernoon.com/images/h0XtIod66DaP2koPALYQa8EXcMj1-zr1333i.png)
 The concept of the "Gnosis conditional token framework" implements a codebase for tokenizing potential outcomes in prediction markets. 
 
-### [79. Resources: Programming Ownership on The Blockchain](https://hackernoon.com/resources-programming-ownership-on-the-blockchain-lzb832d1)
-![](https://cdn.hackernoon.com/images/8ifg32zz.jpg)
-Smart contracts are a unique class of software explicitly designed to manage ownership of valuable digital assets. While existing programming environments can be used to keep track of the ownership of assets, they are most typically used in scenarios where they are reflecting ownership rather than defining it directly. Smart contracts are unique in that the value they represent is often embodied directly in the state they maintain.
-
-### [80. How to Build an NFT Project with Foundry & Figment DataHub](https://hackernoon.com/how-to-build-an-nft-project-with-foundry-and-figment-datahub)
+### [79. How to Build an NFT Project with Foundry & Figment DataHub](https://hackernoon.com/how-to-build-an-nft-project-with-foundry-and-figment-datahub)
 ![](https://cdn.hackernoon.com/images/1wxb7KFiLLZ3JZeC4tWn5VDhvaM2-eva2adi.jpeg)
 Write, test and deploy an NFT with Foundry and Figment Datahub.
+
+### [80. Resources: Programming Ownership on The Blockchain](https://hackernoon.com/resources-programming-ownership-on-the-blockchain-lzb832d1)
+![](https://cdn.hackernoon.com/images/8ifg32zz.jpg)
+Smart contracts are a unique class of software explicitly designed to manage ownership of valuable digital assets. While existing programming environments can be used to keep track of the ownership of assets, they are most typically used in scenarios where they are reflecting ownership rather than defining it directly. Smart contracts are unique in that the value they represent is often embodied directly in the state they maintain.
 
 ### [81. Solving the Integer Overflow/Underflow Vulnerability in Smart Contracts](https://hackernoon.com/solving-the-integer-overflowunderflow-vulnerability-in-smart-contracts)
 ![](https://cdn.hackernoon.com/images/kw3QJxcqVgfN1ahfqsw2FRBwNcD3-0oa3qd3.jpeg)
@@ -336,37 +340,37 @@ Smart Contracts are immutable, transparent, secure, and decentralized. Follow th
 ![](https://cdn.hackernoon.com/images/13r340i.jpg)
 Ethereum, the world’s first and dominant smart contract platform, has the largest dapp ecosystem with more than a million deployed smart contracts and hundreds of millions of dollars in monthly transactions
 
-### [84. Identifying Smart Contract Orchestration Patterns in Solidity](https://hackernoon.com/identifying-smart-contract-orchestration-patterns-in-solidity-pd223x20)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9nMyFjQNicRJ5HwksmBytJBySMi2-ln112x17.jpeg?alt=media&token=d441f833-56af-4efc-9339-879fb2cdc433)
-All but the simplest of Ethereum applications are composed of several smart contracts. This is because of a hard limit of 24KB in any deployed contract, and because your sanity will slip away as the complexity of a smart contract grows.
-
-### [85. Near-Zero: Using Rootstock To Build The Stablecoin Satoshi Wanted](https://hackernoon.com/near-zero-using-rootstock-to-build-the-stablecoin-satoshi-wanted)
-![](https://cdn.hackernoon.com/images/vZKHGrkooTarhUImNHd6CMWOABx1-yy236qx.jpeg)
-While Sat never sat to discuss stablecoins explicitly, what does building one on the BTC blockchain (through Rootstock) mean for web3?
-
-### [86. Ethereum Gasless Metatransactions by Using EIP-712](https://hackernoon.com/ethereum-gasless-metatransactions-by-using-eip-712)
+### [84. Ethereum Gasless Metatransactions by Using EIP-712](https://hackernoon.com/ethereum-gasless-metatransactions-by-using-eip-712)
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-naa2z76.jpeg)
 How to implement Ethereum gasless metatransactions by using EIP-712
 
-### [87. 8 Basic Blockchain Terms Every Beginner Needs to Know ](https://hackernoon.com/8-basic-blockchain-terms-every-beginner-needs-to-know)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-4m0392c.jpeg)
-A list of basic blockchain terms every beginner should know.
+### [85. Identifying Smart Contract Orchestration Patterns in Solidity](https://hackernoon.com/identifying-smart-contract-orchestration-patterns-in-solidity-pd223x20)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9nMyFjQNicRJ5HwksmBytJBySMi2-ln112x17.jpeg?alt=media&token=d441f833-56af-4efc-9339-879fb2cdc433)
+All but the simplest of Ethereum applications are composed of several smart contracts. This is because of a hard limit of 24KB in any deployed contract, and because your sanity will slip away as the complexity of a smart contract grows.
 
-### [88. Exploring the Alchemy NFT API](https://hackernoon.com/exploring-the-alchemy-nft-api)
+### [86. Near-Zero: Using Rootstock To Build The Stablecoin Satoshi Wanted](https://hackernoon.com/near-zero-using-rootstock-to-build-the-stablecoin-satoshi-wanted)
+![](https://cdn.hackernoon.com/images/vZKHGrkooTarhUImNHd6CMWOABx1-yy236qx.jpeg)
+While Sat never sat to discuss stablecoins explicitly, what does building one on the BTC blockchain (through Rootstock) mean for web3?
+
+### [87. Exploring the Alchemy NFT API](https://hackernoon.com/exploring-the-alchemy-nft-api)
 ![](https://cdn.hackernoon.com/images/6OTmjwcRyhW4fXysCnKINzatkr42-nn93mhf.jpeg)
 It takes a lot of time and labor to go through each NFT smart contract to retrieve data. Different pre-built NFT APIs can be utilized to address this problem.
 
-### [89. Protect Yourself From Identity Theft By Using Zero-Knowledge Proof, Solidity, and Ethereum](https://hackernoon.com/protect-yourself-from-identity-theft-by-using-zero-knowledge-proof-solidity-and-ethereum)
+### [88. How to Create an NFT Reveal With Solidity](https://hackernoon.com/how-to-create-an-nft-reveal-with-solidity)
+![](https://cdn.hackernoon.com/images/eMAhpJlZRZWKBIGuJh4n8qxPiTK2-us93j63.jpeg)
+This guide will show you how to create an NFT reveal in Solidity. You'll learn how to update smart contracts code, integrate metadata and setup IPFS
+
+### [89. 8 Basic Blockchain Terms Every Beginner Needs to Know ](https://hackernoon.com/8-basic-blockchain-terms-every-beginner-needs-to-know)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-4m0392c.jpeg)
+A list of basic blockchain terms every beginner should know.
+
+### [90. Protect Yourself From Identity Theft By Using Zero-Knowledge Proof, Solidity, and Ethereum](https://hackernoon.com/protect-yourself-from-identity-theft-by-using-zero-knowledge-proof-solidity-and-ethereum)
 ![](https://cdn.hackernoon.com/images/GFxWNaVUGadCuz5svjQlUTu1iz12-ygg3byf.jpeg)
 Blockchain technology, specifically Zero-Knowledge Proof (ZKP), Solidity, and Ethereum can provide a secure and efficient solution to prevent identity theft.
 
-### [90. How to Bypass the Integer Division Error in Smart Contracts ](https://hackernoon.com/how-to-bypass-the-integer-division-error-in-smart-contracts)
+### [91. How to Bypass the Integer Division Error in Smart Contracts ](https://hackernoon.com/how-to-bypass-the-integer-division-error-in-smart-contracts)
 ![](https://cdn.hackernoon.com/images/kw3QJxcqVgfN1ahfqsw2FRBwNcD3-3k93qom.jpeg)
 This blog post describes the integer division error in Ethereum smart contracts and how this error can be prevented. Read on to know more…
-
-### [91. How to Create an NFT Reveal With Solidity](https://hackernoon.com/how-to-create-an-nft-reveal-with-solidity)
-![](https://cdn.hackernoon.com/images/eMAhpJlZRZWKBIGuJh4n8qxPiTK2-us93j63.jpeg)
-This guide will show you how to create an NFT reveal in Solidity. You'll learn how to update smart contracts code, integrate metadata and setup IPFS
 
 ### [92. Getting Prices Right](https://hackernoon.com/getting-prices-right)
 ![](https://cdn.hackernoon.com/images/9nMyFjQNicRJ5HwksmBytJBySMi2-bdi24ys.jpeg)
@@ -396,25 +400,25 @@ Build a decentralized application (Dapp) for a charity marketplace. Learn Solidi
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-j2a3l3m.jpeg)
 The demand for Web3.0 solutions is at an all-time high, but there isn't enough material available to usher in the army of developers required to fill the job op
 
-### [99. Using the Forward Trust Design Pattern to Make Scaling Easier](https://hackernoon.com/using-the-forward-trust-design-pattern-to-make-scaling-easier)
-![](https://cdn.hackernoon.com/images/9nMyFjQNicRJ5HwksmBytJBySMi2-6093rpb.jpeg)
-The Forward Trust design pattern used in the Yield Protocol simplifies integration and makes scaling easier.
-
-### [100. Will Ethereum Ditch Solidity for Vyper?](https://hackernoon.com/will-ethereum-ditch-solidity-for-vyper-xm103xrm)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2y5PEJAARqctEDEwvziTV5r0xBi2-88c33u25.jpeg?alt=media&token=5211bc75-d305-441f-85ff-6673a2f538a4)
-First things first, it’s called Vyper, not Viper.
-
-### [101. The Tools and Resources You Need to Become a Web3 Developer in 2022](https://hackernoon.com/the-tools-and-resources-you-need-to-become-a-web3-developer-in-2022)
+### [99. The Tools and Resources You Need to Become a Web3 Developer in 2022](https://hackernoon.com/the-tools-and-resources-you-need-to-become-a-web3-developer-in-2022)
 ![](https://cdn.hackernoon.com/images/MPQxyfch0lZHKZM3k3hMies8Fpv1-qh93ohz.jpeg)
 In this article, I'm going to give you a roadmap and some of the best resources on the internet that will definitely help you get your first job in Web3.
 
-### [102. How to Code Solidity Smart Contract CRUD Functions: The Right Way](https://hackernoon.com/how-to-code-solidity-smart-contract-crud-functions-the-right-way)
-![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-p793o4j.jpeg)
-Mastering how to create, read, update, and delete records from the blockchain is a skill you must understand. Yes, you can delete stuff from the blockchain...
+### [100. Using the Forward Trust Design Pattern to Make Scaling Easier](https://hackernoon.com/using-the-forward-trust-design-pattern-to-make-scaling-easier)
+![](https://cdn.hackernoon.com/images/9nMyFjQNicRJ5HwksmBytJBySMi2-6093rpb.jpeg)
+The Forward Trust design pattern used in the Yield Protocol simplifies integration and makes scaling easier.
 
-### [103. Debugging Smart Contracts with Solidity Compiler: Tips and Tricks](https://hackernoon.com/debugging-smart-contracts-with-solidity-compiler-tips-and-tricks)
+### [101. Will Ethereum Ditch Solidity for Vyper?](https://hackernoon.com/will-ethereum-ditch-solidity-for-vyper-xm103xrm)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2y5PEJAARqctEDEwvziTV5r0xBi2-88c33u25.jpeg?alt=media&token=5211bc75-d305-441f-85ff-6673a2f538a4)
+First things first, it’s called Vyper, not Viper.
+
+### [102. Debugging Smart Contracts with Solidity Compiler: Tips and Tricks](https://hackernoon.com/debugging-smart-contracts-with-solidity-compiler-tips-and-tricks)
 ![](https://cdn.hackernoon.com/images/HwOIGLJpkLVqjaB37xPmBDtDyE03-ve93psi.jpeg)
 Learn how to debug smart contracts with Solidity compiler. Discover tips and tricks, including logs, breakpoints, assertions, debugging tools, and testing.
+
+### [103. How to Code Solidity Smart Contract CRUD Functions: The Right Way](https://hackernoon.com/how-to-code-solidity-smart-contract-crud-functions-the-right-way)
+![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-p793o4j.jpeg)
+Mastering how to create, read, update, and delete records from the blockchain is a skill you must understand. Yes, you can delete stuff from the blockchain...
 
 ### [104. How to Implement a Minimalist NFT zkRollup With Circom and SnarkJS](https://hackernoon.com/how-to-implement-a-minimalist-nft-zkrollup-with-circom-and-snarkjs)
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-1xa2yv9.jpeg)
@@ -429,13 +433,13 @@ Learn how to code crowdsale smart contracts in a solidity programming language. 
 ![](https://cdn.hackernoon.com/drafts/6s19131t7.png)
 Imagine you are writing a Solidity smart contract and one of its properties can be characterized as a type or state. In other words, something from a limited set of options. You immediately say to yourself: ”Great, I’ll just use enum type for this state variable.” On the one hand, this approach has some benefits like increased readability. On the other hand, it can easily take you down a tricky road potentially leading to problems.
 
-### [107. Build a Decentralized Voting Dapp with Next.js, TypeScript, Tailwind CSS, and CometChat](https://hackernoon.com/build-a-decentralized-voting-dapp-with-nextjs-typescript-tailwind-css-and-cometchat)
-![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-o193o7o.jpeg)
-In this guide, we will teach you how to build your own decentralized voting dapp using Next.js, TypeScript, Tailwind CSS, and CometChat. 
-
-### [108. What Does a Blockchain Engineer Do](https://hackernoon.com/what-does-a-blockchain-engineer-do)
+### [107. What Does a Blockchain Engineer Do](https://hackernoon.com/what-does-a-blockchain-engineer-do)
 ![](https://cdn.hackernoon.com/images/qbjdMko7eFaiqBJgAApmsjilPv83-6593px3.jpeg)
 Given the vast potential of blockchain technology, it's no surprise that there is high demand for workers with blockchain engineering skills.
+
+### [108. Build a Decentralized Voting Dapp with Next.js, TypeScript, Tailwind CSS, and CometChat](https://hackernoon.com/build-a-decentralized-voting-dapp-with-nextjs-typescript-tailwind-css-and-cometchat)
+![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-o193o7o.jpeg)
+In this guide, we will teach you how to build your own decentralized voting dapp using Next.js, TypeScript, Tailwind CSS, and CometChat. 
 
 ### [109. Top 10 Resources for Learning Solidity](https://hackernoon.com/top-10-resources-for-learning-solidity)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-q9930nc.jpeg)
@@ -445,21 +449,21 @@ If you want to become a smart contract developer on Ethereum, then you need to l
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN4apRNDKdiVRQHgNCjsOv1ijf8V2-hkco31xl.jpeg?alt=media&token=f1523a67-8ee6-4fbc-b616-b707e58466a2)
 TLDR: Eternal Storage provides the stable and flexible base needed to build and maintain long-lived decentralized applications.
 
-### [111. How To Review a Governance Action](https://hackernoon.com/how-to-review-a-governance-action)
-![](https://cdn.hackernoon.com/images/9nMyFjQNicRJ5HwksmBytJBySMi2-z6a3rob.jpeg)
-Governors approving a change should know which functions are being called, what parameters are being used, and what effects these will have.
-
-### [112. Model-Driven Smart Contract Development for Everyone](https://hackernoon.com/model-driven-smart-contract-development-for-everyone-jiu32p0)
-![](https://cdn.hackernoon.com/images/7cj32hp.jpg)
-TL;DR
-
-### [113. Transient Storage: Ethereum's Game-Changing Feature](https://hackernoon.com/transient-storage-ethereums-game-changing-feature)
+### [111. Transient Storage: Ethereum's Game-Changing Feature](https://hackernoon.com/transient-storage-ethereums-game-changing-feature)
 ![](https://cdn.hackernoon.com/images/0yWFzvZxdnR06ofY5hSQmg6HXd32-2yb3qcp.jpeg)
 Explore Transient Storage in Ethereum: a game-changer reducing transaction costs and enhancing operations. Discover its mechanism, significance, and use cases.
 
-### [114. Build a Decentralized Freelancer Marketplace With React, Solidity, and CometChat](https://hackernoon.com/build-a-decentralized-freelancer-marketplace-with-react-solidity-and-cometchat)
+### [112. Build a Decentralized Freelancer Marketplace With React, Solidity, and CometChat](https://hackernoon.com/build-a-decentralized-freelancer-marketplace-with-react-solidity-and-cometchat)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-m093ov5.jpeg)
 Learn how to build a decentralized freelance marketplace like Upwork using React, Solidity, and CometChat.
+
+### [113. How To Review a Governance Action](https://hackernoon.com/how-to-review-a-governance-action)
+![](https://cdn.hackernoon.com/images/9nMyFjQNicRJ5HwksmBytJBySMi2-z6a3rob.jpeg)
+Governors approving a change should know which functions are being called, what parameters are being used, and what effects these will have.
+
+### [114. Model-Driven Smart Contract Development for Everyone](https://hackernoon.com/model-driven-smart-contract-development-for-everyone-jiu32p0)
+![](https://cdn.hackernoon.com/images/7cj32hp.jpg)
+TL;DR
 
 ### [115. Languages, Frameworks and Tools to Become a Robust Web3 Dev](https://hackernoon.com/languages-frameworks-and-tools-to-become-a-robust-web3-dev)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-ne93lhh.jpeg)
@@ -517,21 +521,21 @@ I call it the Ethereum Gatling Gun
 ![](https://cdn.hackernoon.com/images/ET4IJJCNUpaSMq1bfuPlxFNpAGy1-aj93sj1.jpeg)
 Unleash the power of decentralized finance by building your own DeFi protocol on the Ethereum blockchain using Hardhat.
 
-### [129. Open Zeppelin's Smart Contract Security Puzzle: Ethernaut Level 1 Walkthrough](https://hackernoon.com/open-zeppelins-smart-contract-security-puzzle-ethernaut-level-1-walkthrough-1u213zw0)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FS2DDlPmwRGVkfhY7oW1RzaHKE943-uja34ly.png?alt=media&token=2c6421bd-5289-4917-b865-8c370f4784b3)
-This is an in-depth series of Blogs around OpenZeppelin's smart contract security puzzles. The aim of blogs is to provide a detailed explanation regarding various concepts of Solidity and EVM required to solve a Puzzle. It is highly recommended to attempt to solve these puzzles before reading further.
-
-### [130. Slither: An Essential in the Auditor’s Toolkit](https://hackernoon.com/slither-an-essential-in-the-auditors-toolkit)
+### [129. Slither: An Essential in the Auditor’s Toolkit](https://hackernoon.com/slither-an-essential-in-the-auditors-toolkit)
 ![](https://cdn.hackernoon.com/images/4Kk1Y6GNaAW72gyVjU6XS2alqem2-cqb30mx.jpeg)
 We rely on Slither — a static analysis tool from Trail of Bits to maintain the quality of our audits. Considering the ease of use, it’s a good idea to try it!
 
-### [131. Polkadot To Get WebAssembly-based Ethereum Virtual Machine (ewasm) from Second State](https://hackernoon.com/polkadot-to-get-webassembly-based-ethereum-virtual-machine-ewasm-from-second-state-mg9932ts)
-![](https://cdn.hackernoon.com/images/obdg34vz.jpg)
-In late 2019, the Aragon Project, decided to leave the Polkadot ecosystem due to the lack of a viable blockchain virtual machine at the time. After that, the Polkadot team added EVM support on the Substrate framework, enabling EVM blockchains in the Polkadot ecosystem. 
+### [130. Open Zeppelin's Smart Contract Security Puzzle: Ethernaut Level 1 Walkthrough](https://hackernoon.com/open-zeppelins-smart-contract-security-puzzle-ethernaut-level-1-walkthrough-1u213zw0)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FS2DDlPmwRGVkfhY7oW1RzaHKE943-uja34ly.png?alt=media&token=2c6421bd-5289-4917-b865-8c370f4784b3)
+This is an in-depth series of Blogs around OpenZeppelin's smart contract security puzzles. The aim of blogs is to provide a detailed explanation regarding various concepts of Solidity and EVM required to solve a Puzzle. It is highly recommended to attempt to solve these puzzles before reading further.
 
-### [132. Find the Length of Any String in Solidity ](https://hackernoon.com/find-the-length-of-any-string-in-solidity)
+### [131. Find the Length of Any String in Solidity ](https://hackernoon.com/find-the-length-of-any-string-in-solidity)
 ![](https://cdn.hackernoon.com/images/Pag22dDowMftWpOYNEh2VnQtjy63-t393ehb.png)
 Find the Length of Any String in Solidity.
+
+### [132. Polkadot To Get WebAssembly-based Ethereum Virtual Machine (ewasm) from Second State](https://hackernoon.com/polkadot-to-get-webassembly-based-ethereum-virtual-machine-ewasm-from-second-state-mg9932ts)
+![](https://cdn.hackernoon.com/images/obdg34vz.jpg)
+In late 2019, the Aragon Project, decided to leave the Polkadot ecosystem due to the lack of a viable blockchain virtual machine at the time. After that, the Polkadot team added EVM support on the Substrate framework, enabling EVM blockchains in the Polkadot ecosystem. 
 
 ### [133. Open Zeppelin's Smart Contract Security Puzzles: Ethernaut Level 2 and 3 Walkthrough](https://hackernoon.com/open-zeppelins-smart-contract-security-puzzles-ethernaut-level-2-and-3-walkthrough-pss3zew)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FS2DDlPmwRGVkfhY7oW1RzaHKE943-cdm34rs.png?alt=media&token=b4b19cbe-a1c4-44ce-afa2-7d75444c0002)
@@ -553,251 +557,251 @@ If you’re a Solidity developer, you’ll be excited to hear that Truffle now s
 ![](https://cdn.hackernoon.com/images/person-coding-in-react-clfi12e2p000201s6ghac65ku.png)
 Are you looking to create a cutting-edge platform that leverages the power of web3 to transform the way people book and share accommodations?  
 
-### [138. Supply Chain Tracking with Ethereum Swarm and NFTs: a brief introduction of trace.market ](https://hackernoon.com/supply-chain-tracking-with-ethereum-swarm-and-nfts-a-brief-introduction-of-tracemarket)
-![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-7u824cg.jpeg)
-Trace.market is a supply chain platform that uses NFTs and Ethereum Swarm
-
-### [139. Best Tools for Blockchain Developers](https://hackernoon.com/best-tools-for-blockchain-developers-6uzy38nj)
-![](https://cdn.hackernoon.com/drafts/q1s238o4.png)
-Blockchain is one of the most revolutionary technologies in today’s tech space. It has transformed businesses and is touted as the main component of the fourth industrial revolution. It is the first permanent, decentralized ledger of records that has revolutionized the system of records. 
-
-### [140. Solving the ConnectTimeoutError When Verifying Smart Contracts with Hardhat](https://hackernoon.com/solving-the-connecttimeouterror-when-verifying-smart-contracts-with-hardhat)
+### [138. Solving the ConnectTimeoutError When Verifying Smart Contracts with Hardhat](https://hackernoon.com/solving-the-connecttimeouterror-when-verifying-smart-contracts-with-hardhat)
 ![](https://cdn.hackernoon.com/images/dH5TBmoEbZTGp8KEaGc3Ga3ntjC2-ic93t6c.jpeg)
 I will record the process of analysis and verification, hoping to help those who also encounter this problem.
 
-### [141. How to Send Ethers Programmatically without Metamask](https://hackernoon.com/how-to-send-ethers-programmatically-without-metamask)
-![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-ek93sld.jpeg)
-Upon completion, you will have gained a deeper understanding of how to programmatically transmit Ethers and will have a working sample for future reference.
+### [139. Supply Chain Tracking with Ethereum Swarm and NFTs: a brief introduction of trace.market ](https://hackernoon.com/supply-chain-tracking-with-ethereum-swarm-and-nfts-a-brief-introduction-of-tracemarket)
+![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-7u824cg.jpeg)
+Trace.market is a supply chain platform that uses NFTs and Ethereum Swarm
 
-### [142. Hacking Web3: Introduction and How to Start](https://hackernoon.com/hacking-web3-introduction-and-how-to-start)
-![](https://cdn.hackernoon.com/images/kBfBFvZIhxaLsOXdq7aBdCWZ2Ss2-ni93j25.jpeg)
-An introduction to hacking web3 and smart contracts
+### [140. Best Tools for Blockchain Developers](https://hackernoon.com/best-tools-for-blockchain-developers-6uzy38nj)
+![](https://cdn.hackernoon.com/drafts/q1s238o4.png)
+Blockchain is one of the most revolutionary technologies in today’s tech space. It has transformed businesses and is touted as the main component of the fourth industrial revolution. It is the first permanent, decentralized ledger of records that has revolutionized the system of records. 
 
-### [143. The Essential Web3 Tools and Technologies Developers Must Know](https://hackernoon.com/the-essential-web3-tools-and-technologies-developers-must-know)
-![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-z9a3umv.jpeg)
-Smart contracts, blockchains, crypto wallets, and more
-
-### [144. Comparing Smart Contract Languages: Solidity, Cadence, and Move](https://hackernoon.com/comparing-smart-contract-languages-solidity-cadence-and-move)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-dt93s5l.jpeg)
-Explore the differences between Solidity, Cadence, and Move for smart contract development in the web3 space.
-
-### [145. Slitherin: Our Very Own Slither detectors](https://hackernoon.com/slitherin-our-very-own-slither-detectors)
-![](https://cdn.hackernoon.com/images/E3xhi9dVqDX0gX4I9pp39FVO4GJ2-i693ph2.jpeg)
-In recent months we have been actively developing our own Slither detectors to help with code review and audit process! Check them out right now!
-
-
-### [146. The “Deterministic Black Box” That Keeps Failing Your Etherscan Verifications](https://hackernoon.com/the-deterministic-black-box-that-keeps-failing-your-etherscan-verifications)
+### [141. The “Deterministic Black Box” That Keeps Failing Your Etherscan Verifications](https://hackernoon.com/the-deterministic-black-box-that-keeps-failing-your-etherscan-verifications)
 ![](https://cdn.hackernoon.com/images/GvD8ZV2xruSPePKDYY6b6ttAazn1-ej037g0.png)
 Crypto contract verification is the definitive proof of identity in the DeFi ecosystem. However, the process is often misunderstood.
 
-### [147. Solidity 0.8.19: Diving Into User-Defined Operators for User-Defined Value Types](https://hackernoon.com/solidity-0819-diving-into-user-defined-operators-for-user-defined-value-types)
-![](https://cdn.hackernoon.com/images/Ki0s6KrHo0TbF2TNPyb1p3oNtQi1-ub93pbc.jpeg)
-Learn about this gasless abstraction of value types in solidity and the operators feature for them.
+### [142. How to Send Ethers Programmatically without Metamask](https://hackernoon.com/how-to-send-ethers-programmatically-without-metamask)
+![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-ek93sld.jpeg)
+Upon completion, you will have gained a deeper understanding of how to programmatically transmit Ethers and will have a working sample for future reference.
+
+### [143. Comparing Smart Contract Languages: Solidity, Cadence, and Move](https://hackernoon.com/comparing-smart-contract-languages-solidity-cadence-and-move)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-dt93s5l.jpeg)
+Explore the differences between Solidity, Cadence, and Move for smart contract development in the web3 space.
+
+### [144. Hacking Web3: Introduction and How to Start](https://hackernoon.com/hacking-web3-introduction-and-how-to-start)
+![](https://cdn.hackernoon.com/images/kBfBFvZIhxaLsOXdq7aBdCWZ2Ss2-ni93j25.jpeg)
+An introduction to hacking web3 and smart contracts
+
+### [145. The Essential Web3 Tools and Technologies Developers Must Know](https://hackernoon.com/the-essential-web3-tools-and-technologies-developers-must-know)
+![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-z9a3umv.jpeg)
+Smart contracts, blockchains, crypto wallets, and more
+
+### [146. When Verified Source Lies](https://hackernoon.com/when-verified-source-lies)
+![](https://cdn.hackernoon.com/images/FHIwa0QhreRknLHxlCEjYH1IhTH2-y043dgv.png)
+I got Etherscan's green checkmark on a contract whose bytecode doesn't do what the source says. Here's how a known compiler bug makes that possible. 
+
+### [147. Slitherin: Our Very Own Slither detectors](https://hackernoon.com/slitherin-our-very-own-slither-detectors)
+![](https://cdn.hackernoon.com/images/E3xhi9dVqDX0gX4I9pp39FVO4GJ2-i693ph2.jpeg)
+In recent months we have been actively developing our own Slither detectors to help with code review and audit process! Check them out right now!
+
 
 ### [148. How to Set Access Control for Smart Contracts](https://hackernoon.com/how-to-set-access-control-for-smart-contracts)
 ![](https://cdn.hackernoon.com/images/access-denied-biometric-scan-cle2732ea000101s626r06km8.png)
 This blog describes the access control vulnerability in Ethereum smart contracts and the various fixes available. Read on to learn more…
 
-### [149. 133 Stories To Learn About Solidity](https://hackernoon.com/133-stories-to-learn-about-solidity)
-![](https://cdn.hackernoon.com/images/github/solidity-98.png)
-Learn everything you need to know about Solidity via these 133 free HackerNoon stories.
-
-### [150. 309 Stories To Learn About Smart Contracts](https://hackernoon.com/309-stories-to-learn-about-smart-contracts)
-![](https://cdn.hackernoon.com/images/github/smart-contracts-843.png)
-Learn everything you need to know about Smart Contracts via these 309 free HackerNoon stories.
-
-### [151. What is a create2 Attack in Smart Contracts? How to Avoid It? 🤔](https://hackernoon.com/what-is-a-create2-attack-in-smart-contracts-how-to-avoid-it)
+### [149. What is a create2 Attack in Smart Contracts? How to Avoid It? 🤔](https://hackernoon.com/what-is-a-create2-attack-in-smart-contracts-how-to-avoid-it)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-pf83l9k.jpeg)
 Explore create2 opcode vulnerabilities in DeFi contracts, learn prevention measures against smart contract attacks.
 
-### [152. Deploying Ethereum Smart Contracts via Remix IDE](https://hackernoon.com/deploying-ethereum-smart-contracts-via-remix-ide)
+### [150. 133 Stories To Learn About Solidity](https://hackernoon.com/133-stories-to-learn-about-solidity)
+![](https://cdn.hackernoon.com/images/github/solidity-98.png)
+Learn everything you need to know about Solidity via these 133 free HackerNoon stories.
+
+### [151. 309 Stories To Learn About Smart Contracts](https://hackernoon.com/309-stories-to-learn-about-smart-contracts)
+![](https://cdn.hackernoon.com/images/github/smart-contracts-843.png)
+Learn everything you need to know about Smart Contracts via these 309 free HackerNoon stories.
+
+### [152. Solidity 0.8.19: Diving Into User-Defined Operators for User-Defined Value Types](https://hackernoon.com/solidity-0819-diving-into-user-defined-operators-for-user-defined-value-types)
+![](https://cdn.hackernoon.com/images/Ki0s6KrHo0TbF2TNPyb1p3oNtQi1-ub93pbc.jpeg)
+Learn about this gasless abstraction of value types in solidity and the operators feature for them.
+
+### [153. Deploying Ethereum Smart Contracts via Remix IDE](https://hackernoon.com/deploying-ethereum-smart-contracts-via-remix-ide)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-c693ont.jpeg)
 Deploying a smart contract to the Ethereum Network is not as complicated as the process may appear. You only need to finish eight steps to get yours online. 
-
-### [153. Dive Into Web3 Contracts With Hardhat and Node.js](https://hackernoon.com/dive-into-web3-contracts-with-hardhat-and-nodejs)
-![](https://cdn.hackernoon.com/images/pqJYz114HxWdzUYSfK6DW6LNz123-aa932jc.jpeg)
-An attempt to make smart contracts and other strange and incomprehensible words more understandable
 
 ### [154. How to Build DApp on Rootstock with Next.js, Typescript, and Solidity](https://hackernoon.com/how-to-build-dapp-on-rootstock-with-nextjs-typescript-and-solidity)
 ![](https://cdn.hackernoon.com/images/messaging-app-user-interface-qerc1mcje88vj7uvjo2uxh9o.png)
 Step-by-step guide to building a DApp on Rootstock with Next.js, TypeScript, and Solidity. Learn how to set up your development environment.
 
-### [155. ERC721 Token Standard & The Fungibility of Assets - A Developer’s Perspective](https://hackernoon.com/erc721-token-standard-and-the-fungibility-of-assets-a-developers-perspective-oj583xn0)
+### [155. Dive Into Web3 Contracts With Hardhat and Node.js](https://hackernoon.com/dive-into-web3-contracts-with-hardhat-and-nodejs)
+![](https://cdn.hackernoon.com/images/pqJYz114HxWdzUYSfK6DW6LNz123-aa932jc.jpeg)
+An attempt to make smart contracts and other strange and incomprehensible words more understandable
+
+### [156. ERC721 Token Standard & The Fungibility of Assets - A Developer’s Perspective](https://hackernoon.com/erc721-token-standard-and-the-fungibility-of-assets-a-developers-perspective-oj583xn0)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9CbigzH72lM1ROlvE9nZQ5xFmIN2-7l8e25vx.jpeg?alt=media&token=4a686895-4c9c-4f45-9aac-a4ae564781e8)
 To begin with, What exactly are TOKENS ?
 
-### [156. Understanding Token Standards in Ethereum Part-II (ERC721)](https://hackernoon.com/understanding-token-standards-in-ethereum-part-ii-erc721)
+### [157. Understanding Token Standards in Ethereum Part-II (ERC721)](https://hackernoon.com/understanding-token-standards-in-ethereum-part-ii-erc721)
 ![](https://cdn.hackernoon.com/images/Ki0s6KrHo0TbF2TNPyb1p3oNtQi1-zm93nrc.jpeg)
 This story is the second part of my ERC series, in this post,  you will get a complete understanding of the NFT contracts. Development, working etc.
 
-### [157. Simple Steps to Get a Web3 Developer Job](https://hackernoon.com/simple-steps-to-get-a-web3-developer-job)
+### [158. Simple Steps to Get a Web3 Developer Job](https://hackernoon.com/simple-steps-to-get-a-web3-developer-job)
 ![](https://cdn.hackernoon.com/images/4llW4OCxkRSj31lmBrTocdhVSqD2-gsb3mpk.jpeg)
 The world of work is changing, and more and more businesses are looking for employees with web3 skills. Here is where you can find job openings online.
-
-### [158. ChatGPT x Solidity x AIPRM: A Powerful Extension for Learning Solidity and Generate Smart Contracts](https://hackernoon.com/chatgpt-x-solidity-x-aiprm-a-powerful-extension-for-learning-solidity-and-generate-smart-contracts)
-![](https://cdn.hackernoon.com/images/flMOLOa9p6OzRZRmAWgd5iKye4A3-1c93m9b.jpeg)
-In this article, we will explore a powerful Chromium extension that can help users learn Solidity and easily generate smart contracts.
 
 ### [159. The Pain Of Making A Blockchain App From Scratch](https://hackernoon.com/the-pain-of-making-a-blockchain-app-from-scratch)
 ![](https://cdn.hackernoon.com/images/NrFSc2nZgpMUPlzQHq8IsPpbsq83-vr93zn5.jpeg)
 So easy, an ape could do it. Thoughts from the lead developer and Top Ape at SnowApe, a Web3 real money gaming project that made a blockchain app from scratch.
 
-### [160. 5 Smart Contract Hacks Everyone Should Learn From](https://hackernoon.com/5-smart-contract-hacks-everyone-should-learn-from)
+### [160. ChatGPT x Solidity x AIPRM: A Powerful Extension for Learning Solidity and Generate Smart Contracts](https://hackernoon.com/chatgpt-x-solidity-x-aiprm-a-powerful-extension-for-learning-solidity-and-generate-smart-contracts)
+![](https://cdn.hackernoon.com/images/flMOLOa9p6OzRZRmAWgd5iKye4A3-1c93m9b.jpeg)
+In this article, we will explore a powerful Chromium extension that can help users learn Solidity and easily generate smart contracts.
+
+### [161. 5 Smart Contract Hacks Everyone Should Learn From](https://hackernoon.com/5-smart-contract-hacks-everyone-should-learn-from)
 ![](https://cdn.hackernoon.com/images/BEBp15DZGJZ8wjyz3034KPmcXf53-ht93pvz.jpeg)
 These 5 hacks resulted in a total of over $200 million in losses for these companies. Don't let your project be next.
 
-### [161. Master Dynamic Data with Solidity Linked Lists](https://hackernoon.com/master-dynamic-data-with-solidity-linked-lists)
+### [162. Master Dynamic Data with Solidity Linked Lists](https://hackernoon.com/master-dynamic-data-with-solidity-linked-lists)
 ![](https://cdn.hackernoon.com/images/0yWFzvZxdnR06ofY5hSQmg6HXd32-vb93qcu.jpeg)
 Unlock the secrets of efficient data handling in Solidity with Linked Lists. Dive in now to elevate your blockchain development game.
 
-### [162. Top Smart Contract Languages in 2024: Solidity, Rust, and Motoko](https://hackernoon.com/top-smart-contract-languages-in-2024-solidity-rust-and-motoko)
+### [163. Top Smart Contract Languages in 2024: Solidity, Rust, and Motoko](https://hackernoon.com/top-smart-contract-languages-in-2024-solidity-rust-and-motoko)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-n3833uo.png)
 In this article, we'll delve into the top three programming languages for blockchain development: Solidity, Rust, and Motoko. 
-
-### [163. How to Deploy Smart Contracts on Rootstock in 5 Minutes with Thirdweb](https://hackernoon.com/how-to-deploy-smart-contracts-on-rootstock-in-5-minutes-with-thirdweb)
-![](https://cdn.hackernoon.com/images/h9zh5laZcuVhjnaK4lBLPxYH14f2-7v03dwq.png)
-Deploy smart contracts on Rootstock using Thirdweb's tools for easy integration, scalable dApp development, and quick setup. Perfect for beginners. 
 
 ### [164. From Web2 to Web3: How I Embarked on a Thrilling Journey of Decentralized App Building!](https://hackernoon.com/from-web2-to-web3-how-i-embarked-on-a-thrilling-journey-of-decentralized-app-building)
 ![](https://cdn.hackernoon.com/images/77WjQmBCAIQ7dyhZ22Bkui5QTrb2-fi93und.jpeg)
 Have you ever wondered what it's like to transition from the centralized world of Web2 to the decentralized world of Web3? 
 
-### [165. Preventing Re-entrancy Attacks in Ethereum Smart Contrats](https://hackernoon.com/preventing-re-entrancy-attacks-in-ethereum-smart-contrats)
+### [165. How to Deploy Smart Contracts on Rootstock in 5 Minutes with Thirdweb](https://hackernoon.com/how-to-deploy-smart-contracts-on-rootstock-in-5-minutes-with-thirdweb)
+![](https://cdn.hackernoon.com/images/h9zh5laZcuVhjnaK4lBLPxYH14f2-7v03dwq.png)
+Deploy smart contracts on Rootstock using Thirdweb's tools for easy integration, scalable dApp development, and quick setup. Perfect for beginners. 
+
+### [166. Preventing Re-entrancy Attacks in Ethereum Smart Contrats](https://hackernoon.com/preventing-re-entrancy-attacks-in-ethereum-smart-contrats)
 ![](https://cdn.hackernoon.com/images/hEM2qRoEBzf0Jz7Xp9oBtkuHuEm2-e692ars.jpeg)
 Re-entrancy attacks in Ethereum smart contrats explained, how to develop, how to avoid them, and how to circumvent them.
 
-### [166. 11 Commandments Of Smart Contract Designing](https://hackernoon.com/11-commandments-of-smart-contract-designing-ra2a3wy4)
+### [167. 11 Commandments Of Smart Contract Designing](https://hackernoon.com/11-commandments-of-smart-contract-designing-ra2a3wy4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFlRGjciVp3fbWDvvOGdVFcuFTef2-v98b2b31.jpeg?alt=media&token=88b82b35-6f97-48d7-a454-acfcf56ce588)
 Unlike my sleeping pattern, design patterns are meant to make things more stable and predictable in the future. It is an elegant solution to common problems in software design. 
 
-### [167. Constant Product Automated Market Maker: On Rootstock](https://hackernoon.com/constant-product-automated-market-maker-on-rootstock)
+### [168. Constant Product Automated Market Maker: On Rootstock](https://hackernoon.com/constant-product-automated-market-maker-on-rootstock)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-r002rvs.jpeg)
 Automated Market Makers (AMMs) are essential to the decentralized finance (DeFi) ecosystem because they facilitate trading and liquidity provision. 
 
-### [168. How to Build a Decentralized House Rental Platform with Next.js, Redux, and Solidity](https://hackernoon.com/how-to-build-a-decentralized-house-rental-platform-with-nextjs-redux-and-solidity)
+### [169. How to Build a Decentralized House Rental Platform with Next.js, Redux, and Solidity](https://hackernoon.com/how-to-build-a-decentralized-house-rental-platform-with-nextjs-redux-and-solidity)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-k783v3k.jpeg)
 Learn to build a decentralized house rental marketplace on Ethereum.
 
-### [169. How to Solve the Second Task of the Ethernaut Game](https://hackernoon.com/how-to-solve-the-second-task-of-the-ethernaut-game)
+### [170. How to Solve the Second Task of the Ethernaut Game](https://hackernoon.com/how-to-solve-the-second-task-of-the-ethernaut-game)
 ![](https://cdn.hackernoon.com/images/2VftJjxuwsZ19AsybJmsSIp6DX53-ut12jxw.jpeg)
 This is the second part of my series around Ethernaut Game. In this post, we will deal with Level 2: Fallout.
 
-### [170. Memory, Calldata, and Storage in Solidity: Understanding the Differences](https://hackernoon.com/memory-calldata-and-storage-in-solidity-understanding-the-differences)
+### [171. Memory, Calldata, and Storage in Solidity: Understanding the Differences](https://hackernoon.com/memory-calldata-and-storage-in-solidity-understanding-the-differences)
 ![](https://cdn.hackernoon.com/images/BK7OFsoRuJVKILySIKXNvmjW0Ii1-j253hhd.jpeg)
 If you are finding it difficult to comprehend either storage, memory, or calldata, you are not alone. 
 
-### [171. Understanding Token Standards in Ethereum Part- III (ERC1155)](https://hackernoon.com/understanding-token-standards-in-ethereum-erc1155)
+### [172. Understanding Token Standards in Ethereum Part- III (ERC1155)](https://hackernoon.com/understanding-token-standards-in-ethereum-erc1155)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-nn92hxi.jpeg)
 Multi-Token Standard (ERC1155) was introduced in 2018 by Enjin.
 
-### [172. Understanding Ethereum Token Standards](https://hackernoon.com/understanding-ethereum-token-standards)
+### [173. Understanding Ethereum Token Standards](https://hackernoon.com/understanding-ethereum-token-standards)
 ![](https://cdn.hackernoon.com/images/MrzdFPyBcTVnSt90dsBoiyYMuyn1-mfa3sn8.jpeg)
 Tokens are an incredibly important part of Ethereum and in Web3. Understanding the standards for each type of token can help you understand how it works.
 
-### [173. Smart Contracts: The Ethereum Bias and The Graphene Undercurrent](https://hackernoon.com/smart-contracts-the-ethereum-bias-and-the-graphene-undercurrent-af3234hd)
+### [174. Smart Contracts: The Ethereum Bias and The Graphene Undercurrent](https://hackernoon.com/smart-contracts-the-ethereum-bias-and-the-graphene-undercurrent-af3234hd)
 ![](https://cdn.hackernoon.com/images/5Bjz78MORcPQx3lUTVedEHus0mG2-yn2s3zuq.jpeg)
 Building great applications takes both decentralized and centralized databases, and so Koinos is being designed to enable developers to integrate a decentralized database into their stack regardless of how much or how little they want to rely on that database.
 
-### [174. Yul in Solidity: Potential Gas Griefing From Return Data When Transferring Ether?](https://hackernoon.com/yul-in-solidity-potential-gas-griefing-from-return-data-when-transferring-ether)
+### [175. Yul in Solidity: Potential Gas Griefing From Return Data When Transferring Ether?](https://hackernoon.com/yul-in-solidity-potential-gas-griefing-from-return-data-when-transferring-ether)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-0683lww.jpeg)
 Exploring risks in Solidity transfers: Gas griefing, return data handling & mitigations in smart contracts using Yul, Vyper, and EVM.
 
-### [175. Solidity vs. Ligo: The Key Differences](https://hackernoon.com/solidity-vs-ligo-the-key-differences-gy2y32sg)
+### [176. Solidity vs. Ligo: The Key Differences](https://hackernoon.com/solidity-vs-ligo-the-key-differences-gy2y32sg)
 ![](https://cdn.hackernoon.com/images/yk1dw32ru.jpg)
 What you need to know about writing smart contracts on the Tezos blockchain when you come from Ethereum
 
-### [176. How Web3 Projects Scale Using Custom Programming Language as a Marketing Strategy](https://hackernoon.com/how-web3-projects-scale-using-custom-programming-language-as-marketing-strategy)
+### [177. How Web3 Projects Scale Using Custom Programming Language as a Marketing Strategy](https://hackernoon.com/how-web3-projects-scale-using-custom-programming-language-as-marketing-strategy)
 ![](https://cdn.hackernoon.com/images/web-3-developers-ff18qx1a6g5c8gypxmjtvceu.png)
 Web 3 projects are crafting their own programming languages to stand out and innovate in ways that bring everyone on board.
 
-### [177. NFTs and the ERC-721 Standard: What You Need to Know](https://hackernoon.com/nfts-and-the-erc-721-standard-what-you-need-to-know)
-![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-9d93xpp.jpeg)
-What are an NFT and the ERC-721 standard
-
-### [178. Security Manager Design Pattern for Solidity Smart Contracts](https://hackernoon.com/this-design-pattern-can-revolutionize-the-security-model-of-your-smart-contracts-and-hackers-hate-it)
-![](https://cdn.hackernoon.com/images/smart-contracts-on-a-block-chain-clg6licn7000001s6a4dues3d.png)
-This is the first in a planned multi-part series in which I'll write about security topics in blockchain development from a few different angles.
-
-### [179. 5 Minutes is All You Need to Deploy Your Very First Smart Contract to Polkadot Using This Method](https://hackernoon.com/5-minutes-is-all-you-need-to-deploy-your-very-first-smart-contract-to-polkadot-using-this-method)
-![](https://cdn.hackernoon.com/images/YCZZP5ejekRB4m5hmE4odutWG5g1-qnh38re.jpeg)
-This tutorial will guide you on how to deploy a Solidity smart contract to Polkadot in minutes.
-
-### [180. Meet the Writer: HackerNoon's Contributor Adam Boudjemaa, Blockchain Tech Lead](https://hackernoon.com/meet-the-writer-hackernoons-contributor-adam-boudjemaa-blockchain-tech-lead)
-![](https://cdn.hackernoon.com/images/0yWFzvZxdnR06ofY5hSQmg6HXd32-0j93o8p.jpeg)
-Explore the journey of a seasoned Blockchain Tech Lead, Adam Boudjemaa, as he dives into the evolving world of blockchain, smart contracts, and Solidity.
-
-### [181. Solidity Digest - Mar 2023: Everything You Should Know](https://hackernoon.com/solidity-digest-mar-2023-everything-you-should-know)
+### [178. Solidity Digest - Mar 2023: Everything You Should Know](https://hackernoon.com/solidity-digest-mar-2023-everything-you-should-know)
 ![](https://cdn.hackernoon.com/images/Iq5imewRW8P0Tf9OM7rD5jz0qT33-ikh2nrp.jpeg)
 The March 2023 Solidity digest features updates and new releases of various Solidity-related tools, along with approved ERC proposals, and multiple articles abo
 
-### [182. Can We BUIDL Decentralized Flexible Organizations?](https://hackernoon.com/how-decentralized-flexible-organizations-can-introduce-a-new-wave-of-startups-without-founders-zgih36op)
-![](https://cdn.hackernoon.com/images/g61p336vu.gif)
-The Decentralized Flexible Organization is a new concept, that reshapes how we’re building Decentralized Applications, solving some critical points of failure in the today’s Dapp ecosystem like the needs of a Legal Known Entity to Trust, the slowly Smart Contract Developing and the Centralized or Distributed Servers Needs.
+### [179. NFTs and the ERC-721 Standard: What You Need to Know](https://hackernoon.com/nfts-and-the-erc-721-standard-what-you-need-to-know)
+![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-9d93xpp.jpeg)
+What are an NFT and the ERC-721 standard
+
+### [180. Security Manager Design Pattern for Solidity Smart Contracts](https://hackernoon.com/this-design-pattern-can-revolutionize-the-security-model-of-your-smart-contracts-and-hackers-hate-it)
+![](https://cdn.hackernoon.com/images/smart-contracts-on-a-block-chain-clg6licn7000001s6a4dues3d.png)
+This is the first in a planned multi-part series in which I'll write about security topics in blockchain development from a few different angles.
+
+### [181. 5 Minutes is All You Need to Deploy Your Very First Smart Contract to Polkadot Using This Method](https://hackernoon.com/5-minutes-is-all-you-need-to-deploy-your-very-first-smart-contract-to-polkadot-using-this-method)
+![](https://cdn.hackernoon.com/images/YCZZP5ejekRB4m5hmE4odutWG5g1-qnh38re.jpeg)
+This tutorial will guide you on how to deploy a Solidity smart contract to Polkadot in minutes.
+
+### [182. Meet the Writer: HackerNoon's Contributor Adam Boudjemaa, Blockchain Tech Lead](https://hackernoon.com/meet-the-writer-hackernoons-contributor-adam-boudjemaa-blockchain-tech-lead)
+![](https://cdn.hackernoon.com/images/0yWFzvZxdnR06ofY5hSQmg6HXd32-0j93o8p.jpeg)
+Explore the journey of a seasoned Blockchain Tech Lead, Adam Boudjemaa, as he dives into the evolving world of blockchain, smart contracts, and Solidity.
 
 ### [183. A Beginner's Guide to Raffle Draws on the Ethereum Blockchain](https://hackernoon.com/a-beginners-guide-to-raffle-draws-on-the-ethereum-blockchain)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-hn93ryy.jpeg)
 we'll take a look at how to create a smart contract that can be used to conduct a raffle draw on the Ethereum blockchain.
 
-### [184. Exploring Nested Mapping in Solidity for Smart Contracts](https://hackernoon.com/exploring-nested-mapping-in-solidity-for-smart-contracts)
+### [184. Can We BUIDL Decentralized Flexible Organizations?](https://hackernoon.com/how-decentralized-flexible-organizations-can-introduce-a-new-wave-of-startups-without-founders-zgih36op)
+![](https://cdn.hackernoon.com/images/g61p336vu.gif)
+The Decentralized Flexible Organization is a new concept, that reshapes how we’re building Decentralized Applications, solving some critical points of failure in the today’s Dapp ecosystem like the needs of a Legal Known Entity to Trust, the slowly Smart Contract Developing and the Centralized or Distributed Servers Needs.
+
+### [185. Exploring Nested Mapping in Solidity for Smart Contracts](https://hackernoon.com/exploring-nested-mapping-in-solidity-for-smart-contracts)
 ![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-iw838yp.jpeg)
 Nested mappings in Solidity offer developers powerful tools to efficiently organize and manipulate complex data structures.
 
-### [185. Karma: an ERC20-compatible Alternative Money on the Ethereum Blockchain](https://hackernoon.com/karma-an-erc20-compatible-alternative-money-on-the-ethereum-blockchain)
+### [186. Karma: an ERC20-compatible Alternative Money on the Ethereum Blockchain](https://hackernoon.com/karma-an-erc20-compatible-alternative-money-on-the-ethereum-blockchain)
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-g592zot.jpeg)
 Karma: an ERC20-compatible alternative money on the Ethereum blockchain.
 
-### [186. What Is MevBot's Front Running Attack on Users? How to Avoid It? 🤔](https://hackernoon.com/what-is-mevbots-front-running-attack-on-users-how-to-avoid-it)
+### [187. What Is MevBot's Front Running Attack on Users? How to Avoid It? 🤔](https://hackernoon.com/what-is-mevbots-front-running-attack-on-users-how-to-avoid-it)
 ![](https://cdn.hackernoon.com/images/dH5TBmoEbZTGp8KEaGc3Ga3ntjC2-tq832vd.jpeg)
 Many users often complain about being victims of sandwich attacks or front-running attacks. In reality, these attacks are often initiated by Mev Bots. 
-
-### [187. How to Build and Deploy a Decentralized Crowdfunding Smart Contract on the Linea Blockchain](https://hackernoon.com/how-to-build-and-deploy-a-decentralized-crowdfunding-smart-contract-on-the-linea-blockchain)
-![](https://cdn.hackernoon.com/images/GacyV1XPa6aoFl5sjI7PI4KtLTq2-7703770.png)
-Learn how to build and deploy a decentralized crowdfunding smart contract on the Linea blockchain.
 
 ### [188. An Update to Solidity’s ‘Assert()’ Statement You Might’ve Missed](https://hackernoon.com/an-update-to-soliditys-assert-statement-you-mightve-missed)
 ![](https://cdn.hackernoon.com/images/Ki0s6KrHo0TbF2TNPyb1p3oNtQi1-6193nuy.jpeg)
 Learn about the crucial update to Solidity's 'assert()' statement that you just might've missed. 
 
-### [189. How to Programmatically Verify Solidity Smart Contract Code With Hardhat](https://hackernoon.com/how-to-programmatically-verify-solidity-smart-contract-code-with-hardhat)
+### [189. How to Build and Deploy a Decentralized Crowdfunding Smart Contract on the Linea Blockchain](https://hackernoon.com/how-to-build-and-deploy-a-decentralized-crowdfunding-smart-contract-on-the-linea-blockchain)
+![](https://cdn.hackernoon.com/images/GacyV1XPa6aoFl5sjI7PI4KtLTq2-7703770.png)
+Learn how to build and deploy a decentralized crowdfunding smart contract on the Linea blockchain.
+
+### [190. How to Programmatically Verify Solidity Smart Contract Code With Hardhat](https://hackernoon.com/how-to-programmatically-verify-solidity-smart-contract-code-with-hardhat)
 ![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-ek93wa0.jpeg)
 Automated smart contract verification with HRE provides a much more streamlined and efficient way to verify smart contract code than manually verifying it from 
 
-### [190. Understanding Token Standards in Ethereum Part - I (ERC20)](https://hackernoon.com/understanding-token-standards-in-ethereum-erc20)
+### [191. Understanding Token Standards in Ethereum Part - I (ERC20)](https://hackernoon.com/understanding-token-standards-in-ethereum-erc20)
 ![](https://cdn.hackernoon.com/images/Ki0s6KrHo0TbF2TNPyb1p3oNtQi1-sib3lmv.jpeg)
 You can find partially explained material for ERC token standards, but I have come up with these articles to explain about three major token standards.
 
-### [191. How the Ethereum Blockchain Incentivizes Users to Clear Storage ](https://hackernoon.com/how-the-ethereum-blockchain-incentivizes-users-to-clear-storage)
+### [192. How the Ethereum Blockchain Incentivizes Users to Clear Storage ](https://hackernoon.com/how-the-ethereum-blockchain-incentivizes-users-to-clear-storage)
 ![](https://cdn.hackernoon.com/images/Ki0s6KrHo0TbF2TNPyb1p3oNtQi1-9y93viu.jpeg)
 Ethereum has an incentivization mechanism for smart contract users/developers to reduce the storage captured by a smart contract. 
 This article explains how.
 
-### [192. Solidity Digest Monthly / April 2023](https://hackernoon.com/solidity-digest-monthly-april-2023)
+### [193. Solidity Digest Monthly / April 2023](https://hackernoon.com/solidity-digest-monthly-april-2023)
 ![](https://cdn.hackernoon.com/images/Iq5imewRW8P0Tf9OM7rD5jz0qT33-hcc2rsn.jpeg)
 The April selection of the latest news, tools and materials from the world of Solidity.
 
-### [193. Implementing NFT Escrow In ERC-721 Smart Contracts](https://hackernoon.com/implementing-nft-escrow-in-erc-721-smart-contracts)
-![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-ul838kw.jpeg)
-Understanding Escrow in ERC-721 NFT Smart Contracts.
-
-### [194. The Tech Behind Tornado Cash (Line by Line for Programmers)](https://hackernoon.com/the-tech-behind-tornado-cash-line-by-line-for-programmers)
-![](https://cdn.hackernoon.com/images/XvrwCT7HhNeDCh460s3FqZgEdQD2-r3s3thy.jpeg)
-Tornado cash is a cryptocurrency smart contract mixer that enables users to deposit crypto with one address and withdraw with another wallet.
-
-### [195. The Noonification: How to Become a 10x Dev: An Essential Guide (3/23/2023)](https://hackernoon.com/3-23-2023-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-3/23/2023: Top 5 stories on the Hackernoon homepage!
-
-### [196. Zero-Knowledge Proofs: Ensuring Privacy in Smart Contract Questionnaire Validity Verification](https://hackernoon.com/zero-knowledge-proofs-ensuring-privacy-in-smart-contract-questionnaire-validity-verification)
+### [194. Zero-Knowledge Proofs: Ensuring Privacy in Smart Contract Questionnaire Validity Verification](https://hackernoon.com/zero-knowledge-proofs-ensuring-privacy-in-smart-contract-questionnaire-validity-verification)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-na82m0r.png)
 Using Zero-Knowledge Proofs in Smart Contracts, ensuring private, fair, and verifiable questionnaire results.
 
-### [197. Smart Contract Testing on OpenZeppelin CLI - An RSK Workshop](https://hackernoon.com/smart-contract-testing-on-openzeppelin-cli-an-rsk-workshop-8m2g3xmb)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-z9h28yi.jpeg?alt=media&token=e890912f-7a6c-4c70-b431-b6f26b97ad6b)
-Prior to commencing this tutorial, please ensure that you have installed the following RSK workshop pre-requisites on your system:
-
-### [198. Solidity Events: A Comprehensive Overview](https://hackernoon.com/solidity-events-a-comprehensive-overview)
+### [195. Solidity Events: A Comprehensive Overview](https://hackernoon.com/solidity-events-a-comprehensive-overview)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-lx93pei.jpeg)
 Solidity events are the closest thing to a “print” or “console.log” statement in Ethereum. We will explain how they work and when to use them. 
+
+### [196. The Tech Behind Tornado Cash (Line by Line for Programmers)](https://hackernoon.com/the-tech-behind-tornado-cash-line-by-line-for-programmers)
+![](https://cdn.hackernoon.com/images/XvrwCT7HhNeDCh460s3FqZgEdQD2-r3s3thy.jpeg)
+Tornado cash is a cryptocurrency smart contract mixer that enables users to deposit crypto with one address and withdraw with another wallet.
+
+### [197. Implementing NFT Escrow In ERC-721 Smart Contracts](https://hackernoon.com/implementing-nft-escrow-in-erc-721-smart-contracts)
+![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-ul838kw.jpeg)
+Understanding Escrow in ERC-721 NFT Smart Contracts.
+
+### [198. The Noonification: How to Become a 10x Dev: An Essential Guide (3/23/2023)](https://hackernoon.com/3-23-2023-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+3/23/2023: Top 5 stories on the Hackernoon homepage!
 
 ### [199. Why Smart Contract Audits are Critical for Your Business Success](https://hackernoon.com/why-smart-contract-audits-are-critical-for-your-business-success)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-rt93p0c.jpeg)
@@ -807,59 +811,63 @@ An auditor’s goal is to find as many vulnerabilities as possible and educate t
 ![](https://cdn.hackernoon.com/images/exploring-a-web-3-smart-contract-issue-gas-exploitation-via-unchecked-loops-phe10tvgemuu9h01r4dwfb1r.png)
 In blockchain development, smart contracts may encounter serious vulnerabilities, especially when there’s a loop that iterates over data provided by users.
 
-### [201. The Coronavirus and the Emergence of Global Citizens’ Solidarity](https://hackernoon.com/the-coronavirus-and-the-emergence-of-global-citizens-solidarity-nj1632t7)
-![](https://cdn.hackernoon.com/drafts/beco32qo.png)
-How technologies are empowering global citizens to take action for the benefit of humanity
+### [201. Smart Contract Testing on OpenZeppelin CLI - An RSK Workshop](https://hackernoon.com/smart-contract-testing-on-openzeppelin-cli-an-rsk-workshop-8m2g3xmb)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-z9h28yi.jpeg?alt=media&token=e890912f-7a6c-4c70-b431-b6f26b97ad6b)
+Prior to commencing this tutorial, please ensure that you have installed the following RSK workshop pre-requisites on your system:
 
-### [202. WorldID on Gnosis? This Cross-Chain System Makes It Happen](https://hackernoon.com/worldid-on-gnosis-this-cross-chain-system-makes-it-happen)
-![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-hv12vmr.webp)
-Gnosis uses the Arbitrary Message Bridge to send messages between two blockchains. The AMB is a system composed of smart contracts and external validators. 
+### [202. Here's How Hardhat Simplifies Smart Contract Verification on Ethereum](https://hackernoon.com/heres-how-hardhat-simplifies-smart-contract-verification-on-ethereum)
+![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-uz93wbw.jpeg)
+Smart contract verification is crucial for ensuring transparency, trust, and safety for users in the blockchain ecosystem. 
 
 ### [203. What Is a Re-Entrancy Attack in Smart Contracts, and How to Avoid It? 🛡️🔒](https://hackernoon.com/what-is-a-re-entrancy-attack-in-smart-contracts-and-how-to-avoid-it)
 ![](https://cdn.hackernoon.com/images/dH5TBmoEbZTGp8KEaGc3Ga3ntjC2-ub8325e.jpeg)
 In this article, I will demonstrate an example of a Re-Entrancy vulnerability and three different methods to prevent Re-Entrancy attacks.
 
-### [204. Why You Should Never Store Sensitive Data in Smart Contracts 🚫🔒](https://hackernoon.com/why-you-should-never-store-sensitive-data-in-smart-contracts)
+### [204. The Coronavirus and the Emergence of Global Citizens’ Solidarity](https://hackernoon.com/the-coronavirus-and-the-emergence-of-global-citizens-solidarity-nj1632t7)
+![](https://cdn.hackernoon.com/drafts/beco32qo.png)
+How technologies are empowering global citizens to take action for the benefit of humanity
+
+### [205. WorldID on Gnosis? This Cross-Chain System Makes It Happen](https://hackernoon.com/worldid-on-gnosis-this-cross-chain-system-makes-it-happen)
+![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-hv12vmr.webp)
+Gnosis uses the Arbitrary Message Bridge to send messages between two blockchains. The AMB is a system composed of smart contracts and external validators. 
+
+### [206. Why You Should Never Store Sensitive Data in Smart Contracts 🚫🔒](https://hackernoon.com/why-you-should-never-store-sensitive-data-in-smart-contracts)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-3683mke.jpeg)
 Understanding Ethereum smart contract storage: Unveiling vulnerabilities in data security & strategies for protection. 🛡️🔒📊
 
-### [205. Here's How Hardhat Simplifies Smart Contract Verification on Ethereum](https://hackernoon.com/heres-how-hardhat-simplifies-smart-contract-verification-on-ethereum)
-![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-uz93wbw.jpeg)
-Smart contract verification is crucial for ensuring transparency, trust, and safety for users in the blockchain ecosystem. 
-
-### [206. Integrating An SAP ABAP System With The Ethereum Mainnet [A Step-by-Step Guide]](https://hackernoon.com/integrating-an-sap-abap-system-with-the-ethereum-mainnet-a-step-by-step-guide-jz4934wi)
+### [207. Integrating An SAP ABAP System With The Ethereum Mainnet [A Step-by-Step Guide]](https://hackernoon.com/integrating-an-sap-abap-system-with-the-ethereum-mainnet-a-step-by-step-guide-jz4934wi)
 ![](https://cdn.hackernoon.com/images/IiLjzvoDDoY0EkD7DtHRImKjN072-lkk32dl.jpeg)
 You’ve likely heard of Ethereum in the context of cryptocurrency, but perhaps not so much in the context of enterprise software. 
-
-### [207. Solidity: Utilizing Set Structure](https://hackernoon.com/leveraging-the-set-structure-in-solidity)
-![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-iaa35iw.jpeg)
-Leveraging the Set Structure in Solidity
 
 ### [208. Meet Gno.land: The Smart Contract Platform That Will Improve Our Understanding of the World](https://hackernoon.com/meet-gnoland-the-smart-contract-platform-that-will-improve-our-understanding-of-the-world)
 ![](https://cdn.hackernoon.com/images/FHKFRoaonZe486lLw0wmnoyHNoG3-co93xhp.jpeg)
 Gno.land is the first L1 smart contract platform to use Gnolang (Gno), an interpretation of Go, to address accessibility and ease of use in web3 development
 
-### [209. How to Build an Answer-to-Earn Platform with React, Solidity and CometChat](https://hackernoon.com/how-to-build-an-answer-to-earn-platform-with-react-solidity-and-cometchat)
+### [209. Solidity: Utilizing Set Structure](https://hackernoon.com/leveraging-the-set-structure-in-solidity)
+![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-iaa35iw.jpeg)
+Leveraging the Set Structure in Solidity
+
+### [210. How to Build an Answer-to-Earn Platform with React, Solidity and CometChat](https://hackernoon.com/how-to-build-an-answer-to-earn-platform-with-react-solidity-and-cometchat)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-e993x0s.jpeg)
 This tutorial combines blockchain technology, real-time communication, and user-generated content to create an interactive platform that rewards users for their
 
-### [210. How to Understand tx.origin and msg.sender in Solidity](https://hackernoon.com/how-to-understand-txorigin-and-msgsender-in-solidity)
+### [211. How to Understand tx.origin and msg.sender in Solidity](https://hackernoon.com/how-to-understand-txorigin-and-msgsender-in-solidity)
 ![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-2383873.jpeg)
 In this blog post, we will delve deeper into the meanings of tx.origin and msg.sender and why you should learn them too.
 
-### [211. Transaction Failures in The Old Gnosis Multisig Wallets [How To Fix It]](https://hackernoon.com/transaction-failures-in-the-old-gnosis-multisig-wallets-how-to-fix-it-e41a3yco)
+### [212. Transaction Failures in The Old Gnosis Multisig Wallets [How To Fix It]](https://hackernoon.com/transaction-failures-in-the-old-gnosis-multisig-wallets-how-to-fix-it-e41a3yco)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYeFG2EVymcfdpVYEQEe4sdYJhxn2-jik3yni.webp?alt=media&token=6a87c6c1-9797-49d9-b2e9-f83d36a91526)
 As a developer, Ethereum keeps you on your toes. On the plus side, you constantly learn something new and the thrill of the “aha” moments is undeniable.
-
-### [212. Fungible Tokens: Tracing the Evolution of Digital Assets ](https://hackernoon.com/fungible-tokens-tracing-the-evolution-of-digital-assets)
-![](https://cdn.hackernoon.com/images/Ki0s6KrHo0TbF2TNPyb1p3oNtQi1-5f93lpw.jpeg)
-Get an overview of how the Ethereum Community is trying to get more secure and usable fungible token standards over time. 
 
 ### [213. The Noonification: Smart Contract Security in Solidity (5/16/2023)](https://hackernoon.com/5-16-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 5/16/2023: Top 5 stories on the Hackernoon homepage!
 
-### [214. How to Master Custom Errors in Solidity: Beyond Default Messages](https://hackernoon.com/how-to-master-custom-errors-in-solidity-beyond-default-messages)
+### [214. Fungible Tokens: Tracing the Evolution of Digital Assets ](https://hackernoon.com/fungible-tokens-tracing-the-evolution-of-digital-assets)
+![](https://cdn.hackernoon.com/images/Ki0s6KrHo0TbF2TNPyb1p3oNtQi1-5f93lpw.jpeg)
+Get an overview of how the Ethereum Community is trying to get more secure and usable fungible token standards over time. 
+
+### [215. How to Master Custom Errors in Solidity: Beyond Default Messages](https://hackernoon.com/how-to-master-custom-errors-in-solidity-beyond-default-messages)
 ![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-p29353d.jpeg)
 Beyond Default Messages: Mastering Custom Errors in Solidity
 

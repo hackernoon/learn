@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [code-quality](https://hackernoon.com/tagged/code-quality)
+### Let's learn about [Code Quality](https://hackernoon.com/tagged/code-quality) via these 363 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Whatever your metrics for judgement are, code quality stories on HackerNoon provide pointers that ease your way.
 
 ### [1. Overloading Vs. Overriding in C#](https://hackernoon.com/overloading-vs-overriding-in-c-nn1331h4)
@@ -174,13 +176,13 @@ A code review checklist, as well as clear rules and guidelines around code revie
 ![](https://images.unsplash.com/photo-1531580032505-dbc2f398287e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The Rule: When naming a variable, don't encode it's type into its name, even in a dynamically typed language.
 
-### [43. Top Security Penetration Testing Companies](https://hackernoon.com/top-security-penetration-testing-companies-yk103u1f)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2FrXNr23YpPSkWbjIM2yYfoUDsQ2-64693utg.jpeg?alt=media&token=760e84a5-0464-471c-a327-369eedbc6a51)
-Cybercrime is one of the world’s fastest-growing threats, with malicious actors constantly elaborating their methods of undetectable intrusion. According to Verizon’s Business 2020 Data Breach Investigations report, there has been a 100% increase in web app breaches, and stolen credentials were used in more than 80% of these cases. These statistics are worrying for many businesses that actively move their processes to the cloud and deal heavily with customers’ personal data.
-
-### [44. Data Access for Microservices](https://hackernoon.com/data-access-for-microservices-ux1j3upa)
+### [43. Data Access for Microservices](https://hackernoon.com/data-access-for-microservices-ux1j3upa)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fl5zOLSJSCXbNFE632NiK1dIRRaI3-qt4f3uqn.jpeg?alt=media&token=8c33132f-9484-4f4d-8ce6-ec13a00e1bee)
 If you want to access data in a distributed environment such as in a microservice architecture, then data services are the way to go. The idea is to create a data abstraction layer (DAL) that the rest of the system’s applications and services can share. Thus, a data service gives you a generalized interface to the data you’re exposing and provides access to it in a standard manner. This would be in a well-understood protocol and a known data format. For example, a popular approach is to use JSON via HTTP/S.
+
+### [44. Top Security Penetration Testing Companies](https://hackernoon.com/top-security-penetration-testing-companies-yk103u1f)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2FrXNr23YpPSkWbjIM2yYfoUDsQ2-64693utg.jpeg?alt=media&token=760e84a5-0464-471c-a327-369eedbc6a51)
+Cybercrime is one of the world’s fastest-growing threats, with malicious actors constantly elaborating their methods of undetectable intrusion. According to Verizon’s Business 2020 Data Breach Investigations report, there has been a 100% increase in web app breaches, and stolen credentials were used in more than 80% of these cases. These statistics are worrying for many businesses that actively move their processes to the cloud and deal heavily with customers’ personal data.
 
 ### [45. Why the Hell Do People Confuse Prettier With Eslint?](https://hackernoon.com/why-the-hell-do-people-confuse-prettier-with-eslint)
 ![](https://cdn.hackernoon.com/images/gzb4wpPqu0Y3vTmkubxXXyxoTKf2-lna3thh.jpeg)
@@ -194,13 +196,13 @@ Hi, I'm Valerio, software engineer from Italy.
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzS7Ens3qoUevRb8Om1z17awDmJ93-vs1p3uqi.png?alt=media&token=a5e5c4d3-179d-49ec-931f-9152d5ee13c6)
 This story was originally published on my blog. If you're interested in this kind of content, feel free to check it out and subscribe :)
 
-### [48. Why Rust Is So Popular?](https://hackernoon.com/why-rust-is-so-popular-gk1p3ur5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-im1628vx.jpeg?alt=media&token=2c932a0d-8b47-4ad8-a0a4-01c58d780ac8)
-If you are looking for some kind of metal panel business idea, allow me to be clear: the Rust I am referring to is a programming language.
-
-### [49. Continuous Integration (CI) Branching Strategies: What You Need to Know](https://hackernoon.com/continuous-integration-ci-branching-strategies-what-you-need-to-know)
+### [48. Continuous Integration (CI) Branching Strategies: What You Need to Know](https://hackernoon.com/continuous-integration-ci-branching-strategies-what-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/PkV2XzJhL4eISFLTiFkKC9zikEG2-tr93p2q.jpeg)
 When you have multiple developers working on the same code, you may face a lot of challenges when merging. That's where branches come in.
+
+### [49. Why Rust Is So Popular?](https://hackernoon.com/why-rust-is-so-popular-gk1p3ur5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-im1628vx.jpeg?alt=media&token=2c932a0d-8b47-4ad8-a0a4-01c58d780ac8)
+If you are looking for some kind of metal panel business idea, allow me to be clear: the Rust I am referring to is a programming language.
 
 ### [50. Understanding Currying, Closures, and Coupling in JavaScript](https://hackernoon.com/understanding-currying-closures-and-coupling-in-javascript-pg3x3y6z)
 ![](https://cdn.hackernoon.com/images/kqo37vq.jpg)
@@ -259,21 +261,21 @@ Object oriented programming (or OOP) is a style of programming that encapsulates
 ![](https://images.unsplash.com/photo-1515942140440-bc864ffd5992?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Java 8 stream has made my programming life simpler as a software engineer. However there are a lot more that can be improved by incorporating the RXJava library. RXJava contains tons of functionalities to process streams or observables. 
 
-### [64. The Importance of Code Quality, Explained](https://hackernoon.com/the-importance-of-code-quality-explained-de4i3wdi)
+### [64. Avoiding Software Bottlenecks: Understanding the 'God Object' Anti-Pattern](https://hackernoon.com/avoiding-software-bottlenecks-understanding-the-god-object-anti-pattern)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-hk034tx.webp)
+Avoid software bottlenecks by understanding the 'God Object' anti-pattern in object-oriented programming. Learn its impacts, examples, and best practices.
+
+### [65. The Importance of Code Quality, Explained](https://hackernoon.com/the-importance-of-code-quality-explained-de4i3wdi)
 ![](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 One would expect that writing code which any programmer can read and understand would be an inherent skill of software developers. The fact is that only 20% of programmers have this ability. The code that you are writing must be understood not only by the machine but also by humans. In software development, quality should be everyone’s priority. Throughout the development process, the goal should be the delivery of good quality and working code.
 
-### [65. The Battle Between Jest and Mocha for Testing JavaScript Applications](https://hackernoon.com/jest-versus-mocha-which-testing-framework-is-for-you)
+### [66. The Battle Between Jest and Mocha for Testing JavaScript Applications](https://hackernoon.com/jest-versus-mocha-which-testing-framework-is-for-you)
 ![](https://cdn.hackernoon.com/images/CekhOvRrgDPByTZGMjSvyZcX4Yo1-vd236g7.jpeg)
 Jest vs Mocha, which one should you chose? What are the pros & cons? All about our experience about making the call between Jest & Mocha. 
 
-### [66. Onboard New Developers with Better Coding Practices](https://hackernoon.com/onboard-new-developers-with-better-coding-practices)
+### [67. Onboard New Developers with Better Coding Practices](https://hackernoon.com/onboard-new-developers-with-better-coding-practices)
 ![](https://cdn.hackernoon.com/images/Pthg4HkZCVbFsbLBOuz8H6RTp733-4h93mez.jpeg)
 Onboard new developers take time, so you need to set up an efficient process to boost their appropriation of your technical culture and your best practices
-
-### [67. Avoiding Software Bottlenecks: Understanding the 'God Object' Anti-Pattern](https://hackernoon.com/avoiding-software-bottlenecks-understanding-the-god-object-anti-pattern)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-hk034tx.webp)
-Avoid software bottlenecks by understanding the 'God Object' anti-pattern in object-oriented programming. Learn its impacts, examples, and best practices.
 
 ### [68. Functional Programming Techniques in Java with Examples](https://hackernoon.com/functional-programming-techniques-in-java-with-examples-8k1m3w85)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWnT4onrLDxWJByyjiz9SY4adyu73-td83tl8.jpeg?alt=media&token=25e36ba3-a335-4f35-b834-11c1b3591b88)
@@ -295,13 +297,13 @@ Originally published at Managing Technical Debt.
 ![](https://cdn.hackernoon.com/images/lx2hu32er.jpg)
 Code reviews at Google play an important role as an engineering practice and have been adopted already in the early days of Google. Still today, they are used to keep the code base clean, coherent and to ensure no arbitrary code is committed. Even though the code review process looks similar to code reviews at Microsoft, there are some Google specifics that allow for a particular lightweight code review process.
 
-### [73. Helpful Tips for Writing Clean Code](https://hackernoon.com/helpful-tips-for-writing-clean-code-ttot3ygn)
-![](https://cdn.hackernoon.com/drafts/0y1k3yw0.png)
-In this short, but nonetheless useful article, I have summarized the most beneficial tips for writing clean code. These rules are independent of the language you use and are invaluable for both beginners and experienced programmers.
-
-### [74. Groundbreaking Tips On How To Use XPath In Selenium ](https://hackernoon.com/groundbreaking-tips-on-how-to-use-xpath-in-selenium-vj163w1g)
+### [73. Groundbreaking Tips On How To Use XPath In Selenium ](https://hackernoon.com/groundbreaking-tips-on-how-to-use-xpath-in-selenium-vj163w1g)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-fth3wk1.jpeg?alt=media&token=d745e3e4-e095-4256-ad49-a6d50d7c872a)
 Identifying element has always been the trickiest part and therefore require an accurate and correct approach. If you are unable to find elements by the easily available approaches like ID, class, name, link or tagname then XPath in Selenium can help rescue you. Locating dynamic elements have always been the pain area while you wish to automate the scripts, the only ray of hope to deal with such fiascos is XPath. In my current article, I will be digging into the steps of locating an element via XPath example in Selenium and its various ways.
+
+### [74. Helpful Tips for Writing Clean Code](https://hackernoon.com/helpful-tips-for-writing-clean-code-ttot3ygn)
+![](https://cdn.hackernoon.com/drafts/0y1k3yw0.png)
+In this short, but nonetheless useful article, I have summarized the most beneficial tips for writing clean code. These rules are independent of the language you use and are invaluable for both beginners and experienced programmers.
 
 ### [75. An Essential Guide to Code Quality](https://hackernoon.com/an-essential-guide-to-code-quality-x41j34un)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMedHIICL4oSJ7Y2rxX4SKFASDIT2-4u373x7m.jpeg?alt=media&token=ef82e789-ef6a-446f-8d68-1e8137b7dbf7)
@@ -335,13 +337,13 @@ Over-engineering feels like smart planning—until it slows you down. Learn how 
 ![](https://cdn.hackernoon.com/images/Mxatcr8t3EN0D24z6YR3DrWlIoX2-kcg2jv9.jpeg)
 The classic code review process contains several severe flaws and should be redesigned. The story depicts how to do so.
 
-### [83.  How To Debug React Native Debugger](https://hackernoon.com/how-to-debug-react-native-debugger-rw1p3tzb)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7hNScric1WcTcZqxOlzpN8s54n43-uu573xnj.jpeg?alt=media&token=98d3b936-23fd-4bc2-bd68-01efcb3ebc11)
-React Native Debugger is a powerful tool that helps developers debug React Native applications more quickly. It provides a suite of impressive features, such as UI inspector, redux inspector, breakpoints and networking inspector. In this article, we are going to learn how to install and use the React Native Debugger, which will boost your development productivity by an order of magnitude.
-
-### [84. Exception Handling with Examples](https://hackernoon.com/exception-handling-with-examples-wby3t1y)
+### [83. Exception Handling with Examples](https://hackernoon.com/exception-handling-with-examples-wby3t1y)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ff8ChYF2U4MRmYNmy61YoItMITZl2-pm53u83.jpeg?alt=media&token=5a732e3a-800b-421b-8206-7b5727b647e7)
 Exception handling is common to most programming languages, and the mechanism and behaviors are similar in most languages: try\catch\finally. It is well documented. We are not going to discuss that.
+
+### [84.  How To Debug React Native Debugger](https://hackernoon.com/how-to-debug-react-native-debugger-rw1p3tzb)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7hNScric1WcTcZqxOlzpN8s54n43-uu573xnj.jpeg?alt=media&token=98d3b936-23fd-4bc2-bd68-01efcb3ebc11)
+React Native Debugger is a powerful tool that helps developers debug React Native applications more quickly. It provides a suite of impressive features, such as UI inspector, redux inspector, breakpoints and networking inspector. In this article, we are going to learn how to install and use the React Native Debugger, which will boost your development productivity by an order of magnitude.
 
 ### [85. How To Set Up a tsconfig For Nodejs](https://hackernoon.com/how-to-set-up-a-tsconfig-for-nodejs-2w1833jo)
 ![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-6k2139vg.png)
@@ -359,13 +361,13 @@ In this guide, you’ll learn all about refactoring source code: the benefits, c
 ![](https://cdn.hackernoon.com/images/a-computer-screen-displaying-lines-of-code-mbuf0pksrxlfabe6crhobl4r.png)
 .Net NUnit tests for Azure Functions with Event Hub Integration
 
-### [89. How We Set Up a Production Ready CI Workflow Using GitHub Actions](https://hackernoon.com/how-we-set-up-a-production-ready-ci-workflow-using-github-actions-ca2n3w1j)
-![](https://cdn.hackernoon.com/images/iwi3wxj.jpg)
-Recently, we started a new project and it decided it was a good time to try GitHub’s newish CI/CD tools which became generally available in November last year.
-
-### [90. Turn Your IDE Into a Powerhouse for Laravel Development With These Plugins for PhpStorm](https://hackernoon.com/turn-your-ide-into-a-powerhouse-for-laravel-development-with-these-plugins-for-phpstorm)
+### [89. Turn Your IDE Into a Powerhouse for Laravel Development With These Plugins for PhpStorm](https://hackernoon.com/turn-your-ide-into-a-powerhouse-for-laravel-development-with-these-plugins-for-phpstorm)
 ![](https://cdn.hackernoon.com/images/zg5KqJKmaoa55jd5lFdol5UDODA2-5292jvj.jpeg)
 I will cover plugins that I use and recommend for your PhpStorm installation.
+
+### [90. How We Set Up a Production Ready CI Workflow Using GitHub Actions](https://hackernoon.com/how-we-set-up-a-production-ready-ci-workflow-using-github-actions-ca2n3w1j)
+![](https://cdn.hackernoon.com/images/iwi3wxj.jpg)
+Recently, we started a new project and it decided it was a good time to try GitHub’s newish CI/CD tools which became generally available in November last year.
 
 ### [91. Memento Design Pattern Overview](https://hackernoon.com/memento-design-pattern-overview-4r7p3wol)
 ![](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -375,21 +377,21 @@ Memento design pattern is a software design pattern that is used to roll back an
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-n293px7.jpeg)
 The article compares coding to building a castle with Legos and emphasizes the importance of following best practices to avoid mistakes and build a sturdy code.
 
-### [93. Understanding Prototype Chain And Inheritance in JavaScript](https://hackernoon.com/understanding-prototype-chain-and-inheritance-in-javascript-5c2w31oa)
+### [93. The Next 11 Things You Should Do For CI/CD Pipeline Optimization](https://hackernoon.com/the-next-11-things-you-should-do-for-cicd-pipeline-optimization-tb1a3wse)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-dg183wtr.jpeg?alt=media&token=c76bcaa9-b481-4570-9374-4d4e335b0237)
+Many engineering teams are making the switch to a DevOps culture. This has a lot to do with the way the software development cycle has changed over the years. It used to take months to implement a new feature, get it through testing, fix any issues, and finally get it to production.
+
+### [94. Understanding Prototype Chain And Inheritance in JavaScript](https://hackernoon.com/understanding-prototype-chain-and-inheritance-in-javascript-5c2w31oa)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-be1m31r4.jpeg)
 JavaScript is a bit confusing for developers experienced in class-based languages (like Java or C++), as it is dynamic and does not provide a class implementation per se (the class keyword is introduced in ES2015, but is syntactical sugar, JavaScript remains prototype-based).
 
-### [94. What Do Engineers Really Think About Technical Debt?](https://hackernoon.com/what-do-engineers-really-think-about-technical-debt-7l13378a)
+### [95. What Do Engineers Really Think About Technical Debt?](https://hackernoon.com/what-do-engineers-really-think-about-technical-debt-7l13378a)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-yk4335ur.png)
 My team at Stepsize has surveyed 200+ Engineers and published the State of Technical Debt 2021 Report that explores the impact of tech debt on companies.
 
-### [95. Micro Optimization: Don't Get Lost In The Rabbit Hole](https://hackernoon.com/micro-optimization-dont-get-lost-in-the-rabbit-hole-dx9h3wcl)
+### [96. Micro Optimization: Don't Get Lost In The Rabbit Hole](https://hackernoon.com/micro-optimization-dont-get-lost-in-the-rabbit-hole-dx9h3wcl)
 ![](https://cdn.hackernoon.com/images/vdi2eh5.jpg)
 I had to settle a performance discussion within my team. Because of a simple PR, I started a 2 weeks journey in the dark twists and turns of javascript. To save you a lot of pain and frustrating questions, I sum up my research in this really long post. I tried my best to show you the train of thoughts but if you don’t care about the details, you can jump to the end for the TL;DR section.
-
-### [96. The Next 11 Things You Should Do For CI/CD Pipeline Optimization](https://hackernoon.com/the-next-11-things-you-should-do-for-cicd-pipeline-optimization-tb1a3wse)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-dg183wtr.jpeg?alt=media&token=c76bcaa9-b481-4570-9374-4d4e335b0237)
-Many engineering teams are making the switch to a DevOps culture. This has a lot to do with the way the software development cycle has changed over the years. It used to take months to implement a new feature, get it through testing, fix any issues, and finally get it to production.
 
 ### [97. The Dirty Code Problem: Improve Your Game with Good Naming Practices](https://hackernoon.com/the-dirty-code-problem-improve-your-game-with-good-naming-practices-wyds362d)
 ![](https://images.unsplash.com/photo-1545056453-f0359c3df6db?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -399,45 +401,45 @@ The Rule: Whenever you name a variable, function, or class, ask if it is concise
 ![](https://cdn.hackernoon.com/drafts/d31e3yzi.png)
 Designing software systems is about tradeoffs and making tradeoff decisions is hard. You always feel like you are loosing one thing or the other but that’s not what we are going to talk about today.
 
-### [99. How To Integrate Security Testing Into Your Software Development Life Cycle](https://hackernoon.com/how-to-integrate-security-testing-into-your-software-development-life-cycle-0pdy36az)
+### [99. How to Organize Unit Tests for AI-Generated Code](https://hackernoon.com/how-to-organize-unit-tests-for-ai-generated-code)
+![](https://cdn.hackernoon.com/images/XVE3pTw8qwQ8eOlNqDgS53oAXBJ2-kj83elq.png)
+AI writes code faster than you can review it. Here's a structured unit testing method that keeps your codebase trustworthy and easy to maintain.
+
+### [100. How To Integrate Security Testing Into Your Software Development Life Cycle](https://hackernoon.com/how-to-integrate-security-testing-into-your-software-development-life-cycle-0pdy36az)
 ![](https://cdn.hackernoon.com/drafts/l0i83r15.png)
 
 
-### [100. Conditional Breakpoints: A Guide to Effective Debugging](https://hackernoon.com/conditional-breakpoints-a-guide-to-effective-debugging)
+### [101. Conditional Breakpoints: A Guide to Effective Debugging](https://hackernoon.com/conditional-breakpoints-a-guide-to-effective-debugging)
 ![](https://cdn.hackernoon.com/images/ogLjQOI8STUK2kIzi4UX9fhl1za2-gq93v3i.png)
 Master effective debugging with conditional breakpoints. Streamline your process, tackle complex bugs, and deliver higher-quality code with precision and power.
 
-### [101. Always Leave the Code Better than You Found It - Boy Scout Engineering 101](https://hackernoon.com/how-to-be-an-effective-boygirl-scout-engineer-q7r3z9e)
+### [102. Always Leave the Code Better than You Found It - Boy Scout Engineering 101](https://hackernoon.com/how-to-be-an-effective-boygirl-scout-engineer-q7r3z9e)
 ![](https://cdn.hackernoon.com/drafts/41hn3zs2.png)
 Most engineers have heard of the 'boyscout rule': 'Always leave the code better than you found it.' It's often been heralded as a magic cure for technical debt; if only all software engineers behaved like good citizens, our software wouldn't deteriorate so relentlessly.
 
-### [102. How to tell if your code actually sucks...](https://hackernoon.com/how-to-tell-if-your-code-actually-sucks-qx1u3tz5)
+### [103. How to tell if your code actually sucks...](https://hackernoon.com/how-to-tell-if-your-code-actually-sucks-qx1u3tz5)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FET4IJJCNUpaSMq1bfuPlxFNpAGy1-327q3xl1.jpeg?alt=media&token=ea6feb44-7e7a-4feb-b8fc-792f83e03e49)
 There is no better moment for me than starting a brand new project. 
 
-### [103. An Introduction to Test-Driven Development](https://hackernoon.com/an-introduction-to-test-driven-development-7pat3yeh)
+### [104. An Introduction to Test-Driven Development](https://hackernoon.com/an-introduction-to-test-driven-development-7pat3yeh)
 ![](https://cdn.hackernoon.com/drafts/kr2fp32ex.png)
 Test-driven development (TDD) is all the rage these days and has been a discussion topic for quite some time. If you are brand new to TDD, this article should serve as a good introduction to what TDD is, why it’s useful, what a typical TDD workflow looks like, and when to use TDD.
 
-### [104. Microservices and Service Mesh with Istio, Explained](https://hackernoon.com/microservices-and-service-mesh-with-istio-explained-eo1e3u7s)
+### [105. Microservices and Service Mesh with Istio, Explained](https://hackernoon.com/microservices-and-service-mesh-with-istio-explained-eo1e3u7s)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-qf3l3ure.jpeg?alt=media&token=36eacd7b-8005-40b3-95f4-507eb905c43a)
 Application builds when broken down into multiple smaller service components, are known as Microservices. When compared to the traditional Monolithic way, a Microservice Architecture treats each microservice as a standalone entity/module, essentially helping to ease the maintenance of its code and related infrastructure. Each microservice of an application can be written in a different technology stack, and further be deployed, optimized and managed independently.
 
-### [105. 5 responsibilities of a Tech Lead and 17 Metrics to Track Their Performance](https://hackernoon.com/5-responsibilities-of-a-tech-lead-and-17-metrics-to-track-their-performance-fe203xmr)
+### [106. 5 responsibilities of a Tech Lead and 17 Metrics to Track Their Performance](https://hackernoon.com/5-responsibilities-of-a-tech-lead-and-17-metrics-to-track-their-performance-fe203xmr)
 ![](https://cdn.hackernoon.com/drafts/t74m3wap.png)
 Tech lead, team lead, software architects, and engineering managers — as any developer already knows, naming is hard. Throughout the industry, those roles are as fuzzy as their responsibilities.
 
-### [106. Modularity Concept in Java and .Net](https://hackernoon.com/modularity-concept-in-java-and-net-fwh3u1t)
+### [107. Modularity Concept in Java and .Net](https://hackernoon.com/modularity-concept-in-java-and-net-fwh3u1t)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-iv1n28xr.jpeg?alt=media&token=e4f3593f-60f6-4c20-a8d1-0282047cd8e9)
 Modularity is central to modern software engineering - or may be all type of engineering not just software. We’ll explore support for modularity in Java and .Net platforms, but before that let’s first try to find answers for what and why of modularity.
 
-### [107. How to Write Clean Code and Save Your Sanity ](https://hackernoon.com/how-to-write-clean-code-and-save-your-sanity)
+### [108. How to Write Clean Code and Save Your Sanity ](https://hackernoon.com/how-to-write-clean-code-and-save-your-sanity)
 ![](https://cdn.hackernoon.com/images/S0ghfRieyUPrITpL41YNPTuiHxZ2-qn92ban.png)
 Learn how to write clean code that will save you time, headaches, and sanity. This article covers practical strategies & tools to help you elevate your coding.
-
-### [108. How to Organize Unit Tests for AI-Generated Code](https://hackernoon.com/how-to-organize-unit-tests-for-ai-generated-code)
-![](https://cdn.hackernoon.com/images/XVE3pTw8qwQ8eOlNqDgS53oAXBJ2-kj83elq.png)
-AI writes code faster than you can review it. Here's a structured unit testing method that keeps your codebase trustworthy and easy to maintain.
 
 ### [109. Clean Code: Classes and Objects in TypeScript [Part 3]](https://hackernoon.com/clean-code-classes-and-objects-in-typescript-part-3)
 ![](https://cdn.hackernoon.com/images/erom0wkF6nZC8UOvFBqlbSeNR4J2-3893253.jpeg)
@@ -447,13 +449,13 @@ Learn how to write clean and maintainable code in TypeScript by following best p
 ![](https://images.unsplash.com/photo-1560415755-bd80d06eda60?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 We hear the term ‘continuous testing’ a lot in the software testing industry. It’s one of those buzzwords that just keeps coming up, time and time again.
 
-### [111. What are Unit Tests and Why Should You Write Them?](https://hackernoon.com/what-are-unit-tests-and-why-should-you-write-them)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ad037mg.jpeg)
-Unit tests might seem like a waste of time to a junior programmer, but they bring significant advantages with them such as faster checks that makes better code.
-
-### [112. Hacking Your Way Through Microservice Architecture](https://hackernoon.com/hacking-your-way-through-microservice-architecture-8o1c34pa)
+### [111. Hacking Your Way Through Microservice Architecture](https://hackernoon.com/hacking-your-way-through-microservice-architecture-8o1c34pa)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-xj3d3t33.jpeg?alt=media&token=08f801a6-b454-4587-a638-a217b5cddc2c)
 With an emerging pattern of organizations embracing the DevOps framework, adopting Microservice Architecture is steadily gaining the respect it deserves. 
+
+### [112. What are Unit Tests and Why Should You Write Them?](https://hackernoon.com/what-are-unit-tests-and-why-should-you-write-them)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ad037mg.jpeg)
+Unit tests might seem like a waste of time to a junior programmer, but they bring significant advantages with them such as faster checks that makes better code.
 
 ### [113. Building Your Own Toolbox with Extension Methods in C#](https://hackernoon.com/building-your-own-toolbox-with-extension-methods-f18q36op)
 ![](https://cdn.hackernoon.com/images/e1es936wq.jpg)
@@ -467,21 +469,21 @@ This article explores what good code is and shares some tenets of good structure
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-sbb3mrz.png)
 Recently, I had to deal with an old codebase that was difficult to maintain and scale. In this article, I'll share how my team and I decided to deal with maintenance and the best practices we implemented to reduce time spent on refactoring.
 
-### [116. The Secret To Succesully Simulate An Attack With Gremlin To Test Kubernetes](https://hackernoon.com/the-secret-to-succesully-simulate-an-attack-with-gremlin-to-test-kubernetes-i8113wa9)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-bl53unx.jpeg?alt=media&token=d0041558-4872-4ecb-9a8b-0117eb896aca)
-Gremlin is a leading software company focusing on chaos-test in the market. It also has a tool similar to Chaos Monkey which belongs to Netflix, but is more customized to test the system with random loads or scheduled shutdowns. In the article below we will be testing a simple Kubernetes cluster running on EKS with Chaos Test.
+### [116. Newbie React Developer? Watch Out for These 15 Common Mistakes ](https://hackernoon.com/newbie-react-developer-watch-out-for-these-15-common-mistakes)
+![](https://cdn.hackernoon.com/images/1Q2GB4CpCUMN5XiyaLtJfwCyuz83-1bc3ol5.jpeg)
+15 common mistakes that every newbie React developer ends up making
 
-### [117. A Guide to Using Data Classes in Python](https://hackernoon.com/a-guide-to-using-data-classes-in-python)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-is93wjc.jpeg)
-In "C" Language, you have structs. With the help of structs, we can define the return data type. You can do the same using classes in python.
-
-### [118. Biome.js: The New Challenger to Prettier and ESLint](https://hackernoon.com/biomejs-the-new-challenger-to-prettier-and-eslint)
+### [117. Biome.js: The New Challenger to Prettier and ESLint](https://hackernoon.com/biomejs-the-new-challenger-to-prettier-and-eslint)
 ![](https://cdn.hackernoon.com/images/mjoXxADu2oZKhegUIdv5VBTrlC12-ys83y2j.png)
 Explore the evolving landscape of JavaScript development tools with our analysis on whether the reign of Prettier and ESLint is coming to an end.
 
-### [119. Newbie React Developer? Watch Out for These 15 Common Mistakes ](https://hackernoon.com/newbie-react-developer-watch-out-for-these-15-common-mistakes)
-![](https://cdn.hackernoon.com/images/1Q2GB4CpCUMN5XiyaLtJfwCyuz83-1bc3ol5.jpeg)
-15 common mistakes that every newbie React developer ends up making
+### [118. A Guide to Using Data Classes in Python](https://hackernoon.com/a-guide-to-using-data-classes-in-python)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-is93wjc.jpeg)
+In "C" Language, you have structs. With the help of structs, we can define the return data type. You can do the same using classes in python.
+
+### [119. The Secret To Succesully Simulate An Attack With Gremlin To Test Kubernetes](https://hackernoon.com/the-secret-to-succesully-simulate-an-attack-with-gremlin-to-test-kubernetes-i8113wa9)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-bl53unx.jpeg?alt=media&token=d0041558-4872-4ecb-9a8b-0117eb896aca)
+Gremlin is a leading software company focusing on chaos-test in the market. It also has a tool similar to Chaos Monkey which belongs to Netflix, but is more customized to test the system with random loads or scheduled shutdowns. In the article below we will be testing a simple Kubernetes cluster running on EKS with Chaos Test.
 
 ### [120. Creating a Strong Code Quality Culture in Your Organization](https://hackernoon.com/creating-a-strong-code-quality-culture-in-your-organization)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-8093lwq.jpeg)
@@ -503,17 +505,17 @@ Ok! It's crucial to keep the code readable and maintainable. One of the easiest 
 ![](https://cdn.hackernoon.com/images/ocgb3yi4.jpg)
 Some will tell you that good code is self-documenting. In other words, if you write clear code then you won’t need comments.
 
-### [125. Setting Up Ruby on Rails On Github Using CircleCI [A How-To Guide]](https://hackernoon.com/setting-up-ruby-on-rails-on-github-using-circleci-a-how-to-guide-4nal328a)
+### [125. The Myths and Realities of Bug-Free Code](https://hackernoon.com/the-myths-and-realities-of-bug-free-code)
+![](https://cdn.hackernoon.com/images/yJx6Jb9xDbaeUH6oktJcQUQy9xR2-ji93lw7.jpeg)
+
+
+### [126. Setting Up Ruby on Rails On Github Using CircleCI [A How-To Guide]](https://hackernoon.com/setting-up-ruby-on-rails-on-github-using-circleci-a-how-to-guide-4nal328a)
 ![](https://cdn.hackernoon.com/images/aa1sd3y9e.jpg)
 This is the ultimate guide for your next Ruby on Rails project setup on Github with CircleCI for continuous integration in 2020.
 
-### [126. Introducing Microservices Security in Action ](https://hackernoon.com/introducing-microservices-security-in-action-o31r3twk)
+### [127. Introducing Microservices Security in Action ](https://hackernoon.com/introducing-microservices-security-in-action-o31r3twk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1SCS7hIaUigiIFRsobRz6cTsP7K2-r32p3u73.jpeg?alt=media&token=053351cc-3abc-4241-87e5-ed6f50084d74)
 The book Microservices Security in Action, which I authored with Nuwan Dias is now available to buy online from Amazon and Manning. Nuwan and I spent last 27+ months writing/re-writing the book. It was a marathon effort, but yet a great experience, and we both are very glad to see how it came out at the end! This is the story, which lead us to write the book.
-
-### [127. The Myths and Realities of Bug-Free Code](https://hackernoon.com/the-myths-and-realities-of-bug-free-code)
-![](https://cdn.hackernoon.com/images/yJx6Jb9xDbaeUH6oktJcQUQy9xR2-ji93lw7.jpeg)
-
 
 ### [128. Design Patterns: Singleton Pattern in Modern C++](https://hackernoon.com/design-patterns-singleton-pattern-in-modern-c-d0253uqz)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgxaG8fTrVzUm0EeycUPpXSDj69I3-aa62847.jpeg?alt=media&token=549fec21-9654-48d4-8503-f79ba757d689)
@@ -531,37 +533,37 @@ To create a useful revision history, teams should first agree on a commit messag
 ![](https://cdn.hackernoon.com/images/XyqHIwK0xDMOGdIf5iTNW4CrLjb2-8h9347c.png)
 An ex-tech lead's guide to create a healthy code review culture that helps you ship your code faster.
 
-### [132. Future of DevOps: DevSecOps, AIOps and something else?](https://hackernoon.com/future-of-devops-devsecops-aiops-and-something-else-2i8l36bn)
+### [132. 10 Expert Tips for Improving Code Reviews: A Guide for Developers](https://hackernoon.com/10-expert-tips-for-improving-code-reviews-a-guide-for-developers)
+![](https://cdn.hackernoon.com/images/OaKbDySLt9XUEwmFIQVq3BBEYot1-3893pux.jpeg)
+Code reviews are an essential part of the software development process. In this article, we'll discuss 10 best practices for conducting effective code reviews, 
+
+### [133. Future of DevOps: DevSecOps, AIOps and something else?](https://hackernoon.com/future-of-devops-devsecops-aiops-and-something-else-2i8l36bn)
 ![](https://images.unsplash.com/photo-1511578194003-00c80e42dc9b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 DevOps have become a popular term in the software industry since 2009. The primary reasons behind this increasing popularity are the high-speed and less-cost of development. DevOps were born to meet the increased software industry velocity. In comparison to DevOps, traditional Ops are 41% more time-consuming. 
 
-### [133. How Internal Developer Platforms Impact Your DevOps Team Success](https://hackernoon.com/how-internal-developer-platforms-impact-your-devops-team-success-vp1g34iu)
+### [134. How Internal Developer Platforms Impact Your DevOps Team Success](https://hackernoon.com/how-internal-developer-platforms-impact-your-devops-team-success-vp1g34iu)
 ![](https://cdn.hackernoon.com/images/s7cbkotRvZVD8SlJOLe5Odjd5tg1-ab2m3znh.png)
 This article takes a look at DevOps under the hood, with a deep dive into the use of Internal Developer Platforms to improve self-service and developer workflow
-
-### [134. 10 Expert Tips for Improving Code Reviews: A Guide for Developers](https://hackernoon.com/10-expert-tips-for-improving-code-reviews-a-guide-for-developers)
-![](https://cdn.hackernoon.com/images/OaKbDySLt9XUEwmFIQVq3BBEYot1-3893pux.jpeg)
-Code reviews are an essential part of the software development process. In this article, we'll discuss 10 best practices for conducting effective code reviews, 
 
 ### [135. How to Setup SonarQube Locally Using Docker](https://hackernoon.com/how-to-setup-sonarqube-locally-using-docker)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-p2035uw.jpeg)
 I will explain how you can set up SonarQube locally with docker.
 
-### [136. An Introductory Guide to Building a Website with Good Quality Code](https://hackernoon.com/an-introductory-guide-to-building-a-website-with-good-quality-code-7v2p34ny)
+### [136. Python @classmethod vs @staticmethod vs Module-level Functions](https://hackernoon.com/python-classmethod-vs-staticmethod-vs-module-level-functions)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1l92gs3.jpeg)
+When studying Python, you inevitably face the problem of choosing between static methods, class methods, and module-level functions
+
+### [137. An Introductory Guide to Building a Website with Good Quality Code](https://hackernoon.com/an-introductory-guide-to-building-a-website-with-good-quality-code-7v2p34ny)
 ![](https://cdn.hackernoon.com/images/MedHIICL4oSJ7Y2rxX4SKFASDIT2-eg93xsh.jpeg)
 Guaranteeing code quality when your website is in the development stage is a colossal task. However, even with a steady number of programming designers, keeping up code quality can be daunting. Without code quality tools and a reliable framework, the entire task can amount to enormous technical debt, doing more harm than good in the long haul.
 
-### [137. The Diffusion of Responsibility Phenomenon Analyzed: Unravel the Truth](https://hackernoon.com/the-diffusion-of-responsibility-phenomenon-analyzed-unravel-the-truth-hj2s3340)
+### [138. The Diffusion of Responsibility Phenomenon Analyzed: Unravel the Truth](https://hackernoon.com/the-diffusion-of-responsibility-phenomenon-analyzed-unravel-the-truth-hj2s3340)
 ![](https://cdn.hackernoon.com/images/T2AaUwTE4SVmQY1m9qNrnikr3Zg1-0e933rw.jpeg)
 Data-based analysis shows that Collective Code Ownership can do harm and affected code areas can probably become hotspots of maintenance.
 
-### [138. Hack Your Technical Debt: The 1% Better Every Day Challenge](https://hackernoon.com/hack-your-technical-debt-the-1percent-better-every-day-challenge-9k5c31pe)
+### [139. Hack Your Technical Debt: The 1% Better Every Day Challenge](https://hackernoon.com/hack-your-technical-debt-the-1percent-better-every-day-challenge-9k5c31pe)
 ![](https://cdn.hackernoon.com/images/wTLXRHcYZvU57CVqgls1STwilUg2-2mc312q.jpeg)
 It's easy for technical debt to grow in our codebase. Commit to spending 20 minutes a day for 30 days to tackling technical debt and get 1% better every day.
-
-### [139. Python @classmethod vs @staticmethod vs Module-level Functions](https://hackernoon.com/python-classmethod-vs-staticmethod-vs-module-level-functions)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1l92gs3.jpeg)
-When studying Python, you inevitably face the problem of choosing between static methods, class methods, and module-level functions
 
 ### [140. 5 Metrics to Track when Refactoring your Codebase](https://hackernoon.com/5-metrics-to-track-when-refactoring-your-codebase)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-3h43bth.jpeg)
@@ -571,25 +573,25 @@ Code refactoring provides a well-needed mental break for developers, and I thin
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-14f28vc.jpeg?alt=media&token=bf138875-a1f4-4161-ba45-58d7862f26bc)
 Most of what I will discuss in this article is knowledge accumulated from reading, “Functional Programming in JavaScript”, by Luis Atencio. Let’s dig right in…
 
-### [142. Code Reviews: A Practice That Depends on Culture](https://hackernoon.com/code-review-a-practice-that-depends-on-the-culture-tyh3z7o)
+### [142. The Engineer's Complete Guide to Backlog Grooming📝](https://hackernoon.com/the-engineers-complete-guide-to-backlog-grooming)
+![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-if03853.jpeg)
+Without organization, backlogs get messy quickly, and issues can’t be prioritized.
+
+### [143. Code Reviews: A Practice That Depends on Culture](https://hackernoon.com/code-review-a-practice-that-depends-on-the-culture-tyh3z7o)
 ![](https://cdn.hackernoon.com/drafts/6p1732mn.png)
 It would be way easier for managers if they could only draw a flow chart explaining how code review works. The manager then would email all the peers, telling everyone should follow the new process.
 
-### [143. 5 Best Practices for Writing Efficient Python Code](https://hackernoon.com/5-best-practices-for-writing-efficient-python-code)
+### [144. 5 Best Practices for Writing Efficient Python Code](https://hackernoon.com/5-best-practices-for-writing-efficient-python-code)
 ![](https://cdn.hackernoon.com/images/mZGnGVFc4QQ9Dzv5a5vjYGpkHLS2-y993663.jpeg)
 In this article, we'll discuss some basic principles of coding in python that can help you optimize your programs' performance. 
-
-### [144. Move Business Logic out of Application Using Higson Engine](https://hackernoon.com/move-business-logic-out-of-application-using-hyperon-engine-6on3tzz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-d7r28fs.jpeg?alt=media&token=16e81a37-0cc3-4b99-a704-49923363b696)
-Well-written multitier applications consist of multiple layers. The most widespread three-tier architecture divides our code into a presentation, business and data access tiers. Like it or not, but the business layer is where we, developers, spend the most time on a daily basis. This is the place where all processes and decisions our application depends on take place. Therefore, requirements for the business layer change more often than in any other layer. What hurts us, developers, most is that with every change, even the smallest ones, we need to recompile and rebuild our app. It usually takes a piece of the valuable time that we could use for more interesting things. What if we could move a business logic out of our code and let non-technician people change it?
 
 ### [145. Avoiding the Pitfalls of Unit Test High Code Coverage With TDD](https://hackernoon.com/avoiding-the-pitfalls-of-unit-test-high-code-coverage-with-tdd)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6s92igx.jpeg)
 High unit test code coverage is often viewed as a key indicator of code quality, but it's important to focus on the quality of the unit tests, not just the cod
 
-### [146. The Engineer's Complete Guide to Backlog Grooming📝](https://hackernoon.com/the-engineers-complete-guide-to-backlog-grooming)
-![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-if03853.jpeg)
-Without organization, backlogs get messy quickly, and issues can’t be prioritized.
+### [146. Move Business Logic out of Application Using Higson Engine](https://hackernoon.com/move-business-logic-out-of-application-using-hyperon-engine-6on3tzz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-d7r28fs.jpeg?alt=media&token=16e81a37-0cc3-4b99-a704-49923363b696)
+Well-written multitier applications consist of multiple layers. The most widespread three-tier architecture divides our code into a presentation, business and data access tiers. Like it or not, but the business layer is where we, developers, spend the most time on a daily basis. This is the place where all processes and decisions our application depends on take place. Therefore, requirements for the business layer change more often than in any other layer. What hurts us, developers, most is that with every change, even the smallest ones, we need to recompile and rebuild our app. It usually takes a piece of the valuable time that we could use for more interesting things. What if we could move a business logic out of our code and let non-technician people change it?
 
 ### [147. Better Application Acceptance With LogRocket](https://hackernoon.com/better-application-acceptance-with-logrocket-522p36fw)
 ![](https://cdn.hackernoon.com/images/hgq63622.jpg)
@@ -599,69 +601,69 @@ Application Acceptance
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-8h1y29kd.jpeg)
 The domain design approach to software development contributes to solving a specific domain model. It revolves around the business model, linking execution to key business principles.
 
-### [149. You Absolutely Need To Read This To Master AWS Lambda [Part 1]](https://hackernoon.com/you-absolutely-need-to-read-this-to-master-aws-lambda-part-1-ydr3wcs)
+### [149. Can You Make a Bug on Purpose? ](https://hackernoon.com/can-you-make-a-bug-on-purpose)
+![](https://cdn.hackernoon.com/images/6NntkWOAQNfaPgaqGyH7qhbpUBa2-qm83bqt.jpeg)
+At first glance, the question “Can you make a bug on purpose?” may seem banal. However, if you think about it, everything doesn't seem so obvious anymore. 
+
+### [150. You Absolutely Need To Read This To Master AWS Lambda [Part 1]](https://hackernoon.com/you-absolutely-need-to-read-this-to-master-aws-lambda-part-1-ydr3wcs)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-ec5e3t78.jpeg?alt=media&token=23b4df8e-43b4-45a9-ab6f-2ced98c9a005)
 Welcome to the Serverless world. One of the first things you’ll hear about is AWS Lambda - and you’ll continue to keep hearing about it! While architecture can be serverless without Lambdas involved, it’s very often the key component within a serverless application. In the first post of this 3-part AWS Lambda Handbook series, we run through what is AWS Lambda, dialling back to basics with the various terminology, how to create a Lambda function and how to run it. 
 
-### [150. How to Stop Developers from Writing Low-Quality Code](https://hackernoon.com/how-to-stop-developers-from-writing-low-quality-code-fx3r3w51)
+### [151. How to Stop Developers from Writing Low-Quality Code](https://hackernoon.com/how-to-stop-developers-from-writing-low-quality-code-fx3r3w51)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fec8Z6KvJRRX64jAZmXiQ3hcoS282-zue2t7i.jpeg?alt=media&token=6bfa2ae8-ae0e-4177-91cb-e052859ce682)
 Developers tend to go for getting things working, ending up with a working program, lacking the quality you would like to see. In this article I will explain how to get quality code as well.
 
-### [151. Technical Debt Horror Stories Shared by Developers (Part 1)](https://hackernoon.com/technical-debt-horror-stories-shared-by-developers-part-1-8b4z34w6)
+### [152. Technical Debt Horror Stories Shared by Developers (Part 1)](https://hackernoon.com/technical-debt-horror-stories-shared-by-developers-part-1-8b4z34w6)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-h31f348q.jpeg)
 I asked a bunch of developers to share some of their horror stories of technical debt.
-
-### [152. Can You Make a Bug on Purpose? ](https://hackernoon.com/can-you-make-a-bug-on-purpose)
-![](https://cdn.hackernoon.com/images/6NntkWOAQNfaPgaqGyH7qhbpUBa2-qm83bqt.jpeg)
-At first glance, the question “Can you make a bug on purpose?” may seem banal. However, if you think about it, everything doesn't seem so obvious anymore. 
 
 ### [153. Tests Automation with Examples: 'Click' Button Method in Selenium](https://hackernoon.com/tests-automation-with-examples-click-button-method-in-selenium-h43b3u0e)
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-fo83djk.jpeg)
 One of the most fundamental and crucial interactions while Selenium automation testing is done by automating click operations over elements on a web page. We facilitate the click interaction using a method called Selenium.click().
 
-### [154. The Technical Debt Illusion: From The Trenches](https://hackernoon.com/the-technical-debt-illusion-from-the-trenches-6b183z6d)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwvefEGRNhIhR7yesDIlFYFoNHUi1-k24b3wxj.jpeg?alt=media&token=d24f7c06-e53c-45c8-9665-ce34817b3a0a)
-Originally, the metaphor of technical debt was introduced to help us explain the need for refactoring software systems to upper management.
-
-### [155. Mastering Git and Version Control: A Beginner's Guide](https://hackernoon.com/mastering-git-and-version-control-a-beginners-guide)
+### [154. Mastering Git and Version Control: A Beginner's Guide](https://hackernoon.com/mastering-git-and-version-control-a-beginners-guide)
 ![](https://cdn.hackernoon.com/images/lsrpqdnkG3dZmeCVhPouglp4K6J3-gr9312t.jpeg)
 Understanding version control and mastering git - The basics...!! 
 
-### [156. How To Manage Technical Debt Properly](https://hackernoon.com/how-to-manage-a-technical-debt-properly-6p1533e6)
-![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-f41133wx.jpeg)
-We're used to thinking that you cannot deliver fast and maintain a healthy codebase. But does it really has to be a trade-off?
-
-### [157. Fundamental Concepts of Angular](https://hackernoon.com/fundamental-concepts-of-angular-c21l31qv)
+### [155. Fundamental Concepts of Angular](https://hackernoon.com/fundamental-concepts-of-angular-c21l31qv)
 ![](https://cdn.hackernoon.com/images/l13yNZx0OPN39hqL2pJ02CRRxsu1-w27831kc.jpeg)
 Fundamental Concepts of Angular for beginners to advanced level developers.
 
-### [158. To Log Or Not To Log, Is The (Eternal) Question](https://hackernoon.com/to-log-or-not-to-log-is-the-eternal-question-qj1k3xoy)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhQBwqEo8ONbruArF3hRXLWVANjA3-zx3v39ez.webp?alt=media&token=ce13c2be-3db4-4ba4-b68b-dac9a15ae79f)
-An alternative logging strategy to make loggers your friends, not enemies
+### [156. The Technical Debt Illusion: From The Trenches](https://hackernoon.com/the-technical-debt-illusion-from-the-trenches-6b183z6d)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwvefEGRNhIhR7yesDIlFYFoNHUi1-k24b3wxj.jpeg?alt=media&token=d24f7c06-e53c-45c8-9665-ce34817b3a0a)
+Originally, the metaphor of technical debt was introduced to help us explain the need for refactoring software systems to upper management.
 
-### [159. Fight Technical Debt With These 10 JetBrains Extensions](https://hackernoon.com/fight-technical-debt-with-these-10-jetbrains-extensions)
+### [157. How To Manage Technical Debt Properly](https://hackernoon.com/how-to-manage-a-technical-debt-properly-6p1533e6)
+![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-f41133wx.jpeg)
+We're used to thinking that you cannot deliver fast and maintain a healthy codebase. But does it really has to be a trade-off?
+
+### [158. Fight Technical Debt With These 10 JetBrains Extensions](https://hackernoon.com/fight-technical-debt-with-these-10-jetbrains-extensions)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-uh93h3w.jpeg)
 I see many Engineering teams under huge pressure to build fast and often lacking time to fix and clean up their codebase.
+
+### [159. To Log Or Not To Log, Is The (Eternal) Question](https://hackernoon.com/to-log-or-not-to-log-is-the-eternal-question-qj1k3xoy)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhQBwqEo8ONbruArF3hRXLWVANjA3-zx3v39ez.webp?alt=media&token=ce13c2be-3db4-4ba4-b68b-dac9a15ae79f)
+An alternative logging strategy to make loggers your friends, not enemies
 
 ### [160. Swift Dependency Injection With Functions](https://hackernoon.com/swift-dependency-injection-with-functions-46233uvc)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhgqhfEDHPOXyiZYwL0oMeuvWtTp1-niu3ecj.jpeg?alt=media&token=7f6075c8-ed81-438a-8913-5aef05eb53f4)
 Implementing an architecture within an application can be challenging. There are rules we can follow (SOLID, Clean Architecture) and patterns to guide us (MVVM, MVP, MVI, Redux, …) but sometimes, things we thought were well established deserve a step back.
 
-### [161. Laravel Background Processes Analytics with Inspector](https://hackernoon.com/laravel-background-processes-analytics-with-inspector-ez513y6y)
-![](https://cdn.hackernoon.com/images/pDUI21JXq3hUt99Uzg6NBXjyGOB2-q0i37b2.jpeg)
-In this article I would show you how to turn on analytics in the dark side of your application: "background Jobs and scheduled Artisan commands execution".
-
-### [162. You’ll Never Fix It Later - How to Pull Your Team Out of the Quicksand](https://hackernoon.com/youll-never-fix-it-later-how-to-pull-your-team-out-of-the-quicksand)
+### [161. You’ll Never Fix It Later - How to Pull Your Team Out of the Quicksand](https://hackernoon.com/youll-never-fix-it-later-how-to-pull-your-team-out-of-the-quicksand)
 ![](https://cdn.hackernoon.com/images/EFourIMH3NfzbMz3nJuO3CtiwOa2-zf93p3p.jpeg)
 The more quick and dirty code you write, the more stuck you'll get with it blocking you from releasing any piece without a big bang. Pull yourself out.
 
-### [163. Technical Debt Management is Important: You Can’t Keep Building on a Broken System](https://hackernoon.com/technical-debt-management-is-important-you-cant-keep-building-on-a-broken-system-rr5b32bd)
-![](https://cdn.hackernoon.com/drafts/301w3yf1.png)
-Every software company has some amount of technical debt, which is additional development work created in the long-term by taking a shortcut in the short-term to get code out the door. Technical debt can take the form of poor design decisions, much-needed refactorings, technology upgrades, and outstanding bugs.
+### [162. Laravel Background Processes Analytics with Inspector](https://hackernoon.com/laravel-background-processes-analytics-with-inspector-ez513y6y)
+![](https://cdn.hackernoon.com/images/pDUI21JXq3hUt99Uzg6NBXjyGOB2-q0i37b2.jpeg)
+In this article I would show you how to turn on analytics in the dark side of your application: "background Jobs and scheduled Artisan commands execution".
 
-### [164. How to Improve Your CI/CD Workflow Using GitHub Actions](https://hackernoon.com/how-to-improve-your-cicd-workflow-using-github-actions-oj4b3v3j)
+### [163. How to Improve Your CI/CD Workflow Using GitHub Actions](https://hackernoon.com/how-to-improve-your-cicd-workflow-using-github-actions-oj4b3v3j)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-xy82rsj.jpeg)
 GitHub Actions is one of the most powerful tools that you can use if you are storing our code on this service repository. The idea is simple, you can design a complex workflow using automated tasks (called actions) in order to be activated and run when a commit is done in your repository.
+
+### [164. Technical Debt Management is Important: You Can’t Keep Building on a Broken System](https://hackernoon.com/technical-debt-management-is-important-you-cant-keep-building-on-a-broken-system-rr5b32bd)
+![](https://cdn.hackernoon.com/drafts/301w3yf1.png)
+Every software company has some amount of technical debt, which is additional development work created in the long-term by taking a shortcut in the short-term to get code out the door. Technical debt can take the form of poor design decisions, much-needed refactorings, technology upgrades, and outstanding bugs.
 
 ### [165. How to Prevent Code Reviews from Wasting Everyone’s Time](https://hackernoon.com/keep-code-review-from-wasting-everyones-time-u61v330oj)
 ![](https://cdn.hackernoon.com/drafts/rf1q3302y.png)
@@ -679,25 +681,25 @@ Open closed principle is the most simple one in the list of software design prin
 ![](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 SaaS companies offer a lot of flexibility when it comes to providing essential software solutions to their customers. They have an added advantage of being easily accessible and that too on all kinds of devices. As a result, the modern age businesses are rapidly switching to these solutions provided by SaaS vendors. 
 
-### [169. Is Your Code Overly Complex?](https://hackernoon.com/is-your-code-overly-complex)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-dd93wvi.jpeg)
-Cyclomatic is one way to measure code complexity - but it isn't a great option. We look at two metrics - Cyclomatic Complexity and Cognitive Complexity.
-
-### [170. Navigating the Debugging Abyss: Conquering Mobile App Bugs in an Adrenaline-Fueled Adventure](https://hackernoon.com/navigating-the-debugging-abyss-conquering-mobile-app-bugs-in-an-adrenaline-fueled-adventure)
+### [169. Navigating the Debugging Abyss: Conquering Mobile App Bugs in an Adrenaline-Fueled Adventure](https://hackernoon.com/navigating-the-debugging-abyss-conquering-mobile-app-bugs-in-an-adrenaline-fueled-adventure)
 ![](https://cdn.hackernoon.com/images/ogLjQOI8STUK2kIzi4UX9fhl1za2-gp93v63.jpeg)
 A story of the ups and downs of debugging a new mobile app, full of unexpected twists and turns.
 
-### [171. Understanding JavaScript Generators And Basic Use-Cases](https://hackernoon.com/understanding-javascript-generators-and-basic-use-cases-im1o3t96)
+### [170. Is Your Code Overly Complex?](https://hackernoon.com/is-your-code-overly-complex)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-dd93wvi.jpeg)
+Cyclomatic is one way to measure code complexity - but it isn't a great option. We look at two metrics - Cyclomatic Complexity and Cognitive Complexity.
+
+### [171. The Code Is the Documentation; a Paradox That Rings True](https://hackernoon.com/the-code-is-the-documentation-a-paradox-that-rings-true)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-cy93pvb.jpeg)
+The first time I heard someone say: “the code is the documentation”, I thought it sounded completely wrong, like a lazy excuse for not producing documentation.
+
+### [172. Understanding JavaScript Generators And Basic Use-Cases](https://hackernoon.com/understanding-javascript-generators-and-basic-use-cases-im1o3t96)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBnMb3F4vjTb8PuRduWJNBwABhlb2-jw3r3u9t.jpeg?alt=media&token=d1e0efbb-10ab-4705-b1e8-5a0436bd3916)
 In one of my many deep-dives about JavaScript, I came across generators. They looked interesting.
 
-### [172. Replace Comments With Better Code](https://hackernoon.com/replace-comments-with-better-code-2u6v3y3n)
+### [173. Replace Comments With Better Code](https://hackernoon.com/replace-comments-with-better-code-2u6v3y3n)
 ![](images/ml1032s5.jpg)
 Hi, I’m Valerio, software engineer from Italy.
-
-### [173. The Code Is the Documentation; a Paradox That Rings True](https://hackernoon.com/the-code-is-the-documentation-a-paradox-that-rings-true)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-cy93pvb.jpeg)
-The first time I heard someone say: “the code is the documentation”, I thought it sounded completely wrong, like a lazy excuse for not producing documentation.
 
 ### [174. Approaching Unit Testing in iOS Correctly](https://hackernoon.com/approaching-unit-testing-in-ios-correctly-lmr3u13)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FsKUg89yJOWchW3oscCcEhyRkcjj1-fd2d3uoa.jpeg?alt=media&token=1fa605c5-8559-4ba8-a35a-7e0681e9eda9)
@@ -731,74 +733,74 @@ In this article, I will demonstrate the testing approach I’ve been using succe
 ![](https://cdn.hackernoon.com/images/veOFc5GVmFPRVEhxrM5XQ7wCvtE2-2i83z3q.jpeg)
 Explore the concept of PR stacking in software development, its benefits, tools to use, and strategies for effective implementation.
 
-### [182. Types of Crypto Wallets and How to Choose Best Crypto wallet](https://hackernoon.com/5-best-practices-for-qa-teams-0y1i31e0)
+### [182. API Automation: 5 Areas to Focus on](https://hackernoon.com/api-automation-5-areas-to-focus-on)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ue92aoe.jpeg)
+API automation goes beyond testing: here are 5 automation areas to focus on in your API program.
+
+### [183. Types of Crypto Wallets and How to Choose Best Crypto wallet](https://hackernoon.com/5-best-practices-for-qa-teams-0y1i31e0)
 ![](https://cdn.hackernoon.com/images/1CX70Mj6Vpend8NpmIgWJwciyeH2-hs94311l.jpeg)
 For software quality-assurance testers and engineers, acquiring new skills has never been more important. However, according to the O * NET Career Portal, the number of QA jobs is expected to grow modestly over the next decade - if "faster than average" —7%, so this growth will not match the skyrocketing demand for information-security practitioners and software. Developers.
 
 
-### [183. API Automation: 5 Areas to Focus on](https://hackernoon.com/api-automation-5-areas-to-focus-on)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ue92aoe.jpeg)
-API automation goes beyond testing: here are 5 automation areas to focus on in your API program.
-
-### [184. What Fixing a Bug Looks Like](https://hackernoon.com/what-fixing-a-bug-looks-like)
-![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-fl92i4z.jpeg)
-It’s impossible to write code without bugs— you always start with something, test it, and repair whatever is wrong.
-
-### [185. How I Refactored a SPA Project](https://hackernoon.com/how-i-refactored-a-spa-project)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-fw93pcb.jpeg)
-In this article, I’m not gonna talk about specific code refactoring details but some critical issues of this project.
-
-### [186. 10 Ways to Prevent and Manage Technical Debt—Tips from Developers](https://hackernoon.com/10-ways-to-prevent-and-manage-technical-debttips-from-developers-3lf319c)
-![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-qb3y34gr.png)
-Developers deal with technical debt every day, and they know how to prevent and manage it better than anyone else. Here’s just some of what they had to say.
-
-### [187. Property-Based Testing: The Diamond Kata, First and Last Line Content](https://hackernoon.com/property-based-testing-the-diamond-kata-first-and-last-line-content-2h1x3tpf)
+### [184. Property-Based Testing: The Diamond Kata, First and Last Line Content](https://hackernoon.com/property-based-testing-the-diamond-kata-first-and-last-line-content-2h1x3tpf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrOw0Onz89OS0UxIVcFu3kwP0u2B3-tj173val.jpeg?alt=media&token=a14b3951-8cc5-49c9-9470-d5a13cc672c3)
 Intro
 
-### [188. How to Create A Detailed Description for Your Pull Request](https://hackernoon.com/how-to-create-a-detailed-description-for-your-pull-request-2d1x3uck)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-9de3ub2.gif?alt=media&token=5091db9c-ce9b-4909-b525-998ec069bdde)
-Many developers are familiar with the situation like “where did this code fragment come from and why is it needed?”. You have to spend time and deal with the details already considered by another colleague. How to make it take a less amount of time? To achieve this, pay attention to a process of writing descriptions for Pull Requests (known as “PRs”) and Merge Requests (known as “MRs”). This article will focus on the content of the PR description without any explanation of coding since each project has its own coding-related specifications and requirements.
+### [185. What Fixing a Bug Looks Like](https://hackernoon.com/what-fixing-a-bug-looks-like)
+![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-fl92i4z.jpeg)
+It’s impossible to write code without bugs— you always start with something, test it, and repair whatever is wrong.
 
-### [189. Code Smell 238 - Dealing With Entangled Code](https://hackernoon.com/code-smell-238-dealing-with-entangled-code)
+### [186. How I Refactored a SPA Project](https://hackernoon.com/how-i-refactored-a-spa-project)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-fw93pcb.jpeg)
+In this article, I’m not gonna talk about specific code refactoring details but some critical issues of this project.
+
+### [187. 10 Ways to Prevent and Manage Technical Debt—Tips from Developers](https://hackernoon.com/10-ways-to-prevent-and-manage-technical-debttips-from-developers-3lf319c)
+![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-qb3y34gr.png)
+Developers deal with technical debt every day, and they know how to prevent and manage it better than anyone else. Here’s just some of what they had to say.
+
+### [188. Code Smell 238 - Dealing With Entangled Code](https://hackernoon.com/code-smell-238-dealing-with-entangled-code)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-jo831du.jpeg)
 Learn practical solutions to common Python code problems related to readability and scoping.
 
-### [190. How to Limit the Ever-growing Execution Time of E2E Tests](https://hackernoon.com/how-to-limit-the-ever-growing-execution-time-of-e2e-tests)
+### [189. How to Limit the Ever-growing Execution Time of E2E Tests](https://hackernoon.com/how-to-limit-the-ever-growing-execution-time-of-e2e-tests)
 ![](https://cdn.hackernoon.com/images/programmer-waiting-for-his-code-to-run-clg3ijs85000001s64yi3h8mk.png)
 Maintaining the same E2E coverage will require more and more tests—and their execution time will add up.
 
-### [191. A-Z Of DevOps: Managing Multiple Environments With The Help Of These Tools](https://hackernoon.com/a-z-of-devops-managing-multiple-environments-with-the-help-of-these-tools-n6x3thm)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-jri3wkl.jpeg?alt=media&token=f426108c-935c-479a-8074-3cf6c984b9e1)
-In most DevOps settings you’ll find that there are multiple environments in the pipeline. You might have conditions that change the environment based on which branch was merged or when a branch is tagged for release. There are a number of reasons you want to have more than just a production environment, the biggest reason being testing.
+### [190. How to Create A Detailed Description for Your Pull Request](https://hackernoon.com/how-to-create-a-detailed-description-for-your-pull-request-2d1x3uck)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-9de3ub2.gif?alt=media&token=5091db9c-ce9b-4909-b525-998ec069bdde)
+Many developers are familiar with the situation like “where did this code fragment come from and why is it needed?”. You have to spend time and deal with the details already considered by another colleague. How to make it take a less amount of time? To achieve this, pay attention to a process of writing descriptions for Pull Requests (known as “PRs”) and Merge Requests (known as “MRs”). This article will focus on the content of the PR description without any explanation of coding since each project has its own coding-related specifications and requirements.
 
-### [192. The FAQs of React Native](https://hackernoon.com/the-faqs-of-react-native-5f183tnr)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-uad3tyc.jpeg?alt=media&token=ff0be117-816f-4a80-94db-5a1ef6a1eb0c)
-React Native is a framework created by Facebook that is used for building native apps using React. It is mainly used for developing applications for Android, iOS, and Web. It an open-source framework. So, today we will be checking out the 13 most asked React Native questions.
-
-### [193. RSpec Testing: Let Vs. Before](https://hackernoon.com/rspec-testing-let-vs-before-s2q83y16)
+### [191. RSpec Testing: Let Vs. Before](https://hackernoon.com/rspec-testing-let-vs-before-s2q83y16)
 ![](https://cdn.hackernoon.com/images/5e3hf3yln.jpg)
 In RSpec, there are two different ways to write DRY tests, by using before or let. Their purpose is to create variables that are common across tests. In this post, we will explore differences between before and let and explain why let is preferred by the Ruby community.
 
-### [194. How To Adopt TDD In Your Team](https://hackernoon.com/how-to-adopt-tdd-in-your-team-xu1p35cx)
-![](https://hackernoon.com/images/NpaehOQoGBPqOE9e9tWoQNotegK2-n96d33sk.jpeg)
-This is the first in a series of blog posts in which we outline the benefits of TDD for your organization and what are the projects to consider while adopting this agile process. Link of Part Two.
+### [192. A-Z Of DevOps: Managing Multiple Environments With The Help Of These Tools](https://hackernoon.com/a-z-of-devops-managing-multiple-environments-with-the-help-of-these-tools-n6x3thm)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-jri3wkl.jpeg?alt=media&token=f426108c-935c-479a-8074-3cf6c984b9e1)
+In most DevOps settings you’ll find that there are multiple environments in the pipeline. You might have conditions that change the environment based on which branch was merged or when a branch is tagged for release. There are a number of reasons you want to have more than just a production environment, the biggest reason being testing.
 
-### [195. Getting the Best Out of Code Reviews](https://hackernoon.com/getting-the-best-out-of-code-reviews)
+### [193. Getting the Best Out of Code Reviews](https://hackernoon.com/getting-the-best-out-of-code-reviews)
 ![](https://cdn.hackernoon.com/images/rTGkuSmEEIdJxS4Bj7H8MUxQhOg2-kj93vev.jpeg)
 Explore the intricate balance of art and science in code reviews. Dive into techniques for effective feedback, and a collaborative culture. 
+
+### [194. The FAQs of React Native](https://hackernoon.com/the-faqs-of-react-native-5f183tnr)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-uad3tyc.jpeg?alt=media&token=ff0be117-816f-4a80-94db-5a1ef6a1eb0c)
+React Native is a framework created by Facebook that is used for building native apps using React. It is mainly used for developing applications for Android, iOS, and Web. It an open-source framework. So, today we will be checking out the 13 most asked React Native questions.
+
+### [195. How To Adopt TDD In Your Team](https://hackernoon.com/how-to-adopt-tdd-in-your-team-xu1p35cx)
+![](https://hackernoon.com/images/NpaehOQoGBPqOE9e9tWoQNotegK2-n96d33sk.jpeg)
+This is the first in a series of blog posts in which we outline the benefits of TDD for your organization and what are the projects to consider while adopting this agile process. Link of Part Two.
 
 ### [196. How To Release Your Software Without Losing Your Hair: Feature Flags Technique](https://hackernoon.com/how-to-release-your-software-without-losing-your-hair-feature-flags-technique-2b9r3y4m)
 ![](https://cdn.hackernoon.com/drafts/yvp03yn9.png)
 Anyone who has ever released software to customers before I’m sure has suffered from the stress and anxiety it can cause when you’re hoping and praying everything will work just as it did during testing once it’s in production.
 
-### [197. Why To Prefer JSX Over JSON-like Objects For Building React Components ](https://hackernoon.com/why-to-prefer-jsx-over-json-like-objects-for-building-react-components-3p1w31sf)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-30u287l.jpeg)
-Imagine you have several blocks of similar layout which are hard-coded on the frontend side. These blocks are not dynamic, they are not being fetched from back-end, it’s just a layout. Most beginners, when they see similar blocks of layout, start to think about arrays as a tool to handle similar stuff. 
-
-### [198. 5 Ways To Fortify Your Code Against Memory Leaks](https://hackernoon.com/5-ways-to-fortify-your-code-against-memory-leaks)
+### [197. 5 Ways To Fortify Your Code Against Memory Leaks](https://hackernoon.com/5-ways-to-fortify-your-code-against-memory-leaks)
 ![](https://cdn.hackernoon.com/images/code-displayed-on-a-laptop-c6noap4wxuwe8cxvem0m5dmq.png)
 Learn 5 practical, no-BS techniques to prevent memory leaks in Java, .NET, and React. Improve performance, reduce crashes, and debug less at 3 a.m.
+
+### [198. Why To Prefer JSX Over JSON-like Objects For Building React Components ](https://hackernoon.com/why-to-prefer-jsx-over-json-like-objects-for-building-react-components-3p1w31sf)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-30u287l.jpeg)
+Imagine you have several blocks of similar layout which are hard-coded on the frontend side. These blocks are not dynamic, they are not being fetched from back-end, it’s just a layout. Most beginners, when they see similar blocks of layout, start to think about arrays as a tool to handle similar stuff. 
 
 ### [199. Real-time Notifications for Jenkins Jobs with CatLight](https://hackernoon.com/real-time-notifications-for-jenkins-jobs-with-catlight-pa3b3ymq)
 ![](https://cdn.hackernoon.com/drafts/7v7d3ytm.png)
@@ -816,87 +818,87 @@ Code review is an essential step needed for effective software development.
 ![](https://cdn.hackernoon.com/images/9c3r3xjn.jpg)
 As a full-stack web developer, I'm building different websites by writing code every single day. Experiencing several situations including solving problems and fixing errors.
 
-### [203. A Video Game, a Fighter Plane, and a Story to Explain Technical Debt – Even to Non-Technical People](https://hackernoon.com/a-video-game-a-fighter-plane-and-a-story-to-explain-technical-debt---even-to-non-technical-people-z667377g)
-![](https://cdn.hackernoon.com/images/kn1rWIMzXRg4Yiw8IUE5LTAkpIq2-43k35oy.jpeg)
-Imagine you are a project manager building a historic fighter plane in a video game. A technical debt story about white stripes on a fighter plane.
-
-### [204. A Brief Intro to Legacy Code](https://hackernoon.com/a-brief-intro-to-legacy-code)
+### [203. A Brief Intro to Legacy Code](https://hackernoon.com/a-brief-intro-to-legacy-code)
 ![](https://cdn.hackernoon.com/images/lOFDMtkQjMXN1CY1B96XPnzDo633-ew93opp.jpeg)
 Let's talk about legacy code and its refactoring
 
-### [205. The Significance of Using a Standardized QA Procedure](https://hackernoon.com/the-significance-of-using-a-standardized-qa-procedure-9n5y35av)
-![](https://cdn.hackernoon.com/images/R8aLhmiN8rUgojf5QE8E0wAqhU73-nr93576.jpeg)
-By standardization, we do not expect you to do expensive changes in your complete quality assurance procedure. 
+### [204. A Video Game, a Fighter Plane, and a Story to Explain Technical Debt – Even to Non-Technical People](https://hackernoon.com/a-video-game-a-fighter-plane-and-a-story-to-explain-technical-debt---even-to-non-technical-people-z667377g)
+![](https://cdn.hackernoon.com/images/kn1rWIMzXRg4Yiw8IUE5LTAkpIq2-43k35oy.jpeg)
+Imagine you are a project manager building a historic fighter plane in a video game. A technical debt story about white stripes on a fighter plane.
 
-### [206. Open Closed Principle: SOLID as a Rock ](https://hackernoon.com/open-closed-principle-solid-as-a-rock-xyd43y0g)
-![](https://images.unsplash.com/photo-1513710239666-c29e2c09dc32?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-This is the second part of a five-part series about SOLID as Rock design principle. The SOLID design principles, when combined together, make it easy for a programmer to craft software that is easy to maintain, reuse & extend. Open-Closed Principle(OCP) is the second principle in this series which I will discuss here with minimalistic example in Modern C++ along with its benefits & generic guideline.
-
-### [207. The Importance Of Bug Bounty Programs](https://hackernoon.com/the-importance-of-bug-bounty-programs-zw15344v)
+### [205. The Importance Of Bug Bounty Programs](https://hackernoon.com/the-importance-of-bug-bounty-programs-zw15344v)
 ![](https://cdn.hackernoon.com/images/olethIkYezffGDr8sRCw1OREkSC2-xj1u33do.jpeg)
 A bug bounty program is one of the elements ensuring projects protection against cyberattacks that does not fully substitute other forms of security testing bug
 
-### [208. How The Modern Web Test Automation Is Changing Our Lives ](https://hackernoon.com/how-the-modern-web-test-automation-is-changing-our-lives-ect34hk)
-![](https://cdn.hackernoon.com/images/NsfMTonKQnhElbfCcI8FkfUJPCm1-i72s36xe.jpeg)
-This article leaves you with the thought of the importance of imagining and implementing solutions to help the test automation world evolve swiftly.
+### [206. The Significance of Using a Standardized QA Procedure](https://hackernoon.com/the-significance-of-using-a-standardized-qa-procedure-9n5y35av)
+![](https://cdn.hackernoon.com/images/R8aLhmiN8rUgojf5QE8E0wAqhU73-nr93576.jpeg)
+By standardization, we do not expect you to do expensive changes in your complete quality assurance procedure. 
 
-### [209. Your First Line of Defense for Clean Code is Pre-Commit: How to Set It Up](https://hackernoon.com/your-first-line-of-defense-for-clean-code-is-pre-commit-how-to-set-it-up)
-![](https://cdn.hackernoon.com/images/80GCIkUYafN4CuD0lzzMUyrYyv82-7m02bcv.webp)
-This article describes pre-commit, a framework for managing and running git hooks to automate code quality checks before code is committed. 
-
-### [210. Code Coverage: I Don't Think You Know What This Means](https://hackernoon.com/code-coverage-i-dont-think-you-know-what-this-means)
-![](https://cdn.hackernoon.com/images/6ixVq5iRlvXhMFAD2odSTfEkIhI3-z582wdz.jpeg)
-Code coverage is a poor metric for indicating whether or not your code has been tested well. Instead, we should invert the metric.
-
-### [211. Measuring Sprint Velocity](https://hackernoon.com/measuring-sprint-velocity)
-![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-pra3jul.png)
-We’re going to look at what sprint velocity is, how it can affect your development cycle, and what formulas you can use to measure sprint velocity.
-
-### [212. “Perfect” AI Code Won’t Fix Your Legacy Stack](https://hackernoon.com/perfect-ai-code-wont-fix-your-legacy-stack)
+### [207. “Perfect” AI Code Won’t Fix Your Legacy Stack](https://hackernoon.com/perfect-ai-code-wont-fix-your-legacy-stack)
 ![](https://cdn.hackernoon.com/images/pQVq0y7J0tbAAm0KgsfHr9hbG3B2-vb83ccx.png)
 AI can generate code fast, but it won’t fix legacy systems. The real productivity gains come from maintenance, iteration, and engineering discipline.
 
-### [213. Junior Devs, Let's Talk About Balancing Code Quality and Your Speed of Delivery](https://hackernoon.com/junior-devs-lets-talk-about-balancing-code-quality-and-your-speed-of-delivery)
-![](https://cdn.hackernoon.com/images/gfw4NxkUQKPp2R0AkcTiS85lGiG2-3293tdc.jpeg)
-Junior developers often find themselves caught in a dilemma between delivering code quickly and ensuring high code quality.
+### [208. Open Closed Principle: SOLID as a Rock ](https://hackernoon.com/open-closed-principle-solid-as-a-rock-xyd43y0g)
+![](https://images.unsplash.com/photo-1513710239666-c29e2c09dc32?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+This is the second part of a five-part series about SOLID as Rock design principle. The SOLID design principles, when combined together, make it easy for a programmer to craft software that is easy to maintain, reuse & extend. Open-Closed Principle(OCP) is the second principle in this series which I will discuss here with minimalistic example in Modern C++ along with its benefits & generic guideline.
 
-### [214. Tips About TestNG Listeners In Selenium WebDriver With Examples](https://hackernoon.com/tips-about-testng-listeners-in-selenium-webdriver-with-examples-ds1631dr)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-eef3150.jpeg)
-There are different interfaces provided by Java that allows you to modify TestNG behaviour. These interfaces are further known as TestNG Listeners in Selenium WebDriver. TestNG Listeners also allows you to customize the tests logs or report according to your project requirements. TestNG Listeners in Selenium WebDriver are modules that listens to certain events and keep track of test execution while performing some action at every stage of test execution.
+### [209. How The Modern Web Test Automation Is Changing Our Lives ](https://hackernoon.com/how-the-modern-web-test-automation-is-changing-our-lives-ect34hk)
+![](https://cdn.hackernoon.com/images/NsfMTonKQnhElbfCcI8FkfUJPCm1-i72s36xe.jpeg)
+This article leaves you with the thought of the importance of imagining and implementing solutions to help the test automation world evolve swiftly.
 
-### [215. The FAQs of RuboCup](https://hackernoon.com/the-faqs-of-rubocup-rh103t7v)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-sxe3tkd.jpeg?alt=media&token=52cb94c5-b674-457e-bfc4-e9fe22e9ccc1)
-RuboCop is a Ruby static code analyzer and code formatter which helps to track errors easily and fix minor code issues during the development process saving your time. It has many advantages and you can learn more about RuboCop on https://docs.rubocop.org/en/stable/. 
+### [210. Your First Line of Defense for Clean Code is Pre-Commit: How to Set It Up](https://hackernoon.com/your-first-line-of-defense-for-clean-code-is-pre-commit-how-to-set-it-up)
+![](https://cdn.hackernoon.com/images/80GCIkUYafN4CuD0lzzMUyrYyv82-7m02bcv.webp)
+This article describes pre-commit, a framework for managing and running git hooks to automate code quality checks before code is committed. 
 
-### [216. How Engineering Leaders Can Prioritize Code Quality](https://hackernoon.com/how-engineering-leaders-can-prioritize-code-quality)
+### [211. Code Coverage: I Don't Think You Know What This Means](https://hackernoon.com/code-coverage-i-dont-think-you-know-what-this-means)
+![](https://cdn.hackernoon.com/images/6ixVq5iRlvXhMFAD2odSTfEkIhI3-z582wdz.jpeg)
+Code coverage is a poor metric for indicating whether or not your code has been tested well. Instead, we should invert the metric.
+
+### [212. How Engineering Leaders Can Prioritize Code Quality](https://hackernoon.com/how-engineering-leaders-can-prioritize-code-quality)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-4yg3rxj.jpeg)
 Learn why code quality matters, the most important metrics you need to manage quality, and how to track and manage code quality issues.
 
-### [217. How to Make a Code Review When You Are a Single Developer](https://hackernoon.com/how-to-make-a-code-review-when-you-are-a-single-developer)
-![](https://cdn.hackernoon.com/images/ywP6lqUWgDZe6JgG6wbfGzPMHOC2-wi92p45.jpeg)
-An April Fool's Day jo article about making an "independent" code review by an author of that code using his/her brain's hemispheres.
+### [213. Measuring Sprint Velocity](https://hackernoon.com/measuring-sprint-velocity)
+![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-pra3jul.png)
+We’re going to look at what sprint velocity is, how it can affect your development cycle, and what formulas you can use to measure sprint velocity.
 
-### [218. Code Churn: How it Relates to Refactoring and Technical Debt](https://hackernoon.com/code-churn-how-it-relates-to-refactoring-and-technical-debt-dw3e333k)
+### [214. Junior Devs, Let's Talk About Balancing Code Quality and Your Speed of Delivery](https://hackernoon.com/junior-devs-lets-talk-about-balancing-code-quality-and-your-speed-of-delivery)
+![](https://cdn.hackernoon.com/images/gfw4NxkUQKPp2R0AkcTiS85lGiG2-3293tdc.jpeg)
+Junior developers often find themselves caught in a dilemma between delivering code quickly and ensuring high code quality.
+
+### [215. Tips About TestNG Listeners In Selenium WebDriver With Examples](https://hackernoon.com/tips-about-testng-listeners-in-selenium-webdriver-with-examples-ds1631dr)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-eef3150.jpeg)
+There are different interfaces provided by Java that allows you to modify TestNG behaviour. These interfaces are further known as TestNG Listeners in Selenium WebDriver. TestNG Listeners also allows you to customize the tests logs or report according to your project requirements. TestNG Listeners in Selenium WebDriver are modules that listens to certain events and keep track of test execution while performing some action at every stage of test execution.
+
+### [216. The FAQs of RuboCup](https://hackernoon.com/the-faqs-of-rubocup-rh103t7v)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-sxe3tkd.jpeg?alt=media&token=52cb94c5-b674-457e-bfc4-e9fe22e9ccc1)
+RuboCop is a Ruby static code analyzer and code formatter which helps to track errors easily and fix minor code issues during the development process saving your time. It has many advantages and you can learn more about RuboCop on https://docs.rubocop.org/en/stable/. 
+
+### [217. Code Churn: How it Relates to Refactoring and Technical Debt](https://hackernoon.com/code-churn-how-it-relates-to-refactoring-and-technical-debt-dw3e333k)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-ca1n33h1.jpeg)
 Code churn is a measure or indication of how often a file changes. It typically refers to how often a developer throws out code
 
-### [219. The Essential Data for Leading a Remote Engineering Team](https://hackernoon.com/the-essential-data-for-leading-a-remote-engineering-team-cz513yfx)
+### [218. How to Make a Code Review When You Are a Single Developer](https://hackernoon.com/how-to-make-a-code-review-when-you-are-a-single-developer)
+![](https://cdn.hackernoon.com/images/ywP6lqUWgDZe6JgG6wbfGzPMHOC2-wi92p45.jpeg)
+An April Fool's Day jo article about making an "independent" code review by an author of that code using his/her brain's hemispheres.
+
+### [219. How to Use Eslint With Webpack And ES6 Modules](https://hackernoon.com/how-to-use-eslint-with-webpack-and-es6-modules-sr4r3y6x)
+![](https://cdn.hackernoon.com/images/0s3z3yjs.jpg)
+Today we are going to talk about eslint and webpack. This is not going to teach you how to install eslint in your project, I will assume that you already did.
+
+### [220. The Dangers of Using async void Methods In C#](https://hackernoon.com/the-dangers-of-using-async-void-methods-in-c)
+![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-em834jm.jpeg)
+Learn why async void methods in C# can be dangerous with clear code examples. A perfect for beginner software engineers wanting to understand the risks.
+
+### [221. The Essential Data for Leading a Remote Engineering Team](https://hackernoon.com/the-essential-data-for-leading-a-remote-engineering-team-cz513yfx)
 ![](https://cdn.hackernoon.com/drafts/qto3yhb.png)
 When your team is building a software product, the majority of the work that they do is invisible. As a manager, you have to rely on in-person cues for blocked work or frustrated engineers. When they move to a remote workflow—your team also becomes invisible, and all those critical signals are dropped. 
 
 In-person, you might notice:
 
-### [220. Top 7 Project Management Instruments That Facilitate Remote Work](https://hackernoon.com/top-7-project-management-instruments-that-facilitate-remote-work-axv31pt)
+### [222. Top 7 Project Management Instruments That Facilitate Remote Work](https://hackernoon.com/top-7-project-management-instruments-that-facilitate-remote-work-axv31pt)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-rdk31d2.jpeg)
 Project Management for a team is an important task at the best of times. Many processes make a project successful- scheduling, planning, executing, and other stages. However, project management can get trickier when your team is distributed across the world and working remotely.
-
-### [221. How to Use Eslint With Webpack And ES6 Modules](https://hackernoon.com/how-to-use-eslint-with-webpack-and-es6-modules-sr4r3y6x)
-![](https://cdn.hackernoon.com/images/0s3z3yjs.jpg)
-Today we are going to talk about eslint and webpack. This is not going to teach you how to install eslint in your project, I will assume that you already did.
-
-### [222. The Dangers of Using async void Methods In C#](https://hackernoon.com/the-dangers-of-using-async-void-methods-in-c)
-![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-em834jm.jpeg)
-Learn why async void methods in C# can be dangerous with clear code examples. A perfect for beginner software engineers wanting to understand the risks.
 
 ### [223. So, You Read Accelerate. Now What?](https://hackernoon.com/so-you-read-accelerate-book-now-what-bc3d36pd)
 ![](https://cdn.hackernoon.com/drafts/a0m36uj.png)
@@ -914,41 +916,41 @@ In the article, we cover the topic of code refactoring and discuss the value of 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1RnOuupxq8gggw7RRWNO3Is7dDH3-v473tjt.jpeg?alt=media&token=2c54cc58-ebd8-4786-9431-832dacf17e4a)
 As developers, there always comes a time when we find a bug in production and wonder how it passed all our quality checks. The truth is that we can never be sure our code is bug free. We can only choose the tools and workflows which will find the most bugs without slowing us down too much.
 
-### [227. Maintain The Quality of Your Node.js Apps With These Best Practices](https://hackernoon.com/maintain-the-quality-of-your-nodejs-apps-with-these-best-practices-qj3237vu)
-![](https://cdn.hackernoon.com/images/gAd6KSigpJQlehhxE1ENz8dFG0z2-ybj35d0.jpeg)
-Node.js is an open-source, cross-platform, Javascript runtime environment for running javascript code outside the web browser.
-
-### [228. Selenium Testing: Running First Pytest Script](https://hackernoon.com/selenium-testing-running-first-pytest-script-iw193uqb)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfxHVEYXco2WRkm8ai6bgxpipw7g2-ebc63usv.webp?alt=media&token=34053b28-89de-4952-be3d-56888409a53d)
-Selenium as we know, is an open-source test suite used for cross-platform browser automation. Due to its popularity and ease of use, many compatible test frameworks with respect to different programming languages have been developed to extends support of Selenium for cross browser testing over multiple programming languages. Today we’re going to look into Selenium Python tutorial to run our first automation script using PyUnit framework with Selenium.
-
-### [229. How to Set Up a Team's Systems and Culture for Strong Code Reviews](https://hackernoon.com/how-to-set-up-a-teams-systems-and-culture-for-strong-code-reviews)
+### [227. How to Set Up a Team's Systems and Culture for Strong Code Reviews](https://hackernoon.com/how-to-set-up-a-teams-systems-and-culture-for-strong-code-reviews)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-4d930i7.jpeg)
 All software companies must take an intentional and structured approach to code reviews. Here are some tips on how to do that. 
 
-### [230. Securing Real-World Microservices With gRPC And Istio Service Mesh](https://hackernoon.com/securing-real-world-microservices-with-grpc-and-istio-service-mesh-c31x3u73)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-dgy4v3a.jpeg?alt=media&token=9508cef4-a09f-4ea7-8162-cb75d9eacc92)
+### [228. Maintain The Quality of Your Node.js Apps With These Best Practices](https://hackernoon.com/maintain-the-quality-of-your-nodejs-apps-with-these-best-practices-qj3237vu)
+![](https://cdn.hackernoon.com/images/gAd6KSigpJQlehhxE1ENz8dFG0z2-ybj35d0.jpeg)
+Node.js is an open-source, cross-platform, Javascript runtime environment for running javascript code outside the web browser.
 
+### [229. Selenium Testing: Running First Pytest Script](https://hackernoon.com/selenium-testing-running-first-pytest-script-iw193uqb)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfxHVEYXco2WRkm8ai6bgxpipw7g2-ebc63usv.webp?alt=media&token=34053b28-89de-4952-be3d-56888409a53d)
+Selenium as we know, is an open-source test suite used for cross-platform browser automation. Due to its popularity and ease of use, many compatible test frameworks with respect to different programming languages have been developed to extends support of Selenium for cross browser testing over multiple programming languages. Today we’re going to look into Selenium Python tutorial to run our first automation script using PyUnit framework with Selenium.
 
-### [231. How To Use Filter Pattern With Generic Lambda Expression](https://hackernoon.com/how-to-use-filter-pattern-with-generic-lambda-expression-wn1b3tai)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-ohr281x.jpeg?alt=media&token=f58a46f9-49fe-4764-bcec-a68039640805)
-The filter and pipeline patterns can be optimized with code reduction using lambda expression(shortcuts for anonymous method) as concrete filter condition. To demonstrate concept, the sample WPF UI application was created. Here is Source code
-
-### [232. Master GeoSpatial Data: From Python's .apply() to Advanced Alternatives](https://hackernoon.com/master-geospatial-data-from-pythons-apply-to-advanced-alternatives)
+### [230. Master GeoSpatial Data: From Python's .apply() to Advanced Alternatives](https://hackernoon.com/master-geospatial-data-from-pythons-apply-to-advanced-alternatives)
 ![](https://cdn.hackernoon.com/images/3C88ZQ52TgTvnwhy8oOm1sUC7cE3-dz02ulj.png)
 Discover the fastest ways to perform row-wise operations in Pandas. This benchmark study compares apply(), iterrows(), itertuples(), vectorization, and more.
 
-### [233. What is Data Collection and What are The Most Important Events to Track](https://hackernoon.com/what-is-data-collection-and-what-are-the-most-important-events-to-track-ta5d3y62)
-![](https://cdn.hackernoon.com/images/e3o3y3z.jpg)
-When your company is client-oriented, one of your priority tasks is understanding your clients’ problems and gathering insights on how people use your product and when exactly they benefit from it.
+### [231. Securing Real-World Microservices With gRPC And Istio Service Mesh](https://hackernoon.com/securing-real-world-microservices-with-grpc-and-istio-service-mesh-c31x3u73)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-dgy4v3a.jpeg?alt=media&token=9508cef4-a09f-4ea7-8162-cb75d9eacc92)
+
+
+### [232. How To Use Filter Pattern With Generic Lambda Expression](https://hackernoon.com/how-to-use-filter-pattern-with-generic-lambda-expression-wn1b3tai)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-ohr281x.jpeg?alt=media&token=f58a46f9-49fe-4764-bcec-a68039640805)
+The filter and pipeline patterns can be optimized with code reduction using lambda expression(shortcuts for anonymous method) as concrete filter condition. To demonstrate concept, the sample WPF UI application was created. Here is Source code
+
+### [233. Clean Architecture; How To Keep Your Codebase Scalable Without Overengineering](https://hackernoon.com/clean-architecture-how-to-keep-your-codebase-scalable-without-overengineering)
+![](https://cdn.hackernoon.com/images/mM0I6NciNefSjw4NPEgAf8S8Hjl2-ms03by2.jpeg)
+Clean Architecture made practical. Stop drawing circles and see how to apply the layers in a real mobile projects, explained by a dev for devs. 
 
 ### [234. Git Reflog: Your Local Time Machine](https://hackernoon.com/git-reflog-your-local-time-machine-q73y3ygd)
 ![](https://cdn.hackernoon.com/images/1k5mb3kdq.jpg)
 Sometimes, we make do some unintentionally merge or rebase which we wish we could recover to the previous stage. But there is no commit for you to get back. That moment, you probably feel like the git log - time machine which  you admire become not really helpful. But you should know that "git log" is not the only way to trace the history. There is another kind of git history which been keep tracked in your local and your local only, which is so-call reflog. This reflog stores the whole shebang of you local activities and you can undo almost everything with it.
 
-### [235. The Engineer's Guide to Creating a Technical Debt Proposal](https://hackernoon.com/the-engineers-guide-to-creating-a-technical-debt-proposal)
-![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-mq93jwb.png)
-This article will guide you through the process to craft a technical debt proposal to justify the time spent solving technical issues.
+### [235. What is Data Collection and What are The Most Important Events to Track](https://hackernoon.com/what-is-data-collection-and-what-are-the-most-important-events-to-track-ta5d3y62)
+![](https://cdn.hackernoon.com/images/e3o3y3z.jpg)
+When your company is client-oriented, one of your priority tasks is understanding your clients’ problems and gathering insights on how people use your product and when exactly they benefit from it.
 
 ### [236. How To Make A Record of Selenium Test](https://hackernoon.com/procedure-to-record-a-selenium-test-5v3p328b)
 ![](https://cdn.hackernoon.com/images/pv6832lw.jpg)
@@ -957,103 +959,103 @@ Selenium is a open-source free and automation testing tool for web applications 
 In order to record a test, follow the given steps:
 Step 1 : Open Mozilla Firefox web browser, go to tools and click on Selenium IDE. There type the link
 
-### [237. Computer Vision Is Fun To Play With](https://hackernoon.com/computer-vision-is-fun-to-play-with-6z193ujj)
+### [237. The Engineer's Guide to Creating a Technical Debt Proposal](https://hackernoon.com/the-engineers-guide-to-creating-a-technical-debt-proposal)
+![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-mq93jwb.png)
+This article will guide you through the process to craft a technical debt proposal to justify the time spent solving technical issues.
+
+### [238. Everything I Learned as a Software Developer While Creating my Product](https://hackernoon.com/everything-i-learned-as-a-software-developer-while-creating-my-product)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jd82hwq.jpeg)
+Before creating the code, it is crucial to prioritize its quality. It should be the foremost consideration in the development process.
+
+### [239. Demystifying Manual Testing: Skills, Process and Career Prospects](https://hackernoon.com/demystifying-manual-testing-skills-process-and-career-prospects)
+![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-vd93lgq.jpeg)
+ Learn how manual testing fits into the software development process, the essential skills required, and the ways it contributes to ensuring software quality.
+
+### [240. Are Your CICD and DevOps Tools Really Helping Developers? ](https://hackernoon.com/are-your-cicd-and-devops-tools-really-helping-developers)
+![](https://cdn.hackernoon.com/images/5LsVg4XJOmUa8l8P62L80MH0aJx1-ak93k21.jpeg)
+If you are responsible for your team’s CICD and DevOps tools, have you ever asked yourself if the tools you built are really making developers’ lives easier? 
+
+### [241. Elevating Software Quality: A Guide to Effective Code Reviews](https://hackernoon.com/elevating-software-quality-a-guide-to-effective-code-reviews)
+![](https://cdn.hackernoon.com/images/Makq4Frn8Kd7JEen0S0HMEY1jiy1-tx82w49.jpeg)
+Explore advanced code review techniques to boost software quality, featuring AI, gamification, and industry case studies.
+
+### [242. Computer Vision Is Fun To Play With](https://hackernoon.com/computer-vision-is-fun-to-play-with-6z193ujj)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYAmrkN69Wabu4Agcs2hBM7PwETh1-fa2l28bw.jpeg?alt=media&token=07a793cc-0293-4d41-ba32-24da775f5fcd)
 
 I work as a Software Engineer at Endtest.
 
-### [238. Elevating Software Quality: A Guide to Effective Code Reviews](https://hackernoon.com/elevating-software-quality-a-guide-to-effective-code-reviews)
-![](https://cdn.hackernoon.com/images/Makq4Frn8Kd7JEen0S0HMEY1jiy1-tx82w49.jpeg)
-Explore advanced code review techniques to boost software quality, featuring AI, gamification, and industry case studies.
-
-### [239. Are Your CICD and DevOps Tools Really Helping Developers? ](https://hackernoon.com/are-your-cicd-and-devops-tools-really-helping-developers)
-![](https://cdn.hackernoon.com/images/5LsVg4XJOmUa8l8P62L80MH0aJx1-ak93k21.jpeg)
-If you are responsible for your team’s CICD and DevOps tools, have you ever asked yourself if the tools you built are really making developers’ lives easier? 
-
-### [240. Code Refactoring Tips: No. 015 - Remove NULL](https://hackernoon.com/code-refactoring-tips-no-015-remove-null)
+### [243. Code Refactoring Tips: No. 015 - Remove NULL](https://hackernoon.com/code-refactoring-tips-no-015-remove-null)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-2z833bz.png)
 Eliminating The Billion-Dollar Mistake forever - Discover how the Null Object Pattern can streamline your code by eliminating the need for null checks.
 
-### [241. Comments Rarely Improve Your Code](https://hackernoon.com/comments-rarely-improve-your-code-u36n3yca)
-![](https://cdn.hackernoon.com/images/clb03yyb.jpg)
-The debate over comments in code is ongoing. At least once per year for the last 30 years, I’ve been involved in a discussion on the subject - often accidentally and reluctantly. To be honest, my perspective has changed over time. I used to comment every method, I used to comment any line of code that was “weird”, and I used to comment any blocks of code that were too complicated. Today, I rarely comment, if ever. Over time, I’ve come to realize that most comments are unnecessary.
-
-### [242. Everything I Learned as a Software Developer While Creating my Product](https://hackernoon.com/everything-i-learned-as-a-software-developer-while-creating-my-product)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jd82hwq.jpeg)
-Before creating the code, it is crucial to prioritize its quality. It should be the foremost consideration in the development process.
-
-### [243. Code Reviews: Tips On Getting More Feedback](https://hackernoon.com/code-reviews-tips-on-getting-more-feedback-mg2535zb)
+### [244. Code Reviews: Tips On Getting More Feedback](https://hackernoon.com/code-reviews-tips-on-getting-more-feedback-mg2535zb)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-ds1n352c.jpeg)
 Nobody leaving comments on your code reviews? Try out these 3 tips on getting eye balls on your pull requests
-
-### [244. 13 Tips on Writing Powerful Test Cases That You Need to Know](https://hackernoon.com/13-tips-on-writing-powerful-test-cases-that-you-need-to-know)
-![](https://cdn.hackernoon.com/images/EFourIMH3NfzbMz3nJuO3CtiwOa2-h593ruc.jpeg)
-Test cases are software development safety net unless they are poorly written. Here are my 13 tips on writing powerful and trustworthy test cases. 
 
 ### [245. Software Intelligence: How to Take Quality Control in 6 Practical Steps](https://hackernoon.com/software-intelligence-how-to-take-quality-control-in-6-practical-steps-ui2i31lk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOC13LVjJYbPovJkJpfm26FvM3fP2-js1k3wiz.jpeg?alt=media&token=688bbc9c-c8ee-4264-bf50-374ddfae2d08)
 Lead Photo by Max Duzij on Unsplash
 
-### [246. Clean Architecture; How To Keep Your Codebase Scalable Without Overengineering](https://hackernoon.com/clean-architecture-how-to-keep-your-codebase-scalable-without-overengineering)
-![](https://cdn.hackernoon.com/images/mM0I6NciNefSjw4NPEgAf8S8Hjl2-ms03by2.jpeg)
-Clean Architecture made practical. Stop drawing circles and see how to apply the layers in a real mobile projects, explained by a dev for devs. 
+### [246. Comments Rarely Improve Your Code](https://hackernoon.com/comments-rarely-improve-your-code-u36n3yca)
+![](https://cdn.hackernoon.com/images/clb03yyb.jpg)
+The debate over comments in code is ongoing. At least once per year for the last 30 years, I’ve been involved in a discussion on the subject - often accidentally and reluctantly. To be honest, my perspective has changed over time. I used to comment every method, I used to comment any line of code that was “weird”, and I used to comment any blocks of code that were too complicated. Today, I rarely comment, if ever. Over time, I’ve come to realize that most comments are unnecessary.
 
-### [247. Demystifying Manual Testing: Skills, Process and Career Prospects](https://hackernoon.com/demystifying-manual-testing-skills-process-and-career-prospects)
-![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-vd93lgq.jpeg)
- Learn how manual testing fits into the software development process, the essential skills required, and the ways it contributes to ensuring software quality.
+### [247. 13 Tips on Writing Powerful Test Cases That You Need to Know](https://hackernoon.com/13-tips-on-writing-powerful-test-cases-that-you-need-to-know)
+![](https://cdn.hackernoon.com/images/EFourIMH3NfzbMz3nJuO3CtiwOa2-h593ruc.jpeg)
+Test cases are software development safety net unless they are poorly written. Here are my 13 tips on writing powerful and trustworthy test cases. 
 
-### [248. Selenium Exceptions as the Way to Get More Robust Testing Scripts: the Truth](https://hackernoon.com/selenium-exceptions-as-the-way-to-get-more-robust-testing-scripts-the-truth-7vv33ri)
-![](https://cdn.hackernoon.com/images/fxHVEYXco2WRkm8ai6bgxpipw7g2-p1g33q0.jpeg)
-Exceptions in Selenium are unavoidable. Here are 49 most common Selenium exceptions which might occur while performing Selenium Test Automation.
+### [248. Custom Logic in Webflow: How to Push No-Code to Its Limits](https://hackernoon.com/custom-logic-in-webflow-how-to-push-no-code-to-its-limits)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-e103ba8.png)
+Discover how to extend Webflow’s no-code capabilities with custom logic, low-code integrations, and performance-first architecture.
 
 ### [249. How ML Challenges Software Engineering](https://hackernoon.com/how-ml-challenges-software-engineering-n9w338b)
 ![](https://cdn.hackernoon.com/images/BpDVO1gf0xRQ4XuXBFxz7wUhzCA3-hu3533pg.jpeg)
 Inherent uncertainty, data-driven behavior, rapid experimentation: characteristics of Machine Learning that disrupt traditional software engineering practices.
 
-### [250. Beginner Python Projects: How to Build an Acronym Generator](https://hackernoon.com/beginner-python-projects-how-to-build-an-acronym-generator-5h2d33jy)
+### [250. Selenium Exceptions as the Way to Get More Robust Testing Scripts: the Truth](https://hackernoon.com/selenium-exceptions-as-the-way-to-get-more-robust-testing-scripts-the-truth-7vv33ri)
+![](https://cdn.hackernoon.com/images/fxHVEYXco2WRkm8ai6bgxpipw7g2-p1g33q0.jpeg)
+Exceptions in Selenium are unavoidable. Here are 49 most common Selenium exceptions which might occur while performing Selenium Test Automation.
+
+### [251. Beginner Python Projects: How to Build an Acronym Generator](https://hackernoon.com/beginner-python-projects-how-to-build-an-acronym-generator-5h2d33jy)
 ![](https://cdn.hackernoon.com/images/hEMjV6xqXnSfBtlhP0SeuEiVSpO2-nv2334eb.jpeg)
 An Acronym Generator will take a String as an input and it will return the initials of all the words in the String.
 
-### [251. Custom Logic in Webflow: How to Push No-Code to Its Limits](https://hackernoon.com/custom-logic-in-webflow-how-to-push-no-code-to-its-limits)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-e103ba8.png)
-Discover how to extend Webflow’s no-code capabilities with custom logic, low-code integrations, and performance-first architecture.
+### [252. How To Evaluate Software Code Quality And Why It Is Important](https://hackernoon.com/how-to-evaluate-software-code-quality-and-why-it-is-important-ldn3whh)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMedHIICL4oSJ7Y2rxX4SKFASDIT2-2y2x3wr0.jpeg?alt=media&token=19fdb789-a8fe-4506-92d2-cd60be4696a8)
+Software Engineers are in great demand nowadays. Their unique skill sets make them different from the other available professions.
 
-### [252. ASP.NET FAQs](https://hackernoon.com/aspnet-faqs-gd1b3tl4)
+### [253. ASP.NET FAQs](https://hackernoon.com/aspnet-faqs-gd1b3tl4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaHcUME45O0Sw3JLt9OGFJpazIvO2-wr728p8.jpeg?alt=media&token=6cc8e10a-a7d0-4195-b1d3-901e855eae29)
 ASP.NET is an open-source server-side web application framework that was developed by Microsoft. It is mostly used for building dynamic websites and applications. It is free and a cross-platform framework. So, today we will be checking out the 11 most asked ASP.NET questions.
 
-### [253. Introduction to Mocha Testing Framework ](https://hackernoon.com/introduction-to-mocha-testing-framework-y03q3wq1)
+### [254. Introduction to Mocha Testing Framework ](https://hackernoon.com/introduction-to-mocha-testing-framework-y03q3wq1)
 ![](https://images.unsplash.com/photo-1555099962-4199c345e5dd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser.
-
-### [254. How To Evaluate Software Code Quality And Why It Is Important](https://hackernoon.com/how-to-evaluate-software-code-quality-and-why-it-is-important-ldn3whh)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMedHIICL4oSJ7Y2rxX4SKFASDIT2-2y2x3wr0.jpeg?alt=media&token=19fdb789-a8fe-4506-92d2-cd60be4696a8)
-Software Engineers are in great demand nowadays. Their unique skill sets make them different from the other available professions.
 
 ### [255. Git Basics](https://hackernoon.com/git-basics-zoy3tte)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBUwotd3IBTbSWt8nKNHREwinBqw1-1d53ugo.jpeg?alt=media&token=9e56d4b7-4ab6-46ac-ab6c-830815f645cc)
 To playing with git you have to do the following things step by step
 
-### [256. Bad Codebases Shoo Developers Away](https://hackernoon.com/bad-codebases-shoo-developers-away)
-![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-f50366v.jpeg)
-In this software engineering survey, we learn about the state of technical debt and technical hiring. 
-
-### [257. Boost Mobile Performance To Better UX](https://hackernoon.com/boost-mobile-performance-to-better-ux-l7m3ti4)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzckzAU7gH5dDcR9k3jVDnFjT6Kx1-re7y3uwf.jpeg?alt=media&token=ff05637b-a2f1-4f04-a428-a9cf21416e45)
-What’s one of the biggest predictors of mobile app success? Performance. Here’s how to whip yours into shape so mobile app performance problems don’t cost you downloads, revenue, and brand perception.
-
-### [258. How to Build an Impressive Demo Project](https://hackernoon.com/how-to-build-an-impressive-demo-project)
+### [256. How to Build an Impressive Demo Project](https://hackernoon.com/how-to-build-an-impressive-demo-project)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-dq83v5b.jpeg)
 Discover essential tips for creating an impactful demo project that effectively showcases your coding skills to potential employers. 
 
 
-### [259. Go 1.21: Taking Your Go Apps to the Next Level](https://hackernoon.com/go-121-taking-your-go-apps-to-the-next-level)
+### [257. Go 1.21: Taking Your Go Apps to the Next Level](https://hackernoon.com/go-121-taking-your-go-apps-to-the-next-level)
 ![](https://cdn.hackernoon.com/images/x2cx7JIyp7MnzU1thrm5j2g7k752-wk93xhr.png)
 Discover Go 1.21's cutting-edge features: profile-guided optimization, min-max functions, clear function, loop variable enhancement, and more.
 
-### [260. Clean Code and Speed: Not Either/Or](https://hackernoon.com/clean-code-and-speed-not-eitheror)
-![](https://cdn.hackernoon.com/images/9BKUQqHNa1XEwAGSAleKpzH2Zol2-e3026dy.png)
-Refuting claims that clean code hurts performance, this article shows how proper design delivers speed without sacrificing maintainability.
+### [258. Boost Mobile Performance To Better UX](https://hackernoon.com/boost-mobile-performance-to-better-ux-l7m3ti4)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzckzAU7gH5dDcR9k3jVDnFjT6Kx1-re7y3uwf.jpeg?alt=media&token=ff05637b-a2f1-4f04-a428-a9cf21416e45)
+What’s one of the biggest predictors of mobile app success? Performance. Here’s how to whip yours into shape so mobile app performance problems don’t cost you downloads, revenue, and brand perception.
+
+### [259. Bad Codebases Shoo Developers Away](https://hackernoon.com/bad-codebases-shoo-developers-away)
+![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-f50366v.jpeg)
+In this software engineering survey, we learn about the state of technical debt and technical hiring. 
+
+### [260. Creating A Killer README File: Ultimate Guide](https://hackernoon.com/creating-a-killer-readme-file-ultimate-guide-but331x)
+![](https://cdn.hackernoon.com/images/LLNXiPKIsZM5IWTNJfmlBf6EZjZ2-138i26l3.jpeg)
+After code comments, the README file is one of the most ubiquitous forms of documentation found in software development today. 
 
 ### [261. Methodology of Test Case Minimization Using Firefly Algorithm](https://hackernoon.com/methodology-of-test-case-minimization-using-firefly-algorithm)
 ![](https://cdn.hackernoon.com/images/jo5cGN6V2iN5xR9O05tqC99hBiS2-y8j3yv7.jpeg)
@@ -1067,83 +1069,87 @@ Building a product, we face the moment that we need more types of tests. Screens
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FthiowC24W3N1MegiuRFVZJYpXYz2-xbb3um4.jpeg?alt=media&token=d7755e06-32ac-47e5-bb56-e0be2bba9692)
 Type inference is a common feature among mainstream programming languages. The functional ones, like ML and Haskell, are pioneers in exploring this programming paradigm where the declaration of a variable or a function may omit a type annotation. Today, even classic imperative languages such as C++ offer, to a certain extent, a kind of type inference.
 
-### [264. How to Write Tests for React - Part 2 [Beginner's Guide]](https://hackernoon.com/how-to-write-tests-for-react-part-2-beginners-guide-me1i3usd)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FqggWKTQRL1MKDrjhFkHv4BCtod43-49f3ywv.webp?alt=media&token=93745e8a-0fea-4ac8-aa3e-34b58444b916)
-Writing React Test with React recommend libraries - Jest & Testing Library for React Intermediate users.
-
-### [265. Software Engineers use Code Reviews to Improve Product Quality ](https://hackernoon.com/software-engineers-use-code-reviews-to-improve-product-quality-ay5s315c)
-![](https://cdn.hackernoon.com/images/g09luvBmyUPP79qMwRa7dBxFbox1-a32331im.jpeg)
-Software engineers need to do code reviews in order to improve overall product quality and learn from each other. Code review process has a set of best practices like any other complex processes. Check best practices below. Do you follow them on your current project?
-
-### [266. How To Use Ballerina in Azure Functions](https://hackernoon.com/how-to-use-ballerina-in-azure-functions-121c3urp)
+### [264. How To Use Ballerina in Azure Functions](https://hackernoon.com/how-to-use-ballerina-in-azure-functions-121c3urp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fl5zOLSJSCXbNFE632NiK1dIRRaI3-3el3u8e.jpeg?alt=media&token=aa0105bf-256c-4792-8866-6dc7b20e0f20)
 Ballerina since v1.2.5 has built-in support for Azure Functions. In this way, you can take a Ballerina function and expose it as a serverless function in Azure Functions. Azure Functions take on a unique approach in defining serverless functions with the function trigger and bindings concept. In this way, we can access other cloud services such as storage services (queue, blob, etc.), CosmosDB, Twillio, and timers right from the function itself without any additional connectors or authentication processes. We map our parameters and return types with these bindings, which provides us direct access to the resources.
 
-### [267. A Guide to Examining & Modifying Executable Code](https://hackernoon.com/a-guide-to-examining-modifying-executable-code)
-![](https://cdn.hackernoon.com/images/eyCNSA0sC0Mfi1AgXNVVwDDBmXZ2-nk262br7.jpeg)
-A review of tools and techniques to examine and modify executable.
+### [265. How to Write Tests for React - Part 2 [Beginner's Guide]](https://hackernoon.com/how-to-write-tests-for-react-part-2-beginners-guide-me1i3usd)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FqggWKTQRL1MKDrjhFkHv4BCtod43-49f3ywv.webp?alt=media&token=93745e8a-0fea-4ac8-aa3e-34b58444b916)
+Writing React Test with React recommend libraries - Jest & Testing Library for React Intermediate users.
 
-### [268. Automation Testing Versus Manual Testing Guidelines](https://hackernoon.com/automation-testing-versus-manual-testing-guidelines-auet3ypv)
+### [266. Software Engineers use Code Reviews to Improve Product Quality ](https://hackernoon.com/software-engineers-use-code-reviews-to-improve-product-quality-ay5s315c)
+![](https://cdn.hackernoon.com/images/g09luvBmyUPP79qMwRa7dBxFbox1-a32331im.jpeg)
+Software engineers need to do code reviews in order to improve overall product quality and learn from each other. Code review process has a set of best practices like any other complex processes. Check best practices below. Do you follow them on your current project?
+
+### [267. Automation Testing Versus Manual Testing Guidelines](https://hackernoon.com/automation-testing-versus-manual-testing-guidelines-auet3ypv)
 ![](https://cdn.hackernoon.com/drafts/vkgp3ygc.png)
 Software development goes through six main stages, otherwise known as the software development lifecycle. They are planning, design, development, testing, deployment, and maintenance. After development, the next phase involving quality assurance and testing is crucial to the success of the software. Proper QA testing identifies redundancies, inconsistencies, bugs, and defects in a newly developed product. Without this process, there’s no way to find out the ability of the product to survive in the real world and to work as intended for many years. 
 
-### [269. Why Open-Source Products Are More Popular Than Kim Kardashian](https://hackernoon.com/why-open-source-products-are-more-popular-than-kim-kardashian-4zs3tfx)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOlBBYiAclpfCGPi4fQnz4uL5Xa53-vg53uae.jpeg?alt=media&token=a378d730-7c76-4376-93f9-278f6adec199)
-Developing and releasing open-source solutions is a common practice that has been adopted by companies like Red Hat, Facebook, Google, and Amazon. IT companies that make products available as open-source software have become a sensation in the investment environment. Confluent, Neo4j, HashiCorp, and GitLab are just a few examples of companies that have managed to attract large investments.
-
-### [270. Pair Programming and Code Reviews Can Work, Sometimes.](https://hackernoon.com/pair-programming-and-code-reviews-can-work-sometimes-blw37b9)
-![](https://cdn.hackernoon.com/images/bihlGNeyine5YPreu9VZH6YKZAM2-9to25ho.jpeg)
-In the post pandemic screen-sharing workspace, is it time for pair programming to get another shot?
-
-### [271. Codeless Test Automation is Beneficial, but Not a Complete Replacement for All Testing](https://hackernoon.com/codeless-test-automation-is-beneficial-but-not-a-complete-replacement-for-all-testing)
+### [268. Codeless Test Automation is Beneficial, but Not a Complete Replacement for All Testing](https://hackernoon.com/codeless-test-automation-is-beneficial-but-not-a-complete-replacement-for-all-testing)
 ![](https://cdn.hackernoon.com/images/iGwNwY6Hr4fiYYZ2b7XN5xgsANB3-gu03jzk.png)
 If you're a marketer, product manager, or QA specialist without deep programming skills, you've probably thought of an easier way to test a website.
 
-### [272. Elevate Your Code Quality with Effective Unit Testing](https://hackernoon.com/elevate-your-code-quality-with-effective-unit-testing)
-![](https://cdn.hackernoon.com/images/anfJV6KSo1bThcpN0mDFqo1MKQp2-pg835ub.jpeg)
-Dive into a comprehensive guide on unit testing that emphasizes aligning tests with user interactions, maintaining semantic structure, and optimizing component.
-
-### [273. Creating A Killer README File: Ultimate Guide](https://hackernoon.com/creating-a-killer-readme-file-ultimate-guide-but331x)
-![](https://cdn.hackernoon.com/images/LLNXiPKIsZM5IWTNJfmlBf6EZjZ2-138i26l3.jpeg)
-After code comments, the README file is one of the most ubiquitous forms of documentation found in software development today. 
-
-### [274. Code Smell 265 - Linguistic Confusion](https://hackernoon.com/code-smell-265-linguistic-confusion)
+### [269. Code Smell 265 - Linguistic Confusion](https://hackernoon.com/code-smell-265-linguistic-confusion)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-mu033jq.jpeg)
 Overcomplicating naming conventions in code can lead to confusion, bugs, and frustration. Here's how to make your code easier to read and maintain. 
 
-### [275. 3 Things Coding And Prose Writing Have In Common According To Cory House](https://hackernoon.com/3-things-coding-and-prose-writing-have-in-common-according-to-cory-house-sts349a)
+### [270. Elevate Your Code Quality with Effective Unit Testing](https://hackernoon.com/elevate-your-code-quality-with-effective-unit-testing)
+![](https://cdn.hackernoon.com/images/anfJV6KSo1bThcpN0mDFqo1MKQp2-pg835ub.jpeg)
+Dive into a comprehensive guide on unit testing that emphasizes aligning tests with user interactions, maintaining semantic structure, and optimizing component.
+
+### [271. A Guide to Examining & Modifying Executable Code](https://hackernoon.com/a-guide-to-examining-modifying-executable-code)
+![](https://cdn.hackernoon.com/images/eyCNSA0sC0Mfi1AgXNVVwDDBmXZ2-nk262br7.jpeg)
+A review of tools and techniques to examine and modify executable.
+
+### [272. Pair Programming and Code Reviews Can Work, Sometimes.](https://hackernoon.com/pair-programming-and-code-reviews-can-work-sometimes-blw37b9)
+![](https://cdn.hackernoon.com/images/bihlGNeyine5YPreu9VZH6YKZAM2-9to25ho.jpeg)
+In the post pandemic screen-sharing workspace, is it time for pair programming to get another shot?
+
+### [273. Why Open-Source Products Are More Popular Than Kim Kardashian](https://hackernoon.com/why-open-source-products-are-more-popular-than-kim-kardashian-4zs3tfx)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOlBBYiAclpfCGPi4fQnz4uL5Xa53-vg53uae.jpeg?alt=media&token=a378d730-7c76-4376-93f9-278f6adec199)
+Developing and releasing open-source solutions is a common practice that has been adopted by companies like Red Hat, Facebook, Google, and Amazon. IT companies that make products available as open-source software have become a sensation in the investment environment. Confluent, Neo4j, HashiCorp, and GitLab are just a few examples of companies that have managed to attract large investments.
+
+### [274. 3 Things Coding And Prose Writing Have In Common According To Cory House](https://hackernoon.com/3-things-coding-and-prose-writing-have-in-common-according-to-cory-house-sts349a)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-4vu2996.jpeg)
 Does your code read like a book?
 
-### [276. Why Project Maintenance Should Not Be Done By A Separated Team ](https://hackernoon.com/why-project-maintenance-should-be-done-by-a-separated-team-lp2u3upi)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fg16lGoHgQzUa1mS5lR4hYuvO5VX2-fz2d28mk.jpeg?alt=media&token=226962e7-a50a-45cb-9aee-c53bea5fa5ea)
-Suppose you have to add a new major feature to an app. 
-
-### [277. Code and the Art of Motorcycle Maintenance: Typical Rookie Faults](https://hackernoon.com/code-and-the-art-of-motorcycle-maintenance-typical-rookie-faults)
+### [275. Code and the Art of Motorcycle Maintenance: Typical Rookie Faults](https://hackernoon.com/code-and-the-art-of-motorcycle-maintenance-typical-rookie-faults)
 ![](https://cdn.hackernoon.com/images/CCLFPRsmsHWSm1FUSbZuRrlVRVt2-h3b31fk.jpeg)
 With coding, just like with riding, you need to be responsible and conscious to stay in the saddle and double that to be a winner. 
 
-### [278. Using Galen Framework For Automated Cross Browser Layout Testing](https://hackernoon.com/using-galen-framework-for-automated-cross-browser-layout-testing-isk3uic)
+### [276. Using Galen Framework For Automated Cross Browser Layout Testing](https://hackernoon.com/using-galen-framework-for-automated-cross-browser-layout-testing-isk3uic)
 ![](https://cdn.hackernoon.com/drafts/6a1ty3wja.png)
 Galen Framework is a test automation framework which was originally introduced to perform cross browser layout testing of a web application in a browser. Nowadays, it has become a fully functional testing framework with rich reporting and test management system. This framework supports both Java and Javascript.
 
-### [279. Removing Bugs in Git](https://hackernoon.com/removing-bugs-in-git-d9qz3yu9)
+### [277. Why Project Maintenance Should Not Be Done By A Separated Team ](https://hackernoon.com/why-project-maintenance-should-be-done-by-a-separated-team-lp2u3upi)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fg16lGoHgQzUa1mS5lR4hYuvO5VX2-fz2d28mk.jpeg?alt=media&token=226962e7-a50a-45cb-9aee-c53bea5fa5ea)
+Suppose you have to add a new major feature to an app. 
+
+### [278. Removing Bugs in Git](https://hackernoon.com/removing-bugs-in-git-d9qz3yu9)
 ![](https://cdn.hackernoon.com/images/to5l53yrh.jpg)
 When you are working on a huge project, you may discover bugs in the code that prevent you from proceeding any further in your development. How to fix them?
 
-### [280. Components Genesis: Mastering the Top-Down Code Design Approach ](https://hackernoon.com/components-genesis-mastering-the-top-down-code-design-approach)
+### [279. Components Genesis: Mastering the Top-Down Code Design Approach ](https://hackernoon.com/components-genesis-mastering-the-top-down-code-design-approach)
 ![](https://cdn.hackernoon.com/images/Ob9kFijXSIcJhuUQL5RVRJumQB22-bi93ipb.jpeg)
 Learn how to write reliable and professional-looking React code using "Wishful Programming" aka "Top-Down Code Design". Great for coders of all levels.
 
-### [281. 9 Tips To Make Regression Testing More Effective](https://hackernoon.com/9-tips-to-make-regression-testing-more-effective-uj4n33il)
+### [280. 9 Tips To Make Regression Testing More Effective](https://hackernoon.com/9-tips-to-make-regression-testing-more-effective-uj4n33il)
 ![](https://cdn.hackernoon.com/images/91eb32da.jpg)
 With the surging rise in the number of mobile app users in the entire world, it’s a high time that brands should focus on delivering seamless functioning of mobile apps. Hence mobile app testing is one of the ways to achieve this goal. This shows the importance of including regression testing in your mobile application development lifecycle.
 
-### [282. Dependency Injection with Symfony: Streamlining Code Management for Efficiency](https://hackernoon.com/dependency-injection-with-symfony-streamlining-code-management-for-efficiency)
+### [281. The Lack of Internal State and How it Makes Your Classes Easier to Test and Refactor](https://hackernoon.com/the-lack-of-internal-state-and-how-it-makes-your-classes-easier-to-test-and-refactor)
+![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-90a2ih7.jpeg)
+You likely often hear that test-driven development (TDD) or just writing tests can make your code better. 
+
+### [282. Refactoring 029 - How to Replace NULL With Collection](https://hackernoon.com/refactoring-029-how-to-replace-null-with-collection)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-n4038d0.jpeg)
+Replace nullable optional attributes with empty collections to eliminate null checks and leverage polymorphism.
+
+### [283. Dependency Injection with Symfony: Streamlining Code Management for Efficiency](https://hackernoon.com/dependency-injection-with-symfony-streamlining-code-management-for-efficiency)
 ![](https://cdn.hackernoon.com/images/9Lp56cU2QZNqCiTmaYPijWLLpdW2-4e93pj0.jpeg)
 Explore the capabilities of Symfony Dependency Injection and enhance your application's scalability with this insightful article.
 
-### [283. A Power-Packed Light Reading on Data Structures](https://hackernoon.com/a-power-packed-light-reading-on-data-structures-76id327t)
+### [284. A Power-Packed Light Reading on Data Structures](https://hackernoon.com/a-power-packed-light-reading-on-data-structures-76id327t)
 ![](https://images.unsplash.com/photo-1444738720667-27446e3f293d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 when we talk about data structure and algorithm it's very important to know the concepts like Big O Notation and Time Complexity
  these concepts help us to choose the right data structure and to know 
@@ -1152,166 +1158,162 @@ structure.and things like how memory ,linked list and array works,they
 help us to have better understanding of the speed and performance of a 
 data structure.
 
-### [284. The Lack of Internal State and How it Makes Your Classes Easier to Test and Refactor](https://hackernoon.com/the-lack-of-internal-state-and-how-it-makes-your-classes-easier-to-test-and-refactor)
-![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-90a2ih7.jpeg)
-You likely often hear that test-driven development (TDD) or just writing tests can make your code better. 
-
-### [285. How to Use JUnit Annotations In Selenium](https://hackernoon.com/how-to-use-junit-annotations-in-selenium-7z1i3tfv)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-n7x3tdu.jpeg?alt=media&token=6b237150-fe73-4702-913c-b9d424bac162)
-JUnit is a Java-based, open-source framework to help you execute unit testing. JUnit is used primarily to test each and every unit or component of your application like classes and methods. It helps to write and run repeatable automated tests, to ensure your code runs as intended. The framework offers support to Selenium test automation for web-apps or websites.
-
-### [286. Exploring Differences Between Promises And Callbacks in JavaScript](https://hackernoon.com/exploring-differences-between-promises-and-callbacks-in-javascript-9m2a3uk0)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV6GevBI7I3VP0omAU8rjJeDJIxx2-ud1u3uos.jpeg?alt=media&token=cf5b52e0-0f60-48d1-9b4f-b1a7cf058101)
-You might have heard what a Promise is or what Callback functions are in JavaScript. Clarity is needed when distinguishing between these two functions more so, when working with APIs in JavaScript-based applications.
-
-### [287. Why Using Static Analysis Is Hard](https://hackernoon.com/why-using-static-analysis-is-hard-n02m3vt0)
-![](https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Using static analysis is hard, counter-intuitive and not-automatic. We want to answer some questions related to the use of static analyzers: why this is hard for some users and what are the solutions to help.
-
-### [288. Refactoring 029 - How to Replace NULL With Collection](https://hackernoon.com/refactoring-029-how-to-replace-null-with-collection)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-n4038d0.jpeg)
-Replace nullable optional attributes with empty collections to eliminate null checks and leverage polymorphism.
-
-### [289. 5 Steps You Should Take To Launch A Cool Game](https://hackernoon.com/5-steps-you-should-take-to-launch-a-cool-game-f9y333h)
-![](https://cdn.hackernoon.com/images/HPKTXpNUNMbhwUaRX9c7sxUvnau1-8k1933pc.jpeg)
-The key steps of the game development process, how each of them functions, and what roles and operations they consist of. 
-
-### [290. Code Reviews That Truly Elevate Frontend Quality](https://hackernoon.com/code-reviews-that-truly-elevate-frontend-quality)
+### [285. Code Reviews That Truly Elevate Frontend Quality](https://hackernoon.com/code-reviews-that-truly-elevate-frontend-quality)
 ![](https://cdn.hackernoon.com/images/yrHtmJQEmfbeqMfB9RB9Bc3ESDI2-w803m1j.png)
 Most frontend reviews sign off clean code. But your users don’t see the code, they see the bugs you missed.
 
-### [291. Code Smell 310 – Why Generic Date Names Break Your Code](https://hackernoon.com/code-smell-310-why-generic-date-names-break-your-code)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-sz036q7.jpeg)
-Use descriptive date names that reveal their role and business purpose instead of generic "date" labels.
+### [286. How to Use JUnit Annotations In Selenium](https://hackernoon.com/how-to-use-junit-annotations-in-selenium-7z1i3tfv)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-n7x3tdu.jpeg?alt=media&token=6b237150-fe73-4702-913c-b9d424bac162)
+JUnit is a Java-based, open-source framework to help you execute unit testing. JUnit is used primarily to test each and every unit or component of your application like classes and methods. It helps to write and run repeatable automated tests, to ensure your code runs as intended. The framework offers support to Selenium test automation for web-apps or websites.
 
-### [292. How App Statistics Helped Resolve a Bug in My Mobile App](https://hackernoon.com/how-app-statistics-helped-resolve-a-bug-in-my-mobile-app)
-![](https://cdn.hackernoon.com/images/MrzdFPyBcTVnSt90dsBoiyYMuyn1-lv93ral.jpeg)
-“Users cannot open the app.“ This was the message causing chaos all over. So I did a quick installation of the app again, and to my surprise, the app was workin
+### [287. Exploring Differences Between Promises And Callbacks in JavaScript](https://hackernoon.com/exploring-differences-between-promises-and-callbacks-in-javascript-9m2a3uk0)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV6GevBI7I3VP0omAU8rjJeDJIxx2-ud1u3uos.jpeg?alt=media&token=cf5b52e0-0f60-48d1-9b4f-b1a7cf058101)
+You might have heard what a Promise is or what Callback functions are in JavaScript. Clarity is needed when distinguishing between these two functions more so, when working with APIs in JavaScript-based applications.
 
-### [293. Code Quality Guardians: The Power of Continuous Integration in Software Development](https://hackernoon.com/code-quality-guardians-the-power-of-continuous-integration-in-software-development)
+### [288. Legacy Code Deserves More Respect Than We Give It](https://hackernoon.com/legacy-code-deserves-more-respect-than-we-give-it)
+![](https://joachimz.me/content/images/2025/12/respecting-what-came-before.png)
+A reflection on old code, missing context, and why understanding past decisions matters more than quick judgment in software development.
+
+### [289. Code Quality Guardians: The Power of Continuous Integration in Software Development](https://hackernoon.com/code-quality-guardians-the-power-of-continuous-integration-in-software-development)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-qk93rpt.jpeg)
 Why continuous integration? Because it defends your code base.
 
-### [294. Introduction To Property-Based Testing in C#](https://hackernoon.com/introduction-to-property-based-testing-in-c-c6w3uxz)
+### [290. How App Statistics Helped Resolve a Bug in My Mobile App](https://hackernoon.com/how-app-statistics-helped-resolve-a-bug-in-my-mobile-app)
+![](https://cdn.hackernoon.com/images/MrzdFPyBcTVnSt90dsBoiyYMuyn1-lv93ral.jpeg)
+“Users cannot open the app.“ This was the message causing chaos all over. So I did a quick installation of the app again, and to my surprise, the app was workin
+
+### [291. 5 Steps You Should Take To Launch A Cool Game](https://hackernoon.com/5-steps-you-should-take-to-launch-a-cool-game-f9y333h)
+![](https://cdn.hackernoon.com/images/HPKTXpNUNMbhwUaRX9c7sxUvnau1-8k1933pc.jpeg)
+The key steps of the game development process, how each of them functions, and what roles and operations they consist of. 
+
+### [292. Why Using Static Analysis Is Hard](https://hackernoon.com/why-using-static-analysis-is-hard-n02m3vt0)
+![](https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Using static analysis is hard, counter-intuitive and not-automatic. We want to answer some questions related to the use of static analyzers: why this is hard for some users and what are the solutions to help.
+
+### [293. Introduction To Property-Based Testing in C#](https://hackernoon.com/introduction-to-property-based-testing-in-c-c6w3uxz)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrOw0Onz89OS0UxIVcFu3kwP0u2B3-yr1h3vsi.jpeg?alt=media&token=91bd486a-a6d3-4780-b2fc-e2c3a5fa8d06)
 Intro
 
-### [295. 6 Surefire Ways To Suck At Maintaining Projects](https://hackernoon.com/6-surefire-ways-to-suck-at-maintaining-projects-a73u31l7)
+### [294. DevOps Shouldn't be Hard: Deployment Reports](https://hackernoon.com/devops-shouldnt-be-hard-reporting-s8k2k2r)
+![](https://images.unsplash.com/photo-1551801841-ecad875a5142?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Previously, we managed to make our app redeploy on each commit. As you can remember, we get the status of deployment by processing script execution results. So let's use it to send a notification to ourselves each time we deploy our code.
+
+### [295. Tips, Tools, and Best Practices for Optimizing Unit Testing in JavaScript ](https://hackernoon.com/tips-tools-and-best-practices-for-optimizing-unit-testing-in-javascript)
+![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-ww93szf.jpeg)
+Learn how to improve the performance of your JavaScript unit tests with this comprehensive guide.
+
+### [296. 6 Surefire Ways To Suck At Maintaining Projects](https://hackernoon.com/6-surefire-ways-to-suck-at-maintaining-projects-a73u31l7)
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-em1535nx.jpeg)
 Do you want to ensure that working with your repo is a constant source of frustration for your fellow developers? Read on for some awful tips.
-
-### [296. Legacy Code Deserves More Respect Than We Give It](https://hackernoon.com/legacy-code-deserves-more-respect-than-we-give-it)
-![](https://joachimz.me/content/images/2025/12/respecting-what-came-before.png)
-A reflection on old code, missing context, and why understanding past decisions matters more than quick judgment in software development.
 
 ### [297. How To Setup An Effective Refactoring Process of a Heavy Database Interface](https://hackernoon.com/how-to-setup-an-effective-refactoring-process-of-a-heavy-database-interface-9a123u0j)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-ds3g3ujw.jpeg?alt=media&token=c736a685-8bc3-431b-9568-a0e9de924164)
 This story is about pain, agony, and denial of ready-made solutions. It is also about changes that improve the code’s readability and help the development team stay happy. The object of this post is an interface that helps a program communicate with a database.
 
-### [298. Tips, Tools, and Best Practices for Optimizing Unit Testing in JavaScript ](https://hackernoon.com/tips-tools-and-best-practices-for-optimizing-unit-testing-in-javascript)
-![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-ww93szf.jpeg)
-Learn how to improve the performance of your JavaScript unit tests with this comprehensive guide.
-
-### [299. How To Manage Multiple IT Projects Like An Expert Using Code Review Tools](https://hackernoon.com/how-to-manage-multiple-it-projects-like-an-expert-using-code-review-tools-4mt33wz)
-![](https://cdn.hackernoon.com/images/VWpuL9Kf3HSygqde5wXJSTeqQ8P2-vg7t28km.jpeg)
-Whether you are struggling to organize multiple projects or ensuring that your team’s workload is manageable, there are a few strategies that you can use.
-
-### [300. Bad Software? No Big Deal](https://hackernoon.com/bad-software-no-big-deal-xtr3ta1)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkT1VQM2AHoQbpj9ymHkA5hUOfmx1-z0n3ems.jpeg?alt=media&token=865dde2e-f1f0-403f-87a6-85844c6702ed)
-Inevitably, we’ll someday come across legacy software, inconsistent databases, or integration modules that simply don’t work. It might sound wise to fix this software, especially if they’re crucial to the business. The problem that refactoring costs development and validation time, and the business does not always have this time to invest, but at the same time needs the fix. How can we both deliver the business requirements in time and still not break everything?
-
-### [301. Scaling Web Applications Is Like Walking a Tight Rope in a Storm](https://hackernoon.com/scaling-web-applications-is-like-walking-a-tight-rope-in-a-storm-nx1f3uy5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FoT1lSR6NAaNYgE6qwDbhM0bRg9p2-fg4o3ubp.jpeg?alt=media&token=a1a7789f-35af-4533-9818-68520f65108e)
-Scaling web applications is a skill. It’s like walking a tight rope, in the midst of a storm. There are multiple factors acting on you,
-
-### [302. Why SaaS Companies Require Security Testing?](https://hackernoon.com/why-saas-companies-require-security-testing-jj413w7v)
-![](https://images.unsplash.com/photo-1520004434532-668416a08753?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-SaaS companies offer a lot of flexibility when it comes to providing essential software solutions to their customers. They have an added advantage of being easily accessible and that too on all kinds of devices. As a result, the modern age businesses are rapidly switching to these solutions provided by SaaS vendors. 
-
-### [303. How to Avoid Code Smells - A NDepend Tutorial](https://hackernoon.com/how-to-avoid-code-smells-a-ndepend-tutorial)
-![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-v4d31dn.jpeg)
-.NET developers can evaluate and visualize the codebase using the robust static analysis tool NDepend. It aids programmers in understanding the quality and main
-
-### [304. The Meticulous Coding Strategy Applied to Metabase Issue #14782](https://hackernoon.com/the-meticulous-coding-strategy-applied-to-metabase-issue-14782-2g3235mc)
-![](https://cdn.hackernoon.com/images/Mxatcr8t3EN0D24z6YR3DrWlIoX2-yk7029qq.jpeg)
-This short article describes the application of the meticulous approach to coding to a real-life problem.
-
-### [305. DevOps Shouldn't be Hard: Deployment Reports](https://hackernoon.com/devops-shouldnt-be-hard-reporting-s8k2k2r)
-![](https://images.unsplash.com/photo-1551801841-ecad875a5142?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Previously, we managed to make our app redeploy on each commit. As you can remember, we get the status of deployment by processing script execution results. So let's use it to send a notification to ourselves each time we deploy our code.
-
-### [306. Adding Source Attribution to Question Answering Systems](https://hackernoon.com/adding-source-attribution-to-question-answering-systems)
+### [298. Adding Source Attribution to Question Answering Systems](https://hackernoon.com/adding-source-attribution-to-question-answering-systems)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-px0222o.jpeg)
 Without source attribution, even the most accurate system risks losing user trust. 
 
-### [307. Pro Tips For Crowdsourced Penetration Testing](https://hackernoon.com/pro-tips-for-crowdsourced-penetration-testing-511b33g4)
+### [299. Scaling Web Applications Is Like Walking a Tight Rope in a Storm](https://hackernoon.com/scaling-web-applications-is-like-walking-a-tight-rope-in-a-storm-nx1f3uy5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FoT1lSR6NAaNYgE6qwDbhM0bRg9p2-fg4o3ubp.jpeg?alt=media&token=a1a7789f-35af-4533-9818-68520f65108e)
+Scaling web applications is a skill. It’s like walking a tight rope, in the midst of a storm. There are multiple factors acting on you,
+
+### [300. How To Manage Multiple IT Projects Like An Expert Using Code Review Tools](https://hackernoon.com/how-to-manage-multiple-it-projects-like-an-expert-using-code-review-tools-4mt33wz)
+![](https://cdn.hackernoon.com/images/VWpuL9Kf3HSygqde5wXJSTeqQ8P2-vg7t28km.jpeg)
+Whether you are struggling to organize multiple projects or ensuring that your team’s workload is manageable, there are a few strategies that you can use.
+
+### [301. How to Avoid Code Smells - A NDepend Tutorial](https://hackernoon.com/how-to-avoid-code-smells-a-ndepend-tutorial)
+![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-v4d31dn.jpeg)
+.NET developers can evaluate and visualize the codebase using the robust static analysis tool NDepend. It aids programmers in understanding the quality and main
+
+### [302. Bad Software? No Big Deal](https://hackernoon.com/bad-software-no-big-deal-xtr3ta1)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkT1VQM2AHoQbpj9ymHkA5hUOfmx1-z0n3ems.jpeg?alt=media&token=865dde2e-f1f0-403f-87a6-85844c6702ed)
+Inevitably, we’ll someday come across legacy software, inconsistent databases, or integration modules that simply don’t work. It might sound wise to fix this software, especially if they’re crucial to the business. The problem that refactoring costs development and validation time, and the business does not always have this time to invest, but at the same time needs the fix. How can we both deliver the business requirements in time and still not break everything?
+
+### [303. Why SaaS Companies Require Security Testing?](https://hackernoon.com/why-saas-companies-require-security-testing-jj413w7v)
+![](https://images.unsplash.com/photo-1520004434532-668416a08753?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+SaaS companies offer a lot of flexibility when it comes to providing essential software solutions to their customers. They have an added advantage of being easily accessible and that too on all kinds of devices. As a result, the modern age businesses are rapidly switching to these solutions provided by SaaS vendors. 
+
+### [304. Code Smell 264 - Hanlon's Razor](https://hackernoon.com/code-smell-264-hanlons-razor)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-qt833y4.jpeg)
+Overthinking and overdesigning your code can lead to unnecessary complexity. Learn how. 
+
+### [305. To Err is Human, to Test is Divine](https://hackernoon.com/to-err-is-human-to-test-is-divine-1ng5351h)
+![](https://cdn.hackernoon.com/images/LY29n1qtC5QZ81u8f9nsyrQZWTy1-uh8j38i8.jpeg)
+We are humans, we forget, we make mistakes, we change things, ideas; This happens when we work solo, imagine when you are in a team!
+
+### [306. The Meticulous Coding Strategy Applied to Metabase Issue #14782](https://hackernoon.com/the-meticulous-coding-strategy-applied-to-metabase-issue-14782-2g3235mc)
+![](https://cdn.hackernoon.com/images/Mxatcr8t3EN0D24z6YR3DrWlIoX2-yk7029qq.jpeg)
+This short article describes the application of the meticulous approach to coding to a real-life problem.
+
+### [307. Code Smell 240 - Dead Store Code ](https://hackernoon.com/code-smell-240-dead-store-code)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-8r830r0.jpeg)
+Learn how to detect and address dead store code smells with expert tips.
+
+### [308. Code Smell 03: Functions Are Too Long - Here's How to Fix That](https://hackernoon.com/code-smell-03-functions-are-too-long-heres-how-to-fix-that)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-sv03asf.jpeg)
+Refactor and extract functions longer than 5 lines. Here's how.
+
+### [309. Pro Tips For Crowdsourced Penetration Testing](https://hackernoon.com/pro-tips-for-crowdsourced-penetration-testing-511b33g4)
 ![](https://cdn.hackernoon.com/images/2lw2eoJaRDWCFQZC7lfDev9awoC3-0oo33au.jpeg)
 Bug bounties, crowd-sourced penetration tests are increasingly becoming popular. See the top six tips for participating in a bug bounty program.
 
 
-### [308. How-to: Website Benchmarks](https://hackernoon.com/how-to-website-benchmarks-mcw3tmy)
+### [310. How-to: Website Benchmarks](https://hackernoon.com/how-to-website-benchmarks-mcw3tmy)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Ff6lBzD8nNgeP5MZi6sTqaNu9Qh73-ws1x3uej.jpeg?alt=media&token=cea5e64f-99bd-4638-ad22-e1b73cc9e5f7)
 Time to first byte, first contentful paint, DNS response time, round-trip time, and the list goes on and on. With all of these metrics, how are you supposed to know which are the most important ones that you should monitor?
 
-### [309. Code Smell 240 - Dead Store Code ](https://hackernoon.com/code-smell-240-dead-store-code)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-8r830r0.jpeg)
-Learn how to detect and address dead store code smells with expert tips.
-
-### [310. Code Smell 264 - Hanlon's Razor](https://hackernoon.com/code-smell-264-hanlons-razor)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-qt833y4.jpeg)
-Overthinking and overdesigning your code can lead to unnecessary complexity. Learn how. 
-
-### [311. To Err is Human, to Test is Divine](https://hackernoon.com/to-err-is-human-to-test-is-divine-1ng5351h)
-![](https://cdn.hackernoon.com/images/LY29n1qtC5QZ81u8f9nsyrQZWTy1-uh8j38i8.jpeg)
-We are humans, we forget, we make mistakes, we change things, ideas; This happens when we work solo, imagine when you are in a team!
-
-### [312. Code Smell 03: Functions Are Too Long - Here's How to Fix That](https://hackernoon.com/code-smell-03-functions-are-too-long-heres-how-to-fix-that)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-sv03asf.jpeg)
-Refactor and extract functions longer than 5 lines. Here's how.
-
-### [313. Software Engineering Best Practices + The Best Resources to Save🚀](https://hackernoon.com/software-engineering-best-practices-the-best-resources-to-save)
+### [311. Software Engineering Best Practices + The Best Resources to Save🚀](https://hackernoon.com/software-engineering-best-practices-the-best-resources-to-save)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-ur0387g.jpeg)
 The reality is, tech moves fast, and it's easy to get distracted by the latest software, tool, or trend.
 
-### [314. 6 Examples to Differentiate Desirable Technical Debts From Undesirable Ones](https://hackernoon.com/6-examples-to-differentiate-desirable-technical-debts-from-undesirable-ones-i1583ygg)
-![](https://cdn.hackernoon.com/drafts/ux293y8o.png)
-Technical Debts have been in the center of software engineers debate for quite some time. Not only its analogy to financial terms has been discussed, but also the different contexts and aspects a debt contains.
-
-### [315. How to Find the Stinky Parts of Your Code [Part XLII]](https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-xlii)
+### [312. How to Find the Stinky Parts of Your Code [Part XLII]](https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-xlii)
 ![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-a-skunk-on-a-shower-taking-a-bath-wqcdpapzasuw5ld6hr04s5xg.png)
 Your code smells because there are likely many instances where it could be edited or improved.
 
-### [316. It is Time To Have A Quality Control For WordPress plugins](https://hackernoon.com/it-is-time-to-have-a-quality-control-for-wordpress-plugins-5v15318s)
-![](https://cdn.hackernoon.com/images/PZbDuFJOtgfshyld0GXV8wXYdxc2-h4j31is.jpeg)
-When a post on Facebook, on Christmas Eve, about the poor quality of WordPress plug-ins gets hundreds of replies within a few hours you know you are not alone.
+### [313. Clean Code and Speed: Not Either/Or](https://hackernoon.com/clean-code-and-speed-not-eitheror)
+![](https://cdn.hackernoon.com/images/9BKUQqHNa1XEwAGSAleKpzH2Zol2-e3026dy.png)
+Refuting claims that clean code hurts performance, this article shows how proper design delivers speed without sacrificing maintainability.
 
-### [317. DevOps Tools That Will Help in Rectifying Errors in the Databases](https://hackernoon.com/devops-tools-that-will-help-in-rectifying-errors-in-the-databases-ti1w3u74)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHeNvQgun0rROacFATpkBF6YYqdx2-eb4c3uil.jpeg?alt=media&token=61bc3c57-00fd-4333-99fe-902669d4d249)
-It is known that the separation between software development teams as well as information technology operations teams that faced many problems in it.  After witnessing this problem, the web-developers came with the idea of developing DevOps which is considered to carry roots in the Agile methodology. The basic function of DevOps is to integrate the set of two teams to improve their collaboration and productivity.
-
-### [318. DevOps Shouldn't be Hard: Configurating CD Server](https://hackernoon.com/devops-shouldnt-be-hard-cd-server-yy152kkm)
-![](https://images.unsplash.com/photo-1553159925-02b2e24f471d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-I wanted to write this guide for a while because DevOps is one of the things that is not discussed much yet there are a few straightforward actions that you can integrate into your workflow that will make your developer life much easier.
-
-### [319. Code Smell 275 - Missing Test Wrong Path](https://hackernoon.com/code-smell-275-missing-test-wrong-path)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-om03694.jpeg)
-This article highlights the critical need for fail conditions in tests expecting exceptions. 
-
-### [320. How to Start with Autotests](https://hackernoon.com/how-to-start-with-autotests)
+### [314. How to Start with Autotests](https://hackernoon.com/how-to-start-with-autotests)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-0h93n5q.jpeg)
 This article is about the approach one could take to ensure the autotests initiative is not rejected.
 
-### [321. Dev Diary #2: Run Away from Nesting Functions in Your Code](https://hackernoon.com/dev-diary-2-run-away-from-nesting-functions-in-your-code)
-![](https://cdn.hackernoon.com/images/hQvViCfTxOVba7uSkobJtTErWnu1-cz032fh.png)
-Discover how the Orchestrator/Actions Pattern can simplify your codebase, making it easier to navigate, test, and maintain. 
+### [315. 6 Examples to Differentiate Desirable Technical Debts From Undesirable Ones](https://hackernoon.com/6-examples-to-differentiate-desirable-technical-debts-from-undesirable-ones-i1583ygg)
+![](https://cdn.hackernoon.com/drafts/ux293y8o.png)
+Technical Debts have been in the center of software engineers debate for quite some time. Not only its analogy to financial terms has been discussed, but also the different contexts and aspects a debt contains.
+
+### [316. DevOps Tools That Will Help in Rectifying Errors in the Databases](https://hackernoon.com/devops-tools-that-will-help-in-rectifying-errors-in-the-databases-ti1w3u74)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHeNvQgun0rROacFATpkBF6YYqdx2-eb4c3uil.jpeg?alt=media&token=61bc3c57-00fd-4333-99fe-902669d4d249)
+It is known that the separation between software development teams as well as information technology operations teams that faced many problems in it.  After witnessing this problem, the web-developers came with the idea of developing DevOps which is considered to carry roots in the Agile methodology. The basic function of DevOps is to integrate the set of two teams to improve their collaboration and productivity.
+
+### [317. Code Smell 275 - Missing Test Wrong Path](https://hackernoon.com/code-smell-275-missing-test-wrong-path)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-om03694.jpeg)
+This article highlights the critical need for fail conditions in tests expecting exceptions. 
+
+### [318. It is Time To Have A Quality Control For WordPress plugins](https://hackernoon.com/it-is-time-to-have-a-quality-control-for-wordpress-plugins-5v15318s)
+![](https://cdn.hackernoon.com/images/PZbDuFJOtgfshyld0GXV8wXYdxc2-h4j31is.jpeg)
+When a post on Facebook, on Christmas Eve, about the poor quality of WordPress plug-ins gets hundreds of replies within a few hours you know you are not alone.
+
+### [319. DevOps Shouldn't be Hard: Configurating CD Server](https://hackernoon.com/devops-shouldnt-be-hard-cd-server-yy152kkm)
+![](https://images.unsplash.com/photo-1553159925-02b2e24f471d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+I wanted to write this guide for a while because DevOps is one of the things that is not discussed much yet there are a few straightforward actions that you can integrate into your workflow that will make your developer life much easier.
+
+### [320. Programming Paradigms: All the Things We’ve Learned Not To Do](https://hackernoon.com/programming-paradigms-all-the-things-weve-learned-not-to-do)
+![](https://cdn.hackernoon.com/images/code-displayed-on-a-laptop-ediq4jqqi3s1r50opp74gcbv.png)
+Programming paradigms don't give freedom—they take it away. Here's why Structured, OOP, and Functional might be the last paradigms we ever get.
+
+### [321. Navigating the Maze of Technical Documentation: Best Practices for Keeping Your Code Up-To-Date](https://hackernoon.com/navigating-the-maze-of-technical-documentation-best-practices-for-keeping-your-code-up-to-date)
+![](https://cdn.hackernoon.com/images/Y56tfSgkuIgpbx3m4OA15Phv3S93-mlc3hp3.jpeg)
+How to manage technical documentation effectively, avoid common pitfalls, and ensure that your knowledge base stays accurate and up-to-date in software developm
 
 ### [322. How is a Code Formatter Implemented in Turtle Graphics](https://hackernoon.com/how-is-a-code-formatter-implemented-in-turtle-graphics)
 ![](https://cdn.hackernoon.com/images/dkdP4VfxtrUVSMiq5X0VGwTQuZ23-tkb3qkl.jpeg)
 
 
-### [323. Programming Paradigms: All the Things We’ve Learned Not To Do](https://hackernoon.com/programming-paradigms-all-the-things-weve-learned-not-to-do)
-![](https://cdn.hackernoon.com/images/code-displayed-on-a-laptop-ediq4jqqi3s1r50opp74gcbv.png)
-Programming paradigms don't give freedom—they take it away. Here's why Structured, OOP, and Functional might be the last paradigms we ever get.
+### [323. Dev Diary #2: Run Away from Nesting Functions in Your Code](https://hackernoon.com/dev-diary-2-run-away-from-nesting-functions-in-your-code)
+![](https://cdn.hackernoon.com/images/hQvViCfTxOVba7uSkobJtTErWnu1-cz032fh.png)
+Discover how the Orchestrator/Actions Pattern can simplify your codebase, making it easier to navigate, test, and maintain. 
 
 ### [324. How to Spot a Good Tester: Interview With Alexander Van Der Berg](https://hackernoon.com/how-to-spot-a-good-tester-interview-with-alexander-van-der-berg)
 ![](https://cdn.hackernoon.com/images/testing-cliwfsss4000001s60brj78uf.png)
@@ -1321,91 +1323,91 @@ Today's guest is Alexander van der Berg, an experienced software tester who can 
 ![](https://cdn.hackernoon.com/images/8Ie16Q9KcnTEUu8vTaOsDLGxJJX2-cw03d6r.jpeg)
 Discover how Go's range loops work, common pitfalls to avoid, and tips for writing efficient, bug-free code. Elevate your Go programming skills today!
 
-### [326. Navigating the Maze of Technical Documentation: Best Practices for Keeping Your Code Up-To-Date](https://hackernoon.com/navigating-the-maze-of-technical-documentation-best-practices-for-keeping-your-code-up-to-date)
-![](https://cdn.hackernoon.com/images/Y56tfSgkuIgpbx3m4OA15Phv3S93-mlc3hp3.jpeg)
-How to manage technical documentation effectively, avoid common pitfalls, and ensure that your knowledge base stays accurate and up-to-date in software developm
-
-### [327. How To Test A Controller in Ruby On Rails](https://hackernoon.com/how-to-test-a-controller-in-ruby-on-rails-0e283ua6)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-0s114xc4.jpeg?alt=media&token=2871e54b-9071-4548-a678-54d255dabfeb)
-In this section, I am going to write test code. Here we"ll discuss a little bit philosophy of testing but more writing tests.
-
-### [328. Finding the Stinky Parts of Your Code: Code Smell 256 - Mutable Getters](https://hackernoon.com/finding-the-stinky-parts-of-your-code-code-smell-256-mutable-getters)
+### [326. Finding the Stinky Parts of Your Code: Code Smell 256 - Mutable Getters](https://hackernoon.com/finding-the-stinky-parts-of-your-code-code-smell-256-mutable-getters)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-8v834lz.jpeg)
 Avoid mutable getters to protect your code's integrity and encapsulation. Learn how to return immutable copies in Java for safer and more predictable coding 
+
+### [327. Code Smell 310 – Why Generic Date Names Break Your Code](https://hackernoon.com/code-smell-310-why-generic-date-names-break-your-code)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-sz036q7.jpeg)
+Use descriptive date names that reveal their role and business purpose instead of generic "date" labels.
+
+### [328. Mastering CI/CD: A Simplified Guide for Entry and Mid-Level Full-Stack Developers](https://hackernoon.com/mastering-cicd-a-simplified-guide-for-entry-and-mid-level-full-stack-developers)
+![](https://cdn.hackernoon.com/images/5KaAW2aPoBW6JARCP3Gc0MjAqGf2-o682s1n.png)
+Learn to build, test, and deploy applications seamlessly, ensuring code integrity and efficiency.
 
 ### [329. The Mighty App Developer vs a Pesky Bug](https://hackernoon.com/the-mighty-app-developer-vs-a-pesky-bug)
 ![](https://cdn.hackernoon.com/images/mighty-developer-vs-pesky-bug-cle705nnb000001s68zhf2dck.png)
 A year ago, I, the almighty mobile application developer, was brought down by a pesky bug that was causing my precious creation to crash frequently for users.
 
-### [330. How to Build an MVC App On Rails](https://hackernoon.com/how-to-build-an-mvc-app-on-rails-l61k33so)
+### [330. How To Test A Controller in Ruby On Rails](https://hackernoon.com/how-to-test-a-controller-in-ruby-on-rails-0e283ua6)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-0s114xc4.jpeg?alt=media&token=2871e54b-9071-4548-a678-54d255dabfeb)
+In this section, I am going to write test code. Here we"ll discuss a little bit philosophy of testing but more writing tests.
+
+### [331. How to Build an MVC App On Rails](https://hackernoon.com/how-to-build-an-mvc-app-on-rails-l61k33so)
 ![](https://cdn.hackernoon.com/images/1mPqyosK7TOSe5cJkVYBak7T2ho1-3yk321k.jpeg)
 MVC In Ruby On Rails.
 
-### [331. Mastering CI/CD: A Simplified Guide for Entry and Mid-Level Full-Stack Developers](https://hackernoon.com/mastering-cicd-a-simplified-guide-for-entry-and-mid-level-full-stack-developers)
-![](https://cdn.hackernoon.com/images/5KaAW2aPoBW6JARCP3Gc0MjAqGf2-o682s1n.png)
-Learn to build, test, and deploy applications seamlessly, ensuring code integrity and efficiency.
-
-### [332. Simplified Spinnaker is Possible: I Never Thought About it](https://hackernoon.com/simplified-spinnaker-is-possible-i-never-thought-about-it-eny35vh)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-bpe35lb.jpeg)
-Getting Spinnaker running is not an easy feat. Armory's Minnaker open source application gets you started in 10 minutes, so you can focus on Armory's value.
+### [332. Assure Superb Quality of Ruby On Rails App Through Code Auditing](https://hackernoon.com/assure-superb-quality-of-ruby-on-rails-app-through-code-auditing)
+![](https://cdn.hackernoon.com/images/fNyP0kNO9DbrsOwpViDuPpKplcq1-z193pvl.jpeg)
+This article is all about code auditing and how it helps in refining application code. It also explains the different types of code reviews and how they are use
 
 ### [333. Code Smell 241 - Referential Transparency Violation](https://hackernoon.com/code-smell-241-referential-transparency-violation)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-wz832sl.jpeg)
 Learn how to write pure functions to enhance code readability, maintainability, and testability. 
 
-### [334. Assure Superb Quality of Ruby On Rails App Through Code Auditing](https://hackernoon.com/assure-superb-quality-of-ruby-on-rails-app-through-code-auditing)
-![](https://cdn.hackernoon.com/images/fNyP0kNO9DbrsOwpViDuPpKplcq1-z193pvl.jpeg)
-This article is all about code auditing and how it helps in refining application code. It also explains the different types of code reviews and how they are use
+### [334. Simplified Spinnaker is Possible: I Never Thought About it](https://hackernoon.com/simplified-spinnaker-is-possible-i-never-thought-about-it-eny35vh)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-bpe35lb.jpeg)
+Getting Spinnaker running is not an easy feat. Armory's Minnaker open source application gets you started in 10 minutes, so you can focus on Armory's value.
 
-### [335. The Long-Term Benefits of Unit Testing (With Jasmine Examples)](https://hackernoon.com/the-long-term-benefits-of-unit-testing-with-jasmine-examples)
-![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-v783vhx.jpeg)
-learn how unit testing enhances code quality and accelerates development.
-
-### [336. Continuous Deployment on Steroids](https://hackernoon.com/continuous-deployment-on-steroids)
+### [335. Continuous Deployment on Steroids](https://hackernoon.com/continuous-deployment-on-steroids)
 ![](https://cdn.hackernoon.com/images/bottles-of-pills-beside-a-laptop-n4caxj7kkn7iu8urcrfbglrd.png)
 Discover the power of Aptible in redefining continuous deployment. Explore best practices and tips for successful CD processes
 
-### [337. Top 7 Techniques For The Ideal Secure Code Review](https://hackernoon.com/top-7-techniques-for-the-ideal-secure-code-review-8dt34yz)
-![](https://cdn.hackernoon.com/images/Kw32eRwbrmeim4If6jSrFZEIpSB3-yzu26xy.jpeg)
-Considering today's cyber threat landscape, it is undeniable to say that the internet-facing applications are at major risk due to rapid increase in vulnerability exploits and ways to penetrate applications leveraging the hidden weaknesses in them. 
+### [336. The Long-Term Benefits of Unit Testing (With Jasmine Examples)](https://hackernoon.com/the-long-term-benefits-of-unit-testing-with-jasmine-examples)
+![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-v783vhx.jpeg)
+learn how unit testing enhances code quality and accelerates development.
 
-### [338. How to Find the Stinky Parts of Your Code [Part XLV]](https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-xlv)
+### [337. How to Find the Stinky Parts of Your Code [Part XLV]](https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-xlv)
 ![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-a-skunk-with-a-calculator-and-a-stinky-tail-wk3q2zco7zu5sharusfnfshp.png)
 Your code smells because there are likely many instances where it could be edited or improved. Most of these smells are just hints something might be wrong. 
 
 
 
+### [338. Top 7 Techniques For The Ideal Secure Code Review](https://hackernoon.com/top-7-techniques-for-the-ideal-secure-code-review-8dt34yz)
+![](https://cdn.hackernoon.com/images/Kw32eRwbrmeim4If6jSrFZEIpSB3-yzu26xy.jpeg)
+Considering today's cyber threat landscape, it is undeniable to say that the internet-facing applications are at major risk due to rapid increase in vulnerability exploits and ways to penetrate applications leveraging the hidden weaknesses in them. 
+
 ### [339. Instance Comparison Chart: Find The Right AWS EC2 Instance](https://hackernoon.com/instance-comparison-chart-find-the-right-aws-ec2-instance-u97y3yq3)
 ![](https://cdn.hackernoon.com/images/yn7s3ycy.jpg)
 So you’ve decided to choose AWS as the primary provider of your cloud service and now you’re looking into setting up your environment. You’ve got your project to be deployed and all you have left to do is choose an AWS instance that will run your machine image. But now, like many others before you, you are stumped by the countless choices of EC2 instances out there.
 
-### [340. Top 10 C++ Open Source Project Bugs Found in 2019 ](https://hackernoon.com/top-10-c-open-source-project-bugs-found-in-2019-o4403wdu)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FO322TA7j93fsRTTa0swmcZx6VPR2-wl4b3t2t.jpeg?alt=media&token=07d9fdf4-771e-42ac-9a2e-c639b1ac5783)
-Another year is drawing to an end, and it's a perfect time to make yourself a cup of coffee and reread the reviews of bugs collected across open-source projects over this year. This would take quite a while, of course, so we prepared this article to make it easier for you. Today we'll be recalling the most interesting dark spots that we came across in open-source C/C++ projects in 2019.
+### [340. The Nascent Concept of Software Recycling](https://hackernoon.com/the-nascent-concept-of-software-recycling)
+![](https://cdn.hackernoon.com/images/413euGpz9JcvX40wUDuWJVtHdMz1-0h93oef.jpeg)
+I want to put forward the idea of software recycle. Software recycle is software reuse taken to a new level.
 
 ### [341. Simple Yet Effective Advice To Handle Large Releases with DevOps Effortlessly](https://hackernoon.com/simple-yet-effective-advice-to-handle-large-releases-with-devops-effortlessly-66153tj1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVQee2H7b9MdqlHMpVjYYgK9YsSu2-q7b3wgo.jpeg?alt=media&token=b5131c72-5480-4ef5-97ca-999fbb7c40c3)
 When you start working on large scale enterprise systems, handling releases can become complex. You'll have to think about your front-end, microservices, third-party services, and other services. Making sure these things get deployed in the right order and pass integration tests can be tricky once you start working with asynchronous tasks.
 
-### [342. The Nascent Concept of Software Recycling](https://hackernoon.com/the-nascent-concept-of-software-recycling)
-![](https://cdn.hackernoon.com/images/413euGpz9JcvX40wUDuWJVtHdMz1-0h93oef.jpeg)
-I want to put forward the idea of software recycle. Software recycle is software reuse taken to a new level.
+### [342. Top 10 C++ Open Source Project Bugs Found in 2019 ](https://hackernoon.com/top-10-c-open-source-project-bugs-found-in-2019-o4403wdu)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FO322TA7j93fsRTTa0swmcZx6VPR2-wl4b3t2t.jpeg?alt=media&token=07d9fdf4-771e-42ac-9a2e-c639b1ac5783)
+Another year is drawing to an end, and it's a perfect time to make yourself a cup of coffee and reread the reviews of bugs collected across open-source projects over this year. This would take quite a while, of course, so we prepared this article to make it easier for you. Today we'll be recalling the most interesting dark spots that we came across in open-source C/C++ projects in 2019.
 
 ### [343. You Probably Underestimate Control Variables ](https://hackernoon.com/you-probably-underestimate-control-variables-ig1t34c3)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-c32t29qu.jpeg)
 Contexts should always be clearly stated when drawing the conclusions, to ensure that those conclusions won't be applied to situations where those conclusions
 
-### [344. How To Outsource Software Testing For CTOs](https://hackernoon.com/how-to-outsource-software-testing-for-ctos-sy1h3536)
+### [344. Navigate Debugging Challenges with These Proven Techniques](https://hackernoon.com/navigate-debugging-challenges-with-these-proven-techniques)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-is83zyc.jpeg)
+
+
+### [345. How To Outsource Software Testing For CTOs](https://hackernoon.com/how-to-outsource-software-testing-for-ctos-sy1h3536)
 ![](https://hackernoon.com/images/zckzAU7gH5dDcR9k3jVDnFjT6Kx1-2sj341w.jpeg)
 Determining if outsourcing is best for your needs and how to find the right provider in a sea of options
 
-### [345. Why You Must Start Refactoring Your Codebase Today](https://hackernoon.com/why-you-must-start-refactoring-your-codebase-today)
+### [346. Why You Must Start Refactoring Your Codebase Today](https://hackernoon.com/why-you-must-start-refactoring-your-codebase-today)
 ![](https://cdn.hackernoon.com/images/I65vGdTMqQZL8HJDyoIczj6dXjy1-wz037kv.jpeg)
 What is refactoring? Why do we go through the trouble of improving code that works? 
-
-### [346. Navigate Debugging Challenges with These Proven Techniques](https://hackernoon.com/navigate-debugging-challenges-with-these-proven-techniques)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-is83zyc.jpeg)
-
 
 ### [347. What Mobile Gaming Industry Leaders Think About Testing Challenges](https://hackernoon.com/what-mobile-gaming-industry-leaders-think-about-testing-challenges-kp1k33y1)
 ![](https://cdn.hackernoon.com/images/zckzAU7gH5dDcR9k3jVDnFjT6Kx1-uo4d3316.jpeg)
@@ -1415,59 +1417,63 @@ Wonder how the leading mobile games companies test their apps' functionality and
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-by8333y.jpeg)
 Discover the importance of verifying file copies to prevent silent modifications and uphold software principles like the Least Surprise and Fail Fast principles
 
-### [349. What Tools You Must Use to Measure Your Product Performance](https://hackernoon.com/what-tools-you-must-use-to-measure-your-product-performance-wc613v1t)
-![](https://cdn.hackernoon.com/drafts/qalh3yno.png)
-Performance testing is a very crucial part of quality control for many applications. If an application is supposed to support multiple connections and/or numerous calls to a server, then it’s very important to be sure that it can handle the load. What’s good about an app that processes user’s requests at a snail pace?
-
-### [350. Refactor Or Not To Refactor?](https://hackernoon.com/refactor-or-not-to-refactor-7316337b)
-![](https://hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-kx6829bf.jpeg)
-It probably doesn't have an universal answer other than using case-by-case judgments
-
-### [351. How to Test Pull Requests Intelligently with a Merge Queue](https://hackernoon.com/how-to-test-pull-requests-intelligently-with-a-merge-queue)
-![](https://cdn.hackernoon.com/images/G5C7etmEx6d1BWgBEZ5lGstV8Bn1-ot93xja.png)
-Learn how to streamline your pull request (PR) testing process with the merge queue strategy.
-
-### [352. Building a Divider App: How Many Cases Can Share One Operation?](https://hackernoon.com/building-a-divider-app-how-many-cases-can-share-one-operation)
+### [349. Building a Divider App: How Many Cases Can Share One Operation?](https://hackernoon.com/building-a-divider-app-how-many-cases-can-share-one-operation)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-tf92hza.jpeg)
 Thinking about all the things that could go wrong in code execution and preparing for them is a big part of a programmer's job.
 
-### [353. How To Block Security Vulnerabilities from Penetrating Your Code](https://hackernoon.com/how-to-block-security-vulnerabilities-from-penetrating-your-code-okbj3v0p)
+### [350. What Tools You Must Use to Measure Your Product Performance](https://hackernoon.com/what-tools-you-must-use-to-measure-your-product-performance-wc613v1t)
+![](https://cdn.hackernoon.com/drafts/qalh3yno.png)
+Performance testing is a very crucial part of quality control for many applications. If an application is supposed to support multiple connections and/or numerous calls to a server, then it’s very important to be sure that it can handle the load. What’s good about an app that processes user’s requests at a snail pace?
+
+### [351. The Git Log Never Lies](https://hackernoon.com/the-git-log-never-lies)
+![](https://cdn.hackernoon.com/images/46XgAwOrBkYmPuZevS9nWffWDhB2-gw83bus.png)
+A hackathon judge shares the forensic signals - git logs, package manifests, ghost dependencies, fake tests - that reveal more about a project than any demo.
+
+### [352. How to Test Pull Requests Intelligently with a Merge Queue](https://hackernoon.com/how-to-test-pull-requests-intelligently-with-a-merge-queue)
+![](https://cdn.hackernoon.com/images/G5C7etmEx6d1BWgBEZ5lGstV8Bn1-ot93xja.png)
+Learn how to streamline your pull request (PR) testing process with the merge queue strategy.
+
+### [353. Refactor Or Not To Refactor?](https://hackernoon.com/refactor-or-not-to-refactor-7316337b)
+![](https://hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-kx6829bf.jpeg)
+It probably doesn't have an universal answer other than using case-by-case judgments
+
+### [354. How To Block Security Vulnerabilities from Penetrating Your Code](https://hackernoon.com/how-to-block-security-vulnerabilities-from-penetrating-your-code-okbj3v0p)
 ![](https://images.unsplash.com/photo-1520697830682-bbb6e85e2b0b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 As continuous software deployments grow and become the accepted standard, security measures gain even more importance. From development and all the way through to production, security requirements should be adopted by all teams in an organization.
 
-### [354. Combatting Overengineering: Don't Be Afraid To Throw Away Your Code](https://hackernoon.com/combatting-overengineering-dont-be-afraid-to-throw-away-your-code-5e4235iq)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-i03s26tf.jpeg)
-There are two lessons here: 1) Think before you code - this one I regularly forget. 2) Don’t be afraid to throw away your code.
-
-### [355. How to Backup Your Microsoft Azure Storage Accounts](https://hackernoon.com/how-to-backup-your-microsoft-azure-storage-accounts-sz823vjr)
-![](https://cdn.hackernoon.com/drafts/h714d385z.png)
-Azure Storage Account is one of the foundation services of Azure. Pretty much all other services use it under the cover in a way or another. This service is simple, works great, and has crazy SLA and redundancy capabilities. However, it doesn't provide a point in time restore. Meaning that if you corrupt or delete some data, there's no way to recover it. There are some solutions that you can find over the internet, but unfortunately, none of them is a silver bullet. Let's explore and compare some of them.
-
-### [356. Writing and Selling Unit Tests: When You Need Them and When You Don't](https://hackernoon.com/writing-and-selling-unit-tests-when-you-need-them-and-when-you-dont)
+### [355. Writing and Selling Unit Tests: When You Need Them and When You Don't](https://hackernoon.com/writing-and-selling-unit-tests-when-you-need-them-and-when-you-dont)
 ![](https://cdn.hackernoon.com/images/Y56tfSgkuIgpbx3m4OA15Phv3S93-ima3hap.jpeg)
 Unit tests help ensure your code works better and prevents bugs. However, that explanation sounds too abstract and impractical for real-world scenarios.
 
-### [357. Fine-tune Your Product In No Time](https://hackernoon.com/fine-tune-your-product-in-no-time-8fw3tc8)
+### [356. How to Backup Your Microsoft Azure Storage Accounts](https://hackernoon.com/how-to-backup-your-microsoft-azure-storage-accounts-sz823vjr)
+![](https://cdn.hackernoon.com/drafts/h714d385z.png)
+Azure Storage Account is one of the foundation services of Azure. Pretty much all other services use it under the cover in a way or another. This service is simple, works great, and has crazy SLA and redundancy capabilities. However, it doesn't provide a point in time restore. Meaning that if you corrupt or delete some data, there's no way to recover it. There are some solutions that you can find over the internet, but unfortunately, none of them is a silver bullet. Let's explore and compare some of them.
+
+### [357. Combatting Overengineering: Don't Be Afraid To Throw Away Your Code](https://hackernoon.com/combatting-overengineering-dont-be-afraid-to-throw-away-your-code-5e4235iq)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-i03s26tf.jpeg)
+There are two lessons here: 1) Think before you code - this one I regularly forget. 2) Don’t be afraid to throw away your code.
+
+### [358. Fine-tune Your Product In No Time](https://hackernoon.com/fine-tune-your-product-in-no-time-8fw3tc8)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1lsFkBiXT8S7FYoJbPfiTk7AaLW2-sl53uv0.jpeg?alt=media&token=ffe61514-3c7c-4c2b-81d8-5632529847bb)
 Being experts in the IT industry, we at QAWERK know about the importance of testing and want to share this knowledge as we believe high-quality software is the key to success.
 
-### [358. Making Friends with RuboCop: Ruby Static Code Analyzer](https://hackernoon.com/making-friends-with-rubocop-ruby-static-code-analyzer-rp9c36wr)
+### [359. Making Friends with RuboCop: Ruby Static Code Analyzer](https://hackernoon.com/making-friends-with-rubocop-ruby-static-code-analyzer-rp9c36wr)
 ![](https://images.unsplash.com/photo-1543941869-11da6518d88f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 At Memory.ai, we started using RuboCop heavily. This is a story of how we integrated RuboCop into our existing app. 
 
-### [359. How to Find the Stinky Parts of Your Code [Part XLI]](https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-xli)
+### [360. How to Find the Stinky Parts of Your Code [Part XLI]](https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-xli)
 ![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-yet-another-skunk-smelling-a-stink-keyboard-vor3ufuk03hy5jhegeuy33rw.png)
 Your code smells because there are likely many instances where it could be edited or improved.
 
-### [360. How Gusto Makes Bug Fixing Enjoyable With Bugsnag](https://hackernoon.com/how-gusto-makes-bug-fixing-enjoyable-with-bugsnag)
+### [361. How Gusto Makes Bug Fixing Enjoyable With Bugsnag](https://hackernoon.com/how-gusto-makes-bug-fixing-enjoyable-with-bugsnag)
 ![](https://cdn.hackernoon.com/images/G7JOCMInhTbqoh3WpBaCwVWcsc22-z593plt.jpeg)
 By enabling developers to more easily identify and address errors, Gusto can quickly iterate and improve their software’s performance. 
 
-### [361. Writing Clean Code: Practical Tricks for PHP](https://hackernoon.com/writing-clean-code-practical-tricks-for-php-1b1c33p1)
+### [362. Writing Clean Code: Practical Tricks for PHP](https://hackernoon.com/writing-clean-code-practical-tricks-for-php-1b1c33p1)
 ![](https://cdn.hackernoon.com/images/LLNXiPKIsZM5IWTNJfmlBf6EZjZ2-2n6126ni.jpeg)
 Writing clean code isn’t hard, but sometimes getting a piece of code to work right can get in the way of making it maintainable. 
 
-### [362. Hack Your Technical Debt: The 1% Better Every Day Challenge](https://hackernoon.com/hack-your-technical-debt-the-1percent-better-every-day-challenge-bo5b31j4)
+### [363. Hack Your Technical Debt: The 1% Better Every Day Challenge](https://hackernoon.com/hack-your-technical-debt-the-1percent-better-every-day-challenge-bo5b31j4)
 ![](https://cdn.hackernoon.com/images/wTLXRHcYZvU57CVqgls1STwilUg2-2mc312q.jpeg)
 It's easy for technical debt to grow in our codebase. Commit to spending 20 minutes a day for 30 days to tackling technical debt and get 1% better every day.
 

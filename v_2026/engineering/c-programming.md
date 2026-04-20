@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [c-programming](https://hackernoon.com/tagged/c-programming)
+### Let's learn about [C Programming](https://hackernoon.com/tagged/c-programming) via these 66 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+C programming is the practice of writing software using the C language, a foundational and efficient low-level language critical for operating systems, embedded systems, and high-performance applications. It matters by providing deep control over hardware and serving as the basis for many modern programming languages and systems.
+
 ### [1. Asynchronous Initialization in C#: Overcoming Constructor Limitations](https://hackernoon.com/asynchronous-initialization-in-c-overcoming-constructor-limitations)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ju83m01.jpeg)
 Solutions to enable asynchronous initialization in C# constructors, overcoming limitations for efficient code execution.
@@ -57,21 +61,21 @@ Explore modern C++ variadic templates and fold expressions to simplify code, han
 ![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-6pg3fyo.jpeg)
 This list will rank each C# book based on their total number of reviews on Amazon alongside their average 5-star rating. 
 
-### [15. Why Odin Deserves a Place Beside C, Zig, and Rust in Your Toolbox](https://hackernoon.com/why-odin-deserves-a-place-beside-c-zig-and-rust-in-your-toolbox)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-yu022fb.jpeg)
-I like many others initially dismissed Odin as that language that was primarily intended for game development.
-
-### [16. Using C# for Real-time Systems](https://hackernoon.com/using-c-for-real-time-systems)
+### [15. Using C# for Real-time Systems](https://hackernoon.com/using-c-for-real-time-systems)
 ![](https://cdn.hackernoon.com/images/L1ya8SZKyEUzHtKDbBhqyR6s2HI2-he93oe8.jpeg)
 My best practice from making a real-time high loaded performance application on .NET platform
 
-### [17. 10 Noteworthy C and C++ Bugs Found in Open-Source Projects in 2025](https://hackernoon.com/10-noteworthy-c-and-c-bugs-found-in-open-source-projects-in-2025)
+### [16. 10 Noteworthy C and C++ Bugs Found in Open-Source Projects in 2025](https://hackernoon.com/10-noteworthy-c-and-c-bugs-found-in-open-source-projects-in-2025)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-xx022cj.webp)
 A roundup of 10 standout C and C++ bugs found in open-source projects in 2025.
 
-### [18. Understanding Virtual Functions in C++](https://hackernoon.com/understanding-virtual-functions-in-c)
+### [17. Understanding Virtual Functions in C++](https://hackernoon.com/understanding-virtual-functions-in-c)
 ![](https://cdn.hackernoon.com/images/hxgB3A2KjtPk4sJXB1ezGnusKBx1-92c35uz.jpeg)
 Virtual functions are normal C++ methods with virtual keyword. Checkout the working and implementation of these methods in this blog. 
+
+### [18. Why Odin Deserves a Place Beside C, Zig, and Rust in Your Toolbox](https://hackernoon.com/why-odin-deserves-a-place-beside-c-zig-and-rust-in-your-toolbox)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-yu022fb.jpeg)
+I like many others initially dismissed Odin as that language that was primarily intended for game development.
 
 ### [19. When The Oldest Programming Language Outsmarts The Newest AI](https://hackernoon.com/when-the-oldest-programming-language-outsmarts-the-newest-ai)
 ![](https://cdn.hackernoon.com/images/9F2W64ovN7b9N5QGpmjuGCfiEmY2-zf03b3x.png)
@@ -105,17 +109,17 @@ Most intermediate dotnet devs writing async await code in C# will come across as
 ![](https://cdn.hackernoon.com/images/2yEHZMN6JeQSAmOaVn8T8TtsI7E3-kgc3oof.jpeg)
 Manticore Search is a faster alternative to Elasticsearch written in C++ with a 21-year history
 
-### [27. Re-learning the Basics of C++](https://hackernoon.com/re-learning-the-basics-of-c)
+### [27. A Practical Guide to Dynamic Polymorphism in C Programming](https://hackernoon.com/a-practical-guide-to-dynamic-polymorphism-in-c-programming)
+![](https://cdn.hackernoon.com/images/kIHr1rRf4vghAXgOb3lKJOUQdc02-xdc319w.jpeg)
+Explore how dynamic polymorphism enhances code flexibility and maintainability in C programming
+
+### [28. Re-learning the Basics of C++](https://hackernoon.com/re-learning-the-basics-of-c)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-lp930j9.jpeg)
 C++ was initially intended to extend the C programming language with features that make object-oriented programming easier. 
 
-### [28. 10 Most Popular Programming Languages | 2022](https://hackernoon.com/10-most-popular-programming-languages-or-2022)
+### [29. 10 Most Popular Programming Languages | 2022](https://hackernoon.com/10-most-popular-programming-languages-or-2022)
 ![](https://cdn.hackernoon.com/images/eC7utbILBKZVUqT8ATSa3GQ9vLZ2-6m93lhi.jpeg)
 Top 10 Programming Languages - 1: Python, 2: JavaScript, 3: Java, 4: C#, 5: C, 6: C++, 7: Go, 8: PHP, 9: Perl, 10: Swift...
-
-### [29. A Practical Guide to Dynamic Polymorphism in C Programming](https://hackernoon.com/a-practical-guide-to-dynamic-polymorphism-in-c-programming)
-![](https://cdn.hackernoon.com/images/kIHr1rRf4vghAXgOb3lKJOUQdc02-xdc319w.jpeg)
-Explore how dynamic polymorphism enhances code flexibility and maintainability in C programming
 
 ### [30. Dumping a C program's AST with the Psyche-C Compiler Frontend](https://hackernoon.com/dumping-a-c-programs-ast-with-the-psyche-c-compiler-frontend)
 ![](https://cdn.hackernoon.com/images/thiowC24W3N1MegiuRFVZJYpXYz2-e493hxh.png)
@@ -197,29 +201,29 @@ In 1972, Alan Kay, Dan Ingalls, and Adele Goldberg at Xerox PARC created a revol
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-0482rgr.jpeg)
 If you’re a programmer, you probably remember your first program as the classic Hello World program that outputs “Hello World!” to your display.  The Hello World program is a nice, simple little program- but it’s BORING!  Likewise for the numerous code examples for beginners that involve the variables i and j. 
 
-### [50. Learn To Code in C with Nursery Rhymes and Fairy Tales](https://hackernoon.com/learn-to-code-in-c-with-nursery-rhymes-and-fairy-tales)
-![](https://cdn.hackernoon.com/images/NLSlxLXGa8Z0kWKlIoM8jdEQdc92-wzb3uyb.jpeg)
-In this book, classic rhymes and stories you’re familiar with are “translated” into full C programs.
-
-### [51. The 1980s Code Powering Modern Reliability—and the Mistakes It Still Makes](https://hackernoon.com/the-1980s-code-powering-modern-reliabilityand-the-mistakes-it-still-makes)
+### [50. The 1980s Code Powering Modern Reliability—and the Mistakes It Still Makes](https://hackernoon.com/the-1980s-code-powering-modern-reliabilityand-the-mistakes-it-still-makes)
 ![](https://cdn.hackernoon.com/images/6Dt8eSIVdXVdIJZnibGuyX1nwS33-fa0383r.png)
 We audit Erlang/OTP’s decades-old C and NIF code with PVS-Studio, surfacing logic bugs, buffer risks, undefined behavior, and leaks in battle-tested systems.
+
+### [51. Learn To Code in C with Nursery Rhymes and Fairy Tales](https://hackernoon.com/learn-to-code-in-c-with-nursery-rhymes-and-fairy-tales)
+![](https://cdn.hackernoon.com/images/NLSlxLXGa8Z0kWKlIoM8jdEQdc92-wzb3uyb.jpeg)
+In this book, classic rhymes and stories you’re familiar with are “translated” into full C programs.
 
 ### [52. Remote C# Programmer Wanted: Hot List of Companies That Are in Search of Remote Developers](https://hackernoon.com/remote-c-programmer-wanted-hot-list-of-companies-that-are-in-search-of-remote-developers-v81533zz)
 ![](https://cdn.hackernoon.com/images/MwPNSb5YC5biCMjeUzIV1iMBG5f1-ad5v33b8.jpeg)
 These are the top companies hiring for C# remote jobs right now
 
-### [53. The Project That Made Me Choose C Again](https://hackernoon.com/the-project-that-made-me-choose-c-again)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-41022kn.jpeg)
-In a world dominated by modern programming languages, C remains a powerful choice for low-level system programming and efficiency.
-
-### [54. Armstrong Number in C](https://hackernoon.com/armstrong-number-in-c)
+### [53. Armstrong Number in C](https://hackernoon.com/armstrong-number-in-c)
 ![](https://cdn.hackernoon.com/images/RGd8gYqtrbhMVZHKJUJnyTAUWol2-cf93hli.jpeg)
 A number is thought of as an Armstrong number if the sum of its own digits raised to the power number of digits gives the number itself.
 
-### [55. 7 C# Tips for Beginners in Programming Language ](https://hackernoon.com/7-c-tips-for-beginners-in-programming-language)
+### [54. 7 C# Tips for Beginners in Programming Language ](https://hackernoon.com/7-c-tips-for-beginners-in-programming-language)
 ![](https://cdn.hackernoon.com/images/bGwbwxx0IiXL639akJbjhEOGaDN2-u6a3psk.jpeg)
 You may not believe that learning a programming language is easier than you imagine. However, it is! And we want to help you to start the way in IT via C#. 
+
+### [55. Reflection-Driven Development in Pure C: Eliminating Boilerplate at Scale](https://hackernoon.com/reflection-driven-development-in-pure-c-eliminating-boilerplate-at-scale)
+![](https://cdn.hackernoon.com/images/xChbp1GOsSZQs3qQIQ2c1SBimYw1-3z8216x.png)
+Automate your pure C game engine with Reflection Driven Development. Learn how to build a custom libclang parser to generate ECS and serialization code.
 
 ### [56. How to Merge Two Sorted Arrays in C](https://hackernoon.com/how-to-merge-two-sorted-arrays-in-c)
 ![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-qyb3p3w.jpeg)
@@ -229,35 +233,39 @@ In this blog, we will be discussing the algorithms and their implementations for
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-el133q8.png)
 Step-by-step guide on how to use the .Net Aspire Azure Blob Storage component in Visual Studio.
 
-### [58. The C Programming Myth Rabbit Hole Explained](https://hackernoon.com/the-c-programming-myth-rabbit-hole-explained)
+### [58. The Project That Made Me Choose C Again](https://hackernoon.com/the-project-that-made-me-choose-c-again)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-41022kn.jpeg)
+In a world dominated by modern programming languages, C remains a powerful choice for low-level system programming and efficiency.
+
+### [59. The C Programming Myth Rabbit Hole Explained](https://hackernoon.com/the-c-programming-myth-rabbit-hole-explained)
 ![](https://cdn.hackernoon.com/images/LBLK5ZXpZtRqd4j6Ozovqx8laBo2-ip02s87.jpeg)
 The notion that the C programming language does not provide encapsulation and isolation is a myth. 
 
-### [59. What’s the Difference Between C++ vs Java](https://hackernoon.com/c-vs-java-whats-the-difference-with-examples)
+### [60. What’s the Difference Between C++ vs Java](https://hackernoon.com/c-vs-java-whats-the-difference-with-examples)
 ![](https://cdn.hackernoon.com/images/yEdfehOz04Tz81ubT9EowaqdqG03-it1375s.jpeg)
 C++ vs. Java programming languages are designed for everyone, no matter if you are new to programming or you already have extensive programming experience.
 
-### [60. Is Learning C++ Scary?](https://hackernoon.com/is-learning-c-scary)
+### [61. Is Learning C++ Scary?](https://hackernoon.com/is-learning-c-scary)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-7193if2.jpeg)
 Don't let C++ scare you!
 
-### [61. Beware of 'Using Declarion' in C# 8.0: A Real Example](https://hackernoon.com/beware-of-using-declarion-in-c-80-a-real-example)
+### [62. Beware of 'Using Declarion' in C# 8.0: A Real Example](https://hackernoon.com/beware-of-using-declarion-in-c-80-a-real-example)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-h593sgh.jpeg)
 Explore the unexpected behavior of the 'Using Declaration' feature in C# 8.0 and learn how to safely implement it in your code.
 
-### [62. 7 Q&As About Memory Leaks ](https://hackernoon.com/7-qandas-about-memory-leaks)
+### [63. 7 Q&As About Memory Leaks ](https://hackernoon.com/7-qandas-about-memory-leaks)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-vu93pck.jpeg)
 
 
-### [63. The HackerNoon Newsletter: Reality in C : Philosophical Programming (8/2/2025)](https://hackernoon.com/8-2-2025-newsletter)
+### [64. The HackerNoon Newsletter: Reality in C : Philosophical Programming (8/2/2025)](https://hackernoon.com/8-2-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_832_kb5xx1q9f6vwdc5dyg4c187w.png)
 8/2/2025: Top 5 stories on the HackerNoon homepage!
-
-### [64. WebAssembly and Fine-Grained Sandboxing in Firefox 95](https://hackernoon.com/webassembly-and-fine-grained-sandboxing-in-firefox-95)
-![](https://cdn.hackernoon.com/images/PpYbbOApcoT249C1okeO6P5loPR2-ac13kvu.jpeg)
-RLBox is a technology that makes it easy and efficient to isolate subcomponents to make the browser more secure.
 
 ### [65. If You Fear C Buffer Overflows, Wait Until You Meet LLM Logic Overflows](https://hackernoon.com/if-you-fear-c-buffer-overflows-wait-until-you-meet-llm-logic-overflows)
 ![](https://cdn.hackernoon.com/images/LBLK5ZXpZtRqd4j6Ozovqx8laBo2-9i82utb.png)
 C’s undefined behaviour is scary—but LLM-generated “probably correct” code may be worse, creating logic-layer bugs no sanitizer can catch.
+
+### [66. WebAssembly and Fine-Grained Sandboxing in Firefox 95](https://hackernoon.com/webassembly-and-fine-grained-sandboxing-in-firefox-95)
+![](https://cdn.hackernoon.com/images/PpYbbOApcoT249C1okeO6P5loPR2-ac13kvu.jpeg)
+RLBox is a technology that makes it easy and efficient to isolate subcomponents to make the browser more secure.
 

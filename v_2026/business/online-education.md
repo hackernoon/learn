@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [online-education](https://hackernoon.com/tagged/online-education)
+### Let's learn about [Online Education](https://hackernoon.com/tagged/online-education) via these 138 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Online education is learning conducted over the internet, offering flexible and accessible educational opportunities through virtual classrooms and resources. It's democratizing access to knowledge and skill development globally.
+
 ### [1. Introducing The HackerNoon Blogging Fellowship](https://hackernoon.com/introducing-the-hackernoon-blogging-fellowship-9g1d37cn)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-sxj371g.jpeg)
 The HackerNoon Blogging Fellowship is a free remote online writing program where you can get mentored by a seasoned Editor and build up your writing portfolio.
@@ -101,13 +105,13 @@ In this post, we will provide the  C Programming Course for Free, and you can le
 ![](https://cdn.hackernoon.com/images/elSxFAxSKrdQdNKR1XbMJp3CF4f1-vh93jmy.jpeg)
 The global adoption of online tutoring due to various reasons, including the COVID-19 pandemic, has led to educators embracing video conferencing tools to conduct classes. While there are dozens of choices in the market, the most obvious choice for tutors is either Skype or Zoom.
 
-### [26. Before You Start Learning to Code, Read This.](https://hackernoon.com/before-you-start-learning-to-code-read-this)
-![](https://cdn.hackernoon.com/images/pHQHbtgThhUkrohWQuWYt8jdknD2-nk239nd.jpeg)
-How to get started with software development, the easy way.
-
-### [27. A Conversation with Roberto Ierusalimschy, Creator of Lua](https://hackernoon.com/a-conversation-with-roberto-ierusalimschy-creator-of-lua)
+### [26. A Conversation with Roberto Ierusalimschy, Creator of Lua](https://hackernoon.com/a-conversation-with-roberto-ierusalimschy-creator-of-lua)
 ![](https://cdn.hackernoon.com/images/3h4yVhQwGQOqkLBdJTcmwrpSDK33-cs93ky5.jpeg)
 Roberto Ierusalimschy, world-renowned creator of Lua, talks about creating the language and reflects on how it has affected the way he teaches his students.
+
+### [27. Before You Start Learning to Code, Read This.](https://hackernoon.com/before-you-start-learning-to-code-read-this)
+![](https://cdn.hackernoon.com/images/pHQHbtgThhUkrohWQuWYt8jdknD2-nk239nd.jpeg)
+How to get started with software development, the easy way.
 
 ### [28. 6 Best Zoom Extensions for Chrome to Maximize Your Meetings/Classes](https://hackernoon.com/6-best-zoom-extensions-for-chrome-to-maximize-your-meetingsclasses)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-7f93u3s.jpeg)
@@ -147,17 +151,17 @@ As augmented reality technology becomes more advanced, it might find its way int
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fm0roYAZBrtccjJeRbrYxPDpnmlw1-tnc3uf8.jpeg?alt=media&token=1367e3ff-24b1-4bc4-ba2f-7e7dee457388)
 Chances are, if you’re here, you’re excited about tech. You read startup stories on Medium, LinkedIn, or Hacker Noon. The idea of creating a product, launching it, and then raising a Series A is enthralling to read about. You may be an “increasingly technical” analyst or young professional with no technical experience at all. All things aside, you are hungry to learn, develop, and grow your technical skills and you can’t get enough.
 
-### [37. Becoming A Programmer: Starter Pack](https://hackernoon.com/becoming-a-programmer-starter-pack-4jv33qv)
-![](https://cdn.hackernoon.com/images/0kymacDO55Vh1xdKhOVvdqBUy7G3-v23736uv.jpeg)
-How and where to start learning to program. What do programmers do in their work?
+### [37. Activity-Centered Instructional Design Model: An Analysis of Action Mapping by Cathy Moore](https://hackernoon.com/activity-centered-instructional-design-model-an-analysis-of-action-mapping-by-cathy-moore)
+![](https://cdn.hackernoon.com/images/zR7HaHTqCqZz6jp3ZEUARJgo6SJ3-ha93jb4.jpeg)
+Action Mapping by Cathy Moore is an activity-centred model of instructional design, which focuses on what people need to be able to do rather than what people 
 
 ### [38. A WhatsApp Chatbot For Sending Programming Challenges to Users Using Flask [A How-To Guide]](https://hackernoon.com/a-whatsapp-chatbot-for-sending-programming-challenges-to-users-using-flask-a-how-to-guide-rp9332y8)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-s283xuw.jpeg)
 Over the few months I have been in the process of building a Data Science online school initially focusing on a rigorous introductory course covering modules ranging from linear algebra to SQL and programming. Without turning this into a 'marketing shill'. 
 
-### [39. Activity-Centered Instructional Design Model: An Analysis of Action Mapping by Cathy Moore](https://hackernoon.com/activity-centered-instructional-design-model-an-analysis-of-action-mapping-by-cathy-moore)
-![](https://cdn.hackernoon.com/images/zR7HaHTqCqZz6jp3ZEUARJgo6SJ3-ha93jb4.jpeg)
-Action Mapping by Cathy Moore is an activity-centred model of instructional design, which focuses on what people need to be able to do rather than what people 
+### [39. Becoming A Programmer: Starter Pack](https://hackernoon.com/becoming-a-programmer-starter-pack-4jv33qv)
+![](https://cdn.hackernoon.com/images/0kymacDO55Vh1xdKhOVvdqBUy7G3-v23736uv.jpeg)
+How and where to start learning to program. What do programmers do in their work?
 
 ### [40. How To Create a Useful Educational Product for Adults using Motivational Design](https://hackernoon.com/how-to-create-a-useful-educational-product-for-adults-using-motivational-design)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-m492ax0.jpeg)
@@ -171,13 +175,13 @@ These are the 10 that have changed my life for the better
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-js92h4d.jpeg)
 There are fake test answer websites that are being used to entrap students looking for answers during online tests.
 
-### [43. 5 Upcoming Online Machine Learning Conferences in 2020](https://hackernoon.com/5-upcoming-online-machine-learning-conferences-in-2020-bq2332g8)
-![](https://cdn.hackernoon.com/drafts/ireyl3yl0.png)
-Machine learning conferences have always played an important role in the world of data science. They're a place to announce new research, discuss current issues, and connect with the community. They also help to promote new areas of research and development through Q&A sessions, workshops, and tutorials.
-
-### [44. Snackable Business Model Breakdowns - Maven.com](https://hackernoon.com/snackable-business-model-breakdowns-mavencom)
+### [43. Snackable Business Model Breakdowns - Maven.com](https://hackernoon.com/snackable-business-model-breakdowns-mavencom)
 ![](https://cdn.hackernoon.com/images/Y14t1a3ZEoT7RE6300ayez7dRN83-8pvm3799.jpeg)
 Snackable Business Model Breakdowns of Maven.com Maven is a platform that enables instructors to launch and run their cohort based classes successfully. 
+
+### [44. 5 Upcoming Online Machine Learning Conferences in 2020](https://hackernoon.com/5-upcoming-online-machine-learning-conferences-in-2020-bq2332g8)
+![](https://cdn.hackernoon.com/drafts/ireyl3yl0.png)
+Machine learning conferences have always played an important role in the world of data science. They're a place to announce new research, discuss current issues, and connect with the community. They also help to promote new areas of research and development through Q&A sessions, workshops, and tutorials.
 
 ### [45. Why You Can't Become a Back End Developer in 16 Weeks or Less](https://hackernoon.com/why-you-cant-become-a-back-end-developer-in-16-weeks-or-less)
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-kj93pgy.jpeg)
@@ -207,17 +211,17 @@ Trading is a booming sector that today attracts many people. Here are 10 tips to
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-2293o97.jpeg)
 This article highlights the top 7 new instructional design models.
 
-### [52. Teaching is Learning: 5 Perks of a Two-Way Knowledge Transfer](https://hackernoon.com/teaching-is-learning-5-perks-of-a-two-way-knowledge-transfer-3f4834jz)
+### [52. How Long Does it Take to Develop an Educational App?](https://hackernoon.com/how-long-does-it-take-to-develop-an-educational-app)
+![](https://cdn.hackernoon.com/images/xWx1eln9Ida9r216TnPyHFrKw1J2-52a3qwj.jpeg)
+Educational apps are already saturating the market, so let’s analyze basic features for online education and the development time you’ll roughly need for them.
+
+### [53. Teaching is Learning: 5 Perks of a Two-Way Knowledge Transfer](https://hackernoon.com/teaching-is-learning-5-perks-of-a-two-way-knowledge-transfer-3f4834jz)
 ![](https://cdn.hackernoon.com/images/HkmXgPuVwSNu66hEcBWdvrCCWl72-h4kf34y3.jpeg)
 In vain have you acquired knowledge if you have not imparted it to others.
 
-### [53. Becoming a Game Designer is More Attainable Than You Think](https://hackernoon.com/becoming-a-game-designer-is-more-attainable-than-you-think)
+### [54. Becoming a Game Designer is More Attainable Than You Think](https://hackernoon.com/becoming-a-game-designer-is-more-attainable-than-you-think)
 ![](https://cdn.hackernoon.com/images/ZFjrjKyru3ZAtV6LHrpdLvoZTLv2-cm137pi.jpeg)
 The School of Game Design: Lifetime Membership - $49 - is on sale for just $49 for a limited time.
-
-### [54. How Long Does it Take to Develop an Educational App?](https://hackernoon.com/how-long-does-it-take-to-develop-an-educational-app)
-![](https://cdn.hackernoon.com/images/xWx1eln9Ida9r216TnPyHFrKw1J2-52a3qwj.jpeg)
-Educational apps are already saturating the market, so let’s analyze basic features for online education and the development time you’ll roughly need for them.
 
 ### [55. Coursera is Giving Out $100 Discounts For New Years](https://hackernoon.com/coursera-is-giving-out-dollar100-discounts-for-new-years-9c2a34lo)
 ![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-lt25347x.jpeg)
@@ -244,13 +248,13 @@ Education Ecosystem is a platform that teaches professional developers and stude
 ![](https://cdn.hackernoon.com/images/q6Wprd8SYzZmCsa9VHgUKvsgsKl2-9b93nd0.jpeg)
 “AI for Ukraine” is a series of workshops and lectures held by international artificial intelligence experts to support the development of Ukrainians.
 
-### [61. How Learning Management System Revolutionizing the Education Sector](https://hackernoon.com/how-are-learning-management-system-revolutionizing-the-education-sector-qor32bx)
-![](https://cdn.hackernoon.com/drafts/b5vm32mf.png)
-Recently, there has been an international revolution in the higher education system. The process is getting structural and functional reformation with new experiments. One of these is gaining massive popularity amongst students and educational institutes alike: Learning Management System.
-
-### [62. How Remote Work Has Changed Virtual Schooling](https://hackernoon.com/how-remote-work-has-changed-virtual-schooling)
+### [61. How Remote Work Has Changed Virtual Schooling](https://hackernoon.com/how-remote-work-has-changed-virtual-schooling)
 ![](https://cdn.hackernoon.com/images/TsMfm3Vyk6dabzaLYdQTmXFCjl03-8ua3kig.jpeg)
 Virtual schooling and remote work are both here to stay. People have been working remotely, or at least semi-remotely, from the dawn of the telecommunication.
+
+### [62. How Learning Management System Revolutionizing the Education Sector](https://hackernoon.com/how-are-learning-management-system-revolutionizing-the-education-sector-qor32bx)
+![](https://cdn.hackernoon.com/drafts/b5vm32mf.png)
+Recently, there has been an international revolution in the higher education system. The process is getting structural and functional reformation with new experiments. One of these is gaining massive popularity amongst students and educational institutes alike: Learning Management System.
 
 ### [63. Top 11 Best User Interface Design Benefits for Online Educational Platforms](https://hackernoon.com/top-11-best-user-interface-design-benefits-for-online-educational-platforms-803c31rv)
 ![](https://cdn.hackernoon.com/images/e4LQkB0qKpOHnRts3rMaOKGjzoU2-y01231vf.jpeg)
@@ -269,57 +273,57 @@ The topic of learning in the Metaverse is gaining momentum. This article discuss
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-h1b3vos.jpeg)
 The rise of the internet, and also its bubble, has enabled autodidacts to learn more than they ever could.
 
-### [67. Reasons Why Should Students Give More Emphasis on Derivatives and Integrals](https://hackernoon.com/reasons-why-should-students-give-more-emphasis-on-derivatives-and-integrals-g01c3ypv)
-![](https://images.unsplash.com/photo-1476966502122-c26b7830def9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-No wonder in saying that all students are not supposed to welcome the subject of Math with open arms. Additionally, when it comes to Calculus, the reasons for a nightmare for many would-be, Derivatives, and Integrals. Let narrow down the question of why students should give more emphasis on Derivatives and Integrals.
-
-### [68. How Will the Metaverse Change Future Education](https://hackernoon.com/how-will-the-metaverse-change-future-education)
-![](https://cdn.hackernoon.com/images/RRECKSxI1lOuaKHpiUObeJq8OPA3-ah93qjq.jpeg)
-After the Covid-19 pandemic, education has transformed by changing teaching and learning methods. 
-
-### [69. The Impact of Artificial Intelligence on Education](https://hackernoon.com/the-impact-of-artificial-intelligence-on-the-education)
+### [67. The Impact of Artificial Intelligence on Education](https://hackernoon.com/the-impact-of-artificial-intelligence-on-the-education)
 ![](https://cdn.hackernoon.com/images/BTebIQC3QWRzOkHa6vmi4XvDiLM2-ah93pud.jpeg)
 The use of artificial intelligence in the education sector has transformed pedagogy. It customizes and improves the curriculum for students and teachers.
 
-### [70. The role of blockchain in classrooms of the future](https://hackernoon.com/the-role-of-blockchain-in-classrooms-of-the-future-w31j34zr)
-![](https://cdn.hackernoon.com/images/5O5F1ZCMRLYcTRCXuHmZRnmps2t2-cso34xn.jpeg)
-Blockchain technology is seeping into every aspect of various industries all over the world and there are no plans to leave education untouched. 
+### [68. Reasons Why Should Students Give More Emphasis on Derivatives and Integrals](https://hackernoon.com/reasons-why-should-students-give-more-emphasis-on-derivatives-and-integrals-g01c3ypv)
+![](https://images.unsplash.com/photo-1476966502122-c26b7830def9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+No wonder in saying that all students are not supposed to welcome the subject of Math with open arms. Additionally, when it comes to Calculus, the reasons for a nightmare for many would-be, Derivatives, and Integrals. Let narrow down the question of why students should give more emphasis on Derivatives and Integrals.
 
-### [71. Why is Technology Underused in Learning](https://hackernoon.com/why-is-technology-underused-in-learning-rm223v0e)
-![](https://cdn.hackernoon.com/drafts/mf933zkp.png)
-Before, I start I want to differentiate between learning and education. Of course, technology has contributed immensely to make education accessible. However, I am here to talk about learning. 
+### [69. How Will the Metaverse Change Future Education](https://hackernoon.com/how-will-the-metaverse-change-future-education)
+![](https://cdn.hackernoon.com/images/RRECKSxI1lOuaKHpiUObeJq8OPA3-ah93qjq.jpeg)
+After the Covid-19 pandemic, education has transformed by changing teaching and learning methods. 
 
-### [72. A Class for Mom: AI in Your Everyday Life](https://hackernoon.com/a-class-for-mom-ai-in-your-everyday-life)
+### [70. A Class for Mom: AI in Your Everyday Life](https://hackernoon.com/a-class-for-mom-ai-in-your-everyday-life)
 ![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-bp035mq.jpeg)
 This is a free online class for seniors to help them learn about AI. 
 
-### [73. Disney Doubles Down on Content to Save Its Future](https://hackernoon.com/disney-doubles-down-on-content-to-save-its-future-pmn3w1v)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTolwVCe2KPryOw11aq31tS22Ky1-a32d3elh.jpeg?alt=media&token=2fe637bc-08a5-4bda-a1be-68034775999d)
-It's often said that content is king. For Disney, content is a savior. That’s the takeaway from Disney’s earnings report for the fiscal year and fourth quarter of 2020.  
+### [71. The role of blockchain in classrooms of the future](https://hackernoon.com/the-role-of-blockchain-in-classrooms-of-the-future-w31j34zr)
+![](https://cdn.hackernoon.com/images/5O5F1ZCMRLYcTRCXuHmZRnmps2t2-cso34xn.jpeg)
+Blockchain technology is seeping into every aspect of various industries all over the world and there are no plans to leave education untouched. 
 
-### [74. 4 Ways AI Can Improve Online Education](https://hackernoon.com/4-ways-ai-can-improve-online-education-ll2c34lp)
+### [72. Why is Technology Underused in Learning](https://hackernoon.com/why-is-technology-underused-in-learning-rm223v0e)
+![](https://cdn.hackernoon.com/drafts/mf933zkp.png)
+Before, I start I want to differentiate between learning and education. Of course, technology has contributed immensely to make education accessible. However, I am here to talk about learning. 
+
+### [73. 4 Ways AI Can Improve Online Education](https://hackernoon.com/4-ways-ai-can-improve-online-education-ll2c34lp)
 ![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-d03c3fh9.jpeg)
 Explore the top 4 online education trends that are shaping the future of online learning and discover how to enhance your eLearning technology systems with AI.
 
-### [75. A Philosophical Perspective on Education in the Age of DAO](https://hackernoon.com/a-philosophical-perspective-on-education-in-the-age-of-dao)
-![](https://cdn.hackernoon.com/images/6OHhPWC8N9bevU3GhNvP7AY8uda2-rma3xt1.jpeg)
-Three philosophers of education whose ideas could help shape the way DAOs operate and behave. 
+### [74. Disney Doubles Down on Content to Save Its Future](https://hackernoon.com/disney-doubles-down-on-content-to-save-its-future-pmn3w1v)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTolwVCe2KPryOw11aq31tS22Ky1-a32d3elh.jpeg?alt=media&token=2fe637bc-08a5-4bda-a1be-68034775999d)
+It's often said that content is king. For Disney, content is a savior. That’s the takeaway from Disney’s earnings report for the fiscal year and fourth quarter of 2020.  
 
-### [76. Meet Udacity: HackerNoon Company of the Week](https://hackernoon.com/meet-udacity-hackernoon-company-of-the-week)
+### [75. Meet Udacity: HackerNoon Company of the Week](https://hackernoon.com/meet-udacity-hackernoon-company-of-the-week)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-25036fi.png)
 We proudly present Udacity as HackerNoon Company of the Week!
+
+### [76. A Philosophical Perspective on Education in the Age of DAO](https://hackernoon.com/a-philosophical-perspective-on-education-in-the-age-of-dao)
+![](https://cdn.hackernoon.com/images/6OHhPWC8N9bevU3GhNvP7AY8uda2-rma3xt1.jpeg)
+Three philosophers of education whose ideas could help shape the way DAOs operate and behave. 
 
 ### [77. Activate: Beast Mode](https://hackernoon.com/activate-beast-mode)
 ![](https://cdn.hackernoon.com/images/dFW9aLMnLpgfjylixlaQdWQLp2C3-kha3okg.jpeg)
 There’s an astronomical difference between simply writing code and being a great developer. 
 
-### [78. How AI Can Help To Solve Issues In The Education System](https://hackernoon.com/how-ai-can-help-to-solve-issues-in-the-education-system-gs133326)
-![](https://cdn.hackernoon.com/images/PztIEUJLNDeVgvGc4YvbQpbQaqI2-zg3533jr.jpeg)
-Leveraging Artificial Intelligence in the Education sector can help bring revolutionary transformation. 
-
-### [79. To Lead: Develop Reading as a Lifelong Habit in Your Child](https://hackernoon.com/to-lead-develop-reading-as-a-lifelong-habit-in-your-child)
+### [78. To Lead: Develop Reading as a Lifelong Habit in Your Child](https://hackernoon.com/to-lead-develop-reading-as-a-lifelong-habit-in-your-child)
 ![](https://cdn.hackernoon.com/images/b9Y3TdaTXfMmmzjz4hThphtDSi72-aj93oln.jpeg)
 Read the post to know the importance of developing reading habbit to lead in life. Online reading tutors helps a lot to success in the same.
+
+### [79. How AI Can Help To Solve Issues In The Education System](https://hackernoon.com/how-ai-can-help-to-solve-issues-in-the-education-system-gs133326)
+![](https://cdn.hackernoon.com/images/PztIEUJLNDeVgvGc4YvbQpbQaqI2-zg3533jr.jpeg)
+Leveraging Artificial Intelligence in the Education sector can help bring revolutionary transformation. 
 
 ### [80. 5 Tips for Students to Stay Focused While Studying from Home](https://hackernoon.com/5-tips-for-students-to-stay-focused-while-studying-from-home)
 ![](https://cdn.hackernoon.com/images/Ix5BRsqQHceK1gqWjMjF0KRNL4u2-pab3jx2.jpeg)
@@ -377,13 +381,13 @@ This article will discuss the wide-ranging benefits of learning SQL, and how we 
 ![](https://cdn.hackernoon.com/images/wb443va6tWfO9ezfAOTebkX324z2-y7ce35d7.jpeg)
 As blockchain seeks mass adoption, crypto-education is vital to advancing understanding. Free TON Academy is a novel community project addressing this issue.
 
-### [94. Future of Technology in Modern Education: Hallway Conversation](https://hackernoon.com/future-of-technology-in-modern-education-hallway-conversation-3f193y8h)
-![](https://images.unsplash.com/photo-1546410531-bb4caa6b424d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-
-
-### [95. Holberton's OS of Education Concept](https://hackernoon.com/holbertons-os-of-education-concept-od1g34kj)
+### [94. Holberton's OS of Education Concept](https://hackernoon.com/holbertons-os-of-education-concept-od1g34kj)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-az1y33ym.jpeg)
 There's plenty of free content, what education needs is an OS
+
+### [95. Future of Technology in Modern Education: Hallway Conversation](https://hackernoon.com/future-of-technology-in-modern-education-hallway-conversation-3f193y8h)
+![](https://images.unsplash.com/photo-1546410531-bb4caa6b424d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+
 
 ### [96. The Social Dilemma in 2021: Personal Data Privacy](https://hackernoon.com/the-social-dilemma-in-2021-personal-data-privacy-pyad31nl)
 ![](https://cdn.hackernoon.com/images/4JuiUcXTrfQDSAlZ04ERxAJG3yR2-8saw13i3.jpeg)
@@ -393,17 +397,17 @@ Big organizations and politicians have a structured data table of everyone's inf
 ![](https://cdn.hackernoon.com/images/okWPLHThAuVW8eFqndiqlnw1ker2-rob31ql.jpeg)
 There are already a number of "Uber for Tutors" apps available online. If you're thinking about building your own, here are the key attributes to consider.
 
-### [98. Virtual Classroom: Time Management Strategies For An Online Teacher](https://hackernoon.com/virtual-classroom-time-management-strategies-for-an-online-teacher-ta1e31ej)
-![](https://cdn.hackernoon.com/images/skssOeH48yQNdDqRAn28z8IHu6i1-w84i31r2.jpeg)
-The COVID19 pandemic has pushed everyone indoors in order to curb the spread of the virus. This has led to schools resorting to an online classroom set up to keep the learning going.
+### [98. I Call BS: How to Choose an Actually Good Online Course](https://hackernoon.com/i-call-bs-how-to-choose-an-actually-good-online-course)
+![](https://cdn.hackernoon.com/images/VBlUfWCTlscxXxceB5FBdFER3Ed2-6k636yy.png)
+Learn how to recognize scam courses with our red flags list and make sure you’re investing in actually good education, and get a bang for your buck.
 
 ### [99. 6 Steps to Start Your Online Tutoring Business](https://hackernoon.com/6-steps-to-start-your-online-tutoring-business)
 ![](https://cdn.hackernoon.com/images/49gtebfTYLgqNVy1hBMKTwVfYdi1-m003aoj.jpeg)
 ﻿Gone are those days when tutoring was limited to offering private lessons to nearby students in the local region. Technology has completed changed the way tutoring was done, Covid-19 also had a major impact on the traditional form of tutoring.
 
-### [100. I Call BS: How to Choose an Actually Good Online Course](https://hackernoon.com/i-call-bs-how-to-choose-an-actually-good-online-course)
-![](https://cdn.hackernoon.com/images/VBlUfWCTlscxXxceB5FBdFER3Ed2-6k636yy.png)
-Learn how to recognize scam courses with our red flags list and make sure you’re investing in actually good education, and get a bang for your buck.
+### [100. Virtual Classroom: Time Management Strategies For An Online Teacher](https://hackernoon.com/virtual-classroom-time-management-strategies-for-an-online-teacher-ta1e31ej)
+![](https://cdn.hackernoon.com/images/skssOeH48yQNdDqRAn28z8IHu6i1-w84i31r2.jpeg)
+The COVID19 pandemic has pushed everyone indoors in order to curb the spread of the virus. This has led to schools resorting to an online classroom set up to keep the learning going.
 
 ### [101. An Inside Scoop Into An Mechanical Engineer's Journey to Software Development](https://hackernoon.com/an-inside-scoop-into-an-mechanical-engineers-journey-to-software-development)
 ![](https://cdn.hackernoon.com/images/DmZUxa5LS1arsnP1kPngIAzOcOt1-ha93phw.jpeg)
@@ -417,29 +421,29 @@ In today's competitive world, it's essential to create more than just informativ
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-2vj3ukc.jpeg?alt=media&token=f61adf04-e38c-453d-bd42-0adca001557f)
 COVID-19 has caused schools all around the world to close their doors and send millions of students to start learning from home. This sudden change is bound to cause problems, and parents, teachers, and students are feeling the effects of this change. Parents are concerned about how well their children will react to the new learning environment. Nearly 90% of parents of students that are learning from home are worried that their child may start to fall behind academically and more than 8 out of every 10 parents are struggling to keep their child engaged and paying attention.
 
-### [104. The Tech Challenges of Moving K-12 to a Distance Learning Model](https://hackernoon.com/the-tech-challenges-of-moving-k-12-to-a-distance-learning-model-le9e24n6)
-![](https://cdn.hackernoon.com/drafts/hldu3ynq.png)
-The global shift to home isolation has unique implications for public education. The era of slow and steady plans to virtualize education was given a donkey kick by this virus and the quarantine, and here's what I've observed.
-
-### [105. What Did You Think of The HackerNoon Blogging Fellowship?](https://hackernoon.com/what-did-you-think-of-the-hackernoon-blogging-fellowship-dv1737au)
+### [104. What Did You Think of The HackerNoon Blogging Fellowship?](https://hackernoon.com/what-did-you-think-of-the-hackernoon-blogging-fellowship-dv1737au)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-f05c37m4.jpeg)
 The HackerNoon Blogging Fellowship is a free remote online writing program where you can get mentored by a seasoned Editor
 
-### [106. How to Design a Powerful LMS Platform: Real Example](https://hackernoon.com/how-to-design-a-powerful-lms-platform-real-example-bx1633w0)
+### [105. How to Design a Powerful LMS Platform: Real Example](https://hackernoon.com/how-to-design-a-powerful-lms-platform-real-example-bx1633w0)
 ![](https://cdn.hackernoon.com/images/UFmV4KWoavbdnRkx6hj2zXeY7Iw1-3fn338b.jpeg)
 They were looking for a custom LMS platform that would be used by teachers, students, and parents.
 
-### [107. How Not to Give up Studying, and How to Make Any Training Effective](https://hackernoon.com/how-not-to-give-up-studying-and-how-to-make-any-training-effective)
-![](https://cdn.hackernoon.com/images/SknJKNV3k7fJYmHUeQASdc1foRg1-sha3qvm.jpeg)
-The first question you should ask yourself when buying a course or signing up for a webinar is "Why do I need it?"
+### [106. The Tech Challenges of Moving K-12 to a Distance Learning Model](https://hackernoon.com/the-tech-challenges-of-moving-k-12-to-a-distance-learning-model-le9e24n6)
+![](https://cdn.hackernoon.com/drafts/hldu3ynq.png)
+The global shift to home isolation has unique implications for public education. The era of slow and steady plans to virtualize education was given a donkey kick by this virus and the quarantine, and here's what I've observed.
 
-### [108. Tips To Writing A Successful Cover Letter and Job Application](https://hackernoon.com/tips-to-write-a-successful-cover-letter-and-job-application-flep31d5)
+### [107. Tips To Writing A Successful Cover Letter and Job Application](https://hackernoon.com/tips-to-write-a-successful-cover-letter-and-job-application-flep31d5)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-uidr31m8.jpeg)
 When used correctly, your cover letter can be a powerful tool that can capture the interest of the employer and can increase your chances of getting hired.
 
-### [109. 383 Stories To Learn About Education](https://hackernoon.com/383-stories-to-learn-about-education)
+### [108. 383 Stories To Learn About Education](https://hackernoon.com/383-stories-to-learn-about-education)
 ![](https://cdn.hackernoon.com/images/github/education-650.png)
 Learn everything you need to know about Education via these 383 free HackerNoon stories.
+
+### [109. How Not to Give up Studying, and How to Make Any Training Effective](https://hackernoon.com/how-not-to-give-up-studying-and-how-to-make-any-training-effective)
+![](https://cdn.hackernoon.com/images/SknJKNV3k7fJYmHUeQASdc1foRg1-sha3qvm.jpeg)
+The first question you should ask yourself when buying a course or signing up for a webinar is "Why do I need it?"
 
 ### [110. Read Quotes From the Brilliant Minds of the #Noonies2021 Nominees](https://hackernoon.com/read-quotes-from-the-brilliant-minds-of-the-noonies2021-nominees)
 ![](https://cdn.hackernoon.com/images/DM0HwTcIK6VVBpObjhC9iaVMHWu2-5o03ol8.jpeg)
@@ -457,22 +461,22 @@ BlockDegree launches a certification program on ‘Blockchain Wallets’, adding
 ![](https://cdn.hackernoon.com/images/yXG8jzkZwaaCMZ6HgSC0hxyfoO63-gfc3ilr.jpeg)
 Are you confused between Hosted & SaaS LMS? On that note, this article delves further into a comparison between two LMS solutions: SaaS LMS versus Hosted LMS.
 
-### [114. Already Struggling with School? The Pandemic Made it Worse. ](https://hackernoon.com/vulnerable-students-hit-by-remote-learning-during-the-pandemic-z51435pc)
+### [114. Interested in Learning a New Language? Try Korean](https://hackernoon.com/interested-in-learning-a-new-language-try-korean)
+![](https://cdn.hackernoon.com/images/Egk4QeHIKwhohdHCIbmstmLhCnp2-zx92mlh.jpeg)
+If you need to learn Korean, work with a Korean tutor online, and you’ll see it works. In fact, online Korean tutoring is probably the most economical option you will find. Taking college classes to learn Korean can cost thousands of dollars, plus, you’ll blend into a crowd of other learners, where you may not have your individual needs addressed in the same way you would with a Korean tutor. 
+
+### [115. Already Struggling with School? The Pandemic Made it Worse. ](https://hackernoon.com/vulnerable-students-hit-by-remote-learning-during-the-pandemic-z51435pc)
 ![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-9sh3587.jpeg)
 The Pandemic Didn’t Start Educational Disparities—but It Has Made Them Worse. Vulnerable students get hit the hardest via online learning. 
 
 
-### [115. Interested in Learning a New Language? Try Korean](https://hackernoon.com/interested-in-learning-a-new-language-try-korean)
-![](https://cdn.hackernoon.com/images/Egk4QeHIKwhohdHCIbmstmLhCnp2-zx92mlh.jpeg)
-If you need to learn Korean, work with a Korean tutor online, and you’ll see it works. In fact, online Korean tutoring is probably the most economical option you will find. Taking college classes to learn Korean can cost thousands of dollars, plus, you’ll blend into a crowd of other learners, where you may not have your individual needs addressed in the same way you would with a Korean tutor. 
+### [116. What Makes A Good Open Source Learning Platform](https://hackernoon.com/what-makes-a-good-open-source-learning-platform)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-423p356y.jpeg)
+Open edX is can be a very powerful tool that needs some expertise to use. Companies like Raccoon Gang, Opencraft and more can help you tailor a programme.  
 
-### [116. 5 Reasons why eLearning Might Become the New Normal](https://hackernoon.com/5-reasons-why-elearning-might-become-the-new-normal-6n133ztc)
+### [117. 5 Reasons why eLearning Might Become the New Normal](https://hackernoon.com/5-reasons-why-elearning-might-become-the-new-normal-6n133ztc)
 ![](https://cdn.hackernoon.com/images/aPZP5QM3Y0Qtm7j0YMHgOptFB6X2-o4r31jz.jpeg)
 With the rise of the cloud and live streaming services for education, the popularity of online education has grown at an astounding rate. It provides learners with multiple benefits, from reducing the costs of education to adapting to their learning habits. The Coronavirus pandemic and social distancing measures have also resulted in the faster adoption of virtual learning. 
-
-### [117. Hacking the Future of School](https://hackernoon.com/hacking-the-future-of-school)
-![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-w113a6a.jpeg)
-A look at where the direction of the future of school is going.
 
 ### [118. Smart Teaching: Using Alexa in The K-12 Classroom](https://hackernoon.com/smart-teaching-using-alexa-in-the-k-12-classroom-nn3o33vg)
 ![](https://cdn.hackernoon.com/images/Qhb4Ton6tWf9gcuhIic26Q6s4zn1-brj35bc.jpeg)
@@ -482,9 +486,9 @@ In many K-12 classrooms, the ability to access information by saying it out loud
 ![](https://cdn.hackernoon.com/images/4XpCKhxvWNQGD8OlFlUsLWjflF82-12v3f39.jpeg)
 Imagine enrolling with an educational institution for a course that lasts a lifetime, with a curriculum covering multiple disciplines.
 
-### [120. What Makes A Good Open Source Learning Platform](https://hackernoon.com/what-makes-a-good-open-source-learning-platform)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-423p356y.jpeg)
-Open edX is can be a very powerful tool that needs some expertise to use. Companies like Raccoon Gang, Opencraft and more can help you tailor a programme.  
+### [120. Hacking the Future of School](https://hackernoon.com/hacking-the-future-of-school)
+![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-w113a6a.jpeg)
+A look at where the direction of the future of school is going.
 
 ### [121. A Complete Overview Of Educational App Development](https://hackernoon.com/a-complete-overview-of-educational-app-development-ce5l36e6)
 ![](https://cdn.hackernoon.com/drafts/k9nj36on.png)
@@ -518,33 +522,33 @@ How America is about to change with engineering jobs. The broken college system 
 ![](https://cdn.hackernoon.com/images/vs58yHu80FMCBlLC590ASRmc8Hl1-312733he.jpeg)
 Online education is no longer regarded as something that should be criticized by your fellow students. Learn more about the rise of online platforms today.
 
-### [127. Hacking College During COVID-19](https://hackernoon.com/hacking-college-during-covid-19-edm3utl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-ouj3u5r.jpeg?alt=media&token=46f97d6a-5e16-44af-a65e-d413110839e5)
-In the last few months everything about our lives has either disappeared or gone online. Instead of going out to restaurants we order meals through apps. Instead of going to the grocery store we order groceries through apps. And instead of going into an office or school, many of us are working and going to school online. Online school has some implications for the long term, particularly when it comes to college. College is an important time to network and meet people who will be in your field throughout your lifetime, so what happens to college when everything moves online?
-
-### [128. The Future of Education is Digital](https://hackernoon.com/the-future-of-education-is-digital)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-kz13o0h.jpeg)
-According to WeForum.Org, more than 1.2 billion students in 184 countries are affected by school closures due to the pandemic.
-
-### [129. Why and How We Expanded into the Chinese EdTech Market](https://hackernoon.com/why-and-how-we-expanded-into-the-chinese-edtech-market)
+### [127. Why and How We Expanded into the Chinese EdTech Market](https://hackernoon.com/why-and-how-we-expanded-into-the-chinese-edtech-market)
 ![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-2z037z2.jpeg)
 This is the nuts and bolts of the early results and returns of our startup's expansion into China's EdTech Industry.
 
-### [130. How to Build a Platform to Sell Your Online Course (A Brief Outline)](https://hackernoon.com/how-to-build-a-platform-to-sell-your-online-course-a-brief-outline)
+### [128. Hacking College During COVID-19](https://hackernoon.com/hacking-college-during-covid-19-edm3utl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmRtmiu2SfNY3sGIulKnQU0BZTv23-ouj3u5r.jpeg?alt=media&token=46f97d6a-5e16-44af-a65e-d413110839e5)
+In the last few months everything about our lives has either disappeared or gone online. Instead of going out to restaurants we order meals through apps. Instead of going to the grocery store we order groceries through apps. And instead of going into an office or school, many of us are working and going to school online. Online school has some implications for the long term, particularly when it comes to college. College is an important time to network and meet people who will be in your field throughout your lifetime, so what happens to college when everything moves online?
+
+### [129. The Future of Education is Digital](https://hackernoon.com/the-future-of-education-is-digital)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-kz13o0h.jpeg)
+According to WeForum.Org, more than 1.2 billion students in 184 countries are affected by school closures due to the pandemic.
+
+### [130. Crucial Features for Customized Virtual Classroom Software ](https://hackernoon.com/crucial-features-for-customized-virtual-classroom-software)
+![](https://cdn.hackernoon.com/images/xWx1eln9Ida9r216TnPyHFrKw1J2-2cf3hse.jpeg)
+If you decided to develop a customized Virtual Classroom Software, learn what features do you need to provide a great user experience to all the participants.
+
+### [131. How to Build a Platform to Sell Your Online Course (A Brief Outline)](https://hackernoon.com/how-to-build-a-platform-to-sell-your-online-course-a-brief-outline)
 ![](https://cdn.hackernoon.com/images/GRZpzqpoJyMvFZW6lPH4PI3T5HB2-dl93js7.jpeg)
 I’ll briefly describe how I built a platform for selling my course. We used Gatsby Framework, Sanity_io, and Stripe to build the website.
 
-### [131. EdTech: 7 Ways to Be Better at Stock Photography in Online Education](https://hackernoon.com/edtech-7-ways-to-be-better-at-stock-photography-in-online-education)
+### [132. EdTech: 7 Ways to Be Better at Stock Photography in Online Education](https://hackernoon.com/edtech-7-ways-to-be-better-at-stock-photography-in-online-education)
 ![](https://cdn.hackernoon.com/images/Qf6aYDf9YjVpjFQCSQEkxUWDueG2-gc247tv.jpeg)
 Stop using bad stock photos in edtech with these 7 tips on how to get the most out of your imagery choices.
 
-### [132. Digitizing Learning And Updating Classrooms](https://hackernoon.com/digitizing-learning-and-updating-classrooms-cs7g3yc4)
+### [133. Digitizing Learning And Updating Classrooms](https://hackernoon.com/digitizing-learning-and-updating-classrooms-cs7g3yc4)
 ![](https://cdn.hackernoon.com/images/zob43ylo.jpg)
 How Are we Allowing This?
-
-### [133. Crucial Features for Customized Virtual Classroom Software ](https://hackernoon.com/crucial-features-for-customized-virtual-classroom-software)
-![](https://cdn.hackernoon.com/images/xWx1eln9Ida9r216TnPyHFrKw1J2-2cf3hse.jpeg)
-If you decided to develop a customized Virtual Classroom Software, learn what features do you need to provide a great user experience to all the participants.
 
 ### [134. How Effective is Online Employee Training?](https://hackernoon.com/how-effective-is-online-employee-training-644137kw)
 ![](https://cdn.hackernoon.com/images/mwpXbaXiJzbo61rc7UshXDvKtTt1-bh473qhs.jpeg)

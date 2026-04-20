@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [selenium](https://hackernoon.com/tagged/selenium)
+### Let's learn about [Selenium](https://hackernoon.com/tagged/selenium) via these 72 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Selenium is a suite of tools for automating web browsers, widely used for cross-browser testing of web applications. It enables developers and QA engineers to ensure functionality and performance across different environments, streamlining the software testing process.
+
 ### [1. Recommended Websites to Practice Selenium and Test Automation](https://hackernoon.com/recommended-websites-to-practice-selenium-and-test-automation)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-r393p68.jpeg)
  Here's a list of websites to practice test automation using Selenium.
@@ -45,13 +49,13 @@ Learn how to access forms in Selenium WebDriver for automated browser testing of
 ![](https://cdn.hackernoon.com/images/ibRkmu5aVJXXD6liofFFR23PdGC2-beb3um9.gif.webp)
 Web scraping tools and framework comparison to bypass the most common anti-bot solutions like Cloudflare, Perimeterx, Datadome, Kasada and F5
 
-### [12. How to Set up Selenium in Visual Studio for Automated Browser Testing of Web Apps](https://hackernoon.com/how-to-set-up-selenium-in-visual-studio-for-automated-browser-testing-of-web-apps-em4233vb)
-![](https://cdn.hackernoon.com/images/fxHVEYXco2WRkm8ai6bgxpipw7g2-qp7133kl.jpeg)
-In this Selenium C# tutorial, we are going to help you set up Selenium in Visual Studio and run your first Selenium C# example script.
-
-### [13. Writing a Scraping Bot with Python and Selenium ](https://hackernoon.com/writing-a-scraping-bot-with-python-and-selenium)
+### [12. Writing a Scraping Bot with Python and Selenium ](https://hackernoon.com/writing-a-scraping-bot-with-python-and-selenium)
 ![](https://cdn.hackernoon.com/images/Fa9ZtKCgz0Xh12q1R5T1nB5i8N52-5p93ur0.jpeg)
 Learning how to use Selenium and Python to interact with websites to get the data you need.
+
+### [13. How to Set up Selenium in Visual Studio for Automated Browser Testing of Web Apps](https://hackernoon.com/how-to-set-up-selenium-in-visual-studio-for-automated-browser-testing-of-web-apps-em4233vb)
+![](https://cdn.hackernoon.com/images/fxHVEYXco2WRkm8ai6bgxpipw7g2-qp7133kl.jpeg)
+In this Selenium C# tutorial, we are going to help you set up Selenium in Visual Studio and run your first Selenium C# example script.
 
 ### [14. How to Use .NET C# for Web Scraping ](https://hackernoon.com/how-to-use-net-c-for-web-scraping)
 ![](https://cdn.hackernoon.com/images/xRVOalNFPncXbrkPOPL6HNKgUvw1-zg93pbi.jpeg)
@@ -133,21 +137,21 @@ In a recent webinar, web automation experts share pro tips to navigate this land
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvZ6vqoln7Ge7lF2W90PlX51NTxc2-ztey3unx.jpeg?alt=media&token=51eea18b-7af1-430a-a6c1-c1c8e5e926d8)
 When performing cross browser testing manually, one roadblock that you might have hit during the verification phase is testing the functionalities of your web application/web product across different operating systems / devices / browsers are the test coverage with respect to time. With thousands of browsers available in the market, automation testing for validating cross browser compatibility has become a necessity.
 
-### [34. Selenium vs. Selenide: Which is the Better UI Test Automation Framework?](https://hackernoon.com/selenium-vs-selenide-which-is-the-better-ui-test-automation-framework)
-![](https://cdn.hackernoon.com/images/GzgG671TbkZSBOpCWYJgJy5aIQp2-kn93hjh.jpeg)
-Choosing a UI automation framework is not an easy task. You have to consider many factors based on your company's needs.
-
-### [35. Understanding the Fundamentals of Device Fingerprinting ](https://hackernoon.com/understanding-the-fundamentals-of-device-fingerprinting)
+### [34. Understanding the Fundamentals of Device Fingerprinting ](https://hackernoon.com/understanding-the-fundamentals-of-device-fingerprinting)
 ![](https://cdn.hackernoon.com/images/a-fingerprint-taken-cli8t5va2000101s6dyq3cbc2.png)
 A device fingerprint - or device fingerprinting - is a method to identify a device using a combination of attributes provided by the device itself, via its brow
 
-### [36. Scraping Data With Selenium: Upwork Series #2](https://hackernoon.com/scraping-data-with-selenium-or-upwork-series-2-agq32om)
-![](https://cdn.hackernoon.com/images/j21nf320k.jpg)
-Hi Devs! 
+### [35. Selenium vs. Selenide: Which is the Better UI Test Automation Framework?](https://hackernoon.com/selenium-vs-selenide-which-is-the-better-ui-test-automation-framework)
+![](https://cdn.hackernoon.com/images/GzgG671TbkZSBOpCWYJgJy5aIQp2-kn93hjh.jpeg)
+Choosing a UI automation framework is not an easy task. You have to consider many factors based on your company's needs.
 
-### [37. A Successful Selenium Parallel Testing With Zalenium](https://hackernoon.com/a-successful-selenium-parallel-testing-with-zalenium-0to3476)
+### [36. A Successful Selenium Parallel Testing With Zalenium](https://hackernoon.com/a-successful-selenium-parallel-testing-with-zalenium-0to3476)
 ![](https://hackernoon.com/images/NTOkNBCCoJY3y1iD6MxsHPJrUd53-0ibr33g2.jpeg)
 Do you run a lot of automation frameworks using Selenium but finding it difficult to scale with a Dockerized infra? Maybe our case study can be of help. Read on
+
+### [37. Scraping Data With Selenium: Upwork Series #2](https://hackernoon.com/scraping-data-with-selenium-or-upwork-series-2-agq32om)
+![](https://cdn.hackernoon.com/images/j21nf320k.jpg)
+Hi Devs! 
 
 ### [38. How to Build a PowerShell Script to Keep ChromeDriver Up to Date](https://hackernoon.com/how-to-build-a-powershell-script-to-keep-chromedriver-up-to-date-t34s337c)
 ![](https://cdn.hackernoon.com/images/VIYlGXa7I6bE6s9t2boW0Axh1JV2-333p331p.png)
@@ -209,24 +213,24 @@ A first look at end-to-end testing with Nightwatch v2.
 ![](https://cdn.hackernoon.com/images/WBQpkGh5LQe6Os7jW7lmsAqCplw1-b253ugy.webp)
 This article delves into automated testing using Selenium (with Cucumber) and Karate, assessing their features, tech details, and community support.
 
-### [53. Top 10 Automation Testing Tools: 2020 Edition](https://hackernoon.com/top-10-automation-testing-tools-2020-edition-gv1s3uvz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-fh183uqz.jpeg?alt=media&token=e17fe756-12cb-4665-91d1-a8a476c25ed9)
-The demand for delivering quality software faster — or “Quality at Speed” — requires organizations to search for solutions in Agile, continuous integration (CI), and DevOps methodologies. Test automation is an essential part of these aspects. The latest World Quality Report 2018–2019 suggests that test automation is the biggest bottleneck to deliver “Quality at Speed,” as it is an enabler of successful Agile and DevOps adoption.
-
-### [54. Everything You Should Know About Test Automation Frameworks](https://hackernoon.com/everything-you-should-know-about-test-automation-frameworks)
+### [53. Everything You Should Know About Test Automation Frameworks](https://hackernoon.com/everything-you-should-know-about-test-automation-frameworks)
 ![](https://cdn.hackernoon.com/images/NJ7TAb1r97RRjOQX1EaXEyma0qN2-j693rm5.jpeg)
 This guide offers you a deep understanding of test automation frameworks, including the well-known Selenium automation framework and its Hybrid framework.
 
-### [55. How To Make A Record of Selenium Test](https://hackernoon.com/procedure-to-record-a-selenium-test-5v3p328b)
+### [54. How To Make A Record of Selenium Test](https://hackernoon.com/procedure-to-record-a-selenium-test-5v3p328b)
 ![](https://cdn.hackernoon.com/images/pv6832lw.jpg)
 Selenium is a open-source free and automation testing tool for web applications across all different browsers. It is quite similar as HP QuickTest Pro (QTP, currently UFT). However, Selenium mainly focused on automating web-based applications. So the testing done using Selenium tool is referred as Selenium Testing. 
 
 In order to record a test, follow the given steps:
 Step 1 : Open Mozilla Firefox web browser, go to tools and click on Selenium IDE. There type the link
 
-### [56. How to Start a Career in Software Testing](https://hackernoon.com/how-to-start-a-career-in-software-testing)
+### [55. How to Start a Career in Software Testing](https://hackernoon.com/how-to-start-a-career-in-software-testing)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-9m93z5x.jpeg)
 Testing is indispensable. It's the lifeline of software. Quality is a thing that can uplift you from your competitors. 
+
+### [56. Top 10 Automation Testing Tools: 2020 Edition](https://hackernoon.com/top-10-automation-testing-tools-2020-edition-gv1s3uvz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-fh183uqz.jpeg?alt=media&token=e17fe756-12cb-4665-91d1-a8a476c25ed9)
+The demand for delivering quality software faster — or “Quality at Speed” — requires organizations to search for solutions in Agile, continuous integration (CI), and DevOps methodologies. Test automation is an essential part of these aspects. The latest World Quality Report 2018–2019 suggests that test automation is the biggest bottleneck to deliver “Quality at Speed,” as it is an enabler of successful Agile and DevOps adoption.
 
 ### [57. Selenium Exceptions as the Way to Get More Robust Testing Scripts: the Truth](https://hackernoon.com/selenium-exceptions-as-the-way-to-get-more-robust-testing-scripts-the-truth-7vv33ri)
 ![](https://cdn.hackernoon.com/images/fxHVEYXco2WRkm8ai6bgxpipw7g2-p1g33q0.jpeg)
@@ -236,13 +240,13 @@ Exceptions in Selenium are unavoidable. Here are 49 most common Selenium excepti
 ![](https://cdn.hackernoon.com/images/xE0fAi5KukV5XdKnLZGmmxF6iOi2-7s93lgl.jpeg)
 In the test automation world, there is a competition between Puppeteer vs Playwright vs Selenium vs Cypress. These four pillars form the backbone of the space.
 
-### [59. Is Selenium Automation Testing with Disabled JavaScript Settings Worth Your Time?](https://hackernoon.com/is-selenium-automation-testing-with-disabled-javascript-settings-worth-your-time-c7q3xtz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkjJzuvca9BeqggzTVi4qMTfCCQm1-tvm3u0f.jpeg?alt=media&token=085f7c60-68f9-4d0b-84f2-4a34f86b2968)
-Selenium has been a pinnacle for open-source software in the industry of automated website testing. The automation testing framework is widely adopted by the testing community to help them in automating interactions with their web-application for desktops.
-
-### [60. Why is Selenium the Best Tool for Automation?](https://hackernoon.com/why-is-selenium-the-best-tool-for-automation)
+### [59. Why is Selenium the Best Tool for Automation?](https://hackernoon.com/why-is-selenium-the-best-tool-for-automation)
 ![](https://cdn.hackernoon.com/images/CUq8hvRgLkWheZoIRXghkjGOKCu1-je93haq.jpeg)
 The adoption of agile processes in the software development process reduces overall software development time, time-to-delivery (TTD), time-to-market (TTM), and also development expenses. The demand for automation testing solutions has risen rapidly in order to ensure efficiency and quality in the testing process. Selenium is one of the most extensively used web application testing technologies among the many automation testing solutions available. There are many online training centers across India like Selenium Training In Chennai which aids the aspirants in upskilling the knowledge to work with selenium. In this article, we are going to cover the topics which incorporate the topics of understanding the Selenium tool, supporting browsers and platforms for selenium, and the significance of employing selenium rather than other automated testing tools. Now let us try to comprehend the tool Selenium.
+
+### [60. Is Selenium Automation Testing with Disabled JavaScript Settings Worth Your Time?](https://hackernoon.com/is-selenium-automation-testing-with-disabled-javascript-settings-worth-your-time-c7q3xtz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkjJzuvca9BeqggzTVi4qMTfCCQm1-tvm3u0f.jpeg?alt=media&token=085f7c60-68f9-4d0b-84f2-4a34f86b2968)
+Selenium has been a pinnacle for open-source software in the industry of automated website testing. The automation testing framework is widely adopted by the testing community to help them in automating interactions with their web-application for desktops.
 
 ### [61. Top Unit Testing Automation Frameworks for Selenium](https://hackernoon.com/top-unit-testing-automation-frameworks-for-selenium)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-gc037rh.jpeg)

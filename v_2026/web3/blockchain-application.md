@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [blockchain-application](https://hackernoon.com/tagged/blockchain-application)
+### Let's learn about [Blockchain Application](https://hackernoon.com/tagged/blockchain-application) via these 91 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A blockchain application leverages distributed ledger technology to create secure, transparent, and immutable systems. These applications are transformative across industries, enabling new levels of trust and efficiency in data management and transactions.
+
 ### [1. Blockchain Technology Explained: Introduction, Meaning, and Applications](https://hackernoon.com/blockchain-technology-explained-introduction-meaning-and-applications-edbd6759a2b2)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-ny03b57.jpeg)
 The 21st century is all about technology. With the increasing need for modernization in our day-to-day lives, people are open to accepting new technologies. From using a remote for controlling devices to using voice notes for giving commands; modern technology has made space in our regular lives. Technologies like augmented reality and IoT that have gained pace in the past decade and now there’s a new addition to the pack i.e. Blockchain Technology.
@@ -52,14 +56,14 @@ It's just the beginning for NFTs, which can revolutionize invoicing. NFTs are im
 ![](https://cdn.hackernoon.com/images/xX5expS0YXXHncoBXcqDSznG9043-q613b3a.jpeg)
 Blockchain technology is becoming more mature and needs to become more reliable as a result. Forensics monitoring is one method of keeping it accurate.
 
-### [13. The Importance Of On-chain Analysis](https://hackernoon.com/the-importance-of-on-chain-anlysis)
-![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-d192et9.jpeg)
-A look at the importance of on-chain anlysis
-
-### [14. The ASIC Chronicles:
+### [13. The ASIC Chronicles:
 The Historical Timeline of Bitcoin's Mining Revolution](https://hackernoon.com/the-asic-chronicles-the-historical-timeline-of-bitcoins-mining-revolution)
 ![](https://cdn.hackernoon.com/images/4LKlOHT8BtURWNF54Dmjj74h57s2-3sb31ds.jpeg)
 As soon as Bitcoin was launched, BTC mining was a prosperous endeavorer, but will crypto mining still be 'a thing' after mining rewards halve!?   
+
+### [14. The Importance Of On-chain Analysis](https://hackernoon.com/the-importance-of-on-chain-anlysis)
+![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-d192et9.jpeg)
+A look at the importance of on-chain anlysis
 
 ### [15. Tokenization: the Next Logical Step in Bankruptcy Claims Trading](https://hackernoon.com/tokenization-the-next-logical-step-in-bankruptcy-claims-trading)
 ![](https://cdn.hackernoon.com/images/Eyd11IOsuMUc5xXLd3KU8kjUXhh1-lv93o86.jpeg)
@@ -73,13 +77,13 @@ Let's explore how to maximize your metamask wallet for defi trading on ethereum 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F08kqxtF0wOR294ukfFuRLXEWE052-xlx3w47.jpeg?alt=media&token=df1c3a3d-933d-494b-9474-1ef1417cd77f)
 The COVID-19 pandemic could turn out to be a significant turning point in history. Events as widespread and disruptive as this are rare and present the world with unique opportunities. The world most likely won’t go back to the way it was but will instead move forward.
 
-### [18. NEARCON 2022: Overall Impressions and Promising Results](https://hackernoon.com/nearcon-2022-overall-impressions-and-promising-results)
-![](https://cdn.hackernoon.com/images/iwYYV1LriEaT7d6rN7rWN595K7w1-mv93p49.jpeg)
-NEARCON 2022 became some of the biggest events in the crypto industry, bringing together the NEAR community and its co-thinkers and partners.
-
-### [19. Key aspects of token launches in the current market environment](https://hackernoon.com/key-aspects-of-token-launches-in-the-current-market-environment)
+### [18. Key aspects of token launches in the current market environment](https://hackernoon.com/key-aspects-of-token-launches-in-the-current-market-environment)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-j7020ui.jpeg)
 Token launches are broken. CEXs extract, DEXs fragment. CrossCurve offers unified liquidity for memecoins & altcoins in 2025.
+
+### [19. NEARCON 2022: Overall Impressions and Promising Results](https://hackernoon.com/nearcon-2022-overall-impressions-and-promising-results)
+![](https://cdn.hackernoon.com/images/iwYYV1LriEaT7d6rN7rWN595K7w1-mv93p49.jpeg)
+NEARCON 2022 became some of the biggest events in the crypto industry, bringing together the NEAR community and its co-thinkers and partners.
 
 ### [20. Blockchain-Based On-Chain Solutions: An Overview](https://hackernoon.com/blockchain-based-on-chain-solutions-an-overview-756r3zom)
 ![](https://cdn.hackernoon.com/drafts/kx2e3v2r.png)
@@ -133,21 +137,21 @@ Indian Government, Universities as well as Industries are effectively participat
 ![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-6ha3ozk.jpeg)
 A look a Laqira Protocol and how it works
 
-### [33. NFTs: The Simplest Explanation You’ll Ever Read](https://hackernoon.com/nfts-the-simplest-explanation-youll-ever-read-pzq37kp)
-![](https://hackernoon.com/images/3XT3R66kpLdI2FnrA1G0KCEuqGn1-0t4h35o3.jpeg)
-Learn what an NFT is and why anyone would want to buy anything from this blockchain technology niche.
-
-### [34. Is Blockchain Ready for Mass Adoption? Here's What 100 Influencers Think](https://hackernoon.com/is-blockchain-ready-for-mass-adoption-heres-what-100-influencers-think-uk7030xc)
-![](https://cdn.hackernoon.com/images/zr2g2bfh.jpg)
-“There are no more no conferences, no more networking.” That’s not true! Digital Week Online happened last week, and more than 100 invited speakers connected during the 48-hour, non-stop online conference to talk about the latest events happening in the innovation, investment, and technology space. 
-
-### [35. Crypto Casinos: How the Integration of Blockchain Can Create More Transparency](https://hackernoon.com/crypto-casinos-how-the-integration-of-blockchain-can-create-more-transparency)
+### [33. Crypto Casinos: How the Integration of Blockchain Can Create More Transparency](https://hackernoon.com/crypto-casinos-how-the-integration-of-blockchain-can-create-more-transparency)
 ![](https://cdn.hackernoon.com/images/J6OdEYt79wffykGxQ0u2VfFLIvg1-ak036n7.jpeg)
 The changes that the integration of blockchain in online casinos has to offer, looks quite promising. Blockchain is all set to revolutionize online casinos. 
 
-### [36. Link up With the Best Blockchain Development Companies in 2021](https://hackernoon.com/link-up-with-the-best-blockchain-development-companies-in-2021)
+### [34. Link up With the Best Blockchain Development Companies in 2021](https://hackernoon.com/link-up-with-the-best-blockchain-development-companies-in-2021)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-0p03o8t.jpeg)
 Although blockchain is a relatively young industry, many companies have emerged that offer Blockchain Development Solutions. 
+
+### [35. NFTs: The Simplest Explanation You’ll Ever Read](https://hackernoon.com/nfts-the-simplest-explanation-youll-ever-read-pzq37kp)
+![](https://hackernoon.com/images/3XT3R66kpLdI2FnrA1G0KCEuqGn1-0t4h35o3.jpeg)
+Learn what an NFT is and why anyone would want to buy anything from this blockchain technology niche.
+
+### [36. Is Blockchain Ready for Mass Adoption? Here's What 100 Influencers Think](https://hackernoon.com/is-blockchain-ready-for-mass-adoption-heres-what-100-influencers-think-uk7030xc)
+![](https://cdn.hackernoon.com/images/zr2g2bfh.jpg)
+“There are no more no conferences, no more networking.” That’s not true! Digital Week Online happened last week, and more than 100 invited speakers connected during the 48-hour, non-stop online conference to talk about the latest events happening in the innovation, investment, and technology space. 
 
 ### [37. Blockchain And Opportunities for Healthcare](https://hackernoon.com/blockchain-and-opportunities-for-healthcare-ay3k35xk)
 ![](https://cdn.hackernoon.com/images/GSN9VJGOaZXMU6zEAhjLZYX4ZXW2-vd8w35r0.jpeg)
@@ -157,13 +161,13 @@ Access to efficient, affordable, and scientifically progressive healthcare is on
 ![](https://images.unsplash.com/photo-1559445368-b8a993676d7a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The word “blockchain” is still surrounded by hysteria: companies that simply enter in it, their name soar in price by 400%. Half of the world would like to receive cryptocurrency as a gift for the New Year, while Bitcoin is called "the largest bubble in the history of mankind." A dozen new terms, some fascinate with innovation, others - scary, resembling a scam. I will explain in simple terms why bitcoin and blockchain are not the same things, how technology will make the world transparent and who will benefit from it.
 
-### [39. Analysis of Blockchain Technology Adoption for ESG Initiatives in Business](https://hackernoon.com/analysis-of-blockchain-technology-adoption-for-esg-initiatives-in-business)
-![](https://cdn.hackernoon.com/images/q27cDSxmZpZjEf6z4gZc4ZBrLvw1-e393jrp.jpeg)
-The importance of ESG in these times cannot be overstated, as there is a need to raise awareness of global social and economic inequality.
-
-### [40. Can Blockchain Technology Change Plagiarism Detection in Academia?](https://hackernoon.com/can-blockchain-technology-change-plagiarism-detection-in-academia)
+### [39. Can Blockchain Technology Change Plagiarism Detection in Academia?](https://hackernoon.com/can-blockchain-technology-change-plagiarism-detection-in-academia)
 ![](https://cdn.hackernoon.com/images/HQhOWHVvDjc8aWf32a9I7RFK3O23-7y93qh7.jpeg)
 top ways that blockchain technology can help improve education and academic writing by replacing traditional plagiarism-identifying techniques
+
+### [40. Analysis of Blockchain Technology Adoption for ESG Initiatives in Business](https://hackernoon.com/analysis-of-blockchain-technology-adoption-for-esg-initiatives-in-business)
+![](https://cdn.hackernoon.com/images/q27cDSxmZpZjEf6z4gZc4ZBrLvw1-e393jrp.jpeg)
+The importance of ESG in these times cannot be overstated, as there is a need to raise awareness of global social and economic inequality.
 
 ### [41. From 0 to 1000 Nodes on a Testnet: Case Study on Avalanche Denali](https://hackernoon.com/from-0-to-1000-nodes-on-a-testnet-case-study-on-avalanche-denali-tpl3xtp)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvNInWpsKG7MCwJDoKRnJ5OkI9lU2-13433yll.webp?alt=media&token=1e460080-ef96-4c53-9775-eb39abbf245b)
@@ -181,13 +185,13 @@ Is blockchain what it seems to be? Well, the appropriate answer would be No. You
 ![](https://cdn.hackernoon.com/images/8mpTG3QTDwQ6eAD1CRmPViSDRnF3-kc93o5o.jpeg)
 Blockchain has not only become the fundamental technology for cryptocurrencies; it has also become a reliable means of detecting malware quickly and accurately.
 
-### [45. Your Ultimate Guide to Ethereum and its Working Principles ](https://hackernoon.com/your-ultimate-guide-to-ethereum-and-its-working-principles)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-sk93pl5.jpeg)
-Ethereum is a blockchain platform that allows developers to build and deploy decentralized applications.
-
-### [46. Blockchain Applications Building a Better World](https://hackernoon.com/blockchain-applications-building-a-better-world)
+### [45. Blockchain Applications Building a Better World](https://hackernoon.com/blockchain-applications-building-a-better-world)
 ![](https://cdn.hackernoon.com/images/x9naiQogprOblNlna6prq3pqC0F3-ny53eri.png)
 Let me take you on a ride through some block-chain use-cases that will blow your mind, not really on the basis of making you an overnight millionaire, but becau
+
+### [46. Your Ultimate Guide to Ethereum and its Working Principles ](https://hackernoon.com/your-ultimate-guide-to-ethereum-and-its-working-principles)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-sk93pl5.jpeg)
+Ethereum is a blockchain platform that allows developers to build and deploy decentralized applications.
 
 ### [47. .](https://hackernoon.com/can-blockchain-fix-the-broken-sharing-economy-he1tp32q7)
 ![](https://cdn.hackernoon.com/drafts/zs2u32n7.png)
@@ -205,19 +209,19 @@ In this comprehensive exploration, we delve into the intricate world of cross-ch
 ![](https://cdn.hackernoon.com/images/55mgLtvwWdf0kHZQ9QMkL4gmWue2-tb4m3dzm.jpeg)
 One of the biggest advantages of blockchain technology is the degree of information transparency it offers. 
 
-### [51. I Got Tired of Reading About Blockchain Projects that I Can't Use - So I'm Building One Myself](https://hackernoon.com/im-building-ara-because-im-tired-of-reading-about-blockchain-projects-i-cant-use-ws7dn3689)
+### [51. Efficient Load Management for Blockchain Nodes: Introducing dRPC Load Balancing](https://hackernoon.com/efficient-load-management-for-blockchain-nodes-introducing-drpc-load-balancing)
+![](https://cdn.hackernoon.com/images/14TrUQaAknSmk2wmjSwmUYqTmiI2-dz13p5d.webp)
+Want to learn more about how load balancing works in blockchain? Read this comprehensive guide!
+
+### [52. I Got Tired of Reading About Blockchain Projects that I Can't Use - So I'm Building One Myself](https://hackernoon.com/im-building-ara-because-im-tired-of-reading-about-blockchain-projects-i-cant-use-ws7dn3689)
 ![](https://cdn.hackernoon.com/drafts/o5hei36e6.png)
 
 In August in Montréal, MUTEK, an international festival of digital creativity and electronic music, showcased fantastic projects combining art, music, spherical video, and virtual reality. I attended from Ara Blocks, a software startup dedicated to building tools for digital creators like these. MUTEK invited me to speak on the blockchain panel.
 
 
-### [52. How Blockchain Could Immunize the Internet Against Distrust](https://hackernoon.com/how-blockchain-could-immunize-the-internet-against-distrust-rb5i328c)
+### [53. How Blockchain Could Immunize the Internet Against Distrust](https://hackernoon.com/how-blockchain-could-immunize-the-internet-against-distrust-rb5i328c)
 ![](https://images.unsplash.com/photo-1531417666976-ed2bdbeb043b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Technology may be powerful, but it’s also fragile. In recent years, a series of events--from Facebook’s Cambridge Analytica scandal to Equifax’s massive data breach--have eroded the public’s trust not only in large companies, but in the Internet itself. The proliferation of fake news has us doubting every article we read. Deepfake photos and videos leave us wondering if we can trust our own eyes, or if what we see is just AI-generated. 
-
-### [53. Efficient Load Management for Blockchain Nodes: Introducing dRPC Load Balancing](https://hackernoon.com/efficient-load-management-for-blockchain-nodes-introducing-drpc-load-balancing)
-![](https://cdn.hackernoon.com/images/14TrUQaAknSmk2wmjSwmUYqTmiI2-dz13p5d.webp)
-Want to learn more about how load balancing works in blockchain? Read this comprehensive guide!
 
 ### [54. How Blockchain Enhances Mobile App Development Process](https://hackernoon.com/how-blockchain-enhances-mobile-app-development-process)
 ![](https://cdn.hackernoon.com/images/gCDFEh3svFTQIALF6UrsZPzcLcs2-fya2hnz.jpeg)
@@ -251,119 +255,123 @@ A brief look at tokenization and why its ability to provide both whole and parti
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-n602teg.png)
 The Satellite Broadband Service Chain was recognized as a Top Quality Project Winner during the Chainlink Fall Hackathon 2021.
 
-### [62. WTF is Understandable Blockchain (UBC)?](https://hackernoon.com/wtf-is-understandable-blockchain-ubc-xl9332gg)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-d082rij.jpeg)
-Currently, too many public blockchains exist and they all use different API and data structure, meaning that non-blockchain experts have to concern themselves too much with the intricacies of blockchain technology, as well as, their products and service development (DApps). 
+### [62. What Makes the Cosmos Hub a Virtual Port City](https://hackernoon.com/what-makes-the-cosmos-hub-a-virtual-port-city)
+![](https://cdn.hackernoon.com/images/ITwlV96ShKf9Qc8OdsLWcE5MToF2-e40342j.png)
+Blockchains are virtual cities: districts of economic and cultural exchange, where common infrastructure gives rise to a mutual sense of place and a shared social fabric.
 
 ### [63. Discovering the Capabilities of IoTeX's Pebble Tracker](https://hackernoon.com/discovering-the-capabilities-of-iotexs-pebble-tracker)
 ![](https://cdn.hackernoon.com/images/PbbfrARZ78UfnvwvOMBFrN2mLJi1-na83ph4.jpeg)
 Explore IoTeX's Pebble Tracker: a blockchain IoT device for real-time GPS, climate, motion, & light data. Ideal for logistics, monitoring, fitness, & security.
 
-### [64. What Makes the Cosmos Hub a Virtual Port City](https://hackernoon.com/what-makes-the-cosmos-hub-a-virtual-port-city)
-![](https://cdn.hackernoon.com/images/ITwlV96ShKf9Qc8OdsLWcE5MToF2-e40342j.png)
-Blockchains are virtual cities: districts of economic and cultural exchange, where common infrastructure gives rise to a mutual sense of place and a shared social fabric.
+### [64. WTF is Understandable Blockchain (UBC)?](https://hackernoon.com/wtf-is-understandable-blockchain-ubc-xl9332gg)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-d082rij.jpeg)
+Currently, too many public blockchains exist and they all use different API and data structure, meaning that non-blockchain experts have to concern themselves too much with the intricacies of blockchain technology, as well as, their products and service development (DApps). 
 
 ### [65. Transforming the Nigerian Electoral Process Using Blockchain Technology](https://hackernoon.com/transforming-the-nigerian-electoral-process-using-blockchain-technology)
 ![](https://cdn.hackernoon.com/images/MildjKUxEYMxiz4D3zS1sb2wm2C3-yj93qay.jpeg)
 Nigeria's 2023 presidential election was marred by violence. Blockchain could solve Nigeria's electoral woes and make the voting process more efficient.
 
-### [66. Blockchain Interoperability: The Lifecycle of a Sidechain](https://hackernoon.com/blockchain-interoperability-the-lifecycle-of-a-sidechain-3a4n32wa)
+### [66. Doxreporter Brings Blockchain Storage to Cyber Incident Reporting](https://hackernoon.com/doxreporter-brings-blockchain-storage-to-cyber-incident-reporting)
+![](https://cdn.hackernoon.com/images/YvjkXI2EJ4gZ25lgLTJ0hfWehHX2-mo03e0z.png)
+Doxreporter earns a 26.48 Proof of Usefulness score, using blockchain and IPFS to create tamper-proof cyber incident reports for enterprises.
+
+### [67. Blockchain Interoperability: The Lifecycle of a Sidechain](https://hackernoon.com/blockchain-interoperability-the-lifecycle-of-a-sidechain-3a4n32wa)
 ![](https://cdn.hackernoon.com/images/dEr5DsADiKOXf3cSyYhd9dUYVNo1-3cga355v.jpeg)
 From its inception to its potential termination, a sidechain may go through three stages, corresponding to three states, in the context of the interoperability.
 
-### [67. Gluwa and Spacecoin: Blockchain Infrastructure for the Real World](https://hackernoon.com/gluwa-and-spacecoin-blockchain-infrastructure-for-the-real-world)
+### [68. Gluwa and Spacecoin: Blockchain Infrastructure for the Real World](https://hackernoon.com/gluwa-and-spacecoin-blockchain-infrastructure-for-the-real-world)
 ![](https://cdn.hackernoon.com/images/KO5fzKWWghfN3lKQmmheuSzOQor2-lo03a6c.png)
 Blockchain isn’t just for crypto—Gluwa and Spacecoin use it to deliver credit and internet access to underserved communities.
 
-### [68. From Centralized to Decentralized? That Horse Is Out of the Barn](https://hackernoon.com/from-centralized-to-decentralized-that-horse-is-out-of-the-barn-7mlk3w7b)
+### [69. From Centralized to Decentralized? That Horse Is Out of the Barn](https://hackernoon.com/from-centralized-to-decentralized-that-horse-is-out-of-the-barn-7mlk3w7b)
 ![](https://cdn.hackernoon.com/images/74ik3wda.jpg)
 In the wake of Facebook’s Libra cryptocurrency announcement, which has its own regulatory challenges and governance issues, more and more “traditional” companies are evaluating how to embrace blockchain and crypto to achieve their financial and strategic goals. This is especially true in the retail commerce industry, where decentralization driven by blockchain and token economics has the potential to disrupt many different parts of the centralized business model.
 
-### [69. Demystifying Polkadot: Breaking Down the Core Concepts](https://hackernoon.com/demystifying-polkadot-breaking-down-the-core-concepts)
+### [70. Demystifying Polkadot: Breaking Down the Core Concepts](https://hackernoon.com/demystifying-polkadot-breaking-down-the-core-concepts)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ou93p0i.jpeg)
 
 
-### [70. What is the Recurring Payments PoC and How Does it Work?](https://hackernoon.com/what-is-the-recurring-payments-poc-and-how-does-it-work-6ql323i)
+### [71. What is the Recurring Payments PoC and How Does it Work?](https://hackernoon.com/what-is-the-recurring-payments-poc-and-how-does-it-work-6ql323i)
 ![](https://cdn.hackernoon.com/images/GSN9VJGOaZXMU6zEAhjLZYX4ZXW2-7jbw35g2.jpeg)
 In the Moosty team, we learn by doing. By building proof of concepts we learn about blockchain technology & the creation of network dynamics.
 
-### [71. Yael Tamar, One of the Most Inspirational Women In Blockchain, on Revolutionizing Real Estate Space](https://hackernoon.com/yael-tamar-one-of-the-most-inspirational-women-in-blockchain-on-revolutionizing-real-estate-space)
+### [72. Yael Tamar, One of the Most Inspirational Women In Blockchain, on Revolutionizing Real Estate Space](https://hackernoon.com/yael-tamar-one-of-the-most-inspirational-women-in-blockchain-on-revolutionizing-real-estate-space)
 ![](https://cdn.hackernoon.com/images/crbFntq0jVRJOt3eT1SXaa7vqQu1-cy9129sy.jpeg)
 Converting blocks into digital securities, reinventing the way real estate projects come to life! Yael Tamar, co-CEO/founder, on the origin of SolidBlock.
-
-### [72. How I Built an API to Verify Claims of Feat](https://hackernoon.com/how-i-built-an-api-to-verify-claims-of-feat-q2h31st)
-![](https://cdn.hackernoon.com/images/dEr5DsADiKOXf3cSyYhd9dUYVNo1-1t4t34em.jpeg)
-I'm breaking down the process of building an API to verify claims. A few weeks ago, I started working on a project that I submitted to the Lisk Builder Program.
 
 ### [73. Gluwa - The Iron "Lady" of Global Financial Inclusion](https://hackernoon.com/gluwa-the-iron-lady-of-global-financial-inclusion)
 ![](https://cdn.hackernoon.com/images/LmkJG9CJCkeKroCwy3MciE5UHml1-i7036y8.jpeg)
 The Future of Global Financial Inclusion is Bright - Gluwa is leading the Fight.
 
-### [74. Can Blockchain Technology Put an End to Electoral Fraud?](https://hackernoon.com/can-blockchain-technology-put-an-end-to-electoral-fraud)
+### [74. How I Built an API to Verify Claims of Feat](https://hackernoon.com/how-i-built-an-api-to-verify-claims-of-feat-q2h31st)
+![](https://cdn.hackernoon.com/images/dEr5DsADiKOXf3cSyYhd9dUYVNo1-1t4t34em.jpeg)
+I'm breaking down the process of building an API to verify claims. A few weeks ago, I started working on a project that I submitted to the Lisk Builder Program.
+
+### [75. Can Blockchain Technology Put an End to Electoral Fraud?](https://hackernoon.com/can-blockchain-technology-put-an-end-to-electoral-fraud)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-ik93ipu.jpeg)
 There’s been a huge buzz around blockchain technology lately, and it seems the whole world’s catching the fever. With all the hype that Web3 is getting, it doesn’t look like the global buzz will end anytime soon.
 
-### [75. The Blockchain Forecast - from Public Chain to Cross-Chain, Everything You Need to Know in 2022](https://hackernoon.com/the-blockchain-forecast-from-public-chain-to-cross-chain-everything-you-need-to-know-in-2022)
+### [76. The Blockchain Forecast - from Public Chain to Cross-Chain, Everything You Need to Know in 2022](https://hackernoon.com/the-blockchain-forecast-from-public-chain-to-cross-chain-everything-you-need-to-know-in-2022)
 ![](https://cdn.hackernoon.com/images/KYm1CPERpCYJWpgNM4O0z89hJ1X2-3ga3jwp.jpeg)
 2022 blockchain and side chain forkcast
 
-### [76. 4 Challenges Multichain Assets are Facing](https://hackernoon.com/4-challenges-multichain-assets-are-facing)
-![](https://cdn.hackernoon.com/images/ITwlV96ShKf9Qc8OdsLWcE5MToF2-yt037we.jpeg)
-The Inter-Blockchain Communication (IBC) protocol becomes relevant, which allows multiple blockchains to communicate with each other. 
-
-### [77. Maciej Krol, Co-Founder Of  FCQ Platform, On Building A Global Transaction Platform](https://hackernoon.com/maciej-krol-co-founder-of-fcq-platform-on-building-a-global-transaction-platform)
-![](https://cdn.hackernoon.com/images/ec5ExNllSsMuJ8mpsiklMn85GGJ2-sn8w37dy.jpeg)
-Maciej Krol, the co-founder of FCQPlatform shares the story of how their blockchain platform came to be, the challenges they are facing, and success so far.
-
-### [78. Blockchain Technology's Rise and its Foreseeable Impacts ](https://hackernoon.com/blockchain-technologys-rise-and-its-foreseeable-impacts)
-![](https://cdn.hackernoon.com/images/YwZ5MEcra5SN9FAVXOOkqkhG8LF3-2993n2f.jpeg)
-Blockchains can facilitate more efficient, secure, and dependable automated communication. This will significantly improve the security and dependability of our
-
-### [79. ForkChain is Demystifying Blockchain for Easier Integration by Entrepreneurs](https://hackernoon.com/forkchain-is-demystifying-blockchain-for-easier-integration-by-entrepreneurs)
+### [77. ForkChain is Demystifying Blockchain for Easier Integration by Entrepreneurs](https://hackernoon.com/forkchain-is-demystifying-blockchain-for-easier-integration-by-entrepreneurs)
 ![](https://cdn.hackernoon.com/images/4FnNVQr5WaVz9Pb3rjDALHRb4XA2-p99385y.jpeg)
 Platforms like ForkChain are bringing a new perspective on blockchain to help entrepreneurs thrive.
 
-### [80. Classical Blockchain vs. Hedera Hashgraph](https://hackernoon.com/classical-blockchain-vs-hedera-hashgraph)
-![](https://cdn.hackernoon.com/images/9SBj6OzMvXOEhDxTjjuu75pLYnp1-qrn2tiu.jpeg)
-If you thought hedera hashgraph was dead, prepare to be pleasantly surprised. The actual scenario is that it just needs better marketing,
+### [78. 4 Challenges Multichain Assets are Facing](https://hackernoon.com/4-challenges-multichain-assets-are-facing)
+![](https://cdn.hackernoon.com/images/ITwlV96ShKf9Qc8OdsLWcE5MToF2-yt037we.jpeg)
+The Inter-Blockchain Communication (IBC) protocol becomes relevant, which allows multiple blockchains to communicate with each other. 
+
+### [79. Maciej Krol, Co-Founder Of  FCQ Platform, On Building A Global Transaction Platform](https://hackernoon.com/maciej-krol-co-founder-of-fcq-platform-on-building-a-global-transaction-platform)
+![](https://cdn.hackernoon.com/images/ec5ExNllSsMuJ8mpsiklMn85GGJ2-sn8w37dy.jpeg)
+Maciej Krol, the co-founder of FCQPlatform shares the story of how their blockchain platform came to be, the challenges they are facing, and success so far.
+
+### [80. Blockchain Technology's Rise and its Foreseeable Impacts ](https://hackernoon.com/blockchain-technologys-rise-and-its-foreseeable-impacts)
+![](https://cdn.hackernoon.com/images/YwZ5MEcra5SN9FAVXOOkqkhG8LF3-2993n2f.jpeg)
+Blockchains can facilitate more efficient, secure, and dependable automated communication. This will significantly improve the security and dependability of our
 
 ### [81. How Microsoft Envisions a Blockchain-Based System for Preventing Piracy](https://hackernoon.com/how-microsoft-envisions-a-blockchain-based-system-for-preventing-piracy)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-a893hs8.jpeg)
 A new paper published by Microsoft's research department proposes to tackle piracy with a blockchain-based bounty system titled "Argus." 
 
-### [82. Is Blockchain the Future of Supply Chain? Benefits and Challenges](https://hackernoon.com/is-blockchain-the-future-of-supply-chain-benefits-and-challenges)
+### [82. Classical Blockchain vs. Hedera Hashgraph](https://hackernoon.com/classical-blockchain-vs-hedera-hashgraph)
+![](https://cdn.hackernoon.com/images/9SBj6OzMvXOEhDxTjjuu75pLYnp1-qrn2tiu.jpeg)
+If you thought hedera hashgraph was dead, prepare to be pleasantly surprised. The actual scenario is that it just needs better marketing,
+
+### [83. Is Blockchain the Future of Supply Chain? Benefits and Challenges](https://hackernoon.com/is-blockchain-the-future-of-supply-chain-benefits-and-challenges)
 ![](https://cdn.hackernoon.com/images/hSkfFCG10faZYVY2eMa0Ekt3w2z1-bt93jah.jpeg)
 Blockchain represents a complex technology with enough potential to revolutionize a wide range of industries.
 
-### [83. Collabolancer is a Decentralized Freelancing Marketplace](https://hackernoon.com/collabolancer-is-a-decentralized-freelancing-marketplace-xm5q37dc)
+### [84. Collabolancer is a Decentralized Freelancing Marketplace](https://hackernoon.com/collabolancer-is-a-decentralized-freelancing-marketplace-xm5q37dc)
 ![](https://cdn.hackernoon.com/images/GSN9VJGOaZXMU6zEAhjLZYX4ZXW2-192d353k.jpeg)
 Collabolancer is an open source proof-of-concept decentralized freelancing marketplace, that enables seamless collaboration between employers, worker(s), and so
 
-### [84. 71 Stories To Learn About Blockchain Application](https://hackernoon.com/71-stories-to-learn-about-blockchain-application)
+### [85. 71 Stories To Learn About Blockchain Application](https://hackernoon.com/71-stories-to-learn-about-blockchain-application)
 ![](https://cdn.hackernoon.com/images/github/blockchain-application-460.png)
 Learn everything you need to know about Blockchain Application via these 71 free HackerNoon stories.
 
-### [85. The HackerNoon Newsletter: Junior Cybersecurity Roles Are Vanishing—Blame Agentic AI (7/7/2025)](https://hackernoon.com/7-7-2025-newsletter)
+### [86. The HackerNoon Newsletter: Junior Cybersecurity Roles Are Vanishing—Blame Agentic AI (7/7/2025)](https://hackernoon.com/7-7-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_74_s6gvyam4lzaoggmlh4v0ws1i.png)
 7/7/2025: Top 5 stories on the HackerNoon homepage!
 
-### [86. Is There a Security Vs. Coin Creation Trade-Off in Blockchains?](https://hackernoon.com/is-there-a-security-vs-coin-creation-trade-off-in-blockchains-aq4f3y7x)
+### [87. Is There a Security Vs. Coin Creation Trade-Off in Blockchains?](https://hackernoon.com/is-there-a-security-vs-coin-creation-trade-off-in-blockchains-aq4f3y7x)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FELy3D5qjIEQPxlfLdReo0aw5TNx2-khz3e0l.jpeg?alt=media&token=e0c87ee6-f7b0-48f9-a3df-aeef18381423)
 Recent years have sparked significant interest in blockchain networks. This has resulted in significant progress in the theory of such distributed networks. In particular, followers gathered more data about possible blockchain designs, their limitations, and their trade-offs. There's called The trade-off between security and coin creation
 
-### [87. An Intro to the Decentralized Organization Chain](https://hackernoon.com/an-intro-to-the-decentralized-organization-chain-872i34og)
+### [88. An Intro to the Decentralized Organization Chain](https://hackernoon.com/an-intro-to-the-decentralized-organization-chain-872i34og)
 ![](https://cdn.hackernoon.com/images/dEr5DsADiKOXf3cSyYhd9dUYVNo1-5c8b3462.jpeg)
 Decentralized Organization Chain (DOC) allows companies to start their own company blockchain and receive funding by selling tokens to investors.
 
-### [88. Let's Explore ARK Core v3: Maintainability & Testability [Part 5]](https://hackernoon.com/lets-explore-ark-core-v3-maintainability-and-testability-part-5-3e443299)
+### [89. Let's Explore ARK Core v3: Maintainability & Testability [Part 5]](https://hackernoon.com/lets-explore-ark-core-v3-maintainability-and-testability-part-5-3e443299)
 ![](https://cdn.hackernoon.com/drafts/23ic32j0.png)
 This is Part 5 of the Let’s Explore ARK Core series which documents the development of the next major release of ARK Core, alongside some tips & tricks on how to get started with contributing and building your next idea today.
 
-### [89. Arcado Network Brings Decentralized Reward Systems to Video Games](https://hackernoon.com/arcado-network-brings-decentralized-reward-systems-to-video-games-g03434l7)
+### [90. Arcado Network Brings Decentralized Reward Systems to Video Games](https://hackernoon.com/arcado-network-brings-decentralized-reward-systems-to-video-games-g03434l7)
 ![](https://cdn.hackernoon.com/images/dEr5DsADiKOXf3cSyYhd9dUYVNo1-qadf34bs.jpeg)
 The Arcado Network focuses on bringing a decentralized reward system to any multiplayer game by providing game developers with a generic API.
 
-### [90. What is the Recurring Payments PoC and How Does it Work?](https://hackernoon.com/what-is-the-recurring-payments-poc-and-how-does-it-work-nu213525)
+### [91. What is the Recurring Payments PoC and How Does it Work?](https://hackernoon.com/what-is-the-recurring-payments-poc-and-how-does-it-work-nu213525)
 ![](https://cdn.hackernoon.com/images/GSN9VJGOaZXMU6zEAhjLZYX4ZXW2-7jbw35g2.jpeg)
 In the Moosty team, we learn by doing. By building proof of concepts we learn about blockchain technology & the creation of network dynamics.
 

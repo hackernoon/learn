@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [raspberry-pi](https://hackernoon.com/tagged/raspberry-pi)
+### Let's learn about [Raspberry Pi](https://hackernoon.com/tagged/raspberry-pi) via these 73 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 
 Small computer, or emulation powerhouse. You decide.
 
@@ -110,13 +112,13 @@ Some of you may have noticed that it’s been a while since my last article, des
 ![](https://cdn.hackernoon.com/images/6qnaXTRafAdnLRzFjXwKanqsBv42-l3g35fh.jpeg)
 9 easy steps to set up a raspberry pi with a Ubuntu Server 21.04 without using a screen.
 
-### [27. A Beginner's Guide to Home Automation with the Internet of Things (IoT)](https://hackernoon.com/a-beginners-guide-to-home-automation-with-the-internet-of-things-iot-rx3p345g)
-![](https://cdn.hackernoon.com/images/d0rt92gXHTONABRheBQxRkte4Cy2-loe303s.png)
-Home automation can be achieved using IoT/Smart devices. IoT is a network of devices, devices that are embedded with sensors, software and other tech.
-
-### [28. How to Build a Turing Pi 2 Home Cluster](https://hackernoon.com/how-to-build-a-turing-pi-2-home-cluster)
+### [27. How to Build a Turing Pi 2 Home Cluster](https://hackernoon.com/how-to-build-a-turing-pi-2-home-cluster)
 ![](https://cdn.hackernoon.com/images/n9ofWwYz2VhwO7pA4xNwnhgvHBn1-6r03fui.jpeg)
 I wanted to learn more about clustering and had never built a complete Kubernetes cluster from scratch before.
+
+### [28. A Beginner's Guide to Home Automation with the Internet of Things (IoT)](https://hackernoon.com/a-beginners-guide-to-home-automation-with-the-internet-of-things-iot-rx3p345g)
+![](https://cdn.hackernoon.com/images/d0rt92gXHTONABRheBQxRkte4Cy2-loe303s.png)
+Home automation can be achieved using IoT/Smart devices. IoT is a network of devices, devices that are embedded with sensors, software and other tech.
 
 ### [29. How to Perform a Rogue Raspberry Pi Exploit](https://hackernoon.com/how-to-perform-a-rogue-raspberry-pi-exploit)
 ![](https://cdn.hackernoon.com/images/1yeuFftUzKRT5YTxuVLPKYa7Uep2-p893osl.jpeg)
@@ -189,13 +191,13 @@ I decided to invest in a Raspberry Pi and Courier to make sure that I would get 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5XlgeGxTSISea88ADBTxVWGUw2j2-4dg3ucu.jpeg?alt=media&token=a7d1fd8d-7cd6-4ce8-8071-eac33b7e5229)
 This is the first of the 'How I built' trilogy detailing the build process of all 3 of my clusters. 
 
-### [45. How We Added Surge Pricing Capabilities to our IoT eScooter with AWS Lambda and SORACOM Funk](https://hackernoon.com/test-yt2l27hk)
-![](https://cdn.hackernoon.com/drafts/6s2y93xpd.png)
-This article also comes in video form!
-
-### [46. The Nvidia Jetson Nano Is The Biggest Industrial IoT Revolution](https://hackernoon.com/the-nvidia-jetson-nano-is-the-biggest-industrial-iot-revolution-p41d3wj5)
+### [45. The Nvidia Jetson Nano Is The Biggest Industrial IoT Revolution](https://hackernoon.com/the-nvidia-jetson-nano-is-the-biggest-industrial-iot-revolution-p41d3wj5)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0kNIr1T3snRY2oIQYlO7ks28b3y2-c01k3ug9.jpeg?alt=media&token=d6be46ad-3a43-4178-90e4-8e3e730c8db3)
 It feels like yesterday when the Raspberry Pi foundation released the first-in-line Single Board Computer (SBC) to the market. Back in 2012, Raspberry Pi wasn't alone in the SBC growing market, however, it was the first to make a community-based product that brings the hardware and the software eco-system to a beautiful harmony on the internet. 
+
+### [46. How We Added Surge Pricing Capabilities to our IoT eScooter with AWS Lambda and SORACOM Funk](https://hackernoon.com/test-yt2l27hk)
+![](https://cdn.hackernoon.com/drafts/6s2y93xpd.png)
+This article also comes in video form!
 
 ### [47. Building Real-Time Vehicle Detection System](https://hackernoon.com/building-real-time-vehicle-detection-system-0d1g3t0g)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXK7pxqJ8lxXQmTOPuTJv3pkWTr93-cu6o3eqq.jpeg?alt=media&token=b7d55c4f-5970-4c86-a3fe-28666093ee3f)
@@ -213,29 +215,29 @@ This is a self-contained demo using Materialize to process data IoT devices data
 ![](https://cdn.hackernoon.com/images/na1LA50pIxdXCxwaer7ISkWR5q52-bl03k8i.png)
 Learn how the WPA 4-way handshake works, its flaws, and step-by-step instructions to capture handshakes using Raspberry Pi and Aircrack-ng.
 
-### [50. Create a LEDs-powered Cloud! ☁️⚡️✨](https://hackernoon.com/create-an-leds-based-cloud-️-️-22dec7cf2ca1)
+### [50. Beyond Cracking the Handshake: A Technical Analysis of WPA2 Weaknesses and Router Exposure](https://hackernoon.com/beyond-cracking-the-handshake-a-technical-analysis-of-wpa2-weaknesses-and-router-exposure)
+![](https://cdn.hackernoon.com/images/na1LA50pIxdXCxwaer7ISkWR5q52-3d123no3.png)
+A captured handshake. One Reddit comment. Full router access. See how weak security choices cascade into complete network compromise and how to stop it.
+
+### [51. Create a LEDs-powered Cloud! ☁️⚡️✨](https://hackernoon.com/create-an-leds-based-cloud-️-️-22dec7cf2ca1)
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-m483bjb.jpeg)
 At Prynt, we have creativity days, we work on everything we want for few days. I believe this is really important to have some time you can work on something else for your company. A colleague did some art paint in our office, another create slack emoji of everyone in the company, I decided to create this cloud with the help of some colleagues (by the way, we name it Claudie).
 
-### [51. Raspberry Pi Wireless Thermostat - in Rust!](https://hackernoon.com/raspberry-pi-wireless-thermostat-in-rust)
+### [52. Raspberry Pi Wireless Thermostat - in Rust!](https://hackernoon.com/raspberry-pi-wireless-thermostat-in-rust)
 ![](https://cdn.hackernoon.com/images/CYcMCdJiqsNos1O3w9kq8V7hBGE2-bra3l0r.jpeg)
 I created a fully working wireless thermostat that runs on a Raspberry Pi, written in Rust, as a practical learning project. 
-
-### [52. The True Key to Web3 Adoption: Pies, Raspberry Ones](https://hackernoon.com/the-true-key-to-web3-adoption-pies-raspberry-ones)
-![](https://cdn.hackernoon.com/images/V0u3GwHWwZQbw3RCam4v1hx30UX2-hub3qus.jpeg)
-True Web3 adoption is in bringing the device-powered networks that run on Web2 backbones to blockchain - and Raspberry Pi is the ultimate hardware for the job.
 
 ### [53. How to Start Robotics Without Hardware: Building a Parking Sensor with AI and Wokwi](https://hackernoon.com/how-to-start-robotics-without-hardware-building-a-parking-sensor-with-ai-and-wokwi)
 ![](https://cdn.hackernoon.com/images/IpaLD1eWwvaXwSxDZSLMMjCWjEn2-6b83d47.png)
 In this tutorial, we will build a car parking sensor system, first digitally, and then I will show you how to port it to real hardware.
 
-### [54. RaspberryPi: Technology Overload - LAMP🕯 to UASP🐝](https://hackernoon.com/raspberrypi-technology-overload-lamp-to-uasp)
+### [54. The True Key to Web3 Adoption: Pies, Raspberry Ones](https://hackernoon.com/the-true-key-to-web3-adoption-pies-raspberry-ones)
+![](https://cdn.hackernoon.com/images/V0u3GwHWwZQbw3RCam4v1hx30UX2-hub3qus.jpeg)
+True Web3 adoption is in bringing the device-powered networks that run on Web2 backbones to blockchain - and Raspberry Pi is the ultimate hardware for the job.
+
+### [55. RaspberryPi: Technology Overload - LAMP🕯 to UASP🐝](https://hackernoon.com/raspberrypi-technology-overload-lamp-to-uasp)
 ![](https://cdn.hackernoon.com/images/ZPH1phY9EEX1BB6hjSNi0ds2zk03-eo932th.jpeg)
  Dive into Raspberry Pi's reimagined LAMP stack, shifting to Ubuntu, Apache, SQLite3, Python. Efficient coding, cost-effective solutions revealed!
-
-### [55. Beyond Cracking the Handshake: A Technical Analysis of WPA2 Weaknesses and Router Exposure](https://hackernoon.com/beyond-cracking-the-handshake-a-technical-analysis-of-wpa2-weaknesses-and-router-exposure)
-![](https://cdn.hackernoon.com/images/na1LA50pIxdXCxwaer7ISkWR5q52-3d123no3.png)
-A captured handshake. One Reddit comment. Full router access. See how weak security choices cascade into complete network compromise and how to stop it.
 
 ### [56. Here's How I Got Started With Kubernetes: Part I](https://hackernoon.com/heres-how-i-got-started-with-kubernetes-part-i-m82m3zp3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FCAuNPxvISuZfFid79BWZ7m2M4T33-pp1o232v.png?alt=media&token=027af41c-5fc2-49cf-a3c2-5a6518d9801a)
@@ -257,17 +259,17 @@ Here is a great project that will help you start making game console based on  R
 ![](https://cdn.hackernoon.com/images/5XlgeGxTSISea88ADBTxVWGUw2j2-7m7h35pk.jpeg)
 I set out on a voyage to find a way to self-host a dedicated server at home on the cheapest x86 single-board computer with the Raspberry Pi form factor.
 
-### [61. How To Creat an Audible Object Detector [DIY Tutorial]](https://hackernoon.com/how-to-creat-an-audible-object-detector-diy-tutorial-9dd03yx8)
-![](https://cdn.hackernoon.com/images/5uo3yig.jpg)
-For people with vision problems. 
-
-### [62. Your First Hardware Hacking Bench: The Only Tools That Matter](https://hackernoon.com/your-first-hardware-hacking-bench-the-only-tools-that-matter)
+### [61. Your First Hardware Hacking Bench: The Only Tools That Matter](https://hackernoon.com/your-first-hardware-hacking-bench-the-only-tools-that-matter)
 ![](https://cdn.hackernoon.com/images/a8r6OahXg2YNARKNrgVUduaKVMh2-b383nfp.jpeg)
 New to hardware hacking? Learn the essential tools you need to avoid costly mistakes. This guide covers the survival kit every beginner should have. 
 
-### [63. API Hacking for SQAs: A Starter's Proof of Concept](https://hackernoon.com/api-hacking-for-sqas-a-starters-proof-of-concept)
+### [62. API Hacking for SQAs: A Starter's Proof of Concept](https://hackernoon.com/api-hacking-for-sqas-a-starters-proof-of-concept)
 ![](https://cdn.hackernoon.com/images/qZcrbLtSQSf7IJIRPcILqD3qXYm1-l902s8t.png)
 Explore a hands-on proof of concept for API security testing, uncover risks, & learn a practical roadmap any QA professional can apply, no expertise needed.
+
+### [63. How To Creat an Audible Object Detector [DIY Tutorial]](https://hackernoon.com/how-to-creat-an-audible-object-detector-diy-tutorial-9dd03yx8)
+![](https://cdn.hackernoon.com/images/5uo3yig.jpg)
+For people with vision problems. 
 
 ### [64. Tutorial: Build AdonisJS API to store your Raspberry Pi Temperature](https://hackernoon.com/tutorial-build-adonisjs-api-to-store-your-raspberry-pi-temperature)
 ![](https://cdn.hackernoon.com/images/tRW6o57hoNezh0iZnOdGsW3dKI02-e2039gt.jpeg)
@@ -278,29 +280,29 @@ In this tutorial we will use AdonisJS to build a simple API that will collect th
 ![](https://cdn.hackernoon.com/images/mkt3235.jpg)
 I’m going to focus mostly on some design decisions and how I went about writing an SPI interface using Go on a Raspberry Pi. I assume my readers have a basic understanding of what a Raspberry Pi is, and how basic electronics work. If not, read on anyway and I will be sure to include some valuable resources below.
 
-### [66. Using Raspberry Pi to Migrate GitHub Runners to Self-Hosted Ones](https://hackernoon.com/using-raspberry-pi-to-migrate-github-runners-to-self-hosted-ones)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-5v82ihr.jpeg)
-How I am migrating GitHub Actions to self-hosted runners on a Raspberry Pi
-
-### [67. How to set up a RaspberryPi to share files and media](https://hackernoon.com/how-to-set-up-a-raspberrypi-to-share-files-and-media)
-![](https://cdn.hackernoon.com/images/KhFtC9YYgyQb0IquXuMbz7WYhPH2-we03sd5.jpeg)
-Over the past months, I’ve been slowly assembling a suite of self-hosted tools and services on a shiny new RaspberryPi 400.
-
-### [68. Pushing the Limits: Running Local LLMs and a 24/7 Personal News Curator on 4GB of RAM](https://hackernoon.com/pushing-the-limits-running-local-llms-and-a-247-personal-news-curator-on-4gb-of-ram)
+### [66. Pushing the Limits: Running Local LLMs and a 24/7 Personal News Curator on 4GB of RAM](https://hackernoon.com/pushing-the-limits-running-local-llms-and-a-247-personal-news-curator-on-4gb-of-ram)
 ![](https://cdn.hackernoon.com/images/1clJ8yJ939UWqmKEv2D02kTjKmF2-yy23jy8.png)
 The Curator App uses Playwright to browse sites, validates the articles, and then uses a local LLM to check if the content actually matches my taste.
 
-### [69. The Tech Adventures of NimbleArchitect](https://hackernoon.com/nimble-architects-tech-adventures-u11x25aq)
+### [67. Using Raspberry Pi to Migrate GitHub Runners to Self-Hosted Ones](https://hackernoon.com/using-raspberry-pi-to-migrate-github-runners-to-self-hosted-ones)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-5v82ihr.jpeg)
+How I am migrating GitHub Actions to self-hosted runners on a Raspberry Pi
+
+### [68. How to set up a RaspberryPi to share files and media](https://hackernoon.com/how-to-set-up-a-raspberrypi-to-share-files-and-media)
+![](https://cdn.hackernoon.com/images/KhFtC9YYgyQb0IquXuMbz7WYhPH2-we03sd5.jpeg)
+Over the past months, I’ve been slowly assembling a suite of self-hosted tools and services on a shiny new RaspberryPi 400.
+
+### [69. You’ve Learned to Break Wi-Fi. Now Learn to Lock It Down.](https://hackernoon.com/youve-learned-to-break-wi-fi-now-learn-to-lock-it-down)
+![](https://cdn.hackernoon.com/images/na1LA50pIxdXCxwaer7ISkWR5q52-nf03knz.png)
+A practical guide to Wi-Fi hardening using strong passwords, entropy, OpSec and key router safeguards for a safer, more resilient network.
+
+### [70. The Tech Adventures of NimbleArchitect](https://hackernoon.com/nimble-architects-tech-adventures-u11x25aq)
 ![](images/vko32l9.jpg)
 Smart House Alarm with a Pi: The Dumb Doorbell
 
-### [70. Why Do You Need to Patch Raspberry Pi?](https://hackernoon.com/why-do-you-need-to-patch-raspberry-pi-oo2q33fl)
+### [71. Why Do You Need to Patch Raspberry Pi?](https://hackernoon.com/why-do-you-need-to-patch-raspberry-pi-oo2q33fl)
 ![](https://cdn.hackernoon.com/images/k1Er1dPJZmS44idKdJ1zzQtT7WS2-71i34go.jpeg)
 Because of its open-source nature, the Raspberry Pi source code could be analyzed by malicious actors and allow for targeted attacks.
-
-### [71. You’ve Learned to Break Wi-Fi. Now Learn to Lock It Down.](https://hackernoon.com/youve-learned-to-break-wi-fi-now-learn-to-lock-it-down)
-![](https://cdn.hackernoon.com/images/na1LA50pIxdXCxwaer7ISkWR5q52-nf03knz.png)
-A practical guide to Wi-Fi hardening using strong passwords, entropy, OpSec and key router safeguards for a safer, more resilient network.
 
 ### [72. How Hot Does it Get Inside a Car During a Heat Wave?](https://hackernoon.com/how-hot-does-it-get-inside-a-car-during-a-heat-wave-a13u37y4)
 ![](https://cdn.hackernoon.com/images/fms5hEAIFUXalFpkFdSTymA0Cmn2-lu5c25xv.jpeg)

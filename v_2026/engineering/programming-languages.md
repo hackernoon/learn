@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [programming-languages](https://hackernoon.com/tagged/programming-languages)
+### Let's learn about [Programming Languages](https://hackernoon.com/tagged/programming-languages) via these 218 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 All the beautiful programming languages bundled into one section. From C++ to Swift, and everything in between.
 
 ### [1. How to Update Object Key Values Using Javascript](https://hackernoon.com/how-to-update-object-key-values-using-javascript)
@@ -48,15 +50,15 @@ Python and JavaScript are the two hottest programming languages today. However, 
 ![](https://cdn.hackernoon.com/drafts/0sva3wtf.png)
 C# is one of the most versatile programming language and brings in ease of programming offered by languages like Java, and has roots in the C family of languages including C and C++. C# is type-safe, object oriented and runs in the .Net Framework run-time, and C# code is compiled into IL (intermediate language) that conforms to CLI specifications.
 
-### [12. Enhancing Global Communication: The Power of Multi-Language JavaScript OCR APIs for Document Process](https://hackernoon.com/enhancing-global-communication-the-power-of-multi-language-javascript-ocr-apis-for-document-process)
-![](https://cdn.hackernoon.com/images/0sm1KIKmbZhu9AD2GAr4cKywoN43-50030xr.png)
-Multi-language JavaScript OCR APIs enhance global document processing, streamline communication, and break language barriers for businesses worldwide.
-
-### [13. PineScript for Beginners: Writing Your First TradingView Indicator](https://hackernoon.com/pinescript-for-beginners-writing-your-first-tradingview-indicator)
+### [12. PineScript for Beginners: Writing Your First TradingView Indicator](https://hackernoon.com/pinescript-for-beginners-writing-your-first-tradingview-indicator)
 ![](https://cdn.hackernoon.com/images/illustrate-arbitrary-financial-charts-kt0lmtmu3t45fmlrs1pdtc44.png)
 Learn to write Pinescript v5 and create your first TradingView indicator. Enhance your trading strategies and gain a competitive edge in the market!
 
 
+
+### [13. Enhancing Global Communication: The Power of Multi-Language JavaScript OCR APIs for Document Process](https://hackernoon.com/enhancing-global-communication-the-power-of-multi-language-javascript-ocr-apis-for-document-process)
+![](https://cdn.hackernoon.com/images/0sm1KIKmbZhu9AD2GAr4cKywoN43-50030xr.png)
+Multi-language JavaScript OCR APIs enhance global document processing, streamline communication, and break language barriers for businesses worldwide.
 
 ### [14. Using JavaScript to Create and Generate UUIDs](https://hackernoon.com/using-javascript-to-create-and-generate-uuids)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-2m93san.jpeg)
@@ -86,14 +88,14 @@ I often receive questions like which is a first programming language to learn? I
 ![](https://cdn.hackernoon.com/images/programmer-typing-on-his-macbook-pro-clh4nnzgo000001s6ddnigd65.png)
 Programming language learning can be an intimidating process, therefore, it is recommended to start with the easiest.
 
-### [21. How To Understand The Difference Between Statically - Dynamically - Strongly - Weakly Typed Language](https://hackernoon.com/actually-understand-statically-dynamically-strongly-weakly-typed-languages-axbpi3za2)
+### [21. “Python Is Slow” and Other Myths of a Dying Era](https://hackernoon.com/python-is-slow-and-other-myths-of-a-dying-era)
+![](https://cdn.hackernoon.com/images/IiNLlB7F5GQYLVoCrYgTXOEx94e2-hp92gsi.jpeg)
+This article addresses misconceptions and the realities of Python compilers and libraries that enable the writing of ultra-fast programs.
+
+### [22. How To Understand The Difference Between Statically - Dynamically - Strongly - Weakly Typed Language](https://hackernoon.com/actually-understand-statically-dynamically-strongly-weakly-typed-languages-axbpi3za2)
 ![](https://cdn.hackernoon.com/drafts/i1uvw32u2.png)
 First of all, what are all these words - Statically - Dynamically - Strongly - Weakly Typed Languages?
 This is how you can classify programming languages:
-
-### [22. “Python Is Slow” and Other Myths of a Dying Era](https://hackernoon.com/python-is-slow-and-other-myths-of-a-dying-era)
-![](https://cdn.hackernoon.com/images/IiNLlB7F5GQYLVoCrYgTXOEx94e2-hp92gsi.jpeg)
-This article addresses misconceptions and the realities of Python compilers and libraries that enable the writing of ultra-fast programs.
 
 ### [23. Python Web Frameworks Compared: Django vs FastAPI](https://hackernoon.com/python-web-frameworks-compared-django-vs-fastapi)
 ![](https://cdn.hackernoon.com/images/NSAqeFwppXVyYopDUm42yXx22oC3-wg93lmd.jpeg)
@@ -156,13 +158,13 @@ Python, a programming language that has long been hailed as being both capable a
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwE3a1DfcDVMxVW3bYC2lTpfXuVn2-1l253tbe.jpeg?alt=media&token=9b6a0892-2328-49b6-a389-871d6034c9f2)
 When working with embedded systems that depend on speed or have a minimal amount of memory, C is a perfect language of choice. This is a short paper about why you should learn C and the benefits of doing so. 
 
-### [38. Building Your Own Programming Language From Scratch: Part VII - Classes](https://hackernoon.com/building-your-own-programming-language-from-scratch-part-vii-classes)
-![](https://cdn.hackernoon.com/images/a088Dwhw1pNtxFTtazApdvSQJk03-clb2nc0.jpeg)
-In this part of creating your own programming language we will implement classes and at the end will write the real Stack implementation
-
-### [39. Structural Analysis of a Beam with Python](https://hackernoon.com/structural-analysis-of-a-beam-with-python)
+### [38. Structural Analysis of a Beam with Python](https://hackernoon.com/structural-analysis-of-a-beam-with-python)
 ![](https://cdn.hackernoon.com/images/9mEVhVUDuCNNlVwf2fYGWWBDAdt1-ks92oa1.jpeg)
 A simple python program to compute the shear and bending stresses in a beam element
+
+### [39. Building Your Own Programming Language From Scratch: Part VII - Classes](https://hackernoon.com/building-your-own-programming-language-from-scratch-part-vii-classes)
+![](https://cdn.hackernoon.com/images/a088Dwhw1pNtxFTtazApdvSQJk03-clb2nc0.jpeg)
+In this part of creating your own programming language we will implement classes and at the end will write the real Stack implementation
 
 ### [40. What is the Basic Structure of a Programming Language?](https://hackernoon.com/what-is-the-basic-structure-of-a-programming-language)
 ![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-gl93p4w.jpeg)
@@ -307,25 +309,25 @@ The Decorator pattern is a great fit for modifying the behaviour of a microservi
 ![](https://cdn.hackernoon.com/images/ZfZ1q2Bn1YYq5hGoc3wuc7PPcOt2-3ta3qji.gif.webp)
 Learn how Javascript async/await works and what it means by Javascript is a single-threaded language.
 
-### [75. Rethinking Programming: Making Sequence Diagrams Cool Again](https://hackernoon.com/rethinking-programming-making-sequence-diagrams-cool-again-6z1p3yv9)
+### [75. The Language That Refuses to Crash: Why Ada Still Matters in 2025](https://hackernoon.com/the-language-that-refuses-to-crash-why-ada-still-matters-in-2025)
+![](https://cdn.hackernoon.com/images/4C9XGbBXTfWCpZ7icj0NdFe3DYE2-38123w3.png)
+A deep dive into the Ada programming language — born from the software crisis, powering aircraft and systems where failure isn’t an option.
+
+### [76. Rethinking Programming: Making Sequence Diagrams Cool Again](https://hackernoon.com/rethinking-programming-making-sequence-diagrams-cool-again-6z1p3yv9)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-3k83xuv.jpeg)
 Introduction
 
-### [76. Harnessing Concurrent Execution with “Future.wait()” in Dart](https://hackernoon.com/harnessing-concurrent-execution-with-futurewait-in-dart)
+### [77. Harnessing Concurrent Execution with “Future.wait()” in Dart](https://hackernoon.com/harnessing-concurrent-execution-with-futurewait-in-dart)
 ![](https://cdn.hackernoon.com/images/N5P2SVUeSBRLoIu1oEruwNMSGyl2-gl92k88.jpeg)
 Harnessing Concurrent Execution with “Future.wait()” in Dart
 
-### [77. 13 Free/Low-Cost Sites to Supercharge Your Programming Self-Education](https://hackernoon.com/13-freelow-cost-sites-to-supercharge-your-programming-self-education-lq1l3umu)
+### [78. 13 Free/Low-Cost Sites to Supercharge Your Programming Self-Education](https://hackernoon.com/13-freelow-cost-sites-to-supercharge-your-programming-self-education-lq1l3umu)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FqeIv6rNygoYrUXBwG7uA2lPpLSj2-l5jl3w17.jpeg?alt=media&token=3c0d80f4-2f0a-471a-9623-eb4ec27f1f1f)
 Although we still talk about programming as a standalone career, the dominance of technology in our lives makes it clear that coding is much more than a career path. In my opinion, computer science is more than a college major or a high-paid job; it’s a skill, essential for thriving in a modern-day economy.
 
-### [78. JS Arrow Functions for Newbies](https://hackernoon.com/js-arrow-functions-for-newbies)
+### [79. JS Arrow Functions for Newbies](https://hackernoon.com/js-arrow-functions-for-newbies)
 ![](https://cdn.hackernoon.com/images/32Hc3Kk4DHckFxtU8bNctJ2ME632-w393xy7.jpeg)
 Introduction to new ES6 javascript feature - Arrow Functions. 
-
-### [79. The Language That Refuses to Crash: Why Ada Still Matters in 2025](https://hackernoon.com/the-language-that-refuses-to-crash-why-ada-still-matters-in-2025)
-![](https://cdn.hackernoon.com/images/4C9XGbBXTfWCpZ7icj0NdFe3DYE2-38123w3.png)
-A deep dive into the Ada programming language — born from the software crisis, powering aircraft and systems where failure isn’t an option.
 
 ### [80. Why Python is The 1st Language](https://hackernoon.com/why-python-is-the-1st-language-p91g3140)
 ![](https://cdn.hackernoon.com/images/J02wLUAg9qdpEaClVLYeyVVVZuR2-qp3725i4.jpeg)
@@ -339,13 +341,13 @@ Embedding refers to integrating external content on your webpage like images, vi
 ![](https://cdn.hackernoon.com/images/kTJ0UcxawffFFnGSLfPtLTswgDn1-w693s3g.jpeg)
 How to use the new programming language to build more efficiently.
 
-### [83. Ruby vs Python: Which is Better for Your Application Development?](https://hackernoon.com/ruby-vs-python-which-is-better-for-your-application-development-fjl3u0u)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRi0vZky16YXc6PEvCIqGHievpv92-2f2u3uud.jpeg?alt=media&token=11144d0c-9057-4899-b029-ec915a49e240)
-Ruby and Python are some of the most commonly used programming languages for web application development. According to the Stack Overflow’s annual survey conducted among 90,000 developers worldwide, Ruby and Python were in the Top 15 most in-demand programming languages in 2019. It’s quite something considering that there are about 700 programming languages in the world!
-
-### [84. The Noonification: Craig Wright is Satoshi Nakamoto (12/17/2023)](https://hackernoon.com/12-17-2023-noonification)
+### [83. The Noonification: Craig Wright is Satoshi Nakamoto (12/17/2023)](https://hackernoon.com/12-17-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_875_x7ljtlcr5f9axe8snzcjzm1w.png)
 12/17/2023: Top 5 stories on the HackerNoon homepage!
+
+### [84. Ruby vs Python: Which is Better for Your Application Development?](https://hackernoon.com/ruby-vs-python-which-is-better-for-your-application-development-fjl3u0u)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRi0vZky16YXc6PEvCIqGHievpv92-2f2u3uud.jpeg?alt=media&token=11144d0c-9057-4899-b029-ec915a49e240)
+Ruby and Python are some of the most commonly used programming languages for web application development. According to the Stack Overflow’s annual survey conducted among 90,000 developers worldwide, Ruby and Python were in the Top 15 most in-demand programming languages in 2019. It’s quite something considering that there are about 700 programming languages in the world!
 
 ### [85. An Interview With "Dr. Java" James Gosling, The Creator Of Java](https://hackernoon.com/an-interview-with-dr-java-james-gosling-the-creator-of-java-1z2d37hr)
 ![](https://cdn.hackernoon.com/images/MqO5FJu5BqX6pm118RBfsb2Qysq1-08s35c8.jpeg)
@@ -367,13 +369,13 @@ The number of software developers globally is due to almost double by 2030, yet 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FqeIv6rNygoYrUXBwG7uA2lPpLSj2-o3c3ww5.jpeg?alt=media&token=1e90621d-9d14-4662-b95c-c61fbfe49bc1)
 Does programming sound like a stressful job for you? People believe it shouldn’t be since it seems all coders do is sit in front of the screen, typing. There are no life-or-death situations, no enormous responsibility compared to medicine, banking, or accounting. Technically speaking, software development should be one of the calmer jobs out there.
 
-### [90. Top 10 Programming Languages for Beginners](https://hackernoon.com/top-10-programming-languages-for-beginners)
-![](https://cdn.hackernoon.com/images/a-dark-computer-screen-with-python-code-clcska687000201s66k9460vb.png)
-Learning to code is important for a number of reasons. First and foremost, coding is a valuable skill that can help you pursue a career in a variety of fields.
-
-### [91. Is Assembly Language a Dying Art?](https://hackernoon.com/is-assembly-language-a-dying-art)
+### [90. Is Assembly Language a Dying Art?](https://hackernoon.com/is-assembly-language-a-dying-art)
 ![](https://cdn.hackernoon.com/images/N0haeyktznXk2bhy0ZHqcQ1309w2-tr82rju.jpeg)
 Discover the power of assembly language in today's programming landscape. While newer languages may dominate, assembly remains the foundational.
+
+### [91. Top 10 Programming Languages for Beginners](https://hackernoon.com/top-10-programming-languages-for-beginners)
+![](https://cdn.hackernoon.com/images/a-dark-computer-screen-with-python-code-clcska687000201s66k9460vb.png)
+Learning to code is important for a number of reasons. First and foremost, coding is a valuable skill that can help you pursue a career in a variety of fields.
 
 ### [92. 7 Fun Tailwind CSS Button Designs to Improve Your Workflow](https://hackernoon.com/7-fun-tailwind-css-button-designs-to-improve-your-workflow)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ky93oa4.jpeg)
@@ -387,13 +389,13 @@ The most important Data structures explained in code for cracking the coding int
 ![](https://cdn.hackernoon.com/images/XN21rncAI4cOdFidD1fECxswUZl2-ew93qjd.jpeg)
 This blog will outline the top 6 trending programming languages to learn in 2022 and equip you with some tips to choose the best one.
 
-### [95. How To Select Programming Language Depending on the Task](https://hackernoon.com/how-to-select-programming-language-depending-on-the-task-ds253umu)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2c82r3n.jpeg)
-There are several thousand programming languages in the world. Even though many of them are incredibly unpopular, very specific, or have been created a long time ago, they still exist, and new languages continue to appear. It seems that there is no reason to believe that the number of languages will ever begin to decrease and that ultimately one universal programming language will emerge. The vast number of programming languages can frighten, but this very diversity allows us to move to a new level of multilingual project implementation. The article presents the idea of multilingual projects, which will enable developers not only to navigate in a variety of languages but also to see the benefits of their joint use.
-
-### [96. A Conversation with Roberto Ierusalimschy, Creator of Lua](https://hackernoon.com/a-conversation-with-roberto-ierusalimschy-creator-of-lua)
+### [95. A Conversation with Roberto Ierusalimschy, Creator of Lua](https://hackernoon.com/a-conversation-with-roberto-ierusalimschy-creator-of-lua)
 ![](https://cdn.hackernoon.com/images/3h4yVhQwGQOqkLBdJTcmwrpSDK33-cs93ky5.jpeg)
 Roberto Ierusalimschy, world-renowned creator of Lua, talks about creating the language and reflects on how it has affected the way he teaches his students.
+
+### [96. How To Select Programming Language Depending on the Task](https://hackernoon.com/how-to-select-programming-language-depending-on-the-task-ds253umu)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2c82r3n.jpeg)
+There are several thousand programming languages in the world. Even though many of them are incredibly unpopular, very specific, or have been created a long time ago, they still exist, and new languages continue to appear. It seems that there is no reason to believe that the number of languages will ever begin to decrease and that ultimately one universal programming language will emerge. The vast number of programming languages can frighten, but this very diversity allows us to move to a new level of multilingual project implementation. The article presents the idea of multilingual projects, which will enable developers not only to navigate in a variety of languages but also to see the benefits of their joint use.
 
 ### [97. Mastering Python Variables: Deep Dive into Memory, Mutability, and Beyond](https://hackernoon.com/mastering-python-variables-deep-dive-into-memory-mutability-and-beyond)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-x893p8l.jpeg)
@@ -491,15 +493,15 @@ Ballerina is the latest programming language release of the 1.0 version in Septe
 ![](https://cdn.hackernoon.com/images/mDsj2387wdN4dArKgC2UNVj38ru1-oc2u33jx.jpeg)
 PHP stands for PHP: Hypertext Preprocessor and is a widely-used, open source server-side scripting language.
 
-### [121. Difference Between Python and Java: Key Features](https://hackernoon.com/difference-between-python-and-java-key-features-oyf3upq)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-tpd3uyp.gif?alt=media&token=40cc4806-fdb7-44bb-9ffe-a066f0766154)
-Python or Java, which is better? This question has triggered lots of heated discussions around the global dev community. 
-
-### [122. Java / JavaScript: Differences Beyond the Name](https://hackernoon.com/java-javascript-differences-beyond-the-name)
+### [121. Java / JavaScript: Differences Beyond the Name](https://hackernoon.com/java-javascript-differences-beyond-the-name)
 ![](https://cdn.hackernoon.com/images/BPDtcCNCLzatkkbTtNguSHPvi2A2-8w92ad0.jpeg)
 Java and JavaScript...
 
 Beyond the names that appear "similar," how else do these two programming languages differ from each other?
+
+### [122. Difference Between Python and Java: Key Features](https://hackernoon.com/difference-between-python-and-java-key-features-oyf3upq)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-tpd3uyp.gif?alt=media&token=40cc4806-fdb7-44bb-9ffe-a066f0766154)
+Python or Java, which is better? This question has triggered lots of heated discussions around the global dev community. 
 
 ### [123. Asked for a Parka, Got an “Error 429: Too Many Requests”](https://hackernoon.com/asked-for-a-parka-got-an-error-429-too-many-requests)
 ![](https://cdn.hackernoon.com/images/ibRkmu5aVJXXD6liofFFR23PdGC2-k6j3sem.jpeg)
@@ -513,90 +515,90 @@ Anti-bot techniques are getting life harder for web scrapers. In this post we'll
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-6ub3oix.jpeg)
 This guide provides a simple overview designed to help get your feet wet in building languages and exploring the inner workings of WebAssembly
 
-### [126. Python vs. JavaScript: A Comparative Review ](https://hackernoon.com/python-vs-javascript-a-comparative-review)
-![](https://cdn.hackernoon.com/images/KtYYKlCMo7fVLZfX7FDxpl0iAh83-qp93q0m.jpeg)
-Python and JavaScript are two of the most used programming languages. Even though both are object-oriented programming languages, they have different scopes.
-
-### [127. How to Avoid React Anti-Patterns by Weaning Off Bad Programming Habits ](https://hackernoon.com/how-to-avoid-react-anti-patterns-by-weaning-off-bad-programming-habits)
+### [126. How to Avoid React Anti-Patterns by Weaning Off Bad Programming Habits ](https://hackernoon.com/how-to-avoid-react-anti-patterns-by-weaning-off-bad-programming-habits)
 ![](https://cdn.hackernoon.com/images/6EORd3lScrVTxxVB0ulAUeFzv0E2-5sc3n6h.jpeg)
 Let's consider some examples of React anti-patterns which avoidance will help you ensure the top-notch quality of your front-end development.
 
-### [128. Typescript 3.9: What got changed?](https://hackernoon.com/typescript-39-what-got-changed-ft3f3vbz)
+### [127. Python vs. JavaScript: A Comparative Review ](https://hackernoon.com/python-vs-javascript-a-comparative-review)
+![](https://cdn.hackernoon.com/images/KtYYKlCMo7fVLZfX7FDxpl0iAh83-qp93q0m.jpeg)
+Python and JavaScript are two of the most used programming languages. Even though both are object-oriented programming languages, they have different scopes.
+
+### [128. Break the Loop: How I Finally Understood Functional Programming (Without the Math)](https://hackernoon.com/break-the-loop-how-i-finally-understood-functional-programming-without-the-math)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-mt021tl.jpeg)
+Stop fighting the 'Celtic runes' of functional programming. Learn FP through a simple model of computation, from basic recursion to the magic of shared thunks. 
+
+### [129. Typescript 3.9: What got changed?](https://hackernoon.com/typescript-39-what-got-changed-ft3f3vbz)
 ![](https://cdn.hackernoon.com/images/px52c3vht.jpg)
 Hey! guys, in this post I will be discussing the changes brought in by typescript 3.9. I will give some code examples and brief descriptions.
-
-### [129. 10 Most Sought-After Programming Languages You Should Learn In 2021](https://hackernoon.com/10-most-sought-after-programming-languages-you-should-learn-in-2021-g813333s)
-![](https://cdn.hackernoon.com/images/pAcvoQhfWVcc6iAV8V8vLYABz8C3-oya33fd.jpeg)
-If you are working on any technology and want to know which programming language is best for you then you can follow this article.
 
 ### [130. Mojo: The New Generation Programming Language](https://hackernoon.com/mojo-the-new-generation-programming-language)
 ![](https://cdn.hackernoon.com/images/DXz9GXTtgthREtyKJUCi1imAp443-kh833g4.jpeg)
 This brand-new, proprietary language from Modular Inc. promises to be a game-changer, particularly for AI developers.
 
-### [131. How to Sort Through Trends in Software Development ](https://hackernoon.com/how-to-sort-through-trends-in-software-development)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-r803o7y.jpeg)
-Never stop learning! Accumulating knowledge is the natural state of a good developer. 
+### [131. 10 Most Sought-After Programming Languages You Should Learn In 2021](https://hackernoon.com/10-most-sought-after-programming-languages-you-should-learn-in-2021-g813333s)
+![](https://cdn.hackernoon.com/images/pAcvoQhfWVcc6iAV8V8vLYABz8C3-oya33fd.jpeg)
+If you are working on any technology and want to know which programming language is best for you then you can follow this article.
 
-### [132. Why I Continue To Choose Delphi](https://hackernoon.com/why-i-continue-to-choose-delphi-tc2w3737)
-![](https://cdn.hackernoon.com/images/aPpMYMv5aoRRtikpXkafRbUqgFs1-6ng32yf.jpeg)
-I started with Delphi in 1997. It had all the productivity of Visual Basic, with the power of Visual C++. I knew I had the only language I would ever need.
-
-### [133. How to Implement Heap in Data Structure](https://hackernoon.com/how-to-implement-heap-in-data-structure)
+### [132. How to Implement Heap in Data Structure](https://hackernoon.com/how-to-implement-heap-in-data-structure)
 ![](https://cdn.hackernoon.com/images/V4OORvpWBMfsdPL4Cd7eTIK2TqW2-0t93hdc.jpeg)
 Heap data structure is a balanced binary tree data structure where the child node is placed in comparison to the root node and then arranged accordingly.
+
+### [133. The Oxidized Age: Why Rust’s "Fungal" Growth Might Outlast Us All](https://hackernoon.com/the-oxidized-age-why-rusts-fungal-growth-might-outlast-us-all)
+![](https://cdn.hackernoon.com/images/4C9XGbBXTfWCpZ7icj0NdFe3DYE2-5f02314.jpeg)
+Explore Rust's 2025 dominance, its "fungal" origins, the Ferrocene breakthrough, and why it complements rather than kills C in this deep dive.
 
 ### [134. Things to Learn as a Novice Programmer to Find a Good Job Quickly](https://hackernoon.com/things-to-learn-as-a-novice-programmer-to-find-a-good-job-quickly)
 ![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-mg93pha.jpeg)
 In this article, I will share my thoughts on choosing your first programming language, what it means to “learn to program,” and what you should learn first.
 
-### [135. The Oxidized Age: Why Rust’s "Fungal" Growth Might Outlast Us All](https://hackernoon.com/the-oxidized-age-why-rusts-fungal-growth-might-outlast-us-all)
-![](https://cdn.hackernoon.com/images/4C9XGbBXTfWCpZ7icj0NdFe3DYE2-5f02314.jpeg)
-Explore Rust's 2025 dominance, its "fungal" origins, the Ferrocene breakthrough, and why it complements rather than kills C in this deep dive.
+### [135. How to Sort Through Trends in Software Development ](https://hackernoon.com/how-to-sort-through-trends-in-software-development)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-r803o7y.jpeg)
+Never stop learning! Accumulating knowledge is the natural state of a good developer. 
 
-### [136. Getting Rid of Garbage in Java](https://hackernoon.com/getting-rid-of-garbage-in-java)
+### [136. Why I Continue To Choose Delphi](https://hackernoon.com/why-i-continue-to-choose-delphi-tc2w3737)
+![](https://cdn.hackernoon.com/images/aPpMYMv5aoRRtikpXkafRbUqgFs1-6ng32yf.jpeg)
+I started with Delphi in 1997. It had all the productivity of Visual Basic, with the power of Visual C++. I knew I had the only language I would ever need.
+
+### [137. Getting Rid of Garbage in Java](https://hackernoon.com/getting-rid-of-garbage-in-java)
 ![](https://cdn.hackernoon.com/images/qRCYveQ3SAVQcIAe3CbXRrmAsZ12-nrf3aew.jpeg)
 Every application needs memory to run. However, computer memory is limited. Therefore, it is important to clear it of old unused data to make room for new ones.
 
-### [137. JavaScript Explained By a Non-Developer](https://hackernoon.com/javascript-explained-by-a-non-developer-ja1j32mh)
-![](https://cdn.hackernoon.com/images/J4sDGrHzD6VZ9kyVfcCoAq4PRIU2-a33h37jm.jpeg)
-Ever wonder how people on the outside of a specific industry such as software development understand and describe the common terms within that field? d.
-
-### [138. Introducing Neuron Lang: A New Language For Frontend Development](https://hackernoon.com/introducing-neuron-lang-a-new-language-for-frontend-development-fg2b3ukq)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FExlCwdkuubUt1EMladCR0Vo0JM72-mi7l3u50.png?alt=media&token=196c3e81-4772-4c87-ae90-6b845a43c244)
-HTML, CSS, and JavaScript are combined in this elegant language.
-
-### [139. Svelte UI: The JS Framework Shaping Tomorrow's Web Development](https://hackernoon.com/svelte-ui-the-js-framework-shaping-tomorrows-web-development)
+### [138. Svelte UI: The JS Framework Shaping Tomorrow's Web Development](https://hackernoon.com/svelte-ui-the-js-framework-shaping-tomorrows-web-development)
 ![](https://cdn.hackernoon.com/images/ITO9azZldqMe7HHHhT7vijMic5E3-rs8336y.jpeg)
 In an evolving world of web development, making the most suitable choice of UI frameworks can greatly impact the efficiency and quality of your applications. 
 
-### [140. An Introduction to Object Pascal and Java: A Winning Crew Boat Team](https://hackernoon.com/an-introduction-to-object-pascal-and-java-a-winning-crew-boat-team)
+### [139. JavaScript Explained By a Non-Developer](https://hackernoon.com/javascript-explained-by-a-non-developer-ja1j32mh)
+![](https://cdn.hackernoon.com/images/J4sDGrHzD6VZ9kyVfcCoAq4PRIU2-a33h37jm.jpeg)
+Ever wonder how people on the outside of a specific industry such as software development understand and describe the common terms within that field? d.
+
+### [140. Introducing Neuron Lang: A New Language For Frontend Development](https://hackernoon.com/introducing-neuron-lang-a-new-language-for-frontend-development-fg2b3ukq)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FExlCwdkuubUt1EMladCR0Vo0JM72-mi7l3u50.png?alt=media&token=196c3e81-4772-4c87-ae90-6b845a43c244)
+HTML, CSS, and JavaScript are combined in this elegant language.
+
+### [141. An Introduction to Object Pascal and Java: A Winning Crew Boat Team](https://hackernoon.com/an-introduction-to-object-pascal-and-java-a-winning-crew-boat-team)
 ![](https://cdn.hackernoon.com/images/PA0fnWDjxvVYx1SHEh857BzHi0d2-t213aez.jpeg)
 A comprehensive introduction to modern Object Pascal and Java.
 
-### [141. What's the Deal with Webrings?](https://hackernoon.com/whats-the-deal-with-webrings)
+### [142. What's the Deal with Webrings?](https://hackernoon.com/whats-the-deal-with-webrings)
 ![](https://cdn.hackernoon.com/images/the-internet-clhg3fz9g000101s6gb6633hj.png)
 Webrings were once staples in Internet Culture. What happened to them?
 
-### [142. 3 High Paying Programming Languages Jobs On Developers’ Watchlists](https://hackernoon.com/3-high-paying-programming-languages-jobs-on-developers-watchlists)
+### [143. 3 High Paying Programming Languages Jobs On Developers’ Watchlists](https://hackernoon.com/3-high-paying-programming-languages-jobs-on-developers-watchlists)
 ![](https://cdn.hackernoon.com/images/CFe2OEutzHPpZu5ypBrXf2VsWPW2-858333y.jpeg)
 
 
-### [143. How to Build a WebAssembly Language for Fun and Profit](https://hackernoon.com/how-to-build-a-webassembly-language-for-fun-and-profit)
+### [144. How to Build a WebAssembly Language for Fun and Profit](https://hackernoon.com/how-to-build-a-webassembly-language-for-fun-and-profit)
 ![](https://cdn.hackernoon.com/images/7OHSNWE6pKYVHaleLrssNcNVlPe2-ih93nja.jpeg)
 The final phase of our compiler is code generation. This phase takes the AST and converts it to a set of executable instructions. In our case, WebAssembly. 
 
-
-### [144. Learning YAML - YAML Ain't Markup Language](https://hackernoon.com/learning-yaml-yaml-aint-markup-language-co4f354m)
-![](https://cdn.hackernoon.com/images/vVxAGkkRh2RcagPc0OYMILKCG0x2-f44x33la.jpeg)
-YAML(YAML Ain’t Markup Language)is a data serialization language. Common uses cases are configuration files, log files, internet messaging, data sharing.
 
 ### [145. How Do You Find the Longest Common Subsequence of Two Strings in Java?](https://hackernoon.com/how-do-you-find-the-longest-common-subsequence-of-two-strings-in-java)
 ![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-dba3pn6.jpeg)
 Strings are nothing but a combination of characters, and working on strings is a common part of a programmer’s life.  
 
-### [146. Is Migrating From Java 8 to Java 11 Worth It?](https://hackernoon.com/is-migrating-from-java-8-to-java-11-worth-it)
-![](https://cdn.hackernoon.com/images/modules-n8lprbyz2nas7h7e0n4ywxoi.png)
-Explore the nuances of migrating Java 8 to Java 11
+### [146. Learning YAML - YAML Ain't Markup Language](https://hackernoon.com/learning-yaml-yaml-aint-markup-language-co4f354m)
+![](https://cdn.hackernoon.com/images/vVxAGkkRh2RcagPc0OYMILKCG0x2-f44x33la.jpeg)
+YAML(YAML Ain’t Markup Language)is a data serialization language. Common uses cases are configuration files, log files, internet messaging, data sharing.
 
 ### [147. How to Get Started with TypeScript](https://hackernoon.com/how-to-get-started-with-typescript)
 ![](https://cdn.hackernoon.com/images/34mbPLjtUQQJErFmUBVrS5QGkWt1-al93rme.jpeg)
@@ -608,157 +610,157 @@ Sometimes it’s necessary to set up a development environment for writing TypeS
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-7i930km.jpeg)
 In this blog, we’ll delve into the fascinating area of human-computer communication and examine how we use coding and programming languages to overcome this...
 
-### [149. Comparing Node.js and PHP in 2022: Between Modernity and Tradition](https://hackernoon.com/comparing-nodejs-and-php-in-2022-between-modernity-and-tradition)
+### [149. Is Migrating From Java 8 to Java 11 Worth It?](https://hackernoon.com/is-migrating-from-java-8-to-java-11-worth-it)
+![](https://cdn.hackernoon.com/images/modules-n8lprbyz2nas7h7e0n4ywxoi.png)
+Explore the nuances of migrating Java 8 to Java 11
+
+### [150. Comparing Node.js and PHP in 2022: Between Modernity and Tradition](https://hackernoon.com/comparing-nodejs-and-php-in-2022-between-modernity-and-tradition)
 ![](https://cdn.hackernoon.com/images/6EORd3lScrVTxxVB0ulAUeFzv0E2-uh93jcg.jpeg)
 Want to know advantages, weak sides, and the types of projects that will better suit NODE.JS or PHP? Read our article!
 
-### [150. The .NET Framework Is The Most Suitable Language For Businesses And Here's Why](https://hackernoon.com/the-net-framework-is-the-most-suitable-language-for-businesses-and-heres-why-y64d33l7)
-![](https://cdn.hackernoon.com/images/ZI6rcoTwwzWS1AH495rMgbPSeWl1-zo1f33ht.jpeg)
-By far, Microsoft .NET is one of the best platforms for building secure, robust, and scalable desktop or web applications. Used by most Fortune 500 companies, Microsoft .NET is very popular for large-scale applications.
-
-### [151. Rails and Laravel Explained With Basic MVC Structure](https://hackernoon.com/rails-and-laravel-explained-with-basic-mvc-b6222gal)
-![](https://cdn.hackernoon.com/images/vo1f2gxl.jpg)
-Ok, first of all, this isn’t an article about which framework is better since they have different base languages.
-
-### [152. GoLang Programming Overview](https://hackernoon.com/golang-programming-overview)
+### [151. GoLang Programming Overview](https://hackernoon.com/golang-programming-overview)
 ![](https://cdn.hackernoon.com/images/YD6NbztKp6ZEvFhAn5p2oQ3Wwvg1-n593hq8.jpeg)
 An overview of golang programming language. Know the pros and cons of golang.
+
+### [152. The .NET Framework Is The Most Suitable Language For Businesses And Here's Why](https://hackernoon.com/the-net-framework-is-the-most-suitable-language-for-businesses-and-heres-why-y64d33l7)
+![](https://cdn.hackernoon.com/images/ZI6rcoTwwzWS1AH495rMgbPSeWl1-zo1f33ht.jpeg)
+By far, Microsoft .NET is one of the best platforms for building secure, robust, and scalable desktop or web applications. Used by most Fortune 500 companies, Microsoft .NET is very popular for large-scale applications.
 
 ### [153. Introduction to Google Go - Beginner Guide.](https://hackernoon.com/introduction-to-google-go-beginner-guide-tq7z31gt)
 ![](https://cdn.hackernoon.com/images/JDyYZ5l07ZP73SiqWjjDwgkxw2g1-hjg31al.jpeg)
 This article is a beginner guide introduction to Golang and for those with experience with other languages but wish to learn the Go programming language.
 
-### [154. Javascript Array Concat Method](https://hackernoon.com/javascript-array-concat-method)
+### [154. Rails and Laravel Explained With Basic MVC Structure](https://hackernoon.com/rails-and-laravel-explained-with-basic-mvc-b6222gal)
+![](https://cdn.hackernoon.com/images/vo1f2gxl.jpg)
+Ok, first of all, this isn’t an article about which framework is better since they have different base languages.
+
+### [155. Javascript Array Concat Method](https://hackernoon.com/javascript-array-concat-method)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-hh93sn1.jpeg)
 The concat method on arrays is used to take two arrays and concatenate them into one. 
 
-### [155. A Git Workflow Guide for Code Newbies](https://hackernoon.com/a-git-workflow-guide-for-code-newbies)
+### [156. A Git Workflow Guide for Code Newbies](https://hackernoon.com/a-git-workflow-guide-for-code-newbies)
 ![](https://cdn.hackernoon.com/images/PM9nNoX7cegr2DQOSuSuYP4k6Sd2-1d7z35uq.png)
 What is Git and how do you use it? Learn about Git in this intro to programming article.
 
-### [156. We Should Get Rid of "Hello, World!" Forever💩](https://hackernoon.com/we-should-get-rid-of-hello-world-forever-lbw32ok)
+### [157. We Should Get Rid of "Hello, World!" Forever💩](https://hackernoon.com/we-should-get-rid-of-hello-world-forever-lbw32ok)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-xw2h324s.jpeg)
 Every tutorial I've read for the last 30 years starts with the infamous 'Hello World' example. This could be one of the reasons we write crappy software.
 
-### [157. Variables in Java: What They Are and How They Are Used](https://hackernoon.com/variables-in-java-what-they-are-and-how-they-are-used)
+### [158. Variables in Java: What They Are and How They Are Used](https://hackernoon.com/variables-in-java-what-they-are-and-how-they-are-used)
 ![](https://cdn.hackernoon.com/images/NOhutQVt4EbuQonxCl7LIkcu5hD2-lgb3s39.jpeg)
 Instance variables or instance fields: these are variables declared inside a class without a static keyword, but outside a method, constructor, or code block.
 
-### [158. What's with All the Runtimes for JavaScript?](https://hackernoon.com/whats-with-all-the-runtimes-for-javascript)
+### [159. What's with All the Runtimes for JavaScript?](https://hackernoon.com/whats-with-all-the-runtimes-for-javascript)
 ![](https://cdn.hackernoon.com/images/0wijVNIlPcSjf4LZrrniIqcC1aC3-xh93o2e.jpeg)
 A general introduction to language runtimes, specifically on javascript runtime
 
-### [159. Celebrating 50 Years of Smalltalk](https://hackernoon.com/celebrating-50-years-of-smalltalk)
+### [160. Celebrating 50 Years of Smalltalk](https://hackernoon.com/celebrating-50-years-of-smalltalk)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-gl932q8.jpeg)
 In 1972, Alan Kay, Dan Ingalls, and Adele Goldberg at Xerox PARC created a revolutionary new programming language called Smalltalk. 
 
-### [160. Inside Python: Exploring Language Mechanics With the Star Operator](https://hackernoon.com/inside-python-exploring-language-mechanics-with-the-star-operator)
+### [161. Inside Python: Exploring Language Mechanics With the Star Operator](https://hackernoon.com/inside-python-exploring-language-mechanics-with-the-star-operator)
 ![](https://cdn.hackernoon.com/images/gqmUIBcLD7ejrmwG4ImCNZ4JzLt1-o883qms.jpeg)
 Python’s star operator as a doorway into inner workings of the language.
 
-### [161. Everybody Loves Rust: How Rust is Being Used in Production](https://hackernoon.com/everybody-loves-rust-how-rust-is-being-used-in-production)
+### [162. Everybody Loves Rust: How Rust is Being Used in Production](https://hackernoon.com/everybody-loves-rust-how-rust-is-being-used-in-production)
 ![](https://cdn.hackernoon.com/images/6C0PSpbtgKaBDWI4LbxX8kE6T3B3-cn3l26a7.jpeg)
 Who uses Rust, and what are the benefits of choosing this programming language for your stack? Find out the answer in stories from 9 successful companies.
-
-### [162. A Fresh Perspective on 'is' and '==' Operators in Python](https://hackernoon.com/a-fresh-perspective-on-is-and-operators-in-python)
-![](https://cdn.hackernoon.com/images/qZcrbLtSQSf7IJIRPcILqD3qXYm1-hf92pbc.jpeg)
-In this short article we will use `is` keyword and `==` operator to understand the `Pythonic` concepts of assignment, shallow and deep copy.
 
 ### [163. 4 Questions to Ask When Learning New Technology](https://hackernoon.com/4-questions-to-ask-when-learning-new-technology)
 ![](https://cdn.hackernoon.com/images/rjEfNJmRsHbRtEujPZtEwxsM1vb2-2593q9c.jpeg)
 it's easy to think we understand a certain technology when in reality it's not the case. So what questions can we ask to make sure we do?
 
-### [164. An Introductory Guide to Variables and Data Types in Go](https://hackernoon.com/an-introductory-guide-to-variables-and-data-types-in-go-ru39315d)
-![](https://cdn.hackernoon.com/images/JDyYZ5l07ZP73SiqWjjDwgkxw2g1-5wk31zf.jpeg)
-Hello there! So today we would be learning about Go variables and the different data types associated with Go.
+### [164. The Classification of Programming Languages Based on Type Systems](https://hackernoon.com/the-classification-of-programming-languages-based-on-type-systems)
+![](https://cdn.hackernoon.com/images/PVFFOBwUgvdGgbt8giYgcREA5aB2-ztd3uzp.jpeg)
+Programming languages have different type systems that provide developers with different levels of type safety, flexibility and usability.
 
 ### [165. Unleashing the Power of Julia: Deep Learning Capabilities Explored Through 5 Case Studies](https://hackernoon.com/unleashing-the-power-of-julia-deep-learning-capabilities-explored-through-5-case-studies)
 ![](https://cdn.hackernoon.com/images/9SBj6OzMvXOEhDxTjjuu75pLYnp1-i5g3l1o.jpeg)
 If you really want to discover the power of Julia, check out this article. Code simplicity and readability are off the charts!
 
-### [166. Getting Started with the Neuron Language](https://hackernoon.com/getting-started-with-the-neuron-language-lxt3u4u)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FExlCwdkuubUt1EMladCR0Vo0JM72-wol3uv5.png?alt=media&token=11218b29-96c7-465b-bbab-4a65ddd5d830)
-A step-by-step guide to developing with Neuron.
+### [166. A Fresh Perspective on 'is' and '==' Operators in Python](https://hackernoon.com/a-fresh-perspective-on-is-and-operators-in-python)
+![](https://cdn.hackernoon.com/images/qZcrbLtSQSf7IJIRPcILqD3qXYm1-hf92pbc.jpeg)
+In this short article we will use `is` keyword and `==` operator to understand the `Pythonic` concepts of assignment, shallow and deep copy.
 
 ### [167. Why Reading JavaScript Is More Difficult When Default Exports Are Used](https://hackernoon.com/why-reading-javascript-is-more-difficult-when-default-exports-are-used)
 ![](https://cdn.hackernoon.com/images/v2vbcF16oXZmHSCzmO79EscR2hQ2-bb93lpq.jpeg)
 How using default exports hurts your codebase readability and refactoring.
 
-### [168. The Classification of Programming Languages Based on Type Systems](https://hackernoon.com/the-classification-of-programming-languages-based-on-type-systems)
-![](https://cdn.hackernoon.com/images/PVFFOBwUgvdGgbt8giYgcREA5aB2-ztd3uzp.jpeg)
-Programming languages have different type systems that provide developers with different levels of type safety, flexibility and usability.
+### [168. An Introductory Guide to Variables and Data Types in Go](https://hackernoon.com/an-introductory-guide-to-variables-and-data-types-in-go-ru39315d)
+![](https://cdn.hackernoon.com/images/JDyYZ5l07ZP73SiqWjjDwgkxw2g1-5wk31zf.jpeg)
+Hello there! So today we would be learning about Go variables and the different data types associated with Go.
 
-### [169. The Fallacy of Strongly Typed Languages](https://hackernoon.com/the-fallacy-of-strongly-typed-languages)
+### [169. Getting Started with the Neuron Language](https://hackernoon.com/getting-started-with-the-neuron-language-lxt3u4u)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FExlCwdkuubUt1EMladCR0Vo0JM72-wol3uv5.png?alt=media&token=11218b29-96c7-465b-bbab-4a65ddd5d830)
+A step-by-step guide to developing with Neuron.
+
+### [170. The Fallacy of Strongly Typed Languages](https://hackernoon.com/the-fallacy-of-strongly-typed-languages)
 ![](https://cdn.hackernoon.com/images/1jP4AN8YLrbDBYfB3aT5eoM6KS02-g493155.jpeg)
 This is a story of how I moved from hate to love for NodeJS language while being a Java developer, filled with insights I encountered during this process.
 
-### [170. Start To Learn Programming Here](https://hackernoon.com/how-to-learn-programming-as-a-beginner-0j1f3uek)
+### [171. Start To Learn Programming Here](https://hackernoon.com/how-to-learn-programming-as-a-beginner-0j1f3uek)
 ![](https://cdn.hackernoon.com/drafts/u2233yq2.png)
 If you have clicked on this article you probably want to learn programming, but don’t know where to start, as it may seem like a daunting or intimidating task. 
 
-### [171. The Noonification: Not All Deepfake Detectors Are Created Equal (12/10/2023)](https://hackernoon.com/12-10-2023-noonification)
+### [172. The Noonification: Not All Deepfake Detectors Are Created Equal (12/10/2023)](https://hackernoon.com/12-10-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_869_ewuevkgmpj9h8b8upvie2avx.png)
 12/10/2023: Top 5 stories on the HackerNoon homepage!
 
-### [172. Smart Contract Clarity: How Vyper Prioritizes Safety Over Hype](https://hackernoon.com/smart-contract-clarity-how-vyper-prioritizes-safety-over-hype)
+### [173. Smart Contract Clarity: How Vyper Prioritizes Safety Over Hype](https://hackernoon.com/smart-contract-clarity-how-vyper-prioritizes-safety-over-hype)
 ![](https://cdn.hackernoon.com/images/vyper-smart-contract-language-dx4x4eqtrwqtqt1igwb8avg6.png)
 When I first started creating Curve Finance in 2019, I had a choice to make. I could have have followed the popular trend, but I decided to go with Vyper.
-
-### [173. Your First Programming Language Greatly Influences How You Think About Code](https://hackernoon.com/your-first-programming-language-greatly-influences-how-you-think-about-code)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-ho12l07.jpeg)
-OOP, inheritance, and subtyping may have specific meanings that don't translate into other languages, depending on the first language you learn.
 
 ### [174. Ruby and Python: A Tale of Two Strings](https://hackernoon.com/ruby-and-python-a-tale-of-two-strings)
 ![](https://cdn.hackernoon.com/images/XSFGnD4xKsRHcCHwLExU1XJX4U42-qz93rz6.jpeg)
 Unlock Python and Ruby String Magic! Learn the essentials about strings in both languages for elevating your coding skills and conquering string challenges.
 
-### [175. Beginning of  a Programming Career](https://hackernoon.com/beginning-of-a-programming-career-yc4a3y9k)
-![](https://cdn.hackernoon.com/drafts/1jl3yjo.png)
-Many of us have various doubts like how to start a career in Programming?? I too had the same doubt .I had know one to guide for me. So, first I started to learn HTML and CSS which led the way for web development.
+### [175. Your First Programming Language Greatly Influences How You Think About Code](https://hackernoon.com/your-first-programming-language-greatly-influences-how-you-think-about-code)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-ho12l07.jpeg)
+OOP, inheritance, and subtyping may have specific meanings that don't translate into other languages, depending on the first language you learn.
 
 ### [176. The First Step to Mastering JavaScript (JS)](https://hackernoon.com/the-first-step-to-mastering-javascript-js)
 ![](https://cdn.hackernoon.com/images/3hdZTiupssamlsTub25ilKl38HF3-43b3og3.png)
 JavaScript often referred to as JS, is the most useful and popular object-oriented, interpreted programming language
 
-### [177. Beginner Developer Guide: What Language Should You Learn First](https://hackernoon.com/beginner-developer-guide-what-language-should-you-learn-first)
+### [177. Beginning of  a Programming Career](https://hackernoon.com/beginning-of-a-programming-career-yc4a3y9k)
+![](https://cdn.hackernoon.com/drafts/1jl3yjo.png)
+Many of us have various doubts like how to start a career in Programming?? I too had the same doubt .I had know one to guide for me. So, first I started to learn HTML and CSS which led the way for web development.
+
+### [178. Beginner Developer Guide: What Language Should You Learn First](https://hackernoon.com/beginner-developer-guide-what-language-should-you-learn-first)
 ![](https://cdn.hackernoon.com/images/M245V8IVpFZb2xnKD5r014SNkcZ2-jx033xn.jpeg)
 Should you start off with Java, C++, C, Python, Javascript, SQL, Swift, Objective-C or what!??
-
-### [178. Things You Need To Learn Before You Start Writing Code](https://hackernoon.com/things-you-need-to-learn-before-you-start-writing-code-2rm33jc)
-![](https://cdn.hackernoon.com/images/cVkIxrFkSpdU3hSFn6l2rzodsb32-ju9p37mt.jpeg)
-I'm sure you all have read a quote like this, "First solve the problem, then write the code". At first I took it lightly. I liked to follow a different approach, "Solving the problem with code". After coding for a long time, I realized the importance of solving the problem first before jumping into writing code. In this article, I will try explain why you should slow down and how to actually save your time. Also, this will make you a better programmer.
 
 ### [179. Is Javascript a Compiled or an Interpreted Language?](https://hackernoon.com/is-javascript-a-compiled-or-an-interpreted-language)
 ![](https://cdn.hackernoon.com/images/YTO6hxz2BoS30x51ApDnPU3hCVG3-o1d2kna.jpeg)
 while JavaScript is commonly thought of as an interpreted language, it is actually a Just-In-Time compiled language. Modern JavaScript engines use a JIT comp...
 
-### [180. Gentlemen, Choose Your Weapons! Programming Languages You Should (Not?) Learn](https://hackernoon.com/gentlemen-choose-your-weapons-programming-languages-you-should-not-learn)
+### [180. Things You Need To Learn Before You Start Writing Code](https://hackernoon.com/things-you-need-to-learn-before-you-start-writing-code-2rm33jc)
+![](https://cdn.hackernoon.com/images/cVkIxrFkSpdU3hSFn6l2rzodsb32-ju9p37mt.jpeg)
+I'm sure you all have read a quote like this, "First solve the problem, then write the code". At first I took it lightly. I liked to follow a different approach, "Solving the problem with code". After coding for a long time, I realized the importance of solving the problem first before jumping into writing code. In this article, I will try explain why you should slow down and how to actually save your time. Also, this will make you a better programmer.
+
+### [181. Gentlemen, Choose Your Weapons! Programming Languages You Should (Not?) Learn](https://hackernoon.com/gentlemen-choose-your-weapons-programming-languages-you-should-not-learn)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-4g1317p.webp)
 This article explores the dilemma faced by developers: Should you keep up with new programming languages or master the classics?
 
-### [181. Is Ruby on Rails Declining? Not If You Build It](https://hackernoon.com/is-ruby-on-rails-declining-not-if-you-build-it)
+### [182. Is Ruby on Rails Declining? Not If You Build It](https://hackernoon.com/is-ruby-on-rails-declining-not-if-you-build-it)
 ![](https://cdn.hackernoon.com/images/7bf4J5ox9eYv7HgnuhU6MW9PRmf2-tp93r32.jpeg)
 Is ruby on rails still used? absolutely. There is a list of reasons from many startups and a direct review from developers. Take a look at this article hurry!
 
-### [182. Choosing the Best Beginner Programming Language](https://hackernoon.com/choosing-the-best-beginner-programming-language)
+### [183. Choosing the Best Beginner Programming Language](https://hackernoon.com/choosing-the-best-beginner-programming-language)
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-sqa3p67.jpeg)
 Without a doubt you've had to ask yourself, "What is the best beginner programming language?" if you're new to programming. This article will help you decide!
 
-### [183. Who Wins The Battle Between .Net Core and .Net Frameworks in 2022?](https://hackernoon.com/who-wins-the-battle-between-net-core-and-net-frameworks-in-2022-y41h3783)
+### [184. Who Wins The Battle Between .Net Core and .Net Frameworks in 2022?](https://hackernoon.com/who-wins-the-battle-between-net-core-and-net-frameworks-in-2022-y41h3783)
 ![](https://cdn.hackernoon.com/images/GTa5ej5plAVtWsiam81ThId9crP2-vpde35mr.jpeg)
 Entrepreneurs and startups are always confused about choosing between  .Net Core vs .Net Framework due to their high functionalities and popularity.
-
-### [184. Building a Custom Query Language (GQL) for .git Files](https://hackernoon.com/building-a-custom-query-language-gql-for-git-files)
-![](https://cdn.hackernoon.com/images/dkdP4VfxtrUVSMiq5X0VGwTQuZ23-bnb2kmt.jpeg)
-Recently,  I came across the functions of each file inside the .git folder. This game me the idea to develop a query language that operates on these files. 
 
 ### [185. How to Install the LDPL Programming Language on Fedora](https://hackernoon.com/how-to-install-the-ldpl-programming-language-on-fedora)
 ![](https://cdn.hackernoon.com/images/Xc0KXgvV5JdgW2DnkpC3TTUBpoY2-qd93p45.png)
 Learn how to install LDPL (the dinosaur programming language) on Fedora.
 
-### [186. Code Smell 06 - Trying to Be a Clever Programmer](https://hackernoon.com/code-smell-06-trying-to-be-a-clever-programmer)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-80036pl.jpeg)
-Don't try to look too smart. Clean code emphasizes readability and simplicity.
+### [186. Building a Custom Query Language (GQL) for .git Files](https://hackernoon.com/building-a-custom-query-language-gql-for-git-files)
+![](https://cdn.hackernoon.com/images/dkdP4VfxtrUVSMiq5X0VGwTQuZ23-bnb2kmt.jpeg)
+Recently,  I came across the functions of each file inside the .git folder. This game me the idea to develop a query language that operates on these files. 
 
 ### [187. How to Merge Two Sorted Arrays in C](https://hackernoon.com/how-to-merge-two-sorted-arrays-in-c)
 ![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-qyb3p3w.jpeg)
@@ -768,13 +770,13 @@ In this blog, we will be discussing the algorithms and their implementations for
 ![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-79136xy.jpeg)
 Are you willing to start a career in programming? Or, probably, you’re a dedicated hobbyist who wants to try coding just for fun? Then this article is for you!
 
-### [189. Working With Iterators and Generators in Javascript ES6](https://hackernoon.com/working-with-iterators-and-generators-in-javascript-es6-o23f35mj)
-![](https://cdn.hackernoon.com/images/MQZFmUTJPTXPIA9M7TIQPeY1vJq2-fz2w37ua.png)
-Here are the use cases for iterators and generators that are closer to the real-world scenario than a simple "Hello World" type code.
-
-### [190. Using Provide and Inject in Vue](https://hackernoon.com/using-provide-and-inject-in-vue)
+### [189. Using Provide and Inject in Vue](https://hackernoon.com/using-provide-and-inject-in-vue)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-nq93occ.jpeg)
 With properties in Vue, we can pass data from a parent element or vue template to a child element. It's easy in Vue to give properties to a child element.
+
+### [190. Working With Iterators and Generators in Javascript ES6](https://hackernoon.com/working-with-iterators-and-generators-in-javascript-es6-o23f35mj)
+![](https://cdn.hackernoon.com/images/MQZFmUTJPTXPIA9M7TIQPeY1vJq2-fz2w37ua.png)
+Here are the use cases for iterators and generators that are closer to the real-world scenario than a simple "Hello World" type code.
 
 ### [191. Modern Engineering Tools Are Designed to Punish System Thinkers](https://hackernoon.com/modern-engineering-tools-are-designed-to-punish-system-thinkers)
 ![](https://cdn.hackernoon.com/images/wLwuv2Czj7cCSq3SjIEWdOZPqdD3-u50367n.png)
@@ -804,49 +806,49 @@ Embark on a 100-day journey to master Go Lang, a modern programming language ide
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-pu93pnv.jpeg)
 If your Javascript appears before your HTML, then trying to do things like attach events to your HTML is not possible.
 
-### [198. The Best Reasons to Adopt a Security-First Approach](https://hackernoon.com/the-best-reasons-to-adopt-a-security-first-approach)
-![](https://cdn.hackernoon.com/images/PA0fnWDjxvVYx1SHEh857BzHi0d2-0a137un.jpeg)
-Balancing data privacy and security with user experience is one of the most complex tasks for software developers. 
-
-### [199. I’m Building a New Programming Language Called Lumen – Here’s Why and How](https://hackernoon.com/im-building-a-new-programming-language-called-lumen-heres-why-and-how)
+### [198. I’m Building a New Programming Language Called Lumen – Here’s Why and How](https://hackernoon.com/im-building-a-new-programming-language-called-lumen-heres-why-and-how)
 ![](https://cdn.hackernoon.com/images/4C9XGbBXTfWCpZ7icj0NdFe3DYE2-xp12wf9.jpeg)
 Lumen is a fast, statically typed, compiled language targeting native code and WebAssembly, built for performance, simplicity, and cross-platform development. 
 
-### [200. You Need to Make Better Code Reviews™](https://hackernoon.com/how-to-make-great-code-reviewstm-9yp3oq3)
-![](https://cdn.hackernoon.com/images/nemg3or4.jpg)
-Code reviews and the pull request are the basic building blocks in many software engineers’ life (The Workflow). They prevent bugs, mistakes, and help distribute the knowledge around a code base in small units of changes. They are, also — and specially code reviews — more an art than a science, and so everyone makes mistakes here. Things as random as the relationship that different contributors have between them, influence whether something is approved, overlooked, ignored or requests changes.
+### [199. Code Smell 06 - Trying to Be a Clever Programmer](https://hackernoon.com/code-smell-06-trying-to-be-a-clever-programmer)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-80036pl.jpeg)
+Don't try to look too smart. Clean code emphasizes readability and simplicity.
 
-### [201. To Become a Better Programmer, Learn to Become a Better Editor](https://hackernoon.com/to-become-a-better-programmer-learn-to-become-a-better-editor)
-![](https://cdn.hackernoon.com/images/1k2eWiUClgQ4VZSz8evAFbbCf1A3-v693p2s.jpeg)
-If you want to become a better writer of code, then think like a writer of prose and become a great “editor.” 
-
-### [202. PHP vs. ASP.NET: Determining Which Stack to Use For Your Next Project](https://hackernoon.com/php-vs-aspnet-determining-which-stack-to-use-for-your-next-project)
+### [200. PHP vs. ASP.NET: Determining Which Stack to Use For Your Next Project](https://hackernoon.com/php-vs-aspnet-determining-which-stack-to-use-for-your-next-project)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-g093ukh.jpeg)
 The ultimate goal of the web development project is to build feature-rich web applications or corporate websites but which is better?
 
-### [203. Powerful Tips To Help You Learn Programming Language](https://hackernoon.com/powerful-tips-to-help-you-learn-programming-language-la2834gn)
+### [201. The Best Reasons to Adopt a Security-First Approach](https://hackernoon.com/the-best-reasons-to-adopt-a-security-first-approach)
+![](https://cdn.hackernoon.com/images/PA0fnWDjxvVYx1SHEh857BzHi0d2-0a137un.jpeg)
+Balancing data privacy and security with user experience is one of the most complex tasks for software developers. 
+
+### [202. To Become a Better Programmer, Learn to Become a Better Editor](https://hackernoon.com/to-become-a-better-programmer-learn-to-become-a-better-editor)
+![](https://cdn.hackernoon.com/images/1k2eWiUClgQ4VZSz8evAFbbCf1A3-v693p2s.jpeg)
+If you want to become a better writer of code, then think like a writer of prose and become a great “editor.” 
+
+### [203. You Need to Make Better Code Reviews™](https://hackernoon.com/how-to-make-great-code-reviewstm-9yp3oq3)
+![](https://cdn.hackernoon.com/images/nemg3or4.jpg)
+Code reviews and the pull request are the basic building blocks in many software engineers’ life (The Workflow). They prevent bugs, mistakes, and help distribute the knowledge around a code base in small units of changes. They are, also — and specially code reviews — more an art than a science, and so everyone makes mistakes here. Things as random as the relationship that different contributors have between them, influence whether something is approved, overlooked, ignored or requests changes.
+
+### [204. Powerful Tips To Help You Learn Programming Language](https://hackernoon.com/powerful-tips-to-help-you-learn-programming-language-la2834gn)
 ![](https://cdn.hackernoon.com/images/hxkIRdVjVadAa10iBb3WnTWSCz82-3m4g386r.png)
 Here I have shared some of the tips, that my mentor gave me, on how to start learning programming which you can follow to become better programmer within a year
 
-### [204. What's The Best Programming Language For Machine Learning Projects](https://hackernoon.com/whats-the-best-programming-language-for-machine-learning-projects-k6d332th)
+### [205. What's The Best Programming Language For Machine Learning Projects](https://hackernoon.com/whats-the-best-programming-language-for-machine-learning-projects-k6d332th)
 ![](https://cdn.hackernoon.com/drafts/8co3yxw.png)
 …and why it is Python.
-
-### [205. The Magic of Iterators: Build Python range() in JavaScript ](https://hackernoon.com/the-magic-of-iterators-build-python-range-in-java-script)
-![](https://cdn.hackernoon.com/images/8l3eF0qO5Gef1R86puctOGuF5m22-i25139np.jpeg)
-How to build the beloved Python range() in JavaScript by using Iterators.
 
 ### [206. Is Learning C++ Scary?](https://hackernoon.com/is-learning-c-scary)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-7193if2.jpeg)
 Don't let C++ scare you!
 
-### [207. Lifting the Veil on Programming Fundamentals: Languages, Syntax, Statements](https://hackernoon.com/lifting-the-veil-on-programming-fundamentals-languages-syntax-statements)
+### [207. The Magic of Iterators: Build Python range() in JavaScript ](https://hackernoon.com/the-magic-of-iterators-build-python-range-in-java-script)
+![](https://cdn.hackernoon.com/images/8l3eF0qO5Gef1R86puctOGuF5m22-i25139np.jpeg)
+How to build the beloved Python range() in JavaScript by using Iterators.
+
+### [208. Lifting the Veil on Programming Fundamentals: Languages, Syntax, Statements](https://hackernoon.com/lifting-the-veil-on-programming-fundamentals-languages-syntax-statements)
 ![](https://cdn.hackernoon.com/images/VBeaKaUetGNuA9E5fogXu3jhgZE2-nl92bg8.jpeg)
 Different types of programming languages based on their levels and type security alongside syntax, generally reserved keywords, statements, etc.
-
-### [208. From Native to React Native](https://hackernoon.com/from-native-to-react-native)
-![](https://cdn.hackernoon.com/images/lHhQJKX9A8Rj1KCWvnM9IMPdK6R2-bd93rdi.png)
-React Native brings down the time to fast prototyping app ideas from weeks to hours, by abstracting out the underlying device on which to deploy the app.
 
 ### [209. 7 Q&As About Memory Leaks ](https://hackernoon.com/7-qandas-about-memory-leaks)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-vu93pck.jpeg)
@@ -856,31 +858,35 @@ React Native brings down the time to fast prototyping app ideas from weeks to ho
 ![](https://cdn.hackernoon.com/images/UF3Ri4poFsf3HWltLaPVOxlJ0OW2-9mf35vk.png)
 On a journey from real estate to learning Ruby, I'm still figuring it out. This is about why I chose coding, the challenges I face, and what keeps me going.
 
-### [211. Variable Shadowing: "Let" Keyword Is Immutable But Not Constant Variable](https://hackernoon.com/variable-shadowing-let-keyword-is-immutable-but-not-constant-variable-s81e3um8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FakEBIg10DrPMiavDpnZxfHb098y2-6f6u3uvx.jpeg?alt=media&token=83745bd8-6ce3-49dc-80ac-46c7e16c20d5)
-Let's take a look at some of the common pitfalls with the keywords let and mut. Then, we will learn how immutable != constant by using variable shadowing.
+### [211. From Native to React Native](https://hackernoon.com/from-native-to-react-native)
+![](https://cdn.hackernoon.com/images/lHhQJKX9A8Rj1KCWvnM9IMPdK6R2-bd93rdi.png)
+React Native brings down the time to fast prototyping app ideas from weeks to hours, by abstracting out the underlying device on which to deploy the app.
 
 ### [212. Default Values for Absent Keys: A Cross-Language Guide to Hash Map Querying](https://hackernoon.com/default-values-for-absent-keys-a-cross-language-guide-to-hash-map-querying)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-rs82kfz.png)
 Learn how to provide default values for absent keys in hash maps across Java, Kotlin, Python, Ruby, and Lua with concise examples and techniques.
 
-### [213. Manifold Guide Series Finale: GraphQL, JavaScript, Preprocessor, and SQL](https://hackernoon.com/manifold-guide-series-finale-graphql-javascript-preprocessor-and-sql)
+### [213. Variable Shadowing: "Let" Keyword Is Immutable But Not Constant Variable](https://hackernoon.com/variable-shadowing-let-keyword-is-immutable-but-not-constant-variable-s81e3um8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FakEBIg10DrPMiavDpnZxfHb098y2-6f6u3uvx.jpeg?alt=media&token=83745bd8-6ce3-49dc-80ac-46c7e16c20d5)
+Let's take a look at some of the common pitfalls with the keywords let and mut. Then, we will learn how immutable != constant by using variable shadowing.
+
+### [214. Manifold Guide Series Finale: GraphQL, JavaScript, Preprocessor, and SQL](https://hackernoon.com/manifold-guide-series-finale-graphql-javascript-preprocessor-and-sql)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-3e92gg1.jpeg)
 In this final installment of the Manifold series we discuss the final integrations and review the benefits. I also discuss using it in my new project.
 
-### [214. Ruby Event Manager, Hangman, and Tackling Coolant Leaks: My Journey Through It All ](https://hackernoon.com/ruby-event-manager-hangman-and-tackling-coolant-leaks-my-journey-through-it-all)
+### [215. Ruby Event Manager, Hangman, and Tackling Coolant Leaks: My Journey Through It All ](https://hackernoon.com/ruby-event-manager-hangman-and-tackling-coolant-leaks-my-journey-through-it-all)
 ![](https://cdn.hackernoon.com/images/UF3Ri4poFsf3HWltLaPVOxlJ0OW2-za338p1.png)
 Explore my journey with Ruby: tackling Event Manager, Hangman, and advanced topics while balancing coding challenges and real-life hurdles.
-
-### [215. Iterating on Your Divider App: Improving Edge Cases](https://hackernoon.com/iterating-on-your-divider-app-improving-edge-cases)
-![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-ei92hbv.jpeg)
-In the previous article, we took a look at all the edge cases one can find in a simple operation: dividing two numbers. Now, let’s improve on all those aspects.
 
 ### [216. Turning the Compiler Into Your Co-Architect](https://hackernoon.com/turning-the-compiler-into-your-co-architect)
 ![](https://cdn.hackernoon.com/images/34dOlScYiPW7YjoOmV1RLmvN0Tg2-pa13eut.png)
 Polymorphic constructors aren’t built-in, but enums + static arrays can emulate them safely. This gives compile-time guarantees with scalability and performance
 
-### [217. Are You the Baby Yoda or Jar Jar Binks of Programming?](https://hackernoon.com/are-you-the-baby-yoda-or-jar-jar-binks-of-programming)
+### [217. Iterating on Your Divider App: Improving Edge Cases](https://hackernoon.com/iterating-on-your-divider-app-improving-edge-cases)
+![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-ei92hbv.jpeg)
+In the previous article, we took a look at all the edge cases one can find in a simple operation: dividing two numbers. Now, let’s improve on all those aspects.
+
+### [218. Are You the Baby Yoda or Jar Jar Binks of Programming?](https://hackernoon.com/are-you-the-baby-yoda-or-jar-jar-binks-of-programming)
 ![](https://cdn.hackernoon.com/images/qbjdMko7eFaiqBJgAApmsjilPv83-8893mpw.jpeg)
 Channeling my inner Sherlock Holmes and armed with the wisdom of every iconic animated sitcom and sci-fi series known to man, I  present to you the unseen and u
 

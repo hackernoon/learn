@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [digital-nomads](https://hackernoon.com/tagged/digital-nomads)
+### Let's learn about [Digital Nomads](https://hackernoon.com/tagged/digital-nomads) via these 63 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Or, ya know.. Instagram "influencers."
 
 ### [1. A Handy Tool Kit for Choosing Your Startup Destination](https://hackernoon.com/a-handy-tool-kit-for-choosing-your-startup-destination)
@@ -79,13 +81,13 @@ Remote work and the associated social distancing is one of the ways to halt the 
 ![](https://cdn.hackernoon.com/images/mqE7bGnlxnSGBba7jahdgZNenFa2_0vf9r42o.jpeg)
 Phuket 2025: Where crypto meets paradise! Web3 pros enjoy tax-free trading and a crypto payment pilot amid palm trees. Ideal for digital nomads seeking a tropical tech escape.
 
-### [20. Zuzalu is Dead. Long Live Zuzalu! - Metamorphosis Commenced v3](https://hackernoon.com/zuzalu-is-dead-long-live-zuzalu-metamorphosis-commenced-v3)
-![](https://cdn.hackernoon.com/images/ghQLyr5Yn0QevLGYNcGLX9DtWqh2-ra133ia.jpeg)
-Learn more about Zuzalu's Archipelago and what happened in Chiang Mai, Thailand in October. Also review what will happen in the future of Zuzalu.
-
-### [21. Colombia's Digital Nomad Visa Raises Internet Connectivity Concerns](https://hackernoon.com/colombias-digital-nomad-visa-raises-internet-connectivity-concerns)
+### [20. Colombia's Digital Nomad Visa Raises Internet Connectivity Concerns](https://hackernoon.com/colombias-digital-nomad-visa-raises-internet-connectivity-concerns)
 ![](https://cdn.hackernoon.com/images/ZSnNpZ3GejgVSxqs3EyP38vlsLL2-pqa3pkc.jpeg)
 Let’s explore why digital nomads are drawn to Colombia, what the digital nomad visa offers and which locations offer the most reliable internet connections. 
+
+### [21. Zuzalu is Dead. Long Live Zuzalu! - Metamorphosis Commenced v3](https://hackernoon.com/zuzalu-is-dead-long-live-zuzalu-metamorphosis-commenced-v3)
+![](https://cdn.hackernoon.com/images/ghQLyr5Yn0QevLGYNcGLX9DtWqh2-ra133ia.jpeg)
+Learn more about Zuzalu's Archipelago and what happened in Chiang Mai, Thailand in October. Also review what will happen in the future of Zuzalu.
 
 ### [22. A Couple of Nomad Makers: finding friends and side project profits](https://hackernoon.com/a-couple-of-nomad-makers-finding-friends-and-side-project-profits-e9a22b05a265)
 ![](https://cdn.hackernoon.com/hn-images/1*A3k5dTxQ6CF-KQicXceqxQ.jpeg)
@@ -124,15 +126,15 @@ Vita Baryshnikova is a Head of HR at Skyeng where 90% of employees and contracto
 ![](https://cdn.hackernoon.com/drafts/5o2su30od.png)
 Working remotely is no longer just a dream. If you can afford a decent laptop and access to the internet, combine it with solid work skills and that gives you a pretty good chance to find a remote job. Professionals in many industries including entrepreneurs, marketers, writers and of course software engineers have already chosen this route. 
 
-### [31. Heroku Remote Culture: AMA with Francis Lacoste](https://hackernoon.com/heroku-remote-culture-ama-with-francis-lacoste-822p3ymq)
+### [31. How to Behave during Video Calls: 9 Rules for Communicating with Colleagues](https://hackernoon.com/how-to-behave-during-video-calls-9-rules-for-communicating-with-colleagues-kt2l3y93)
+![](https://cdn.hackernoon.com/drafts/ato309n.png)
+These days most companies have asked their employees to stay at home and change their office work for a remote one. In such conditions, the issues of organizing video calls have become especially relevant. It seems that online conferences for dozens and even hundreds of people are a step towards a digital future without borders when people can work from anywhere in the world and get together for negotiations literally by click. But in reality, video calls are often not as good as you might imagine. Someone cannot install the necessary program, someone is nervous  because of the relatives in the background, and someone appears at an important conference call in his pajamas and using the nickname “DimonKiller666”. We have put together some simple rules for making video calls that will help make them comfortable for yourself and your colleagues.
+
+### [32. Heroku Remote Culture: AMA with Francis Lacoste](https://hackernoon.com/heroku-remote-culture-ama-with-francis-lacoste-822p3ymq)
 ![](https://cdn.hackernoon.com/drafts/lu1r63y83.png)
 Francis Lacoste is a Senior Director, Software Engineering at Salesforce Heroku. During Live Ask Me Anything session with Hacker Noon community he shared his experience working remote for over 20 years and main lessons he learned from it. 
 
 In Francis’s own words:
-
-### [32. How to Behave during Video Calls: 9 Rules for Communicating with Colleagues](https://hackernoon.com/how-to-behave-during-video-calls-9-rules-for-communicating-with-colleagues-kt2l3y93)
-![](https://cdn.hackernoon.com/drafts/ato309n.png)
-These days most companies have asked their employees to stay at home and change their office work for a remote one. In such conditions, the issues of organizing video calls have become especially relevant. It seems that online conferences for dozens and even hundreds of people are a step towards a digital future without borders when people can work from anywhere in the world and get together for negotiations literally by click. But in reality, video calls are often not as good as you might imagine. Someone cannot install the necessary program, someone is nervous  because of the relatives in the background, and someone appears at an important conference call in his pajamas and using the nickname “DimonKiller666”. We have put together some simple rules for making video calls that will help make them comfortable for yourself and your colleagues.
 
 ### [33. 6 Tips for Working Remotely](https://hackernoon.com/6-tips-for-working-remotely-3s2v3yr2)
 ![](https://images.unsplash.com/photo-1509579332522-892d62f9bbb8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -154,13 +156,13 @@ Even prior to the COVID-19 pandemic, remote employees and Work from Home arrange
 ![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-rpc3hvc.jpeg)
 In this slogging thread, our community discusses Zeitler's initiative, Coworking Bansko, and nomadic working.
 
-### [38. How to Save Toilet Paper for Your Employer](https://hackernoon.com/how-to-save-toilet-paper-for-your-employer-9k133ygi)
-![](https://cdn.hackernoon.com/drafts/c81f3ysp.png)
-As a person that used to track finances and company expenses in their previous life, I know that toilet paper is a huge expense. Everybody does it. Everybody needs it.
-
-### [39. 100 Stories To Learn About Remote](https://hackernoon.com/100-stories-to-learn-about-remote)
+### [38. 100 Stories To Learn About Remote](https://hackernoon.com/100-stories-to-learn-about-remote)
 ![](https://cdn.hackernoon.com/images/github/remote-723.png)
 Learn everything you need to know about Remote via these 100 free HackerNoon stories.
+
+### [39. How to Save Toilet Paper for Your Employer](https://hackernoon.com/how-to-save-toilet-paper-for-your-employer-9k133ygi)
+![](https://cdn.hackernoon.com/drafts/c81f3ysp.png)
+As a person that used to track finances and company expenses in their previous life, I know that toilet paper is a huge expense. Everybody does it. Everybody needs it.
 
 ### [40. Crafting My Financial Compass: The Journey of a Digital Nomad](https://hackernoon.com/crafting-my-financial-compass-the-journey-of-a-digital-nomad)
 ![](https://cdn.hackernoon.com/images/O2B5bvf0vCPmfqdlvF7ftAJBh6j1-gge2h6m.jpeg)
@@ -195,25 +197,25 @@ Wuhan and the outbreak continues to be on the headlines. On one hand, many emplo
 ![](https://cdn.hackernoon.com/drafts/2ndf3yvf.png)
 Remote working isn’t becoming popular. It already is. The number of people who work remotely in the US has increased by 140% since 2005, with 34% of US workers saying they would take a pay cut of up to 5% in order to work from home.
 
-### [48. Web Monetization + Gig Economy = Digital Nomadism?](https://hackernoon.com/web-monetization-gig-economy-digital-nomadism-qi1c3x55)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4xhJQiBLxDb9i9sL2x5vTNyxVIG2-tq2v3upq.jpeg?alt=media&token=4f860a49-7464-42f9-b7ae-112557482da9)
-Due to various technological developments, it is now easier than ever to earn money online. Known as the gig economy, there is a massive free-market system for independent workers looking to earn an extra buck. Monetizing one's expertise can remain a challenge, however.
-
-### [49. How To Set Up A Home Office](https://hackernoon.com/how-to-set-up-a-home-office-ynz3tcu)
+### [48. How To Set Up A Home Office](https://hackernoon.com/how-to-set-up-a-home-office-ynz3tcu)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaCJAUxoCsZXrtVbGMNCrUF3fKTQ2-v72g3use.jpeg?alt=media&token=93a7e149-871f-4e67-acd4-79c51f875da9)
 The rise of flexible job roles, digital tech careers and more freelance opportunities around the world has led more people into working from the comfort of their home, especially during this Covid19 pandemic. However, in order to get the best and ensure quality service deliveries, remote workers need the right tools to assist their craft.
+
+### [49. Web Monetization + Gig Economy = Digital Nomadism?](https://hackernoon.com/web-monetization-gig-economy-digital-nomadism-qi1c3x55)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F4xhJQiBLxDb9i9sL2x5vTNyxVIG2-tq2v3upq.jpeg?alt=media&token=4f860a49-7464-42f9-b7ae-112557482da9)
+Due to various technological developments, it is now easier than ever to earn money online. Known as the gig economy, there is a massive free-market system for independent workers looking to earn an extra buck. Monetizing one's expertise can remain a challenge, however.
 
 ### [50. Types And Differences of Remote Workers](https://hackernoon.com/types-and-differences-of-remote-workers-sq143u5z)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FuhYo7FG1tWS8ecur7Z1eeEUF4bc2-p74i3uoo.webp?alt=media&token=6fcff9f6-5d6b-4845-ab6a-2ffc3b685334)
 It’s been more than two decades since the term ‘digital nomad’ came to be. In the time since, people have shown they have a lot of imagination when it comes to their remote work-enabled lifestyles. Some stay in one place and lead an otherwise normal life while others use the flexibility of remote work to travel continuously, or at least regularly. As a result, the world of remote work has become a diverse ecosystem where people have varying degrees of commitment and availability, as well as a broad array of purposes for working remotely. 
 
-### [51. Two Factor Authentication - The Deep State Tool That Supports Mass Technology Dysfunction](https://hackernoon.com/two-factor-authentication-the-deep-state-tool-that-supports-mass-technology-dysfunction)
-![](https://cdn.hackernoon.com/images/n93I5XffgXRPdKtQ4cnvtx6pHJO2-bdc30hk.jpeg)
-2FA is the initial, mandatory stage of ongoing privacy intrusions that are unwarranted and Orwellian. Alternatives now exist. 
-
-### [52. How To Ensure That Your Team Is Happy With Remote Work?](https://hackernoon.com/how-to-ensure-that-your-team-is-happy-with-remote-work-n36s3w0a)
+### [51. How To Ensure That Your Team Is Happy With Remote Work?](https://hackernoon.com/how-to-ensure-that-your-team-is-happy-with-remote-work-n36s3w0a)
 ![](https://images.unsplash.com/photo-1531497865144-0464ef8fb9a9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 A month ago saying that running a company through the crisis caused by this pandemic has been hard would be an understatement. I’m sure this has been unchartered territory for most of us. I mean, most workplaces don’t even have work from home policies that they had to design from scratch. 
+
+### [52. Two Factor Authentication - The Deep State Tool That Supports Mass Technology Dysfunction](https://hackernoon.com/two-factor-authentication-the-deep-state-tool-that-supports-mass-technology-dysfunction)
+![](https://cdn.hackernoon.com/images/n93I5XffgXRPdKtQ4cnvtx6pHJO2-bdc30hk.jpeg)
+2FA is the initial, mandatory stage of ongoing privacy intrusions that are unwarranted and Orwellian. Alternatives now exist. 
 
 ### [53. Seven Expert Tips For Managers To Support Their Remote Teams](https://hackernoon.com/seven-expert-tips-for-managers-to-support-their-remote-teams-a06c3vpz)
 ![](https://cdn.hackernoon.com/drafts/dv383yu3.png)

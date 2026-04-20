@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [decentralized-exchange](https://hackernoon.com/tagged/decentralized-exchange)
+### Let's learn about [Decentralized Exchange](https://hackernoon.com/tagged/decentralized-exchange) via these 123 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+A decentralized exchange (DEX) is a cryptocurrency exchange that operates without a central authority, allowing peer-to-peer cryptocurrency trading directly on the blockchain. DEXs are vital for promoting financial autonomy and reducing counterparty risk by eliminating the need for intermediaries.
+
 ### [1. Are IDOs the Next Alternative to IEOs and ICOs?](https://hackernoon.com/what-is-ido-the-new-alternative-to-ieo-and-ico-70l34zf)
 ![](https://hackernoon.com/images/IZH5VrBxylTJuG6oTbU11LwJemA3-ku5x3ex4.jpeg)
 There are major players as exchanges that are running in a fully controlled manner. The solution recently presented itself in IDO - Initial DEX Offering. 
@@ -205,21 +209,21 @@ Introduction
 ![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-3893jor.jpeg)
 Unizen’s smart exchange aims to address these flaws by merging a centralized (CEX) and decentralized (DEX) architecture, dubbed 'CeDeFi' by the crypto community
 
-### [51. Examining Decentralized Exchange Token Sales](https://hackernoon.com/examining-decentralized-exchange-token-sales-vo253ye3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgOcaGZL99ges09JGDQ0NcEqoWcf1-nw3h3xxx.webp?alt=media&token=2409aa44-161d-4ada-b5a3-939cff03ee6d)
-Decentralized exchanges are truly having their year in crypto. We are starting to see more decentralization for capital raises facilitated by trustless, non-custodial platforms. 
-
-### [52. Understanding Inflationary Bias in DeFi](https://hackernoon.com/understanding-inflationary-bias-in-defi)
+### [51. Understanding Inflationary Bias in DeFi](https://hackernoon.com/understanding-inflationary-bias-in-defi)
 ![](https://cdn.hackernoon.com/images/ur7wwkFNJTN2LH7vz9Gid2OU4gN2-i2h2cvm.jpeg)
 Cognitive bias is a well-known pattern of deviation from a rational judgment or conclusion. This is also happening every day in DeFi. 
 
-### [53. Can Cryptocurrency Enable a Stateless, Global Economy?](https://hackernoon.com/can-cryptocurrency-enable-a-stateless-global-economy)
-![](https://cdn.hackernoon.com/images/UnPj6PI9b4VrDPUVfERLXtpTvus1-7202s2q.jpeg)
-When Bitcoin was released, it was celebrated as a pivotal moment in technology. Today the path we’ve chosen has taken a sharp turn away from the original vision
+### [52. Examining Decentralized Exchange Token Sales](https://hackernoon.com/examining-decentralized-exchange-token-sales-vo253ye3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgOcaGZL99ges09JGDQ0NcEqoWcf1-nw3h3xxx.webp?alt=media&token=2409aa44-161d-4ada-b5a3-939cff03ee6d)
+Decentralized exchanges are truly having their year in crypto. We are starting to see more decentralization for capital raises facilitated by trustless, non-custodial platforms. 
 
-### [54. 6 Key Reasons Why Everyone Is Buying NFTs](https://hackernoon.com/6-key-reasons-why-everyone-is-buying-nfts)
+### [53. 6 Key Reasons Why Everyone Is Buying NFTs](https://hackernoon.com/6-key-reasons-why-everyone-is-buying-nfts)
 ![](https://cdn.hackernoon.com/images/WSSGOvVGcXN2AjLNZeiE9ii0IE52-a693stv.jpeg)
 NFTs have been the talk online for a while, but not everyone understands why anyone would want to purchase digital arts for millions! Learn more from our guide.
+
+### [54. Can Cryptocurrency Enable a Stateless, Global Economy?](https://hackernoon.com/can-cryptocurrency-enable-a-stateless-global-economy)
+![](https://cdn.hackernoon.com/images/UnPj6PI9b4VrDPUVfERLXtpTvus1-7202s2q.jpeg)
+When Bitcoin was released, it was celebrated as a pivotal moment in technology. Today the path we’ve chosen has taken a sharp turn away from the original vision
 
 ### [55. A Look at Some of the Latest Developments in Decentralized Finance in 2022](https://hackernoon.com/a-look-at-some-of-the-latest-developments-in-decentralized-finance-in-2022)
 ![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-4992elh.jpeg)
@@ -237,17 +241,17 @@ An explantation of directional liquidity pooling and how it works helps liquidit
 ![](https://cdn.hackernoon.com/images/KdLcZRM9ufXhHJgOghOg1qfq8q02-9ob3q7w.jpeg)
 In this era of a radical transformation of traditional finance, it seems to be natural development that credit and debit cards are the next set of products
 
-### [59. Speculative AMMs Are the Future of DeFi](https://hackernoon.com/dextoken-protocol-presenting-the-future-of-defi-ecosystem-lyi3zg1)
+### [59. WingRiders is Using Cardano to Build a DEX Based on DAG-Based Technology.](https://hackernoon.com/wingriders-is-using-cardano-to-build-a-dex-based-on-dag-based-technology)
+![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-9093i0i.jpeg)
+In this story we’ll look at the evolution of decentralized exchanges as well as the EUTXO protocol and the WingRiders platform.
+
+### [60. Speculative AMMs Are the Future of DeFi](https://hackernoon.com/dextoken-protocol-presenting-the-future-of-defi-ecosystem-lyi3zg1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIqRVoFRZoLa91LZl4mkFcvYwbO33-x3a3zd9.png?alt=media&token=27adad63-5e4d-4b3e-bf3e-9182d97f5d75)
 Since the last two years, a significant upsurge has taken place in the Defi space. Gone are the days where you had limited options for what you can do with your crypto. 
 
-### [60. The ETH Merge Is (Almost) Upon Us – Here’s What To Actually Expect](https://hackernoon.com/the-eth-merge-is-almost-upon-us---heres-what-to-actually-expect)
+### [61. The ETH Merge Is (Almost) Upon Us – Here’s What To Actually Expect](https://hackernoon.com/the-eth-merge-is-almost-upon-us---heres-what-to-actually-expect)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-kg93o7h.jpeg)
 With all of the excitement around the upcoming Ethereum Merge, it can be hard to know what is hype and what is real alpha.
-
-### [61. WingRiders is Using Cardano to Build a DEX Based on DAG-Based Technology.](https://hackernoon.com/wingriders-is-using-cardano-to-build-a-dex-based-on-dag-based-technology)
-![](https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-9093i0i.jpeg)
-In this story we’ll look at the evolution of decentralized exchanges as well as the EUTXO protocol and the WingRiders platform.
 
 ### [62. Enhancing the Cryptocurrency Market with Zero Trust DeFi Wallets](https://hackernoon.com/enhancing-the-cryptocurrency-market-with-zero-trust-defi-wallets)
 ![](https://cdn.hackernoon.com/images/IymvKKTnYPZ9oRrN7IjNRPC4QKr1-kia3p3u.gif.webp)
@@ -261,21 +265,21 @@ On September 22, 2020 a new cross-chain decentralized exchange (xDEX) launched c
 ![](https://cdn.hackernoon.com/images/IymvKKTnYPZ9oRrN7IjNRPC4QKr1-vzd3nuz.jpeg)
 Story is about the future of decentralized finance (DeFi) and the growth of cryptocurrency trading platforms, also known as decentralized exchanges (DEXs).
 
-### [65. Binance Chain's BEP3 atomic pegs [Explained]](https://hackernoon.com/binance-chains-bep3-atomic-pegs-explained-ymr3rgr)
-![](https://cdn.hackernoon.com/drafts/5crh3r3p.png)
-Binance Chain, like any other decentralized exchange, faces the eternal problem that has been plaguing DEXs for ages: 
+### [65. Educational Byte: What Are Bonding Curves and How Can You Earn With Them?](https://hackernoon.com/educational-byte-what-are-bonding-curves-and-how-can-you-earn-with-them)
+![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-oz035dh.png)
+Bonding curves are mathematical functions that link a token’s supply to its price, creating a dynamic pricing mechanism. Let's learn more about them! 
 
-### [66. Centralized vs. Decentralized Crypto Exchanges: A Builder’s Perspective](https://hackernoon.com/centralized-vs-decentralized-crypto-exchanges-a-builders-perspective)
-![](https://cdn.hackernoon.com/images/VWlnjYzMHnft6PeYsyLXlXHLhtA2-z80361s.png)
-The key differences between centralized and decentralized crypto exchanges from a founder’s perspective; covering complexity, licensing, custody and more
-
-### [67. Top 5 FAQs on Smart Contract Auditing](https://hackernoon.com/top-5-faqs-on-smart-contract-auditing)
+### [66. Top 5 FAQs on Smart Contract Auditing](https://hackernoon.com/top-5-faqs-on-smart-contract-auditing)
 ![](https://cdn.hackernoon.com/images/ph9qTJw7SwfBzy2rvEEmMdTsMRq1-6r93nz9.jpeg)
 A smart contract needs an auditing solution to enhance code correctness for optimized performance.
 
-### [68. Educational Byte: What Are Bonding Curves and How Can You Earn With Them?](https://hackernoon.com/educational-byte-what-are-bonding-curves-and-how-can-you-earn-with-them)
-![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-oz035dh.png)
-Bonding curves are mathematical functions that link a token’s supply to its price, creating a dynamic pricing mechanism. Let's learn more about them! 
+### [67. Binance Chain's BEP3 atomic pegs [Explained]](https://hackernoon.com/binance-chains-bep3-atomic-pegs-explained-ymr3rgr)
+![](https://cdn.hackernoon.com/drafts/5crh3r3p.png)
+Binance Chain, like any other decentralized exchange, faces the eternal problem that has been plaguing DEXs for ages: 
+
+### [68. Centralized vs. Decentralized Crypto Exchanges: A Builder’s Perspective](https://hackernoon.com/centralized-vs-decentralized-crypto-exchanges-a-builders-perspective)
+![](https://cdn.hackernoon.com/images/VWlnjYzMHnft6PeYsyLXlXHLhtA2-z80361s.png)
+The key differences between centralized and decentralized crypto exchanges from a founder’s perspective; covering complexity, licensing, custody and more
 
 ### [69. The Risk and Reward of Yield Farming ](https://hackernoon.com/the-risk-and-reward-of-yield-farming)
 ![](https://cdn.hackernoon.com/images/wfm0qi0hmxcUYRnXg9j6NlR61V82-xw93lxy.jpeg)
@@ -285,49 +289,49 @@ Bonding curves are mathematical functions that link a token’s supply to its pr
 ![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-6c93no9.jpeg)
 Discussion on the trading experiences for users on DEXs and how it may evolve in the future.
 
-### [71. DeFi Explained: The Guide to Decentralized Finance](https://hackernoon.com/defi-explained-the-guide-to-decentralized-finance-ji1s35on)
-![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-a3i320v.jpeg)
-Built upon the blockchains of cryptocurrencies, the range of DeFi applications cover a financial services, including insurance, loans, savings, and trading.
-
-### [72. How Social Trading Paves the Way for a Decentralized Future](https://hackernoon.com/how-social-trading-paves-the-way-for-a-decentralized-future)
+### [71. How Social Trading Paves the Way for a Decentralized Future](https://hackernoon.com/how-social-trading-paves-the-way-for-a-decentralized-future)
 ![](https://cdn.hackernoon.com/images/FgFdKHNhaVeOV2uqi2NtatpdoWQ2-ki934jr.png)
 The lack of full ownership and open access threatens the sustainability of wealth preservation and growth for traders. Social trading could be the solution.
+
+### [72. DeFi Explained: The Guide to Decentralized Finance](https://hackernoon.com/defi-explained-the-guide-to-decentralized-finance-ji1s35on)
+![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-a3i320v.jpeg)
+Built upon the blockchains of cryptocurrencies, the range of DeFi applications cover a financial services, including insurance, loans, savings, and trading.
 
 ### [73. Datagram Launches Beta for Datagram VPN, a High-Speed Decentralized Privacy Network](https://hackernoon.com/datagram-launches-beta-for-datagram-vpn-a-high-speed-decentralized-privacy-network)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-kn037wq.jpeg)
 The VPN will fully launch in the near future and introduces a verifiable no-logs design and single-hop routing architecture.
 
-### [74. In This Market, Crypto Buyers Can’t Risk Centralized Exchanges](https://hackernoon.com/in-this-market-crypto-buyers-cant-risk-centralized-exchanges)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o492a3d.jpeg)
-In today’s vicious bear market, crypto investors should exercise caution and turn to what made blockchain so great in the first place: decentralization.
-
-### [75. True Meaning Of DAOs — Understanding A New, Emerging Phenomenon](https://hackernoon.com/true-meaning-of-daos-understanding-a-new-emerging-phenomenon)
+### [74. True Meaning Of DAOs — Understanding A New, Emerging Phenomenon](https://hackernoon.com/true-meaning-of-daos-understanding-a-new-emerging-phenomenon)
 ![](https://cdn.hackernoon.com/images/zaVyJ3dcr6YgXE0hJ3QabUCHwFi1-ik93oon.jpeg)
 DAOs set out to replace organizations as we know them today with an approach of openness and decentralization. But what are DAOs really?
+
+### [75. In This Market, Crypto Buyers Can’t Risk Centralized Exchanges](https://hackernoon.com/in-this-market-crypto-buyers-cant-risk-centralized-exchanges)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o492a3d.jpeg)
+In today’s vicious bear market, crypto investors should exercise caution and turn to what made blockchain so great in the first place: decentralization.
 
 ### [76. A Blueprint to AI Coins: Is the Risk Worth the Reward?](https://hackernoon.com/a-blueprint-to-ai-coins-is-the-risk-worth-the-reward)
 ![](https://cdn.hackernoon.com/images/vcXPYWTwkCXYUX55nd5lAB8vIb32-xo83aay.jpeg)
 Explore the potential of AI coins in this insightful blueprint. Discover the risks and rewards of investing in cryptocurrency powered by artificial intelligence
 
-### [77. The Problem With CeFi Exchanges & Why We Need DeFi Now More Than Ever](https://hackernoon.com/the-problem-with-cefi-exchanges-and-why-we-need-defi-now-more-than-ever)
-![](https://cdn.hackernoon.com/images/SNkDpvdu7pTt1J6clyL9fJIE0Jo2-8f93te1.jpeg)
-Too many are taking the collapse of FTX (a CeFi exchange) as a shake up their belief in DeFi. Simplifying the meltdown and why we need DeFi now more than ever.
-
-### [78. DeGate DEX Launches Mainnet Beta: Trade Easy, Sleep Easy](https://hackernoon.com/degate-dex-launches-mainnet-beta-trade-easy-sleep-easy)
+### [77. DeGate DEX Launches Mainnet Beta: Trade Easy, Sleep Easy](https://hackernoon.com/degate-dex-launches-mainnet-beta-trade-easy-sleep-easy)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-xf93pxu.jpeg)
 DeGate has launched Mainnet Beta version of Order Book DEX on Ethereum. DeGate aims to provide a trading experience similar to centralized exchanges.
+
+### [78. The Problem With CeFi Exchanges & Why We Need DeFi Now More Than Ever](https://hackernoon.com/the-problem-with-cefi-exchanges-and-why-we-need-defi-now-more-than-ever)
+![](https://cdn.hackernoon.com/images/SNkDpvdu7pTt1J6clyL9fJIE0Jo2-8f93te1.jpeg)
+Too many are taking the collapse of FTX (a CeFi exchange) as a shake up their belief in DeFi. Simplifying the meltdown and why we need DeFi now more than ever.
 
 ### [79. Sub-Markets on Crypto-Exchanges and Their Volumes [An Analysis]](https://hackernoon.com/sub-markets-on-crypto-exchanges-and-their-volumes-an-analysis-f7du32is)
 ![](https://cdn.hackernoon.com/images/u6qr175r.jpg)
 The article lists the crypto sub-markets of a number of crypto-exchanges, and gives results of a snapshot — a moment in time, of the trading volumes of the most traded items, normalized — in percentages, and arranged from max to min.
 
-### [80. Interchain Transaction Bridge - The Missing Key to Creating Seamless UX in a Multi-chain Universe](https://hackernoon.com/interchain-transaction-bridge-the-missing-key-to-creating-seamless-ux-in-a-multi-chain-universe-xoi3351)
-![](https://hackernoon.com/images/6vhtsAt3GPM1R7aAFg9CqpzTTXd2-zw2y334k.jpeg)
-We dive into the problems that users face when using a dapp on another chain, how Interchain Transaction Bridge solves the problem, followed by a case study.
-
-### [81. GMX v2 and Its Competitors: The New Wave In the Decentralized Derivatives Market And Its Impact](https://hackernoon.com/gmx-v2-and-its-competitors-the-new-wave-in-the-decentralized-derivatives-market-and-its-impact)
+### [80. GMX v2 and Its Competitors: The New Wave In the Decentralized Derivatives Market And Its Impact](https://hackernoon.com/gmx-v2-and-its-competitors-the-new-wave-in-the-decentralized-derivatives-market-and-its-impact)
 ![](https://cdn.hackernoon.com/images/Cqf7FF30aVhj3W7e21D18uYlS8y2-xp8355y.jpeg)
 This article explores the changing competitive landscape in the decentralized derivatives market following the upgrade of GMX v2. 
+
+### [81. Interchain Transaction Bridge - The Missing Key to Creating Seamless UX in a Multi-chain Universe](https://hackernoon.com/interchain-transaction-bridge-the-missing-key-to-creating-seamless-ux-in-a-multi-chain-universe-xoi3351)
+![](https://hackernoon.com/images/6vhtsAt3GPM1R7aAFg9CqpzTTXd2-zw2y334k.jpeg)
+We dive into the problems that users face when using a dapp on another chain, how Interchain Transaction Bridge solves the problem, followed by a case study.
 
 ### [82. AMM: Your Secret Weapon For DeFi Liquidity](https://hackernoon.com/amm-your-secret-weapon-for-defi-liquidity)
 ![](https://cdn.hackernoon.com/images/EoVbI98oiigmAxrHs5vIf7ng6qF3-11d3kma.jpeg)
@@ -337,43 +341,43 @@ AMM stands for Automated Market Maker. It is a type of decentralized exchange (
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1lfYwE02G9XyNkuUScSuoIh8D0L2-s5t346p.jpeg?alt=media&token=36d321a2-f41b-40ed-94c5-43f29c8d5b24)
 In the cryptocurrency industry, there are currently two hot trends. On the one hand, there is DeFi, or decentralized finance. On the other, there are decentralized exchanges. Both segments intertwine for many different reasons, yet they are also very different from one another, 
 
-### [84. Big Brother Sets Eyes on Crypto](https://hackernoon.com/big-brother-sets-eyes-on-crypto)
+### [84. Unlocking The Holy Grail of Decentralized Finance (DeFi) With Real World Assets (RWAs)](https://hackernoon.com/unlocking-the-holy-grail-of-decentralized-finance-defi-with-real-world-assets-rwas)
+![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-qs93fni.jpeg)
+Tokenized Real-world assets (RWAs) are introducing DeFi products that are backed by real value in the form of traditional assets. 
+
+### [85. Big Brother Sets Eyes on Crypto](https://hackernoon.com/big-brother-sets-eyes-on-crypto)
 ![](https://cdn.hackernoon.com/images/twyQxsBsxnRAkzdRQZQwa4moT752-j513ohp.jpeg)
 Will Big Brother shut down the DeFi movement just as it's gaining ground?
 
-### [85. The Role of Decentralized Crypto Exchanges and Why Community Power Matters](https://hackernoon.com/the-role-of-decentralized-crypto-exchanges-and-why-community-power-matters)
+### [86. The Role of Decentralized Crypto Exchanges and Why Community Power Matters](https://hackernoon.com/the-role-of-decentralized-crypto-exchanges-and-why-community-power-matters)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-td137p7.jpeg)
 The key differences between centralized (CEX) and decentralized (DEX) crypto exchanges (DEX) and the power of community voting.
 
-
-### [86. Unlocking The Holy Grail of Decentralized Finance (DeFi) With Real World Assets (RWAs)](https://hackernoon.com/unlocking-the-holy-grail-of-decentralized-finance-defi-with-real-world-assets-rwas)
-![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-qs93fni.jpeg)
-Tokenized Real-world assets (RWAs) are introducing DeFi products that are backed by real value in the form of traditional assets. 
 
 ### [87. Normie Series: What Is a DEX and How Does It Work?](https://hackernoon.com/normie-series-what-is-a-dex-and-how-does-it-work)
 ![](https://cdn.hackernoon.com/images/xwJQAEdtpQYVcsnZwoJT6sOm2cl2-jc93fc0.jpeg)
 DEX Decentralized Exchange 
 
-### [88. Forget Shark Tank, The Killer Whale Pod is Here to Support Your Blockchain Projects ](https://hackernoon.com/forget-shark-tank-the-killer-whale-pod-is-here-to-support-your-blockchain-projects)
-![](https://cdn.hackernoon.com/images/wb443va6tWfO9ezfAOTebkX324z2-sd03db5.jpeg)
-On October 30th, the Killer Whale Pod Cast launches with an exclusive live airdrop event and everyone is welcome!
-
-### [89. Deciding What Kind of Exchange Is Best for Your Token](https://hackernoon.com/deciding-what-kind-of-exchange-is-best-for-your-token)
+### [88. Deciding What Kind of Exchange Is Best for Your Token](https://hackernoon.com/deciding-what-kind-of-exchange-is-best-for-your-token)
 ![](https://cdn.hackernoon.com/images/5rS4yrERbxUtfUCTsrb3x2kieP32-m993wa6.jpeg)
 Where is it better to list tokens on a centralized or decentralized exchange? In the new Hackernoon story, I answer what is better for the project — CEX or DEX
+
+### [89. Forget Shark Tank, The Killer Whale Pod is Here to Support Your Blockchain Projects ](https://hackernoon.com/forget-shark-tank-the-killer-whale-pod-is-here-to-support-your-blockchain-projects)
+![](https://cdn.hackernoon.com/images/wb443va6tWfO9ezfAOTebkX324z2-sd03db5.jpeg)
+On October 30th, the Killer Whale Pod Cast launches with an exclusive live airdrop event and everyone is welcome!
 
 ### [90. Faster, Cheaper, and More Secure Real Estate Ownership with NFTs](https://hackernoon.com/faster-cheaper-and-more-secure-real-estate-ownership-with-nfts)
 ![](https://cdn.hackernoon.com/images/EhCdSD7cXKOYk5qKXLf21RXhfQ33-4eb3lim.jpeg)
 The 21st Century has certainly been a time of incredible technological advancement. In just a few years, we’ve seen the rise of the internet, social media, and mobile devices. These technologies have transformed the way we live, work, and play.
 
-### [91. DeFi Decentralized Exchanges: An Overview](https://hackernoon.com/defi-decentralized-exchanges-an-overview-45u34wg)
+### [91. Launching a New CeDeFi Investment Product: Key Aspects, Metrics, and Security Risks](https://hackernoon.com/launching-a-new-cedefi-investment-product-key-aspects-metrics-and-security-risks)
+![](https://cdn.hackernoon.com/images/5e4mQkoNTufDB9PLNsHikSnPAUs1-epc3n9v.jpeg)
+You have likely heard about decentralized finance (DeFi), but what about decentralized-centralized finance, a bridge between the new system and the old.
+
+### [92. DeFi Decentralized Exchanges: An Overview](https://hackernoon.com/defi-decentralized-exchanges-an-overview-45u34wg)
 ![](https://cdn.hackernoon.com/images/nxtWKMHuO1UKGUbmzmzTuQsBx4H2-73253bbo.png)
 We continue our journey in the areas of decentralized finance (DeFi) and today we talk about the sector with the greatest weight of all DeFi up to now, especially dollars locked in the various platforms and blockchains, i.e. decentralized exchanges (DEX).
 
-
-### [92. Launching a New CeDeFi Investment Product: Key Aspects, Metrics, and Security Risks](https://hackernoon.com/launching-a-new-cedefi-investment-product-key-aspects-metrics-and-security-risks)
-![](https://cdn.hackernoon.com/images/5e4mQkoNTufDB9PLNsHikSnPAUs1-epc3n9v.jpeg)
-You have likely heard about decentralized finance (DeFi), but what about decentralized-centralized finance, a bridge between the new system and the old.
 
 ### [93. The Beautiful Double Helix of High Responsiveness and Decentralized Storage in the Web3.0 Era](https://hackernoon.com/the-beautiful-double-helix-of-high-responsiveness-and-decentralized-storage-in-the-web30-era)
 ![](https://cdn.hackernoon.com/images/rUpKihqU5xWtvjykFGTByUkU2pv2-b0h3qcz.jpeg)
@@ -407,17 +411,17 @@ Why the lack of mechanisms to ensure permanent randomization and distribution of
 ![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-n492ed0.jpeg)
 Scalability is currently one of the largest concerns for the Ethereum network. The network still suffers from slow transactions and high gas costs.
 
-### [101. A Step-By-Step Guide to Creating an NFT Real Estate Marketplace](https://hackernoon.com/a-step-by-step-guide-to-creating-an-nft-real-estate-marketplace)
+### [101. Perp v2 Goes Open Source: Including Codebase, frontend SDK, and Subgraph](https://hackernoon.com/perp-v2-goes-open-source-including-codebase-frontend-sdk-and-subgraph)
+![](https://cdn.hackernoon.com/images/2cvm7gWCzVOn6T9wJq24LUPWwXu2-o093rby.jpeg)
+After months of hard work, we are pleased to announce that our Curie contract codebase, the frontend SDK and subgraph are now all open source. 
+
+### [102. A Step-By-Step Guide to Creating an NFT Real Estate Marketplace](https://hackernoon.com/a-step-by-step-guide-to-creating-an-nft-real-estate-marketplace)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-kw93py6.jpeg)
 The market for non-exchangeable tokens, more known as NFT, has grown significantly - and it’s about time that NFT is about to change industries! 
 
-### [102. How Decentralized Systems Are Reshaping the Financial Market](https://hackernoon.com/how-decentralized-systems-are-reshaping-the-financial-market)
+### [103. How Decentralized Systems Are Reshaping the Financial Market](https://hackernoon.com/how-decentralized-systems-are-reshaping-the-financial-market)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-pp93pdr.jpeg)
 Many centralized organizations operate in an old-fashioned way, although they have long lost their credibility. But is there a solution?
-
-### [103. Perp v2 Goes Open Source: Including Codebase, frontend SDK, and Subgraph](https://hackernoon.com/perp-v2-goes-open-source-including-codebase-frontend-sdk-and-subgraph)
-![](https://cdn.hackernoon.com/images/2cvm7gWCzVOn6T9wJq24LUPWwXu2-o093rby.jpeg)
-After months of hard work, we are pleased to announce that our Curie contract codebase, the frontend SDK and subgraph are now all open source. 
 
 ### [104. Interview: FLEX - The Order Book Exchange on Everscale: DeFi, CBDC, and DeBots](https://hackernoon.com/interview-flex-the-order-book-exchange-on-everscale-defi-cbdc-and-debots)
 ![](https://cdn.hackernoon.com/images/ANdDUZCX7rbGGUY9Uhedg1VoSfb2-d193edo.jpeg)
@@ -455,21 +459,21 @@ On July 29, 2022, Klein Finance announced mainnet official launch based on KCC e
 ![](https://cdn.hackernoon.com/images/github/decentralized-exchange-867.png)
 Learn everything you need to know about Decentralized Exchange via these 89 free HackerNoon stories.
 
-### [113. How Brave Browser Gained the Favor of Crypto Enthusiasts](https://hackernoon.com/how-brave-browser-gained-the-favor-of-crypto-enthusiasts)
-![](https://cdn.hackernoon.com/images/8p8IxkWAJjd9oOV4n3ziAatoTGb2-8f0389t.jpeg)
-By leveraging early adopters across verticals, Brave is compounding network effects. Users like a holistic interface. Investors look at the Sum of the Parts.
-
-### [114. Automated Market Making With Equal and Self-Adjusting Governance Token Distribution](https://hackernoon.com/automated-market-making-with-equal-and-self-adjusting-governance-token-distribution-nn253wm8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUU2vEsDi9GfWWVT8ER5OYB13kP23-m6m3y3d.jpeg?alt=media&token=2a84bc3c-73f5-4622-b35b-370bdc0118a3)
-Uniswap describes a vision of a fair decentralized trading protocol: on the one hand, anyone can exchange two paired tokens anytime and anywhere; and on the other hand, it uses fair incentives to encourage everyone to provide liquidity for trading. 
-
-### [115. 3 Music NFT Initiatives That Are Aiding Market Recovery](https://hackernoon.com/3-music-nft-initiatives-that-are-aiding-market-recovery)
+### [113. 3 Music NFT Initiatives That Are Aiding Market Recovery](https://hackernoon.com/3-music-nft-initiatives-that-are-aiding-market-recovery)
 ![](https://cdn.hackernoon.com/images/hXKwLQTOZIVVCSuQr7QMEWvPUYK2-fa93495.jpeg)
 When the market is volatile, investors seek dependability. These solutions have a chance to reduce speculation and boost confidence in NFTs.
 
-### [116. Centralized vs Decentralized Exchanges: Making Informed Crypto Trading Decisions](https://hackernoon.com/centralized-vs-decentralized-exchanges-making-informed-crypto-trading-decisions)
+### [114. How Brave Browser Gained the Favor of Crypto Enthusiasts](https://hackernoon.com/how-brave-browser-gained-the-favor-of-crypto-enthusiasts)
+![](https://cdn.hackernoon.com/images/8p8IxkWAJjd9oOV4n3ziAatoTGb2-8f0389t.jpeg)
+By leveraging early adopters across verticals, Brave is compounding network effects. Users like a holistic interface. Investors look at the Sum of the Parts.
+
+### [115. Centralized vs Decentralized Exchanges: Making Informed Crypto Trading Decisions](https://hackernoon.com/centralized-vs-decentralized-exchanges-making-informed-crypto-trading-decisions)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-r793xsu.jpeg)
 Two prominent types of exchanges in the crypto world are centralized exchanges (CEX) and decentralized exchanges (DEX). Each has its own set of characteristics.
+
+### [116. Automated Market Making With Equal and Self-Adjusting Governance Token Distribution](https://hackernoon.com/automated-market-making-with-equal-and-self-adjusting-governance-token-distribution-nn253wm8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUU2vEsDi9GfWWVT8ER5OYB13kP23-m6m3y3d.jpeg?alt=media&token=2a84bc3c-73f5-4622-b35b-370bdc0118a3)
+Uniswap describes a vision of a fair decentralized trading protocol: on the one hand, anyone can exchange two paired tokens anytime and anywhere; and on the other hand, it uses fair incentives to encourage everyone to provide liquidity for trading. 
 
 ### [117. Pro-Rata Mechanisms: Game Theory Insights for Decentralized Exchanges](https://hackernoon.com/pro-rata-mechanisms-game-theory-insights-for-decentralized-exchanges)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-2s030bt.jpeg)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [blockchain-oracles](https://hackernoon.com/tagged/blockchain-oracles)
+### Let's learn about [Blockchain Oracles](https://hackernoon.com/tagged/blockchain-oracles) via these 65 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Blockchain oracles are third-party services that connect smart contracts with real-world data and off-chain systems. Oracles are essential for enabling smart contracts to interact with external events, making them more powerful and practical for real-world applications.
+
 ### [1. Is Chainlink The One 'Ring' To Rule Them All?](https://hackernoon.com/is-chainlink-the-one-ring-to-rule-them-all-lf163283)
 ![](https://cdn.hackernoon.com/images/ZsqW93kD80YxD4F0ErYukeM6Sem1-h3a34vt.jpeg)
 In this article, I take a deep dive into Chainlink and blochain protocols, and explain why I think Chainlink is the greatest investment of our lifetime.
@@ -77,13 +81,13 @@ In the previous Crypto Series #1, we did discuss the emerging players in the DeF
 ![](https://cdn.hackernoon.com/images/t03XIzsJKARrMflzDrlxmlIic9U2-td93qi8.jpeg)
 Sebastian Banescu discusses the workflow of DeFi insurance claims and how the process could be automated using oracles.
 
-### [20. WTF Are Blockchain Oracles and How They Make Smart Contracts Smarter](https://hackernoon.com/wtf-are-blockchain-oracles-and-how-they-make-smart-contracts-smarter-s2fe33cw)
-![](https://cdn.hackernoon.com/drafts/jgy3ovw.png)
-Open blockchain smart contracts does not have the capability to guarantee information reliability outside of their own network, they can only read the data saved on their respective blockchain. Oracles seeks to tackle this problem by providing a best-effort claims about the real world and feeding them to smart contracts in a trusted and secure manner, thus bridging the gap between smart contracts and the real world.
-
-### [21. DeData Studios: Helping Users Take Back Control of Their Data](https://hackernoon.com/dedata-studios-helping-users-take-back-control-of-their-data)
+### [20. DeData Studios: Helping Users Take Back Control of Their Data](https://hackernoon.com/dedata-studios-helping-users-take-back-control-of-their-data)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-iv92dlu.jpeg)
 Gone are the days when big tech companies like Meta decide when and how to monetize your personal information. Or are they?
+
+### [21. WTF Are Blockchain Oracles and How They Make Smart Contracts Smarter](https://hackernoon.com/wtf-are-blockchain-oracles-and-how-they-make-smart-contracts-smarter-s2fe33cw)
+![](https://cdn.hackernoon.com/drafts/jgy3ovw.png)
+Open blockchain smart contracts does not have the capability to guarantee information reliability outside of their own network, they can only read the data saved on their respective blockchain. Oracles seeks to tackle this problem by providing a best-effort claims about the real world and feeding them to smart contracts in a trusted and secure manner, thus bridging the gap between smart contracts and the real world.
 
 ### [22. A Step-by-Step Guide to Building Secure Oracles with Oasis ROFL](https://hackernoon.com/a-step-by-step-guide-to-building-secure-oracles-with-oasis-rofl)
 ![](https://cdn.hackernoon.com/images/gOION3UpzLYB2bAzKFMIXwcmdD03-6g03vbx.png)
@@ -109,43 +113,43 @@ In this post, I'll explain why decentralising everything is actually "not that d
 ![](https://cdn.hackernoon.com/images/22qULrU2ZPb8VRsSedCeA6x7AJ13-w193gg0.jpeg)
 DAO stands for a Decentralized Autonomous Organization. The definition is right there in the name; it’s an internet-native organization where the management is decentralized, and the decisions are autonomous thanks to its programmed logic.
 
-### [28. More Data, Less Cost: the Quiet Revolution in Blockchain Oracles](https://hackernoon.com/more-data-less-cost-the-quiet-revolution-in-blockchain-oracles)
-![](https://cdn.hackernoon.com/images/KTsAalOsFZcNRUZ8VTJlXGrvLZo1-q0030na.png)
-Blockchain oracles are becoming increasingly important in decentralized ecosystems.
-
-### [29. Establishing Verifiable Truth in a Post-Trust World](https://hackernoon.com/establishing-verifiable-truth-in-a-post-trust-world)
+### [28. Establishing Verifiable Truth in a Post-Trust World](https://hackernoon.com/establishing-verifiable-truth-in-a-post-trust-world)
 ![](https://cdn.hackernoon.com/images/22qULrU2ZPb8VRsSedCeA6x7AJ13-kl03d5k.png)
 Many users have lost faith in the integrity of the information they see. 
 
-### [30. Abundant Oracles: How Much Data Is Too Much Data?](https://hackernoon.com/abundant-oracles-how-much-data-is-too-much-data)
-![](https://cdn.hackernoon.com/images/aa6V7GCAeqSW9mFeUMLZvKwA37K2-f1035ui.png)
-A critical look at blockchain oracles: Chainlink’s rise, API3 and Chronicle’s approaches, and whether the market is saturated with data.
+### [29. More Data, Less Cost: the Quiet Revolution in Blockchain Oracles](https://hackernoon.com/more-data-less-cost-the-quiet-revolution-in-blockchain-oracles)
+![](https://cdn.hackernoon.com/images/KTsAalOsFZcNRUZ8VTJlXGrvLZo1-q0030na.png)
+Blockchain oracles are becoming increasingly important in decentralized ecosystems.
 
-### [31. How to Work With Oracles to Use and Validate Different Financial Data Sets ](https://hackernoon.com/how-to-work-with-oracles-to-use-and-validate-different-financial-data-sets)
+### [30. How to Work With Oracles to Use and Validate Different Financial Data Sets ](https://hackernoon.com/how-to-work-with-oracles-to-use-and-validate-different-financial-data-sets)
 ![](https://cdn.hackernoon.com/images/t03XIzsJKARrMflzDrlxmlIic9U2-j093o86.jpeg)
 
 
-### [32. 11 Commandments Of Smart Contract Designing](https://hackernoon.com/11-commandments-of-smart-contract-designing-ra2a3wy4)
+### [31. 11 Commandments Of Smart Contract Designing](https://hackernoon.com/11-commandments-of-smart-contract-designing-ra2a3wy4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFlRGjciVp3fbWDvvOGdVFcuFTef2-v98b2b31.jpeg?alt=media&token=88b82b35-6f97-48d7-a454-acfcf56ce588)
 Unlike my sleeping pattern, design patterns are meant to make things more stable and predictable in the future. It is an elegant solution to common problems in software design. 
 
-### [33. The Establishment of Decentralized Application Programming Interface (DAPI) and Blockchain Oracles](https://hackernoon.com/the-establishment-of-decentralized-application-programming-interface-dapi-and-blockchain-oracles)
+### [32. The Establishment of Decentralized Application Programming Interface (DAPI) and Blockchain Oracles](https://hackernoon.com/the-establishment-of-decentralized-application-programming-interface-dapi-and-blockchain-oracles)
 ![](https://cdn.hackernoon.com/images/dm0NIVFX87QelDnxmjfCQ3RAT1N2-hc931pe.jpeg)
 How the emergence of Decentralized API (DAPI) and blockchain oracle is revolutionizing the off-chain and on-chain data transmission
 
-### [34. DeFi Overdrive: High APY Pools and Head to Head Betting](https://hackernoon.com/defi-overdrive-high-apy-pools-and-head-to-head-betting-rs1x348u)
+### [33. DeFi Overdrive: High APY Pools and Head to Head Betting](https://hackernoon.com/defi-overdrive-high-apy-pools-and-head-to-head-betting-rs1x348u)
 ![](https://cdn.hackernoon.com/images/x15mTFBZ3oMqFCtDWOeAEUstgpl2-3f1f31sb.jpeg)
 The Vanilla Network is a deflationary token that aims to introduce the best staking and betting decentralized applications in the market for betting enthusiasts around the world as well as users that are looking for rewards in long-term participation. 
 
-### [35. How to Evaluate Security of Different Oracle Designs](https://hackernoon.com/how-to-evaluate-security-of-different-oracle-designs)
+### [34. How to Evaluate Security of Different Oracle Designs](https://hackernoon.com/how-to-evaluate-security-of-different-oracle-designs)
 ![](https://cdn.hackernoon.com/images/t03XIzsJKARrMflzDrlxmlIic9U2-4d93qth.jpeg)
 The first challenge of oracle design starts with a philosophical question: What is the truth? Is the truth subjective or objective?
 
 
 
-### [36. Tomás Ruiz on the Standardization of Oracle Networks, its Challenge, and Call To Action](https://hackernoon.com/tomas-ruiz-on-the-standardization-of-oracle-networks-its-challenge-and-call-to-action)
+### [35. Tomás Ruiz on the Standardization of Oracle Networks, its Challenge, and Call To Action](https://hackernoon.com/tomas-ruiz-on-the-standardization-of-oracle-networks-its-challenge-and-call-to-action)
 ![](https://cdn.hackernoon.com/images/t03XIzsJKARrMflzDrlxmlIic9U2-qh93olm.jpeg)
 Tomás Ruiz, technical lead of Witnet, presented on the importance of standardization for oracle networks, the challenges of implementing them, and solutions.
+
+### [36. Abundant Oracles: How Much Data Is Too Much Data?](https://hackernoon.com/abundant-oracles-how-much-data-is-too-much-data)
+![](https://cdn.hackernoon.com/images/aa6V7GCAeqSW9mFeUMLZvKwA37K2-f1035ui.png)
+A critical look at blockchain oracles: Chainlink’s rise, API3 and Chronicle’s approaches, and whether the market is saturated with data.
 
 ### [37. What is Chainlink? - Intro to the Oracle Network for Hybrid Smart Contracts](https://hackernoon.com/what-is-chainlink-intro-to-the-oracle-network-for-hybrid-smart-contracts)
 ![](https://cdn.hackernoon.com/images/8p8IxkWAJjd9oOV4n3ziAatoTGb2-fw93f4a.jpeg)
@@ -183,25 +187,25 @@ Kleros co-founder & CTO, Clément Lesaege evaluates the integration of subjectiv
 ![](https://cdn.hackernoon.com/images/t03XIzsJKARrMflzDrlxmlIic9U2-fk93osg.jpeg)
 Shamil Khalilov, founder and CTO of Hardron Network, evaluates the challenges faced by layer-2 cross-chain bridges and how Hardron aims to solve these issues.
 
-### [46. Decentralizing Real-World Industries: The On-Chain Revolution](https://hackernoon.com/decentralizing-real-world-industries-the-on-chain-revolution)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-ig93pj9.jpeg)
-Achieving true decentralization in traditional industries - is it desirable, or even possible? Find out in this panel from @OracleSummit!
-
-### [47. Communicating Real World Data With Blockchain And Back via Oracles](https://hackernoon.com/communicating-real-world-data-with-blockchain-and-back-via-oracles-9b2s3zkq)
-![](https://cdn.hackernoon.com/images/YNWvuGEQsXgxsbZ9FppeR4Egn753-4l1x3es7.jpeg)
-I. Market Context.
-
-### [48. Haqq Network's Shariah Oracle: Pioneering Ethical Compliance in DeFi](https://hackernoon.com/haqq-networks-shariah-oracle-pioneering-ethical-compliance-in-defi)
+### [46. Haqq Network's Shariah Oracle: Pioneering Ethical Compliance in DeFi](https://hackernoon.com/haqq-networks-shariah-oracle-pioneering-ethical-compliance-in-defi)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-do83xq5.jpeg)
 Explore Haqq Network's Shariah Oracle and its commitment to ensuring compliance with ethical standards in decentralized finance (DeFi). 
 
-### [49. The Rising Importance of First-Party Oracles](https://hackernoon.com/the-rising-importance-of-first-party-oracles)
-![](https://cdn.hackernoon.com/images/b0dJCdCiIve9u5o9RwhrccshHwC2-uj4380d.jpeg)
-First-party oracles outperform third-party oracles in almost every way you can compare. Third-party oracles have been eliminated by API3 and Airnode. 
+### [47. Decentralizing Real-World Industries: The On-Chain Revolution](https://hackernoon.com/decentralizing-real-world-industries-the-on-chain-revolution)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-ig93pj9.jpeg)
+Achieving true decentralization in traditional industries - is it desirable, or even possible? Find out in this panel from @OracleSummit!
 
-### [50. Uncovering Tellor's Decentralized Consumer Price Index (CPI) ](https://hackernoon.com/uncovering-tellors-decentralized-consumer-price-index-cpi)
+### [48. Communicating Real World Data With Blockchain And Back via Oracles](https://hackernoon.com/communicating-real-world-data-with-blockchain-and-back-via-oracles-9b2s3zkq)
+![](https://cdn.hackernoon.com/images/YNWvuGEQsXgxsbZ9FppeR4Egn753-4l1x3es7.jpeg)
+I. Market Context.
+
+### [49. Uncovering Tellor's Decentralized Consumer Price Index (CPI) ](https://hackernoon.com/uncovering-tellors-decentralized-consumer-price-index-cpi)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-3183xnq.jpeg)
 Brenda Loya, CEO of Tellor, delves into the potential of building a decentralized Consumer Price Index (CPI) and its impact on government policies. 
+
+### [50. The Rising Importance of First-Party Oracles](https://hackernoon.com/the-rising-importance-of-first-party-oracles)
+![](https://cdn.hackernoon.com/images/b0dJCdCiIve9u5o9RwhrccshHwC2-uj4380d.jpeg)
+First-party oracles outperform third-party oracles in almost every way you can compare. Third-party oracles have been eliminated by API3 and Airnode. 
 
 ### [51. How to Remove the Human Factor From DeFi Risk Management: The Key Concepts to Know](https://hackernoon.com/how-to-remove-the-human-factor-from-defi-risk-management-the-key-concepts-to-know)
 ![](https://cdn.hackernoon.com/images/t03XIzsJKARrMflzDrlxmlIic9U2-fo832ed.jpeg)
@@ -216,22 +220,22 @@ In this piece, the CTO of Etherisc discusses the central role that hybrid smart 
 Find out how #oracles will create the foundation for interoperability and portability in the #metaverse in this panel from @OracleSummit!
 
 
-### [54. DeFi Gives Industries & Regulators No Choice But to Listen & Take Notice: Unhashed #21](https://hackernoon.com/defi-gives-industries-and-regulators-no-choice-but-to-listen-and-take-notice-unhashed-21)
+### [54. How to Calculate The Attack Costs Of Different Oracle Networks: The Key Concepts](https://hackernoon.com/how-to-calculate-the-attack-costs-of-different-oracle-networks-the-key-concepts)
+![](https://cdn.hackernoon.com/images/t03XIzsJKARrMflzDrlxmlIic9U2-rh8323w.jpeg)
+In this presentation, Clément Lesaege, co-founder of Kleros, presented the attack costs of different oracle networks and how to calculate the potential profit.
+
+### [55. DeFi Gives Industries & Regulators No Choice But to Listen & Take Notice: Unhashed #21](https://hackernoon.com/defi-gives-industries-and-regulators-no-choice-but-to-listen-and-take-notice-unhashed-21)
 ![](https://cdn.hackernoon.com/images/J4wbz3JAj4ck2KKzkB83S10DntP2-hn038vx.jpeg)
 For the 21st part of Unhashed, I reached out to Beau Olson, CEO of Transient Network - a smart contract marketplace for non-coders. 
 
-### [55. How Oracles Act a Catalyst in Bridging Real World Assets On-Chain](https://hackernoon.com/how-oracles-act-a-catalyst-in-bridging-real-world-assets-on-chain)
+### [56. How Oracles Act a Catalyst in Bridging Real World Assets On-Chain](https://hackernoon.com/how-oracles-act-a-catalyst-in-bridging-real-world-assets-on-chain)
 ![](https://cdn.hackernoon.com/images/t03XIzsJKARrMflzDrlxmlIic9U2-9c93o6n.jpeg)
 Niklas Kunkel, Oracle Core Unit Facilitator at MakerDAO, talks about the role that oracles play in bridging real-world assets on-chain.
 
-### [56. The next frontier is here: Oracles with human insight](https://hackernoon.com/the-next-frontier-is-here-oracles-with-human-insight-t41237ql)
+### [57. The next frontier is here: Oracles with human insight](https://hackernoon.com/the-next-frontier-is-here-oracles-with-human-insight-t41237ql)
 ![](https://cdn.hackernoon.com/images/EJwC8IRrIOPXX2O0MuNIU7kXnyF3-s3f32w5.jpeg)
 Data, the very source of modern Oracles’ power, can also be its undoing.
 Luckily, OptionRoom's new Oracle can give quantitative AND qualitative data insights.
-
-### [57. How to Calculate The Attack Costs Of Different Oracle Networks: The Key Concepts](https://hackernoon.com/how-to-calculate-the-attack-costs-of-different-oracle-networks-the-key-concepts)
-![](https://cdn.hackernoon.com/images/t03XIzsJKARrMflzDrlxmlIic9U2-rh8323w.jpeg)
-In this presentation, Clément Lesaege, co-founder of Kleros, presented the attack costs of different oracle networks and how to calculate the potential profit.
 
 ### [58. How Cross-Chain Oracles Can Enhance the Interoperability of DApps](https://hackernoon.com/how-cross-chain-oracles-can-enhance-the-interoperability-of-dapps)
 ![](https://cdn.hackernoon.com/images/t03XIzsJKARrMflzDrlxmlIic9U2-5i93o6z.jpeg)

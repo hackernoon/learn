@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [trends](https://hackernoon.com/tagged/trends)
+### Let's learn about [Trends](https://hackernoon.com/tagged/trends) via these 88 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Trends are general directions in which something is developing or changing, often indicating popular or emerging patterns. Understanding trends is vital for businesses, innovators, and consumers to adapt and stay competitive.
+
 ### [1. How Do I Build High-Volume dApps With Ultra-Low Gas Fees? Like a #BAS](https://hackernoon.com/how-do-i-build-high-volume-dapps-with-ultra-low-gas-fees-like-a-bas)
 ![](https://cdn.hackernoon.com/images/mUJM7vzqnkhIORj1yR1EqvBjPNI2-l893v8w.jpeg)
 BNB Application Sidechains (BAS), a community-driven framework built for BNB Chain, will go live with three decentralized applications.
@@ -21,13 +25,13 @@ In Python, the ord() function accepts a single unit of character and returns the
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-7593pir.jpeg)
 The introduction of deep machine learning capabilities, artificial intelligence (AI), and decentralization are all part of the building blocks...
 
-### [6. Can We Predict the Future of Tech?](https://hackernoon.com/can-we-predict-the-future-of-tech)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-t493vsm.jpeg)
- Will the world be a more peaceful place? No it will not. 
-
-### [7. A Look at the Trends in Developer Jobs: A Meta Analysis of Stack Overflow Surveys](https://hackernoon.com/a-look-at-the-trends-in-developer-jobs-a-meta-analysis-of-stack-overflow-surveys)
+### [6. A Look at the Trends in Developer Jobs: A Meta Analysis of Stack Overflow Surveys](https://hackernoon.com/a-look-at-the-trends-in-developer-jobs-a-meta-analysis-of-stack-overflow-surveys)
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-pi93pqu.jpeg)
 I'm really interested in the trends we see in the software engineering job market.
+
+### [7. Can We Predict the Future of Tech?](https://hackernoon.com/can-we-predict-the-future-of-tech)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-t493vsm.jpeg)
+ Will the world be a more peaceful place? No it will not. 
 
 ### [8. NFTs are Not Dying, They are Evolving](https://hackernoon.com/nfts-are-not-dying-they-are-evolving)
 ![](https://cdn.hackernoon.com/images/non-fungible-token-clcfrcqz0000101s6dtsi1boy.png)
@@ -193,29 +197,29 @@ The streaming space is clearly the future of entertainment.
 ![](https://cdn.hackernoon.com/images/e3N1YN3EIBboDWlXIrGE70pUigm2-y81y3635.jpeg)
 Let’s see what awaits our favorite Java language directly, and then — what awaits the IT-sphere.
 
-### [49. Impact of Automation on the Future of Work](https://hackernoon.com/impact-of-automation-on-the-future-of-work-iw1t3ysi)
-![](https://cdn.hackernoon.com/drafts/s6593ybv.png)
-Automation and artificial intelligence (AI) are changing the nature of jobs and many believe that robots will completely put humans out of work in the coming years. 
-
-### [50. 9 Data Trends You’ll See in 2023](https://hackernoon.com/9-data-trends-youll-see-in-2023)
+### [49. 9 Data Trends You’ll See in 2023](https://hackernoon.com/9-data-trends-youll-see-in-2023)
 ![](https://cdn.hackernoon.com/images/QS5iLJhRSPR2YH4y0tLF8pVa75h1-ica3os0.jpeg)
 2022 saw the data space grow by leaps and bounds. Here are the top 9 things our team of data experts expects to see in 2023. 
+
+### [50. Impact of Automation on the Future of Work](https://hackernoon.com/impact-of-automation-on-the-future-of-work-iw1t3ysi)
+![](https://cdn.hackernoon.com/drafts/s6593ybv.png)
+Automation and artificial intelligence (AI) are changing the nature of jobs and many believe that robots will completely put humans out of work in the coming years. 
 
 ### [51. The Latest Tech Trends for Boosting Your Business](https://hackernoon.com/the-latest-tech-trends-for-boosting-your-business-bu6633ye)
 ![](https://cdn.hackernoon.com/drafts/u05l332t.png)
 In order for your business to succeed in a market driven by digital devices, you absolutely need to take advantage of the latest developments being made. By staying on top of current trends, you can gain remarkable insight on what consumers want, how to focus your brand identity, and the best methods for increasing sales throughout the fiscal year. Take a look at these ideas that are being utilized by businesses of all sizes and learn how you can prepare your own company for the future.
 
-### [52. Culture Eats Diversity for Breakfast](https://hackernoon.com/culture-eats-diversity-for-breakfast-4t5q34lr)
-![](https://cdn.hackernoon.com/drafts/v34q3cyi.png)
-At a group job interview for a San Francisco startup, a woman hiring manager shot a Nerf arrow at my head to demonstrate the cliché “play hard” mentality in an interview setting. At first, I was embarrassed to be singled out in this way. Then, I was appalled. I wondered why any professional would do this, let alone a woman to another woman. The answer: company culture.
+### [52. New Horizons: The 2024 Outlook for U.S. Real Estate](https://hackernoon.com/new-horizons-the-2024-outlook-for-us-real-estate)
+![](https://cdn.hackernoon.com/images/FfcVNRpyABPakFn74E7tGcZ1j453-ff8323o.jpeg)
+as we look towards 2024, the U.S. real estate market is at a crossroads of evolving challenges and emerging opportunities.
 
 ### [53. Top Crypto Trends from 2016 to 2021 [Infographic]](https://hackernoon.com/top-crypto-trends-from-2016-to-2021-infographic)
 ![](https://cdn.hackernoon.com/images/yP7yjHRb5XfzmGhK6jKJbEdJJau2-sy03hl2.jpeg)
 We can define recent years as the rise of a technology (DeFi, NFT, etc.) on the crypto market. The thing is that most of them rise long after their invention.
 
-### [54. New Horizons: The 2024 Outlook for U.S. Real Estate](https://hackernoon.com/new-horizons-the-2024-outlook-for-us-real-estate)
-![](https://cdn.hackernoon.com/images/FfcVNRpyABPakFn74E7tGcZ1j453-ff8323o.jpeg)
-as we look towards 2024, the U.S. real estate market is at a crossroads of evolving challenges and emerging opportunities.
+### [54. Culture Eats Diversity for Breakfast](https://hackernoon.com/culture-eats-diversity-for-breakfast-4t5q34lr)
+![](https://cdn.hackernoon.com/drafts/v34q3cyi.png)
+At a group job interview for a San Francisco startup, a woman hiring manager shot a Nerf arrow at my head to demonstrate the cliché “play hard” mentality in an interview setting. At first, I was embarrassed to be singled out in this way. Then, I was appalled. I wondered why any professional would do this, let alone a woman to another woman. The answer: company culture.
 
 ### [55. fitlive is a Better, Easier Way to Provide a Virtual Fitness Experience ](https://hackernoon.com/fitlive-is-a-better-easier-way-to-provide-a-virtual-fitness-experience)
 ![](https://cdn.hackernoon.com/images/7GGjdbIpEWhSoNNMb3i5kpsuefF3-0q93vug.jpeg)
@@ -242,17 +246,17 @@ The decentralized and distributed file storage system, like others, has its stre
 ![](https://cdn.hackernoon.com/images/e1vl3GX8BpXoAGI9qZJqAwLDK5h1-pq83uxb.jpeg)
 Discover the future of recurring payments, a $15.4 trillion market, and how open banking is revolutionizing this popular payment method
 
-### [61. Check out These New Top-Level Domains in 2024](https://hackernoon.com/check-out-these-new-top-level-domains-in-2024)
+### [61. Ilya Rouss: “Travel Trends to Watch: digital nomads, non-mainstream places, local economies growth”](https://hackernoon.com/ilya-rouss-travel-trends-to-watch-digital-nomads-non-mainstream-places-local-economies-growth)
+![](https://cdn.hackernoon.com/images/8wlyTs6rS1Ns9rTwC8LtCyE03B52-k5930n2.jpeg)
+When the travel industry will recover after the pandemic, what will the travel experience look like and how modern tech will influence it?
+
+### [62. Check out These New Top-Level Domains in 2024](https://hackernoon.com/check-out-these-new-top-level-domains-in-2024)
 ![](https://cdn.hackernoon.com/images/dm2bCgaeP2Qw2TXrucEmkOU706F2-0n83444.png)
 New top-level domains, are emerging regularly. Because there is a growing need for new industries, and the domain market is constantly expanding.
 
-### [62. Influencer Marketing Predictions for 2022 from Industry Experts](https://hackernoon.com/influencer-marketing-predictions-for-2022-from-industry-experts)
+### [63. Influencer Marketing Predictions for 2022 from Industry Experts](https://hackernoon.com/influencer-marketing-predictions-for-2022-from-industry-experts)
 ![](https://cdn.hackernoon.com/images/1KxoxwsAO3OtMOYrTcevzumSEFv1-9s337fg.jpeg)
 What will be trending in 2022? What ideas and concepts will drive the flow? Industry experts are sharing their opinions.
-
-### [63. Ilya Rouss: “Travel Trends to Watch: digital nomads, non-mainstream places, local economies growth”](https://hackernoon.com/ilya-rouss-travel-trends-to-watch-digital-nomads-non-mainstream-places-local-economies-growth)
-![](https://cdn.hackernoon.com/images/8wlyTs6rS1Ns9rTwC8LtCyE03B52-k5930n2.jpeg)
-When the travel industry will recover after the pandemic, what will the travel experience look like and how modern tech will influence it?
 
 ### [64. Global Hackathon: 'Revelation' Kicks Off With Up to $10M in Prizes! Hosted By BNB Chain](https://hackernoon.com/global-hackathon-revelation-kicks-off-with-up-to-dollar10m-in-prizes-hosted-by-bnb-chain)
 ![](https://cdn.hackernoon.com/images/mUJM7vzqnkhIORj1yR1EqvBjPNI2-sqb3vsw.jpeg)
@@ -274,79 +278,83 @@ Generative AI refers to the use of machine learning to create new content. It ha
 ![](https://cdn.hackernoon.com/images/QfM9Sg6yRQcgqua3dNEL7W0ApF52-y203asj.jpeg)
 Let's discuss three reasons behind the immense popularity of the Wordle game.
 
-### [69. Kids and Tech: What We Know, What We Don't, And What Parents Can Do](https://hackernoon.com/kids-and-tech-what-we-know-what-we-dont-and-what-parents-can-do-iq2g3542)
-![](https://cdn.hackernoon.com/images/25FD7aJjvQXZmpBWsHFW5JYdjMt1-m41i38uu.jpeg)
-Today, you'd struggle to find a home that doesn't have multiple smart devices. One side effect is that children are being exposed to technology earlier.
-
-### [70. 2023 May Spell Hope For Financial Markets & Crypto](https://hackernoon.com/2023-may-spell-hope-for-financial-markets-and-crypto)
+### [69. 2023 May Spell Hope For Financial Markets & Crypto](https://hackernoon.com/2023-may-spell-hope-for-financial-markets-and-crypto)
 ![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-q9a3hch.jpeg)
 Transitioning into the new year, 2023, feels like a much-needed fresh start for cry on many accords. 2022 delivered some of the toughest conditions to remember.
 
-### [71. UX And Agile Trends To Keep You On Top In 2020](https://hackernoon.com/ux-and-agile-trends-to-keep-you-on-top-in-2020-bk7o32y1)
+### [70. Kids and Tech: What We Know, What We Don't, And What Parents Can Do](https://hackernoon.com/kids-and-tech-what-we-know-what-we-dont-and-what-parents-can-do-iq2g3542)
+![](https://cdn.hackernoon.com/images/25FD7aJjvQXZmpBWsHFW5JYdjMt1-m41i38uu.jpeg)
+Today, you'd struggle to find a home that doesn't have multiple smart devices. One side effect is that children are being exposed to technology earlier.
+
+### [71. Structural Coercion and the AI Workplace ](https://hackernoon.com/structural-coercion-and-the-ai-workplace)
+![](https://cdn.hackernoon.com/images/sWKQfNxmQ3gv7ZyDsNIoBLSLRs22-p483gb3.jpeg)
+Most workers don't report clear benefit from AI tools pushed into their jobs. The adoption is happening anyway. Huxley predicted exactly this in 1932.
+
+### [72. UX And Agile Trends To Keep You On Top In 2020](https://hackernoon.com/ux-and-agile-trends-to-keep-you-on-top-in-2020-bk7o32y1)
 ![](https://images.unsplash.com/photo-1541462608143-67571c6738dd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The purpose of every product is to be fully functional without forcing users to invest too much time and energy in the process. This is exactly why UX and agile methodologies play such an important role in the 21st century business – everybody wants to design a product that maximizes functionality while minimizing consumers’ efforts.
-
-### [72. Was the Mona Lisa the Result of a Fad?](https://hackernoon.com/was-the-mona-lisa-the-result-of-a-fad-0j4j3uum)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-ss423u68.jpeg?alt=media&token=50c17a8e-67fd-4655-b384-2d9264a20174)
-A picture is worth a thousand words. Throughout history, art has gone through many phases like Romanticism, Classicism and many other types of -isms. These are regarded as styles of painting of those periods. However if you think about it, from a modern perspective, these phases can be considered fads, although the more precise term would be trends, due to their longevity.
 
 ### [73. How to Use Business Intelligence: 66% of Companies Want to Be More Data-Driven in 2021](https://hackernoon.com/how-to-use-business-intelligence-66percent-of-companies-want-to-be-more-data-driven-in-2021)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-b60379g.jpeg)
 How do BI solutions help to make the decision-making process driven by data, improve CX, and speed up reporting? And how can you implement it yourself?  
 
-### [74. Why Implementing Modular Robotic Systems in the CPG Sector is Crucial in 2023](https://hackernoon.com/why-implementing-modular-robotic-systems-in-the-cpg-sector-is-crucial-in-2023)
+### [74. Was the Mona Lisa the Result of a Fad?](https://hackernoon.com/was-the-mona-lisa-the-result-of-a-fad-0j4j3uum)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-ss423u68.jpeg?alt=media&token=50c17a8e-67fd-4655-b384-2d9264a20174)
+A picture is worth a thousand words. Throughout history, art has gone through many phases like Romanticism, Classicism and many other types of -isms. These are regarded as styles of painting of those periods. However if you think about it, from a modern perspective, these phases can be considered fads, although the more precise term would be trends, due to their longevity.
+
+### [75. Why Implementing Modular Robotic Systems in the CPG Sector is Crucial in 2023](https://hackernoon.com/why-implementing-modular-robotic-systems-in-the-cpg-sector-is-crucial-in-2023)
 ![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-gia3qhq.jpeg)
 An interview with Svyat Stesin, the CEO of rexR, a company that designs, produces, and implements high-speed industrial robots and robotic systems
 
-### [75. Revelation Hackathon Bounties Announced: Hosted by BNB Chain ](https://hackernoon.com/revelation-hackathon-bounties-announced-hosted-by-bnb-chain)
+### [76. Revelation Hackathon Bounties Announced: Hosted by BNB Chain ](https://hackernoon.com/revelation-hackathon-bounties-announced-hosted-by-bnb-chain)
 ![](https://cdn.hackernoon.com/images/mUJM7vzqnkhIORj1yR1EqvBjPNI2-3093vqd.jpeg)
 The BNB Chain Revelation Hackathon is a 50-day event co-hosted by DoraHacks.
 
-### [76. Top Tech Trends to Influence Business Recovery in 2022](https://hackernoon.com/top-tech-trends-to-influence-business-recovery-in-2022)
+### [77. Top Tech Trends to Influence Business Recovery in 2022](https://hackernoon.com/top-tech-trends-to-influence-business-recovery-in-2022)
 ![](https://cdn.hackernoon.com/images/GSXGZs6DKwVz4C2rZHNVdUp8fm63-k413aim.jpeg)
 The year of 2021 came to an end, which means it’s time for us to have a look at all the ups and downs that global business has gone through.
 
-### [77. Revelation Hackathon Sponsors, Ankr, Celer, and NodeReal Announce BAS Testnet, a BNB Chain Sidechain](https://hackernoon.com/bnb-chain-ankr-celer-and-nodereal-launch-bas-a-framework-for-creating-sidechains)
+### [78. Revelation Hackathon Sponsors, Ankr, Celer, and NodeReal Announce BAS Testnet, a BNB Chain Sidechain](https://hackernoon.com/bnb-chain-ankr-celer-and-nodereal-launch-bas-a-framework-for-creating-sidechains)
 ![](https://cdn.hackernoon.com/images/mUJM7vzqnkhIORj1yR1EqvBjPNI2-gc932tj.jpeg)
 BSC Application Sidechain (BAS) Testnet is a framework that enables dApps to create sidechains in the BNB Chain ecosystem.
 
-### [78. What Tech Employers Should Know About IT Skills and Trends in 2020](https://hackernoon.com/what-tech-employers-should-know-about-it-skills-and-trends-in-2020-2f5g3yva)
+### [79. What Tech Employers Should Know About IT Skills and Trends in 2020](https://hackernoon.com/what-tech-employers-should-know-about-it-skills-and-trends-in-2020-2f5g3yva)
 ![](https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Intro 
 
-### [79. The World Population Crosses 8 Billion People](https://hackernoon.com/the-world-population-crosses-8-billion-people)
+### [80. The World Population Crosses 8 Billion People](https://hackernoon.com/the-world-population-crosses-8-billion-people)
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-kcf3orw.jpeg)
 A look at the growth trends of the world's 8 billion people and beyond.
 
-### [80. Technology Is Saving The World Amid COVID-19](https://hackernoon.com/technology-is-saving-the-world-amid-covid-19-jd4z3yom)
+### [81. Technology Is Saving The World Amid COVID-19](https://hackernoon.com/technology-is-saving-the-world-amid-covid-19-jd4z3yom)
 ![](https://cdn.hackernoon.com/drafts/h23l3yqe.png)
 Technology - often portrayed as an industry that the benefits only the privileged - is actually helping with the fight against the coronavirus. And we don’t mean Medtech.
 
-### [81. Play-to-Earn Games Regulate Ownership and Support NFT Growth](https://hackernoon.com/play-to-earn-games-regulate-ownership-and-support-nft-growth)
+### [82. Play-to-Earn Games Regulate Ownership and Support NFT Growth](https://hackernoon.com/play-to-earn-games-regulate-ownership-and-support-nft-growth)
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-qh137xt.jpeg)
 Play to Earn games can become a new trend in the video game industry. Find out what Play to Earn games are and how this approach works below.
 
-### [82. How the Pandemic Hacked the Way We Eat Breakfast [Infographic] ](https://hackernoon.com/how-the-pandemic-hacked-the-way-we-eat-breakfast-infographic)
+### [83. How the Pandemic Hacked the Way We Eat Breakfast [Infographic] ](https://hackernoon.com/how-the-pandemic-hacked-the-way-we-eat-breakfast-infographic)
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-pu036xd.jpeg)
 A look at how the pandemic shifted American breakfast trends.
 
-### [83. Blockchain Trends: The Weak Died and the Strong Evolved](https://hackernoon.com/blockchain-trend-in-2019-1-the-weak-died-the-strong-evolved-r28938rn)
+### [84. Blockchain Trends: The Weak Died and the Strong Evolved](https://hackernoon.com/blockchain-trend-in-2019-1-the-weak-died-the-strong-evolved-r28938rn)
 ![](https://cdn.hackernoon.com/drafts/mc8738zp.png)
 1.1 Three Core Characteristics are Vital for Blockchain Technology﻿
 
-### [84. The Rise of Non-Alcoholic Beverages: Trends to Keep an Eye On](https://hackernoon.com/the-rise-of-non-alcoholic-beverages-trends-to-keep-an-eye-on)
+### [85. The Rise of Non-Alcoholic Beverages: Trends to Keep an Eye On](https://hackernoon.com/the-rise-of-non-alcoholic-beverages-trends-to-keep-an-eye-on)
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-il1373m.jpeg)
 Sales of soda drinks in the U.S. have been declining for around a decade while non-alcoholic beverage sales reached $919 billion in just a single year.
 
-### [85. Remember, We Live in the Age of Beta Versions: How to Anticipate Trends and Launch an Online Product](https://hackernoon.com/remember-we-live-in-the-age-of-beta-versions-how-to-anticipate-trends-and-launch-an-online-product)
+### [86. Remember, We Live in the Age of Beta Versions: How to Anticipate Trends and Launch an Online Product](https://hackernoon.com/remember-we-live-in-the-age-of-beta-versions-how-to-anticipate-trends-and-launch-an-online-product)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-gb93wsl.jpeg)
 In today's fast-paced digital landscape, staying ahead of the curve is key to success...
 
-### [86. An Insider's Look at the Fashion of Hollywood: Going Surreal with Season 2 of Euphoria](https://hackernoon.com/an-insiders-look-at-the-fashion-of-hollywood-going-surreal-with-season-2-of-euphoria)
+### [87. An Insider's Look at the Fashion of Hollywood: Going Surreal with Season 2 of Euphoria](https://hackernoon.com/an-insiders-look-at-the-fashion-of-hollywood-going-surreal-with-season-2-of-euphoria)
 ![](https://cdn.hackernoon.com/images/ghoqyKXcSpPVImwrUESYYsybnJJ2-c573aup.jpeg)
 Hit-show Euphoria is back with season two, with major fashion changes that always keep us on our toes and pull us closer to the characters.
 
-### [87. Reviewing 2021's Google Shopping Holiday Retail Trends](https://hackernoon.com/reviewing-2021s-google-shopping-holiday-retail-trends)
+### [88. Reviewing 2021's Google Shopping Holiday Retail Trends](https://hackernoon.com/reviewing-2021s-google-shopping-holiday-retail-trends)
 ![](https://cdn.hackernoon.com/images/e2dDeQx9UZbcElAQ7D4ncDfyefs2-9a6375b.jpeg)
 We analyzed Google Ads data for the Holiday shopping season to look at what the trends were for ads, advertised, and sales/discounts in 2021.
 

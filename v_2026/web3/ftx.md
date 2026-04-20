@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ftx](https://hackernoon.com/tagged/ftx)
+### Let's learn about [Ftx](https://hackernoon.com/tagged/ftx) via these 111 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+FTX was a major cryptocurrency exchange that gained significant prominence before its dramatic collapse, sending shockwaves through the entire crypto industry. Its downfall highlighted critical issues concerning regulation, transparency, and risk management in the digital asset space.
+
 ### [1. How Does Cryptocurrency Affect the Global Financial System?](https://hackernoon.com/how-does-cryptocurrency-affect-the-global-financial-system)
 ![](https://cdn.hackernoon.com/images/L0uk1qIUrMf0GCNRe58K2f2qbmB2-zg930xe.jpeg)
 In 2023, the total market cap of all cryptoassets, including stablecoins and tokens, exceeds $1 trillion as reported by CoinMarketCap. 
@@ -129,13 +133,13 @@ Money Laundering and Crypto Scams are a match made in hell.
 ![](https://cdn.hackernoon.com/images/fzCq5YEgXyXMzUyeDwj9DeNu64Z2-y193opy.gif.webp)
 One final and important lesson to be learnt from the FTX debacle and what it signifies from a global macroeconomic and political perspective
 
-### [33. 'Each of the Silos was controlled by Mr. Bankman-Fried'](https://hackernoon.com/each-of-the-silos-was-controlled-by-mr-bankman-fried)
-![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-6va3rhs.jpeg)
-The Corporate Structure of FTX group is incredible complicated, as explained in part 2 of 20 in the Chapter 11 Court Filing of FTX by John Ray. 
-
-### [34. FTX Failure Highlights Value of Defi and DEXs](https://hackernoon.com/ftx-failure-highlights-value-of-defi-and-dexs)
+### [33. FTX Failure Highlights Value of Defi and DEXs](https://hackernoon.com/ftx-failure-highlights-value-of-defi-and-dexs)
 ![](https://cdn.hackernoon.com/images/fyNF0cs3sQSyYhvEdnes5dMptUv1-jla3ryh.jpeg)
 FTX failure shows the value of decentralized finance, DeFi, and decentralized exchanges, DEXs
+
+### [34. 'Each of the Silos was controlled by Mr. Bankman-Fried'](https://hackernoon.com/each-of-the-silos-was-controlled-by-mr-bankman-fried)
+![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-6va3rhs.jpeg)
+The Corporate Structure of FTX group is incredible complicated, as explained in part 2 of 20 in the Chapter 11 Court Filing of FTX by John Ray. 
 
 ### [35. 4 silos, 103 subsidiaries, 13 entities in-debt: That is the Corporate Structure of FTX](https://hackernoon.com/4-silos-103-subsidiaries-13-entities-in-debt-that-is-the-corporate-structure-of-ftx)
 ![](https://cdn.hackernoon.com/images/its-a-maze-clam5q5sz000101s65ol0b8e0.png)
@@ -190,25 +194,25 @@ When your nickname is in the official filing by the SEC, you know you're in big 
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-gb93rps.jpeg)
 FTX + SBF Chapter 11 (Bankruptcy) Court Filing by John J. Ray III, Nov 17, 2022 is part of HackerNoon’s Legal PDF Series. 
 
-### [48. Crypto Industry Secrets: Shadow Debt Market](https://hackernoon.com/crypto-industry-secrets-shadow-debt-market)
-![](https://cdn.hackernoon.com/images/0CGwb8UgNaRccuSFJRKWy6lEpHB2-v493v9n.jpeg)
-Hidden behind the public view is one of crypto industry’s biggest secrets, the Shadow Debt Market.
-
-### [49. HR nightmare: It's impossible to fetch a complete list of FTX employees or contractors](https://hackernoon.com/hr-nightmare-its-impossible-to-fetch-a-complete-list-of-ftx-employees-or-contractors)
+### [48. HR nightmare: It's impossible to fetch a complete list of FTX employees or contractors](https://hackernoon.com/hr-nightmare-its-impossible-to-fetch-a-complete-list-of-ftx-employees-or-contractors)
 ![](https://cdn.hackernoon.com/images/hr-nightmare-who-even-works-here-clam1qpu2000001s6dxafd7fe.png)
 FTX + SBF Chapter 11 (Bankruptcy) Court Filing by John J. Ray III, Nov 17, 2022 is part of HackerNoon’s Legal PDF Series. Part 11/20: Human Resources
+
+### [49. Crypto Industry Secrets: Shadow Debt Market](https://hackernoon.com/crypto-industry-secrets-shadow-debt-market)
+![](https://cdn.hackernoon.com/images/0CGwb8UgNaRccuSFJRKWy6lEpHB2-v493v9n.jpeg)
+Hidden behind the public view is one of crypto industry’s biggest secrets, the Shadow Debt Market.
 
 ### [50. FTX Invested in the Billions in many projects, but kept little to no records](https://hackernoon.com/ftx-invested-in-the-billions-in-many-projects-but-kept-little-to-no-records)
 ![](https://cdn.hackernoon.com/images/assets-and-investments-clam4137a000301s6axtl5gs0.png)
 FTX + SBF Chapter 11 Court Filing by John J. Ray III, Nov 17, 2022 is part of HackerNoon’s Legal PDF Series. Part 14/20: Custody of Other Assets & Investments
 
-### [51. Reliability: What to Look For in a Crypto Exchange](https://hackernoon.com/reliability-what-to-look-for-in-a-crypto-exchange)
-![](https://cdn.hackernoon.com/images/l2eAYc6mZ4MZ1oc7JNZ3j2rWfTH2-dka3swy.jpeg)
-In November of 2022, the stunning collapse of the world’s 3rd largest crypto exchange, FTX, sent shockwaves through the volatile cryptocurrency industry, leaving investors with jitters over the safety of their digital assets. According to blockchain analytics firm Nansen, customers of Binance, the world’s largest crypto exchange, withdrew almost 2 billion dollars’ worth of crypto in a single day and $8.7 billion within a week in the wake of FTX’s downfall.
-
-### [52. Ellison & Wang shall face Trial by Jury, per SEC lawsuit ](https://hackernoon.com/ellison-and-wang-shall-face-trial-by-jury-per-sec-lawsuit)
+### [51. Ellison & Wang shall face Trial by Jury, per SEC lawsuit ](https://hackernoon.com/ellison-and-wang-shall-face-trial-by-jury-per-sec-lawsuit)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-jh93qzs.jpeg)
 SEC v. Ellison and Wang is part of HackerNoon’s Legalpdf Series. This is part 12 of 12- Claims for Relief and Jury Demand.
+
+### [52. Reliability: What to Look For in a Crypto Exchange](https://hackernoon.com/reliability-what-to-look-for-in-a-crypto-exchange)
+![](https://cdn.hackernoon.com/images/l2eAYc6mZ4MZ1oc7JNZ3j2rWfTH2-dka3swy.jpeg)
+In November of 2022, the stunning collapse of the world’s 3rd largest crypto exchange, FTX, sent shockwaves through the volatile cryptocurrency industry, leaving investors with jitters over the safety of their digital assets. According to blockchain analytics firm Nansen, customers of Binance, the world’s largest crypto exchange, withdrew almost 2 billion dollars’ worth of crypto in a single day and $8.7 billion within a week in the wake of FTX’s downfall.
 
 ### [53. There was no digital security at FTX; a group email was used as key to all assets](https://hackernoon.com/there-was-no-digital-security-at-ftx-a-group-email-was-used-as-key-to-all-assets)
 ![](https://cdn.hackernoon.com/images/group-email-as-private-keys-clam3gkbp000001s678p94b5n.png)
@@ -226,13 +230,13 @@ SEC v. Ellison and Wang is part of HackerNoon’s Legalpdf Series. This is the t
 ![](https://cdn.hackernoon.com/images/d3fMP3ViaHTmr2TU6Zc007QRXE93-5u93k1d.jpeg)
 The failure of the cryptocurrency platform FTX dealt a severe blow to the industry, with the bankruptcy proceedings involving the largest number of creditors ever recorded in such a case. Although one might assume that the sector would prefer to move on from this setback swiftly, why is there now an increasing demand to revive the fraudulent exchange?
 
-### [57. Crypto Market Outlook: Looking Back to Forge New Milestones](https://hackernoon.com/crypto-market-outlook-looking-back-to-forge-new-milestones)
-![](https://cdn.hackernoon.com/images/a-mountain-with-a-bitcoin-coin-at-the-peak-clb0athuh000101s6h92ucw1i.png)
-The industry has been hit month after month, with 25 crypto exchanges shutting their doors. 
-
-### [58. In Plain English: SBF allegedly misappropriated FTX Customers' Deposits to Fund Alameda](https://hackernoon.com/grand-jury-charges-sbf-with-conspiracy-to-commit-wire-fraud-on-customers)
+### [57. In Plain English: SBF allegedly misappropriated FTX Customers' Deposits to Fund Alameda](https://hackernoon.com/grand-jury-charges-sbf-with-conspiracy-to-commit-wire-fraud-on-customers)
 ![](https://cdn.hackernoon.com/images/wire-fraud-clbpx3hh0000001s6blxr2xzr.png)
 The defendant, willfully and knowingly did combine, conspire, confederate, and agree together and with each other to commit wire fraud.
+
+### [58. Crypto Market Outlook: Looking Back to Forge New Milestones](https://hackernoon.com/crypto-market-outlook-looking-back-to-forge-new-milestones)
+![](https://cdn.hackernoon.com/images/a-mountain-with-a-bitcoin-coin-at-the-peak-clb0athuh000101s6h92ucw1i.png)
+The industry has been hit month after month, with 25 crypto exchanges shutting their doors. 
 
 ### [59. FTX? Crypto Winter? - But Some TVLs Keep Rising](https://hackernoon.com/ftx-crypto-winter-but-some-tvls-keep-rising)
 ![](https://cdn.hackernoon.com/images/BGPJgyOxZXdpI9mLj83kvUHMgtS2-gu93rph.jpeg)
@@ -254,25 +258,25 @@ Sometimes we all need to remember the 'old-school' rules apply to crypto, just a
 ![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-rw93sb7.jpeg)
 The adoption of cryptocurrency into the mainstream is not going to be easy. There is going to be some real pain. The path will be zigzag.
 
-### [64. Crypto Shadow Banking: Visualizing the Contagion and Collapse](https://hackernoon.com/crypto-shadow-banking-visualizing-the-contagion-and-collapse)
-![](https://cdn.hackernoon.com/images/0CGwb8UgNaRccuSFJRKWy6lEpHB2-5e93vmn.jpeg)
-This article explains the main players and their relationships that explain the contagion and collapse of crypto shadow banking.
-
-### [65. My Top 7 WTF Learnings from the FTX/SBF Chapter 11 Filing](https://hackernoon.com/my-top-7-wtf-learnings-from-the-ftxsbf-chapter-11-filing)
+### [64. My Top 7 WTF Learnings from the FTX/SBF Chapter 11 Filing](https://hackernoon.com/my-top-7-wtf-learnings-from-the-ftxsbf-chapter-11-filing)
 ![](https://cdn.hackernoon.com/images/decentralization-or-centralization-of-the-finance-system-white-boy-clamv2jao000301s61wjq1eeg.png)
 Feature Image: ‘centralization or decentralization of finance, white boy’, midjourney AI
+
+### [65. Crypto Shadow Banking: Visualizing the Contagion and Collapse](https://hackernoon.com/crypto-shadow-banking-visualizing-the-contagion-and-collapse)
+![](https://cdn.hackernoon.com/images/0CGwb8UgNaRccuSFJRKWy6lEpHB2-5e93vmn.jpeg)
+This article explains the main players and their relationships that explain the contagion and collapse of crypto shadow banking.
 
 ### [66. What SBF would have testified in front of Congress](https://hackernoon.com/what-sbf-would-have-testified-in-front-of-congress)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-5o93ptj.jpeg)
 Unfortunately, we never got to hear these words. Fortunately, SBF has said essentially all these in multiple PR interviews leading up to his arrest. 
 
-### [67. SBF owned 90% of Alameda. He WAS Alameda's main decision maker. ](https://hackernoon.com/sbf-owned-90percent-of-alameda-he-was-alamedas-main-decision-maker)
-![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-pd93qac.jpeg)
-SEC v. Ellison and Wang is part of HackerNoon’s Legalpdf Series. This is part 6 of 12- RELEVANT PARTIES AND ENTITIES.
-
-### [68. 'I would like to start by formally stating, under oath: I fucked up'](https://hackernoon.com/i-would-like-to-start-by-formally-stating-under-oath-i-fucked-up)
+### [67. 'I would like to start by formally stating, under oath: I fucked up'](https://hackernoon.com/i-would-like-to-start-by-formally-stating-under-oath-i-fucked-up)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-8o93pvw.jpeg)
 What SBF would have said had he testified before congress - Part 1 of 11. 
+
+### [68. SBF owned 90% of Alameda. He WAS Alameda's main decision maker. ](https://hackernoon.com/sbf-owned-90percent-of-alameda-he-was-alamedas-main-decision-maker)
+![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-pd93qac.jpeg)
+SEC v. Ellison and Wang is part of HackerNoon’s Legalpdf Series. This is part 6 of 12- RELEVANT PARTIES AND ENTITIES.
 
 ### [69. 'I do not have confidence in it', says John Ray re/ FTX US Financials](https://hackernoon.com/i-do-not-have-confidence-in-it-says-john-ray-of-ftx-us-balance-sheet)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-ki93rzq.jpeg)
@@ -282,21 +286,21 @@ FTX + SBF Chapter 11 (Bankruptcy) Court Filing by John J. Ray III, Nov 17, 2022 
 ![](https://cdn.hackernoon.com/images/my-land-not-your-land-clbpopt5c000001s69xlf7xl9.png)
 What SBF would have testified in front of Congress - part 10 of 11 - Misstatements
 
-### [71. The Noonification: FTX: The Greatest Crypto Magic Trick in the World 🪄 (12/9/2022)](https://hackernoon.com/12-9-2022-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-12/9/2022: Top 5 stories on the Hackernoon homepage!
+### [71. Binance and FTX: How All Developed and Was It a Well-Crafted Plan of CZ?](https://hackernoon.com/binance-and-ftx-how-all-developed-and-was-it-a-well-crafted-plan-of-cz)
+![](https://cdn.hackernoon.com/images/LfIWgEvv7eQxowzxo2fYPBh2gAo1-ujj3qxk.jpeg)
+When FTX froze withdrawals and seemed to collapse, Binance stepped in and saved its rival from bankruptcy by offering to purchase it. Was it planned by CZ? 
 
 ### [72. SBF knowingly diverted FTX customers' funds to fuel Alameda's growth and raise billions, per lawsuit](https://hackernoon.com/sbf-knowingly-diverted-ftx-customers-funds-to-fuel-alamedas-growth-and-raise-billions-per-lawsuit)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-0993q84.jpeg)
 The fraud was a feature, not a bug. SBF knew about it because he was its chief architect and decision maker from the getgo. 
 
-### [73. FTX Is Not the Only Reason. What Is Happening in the Crypto Market, and How to Look Into the Future](https://hackernoon.com/ftx-is-not-the-only-reason-what-is-happening-in-the-crypto-market-and-how-to-look-into-the-future)
+### [73. The Noonification: FTX: The Greatest Crypto Magic Trick in the World 🪄 (12/9/2022)](https://hackernoon.com/12-9-2022-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+12/9/2022: Top 5 stories on the Hackernoon homepage!
+
+### [74. FTX Is Not the Only Reason. What Is Happening in the Crypto Market, and How to Look Into the Future](https://hackernoon.com/ftx-is-not-the-only-reason-what-is-happening-in-the-crypto-market-and-how-to-look-into-the-future)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-1h93ohr.jpeg)
 This year was truly a shock for many, and this is not only about geopolitics but also about the situation in the cryptocurrency market. Crypto investors lost more than $2 trillion in a year. First Terra/Luna, now FTX shock. I will try to tell you without panic what happened, what preceded it, and what can be expected.
-
-### [74. Binance and FTX: How All Developed and Was It a Well-Crafted Plan of CZ?](https://hackernoon.com/binance-and-ftx-how-all-developed-and-was-it-a-well-crafted-plan-of-cz)
-![](https://cdn.hackernoon.com/images/LfIWgEvv7eQxowzxo2fYPBh2gAo1-ujj3qxk.jpeg)
-When FTX froze withdrawals and seemed to collapse, Binance stepped in and saved its rival from bankruptcy by offering to purchase it. Was it planned by CZ? 
 
 ### [75. Crypto winter did not spare FTX or Alameda, although SBF pretended that it didn't](https://hackernoon.com/crypto-winter-did-not-spare-ftx-or-alameda-although-sbf-pretended-that-it-didnt)
 ![](https://cdn.hackernoon.com/images/god-complex-clc8p386z000001s6233pb1ql.png)
@@ -326,65 +330,65 @@ Let’s be honest, the crypto market has been facing several significant shocks 
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-1693pxb.jpeg)
 SEC v. Ellison and Wang is part of HackerNoon’s Legalpdf Series. This is part 2 of 12- VIOLATIONS.
 
-### [82. The Crypto Market Digestion of 2022 and Prospects of the New Year  ](https://hackernoon.com/the-crypto-market-digestion-of-2022-and-prospects-of-the-new-year)
-![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-41c3ezy.jpeg)
-The crypto market saw a significant downturn in 2022, with most digital assets, including BTC and ETH, losing over 65% in value. The market began the year with BTC trading in the range of $37,000 to $47,000, but this range was broken in Q2 following Terra's collapse, which coincided with  a decline in the US stock market. 
-
-### [83. WTF happened, according to SBF](https://hackernoon.com/wtf-happened-according-to-sbf)
+### [82. WTF happened, according to SBF](https://hackernoon.com/wtf-happened-according-to-sbf)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-7z93p91.jpeg)
 What SBF would have testified in front of Congress - Part 2 of 11. 
+
+### [83. The Crypto Market Digestion of 2022 and Prospects of the New Year  ](https://hackernoon.com/the-crypto-market-digestion-of-2022-and-prospects-of-the-new-year)
+![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-41c3ezy.jpeg)
+The crypto market saw a significant downturn in 2022, with most digital assets, including BTC and ETH, losing over 65% in value. The market began the year with BTC trading in the range of $37,000 to $47,000, but this range was broken in Q2 following Terra's collapse, which coincided with  a decline in the US stock market. 
 
 ### [84. Nobody knew how much cash FTX held, according to Chapter 11 Filing](https://hackernoon.com/nobody-knew-how-much-cash-ftx-held-according-to-chapter-11-filing)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-hna3r0t.jpeg)
 FTX + SBF Chapter 11 (Bankruptcy) Court Filing by John J. Ray III, Nov 17, 2022 is part of HackerNoon’s Legal PDF Series. Part 9/20: Cash Management
 
-### [85. The Difference Between a CEX and a DEX: Exploring the Pros and Cons](https://hackernoon.com/the-difference-between-a-cex-and-a-dex-exploring-the-pros-and-cons)
-![](https://cdn.hackernoon.com/images/Bm6Dk7O9xqaIxfKLbfh8LQkOJos2-zzd3x4d.jpeg)
-The Difference Between a CEX and a DEX: Exploring the Pros and Cons of centralized and decentralized crypto exchanges.
-
-### [86. Grand Jury charges SBF with Conspiracy to Commit Commodities Fraud](https://hackernoon.com/grand-jury-charges-sbf-with-conspiracy-to-commit-commodities-fraud)
+### [85. Grand Jury charges SBF with Conspiracy to Commit Commodities Fraud](https://hackernoon.com/grand-jury-charges-sbf-with-conspiracy-to-commit-commodities-fraud)
 ![](https://cdn.hackernoon.com/images/commodities-fraud-clbq6zi6p000101s623kb9pxk.png)
 Commodities fraud refer to possible price manipulation of digital assets. 
+
+### [86. The Difference Between a CEX and a DEX: Exploring the Pros and Cons](https://hackernoon.com/the-difference-between-a-cex-and-a-dex-exploring-the-pros-and-cons)
+![](https://cdn.hackernoon.com/images/Bm6Dk7O9xqaIxfKLbfh8LQkOJos2-zzd3x4d.jpeg)
+The Difference Between a CEX and a DEX: Exploring the Pros and Cons of centralized and decentralized crypto exchanges.
 
 ### [87. SBF was pressured to file for Chapter 11 bankruptcy against his wishes, apparently ](https://hackernoon.com/sbf-was-pressured-to-file-for-chapter-11-bankruptcy-against-his-wishes-apparently)
 ![](https://cdn.hackernoon.com/images/I805mwe4zWfh1xRiMR7D9IHRLbm1-k5a3oix.jpeg)
 What SBF would have testified in front of Congress - Part 7 of 11: Chapter 11.
 
-### [88. SBF blamed market conditions for Alameda's insolvency ](https://hackernoon.com/sbf-blamed-market-conditions-for-alamedas-insolvency)
-![](https://cdn.hackernoon.com/images/classic-hedge-fund-risks-clboyfvfz000201s66fd5djx2.png)
-What SBF would have testified in front of Congress - part 3 of 11: What Went Wrong with Alameda. 
-
-### [89. Musk's Twitter, Creator Economy, and The Importance of Citizen Journalism](https://hackernoon.com/musks-twitter-creator-economy-and-the-importance-of-citizen-journalism)
+### [88. Musk's Twitter, Creator Economy, and The Importance of Citizen Journalism](https://hackernoon.com/musks-twitter-creator-economy-and-the-importance-of-citizen-journalism)
 ![](https://cdn.hackernoon.com/images/uwdds9GP9oRGK8rZBtabE59fB8P2-82a3qoy.jpeg)
 Musk's Twitter, Creator Economy, and The Importance of Citizen Journalism
+
+### [89. SBF blamed market conditions for Alameda's insolvency ](https://hackernoon.com/sbf-blamed-market-conditions-for-alamedas-insolvency)
+![](https://cdn.hackernoon.com/images/classic-hedge-fund-risks-clboyfvfz000201s66fd5djx2.png)
+What SBF would have testified in front of Congress - part 3 of 11: What Went Wrong with Alameda. 
 
 ### [90. The Tweet Bankruptcy-splaining Thread by Scam Bankman Fraud ](https://hackernoon.com/the-tweet-bankruptcy-splaining-thread-by-scam-bankman-fraud)
 ![](https://cdn.hackernoon.com/images/the-real-tweet-bankruptcy-splaining-thread-by-scam-bankman-fraud-clalb4ki5000001s6ez5o8lq5.png)
 Real what former FTX CEO Sam Bankman Fried is saying about allegedly defrauding millions of retail cryptocurrency investors. 
 
-### [91. SBF explained FTX's failure to display Alameda's positions on its dashboard as an 'accounting quirk'](https://hackernoon.com/sbf-explained-ftxs-failure-to-display-alamedas-positions-on-its-dashboard-as-an-accounting-quirk)
-![](https://cdn.hackernoon.com/images/historical-accounting-quirks-clboywmlb000001s6firug93w.png)
-What SBF would have testified in front of congress, part 4 of 11: Failures of FTX's internal controls. 
-
-### [92. Non-Liquidating Accounts; A Dirty Secret in Crypto](https://hackernoon.com/non-liquidating-accounts-a-dirty-secret-in-crypto)
-![](https://cdn.hackernoon.com/images/0CGwb8UgNaRccuSFJRKWy6lEpHB2-va93xib.jpeg)
-Non-liquidation trading accounts are one of crypto industry's biggest secrets, where market makers & large traders can have massive losses without consequences.
-
-### [93. SBF knowingly 'devised a scheme' to defraud Alameda investors, per Grand Jury Indictment ](https://hackernoon.com/sbf-knowingly-devised-a-scheme-to-defraud-alameda-investors-per-grand-jury-indictment)
+### [91. SBF knowingly 'devised a scheme' to defraud Alameda investors, per Grand Jury Indictment ](https://hackernoon.com/sbf-knowingly-devised-a-scheme-to-defraud-alameda-investors-per-grand-jury-indictment)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-gn93qdg.jpeg)
 Among the 8 counts of charges against SBF, this is Count 3 - conspiracy to commit Wire Fraud against lenders. 
 
-### [94. Will We Ever See Crypto Bounce Back After the FTX Scandal?](https://hackernoon.com/will-we-ever-see-crypto-bounce-back-after-the-ftx-scandal)
-![](https://cdn.hackernoon.com/images/1AC0PIxW3wSr2ufhnlZVWTHr0qD2-u283ymu.jpeg)
-The path forward after FTX will likely be marked by greater regulation, increased transparency, and more cautious investment strategies.
+### [92. SBF explained FTX's failure to display Alameda's positions on its dashboard as an 'accounting quirk'](https://hackernoon.com/sbf-explained-ftxs-failure-to-display-alamedas-positions-on-its-dashboard-as-an-accounting-quirk)
+![](https://cdn.hackernoon.com/images/historical-accounting-quirks-clboywmlb000001s6firug93w.png)
+What SBF would have testified in front of congress, part 4 of 11: Failures of FTX's internal controls. 
 
-### [95. In Crypto, Businesses Die but the Protocols Persist](https://hackernoon.com/in-crypto-businesses-die-but-the-protocols-persist)
+### [93. Non-Liquidating Accounts; A Dirty Secret in Crypto](https://hackernoon.com/non-liquidating-accounts-a-dirty-secret-in-crypto)
+![](https://cdn.hackernoon.com/images/0CGwb8UgNaRccuSFJRKWy6lEpHB2-va93xib.jpeg)
+Non-liquidation trading accounts are one of crypto industry's biggest secrets, where market makers & large traders can have massive losses without consequences.
+
+### [94. In Crypto, Businesses Die but the Protocols Persist](https://hackernoon.com/in-crypto-businesses-die-but-the-protocols-persist)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-l6a3t2p.jpeg)
 The biggest crypto lending platform, trading firm, broker, and #2 crypto exchange all collapsed. Yet, crypto persists. How? Why? 
 
-### [96. FTX handled $15 billion USD in assets, or '~10% of global volume for crypto trading', claimed SBF ](https://hackernoon.com/ftx-handled-$15-billion-usd-in-assets-or-10percent-of-global-volume-for-crypto-trading-claimed-sbf)
+### [95. FTX handled $15 billion USD in assets, or '~10% of global volume for crypto trading', claimed SBF ](https://hackernoon.com/ftx-handled-$15-billion-usd-in-assets-or-10percent-of-global-volume-for-crypto-trading-claimed-sbf)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-6jb3rxj.jpeg)
 FTX + SBF Chapter 11 (Bankruptcy) Court Filing by John J. Ray III, Nov 17, 2022 is part of HackerNoon’s Legal PDF Series. This is Part 6/20: the dotcom silo
+
+### [96. Will We Ever See Crypto Bounce Back After the FTX Scandal?](https://hackernoon.com/will-we-ever-see-crypto-bounce-back-after-the-ftx-scandal)
+![](https://cdn.hackernoon.com/images/1AC0PIxW3wSr2ufhnlZVWTHr0qD2-u283ymu.jpeg)
+The path forward after FTX will likely be marked by greater regulation, increased transparency, and more cautious investment strategies.
 
 ### [97. The Biggest CeFi Debacles of 2022 and the Lessons They Teach Us](https://hackernoon.com/the-biggest-cefi-debacles-of-2022-and-the-lessons-they-teach)
 ![](https://cdn.hackernoon.com/images/SNkDpvdu7pTt1J6clyL9fJIE0Jo2-h993sex.jpeg)
@@ -422,25 +426,25 @@ UNITED STATES OF AMERICA v. SAMUEL BANKMAN-FRIED Court Filing Lewis A. Kaplan, D
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 11/16/2022: Top 5 stories on the Hackernoon homepage!
 
-### [106. FTX Token $FTT Wiki: Coin History, Techstack, and Crypto News](https://hackernoon.com/ftx-token-$ftt-wiki-coin-history-techstack-and-crypto-news)
-![](https://cdn.hackernoon.com/images/iCVNHFbhZHXvq4A42wbDdzBjtZH3-eca3olx.jpeg)
-FTX is a coin trading and exchange platform that allows tokens, features and OTC tokens to be exchanged freely.
-
-### [107. The Spectacular Collapse that Keeps on Teaching: More Lessons From the FTX Failure  ](https://hackernoon.com/the-spectacular-collapse-that-keeps-on-teaching-more-lessons-from-the-ftx-failure)
+### [106. The Spectacular Collapse that Keeps on Teaching: More Lessons From the FTX Failure  ](https://hackernoon.com/the-spectacular-collapse-that-keeps-on-teaching-more-lessons-from-the-ftx-failure)
 ![](https://cdn.hackernoon.com/images/XUoO0NuMTTMIYqK1kG0MOAZHaX83-6r93re6.jpeg)
 The collapse of FTX offers important lessons on accounting, true decentralization, and the need for corporate governance.
+
+### [107. FTX Token $FTT Wiki: Coin History, Techstack, and Crypto News](https://hackernoon.com/ftx-token-$ftt-wiki-coin-history-techstack-and-crypto-news)
+![](https://cdn.hackernoon.com/images/iCVNHFbhZHXvq4A42wbDdzBjtZH3-eca3olx.jpeg)
+FTX is a coin trading and exchange platform that allows tokens, features and OTC tokens to be exchanged freely.
 
 ### [108. Embracing Regulation: A Positive Outlook for Blockchain Enthusiasts](https://hackernoon.com/embracing-regulation-a-positive-outlook-for-blockchain-enthusiasts)
 ![](https://cdn.hackernoon.com/images/ZSnNpZ3GejgVSxqs3EyP38vlsLL2-i483zqq.jpeg)
 Gain insights into the balance between regulatory oversight and technological advancement in the cryptocurrency space.
 
-### [109. Hidden From the Public & Regulators: Credit Lines in Crypto Shadow Banking](https://hackernoon.com/hidden-from-the-public-and-regulators-credit-lines-in-crypto-shadow-banking)
-![](https://cdn.hackernoon.com/images/0CGwb8UgNaRccuSFJRKWy6lEpHB2-oh93xlc.jpeg)
-Credit lines for market makers are hidden loans done by the crypto exchanges to enable liquidity for most traded cryptos
-
-### [110. His mistake was that he no longer worked 18 hour days, according to SBF](https://hackernoon.com/his-mistake-was-that-he-no-longer-worked-18-hour-days-according-to-sbf)
+### [109. His mistake was that he no longer worked 18 hour days, according to SBF](https://hackernoon.com/his-mistake-was-that-he-no-longer-worked-18-hour-days-according-to-sbf)
 ![](https://cdn.hackernoon.com/images/hustle-porn-clbp027pt000301s6cjoo5c7f.png)
 What SBF would have testified in front of congress - Part 6 of 11: My mistakes as CEO. 
+
+### [110. Hidden From the Public & Regulators: Credit Lines in Crypto Shadow Banking](https://hackernoon.com/hidden-from-the-public-and-regulators-credit-lines-in-crypto-shadow-banking)
+![](https://cdn.hackernoon.com/images/0CGwb8UgNaRccuSFJRKWy6lEpHB2-oh93xlc.jpeg)
+Credit lines for market makers are hidden loans done by the crypto exchanges to enable liquidity for most traded cryptos
 
 ### [111. Sam Bankman-Fried's Bail Has Been Revoked Allegedly Due to Witness Tampering](https://hackernoon.com/sam-bankman-frieds-bail-has-been-revoked-allegedly-due-to-witness-tampering)
 ![](https://cdn.hackernoon.com/images/FxOPrOy8iKSOrQnduKodRq32HnQ2-tk93tkd.jpeg)

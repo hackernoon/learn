@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [how-to](https://hackernoon.com/tagged/how-to)
+### Let's learn about [How To](https://hackernoon.com/tagged/how-to) via these 159 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+How-to guides are practical tutorials that provide step-by-step instructions on performing specific tasks or achieving particular goals. They are essential for skill development, troubleshooting, and self-learning across various domains.
+
 ### [1. Headless Raspberry Pi Setup](https://hackernoon.com/raspberry-pi-headless-install-462ccabd75d0)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-8103970.jpeg)
 Don’t have an extra keyboard or HDMI cable? Here’s how to do a headless <a href="https://www.raspbian.org/" target="_blank">Raspbian</a> install on your Pi.
@@ -110,13 +114,13 @@ Using Midjourney I created an avatar. I had ChatGPT create a script. ElevenLabs 
 There are many mistakes a new programmer can make. Today, you 
 will learn the most common mistakes that beginners make, and how you can avoid them.
 
-### [28. AI Coding Tools Are Still in the R&D Stage](https://hackernoon.com/ai-coding-tools-are-still-in-the-randd-stage)
-![](https://cdn.hackernoon.com/images/4qClgAKUoGVNSn1MOppgDtZ3zVq2-9l435k9.png)
-According to Stack Overflow's 2024 survey, 76% of developers are using or planning to use AI tools.
-
-### [29. What the Heck Is Malloy?](https://hackernoon.com/what-the-heck-is-malloy)
+### [28. What the Heck Is Malloy?](https://hackernoon.com/what-the-heck-is-malloy)
 ![](https://cdn.hackernoon.com/images/YmHydCcGCzQzUWBvxb6PtrLtiRg1-ep93l1s.png)
 Malloy is a new experimental language for describing data relationships and transformations created by the developer of Looker.
+
+### [29. AI Coding Tools Are Still in the R&D Stage](https://hackernoon.com/ai-coding-tools-are-still-in-the-randd-stage)
+![](https://cdn.hackernoon.com/images/4qClgAKUoGVNSn1MOppgDtZ3zVq2-9l435k9.png)
+According to Stack Overflow's 2024 survey, 76% of developers are using or planning to use AI tools.
 
 ### [30. How to Remove TikTok Watermark in Seconds](https://hackernoon.com/how-to-remove-tiktok-watermark-in-seconds)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-sq9319s.jpeg)
@@ -130,13 +134,13 @@ PHP GD is a library that performs fantastic tasks that helps you to do several t
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-8193pou.jpeg)
 I asked 10 Cryptocurrency Traders how they started, their core skills, the challenges they face and how they can help newbies navigate this path.
 
-### [33. Using Truffle L2 Boxes to Bridge Blockchain Networks ](https://hackernoon.com/using-truffle-l2-boxes-to-bridge-blockchain-networks)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-4393zro.jpeg)
-Building dapps that interoperate between L1s and L2s can be difficult. Let's look at using the Optimism Bridge Truffle Box as a way to make things easier.
-
-### [34. How to Scrape Kasada Protected Websites](https://hackernoon.com/how-to-scrape-kasada-protected-websites)
+### [33. How to Scrape Kasada Protected Websites](https://hackernoon.com/how-to-scrape-kasada-protected-websites)
 ![](https://cdn.hackernoon.com/images/a-robot-reading-a-book-clfxnlway000001s6g7t7hyz8.png)
 How to scrape Kasada-protected websites with Python and other tools, both free and commercial
+
+### [34. Using Truffle L2 Boxes to Bridge Blockchain Networks ](https://hackernoon.com/using-truffle-l2-boxes-to-bridge-blockchain-networks)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-4393zro.jpeg)
+Building dapps that interoperate between L1s and L2s can be difficult. Let's look at using the Optimism Bridge Truffle Box as a way to make things easier.
 
 ### [35. How to Build a GraphQL Data Layer for REST Microservices ](https://hackernoon.com/how-to-build-a-graphql-data-layer-for-rest-microservices)
 ![](https://cdn.hackernoon.com/images/MIq3LAf1OoPW35o7MBmd2s51rcB3-qg13bv8.jpeg)
@@ -215,18 +219,18 @@ A step by step guide  on how to create a React project from scratch, with TypeSc
 ![](https://cdn.hackernoon.com/images/Z7fkxfDpjOT4JTLVKWPSiyFHz1j1-ox92boo.jpeg)
 Blog website using a static site generator Hugo and deploying it to Netlify
 
-### [54. A Nodejs Tutorial: OpenPGP Crypto Functions on a Node API Server](https://hackernoon.com/a-nodejs-tutorial-openpgp-crypto-functions-on-a-node-api-server)
-![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-q3s3r0x.jpeg)
-some generic Pretty Good Privacy (PGP) primitive functions presented as API calls running on a Node https: server.
-
-### [55. A Guide to Self-Hosting Your Own Website Analytics With Umami](https://hackernoon.com/a-guide-to-self-hosting-your-own-website-analytics-with-umami)
+### [54. A Guide to Self-Hosting Your Own Website Analytics With Umami](https://hackernoon.com/a-guide-to-self-hosting-your-own-website-analytics-with-umami)
 ![](https://cdn.hackernoon.com/images/QepJZAyLUDcMpCXcZjnWeHJM7ad2-3693t8p.jpeg)
 Self-host your own website analytics with Umami.
 
-### [56. How to Make a Responsive Mega Menu in HTML CSS](https://hackernoon.com/how-to-make-a-responsive-mega-menu-in-html-css)
+### [55. How to Make a Responsive Mega Menu in HTML CSS](https://hackernoon.com/how-to-make-a-responsive-mega-menu-in-html-css)
 ![](https://cdn.hackernoon.com/images/MoanquIkoEM6FHMfBxh180aartg1-3w93q0x.jpeg)
 In this tutorial, we will learn how to create a mega-menu in HTML/CSS, also called a "dropdown menu".
 
+
+### [56. A Nodejs Tutorial: OpenPGP Crypto Functions on a Node API Server](https://hackernoon.com/a-nodejs-tutorial-openpgp-crypto-functions-on-a-node-api-server)
+![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-q3s3r0x.jpeg)
+some generic Pretty Good Privacy (PGP) primitive functions presented as API calls running on a Node https: server.
 
 ### [57. Using AccessControl.sol [A How-To Guide]](https://hackernoon.com/using-accesscontrolsol-a-how-to-guide-0c3c325t)
 ![](https://cdn.hackernoon.com/drafts/v0tf3228.png)
@@ -300,17 +304,17 @@ When learning how to build a circuit, the breadboard is one of the most basic co
 ![](https://cdn.hackernoon.com/images/VvUjJZCwxhcgD82kAGYtsitUtvj2-hf93kf3.png)
 This is the first article in a series in which we will create an application from scratch and publish it on different platforms.
 
-### [75. No More Heavy RAM Memory Consumption: Apply These 3 Secret Techniques](https://hackernoon.com/no-more-heavy-ram-memory-consumption-apply-these-3-secret-techniques-gwy33m0)
-![](https://cdn.hackernoon.com/images/TRFPK3XpZCd1dMNTH0rDgvHfag92-6zp32xk.png)
-It turns out that running ts-node-dev / ts-node is constantly consuming hundreds of megabytes of RAM - Here's how to fix it
-
-### [76. Handling Files on the Web: A Deep Dive](https://hackernoon.com/handling-files-on-the-web-a-deep-dive)
+### [75. Handling Files on the Web: A Deep Dive](https://hackernoon.com/handling-files-on-the-web-a-deep-dive)
 ![](https://cdn.hackernoon.com/images/ieSFYSSJpven1pFoBkMi6IdV2CI2-iwb3qqd.jpeg)
  Take a deep dive into file handling in JavaScript, starting by exploring how files work, how to access them, how to upload them to a server, and some third-par
 
-### [77. How To Review a Governance Action](https://hackernoon.com/how-to-review-a-governance-action)
+### [76. How To Review a Governance Action](https://hackernoon.com/how-to-review-a-governance-action)
 ![](https://cdn.hackernoon.com/images/9nMyFjQNicRJ5HwksmBytJBySMi2-z6a3rob.jpeg)
 Governors approving a change should know which functions are being called, what parameters are being used, and what effects these will have.
+
+### [77. No More Heavy RAM Memory Consumption: Apply These 3 Secret Techniques](https://hackernoon.com/no-more-heavy-ram-memory-consumption-apply-these-3-secret-techniques-gwy33m0)
+![](https://cdn.hackernoon.com/images/TRFPK3XpZCd1dMNTH0rDgvHfag92-6zp32xk.png)
+It turns out that running ts-node-dev / ts-node is constantly consuming hundreds of megabytes of RAM - Here's how to fix it
 
 ### [78. How to Build a Web Application: An Outline of the Major Steps](https://hackernoon.com/how-to-build-a-web-application-an-outline-of-the-major-steps-7d4l373x)
 ![](https://cdn.hackernoon.com/images/4x0juqOjgCZLRtuEbrlsQMH8sd43-9vp35oa.png)
@@ -432,13 +436,13 @@ What I wanted to be able to do is just mass upload and display some of these ima
 ![](https://cdn.hackernoon.com/images/a-cartoon-snake-with-question-marks-around-its-head-dihbwxb77wlu4zxvzlohbpyx.png)
 I received the following email a few days ago:
 
-### [108. What Google Thinks About You](https://hackernoon.com/what-google-thinks-about-you)
-![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-9n237vp.jpeg)
-We've all ran to Google to research and checked the suggestions right after typing a few words. In this thread, our community shares their Google's suggestions.
-
-### [109. How to Look and Sound Better in Video Conference](https://hackernoon.com/how-to-look-and-sound-better-in-video-conference-6z4q3yzz)
+### [108. How to Look and Sound Better in Video Conference](https://hackernoon.com/how-to-look-and-sound-better-in-video-conference-6z4q3yzz)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gv82q1y.jpeg)
 Now that we all spend so much time in video conferencing either for work or life, it is critical to make yourself look and sound the best to your colleagues, family and friends. It is not only about self image, but also about having the “real” you projecting the maximum presence remotely. In this article, I would like to introduce a few simple steps to improve your look and sound in video conferencing tools.
+
+### [109. What Google Thinks About You](https://hackernoon.com/what-google-thinks-about-you)
+![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-9n237vp.jpeg)
+We've all ran to Google to research and checked the suggestions right after typing a few words. In this thread, our community shares their Google's suggestions.
 
 ### [110. Homebrew - Explained in Simple English](https://hackernoon.com/homebrew-explained-in-simple-english-751k3yks)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZcvfyVxI3KNhEQxQ9H6wfvhdWlW2-p4463u1n.webp?alt=media&token=0b28fc29-f9ac-4f4a-9074-2cd6271a91e2)
@@ -464,17 +468,17 @@ In this post, we will walk you through how to use Lerna to manage, and publish, 
 ![](https://cdn.hackernoon.com/images/b0dJCdCiIve9u5o9RwhrccshHwC2-3ha3ki7.jpeg)
 API3 has developed an oracle node that is operated by the API Provider. This removes the intermediary node layer, or middleman. 
 
-### [116. 7 Soft Skills You Need for 2023 and How to Develop Them](https://hackernoon.com/7-soft-skills-you-need-for-2023-and-how-to-develop-them)
+### [116. This Is How Easy it Is to Read and Display Images](https://hackernoon.com/this-is-how-easy-it-is-to-read-and-display-images)
+![](https://cdn.hackernoon.com/images/IhwaXpJHotbQjTYSlIjXeTnE7ST2-vkc3k5r.jpeg)
+Working with images is more and more popularized; we are going to take dive into this field, first with the basics and starting with an open CV library. 
+
+### [117. 7 Soft Skills You Need for 2023 and How to Develop Them](https://hackernoon.com/7-soft-skills-you-need-for-2023-and-how-to-develop-them)
 ![](https://cdn.hackernoon.com/images/7w1808IzuEYmT5lSPXBgFUs43Ym2-l193on2.jpeg)
 This post will share seven soft skills programmers can develop to position them for greater success in the new year.
 
-### [117. Git Worktree: How It Can Help You Enhance Your Git Workflow](https://hackernoon.com/git-worktree-how-it-can-help-you-enhance-your-git-workflow)
+### [118. Git Worktree: How It Can Help You Enhance Your Git Workflow](https://hackernoon.com/git-worktree-how-it-can-help-you-enhance-your-git-workflow)
 ![](https://cdn.hackernoon.com/images/3Vna4om76QPQz8Wmb35XIlnD4GG2-7m92csa.jpeg)
 Git worktree allows us to checkout many branches in a git repository. This lets us switch between different branches  without losing our changes.
-
-### [118. This Is How Easy it Is to Read and Display Images](https://hackernoon.com/this-is-how-easy-it-is-to-read-and-display-images)
-![](https://cdn.hackernoon.com/images/IhwaXpJHotbQjTYSlIjXeTnE7ST2-vkc3k5r.jpeg)
-Working with images is more and more popularized; we are going to take dive into this field, first with the basics and starting with an open CV library. 
 
 ### [119. A Guide to Surviving in a Tech Company as a Non-Technical Staff](https://hackernoon.com/a-guide-to-surviving-in-a-tech-company-as-a-non-technical-staff)
 ![](https://cdn.hackernoon.com/images/YrTJ3wk9cUSB5jbv6phVnRIe5lr1-xq93na5.jpeg)
@@ -484,21 +488,21 @@ You have just started working in a prestigious tech  company. But the problem is
 ![](https://cdn.hackernoon.com/images/n5jC2PDrb9hJje5wDf8NTMHI6YY2-fj93ole.jpeg)
 Learn how to edit or update your Outlook signature on desktop, web, and mobile. Quickly change your Outlook signature with these simple steps.
 
-### [121. How to Add Streaming to Your Jamstack Site in Minutes](https://hackernoon.com/how-to-add-streaming-to-your-jamstack-site-in-minutes)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ih93pgh.jpeg)
-A look at how simple it is to use Amazon IVS in a simple Jamstack site.
-
-### [122. Building a Simple Spotify Trends Dashboard with React & Data Viz Libraries](https://hackernoon.com/building-a-simple-spotify-trends-dashboard-with-react-and-data-viz-libraries)
-![](https://cdn.hackernoon.com/images/0bZlWXHhfdeM0Z7NidE5UT71J303-jxk38k8.png)
-A small but useful project that demonstrates how to create a one-page data analytics app.
-
-### [123. How to Design the Hashnode Logo With HTML and CSS](https://hackernoon.com/how-to-design-the-hashnode-logo-with-html-and-css)
+### [121. How to Design the Hashnode Logo With HTML and CSS](https://hackernoon.com/how-to-design-the-hashnode-logo-with-html-and-css)
 ![](https://cdn.hackernoon.com/images/7rdAduifQcWGRnhzEF317ht4Fbv2-uo93t8z.jpeg)
 In this article, we will learn how to recreate the Hashnode Logo using plain HTML/CSS. No JavaScript is involved.
 
-### [124. How to Get Started With Azure OpenAI Services](https://hackernoon.com/how-to-get-started-with-azure-openai-services)
+### [122. How to Add Streaming to Your Jamstack Site in Minutes](https://hackernoon.com/how-to-add-streaming-to-your-jamstack-site-in-minutes)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ih93pgh.jpeg)
+A look at how simple it is to use Amazon IVS in a simple Jamstack site.
+
+### [123. How to Get Started With Azure OpenAI Services](https://hackernoon.com/how-to-get-started-with-azure-openai-services)
 ![](https://cdn.hackernoon.com/images/cdMRGNEQvZYT6a1loPqyXOS12xM2-3ta3p4p.jpeg)
 This is the first article of a series on Azure OpenAI Services. This article describes how to start and brings you directly to Azure OpenAI Service Studio.
+
+### [124. Building a Simple Spotify Trends Dashboard with React & Data Viz Libraries](https://hackernoon.com/building-a-simple-spotify-trends-dashboard-with-react-and-data-viz-libraries)
+![](https://cdn.hackernoon.com/images/0bZlWXHhfdeM0Z7NidE5UT71J303-jxk38k8.png)
+A small but useful project that demonstrates how to create a one-page data analytics app.
 
 ### [125. I Went From Never Reading to 54 Books in a Year, Here's How](https://hackernoon.com/i-went-from-never-reading-to-54-books-in-a-year-heres-how-sp1u31qg)
 ![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-8v1025vz.jpeg)
@@ -520,13 +524,13 @@ Learn how to set up parental controls on your iPhone to protect your child from 
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-5193ra9.gif.webp)
 Vlad Gukasov talks about winning a Noonie!
 
-### [130. Doing Cloud Migration Right: How to Win at Cost Savings, Scalability, and Better Performance](https://hackernoon.com/doing-cloud-migration-right-how-to-win-at-cost-savings-scalability-and-better-performance-yq933gn)
-![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-4pi34la.jpeg)
-Cloud adoption is already mainstream. Your cloud project can be pretty straightforward or incredibly complex. 
-
-### [131. 3 Ways to Become a Better Technical Writing Manager](https://hackernoon.com/3-ways-to-become-a-better-technical-writing-manager)
+### [130. 3 Ways to Become a Better Technical Writing Manager](https://hackernoon.com/3-ways-to-become-a-better-technical-writing-manager)
 ![](https://cdn.hackernoon.com/images/ylnGlTHPFrVo7g2hEomtk5C2j3d2-v202cg4.jpeg)
 In this story, we analyze what makes up the role of a technical writing manager, how to improve your skills, and how to be a brilliant leader.
+
+### [131. Doing Cloud Migration Right: How to Win at Cost Savings, Scalability, and Better Performance](https://hackernoon.com/doing-cloud-migration-right-how-to-win-at-cost-savings-scalability-and-better-performance-yq933gn)
+![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-4pi34la.jpeg)
+Cloud adoption is already mainstream. Your cloud project can be pretty straightforward or incredibly complex. 
 
 ### [132. How to Share Rust Types With TypeScript for WebAssembly in 30 Seconds: A Quick Guide](https://hackernoon.com/how-to-share-rust-types-with-typescript-for-webassembly-in-30-seconds-a-quick-guide)
 ![](https://cdn.hackernoon.com/images/XyqHIwK0xDMOGdIf5iTNW4CrLjb2-h4c3621.jpeg)
@@ -544,27 +548,31 @@ The Problem with Publicly Accessible AWS Resources and how to solve it
 ![](https://cdn.hackernoon.com/images/LY29n1qtC5QZ81u8f9nsyrQZWTy1-cx2m245s.jpeg)
 If you value your time and you don't want to waste it, you must design your Website or App first instead of rushing to program it.
 
-### [136. No Bullsh** Guide to Start a Money Making Blog in 10 Minutes](https://hackernoon.com/no-bullsh-guide-to-start-a-money-making-blog-in-10-minutes-nf463yx5)
-![](https://cdn.hackernoon.com/drafts/6yq3yjz.png)
-Be it for your passion for writing or to help generate an extra income, blogging is your one stop solution.
-
-### [137. Creating A Killer README File: Ultimate Guide](https://hackernoon.com/creating-a-killer-readme-file-ultimate-guide-but331x)
+### [136. Creating A Killer README File: Ultimate Guide](https://hackernoon.com/creating-a-killer-readme-file-ultimate-guide-but331x)
 ![](https://cdn.hackernoon.com/images/LLNXiPKIsZM5IWTNJfmlBf6EZjZ2-138i26l3.jpeg)
 After code comments, the README file is one of the most ubiquitous forms of documentation found in software development today. 
+
+### [137. No Bullsh** Guide to Start a Money Making Blog in 10 Minutes](https://hackernoon.com/no-bullsh-guide-to-start-a-money-making-blog-in-10-minutes-nf463yx5)
+![](https://cdn.hackernoon.com/drafts/6yq3yjz.png)
+Be it for your passion for writing or to help generate an extra income, blogging is your one stop solution.
 
 ### [138. New AI from Google: Bard Image Generation (How-to Use, Review)](https://hackernoon.com/new-ai-from-google-bard-image-generation-how-to-use-review)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-do82l6u.jpeg)
 Stuck creating visuals for your blog? Unleash the power of Bard’s AI image generation! Generate unique, SEO-friendly visuals to boost engagement & traffic.
 
-### [139. How To Install Virtual Media On An iDrac Controller](https://hackernoon.com/how-to-install-virtual-media-on-an-idrac-controller-tq7v3ym9)
-![](https://cdn.hackernoon.com/drafts/sj4p4ytb.png)
-The iDRAC is a Dell remote access controller. This controller allows for remote power cycling, and a virutal console with keyboard, video, and mouse. It also provides a number of ways to roll out an operating system or vmware.
-
-### [140. The Rigours of NFT Game Design](https://hackernoon.com/the-rigours-of-nft-game-design)
+### [139. The Rigours of NFT Game Design](https://hackernoon.com/the-rigours-of-nft-game-design)
 ![](https://cdn.hackernoon.com/images/UbeXM4whHITEQEDq9TfUcGGnO452-e8930x8.jpeg)
 NFT games can come in all sorts of different shapes and sizes. They can be simple on-chain strategy games, advanced and expansive massively multiplayer online
 
-### [141. How I can Save my Insurance Firm During Disaster?](https://hackernoon.com/how-i-can-save-my-insurance-firm-during-disaster-o93wt30hx)
+### [140. SMART Goal-Setting: The Technique to Achieve All Your Goals in 2023](https://hackernoon.com/smart-goal-setting-the-technique-to-achieve-all-your-goals-in-2023)
+![](https://cdn.hackernoon.com/images/smart-goal-setting-the-technique-to-achieve-all-your-goals-in-2023-cldc60395000001s65tl78woe.png)
+Harsh Makadia explains how to achieve your goals in 2023.
+
+### [141. How To Install Virtual Media On An iDrac Controller](https://hackernoon.com/how-to-install-virtual-media-on-an-idrac-controller-tq7v3ym9)
+![](https://cdn.hackernoon.com/drafts/sj4p4ytb.png)
+The iDRAC is a Dell remote access controller. This controller allows for remote power cycling, and a virutal console with keyboard, video, and mouse. It also provides a number of ways to roll out an operating system or vmware.
+
+### [142. How I can Save my Insurance Firm During Disaster?](https://hackernoon.com/how-i-can-save-my-insurance-firm-during-disaster-o93wt30hx)
 ![](https://cdn.hackernoon.com/drafts/cq3ye30uh.png)
 Natural disasters are unpredictable that has the ability to destruct the
 globe entirely. It has so much force that even giant construction can
@@ -572,21 +580,17 @@ get into the ground in seconds, imagine where humans would go. In
 such scenarios, one should stay full secure but preparedness is the
 only way to combat a natural disaster. 
 
-### [142. SMART Goal-Setting: The Technique to Achieve All Your Goals in 2023](https://hackernoon.com/smart-goal-setting-the-technique-to-achieve-all-your-goals-in-2023)
-![](https://cdn.hackernoon.com/images/smart-goal-setting-the-technique-to-achieve-all-your-goals-in-2023-cldc60395000001s65tl78woe.png)
-Harsh Makadia explains how to achieve your goals in 2023.
-
 ### [143. How Does User Experience Leave A Footprint On Your Business?](https://hackernoon.com/how-does-user-experience-leave-a-footprint-on-your-business-q41q3yyv)
 ![](https://cdn.hackernoon.com/images/5gnd3y3g.jpg)
 Everything boils down to customer experience today. Whether it is a mobile application or a website, there is absolutely no way you can turn a blind eye to UX and UI. 
 
-### [144. How Often Should You Post On Instagram?](https://hackernoon.com/how-often-should-you-post-on-instagram-li1e3ugn)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVAXGQbLmqTOWH0sDPEJZUYAukTo2-7849329k.jpeg?alt=media&token=eae09ca4-bc80-4089-b0d7-ef143df5f5f2)
-How often should you post on Instagram? That’s the million dollar question with an easy answer for most, but there’s not a one size fits all approach.
-
-### [145. Unlocking GPU-Accelerated Server-Side Rendering in Remotion With Chrome, Chromium & Puppeteer](https://hackernoon.com/unlocking-gpu-accelerated-server-side-rendering-in-remotion-with-chrome-chromium-and-puppeteer)
+### [144. Unlocking GPU-Accelerated Server-Side Rendering in Remotion With Chrome, Chromium & Puppeteer](https://hackernoon.com/unlocking-gpu-accelerated-server-side-rendering-in-remotion-with-chrome-chromium-and-puppeteer)
 ![](https://cdn.hackernoon.com/images/RHuvedDHs8b4MoHaBn6D9PxtiTB3-7ga2jsu.png)
 Learn How to optimize GPU hardware acceleration for Chrome, Chromium, and Puppeteer on AWS. Enhance performance and smooth rendering in headless mode.
+
+### [145. How Often Should You Post On Instagram?](https://hackernoon.com/how-often-should-you-post-on-instagram-li1e3ugn)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVAXGQbLmqTOWH0sDPEJZUYAukTo2-7849329k.jpeg?alt=media&token=eae09ca4-bc80-4089-b0d7-ef143df5f5f2)
+How often should you post on Instagram? That’s the million dollar question with an easy answer for most, but there’s not a one size fits all approach.
 
 ### [146. A Guide on Staking the Axie Infinity Sidechain](https://hackernoon.com/a-guide-on-staking-the-axie-infinity-sidechain)
 ![](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-qy039vr.png)
@@ -604,13 +608,13 @@ When we draw text, graphics, and other elements on a PDF page (or JPEG, SVG, and
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-4w9q352t.gif)
 Learn how to invest into crypto safely. The world's first diversified crypto fund. Investor tips. Business tips. 
 
-### [150. Introduction to Local Variable Type Inferences: Declare Var, Not War](https://hackernoon.com/introduction-to-local-variable-type-inferences-declare-var-not-war-oy2731uw)
-![](https://cdn.hackernoon.com/images/jUaZ7H8q4Eaa7nCwEGiEuaActit1-i23n3wby.jpeg)
-In this article, I will try to explain Java 10 new feature local variable type inference using reserved type name var.
-
-### [151. What the FORK Are You Doing to That Repository?!](https://hackernoon.com/what-the-fork-are-you-doing-to-that-repository)
+### [150. What the FORK Are You Doing to That Repository?!](https://hackernoon.com/what-the-fork-are-you-doing-to-that-repository)
 ![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-b293twv.jpeg)
 Today, we're going to talk about one of the most important features of GitHub, and that's forking. First of all, what does it mean?
+
+### [151. Introduction to Local Variable Type Inferences: Declare Var, Not War](https://hackernoon.com/introduction-to-local-variable-type-inferences-declare-var-not-war-oy2731uw)
+![](https://cdn.hackernoon.com/images/jUaZ7H8q4Eaa7nCwEGiEuaActit1-i23n3wby.jpeg)
+In this article, I will try to explain Java 10 new feature local variable type inference using reserved type name var.
 
 ### [152. 5 Ways to Use Solar Energy Software : Here Codes the Sun](https://hackernoon.com/5-ways-to-use-solar-energy-software-here-codes-the-sun)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-ag03lus.jpeg)
@@ -624,13 +628,13 @@ In one week, I sold 1,000 copies of my eBook (and maybe you can too). I made $7,
 ![](https://cdn.hackernoon.com/images/l61ol1hTJBfErW28zenWXvgU7l52-zu83027.jpeg)
 Sharing the lessons I learned from hiring an incompetent and unqualified employee.
 
-### [155. How to Build a Technical Blogging Platform with David Smooke and Clever Programming ](https://hackernoon.com/how-to-build-a-technical-blogging-platform-with-david-smooke-and-clever-programming-tz9g3795)
-![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-x3d3o9y.jpeg)
-In this video, Naz will be interviewing the CEO of Hackernoon, David Smooke. Tune in for some insights!
-
-### [156. My Follow-up to Creating a Web Component for Reveal.js ](https://hackernoon.com/my-follow-up-to-creating-a-web-component-for-revealjs)
+### [155. My Follow-up to Creating a Web Component for Reveal.js ](https://hackernoon.com/my-follow-up-to-creating-a-web-component-for-revealjs)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-hj93pob.jpeg)
 An update to my earlier demo of building a web component version of Reveal.js. 
+
+### [156. How to Build a Technical Blogging Platform with David Smooke and Clever Programming ](https://hackernoon.com/how-to-build-a-technical-blogging-platform-with-david-smooke-and-clever-programming-tz9g3795)
+![](https://cdn.hackernoon.com/images/nVngZ358dleXhODUxb76TUgG93M2-x3d3o9y.jpeg)
+In this video, Naz will be interviewing the CEO of Hackernoon, David Smooke. Tune in for some insights!
 
 ### [157. How You Use Tablet Mode on Windows 10](https://hackernoon.com/how-you-use-tablet-mode-on-windows-10-zd173171)
 ![](https://cdn.hackernoon.com/images/J33yYWVPP1bipkEv2CEwK91gsWh2-r0q317t.jpeg)

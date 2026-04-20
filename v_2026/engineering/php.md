@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [php](https://hackernoon.com/tagged/php)
+### Let's learn about [Php](https://hackernoon.com/tagged/php) via these 244 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 The best worst little scripting language since Perl.
 
 ### [1. MariaDB + Phpmyadmin + Docker: Running Local Database](https://hackernoon.com/mariadb-phpmyadmin-docker-running-local-database-ok9q36ji)
@@ -127,13 +129,13 @@ Am I proud of this montage? You bet I am (by the author)
 ![](https://cdn.hackernoon.com/images/ZxYrjLtEfXcqbau0aq9QJo7Kb162-b9033pt.png)
 Building Swarm — open-source exhibition website platform for designers & artists. Easily create, manage, and customize group showcases—no coding required.
 
-### [32. Simple Guide to Generating QR Code in PHP](https://hackernoon.com/simple-guide-to-generating-qr-code-in-php-pu1n3tub)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFVXVpPqpNLYA5UNXJudRRucW6pm2-ai1a2tmu.jpeg?alt=media&token=88dff2ff-bf1c-453f-a83b-318bcfa17190)
-These days, the term QR code is gaining more popularity due to its common use in daily routine life. It is commonly used in online shopping and digital payment. A QR code (Quick Response code) is a two-dimensional Barcode that is first designed in 1994 for use in the automotive industry in Japan.
-
-### [33. Mastering the PHP GD Library - Part 1: Generating an Image ](https://hackernoon.com/generating-an-image-using-the-php-gd-library-part-1)
+### [32. Mastering the PHP GD Library - Part 1: Generating an Image ](https://hackernoon.com/generating-an-image-using-the-php-gd-library-part-1)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-vi93pid.jpeg)
 PHP GD is a library that performs fantastic tasks that helps you to do several things with your image. 
+
+### [33. Simple Guide to Generating QR Code in PHP](https://hackernoon.com/simple-guide-to-generating-qr-code-in-php-pu1n3tub)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFVXVpPqpNLYA5UNXJudRRucW6pm2-ai1a2tmu.jpeg?alt=media&token=88dff2ff-bf1c-453f-a83b-318bcfa17190)
+These days, the term QR code is gaining more popularity due to its common use in daily routine life. It is commonly used in online shopping and digital payment. A QR code (Quick Response code) is a two-dimensional Barcode that is first designed in 1994 for use in the automotive industry in Japan.
 
 ### [34. How to Setup a Powerful PhpStorm Configuration to Improve Laravel Development](https://hackernoon.com/how-to-setup-a-powerful-phpstorm-configuration-to-improve-laravel-development)
 ![](https://cdn.hackernoon.com/images/zg5KqJKmaoa55jd5lFdol5UDODA2-vk92jgt.png)
@@ -339,13 +341,13 @@ I used PHP GD to create, and generate watermark images! Also if you want to know
 ![](https://cdn.hackernoon.com/drafts/972y3yx0.png)
 For any database administrator, being able to employ tools that make the job a bit easier can be the difference between getting everything done by the end of the day and struggling to meet deadlines.
 
-### [85. Evaluating Swoft — A PHP Microservices Framework](https://hackernoon.com/php-microservice-framework-swoft-x7ea30fy)
-![](https://cdn.hackernoon.com/drafts/msdo30ss.png)
-Swoft is a PHP high performance microservice co-routine framework.
-
-### [86. Writing Your First REST API: A How-to Guide](https://hackernoon.com/writing-your-first-web-api-a-how-to-guide-i912343r)
+### [85. Writing Your First REST API: A How-to Guide](https://hackernoon.com/writing-your-first-web-api-a-how-to-guide-i912343r)
 ![](https://cdn.hackernoon.com/images/WJS2k58dZ6eYykgvtkWUl41lNI83-bz4328o3.png)
 As part of my Borum Jot project, I made a Web API for all my front-end platforms to create, retrieve, update, and delete (CRUD) data on the database. In this article, I'll discuss what exactly an API is and how I made my own Web API. 
+
+### [86. Evaluating Swoft — A PHP Microservices Framework](https://hackernoon.com/php-microservice-framework-swoft-x7ea30fy)
+![](https://cdn.hackernoon.com/drafts/msdo30ss.png)
+Swoft is a PHP high performance microservice co-routine framework.
 
 ### [87. How to Add React.js to Laravel](https://hackernoon.com/how-to-add-reactjs-to-laravel)
 ![](https://cdn.hackernoon.com/images/zWaijZTsEGUHlbiQytfM9O3ZypD2-6v93jux.jpeg)
@@ -383,93 +385,93 @@ You've probably heard about Heroku by now, but do you really know how Heroku wor
 ![](https://cdn.hackernoon.com/images/zg5KqJKmaoa55jd5lFdol5UDODA2-sl92j7r.png)
 I believe developers of middle and senior levels should always use these must-haves processes with at least one external data store.
 
-### [96. What LinkedIn Tells Us About Developer Population in the World](https://hackernoon.com/what-linkedin-tells-us-about-developer-population-in-the-world-2j153yr1)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oz82rop.jpeg)
-There are tons of articles about the number of developers in the world. But most of them either lack good methodology or simply borrow statistics from other resources.
-
-### [97. How To Use Mod_Rewrite To Remove Your (.PHP) Extension From Your Work ](https://hackernoon.com/how-to-use-mod_rewrite-to-remove-your-php-extension-from-your-work)
+### [96. How To Use Mod_Rewrite To Remove Your (.PHP) Extension From Your Work ](https://hackernoon.com/how-to-use-mod_rewrite-to-remove-your-php-extension-from-your-work)
 ![](https://cdn.hackernoon.com/images/glJc8wR7pPZxszJ5nouCekLyfcA2-0k02q6r.png)
 Learn how to remove .php extensions from URLs using mod_rewrite in .htaccess, with steps to enable cleaner, SEO-friendly URLs on your Apache server.
+
+### [97. What LinkedIn Tells Us About Developer Population in the World](https://hackernoon.com/what-linkedin-tells-us-about-developer-population-in-the-world-2j153yr1)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oz82rop.jpeg)
+There are tons of articles about the number of developers in the world. But most of them either lack good methodology or simply borrow statistics from other resources.
 
 ### [98. How to Write Your First PHP Code](https://hackernoon.com/how-to-write-your-first-php-code-9f1f33e3)
 ![](https://cdn.hackernoon.com/images/mDsj2387wdN4dArKgC2UNVj38ru1-oc2u33jx.jpeg)
 PHP stands for PHP: Hypertext Preprocessor and is a widely-used, open source server-side scripting language.
 
-### [99. Figuring Out wp-env: Your Guide to Setting Up a WordPress Test Environment](https://hackernoon.com/figuring-out-wp-env-your-guide-to-setting-up-a-wordpress-test-environment)
-![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-odd2t9o.jpeg)
-A step by step guide to setting up wp-env to use to test WordPress elements locally.
-
-### [100. Laravel Vs Symfony: Answering All The Questions To Make a Better Choice](https://hackernoon.com/laravel-vs-symfony-answering-all-the-questions-to-make-a-better-choice)
-![](https://cdn.hackernoon.com/images/RC0dvSHTbpYUDvzcg2wjcLpnDVB3-v8b3p9n.jpeg)
-PHP is highly popular, and needs no introduction. But, so are the frameworks, Laravel, and Symfony. This blog shares detailed insights on the two.
-
-### [101. An Introduction to Docker for Web Development](https://hackernoon.com/an-introduction-to-docker-for-web-development-8z3f3tyl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwpMgmYEsvHPWleC9kTVpIRfgvEO2-hhg2b9d.jpeg?alt=media&token=b4b18231-94dd-4002-86b4-a2f3d2d54cfa)
-This is the introduction to a series that was originally published on tech.osteel.me. Only the introduction was brought to Hacker Noon — links to other parts will take you to that other website.
-
-### [102. Discover the Pros and Cons of the top Web Development Languages](https://hackernoon.com/discover-the-pros-and-cons-of-the-top-web-development-languages)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-9g23ope.jpeg)
-Choosing the correct language for web development can be difficult.
-
-### [103. Why You Don't Need Linux to Develop in PHP](https://hackernoon.com/why-you-dont-need-linux-to-develop-in-php)
-![](https://cdn.hackernoon.com/images/BHRHoIowwTS3yngr5R2TH4ri1K32-ua93r35.jpeg)
-Why you don't need Linux to develop in PHP? With the introduction of Windows Subsystem for Linux 2 (WSL2), PHP development on Windows has become very easy.
-
-### [104. How To Use PHP As A Backend While Using React For Frontend](https://hackernoon.com/how-to-use-php-as-a-backend-while-using-react-for-frontend)
-![](https://cdn.hackernoon.com/images/glJc8wR7pPZxszJ5nouCekLyfcA2-un02wbu.png)
-This tutorial shows how to combine the functionality of a PHP backend and React front-end. The goal is to utilize their respective strengths fully.
-
-### [105. Symfony 7.4: 10 Advanced Logging Patterns You Should Know About](https://hackernoon.com/symfony-74-10-advanced-logging-patterns-you-should-know-about)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-cr83el9.jpeg)
-Master Symfony 7.4 logging: 10 advanced Monolog patterns. Use FingersCrossed, JSON & Attributes to turn text logs into actionable observability data
-
-### [106. Static Analyzers in PHP ](https://hackernoon.com/static-analyzers-in-php)
-![](https://cdn.hackernoon.com/images/static-analyzer-o7hbupzwkxsskw8ljvg3fwyf.png)
-Let's talk about the status analyzers. Comparison of the static analyzers.
-
-### [107. [A Step by Step Guide] Create a Carpooling App with React Native - Part 2: {Creating the Frontend}](https://hackernoon.com/create-a-carpooling-app-with-react-native-part-2-creating-the-frontend-rxd553dpy)
-![](https://cdn.hackernoon.com/images/b1643b9c.jpg)
-Read Part I here
-
-### [108. Setting Up Laravel Unit and Security Tests](https://hackernoon.com/setting-up-laravel-unit-and-security-tests)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1992htu.jpeg)
-This article provides a detailed explanation of Laravel Unit and Security Tests for web applications built using the Laravel framework. It explains the process 
-
-### [109. Configuring Developer Tools and Packages Within PhpStorm For Laravel](https://hackernoon.com/configuring-developer-tools-and-packages-within-phpstorm-for-laravel)
-![](https://cdn.hackernoon.com/images/zg5KqJKmaoa55jd5lFdol5UDODA2-qc92j7s.png)
-In this article, we will also go over and configure anything exclusive to PhpStorm. We start by setting some good defaults, that help with automated code format
-
-### [110. PHP 8: Features, Changes, Improvement, and What To Expect](https://hackernoon.com/php-8-features-changes-improvement-and-what-to-expect-j91g34ih)
-![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-vw9q31t6.jpeg)
-As a Product Owner planning to start a new website or API written on PHP, what does PHP 8 mean for you? What benefits can you realize by upgrading an existing project to PHP 8?
-
-### [111. Write Symfony Commands Like You Write Controllers—Finally](https://hackernoon.com/write-symfony-commands-like-you-write-controllersfinally)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-lw03dom.jpeg)
-Symfony 7.4 makes Console commands expressive and type-safe.
-
-### [112. Passkeys in Symfony 7.4: How to Build a Completely Passwordless Future](https://hackernoon.com/passkeys-in-symfony-74-how-to-build-a-completely-passwordless-future)
+### [99. Passkeys in Symfony 7.4: How to Build a Completely Passwordless Future](https://hackernoon.com/passkeys-in-symfony-74-how-to-build-a-completely-passwordless-future)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-mf83e93.jpeg)
 Learn to implement Apple Passkeys in Symfony 7.4. Secure, passwordless auth guide using PHP 8.x attributes and the web-auth/webauthn-symfony-bundle.
 
-### [113. A Better Way to Monitor Your Laravel Services](https://hackernoon.com/a-better-way-to-monitor-your-laravel-services)
+### [100. Symfony 7.4: 10 Advanced Logging Patterns You Should Know About](https://hackernoon.com/symfony-74-10-advanced-logging-patterns-you-should-know-about)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-cr83el9.jpeg)
+Master Symfony 7.4 logging: 10 advanced Monolog patterns. Use FingersCrossed, JSON & Attributes to turn text logs into actionable observability data
+
+### [101. How To Use PHP As A Backend While Using React For Frontend](https://hackernoon.com/how-to-use-php-as-a-backend-while-using-react-for-frontend)
+![](https://cdn.hackernoon.com/images/glJc8wR7pPZxszJ5nouCekLyfcA2-un02wbu.png)
+This tutorial shows how to combine the functionality of a PHP backend and React front-end. The goal is to utilize their respective strengths fully.
+
+### [102. Figuring Out wp-env: Your Guide to Setting Up a WordPress Test Environment](https://hackernoon.com/figuring-out-wp-env-your-guide-to-setting-up-a-wordpress-test-environment)
+![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-odd2t9o.jpeg)
+A step by step guide to setting up wp-env to use to test WordPress elements locally.
+
+### [103. Laravel Vs Symfony: Answering All The Questions To Make a Better Choice](https://hackernoon.com/laravel-vs-symfony-answering-all-the-questions-to-make-a-better-choice)
+![](https://cdn.hackernoon.com/images/RC0dvSHTbpYUDvzcg2wjcLpnDVB3-v8b3p9n.jpeg)
+PHP is highly popular, and needs no introduction. But, so are the frameworks, Laravel, and Symfony. This blog shares detailed insights on the two.
+
+### [104. Why You Don't Need Linux to Develop in PHP](https://hackernoon.com/why-you-dont-need-linux-to-develop-in-php)
+![](https://cdn.hackernoon.com/images/BHRHoIowwTS3yngr5R2TH4ri1K32-ua93r35.jpeg)
+Why you don't need Linux to develop in PHP? With the introduction of Windows Subsystem for Linux 2 (WSL2), PHP development on Windows has become very easy.
+
+### [105. Discover the Pros and Cons of the top Web Development Languages](https://hackernoon.com/discover-the-pros-and-cons-of-the-top-web-development-languages)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-9g23ope.jpeg)
+Choosing the correct language for web development can be difficult.
+
+### [106. An Introduction to Docker for Web Development](https://hackernoon.com/an-introduction-to-docker-for-web-development-8z3f3tyl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FwpMgmYEsvHPWleC9kTVpIRfgvEO2-hhg2b9d.jpeg?alt=media&token=b4b18231-94dd-4002-86b4-a2f3d2d54cfa)
+This is the introduction to a series that was originally published on tech.osteel.me. Only the introduction was brought to Hacker Noon — links to other parts will take you to that other website.
+
+### [107. Static Analyzers in PHP ](https://hackernoon.com/static-analyzers-in-php)
+![](https://cdn.hackernoon.com/images/static-analyzer-o7hbupzwkxsskw8ljvg3fwyf.png)
+Let's talk about the status analyzers. Comparison of the static analyzers.
+
+### [108. Native JSON Streaming in Symfony: How to Bypass Memory Limits and More](https://hackernoon.com/native-json-streaming-in-symfony-how-to-bypass-memory-limits-and-more)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-6383bs6.jpeg)
+Handling massive JSON payloads no longer requires architectural gymnastics, batch processing scripts, or adding third-party dependencies to your composer.json.
+
+### [109. Setting Up Laravel Unit and Security Tests](https://hackernoon.com/setting-up-laravel-unit-and-security-tests)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1992htu.jpeg)
+This article provides a detailed explanation of Laravel Unit and Security Tests for web applications built using the Laravel framework. It explains the process 
+
+### [110. Write Symfony Commands Like You Write Controllers—Finally](https://hackernoon.com/write-symfony-commands-like-you-write-controllersfinally)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-lw03dom.jpeg)
+Symfony 7.4 makes Console commands expressive and type-safe.
+
+### [111. [A Step by Step Guide] Create a Carpooling App with React Native - Part 2: {Creating the Frontend}](https://hackernoon.com/create-a-carpooling-app-with-react-native-part-2-creating-the-frontend-rxd553dpy)
+![](https://cdn.hackernoon.com/images/b1643b9c.jpg)
+Read Part I here
+
+### [112. Configuring Developer Tools and Packages Within PhpStorm For Laravel](https://hackernoon.com/configuring-developer-tools-and-packages-within-phpstorm-for-laravel)
+![](https://cdn.hackernoon.com/images/zg5KqJKmaoa55jd5lFdol5UDODA2-qc92j7s.png)
+In this article, we will also go over and configure anything exclusive to PhpStorm. We start by setting some good defaults, that help with automated code format
+
+### [113. PHP 8: Features, Changes, Improvement, and What To Expect](https://hackernoon.com/php-8-features-changes-improvement-and-what-to-expect-j91g34ih)
+![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-vw9q31t6.jpeg)
+As a Product Owner planning to start a new website or API written on PHP, what does PHP 8 mean for you? What benefits can you realize by upgrading an existing project to PHP 8?
+
+### [114. A Better Way to Monitor Your Laravel Services](https://hackernoon.com/a-better-way-to-monitor-your-laravel-services)
 ![](https://cdn.hackernoon.com/images/pDUI21JXq3hUt99Uzg6NBXjyGOB2-8k039f0.jpeg)
 Kubernetes or auto scaling can create a bit of mess in your monitoring data. Learn how to monitor your Laravel application by services instead of hostnames.
 
-### [114. How I Tried to Automate Job Applications as a Software Engineer in Canada (and Failed)](https://hackernoon.com/how-i-tried-to-automate-job-applications-as-a-software-engineer-in-canada-and-failed)
+### [115. How I Tried to Automate Job Applications as a Software Engineer in Canada (and Failed)](https://hackernoon.com/how-i-tried-to-automate-job-applications-as-a-software-engineer-in-canada-and-failed)
 ![](https://cdn.hackernoon.com/images/tCXEVEaSkWSIDCzncRobuIJk7b43-k882q5o.jpeg)
 A job hunt quest in a new country, using tech to make the process easier: RSS feeds, server-side scripts, custom Chrome extension and AI to add a personal touch
 
-### [115. Stop Using Entities for Validation: Symfony’s DTO-First Approach](https://hackernoon.com/stop-using-entities-for-validation-symfonys-dto-first-approach)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-ms03b8d.jpeg)
-This article dives deep into the less-traveled paths of the Symfony Validator.
-
-### [116. Development-Friendly Laravel Tools & Resources ](https://hackernoon.com/development-friendly-laravel-tools-and-resources)
-![](https://cdn.hackernoon.com/images/RC0dvSHTbpYUDvzcg2wjcLpnDVB3-5p93pmp.jpeg)
-You can improve your productivity in Laravel by using these developer-friendly tools and resources to cut down on time spent on tedious, avoidable tasks.
-
-### [117. The 10+ Best Tools For Laravel Developers🛠](https://hackernoon.com/the-10-best-tools-for-laravel-developers)
+### [116. The 10+ Best Tools For Laravel Developers🛠](https://hackernoon.com/the-10-best-tools-for-laravel-developers)
 ![](https://cdn.hackernoon.com/images/bFFEe4dIUoXgbouiLfgW9PI9b8q1-ae0372z.jpeg)
 Check out the best tools for Laravel developers to boost the workflow.
+
+### [117. Development-Friendly Laravel Tools & Resources ](https://hackernoon.com/development-friendly-laravel-tools-and-resources)
+![](https://cdn.hackernoon.com/images/RC0dvSHTbpYUDvzcg2wjcLpnDVB3-5p93pmp.jpeg)
+You can improve your productivity in Laravel by using these developer-friendly tools and resources to cut down on time spent on tedious, avoidable tasks.
 
 ### [118. Taking the Harder Path](https://hackernoon.com/taking-the-harder-path-du5y3y77)
 ![](https://cdn.hackernoon.com/drafts/v32kc37wr.png)
@@ -479,53 +481,53 @@ Is almost never the right answer when developing systems, at least the sort that
 ![](https://cdn.hackernoon.com/images/pDUI21JXq3hUt99Uzg6NBXjyGOB2-5303wmr.png)
 It takes just a few lines of code with Neuron to implement your first full featured agent.
 
-### [120. The Ten Best Programming Languages for Beginners to Learn in 2021](https://hackernoon.com/the-ten-best-programming-languages-for-beginners-to-learn-in-2021-in4j31vu)
-![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-5t3k33lg.jpeg)
-Here are my top ten best programming languages to learn first. Start from here, choose your path and get yourself on the road to your dream job.
+### [120. BuT, BuT, BuT aUtH iS HaaRrRrRrRrRd](https://hackernoon.com/but-but-but-auth-is-haarrrrrrrrrd)
+![](https://cdn.hackernoon.com/images/MPkWA2fXUiX5qsfdLCT7oj383Tm2-6c92vbh.jpeg)
+Auth isn't hard. It's boring, red-tapey, a solved problem... but don't call it hard as a blanket statement.
 
 ### [121. An Online PHP & SQL Sandbox That I Created now use ChatGPT to fix your code](https://hackernoon.com/phpize-an-online-php-and-sql-sandbox-that-i-created)
 ![](https://cdn.hackernoon.com/images/a-sandbox-with-sand-castles-cleyz9x8b000001s62sg84547.png)
 PHPize.online is a project I have been working on for the last 2 years. 
 
-### [122. BuT, BuT, BuT aUtH iS HaaRrRrRrRrRd](https://hackernoon.com/but-but-but-auth-is-haarrrrrrrrrd)
-![](https://cdn.hackernoon.com/images/MPkWA2fXUiX5qsfdLCT7oj383Tm2-6c92vbh.jpeg)
-Auth isn't hard. It's boring, red-tapey, a solved problem... but don't call it hard as a blanket statement.
+### [122. The Ten Best Programming Languages for Beginners to Learn in 2021](https://hackernoon.com/the-ten-best-programming-languages-for-beginners-to-learn-in-2021-in4j31vu)
+![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-5t3k33lg.jpeg)
+Here are my top ten best programming languages to learn first. Start from here, choose your path and get yourself on the road to your dream job.
 
 ### [123. Django Vs Laravel: The Ultimate Comparison Guide (2022)](https://hackernoon.com/django-vs-laravel-the-ultimate-comparison-guide-2022)
 ![](https://cdn.hackernoon.com/images/4z5gdgO7I7g1k1jlvl45w0Lv5Tx1-4d93plo.jpeg)
 Are you looking for a comparison and an ultimate guide for Django vs laravel? You got the final destinations with features and benchmarks.
 
-### [124. [A Step by Step Guide] Create a Carpooling App with React Native - Part 1: Setting up the server](https://hackernoon.com/create-a-carpooling-app-with-react-native-part-1-setting-up-the-server-sw193djk)
-![](https://cdn.hackernoon.com/images/il1i3bbp.jpg)
-Read Part II here
-
-### [125. The All-Purpose Programmer: Episode 1 - "Hello World"](https://hackernoon.com/the-all-purpose-programmer-episode-1-hello-world)
-![](https://cdn.hackernoon.com/images/l61lXLP6ciWhnSiMVtVqNgQvDJ62-4903sqf.jpeg)
-I love to learn, I love to code. I'm on a journey to learn (at least the basics of) several new languages to enhance my resume. Join me!
-
-### [126. How To Run Symfony On Google Cloud Run With The Demo App [Step-by-Step Guide]](https://hackernoon.com/how-to-run-symfony-on-google-cloud-run-with-the-demo-app-step-by-step-v9n32o9)
+### [124. How To Run Symfony On Google Cloud Run With The Demo App [Step-by-Step Guide]](https://hackernoon.com/how-to-run-symfony-on-google-cloud-run-with-the-demo-app-step-by-step-v9n32o9)
 ![](https://cdn.hackernoon.com/drafts/ji13328r.png)
 Symfony is without doubts one of the most popular PHP frameworks. It has amazing flexibility and is written in an applaudable modular fashion. Some Symfony components even power other prominent frameworks like Laravel. Running Symfony is a bit tricky at times, especially the permissions of the cache and logs folder, this blog post demystifies running the Symfony Demo App in a docker container and hosting it serverless on Google Cloud Run.
 
-### [127. PHP on Docker from Scratch in 2022](https://hackernoon.com/php-on-docker-from-scratch-in-2022)
+### [125. [A Step by Step Guide] Create a Carpooling App with React Native - Part 1: Setting up the server](https://hackernoon.com/create-a-carpooling-app-with-react-native-part-1-setting-up-the-server-sw193djk)
+![](https://cdn.hackernoon.com/images/il1i3bbp.jpg)
+Read Part II here
+
+### [126. PHP on Docker from Scratch in 2022](https://hackernoon.com/php-on-docker-from-scratch-in-2022)
 ![](https://cdn.hackernoon.com/images/Syb8pJ61mKPGZO7h4wUZ8zlDwJJ3-hrc3nj3.jpeg)
 How to set up a repository with Docker 'from scratch' to develop PHP 8.1 applications in 2022.
 
-### [128. Everything You Can Expect With Symfony 7.4](https://hackernoon.com/everything-you-can-expect-with-symfony-74)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-9o03ben.jpeg)
-Symfony’s Core Team crammed this release with big Developer Experience (DX) improvements, sweet performance gains, and vital architecture tweaks.
+### [127. The All-Purpose Programmer: Episode 1 - "Hello World"](https://hackernoon.com/the-all-purpose-programmer-episode-1-hello-world)
+![](https://cdn.hackernoon.com/images/l61lXLP6ciWhnSiMVtVqNgQvDJ62-4903sqf.jpeg)
+I love to learn, I love to code. I'm on a journey to learn (at least the basics of) several new languages to enhance my resume. Join me!
 
-### [129. "Specified key was too long; max key length is 767 bytes" Error in Laravel](https://hackernoon.com/specified-key-was-too-long-max-key-length-is-767-bytes-error-in-laravel-o7133u5m)
+### [128. "Specified key was too long; max key length is 767 bytes" Error in Laravel](https://hackernoon.com/specified-key-was-too-long-max-key-length-is-767-bytes-error-in-laravel-o7133u5m)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FftUCnMhOe2XTZI6pMhyPHKIZ3Ip1-iv1b23el.jpeg?alt=media&token=33f46439-01da-461f-92c9-807c074565d4)
 One of these issues you might stumble across using the PHP framework Laravel is this one:
 
-### [130. Top 6 PHP Development Tools For 2022](https://hackernoon.com/top-6-php-development-tools-for-2022)
+### [129. Top 6 PHP Development Tools For 2022](https://hackernoon.com/top-6-php-development-tools-for-2022)
 ![](https://cdn.hackernoon.com/images/yEPQ6i4CCAdpczrPlRcHgxdggFC2-of037ko.jpeg)
 PHP tools help improve your website and web applications. We have compiled the list of the best PHP tools used and recommended by many  PHP developers worldwide
 
-### [131. Make Your Application Scalable Optimizing the ORM Performance](https://hackernoon.com/make-your-application-scalable-optimizing-the-orm-performance-pq8q3yn2)
+### [130. Make Your Application Scalable Optimizing the ORM Performance](https://hackernoon.com/make-your-application-scalable-optimizing-the-orm-performance-pq8q3yn2)
 ![](images/2c1h32pq.jpg)
 In this article I would share a set of ORMs optimization strategies that I'm using in almost every backend service I'm working on.
+
+### [131. Comparing Node.js and PHP in 2022: Between Modernity and Tradition](https://hackernoon.com/comparing-nodejs-and-php-in-2022-between-modernity-and-tradition)
+![](https://cdn.hackernoon.com/images/6EORd3lScrVTxxVB0ulAUeFzv0E2-uh93jcg.jpeg)
+Want to know advantages, weak sides, and the types of projects that will better suit NODE.JS or PHP? Read our article!
 
 ### [132. Sending Emails in PHP](https://hackernoon.com/how-to-send-emails-in-php)
 ![](https://cdn.hackernoon.com/images/bsM9zYoeeNQuIt7EG6jLMc0Ss9Q2-1na3k3t.jpeg)
@@ -535,435 +537,451 @@ In this article, we’re going to help you painlessly configure the mail functio
 ![](https://cdn.hackernoon.com/images/pDUI21JXq3hUt99Uzg6NBXjyGOB2-q0i37b2.jpeg)
 In this article I would show you how to turn on analytics in the dark side of your application: "background Jobs and scheduled Artisan commands execution".
 
-### [134. Comparing Node.js and PHP in 2022: Between Modernity and Tradition](https://hackernoon.com/comparing-nodejs-and-php-in-2022-between-modernity-and-tradition)
-![](https://cdn.hackernoon.com/images/6EORd3lScrVTxxVB0ulAUeFzv0E2-uh93jcg.jpeg)
-Want to know advantages, weak sides, and the types of projects that will better suit NODE.JS or PHP? Read our article!
-
-### [135. Map DTOs to Entities in Symfony with ObjectMapper](https://hackernoon.com/map-dtos-to-entities-in-symfony-with-objectmapper)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-6203bz9.jpeg)
-Cut boilerplate in Symfony. Learn the new ObjectMapper to map DTOs to entities, use #[Map] attributes, update existing objects, and avoid Serializer pitfalls.
-
-### [136. Code to an Interface: Everything You Need to Know](https://hackernoon.com/code-to-an-interface-everything-you-need-to-know)
-![](https://cdn.hackernoon.com/images/yZi53v9tVybsXwdXldRGugWuUiE3-l382404.jpeg)
-How often have you heard "Code to an interface"? I'm sure, at least a few times, and I know it can be hard to understand at first. So let's see what it means.
-
-### [137. Say No to Python/Django - Use PHP/JQuery Instead](https://hackernoon.com/say-no-to-pythondjango-use-phpjquery-instead)
+### [134. Say No to Python/Django - Use PHP/JQuery Instead](https://hackernoon.com/say-no-to-pythondjango-use-phpjquery-instead)
 ![](https://cdn.hackernoon.com/images/y8yr4yXwQrZtVcjozELvRUEnppR2-w3d2axp.jpeg)
 Say no to Python/Django!!!
 
-### [138. The Quiet Bottleneck in Your Symfony App: Fragmented Indexes and Random UUIDs](https://hackernoon.com/the-quiet-bottleneck-in-your-symfony-app-fragmented-indexes-and-random-uuids)
+### [135. Code to an Interface: Everything You Need to Know](https://hackernoon.com/code-to-an-interface-everything-you-need-to-know)
+![](https://cdn.hackernoon.com/images/yZi53v9tVybsXwdXldRGugWuUiE3-l382404.jpeg)
+How often have you heard "Code to an interface"? I'm sure, at least a few times, and I know it can be hard to understand at first. So let's see what it means.
+
+### [136. The Quiet Bottleneck in Your Symfony App: Fragmented Indexes and Random UUIDs](https://hackernoon.com/the-quiet-bottleneck-in-your-symfony-app-fragmented-indexes-and-random-uuids)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-bn03bgx.jpeg)
 Random UUIDs silently fragment your database and slow down inserts. Learn how UUID v7, ULIDs, and Symfony’s Uid component dramatically boost performance.
 
-### [139. Replace Comments With Better Code](https://hackernoon.com/replace-comments-with-better-code-2u6v3y3n)
+### [137. Replace Comments With Better Code](https://hackernoon.com/replace-comments-with-better-code-2u6v3y3n)
 ![](images/ml1032s5.jpg)
 Hi, I’m Valerio, software engineer from Italy.
 
-### [140. The Pure Laravel Playbook](https://hackernoon.com/the-pure-laravel-playbook-y9u3zu9)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPuORuGm6w5heku18h0n6ohGlli73-tqp3eet.jpeg?alt=media&token=287ae9db-d642-42d4-a458-ded0588a1b7c)
-It used to be the case that when you program a Laravel project, you program in PHP within the Laravel framework, and then have Vue.js or some other front-end framework at the front-end. 
+### [138. Symfony 8 on PHP 8.4: FrankenPHP vs RoadRunner Benchmarked](https://hackernoon.com/symfony-8-on-php-84-frankenphp-vs-roadrunner-benchmarked)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-em83cji.jpeg)
+Discover which PHP runtime leads the pack in Symfony 8. Compare FrankenPHP and RoadRunner benchmarks to optimize your application’s performance.  
 
-### [141. PHP’s New Property Hooks Are Here—But Should You Use Them?](https://hackernoon.com/phps-new-property-hooks-are-herebut-should-you-use-them)
+### [139. PHP’s New Property Hooks Are Here—But Should You Use Them?](https://hackernoon.com/phps-new-property-hooks-are-herebut-should-you-use-them)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4n02vso.jpeg)
 With property hooks, you can add custom actions whenever a property is accessed or changed.
 
-### [142. Stick It To The Man and Self-Host Your Own Email Server](https://hackernoon.com/stick-it-to-the-man-and-self-host-your-own-email-server)
-![](https://cdn.hackernoon.com/images/S5tZsHCKLcTmDFiKj1T5lIQlomv2-ep916v1.jpeg)
-Self-hosting for small to medium companies, business owners, non-profit organizations and individuals.
+### [140. How to Build a Hybrid Passkey Strategy in Symfony 7.4: Navigating Beyond the Passwordless Fortress](https://hackernoon.com/how-to-build-a-hybrid-passkey-strategy-in-symfony-74-navigating-beyond-the-passwordless-fortress)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-r283eoc.jpeg)
+Master Symfony 7.4 auth! Build a Smart Unified Login flow that seamlessly blends traditional passwords with modern Passkeys for a frictionless UX
 
-### [143. ImageBank: An Easy Display Solution for Sharing a Large Number of Images](https://hackernoon.com/imagebank-an-easy-display-solution-for-sharing-a-large-number-of-images)
-![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-84a3snc.jpeg)
-What I wanted to be able to do is just mass upload and display some of these images in an easy-to-use fashion...
-
-### [144. Introducing Resonance, A New PHP Framework Built on Top of Swoole](https://hackernoon.com/introducing-resonance-a-new-php-framework-built-on-top-of-swoole)
-![](https://cdn.hackernoon.com/images/cVXa2uNdjhhWNDsY02BpXGEZkZ82-r6920pc.jpeg)
-Resonance is new, and it's my first open-source project of this magnitude.
-
-### [145. How to Upgrade to PHP 8.5 Without Breaking Your Codebase](https://hackernoon.com/how-to-upgrade-to-php-85-without-breaking-your-codebase)
+### [141. How to Upgrade to PHP 8.5 Without Breaking Your Codebase](https://hackernoon.com/how-to-upgrade-to-php-85-without-breaking-your-codebase)
 ![](https://cdn.hackernoon.com/images/a-developers-desk-with-code-on-screen-showing-php-8-5-features-ire2uucpxajxsvqmtp5gw21m.png)
 A practical guide to upgrading to PHP 8.5, covering new features, key deprecations, safer patterns, and tips for cleaner, more reliable code.
 
-### [146. What You Need to Know About Advanced Patterns for Symfony HttpClient](https://hackernoon.com/what-you-need-to-know-about-advanced-patterns-for-symfony-httpclient)
+### [142. The Pure Laravel Playbook](https://hackernoon.com/the-pure-laravel-playbook-y9u3zu9)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPuORuGm6w5heku18h0n6ohGlli73-tqp3eet.jpeg?alt=media&token=287ae9db-d642-42d4-a458-ded0588a1b7c)
+It used to be the case that when you program a Laravel project, you program in PHP within the Laravel framework, and then have Vue.js or some other front-end framework at the front-end. 
+
+### [143. Stick It To The Man and Self-Host Your Own Email Server](https://hackernoon.com/stick-it-to-the-man-and-self-host-your-own-email-server)
+![](https://cdn.hackernoon.com/images/S5tZsHCKLcTmDFiKj1T5lIQlomv2-ep916v1.jpeg)
+Self-hosting for small to medium companies, business owners, non-profit organizations and individuals.
+
+### [144. Stop Using Entities for Validation: Symfony’s DTO-First Approach](https://hackernoon.com/stop-using-entities-for-validation-symfonys-dto-first-approach)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-ms03b8d.jpeg)
+This article dives deep into the less-traveled paths of the Symfony Validator.
+
+### [145. Introducing Resonance, A New PHP Framework Built on Top of Swoole](https://hackernoon.com/introducing-resonance-a-new-php-framework-built-on-top-of-swoole)
+![](https://cdn.hackernoon.com/images/cVXa2uNdjhhWNDsY02BpXGEZkZ82-r6920pc.jpeg)
+Resonance is new, and it's my first open-source project of this magnitude.
+
+### [146. Symfony 7.4’s Share Directory Solves the Cache Problem for Kubernetes Apps](https://hackernoon.com/symfony-74s-share-directory-solves-the-cache-problem-for-kubernetes-apps)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-nm03dds.jpeg)
+Symfony 7.4 introduces var/share to separate local system cache from shared application data—solving cache inconsistency in Kubernetes without the NFS hit.
+
+### [147. ImageBank: An Easy Display Solution for Sharing a Large Number of Images](https://hackernoon.com/imagebank-an-easy-display-solution-for-sharing-a-large-number-of-images)
+![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-84a3snc.jpeg)
+What I wanted to be able to do is just mass upload and display some of these images in an easy-to-use fashion...
+
+### [148. How to Build an Asynchronous ReAct Agent in PHP with Symfony, Doctrine, and OpenAI](https://hackernoon.com/how-to-build-an-asynchronous-react-agent-in-php-with-symfony-doctrine-and-openai)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-pi03bgy.jpeg)
+Build a stateful, asynchronous ReAct AI agent in PHP using Symfony, Doctrine, Messenger, and OpenAI tool calling—production patterns and code.
+
+### [149. What You Need to Know About Advanced Patterns for Symfony HttpClient](https://hackernoon.com/what-you-need-to-know-about-advanced-patterns-for-symfony-httpclient)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-r903b4c.jpeg)
 I’ll explore high-performance concurrency, memory-safe streaming with new Symfony features, and advanced resilience with retries and circuit breakers
 
-### [147. Symfony 7.4 LTS: The Attribute-First Upgrade That Finally Lets You Delete Your YAML](https://hackernoon.com/symfony-74-lts-the-attribute-first-upgrade-that-finally-lets-you-delete-your-yaml)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-c803b5a.jpeg)
-For senior developers and architects, Symfony 7.4 isn’t just about “new toys” — it’s about removing friction. 
-
-### [148. Creating a Chart JS Scatter Diagram Using 2 Datasets](https://hackernoon.com/creating-a-chart-js-scatter-diagram-using-2-datasets)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6z92bax.jpeg)
-
-Creating a Chart JS Scatter Diagram Using 2 Datasets
-
-### [149. Open Custom Dashboard Menu Item using WP Hooks](https://hackernoon.com/open-custom-dashboard-menu-item-using-wp-hooks-drz3uuh)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGOBJKRjtdffRzEjfyqPfS4Wrh6J3-ldbt3un7.jpeg?alt=media&token=ee976c15-6f37-40ff-983d-297f8d43d174)
-Sometimes we want to show menu item content in a separate tab for various purposes. 
-
-### [150. How to Build an Asynchronous ReAct Agent in PHP with Symfony, Doctrine, and OpenAI](https://hackernoon.com/how-to-build-an-asynchronous-react-agent-in-php-with-symfony-doctrine-and-openai)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-pi03bgy.jpeg)
-Build a stateful, asynchronous ReAct AI agent in PHP using Symfony, Doctrine, Messenger, and OpenAI tool calling—production patterns and code.
+### [150. Property Hooks in Action: Here Are Some Real-World Examples You Should Take a Look At](https://hackernoon.com/property-hooks-in-action-here-are-some-real-world-examples-you-should-take-a-look-at)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-lk03dek.jpeg)
+Explore real-world examples of PHP 8.4 property hooks in Symfony 7. Learn how to replace boilerplate getters and setters with cleaner logic
 
 ### [151. How to Scale Videos: Parallel Processing, Messenger, and More](https://hackernoon.com/how-to-scale-videos-parallel-processing-messenger-and-more)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-s303dcj.jpeg)
 In this article, we will build a production-grade video processing architecture that validates uploads instantly using the new Symfony 7.4 constraints.
 
-### [152. Hitting the Code: How Mike Mentzer's Principles Can Supercharge Your Developer Skills](https://hackernoon.com/hitting-the-code-how-mike-mentzers-principles-can-supercharge-your-developer-skills)
+### [152. Symfony 7.4 LTS: The Attribute-First Upgrade That Finally Lets You Delete Your YAML](https://hackernoon.com/symfony-74-lts-the-attribute-first-upgrade-that-finally-lets-you-delete-your-yaml)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-c803b5a.jpeg)
+For senior developers and architects, Symfony 7.4 isn’t just about “new toys” — it’s about removing friction. 
+
+### [153. Creating a Chart JS Scatter Diagram Using 2 Datasets](https://hackernoon.com/creating-a-chart-js-scatter-diagram-using-2-datasets)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6z92bax.jpeg)
+
+Creating a Chart JS Scatter Diagram Using 2 Datasets
+
+### [154. Open Custom Dashboard Menu Item using WP Hooks](https://hackernoon.com/open-custom-dashboard-menu-item-using-wp-hooks-drz3uuh)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGOBJKRjtdffRzEjfyqPfS4Wrh6J3-ldbt3un7.jpeg?alt=media&token=ee976c15-6f37-40ff-983d-297f8d43d174)
+Sometimes we want to show menu item content in a separate tab for various purposes. 
+
+### [155. Hitting the Code: How Mike Mentzer's Principles Can Supercharge Your Developer Skills](https://hackernoon.com/hitting-the-code-how-mike-mentzers-principles-can-supercharge-your-developer-skills)
 ![](https://cdn.hackernoon.com/images/PG9GJ9It2FOXrr2T8EAC6UYf0Vj1-oq93qgz.jpeg)
 Being a remote PHP developer comes with its own set of challenges, from staying focused to maintaining productivity. But fear not, for I discovered a secret weapon to boost my abilities—the principles of High-Intensity Training (HIT) championed by the legendary bodybuilder Mike Mentzer. In this short, anecdotal, article, I will explore how applying Mentzer's principles to your remote PHP developer job can help you maximize efficiency, increase productivity, and maintain peak performance. So, grab a protein shake and let's dive in!
 
-### [153. Symfony 7.4’s Share Directory Solves the Cache Problem for Kubernetes Apps](https://hackernoon.com/symfony-74s-share-directory-solves-the-cache-problem-for-kubernetes-apps)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-nm03dds.jpeg)
-Symfony 7.4 introduces var/share to separate local system cache from shared application data—solving cache inconsistency in Kubernetes without the NFS hit.
+### [156. How to Master Concurrency: Best Practices for Symfony 7.4's Lock Component ](https://hackernoon.com/how-to-master-concurrency-best-practices-for-symfony-74s-lock-component)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-l203cmx.jpeg)
+Master the Symfony 7.4 Lock Component. Prevent race conditions with verified best practices, custom Attributes, and Redis/DynamoDB integration guide.
 
-### [154. Laravel Real-Time Controllers Monitoring with Inspector - Laravel Package](https://hackernoon.com/laravel-real-time-controllers-monitoring-with-inspector-laravel-package-ml1f3u3o)
+### [157. Laravel Real-Time Controllers Monitoring with Inspector - Laravel Package](https://hackernoon.com/laravel-real-time-controllers-monitoring-with-inspector-laravel-package-ml1f3u3o)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpDUI21JXq3hUt99Uzg6NBXjyGOB2-y02e3ylr.webp?alt=media&token=110f83a9-ab3d-40dc-9793-1c2a2480e954)
 Hi, I'm Valerio, software engineer from Italy and CTO at Inspector.
 
-### [155. Symfony 8 on PHP 8.4: FrankenPHP vs RoadRunner Benchmarked](https://hackernoon.com/symfony-8-on-php-84-frankenphp-vs-roadrunner-benchmarked)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-em83cji.jpeg)
-Discover which PHP runtime leads the pack in Symfony 8. Compare FrankenPHP and RoadRunner benchmarks to optimize your application’s performance.  
-
-### [156. Why PHP 8.5 Feels Like the “Flow State” Release](https://hackernoon.com/why-php-85-feels-like-the-flow-state-release)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-t203by7.jpeg)
-PHP 8.5 is a landmark release that demonstrates the maturity of the language.
-
-### [157. Property Hooks in Action: Here Are Some Real-World Examples You Should Take a Look At](https://hackernoon.com/property-hooks-in-action-here-are-some-real-world-examples-you-should-take-a-look-at)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-lk03dek.jpeg)
-Explore real-world examples of PHP 8.4 property hooks in Symfony 7. Learn how to replace boilerplate getters and setters with cleaner logic
-
-### [158. How To Run Wordpress In Docker](https://hackernoon.com/how-to-run-docker-in-wordpress-ph2h35e2)
-![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-fie397d.jpeg)
-Learn how to setup a development environment for Wordpress plugins.
+### [158. Everything You Can Expect With Symfony 7.4](https://hackernoon.com/everything-you-can-expect-with-symfony-74)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-9o03ben.jpeg)
+Symfony’s Core Team crammed this release with big Developer Experience (DX) improvements, sweet performance gains, and vital architecture tweaks.
 
 ### [159. Here's How You Can Build a FinTech Approval System With Symfony 7.4](https://hackernoon.com/heres-how-you-can-build-a-fintech-approval-system-with-symfony-74)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-dp03bdl.jpeg)
 In this article, we will build a robust Multi-Signature Approval System for a FinTech application.
 
-### [160. Duplicating a Database Record in Laravel](https://hackernoon.com/duplicating-a-database-record-in-laravel)
+### [160. How To Run Wordpress In Docker](https://hackernoon.com/how-to-run-docker-in-wordpress-ph2h35e2)
+![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-fie397d.jpeg)
+Learn how to setup a development environment for Wordpress plugins.
+
+### [161. Duplicating a Database Record in Laravel](https://hackernoon.com/duplicating-a-database-record-in-laravel)
 ![](https://cdn.hackernoon.com/images/LLNXiPKIsZM5IWTNJfmlBf6EZjZ2-v183wuy.jpeg)
 Using the replicate() method to duplicate a database record in Laravel.
 
-### [161. How to Master Concurrency: Best Practices for Symfony 7.4's Lock Component ](https://hackernoon.com/how-to-master-concurrency-best-practices-for-symfony-74s-lock-component)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-l203cmx.jpeg)
-Master the Symfony 7.4 Lock Component. Prevent race conditions with verified best practices, custom Attributes, and Redis/DynamoDB integration guide.
-
-### [162. Set Up Laravel 6 on Google Cloud Run  with Continuous Integration [Step-by-Step Guide]](https://hackernoon.com/set-up-laravel-6-on-google-cloud-run-step-by-step-with-continuous-integration-ci-1c2y3zr4)
-![](https://cdn.hackernoon.com/drafts/wo1h32tf.png)
-Laravel has soared in popularity in the last few years. The Laravel community even says that Laravel has made writing PHP enjoyable than a pain. Laravel 6 has some interesting new features. Getting a super scaleable working URL for your application take hours if not days. Setting up something like Kubernetes is a huge task. This is where Google Cloud Run shines, you can get a working HTTPs URL for any of your containerized app in minutes.
-
-### [163. Symfony 7.4’s Request Cleanup Closes a Classic Parameter Pollution Trap](https://hackernoon.com/symfony-74s-request-cleanup-closes-a-classic-parameter-pollution-trap)
+### [162. Symfony 7.4’s Request Cleanup Closes a Classic Parameter Pollution Trap](https://hackernoon.com/symfony-74s-request-cleanup-closes-a-classic-parameter-pollution-trap)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-8003dye.jpeg)
 Symfony 7.4 deprecates Request::get() to remove ambiguous input precedence and reduce HTTP parameter pollution risks ahead of Symfony 8.
+
+### [163. Everything You Need to Know to Master Server-Sent Events (SSE) in Symfony 7.4](https://hackernoon.com/everything-you-need-to-know-to-master-server-sent-events-sse-in-symfony-74)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-5503br7.jpeg)
+As we have explored, implementing real-time data in Symfony 7.4 isn’t just about opening a connection; it is about choosing the architecture that matches you
 
 ### [164. Streamlining Symfony Deployments with Docker, Supervisord, and Redis](https://hackernoon.com/streamlining-symfony-deployments-with-docker-supervisord-and-redis)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-1c03bfu.jpeg)
 This article will guide you through the process of containerizing a Symfony application using Docker and Docker Compose.
 
-### [165. Advanced Patterns with the Symfony Clock: MockClock, NativeClock, and More](https://hackernoon.com/advanced-patterns-with-the-symfony-clock-mockclock-nativeclock-and-more)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-ma03b12.jpeg)
-This article explores non-trivial, production-grade patterns for the Clock component, moving beyond simple “now” calls to integrating with JWT authentication.
+### [165. Symfony 7.4: How to Master Multi-Step Forms](https://hackernoon.com/symfony-74-how-to-master-multi-step-forms)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-pk03d7r.jpeg)
+In this article, we are going to build a production-ready User Onboarding Wizard using Symfony 7.4.
 
-### [166. How PHP Programmers Can Learn Java](https://hackernoon.com/how-php-programmers-can-learn-java-mh343wik)
+### [166. Set Up Laravel 6 on Google Cloud Run  with Continuous Integration [Step-by-Step Guide]](https://hackernoon.com/set-up-laravel-6-on-google-cloud-run-step-by-step-with-continuous-integration-ci-1c2y3zr4)
+![](https://cdn.hackernoon.com/drafts/wo1h32tf.png)
+Laravel has soared in popularity in the last few years. The Laravel community even says that Laravel has made writing PHP enjoyable than a pain. Laravel 6 has some interesting new features. Getting a super scaleable working URL for your application take hours if not days. Setting up something like Kubernetes is a huge task. This is where Google Cloud Run shines, you can get a working HTTPs URL for any of your containerized app in minutes.
+
+### [167. Top PHP Functions That Will Level Up Your Code](https://hackernoon.com/top-php-functions-that-will-level-up-your-code)
+![](https://cdn.hackernoon.com/images/EO1HVjvjpkUZxUecXD8VinNplxJ2-is03578.png)
+Do you want to boost the efficiency and performance of your code? Let’s get into the top PHP functions for scaling up your coding game! 
+
+### [168. How PHP Programmers Can Learn Java](https://hackernoon.com/how-php-programmers-can-learn-java-mh343wik)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FqeIv6rNygoYrUXBwG7uA2lPpLSj2-5cf3u1e.jpeg?alt=media&token=3f807b71-45c5-4509-9f8e-d0e4a45edf70)
 Java programming has been a challenging, rewarding, and enjoyable career choice for me. Pieces of code written by us programmers drive mobile apps, websites, banking transactions, shopping, and pretty much everything in the digital world.
 
-### [167. Time Data Series: Continuing the Rest of the Story](https://hackernoon.com/time-data-series-continuing-the-rest-of-the-story)
-![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-wy0245k.jpeg)
-The goal today is to explore uses of PHP Zmanim that move beyond the relatively straightforward use of the library.
+### [169. Map DTOs to Entities in Symfony with ObjectMapper](https://hackernoon.com/map-dtos-to-entities-in-symfony-with-objectmapper)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-6203bz9.jpeg)
+Cut boilerplate in Symfony. Learn the new ObjectMapper to map DTOs to entities, use #[Map] attributes, update existing objects, and avoid Serializer pitfalls.
 
-### [168. Everything You Need to Know to Master Server-Sent Events (SSE) in Symfony 7.4](https://hackernoon.com/everything-you-need-to-know-to-master-server-sent-events-sse-in-symfony-74)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-5503br7.jpeg)
-As we have explored, implementing real-time data in Symfony 7.4 isn’t just about opening a connection; it is about choosing the architecture that matches you
+### [170. Advanced Patterns with the Symfony Clock: MockClock, NativeClock, and More](https://hackernoon.com/advanced-patterns-with-the-symfony-clock-mockclock-nativeclock-and-more)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-ma03b12.jpeg)
+This article explores non-trivial, production-grade patterns for the Clock component, moving beyond simple “now” calls to integrating with JWT authentication.
 
-### [169. A Closer Look at Theme Redone - a WordPress Theme](https://hackernoon.com/a-closer-look-at-theme-redone-a-wordpress-theme)
+### [171. A Closer Look at Theme Redone - a WordPress Theme](https://hackernoon.com/a-closer-look-at-theme-redone-a-wordpress-theme)
 ![](https://cdn.hackernoon.com/images/IIYj9A0u8BaTH3XOzaGwOsiEeaU2-iig3108.jpeg)
 Theme Redone is the new WordPress framework for creating custom WordPress Gutenberg websites by WebRedone.
 
-### [170. The $5 Billion DevOps Stranglehold](https://hackernoon.com/the-dollar5-billion-devops-stranglehold-zh3z3wha)
-![](https://cdn.hackernoon.com/images/rn434yjg.jpg)
-Ten years ago NewRelic, DataDog, Splunk, Dynatrace and SolarWinds built tools we loved to use. They were easy to implement and solved problems quickly and efficiently. Each company was known primarily for a single, well-conceived product. NewRelic’s APM. Splunk’s log file analyzer.  DataDog’s server monitor. SolarWinds’ network performance monitor. These companies were beloved by users during the 2000s.
+### [172. Time Data Series: Continuing the Rest of the Story](https://hackernoon.com/time-data-series-continuing-the-rest-of-the-story)
+![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-wy0245k.jpeg)
+The goal today is to explore uses of PHP Zmanim that move beyond the relatively straightforward use of the library.
 
-### [171. Doctrine DQL vs Native SQL in Symfony: Which Is Faster?](https://hackernoon.com/doctrine-dql-vs-native-sql-in-symfony-which-is-faster)
+### [173. Doctrine DQL vs Native SQL in Symfony: Which Is Faster?](https://hackernoon.com/doctrine-dql-vs-native-sql-in-symfony-which-is-faster)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-sw83exb.jpeg)
 Should you use Doctrine DQL or Native SQL in Symfony? Learn when each wins with benchmark results, DTO patterns, and real production scenarios.
 
-### [172. Tired of Learning 50 New Concepts to Build a Form? Say Hello to Lighthouse for PHP](https://hackernoon.com/tired-of-learning-50-new-concepts-to-build-a-form-say-hello-to-lighthouse-for-php)
-![](https://cdn.hackernoon.com/images/QriPdMB1fCQx8C4cHWBrawKvizw1-zr02z6z.png)
-Discover Lighthouse, a PHP framework that embraces simplicity. Learn how to build webapps faster with logic in views, zero-config SQLite, and built-in security.
+### [174. Symfony: What You Need to Know About Passkey Management and Account Recovery](https://hackernoon.com/symfony-what-you-need-to-know-about-passkey-management-and-account-recovery)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-fz83eq8.jpeg)
+Secure your Symfony 7.4 passwordless app against lost devices. Learn to build a passkey management dashboard and generate offline recovery codes.
 
-### [173. How to Solve Real-Time Auth Without Having to Sacrifice Performance](https://hackernoon.com/how-to-solve-real-time-auth-without-having-to-sacrifice-performance)
+### [175. How to Solve Real-Time Auth Without Having to Sacrifice Performance](https://hackernoon.com/how-to-solve-real-time-auth-without-having-to-sacrifice-performance)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-w403bfm.jpeg)
 I will walk you through, step-by-step, how to build a fully functional, high-performance WebSocket server in Symfony that is secured by Keycloak.
 
-### [174. I Made 3 Major Open Source Contributions. Here's How](https://hackernoon.com/i-made-3-major-open-source-contributions-heres-how)
+### [176. Tired of Learning 50 New Concepts to Build a Form? Say Hello to Lighthouse for PHP](https://hackernoon.com/tired-of-learning-50-new-concepts-to-build-a-form-say-hello-to-lighthouse-for-php)
+![](https://cdn.hackernoon.com/images/QriPdMB1fCQx8C4cHWBrawKvizw1-zr02z6z.png)
+Discover Lighthouse, a PHP framework that embraces simplicity. Learn how to build webapps faster with logic in views, zero-config SQLite, and built-in security.
+
+### [177. The $5 Billion DevOps Stranglehold](https://hackernoon.com/the-dollar5-billion-devops-stranglehold-zh3z3wha)
+![](https://cdn.hackernoon.com/images/rn434yjg.jpg)
+Ten years ago NewRelic, DataDog, Splunk, Dynatrace and SolarWinds built tools we loved to use. They were easy to implement and solved problems quickly and efficiently. Each company was known primarily for a single, well-conceived product. NewRelic’s APM. Splunk’s log file analyzer.  DataDog’s server monitor. SolarWinds’ network performance monitor. These companies were beloved by users during the 2000s.
+
+### [178. I Made 3 Major Open Source Contributions. Here's How](https://hackernoon.com/i-made-3-major-open-source-contributions-heres-how)
 ![](https://cdn.hackernoon.com/images/LLNXiPKIsZM5IWTNJfmlBf6EZjZ2-jc929vy.jpeg)
 What open source projects have you always dreamed of contributing to? I have been able to check off three - Faker, Electron, and Vagrant.
 
-### [175. Share Code Snippets Like A Pro Without Using GitHub](https://hackernoon.com/share-code-snippets-like-a-pro-without-using-github-ek1z349u)
+### [179. 10 Techniques in Symfony That Will Help You Secure Like a Pro](https://hackernoon.com/10-techniques-in-symfony-that-will-help-you-secure-like-a-pro)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-cu83c30.jpeg)
+Master Symfony 7.4 Security with 10 advanced patterns. Implement Magic Links, custom Voters, and API Tokens using production-ready code.
+
+### [180. Share Code Snippets Like A Pro Without Using GitHub](https://hackernoon.com/share-code-snippets-like-a-pro-without-using-github-ek1z349u)
 ![](https://hackernoon.com/images/PAZ1eIqbvGfdtgkr90N8cKAGFyP2-a72j34ji.jpeg)
 I am happy to announce that I launched a new feature a few weeks ago in GoOnlineTools which you can use to share code snippets easily with your friends or colleagues.
 
 
-### [176. Top PHP Functions That Will Level Up Your Code](https://hackernoon.com/top-php-functions-that-will-level-up-your-code)
-![](https://cdn.hackernoon.com/images/EO1HVjvjpkUZxUecXD8VinNplxJ2-is03578.png)
-Do you want to boost the efficiency and performance of your code? Let’s get into the top PHP functions for scaling up your coding game! 
-
-### [177. Symfony 7.4: How to Master Multi-Step Forms](https://hackernoon.com/symfony-74-how-to-master-multi-step-forms)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-pk03d7r.jpeg)
-In this article, we are going to build a production-ready User Onboarding Wizard using Symfony 7.4.
-
-### [178. Dirty Jobs: Debugging Till the Last Minute](https://hackernoon.com/dirty-jobs-debugging-till-the-last-minute)
+### [181. Dirty Jobs: Debugging Till the Last Minute](https://hackernoon.com/dirty-jobs-debugging-till-the-last-minute)
 ![](https://cdn.hackernoon.com/images/KobPcf5nazNcjh4iUfyRlmitv723-qa92ik2.jpeg)
 Debugging in practice means getting lost on tangents, trying to look good in front of your subordinates and doing just a little bit of debugging on the side.
 
-### [179. Here's How You Can Cut Milliseconds Off Your Response Time Using Symfony](https://hackernoon.com/heres-how-you-can-cut-milliseconds-off-your-response-time-using-symfony)
+### [182. Here's How You Can Cut Milliseconds Off Your Response Time Using Symfony](https://hackernoon.com/heres-how-you-can-cut-milliseconds-off-your-response-time-using-symfony)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-rs03b4y.jpeg)
 This ultimate guide will take you deep into the heart of a Symfony application to achieve sub-100ms response times.
 
-### [180. Shorthand Comparisons using Ternary Operators in PHP](https://hackernoon.com/shorthand-comparisons-using-ternary-operators-in-php)
+### [183. How My Blog Posts Generate Their Own Images](https://hackernoon.com/how-my-blog-posts-generate-their-own-images)
+![](https://cdn.hackernoon.com/images/CNo0uTdT90dcBG86dSWmX8ej60Q2-2m83gtd.png)
+Each blog post generates its own unique SVG image from a content hash. No stock photos, no AI generation. Same content always produces the same visual. 
+
+### [184. Shorthand Comparisons using Ternary Operators in PHP](https://hackernoon.com/shorthand-comparisons-using-ternary-operators-in-php)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ama3gdz.jpeg)
 A short introduction to Inline Conditionals (or Ternary Operators) in PHP. They are inline conditionals used instead of traditional conditional statements.
 
-### [181. 10 Techniques in Symfony That Will Help You Secure Like a Pro](https://hackernoon.com/10-techniques-in-symfony-that-will-help-you-secure-like-a-pro)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-cu83c30.jpeg)
-Master Symfony 7.4 Security with 10 advanced patterns. Implement Magic Links, custom Voters, and API Tokens using production-ready code.
-
-### [182. How to Use Slack Incoming and Outgoing Webhooks for Real-Time AI Agents](https://hackernoon.com/how-to-use-slack-incoming-and-outgoing-webhooks-for-real-time-ai-agents)
+### [185. How to Use Slack Incoming and Outgoing Webhooks for Real-Time AI Agents](https://hackernoon.com/how-to-use-slack-incoming-and-outgoing-webhooks-for-real-time-ai-agents)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-7603brg.jpeg)
 Now our application is containerized and ready for deployment, let’s expand its capabilities by integrating a new input source. 
 
-### [183. Documenting, Encrypting, and Unit Testing My First REST API](https://hackernoon.com/documenting-encrypting-and-unit-testing-my-first-rest-api-lz3c31ro)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-b42g28i4.jpeg)
-How I encrypted, documented, and unit tested my first REST API using PHP, PHPUnit, GuzzleHttp, Next.js, ReactJS, and more.
-
-### [184. How to Build a Hybrid Passkey Strategy in Symfony 7.4: Navigating Beyond the Passwordless Fortress](https://hackernoon.com/how-to-build-a-hybrid-passkey-strategy-in-symfony-74-navigating-beyond-the-passwordless-fortress)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-r283eoc.jpeg)
-Master Symfony 7.4 auth! Build a Smart Unified Login flow that seamlessly blends traditional passwords with modern Passkeys for a frictionless UX
-
-### [185. How to Build Real-World Web3 Infrastructure Using Symfony 7.4](https://hackernoon.com/how-to-build-real-world-web3-infrastructure-using-symfony-74)
+### [186. How to Build Real-World Web3 Infrastructure Using Symfony 7.4](https://hackernoon.com/how-to-build-real-world-web3-infrastructure-using-symfony-74)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-d803bjv.jpeg)
 Learn how PHP and Symfony power real-world Web3 backends, from Ethereum RPC calls to ERC-20 reads and Sign-In with Ethereum authentication.
 
-### [186. The 3 Stages to Making Your Own No-Code Solution](https://hackernoon.com/the-3-stages-to-making-your-own-no-code-solution)
-![](https://cdn.hackernoon.com/images/OJunsT5b6MXihZjDd8QZq7cFCW03-vjb3hxy.jpeg)
-Create your own no-code solution in three easy to follow steps.
+### [187. Documenting, Encrypting, and Unit Testing My First REST API](https://hackernoon.com/documenting-encrypting-and-unit-testing-my-first-rest-api-lz3c31ro)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-b42g28i4.jpeg)
+How I encrypted, documented, and unit tested my first REST API using PHP, PHPUnit, GuzzleHttp, Next.js, ReactJS, and more.
 
-### [187. A Guide to Managing Dates and Times in PHP Using Carbon](https://hackernoon.com/a-guide-to-managing-dates-and-times-in-php-using-carbon)
+### [188. A Guide to Managing Dates and Times in PHP Using Carbon](https://hackernoon.com/a-guide-to-managing-dates-and-times-in-php-using-carbon)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-mv92gj4.jpeg)
 Date and time manipulation is one of a few frequently-experienced challenges of developing web apps in PHP.
-
-### [188. The Heat Index Of Questions About PHP](https://hackernoon.com/the-heat-index-of-questions-about-php-nr1r34qx)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaHcUME45O0Sw3JLt9OGFJpazIvO2-ce2y2802.jpeg?alt=media&token=4422adb3-22a9-466e-8dd9-e29d52a454dc)
-PHP (Hypertext Pre-processor) is a popular server-side scripting language mainly used for developing websites and web applications. It can be used to build either static or dynamic websites. It is very simple and easy to learn. So, today we will be checking out the 11 most frequently asked questions about PHP. 
 
 ### [189. The Pros And Cons Of Server-side File Uploads in Laravel](https://hackernoon.com/the-pros-and-cons-of-server-side-file-uploads-in-laravel)
 ![](https://cdn.hackernoon.com/images/0sm1KIKmbZhu9AD2GAr4cKywoN43-6093nrj.jpeg)
 Are you a beginner developer? Are you trying to get the hang of file upload? Are you confused about how file upload works? Do you want to have more understanding of java points? 
 
-### [190. Laravel Under The Hood -  What Are Facades?](https://hackernoon.com/laravel-under-the-hood-what-are-facades)
+### [190. What Is Symfony TUI? A Comprehensive Guide](https://hackernoon.com/what-is-symfony-tui-a-comprehensive-guide)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-b483eh3.jpeg)
+Discover how Symfony's new TUI component transforms PHP CLI apps. Build reactive, retained-mode dashboards using PHP 8.4 Fibers and CSS styling.
+
+### [191. How to Build Secure & Compressed Microservices in Symfony](https://hackernoon.com/how-to-build-secure-and-compressed-microservices-in-symfony)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-pj83ero.jpeg)
+A lightweight Symfony Messenger extension to transparently compress (gzdeflate) and encrypt (AES-256) large message payloads.
+
+### [192. The 3 Stages to Making Your Own No-Code Solution](https://hackernoon.com/the-3-stages-to-making-your-own-no-code-solution)
+![](https://cdn.hackernoon.com/images/OJunsT5b6MXihZjDd8QZq7cFCW03-vjb3hxy.jpeg)
+Create your own no-code solution in three easy to follow steps.
+
+### [193. The Heat Index Of Questions About PHP](https://hackernoon.com/the-heat-index-of-questions-about-php-nr1r34qx)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaHcUME45O0Sw3JLt9OGFJpazIvO2-ce2y2802.jpeg?alt=media&token=4422adb3-22a9-466e-8dd9-e29d52a454dc)
+PHP (Hypertext Pre-processor) is a popular server-side scripting language mainly used for developing websites and web applications. It can be used to build either static or dynamic websites. It is very simple and easy to learn. So, today we will be checking out the 11 most frequently asked questions about PHP. 
+
+### [194. Laravel Under The Hood -  What Are Facades?](https://hackernoon.com/laravel-under-the-hood-what-are-facades)
 ![](https://cdn.hackernoon.com/images/yZi53v9tVybsXwdXldRGugWuUiE3-6n824gk.jpeg)
 Laravel offers an elegant method-calling feature called Facades. They resemble static methods, but well, they are not! What kind of magic is Laravel doing?
 
-### [191. How I Turned a ‘Simple Hydrator’ into a Full Data Mapping Framework in Symfony](https://hackernoon.com/how-i-turned-a-simple-hydrator-into-a-full-data-mapping-framework-in-symfony)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-ql03bk2.jpeg)
-The symfony/object-mapper is not just a simple hydrator; it’s a powerful, configurable facade built on top of the robust Serializer component. 
-
-### [192. Time Data Series: A Beginner's Guide to PHP Zmanim](https://hackernoon.com/time-data-series-a-beginners-guide-to-php-zmanim)
+### [195. Time Data Series: A Beginner's Guide to PHP Zmanim](https://hackernoon.com/time-data-series-a-beginners-guide-to-php-zmanim)
 ![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-q882tlt.jpeg)
 A tutorial covering both the theory and practical information needed to use the PHP Zmanim library to calculate Jewish religious times.
 
-### [193. Time Data Series: It's Not About What You Said - It's More About How You Said It](https://hackernoon.com/time-data-series-its-not-about-what-you-said-its-more-about-how-you-said-it)
+### [196. Time Data Series: It's Not About What You Said - It's More About How You Said It](https://hackernoon.com/time-data-series-its-not-about-what-you-said-its-more-about-how-you-said-it)
 ![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-xb020sv.jpeg)
 The PHP Zmanim library has several functions that output specialized text. This is how you modify that output to match the style or dialect you want.
 
-### [194. PHP CRUD Generator – Instantly Build Admin Panels from Your Database](https://hackernoon.com/php-crud-generator-instantly-build-admin-panels-from-your-database)
+### [197. PHP CRUD Generator – Instantly Build Admin Panels from Your Database](https://hackernoon.com/php-crud-generator-instantly-build-admin-panels-from-your-database)
 ![](https://cdn.hackernoon.com/images/fJztkdSe55WvlvmCjf2DtcDO3Jv2-c10382c.png)
 Instantly generate secure, responsive PHP admin panels from your MySQL database. Save development time with automated CRUD operations
 
-### [195. Taming Video Processing Chaos with Domain-Driven Design in Symfony](https://hackernoon.com/taming-video-processing-chaos-with-domain-driven-design-in-symfony)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-us03bwi.jpeg)
-Modern app starts simple, then the business logic grows, gets tangled in the infrastructure, and before you know it, you’re wrestling an unmaintainable monolith
+### [198. Why PHP 8.5 Feels Like the “Flow State” Release](https://hackernoon.com/why-php-85-feels-like-the-flow-state-release)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-t203by7.jpeg)
+PHP 8.5 is a landmark release that demonstrates the maturity of the language.
 
-### [196. Cross-Device Ethereum Login: Authenticate Desktop Users via MetaMask Mobile in PHP](https://hackernoon.com/cross-device-ethereum-login-authenticate-desktop-users-via-metamask-mobile-in-php)
+### [199. Cross-Device Ethereum Login: Authenticate Desktop Users via MetaMask Mobile in PHP](https://hackernoon.com/cross-device-ethereum-login-authenticate-desktop-users-via-metamask-mobile-in-php)
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-1k02z5x.png)
 Secure and seamless Ethereum login for desktop sites using MetaMask Mobile and PHP. Scan a QR code, sign a challenge, and log in—no passwords needed.
-
-### [197. How to Implement PHP Zmanim in WordPress Using Zmanim-WP](https://hackernoon.com/how-to-implement-php-zmanim-in-wordpress-using-zmanim-wp)
-![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-l0020v8.png)
-The Zmanim-WP plugin for WordPress helps you implement the PHP-Zmanim library, letting you choose the time calculation you need and display it with simple short
-
-### [198. Explaining Laravel Package Ecosystem](https://hackernoon.com/explaining-laravel-package-ecosystem-zz5e3wrg)
-![](https://cdn.hackernoon.com/images/ie4963bao.jpg)
-Packages play a big role in the Laravel scene. How big and which packages? To find it out we took the data from the Packagist.org API and filtered out the Laravel packages.
-
-### [199. Mastering the PHP GD Library - Part 3: Building a Captcha](https://hackernoon.com/mastering-the-php-gd-library-part-3-building-a-captcha)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-v793t8e.jpeg)
-This Guide will teach you how to make a simple captcha for your Robot verification! Using PHP GD can help you achieve this!
 
 ### [200. How to Use a Template to Use Docker with PHP](https://hackernoon.com/how-to-use-a-template-to-use-docker-with-php)
 ![](https://cdn.hackernoon.com/images/9DGvEbbd20S6wIuDCTcX9gr5quL2-q103tv8.jpeg)
 Today I want to give you an easy-to-use template in order to use Docker with PHP, explained so you can understand how it works in just 10 minutes.
 
-### [201. How My Blog Posts Generate Their Own Images](https://hackernoon.com/how-my-blog-posts-generate-their-own-images)
-![](https://cdn.hackernoon.com/images/CNo0uTdT90dcBG86dSWmX8ej60Q2-2m83gtd.png)
-Each blog post generates its own unique SVG image from a content hash. No stock photos, no AI generation. Same content always produces the same visual. 
+### [201. How to Implement PHP Zmanim in WordPress Using Zmanim-WP](https://hackernoon.com/how-to-implement-php-zmanim-in-wordpress-using-zmanim-wp)
+![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-l0020v8.png)
+The Zmanim-WP plugin for WordPress helps you implement the PHP-Zmanim library, letting you choose the time calculation you need and display it with simple short
 
-### [202. How Symfony 7.4 Uses Service Tags to Enable Modular, Decoupled Architectures](https://hackernoon.com/how-symfony-74-uses-service-tags-to-enable-modular-decoupled-architectures)
+### [202. Mastering the PHP GD Library - Part 3: Building a Captcha](https://hackernoon.com/mastering-the-php-gd-library-part-3-building-a-captcha)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-v793t8e.jpeg)
+This Guide will teach you how to make a simple captcha for your Robot verification! Using PHP GD can help you achieve this!
+
+### [203. Explaining Laravel Package Ecosystem](https://hackernoon.com/explaining-laravel-package-ecosystem-zz5e3wrg)
+![](https://cdn.hackernoon.com/images/ie4963bao.jpg)
+Packages play a big role in the Laravel scene. How big and which packages? To find it out we took the data from the Packagist.org API and filtered out the Laravel packages.
+
+### [204. How Symfony 7.4 Uses Service Tags to Enable Modular, Decoupled Architectures](https://hackernoon.com/how-symfony-74-uses-service-tags-to-enable-modular-decoupled-architectures)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-1w03dia.jpeg)
 Learn how to use Symfony service tags, attributes, and locators to build extensible, decoupled systems without touching configuration files. 
 
-### [203. Refactoring 022 - Extract Common Ancestor](https://hackernoon.com/refactoring-022-extract-common-ancestor)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-be034zn.jpeg)
-Extract a common abstract class to mimic real-world structure.
-
-### [204. Supporting the Elderly: Tips for Working on a Legacy PHP Codebase](https://hackernoon.com/supporting-the-elderly-tips-for-working-on-a-legacy-php-codebase)
-![](https://cdn.hackernoon.com/images/PG9GJ9It2FOXrr2T8EAC6UYf0Vj1-oa138so.jpeg)
-A few tips on how to wrangle an old codebase with none of the comforts or practices you might be expecting.
-
-### [205. MySQL FAQs](https://hackernoon.com/mysql-faqs-aw123tab)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-bii3tgz.jpeg?alt=media&token=7f6e7e58-1be0-4992-897b-dd89ed5721f0)
-MySQL is an open-source relational database management system. As the
-name suggests, it is used to create, update, and store databases. It is based on SQL (Structured Query Language). So, today we will be checking out the 13 most asked questions on MySQL.
+### [205. Scaling PHP Symfony Metrics at 200k RPM: 50+ Servers, Zero Overhead with UDP + Telegraf](https://hackernoon.com/scaling-php-symfony-metrics-at-200k-rpm-50-servers-zero-overhead-with-udp-telegraf)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-gr03bj1.png)
+Fix PHP monitoring bottlenecks: learn how UDP + Telegraf replaced Prometheus pull, scaling to 50+ servers with zero timeouts.
 
 ### [206. Scaling API Integrations in Symfony: Fire-and-Forget, Factories, Auditing & Streams](https://hackernoon.com/scaling-api-integrations-in-symfony-fire-and-forget-factories-auditing-and-streams)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-3s03b6q.jpeg)
 We’re going to architect four production-ready, non-trivial patterns using Symfony 7.x and PHP 8.x.
 
-### [207. Scaling PHP Symfony Metrics at 200k RPM: 50+ Servers, Zero Overhead with UDP + Telegraf](https://hackernoon.com/scaling-php-symfony-metrics-at-200k-rpm-50-servers-zero-overhead-with-udp-telegraf)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-gr03bj1.png)
-Fix PHP monitoring bottlenecks: learn how UDP + Telegraf replaced Prometheus pull, scaling to 50+ servers with zero timeouts.
+### [207. Refactoring 022 - Extract Common Ancestor](https://hackernoon.com/refactoring-022-extract-common-ancestor)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-be034zn.jpeg)
+Extract a common abstract class to mimic real-world structure.
 
-### [208. Dependency Injection with Symfony: Streamlining Code Management for Efficiency](https://hackernoon.com/dependency-injection-with-symfony-streamlining-code-management-for-efficiency)
+### [208. Supporting the Elderly: Tips for Working on a Legacy PHP Codebase](https://hackernoon.com/supporting-the-elderly-tips-for-working-on-a-legacy-php-codebase)
+![](https://cdn.hackernoon.com/images/PG9GJ9It2FOXrr2T8EAC6UYf0Vj1-oa138so.jpeg)
+A few tips on how to wrangle an old codebase with none of the comforts or practices you might be expecting.
+
+### [209. MySQL FAQs](https://hackernoon.com/mysql-faqs-aw123tab)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-bii3tgz.jpeg?alt=media&token=7f6e7e58-1be0-4992-897b-dd89ed5721f0)
+MySQL is an open-source relational database management system. As the
+name suggests, it is used to create, update, and store databases. It is based on SQL (Structured Query Language). So, today we will be checking out the 13 most asked questions on MySQL.
+
+### [210. Dependency Injection with Symfony: Streamlining Code Management for Efficiency](https://hackernoon.com/dependency-injection-with-symfony-streamlining-code-management-for-efficiency)
 ![](https://cdn.hackernoon.com/images/9Lp56cU2QZNqCiTmaYPijWLLpdW2-4e93pj0.jpeg)
 Explore the capabilities of Symfony Dependency Injection and enhance your application's scalability with this insightful article.
 
-### [209. Step-by-Step: Turning Your Slack Listener into a Proactive Agent](https://hackernoon.com/step-by-step-turning-your-slack-listener-into-a-proactive-agent)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-zv03bvk.jpeg)
-Turn your Slack listener into a proactive agent with Symfony. Send automated responses using webhooks, Notifier, and Messenger.
-
-### [210. What's New in Laravel 10: A Peek at New and Upcoming Features](https://hackernoon.com/whats-new-in-laravel-10-a-peek-at-new-and-upcoming-features)
+### [211. What's New in Laravel 10: A Peek at New and Upcoming Features](https://hackernoon.com/whats-new-in-laravel-10-a-peek-at-new-and-upcoming-features)
 ![](https://cdn.hackernoon.com/images/FpV7utoiWLd83o2fu2aLmvSwSPL2-bo92kwh.jpeg)
  What to expect in laravel 10: An overview of upcoming features and changes. Laravel v10 is the next major version of Laravel after Laravel v9 and laravel v8
-
-### [211. How to Implement the Visitor Pattern Correctly](https://hackernoon.com/how-to-implement-the-visitor-pattern-correctly)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-pr034m0.jpeg)
-Avoid combining the Visitor pattern with instanceof checks.
 
 ### [212. WooCommerce API: A Guide to Writing Your First Script ](https://hackernoon.com/woocommerce-api-a-guide-to-writing-your-first-script)
 ![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-rjc2tml.png)
 A step by step guide to building a WooCommerce Plugin using the API
 
-### [213. Code Smell 283 - Unresolved Meta Tags](https://hackernoon.com/code-smell-283-unresolved-meta-tags)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-bs034bf.jpeg)
-Incomplete or null meta tags break functionality and user experience.
-
-### [214. PHP vs. ASP.NET: Determining Which Stack to Use For Your Next Project](https://hackernoon.com/php-vs-aspnet-determining-which-stack-to-use-for-your-next-project)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-g093ukh.jpeg)
-The ultimate goal of the web development project is to build feature-rich web applications or corporate websites but which is better?
-
-### [215. Signing Messages in Symfony 7.4: A Deep Dive](https://hackernoon.com/signing-messages-in-symfony-74-a-deep-dive)
+### [213. Signing Messages in Symfony 7.4: A Deep Dive](https://hackernoon.com/signing-messages-in-symfony-74-a-deep-dive)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-vy03bpz.jpeg)
 In this deep dive, we will explore why this matters, how the new signing architecture works, and provide a complete implementation guide
 
-### [216. PHP Development: Creating Toggleable Laravel Routes with Attributes](https://hackernoon.com/php-development-creating-toggleable-laravel-routes-with-attributes)
-![](https://cdn.hackernoon.com/images/yZi53v9tVybsXwdXldRGugWuUiE3-87822f9.jpeg)
-PHP 8 has introduced attributes that are quite impressive and powerful, and this article will use them to toggle Laravel routes on and off. How cool is that?
+### [214. How to Implement the Visitor Pattern Correctly](https://hackernoon.com/how-to-implement-the-visitor-pattern-correctly)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-pr034m0.jpeg)
+Avoid combining the Visitor pattern with instanceof checks.
 
-### [217. Laravel Zero - How to Build a TCP Server](https://hackernoon.com/laravel-zero-how-to-build-a-tcp-server)
-![](https://cdn.hackernoon.com/images/yZi53v9tVybsXwdXldRGugWuUiE3-u7923nk.jpeg)
-Building console applications can be a lot of fun, but also quite challenging. However, Laravel Zero makes it incredibly easy and way more enjoyable!
+### [215. PHP vs. ASP.NET: Determining Which Stack to Use For Your Next Project](https://hackernoon.com/php-vs-aspnet-determining-which-stack-to-use-for-your-next-project)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-g093ukh.jpeg)
+The ultimate goal of the web development project is to build feature-rich web applications or corporate websites but which is better?
 
+### [216. Code Smell 283 - Unresolved Meta Tags](https://hackernoon.com/code-smell-283-unresolved-meta-tags)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-bs034bf.jpeg)
+Incomplete or null meta tags break functionality and user experience.
 
-### [218. How to Handle All PHP Errors](https://hackernoon.com/how-to-handle-all-php-errors)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-sr93pbm.jpeg)
-Sometimes your PHP application might produce many different types of earnings.
+### [217. Taming Video Processing Chaos with Domain-Driven Design in Symfony](https://hackernoon.com/taming-video-processing-chaos-with-domain-driven-design-in-symfony)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-us03bwi.jpeg)
+Modern app starts simple, then the business logic grows, gets tangled in the infrastructure, and before you know it, you’re wrestling an unmaintainable monolith
+
+### [218. How I Turned a ‘Simple Hydrator’ into a Full Data Mapping Framework in Symfony](https://hackernoon.com/how-i-turned-a-simple-hydrator-into-a-full-data-mapping-framework-in-symfony)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-ql03bk2.jpeg)
+The symfony/object-mapper is not just a simple hydrator; it’s a powerful, configurable facade built on top of the robust Serializer component. 
 
 ### [219. Here's How You Can Architect Advanced Routing Patterns in Symfony](https://hackernoon.com/heres-how-you-can-architect-advanced-routing-patterns-in-symfony)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-vb03bp8.jpeg)
 We are looking at how to build multi-tenant SaaS platforms, secure temporary access systems, and database-driven CMS architectures using Symfony 7
 
-### [220. Understanding the Command Query Responsibility Segregation Pattern](https://hackernoon.com/understanding-the-command-query-responsibility-segregation-pattern)
+### [220. PHP Development: Creating Toggleable Laravel Routes with Attributes](https://hackernoon.com/php-development-creating-toggleable-laravel-routes-with-attributes)
+![](https://cdn.hackernoon.com/images/yZi53v9tVybsXwdXldRGugWuUiE3-87822f9.jpeg)
+PHP 8 has introduced attributes that are quite impressive and powerful, and this article will use them to toggle Laravel routes on and off. How cool is that?
+
+### [221. How to Handle All PHP Errors](https://hackernoon.com/how-to-handle-all-php-errors)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-sr93pbm.jpeg)
+Sometimes your PHP application might produce many different types of earnings.
+
+### [222. Laravel Zero - How to Build a TCP Server](https://hackernoon.com/laravel-zero-how-to-build-a-tcp-server)
+![](https://cdn.hackernoon.com/images/yZi53v9tVybsXwdXldRGugWuUiE3-u7923nk.jpeg)
+Building console applications can be a lot of fun, but also quite challenging. However, Laravel Zero makes it incredibly easy and way more enjoyable!
+
+
+### [223. Understanding the Command Query Responsibility Segregation Pattern](https://hackernoon.com/understanding-the-command-query-responsibility-segregation-pattern)
 ![](https://cdn.hackernoon.com/images/9DGvEbbd20S6wIuDCTcX9gr5quL2-fo03tb0.jpeg)
 
 
-### [221. PHP Classes Use Case for Database Management in a Document Builder](https://hackernoon.com/php-classes-use-case-for-database-management-in-a-document-builder)
+### [224. PHP Classes Use Case for Database Management in a Document Builder](https://hackernoon.com/php-classes-use-case-for-database-management-in-a-document-builder)
 ![](https://cdn.hackernoon.com/images/kOGh8yb1TiVOy67Rvji043cXEXj1-p093ry5.jpeg)
 App that uploads user content to be rendered as a sequentially paginated, accessible, performant, responsive design, illustrated serial content document
 
-### [222. It is Time To Have A Quality Control For WordPress plugins](https://hackernoon.com/it-is-time-to-have-a-quality-control-for-wordpress-plugins-5v15318s)
+### [225. It is Time To Have A Quality Control For WordPress plugins](https://hackernoon.com/it-is-time-to-have-a-quality-control-for-wordpress-plugins-5v15318s)
 ![](https://cdn.hackernoon.com/images/PZbDuFJOtgfshyld0GXV8wXYdxc2-h4j31is.jpeg)
 When a post on Facebook, on Christmas Eve, about the poor quality of WordPress plug-ins gets hundreds of replies within a few hours you know you are not alone.
 
-### [223. Code Smell 286 - Parent-Child Method Overlaps](https://hackernoon.com/code-smell-286-parent-child-method-overlaps)
+### [226. Code Smell 286 - Parent-Child Method Overlaps](https://hackernoon.com/code-smell-286-parent-child-method-overlaps)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-pf034nv.jpeg)
 Avoid using private methods in parent classes with names that child classes can use.
 
-### [224. Visual Testing of Patternlab and Drupal](https://hackernoon.com/visual-testing-of-patternlab-and-drupal-764u37vp)
-![](https://images.unsplash.com/photo-1502068898470-ad70c83938be?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-What is Patternlab?
-
-### [225. Autonomous Agents at Scale: Lessons from Redis + Symfony Scheduler](https://hackernoon.com/autonomous-agents-at-scale-lessons-from-redis-symfony-scheduler)
+### [227. Autonomous Agents at Scale: Lessons from Redis + Symfony Scheduler](https://hackernoon.com/autonomous-agents-at-scale-lessons-from-redis-symfony-scheduler)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-ex03bf2.png)
 By building an asynchronous foundation, we can successfully transform our AI agent from a manually-triggered tool into a fully autonomous, self-managing app.
 
-### [226. Laravel Under The Hood - The Magic of Macros](https://hackernoon.com/laravel-under-the-hood-the-magic-of-macros)
+### [228. Laravel Under The Hood - The Magic of Macros](https://hackernoon.com/laravel-under-the-hood-the-magic-of-macros)
 ![](https://cdn.hackernoon.com/images/yZi53v9tVybsXwdXldRGugWuUiE3-9f024vw.jpeg)
 One way to extend Laravel with custom methods is through macros and mixins. Let me show you how!
 
-### [227. A Saner Method for Keeping Under API Rate Limits](https://hackernoon.com/a-saner-method-for-keeping-under-api-rate-limits)
+### [229. A Saner Method for Keeping Under API Rate Limits](https://hackernoon.com/a-saner-method-for-keeping-under-api-rate-limits)
 ![](https://cdn.hackernoon.com/images/software-development-cliwg5841000201s634m91l9l.png)
 Uncover a better way to keep under API rate limits. 
 
-### [228. Why Using Voice Assisted Technologies to Enhance Your Website’s User Experience is Your Next Move](https://hackernoon.com/why-using-voice-assisted-technologies-to-enhance-your-websites-user-experience-is-your-next-move)
-![](https://cdn.hackernoon.com/images/QdRQJW6V96b8SQtJgBmzVkZNOfl2-mt038us.jpeg)
-With 2022 ahead, e-commerce businesses should be using voice assisted technologies to enhance website user experience. Here's a roadmap of voice assistant A.I.
+### [230. Visual Testing of Patternlab and Drupal](https://hackernoon.com/visual-testing-of-patternlab-and-drupal-764u37vp)
+![](https://images.unsplash.com/photo-1502068898470-ad70c83938be?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+What is Patternlab?
 
-### [229. The New Features of Symfony 7.4: How Its Ushering a New Era for Media Validation](https://hackernoon.com/the-new-features-of-symfony-74-how-its-ushering-a-new-era-for-media-validation)
+### [231. The New Features of Symfony 7.4: How Its Ushering a New Era for Media Validation](https://hackernoon.com/the-new-features-of-symfony-74-how-its-ushering-a-new-era-for-media-validation)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-3u03dbk.jpeg)
 In this article, we will explore the new features of Symfony 7.4, with a special focus on the Video constraint, improved console commands, and more.
 
-### [230. How to Use PHP Attributes to Create and Use a Custom Validator in Symfony](https://hackernoon.com/how-to-use-php-attributes-to-create-and-use-a-custom-validator-in-symfony)
+### [232. How to Use PHP Attributes to Create and Use a Custom Validator in Symfony](https://hackernoon.com/how-to-use-php-attributes-to-create-and-use-a-custom-validator-in-symfony)
 ![](https://cdn.hackernoon.com/images/tGnvtufeN9cqbL84neE4CMcIcdD2-jb8338d.jpeg)
 This blog post will guide you through creating and using a custom validator in Symfony to validate UK mobile number prefixes using PHP attributes.
 
-### [231. Laravel's Strategy Pattern: The Manager Under the Hood](https://hackernoon.com/laravels-strategy-pattern-the-manager-under-the-hood)
+### [233. Laravel's Strategy Pattern: The Manager Under the Hood](https://hackernoon.com/laravels-strategy-pattern-the-manager-under-the-hood)
 ![](https://cdn.hackernoon.com/images/yZi53v9tVybsXwdXldRGugWuUiE3-fg923v9.jpeg)
 Have you ever wondered how Laravel switches between different drivers' implementations? Well, hang tight, we will learn how!
 
-### [232. The HackerNoon Newsletter: Why Laziness is a Superpower (10/25/2024)](https://hackernoon.com/10-25-2024-newsletter)
+### [234. Step-by-Step: Turning Your Slack Listener into a Proactive Agent](https://hackernoon.com/step-by-step-turning-your-slack-listener-into-a-proactive-agent)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-zv03bvk.jpeg)
+Turn your Slack listener into a proactive agent with Symfony. Send automated responses using webhooks, Notifier, and Messenger.
+
+### [235. The HackerNoon Newsletter: Why Laziness is a Superpower (10/25/2024)](https://hackernoon.com/10-25-2024-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_848_nzjtgqqtypac6tk9t0glmnn1.png)
 10/25/2024: Top 5 stories on the HackerNoon homepage!
 
-### [233. How to Retrofit ExpressionEngine 1 and 2 for PHP 7](https://hackernoon.com/how-to-retrofit-expressionengine-1-and-2-for-php-7-131o31kb)
+### [236. Why Using Voice Assisted Technologies to Enhance Your Website’s User Experience is Your Next Move](https://hackernoon.com/why-using-voice-assisted-technologies-to-enhance-your-websites-user-experience-is-your-next-move)
+![](https://cdn.hackernoon.com/images/QdRQJW6V96b8SQtJgBmzVkZNOfl2-mt038us.jpeg)
+With 2022 ahead, e-commerce businesses should be using voice assisted technologies to enhance website user experience. Here's a roadmap of voice assistant A.I.
+
+### [237. How to Retrofit ExpressionEngine 1 and 2 for PHP 7](https://hackernoon.com/how-to-retrofit-expressionengine-1-and-2-for-php-7-131o31kb)
 ![](https://cdn.hackernoon.com/images/6Hfcq2KS46ggNUv0Qni0yxtxozD3-952h3290.jpeg)
 ExpressionEngine 1.x and 2.x are really solid, but they definitely do not work on PHP 7. Because I went through this process a couple times, I’ve now documented
 
-### [234. Time Data Series: How to Work With PHP Zmanim](https://hackernoon.com/time-data-series-how-to-work-with-php-zmanim)
+### [238. Time Data Series: How to Work With PHP Zmanim](https://hackernoon.com/time-data-series-how-to-work-with-php-zmanim)
 ![](https://cdn.hackernoon.com/images/TIrovxtBRdVJE7WPJnSVTkJ1fnu2-ry82t6w.jpeg)
 Taking the output from PHP Zmanim and making it more readable, as well as using it to get common (and not-so-common) time calculations. 
 
-### [235. Introducing Myself](https://hackernoon.com/introducing-myself-nj153u43)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-e6x3uw0.jpeg?alt=media&token=0a4bbc52-7f3a-4257-9ed4-88a34b619c8a)
-I have stumble upon this site looking for some solutions for my Django problem, and I loved it. I decided to signup and share my views on technology and apps development. I'm like 5 years experience PHP and JavaScript developer, although in that time I have developed one Angulajs mobile app. 
-
-### [236. The Noonification: Navigating Privacy in the Age of Big Compute (5/30/2024)](https://hackernoon.com/5-30-2024-noonification)
-![](https://cdn.hackernoon.com/images/noonification_555_n8m0cgqku45i4946imugmfyj.png)
-5/30/2024: Top 5 stories on the HackerNoon homepage!
-
-### [237. Unexpected Help from an Unlikely Source](https://hackernoon.com/unexpected-help-from-an-unlikely-source)
-![](https://cdn.hackernoon.com/images/KobPcf5nazNcjh4iUfyRlmitv723-b592iqc.jpeg)
-Sometimes you have a problem as a programmer and you have nobody to turn to
-
-### [238. How to Set up Database Integration Tests in Vanilla PHP](https://hackernoon.com/how-to-set-up-database-integration-tests-in-vanilla-php)
+### [239. How to Set up Database Integration Tests in Vanilla PHP](https://hackernoon.com/how-to-set-up-database-integration-tests-in-vanilla-php)
 ![](https://cdn.hackernoon.com/images/eSsHMF0jt0XKkw8llt1fuQqeKvR2-7r025ht.png)
 How to run fast, isolated, high-quality Database Integration Tests in legacy or framework-less PHP projects. 
 
-### [239. Here's Why I Prefer Laravel Custom Query Builders Over Scopes](https://hackernoon.com/heres-why-i-prefer-laravel-custom-query-builders-over-scopes)
+### [240. The Noonification: Navigating Privacy in the Age of Big Compute (5/30/2024)](https://hackernoon.com/5-30-2024-noonification)
+![](https://cdn.hackernoon.com/images/noonification_555_n8m0cgqku45i4946imugmfyj.png)
+5/30/2024: Top 5 stories on the HackerNoon homepage!
+
+### [241. Introducing Myself](https://hackernoon.com/introducing-myself-nj153u43)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-e6x3uw0.jpeg?alt=media&token=0a4bbc52-7f3a-4257-9ed4-88a34b619c8a)
+I have stumble upon this site looking for some solutions for my Django problem, and I loved it. I decided to signup and share my views on technology and apps development. I'm like 5 years experience PHP and JavaScript developer, although in that time I have developed one Angulajs mobile app. 
+
+### [242. Unexpected Help from an Unlikely Source](https://hackernoon.com/unexpected-help-from-an-unlikely-source)
+![](https://cdn.hackernoon.com/images/KobPcf5nazNcjh4iUfyRlmitv723-b592iqc.jpeg)
+Sometimes you have a problem as a programmer and you have nobody to turn to
+
+### [243. Here's Why I Prefer Laravel Custom Query Builders Over Scopes](https://hackernoon.com/heres-why-i-prefer-laravel-custom-query-builders-over-scopes)
 ![](https://cdn.hackernoon.com/images/yZi53v9tVybsXwdXldRGugWuUiE3-oz03o9l.jpeg)
 Laravel scopes make queries much more readable, but they come with a lot of magic. Custom Query Builders fix this issue, let me show you how to use them.
 
-### [240. Writing Clean Code: Practical Tricks for PHP](https://hackernoon.com/writing-clean-code-practical-tricks-for-php-1b1c33p1)
+### [244. Writing Clean Code: Practical Tricks for PHP](https://hackernoon.com/writing-clean-code-practical-tricks-for-php-1b1c33p1)
 ![](https://cdn.hackernoon.com/images/LLNXiPKIsZM5IWTNJfmlBf6EZjZ2-2n6126ni.jpeg)
 Writing clean code isn’t hard, but sometimes getting a piece of code to work right can get in the way of making it maintainable. 
 

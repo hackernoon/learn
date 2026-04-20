@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [travel](https://hackernoon.com/tagged/travel)
+### Let's learn about [Travel](https://hackernoon.com/tagged/travel) via these 115 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Travel involves the act of moving from one location to another, typically over a distance, for leisure or business purposes. The travel industry is a significant global economic sector, constantly evolving with technology and changing consumer behaviors to meet diverse demands.
+
 ### [1. How I live: My 115 things](https://hackernoon.com/how-i-live-my-115-things-53558259575b)
 ![](https://hackernoon.com/hn-images/1*1zN_qQDaZ5LCBRwE8zaj3g.jpeg)
 <em>This post is part of a larger attempt to share my personal “systems” that help me organize my life. By sharing my system, I hope to get feedback and inspire others to share as well.</em>
@@ -86,13 +90,13 @@ The travel industry, post-Covid, actually looks a lot brighter thanks to the tra
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8992af0.jpeg)
 While the industry is still recovering from pandemic-era losses, the pandemic actually accelerated the need for more efficient and intelligent technologies.
 
-### [22. Exploring the Rise of Hotel Assetization with Hoken ](https://hackernoon.com/exploring-the-rise-of-hotel-assetization-with-hoken)
-![](https://cdn.hackernoon.com/images/dVuTU2eaxzVLXorrs7pkwYwlRj12-h9a3pn5.jpeg)
-Learn about the new side hustle of hotel reselling and how assetization is making it possible.
-
-### [23. 7 Ways to Improve Cybersecurity when You Travel in 2022](https://hackernoon.com/7-ways-to-improve-cybersecurity-when-you-travel-in-2022)
+### [22. 7 Ways to Improve Cybersecurity when You Travel in 2022](https://hackernoon.com/7-ways-to-improve-cybersecurity-when-you-travel-in-2022)
 ![](https://cdn.hackernoon.com/images/fvoapMoXcVXn0SOYBV0DNSoYVFl1-ru93ptf.jpeg)
 If you travel frequently, you should know how to safeguard your data. Think about these things before taking off on your next vacation.
+
+### [23. Exploring the Rise of Hotel Assetization with Hoken ](https://hackernoon.com/exploring-the-rise-of-hotel-assetization-with-hoken)
+![](https://cdn.hackernoon.com/images/dVuTU2eaxzVLXorrs7pkwYwlRj12-h9a3pn5.jpeg)
+Learn about the new side hustle of hotel reselling and how assetization is making it possible.
 
 ### [24. Importance of Face Detection Algorithms in the Travel Industry](https://hackernoon.com/importance-of-face-detection-algorithms-in-the-travel-industry-8gke32v8)
 ![](https://cdn.hackernoon.com/images/g4td32jr.jpg)
@@ -130,13 +134,13 @@ Purple.com is apparently Virgin Atlantic’s choice of domain for its In-flight
 ![](https://cdn.hackernoon.com/images/PYpsal4mmMaym3I3xvelw29AUM73-deb3k8e.jpeg)
 Jeremy Foo, Founder and CEO at TripCandy's views on how the travel industry is being affected by the crypto revolution and what he expects from it in the future
 
-### [33. How I Got an International “Custom MBA” Degree for $36,337](https://hackernoon.com/how-i-got-an-international-custom-mba-degree-for-dollar36337-nc3h3ehr)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-i31g3eru.png?alt=media&token=7ed53726-a5c7-45fc-8712-144b0177e775)
-How I gained more for less than a fifth of the price of a top MBA
-
-### [34. Queen Elizabeth gave the name “Virginia](https://hackernoon.com/queen-elizabeth-gave-the-name-virginia)
+### [33. Queen Elizabeth gave the name “Virginia](https://hackernoon.com/queen-elizabeth-gave-the-name-virginia)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-ws173kqo.jpeg)
 The two Indians, Wanchese and Manteo, whom Amadas and Barlow brought home with them, were joined to the company as guides.
+
+### [34. How I Got an International “Custom MBA” Degree for $36,337](https://hackernoon.com/how-i-got-an-international-custom-mba-degree-for-dollar36337-nc3h3ehr)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-i31g3eru.png?alt=media&token=7ed53726-a5c7-45fc-8712-144b0177e775)
+How I gained more for less than a fifth of the price of a top MBA
 
 ### [35. How fear can be transformed into confidence](https://hackernoon.com/how-fear-can-be-transformed-into-confidence)
 ![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-a7a380l.jpeg)
@@ -218,33 +222,33 @@ I met the disciple of the "most hated man in the world." The story is illustrati
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-cpz3k60.jpeg)
 Francis Drake was born near Tavistock, Devonshire, where a colossal statue of the great navigator now stands.
 
-### [55. BEGINNINGS OF AMERICA](https://hackernoon.com/beginnings-of-america)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-4ib3k18.jpeg)
-This was fittingly Hakluyt’s last published work.
-
-### [56. The Voyages of Ohthere and Wulfstan](https://hackernoon.com/the-voyages-of-ohthere-and-wulfstan)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-fif3k1e.jpeg)
-With regard to the island Britannia, it is of considerable length to the north-east, being eight hundred miles long and only two hundred miles broad. 
-
-### [57. How We Built This: Launching our Flight Alerts Service with No Financial Backing](https://hackernoon.com/how-we-built-this-launching-our-flight-alerts-service-with-no-financial-backing)
+### [55. How We Built This: Launching our Flight Alerts Service with No Financial Backing](https://hackernoon.com/how-we-built-this-launching-our-flight-alerts-service-with-no-financial-backing)
 ![](https://cdn.hackernoon.com/images/h0WfETlIm7aqZFiiITVs5k7oxii2-ffb3hne.jpeg)
 We often pay for air tickets more than necessary. And most of us know about that. However, we sometimes just have no time or patience to find better deals. That’s the reason why email subscribing services, sending their users notifications about advantageous flight deals, have recently become popular. They commonly work as freemium services offering free or paid subscription plans. Since this market is relatively young, we saw an opportunity to enter it with our product and launched our Manyflights system in late December.
 
-### [58. Ask Me Anything About Japan ](https://hackernoon.com/ask-me-anything-about-japan-fual33h6)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-87aj3360.jpeg)
-Japan is home to many things and is one of the longest-lasting civilizations in the world. There are many things the country has to offer. 
+### [56. BEGINNINGS OF AMERICA](https://hackernoon.com/beginnings-of-america)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-4ib3k18.jpeg)
+This was fittingly Hakluyt’s last published work.
 
-### [59. TO PROVE BY CIRCUMSTANCE THAT THE NORTH-WEST PASSAGE HATH BEEN SAILED THROUGHOUT](https://hackernoon.com/to-prove-by-circumstance-that-the-north-west-passage-hath-been-sailed-throughout)
+### [57. The Voyages of Ohthere and Wulfstan](https://hackernoon.com/the-voyages-of-ohthere-and-wulfstan)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-fif3k1e.jpeg)
+With regard to the island Britannia, it is of considerable length to the north-east, being eight hundred miles long and only two hundred miles broad. 
+
+### [58. TO PROVE BY CIRCUMSTANCE THAT THE NORTH-WEST PASSAGE HATH BEEN SAILED THROUGHOUT](https://hackernoon.com/to-prove-by-circumstance-that-the-north-west-passage-hath-been-sailed-throughout)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-5pa3k4r.jpeg)
 First, as Gemma Frisius reciteth, there went from Europe three brethren though this passage: whereof it took the name of Fretum trium fratrum.
 
-### [60. A Smart Solution For Those Who've Resolved to Travel in 2020](https://hackernoon.com/a-smart-solution-for-those-whove-resolved-to-travel-in-2020-g6ma3xwf)
-![](https://cdn.hackernoon.com/drafts/rw1rp32k8.png)
-Everyday, we're working as developers, social media specialist, SEO specialists and we really enjoy our jobs.
+### [59. Ask Me Anything About Japan ](https://hackernoon.com/ask-me-anything-about-japan-fual33h6)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-87aj3360.jpeg)
+Japan is home to many things and is one of the longest-lasting civilizations in the world. There are many things the country has to offer. 
 
-### [61. VOYAGES FOR THE MUSCOVY COMPANY](https://hackernoon.com/voyages-for-the-muscovy-company)
+### [60. VOYAGES FOR THE MUSCOVY COMPANY](https://hackernoon.com/voyages-for-the-muscovy-company)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-zrq3kx0.jpeg)
 For a time the four ships kept gallant company.
+
+### [61. A Smart Solution For Those Who've Resolved to Travel in 2020](https://hackernoon.com/a-smart-solution-for-those-whove-resolved-to-travel-in-2020-g6ma3xwf)
+![](https://cdn.hackernoon.com/drafts/rw1rp32k8.png)
+Everyday, we're working as developers, social media specialist, SEO specialists and we really enjoy our jobs.
 
 ### [62. THE NEW NAVIGATION AND DISCOVERY OF THE KINGDOM OF MUSCOVY](https://hackernoon.com/the-new-navigation-and-discovery-of-the-kingdom-of-muscovy)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-qt93k0m.jpeg)
@@ -260,75 +264,75 @@ COVID-19](https://hackernoon.com/how-to-travel-to-africa-during-covid-19-682j37e
 Things to know before traveling to Africa during COVID-19.
 
 
-### [65. TO PROVE THAT THE INDIANS AFORENAMED CAME ONLY BY THE NORTH-WEST](https://hackernoon.com/to-prove-that-the-indians-aforenamed-came-only-by-the-north-west)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-i8d3k7j.jpeg)
-For if they had come by the Cape of Good Hope, then must they, as aforesaid, have fallen upon the south parts of America.
-
-### [66. What's on your 2022 Bucket List?](https://hackernoon.com/whats-on-your-2022-bucket-list)
-![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-da137yr.jpeg)
-With the new year starting, everyone is thinking about their goals for the year. Here's what the HN community had to say.
-
-### [67. FOOTPRINTS OF COLONIZATION](https://hackernoon.com/footprints-of-colonization)
+### [65. FOOTPRINTS OF COLONIZATION](https://hackernoon.com/footprints-of-colonization)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-pz143kt8.jpeg)
 “most gentle, loving, and faithful, voide of all guile and treason, and such as live after the maner of the golden age.”
 
-### [68. A Digital Nomad's Guide to Ethical Hedonism (in South America's #1 Vice City)](https://hackernoon.com/a-digital-nomads-guide-to-ethical-hedonism-in-south-americas-1-vice-city)
+### [66. THE EARLY VOYAGES](https://hackernoon.com/the-early-voyages)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-lwg3kx5.jpeg)
+“pendants and streams of purple and diverse other glorious colours, and flags of scarlet colour and silk.”
+
+### [67. A Digital Nomad's Guide to Ethical Hedonism (in South America's #1 Vice City)](https://hackernoon.com/a-digital-nomads-guide-to-ethical-hedonism-in-south-americas-1-vice-city)
 ![](https://cdn.hackernoon.com/images/1nOf3C3xXvNO2p1OYW96H4Kbel33-z8132fh.jpeg)
 In a radical lifestyle experiment and self-control challenge, I spent over three and a half months completely sober in Medellin, Colombia. 
 
-### [69. How One EU Announcement Killed Our AI App Launch](https://hackernoon.com/how-one-eu-announcement-killed-our-ai-app-launch)
+### [68. TO PROVE THAT THE INDIANS AFORENAMED CAME ONLY BY THE NORTH-WEST](https://hackernoon.com/to-prove-that-the-indians-aforenamed-came-only-by-the-north-west)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-i8d3k7j.jpeg)
+For if they had come by the Cape of Good Hope, then must they, as aforesaid, have fallen upon the south parts of America.
+
+### [69. What's on your 2022 Bucket List?](https://hackernoon.com/whats-on-your-2022-bucket-list)
+![](https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-da137yr.jpeg)
+With the new year starting, everyone is thinking about their goals for the year. Here's what the HN community had to say.
+
+### [70. How One EU Announcement Killed Our AI App Launch](https://hackernoon.com/how-one-eu-announcement-killed-our-ai-app-launch)
 ![](https://cdn.hackernoon.com/images/5bUHPRn0Elfz3IyYaf07EC5rOao2-kv034ce.png)
 The story of two founders who built a site that tracks liquid rules, airport info, and travel tips, only to have it crushed by a single EU announcement.
 
-### [70. Meet the Writer: Allen Taylor, Author: Cryptosocial: How Cryptocurrencies Are Changing Social Media](https://hackernoon.com/meet-the-writer-allen-taylor-author-cryptosocial-how-cryptocurrencies-are-changing-social-media)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-ir93vnv.jpeg)
-A lot of people aren’t aware that there are more than 80 different social media platforms and protocols.
-
-### [71. Travel and Hospitality: Adapting to the "Next Normal" with Blockchain Technology](https://hackernoon.com/travel-and-hospitality-adapting-to-the-next-normal-with-blockchain-technology-8wh3y57)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9VYFRNMP0JdgKHMkDoXzWz8TtQz2-42323rwp.jpeg?alt=media&token=3aa590f2-3a35-42c1-b0ab-b7e4d16c8b99)
-In May 2020, Deloitte mapped out 4 potential scenarios for the global travel and hospitality industry to get to the “next normal.” Each scenario evaluated known unknowns such as disease severity, government collaboration, healthcare response, economic consequences, and social cohesion.
-
-### [72. TO PROVE BY AUTHORITY A PASSAGE TO BE ON THE NORTH SIDE OF AMERICA](https://hackernoon.com/to-prove-by-authority-a-passage-to-be-on-the-north-side-of-america)
+### [71. TO PROVE BY AUTHORITY A PASSAGE TO BE ON THE NORTH SIDE OF AMERICA](https://hackernoon.com/to-prove-by-authority-a-passage-to-be-on-the-north-side-of-america)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-ali3k36.jpeg)
 By the like experiment you may find the ordinary motion of the sea in the ocean, how far soever you be off the land.
+
+### [72. Meet the Writer: Allen Taylor, Author: Cryptosocial: How Cryptocurrencies Are Changing Social Media](https://hackernoon.com/meet-the-writer-allen-taylor-author-cryptosocial-how-cryptocurrencies-are-changing-social-media)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-ir93vnv.jpeg)
+A lot of people aren’t aware that there are more than 80 different social media platforms and protocols.
 
 ### [73. CERTAIN OTHER REASONS OR ARGUMENTS TO PROVE A PASSAGE BY THE NORTH-WEST](https://hackernoon.com/certain-other-reasons-or-arguments-to-prove-a-passage-by-the-north-west)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-xfh3kqi.jpeg)
 Quarum quæ media est, non est habitabilis æstu.
 
-### [74. HOW THAT THE PASSAGE BY THE NORTH-WEST IS MORE COMMODIOUS FOR OUR TRAFFIC THAN THE OTHER BY THE EAST](https://hackernoon.com/how-that-the-passage-by-the-north-west-is-more-commodious-for-our-traffic-than-the-other-by-the-east)
+### [74. Travel and Hospitality: Adapting to the "Next Normal" with Blockchain Technology](https://hackernoon.com/travel-and-hospitality-adapting-to-the-next-normal-with-blockchain-technology-8wh3y57)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9VYFRNMP0JdgKHMkDoXzWz8TtQz2-42323rwp.jpeg?alt=media&token=3aa590f2-3a35-42c1-b0ab-b7e4d16c8b99)
+In May 2020, Deloitte mapped out 4 potential scenarios for the global travel and hospitality industry to get to the “next normal.” Each scenario evaluated known unknowns such as disease severity, government collaboration, healthcare response, economic consequences, and social cohesion.
+
+### [75. HOW THAT THE PASSAGE BY THE NORTH-WEST IS MORE COMMODIOUS FOR OUR TRAFFIC THAN THE OTHER BY THE EAST](https://hackernoon.com/how-that-the-passage-by-the-north-west-is-more-commodious-for-our-traffic-than-the-other-by-the-east)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-8pf3kiw.jpeg)
 But by the north-west we may safely trade without danger or annoyance of any prince living, Christian or heathen, it being out of all their trades.
 
 
-### [75. THE EARLY VOYAGES](https://hackernoon.com/the-early-voyages)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-lwg3kx5.jpeg)
-“pendants and streams of purple and diverse other glorious colours, and flags of scarlet colour and silk.”
-
-### [76. American colonization was ever paramount in his thoughts](https://hackernoon.com/american-colonization-was-ever-paramount-in-his-thoughts)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-kr1b3kdr.jpeg)
-This expedition was put in charge of Captain Samuel Mace, an excellent mariner, who had already made two voyages to “Virginia.” 
-
-### [77. The Boy's Hakluyt: English Voyages of Adventure and Discovery by Richard Hakluyt - Table of Link](https://hackernoon.com/the-boys-hakluyt-english-voyages-of-adventure-and-discovery-by-richard-hakluyt-table-of-link)
+### [76. The Boy's Hakluyt: English Voyages of Adventure and Discovery by Richard Hakluyt - Table of Link](https://hackernoon.com/the-boys-hakluyt-english-voyages-of-adventure-and-discovery-by-richard-hakluyt-table-of-link)
 ![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-ns93kqx.jpeg)
 The Boy's Hakluyt: English Voyages of Adventure and Discovery by Richard Hakluyt, is part of the HackerNoon Books Series.
 
-### [78. ON THE PACIFIC COAST](https://hackernoon.com/on-the-pacific-coast)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-gr113khh.jpeg)
-Drake made no more voyages of discovery.
+### [77. American colonization was ever paramount in his thoughts](https://hackernoon.com/american-colonization-was-ever-paramount-in-his-thoughts)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-kr1b3kdr.jpeg)
+This expedition was put in charge of Captain Samuel Mace, an excellent mariner, who had already made two voyages to “Virginia.” 
 
-### [79. Thirty-five years ago I made a voyage to the Arctic Seas in what Chaucer calls](https://hackernoon.com/thirty-five-years-ago-i-made-a-voyage-to-the-arctic-seas-in-what-chaucer-calls)
+### [78. Thirty-five years ago I made a voyage to the Arctic Seas in what Chaucer calls](https://hackernoon.com/thirty-five-years-ago-i-made-a-voyage-to-the-arctic-seas-in-what-chaucer-calls)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-rlh3kt8.jpeg)
 A little bote
 No bigger than a mannë’s thought;
 
-### [80. THE VOYAGES OF THE CABOTS](https://hackernoon.com/the-voyages-of-the-cabots)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-t4j3kb5.jpeg)
-"Henry by the grace of God, King of England and France, and lord of Ireland, to all to whom these presents shall come, Greeting.
-
-### [81. THE SECOND VOYAGE OF MASTER MARTIN FROBISHER](https://hackernoon.com/the-second-voyage-of-master-martin-frobisher)
+### [79. THE SECOND VOYAGE OF MASTER MARTIN FROBISHER](https://hackernoon.com/the-second-voyage-of-master-martin-frobisher)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-h5k3k2r.jpeg)
 It seemeth that these trees are driven from some part of the Newfoundland, with the current that setteth from the west to the east.
+
+### [80. ON THE PACIFIC COAST](https://hackernoon.com/on-the-pacific-coast)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-gr113khh.jpeg)
+Drake made no more voyages of discovery.
+
+### [81. THE VOYAGES OF THE CABOTS](https://hackernoon.com/the-voyages-of-the-cabots)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-t4j3kb5.jpeg)
+"Henry by the grace of God, King of England and France, and lord of Ireland, to all to whom these presents shall come, Greeting.
 
 ### [82. THE THIRD AND LAST VOYAGE INTO META INCOGNITA](https://hackernoon.com/the-third-and-last-voyage-into-meta-incognita)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-dgl3kx9.jpeg)
@@ -338,83 +342,83 @@ There fell also the same day, being the 26th July, such a horrible snow, that it
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-cra3kzs.jpeg)
 These letters were sent the next year after the date of King Edward’s letters, 1554.
 
-### [84. Voyages in Search of the North-West Passage by Richard Hakluyt - Table of Links](https://hackernoon.com/voyages-in-search-of-the-north-west-passage-by-richard-hakluyt-table-of-links)
-![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-o2b3kmr.jpeg)
-Voyages in Search of the North-West Passage by Richard Hakluyt, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
-
-### [85. HAWKINS IN FLORIDA](https://hackernoon.com/hawkins-in-florida)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-0ex3kum.jpeg)
-John Hawkins followed early in his father’s footsteps.
-
-### [86. 7 Useful Apps You Can Use in China](https://hackernoon.com/7-useful-apps-you-can-use-in-china-7u5s3as3)
-![](https://images.unsplash.com/photo-1508804185872-d7badad00f7d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Nowadays everyone is glued to their phones and it’s no different in China, the mobile phone is an indispensable tool and something we just cannot live without. Hands up if it’s one of the last things you see at night and the first thing you look at in the morning? I knew it! Coming to China, a very different country with a different culture and language, your phone becomes even more vital as it is one thing that makes you feel like you’re at home and keeps you connected to it.
-
-### [87. A DISCOURSE](https://hackernoon.com/a-discourse)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-xgd3kfa.jpeg)
-It is to be considered that of the Bona Speranza no word nor knowledge was had at this present day, nor yet of the arrival of the ships or goods from Scotland.
-
-### [88. GILBERT’S VOYAGES](https://hackernoon.com/gilberts-voyages)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-xb123k0y.jpeg)
-“I will not forsake my little company going homeward with whom I have passed so many stormes and perils.”
-
-### [89. THE OPENING OF RUSSIA](https://hackernoon.com/the-opening-of-russia)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-kgo3krp.jpeg)
-“Sir, Read and correct
-For great is the defect.”
-
-### [90. ELEGIAC VERSES BY WILLIAM WORDSWORTH](https://hackernoon.com/elegiac-verses-by-william-wordsworth)
+### [84. ELEGIAC VERSES BY WILLIAM WORDSWORTH](https://hackernoon.com/elegiac-verses-by-william-wordsworth)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-kcg3k3a.jpeg)
 In Memory of a Brother Drowned at Sea.
 
 
-### [91. CERTAIN REASONS ALLEGED FOR THE PROVING OF A PASSAGE BY THE NORTH-EAST BEFORE THE QUEEN’S MAJESTY](https://hackernoon.com/certain-reasons-alleged-for-the-proving-of-a-passage-by-the-north-east-before-the-queens-majesty)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-wxe3k2p.jpeg)
-In like manner is this current in the Frozen Sea increased and maintained by the Dwina, the river Ob, etc.
+### [85. GILBERT’S VOYAGES](https://hackernoon.com/gilberts-voyages)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-xb123k0y.jpeg)
+“I will not forsake my little company going homeward with whom I have passed so many stormes and perils.”
 
-### [92. Coliving Goes Open Source](https://hackernoon.com/coliving-goes-open-source)
-![](https://cdn.hackernoon.com/images/NgR5umN0qkVpho2cPllOR5kYPng2-za1304d.png)
-Coliving App helps you find coliving spaces and mates that match your lifestyle, turning shared living into meaningful community.
+### [86. HAWKINS IN FLORIDA](https://hackernoon.com/hawkins-in-florida)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-0ex3kum.jpeg)
+John Hawkins followed early in his father’s footsteps.
 
-### [93. FROBISHER IN ARCTIC AMERICA](https://hackernoon.com/frobisher-in-arctic-america)
+### [87. THE OPENING OF RUSSIA](https://hackernoon.com/the-opening-of-russia)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-kgo3krp.jpeg)
+“Sir, Read and correct
+For great is the defect.”
+
+### [88. FROBISHER IN ARCTIC AMERICA](https://hackernoon.com/frobisher-in-arctic-america)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-72t3kj3.jpeg)
 Best, furnishing a description of the spirited scenes at the departure, properly begins the story.
 
-### [94. RICHARD HAKLUYT THE MAN](https://hackernoon.com/richard-hakluyt-the-man)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-ugc3k9s.jpeg)
-Richard Hakluyt was of an ancient Hertfordshire family, dating back in that historic county to the thirteenth century.
+### [89. A DISCOURSE](https://hackernoon.com/a-discourse)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-xgd3kfa.jpeg)
+It is to be considered that of the Bona Speranza no word nor knowledge was had at this present day, nor yet of the arrival of the ships or goods from Scotland.
 
-### [95. The Coins, Weights, and Measures, used in Russia](https://hackernoon.com/the-coins-weights-and-measures-used-in-russia)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-0cb3klu.jpeg)
-Whensoever you find the prices of your wares rated by the pode, consider that to be the great weight, and the pound to be small.
+### [90. 7 Useful Apps You Can Use in China](https://hackernoon.com/7-useful-apps-you-can-use-in-china-7u5s3as3)
+![](https://images.unsplash.com/photo-1508804185872-d7badad00f7d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Nowadays everyone is glued to their phones and it’s no different in China, the mobile phone is an indispensable tool and something we just cannot live without. Hands up if it’s one of the last things you see at night and the first thing you look at in the morning? I knew it! Coming to China, a very different country with a different culture and language, your phone becomes even more vital as it is one thing that makes you feel like you’re at home and keeps you connected to it.
 
-### [96. RALEIGH’S LOST COLONY](https://hackernoon.com/raleighs-lost-colony)
+### [91. Voyages in Search of the North-West Passage by Richard Hakluyt - Table of Links](https://hackernoon.com/voyages-in-search-of-the-north-west-passage-by-richard-hakluyt-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-o2b3kmr.jpeg)
+Voyages in Search of the North-West Passage by Richard Hakluyt, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [92. CERTAIN REASONS ALLEGED FOR THE PROVING OF A PASSAGE BY THE NORTH-EAST BEFORE THE QUEEN’S MAJESTY](https://hackernoon.com/certain-reasons-alleged-for-the-proving-of-a-passage-by-the-north-east-before-the-queens-majesty)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-wxe3k2p.jpeg)
+In like manner is this current in the Frozen Sea increased and maintained by the Dwina, the river Ob, etc.
+
+### [93. RALEIGH’S LOST COLONY](https://hackernoon.com/raleighs-lost-colony)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-6o193kl5.jpeg)
 On the twenty-second of July the ships were safe arrived at Hastorask.
 
-### [97. THE FIRST VOYAGE OF MASTER MARTIN FROBISHER](https://hackernoon.com/the-first-voyage-of-master-martin-frobisher)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-euj3kto.jpeg)
-To the North-West for the search of the passage or strait to China, written by Christopher Hall, and made in the year of our Lord 1576.
+### [94. The Coins, Weights, and Measures, used in Russia](https://hackernoon.com/the-coins-weights-and-measures-used-in-russia)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-0cb3klu.jpeg)
+Whensoever you find the prices of your wares rated by the pode, consider that to be the great weight, and the pound to be small.
 
-### [98. TO PROVE THAT THOSE INDIANS CAME NOT BY THE NORTH-EAST](https://hackernoon.com/to-prove-that-those-indians-came-not-by-the-north-east)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-wjc3krf.jpeg)
-The like whereof also happeneth in the Frozen Sea, which proveth but small continuance of that sea toward the east.
+### [95. RICHARD HAKLUYT THE MAN](https://hackernoon.com/richard-hakluyt-the-man)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-ugc3k9s.jpeg)
+Richard Hakluyt was of an ancient Hertfordshire family, dating back in that historic county to the thirteenth century.
 
-### [99. TO PROVE BY EXPERIENCE OF SUNDRY MEN’S TRAVELS THE OPENING OF SOME PART OF THIS NORTH-WEST PASSAGE](https://hackernoon.com/to-prove-by-experience-of-sundry-mens-travels-the-opening-of-some-part-of-this-north-west-passage)
+### [96. Coliving Goes Open Source](https://hackernoon.com/coliving-goes-open-source)
+![](https://cdn.hackernoon.com/images/NgR5umN0qkVpho2cPllOR5kYPng2-za1304d.png)
+Coliving App helps you find coliving spaces and mates that match your lifestyle, turning shared living into meaningful community.
+
+### [97. TO PROVE BY EXPERIENCE OF SUNDRY MEN’S TRAVELS THE OPENING OF SOME PART OF THIS NORTH-WEST PASSAGE](https://hackernoon.com/to-prove-by-experience-of-sundry-mens-travels-the-opening-of-some-part-of-this-north-west-passage)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-l293k40.jpeg)
 Likewise Hieronimus Fracastorius, a learned Italian, and traveller in the north parts of the same land.
 
-### [100. THE FIRST VOYAGE OF MASTER JOHN DAVIS](https://hackernoon.com/the-first-voyage-of-master-john-davis)
+### [98. THE FIRST VOYAGE OF MASTER MARTIN FROBISHER](https://hackernoon.com/the-first-voyage-of-master-martin-frobisher)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-euj3kto.jpeg)
+To the North-West for the search of the passage or strait to China, written by Christopher Hall, and made in the year of our Lord 1576.
+
+### [99. TO PROVE THAT THOSE INDIANS CAME NOT BY THE NORTH-EAST](https://hackernoon.com/to-prove-that-those-indians-came-not-by-the-north-east)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-wjc3krf.jpeg)
+The like whereof also happeneth in the Frozen Sea, which proveth but small continuance of that sea toward the east.
+
+### [100. VENTURES IN THE CABOTS’ TRACK](https://hackernoon.com/ventures-in-the-cabots-track)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-udm3kho.jpeg)
+With the failure of this enterprise Cabot again left England and reëntered the service of Spain, taking the post of “pilot major.”
+
+### [101. THE FIRST VOYAGE OF MASTER JOHN DAVIS](https://hackernoon.com/the-first-voyage-of-master-john-davis)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-a5n3kpf.jpeg)
 The Moonshine had nineteen persons, William Bruton, captain; John Ellis, master; the rest mariners.
 
-### [101. THE SECOND VOYAGE ATTEMPTED BY MASTER JOHN DAVIS](https://hackernoon.com/the-second-voyage-attempted-by-master-john-davis)
+### [102. THE SECOND VOYAGE ATTEMPTED BY MASTER JOHN DAVIS](https://hackernoon.com/the-second-voyage-attempted-by-master-john-davis)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-z8p3k5t.jpeg)
 This land is nothing in sight but isles, which increaseth our hope. 
-
-### [102. VENTURES IN THE CABOTS’ TRACK](https://hackernoon.com/ventures-in-the-cabots-track)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-udm3kho.jpeg)
-With the failure of this enterprise Cabot again left England and reëntered the service of Spain, taking the post of “pilot major.”
 
 ### [103. THE LUST FOR GOLD](https://hackernoon.com/the-lust-for-gold)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-0ev3k6j.jpeg)
@@ -429,29 +433,29 @@ It hath been attempted by Corterialis the Portuguese, Scolmus the Dane, and by S
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-ye93kqu.jpeg)
 Americans may well claim the pride of inheritance in these brave annals of adventure on untried seas and to unknown lands.
 
-### [106. QUEST FOR THE NORTHWEST PASSAGE](https://hackernoon.com/quest-for-the-northwest-passage)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-swh3k6a.jpeg)
-A passage by way of “Cathay” had the most powerful attractions.
+### [106. “THE PRINCIPAL NAVIGATIONS”](https://hackernoon.com/the-principal-navigations)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-i6e3kaz.jpeg)
+The titles of the three-volumed second edition set forth the contents of each book with the same minute detail as that of the initial volume of 1589.
 
 ### [107. THE ENGLISH CLAIM TO AMERICA](https://hackernoon.com/the-english-claim-to-america)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-xck3kgc.jpeg)
 The fifth testimony, out of Gomara’s “General History,” is the following extract from a history of the West Indies published in 1552–1553. 
 
-### [108. “THE PRINCIPAL NAVIGATIONS”](https://hackernoon.com/the-principal-navigations)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-i6e3kaz.jpeg)
-The titles of the three-volumed second edition set forth the contents of each book with the same minute detail as that of the initial volume of 1589.
+### [108. QUEST FOR THE NORTHWEST PASSAGE](https://hackernoon.com/quest-for-the-northwest-passage)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-swh3k6a.jpeg)
+A passage by way of “Cathay” had the most powerful attractions.
 
 ### [109. THE REPORT OF THOMAS WIARS](https://hackernoon.com/the-report-of-thomas-wiars)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-x2m3kv3.jpeg)
 They plied their voyage homeward, and fell with the west part of Ireland, about Galway, and had first sight of it on the 25th day of September.
 
-### [110. TO PROVE THAT THESE INDIANS, AFORENAMED, CAME NOT BY THE SOUTH-EAST, SOUTH-WEST](https://hackernoon.com/to-prove-that-these-indians-aforenamed-came-not-by-the-south-east-south-west)
-![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-imb3k27.jpeg)
-TO PROVE THAT THESE INDIANS, AFORENAMED, CAME NOT BY THE SOUTH-EAST, SOUTH-WEST, NOR FROM ANY OTHER PART OF AFRICA OR AMERICA
-
-### [111. REVIVAL OF THE NORTHWEST THEORY](https://hackernoon.com/revival-of-the-northwest-theory)
+### [110. REVIVAL OF THE NORTHWEST THEORY](https://hackernoon.com/revival-of-the-northwest-theory)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-cws3kt2.jpeg)
 From these two narrations, the one supplying details omitted by the other, the full graphic story is to be drawn.
+
+### [111. TO PROVE THAT THESE INDIANS, AFORENAMED, CAME NOT BY THE SOUTH-EAST, SOUTH-WEST](https://hackernoon.com/to-prove-that-these-indians-aforenamed-came-not-by-the-south-east-south-west)
+![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-imb3k27.jpeg)
+TO PROVE THAT THESE INDIANS, AFORENAMED, CAME NOT BY THE SOUTH-EAST, SOUTH-WEST, NOR FROM ANY OTHER PART OF AFRICA OR AMERICA
 
 ### [112. THE NORTHEAST PASSAGE](https://hackernoon.com/the-northeast-passage)
 ![](https://cdn.hackernoon.com/images/wqZXNrrppPU9328AfJbESiYgE2F2-9mn3kvk.jpeg)

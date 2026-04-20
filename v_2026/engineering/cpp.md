@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [cpp](https://hackernoon.com/tagged/cpp)
+### Let's learn about [Cpp](https://hackernoon.com/tagged/cpp) via these 72 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+C++ is a powerful, high-performance general-purpose programming language that supports various programming paradigms. It is crucial for systems programming, game development, embedded systems, and applications requiring extreme performance and low-level control.
+
 ### [1. How to Manipulate Bits in C and C++](https://hackernoon.com/bit-manipulation-in-c-and-c-1cs2bux)
 ![](https://images.unsplash.com/photo-1510511459019-5dda7724fd87?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 All data in computer is represented in binary i.e. in 0 or 1. Computers or machines do not understand our languages, they understand bits. Generally programmer do not care about operations at the bit level. But sometimes a programmer has to dive in a deeper level and work on bits.
@@ -85,17 +89,17 @@ Lambda function is quite an intuitive concept of Modern C++ introduced in C++1
 ![](https://cdn.hackernoon.com/drafts/v060q3zbm.png)
 Exception handling in C++ is a well-unschooled topic if you observe initial stages of the learning curve. There are numerous tutorials available online on exception handling in C++ with example. But few explains what you should not do & intricacies around it. So here, we will see some intricacies, from where & why you should not throw an exception along with some newer features introduced in Modern C++ on exception handling with example. I am not an expert but this is what I have gained from various sources, courses & industry experiences.
 
-### [21. Let’s Understand Chrome V8 — Chapter 6: Bytecode Generation](https://hackernoon.com/lets-understand-chrome-v8-chapter-6-bytecode-generation)
+### [21. Flynn’s Taxonomy and the Concept of Multithreading](https://hackernoon.com/flynns-taxonomy-and-the-concept-of-multithreading)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-sx8311c.jpeg)
+Discover the basics of Flynn's taxonomy and multithreading with a detailed overview of SISD. SIMD, MISD, and MIMD architecture, programming models with C++ ...
+
+### [22. Let’s Understand Chrome V8 — Chapter 6: Bytecode Generation](https://hackernoon.com/lets-understand-chrome-v8-chapter-6-bytecode-generation)
 ![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-vp93jgd.jpeg)
 Bytecode is the output of the parse, which is an architecture-independent abstract machine code. 
 
-### [22. How to Run and Debug C / C++ Code via VSCode](https://hackernoon.com/how-to-run-and-debug-c-c-code-via-vscode-a92t345j)
+### [23. How to Run and Debug C / C++ Code via VSCode](https://hackernoon.com/how-to-run-and-debug-c-c-code-via-vscode-a92t345j)
 ![](https://cdn.hackernoon.com/images/lHgH26UJ4iaguAawWutJNf2Ji6v1-rt4l32x4.jpeg)
 By the end of this short guide, you’d be able to run, debug, and get IntelliSense for C/C++ files in VSCode
-
-### [23. Flynn’s Taxonomy and the Concept of Multithreading](https://hackernoon.com/flynns-taxonomy-and-the-concept-of-multithreading)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-sx8311c.jpeg)
-Discover the basics of Flynn's taxonomy and multithreading with a detailed overview of SISD. SIMD, MISD, and MIMD architecture, programming models with C++ ...
 
 ### [24. Understanding Chrome V8 — Chapter 2: Hello World ](https://hackernoon.com/understanding-chrome-v8-chapter-2-hello-world)
 ![](https://cdn.hackernoon.com/images/ch5XBFpd9NU6CWx3O4zoVROt0pm1-mba3jua.jpeg)
@@ -161,13 +165,13 @@ Welcome to the first chapter of Let’s Understand Chrome V8.
 ![](https://cdn.hackernoon.com/images/wa12732ti.jpg)
 So I have started updating myself with Modern C++ a while ago & since my post 21 new features of Modern C++ to use in your project & All about lambda function in C++ was popular I decided to write about advanced C++ concepts & idioms which I have learned from this wikibook & course.
 
-### [39. How To Win The Race Against TOCTOU Vulnerabilities in C & C++](https://hackernoon.com/how-to-win-the-race-against-toctou-vulnerabilities-in-c-and-c-te193wc3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FB9tVWVf5ZQRG5MOMr1s0jfZunpn2-zo83qac.jpeg?alt=media&token=fc6e1583-26e6-49d0-acc5-7acc4b3a33b7)
-Security is an eternal race between the techniques and technologies of attackers and those of the defenders. Today, I'm proud to announce a step forward for defenders with a new rule to detect a literal race condition: TOCTOU (or TOCTTOU) vulnerabilities, known in long-form as Time Of Check (to) Time Of Use. 
-
-### [40. The HackerNoon Newsletter: 10 Noteworthy C and C++ Bugs Found in Open-Source Projects in 2025 (1/3/2026)](https://hackernoon.com/1-3-2026-newsletter)
+### [39. The HackerNoon Newsletter: 10 Noteworthy C and C++ Bugs Found in Open-Source Projects in 2025 (1/3/2026)](https://hackernoon.com/1-3-2026-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_120_rl1to22a0daqzhwu3l753tzd.png)
 1/3/2026: Top 5 stories on the HackerNoon homepage!
+
+### [40. How To Win The Race Against TOCTOU Vulnerabilities in C & C++](https://hackernoon.com/how-to-win-the-race-against-toctou-vulnerabilities-in-c-and-c-te193wc3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FB9tVWVf5ZQRG5MOMr1s0jfZunpn2-zo83qac.jpeg?alt=media&token=fc6e1583-26e6-49d0-acc5-7acc4b3a33b7)
+Security is an eternal race between the techniques and technologies of attackers and those of the defenders. Today, I'm proud to announce a step forward for defenders with a new rule to detect a literal race condition: TOCTOU (or TOCTTOU) vulnerabilities, known in long-form as Time Of Check (to) Time Of Use. 
 
 ### [41. How C program stored in RAM memory](https://hackernoon.com/q-how-you-can-increase-stack-frame-size-a-alloca-is-the-answer-google-about-it-or-see-this-r828332ch)
 ![](https://cdn.hackernoon.com/images/80p832t7.jpg)
@@ -185,20 +189,20 @@ The American company Electronic Arts Inc (EA) has made the source code of the ga
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgxaG8fTrVzUm0EeycUPpXSDj69I3-8qb28p8.jpeg?alt=media&token=8f845a7c-8e6b-4266-860a-8c91cc2ea6a6)
 Dependency Inversion Principle in C++ is the fifth & last design principle of a series SOLID as a Rock design principles. The SOLID design principles focus on developing software that is easy to maintainable, reusable & extendable. In this article, we will see an example code with the flaw & correct it with help of DIP. We will also see guideline & benefits of DIP inclosure of the article.
 
-### [45. Single Responsibility Principle in C++: SOLID as a Rock](https://hackernoon.com/single-responsibility-principle-in-c-solid-as-a-rock-4d323ygo)
+### [45. The 1980s Code Powering Modern Reliability—and the Mistakes It Still Makes](https://hackernoon.com/the-1980s-code-powering-modern-reliabilityand-the-mistakes-it-still-makes)
+![](https://cdn.hackernoon.com/images/6Dt8eSIVdXVdIJZnibGuyX1nwS33-fa0383r.png)
+We audit Erlang/OTP’s decades-old C and NIF code with PVS-Studio, surfacing logic bugs, buffer risks, undefined behavior, and leaks in battle-tested systems.
+
+### [46. An AI Created an Audio and Video Equalizer in C++ for Byte-by-Byte Streaming](https://hackernoon.com/an-ai-created-an-audio-and-video-equalizer-in-c-for-byte-by-byte-streaming)
+![](https://cdn.hackernoon.com/images/gpabZ3ae5AMod6NEaJWlcWwdp7G2-rs038yv.png)
+A developer asks Claude to make something most Sr. DSP Audio Engineers struggle with.
+
+### [47. Single Responsibility Principle in C++: SOLID as a Rock](https://hackernoon.com/single-responsibility-principle-in-c-solid-as-a-rock-4d323ygo)
 ![](https://cdn.hackernoon.com/drafts/2ysm2exq.png)
 This article is the first part of a five-part series about SOLID as 
 Rock design principle series. The SOLID design principles focus on 
 developing software that is easy to maintainable, reusable & 
 extendable. In this article, we will see an example of the Single Responsibility Principle in C++ along with its benefits & generic guideline.
-
-### [46. The 1980s Code Powering Modern Reliability—and the Mistakes It Still Makes](https://hackernoon.com/the-1980s-code-powering-modern-reliabilityand-the-mistakes-it-still-makes)
-![](https://cdn.hackernoon.com/images/6Dt8eSIVdXVdIJZnibGuyX1nwS33-fa0383r.png)
-We audit Erlang/OTP’s decades-old C and NIF code with PVS-Studio, surfacing logic bugs, buffer risks, undefined behavior, and leaks in battle-tested systems.
-
-### [47. An AI Created an Audio and Video Equalizer in C++ for Byte-by-Byte Streaming](https://hackernoon.com/an-ai-created-an-audio-and-video-equalizer-in-c-for-byte-by-byte-streaming)
-![](https://cdn.hackernoon.com/images/gpabZ3ae5AMod6NEaJWlcWwdp7G2-rs038yv.png)
-A developer asks Claude to make something most Sr. DSP Audio Engineers struggle with.
 
 ### [48. Fixing Code Errors in Amnesia: The Dark Descent](https://hackernoon.com/fixing-code-errors-in-amnesia-the-dark-descent-e0363wpg)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FO322TA7j93fsRTTa0swmcZx6VPR2-914w3w00.jpeg?alt=media&token=f9a430fa-1b71-4061-b528-64af542573c5)
@@ -208,17 +212,17 @@ Just before the release of the "Amnesia: Rebirth" game, the vendor "Fractional G
 ![](https://images.unsplash.com/photo-1513710239666-c29e2c09dc32?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 This is the second part of a five-part series about SOLID as Rock design principle. The SOLID design principles, when combined together, make it easy for a programmer to craft software that is easy to maintain, reuse & extend. Open-Closed Principle(OCP) is the second principle in this series which I will discuss here with minimalistic example in Modern C++ along with its benefits & generic guideline.
 
-### [50. Is C++ Really That Bad? Separating Fact from Folklore](https://hackernoon.com/is-c-really-that-bad-separating-fact-from-folklore)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1n023r8.jpeg)
-C++ has often been criticized for its complexity and steep learning curve.
-
-### [51. Lay a strong foundation by writing secure C and C++ utilities](https://hackernoon.com/lay-a-strong-foundation-by-writing-secure-c-and-c-utilities-jz153t31)
+### [50. Lay a strong foundation by writing secure C and C++ utilities](https://hackernoon.com/lay-a-strong-foundation-by-writing-secure-c-and-c-utilities-jz153t31)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1RnOuupxq8gggw7RRWNO3Is7dDH3-5g73qts.jpeg?alt=media&token=3186a5d6-656f-42ba-88d0-52aed529f32c)
 Libraries and system utilities form the foundations on which larger projects are built. So it's critical to make sure they, in particular, are secure. That's why we recently introduced five new rules for C++ and C to detect broken authentication and access control in *nix systems. The new rules fall into three categories: account validity, granting permissions, and changing directories. 
 
-### [52. False positives Are Considered Enemies, But Can They Be Your Friends?](https://hackernoon.com/false-positives-are-considered-enemies-but-can-they-be-your-friends-aj1x3wmk)
+### [51. False positives Are Considered Enemies, But Can They Be Your Friends?](https://hackernoon.com/false-positives-are-considered-enemies-but-can-they-be-your-friends-aj1x3wmk)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FB9tVWVf5ZQRG5MOMr1s0jfZunpn2-zz1g3q7w.jpeg?alt=media&token=bf7542d8-0bc7-4674-b72c-7ba3307e0688)
 When writing a rule for static analysis, it’s possible that in some cases, the rule does not give the results that were expected. Unfortunately, naming a false positive is often far easier than fixing it. In this post, I’ll discuss how the different types of rules give rise to different types of false positives, which ones are easier to fix than others, and how you can help. I’ll end with insight into how issues that are false positives can still be true indicators that the code needs to change.
+
+### [52. C++ Isn’t Going Anywhere in Game Development](https://hackernoon.com/c-isnt-going-anywhere-in-game-development)
+![](https://cdn.hackernoon.com/images/6Dt8eSIVdXVdIJZnibGuyX1nwS33-cy0389l.png)
+C++ remains the backbone of modern game engines—and it’s not going away anytime soon.
 
 ### [53. Bugs from the 90's: The Code of Command and Conquer [Volume 2]](https://hackernoon.com/bugs-from-the-90s-the-code-of-command-and-conquer-volume-2-np3y3t9w)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FO322TA7j93fsRTTa0swmcZx6VPR2-pa93wqu.jpeg?alt=media&token=b8638f22-1408-4d4e-9479-1056ff7b6cf3)
@@ -228,9 +232,9 @@ The American company Electronic Arts Inc (EA) has opened the source code of the 
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_545_dlfu7jncs80o0sliwg80moc0.png)
 12/31/2025: Top 5 stories on the HackerNoon homepage!
 
-### [55. C++ Isn’t Going Anywhere in Game Development](https://hackernoon.com/c-isnt-going-anywhere-in-game-development)
-![](https://cdn.hackernoon.com/images/6Dt8eSIVdXVdIJZnibGuyX1nwS33-cy0389l.png)
-C++ remains the backbone of modern game engines—and it’s not going away anytime soon.
+### [55. Is C++ Really That Bad? Separating Fact from Folklore](https://hackernoon.com/is-c-really-that-bad-separating-fact-from-folklore)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1n023r8.jpeg)
+C++ has often been criticized for its complexity and steep learning curve.
 
 ### [56. How To Use C++ Null Pointers](https://hackernoon.com/how-to-use-c-null-pointers-u2133uu5)
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-63836ys.jpeg)
@@ -256,7 +260,11 @@ In this article, I will explain classes, objects, access modifiers, constructors
 ![](https://cdn.hackernoon.com/images/NkoXiC4Y5zPmQbKuaIRhMW8Uzn12-hy936rd.jpeg)
 In this article, the breadth-first search algorithm is explained with examples and implementations, including how it can be modified to find the shortest paths.
 
-### [62. Top 10 Bugs Found in C++ Projects in 2020](https://hackernoon.com/top-10-bugs-found-in-c-projects-in-2020-9gk34lb)
+### [62. Inference Tax: Why Python Kills Your AI Agent Profitability, And How I Built a Nervous System in C++](https://hackernoon.com/inference-tax-why-python-kills-your-ai-agent-profitability-and-how-i-built-a-nervous-system-in-c)
+![](https://cdn.hackernoon.com/images/ooz70Z6mIrNBoHJWAaQhPY2W6Zu2-eof2esr.png)
+The AI industry is currently in a state of mass hallucination. We are promised a future of autonomous agents—vision models on factory floors, and more
+
+### [63. Top 10 Bugs Found in C++ Projects in 2020](https://hackernoon.com/top-10-bugs-found-in-c-projects-in-2020-9gk34lb)
 ![](https://cdn.hackernoon.com/images/O322TA7j93fsRTTa0swmcZx6VPR2-ha61318r.jpeg)
 Top 10 Bugs Found in C++ Projects.
 Modulo division by one
@@ -264,13 +272,9 @@ delete instead of delete[]
 Buffer overflow
 Meaningless overflow protection
 
-### [63. Is Learning C++ Scary?](https://hackernoon.com/is-learning-c-scary)
+### [64. Is Learning C++ Scary?](https://hackernoon.com/is-learning-c-scary)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-7193if2.jpeg)
 Don't let C++ scare you!
-
-### [64. Inference Tax: Why Python Kills Your AI Agent Profitability, And How I Built a Nervous System in C++](https://hackernoon.com/inference-tax-why-python-kills-your-ai-agent-profitability-and-how-i-built-a-nervous-system-in-c)
-![](https://cdn.hackernoon.com/images/ooz70Z6mIrNBoHJWAaQhPY2W6Zu2-eof2esr.png)
-The AI industry is currently in a state of mass hallucination. We are promised a future of autonomous agents—vision models on factory floors, and more
 
 ### [65. C++ Exceptions, Explained from First Principles (and Assembly)](https://hackernoon.com/c-exceptions-explained-from-first-principles-and-assembly)
 ![](https://cdn.hackernoon.com/images/6Dt8eSIVdXVdIJZnibGuyX1nwS33-c9038ne.png)
@@ -288,15 +292,19 @@ Another year is drawing to an end, and it's a perfect time to make yourself a cu
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FB9tVWVf5ZQRG5MOMr1s0jfZunpn2-ftc3rz2.jpeg?alt=media&token=3535bf3d-1823-436b-9d52-8b242edc5dd2)
 Late feedback is a pain in the butt. Regardless of how it comes, hearing "that thing you did two weeks ago was wrong" is unwelcome at best. Good feedback is immediate, actionable and at least dispassionate, if not compassionate. 
 
-### [69. How Components Can Help to Speed Up the Development Process using the RTOS](https://hackernoon.com/how-components-can-help-to-speed-up-the-development-process-using-the-rtos-j026t3yvc)
+### [69. fcfTest Brings Single-Macro Unit Testing to C++](https://hackernoon.com/fcftest-brings-single-macro-unit-testing-to-c)
+![](https://cdn.hackernoon.com/images/NxL8EatlujUsIH1ORkxIwsEWUB52-id020nl.png)
+Discover fcfTest, an MIT-licensed C++ unit testing library with a single assertion macro, one-header setup, logging, and hierarchical test support.
+
+### [70. How Components Can Help to Speed Up the Development Process using the RTOS](https://hackernoon.com/how-components-can-help-to-speed-up-the-development-process-using-the-rtos-j026t3yvc)
 ![](https://cdn.hackernoon.com/images/t1xp3y7o.jpg)
 Do you need components when you're working on a real-time operating system? The components such as FinSH console, virtual file system, utest framework, dynamic module, socket abstraction layer, AT commands, POSIX interface, Ulog log, power management, or network framework. If you have these demands, this article may be of interest. 
 
-### [70. Why Even Legendary Games Like Wesnoth Hide Bugs in Plain Sight](https://hackernoon.com/why-even-legendary-games-like-wesnoth-hide-bugs-in-plain-sight)
+### [71. Why Even Legendary Games Like Wesnoth Hide Bugs in Plain Sight](https://hackernoon.com/why-even-legendary-games-like-wesnoth-hide-bugs-in-plain-sight)
 ![](https://cdn.hackernoon.com/images/YaGskoRFFiZUrSR6k9nHFbhKhMs1-zp03ab7.png)
  Discover why even classic open-source games like The Battle for Wesnoth conceal hidden bugs—and how static analysis tools reveal them.
 
-### [71. Lay a strong foundation by writing secure C and C++ utilities](https://hackernoon.com/lay-a-strong-foundation-by-writing-secure-c-and-c-utilities-4m133trf)
+### [72. Lay a strong foundation by writing secure C and C++ utilities](https://hackernoon.com/lay-a-strong-foundation-by-writing-secure-c-and-c-utilities-4m133trf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1RnOuupxq8gggw7RRWNO3Is7dDH3-5g73qts.jpeg?alt=media&token=3186a5d6-656f-42ba-88d0-52aed529f32c)
 Libraries and system utilities form the foundations on which larger projects are built. So it's critical to make sure they, in particular, are secure. That's why we recently introduced five new rules for C++ and C to detect broken authentication and access control in *nix systems. The new rules fall into three categories: account validity, granting permissions, and changing directories. 
 

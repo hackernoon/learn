@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [cryptohayes](https://hackernoon.com/tagged/cryptohayes)
+### Let's learn about [Cryptohayes](https://hackernoon.com/tagged/cryptohayes) via these 58 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+CryptoHayes typically refers to Arthur Hayes, a prominent figure in the cryptocurrency space and co-founder of BitMEX, known for his insightful analysis and commentary on crypto markets. His perspectives are valued by many seeking to understand market dynamics and future trends.
+
 ### [1. Curve Ball](https://hackernoon.com/curve-ball)
 ![](https://cdn.hackernoon.com/images/fzCq5YEgXyXMzUyeDwj9DeNu64Z2-q493p0x.jpeg)
 What would happen to the price of Bitcoin in the medium-term if oil ramped 2x to 3x overnight? 
@@ -149,13 +153,13 @@ With the Treasury flooding the market with debt and the Fed talking out of both 
 ![](https://cdn.hackernoon.com/images/fzCq5YEgXyXMzUyeDwj9DeNu64Z2-kp93tox.jpeg)
 How the Fed is doomed to fail, and how the more they try to right the ship using Volkernomics, the further they will push the US in a direction that is directly
 
-### [38. The Noonification: Panda Power (11/28/2023)](https://hackernoon.com/11-28-2023-noonification)
-![](https://cdn.hackernoon.com/images/noonification_903_u82wpjguxttsnoqhw863gly9.png)
-11/28/2023: Top 5 stories on the Hackernoon homepage!
-
-### [39. Shapella’s Show](https://hackernoon.com/shapellas-show)
+### [38. Shapella’s Show](https://hackernoon.com/shapellas-show)
 ![](https://cdn.hackernoon.com/images/fzCq5YEgXyXMzUyeDwj9DeNu64Z2-rg93p4k.png)
 The thinkpiece speaks about the overall movement to decentralize validators of the Ethereum network
+
+### [39. The Noonification: Panda Power (11/28/2023)](https://hackernoon.com/11-28-2023-noonification)
+![](https://cdn.hackernoon.com/images/noonification_903_u82wpjguxttsnoqhw863gly9.png)
+11/28/2023: Top 5 stories on the Hackernoon homepage!
 
 ### [40. Signposts](https://hackernoon.com/signposts)
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-yg83s49.gif.webp)
@@ -173,17 +177,17 @@ The thinkpiece speaks about the overall movement to decentralize validators of t
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 1/19/2023: Top 5 stories on the Hackernoon homepage!
 
-### [44. The Noonification: Group of Fools (6/7/2024)](https://hackernoon.com/6-7-2024-noonification)
+### [44. The Noonification: Be Present (2/7/2023)](https://hackernoon.com/2-7-2023-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+2/7/2023: Top 5 stories on the Hackernoon homepage!
+
+### [45. The Noonification: Group of Fools (6/7/2024)](https://hackernoon.com/6-7-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_594_ktncrwd2wlzg0x8rzpexpx5q.png)
 6/7/2024: Top 5 stories on the HackerNoon homepage!
 
-### [45. The Noonification: Patience is Beautiful  (6/18/2023)](https://hackernoon.com/6-18-2023-noonification)
+### [46. The Noonification: Patience is Beautiful  (6/18/2023)](https://hackernoon.com/6-18-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 6/18/2023: Top 5 stories on the Hackernoon homepage!
-
-### [46. The Noonification: Be Present (2/7/2023)](https://hackernoon.com/2-7-2023-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-2/7/2023: Top 5 stories on the Hackernoon homepage!
 
 ### [47. The Noonification: Expression (12/23/2023)](https://hackernoon.com/12-23-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_626_pappz5c0ubcu9xgram4jii9p.png)
@@ -193,13 +197,13 @@ The thinkpiece speaks about the overall movement to decentralize validators of t
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 5/9/2023: Top 5 stories on the Hackernoon homepage!
 
-### [49. The Noonification: Massa (7/30/2023)](https://hackernoon.com/7-30-2023-noonification)
-![](https://cdn.hackernoon.com/images/noonification_994_ctqsw6nd94pxs51zmepe0r6v.png)
-7/30/2023: Top 5 stories on the Hackernoon homepage!
-
-### [50. The Noonification: Patience is Beautiful  (6/2/2023)](https://hackernoon.com/6-2-2023-noonification)
+### [49. The Noonification: Patience is Beautiful  (6/2/2023)](https://hackernoon.com/6-2-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 6/2/2023: Top 5 stories on the Hackernoon homepage!
+
+### [50. The Noonification: Massa (7/30/2023)](https://hackernoon.com/7-30-2023-noonification)
+![](https://cdn.hackernoon.com/images/noonification_994_ctqsw6nd94pxs51zmepe0r6v.png)
+7/30/2023: Top 5 stories on the Hackernoon homepage!
 
 ### [51. The Noonification: Dust on Crust (3/9/2023)](https://hackernoon.com/3-9-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)

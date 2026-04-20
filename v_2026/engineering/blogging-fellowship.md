@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [blogging-fellowship](https://hackernoon.com/tagged/blogging-fellowship)
+### Let's learn about [Blogging Fellowship](https://hackernoon.com/tagged/blogging-fellowship) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 HackerNoon runs a blogging fellowship to help people become better writers.
 
 ### [1. Introducing The HackerNoon Blogging Fellowship](https://hackernoon.com/introducing-the-hackernoon-blogging-fellowship-9g1d37cn)
@@ -251,17 +253,17 @@ Incantations offer a unique playstyle in Elden Ring and in this guide, players w
 ![](https://cdn.hackernoon.com/images/0ND921QitCePbuLAJQgufmkRClY2-7vi3s1g.jpeg)
 A great soundtrack is not only memorable but also enhances the experience of playing. Here are some of the 2022 games with the best music.
 
-### [63. 5 Ways to Unlock an Automatic Car Door Without the Key](https://hackernoon.com/5-ways-to-unlock-an-automatic-car-door-without-the-key)
+### [63. The Essential Guide to Sonic Characters: Friends and Foes](https://hackernoon.com/the-essential-guide-to-sonic-characters-friends-and-foes)
+![](https://cdn.hackernoon.com/images/0ND921QitCePbuLAJQgufmkRClY2-dc9368r.png)
+Sonic characters are memorable as each character has a unique personality and abilities that help them contribute to the story. Here's what you need to know.
+
+### [64. 5 Ways to Unlock an Automatic Car Door Without the Key](https://hackernoon.com/5-ways-to-unlock-an-automatic-car-door-without-the-key)
 ![](https://cdn.hackernoon.com/images/byhklj64gjOzxGueBueWncZVS8a2-5u93rq6.jpeg)
 How do you unlock your automatic car with the key stuck inside? Here are 5 ways to go about it.
 
-### [64. Warframe Railjack Crews: Everything You Need to Know](https://hackernoon.com/warframe-railjack-crews-everything-you-need-to-know-2e1m342z)
+### [65. Warframe Railjack Crews: Everything You Need to Know](https://hackernoon.com/warframe-railjack-crews-everything-you-need-to-know-2e1m342z)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-toe34ov.png)
 Railjack Crews are a great new mechanic that helps Railjack be the great game mode it was meant to be. This guide will help you get a crew for the Void.
-
-### [65. The Essential Guide to Sonic Characters: Friends and Foes](https://hackernoon.com/the-essential-guide-to-sonic-characters-friends-and-foes)
-![](https://cdn.hackernoon.com/images/0ND921QitCePbuLAJQgufmkRClY2-dc9368r.png)
-Sonic characters are memorable as each character has a unique personality and abilities that help them contribute to the story. Here's what you need to know.
 
 ### [66. Top 10 PC Games with the Best Graphics](https://hackernoon.com/top-10-pc-games-with-the-best-graphics)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-kgb37vu.jpeg)
@@ -291,28 +293,28 @@ Error 4013 on iPhone, iPad, and iPod appears during restore or update of device.
 ![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-gpa30z0.jpeg)
 Create a random password generator using Python by generating a combination of letters, numbers, and symbols as characters scrambled together
 
-### [73. How To use Google Colab with VS Code](https://hackernoon.com/how-to-use-google-colab-with-vs-code-mm1k3765)
-![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-wy1t32dc.jpeg)
-Google Colab and VS Code are popular editor tools. Learn how you can use Google Colab with VS Code and take advantage of a full-fledged code editor.
-
-### [74. Shadows of Doubt: A Guide to Investigating Crime Scenes and Solving Murder Cases](https://hackernoon.com/shadows-of-doubt-a-guide-to-investigating-crime-scenes-and-solving-murder-cases)
+### [73. Shadows of Doubt: A Guide to Investigating Crime Scenes and Solving Murder Cases](https://hackernoon.com/shadows-of-doubt-a-guide-to-investigating-crime-scenes-and-solving-murder-cases)
 ![](https://cdn.hackernoon.com/images/C2P9GJNqK9UOwYvFcGS1HQmFM4O2-5g93w5e.jpeg)
 1. Get to the crime scene ASAP
 2. Search the Crime Scene for Clues
 3. Investigate People and Places Connected to the Victim
 4. Snoop Around Computers
 
-### [75. MH Rise Weapons Ranked by Speedrun Performance](https://hackernoon.com/mh-rise-weapons-ranked-by-speedrun-performance-wi1e2441)
+### [74. 10 Cutest Pink Pokémon of All Time](https://hackernoon.com/10-cutest-pink-pokemon-of-all-time-2y2e3735)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-h51v37vs.jpeg)
+The franchise has many adorable cute pink Pokémon in its roster. Such as Jigglypuff, Mew and Slowpoke.
+
+### [75. How To use Google Colab with VS Code](https://hackernoon.com/how-to-use-google-colab-with-vs-code-mm1k3765)
+![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-wy1t32dc.jpeg)
+Google Colab and VS Code are popular editor tools. Learn how you can use Google Colab with VS Code and take advantage of a full-fledged code editor.
+
+### [76. MH Rise Weapons Ranked by Speedrun Performance](https://hackernoon.com/mh-rise-weapons-ranked-by-speedrun-performance-wi1e2441)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-0lk34ab.jpeg)
 Monster Hunter (MH) Rise is all about, well, hunting monsters. The game has an impressive variety of dangerous beasts with unique mechanics, behaviors and even compelling animations. Unfortunately for them, we’re not talking about how amazing they are. We’re talking about which weapon works best with killing them. 
 
-### [76. The Best Ways to Get Iridium Ore in Stardew Valley](https://hackernoon.com/the-best-ways-to-get-iridium-ore-in-stardew-valley)
+### [77. The Best Ways to Get Iridium Ore in Stardew Valley](https://hackernoon.com/the-best-ways-to-get-iridium-ore-in-stardew-valley)
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-18c3kiy.jpeg)
 Iridium ore is the highest tier of ore in Stardew Valley and this guide includes everything players need to know on the best ways to get it.
-
-### [77. 10 Cutest Pink Pokémon of All Time](https://hackernoon.com/10-cutest-pink-pokemon-of-all-time-2y2e3735)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-h51v37vs.jpeg)
-The franchise has many adorable cute pink Pokémon in its roster. Such as Jigglypuff, Mew and Slowpoke.
 
 ### [78. Destiny 2: Darkness in the Light Quest Guide ](https://hackernoon.com/destiny-2-darkness-in-the-light-quest-guide-4j1f379l)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-1g1g35ji.jpeg)
@@ -334,13 +336,13 @@ Generative artificial intelligence (AI) is moving at warp speed. Keep up with th
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-s56w35n6.jpeg)
 These are the five cybersecurity books that you should start with if you are considering a career within the industry. 
 
-### [83. NLP Datasets from HuggingFace: How to Access and Train Them](https://hackernoon.com/nlp-datasets-from-huggingface-how-to-access-and-train-them-i22u35t9)
-![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-xz1232kv.jpeg)
-The Datasets library from hugging Face provides a very efficient way to load and process NLP datasets from raw files or in-memory data. These NLP datasets have been shared by different research and practitioner communities across the world.
-
-### [84. Halo Legendary Campaigns Ranked By Difficulty](https://hackernoon.com/halo-legendary-campaigns-ranked-by-difficulty)
+### [83. Halo Legendary Campaigns Ranked By Difficulty](https://hackernoon.com/halo-legendary-campaigns-ranked-by-difficulty)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-3a1z35r3.jpeg)
 Halo on legendary difficulty is the ultimate trial for Halo fans. Not all Halo legendary runs are created equal though, which ones rank as the hardest?
+
+### [84. NLP Datasets from HuggingFace: How to Access and Train Them](https://hackernoon.com/nlp-datasets-from-huggingface-how-to-access-and-train-them-i22u35t9)
+![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-xz1232kv.jpeg)
+The Datasets library from hugging Face provides a very efficient way to load and process NLP datasets from raw files or in-memory data. These NLP datasets have been shared by different research and practitioner communities across the world.
 
 ### [85. The 8 Most Dangerous Cash App Scams (with Screenshots)](https://hackernoon.com/the-8-most-dangerous-cash-app-scams-with-screenshots)
 ![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-t393x13.jpeg)
@@ -406,13 +408,13 @@ Call of Duty Black Ops 2 is the most sold game in the franchise, followed by oth
 ![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-moc34bf.jpeg)
 Skyrim VR doesn't have official mod support, but there are plenty mods that work with it regardless. Here's how to get them working and where to find the best.
 
-### [101. How to Defeat Sekiro’s Demon of Hatred Boss](https://hackernoon.com/how-to-defeat-sekiros-demon-of-hatred-boss)
-![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-ng436v2.jpeg)
-Here are some tips and tricks to defeat the Demon of Hatred from Sekiro.
-
-### [102. Forza Horizon 5 Cars Guide: How to Build and Tune for Optimal Road Race Performance](https://hackernoon.com/forza-horizon-5-cars-guide-how-to-build-and-tune-for-optimal-road-race-performance)
+### [101. Forza Horizon 5 Cars Guide: How to Build and Tune for Optimal Road Race Performance](https://hackernoon.com/forza-horizon-5-cars-guide-how-to-build-and-tune-for-optimal-road-race-performance)
 ![](https://cdn.hackernoon.com/images/fTXf3VMEAsaM9hOcNy7EtEqOmaU2-xc0378q.jpeg)
 Forza Horizon 5 has just been released and for new players, building and tuning Forza Horizon 5 cars is tough, but this guide will help master the beast.
+
+### [102. How to Defeat Sekiro’s Demon of Hatred Boss](https://hackernoon.com/how-to-defeat-sekiros-demon-of-hatred-boss)
+![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-ng436v2.jpeg)
+Here are some tips and tricks to defeat the Demon of Hatred from Sekiro.
 
 ### [103. Learn K-Means Clustering by Quantizing Color Images in Python](https://hackernoon.com/learn-k-means-clustering-by-quantizing-color-images-in-python)
 ![](https://cdn.hackernoon.com/images/BYWRsHWtmGOUC5N4fwNhMqohMAC3-17a3hh8.jpeg)
@@ -506,13 +508,13 @@ Behavioral objectives are observable, measurable, and streamlined to achieve opt
 ![](https://cdn.hackernoon.com/images/0ND921QitCePbuLAJQgufmkRClY2-brp3sl2.jpeg)
 The year 2022 is one of the best years for video games, but 2023 is shaping up to be even better. Check out these top 15 upcoming games that you shouldn't miss!
 
-### [126. Can Quantum Healing Cure Cancer? Here's What Science Has To Say](https://hackernoon.com/is-quantum-healing-the-theory-of-everything-heres-what-science-has-to-say)
-![](https://cdn.hackernoon.com/images/zcvweoRwmVTpxqDnjpmRappzvp42-yh9360e.jpeg)
-Deepak Chopra claims that quantum healing is the “Theory of Everything” that can cure cancer & defeat aging. But it fails to comply with the actual science. 
-
-### [127. 11 Underrated Nintendo Switch Games Everyone Should Try](https://hackernoon.com/11-underrated-nintendo-switch-games-everyone-should-try)
+### [126. 11 Underrated Nintendo Switch Games Everyone Should Try](https://hackernoon.com/11-underrated-nintendo-switch-games-everyone-should-try)
 ![](https://cdn.hackernoon.com/images/sEVHo7GjLfYwVu0eY2zD6t877F73-0hi3s9z.jpeg)
 These 11 games on Nintendo Switch deserve much more attention than they are getting. Get on board the hype train for these genuinely special video games. 
+
+### [127. Can Quantum Healing Cure Cancer? Here's What Science Has To Say](https://hackernoon.com/is-quantum-healing-the-theory-of-everything-heres-what-science-has-to-say)
+![](https://cdn.hackernoon.com/images/zcvweoRwmVTpxqDnjpmRappzvp42-yh9360e.jpeg)
+Deepak Chopra claims that quantum healing is the “Theory of Everything” that can cure cancer & defeat aging. But it fails to comply with the actual science. 
 
 ### [128. 8 Best Monster Hunter World (MHW) Layered Armour](https://hackernoon.com/8-best-monster-hunter-world-mhw-layered-armour-k62i33pm)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-261532fq.jpeg)
@@ -586,37 +588,37 @@ In this article, you will be able to learn what useMemo it and how to use it eff
 ![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-frg307w.jpeg)
 In this tutorial, you’ll learn how to connect a front-end library, React, with EmailJS to receive user messages on your website or mobile applications
 
-### [146. Common Pitfalls to Avoid When Learning to Code](https://hackernoon.com/common-pitfalls-to-avoid-when-learning-to-code)
-![](https://cdn.hackernoon.com/images/pitfall-clco7wvjr000001s69y78e8d1.png)
-Learning to code can be a challenging and rewarding journey, but it's not without its pitfalls. However, with a little knowledge and planning, these common
-
-### [147. How to Encrypt a PDF Using Python](https://hackernoon.com/how-to-encrypt-a-pdf-using-python)
-![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-ium301s.jpeg)
-Encryption is a way of encoding human-readable data with encrypted code that enables the use of a password to view the source and data stored.
-
-### [148. Top 10 Strongest Dog Pokemon](https://hackernoon.com/top-10-strongest-dog-pokemon-xkv34vy)
+### [146. Top 10 Strongest Dog Pokemon](https://hackernoon.com/top-10-strongest-dog-pokemon-xkv34vy)
 ![](https://hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-qza034bq.jpeg)
 The 10 strongest dog Pokémon are Boltund, Stoutland, Smeargle, Houndoom, Arcanine, Grandbull, Jolteon and the legendry dog trio.
 
-### [149. 10 Best Zelda Games of All Time Ranked by Sales](https://hackernoon.com/10-best-zelda-games-of-all-time-ranked-by-sales)
-![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-qfe34p4.jpeg)
-Check out the top 10 best Zelda games throughout the franchise, ranked by their sales.
+### [147. Common Pitfalls to Avoid When Learning to Code](https://hackernoon.com/common-pitfalls-to-avoid-when-learning-to-code)
+![](https://cdn.hackernoon.com/images/pitfall-clco7wvjr000001s69y78e8d1.png)
+Learning to code can be a challenging and rewarding journey, but it's not without its pitfalls. However, with a little knowledge and planning, these common
 
-### [150. 10 Movie Tie-In Games That Were Actually Good](https://hackernoon.com/10-movie-tie-in-games-that-were-actually-good)
+### [148. How to Encrypt a PDF Using Python](https://hackernoon.com/how-to-encrypt-a-pdf-using-python)
+![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-ium301s.jpeg)
+Encryption is a way of encoding human-readable data with encrypted code that enables the use of a password to view the source and data stored.
+
+### [149. 10 Movie Tie-In Games That Were Actually Good](https://hackernoon.com/10-movie-tie-in-games-that-were-actually-good)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-m993mr8.jpeg)
 While they are now a thing of the past, it's worth celebrating and remembering these 10 movie tie-in games that were actually good.
+
+### [150. 10 Best Zelda Games of All Time Ranked by Sales](https://hackernoon.com/10-best-zelda-games-of-all-time-ranked-by-sales)
+![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-qfe34p4.jpeg)
+Check out the top 10 best Zelda games throughout the franchise, ranked by their sales.
 
 ### [151. Fallout 4 Halo Armor Mods: From the ODSTs to NOBLE Team](https://hackernoon.com/fallout-4-halo-armor-mods-from-the-odsts-to-noble-team-lb1o33ob)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-bkv3367.jpeg)
 There are a few Fallout 4 Halo Mods. This list looks at 4 of the best high-quality Spartan and ODST Fallout 4 Halo Armor mods found on the Fallout 4 Nexus.
 
-### [152. The Botox Generation: the Truth Behind the Anti-Wrinkle Injection](https://hackernoon.com/the-botox-generation-the-truth-behind-the-anti-wrinkle-injection)
-![](https://cdn.hackernoon.com/images/39dSgYyt2LU9sOcse6A1hGPTRbU2-ac037wf.jpeg)
-This article explores what the anti-wrinkle injection involves, the impact on individuals and society as a whole.
-
-### [153. The Ultimate PlayStation Exclusives Based on Sales and Metacritic](https://hackernoon.com/the-ultimate-playstation-exclusives-based-on-sales-and-metacritic)
+### [152. The Ultimate PlayStation Exclusives Based on Sales and Metacritic](https://hackernoon.com/the-ultimate-playstation-exclusives-based-on-sales-and-metacritic)
 ![](https://cdn.hackernoon.com/images/sEVHo7GjLfYwVu0eY2zD6t877F73-4rc3zjz.jpeg)
 Sony cranks out some of the best exclusive games on the market. Here are the essential PlayStation games to check out based on critical praise and insane sales.
+
+### [153. The Botox Generation: the Truth Behind the Anti-Wrinkle Injection](https://hackernoon.com/the-botox-generation-the-truth-behind-the-anti-wrinkle-injection)
+![](https://cdn.hackernoon.com/images/39dSgYyt2LU9sOcse6A1hGPTRbU2-ac037wf.jpeg)
+This article explores what the anti-wrinkle injection involves, the impact on individuals and society as a whole.
 
 ### [154. How to Find the Monster Hunter World (MHW) Majestic Horn](https://hackernoon.com/how-to-find-the-monster-hunter-world-mhw-majestic-horn-ls833ol)
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-s4v33on.jpeg)
@@ -630,25 +632,25 @@ Getting the new fanservice Warframe, Yareli takes you through a unique quest tha
 ![](https://cdn.hackernoon.com/images/IagORLorgab1vulL2f2r05xXVLo2-f093dpm.jpeg)
 This article explores IPTV and its benefits.
 
-### [157. The Strongest Pokémon Champions Ranked ](https://hackernoon.com/the-strongest-pokemon-champions-ranked-q0x33dk)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-cn4632pf.jpeg)
-Cynthia is the strongest of the Pokemon Champions, followed by Leon, Iris, Steven, Blue, Lance, Diantha, Alder, and Wallace ranked in terms of strength.
-
-### [158. How to Use Streamlit and Python to Build a Data Science App](https://hackernoon.com/how-to-use-streamlit-and-python-to-build-a-data-science-app)
+### [157. How to Use Streamlit and Python to Build a Data Science App](https://hackernoon.com/how-to-use-streamlit-and-python-to-build-a-data-science-app)
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-oj034yj.jpeg)
 Web apps are still useful tools for data scientists to present their data science projects to the users. Since we may not have web development skills, we can use open-source python libraries like Streamlit to easily develop web apps in a short time.
 
-### [159. Pokémon Radical Red: The Perfect Reimagining of a Classic ](https://hackernoon.com/pokemon-radical-red-the-perfect-reimagining-of-a-classic-2vo37hx)
+### [158. The Strongest Pokémon Champions Ranked ](https://hackernoon.com/the-strongest-pokemon-champions-ranked-q0x33dk)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-cn4632pf.jpeg)
+Cynthia is the strongest of the Pokemon Champions, followed by Leon, Iris, Steven, Blue, Lance, Diantha, Alder, and Wallace ranked in terms of strength.
+
+### [159. An Honest Review of Google's Intro to Generative AI Courses](https://hackernoon.com/an-honest-review-of-googles-intro-to-generative-ai-courses)
+![](https://cdn.hackernoon.com/images/z7054F6gVjd5Imd7KAQvmh9xFbn1-0h93xbv.jpeg)
+Google released a list of free Intro to Generative AI courses. This article provides a review of the learning path, including cheat sheets and summaries.
+
+### [160. Pokémon Radical Red: The Perfect Reimagining of a Classic ](https://hackernoon.com/pokemon-radical-red-the-perfect-reimagining-of-a-classic-2vo37hx)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-xq2l35i1.jpeg)
 Pokémon Radical Red is one of the best Pokémon ROM hacks available and should be played by any franchise fan.
 
-### [160. Is Cyber Security Hard? How to Find Your Way in](https://hackernoon.com/is-cyber-security-hard-how-to-find-your-way-in)
+### [161. Is Cyber Security Hard? How to Find Your Way in](https://hackernoon.com/is-cyber-security-hard-how-to-find-your-way-in)
 ![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-sra3ptt.jpeg)
 Cybersecurity is a broad, changing, challenging and complex field. To get into it, go beyond application forms with the tips described here.
-
-### [161. An Honest Review of Google's Intro to Generative AI Courses](https://hackernoon.com/an-honest-review-of-googles-intro-to-generative-ai-courses)
-![](https://cdn.hackernoon.com/images/z7054F6gVjd5Imd7KAQvmh9xFbn1-0h93xbv.jpeg)
-Google released a list of free Intro to Generative AI courses. This article provides a review of the learning path, including cheat sheets and summaries.
 
 ### [162. 5 Common Identity and Access Management Security Risks](https://hackernoon.com/5-common-identity-and-access-management-security-risks)
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-dz437lg.jpeg)
@@ -730,13 +732,13 @@ Here are the most common and insidious TikTok scams to look out for on the platf
 ![](https://cdn.hackernoon.com/images/4Utmua7swbeKmKkzfFUMrMiP41x2-u792ie4.jpeg)
 Spiritfarer spirits are one of the best parts of Thunder Lotus' Spiritfarer game. They all come with their own personalities and stories - which are the best?
 
-### [182. How I Learned to Stop Worrying](https://hackernoon.com/how-i-learned-to-stop-worrying)
-![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-n493h8d.jpeg)
-As a psychiatrist, I know worrying does not help. Focusing on our sphere of influence, the present moment, and gratitude can help with worry. 
-
-### [183. JA3 and JA3S in Security Monitoring of SSL Communication](https://hackernoon.com/ja3-and-ja3s-in-security-monitoring-of-ssl-communication-6e1w348s)
+### [182. JA3 and JA3S in Security Monitoring of SSL Communication](https://hackernoon.com/ja3-and-ja3s-in-security-monitoring-of-ssl-communication-6e1w348s)
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-er3r295b.jpeg)
 JA3 and JA3S are TLS fingerprinting methods that may be useful in security monitoring to detect and prevent against malicious activity within encrypted traffic.
+
+### [183. How I Learned to Stop Worrying](https://hackernoon.com/how-i-learned-to-stop-worrying)
+![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-n493h8d.jpeg)
+As a psychiatrist, I know worrying does not help. Focusing on our sphere of influence, the present moment, and gratitude can help with worry. 
 
 ### [184. The Future of Gaming with New AI-Powered Anti-Cheats](https://hackernoon.com/the-future-of-gaming-with-new-ai-powered-anti-cheats)
 ![](https://cdn.hackernoon.com/images/gJIQIg1YPxb5RjSISA8RrkbCDv83-5eg3ucd.jpeg)
@@ -762,13 +764,13 @@ Roblox Tycoon games are a dime a dozen. While they all have the some trappings, 
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-tn0369y.png)
 Telnet and SSH are network protocols used to manage and access devices remotely. SSH is more secure and preferred because it encrypts data sent over the network
 
-### [190. What is Hyperthreading and How Do You Enable It?](https://hackernoon.com/what-is-hyperthreading-and-how-do-you-enable-it-pa2k3784)
-![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-s8ac36ui.jpeg)
-Hyperthreading lets each core on a processor execute two hardware threads in parallel, providing the operating system with twice of logical cores.
-
-### [191. 10 Best Sega Genesis Games of All Time Ranked by Sales](https://hackernoon.com/10-best-sega-genesis-games-of-all-time-ranked-by-sales)
+### [190. 10 Best Sega Genesis Games of All Time Ranked by Sales](https://hackernoon.com/10-best-sega-genesis-games-of-all-time-ranked-by-sales)
 ![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-2i83833.jpeg)
 Check out the 10 best Sega Genesis games in terms of copies sold!
+
+### [191. What is Hyperthreading and How Do You Enable It?](https://hackernoon.com/what-is-hyperthreading-and-how-do-you-enable-it-pa2k3784)
+![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-s8ac36ui.jpeg)
+Hyperthreading lets each core on a processor execute two hardware threads in parallel, providing the operating system with twice of logical cores.
 
 ### [192. Can You Get a Scrum Master Certification for Free?](https://hackernoon.com/can-you-get-a-scrum-master-certification-for-free)
 ![](https://cdn.hackernoon.com/images/RMGhgLGonReGmisPwIYAa7M4rTo1-w492bjn.jpeg)
@@ -786,13 +788,13 @@ RNN is one of the popular neural networks that is commonly used to solve natural
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-nx3834tg.png)
 Mawile in Pokémon Sword can be found in the wild area, dens, and the Crown Tundra. You will need fire and ground type Pokemon as well as high-level items
 
-### [196. An Essential Dark Souls Mods Guide: The Best Mods from Dark Souls 3 to Dark Souls Remastered](https://hackernoon.com/an-essential-dark-souls-mods-guide-the-best-mods-from-dark-souls-3-to-dark-souls-remastered)
-![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-qd034hg.jpeg)
-As preparation for Elden Ring, check out these fantastic mods throughout the Dark Souls series!
-
-### [197. Curriculum Designer’s Handbook: Top 5 Curriculum Design Models](https://hackernoon.com/curriculum-designers-handbook-top-5-curriculum-design-models)
+### [196. Curriculum Designer’s Handbook: Top 5 Curriculum Design Models](https://hackernoon.com/curriculum-designers-handbook-top-5-curriculum-design-models)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-wd93lrl.jpeg)
 Curriculum design focuses on the production of the entire course blueprint, including how to develop a course outline and build the course, as well as how to
+
+### [197. An Essential Dark Souls Mods Guide: The Best Mods from Dark Souls 3 to Dark Souls Remastered](https://hackernoon.com/an-essential-dark-souls-mods-guide-the-best-mods-from-dark-souls-3-to-dark-souls-remastered)
+![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-qd034hg.jpeg)
+As preparation for Elden Ring, check out these fantastic mods throughout the Dark Souls series!
 
 ### [198. The Best Mass Effect 3 Mods in 2021](https://hackernoon.com/the-best-mass-effect-3-mods-in-2021-h47z37w1)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-a3i535cj.jpeg)
@@ -810,17 +812,17 @@ Game Pass is more popular now than ever, but for some the question remains: is X
 ![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-l0a3qdi.jpeg)
 You know how it goes. You're desperately trying to think of a good present for the hacker in your life. This list will give you the inspiration you need.
 
-### [202. The 25 Funniest Warzone Memes on the Internet](https://hackernoon.com/the-25-funniest-warzone-memes-on-the-internet-681033ln)
+### [202. 10 Best LEGO Games of All Time Ranked by Sales](https://hackernoon.com/10-best-lego-games-of-all-time-ranked-by-sales)
+![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-n7236v7.jpeg)
+Check out the 10 best-selling LEGO games of all time!
+
+### [203. The 25 Funniest Warzone Memes on the Internet](https://hackernoon.com/the-25-funniest-warzone-memes-on-the-internet-681033ln)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-r39d3232.jpeg)
 Warzone is the most famous battle royale. As with all popular games, meme culture has built around Warzone. Here are 25 of the funniest Warzone memes.
 
-### [203. Functional Programming: An Effective Approach for Experienced Programmers](https://hackernoon.com/functional-programming-an-effective-approach-for-experienced-programmers)
+### [204. Functional Programming: An Effective Approach for Experienced Programmers](https://hackernoon.com/functional-programming-an-effective-approach-for-experienced-programmers)
 ![](https://cdn.hackernoon.com/images/programmer-clcoj4289000101s6bv3vdsjx.png)
 Functional programming is a way of writing code that relies on the use of functions to solve problems.
-
-### [204. 10 Best LEGO Games of All Time Ranked by Sales](https://hackernoon.com/10-best-lego-games-of-all-time-ranked-by-sales)
-![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-n7236v7.jpeg)
-Check out the 10 best-selling LEGO games of all time!
 
 ### [205. How to Build a Rock, Paper, Scissors Game in Python](https://hackernoon.com/how-to-build-a-rock-paper-scissors-game-in-python)
 ![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-nnd30ut.jpeg)
@@ -834,17 +836,17 @@ Roblox is becoming very popular, and so is its meme culture. Here are 25 of the 
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-gsh37sx.jpeg)
 Indie games are better than ever, and the Nintendo Switch is a great home for them. Here are the best switch indie games available now, from Celeste to Hades. 
 
-### [208. 10 Best PS3 Games of All Time Ranked by Sales](https://hackernoon.com/10-best-ps3-games-of-all-time-ranked-by-sales)
-![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-bp036uu.jpeg)
-Check out the 10 best PS3 games ranked by how much they sold.
+### [208. Warframe Kuva Lich Guide: How to Make them Experience Requiem](https://hackernoon.com/warframe-kuva-lich-guide-how-to-make-them-experience-requiem-vo1f34ao)
+![](https://hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-5q143498.jpeg)
+Kuva Liches are a key part of late game content that give you Kuva weapons, ephemra and more. Learn about Requiems, Kuva Thralls and how to put the Liches down
 
 ### [209. 3 Data Distributions for Counts in Layman’s Terms](https://hackernoon.com/3-data-distributions-for-counts-in-laymans-terms)
 ![](https://cdn.hackernoon.com/images/wZtQzVW9IXObe1GeGaINXBF5SRj2-ts32gjb.gif.webp)
 Counts are everywhere, so no matter your background, these data distributions will come in handy.
 
-### [210. 10 Best Nintendo DS Games of All Time Ranked by Sales](https://hackernoon.com/10-best-nintendo-ds-games-of-all-time-ranked-by-sales)
-![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-xia343u.jpeg)
-Super Mario, Pokemon, and surprisingly, Brain Age are some of the best Nintendo DS game franchises, according to their overall sales.
+### [210. 10 Best PS3 Games of All Time Ranked by Sales](https://hackernoon.com/10-best-ps3-games-of-all-time-ranked-by-sales)
+![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-bp036uu.jpeg)
+Check out the 10 best PS3 games ranked by how much they sold.
 
 ### [211. Introduction to Cryptographic Hash Functions](https://hackernoon.com/cryptographic-hash-functions-in-blockchain-with-bash-and-python-code)
 ![](https://cdn.hackernoon.com/images/BYWRsHWtmGOUC5N4fwNhMqohMAC3-5793j1l.gif.webp)
@@ -854,9 +856,9 @@ Cryptographic Hash Functions are a class of hash functions that are cryptographi
 ![](https://cdn.hackernoon.com/images/clockwork-system-cogs-machinery-system-clgy0fo0q000101s6hnpq9isx.png)
 System thinking is a valuable framework for generalists, you need a proper framework for organizing your multiple thoughts, passions, and pursuits. 
 
-### [213. Warframe Kuva Lich Guide: How to Make them Experience Requiem](https://hackernoon.com/warframe-kuva-lich-guide-how-to-make-them-experience-requiem-vo1f34ao)
-![](https://hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-5q143498.jpeg)
-Kuva Liches are a key part of late game content that give you Kuva weapons, ephemra and more. Learn about Requiems, Kuva Thralls and how to put the Liches down
+### [213. 10 Best Nintendo DS Games of All Time Ranked by Sales](https://hackernoon.com/10-best-nintendo-ds-games-of-all-time-ranked-by-sales)
+![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-xia343u.jpeg)
+Super Mario, Pokemon, and surprisingly, Brain Age are some of the best Nintendo DS game franchises, according to their overall sales.
 
 ### [214. 6 Best Grand Theft Auto Mods: Fix The Definitive Edition](https://hackernoon.com/6-best-grand-theft-auto-mods-fix-the-definitive-edition)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-lp537p5.jpeg)
@@ -870,11 +872,7 @@ We looked at  two massive Fallout 4 Modern Weapons mods, Modern Firearms and Mod
 ![](https://cdn.hackernoon.com/images/CcvytrG2gnUKenRGfjKIfd8Wh152-9773653.jpeg)
 From Mario Golf to the PGA Tour, check out the best golf titles on Nintendo Switch now!
 
-### [217. How To Build and Deploy an NLP Model with FastAPI: Part 1](https://hackernoon.com/how-to-build-and-deploy-an-nlp-model-with-fastapi-part-1-n5w35cj)
-![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-w6e32yf.jpeg)
-Learn how to build an NLP model and deploy it with a  fast web framework for building APIs called FastAPI.
-
-### [218. How to Connect EPSON Printer to Wi-Fi: LCD and Non-Screen Display Printers](https://hackernoon.com/how-to-connect-epson-printer-to-wi-fi-lcd-and-non-screen-display-printers)
+### [217. How to Connect EPSON Printer to Wi-Fi: LCD and Non-Screen Display Printers](https://hackernoon.com/how-to-connect-epson-printer-to-wi-fi-lcd-and-non-screen-display-printers)
 ![](https://cdn.hackernoon.com/images/gJIQIg1YPxb5RjSISA8RrkbCDv83-ala3qmq.jpeg)
 Connect EPSON printer to Wifi:
 1.Press the home button
@@ -882,13 +880,17 @@ Connect EPSON printer to Wifi:
 3. Select 'start set up' or change settings. 
 4. Select 'Wifi Setup Wizard'
 
-### [219. How to Build Your Own Blog with Nuxt, Nuxt Content, and Cloudinary](https://hackernoon.com/how-to-build-your-own-blog-with-nuxt-nuxt-content-and-cloudinary)
-![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-iwd3vpv.jpeg)
-Nuxt is a front-end framework that helps you build dynamic blog pages using the Nuxt content module. This article is a guide to hosting your blog today.
+### [218. How To Build and Deploy an NLP Model with FastAPI: Part 1](https://hackernoon.com/how-to-build-and-deploy-an-nlp-model-with-fastapi-part-1-n5w35cj)
+![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-w6e32yf.jpeg)
+Learn how to build an NLP model and deploy it with a  fast web framework for building APIs called FastAPI.
 
-### [220. How to Deactivate or Delete a Facebook Account, Page, or Group](https://hackernoon.com/how-to-deactivate-or-delete-a-facebook-account-page-or-group)
+### [219. How to Deactivate or Delete a Facebook Account, Page, or Group](https://hackernoon.com/how-to-deactivate-or-delete-a-facebook-account-page-or-group)
 ![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-374e3510.jpeg)
 How to deactivate or delete a Facebook user account, page, and group. You can do this by going to Settings and following simple steps mentioned in this guide.
+
+### [220. How to Build Your Own Blog with Nuxt, Nuxt Content, and Cloudinary](https://hackernoon.com/how-to-build-your-own-blog-with-nuxt-nuxt-content-and-cloudinary)
+![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-iwd3vpv.jpeg)
+Nuxt is a front-end framework that helps you build dynamic blog pages using the Nuxt content module. This article is a guide to hosting your blog today.
 
 ### [221. Telegram Bots: How They Are Used](https://hackernoon.com/telegram-bots-how-they-are-used)
 ![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-1d337o9.jpeg)
@@ -910,13 +912,13 @@ The Kinect was one of Xbox's most ambitious projects, and so was its video games
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-fs93pix.jpeg)
 Pixar has successfully presented stories using a structure that works every time; it is a must-explore for any storyteller.
 
-### [226. Coursera vs Udemy: 6 Factors to Consider](https://hackernoon.com/coursera-vs-udemy-6-factors-to-consider-qm1537oy)
-![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-f3iv353s.jpeg)
-Coursera and Udemy are the most popular online learning platforms, but which one is better? Let's find out by comparing these 6 factors.
-
-### [227. How to Black Out Text in a PDF with Photoshop or for Free in Canva](https://hackernoon.com/how-to-black-out-text-in-a-pdf-with-photoshop-or-for-free-in-canva)
+### [226. How to Black Out Text in a PDF with Photoshop or for Free in Canva](https://hackernoon.com/how-to-black-out-text-in-a-pdf-with-photoshop-or-for-free-in-canva)
 ![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-qh93xdx.jpeg)
 Here's how to black out and blur out text in both Photoshop and Canva so your sensitive information stays safe. 
+
+### [227. Coursera vs Udemy: 6 Factors to Consider](https://hackernoon.com/coursera-vs-udemy-6-factors-to-consider-qm1537oy)
+![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-f3iv353s.jpeg)
+Coursera and Udemy are the most popular online learning platforms, but which one is better? Let's find out by comparing these 6 factors.
 
 ### [228. Why Targeting Single-Word Keywords Doesn't Work for Evergreen Content](https://hackernoon.com/why-targeting-single-word-keywords-doesnt-work-for-evergreen-content)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-w8g3tq5.jpeg)
@@ -950,13 +952,13 @@ Go from no knowledge to a working transcriber prototype step by step.
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-wok335ex.jpeg)
 Do you want more control of your iPhone? Then Jailbreak it. This is everything you need to know to jailbreak your device and the security risks you may face.
 
-### [236. Why iOS Development on Windows isn't Worth It](https://hackernoon.com/why-ios-development-on-windows-isnt-worth-it-k22435p5)
-![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-mn4234jd.jpeg)
-Yes, it's possible to perform iOS app development on Windows PCs, but you shouldn't, and here's why.
-
-### [237. Introduction to the Finite Element Method(F.E.M): A Practical Application Using Python](https://hackernoon.com/introduction-to-the-finite-element-methodfem-a-practical-application-using-python)
+### [236. Introduction to the Finite Element Method(F.E.M): A Practical Application Using Python](https://hackernoon.com/introduction-to-the-finite-element-methodfem-a-practical-application-using-python)
 ![](https://cdn.hackernoon.com/images/9mEVhVUDuCNNlVwf2fYGWWBDAdt1-ibx3r4m.jpeg)
 Python is a an easy language to use when implementing Finite element method to numerically get the response of engineering structures when subjected to stress.
+
+### [237. Why iOS Development on Windows isn't Worth It](https://hackernoon.com/why-ios-development-on-windows-isnt-worth-it-k22435p5)
+![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-mn4234jd.jpeg)
+Yes, it's possible to perform iOS app development on Windows PCs, but you shouldn't, and here's why.
 
 ### [238. What is Credit Card Skimming and How Do You Prevent it?](https://hackernoon.com/what-is-credit-card-skimming-and-how-do-you-prevent-it)
 ![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-a893o64.jpeg)
@@ -990,13 +992,13 @@ When you hear Metaverse, you think gaming but that is a small fraction of the wo
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-g7c32kc.jpeg)
 Learn how to combine categorical features in your dataset to improve your machine learning model performance.
 
-### [246. 5 Best Games Like Monster Hunter for MMORPG Fans](https://hackernoon.com/5-best-games-like-monster-hunter-for-mmorpg-fans)
-![](https://cdn.hackernoon.com/images/4Utmua7swbeKmKkzfFUMrMiP41x2-qre2dzt.jpeg)
-The five best games like Monster Hunter for MMORPG fans include Sword of Legends Online, Black Desert, Dauntless, Albion Online, and Diablo Immortal.
-
-### [247. Comparing Laptop Graphics Cards to Their Desktop Equivalents](https://hackernoon.com/comparing-laptop-graphics-cards-to-their-desktop-equivalents)
+### [246. Comparing Laptop Graphics Cards to Their Desktop Equivalents](https://hackernoon.com/comparing-laptop-graphics-cards-to-their-desktop-equivalents)
 ![](https://cdn.hackernoon.com/images/IagORLorgab1vulL2f2r05xXVLo2-2ja3d5b.jpeg)
 Graphics cards become more powerful every day, this article explains the different types of graphics cards and why the distinction is so important.
+
+### [247. 5 Best Games Like Monster Hunter for MMORPG Fans](https://hackernoon.com/5-best-games-like-monster-hunter-for-mmorpg-fans)
+![](https://cdn.hackernoon.com/images/4Utmua7swbeKmKkzfFUMrMiP41x2-qre2dzt.jpeg)
+The five best games like Monster Hunter for MMORPG fans include Sword of Legends Online, Black Desert, Dauntless, Albion Online, and Diablo Immortal.
 
 ### [248. Bayesian Brain: Is Your Brain a Data Scientist?](https://hackernoon.com/bayesian-brain-is-your-brain-a-data-scientist)
 ![](https://cdn.hackernoon.com/images/wZtQzVW9IXObe1GeGaINXBF5SRj2-aq23s26.gif)
@@ -1052,25 +1054,25 @@ Older car anti-theft devices do not take long to be disabled. It is safer to use
 
 
 
-### [261. Problem-Based Learning: David Merrill's Principles of Instruction](https://hackernoon.com/problem-based-learning-david-merrills-principles-of-instruction)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-tya3ol9.jpeg)
-Merrill's First Principles of Instruction are a series of very effective problem-based teaching methodologies. The principles are based on the five core princip
-
-### [262. 7 Scariest Roblox Horror Games: The Absolute Scariest](https://hackernoon.com/7-scariest-roblox-horror-games-the-absolute-scariest-951c37u5)
+### [261. 7 Scariest Roblox Horror Games: The Absolute Scariest](https://hackernoon.com/7-scariest-roblox-horror-games-the-absolute-scariest-951c37u5)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-0022350x.jpeg)
 If you want a scary time on Roblox, to find the best Roblox Horror Games, finding the right games can be a challange. Here are 7 of the scariest ones to try. 
 
-### [263. How Starlink is Disrupting the Internet](https://hackernoon.com/how-starlink-is-disrupting-the-internet-mj2o3496)
-![](https://hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-d94333kt.jpeg)
-Starlink, by SpaceX, will provide internet from the constellation of low Earth orbit satellites with low latency and high speed compared to submarine cables.
+### [262. Problem-Based Learning: David Merrill's Principles of Instruction](https://hackernoon.com/problem-based-learning-david-merrills-principles-of-instruction)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-tya3ol9.jpeg)
+Merrill's First Principles of Instruction are a series of very effective problem-based teaching methodologies. The principles are based on the five core princip
 
-### [264. 5 Amazing Blade & Sorcery Mods You Should Try (+ Extras)](https://hackernoon.com/5-amazing-blade-and-sorcery-mods-you-should-try-extras)
+### [263. 5 Amazing Blade & Sorcery Mods You Should Try (+ Extras)](https://hackernoon.com/5-amazing-blade-and-sorcery-mods-you-should-try-extras)
 ![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-yxa34dw.jpeg)
 Check out this list of the best Blade & Sorcery mods for VR enthusiasts, as well as some extra mods you should take a look at later on.
 
-### [265. Resin 3D Printing vs. PLA 3D Printing](https://hackernoon.com/resin-3d-printing-vs-pla-3d-printing)
+### [264. Resin 3D Printing vs. PLA 3D Printing](https://hackernoon.com/resin-3d-printing-vs-pla-3d-printing)
 ![](https://cdn.hackernoon.com/images/IagORLorgab1vulL2f2r05xXVLo2-pid3d5a.jpeg)
 This article explore 3D printing and the differences between resin 3D printing and PLA filament 3D printing
+
+### [265. How Starlink is Disrupting the Internet](https://hackernoon.com/how-starlink-is-disrupting-the-internet-mj2o3496)
+![](https://hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-d94333kt.jpeg)
+Starlink, by SpaceX, will provide internet from the constellation of low Earth orbit satellites with low latency and high speed compared to submarine cables.
 
 ### [266. Network Security 101: Everything You Need to Know](https://hackernoon.com/network-security-101-everything-you-need-to-know-t5j3745)
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-1lk35oj.jpeg)
@@ -1092,13 +1094,13 @@ Do you use payment apps to make purchases or send money to your friends and fami
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-y21z35ga.jpeg)
 The Nintendo Entertainment System is one of the best consoles of all time,. But which are the best NES games according to sales?
 
-### [271. 13 of the Best Video Game Trailers of All Time ](https://hackernoon.com/13-of-the-best-video-game-trailers-of-all-time-tm1l37ui)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-cyhx35ve.jpeg)
-In this slogging post, the writers at HackerNoon discuss the greatest video game trailers of all time. 
-
-### [272. Best PlayStation 4 Games for Kids: Rated E for Everyone](https://hackernoon.com/best-playstation-4-games-for-kids-rated-e-for-everyone)
+### [271. Best PlayStation 4 Games for Kids: Rated E for Everyone](https://hackernoon.com/best-playstation-4-games-for-kids-rated-e-for-everyone)
 ![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-lw038ek.jpeg)
 What are the best PS4 games for kids and families?
+
+### [272. 13 of the Best Video Game Trailers of All Time ](https://hackernoon.com/13-of-the-best-video-game-trailers-of-all-time-tm1l37ui)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-cyhx35ve.jpeg)
+In this slogging post, the writers at HackerNoon discuss the greatest video game trailers of all time. 
 
 ### [273. Avengers Ensemble: How Ensemble Modeling Helps You Avoid Overfitting](https://hackernoon.com/avengers-ensemble-how-ensemble-modeling-helps-you-avoid-overfitting)
 ![](https://cdn.hackernoon.com/images/wZtQzVW9IXObe1GeGaINXBF5SRj2-lt23s30.gif)
@@ -1112,13 +1114,13 @@ These times are hard and achieving good health may seem difficult, but it is pos
 ![](https://cdn.hackernoon.com/images/z2O4NeofWDX5SOchZg5vCRj7Rsz1-p293l3f.jpeg)
 Elden Ring takes place in the world known as The Lands Between. In this article, we'll explain what this world is based on the story and lore of Elden Ring.
 
-### [276. What is a DNS Attack and How Can You Protect Against It?](https://hackernoon.com/what-is-a-dns-attack-and-how-can-you-protect-against-it)
-![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-ih0365j.jpeg)
-DNS is a protocol that translates human-friendly URLs into IP addresses and a DNS attack is when a hacker exploits vulnerabilities in the DNS service itself. 
-
-### [277. Is Monster Hunter Rise Better or Worse than Capcom’s Previous Installments?](https://hackernoon.com/is-monster-hunter-rise-better-or-worse-than-capcoms-previous-installments)
+### [276. Is Monster Hunter Rise Better or Worse than Capcom’s Previous Installments?](https://hackernoon.com/is-monster-hunter-rise-better-or-worse-than-capcoms-previous-installments)
 ![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-o72833xu.jpeg)
 Monster Hunter Rise has achieved great success, but some complain it lacks content and difficulty compared to the rest of the series.
+
+### [277. What is a DNS Attack and How Can You Protect Against It?](https://hackernoon.com/what-is-a-dns-attack-and-how-can-you-protect-against-it)
+![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-ih0365j.jpeg)
+DNS is a protocol that translates human-friendly URLs into IP addresses and a DNS attack is when a hacker exploits vulnerabilities in the DNS service itself. 
 
 ### [278. 13 Instructional Design Models Explained: A Complete Guide for Beginners](https://hackernoon.com/13-instructional-design-models-explained-a-complete-guide-for-beginners)
 ![](https://cdn.hackernoon.com/images/zR7HaHTqCqZz6jp3ZEUARJgo6SJ3-wq1356t.jpeg)
@@ -1132,25 +1134,25 @@ Confusion Matrix is a tabular representation of an ML classifier's performance. 
 ![](https://cdn.hackernoon.com/images/PiHXGrWA2kY6q7oNt8I6tPTedqO2-5igh373i.jpeg)
 Upgradable NFTs will uprise as the next innovation in the non-fungible token marketplace. It will allow collectors to engage & have utility for their NFTs.
 
-### [281. Relic Space Review (PC): Taking the 4X Genre by Storm](https://hackernoon.com/relic-space-review-pc-taking-the-4x-genre-by-storm)
-![](https://cdn.hackernoon.com/images/IagORLorgab1vulL2f2r05xXVLo2-4a93dzs.jpeg)
-This is a review of the new 4X game Rogue Space! Explore, expand, exploit, and exterminate.
-
-### [282. 10 Best Capcom Games on Super Nintendo](https://hackernoon.com/10-best-capcom-games-on-super-nintendo-8f2637m5)
+### [281. 10 Best Capcom Games on Super Nintendo](https://hackernoon.com/10-best-capcom-games-on-super-nintendo-8f2637m5)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-nq11535uh.jpeg)
 The best classic games developed by Capcom for the Super Nintendo Entertainment System (SNES) in the 1990s.
 
-### [283. Pycaret: A Faster Way to Build Machine Learning Models](https://hackernoon.com/pycaret-a-faster-way-to-build-machine-learning-models-skf35zr)
-![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-gx1532le.jpeg)
-Pycaret is an open-source, low code library in python that aims to automate the development of machine learning models.
+### [282. Relic Space Review (PC): Taking the 4X Genre by Storm](https://hackernoon.com/relic-space-review-pc-taking-the-4x-genre-by-storm)
+![](https://cdn.hackernoon.com/images/IagORLorgab1vulL2f2r05xXVLo2-4a93dzs.jpeg)
+This is a review of the new 4X game Rogue Space! Explore, expand, exploit, and exterminate.
 
-### [284. 5 Must-Know Fighting Game Terms](https://hackernoon.com/5-must-know-fighting-game-terms-zmz35rs)
+### [283. 5 Must-Know Fighting Game Terms](https://hackernoon.com/5-must-know-fighting-game-terms-zmz35rs)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-lh1335uf.jpeg)
 Fighting game terms sound confusing to people outside the community, but now it's easier to learn with this new resource. Check out the 5 terms you need to know
 
-### [285. Is Momentum Solar a Pyramid Scheme?](https://hackernoon.com/is-momentum-solar-a-pyramid-scheme)
+### [284. Is Momentum Solar a Pyramid Scheme?](https://hackernoon.com/is-momentum-solar-a-pyramid-scheme)
 ![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-wwh3xt6.jpeg)
 Are free solar panels really free? Or are companies like Momentum Solar just highly funded scams? It turns out, maybe a little bit of both. 
+
+### [285. Pycaret: A Faster Way to Build Machine Learning Models](https://hackernoon.com/pycaret-a-faster-way-to-build-machine-learning-models-skf35zr)
+![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-gx1532le.jpeg)
+Pycaret is an open-source, low code library in python that aims to automate the development of machine learning models.
 
 ### [286. Understanding Conditions of Learning: Gagne’s 9 Events of Instruction](https://hackernoon.com/understanding-conditions-of-learning-gagnes-9-events-of-instruction)
 ![](https://cdn.hackernoon.com/images/zR7HaHTqCqZz6jp3ZEUARJgo6SJ3-mm93fd3.jpeg)
@@ -1172,53 +1174,53 @@ In the quantum realm, we can't define a particle’s definite position or moment
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-tau37zy.jpeg)
 Browsing in incognito mode may seem like a good idea, but it is not as safe as you think. It still has certain limitations that can put your privacy at risk.
 
-### [291. NetherRealm Studios Next Game: Mortal Kombat 12 or Injustice 3?](https://hackernoon.com/netherrealm-studios-next-game-mortal-kombat-12-or-injustice-3-cpx37rp)
+### [291. Ranking The Top 10 Best Spider-Man Games of All Time](https://hackernoon.com/ranking-the-top-10-best-spider-man-games-of-all-time)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-m8d3739.jpeg)
+Who doesn’t love Spider-Man? He’s a hero that I have loved since I was a kid and is the whole reason I became a fan of superhero-based media in the first place. Over the years, Spider-Man has crawled his way into just about every facet of entertainment, from movies, books, TV shows, and video games. And Spidey has more games than you could sling a web at. With so many to choose from, let's run down the list and rank the top 10 best Spider-Man games. Forgive me if I geek out in the process.
+
+### [292. NetherRealm Studios Next Game: Mortal Kombat 12 or Injustice 3?](https://hackernoon.com/netherrealm-studios-next-game-mortal-kombat-12-or-injustice-3-cpx37rp)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-nu7435et.jpeg)
 With the support for Mortal Kombat 11 officially finished, what's next for NetherRealm? It could be Injustice 3 or Mortal Kombat 12, or another game entirely. 
-
-### [292. How to Protect Your Facebook Account From Being Hacked ](https://hackernoon.com/how-to-protect-your-facebook-account-from-being-hacked)
-![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-ht93s30.jpeg)
-6 ways to protect your Facebook account from being hacked, including how to protect your password, the best privacy settings, and social engineering protection.
 
 ### [293. The 9 Best Anime Games on PC](https://hackernoon.com/the-9-best-anime-games-on-pc-ln1a37vv)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-yiaz35y2.jpeg)
 It's only natural to want to experience anime in a new medium. While not as common as their console counterparts, the Anime games on PC are still plenty of fun
 
-### [294. Hacked Apps: How to Identify and Fix Them](https://hackernoon.com/hacked-apps-how-to-identify-and-fix-them)
-![](https://cdn.hackernoon.com/images/gJIQIg1YPxb5RjSISA8RrkbCDv83-7683xy7.jpeg)
-Signs include popup ads, SMS and calls you didn't initiate, apps you didn't install, fast-draining battery. Solution: Remove apps, block pop-ups, freeze them...
+### [294. How to Protect Your Facebook Account From Being Hacked ](https://hackernoon.com/how-to-protect-your-facebook-account-from-being-hacked)
+![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-ht93s30.jpeg)
+6 ways to protect your Facebook account from being hacked, including how to protect your password, the best privacy settings, and social engineering protection.
 
 ### [295. 10 Best Monster Hunter Games Ranked by Metascore](https://hackernoon.com/10-best-monster-hunter-games-ranked-by-metascore)
 ![](https://cdn.hackernoon.com/images/4Utmua7swbeKmKkzfFUMrMiP41x2-gs92dgm.jpeg)
 The best Monster Hunter games, according to Metacritic, are Monster Hunter Stories 2, Monster Hunter Rise, and more, with Monster Hunter: World taking top spot.
 
-### [296. 6 Best Indie Games from Gamescom 2022 That We Can’t Wait to Play](https://hackernoon.com/6-best-indie-games-from-gamescom-2022-that-we-cant-wait-to-play)
+### [296. Hacked Apps: How to Identify and Fix Them](https://hackernoon.com/hacked-apps-how-to-identify-and-fix-them)
+![](https://cdn.hackernoon.com/images/gJIQIg1YPxb5RjSISA8RrkbCDv83-7683xy7.jpeg)
+Signs include popup ads, SMS and calls you didn't initiate, apps you didn't install, fast-draining battery. Solution: Remove apps, block pop-ups, freeze them...
+
+### [297. 6 Best Indie Games from Gamescom 2022 That We Can’t Wait to Play](https://hackernoon.com/6-best-indie-games-from-gamescom-2022-that-we-cant-wait-to-play)
 ![](https://cdn.hackernoon.com/images/0ND921QitCePbuLAJQgufmkRClY2-mxf34vv.jpeg)
 Gamescom 2022 will be remembered for a huge indie section that  Here is our list of the best indie games shown at the event.
 
-### [297. How To Build and Deploy an NLP Model with FastAPI: Part 2](https://hackernoon.com/how-to-build-and-deploy-an-nlp-model-with-fastapi-part-2-0a1x37ot)
+### [298. How To Build and Deploy an NLP Model with FastAPI: Part 2](https://hackernoon.com/how-to-build-and-deploy-an-nlp-model-with-fastapi-part-2-0a1x37ot)
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-rzu32nl.jpeg)
 Learn how to build an NLP model and deploy it with a  fast web framework for building APIs called FastAPI.
 
-### [298. 5 Best Ways to Get Pirate Coins in Lost Ark](https://hackernoon.com/5-best-ways-to-get-pirate-coins-in-lost-ark)
+### [299. 5 Best Ways to Get Pirate Coins in Lost Ark](https://hackernoon.com/5-best-ways-to-get-pirate-coins-in-lost-ark)
 ![](https://cdn.hackernoon.com/images/z2O4NeofWDX5SOchZg5vCRj7Rsz1-ahe3ldy.jpeg)
 Pirate Coins are a key currency in Lost Ark for buying ships, hiring crew, and unlocking collectibles. Here are the best ways to get pirate coins in Lost Ark.
 
-### [299. Python Library vs. Implementation From Scratch: 7 Things to Consider](https://hackernoon.com/python-library-vs-implementation-from-scratch-7-things-to-consider)
+### [300. Python Library vs. Implementation From Scratch: 7 Things to Consider](https://hackernoon.com/python-library-vs-implementation-from-scratch-7-things-to-consider)
 ![](https://cdn.hackernoon.com/images/wZtQzVW9IXObe1GeGaINXBF5SRj2-hr23sek.jpeg)
 The question of from-scratch implementation vs Python library comes up once in a while, no matter the goal of your project. 
 
-### [300. Ranking The Top 10 Best Spider-Man Games of All Time](https://hackernoon.com/ranking-the-top-10-best-spider-man-games-of-all-time)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-m8d3739.jpeg)
-Who doesn’t love Spider-Man? He’s a hero that I have loved since I was a kid and is the whole reason I became a fan of superhero-based media in the first place. Over the years, Spider-Man has crawled his way into just about every facet of entertainment, from movies, books, TV shows, and video games. And Spidey has more games than you could sling a web at. With so many to choose from, let's run down the list and rank the top 10 best Spider-Man games. Forgive me if I geek out in the process.
-
-### [301. The 10 Best PS1 Games of All Time Ranked by Sales](https://hackernoon.com/the-10-best-ps1-games-of-all-time-ranked-by-sales)
-![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-b902ckl.jpeg)
-The PS1, Sony's first console, was a great console of the 90s. Here are the best PS1 games of all time ranked by sales. It includes Tekken 3 and Tomb Raider. 
-
-### [302. What is the Difference Between Antivirus and Anti-malware?](https://hackernoon.com/what-is-the-difference-between-antivirus-and-anti-malware-efo37u3)
+### [301. What is the Difference Between Antivirus and Anti-malware?](https://hackernoon.com/what-is-the-difference-between-antivirus-and-anti-malware-efo37u3)
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-nti355s.jpeg)
 Anti-malware software defends against new malware you may encounter while antivirus software scans for known viruses and searches for any known threats.  
+
+### [302. The 10 Best PS1 Games of All Time Ranked by Sales](https://hackernoon.com/the-10-best-ps1-games-of-all-time-ranked-by-sales)
+![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-b902ckl.jpeg)
+The PS1, Sony's first console, was a great console of the 90s. Here are the best PS1 games of all time ranked by sales. It includes Tekken 3 and Tomb Raider. 
 
 ### [303. Richard Mayer's Cognitive Theory of Multimedia Explained: An Instructional Designer's Perspective](https://hackernoon.com/richard-mayers-cognitive-theory-of-multimedia-explained-an-instructional-designers-perspective)
 ![](https://cdn.hackernoon.com/images/zR7HaHTqCqZz6jp3ZEUARJgo6SJ3-qsa34k3.jpeg)
@@ -1228,49 +1230,49 @@ The Multimedia principles assert that deeper learning occurs from words and pict
 ![](https://cdn.hackernoon.com/images/ZipQbmK41FPRFMb8W3H41nYcI8A2-ly036tf.jpeg)
 Teddiursa debuted in Pokemon Gold & Silver, but has since become a background character. Here's why the bear Pokemon is important.
 
-### [305. 10 Best N64 Games of All Time Ranked by Sales](https://hackernoon.com/10-best-n64-games-of-all-time-ranked-by-sales-f91337uq)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-twd35bj.jpeg)
-The Nintendo 64 has an unlimited list of incredible games, but which ones sold the best? These are the best n64 games ranked by sales.
-
-### [306. What is SIM Swapping and How Do You Prevent It?](https://hackernoon.com/what-is-sim-swapping-and-how-do-you-prevent-it)
-![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-i893s4h.jpeg)
-This post covers how to prevent SIM swapping and all of the aspects that make up this insidious cybercrime. 
-
-### [307. Where to Sell Pokémon Cards Online: 3 Options](https://hackernoon.com/where-to-sell-pokemon-cards-online-3-options-uy1734x5)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-wf2k34yb.jpeg)
-To sell Pokemon cards online, you can sell your Pokemon cards on eBay as well as to collectors, and professional toy auctions. 
-
-### [308. DIY Quick Fixes for Samsung TV Black Screen of Death](https://hackernoon.com/diy-quick-fixes-for-samsung-tv-black-screen-of-death)
-![](https://cdn.hackernoon.com/images/byhklj64gjOzxGueBueWncZVS8a2-u9l3p8l.jpeg)
-A Samsung TV black screen can be fixed by checking all connections, choosing the right display mode, updating the TV firmware, or the streaming source signal.
-
-### [309. Best Games Like Wordle](https://hackernoon.com/best-games-like-wordle)
-![](https://cdn.hackernoon.com/images/bRBzAtCgtNW5ZaztiQhZNL86Mto2-lq92d3s.jpeg)
-An article containing a number of the best games like Wordle that have been created after its viral explosion on the gaming scene.
-
-### [310. Definitive Waluigi Meme List to Remind Us What Smash Bros. Ultimate is Missing](https://hackernoon.com/definitive-waluigi-meme-list-to-remind-us-what-smash-bros-ultimate-is-missing)
+### [305. Definitive Waluigi Meme List to Remind Us What Smash Bros. Ultimate is Missing](https://hackernoon.com/definitive-waluigi-meme-list-to-remind-us-what-smash-bros-ultimate-is-missing)
 ![](https://cdn.hackernoon.com/images/sEVHo7GjLfYwVu0eY2zD6t877F73-1kr3sgs.png)
 The funniest memes revolving around Waluigi's Super Smash Bros. Ultimate snub that will ease your pain. 
 
-### [311. Designer to Developer Handoff: How to Build a React Component from a Figma Design File](https://hackernoon.com/designer-to-developer-handoff-how-to-build-a-react-component-from-a-design-file)
+### [306. 10 Best N64 Games of All Time Ranked by Sales](https://hackernoon.com/10-best-n64-games-of-all-time-ranked-by-sales-f91337uq)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-twd35bj.jpeg)
+The Nintendo 64 has an unlimited list of incredible games, but which ones sold the best? These are the best n64 games ranked by sales.
+
+### [307. What is SIM Swapping and How Do You Prevent It?](https://hackernoon.com/what-is-sim-swapping-and-how-do-you-prevent-it)
+![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-i893s4h.jpeg)
+This post covers how to prevent SIM swapping and all of the aspects that make up this insidious cybercrime. 
+
+### [308. Designer to Developer Handoff: How to Build a React Component from a Figma Design File](https://hackernoon.com/designer-to-developer-handoff-how-to-build-a-react-component-from-a-design-file)
 ![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-u7r313r.jpeg)
 AWS Amplify allows you to build an application from Figma and import the components into React. With the help of Amplify, the tool creates reusable components
 
-### [312. Is Apple Pay Secure? The Platform Security and Privacy Overview](https://hackernoon.com/is-apple-pay-secure-platform-security-and-privacy-overview)
-![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-wd03672.jpeg)
-Apple Pay is a secure feature that uses multiple layers of encryption to protect users credit card information. Read to learn how to make Apple Pay more secure!
+### [309. DIY Quick Fixes for Samsung TV Black Screen of Death](https://hackernoon.com/diy-quick-fixes-for-samsung-tv-black-screen-of-death)
+![](https://cdn.hackernoon.com/images/byhklj64gjOzxGueBueWncZVS8a2-u9l3p8l.jpeg)
+A Samsung TV black screen can be fixed by checking all connections, choosing the right display mode, updating the TV firmware, or the streaming source signal.
 
-### [313. When Did Cyber Security Start?](https://hackernoon.com/when-did-cyber-security-start)
+### [310. Best Games Like Wordle](https://hackernoon.com/best-games-like-wordle)
+![](https://cdn.hackernoon.com/images/bRBzAtCgtNW5ZaztiQhZNL86Mto2-lq92d3s.jpeg)
+An article containing a number of the best games like Wordle that have been created after its viral explosion on the gaming scene.
+
+### [311. Where to Sell Pokémon Cards Online: 3 Options](https://hackernoon.com/where-to-sell-pokemon-cards-online-3-options-uy1734x5)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-wf2k34yb.jpeg)
+To sell Pokemon cards online, you can sell your Pokemon cards on eBay as well as to collectors, and professional toy auctions. 
+
+### [312. When Did Cyber Security Start?](https://hackernoon.com/when-did-cyber-security-start)
 ![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-pkb3p6i.jpeg)
 Cybersecurity began between 1970 and 1972 with the publications of the Ware and Anderson reports. The Ware Report set out a number of different security control
 
-### [314. How to Build System Documentation with VuePress](https://hackernoon.com/how-to-build-system-documentation-with-vuepress)
-![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-3zk30iy.jpeg)
-Creating good documentation is essential for every product a company builds, for its users to solve specific problems they might encounter. System documentation
+### [313. Is Apple Pay Secure? The Platform Security and Privacy Overview](https://hackernoon.com/is-apple-pay-secure-platform-security-and-privacy-overview)
+![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-wd03672.jpeg)
+Apple Pay is a secure feature that uses multiple layers of encryption to protect users credit card information. Read to learn how to make Apple Pay more secure!
 
-### [315. The History and Aesthetic of Steampunk: Could We Build a Steampunk World?](https://hackernoon.com/the-history-and-aesthetic-of-steampunk-could-we-build-a-steampunk-world)
+### [314. The History and Aesthetic of Steampunk: Could We Build a Steampunk World?](https://hackernoon.com/the-history-and-aesthetic-of-steampunk-could-we-build-a-steampunk-world)
 ![](https://cdn.hackernoon.com/images/build-a-steampunk-world-clfjet5i0000001s60fjhfb26.png)
 Steampunk is a genre of science fiction that re-imagines an alternative history for the world where technological advancements are based on steam. 
+
+### [315. How to Build System Documentation with VuePress](https://hackernoon.com/how-to-build-system-documentation-with-vuepress)
+![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-3zk30iy.jpeg)
+Creating good documentation is essential for every product a company builds, for its users to solve specific problems they might encounter. System documentation
 
 ### [316. How to Use the Javascript Slice Method](https://hackernoon.com/how-to-use-the-javascript-slice-method)
 ![](https://cdn.hackernoon.com/images/vJZjNRXjG5OwQ3VPCR4tScyGSEC3-n993r8e.jpeg)
@@ -1289,33 +1291,33 @@ The splice Javascript Array method changes the content of an array by deleting o
 ![](https://cdn.hackernoon.com/images/gJIQIg1YPxb5RjSISA8RrkbCDv83-toa3y1k.jpeg)
 Anybrain is a Portugal-based company that is currently popular for its AI anti-cheat solution for online games, co-founded by André Pimenta and Serafim Pinto.
 
-### [320. The Effects of Energy Drinks on The Body: Cons of Caffeine Consumption  ](https://hackernoon.com/the-effects-of-energy-drinks-on-the-body-cons-of-caffeine-consumption)
-![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-bd036fb.jpeg)
-While caffeine is largely accepted in today's society, high dose caffeine products like energy drinks and caffeine pills can be detrimental.
-
-### [321. Appreciating and Mastering Elden Ring: 5 Tips for Beginners](https://hackernoon.com/appreciating-and-mastering-elden-ring-5-tips-for-beginners)
+### [320. Appreciating and Mastering Elden Ring: 5 Tips for Beginners](https://hackernoon.com/appreciating-and-mastering-elden-ring-5-tips-for-beginners)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-x8d3j9j.jpeg)
 These are 5 tips for Elden Ring, all about what to expect for new players and how you can learn to love the game.
+
+### [321. The Effects of Energy Drinks on The Body: Cons of Caffeine Consumption  ](https://hackernoon.com/the-effects-of-energy-drinks-on-the-body-cons-of-caffeine-consumption)
+![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-bd036fb.jpeg)
+While caffeine is largely accepted in today's society, high dose caffeine products like energy drinks and caffeine pills can be detrimental.
 
 ### [322. An Introduction to Pain Management: How To Deal With Pain](https://hackernoon.com/an-introduction-to-pain-management-how-to-deal-with-pain-er2c37og)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-6ri376s.jpeg)
 Pain can be difficult to deal with, but there are different management options for pain depending on person, gender and clinical conditions. Read about pain.
 
-### [323. 10 Best Batman Games of All Time](https://hackernoon.com/10-best-batman-games-of-all-time)
+### [323. 5 Best Soulslike Games in 2023: Fill Your Dark Souls Void](https://hackernoon.com/5-best-soulslike-games-in-2023-fill-your-dark-souls-void)
+![](https://cdn.hackernoon.com/images/z2O4NeofWDX5SOchZg5vCRj7Rsz1-b3d3ldi.jpeg)
+FromSoftware's Dark Souls series has created its own souslike genre and here we'll list the best soulslike games to try in 2023.
+
+### [324. 10 Best Batman Games of All Time](https://hackernoon.com/10-best-batman-games-of-all-time)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-vd93h3q.jpeg)
 It is Batman season yet again. Let's break out our batarangs and rank the top 10 best Batman games of all time.
-
-### [324. 10 Best GameCube Games of All Time Ranked by Sales](https://hackernoon.com/10-best-gamecube-games-of-all-time-ranked-by-sales-h61x370s)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-f1k35vr.jpeg)
-The GameCube wasn't Nintendo's best, but many of the games sold very well. Here are the best GameCube games of all time ranked by sales. 
 
 ### [325. Apple vs. Microsoft: Who Offers Better Security?](https://hackernoon.com/apple-vs-microsoft-who-offers-better-security)
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-yl036wh.jpeg)
 Apple vs Microsoft, which one offers better security between? In this article you will get a detailed explanation how much security each of them have to offer. 
 
-### [326. 5 Best Soulslike Games in 2023: Fill Your Dark Souls Void](https://hackernoon.com/5-best-soulslike-games-in-2023-fill-your-dark-souls-void)
-![](https://cdn.hackernoon.com/images/z2O4NeofWDX5SOchZg5vCRj7Rsz1-b3d3ldi.jpeg)
-FromSoftware's Dark Souls series has created its own souslike genre and here we'll list the best soulslike games to try in 2023.
+### [326. 10 Best GameCube Games of All Time Ranked by Sales](https://hackernoon.com/10-best-gamecube-games-of-all-time-ranked-by-sales-h61x370s)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-f1k35vr.jpeg)
+The GameCube wasn't Nintendo's best, but many of the games sold very well. Here are the best GameCube games of all time ranked by sales. 
 
 ### [327. Yume Nikki is the Backrooms Game You’ve Never Heard Of](https://hackernoon.com/yume-nikki-is-the-backrooms-game-youve-never-heard-of)
 ![](https://cdn.hackernoon.com/images/ZipQbmK41FPRFMb8W3H41nYcI8A2-0t93klv.jpeg)
@@ -1412,17 +1414,17 @@ Here is a list of the best books to learn machine learning for beginners to help
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-8wow35hu.jpeg)
 The Nintendo Wii is an incredibly successful video game console. Its games have also been successful, with the best Wii games selling over 35 million.
 
-### [350. 5 Best Roblox Survival Games](https://hackernoon.com/5-best-roblox-survival-games-is1o34xo)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-kqn344i.jpeg)
-Survival games are some of the most fun you can have on Roblox. Here are five paticularly fun ones to challenge yourself with. See if you can survive them!
+### [350. How to Show FPS in Apex Legends on PC](https://hackernoon.com/how-to-show-fps-in-apex-legends-on-pc-r81l34k9)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-2t4i345t.jpeg)
+There are more than a few ways to show FPS in Apex Legends on PC. Here are three paticularly easy ways to see it as well as an explanation of what they tell you
 
 ### [351. Is it Safe to Connect to Public WiFi?](https://hackernoon.com/is-it-safe-to-connect-to-public-wifi-ny3937j6)
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-8ay35to.jpeg)
 Public WiFi is not as safe as you think. This article discusses some of the security risks with public WiFi and what you can do to stay safe on the public WiFi.
 
-### [352. How to Show FPS in Apex Legends on PC](https://hackernoon.com/how-to-show-fps-in-apex-legends-on-pc-r81l34k9)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-2t4i345t.jpeg)
-There are more than a few ways to show FPS in Apex Legends on PC. Here are three paticularly easy ways to see it as well as an explanation of what they tell you
+### [352. 5 Best Roblox Survival Games](https://hackernoon.com/5-best-roblox-survival-games-is1o34xo)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-kqn344i.jpeg)
+Survival games are some of the most fun you can have on Roblox. Here are five paticularly fun ones to challenge yourself with. See if you can survive them!
 
 ### [353. 25 Best Fire Emblem Three Houses Memes ](https://hackernoon.com/25-best-fire-emblem-three-houses-memes-2v1a24qw)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-oi3n3421.jpeg)
@@ -1436,49 +1438,49 @@ Self care through physical exercise can help hackers with stress and energy.
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-db22343v.jpeg)
 The MHW Silver Rathalos can be found in the Guiding lands and can be defeated using a combination of water/thunder elemental damage and targeting weak points.
 
-### [356. I Think Instagram Scammers Lacked Friends Growing Up](https://hackernoon.com/i-think-instagram-scammers-lacked-friends-growing-up)
-![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-xd93r14.jpeg)
-I think Instagram scammers lacked friends growing up. Friendship is the fuel used to drive good-heartedness, as friends gravitate toward good hearts.
-
-### [357. Non-Linear Storytelling: Studying the Art of Sharing Stories](https://hackernoon.com/non-linear-storytelling-studying-the-art-of-sharing-stories)
+### [356. Non-Linear Storytelling: Studying the Art of Sharing Stories](https://hackernoon.com/non-linear-storytelling-studying-the-art-of-sharing-stories)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-tya3obt.jpeg)
  a narrative method where events are portrayed out of chronological order or in other ways where the narrative does not follow a linear pattern 
 
-### [358. Introduction to Python Debugging with Pdb](https://hackernoon.com/introduction-to-python-debugging-with-pdb)
-![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-7id30wq.jpeg)
-The Python Debugger (pdb) is an interactive source code debugger for Python programs. It provides added functionality like setting conditional breakpoints
+### [357. 24 Best Live Action Anime Movies Ranked by Review Scores](https://hackernoon.com/24-live-action-anime-movies-ranked-by-review-scores)
+![](https://cdn.hackernoon.com/images/sEVHo7GjLfYwVu0eY2zD6t877F73-j5r3s8m.jpeg)
+Live-action anime is often loathed by fans. Are they really all that bad? The review scores show that while many are duds, there are a few gems to be found. 
+
+### [358. I Think Instagram Scammers Lacked Friends Growing Up](https://hackernoon.com/i-think-instagram-scammers-lacked-friends-growing-up)
+![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-xd93r14.jpeg)
+I think Instagram scammers lacked friends growing up. Friendship is the fuel used to drive good-heartedness, as friends gravitate toward good hearts.
 
 ### [359. Broken Windows Theory in Software Development: Why Details Matter](https://hackernoon.com/broken-windows-theory-in-software-development-why-details-matter)
 ![](https://cdn.hackernoon.com/images/U5DOZJ252selvmscTu9FCRgEi0v1-zh9368x.jpeg)
 While some problems in the software development world may seem inconsequential, they can have serious side effects and costs on people and society
 
-### [360. How to Create a Python CLI Program for Trello Board Management (Part 1)](https://hackernoon.com/how-to-create-a-python-cli-program-for-trello-board-management-part-1)
+### [360. Introduction to Python Debugging with Pdb](https://hackernoon.com/introduction-to-python-debugging-with-pdb)
+![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-7id30wq.jpeg)
+The Python Debugger (pdb) is an interactive source code debugger for Python programs. It provides added functionality like setting conditional breakpoints
+
+### [361. How to Create a Python CLI Program for Trello Board Management (Part 1)](https://hackernoon.com/how-to-create-a-python-cli-program-for-trello-board-management-part-1)
 ![](https://cdn.hackernoon.com/images/z7054F6gVjd5Imd7KAQvmh9xFbn1-jn93t7u.jpeg)
 An extensive tutorial on how to create a simple CLI program using Python for Trello board management
 
-### [361. 5 Most Common Phone Scams: How to Spot Them and Protect Yourself](https://hackernoon.com/5-most-common-phone-scams-how-to-spot-them-and-protect-yourself-iy27371y)
+### [362. 5 Most Common Phone Scams: How to Spot Them and Protect Yourself](https://hackernoon.com/5-most-common-phone-scams-how-to-spot-them-and-protect-yourself-iy27371y)
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-k9e35zk.jpeg)
 Phone scams, aka Vishing, is an easy and popular method hackers use to trick people into giving out their personal information. These are a few common scams
 
-### [362. The History of the Internet: Collaboration, Commerce, and Polarization](https://hackernoon.com/the-history-of-the-internet-collaboration-commerce-and-polarization)
-![](https://cdn.hackernoon.com/images/hvrUiG4CmgZkGs6qw2FaGwD1NBQ2-l8c3r17.jpeg)
-A compilation of some of the key historical events shaping the Internet, examining what decisions got us here and how we use it to connect with others. 
-
-### [363. 24 Best Live Action Anime Movies Ranked by Review Scores](https://hackernoon.com/24-live-action-anime-movies-ranked-by-review-scores)
-![](https://cdn.hackernoon.com/images/sEVHo7GjLfYwVu0eY2zD6t877F73-j5r3s8m.jpeg)
-Live-action anime is often loathed by fans. Are they really all that bad? The review scores show that while many are duds, there are a few gems to be found. 
-
-### [364. How to Deploy Modern Apps with AWS Amplify](https://hackernoon.com/how-to-deploy-modern-apps-with-aws-amplify)
+### [363. How to Deploy Modern Apps with AWS Amplify](https://hackernoon.com/how-to-deploy-modern-apps-with-aws-amplify)
 ![](https://cdn.hackernoon.com/images/7FHeR383huUAovH1GLgM3KFQYh12-ep1d30hg.jpeg)
 Deploying a web app to AWS Amplify provides a way to host your frontend web app on the internet using its services for free which provisions a URL you can share
 
-### [365. 10 Best Game Boy Color Games Ranked by Sales](https://hackernoon.com/10-best-game-boy-color-games-ranked-by-sales-z4r37hp)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-i21735rs.jpeg)
-The Game Boy and the Game Boy Color had a great catalog of games, but they couldn't all be smash hits. Here are the best Game Boy Color games ranked by sales. 
+### [364. The History of the Internet: Collaboration, Commerce, and Polarization](https://hackernoon.com/the-history-of-the-internet-collaboration-commerce-and-polarization)
+![](https://cdn.hackernoon.com/images/hvrUiG4CmgZkGs6qw2FaGwD1NBQ2-l8c3r17.jpeg)
+A compilation of some of the key historical events shaping the Internet, examining what decisions got us here and how we use it to connect with others. 
 
-### [366. AI vs ML: What's the Difference?](https://hackernoon.com/ai-vs-ml-whats-the-difference-3pt37h9)
+### [365. AI vs ML: What's the Difference?](https://hackernoon.com/ai-vs-ml-whats-the-difference-3pt37h9)
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-jue32ly.jpeg)
 Learn the distinctions between AI and ML with vivid examples.
+
+### [366. 10 Best Game Boy Color Games Ranked by Sales](https://hackernoon.com/10-best-game-boy-color-games-ranked-by-sales-z4r37hp)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-i21735rs.jpeg)
+The Game Boy and the Game Boy Color had a great catalog of games, but they couldn't all be smash hits. Here are the best Game Boy Color games ranked by sales. 
 
 ### [367. Why Senior Citizens Should Learn to Code](https://hackernoon.com/why-senior-citizens-should-learn-to-code)
 ![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-ua035bi.jpeg)
@@ -1508,53 +1510,53 @@ The some() method determines if at least one array member satisfies the test def
 ![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-h8034bs.jpeg)
 The Switch is a cheap console with expensive games. This article lists some cheap games for kids and adults, and where to keep track of switch games on sale.
 
-### [374. How to Tell if Your Twitter Has Been Hacked](https://hackernoon.com/how-to-tell-if-your-twitter-has-been-hacked-g81c37fe)
-![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-0sf356q.jpeg)
-Twitter is a popular social media platform used to interact with other users via tweets. These four indicators will help tell if your Twitter has been hacked. 
-
-### [375. Quantum Cryptography For Beginners: From Basics To Blockchain](https://hackernoon.com/a-beginners-guide-to-quantum-cryptography-from-basics-to-blockchain)
-![](https://cdn.hackernoon.com/images/zcvweoRwmVTpxqDnjpmRappzvp42-sz93erm.jpeg)
-Quantum cryptography creates cryptosystems based on quantum mechanics rather than a complex math problem. It is a mature tech that's in rivalry with Blockchain.
-
-### [376. The Ultimate Elden Ring Bosses Guide: Hardest Bosses Ranked](https://hackernoon.com/the-ultimate-elden-ring-bosses-guide-hardest-bosses-ranked)
+### [374. The Ultimate Elden Ring Bosses Guide: Hardest Bosses Ranked](https://hackernoon.com/the-ultimate-elden-ring-bosses-guide-hardest-bosses-ranked)
 ![](https://cdn.hackernoon.com/images/z2O4NeofWDX5SOchZg5vCRj7Rsz1-sbd3l21.jpeg)
 Elden Ring is renowned for its high difficulty and unique bosses. In this guide, I will list the five hardest bosses and explain how to beat them.
 
-### [377. Everything You Need to Know About a White Hat Hacker](https://hackernoon.com/everything-you-need-to-know-about-a-white-hat-hacker)
-![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-rv0362f.jpeg)
-White hat hackers find and exploit vulnerabilities within a company's network or system with the intention to provide remediation steps to mitigate these risks.
+### [375. How to Tell if Your Twitter Has Been Hacked](https://hackernoon.com/how-to-tell-if-your-twitter-has-been-hacked-g81c37fe)
+![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-0sf356q.jpeg)
+Twitter is a popular social media platform used to interact with other users via tweets. These four indicators will help tell if your Twitter has been hacked. 
 
-### [378. PS5 Controller Review: 5 Best Features That'll Blow Your Mind](https://hackernoon.com/ps5-controller-review-5-best-features-thatll-blow-your-mind-hk1p33s2)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-ka3732s3.jpeg)
-The PS5 controller is an outstanding piece of hardware. It sets the bar for what a next-generation controller can be and far outmatches its competitors.
+### [376. Quantum Cryptography For Beginners: From Basics To Blockchain](https://hackernoon.com/a-beginners-guide-to-quantum-cryptography-from-basics-to-blockchain)
+![](https://cdn.hackernoon.com/images/zcvweoRwmVTpxqDnjpmRappzvp42-sz93erm.jpeg)
+Quantum cryptography creates cryptosystems based on quantum mechanics rather than a complex math problem. It is a mature tech that's in rivalry with Blockchain.
 
-### [379. The ADDIE Training Model of Instructional Design: An In-Depth Analysis](https://hackernoon.com/the-addie-training-model-of-instructional-design-an-in-depth-analysis)
+### [377. The ADDIE Training Model of Instructional Design: An In-Depth Analysis](https://hackernoon.com/the-addie-training-model-of-instructional-design-an-in-depth-analysis)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-ca03aar.jpeg)
 ADDIE is a linear 5-step framework used to design and develop educational and training programs. ADDIE stands for Analysis, Design, Development, Implementation.
 
-### [380. 5 Best Free JavaScript Courses for Beginner Devs](https://hackernoon.com/5-best-free-javascript-courses-for-beginner-devs)
-![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-wk0350h.jpeg)
-Learning to code in JavaScript can be a life hack today. Know why you should learn JavaScript and the best free courses to learn JavaScript for free.
+### [378. Everything You Need to Know About a White Hat Hacker](https://hackernoon.com/everything-you-need-to-know-about-a-white-hat-hacker)
+![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-rv0362f.jpeg)
+White hat hackers find and exploit vulnerabilities within a company's network or system with the intention to provide remediation steps to mitigate these risks.
 
-### [381. How to Add User Authentication using Devise (Bootstrap in Rails 7)](https://hackernoon.com/how-to-add-user-authentication-using-devise-bootstrap-in-rails-7)
+### [379. PS5 Controller Review: 5 Best Features That'll Blow Your Mind](https://hackernoon.com/ps5-controller-review-5-best-features-thatll-blow-your-mind-hk1p33s2)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-ka3732s3.jpeg)
+The PS5 controller is an outstanding piece of hardware. It sets the bar for what a next-generation controller can be and far outmatches its competitors.
+
+### [380. How to Add User Authentication using Devise (Bootstrap in Rails 7)](https://hackernoon.com/how-to-add-user-authentication-using-devise-bootstrap-in-rails-7)
 ![](https://cdn.hackernoon.com/images/s6Oqrc0EZkg4kONGviNcpShG3T12-57h3nka.jpeg)
 Devise is a Ruby Gem that provides user authentication and authorisation features for Ruby applications. 
+
+### [381. 5 Best Free JavaScript Courses for Beginner Devs](https://hackernoon.com/5-best-free-javascript-courses-for-beginner-devs)
+![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-wk0350h.jpeg)
+Learning to code in JavaScript can be a life hack today. Know why you should learn JavaScript and the best free courses to learn JavaScript for free.
 
 ### [382. 5 Best Platformers on the Nintendo Switch](https://hackernoon.com/5-best-platformers-on-the-nintendo-switch-tx1737qr)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-l31u35eo.jpeg)
 The Nintendo Switch is home to a lot of good games from different genres, including the platform genre. Here are the 5 best platformers the Switch has to offer.
 
-### [383. How to Create a Python CLI Program for Trello Board Management (Part 2)](https://hackernoon.com/how-to-create-a-python-cli-program-for-trello-board-management-part-2)
+### [383. Enron, Scandal, and Spam Emails: The Fall of "America's Most Innovative Company"](https://hackernoon.com/enron-scandal-and-spam-emails-the-fall-of-americas-most-innovative-company)
+![](https://cdn.hackernoon.com/images/C3n7cXnYNQUJUFMKiq8NjnRmsoH3-0j93qkx.jpeg)
+The Enron scandal not only had a huge impact on corporate America, it also provided one of the most useful tools in the fight against spam and phishing.
+
+### [384. How to Create a Python CLI Program for Trello Board Management (Part 2)](https://hackernoon.com/how-to-create-a-python-cli-program-for-trello-board-management-part-2)
 ![](https://cdn.hackernoon.com/images/z7054F6gVjd5Imd7KAQvmh9xFbn1-kra3ylx.jpeg)
 Part 2 of the tutorial series focusing on how to write business logic for CLI commands and Python package distribution
 
-### [384. An Intro to Shitcoins for Beginner Crypto Traders](https://hackernoon.com/an-intro-to-shitcoins-for-beginner-crypto-traders-ba4h37df)
+### [385. An Intro to Shitcoins for Beginner Crypto Traders](https://hackernoon.com/an-intro-to-shitcoins-for-beginner-crypto-traders-ba4h37df)
 ![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-ri4n37ay.jpeg)
 Shitcoins are the subject of most crypto discussions and for a good reason. Find out more about them in this introductory article. 
-
-### [385. Enron, Scandal, and Spam Emails: The Fall of "America's Most Innovative Company"](https://hackernoon.com/enron-scandal-and-spam-emails-the-fall-of-americas-most-innovative-company)
-![](https://cdn.hackernoon.com/images/C3n7cXnYNQUJUFMKiq8NjnRmsoH3-0j93qkx.jpeg)
-The Enron scandal not only had a huge impact on corporate America, it also provided one of the most useful tools in the fight against spam and phishing.
 
 ### [386. Reduce Javascript: Master the Basics](https://hackernoon.com/reduce-javascript-master-the-basics)
 ![](https://cdn.hackernoon.com/images/vJZjNRXjG5OwQ3VPCR4tScyGSEC3-bl93ry8.jpeg)
@@ -1576,102 +1578,102 @@ Are you interested in Arduino, but don't know where to start? Here are 5 resourc
 ![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-1d3635yb.jpeg)
 Electric Cars have their pros and cons. It includes easy maintenance, environment friendly, safer driving at the expense of range, cost, and charging time.
 
-### [391. The 4 Best MSI Gaming Laptop Reviewed: For Gamers On the Go](https://hackernoon.com/the-4-best-msi-gaming-laptop-reviewed-for-gamers-on-the-go)
-![](https://cdn.hackernoon.com/images/ERNPpaKVK4Q3gM1MG2JdydY6Z4K2-1s93prj.jpeg)
-MSI gaming laptops are some of the reliable and loveable gaming PCs that you can find in the market, even in 2023 and beyond. 
-
-### [392. 9 Amazing Games like Hollow Knight](https://hackernoon.com/9-amazing-games-like-hollow-knight)
-![](https://cdn.hackernoon.com/images/bhWM9Z7ZjAMvTxKulIjq86WggYX2-sb938jp.jpeg)
-Axiom Verge, Dark Souls and Salt and Sanctuary are some of the amazing games like Hollow Knight that’ll make you feel at home.
-
-
-### [393. 10 Best Wii Games of All Time Ranked by Metascore](https://hackernoon.com/10-best-wii-games-of-all-time-ranked-by-metascore)
+### [391. 10 Best Wii Games of All Time Ranked by Metascore](https://hackernoon.com/10-best-wii-games-of-all-time-ranked-by-metascore)
 ![](https://cdn.hackernoon.com/images/4Utmua7swbeKmKkzfFUMrMiP41x2-v5b2ekh.jpeg)
 Wii game metascores ranked from lowest to highest include Rock Band 3 ranking at number 10 and Super Mario Galaxy coming in at number 1. 
 
-### [394. 6 Levels of Learning in Bloom's Taxonomy from 1D to 2D Realm](https://hackernoon.com/6-levels-of-learning-in-blooms-taxonomy-from-1d-to-2d-realm)
+### [392. The 4 Best MSI Gaming Laptop Reviewed: For Gamers On the Go](https://hackernoon.com/the-4-best-msi-gaming-laptop-reviewed-for-gamers-on-the-go)
+![](https://cdn.hackernoon.com/images/ERNPpaKVK4Q3gM1MG2JdydY6Z4K2-1s93prj.jpeg)
+MSI gaming laptops are some of the reliable and loveable gaming PCs that you can find in the market, even in 2023 and beyond. 
+
+### [393. 6 Levels of Learning in Bloom's Taxonomy from 1D to 2D Realm](https://hackernoon.com/6-levels-of-learning-in-blooms-taxonomy-from-1d-to-2d-realm)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-anb3jau.jpeg)
 Blooms taxonomy is a multi-layered model of instructional design which classifies learning and provides an evaluation on six (6) cognitive levels.
+
+### [394. 9 Amazing Games like Hollow Knight](https://hackernoon.com/9-amazing-games-like-hollow-knight)
+![](https://cdn.hackernoon.com/images/bhWM9Z7ZjAMvTxKulIjq86WggYX2-sb938jp.jpeg)
+Axiom Verge, Dark Souls and Salt and Sanctuary are some of the amazing games like Hollow Knight that’ll make you feel at home.
+
 
 ### [395. Bitcoin vs Dogecoin: An Honest Comparison](https://hackernoon.com/bitcoin-vs-dogecoin-an-honest-comparison)
 ![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-0q035je.jpeg)
 Bitcoin and Dogecoin are two popular cryptocurrencies. Here is how they compare regarding market supply, concentration, mining, and transactions.
 
-### [396. 7 Best Nintendo Consoles Based on Games](https://hackernoon.com/7-best-nintendo-consoles-based-on-games)
-![](https://cdn.hackernoon.com/images/4Utmua7swbeKmKkzfFUMrMiP41x2-3o92ex6.jpeg)
-7 Best Nintendo Consoles Based on Games include the Nintendo Switch, SNES, Wii, Nintendo DS, Nintendo 64, Nintendo GameCube, and Nintendo Entertainment System. 
-
-### [397. The Best Fighting Games on PlayStation Now](https://hackernoon.com/the-best-fighting-games-on-playstation-now-n6s24vr)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-7gh2957.jpeg)
-Mortal Kombat and Street Fighter stand out as the best fighting games on PS Now, but who else rounds up the list?
-
-### [398. How to Pick a Lock for Beginners: The Tech and Tools of the Trade](https://hackernoon.com/how-to-pick-a-lock-for-beginners-the-tech-and-tools-of-the-trade)
+### [396. How to Pick a Lock for Beginners: The Tech and Tools of the Trade](https://hackernoon.com/how-to-pick-a-lock-for-beginners-the-tech-and-tools-of-the-trade)
 ![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-ai93ogl.jpeg)
 Lock picking is surprisingly easy, only requiring some basic knowledge of how locks work and how to manipulate them. Read more for the basics.
 
-### [399. How to Perform Data Augmentation with Augly Library](https://hackernoon.com/how-to-perform-data-augmentation-with-augly-library-bn1f37y4)
-![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-hu13325w.jpeg)
-Data augmentation is a technique used by practitioners to increase the data by creating modified data from the existing data.
+### [397. 7 Best Nintendo Consoles Based on Games](https://hackernoon.com/7-best-nintendo-consoles-based-on-games)
+![](https://cdn.hackernoon.com/images/4Utmua7swbeKmKkzfFUMrMiP41x2-3o92ex6.jpeg)
+7 Best Nintendo Consoles Based on Games include the Nintendo Switch, SNES, Wii, Nintendo DS, Nintendo 64, Nintendo GameCube, and Nintendo Entertainment System. 
 
-### [400. 23 Common Data Science Interview Questions for Beginners](https://hackernoon.com/23-common-data-science-interview-questions-for-beginners-ry1037wf)
-![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-tdq32cz.jpeg)
-In 2012, Harvard Business Review called data scientists the sexiest job of the 21st century. However, correctly answering data science interview questions to get a job as a data scientist is very tricky.
+### [398. The Best Fighting Games on PlayStation Now](https://hackernoon.com/the-best-fighting-games-on-playstation-now-n6s24vr)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-7gh2957.jpeg)
+Mortal Kombat and Street Fighter stand out as the best fighting games on PS Now, but who else rounds up the list?
 
-### [401. Why The Rubber Duck is The Ultimate Hacker Gadget](https://hackernoon.com/why-the-rubber-duck-is-the-ultimate-hacker-gadget)
+### [399. Why The Rubber Duck is The Ultimate Hacker Gadget](https://hackernoon.com/why-the-rubber-duck-is-the-ultimate-hacker-gadget)
 ![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-6e93o2v.jpeg)
 The idea of rubber duck debugging is straightforward. When you are struggling with a problem, you simply ask the duck.
 
-### [402. Meditation Resources: Apps and Websites to Keep Calm](https://hackernoon.com/meditation-resources-apps-and-websites-to-keep-calm)
-![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-oa93jtx.jpeg)
-There are a wide variety of meditation apps and websites available to help you with meditation. Choosing one may help with your mental health
+### [400. How to Perform Data Augmentation with Augly Library](https://hackernoon.com/how-to-perform-data-augmentation-with-augly-library-bn1f37y4)
+![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-hu13325w.jpeg)
+Data augmentation is a technique used by practitioners to increase the data by creating modified data from the existing data.
+
+### [401. 23 Common Data Science Interview Questions for Beginners](https://hackernoon.com/23-common-data-science-interview-questions-for-beginners-ry1037wf)
+![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-tdq32cz.jpeg)
+In 2012, Harvard Business Review called data scientists the sexiest job of the 21st century. However, correctly answering data science interview questions to get a job as a data scientist is very tricky.
+
+### [402. A Petabyte in Gigabytes: The Ultimate Guide to Units Of Information ](https://hackernoon.com/a-petabyte-in-gigabytes-the-ultimate-guide-to-units-of-information)
+![](https://cdn.hackernoon.com/images/U5DOZJ252selvmscTu9FCRgEi0v1-joa3pb8.jpeg)
+Units of information are used to measure the capacity of devices or communication channels. Discover why a Megabyte value in Kilobytes of 1024 is no longer
 
 ### [403. Hogwarts Legacy: All Talents and Best Ones to Get](https://hackernoon.com/hogwarts-legacy-all-talents-and-best-ones-to-get)
 ![](https://cdn.hackernoon.com/images/z2O4NeofWDX5SOchZg5vCRj7Rsz1-gqb3lq9.jpeg)
 Understanding how talents work and using the best talents in Hogwarts Legacy is a great way to improve your gameplay experience by upgrading your best spells.
 
-### [404. How to Get a Job in Cybersecurity ](https://hackernoon.com/how-to-get-a-job-in-cybersecurity)
-![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-1u93p92.png)
-Good mentors, and a willingness to take opportunities that come up (and abandon those that aren't working out) can take you a long way in a career.
+### [404. Meditation Resources: Apps and Websites to Keep Calm](https://hackernoon.com/meditation-resources-apps-and-websites-to-keep-calm)
+![](https://cdn.hackernoon.com/images/R2yTAkOIWBMzk0ZO3DasNiGC1xg2-oa93jtx.jpeg)
+There are a wide variety of meditation apps and websites available to help you with meditation. Choosing one may help with your mental health
 
 ### [405. Model Evaluation With Proper Scoring Rules: A No-Math Introduction](https://hackernoon.com/model-evaluation-with-proper-scoring-rules-a-no-math-introduction)
 ![](https://cdn.hackernoon.com/images/wZtQzVW9IXObe1GeGaINXBF5SRj2-y503s3h.jpeg)
 Proper scoring rules offer a model evaluation framework for probabilistic forecasts. Model evaluation is an essential step in selecting a reliable model.
 
-### [406. A Petabyte in Gigabytes: The Ultimate Guide to Units Of Information ](https://hackernoon.com/a-petabyte-in-gigabytes-the-ultimate-guide-to-units-of-information)
-![](https://cdn.hackernoon.com/images/U5DOZJ252selvmscTu9FCRgEi0v1-joa3pb8.jpeg)
-Units of information are used to measure the capacity of devices or communication channels. Discover why a Megabyte value in Kilobytes of 1024 is no longer
-
-### [407. Using OpenAI's Whisper and GPT-3 API to Build and Deploy a Transcriber App – Part 2](https://hackernoon.com/using-openais-whisper-and-gpt-3-api-to-build-and-deploy-a-transcriber-app-part-2)
-![](https://cdn.hackernoon.com/images/IvbdQ1TqYah1YOpyYrdKkxL8FwG2-id93lkk.jpeg)
-Turn the transcriber working locally into a web app that runs online and is accessible for others to see and interact with.
-
-### [408. COVID Vaccine Rash: Managing The Side Effects of the COVID-19 Vaccine](https://hackernoon.com/covid-vaccine-rash-managing-the-side-effects-of-the-covid-19-vaccine)
-![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-7j837rr.jpeg)
-The COVID 19 Vaccine is associated with a rare side effect: skin rashes from the shot can occur alongside other side effects. Find out more here.
-
-### [409. 5 Most Pointless Smart Life Devices to Stay Away From](https://hackernoon.com/5-most-pointless-smart-life-devices-to-stay-away-from)
-![](https://cdn.hackernoon.com/images/b2tyklhVayOxl8TvGyYsAbrp6iI3-cha3phm.jpeg)
-A selected review of the most frustratingly pointless smart life devices available today.
-
-### [410. One Netbook T1 Review: Can This Entry-Level Tablet Compete with the Microsoft Surface?](https://hackernoon.com/one-netbook-t1-review-can-this-entry-level-tablet-compete-with-the-microsoft-surface)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-3ud3i24.jpeg)
-The One Netbook T1 is a good tablet for general use and productivity, packing in some great specs and an excellent design at a reasonable price.
-
-### [411. 10 Best GBA Games of All Time Ranked by Sales](https://hackernoon.com/10-best-gba-games-of-all-time-ranked-by-sales-qgds37t3)
+### [406. 10 Best GBA Games of All Time Ranked by Sales](https://hackernoon.com/10-best-gba-games-of-all-time-ranked-by-sales-qgds37t3)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-fo5f35p2.jpeg)
 The best GBA games, such as Pokémon and Mario, have helped the console shift units. Pokemon Ruby and Sapphire are the best selling GBA games alongside others.
 
-### [412. 7 Most Common Zelle Scams to Watch Out For and How They Work](https://hackernoon.com/7-most-common-zelle-scams-to-watch-out-for-and-how-they-work)
-![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-38b3squ.jpeg)
-A list of the most common Zelle scams on the internet. 
+### [407. How to Get a Job in Cybersecurity ](https://hackernoon.com/how-to-get-a-job-in-cybersecurity)
+![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-1u93p92.png)
+Good mentors, and a willingness to take opportunities that come up (and abandon those that aren't working out) can take you a long way in a career.
+
+### [408. One Netbook T1 Review: Can This Entry-Level Tablet Compete with the Microsoft Surface?](https://hackernoon.com/one-netbook-t1-review-can-this-entry-level-tablet-compete-with-the-microsoft-surface)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-3ud3i24.jpeg)
+The One Netbook T1 is a good tablet for general use and productivity, packing in some great specs and an excellent design at a reasonable price.
+
+### [409. Using OpenAI's Whisper and GPT-3 API to Build and Deploy a Transcriber App – Part 2](https://hackernoon.com/using-openais-whisper-and-gpt-3-api-to-build-and-deploy-a-transcriber-app-part-2)
+![](https://cdn.hackernoon.com/images/IvbdQ1TqYah1YOpyYrdKkxL8FwG2-id93lkk.jpeg)
+Turn the transcriber working locally into a web app that runs online and is accessible for others to see and interact with.
+
+### [410. 5 Most Pointless Smart Life Devices to Stay Away From](https://hackernoon.com/5-most-pointless-smart-life-devices-to-stay-away-from)
+![](https://cdn.hackernoon.com/images/b2tyklhVayOxl8TvGyYsAbrp6iI3-cha3phm.jpeg)
+A selected review of the most frustratingly pointless smart life devices available today.
+
+### [411. COVID Vaccine Rash: Managing The Side Effects of the COVID-19 Vaccine](https://hackernoon.com/covid-vaccine-rash-managing-the-side-effects-of-the-covid-19-vaccine)
+![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-7j837rr.jpeg)
+The COVID 19 Vaccine is associated with a rare side effect: skin rashes from the shot can occur alongside other side effects. Find out more here.
+
+### [412. Top Web3 Job Boards (2023)](https://hackernoon.com/top-web3-job-boards-right-now)
+![](https://cdn.hackernoon.com/images/gJIQIg1YPxb5RjSISA8RrkbCDv83-kta3xy9.jpeg)
+Explore top Web3.0 job boards connecting seekers with decentralized opportunities. Discover diverse roles in blockchain tech & the evolving Web3 landscape.
 
 ### [413. Is the PS5 Pro Worth Your Money?](https://hackernoon.com/is-the-ps5-pro-worth-your-money)
 ![](https://cdn.hackernoon.com/images/IagORLorgab1vulL2f2r05xXVLo2-e293d4t.jpeg)
 The PS5 Pro could be right around the corner, this article is going to help you decide if upgrading is the right decision for you!
 
-### [414. Top Web3 Job Boards (2023)](https://hackernoon.com/top-web3-job-boards-right-now)
-![](https://cdn.hackernoon.com/images/gJIQIg1YPxb5RjSISA8RrkbCDv83-kta3xy9.jpeg)
-Explore top Web3.0 job boards connecting seekers with decentralized opportunities. Discover diverse roles in blockchain tech & the evolving Web3 landscape.
+### [414. 7 Most Common Zelle Scams to Watch Out For and How They Work](https://hackernoon.com/7-most-common-zelle-scams-to-watch-out-for-and-how-they-work)
+![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-38b3squ.jpeg)
+A list of the most common Zelle scams on the internet. 
 
 ### [415. 5 Best Games on PS Now (April 2021)](https://hackernoon.com/5-best-games-on-ps-now-april-2021-8j1v33wo)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ryr29yz.jpeg)
@@ -1681,17 +1683,17 @@ When there are too many choices, it's hard to pick out what you want. Here are o
 ![](https://cdn.hackernoon.com/images/a-dark-computer-screen-with-python-code-clcska687000201s66k9460vb.png)
 Learning to code is important for a number of reasons. First and foremost, coding is a valuable skill that can help you pursue a career in a variety of fields.
 
-### [417. 5 Best Games on Xbox Games Pass in 2021](https://hackernoon.com/5-best-games-on-xbox-games-pass-in-2021-az33330d)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-733g32lg.jpeg)
-Xbox Games Pass has many high-quality games. The 5 Best Games on Xbox Games Pass are Halo, Cyber Shadow, Sea of Thieves, The Medium and Gears of War 5.
-
-### [418. Monster Hunter Stories 2: Egg Guide](https://hackernoon.com/monster-hunter-stories-2-egg-guide)
+### [417. Monster Hunter Stories 2: Egg Guide](https://hackernoon.com/monster-hunter-stories-2-egg-guide)
 ![](https://cdn.hackernoon.com/images/4Utmua7swbeKmKkzfFUMrMiP41x2-ow92d40.jpeg)
 The best traits to look for in egg hunting are shiny, stinky, and heavy eggs. These traits will probably lead to eggs that contain desirable monstie genes.
 
-### [419. A Beginner’s Guide to React Hooks and How to Use Them](https://hackernoon.com/a-beginners-guide-to-react-hooks-and-how-to-use-them)
+### [418. A Beginner’s Guide to React Hooks and How to Use Them](https://hackernoon.com/a-beginners-guide-to-react-hooks-and-how-to-use-them)
 ![](https://cdn.hackernoon.com/images/a-computer-on-a-hook-clcpsybxq000201s6cnsrb8r0.png)
 Hooks are also useful because they allow you to split your code into smaller, reusable pieces, which can make it easier to manage and test.
+
+### [419. 5 Best Games on Xbox Games Pass in 2021](https://hackernoon.com/5-best-games-on-xbox-games-pass-in-2021-az33330d)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-733g32lg.jpeg)
+Xbox Games Pass has many high-quality games. The 5 Best Games on Xbox Games Pass are Halo, Cyber Shadow, Sea of Thieves, The Medium and Gears of War 5.
 
 ### [420. OpenMind Course: How to have Meaningful Conversations](https://hackernoon.com/openmind-course-how-to-have-meaningful-conversations)
 ![](https://cdn.hackernoon.com/images/RMGhgLGonReGmisPwIYAa7M4rTo1-f692bku.jpeg)
@@ -1709,13 +1711,13 @@ Cutscenes add a lot to a video game's story that can break up a game's perspecti
 ![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-113w3455.jpeg)
 Android and IOS users often debate on the quality of the virtual assistants: Google Assistant and Siri. Read an opinion piece comparing both software here.
 
-### [424. COD Warzone is Broken: Here Are 2 Reasons Why](https://hackernoon.com/cod-warzone-is-broken-here-are-2-reasons-why-4e6m33hp)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-691o32wy.jpeg)
-COD Warzone is broken, due to a multitude of hackers and frequent game-breaking glitches.
-
-### [425. How to Use else if in JavaScript with Examples](https://hackernoon.com/how-to-use-else-if-in-javascript-with-examples-19123510)
+### [424. How to Use else if in JavaScript with Examples](https://hackernoon.com/how-to-use-else-if-in-javascript-with-examples-19123510)
 ![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-qx9l33co.jpeg)
 Syntax of if else, else-if, nested if, and logical operators like AND OR and NOT in Javascript. Switch statement can be used as an alternate to If statement.
+
+### [425. COD Warzone is Broken: Here Are 2 Reasons Why](https://hackernoon.com/cod-warzone-is-broken-here-are-2-reasons-why-4e6m33hp)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-691o32wy.jpeg)
+COD Warzone is broken, due to a multitude of hackers and frequent game-breaking glitches.
 
 ### [426. Why the Gaming Chip Shortage in the Gaming Industry is not Game Over](https://hackernoon.com/why-the-gaming-chip-shortage-in-the-gaming-industry-is-not-game-over)
 ![](https://cdn.hackernoon.com/images/WfJVfuXbNiWaUeKoEU8xjCrV8WV2-19037bq.jpeg)
@@ -1749,29 +1751,29 @@ Cryptocurrency and NFTs are rising in the video game industry. But how much can 
 ![](https://cdn.hackernoon.com/images/IvbdQ1TqYah1YOpyYrdKkxL8FwG2-kqa3jyo.jpeg)
 We no longer have to be at the mercy of Stripe or Gumroad. There are alternatives for the billing part like Paddle or Fastspring that we explore here
 
-### [434. 6 Essential Tips to Solve Data Science Projects ](https://hackernoon.com/6-essential-tips-to-solve-data-science-projects)
-![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-lb034d4.jpeg)
-Data science projects are focusing on solving social or business problems by using data. Solving data science projects can be a very challenging task for beginners in this field. You will need to have a different skills set depending on the type of data problem you want to solve.
-
-### [435. Sons of the Forest Walkthrough Guide: Beginner Tips](https://hackernoon.com/sons-of-the-forest-walkthrough-guide-beginner-tips)
+### [434. Sons of the Forest Walkthrough Guide: Beginner Tips](https://hackernoon.com/sons-of-the-forest-walkthrough-guide-beginner-tips)
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-s293lu0.jpeg)
 Surviving your first night in Sons of the Forest is no easy task and this walkthrough guide will help you succeed as a beginner against the mutants.
+
+### [435. 6 Essential Tips to Solve Data Science Projects ](https://hackernoon.com/6-essential-tips-to-solve-data-science-projects)
+![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-lb034d4.jpeg)
+Data science projects are focusing on solving social or business problems by using data. Solving data science projects can be a very challenging task for beginners in this field. You will need to have a different skills set depending on the type of data problem you want to solve.
 
 ### [436. 5 Best Nintendo Switch Indie Games Showcased in Indie World](https://hackernoon.com/5-best-nintendo-switch-indie-games-showcased-in-indie-world-ce1434xq)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-892j2936.jpeg)
 Great games are on the horizon, especially great Nintendo Switch indie games. Here are some titles to look out for in 2021.
 
-### [437. 10 Best Games on Xbox Game Pass in 2022](https://hackernoon.com/10-best-games-on-xbox-game-pass-in-2022)
+### [437. Brushing Scams on Amazon: What They Are and How to Handle Them](https://hackernoon.com/brushing-scams-on-amazon-what-they-are-and-how-to-handle-them)
+![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-pwa3x4j.jpeg)
+Imagine coming home to find random Amazon boxes at your doorstep. Before you open them up, first read this article. You may be part of a brushing scam. 
+
+### [438. 10 Best Games on Xbox Game Pass in 2022](https://hackernoon.com/10-best-games-on-xbox-game-pass-in-2022)
 ![](https://cdn.hackernoon.com/images/0ND921QitCePbuLAJQgufmkRClY2-7sb3d7r.jpeg)
 Xbox Game Pass is constantly evolving. In this article, we'll talk about some of the best games on Xbox Game Pass in 2022 to help you find titles you'll love.
 
-### [438. Game Engines Aren't Just for Gaming Anymore](https://hackernoon.com/game-engines-arent-just-for-gaming-anymore-nb2a34k0)
+### [439. Game Engines Aren't Just for Gaming Anymore](https://hackernoon.com/game-engines-arent-just-for-gaming-anymore-nb2a34k0)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-yld34ak.jpeg)
 As gaming gets more advanced, so do the game engines behind it. Everyone from Hollywood to online stores has been tapping on gaming technology in new ways.
-
-### [439. Brushing Scams on Amazon: What They Are and How to Handle Them](https://hackernoon.com/brushing-scams-on-amazon-what-they-are-and-how-to-handle-them)
-![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-pwa3x4j.jpeg)
-Imagine coming home to find random Amazon boxes at your doorstep. Before you open them up, first read this article. You may be part of a brushing scam. 
 
 ### [440. 5 Announced Games that Disappeared Off the Face of the Earth](https://hackernoon.com/5-announced-games-that-disappeared-off-the-face-of-the-earth)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-okb36vk.jpeg)
@@ -1781,21 +1783,21 @@ These five announced games are in development and have disappeared. We piece tog
 ![](https://cdn.hackernoon.com/images/b2tyklhVayOxl8TvGyYsAbrp6iI3-a6b3vao.png)
 The web development landscape keeps getting crowded and crowded but there are no signs of improvement, only of heavy and bloated web apps.
 
-### [442. 10 Best African Language  Datasets for Data Science Projects](https://hackernoon.com/10-best-african-language-datasets-for-data-science-projects-l51h34xw)
-![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-m6e31y3.jpeg)
-A list of African language datasets from across the web that can be used in numerous NLP tasks.
-
-### [443. How Are Smart Cities Made 'Smart': Top 6 Enabling Technologies](https://hackernoon.com/how-are-smart-cities-made-smart-top-6-enabling-technologies-755q35ul)
+### [442. How Are Smart Cities Made 'Smart': Top 6 Enabling Technologies](https://hackernoon.com/how-are-smart-cities-made-smart-top-6-enabling-technologies-755q35ul)
 ![](https://cdn.hackernoon.com/images/pIGapHGH9NNT6tb7uPaRnsVFH123-j6dj356j.jpeg)
 The ultimate goal of smart cities is to improve citizens’ quality of life, reduce the cost of living and attain a sustainable environment through technology.
 
-### [444. Forza Horizon 5 Location, Gameplay, and More](https://hackernoon.com/forza-horizon-5-location-gameplay-and-more-kb1137rl)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-og1t35sv.jpeg)
-The Forza Horizon 5 location has been confirmed to be Mexico. We're excited to explore it when the game releases. Until then, here's what you need to know. 
+### [443. 10 Best African Language  Datasets for Data Science Projects](https://hackernoon.com/10-best-african-language-datasets-for-data-science-projects-l51h34xw)
+![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-m6e31y3.jpeg)
+A list of African language datasets from across the web that can be used in numerous NLP tasks.
 
-### [445. Introducing the Swahili News Dataset for Topic Classification](https://hackernoon.com/introducing-the-swahili-news-dataset-for-topic-classification)
+### [444. Introducing the Swahili News Dataset for Topic Classification](https://hackernoon.com/introducing-the-swahili-news-dataset-for-topic-classification)
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-2u232gz.jpeg)
 Swahili (also known as Kiswahili) is one of the most spoken languages in Africa. It is spoken by 100–150 million people across East Africa. Swahili is popularly used as a second language by people across the African continent and taught in schools and universities. In Tanzania, it is one of two national languages (the other is English).
+
+### [445. Forza Horizon 5 Location, Gameplay, and More](https://hackernoon.com/forza-horizon-5-location-gameplay-and-more-kb1137rl)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-og1t35sv.jpeg)
+The Forza Horizon 5 location has been confirmed to be Mexico. We're excited to explore it when the game releases. Until then, here's what you need to know. 
 
 ### [446. 6 Best Zoom Extensions for Chrome to Maximize Your Meetings/Classes](https://hackernoon.com/6-best-zoom-extensions-for-chrome-to-maximize-your-meetingsclasses)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-7f93u3s.jpeg)
@@ -1805,145 +1807,145 @@ Maximize classes and meetings using Zoom extensions for chrome, including Zoom.u
 ![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-mu5q33wj.jpeg)
 Here’s everything we know about the new Halo game, Halo: Infinite, which has a tentative release date of Fall 2021. 
 
-### [448. Nickmercs' Warzone Settings Guide: Controller Binds, Loadout, Sensitivity](https://hackernoon.com/nickmercs-warzone-settings-guide-controller-binds-loadout-sensitivity-sa3l375k)
-![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-ki8354d.jpeg)
-All in all, Nickmercs Warzone settings are the best of the best. The popular streamer has got his settings down perfectly for his run and gun style of play.
-
-### [449. Cyber Security vs Information Security](https://hackernoon.com/cyber-security-vs-information-security)
+### [448. Cyber Security vs Information Security](https://hackernoon.com/cyber-security-vs-information-security)
 ![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-ara3p8f.jpeg)
 Both cyber and information security are linked by the core discipline of security, and overlap between the two but we need to recognise the difference.
+
+### [449. Nickmercs' Warzone Settings Guide: Controller Binds, Loadout, Sensitivity](https://hackernoon.com/nickmercs-warzone-settings-guide-controller-binds-loadout-sensitivity-sa3l375k)
+![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-ki8354d.jpeg)
+All in all, Nickmercs Warzone settings are the best of the best. The popular streamer has got his settings down perfectly for his run and gun style of play.
 
 ### [450. Dear Elon Musk, Do You Feel Thread-ened?](https://hackernoon.com/dear-elon-musk-do-you-feel-thread-ened)
 ![](https://cdn.hackernoon.com/images/RLJKsfwZCDWTI3PRMeoW9Ciw6Y62-3093sq1.jpeg)
 An email addressed to Elon Musk with concerns on the feud between Twitter/X and their new rival, Threads by Meta.
 
-### [451. 4 Largest Crypto Wallet Hacks in the History of Blockchain](https://hackernoon.com/4-largest-crypto-wallet-hacks-in-the-history-of-blockchain)
-![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-zh535k4.jpeg)
-Crypto Wallets on exchange platforms are very vulnerable to hackers: find out about large crypto hacks that have happened in the past and ways to prevent them.
-
-### [452. Octopath Traveler 2 Switch Review: An Improvement Over the Previous Game](https://hackernoon.com/octopath-traveler-2-switch-review-an-improvement-over-the-previous-game)
+### [451. Octopath Traveler 2 Switch Review: An Improvement Over the Previous Game](https://hackernoon.com/octopath-traveler-2-switch-review-an-improvement-over-the-previous-game)
 ![](https://cdn.hackernoon.com/images/z2O4NeofWDX5SOchZg5vCRj7Rsz1-b6d3lwb.jpeg)
 Octopath Traveler 2 maintains the high-quality aspects of the previous game while fixing any setbacks it had. Overall, it's a must-play for JRPG fans.
 
-### [453. What’s The Difference Between Artificial Intelligence In Film and its Limitations in Real Life?](https://hackernoon.com/whats-the-difference-between-artificial-intelligence-in-film-and-its-limitations-in-real-life)
+### [452. What’s The Difference Between Artificial Intelligence In Film and its Limitations in Real Life?](https://hackernoon.com/whats-the-difference-between-artificial-intelligence-in-film-and-its-limitations-in-real-life)
 ![](https://cdn.hackernoon.com/images/robot-war-clcojklox000601s6efryerkk.png)
 Artificial Intelligence gets a bad reputation because of Hollywood summer blockbusters.
+
+### [453. 4 Largest Crypto Wallet Hacks in the History of Blockchain](https://hackernoon.com/4-largest-crypto-wallet-hacks-in-the-history-of-blockchain)
+![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-zh535k4.jpeg)
+Crypto Wallets on exchange platforms are very vulnerable to hackers: find out about large crypto hacks that have happened in the past and ways to prevent them.
 
 ### [454. The Witcher 3 Collaboration With Netflix is a Step in the Right Direction for CDPR](https://hackernoon.com/the-witcher-3-collaboration-with-netflix-is-a-step-in-the-right-direction-for-cdpr-541o375a)
 ![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-xxf835d8.jpeg)
 Now that CD Projekt Red and Netflix are collaborating for The Witcher franchise, we examine why it's a relationship that should continue.
 
-### [455. 5 Best PS4 Couch Co-op Games ](https://hackernoon.com/5-best-ps4-couch-co-op-games-h03v349o)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-soc6292g.jpeg)
-With so many games to choose from it might be difficult to pick one, so here are the 5 best PS4 couch co op games to enjoy. 
-
-### [456. How to Reopen Closed Tab Chrome: Restore Chrome Tabs on Phone and PC ](https://hackernoon.com/how-to-reopen-closed-tab-chrome-restore-chrome-tabs-on-phone-and-pc)
+### [455. How to Reopen Closed Tab Chrome: Restore Chrome Tabs on Phone and PC ](https://hackernoon.com/how-to-reopen-closed-tab-chrome-restore-chrome-tabs-on-phone-and-pc)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-xq93r0x.jpeg)
 The easiest and quickest method to restore a Chrome tab is using the keyboard shortcut. Shift+Ctrl+t or Shift+Cmd+T, Go through Recently closed,  Try History
+
+### [456. 5 Best PS4 Couch Co-op Games ](https://hackernoon.com/5-best-ps4-couch-co-op-games-h03v349o)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-soc6292g.jpeg)
+With so many games to choose from it might be difficult to pick one, so here are the 5 best PS4 couch co op games to enjoy. 
 
 ### [457. 10 Best Tech Stocks: Which are the Most Traded in 2021? ](https://hackernoon.com/10-best-tech-stocks-which-are-the-most-traded-in-2021-vo3l34ks)
 ![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-bfd433wy.jpeg)
 In this article, we will discuss the most popular and most traded tech stocks of 2021 so far.
 
-### [458. Everything We Know About Vampire: The Masquerade - Bloodlines 2: Gameplay, Story, Latest News](https://hackernoon.com/everything-we-know-about-vampire-the-masquerade-bloodlines-2-gameplay-story-latest-news)
-![](https://cdn.hackernoon.com/images/C2P9GJNqK9UOwYvFcGS1HQmFM4O2-sf831qm.jpeg)
-Vampire: The Masquerade - Bloodlines 2 is scheduled to release in Fall 2024. Here is what we know about the game's story and gameplay. 
+### [458. The Best Moments in the Witcher 3 ](https://hackernoon.com/the-best-moments-in-the-witcher-3-d31q37is)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-7wg735kk.jpeg)
+The Witcher 3's fame as a story-based RPG has persisted half a decade since it first came out. We talk about our favourite story moments from the game. 
 
-### [459. How Open Source is Getting Faster (and How to Maintain Security) ](https://hackernoon.com/how-open-source-is-getting-faster-and-how-to-maintain-security)
-![](https://cdn.hackernoon.com/images/RHANbxrXjsYoxIMTyKJFleCFJyC3-20135pe.jpeg)
-What affects developer decision making, how open source is getting faster, and why you should track Mean Time to Update as a way to build software that lasts.
+### [459. Decentralized Social Media: Is Bluesky Twitter’s Evil Twin?](https://hackernoon.com/decentralized-social-media-is-bluesky-twitters-evil-twin)
+![](https://cdn.hackernoon.com/images/ZaOj8HVcHth55zDFnTbjmpfCgQk2-dbb2var.jpeg)
+Imagine using your Twitter account to start a conversation on Facebook. That's insane, I know, but the fediverse makes it possible.
 
 ### [460. Scikit Learn 1.0: New Features in Python Machine Learning Library](https://hackernoon.com/scikit-learn-10-new-features-in-python-machine-learning-library)
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-h6034gp.jpeg)
 Scikit-learn is the most popular open-source and free python machine learning library for Data scientists and Machine learning practitioners. The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction.
 
-### [461. Decentralized Social Media: Is Bluesky Twitter’s Evil Twin?](https://hackernoon.com/decentralized-social-media-is-bluesky-twitters-evil-twin)
-![](https://cdn.hackernoon.com/images/ZaOj8HVcHth55zDFnTbjmpfCgQk2-dbb2var.jpeg)
-Imagine using your Twitter account to start a conversation on Facebook. That's insane, I know, but the fediverse makes it possible.
+### [461. How Open Source is Getting Faster (and How to Maintain Security) ](https://hackernoon.com/how-open-source-is-getting-faster-and-how-to-maintain-security)
+![](https://cdn.hackernoon.com/images/RHANbxrXjsYoxIMTyKJFleCFJyC3-20135pe.jpeg)
+What affects developer decision making, how open source is getting faster, and why you should track Mean Time to Update as a way to build software that lasts.
 
-### [462. Go-Daddy Gone Wrong: What Happens to Your Domain if
+### [462. Everything We Know About Vampire: The Masquerade - Bloodlines 2: Gameplay, Story, Latest News](https://hackernoon.com/everything-we-know-about-vampire-the-masquerade-bloodlines-2-gameplay-story-latest-news)
+![](https://cdn.hackernoon.com/images/C2P9GJNqK9UOwYvFcGS1HQmFM4O2-sf831qm.jpeg)
+Vampire: The Masquerade - Bloodlines 2 is scheduled to release in Fall 2024. Here is what we know about the game's story and gameplay. 
+
+### [463. Go-Daddy Gone Wrong: What Happens to Your Domain if
 Your Co-Owner Dies?](https://hackernoon.com/thats-a-no-go-daddy-what-happens-to-your-domain-if-your-co-owner-dies-or-flies-off-the-handle)
 ![](https://cdn.hackernoon.com/images/b2tyklhVayOxl8TvGyYsAbrp6iI3-2t934kx.jpeg)
 One day you receive a call from a mutual friend and hear unbelievable stories, when your friend is out of his mind, and harms himself, and others.
 
 
 
-### [463. The Best Moments in the Witcher 3 ](https://hackernoon.com/the-best-moments-in-the-witcher-3-d31q37is)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-7wg735kk.jpeg)
-The Witcher 3's fame as a story-based RPG has persisted half a decade since it first came out. We talk about our favourite story moments from the game. 
-
-### [464. What is Purple Teaming in Cybersecurity? ](https://hackernoon.com/what-is-purple-teaming-in-cybersecurity)
-![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-nf0368h.jpeg)
-Purple teaming is maximizes the effectiveness of the Red and Blue team. It is a function that encourages the two teams to work together, exchange information.  
-
-### [465. Foundation Series: Data Science, Psychohistory, and the Future of Humanity](https://hackernoon.com/foundation-series-data-science-psychohistory-and-the-future-of-humanity)
+### [464. Foundation Series: Data Science, Psychohistory, and the Future of Humanity](https://hackernoon.com/foundation-series-data-science-psychohistory-and-the-future-of-humanity)
 ![](https://cdn.hackernoon.com/images/wZtQzVW9IXObe1GeGaINXBF5SRj2-0g03o03.gif)
 A world where the future of humanity can be predicted through an interdisciplinary science called psychohistory! A data scientist's review of Foundation Series.
 
-### [466. What is a Med Tech? - All You Need To Know About The Hybrid Job](https://hackernoon.com/what-is-a-med-tech-all-you-need-to-know-about-the-hybrid-job-mz1237ns)
-![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-l944347q.jpeg)
-Have you ever considered a career in healthcare? Find out about a hybrid job option that gives you diverse choices and make an informed decision today.
+### [465. What is Purple Teaming in Cybersecurity? ](https://hackernoon.com/what-is-purple-teaming-in-cybersecurity)
+![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-nf0368h.jpeg)
+Purple teaming is maximizes the effectiveness of the Red and Blue team. It is a function that encourages the two teams to work together, exchange information.  
+
+### [466. Activity-Centered Instructional Design Model: An Analysis of Action Mapping by Cathy Moore](https://hackernoon.com/activity-centered-instructional-design-model-an-analysis-of-action-mapping-by-cathy-moore)
+![](https://cdn.hackernoon.com/images/zR7HaHTqCqZz6jp3ZEUARJgo6SJ3-ha93jb4.jpeg)
+Action Mapping by Cathy Moore is an activity-centred model of instructional design, which focuses on what people need to be able to do rather than what people 
 
 ### [467. The Landscape of AI in African Languages and Linguistics](https://hackernoon.com/the-landscape-of-ai-in-african-languages-and-linguistics)
 ![](https://cdn.hackernoon.com/images/gJIQIg1YPxb5RjSISA8RrkbCDv83-ux93qfo.jpeg)
 NLP has been used widely in Africa, including in conversational AI. In this interview, we talk to a data scientist in Rwanda to get the inside scoop.
 
 
-### [468. Teamwork and Collaboration: The Beauty of Being Replaceable](https://hackernoon.com/teamwork-and-collaboration-the-beauty-of-being-replaceable)
+### [468. What is a Med Tech? - All You Need To Know About The Hybrid Job](https://hackernoon.com/what-is-a-med-tech-all-you-need-to-know-about-the-hybrid-job-mz1237ns)
+![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-l944347q.jpeg)
+Have you ever considered a career in healthcare? Find out about a hybrid job option that gives you diverse choices and make an informed decision today.
+
+### [469. Teamwork and Collaboration: The Beauty of Being Replaceable](https://hackernoon.com/teamwork-and-collaboration-the-beauty-of-being-replaceable)
 ![](https://cdn.hackernoon.com/images/RMGhgLGonReGmisPwIYAa7M4rTo1-1o92b5f.jpeg)
 Through teamwork and collaboration, you can make yourself replaceable. This ensures the project stays stable and has benefits for you and for the team.
 
-### [469. 6 Important Use Cases for UAVs (Unmanned Aerial Vehicles)](https://hackernoon.com/6-common-uses-for-uavs-unmanned-aerial-vehicles)
+### [470. 6 Important Use Cases for UAVs (Unmanned Aerial Vehicles)](https://hackernoon.com/6-common-uses-for-uavs-unmanned-aerial-vehicles)
 ![](https://cdn.hackernoon.com/images/C2P9GJNqK9UOwYvFcGS1HQmFM4O2-un93rnm.jpeg)
 Drones have proven to be effective in the fields of delivery, journalism, search and rescue, disaster response, firefighting, and agriculture. 
 
-### [470. Warframe Update 30.5: Sisters of Parvos Brings Lich Changes, Melee Rework, and New Warframe](https://hackernoon.com/warframe-update-305-sisters-of-parvos-brings-lich-changes-melee-rework-and-new-warframe-si15377r)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-l62q35ob.jpeg)
-Warframe's Update 30.5: Sisters of Parvos brings big changes to Warframe's Railjack, Kuva Lich and Railjack mechanics. It adds new quests, weapons and more.
-
-### [471. Activity-Centered Instructional Design Model: An Analysis of Action Mapping by Cathy Moore](https://hackernoon.com/activity-centered-instructional-design-model-an-analysis-of-action-mapping-by-cathy-moore)
-![](https://cdn.hackernoon.com/images/zR7HaHTqCqZz6jp3ZEUARJgo6SJ3-ha93jb4.jpeg)
-Action Mapping by Cathy Moore is an activity-centred model of instructional design, which focuses on what people need to be able to do rather than what people 
-
-### [472. Dynamic Programming: Using Memoization to Improve Your Javascript Functions](https://hackernoon.com/dynamic-programming-using-memoization-to-improve-your-javascript-functions)
+### [471. Dynamic Programming: Using Memoization to Improve Your Javascript Functions](https://hackernoon.com/dynamic-programming-using-memoization-to-improve-your-javascript-functions)
 ![](https://cdn.hackernoon.com/images/vJZjNRXjG5OwQ3VPCR4tScyGSEC3-l6a2hbe.jpeg)
 In this article, we will learn about what memoization is, what value memoization provides to Javascript developers, and how to use it to improve JS functions.
 
-### [473. Biometric Data and Privacy: Here’s What You Need to Know](https://hackernoon.com/biometric-data-and-privacy-heres-what-you-need-to-know)
-![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-id536l1.jpeg)
-Biometrics are metrics that can be used to identify a person. This article discusses  biometric data and its privacy concerns & how to protect biometric data. 
+### [472. Warframe Update 30.5: Sisters of Parvos Brings Lich Changes, Melee Rework, and New Warframe](https://hackernoon.com/warframe-update-305-sisters-of-parvos-brings-lich-changes-melee-rework-and-new-warframe-si15377r)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-l62q35ob.jpeg)
+Warframe's Update 30.5: Sisters of Parvos brings big changes to Warframe's Railjack, Kuva Lich and Railjack mechanics. It adds new quests, weapons and more.
 
-### [474. Red Team vs. Blue Team in Cybersecurity: A Quick Crash Course](https://hackernoon.com/red-team-vs-blue-team-in-cybersecurity-a-quick-crash-course)
+### [473. Red Team vs. Blue Team in Cybersecurity: A Quick Crash Course](https://hackernoon.com/red-team-vs-blue-team-in-cybersecurity-a-quick-crash-course)
 ![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-d6436ic.jpeg)
 Red and Blue teams are simulated real-world attacks used in organizations to test a company's current security rules. Each team aids in improving the security. 
 
-### [475. The Problem With Live Service Games](https://hackernoon.com/the-problem-with-live-service-games-pi3p37k0)
-![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-2mxt351w.jpeg)
-Jeffrey Harris offers his a look at why live service games aren't fun and ultimately defeat the purpose of what true game experiences should be.
+### [474. Biometric Data and Privacy: Here’s What You Need to Know](https://hackernoon.com/biometric-data-and-privacy-heres-what-you-need-to-know)
+![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-id536l1.jpeg)
+Biometrics are metrics that can be used to identify a person. This article discusses  biometric data and its privacy concerns & how to protect biometric data. 
 
-### [476. How to Ensure Data Integrity in an Organization](https://hackernoon.com/how-to-ensure-data-integrity-in-an-organization)
-![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-2j037r1.jpeg)
-Ensuring data integrity is essential in an organization because it ensures data  has not been altered or compromised. Understand how to preserve data integrity.
-
-### [477. How to Become an iOS Developer: An Essential Guide](https://hackernoon.com/how-to-become-an-ios-developer-an-essential-guide-gy4f34hq)
-![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-cqgo33hd.jpeg)
-To become an iOS developer you must have the proper hardware and software, and learn the Swift and Objective-C programming languages.
-
-### [478. Cruis’n Blast Review (Nintendo Switch): Is this Arcade Racing Game Worth Taking Home?](https://hackernoon.com/cruisn-blast-review-nintendo-switch-is-this-arcade-racing-game-worth-taking-home)
+### [475. Cruis’n Blast Review (Nintendo Switch): Is this Arcade Racing Game Worth Taking Home?](https://hackernoon.com/cruisn-blast-review-nintendo-switch-is-this-arcade-racing-game-worth-taking-home)
 ![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-703w5338d.jpeg)
 Cruis'n Blast doesn't provide a flawless racing experience, but it's still a fun game that manages to act as the definitive arcade racing title at home.
 
-### [479. How to Create Talking Photo Avatars to Improve Marketing and Employee Training](https://hackernoon.com/how-to-create-talking-photo-avatars-to-improve-marketing-and-employee-training)
+### [476. The Problem With Live Service Games](https://hackernoon.com/the-problem-with-live-service-games-pi3p37k0)
+![](https://cdn.hackernoon.com/images/TBUUbqq9KzTlPO2Wo3cANmSvo8u2-2mxt351w.jpeg)
+Jeffrey Harris offers his a look at why live service games aren't fun and ultimately defeat the purpose of what true game experiences should be.
+
+### [477. How to Ensure Data Integrity in an Organization](https://hackernoon.com/how-to-ensure-data-integrity-in-an-organization)
+![](https://cdn.hackernoon.com/images/xwRTMTtsfYNZdN4zVqQuYZcuZrs1-2j037r1.jpeg)
+Ensuring data integrity is essential in an organization because it ensures data  has not been altered or compromised. Understand how to preserve data integrity.
+
+### [478. It’s All Random: Video Game Genres that Excel at Randomness](https://hackernoon.com/its-all-random-video-game-genres-that-excel-at-randomness)
+![](https://cdn.hackernoon.com/images/8XNOXRgh02hSlut2mkXST3bfX703-4pd3oth.jpeg)
+If you're looking for random moments made consistently fun, open-world and roguelike games do it best. Let's find out what makes these genres stand out.
+
+### [479. How to Become an iOS Developer: An Essential Guide](https://hackernoon.com/how-to-become-an-ios-developer-an-essential-guide-gy4f34hq)
+![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-cqgo33hd.jpeg)
+To become an iOS developer you must have the proper hardware and software, and learn the Swift and Objective-C programming languages.
+
+### [480. How to Create Talking Photo Avatars to Improve Marketing and Employee Training](https://hackernoon.com/how-to-create-talking-photo-avatars-to-improve-marketing-and-employee-training)
 ![](https://cdn.hackernoon.com/images/kSHQSwZD26TQdgii3eWGzNL2fKD2-aka32sh.jpeg)
 Discover the power of talking photo avatars in enhancing your marketing strategies and improving your employee training program. Learn the easy steps.
 
-### [480. 5 Best Online Information Technology Courses to Grow Your Tech Career](https://hackernoon.com/5-best-online-information-technology-courses-to-grow-your-tech-career-tu2v37nh)
+### [481. 5 Best Online Information Technology Courses to Grow Your Tech Career](https://hackernoon.com/5-best-online-information-technology-courses-to-grow-your-tech-career-tu2v37nh)
 ![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-0y4937lp.jpeg)
 Online learning is just as important to your career as learning in a class. Find out the five online courses that you can take to grow in your tech career.
-
-### [481. It’s All Random: Video Game Genres that Excel at Randomness](https://hackernoon.com/its-all-random-video-game-genres-that-excel-at-randomness)
-![](https://cdn.hackernoon.com/images/8XNOXRgh02hSlut2mkXST3bfX703-4pd3oth.jpeg)
-If you're looking for random moments made consistently fun, open-world and roguelike games do it best. Let's find out what makes these genres stand out.
 
 ### [482. That time I used my Credit Card to pay off Tom Nook](https://hackernoon.com/how-to-get-12-million-animal-crossing-bells-via-shady-online-merchants-ch3o33gj)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-lwf33yc.png)
@@ -1953,13 +1955,13 @@ Animal Crossing Bells can take a long, boring time to earn. So what happens if y
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-by93td4.jpeg)
 Yvonne Eskenzi is the owner of a cybersecurity PR agency in London. She and her daughters, Jasmine and Jade, are building a new app called The Zensory.
 
-### [484. What is a Cybercrime Investigator? (and How to Become One)](https://hackernoon.com/what-is-a-cybercrime-investigator-and-how-to-become-one)
-![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-on93xgd.jpeg)
-If you're tired of the rampant scams and fraud online, this article will explain how you can fight back as a cybercrime investigator. 
-
-### [485. Monster Hunter Stories 2 Review (Nintendo Switch): Smaller Scale, Greater Story](https://hackernoon.com/monster-hunter-stories-2-review-nintendo-switch-smaller-scale-greater-story)
+### [484. Monster Hunter Stories 2 Review (Nintendo Switch): Smaller Scale, Greater Story](https://hackernoon.com/monster-hunter-stories-2-review-nintendo-switch-smaller-scale-greater-story)
 ![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-sje34xj.jpeg)
 While Monster Hunter Stories 2 isn't the perfect RPG, it's a fun experience with a story unique to the series. Just be careful of performance issues...
+
+### [485. What is a Cybercrime Investigator? (and How to Become One)](https://hackernoon.com/what-is-a-cybercrime-investigator-and-how-to-become-one)
+![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-on93xgd.jpeg)
+If you're tired of the rampant scams and fraud online, this article will explain how you can fight back as a cybercrime investigator. 
 
 ### [486. An Introduction to NFT Stocks](https://hackernoon.com/an-introduction-to-nft-stocks-nu3h37vq)
 ![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-bqb3368w.jpeg)
@@ -1973,51 +1975,51 @@ Cybersecurity is an evolving and popular industry with those in the profession w
 ![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-np93qpf.jpeg)
 In 2017, James Linton was working as a digital UX (User Experience) designer, with no idea what a few pranks over the next few months would lead to. Now, he wor
 
-### [489. What is The Next Printing Press?](https://hackernoon.com/what-is-the-next-printing-press)
-![](https://cdn.hackernoon.com/images/0ND921QitCePbuLAJQgufmkRClY2-70037o5.jpeg)
- Trying to predict where the next revolution in publishing will come from is difficult. But one thing is certain–publishing of the future will be complicated.
-
-### [490. CVE-2022-31705: Bridged Creek Vulnerability Report](https://hackernoon.com/cve-2022-31705-bridged-creek-vulnerability-report)
+### [489. CVE-2022-31705: Bridged Creek Vulnerability Report](https://hackernoon.com/cve-2022-31705-bridged-creek-vulnerability-report)
 ![](https://cdn.hackernoon.com/images/sandbox-escape-internet-technical-vulnerability-weakness-hacker-clbteg7qx000201s61kzg9slk.png)
 Information on the CVE-2022-31705 critical sandbox escape vulnerability announced by VMWare.
+
+### [490. What is The Next Printing Press?](https://hackernoon.com/what-is-the-next-printing-press)
+![](https://cdn.hackernoon.com/images/0ND921QitCePbuLAJQgufmkRClY2-70037o5.jpeg)
+ Trying to predict where the next revolution in publishing will come from is difficult. But one thing is certain–publishing of the future will be complicated.
 
 ### [491. PC Gaming Accessories and Peripherals: A Starter's Guide](https://hackernoon.com/pc-gaming-accessories-and-peripherals-a-starters-guide)
 ![](https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-ix234jq.jpeg)
 Take an in-depth look on gaming accessories and peripherals, such as mice, motherboards, and chairs. How many really benefit from the "gamer" branding?
 
-### [492. Python Substrings: Everything You Need to Know](https://hackernoon.com/python-substrings-everything-you-need-to-know-031537pa)
-![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-7de32nd.jpeg)
-A python substring is a sequence of characters within a string, in this article you will learn various operations related to them and how to use them.
+### [492. The Wild at Heart Game Review (Nintendo Switch)](https://hackernoon.com/the-wild-at-heart-game-review-nintendo-switch)
+![](https://cdn.hackernoon.com/images/0ND921QitCePbuLAJQgufmkRClY2-n283s5d.jpeg)
+Despite the minor drawbacks and sometimes tedious puzzles, The Wild at Heart is the perfect game to escape reality and relax on a cold winter evening.
 
-### [493. Why the Ethereum Price has Dropped: Speculations and Dips](https://hackernoon.com/why-the-ethereum-price-has-dropped-speculations-and-dips-jd4h37np)
-![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-xbak37pl.jpeg)
-Ethereum is a very popular coin, but before you invest in the coin, read this detailed analysis of the price changes that make ETH very peculiar to investors.
-
-### [494. The Most Common Indicators of a Phishing Attempt (With Screenshots)](https://hackernoon.com/the-most-common-indicators-of-a-phishing-attempt-with-screenshots)
+### [493. The Most Common Indicators of a Phishing Attempt (With Screenshots)](https://hackernoon.com/the-most-common-indicators-of-a-phishing-attempt-with-screenshots)
 ![](https://cdn.hackernoon.com/images/BV5zb67XchbyA3Xuqzts2QoXDA23-mf83yje.jpeg)
 The article covers the most common ways to spot a phishing attempt to help keep your inbox scam-free. 
 
-### [495. The Best Free Tech Writing Fellowship on the Internet](https://hackernoon.com/the-best-free-tech-writing-fellowship-on-the-internet)
+### [494. The Best Free Tech Writing Fellowship on the Internet](https://hackernoon.com/the-best-free-tech-writing-fellowship-on-the-internet)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-c493o4p.gif.webp)
 The HackerNoon Tech Writing Fellowship seeks to help tear down barriers of entry into the job market. 
 
-### [496. The Wild at Heart Game Review (Nintendo Switch)](https://hackernoon.com/the-wild-at-heart-game-review-nintendo-switch)
-![](https://cdn.hackernoon.com/images/0ND921QitCePbuLAJQgufmkRClY2-n283s5d.jpeg)
-Despite the minor drawbacks and sometimes tedious puzzles, The Wild at Heart is the perfect game to escape reality and relax on a cold winter evening.
+### [495. Python Substrings: Everything You Need to Know](https://hackernoon.com/python-substrings-everything-you-need-to-know-031537pa)
+![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-7de32nd.jpeg)
+A python substring is a sequence of characters within a string, in this article you will learn various operations related to them and how to use them.
+
+### [496. Why the Ethereum Price has Dropped: Speculations and Dips](https://hackernoon.com/why-the-ethereum-price-has-dropped-speculations-and-dips-jd4h37np)
+![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-xbak37pl.jpeg)
+Ethereum is a very popular coin, but before you invest in the coin, read this detailed analysis of the price changes that make ETH very peculiar to investors.
 
 ### [497. How to Make Money Using ChatGPT: Inspired by Gangnam Style](https://hackernoon.com/how-to-make-money-using-chatgpt-inspired-by-gangnam-style)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ao93rxi.jpeg)
 When you look closely, Psy lays out the exact blueprint on how to make money with ChatGPT.
 
-### [498. Metroid Dread Review: The Best 2D Metroid Game Ever Made](https://hackernoon.com/metroid-dread-review-the-best-2d-metroid-game-ever-made)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ee036qj.jpeg)
-Metroid Dread reviewed for Hacker Noon. We'll talk about the story, gameplay, and those brutal boss fights. Hands down the best 2D Metroid game ever made.
+### [498. How to Record a Zoom Meeting without Permission on Phone, Windows, and Mac](https://hackernoon.com/how-to-record-a-zoom-meeting-without-permission-on-phone-windows-and-mac)
+![](https://cdn.hackernoon.com/images/gJIQIg1YPxb5RjSISA8RrkbCDv83-9793ur8.jpeg)
+To record Zoom meetings without permission, consider 1. Systems screen recorder, 2. third-party screen recorder, 3. zoom chrome extension to record zoom meeting
 
 ### [499. The Power of Lateral Thinking: Boost Your Creativity and Problem-Solving Skills as a Generalist](https://hackernoon.com/the-power-of-lateral-thinking-boost-your-creativity-and-problem-solving-skills-as-a-generalist)
 ![](https://cdn.hackernoon.com/images/sWKQfNxmQ3gv7ZyDsNIoBLSLRs22-7t93ngh.jpeg)
 Lateral thinking is a framework and a way of thinking that allows you to get unstuck and find unconventional solutions to complex problems.
 
-### [500. How to Record a Zoom Meeting without Permission on Phone, Windows, and Mac](https://hackernoon.com/how-to-record-a-zoom-meeting-without-permission-on-phone-windows-and-mac)
-![](https://cdn.hackernoon.com/images/gJIQIg1YPxb5RjSISA8RrkbCDv83-9793ur8.jpeg)
-To record Zoom meetings without permission, consider 1. Systems screen recorder, 2. third-party screen recorder, 3. zoom chrome extension to record zoom meeting
+### [500. One Day in Paldea: A Review of Pokemon Scarlet and Violet](https://hackernoon.com/one-day-in-paldea-a-review-of-pokemon-scarlet-and-violet)
+![](https://cdn.hackernoon.com/images/RoifOyeHnPelQUu5SKamxiCm4py1-zf93qms.jpeg)
+Despite some persistent graphical glitches, the new Pokemon Scarlet and Violet successfully expand on the open world concept brought in by Legends: Arceus.
 

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [terraform](https://hackernoon.com/tagged/terraform)
+### Let's learn about [Terraform](https://hackernoon.com/tagged/terraform) via these 99 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Terraform is an Infrastructure as Code (IaC) tool that allows users to define and provision datacenter infrastructure using a declarative configuration language. It enables consistent and automated environment deployments, significantly streamlining cloud and on-premises resource management.
+
 ### [1. Introduction to AWS With Terraform](https://hackernoon.com/introduction-to-aws-with-terraform-7a8daf261dc0)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-zo03b0z.png)
 Almost one month ago, I released Practical AWS, a training concerned With the actual use of AWS rather than with theory &amp; ideas.
@@ -61,25 +65,25 @@ Practical guide to automating Vertex AI Workbench on GCP with Terraform modules 
 ![](https://cdn.hackernoon.com/images/HeOkbF4Sole4315pFkhER6Vatka2-598338x.png)
 Apache Airflow is a widely used platform for organizing data manipulation workflows in directed acyclic graphs.
 
-### [16. Can We Terraform Our Way Out of Earth?](https://hackernoon.com/can-we-terraform-our-way-out-of-earth)
-![](https://cdn.hackernoon.com/images/bBw6lclZnZVSAS64ULonnkXwtDu1-ip53bpt.png)
-Beyond Mars, what worlds could humanity reshape next? What possible havens could we escape to? Explore the science and ethics behind terraforming new bodies.c
-
-### [17. How To Migrate An Existing Infrastructure into Terraform](https://hackernoon.com/how-to-migrate-an-existing-infrastructure-into-terraform-qn173uag)
+### [16. How To Migrate An Existing Infrastructure into Terraform](https://hackernoon.com/how-to-migrate-an-existing-infrastructure-into-terraform-qn173uag)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFOSBkxRpMMhr0jzqpLzjyr5LuOI3-rdg3uni.webp?alt=media&token=831b3040-a51e-426d-99ac-67f80d1cd8a1)
 Terraform is a powerful tool to have in your toolset.
 
-### [18. From “Feature branches” to “Feature environments” with Terraform](https://hackernoon.com/from-feature-branches-to-feature-environments-with-terraform-10973ycb)
+### [17. From “Feature branches” to “Feature environments” with Terraform](https://hackernoon.com/from-feature-branches-to-feature-environments-with-terraform-10973ycb)
 ![](https://images.unsplash.com/photo-1517346390924-ed32f0029f23?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 “The advantage of feature branching is that each developer can work on their own feature and be isolated from changes going on elsewhere.” (FeatureBranch)
 
-### [19. Sanity-Checks with Playwright in Fargate container on schedule](https://hackernoon.com/sanity-checks-with-playwright-in-fargate-container-on-schedule-glr35rp)
+### [18. Sanity-Checks with Playwright in Fargate container on schedule](https://hackernoon.com/sanity-checks-with-playwright-in-fargate-container-on-schedule-glr35rp)
 ![](https://cdn.hackernoon.com/images/2h3hqTmyuxXacclcSFqybjZrpMN2-gvaa8394c.jpeg)
 There is often the need to check whether your production system is working as expected. Playwright is a great way to test if everything is going to plan. 
 
-### [20. Say Goodbye to Outdated Diagrams: Automate Your Infrastructure Visualization](https://hackernoon.com/say-goodbye-to-outdated-diagrams-automate-your-infrastructure-visualization)
+### [19. Say Goodbye to Outdated Diagrams: Automate Your Infrastructure Visualization](https://hackernoon.com/say-goodbye-to-outdated-diagrams-automate-your-infrastructure-visualization)
 ![](https://cdn.hackernoon.com/images/EgbcflnJ52QSu5zjHCT9Xao2qAg2-z0a33a3.png)
 Automate your infrastructure diagrams. Guide helps you maintain fresh, accurate visuals with minimal effort, perfect for managing 
+
+### [20. Can We Terraform Our Way Out of Earth?](https://hackernoon.com/can-we-terraform-our-way-out-of-earth)
+![](https://cdn.hackernoon.com/images/bBw6lclZnZVSAS64ULonnkXwtDu1-ip53bpt.png)
+Beyond Mars, what worlds could humanity reshape next? What possible havens could we escape to? Explore the science and ethics behind terraforming new bodies.c
 
 ### [21. Unlocking IaC Part 4: Terraform & Github](https://hackernoon.com/unlocking-iac-part-4-terraform-and-github)
 ![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-1ek35wd.png)
@@ -122,14 +126,14 @@ Knowing how to build REST API with latest tech is cool. You know what's even coo
 ![](https://cdn.hackernoon.com/images/cjwcVDmwpbVBV6tzg2NsNKh90hL2-ub8335n.png)
 The tenv terraform version manager helps manage terraform more easily for complex projects without any additional scripts.
 
-### [31. AWS LetsEncrypt Lambda or Why I Wrote a Custom TLS Provider for AWS Using OpenTofu and Go](https://hackernoon.com/aws-letsencrypt-lambda-or-why-i-wrote-a-custom-tls-provider-for-aws-using-opentofu-and-go)
-![](https://cdn.hackernoon.com/images/cjwcVDmwpbVBV6tzg2NsNKh90hL2-61b3ztn.jpeg)
-LetsEncrypt Lambda helps to manage TLS certificates. Compared to Certificate Manager it provides certs that can be used at non-only AWS services like EC2 Nginx.
-
-### [32. These Terraform/OpenTofu Tools Promise to Manage Your Infrastructure Tasks Effectively](https://hackernoon.com/these-terraformopentofu-tools-promise-to-manage-your-infrastructure-tasks-effectively)
+### [31. These Terraform/OpenTofu Tools Promise to Manage Your Infrastructure Tasks Effectively](https://hackernoon.com/these-terraformopentofu-tools-promise-to-manage-your-infrastructure-tasks-effectively)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4602sqk.jpeg)
 Explore the top Terraform and OpenTofu tools for 2025 to simplify infrastructure management, improve collaboration, boost security, and optimize workflows.
 
+
+### [32. AWS LetsEncrypt Lambda or Why I Wrote a Custom TLS Provider for AWS Using OpenTofu and Go](https://hackernoon.com/aws-letsencrypt-lambda-or-why-i-wrote-a-custom-tls-provider-for-aws-using-opentofu-and-go)
+![](https://cdn.hackernoon.com/images/cjwcVDmwpbVBV6tzg2NsNKh90hL2-61b3ztn.jpeg)
+LetsEncrypt Lambda helps to manage TLS certificates. Compared to Certificate Manager it provides certs that can be used at non-only AWS services like EC2 Nginx.
 
 ### [33. Unlocking IaC Part 2: Setting Up Terraform on Windows for AWS](https://hackernoon.com/unlocking-iac-part-2-setting-up-terraform-on-windows-for-aws)
 ![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-8p93oc8.png)
@@ -227,17 +231,17 @@ Learn how to manage Active Directory Objects with Azure AD Provider for Terrafor
 ![](https://cdn.hackernoon.com/images/VZCQ0e1Yv2eJAMyEidHksLMysJ73-xt93kxp.jpeg)
 In part 2, we'll go over deploying serverless API to AWS Cloud with Terraform.
 
-### [57. How To Sync Terraform Config And .tfstate File For Existing AWS Resources](https://hackernoon.com/sync-terraform-config-and-tfstate-for-existing-aws-resources-mk1dz3tr0)
+### [57. Introduction to AWS Log Insights as CloudWatch Metrics](https://hackernoon.com/introduction-to-aws-log-insights-as-cloudwatch-metrics-e429332l)
+![](https://cdn.hackernoon.com/images/V8rHe34LNFY72hur3KxuNqnmW3D3-a31728x0.jpeg)
+A step-by-step description of how to create an AWS Lambda to convert Cloudwatch LogInsights into metrics
+
+### [58. How To Sync Terraform Config And .tfstate File For Existing AWS Resources](https://hackernoon.com/sync-terraform-config-and-tfstate-for-existing-aws-resources-mk1dz3tr0)
 ![](https://cdn.hackernoon.com/images/9a1863tby.jpg)
 Terraform is a great (and dominant) infrastructure automation tool. It is multi-cloud, can build all sorts of resources, and in some cases supports API calls to build resources before the native tooling from cloud providers does.
 
-### [58. Basics of AWS Tags & Terraform with S3 - Part 1](https://hackernoon.com/basics-of-aws-tags-and-terraform-with-s3-part-1)
+### [59. Basics of AWS Tags & Terraform with S3 - Part 1](https://hackernoon.com/basics-of-aws-tags-and-terraform-with-s3-part-1)
 ![](https://cdn.hackernoon.com/images/CAcAUp9L4Bb82B1TFYOaaBSjd322-2893fse.jpeg)
 In this video course, you'll learn the basics of AWS tags and Terraform with an S3 bucket. 
-
-### [59. Introduction to AWS Log Insights as CloudWatch Metrics](https://hackernoon.com/introduction-to-aws-log-insights-as-cloudwatch-metrics-e429332l)
-![](https://cdn.hackernoon.com/images/V8rHe34LNFY72hur3KxuNqnmW3D3-a31728x0.jpeg)
-A step-by-step description of how to create an AWS Lambda to convert Cloudwatch LogInsights into metrics
 
 ### [60. How to Choose the Best Cloud DevOps Tools for Your Needs in 2025](https://hackernoon.com/how-to-choose-the-best-cloud-devops-tools-for-your-needs-in-2025)
 ![](https://cdn.hackernoon.com/images/oFGeFapEkfNVKw7jMaMcXWHiU0j1-kp039jp.jpeg)
@@ -247,45 +251,45 @@ Strategically choose DevOps tools by evaluating integration, scalability, commun
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ce03bmc.jpeg)
 Make compliance simple and smart. Learn how Terraform and Google Cloud Policy Intelligence automate security checks and governance effortlessly.
 
-### [62. Terraform State Management: A Deep Dive Beyond the Basics for Azure Deployments](https://hackernoon.com/terraform-state-management-a-deep-dive-beyond-the-basics-for-azure-deployments)
-![](https://cdn.hackernoon.com/images/8HKl6FNr4PcR7BVek2SN7D8BNL42-yh136wn.jpeg)
-Discover Terraform state management strategies for Azure deployments that go beyond basics to ensure security, scalability, and resilience at enterprise
-
-### [63. Deploying an Open Source Secure Video Conference Server [A How To Guide]](https://hackernoon.com/deploying-an-open-source-secure-video-conference-server-a-how-to-guide-t6843281)
-![](https://cdn.hackernoon.com/images/b35z33yuq.gif)
-In this article, you'll create a new DigitalOcean account using a free credit link. Then, you will clone a GitHub repository, and use Terraform code to initialize, plan and apply resources to your account, using a preconfigured image from DigitalOcean and your custom domain name. Finally, you will access your account remotely via SSH and execute two scripts to configure both your video conference server and Let's Encrypt SSL to enable HTTPS.
-
-### [64. Getting Started Provisioning an AWS EKS Kubernetes Cluster with Terraform](https://hackernoon.com/how-to-provision-an-aws-eks-kubernetes-cluster-with-terraform)
-![](https://cdn.hackernoon.com/images/YK5sesApjfYn5xLqQleCGoS3F1G2-m3237le.jpeg)
-Learn how to provision an AWS EKS Kubernetes cluster with Terraform. See a full step-by-step tutorial.
-
-### [65. Change the Name of your AWS S3 Bucket in Terraform Without Breaking Things](https://hackernoon.com/change-the-name-of-an-aws-s3-bucket-in-terraform-without-breaking-things)
-![](https://cdn.hackernoon.com/images/YK5sesApjfYn5xLqQleCGoS3F1G2-r603aa0.jpeg)
-Learn how to rename an AWS S3 bucket in Terraform. See renaming process of Amazon s3 bucket in a few simple steps.
-
-### [66. Automate EC2 Deployments on AWS with Terraform Modules](https://hackernoon.com/automate-ec2-deployments-on-aws-with-terraform-modules)
+### [62. Automate EC2 Deployments on AWS with Terraform Modules](https://hackernoon.com/automate-ec2-deployments-on-aws-with-terraform-modules)
 ![](https://cdn.hackernoon.com/images/l82ukgORhpX0BcfZBklvH6MHceU2-7l23tey.jpeg)
 In cloud computing, managing infrastructure efficiently has now become an important part of modern infrastructure operations. 
 
-### [67. Setting up Yandex Cloud Provider with Terraform and Terragrunt](https://hackernoon.com/setting-up-yandex-cloud-provider-with-terraform-and-terragrunt)
+### [63. Terraform State Management: A Deep Dive Beyond the Basics for Azure Deployments](https://hackernoon.com/terraform-state-management-a-deep-dive-beyond-the-basics-for-azure-deployments)
+![](https://cdn.hackernoon.com/images/8HKl6FNr4PcR7BVek2SN7D8BNL42-yh136wn.jpeg)
+Discover Terraform state management strategies for Azure deployments that go beyond basics to ensure security, scalability, and resilience at enterprise
+
+### [64. Setting up Yandex Cloud Provider with Terraform and Terragrunt](https://hackernoon.com/setting-up-yandex-cloud-provider-with-terraform-and-terragrunt)
 ![](https://cdn.hackernoon.com/images/DabUoDLPTdaW0lDjgxatLLbH1Nw2-wz035n0.png)
 This guide provides practical steps for managing Terraform provider configurations across multiple Yandex Cloud regions using Terragrunt.
 
-### [68. Terraform Configuration Syntax Overview](https://hackernoon.com/terraform-configuration-syntax-overview-c91n31ee)
-![](https://cdn.hackernoon.com/images/ygShC1FWmOW9nqC16JirQ0nzNd53-kv5531qu.jpeg)
-All you need to know to get started about Terraform Syntax.
+### [65. Deploying an Open Source Secure Video Conference Server [A How To Guide]](https://hackernoon.com/deploying-an-open-source-secure-video-conference-server-a-how-to-guide-t6843281)
+![](https://cdn.hackernoon.com/images/b35z33yuq.gif)
+In this article, you'll create a new DigitalOcean account using a free credit link. Then, you will clone a GitHub repository, and use Terraform code to initialize, plan and apply resources to your account, using a preconfigured image from DigitalOcean and your custom domain name. Finally, you will access your account remotely via SSH and execute two scripts to configure both your video conference server and Let's Encrypt SSL to enable HTTPS.
+
+### [66. Change the Name of your AWS S3 Bucket in Terraform Without Breaking Things](https://hackernoon.com/change-the-name-of-an-aws-s3-bucket-in-terraform-without-breaking-things)
+![](https://cdn.hackernoon.com/images/YK5sesApjfYn5xLqQleCGoS3F1G2-r603aa0.jpeg)
+Learn how to rename an AWS S3 bucket in Terraform. See renaming process of Amazon s3 bucket in a few simple steps.
+
+### [67. Getting Started Provisioning an AWS EKS Kubernetes Cluster with Terraform](https://hackernoon.com/how-to-provision-an-aws-eks-kubernetes-cluster-with-terraform)
+![](https://cdn.hackernoon.com/images/YK5sesApjfYn5xLqQleCGoS3F1G2-m3237le.jpeg)
+Learn how to provision an AWS EKS Kubernetes cluster with Terraform. See a full step-by-step tutorial.
+
+### [68. tenv v2.0: The Importance of Explicit Behavior for the Version Manager](https://hackernoon.com/tenv-v20-the-importance-of-explicit-behavior-for-the-version-manager)
+![](https://cdn.hackernoon.com/images/cjwcVDmwpbVBV6tzg2NsNKh90hL2-7p834ps.jpeg)
+The explicit behaviour of IAC version managers is crucial. Terraform version manager tenv faced with an issue with implicit behaviour and solved that in v2.0.
 
 ### [69. Ad Hoc Environments for Django Applications With ECS, Terraform and GitHub Actions](https://hackernoon.com/ad-hoc-environments-for-django-applications-with-ecs-terraform-and-github-actions)
 ![](https://cdn.hackernoon.com/images/ixsN9Zb8Pkcl0i6EizoW9z6RszC3-6fb3o5s.jpeg)
 This article will show how software development teams can build on-demand environments for dog-food testing, quality review, internal and external demos and oth
 
-### [70. tenv v2.0: The Importance of Explicit Behavior for the Version Manager](https://hackernoon.com/tenv-v20-the-importance-of-explicit-behavior-for-the-version-manager)
-![](https://cdn.hackernoon.com/images/cjwcVDmwpbVBV6tzg2NsNKh90hL2-7p834ps.jpeg)
-The explicit behaviour of IAC version managers is crucial. Terraform version manager tenv faced with an issue with implicit behaviour and solved that in v2.0.
-
-### [71. 6 DevOps Trends in 2022 That DevOps Engineers Should Adopt](https://hackernoon.com/6-devops-trends-in-2022-that-devops-engineers-should-adopt)
+### [70. 6 DevOps Trends in 2022 That DevOps Engineers Should Adopt](https://hackernoon.com/6-devops-trends-in-2022-that-devops-engineers-should-adopt)
 ![](https://cdn.hackernoon.com/images/VeNIJRCvcqePHfCqciRDzTJm5D62-6c93jp1.jpeg)
 The role of DevOps engineers, their responsibilities, growth opportunities, a set of important soft & hard skills, and most importantly, DevOps trends in 2022.
+
+### [71. Terraform Configuration Syntax Overview](https://hackernoon.com/terraform-configuration-syntax-overview-c91n31ee)
+![](https://cdn.hackernoon.com/images/ygShC1FWmOW9nqC16JirQ0nzNd53-kv5531qu.jpeg)
+All you need to know to get started about Terraform Syntax.
 
 ### [72. How To Manage Infrastructure With Terraform](https://hackernoon.com/how-to-manage-infrastructure-with-terraform-ab2l3u11)
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-1a8361m.jpeg)
@@ -295,89 +299,89 @@ What is Terraform?
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-lsm34s9.jpeg)
 When talking about infrastructure drift, you often get knowing glances and heated answers. Recording gaps in your infra between what you expected to be and the reality of what is, is a well known and widespread issue bothering hundreds of DevOps teams around the globe. 
 
-### [74. Cisco Webex’s Practice On Building and Deploying a Big Data Platform with Apache DolphinScheduler and Submitting Tasks to AWS](https://hackernoon.com/cisco-webexs-practice-on-building-and-deploying-a-big-data-platform-with-apache-dolphinscheduler-and-submitting-tasks-to-aws)
-![](https://cdn.hackernoon.com/images/GQtxSqyLbmdhnAkgEuIOHc3Vmm83-p2p36s8.webp)
-From version 2.0.3, Cisco Webex has been using Apache DolphinScheduler to establish its big data scheduling platform for nearly three years.
-
-### [75. Apache Beam on GCP: How Distributed Data Pipelines Actually Work (for REST API Engineers)](https://hackernoon.com/apache-beam-on-gcp-how-distributed-data-pipelines-actually-work-for-rest-api-engineers)
+### [74. Apache Beam on GCP: How Distributed Data Pipelines Actually Work (for REST API Engineers)](https://hackernoon.com/apache-beam-on-gcp-how-distributed-data-pipelines-actually-work-for-rest-api-engineers)
 ![](https://cdn.hackernoon.com/images/XAABEU8meidDRZoEexv1kqoGdLn2-px43de8.png)
 Apache Beam is a declarative programming model for large-scale data processing, not a service or framework like a REST API.
+
+### [75. Cisco Webex’s Practice On Building and Deploying a Big Data Platform with Apache DolphinScheduler and Submitting Tasks to AWS](https://hackernoon.com/cisco-webexs-practice-on-building-and-deploying-a-big-data-platform-with-apache-dolphinscheduler-and-submitting-tasks-to-aws)
+![](https://cdn.hackernoon.com/images/GQtxSqyLbmdhnAkgEuIOHc3Vmm83-p2p36s8.webp)
+From version 2.0.3, Cisco Webex has been using Apache DolphinScheduler to establish its big data scheduling platform for nearly three years.
 
 ### [76. Tfblueprintgen: A Tool to Simplify Terraform Folder Setup and Provide Base Resource Modules](https://hackernoon.com/tfblueprintgen-a-tool-to-simplify-terraform-folder-setup-and-provide-base-resource-modules)
 ![](https://cdn.hackernoon.com/images/gdSH9RKnXaYYuw1kkt4410ToWJF3-4hb2jb3.jpeg)
 Tfblueprintgen is a Terraform tool that generates a battle-tested folder structure and modular blocks.
 
-### [77. Should Deploying Production Infrastructure be Hard?](https://hackernoon.com/deploying-production-infrastructure-should-it-be-hard-ad5ze3288)
-![](https://cdn.hackernoon.com/images/79l324r.jpg)
-Below I'll explain why I built terra_boi to deploy Clientelify, why I think it was downloaded 1,000 times in the first 10 days (despite not promoting it anywhere), and why deploying an application to production shouldn't suck.
+### [77. Terraformation vs. Paraterraforming: The Dream, The Science, The Illusion](https://hackernoon.com/terraformation-vs-paraterraforming-the-dream-the-science-the-illusion)
+![](https://cdn.hackernoon.com/images/bBw6lclZnZVSAS64ULonnkXwtDu1-h603bbw.png)
+Let's debunk the myths - Terraformation VS Paraterraformation. Can they (if any) be accomplished or are we (and have we been) forever staring at an ABYSS?
 
 ### [78. The Top 5 DevOps Tools and Services to Consider as a Startup](https://hackernoon.com/the-top-5-devops-tools-and-services-to-consider-as-a-startup)
 ![](https://cdn.hackernoon.com/images/TgQzpOkLwEY693DjFbEp1b1xa8d2-gca3p2m.jpeg)
 A collection of DevOps tools can significantly enhance your Software Development Life Cycle (SDLC) and increase engineering productivity.
 
-### [79. How to Create Amazon EKS Cluster Within its VPC using Terraform](https://hackernoon.com/how-to-create-amazon-eks-cluster-within-its-vpc-using-terraform)
-![](https://cdn.hackernoon.com/images/ywCyl8mvkZWzqsISZFO2B08cv812-3993rrg.jpeg)
-In this blog post, we’ll help you dive into the world of Kubernetes and Infrastructure as Code using Amazon Elastic Kubernetes Service (EKS) and Terraform.
+### [79. Should Deploying Production Infrastructure be Hard?](https://hackernoon.com/deploying-production-infrastructure-should-it-be-hard-ad5ze3288)
+![](https://cdn.hackernoon.com/images/79l324r.jpg)
+Below I'll explain why I built terra_boi to deploy Clientelify, why I think it was downloaded 1,000 times in the first 10 days (despite not promoting it anywhere), and why deploying an application to production shouldn't suck.
 
 ### [80. Declarative Engineering: Using Terraform to Code Your Data Pipelines](https://hackernoon.com/declarative-engineering-using-terraform-to-code-your-data-pipelines)
 ![](https://cdn.hackernoon.com/images/wxH2smnaMVOnnm6coAQJxYhNeGj2-qb8332q.jpeg)
 A small modern data stack that ETLs data from a PostgreSQL database into a ClickHouse database.
 
-### [81. Parsing Terraform for Forms: Transforming Variable Types into JSON Schema for Frontend Apps](https://hackernoon.com/parsing-terraform-for-forms-transforming-variable-types-into-json-schema-for-frontend-apps)
+### [81. How to Create Amazon EKS Cluster Within its VPC using Terraform](https://hackernoon.com/how-to-create-amazon-eks-cluster-within-its-vpc-using-terraform)
+![](https://cdn.hackernoon.com/images/ywCyl8mvkZWzqsISZFO2B08cv812-3993rrg.jpeg)
+In this blog post, we’ll help you dive into the world of Kubernetes and Infrastructure as Code using Amazon Elastic Kubernetes Service (EKS) and Terraform.
+
+### [82. Parsing Terraform for Forms: Transforming Variable Types into JSON Schema for Frontend Apps](https://hackernoon.com/parsing-terraform-for-forms-transforming-variable-types-into-json-schema-for-frontend-apps)
 ![](https://cdn.hackernoon.com/images/ZbqyG0GzLmVkwsYNyBRB9kTk5DR2-d682nr6.jpeg)
 Dive into the complexities of parsing Terraform variable types and transforming them into JSON schemas in this article. 
 
-### [82. Terraformation vs. Paraterraforming: The Dream, The Science, The Illusion](https://hackernoon.com/terraformation-vs-paraterraforming-the-dream-the-science-the-illusion)
-![](https://cdn.hackernoon.com/images/bBw6lclZnZVSAS64ULonnkXwtDu1-h603bbw.png)
-Let's debunk the myths - Terraformation VS Paraterraformation. Can they (if any) be accomplished or are we (and have we been) forever staring at an ABYSS?
-
-### [83. Building a Custom Homebrew Formula: A Case on tfblueprintgen](https://hackernoon.com/building-a-custom-homebrew-formula-a-case-on-tfblueprintgen)
-![](https://cdn.hackernoon.com/images/gdSH9RKnXaYYuw1kkt4410ToWJF3-5qa3e1k.jpeg)
-In this brief blog, we are going to discuss how we can create a custom brew package for an app named tfblueprintgen.
-
-### [84. Tips For Managing Terraform Variables](https://hackernoon.com/tips-for-managing-terraform-variables)
+### [83. Tips For Managing Terraform Variables](https://hackernoon.com/tips-for-managing-terraform-variables)
 ![](https://cdn.hackernoon.com/images/m72bmcDdzHOrG3tFshlZQsYEzRn2-yk034z3.jpeg)
 Learn practical tips for managing Terraform variables to simplify your Infrastructure as Code and improve efficiency.
+
+### [84. Building a Custom Homebrew Formula: A Case on tfblueprintgen](https://hackernoon.com/building-a-custom-homebrew-formula-a-case-on-tfblueprintgen)
+![](https://cdn.hackernoon.com/images/gdSH9RKnXaYYuw1kkt4410ToWJF3-5qa3e1k.jpeg)
+In this brief blog, we are going to discuss how we can create a custom brew package for an app named tfblueprintgen.
 
 ### [85. IAM Roles for Service Accounts (IRSA) in AWS EKS Within and Cross AWS Accounts](https://hackernoon.com/iam-roles-for-service-accounts-irsa-in-aws-eks-within-and-cross-aws-accounts)
 ![](https://cdn.hackernoon.com/images/ywCyl8mvkZWzqsISZFO2B08cv812-s793u20.jpeg)
 Deep dive into IAM Roles for Service Accounts (IRSA) in EKS within same AWS Account as well as cross AWS Accounts.
 
-### [86. Another Reason to Use Docker](https://hackernoon.com/another-reason-to-use-docker-wr2433ye)
-![](https://images.unsplash.com/photo-1500748711860-9cfa80025ceb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Recently I was working on a project which includes Terraform and AWS stuff. While working on that I was using my local machine for terraform code testing and luckily everything was going fine. But when we actually want to test it for the production environment we got some issues there. Then, as usual, we started to dig into the issue and finally, we got the issue which was quite a silly one 😜. The production server Terraform version and my local development server Terraform version was not the same.
+### [86. How to Safely Refactor Live Terraform Without Recreating Resources](https://hackernoon.com/how-to-safely-refactor-live-terraform-without-recreating-resources)
+![](https://cdn.hackernoon.com/images/m72bmcDdzHOrG3tFshlZQsYEzRn2-3e03etm.jpeg)
+Safely refactor live Terraform with moved blocks, import blocks, and tests without recreating production resources. 
 
 ### [87. Unlocking IaC Part 1: WTF Are We Even Doing Here?](https://hackernoon.com/unlocking-iac-part-1-wtf-are-we-even-doing-here)
 ![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-rc93o1j.png)
 Unravel the power of Terraform - from "why" it exists to its key components and practical usage.
 
-### [88. How to Optimize for Iteration: Choosing Your Early Startup's Tech Stack](https://hackernoon.com/optimizing-for-iteration-choosing-your-early-startups-tech-stack-bdgh34uw)
+### [88. Another Reason to Use Docker](https://hackernoon.com/another-reason-to-use-docker-wr2433ye)
+![](https://images.unsplash.com/photo-1500748711860-9cfa80025ceb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Recently I was working on a project which includes Terraform and AWS stuff. While working on that I was using my local machine for terraform code testing and luckily everything was going fine. But when we actually want to test it for the production environment we got some issues there. Then, as usual, we started to dig into the issue and finally, we got the issue which was quite a silly one 😜. The production server Terraform version and my local development server Terraform version was not the same.
+
+### [89. How to Optimize for Iteration: Choosing Your Early Startup's Tech Stack](https://hackernoon.com/optimizing-for-iteration-choosing-your-early-startups-tech-stack-bdgh34uw)
 ![](https://cdn.hackernoon.com/images/b0fx34az.jpg)
 As we’ve discussed in a previous blog post, product development is hypothesis testing. This is especially true in the early stages of a company when you need to confirm or reject your hypothesis as quickly as possible. This process is then repeated until you (hopefully) reach product-market fit. To get there, your team needs to be able to work and build at a pace that allows for this constant and rapid iteration.
-
-### [89. How Infrastructure as Code Is Forcing a Revolution in Cost Management](https://hackernoon.com/how-infrastructure-as-code-is-forcing-a-revolution-in-cost-management-gd6r3vt7)
-![](https://cdn.hackernoon.com/images/0jo3yaw.jpg)
-You might have read our beta launch blog post, which describes how Infrastructure as Code (IaC) is driving the third datacenter revolution (the first two being virtualization and the move to public clouds). In this post, I want to go deeper into looking at how IaC is driving a new need and approach to cost visibility and management.
 
 ### [90. Set It and Forget It: Back Up Cloudflare Resources with cf-terraforming](https://hackernoon.com/set-it-and-forget-it-back-up-cloudflare-resources-with-cf-terraforming)
 ![](https://cdn.hackernoon.com/images/DabUoDLPTdaW0lDjgxatLLbH1Nw2-4o13hs0.png)
 Discover how to import Cloudflare resources into Terraform for backup and state management using cf-terraforming.
 
-### [91. Efficient Cloud Resource Cost Management with Infracost and Open Policy Agent in Jenkins](https://hackernoon.com/efficient-cloud-resource-cost-management-with-infracost-and-open-policy-agent-in-jenkins)
+### [91. How Infrastructure as Code Is Forcing a Revolution in Cost Management](https://hackernoon.com/how-infrastructure-as-code-is-forcing-a-revolution-in-cost-management-gd6r3vt7)
+![](https://cdn.hackernoon.com/images/0jo3yaw.jpg)
+You might have read our beta launch blog post, which describes how Infrastructure as Code (IaC) is driving the third datacenter revolution (the first two being virtualization and the move to public clouds). In this post, I want to go deeper into looking at how IaC is driving a new need and approach to cost visibility and management.
+
+### [92. You Probably Aren’t as Advanced in Automation as You Think](https://hackernoon.com/you-probably-arent-as-advanced-in-automation-as-you-think)
+![](https://cdn.hackernoon.com/images/m72bmcDdzHOrG3tFshlZQsYEzRn2-ku1388r.jpeg)
+Discover how to get started with infrastructure automation. Learn key benefits, challenges, and a step-by-step roadmap to scale your DevOps practices.
+
+### [93. Efficient Cloud Resource Cost Management with Infracost and Open Policy Agent in Jenkins](https://hackernoon.com/efficient-cloud-resource-cost-management-with-infracost-and-open-policy-agent-in-jenkins)
 ![](https://cdn.hackernoon.com/images/a-man-counting-coins-clisxjr1g000001s613x2djvh.png)
 In your deployment phase, a question to address is the cost estimation of the resources required for deploying your application within the allocated budget. 
 
-### [92. How to Safely Refactor Live Terraform Without Recreating Resources](https://hackernoon.com/how-to-safely-refactor-live-terraform-without-recreating-resources)
-![](https://cdn.hackernoon.com/images/m72bmcDdzHOrG3tFshlZQsYEzRn2-3e03etm.jpeg)
-Safely refactor live Terraform with moved blocks, import blocks, and tests without recreating production resources. 
-
-### [93. How Namespace and Terraform Can Manage Kubernetes Environments](https://hackernoon.com/how-namespace-and-terraform-can-manage-kubernetes-environments-q0o3t4f)
+### [94. How Namespace and Terraform Can Manage Kubernetes Environments](https://hackernoon.com/how-namespace-and-terraform-can-manage-kubernetes-environments-q0o3t4f)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7ujg3B3uyxQ3ipAoSlCFkOAuVB23-9f413uo3.jpeg?alt=media&token=ff0183d7-444c-435b-9fbd-50b635d4f960)
 In the last several years, Kubernetes has become the “go to” standard for managing and orchestrating containerized workloads. Thanks to it’s vendor agnostic nature, you can easily run Kubernetes almost anywhere, and in fact, all the major cloud vendors offer a managed Kubernetes service (AWS EKS, Google GKE, and Azure AKS).
-
-### [94. You Probably Aren’t as Advanced in Automation as You Think](https://hackernoon.com/you-probably-arent-as-advanced-in-automation-as-you-think)
-![](https://cdn.hackernoon.com/images/m72bmcDdzHOrG3tFshlZQsYEzRn2-ku1388r.jpeg)
-Discover how to get started with infrastructure automation. Learn key benefits, challenges, and a step-by-step roadmap to scale your DevOps practices.
 
 ### [95. Introducing Driftctl: Your IaC Security Belt](https://hackernoon.com/introducing-driftctl-your-iac-security-belt-du58313h)
 ![](https://cdn.hackernoon.com/images/R8Es2LKqChZj95MGtbheP1WiujI2-ld1w31kl.png)

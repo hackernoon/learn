@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [coding-interviews](https://hackernoon.com/tagged/coding-interviews)
+### Let's learn about [Coding Interviews](https://hackernoon.com/tagged/coding-interviews) via these 101 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Coding interviews are structured assessments used by tech companies to evaluate a candidate's problem-solving and algorithmic skills. They are crucial for identifying top talent and ensuring technical proficiency within development teams.
+
 ### [1. 14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 ![](https://cdn.hackernoon.com/images/interview-with-a-computer-developer-clgnf08id000001s698o4eedu.png)
 The process of preparing for coding interviews is anxiety-inducing for many developers. There’s so much material to cover, and often much of it feels irrelevant to what devs are doing in their day jobs, which only adds to the stress.
@@ -203,13 +207,13 @@ The story of how I almost became a developer. Featuring confusion, frustration! 
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-eo93qs8.jpeg)
 We will make an effort to comprehend the significance of competitive programming (CP) and whether or not it will be useful for your technical interview.
 
-### [51. 13 Ways to Traverse a Tree: Recursion vs Iteration](https://hackernoon.com/13-ways-to-traverse-a-tree-recursion-vs-iteration-5un3zmn)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FbLQVnaI0nBYjqbryLYHp5mD7BWj1-22e3z1v.jpeg?alt=media&token=9df1b4e1-493c-4f30-9b6d-1d9467fbe5bc)
-To understand recursion, you must understand recursion. I will show you 13 different ways to traverse a tree to compare recursive and iterative implementations. This way, we will kill two birds with one stone: recursion and data structures and algorithms.
-
-### [52. How To Prepare For Your FAANG Interview](https://hackernoon.com/how-to-prepare-for-your-faang-interview)
+### [51. How To Prepare For Your FAANG Interview](https://hackernoon.com/how-to-prepare-for-your-faang-interview)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-7p93kip.jpeg)
 Are you ready for your FAANG interview? Read on to understand how you can prepare for such interviews and what to expect when you have to answer questions.
+
+### [52. 13 Ways to Traverse a Tree: Recursion vs Iteration](https://hackernoon.com/13-ways-to-traverse-a-tree-recursion-vs-iteration-5un3zmn)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FbLQVnaI0nBYjqbryLYHp5mD7BWj1-22e3z1v.jpeg?alt=media&token=9df1b4e1-493c-4f30-9b6d-1d9467fbe5bc)
+To understand recursion, you must understand recursion. I will show you 13 different ways to traverse a tree to compare recursive and iterative implementations. This way, we will kill two birds with one stone: recursion and data structures and algorithms.
 
 ### [53. 10 Repositories that Will Transform the Way You Approach Technical Interviews](https://hackernoon.com/10-repositories-that-will-transform-the-way-you-approach-technical-interviews)
 ![](https://cdn.hackernoon.com/images/jAe8nDJHWuhNTYfeZVmoqHUgxXz2-qzl3w11.jpeg)
@@ -271,14 +275,14 @@ First of all, let me start by saying that the ability to solve coding challenges
 ![](https://cdn.hackernoon.com/images/u8zdoGfwxzbJbUMX8BISChIErgH2-bza3o6y.jpeg)
 In hamming distance problem, we find the number of positions where the bits are different for the given input with constant time complexity.
 
-### [68. What To Prepare For A Software Interview](https://hackernoon.com/what-to-prepare-for-a-software-interview)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-dk93odz.jpeg)
-Both interviewees and interviewers can benefit from understanding what to prepare for a software interview and how best to learn about their counterpart. 
-
-### [69. How to Prepare For a Mock Interview — Daniel Habib](https://hackernoon.com/how-to-prepare-for-a-mock-interview-by-daniel-habib)
+### [68. How to Prepare For a Mock Interview — Daniel Habib](https://hackernoon.com/how-to-prepare-for-a-mock-interview-by-daniel-habib)
 ![](https://cdn.hackernoon.com/images/0GzBYJJTStZUxu8bAGgXmCaCXQU2-qb93i0z.jpeg)
 Programming mock interviews can be time consuming and intimidating - here's how to make sure you didn't just waste your time
 
+
+### [69. What To Prepare For A Software Interview](https://hackernoon.com/what-to-prepare-for-a-software-interview)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-dk93odz.jpeg)
+Both interviewees and interviewers can benefit from understanding what to prepare for a software interview and how best to learn about their counterpart. 
 
 ### [70. Understanding and Applying the Knuth-Morris-Pratt Algorithm: From String Matching to Stream Search](https://hackernoon.com/understanding-and-applying-the-knuth-morris-pratt-algorithm-from-string-matching-to-stream-search)
 ![](https://cdn.hackernoon.com/images/y3uk89KMZnfiawpEREPict96IDp2-3aa3pel.jpeg)
@@ -369,27 +373,43 @@ Using Kotlin at your technical interviews!
 ![](https://cdn.hackernoon.com/images/ZooZQzFE7INYxlbDjBNNxqTpP8g2-yla3msw.gif.webp)
 If you have understood the discussion so far, you should feel confident in your capacity to discuss closures when asked about them during your next interview.
 
-### [92. Dissecting the World of Cryptocurrency with Coder Anthony Watson ](https://hackernoon.com/dissecting-the-world-of-cryptocurrency-with-coder-anthony-watson)
+### [92. The LeetCode Illusion: Why Coding Interviews Don't Measure Engineering Skill](https://hackernoon.com/the-leetcode-illusion-why-coding-interviews-dont-measure-engineering-skill)
+![](https://cdn.hackernoon.com/images/8NEjY3nDnKP9s4jxSyfm2Hb7pZI3-y083en4.png)
+LeetCode interviews measure pattern recall, not engineering skill. Here's why the old model is broken, and what better hiring actually looks like.
+
+### [93. Dissecting the World of Cryptocurrency with Coder Anthony Watson ](https://hackernoon.com/dissecting-the-world-of-cryptocurrency-with-coder-anthony-watson)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-fp037ez.jpeg)
 In this Slogging AMA, we talk to Anthony Watson a writer, coder and respected member of the Hackernoon community. We discuss with him all things writing, coding
 
-### [93. Powerful Tips To Help You Learn Programming Language](https://hackernoon.com/powerful-tips-to-help-you-learn-programming-language-la2834gn)
+### [94. Powerful Tips To Help You Learn Programming Language](https://hackernoon.com/powerful-tips-to-help-you-learn-programming-language-la2834gn)
 ![](https://cdn.hackernoon.com/images/hxkIRdVjVadAa10iBb3WnTWSCz82-3m4g386r.png)
 Here I have shared some of the tips, that my mentor gave me, on how to start learning programming which you can follow to become better programmer within a year
 
-### [94. Is the Grass Greener On the Tech Giants' Side?](https://hackernoon.com/is-the-grass-greener-on-the-tech-giants-side)
+### [95. Is the Grass Greener On the Tech Giants' Side?](https://hackernoon.com/is-the-grass-greener-on-the-tech-giants-side)
 ![](https://cdn.hackernoon.com/images/comCvv78UrMck7xqKHYX1VyBUK23-jb93hft.jpeg)
 The grass isn’t always greener on the other side. Here are some things to consider before applying for a Tech Company.
 
-### [95. My Favorite Kind Of Coding Interview Exercise](https://hackernoon.com/my-favorite-kind-of-coding-interview-exercise)
+### [96. My Favorite Kind Of Coding Interview Exercise](https://hackernoon.com/my-favorite-kind-of-coding-interview-exercise)
 ![](https://cdn.hackernoon.com/images/LLNXiPKIsZM5IWTNJfmlBf6EZjZ2-yka3gtr.jpeg)
 How to prepare for a job interview as a programmer looking for a job that needs coding, how these simple exercises will help you prepare fully for it.
 
-### [96. Designing a Pragmatic Coding Interview [Part 1]](https://hackernoon.com/designing-a-pragmatic-coding-interview-part-1-1v5x3yjc)
+### [97. Designing a Pragmatic Coding Interview [Part 1]](https://hackernoon.com/designing-a-pragmatic-coding-interview-part-1-1v5x3yjc)
 ![](https://cdn.hackernoon.com/drafts/5w3i3yil.png)
 In the following series of posts, I’ll be sharing the internals of designing a pragmatic coding interview that I got to know after interviewing folks for different tech positions for some time and here comes the first one.
 
-### [97. Job Hunting: Are Technical Tests Worth Your Time?](https://hackernoon.com/job-hunting-are-technical-tests-worth-your-time)
+### [98. Most Coding Interview Advice Gets This Wrong](https://hackernoon.com/most-coding-interview-advice-gets-this-wrong)
+![](https://cdn.hackernoon.com/images/8NEjY3nDnKP9s4jxSyfm2Hb7pZI3-6593aw2.png)
+Learn how to succeed in coding interviews by clarifying the problem, thinking out loud, coding cleanly, and handling getting stuck.
+
+### [99. Job Hunting: Are Technical Tests Worth Your Time?](https://hackernoon.com/job-hunting-are-technical-tests-worth-your-time)
 ![](https://cdn.hackernoon.com/images/PG9GJ9It2FOXrr2T8EAC6UYf0Vj1-wn03fa9.jpeg)
 How to - hopefully - not drive yourself up the wall preparing and fretting over technical tests.
+
+### [100. The “Grind LeetCode” Advice is Mathematically Stupid (I Scraped 1,500 Questions to Prove It)](https://hackernoon.com/the-grind-leetcode-advice-is-mathematically-stupid-i-scraped-1500-questions-to-prove-it)
+![](https://cdn.hackernoon.com/images/xsrjMqXFbpVQgTScU3xQbSniiHG2-duc3ag2.webp)
+I scraped 1500+ tech interview questions to expose company biases. Stop paying $35/mo for LeetCode Premium. Search your target company's exact data for free. 
+
+### [101. The Rules Have Changed But Nobody Was Informed: Navigating Technical Interviews in 2026](https://hackernoon.com/the-rules-have-changed-but-nobody-was-informed-navigating-technical-interviews-in-2026)
+![](https://cdn.hackernoon.com/images/A7coZ0uhYMgPNXXtkg7aiDfCsxT2-x783i64.jpeg)
+Whether you like the change or not, it is happening. The companies that matter are moving in this direction. Prepare accordingly.
 

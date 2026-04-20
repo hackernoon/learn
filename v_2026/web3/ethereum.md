@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ethereum](https://hackernoon.com/tagged/ethereum)
+### Let's learn about [Ethereum](https://hackernoon.com/tagged/ethereum) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Meet the big-daddy of the alts - a claim contested by thousands of self-professed Ethereum-Killers who unfortunately got rekt by crypto-volatility. 
 
 ### [1. Has Arthur Hayes Destroyed the Ethereum Market and Bankrupted ICO Treasuries?](https://hackernoon.com/notes-about-the-new-ethusd-perpetual-swap-at-bitmex-1b58bac7cb8b)
@@ -135,13 +137,13 @@ How to promote a DeFi and NFT project, the full guide to NFT marketing that will
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F8ZYCELIiffZfWQiZE6xP1KluSe42-9tc28hc.png?alt=media&token=cc0f76bb-d4cb-43de-8fda-e8caebea410c)
 Article written by Vincent Le Gallic - CTO @Rockside
 
-### [34. How China’s New National Cryptocurrency Changes Everything](https://hackernoon.com/how-chinas-new-national-cryptocurrency-changes-everything-sc4032eq)
-![](https://cdn.hackernoon.com/drafts/hm183kk9.png)
-China is launching a national cryptocurrency. In this article, we’ll tell you what information is already known about the project at the moment as well as how it may change the financial world.
-
-### [35. The State Of Rollup Interoperability Solutions](https://hackernoon.com/the-state-of-rollup-interoperability-solutions)
+### [34. The State Of Rollup Interoperability Solutions](https://hackernoon.com/the-state-of-rollup-interoperability-solutions)
 ![](https://cdn.hackernoon.com/images/WSQJfCSXOxWphTNQ7sneVvhdWGu1-f603482.jpeg)
 An overview of Ethereum interoperability solutions that covers keystore rollups, intent bridges, cross-chain smart accounts, multichain ENS, and more. 
+
+### [35. How China’s New National Cryptocurrency Changes Everything](https://hackernoon.com/how-chinas-new-national-cryptocurrency-changes-everything-sc4032eq)
+![](https://cdn.hackernoon.com/drafts/hm183kk9.png)
+China is launching a national cryptocurrency. In this article, we’ll tell you what information is already known about the project at the moment as well as how it may change the financial world.
 
 ### [36. What the heck is EIP-1559? ](https://hackernoon.com/what-the-heck-is-eip-1559-1fm33uz)
 ![](https://hackernoon.com/images/GVAuOZKLuAQST1DG9ZHkrlNwain1-oye33vw.jpeg)
@@ -247,50 +249,50 @@ NFT
 ![](https://cdn.hackernoon.com/images/7LrDe0NwaTW40HBSsVuBSPeo2yd2-ycq317l.jpeg)
 Staking cryptocurrencies has largely become a primary form of earning passive income in the crypto space and staking pools have become more popular than ever.
 
-### [62. Mastering the Mempool [A How-To Guide]](https://hackernoon.com/mastering-the-mempool-a-how-to-guide-zs7u32ou)
+### [62. The Layman’s Guide to Ethereum's ZK-Rollups: Scaling Without Sacrificing Decentralization](https://hackernoon.com/the-laymans-guide-to-ethereums-zk-rollups-scaling-without-sacrificing-decentralization)
+![](https://cdn.hackernoon.com/images/14TrUQaAknSmk2wmjSwmUYqTmiI2-rd03zim.webp)
+
+Learn how ZK-Rollup solve Ethereum's scalability challenges with Zero-Knowledge Proofs, increasing throughput without compromising security or decentralization
+
+### [63. Mastering the Mempool [A How-To Guide]](https://hackernoon.com/mastering-the-mempool-a-how-to-guide-zs7u32ou)
 ![](https://cdn.hackernoon.com/images/m01z32kc.jpg)
 Blockchains are transaction machines. But on-chain data represents value-at-rest — confirmed transactions. While pre-chain, or mempool, data explores value-in motion — transactions in flight. 
 
-### [63. Who Scales It Best? Blockchains' TPS Analysis](https://hackernoon.com/who-scales-it-best-blockchains-tps-analysis-pv39g25mg)
+### [64. Who Scales It Best? Blockchains' TPS Analysis](https://hackernoon.com/who-scales-it-best-blockchains-tps-analysis-pv39g25mg)
 ![](https://cdn.hackernoon.com/drafts/gam25m0.png)
 Blockchain technology continues to progress at an incredible speed. This great technology behind cryptocurrencies continues to move at the same pace.
 
-### [64. Using Ethereum’s CREATE2](https://hackernoon.com/using-ethereums-create2-nw2137q7)
+### [65. Using Ethereum’s CREATE2](https://hackernoon.com/using-ethereums-create2-nw2137q7)
 ![](https://cdn.hackernoon.com/drafts/8i2wo3a50.png)
 To see the contract that uses CREATE2, jump to Step 2.
-
-### [65. The Top 5 Smart Contract Development Platforms](https://hackernoon.com/top-5-smart-contract-platforms-to-check-out-in-2019-1igc3w1m)
-![](https://cdn.hackernoon.com/drafts/0ug93wre.png)
-Smart contract platforms are often considered to offer better long-term investment potential than pure cryptocurrencies. Despite Bitcoin now being more than ten years old, cryptocurrencies continue to face criticism for their speculative nature. On the other hand, a development platform can derive long-term value from the various projects built on it.
 
 ### [66. Ethereum Tokenomics 2021: Impact of Eth2, EIP 1559, and L2 Scaling Solutions on Demand/Supply](https://hackernoon.com/ethereum-tokenomics-2021-impact-of-eth2-eip-1559-and-l2-scaling-solutions-on-demandsupply-gx5034tw)
 ![](https://cdn.hackernoon.com/images/mo6FDyqxsmNgBKjqW9MRvCl9vfI3-k6a33cp.jpeg)
 Huge changes for Ethereum are on the horizon. We have Eth2, EIP 1559, and Layer 2 scaling. Here, we explore how they influence ETH tokenomics and price.
 
-### [67. How to Load Unlimited Free Test Ethers to Metamask Wallet](https://hackernoon.com/how-to-load-unlimited-free-test-ethers-to-metamask-wallet)
+### [67. The Top 5 Smart Contract Development Platforms](https://hackernoon.com/top-5-smart-contract-platforms-to-check-out-in-2019-1igc3w1m)
+![](https://cdn.hackernoon.com/drafts/0ug93wre.png)
+Smart contract platforms are often considered to offer better long-term investment potential than pure cryptocurrencies. Despite Bitcoin now being more than ten years old, cryptocurrencies continue to face criticism for their speculative nature. On the other hand, a development platform can derive long-term value from the various projects built on it.
+
+### [68. How to Load Unlimited Free Test Ethers to Metamask Wallet](https://hackernoon.com/how-to-load-unlimited-free-test-ethers-to-metamask-wallet)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-6o93rkf.jpeg)
 By using this technique, you can have a plentiful supply of ethers available for use in testing and development. You only need NodeJs, the Chrome extension for 
 
-### [68. 10 Best Free Online Courses for Blockchain Developers](https://hackernoon.com/my-favorite-free-courses-to-become-a-blockchain-developer-in-2020-cvo3u0u)
+### [69. 10 Best Free Online Courses for Blockchain Developers](https://hackernoon.com/my-favorite-free-courses-to-become-a-blockchain-developer-in-2020-cvo3u0u)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMQzhgEvAeOXyPo3IjFRz4IZU3K83-o4k3upp.jpeg?alt=media&token=c1a8de1f-ff37-407a-9fb2-f14b7c3e5773)
 Hello guys, if you are thinking about how to become a Blockchain Developer in 2020 and looking for some online courses to startwith then you have come to the right palce. 
 
-### [69. Proof-of-Stake Is Coming of Age, and Polkadot is Leading the Pack](https://hackernoon.com/proof-of-stake-is-coming-of-age-and-polkadot-is-leading-the-pack-xzh33jq)
+### [70. Proof-of-Stake Is Coming of Age, and Polkadot is Leading the Pack](https://hackernoon.com/proof-of-stake-is-coming-of-age-and-polkadot-is-leading-the-pack-xzh33jq)
 ![](https://cdn.hackernoon.com/images/RwQ8g2oLuscmu819HH7r8U0T0Yw2-tt3i31eg.jpeg)
 Polkadot is currently the leading, highest value, and most secure PoS platform, offering estimated rewards of 13.87% per year.
 
-### [70. 2 Things to Do While the Cryptocurrency Market Falls](https://hackernoon.com/2-things-to-do-while-the-cryptocurrency-market-falls-2c6cdfbd6809)
+### [71. 2 Things to Do While the Cryptocurrency Market Falls](https://hackernoon.com/2-things-to-do-while-the-cryptocurrency-market-falls-2c6cdfbd6809)
 ![](https://cdn.hackernoon.com/images/story-image-default.jpg)
 Besides crying, screaming, and other self-destructive behavior.
 
-### [71. The Filecoin Virtual Machine (FVM) Has Arrived, Bringing Smart Contracts to Filecoin](https://hackernoon.com/the-filecoin-virtual-machine-fvm-has-arrived-bringing-smart-contracts-to-filecoin)
+### [72. The Filecoin Virtual Machine (FVM) Has Arrived, Bringing Smart Contracts to Filecoin](https://hackernoon.com/the-filecoin-virtual-machine-fvm-has-arrived-bringing-smart-contracts-to-filecoin)
 ![](https://cdn.hackernoon.com/images/p2bjrnI8abQkKMSgRU5JrlI5HD12-u993pbs.jpeg)
 Today, the Filecoin community is proud to announce the successful launch of the Filecoin Virtual Machine (FVM). 
-
-### [72. The Layman’s Guide to Ethereum's ZK-Rollups: Scaling Without Sacrificing Decentralization](https://hackernoon.com/the-laymans-guide-to-ethereums-zk-rollups-scaling-without-sacrificing-decentralization)
-![](https://cdn.hackernoon.com/images/14TrUQaAknSmk2wmjSwmUYqTmiI2-rd03zim.webp)
-
-Learn how ZK-Rollup solve Ethereum's scalability challenges with Zero-Knowledge Proofs, increasing throughput without compromising security or decentralization
 
 ### [73. Formulas of Uniswap: A Deep Dive](https://hackernoon.com/formulas-of-uniswap-a-deep-dive)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-zv5d3o1y.jpeg)
@@ -300,21 +302,21 @@ Find out the benefits of concentrated liquidity for multiple pooled assets in Un
 ![](https://cdn.hackernoon.com/images/Ns6mVt8NqgNkfsouVyus9tAe3mB2-zn93ofl.jpeg)
 This research compares implementation systems similar to Ethereum and analyzes the difficulties and possibilities of achieving parallel execution of transaction
 
-### [75. Enter the #ethereum Writing Contest and Compete for $1,000 in Prizes](https://hackernoon.com/enter-the-ethereum-writing-contest-and-compete-for-$1000-in-prizes)
+### [75. Technical Analysis on ZKBase: A High-Performance ZK-Rollup for Scalable and Secure ETH Transactions](https://hackernoon.com/technical-analysis-on-zkbase-a-high-performance-zk-rollup-for-scalable-and-secure-eth-transactions)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-3o831l2.jpeg)
+ZKBase is a high-performance ZK-Rollup that enhances transaction processing capability and provides a cost-effective network experience.
+
+### [76. Enter the #ethereum Writing Contest and Compete for $1,000 in Prizes](https://hackernoon.com/enter-the-ethereum-writing-contest-and-compete-for-$1000-in-prizes)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ax83086.png)
 Enter the #ethereum writing contest for a shot at $1,000 in prizes! Share your insights on Ethereum's role in finance, decentralization, and society at large. 
 
-### [76. Create an API to interact with Ethereum Blockchain using Golang PART 1](https://hackernoon.com/create-an-api-to-interact-with-ethereum-blockchain-using-golang-part-1-sqf3z7z)
+### [77. Create an API to interact with Ethereum Blockchain using Golang PART 1](https://hackernoon.com/create-an-api-to-interact-with-ethereum-blockchain-using-golang-part-1-sqf3z7z)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FET4IJJCNUpaSMq1bfuPlxFNpAGy1-069x3xdv.jpeg?alt=media&token=c7d215a0-2d22-4408-a2f0-daaaa1ca9d9b)
 Hi folks! In this tutorial, we are going to learn how to create a simple REST API to interact with the Ethereum blockchain using Golang. 
 
-### [77. Trading Crypto in 2021: How to Switch to Polygon & Avoid the Ethereum Traffic Jam](https://hackernoon.com/trading-crypto-in-2021-how-to-switch-to-polygon-and-avoid-the-ethereum-traffic-jam-ot1822jc)
+### [78. Trading Crypto in 2021: How to Switch to Polygon & Avoid the Ethereum Traffic Jam](https://hackernoon.com/trading-crypto-in-2021-how-to-switch-to-polygon-and-avoid-the-ethereum-traffic-jam-ot1822jc)
 ![](https://cdn.hackernoon.com/images/UZ7S6ZAAsSOmbqh7hwrKcRaWL4l2-8h7535p9.jpeg)
 Avoid crippling gas fees! Learn how to transfer your tokens from the Ethereum to Polygon blockchain, so you can trade at a fraction of the cost and speed.
-
-### [78. Technical Analysis on ZKBase: A High-Performance ZK-Rollup for Scalable and Secure ETH Transactions](https://hackernoon.com/technical-analysis-on-zkbase-a-high-performance-zk-rollup-for-scalable-and-secure-eth-transactions)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-3o831l2.jpeg)
-ZKBase is a high-performance ZK-Rollup that enhances transaction processing capability and provides a cost-effective network experience.
 
 ### [79. The Anatomy of Cryptocurrency: 6 Ways to Earn with Crypto in 2022](https://hackernoon.com/the-anatomy-of-cryptocurrency-6-ways-to-earn-with-crypto-in-2021-695g34pr)
 ![](https://hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ci1c34b9.jpeg)
@@ -429,13 +431,13 @@ Avoid crippling gas fees! Learn how to transfer your tokens from the Ethereum to
 ![](https://cdn.hackernoon.com/images/JnwMdaVZrzSOfLb9FHlT2x1vsd62-gn93z1c.jpeg)
 Scanning blockchain is tedious and not necessary. Often we can seek for events associated with transactions we are looking for. I can show you how to do it. 
 
-### [107. A Complete Beginners Guide to Investing in Cryptocurrency](https://hackernoon.com/beginners-guide-to-investing-in-cryptocurrency-5ec5139c609b)
-![](https://cdn.hackernoon.com/images/ss54339e.jpg)
-A step by step guide on how to begin the process of investing in cryptocurrency.
-
-### [108. What's the Difference Between IPFS and Ethereum Swarm?](https://hackernoon.com/whats-the-difference-between-ipfs-and-ethereum-swarm)
+### [107. What's the Difference Between IPFS and Ethereum Swarm?](https://hackernoon.com/whats-the-difference-between-ipfs-and-ethereum-swarm)
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-ro92q0j.jpeg)
 IPFS is the older system (in a good sense), has many use cases, is well-documented and widely used. Ethereum Swarm is relatively new and is under development.
+
+### [108. A Complete Beginners Guide to Investing in Cryptocurrency](https://hackernoon.com/beginners-guide-to-investing-in-cryptocurrency-5ec5139c609b)
+![](https://cdn.hackernoon.com/images/ss54339e.jpg)
+A step by step guide on how to begin the process of investing in cryptocurrency.
 
 ### [109. The 3 Best Alternatives That Can Be Strong Opponents to Ethereum](https://hackernoon.com/the-3-best-alternatives-that-can-be-strong-opponents-to-ethereum-rh49316g)
 ![](https://cdn.hackernoon.com/images/EN7ovywD0mP2v0n5tMnzos6rf0t2-254f26vj.jpeg)
@@ -445,13 +447,13 @@ Ethereum is holding top rank 2  by replacing Ripple, and it becomes possible bec
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN6W1veOdWvRecxvkjOYXuozY7f92-8yd3wxm.jpeg?alt=media&token=0815dab5-d979-4360-879e-3ac3b4e36974)
 TLDR: IBCO is the new primitive for crypto projects funding, solving for the main issues of ICOs such as lack of accountability, lack of liquidity and flawed price discovery mechanics for the token itself.
 
-### [111. I Went From No Coding Experience To Creating An Ethereum Application Within One Year](https://hackernoon.com/i-went-from-no-coding-experience-to-creating-an-ethereum-application-within-one-year-k03y35m5)
-![](https://cdn.hackernoon.com/images/ZsqW93kD80YxD4F0ErYukeM6Sem1-w41x35ss.jpeg)
-In this article, I explain how I went from no coding experience to creating my first decentralized application on Ethereum.
-
-### [112. Buying and Using an ENS Domain: A Guide, A Cautionary Tale, and a 1000-ft Review of Ethereum's Web3](https://hackernoon.com/buying-and-using-an-ens-domain-a-guide-a-cautionary-tale-and-a-1000-ft-review-of-ethereums-web3)
+### [111. Buying and Using an ENS Domain: A Guide, A Cautionary Tale, and a 1000-ft Review of Ethereum's Web3](https://hackernoon.com/buying-and-using-an-ens-domain-a-guide-a-cautionary-tale-and-a-1000-ft-review-of-ethereums-web3)
 ![](https://cdn.hackernoon.com/images/1kKRIXuZvPVlgpxklMJcX5PXpXH3-by43gb0.jpeg)
 I bought an ENS domain NFT to receive payments to a .ETH wallet easily. This story explains what I went through and what you need to too.
+
+### [112. I Went From No Coding Experience To Creating An Ethereum Application Within One Year](https://hackernoon.com/i-went-from-no-coding-experience-to-creating-an-ethereum-application-within-one-year-k03y35m5)
+![](https://cdn.hackernoon.com/images/ZsqW93kD80YxD4F0ErYukeM6Sem1-w41x35ss.jpeg)
+In this article, I explain how I went from no coding experience to creating my first decentralized application on Ethereum.
 
 ### [113. Scaling Ethereum: Data Bloat, Data Availability, and the Cloudless Solution](https://hackernoon.com/scaling-ethereum-data-bloat-data-availability-and-the-cloudless-solution)
 ![](https://cdn.hackernoon.com/images/MZMUzQYkJtS569QwtazccW1cOdt1-vq83nbi.jpeg)
@@ -485,29 +487,29 @@ Digital gaming brings in about $100 billion in revenue every year. It’s projec
 ![](https://cdn.hackernoon.com/images/story-image-default.jpg)
 I hope you enjoyed your bear market baptism.
 
-### [121. What is the Difference Between Uniswap V1, V2, and V3?](https://hackernoon.com/what-is-the-difference-between-uniswap-v1-v2-and-v3)
+### [121. Can You Spend Crypto Without Selling It? Inside The ether.fi Cash Card’s “Never Sell” Revolution](https://hackernoon.com/can-you-spend-crypto-without-selling-it-inside-the-etherfi-cash-cards-never-sell-revolution)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-g023lkm.png)
+In-depth review of the Ether.Fi Cash Card – a DeFi-driven Visa that lets you spend crypto without selling it.
+
+### [122. What is the Difference Between Uniswap V1, V2, and V3?](https://hackernoon.com/what-is-the-difference-between-uniswap-v1-v2-and-v3)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-an03l5d.jpeg)
 A simple and easy-to-understand comparison of the versions of Uniswap.
 
-### [122. Borrowing on Ethereum: Comparing Architecture Evolution of MakerDAO, Yield, Aave, Compound, & Euler](https://hackernoon.com/borrowing-on-ethereum-comparing-architecture-evolution-of-makerdao-yield-aave-compound-and-euler)
+### [123. Borrowing on Ethereum: Comparing Architecture Evolution of MakerDAO, Yield, Aave, Compound, & Euler](https://hackernoon.com/borrowing-on-ethereum-comparing-architecture-evolution-of-makerdao-yield-aave-compound-and-euler)
 ![](https://cdn.hackernoon.com/images/9nMyFjQNicRJ5HwksmBytJBySMi2-um93zae.jpeg)
 Comprehensive overview of the key collateralized borrowing applications on Ethereum. Reusable approach to analyse other similar applications.
-
-### [123. How to Exploit a Solidity Constructor](https://hackernoon.com/how-to-exploit-a-solidity-constructor)
-![](https://cdn.hackernoon.com/images/QHmuFqkFG8PYFDZBkR1e61jz7Qj1-ww037ao.jpeg)
-In this guide, we'll be diving into solidity vulnerabilities and exploiting a solidity constructor.
 
 ### [124. How to Perform Gas-Free Trades on Ethereum's 1st Layer](https://hackernoon.com/how-to-perform-gas-free-trades-on-ethereums-1st-layer)
 ![](https://cdn.hackernoon.com/images/ethereum-blockchain-network-dollar-sign-gas-can-letter-e-clgppdist000101s6cfexfp3w.png)
 This Ethereum DEX Will Cover Gas for Your Limit Orders
 
-### [125. Smart Contracts and Real Estate: The Past, Present, and the Future](https://hackernoon.com/smart-contracts-and-real-estate-the-past-present-and-the-future-v1qr3387)
+### [125. How to Exploit a Solidity Constructor](https://hackernoon.com/how-to-exploit-a-solidity-constructor)
+![](https://cdn.hackernoon.com/images/QHmuFqkFG8PYFDZBkR1e61jz7Qj1-ww037ao.jpeg)
+In this guide, we'll be diving into solidity vulnerabilities and exploiting a solidity constructor.
+
+### [126. Smart Contracts and Real Estate: The Past, Present, and the Future](https://hackernoon.com/smart-contracts-and-real-estate-the-past-present-and-the-future-v1qr3387)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-bp83x8b.jpeg)
 Very little has changed the last couple of decades when it comes to real estate practices. Buying and selling a home today is much like what it was fifty years ago. It's more or less the same process as when our grandparents' generations purchased and sold homes. 
-
-### [126. Can You Spend Crypto Without Selling It? Inside The ether.fi Cash Card’s “Never Sell” Revolution](https://hackernoon.com/can-you-spend-crypto-without-selling-it-inside-the-etherfi-cash-cards-never-sell-revolution)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-g023lkm.png)
-In-depth review of the Ether.Fi Cash Card – a DeFi-driven Visa that lets you spend crypto without selling it.
 
 ### [127. The New Solidity Dev Stack: Buidler + Ethers + Waffle + Typescript [Tutorial]](https://hackernoon.com/the-new-solidity-dev-stack-buidler-ethers-waffle-typescript-706830w0)
 ![](https://cdn.hackernoon.com/images/lq83h3x08.jpg)
@@ -569,13 +571,13 @@ Learning a new technology can certainly be overwhelming, especially when you’r
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-ube3j84.jpeg)
 Understanding Zero-Knowledge Proofs through the source code of Tornado Cash
 
-### [142. Ethereum, You Are A Centralized Cryptocurrency. Stop Telling Us That You Aren't](https://hackernoon.com/ethereum-you-are-a-centralized-cryptocurrency-stop-telling-us-that-you-arent-pi3s3yjl)
-![](https://cdn.hackernoon.com/images/64ag16hq.jpg)
-When looking at Ethereum, there are some good things I can say about it and some bad. Ethereum did early stage investors in their ICO right, in the fact that the 2014 ICO price was $0.30. 
-
-### [143. Bitcoin UTXO vs Ethereum's Account-Based Blockchain Transactions: Explained Simply](https://hackernoon.com/bitcoin-utxo-vs-ethereums-account-based-blockchain-transactions-explained-simply-164x37f5)
+### [142. Bitcoin UTXO vs Ethereum's Account-Based Blockchain Transactions: Explained Simply](https://hackernoon.com/bitcoin-utxo-vs-ethereums-account-based-blockchain-transactions-explained-simply-164x37f5)
 ![](https://cdn.hackernoon.com/images/bLQVnaI0nBYjqbryLYHp5mD7BWj1-2n2m247b.jpeg)
 Bitcoin and Ethereum differ in many ways. In this article, I will cover one of their differences: the way they keep track of what coins a user owns.
+
+### [143. Ethereum, You Are A Centralized Cryptocurrency. Stop Telling Us That You Aren't](https://hackernoon.com/ethereum-you-are-a-centralized-cryptocurrency-stop-telling-us-that-you-arent-pi3s3yjl)
+![](https://cdn.hackernoon.com/images/64ag16hq.jpg)
+When looking at Ethereum, there are some good things I can say about it and some bad. Ethereum did early stage investors in their ICO right, in the fact that the 2014 ICO price was $0.30. 
 
 ### [144. Turning 2k to 2M in 16 Months: My Story on Branding, Opportunities, and Technical Analyses](https://hackernoon.com/turning-2k-to-2m-in-16-months-my-story-on-branding-opportunities-and-technical-analyses)
 ![](https://cdn.hackernoon.com/images/qNQObiREVaaPUKVcvf2HL0ShLzw1-pu13eh0.jpeg)
@@ -622,21 +624,21 @@ In this post we'll look at 10 affordable NFT projects on the Ethereum blockchain
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-om93onx.jpeg)
 A journey marked by crypto collectibles and highlights of lessons learned along the way. 
 
-### [155. Protocol Alternatives That Challenge Ethereum](https://hackernoon.com/protocol-alternatives-that-challenge-ethereum-wl8731g1)
-![](https://cdn.hackernoon.com/images/hkjgHRoOx0eAEbltFm2JQn9R9bV2-kt2s38g2.jpeg)
-Which blockchain protocol is best poised to challenge Ethereum? Here we review Radix, Polkadot, Elrond, Algorand, and Avalanche.
-
-### [156. Query Ethereum MemPool using Node.js, Web3.js and Geth](https://hackernoon.com/query-ethereum-mempool-using-nodejs-web3js-and-geth)
+### [155. Query Ethereum MemPool using Node.js, Web3.js and Geth](https://hackernoon.com/query-ethereum-mempool-using-nodejs-web3js-and-geth)
 ![](https://cdn.hackernoon.com/images/KimR86OiLTc5NFiLUbNZvacBR2d2-r593qav.jpeg)
 Query Ethereum Memory Pool or Transaction Pool using Node js Web3.js and Geth
 
-### [157. Mina's Top Altcoin Picks for 2020](https://hackernoon.com/minas-top-altcoin-picks-for-2020-c6293x3b)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPbbfrARZ78UfnvwvOMBFrN2mLJi1-rq3231ir.jpeg?alt=media&token=039b0d9c-cba6-4645-8d86-5e3cd1f7bc70)
-The cryptocurrency market is heating up and many are calling 2020 Bitcoin’s next “bull run” year.
+### [156. Protocol Alternatives That Challenge Ethereum](https://hackernoon.com/protocol-alternatives-that-challenge-ethereum-wl8731g1)
+![](https://cdn.hackernoon.com/images/hkjgHRoOx0eAEbltFm2JQn9R9bV2-kt2s38g2.jpeg)
+Which blockchain protocol is best poised to challenge Ethereum? Here we review Radix, Polkadot, Elrond, Algorand, and Avalanche.
 
-### [158. How to Generate an Ethereum Address From Private Key Using Python](https://hackernoon.com/how-to-generate-an-ethereum-address-from-private-key-using-python)
+### [157. How to Generate an Ethereum Address From Private Key Using Python](https://hackernoon.com/how-to-generate-an-ethereum-address-from-private-key-using-python)
 ![](https://cdn.hackernoon.com/images/generate-an-ethereum-address-clicvfyfg000101s61gy29mb3.png)
 An ethereum address is the last 20 bytes of the keccack256 of the public key. The public key algorithm is secp256k1, the same used in bitcoin.
+
+### [158. Mina's Top Altcoin Picks for 2020](https://hackernoon.com/minas-top-altcoin-picks-for-2020-c6293x3b)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPbbfrARZ78UfnvwvOMBFrN2mLJi1-rq3231ir.jpeg?alt=media&token=039b0d9c-cba6-4645-8d86-5e3cd1f7bc70)
+The cryptocurrency market is heating up and many are calling 2020 Bitcoin’s next “bull run” year.
 
 ### [159. Understanding Rollups And Their Importance As An Optimal Layer 2 Scaling Solution](https://hackernoon.com/understanding-rollups-and-their-importance-as-an-optimal-layer-2-scaling-solution)
 ![](https://cdn.hackernoon.com/images/2PPIKklpboTOzxn4e1DwgCGeUhp2-vu93rvx.jpeg)
@@ -679,13 +681,13 @@ This article talks about a new token standard that can be used to deploy bonds o
 ![](https://cdn.hackernoon.com/images/fzCq5YEgXyXMzUyeDwj9DeNu64Z2-ku93oir.jpeg)
 I rely on the writings of my macro forefathers and translate their ideas into what I hope is a more digestible and entertaining format.
 
-### [169. Examining Ethereum Under A Microscope: Is There Really a Method to the Madness?](https://hackernoon.com/examining-ethereum-under-a-microscope-is-there-really-a-method-to-the-madness-k7ci36lt)
-![](https://cdn.hackernoon.com/images/inm36d4.jpg)
-tldr; Below is a hefty and yet still somehow high-level overview of Ethereum. The roughly 5-year-old project has emerged as one of the most exciting and proven projects in the cryptocurrency space while somehow still encompassing the most risk and arguably, upside of any crypto-project. This dichotomy has allowed Ethereum to act as a sort of magic mirror for those in the industry. Fanboys and detractors alike can look into the project and see what they want to see: the 2nd-most successful crypto-project with product-market fit and an army of developers behind it or a nascent, experimental Frankenstein so complicated it would make Rube Goldberg blush.
-
-### [170. Take a Deep Dive Into Verkle Tree For Ethereum](https://hackernoon.com/take-a-deep-dive-into-verkle-tree-for-ethereum)
+### [169. Take a Deep Dive Into Verkle Tree For Ethereum](https://hackernoon.com/take-a-deep-dive-into-verkle-tree-for-ethereum)
 ![](https://cdn.hackernoon.com/images/Ns6mVt8NqgNkfsouVyus9tAe3mB2-hq93kdr.jpeg)
 The Verkle Tree concept was proposed in 2018 and this tech review by Sin7Y will demonstrate the principle of Verkle Tree.
+
+### [170. Examining Ethereum Under A Microscope: Is There Really a Method to the Madness?](https://hackernoon.com/examining-ethereum-under-a-microscope-is-there-really-a-method-to-the-madness-k7ci36lt)
+![](https://cdn.hackernoon.com/images/inm36d4.jpg)
+tldr; Below is a hefty and yet still somehow high-level overview of Ethereum. The roughly 5-year-old project has emerged as one of the most exciting and proven projects in the cryptocurrency space while somehow still encompassing the most risk and arguably, upside of any crypto-project. This dichotomy has allowed Ethereum to act as a sort of magic mirror for those in the industry. Fanboys and detractors alike can look into the project and see what they want to see: the 2nd-most successful crypto-project with product-market fit and an army of developers behind it or a nascent, experimental Frankenstein so complicated it would make Rube Goldberg blush.
 
 ### [171. How NOT To Fracture A Layer 1 Chain!](https://hackernoon.com/how-not-to-fracture-a-layer-1-chain-qgi530g3)
 ![](https://cdn.filestackcontent.com/OEsYS59SO6L1w13vmdUQ)
@@ -695,81 +697,81 @@ As of today, there are over 24 layer-1 blockchain projects just within the first
 ![](https://cdn.hackernoon.com/images/gPaPGvf3PJfuQWl6JgbSMewWfin1-cpan33fo.png)
 Ever watched Ready Player One and wondered what it would be like to have the same thing in real life (well you know what we mean)? Play around a virtual casino,
 
-### [173. Blooprint: A Look at the New Ethereum Launchpad Giving $100k To Founders](https://hackernoon.com/blooprint-a-look-at-the-new-ethereum-launchpad-giving-$100k-to-founders)
+### [173. How I Built A Smart Contract That Pays People Automatically](https://hackernoon.com/how-i-built-a-smart-contract-that-pays-people-automatically-x91j34mp)
+![](https://hackernoon.com/images/r1gGZuNNzjc0wNAM0O1SLicFdny2-kcr23l6.jpeg)
+Learn how an Ethereum smart contract can pay your kids, employees, or whomever quickly, fairly, and automatically. No more banks, no more headaches.
+
+### [174. Blooprint: A Look at the New Ethereum Launchpad Giving $100k To Founders](https://hackernoon.com/blooprint-a-look-at-the-new-ethereum-launchpad-giving-$100k-to-founders)
 ![](https://cdn.hackernoon.com/images/WQkH1vtLkAOdaFu0fs6CCD5ZgRE3-5j93utw.jpeg)
 Explore Blooprint Labs' new Ethereum Web3 Launchpad, designed to bridge the resource gap for Web3 projects.
 
-### [174. How to Solve the Ethernaut Game's Level 5: Token](https://hackernoon.com/how-to-solve-the-ethernaut-games-level-5-token)
+### [175. How to Solve the Ethernaut Game's Level 5: Token](https://hackernoon.com/how-to-solve-the-ethernaut-games-level-5-token)
 ![](https://cdn.hackernoon.com/images/2VftJjxuwsZ19AsybJmsSIp6DX53-ut32jwi.jpeg)
 In challenge 5 you are given 20 tokens to start with and you will beat the level if you somehow manage to get your hands on any additional tokens.
-
-### [175. How I Built A Smart Contract That Pays People Automatically](https://hackernoon.com/how-i-built-a-smart-contract-that-pays-people-automatically-x91j34mp)
-![](https://hackernoon.com/images/r1gGZuNNzjc0wNAM0O1SLicFdny2-kcr23l6.jpeg)
-Learn how an Ethereum smart contract can pay your kids, employees, or whomever quickly, fairly, and automatically. No more banks, no more headaches.
 
 ### [176. Interoperability: The Answer to the Scalability Trilemma](https://hackernoon.com/interoperability-the-answer-to-the-scalability-trilemma-j2q33ea)
 ![](https://cdn.hackernoon.com/images/XVTLPvsVTrU1SxDW3HvsSwCqtiT2-6qi36r2.jpeg)
 Interoperability as the solution for the scaling trilemma. 
 
-### [177. This Bull Run is Fundamentally Different Than the Previous One. Here’s Why](https://hackernoon.com/this-bull-run-is-fundamentally-different-than-the-previous-one-heres-why-tdr03vxg)
+### [177. How to Create Your NFT on Ethereum Blockchain](https://hackernoon.com/how-to-create-your-nft-on-ethereum-blockchain)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-vk93n79.jpeg)
+Creating an NFT on Ethereum needs you to understand the difference between ERC-20 and ERC-721 tokens as well as the functions inherent to such tokens.
+
+### [178. This Bull Run is Fundamentally Different Than the Previous One. Here’s Why](https://hackernoon.com/this-bull-run-is-fundamentally-different-than-the-previous-one-heres-why-tdr03vxg)
 ![](https://cdn.hackernoon.com/images/5f193wvl.jpg)
 Everyone knows about the time in 2017 and early 2018 when bitcoin hit over $20,000 USD and Ethereum was sitting nicely at $1,300+. In fact, the total market cap for coins and tokens listed on CoinMarketCap, had just ticked over $800,000,000,000. Everyone was going to be a millionaire.
 
-### [178. Implementing the ERC-2981 NFT royalty standard with Solidity](https://hackernoon.com/implementing-the-erc-2981-nft-royalty-standard-with-solidity)
+### [179. Implementing the ERC-2981 NFT royalty standard with Solidity](https://hackernoon.com/implementing-the-erc-2981-nft-royalty-standard-with-solidity)
 ![](https://cdn.hackernoon.com/images/1JTW4DbEkoVMeBmDQWqxABgKxcQ2-8ha32b3.jpeg)
 With the rise of NFTs on the Ethereum blockchain, creators can now monetize their digital art, music, videos, and other media.
-
-### [179. Chainlink is Set to Power Cryptex's Flagship Token, TCAP](https://hackernoon.com/chainlink-is-set-to-power-cryptexs-flagship-token-tcap-zq3g31sl)
-![](https://cdn.hackernoon.com/images/JKadBALrVTVtQ8AkaMgAC0AfaNj1-b03d34st.jpeg)
-After months of anticipation, Cryptex announced the launch of TCAP, The World’s First Total Cryptocurrency Market Cap Token.
 
 ### [180. Expanding Smart Contracts With SQL](https://hackernoon.com/expanding-smart-contracts-with-sql)
 ![](https://cdn.hackernoon.com/images/yburNEhoAbT7Dnb6ndFJOj1TtmF3-gj03usc.png)
 In 2008, the alarms on Wall Street rang as sophisticated traders descended into a primal frenzy. Overleveraged financial institutions, collapsing under...
 
-### [181. How to Create Your NFT on Ethereum Blockchain](https://hackernoon.com/how-to-create-your-nft-on-ethereum-blockchain)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-vk93n79.jpeg)
-Creating an NFT on Ethereum needs you to understand the difference between ERC-20 and ERC-721 tokens as well as the functions inherent to such tokens.
+### [181. Chainlink is Set to Power Cryptex's Flagship Token, TCAP](https://hackernoon.com/chainlink-is-set-to-power-cryptexs-flagship-token-tcap-zq3g31sl)
+![](https://cdn.hackernoon.com/images/JKadBALrVTVtQ8AkaMgAC0AfaNj1-b03d34st.jpeg)
+After months of anticipation, Cryptex announced the launch of TCAP, The World’s First Total Cryptocurrency Market Cap Token.
 
 ### [182. Why Startups aren't Using Ethereum](https://hackernoon.com/why-startups-arent-using-ethereum)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-is039y3.jpeg)
 This interview talks about the rising ethereum transaction fees, cross-fi staking and cybersecurity for blockchain startups. 
 
-### [183. Block-STM vs. Sealevel: A Comparison of Parallel Execution Engines](https://hackernoon.com/block-stm-vs-sealevel-a-comparison-of-parallel-execution-engines)
-![](https://cdn.hackernoon.com/images/WSQJfCSXOxWphTNQ7sneVvhdWGu1-rq035he.jpeg)
-Block-STM and Sealevel are two approaches to parallelizing blockchain execution. This paper will examine and break down how both TPUs approach parallelization.
+### [183. EVM-Puzzles: Learn Ethereum By Solving Interactive Puzzles](https://hackernoon.com/evm-puzzles-learn-ethereum-by-solving-interactive-puzzles)
+![](https://cdn.hackernoon.com/images/lNim46u1mwX8uVob12ZAUM9ZuDu1-lo93k5x.jpeg)
+Demystifying the EVM Through Interactive Puzzles - A Walkthrough.
 
-### [184. 6 Predictions For Crypto Industry In 2021 (without trading)](https://hackernoon.com/6-predictions-for-crypto-industry-in-2021-without-trading-5f2b3z8c)
-![](https://cdn.hackernoon.com/images/IZH5VrBxylTJuG6oTbU11LwJemA3-b6b73ejd.jpeg)
-Predictions for Crypto industry in 2021: DeFi, DEX, STO, ETH 2.0, CBDC and everything that can affect crypto / blockchain world and can help users and projects
+### [184. How Ethereum Staking is Creating a $10 Billion Ponzi Scheme](https://hackernoon.com/how-ethereum-staking-is-creating-a-$10-billion-ponzi-scheme)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4g92ddx.jpeg)
+One of the Ponzi scheme in the history, no one is sounding the alarm!
 
 ### [185. A Brief Introduction to Ethereum Swarm](https://hackernoon.com/a-brief-introduction-to-ethereum-swarm)
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-a292jpu.jpeg)
 The idea for Swarm came from Gavin Wood, one of the founders of Ethereum.
 
-### [186. Diving into Ethereum's Virtual Machine(EVM): the future of Ewasm](https://hackernoon.com/diving-into-ethereums-virtual-machine-the-future-of-ewasm-wrk32iy)
+### [186. Block-STM vs. Sealevel: A Comparison of Parallel Execution Engines](https://hackernoon.com/block-stm-vs-sealevel-a-comparison-of-parallel-execution-engines)
+![](https://cdn.hackernoon.com/images/WSQJfCSXOxWphTNQ7sneVvhdWGu1-rq035he.jpeg)
+Block-STM and Sealevel are two approaches to parallelizing blockchain execution. This paper will examine and break down how both TPUs approach parallelization.
+
+### [187. 6 Predictions For Crypto Industry In 2021 (without trading)](https://hackernoon.com/6-predictions-for-crypto-industry-in-2021-without-trading-5f2b3z8c)
+![](https://cdn.hackernoon.com/images/IZH5VrBxylTJuG6oTbU11LwJemA3-b6b73ejd.jpeg)
+Predictions for Crypto industry in 2021: DeFi, DEX, STO, ETH 2.0, CBDC and everything that can affect crypto / blockchain world and can help users and projects
+
+### [188. Diving into Ethereum's Virtual Machine(EVM): the future of Ewasm](https://hackernoon.com/diving-into-ethereums-virtual-machine-the-future-of-ewasm-wrk32iy)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1k82rze.jpeg)
 Ethereum is a blockchain with a built-in Turing-complete programming language. It allows anyone to create a decentralised application, by making use of Ethereum smart contracts.
-
-### [187. How Ethereum Staking is Creating a $10 Billion Ponzi Scheme](https://hackernoon.com/how-ethereum-staking-is-creating-a-$10-billion-ponzi-scheme)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4g92ddx.jpeg)
-One of the Ponzi scheme in the history, no one is sounding the alarm!
-
-### [188. EVM-Puzzles: Learn Ethereum By Solving Interactive Puzzles](https://hackernoon.com/evm-puzzles-learn-ethereum-by-solving-interactive-puzzles)
-![](https://cdn.hackernoon.com/images/lNim46u1mwX8uVob12ZAUM9ZuDu1-lo93k5x.jpeg)
-Demystifying the EVM Through Interactive Puzzles - A Walkthrough.
 
 ### [189. Charting The Ethereum Account Abstraction Roadmap I: EIP-3074, EIP-5806, and EIP-7702](https://hackernoon.com/charting-the-ethereum-account-abstraction-roadmap-i-eip-3074-eip-5806-and-eip-7702)
 ![](https://cdn.hackernoon.com/images/WSQJfCSXOxWphTNQ7sneVvhdWGu1-bt037j0.jpeg)
 A three-part series on Ethereum's account abstraction roadmap. Part I explores EIP-3074, EIP-7702, and EIP-5806—including specifications, advantages, and cons. 
 
-### [190. How we built the largest payment channel network on Ethereum](https://hackernoon.com/how-we-built-the-largest-payment-channel-network-on-ethereum-ky11r2h7c)
-![](https://cdn.hackernoon.com/drafts/9z13b2hie.png)
-With over 9 million transactions AdEx Network is currently the largest payment channel network on Ethereum. Here's how we did it
-
-### [191. How To Run An ETH 2.0 Beacon Node Using The Lighthouse MacOS Client](https://hackernoon.com/how-to-run-an-eth-20-beacon-node-using-the-lighthouse-macos-client-7t2u3wtv)
+### [190. How To Run An ETH 2.0 Beacon Node Using The Lighthouse MacOS Client](https://hackernoon.com/how-to-run-an-eth-20-beacon-node-using-the-lighthouse-macos-client-7t2u3wtv)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnvURnsNNLXTGjfUZZfhrIRzy1QV2-em923xy8.jpeg?alt=media&token=cd2bcd41-8ad7-4109-b643-40a7b1d4aac5)
 This article will guide you through running ETH2.0 Beacon Node with Lighthouse client on MacOS if you have barely to 0 experiences with Terminal command lines and you want to spin off Lighthouse Beacon node and join the validator pool on ETH2.0 Beacon chain with Lighthouse client. This guide includes spinning off Nethermind Goerli node.
+
+### [191. How we built the largest payment channel network on Ethereum](https://hackernoon.com/how-we-built-the-largest-payment-channel-network-on-ethereum-ky11r2h7c)
+![](https://cdn.hackernoon.com/drafts/9z13b2hie.png)
+With over 9 million transactions AdEx Network is currently the largest payment channel network on Ethereum. Here's how we did it
 
 ### [192. The Current State of the Crypto Market and 7 Trends to Follow](https://hackernoon.com/the-current-state-of-the-crypto-market-and-7-trends-to-follow)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-wof35ru.jpeg)
@@ -808,69 +810,69 @@ The mother of DeFi is Etheurem, but the true DeFi platform the world needs now i
 ![](https://cdn.hackernoon.com/images/mgq32dm.jpg)
 Introduction
 
-### [201.  Smart Contract Versioning](https://hackernoon.com/smart-contract-versioning-mr5x32db)
-![](https://cdn.hackernoon.com/images/if3by26uq.jpg)
-How to Write Upgradable Smart Contracts
-
-### [202. DeFi Vampirism Draws First Blood As Dracula Protocol Upgrades to v2](https://hackernoon.com/defi-vampirism-draws-first-blood-as-dracula-protocol-upgrades-to-v2-gq7y339g)
-![](https://cdn.hackernoon.com/images/zr5CXVeoGVWpCaX7NYWn4pHgs3P2-micl3fhf.jpeg)
-Dracula Protocol is a suite of smart contracts which aggregate major DeFi yield farms and liquidity mining platforms through a single smart-contract. 
-
-### [203. Understanding the Different Layers of Blockchain Technology](https://hackernoon.com/understanding-the-different-layers-of-blockchain-technology)
-![](https://cdn.hackernoon.com/images/25FD7aJjvQXZmpBWsHFW5JYdjMt1-aj93qr7.jpeg)
-This article explains the two essential types of blockchain layers: Architecture Layers and Protocol Layers, and will cover the various functions of each layer.
-
-### [204. The History of Hackathons: A Digital Evolution ](https://hackernoon.com/the-history-of-hackathons-a-digital-evolution)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-eg13ohk.jpeg)
-The term hackathon is a compound word, a fusion of hacking and marathon, where hack is used in the sense of exploratory programming.
-
-### [205. The ZK Cross-chain Message Protocol and How it Paves a New Way of Cross-chain Communication](https://hackernoon.com/the-zk-cross-chain-message-protocol-and-how-it-paves-a-new-way-of-cross-chain-communication)
+### [201. The ZK Cross-chain Message Protocol and How it Paves a New Way of Cross-chain Communication](https://hackernoon.com/the-zk-cross-chain-message-protocol-and-how-it-paves-a-new-way-of-cross-chain-communication)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-4j93k0h.jpeg)
 ZK technology offers a secure and cheap way for cross-chain communication and will change the cross-chain app user interaction.
 
-### [206. Here's How I Built An ETH Wallet On A Cheap NFC sticker](https://hackernoon.com/heres-how-i-built-an-eth-wallet-on-a-cheap-nfc-sticker-er1j3wyd)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFlRGjciVp3fbWDvvOGdVFcuFTef2-bup52br6.jpeg?alt=media&token=38ee28a8-5876-4f74-95c8-492caec4e971)
-Story of how I tried to become a cyborg, but with a geeky twist
+### [202. Understanding the Different Layers of Blockchain Technology](https://hackernoon.com/understanding-the-different-layers-of-blockchain-technology)
+![](https://cdn.hackernoon.com/images/25FD7aJjvQXZmpBWsHFW5JYdjMt1-aj93qr7.jpeg)
+This article explains the two essential types of blockchain layers: Architecture Layers and Protocol Layers, and will cover the various functions of each layer.
+
+### [203. Ethereum Scaling 101: A Quick Dive Into Understanding Layer 2 and Sidechains](https://hackernoon.com/ethereum-scaling-101-a-quick-dive-into-understanding-layer-2-and-sidechains)
+![](https://cdn.hackernoon.com/images/H7wJbpFbwXPju0F4VOalk4s9uq93-1di3rvi.jpeg)
+Today's most popular blockchain scaling solutions like Layer 2, Sidechains, ZK-Rollup and Optimistic Rollups and a detailed breakdown of them.
+
+### [204.  Smart Contract Versioning](https://hackernoon.com/smart-contract-versioning-mr5x32db)
+![](https://cdn.hackernoon.com/images/if3by26uq.jpg)
+How to Write Upgradable Smart Contracts
+
+### [205. DeFi Vampirism Draws First Blood As Dracula Protocol Upgrades to v2](https://hackernoon.com/defi-vampirism-draws-first-blood-as-dracula-protocol-upgrades-to-v2-gq7y339g)
+![](https://cdn.hackernoon.com/images/zr5CXVeoGVWpCaX7NYWn4pHgs3P2-micl3fhf.jpeg)
+Dracula Protocol is a suite of smart contracts which aggregate major DeFi yield farms and liquidity mining platforms through a single smart-contract. 
+
+### [206. The History of Hackathons: A Digital Evolution ](https://hackernoon.com/the-history-of-hackathons-a-digital-evolution)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-eg13ohk.jpeg)
+The term hackathon is a compound word, a fusion of hacking and marathon, where hack is used in the sense of exploratory programming.
 
 ### [207. EIP-7623: The Proposal That Will Re-price Calldata For Ethereum Transactions ](https://hackernoon.com/eip-7623-the-proposal-that-will-re-price-calldata-for-ethereum-transactions)
 ![](https://cdn.hackernoon.com/images/WSQJfCSXOxWphTNQ7sneVvhdWGu1-58036u8.jpeg)
 Learn how EIP-7623 proposes adjustments to Ethereum calldata pricing that aim to make gas costs fairer and better reflect resource consumption by users.
 
-### [208. Compound: The Money Market on Ethereum](https://hackernoon.com/compound-the-money-market-on-ethereum-zm113yxb)
+### [208. Here's How I Built An ETH Wallet On A Cheap NFC sticker](https://hackernoon.com/heres-how-i-built-an-eth-wallet-on-a-cheap-nfc-sticker-er1j3wyd)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFlRGjciVp3fbWDvvOGdVFcuFTef2-bup52br6.jpeg?alt=media&token=38ee28a8-5876-4f74-95c8-492caec4e971)
+Story of how I tried to become a cyborg, but with a geeky twist
+
+### [209. Compound: The Money Market on Ethereum](https://hackernoon.com/compound-the-money-market-on-ethereum-zm113yxb)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FeQX36dQ5oigImKG2IpCdhlBFPhI2-q08r3ytg.jpeg?alt=media&token=36c8e356-16de-4d0e-a685-76665fc92945)
 On June 26, 2020, the value locked into the Compound protocol reached a staggering $1 billion, making it the "most valuable" decentralized finance protocol. In the past year, DeFi became the hottest topic in the crypto. Let's take a close look at one of its most popular projects.
 
-### [209. Understanding Ethereum and EVM Traces](https://hackernoon.com/understanding-ethereum-and-evm-traces)
+### [210. Understanding Ethereum and EVM Traces](https://hackernoon.com/understanding-ethereum-and-evm-traces)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-c5a2tb5.jpeg)
 In this article, we’ll look at the type of data traces give you, how you can execute a trace, and options for tracing — manual, running archive nodes. 
 
-### [210. Browsers Are the Gatekeepers of The Decentralized Web](https://hackernoon.com/browsers-are-the-gatekeepers-of-the-decentralized-web-i7543y1z)
+### [211. Browsers Are the Gatekeepers of The Decentralized Web](https://hackernoon.com/browsers-are-the-gatekeepers-of-the-decentralized-web-i7543y1z)
 ![](https://cdn.hackernoon.com/drafts/as1d326k.png)
 The internet that most of the world sees is essentially identical. It’s called DNS, and most people understand this system to be the "legitimate" internet. This system is run by ICANN, a non-profit charged with determining who has the right to launch a domain extension (like a .com). 
 
-### [211. YellowCard, The Crypto Ambition of Africa](https://hackernoon.com/yellowcard-the-crypto-ambition-of-africa)
+### [212. YellowCard, The Crypto Ambition of Africa](https://hackernoon.com/yellowcard-the-crypto-ambition-of-africa)
 ![](https://cdn.hackernoon.com/images/cGfg9TlH1bgGje7eIzVSvxyMCMn2-16d2kw3.png)
 This article is about a Web3 company called YellowCard that has a crypto exchange app platform for bitcoin, ethereum and others, based for the African market.
 
-### [212. 3 Major Challenges to Web3 Technology's Adoption](https://hackernoon.com/3-major-challenges-to-web3-technologys-adoption)
+### [213. 3 Major Challenges to Web3 Technology's Adoption](https://hackernoon.com/3-major-challenges-to-web3-technologys-adoption)
 ![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-6793o0w.jpeg)
 Web3 is a vision for a new version of the internet based on blockchain technology that aims to build a democratic internet. However, there are some challenges.
 
-### [213. Ethereum Scaling 101: A Quick Dive Into Understanding Layer 2 and Sidechains](https://hackernoon.com/ethereum-scaling-101-a-quick-dive-into-understanding-layer-2-and-sidechains)
-![](https://cdn.hackernoon.com/images/H7wJbpFbwXPju0F4VOalk4s9uq93-1di3rvi.jpeg)
-Today's most popular blockchain scaling solutions like Layer 2, Sidechains, ZK-Rollup and Optimistic Rollups and a detailed breakdown of them.
+### [214. EIP-7503: Zero-knowledge Wormholes for Private Ethereum Transactions](https://hackernoon.com/eip-7503-zero-knowledge-wormholes-for-private-ethereum-transactions)
+![](https://cdn.hackernoon.com/images/WSQJfCSXOxWphTNQ7sneVvhdWGu1-jm035v1.jpeg)
+EIP-7503 is a solution for making on-chain transfers on Ethereum private. Learn how EIP-7503 works and what it means for users, businesses, and the network. 
 
-### [214. Decentralized Uber: Here's How I Built It With Status.im, Waku, and Vue.js](https://hackernoon.com/decentralized-uber-heres-how-i-built-it-with-statusim-waku-and-vuejs)
+### [215. Decentralized Uber: Here's How I Built It With Status.im, Waku, and Vue.js](https://hackernoon.com/decentralized-uber-heres-how-i-built-it-with-statusim-waku-and-vuejs)
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-hz029y9.jpeg)
 Write a decentralized Uber using Status.im Waku and Vue.js
 
-### [215. Polkadot Vs. Cardano Vs. Koinos: Which Is The Best One For You?](https://hackernoon.com/polkadot-vs-cardano-vs-koinos-which-is-the-best-one-for-you-dt3i33fv)
+### [216. Polkadot Vs. Cardano Vs. Koinos: Which Is The Best One For You?](https://hackernoon.com/polkadot-vs-cardano-vs-koinos-which-is-the-best-one-for-you-dt3i33fv)
 ![](https://cdn.hackernoon.com/images/5Bjz78MORcPQx3lUTVedEHus0mG2-9b1g35ki.jpeg)
 there are similarities between these three protocols, because at the end of the day, what we are all trying to deliver are the best platforms
-
-### [216. EIP-7503: Zero-knowledge Wormholes for Private Ethereum Transactions](https://hackernoon.com/eip-7503-zero-knowledge-wormholes-for-private-ethereum-transactions)
-![](https://cdn.hackernoon.com/images/WSQJfCSXOxWphTNQ7sneVvhdWGu1-jm035v1.jpeg)
-EIP-7503 is a solution for making on-chain transfers on Ethereum private. Learn how EIP-7503 works and what it means for users, businesses, and the network. 
 
 ### [217. How to Transfer Tokens Between the World's Leading Blockchains](https://hackernoon.com/how-to-transfer-tokens-between-the-worlds-leading-blockchains-r32237x8)
 ![](https://cdn.hackernoon.com/images/tN92BQhoO9hSIj7qCbWP5Te80pF3-292837b7.jpeg)
@@ -892,81 +894,81 @@ How to Understand the Latest DeFi "Hack" in 3 Steps
 ![](https://cdn.hackernoon.com/images/gOcaGZL99ges09JGDQ0NcEqoWcf1-xwr34da.jpeg)
 The developer experience for Web3 is rife with inconveniences, including bloatedness, lack of protocol standardization, limited support for other platforms, and many more.
 
-### [222. How to Set Up an Ethereum Node Using Docker Swarm: A Step-by-Step Guide](https://hackernoon.com/how-to-set-up-an-ethereum-node-using-docker-swarm-a-step-by-step-guide)
-![](https://cdn.hackernoon.com/images/PiHXGrWA2kY6q7oNt8I6tPTedqO2-nyc2tki.gif.webp)
-Learn how to set up an Ethereum node with Docker Swarm step by step from setting up your first node swarm service to node swarm monitoring.
-
-### [223. Practical Use Cases For ENS Domains](https://hackernoon.com/practical-use-cases-for-ens-domains)
+### [222. Practical Use Cases For ENS Domains](https://hackernoon.com/practical-use-cases-for-ens-domains)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-si93n3a.jpeg)
 Why ENS domains can provide practical benefits when designing software that works on blockchain, especially from a security standpoint dependent on Ethereum.
+
+### [223. How to Set Up an Ethereum Node Using Docker Swarm: A Step-by-Step Guide](https://hackernoon.com/how-to-set-up-an-ethereum-node-using-docker-swarm-a-step-by-step-guide)
+![](https://cdn.hackernoon.com/images/PiHXGrWA2kY6q7oNt8I6tPTedqO2-nyc2tki.gif.webp)
+Learn how to set up an Ethereum node with Docker Swarm step by step from setting up your first node swarm service to node swarm monitoring.
 
 ### [224. 4 DeFi-Focused Layer 2 Networks built on Ethereum](https://hackernoon.com/4-defi-focused-layer-2-networks-built-on-ethereum-si1i3ws0)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FCq4eu8u0j9Yh1bJDN4qCRnaGRxp2-ri2x3wsg.jpeg?alt=media&token=a9ab745b-a887-42dc-b439-8dc0cdeff8e1)
 The Ethereum community has been awkwardly quiet in the face of ETH 2.0 difficulties. Many DeFi projects are playing the waiting game on implementing layer two solutions or wait for good news from Vitalik Buterin.
 
-### [225. Comparing 3 Promising Layer 2 Solutions Based on Optimistic Rollups](https://hackernoon.com/comparing-3-promising-layer-2-solutions-based-on-optimistic-rollups-6r5h245j)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-y2m3450.jpeg)
-One of the most promising foundational constructions to build layer 2 solutions are optimistic rollups. Many projects are built upon them
-
-### [226. A Decentralized Layer for Web3 Gaming](https://hackernoon.com/a-decentralized-layer-for-web3-gaming)
+### [225. A Decentralized Layer for Web3 Gaming](https://hackernoon.com/a-decentralized-layer-for-web3-gaming)
 ![](https://cdn.hackernoon.com/images/Urc9FYIgalfpZsec42fSzWSYL0H3-qg9346h.jpeg)
 How the Internet Computer promises to serve as a decentralized, scalable layer for Web3 and blockchain-based gaming.
 
-### [227. How to Build an Ethereum Transaction App with React and Solidity: Part 1](https://hackernoon.com/build-your-own-ethereum-transaction-app-with-react-and-solidity-part-1)
+### [226. Comparing 3 Promising Layer 2 Solutions Based on Optimistic Rollups](https://hackernoon.com/comparing-3-promising-layer-2-solutions-based-on-optimistic-rollups-6r5h245j)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-y2m3450.jpeg)
+One of the most promising foundational constructions to build layer 2 solutions are optimistic rollups. Many projects are built upon them
+
+### [227. Optimistic Rollups vs. ZK Rollups: Which Is Better?](https://hackernoon.com/optimistic-rollups-vs-zk-rollups-which-is-better)
+![](https://cdn.hackernoon.com/images/qTGrG927imcZVkWdwXAqjp5rBR03-0m8307o.jpeg)
+Dive into Ethereum's Layer 2 Scaling: ZK Rollups vs. Optimistic Rollups, exploring speed, costs, and security in blockchain solutions.
+
+### [228. How to Build an Ethereum Transaction App with React and Solidity: Part 1](https://hackernoon.com/build-your-own-ethereum-transaction-app-with-react-and-solidity-part-1)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-66039eh.jpeg)
 This tutorial will teach you how to build a decentralized blockchain application from the ground up that will interact with a ReactJs frontend.
 
-### [228. Initial Coin Offering, Meet Sanity](https://hackernoon.com/initial-coin-offering-meet-sanity-the-problem-with-icos-606fdecf91c0)
+### [229. Initial Coin Offering, Meet Sanity](https://hackernoon.com/initial-coin-offering-meet-sanity-the-problem-with-icos-606fdecf91c0)
 ![](https://hackernoon.com/hn-images/1*58Cd9EfUuzwNaLUpjzPQdw.jpeg)
 The Initial Coin Offer (ICO) is taking over. CoinDesk <a href="http://www.coindesk.com/ico-investments-pass-vc-funding-in-blockchain-market-first/" target="_blank">reports</a> that ICO events raised more than $327 million in the first half of 2017 and that doesn’t even include the $200 million+ <a href="http://mashable.com/2017/07/05/tezos-ico-cryptocurrency-startup/" target="_blank">raised</a> by Tezos this month.
-
-### [229. Optimistic Rollups vs. ZK Rollups: Which Is Better?](https://hackernoon.com/optimistic-rollups-vs-zk-rollups-which-is-better)
-![](https://cdn.hackernoon.com/images/qTGrG927imcZVkWdwXAqjp5rBR03-0m8307o.jpeg)
-Dive into Ethereum's Layer 2 Scaling: ZK Rollups vs. Optimistic Rollups, exploring speed, costs, and security in blockchain solutions.
 
 ### [230. Orbiter Finance Unveils Vizing: A Game-Changing ZK-Powered Ethereum Layer 2 Network](https://hackernoon.com/orbiter-finance-unveils-vizing-a-game-changing-zk-powered-ethereum-layer-2-network)
 ![](https://cdn.hackernoon.com/images/iRbOHPwIo2hED0rACW3cailrVtl2-m993c4v.png)
 Orbiter Finance has captured the attention of over 3 million users with its cross-chain bridge, facilitating asset swaps across various Layer-2 networks.
 
-### [231. Wildcat: Undercollateralized Credit Expansion for Fun and Profit 2.0](https://hackernoon.com/wildcat-undercollateralized-credit-expansion-for-fun-and-profit-20)
-![](https://cdn.hackernoon.com/images/WSQJfCSXOxWphTNQ7sneVvhdWGu1-ds0347y.jpeg)
-Uncollateralized lending is the future of DeFi. Learn how Wildcat Finance is bringing undercollateralized loans onchain and making DeFi accessible to users.
-
-### [232. How to Create On-Chain and Off-Chain NFT Collection Smart Contracts](https://hackernoon.com/how-to-create-on-chain-and-off-chain-nft-collection-smart-contracts)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-h793h76.jpeg)
-This blog delves deep into how I created an onchain Loot Royale NFT Collection Dapp - both smart contract and frontend in the most detailed manner possible 
-
-### [233. Will Casper Network Boost Ethereum Before ETH2.0 Goes Live? ](https://hackernoon.com/will-casper-network-boost-ethereum-before-eth20-goes-live-hv3533z4)
-![](https://cdn.hackernoon.com/images/55mgLtvwWdf0kHZQ9QMkL4gmWue2-vc3x35mg.jpeg)
-How Can Casper Network Make Up for ETH 2.0 Delays
-
-### [234.  Validator or Node Operator? Understanding Key Advantages and Differences with Ethereum’s DVT](https://hackernoon.com/validator-or-node-operator-understanding-key-advantages-and-differences-with-ethereums-dvt)
+### [231.  Validator or Node Operator? Understanding Key Advantages and Differences with Ethereum’s DVT](https://hackernoon.com/validator-or-node-operator-understanding-key-advantages-and-differences-with-ethereums-dvt)
 ![](https://cdn.hackernoon.com/images/C7LGfLlZs3OY2w0N7r4ePehwKBI2-xm93b0d.png)
 Discover the key differences between Ethereum validators and node operators and how Distributed Validator Technology (DVT) enhances security.
 
-### [235. A Linked List Implementation for Ethereum [Deep Dive]](https://hackernoon.com/a-linked-list-implementation-for-ethereum-deep-dive-oy9432pa)
-![](https://cdn.hackernoon.com/drafts/j9cg22p2.png)
-In this article I’ll introduce an implementation for Singly and Doubly Linked Lists, which you can reuse or modify for your own purposes. All the code is available in github or as an npm package.
+### [232. Wildcat: Undercollateralized Credit Expansion for Fun and Profit 2.0](https://hackernoon.com/wildcat-undercollateralized-credit-expansion-for-fun-and-profit-20)
+![](https://cdn.hackernoon.com/images/WSQJfCSXOxWphTNQ7sneVvhdWGu1-ds0347y.jpeg)
+Uncollateralized lending is the future of DeFi. Learn how Wildcat Finance is bringing undercollateralized loans onchain and making DeFi accessible to users.
 
-### [236. The Top 5 Mysterious Liquidity Providers in Uniswap V3 and What We Learned from Them](https://hackernoon.com/the-top-5-mysterious-liquidity-providers-in-uniswap-v3-and-what-we-learned-from-them)
+### [233. How to Create On-Chain and Off-Chain NFT Collection Smart Contracts](https://hackernoon.com/how-to-create-on-chain-and-off-chain-nft-collection-smart-contracts)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-h793h76.jpeg)
+This blog delves deep into how I created an onchain Loot Royale NFT Collection Dapp - both smart contract and frontend in the most detailed manner possible 
+
+### [234. Will Casper Network Boost Ethereum Before ETH2.0 Goes Live? ](https://hackernoon.com/will-casper-network-boost-ethereum-before-eth20-goes-live-hv3533z4)
+![](https://cdn.hackernoon.com/images/55mgLtvwWdf0kHZQ9QMkL4gmWue2-vc3x35mg.jpeg)
+How Can Casper Network Make Up for ETH 2.0 Delays
+
+### [235. The Top 5 Mysterious Liquidity Providers in Uniswap V3 and What We Learned from Them](https://hackernoon.com/the-top-5-mysterious-liquidity-providers-in-uniswap-v3-and-what-we-learned-from-them)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-na92fc2.jpeg)
 If you dare to look deeper – and if you have the right tools – you can find all kinds of anonymous sorcerers, strangers, and beasts.
 
-### [237. 2018 Crypto Bear Market and What We Can Learn From It](https://hackernoon.com/2018-crypto-bear-market-and-what-we-can-learn-from-it-9s7h3y57)
-![](https://cdn.hackernoon.com/images/651lw321s.jpg)
-At the end of 2018, I was analyzing the reasons for the bear market in cryptocurrency. It is interesting to look back and check if something has changed. Potentially it could let us predict future movement and development.
+### [236. A Linked List Implementation for Ethereum [Deep Dive]](https://hackernoon.com/a-linked-list-implementation-for-ethereum-deep-dive-oy9432pa)
+![](https://cdn.hackernoon.com/drafts/j9cg22p2.png)
+In this article I’ll introduce an implementation for Singly and Doubly Linked Lists, which you can reuse or modify for your own purposes. All the code is available in github or as an npm package.
 
-### [238. Access External Data in Solidity: A How-To Guide](https://hackernoon.com/access-external-data-in-solidity-a-how-to-guide-jh193zio)
+### [237. Access External Data in Solidity: A How-To Guide](https://hackernoon.com/access-external-data-in-solidity-a-how-to-guide-jh193zio)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMqYZe1ZQlXUEm7c6Pfbx6NCD0Wx2-cxap32g4.jpeg?alt=media&token=71030d21-92ea-4e0e-9eda-2b83d23a66f9)
 Original Image by ipopba from Getty Images Pro
 
-### [239. Did the SEC Just Throw Away the Howey Test?](https://hackernoon.com/did-the-sec-just-throw-away-the-howey-test-df56784b0f38)
-![](https://hackernoon.com/hn-images/1*pWUMmkIFF3XmOTPOjpHxUg.jpeg)
-The U.S. Securities and Exchange Commission (SEC) has been quiet since it shared its Report of Investigation on the DAO Token in late-July. Until yesterday, that&nbsp;is.
+### [238. 2018 Crypto Bear Market and What We Can Learn From It](https://hackernoon.com/2018-crypto-bear-market-and-what-we-can-learn-from-it-9s7h3y57)
+![](https://cdn.hackernoon.com/images/651lw321s.jpg)
+At the end of 2018, I was analyzing the reasons for the bear market in cryptocurrency. It is interesting to look back and check if something has changed. Potentially it could let us predict future movement and development.
 
-### [240. Blockchain Vulnerability Report—ΞthernautDAO Car Token CTF](https://hackernoon.com/blockchain-vulnerability-report3thernautdao-car-token-ctf)
+### [239. Blockchain Vulnerability Report—ΞthernautDAO Car Token CTF](https://hackernoon.com/blockchain-vulnerability-report3thernautdao-car-token-ctf)
 ![](https://cdn.hackernoon.com/images/m1cbdDMjSTOAxU5J967S7ykgCVT2-av93qa5.jpeg)
 Find out how HYDN won the recent EthernautDAO CTF Challenge by hacking the smart contracts after finding the blockchain's vulnerabilities and exploiting them. 
+
+### [240. Did the SEC Just Throw Away the Howey Test?](https://hackernoon.com/did-the-sec-just-throw-away-the-howey-test-df56784b0f38)
+![](https://hackernoon.com/hn-images/1*pWUMmkIFF3XmOTPOjpHxUg.jpeg)
+The U.S. Securities and Exchange Commission (SEC) has been quiet since it shared its Report of Investigation on the DAO Token in late-July. Until yesterday, that&nbsp;is.
 
 ### [241. Earning passive income from cryptocurrency in 2020: Market Review](https://hackernoon.com/earning-passive-income-from-cryptocurrency-in-2020-market-review-kzt3xom)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrrklQPNbspZjuipgqdjB7er0G6e2-nac28gw.jpeg?alt=media&token=d9009a53-9db7-4bc2-bd26-2e3fe5e24367)
@@ -980,65 +982,65 @@ Every crypto and DeFi enthusiast knows what difficulties he might face during bl
 ![](https://cdn.hackernoon.com/images/eaar324o.jpg)
 Source: https://brunch.co.kr/@curg/20
 
-### [244. China Enters Blockchain 3.0 Era](https://hackernoon.com/china-enters-blockchain-30-era-0m1u34a9)
-![](https://cdn.hackernoon.com/images/kWCckhKo2dhtLSXtJs08lmEZhcP2-v61h36cp.jpeg)
-China aims to improve the global scaling limitations of Bitcoin and Ethereum with Blockchain 3.0 technologies.
-
-### [245. How To Integrate Amazon Cognito with Ethereum Blockchain: A Step-by-Step Guide](https://hackernoon.com/how-to-integrate-amazon-cognito-with-ethereum-blockchain-a-step-by-step-guide-922235b2)
-![](https://cdn.hackernoon.com/images/p3MBv6MODlhNECyBHBCl7uErvRr2-ctcr373d.jpeg)
-Building a custom authentication flow using Amazon Cognito and MetaMask
-
-### [246. All About Dweb: Current Value, Decentralized Domain Names, and What to Expect in the Future](https://hackernoon.com/all-about-ens-current-value-decentralized-domain-names-and-what-to-expect-in-the-future)
+### [244. All About Dweb: Current Value, Decentralized Domain Names, and What to Expect in the Future](https://hackernoon.com/all-about-ens-current-value-decentralized-domain-names-and-what-to-expect-in-the-future)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-zi93ptv.jpeg)
 All You Need to Know about Web3 Centralization vs Decentralization: Websites, Domain Name Services, and More
 
-### [247. From Zero to Hero: Learning Web3 With Infura and Python](https://hackernoon.com/from-zero-to-hero-learning-web3-with-infura-and-python)
-![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-p192p0t.jpeg)
-Learning web3 development can seem daunting, even for experienced developers. Working with Python and Infura's API simplifies the initial learning process.
-
-### [248. Ethereum 2.0 staking on AWS: Cloud Staking Matters](https://hackernoon.com/ethereum-20-staking-on-aws-cloud-staking-matters)
+### [245. Ethereum 2.0 staking on AWS: Cloud Staking Matters](https://hackernoon.com/ethereum-20-staking-on-aws-cloud-staking-matters)
 ![](https://cdn.hackernoon.com/images/C02SFdKpN8Np96LZhU4R8cL6JjG2-8k7o35qf.jpeg)
 Learn how to stake Ethereum 2.0 independently with non-custodial Launchnodes. We dive into Ethereum staking on AWS and benefits of having no intermediaries.
+
+### [246. China Enters Blockchain 3.0 Era](https://hackernoon.com/china-enters-blockchain-30-era-0m1u34a9)
+![](https://cdn.hackernoon.com/images/kWCckhKo2dhtLSXtJs08lmEZhcP2-v61h36cp.jpeg)
+China aims to improve the global scaling limitations of Bitcoin and Ethereum with Blockchain 3.0 technologies.
+
+### [247. How To Integrate Amazon Cognito with Ethereum Blockchain: A Step-by-Step Guide](https://hackernoon.com/how-to-integrate-amazon-cognito-with-ethereum-blockchain-a-step-by-step-guide-922235b2)
+![](https://cdn.hackernoon.com/images/p3MBv6MODlhNECyBHBCl7uErvRr2-ctcr373d.jpeg)
+Building a custom authentication flow using Amazon Cognito and MetaMask
+
+### [248. From Zero to Hero: Learning Web3 With Infura and Python](https://hackernoon.com/from-zero-to-hero-learning-web3-with-infura-and-python)
+![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-p192p0t.jpeg)
+Learning web3 development can seem daunting, even for experienced developers. Working with Python and Infura's API simplifies the initial learning process.
 
 ### [249. Find Out How Much Wealth You Should Invest in Crypto ](https://hackernoon.com/find-out-how-much-wealth-you-should-invest-in-crypto)
 ![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-8e93lf7.jpeg)
 Check out the surrounding context and do not fall for media tricks. 
 
-### [250. Crypto Staking in 2020: An Overview](https://hackernoon.com/crypto-staking-in-2020-an-overview-jd5t300n)
-![](https://cdn.hackernoon.com/images/eq1r3z1p.jpg)
-Public blockchains involve active participants (miners, validators, node operators etc.) to contribute towards the common goal of strengthening the network and confirming transactions through some sort of distributed consensus algorithm. 
+### [250. A Brief Guide to Hybrid Contracts, Oracles, and Chainlink](https://hackernoon.com/a-brief-guide-to-hybrid-contracts-oracles-and-chainlink)
+![](https://cdn.hackernoon.com/images/SsN3jhaiTGYzpKfgSOu2EJPH03Y2-3xp37su.jpeg)
+Learn about the importance of Oracles and Decentralized Apps in the Ethrereum ecosystem.
 
-### [251. Restaking Step-by-step](https://hackernoon.com/restaking-step-by-step)
-![](https://cdn.hackernoon.com/images/V5YEuP3k8qZ0gfkXVHdCPalE3ET2-p8g3fos.jpeg)
-Ever since Ethereum became proof-of-stake, validators' rewards can be tokenized, turning them into a separate financial instruments.
-
-### [252. EIP-1559: Separating Mechanisms From Memes](https://hackernoon.com/eip-1559-separating-mechanisms-from-memes)
+### [251. EIP-1559: Separating Mechanisms From Memes](https://hackernoon.com/eip-1559-separating-mechanisms-from-memes)
 ![](https://cdn.hackernoon.com/images/WSQJfCSXOxWphTNQ7sneVvhdWGu1-4b035xj.jpeg)
 EIP-1559 is an important but misunderstood Ethereum upgrade. Learn the facts about EIP-1559, including its design goals, rationale, features, and benefits. 
 
-### [253. Decentralized Options Trading Protocols #101](https://hackernoon.com/decentralized-options-trading-protocols-101-251333ic)
-![](https://cdn.hackernoon.com/images/2l2GeubsxUOKb06hLQGHmToDdQy2-9083528.jpeg)
-Everything you need to know about Option Protocols in DeFi 
+### [252. Restaking Step-by-step](https://hackernoon.com/restaking-step-by-step)
+![](https://cdn.hackernoon.com/images/V5YEuP3k8qZ0gfkXVHdCPalE3ET2-p8g3fos.jpeg)
+Ever since Ethereum became proof-of-stake, validators' rewards can be tokenized, turning them into a separate financial instruments.
+
+### [253. Crypto Staking in 2020: An Overview](https://hackernoon.com/crypto-staking-in-2020-an-overview-jd5t300n)
+![](https://cdn.hackernoon.com/images/eq1r3z1p.jpg)
+Public blockchains involve active participants (miners, validators, node operators etc.) to contribute towards the common goal of strengthening the network and confirming transactions through some sort of distributed consensus algorithm. 
 
 ### [254. Ethereum Virtual Machines: Your Guide to create, create2 and create3](https://hackernoon.com/ethereum-virtual-machines-your-guide-to-create-create2-and-create3)
 ![](https://cdn.hackernoon.com/images/0yWFzvZxdnR06ofY5hSQmg6HXd32-4193q4s.jpeg)
 Dive into Ethereum's deployment tools: 'create' & 'create2' opcodes and 'create3' library. Optimize smart contract strategies for EVM-compatible blockchains.
 
-### [255. Data Availability Or: How Rollups Learned To Stop Worrying And Love Ethereum](https://hackernoon.com/data-availability-or-how-rollups-learned-to-stop-worrying-and-love-ethereum)
+### [255. Decentralized Options Trading Protocols #101](https://hackernoon.com/decentralized-options-trading-protocols-101-251333ic)
+![](https://cdn.hackernoon.com/images/2l2GeubsxUOKb06hLQGHmToDdQy2-9083528.jpeg)
+Everything you need to know about Option Protocols in DeFi 
+
+### [256. Data Availability Or: How Rollups Learned To Stop Worrying And Love Ethereum](https://hackernoon.com/data-availability-or-how-rollups-learned-to-stop-worrying-and-love-ethereum)
 ![](https://cdn.hackernoon.com/images/WSQJfCSXOxWphTNQ7sneVvhdWGu1-hd036k1.png)
 Data availability is a critical component of scaling Ethereum. Learn how and why Layer 2 rollups use Ethereum for data availability—and why this matters. 
 
-### [256. A Brief Guide to Hybrid Contracts, Oracles, and Chainlink](https://hackernoon.com/a-brief-guide-to-hybrid-contracts-oracles-and-chainlink)
-![](https://cdn.hackernoon.com/images/SsN3jhaiTGYzpKfgSOu2EJPH03Y2-3xp37su.jpeg)
-Learn about the importance of Oracles and Decentralized Apps in the Ethrereum ecosystem.
-
-### [257. The 4-Hour a Month Crypto Investor: How to Make Money When You’re Short on Time](https://hackernoon.com/the-4-hour-a-month-crypto-investor-how-to-make-money-when-youre-short-on-time-vai3wgc)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSIVzsDLBsVRHH7WMxQdQSyFkE7D2-g13l3u71.jpeg?alt=media&token=25eb37bb-ecea-4308-b80e-191b5ad0e01e)
-*This article contains some referral links
-
-### [258. Ethereum Merge One Year Later: What We've Learned about Block Building, MEV-Boost, and Relays](https://hackernoon.com/ethereum-merge-one-year-later-what-weve-learned-about-block-building-mev-boost-and-relays)
+### [257. Ethereum Merge One Year Later: What We've Learned about Block Building, MEV-Boost, and Relays](https://hackernoon.com/ethereum-merge-one-year-later-what-weve-learned-about-block-building-mev-boost-and-relays)
 ![](https://cdn.hackernoon.com/images/ethereum-merge-tcyykcz05aujt30enppjl12c.png)
 Over the past year, Ethereum’s journey has been punctuated by encounters with malevolent entities, unintended software anomalies, etc.
+
+### [258. The 4-Hour a Month Crypto Investor: How to Make Money When You’re Short on Time](https://hackernoon.com/the-4-hour-a-month-crypto-investor-how-to-make-money-when-youre-short-on-time-vai3wgc)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSIVzsDLBsVRHH7WMxQdQSyFkE7D2-g13l3u71.jpeg?alt=media&token=25eb37bb-ecea-4308-b80e-191b5ad0e01e)
+*This article contains some referral links
 
 ### [259. We Built An Email & SMS Crypto Alerts So That You Don't Miss Out On The Wild Price Movements](https://hackernoon.com/we-built-an-email-and-sms-crypto-alerts-so-that-you-dont-miss-out-on-the-wild-price-movements-7l3o34d0)
 ![](https://cdn.hackernoon.com/images/SRvUCgJp0OSizpV52uxp6qGWEPF3-di10345p.jpeg)
@@ -1096,13 +1098,13 @@ The second-largest cryptocurrency in the world is implementing a network upgrade
 ![](https://cdn.hackernoon.com/images/n3cr36gb.jpg)
 Chainlink(LINK) has been one of the best performant crypto assets in 2019 and one that remains an enigma for most crypto investors. This is partly because Chainlink is not a general purpose cryptocurrency but rather a programmable token focus on one of the biggest use cases for decentralized applications(DApps): integration. 
 
-### [273. How We’re Getting the NFL to Buy Cryptocurrency](https://hackernoon.com/how-were-getting-the-nfl-to-buy-cryptocurrency-2938c03a647a)
-![](https://hackernoon.com/hn-images/1*tEt1_QvNK6D7MRUfVISxGw.jpeg)
-Two milestones were achieved in the past month: the total amount raised by ICOs in 2017 crossed $1 billion, putting us on a $2-billion pace for the year, and the total market capitalization of cryptocurrencies crossed and settled over $100 billion.
-
-### [274. Become a Web3 Developer by Exploring the Web3 Stack](https://hackernoon.com/become-a-web3-developer-by-exploring-the-web3-stack)
+### [273. Become a Web3 Developer by Exploring the Web3 Stack](https://hackernoon.com/become-a-web3-developer-by-exploring-the-web3-stack)
 ![](https://cdn.hackernoon.com/images/web-3-developer-clggq8ntz000001s6g7l4cgo6.png)
 What skills exactly do you need to be a web3 developer, and how are they different from what you already know?
+
+### [274. How We’re Getting the NFL to Buy Cryptocurrency](https://hackernoon.com/how-were-getting-the-nfl-to-buy-cryptocurrency-2938c03a647a)
+![](https://hackernoon.com/hn-images/1*tEt1_QvNK6D7MRUfVISxGw.jpeg)
+Two milestones were achieved in the past month: the total amount raised by ICOs in 2017 crossed $1 billion, putting us on a $2-billion pace for the year, and the total market capitalization of cryptocurrencies crossed and settled over $100 billion.
 
 ### [275. 6 Crypto Trends that Will Dominate 2022](https://hackernoon.com/6-crypto-trends-that-will-dominate-2022)
 ![](https://cdn.hackernoon.com/images/ZW20EUTPJfhox7MUgWdXzwwwm2g1-0v1389f.jpeg)
@@ -1112,13 +1114,13 @@ Making profits in crypto is all about being early. In this article I present my 
 ![](https://cdn.hackernoon.com/images/rscGVu1vX8WNtXsyonbuBdy160t1-1r02h55.jpeg)
 A guide on the Yul and Yul+ Ethereum Smart Contract programming languages also save gas Ethereum
 
-### [277. Let's Disrupt Ticketmaster by Building a Web3 Ticketing System](https://hackernoon.com/lets-disrupt-ticketmaster-by-building-a-web3-ticketing-system)
-![](https://cdn.hackernoon.com/images/a-rock-concert-in-a-big-stadium-clguljveo000a01s63ohr1wow.png)
-While major players such as Ticketmaster struggle to mitigate scalpers and ticket fraud—web3 already has a solution. 
-
-### [278. Decentralized Autonomous Organization - The Future of Management for Agriculture Sector](https://hackernoon.com/decentralized-autonomous-organization-the-future-of-management-f61l830nv)
+### [277. Decentralized Autonomous Organization - The Future of Management for Agriculture Sector](https://hackernoon.com/decentralized-autonomous-organization-the-future-of-management-f61l830nv)
 ![](https://cdn.hackernoon.com/images/ma1je30kg.jpg)
 Businesses, to stand out from each other, are coming out with different blockchain approaches targeting different sectors. Blockchain initially hit the financial market when it was introduced, followed by data management, software development and more. 
+
+### [278. Let's Disrupt Ticketmaster by Building a Web3 Ticketing System](https://hackernoon.com/lets-disrupt-ticketmaster-by-building-a-web3-ticketing-system)
+![](https://cdn.hackernoon.com/images/a-rock-concert-in-a-big-stadium-clguljveo000a01s63ohr1wow.png)
+While major players such as Ticketmaster struggle to mitigate scalpers and ticket fraud—web3 already has a solution. 
 
 ### [279. What You Don't Know About Non Fungible Tokens (NFTs) and Decentralized Finance (DeFi)](https://hackernoon.com/what-you-dont-know-about-non-fungible-tokens-nfts-and-decentralized-finance-defi-bq5g3zpa)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKTEJnDhnIKRDwTvEqcpOyOu82RD3-23j03w4s.jpeg?alt=media&token=87443370-f329-439c-b920-2e9144972420)
@@ -1132,21 +1134,21 @@ The way the world interacts with visual art is changing. As we move towards a mo
 ![](https://cdn.hackernoon.com/images/dfnkKGGdaveDKSte2xzbUj73T6z2-j629376m.jpeg)
 Automated Market Makers (AMM) seem to be a faster alternative to previous models in the decentralized ecosystem, as they remove a counterparty from a trade.
 
-### [282. A Brief Guide to Advanced Smart Contracts](https://hackernoon.com/a-brief-guide-to-advanced-smart-contracts-3vbq30oq)
-![](https://cdn.hackernoon.com/drafts/hu1lj3zyp.png)
-The roaring popularity of blockchain technology owes a great deal to the brilliance of smart contracts. Conceptualized by computer scientist Nick Szabo in 1994, a smart contract can be considered to be a set of instructions (usually in the form of a computer program) which automatically execute when the terms of a ‘contract’ are fulfilled. 
-
-### [283. Why 2024 is the Year of BRC-20 Tokens](https://hackernoon.com/why-2024-is-the-year-of-brc-20-tokens)
+### [282. Why 2024 is the Year of BRC-20 Tokens](https://hackernoon.com/why-2024-is-the-year-of-brc-20-tokens)
 ![](https://cdn.hackernoon.com/images/bitcoin-vhzxamnm529662ktwpecjy53.png)
 As the crypto industry continues to evolve, we are seeing the emergence of fungible tokens on other blockchains, with the most recent one being Bitcoin BRC-20.
 
-### [284. Harmony Ecosystem Fund Approved 21 New Grants in January](https://hackernoon.com/harmony-ecosystem-fund-approved-21-new-grants-in-january)
-![](https://cdn.hackernoon.com/images/KGTFaWujV3WROYDbGn02182ZFGF3-ps63jet.jpeg)
-Harmony Protocol has already approved 21 proposals to be part of its $300M Ecosystem Fund in January 2022.
+### [283. A Brief Guide to Advanced Smart Contracts](https://hackernoon.com/a-brief-guide-to-advanced-smart-contracts-3vbq30oq)
+![](https://cdn.hackernoon.com/drafts/hu1lj3zyp.png)
+The roaring popularity of blockchain technology owes a great deal to the brilliance of smart contracts. Conceptualized by computer scientist Nick Szabo in 1994, a smart contract can be considered to be a set of instructions (usually in the form of a computer program) which automatically execute when the terms of a ‘contract’ are fulfilled. 
 
-### [285. Mapping the Web3 Abyss](https://hackernoon.com/mapping-the-web3-abyss)
+### [284. Mapping the Web3 Abyss](https://hackernoon.com/mapping-the-web3-abyss)
 ![](https://cdn.hackernoon.com/images/Qba5s3Jm3tf7wieS5ydYonkEJSh2-c2a3l6z.jpeg)
 Much like the titular abyss in the manga and anime series Made in Abyss, the Web3 economy keeps dragging delvers further down. Read what happens to them... 
+
+### [285. Harmony Ecosystem Fund Approved 21 New Grants in January](https://hackernoon.com/harmony-ecosystem-fund-approved-21-new-grants-in-january)
+![](https://cdn.hackernoon.com/images/KGTFaWujV3WROYDbGn02182ZFGF3-ps63jet.jpeg)
+Harmony Protocol has already approved 21 proposals to be part of its $300M Ecosystem Fund in January 2022.
 
 ### [286. RNG in Solidity for Ethereum?](https://hackernoon.com/how-to-generate-random-numbers-in-solidity-lh7rj39s9)
 ![](https://cdn.hackernoon.com/images/4df939hy.jpg)
@@ -1160,25 +1162,25 @@ Nothing in this document constitutes financial advice.
 ![](https://cdn.hackernoon.com/images/FS1PiuQb1sWxoW2ESuJpZswu0xk2-ku83c3v.jpeg)
 The Covalent Network is committed to providing archival data for a wide range of parties who rely on this information with the Ethereum Wayback Machine (EWM)
 
-### [289. Solana Network Seems Extremely Promising but Isn’t Yet Battle-Tested](https://hackernoon.com/solana-network-seems-extremely-promising-but-isnt-yet-battle-tested)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-ya039u3.jpeg)
-This article talks about cross-chain DEX and how different blockchains such as Solana are distributing the smart contract industry. 
-
-### [290. Based Post-Capitalism: Layer 2 and 3 Chains as Foundations for New Economies](https://hackernoon.com/based-post-capitalism-layer-2-and-3-chains-as-foundations-for-new-economies)
+### [289. Based Post-Capitalism: Layer 2 and 3 Chains as Foundations for New Economies](https://hackernoon.com/based-post-capitalism-layer-2-and-3-chains-as-foundations-for-new-economies)
 ![](https://cdn.hackernoon.com/images/O3ExkkkOJffbIIXfhhQ6gWgl6fr2-oh020nk.png)
 Based rollups represent the ideal infrastructure for post-capitalist economies. 
 
-### [291. Fixed point math in Solidity](https://hackernoon.com/fixed-point-math-in-solidity-616f4508c6e8)
+### [290. The Five Generations of Blockchain: From Bitcoin to Everscale](https://hackernoon.com/the-five-generations-of-blockchain-from-bitcoin-to-everscale)
+![](https://cdn.hackernoon.com/images/ANdDUZCX7rbGGUY9Uhedg1VoSfb2-1h934bv.jpeg)
+ The first 4 generations of blockchains may offer some of the market’s needs, but older infrastructures cannot withstand the throughput required.
+
+### [291. Solana Network Seems Extremely Promising but Isn’t Yet Battle-Tested](https://hackernoon.com/solana-network-seems-extremely-promising-but-isnt-yet-battle-tested)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-ya039u3.jpeg)
+This article talks about cross-chain DEX and how different blockchains such as Solana are distributing the smart contract industry. 
+
+### [292. Fixed point math in Solidity](https://hackernoon.com/fixed-point-math-in-solidity-616f4508c6e8)
 ![](https://cdn.hackernoon.com/hn-images/1*pHGDsFygjdQsRylqMfuI_g.jpeg)
 It always seems impossible until it’s done. — Nelson Mandela
 
-### [292. Explaining Blockchain in 550 Words](https://hackernoon.com/explaining-blockchain-in-550-words)
+### [293. Explaining Blockchain in 550 Words](https://hackernoon.com/explaining-blockchain-in-550-words)
 ![](https://cdn.hackernoon.com/images/hEM2qRoEBzf0Jz7Xp9oBtkuHuEm2-gv135vs.jpeg)
 What's the technology behind cryptocurrencies and blockchain? It's a magic book that's based on magic.
-
-### [293. The Five Generations of Blockchain: From Bitcoin to Everscale](https://hackernoon.com/the-five-generations-of-blockchain-from-bitcoin-to-everscale)
-![](https://cdn.hackernoon.com/images/ANdDUZCX7rbGGUY9Uhedg1VoSfb2-1h934bv.jpeg)
- The first 4 generations of blockchains may offer some of the market’s needs, but older infrastructures cannot withstand the throughput required.
 
 ### [294. Minting an NFT on the Polygon Network With Truffle and Infura](https://hackernoon.com/minting-an-nft-on-the-polygon-network-with-truffle-and-infura)
 ![](https://cdn.hackernoon.com/images/YpGUqiNYo2Sl2tRp2O2FS0ePM0V2-0r93f06.jpeg)
@@ -1196,57 +1198,57 @@ Decentralized prediction markets are smart contracts that stipulate who gets pai
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpaSE3gvLy1NGp7gqSgGshdcyrO72-a8dz3x9i.png?alt=media&token=96f82294-4d0f-4cee-aa84-9477c704982d)
 Public blockchains enable us to build decentralized web applications (Dapps) that are censorship-resistant and have built-in economic incentives. 
 
-### [298. Top 10 Ethereum NFT Projects to Follow in 2022](https://hackernoon.com/top-10-ethereum-nft-projects-to-follow-in-2022)
-![](https://cdn.hackernoon.com/images/xyKefor0QEWyJg1HcXLA5QnHIOf1-qya3gma.jpeg)
-Decentraland, Gods Unchained, and Cryptodads are among the best Ethereum NFT projects to follow in 2022.
-
-### [299. Examining 3 DeFi Tokens with a Fully Diluted Market Cap Less Than $200M](https://hackernoon.com/examining-3-defi-tokens-with-a-fully-diluted-market-cap-less-than-dollar200m-e31834di)
-![](https://cdn.hackernoon.com/images/C7LGfLlZs3OY2w0N7r4ePehwKBI2-8r4i3ld6.jpeg)
-A look at DeFi projects that have a technological foundation due to their Blockchain proposal within the crypto ecosystem, with a low Fully Diluted Market Cap
-
-### [300. The Life Changing Magic Of.. Nothing — How Everyone Spent $1.3M to Receive 'Nothing' in Return](https://hackernoon.com/the-life-changing-magic-of-nothing-how-everyone-spent-$13m-to-receive-nothing-in-return)
+### [298. The Life Changing Magic Of.. Nothing — How Everyone Spent $1.3M to Receive 'Nothing' in Return](https://hackernoon.com/the-life-changing-magic-of-nothing-how-everyone-spent-$13m-to-receive-nothing-in-return)
 ![](https://cdn.hackernoon.com/images/sZgLpNbOPtQFz0sTBASstUpb7kG2-8fp3pbv.jpeg)
 Pauly really seems to be having fun with all the memes, jokes and unfolding the whole theme of “nothing”.
 
-### [301. A Step-by-Step Guide to Authenticating Users in Your DApp with 'Sign in with Ethereum'](https://hackernoon.com/a-step-by-step-guide-to-authenticating-users-in-your-dapp-with-sign-in-with-ethereum)
-![](https://cdn.hackernoon.com/images/Pag22dDowMftWpOYNEh2VnQtjy63-w392rau.jpeg)
-Connecting Your Decentralized Application (Dapp) with a Backend: A Step-by-Step Guide.
+### [299. Top 10 Ethereum NFT Projects to Follow in 2022](https://hackernoon.com/top-10-ethereum-nft-projects-to-follow-in-2022)
+![](https://cdn.hackernoon.com/images/xyKefor0QEWyJg1HcXLA5QnHIOf1-qya3gma.jpeg)
+Decentraland, Gods Unchained, and Cryptodads are among the best Ethereum NFT projects to follow in 2022.
 
-### [302. The Opportunities That Lie Before The Indian Crypto Ecosystem and What's Being Done With It](https://hackernoon.com/the-opportunities-that-lie-before-the-indian-crypto-ecosystem-and-whats-being-done-with-it-szjg32w2)
-![](https://cdn.hackernoon.com/drafts/bcn32j9.png)
-On March 04, 2020, India finally got the trigger for the resurgence of its crypto ecosystem. The ruling came a stifling two years after RBI banned banks from facilitating banking services to crypto exchanges.
+### [300. Examining 3 DeFi Tokens with a Fully Diluted Market Cap Less Than $200M](https://hackernoon.com/examining-3-defi-tokens-with-a-fully-diluted-market-cap-less-than-dollar200m-e31834di)
+![](https://cdn.hackernoon.com/images/C7LGfLlZs3OY2w0N7r4ePehwKBI2-8r4i3ld6.jpeg)
+A look at DeFi projects that have a technological foundation due to their Blockchain proposal within the crypto ecosystem, with a low Fully Diluted Market Cap
 
-### [303. Zero-Knowledge Proofs: The Simplest Explanation on the Internet](https://hackernoon.com/zero-knowledge-proofs-the-simplest-explanation-on-the-internet-yf6g37nq)
+### [301. Zero-Knowledge Proofs: The Simplest Explanation on the Internet](https://hackernoon.com/zero-knowledge-proofs-the-simplest-explanation-on-the-internet-yf6g37nq)
 ![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-762y379i.jpeg)
 history, concepts, principles, technical implementation, and development status of zero-knowledge proofs in the simplest language ever
 
-### [304. YouTube Fake Crypto Giveaways Explained - Behind The Account Hacks](https://hackernoon.com/youtube-fake-crypto-giveaways-explained-behind-the-account-hacks-3b2o31yc)
-![](https://cdn.hackernoon.com/drafts/jpq73tni.png)
-Maybe you have noticed that there is a lot of fake Binance, Ethereum, Ripple and Bitcoin Cash streams on Youtube lately. The crazy part is that those live streams are on a big accounts with thousands of subscribers.
+### [302. A Step-by-Step Guide to Authenticating Users in Your DApp with 'Sign in with Ethereum'](https://hackernoon.com/a-step-by-step-guide-to-authenticating-users-in-your-dapp-with-sign-in-with-ethereum)
+![](https://cdn.hackernoon.com/images/Pag22dDowMftWpOYNEh2VnQtjy63-w392rau.jpeg)
+Connecting Your Decentralized Application (Dapp) with a Backend: A Step-by-Step Guide.
 
-### [305. EIP-6110: Revamping Ethereum Validator Onboarding ](https://hackernoon.com/eip-6110-revamping-ethereum-validator-onboarding)
+### [303. The Opportunities That Lie Before The Indian Crypto Ecosystem and What's Being Done With It](https://hackernoon.com/the-opportunities-that-lie-before-the-indian-crypto-ecosystem-and-whats-being-done-with-it-szjg32w2)
+![](https://cdn.hackernoon.com/drafts/bcn32j9.png)
+On March 04, 2020, India finally got the trigger for the resurgence of its crypto ecosystem. The ruling came a stifling two years after RBI banned banks from facilitating banking services to crypto exchanges.
+
+### [304. EIP-6110: Revamping Ethereum Validator Onboarding ](https://hackernoon.com/eip-6110-revamping-ethereum-validator-onboarding)
 ![](https://cdn.hackernoon.com/images/WSQJfCSXOxWphTNQ7sneVvhdWGu1-1w136br.jpeg)
 EIP-6110 simplifies Ethereum validator deposits by moving them on-chain, reducing technical debt, simplifying block validation, and enhancing network efficiency
 
-### [306. Arbitrum Architecture: Inbox](https://hackernoon.com/arbitrum-architecture-inbox)
+### [305. Arbitrum Architecture: Inbox](https://hackernoon.com/arbitrum-architecture-inbox)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-t393pdf.jpeg)
 Arbitrum's design influences lots of successor rollups and we will dive deep into the core communication component that lets it operate correctly, the inbox.
 
-### [307. The Rise of Digital Neo-Colonialism](https://hackernoon.com/the-rise-of-digital-neo-colonialism-rc1h3xdr)
-![](https://cdn.hackernoon.com/images/jae83x75.jpg)
-OR: Decentralized Exploitation, a cautionary tail about Blockchain.
+### [306. How Rust and Elixir Read Ethereum and other EVM Smart Contracts: Functional Programming & Blockchain](https://hackernoon.com/how-rust-and-elixir-read-ethereum-and-other-evm-smart-contracts-functional-programming-and-blockchain)
+![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-fols38qp.jpeg)
+I am going to show the function of reading Ethereum Smart Contract by Elixir&Rust in this article
+
+### [307. YouTube Fake Crypto Giveaways Explained - Behind The Account Hacks](https://hackernoon.com/youtube-fake-crypto-giveaways-explained-behind-the-account-hacks-3b2o31yc)
+![](https://cdn.hackernoon.com/drafts/jpq73tni.png)
+Maybe you have noticed that there is a lot of fake Binance, Ethereum, Ripple and Bitcoin Cash streams on Youtube lately. The crazy part is that those live streams are on a big accounts with thousands of subscribers.
 
 ### [308. Real Estate vs Virtual Lands: New Verticals of a Global Economy](https://hackernoon.com/real-estate-vs-virtual-lands-new-verticals-of-a-global-economy-dh373zc1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FfbnUVjnl8Hh4qtRO7PCOLjKggfn1-t2p3xgz.jpeg?alt=media&token=9930f356-59d4-412e-8a84-2584f2904e3c)
 2020 has been quite challenging for a lot of people. When the year started, the COVID-19 pandemic hit, and the majority of nations went into lockdown, which caused the global economy to plunge. A number of important industries have been negatively affected, and one of the sectors that suffered the most was the real estate space. 
 
-### [309. A Primer to Ethereum Development On Android using Web3j and Infura](https://hackernoon.com/an-introduction-to-ethereum-development-with-android-using-web3j-and-infura-x13513s5l)
+### [309. The Rise of Digital Neo-Colonialism](https://hackernoon.com/the-rise-of-digital-neo-colonialism-rc1h3xdr)
+![](https://cdn.hackernoon.com/images/jae83x75.jpg)
+OR: Decentralized Exploitation, a cautionary tail about Blockchain.
+
+### [310. A Primer to Ethereum Development On Android using Web3j and Infura](https://hackernoon.com/an-introduction-to-ethereum-development-with-android-using-web3j-and-infura-x13513s5l)
 ![](https://cdn.hackernoon.com/drafts/h81pg3sdp.png)
 Recently I decided I would like to get a bit more into Ethereum development, as blockchain technology had always interested me but I never got around to actually making a project with it. With Android being my favorite environment, I decided this would be my platform. However, upon starting I noticed it was quite difficult to find much information about Ethereum development in mobile, leading to the creation of this article, where I’ll show you how to make a simple Ethereum application using web3j on the Ethereum Testnet Rinkeby.
-
-### [310. How Rust and Elixir Read Ethereum and other EVM Smart Contracts: Functional Programming & Blockchain](https://hackernoon.com/how-rust-and-elixir-read-ethereum-and-other-evm-smart-contracts-functional-programming-and-blockchain)
-![](https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-fols38qp.jpeg)
-I am going to show the function of reading Ethereum Smart Contract by Elixir&Rust in this article
 
 ### [311. How the Upcoming 'Merge' of Ethereum Impacts Cryptocurrency](https://hackernoon.com/how-the-upcoming-merge-of-ethereum-impacts-cryptocurrency)
 ![](https://cdn.hackernoon.com/images/pHPzB75Dend8z7smfYkLmiZ2Xfx1-kh92kwo.jpeg)
@@ -1302,96 +1304,108 @@ Kaspa has made the blockchain trilemma a thing of the past with it's approach an
 ![](https://cdn.hackernoon.com/drafts/v0tf3228.png)
 Three example configurations for the new OpenZeppelin access control contract.
 
-### [324. Polkadot and its Funky Family!](https://hackernoon.com/polkadot-and-its-funky-family-mzk33dd)
-![](https://cdn.hackernoon.com/images/Kmt2h6pCM6hahhfBJVS4z0H2QtG2-p37633x2.jpeg)
-Polkadot has been one of the most talked about blockchain projects in recent times. A host of innovative blockchain projects are being developed within the Polkadot ecosystem.
-
-### [325. Are Gold-Backed Stablecoins The New Cryptocurrency Standard?](https://hackernoon.com/are-gold-backed-stablecoins-the-new-cryptocurrency-standard-yu1v3xwv)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7LrDe0NwaTW40HBSsVuBSPeo2yd2-im63e3j.jpeg?alt=media&token=2e5495d1-1978-4d27-8566-6b5f226062b5)
-Cryptocurrencies, although the best assets of the financial world, have since inception in 2009 seen their fair share of volatility-related issues. Bitcoin has historically been the most volatile of all crypto assets. 
-
-### [326. Account Abstraction, Analysed: Account Abstraction](https://hackernoon.com/account-abstraction-analysed-account-abstraction)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7l82mgi.jpeg)
-Accounts within the Ethereum ecosystem serve as the bedrock for asset querying, storage, and transactions, constituting a pivotal element of its infrastructure.
-
-### [327. In the 90s, Web 1.0 was Running on a Fully Decentralized Infrastructure](https://hackernoon.com/in-the-90s-web-10-was-running-on-a-fully-decentralized-infrastructure)
+### [324. In the 90s, Web 1.0 was Running on a Fully Decentralized Infrastructure](https://hackernoon.com/in-the-90s-web-10-was-running-on-a-fully-decentralized-infrastructure)
 ![](https://cdn.hackernoon.com/images/WqPyFF6lxNYZzltHlF27wpMxel62-m823ein.jpeg)
 How Ethereum’s composability created the most innovative ecosystem to date.
 
 
-### [328. The Future of the Creator Economy](https://hackernoon.com/the-future-of-the-creator-economy)
+### [325. Account Abstraction, Analysed: Account Abstraction](https://hackernoon.com/account-abstraction-analysed-account-abstraction)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7l82mgi.jpeg)
+Accounts within the Ethereum ecosystem serve as the bedrock for asset querying, storage, and transactions, constituting a pivotal element of its infrastructure.
+
+### [326. The Future of the Creator Economy](https://hackernoon.com/the-future-of-the-creator-economy)
 ![](https://cdn.hackernoon.com/images/KGTFaWujV3WROYDbGn02182ZFGF3-sq7394w.jpeg)
 The #creatoreconomy is changing quickly with the influence of #NFT #Crypto and #blockchain.
+
+### [327. Are Gold-Backed Stablecoins The New Cryptocurrency Standard?](https://hackernoon.com/are-gold-backed-stablecoins-the-new-cryptocurrency-standard-yu1v3xwv)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7LrDe0NwaTW40HBSsVuBSPeo2yd2-im63e3j.jpeg?alt=media&token=2e5495d1-1978-4d27-8566-6b5f226062b5)
+Cryptocurrencies, although the best assets of the financial world, have since inception in 2009 seen their fair share of volatility-related issues. Bitcoin has historically been the most volatile of all crypto assets. 
+
+### [328. Polkadot and its Funky Family!](https://hackernoon.com/polkadot-and-its-funky-family-mzk33dd)
+![](https://cdn.hackernoon.com/images/Kmt2h6pCM6hahhfBJVS4z0H2QtG2-p37633x2.jpeg)
+Polkadot has been one of the most talked about blockchain projects in recent times. A host of innovative blockchain projects are being developed within the Polkadot ecosystem.
 
 ### [329. How Hedera's Unique Features and HBAR Are Attracting Creators  and Challenging Ethereum's Leaders](https://hackernoon.com/how-hederas-unique-features-and-hbar-are-attracting-creators-and-and-challenging-ethereums-leaders)
 ![](https://cdn.hackernoon.com/images/zaGs6Q0I7SY8qLi6ofbogocZVlJ2-ty9376t.jpeg)
 However, Hedera Hashgraph is emerging as a strong contender in the blockchain space, offering an alternative to Ethereum and other established networks.
 
-### [330. Can EOS Transactions Be Truly Free?](https://hackernoon.com/can-eos-transactions-be-truly-free-bx1g348p)
-![](https://cdn.hackernoon.com/images/MuSFgklRr4RMpUZrrxDxDr6lRFy2-aam3p0p.jpeg)
-Sometimes the EOS platform is advertised as an ecosystem that doesn't require any fees for making transactions. Technically, it is true. However, if you try to make an EOS transaction you will eventually find out that you need to put some of your EOS coins on hold. 
-
-### [331. Can DeFi Alter The World’s Wealth Distribution?](https://hackernoon.com/can-defi-alter-the-worlds-wealth-distribution-5b1m3wkl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FG4c0mKDuXtYeU3hBz2BGEyW6QbA2-f0m3tqr.jpeg?alt=media&token=2dbe081a-9aa9-4eed-99e8-23a87a427433)
-What do Finance guys do? They do nothing. 
-
-### [332. An Introductory Guide to Blockchain Nodes  ](https://hackernoon.com/an-introductory-guide-to-blockchain-nodes)
+### [330. An Introductory Guide to Blockchain Nodes  ](https://hackernoon.com/an-introductory-guide-to-blockchain-nodes)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-2683lz5.jpeg)
 Understanding Blockchain Nodes, the backbone of crypto networks.
 
-### [333. HELP! There’s a JWT in my Metaverse!](https://hackernoon.com/help-theres-a-jwt-in-my-metaverse)
+### [331. abc](https://hackernoon.com/coindex-labs-novel-search-applied-via-evolutionary-ai-creating-a-money-making-machine-n62j2gei)
+![](https://cdn.hackernoon.com/images/uoio33l1.jpg)
+1. Introduction
+
+### [332. HELP! There’s a JWT in my Metaverse!](https://hackernoon.com/help-theres-a-jwt-in-my-metaverse)
 ![](https://cdn.hackernoon.com/images/kVpjfmfbglT2utAK2vk9aw1Y7e23-8da3h08.jpeg)
 Are JWTs really dead, or are they just misunderstood? In this article, Patrick Lee Scott explores the usage of JWTs in a web3 world.
 
-### [334. Is Ethereum in Trouble? No. So Why Does Everyone Say Otherwise?](https://hackernoon.com/is-ethereum-in-trouble-no-so-why-does-everyone-say-otherwise)
+### [333. Can EOS Transactions Be Truly Free?](https://hackernoon.com/can-eos-transactions-be-truly-free-bx1g348p)
+![](https://cdn.hackernoon.com/images/MuSFgklRr4RMpUZrrxDxDr6lRFy2-aam3p0p.jpeg)
+Sometimes the EOS platform is advertised as an ecosystem that doesn't require any fees for making transactions. Technically, it is true. However, if you try to make an EOS transaction you will eventually find out that you need to put some of your EOS coins on hold. 
+
+### [334. Can DeFi Alter The World’s Wealth Distribution?](https://hackernoon.com/can-defi-alter-the-worlds-wealth-distribution-5b1m3wkl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FG4c0mKDuXtYeU3hBz2BGEyW6QbA2-f0m3tqr.jpeg?alt=media&token=2dbe081a-9aa9-4eed-99e8-23a87a427433)
+What do Finance guys do? They do nothing. 
+
+### [335. Is Ethereum in Trouble? No. So Why Does Everyone Say Otherwise?](https://hackernoon.com/is-ethereum-in-trouble-no-so-why-does-everyone-say-otherwise)
 ![](https://cdn.hackernoon.com/images/V5YEuP3k8qZ0gfkXVHdCPalE3ET2-be03hfw.webp)
 Ethereum has many so-called "killers," though most of them look more like self-destructive projects.
 
-### [335. AppliedZKP zkEVM Circuit Code: A Guide](https://hackernoon.com/appliedzkp-zkevm-circuit-code-a-guide)
+### [336. AppliedZKP zkEVM Circuit Code: A Guide](https://hackernoon.com/appliedzkp-zkevm-circuit-code-a-guide)
 ![](https://cdn.hackernoon.com/images/Ns6mVt8NqgNkfsouVyus9tAe3mB2-xp238nv.jpeg)
 This text aims to provide an easy guide to the basic framework and logic of the AppliedZKP zkEVM code base. 
 
-### [336. Not by Ethereum Alone: The Real Reason Blockchain Didn’t Work Out for DocuSign](https://hackernoon.com/not-by-ethereum-alone-the-real-reason-blockchain-didnt-work-out-for-docusign-sy1m33pq)
+### [337. Not by Ethereum Alone: The Real Reason Blockchain Didn’t Work Out for DocuSign](https://hackernoon.com/not-by-ethereum-alone-the-real-reason-blockchain-didnt-work-out-for-docusign-sy1m33pq)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-vk1k3350.jpeg)
 Companies can determine whether they should invest in blockchain by focusing on specific use cases and their market position.
-
-### [337. The Future of Cryptos Will Follow the History of the Internet](https://hackernoon.com/google-internet-stocks-and-ethereum-lbp3awl)
-![](https://cdn.hackernoon.com/images/xxjs3aak.jpg)
-Google, Internet Stocks and Ethereum
 
 ### [338. Ethereum Tokens: A Dive With ERC 777 And Risk Mitigations](https://hackernoon.com/ethereum-tokens-a-dive-with-erc-777-and-risk-mitigations)
 ![](https://cdn.hackernoon.com/images/PkQuJKlu9nNWNKZZvgn8YD6Eyhk1-1593jqh.jpeg)
 Ethereum tokens: a dive into ERC77,ERC20 and smart contract risk reduction strategies for people considering investing money into Ethereum-based tokens
 
-### [339. How to Build an NFT Project with Foundry & Figment DataHub](https://hackernoon.com/how-to-build-an-nft-project-with-foundry-and-figment-datahub)
+### [339. The Future of Cryptos Will Follow the History of the Internet](https://hackernoon.com/google-internet-stocks-and-ethereum-lbp3awl)
+![](https://cdn.hackernoon.com/images/xxjs3aak.jpg)
+Google, Internet Stocks and Ethereum
+
+### [340. How to Build an NFT Project with Foundry & Figment DataHub](https://hackernoon.com/how-to-build-an-nft-project-with-foundry-and-figment-datahub)
 ![](https://cdn.hackernoon.com/images/1wxb7KFiLLZ3JZeC4tWn5VDhvaM2-eva2adi.jpeg)
 Write, test and deploy an NFT with Foundry and Figment Datahub.
 
-### [340. Solving the Integer Overflow/Underflow Vulnerability in Smart Contracts](https://hackernoon.com/solving-the-integer-overflowunderflow-vulnerability-in-smart-contracts)
+### [341. Solving the Integer Overflow/Underflow Vulnerability in Smart Contracts](https://hackernoon.com/solving-the-integer-overflowunderflow-vulnerability-in-smart-contracts)
 ![](https://cdn.hackernoon.com/images/kw3QJxcqVgfN1ahfqsw2FRBwNcD3-0oa3qd3.jpeg)
 This blog post describes the integer overflow/underflow vulnerability in Ethereum smart contracts and how it can be fixed. Read on to know more… 
 
-### [341. Marketing was Key to Moonbirds Becoming a Super Successful NFT](https://hackernoon.com/marketing-was-key-to-moonbirds-becoming-a-super-successful-nft)
+### [342. Marketing was Key to Moonbirds Becoming a Super Successful NFT](https://hackernoon.com/marketing-was-key-to-moonbirds-becoming-a-super-successful-nft)
 ![](https://cdn.hackernoon.com/images/IZH5VrBxylTJuG6oTbU11LwJemA3-rqv34fp.jpeg)
 Moonbirds is a super successful NFT. Let's do a marketing review how this NFT drop was done and promoted.
-
-### [342. A Deep Dive into Crypto](https://hackernoon.com/a-deep-dive-into-crypto)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-wk92au2.jpeg)
-Bitcoin and whole crypto space are stronger than ever. A deep dive into reasons why crypto has solid foundations that are becoming even more solidified.
 
 ### [343. The Future of PoW Mining After The ETH 2.0 Merge: An Overview](https://hackernoon.com/the-future-of-pow-mining-after-the-eth-20-merge-an-overview)
 ![](https://cdn.hackernoon.com/images/jRVH4Wbg35gOUCQJPOVEY1DBeV82-zr92h2x.jpeg)
 Bitcoin will most likely continue to use PoW. Post ETH 2.0, there is elevated risk of a much lower profitability for current ETH miners going forward.
 
-### [344. What the Heck is Happening in the Cryptocurrency Job Market? ](https://hackernoon.com/the-state-of-the-blockchain-and-cryptocurrency-job-market-in-2019-mw5q3tgt)
+### [344. A Deep Dive into Crypto](https://hackernoon.com/a-deep-dive-into-crypto)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-wk92au2.jpeg)
+Bitcoin and whole crypto space are stronger than ever. A deep dive into reasons why crypto has solid foundations that are becoming even more solidified.
+
+### [345. What the Heck is Happening in the Cryptocurrency Job Market? ](https://hackernoon.com/the-state-of-the-blockchain-and-cryptocurrency-job-market-in-2019-mw5q3tgt)
 ![](https://cdn.hackernoon.com/drafts/pg8j3t76.png)
 The State of the Blockchain and Cryptocurrency Job Market in 2019-2020
 
-### [345. A Technical Guide to Writing Smart Contracts with Solidity](https://hackernoon.com/a-technical-guide-to-writing-smart-contracts-with-solidity)
+### [346. Creating a Web3 Application with the Coinbase Wallet SDK](https://hackernoon.com/creating-a-web3-application-with-the-coinbase-wallet-sdk)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-9093z8y.jpeg)
+Confused about where to start with Web3? John Vester shows how easy it is to get started using the Coinbase developer tools.
+
+### [347. A Technical Guide to Writing Smart Contracts with Solidity](https://hackernoon.com/a-technical-guide-to-writing-smart-contracts-with-solidity)
 ![](https://cdn.hackernoon.com/images/uCxecSd3neS54d5qhzN4tU7egvo1-we037a3.jpeg)
 Smart Contracts are immutable, transparent, secure, and decentralized. Follow this example to learn how to write them with the programming language solidity. 
 
-### [346. Permission and Privacy For Blockchain Networks under Ethereum and Quorum](https://hackernoon.com/permission-and-privacy-for-blockchain-networks-under-ethereum-and-quorum-4s1ab2dau)
+### [348. From Ethereum To Flow – An Introduction To The Flow Blockchain](https://hackernoon.com/from-ethereum-to-flow---an-introduction-to-the-flow-blockchain)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-x293zc3.jpeg)
+Ethereum is not in a state to support a massively successful blockchain game, see how Flow blockchain and Cadence smart contract provide an optimized solution.
+
+### [349. Permission and Privacy For Blockchain Networks under Ethereum and Quorum](https://hackernoon.com/permission-and-privacy-for-blockchain-networks-under-ethereum-and-quorum-4s1ab2dau)
 ![](https://cdn.hackernoon.com/drafts/gv27p2d40.png)
 Ethereum is a general-purpose blockchain that is  more suited to 
 describing business logic, through advanced scripts, also known  as 
@@ -1413,85 +1427,73 @@ network, with their payloads being  executed in the Ethereum virtual
 machine, and the shared blockchain state being  updated accordingly.
 
 
-### [347. Creating a Web3 Application with the Coinbase Wallet SDK](https://hackernoon.com/creating-a-web3-application-with-the-coinbase-wallet-sdk)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-9093z8y.jpeg)
-Confused about where to start with Web3? John Vester shows how easy it is to get started using the Coinbase developer tools.
-
-### [348. From Ethereum To Flow – An Introduction To The Flow Blockchain](https://hackernoon.com/from-ethereum-to-flow---an-introduction-to-the-flow-blockchain)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-x293zc3.jpeg)
-Ethereum is not in a state to support a massively successful blockchain game, see how Flow blockchain and Cadence smart contract provide an optimized solution.
-
-### [349. WTF is Supply Elasticity and How It Could Help Make Cryptocurrencies Mainstream](https://hackernoon.com/wtf-is-supply-elasticity-and-how-it-could-help-make-cryptocurrencies-mainstream-gy4x3x8i)
+### [350. WTF is Supply Elasticity and How It Could Help Make Cryptocurrencies Mainstream](https://hackernoon.com/wtf-is-supply-elasticity-and-how-it-could-help-make-cryptocurrencies-mainstream-gy4x3x8i)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F76g2wTOpewNlFjBEaT4ApMFOhHQ2-q3ne254w.jpeg?alt=media&token=b286e949-5df0-4321-ace7-5d7c454db268)
 Supply elasticity is a property of money that allows the supply to expand and contract on an as-needed basis in order to meet demand.  Well established monies like gold, as well as modern age cryptocurrencies like bitcoin and ethereum, do not have this property.  
 
-### [350. Ethereum Developers Choose to Move Forward with Controversial ProgPOW](https://hackernoon.com/ethereum-developers-vote-to-move-forward-with-controversial-progpow-along-with-14-potential-eips-ik30i3v21)
+### [351. Ethereum Developers Choose to Move Forward with Controversial ProgPOW](https://hackernoon.com/ethereum-developers-vote-to-move-forward-with-controversial-progpow-along-with-14-potential-eips-ik30i3v21)
 ![](https://cdn.hackernoon.com/images/mPvh1aeMgeaWzZiI3EMqytVN62x2-5oa3puh.jpeg)
 Significant Changes Coming to Ethereum
 
-### [351. Turn an Internet Community into a DAO in 3 Steps](https://hackernoon.com/turn-an-internet-community-into-a-dao-in-3-steps-8k1b3w5y)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fj0VtDypzqdQAzD1HIwwLcPPudCh1-eq213w5j.jpeg?alt=media&token=3ed16140-0d7f-488a-80e1-1e5f88cecf26)
-I guess the first question is, Why? Why should an internet community become a DAO? 
-
-### [352. The Best Risk-Adjusted Path to 10x Crypto Returns with Ethereum](https://hackernoon.com/the-best-risk-adjusted-path-to-10x-crypto-returns-with-ethereum)
-![](https://cdn.hackernoon.com/images/rNAlLTrcUQUa3DMds6T1L6L4wXy2-e7n3sfq.gif)
-Ethereum's native crypto asset Ether will increase from $3,077 to $32,468 in the next five years, representing a 10.6x ROI.
-
-### [353. Exploring Popular zkEVM Solutions:  AppliedZKP, Matter Labs, Hermez, and Sin7Y](https://hackernoon.com/exploring-popular-zkevm-solutions-appliedzkp-matter-labs-hermez-and-sin7y-quick-publication-ltq37ah)
+### [352. Exploring Popular zkEVM Solutions:  AppliedZKP, Matter Labs, Hermez, and Sin7Y](https://hackernoon.com/exploring-popular-zkevm-solutions-appliedzkp-matter-labs-hermez-and-sin7y-quick-publication-ltq37ah)
 ![](https://cdn.hackernoon.com/images/Ns6mVt8NqgNkfsouVyus9tAe3mB2-368t47nw.jpeg)
 zkEVM is said to be the crown jewel of Ethereum scaling schemes. Our 5th article compares and contrasts popular zkEVM solutions and proposes several questions.
 
-### [354. Ethereum is not ready to be used for Lottery - Sulim Malook, CEO of Lucky Gift Cards](https://hackernoon.com/ethereum-is-not-ready-to-be-used-for-lottery-sulim-malook-ceo-of-lucky-gift-cards-dzw33bk)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-wj4h35e3.jpeg)
-The article discusses lottery pools, the use of Bitcoin as a currency for lottery and why Ethereum is not ready to be used for the lottery. 
+### [353. Turn an Internet Community into a DAO in 3 Steps](https://hackernoon.com/turn-an-internet-community-into-a-dao-in-3-steps-8k1b3w5y)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fj0VtDypzqdQAzD1HIwwLcPPudCh1-eq213w5j.jpeg?alt=media&token=3ed16140-0d7f-488a-80e1-1e5f88cecf26)
+I guess the first question is, Why? Why should an internet community become a DAO? 
 
-### [355. abc](https://hackernoon.com/coindex-labs-novel-search-applied-via-evolutionary-ai-creating-a-money-making-machine-n62j2gei)
-![](https://cdn.hackernoon.com/images/uoio33l1.jpg)
-1. Introduction
+### [354. The Best Risk-Adjusted Path to 10x Crypto Returns with Ethereum](https://hackernoon.com/the-best-risk-adjusted-path-to-10x-crypto-returns-with-ethereum)
+![](https://cdn.hackernoon.com/images/rNAlLTrcUQUa3DMds6T1L6L4wXy2-e7n3sfq.gif)
+Ethereum's native crypto asset Ether will increase from $3,077 to $32,468 in the next five years, representing a 10.6x ROI.
 
-### [356. The Virtual Machines Wars: WASM vs. EVM](https://hackernoon.com/the-virtual-machines-wars-wasm-vs-evm)
+### [355. The Virtual Machines Wars: WASM vs. EVM](https://hackernoon.com/the-virtual-machines-wars-wasm-vs-evm)
 ![](https://cdn.hackernoon.com/images/KGTFaWujV3WROYDbGn02182ZFGF3-4h539yp.jpeg)
 As we look towards a more streamlined #eth2  ecosystem, #EVM falls short when it comes to gas-fee efficiency and processing speeds.
 
-### [357. Easier and faster dapps on the Ethereum Classic blockchain](https://hackernoon.com/easier-and-faster-dapps-on-the-ethereum-classic-blockchain-r9qn34a7)
-![](https://cdn.hackernoon.com/images/13r340i.jpg)
-Ethereum, the world’s first and dominant smart contract platform, has the largest dapp ecosystem with more than a million deployed smart contracts and hundreds of millions of dollars in monthly transactions
+### [356. Ethereum is not ready to be used for Lottery - Sulim Malook, CEO of Lucky Gift Cards](https://hackernoon.com/ethereum-is-not-ready-to-be-used-for-lottery-sulim-malook-ceo-of-lucky-gift-cards-dzw33bk)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-wj4h35e3.jpeg)
+The article discusses lottery pools, the use of Bitcoin as a currency for lottery and why Ethereum is not ready to be used for the lottery. 
 
-### [358. How to Get Started in DeFi: 4 Tips and a Practical Guide Book ](https://hackernoon.com/how-to-get-started-in-defi-4-tips-and-a-practical-guide-book-vi2k3zgu)
-![](https://cdn.hackernoon.com/images/nxtWKMHuO1UKGUbmzmzTuQsBx4H2-i03r3ctx.jpeg)
-Many of us have come to know about decentralized finance (DeFi) and have faced this sector with many doubts, understanding its potential, especially given the interests and the APR and APY it provides to those who interact with the various protocols.
-
-### [359. Identifying Smart Contract Orchestration Patterns in Solidity](https://hackernoon.com/identifying-smart-contract-orchestration-patterns-in-solidity-pd223x20)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9nMyFjQNicRJ5HwksmBytJBySMi2-ln112x17.jpeg?alt=media&token=d441f833-56af-4efc-9339-879fb2cdc433)
-All but the simplest of Ethereum applications are composed of several smart contracts. This is because of a hard limit of 24KB in any deployed contract, and because your sanity will slip away as the complexity of a smart contract grows.
-
-### [360. Ethereum's First Ever Employee Talks World Domination, Meme Coins, and Why Web3 Still Sucks](https://hackernoon.com/ethereums-first-ever-employee-talks-world-domination-meme-coins-and-why-web3-still-sucks)
-![](https://cdn.hackernoon.com/images/y2n4tY4QzFMf0GccUNg9hyQFUR03-cn036l2.jpeg)
-Viktor Trón, the founder of Ethereum Swarm,  predicts the future of Web3.
-
-### [361. How Did Lendf.Me Lose $25 Million to A Reentrancy Attack? [An Analysis]](https://hackernoon.com/how-did-lendfme-lose-dollar25-million-to-a-reentrancy-attack-an-analysis-091iy32s7)
-![](https://cdn.hackernoon.com/drafts/xg1o32c1.png)
-DeFi or decentralized finance is a growing sector in the blockchain and cryptocurrency space that defines an ecosystem of decentralized applications providing financial services with no governing authority.
-
-### [362. A Guide to Running Ganache in a Browser](https://hackernoon.com/a-guide-to-running-ganache-in-a-browser)
+### [357. A Guide to Running Ganache in a Browser](https://hackernoon.com/a-guide-to-running-ganache-in-a-browser)
 ![](https://cdn.hackernoon.com/images/YpGUqiNYo2Sl2tRp2O2FS0ePM0V2-gb93u7c.jpeg)
 Learn how to run a local blockchain instance in your browser to test the functionality of your web3 dapps using Ganache, Truffle and a simple React frontend.
 
-### [363. How to Accept Crypto Payments in a Classic Commerce App](https://hackernoon.com/how-to-accept-crypto-payments-in-a-classic-commerce-app)
-![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-ow93ix1.jpeg)
-How to integrate a custom, secure crypto payment method on any online store without relying on a third-party service. Includes a sample project to follow.
+### [358. Easier and faster dapps on the Ethereum Classic blockchain](https://hackernoon.com/easier-and-faster-dapps-on-the-ethereum-classic-blockchain-r9qn34a7)
+![](https://cdn.hackernoon.com/images/13r340i.jpg)
+Ethereum, the world’s first and dominant smart contract platform, has the largest dapp ecosystem with more than a million deployed smart contracts and hundreds of millions of dollars in monthly transactions
 
-### [364. Ethereum Fusaka Hard Fork: What’s Changing?](https://hackernoon.com/inside-ethereums-fusaka-hard-fork-peerdas-new-gas-limits-and-the-road-to-cheaper-l2s)
-![](https://cdn.hackernoon.com/images/ethereum-logo-surrounded-by-nodes-sampling-glowing-data-blobs-labeled-fusaka-and-peer-das-futuristic-dark-grid-background-m86q1a20u2r6l7e3bgwo7gqt.png)
-Ethereum’s Fusaka hard fork adds PeerDAS, new gas and block limits, and cryptography upgrades to make rollups cheaper and nodes more efficient.
-
-### [365. Telegram, WhatsApp, & WeChat Succeeded So Status Could Fail, But Web3 Communications Isn't Dead Yet](https://hackernoon.com/telegram-whatsapp-and-wechat-succeeded-so-status-could-fail-but-web3-communications-isnt-dead-yet)
+### [359. Telegram, WhatsApp, & WeChat Succeeded So Status Could Fail, But Web3 Communications Isn't Dead Yet](https://hackernoon.com/telegram-whatsapp-and-wechat-succeeded-so-status-could-fail-but-web3-communications-isnt-dead-yet)
 ![](https://cdn.hackernoon.com/images/jOwICI2WoOgpqQlnawvbnu99cab2-vk93t98.jpeg)
 There are good reasons to believe that the metaverse is the future with the potent, and Web3 communication platforms will be a valuable asset in the ecosystem.
 
-### [366. Ethereum Gasless Metatransactions by Using EIP-712](https://hackernoon.com/ethereum-gasless-metatransactions-by-using-eip-712)
+### [360. Ethereum Gasless Metatransactions by Using EIP-712](https://hackernoon.com/ethereum-gasless-metatransactions-by-using-eip-712)
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-naa2z76.jpeg)
 How to implement Ethereum gasless metatransactions by using EIP-712
+
+### [361. How to Get Started in DeFi: 4 Tips and a Practical Guide Book ](https://hackernoon.com/how-to-get-started-in-defi-4-tips-and-a-practical-guide-book-vi2k3zgu)
+![](https://cdn.hackernoon.com/images/nxtWKMHuO1UKGUbmzmzTuQsBx4H2-i03r3ctx.jpeg)
+Many of us have come to know about decentralized finance (DeFi) and have faced this sector with many doubts, understanding its potential, especially given the interests and the APR and APY it provides to those who interact with the various protocols.
+
+### [362. Ethereum's First Ever Employee Talks World Domination, Meme Coins, and Why Web3 Still Sucks](https://hackernoon.com/ethereums-first-ever-employee-talks-world-domination-meme-coins-and-why-web3-still-sucks)
+![](https://cdn.hackernoon.com/images/y2n4tY4QzFMf0GccUNg9hyQFUR03-cn036l2.jpeg)
+Viktor Trón, the founder of Ethereum Swarm,  predicts the future of Web3.
+
+### [363. Identifying Smart Contract Orchestration Patterns in Solidity](https://hackernoon.com/identifying-smart-contract-orchestration-patterns-in-solidity-pd223x20)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9nMyFjQNicRJ5HwksmBytJBySMi2-ln112x17.jpeg?alt=media&token=d441f833-56af-4efc-9339-879fb2cdc433)
+All but the simplest of Ethereum applications are composed of several smart contracts. This is because of a hard limit of 24KB in any deployed contract, and because your sanity will slip away as the complexity of a smart contract grows.
+
+### [364. How to Accept Crypto Payments in a Classic Commerce App](https://hackernoon.com/how-to-accept-crypto-payments-in-a-classic-commerce-app)
+![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-ow93ix1.jpeg)
+How to integrate a custom, secure crypto payment method on any online store without relying on a third-party service. Includes a sample project to follow.
+
+### [365. How Did Lendf.Me Lose $25 Million to A Reentrancy Attack? [An Analysis]](https://hackernoon.com/how-did-lendfme-lose-dollar25-million-to-a-reentrancy-attack-an-analysis-091iy32s7)
+![](https://cdn.hackernoon.com/drafts/xg1o32c1.png)
+DeFi or decentralized finance is a growing sector in the blockchain and cryptocurrency space that defines an ecosystem of decentralized applications providing financial services with no governing authority.
+
+### [366. Ethereum Fusaka Hard Fork: What’s Changing?](https://hackernoon.com/inside-ethereums-fusaka-hard-fork-peerdas-new-gas-limits-and-the-road-to-cheaper-l2s)
+![](https://cdn.hackernoon.com/images/ethereum-logo-surrounded-by-nodes-sampling-glowing-data-blobs-labeled-fusaka-and-peer-das-futuristic-dark-grid-background-m86q1a20u2r6l7e3bgwo7gqt.png)
+Ethereum’s Fusaka hard fork adds PeerDAS, new gas and block limits, and cryptography upgrades to make rollups cheaper and nodes more efficient.
 
 ### [367. Crypto Record Keeping – The Unsaid Pet Peeve of Crypto Natives](https://hackernoon.com/crypto-record-keeping-the-unsaid-pet-peeve-of-crypto-natives-glk34yv)
 ![](https://cdn.hackernoon.com/images/Kmt2h6pCM6hahhfBJVS4z0H2QtG2-2e828oc.jpeg)
@@ -1521,13 +1523,13 @@ The two latest thrilling things in the Ethereum ecosystem are NFT and DeFi. Unti
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-4m0392c.jpeg)
 A list of basic blockchain terms every beginner should know.
 
-### [374. What Blockchain to use for a DeFi Application?](https://hackernoon.com/what-blockchain-to-use-for-a-defi-application-8mls3191)
-![](https://cdn.hackernoon.com/drafts/5qp31qp.png)
-The whole fintech industry is built around the interactions of various institutions. Fintech products can be as advanced and complex as you want them to be; they can solve essential problems for their customers, but in the end, the focal point is always some bank happily sitting on money. Thus, centralized finances are the banks and their subsidiaries. Many things in fintech are controlled by bureaucrats and most fintech apps function only because they are allowed to. 
-
-### [375. EigenLayer Airdrop Has Highlighted the Problems in the Crypto Market](https://hackernoon.com/eigenlayer-airdrop-has-highlighted-the-problems-in-the-crypto-market)
+### [374. EigenLayer Airdrop Has Highlighted the Problems in the Crypto Market](https://hackernoon.com/eigenlayer-airdrop-has-highlighted-the-problems-in-the-crypto-market)
 ![](https://cdn.hackernoon.com/images/6QzmwdnBzQgN4B1y6LieCT8zOfV2-q1a3g1u.jpeg)
 Eigen Layer airdrop illustrates a mismatch in users' expectations and market conditions. Why is the community angry with the biggest Ethereum restaking platform
+
+### [375. What Blockchain to use for a DeFi Application?](https://hackernoon.com/what-blockchain-to-use-for-a-defi-application-8mls3191)
+![](https://cdn.hackernoon.com/drafts/5qp31qp.png)
+The whole fintech industry is built around the interactions of various institutions. Fintech products can be as advanced and complex as you want them to be; they can solve essential problems for their customers, but in the end, the focal point is always some bank happily sitting on money. Thus, centralized finances are the banks and their subsidiaries. Many things in fintech are controlled by bureaucrats and most fintech apps function only because they are allowed to. 
 
 ### [376. Protect Yourself From Identity Theft By Using Zero-Knowledge Proof, Solidity, and Ethereum](https://hackernoon.com/protect-yourself-from-identity-theft-by-using-zero-knowledge-proof-solidity-and-ethereum)
 ![](https://cdn.hackernoon.com/images/GFxWNaVUGadCuz5svjQlUTu1iz12-ygg3byf.jpeg)
@@ -1545,21 +1547,21 @@ Are NFTs really harmful to the ecosystem? Read on to know more about the this st
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-hm82rd2.jpeg)
 Explore Ethereum's restaking: a guide to its workings, impacts, and roles of AVSs, Operators, and Restakers in blockchain technology
 
-### [380. Bitcoin: The Great Game](https://hackernoon.com/bitcoin-the-great-game-if1e3wos)
+### [380. Zkp2p: The End of Centralized Exchanges](https://hackernoon.com/zkp2p-the-end-of-centralized-exchanges)
+![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-1e82ybb.jpeg)
+Discover zkSNARK's role in crypto payments: Email verification reshaping decentralized transactions, reducing reliance on centralized exchanges.
+
+### [381. Bitcoin: The Great Game](https://hackernoon.com/bitcoin-the-great-game-if1e3wos)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgOcaGZL99ges09JGDQ0NcEqoWcf1-8j153wje.jpeg?alt=media&token=99889bdc-66d6-4198-b849-9f92aaed084d)
 The following are not my beliefs, but a compilation of notes from conversations I had with a self-described Bitcoin “mutant”, named Edan Yago, contributor to Sovryn. Letting him ramble on about Bitcoin resulted in mesmerizing, mythical, and fascinating ruminations about Bitcoin’s destiny. So for one, I myself believe in Bitcoin as a digital store of value. It is a huge chunk of my portfolio, and I believe it will outlast 99% of the cryptocurrencies we have today. There is no better symbol of scarcity and hard money in crypto to date. However, I feel just about the same level of admiration for Ethereum, as it is opening up so many use cases through DeFi and DAOs. I am putting my biases aside to explain a very rare (and what I find fascinating) point of view. I present you Part 1 of The Hero’s Journey of Bitcoin:
 
-### [381. Getting Prices Right](https://hackernoon.com/getting-prices-right)
+### [382. Getting Prices Right](https://hackernoon.com/getting-prices-right)
 ![](https://cdn.hackernoon.com/images/9nMyFjQNicRJ5HwksmBytJBySMi2-bdi24ys.jpeg)
 How to implement better price feeds in smart contracts
 
-### [382. Create An EVM-Based NFT Contract without Programming Skills: A How-To Guide](https://hackernoon.com/how-to-create-your-own-nft-contract-without-programming-skills)
+### [383. Create An EVM-Based NFT Contract without Programming Skills: A How-To Guide](https://hackernoon.com/how-to-create-your-own-nft-contract-without-programming-skills)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-qo137es.jpeg)
 Here's how to create your own NFT contracts without needing to have any prior experience with programming using no-code tools available to the public. 
-
-### [383. Zkp2p: The End of Centralized Exchanges](https://hackernoon.com/zkp2p-the-end-of-centralized-exchanges)
-![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-1e82ybb.jpeg)
-Discover zkSNARK's role in crypto payments: Email verification reshaping decentralized transactions, reducing reliance on centralized exchanges.
 
 ### [384. Why Smart Contracts Aren’t Smart Enough for Mainstream Adoption](https://hackernoon.com/why-smart-contracts-arent-smart-enough-for-mainstream-adoption)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-nv931se.jpeg)
@@ -1577,53 +1579,53 @@ Image Credit: UnsplashThe endless possibilities of cryptocurrencies have seen a 
 ![](https://cdn.hackernoon.com/images/drBtln643Bg4HSDiEuIQYTnspIi2-4z837q1.jpeg)
 Discover the security benefits of multi-sig wallets for safeguarding your crypto against theft, disasters, and exchange risks.
 
-### [388. Building an AI On-Chain](https://hackernoon.com/building-an-ai-on-chain)
+### [388. The Ethereum Merge, Explained](https://hackernoon.com/the-ethereum-merge-explained)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-qr9313q.jpeg)
+Ethereum emits nearly the same amount of carbon dioxide as Singapore at this time and is the second-largest blockchain, after only bitcoin. If the Merge is successful, it will significantly reduce ethereum’s high electricity usage by almost 99%.Key Highlights
+
+### [389. Building an AI On-Chain](https://hackernoon.com/building-an-ai-on-chain)
 ![](https://cdn.hackernoon.com/images/JNuKcaRO9ogvXzLwR9r8ripU4X83-bp93qpy.png)
 Modulus Labs is a Web3 project that aims to bring AI capabilities to the blockchain in a decentralized manner, enabling creators to own and control their models
 
-### [389. Can Alternative Blockchains Save the DeFi Market?](https://hackernoon.com/can-alternative-blockchains-save-the-defi-market-50y33tw)
+### [390. Can Alternative Blockchains Save the DeFi Market?](https://hackernoon.com/can-alternative-blockchains-save-the-defi-market-50y33tw)
 ![](https://cdn.hackernoon.com/images/rrklQPNbspZjuipgqdjB7er0G6e2-bze266k.jpeg)
 The go-to blockchain for decentralized finance is still Ethereum (ETH). It has the great advantage of being a first mover, so plenty of investors are already aware of ETH and its use cases. ETH tokens also played a role in the tokensale bonanza of 2017 and 2018, and are now becoming highly active again in their new role as the backbone of the DeFi market. 
 
-### [390. Ethereum will Kill this $15 Billion Project if its Gas Fee Remains Low](https://hackernoon.com/ethereum-will-kill-this-dollar15-billion-project-if-its-gas-fee-remains-low-6u3a3545)
+### [391. Ethereum will Kill this $15 Billion Project if its Gas Fee Remains Low](https://hackernoon.com/ethereum-will-kill-this-dollar15-billion-project-if-its-gas-fee-remains-low-6u3a3545)
 ![](https://cdn.hackernoon.com/images/FoHzfJjABEhUq9oMRxBD6w0GP0y2-0e1y340h.jpeg)
 Most of the applications on Ethereum are micro-financial ones where the price per ticket ranges from $100 — $1000. 
 
-### [391. 2ND Chance by DeFiat — A new way to revive your ‘scam’ holdings!](https://hackernoon.com/we-want-to-take-your-defi-rugged-worthless-tokens-and-turn-a-profit-nq5i34zx)
+### [392. 2ND Chance by DeFiat — A new way to revive your ‘scam’ holdings!](https://hackernoon.com/we-want-to-take-your-defi-rugged-worthless-tokens-and-turn-a-profit-nq5i34zx)
 ![](https://cdn.hackernoon.com/images/RvszHF7074Z4e2gPivUjrTREdjy2-rp2y3za8.jpeg)
 There is no doubt that the crypto space is growing at a very rapid pace, but no one can ignore the scams that are prevalent in this ecosystem. If we just go back a few years, more than 80 percent of the ICOs were identified as outright scams in a study conducted by the ICO advisory firm Statis Group. 
 
-### [392. Polkadot Launched its First Parachains - But Are They Already Too Late?](https://hackernoon.com/polkadot-launched-its-first-parachains-but-are-they-already-too-late)
+### [393. Polkadot Launched its First Parachains - But Are They Already Too Late?](https://hackernoon.com/polkadot-launched-its-first-parachains-but-are-they-already-too-late)
 ![](https://cdn.hackernoon.com/images/25FD7aJjvQXZmpBWsHFW5JYdjMt1-oy0373e.jpeg)
 Polkadot is a radically different approach to blockchain scaling. But have solutions like Binance Smart Chain already made it unnecessary?
 
-### [393. The Liquidity Crisis - Part Two: ETH](https://hackernoon.com/the-liquidity-crisis-part-two-eth-dzu336t)
+### [394. The Liquidity Crisis - Part Two: ETH](https://hackernoon.com/the-liquidity-crisis-part-two-eth-dzu336t)
 ![](https://cdn.hackernoon.com/images/r633U8vKGhQp66FOBDmgOkw0J472-ad4a3xzy.jpeg)
 Ethereum (ETH) supply is becoming scarce while demand is rising. Here's what you need to know. 
-
-### [394. The Ethereum Merge, Explained](https://hackernoon.com/the-ethereum-merge-explained)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-qr9313q.jpeg)
-Ethereum emits nearly the same amount of carbon dioxide as Singapore at this time and is the second-largest blockchain, after only bitcoin. If the Merge is successful, it will significantly reduce ethereum’s high electricity usage by almost 99%.Key Highlights
 
 ### [395. Myria Games vs Immutable X: Layer 2 & ZK-Rollup Platforms Compared](https://hackernoon.com/myria-games-vs-immutable-x-layer-2-and-zk-rollup-platforms-compared)
 ![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-r0b3kup.jpeg)
 As the blockchain space continues to grow, scalability has been a major talking point for the most popular development blockchains like Ethereum. 
 
-### [396. Understanding the Internals of Binance and Poloniex Using Machine Learning and Data Visualizations ](https://hackernoon.com/understanding-the-internals-of-binance-and-poloniex-using-machine-learning-and-data-visualizations-5bc331yw)
-![](https://cdn.hackernoon.com/images/frbm3133.jpg)
-Centralized exchanges remain one of the black boxes of the crypto landscape. Despite being a gateway into the world of decentralized finance, centralized exchanges are very…well…centralized in nature and hide many of its intrinsic mechanics from the scrutiny of public blockchains. Not surprisingly, ten years after the creation of Bitcoin, the internal architecture of centralized exchanges remains a mystery to even the top experts in the crypto market.
+### [396. The Ethereum Roadmap - From The Merge to The Splurge](https://hackernoon.com/ethereum-roadmap-merge-splurge)
+![](https://cdn.hackernoon.com/images/PDUSNhPZdqOLSb59OQHawDU0wR82-07a3r97.jpeg)
+The Merge is a huge event, however, it is the first of five prime upgrades coming to Ethereum followed by The Surge, The Verge, The Purge and The Splurge.
 
 ### [397. Centralized Crypto Exchanges Explained in 5 Fascinating Data Visualizations ](https://hackernoon.com/five-fascinating-data-visualizations-that-will-help-you-understand-centralized-crypto-exchanges-gq9s35r1)
 ![](https://cdn.hackernoon.com/images/4b9835oo.jpg)
 Centralized exchanges are, arguably, one of the most challenging components to analyze in the crypto-asset markets. While the behavior of many actors in the crypto space is transparently recorded in distributed ledgers, centralized exchanges still operate largely off-chain only publishing subset of the activity to the corresponding blockchains. Without a doubt, centralized exchanges introduce a level of opacity that challenges even the most sophisticated analytic techniques. And yet, the analysis of the behavior of centralized exchanges can yield many interesting benefits for crypto investors and traders. Imagine that you are able to effectively track large crypto transfers between exchanges that can anticipate a large position on a specific crypto asset. All that, however, requires understanding the underlying patterns in centralized exchanges.
 
-### [398. Market Niches for Blockchain Ecosystems](https://hackernoon.com/market-niches-for-blockchain-ecosystems-x5x30cd)
+### [398. Understanding the Internals of Binance and Poloniex Using Machine Learning and Data Visualizations ](https://hackernoon.com/understanding-the-internals-of-binance-and-poloniex-using-machine-learning-and-data-visualizations-5bc331yw)
+![](https://cdn.hackernoon.com/images/frbm3133.jpg)
+Centralized exchanges remain one of the black boxes of the crypto landscape. Despite being a gateway into the world of decentralized finance, centralized exchanges are very…well…centralized in nature and hide many of its intrinsic mechanics from the scrutiny of public blockchains. Not surprisingly, ten years after the creation of Bitcoin, the internal architecture of centralized exchanges remains a mystery to even the top experts in the crypto market.
+
+### [399. Market Niches for Blockchain Ecosystems](https://hackernoon.com/market-niches-for-blockchain-ecosystems-x5x30cd)
 ![](https://cdn.hackernoon.com/drafts/f44x30de.png)
 Blockchains depend heavily on network effects, i.e. the notion that networks such as telecommunication services, the Internet, or social networks become more valuable when their number of users grows. This is why ecosystem building is one of the main factors that drives the value of a Layer 1 blockchain enterprise. Here is a comparison of how different blockchain projects handle this.
-
-### [399. The Ethereum Roadmap - From The Merge to The Splurge](https://hackernoon.com/ethereum-roadmap-merge-splurge)
-![](https://cdn.hackernoon.com/images/PDUSNhPZdqOLSb59OQHawDU0wR82-07a3r97.jpeg)
-The Merge is a huge event, however, it is the first of five prime upgrades coming to Ethereum followed by The Surge, The Verge, The Purge and The Splurge.
 
 ### [400. Bitcoin and Ethereum Were Never Meant to be a Medium of Exchange](https://hackernoon.com/why-bitcoin-and-ethereum-werent-engineered-to-be-a-medium-of-exchange-sliq315u)
 ![](https://cdn.hackernoon.com/drafts/6mp31xl.png)
@@ -1641,33 +1643,42 @@ Santadao $HOHO — whatever the F this is, rugpulled, which isn’t a surpri
 ![](https://cdn.hackernoon.com/images/u8u3xm2.jpg)
 About the writer
 
-### [404. 10 Patterns of Centralized Crypto Exchanges Explained Using Machine Learning and Data Visualizations](https://hackernoon.com/10-patterns-of-centralized-crypto-exchanges-explained-using-machine-learning-and-data-visualizations-fzk533bu)
+### [404. A Visionary's Journey: 
+Unveiling Vitalik Buterin's Iconic Portrait](https://hackernoon.com/a-visionarys-journey-unveiling-vitalik-buterins-iconic-portrait)
+![](https://cdn.hackernoon.com/images/4LKlOHT8BtURWNF54Dmjj74h57s2-5mb3t5m.jpeg)
+You may recognize this iconic portrait of the Prince of Crypto as it is among the first blocks of events preceding Ethereum's release; now know the REAL story!
+
+### [405. 10 Patterns of Centralized Crypto Exchanges Explained Using Machine Learning and Data Visualizations](https://hackernoon.com/10-patterns-of-centralized-crypto-exchanges-explained-using-machine-learning-and-data-visualizations-fzk533bu)
 ![](https://cdn.hackernoon.com/images/35ji334o.jpg)
 Centralized crypto exchanges are the most important black box of the crypto ecosystem. We all use them, we have a love-hate relationship with them, and we understand very little about their internal behavior. At IntoTheBlock, we have been heads down working on a series of machine learning models that help us better understand the internal of crypto exchanges. Recently, we presented some of our initial findings at a highly oversubscribed webinar and I thought it would be elaborate further in some of the ideas discussed there.
 
-### [405. [EXPLAINED] Why did Transactions on Ethereum Become Terribly Slow?](https://hackernoon.com/explainer-why-is-my-ethereum-transaction-taking-so-long-qg1t632cz)
+### [406. [EXPLAINED] Why did Transactions on Ethereum Become Terribly Slow?](https://hackernoon.com/explainer-why-is-my-ethereum-transaction-taking-so-long-qg1t632cz)
 ![](https://cdn.hackernoon.com/drafts/m91sp32cu.png)
 If you’ve noticed a dramatic slowdown in the Ethereum network, you’re not alone. Here’s why it’s happening – and why it’s about to get a whole lot worse.
 
-### [406. Become a Millionaire By Marketing Your NFTs - A Guide](https://hackernoon.com/become-a-millionaire-by-marketing-your-nfts-a-guide)
-![](https://cdn.hackernoon.com/images/KGTFaWujV3WROYDbGn02182ZFGF3-zv039hy.jpeg)
-When launching an NFT collection, marketing strategy is the key driver of success.
-
-### [407. The EVM and Non-EVM Conundrum](https://hackernoon.com/the-evm-and-non-evm-conundrum)
-![](https://cdn.hackernoon.com/images/E5pzMBNmQ9SBU6qVMYl6X48inok2-rxb3r7s.gif.webp)
-The Ethereum network has been a trailblazer for crypto. It has created the path for hundreds of other projects whose success stories will not have been possible
-
-### [408. ZK Rollups in 2023: From SNARK to STARK and Beyond](https://hackernoon.com/zk-rollups-in-2023-from-snark-to-stark-and-beyond)
+### [407. ZK Rollups in 2023: From SNARK to STARK and Beyond](https://hackernoon.com/zk-rollups-in-2023-from-snark-to-stark-and-beyond)
 ![](https://cdn.hackernoon.com/images/rUpKihqU5xWtvjykFGTByUkU2pv2-n793r92.png)
 ZK rollups are capturing the attention of the industry. Will they be the future of rollups? Are they good investments? Read this complete guide and research. 
 
-### [409. An Interview With Fabian Vogelsteller: Founder of ERC-20 and LUKSO](https://hackernoon.com/an-interview-with-fabian-vogelsteller-founder-of-erc-20-and-lukso-lm5d4647)
+### [408. Become a Millionaire By Marketing Your NFTs - A Guide](https://hackernoon.com/become-a-millionaire-by-marketing-your-nfts-a-guide)
+![](https://cdn.hackernoon.com/images/KGTFaWujV3WROYDbGn02182ZFGF3-zv039hy.jpeg)
+When launching an NFT collection, marketing strategy is the key driver of success.
+
+### [409. The EVM and Non-EVM Conundrum](https://hackernoon.com/the-evm-and-non-evm-conundrum)
+![](https://cdn.hackernoon.com/images/E5pzMBNmQ9SBU6qVMYl6X48inok2-rxb3r7s.gif.webp)
+The Ethereum network has been a trailblazer for crypto. It has created the path for hundreds of other projects whose success stories will not have been possible
+
+### [410. How I Built an Anonymous Voting System on the Ethereum Blockchain Using Zero-Knowledge Proof](https://hackernoon.com/how-i-built-an-anonymous-voting-system-on-the-ethereum-blockchain-using-zero-knowledge-proof)
+![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-h9e2qwr.jpeg)
+How I built an anonymous voting system on the Ethereum blockchain using zero-knowledge proof
+
+### [411. An Interview With Fabian Vogelsteller: Founder of ERC-20 and LUKSO](https://hackernoon.com/an-interview-with-fabian-vogelsteller-founder-of-erc-20-and-lukso-lm5d4647)
 ![](https://cdn.hackernoon.com/drafts/6920546yv.png)
 While Vitalik Buterin is the most well-known name in the Ethereum space, the birth of Ethereum was a collaborative effort, as were later developments like ERC-20. Fabian Vogelsteller is one-such early Ethereum developer and thought leader on blockchain technology. He has built many Ethereum user and developer-facing projects including the Ethereum Mist browser, the Ethereum Wallet and web3.js - the Ethereum’s space most used JavaScript library.
 
 Together with Vitalik Buterin, he proposed the ERC20 token standard, which initiated the world ICO wave and redefined investment and crowd ownership as we know it. Today Fabian is leading the concept, design, and development of the LUKSO Blockchain. 
 
-### [410. It's No Longer "The Future of Work", DAOs Are Already Here](https://hackernoon.com/its-no-longer-the-future-of-work-daos-are-already-here-dv1l3xvq)
+### [412. It's No Longer "The Future of Work", DAOs Are Already Here](https://hackernoon.com/its-no-longer-the-future-of-work-daos-are-already-here-dv1l3xvq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvdxHWWsSmxWRHjGuJOxi8EJv8Lr2-a3eg3ynk.jpeg?alt=media&token=93aaa92f-8d00-44a3-895c-0c93ccde5bdd)
 The future is now, it's 2020 and Decentralized Autonomous Organizations (DAOs) are experiencing a Cambrian explosion.
 
@@ -1713,15 +1724,6 @@ This is where a user deposits crypto stablecoins like USDC, DAI & USDT to earn a
 
 This has added rocket fuel to the DeFi community, with an explosive $3 Billion USD flowing into projects in just the last couple of weeks. This doesn't stop here either, there are many more DAO innovations that will be made known during this wave of Governance Tokens. One example is Referral Yield Farming, where you can earn Governance Tokens for referring people to DeFi platforms without having to deposit any funds of your own.
 
-### [411. A Visionary's Journey: 
-Unveiling Vitalik Buterin's Iconic Portrait](https://hackernoon.com/a-visionarys-journey-unveiling-vitalik-buterins-iconic-portrait)
-![](https://cdn.hackernoon.com/images/4LKlOHT8BtURWNF54Dmjj74h57s2-5mb3t5m.jpeg)
-You may recognize this iconic portrait of the Prince of Crypto as it is among the first blocks of events preceding Ethereum's release; now know the REAL story!
-
-### [412. How I Built an Anonymous Voting System on the Ethereum Blockchain Using Zero-Knowledge Proof](https://hackernoon.com/how-i-built-an-anonymous-voting-system-on-the-ethereum-blockchain-using-zero-knowledge-proof)
-![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-h9e2qwr.jpeg)
-How I built an anonymous voting system on the Ethereum blockchain using zero-knowledge proof
-
 ### [413. You Don't Need a DAO](https://hackernoon.com/you-dont-need-a-dao-un3937tu)
 ![](https://cdn.hackernoon.com/drafts/f05i3atz.png)
 It’s time to make a DAO! Anyone can make their own DAO with Aragon or DAOstack, or just by forking Molloch. Even better, you can use an augmented bonding curve to fund your DAO, thanks to the amazing work by the Commons Stack folks, and there you have it! A fully-functioning DAO with just a few days of work!
@@ -1742,57 +1744,57 @@ NFT stands for non-fungible token. That's not surprising, but what does it mean 
 ![](https://cdn.hackernoon.com/drafts/97q338m.png)
 Photo by Cláudio Luiz Castro on Unsplash
 
-### [418. Why DAO? : The Problem With Traditional Governance](https://hackernoon.com/why-dao-the-problem-with-traditional-governance)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-a213oks.jpeg)
-Blockchain is a part of a trustless digital solution.
-
-### [419. Introducing a New NFT Project Based on Ethereum Creator Vitalik Buterin](https://hackernoon.com/introducing-a-new-nft-project-based-on-ethereum-creator-vitalik-buterin)
+### [418. Introducing a New NFT Project Based on Ethereum Creator Vitalik Buterin](https://hackernoon.com/introducing-a-new-nft-project-based-on-ethereum-creator-vitalik-buterin)
 ![](https://cdn.hackernoon.com/images/80sIyoGtKnVqyjUXgjCcDBH0Bji1-ae03fqj.png)
 Art101 announced a Vitalik Buterin NFT collection 'Based Vitalik'
 
-### [420. Understanding the Ethereum Gas Limit Debate](https://hackernoon.com/understanding-the-ethereum-gas-limit-debate-5b1631zg)
+### [419. Why DAO? : The Problem With Traditional Governance](https://hackernoon.com/why-dao-the-problem-with-traditional-governance)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-a213oks.jpeg)
+Blockchain is a part of a trustless digital solution.
+
+### [420. Building a Transparent, Secure Lottery DApp with NextJs, Solidity, and CometChat](https://hackernoon.com/building-a-transparent-secure-lottery-dapp-with-nextjs-solidity-and-cometchat)
+![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-5a93le4.jpeg)
+If you're looking to build a cutting-edge decentralized application that combines the power of blockchain technology, real-time communication, and user-generate
+
+### [421. Understanding the Ethereum Gas Limit Debate](https://hackernoon.com/understanding-the-ethereum-gas-limit-debate-5b1631zg)
 ![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-5h113198.jpeg)
 Due to a clogged network, Ethereum just got an expansion — but at what cost? Here's everything you need to know about the ethereum gas limit debate. 
 
-### [421. NFTs in a Nutshell: The Beginner's Guide To Becoming An NFT Degenerate](https://hackernoon.com/nfts-in-a-nutshell-the-beginners-guide-to-becoming-an-nft-degenerate)
-![](https://cdn.hackernoon.com/images/4BVC2biGWDbQEFuFP8WgvOJHpaz1-rx037y8.jpeg)
-Answering questions about NFTs — what they are, why they're important, and where to find them.
-
-### [422. Building a Transparent, Secure Lottery DApp with NextJs, Solidity, and CometChat](https://hackernoon.com/building-a-transparent-secure-lottery-dapp-with-nextjs-solidity-and-cometchat)
-![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-5a93le4.jpeg)
-If you're looking to build a cutting-edge decentralized application that combines the power of blockchain technology, real-time communication, and user-generate
+### [422. Using the Forward Trust Design Pattern to Make Scaling Easier](https://hackernoon.com/using-the-forward-trust-design-pattern-to-make-scaling-easier)
+![](https://cdn.hackernoon.com/images/9nMyFjQNicRJ5HwksmBytJBySMi2-6093rpb.jpeg)
+The Forward Trust design pattern used in the Yield Protocol simplifies integration and makes scaling easier.
 
 ### [423. The Future of Cryptocurrency Trading](https://hackernoon.com/the-future-of-cryptocurrency-trading)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4d92ayk.jpeg)
 Cryptocurrency is one of the most in-demand assets to have in your portfolio right now.
 
-### [424. Token Bridge - Crossing ERC20 Tokens between RSK & Ethereum](https://hackernoon.com/token-bridge-crossing-erc20-tokens-between-rsk-and-ethereum-231x3waj)
+### [424. NFTs in a Nutshell: The Beginner's Guide To Becoming An NFT Degenerate](https://hackernoon.com/nfts-in-a-nutshell-the-beginners-guide-to-becoming-an-nft-degenerate)
+![](https://cdn.hackernoon.com/images/4BVC2biGWDbQEFuFP8WgvOJHpaz1-rx037y8.jpeg)
+Answering questions about NFTs — what they are, why they're important, and where to find them.
+
+### [425. Token Bridge - Crossing ERC20 Tokens between RSK & Ethereum](https://hackernoon.com/token-bridge-crossing-erc20-tokens-between-rsk-and-ethereum-231x3waj)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fwigx3JsTvDOJSxLPmAl3OdM9Xsn2-2k2x3tox.jpeg?alt=media&token=dbfb158d-30d6-47f9-8e34-6a48102a8188)
 The Token Bridge decentralized application allows to safely cross tokens between RSK and Ethereum networks. It is available at tokenbridge.rsk.co for mainnet or testnet.tokenbridge.rsk.co for testnet.
 
-### [425. Future of VC in the Web3.0 era: A Race To Investing In DAOs](https://hackernoon.com/future-of-vc-in-the-web30-era-a-race-to-investing-in-daos-au4p326r)
-![](https://cdn.hackernoon.com/drafts/km153249.png)
-Decentralized fundraising and the ability to raise money “independently” from VCs and funds has always been a deeply rooted ideal in the crypto sphere. 
-
-### [426. Using the Forward Trust Design Pattern to Make Scaling Easier](https://hackernoon.com/using-the-forward-trust-design-pattern-to-make-scaling-easier)
-![](https://cdn.hackernoon.com/images/9nMyFjQNicRJ5HwksmBytJBySMi2-6093rpb.jpeg)
-The Forward Trust design pattern used in the Yield Protocol simplifies integration and makes scaling easier.
-
-### [427. Will Ethereum Ditch Solidity for Vyper?](https://hackernoon.com/will-ethereum-ditch-solidity-for-vyper-xm103xrm)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2y5PEJAARqctEDEwvziTV5r0xBi2-88c33u25.jpeg?alt=media&token=5211bc75-d305-441f-85ff-6673a2f538a4)
-First things first, it’s called Vyper, not Viper.
-
-### [428. 5 Important Crypto Lessons to Take Away From 2022](https://hackernoon.com/5-important-crypto-lessons-to-take-away-from-2022)
+### [426. 5 Important Crypto Lessons to Take Away From 2022](https://hackernoon.com/5-important-crypto-lessons-to-take-away-from-2022)
 ![](https://cdn.hackernoon.com/images/5rS4yrERbxUtfUCTsrb3x2kieP32-9r93xa2.jpeg)
 In this article, I want to look at the five lessons of the year and how they can affect the further development of the cryptocurrency industry.
 
-### [429. Blockchain Democracy: A How-To Guide For Smart Contract Developers](https://hackernoon.com/blockchain-democracy-a-how-to-guide-for-smart-contract-developers-md4532ru)
-![](https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-When you vote for something, how do you know that anything will actually get done? How do you know that promises will be kept?
+### [427. Future of VC in the Web3.0 era: A Race To Investing In DAOs](https://hackernoon.com/future-of-vc-in-the-web30-era-a-race-to-investing-in-daos-au4p326r)
+![](https://cdn.hackernoon.com/drafts/km153249.png)
+Decentralized fundraising and the ability to raise money “independently” from VCs and funds has always been a deeply rooted ideal in the crypto sphere. 
 
-### [430. What is a Remote Procedure Call (RPC)?](https://hackernoon.com/what-is-a-remote-procedure-call-rpc)
+### [428. What is a Remote Procedure Call (RPC)?](https://hackernoon.com/what-is-a-remote-procedure-call-rpc)
 ![](https://cdn.hackernoon.com/images/the-blockchain-dcipu58acvbipysni7k8a9ml.png)
 A brief explanation of RPCs - what they are and how they operate. 
+
+### [429. Will Ethereum Ditch Solidity for Vyper?](https://hackernoon.com/will-ethereum-ditch-solidity-for-vyper-xm103xrm)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2y5PEJAARqctEDEwvziTV5r0xBi2-88c33u25.jpeg?alt=media&token=5211bc75-d305-441f-85ff-6673a2f538a4)
+First things first, it’s called Vyper, not Viper.
+
+### [430. Blockchain Democracy: A How-To Guide For Smart Contract Developers](https://hackernoon.com/blockchain-democracy-a-how-to-guide-for-smart-contract-developers-md4532ru)
+![](https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+When you vote for something, how do you know that anything will actually get done? How do you know that promises will be kept?
 
 ### [431. Why dApps aren't as doomed as you think](https://hackernoon.com/why-dapps-arent-as-doomed-as-you-think-o922o3482)
 ![](https://cdn.hackernoon.com/drafts/xv1wm34xl.png)
@@ -1802,124 +1804,128 @@ If you’ve been in the cryptocurrency and blockchain community for a while, the
 ![](https://cdn.hackernoon.com/images/J4wbz3JAj4ck2KKzkB83S10DntP2-pkzb3193.jpeg)
 In this interview, we discuss Grim Reaper's crypto story, the reason for his anonymity, crypto mining, EIP 1559, and more.
 
-### [433. Smart Contracts are NOT Databases](https://hackernoon.com/smart-contracts-are-not-databases-t43532qc)
-![](https://cdn.hackernoon.com/drafts/5mh32aa.png)
-If it is not going to be used by a smart contract, dump it in an event
-
-### [434. Why Coinbase Choosing Ethereum Is a Huge Deal](https://hackernoon.com/why-coinbase-choosing-ethereum-is-a-huge-deal)
+### [433. Why Coinbase Choosing Ethereum Is a Huge Deal](https://hackernoon.com/why-coinbase-choosing-ethereum-is-a-huge-deal)
 ![](https://cdn.hackernoon.com/images/the-biggest-tower-in-the-world-from-the-point-of-view-of-outer-space-clg784vby000101s618jx2fs5.png)
 Ryan Adams details why Coinbase choosing Ethereum is a big deal.
+
+### [434. Smart Contracts are NOT Databases](https://hackernoon.com/smart-contracts-are-not-databases-t43532qc)
+![](https://cdn.hackernoon.com/drafts/5mh32aa.png)
+If it is not going to be used by a smart contract, dump it in an event
 
 ### [435. Ex-CEO Ranks the One Skill That Helped Him Navigate His Life](https://hackernoon.com/ex-ceo-ranks-the-one-skill-that-helped-him-navigate-his-life)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-fl02t54.png)
 Former CEO says logic and precision reign supreme in navigating the world.
 
-### [436. Ethereum is Not a World Computer, and Swarm is Much More Than Just a Hard Drive](https://hackernoon.com/ethereum-is-not-a-world-computer-and-swarm-is-much-more-than-just-a-hard-drive)
-![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-sn02v7t.webp)
-Discover how Ethereum Swarm is more than just storage—it's the foundation of the decentralized web.
-
-### [437. An Analysis of the Cryptoskulls NFT Project in 2022](https://hackernoon.com/an-analysis-of-the-cryptoskulls-nft-project-in-2022)
-![](https://cdn.hackernoon.com/images/soISzN2CgYfpKX43LAwNr8IZ6613-1i03kaj.jpeg)
-A brief summary of the paraboolic rise of the CryptoSkulls NFT collection. 
-
-### [438. Non-fungible tokens (NFTs) are Here to Stay: A Primer](https://hackernoon.com/non-fungible-tokens-nfts-are-here-to-stay-a-primer-y532349p)
+### [436. Non-fungible tokens (NFTs) are Here to Stay: A Primer](https://hackernoon.com/non-fungible-tokens-nfts-are-here-to-stay-a-primer-y532349p)
 ![](https://cdn.hackernoon.com/images/BRszxP0rCybgvu6QgB4hwJwioRI2-43e34ix.png)
 In recent months, a Vincent Van Gogh painting, 45 drawings of a renowned Marvel Comic artist, and a rare digital sword from an online gaming world were stolen. In the traditional criminal network, these items would eventually be sold on the black market. 
 
-### [439. How Web3 Will Be Changed By The Merge](https://hackernoon.com/how-web3-will-be-changed-by-the-merge)
+### [437. Ethereum is Not a World Computer, and Swarm is Much More Than Just a Hard Drive](https://hackernoon.com/ethereum-is-not-a-world-computer-and-swarm-is-much-more-than-just-a-hard-drive)
+![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-sn02v7t.webp)
+Discover how Ethereum Swarm is more than just storage—it's the foundation of the decentralized web.
+
+### [438. An Analysis of the Cryptoskulls NFT Project in 2022](https://hackernoon.com/an-analysis-of-the-cryptoskulls-nft-project-in-2022)
+![](https://cdn.hackernoon.com/images/soISzN2CgYfpKX43LAwNr8IZ6613-1i03kaj.jpeg)
+A brief summary of the paraboolic rise of the CryptoSkulls NFT collection. 
+
+### [439. What the October 2025 Flash Crash Taught Us About Liquidations — And Why DeFi Needs Better Fail-Safe](https://hackernoon.com/what-the-october-2025-flash-crash-taught-us-about-liquidations-and-why-defi-needs-better-fail-safe)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-sx023ar.jpeg)
+DeFi’s October 2025 flash crash exposed critical weaknesses in liquidation models. Michael Egorov analyzes what broke, what worked, and how DeFi must evolve. 
+
+### [440. How Web3 Will Be Changed By The Merge](https://hackernoon.com/how-web3-will-be-changed-by-the-merge)
 ![](https://cdn.hackernoon.com/images/9vtRqXPYjXc1LRCXVTELc59Myu63-m593nix.jpeg)
 The Merge will change Ethereum - and web3 - forever.  The change from PoW to PoS will change how the blockchain can affect Web3 in the future when it matures.
 
-### [440. Investing in Crypto is not an Art ](https://hackernoon.com/investing-in-crypto-is-not-an-art)
+### [441. Investing in Crypto is not an Art ](https://hackernoon.com/investing-in-crypto-is-not-an-art)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-ri03o00.jpeg)
 Crypto is everywhere. It is here to stay, and investing in Cryptocurrency is not an art anymore. 
 
-### [441. The Emerging Techs That Will Drive the Fourth Industrial Revolution](https://hackernoon.com/how-blockchain-and-cryptocurrencies-will-drive-the-fourth-industrial-revolution-zh3932k9)
-![](https://cdn.hackernoon.com/images/m12w3255.jpg)
-From bespoke conveyor systems that enabled Henry Ford to build the first automobiles to the steam power that powered trains for trade, the first two industrial revolutions sparked a new era of prosperity and economic progress for humankind. More recently, the third revolution ushered in a new era of globalization with instantaneous communication, trade, and commerce over the Internet.
-
-### [442. Klein Finance: Low-Slippage, Low-Impermanent-Loss Decentralized Exchange in KCC](https://hackernoon.com/klein-finance-low-slippage-low-impermanent-loss-decentralized-exchange-in-kcc)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-h293ozg.png)
-Klein Finance is a liquidity provider on KCC (KuCoin Community Chain), on which tokens under KRC 2.0 standard can be traded.
-
-### [443. Think Twice Before Using Enums in Solidity Smart Contracts](https://hackernoon.com/beware-the-solidity-enums-9v1qa31b2)
-![](https://cdn.hackernoon.com/drafts/6s19131t7.png)
-Imagine you are writing a Solidity smart contract and one of its properties can be characterized as a type or state. In other words, something from a limited set of options. You immediately say to yourself: ”Great, I’ll just use enum type for this state variable.” On the one hand, this approach has some benefits like increased readability. On the other hand, it can easily take you down a tricky road potentially leading to problems.
-
-### [444. Who Owns Bitcoin? ](https://hackernoon.com/who-owns-bitcoin-zw1p326b)
-![](https://cdn.hackernoon.com/images/mte132x8.jpg)
-Important Questions About Crypto-Asset Ownership that can be Answered by Analyzing Blockchain Datasets
-
-### [445. All Blockchain Governance Protocols (2020 Edition) - Reviewed](https://hackernoon.com/all-blockchain-governance-protocols-2020-edition-reviewed-jd2j3yug)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ci82r3k.jpeg)
-Although human kicked off a quite challenging start of the year 2020, for most governance protocols of DAOs, they have made pretty great progress and gained a lot of attractions alongside DeFi.
-
-### [446. "How to DeFi" - Book Review](https://hackernoon.com/how-to-defi-book-review)
+### [442. "How to DeFi" - Book Review](https://hackernoon.com/how-to-defi-book-review)
 ![](https://cdn.hackernoon.com/images/mAOHgvckXsV1snqI594fvwy0w3h1-h2a3oxb.jpeg)
 "How to DeFi: Beginners" is a guide to learning and applying the technology behind decentralized applications (Dapps) and decentralized Finance (DeFi).
 
-### [447. Making A Case for OffChain Storage in Hyperledger Fabric [Deep Dive]](https://hackernoon.com/making-a-case-for-offchain-storage-in-hyperledger-fabric-deep-dive-2f8g32v0)
-![](https://cdn.hackernoon.com/images/nj1ty3ya1.jpg)
-In this article, I’ll try to explain the significance of OffChain Storage in Hyperledger Fabric and also the offchaindata application that I have built to demonstrate the offchain storage implementation using the Go Programming language for Hyperledger Fabric.
+### [443. The Emerging Techs That Will Drive the Fourth Industrial Revolution](https://hackernoon.com/how-blockchain-and-cryptocurrencies-will-drive-the-fourth-industrial-revolution-zh3932k9)
+![](https://cdn.hackernoon.com/images/m12w3255.jpg)
+From bespoke conveyor systems that enabled Henry Ford to build the first automobiles to the steam power that powered trains for trade, the first two industrial revolutions sparked a new era of prosperity and economic progress for humankind. More recently, the third revolution ushered in a new era of globalization with instantaneous communication, trade, and commerce over the Internet.
 
-### [448. Will the OpenWallet Foundation Deliver the Interoperability Digital Wallets Desperately Need? ](https://hackernoon.com/will-the-openwallet-foundation-deliver-the-interoperability-digital-wallets-desperately-need)
-![](https://cdn.hackernoon.com/images/rUC1fsEJ2IfSZAmF6dNopg6sX0t1-mc93gzu.jpeg)
-Banks, merchants, brands and nations have implemented literally hundreds of digital wallets as of this writing and in 2021 were used to make an astounding $15.9 trillion in payments.  Unfortunately, these wallets suffer from rampant problems such as questionable security, intrusive business models, black box design, and limited capabilities. And, they’re restricted by vendor lock-in to boot, with each wallet doing only a few things well.
+### [444. Klein Finance: Low-Slippage, Low-Impermanent-Loss Decentralized Exchange in KCC](https://hackernoon.com/klein-finance-low-slippage-low-impermanent-loss-decentralized-exchange-in-kcc)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-h293ozg.png)
+Klein Finance is a liquidity provider on KCC (KuCoin Community Chain), on which tokens under KRC 2.0 standard can be traded.
 
-### [449. Top 10 Resources for Learning Solidity](https://hackernoon.com/top-10-resources-for-learning-solidity)
+### [445. Think Twice Before Using Enums in Solidity Smart Contracts](https://hackernoon.com/beware-the-solidity-enums-9v1qa31b2)
+![](https://cdn.hackernoon.com/drafts/6s19131t7.png)
+Imagine you are writing a Solidity smart contract and one of its properties can be characterized as a type or state. In other words, something from a limited set of options. You immediately say to yourself: ”Great, I’ll just use enum type for this state variable.” On the one hand, this approach has some benefits like increased readability. On the other hand, it can easily take you down a tricky road potentially leading to problems.
+
+### [446. Who Owns Bitcoin? ](https://hackernoon.com/who-owns-bitcoin-zw1p326b)
+![](https://cdn.hackernoon.com/images/mte132x8.jpg)
+Important Questions About Crypto-Asset Ownership that can be Answered by Analyzing Blockchain Datasets
+
+### [447. All Blockchain Governance Protocols (2020 Edition) - Reviewed](https://hackernoon.com/all-blockchain-governance-protocols-2020-edition-reviewed-jd2j3yug)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ci82r3k.jpeg)
+Although human kicked off a quite challenging start of the year 2020, for most governance protocols of DAOs, they have made pretty great progress and gained a lot of attractions alongside DeFi.
+
+### [448. Top 10 Resources for Learning Solidity](https://hackernoon.com/top-10-resources-for-learning-solidity)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-q9930nc.jpeg)
 If you want to become a smart contract developer on Ethereum, then you need to learn Solidity. Let's look at 10 great sources that can help you on your journey.
 
-### [450. Eternal Storage : Building Dapps For the Future](https://hackernoon.com/eternal-storage-building-dapps-for-the-future-stl3xre)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN4apRNDKdiVRQHgNCjsOv1ijf8V2-hkco31xl.jpeg?alt=media&token=f1523a67-8ee6-4fbc-b616-b707e58466a2)
-TLDR: Eternal Storage provides the stable and flexible base needed to build and maintain long-lived decentralized applications.
+### [449. Will the OpenWallet Foundation Deliver the Interoperability Digital Wallets Desperately Need? ](https://hackernoon.com/will-the-openwallet-foundation-deliver-the-interoperability-digital-wallets-desperately-need)
+![](https://cdn.hackernoon.com/images/rUC1fsEJ2IfSZAmF6dNopg6sX0t1-mc93gzu.jpeg)
+Banks, merchants, brands and nations have implemented literally hundreds of digital wallets as of this writing and in 2021 were used to make an astounding $15.9 trillion in payments.  Unfortunately, these wallets suffer from rampant problems such as questionable security, intrusive business models, black box design, and limited capabilities. And, they’re restricted by vendor lock-in to boot, with each wallet doing only a few things well.
+
+### [450. Making A Case for OffChain Storage in Hyperledger Fabric [Deep Dive]](https://hackernoon.com/making-a-case-for-offchain-storage-in-hyperledger-fabric-deep-dive-2f8g32v0)
+![](https://cdn.hackernoon.com/images/nj1ty3ya1.jpg)
+In this article, I’ll try to explain the significance of OffChain Storage in Hyperledger Fabric and also the offchaindata application that I have built to demonstrate the offchain storage implementation using the Go Programming language for Hyperledger Fabric.
 
 ### [451. DINO (Decentralized In Name Only) Vs. True Decentralization](https://hackernoon.com/dino-decentralized-in-name-only-vs-true-decentralization-x3r339g)
 ![](https://cdn.hackernoon.com/images/O4qvFTzUanURZuKEPPa0E3qEJDB2-po2v11fg.jpeg)
 comparing centralization, partial (in name only) decentralization and true decentralization /  the problems with blockchains /  the single point of failure... 
 
-### [452. What is 'Sharding' and UTXO Scaling for Blockchain?](https://hackernoon.com/what-is-sharding-and-utxo-scaling-for-blockchain)
+### [452. Eternal Storage : Building Dapps For the Future](https://hackernoon.com/eternal-storage-building-dapps-for-the-future-stl3xre)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN4apRNDKdiVRQHgNCjsOv1ijf8V2-hkco31xl.jpeg?alt=media&token=f1523a67-8ee6-4fbc-b616-b707e58466a2)
+TLDR: Eternal Storage provides the stable and flexible base needed to build and maintain long-lived decentralized applications.
+
+### [453. Transient Storage: Ethereum's Game-Changing Feature](https://hackernoon.com/transient-storage-ethereums-game-changing-feature)
+![](https://cdn.hackernoon.com/images/0yWFzvZxdnR06ofY5hSQmg6HXd32-2yb3qcp.jpeg)
+Explore Transient Storage in Ethereum: a game-changer reducing transaction costs and enhancing operations. Discover its mechanism, significance, and use cases.
+
+### [454. How To Review a Governance Action](https://hackernoon.com/how-to-review-a-governance-action)
+![](https://cdn.hackernoon.com/images/9nMyFjQNicRJ5HwksmBytJBySMi2-z6a3rob.jpeg)
+Governors approving a change should know which functions are being called, what parameters are being used, and what effects these will have.
+
+### [455. What is 'Sharding' and UTXO Scaling for Blockchain?](https://hackernoon.com/what-is-sharding-and-utxo-scaling-for-blockchain)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-uj03blf.jpeg)
 We propose an improved algorithm called proof-of-less-work.
 
 
-### [453. The Lay of the Cryptoland - Part I: Coins, Wallets, and Exchanges](https://hackernoon.com/the-lay-of-the-cryptoland-part-i-coins-wallets-and-exchanges)
+### [456. The Lay of the Cryptoland - Part I: Coins, Wallets, and Exchanges](https://hackernoon.com/the-lay-of-the-cryptoland-part-i-coins-wallets-and-exchanges)
 ![](https://cdn.hackernoon.com/images/OkskACwfJSV9GlgHDeK1JUJXAot2-tj1ki37p8.jpeg)
 A beginner's guide to the crypto ecosystem
 
-### [454. Risk-Free Futures Market Making by Hedging Long Straddle Options](https://hackernoon.com/risk-free-futures-market-making-by-hedging-long-straddle-options-pc1236bl)
+### [457. Risk-Free Futures Market Making by Hedging Long Straddle Options](https://hackernoon.com/risk-free-futures-market-making-by-hedging-long-straddle-options-pc1236bl)
 ![](https://cdn.hackernoon.com/images/j87g36h6.jpg)
 
 
-### [455. Mastering DeFi: A Practical Guide For Beginners And The Advanced](https://hackernoon.com/mastering-defi-a-practical-guide-for-beginners-and-the-advanced-vp2g3w8e)
+### [458. Mastering DeFi: A Practical Guide For Beginners And The Advanced](https://hackernoon.com/mastering-defi-a-practical-guide-for-beginners-and-the-advanced-vp2g3w8e)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnxtWKMHuO1UKGUbmzmzTuQsBx4H2-ua1i309t.jpeg?alt=media&token=16df6243-1993-4574-83b0-8657381c1a42)
 
 
-### [456. How To Review a Governance Action](https://hackernoon.com/how-to-review-a-governance-action)
-![](https://cdn.hackernoon.com/images/9nMyFjQNicRJ5HwksmBytJBySMi2-z6a3rob.jpeg)
-Governors approving a change should know which functions are being called, what parameters are being used, and what effects these will have.
-
-### [457. Model-Driven Smart Contract Development for Everyone](https://hackernoon.com/model-driven-smart-contract-development-for-everyone-jiu32p0)
+### [459. Model-Driven Smart Contract Development for Everyone](https://hackernoon.com/model-driven-smart-contract-development-for-everyone-jiu32p0)
 ![](https://cdn.hackernoon.com/images/7cj32hp.jpg)
 TL;DR
 
-### [458. Transient Storage: Ethereum's Game-Changing Feature](https://hackernoon.com/transient-storage-ethereums-game-changing-feature)
-![](https://cdn.hackernoon.com/images/0yWFzvZxdnR06ofY5hSQmg6HXd32-2yb3qcp.jpeg)
-Explore Transient Storage in Ethereum: a game-changer reducing transaction costs and enhancing operations. Discover its mechanism, significance, and use cases.
-
-### [459. A proposal for a worldwide regulation of Cryptocurrencies, DAOs, and Taxation](https://hackernoon.com/a-proposal-for-a-worldwide-regulation-of-cryptocurrencies-daos-and-taxation-jh1x83acj)
+### [460. A proposal for a worldwide regulation of Cryptocurrencies, DAOs, and Taxation](https://hackernoon.com/a-proposal-for-a-worldwide-regulation-of-cryptocurrencies-daos-and-taxation-jh1x83acj)
 ![](https://cdn.hackernoon.com/images/1f1ym3a3o.jpg)
 
 
-### [460. The Bitcoin Drop Explained in Seven Fascinating Blockchain Analytics](https://hackernoon.com/the-bitcoin-drop-explained-in-seven-fascinating-blockchain-analytics-p5n36gk)
+### [461. The Bitcoin Drop Explained in Seven Fascinating Blockchain Analytics](https://hackernoon.com/the-bitcoin-drop-explained-in-seven-fascinating-blockchain-analytics-p5n36gk)
 ![](https://cdn.hackernoon.com/images/0f8w362f.jpg)
 We are going through one those irrationally bearish moments in the cryptocurrency markets with prices dropping from mid 8000s to low 7000s. A lot of speculation has been created around the macro-factors influencing the downturn. 
 
-### [461. Using Drizzle (Truffle) with React Hooks](https://hackernoon.com/using-drizzle-truffle-with-react-hooks-cr3lt34wx)
+### [462. Using Drizzle (Truffle) with React Hooks](https://hackernoon.com/using-drizzle-truffle-with-react-hooks-cr3lt34wx)
 ![](https://cdn.hackernoon.com/images/xj3sr34su.jpg)
 Wondering how to implement Drizzle using React Hooks?
 
-### [462. What's Inside the Long-Term Plans of the Coinbase Ventures Portfolio?](https://hackernoon.com/whats-inside-the-long-term-plans-of-the-coinbase-ventures-portfolio-di1j3w90)
+### [463. What's Inside the Long-Term Plans of the Coinbase Ventures Portfolio?](https://hackernoon.com/whats-inside-the-long-term-plans-of-the-coinbase-ventures-portfolio-di1j3w90)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fjp2GCYsVZbgZwDeBVAXvSl5mIum2-z31x3w77.jpeg?alt=media&token=570d971d-47b2-4498-9fcb-bbf60862b026)
 Coinbase represents one of the world’s most popular digital currency exchanges, but the company is involved in numerous other crypto-related spheres. For instance, it has its very own investment department named Coinbase Ventures. 
 
@@ -1927,117 +1933,115 @@ The goal of Coinbase Ventures is to help create a suitable open financial system
 
 This article will highlight Coinbase Venture’s long-term plans by providing readers with an overview of the most promising ventures. 
 
-### [463. What the October 2025 Flash Crash Taught Us About Liquidations — And Why DeFi Needs Better Fail-Safe](https://hackernoon.com/what-the-october-2025-flash-crash-taught-us-about-liquidations-and-why-defi-needs-better-fail-safe)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-sx023ar.jpeg)
-DeFi’s October 2025 flash crash exposed critical weaknesses in liquidation models. Michael Egorov analyzes what broke, what worked, and how DeFi must evolve. 
-
 ### [464. How to Set Up Metamask and Add ETH to Your Wallet](https://hackernoon.com/how-to-set-up-metamask-and-add-eth-to-your-wallet)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-jj93hdd.jpeg)
 Let's explore how to maximize your metamask wallet for defi trading on ethereum and bsc.
 
-### [465. Q&A with Brendan Playford, Founder of Masa Finance](https://hackernoon.com/qanda-with-brendan-playford-founder-and-ceo-of-masa-finance)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-n793nvh.jpeg)
-
-
-### [466. Do the Top 10 Ethereum Dapps Total Less Than 10k Users? ](https://hackernoon.com/do-the-top-ten-ethereum-dapps-total-less-than-10k-users-01h132re)
-![](https://cdn.hackernoon.com/images/9cl2ek6.gif)
-Ethereum claims to be "world’s programmable blockchain." 
-
-### [467. Why DeFi Needs Decentralized Oracles](https://hackernoon.com/why-defi-needs-decentralized-oracles-om363wbb)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRwQ8g2oLuscmu819HH7r8U0T0Yw2-ezj3t81.jpeg?alt=media&token=0494df39-dc95-4980-b134-239ba2a36469)
-Decentralized finance, or DeFi, is a relatively recent variation on FinTech that is seeing a massive surge in popularity. As of the time of writing, there’s over $12.4 billion of value locked into DeFi, which is an enormous jump up from the $547 million it held a year ago. 
-
-### [468. The Noonification: Feature Optimization for Price Prediction (11/26/2023)](https://hackernoon.com/11-26-2023-noonification)
+### [465. The Noonification: Feature Optimization for Price Prediction (11/26/2023)](https://hackernoon.com/11-26-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_574_yh7izvailqdb4vx820wuh49t.png)
 11/26/2023: Top 5 stories on the Hackernoon homepage!
 
-### [469. The Funny Oddities of the People in Crypto](https://hackernoon.com/funny-oddities-of-the-people-in-crypto-xcb43xk7)
-![](https://cdn.hackernoon.com/images/57az3x62.jpg)
-Illogical projects, a few absurd people, redundant narratives and the never-ending supply of trolls and memes — over the past few years, the Cryptocurrency space has not for a moment failed to excite its many followers and workers.
+### [466. Q&A with Brendan Playford, Founder of Masa Finance](https://hackernoon.com/qanda-with-brendan-playford-founder-and-ceo-of-masa-finance)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-n793nvh.jpeg)
 
-### [470. How to Make Money with Crypto in 2023: Think Bigger](https://hackernoon.com/how-to-make-money-with-crypto-in-2023-think-bigger)
+
+### [467. How to Make Money with Crypto in 2023: Think Bigger](https://hackernoon.com/how-to-make-money-with-crypto-in-2023-think-bigger)
 ![](https://cdn.hackernoon.com/images/ZTTHMznNpOU8E23w6ngIBTrJYyG2-sqf3pr0.jpeg)
 You didn’t have to be an expert to earn on crypto back in 2021. Most of the coins were surging by 10X, 50X, and even more. The total crypto market cap grew by 300%: even if you’d blindly invest in a few coins, you’d most likely get a good profit. 
 
-### [471. Web3 Walkthrough — Part 2 — Becoming a Web3 Developer](https://hackernoon.com/web3-walkthrough-part-2-becoming-a-web3-developer)
+### [468. Do the Top 10 Ethereum Dapps Total Less Than 10k Users? ](https://hackernoon.com/do-the-top-ten-ethereum-dapps-total-less-than-10k-users-01h132re)
+![](https://cdn.hackernoon.com/images/9cl2ek6.gif)
+Ethereum claims to be "world’s programmable blockchain." 
+
+### [469. Why DeFi Needs Decentralized Oracles](https://hackernoon.com/why-defi-needs-decentralized-oracles-om363wbb)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRwQ8g2oLuscmu819HH7r8U0T0Yw2-ezj3t81.jpeg?alt=media&token=0494df39-dc95-4980-b134-239ba2a36469)
+Decentralized finance, or DeFi, is a relatively recent variation on FinTech that is seeing a massive surge in popularity. As of the time of writing, there’s over $12.4 billion of value locked into DeFi, which is an enormous jump up from the $547 million it held a year ago. 
+
+### [470. Web3 Walkthrough — Part 2 — Becoming a Web3 Developer](https://hackernoon.com/web3-walkthrough-part-2-becoming-a-web3-developer)
 ![](https://cdn.hackernoon.com/images/9vtRqXPYjXc1LRCXVTELc59Myu63-hg93njs.jpeg)
 Learn to be a web3 developer today. Take ACTION!
 
-### [472. Ethereum Hardfork: Fundamental Changes Coming To The Second Largest Crypto](https://hackernoon.com/ethereum-hardfork-fundamental-changes-coming-to-the-second-largest-crypto-4h2937w0)
-![](https://cdn.hackernoon.com/images/5rS4yrERbxUtfUCTsrb3x2kieP32-w7q37lg.jpeg)
-The famous EIP-1559, one of the most anticipated updates for Ethereum and the entire cryptocurrency industry in 2021, is finally set to roll out on August 4. 
+### [471. The Funny Oddities of the People in Crypto](https://hackernoon.com/funny-oddities-of-the-people-in-crypto-xcb43xk7)
+![](https://cdn.hackernoon.com/images/57az3x62.jpg)
+Illogical projects, a few absurd people, redundant narratives and the never-ending supply of trolls and memes — over the past few years, the Cryptocurrency space has not for a moment failed to excite its many followers and workers.
+
+### [472. Why NFTs are Currently Useless (mostly) - the Future of Web3 and NFTs](https://hackernoon.com/why-nfts-are-currently-useless-mostly-the-future-of-web3-and-nfts)
+![](https://cdn.hackernoon.com/images/uLO5GkE40EZZwJ936BZ4yfgk4a42-73l3li4.jpeg)
+NFTs have surpassed the mere applications of  projects like Cryptokitties or BoredApes - welcome to the future of utility enabled NFTs.
 
 ### [473. Using Infura to Access Ethereum Archive Nodes ](https://hackernoon.com/accessing-ethereum-archive-nodes-with-infura)
 ![](https://cdn.hackernoon.com/images/YpGUqiNYo2Sl2tRp2O2FS0ePM0V2-pd93g1i.jpeg)
 Learn about Ethereum Archive Nodes then build a simple React project to see how to access historical blockchain data using an Infura RPC endpoint 
 
-### [474. The Crypto Challenge To The Amazons & The Microsofts in The Computing Storage Market ](https://hackernoon.com/the-crypto-challenge-to-the-amazons-and-the-microsofts-in-the-computing-storage-market-8pfp328b)
-![](https://cdn.hackernoon.com/drafts/yc9t3zi9.png)
-Following the invention of the Internet by Robert Kahn in 1983, there are multiple developments that have focused on improving the Internet. The most remarkable improvement that has taken place is the decentralization of the Internet. The development has been massive enough to the extent of transforming different activities in modern society ranging from governance, law and trust to finance, health tech and fractional ownership.		
-
-### [475. 3 Ways to Prevent Reentrancy Attacks in Smart Contract Development](https://hackernoon.com/3-ways-to-prevent-reentrancy-attacks-in-smart-contract-development)
+### [474. 3 Ways to Prevent Reentrancy Attacks in Smart Contract Development](https://hackernoon.com/3-ways-to-prevent-reentrancy-attacks-in-smart-contract-development)
 ![](https://cdn.hackernoon.com/images/kw3QJxcqVgfN1ahfqsw2FRBwNcD3-t393pjd.jpeg)
 This blog post introduces the smart contract reentrancy attack bug and its impact along with describing fixes for this type of vulnerability. Read on...
 
-### [476. Why NFTs are Currently Useless (mostly) - the Future of Web3 and NFTs](https://hackernoon.com/why-nfts-are-currently-useless-mostly-the-future-of-web3-and-nfts)
-![](https://cdn.hackernoon.com/images/uLO5GkE40EZZwJ936BZ4yfgk4a42-73l3li4.jpeg)
-NFTs have surpassed the mere applications of  projects like Cryptokitties or BoredApes - welcome to the future of utility enabled NFTs.
+### [475. Ethereum Hardfork: Fundamental Changes Coming To The Second Largest Crypto](https://hackernoon.com/ethereum-hardfork-fundamental-changes-coming-to-the-second-largest-crypto-4h2937w0)
+![](https://cdn.hackernoon.com/images/5rS4yrERbxUtfUCTsrb3x2kieP32-w7q37lg.jpeg)
+The famous EIP-1559, one of the most anticipated updates for Ethereum and the entire cryptocurrency industry in 2021, is finally set to roll out on August 4. 
 
-### [477. How Ethereum Clients Work Together for Security and Consensus](https://hackernoon.com/how-ethereum-clients-work-together-for-security-and-consensus)
-![](https://cdn.hackernoon.com/images/cybersecurity-b7klzd90kdf5x5216xkhm3hf.png)
-Ethereum is a digital world where money works in new ways, and it's super smart. But how does it make sure everything is fair and nobody tricks the system? 
+### [476. The Crypto Challenge To The Amazons & The Microsofts in The Computing Storage Market ](https://hackernoon.com/the-crypto-challenge-to-the-amazons-and-the-microsofts-in-the-computing-storage-market-8pfp328b)
+![](https://cdn.hackernoon.com/drafts/yc9t3zi9.png)
+Following the invention of the Internet by Robert Kahn in 1983, there are multiple developments that have focused on improving the Internet. The most remarkable improvement that has taken place is the decentralization of the Internet. The development has been massive enough to the extent of transforming different activities in modern society ranging from governance, law and trust to finance, health tech and fractional ownership.		
 
-### [478. Ethereum Valuation Using the Edosophia Macro Model ](https://hackernoon.com/ethereum-valuation-using-the-edosophia-macro-model-z03f3110)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-bi1428v7.jpeg)
-True value derives from the usefulness of an invention to solve a problem. Similarly, Ethereum derives its value from scarcity and its ability to problem-solve.
-
-### [479. Ethereum Is More Than Crypto. It’s a Machine for Making Worlds](https://hackernoon.com/ethereum-is-more-than-crypto-its-a-machine-for-making-worlds)
+### [477. Ethereum Is More Than Crypto. It’s a Machine for Making Worlds](https://hackernoon.com/ethereum-is-more-than-crypto-its-a-machine-for-making-worlds)
 ![](https://cdn.hackernoon.com/images/A4JSMF8KeKZDhK6benXc4ynf0xZ2-f423a5e.png)
 A philosophical journey through Ethereum—exploring code, consensus, and decentralization as metaphysical, ethical, and aesthetic forces. 
 
-### [480. Most focused top 3 NFT projects - Why - “Utility as an in-game avatar to DeFi”](https://hackernoon.com/most-focused-top-3-nft-projects-why-utility-as-an-in-game-avatar-to-defi-rmm3784)
-![](https://cdn.hackernoon.com/images/ZCZiTG9f6wgSEtFVIS1Hddo21bX2-5y9353d.png)
-Since the start of the pandemic, people have embraced virtual lives. Video games have been major beneficiaries of this shift, particularly online games where people visit to spend time and have fun. These games, many of which are free to play, make money by enabling players to purchase extra in-game virtual assets such as “skins” (costumes for their avatar) or upgrade specific powers or experiences.
+### [478. How Ethereum Clients Work Together for Security and Consensus](https://hackernoon.com/how-ethereum-clients-work-together-for-security-and-consensus)
+![](https://cdn.hackernoon.com/images/cybersecurity-b7klzd90kdf5x5216xkhm3hf.png)
+Ethereum is a digital world where money works in new ways, and it's super smart. But how does it make sure everything is fair and nobody tricks the system? 
 
-### [481. The Road to Defi 2.0](https://hackernoon.com/the-road-to-defi-20-xzg3zvi)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWX7ai15Hr1RmyCFCEXaiaVlo0j02-9n3m33em.jpeg?alt=media&token=f6d6cc43-af25-4e30-b7a4-c7190f40dcfc)
-As an advocate of open market and capitalism, in the book The Road to Serfdom, P. A. Hayek claimed that the competition in the free market would be much better than centralized and mandatory planning because he believed the open competition was the only way to coordinate social activities and stay away from the autocracy and manipulation.
+### [479. Ethereum Valuation Using the Edosophia Macro Model ](https://hackernoon.com/ethereum-valuation-using-the-edosophia-macro-model-z03f3110)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-bi1428v7.jpeg)
+True value derives from the usefulness of an invention to solve a problem. Similarly, Ethereum derives its value from scarcity and its ability to problem-solve.
 
-### [482. What is a Dapp? And What it Most Definitely is Not.](https://hackernoon.com/what-a-dapp-really-is-really-pi2vb17mz)
+### [480. What is a Dapp? And What it Most Definitely is Not.](https://hackernoon.com/what-a-dapp-really-is-really-pi2vb17mz)
 ![](https://cdn.hackernoon.com/drafts/9r16z17os.png)
 1. Definition
 
-### [483. Optimistic Rollups vs ZK-Rollups: Ethereum vs. Base's Scaling Approaches](https://hackernoon.com/optimistic-rollups-vs-zk-rollups-ethereum-vs-bases-scaling-approaches)
+### [481. Most focused top 3 NFT projects - Why - “Utility as an in-game avatar to DeFi”](https://hackernoon.com/most-focused-top-3-nft-projects-why-utility-as-an-in-game-avatar-to-defi-rmm3784)
+![](https://cdn.hackernoon.com/images/ZCZiTG9f6wgSEtFVIS1Hddo21bX2-5y9353d.png)
+Since the start of the pandemic, people have embraced virtual lives. Video games have been major beneficiaries of this shift, particularly online games where people visit to spend time and have fun. These games, many of which are free to play, make money by enabling players to purchase extra in-game virtual assets such as “skins” (costumes for their avatar) or upgrade specific powers or experiences.
+
+### [482. The Road to Defi 2.0](https://hackernoon.com/the-road-to-defi-20-xzg3zvi)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWX7ai15Hr1RmyCFCEXaiaVlo0j02-9n3m33em.jpeg?alt=media&token=f6d6cc43-af25-4e30-b7a4-c7190f40dcfc)
+As an advocate of open market and capitalism, in the book The Road to Serfdom, P. A. Hayek claimed that the competition in the free market would be much better than centralized and mandatory planning because he believed the open competition was the only way to coordinate social activities and stay away from the autocracy and manipulation.
+
+### [483. Which RPC node—Ethereum, Solana, or Polygon—is the best choice for your dApp?​](https://hackernoon.com/which-rpc-nodeethereum-solana-or-polygonis-the-best-choice-for-your-dapp)
+![](https://cdn.hackernoon.com/images/0xc3dae29f3fc59bfcef7bab95bc7266173338213f-sf93c1q.png)
+Comparison of Ethereum, Solana, Polygon RPC providers (GetBlock, Infura, Alchemy, QuickNode) for DeFi: performance, pricing & features analyzed.
+
+
+
+### [484. Optimistic Rollups vs ZK-Rollups: Ethereum vs. Base's Scaling Approaches](https://hackernoon.com/optimistic-rollups-vs-zk-rollups-ethereum-vs-bases-scaling-approaches)
 ![](https://cdn.hackernoon.com/images/IfwhWNNpqYaoeeYNGaYNu6oiNSj1-ck73k99.jpeg)
 Discover how ZK and Optimistic Rollups enhance Ethereum's scalability by reducing transaction fees and improving speed. 
 
-### [484. All You Need to Know About DCCPA Crypto Regulation](https://hackernoon.com/all-you-need-to-know-about-dccpa-crypto-regulation)
+### [485. All You Need to Know About DCCPA Crypto Regulation](https://hackernoon.com/all-you-need-to-know-about-dccpa-crypto-regulation)
 ![](https://cdn.hackernoon.com/images/o8Wux6zYl7gG6HnQ4fbKK6Lnq2h2-r7b3q1i.jpeg)
 DCCPA Crypto Regulation: All You Need to Know
 
-### [485. I Love Bitcoin But I Hate Bitcoin: An Economist](https://hackernoon.com/i-love-bitcoin-but-i-hate-bitcoin-an-economist-5t3733od)
+### [486. I Love Bitcoin But I Hate Bitcoin: An Economist](https://hackernoon.com/i-love-bitcoin-but-i-hate-bitcoin-an-economist-5t3733od)
 ![](https://cdn.hackernoon.com/images/Qba5s3Jm3tf7wieS5ydYonkEJSh2-k53131az.jpeg)
 I admit it. I’m tsundere for Bitcoin. One could say I both love the leading cryptocurrency with all of my heart and hate its hard-coded consensus guts.
 
-### [486. Going Green: Can Blockchain Save the Planet?](https://hackernoon.com/going-green-can-blockchain-save-the-planet-34edb9dc3c21)
+### [487. Going Green: Can Blockchain Save the Planet?](https://hackernoon.com/going-green-can-blockchain-save-the-planet-34edb9dc3c21)
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-sw837ms.jpeg)
 The Intergovernmental Panel on Climate Change (IPCC) recently concluded that, at the current rate of human activity relating to global greenhouse gas emission pathways, we are facing a threat of a <a href="https://report.ipcc.ch/sr15/pdf/sr15_spm_final.pdf" target="_blank">1.5°C of global warming above pre-industrial levels</a>. This may not sound like a large number, but the consequences are dire — think rising sea levels leading to flooding of lowland areas, degradation of tundras and rainforests, and increased CO₂ concentration in oceans leading to mass bleaching of coral reef ecosystems. That last one hits particularly close to home, being a scuba-diver myself.
 
-### [487. Co-Chains: Bridging Public and Private chains as a way to INTEROPERABILITY?](https://hackernoon.com/co-chains-bridging-public-and-private-chains-as-a-way-to-interoperability-1y3332kg)
+### [488. Co-Chains: Bridging Public and Private chains as a way to INTEROPERABILITY?](https://hackernoon.com/co-chains-bridging-public-and-private-chains-as-a-way-to-interoperability-1y3332kg)
 ![](https://images.unsplash.com/photo-1449034446853-66c86144b0ad?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Blockchain industry is developing at a very high pace of innovation, adjusting and tuning its parameters, trying to find its market fit. There are thousands of projects available on the CMC, but just a few really worth a bigger attention. Lets try to briefly review the industry, its trends, where we are heading, and how Hybrid platforms (priv+pub) fit into a bigger picture.
 
-### [488. Devcon 2024: The Historic Event for Ethereum Community and The Future of Web3](https://hackernoon.com/devcon-2024-the-historic-event-for-ethereum-community-and-the-future-of-web3)
+### [489. Devcon 2024: The Historic Event for Ethereum Community and The Future of Web3](https://hackernoon.com/devcon-2024-the-historic-event-for-ethereum-community-and-the-future-of-web3)
 ![](https://cdn.hackernoon.com/images/6QzmwdnBzQgN4B1y6LieCT8zOfV2-je13dkm.png)
 Devcon 2024 by Ethereum Foundation. Web3 product marketer shares impressions about the biggest blockchain and crypto event. AI agents, memecoins, ZK, and RWA.
 
-### [489. A Deep Dive into Augur and What v2 Holds for Its Users](https://hackernoon.com/a-deep-dive-into-augur-and-what-v2-holds-for-its-users-qr7y327t)
+### [490. A Deep Dive into Augur and What v2 Holds for Its Users](https://hackernoon.com/a-deep-dive-into-augur-and-what-v2-holds-for-its-users-qr7y327t)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-b082qma.jpeg)
 Augur is a decentralized prediction market protocol built upon Ethereum which allows users to speculate on anything. Prediction markets are a sector ripe for disruption from blockchain technology; however, scalability problems and broader adoption remain as potential growth inhibitors when it comes to a project like Augur. 
-
-### [490. The Ultimate Guide for Cryptocurrency Guides – No, This Is Not A Typo](https://hackernoon.com/the-ultimate-guide-for-cryptocurrency-guides-no-this-is-not-a-typo-lyd347b)
-![](https://cdn.hackernoon.com/images/gPaPGvf3PJfuQWl6JgbSMewWfin1-iua63wq1.png)
-In all my discussions and brainstorming sessions about crypto with others, I keep going back and forth on one particular aspect – reliable reading resources on various topics. Whenever something new comes up, the first thing on my mind is where to learn all about it. 
 
 ### [491. December is Packed With Events That Could Define Crypto's 2025](https://hackernoon.com/december-is-packed-with-events-that-could-define-cryptos-2025)
 ![](https://cdn.hackernoon.com/images/y2n4tY4QzFMf0GccUNg9hyQFUR03-53236hi.jpeg)
@@ -2047,39 +2051,37 @@ Disclosing the Q4 updates that predefine next year’s market.
 ![](https://cdn.hackernoon.com/images/a-giant-menacing-judge-t88okearh4bwnxg6wfdk93jw.png)
 Consensys sues the SEC over $800 billion token Ether
 
-### [493. Accessing Real-time Smart Contract Data From Python Code (Using Lido Contract as an Example)](https://hackernoon.com/accessing-real-time-smart-contract-data-from-python-code-using-lido-contract-as-an-example)
+### [493. The Ultimate Guide for Cryptocurrency Guides – No, This Is Not A Typo](https://hackernoon.com/the-ultimate-guide-for-cryptocurrency-guides-no-this-is-not-a-typo-lyd347b)
+![](https://cdn.hackernoon.com/images/gPaPGvf3PJfuQWl6JgbSMewWfin1-iua63wq1.png)
+In all my discussions and brainstorming sessions about crypto with others, I keep going back and forth on one particular aspect – reliable reading resources on various topics. Whenever something new comes up, the first thing on my mind is where to learn all about it. 
+
+### [494. Accessing Real-time Smart Contract Data From Python Code (Using Lido Contract as an Example)](https://hackernoon.com/accessing-real-time-smart-contract-data-from-python-code-using-lido-contract-as-an-example)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-kz92gqb.jpeg)
 In this tutorial, I’ll show you more sophisticated data access tools that are more like a surgical scalpel.
 
-### [494. Some Shocking Data Analyses About Stablecoins](https://hackernoon.com/some-shocking-data-analyses-about-stablecoins-e8mh33qo)
+### [495. Some Shocking Data Analyses About Stablecoins](https://hackernoon.com/some-shocking-data-analyses-about-stablecoins-e8mh33qo)
 ![](https://cdn.hackernoon.com/drafts/9mlx33td.png)
 Stablecoins are one of the most relevant developments in the crypto ecosystem and one that has been increasingly getting traction. Recently, I presented a session that highlighted some interesting analyses that arise from applying data science methods on stablecoin’s blockchain data. The slide deck and video from the session will be available soon but I thought I share some of the most intriguing data points.
 
-### [495. Which RPC node—Ethereum, Solana, or Polygon—is the best choice for your dApp?​](https://hackernoon.com/which-rpc-nodeethereum-solana-or-polygonis-the-best-choice-for-your-dapp)
-![](https://cdn.hackernoon.com/images/0xc3dae29f3fc59bfcef7bab95bc7266173338213f-sf93c1q.png)
-Comparison of Ethereum, Solana, Polygon RPC providers (GetBlock, Infura, Alchemy, QuickNode) for DeFi: performance, pricing & features analyzed.
+### [496. The Exciting Road to Solidity 1.0.0](https://hackernoon.com/the-exciting-road-to-solidity-100)
+![](https://cdn.hackernoon.com/images/0yWFzvZxdnR06ofY5hSQmg6HXd32-to93p2m.jpeg)
+Solidity's Evolution Unveiled: Anticipate Breakthroughs in Solidity 1.0.0 - Smarter, Faster, Stronger Smart Contract Language!
 
+### [497. How to Add Arbitrum to a MetaMask Wallet](https://hackernoon.com/how-to-add-arbitrum-to-a-metamask-wallet)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-p79312h.jpeg)
+The Ethereum blockchain is a utility blockchain that doesn't stop at powering the ETH cryptocurrency. It extends its use cases to other applications like smart 
 
+### [498. DApps 101: Decoding Legality, Privacy, and Token Security](https://hackernoon.com/a-beginners-guide-to-dapps-decoding-legality-privacy-and-token-security-h855x34g5)
+![](https://cdn.hackernoon.com/images/om2lg34ly.jpg)
+Over the past few years, the overwhelming popularity of blockchain platforms such as Ethereum and EOS have introduced the world to a new computing paradigm: decentralized applications. 
 
-### [496. Extrapolating The Future of Cryptocurrency](https://hackernoon.com/extrapolating-the-future-of-cryptocurrency-4h1p3wp5)
+### [499. Extrapolating The Future of Cryptocurrency](https://hackernoon.com/extrapolating-the-future-of-cryptocurrency-4h1p3wp5)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkuGSv82WVjg0Rg1B2LpgBSZbY7p1-5al3xhd.jpeg?alt=media&token=abb94f7d-f465-4330-9537-254e855e9b66)
 Over the past decade, cryptocurrency has become a breaker of old approaches in monetary policy, finance, economics, and e-commerce. The speed at which the crypto industry is growing today is very impressive. The global cryptocurrency market volume is predicted to reach $1,758 million by 2027 with a compound annual growth rate of 11.2%.
 
 More and more people are getting faced with the digital currency so the questions on the future of cryptocurrencies are becoming especially relevant today. So what is the future of cryptocurrency? In this article, we’ll try to figure this out.
 
-### [497. DApps 101: Decoding Legality, Privacy, and Token Security](https://hackernoon.com/a-beginners-guide-to-dapps-decoding-legality-privacy-and-token-security-h855x34g5)
-![](https://cdn.hackernoon.com/images/om2lg34ly.jpg)
-Over the past few years, the overwhelming popularity of blockchain platforms such as Ethereum and EOS have introduced the world to a new computing paradigm: decentralized applications. 
-
-### [498. The Exciting Road to Solidity 1.0.0](https://hackernoon.com/the-exciting-road-to-solidity-100)
-![](https://cdn.hackernoon.com/images/0yWFzvZxdnR06ofY5hSQmg6HXd32-to93p2m.jpeg)
-Solidity's Evolution Unveiled: Anticipate Breakthroughs in Solidity 1.0.0 - Smarter, Faster, Stronger Smart Contract Language!
-
-### [499. The Crypto Rises: The Future of Moving Money](https://hackernoon.com/the-crypto-rises-the-future-of-moving-money-026631e1)
+### [500. The Crypto Rises: The Future of Moving Money](https://hackernoon.com/the-crypto-rises-the-future-of-moving-money-026631e1)
 ![](https://cdn.hackernoon.com/images/yZ5bGLBH3QdwmkcDn6GbYphig3S2-itge342l.gif)
 SWIFT payments are a broken system that help financial institutions at the expense of users but they will soon be disrupted with the help of cryptocurrency,
-
-### [500. How to Add Arbitrum to a MetaMask Wallet](https://hackernoon.com/how-to-add-arbitrum-to-a-metamask-wallet)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-p79312h.jpeg)
-The Ethereum blockchain is a utility blockchain that doesn't stop at powering the ETH cryptocurrency. It extends its use cases to other applications like smart 
 

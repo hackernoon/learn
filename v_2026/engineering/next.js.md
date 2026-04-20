@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [next.js](https://hackernoon.com/tagged/next.js)
+### Let's learn about [Next.js](https://hackernoon.com/tagged/next.js) via these 67 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Next.js is a flexible React framework that gives you building blocks to create fast web applications. It's used on internet pages like this one :-) 
 
 ### [1. 30 Next.js Interview Questions: Get Ready for Your Dream Job](https://hackernoon.com/30-nextjs-interview-questions-get-ready-for-your-dream-job)
@@ -87,45 +89,45 @@ Come on a journey with me as I create a self-generating news app, powered by aut
 ![](https://cdn.hackernoon.com/images/htVjKcTLFYes7Isse0vYEolH3GF2-9m92isc.jpeg)
 FaceIO is a facial authentication framework that can easily be integrated into any website or web app using a simple JavaScript snippet.
 
-### [22. Secure Your Next.js Apps with Jscrambler](https://hackernoon.com/secure-your-nextjs-apps-with-jscrambler)
-![](https://cdn.hackernoon.com/images/1JNoLAkx1ZO5O8qO5dcdNjh6RQw1-wd1372g.jpeg)
-In this article, we’ll look at how you can integrate Jscrambler into your Next.js app development workflow.
-
-### [23. Moonshot's Kimi K2 Is a Hefty Contender to Claude, GPT-4 & Even Gemini](https://hackernoon.com/moonshots-kimi-k2-is-a-hefty-contender-to-claude-gpt-4-and-even-gemini)
+### [22. Moonshot's Kimi K2 Is a Hefty Contender to Claude, GPT-4 & Even Gemini](https://hackernoon.com/moonshots-kimi-k2-is-a-hefty-contender-to-claude-gpt-4-and-even-gemini)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-vl039om.png)
 Could models like Claude, GPT-4, or Gemini Pro be losing their top spot?
 
-### [24. Design Once, Reuse Everywhere — How I Built a Custom Shadcn UI Registry with Next.js and Vercel](https://hackernoon.com/design-once-reuse-everywhere-how-i-built-a-custom-shadcn-ui-registry-with-nextjs-and-vercel)
-![](https://cdn.hackernoon.com/images/vPAtR2l9msRL9X25DuyW2iGFfQv2-8r03bgl.png)
-Build and deploy a public shadcn/ui registry on Next.js & Vercel—covering setup, registry.json, cssVars, deps, and quick CLI install.
+### [23. Secure Your Next.js Apps with Jscrambler](https://hackernoon.com/secure-your-nextjs-apps-with-jscrambler)
+![](https://cdn.hackernoon.com/images/1JNoLAkx1ZO5O8qO5dcdNjh6RQw1-wd1372g.jpeg)
+In this article, we’ll look at how you can integrate Jscrambler into your Next.js app development workflow.
 
-### [25. Your Complete Guide to Self-Hosting Umami Analytics with Vercel and Supabase](https://hackernoon.com/your-complete-guide-to-self-hosting-umami-analytics-with-vercel-and-supabase)
+### [24. Your Complete Guide to Self-Hosting Umami Analytics with Vercel and Supabase](https://hackernoon.com/your-complete-guide-to-self-hosting-umami-analytics-with-vercel-and-supabase)
 ![](https://cdn.hackernoon.com/images/jhCIb6CFuDcQ7YBCTXKnCErt3qo2-8y832wn.jpeg)
 Umami Analytics is an open-source alternative to Google Analytics. It is free (open source) and allows self hosting (no vendor lock in).
 
-### [26. Migrating to Next.js 13: A Simple Walkthrough](https://hackernoon.com/migrating-to-nextjs-13-a-simple-walkthrough)
+### [25. Migrating to Next.js 13: A Simple Walkthrough](https://hackernoon.com/migrating-to-nextjs-13-a-simple-walkthrough)
 ![](https://cdn.hackernoon.com/images/rIVD9uGtDyTmdfox8lpMYgJi5AZ2-2l93xwr.jpeg)
 A step-by-step process for migrating from next.js 12 to 13. 
 
-### [27. MongoDB Support for NestJS Boilerplate With Hexagonal Architecture](https://hackernoon.com/mongodb-support-for-nestjs-boilerplate-with-hexagonal-architecture)
+### [26. MongoDB Support for NestJS Boilerplate With Hexagonal Architecture](https://hackernoon.com/mongodb-support-for-nestjs-boilerplate-with-hexagonal-architecture)
 ![](https://cdn.hackernoon.com/images/SFsbtjO6xoXZQmI9d6SeRPSFgnH2-1fb3806.jpeg)
 NestJS Boilerplate with MongoDB support implementation with hexagonal architecture
 
-### [28. How to Create a Contact Form Using Supabase & Next JS](https://hackernoon.com/how-to-create-a-contact-form-using-supabase-and-next-js)
+### [27. How to Create a Contact Form Using Supabase & Next JS](https://hackernoon.com/how-to-create-a-contact-form-using-supabase-and-next-js)
 ![](https://cdn.hackernoon.com/images/ZzIywxH9q4XRaclAvr2iax4otYn2-goc3wqr.jpeg)
 An introduction to Supabase — Part 1. Learn how to set up a database on Supabase to handle form submissions from a contact form.
 
-### [29. Here’s How I Built a Free, Open-Source Project Manager to Help Teams Keep Costs Under $15/Month](https://hackernoon.com/heres-how-i-built-a-free-open-source-project-manager-to-help-teams-keep-costs-under-$15month)
+### [28. Here’s How I Built a Free, Open-Source Project Manager to Help Teams Keep Costs Under $15/Month](https://hackernoon.com/heres-how-i-built-a-free-open-source-project-manager-to-help-teams-keep-costs-under-$15month)
 ![](https://cdn.hackernoon.com/images/3vn6gVC40lf9EZovJoHLxSOK5Gr1-76822cv.jpeg)
 Today, I'm excited to share my open-source project manager with you all. I built this from the ground up with the goal of keeping operational costs under $15 pe
 
-### [30. Streamline NestJS Setup with Extensive React Boilerplate](https://hackernoon.com/streamline-nestjs-setup-with-extensive-react-boilerplate)
+### [29. Streamline NestJS Setup with Extensive React Boilerplate](https://hackernoon.com/streamline-nestjs-setup-with-extensive-react-boilerplate)
 ![](https://cdn.hackernoon.com/images/SFsbtjO6xoXZQmI9d6SeRPSFgnH2-xa838b2.jpeg)
 Extensive React Boilerplate: what is it, what features include, how it complements Nest.js boilerplate to build full-stack apps
 
-### [31. Best JavaScript Frameworks 2025, Laravel vs. Next.js, and More - This Week in JS](https://hackernoon.com/best-javascript-frameworks-2025-laravel-vs-nextjs-and-more-this-week-in-js)
+### [30. Best JavaScript Frameworks 2025, Laravel vs. Next.js, and More - This Week in JS](https://hackernoon.com/best-javascript-frameworks-2025-laravel-vs-nextjs-and-more-this-week-in-js)
 ![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-yi03191.png)
 It’s 2025, and we've got some exciting trends to kick off the year, including the evolution of tech stacks, the Laravel vs Next.js rivalry
+
+### [31. Design Once, Reuse Everywhere — How I Built a Custom Shadcn UI Registry with Next.js and Vercel](https://hackernoon.com/design-once-reuse-everywhere-how-i-built-a-custom-shadcn-ui-registry-with-nextjs-and-vercel)
+![](https://cdn.hackernoon.com/images/vPAtR2l9msRL9X25DuyW2iGFfQv2-8r03bgl.png)
+Build and deploy a public shadcn/ui registry on Next.js & Vercel—covering setup, registry.json, cssVars, deps, and quick CLI install.
 
 ### [32. Automatic Image Optimization: Next.js 10 New Standards for 2020 ](https://hackernoon.com/automatic-image-optimization-nextjs-10-new-standards-for-2020-dc1h3zlf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXAzN6nKMBMW8TomIi1JTTlWalZD2-hx4i23m3.jpeg?alt=media&token=96a1d9fb-8ffe-40dc-aa7a-a3e5fb9d2feb)
@@ -183,51 +185,51 @@ In this article, I described how I created my blog using NextJs, Chakra UI, and 
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-q7033qa.webp)
 This tutorial is designed to guide you through building an AI-powered web application and showcase the potential of AI in everyday web development
 
-### [46. How to Deploy a Next.js Book Reader App on AWS with Docker](https://hackernoon.com/how-to-deploy-a-nextjs-book-reader-app-on-aws-with-docker)
-![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-50034or.png)
-Deploy a Next.js Book Reader App on AWS using Docker! Learn how to set up an EC2 instance, build a Docker image, and run your app in a container.
-
-### [47. Angular 19 Is Here, Next.js From China, NEWEST JavaScript Engine, and More - This Week in JS](https://hackernoon.com/angular-19-is-here-nextjs-from-china-newest-javascript-engine-and-more-this-week-in-js)
-![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-40031je.png)
-Today, we’ll be looking at Angular’s game-changing updates, an unknown JavaScript framework from China, and a revolutionary JavaScript engine called Nova
-
-### [48. Cut Load Times in Half with These Next.js Tweaks](https://hackernoon.com/cut-load-times-in-half-with-these-nextjs-tweaks)
-![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-pp036y4.png)
-To enhance your Next.js application performance you should prevent typical mistakes while applying essential optimization techniques. Discover methods to reduce
-
-### [49. Next.js Authentication Made Easy with Firebase](https://hackernoon.com/nextjs-authentication-made-easy-with-firebase)
-![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-cd823ft.jpeg)
-
-Set up secure authentication in your Next.js app with Firebase. Follow this step-by-step guide to quickly integrate Google and Email/Password sign-in methods.
-
-### [50. How to Add Real-time Page Views to Your Next.js Website](https://hackernoon.com/how-to-add-real-time-page-views-to-your-nextjs-website)
-![](https://cdn.hackernoon.com/images/page-views-op3w3jcpfrtvqnw75730pe6e.png)
-If you're searching for a simple and effective method to incorporate real-time page views into your next.js website, you've come across the perfect tutorial.
-
-### [51. Generative AI in JavaScript? Microsoft GenAIScript, Svelte 5, Next.js 15 and More - This Week in JS](https://hackernoon.com/generative-ai-in-javascript-microsoft-genaiscript-svelte-5-nextjs-15-and-more-this-week-in-js)
-![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-xe031sw.png)
-In this edition of This Week in Javascript, we’ve got some game-changing updates on Microsoft’s GenAIScript, the long-awaited Svelte 5 update, and more.
-
-### [52. Using Next.js to Effectively Format a Page and Structure Its SEO](https://hackernoon.com/using-nextjs-to-effectively-format-a-page-and-structure-its-seo)
-![](https://cdn.hackernoon.com/images/KqfopgYCVjenJNeh8DD99wUIl1C2-t593q4n.jpeg)
-Organizing your Next.js application and using its components.
-
-### [53. How to Add Reactivity to Your Next.js Blog Using Giscus](https://hackernoon.com/how-to-add-reactivity-to-your-nextjs-blog-using-giscus)
-![](https://cdn.hackernoon.com/images/uvPyUdEoEdYV8gHQ4NNQxq9OT3J3-ph93v6d.jpeg)
-Learn how to add A comments & reactions system to your Next.js blog powered by GitHub Discussions using giscus.
-
-### [54. How I Built an Infinite Canvas That Connects Git Repos, Notes, and Tasks](https://hackernoon.com/how-i-built-an-infinite-canvas-that-connects-git-repos-notes-and-tasks)
+### [46. How I Built an Infinite Canvas That Connects Git Repos, Notes, and Tasks](https://hackernoon.com/how-i-built-an-infinite-canvas-that-connects-git-repos-notes-and-tasks)
 ![](https://cdn.hackernoon.com/images/bBTGKWJXwPficRitLYNJJrpmjLe2-h283c0w.png)
 How Ideon combines ReactFlow, Yjs, and Git to create a real-time collaborative canvas for developers while solving sync conflicts, performance, and SSRF risks.
 
 
-### [55. An Intro to Middleware in NextJS 12](https://hackernoon.com/an-intro-to-middleware-in-nextjs-12)
-![](https://cdn.hackernoon.com/images/eUT0WvJnuqUhEFMKqi6Mi1hExjy2-kl0387a.jpeg)
-NextJS 12 was announced yesterday at the NextJS Conf and they announced a new feature called middleware which allows one to modify the response to a request.
+### [47. How to Deploy a Next.js Book Reader App on AWS with Docker](https://hackernoon.com/how-to-deploy-a-nextjs-book-reader-app-on-aws-with-docker)
+![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-50034or.png)
+Deploy a Next.js Book Reader App on AWS using Docker! Learn how to set up an EC2 instance, build a Docker image, and run your app in a container.
 
-### [56. How to Integrate Next.js with Electron Using React Server Components](https://hackernoon.com/how-to-integrate-nextjs-with-electron-using-react-server-components)
+### [48. Angular 19 Is Here, Next.js From China, NEWEST JavaScript Engine, and More - This Week in JS](https://hackernoon.com/angular-19-is-here-nextjs-from-china-newest-javascript-engine-and-more-this-week-in-js)
+![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-40031je.png)
+Today, we’ll be looking at Angular’s game-changing updates, an unknown JavaScript framework from China, and a revolutionary JavaScript engine called Nova
+
+### [49. Cut Load Times in Half with These Next.js Tweaks](https://hackernoon.com/cut-load-times-in-half-with-these-nextjs-tweaks)
+![](https://cdn.hackernoon.com/images/gDfaauvVjFfzLLeor0JAk1M6t702-pp036y4.png)
+To enhance your Next.js application performance you should prevent typical mistakes while applying essential optimization techniques. Discover methods to reduce
+
+### [50. Next.js Authentication Made Easy with Firebase](https://hackernoon.com/nextjs-authentication-made-easy-with-firebase)
+![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-cd823ft.jpeg)
+
+Set up secure authentication in your Next.js app with Firebase. Follow this step-by-step guide to quickly integrate Google and Email/Password sign-in methods.
+
+### [51. How to Add Real-time Page Views to Your Next.js Website](https://hackernoon.com/how-to-add-real-time-page-views-to-your-nextjs-website)
+![](https://cdn.hackernoon.com/images/page-views-op3w3jcpfrtvqnw75730pe6e.png)
+If you're searching for a simple and effective method to incorporate real-time page views into your next.js website, you've come across the perfect tutorial.
+
+### [52. Generative AI in JavaScript? Microsoft GenAIScript, Svelte 5, Next.js 15 and More - This Week in JS](https://hackernoon.com/generative-ai-in-javascript-microsoft-genaiscript-svelte-5-nextjs-15-and-more-this-week-in-js)
+![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-xe031sw.png)
+In this edition of This Week in Javascript, we’ve got some game-changing updates on Microsoft’s GenAIScript, the long-awaited Svelte 5 update, and more.
+
+### [53. Using Next.js to Effectively Format a Page and Structure Its SEO](https://hackernoon.com/using-nextjs-to-effectively-format-a-page-and-structure-its-seo)
+![](https://cdn.hackernoon.com/images/KqfopgYCVjenJNeh8DD99wUIl1C2-t593q4n.jpeg)
+Organizing your Next.js application and using its components.
+
+### [54. How to Add Reactivity to Your Next.js Blog Using Giscus](https://hackernoon.com/how-to-add-reactivity-to-your-nextjs-blog-using-giscus)
+![](https://cdn.hackernoon.com/images/uvPyUdEoEdYV8gHQ4NNQxq9OT3J3-ph93v6d.jpeg)
+Learn how to add A comments & reactions system to your Next.js blog powered by GitHub Discussions using giscus.
+
+### [55. How to Integrate Next.js with Electron Using React Server Components](https://hackernoon.com/how-to-integrate-nextjs-with-electron-using-react-server-components)
 ![](https://cdn.hackernoon.com/images/bP5Aeu1uqdYhdXVQTdg5r4GGHpB2-a4034yv.jpeg)
 Combining Next.js and Electron app to use React Server Components without opening ports or running HTTP server even on localhost.
+
+### [56. An Intro to Middleware in NextJS 12](https://hackernoon.com/an-intro-to-middleware-in-nextjs-12)
+![](https://cdn.hackernoon.com/images/eUT0WvJnuqUhEFMKqi6Mi1hExjy2-kl0387a.jpeg)
+NextJS 12 was announced yesterday at the NextJS Conf and they announced a new feature called middleware which allows one to modify the response to a request.
 
 ### [57. How to Build a Request Access Approval System Using Next.js](https://hackernoon.com/how-to-build-a-request-access-approval-system-using-nextjs)
 ![](https://cdn.hackernoon.com/images/beblZEhJ1PWLoW3RKjMA8bH69ug1-2f83wmv.png)
@@ -241,13 +243,13 @@ Recently I made a small web app that requires user accounts. I learned quite a
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gv02300.webp)
 A boring, repeatable image pipeline for Next.js: cap images at 800px, strip metadata, and auto-pick lossless vs lossy WebP so pages feel complete faster.
 
-### [60. OpenAI Introduces Controversial o1 Pricing Model](https://hackernoon.com/openai-introduces-controversial-o1-pricing-model)
-![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-fj0359j.png)
-OpenAI's o1 Pro model is making waves in the JavaScript community, but at what cost?
-
-### [61. Creating a SendFox Newsletter Signup Form in Next.js: A Tutorial](https://hackernoon.com/creating-a-sendfox-newsletter-signup-form-in-nextjs-a-tutorial)
+### [60. Creating a SendFox Newsletter Signup Form in Next.js: A Tutorial](https://hackernoon.com/creating-a-sendfox-newsletter-signup-form-in-nextjs-a-tutorial)
 ![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-qd03fsr.png)
 A practical guide to fill in a missing piece in the product docs
+
+### [61. OpenAI Introduces Controversial o1 Pricing Model](https://hackernoon.com/openai-introduces-controversial-o1-pricing-model)
+![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-fj0359j.png)
+OpenAI's o1 Pro model is making waves in the JavaScript community, but at what cost?
 
 ### [62. How I Built a Simple MDX Blog in Next.js and why I chose native mdx over Contentlayer](https://hackernoon.com/how-i-built-a-simple-mdx-blog-in-nextjs-and-why-i-chose-native-mdx-over-contentlayer)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-j6020dn.jpeg)
@@ -265,11 +267,11 @@ Ever wanted to create a browser console log that persists after a page reloads? 
 ![](https://cdn.hackernoon.com/images/2D17XW9VheScfPr4MNJNPZhFHT82-0aa3omy.jpeg)
 These tips and tricks for you on the Next.js router help you make your DX better and code cleaner
 
-### [66. How Build a Fully Typed Web App Using Next.js, PlanetScale, Drizzle, and Kysely](https://hackernoon.com/how-build-a-fully-typed-web-app-using-nextjs-planetscale-drizzle-and-kysely)
-![](https://cdn.hackernoon.com/images/building-a-statue-ul38lozaiu9sc7zuzfk74733.png)
-Harness the power of PlanetScale, Drizzle ORM, and Kysely Query Builder to develop a scalable fully-typed web app.
-
-### [67. One Developer. One Mission. A Better Home for LoL Esports](https://hackernoon.com/one-developer-one-mission-a-better-home-for-lol-esports)
+### [66. One Developer. One Mission. A Better Home for LoL Esports](https://hackernoon.com/one-developer-one-mission-a-better-home-for-lol-esports)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oa02vsi.webp)
 LOLTV.gg is a hub for League of Legends eSports, inspired by HLTV.org and VLR.gg.
+
+### [67. How Build a Fully Typed Web App Using Next.js, PlanetScale, Drizzle, and Kysely](https://hackernoon.com/how-build-a-fully-typed-web-app-using-nextjs-planetscale-drizzle-and-kysely)
+![](https://cdn.hackernoon.com/images/building-a-statue-ul38lozaiu9sc7zuzfk74733.png)
+Harness the power of PlanetScale, Drizzle ORM, and Kysely Query Builder to develop a scalable fully-typed web app.
 

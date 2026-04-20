@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [python3](https://hackernoon.com/tagged/python3)
+### Let's learn about [Python3](https://hackernoon.com/tagged/python3) via these 131 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Python 3 is the current and actively developed version of the Python programming language, offering modern features and improvements over its predecessors. It is the standard for new development and a critical skill across many tech domains.
+
 ### [1. How To Plot A Decision Boundary For Machine Learning Algorithms in Python](https://hackernoon.com/how-to-plot-a-decision-boundary-for-machine-learning-algorithms-in-python-3o1n3w07)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fvj1oCotTPURxmRwmsq2MYxKcrGq2-h7n3unq.jpeg?alt=media&token=467c5f87-c847-4dc1-9f03-34092eb80451)
 Classification algorithms learn how to assign class labels to examples (observations or data points), although their decisions can appear opaque.
@@ -83,17 +87,17 @@ This article explains how to gracefully shut down an asyncio app without losing 
 ![](https://cdn.hackernoon.com/images/BJ5EBqiScSRiuFz3a13c8bHN4z02-ro02ee2.jpeg)
 A stack is a data structure in which items are added and removed from the same point. It's kind of a one way storage system. Also known as LIFO data structure.
 
-### [21. A Simple Guide to Building Chat Applications in Python](https://hackernoon.com/a-simple-guide-to-building-chat-applications-in-python-q5633t1c)
+### [21. How to Do Speech Recognition in Python](https://hackernoon.com/how-to-do-speech-recognition-in-python-bk1234w9)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-bul297q.jpeg)
+In my free time, I am attempting to build my own smart home devices. One feature they will need is speech recognition. While I am not certain yet as to how exactly I want to implement that feature, I thought it would be interesting to dive in and explore different options. The first I wanted to try was the SpeechRecognition library.
+
+### [22. A Simple Guide to Building Chat Applications in Python](https://hackernoon.com/a-simple-guide-to-building-chat-applications-in-python-q5633t1c)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-zx2f3ucv.jpeg?alt=media&token=7c7602fd-8f1e-4186-bedf-c0d4e97edad8)
 In this tutorial, I will guide you to building a command line chatting application in Python using sockets.
 
-### [22. Why Every Software Engineer Should Learn Python?](https://hackernoon.com/why-every-software-engineer-should-learn-python-uf6c3yn5)
+### [23. Why Every Software Engineer Should Learn Python?](https://hackernoon.com/why-every-software-engineer-should-learn-python-uf6c3yn5)
 ![](https://images.unsplash.com/photo-1483817101829-339b08e8d83f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Hello guys, If you follow my blog regularly, or read my articles here on HackerNoon, then you may be wondering why am I writing an article to tell people to learn Python? Didn’t I ask you to prefer Java over Python a couple of years ago?
-
-### [23. How to Do Speech Recognition in Python](https://hackernoon.com/how-to-do-speech-recognition-in-python-bk1234w9)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-bul297q.jpeg)
-In my free time, I am attempting to build my own smart home devices. One feature they will need is speech recognition. While I am not certain yet as to how exactly I want to implement that feature, I thought it would be interesting to dive in and explore different options. The first I wanted to try was the SpeechRecognition library.
 
 ### [24. Performance Testing of Python ORMs Based on the TPC-C benchmark](https://hackernoon.com/performance-testing-of-python-orms-based-on-the-tpc-c-benchmark-ae3g3yis)
 ![](https://cdn.hackernoon.com/drafts/7ko413g.png)
@@ -239,13 +243,13 @@ In this post, we will solve a problem involving dynamic programming without bein
 ![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-7d4p31wx.jpeg)
 Explore more on functions through arguments, parameters, and return statements.
 
-### [59. Introduction to Tuples in Python](https://hackernoon.com/introduction-to-tuples-in-python)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-hy93oka.png)
-In this guide, we'll cover how to use Tuples, as well as some of the methods and things you'd want to do with them.
-
-### [60. Master the Basics of Python in 20 Minutes](https://hackernoon.com/master-the-basics-of-python-in-20-minutes)
+### [59. Master the Basics of Python in 20 Minutes](https://hackernoon.com/master-the-basics-of-python-in-20-minutes)
 ![](https://cdn.hackernoon.com/images/XXYK3xoQMhPK6WgGxZcfzaaDPnt1-s993l5p.jpeg)
 Discover the essentials of Python programming in this comprehensive review and guide, designed to help you master the basics. Learn about variables, data types,
+
+### [60. Introduction to Tuples in Python](https://hackernoon.com/introduction-to-tuples-in-python)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-hy93oka.png)
+In this guide, we'll cover how to use Tuples, as well as some of the methods and things you'd want to do with them.
 
 ### [61. Congratulations, You've Just Learned Python](https://hackernoon.com/congratulations-youve-just-learned-python)
 ![](https://cdn.hackernoon.com/images/6WifzFKsrTU6u6nvz13jxc6dQ1O2-ch5n35sz.jpeg)
@@ -272,13 +276,13 @@ Learn about functional programming, pure functions, map(), filter(), zip(), redu
 ![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-8y1u33il.jpeg)
 Lambda expressions in python are one-time anonymous functions which we don’t need more than once.
 
-### [67. Porting Python 2.7 Code to Python 3.X](https://hackernoon.com/porting-python-27-code-to-python-3x-ol5j3ytn)
-![](https://cdn.hackernoon.com/drafts/7u28k3zkh.png)
-Updating Python 2 to Python 3 | Painless Migration Guide
-
-### [68. Python Freezes Due to Poor Implementation](https://hackernoon.com/python-freezes-due-to-poor-implementation)
+### [67. Python Freezes Due to Poor Implementation](https://hackernoon.com/python-freezes-due-to-poor-implementation)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-a892frc.jpeg)
 Programs may freeze for many reasons, such as software and hardware problems, software bugs, and among others, inefficient algorithm implementations.
+
+### [68. Porting Python 2.7 Code to Python 3.X](https://hackernoon.com/porting-python-27-code-to-python-3x-ol5j3ytn)
+![](https://cdn.hackernoon.com/drafts/7u28k3zkh.png)
+Updating Python 2 to Python 3 | Painless Migration Guide
 
 ### [69. Baby Steps to Metaclasses in Python3](https://hackernoon.com/baby-steps-to-metaclasses-in-python3-xc4s249u)
 ![](https://cdn.hackernoon.com/images/kh8d3z2f.jpg)
@@ -292,25 +296,25 @@ A python substring is a sequence of characters within a string, in this article 
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-jtb3peb.png)
 In this guide, we will cover everything you need to know about Python dictionaries.
 
-### [72. Hello, World! - Why Python is the Most Beginner-Friendly Coding Language](https://hackernoon.com/hello-world-why-python-is-the-most-beginner-friendly-coding-language-u15j34v9)
-![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-e9m32v8.jpeg)
-Let’s start this journey of programming with gaining some knowledge on the Python programming language.
-
-### [73. Clean Code for Python – Stop Writing Bad Code](https://hackernoon.com/clean-code-for-python-stop-writing-bad-code)
+### [72. Clean Code for Python – Stop Writing Bad Code](https://hackernoon.com/clean-code-for-python-stop-writing-bad-code)
 ![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-r5221x1.png)
 Learn key principles from 'Clean Code' by Uncle Bob and apply them to Python. Write clean, readable, and maintainable code with simple yet effective changes.
+
+### [73. Hello, World! - Why Python is the Most Beginner-Friendly Coding Language](https://hackernoon.com/hello-world-why-python-is-the-most-beginner-friendly-coding-language-u15j34v9)
+![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-e9m32v8.jpeg)
+Let’s start this journey of programming with gaining some knowledge on the Python programming language.
 
 ### [74. Python Functions Tutorial for Absolute Beginners](https://hackernoon.com/python-functions-tutorial-for-absolute-beginners-q71t31d9)
 ![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-d11p3130.jpeg)
 Well, the Reusability of the code in a program is made possible through functions.
 
-### [75. Introducing Jdict Module in Python](https://hackernoon.com/introducing-jdict-module-in-python-xa1m3wqx)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7xyp9rkdrdeGqVLYzbeYBkvJ37u2-wn5y28eh.jpeg?alt=media&token=77a87516-7567-440e-a1f3-1094e66acec1)
-Providing attribute access to Python dictionary entries
-
-### [76. A Complete Guide to Python Lists](https://hackernoon.com/a-complete-guide-to-python-lists)
+### [75. A Complete Guide to Python Lists](https://hackernoon.com/a-complete-guide-to-python-lists)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-mda3pvq.jpeg)
 Let's start with some of the basics, and then dive into useful ways you'll be able to work with lists.
+
+### [76. Introducing Jdict Module in Python](https://hackernoon.com/introducing-jdict-module-in-python-xa1m3wqx)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7xyp9rkdrdeGqVLYzbeYBkvJ37u2-wn5y28eh.jpeg?alt=media&token=77a87516-7567-440e-a1f3-1094e66acec1)
+Providing attribute access to Python dictionary entries
 
 ### [77. Coding on Python at Home](https://hackernoon.com/coding-on-python-at-home-ld4z3y1z)
 ![](https://cdn.hackernoon.com/drafts/q84wf3ycj.png)
@@ -324,29 +328,29 @@ Sets in python provide a method to create a unique set of unordered items with n
 ![](https://cdn.hackernoon.com/images/hEMjV6xqXnSfBtlhP0SeuEiVSpO2-xr1o34bt.jpeg)
 Wanna start a beginner Python project? Let's create a Password Generator Python Project which is super quick & super fun!
 
-### [80. A python IDE that you can use anywhere](https://hackernoon.com/a-python-ide-that-you-can-use-anywhere-c6123uds)
-![](https://cdn.hackernoon.com/drafts/ld253wcn.png)
-As a student who travels a lot (pub - campus - cafe - home), I tend to carry around my macbook air because its light (and I hate heavy things). However, macbook air isn't really a powerful machine and it often drives me mad when the code I'm trying to run is too heavy to run
-
-### [81. The Complete Python Tutorial for Absolute Beginners in 2023](https://hackernoon.com/the-complete-python-tutorial-for-absolute-beginners-in-2023)
+### [80. The Complete Python Tutorial for Absolute Beginners in 2023](https://hackernoon.com/the-complete-python-tutorial-for-absolute-beginners-in-2023)
 ![](https://cdn.hackernoon.com/images/pythons-on-a-table-clg23w7fs000101s6bdhc4wa6.png)
 Python is an unbelievably powerful programming language that is used by millions of developers in production systems around the world. 
 
-### [82. Follow These Steps To Replay Browser’s Network Offline](https://hackernoon.com/follow-these-steps-to-replay-browsers-network-offline-situation-b51134ep)
+### [81. Follow These Steps To Replay Browser’s Network Offline](https://hackernoon.com/follow-these-steps-to-replay-browsers-network-offline-situation-b51134ep)
 ![](https://hackernoon.com/images/1WESTLdStrVtilDtnN67N4vOoBd2-n92v3f71.jpeg)
 This short tutorial explains how to replay the captured browser’s network offline using Python.
 
-### [83. 7 Types of Operators in Python](https://hackernoon.com/7-types-of-operators-in-python-df5e31gt)
+### [82. A python IDE that you can use anywhere](https://hackernoon.com/a-python-ide-that-you-can-use-anywhere-c6123uds)
+![](https://cdn.hackernoon.com/drafts/ld253wcn.png)
+As a student who travels a lot (pub - campus - cafe - home), I tend to carry around my macbook air because its light (and I hate heavy things). However, macbook air isn't really a powerful machine and it often drives me mad when the code I'm trying to run is too heavy to run
+
+### [83. 8 Editors To Get Started Writing Python](https://hackernoon.com/8-editors-to-get-started-writing-python)
+![](https://cdn.hackernoon.com/images/wSC8Z6ezJMNw8dm8PRUeR0SU7k63-ch037xz.jpeg)
+A list of 8 editors to get you started writing code in Python. 
+
+### [84. 7 Types of Operators in Python](https://hackernoon.com/7-types-of-operators-in-python-df5e31gt)
 ![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-811931xm.jpeg)
 Operators are used to doing operations on any given data stored inside variables. In Python, there are 7 types of operators. Arithmetic, bitwise, and more.
 
-### [84. My Experience of Working with PyCharm JetBrains IDE](https://hackernoon.com/my-experience-of-working-with-pycharm-jetbrains-ide-4m103uku)
+### [85. My Experience of Working with PyCharm JetBrains IDE](https://hackernoon.com/my-experience-of-working-with-pycharm-jetbrains-ide-4m103uku)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNb5UWzYU8LcYBeB1CmSteO3qx6D2-18j3u5s.jpeg?alt=media&token=9aea4e5e-8a2c-4874-b85d-05711ea5b0a3)
 I always wanted to learn to code but was unable to give ample time because of my schedule. Thanks to Covid19, I started my python journey started recently in the lockdown. 
-
-### [85. 8 Editors To Get Started Writing Python](https://hackernoon.com/8-editors-to-get-started-writing-python)
-![](https://cdn.hackernoon.com/images/wSC8Z6ezJMNw8dm8PRUeR0SU7k63-ch037xz.jpeg)
-A list of 8 editors to get you started writing code in Python. 
 
 ### [86. Saving Passwords with Relative Security [A Guide for Dummies]](https://hackernoon.com/saving-passwords-with-relative-security-a-guide-for-dummies-7p1s32pt)
 ![](https://cdn.hackernoon.com/images/9s1y3z6b.jpg)
@@ -360,25 +364,25 @@ For day to day work in dev-ops or for testing team , we need to put stub in betw
 ![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-mz1b316q.jpeg)
 These are some best practices in python being followed by the python community when it comes to naming your variables.
 
-### [89. ColorDetection Module: Python  Color Detection Algorithms](https://hackernoon.com/colordetection-module-python-color-detection-algorithms-st233wuc)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSWuYxmBe5WPlAjznGj5Fb05Thnl1-gp781c19.jpeg?alt=media&token=11b59deb-2bd3-4142-9b41-8187de2c84fe)
-Images. That's it. Images. As a point of practicality, take a fashion designer (as a forum member vividly described to me at one point). You are given an image or have an image at your disposal that simply tickles your curiosity and want to incorporate it in one of your new lines. Let's swerve a little into the genetics section. Given a petri dish image for instance, with pigmented bacteria or similar organisms, and you would like to find the abundance of that organism or organisms in this specific image. Get the gist?
-
-### [90. A Quick and Friendly Python 3 Guide For Beginners](https://hackernoon.com/a-quick-and-friendly-python-3-guide-for-beginners)
+### [89. A Quick and Friendly Python 3 Guide For Beginners](https://hackernoon.com/a-quick-and-friendly-python-3-guide-for-beginners)
 ![](https://cdn.hackernoon.com/images/rIVD9uGtDyTmdfox8lpMYgJi5AZ2-wy93ubd.jpeg)
 Welcome to A friendly beginners Python 3 Guide: Where to start. I'm thrilled to be your guide on this learning journey. From setting up your Python environment 
+
+### [90. ColorDetection Module: Python  Color Detection Algorithms](https://hackernoon.com/colordetection-module-python-color-detection-algorithms-st233wuc)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSWuYxmBe5WPlAjznGj5Fb05Thnl1-gp781c19.jpeg?alt=media&token=11b59deb-2bd3-4142-9b41-8187de2c84fe)
+Images. That's it. Images. As a point of practicality, take a fashion designer (as a forum member vividly described to me at one point). You are given an image or have an image at your disposal that simply tickles your curiosity and want to incorporate it in one of your new lines. Let's swerve a little into the genetics section. Given a petri dish image for instance, with pigmented bacteria or similar organisms, and you would like to find the abundance of that organism or organisms in this specific image. Get the gist?
 
 ### [91. Does Python Skills Equal Getting a Coding Job?](https://hackernoon.com/does-python-skills-equal-getting-a-coding-job-l5l3tod)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0k8rhBVQHSRnJBYUjpFXJBJ0Lq22-7y1a3unz.jpeg?alt=media&token=ccc6ddf6-166c-4b40-9bf9-c2d40a1bdc32)
 Python is one of the most popular programming languages. It is easy to pick up and begin with the basics. It is a general-purpose language and can be used for more a lot of things other than just web development. To get a job, you need to go beyond learning just the basics and have a solid understanding of the complexities involved in the language. 
 
-### [92. Use Dynamic Classes to Debug in Python](https://hackernoon.com/use-dynamic-classes-to-debug-in-python-ce7f3yc2)
-![](https://cdn.hackernoon.com/drafts/0q34g3y9t.png)
-Oh! If all your code worked as it was supposed to.. Of-course you just made a tiny change and the whole system came crashing down! The existing system seems almost alive, and resists any code change by crashing!  Quite often, developers declare a truce in the form of a 'code-freeze'!  After a deep breath (perhaps several weeks..) the code-freeze is lifted, and the battle is renewed.
-
-### [93. Your Definitive Handbook For Calling a Function in Python](https://hackernoon.com/your-definitive-handbook-for-calling-a-function-in-python)
+### [92. Your Definitive Handbook For Calling a Function in Python](https://hackernoon.com/your-definitive-handbook-for-calling-a-function-in-python)
 ![](https://cdn.hackernoon.com/images/fms5hEAIFUXalFpkFdSTymA0Cmn2-lo932hn.jpeg)
 Want to write and call functions with Python? Here's a complete step by step guide to help you master this skill.
+
+### [93. Use Dynamic Classes to Debug in Python](https://hackernoon.com/use-dynamic-classes-to-debug-in-python-ce7f3yc2)
+![](https://cdn.hackernoon.com/drafts/0q34g3y9t.png)
+Oh! If all your code worked as it was supposed to.. Of-course you just made a tiny change and the whole system came crashing down! The existing system seems almost alive, and resists any code change by crashing!  Quite often, developers declare a truce in the form of a 'code-freeze'!  After a deep breath (perhaps several weeks..) the code-freeze is lifted, and the battle is renewed.
 
 ### [94. How To Convert PDFs Into AudioBooks](https://hackernoon.com/how-to-convert-pdfs-into-audiobooks-451v34i7)
 ![](https://cdn.hackernoon.com/images/YnsEWmawRVcqLBv9GneTXG0d0nt2-uv7k34fd.jpeg)
@@ -401,13 +405,13 @@ While this post seeks to break down the concept of a generator, it is assumed th
 Using pyttsx3 to convert text to speech in Python.Female voice using pyttsx3.
 Text to speech in Python. 
 
-### [99. Working With Files In Python: Part 2](https://hackernoon.com/working-with-files-in-python-part-2-jmt3u0g)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSWuYxmBe5WPlAjznGj5Fb05Thnl1-gj8q186q.png?alt=media&token=1cf8bcb7-9e79-4403-b515-f5a0f015e4c3)
-This is the second part of the series File management with python. We pick up from where we left last time Part 1, where we organized files according to the extension. So, let's get started.
-
-### [100. How To Upgrade Your Codebase To Python 3 from Python 2.x](https://hackernoon.com/how-to-upgrade-your-codebase-to-python-3-from-python-2x-n4213zvc)
+### [99. How To Upgrade Your Codebase To Python 3 from Python 2.x](https://hackernoon.com/how-to-upgrade-your-codebase-to-python-3-from-python-2x-n4213zvc)
 ![](https://cdn.hackernoon.com/images/TsnsbOYRLFSNuuECe56wa6koUrh1-jpo3wni.jpeg)
 Is your team still using Python 2? If you’re not sure, now is a really good time to check. In April, the Python team released version 2.7.18, and it will be the last version of Python 2.x. If security vulnerabilities or other bugs are discovered going forward, they will NOT be fixed. To ensure that your software is secure and functioning properly, it’s imperative to develop a plan for migrating to Python 3. Numerous strategies can be found online. This post outlines an approach that we recommend you take.
+
+### [100. Working With Files In Python: Part 2](https://hackernoon.com/working-with-files-in-python-part-2-jmt3u0g)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSWuYxmBe5WPlAjznGj5Fb05Thnl1-gj8q186q.png?alt=media&token=1cf8bcb7-9e79-4403-b515-f5a0f015e4c3)
+This is the second part of the series File management with python. We pick up from where we left last time Part 1, where we organized files according to the extension. So, let's get started.
 
 ### [101. Web Development in Python With the Retica Framework](https://hackernoon.com/web-development-in-python-with-the-retica-framework)
 ![](https://cdn.hackernoon.com/images/FMDy6QtObjZacWH2JK2rAoEhyJ93-9t93q2k.jpeg)
@@ -425,13 +429,13 @@ Use these 30 questions to learn how to multithread like an expert in Python.
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-4b13o0a.jpeg)
 Buck is a free, open-source and lightweight CLI tool used by developers to group multiple terminal commands into one.
 
-### [105. My Cat, FastAPI and a Template](https://hackernoon.com/my-cat-fast-api-and-a-template)
-![](https://cdn.hackernoon.com/images/F9IxEoH0pzRr42n1nd6piDA4UUG3-pu15246y.jpeg)
-I really liked FastAPI. So, I decided to read all its docs, and instead of having study notes, memos, or whatever, I  wrote it all as a template
-
-### [106. Intro to Image Processing in Python with Pillow](https://hackernoon.com/intro-to-image-processing-in-python-with-pillow-hv1c3wd3)
+### [105. Intro to Image Processing in Python with Pillow](https://hackernoon.com/intro-to-image-processing-in-python-with-pillow-hv1c3wd3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-6m93uz2.jpeg?alt=media&token=71673579-1203-4534-84db-74eecc103055)
 Pillow is Python Imaging Library that is free and open-source an additional library for the Python programming language that adds support for opening, manipulating, and saving in a variety of extension.
+
+### [106. My Cat, FastAPI and a Template](https://hackernoon.com/my-cat-fast-api-and-a-template)
+![](https://cdn.hackernoon.com/images/F9IxEoH0pzRr42n1nd6piDA4UUG3-pu15246y.jpeg)
+I really liked FastAPI. So, I decided to read all its docs, and instead of having study notes, memos, or whatever, I  wrote it all as a template
 
 ### [107. How to Build a User-Friendly CLI from Pure Python Functions](https://hackernoon.com/how-to-build-a-user-friendly-cli-from-pure-python-functions)
 ![](https://cdn.hackernoon.com/images/evEPZ4TedgZiSKtfTTYSgXW0b0s2-1va2j93.jpeg)
@@ -469,26 +473,26 @@ Big Data has become synonymous with data engineering. But the line between Data 
 ![](https://cdn.hackernoon.com/images/0G9TxcGbzNgNAZwckuXebn14zC82-5q93chi.jpeg)
 
 
-### [116. I Think pipenv Is Better Than venv](https://hackernoon.com/i-think-pipenv-is-better-than-venv-vkq3u9e)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6sWrtbrOmsOIbrWzrG88lYfV4ch1-3sd231q.jpeg?alt=media&token=692c7211-28b4-447f-94c0-6ed5c258947b)
-Yeah, you read that right. I actually think that pipenv is better than venv for there are multiple reasons and a whole lot of thought behind it.
-
-### [117. Shortening Standard Date & Time Formats to Make Them Easier to Understand](https://hackernoon.com/python-solutions-for-clear-and-human-friendly-dates-and-times)
+### [116. Shortening Standard Date & Time Formats to Make Them Easier to Understand](https://hackernoon.com/python-solutions-for-clear-and-human-friendly-dates-and-times)
 ![](https://cdn.hackernoon.com/images/k2s7svgbhkVZ5UqFBHR7QLwURtJ2-08b3obd.jpeg)
 I wrote this script Python 3 script as a learning exercise. I employed ChatGPT to help with not only the programming but also the crafting of this article.
 
-### [118. Do You Need To Upgrade Your Python 2.x code to Python 3.x?](https://hackernoon.com/do-you-need-to-upgrade-your-python-2x-code-to-python-3x-jr393zlf)
+### [117. How to Implement a Geo-Location Module Using the Haversine Formula](https://hackernoon.com/how-to-implement-a-geo-location-module-using-the-haversine-formula)
+![](https://cdn.hackernoon.com/images/XKjmz9tZa8XTDU9MqcuFluHFxfj2-vf025ci.jpeg)
+On 2020/06/06, I published my first Python module. It's a Geo Location calculator that uses the Haversine formula to calculate distances.
+
+### [118. I Think pipenv Is Better Than venv](https://hackernoon.com/i-think-pipenv-is-better-than-venv-vkq3u9e)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6sWrtbrOmsOIbrWzrG88lYfV4ch1-3sd231q.jpeg?alt=media&token=692c7211-28b4-447f-94c0-6ed5c258947b)
+Yeah, you read that right. I actually think that pipenv is better than venv for there are multiple reasons and a whole lot of thought behind it.
+
+### [119. Do You Need To Upgrade Your Python 2.x code to Python 3.x?](https://hackernoon.com/do-you-need-to-upgrade-your-python-2x-code-to-python-3x-jr393zlf)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FTsnsbOYRLFSNuuECe56wa6koUrh1-vwi3tca.jpeg?alt=media&token=fcd01855-14e5-455a-89ec-9bf156be00cd)
 By now we’re sure that you’ve heard that the Python programming language is undergoing some big changes. 
 
-### [119. How To Integrate Your Laptop With AWS And Deploy DynamoDB Locally](https://hackernoon.com/how-to-integrate-your-laptop-with-aws-and-deploy-dynamodb-locally-933633mv)
+### [120. How To Integrate Your Laptop With AWS And Deploy DynamoDB Locally](https://hackernoon.com/how-to-integrate-your-laptop-with-aws-and-deploy-dynamodb-locally-933633mv)
 ![](https://cdn.hackernoon.com/images/QjlLIOV3g0cXJkgnJSndhuCcun43-lf1b3lyk.jpeg)
 How to Interact with AWS (Amazon Web Services) cloud from your local machine. 
 
-
-### [120. How to Implement a Geo-Location Module Using the Haversine Formula](https://hackernoon.com/how-to-implement-a-geo-location-module-using-the-haversine-formula)
-![](https://cdn.hackernoon.com/images/XKjmz9tZa8XTDU9MqcuFluHFxfj2-vf025ci.jpeg)
-On 2020/06/06, I published my first Python module. It's a Geo Location calculator that uses the Haversine formula to calculate distances.
 
 ### [121. How to Migrate From Python 2 to Python 3](https://hackernoon.com/how-to-migrate-from-python-2-to-python-3)
 ![](https://cdn.hackernoon.com/images/bK6famsVejQnj0vqeEXJK8YRaZX2-n5a227h.png)

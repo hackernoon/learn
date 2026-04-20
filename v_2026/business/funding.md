@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [funding](https://hackernoon.com/tagged/funding)
+### Let's learn about [Funding](https://hackernoon.com/tagged/funding) via these 132 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 "Money Please" - Mona-Lisa Saperstein
 
 ### [1. Space and Time Receives $20 Million in Strategic Investment Led by Microsoft's M12 ](https://hackernoon.com/space-and-time-receives-$20-million-in-strategic-investment-led-by-microsofts-m12)
@@ -27,19 +29,19 @@ The funding was led by Web3.com Venture Capital, along with participation from o
 ![](https://cdn.hackernoon.com/images/7zu36x7.jpg)
 Founders create startups for all sorts of reasons. Often, the motivation is a mix between the founders’ desires to do well for themselves and to do something worthwhile for others. Dreams of greatness might figure in there too. Rarely, however, is the overriding reason to build a company people want to get rid of. But that is what the startup pipeline is designed to produce.
 
-### [7. Weekly AI Startup Funding: October 12-19, 2025](https://hackernoon.com/weekly-ai-startup-funding-october-12-19-2025)
-![](https://cdn.hackernoon.com/images/PbQqJjR7A6X3QGcgZRF7voR5eEC3-o703brx.png)
-AI startups raised over $2.4 billion this week across enterprise infrastructure, healthcare innovation, and fintech. 
-
-### [8. Slide by Slide Analysis of My $1.4 Million SaaS Seed Funding Pitch Deck ](https://hackernoon.com/the-anatomy-of-$14-million-saas-seed-funding-pitch-deck)
+### [7. Slide by Slide Analysis of My $1.4 Million SaaS Seed Funding Pitch Deck ](https://hackernoon.com/the-anatomy-of-$14-million-saas-seed-funding-pitch-deck)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-rc93l0t.jpeg)
 See the actual pitch deck we used to raise our 1.2M seed round including my comments on each of the slides, feedback from VCs, and pitching tips
 
 
 
-### [9. Pitching VCs? Use This Reverse Psychology Trick To Get Funded](https://hackernoon.com/pitching-vcs-use-this-reverse-psychology-trick-to-help-get-your-startup-funded-7alt31om)
+### [8. Pitching VCs? Use This Reverse Psychology Trick To Get Funded](https://hackernoon.com/pitching-vcs-use-this-reverse-psychology-trick-to-help-get-your-startup-funded-7alt31om)
 ![](https://cdn.hackernoon.com/images/jbr3yoh.jpg)
 You’re planning a big adventure — skydiving or swimming with the sharks, for example — you’ve probably got the details mapped out.
+
+### [9. Weekly AI Startup Funding: October 12-19, 2025](https://hackernoon.com/weekly-ai-startup-funding-october-12-19-2025)
+![](https://cdn.hackernoon.com/images/PbQqJjR7A6X3QGcgZRF7voR5eEC3-o703brx.png)
+AI startups raised over $2.4 billion this week across enterprise infrastructure, healthcare innovation, and fintech. 
 
 ### [10. Top 5 Entrepreneurship Communities](https://hackernoon.com/top-5-entrepreneurship-communities)
 ![](https://cdn.hackernoon.com/images/AA0S3G9weRM3biUfJZ9ilO0mpDx1-kxa3mb5.jpeg)
@@ -77,13 +79,13 @@ Initially, the deployment of $Mooney was aimed at raising $450,000 for a space t
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9Gby6PELpjQmxFLF10XleF0L1T53-fu1hk3uhc.jpeg?alt=media&token=e5af1dc8-89c8-4945-b2ad-ac6ae5f912bb)
 The role of a product manager varies across the startup spectrum, from early-stage to the expansion stage. And knowing the stage of a startup when taking on a product management role can help you set the right expectations. 
 
-### [19. Unizen Secures Funding from Jun Capital to Launch CeDeFi Alliance to Promote Web 3 Ecosystem](https://hackernoon.com/unizen-secures-funding-from-jan-capital-to-launch-cedefi-alliance-to-promote-web-3-ecosystem)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-tp13k5o.jpeg)
-Unizen and Jun Capital's CeDeFi Alliance organization will provide a venue for centralized and decentralized teams to discuss Web3 and blockchain advancement.
-
-### [20. Top Challenges Faced by UK Startups](https://hackernoon.com/top-challenges-faced-by-uk-startups)
+### [19. Top Challenges Faced by UK Startups](https://hackernoon.com/top-challenges-faced-by-uk-startups)
 ![](https://cdn.hackernoon.com/images/Oa0MNJwc6Khr8qu3YECSyS4sLGm1-zw93lrc.jpeg)
 Are you starting a business in the UK? Learn about the most common problems faced by startups and how to overcome them. 
+
+### [20. Unizen Secures Funding from Jun Capital to Launch CeDeFi Alliance to Promote Web 3 Ecosystem](https://hackernoon.com/unizen-secures-funding-from-jan-capital-to-launch-cedefi-alliance-to-promote-web-3-ecosystem)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-tp13k5o.jpeg)
+Unizen and Jun Capital's CeDeFi Alliance organization will provide a venue for centralized and decentralized teams to discuss Web3 and blockchain advancement.
 
 ### [21. 6 Signs That You’re Ready To Invest In An Early-Stage Startup](https://hackernoon.com/6-signs-that-youre-ready-to-invest-in-an-early-stage-startup)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-u793p4m.jpeg)
@@ -158,81 +160,81 @@ Top tips for making it easier for maintainers to get paid.
 ![](https://cdn.hackernoon.com/images/UZ7S6ZAAsSOmbqh7hwrKcRaWL4l2-co93j57.gif.webp)
 Here to Announce a $3 Million Dollar Seed Fund for Your Web3 Project. Find out the details in the post and Let's start building some cool sh*t together! 
 
-### [39. Weekly AI Startup Funding: September 28 to October 4, 2025](https://hackernoon.com/weekly-ai-startup-funding-september-28-to-october-4-2025)
-![](https://cdn.hackernoon.com/images/PbQqJjR7A6X3QGcgZRF7voR5eEC3-nr03bg9.png)
-AI startups raised over $3.2 billion this week, with record-breaking deals spanning AI infrastructure, enterprise automation, and scientific discovery.
-
-### [40. Maverick Protocol raises $8 Million from Pantera Capital, Circle Ventures and Altonomy ](https://hackernoon.com/maverick-protocol-raises-$8-million-from-pantera-capital-circle-ventures-and-altonomy)
+### [39. Maverick Protocol raises $8 Million from Pantera Capital, Circle Ventures and Altonomy ](https://hackernoon.com/maverick-protocol-raises-$8-million-from-pantera-capital-circle-ventures-and-altonomy)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-tcb3nrd.jpeg)
 Maverick Protocol has raised $8 million in a strategic round of funding. It will use the money to launch its mainnet later this year.
 
-### [41. Why Lattica’s $3.25M Bet on Fully Homomorphic Encryption Could Change AI Privacy Forever](https://hackernoon.com/why-latticas-$325m-bet-on-fully-homomorphic-encryption-could-change-ai-privacy-forever)
+### [40. Why Lattica’s $3.25M Bet on Fully Homomorphic Encryption Could Change AI Privacy Forever](https://hackernoon.com/why-latticas-$325m-bet-on-fully-homomorphic-encryption-could-change-ai-privacy-forever)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-4r03mi9.jpeg)
 Lattica raises $3.25M to make Fully Homomorphic Encryption viable for AI, tackling privacy risks in sensitive industries like healthcare and finance.
 
-### [42. Aurigami to Grow Aurora-Based Lending Protocol with its $12 Million Warchest ](https://hackernoon.com/aurigami-to-grow-aurora-based-lending-protocol-with-its-$12-million-warchest)
+### [41. Aurigami to Grow Aurora-Based Lending Protocol with its $12 Million Warchest ](https://hackernoon.com/aurigami-to-grow-aurora-based-lending-protocol-with-its-$12-million-warchest)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-3l93up3.jpeg)
 Aurigami, a lending protocol on Aurora has raised a total of $12M via private and public sales.
 
-### [43. Monetized Comments: The Quickest Way to Get Paid Online?](https://hackernoon.com/monetized-comments-the-quickest-way-to-get-paid-online)
+### [42. Monetized Comments: The Quickest Way to Get Paid Online?](https://hackernoon.com/monetized-comments-the-quickest-way-to-get-paid-online)
 ![](https://cdn.hackernoon.com/images/y05RBbFBGlU7NtaiX3bYLSnMjfL2-x3a2puw.jpeg)
 Reader comments on openDemocracy can be highlighted and receive micropayments. This feature changes the way we fund public debate.
 
-### [44. How Unsecured Business Loans are Bridging the Gaps Between Innovation and SMEs](https://hackernoon.com/how-unsecured-business-loans-are-bridging-the-gaps-between-innovation-and-smes)
+### [43. How Unsecured Business Loans are Bridging the Gaps Between Innovation and SMEs](https://hackernoon.com/how-unsecured-business-loans-are-bridging-the-gaps-between-innovation-and-smes)
 ![](https://cdn.hackernoon.com/images/GASQffVfuFWjW8ie6BuhOzznCLt1-0j93phe.jpeg)
 Although with an innovative idea and a feasible revenue plan you can pitch your startup to investors, but getting unsecured loans is way more easier to fund you
 
-### [45. Building a Sustainable and Value-driven Crypto Ecosystem](https://hackernoon.com/building-a-sustainable-and-value-drive-crypto-ecosystem)
+### [44. Building a Sustainable and Value-driven Crypto Ecosystem](https://hackernoon.com/building-a-sustainable-and-value-drive-crypto-ecosystem)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-0993y3x.jpeg)
 Short dive into what must be done for crypto so survive.
+
+### [45. BITLEVEX Secures $50m From GEM Digital](https://hackernoon.com/bitlevex-secures-$50m-from-gem-digital)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-f992aok.jpeg)
+Estonia-based investment platform BITLEVEX announced that it had secured an investment facility totaling $50M from GEM Digital Limited.
 
 ### [46. CoinRunners NFTs: Bringing Hollywood Movies to the Blockchain](https://hackernoon.com/coinrunners-nfts-bringing-hollywood-movies-to-the-blockchain)
 ![](https://cdn.hackernoon.com/images/C7LGfLlZs3OY2w0N7r4ePehwKBI2-gi93299.jpeg)
 CoinRunners’ movie, an autobiographical film by experienced and renowned cryptocurrency trader Lisa N Edwards, is creating a new utility concept within the NFT 
 
-### [47. BITLEVEX Secures $50m From GEM Digital](https://hackernoon.com/bitlevex-secures-$50m-from-gem-digital)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-f992aok.jpeg)
-Estonia-based investment platform BITLEVEX announced that it had secured an investment facility totaling $50M from GEM Digital Limited.
+### [47. AI Will Not Kill Quantum Computing](https://hackernoon.com/ai-will-not-kill-quantum-computing)
+![](https://cdn.hackernoon.com/images/EHUYZRLLAUbgArGtd43kEIxTOTS2-6xb38x2.jpeg)
+AI will not kill quantum computers, simply because human beings are curious about them and the truths about the universe that they may reveal.
 
 ### [48. The 'Cloud 100' is Pretty Much a List of APIs. Find out why. ](https://hackernoon.com/the-cloud-100-is-pretty-much-a-list-of-apis-find-out-why)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-fn13ouk.jpeg)
 Why (nearly) every company in the Forbes' Cloud 100 has a public application programming interface (API).
 
-### [49. How Many Is "Too Many" Investors? ](https://hackernoon.com/how-many-is-too-many-investors-8u1836km)
+### [49. Economic Turmoil Couldn't Stop 8fig From Raising $140M to Propel Ecommerce SMBs](https://hackernoon.com/economic-turmoil-couldnt-stop-8fig-from-raising-$140m-to-propel-ecommerce-smbs)
+![](https://cdn.hackernoon.com/images/iyRqESun3XRxZMj9u7zUtWLaViA2-ia93pgi.jpeg)
+8fig, the continuous funding and management platform for ecommerce businesses, announced the closing of a $140 million Series B funding round.
+
+### [50. How Many Is "Too Many" Investors? ](https://hackernoon.com/how-many-is-too-many-investors-8u1836km)
 ![](https://cdn.hackernoon.com/drafts/1ijw33ca.png)
 Brex Founder Henrique Duburas Believes You Should Pack Your Cap Table With As Many Investors As Possible
-
-### [50. AI Will Not Kill Quantum Computing](https://hackernoon.com/ai-will-not-kill-quantum-computing)
-![](https://cdn.hackernoon.com/images/EHUYZRLLAUbgArGtd43kEIxTOTS2-6xb38x2.jpeg)
-AI will not kill quantum computers, simply because human beings are curious about them and the truths about the universe that they may reveal.
 
 ### [51. How to Recession-Proof Your Startup Right Now](https://hackernoon.com/how-to-recession-proof-your-startup-right-now)
 ![](https://cdn.hackernoon.com/images/XUXlssl4t8Y4pDFf1tsFXOpRr3A2-3r93qjx.jpeg)
 Stay one step ahead of the impending economic downturn with these smart tips to help keep your startup afloat in hard times.
 
-### [52. '9/10 Startups Fail' Depends on Your Definition of Failure](https://hackernoon.com/is-it-really-true-that-9-out-of-10-startups-fail-ef5xc3264)
+### [52. Weekly AI Startup Funding: September 28 to October 4, 2025](https://hackernoon.com/weekly-ai-startup-funding-september-28-to-october-4-2025)
+![](https://cdn.hackernoon.com/images/PbQqJjR7A6X3QGcgZRF7voR5eEC3-nr03bg9.png)
+AI startups raised over $3.2 billion this week, with record-breaking deals spanning AI infrastructure, enterprise automation, and scientific discovery.
+
+### [53. '9/10 Startups Fail' Depends on Your Definition of Failure](https://hackernoon.com/is-it-really-true-that-9-out-of-10-startups-fail-ef5xc3264)
 ![](https://cdn.hackernoon.com/drafts/k75x132zj.png)
 There is one of those "universal truths" in the world of startups that, like almost all of them, is neither as universal nor as TRUE as we usually think, and that investors often repeat: 9 out of 10 companies fail. 
 
-### [53. Five AI Startups Raising Funds With Innovative Solutions](https://hackernoon.com/five-ai-startups-raising-funds-with-innovative-solutions)
+### [54. Five AI Startups Raising Funds With Innovative Solutions](https://hackernoon.com/five-ai-startups-raising-funds-with-innovative-solutions)
 ![](https://cdn.hackernoon.com/images/Q3o4KJmD1dSH7M0NeCasbA70XHT2-8m03r51.png)
 Round up of five startups that recently raised funds with creative and innovative solutions. Breakevent, OneThird, Lakera, Nexos.ai and VideaHealth.
 
-### [54. Economic Turmoil Couldn't Stop 8fig From Raising $140M to Propel Ecommerce SMBs](https://hackernoon.com/economic-turmoil-couldnt-stop-8fig-from-raising-$140m-to-propel-ecommerce-smbs)
-![](https://cdn.hackernoon.com/images/iyRqESun3XRxZMj9u7zUtWLaViA2-ia93pgi.jpeg)
-8fig, the continuous funding and management platform for ecommerce businesses, announced the closing of a $140 million Series B funding round.
-
-### [55. The Drivers of Company Valuation](https://hackernoon.com/the-drivers-of-company-valuation-ua1c3uyy)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-r31228q5.jpeg?alt=media&token=46d94b8f-6270-4b02-9e66-b0ed609f6181)
-The second of three articles on corporate valuations and capital structures.
+### [55. Mizar Raises $3 Million in Seed Funding led by Nexo to Build Next-Generation of Trading Tools](https://hackernoon.com/mizar-raises-$3-million-in-seed-funding-from-nexo-to-build-next-generation-of-trading-tools)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-r5c3ncg.jpeg)
+Mizar raises $3 million to develop a trading suite for the crypto industry. 
 
 ### [56. An Investor’s Guide to Crypto Bear Market in 2022](https://hackernoon.com/an-investors-guide-to-crypto-bear-market-in-2022)
 ![](https://cdn.hackernoon.com/images/nKOSdWi6lagDhXrZUO671BuFhX42-e6935mk.jpeg)
 Here’s why the market is in its current state and some other exciting developments that have erupted in spite of the chaos.
 
-### [57. Mizar Raises $3 Million in Seed Funding led by Nexo to Build Next-Generation of Trading Tools](https://hackernoon.com/mizar-raises-$3-million-in-seed-funding-from-nexo-to-build-next-generation-of-trading-tools)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-r5c3ncg.jpeg)
-Mizar raises $3 million to develop a trading suite for the crypto industry. 
+### [57. The Drivers of Company Valuation](https://hackernoon.com/the-drivers-of-company-valuation-ua1c3uyy)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-r31228q5.jpeg?alt=media&token=46d94b8f-6270-4b02-9e66-b0ed609f6181)
+The second of three articles on corporate valuations and capital structures.
 
 ### [58. Understanding What VC Funds Are and How They Make Money](https://hackernoon.com/understanding-what-vc-funds-are-and-how-they-make-money)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ez93pjn.jpeg)
@@ -251,21 +253,21 @@ This article provides a complete guide that can help you get the perfect Venture
 ![](https://cdn.hackernoon.com/images/krqcWMfPEEYdgY7MziMhk14NbLH2-gs4e34a5.jpeg)
 This is the story that how I started Remotehour after 5 years of bootstrapping.
 
-### [62. Polkadot Allocates $18 Million to Solve the Biggest Challenges facing Polkadot Ecosystem and Web 3](https://hackernoon.com/polkadot-allocates-$18-million-to-solve-the-biggest-challenges-facing-polkadot-ecosystem-and-web-3)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-6tc3md3.jpeg)
-Polkadot has allocated 993,286 DOT, roughly $18 million, to promote research and development on zero-knowledge research and web 3.0. 
-
-### [63. Most Web3 Startups Flop at Fundraising—Here's How to Beat the Odds](https://hackernoon.com/most-web3-startups-flop-at-fundraisingheres-how-to-beat-the-odds)
+### [62. Most Web3 Startups Flop at Fundraising—Here's How to Beat the Odds](https://hackernoon.com/most-web3-startups-flop-at-fundraisingheres-how-to-beat-the-odds)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7o02ya4.jpeg)
 Learn how to pitch your Web3 project to launchpads, VCs, and communities. Craft a clear narrative, use real traction data, and tailor your message to each audie
 
-### [64. How To Explore Your Startup Idea With ZERO Money](https://hackernoon.com/how-to-explore-your-startup-idea-with-zero-money-88ae3va4)
+### [63. Polkadot Allocates $18 Million to Solve the Biggest Challenges facing Polkadot Ecosystem and Web 3](https://hackernoon.com/polkadot-allocates-$18-million-to-solve-the-biggest-challenges-facing-polkadot-ecosystem-and-web-3)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-6tc3md3.jpeg)
+Polkadot has allocated 993,286 DOT, roughly $18 million, to promote research and development on zero-knowledge research and web 3.0. 
+
+### [64. Telefonica Bets on Web3 Gaming by Investing in MetaSoccer](https://hackernoon.com/telefonica-bets-on-web3-gaming-by-investing-in-metasoccer)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4y92cux.jpeg)
+Wayra, Telefónica's open innovation initiative, invests in Champion Games. The video game studio in Barcelona has created Metasoccer, the first soccer metaverse in which you can manage your own club and generate income while playing. The game is aimed at both play-and-earn players and soccer fans interested in getting into the metaverse and web3 gaming.
+
+### [65. How To Explore Your Startup Idea With ZERO Money](https://hackernoon.com/how-to-explore-your-startup-idea-with-zero-money-88ae3va4)
 ![](https://cdn.hackernoon.com/drafts/wk9v32v4.png)
 A couple years ago I was teaching a small course at Stanford about Entrepreneurship and I remember the number one question was how to raise money.
-
-### [65. Smart VCs Look for Potential Monopolies](https://hackernoon.com/smart-vcs-look-for-potential-monopolies-qu4033u4)
-![](https://cdn.hackernoon.com/images/l2bhzjRpybaWZSy731tvYuNuxEG2-7bh128ta.jpeg)
-Understand how VC investors think and evaluate how good your startup idea is for VC investments.
 
 ### [66. AI VC Funding: Taking a Cue From MagiScan 3D](https://hackernoon.com/ai-vc-funding-taking-a-cue-from-magiscan-3d)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-0592gs9.jpeg)
@@ -275,9 +277,9 @@ MagiScan raised nearly a million dollars in the space of one week in a seed fund
 ![](https://cdn.hackernoon.com/images/aIXwrTmUDiak9cQrDfjCgnCIaDg1-zx03p1o.png)
 What is Wefunder? How do you get starting crowdfunding your business? Read this in-depth guide to find out. 
 
-### [68. Telefonica Bets on Web3 Gaming by Investing in MetaSoccer](https://hackernoon.com/telefonica-bets-on-web3-gaming-by-investing-in-metasoccer)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4y92cux.jpeg)
-Wayra, Telefónica's open innovation initiative, invests in Champion Games. The video game studio in Barcelona has created Metasoccer, the first soccer metaverse in which you can manage your own club and generate income while playing. The game is aimed at both play-and-earn players and soccer fans interested in getting into the metaverse and web3 gaming.
+### [68. Smart VCs Look for Potential Monopolies](https://hackernoon.com/smart-vcs-look-for-potential-monopolies-qu4033u4)
+![](https://cdn.hackernoon.com/images/l2bhzjRpybaWZSy731tvYuNuxEG2-7bh128ta.jpeg)
+Understand how VC investors think and evaluate how good your startup idea is for VC investments.
 
 ### [69. VC Market Trends and Current Situation Explained by a Corporate Lawyer](https://hackernoon.com/vc-market-trends-and-current-situation-explained-by-a-corporate-lawyer)
 ![](https://cdn.hackernoon.com/images/8wlyTs6rS1Ns9rTwC8LtCyE03B52-rrb3zrv.jpeg)
@@ -303,21 +305,21 @@ PropelAuth Raises $2.59M to Address Specific Authentication Requirements of B2B 
 ![](https://cdn.hackernoon.com/drafts/3u3l36p8.png)
 Hong Kong and Singapore have emerged as the epicenters for startups and tech in Asia and worldwide. Both locations have attractive tax regimes for foreign companies and have invested heavily in government-backed startup programs, fostering positive growth and support in the region. Southeast Asia’s internet economy has more than tripled its size over the last four years, soaring to a US$100 billion for the first time in 2019 with expectations to reach US$300 billion by 2025.
 
-### [75. In Conversation with Stewart Kohl on What He Looks For in an Investment](https://hackernoon.com/in-conversation-with-stewart-kohl-on-what-he-looks-for-in-an-investment-bd8v3yft)
-![](https://cdn.hackernoon.com/images/9p673k1y.jpg)
-Stewart Kohl is Co-Chief Executive Officer of The Riverside Company, a global private equity firm based in Cleveland, Ohio with offices across North America, Europe and the Asia-Pacific region. The Riverside Company has more than $7 billion in assets under management and oversees a global portfolio of more than 80 companies. Prior to joining Riverside in 1993, Kohl served as vice president of Citicorp Venture Capital and COO of the National Cooperative Business Association in Washington, D.C 
+### [75. Assessing the Risk of Funding AI Startups: Deeper Questions Every Investor Should Ask](https://hackernoon.com/assessing-the-risk-of-funding-ai-startups-deeper-questions-every-investor-should-ask)
+![](https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-7493s54.jpeg)
+Delve into the essential questions investors should consider when funding AI startups to make well-informed investment decisions.
 
-### [76. The Tyk Side Project Fund is open for applications](https://hackernoon.com/the-tyk-side-project-fund-is-once-again-open-for-applications)
+### [76. Pharos Network Closes $44M Series A: The Ant Group Veterans Building the Rails to Move $50 Trillion ](https://hackernoon.com/pharos-network-closes-$44m-series-a-the-ant-group-veterans-building-the-rails-to-move-$50-trillion)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-dx83a48.png)
+Pharos Network raises $52M total to scale RWA infrastructure with Sumitomo and Hong Kong institutions backing its Layer 1 vision.
+
+### [77. The Tyk Side Project Fund is open for applications](https://hackernoon.com/the-tyk-side-project-fund-is-once-again-open-for-applications)
 ![](https://cdn.hackernoon.com/images/jX6VhQQ7Xtehvb8yiKD2N3PbpyE2-fj92k1d.png)
 Tyk's micro-grant program is now accepting applications! Get a chance to receive a £500 grant to help advance your side project.
 
-### [77. 6 Tips to Create a Powerful Elevator Pitch](https://hackernoon.com/6-tips-to-create-a-powerful-elevator-pitch-iqih3wzp)
-![](drafts/l8z3yhu.png)
-Looking for tips to develop a robust and incredible elevator pitch? A compelling elevator pitch is pretty essential for achieving your business goals and objectives. Whether you want to raise money from venture capitalists or angel investors, or just willing to hire a perfect team for your business, defining your elevator pitch is the most important task.
-
-### [78. Assessing the Risk of Funding AI Startups: Deeper Questions Every Investor Should Ask](https://hackernoon.com/assessing-the-risk-of-funding-ai-startups-deeper-questions-every-investor-should-ask)
-![](https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-7493s54.jpeg)
-Delve into the essential questions investors should consider when funding AI startups to make well-informed investment decisions.
+### [78. In Conversation with Stewart Kohl on What He Looks For in an Investment](https://hackernoon.com/in-conversation-with-stewart-kohl-on-what-he-looks-for-in-an-investment-bd8v3yft)
+![](https://cdn.hackernoon.com/images/9p673k1y.jpg)
+Stewart Kohl is Co-Chief Executive Officer of The Riverside Company, a global private equity firm based in Cleveland, Ohio with offices across North America, Europe and the Asia-Pacific region. The Riverside Company has more than $7 billion in assets under management and oversees a global portfolio of more than 80 companies. Prior to joining Riverside in 1993, Kohl served as vice president of Citicorp Venture Capital and COO of the National Cooperative Business Association in Washington, D.C 
 
 ### [79. To Build the First Cross-Chain DeFi Lease on Cosmos, Nolus Protocol Raises $2.5M at a $20M Valuation](https://hackernoon.com/to-build-the-first-cross-chain-defi-lease-on-cosmos-nolus-protocol-raises-$25m-at-a-$20m-valuation)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-2ca2oit.jpeg)
@@ -327,211 +329,215 @@ Nolus protocol will create a cornerstone use case for LSDs for the Cosmos ecosys
 ![](https://cdn.hackernoon.com/images/sZWSQ6YzqYX15mpfVAfpju6dlJq2-gq93z59.jpeg)
 All startups hunt for capital, and in order to attract it from investors or funds they need, first of all, to contact them.
 
-### [81. WeWork IPO Fiasco Proves Public Investors Have More Valuation Risk Than VCs](https://hackernoon.com/wework-ipo-meltdown-shows-public-investors-have-more-valuation-risk-than-vcs-mkle3050)
+### [81. 6 Tips to Create a Powerful Elevator Pitch](https://hackernoon.com/6-tips-to-create-a-powerful-elevator-pitch-iqih3wzp)
+![](drafts/l8z3yhu.png)
+Looking for tips to develop a robust and incredible elevator pitch? A compelling elevator pitch is pretty essential for achieving your business goals and objectives. Whether you want to raise money from venture capitalists or angel investors, or just willing to hire a perfect team for your business, defining your elevator pitch is the most important task.
+
+### [82. WeWork IPO Fiasco Proves Public Investors Have More Valuation Risk Than VCs](https://hackernoon.com/wework-ipo-meltdown-shows-public-investors-have-more-valuation-risk-than-vcs-mkle3050)
 ![](https://cdn.hackernoon.com/drafts/mcmu303v.png)
 "If you invested in WeWork at a $47 billion valuation, you’re getting fleeced!"
 
-### [82. Trust Machine Raises $150 Million in Funding from Breyer Capital, DCG and Hivemind to Expand Web 3](https://hackernoon.com/trust-machine-raises-$150-million-in-funding-from-breyer-capital-dcg-and-hivemind-to-expand-web-3)
+### [83. Trust Machine Raises $150 Million in Funding from Breyer Capital, DCG and Hivemind to Expand Web 3](https://hackernoon.com/trust-machine-raises-$150-million-in-funding-from-breyer-capital-dcg-and-hivemind-to-expand-web-3)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-kcc3mu7.jpeg)
 Trust Machines raised $150 million to bring Web 3 to Bitcoin with funding from VCs. 
 
-### [83. Startup Funding 101: Navigating the Investment Landscape](https://hackernoon.com/startup-funding-101-navigating-the-investment-landscape)
+### [84. Startup Funding 101: Navigating the Investment Landscape](https://hackernoon.com/startup-funding-101-navigating-the-investment-landscape)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-px93pqw.jpeg)
 Discover expert strategies for navigating the investment landscape and securing capital.
 
-### [84. Crypto.com Funds University of Pennsylvania’s Research Laboratory to Promote Research on Web3](https://hackernoon.com/cryptocom-funds-university-of-pennsylvanias-research-laboratory-to-promote-research-on-web3)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-i693kzd.jpeg)
-Penn's new Crypto Research Laboratory Fund will help address real-world issues in enhanced privacy, reliability, and scalability of blockchains.
-
-### [85. Chingari Raises $15 million in Funding from Republic Capital, Onmobile and JPIN Venture Catalysts](https://hackernoon.com/chingari-raises-$15-million-in-funding-from-republic-capital-onmobile-and-jpin-venture-catalysts)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-8t0388x.jpeg)
-Chingari Raises Investment for its Social Media Token, $Gari with Republic Capital leading the round with 15 million in funding. 
-
-### [86. Building in Web3? Here is How to Fund It](https://hackernoon.com/building-in-web3-here-is-how-to-fund-it)
+### [85. Building in Web3? Here is How to Fund It](https://hackernoon.com/building-in-web3-here-is-how-to-fund-it)
 ![](https://cdn.hackernoon.com/images/k0y4Uj8lffd47tV56OFdW4H5PDf1-pz93p75.jpeg)
 If your business, or solution, must be built on a blockchain, you will face even bigger funding problems. 
 
-### [87. 7 Funding Options to
+### [86. Crypto.com Funds University of Pennsylvania’s Research Laboratory to Promote Research on Web3](https://hackernoon.com/cryptocom-funds-university-of-pennsylvanias-research-laboratory-to-promote-research-on-web3)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-i693kzd.jpeg)
+Penn's new Crypto Research Laboratory Fund will help address real-world issues in enhanced privacy, reliability, and scalability of blockchains.
+
+### [87. Chingari Raises $15 million in Funding from Republic Capital, Onmobile and JPIN Venture Catalysts](https://hackernoon.com/chingari-raises-$15-million-in-funding-from-republic-capital-onmobile-and-jpin-venture-catalysts)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-8t0388x.jpeg)
+Chingari Raises Investment for its Social Media Token, $Gari with Republic Capital leading the round with 15 million in funding. 
+
+### [88. TONcoin Fund launches $250M Ecosystem Fund to support development on the Open Network](https://hackernoon.com/toncoin-fund-launches-dollar250m-ecosystem-fund-to-support-development-on-the-open-network)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-uga3qpy.jpeg)
+The TONcoin Fund is the very first ecosystem fund dedicated specifically to assisting founders developing on The Open Network.
+
+### [89. 7 Funding Options to
 Raise Capital For Your Startup](https://hackernoon.com/7-funding-options-to-raise-capital-for-your-startup)
 ![](https://cdn.hackernoon.com/images/llckFgtyxMUb3OF4ukVJNvMgvs23-jf93nds.jpeg)
 There’s an old adage that money isn’t easy to come by, especially if you weren’t born with a silver spoon in your mouth. This isparticularly true for funding startups. It may be true that the almighty dollar isn’t easy to earn, but with these 7 funding options you can begin raising capital for your startup.
 
-### [88. Raising Money? Prioritize Smart Money](https://hackernoon.com/raising-money-prioritize-smart-money-oy2h3xor)
+### [90. Raising Money? Prioritize Smart Money](https://hackernoon.com/raising-money-prioritize-smart-money-oy2h3xor)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKEEwPLkGqvOiDOEz8mBumPtWKnF3-a22g3uzy.jpeg?alt=media&token=723c0400-d038-436d-b2e9-407722fa46c7)
 When raising capital, not all startups have options—they only receive one term sheet from one interested investor. And that should be celebrated. However, some startups are “hot” enough to attract multiple VCs.
 
-### [89. The Ultimate Startup Guide to Raising Seed Funding](https://hackernoon.com/the-ultimate-startup-guide-to-raising-seed-funding-bs7a33wo)
+### [91. The Ultimate Startup Guide to Raising Seed Funding](https://hackernoon.com/the-ultimate-startup-guide-to-raising-seed-funding-bs7a33wo)
 ![](https://hackernoon.com/images/8fg106KCP0UoDRShuxlXDrli6wy1-xnq336z.jpeg)
 Seed funding is the earliest form of capital a startup will raise. It is a startup's earliest funding stage. Learn more about seed funding and its stages. 
 
-### [90. TONcoin Fund launches $250M Ecosystem Fund to support development on the Open Network](https://hackernoon.com/toncoin-fund-launches-dollar250m-ecosystem-fund-to-support-development-on-the-open-network)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-uga3qpy.jpeg)
-The TONcoin Fund is the very first ecosystem fund dedicated specifically to assisting founders developing on The Open Network.
-
-### [91. How to Start a Business with No Money: A Guide for Absolute Beginners](https://hackernoon.com/how-to-start-a-business-with-no-money-a-guide-for-absolute-beginners)
-![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-9c0363v.jpeg)
-If you want to start a business but have no money, here is our guide you should follow. Starting with the plan and modes of financing you can look for.
-
-### [92. Community Building Platforms: Reviewing Discourse, Discord, Ghost, and More](https://hackernoon.com/community-building-platforms-reviewing-discourse-discord-ghost-and-more)
-![](https://cdn.hackernoon.com/images/QBI79gOovQWG4emm06zWqeGw5UM2-6s031ks.jpeg)
-Thoughts on how to integrate multiple systems, while building community and sustainable income.
-
-### [93. Skynet Capital Raises $40 Million USD to Invest in the Elrond Ecosystem](https://hackernoon.com/skynet-capital-raises-$40-million-usd-to-invest-in-the-elrond-ecosystem)
+### [92. Skynet Capital Raises $40 Million USD to Invest in the Elrond Ecosystem](https://hackernoon.com/skynet-capital-raises-$40-million-usd-to-invest-in-the-elrond-ecosystem)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-lha3qjw.jpeg)
 Skynet EGLD Capital raises more than $40 million USD to invest in the Elrond ecosystem. 
 
-### [94. Portal is Raising Capital on Republic Through Reg D Equity Offering](https://hackernoon.com/portal-is-raising-capital-on-republic-through-reg-d-equity-offering)
+### [93. Community Building Platforms: Reviewing Discourse, Discord, Ghost, and More](https://hackernoon.com/community-building-platforms-reviewing-discourse-discord-ghost-and-more)
+![](https://cdn.hackernoon.com/images/QBI79gOovQWG4emm06zWqeGw5UM2-6s031ks.jpeg)
+Thoughts on how to integrate multiple systems, while building community and sustainable income.
+
+### [94. How to Start a Business with No Money: A Guide for Absolute Beginners](https://hackernoon.com/how-to-start-a-business-with-no-money-a-guide-for-absolute-beginners)
+![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-9c0363v.jpeg)
+If you want to start a business but have no money, here is our guide you should follow. Starting with the plan and modes of financing you can look for.
+
+### [95. Portal is Raising Capital on Republic Through Reg D Equity Offering](https://hackernoon.com/portal-is-raising-capital-on-republic-through-reg-d-equity-offering)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-x493ump.jpeg)
 Portal has announced its Reg D equity offering through Republic. Republic is a multi-asset investment platform.
 
-### [95. How to Get Into a Startup Accelerator and Secure Series A Funding ](https://hackernoon.com/how-to-get-into-a-startup-accelerator-and-secure-series-a-funding)
+### [96. How to Get Into a Startup Accelerator and Secure Series A Funding ](https://hackernoon.com/how-to-get-into-a-startup-accelerator-and-secure-series-a-funding)
 ![](https://cdn.hackernoon.com/images/XBu4ZAzKypXVyofoPeWBFB3D5z82-5x93hot.jpeg)
 If a company doesn’t have solid capital from the start, it can get funding from other resources such as venture capitalists, business angels, and accelerators.
 
-### [96. How to Fix Entrepreneurship in Europe](https://hackernoon.com/how-to-fix-entrepreneurship-in-europe-d11h34vw)
+### [97. How to Fix Entrepreneurship in Europe](https://hackernoon.com/how-to-fix-entrepreneurship-in-europe-d11h34vw)
 ![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-t8m31kq.jpeg)
 I Studied Entrepreneurship in 4 Countries. Here's How To Fix it in Europe.
 
-### [97. How to Get Grants for Blockchain Projects: The Flip Side of Funding](https://hackernoon.com/how-to-get-grants-for-blockchain-projects-the-flip-side-of-funding-9c38331z)
+### [98. How to Get Grants for Blockchain Projects: The Flip Side of Funding](https://hackernoon.com/how-to-get-grants-for-blockchain-projects-the-flip-side-of-funding-9c38331z)
 ![](https://cdn.hackernoon.com/images/5XfdKTDvpshIqPx69HxOQALJFK73-1t3733qw.jpeg)
 In the early stages of your startup’s journey, it's only natural to worry about funding; whether you are bootstrapping or trying to scale a venture-backed...
 
-### [98. Applying Blockchain Technology to Financial Services](https://hackernoon.com/applying-blockchain-technology-to-financial-services-of1q37cp)
+### [99. Applying Blockchain Technology to Financial Services](https://hackernoon.com/applying-blockchain-technology-to-financial-services-of1q37cp)
 ![](https://cdn.hackernoon.com/images/ecMOMxkcdiQcfFoKdLHyrTUAYYX2-b08m35zy.jpeg)
 Financial services are defined by the International Monetary Fund (IMF) as processes by which consumers or businesses acquire financial goods.
 
-### [99. How To Design a Crazy-Good Tech Startup Pitch That Wows VC’s [101]](https://hackernoon.com/how-to-design-a-crazy-good-tech-startup-pitch-that-wows-vcs-oq162gy0)
+### [100. How To Design a Crazy-Good Tech Startup Pitch That Wows VC’s [101]](https://hackernoon.com/how-to-design-a-crazy-good-tech-startup-pitch-that-wows-vcs-oq162gy0)
 ![](https://cdn.hackernoon.com/drafts/0jw2gec.png)
 We get it.
 
-### [100. Kyoko Finance Raises $3 Million In Private Round from Animoca Brands, Ventures Crypto and AXIA8](https://hackernoon.com/kyoko-finance-raises-$3-million-in-private-round-from-animoca-brands-ventures-crypto-and-axia8)
+### [101. Kyoko Finance Raises $3 Million In Private Round from Animoca Brands, Ventures Crypto and AXIA8](https://hackernoon.com/kyoko-finance-raises-$3-million-in-private-round-from-animoca-brands-ventures-crypto-and-axia8)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-bjh3mep.jpeg)
 Kyoko’s DAO-to-DAO credit lending infrastructure offers unsecured, and collateralized lending and liquidity to the web3 market secured $3 million in funding. 
 
-### [101. On The Issues of Grant Process](https://hackernoon.com/on-the-issues-of-grant-process-hzh3t7s)
+### [102. On The Issues of Grant Process](https://hackernoon.com/on-the-issues-of-grant-process-hzh3t7s)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fh4jL62esLGNm22PdOstBsDWbndx1-9u2z3unm.jpeg?alt=media&token=a2d7db8d-326b-4164-b17c-7a6338b4474f)
 In 2019, the value of U.S. venture capital investments was $108 billion. In the same year, the federal government spent $131 billion on research and development. 
 
-### [102. Secure Your Startup Investments With An Effective Pitch Deck](https://hackernoon.com/secure-your-startup-investments-with-an-effective-pitch-deck-c44v31mn)
+### [103. Secure Your Startup Investments With An Effective Pitch Deck](https://hackernoon.com/secure-your-startup-investments-with-an-effective-pitch-deck-c44v31mn)
 ![](https://cdn.hackernoon.com/images/fk3qeJ4h0CMePZUTkb6y9FAvOkF2-z3h321p.jpeg)
 Nowadays, new and new startups appear on the scene. At the very beginning, startups have little history and experience to show. That is what makes investing in them risky. A vast number of startups fail. Still, some manage to make it to the top if landed successfully. 
 
-### [103. 102 Stories To Learn About Fundraising](https://hackernoon.com/102-stories-to-learn-about-fundraising)
+### [104. 102 Stories To Learn About Fundraising](https://hackernoon.com/102-stories-to-learn-about-fundraising)
 ![](https://cdn.hackernoon.com/images/github/fundraising-916.png)
 Learn everything you need to know about Fundraising via these 102 free HackerNoon stories.
 
-### [104. A Primer to Fundraising Basics And How To Become Pitch Perfect](https://hackernoon.com/a-primer-to-fundraising-basics-and-how-to-become-pitch-perfect-gnk432s7)
+### [105. A Primer to Fundraising Basics And How To Become Pitch Perfect](https://hackernoon.com/a-primer-to-fundraising-basics-and-how-to-become-pitch-perfect-gnk432s7)
 ![](https://cdn.hackernoon.com/drafts/ewee3ybb.png)
 Often one of the biggest obstacles to starting a business is finding the capital to get your idea off the ground. Those who cannot turn to their own personal savings or borrow funds from family members or friends must turn to investors, funding organizations, or bank loans to raise startup funds.
 
-### [105. Capitalising on Opportunities: The Primary Ways To Finance Your Business](https://hackernoon.com/seven-benefits-of-embracing-venture-capital-funding-to-boost-your-startup-ono3266)
+### [106. Capitalising on Opportunities: The Primary Ways To Finance Your Business](https://hackernoon.com/seven-benefits-of-embracing-venture-capital-funding-to-boost-your-startup-ono3266)
 ![](https://cdn.hackernoon.com/drafts/a41j3zx7.png)
 To borrow or not to borrow. That’s a question only you will know the answer to. 
 
-### [106. How to Raise Venture Capital as a Student Founder: 4 Pieces of Advice](https://hackernoon.com/how-to-raise-venture-capital-as-a-student-founder-4-pieces-of-advice-911z3wsb)
+### [107. How to Raise Venture Capital as a Student Founder: 4 Pieces of Advice](https://hackernoon.com/how-to-raise-venture-capital-as-a-student-founder-4-pieces-of-advice-911z3wsb)
 ![](https://images.unsplash.com/photo-1519070994522-88c6b756330e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 There are a plethora of successful companies that have been built on college campuses. From Dell to Facebook to Insomnia Cookies. When it comes to securing funding, many of the metrics venture capitalists typically use apply: evaluations of the team, product, market, business model,
 growth and timing. The list goes on. 
-
-### [107. How I Managed a Fund that Gave No Money, Took No Equity and Had an Exit](https://hackernoon.com/how-i-managed-a-fund-that-gave-no-money-took-no-equity-and-had-an-exit)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-jt93k1f.jpeg)
-I managed a fund that gave no money, took no equity, and had an exit. Here's that story.
 
 ### [108. Meet #Noonies2021 Nominee Pavel Demeshchik: Ex-Engineer, Founder CEO, & Amateur Carpenter ](https://hackernoon.com/meet-noonies2021-nominee-pavel-demeshchik-ex-engineer-founder-ceo-and-amateur-carpenter)
 ![](https://cdn.hackernoon.com/images/l2bhzjRpybaWZSy731tvYuNuxEG2-in22gy9.jpeg)
 Interview with the CEO of datarockets Pavel Demeshchik for the Noonies award in the funding and fundraising categories.
 
-### [109. How Technology is Helping Venture Capitalists Make Investment Decisions](https://hackernoon.com/how-technology-is-helping-venture-capitalists-make-investment-decisions-giq32i8)
+### [109. How I Managed a Fund that Gave No Money, Took No Equity and Had an Exit](https://hackernoon.com/how-i-managed-a-fund-that-gave-no-money-took-no-equity-and-had-an-exit)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-jt93k1f.jpeg)
+I managed a fund that gave no money, took no equity, and had an exit. Here's that story.
+
+### [110. How Technology is Helping Venture Capitalists Make Investment Decisions](https://hackernoon.com/how-technology-is-helping-venture-capitalists-make-investment-decisions-giq32i8)
 ![](https://cdn.hackernoon.com/drafts/p83i32sb.png)
 From stone tools to the invention of the wheel to steam engines to the internet, technology has come a long way, it has overtaken nearly all major aspects of our lives. Just take this article for example, you wouldn’t be reading it if it wasn’t for technology.
 
-### [110. Products And Support Programs That Will Bring Your Business To The Next Level](https://hackernoon.com/4-products-and-support-programs-that-will-bring-your-business-to-the-next-level-jieq3wrg)
+### [111. Products And Support Programs That Will Bring Your Business To The Next Level](https://hackernoon.com/4-products-and-support-programs-that-will-bring-your-business-to-the-next-level-jieq3wrg)
 ![](https://cdn.hackernoon.com/images/zctc3wab.jpg)
 As someone who has created my own startup, I understand how
 difficult it can be to for startups during the early stages. There can be so
 many problems including the lack of funding, the lack of business relationships or the lack of talent in the team. Therefore, I would like to share 4 different products and support schemes that helped me.
 
-### [111. Venom Foundation Announces Partnership with DAO Maker for Incubation of Promising Web3 Startups](https://hackernoon.com/venom-foundation-announces-partnership-with-dao-maker-for-incubation-of-promising-web3-startups)
+### [112. Venom Foundation Announces Partnership with DAO Maker for Incubation of Promising Web3 Startups](https://hackernoon.com/venom-foundation-announces-partnership-with-dao-maker-for-incubation-of-promising-web3-startups)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-x5a3pmf.jpeg)
 Venom Foundation and DAO Maker have teamed up to foster Web3 startups. 
-
-### [112. Funding: No Longer Twice as Likely to Come Through if Pitched by a Man 🤞 ](https://hackernoon.com/women-as-entrepreneurs-a-changing-climate-jm2631vg)
-![](https://cdn.hackernoon.com/images/a51kr3156.jpg)
-The entrepreneurial road to business success is never easy. But one way to make the path to entrepreneurial success even more challenging is simply to be born female. Female entrepreneurs face challenges that their male counterparts have never even considered. 
 
 ### [113. DPAT Raises Private Funding To Enhance Web3.0 Ecosystem](https://hackernoon.com/dpat-raises-private-funding-to-enhance-web30-ecosystem)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3492gi1.jpeg)
 Positioning itself as a bridge to new emerging economies, the Ethereum-backed Web3 investment platform is set to attract investors, crypto advocates, and ......
 
-### [114. Six Tips to Create a Powerful Elevator Pitch](https://hackernoon.com/six-tips-to-create-a-powerful-elevator-pitch-mw1u3y5l)
+### [114. Funding: No Longer Twice as Likely to Come Through if Pitched by a Man 🤞 ](https://hackernoon.com/women-as-entrepreneurs-a-changing-climate-jm2631vg)
+![](https://cdn.hackernoon.com/images/a51kr3156.jpg)
+The entrepreneurial road to business success is never easy. But one way to make the path to entrepreneurial success even more challenging is simply to be born female. Female entrepreneurs face challenges that their male counterparts have never even considered. 
+
+### [115. Six Tips to Create a Powerful Elevator Pitch](https://hackernoon.com/six-tips-to-create-a-powerful-elevator-pitch-mw1u3y5l)
 ![](https://cdn.hackernoon.com/drafts/l8z3yhu.png)
 Looking for tips to develop a robust and incredible elevator pitch? A compelling elevator pitch is pretty essential for achieving your business goals and objectives. Whether you want to raise money from venture capitalists or angel investors, or just willing to hire a perfect team for your business, elevator pitch is the most important task.
 
-### [115. Raising Capital For Your Business: First Steps To a Great Deal](https://hackernoon.com/raising-capital-for-your-business-first-steps-to-a-great-deal-a13z3vz6)
-![](https://cdn.hackernoon.com/drafts/syyd3yq0.png)
-Money, or lack of it, can make or break a startup. Period.
-
-### [116. 10 Non-Influencers redefining Influence. Opportunity: $1 Million USD Funding to fight COVID-19](https://hackernoon.com/10-non-influencers-redefining-influence-opportunity-dollar1-million-usd-funding-to-fight-covid-19-787v3yyd)
-![](https://cdn.hackernoon.com/images/c3hu3yd7.gif)
-Since my previous article about COVID Innovations, in which I highlighted 20 ordinary professionals and companies undertaking extraordinary actions to drive change to tackle this pandemic, new change makers have emerged on the horizon. Acting as role models worthy of our admiration and attention, more and more industry giants are taking the lead, including:
-
-### [117. RookMotion Attracts $1.7M in Pre-Seed Funding from Prominent VC and Angel Groups](https://hackernoon.com/rookmotion-attracts-$17m-in-pre-seed-funding-from-prominent-vc-and-angel-groups)
+### [116. RookMotion Attracts $1.7M in Pre-Seed Funding from Prominent VC and Angel Groups](https://hackernoon.com/rookmotion-attracts-$17m-in-pre-seed-funding-from-prominent-vc-and-angel-groups)
 ![](https://cdn.hackernoon.com/images/nyWuYCjTjXcMyJZSxx1dQcqS5zA3-82938bn.jpeg)
 ROOK raised $1.7M in pre-seed funding to continue connecting companies with more meaningful, ready-to-use health data and valuable insights from wearables.
 
-### [118. Dear Entrepreneurs, Here's How to Love Fundraising ](https://hackernoon.com/dear-entrepreneurs-heres-how-to-love-fundraising-gd3z3yhx)
+### [117. Raising Capital For Your Business: First Steps To a Great Deal](https://hackernoon.com/raising-capital-for-your-business-first-steps-to-a-great-deal-a13z3vz6)
+![](https://cdn.hackernoon.com/drafts/syyd3yq0.png)
+Money, or lack of it, can make or break a startup. Period.
+
+### [118. 10 Non-Influencers redefining Influence. Opportunity: $1 Million USD Funding to fight COVID-19](https://hackernoon.com/10-non-influencers-redefining-influence-opportunity-dollar1-million-usd-funding-to-fight-covid-19-787v3yyd)
+![](https://cdn.hackernoon.com/images/c3hu3yd7.gif)
+Since my previous article about COVID Innovations, in which I highlighted 20 ordinary professionals and companies undertaking extraordinary actions to drive change to tackle this pandemic, new change makers have emerged on the horizon. Acting as role models worthy of our admiration and attention, more and more industry giants are taking the lead, including:
+
+### [119. Dear Entrepreneurs, Here's How to Love Fundraising ](https://hackernoon.com/dear-entrepreneurs-heres-how-to-love-fundraising-gd3z3yhx)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNoGGwDyqCyZvG7v7d4GnssOATse2-zpq3ygg.webp?alt=media&token=6efa130b-1532-4a07-8ee2-56ff38c2e666)
 If you are an Entrepreneur and have a pulse, fundraising is one of the worst things that you have to deal when you are running a Startup.
 
-### [119. How Growth Financing helps to grow Tech Companies](https://hackernoon.com/how-growth-financing-helps-to-grow-tech-companies)
+### [120. How Growth Financing helps to grow Tech Companies](https://hackernoon.com/how-growth-financing-helps-to-grow-tech-companies)
 ![](https://cdn.hackernoon.com/images/XXnVE6wWDdRB1qhxX29XaEtgOA73-zd137zt.jpeg)
 Tech companies need funds in the initial stages to market and advertise their brand. The financing of a tech economy requires significant capital.
-
-### [120. Over 90% of Startups Fail, So it is Difficult for Banks to Commit Millions](https://hackernoon.com/over-90percent-of-startups-fail-so-it-is-difficult-for-banks-to-commit-millions)
-![](https://cdn.hackernoon.com/images/Hxx02Elm1uffe731mPnef95wfuf1-ai936pw.jpeg)
-BBVA launched BBVA Spark in July 2022, its comprehensive financial services proposal for innovative companies in their various stages of growth. 
 
 ### [121. How to Cozy Up to Startup Investors](https://hackernoon.com/how-to-cozy-up-to-startup-investors)
 ![](https://cdn.hackernoon.com/images/kIAZW8tOcMT1eTrDGKBOHDIQ5WB2-ml0376p.jpeg)
 Take a look at this post if you want to learn how to maintain a good relationship with investors.
 
-### [122. Multiplayer Professional Services Are Eclipsing the Single-Player Variety, and It’s About Time](https://hackernoon.com/multiplayer-professional-services-are-eclipsing-the-single-player-variety-and-its-about-time)
+### [122. Over 90% of Startups Fail, So it is Difficult for Banks to Commit Millions](https://hackernoon.com/over-90percent-of-startups-fail-so-it-is-difficult-for-banks-to-commit-millions)
+![](https://cdn.hackernoon.com/images/Hxx02Elm1uffe731mPnef95wfuf1-ai936pw.jpeg)
+BBVA launched BBVA Spark in July 2022, its comprehensive financial services proposal for innovative companies in their various stages of growth. 
+
+### [123. Multiplayer Professional Services Are Eclipsing the Single-Player Variety, and It’s About Time](https://hackernoon.com/multiplayer-professional-services-are-eclipsing-the-single-player-variety-and-its-about-time)
 ![](https://cdn.hackernoon.com/images/sBAioEpHDrWQPYrPmEQnIECEap82-ll93rbi.jpeg)
 Too many professional services firms are approaching today’s world of Fortnite-like complexity with strategies more appropriate for Donkey Kong.  
 
-### [123. How to Boost Your High Level Business Objectives to Appeal to VCs](https://hackernoon.com/seeking-venture-how-to-boost-the-appeal-of-your-business-for-venture-capital-firms-o83t32cw)
-![](https://cdn.hackernoon.com/drafts/dggp3264.png)
-The decision to welcome the help of outside investors is never an easy one, so it seems unfair that after most businesses make the decision of turning to venture capital they then have to embark on an arduous path towards gaining a windfall. 
-
-### [124. Startups Should Publish About the Actual Technology, Instead of Funding and Work Culture](https://hackernoon.com/startups-should-publish-about-the-actual-technology-instead-of-funding-and-work-culture)
-![](https://cdn.hackernoon.com/images/oKwq7vggcuTUk9rvNWoUauCk65d2-ig0366f.jpeg)
-A brief chit-chat with Arti Agarwal, tech writer and author. She shares her writing habits, startup opinions and some suggestions for other writers.
-
-### [125. Empowering Change: SI3's "Granting Access" Event Boosts Diversity in Web3](https://hackernoon.com/empowering-change-si3s-granting-access-event-boosts-diversity-in-web3)
+### [124. Empowering Change: SI3's "Granting Access" Event Boosts Diversity in Web3](https://hackernoon.com/empowering-change-si3s-granting-access-event-boosts-diversity-in-web3)
 ![](https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-zb835dj.png)
 SI3's virtual event will connect participants with Web3 grant funding opportunities and feature representatives from Gitcoin, LUKSO, ThankArb, Push, and Unlock.
 
-### [126. Binance Smart Chain Funds Decentral Games Via its $100 million Accelerator Program ](https://hackernoon.com/binance-smart-chain-funds-decentral-games-via-its-dollar100-million-accelerator-program)
+### [125. Startups Should Publish About the Actual Technology, Instead of Funding and Work Culture](https://hackernoon.com/startups-should-publish-about-the-actual-technology-instead-of-funding-and-work-culture)
+![](https://cdn.hackernoon.com/images/oKwq7vggcuTUk9rvNWoUauCk65d2-ig0366f.jpeg)
+A brief chit-chat with Arti Agarwal, tech writer and author. She shares her writing habits, startup opinions and some suggestions for other writers.
+
+### [126. How to Boost Your High Level Business Objectives to Appeal to VCs](https://hackernoon.com/seeking-venture-how-to-boost-the-appeal-of-your-business-for-venture-capital-firms-o83t32cw)
+![](https://cdn.hackernoon.com/drafts/dggp3264.png)
+The decision to welcome the help of outside investors is never an easy one, so it seems unfair that after most businesses make the decision of turning to venture capital they then have to embark on an arduous path towards gaining a windfall. 
+
+### [127. Binance Smart Chain Funds Decentral Games Via its $100 million Accelerator Program ](https://hackernoon.com/binance-smart-chain-funds-decentral-games-via-its-dollar100-million-accelerator-program)
 ![](https://cdn.hackernoon.com/images/G7rCprYXbgYuBUT7ARH0BKtm5CH2-1n03507.jpeg)
 Decentral Games to usher in new innovations to expand the rapidly-evolving blockchain metaverse, Play-to-Earn Gaming vertical and NFT markets on Binance SC
-
-### [127. 5 Ways Crowdfunding Supports Women-Led Startups ](https://hackernoon.com/how-crowdfunding-helps-women-startups-and-businesses-b6n832n0)
-![](https://cdn.hackernoon.com/drafts/a521a32rb.png)
-Whether you are just starting out or already have a business or growing your own brand, IF you believe that your idea and business can go further (and you should think BIG if you are a Womenpreneur!), do explore the option of crowdfunding them.
 
 ### [128. Financing Options Tech Companies Can Leverage for Growth](https://hackernoon.com/financing-options-tech-companies-can-leverage-for-growth)
 ![](https://cdn.hackernoon.com/images/XXnVE6wWDdRB1qhxX29XaEtgOA73-k903awh.jpeg)
 Growth financing can take many forms, from lines of credit extended by a traditional bank to small business loans from the federal government’s Small Business 
 
-### [129. Indian Startup Ecosystem Faces Funding Slump: Lowest 6-Month Funding in 4 Years](https://hackernoon.com/indian-startup-ecosystem-faces-funding-slump-lowest-6-month-funding-in-4-years)
+### [129. 5 Ways Crowdfunding Supports Women-Led Startups ](https://hackernoon.com/how-crowdfunding-helps-women-startups-and-businesses-b6n832n0)
+![](https://cdn.hackernoon.com/drafts/a521a32rb.png)
+Whether you are just starting out or already have a business or growing your own brand, IF you believe that your idea and business can go further (and you should think BIG if you are a Womenpreneur!), do explore the option of crowdfunding them.
+
+### [130. VC Funding Can Turn Into an Evil Empire](https://hackernoon.com/vc-funding-can-turn-into-an-evil-empire)
+![](https://cdn.hackernoon.com/images/evil-empire-yhrjr387mybmlfqirjrtfc8t.png)
+I realized that most of this so-called "VC money" is just burned playing what I have come to call the "unfair game."
+
+### [131. Indian Startup Ecosystem Faces Funding Slump: Lowest 6-Month Funding in 4 Years](https://hackernoon.com/indian-startup-ecosystem-faces-funding-slump-lowest-6-month-funding-in-4-years)
 ![](https://cdn.hackernoon.com/images/yOCoQCmcKLN2WXcAYrdiMnFAkBp2-j893qjo.jpeg)
 Indian startup ecosystem reported the lowest six-month funding in the last four years in H1CY23 at US$3.8 billion across 298 deals.
 
-### [130. How Growth Financing Increases Revenue for Tech Companies?](https://hackernoon.com/how-growth-financing-increases-revenue-for-tech-companies)
+### [132. How Growth Financing Increases Revenue for Tech Companies?](https://hackernoon.com/how-growth-financing-increases-revenue-for-tech-companies)
 ![](https://cdn.hackernoon.com/images/XXnVE6wWDdRB1qhxX29XaEtgOA73-h0037w2.jpeg)
 Companies want to expand to realize new opportunities, bring in staff and inventory, expand their product lines and attract new customers.
-
-### [131. VC Funding Can Turn Into an Evil Empire](https://hackernoon.com/vc-funding-can-turn-into-an-evil-empire)
-![](https://cdn.hackernoon.com/images/evil-empire-yhrjr387mybmlfqirjrtfc8t.png)
-I realized that most of this so-called "VC money" is just burned playing what I have come to call the "unfair game."
 

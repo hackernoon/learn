@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [heroku](https://hackernoon.com/tagged/heroku)
+### Let's learn about [Heroku](https://hackernoon.com/tagged/heroku) via these 161 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Heroku is a cloud Platform as a Service (PaaS) that simplifies application deployment, scaling, and management. By abstracting away infrastructure concerns, it allows developers to focus purely on writing application code, accelerating development cycles.
+
 ### [1. Scale Your Microservices with an Easy Message Queue on Redis](https://hackernoon.com/scale-your-microservices-with-an-easy-message-queue-on-redis-e92n2gk3)
 ![](https://cdn.hackernoon.com/drafts/yt1fa2gse.png)
 If you’re a microservices developer considering communication protocols, choosing an event-driven architecture might just help you rest a little easier at night. With the right design, event-driven architecture can help you to create apps that are decoupled and asynchronous, giving you the major benefits of your app being both performant and easily scalable.
@@ -233,13 +237,13 @@ Humans are complex creatures, with a wide variety of motivations for getting wor
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-p0e34rq.jpeg)
 You've probably heard about Heroku by now, but do you really know how Heroku works and when it should be a consideration?
 
-### [59. How to set up Continuous Delivery using Heroku Flow](https://hackernoon.com/how-to-set-up-continuous-delivery-using-heroku-flow-ner34lj)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXdTrpTXzxMgVm8F4Ctu32oQWJki2-31ce25kp.jpeg?alt=media&token=f5375848-aa2c-4e57-910c-4bbb3af0d2e4)
-Continuous deployment doesn’t need to be this hard to set up.
-
-### [60. How to Migrate Your Apps From Heroku to Qoddi](https://hackernoon.com/how-to-migrate-your-apps-from-heroku-to-qoddi)
+### [59. How to Migrate Your Apps From Heroku to Qoddi](https://hackernoon.com/how-to-migrate-your-apps-from-heroku-to-qoddi)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-p4930em.jpeg)
 Migrating from Heroku to Qoddi App Platform is very easy and requires a small amount of time. This guide will guide you in the process on moving your app.
+
+### [60. How to set up Continuous Delivery using Heroku Flow](https://hackernoon.com/how-to-set-up-continuous-delivery-using-heroku-flow-ner34lj)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXdTrpTXzxMgVm8F4Ctu32oQWJki2-31ce25kp.jpeg?alt=media&token=f5375848-aa2c-4e57-910c-4bbb3af0d2e4)
+Continuous deployment doesn’t need to be this hard to set up.
 
 ### [61. How To Connect Ruby on Rails API, PostgreSQL And Heroku](https://hackernoon.com/how-to-connect-ruby-on-rails-api-postgresql-and-heroku-762e3t2g)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUNa1XsLgFRZYV89M5eBNURDd36H3-afb3yr0.jpeg?alt=media&token=323a20d3-aab6-4bba-807b-b090c5b8e0b5)
@@ -297,33 +301,33 @@ Installing Devtron - An opensource Heroku-like platform over k3s - lightweight k
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FCfwKcq2ny4hfMjglXzZ0Z89fz1R2-w82v3zrv.jpeg?alt=media&token=6031e0d7-41f7-4e7e-813c-afe1cd71da3e)
 In part one I discussed the first version/Bluetooth version of my desk upgrade.
 
-### [75. How to use Local Builds on Heroku](https://hackernoon.com/how-to-use-local-builds-on-heroku-ih1z2jij)
+### [75. Set Up Your Own Heroku-like Cloud (PAAS) in 10 Minutes: A Quick Start Guide](https://hackernoon.com/set-up-your-own-heroku-like-cloud-paas-in-10-minutes-a-quick-start-guide)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-re93kv7.jpeg)
+When building projects one of the annoying parts is setting up stuff like web servers, relational databases, and caching. Here's my solution to all that.
+
+### [76. How to use Local Builds on Heroku](https://hackernoon.com/how-to-use-local-builds-on-heroku-ih1z2jij)
 ![](https://cdn.hackernoon.com/drafts/jy3d2jbg.png)
 I’ve seen a few tutorials, how to deploy single page web applications on Heroku, but I’ve really struggled to do it myself, because I wanted to do it a bit differently. I found a way how to deploy any SPA to Heroku using local builds.
 
-### [76. Node.js Tutorial: How to Build a Simple Event-Driven Application With Kafka](https://hackernoon.com/nodejs-tutorial-how-to-build-a-simple-event-driven-application-with-kafka)
+### [77. Node.js Tutorial: How to Build a Simple Event-Driven Application With Kafka](https://hackernoon.com/nodejs-tutorial-how-to-build-a-simple-event-driven-application-with-kafka)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-n9823os.jpeg)
 Build a real-time event-driven app with Node.js and Kafka on Heroku. Follow this step-by-step guide to set up, deploy, and manage your application efficiently.
 
-### [77. How To Connect GraphQL On Top of Existing REST API](https://hackernoon.com/how-to-connect-graphql-on-top-of-existing-rest-api-8t1k33dt)
+### [78. How To Connect GraphQL On Top of Existing REST API](https://hackernoon.com/how-to-connect-graphql-on-top-of-existing-rest-api-8t1k33dt)
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-g1e32dx.jpeg)
 Start using GraphQL in legacy portions of your app without breaking any existing contracts with functionality that may still rely on the original REST API.
-
-### [78. Set Up Your Own Heroku-like Cloud (PAAS) in 10 Minutes: A Quick Start Guide](https://hackernoon.com/set-up-your-own-heroku-like-cloud-paas-in-10-minutes-a-quick-start-guide)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-re93kv7.jpeg)
-When building projects one of the annoying parts is setting up stuff like web servers, relational databases, and caching. Here's my solution to all that.
 
 ### [79. [Tutorial] Top 5 Ways to Query your Relational Database in JavaScript [Part 1]](https://hackernoon.com/tutorial-top-5-ways-to-query-your-relational-database-in-javascript-part-1-v1x3uy0)
 ![](https://cdn.hackernoon.com/images/841ju3v53.jpg)
 If you’re developing web applications, you’re almost certainly going to be constantly interacting with a database. And when it comes time to select the way you’ll interact, the choices can be overwhelming.
 
-### [80. Heroku and CircleCI : Automated CI/CD Process for a NuxtJS](https://hackernoon.com/heroku-and-circleci-automated-cicd-process-for-a-nuxtjs-aft3t6s)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTMgodFHH4evRjSdNFNz3dacaM23-gj53uzo.jpeg?alt=media&token=0481f3cd-776e-4192-87a1-2ea625f3d673)
-Published with permission from Alvin Lee.
-
-### [81. Leveling Up My GraphQL Skills: Real Time Subscriptions](https://hackernoon.com/leveling-up-my-graphql-skills-real-time-subscriptions)
+### [80. Leveling Up My GraphQL Skills: Real Time Subscriptions](https://hackernoon.com/leveling-up-my-graphql-skills-real-time-subscriptions)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-bv03cr6.jpeg)
 Dive a little deeper to explore real-time data subscriptions by using GraphQL to automatically receive server-side updates with help from a WebSocket consumer.
+
+### [81. Heroku and CircleCI : Automated CI/CD Process for a NuxtJS](https://hackernoon.com/heroku-and-circleci-automated-cicd-process-for-a-nuxtjs-aft3t6s)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTMgodFHH4evRjSdNFNz3dacaM23-gj53uzo.jpeg?alt=media&token=0481f3cd-776e-4192-87a1-2ea625f3d673)
+Published with permission from Alvin Lee.
 
 ### [82. Application Modernization: Breaking the God Service Using Heroku](https://hackernoon.com/application-modernization-breaking-up-the-god-service-using-heroku)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-boj35je.jpeg)
@@ -333,13 +337,13 @@ Stop replacing your monolith with a God service and start doing things better. L
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-h5104w5g.jpeg?alt=media&token=fe6ed9c8-8e67-485e-bab1-319aba9d8294)
 In the "Using Heroku to Quickly Build a Multi-Tenant SaaS Product" article, I documented the foundation for a new SaaS solution that I am building (initially for my sister-in-law) — utilizing the Heroku ecosystem. At the end of that article, I had planned to write about the core technologies (Spring Boot, Angular 9, ClearDB, Okta, GitLab and Heroku) in place, as we raced for the 1.0.0 release of the solution.
 
-### [84. Top Heroku Add-ons for App Development In 2024](https://hackernoon.com/top-heroku-add-ons-for-app-development-in-2024)
-![](https://cdn.hackernoon.com/images/V91A7ecJTWZqpkQm6ZHkhvfbj4e2-rw832m7.jpeg)
-Meet your app's potential in 2024 with these great Heroku add-ons! From databases and logging to media processing and secure file management—our top picks!
-
-### [85. Streamlining LLM Implementation: How to Enhance Specific Business Solutions with RAG](https://hackernoon.com/streamlining-llm-implementation-how-to-enhance-specific-business-solutions-with-rag)
+### [84. Streamlining LLM Implementation: How to Enhance Specific Business Solutions with RAG](https://hackernoon.com/streamlining-llm-implementation-how-to-enhance-specific-business-solutions-with-rag)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-pi921jo.jpeg)
 Learn how to enhance your LLMs with retrieval-augmented generation, using LlamaIndex and LangChain for data context, deploying your application to Heroku.
+
+### [85. Top Heroku Add-ons for App Development In 2024](https://hackernoon.com/top-heroku-add-ons-for-app-development-in-2024)
+![](https://cdn.hackernoon.com/images/V91A7ecJTWZqpkQm6ZHkhvfbj4e2-rw832m7.jpeg)
+Meet your app's potential in 2024 with these great Heroku add-ons! From databases and logging to media processing and secure file management—our top picks!
 
 ### [86. [Tutorial] Top 5 Ways to Query Your Relational Database in JavaScript [Part 2]](https://hackernoon.com/tutorial-top-5-ways-to-query-your-relational-database-in-javascript-part-2-sa293u0y)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzS7Ens3qoUevRb8Om1z17awDmJ93-vf1c3uul.jpeg?alt=media&token=a3841613-1bd2-468c-b9e1-f334e7a96da1)
@@ -357,57 +361,57 @@ Ah yes—“It works fine on my machine!” Perhaps the most famous saying in ou
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-rgt32nw.jpeg)
 If you want to go all in on Heroku, you can use a series of solutions called Heroku Flow to configure all your CI/CD without any third parties.
 
-### [90. How To Introduce a New API Quickly Using Spring Boot and Gradle](https://hackernoon.com/how-to-introduce-a-new-api-quickly-using-spring-boot-and-gradle)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-l303649.jpeg)
-Time to market can make or break any idea or solution. Check out how quickly a RESTful API can be created by leveraging ChatGPT, Spring Boot, Gradle, and Heroku
+### [90. Location, Location, Location! PostGIS and Heroku Postgres](https://hackernoon.com/location-location-location-postgis-and-heroku-postgres)
+![](https://cdn.hackernoon.com/images/locations-on-a-map-ub0odfn0vbz772e3eicq5zjt.png)
+In this article, I’ll show you how to get a PostGIS-enabled Postgres instance running on Heroku. Then, I’ll run some sample queries on the database,
 
 ### [91. How To Use The Flexibility Of Nginx To Make Your Apps More Powerful](https://hackernoon.com/how-to-use-the-flexibility-of-nginx-to-make-your-apps-more-powerful-vek3wku)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-zh3328kw.jpeg?alt=media&token=17101228-4748-434e-b563-3e81872ba459)
 Open-source application diversity is both the biggest boon in the Free and Open-Source Software (FOSS) movement, and its greatest hindrance to adoption. You don’t always own the application you're consuming, and it often comes with certain opinions and limitations imposed by the software author—either intentionally or otherwise.
 
-### [92. How to Build a Meme Generator with RedwoodJS](https://hackernoon.com/how-to-build-a-meme-generator-with-redwoodjs-qbr3434)
-![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-v5r31a6.jpeg)
-Building a Meme Generator with RedwoodJS
+### [92. How To Introduce a New API Quickly Using Spring Boot and Gradle](https://hackernoon.com/how-to-introduce-a-new-api-quickly-using-spring-boot-and-gradle)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-l303649.jpeg)
+Time to market can make or break any idea or solution. Check out how quickly a RESTful API can be created by leveraging ChatGPT, Spring Boot, Gradle, and Heroku
 
 ### [93. Lambda Architecture: A Comprehensive Introduction and Breakdown](https://hackernoon.com/lambda-architecture-a-comprehensive-introduction-and-breakdown-1l5133yd)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-w0i28xu.jpeg)
 Big data is on the rise, and data systems are tasked with handling it. But this begs the question: Are these systems up for the task?
 
-### [94. Location, Location, Location! PostGIS and Heroku Postgres](https://hackernoon.com/location-location-location-postgis-and-heroku-postgres)
-![](https://cdn.hackernoon.com/images/locations-on-a-map-ub0odfn0vbz772e3eicq5zjt.png)
-In this article, I’ll show you how to get a PostGIS-enabled Postgres instance running on Heroku. Then, I’ll run some sample queries on the database,
+### [94. How to Build a Meme Generator with RedwoodJS](https://hackernoon.com/how-to-build-a-meme-generator-with-redwoodjs-qbr3434)
+![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-v5r31a6.jpeg)
+Building a Meme Generator with RedwoodJS
 
 ### [95. FastHTML and Heroku: What You Need to Know](https://hackernoon.com/fasthtml-and-heroku-what-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-f0029i4.jpeg)
 Discover how to build and deploy Python web apps quickly using FastHTML and Heroku. We’ll learn the basics, create an app, and deploy in under 45 seconds!
 
-### [96. Coding Tutorial: Implement a GraphQL API on Top of an Existing REST API](https://hackernoon.com/coding-tutorial-implement-a-graphql-api-on-top-of-an-existing-rest-api-m234328e)
-![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-g1e32dx.jpeg)
-Start using GraphQL in legacy portions of your app without breaking any existing contracts with functionality that can still rely on the original REST API.
-
-### [97. How to Set up a Heroku Postgres Database with Librato](https://hackernoon.com/how-to-set-up-a-heroku-postgres-database-with-librato-xl2v31gl)
+### [96. How to Set up a Heroku Postgres Database with Librato](https://hackernoon.com/how-to-set-up-a-heroku-postgres-database-with-librato-xl2v31gl)
 ![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-8te31zc.jpeg)
 In this article, you will learn how to set up a Heroku Postgres database with Librato for automated monitoring.
 
-### [98. Productivity Hacks: 5 Tips for Software Engineers and Knowledge Workers](https://hackernoon.com/productivity-hacks-5-tips-for-software-engineers-and-knowledge-workers-rx2e310t)
-![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-qx2w314s.jpeg)
-Everyone seems to be strapped for time these days and desperate to get more done in less time. I'm in the same boat. Here's to achieve more by doing less.
+### [97. Coding Tutorial: Implement a GraphQL API on Top of an Existing REST API](https://hackernoon.com/coding-tutorial-implement-a-graphql-api-on-top-of-an-existing-rest-api-m234328e)
+![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-g1e32dx.jpeg)
+Start using GraphQL in legacy portions of your app without breaking any existing contracts with functionality that can still rely on the original REST API.
 
-### [99. Graph Databases Introduction: The Power of Connected Data](https://hackernoon.com/graph-databases-introduction-the-power-of-connected-data-zngv3vdc)
-![](https://cdn.hackernoon.com/images/mnph3v5d.jpg)
-In today's economy, more and more companies exist primarily online. While there's much discussion around the consequences of leaving behind the traditional brick and mortar business, one aspect that gets less attention is the significant change in how these companies are now managing their data. Increasingly, businesses seek to understand their customers and how best to meet their needs in a way that monthly reports and KPI charts just can’t address. 
-
-### [100. 101 Stories To Learn About Salesforce](https://hackernoon.com/101-stories-to-learn-about-salesforce)
+### [98. 101 Stories To Learn About Salesforce](https://hackernoon.com/101-stories-to-learn-about-salesforce)
 ![](https://cdn.hackernoon.com/images/github/salesforce-773.png)
 Learn everything you need to know about Salesforce via these 101 free HackerNoon stories.
 
-### [101.  Wow, pnpm, You're Really Fast: How to Use It on Heroku](https://hackernoon.com/wow-pnpm-youre-really-fast-how-to-use-it-on-heroku)
-![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-z5423bs.jpeg)
-Learn how to use pnpm on Heroku, explore its storage and speed benefits, and see why it’s an ideal choice for Node.js developers. Get started with this guide.
+### [99. Productivity Hacks: 5 Tips for Software Engineers and Knowledge Workers](https://hackernoon.com/productivity-hacks-5-tips-for-software-engineers-and-knowledge-workers-rx2e310t)
+![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-qx2w314s.jpeg)
+Everyone seems to be strapped for time these days and desperate to get more done in less time. I'm in the same boat. Here's to achieve more by doing less.
 
-### [102. Combining Cursor and the Heroku MCP Server to Build a SvelteKit App](https://hackernoon.com/combining-cursor-and-the-heroku-mcp-server-to-build-a-sveltekit-app)
+### [100. Graph Databases Introduction: The Power of Connected Data](https://hackernoon.com/graph-databases-introduction-the-power-of-connected-data-zngv3vdc)
+![](https://cdn.hackernoon.com/images/mnph3v5d.jpg)
+In today's economy, more and more companies exist primarily online. While there's much discussion around the consequences of leaving behind the traditional brick and mortar business, one aspect that gets less attention is the significant change in how these companies are now managing their data. Increasingly, businesses seek to understand their customers and how best to meet their needs in a way that monthly reports and KPI charts just can’t address. 
+
+### [101. Combining Cursor and the Heroku MCP Server to Build a SvelteKit App](https://hackernoon.com/combining-cursor-and-the-heroku-mcp-server-to-build-a-sveltekit-app)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-l2028n0.png)
 Build and deploy a full SvelteKit app using Cursor and the Heroku MCP Server—no terminal needed. From concept to cloud, all via AI-powered prompts in your IDE.
+
+### [102.  Wow, pnpm, You're Really Fast: How to Use It on Heroku](https://hackernoon.com/wow-pnpm-youre-really-fast-how-to-use-it-on-heroku)
+![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-z5423bs.jpeg)
+Learn how to use pnpm on Heroku, explore its storage and speed benefits, and see why it’s an ideal choice for Node.js developers. Get started with this guide.
 
 ### [103. Heroku for ChatOps: How to Start and Monitor Deployments From Slack](https://hackernoon.com/heroku-for-chatops-how-to-start-and-monitor-deployments-from-slack)
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-74l33no.jpeg)
@@ -435,25 +439,25 @@ Learn how to secure your apps with SSL certificates for custom domains
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-lgc31bk.jpeg)
 This is the 2nd article documenting what I’ve learned from a series of 10 Trailhead Live video sessions on Modern App Development on Salesforce and Heroku.  In these articles I’m walking you through how to combine Salesforce with Heroku to build an “eCars” app—a sales and service application for a fictitious electric car company (“Pulsar”) that allows users to customize and buy cars, service techs to view live diagnostic info from the car, and more.  
 
-### [109. How to Automate Heroku App Deployment with GitLab CI/CD](https://hackernoon.com/how-to-automate-heroku-app-deployment-with-gitlab-cicd)
-![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-dl8308s.jpeg)
-Today we’ll show you how you can deploy your Heroku app automatically any time code is merged into your main branch by using GitLab CI/CD.
-
-### [110. Go With the CI/CD Flow: Using Heroku Flow With Gitflow Branching](https://hackernoon.com/go-with-the-cicd-flow-using-heroku-flow-with-gitflow-branching)
+### [109. Go With the CI/CD Flow: Using Heroku Flow With Gitflow Branching](https://hackernoon.com/go-with-the-cicd-flow-using-heroku-flow-with-gitflow-branching)
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-8fu32wx.jpeg)
 In this article, we walk you through how to set up Heroku Flow for CI/CD using a dev and main branch and a staging and production app.
+
+### [110. How to Automate Heroku App Deployment with GitLab CI/CD](https://hackernoon.com/how-to-automate-heroku-app-deployment-with-gitlab-cicd)
+![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-dl8308s.jpeg)
+Today we’ll show you how you can deploy your Heroku app automatically any time code is merged into your main branch by using GitLab CI/CD.
 
 ### [111. Data Modeling in Salesforce and Heroku Data Services ](https://hackernoon.com/data-modeling-in-salesforce-and-heroku-data-services-k5i3zq6)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-0q1b28ol.jpeg)
 This is the third article documenting what I’ve learned from a series of 10 Trailhead Live video sessions on Modern App Development on Salesforce and Heroku. 
 
-### [112. How To Scale Django/Postgres With PgBouncer on Heroku](https://hackernoon.com/how-to-scale-djangopostgres-with-pgbouncer-on-heroku-n91e3xsb)
-![](https://cdn.hackernoon.com/drafts/eb103xoc.png)
-Do you have an app on Heroku using Postgres? Are you running out of database connections? 
-
-### [113. Deep Dive Into DevSecOps: Heroku Flow Edition](https://hackernoon.com/deep-dive-into-devsecops-heroku-flow-edition-y51o3566)
+### [112. Deep Dive Into DevSecOps: Heroku Flow Edition](https://hackernoon.com/deep-dive-into-devsecops-heroku-flow-edition-y51o3566)
 ![](https://hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-xb1x31hr.jpeg)
 An Overview of DevSecOps and How to Automate It
+
+### [113. How To Scale Django/Postgres With PgBouncer on Heroku](https://hackernoon.com/how-to-scale-djangopostgres-with-pgbouncer-on-heroku-n91e3xsb)
+![](https://cdn.hackernoon.com/drafts/eb103xoc.png)
+Do you have an app on Heroku using Postgres? Are you running out of database connections? 
 
 ### [114. Transforming Workflow Automation: From Stateless to Stateful](https://hackernoon.com/transforming-workflow-automation-from-stateless-to-stateful)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-ag82mhl.jpeg)
@@ -515,29 +519,29 @@ Code Reviews in a remote-driven world yield a better software design and solutio
 ![](https://cdn.hackernoon.com/images/ms1f3ynu.jpg)
 The COVID-19 pandemic and statewide stay-at-home order have caused many companies, including mine, to close their offices, restrict travel, and require all employees to work remotely.  
 
-### [129. How to Build Progressive Web Apps with Lightning Web Components [Part 2]](https://hackernoon.com/how-to-build-progressive-web-apps-with-lightning-web-components-part-2-6j1y34ev)
-![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-u51f35vt.jpeg)
-Earlier this year, a post came out on the Salesforce Developers Blog, entitled “How to Build Progressive Web Apps with Offline Support using Lightning Web Components.” During the post's discussion about using Lightning Web Components (LWC) to build progressive web apps, it mentioned push notifications. My interest was piqued. How simple would it be to use LWC to build an app for push notifications? It turns out — really simple.
-
-### [130. Using Heroku To Leverage CloudAMQP](https://hackernoon.com/using-heroku-to-leverage-cloudamqp-il1635fi)
+### [129. Using Heroku To Leverage CloudAMQP](https://hackernoon.com/using-heroku-to-leverage-cloudamqp-il1635fi)
 ![](https://hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-t63k3129.jpeg)
 As part of my Fitness application journey, the CloudAMQP service is introduced into the Heroku-based service in order to process invoices asynchronously.
 
-### [131. Cheapskate's Journey to On-Demand Load Tests with Locust](https://hackernoon.com/cheapskates-journey-to-on-demand-load-tests-with-locust-khe3u2w)
+### [130. How to Build Progressive Web Apps with Lightning Web Components [Part 2]](https://hackernoon.com/how-to-build-progressive-web-apps-with-lightning-web-components-part-2-6j1y34ev)
+![](https://cdn.hackernoon.com/images/nTMgodFHH4evRjSdNFNz3dacaM23-u51f35vt.jpeg)
+Earlier this year, a post came out on the Salesforce Developers Blog, entitled “How to Build Progressive Web Apps with Offline Support using Lightning Web Components.” During the post's discussion about using Lightning Web Components (LWC) to build progressive web apps, it mentioned push notifications. My interest was piqued. How simple would it be to use LWC to build an app for push notifications? It turns out — really simple.
+
+### [131. Why Haven’t You Upgraded to HTTP/2?](https://hackernoon.com/why-havent-you-upgraded-to-http2)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-gk03esu.jpeg)
+Let’s understand more about the benefits of upgrading to HTTP/2 and how it can impact consumers of your application or service.
+
+### [132. Cheapskate's Journey to On-Demand Load Tests with Locust](https://hackernoon.com/cheapskates-journey-to-on-demand-load-tests-with-locust-khe3u2w)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTMgodFHH4evRjSdNFNz3dacaM23-2jb63ujh.webp?alt=media&token=96e7f02b-0f2f-4155-a487-58ce15733bc3)
 Published with permission by Rahul Rai
 
-### [132. 5 Tips to Effectively Monitor Heroku Applications](https://hackernoon.com/5-tips-to-effectively-monitor-heroku-applications-iu113tzr)
+### [133. 5 Tips to Effectively Monitor Heroku Applications](https://hackernoon.com/5-tips-to-effectively-monitor-heroku-applications-iu113tzr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FczB8te4aJKgpsTMwXFxqEd3rAtB3-c2263ux9.jpeg?alt=media&token=de3c4cc1-6c1f-4c93-9d06-c504187a3a86)
 Heroku differentiates itself from other cloud providers, by offering a complete, cohesive environment. Where AWS and GCP present a decoupled toolkit, Heroku strives for a seamless, UI-driven experience for the user. This philosophy is clearly embodied in its metrics functionality, which is often a single click or basic configuration file away.
 
-### [133. How to Build an eCars App on Heroku and Salesforce (Part 4)](https://hackernoon.com/how-to-build-an-ecars-app-on-heroku-and-salesforce-part-4-nt31313n)
+### [134. How to Build an eCars App on Heroku and Salesforce (Part 4)](https://hackernoon.com/how-to-build-an-ecars-app-on-heroku-and-salesforce-part-4-nt31313n)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-iz22310a.jpeg)
 In these articles, we’re focusing on how to combine Salesforce with Heroku to build an “eCars” app—a sales and service application for a fictitious company
-
-### [134. Why Haven’t You Upgraded to HTTP/2?](https://hackernoon.com/why-havent-you-upgraded-to-http2)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-gk03esu.jpeg)
-Let’s understand more about the benefits of upgrading to HTTP/2 and how it can impact consumers of your application or service.
 
 ### [135. How To Cache RESTful API Requests for Redis With Heroku Data](https://hackernoon.com/how-to-cache-restful-api-requests-for-redis-with-heroku-data)
 ![](https://cdn.hackernoon.com/images/a-laptop-displaying-code-mcd106se32kc82vix766euyx.png)
@@ -547,13 +551,13 @@ Learn how to significantly improve your Node.js application's performance by imp
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-sa1y331j.jpeg)
 In this tutorial, we’ll learn about the end-to-end process of creating an LWC open source application from scratch, hosting it on Github Pages, and deploying it to Heroku.
 
-### [137. 4 Essential Steps To Convert a Kubernetes Fullstack App to Heroku](https://hackernoon.com/4-essential-steps-to-convert-a-kubernetes-fullstack-app-to-heroku-wmm3t5e)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-5k1k4xb8.jpeg?alt=media&token=263265be-d45b-4747-8e13-809cd1a36a67)
-In the last several years, Google’s Kubernetes project has generated huge buzz. The project has grown and evolved into a titan of the cloud infrastructure world. 
-
-### [138. Getting Your Ruby on Rails Application Live On The Internet With Heroku [A How-To Guide]](https://hackernoon.com/getting-your-ruby-on-rails-application-live-on-the-internet-with-heroku-a-how-to-guide-xa2k3y32)
+### [137. Getting Your Ruby on Rails Application Live On The Internet With Heroku [A How-To Guide]](https://hackernoon.com/getting-your-ruby-on-rails-application-live-on-the-internet-with-heroku-a-how-to-guide-xa2k3y32)
 ![](https://cdn.hackernoon.com/drafts/rk103wde.png)
 As a back-end developer, the happy moment is to show your client that the work is now is live on the internet, everyone on the world can access the website. In this article, I will share my experience step by step to deploy your ruby on rails application on Heroku.
+
+### [138. 4 Essential Steps To Convert a Kubernetes Fullstack App to Heroku](https://hackernoon.com/4-essential-steps-to-convert-a-kubernetes-fullstack-app-to-heroku-wmm3t5e)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-5k1k4xb8.jpeg?alt=media&token=263265be-d45b-4747-8e13-809cd1a36a67)
+In the last several years, Google’s Kubernetes project has generated huge buzz. The project has grown and evolved into a titan of the cloud infrastructure world. 
 
 ### [139. Three Bs to Avoid That 2AM alert](https://hackernoon.com/three-bs-to-avoid-that-2am-alert-bw1t36os)
 ![](https://cdn.hackernoon.com/images/9bhq36xb.jpg)
@@ -571,33 +575,33 @@ While I appreciate the concept of a serverless option, sometimes you simply need
 ![](https://cdn.hackernoon.com/images/s31qr3yoz.jpg)
 My primary goal is to find a solution that allows my limited time to be focused on providing business solutions instead of getting up to speed with DevOps processes.
 
-### [143. Tips About Kafka Connect On Heroku You Can't Afford To Miss](https://hackernoon.com/tips-about-kafka-connect-on-heroku-you-cant-afford-to-miss-u8l3wzk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-ld1a28dq.jpeg?alt=media&token=dea5f26f-5768-431d-88e6-ac17a869c240)
-Introduction
+### [143. How to Deploy a Scala Play Application to Heroku](https://hackernoon.com/how-to-deploy-a-scala-play-application-to-heroku)
+![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-6b026r8.jpeg)
+Curious about Scala and Play? Follow this step-by-step guide to build and then easily run and deploy a REST API to Heroku with minimal setup and smooth results.
 
 ### [144. Effortlessly Deploy Django Apps to the Cloud with GitHub Actions and Heroku](https://hackernoon.com/effortlessly-deploy-django-apps-to-the-cloud-with-github-actions-and-heroku)
 ![](https://cdn.hackernoon.com/images/cloud-of-computers-ool9r5b4bflmqn7xqsua4k2c.png)
 Learn how to deploy a Django application to Heroku using GitHub Actions for seamless CI/CD integration and rapid cloud deployment.
 
-### [145. Heroku From the Perspective of a Cloud Architect](https://hackernoon.com/heroku-from-the-perspective-of-a-cloud-architect-rc1w3t1a)
+### [145. Tips About Kafka Connect On Heroku You Can't Afford To Miss](https://hackernoon.com/tips-about-kafka-connect-on-heroku-you-cant-afford-to-miss-u8l3wzk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-ld1a28dq.jpeg?alt=media&token=dea5f26f-5768-431d-88e6-ac17a869c240)
+Introduction
+
+### [146. Heroku From the Perspective of a Cloud Architect](https://hackernoon.com/heroku-from-the-perspective-of-a-cloud-architect-rc1w3t1a)
 ![](https://cdn.hackernoon.com/images/1ain3v1j.jpg)
 As a freelance cloud architect, I spend my time reviewing and playing with the latest and greatest industry trends. Technologies like Kubernetes, ElasticSearch, and Prometheus fill my home and business infrastructure. After many hours of painful configuration and tweaking, they are now tuned to work exactly the way I want.
-
-### [146. How to Create a Developer Cheerleader App on Heroku](https://hackernoon.com/how-to-create-a-developer-cheerleader-app-on-heroku-fg2y31sh)
-![](https://cdn.hackernoon.com/images/VbWR80KnUqgOMCxdR5D12CPSejt2-m43j31rf.jpeg)
-We all need a little encouragement from time to time, especially when computers insist on doing exactly what we tell them. Fortunately, you can manufacture your own cheerleader to deliver those small affirmations all developers need. 
 
 ### [147. The Noonification: Python FIFO Buffer Class for Audio – an Algorithm (6/28/2024)](https://hackernoon.com/6-28-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_824_j10jp7wvt1yf5ftejgpiga5n.png)
 6/28/2024: Top 5 stories on the HackerNoon homepage!
 
-### [148. Bringing Back the 90s with the Wicked Coolkit](https://hackernoon.com/bringing-back-the-90s-with-the-wicked-coolkit-pcw32vd)
+### [148. How to Create a Developer Cheerleader App on Heroku](https://hackernoon.com/how-to-create-a-developer-cheerleader-app-on-heroku-fg2y31sh)
+![](https://cdn.hackernoon.com/images/VbWR80KnUqgOMCxdR5D12CPSejt2-m43j31rf.jpeg)
+We all need a little encouragement from time to time, especially when computers insist on doing exactly what we tell them. Fortunately, you can manufacture your own cheerleader to deliver those small affirmations all developers need. 
+
+### [149. Bringing Back the 90s with the Wicked Coolkit](https://hackernoon.com/bringing-back-the-90s-with-the-wicked-coolkit-pcw32vd)
 ![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-65d39tv.jpeg)
 Remember the 90s? Pokémon, Beanie Babies, Crazy Bones, Super Nintendo, Pogs, and neon windbreakers... Those were the good old days. The web was a simpler place.
-
-### [149. How to Deploy a Scala Play Application to Heroku](https://hackernoon.com/how-to-deploy-a-scala-play-application-to-heroku)
-![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-6b026r8.jpeg)
-Curious about Scala and Play? Follow this step-by-step guide to build and then easily run and deploy a REST API to Heroku with minimal setup and smooth results.
 
 ### [150. How to Integrate Traditional Cloud Development With Salesforce](https://hackernoon.com/how-to-integrate-traditional-cloud-development-with-salesforce-z41t34d2)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-3cp31qd.jpeg)
@@ -607,25 +611,25 @@ Heroku provides the necessary components to integrate cloud services with Salesf
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-jz83wwz.jpeg)
 Enhance your app's stability, performance, and security with Heroku Logplex, a centralized logging solution for effective log management and analysis.
 
-### [152. What Is Remote Pair Programming?](https://hackernoon.com/what-is-remote-pair-programming-ly1o35n0)
-![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-lbf37my.jpeg)
-COVID-19 may have forced us all into working remotely, but that doesn't mean we can't still pair program! The VS Code Live Share extension is here to help.
-
-### [153. Custom Domains for HTTP/2 on Heroku — It's So easy!](https://hackernoon.com/custom-domains-for-http2-on-heroku-its-so-easy)
+### [152. Custom Domains for HTTP/2 on Heroku — It's So easy!](https://hackernoon.com/custom-domains-for-http2-on-heroku-its-so-easy)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-nj72175.jpeg)
 Learn how to set up a custom domain with HTTPS on Heroku in just a few minutes, so that you can take advantage of HTTP/2 support for better site performance.
+
+### [153. What Is Remote Pair Programming?](https://hackernoon.com/what-is-remote-pair-programming-ly1o35n0)
+![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-lbf37my.jpeg)
+COVID-19 may have forced us all into working remotely, but that doesn't mean we can't still pair program! The VS Code Live Share extension is here to help.
 
 ### [154. API Development Gets a Boost as ChatGPT and Quarkus Streamline Java Workflow](https://hackernoon.com/api-development-gets-a-boost-as-chatgpt-and-quarkus-streamline-java-workflow)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-hy03897.png)
 Stepping outside of my comfort zone, let’s see how quickly we can introduce an API-First-driven RESTful by leveraging ChatGPT, Quarkus, and Heroku.
 
-### [155. Heroku Guide: How to Go Live with your Rails App](https://hackernoon.com/heroku-guide-how-to-go-live-with-your-rails-app-6f1734ie)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-4j1028nr.jpeg?alt=media&token=6d18199a-9d8a-4dfe-8b8c-ebdcfc3817ca)
-YAML: literally meaning “Yaml ain’t markup language” can mess you up in the beginning. Rails generates this file for you and you have to change it for Heroku. YAML spacing has to be exact and it’s important to know a tab is not the same as four spaces. 
-
-### [156. How to Get the Most Out of Heroku CI](https://hackernoon.com/how-to-get-the-most-out-of-heroku-ci-k6c53yul)
+### [155. How to Get the Most Out of Heroku CI](https://hackernoon.com/how-to-get-the-most-out-of-heroku-ci-k6c53yul)
 ![](https://images.unsplash.com/photo-1559510981-10719ce4266a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Continuous integration and continuous delivery (CI/CD) are best practices in today’s software engineering development process.
+
+### [156. Heroku Guide: How to Go Live with your Rails App](https://hackernoon.com/heroku-guide-how-to-go-live-with-your-rails-app-6f1734ie)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-4j1028nr.jpeg?alt=media&token=6d18199a-9d8a-4dfe-8b8c-ebdcfc3817ca)
+YAML: literally meaning “Yaml ain’t markup language” can mess you up in the beginning. Rails generates this file for you and you have to change it for Heroku. YAML spacing has to be exact and it’s important to know a tab is not the same as four spaces. 
 
 ### [157. The Noonification: 2000+ Researchers Predict the Future of AI (4/17/2024)](https://hackernoon.com/4-17-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_572_czlt1lapbjzprxokg55qi2ql.png)
@@ -635,13 +639,13 @@ Continuous integration and continuous delivery (CI/CD) are best practices in tod
 ![](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 You've just released your new app into the wild, live in production. Success! Now what? Your job is done, right? Wrong. Now that you've deployed your code, it's time to monitor it, collect data, and analyze your metrics.
 
-### [159. How To Connect Heroku Server with Slack](https://hackernoon.com/how-to-connect-heroku-server-with-slack-bwx31fw)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-yn74312u.jpeg)
-Heroku makes it easy to integrate with the Slack business communication platform. Three available options are presented in this article by @johnjvester
-
-### [160. How To Introduce a New API Quickly Using Micronaut](https://hackernoon.com/how-to-introduce-a-new-api-quickly-using-micronaut)
+### [159. How To Introduce a New API Quickly Using Micronaut](https://hackernoon.com/how-to-introduce-a-new-api-quickly-using-micronaut)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-1c338f5.jpeg)
 Knowing when to pivot can be vital to staying ahead of the competition. See how Cursor AI and Heroku can be leveraged to transform an idea into a reality.
+
+### [160. How To Connect Heroku Server with Slack](https://hackernoon.com/how-to-connect-heroku-server-with-slack-bwx31fw)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-yn74312u.jpeg)
+Heroku makes it easy to integrate with the Slack business communication platform. Three available options are presented in this article by @johnjvester
 
 ### [161. Wicked Cool Experience: Nostalgic and Fun Wicked Coolkit](https://hackernoon.com/wicked-cool-experience-nostalgic-and-fun-wicked-coolkit-lp7x359w)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-66n356d.jpeg)

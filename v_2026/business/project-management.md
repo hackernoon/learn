@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [project-management](https://hackernoon.com/tagged/project-management)
+### Let's learn about [Project Management](https://hackernoon.com/tagged/project-management) via these 372 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 'How many project managers does it take to change a light bulb? Trick question. They can't actually do it. But they can record what percentage is complete.' 
 
 ### [1. Navigating Complexity: The Challenges of Managing Large-scale Projects](https://hackernoon.com/navigating-complexity-the-challenges-of-managing-large-scale-projects)
@@ -171,17 +173,17 @@ Read this post to know the best Online Learning Platforms to Acquire New Skills 
 ![](https://cdn.hackernoon.com/images/wlbr32wp.jpg)
 When you begin working on a complex project, the sheer number of tasks can be overwhelming. Especially if different tasks are assigned to different people on the team, and each has its own deadline. How do you keep track of who must do what and by what date? The answer lies in specialized Gantt chart software.
 
-### [42. Benefits of Having a Project Manager in a Team](https://hackernoon.com/benefits-of-having-a-project-manager-in-a-team)
+### [42. Why is Making Software so Difficult?](https://hackernoon.com/why-making-software-is-so-difficult-vm8i30gv)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FuhJdIL6cKvOEvhfNdiy1eMmb0YB3-yz63u38.jpeg?alt=media&token=7fb8080e-8f83-4b07-8b58-c2163098f333)
+We think of Software Development as a pursuit grounded in logic. From this perspective it can be shocking that software projects have high failure rates - 31% in 2014. And some projects fail to the tune of billions. How is this level of chaos possible in an apparently logical discipline?
+
+### [43. Benefits of Having a Project Manager in a Team](https://hackernoon.com/benefits-of-having-a-project-manager-in-a-team)
 ![](https://cdn.hackernoon.com/images/hnOK0fAd72WknjvPmEBGfd1mOl92-m193oc5.png)
 If you own a business but don't have a project manager on your team, find out all the benefits of having a specialist that can organize and direct development.
 
-### [43. 4 Software Engineering Principles You Should Know](https://hackernoon.com/4-software-engineering-principles-you-should-know-auv37bf)
+### [44. 4 Software Engineering Principles You Should Know](https://hackernoon.com/4-software-engineering-principles-you-should-know-auv37bf)
 ![](https://cdn.hackernoon.com/images/SWuYxmBe5WPlAjznGj5Fb05Thnl1-y17b1azg.png)
 Engineering principles that lead to better, robust and maintainable codebases.
-
-### [44. Why is Making Software so Difficult?](https://hackernoon.com/why-making-software-is-so-difficult-vm8i30gv)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FuhJdIL6cKvOEvhfNdiy1eMmb0YB3-yz63u38.jpeg?alt=media&token=7fb8080e-8f83-4b07-8b58-c2163098f333)
-We think of Software Development as a pursuit grounded in logic. From this perspective it can be shocking that software projects have high failure rates - 31% in 2014. And some projects fail to the tune of billions. How is this level of chaos possible in an apparently logical discipline?
 
 ### [45. How to Approach Project Estimation in a Healthy Way](https://hackernoon.com/no-more-deadlines-tips-for-healthy-project-estimation)
 ![](https://cdn.hackernoon.com/images/FDSLAUqwdlOzoGiZjrvaUOs8iqH2-dx03ork.jpeg)
@@ -235,15 +237,15 @@ These 3 fundamental problems in the growth marketing of web3 projects create a h
 ![](https://cdn.hackernoon.com/images/comCvv78UrMck7xqKHYX1VyBUK23-bg93hvd.jpeg)
 This story covers basic GitHub Jira Integration without requiring admin privileges to install apps on Jira.
 
-### [58. The Product Manager's Guide To Identifying and Managing Project Stakeholders](https://hackernoon.com/the-product-manager-guide-to-identifying-and-managing-project-stakeholders-856a35bw)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-vz3c35pu.png)
-We discuss a framework for categorizing stakeholders. We also recommend different communication methods for each type of stakeholder to save you time and effort
-
-### [59. The Art of Writing Agile User Stories](https://hackernoon.com/how-to-build-an-application-the-right-way)
+### [58. The Art of Writing Agile User Stories](https://hackernoon.com/how-to-build-an-application-the-right-way)
 ![](https://cdn.hackernoon.com/images/NjxgYcJ3uKWnVfGZAjklrRzZPU93-8w93k7v.jpeg)
 If it brings no value to users, chances are, no one will use it.
 
 User stories are brief, informal descriptions of a feature told from user POV.
+
+### [59. The Product Manager's Guide To Identifying and Managing Project Stakeholders](https://hackernoon.com/the-product-manager-guide-to-identifying-and-managing-project-stakeholders-856a35bw)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-vz3c35pu.png)
+We discuss a framework for categorizing stakeholders. We also recommend different communication methods for each type of stakeholder to save you time and effort
 
 ### [60. The Complete Guide to Agile vs Scrum](https://hackernoon.com/agile-vs-scrum-differences-and-similarities-the-complete-review-2020-zk3t3u8z)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV9J0kJWT15dwSuG3CLQTn9lZjeE3-fi6u3ugd.jpeg?alt=media&token=2a417bf6-2c10-483c-94dc-a7b7ee22b2d9)
@@ -285,13 +287,13 @@ The Software Development Life Cycle (SDLC) refers to a methodology with clearly 
 ![](https://cdn.hackernoon.com/images/H2zDqazHU5MNxyu81Oss2vC0eDN2-fd173bm8.png)
 Formulas with the Jira Structure plugin can be mind-blowing: up your game as you create tables, simplify work with tasks, and analyze releases and projects.
 
-### [70. 29 Asana Alternatives: The Ultimate Breakdown](https://hackernoon.com/29-asana-alternatives-the-ultimate-breakdown-b2w3yt7)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV9J0kJWT15dwSuG3CLQTn9lZjeE3-ly9e3tli.png?alt=media&token=0e088aaa-754e-4025-b334-f469a8181f03)
-Most people’s story about looking for Asana alternatives:
-
-### [71. 4 Ways Scrum Masters Can Leverage AI Today & the Tools They Can Use to Do So](https://hackernoon.com/4-ways-scrum-masters-can-leverage-ai-today-and-the-tools-they-can-use-to-do-so)
+### [70. 4 Ways Scrum Masters Can Leverage AI Today & the Tools They Can Use to Do So](https://hackernoon.com/4-ways-scrum-masters-can-leverage-ai-today-and-the-tools-they-can-use-to-do-so)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-q393l0q.jpeg)
 Everyone's talking about the future. So this post is all about how Scrum Masters can get the most out of AI to make significant gains today. 
+
+### [71. 29 Asana Alternatives: The Ultimate Breakdown](https://hackernoon.com/29-asana-alternatives-the-ultimate-breakdown-b2w3yt7)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV9J0kJWT15dwSuG3CLQTn9lZjeE3-ly9e3tli.png?alt=media&token=0e088aaa-754e-4025-b334-f469a8181f03)
+Most people’s story about looking for Asana alternatives:
 
 ### [72. Startup’s Secrets: How to Run Remote Sprint Planning](https://hackernoon.com/startups-secrets-how-to-run-remote-sprint-planning-pb593vg7)
 ![](https://cdn.hackernoon.com/drafts/bc1rx3v2s.png)
@@ -322,185 +324,185 @@ Learn when to over-engineer a project to ensure a successful rewrite and high ve
 ![](https://cdn.hackernoon.com/drafts/4ro3s77.png)
 Project Management Institute claims that one out of four organization’s projects failed outright. The numbers are far from being encouraging.
 
-### [79. The DNA of Breakthrough Projects: How to Supercharge Innovation and Eliminate Latency](https://hackernoon.com/the-dna-of-breakthrough-projects-how-to-supercharge-innovation-and-eliminate-latency)
-![](https://cdn.hackernoon.com/images/8GQanzjUdAYGxBqUi1iFCeJwMiK2-ja03ant.png)
-Project DNA helps teams execute projects faster, reduce latency, and turn uncertainty into insight, creating a practical framework for innovation success.
+### [79. Ditch the Expensive Tools With This Guide on Conducting UX Research on Zero Budget](https://hackernoon.com/ditch-the-expensive-tools-with-this-guide-on-conducting-ux-research-on-zero-budget)
+![](https://cdn.hackernoon.com/images/IkC3RJ0dhpfyCTOwCY6m6VlQz542-c9734lx.jpeg)
+How to plan, conduct, and analyze user experience research for digital interfaces with no budget for pro UX help, relying solely on Excel and your expertise
 
 ### [80. A Systematic Approach to Building Products (Template)](https://hackernoon.com/a-systematic-approach-to-building-products-template-fl273wlo)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrFnbsql7nWZYm3vZytm2TUx8zvZ2-tug3wkp.jpeg?alt=media&token=052c21b7-7589-496f-865c-811edf065c20)
 If you’re working on something new, there are so many directions your work and product can take.
 
-### [81. Ditch the Expensive Tools With This Guide on Conducting UX Research on Zero Budget](https://hackernoon.com/ditch-the-expensive-tools-with-this-guide-on-conducting-ux-research-on-zero-budget)
-![](https://cdn.hackernoon.com/images/IkC3RJ0dhpfyCTOwCY6m6VlQz542-c9734lx.jpeg)
-How to plan, conduct, and analyze user experience research for digital interfaces with no budget for pro UX help, relying solely on Excel and your expertise
-
-### [82. Stop Confusing Agile Development with Product Development](https://hackernoon.com/stop-confusing-agile-development-with-product-development-t85u3yqd)
+### [81. Stop Confusing Agile Development with Product Development](https://hackernoon.com/stop-confusing-agile-development-with-product-development-t85u3yqd)
 ![](https://cdn.hackernoon.com/images/pu8t3ytg.gif)
 People keep confusing agile with product development but they are different concepts. It’s important to make this distinction because it actually matters. It isn’t just semantics, the confusion is causing us all problems. Understanding this difference may fundamentally change the approach most organisations take to building digital products.
 
-### [83. The Art of Money Getting or, Golden Rules for Making Money - Chapter 7](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-7)
+### [82. The Art of Money Getting or, Golden Rules for Making Money - Chapter 7](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-7)
 ![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-9p93vju.jpeg)
 The Art of Money Getting or, Golden Rules for Making Money by P. T. Barnum is part of HackerNoon’s Book Blog Post series. The table of Links for this book can be found here.
+
+### [83. There Are Only 5 Meetings: Standup, Demo, Plan, Reflect, and All-Hands](https://hackernoon.com/there-are-only-5-meetings-standup-demo-plan-reflect-and-all-hands-k05s34ue)
+![](https://cdn.hackernoon.com/images/FDSLAUqwdlOzoGiZjrvaUOs8iqH2-jh403fdg.jpeg)
+There are too many agile meetings that tech teams use. Save by adopting the essential types of agile meetings I use on my teams.
 
 ### [84. The Work You Defer Only Accumulates Tech Debt](https://hackernoon.com/the-work-you-defer-only-accumulates-tech-debt)
 ![](https://cdn.hackernoon.com/images/8S7YTEYJyrdVGKzKgPKnA471tYm1-cw93pzc.jpeg)
 Tech debt is deferred work for later. Think of technical debt as analogous to financial debt. It's not just the way they are named. If you have a debt — there i
 
-### [85. There Are Only 5 Meetings: Standup, Demo, Plan, Reflect, and All-Hands](https://hackernoon.com/there-are-only-5-meetings-standup-demo-plan-reflect-and-all-hands-k05s34ue)
-![](https://cdn.hackernoon.com/images/FDSLAUqwdlOzoGiZjrvaUOs8iqH2-jh403fdg.jpeg)
-There are too many agile meetings that tech teams use. Save by adopting the essential types of agile meetings I use on my teams.
-
-### [86. A Deep Dive Into Product Manager Roles and Responsibilities](https://hackernoon.com/a-deep-dive-into-product-manager-roles-and-responsibilities-157z3azc)
+### [85. A Deep Dive Into Product Manager Roles and Responsibilities](https://hackernoon.com/a-deep-dive-into-product-manager-roles-and-responsibilities-157z3azc)
 ![](https://cdn.hackernoon.com/drafts/goth368x.png)
 Product Manager as a function or practice is fairly old now. It has been around since 1931 (well at least in theory). It originated from a memo written by Neil McElroy, an Advertising Manager at Proctor and Gamble. He wrote this memo to the Executive Team of P&G suggesting the need of a “brand man”, a person solely responsible for the product and not the business.
 
-### [87. The Ultimate Project Management Career Guide for 2020](https://hackernoon.com/the-ultimate-project-management-career-guide-for-2020-43443uqc)
+### [86. The Ultimate Project Management Career Guide for 2020](https://hackernoon.com/the-ultimate-project-management-career-guide-for-2020-43443uqc)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV9J0kJWT15dwSuG3CLQTn9lZjeE3-wu243uxm.png?alt=media&token=96b36cb1-93cf-453f-a5ed-bd7b4067280d)
 From the desk of brilliant weirdo #1: “What does a project manager really do?” Maybe that’s a question you’ve been asking yourself or others if you have been considering a PM career for a while. To be honest, it’s gonna be quite hard to put all the PM roles under one roof as project managers in one industry can differ from PMs in another. But I’ll do my best to give you a clear image of what it looks like to be a project manager.
 
-### [88. Build Your Product Roadmap for 2020 Today With One of These Great Tools  ](https://hackernoon.com/7-product-roadmap-tools-to-consider-in-2020-cir32ka)
+### [87. Build Your Product Roadmap for 2020 Today With One of These Great Tools  ](https://hackernoon.com/7-product-roadmap-tools-to-consider-in-2020-cir32ka)
 ![](https://cdn.hackernoon.com/drafts/l81r32sv.png)
 What is a Product Roadmap?
 
-### [89. How to stop prioritizing and start working](https://hackernoon.com/how-to-stop-prioritizing-and-start-working-9j4j3n3q)
+### [88. How to stop prioritizing and start working](https://hackernoon.com/how-to-stop-prioritizing-and-start-working-9j4j3n3q)
 ![](https://cdn.hackernoon.com/images/c4j33n4a.jpg)
 It is believed that product managers should help a company do something that makes sense and advise against doing something that doesn’t. 
 
-### [90. How to Run Light-weight Scrum in JIRA - Advice from a Former Amazon Engineering Manager](https://hackernoon.com/how-to-run-light-weight-scrum-in-jira-advice-from-a-former-amazon-engineering-manager-8x523u4u)
+### [89. How to Run Light-weight Scrum in JIRA - Advice from a Former Amazon Engineering Manager](https://hackernoon.com/how-to-run-light-weight-scrum-in-jira-advice-from-a-former-amazon-engineering-manager-8x523u4u)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOzFpdZJy2tSzle9JMR6KQylGR383-jv3d3u6r.jpeg?alt=media&token=04b1184a-1a08-48bb-a640-a11ce6f81f3f)
 During my tenure at Amazon, the teams I was leading used to follow a very effective scrum process. It was made possible by an internal tool called SIM, which was integrated with various other internal tools, enabling a seamless project management experience. 
 
-### [91. My Top Three Priorities as a Software Development Manager](https://hackernoon.com/my-top-three-priorities-as-a-software-development-manager-cq2x32c1)
+### [90. My Top Three Priorities as a Software Development Manager](https://hackernoon.com/my-top-three-priorities-as-a-software-development-manager-cq2x32c1)
 ![](https://images.unsplash.com/photo-1461902269707-fa102de8de65?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 I wasn’t a big fan of managers in my decade long programming career. I took pride in my accomplishments as a developer, the individual contributor. After all, I was the one making things happen or part of the team that made things happen. We built features, fixed critical issues and in my view, only reason business existed was because developers worked hard.
+
+### [91. 15 Benefits of Online Proofing Software for Creative Teams](https://hackernoon.com/15-benefits-of-online-proofing-software-for-creative-teams)
+![](https://cdn.hackernoon.com/images/1jd6tzBVEXdrM2dbP1DORl5oYJK2-81833i4.jpeg)
+Here we explore 15 advantages that make online proofing software indispensable for creative teams including real-time collaboration and feedback loops.
 
 ### [92. Is There a Future for Scrum Masters? Why Are Many Organizations Getting Rid of Explicit Agile Roles?](https://hackernoon.com/is-there-a-future-for-scrum-masters-why-are-many-organizations-getting-rid-of-explicit-agile-roles)
 ![](https://cdn.hackernoon.com/images/4heWOm7oGwNwUUrXGb8YLf1kc4P2-2o83yz9.jpeg)
 Explore the evolving landscape of Agile roles and the future of Scrum Masters in organisations amidst changing industry expectations and cost-cutting measures.
 
-### [93. 15 Benefits of Online Proofing Software for Creative Teams](https://hackernoon.com/15-benefits-of-online-proofing-software-for-creative-teams)
-![](https://cdn.hackernoon.com/images/1jd6tzBVEXdrM2dbP1DORl5oYJK2-81833i4.jpeg)
-Here we explore 15 advantages that make online proofing software indispensable for creative teams including real-time collaboration and feedback loops.
-
-### [94. Detailed PMO Time Management Guide: Practical Productivity Hacks ](https://hackernoon.com/detailed-pmo-time-management-guide-practical-productivity-hacks)
+### [93. Detailed PMO Time Management Guide: Practical Productivity Hacks ](https://hackernoon.com/detailed-pmo-time-management-guide-practical-productivity-hacks)
 ![](https://cdn.hackernoon.com/images/SDh5FjAEg1Vr4KDAR5ZU1UpUozl1-wda3ptp.jpeg)
 This is a short guide from the Head of Project Management at Techstack, detailing practical steps for managing your time effectively.  
 
-### [95. How to Properly Estimate Tasks So You Never Miss Another Deadline](https://hackernoon.com/how-to-properly-estimate-tasks-so-you-never-miss-another-deadline)
+### [94. How to Properly Estimate Tasks So You Never Miss Another Deadline](https://hackernoon.com/how-to-properly-estimate-tasks-so-you-never-miss-another-deadline)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-mn931ui.jpeg)
 Will adding people or cutting scope help you reach your project deadline? Learn how planning and spreadsheets can help you find answers.
+
+### [95. Tackling the Augean Stables of Customer Support: Our Success Story](https://hackernoon.com/tackling-the-augean-stables-of-customer-support-our-success-story)
+![](https://cdn.hackernoon.com/images/7XhQwEsk1Eg58rZqKidDiZMpsI93-9uk3r4c.jpeg)
+How we managed to solve 1500 backlog tasks with the STATIK approach. The 6th Labor of Hercules by Social Discovery Group team. 
 
 ### [96. Ten Pillars of Every Product Roadmap](https://hackernoon.com/things-to-never-ignore-when-creating-product-roadmap-6y1v32zi)
 ![](https://cdn.hackernoon.com/images/js8w32bj.jpg)
 Your product roadmapping is a viable means to depict how this product is prone to develop, to adjust the stakeholders, and to procure a money related arrangement for this product. In any case, making a powerful guide is difficult, especially in agile development, where changes happen as often as possible and often out of the blue. In this way, there are things never to overlook while making your roadmap and sprint backlog. Remembering them will help you in making an intense agile product using scrum sprint backlog,  the roadmap template and other powerful product management tools.
 
-### [97. Tackling the Augean Stables of Customer Support: Our Success Story](https://hackernoon.com/tackling-the-augean-stables-of-customer-support-our-success-story)
-![](https://cdn.hackernoon.com/images/7XhQwEsk1Eg58rZqKidDiZMpsI93-9uk3r4c.jpeg)
-How we managed to solve 1500 backlog tasks with the STATIK approach. The 6th Labor of Hercules by Social Discovery Group team. 
-
-### [98. Enhancing Developer Productivity: 4 Approaches for CTOs](https://hackernoon.com/4-forward-thinking-strategies-for-ctos-to-improve-developer-productivity)
+### [97. Enhancing Developer Productivity: 4 Approaches for CTOs](https://hackernoon.com/4-forward-thinking-strategies-for-ctos-to-improve-developer-productivity)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-bt93nph.jpeg)
 I explain four strategic levers for CTOs and software engineering to improve developer productivity, ship faster and get better outcomes.
 
-### [99. Need a Career Change? 5 Reasons to Transition into Tech in 2021](https://hackernoon.com/need-a-career-change-5-reasons-to-transition-into-tech-in-2021-ql3r31o9)
+### [98. Need a Career Change? 5 Reasons to Transition into Tech in 2021](https://hackernoon.com/need-a-career-change-5-reasons-to-transition-into-tech-in-2021-ql3r31o9)
 ![](https://cdn.hackernoon.com/images/7VKGhN9WI3PvPAtnBswSforogTU2-olk31pi.jpeg)
 Working in tech is a trip. Growth is almost always guaranteed, the pay's great, and you can easily get into the industry with tech-adjacent skills.
 
-### [100. The One Profession Where Being a Jack of All Trades Is the Key to Success](https://hackernoon.com/the-one-profession-where-being-a-jack-of-all-trades-is-the-key-to-success)
-![](https://cdn.hackernoon.com/images/IkC3RJ0dhpfyCTOwCY6m6VlQz542-fl635cc.png)
-It takes a mix of soft and hard skills to roll out a project successfully and on time.
-
-### [101. How to Make Documentation Easier to Read](https://hackernoon.com/how-to-make-documentation-easier-to-read)
+### [99. How to Make Documentation Easier to Read](https://hackernoon.com/how-to-make-documentation-easier-to-read)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-dt92i3w.jpeg)
 Let’s see how you can develop the skill of reading documentation! Most importantly, start by getting your answers from the documentation as you struggle.
 
-### [102. Unpopular Opinion: 10 Ways Asana Lowers your Productivity](https://hackernoon.com/unpopular-opinion-10-ways-asana-lowers-your-productivity-0op48jw)
+### [100. Unpopular Opinion: 10 Ways Asana Lowers your Productivity](https://hackernoon.com/unpopular-opinion-10-ways-asana-lowers-your-productivity-0op48jw)
 ![](https://cdn.hackernoon.com/images/zq4kRoY1koM2G9ICsR601fXkYy22-jei48z3.jpeg)
 Abhor online project management tools? They are an unrelenting aspect of remote work. Meet Slack, Asana, and WhatsApp, the three horsemen of the WFHpocalypse.
 
-### [103. Here's How To Become a Real Software Estimates Expert](https://hackernoon.com/heres-how-to-become-a-real-software-estimates-expert-ypp3t8z)
+### [101. The One Profession Where Being a Jack of All Trades Is the Key to Success](https://hackernoon.com/the-one-profession-where-being-a-jack-of-all-trades-is-the-key-to-success)
+![](https://cdn.hackernoon.com/images/IkC3RJ0dhpfyCTOwCY6m6VlQz542-fl635cc.png)
+It takes a mix of soft and hard skills to roll out a project successfully and on time.
+
+### [102. Here's How To Become a Real Software Estimates Expert](https://hackernoon.com/heres-how-to-become-a-real-software-estimates-expert-ypp3t8z)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpPX468t5lxWcWjWC6mnoc1uB98G2-4b112qts.jpeg?alt=media&token=4dc2f4a2-4a6b-4f18-9dd1-1e4f8cff5657)
 The first time you finish a piece of software you've estimated, you discover a harsh reality ... software estimates are hard. Unexpected edge-cases, dependencies, meetings, and a thousand other things. This law summarizes it perfectly:
 
-### [104. Managing an Engineering Team: A Guide for Startups](https://hackernoon.com/managing-an-engineering-team-a-guide-for-startups-zc603tf4)
+### [103. Managing an Engineering Team: A Guide for Startups](https://hackernoon.com/managing-an-engineering-team-a-guide-for-startups-zc603tf4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FhKHVMBSoXoPxPkIqy3YDioXyCDb2-4l1i3tl3.jpeg?alt=media&token=fa69c48e-292e-4508-932f-3dbf47edbe5c)
 How to build a proactive and happy engineering team? What should you know to manage and lead the team of engineers more effectively? Here we’re going to share the startup guide with the helpful tips to make you a better manager and leader.
 
-### [105. Making Product Roadmaps Like You Mean It](https://hackernoon.com/making-product-roadmaps-like-you-mean-it-2p1v36cg)
+### [104. Making Product Roadmaps Like You Mean It](https://hackernoon.com/making-product-roadmaps-like-you-mean-it-2p1v36cg)
 ![](https://cdn.hackernoon.com/images/y72hh361i.jpg)
 The state of affairs
 
-### [106. Engineering Management: The Nine Challenges  ](https://hackernoon.com/engineering-management-the-nine-challenges-365t3evm)
+### [105. Engineering Management: The Nine Challenges  ](https://hackernoon.com/engineering-management-the-nine-challenges-365t3evm)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-vd353euf.jpeg?alt=media&token=cea56bae-1116-433c-be71-c7156fa170d8)
 “I would describe an engineering manager as a Sergeant Major. They are very much part of the mission delivery team and manage a group of experts to perform specific tasks,” says David Ives, Engineering Manager at Pusher.
 
-### [107. Setup Environment Variables for Web Dev projects [A How To Guide]](https://hackernoon.com/how-to-setup-environment-variables-for-web-dev-projects-h83o3yfu)
+### [106. Setup Environment Variables for Web Dev projects [A How To Guide]](https://hackernoon.com/how-to-setup-environment-variables-for-web-dev-projects-h83o3yfu)
 ![](https://cdn.hackernoon.com/drafts/2l3h325n.png)
 Setting up Environment Variables is the best practices in web dev world. But it seems troublesome for most people in practices, so few applied it. Well, it actually not that hard and it is necessary in most cases, let me show how you in this article. 
 
-### [108. How to Take Advantage of Project Economy and the Rise of Project Managers](https://hackernoon.com/how-to-take-advantage-of-project-economy-and-the-rise-of-project-managers)
+### [107. How to Take Advantage of Project Economy and the Rise of Project Managers](https://hackernoon.com/how-to-take-advantage-of-project-economy-and-the-rise-of-project-managers)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-cu93kvd.jpeg)
 Project Economy is another new way people are learning to make money in the world buy working from one project to another, using their skills to add value.
 
-### [109. Enhancing Scrum Teams: The Herculean Doughnut Approach](https://hackernoon.com/enhancing-scrum-teams-the-herculean-doughnut-approach)
+### [108. Enhancing Scrum Teams: The Herculean Doughnut Approach](https://hackernoon.com/enhancing-scrum-teams-the-herculean-doughnut-approach)
 ![](https://cdn.hackernoon.com/images/4heWOm7oGwNwUUrXGb8YLf1kc4P2-hs83zny.jpeg)
 The Herculean Doughnut is a practical activity designed to help Scrum teams clarify and align on key roles and responsibilities. 
 
-### [110. Strategically Picking a Side Project ](https://hackernoon.com/how-to-pick-a-side-project-strategically)
+### [109. Strategically Picking a Side Project ](https://hackernoon.com/how-to-pick-a-side-project-strategically)
 ![](https://cdn.hackernoon.com/images/zXE6n93W9qXDNsP8hiip4vQhbqg2-j1929fn.jpeg)
 As my list of side projects grew ever larger, the list of abandoned, semifinished projects did so too.
 
-### [111. A Common Misconception About Agile Methodology](https://hackernoon.com/agile-myth-qs2q23oar)
+### [110. A Common Misconception About Agile Methodology](https://hackernoon.com/agile-myth-qs2q23oar)
 ![](https://cdn.hackernoon.com/images/4a103ztp.jpg)
 I have been involved recently in Agile transformation, i went through lots of conversations, with Techy people, that have a lot of misconceptions about Agile.
 
-### [112. 268 Stories To Learn About Project Management](https://hackernoon.com/268-stories-to-learn-about-project-management)
+### [111. 268 Stories To Learn About Project Management](https://hackernoon.com/268-stories-to-learn-about-project-management)
 ![](https://cdn.hackernoon.com/images/github/project-management-731.png)
 Learn everything you need to know about Project Management via these 268 free HackerNoon stories.
 
-### [113. Use this Framework to Easily Scale Your Software Development Business](https://hackernoon.com/use-this-framework-to-easily-scale-your-software-development-business)
+### [112. Use this Framework to Easily Scale Your Software Development Business](https://hackernoon.com/use-this-framework-to-easily-scale-your-software-development-business)
 ![](https://cdn.hackernoon.com/images/xzOnnvmnTWOsTFIckBakH7x3bau2-duh3jpw.jpeg)
 How my friend scaled his software development business by using this 6-step project execution blueprint.
 
-### [114. Wax On, Wax Off: How Going Remote Could be The BEST Thing That Ever Happened to Your Team](https://hackernoon.com/wax-on-wax-off-how-going-remote-could-be-the-best-thing-that-ever-happened-to-your-team-ih9q3ylt)
-![](https://cdn.hackernoon.com/drafts/8l3dx3ysw.png)
-As every child of the ‘80’s knows – the most effective way to become a karate expert is not through years of dedicated training, but rather by completing a sequence of seemingly tedious chores for an elderly Japanese neighbor. Thanks to the miracle of muscle memory, before you know it, you’ll have won the all-valley karate tournament.  (Actually, now I think about it, this might have been one of the first, and most effective “hacks” I was ever exposed to). 
-
-### [115. Defining the Problem in Your Data Science Project Can Lead to Success](https://hackernoon.com/defining-the-problem-in-your-data-science-project-can-lead-to-success)
-![](https://cdn.hackernoon.com/images/78fqQbyalRPQEvj6S8ImFfYmejb2-3la3sp7.jpeg)
-Defining the Data Science Problems the right way is hard work. The failure rate of various data science initiatives is really high — often ~70-80%.
-
-### [116. Why You Have to Love 1-to-1 Meetings to Succeed in Your Career](https://hackernoon.com/why-you-have-to-love-1-to-1-meetings-to-succeed-in-your-career)
+### [113. Why You Have to Love 1-to-1 Meetings to Succeed in Your Career](https://hackernoon.com/why-you-have-to-love-1-to-1-meetings-to-succeed-in-your-career)
 ![](https://cdn.hackernoon.com/images/9MDGkdkdIFMGi5LDWNbuzAufTAH3-ew03dau.jpeg)
 Discover how regular one-to-one (121) meetings can boost team communication, solve issues, and enhance productivity with practical tips and strategies.
 
-### [117. How to Make Your Team Miserable: 3 Anti-Patterns (not) to Follow](https://hackernoon.com/how-to-make-your-team-miserable-3-anti-patterns-not-to-follow)
-![](https://cdn.hackernoon.com/images/Rb23uaREMkalhM7X3fdN0xnYgsT2-fcc30c6.jpeg)
-Hold daily standups. Ideally, this will take an hour every day. 
+### [114. Defining the Problem in Your Data Science Project Can Lead to Success](https://hackernoon.com/defining-the-problem-in-your-data-science-project-can-lead-to-success)
+![](https://cdn.hackernoon.com/images/78fqQbyalRPQEvj6S8ImFfYmejb2-3la3sp7.jpeg)
+Defining the Data Science Problems the right way is hard work. The failure rate of various data science initiatives is really high — often ~70-80%.
 
-### [118. Technical Debt Management Best Practices for Software Engineers](https://hackernoon.com/technical-debt-management-best-practices-for-software-engineers-btv3138)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-e71528d9.jpeg)
-Technical debt exists on each project if it’s more than 1–3 months old. Having technical debt doesn’t necessarily mean that software engineers are not performing well. Technical debt can appear because of business pressure, lack of requirements, lack of interaction between team members etc. However, good software engineers know how to manage the technical debt and do that. Bad software engineers simply hide the tech debt from managers and customers, hoping that the project will be completed before it gets out of hand.
+### [115. Wax On, Wax Off: How Going Remote Could be The BEST Thing That Ever Happened to Your Team](https://hackernoon.com/wax-on-wax-off-how-going-remote-could-be-the-best-thing-that-ever-happened-to-your-team-ih9q3ylt)
+![](https://cdn.hackernoon.com/drafts/8l3dx3ysw.png)
+As every child of the ‘80’s knows – the most effective way to become a karate expert is not through years of dedicated training, but rather by completing a sequence of seemingly tedious chores for an elderly Japanese neighbor. Thanks to the miracle of muscle memory, before you know it, you’ll have won the all-valley karate tournament.  (Actually, now I think about it, this might have been one of the first, and most effective “hacks” I was ever exposed to). 
 
-### [119. Pass On with Care: How to Hand Over Your Work Before You Quit or Go on Holiday](https://hackernoon.com/pass-on-with-care-how-to-hand-over-your-work-before-you-quit-or-go-on-holiday)
+### [116. Leader's Speak : Joel Reymont, Lead Developer @ Stegos [Interview]](https://hackernoon.com/leaders-speak-joel-reymont-lead-developer-stegos-interview-2rhp3a3m)
+![](https://cdn.hackernoon.com/drafts/3uei3a0v.png)
+I returned with a newfound conviction that I was exactly where I needed to be, and simply needed to define the values I am passionate to pursue. I grew up in the Soviet Union. While I am now removed from the days of government surveilling my every word and action, I've found that culture of surveillance replicated everywhere online.
+
+### [117. Pass On with Care: How to Hand Over Your Work Before You Quit or Go on Holiday](https://hackernoon.com/pass-on-with-care-how-to-hand-over-your-work-before-you-quit-or-go-on-holiday)
 ![](https://cdn.hackernoon.com/images/NaZjanwm14XFRBsgnCZGATBb8QP2-d693vd1.jpeg)
 When go on vacation or quit, you should ideally organize your work in a way that those who stay at work do not get lost in chaos. Here is a checklist for you
 
-### [120. 5 Best Career Path for Experienced Java Developers](https://hackernoon.com/the-5-most-career-accelerating-job-options-for-senior-devs-in-2020-mi373ubz)
+### [118. The DNA of Breakthrough Projects: How to Supercharge Innovation and Eliminate Latency](https://hackernoon.com/the-dna-of-breakthrough-projects-how-to-supercharge-innovation-and-eliminate-latency)
+![](https://cdn.hackernoon.com/images/8GQanzjUdAYGxBqUi1iFCeJwMiK2-ja03ant.png)
+Project DNA helps teams execute projects faster, reduce latency, and turn uncertainty into insight, creating a practical framework for innovation success.
+
+### [119. How to Make Your Team Miserable: 3 Anti-Patterns (not) to Follow](https://hackernoon.com/how-to-make-your-team-miserable-3-anti-patterns-not-to-follow)
+![](https://cdn.hackernoon.com/images/Rb23uaREMkalhM7X3fdN0xnYgsT2-fcc30c6.jpeg)
+Hold daily standups. Ideally, this will take an hour every day. 
+
+### [120. Technical Debt Management Best Practices for Software Engineers](https://hackernoon.com/technical-debt-management-best-practices-for-software-engineers-btv3138)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-e71528d9.jpeg)
+Technical debt exists on each project if it’s more than 1–3 months old. Having technical debt doesn’t necessarily mean that software engineers are not performing well. Technical debt can appear because of business pressure, lack of requirements, lack of interaction between team members etc. However, good software engineers know how to manage the technical debt and do that. Bad software engineers simply hide the tech debt from managers and customers, hoping that the project will be completed before it gets out of hand.
+
+### [121. 5 Best Career Path for Experienced Java Developers](https://hackernoon.com/the-5-most-career-accelerating-job-options-for-senior-devs-in-2020-mi373ubz)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMQzhgEvAeOXyPo3IjFRz4IZU3K83-gs9r3u3f.jpeg?alt=media&token=682fe930-dac7-4928-ba54-a302c94501ba)
 If you are an experienced developer or a senior Java programmer, like someone with more than 5 to 8 years of experience, and wondering how to get to the next level, then you have come to the right place. 
-
-### [121. The Rational Software Engineer: There is No Perfect Project](https://hackernoon.com/the-rational-software-engineer-there-is-no-perfect-project-zcdr35pa)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-hl2j35e2.jpeg)
-Mindset and ability to adapt to a project can matter even more than the project itself when it comes to satisfaction.
 
 ### [122. Marketing Project Management: An Essential Guide](https://hackernoon.com/marketing-project-management-an-essential-guide)
 ![](https://cdn.hackernoon.com/images/PeR3ITv2ffMUO9Z6KI7nvD7eykK2-rd93o1s.jpeg)
 Marketing project management refers to the process of planning, leading, and monitoring the execution of marketing projects to make sure they’re delivered on time and within budget. At least, that’s the gist of it.
 
-### [123. Leader's Speak : Joel Reymont, Lead Developer @ Stegos [Interview]](https://hackernoon.com/leaders-speak-joel-reymont-lead-developer-stegos-interview-2rhp3a3m)
-![](https://cdn.hackernoon.com/drafts/3uei3a0v.png)
-I returned with a newfound conviction that I was exactly where I needed to be, and simply needed to define the values I am passionate to pursue. I grew up in the Soviet Union. While I am now removed from the days of government surveilling my every word and action, I've found that culture of surveillance replicated everywhere online.
+### [123. The Rational Software Engineer: There is No Perfect Project](https://hackernoon.com/the-rational-software-engineer-there-is-no-perfect-project-zcdr35pa)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-hl2j35e2.jpeg)
+Mindset and ability to adapt to a project can matter even more than the project itself when it comes to satisfaction.
 
 ### [124. The 30 Essential Project Management Terms Every Professional Should Know](https://hackernoon.com/the-30-essential-project-management-terms-every-professional-should-know)
 ![](https://cdn.hackernoon.com/images/77K1Mjzt3FVwPTTbCDbmxz2BJ8O2-hs037qd.png)
@@ -510,13 +512,13 @@ This comprehensive guide explores 30 essential project management terms, providi
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZEXO22W1auWOWobkpmnuT1gqiIO2-t18t3tnz.jpeg?alt=media&token=6f58d6a7-4909-4dd0-8b1e-deb883e9a6cd)
 Estimating IT projects is a pain. When I started my path and tried to estimate my time spent while being a developer, I always underestimated things. Every time there would appear a job I didn’t account for. Colleagues told me to multiply my estimates by 2, 3, the number Pi. Only it didn’t help to increase the estimation accuracy, just added other problems. For example, when I had to explain where the high numbers came from.
 
-### [126. Scrum Is Still Scrum: 2021 Edition](https://hackernoon.com/scrum-is-still-scrum-2021-edition-zh1y31lm)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-v0v31iu.jpeg)
-Discussions on the November 2020 release of the Scrum Guide
-
-### [127. Managing Projects on Microsoft 365? Here's How to Supercharge Your Team's Dynamics](https://hackernoon.com/managing-projects-on-microsoft-365-heres-how-to-supercharge-your-teams-dynamics)
+### [126. Managing Projects on Microsoft 365? Here's How to Supercharge Your Team's Dynamics](https://hackernoon.com/managing-projects-on-microsoft-365-heres-how-to-supercharge-your-teams-dynamics)
 ![](https://cdn.hackernoon.com/images/EaJPsJZXNdXDTmKmekrBqluvUCR2-kse3lcu.jpeg)
  Are you managing your projects and teams using Microsoft 365? Read on to find out how you can boost your team dynamics and achieve improved productivity!
+
+### [127. Scrum Is Still Scrum: 2021 Edition](https://hackernoon.com/scrum-is-still-scrum-2021-edition-zh1y31lm)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-v0v31iu.jpeg)
+Discussions on the November 2020 release of the Scrum Guide
 
 ### [128. How Can Developers Save A Failing Project? - Learn from My Mistakes](https://hackernoon.com/how-can-developers-save-a-failing-project-learn-from-my-mistakes-l12a33f9)
 ![](https://cdn.hackernoon.com/images/FR3b4D5w75cFHqJ6I8m3arHmR8t1-409h3f5c.jpeg)
@@ -542,53 +544,53 @@ Wondering how to increase your remote team's productivity? These tools will help
 ![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-w693lud.jpeg)
 Learn how to create effective frontend designs with this comprehensive guide. We cover everything from design principles to implementation strategies.
 
-### [134. Everything You Need to Know about the Cynefin Framework](https://hackernoon.com/everything-you-need-to-know-about-the-cynefin-framework)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-nc93km8.jpeg)
-The Cynefin Framework helps leaders to make decisions in context, distinguishing different domains to match the reality before apply the right management tool. 
-
-### [135. Managing Technical Debt in Agile Environments](https://hackernoon.com/managing-technical-debt-in-agile-environments)
+### [134. Managing Technical Debt in Agile Environments](https://hackernoon.com/managing-technical-debt-in-agile-environments)
 ![](https://cdn.hackernoon.com/images/gdSH9RKnXaYYuw1kkt4410ToWJF3-dxa2k8d.jpeg)
 Technical debt refers to the additional work required later due to choosing the quickest solution rather than the best one. 
+
+### [135. Everything You Need to Know about the Cynefin Framework](https://hackernoon.com/everything-you-need-to-know-about-the-cynefin-framework)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-nc93km8.jpeg)
+The Cynefin Framework helps leaders to make decisions in context, distinguishing different domains to match the reality before apply the right management tool. 
 
 ### [136. Building Dependencies in Sheets, ClickUp, Monday, Wrike, SmartSheets](https://hackernoon.com/building-dependencies-in-sheets-clickup-monday-wrike-smartsheets-l41s3tes)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FbYDM5uGXd9PW1iTXDKwOYYBVaCH2-4fl3uj3.jpeg?alt=media&token=a7419439-3cdc-4f4f-970f-55ccae8641d5)
 Your project may contain tasks that depend on each other. Sometimes a task cannot start until its dependent (predecessor) task finishes, or maybe the task can start when its dependent task starts as well. As you manage tasks with these more complex dependency types (FS, SF, SS, FF), you may find more specialized software or SaaS tool to help you plan and visualize these tasks. 
 
-### [137. Techniques to Improve Project Estimation](https://hackernoon.com/techniques-to-improve-project-estimation)
+### [137. Effective Software Estimation: 5 Top Techniques to Use (and 4 to Avoid)](https://hackernoon.com/effective-software-estimation-5-top-techniques-to-use-and-4-to-avoid)
+![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-pe93l81.jpeg)
+Software estimation techniques are vital for successful project delivery. I discuss the best techniques to ensure accurate planning and efficient delivery.
+
+### [138. Techniques to Improve Project Estimation](https://hackernoon.com/techniques-to-improve-project-estimation)
 ![](https://cdn.hackernoon.com/images/ACHtVy9dCuZip9JIJJEqHZLgBfY2-so93ppq.jpeg)
 It is established that estimating software projects is hard and takes longer time than you expect. What are techniques to learn, to improve estimation? 
 
-### [138. What Makes a GREAT Scrum Master](https://hackernoon.com/what-makes-a-great-scrum-master-gj4o32v1)
-![](https://images.unsplash.com/photo-1531403009284-440f080d1e12?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-It is good to have a scrum master involved in your agile process, but what makes a great scrum master? In this article we look to break down the fundamental pieces to becoming the best scrum master you are capable of being. First, we must define what a scrum master is.
-
-### [139. Effective Software Estimation: 5 Top Techniques to Use (and 4 to Avoid)](https://hackernoon.com/effective-software-estimation-5-top-techniques-to-use-and-4-to-avoid)
-![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-pe93l81.jpeg)
-Software estimation techniques are vital for successful project delivery. I discuss the best techniques to ensure accurate planning and efficient delivery.
+### [139. BizDevOps (DevOps 2.0) Is the New Iteration of DevOps](https://hackernoon.com/bizdevops-devops-20-is-the-new-iteration-of-devops)
+![](https://cdn.hackernoon.com/images/BBXcK1MYnpaV0LqAp71lEr0gIfr2-8ca3myt.jpeg)
+BizDevOps breaks divisions between Business, Development and Operations teams to deliver business value fast. Discover the principles and benefits of BizDevOps.
 
 ### [140. Developers Love to ‘Fix’ Code—Here’s Why That’s a Problem](https://hackernoon.com/developers-love-to-fix-codeheres-why-thats-a-problem)
 ![](https://cdn.hackernoon.com/images/9MDGkdkdIFMGi5LDWNbuzAufTAH3-f203hfj.jpeg)
 Learn how to manage technical debt, plan refactoring, and balance business needs. A structured approach to sustainable code improvements and risk assessment.
 
-### [141. If Your Product Roadmap is a Gantt Chart, You’ve Got Another Thought Coming](https://hackernoon.com/if-your-roadmap-looks-like-a-gantt-chart-youre-missing-out-3rp031q5)
+### [141. What Makes a GREAT Scrum Master](https://hackernoon.com/what-makes-a-great-scrum-master-gj4o32v1)
+![](https://images.unsplash.com/photo-1531403009284-440f080d1e12?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+It is good to have a scrum master involved in your agile process, but what makes a great scrum master? In this article we look to break down the fundamental pieces to becoming the best scrum master you are capable of being. First, we must define what a scrum master is.
+
+### [142. If Your Product Roadmap is a Gantt Chart, You’ve Got Another Thought Coming](https://hackernoon.com/if-your-roadmap-looks-like-a-gantt-chart-youre-missing-out-3rp031q5)
 ![](https://cdn.hackernoon.com/drafts/mpq314d.png)
 It’s been nearly four decades since Microsoft developed their Project application as an internal management tool to organize their various software development projects. In 1984, they released it to the public (on floppy disk…CDs didn’t really become a software download mechanism until the mid-90s), and within a few years it became the dominant project-management software for the PC universe.
-
-### [142. BizDevOps (DevOps 2.0) Is the New Iteration of DevOps](https://hackernoon.com/bizdevops-devops-20-is-the-new-iteration-of-devops)
-![](https://cdn.hackernoon.com/images/BBXcK1MYnpaV0LqAp71lEr0gIfr2-8ca3myt.jpeg)
-BizDevOps breaks divisions between Business, Development and Operations teams to deliver business value fast. Discover the principles and benefits of BizDevOps.
 
 ### [143. The 6 Principles of Planning Development and Testing Workload](https://hackernoon.com/the-6-principles-of-planning-development-and-testing-workload)
 ![](https://cdn.hackernoon.com/images/OSUTmJJtiXasM5DCthbFVDc3uBi1-e993xu8.jpeg)
 In this article I’d like to introduce 6 principles of workload planning for development & testing teams to create comfortable workflows & deliver top results
 
-### [144. From Developer To PM: The Untold Truth About Growing Your Career](https://hackernoon.com/from-developer-to-pm-the-untold-truth-about-growing-your-career-101033ed)
-![](https://cdn.hackernoon.com/images/87TektCts2aPzLfLjzdBJnicMFK2-fhw33im.jpeg)
-Developers with a strong understanding of company strategy rise faster, despite the misconception that engineers should only focus on technical details.
-
-### [145. Scrum Sprint Planning: Should You Choose Story Points or Ideal Days?](https://hackernoon.com/scrum-sprint-planning-should-you-choose-story-points-or-ideal-days)
+### [144. Scrum Sprint Planning: Should You Choose Story Points or Ideal Days?](https://hackernoon.com/scrum-sprint-planning-should-you-choose-story-points-or-ideal-days)
 ![](https://cdn.hackernoon.com/images/MEYTQTyLA9OUDleN04VVUeaXiIj2-a6b3vbx.png)
 What's the difference between the two most used approaches to PBI estimation? Learn what they are so that you can decide which one fits your team better.
+
+### [145. From Developer To PM: The Untold Truth About Growing Your Career](https://hackernoon.com/from-developer-to-pm-the-untold-truth-about-growing-your-career-101033ed)
+![](https://cdn.hackernoon.com/images/87TektCts2aPzLfLjzdBJnicMFK2-fhw33im.jpeg)
+Developers with a strong understanding of company strategy rise faster, despite the misconception that engineers should only focus on technical details.
 
 ### [146. 3 Must Have Practices for Distributed Developers](https://hackernoon.com/3-must-have-practices-for-distributed-developers-x23u3ylc)
 ![](https://cdn.hackernoon.com/images/5fcm3yct.jpg)
@@ -602,29 +604,29 @@ Excellent problem-solving skill is very essential for a Product Manager, because
 ![](https://cdn.hackernoon.com/images/deUGkuJB9Ggm3EcvgqnpHgqWZkX2-7392h5g.jpeg)
 Tradeoff between speed and quality is a myth.
 
-### [149. Important Skills For Project Managers](https://hackernoon.com/important-skills-for-project-managers-k31e3u85)
+### [149. Fixing The Parkison's Effect: How Freelance Writers can meet up with Schedule](https://hackernoon.com/fixing-the-parkisons-effect-how-freelance-writers-can-meet-up-with-schedule)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7792aqj.jpeg)
+Parkinson’s Effect is all about an overlooked barrier to efficient time management summarised as; every task takes exactly the amount of time you devote to it.
+
+### [150. Important Skills For Project Managers](https://hackernoon.com/important-skills-for-project-managers-k31e3u85)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-sw153udy.jpeg?alt=media&token=dfa3a85f-02ae-422c-a0a1-0a8e42e3d6ff)
 Project management is a complex field in software development. Sometimes you, as a project manager, feel like they are responsible for everything. Since your performance directly affects the success rate of the entire project. Project managers not only manage tasks but, most importantly, thoroughly guide the team toward the project goals. Being a great project manager requires interdisciplinary approaches and the ability to master both hard and soft skills. Let’s have a closer look at three essential competencies for the project manager to be successful.
 
-### [150. Hype Driven Development: A Case For Punishing This Abomination](https://hackernoon.com/hype-driven-development-a-case-for-punishing-this-abomination-ks333z29)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FDBmwq0SteFQHHX3MAHWlSX4NC1X2-zzf321j.jpeg?alt=media&token=7c231b84-3ef3-45ac-9741-95a501a9a81f)
-Disclaimer: long read. About the painful stuff, what I want to share for more than a month. Also does not claim to be complete, it is more about how I try to deal with it. 
-
-### [151. Fixing The Parkison's Effect: How Freelance Writers can meet up with Schedule](https://hackernoon.com/fixing-the-parkisons-effect-how-freelance-writers-can-meet-up-with-schedule)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7792aqj.jpeg)
-Parkinson’s Effect is all about an overlooked barrier to efficient time management summarised as; every task takes exactly the amount of time you devote to it.
+### [151. Orchestrating the Code Maze: Strategies for Effective Collaboration Amongst Development Teams](https://hackernoon.com/orchestrating-the-code-maze-strategies-for-effective-collaboration-amongst-development-teams)
+![](https://cdn.hackernoon.com/images/JG7t4PlqbId6T1BVFWx7bA6vkfw1-rag3fj2.jpeg)
+Explore effective IT team management and inter-team communication strategies for large projects, including avoiding duplicated efforts and fostering innovation.
 
 ### [152. How Startups Can Increase Profitability & Productivity Through Time Tracking](https://hackernoon.com/how-startups-can-increase-profitability-and-productivity-through-time-tracking-uqp32i1)
 ![](https://cdn.hackernoon.com/drafts/813lo32ty.png)
 Have you ever wondered how time tracking can invest in your growth and raise the bar of your profitability? Investing every inch of a cent into production has always been crucial for the survival of thriving startups.
 
-### [153. Want Better Software? Write Less, Talk More, and Let Engineers Do Their Job](https://hackernoon.com/want-better-software-write-less-talk-more-and-let-engineers-do-their-job)
+### [153. Hype Driven Development: A Case For Punishing This Abomination](https://hackernoon.com/hype-driven-development-a-case-for-punishing-this-abomination-ks333z29)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FDBmwq0SteFQHHX3MAHWlSX4NC1X2-zzf321j.jpeg?alt=media&token=7c231b84-3ef3-45ac-9741-95a501a9a81f)
+Disclaimer: long read. About the painful stuff, what I want to share for more than a month. Also does not claim to be complete, it is more about how I try to deal with it. 
+
+### [154. Want Better Software? Write Less, Talk More, and Let Engineers Do Their Job](https://hackernoon.com/want-better-software-write-less-talk-more-and-let-engineers-do-their-job)
 ![](https://cdn.hackernoon.com/images/9MDGkdkdIFMGi5LDWNbuzAufTAH3-1913lw9.jpeg)
 Agile product managers: stop writing specs like code. Learn how to balance adaptability and detail without over-engineering software requirements. 
-
-### [154. Orchestrating the Code Maze: Strategies for Effective Collaboration Amongst Development Teams](https://hackernoon.com/orchestrating-the-code-maze-strategies-for-effective-collaboration-amongst-development-teams)
-![](https://cdn.hackernoon.com/images/JG7t4PlqbId6T1BVFWx7bA6vkfw1-rag3fj2.jpeg)
-Explore effective IT team management and inter-team communication strategies for large projects, including avoiding duplicated efforts and fostering innovation.
 
 ### [155. An Open Letter to Everybody Having Trouble Getting Started Today](https://hackernoon.com/an-open-letter-to-everybody-having-trouble-getting-started-today-y67p33fz)
 ![](https://hackernoon.com/images/m1JWnUaHzSX3LPHoHfOainoiYvq2-2fs3fea.jpeg)
@@ -634,109 +636,109 @@ How to stop inactivity and just start what you want to do. The flywheel concept 
 ![](https://cdn.hackernoon.com/drafts/nq3s932rb.png)
 tl;dr In this game of startups; some win, some lose.
 
-### [157. How to Make Sure Your Developers are NOT a Single Point of Failure](https://hackernoon.com/how-to-make-sure-your-developers-are-not-a-single-point-of-failure-bz2g34uo)
-![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-91kw280f.jpeg)
-When I wrote "Your Developer is not a Single Point of Failure" there was definitely push back from managers, suits and other C-Suite denizens. Without a doubt, developers can be single points of failure. I would be lying, if I did not acknowledge the "historical blame" lies mostly at the feet of developers for the belief coders are single points of failure. Too many software developers built ivory towers of code for the sake of job security. Too many businesses were held hostage to custom algorithms only a handful of people could decipher...perhaps only ONE person could! 
-
-### [158. The Ultimate Developer's Guide to Jira Success](https://hackernoon.com/the-ultimate-developers-guide-to-jira-success)
-![](https://cdn.hackernoon.com/images/2DzCEJB5j3XSvYW7aWWxadAKsTp2-1f020up.jpeg)
-A lightweight Jira guide for developers: why it matters, how to use it on a real project, and how it improves distributed and outsourced production workflows.
-
-### [159. A Comprehensive Guide to Effective Project Estimation](https://hackernoon.com/a-comprehensive-guide-to-effective-project-estimation)
-![](https://cdn.hackernoon.com/images/Fdq7CDBtWlZdPVO2SZTSvstkYgp2-q2a3zos.jpeg)
-Project estimation is a critical aspect of successful project management. In this guide, I'll explore effective strategies for mastering project estimation.
-
-### [160. How Optimizing Outbound Logistics Saves Your Business Time and Money](https://hackernoon.com/how-optimizing-outbound-logistics-saves-your-business-time-and-money)
-![](https://cdn.hackernoon.com/images/AW3L73ZREohjrbU71A5XwfrP3Vo2-2ka3l5y.jpeg)
-Outbound logistics play a critical role in a company's overall supply chain management and can significantly impact its bottom line. 
-
-### [161. A Culture Lesson From A Fuck Off Sign](https://hackernoon.com/a-culture-lesson-from-a-fuck-off-sign-sk1w3e6u)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6dgW2jg0rfNL2xrpJl8egAXph1g1-ya1a3tbc.jpeg?alt=media&token=03c0756c-8f00-49d0-a348-38acad593803)
-Just around 2012 is when I received a lesson of a lifetime, to appreciate culture differences and how very deep they can get.
-
-### [162. The Zeigarnik Effect: How Those Unfinished Tasks At Work Ruin Your Evenings and How to Beat Them](https://hackernoon.com/the-zeigarnik-effect-how-those-unfinished-tasks-at-work-ruin-your-evenings-and-how-to-beat-them)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-4u93s6u.jpeg)
-Zeigarnik Effect: the tendency to remember an interrupted task better than a completed task; it's ruining your evenings.
-
-### [163. Agile Marketing: How to Run a Marketing Team Using the Scrum Framework](https://hackernoon.com/agile-marketing-or-how-to-run-a-marketing-team-using-the-scrum-framework-4435321h)
-![](https://cdn.hackernoon.com/drafts/dj2632ku.png)
-This post is based on my talk at MeasureFest in September 2019, which in turn is based on my experience running cross-functional marketing teams using Agile/Scrum frameworks.
-
-### [164. Significant Updates to Popular Kanban Software in 2019](https://hackernoon.com/significant-updates-of-popular-kanban-software-in-2019-3y1132px)
-![](https://cdn.hackernoon.com/drafts/f7y2329y.png)
-How Jira, Hygger, Asana, and Others Surprised Their Users in 2019?
-
-### [165. Project Reporting Made Easy With Trello’s New Dashboard View](https://hackernoon.com/project-reporting-made-easy-with-trellos-new-dashboard-view-wl1x35kh)
-![](https://cdn.hackernoon.com/images/E37PbuEThsg01j1XnyrJmoNZDto1-vfy33jw.jpeg)
-Project reporting has never been easier. Trello is a website that will host your company’s day-to-day tasks. It’s a platform that provides project management.
-
-### [166. Sustaining Our Creativity through Managing Multiple Projects](https://hackernoon.com/sustaining-our-creativity-through-managing-multiple-projects)
-![](https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-6t93oj4.jpeg)
-Cross-pollination between projects is a reliable method to recharge our creativity.
-
-### [167. Why Visual Story Maps are Better](https://hackernoon.com/why-visual-story-maps-are-better-7t2k3zvz)
-![](https://cdn.hackernoon.com/drafts/ihc03zp2.png)
-Visual story mapping is more than creating your run-of-the-mill to-do list. It is the best technique to enable your entire product management team to visualize multiple dimensions of information – and focus on how everything will come together to form a successful solution. Visual story maps align all product managers and create a common understanding of what needs to get done and how to go about doing it. 
-
-### [168. The Complete IT Project Roadmap: From](https://hackernoon.com/the-complete-it-project-roadmap-from-sq3w3uym)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEk1EUYRPbVcFAn139JtH3fCnL9i1-6m1a3uuq.jpeg?alt=media&token=b5808a1f-ea13-454e-8314-df828415bd51)
-Believe it or not, almost 85 percent of global IT firms sway away from annual plans and waste at least 9 weeks on average while trying to cross-collaborate with different teams, across diverse geographies, and using a myriad of tool sets.
-
-### [169. How an Arts Graduate Ended Up Managing Cybersecurity and Penetration Testing Projects](https://hackernoon.com/how-an-arts-graduate-ended-up-managing-cybersecurity-and-penetration-testing-projects)
+### [157. How an Arts Graduate Ended Up Managing Cybersecurity and Penetration Testing Projects](https://hackernoon.com/how-an-arts-graduate-ended-up-managing-cybersecurity-and-penetration-testing-projects)
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-2h0396y.jpeg)
 You don't need a computer science degree to manage complex technical projects. Curiosity, structure, and persistence turned out to be enough.
 
-### [170. Meet the Writer: Sergey Fedorov on Finding Joy in Software Development Through Structure](https://hackernoon.com/meet-the-writer-sergey-fedorov-on-finding-joy-in-software-development-through-structure)
+### [158. How to Make Sure Your Developers are NOT a Single Point of Failure](https://hackernoon.com/how-to-make-sure-your-developers-are-not-a-single-point-of-failure-bz2g34uo)
+![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-91kw280f.jpeg)
+When I wrote "Your Developer is not a Single Point of Failure" there was definitely push back from managers, suits and other C-Suite denizens. Without a doubt, developers can be single points of failure. I would be lying, if I did not acknowledge the "historical blame" lies mostly at the feet of developers for the belief coders are single points of failure. Too many software developers built ivory towers of code for the sake of job security. Too many businesses were held hostage to custom algorithms only a handful of people could decipher...perhaps only ONE person could! 
+
+### [159. The Ultimate Developer's Guide to Jira Success](https://hackernoon.com/the-ultimate-developers-guide-to-jira-success)
+![](https://cdn.hackernoon.com/images/2DzCEJB5j3XSvYW7aWWxadAKsTp2-1f020up.jpeg)
+A lightweight Jira guide for developers: why it matters, how to use it on a real project, and how it improves distributed and outsourced production workflows.
+
+### [160. A Comprehensive Guide to Effective Project Estimation](https://hackernoon.com/a-comprehensive-guide-to-effective-project-estimation)
+![](https://cdn.hackernoon.com/images/Fdq7CDBtWlZdPVO2SZTSvstkYgp2-q2a3zos.jpeg)
+Project estimation is a critical aspect of successful project management. In this guide, I'll explore effective strategies for mastering project estimation.
+
+### [161. The Zeigarnik Effect: How Those Unfinished Tasks At Work Ruin Your Evenings and How to Beat Them](https://hackernoon.com/the-zeigarnik-effect-how-those-unfinished-tasks-at-work-ruin-your-evenings-and-how-to-beat-them)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-4u93s6u.jpeg)
+Zeigarnik Effect: the tendency to remember an interrupted task better than a completed task; it's ruining your evenings.
+
+### [162. How Optimizing Outbound Logistics Saves Your Business Time and Money](https://hackernoon.com/how-optimizing-outbound-logistics-saves-your-business-time-and-money)
+![](https://cdn.hackernoon.com/images/AW3L73ZREohjrbU71A5XwfrP3Vo2-2ka3l5y.jpeg)
+Outbound logistics play a critical role in a company's overall supply chain management and can significantly impact its bottom line. 
+
+### [163. Meet the Writer: Sergey Fedorov on Finding Joy in Software Development Through Structure](https://hackernoon.com/meet-the-writer-sergey-fedorov-on-finding-joy-in-software-development-through-structure)
 ![](https://cdn.hackernoon.com/images/9MDGkdkdIFMGi5LDWNbuzAufTAH3-9f83rof.png)
 HackerNoon interview with Sergey Fedorov, CPO: top stories about team processes, product development, IdeaOps, Agile, AI transformation
 
-### [171. Two Conditions Where you Want To Have An Agile Project Manager](https://hackernoon.com/two-conditions-where-you-want-to-have-an-agile-project-manager-r8483yi7)
-![](https://cdn.hackernoon.com/drafts/ocig3ytx.png)
-And their 4 areas of responsibility
+### [164. A Culture Lesson From A Fuck Off Sign](https://hackernoon.com/a-culture-lesson-from-a-fuck-off-sign-sk1w3e6u)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6dgW2jg0rfNL2xrpJl8egAXph1g1-ya1a3tbc.jpeg?alt=media&token=03c0756c-8f00-49d0-a348-38acad593803)
+Just around 2012 is when I received a lesson of a lifetime, to appreciate culture differences and how very deep they can get.
 
-### [172. The Ultimate Guide to Change Management Plan in 2022](https://hackernoon.com/the-ultimate-guide-to-change-management-plan-in-2022)
-![](https://cdn.hackernoon.com/images/rWMFwpRuz4gNjqeth2DULSFaDvu1-v193j9v.jpeg)
-The focus must be on change management, but to ensure you can remain relevant in the global market, you must have an effective change management plan.
-
-### [173. Accurate Project Estimations: How To Make Them?](https://hackernoon.com/accurate-project-estimations-how-to-make-them-6v193z4a)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FabxMq2I3GhbJuauTEuIEshPMJQ63-cqap3wq9.jpeg?alt=media&token=8a896155-0ca8-4e31-8f71-f3fae2a8667a)
-Can software project estimation be as realistic as possible? This article will walk you through how we, at UpsilonIT, approach the estimating process. We will also share some hands-on techniques and useful tips on making it more accurate and robust.
-
-### [174. How a PM Can Transform Art Production: A Case Study in AAA Gaming](https://hackernoon.com/how-a-pm-can-transform-art-production-a-case-study-in-aaa-gaming)
+### [165. How a PM Can Transform Art Production: A Case Study in AAA Gaming](https://hackernoon.com/how-a-pm-can-transform-art-production-a-case-study-in-aaa-gaming)
 ![](https://cdn.hackernoon.com/images/2DzCEJB5j3XSvYW7aWWxadAKsTp2-oc020hk.jpeg)
 Project Manager of a AAA game reveals how he optimized art production by a factor of 3.3.
 
-### [175. 32 Project Management Tools: An Ultimate, Unbiased List](https://hackernoon.com/32-project-management-tools-an-ultimate-unbiased-list-7s1f3te0)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV9J0kJWT15dwSuG3CLQTn9lZjeE3-zd49315q.png?alt=media&token=015f850e-2365-4eda-b17b-abcb88b7b79d)
-From the desk of a brilliant weirdo #1:
+### [166. Agile Marketing: How to Run a Marketing Team Using the Scrum Framework](https://hackernoon.com/agile-marketing-or-how-to-run-a-marketing-team-using-the-scrum-framework-4435321h)
+![](https://cdn.hackernoon.com/drafts/dj2632ku.png)
+This post is based on my talk at MeasureFest in September 2019, which in turn is based on my experience running cross-functional marketing teams using Agile/Scrum frameworks.
 
-### [176. GitScrum MCP Server: How AI Assistants Are Revolutionizing Project Management](https://hackernoon.com/gitscrum-mcp-server-how-ai-assistants-are-revolutionizing-project-management)
+### [167. Significant Updates to Popular Kanban Software in 2019](https://hackernoon.com/significant-updates-of-popular-kanban-software-in-2019-3y1132px)
+![](https://cdn.hackernoon.com/drafts/f7y2329y.png)
+How Jira, Hygger, Asana, and Others Surprised Their Users in 2019?
+
+### [168. Project Reporting Made Easy With Trello’s New Dashboard View](https://hackernoon.com/project-reporting-made-easy-with-trellos-new-dashboard-view-wl1x35kh)
+![](https://cdn.hackernoon.com/images/E37PbuEThsg01j1XnyrJmoNZDto1-vfy33jw.jpeg)
+Project reporting has never been easier. Trello is a website that will host your company’s day-to-day tasks. It’s a platform that provides project management.
+
+### [169. GitScrum MCP Server: How AI Assistants Are Revolutionizing Project Management](https://hackernoon.com/gitscrum-mcp-server-how-ai-assistants-are-revolutionizing-project-management)
 ![](https://cdn.hackernoon.com/images/WmCEwNfgeFMgSAsu2ViU1S76O4z1-up839oa.png)
 The Model Context Protocol (MCP) is an open standard that allows AI assistants to interact with external systems in a structured, secure way. 
 
-### [177. The MoSCoW Method: Key to Agile Product Management](https://hackernoon.com/the-moscow-method-key-to-agile-product-management)
+### [170. Sustaining Our Creativity through Managing Multiple Projects](https://hackernoon.com/sustaining-our-creativity-through-managing-multiple-projects)
+![](https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-6t93oj4.jpeg)
+Cross-pollination between projects is a reliable method to recharge our creativity.
+
+### [171. Why Visual Story Maps are Better](https://hackernoon.com/why-visual-story-maps-are-better-7t2k3zvz)
+![](https://cdn.hackernoon.com/drafts/ihc03zp2.png)
+Visual story mapping is more than creating your run-of-the-mill to-do list. It is the best technique to enable your entire product management team to visualize multiple dimensions of information – and focus on how everything will come together to form a successful solution. Visual story maps align all product managers and create a common understanding of what needs to get done and how to go about doing it. 
+
+### [172. The Complete IT Project Roadmap: From](https://hackernoon.com/the-complete-it-project-roadmap-from-sq3w3uym)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEk1EUYRPbVcFAn139JtH3fCnL9i1-6m1a3uuq.jpeg?alt=media&token=b5808a1f-ea13-454e-8314-df828415bd51)
+Believe it or not, almost 85 percent of global IT firms sway away from annual plans and waste at least 9 weeks on average while trying to cross-collaborate with different teams, across diverse geographies, and using a myriad of tool sets.
+
+### [173. The MoSCoW Method: Key to Agile Product Management](https://hackernoon.com/the-moscow-method-key-to-agile-product-management)
 ![](https://cdn.hackernoon.com/images/9MDGkdkdIFMGi5LDWNbuzAufTAH3-8a73sge.jpeg)
 Learn MoSCoW prioritization in Agile: practical guide to must-have, should-have, could-have features and how to set priorities in software development.
 
-### [178. Applying John Wooden's "Whole-Part Method" Approach To Programming](https://hackernoon.com/applying-john-woodens-whole-part-method-approach-to-programming-jy4h35kv)
-![](https://cdn.hackernoon.com/images/1k2eWiUClgQ4VZSz8evAFbbCf1A3-q13v33f6.jpeg)
-Recycle the programming projects you complete: iterate on them and create your own mini-projects along the way. Here’s how.
+### [174. The Ultimate Guide to Change Management Plan in 2022](https://hackernoon.com/the-ultimate-guide-to-change-management-plan-in-2022)
+![](https://cdn.hackernoon.com/images/rWMFwpRuz4gNjqeth2DULSFaDvu1-v193j9v.jpeg)
+The focus must be on change management, but to ensure you can remain relevant in the global market, you must have an effective change management plan.
+
+### [175. Two Conditions Where you Want To Have An Agile Project Manager](https://hackernoon.com/two-conditions-where-you-want-to-have-an-agile-project-manager-r8483yi7)
+![](https://cdn.hackernoon.com/drafts/ocig3ytx.png)
+And their 4 areas of responsibility
+
+### [176. Accurate Project Estimations: How To Make Them?](https://hackernoon.com/accurate-project-estimations-how-to-make-them-6v193z4a)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FabxMq2I3GhbJuauTEuIEshPMJQ63-cqap3wq9.jpeg?alt=media&token=8a896155-0ca8-4e31-8f71-f3fae2a8667a)
+Can software project estimation be as realistic as possible? This article will walk you through how we, at UpsilonIT, approach the estimating process. We will also share some hands-on techniques and useful tips on making it more accurate and robust.
+
+### [177. 32 Project Management Tools: An Ultimate, Unbiased List](https://hackernoon.com/32-project-management-tools-an-ultimate-unbiased-list-7s1f3te0)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV9J0kJWT15dwSuG3CLQTn9lZjeE3-zd49315q.png?alt=media&token=015f850e-2365-4eda-b17b-abcb88b7b79d)
+From the desk of a brilliant weirdo #1:
+
+### [178. A Developer's Perspective on Time-Based Estimates](https://hackernoon.com/a-developers-perspective-on-time-based-estimates)
+![](https://cdn.hackernoon.com/images/a-thousand-clocks-sbuv5q4xuxk149tlr8knczzx.png)
+As a developer, I believe time-based estimates are crucial to maintaining work-life balance, here's how to manage them effectively.
 
 ### [179. How Blockchain Technology Can Influence Project Management](https://hackernoon.com/how-blockchain-technology-can-influence-project-management)
 ![](https://cdn.hackernoon.com/images/nkoJAoKgdcVU4tu0n9Q7mTD2jCV2-qya3pt9.jpeg)
 Blockchain technology can improve agile project management through increased security, improved transparency, and reduced transactional costs.
 
-### [180. A Developer's Perspective on Time-Based Estimates](https://hackernoon.com/a-developers-perspective-on-time-based-estimates)
-![](https://cdn.hackernoon.com/images/a-thousand-clocks-sbuv5q4xuxk149tlr8knczzx.png)
-As a developer, I believe time-based estimates are crucial to maintaining work-life balance, here's how to manage them effectively.
+### [180. Applying John Wooden's "Whole-Part Method" Approach To Programming](https://hackernoon.com/applying-john-woodens-whole-part-method-approach-to-programming-jy4h35kv)
+![](https://cdn.hackernoon.com/images/1k2eWiUClgQ4VZSz8evAFbbCf1A3-q13v33f6.jpeg)
+Recycle the programming projects you complete: iterate on them and create your own mini-projects along the way. Here’s how.
 
-### [181. 4 Calendar Techniques To Boost Your Productivity](https://hackernoon.com/4-calendar-techniques-to-boost-your-productivity-bv3835n8)
-![](https://cdn.hackernoon.com/images/OkskACwfJSV9GlgHDeK1JUJXAot2-dq3333du.jpeg)
-Here are four techniques that can help your reclaim your control over your time: Time Blocking, Color-Coding, Batching, and Calendar Audits.
-
-### [182. Software Testing 101: Regression Tests, Unit Tests, Integration Tests, Oh My!](https://hackernoon.com/software-testing-101-regression-tests-unit-tests-integration-tests-oh-my-t87n33sa)
+### [181. Software Testing 101: Regression Tests, Unit Tests, Integration Tests, Oh My!](https://hackernoon.com/software-testing-101-regression-tests-unit-tests-integration-tests-oh-my-t87n33sa)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-zo6k330y.jpeg)
 How do you prove that the software is working? How do you know you are not introducing harmful side effects? This is Software Testing 101!
+
+### [182. 4 Calendar Techniques To Boost Your Productivity](https://hackernoon.com/4-calendar-techniques-to-boost-your-productivity-bv3835n8)
+![](https://cdn.hackernoon.com/images/OkskACwfJSV9GlgHDeK1JUJXAot2-dq3333du.jpeg)
+Here are four techniques that can help your reclaim your control over your time: Time Blocking, Color-Coding, Batching, and Calendar Audits.
 
 ### [183. How to Create a Project Management Communication Plan](https://hackernoon.com/how-to-create-a-project-management-communication-plan-z0il24xe)
 ![](https://cdn.hackernoon.com/images/873873y3z.jpg)
@@ -746,71 +748,71 @@ The software development process is complicated and, at times, chaotic. To make 
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-a293njp.jpeg)
 Learn why asynchronous daily standups are beneficial for team collaboration. Explore daily standup alternatives, tools and AI to streamline updates and improve.
 
-### [185. Your Value, Not Your Title](https://hackernoon.com/your-value-not-your-title-6d1m3t0v)
+### [185. The Design Documentation No One Asks For (But Everyone Needs)](https://hackernoon.com/the-design-documentation-no-one-asks-for-but-everyone-needs)
+![](https://cdn.hackernoon.com/images/eS2PQynSVcNbwC38igNTKbQc61Q2-so13djt.png)
+Specs tell you what to build. Decision records tell you why. How simple documentation prevents teams from rediscovering past mistakes and losing organizational 
+
+### [186. An Introductory Guide to Monolith Software Applications](https://hackernoon.com/an-introductory-guide-to-monolith-software-applications)
+![](https://cdn.hackernoon.com/images/SWuYxmBe5WPlAjznGj5Fb05Thnl1-hc02f58.png)
+Monolithic architecture in software development. Discover the world of n-layered patterns and what they involve.
+
+### [187. Your Value, Not Your Title](https://hackernoon.com/your-value-not-your-title-6d1m3t0v)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6dgW2jg0rfNL2xrpJl8egAXph1g1-cu2b3tot.jpeg?alt=media&token=01723553-a4d8-49ec-8c37-6d2d9e92ba90)
 A tribe of Cannibals arrives at New York City.
 
-### [186. Slaying the Hydra of Remote Work Woes - One Head at a Time.](https://hackernoon.com/slaying-the-hydra-of-remote-work-problems-one-head-at-a-time-lecet30wl)
+### [188. Slaying the Hydra of Remote Work Woes - One Head at a Time.](https://hackernoon.com/slaying-the-hydra-of-remote-work-problems-one-head-at-a-time-lecet30wl)
 ![](https://cdn.hackernoon.com/drafts/encby30h7.png)
 Okay – I know thats an excessively dramatic title, but I wanted to emphasize a simple but important concept. I believe that normalizing remote work isn’t a single problem to be solved, but rather a number of distinct issues that need to be tackled separately.
 
 
 
-### [187. The Design Documentation No One Asks For (But Everyone Needs)](https://hackernoon.com/the-design-documentation-no-one-asks-for-but-everyone-needs)
-![](https://cdn.hackernoon.com/images/eS2PQynSVcNbwC38igNTKbQc61Q2-so13djt.png)
-Specs tell you what to build. Decision records tell you why. How simple documentation prevents teams from rediscovering past mistakes and losing organizational 
-
-### [188. Scrum: Agile Put into Practice](https://hackernoon.com/scrum-agile-put-into-practice-gi4932ey)
+### [189. Scrum: Agile Put into Practice](https://hackernoon.com/scrum-agile-put-into-practice-gi4932ey)
 ![](https://cdn.hackernoon.com/images/2i17n3y43.jpg)
 In our previous blog post, we wrote about Agile, a philosophy for managing projects and teams. In that text, we mentioned Agile methods, one of them being Scrum.
 
-### [189. An Introductory Guide to Monolith Software Applications](https://hackernoon.com/an-introductory-guide-to-monolith-software-applications)
-![](https://cdn.hackernoon.com/images/SWuYxmBe5WPlAjznGj5Fb05Thnl1-hc02f58.png)
-Monolithic architecture in software development. Discover the world of n-layered patterns and what they involve.
-
-### [190. Technical Debt: Where it Comes From and How to Manage it](https://hackernoon.com/technical-debt-where-it-comes-from-and-how-to-manage-it)
-![](https://cdn.hackernoon.com/images/9WAPqxxfU0PeX47H69zfxin7ZCv2-i493g1b.jpeg)
-Technical debt, approaches to its rapid repayment, and minimization on previous and current projects.
-
-### [191. Breaking Down Organizational Barriers to Accelerate Software Development](https://hackernoon.com/breaking-down-organizational-barriers-to-accelerate-software-development)
+### [190. Breaking Down Organizational Barriers to Accelerate Software Development](https://hackernoon.com/breaking-down-organizational-barriers-to-accelerate-software-development)
 ![](https://cdn.hackernoon.com/images/Y56tfSgkuIgpbx3m4OA15Phv3S93-wx93imk.png)
 How to Identify Organizational Bottlenecks which could block software development.
+
+### [191. Technical Debt: Where it Comes From and How to Manage it](https://hackernoon.com/technical-debt-where-it-comes-from-and-how-to-manage-it)
+![](https://cdn.hackernoon.com/images/9WAPqxxfU0PeX47H69zfxin7ZCv2-i493g1b.jpeg)
+Technical debt, approaches to its rapid repayment, and minimization on previous and current projects.
 
 ### [192. Finance != Future of Blockchain But Cross-Domain Collaboration is](https://hackernoon.com/finance-future-of-blockchain-but-cross-domain-collaboration-is-3b5e32cz)
 ![](https://cdn.hackernoon.com/drafts/wji32hp.png)
 Once upon a time, the emerging of the blockchain seemed to initiate a parallel new era, a utopia of the Value Internet. However, now the tide has receded, Bitcoin and Ethereum, as the flagships of the blockchain, are still struggling to get out of the dark tunnel, and the difficulty of landing various blockchain applications still has not been resolved.
 
-### [193. What Weekly Rituals Should You Master?](https://hackernoon.com/what-weekly-rituals-should-you-master)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-5393vei.jpeg)
-How to do milestone identification, project plans, risk registries, and project updates.
-
-### [194. Agile And Distributed Teams [An Overview]](https://hackernoon.com/agile-and-distributed-teams-an-overview-rx9d3bou)
-![](https://cdn.hackernoon.com/drafts/l6j733u3.png)
-We observe an increasing share of distributed teams and the growing popularity of remote work. And there seems to be some contradiction, as at the first glance Agile and distributed teams do not merge well. The Agile methodology is laid down in the famous Agile Manifesto and is based on the twelve principles derived from it.
-
-### [195. Top 5 Collaboration Tools for Remote Teams Using Jira](https://hackernoon.com/top-5-collaboration-tools-for-remote-teams-using-jira)
+### [193. Top 5 Collaboration Tools for Remote Teams Using Jira](https://hackernoon.com/top-5-collaboration-tools-for-remote-teams-using-jira)
 ![](https://cdn.hackernoon.com/images/P7eOK6J0wzggwnkHOF8Z0BrkbZJ3-pn03a11.jpeg)
 In this article, I have collected some of the most popular add-on collaboration tools that every remote team using Jira should consider. 
 
-### [196. Successful Managers Are Shit Umbrellas: Leadership 101](https://hackernoon.com/successful-managers-are-shit-umbrellas-leadership-101-j3483wuh)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV9J0kJWT15dwSuG3CLQTn9lZjeE3-1c1z31c4.jpeg?alt=media&token=b3442641-a0dd-424e-a5ba-4af95442574f)
-From the desk of a brilliant weirdo #1: If you’re having a hard time getting your team on the same page, I want to let you know that you’re not alone.
+### [194. What Weekly Rituals Should You Master?](https://hackernoon.com/what-weekly-rituals-should-you-master)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-5393vei.jpeg)
+How to do milestone identification, project plans, risk registries, and project updates.
 
-### [197. 15 Best Project Management Tools  ](https://hackernoon.com/15-best-project-management-tools)
+### [195. Agile And Distributed Teams [An Overview]](https://hackernoon.com/agile-and-distributed-teams-an-overview-rx9d3bou)
+![](https://cdn.hackernoon.com/drafts/l6j733u3.png)
+We observe an increasing share of distributed teams and the growing popularity of remote work. And there seems to be some contradiction, as at the first glance Agile and distributed teams do not merge well. The Agile methodology is laid down in the famous Agile Manifesto and is based on the twelve principles derived from it.
+
+### [196. 15 Best Project Management Tools  ](https://hackernoon.com/15-best-project-management-tools)
 ![](https://cdn.hackernoon.com/images/8tYpoSHmnsMkNKg6PmZT8gj99EF3-6row35xn.jpeg)
 Project management systems are supposed to make the life of teams easier and the work process faster and more efficient. 
 
-### [198. What Traits Distinguish An Awesome Programmer](https://hackernoon.com/what-traits-distinguish-an-awesome-programmer-s21k3528)
+### [197. View Life as a Puzzle to Solve Complex Problems](https://hackernoon.com/view-life-as-a-puzzle-to-solve-complex-problems)
+![](https://cdn.hackernoon.com/images/St73tnpN45PMkaR77wG1pYvYTRj1-k40342v.jpeg)
+The Puzzle Method is the methodology that help manage work tasks and life challenges gradually by viewing project as big puzzle and tasks like its small pieces.
+
+### [198. Successful Managers Are Shit Umbrellas: Leadership 101](https://hackernoon.com/successful-managers-are-shit-umbrellas-leadership-101-j3483wuh)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV9J0kJWT15dwSuG3CLQTn9lZjeE3-1c1z31c4.jpeg?alt=media&token=b3442641-a0dd-424e-a5ba-4af95442574f)
+From the desk of a brilliant weirdo #1: If you’re having a hard time getting your team on the same page, I want to let you know that you’re not alone.
+
+### [199. What Traits Distinguish An Awesome Programmer](https://hackernoon.com/what-traits-distinguish-an-awesome-programmer-s21k3528)
 ![](https://hackernoon.com/images/1k2eWiUClgQ4VZSz8evAFbbCf1A3-s3k33f4.jpeg)
 What distinguishes great programmers from good ones? 
 
-### [199. How to Answer the Challenges of Remote Project Management in 2021](https://hackernoon.com/how-to-answer-the-challenges-of-remote-project-management-in-2021-95433197)
+### [200. How to Answer the Challenges of Remote Project Management in 2021](https://hackernoon.com/how-to-answer-the-challenges-of-remote-project-management-in-2021-95433197)
 ![](https://cdn.hackernoon.com/images/lV7kXgF1Y4dIXrCN4EXQA7VdwYX2-yk98317b.jpeg)
 Work from home is the new normal in 2021, which is a bad news for first-time project managers. The good news is anyone can master the art of remote management.
-
-### [200. View Life as a Puzzle to Solve Complex Problems](https://hackernoon.com/view-life-as-a-puzzle-to-solve-complex-problems)
-![](https://cdn.hackernoon.com/images/St73tnpN45PMkaR77wG1pYvYTRj1-k40342v.jpeg)
-The Puzzle Method is the methodology that help manage work tasks and life challenges gradually by viewing project as big puzzle and tasks like its small pieces.
 
 ### [201. How to Prepare a Winning Project for a Roadmap](https://hackernoon.com/how-to-prepare-a-winning-project-for-a-roadmap)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ag92gi8.jpeg)
@@ -824,253 +826,253 @@ Learn everything you need to know about Scrum via these 102 free HackerNoon stor
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaHcUME45O0Sw3JLt9OGFJpazIvO2-ec72893.jpeg?alt=media&token=a9961c23-4a94-41e8-90e7-54883ce1f21f)
 A project specification is a comprehensive description of the objectives for the development of the project. It contains all the goals, functionality, and details required for a development team to fulfill the vision of the client. It describes how the software product will be used from a user perspective and performance details such as speed, availability, and response time.
 
-### [204. A Guide for Collaboration and Building a Great Product: Product designer prospective](https://hackernoon.com/a-guide-for-collaboration-and-building-a-great-product-product-designer-prospective)
+### [204. Blending Worlds: How to Integrate External IPs Without Losing Your Game’s DNA](https://hackernoon.com/blending-worlds-how-to-integrate-external-ips-without-losing-your-games-dna)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-qw022rx.jpeg)
+How to successfully integrate external IPs into your game without losing its core identity - insights from real-world collaborations.
+
+### [205. A Guide for Collaboration and Building a Great Product: Product designer prospective](https://hackernoon.com/a-guide-for-collaboration-and-building-a-great-product-product-designer-prospective)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-5782pgy.png)
 Marina Chernyshova, a Product and UX/UI designer, shares practical tips for enhancing collaboration between Product Designers and Product Managers. 
 
-### [205. Top 7 Project Management Instruments That Facilitate Remote Work](https://hackernoon.com/top-7-project-management-instruments-that-facilitate-remote-work-axv31pt)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-rdk31d2.jpeg)
-Project Management for a team is an important task at the best of times. Many processes make a project successful- scheduling, planning, executing, and other stages. However, project management can get trickier when your team is distributed across the world and working remotely.
-
-### [206. How Adopting PaaS Will Shake Up Your Team](https://hackernoon.com/how-adopting-paas-will-shake-up-your-team-1a5536t5)
-![](https://cdn.hackernoon.com/drafts/chhs31c4.png)
-If your project is considering PaaS, then you may be worried about how this change might impact your team—and rightfully so. Switching to PaaS often results in major shifts in roles and responsibilities. 
+### [206. How Better Daily Routines Can Improve Art Production by 70%](https://hackernoon.com/how-better-daily-routines-can-improve-art-production-by-70percent)
+![](https://cdn.hackernoon.com/images/2DzCEJB5j3XSvYW7aWWxadAKsTp2-au020fu.jpeg)
+Case study: daily routine fixes that unblocked art implementation—raising merges to 8.5 branches/version and cutting bugs to 0.75/branch.
 
 ### [207. How to Ensure the Success of Microservices-based Projects](https://hackernoon.com/how-to-ensure-the-success-of-microservices-based-projects-lj3e34my)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-eb13286k.jpeg)
 Microservices-based projects are a great idea to deliver products in less time and with great flexibility/agility. 
 
-### [208. What Are The Responsibilities Of Software Development Manager?](https://hackernoon.com/what-does-a-software-development-manager-do-l11b2gu5)
+### [208. How Adopting PaaS Will Shake Up Your Team](https://hackernoon.com/how-adopting-paas-will-shake-up-your-team-1a5536t5)
+![](https://cdn.hackernoon.com/drafts/chhs31c4.png)
+If your project is considering PaaS, then you may be worried about how this change might impact your team—and rightfully so. Switching to PaaS often results in major shifts in roles and responsibilities. 
+
+### [209. Top 7 Project Management Instruments That Facilitate Remote Work](https://hackernoon.com/top-7-project-management-instruments-that-facilitate-remote-work-axv31pt)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-rdk31d2.jpeg)
+Project Management for a team is an important task at the best of times. Many processes make a project successful- scheduling, planning, executing, and other stages. However, project management can get trickier when your team is distributed across the world and working remotely.
+
+### [210. What Are The Responsibilities Of Software Development Manager?](https://hackernoon.com/what-does-a-software-development-manager-do-l11b2gu5)
 ![](https://cdn.hackernoon.com/drafts/bg1xr2gox.png)
 The definition and content of activities of the software development manager can vary widely.
 
-### [209. How to Consistently Deliver Your Projects on Time: 5 Tips to Follow](https://hackernoon.com/how-to-consistently-deliver-your-projects-on-time-5-tips-to-follow)
+### [211. How to Consistently Deliver Your Projects on Time: 5 Tips to Follow](https://hackernoon.com/how-to-consistently-deliver-your-projects-on-time-5-tips-to-follow)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-jl13b3s.jpeg)
 The bread and butter of knowledge work is figuring out what needs to be done, in what order, and what can be cut.
 
-### [210. How to Unite Excel’s Power with Jira and Confluence’s Functionalities](https://hackernoon.com/how-to-unite-excels-power-with-jira-and-confluences-functionalities)
+### [212. How to Unite Excel’s Power with Jira and Confluence’s Functionalities](https://hackernoon.com/how-to-unite-excels-power-with-jira-and-confluences-functionalities)
 ![](https://cdn.hackernoon.com/images/ChKDYYohTRXAdX6W7QfuXVrLBGA2-i0037ta.jpeg)
 Learn how you can create detailed graphs, extensive spreadsheets, and other Excel functionalities in Jira and Confluence without having to switch to Excel.
 
-### [211. How to Work From Home Efficiently: 7 Tools For Distributed Dev Teams](https://hackernoon.com/how-to-work-from-home-efficiently-7-tools-for-distributed-dev-teams-y1793y6j)
-![](https://cdn.hackernoon.com/drafts/q433g3yc6.png)
-We live in a world where change is the only constant. Right from the dawn of time, sustainable approaches have rendered the traditional ones obsolete and this, of course, is evident in diverse sectors especially the workforce. Why do something the hard way when you can get better results doing it the easy way, marketers usually ask.
-
-### [212. Daily Standups Tools or Traditional Standups: The Final Verdict](https://hackernoon.com/daily-standups-tools-vs-traditional-standups-the-verdict)
+### [213. Daily Standups Tools or Traditional Standups: The Final Verdict](https://hackernoon.com/daily-standups-tools-vs-traditional-standups-the-verdict)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-6j93n72.jpeg)
 The debate about the best way to run daily standups has plenty of nuance. I dig into the options we have for this agile ceremony.
 
-### [213. Build a Second Brain and Conquer Your Cluttered Mind ](https://hackernoon.com/build-a-second-brain-and-conquer-your-cluttered-mind)
+### [214. Build a Second Brain and Conquer Your Cluttered Mind ](https://hackernoon.com/build-a-second-brain-and-conquer-your-cluttered-mind)
 ![](https://cdn.hackernoon.com/images/6jWYRNYKvBe9KpVi10W2hgF3jYw2-cc935cr.jpeg)
  Are we drowning in the chaos of too many thoughts and ideas? It seems as though our minds are constantly cluttered. How can we function regardless?
 
-### [214. Modern Approaches to Complex IT Development: Managing business requirements](https://hackernoon.com/modern-approaches-to-complex-it-development-managing-business-requirements)
+### [215. How to Work From Home Efficiently: 7 Tools For Distributed Dev Teams](https://hackernoon.com/how-to-work-from-home-efficiently-7-tools-for-distributed-dev-teams-y1793y6j)
+![](https://cdn.hackernoon.com/drafts/q433g3yc6.png)
+We live in a world where change is the only constant. Right from the dawn of time, sustainable approaches have rendered the traditional ones obsolete and this, of course, is evident in diverse sectors especially the workforce. Why do something the hard way when you can get better results doing it the easy way, marketers usually ask.
+
+### [216. Modern Approaches to Complex IT Development: Managing business requirements](https://hackernoon.com/modern-approaches-to-complex-it-development-managing-business-requirements)
 ![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-dfa3qye.jpeg)
 Strategies for the seamless development process and business alignment
-
-### [215. Approach to design of information systems](https://hackernoon.com/approach-to-design-of-information-systems-o31633ue)
-![](https://cdn.hackernoon.com/images/eV5PQYztB3aTpBnYWcEFhU3vsYf2-vhk33yw.jpeg)
-One of the leading Free TON development teams - RSquad shares its experience in information systems design and teamwork
-
-### [216. Security For PMs: A Step-By-Step Guide](https://hackernoon.com/security-for-pms-a-step-by-step-guide-8b1b3tgk)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-0a1b3tqa.jpeg?alt=media&token=13d6ed49-ebdd-445f-8bb8-5501b8353e0a)
-Cybersecurity is among the most significant trends over the last decade and has become even more important now, especially due to more remote work being done. From ransomware to cyber espionage, hackers have developed sophisticated techniques to break into your project/company data and get away with critical information or demand ransom.
-
-Even well known organizations such as Canon, Garmin, Twitter, Honda, and Travelex have fallen victims to malicious actors. A data breach can be a disaster for your company/project, destroy the trust of your customers, and spoil your company’s reputation.
 
 ### [217. Modern Approaches to Complex IT Development: Striking a Balance with Limited Resources](https://hackernoon.com/modern-approaches-to-complex-it-development-striking-a-balance-with-limited-resources)
 ![](https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-vua3q6i.jpeg)
 Mastering project management by embracing flexibility and data-driven approach
 
-### [218. How to Plan Like a Pro: Part 2 of 2](https://hackernoon.com/how-to-plan-like-a-pro-part-2-of-2-mbaj351m)
-![](https://cdn.hackernoon.com/images/mcEwEgkuWufGQEHJ5YmGuwQgcvi1-xxdl35dx.gif)
-The second part of a mini-series on project planning primers. This focuses on my experiences putting together ideas as a developer.
+### [218. Approach to design of information systems](https://hackernoon.com/approach-to-design-of-information-systems-o31633ue)
+![](https://cdn.hackernoon.com/images/eV5PQYztB3aTpBnYWcEFhU3vsYf2-vhk33yw.jpeg)
+One of the leading Free TON development teams - RSquad shares its experience in information systems design and teamwork
 
-### [219. Planning Poker: Agile Estimation And Planning Made Easy](https://hackernoon.com/planning-poker-agile-estimation-and-planning-made-easy-dp3w3wp9)
+### [219. Security For PMs: A Step-By-Step Guide](https://hackernoon.com/security-for-pms-a-step-by-step-guide-8b1b3tgk)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-0a1b3tqa.jpeg?alt=media&token=13d6ed49-ebdd-445f-8bb8-5501b8353e0a)
+Cybersecurity is among the most significant trends over the last decade and has become even more important now, especially due to more remote work being done. From ransomware to cyber espionage, hackers have developed sophisticated techniques to break into your project/company data and get away with critical information or demand ransom.
+
+Even well known organizations such as Canon, Garmin, Twitter, Honda, and Travelex have fallen victims to malicious actors. A data breach can be a disaster for your company/project, destroy the trust of your customers, and spoil your company’s reputation.
+
+### [220. Electronics and Software Development Explained: A Look Inside Contract Engineering](https://hackernoon.com/electronics-and-software-development-explained-a-look-inside-contract-engineering)
+![](https://cdn.hackernoon.com/images/LEymvvrtvURIHWScxGtFiYzJjRf2-yjb38mm.png)
+Integra Sources CTO shares their working practices. Learn about our project phases, risk management, team synchronization, and client communication.
+
+
+### [221. Planning Poker: Agile Estimation And Planning Made Easy](https://hackernoon.com/planning-poker-agile-estimation-and-planning-made-easy-dp3w3wp9)
 ![](https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 
 
-### [220. Healthy Conflict is Necessary in the Workplace](https://hackernoon.com/healthy-conflict-is-necessary-in-the-workplace-4o4z3tce)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-wv263t8y.png?alt=media&token=33721fb9-4625-46c4-b50f-2c03fe5fffc3)
-I have always been wowed by people’s irrational desire to avoid healthy conflicts at work. It seemed that their primary goal is not to achieve results but to treat each other politely. Everyone was super polite and courteous. We were not making pots and pans; we were celebrating the Day of Politeness. 
-
-### [221. How to Accurately Estimate Projects in 6 Steps](https://hackernoon.com/how-to-accurately-estimate-projects-in-6-steps-x4a93tu3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaHcUME45O0Sw3JLt9OGFJpazIvO2-dj828wh.jpeg?alt=media&token=7f27bc4b-81fe-4579-a15d-78b98804e8a9)
-It is extremely difficult to make an accurate project estimation. It requires skills as well as experience. You need to consider the deliverables, tasks, and processes in order to create a workable estimate. Making a precise project estimation also requires a good relationship with the client, because you need to be clear on their requirements, according to which the estimation is made.
-
-### [222. How Better Daily Routines Can Improve Art Production by 70%](https://hackernoon.com/how-better-daily-routines-can-improve-art-production-by-70percent)
-![](https://cdn.hackernoon.com/images/2DzCEJB5j3XSvYW7aWWxadAKsTp2-au020fu.jpeg)
-Case study: daily routine fixes that unblocked art implementation—raising merges to 8.5 branches/version and cutting bugs to 0.75/branch.
-
-### [223. The Aftermath of Going Enterprise](https://hackernoon.com/the-aftermath-of-going-enterprise)
+### [222. The Aftermath of Going Enterprise](https://hackernoon.com/the-aftermath-of-going-enterprise)
 ![](https://cdn.hackernoon.com/images/SWuYxmBe5WPlAjznGj5Fb05Thnl1-xj92fjv.jpeg)
 Factors to consider in scaling your enterprise solution: the do's , the don'ts and the maybe.
 
-### [224. Blending Worlds: How to Integrate External IPs Without Losing Your Game’s DNA](https://hackernoon.com/blending-worlds-how-to-integrate-external-ips-without-losing-your-games-dna)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-qw022rx.jpeg)
-How to successfully integrate external IPs into your game without losing its core identity - insights from real-world collaborations.
+### [223. How to Plan Like a Pro: Part 2 of 2](https://hackernoon.com/how-to-plan-like-a-pro-part-2-of-2-mbaj351m)
+![](https://cdn.hackernoon.com/images/mcEwEgkuWufGQEHJ5YmGuwQgcvi1-xxdl35dx.gif)
+The second part of a mini-series on project planning primers. This focuses on my experiences putting together ideas as a developer.
 
-### [225. My Experience as A Team Lead For Unity3D Gamedev Team](https://hackernoon.com/my-experience-as-a-team-lead-for-unity3d-gamedev-team-6v4l350s)
+### [224. How to Accurately Estimate Projects in 6 Steps](https://hackernoon.com/how-to-accurately-estimate-projects-in-6-steps-x4a93tu3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaHcUME45O0Sw3JLt9OGFJpazIvO2-dj828wh.jpeg?alt=media&token=7f27bc4b-81fe-4579-a15d-78b98804e8a9)
+It is extremely difficult to make an accurate project estimation. It requires skills as well as experience. You need to consider the deliverables, tasks, and processes in order to create a workable estimate. Making a precise project estimation also requires a good relationship with the client, because you need to be clear on their requirements, according to which the estimation is made.
+
+### [225. Healthy Conflict is Necessary in the Workplace](https://hackernoon.com/healthy-conflict-is-necessary-in-the-workplace-4o4z3tce)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-wv263t8y.png?alt=media&token=33721fb9-4625-46c4-b50f-2c03fe5fffc3)
+I have always been wowed by people’s irrational desire to avoid healthy conflicts at work. It seemed that their primary goal is not to achieve results but to treat each other politely. Everyone was super polite and courteous. We were not making pots and pans; we were celebrating the Day of Politeness. 
+
+### [226. My Experience as A Team Lead For Unity3D Gamedev Team](https://hackernoon.com/my-experience-as-a-team-lead-for-unity3d-gamedev-team-6v4l350s)
 ![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-m51y350m.jpeg)
 Recently I became the team lead in the company I am working for and here I want to share a few lessons that I already managed to learn.
 
-### [226. How To Get The Most of Remote Work](https://hackernoon.com/how-to-get-the-most-of-remote-work-o9l3ta0)
+### [227. How To Get The Most of Remote Work](https://hackernoon.com/how-to-get-the-most-of-remote-work-o9l3ta0)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fdcen9mSS23WFdrk1pA6gWNwZZ5n2-h13c3u8z.jpeg?alt=media&token=d2cc426f-aac0-433f-afd0-6823b1d25206)
 When it comes to working and managing projects, the best way to do so is by setting up an office and communicating in person. However, with the current state of affairs, it is highly unlikely that most corporations would even consider the possibility of risking the health and safety of others and themselves, and so most companies have switched to other means of working - working remotely. 
 
-### [227. 4 Tips For Keeping Remote Dev Teams Motivated](https://hackernoon.com/4-tips-for-keeping-remote-dev-teams-motivated-3n11w3yts)
+### [228. 4 Tips For Keeping Remote Dev Teams Motivated](https://hackernoon.com/4-tips-for-keeping-remote-dev-teams-motivated-3n11w3yts)
 ![](https://cdn.hackernoon.com/drafts/tl5c3ydl.png)
 Every month, dozens of software development companies come up with hundreds of ways for distributed teams to cooperate efficiently, as if they were working side by side in an open-plan office—online collaboration tools, audio and video conferencing solutions, project management systems, time tracking applications, etc.
 
-### [228. Making Sense of Product Owner Effectiveness](https://hackernoon.com/making-sense-of-product-owner-effectiveness-2k1g32us)
+### [229. Making Sense of Product Owner Effectiveness](https://hackernoon.com/making-sense-of-product-owner-effectiveness-2k1g32us)
 ![](https://cdn.hackernoon.com/images/m5o32hb.jpg)
 Can anyone be a Product Owner (PO)? What’s the best position in the company to fill that role? With Scrum you have one and only one product owner for a given product – not a committee, but the effectiveness of the product owner will vary depending on the PO’s organizational enablement, understanding of the product, and involvement with the Scrum Team. 
 
-### [229. How We Discussed Scrum Master Job Description](https://hackernoon.com/a-scrum-master-job-description-gzcd3tjm)
+### [230. How We Discussed Scrum Master Job Description](https://hackernoon.com/a-scrum-master-job-description-gzcd3tjm)
 ![](https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 
 
-### [230. Understanding Startups Growth for Better Management](https://hackernoon.com/understanding-startups-growth-for-better-management-bh1j3wdg)
+### [231. Understanding Startups Growth for Better Management](https://hackernoon.com/understanding-startups-growth-for-better-management-bh1j3wdg)
 ![](https://cdn.hackernoon.com/drafts/dl583ysx.png)
 Once you begin your startup business, then comes the toughest part! To sustain and grow to a leading organization by managing the same with some brilliant ideas. Many of the leading management gurus have written a lot about how to achieve the same.
-
-### [231. Optimism - Curse of Big IT Projects and How to Manage It](https://hackernoon.com/why-big-it-unification-projects-famously-fail-8xqd3wf8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FuhJdIL6cKvOEvhfNdiy1eMmb0YB3-w253ub6.jpeg?alt=media&token=817f409b-fd11-4478-965b-b9c3f2294edf)
-Most of us who have worked on IT projects feel the resonance of Hofstadter's Law:
 
 ### [232. A Practical Advice for Building Products in Cybersecurity](https://hackernoon.com/a-practical-advice-for-building-products-in-cybersecurity)
 ![](https://cdn.hackernoon.com/images/engineers-building-security-products-clfwann0j000001s6f3a6ccg9.png)
 The maturity of the product craft in cybersecurity may be seen from the outside as much lower than in many other industries.
 
-### [233. How ML Challenges Software Engineering](https://hackernoon.com/how-ml-challenges-software-engineering-n9w338b)
+### [233. Optimism - Curse of Big IT Projects and How to Manage It](https://hackernoon.com/why-big-it-unification-projects-famously-fail-8xqd3wf8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FuhJdIL6cKvOEvhfNdiy1eMmb0YB3-w253ub6.jpeg?alt=media&token=817f409b-fd11-4478-965b-b9c3f2294edf)
+Most of us who have worked on IT projects feel the resonance of Hofstadter's Law:
+
+### [234. 8 Ways PSA Software makes your Services Firm More Profitable](https://hackernoon.com/8-ways-psa-software-makes-your-services-firm-more-profitable)
+![](https://cdn.hackernoon.com/images/pLOONi5j43RKJukHBWfYubJtG4o2-tq93jbo.jpeg)
+How PSA software helps professional service firms improve profitability by improving visibility into the company's entire resource pool & project delivery time.
+
+### [235. How ML Challenges Software Engineering](https://hackernoon.com/how-ml-challenges-software-engineering-n9w338b)
 ![](https://cdn.hackernoon.com/images/BpDVO1gf0xRQ4XuXBFxz7wUhzCA3-hu3533pg.jpeg)
 Inherent uncertainty, data-driven behavior, rapid experimentation: characteristics of Machine Learning that disrupt traditional software engineering practices.
 
-### [234. Choosing The Optimal Development Methodology](https://hackernoon.com/how-to-choose-your-optimal-development-methodology-v13w130rs)
+### [236. Choosing The Optimal Development Methodology](https://hackernoon.com/how-to-choose-your-optimal-development-methodology-v13w130rs)
 ![](https://cdn.hackernoon.com/drafts/f31430ft.png)
 Is Scrum as universal as it seems to be?
 
-### [235. Electronics and Software Development Explained: A Look Inside Contract Engineering](https://hackernoon.com/electronics-and-software-development-explained-a-look-inside-contract-engineering)
-![](https://cdn.hackernoon.com/images/LEymvvrtvURIHWScxGtFiYzJjRf2-yjb38mm.png)
-Integra Sources CTO shares their working practices. Learn about our project phases, risk management, team synchronization, and client communication.
-
-
-### [236. Master The Art Of Planning Poker On Heroku And Salesforce With These Tips](https://hackernoon.com/master-the-art-of-planning-poker-on-heroku-and-salesforce-with-these-tips-wmu31a6)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-w91g28o2.jpeg)
-One may not expect to use Salesforce for Planning Poker sessions, but see how Aditya Naag's planning-poker-salesforce repository can make this happen quite easily.
-
-### [237. What To Expect From Test Case Management Software in 2021](https://hackernoon.com/what-to-expect-from-test-case-management-software-in-2021-wv1z33e0)
-![](https://hackernoon.com/images/R8aLhmiN8rUgojf5QE8E0wAqhU73-5h2d332j.png)
-Over the years, the IT sector has displayed an exceptionally high rate of transition, rapidly reinventing everything again and again. The software testing industry is not resistant to the rapid state of expansion. 
+### [237. Supercharge Your Team with the Right Project Management Tool](https://hackernoon.com/supercharge-your-team-with-the-right-project-management-tool-41q3uy3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FcGSWj45yyYXx4tQdrmY9KMYi23B3-7m1t3u44.jpeg?alt=media&token=ef33d886-7edc-4312-8745-7e3eccc2275c)
+As a compact team of two or three founders, it’s easy to stay organized… But when you’re doing well the team grows. Suddenly you’re managing a team of 5! Keeping track of everything, such as projects, tasks, new features, marketing campaigns, and more becomes much more difficult. 
 
 ### [238. Here Are 5 Ways To Guarantee Project Failure](https://hackernoon.com/here-are-5-ways-to-guarantee-project-failure)
 ![](https://cdn.hackernoon.com/images/a-house-of-cards-falling-down-fcq04c4a97lmey2qa5wqj6v6.png)
 Project failure can be more or less avoided by focusing on a few critical factors - just 5 factors actually. 
 
-### [239. The 3 Tools You Need to Need to Get Your MVP From Idea to Launch](https://hackernoon.com/top-3-project-management-tools-for-building-an-mvp)
-![](https://cdn.hackernoon.com/images/04RBQUokhMcaEo331itGHu88zIw1-twd3p63.jpeg)
-Over the last 20 years, our Project Manager, Pedro, has helped build many startups. 
-
-### [240. 8 Ways PSA Software makes your Services Firm More Profitable](https://hackernoon.com/8-ways-psa-software-makes-your-services-firm-more-profitable)
-![](https://cdn.hackernoon.com/images/pLOONi5j43RKJukHBWfYubJtG4o2-tq93jbo.jpeg)
-How PSA software helps professional service firms improve profitability by improving visibility into the company's entire resource pool & project delivery time.
-
-### [241. Supercharge Your Team with the Right Project Management Tool](https://hackernoon.com/supercharge-your-team-with-the-right-project-management-tool-41q3uy3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FcGSWj45yyYXx4tQdrmY9KMYi23B3-7m1t3u44.jpeg?alt=media&token=ef33d886-7edc-4312-8745-7e3eccc2275c)
-As a compact team of two or three founders, it’s easy to stay organized… But when you’re doing well the team grows. Suddenly you’re managing a team of 5! Keeping track of everything, such as projects, tasks, new features, marketing campaigns, and more becomes much more difficult. 
-
-### [242. 3 First Principles to Assist AI Project Managers in Company-Wide Adoption](https://hackernoon.com/3-first-principles-to-assist-ai-project-managers-in-company-wide-adoption-45793u26)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-ub763u6l.jpeg?alt=media&token=a06188a6-af82-4aa6-aee4-ee112cd9e733)
-A million pompous Tweets, a thousand pontifical TedX videos and hundreds of unnecessary hot takes don’t lie: Artificial Intelligence (AI) is here, and it’s here to stay. Ok. Good. What now? Well, before AI can truly be called a democratised technology, we have to go beyond Silicon Valley startups and implement it within small/medium businesses and governments to reap the rewards promised by the technology.
-
-### [243. The HackerNoon Newsletter: Meet Saaniya Chugh - HackerNoon Writing Course Guest Speaker (1/9/2026)](https://hackernoon.com/1-9-2026-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_61_ptfm8kp275sjltei68em89ts.png)
-1/9/2026: Top 5 stories on the HackerNoon homepage!
-
-### [244. I Think pipenv Is Better Than venv](https://hackernoon.com/i-think-pipenv-is-better-than-venv-vkq3u9e)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6sWrtbrOmsOIbrWzrG88lYfV4ch1-3sd231q.jpeg?alt=media&token=692c7211-28b4-447f-94c0-6ed5c258947b)
-Yeah, you read that right. I actually think that pipenv is better than venv for there are multiple reasons and a whole lot of thought behind it.
-
-### [245. How Confidence Became the New Happiness](https://hackernoon.com/why-confidence-is-the-new-happiness-lr4t32vs)
-![](https://cdn.hackernoon.com/drafts/iuze323i.png)
-I know its conventional to open a new blog with some kind of declarative statement or thesis, but I want to start with a question. If you were to measure just one thing about your team, one metric that best captures “the human element” what would it be?
-
-### [246. How to Plan Like a Pro: Part 1 of 2](https://hackernoon.com/how-to-plan-like-a-pro-part-1-of-2-atbg35oe)
-![](https://cdn.hackernoon.com/images/mcEwEgkuWufGQEHJ5YmGuwQgcvi1-jn4w35ap.jpeg)
-The first part of an educational blog covering general planning. This specifically focuses on the why's of planning.
-
-### [247. Optimizing Tech Design Meetings with Structured Ticket Templates](https://hackernoon.com/optimizing-tech-design-meetings-with-structured-ticket-templates)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ja02q36.jpeg)
-After struggling with long meetings and frustrating tickets, my team at Wayfair created a ticket template that saved us countless hours.
-
-### [248. Feel Comfortable Saying No - Even to Your Boss](https://hackernoon.com/feel-comfortable-saying-no-even-to-your-boss)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ix82qzf.jpeg)
-Learn effective strategies for product leaders to navigate challenging conversations and say no to senior leaders while maintaining positive relationships.
-
-### [249. Optimizing 1:1 Team Meetings - 7 Essential Tips for Success](https://hackernoon.com/optimizing-11-team-meetings-7-essential-tips-for-success)
-![](https://cdn.hackernoon.com/images/ohdIty7awsRdteW8jwCdiMEUw3l2-6b93bsd.jpeg)
-One-on-one (1:1) meetings are a cornerstone of effective team management, serving dual purposes of checking on an individual's well-being and fostering their pr
-
-### [250. Lifecycle of a BI Report](https://hackernoon.com/lifecycle-of-a-bi-report)
+### [239. Lifecycle of a BI Report](https://hackernoon.com/lifecycle-of-a-bi-report)
 ![](https://cdn.hackernoon.com/images/E9obLjZ4AzZwwyyRsEYSJfdX9H93-u8930mz.jpeg)
 Sam, a savvy Business Analyst, embarks on a mission to craft a BI report. Through his adventure, we'll unravel the captivating lifecycle of a BI report.
 
-### [251. The Noonification: Archway Users Now Have Access to Balanced (1/7/2024)](https://hackernoon.com/1-7-2024-noonification)
+### [240. The 3 Tools You Need to Need to Get Your MVP From Idea to Launch](https://hackernoon.com/top-3-project-management-tools-for-building-an-mvp)
+![](https://cdn.hackernoon.com/images/04RBQUokhMcaEo331itGHu88zIw1-twd3p63.jpeg)
+Over the last 20 years, our Project Manager, Pedro, has helped build many startups. 
+
+### [241. Master The Art Of Planning Poker On Heroku And Salesforce With These Tips](https://hackernoon.com/master-the-art-of-planning-poker-on-heroku-and-salesforce-with-these-tips-wmu31a6)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-w91g28o2.jpeg)
+One may not expect to use Salesforce for Planning Poker sessions, but see how Aditya Naag's planning-poker-salesforce repository can make this happen quite easily.
+
+### [242. What To Expect From Test Case Management Software in 2021](https://hackernoon.com/what-to-expect-from-test-case-management-software-in-2021-wv1z33e0)
+![](https://hackernoon.com/images/R8aLhmiN8rUgojf5QE8E0wAqhU73-5h2d332j.png)
+Over the years, the IT sector has displayed an exceptionally high rate of transition, rapidly reinventing everything again and again. The software testing industry is not resistant to the rapid state of expansion. 
+
+### [243. 3 First Principles to Assist AI Project Managers in Company-Wide Adoption](https://hackernoon.com/3-first-principles-to-assist-ai-project-managers-in-company-wide-adoption-45793u26)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-ub763u6l.jpeg?alt=media&token=a06188a6-af82-4aa6-aee4-ee112cd9e733)
+A million pompous Tweets, a thousand pontifical TedX videos and hundreds of unnecessary hot takes don’t lie: Artificial Intelligence (AI) is here, and it’s here to stay. Ok. Good. What now? Well, before AI can truly be called a democratised technology, we have to go beyond Silicon Valley startups and implement it within small/medium businesses and governments to reap the rewards promised by the technology.
+
+### [244. The HackerNoon Newsletter: Meet Saaniya Chugh - HackerNoon Writing Course Guest Speaker (1/9/2026)](https://hackernoon.com/1-9-2026-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_61_ptfm8kp275sjltei68em89ts.png)
+1/9/2026: Top 5 stories on the HackerNoon homepage!
+
+### [245. Feel Comfortable Saying No - Even to Your Boss](https://hackernoon.com/feel-comfortable-saying-no-even-to-your-boss)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ix82qzf.jpeg)
+Learn effective strategies for product leaders to navigate challenging conversations and say no to senior leaders while maintaining positive relationships.
+
+### [246. The Noonification: Archway Users Now Have Access to Balanced (1/7/2024)](https://hackernoon.com/1-7-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_822_vmg6o9i8sty9azeyt659yrzm.png)
 1/7/2024: Top 5 stories on the HackerNoon homepage!
 
-### [252. Renovation Management Tips to Keep Your Project on Schedule ](https://hackernoon.com/renovation-management-tips-to-keep-your-project-on-schedule-rr2o34xf)
+### [247. How to Plan Like a Pro: Part 1 of 2](https://hackernoon.com/how-to-plan-like-a-pro-part-1-of-2-atbg35oe)
+![](https://cdn.hackernoon.com/images/mcEwEgkuWufGQEHJ5YmGuwQgcvi1-jn4w35ap.jpeg)
+The first part of an educational blog covering general planning. This specifically focuses on the why's of planning.
+
+### [248. I Think pipenv Is Better Than venv](https://hackernoon.com/i-think-pipenv-is-better-than-venv-vkq3u9e)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6sWrtbrOmsOIbrWzrG88lYfV4ch1-3sd231q.jpeg?alt=media&token=692c7211-28b4-447f-94c0-6ed5c258947b)
+Yeah, you read that right. I actually think that pipenv is better than venv for there are multiple reasons and a whole lot of thought behind it.
+
+### [249. How Confidence Became the New Happiness](https://hackernoon.com/why-confidence-is-the-new-happiness-lr4t32vs)
+![](https://cdn.hackernoon.com/drafts/iuze323i.png)
+I know its conventional to open a new blog with some kind of declarative statement or thesis, but I want to start with a question. If you were to measure just one thing about your team, one metric that best captures “the human element” what would it be?
+
+### [250. Optimizing 1:1 Team Meetings - 7 Essential Tips for Success](https://hackernoon.com/optimizing-11-team-meetings-7-essential-tips-for-success)
+![](https://cdn.hackernoon.com/images/ohdIty7awsRdteW8jwCdiMEUw3l2-6b93bsd.jpeg)
+One-on-one (1:1) meetings are a cornerstone of effective team management, serving dual purposes of checking on an individual's well-being and fostering their pr
+
+### [251. Optimizing Tech Design Meetings with Structured Ticket Templates](https://hackernoon.com/optimizing-tech-design-meetings-with-structured-ticket-templates)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ja02q36.jpeg)
+After struggling with long meetings and frustrating tickets, my team at Wayfair created a ticket template that saved us countless hours.
+
+### [252. Never-Ending IT Projects: Navigating Complexity, Change, and Endless Development](https://hackernoon.com/never-ending-it-projects-navigating-complexity-change-and-endless-development)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-p293s3i.jpeg)
+If your IT project seems to have no end, we understand. This is how you navigate the world of never-ending IT projects.
+
+### [253. Gantt Charts Can Change your Understanding of Project Management](https://hackernoon.com/gantt-charts-can-change-your-understanding-of-project-management)
+![](https://cdn.hackernoon.com/images/6EORd3lScrVTxxVB0ulAUeFzv0E2-9yd3iuq.jpeg)
+In this article we will talk about using Gantt charts for Project Management. How this tool functions, and outlines its main benefits and drawbacks.
+
+### [254. Renovation Management Tips to Keep Your Project on Schedule ](https://hackernoon.com/renovation-management-tips-to-keep-your-project-on-schedule-rr2o34xf)
 ![](https://cdn.hackernoon.com/images/XxBJkNOlHzSMsovw028VBarPnis2-p01b31dg.jpeg)
 Renovation projects have a lot of moving parts that must work simultaneously. No wonder, large projects take 20% longer to finish than scheduled and are 80% over budget. From planning to budgeting to hiring to the actual remodeling, all processes have to be coordinated for the whole project to be completed. 
 
 
-### [253. What Is Product Management And How It Can Help You Drive Growth](https://hackernoon.com/what-is-product-management-and-how-it-can-help-you-drive-growth-kkx336i)
+### [255. What Is Product Management And How It Can Help You Drive Growth](https://hackernoon.com/what-is-product-management-and-how-it-can-help-you-drive-growth-kkx336i)
 ![](https://cdn.hackernoon.com/images/ANOvK6YEO3VsptqSywRdUlk1LnD3-xzy33fd.jpeg)
 While product management enjoys unquestioned support in the world’s most successful tech companies, other organisations that could substantially benefit from product management are still yet to adopt and embrace the discipline. So, I want to go through why you need product management in your tech or digital organisation.  
 
-### [254. Project Management Innovations Enhancing PMs' Success](https://hackernoon.com/project-management-innovations-enhancing-pms-success)
+### [256. Project Management Innovations Enhancing PMs' Success](https://hackernoon.com/project-management-innovations-enhancing-pms-success)
 ![](https://cdn.hackernoon.com/images/ZSnNpZ3GejgVSxqs3EyP38vlsLL2-5r93vy8.jpeg)
 As technology advances exponentially, the tools available to PMs have also played a big role in innovating how they manage their teams. 
 
-### [255. The Unified Principles of Methodologies and the Illusion of Differences](https://hackernoon.com/the-unified-principles-of-methodologies-and-the-illusion-of-differences)
+### [257. The Unified Principles of Methodologies and the Illusion of Differences](https://hackernoon.com/the-unified-principles-of-methodologies-and-the-illusion-of-differences)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-b893p8f.jpeg)
 This article aims to explore the philosophical foundations that bind various methodologies to show that their variations serve to perpetuate the idea of novelty
-
-### [256. Gantt Charts Can Change your Understanding of Project Management](https://hackernoon.com/gantt-charts-can-change-your-understanding-of-project-management)
-![](https://cdn.hackernoon.com/images/6EORd3lScrVTxxVB0ulAUeFzv0E2-9yd3iuq.jpeg)
-In this article we will talk about using Gantt charts for Project Management. How this tool functions, and outlines its main benefits and drawbacks.
-
-### [257. Never-Ending IT Projects: Navigating Complexity, Change, and Endless Development](https://hackernoon.com/never-ending-it-projects-navigating-complexity-change-and-endless-development)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-p293s3i.jpeg)
-If your IT project seems to have no end, we understand. This is how you navigate the world of never-ending IT projects.
 
 ### [258. 8 Tips for Managing Developers for Non-Developers](https://hackernoon.com/8-tips-for-managing-developers-for-non-developers)
 ![](https://cdn.hackernoon.com/images/S20bwqNg2Dc5eOrKxjK2AGe1PCu1-fh93j70.jpeg)
 Not a developer yourself, but ended up in charge of a bunch of them? Here are 8 tips to working with them effectively without being too annoying or a bother.
 
-### [259. Tackling The Technical Debt in Five Steps](https://hackernoon.com/tackling-the-technical-debt-in-five-steps-drl3thi)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-jui2858.jpeg?alt=media&token=ef18194f-0c28-47ac-b0a4-72fe1d963c78)
-Recognizing that you have technical debt is easy. And if you don’t recognize it already, one of your engineers will likely tell you:)
-
-### [260. My Teams Hates Retros. What Should I Do?](https://hackernoon.com/my-teams-hates-retros-what-should-i-do)
+### [259. My Teams Hates Retros. What Should I Do?](https://hackernoon.com/my-teams-hates-retros-what-should-i-do)
 ![](https://cdn.hackernoon.com/images/yOdjqAmbLjcsQ9X3aOltwMj6eoY2-wp0347u.jpeg)
 Take team experience into your own hands. Aggregate issues common between teams with AI summaries and data analytics.
 
-### [261. How to Measure Developer Performance (And Why You Should)](https://hackernoon.com/how-to-measure-developer-performance-and-why-you-should)
+### [260. Tackling The Technical Debt in Five Steps](https://hackernoon.com/tackling-the-technical-debt-in-five-steps-drl3thi)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-jui2858.jpeg?alt=media&token=ef18194f-0c28-47ac-b0a4-72fe1d963c78)
+Recognizing that you have technical debt is easy. And if you don’t recognize it already, one of your engineers will likely tell you:)
+
+### [261. The HackerNoon Newsletter: The Ultimate Developers Guide to Jira Success (1/13/2026)](https://hackernoon.com/1-13-2026-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_377_nuo7l95uz53zrxv2gxiuwt3l.png)
+1/13/2026: Top 5 stories on the HackerNoon homepage!
+
+### [262. Product Teams vs. Project Teams: Their Role in Agile Environments](https://hackernoon.com/product-teams-vs-project-teams-their-role-in-agile-environments)
+![](https://cdn.hackernoon.com/images/4heWOm7oGwNwUUrXGb8YLf1kc4P2-n283ala.jpeg)
+Transitioning from project teams to product teams in agile environments can improve effectiveness. Learn about the benefits and steps for a smooth transition.
+
+### [263. How to Measure Developer Performance (And Why You Should)](https://hackernoon.com/how-to-measure-developer-performance-and-why-you-should)
 ![](https://cdn.hackernoon.com/images/RJ6e2wNoz9ZOt0ZPR8rSKvLtwt92-gr134yk.jpeg)
 Focusing on wrong developer performance metrics can encourage bad practices. Discover key metrics to optimize workflows and team well-being.
 
-### [262. 3 Essential Jira Plugins for Digital Product Management in 2022](https://hackernoon.com/3-essential-jira-plugins-for-digital-product-management-in-2022)
-![](https://cdn.hackernoon.com/images/fe8E4Y1XRYhVOwtRamNmG7211in2-ki23apj.jpeg)
-These are three great Jira Plugins (add-ons) to boost your digital project management in 2022. Improve your Jira workflows and interactions with your teams.
-
-### [263. Successfully Change Collaborative Meetings With These Five Proven Methods of Facilitation](https://hackernoon.com/successfully-change-collaborative-meetings-with-these-five-proven-methods-of-facilitation-no2n31pu)
+### [264. Successfully Change Collaborative Meetings With These Five Proven Methods of Facilitation](https://hackernoon.com/successfully-change-collaborative-meetings-with-these-five-proven-methods-of-facilitation-no2n31pu)
 ![](https://cdn.hackernoon.com/images/FDSLAUqwdlOzoGiZjrvaUOs8iqH2-681i3e1q.jpeg)
 The five methods of facilitation I use to create collaborative meetings from over a decade of experience as a software engineering leader.
-
-### [264. Product Teams vs. Project Teams: Their Role in Agile Environments](https://hackernoon.com/product-teams-vs-project-teams-their-role-in-agile-environments)
-![](https://cdn.hackernoon.com/images/4heWOm7oGwNwUUrXGb8YLf1kc4P2-n283ala.jpeg)
-Transitioning from project teams to product teams in agile environments can improve effectiveness. Learn about the benefits and steps for a smooth transition.
 
 ### [265. How To Manage A Small Project With 4-5 Peoples](https://hackernoon.com/how-to-manage-a-small-project-with-4-5-peoples-xns3uco)
 ![](https://images.unsplash.com/photo-1452860606245-08befc0ff44b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -1080,33 +1082,33 @@ a project's minimum person is the project's maximum
 ![](https://cdn.hackernoon.com/images/github/agile-435.png)
 Learn everything you need to know about Agile via these 254 free HackerNoon stories.
 
-### [267. Why Project Maintenance Should Not Be Done By A Separated Team ](https://hackernoon.com/why-project-maintenance-should-be-done-by-a-separated-team-lp2u3upi)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fg16lGoHgQzUa1mS5lR4hYuvO5VX2-fz2d28mk.jpeg?alt=media&token=226962e7-a50a-45cb-9aee-c53bea5fa5ea)
-Suppose you have to add a new major feature to an app. 
+### [267. 3 Essential Jira Plugins for Digital Product Management in 2022](https://hackernoon.com/3-essential-jira-plugins-for-digital-product-management-in-2022)
+![](https://cdn.hackernoon.com/images/fe8E4Y1XRYhVOwtRamNmG7211in2-ki23apj.jpeg)
+These are three great Jira Plugins (add-ons) to boost your digital project management in 2022. Improve your Jira workflows and interactions with your teams.
 
-### [268. How To Plan Your Next Website Redesign](https://hackernoon.com/how-to-plan-your-next-website-redesign-ou3531jq)
-![](https://cdn.hackernoon.com/images/MCfgBiFOpThWNPrXGbzcjKveGfn2-p61331ef.jpeg)
-Learn how to plan and execute a website redesign, whether you use a CMS like Drupal or you build a site from scratch.
-
-### [269. If Formula-1 Defined Efficiency](https://hackernoon.com/if-formula-1-defined-efficiency-675z3yqd)
+### [268. If Formula-1 Defined Efficiency](https://hackernoon.com/if-formula-1-defined-efficiency-675z3yqd)
 ![](https://cdn.hackernoon.com/drafts/ksef3y2c.png)
 This is what it would be
 
-### [270. The Importance of Data Analysis For Technical/Program Managers](https://hackernoon.com/the-importance-of-data-analysis-for-technicalprogram-managers)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3n82qma.jpeg)
-The role of a technical program manager (T/PgM) has many sides, It covers project management, technical oversight, and strategic planning. 
-
-### [271. How To Perform a Successful Incident Postmortem](https://hackernoon.com/how-to-perform-a-successful-incident-postmortem-that-will-help-your-team-learn-and-grow-ft493355)
+### [269. How To Perform a Successful Incident Postmortem](https://hackernoon.com/how-to-perform-a-successful-incident-postmortem-that-will-help-your-team-learn-and-grow-ft493355)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-ry1328ir.jpeg)
 An incident postmortem is a meeting that brings together all of the people that were directly or indirectly involved in a project to discuss and document it.
 
-### [272. Scrum Introduction: Agile Put Into Practice](https://hackernoon.com/scrum-introduction-agile-put-into-practice-3o7m3yff)
+### [270. Why Project Maintenance Should Not Be Done By A Separated Team ](https://hackernoon.com/why-project-maintenance-should-be-done-by-a-separated-team-lp2u3upi)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fg16lGoHgQzUa1mS5lR4hYuvO5VX2-fz2d28mk.jpeg?alt=media&token=226962e7-a50a-45cb-9aee-c53bea5fa5ea)
+Suppose you have to add a new major feature to an app. 
+
+### [271. The Importance of Data Analysis For Technical/Program Managers](https://hackernoon.com/the-importance-of-data-analysis-for-technicalprogram-managers)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3n82qma.jpeg)
+The role of a technical program manager (T/PgM) has many sides, It covers project management, technical oversight, and strategic planning. 
+
+### [272. How To Plan Your Next Website Redesign](https://hackernoon.com/how-to-plan-your-next-website-redesign-ou3531jq)
+![](https://cdn.hackernoon.com/images/MCfgBiFOpThWNPrXGbzcjKveGfn2-p61331ef.jpeg)
+Learn how to plan and execute a website redesign, whether you use a CMS like Drupal or you build a site from scratch.
+
+### [273. Scrum Introduction: Agile Put Into Practice](https://hackernoon.com/scrum-introduction-agile-put-into-practice-3o7m3yff)
 ![](https://cdn.hackernoon.com/drafts/2i17n3y43.png)
 In our previous blog post, we wrote about Agile, a philosophy for managing projects and teams. In that text, we mentioned Agile methods, one of them being Scrum.
-
-### [273. The HackerNoon Newsletter: The Ultimate Developers Guide to Jira Success (1/13/2026)](https://hackernoon.com/1-13-2026-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_377_nuo7l95uz53zrxv2gxiuwt3l.png)
-1/13/2026: Top 5 stories on the HackerNoon homepage!
 
 ### [274. How I Prove My Ideas Before Implementing Them](https://hackernoon.com/how-i-prove-my-ideas-before-implementing-them-3k1k3t89)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FknJOeeHfWcbD1LZBwpLiXe4CgJE2-v6v3uxl.jpeg?alt=media&token=96646153-8bdc-47c1-9888-93d58479bc7a)
@@ -1116,21 +1118,21 @@ Time is the most valuable asset, use it wisely. That is why you should  prove yo
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-zf82r0h.jpeg)
 Agile stepped in when linear requirement-based processes were playing around to impose project management processes and predictable delivery methodologies across complex software domain, driven by time and output. Even with a certain percentage of success, Agile hasn't managed to kill off the embedded waterfall behaviors, prescribed linear plans and over-complex management layers for delivering software en masse.
 
-### [276. Automating Task Estimating Process In JIRA](https://hackernoon.com/automating-task-estimating-process-in-jira-953q3uce)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-khr3uqk.jpeg?alt=media&token=ab0c9a39-0f17-4d45-bb11-14470198b6a7)
-Planning means more than just “staying organized”
-
-### [277. 7 Main Takeaways from 2020 Developer Relations Report](https://hackernoon.com/7-main-takeaways-from-2020-developer-relations-report-821f3wc1)
+### [276. 7 Main Takeaways from 2020 Developer Relations Report](https://hackernoon.com/7-main-takeaways-from-2020-developer-relations-report-821f3wc1)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0ND921QitCePbuLAJQgufmkRClY2-kd543wqp.jpeg?alt=media&token=34ba3666-baf5-444d-8e45-0e06d4e3c608)
 Developer relations is a growing practice of engaging with external developers. In simple words, the job of a DevRel team is to make sure that developers working with the software or API are happy, which positively affects the image of the platform and leads to its popularity. 
 
-### [278. The Noonification: 15 User Onboarding Techniques I Found In Consumer Mobile Apps (3/27/2024)](https://hackernoon.com/3-27-2024-noonification)
+### [277. Automating Task Estimating Process In JIRA](https://hackernoon.com/automating-task-estimating-process-in-jira-953q3uce)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-khr3uqk.jpeg?alt=media&token=ab0c9a39-0f17-4d45-bb11-14470198b6a7)
+Planning means more than just “staying organized”
+
+### [278. How To Dismantle Monolithic Apps](https://hackernoon.com/how-to-dismantle-monolithic-apps-zs1234nz)
+![](https://hackernoon.com/images/zDxKiOq2XxYxNbFVaHVWf50Nhww1-27d34af.jpeg)
+Monolith breakup strategies technical and project management
+
+### [279. The Noonification: 15 User Onboarding Techniques I Found In Consumer Mobile Apps (3/27/2024)](https://hackernoon.com/3-27-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_674_o06mk231gyugd6df1pmloe99.png)
 3/27/2024: Top 5 stories on the HackerNoon homepage!
-
-### [279. The Phases of Project Management](https://hackernoon.com/the-phases-of-project-management-dj773ys7)
-![](https://cdn.hackernoon.com/drafts/ij2d33yiq.png)
-The moment you become a part of the corporate world, the term you get most familiar with is 'Project'. We can say that projects are the elementary part of the corporate world.
 
 ### [280. Open Source Series: Issues and PRs](https://hackernoon.com/open-source-series-issues-and-prs-9y8g30ey)
 ![](https://cdn.hackernoon.com/drafts/f7t43zl0.png)
@@ -1144,9 +1146,9 @@ Agile is a nebulous fad that has embezzled and (mis)appropriated Lean terms and 
 ![](https://cdn.hackernoon.com/images/YfOBDzhprSOPFyuHZ8ilH0sWCJi2-q3a3fgr.jpeg)
 A simple hack on your browser that can get you more focused and keep you out of web browsing rabbit holes.
 
-### [283. How To Dismantle Monolithic Apps](https://hackernoon.com/how-to-dismantle-monolithic-apps-zs1234nz)
-![](https://hackernoon.com/images/zDxKiOq2XxYxNbFVaHVWf50Nhww1-27d34af.jpeg)
-Monolith breakup strategies technical and project management
+### [283. The Phases of Project Management](https://hackernoon.com/the-phases-of-project-management-dj773ys7)
+![](https://cdn.hackernoon.com/drafts/ij2d33yiq.png)
+The moment you become a part of the corporate world, the term you get most familiar with is 'Project'. We can say that projects are the elementary part of the corporate world.
 
 ### [284. How A Tech Sergeant Can Make An Impact In Your Business](https://hackernoon.com/how-a-tech-sergeant-can-make-an-impact-in-your-business-g4n3th4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY8OnbrBlePVzFHizwYeYKtHAbMn1-7lb28n6.jpeg?alt=media&token=495a54e9-c34f-4a04-9f31-34ab89fe7738)
@@ -1156,306 +1158,306 @@ Military minds understand their armies are really only as good as their sergeant
 ![](https://cdn.hackernoon.com/drafts/xy16p36a1.png)
 On every new software product, feature or project you develop you are bound to come across challenges that don’t have a clear answer at first.
 
-### [286. A Guide to Measuring DevOps Mean Time to Recovery (MTTR)](https://hackernoon.com/a-guide-to-measuring-devops-mean-time-to-recovery-mttr)
-![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-gfe3pai.png)
-In this post, you'll discover what MTTR measures, why it's useful for industry research, some reasons it can mislead you, and more.
-
-### [287. Project Management Mastery: 3 Tips for The Well Rounded Developer](https://hackernoon.com/project-management-mastery-3-tips-for-the-well-rounded-developer-h02f35z3)
-![](https://cdn.hackernoon.com/images/HGlNWMAdaFXja0kPGXrfiga4nIq2-tje29z3.jpeg)
-As a developer, you need to do more than ship code: you must deliver consistently, on time, and keep people updated. Check out these 3 project management tips.
-
-### [288. Growing Your Construction Business? There’s an App for That.](https://hackernoon.com/growing-your-construction-business-theres-an-app-for-that-p52k3u39)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1PVS6gQtSGXzy9aEAh63s8vKA1u1-b52d3uo6.jpeg?alt=media&token=c5431310-6924-45aa-8712-dfe71303c7da)
-Thanks to modern technology, it’s possible to update blueprints, create and sign contracts, and care for your construction workers from your smartphone. To help take your company to the next level, check out these top construction apps.  
-
-### [289. The Human Factor : Why Your Processes Are Bound to Fail](https://hackernoon.com/the-human-factor-why-your-processes-are-bound-to-fail)
-![](https://cdn.hackernoon.com/images/7YvHL3ENPXaPCMItFXxed30R6de2-tr93jcf.jpeg)
-When the outcome of a process is negative and deviates from its intended plan, it’s the process, not people that should be blamed
-
-### [290. How Agencies Approach Software Development](https://hackernoon.com/how-agencies-approach-software-development-gd473yzv)
-![](https://cdn.hackernoon.com/images/bn1703y1u.jpg)
-If you decide to outsource the development of the project, you must understand the specifics of this format of cooperation with the agency. You cannot fully control the “inner kitchen” of the project creation, will it be a startup or software for a large enterprise. But this is not necessary, as experienced agencies ensure the transparency and continuity of all work processes. They maintain constant communication with the client and resolve issues as they become available.
-
-### [291. Prioritising Security Vulnerabilities with CVSS 3.1 [An Overview]](https://hackernoon.com/prioritising-security-vulnerabilities-with-cvss-31-an-overview-gm6832tq)
-![](https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-With thousands of security vulnerabilities reported each month in products ranging from hardware devices to firmware to popular software apps, how does one prioritise what needs the most attention? From a business and project management perspective, it makes sense to, first and foremost, allocate engineering and/or risk assessment resources to the most severe vulnerabilities that need immediate patching. 
-
-### [292. Your Stakeholder Reports Have a 99% "Bounce Rate"? Here’s the Fix](https://hackernoon.com/your-stakeholder-reports-have-a-99percent-bounce-rate-heres-the-fix)
+### [286. Your Stakeholder Reports Have a 99% "Bounce Rate"? Here’s the Fix](https://hackernoon.com/your-stakeholder-reports-have-a-99percent-bounce-rate-heres-the-fix)
 ![](https://cdn.hackernoon.com/images/4QQhIuTcGWPBcSXw0KTQbpwavoG2-ne03728.png)
 Treating your project updates like a product might be the only way to get the "Buy" button clicked.
 
-### [293. The Art of Capturing and Applying Lessons Learned for Effective Project Management](https://hackernoon.com/the-art-of-capturing-and-applying-lessons-learned-for-effective-project-management)
+### [287. The Art of Capturing and Applying Lessons Learned for Effective Project Management](https://hackernoon.com/the-art-of-capturing-and-applying-lessons-learned-for-effective-project-management)
 ![](https://cdn.hackernoon.com/images/5shgGKWD6FOsrDhF07nYZsMmMvv2-hja3zne.jpeg)
 Discover the importance of lessons learned in project management, drawing insights from the book 'The Declassification Engine.'
 
-### [294. Conquer Work With The "One Channel" Method](https://hackernoon.com/conquer-work-with-the-one-channel-method-pu1z3uhx)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FeyIvVE8mJgNFgXJSQ5bh3EaBZXj1-ig2h3utq.jpeg?alt=media&token=6f16ac7e-c6c1-48ae-999b-a65a13565879)
-Tom works in the estimating department of a mid-sized plumbing contractor. As he walks in the door Tuesday morning, he gets hit with the following:
+### [288. A Guide to Measuring DevOps Mean Time to Recovery (MTTR)](https://hackernoon.com/a-guide-to-measuring-devops-mean-time-to-recovery-mttr)
+![](https://cdn.hackernoon.com/images/BjV1EHGAKkRon4HOuee3REIX49i2-gfe3pai.png)
+In this post, you'll discover what MTTR measures, why it's useful for industry research, some reasons it can mislead you, and more.
 
-### [295. Meeting Facilitation Best Practices - 7 Essential Tips for Success](https://hackernoon.com/meeting-facilitation-best-practices-7-essential-tips-for-success)
+### [289. How Agencies Approach Software Development](https://hackernoon.com/how-agencies-approach-software-development-gd473yzv)
+![](https://cdn.hackernoon.com/images/bn1703y1u.jpg)
+If you decide to outsource the development of the project, you must understand the specifics of this format of cooperation with the agency. You cannot fully control the “inner kitchen” of the project creation, will it be a startup or software for a large enterprise. But this is not necessary, as experienced agencies ensure the transparency and continuity of all work processes. They maintain constant communication with the client and resolve issues as they become available.
+
+### [290. Meeting Facilitation Best Practices - 7 Essential Tips for Success](https://hackernoon.com/meeting-facilitation-best-practices-7-essential-tips-for-success)
 ![](https://cdn.hackernoon.com/images/ohdIty7awsRdteW8jwCdiMEUw3l2-nj83bfx.jpeg)
 A detailed guide on best practices for online and offline meetings facilitation within project management
 
-### [296. Be The Person Who Lifts Your Team Up, Please](https://hackernoon.com/be-the-person-who-lifts-your-team-up-ck10365z)
-![](https://cdn.hackernoon.com/images/i4bx362w.jpg)
-I always ask myself this question — What is a good developer?
+### [291. Project Management Mastery: 3 Tips for The Well Rounded Developer](https://hackernoon.com/project-management-mastery-3-tips-for-the-well-rounded-developer-h02f35z3)
+![](https://cdn.hackernoon.com/images/HGlNWMAdaFXja0kPGXrfiga4nIq2-tje29z3.jpeg)
+As a developer, you need to do more than ship code: you must deliver consistently, on time, and keep people updated. Check out these 3 project management tips.
 
-### [297. Product Manager: The Visionary Of Multiple Responsibilities](https://hackernoon.com/product-manager-the-visionary-of-multiple-responsibilities-f0r3znl)
-![](https://cdn.hackernoon.com/drafts/yiy3zuw.png)
-PM is not just a very important person from the C-suite. They play a crucial role in the live cycle of any product of the company and they are really supposed to wear suits, but they don’t. Because product managers are responsible not just for the technical side of the product, but of its heart and soul. The main difference of PM from any management position is the necessity to be involved in the product creation directly. The manager is not about producing, but about understanding the techniques and showing the direction for all the teams, as the PM should have the final image of the product.
+### [292. Growing Your Construction Business? There’s an App for That.](https://hackernoon.com/growing-your-construction-business-theres-an-app-for-that-p52k3u39)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1PVS6gQtSGXzy9aEAh63s8vKA1u1-b52d3uo6.jpeg?alt=media&token=c5431310-6924-45aa-8712-dfe71303c7da)
+Thanks to modern technology, it’s possible to update blueprints, create and sign contracts, and care for your construction workers from your smartphone. To help take your company to the next level, check out these top construction apps.  
 
-### [298. How To Be More Productive with Pomodoro Technique and Google Calendar](https://hackernoon.com/how-to-be-more-productive-with-pomodoro-technique-and-google-calendar-qo2b356d)
-![](https://cdn.hackernoon.com/images/JiJqSkXYqqQ8l52FX4InxhBTBSn1-8l3p27n2.jpeg)
-I devised a few ways to keep track of my time and to maintain focus during the “new-normal” (as they say) WFH days . Thought maybe it might be useful 
+### [293. Prioritising Security Vulnerabilities with CVSS 3.1 [An Overview]](https://hackernoon.com/prioritising-security-vulnerabilities-with-cvss-31-an-overview-gm6832tq)
+![](https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+With thousands of security vulnerabilities reported each month in products ranging from hardware devices to firmware to popular software apps, how does one prioritise what needs the most attention? From a business and project management perspective, it makes sense to, first and foremost, allocate engineering and/or risk assessment resources to the most severe vulnerabilities that need immediate patching. 
 
-### [299. 20 Amazingly Simple Ways To Be More Productive And GTD](https://hackernoon.com/20-amazingly-simple-ways-to-be-more-productive-and-gtd-8ik3trz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV9J0kJWT15dwSuG3CLQTn9lZjeE3-ocw3tm1.jpeg?alt=media&token=5ca5c4b4-addf-4b8f-809e-9756bc81e398)
-From the desk of a brilliant weirdo #1:
+### [294. The Human Factor : Why Your Processes Are Bound to Fail](https://hackernoon.com/the-human-factor-why-your-processes-are-bound-to-fail)
+![](https://cdn.hackernoon.com/images/7YvHL3ENPXaPCMItFXxed30R6de2-tr93jcf.jpeg)
+When the outcome of a process is negative and deviates from its intended plan, it’s the process, not people that should be blamed
 
-### [300. 5 Engineering Mistakes That Can Kill Your Startup](https://hackernoon.com/5-engineering-mistakes-that-can-kill-your-startup-8vd930st)
-![](https://cdn.hackernoon.com/drafts/92cp30fw.png)
-Starting a business is already difficult enough, launching a startup can be even more challenging due to the fast environment, pressure from investors, etc. As a small business, you need to manage a set of complex operations and because of this, it's no wonder that a lot of startups fail.
+### [295. Conquer Work With The "One Channel" Method](https://hackernoon.com/conquer-work-with-the-one-channel-method-pu1z3uhx)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FeyIvVE8mJgNFgXJSQ5bh3EaBZXj1-ig2h3utq.jpeg?alt=media&token=6f16ac7e-c6c1-48ae-999b-a65a13565879)
+Tom works in the estimating department of a mid-sized plumbing contractor. As he walks in the door Tuesday morning, he gets hit with the following:
 
-### [301. How I Curate Experiences For the Web - Interview with Noonies Nominee Marvin Kweyu](https://hackernoon.com/how-i-curate-experiences-for-the-web-interview-with-noonies-nominee-marvin-kweyu)
+### [296. How I Curate Experiences For the Web - Interview with Noonies Nominee Marvin Kweyu](https://hackernoon.com/how-i-curate-experiences-for-the-web-interview-with-noonies-nominee-marvin-kweyu)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-rb93ptb.jpeg)
 
 
-### [302. 3 Ways Team-Love Impacts the Bottomline and How to Cultivate It](https://hackernoon.com/3-ways-team-love-impacts-the-bottomline-and-how-to-cultivate-it)
-![](https://cdn.hackernoon.com/images/WFVPZ5KmoTYBOzQRwAKDphr4AaG2-yq039p6.jpeg)
-These little-known, scientifically proven customer retention strategies ALWAYS work.
+### [297. Be The Person Who Lifts Your Team Up, Please](https://hackernoon.com/be-the-person-who-lifts-your-team-up-ck10365z)
+![](https://cdn.hackernoon.com/images/i4bx362w.jpg)
+I always ask myself this question — What is a good developer?
 
-### [303. What if I got Hit by a Bus? – Taking Care of the Code You Created](https://hackernoon.com/what-if-i-got-hit-by-a-bus-taking-care-of-the-code-you-created-wi363tez)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-pu2v3ty3.jpeg?alt=media&token=c81e5e49-bd3c-4966-896b-85a0c593ef19)
-You, and you alone managed to birth your solution, despite the ambitious deadlines and resource constraints. The solution works - it’s standing tall on its own, but you know that it is but a gentle gust of wind away from needing your delicate and nuanced maintenance. 
+### [298. Product Manager: The Visionary Of Multiple Responsibilities](https://hackernoon.com/product-manager-the-visionary-of-multiple-responsibilities-f0r3znl)
+![](https://cdn.hackernoon.com/drafts/yiy3zuw.png)
+PM is not just a very important person from the C-suite. They play a crucial role in the live cycle of any product of the company and they are really supposed to wear suits, but they don’t. Because product managers are responsible not just for the technical side of the product, but of its heart and soul. The main difference of PM from any management position is the necessity to be involved in the product creation directly. The manager is not about producing, but about understanding the techniques and showing the direction for all the teams, as the PM should have the final image of the product.
 
-### [304. Basics Behind Building Remote Team](https://hackernoon.com/basics-behind-building-remote-team-gt1a3usf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FknPQS2nG1RMxLT7kgFX2ZTy60HZ2-syn3uok.webp?alt=media&token=30f99bd3-422d-4344-adf2-018573fa2591)
-Many remote team management theories offer the following model structure. It starts with:
+### [299. How To Be More Productive with Pomodoro Technique and Google Calendar](https://hackernoon.com/how-to-be-more-productive-with-pomodoro-technique-and-google-calendar-qo2b356d)
+![](https://cdn.hackernoon.com/images/JiJqSkXYqqQ8l52FX4InxhBTBSn1-8l3p27n2.jpeg)
+I devised a few ways to keep track of my time and to maintain focus during the “new-normal” (as they say) WFH days . Thought maybe it might be useful 
 
-### [305. Transforming Your Product Development Process with Design Thinking](https://hackernoon.com/transforming-your-product-development-process-with-design-thinking)
-![](https://cdn.hackernoon.com/images/EAoWSsrWAFZTtjOYXmIuIN8lRBI2-g292hye.jpeg)
-Regardless of the nature of your business and the various factors that contribute to its success, design thinking is vital for continued success.
-
-### [306. 5 Proven Ways To Speed Up Digital Product Development](https://hackernoon.com/5-proven-ways-to-speed-up-digital-product-development-1w3j31c5)
+### [300. 5 Proven Ways To Speed Up Digital Product Development](https://hackernoon.com/5-proven-ways-to-speed-up-digital-product-development-1w3j31c5)
 ![](https://cdn.hackernoon.com/images/LVjWpVqeLfXgltNOyKvSVtlbbfh2-5l4s313c.jpeg)
 The faster you can develop a product, the sooner it gets to market and the more sales you make. Your brand improves its market position and credibility by beating competitors to the punch.
 
-### [307. 15 Stories To Learn About Kanban](https://hackernoon.com/15-stories-to-learn-about-kanban)
-![](https://cdn.hackernoon.com/images/github/kanban-843.png)
-Learn everything you need to know about Kanban via these 15 free HackerNoon stories.
+### [301. 20 Amazingly Simple Ways To Be More Productive And GTD](https://hackernoon.com/20-amazingly-simple-ways-to-be-more-productive-and-gtd-8ik3trz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV9J0kJWT15dwSuG3CLQTn9lZjeE3-ocw3tm1.jpeg?alt=media&token=5ca5c4b4-addf-4b8f-809e-9756bc81e398)
+From the desk of a brilliant weirdo #1:
 
-### [308. Software Engineering Architectural Patterns Part1](https://hackernoon.com/software-engineering-architectural-patterns)
-![](https://cdn.hackernoon.com/images/SWuYxmBe5WPlAjznGj5Fb05Thnl1-gx12ifs.jpeg)
-Choosing the right architecture for your project. Understanding common software architectural patterns that scale.
+### [302. Domain Driven Design - The Basics](https://hackernoon.com/domain-driven-design-the-basics)
+![](https://cdn.hackernoon.com/images/B0yttwQN7Age62vgX3eILr797wx1-5v33d08.jpeg)
+DDD gives us a framework for a way of aligning business with technology throughout the whole project lifecycle. 
 
-### [309. Some Motivation to Finish That Hackathon Project You’ve Been Sitting on](https://hackernoon.com/some-motivation-to-finish-that-hackathon-project-youve-been-sitting-on)
+### [303. Transforming Your Product Development Process with Design Thinking](https://hackernoon.com/transforming-your-product-development-process-with-design-thinking)
+![](https://cdn.hackernoon.com/images/EAoWSsrWAFZTtjOYXmIuIN8lRBI2-g292hye.jpeg)
+Regardless of the nature of your business and the various factors that contribute to its success, design thinking is vital for continued success.
+
+### [304. What if I got Hit by a Bus? – Taking Care of the Code You Created](https://hackernoon.com/what-if-i-got-hit-by-a-bus-taking-care-of-the-code-you-created-wi363tez)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-pu2v3ty3.jpeg?alt=media&token=c81e5e49-bd3c-4966-896b-85a0c593ef19)
+You, and you alone managed to birth your solution, despite the ambitious deadlines and resource constraints. The solution works - it’s standing tall on its own, but you know that it is but a gentle gust of wind away from needing your delicate and nuanced maintenance. 
+
+### [305. Basics Behind Building Remote Team](https://hackernoon.com/basics-behind-building-remote-team-gt1a3usf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FknPQS2nG1RMxLT7kgFX2ZTy60HZ2-syn3uok.webp?alt=media&token=30f99bd3-422d-4344-adf2-018573fa2591)
+Many remote team management theories offer the following model structure. It starts with:
+
+### [306. 5 Engineering Mistakes That Can Kill Your Startup](https://hackernoon.com/5-engineering-mistakes-that-can-kill-your-startup-8vd930st)
+![](https://cdn.hackernoon.com/drafts/92cp30fw.png)
+Starting a business is already difficult enough, launching a startup can be even more challenging due to the fast environment, pressure from investors, etc. As a small business, you need to manage a set of complex operations and because of this, it's no wonder that a lot of startups fail.
+
+### [307. Some Motivation to Finish That Hackathon Project You’ve Been Sitting on](https://hackernoon.com/some-motivation-to-finish-that-hackathon-project-youve-been-sitting-on)
 ![](https://cdn.hackernoon.com/images/f4c66IeDvHT3cd4pINIHZJnqyCG2-m6a3rl3.gif.webp)
 How many people here have a project idea or a WIP project? ✋ Hackathons are a constant stream of motivation and resources for building projects to the end.
 
-### [310. Evidence-Based Management in Business: Will it make a difference?](https://hackernoon.com/evidence-based-management-in-business-will-it-make-a-difference)
+### [308. Evidence-Based Management in Business: Will it make a difference?](https://hackernoon.com/evidence-based-management-in-business-will-it-make-a-difference)
 ![](https://cdn.hackernoon.com/images/4heWOm7oGwNwUUrXGb8YLf1kc4P2-f083zvq.jpeg)
 Discover the benefits of evidence-based management in business, understand its impact, challenges, and how to transition to evidence-based decision-making.
 
-### [311. From Outputs to Outcomes](https://hackernoon.com/from-outputs-to-outcomes)
+### [309. 3 Ways Team-Love Impacts the Bottomline and How to Cultivate It](https://hackernoon.com/3-ways-team-love-impacts-the-bottomline-and-how-to-cultivate-it)
+![](https://cdn.hackernoon.com/images/WFVPZ5KmoTYBOzQRwAKDphr4AaG2-yq039p6.jpeg)
+These little-known, scientifically proven customer retention strategies ALWAYS work.
+
+### [310. 15 Stories To Learn About Kanban](https://hackernoon.com/15-stories-to-learn-about-kanban)
+![](https://cdn.hackernoon.com/images/github/kanban-843.png)
+Learn everything you need to know about Kanban via these 15 free HackerNoon stories.
+
+### [311. Software Engineering Architectural Patterns Part1](https://hackernoon.com/software-engineering-architectural-patterns)
+![](https://cdn.hackernoon.com/images/SWuYxmBe5WPlAjznGj5Fb05Thnl1-gx12ifs.jpeg)
+Choosing the right architecture for your project. Understanding common software architectural patterns that scale.
+
+### [312. From Outputs to Outcomes](https://hackernoon.com/from-outputs-to-outcomes)
 ![](https://cdn.hackernoon.com/images/4heWOm7oGwNwUUrXGb8YLf1kc4P2-hb83avv.jpeg)
 How to move from outputs to outcomes. The mindset information that is required to do such a shift is uncomfortable; how do you navigate this change?
 
-### [312. A Simple Guide To Creating Your First Mind Map](https://hackernoon.com/a-simple-guide-to-creating-your-first-mind-map)
+### [313. A Simple Guide To Creating Your First Mind Map](https://hackernoon.com/a-simple-guide-to-creating-your-first-mind-map)
 ![](https://cdn.hackernoon.com/images/bL5w3nZcVgV4jXbNfplR6fAoUCB2-ze0376e.jpeg)
 Mind mapping is a diagram that helps you organize your thoughts. Mind maps can be used for brainstorming, studying, planning, and writing.
 
 
-### [313. On Bloom's Taxonomy and Why Agile Training is Not Enough](https://hackernoon.com/on-blooms-taxonomy-and-why-agile-training-is-not-enough-du8m3xo4)
+### [314. On Bloom's Taxonomy and Why Agile Training is Not Enough](https://hackernoon.com/on-blooms-taxonomy-and-why-agile-training-is-not-enough-du8m3xo4)
 ![](https://cdn.hackernoon.com/images/3ep38gm.jpg)
 
 
-### [314. Why Managers Should Understand How Developers Work](https://hackernoon.com/why-managers-should-understand-how-developers-work-c4244zmv)
+### [315. Why Managers Should Understand How Developers Work](https://hackernoon.com/why-managers-should-understand-how-developers-work-c4244zmv)
 ![](https://cdn.hackernoon.com/drafts/2d1w4zvk.png)
 As managers, we easily get frustrated with developers. Maybe they can't build a certain feature; or a bug fix you deemed critical to your business is too far down the backlog for comfort. 
 
-### [315. Domain Driven Design - The Basics](https://hackernoon.com/domain-driven-design-the-basics)
-![](https://cdn.hackernoon.com/images/B0yttwQN7Age62vgX3eILr797wx1-5v33d08.jpeg)
-DDD gives us a framework for a way of aligning business with technology throughout the whole project lifecycle. 
+### [316. Applying Agile Framework To Data Science Projects [A How-To Guide]](https://hackernoon.com/applying-agile-methodology-to-data-science-projects-a-how-to-guide-b26332do)
+![](https://cdn.hackernoon.com/images/6x213yz0.jpg)
+Agile principles and values can be applied to the way you approach data science projects
 
-### [316. Feature Acceptance Criteria: Problems And Solutions](https://hackernoon.com/feature-acceptance-criteria-problems-and-solutions-7i1x3ukl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-iu5v3uow.png?alt=media&token=2d825e7a-f371-4c42-8c45-16a28b059401)
-What problems can arise and how to avoid them
-
-### [317. Yes, You Still Need a Ticketing System For Tech Support](https://hackernoon.com/yes-you-still-need-a-ticketing-system-for-tech-support-nfp3xsl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY8OnbrBlePVzFHizwYeYKtHAbMn1-3p2228nd.jpeg?alt=media&token=67e108a5-f3da-40f9-a834-8eff82bae026)
-Over the years, I have been through a number of I.T. shops. Sometimes supporting users was a big part and other times it was not.  One thing which was consistent was the enormous amounts of non-tech work support could generate. Without some kind of mechanism for funneling work into the I.T. department, it can become quite chaotic. Additionally, there can be undue stress for staff prioritizing things. Often circumstances force staff to use an arbitrary weighting of the severity of the issue, the title of the person reporting it and the history of ID-ten-T errors generated from the source.  This is obviously a less than ideal way to prioritize work.
+### [317. Future Research in XP Modeling: A Call for Self-Learning Models](https://hackernoon.com/future-research-in-xp-modeling-a-call-for-self-learning-models)
+![](https://cdn.hackernoon.com/images/a-futuristic-tech-lab-sketch-color-phq7y7fe6vc4s9o0ztgk8w4l.png)
+Can a Bayesian Network model accurately predict an XP project's finish time?
 
 ### [318. How to Unlock Project Success: Using the FATE Framework to Master Task Estimation](https://hackernoon.com/how-to-unlock-project-success-using-the-fate-framework-to-master-task-estimation)
 ![](https://cdn.hackernoon.com/images/OaKbDySLt9XUEwmFIQVq3BBEYot1-qd834mi.jpeg)
 Task estimation is an art that every front-end engineer and engineering manager should master. With a well-structured framework that covers F.A.T.E (Feedback, A
 
-### [319. How Project Managers Can Build the Most Productive Remote Teams ](https://hackernoon.com/this-companys-ways-to-build-the-most-productive-remote-team-as-a-project-manager-5a5631t5)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-4xj31r4.jpeg)
-Just five years ago, remote work was considered to be the way of the future, but only the distant future. Most specialized web publications predicted a rise in the popularity of telecommuting, but only in ten years’ time. However, this future arrived much earlier.
+### [319. Feature Acceptance Criteria: Problems And Solutions](https://hackernoon.com/feature-acceptance-criteria-problems-and-solutions-7i1x3ukl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-iu5v3uow.png?alt=media&token=2d825e7a-f371-4c42-8c45-16a28b059401)
+What problems can arise and how to avoid them
 
-### [320. Future Research in XP Modeling: A Call for Self-Learning Models](https://hackernoon.com/future-research-in-xp-modeling-a-call-for-self-learning-models)
-![](https://cdn.hackernoon.com/images/a-futuristic-tech-lab-sketch-color-phq7y7fe6vc4s9o0ztgk8w4l.png)
-Can a Bayesian Network model accurately predict an XP project's finish time?
+### [320. Yes, You Still Need a Ticketing System For Tech Support](https://hackernoon.com/yes-you-still-need-a-ticketing-system-for-tech-support-nfp3xsl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY8OnbrBlePVzFHizwYeYKtHAbMn1-3p2228nd.jpeg?alt=media&token=67e108a5-f3da-40f9-a834-8eff82bae026)
+Over the years, I have been through a number of I.T. shops. Sometimes supporting users was a big part and other times it was not.  One thing which was consistent was the enormous amounts of non-tech work support could generate. Without some kind of mechanism for funneling work into the I.T. department, it can become quite chaotic. Additionally, there can be undue stress for staff prioritizing things. Often circumstances force staff to use an arbitrary weighting of the severity of the issue, the title of the person reporting it and the history of ID-ten-T errors generated from the source.  This is obviously a less than ideal way to prioritize work.
 
 ### [321. How to Build Successful Communication with Clients](https://hackernoon.com/how-to-build-successful-communication-with-clients-2e1s3udq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-ma93ulh.jpeg?alt=media&token=454c03ab-e971-461e-9a75-954bb539f7e9)
 The work of IT teams is done for the people who are paying to them, i.e. clients. Even if you are working on an internal product, everything has its customer and buyer.
 
-### [322. Ultimate Guide To Effective Team Collaboration](https://hackernoon.com/ultimate-guide-to-effective-team-collaboration-c11235w2)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV9J0kJWT15dwSuG3CLQTn9lZjeE3-q22c314j.png?alt=media&token=db7b92a4-13d5-468b-a052-dbf8e27f0e19)
-If you struggle with team collaboration, then this article will show you how to use 8 powerful team collaboration strategies to put your team on the same page.
-
-### [323. 8 Tips To Reinvent Your Project Meetings And Win](https://hackernoon.com/8-tips-to-reinvent-your-project-meetings-and-win-98m3w0k)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBnMb3F4vjTb8PuRduWJNBwABhlb2-uv1x3u03.gif?alt=media&token=d0e8e4b3-89cf-401c-a91b-1d09be6b9209)
-In a typical project meeting most attendees do not contribute but attend just to hear the conversation. A large amount of developer time is wasted. This drains resources from the project and can create a scheduling nightmare.
-
-### [324. Applying Agile Framework To Data Science Projects [A How-To Guide]](https://hackernoon.com/applying-agile-methodology-to-data-science-projects-a-how-to-guide-b26332do)
-![](https://cdn.hackernoon.com/images/6x213yz0.jpg)
-Agile principles and values can be applied to the way you approach data science projects
-
-### [325. Effective Time-Saving Advice for Small Businesses](https://hackernoon.com/effective-time-saving-advice-for-small-businesses-em1731n5)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-w1k31uv.jpeg)
-An increase in productivity will almost always translate to an increase in revenue for the organization. These tips can help your business save time.
-
-### [326. The Only 4 Things You Need To Know For Great One-on-Ones](https://hackernoon.com/the-only-4-things-you-need-to-know-for-great-one-on-ones-5f3e324z)
-![](https://cdn.hackernoon.com/images/d7qi3yx7.jpg)
-Seems like everything has been written about effective one-on-one meetings. There are classes available, workshops suggesting ultimate know-hows, and experts offering their services to corporate and HR managers.
-
-### [327. How Collaborative Learning Can Help You Achieve Better Results](https://hackernoon.com/how-collaborative-learning-can-help-your-business-achieve-better-results-g9w32cc)
-![](https://cdn.hackernoon.com/drafts/g785328c.png)
-Collaborative learning is an approach based on the teamwork of the employees' group to achieve a joint purpose. Such an approach allows one to learn from the experience of others, helps to generate more ideas, as well as establishes a solid rapport within a company.
-
-### [328. Just Enough Testing: How Many Automated Tests Should We Write?](https://hackernoon.com/just-enough-testing-how-many-automated-tests-should-we-write)
+### [322. Just Enough Testing: How Many Automated Tests Should We Write?](https://hackernoon.com/just-enough-testing-how-many-automated-tests-should-we-write)
 ![](https://cdn.hackernoon.com/images/FDSLAUqwdlOzoGiZjrvaUOs8iqH2-ak03qjg.jpeg)
 How many automated tests should you write? Just Enough. Just Enough Testing balances the need to ship with the quality your customers deserve.
 
-### [329. To All Project Managers: How to Score with Technical People](https://hackernoon.com/to-all-project-managers-how-to-score-with-technical-people-u87h34bz)
-![](https://cdn.hackernoon.com/drafts/3m8w341a.png)
-Photo by Perry Grone on Unsplash
+### [323. How Project Managers Can Build the Most Productive Remote Teams ](https://hackernoon.com/this-companys-ways-to-build-the-most-productive-remote-team-as-a-project-manager-5a5631t5)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-4xj31r4.jpeg)
+Just five years ago, remote work was considered to be the way of the future, but only the distant future. Most specialized web publications predicted a rise in the popularity of telecommuting, but only in ten years’ time. However, this future arrived much earlier.
 
-### [330. Why You Should Use Lead Time Instead of Cycle Time](https://hackernoon.com/why-you-should-use-lead-time-instead-of-cycle-time-z63t3202)
-![](https://cdn.hackernoon.com/drafts/i21232tq.png)
-Our concepts of Lead Time and Cycle Time came from the field of Operations Management and Production Engineering. As such, I think it’s beneficial to all of us to maintain coherent with them and use the same semantics in Software Engineering Management as well.
+### [324. 8 Tips To Reinvent Your Project Meetings And Win](https://hackernoon.com/8-tips-to-reinvent-your-project-meetings-and-win-98m3w0k)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBnMb3F4vjTb8PuRduWJNBwABhlb2-uv1x3u03.gif?alt=media&token=d0e8e4b3-89cf-401c-a91b-1d09be6b9209)
+In a typical project meeting most attendees do not contribute but attend just to hear the conversation. A large amount of developer time is wasted. This drains resources from the project and can create a scheduling nightmare.
+
+### [325. Ultimate Guide To Effective Team Collaboration](https://hackernoon.com/ultimate-guide-to-effective-team-collaboration-c11235w2)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV9J0kJWT15dwSuG3CLQTn9lZjeE3-q22c314j.png?alt=media&token=db7b92a4-13d5-468b-a052-dbf8e27f0e19)
+If you struggle with team collaboration, then this article will show you how to use 8 powerful team collaboration strategies to put your team on the same page.
+
+### [326. Effective Time-Saving Advice for Small Businesses](https://hackernoon.com/effective-time-saving-advice-for-small-businesses-em1731n5)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-w1k31uv.jpeg)
+An increase in productivity will almost always translate to an increase in revenue for the organization. These tips can help your business save time.
+
+### [327. The Only 4 Things You Need To Know For Great One-on-Ones](https://hackernoon.com/the-only-4-things-you-need-to-know-for-great-one-on-ones-5f3e324z)
+![](https://cdn.hackernoon.com/images/d7qi3yx7.jpg)
+Seems like everything has been written about effective one-on-one meetings. There are classes available, workshops suggesting ultimate know-hows, and experts offering their services to corporate and HR managers.
+
+### [328. How Collaborative Learning Can Help You Achieve Better Results](https://hackernoon.com/how-collaborative-learning-can-help-your-business-achieve-better-results-g9w32cc)
+![](https://cdn.hackernoon.com/drafts/g785328c.png)
+Collaborative learning is an approach based on the teamwork of the employees' group to achieve a joint purpose. Such an approach allows one to learn from the experience of others, helps to generate more ideas, as well as establishes a solid rapport within a company.
+
+### [329. Project Management Styles: Oppressive, Aloof, and Active - Which Is the Best?](https://hackernoon.com/project-management-styles-oppressive-aloof-and-active-which-is-the-best)
+![](https://cdn.hackernoon.com/images/leadership-abstract-tgfzp6jcn2gnc0ofjvrwee3c.png)
+What is your style of project management? 
+
+### [330. The Noonification: The Bitcoin Mining Writing Contest by GoMining  (1/14/2024)](https://hackernoon.com/1-14-2024-noonification)
+![](https://cdn.hackernoon.com/images/noonification_148_v88y9vuw3picq8zb9dfd03cr.png)
+1/14/2024: Top 5 stories on the HackerNoon homepage!
 
 ### [331. How To Recruit Great Scrum Masters](https://hackernoon.com/how-to-recruit-great-scrum-masters-4wb43yu6)
 ![](https://cdn.hackernoon.com/drafts/a6n23ygs.png)
 Finding a Scrum Master is simple and complex. There are plenty of people out there who call themselves “Scrum Masters”, but how do you know if the person you are hiring really is a great Scrum Master?
 
-### [332. Why Developers Can’t Just Temporarily Store their ‘Grasp’ ](https://hackernoon.com/developers-cant-just-temporarily-store-their-grasp-6g153c9n)
-![](https://cdn.hackernoon.com/drafts/hh1hs3csv.png)
-Let’s imagine you are paid to write emails.
-
-### [333. 148 Stories To Learn About Team Management](https://hackernoon.com/148-stories-to-learn-about-team-management)
+### [332. 148 Stories To Learn About Team Management](https://hackernoon.com/148-stories-to-learn-about-team-management)
 ![](https://cdn.hackernoon.com/images/github/team-management-908.png)
 Learn everything you need to know about Team Management via these 148 free HackerNoon stories.
 
-### [334. The Noonification: The Bitcoin Mining Writing Contest by GoMining  (1/14/2024)](https://hackernoon.com/1-14-2024-noonification)
-![](https://cdn.hackernoon.com/images/noonification_148_v88y9vuw3picq8zb9dfd03cr.png)
-1/14/2024: Top 5 stories on the HackerNoon homepage!
+### [333. To All Project Managers: How to Score with Technical People](https://hackernoon.com/to-all-project-managers-how-to-score-with-technical-people-u87h34bz)
+![](https://cdn.hackernoon.com/drafts/3m8w341a.png)
+Photo by Perry Grone on Unsplash
 
-### [335. Seven Expert Tips For Managers To Support Their Remote Teams](https://hackernoon.com/seven-expert-tips-for-managers-to-support-their-remote-teams-a06c3vpz)
+### [334. Why You Should Use Lead Time Instead of Cycle Time](https://hackernoon.com/why-you-should-use-lead-time-instead-of-cycle-time-z63t3202)
+![](https://cdn.hackernoon.com/drafts/i21232tq.png)
+Our concepts of Lead Time and Cycle Time came from the field of Operations Management and Production Engineering. As such, I think it’s beneficial to all of us to maintain coherent with them and use the same semantics in Software Engineering Management as well.
+
+### [335. Why Developers Can’t Just Temporarily Store their ‘Grasp’ ](https://hackernoon.com/developers-cant-just-temporarily-store-their-grasp-6g153c9n)
+![](https://cdn.hackernoon.com/drafts/hh1hs3csv.png)
+Let’s imagine you are paid to write emails.
+
+### [336. Seven Expert Tips For Managers To Support Their Remote Teams](https://hackernoon.com/seven-expert-tips-for-managers-to-support-their-remote-teams-a06c3vpz)
 ![](https://cdn.hackernoon.com/drafts/dv383yu3.png)
 “The best executive is the one who has sense enough to pick good men to do what he wants done, and self-restraint to keep from meddling with them while they do it.” – Theodore Roosevelt 
-
-### [336. Project Management Styles: Oppressive, Aloof, and Active - Which Is the Best?](https://hackernoon.com/project-management-styles-oppressive-aloof-and-active-which-is-the-best)
-![](https://cdn.hackernoon.com/images/leadership-abstract-tgfzp6jcn2gnc0ofjvrwee3c.png)
-What is your style of project management? 
 
 ### [337. Navigating the Challenges of Cross-Functional Collaboration: Strategies for Success](https://hackernoon.com/navigating-the-challenges-of-cross-functional-collaboration-strategies-for-success)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-fs93nie.jpeg)
 I explore the challenges of cross-functional collaboration and how we can overcome our human limitations to improve team synchrony, efficiency, and performance
 
-### [338. Scaling a Startup: Why Ops Skills and Project Management Matter More Than You Thin](https://hackernoon.com/scaling-a-startup-why-ops-skills-and-project-management-matter-more-than-you-thin)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-mu020b7.jpeg)
-Ops is the connective tissue between product, sales, and customers.
-
-### [339. "I Want To Make The World a Better Place" - Songtham Tungkitkancharoen, 2020 Noonie Nominee](https://hackernoon.com/i-want-to-make-the-world-a-better-place-songtham-tungkitkancharoen-2020-noonie-nominee-en1r3u1w)
+### [338. "I Want To Make The World a Better Place" - Songtham Tungkitkancharoen, 2020 Noonie Nominee](https://hackernoon.com/i-want-to-make-the-world-a-better-place-songtham-tungkitkancharoen-2020-noonie-nominee-en1r3u1w)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-ukz3u6p.jpeg?alt=media&token=5b63628c-50b0-4993-b4b7-fa660b29197f)
 “In these unprecedented times…” People build unprecedented products, and contribute to the internet in unprecedented ways. 
+
+### [339. Scaling a Startup: Why Ops Skills and Project Management Matter More Than You Thin](https://hackernoon.com/scaling-a-startup-why-ops-skills-and-project-management-matter-more-than-you-thin)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-mu020b7.jpeg)
+Ops is the connective tissue between product, sales, and customers.
 
 ### [340. What Being an Army Ranger Taught Me About Being a Project Manager](https://hackernoon.com/what-being-an-army-ranger-taught-me-about-being-a-project-manager-4m133eby)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlxnQVxKMRMNbVVtkibKU3fLdV9X2-dpd3wzv.jpeg?alt=media&token=df622b0f-2273-4dd6-a420-b1821e27801c)
 The leadership I’ve learned through life could be summed up and put on the front of a t-shirt, “95% of the leadership skills I learned, I learned in the Army.” If that saying isn't already a thing: ™️. Though I left the U.S. Army a little over 20 years ago, I still stand by that statement.
 
-### [341. Don’t Tell Your Remote Employees when to Work](https://hackernoon.com/dont-tell-your-remote-employees-when-to-work-087r3yov)
-![](https://images.unsplash.com/photo-1565843714144-d5a3292ae82d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-“Core hours” defeat the purpose of working — but what about ensuring that work is done?
-
-### [342. Learning Management: My Adventure as an Acting Delivery Manager](https://hackernoon.com/learning-management-my-adventure-as-an-acting-delivery-manager)
+### [341. Learning Management: My Adventure as an Acting Delivery Manager](https://hackernoon.com/learning-management-my-adventure-as-an-acting-delivery-manager)
 ![](https://cdn.hackernoon.com/images/Vjl5SxC4sMN7g6rVkGSn3fPf1hY2-i403cni.jpeg)
 Taking on a management role in engineering may be daunting at first. Here are some tips for getting through the initial period, based on my experience.
 
-### [343. The blockchain missing link in remote project management.](https://hackernoon.com/the-blockchain-missing-link-in-remote-project-management-oz9i3ywr)
-![](https://images.unsplash.com/photo-1526378800651-c32d170fe6f8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Disclaimer: the author has no vested interest in the brands mentioned here.
+### [342. Don’t Tell Your Remote Employees when to Work](https://hackernoon.com/dont-tell-your-remote-employees-when-to-work-087r3yov)
+![](https://images.unsplash.com/photo-1565843714144-d5a3292ae82d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+“Core hours” defeat the purpose of working — but what about ensuring that work is done?
 
-### [344. Security For PMs: How-To [Part II]](https://hackernoon.com/security-for-pms-how-to-part-ii-oa1j3tm7)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-4jv280v.jpeg?alt=media&token=1335d196-7ff7-41b9-8ea3-8684b03598a3)
-In the first part of this article, we have talked about the ways in which your customers may check if your statements of the security matter in your company line up with reality. Now let us focus on how to ensure that your security practices are actually working and how to avoid the numerous pitfalls on this way.
-
-### [345. Personal Growth Hack: How to Get the Most Out of Your Project Shortcomings](https://hackernoon.com/personal-growth-hack-how-to-get-the-most-out-of-your-project-shortcomings)
+### [343. Personal Growth Hack: How to Get the Most Out of Your Project Shortcomings](https://hackernoon.com/personal-growth-hack-how-to-get-the-most-out-of-your-project-shortcomings)
 ![](https://cdn.hackernoon.com/images/pl8fpkWVhWNuPZBdJbW3A3zNmTZ2-8g93rh1.jpeg)
 As project execution becomes more transactional, with expected outcomes, we might run the risk of not documenting the lessons learned. 
 
-### [346. Inside the Mind of a Project Manager](https://hackernoon.com/inside-the-mind-of-a-project-manager)
-![](https://cdn.hackernoon.com/images/TAcCKU24TqNqpYfO6fsbznnOcgj2-zf93wuu.png)
-Here's how I have successfully managed hundreds of projects— software apps, simulations, board games, toys, books, video production, and more over 30 years.
+### [344. The blockchain missing link in remote project management.](https://hackernoon.com/the-blockchain-missing-link-in-remote-project-management-oz9i3ywr)
+![](https://images.unsplash.com/photo-1526378800651-c32d170fe6f8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Disclaimer: the author has no vested interest in the brands mentioned here.
 
-### [347. What You Should Have Asked Your Teachers About Underestimating Bullet Issues](https://hackernoon.com/what-you-should-have-asked-your-teachers-about-underestimating-bullet-issues-ke113win)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-ar1s3tic.gif?alt=media&token=752e7575-da74-4a1f-994a-5a93e448d061)
-Bullet issues… Each IT project has tasks of this type. They are small, simple, but once you forget about them, something gets killed suddenly.
+### [345. Security For PMs: How-To [Part II]](https://hackernoon.com/security-for-pms-how-to-part-ii-oa1j3tm7)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-4jv280v.jpeg?alt=media&token=1335d196-7ff7-41b9-8ea3-8684b03598a3)
+In the first part of this article, we have talked about the ways in which your customers may check if your statements of the security matter in your company line up with reality. Now let us focus on how to ensure that your security practices are actually working and how to avoid the numerous pitfalls on this way.
 
-### [348. The Discovery Phase Is Crucial To Your Software Development Project and Here's Why](https://hackernoon.com/the-discovery-phase-is-crucial-to-your-software-development-project-and-heres-why-1j8u33vo)
-![](https://cdn.hackernoon.com/images/dugj1lEIhVXz6onoRLIT1ewbNZ92-3j313vum.jpeg)
-Learn why the Discovery Phase is important and how you can benefit from such a preliminary comprehensive analysis.
-
-### [349. Masonry — An Approach You Should Try Out](https://hackernoon.com/masonry-an-approach-you-should-try-out)
+### [346. Masonry — An Approach You Should Try Out](https://hackernoon.com/masonry-an-approach-you-should-try-out)
 ![](https://cdn.hackernoon.com/images/0Dn1fVntPmf438jGfOaawWJ9WKE2-csb2nvo.jpeg)
 A bottom-up approach for project management and product management to visualize complex projects so that they can easily be completed by a team.
 
-### [350. A Guide to the Best Security Practices and Strategies for Remote IT teams](https://hackernoon.com/a-guide-to-the-best-security-practices-and-strategies-for-remote-it-teams-11243zk5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnNBsDYcbz7Q3NjFADx3aO9uycpy2-0er3w2t.jpeg?alt=media&token=f0640006-e9b6-4484-abfd-55afb008cb44)
-Today, the demand for remote IT teams is growing at a breakneck pace, and considering the recent COVID-19 outbreak that has led businesses into extreme work challenges reflecting the rise of engineering requirements. 
+### [347. 7 Ways to Manage Pull Requests](https://hackernoon.com/7-ways-to-manage-pull-requests-4p1f34oq)
+![](https://cdn.hackernoon.com/images/j7ce57oSWrfwN8rcM3ORLLe4XAC2-8o4c34zb.jpeg)
+Improve your team's pull request management system to ship faster, more often. 
 
-### [351. Tired of Converting Hours to Years? Here’s a Two-in-One Tool That’ll Save Your Sanity](https://hackernoon.com/tired-of-converting-hours-to-years-heres-a-two-in-one-tool-thatll-save-your-sanity)
+### [348. Inside the Mind of a Project Manager](https://hackernoon.com/inside-the-mind-of-a-project-manager)
+![](https://cdn.hackernoon.com/images/TAcCKU24TqNqpYfO6fsbznnOcgj2-zf93wuu.png)
+Here's how I have successfully managed hundreds of projects— software apps, simulations, board games, toys, books, video production, and more over 30 years.
+
+### [349. Tired of Converting Hours to Years? Here’s a Two-in-One Tool That’ll Save Your Sanity](https://hackernoon.com/tired-of-converting-hours-to-years-heres-a-two-in-one-tool-thatll-save-your-sanity)
 ![](https://cdn.hackernoon.com/images/GvSruODeVmfj6YXsD0rmDBkkmYG3-fr23a1f.png)
 Hours to years is a dead-simple, blazing-fast web app that does exactly what it says on the tin, saving you from writing yet another boilerplate function. 
 
-### [352. 7 Ways to Manage Pull Requests](https://hackernoon.com/7-ways-to-manage-pull-requests-4p1f34oq)
-![](https://cdn.hackernoon.com/images/j7ce57oSWrfwN8rcM3ORLLe4XAC2-8o4c34zb.jpeg)
-Improve your team's pull request management system to ship faster, more often. 
+### [350. What You Should Have Asked Your Teachers About Underestimating Bullet Issues](https://hackernoon.com/what-you-should-have-asked-your-teachers-about-underestimating-bullet-issues-ke113win)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-ar1s3tic.gif?alt=media&token=752e7575-da74-4a1f-994a-5a93e448d061)
+Bullet issues… Each IT project has tasks of this type. They are small, simple, but once you forget about them, something gets killed suddenly.
+
+### [351. The Discovery Phase Is Crucial To Your Software Development Project and Here's Why](https://hackernoon.com/the-discovery-phase-is-crucial-to-your-software-development-project-and-heres-why-1j8u33vo)
+![](https://cdn.hackernoon.com/images/dugj1lEIhVXz6onoRLIT1ewbNZ92-3j313vum.jpeg)
+Learn why the Discovery Phase is important and how you can benefit from such a preliminary comprehensive analysis.
+
+### [352. A Guide to the Best Security Practices and Strategies for Remote IT teams](https://hackernoon.com/a-guide-to-the-best-security-practices-and-strategies-for-remote-it-teams-11243zk5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnNBsDYcbz7Q3NjFADx3aO9uycpy2-0er3w2t.jpeg?alt=media&token=f0640006-e9b6-4484-abfd-55afb008cb44)
+Today, the demand for remote IT teams is growing at a breakneck pace, and considering the recent COVID-19 outbreak that has led businesses into extreme work challenges reflecting the rise of engineering requirements. 
 
 ### [353. Refactor Or Not To Refactor?](https://hackernoon.com/refactor-or-not-to-refactor-7316337b)
 ![](https://hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-kx6829bf.jpeg)
 It probably doesn't have an universal answer other than using case-by-case judgments
 
-### [354. Stop Introducing "Just Any" Software Into Your Business](https://hackernoon.com/stop-introducing-just-any-software-into-your-business-bw5p31ta)
-![](https://cdn.hackernoon.com/images/z9M5hpuJT2aIuz1hRgFK0yL9vBf2-7mf25m0.jpeg)
-To ensure that organizations have a cohesive approach to purchasing and introducing new tools, companies should standardize their software procurement process.
-
-### [355. "I Write Words And Code", Interview With Anthony Watson](https://hackernoon.com/i-write-words-and-code-interview-with-anthony-watson-xn293t7p)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-wn1r3twu.jpeg?alt=media&token=4c9bb7f9-0754-4ab0-a5d9-1b14ff549b1e)
-The 2020 #Noonies are here,and they are both much greener and much bigger than last year. 
-
-### [356. The Noonification: A Weekly Project Plan so Good You Will Want to Frame It (1/17/2023)](https://hackernoon.com/1-17-2023-noonification)
+### [354. The Noonification: A Weekly Project Plan so Good You Will Want to Frame It (1/17/2023)](https://hackernoon.com/1-17-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 1/17/2023: Top 5 stories on the Hackernoon homepage!
 
-### [357. Crucial Steps Towards Effective Problem Solving In The Workplace](https://hackernoon.com/crucial-steps-towards-effective-problem-solving-in-the-workplace-p61133x9)
+### [355. Stop Introducing "Just Any" Software Into Your Business](https://hackernoon.com/stop-introducing-just-any-software-into-your-business-bw5p31ta)
+![](https://cdn.hackernoon.com/images/z9M5hpuJT2aIuz1hRgFK0yL9vBf2-7mf25m0.jpeg)
+To ensure that organizations have a cohesive approach to purchasing and introducing new tools, companies should standardize their software procurement process.
+
+### [356. "I Write Words And Code", Interview With Anthony Watson](https://hackernoon.com/i-write-words-and-code-interview-with-anthony-watson-xn293t7p)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-wn1r3twu.jpeg?alt=media&token=4c9bb7f9-0754-4ab0-a5d9-1b14ff549b1e)
+The 2020 #Noonies are here,and they are both much greener and much bigger than last year. 
+
+### [357. Complexity NIMBYs and the Illusion of Transcending Software Complexity Bounds](https://hackernoon.com/complexity-nimbys-and-the-illusion-of-transcending-software-complexity-bounds)
+![](https://cdn.hackernoon.com/images/breathtaking-photograph-of-an-angry-man-holding-a-shovel-his-backyard-in-the-background-bbor2xphid3kadiehk6ajmre.png)
+The unstoppable force of code generation is meeting the immovable object of software complexity
+
+### [358. Crucial Steps Towards Effective Problem Solving In The Workplace](https://hackernoon.com/crucial-steps-towards-effective-problem-solving-in-the-workplace-p61133x9)
 ![](https://cdn.hackernoon.com/images/2yRNw8i4Sthf96A5PoMFRjbH9ay2-j1x635af.jpeg)
 Every business - and everyone - encounters problems, whether it's too few customers, a product now working, or a team not functioning as it should.
 
-### [358. Managers: Beware the Fallacy of Process](https://hackernoon.com/managers-beware-the-fallacy-of-process-46163ub7)
+### [359. Managers: Beware the Fallacy of Process](https://hackernoon.com/managers-beware-the-fallacy-of-process-46163ub7)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSnhq2R1AhrcVU2y5TKCrutBJCqx1-zy1d3uod.jpeg?alt=media&token=daebbc61-919e-4e6f-8855-b37ad6892ed2)
 Processes are essential for effective management. They keep people in sync, making it possible for team members to come together and achieve a shared goal. But they’re also dangerous. Processes can create the illusion that things are running smoothly because they’re moving along according to the shared understanding of how they’re “supposed to” run. 
 
 This is the Fallacy of Process — the idea that by adding consistency and predictability to a shared workflow, a given process is inherently valuable.
 
 Too often, process becomes canon. A team develops an effective way of doing something, then returns to that framework indefinitely, long past its expiration date. 
-
-### [359. Complexity NIMBYs and the Illusion of Transcending Software Complexity Bounds](https://hackernoon.com/complexity-nimbys-and-the-illusion-of-transcending-software-complexity-bounds)
-![](https://cdn.hackernoon.com/images/breathtaking-photograph-of-an-angry-man-holding-a-shovel-his-backyard-in-the-background-bbor2xphid3kadiehk6ajmre.png)
-The unstoppable force of code generation is meeting the immovable object of software complexity
 
 ### [360. A Mathematical Model for Extreme Programming Software Development](https://hackernoon.com/a-mathematical-model-for-extreme-programming-software-development)
 ![](https://cdn.hackernoon.com/images/a-theoretical-model-abstract-ibmjv2s6fb80zahsvjql6w82.png)
@@ -1493,15 +1495,19 @@ You know that feeling when you work really hard on something for really long and
 ![](https://cdn.hackernoon.com/images/7C2eGNBArBcU5I4dKzTD1aOkxLl2-gx03dn1.jpeg)
 If your definition of success begins and ends with “on time and on budget,” you’re not delivering outcomes. You’re delivering closure.
 
-### [369. Unpopular Opinion: 10 Ways Asana Lowers your Productivity](https://hackernoon.com/unpopular-opinion-10-ways-asana-lowers-your-productivity-q47k48js)
-![](https://cdn.hackernoon.com/images/zq4kRoY1koM2G9ICsR601fXkYy22-jei48z3.jpeg)
-Whether you loathe online project management tools a little or a lot, they are an unrelenting feature of remote work. Slack, Asana, WhatsApp (and/or Telegram) a
-
-### [370. 🧠 The Most Underrated Skill in Agile Teams? Critical Thinking](https://hackernoon.com/the-most-underrated-skill-in-agile-teams-critical-thinking)
+### [369. 🧠 The Most Underrated Skill in Agile Teams? Critical Thinking](https://hackernoon.com/the-most-underrated-skill-in-agile-teams-critical-thinking)
 ![](https://cdn.hackernoon.com/images/ozESALSPb9PWeM05VkWH911ADP92-6t03a1s.png)
 Agile teams are fast—but are they thinking? This piece explores why critical thinking is the missing skill behind backlogs, sprints, and AI-fueled workflows.
+
+### [370. Unpopular Opinion: 10 Ways Asana Lowers your Productivity](https://hackernoon.com/unpopular-opinion-10-ways-asana-lowers-your-productivity-q47k48js)
+![](https://cdn.hackernoon.com/images/zq4kRoY1koM2G9ICsR601fXkYy22-jei48z3.jpeg)
+Whether you loathe online project management tools a little or a lot, they are an unrelenting feature of remote work. Slack, Asana, WhatsApp (and/or Telegram) a
 
 ### [371. The Iterative Structure of an XP Process Model](https://hackernoon.com/the-iterative-structure-of-an-xp-process-model)
 ![](https://cdn.hackernoon.com/images/skyscraper-architecture-sketch-light-colors-nwc2qsr9wfm9y0kb06xn222l.png)
 This article explains how the model reflects XP's iterative nature by connecting sequential releases and detailing the inputs and outputs of each.
+
+### [372. How to Avoid These 7 Deadly Sins of Project Management with Machine Learning](https://hackernoon.com/how-to-avoid-these-7-deadly-sins-of-project-management-with-machine-learning)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-ra83dda.jpeg)
+Could AI innovations help more businesses to overcome the seven deadly sins that undermine projects?
 

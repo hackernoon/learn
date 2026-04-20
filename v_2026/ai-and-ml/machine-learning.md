@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [machine-learning](https://hackernoon.com/tagged/machine-learning)
+### Let's learn about [Machine Learning](https://hackernoon.com/tagged/machine-learning) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Do you think a human wrote this description? Teach a robot to steal your job one day
 
 ### [1. 13 Best Datasets for Power BI Practice](https://hackernoon.com/13-best-datasets-for-power-bi-practice)
@@ -240,13 +242,13 @@ In this post we are going to scrape websites to gather data via the  API World's
 ![](images/jb1k23z9o.jpg)
 A curated list of courses to learn data science, machine learning, and deep learning fundamentals.
 
-### [60. 3 Things to Consider Before Adding GenAI to Your Business](https://hackernoon.com/3-things-to-consider-before-adding-genai-to-your-business)
-![](https://cdn.hackernoon.com/images/soqEz6ES7whVv56L2q4PZVHSmY93-msd3xds.jpeg)
-Secure the future of Your Business with GenAI. Consider 3 factors needed for successful deployment of GenAI in your business. 
-
-### [61. Top 15 Chatbot Datasets for NLP Projects](https://hackernoon.com/top-15-chatbot-datasets-for-nlp-projects-8k2f3zqc)
+### [60. Top 15 Chatbot Datasets for NLP Projects](https://hackernoon.com/top-15-chatbot-datasets-for-nlp-projects-8k2f3zqc)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-yxy3z6i.jpeg?alt=media&token=bd05a710-4088-47da-9997-af93476a9f20)
 An effective chatbot requires a massive amount of training data in order to quickly solve user inquiries without human intervention. However, the primary bottleneck in chatbot development is obtaining realistic, task-oriented dialog data to train these machine learning-based systems.
+
+### [61. 3 Things to Consider Before Adding GenAI to Your Business](https://hackernoon.com/3-things-to-consider-before-adding-genai-to-your-business)
+![](https://cdn.hackernoon.com/images/soqEz6ES7whVv56L2q4PZVHSmY93-msd3xds.jpeg)
+Secure the future of Your Business with GenAI. Consider 3 factors needed for successful deployment of GenAI in your business. 
 
 ### [62. Hungry GPUs Need Fast Object Storage](https://hackernoon.com/hungry-gpus-need-fast-object-storage)
 ![](https://cdn.hackernoon.com/images/jvVzpS01rreJW96FCNIzxddhWIw2-g48324u.jpeg)
@@ -320,13 +322,13 @@ A data science interview consists of multiple rounds. One of such rounds involve
 ![](https://cdn.hackernoon.com/hn-images/1*qiYcMRNO-bGCyRBIPEmXZg.jpeg)
 As I said in my article What Will Bitcoin Look Like in Twenty Years:
 
-### [80. How To Use Microsoft Excel To Classify Your Data](https://hackernoon.com/how-to-use-microsoft-excel-to-classify-your-data-jh343ucw)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F57hg4kRJb1UsWAKAbul46qUSHw42-btaf25uz.jpeg?alt=media&token=f8fb8422-913e-490b-82f9-dc608e8c336e)
-An accessible introduction to ML - no programming or math required. By the end of this tutorial, you’ll have implemented your first algorithm without touching a single line of code. You’ll use Machine Learning techniques to classify real data using basic functions in Excel. You don’t have to be a genius or a programmer to understand machine learning. Despite the popularized applications of self-driving cars, killer robots, and facial recognition, the foundations of machine learning (ML) are quite simple. This is a chance to get your feet wet and understand the power of these new techniques.
-
-### [81. Learn K-Means Clustering by Quantizing Color Images in Python](https://hackernoon.com/learn-k-means-clustering-by-quantizing-color-images-in-python)
+### [80. Learn K-Means Clustering by Quantizing Color Images in Python](https://hackernoon.com/learn-k-means-clustering-by-quantizing-color-images-in-python)
 ![](https://cdn.hackernoon.com/images/BYWRsHWtmGOUC5N4fwNhMqohMAC3-17a3hh8.jpeg)
 This tutorial will teach you all about the K-Means clustering algorithm. And how you can use it to quantize color images in Python.
+
+### [81. How To Use Microsoft Excel To Classify Your Data](https://hackernoon.com/how-to-use-microsoft-excel-to-classify-your-data-jh343ucw)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F57hg4kRJb1UsWAKAbul46qUSHw42-btaf25uz.jpeg?alt=media&token=f8fb8422-913e-490b-82f9-dc608e8c336e)
+An accessible introduction to ML - no programming or math required. By the end of this tutorial, you’ll have implemented your first algorithm without touching a single line of code. You’ll use Machine Learning techniques to classify real data using basic functions in Excel. You don’t have to be a genius or a programmer to understand machine learning. Despite the popularized applications of self-driving cars, killer robots, and facial recognition, the foundations of machine learning (ML) are quite simple. This is a chance to get your feet wet and understand the power of these new techniques.
 
 ### [82. Golang in Machine Learning](https://hackernoon.com/golang-in-machine-learning)
 ![](https://cdn.hackernoon.com/images/OmT2g5eRWKeq1I8EO2B2ZGgnlXD3-cu93pkc.jpeg)
@@ -401,13 +403,13 @@ What do the product managers of machine learning products do?
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-5o2h376f.jpeg)
 For those looking to build predictive models, this article will introduce 10 stock market and cryptocurrency datasets for machine learning.
 
-### [100. What is the Difference Between Machine Learning and Human Learning?](https://hackernoon.com/what-is-the-difference-between-machine-learning-and-human-learning-53119c217194)
-![](https://cdn.hackernoon.com/images/what-is-the-difference-between-machine-learning-and-human-learning-clbyiuk99000001s6hyla7b8b.png)
-<em>Both human as well as machine learning generate knowledge — but there’s a big difference between the two.</em>
-
-### [101. Zero Knowledge Proof based Gradient Aggregation for Federated Learning: Introduction](https://hackernoon.com/zero-knowledge-proof-based-gradient-aggregation-for-federated-learning-introduction)
+### [100. Zero Knowledge Proof based Gradient Aggregation for Federated Learning: Introduction](https://hackernoon.com/zero-knowledge-proof-based-gradient-aggregation-for-federated-learning-introduction)
 ![](https://cdn.hackernoon.com/images/show-different-blocks-connected-in-a-blockchain-with-gradient-view-in-background-and-a-lock-sign-in-front-ibm634ntlbf8dzpz0lcntc2c.png)
 zkFL leverages zero-knowledge proofs (ZKPs) to tackle the issue of a malicious aggregator during the training model aggregation process. 
+
+### [101. What is the Difference Between Machine Learning and Human Learning?](https://hackernoon.com/what-is-the-difference-between-machine-learning-and-human-learning-53119c217194)
+![](https://cdn.hackernoon.com/images/what-is-the-difference-between-machine-learning-and-human-learning-clbyiuk99000001s6hyla7b8b.png)
+<em>Both human as well as machine learning generate knowledge — but there’s a big difference between the two.</em>
 
 ### [102. What I Learned Trying to Predict the Price of Cryptocurrencies](https://hackernoon.com/what-i-learned-trying-to-predict-the-price-of-cryptocurrencies-9v2r32m1)
 ![](https://cdn.hackernoon.com/drafts/nica3274.png)
@@ -473,13 +475,13 @@ Learn how  to execute web scraping on Twitter using the snsscrape Python library
 ![](https://cdn.hackernoon.com/images/7Ug0PkGHNSN2Kd1AXJvurvkWCxF2-g983p9j.jpeg)
 Let's simplify RAG and LLM application development. This post guides you on how to build your own RAG-enabled LLM application and run it locally.
 
-### [118. Advanced Techniques for Time Series Data Feature Engineering](https://hackernoon.com/advanced-techniques-for-time-series-data-feature-engineering)
-![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-modern-tube-electric-clock-clh5whd1z000001s6e4dgbw2a.png)
-Discover advanced feature engineering techniques for time series data, including Fourier transform, wavelet transformation, derivatives, and autocorrelation.
-
-### [119. Multicollinearity and Its Importance in Machine Learning](https://hackernoon.com/multicollinearity-and-its-importance-in-machine-learning)
+### [118. Multicollinearity and Its Importance in Machine Learning](https://hackernoon.com/multicollinearity-and-its-importance-in-machine-learning)
 ![](https://cdn.hackernoon.com/images/wZtQzVW9IXObe1GeGaINXBF5SRj2-hw22gp5.jpeg)
 Multicollinearity refers to the high correlation between two or more explanatory variables, i.e. predictors. It can be an issue in machine learning too.
+
+### [119. Advanced Techniques for Time Series Data Feature Engineering](https://hackernoon.com/advanced-techniques-for-time-series-data-feature-engineering)
+![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-modern-tube-electric-clock-clh5whd1z000001s6e4dgbw2a.png)
+Discover advanced feature engineering techniques for time series data, including Fourier transform, wavelet transformation, derivatives, and autocorrelation.
 
 ### [120. The Challenges, Costs, and Considerations of Building or Fine-Tuning an LLM](https://hackernoon.com/the-challenges-costs-and-considerations-of-building-or-fine-tuning-an-llm)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3p92ix9.jpeg)
@@ -489,13 +491,13 @@ The road to building or fine-tuning an LLM for your company can be a complex one
 ![](https://cdn.hackernoon.com/images/jvVzpS01rreJW96FCNIzxddhWIw2-2w8336h.jpeg)
 Organizations should not build an infrastructure dedicated to AI and AI only while leaving other workloads to fend for themselves.
 
-### [122. Machine Learning Costs: Price Factors and Real-World Estimates](https://hackernoon.com/machine-learning-costs-price-factors-and-real-world-estimates)
-![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-se930qb.jpeg)
- In this blog post, we will focus on one of our AI subsets, machine learning, and estimate how much it costs to train, deploy, and maintain algorithms.
-
-### [123. 3 Types of Anomalies in Anomaly Detection](https://hackernoon.com/3-types-of-anomalies-in-anomaly-detection)
+### [122. 3 Types of Anomalies in Anomaly Detection](https://hackernoon.com/3-types-of-anomalies-in-anomaly-detection)
 ![](https://cdn.hackernoon.com/images/TYAy8YXF3pNC96IPW15fOOqYix43-pr93hr0.png)
 An Introduction to Anomaly Detection and Its Importance in Machine Learning
+
+### [123. Machine Learning Costs: Price Factors and Real-World Estimates](https://hackernoon.com/machine-learning-costs-price-factors-and-real-world-estimates)
+![](https://cdn.hackernoon.com/images/dtsFKqwL3KZ43BFFEoYwTdyns4r1-se930qb.jpeg)
+ In this blog post, we will focus on one of our AI subsets, machine learning, and estimate how much it costs to train, deploy, and maintain algorithms.
 
 ### [124. 10 Must-Try Open Source Tools for Machine Learning](https://hackernoon.com/10-must-know-open-source-tools-for-machine-learning-rb1wc34ce)
 ![](https://cdn.hackernoon.com/drafts/da1xr34vq.png)
@@ -537,17 +539,17 @@ Motivation
 ![](https://cdn.hackernoon.com/drafts/y335s309c.png)
 AI and Machine Learning are predominant terms that are creating a lot of buzz in the technology world. The terms can often be used interchangeably but that’s not the case, AI and ML are way more different from each other in their approach, algorithms and logical thinking.
 
-### [134. Using ChatGPT to Code an Entire Portfolio Website](https://hackernoon.com/using-chatgpt-to-code-an-entire-portfolio-website)
+### [134. All You Need to Know About the Tesla Dojo Supercomputer](https://hackernoon.com/all-you-need-to-know-about-the-tesla-dojo-supercomputer)
+![](https://cdn.hackernoon.com/images/k637U4fYr0RGVspCP5s7dpkuIBG2-3t038lz.jpeg)
+All about the Dojo Supercomputer, what it is, why it was created, how it works and what it will be used for
+
+### [135. Using ChatGPT to Code an Entire Portfolio Website](https://hackernoon.com/using-chatgpt-to-code-an-entire-portfolio-website)
 ![](https://cdn.hackernoon.com/images/UPj89hwu6vfiCaqSkcDwX8zhXPO2-ugm2h07.png)
 Using ChatGPT to create a custom portfolio website in record time! I discuss ChatGPT's strengths, weaknesses, and tip and tricks to use while coding. 
 
-### [135. Driver Drowsiness Detection System: A Python Project with Source Code](https://hackernoon.com/driver-drowsiness-detection-system-a-python-project-with-source-code-hc223yeh)
+### [136. Driver Drowsiness Detection System: A Python Project with Source Code](https://hackernoon.com/driver-drowsiness-detection-system-a-python-project-with-source-code-hc223yeh)
 ![](https://cdn.hackernoon.com/drafts/rnr22rn.png)
 Drowsiness detection is a safety technology that can prevent accidents that are caused by drivers who fell asleep while driving.
-
-### [136. All You Need to Know About the Tesla Dojo Supercomputer](https://hackernoon.com/all-you-need-to-know-about-the-tesla-dojo-supercomputer)
-![](https://cdn.hackernoon.com/images/k637U4fYr0RGVspCP5s7dpkuIBG2-3t038lz.jpeg)
-All about the Dojo Supercomputer, what it is, why it was created, how it works and what it will be used for
 
 ### [137. Machine Un-Learning: Why Forgetting Might Be the Key to AI](https://hackernoon.com/machine-un-learning-why-forgetting-might-be-the-key-to-ai-406445177a80)
 ![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-machine-unlearning-clezu2mb9000001s6ad6ia1om.png)
@@ -577,13 +579,13 @@ Every successful tech product, by the very definition, is a result of some techn
 ![](https://cdn.hackernoon.com/images/jejl3kvn.jpg)
 Performant machine learning models require high-quality data. And training your machine learning model is not a single, finite stage in your process. Even after you deploy it in a production environment, it’s likely you will need a steady stream of new training data to ensure your model’s predictive accuracy over time.
 
-### [144. 9 Reasons Why You Should Keep Learning Machine Learning](https://hackernoon.com/9-reasons-why-you-should-keep-learning-machine-learning-7n7h307n)
-![](https://cdn.hackernoon.com/drafts/g11z3073.png)
-Machine Learning is an application of Artificial Intelligence. It allows software applications to become accurate in predicting outcomes. Machine Learning focuses on the development of computer programs, and the primary aim is to allow computers to learn automatically without human intervention.
-
-### [145. 9 Best Machine Learning, AI, and Data Science Internships in 2022](https://hackernoon.com/9-best-machine-learning-ai-and-data-science-internships-in-2022)
+### [144. 9 Best Machine Learning, AI, and Data Science Internships in 2022](https://hackernoon.com/9-best-machine-learning-ai-and-data-science-internships-in-2022)
 ![](https://cdn.hackernoon.com/images/yInti7CnmZMjybXOCRsTVUOcMel2-9093hw2.jpeg)
 Here are the Top 9 ML, AI, and Data Science Internships to consider for 2022 if you want to get into any of these very lucrative fields in computer science.
+
+### [145. 9 Reasons Why You Should Keep Learning Machine Learning](https://hackernoon.com/9-reasons-why-you-should-keep-learning-machine-learning-7n7h307n)
+![](https://cdn.hackernoon.com/drafts/g11z3073.png)
+Machine Learning is an application of Artificial Intelligence. It allows software applications to become accurate in predicting outcomes. Machine Learning focuses on the development of computer programs, and the primary aim is to allow computers to learn automatically without human intervention.
 
 ### [146. How to Use Streamlit and Python to Build a Data Science App](https://hackernoon.com/how-to-use-streamlit-and-python-to-build-a-data-science-app)
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-oj034yj.jpeg)
@@ -645,105 +647,105 @@ To view the code, training visualizations, and more information about the python
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-58136cc.jpeg)
 Learn how this algorithm can understand images and automatically remove the undesired object or person and save your future Instagram post!
 
-### [161. Using Browser Network Calls for Data Processing: The Search for a Dubai Chocolate Pistachio Shake](https://hackernoon.com/using-browser-network-calls-for-data-processing-the-search-for-a-dubai-chocolate-pistachio-shake)
-![](https://cdn.hackernoon.com/images/pC6MTHbGrrOUGtfQZgWOc8JwOV52-qh2377b.jpeg)
-This article will cover how I got the viral Dubai Chocolate Pistachio Shake using basic network calls and built a scalable cloud infrastructure for ML services.
-
-### [162. Complexity Simplified: How Oblique Decision Trees are Transforming Data Interpretation](https://hackernoon.com/complexity-simplified-how-oblique-decision-trees-are-transforming-data-interpretation)
+### [161. Complexity Simplified: How Oblique Decision Trees are Transforming Data Interpretation](https://hackernoon.com/complexity-simplified-how-oblique-decision-trees-are-transforming-data-interpretation)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1383lt6.jpeg)
 Exploring Advanced Decision Tree Variants: Unveiling the Intricacies of Oblique and Random Trees, along with the DRaF-LDA Method.
 
-### [163. How to Perform Emotion detection in Text via Python](https://hackernoon.com/how-to-perform-emotion-detection-in-text-via-python-lk383tsu)
+### [162. How to Perform Emotion detection in Text via Python](https://hackernoon.com/how-to-perform-emotion-detection-in-text-via-python-lk383tsu)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-x91b3u60.png?alt=media&token=e1088e14-af72-492b-979a-28ceb66486ed)
 In this tutorial, I will guide you on how to detect emotions associated with textual data and how can you apply it in real-world applications.
 
-### [164. Build an Abstractive Text Summarizer in 94 Lines of Tensorflow !! (Tutorial 6)](https://hackernoon.com/build-an-abstractive-text-summarizer-in-94-lines-of-tensorflow-tutorial-6-f0e1b4d88b55)
+### [163. Build an Abstractive Text Summarizer in 94 Lines of Tensorflow !! (Tutorial 6)](https://hackernoon.com/build-an-abstractive-text-summarizer-in-94-lines-of-tensorflow-tutorial-6-f0e1b4d88b55)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-w203be3.webp)
 This tutorial is the sixth one from a series of tutorials that would help you build an abstractive text summarizer using tensorflow&nbsp;, today we would build an abstractive text summarizer in tensorflow in an optimized way&nbsp;.
 
-### [165. Solving Car Damage Detection Task By Using a Two-Model Computer Vision Solution](https://hackernoon.com/solving-car-damage-detection-task-by-using-a-two-model-computer-vision-solution)
+### [164. Solving Car Damage Detection Task By Using a Two-Model Computer Vision Solution](https://hackernoon.com/solving-car-damage-detection-task-by-using-a-two-model-computer-vision-solution)
 ![](https://cdn.hackernoon.com/images/9POkrhgUbfQ0pWRnXkdf1ivoJGf1-td93p62.jpeg)
 Comparison of Mask R-CNN and U-Net — instance and semantic segmentation algorithms and logic behind building a two-model car damage detection ML solution.
 
-### [166. Deploy Computer Vision Models with Triton Inference Server](https://hackernoon.com/deploy-computer-vision-models-with-triton-inference-server)
+### [165. Deploy Computer Vision Models with Triton Inference Server](https://hackernoon.com/deploy-computer-vision-models-with-triton-inference-server)
 ![](https://cdn.hackernoon.com/images/enAUmgG9fMMHjw3YZvbuPhcMTkK2-2h935no.jpeg)
 There are a lot of Machine Learning courses, and we are pretty good at modeling and improving our accuracy or other metrics. 
 
-### [167. Reinforcement Learning: 10 Real Reward & Punishment Applications](https://hackernoon.com/reinforcement-learning-10-real-reward-and-punishment-applications-d3203tqx)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVvzpxMOKDoNEVayQaqvc3d8j4wq1-im3p3t9n.jpeg?alt=media&token=fef11ba6-e7e2-4133-852e-f5833f872943)
-In Reinforcement Learning (RL), agents are trained on a reward and punishment mechanism. The agent is rewarded for correct moves and punished for the wrong ones. In doing so, the agent tries to minimize wrong moves and maximize the right ones. 
+### [166. Stop Prompting, Start Engineering: 15 Principles to Deliver Your AI Agent to Production](https://hackernoon.com/stop-prompting-start-engineering-15-principles-to-deliver-your-ai-agent-to-production)
+![](https://cdn.hackernoon.com/images/h32lVcBSs0ZKraYRrYx8CIFceoB2-5d03l3o.png)
+Build production-ready LLM agents. Learn 15 principles for stability, control, and real-world reliability beyond fragile scripts and hacks.
 
-### [168. Dopple.ai Overtakes Mainstream Competitors With Unfiltered, Unbiased AI Chatbots](https://hackernoon.com/doppleai-overtakes-mainstream-competitors-with-unfiltered-unbiased-ai-chatbots)
+### [167. Dopple.ai Overtakes Mainstream Competitors With Unfiltered, Unbiased AI Chatbots](https://hackernoon.com/doppleai-overtakes-mainstream-competitors-with-unfiltered-unbiased-ai-chatbots)
 ![](https://cdn.hackernoon.com/images/fZhsEeLz44RmI0mUOoCNIrv3zOo1-xg832ji.jpeg)
 Dopple.ai is a free AI chatbot that lets you interact with virtual characters based on real and fictional people.
+
+### [168. Reinforcement Learning: 10 Real Reward & Punishment Applications](https://hackernoon.com/reinforcement-learning-10-real-reward-and-punishment-applications-d3203tqx)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVvzpxMOKDoNEVayQaqvc3d8j4wq1-im3p3t9n.jpeg?alt=media&token=fef11ba6-e7e2-4133-852e-f5833f872943)
+In Reinforcement Learning (RL), agents are trained on a reward and punishment mechanism. The agent is rewarded for correct moves and punished for the wrong ones. In doing so, the agent tries to minimize wrong moves and maximize the right ones. 
 
 ### [169. Using LTV Modeling for Quick Evaluation of Customer Acquisition Channels](https://hackernoon.com/using-ltv-modeling-for-quick-evaluation-of-customer-acquisition-channels)
 ![](https://cdn.hackernoon.com/images/JxGtUp4Ql0hbLiif4lpPtcyUQqC2-g293p6s.jpeg)
 True story from retail finance about LTV modeling with ML algorithms for evaluation customer acquisition channels. 
 
-### [170. Exploring Machine Learning Techniques for LTV/CLV Prediction](https://hackernoon.com/exploring-machine-learning-techniques-for-ltvclv-prediction)
-![](https://cdn.hackernoon.com/images/SZePNvD5QddwfAVEJH4NuxB3oTX2-az03gcs.png)
-Using ML to analyze and predict CLV offers more accurate, actionable insights by learning from behavioral data at scale.
-
-### [171. Stop Prompting, Start Engineering: 15 Principles to Deliver Your AI Agent to Production](https://hackernoon.com/stop-prompting-start-engineering-15-principles-to-deliver-your-ai-agent-to-production)
-![](https://cdn.hackernoon.com/images/h32lVcBSs0ZKraYRrYx8CIFceoB2-5d03l3o.png)
-Build production-ready LLM agents. Learn 15 principles for stability, control, and real-world reliability beyond fragile scripts and hacks.
-
-### [172. Make LLM for Text Summarisation Great Again](https://hackernoon.com/make-llm-for-text-summarisation-great-again)
+### [170. Make LLM for Text Summarisation Great Again](https://hackernoon.com/make-llm-for-text-summarisation-great-again)
 ![](https://cdn.hackernoon.com/images/IJhFMwVaBRcr32HBWrb0PQgonCe2-goc4rml.jpeg)
 In recent months, LLMs have gained popularity and are now widely used in various applications. Data collection is essential for building these models, and crowd
+
+### [171. How to Build an Image Search Engine to Find Similar Images](https://hackernoon.com/how-to-build-an-image-search-engine-to-find-similar-images)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-dw93iaf.jpeg)
+After reading this article, you will be able to create a search engine for similar images for your objective from scratch
+
+### [172. How to Filter NSFW Images and Programmatically Blur Them](https://hackernoon.com/how-to-filter-nsfw-images-and-programmatically-blur-them)
+![](https://cdn.hackernoon.com/images/wqkXXujczdZlcmheSURQMA2D8Cd2-dg929sx.jpeg)
+In this article, you will learn how to detect NSFW and inappropriate images and programmatically blur them.
 
 ### [173. Model Context Protocol Is the Kind of AI Future All Of Us Should Want to See ](https://hackernoon.com/model-context-protocol-is-the-kind-of-ai-future-all-of-us-should-want-to-see)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ux02v8i.jpeg)
 Discover how Model Context Protocol works, why it matters, and how it's transforming AI from isolated chatbots into assistants that can access your data.
 
-### [174. How to Filter NSFW Images and Programmatically Blur Them](https://hackernoon.com/how-to-filter-nsfw-images-and-programmatically-blur-them)
-![](https://cdn.hackernoon.com/images/wqkXXujczdZlcmheSURQMA2D8Cd2-dg929sx.jpeg)
-In this article, you will learn how to detect NSFW and inappropriate images and programmatically blur them.
+### [174. Small Language Models are Closing the Gap on Large Models](https://hackernoon.com/small-language-models-are-closing-the-gap-on-large-models)
+![](https://cdn.hackernoon.com/images/E1FLk4CMKlND7qghfbghUANDz8q2-ls42vn9.png)
+A fine-tuned 3B model beat our 70B baseline. Here's why data quality and architecture innovations are ending the "bigger is better" era in AI.
 
-### [175. How to Build an Image Search Engine to Find Similar Images](https://hackernoon.com/how-to-build-an-image-search-engine-to-find-similar-images)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-dw93iaf.jpeg)
-After reading this article, you will be able to create a search engine for similar images for your objective from scratch
-
-### [176. 10 Best Hugging Face Datasets for Building NLP Models](https://hackernoon.com/10-best-hugging-face-datasets-for-building-nlp-models)
+### [175. 10 Best Hugging Face Datasets for Building NLP Models](https://hackernoon.com/10-best-hugging-face-datasets-for-building-nlp-models)
 ![](https://cdn.hackernoon.com/images/XpJR5t0jZkOEpTUlwMdX7M38xQ83-lf93tud.png)
 Hugging Face offers solutions and tools for developers and researchers. This article looks at the Best Hugging Face Datasets for Building NLP Models.
 
-### [177. Build a Custom-Trained Object Detection Model With 5 Lines of Code](https://hackernoon.com/build-a-custom-trained-object-detection-model-with-5-lines-of-code-y08n33vi)
+### [176. Build a Custom-Trained Object Detection Model With 5 Lines of Code](https://hackernoon.com/build-a-custom-trained-object-detection-model-with-5-lines-of-code-y08n33vi)
 ![](https://cdn.hackernoon.com/images/3r1jg3x9x.jpg)
 These days, machine learning and computer vision are all the craze. We’ve all seen the news about self-driving cars and facial recognition and probably imagined how cool it’d be to build our own computer vision models. However, it’s not always easy to break into the field, especially without a strong math background. Libraries like PyTorch and TensorFlow can be tedious to learn if all you want to do is experiment with something small.
 
-### [178. Implementation of Data Preprocessing on Titanic Dataset](https://hackernoon.com/implementation-of-data-preprocessing-on-titanic-dataset-9j1n927ky)
+### [177. Implementation of Data Preprocessing on Titanic Dataset](https://hackernoon.com/implementation-of-data-preprocessing-on-titanic-dataset-9j1n927ky)
 ![](https://cdn.hackernoon.com/drafts/5m1pf27vt.png)
 
 
-### [179. This AI Creates Videos From a Couple of Images](https://hackernoon.com/this-ai-creates-videos-from-a-couple-of-images)
+### [178. This AI Creates Videos From a Couple of Images](https://hackernoon.com/this-ai-creates-videos-from-a-couple-of-images)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-m5137wu.gif)
 Researchers created a simple collection of photos and transformed them into a 3-dimensional model.
 
-### [180. Machine Learning Model with FLASK REST API](https://hackernoon.com/machine-learning-w22g322x)
+### [179. Machine Learning Model with FLASK REST API](https://hackernoon.com/machine-learning-w22g322x)
 ![](https://cdn.hackernoon.com/images/7967432wy.jpg)
 In this tutorial we will see how you can make your first REST API for Machine Learning Model using FLASK. We will start by creating machine learning model. Then we will see step-by-step procedure to create API using Flask and test it using Postman. 
 
-### [181. Multiclass Classification with Keras](https://hackernoon.com/multiclass-classification-with-keras)
+### [180. Multiclass Classification with Keras](https://hackernoon.com/multiclass-classification-with-keras)
 ![](https://cdn.hackernoon.com/images/sDcK7lGyHpZ0bgjqIj8HG7MKeMf1-lz93rpk.jpeg)
 In the article the author describes the common pipelane of multilass classification solution using keras
 
-### [182. Meta's New Model OPT is an Open-Source GPT-3](https://hackernoon.com/metas-new-model-opt-is-an-open-source-gpt-3)
+### [181. Meta's New Model OPT is an Open-Source GPT-3](https://hackernoon.com/metas-new-model-opt-is-an-open-source-gpt-3)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-0l93f4s.jpeg)
 We’ve all heard about GPT-3 and have somewhat of a clear idea of its capabilities. You’ve most certainly seen some applications born strictly due to this model, some of which I covered in a previous video about the model. GPT-3 is a model developed by OpenAI that you can access through a paid API but have no access to the model itself.
 
-### [183. 10 AI and ML Apps, Games, and Tools for Android Phones](https://hackernoon.com/10-ai-and-ml-apps-games-and-tools-for-android-phones-t63234dy)
+### [182. 10 AI and ML Apps, Games, and Tools for Android Phones](https://hackernoon.com/10-ai-and-ml-apps-games-and-tools-for-android-phones-t63234dy)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-hem34i6.jpeg)
 If you’re looking for basic knowledge about AI concepts, AI tutorials, or want to check out some interesting AI-powered games and tools, we’ve compiled a list of the best free Android apps for AI and machine learning. We’ve divided the list into the following four categories: chatbots, educational, games, and tools & services. From NLP to object recognition, numerous apps on this list apply a variety of machine learning processes. 
 
-### [184. 10 Best Image Classification Datasets for ML Projects](https://hackernoon.com/10-best-image-classification-datasets-for-ml-projects-kt2l3zzf)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-xl1v3zr2.jpeg?alt=media&token=4856863a-4248-4d47-8904-3f122d3e19d2)
-To help you build object recognition models, scene recognition models, and more, we’ve compiled a list of the best image classification datasets. These datasets vary in scope and magnitude and can suit a variety of use cases. Furthermore, the datasets have been divided into the following categories: medical imaging, agriculture & scene recognition, and others. 
+### [183. The Hidden Problem With Group Rewards in Multi-Agent AI](https://hackernoon.com/the-hidden-problem-with-group-rewards-in-multi-agent-ai)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-n8023lf.jpeg)
+Group rewards are breaking your multi-agent RL training. Decoupled normalization keeps coordination intact while stopping gradient collapse.
 
-### [185. Testing LLMs on Solving Leetcode Problems](https://hackernoon.com/testing-llms-on-solving-leetcode-problems)
+### [184. Testing LLMs on Solving Leetcode Problems](https://hackernoon.com/testing-llms-on-solving-leetcode-problems)
 ![](https://cdn.hackernoon.com/images/tUyDy3WCvhMrS9XRgsoD10WmU5k2-2n832w4.jpeg)
 Large-scale test with Gemini Pro 1.0 and 1.5, Claude Opus, and ChatGPT-4 on hundreds of real algorithmic problems.
+
+### [185. 10 Best Image Classification Datasets for ML Projects](https://hackernoon.com/10-best-image-classification-datasets-for-ml-projects-kt2l3zzf)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-xl1v3zr2.jpeg?alt=media&token=4856863a-4248-4d47-8904-3f122d3e19d2)
+To help you build object recognition models, scene recognition models, and more, we’ve compiled a list of the best image classification datasets. These datasets vary in scope and magnitude and can suit a variety of use cases. Furthermore, the datasets have been divided into the following categories: medical imaging, agriculture & scene recognition, and others. 
 
 ### [186. The Programmatic Advertising Ecosystem: Demand-side Challenges](https://hackernoon.com/the-programmatic-advertising-ecosystem-demand-side-challenges)
 ![](https://cdn.hackernoon.com/images/DYIMHsVorpcqtgPHAvIyQnbzgg92-f692efs.jpeg)
@@ -793,219 +795,219 @@ As an aspiring data scientist, the best way for you to increase your skill level
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-n393fwa.jpeg)
 Last year I shared DALL·E, an amazing model by OpenAI capable of generating images from a text input with incredible results. Now is time for his big brother, DALL·E 2. And you won’t believe the progress in a single year! DALL·E 2 is not only better at generating photorealistic images from text. The results are four times the resolution!
 
-### [198. AI in Fitness: Top 10 AI-based Personal Trainers](https://hackernoon.com/ai-in-fitness-top-10-ai-based-personal-trainers-69y3us5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fn9uGIYN6nPa0y5U5xpRtPWt8jx52-5pf3uzm.jpeg?alt=media&token=87b3dd2e-1c23-41b9-b0a4-7d6e355b722e)
-Health is wealth- we all refer to this old saying to highlight the importance of health and fitness in our lives. But how many of us do actually have a fitness routine? Digging deeper into the facts; approximately 3/4th of adults worldwide do not exercise at all. In fact, inadequate physical activity has been identified as one of the main risk factors of death worldwide over the past decade. 
-
-### [199. How to Make Any LLM More Accurate with Just a Few Lines of Code](https://hackernoon.com/how-to-make-any-llm-more-accurate-in-just-a-few-lines-of-code)
+### [198. How to Make Any LLM More Accurate with Just a Few Lines of Code](https://hackernoon.com/how-to-make-any-llm-more-accurate-in-just-a-few-lines-of-code)
 ![](https://cdn.hackernoon.com/images/nFGMPDaUJhN2rZiFEyVXNSMVezD3-o293u1g.jpeg)
 A look at using the open-source Cleanlab package to automatically boost the accuracy of LLMs with a few lines of code.
+
+### [199. AI in Fitness: Top 10 AI-based Personal Trainers](https://hackernoon.com/ai-in-fitness-top-10-ai-based-personal-trainers-69y3us5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fn9uGIYN6nPa0y5U5xpRtPWt8jx52-5pf3uzm.jpeg?alt=media&token=87b3dd2e-1c23-41b9-b0a4-7d6e355b722e)
+Health is wealth- we all refer to this old saying to highlight the importance of health and fitness in our lives. But how many of us do actually have a fitness routine? Digging deeper into the facts; approximately 3/4th of adults worldwide do not exercise at all. In fact, inadequate physical activity has been identified as one of the main risk factors of death worldwide over the past decade. 
 
 ### [200. Going From Not Being Able To Code To Deep Learning Hero](https://hackernoon.com/going-from-not-being-able-to-code-to-deep-learning-hero-2ou34fh)
 ![](https://hackernoon.com/images/13pMkigbOYNYvOgjZuRKT7oljmz1-xx533wtx.jpeg)
 A detailed plan for going from not being able to write code to being a deep learning expert. Advice based on personal experience.
 
-### [201. The Hidden Problem With Group Rewards in Multi-Agent AI](https://hackernoon.com/the-hidden-problem-with-group-rewards-in-multi-agent-ai)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-n8023lf.jpeg)
-Group rewards are breaking your multi-agent RL training. Decoupled normalization keeps coordination intact while stopping gradient collapse.
-
-### [202. The 3 Stages of MLOps](https://hackernoon.com/the-3-stages-of-mlops)
+### [201. The 3 Stages of MLOps](https://hackernoon.com/the-3-stages-of-mlops)
 ![](https://cdn.hackernoon.com/images/pC6MTHbGrrOUGtfQZgWOc8JwOV52-3t33605.png)
 Discover the evolution of MLOps in growing tech startups—from manual model training to fully automated ML pipelines. 
 
-### [203. Why Every Software Engineer Should Learn Python?](https://hackernoon.com/why-every-software-engineer-should-learn-python-uf6c3yn5)
+### [202. Why Every Software Engineer Should Learn Python?](https://hackernoon.com/why-every-software-engineer-should-learn-python-uf6c3yn5)
 ![](https://images.unsplash.com/photo-1483817101829-339b08e8d83f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Hello guys, If you follow my blog regularly, or read my articles here on HackerNoon, then you may be wondering why am I writing an article to tell people to learn Python? Didn’t I ask you to prefer Java over Python a couple of years ago?
 
-### [204. Level Up Your ChatGPT Skills by Unleashing The Full Potential of Your Prompts!!](https://hackernoon.com/level-up-your-chatgpt-skills-by-unleashing-the-full-potential-of-your-prompts)
+### [203. Level Up Your ChatGPT Skills by Unleashing The Full Potential of Your Prompts!!](https://hackernoon.com/level-up-your-chatgpt-skills-by-unleashing-the-full-potential-of-your-prompts)
 ![](https://cdn.hackernoon.com/images/SokzKESpYjhO9JX3ROMQHkzMjau1-zdb3gk8.jpeg)
 Make your ChatGPT prompts 2X better!
 
-### [205. Machine Learning is the Wrong Way to Extract Data From Most Documents](https://hackernoon.com/machine-learning-is-the-wrong-way-to-extract-data-from-most-documents)
+### [204. Machine Learning is the Wrong Way to Extract Data From Most Documents](https://hackernoon.com/machine-learning-is-the-wrong-way-to-extract-data-from-most-documents)
 ![](https://cdn.hackernoon.com/images/mnlhPkUdeMgrKHq83jmnbJrAjkE3-bu93lqd.jpeg)
 The best way to turn the majority of documents into structured data is to use a next generation of powerful, flexible templates that find data in a document
 
-### [206. Training Your Models on Cloud TPUs in 4 Easy Steps on Google Colab](https://hackernoon.com/training-your-models-on-cloud-tpus-in-4-easy-steps-on-google-colab-u2ec3wiw)
+### [205. Training Your Models on Cloud TPUs in 4 Easy Steps on Google Colab](https://hackernoon.com/training-your-models-on-cloud-tpus-in-4-easy-steps-on-google-colab-u2ec3wiw)
 ![](https://cdn.hackernoon.com/images/hpfq3w2z.jpg)
 You have a plain old TensorFlow model that’s too computationally expensive to train on your standard-issue work laptop. I get it. I’ve been there too, and if I’m being honest, seeing my laptop crash twice in a row after trying to train a model on it is painful to watch.
 
-### [207. Why Machine Learning Sampling is Harder Than You Think (And How to Do it Right)](https://hackernoon.com/smart-sampling-at-scale-using-spark-and-the-central-limit-theorem)
+### [206. Why Machine Learning Sampling is Harder Than You Think (And How to Do it Right)](https://hackernoon.com/smart-sampling-at-scale-using-spark-and-the-central-limit-theorem)
 ![](https://cdn.hackernoon.com/images/pC6MTHbGrrOUGtfQZgWOc8JwOV52-uy034r7.jpeg)
 In this article, I will explain how random sampling can be achieved at scale using Scala Spark.
+
+### [207. What is an RNN (Recurrent Neural Network) in Deep Learning?](https://hackernoon.com/what-is-an-rnn-recurrent-neural-network-in-deep-learning)
+![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-x503200.jpeg)
+RNN is one of the popular neural networks that is commonly used to solve natural language processing tasks.
 
 ### [208. Python Bootcamp For ML](https://hackernoon.com/python-bootcamp-for-ml-c321177b957e)
 ![](https://hackernoon.com/hn-images/1*o7WmwGkLVR0dVQUYqfSBeg.jpeg)
 <span>F</span>ew days ago i think that i can make a bootcamp on python which most needed for machine learning enthusiastic or deep learning enthusiastic or data science enthusiastic.Then i was started this bootcamp. I hope that this bootcamp will be helpful for everyone who’s want to work in Data Science field or Machine learning field.
 
-### [209. What is an RNN (Recurrent Neural Network) in Deep Learning?](https://hackernoon.com/what-is-an-rnn-recurrent-neural-network-in-deep-learning)
-![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-x503200.jpeg)
-RNN is one of the popular neural networks that is commonly used to solve natural language processing tasks.
-
-### [210. Must-Know Base Tips for Feature Engineering With Time Series Data](https://hackernoon.com/must-know-base-tips-for-feature-engineering-with-time-series-data)
+### [209. Must-Know Base Tips for Feature Engineering With Time Series Data](https://hackernoon.com/must-know-base-tips-for-feature-engineering-with-time-series-data)
 ![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-base-time-series-feature-engineering-clgqhywo8000201s6csidfddj.png)
 Master key time series feature engineering techniques to enhance predictive models in finance, healthcare & more with our comprehensive guide.
 
-### [211. How Three ML Models Transform Product Analytics](https://hackernoon.com/how-three-ml-models-transform-product-analytics)
-![](https://cdn.hackernoon.com/images/rzLjEgXM09f7sZsCMSUVi2hPtVW2-cj03dk0.jpeg)
-Learn how machine learning advances product analytics — from predicting behavior to optimizing personalized, data-driven decisions. 
-
-### [212. How to Use Machine Learning to Color Your Lighting Based on Music Mood](https://hackernoon.com/how-to-use-machine-learning-to-color-your-lighting-based-on-music-mood-bi163u8l)
+### [210. How to Use Machine Learning to Color Your Lighting Based on Music Mood](https://hackernoon.com/how-to-use-machine-learning-to-color-your-lighting-based-on-music-mood-bi163u8l)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FqXPKTyAPOCOcMQS6snKBBwcdAt62-u8bt3e7d.png?alt=media&token=d77ca9ce-9964-433d-80f5-500ac0de07bb)
 How to use machine learning to color your room lighting, based on the emotions behind the music you are listening (Python code available here)
 
-### [213. 5 Best Sentiment Analysis Companies and Tools for Machine Learning](https://hackernoon.com/5-best-sentiment-analysis-companies-and-tools-for-machine-learning-7v1ru321n)
+### [211. 5 Best Sentiment Analysis Companies and Tools for Machine Learning](https://hackernoon.com/5-best-sentiment-analysis-companies-and-tools-for-machine-learning-7v1ru321n)
 ![](https://cdn.hackernoon.com/drafts/523x232ih.png)
 Looking for sentiment analysis companies or sentiment annotation tools? If so, you’ve come to the right place. This guide will briefly explain what sentiment analysis is, and introduce companies that provide sentiment annotation tools and services. 
 
-### [214. 10 Microsoft Azure Courses for Beginners to Learn Azure Cloud Computing](https://hackernoon.com/10-microsoft-azure-courses-for-beginners-to-learn-azure-cloud-computing)
+### [212. 10 Microsoft Azure Courses for Beginners to Learn Azure Cloud Computing](https://hackernoon.com/10-microsoft-azure-courses-for-beginners-to-learn-azure-cloud-computing)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-4093hk8.jpeg)
 If you want to learn Microsoft Azure or prepare for AZ-900 or Microsoft Azure fundamentals exam and need the best resources, you have come to the right place.
 
-### [215. Installing and Configuring Kubeflow with MinIO Operator](https://hackernoon.com/installing-and-configuring-kubeflow-with-minio-operator)
+### [213. Installing and Configuring Kubeflow with MinIO Operator](https://hackernoon.com/installing-and-configuring-kubeflow-with-minio-operator)
 ![](https://cdn.hackernoon.com/images/flow-chart-pg3290eifalpjpu4wden0w4v.png)
 Kubeflow is a modern solution to design, build and orchestrate Machine Learning pipelines using the latest and most popular frameworks.
 
-### [216. Deepmind May Have Just Created the World's First General AI](https://hackernoon.com/deepmind-may-have-just-created-the-worlds-first-general-ai)
+### [214. Deepmind May Have Just Created the World's First General AI](https://hackernoon.com/deepmind-may-have-just-created-the-worlds-first-general-ai)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-o9a3f1x.jpeg)
 Gato from DeepMind was just published! It is a single transformer that can play Atari games, caption images, chat with people, control a real robotic arm, and more! Indeed, it is trained once and uses the same weights to achieve all those tasks. And as per Deepmind, this is not only a transformer but also an agent. This is what happens when you mix Transformers with progress on multi-task reinforcement learning agents.
 
-### [217. Demystifying Different Variants of Gradient Descent Optimization Algorithm](https://hackernoon.com/demystifying-different-variants-of-gradient-descent-optimization-algorithm-19ae9ba2e9bc)
+### [215. Demystifying Different Variants of Gradient Descent Optimization Algorithm](https://hackernoon.com/demystifying-different-variants-of-gradient-descent-optimization-algorithm-19ae9ba2e9bc)
 ![](https://cdn.hackernoon.com/hn-images/0*locdfEJuknGNUEBF)
 Neural Networks that represent a supervised learning method, requires a large training set of complete records, including the target variable. Training a deep neural network to find the best parameters of that network is an iterative process, but training deep neural networks on a large data set iteratively is very slow. So what we need is that by having a good optimization algorithm to update the parameters (weights and biases) of the network can speed up the learning process of the network. The choice of optimization algorithms in deep learning can influence the network training speed and its performance.
 
-### [218. An Intro to Prompting and Prompt Engineering](https://hackernoon.com/an-intro-to-prompting-and-prompt-engineering)
+### [216. An Intro to Prompting and Prompt Engineering](https://hackernoon.com/an-intro-to-prompting-and-prompt-engineering)
 ![](https://cdn.hackernoon.com/images/OjTeRhc0SEbypqZ4jlXRwi5DzWJ2-3y92r9b.jpeg)
 Prompting and prompt engineering are easily the most in demand skills of 2023. 
 
-### [219. Reinforcement Learning [Part 2]: The Q-learning Algorithm](https://hackernoon.com/reinforcement-learning-part-2-the-q-learning-algorithm)
+### [217. Reinforcement Learning [Part 2]: The Q-learning Algorithm](https://hackernoon.com/reinforcement-learning-part-2-the-q-learning-algorithm)
 ![](https://cdn.hackernoon.com/images/DUgalx4alqOf4QlthE3dDI1x7Wq2-b7n3l1w.jpeg)
 Learning how to find the optimal q-value can produce significant improvements in a ML-algorithm's ability to learn both in terms of speed and quality. 
 
-### [220. ChatGPD Doesn't Exist: It's ChatGPT](https://hackernoon.com/chatgpd-doesnt-exist-its-chatgpt)
-![](https://cdn.hackernoon.com/images/chat-bot-clcsiqcgq000101s60qksc0p8.png)
-C﻿hatGPD is one of the most common misspellings of the viral language model developed by Open AI. The correct term is ChatGPT.
-
-### [221. The Deception Problem: When AI Learns to Lie Without Being Taught](https://hackernoon.com/the-deception-problem-when-ai-learns-to-lie-without-being-taught)
+### [218. The Deception Problem: When AI Learns to Lie Without Being Taught](https://hackernoon.com/the-deception-problem-when-ai-learns-to-lie-without-being-taught)
 ![](https://cdn.hackernoon.com/images/uBhjbZIm34du43FkQ7OopJQf37Y2-b803c96.jpeg)
 Reinforcement learning improves reasoning but introduces manipulation, opacity, and goal‑pursuit outside human intent.
 
-### [222. Entendiendo PyTorch: las bases de las bases para hacer inteligencia artificial](https://hackernoon.com/pytorch-y-su-funcionamiento-0p5j32hs)
+### [219. ChatGPD Doesn't Exist: It's ChatGPT](https://hackernoon.com/chatgpd-doesnt-exist-its-chatgpt)
+![](https://cdn.hackernoon.com/images/chat-bot-clcsiqcgq000101s60qksc0p8.png)
+C﻿hatGPD is one of the most common misspellings of the viral language model developed by Open AI. The correct term is ChatGPT.
+
+### [220. Entendiendo PyTorch: las bases de las bases para hacer inteligencia artificial](https://hackernoon.com/pytorch-y-su-funcionamiento-0p5j32hs)
 ![](https://cdn.hackernoon.com/images/so12736lj.jpg)
 <meta name="monetization" content="$ilp.uphold.com/EXa8i9DQ32qy">
 
 
-### [223. Beginner's Guide to Product Categorization in Machine Learning](https://hackernoon.com/beginners-guide-to-product-categorization-in-machine-learning-bai3tip)
+### [221. Beginner's Guide to Product Categorization in Machine Learning](https://hackernoon.com/beginners-guide-to-product-categorization-in-machine-learning-bai3tip)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-ro2d3t5a.jpeg?alt=media&token=bac72ce7-fc40-48e7-8ec8-a33d799e5e26)
 Product categorization, sometimes referred to as product classification, is a field of study within natural language processing (NLP). It is also one of the biggest challenges for ecommerce companies. With the advancement of AI technology, researchers have been applying machine learning to product categorization problems. 
 
-### [224. Numpy With Python For Data Science](https://hackernoon.com/numpy-with-python-for-data-science-16ff2f646591)
+### [222. Numpy With Python For Data Science](https://hackernoon.com/numpy-with-python-for-data-science-16ff2f646591)
 ![](https://hackernoon.com/hn-images/1*9wHrewC1Dyf2Au_qEqwWcg.jpeg)
 In <a href="https://hackernoon.com/10-ways-to-make-python-a-dangerous-language-for-data-science-6b88566ac040" target="_blank">Part 1</a> of the Data science With Python series, we looked at the basic in-built functions for numerical computing in Python. In this part, we will be taking a look at the Numpy library.
 
-### [225. AI vs. Machine Learning: Key Differences Explained](https://hackernoon.com/ai-vs-machine-learning-key-differences-explained)
+### [223. AI vs. Machine Learning: Key Differences Explained](https://hackernoon.com/ai-vs-machine-learning-key-differences-explained)
 ![](https://cdn.hackernoon.com/images/LPmeqAEs5aas4Ro6Y74N3Lhvxui2-mg93lye.jpeg)
 Eliminate your confusion between AI and ML, two different topics that are often confused for one another. 
 
-### [226. 17 Open Crime Datasets for Data Science and Machine Learning Projects](https://hackernoon.com/17-open-crime-datasets-for-data-science-and-machine-learning-projects-eu3e3w6e)
+### [224. 17 Open Crime Datasets for Data Science and Machine Learning Projects](https://hackernoon.com/17-open-crime-datasets-for-data-science-and-machine-learning-projects-eu3e3w6e)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-ku1m3wbg.jpeg?alt=media&token=a126a2b7-c3a5-4d92-ab57-bab81e0c2c12)
 For those looking to analyze crime rates or trends over a specific area or time period, we have compiled a list of the 16 best crime datasets made available for public use. 
 
-### [227. How Artificial Intelligence Is Redefining Art](https://hackernoon.com/how-artificial-intelligence-is-redefining-art-6cea5a01b05b)
+### [225. How Artificial Intelligence Is Redefining Art](https://hackernoon.com/how-artificial-intelligence-is-redefining-art-6cea5a01b05b)
 ![](https://cdn.hackernoon.com/images/jo2d308f.jpg)
 Art has long been considered the exclusive domain of human creativity. But turns out machines can do a lot more in the creative realm than we humans can imagine. In October 2018, Christie’s sold first AI-generated painting for $432,500. Titled Edmond de Belamy, the artwork was expected to sell for $10,000. Obvious art created this masterpiece using Generative Adversarial Network (GAN) algorithm by feeding the system with 15,000 portraits created between the 14th and 20th century. While images created using AI have been floating around on the internet for a while now, Edmond de Belamy proved that machines can bring a new genre of art.
 
-### [228. Top 20 Twitter Datasets for Machine Learning Projects](https://hackernoon.com/20-twitter-datasets-for-ml-projects-dk3c3wyg)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-521j3wmw.jpeg?alt=media&token=e257ea41-e204-4355-9924-b42286a8386d)
-It is often very difficult for AI researchers to gather social media data for machine learning. Luckily, one free and accessible source of SNS data is Twitter. 
-
-### [229. Neural Network Layers: All You Need Is Inside Comprehensive Overview ](https://hackernoon.com/neural-network-layers-all-you-need-is-an-inside-comprehensive-overview)
+### [226. Neural Network Layers: All You Need Is Inside Comprehensive Overview ](https://hackernoon.com/neural-network-layers-all-you-need-is-an-inside-comprehensive-overview)
 ![](https://cdn.hackernoon.com/images/artificial-neural-network-clh5wvvky000401s695tx3vkd.png)
 Explore an in-depth overview of various neural network layers, their history, mathematical formulations, and code implementations. The publication covers common
 
-### [230. Top 8 JavaScript-based Machine Learning Frameworks & Libraries](https://hackernoon.com/top-javascript-based-machine-learning-frameworks-and-libraries-lz92j32w4)
+### [227. Top 20 Twitter Datasets for Machine Learning Projects](https://hackernoon.com/20-twitter-datasets-for-ml-projects-dk3c3wyg)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-521j3wmw.jpeg?alt=media&token=e257ea41-e204-4355-9924-b42286a8386d)
+It is often very difficult for AI researchers to gather social media data for machine learning. Luckily, one free and accessible source of SNS data is Twitter. 
+
+### [228. Top 8 JavaScript-based Machine Learning Frameworks & Libraries](https://hackernoon.com/top-javascript-based-machine-learning-frameworks-and-libraries-lz92j32w4)
 ![](https://cdn.hackernoon.com/images/h48xq32nh.jpg)
 The incredible growth in new technologies like machine learning has helped web developers build new AI applications in ways easier than ever. In the present day, most AI enthusiasts and developers in the field leverage Python frameworks for AI & machine learning development. But looking around, one may also find that JavaScript-based frameworks are also being implemented in AI.
 
-### [231. We Should Talk About ChatGPT](https://hackernoon.com/we-should-talk-about-chatgpt)
+### [229. Using Browser Network Calls for Data Processing: The Search for a Dubai Chocolate Pistachio Shake](https://hackernoon.com/using-browser-network-calls-for-data-processing-the-search-for-a-dubai-chocolate-pistachio-shake)
+![](https://cdn.hackernoon.com/images/pC6MTHbGrrOUGtfQZgWOc8JwOV52-qh2377b.jpeg)
+This article will cover how I got the viral Dubai Chocolate Pistachio Shake using basic network calls and built a scalable cloud infrastructure for ML services.
+
+### [230. We Should Talk About ChatGPT](https://hackernoon.com/we-should-talk-about-chatgpt)
 ![](https://cdn.hackernoon.com/images/YRKuB1GmYbXk8zbMBLJHYnL2nXk1-z793ph1.jpeg)
 ChatGPT isn't the only thing taking over your newsfeed. Check out this syndicate.
 
-### [232. Manipulate Images Using Text Commands via this AI](https://hackernoon.com/manipulate-images-using-text-commands-via-this-ai-w24937kt)
+### [231. Manipulate Images Using Text Commands via this AI](https://hackernoon.com/manipulate-images-using-text-commands-via-this-ai-w24937kt)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-mtr35do.jpeg)
 Manipulate Real Images With Text - An AI For Creative Artists! StyleCLIP Explained
 
-### [233. Image Annotation Types For Computer Vision And Its Use Cases](https://hackernoon.com/illuminating-the-intriguing-computer-vision-uses-cases-of-image-annotation-w21m3zfg)
+### [232. Image Annotation Types For Computer Vision And Its Use Cases](https://hackernoon.com/illuminating-the-intriguing-computer-vision-uses-cases-of-image-annotation-w21m3zfg)
 ![](https://cdn.hackernoon.com/drafts/132dr3zml.png)
 There are many types of image annotations for computer vision out there, and each one of these annotation techniques has different applications. 
 
-### [234. The AI Infrastructure Alliance and the Evolution of the Canonical Stack for Machine Learning](https://hackernoon.com/the-ai-infrastructure-alliance-and-the-evolution-of-the-canonical-stack-for-machine-learning-v6n372o)
+### [233. The AI Infrastructure Alliance and the Evolution of the Canonical Stack for Machine Learning](https://hackernoon.com/the-ai-infrastructure-alliance-and-the-evolution-of-the-canonical-stack-for-machine-learning-v6n372o)
 ![](https://cdn.hackernoon.com/images/mSxZWtrStVR2jHhLGl8ucTDa18C3-odt026ip.jpeg)
 We've got a Cambrian explosion of new companies building a massive array of software to democratize AI for the rest of us. We created the AI Infrastructure All.
 
-### [235. 9 Free AI Tools Everyone Needs to Try](https://hackernoon.com/9-free-ai-tools-everyone-needs-to-try)
+### [234. 9 Free AI Tools Everyone Needs to Try](https://hackernoon.com/9-free-ai-tools-everyone-needs-to-try)
 ![](https://cdn.hackernoon.com/images/NWNkzkeYezPuySg5dnEnsxyydq83-tvk3osq.jpeg)
 Unlock the power of AI with these 9 free tools! Boost productivity, improve decision-making, & enhance your personal life.
 
-### [236. Essential Guide to Transformer Models in Machine Learning](https://hackernoon.com/essential-guide-to-transformer-models-in-machine-learning-dzz3tk8)
+### [235. Essential Guide to Transformer Models in Machine Learning](https://hackernoon.com/essential-guide-to-transformer-models-in-machine-learning-dzz3tk8)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-ep9k3t7s.jpeg?alt=media&token=05abf289-6834-4bf3-926c-6687a9fd8653)
 Transformer models have become the defacto standard for NLP tasks. As an example, I’m sure you’ve already seen the awesome GPT3 Transformer demos and articles detailing how much time and money it took to train. 
 
-### [237. Manipulación de tensores en PyTorch. ¡El primer paso para el deep learning!](https://hackernoon.com/manipulacion-de-tensores-en-pytorch-hlp32ip)
-![](https://cdn.hackernoon.com/drafts/9y2i323a.png)
-*Nota: Contactar a Omar Espejel (omar@tsc.ai) para cualquier observación. Cualquier error es responsabilidad del autor.
+### [236. Exploring Machine Learning Techniques for LTV/CLV Prediction](https://hackernoon.com/exploring-machine-learning-techniques-for-ltvclv-prediction)
+![](https://cdn.hackernoon.com/images/SZePNvD5QddwfAVEJH4NuxB3oTX2-az03gcs.png)
+Using ML to analyze and predict CLV offers more accurate, actionable insights by learning from behavioral data at scale.
 
-### [238. Why is Python Used for Machine Learning?](https://hackernoon.com/why-python-used-for-machine-learning-u13f922ug)
-![](https://cdn.hackernoon.com/images/tv392249.jpg)
-Machine learning has become the boon for the IT industry. Now, AI and MI are not a science fiction idea as it has evolved to reality. AI helps in doing the work, which is impossible to do manually. 
-
-### [239. LiteLLM: Call Every LLM API Like It's OpenAI](https://hackernoon.com/litellm-call-every-llm-api-like-its-openai)
-![](https://cdn.hackernoon.com/images/bykiwN5VCAWtqt2zfMjEk6GD6sD3-ibc3r03.jpeg)
-LiteLLM — a package to simplify API calls across Azure, Anthropic, OpenAI, Cohere and Replicate. 
-
-### [240. How To Build and Deploy an NLP Model with FastAPI: Part 1](https://hackernoon.com/how-to-build-and-deploy-an-nlp-model-with-fastapi-part-1-n5w35cj)
-![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-w6e32yf.jpeg)
-Learn how to build an NLP model and deploy it with a  fast web framework for building APIs called FastAPI.
-
-### [241. How to Build an AI-Search-Powered Personal Assistant App](https://hackernoon.com/how-to-build-an-ai-search-powered-personal-assistant-app)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-c193tdc.jpeg)
-A search-powered personal assistant is a digital assistant that uses search engine technology to help users with various tasks. Here's how to make one.
-
-### [242. Top Dev Jokes Of 2019](https://hackernoon.com/top-devjokes-of-2019-se5j32jp)
-![](https://cdn.hackernoon.com/drafts/j41mp32tc.png)
-Having fun while developing is necessary for programmers and developers. No matter how much serious or tough the situation is, one should always take things lightly when it comes to software development. 
-
-### [243. 7 Steps To Prepare A Dataset For An Image-Based AI Project](https://hackernoon.com/7-steps-to-prepare-a-dataset-for-an-image-based-ai-project)
-![](https://cdn.hackernoon.com/images/2DFAaGGO5cfymtBKn4bFFAoT6sg2-z2o3x95.jpeg)
-A guide for AI entrepreneurs on how to prepare a dataset for a machine learning project.
-
-### [244. Data Testing for Machine Learning Pipelines Using Deepchecks, DagsHub, and GitHub Actions](https://hackernoon.com/data-testing-for-machine-learning-pipelines-using-deepchecks-dagshub-and-github-actions)
-![](https://cdn.hackernoon.com/images/gftycAYCOWhE0ZzqqjbIzKFUvIt1-gwp2ig7.jpeg)
-A complete setup of a ML project using version control (also for data with DVC), experiment tracking, data checks with deepchecks and GitHub Action
-
-### [245. Train Your Own ChatGPT-like LLM with FlanT5 and Replicate](https://hackernoon.com/train-your-own-chatgpt-like-llm-with-flant5-and-replicate)
-![](https://cdn.hackernoon.com/images/UUv7KtEHDCNbhNo3nUI5rsMdOdx1-h093uss.jpeg)
-We train an open-source LLM to distinguish between William Shakespeare and Anton Chekhov. 
-
-### [246. How to Perform MNIST Digit Recognition with a Multi-layer Neural Network](https://hackernoon.com/how-to-perform-mnist-digit-recognition-with-a-multi-layer-neural-network-xn223td8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FW81vEWFislcQhNgPQ2IG9MRk52k2-ss6b3tzm.jpeg?alt=media&token=5d51e0a6-8e76-474d-bcc3-1f567eed60f3)
-Human Visual System is a marvel of the world. People can readily recognise digits. But it is not as simple as it looks like. The human brain has a million neurons and billions of connections between them, which makes this exceptionally complex task of image processing easier. People can effortlessly recognize digits.
-
-### [247. A Data Scientist's Guide to Semi-Supervised Learning](https://hackernoon.com/a-data-scientists-guide-to-semi-supervised-learning-vh1f37lw)
-![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-uiz3288.jpeg)
-Semi-supervised learning is the type of machine learning that is not commonly talked about by data science and machine learning practitioners but still has a very important role to play. 
-
-### [248. Groq’s Deterministic Architecture is Rewriting the Physics of AI Inference](https://hackernoon.com/groqs-deterministic-architecture-is-rewriting-the-physics-of-ai-inference)
+### [237. Groq’s Deterministic Architecture is Rewriting the Physics of AI Inference](https://hackernoon.com/groqs-deterministic-architecture-is-rewriting-the-physics-of-ai-inference)
 ![](https://cdn.hackernoon.com/images/bI3BzyBanbVxEZqmLV7jRnw6d9o2-kgb37gp.png)
 Groq’s Deterministic Architecture is Rewriting the Physics of AI Inference. How Nvidia Learned to Stop Worrying and Acquired Groq
 
 
-### [249. Binary Classification: Understanding Activation and Loss Functions with a PyTorch Example](https://hackernoon.com/binary-classification-understanding-activation-and-loss-functions-with-a-pytorch-example)
+### [238. Manipulación de tensores en PyTorch. ¡El primer paso para el deep learning!](https://hackernoon.com/manipulacion-de-tensores-en-pytorch-hlp32ip)
+![](https://cdn.hackernoon.com/drafts/9y2i323a.png)
+*Nota: Contactar a Omar Espejel (omar@tsc.ai) para cualquier observación. Cualquier error es responsabilidad del autor.
+
+### [239. Why is Python Used for Machine Learning?](https://hackernoon.com/why-python-used-for-machine-learning-u13f922ug)
+![](https://cdn.hackernoon.com/images/tv392249.jpg)
+Machine learning has become the boon for the IT industry. Now, AI and MI are not a science fiction idea as it has evolved to reality. AI helps in doing the work, which is impossible to do manually. 
+
+### [240. LiteLLM: Call Every LLM API Like It's OpenAI](https://hackernoon.com/litellm-call-every-llm-api-like-its-openai)
+![](https://cdn.hackernoon.com/images/bykiwN5VCAWtqt2zfMjEk6GD6sD3-ibc3r03.jpeg)
+LiteLLM — a package to simplify API calls across Azure, Anthropic, OpenAI, Cohere and Replicate. 
+
+### [241. How To Build and Deploy an NLP Model with FastAPI: Part 1](https://hackernoon.com/how-to-build-and-deploy-an-nlp-model-with-fastapi-part-1-n5w35cj)
+![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-w6e32yf.jpeg)
+Learn how to build an NLP model and deploy it with a  fast web framework for building APIs called FastAPI.
+
+### [242. How to Build an AI-Search-Powered Personal Assistant App](https://hackernoon.com/how-to-build-an-ai-search-powered-personal-assistant-app)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-c193tdc.jpeg)
+A search-powered personal assistant is a digital assistant that uses search engine technology to help users with various tasks. Here's how to make one.
+
+### [243. Top Dev Jokes Of 2019](https://hackernoon.com/top-devjokes-of-2019-se5j32jp)
+![](https://cdn.hackernoon.com/drafts/j41mp32tc.png)
+Having fun while developing is necessary for programmers and developers. No matter how much serious or tough the situation is, one should always take things lightly when it comes to software development. 
+
+### [244. 7 Steps To Prepare A Dataset For An Image-Based AI Project](https://hackernoon.com/7-steps-to-prepare-a-dataset-for-an-image-based-ai-project)
+![](https://cdn.hackernoon.com/images/2DFAaGGO5cfymtBKn4bFFAoT6sg2-z2o3x95.jpeg)
+A guide for AI entrepreneurs on how to prepare a dataset for a machine learning project.
+
+### [245. Binary Classification: Understanding Activation and Loss Functions with a PyTorch Example](https://hackernoon.com/binary-classification-understanding-activation-and-loss-functions-with-a-pytorch-example)
 ![](https://cdn.hackernoon.com/images/BOZm3S9K10QSsDqaAo9E4AmSruG3-0l92fwm.jpeg)
 Binary classification NN is used with the sigmoid activation function on its final layer together with BCE loss. The final layer size should be 1.
 
-### [250. LLMs Don't Understand Negation](https://hackernoon.com/llms-dont-understand-negation)
+### [246. Data Testing for Machine Learning Pipelines Using Deepchecks, DagsHub, and GitHub Actions](https://hackernoon.com/data-testing-for-machine-learning-pipelines-using-deepchecks-dagshub-and-github-actions)
+![](https://cdn.hackernoon.com/images/gftycAYCOWhE0ZzqqjbIzKFUvIt1-gwp2ig7.jpeg)
+A complete setup of a ML project using version control (also for data with DVC), experiment tracking, data checks with deepchecks and GitHub Action
+
+### [247. LLMs Don't Understand Negation](https://hackernoon.com/llms-dont-understand-negation)
 ![](https://cdn.hackernoon.com/images/a-person-saying-no-dbmkkishhf1yx2rt7q8b24wu.png)
 LLMs (like GPT) are really bad at following negative instructions. The post includes a demonstration, practice takeaways (prompt engineering), and some thought
+
+### [248. A Data Scientist's Guide to Semi-Supervised Learning](https://hackernoon.com/a-data-scientists-guide-to-semi-supervised-learning-vh1f37lw)
+![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-uiz3288.jpeg)
+Semi-supervised learning is the type of machine learning that is not commonly talked about by data science and machine learning practitioners but still has a very important role to play. 
+
+### [249. Train Your Own ChatGPT-like LLM with FlanT5 and Replicate](https://hackernoon.com/train-your-own-chatgpt-like-llm-with-flant5-and-replicate)
+![](https://cdn.hackernoon.com/images/UUv7KtEHDCNbhNo3nUI5rsMdOdx1-h093uss.jpeg)
+We train an open-source LLM to distinguish between William Shakespeare and Anton Chekhov. 
+
+### [250. How to Perform MNIST Digit Recognition with a Multi-layer Neural Network](https://hackernoon.com/how-to-perform-mnist-digit-recognition-with-a-multi-layer-neural-network-xn223td8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FW81vEWFislcQhNgPQ2IG9MRk52k2-ss6b3tzm.jpeg?alt=media&token=5d51e0a6-8e76-474d-bcc3-1f567eed60f3)
+Human Visual System is a marvel of the world. People can readily recognise digits. But it is not as simple as it looks like. The human brain has a million neurons and billions of connections between them, which makes this exceptionally complex task of image processing easier. People can effortlessly recognize digits.
 
 ### [251. Linear Regression and its Mathematical implementation](https://hackernoon.com/linear-regression-and-its-mathematical-implementation-sc1ql24o8)
 ![](https://cdn.hackernoon.com/images/h31rz24si.jpg)
@@ -1031,41 +1033,41 @@ GEN-1 is able to take a video and apply a completely different style onto it, j
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-tvs282l.jpeg?alt=media&token=41704db9-2e34-456b-8711-65fb287513eb)
 In this blog, I am going to show you how we can use rekognition for image analysis using lambda function.we will be going to perform label detection and object detection for an image so basically we are performing image analysis in this blog.
 
-### [257. How Machine Learning is Used in Astronomy](https://hackernoon.com/how-machine-learning-used-in-astronomy-g4d73yot)
-![](https://cdn.hackernoon.com/drafts/4x543y95.png)
-Is Astronomy data science?
+### [257. 21 Best Coursera Courses and Certificates for IT Professionals to Learn Data Science and Cloud ](https://hackernoon.com/21-best-coursera-courses-and-certificates-for-it-professionals-to-learn-data-science-and-cloud)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-ao93ivm.jpeg)
+Here are the top 20 Coursera Courses and Certifications to Learn Data Science, Cloud Computing, and Python.
 
 ### [258. ChatSQL: Enabling ChatGPT to Generate SQL Queries from Plain Text](https://hackernoon.com/chatsql-enabling-chatgpt-to-generate-sql-queries-from-plain-text)
 ![](https://cdn.hackernoon.com/images/gHMlJKXRQih8J6tFoFPzex5q6ke2-qlf3pky.jpeg)
 ChatGPT was released in June 2020 that it is developed by OpenAI. It has led to revolutionary developments in many areas. One of these areas is the creation of 
 
-### [259. 21 Best Coursera Courses and Certificates for IT Professionals to Learn Data Science and Cloud ](https://hackernoon.com/21-best-coursera-courses-and-certificates-for-it-professionals-to-learn-data-science-and-cloud)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-ao93ivm.jpeg)
-Here are the top 20 Coursera Courses and Certifications to Learn Data Science, Cloud Computing, and Python.
+### [259. How Machine Learning is Used in Astronomy](https://hackernoon.com/how-machine-learning-used-in-astronomy-g4d73yot)
+![](https://cdn.hackernoon.com/drafts/4x543y95.png)
+Is Astronomy data science?
 
-### [260. Increase The Size of Your Datasets Through Data Augmentation](https://hackernoon.com/increase-the-size-of-your-datasets-through-data-augmentation-ex1x3t3j)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-kjg3t7l.jpeg?alt=media&token=bf9104cc-60e0-4a9d-873d-244cbe0ae00b)
-Access to training data is one of the largest blockers for many machine learning projects. Luckily, for various different projects, we can use data augmentation to increase the size of our training data many times over. 
-
-### [261. This AI Can Separate Speech, Music and Sound Effects from Movie Soundtracks](https://hackernoon.com/this-ai-can-separate-speech-music-and-sound-effects-from-movie-soundtracks)
+### [260. This AI Can Separate Speech, Music and Sound Effects from Movie Soundtracks](https://hackernoon.com/this-ai-can-separate-speech-music-and-sound-effects-from-movie-soundtracks)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-mi13613.jpeg)
 Have you ever tuned in to a video or a TV show and the actors were completely inaudible, or the music was way too loud? Well, this problem, also called the cocktail party problem, may never happen again. Mitsubishi and Indiana University just published a new model as well as a new dataset tackling this task of identifying the right soundtrack. For example, if we take the same audio clip we just ran with the music way too loud, you can simply turn up or down the audio track you want to give more importance to the speech than the music.
 
-### [262. A Practical Guide to Machine Learning for Business](https://hackernoon.com/a-practical-guide-to-machine-learning-for-business)
+### [261. Increase The Size of Your Datasets Through Data Augmentation](https://hackernoon.com/increase-the-size-of-your-datasets-through-data-augmentation-ex1x3t3j)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-kjg3t7l.jpeg?alt=media&token=bf9104cc-60e0-4a9d-873d-244cbe0ae00b)
+Access to training data is one of the largest blockers for many machine learning projects. Luckily, for various different projects, we can use data augmentation to increase the size of our training data many times over. 
+
+### [262. 10 Ways AI Has Changed Our Lives](https://hackernoon.com/10-ways-ai-has-changed-our-lives-m85v3ych)
+![](https://cdn.hackernoon.com/drafts/xp2ou3ylz.png)
+The human race has come a long way in history. The recent technological advancements contribute to this progress, making lives easier for everyone. Robots, supercomputers and interactive applications are no longer science-fiction tropes. Data scientists and machine learning engineers are working on realistic machines with human-like intelligence. Artificial intelligence is an integral part of our everyday life. From our smartphones to the GPS navigation in our cars- life without AI seems impossible. Here are some ways that AI impacts our life;
+
+### [263. A Practical Guide to Machine Learning for Business](https://hackernoon.com/a-practical-guide-to-machine-learning-for-business)
 ![](https://cdn.hackernoon.com/images/OghJQM6nrhg4aid4Zstq3IKtY7o1-4pg387a.png)
 A practical guide to using machine learning in business, from defining problems and choosing models to deployment, monitoring, and delivering real value.
 
-### [263. Understanding A Recurrent Neural Network For Image Generation](https://hackernoon.com/understanding-a-recurrent-neural-network-for-image-generation-7e2f83wdg)
+### [264. Understanding A Recurrent Neural Network For Image Generation](https://hackernoon.com/understanding-a-recurrent-neural-network-for-image-generation-7e2f83wdg)
 ![](https://cdn.hackernoon.com/images/6b2hg3whi.jpg)
 The purpose of this post is to implement and understand Google Deepmind’s paper DRAW: A Recurrent Neural Network For Image Generation. The code is based on the work of Eric Jang, who in his original code was able to achieve the implementation in only 158 lines of Python code.
 
-### [264. How to Build Your Own PyTorch Neural Network Layer from Scratch](https://hackernoon.com/how-to-build-your-own-pytorch-neural-network-layer-from-scratch-2x6136th)
+### [265. How to Build Your Own PyTorch Neural Network Layer from Scratch](https://hackernoon.com/how-to-build-your-own-pytorch-neural-network-layer-from-scratch-2x6136th)
 ![](https://cdn.hackernoon.com/images/be1bd31qz.jpg)
 This is actually an assignment from Jeremy Howard’s fast.ai course, lesson 5. I’ve showcased how easy it is to build a Convolutional Neural Networks from scratch using PyTorch. Today, let’s try to delve down even deeper and see if we could write our own nn.Linear module. Why waste your time writing your own PyTorch module while it’s already been written by the devs over at Facebook?
-
-### [265. 10 Ways AI Has Changed Our Lives](https://hackernoon.com/10-ways-ai-has-changed-our-lives-m85v3ych)
-![](https://cdn.hackernoon.com/drafts/xp2ou3ylz.png)
-The human race has come a long way in history. The recent technological advancements contribute to this progress, making lives easier for everyone. Robots, supercomputers and interactive applications are no longer science-fiction tropes. Data scientists and machine learning engineers are working on realistic machines with human-like intelligence. Artificial intelligence is an integral part of our everyday life. From our smartphones to the GPS navigation in our cars- life without AI seems impossible. Here are some ways that AI impacts our life;
 
 ### [266. Amazing Examples of AI and Machine Learning Applications](https://hackernoon.com/amazing-examples-of-ai-applications-and-machine-learning-ze16o31jf)
 ![](https://cdn.hackernoon.com/drafts/vk15t3157.png)
@@ -1079,17 +1081,17 @@ Researchers use an algebraic acme called “Losses” in order to optimise the m
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-z86524jz.png)
 We will train a simple neural network to solve the OpenAI CartPole game using a genetic algorithm, PyTorch, and PyGAD.
 
-### [269. Run DeepSeek R1 Locally to Learn How It 'Thinks'—Here's How](https://hackernoon.com/run-deepseek-r1-locally-to-learn-how-it-thinksheres-how)
+### [269. 10 Best Datasets for Geospatial Analytics (Open and Public Access)](https://hackernoon.com/10-best-datasets-for-geospatial-analytics-open-and-public-access)
+![](https://cdn.hackernoon.com/images/geospatial-datasets-cldv6a3ar000001s6f3ogaj0h.png)
+Scientists use geospatial analytics to build visualizations such as maps, graphs and cartograms. These are the Best Public Datasets for Geospatial Analytics.
+
+### [270. Run DeepSeek R1 Locally to Learn How It 'Thinks'—Here's How](https://hackernoon.com/run-deepseek-r1-locally-to-learn-how-it-thinksheres-how)
 ![](https://cdn.hackernoon.com/images/bI3BzyBanbVxEZqmLV7jRnw6d9o2-tr0386n.png)
 Examples of how DeepSeek R1 reasoning LLM "thinks", and instructions on how to run it locally with ollama.
 
-### [270. Survey on Acoustic Sensors in Self-Driving Cars](https://hackernoon.com/survey-on-acoustic-sensors-in-self-driving-cars)
+### [271. Survey on Acoustic Sensors in Self-Driving Cars](https://hackernoon.com/survey-on-acoustic-sensors-in-self-driving-cars)
 ![](https://cdn.hackernoon.com/images/1NKxtzMIt9XX9ZmjR9HoYbeT1PJ3-gy93l2g.jpeg)
 Sound has been used in numerous applications as a tool for object localization. Audio technology can enhance object detection and may improve self driving cars.
-
-### [271. 10 Best Datasets for Geospatial Analytics (Open and Public Access)](https://hackernoon.com/10-best-datasets-for-geospatial-analytics-open-and-public-access)
-![](https://cdn.hackernoon.com/images/geospatial-datasets-cldv6a3ar000001s6f3ogaj0h.png)
-Scientists use geospatial analytics to build visualizations such as maps, graphs and cartograms. These are the Best Public Datasets for Geospatial Analytics.
 
 ### [272. Crowdsourcing Data Labeling for Machine Learning Projects [A How-To Guide] ](https://hackernoon.com/crowdsourcing-data-labeling-for-machine-learning-projects-a-how-to-guide-cp6h32nd)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1r82rr1.jpeg)
@@ -1103,13 +1105,13 @@ In the process of building a Machine Learning model, there is a trade-off betwee
 ![](https://cdn.hackernoon.com/images/PTzlJJ2dKjTA4aK3EFGpnVUtreg1-3fa3soc.jpeg)
 "In a world where AI's impact on jobs is undeniable, this insightful exploration unveils how AI serves as both a catalyst and a weapon, transforming industries 
 
-### [275. How TimeGPT Transforms Predictive Analytics with AI](https://hackernoon.com/how-timegpt-transforms-predictive-analytics-with-ai)
-![](https://cdn.hackernoon.com/images/3dP1h4oDXWfdH1z81Je2nAo7JKq1-yv83288.jpeg)
-Get an overview of TimeGPT, and learn how to boost any prediction using MindsDB plus AI models from Nixtla.
-
-### [276. Introducing CatalyzeX: A Browser Extension for Machine Learning ](https://hackernoon.com/catalyzex-a-must-have-browser-extension-for-machine-learning-engineers-and-researchers-a4q3w2t)
+### [275. Introducing CatalyzeX: A Browser Extension for Machine Learning ](https://hackernoon.com/catalyzex-a-must-have-browser-extension-for-machine-learning-engineers-and-researchers-a4q3w2t)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6SLjBzvrGiMFuIFkYHt5D8lxIlw1-oqt3w7b.jpeg?alt=media&token=d10a2304-e11e-4939-8bac-1739bbc2317d)
 Andrew Ng likes it, you probably will too!
+
+### [276. How TimeGPT Transforms Predictive Analytics with AI](https://hackernoon.com/how-timegpt-transforms-predictive-analytics-with-ai)
+![](https://cdn.hackernoon.com/images/3dP1h4oDXWfdH1z81Je2nAo7JKq1-yv83288.jpeg)
+Get an overview of TimeGPT, and learn how to boost any prediction using MindsDB plus AI models from Nixtla.
 
 ### [277. 🎬 Introducing MetaGPT: Unleashing the Power of AI Agents for Complex Tasks](https://hackernoon.com/introducing-metagpt-unleashing-the-power-of-ai-agents-for-complex-tasks)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-3c93qtz.jpeg)
@@ -1124,904 +1126,904 @@ How to achieve 2x acceleration for diffusion models on Nvidia GPUs by using TheS
 ![](https://cdn.hackernoon.com/images/mimWITmtQ4S95mwyk8L8nhBde8r1-j1c3783.jpeg)
 Explore time series analysis: from cross-validation, decomposition, transformation to advanced modeling with ARIMA, Neural Networks, and more.
 
-### [280. How to Build a Conversational AI bot Using Blenderbot](https://hackernoon.com/how-to-build-a-conversational-ai-bot-using-blenderbot)
+### [280. From 140GB to 4GB: The Art of LLM Quantization](https://hackernoon.com/from-140gb-to-4gb-the-art-of-llm-quantization)
+![](https://cdn.hackernoon.com/images/E1FLk4CMKlND7qghfbghUANDz8q2-vt439xe.png)
+Quantization shrinks 140GB LLMs to under 4GB, bringing enterprise AI to consumer GPUs. A deep dive into GPTQ, AWQ, GGUF, and beyond.
+
+### [281. How to Build a Conversational AI bot Using Blenderbot](https://hackernoon.com/how-to-build-a-conversational-ai-bot-using-blenderbot)
 ![](https://cdn.hackernoon.com/images/k637U4fYr0RGVspCP5s7dpkuIBG2-qd0383l.jpeg)
  How to build a conversational Bot with the Blenderbot model, an Open Source Language Generation Model made by Facebook AI so that you can have your own Siri.
 
-### [281. Dimensionality Reduction Using PCA : A Comprehensive Hands-On Primer](https://hackernoon.com/dimensionality-reduction-using-pca-a-comprehensive-hands-on-primer-ph8436lj)
+### [282. Dimensionality Reduction Using PCA : A Comprehensive Hands-On Primer](https://hackernoon.com/dimensionality-reduction-using-pca-a-comprehensive-hands-on-primer-ph8436lj)
 ![](https://cdn.hackernoon.com/drafts/kk19133no.png)
 We, humans, are experiencing tailor-made services which have been engineered right for us, we are not troubled personally, but we are doing one thing every day, which is kind of helping this intelligent machine work day and night just to make sure all these services are curated right and delivered to us in the manner we like to consume it. 
 
-### [282. How to Classify Animal Images via a Convolutional Neural Network](https://hackernoon.com/how-to-classify-animal-images-via-a-convolutional-neural-network-op1w3x3f)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxpWOWpzF3EYM2RPt1PB3bH7xk9V2-lch3uxz.jpeg?alt=media&token=06cf3557-0f90-49e8-aebe-419ead8d23f2)
-Identifying patterns and extracting features on images using deep learning models
-
-### [283. How To Scrape Amazon, Yelp and GitHub Profiles in 30 Seconds](https://hackernoon.com/how-to-scrape-amazon-yelp-and-github-profiles-in-35-seconds-3q2534v9)
-![](https://cdn.hackernoon.com/drafts/66k134on.png)
-The most talented developers in the world can be found on GitHub. What if there was an easy, fast and free way to find, rank and recruit them? I'll show you exactly how to to this in less than a minute using free tools and a process that I've hacked together to vet top tech talent at BizPayO.
-
-### [284. The Driving Force Behind ChatGPT](https://hackernoon.com/the-driving-force-behind-chatgpt)
+### [283. The Driving Force Behind ChatGPT](https://hackernoon.com/the-driving-force-behind-chatgpt)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-oz93myq.jpeg)
 Inspired by living beings, reinforcement learning teaches machines (or agents) to gather positive rewards and avoid negative ones in their environment. 
 
-### [285. The Programming Language For Machine Learning Projects](https://hackernoon.com/the-programming-language-for-machine-learning-projects-r9f73ycs)
+### [284. How to Classify Animal Images via a Convolutional Neural Network](https://hackernoon.com/how-to-classify-animal-images-via-a-convolutional-neural-network-op1w3x3f)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxpWOWpzF3EYM2RPt1PB3bH7xk9V2-lch3uxz.jpeg?alt=media&token=06cf3557-0f90-49e8-aebe-419ead8d23f2)
+Identifying patterns and extracting features on images using deep learning models
+
+### [285. How To Scrape Amazon, Yelp and GitHub Profiles in 30 Seconds](https://hackernoon.com/how-to-scrape-amazon-yelp-and-github-profiles-in-35-seconds-3q2534v9)
+![](https://cdn.hackernoon.com/drafts/66k134on.png)
+The most talented developers in the world can be found on GitHub. What if there was an easy, fast and free way to find, rank and recruit them? I'll show you exactly how to to this in less than a minute using free tools and a process that I've hacked together to vet top tech talent at BizPayO.
+
+### [286. The Programming Language For Machine Learning Projects](https://hackernoon.com/the-programming-language-for-machine-learning-projects-r9f73ycs)
 ![](https://cdn.hackernoon.com/images/8co3yxw.jpg)
 …and why Python is the de facto in ML
 
 Python is the de facto programming language used is machine learning. This is owed to it’s simplicity and readability, which allows users to focus on the algorithms and results, rather than wasting time on structuring code efficiently and keeping it manageable.
 
-### [286. Probabilistic Predictions in Classification - Evaluating Quality](https://hackernoon.com/probabilistic-predictions-in-classification-evaluating-quality)
+### [287. Probabilistic Predictions in Classification - Evaluating Quality](https://hackernoon.com/probabilistic-predictions-in-classification-evaluating-quality)
 ![](https://cdn.hackernoon.com/images/rzLjEgXM09f7sZsCMSUVi2hPtVW2-u4l38kt.webp)
 Binary classification is one of the most common machine learning tasks. In practice, the goal of such tasks often extends beyond simply predicting a class. 
-
-### [287. Gain State-Of-The-Art Results on Tabular Data with Deep Learning & Embedding Layers [A How To Guide]](https://hackernoon.com/gain-state-of-the-art-results-on-tabular-data-with-deep-learning-and-embedding-layers-a-how-to-guide-r17b36k8)
-![](https://cdn.hackernoon.com/images/ts24c31cb.jpg)
-Tree-based models like Random Forest and XGBoost have become very popular in solving tabular(structured) data problems and gained a lot of tractions in Kaggle competitions lately. It has its very deserving reasons. However, in this article, I want to introduce a different approach from fast.ai’s Tabular module leveraging.
 
 ### [288. How to Use Approximate Leave-one-out Cross-validation to Build Better Models](https://hackernoon.com/how-to-use-approximate-leave-one-out-cross-validation-to-build-better-models-vg1u35g2)
 ![](https://cdn.hackernoon.com/images/jtq5zXwLOJc1DaoLNnZAfir0KuV2-5o36w35vc.jpeg)
 How to use Approximate leave-one-out cross-validation for hyperparameter optimization and outlier detection for logistic regression and ridge regression
 
-### [289. Improve Machine Learning Model Performance by Combining Categorical Features](https://hackernoon.com/improve-machine-learning-model-performance-by-combining-categorical-features-g21u34ep)
-![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-g7c32kc.jpeg)
-Learn how to combine categorical features in your dataset to improve your machine learning model performance.
+### [289. Gain State-Of-The-Art Results on Tabular Data with Deep Learning & Embedding Layers [A How To Guide]](https://hackernoon.com/gain-state-of-the-art-results-on-tabular-data-with-deep-learning-and-embedding-layers-a-how-to-guide-r17b36k8)
+![](https://cdn.hackernoon.com/images/ts24c31cb.jpg)
+Tree-based models like Random Forest and XGBoost have become very popular in solving tabular(structured) data problems and gained a lot of tractions in Kaggle competitions lately. It has its very deserving reasons. However, in this article, I want to introduce a different approach from fast.ai’s Tabular module leveraging.
 
 ### [290. Using Weights and Biases to Perform Hyperparameter Optimization](https://hackernoon.com/using-weights-and-biases-to-perform-hyperparameter-optimization)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-mz93zdn.jpeg)
 Hands on tutorial for hyperparameter optimization of a RandomForestClassifier for Heart Disease UCI dataset with Weights and Biases Sweeps.
 
-### [291. A Quick Introduction to Machine Learning with Dagster](https://hackernoon.com/a-quick-introduction-to-machine-learning-with-dagster-gh53336m)
+### [291. Improve Machine Learning Model Performance by Combining Categorical Features](https://hackernoon.com/improve-machine-learning-model-performance-by-combining-categorical-features-g21u34ep)
+![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-g7c32kc.jpeg)
+Learn how to combine categorical features in your dataset to improve your machine learning model performance.
+
+### [292. A Quick Introduction to Machine Learning with Dagster](https://hackernoon.com/a-quick-introduction-to-machine-learning-with-dagster-gh53336m)
 ![](https://cdn.hackernoon.com/images/YaoayzgDWhd2cMiWWxEuX6klMlp2-g4cw37j0.jpeg)
 This article is a quick introduction to Dagster using a small ML project. It is beginner friendly but might also suit more advanced programmers if they dont know Dagster. 
 
-### [292. Anomaly Detection with Privileged Information—Part 2](https://hackernoon.com/anomaly-detection-with-privileged-informationpart-2)
+### [293. Anomaly Detection with Privileged Information—Part 2](https://hackernoon.com/anomaly-detection-with-privileged-informationpart-2)
 ![](https://cdn.hackernoon.com/images/InZrKTYjKPQNTnSPB4zVh5JDddB3-fn83x3a.jpeg)
 Learn how SVDD encapsulates datasets within hyperspheres, and discover how SVDD+ leverages privileged information to optimize training.
 
-### [293. Top 3 Face Datasets and How to Work with Them](https://hackernoon.com/top-3-face-datasets-and-how-to-work-with-them)
+### [294. Top 3 Face Datasets and How to Work with Them](https://hackernoon.com/top-3-face-datasets-and-how-to-work-with-them)
 ![](https://cdn.hackernoon.com/images/zhC7DRT3cLRRJGLFZtkQiVKSSSf1-os93p4b.jpeg)
 An image dataset contains specially selected digital images intended to help train, test, and evaluate an artificial intelligence (AI) or machine learning (ML) 
 
-### [294. 10 Best Keras Datasets for Building and Training Deep Learning Models](https://hackernoon.com/10-best-keras-datasets-for-building-and-training-deep-learning-models)
+### [295. 10 Best Keras Datasets for Building and Training Deep Learning Models](https://hackernoon.com/10-best-keras-datasets-for-building-and-training-deep-learning-models)
 ![](https://cdn.hackernoon.com/images/XpJR5t0jZkOEpTUlwMdX7M38xQ83-hda3t2y.jpeg)
 This article looks at the Best Keras Datasets for Building and Training Deep Learning Models, accessible to developers and researchers worldwide. 
 
-### [295. Understanding The Importance Of Data For Machine Learning](https://hackernoon.com/understanding-the-importance-of-data-for-machine-learning)
+### [296. How Three ML Models Transform Product Analytics](https://hackernoon.com/how-three-ml-models-transform-product-analytics)
+![](https://cdn.hackernoon.com/images/rzLjEgXM09f7sZsCMSUVi2hPtVW2-cj03dk0.jpeg)
+Learn how machine learning advances product analytics — from predicting behavior to optimizing personalized, data-driven decisions. 
+
+### [297. Understanding The Importance Of Data For Machine Learning](https://hackernoon.com/understanding-the-importance-of-data-for-machine-learning)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-e9037zb.jpeg)
 Data is the most important and must-have food for machine learning. It can be any fact, text, symbols, images, videos, etc., but in unprocessed form. Let us see
 
-### [296. Busting AI Myths: "You Need Tons of Data for Machine Learning"](https://hackernoon.com/busting-ai-myths-you-need-tons-of-data-for-machine-learning-4u214wbg)
+### [298. Busting AI Myths: "You Need Tons of Data for Machine Learning"](https://hackernoon.com/busting-ai-myths-you-need-tons-of-data-for-machine-learning-4u214wbg)
 ![](https://cdn.hackernoon.com/drafts/hq1z4whb.png)
 Leading researchers like Karl Friston describe AI as "active inference" —creating computational statistical models that minimize prediction-error. The human brain operates much the same way, also learning from data. A common argument goes:
 
-### [297. The New AI Model Lets You Generate Music via Text Prompt](https://hackernoon.com/the-new-ai-model-lets-you-generate-music-via-text-prompt)
+### [299. The New AI Model Lets You Generate Music via Text Prompt](https://hackernoon.com/the-new-ai-model-lets-you-generate-music-via-text-prompt)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-n6a3lmw.jpeg)
 We recently covered a model able to imitate someone’s voice called VALL-E. Let’s jump a step further in the creative direction with this new AI called MusicLM. MusicLM allows you to generate music from a text description.
 
-### [298. Deepfake Software Startups That are Commercializing the Technology](https://hackernoon.com/deepfake-software-startups-that-are-commercializing-the-technology-sq2n34yl)
-![](https://cdn.hackernoon.com/images/kcbJJkj9FtWX0xUIL4DYmwC6ius1-wz1c3ze4.gif)
-In late 2017, a Reddit user released a series of synthetic videos containing celebrity likenesses. Since then, deepfake technology has exploded in popularity as people speculate over its future applications. Concerns over the tech's potential for political disinformation and unauthorized pornographic content have led to the implementation of regulations surrounding its use. Simultaneously, innovators and deepfake software startups are scrambling to find ways we can use the tech to revolutionize commercial industries.
-
-### [299. Playbook for Production ML: Latency Testing, Regression Validation, and Automated Deployment](https://hackernoon.com/playbook-for-production-ml-latency-testing-regression-validation-and-automated-deployment)
+### [300. Playbook for Production ML: Latency Testing, Regression Validation, and Automated Deployment](https://hackernoon.com/playbook-for-production-ml-latency-testing-regression-validation-and-automated-deployment)
 ![](https://cdn.hackernoon.com/images/V0mg4ynf9Adqkc3hZJgM5s9qTjy1-ge03fpi.png)
 Even the most automated systems still need an underlying philosophy.
 
-### [300. Text Classification With Zero Shot Learning](https://hackernoon.com/text-classification-with-zero-shot-learning)
+### [301. Deepfake Software Startups That are Commercializing the Technology](https://hackernoon.com/deepfake-software-startups-that-are-commercializing-the-technology-sq2n34yl)
+![](https://cdn.hackernoon.com/images/kcbJJkj9FtWX0xUIL4DYmwC6ius1-wz1c3ze4.gif)
+In late 2017, a Reddit user released a series of synthetic videos containing celebrity likenesses. Since then, deepfake technology has exploded in popularity as people speculate over its future applications. Concerns over the tech's potential for political disinformation and unauthorized pornographic content have led to the implementation of regulations surrounding its use. Simultaneously, innovators and deepfake software startups are scrambling to find ways we can use the tech to revolutionize commercial industries.
+
+### [302. Text Classification With Zero Shot Learning](https://hackernoon.com/text-classification-with-zero-shot-learning)
 ![](https://cdn.hackernoon.com/images/TeSquWinJ6XqiqIk34yxhcYr9G02-t693r6k.jpeg)
 Zero-shot text classification using trnasformers and TARSclassifier.
 
-### [301. Data Science Toolkit (Concepts + Code)](https://hackernoon.com/data-science-toolkit-concepts-code-20628af23cd)
-![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-6683756.webp)
-Hi folks&nbsp;!! In this post, i will discuss about basic tools and software that one can use to solve a data science problem&nbsp;. If you are new to ML or Data Science or Statistics, Feel free to check out my other blog on ML by clicking on the link below.
-
-### [302. How to Run Impact Analysis Without an A/B Test?](https://hackernoon.com/how-to-run-impact-analysis-without-an-ab-test)
+### [303. How to Run Impact Analysis Without an A/B Test?](https://hackernoon.com/how-to-run-impact-analysis-without-an-ab-test)
 ![](https://cdn.hackernoon.com/images/rzLjEgXM09f7sZsCMSUVi2hPtVW2-y7038km.png)
 A practical guide to Propensity Score Matching — learn how to estimate treatment effects without running a traditional A/B test.
 
-### [303. Best Libraries That Will Assist You In EDA: 2021 Edition](https://hackernoon.com/best-libraries-that-will-assist-you-in-eda-2021-edition-2l1734hl)
+### [304. Data Science Toolkit (Concepts + Code)](https://hackernoon.com/data-science-toolkit-concepts-code-20628af23cd)
+![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-6683756.webp)
+Hi folks&nbsp;!! In this post, i will discuss about basic tools and software that one can use to solve a data science problem&nbsp;. If you are new to ML or Data Science or Statistics, Feel free to check out my other blog on ML by clicking on the link below.
+
+### [305. Best Libraries That Will Assist You In EDA: 2021 Edition](https://hackernoon.com/best-libraries-that-will-assist-you-in-eda-2021-edition-2l1734hl)
 ![](https://cdn.hackernoon.com/images/deiTg8Ia45NgFdrw5QLUuAYvjHy1-h9cr36vd.jpeg)
 Exploratory Data Analysis (EDA) is an essential step in the data science project lifecycle. Here are the top 10 python tools for EDA.
 
-### [304. Train a NER Transformer Model with Just a Few Lines of Code via spaCy 3 ](https://hackernoon.com/train-a-ner-transformer-model-with-just-a-few-lines-of-code-via-spacy-3-6d4c3339)
+### [306. Train a NER Transformer Model with Just a Few Lines of Code via spaCy 3 ](https://hackernoon.com/train-a-ner-transformer-model-with-just-a-few-lines-of-code-via-spacy-3-6d4c3339)
 ![](https://cdn.hackernoon.com/images/auor2it56oc51M7nK5CW3iDJwIx2-rw16334k.png)
 Transformer models have become by far the state of the art in NLP technology, with applications ranging from NER, Text Classification, and Question Answering
 
-### [305. Top 5 Machine Learning Programming Languages in 2021](https://hackernoon.com/top-5-machine-learning-programming-languages-s92k34xs)
+### [307. Top 5 Machine Learning Programming Languages in 2021](https://hackernoon.com/top-5-machine-learning-programming-languages-s92k34xs)
 ![](https://cdn.hackernoon.com/images/e4LQkB0qKpOHnRts3rMaOKGjzoU2-6u3y31p1.jpeg)
 Python, R, Lisp, Prolog, and Java are the best machine learning programming languages to learn in 2021.
 
-### [306. Adversarial Machine Learning: A Beginner’s Guide to Adversarial Attacks and Defenses](https://hackernoon.com/adversarial-machine-learning-a-beginners-guide-to-adversarial-attacks-and-defenses)
+### [308. Adversarial Machine Learning: A Beginner’s Guide to Adversarial Attacks and Defenses](https://hackernoon.com/adversarial-machine-learning-a-beginners-guide-to-adversarial-attacks-and-defenses)
 ![](https://cdn.hackernoon.com/images/5Ses7KAuiTgK5XYYSGgARBMDpKc2-so037ry.jpeg)
 Learn what's adversarial machine learning, how adversarial attacks work, and ways to defend them.
 
-### [307. How I got a Job at Facebook as a Machine Learning Engineer](https://hackernoon.com/how-i-got-a-job-at-facebook-as-a-machine-learning-engineer-rk2u3way)
+### [309. How I got a Job at Facebook as a Machine Learning Engineer](https://hackernoon.com/how-i-got-a-job-at-facebook-as-a-machine-learning-engineer-rk2u3way)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNOQljKc7VidoF3rSpZz9cqbrgRG2-2q1z3wii.jpeg?alt=media&token=98e1bc2c-b993-4604-b285-3318a87d7f34)
 It was August last year and I was in the process of giving interviews. By that point in time, I was already interviewing for Google India and Amazon India for Machine Learning and Data Science roles respectively. And then my senior advised me to apply for a role in Facebook London.
 
-### [308. Time Series Forecasting with TensorFlow.js](https://hackernoon.com/time-series-forecasting-with-tensorflowjs-co3rz32ms)
+### [310. Time Series Forecasting with TensorFlow.js](https://hackernoon.com/time-series-forecasting-with-tensorflowjs-co3rz32ms)
 ![](https://cdn.hackernoon.com/images/573om32nb.jpg)
 Pull stock prices from online API and perform predictions using Recurrent Neural Network & Long Short Term Memory (LSTM) with TensorFlow.js framework
 
-### [309. A Roadmap For Becoming a Data Scientist](https://hackernoon.com/a-roadmap-for-becoming-a-data-scientist-yg6l321r)
+### [311. A Roadmap For Becoming a Data Scientist](https://hackernoon.com/a-roadmap-for-becoming-a-data-scientist-yg6l321r)
 ![](https://cdn.hackernoon.com/images/95t3040.gif)
 So you want to become a data scientist? You have heard so much about data science and want to know what all the hype is about? Well, you have come to the perfect place. The field of data science has evolved significantly in the past decade. Today there are multiple ways to jump into the field and become a data scientist. Not all of them need you to have a fancy degree either. So let’s get started!
 
-### [310. Semantic Search Queries Return More Informed Results](https://hackernoon.com/semantic-search-queries-return-more-informed-results-nr5335nw)
+### [312. Semantic Search Queries Return More Informed Results](https://hackernoon.com/semantic-search-queries-return-more-informed-results-nr5335nw)
 ![](https://hackernoon.com/images/cnPEjQmDXGQIARBq58H9ZcOACGd2-3v5a33d0.jpeg)
 In this article, you will learn what a vector search engine is and how you can use Weaviate with your own data in 5 minutes.
 
-### [311. Exploring the Top Data Science and Machine Learning (DSML) Platforms of 2022 ](https://hackernoon.com/exploring-data-science-and-machine-learning-dsml-platforms)
+### [313. Exploring the Top Data Science and Machine Learning (DSML) Platforms of 2022 ](https://hackernoon.com/exploring-data-science-and-machine-learning-dsml-platforms)
 ![](https://cdn.hackernoon.com/images/YqzNjVX0nYVlCUWqv4gnCWnKpey1-om93orf.jpeg)
 Exploring Data Science and Machine Learning (DSML) Platforms 
 
-### [312. AI Meets Ethics: Navigating Bias and Fairness in Data Science Models](https://hackernoon.com/ai-meets-ethics-navigating-bias-and-fairness-in-data-science-models)
+### [314. AI Meets Ethics: Navigating Bias and Fairness in Data Science Models](https://hackernoon.com/ai-meets-ethics-navigating-bias-and-fairness-in-data-science-models)
 ![](https://cdn.hackernoon.com/images/wKW29AV8BvMKoNyzlYYUrT5tOUv2-jp933nl.jpeg)
 Explore a product developer's journey in tackling AI bias and fairness. Learn how ethical considerations shape AI design, ensuring technology benefits everyone.
 
-### [313. Use Amazon Personalize & Data in the Raw for Real-Time Recommendations:](https://hackernoon.com/use-amazon-personalize-and-data-in-the-raw-for-real-time-recommendations-oz110u3x1r)
+### [315. Use Amazon Personalize & Data in the Raw for Real-Time Recommendations:](https://hackernoon.com/use-amazon-personalize-and-data-in-the-raw-for-real-time-recommendations-oz110u3x1r)
 ![](https://cdn.hackernoon.com/drafts/kwm3xio.png)
 Start capturing website user data in 5 minutes or less with no developer resources or coding experience needed. 
 
-### [314. A Brief Intro to the GPT-3 Algorithm ](https://hackernoon.com/a-brief-intro-to-the-gpt-3-algorithm-t31f37k5)
+### [316. A Brief Intro to the GPT-3 Algorithm ](https://hackernoon.com/a-brief-intro-to-the-gpt-3-algorithm-t31f37k5)
 ![](https://cdn.hackernoon.com/images/Wv5DQfjl9zLHwfScnBmWYFlP7si2-3st2q88.jpeg)
 OpenAI GPT-3 is the most powerful language model. It has the capacity to generate paragraphs so naturally that they sound like a real human wrote them.
 
-### [315. Google's New AI Creates Summaries of Your Documents in Google Docs](https://hackernoon.com/googles-new-ai-creates-summaries-of-your-documents-in-google-docs)
+### [317. Google's New AI Creates Summaries of Your Documents in Google Docs](https://hackernoon.com/googles-new-ai-creates-summaries-of-your-documents-in-google-docs)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-jia3g9i.jpeg)
 Google recently announced a new model for automatically generating summaries using machine learning, released in Google Docs that you can already use.
 
 
-### [316. ChatGPT is a Plague Upon Online Publications](https://hackernoon.com/chatgpt-is-a-plague-upon-online-publications)
+### [318. ChatGPT is a Plague Upon Online Publications](https://hackernoon.com/chatgpt-is-a-plague-upon-online-publications)
 ![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-plague-clf0hk76l000001s60pgf51zm.png)
 Ethics are a crucial part of Artificial Intelligence, which is why tech like ChatGPT must go through gruelling tests of bias.
 
-### [317. Trading Bots vs Humans · Everything you need to know](https://hackernoon.com/trading-bots-vs-humans-everything-you-need-to-know-2k1pfp3zmx)
-![](https://cdn.hackernoon.com/images/mgwv33zsy.jpg)
-Over the past 10 years we've seen the rise and rise of trading bots and Quantitative Funds and we've seen the fall and fall of traditional Asset Managers and Hedge Funds.
-
-### [318. The Concept Behind "Mean Target Encoding" in AI & ML](https://hackernoon.com/the-concept-behind-mean-target-encoding-in-ai-and-ml)
+### [319. The Concept Behind "Mean Target Encoding" in AI & ML](https://hackernoon.com/the-concept-behind-mean-target-encoding-in-ai-and-ml)
 ![](https://cdn.hackernoon.com/images/wfOhdkoK2Ng95bY7s4ahmT5sb9N2-tu93ou1.jpeg)
 An introductory article describing the concept & intuition behind “Mean Target Encoding” in AI&ML, its pros, cons and implementation with a real-time example.
 
-### [319. 20 Best PyTorch Datasets for Building Deep Learning Models](https://hackernoon.com/20-best-pytorch-datasets-for-building-deep-learning-models)
+### [320. 20 Best PyTorch Datasets for Building Deep Learning Models](https://hackernoon.com/20-best-pytorch-datasets-for-building-deep-learning-models)
 ![](https://cdn.hackernoon.com/images/pytorch-superimposed-images-cle7snlna000101s641i26ulh.png)
 PyTorch has gained a reputation as a research-focused framework, and these are the Best PyTorch Datasets for Building Deep Learning Models available today.
 
-### [320. How AI Could Worsen Barrier to Entry in Specialized Fields](https://hackernoon.com/ai-could-worsen-barrier-to-entry-in-specialized-fields)
-![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-3aa3pgf.jpeg)
-Will AI replace you? Probably not. Will AI push your potential successor into another field due to being available at a lower cost? That's more of a worry.
+### [321. Trading Bots vs Humans · Everything you need to know](https://hackernoon.com/trading-bots-vs-humans-everything-you-need-to-know-2k1pfp3zmx)
+![](https://cdn.hackernoon.com/images/mgwv33zsy.jpg)
+Over the past 10 years we've seen the rise and rise of trading bots and Quantitative Funds and we've seen the fall and fall of traditional Asset Managers and Hedge Funds.
 
-### [321. How AI and Machine Learning is Impacting the Real Estate by Roy Dekel](https://hackernoon.com/how-ai-and-machine-learning-is-impacting-the-real-estate-by-roy-dekel-5l503y50)
-![](https://cdn.hackernoon.com/drafts/x32d3ytq.png)
-Artificial intelligence has become the breakout technology in the past ten years, utilizing huge amounts of computing power to learn and identify patterns in data without the guidance of humans. These algorithms can be used on nearly any problem or question, provided there is enough input data for the algorithm to process to generate realistic results. This broad generalizability means that industries that have traditionally relied on purely human-driven research and development can now harness massive amounts of data to become more efficient – and potentially more profitable.
-
-### [322. Build a Monster-Finding Tool For Your Next D&D Session That Picks the Right Encounter For You](https://hackernoon.com/build-a-monster-finding-tool-for-your-next-dandd-session-that-picks-the-right-encounter-for-you)
-![](https://cdn.hackernoon.com/images/1zg0gTsmPbNVlzBSOipPMvT2ymW2-dj1342y.webp)
-As Dungeon Master, you craft epic encounters—but finding the perfect D&D monster is tough. Let’s build a tool that picks the ideal foe with vector search magic!
-
-### [323. Machine Learning Food Datasets Collection](https://hackernoon.com/machine-learning-food-datasets-collection-fz5i130w0)
-![](https://cdn.hackernoon.com/drafts/dh31l30ve.png)
-An essential part of my company's Machine Learning team is working with different food datasets, and we spend a lot of time before for searching, combining or intersecting different datasets to get data that we need and can use in our work. Given that it might help someone else, I decided to list all helpful datasets in one place.
-
-### [324. 100 Days of AI Day 3: Leveraging AI for Prompt Engineering and Inference](https://hackernoon.com/100-days-of-ai-day-3-leveraging-ai-for-prompt-engineering-and-inference)
+### [322. 100 Days of AI Day 3: Leveraging AI for Prompt Engineering and Inference](https://hackernoon.com/100-days-of-ai-day-3-leveraging-ai-for-prompt-engineering-and-inference)
 ![](https://cdn.hackernoon.com/images/Y14t1a3ZEoT7RE6300ayez7dRN83-iw83crc.jpeg)
 100 Days of AI Day 3, we enhance products with inference, leveraging LLMs for insights in tech without data expertise.
 
-### [325. 5 Best AI Articles of the Month ](https://hackernoon.com/5-best-ai-articles-of-the-month)
+### [323. How AI Could Worsen Barrier to Entry in Specialized Fields](https://hackernoon.com/ai-could-worsen-barrier-to-entry-in-specialized-fields)
+![](https://cdn.hackernoon.com/images/JIOpDT1YimYfqCIgpVTk8r4gXT02-3aa3pgf.jpeg)
+Will AI replace you? Probably not. Will AI push your potential successor into another field due to being available at a lower cost? That's more of a worry.
+
+### [324. Build a Monster-Finding Tool For Your Next D&D Session That Picks the Right Encounter For You](https://hackernoon.com/build-a-monster-finding-tool-for-your-next-dandd-session-that-picks-the-right-encounter-for-you)
+![](https://cdn.hackernoon.com/images/1zg0gTsmPbNVlzBSOipPMvT2ymW2-dj1342y.webp)
+As Dungeon Master, you craft epic encounters—but finding the perfect D&D monster is tough. Let’s build a tool that picks the ideal foe with vector search magic!
+
+### [325. Automatic Number Plate Recognition (ANPR) Secrets Revealed [Part1]](https://hackernoon.com/automatic-number-plate-recognition-anpr-secrets-revealed-part1-ec203405)
+![](https://cdn.hackernoon.com/images/KECnMDPcEadsrWEAtYTrZtboGmW2-mg1r34q7.gif)
+This article provides an overview of LPR systems. The description starts ‘technical’ then proceeds to the ‘market’ view.
+
+### [326. How AI and Machine Learning is Impacting the Real Estate by Roy Dekel](https://hackernoon.com/how-ai-and-machine-learning-is-impacting-the-real-estate-by-roy-dekel-5l503y50)
+![](https://cdn.hackernoon.com/drafts/x32d3ytq.png)
+Artificial intelligence has become the breakout technology in the past ten years, utilizing huge amounts of computing power to learn and identify patterns in data without the guidance of humans. These algorithms can be used on nearly any problem or question, provided there is enough input data for the algorithm to process to generate realistic results. This broad generalizability means that industries that have traditionally relied on purely human-driven research and development can now harness massive amounts of data to become more efficient – and potentially more profitable.
+
+### [327. Machine Learning Food Datasets Collection](https://hackernoon.com/machine-learning-food-datasets-collection-fz5i130w0)
+![](https://cdn.hackernoon.com/drafts/dh31l30ve.png)
+An essential part of my company's Machine Learning team is working with different food datasets, and we spend a lot of time before for searching, combining or intersecting different datasets to get data that we need and can use in our work. Given that it might help someone else, I decided to list all helpful datasets in one place.
+
+### [328. 5 Best AI Articles of the Month ](https://hackernoon.com/5-best-ai-articles-of-the-month)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-ova3fpk.jpeg)
 
 Here are the five best articles related to artificial intelligence in May posted on Hackernoon.
  
 
-### [326. Automatic Number Plate Recognition (ANPR) Secrets Revealed [Part1]](https://hackernoon.com/automatic-number-plate-recognition-anpr-secrets-revealed-part1-ec203405)
-![](https://cdn.hackernoon.com/images/KECnMDPcEadsrWEAtYTrZtboGmW2-mg1r34q7.gif)
-This article provides an overview of LPR systems. The description starts ‘technical’ then proceeds to the ‘market’ view.
-
-### [327. Israel’s Artificial Intelligence Startups](https://hackernoon.com/israels-artificial-intelligence-startups-a4957f92f5ed)
-![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-g2836xq.png)
-The artificial intelligence industry is expected to be worth <a href="https://www.tractica.com/newsroom/press-releases/artificial-intelligence-software-revenue-to-reach-59-8-billion-worldwide-by-2025/" target="_blank">$59.8 billion by 2025</a>, and the term AI has become ubiquitous worldwide; the frenzy of many tech enthusiasts, or the topic of discussion at a dinner table. But the hype actually lives up to its name. AI startups are flush with VC cash and even key corporate leaders are actively utilizing the technology to add value and gain a competitive edge.
-
-### [328. The Future of Talent Acquisition: Predictions for 2024](https://hackernoon.com/the-future-of-talent-acquisition-predictions-for-2024)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-b593pk1.jpeg)
-This article is about the future of recruitment which has been predicted to be aligned with AI involving AI-powered ATS, chatbots, assessments for a recruitment
-
-### [329. How to detect plagiarism in text using Python](https://hackernoon.com/how-to-detect-plagiarism-in-text-using-python-zn213tw7)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-z01v3uqc.jpeg?alt=media&token=d3060ec4-84ef-46a6-a83c-0489d74f1262)
-Intro
-
-### [330. An Introduction to the Power of Vector Search for Beginners](https://hackernoon.com/an-introduction-to-the-power-of-vector-search-for-beginners)
-![](https://cdn.hackernoon.com/images/xgTY6T8aQYSFXzjeWh6MK06qqK52-zya2j9a.jpeg)
-An introduction to neural vector search, in comparison to keyword-based search. 
-
-### [331. 10 Best Python Machine Learning Tutorials](https://hackernoon.com/10-best-python-machine-learning-tutorials)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gn92iph.jpeg)
-The Python ecosystem has a large number of libraries and tools that support machine learning, such as NumPy, Pandas, Matplotlib, TensorFlow, and scikit-learn.
-
-### [332. OpenAI's Rate Limit: A Guide to Exponential Backoff for LLM Evaluation](https://hackernoon.com/openais-rate-limit-a-guide-to-exponential-backoff-for-llm-evaluation)
+### [329. OpenAI's Rate Limit: A Guide to Exponential Backoff for LLM Evaluation](https://hackernoon.com/openais-rate-limit-a-guide-to-exponential-backoff-for-llm-evaluation)
 ![](https://cdn.hackernoon.com/images/9S1vwdm8BSSIM68NViog8lnaQPi2-e7820ob.jpeg)
 This article will teach you how to run evaluations using any LLM model without succumbing to the dreaded "OpenAI Rate Limit" exception.
 
-### [333. How to Structure a PyTorch ML Project With Google Colab and TensorBoard](https://hackernoon.com/how-to-structure-a-pytorch-ml-project-with-google-colab-and-tensorboard-7ram3agi)
+### [330. Israel’s Artificial Intelligence Startups](https://hackernoon.com/israels-artificial-intelligence-startups-a4957f92f5ed)
+![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-g2836xq.png)
+The artificial intelligence industry is expected to be worth <a href="https://www.tractica.com/newsroom/press-releases/artificial-intelligence-software-revenue-to-reach-59-8-billion-worldwide-by-2025/" target="_blank">$59.8 billion by 2025</a>, and the term AI has become ubiquitous worldwide; the frenzy of many tech enthusiasts, or the topic of discussion at a dinner table. But the hype actually lives up to its name. AI startups are flush with VC cash and even key corporate leaders are actively utilizing the technology to add value and gain a competitive edge.
+
+### [331. The Future of Talent Acquisition: Predictions for 2024](https://hackernoon.com/the-future-of-talent-acquisition-predictions-for-2024)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-b593pk1.jpeg)
+This article is about the future of recruitment which has been predicted to be aligned with AI involving AI-powered ATS, chatbots, assessments for a recruitment
+
+### [332. 10 Best Python Machine Learning Tutorials](https://hackernoon.com/10-best-python-machine-learning-tutorials)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gn92iph.jpeg)
+The Python ecosystem has a large number of libraries and tools that support machine learning, such as NumPy, Pandas, Matplotlib, TensorFlow, and scikit-learn.
+
+### [333. An Introduction to the Power of Vector Search for Beginners](https://hackernoon.com/an-introduction-to-the-power-of-vector-search-for-beginners)
+![](https://cdn.hackernoon.com/images/xgTY6T8aQYSFXzjeWh6MK06qqK52-zya2j9a.jpeg)
+An introduction to neural vector search, in comparison to keyword-based search. 
+
+### [334. How to detect plagiarism in text using Python](https://hackernoon.com/how-to-detect-plagiarism-in-text-using-python-zn213tw7)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-z01v3uqc.jpeg?alt=media&token=d3060ec4-84ef-46a6-a83c-0489d74f1262)
+Intro
+
+### [335. How to Structure a PyTorch ML Project With Google Colab and TensorBoard](https://hackernoon.com/how-to-structure-a-pytorch-ml-project-with-google-colab-and-tensorboard-7ram3agi)
 ![](https://cdn.hackernoon.com/images/nu8o31gz.jpg)
 Let’s build a fashion-MNIST CNN, PyTorch style. This is A Line-by-line guide on how to structure a PyTorch ML project from scratch using Google Colab and TensorBoard
 
-### [334. The Best Slack Groups for Data Scientists to Join](https://hackernoon.com/the-best-slack-groups-for-data-scientists-to-join-lb423w79)
+### [336. The Best Slack Groups for Data Scientists to Join](https://hackernoon.com/the-best-slack-groups-for-data-scientists-to-join-lb423w79)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-bq1o3wrq.jpeg?alt=media&token=e3ec475e-55c9-4369-b635-cb8fbfb6ee3b)
 The online data science community is supportive and collaborative. One of the ways you can join the community is to find machine learning and AI Slack groups. 
 
-### [335. No-Code Machine Learning inside Google Sheets](https://hackernoon.com/no-code-machine-learning-inside-google-sheets-l31g3v45)
-![](https://cdn.hackernoon.com/images/uxum32ri.jpg)
-Introduction
-
-### [336. Inside the Math Banks Use to Decide If You’re a Credit Risk](https://hackernoon.com/inside-the-math-banks-use-to-decide-if-youre-a-credit-risk)
+### [337. Inside the Math Banks Use to Decide If You’re a Credit Risk](https://hackernoon.com/inside-the-math-banks-use-to-decide-if-youre-a-credit-risk)
 ![](https://cdn.hackernoon.com/images/rzLjEgXM09f7sZsCMSUVi2hPtVW2-9t036d9.jpeg)
 Learn how PD models are used to predict risks in FinTech. Discover key insights into Application and Behavioral PD models and the role of machine learning.
 
-### [337. Wave Hello to the Future: Designing Intuitive Gesture Recognition Systems for Smart Devices](https://hackernoon.com/wave-hello-to-the-future-designing-intuitive-gesture-recognition-systems-for-smart-devices)
+### [338. No-Code Machine Learning inside Google Sheets](https://hackernoon.com/no-code-machine-learning-inside-google-sheets-l31g3v45)
+![](https://cdn.hackernoon.com/images/uxum32ri.jpg)
+Introduction
+
+### [339. Wave Hello to the Future: Designing Intuitive Gesture Recognition Systems for Smart Devices](https://hackernoon.com/wave-hello-to-the-future-designing-intuitive-gesture-recognition-systems-for-smart-devices)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-c092bpg.jpeg)
 Thanks to gesture recognition technology and voice recognition, users can now control their devices multimodel: via gestures or voice control.
 
-### [338. Ditch the AI for a Second: Image Recognition Without Neural Networks](https://hackernoon.com/ditch-the-ai-for-a-second-image-recognition-without-neural-networks)
+### [340. Ditch the AI for a Second: Image Recognition Without Neural Networks](https://hackernoon.com/ditch-the-ai-for-a-second-image-recognition-without-neural-networks)
 ![](https://cdn.hackernoon.com/images/2DFAaGGO5cfymtBKn4bFFAoT6sg2-7g93xv2.jpeg)
 A dive into developing an image recognition app without using neural networks
 
-### [339. Mastering Machine Learning Project Management](https://hackernoon.com/mastering-machine-learning-project-management)
+### [341. Mastering Machine Learning Project Management](https://hackernoon.com/mastering-machine-learning-project-management)
 ![](https://cdn.hackernoon.com/images/machine-learning-qtzefxn1see508j8oq47b8tc.png)
 ML projects are unique because of their iterative and unpredictable nature. With this is mind, in this article, we explore how to approach and structure them. 
 
-### [340. Introducing Total Relighting by Google ](https://hackernoon.com/introducing-total-relighting-by-google-2t4p24g1)
+### [342. Introducing Total Relighting by Google ](https://hackernoon.com/introducing-total-relighting-by-google-2t4p24g1)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-ny834gc.jpeg)
 In a new paper titled Total Relighting, a research team at Google presents a novel per-pixel lighting representation in a deep learning framework.
 
-### [341. Image Classification in 2022](https://hackernoon.com/image-classification-in-2022)
-![](https://cdn.hackernoon.com/images/DeXOo6gS2KYBVQB1GhxCEfXUiNA2-5v93k1s.jpeg)
-This blog analyses various CNN and Transformer-based SWIN architecture for Image Classification 
-
-### [342. How Big Should A Dataset Be For An AI Project](https://hackernoon.com/how-big-should-a-dataset-be-for-an-ai-project)
-![](https://cdn.hackernoon.com/images/2DFAaGGO5cfymtBKn4bFFAoT6sg2-19e3x4e.jpeg)
-The size of the dataset affects the quality of an AI product. Learn how big 	— or how small 	— should a dataset be for your next AI project.
-
-### [343. GPT-3 Training Programmers for the Present (and the Future)](https://hackernoon.com/gpt-3-training-programmers-for-the-present-and-the-future)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-do929ce.jpeg)
-Last year, I wrote a paper in Spanish about the future of programmers and I asked GPT-3 to translate it.
-
-### [344. How AI Is Getting Groundbreaking Changes In Talent Management And HR Tech](https://hackernoon.com/how-ai-is-getting-groundbreaking-changes-in-talent-management-and-hr-tech-d24ty3zzd)
-![](https://cdn.hackernoon.com/drafts/zp4vj3zia.png)
-In the past ten years, the world of recruitment and Human Resource has changed a lot. Shaped by several different and mostly technological factors, the HR department has drastically transformed from sorting resume papers manually to imbibing technology in the recruitment process. 
-
-### [345. 6 Best APIs for Topic Detection in 2022](https://hackernoon.com/6-best-apis-for-topic-detection-in-2022)
+### [343. 6 Best APIs for Topic Detection in 2022](https://hackernoon.com/6-best-apis-for-topic-detection-in-2022)
 ![](https://cdn.hackernoon.com/images/yInti7CnmZMjybXOCRsTVUOcMel2-wa93mta.jpeg)
 This article examines the best APIs on the market for performing Topic Detection in 2022.
 
-### [346. Python Libraries That One Must Try For Fun](https://hackernoon.com/python-libraries-that-one-must-try-for-fun)
+### [344. Image Classification in 2022](https://hackernoon.com/image-classification-in-2022)
+![](https://cdn.hackernoon.com/images/DeXOo6gS2KYBVQB1GhxCEfXUiNA2-5v93k1s.jpeg)
+This blog analyses various CNN and Transformer-based SWIN architecture for Image Classification 
+
+### [345. How Big Should A Dataset Be For An AI Project](https://hackernoon.com/how-big-should-a-dataset-be-for-an-ai-project)
+![](https://cdn.hackernoon.com/images/2DFAaGGO5cfymtBKn4bFFAoT6sg2-19e3x4e.jpeg)
+The size of the dataset affects the quality of an AI product. Learn how big 	— or how small 	— should a dataset be for your next AI project.
+
+### [346. GPT-3 Training Programmers for the Present (and the Future)](https://hackernoon.com/gpt-3-training-programmers-for-the-present-and-the-future)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-do929ce.jpeg)
+Last year, I wrote a paper in Spanish about the future of programmers and I asked GPT-3 to translate it.
+
+### [347. How AI Is Getting Groundbreaking Changes In Talent Management And HR Tech](https://hackernoon.com/how-ai-is-getting-groundbreaking-changes-in-talent-management-and-hr-tech-d24ty3zzd)
+![](https://cdn.hackernoon.com/drafts/zp4vj3zia.png)
+In the past ten years, the world of recruitment and Human Resource has changed a lot. Shaped by several different and mostly technological factors, the HR department has drastically transformed from sorting resume papers manually to imbibing technology in the recruitment process. 
+
+### [348. Python Libraries That One Must Try For Fun](https://hackernoon.com/python-libraries-that-one-must-try-for-fun)
 ![](https://cdn.hackernoon.com/images/IhwaXpJHotbQjTYSlIjXeTnE7ST2-xv93ijj.jpeg)
 So you want to make some projects for fun in python but do not know where to start. Well you can start from these libraries, which are very easy and very fun. 
 
-### [347. Confusion Matrix in Machine Learning: Everything You Need to Know](https://hackernoon.com/confusion-matrix-in-machine-learning-everything-you-need-to-know)
-![](https://cdn.hackernoon.com/images/BYWRsHWtmGOUC5N4fwNhMqohMAC3-oh93h8g.jpeg)
-Confusion Matrix is a tabular representation of an ML classifier's performance. You can compute accuracy, precision, and recall from the confusion matrix.
-
-### [348. Stable Diffusion, Unstable Me: Text-to-image Generation](https://hackernoon.com/stable-diffusion-unstable-me-text-to-image-generation)
+### [349. Stable Diffusion, Unstable Me: Text-to-image Generation](https://hackernoon.com/stable-diffusion-unstable-me-text-to-image-generation)
 ![](https://cdn.hackernoon.com/images/G6OScDcbO2V5YjMMDu4VMossUhU2-v0n3q30.jpeg)
 Text to image generation is not a new idea. What if, you feed <your name> to a state-of-the-art image generation model?
 
-### [349. Top 20 AI & Machine Learning Companies In USA & India 2019 Edition](https://hackernoon.com/top-9-ways-artificial-intelligence-is-reinventing-human-resources-8a3l23184)
+### [350. Confusion Matrix in Machine Learning: Everything You Need to Know](https://hackernoon.com/confusion-matrix-in-machine-learning-everything-you-need-to-know)
+![](https://cdn.hackernoon.com/images/BYWRsHWtmGOUC5N4fwNhMqohMAC3-oh93h8g.jpeg)
+Confusion Matrix is a tabular representation of an ML classifier's performance. You can compute accuracy, precision, and recall from the confusion matrix.
+
+### [351. AI Is Still Culturally Blind ](https://hackernoon.com/ai-is-still-culturally-blind)
+![](https://cdn.hackernoon.com/images/E1FLk4CMKlND7qghfbghUANDz8q2-so038ks.jpeg)
+AI moderates content for 75% of non-English internet users with broken cultural understanding. Discover the Cultural Intelligence Standard fixing this crisis.
+
+### [352. Top 20 AI & Machine Learning Companies In USA & India 2019 Edition](https://hackernoon.com/top-9-ways-artificial-intelligence-is-reinventing-human-resources-8a3l23184)
 ![](https://cdn.hackernoon.com/images/c17wt21q9.jpg)
 Need to find the best Artificial Intelligence/Machine Learning companies in India?
 
-### [350. Men Are Scared of AI: Why?](https://hackernoon.com/men-are-scared-of-ai-why)
+### [353. Men Are Scared of AI: Why?](https://hackernoon.com/men-are-scared-of-ai-why)
 ![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-mt93pxn.jpeg)
 Artificial Intelligence challenging the status quo is good for us all
 
-### [351. An Intro to eDiffi: NVIDIA's New SOTA Image Synthesis Model](https://hackernoon.com/an-intro-to-ediffi-nvidias-new-sota-image-synthesis-model)
+### [354. An Intro to eDiffi: NVIDIA's New SOTA Image Synthesis Model](https://hackernoon.com/an-intro-to-ediffi-nvidias-new-sota-image-synthesis-model)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-5e93mt0.jpeg)
 eDiffi, NVIDIA's most recent model, generates better-looking and more accurate images than all previous approaches like DALLE 2 or Stable Diffusion.
 
-### [352. How to Think Like a Data Scientist or Data Analyst](https://hackernoon.com/how-to-think-like-a-data-scientist-or-data-analyst-7s983yg9)
+### [355. How to Think Like a Data Scientist or Data Analyst](https://hackernoon.com/how-to-think-like-a-data-scientist-or-data-analyst-7s983yg9)
 ![](https://images.unsplash.com/photo-1453847668862-487637052f8a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Data science is a new and maturing field, with a variety of job functions emerging, from data engineering and data analysis to machine and deep learning. A data scientist must combine scientific, creative and investigative thinking to extract meaning from a range of datasets, and to address the underlying challenge faced by the client.
 
-### [353. Design and Data Science: From a Human-in-the-Loop Approach to Human-Centered Design](https://hackernoon.com/design-and-data-science-from-a-human-in-the-loop-approach-to-human-centered-design)
+### [356. Design and Data Science: From a Human-in-the-Loop Approach to Human-Centered Design](https://hackernoon.com/design-and-data-science-from-a-human-in-the-loop-approach-to-human-centered-design)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-p40354a.jpeg)
 From “human-in-the loop” to human-centred design, a mindset shift that emphasises designing for users rather than simply using users to validate machine output.
 
-### [354. Pycaret: A Faster Way to Build Machine Learning Models](https://hackernoon.com/pycaret-a-faster-way-to-build-machine-learning-models-skf35zr)
+### [357. Pycaret: A Faster Way to Build Machine Learning Models](https://hackernoon.com/pycaret-a-faster-way-to-build-machine-learning-models-skf35zr)
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-gx1532le.jpeg)
 Pycaret is an open-source, low code library in python that aims to automate the development of machine learning models.
 
-### [355. How Data Scientists Can Become More Marketable ](https://hackernoon.com/how-to-become-more-marketable-as-a-data-scientist-ia3mg38al)
+### [358. How Data Scientists Can Become More Marketable ](https://hackernoon.com/how-to-become-more-marketable-as-a-data-scientist-ia3mg38al)
 ![](https://cdn.hackernoon.com/images/2f1la382d.jpg)
 This headline may seem a bit odd to you. After all, if you’re a data scientist in 2019, you’re already marketable. Since data science has a huge impact on today’s businesses, the demand for DS experts is growing. At the moment I’m writing this, there are 144,527 data science jobs on LinkedIn alone.
 
-### [356. How to Build a Multi-label NLP Classifier from Scratch](https://hackernoon.com/how-to-build-a-multi-label-nlp-classifier-from-scratch-yn4v3a6o)
+### [359. How to Build a Multi-label NLP Classifier from Scratch](https://hackernoon.com/how-to-build-a-multi-label-nlp-classifier-from-scratch-yn4v3a6o)
 ![](https://cdn.hackernoon.com/drafts/zm2e31k2.png)
 Attacking Toxic Comments Kaggle Competition Using Fast.ai
 
-### [357. Best AI Translation Tools/Software of 2023](https://hackernoon.com/best-ai-translation-toolssoftware-of-2023)
+### [360. Best AI Translation Tools/Software of 2023](https://hackernoon.com/best-ai-translation-toolssoftware-of-2023)
 ![](https://cdn.hackernoon.com/images/dSZLCogL1RPIkYBjh6hEymPQ7ib2-72a3qcc.jpeg)
 Discover the top AI translation tools of 2023 — Google Translate, Microsoft Translator, DeepL, and SDL Trados.
 
-### [358. How to Optimize Your Marketing Budget Using Just Three Letters: MMM](https://hackernoon.com/how-to-optimize-your-marketing-budget-using-just-three-letters-mmm)
-![](https://cdn.hackernoon.com/images/SZePNvD5QddwfAVEJH4NuxB3oTX2-im53fk2.png)
-Marketing Mix Modeling is a statistical analysis method used in marketing to determine the optimal allocation of resources. 
-
-### [359. How to Make a 'Rock, Paper, Scissors' App with TensorFlow and Hand Gesture Recognition](https://hackernoon.com/how-to-make-a-rock-paper-scissors-app-with-tensorflow-and-hand-gesture-recognition)
+### [361. How to Make a 'Rock, Paper, Scissors' App with TensorFlow and Hand Gesture Recognition](https://hackernoon.com/how-to-make-a-rock-paper-scissors-app-with-tensorflow-and-hand-gesture-recognition)
 ![](https://cdn.hackernoon.com/images/4zwHt0ICOwYK4UsJxL6uCVxKGLD2-9d137nd.jpeg)
 An in-depth tutorial on how to use a TensorFlow.js based machine learning model to create a fun "Rock, Paper, Scissors" browser game with gesture controls.
 
-### [360. OpenAI's New Code Generator: GitHub Copilot (and Codex)](https://hackernoon.com/openais-new-code-generator-github-copilot-and-codex-bb143773)
+### [362. How to Optimize Your Marketing Budget Using Just Three Letters: MMM](https://hackernoon.com/how-to-optimize-your-marketing-budget-using-just-three-letters-mmm)
+![](https://cdn.hackernoon.com/images/SZePNvD5QddwfAVEJH4NuxB3oTX2-im53fk2.png)
+Marketing Mix Modeling is a statistical analysis method used in marketing to determine the optimal allocation of resources. 
+
+### [363. OpenAI's New Code Generator: GitHub Copilot (and Codex)](https://hackernoon.com/openais-new-code-generator-github-copilot-and-codex-bb143773)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-b44135ew.jpeg)
 You’ve probably heard of the recent Copilot tool by GitHub, which generates code for you. Find out how OpenAI's AI generates code from words
 
 
 
-### [361. Google is Using You](https://hackernoon.com/google-is-using-you-recaptcha-hcaptcha-human-protocol-d911ff51a494)
-![](https://hackernoon.com/images/1*7PTIFEBGw0h4Xkx5CwtCTw.gif)
-If you’ve been on the internet the last decade, you’ve been doing volunteer work for <a href="https://hackernoon.com/tagged/google" target="_blank">Google</a>. You clock in every time you run into those magic words: “I’m not a robot.”
-
-### [362. GPT-LLM Trainer: Enabling Task-Specific LLM Training with a Single Sentence](https://hackernoon.com/gpt-llm-trainer-enabling-task-specific-llm-training-with-a-single-sentence)
+### [364. GPT-LLM Trainer: Enabling Task-Specific LLM Training with a Single Sentence](https://hackernoon.com/gpt-llm-trainer-enabling-task-specific-llm-training-with-a-single-sentence)
 ![](https://cdn.hackernoon.com/images/JKdKyQvIDYXgoO2zfYAgaimo6qH2-9k93639.jpeg)
 Revolutionize AI model training with gpt-llm-trainer: Your ultimate shortcut to effortless, high-performing models. Say goodbye to complexities and hello to inn
 
-### [363. Predictive Analytics for Maintenance Events ](https://hackernoon.com/predictive-analytics-for-maintenance-events-172y24yp)
+### [365. Google is Using You](https://hackernoon.com/google-is-using-you-recaptcha-hcaptcha-human-protocol-d911ff51a494)
+![](https://hackernoon.com/images/1*7PTIFEBGw0h4Xkx5CwtCTw.gif)
+If you’ve been on the internet the last decade, you’ve been doing volunteer work for <a href="https://hackernoon.com/tagged/google" target="_blank">Google</a>. You clock in every time you run into those magic words: “I’m not a robot.”
+
+### [366. Predictive Analytics for Maintenance Events ](https://hackernoon.com/predictive-analytics-for-maintenance-events-172y24yp)
 ![](https://cdn.hackernoon.com/images/vMIW1g3rtVOLLixHAieMFeUFpbz1-mx1734la.jpeg)
 The predictive analytics machine learning model worked well to provide alerts before the engine values went beyond thresholds avoiding expensive repair cost.
 
-### [364. 6 Captivating AI projects](https://hackernoon.com/some-of-the-interesting-disruptive-ai-projects-b328bdcef2a3)
-![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-pa03bsf.png)
-If you’ve always been enthralled by playing <strong>CS: GO, PUBG</strong> types, <strong>Gosu.ai</strong> is going to be a treat for you. For hardcore gamers, Gosu.ai has built an intelligent assistant that analyzes specific actions down to one’s mouse movement and then serves better recommendations for the players. As the founder of Gosu, <strong>Alisa Chumachenku</strong> believes that their AI assistants can cater strategic gaming suggestions to gamers worldwide. This covers up to 600 million gamers who play hardcore games such as MOBAs, Shooters and MMOs. Gosu.ai also offers <strong>B2B services</strong>, for instance, <strong>predictive analytics</strong> for companies who build gaming tools to understand their users’ behaviour and other interaction analytics.
-
-### [365. Meta AI's Make-A-Scene Generates Artwork with Text and Sketches](https://hackernoon.com/meta-ais-make-a-scene-generates-artwork-with-text-and-sketches)
+### [367. Meta AI's Make-A-Scene Generates Artwork with Text and Sketches](https://hackernoon.com/meta-ais-make-a-scene-generates-artwork-with-text-and-sketches)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-6ua3k49.jpeg)
 Make-A-Scene is not “just another Dalle”. The goal of this new model isn’t to allow users to generate random images following text prompt as dalle does — which is really cool — but restricts the user control on the generations.
 
-### [366. Google Brain's New Model Imagen is Even More Impressive than Dall-E 2](https://hackernoon.com/google-brains-new-model-imagen-is-even-more-impressive-than-dall-e-2)
+### [368. 6 Captivating AI projects](https://hackernoon.com/some-of-the-interesting-disruptive-ai-projects-b328bdcef2a3)
+![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-pa03bsf.png)
+If you’ve always been enthralled by playing <strong>CS: GO, PUBG</strong> types, <strong>Gosu.ai</strong> is going to be a treat for you. For hardcore gamers, Gosu.ai has built an intelligent assistant that analyzes specific actions down to one’s mouse movement and then serves better recommendations for the players. As the founder of Gosu, <strong>Alisa Chumachenku</strong> believes that their AI assistants can cater strategic gaming suggestions to gamers worldwide. This covers up to 600 million gamers who play hardcore games such as MOBAs, Shooters and MMOs. Gosu.ai also offers <strong>B2B services</strong>, for instance, <strong>predictive analytics</strong> for companies who build gaming tools to understand their users’ behaviour and other interaction analytics.
+
+### [369. Google Brain's New Model Imagen is Even More Impressive than Dall-E 2](https://hackernoon.com/google-brains-new-model-imagen-is-even-more-impressive-than-dall-e-2)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-lda3fmq.gif.webp)
 If you thought Dall-e 2 had great results, wait until you see what this new model from Google Brain can do. Dalle-e is amazing but often lacks realism, and this is what the team attacked with this new model called Imagen. They share a lot of results on their project page as well as a benchmark, which they introduced for comparing text-to-image models, where they clearly outperform Dall-E 2, and previous image generation approaches. Learn more in the video...
 
-### [367. DecentraMind for Web 3.0 or Against It? — Interview with Mikhail Danieli](https://hackernoon.com/decentramind-for-web-30-or-against-it-interview-with-mikhail-danieli)
+### [370. DecentraMind for Web 3.0 or Against It? — Interview with Mikhail Danieli](https://hackernoon.com/decentramind-for-web-30-or-against-it-interview-with-mikhail-danieli)
 ![](https://cdn.hackernoon.com/images/XOCd1CDTyoOLClRnyelTjJV0pK22-4293hly.jpeg)
 DecentraMind by Web 3.0 or for it? — interview with Mikhail Danieli, project visionary and ambassador about the future of the platform and the company.
 
-### [368. Deploy First TensorFlow Model in Android App](https://hackernoon.com/deploy-first-tensorflow-model-in-android-app-l02w3yb8)
+### [371. Deploy First TensorFlow Model in Android App](https://hackernoon.com/deploy-first-tensorflow-model-in-android-app-l02w3yb8)
 ![](https://cdn.hackernoon.com/images/b0kn3y7o.jpg)
 Simple linear regression is useful for finding the relationship between two continuous variables. One is a predictor or independent variable and the other is a response or dependent variable. It looks for a statistical relationship but not a deterministic relationship. Relationship between two variables is said to be deterministic if one variable can be accurately expressed by the other. For example, using temperature in degrees Celsius it is possible to accurately predict Fahrenheit.
 
-### [369. Flax: Google’s Open Source Approach To Flexibility In Machine Learning](https://hackernoon.com/flax-googles-open-source-approach-to-flexibility-in-machine-learning-iw9y324j)
+### [372. Flax: Google’s Open Source Approach To Flexibility In Machine Learning](https://hackernoon.com/flax-googles-open-source-approach-to-flexibility-in-machine-learning-iw9y324j)
 ![](https://cdn.hackernoon.com/drafts/8zi2ecu.png)
 Thinking of Machine Learning, the first frameworks that come to mind are Tensorflow and PyTorch, which are currently the state-of-the-art frameworks if you want to work with Deep Neural Networks. Technology is changing rapidly and more flexibility is needed, so Google researchers are developing a new high performance framework for the open source community: Flax.
 
-### [370. Here's How ChatGPT is Already Being Abused](https://hackernoon.com/heres-how-chatgpt-is-already-being-abused)
+### [373. Here's How ChatGPT is Already Being Abused](https://hackernoon.com/heres-how-chatgpt-is-already-being-abused)
 ![](https://cdn.hackernoon.com/images/hRDOVk3kuFUKcdoCm3DRio5srhh1-xf93st9.jpeg)
 ChatGPT has been used for a variety of purposes, such as developing malware, academic dishonesty and sending unsolicited messages on dating apps etc.
 
-### [371. 5 Types of Machine Learning Algorithms You Should Know](https://hackernoon.com/5-types-of-machine-learning-algorithms-you-should-know-kz2dx2002)
-![](https://cdn.hackernoon.com/drafts/e11c20yk.png)
-Machine learning has become a diverse business tool to enhance the various elements of business operations. Also, it has a significant influence on the performance of the business. Machine learning algorithms are used widely to maintain competition with different industries. However, there is a different type of algorithms for goals and data sets. The selection of an algorithm depends on user role and the purpose. If you are using Linear regression, then you can quickly implement or train rather than other machine learning algorithms. But the drawback of this algorithm is that it is not applicable for complex predictions. So you should know about the different types of machine learning algorithms for getting better results.
+### [374. Why Agents Stall in Production: When Real-Time Retrieval Meets Reality](https://hackernoon.com/why-agents-stall-in-production-when-real-time-retrieval-meets-reality)
+![](https://cdn.hackernoon.com/images/az3uKG32QlhC1X5VZf0DkYulSRJ3-rb83bbi.png)
+Agents that work in demos fail at scale. Learn why 429/403 happen under concurrency and how to build reliable, accurate evidence acquisition.
 
-### [372. Build a Personal Shopping Assistant Using Brain.js and Node.js](https://hackernoon.com/build-a-personal-shopping-assistant-using-brainjs-and-nodejs)
+### [375. Build a Personal Shopping Assistant Using Brain.js and Node.js](https://hackernoon.com/build-a-personal-shopping-assistant-using-brainjs-and-nodejs)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-fn93n4g.jpeg)
 Explore the world of personalized recommendations with Brain.js and Nodejs. Uncover how it turns your preferences into curated shopping experiences.
-
-### [373. How to Detect Language and Translate text in Android with Firebase ML Kit](https://hackernoon.com/how-to-detect-language-and-translate-text-in-android-with-firebase-ml-kit)
-![](https://cdn.hackernoon.com/images/s9wzcKVnfca4nR0BuMgRHKcoHLQ2-93039wb.jpeg)
-Detect Language and Translate text in Android with Firebase ML Kit
-
-### [374. 10 Tips to Take Your ChatGPT Prompts to the Next Level](https://hackernoon.com/10-tips-to-take-your-chatgpt-prompts-to-the-next-level)
-![](https://cdn.hackernoon.com/images/0qfg9cGG68XNM6wWCkDej6KjiX92-50q307l.jpeg)
-Maximize your ChatGPT experience with 10 expert tips for crafting precise prompts and queries, enhancing interaction quality.
-
-### [375. Artificial Intelligence, Machine Learning, and Human Beings ](https://hackernoon.com/artificial-intelligence-machine-learning-and-human-beings-jge43y8l)
-![](https://cdn.hackernoon.com/drafts/l51u31db.png)
-In a conversation with HackerNoon CEO, David Smooke, he identified artificial intelligence as an area of technology in which he anticipates vast growth. He pointed out, somewhat cheekily, that it seems like AI could be further along in figuring out how to alleviate some of our most basic electronic tasks—coordinating and scheduling meetings, for instance. This got me reflecting on the state of artificial intelligence. And mostly why my targeted ads suck so much...
 
 ### [376. Can the Nvidia RTX A4000 ADA Handle Machine Learning Tasks?](https://hackernoon.com/can-the-nvidia-rtx-a4000-ada-handle-machine-learning-tasks)
 ![](https://cdn.hackernoon.com/images/gpu-sk34xzbzgaqwkfsxcd1eddlh.png)
 Is the Nvidia RTX A4000 ADA suitable for Machine Learning?
 
-### [377. How I Designed My Own Machine Learning and Artificial Intelligence Degree ](https://hackernoon.com/how-i-designed-my-own-machine-learning-and-artificial-intelligence-degree-vr8636g5)
-![](https://cdn.hackernoon.com/images/b61n036dc.jpg)
-After noticing my programming courses in college were outdated, I began this year by dropping out of college to teach myself machine learning and artificial intelligence using online resources. With no experience in tech, no previous degrees, here is the degree I designed in Machine Learning and Artificial Intelligence from beginning to end to get me to my goal — to become a well-rounded machine learning and AI engineer. 
+### [377. 5 Types of Machine Learning Algorithms You Should Know](https://hackernoon.com/5-types-of-machine-learning-algorithms-you-should-know-kz2dx2002)
+![](https://cdn.hackernoon.com/drafts/e11c20yk.png)
+Machine learning has become a diverse business tool to enhance the various elements of business operations. Also, it has a significant influence on the performance of the business. Machine learning algorithms are used widely to maintain competition with different industries. However, there is a different type of algorithms for goals and data sets. The selection of an algorithm depends on user role and the purpose. If you are using Linear regression, then you can quickly implement or train rather than other machine learning algorithms. But the drawback of this algorithm is that it is not applicable for complex predictions. So you should know about the different types of machine learning algorithms for getting better results.
 
-### [378. 8 Best AI Conferences to Attend in 2022](https://hackernoon.com/8-best-ai-conferences-to-attend-in-2022)
+### [378. How to Detect Language and Translate text in Android with Firebase ML Kit](https://hackernoon.com/how-to-detect-language-and-translate-text-in-android-with-firebase-ml-kit)
+![](https://cdn.hackernoon.com/images/s9wzcKVnfca4nR0BuMgRHKcoHLQ2-93039wb.jpeg)
+Detect Language and Translate text in Android with Firebase ML Kit
+
+### [379. 10 Tips to Take Your ChatGPT Prompts to the Next Level](https://hackernoon.com/10-tips-to-take-your-chatgpt-prompts-to-the-next-level)
+![](https://cdn.hackernoon.com/images/0qfg9cGG68XNM6wWCkDej6KjiX92-50q307l.jpeg)
+Maximize your ChatGPT experience with 10 expert tips for crafting precise prompts and queries, enhancing interaction quality.
+
+### [380. Artificial Intelligence, Machine Learning, and Human Beings ](https://hackernoon.com/artificial-intelligence-machine-learning-and-human-beings-jge43y8l)
+![](https://cdn.hackernoon.com/drafts/l51u31db.png)
+In a conversation with HackerNoon CEO, David Smooke, he identified artificial intelligence as an area of technology in which he anticipates vast growth. He pointed out, somewhat cheekily, that it seems like AI could be further along in figuring out how to alleviate some of our most basic electronic tasks—coordinating and scheduling meetings, for instance. This got me reflecting on the state of artificial intelligence. And mostly why my targeted ads suck so much...
+
+### [381. 8 Best AI Conferences to Attend in 2022](https://hackernoon.com/8-best-ai-conferences-to-attend-in-2022)
 ![](https://cdn.hackernoon.com/images/yInti7CnmZMjybXOCRsTVUOcMel2-4d037p4.jpeg)
 Here’s the full list of top AI conferences to attend in 2022, from the most technical to business-focused to academic
 
-### [379. How To Build and Deploy an NLP Model with FastAPI: Part 2](https://hackernoon.com/how-to-build-and-deploy-an-nlp-model-with-fastapi-part-2-0a1x37ot)
+### [382. How I Designed My Own Machine Learning and Artificial Intelligence Degree ](https://hackernoon.com/how-i-designed-my-own-machine-learning-and-artificial-intelligence-degree-vr8636g5)
+![](https://cdn.hackernoon.com/images/b61n036dc.jpg)
+After noticing my programming courses in college were outdated, I began this year by dropping out of college to teach myself machine learning and artificial intelligence using online resources. With no experience in tech, no previous degrees, here is the degree I designed in Machine Learning and Artificial Intelligence from beginning to end to get me to my goal — to become a well-rounded machine learning and AI engineer. 
+
+### [383. How To Build and Deploy an NLP Model with FastAPI: Part 2](https://hackernoon.com/how-to-build-and-deploy-an-nlp-model-with-fastapi-part-2-0a1x37ot)
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-rzu32nl.jpeg)
 Learn how to build an NLP model and deploy it with a  fast web framework for building APIs called FastAPI.
 
-### [380. Build A Smart Baby Monitor Using a RaspberryPi and Tensorflow](https://hackernoon.com/build-a-smart-baby-monitor-using-a-raspberrypi-and-tensorflow-ic143zwu)
+### [384. Build A Smart Baby Monitor Using a RaspberryPi and Tensorflow](https://hackernoon.com/build-a-smart-baby-monitor-using-a-raspberrypi-and-tensorflow-ic143zwu)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQTdu6Xy6ybX5moDaFNuGeYEDmX83-3y718yq.jpeg?alt=media&token=3e8a41c7-39a9-42cd-87e8-32f5883a98aa)
 Some of you may have noticed that it’s been a while since my last article, despite winning this year's IoT Noonies award (btw thanks to all of you who voted, that means a lot to me!). 
 
-### [381. Mobile Price Classification: An Open Source Data Science Project with Dagshub](https://hackernoon.com/mobile-price-classification-an-open-source-data-science-project-with-dagshub)
+### [385. Mobile Price Classification: An Open Source Data Science Project with Dagshub](https://hackernoon.com/mobile-price-classification-an-open-source-data-science-project-with-dagshub)
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-0g93lq5.jpeg)
 Machine learning models are often developed in a training environment, which may be online or offline, and can then be deployed to be used with live data once they have been tested.
 
-### [382. How Coding and Other Tech Careers Could Be Impacted By AI and ChatGPT](https://hackernoon.com/how-coding-and-other-tech-careers-could-be-impacted-by-ai-and-chatgpt)
+### [386. How Coding and Other Tech Careers Could Be Impacted By AI and ChatGPT](https://hackernoon.com/how-coding-and-other-tech-careers-could-be-impacted-by-ai-and-chatgpt)
 ![](https://cdn.hackernoon.com/images/EAoWSsrWAFZTtjOYXmIuIN8lRBI2-qj92hxo.jpeg)
 Since the plow, humans have had a natural wariness over technology that seems to threaten their jobs. It’s a natural anxiety. Factories, plows, and automation legitimately have scaled back the need for human labor. And now technology seems to be coming after jobs that previously appeared to be untouchable. 
 
-### [383. Complex Document Recognition: OCR Doesn’t Work and Here’s How You Fix It](https://hackernoon.com/complex-document-recognition-ocr-doesnt-work-and-heres-how-you-fix-it)
-![](https://cdn.hackernoon.com/images/2DFAaGGO5cfymtBKn4bFFAoT6sg2-6gd3x5m.jpeg)
-OCR solutions don't work — at least when it comes to complex documents. Learn how you can supercharge OCR tools wqith AI to handle any document 
+### [387. I Was Ready to Return My DGX Spark. Then NVIDIA's January Update Changed Everything.](https://hackernoon.com/i-was-ready-to-return-my-dgx-spark-then-nvidias-january-update-changed-everything)
+![](https://cdn.hackernoon.com/images/mpDOI8AQeYeu5cc9VGleWjM9xvB2-sy038wg.png)
+I almost returned the $4,000 DGX Spark. Then NVIDIA dropped 30 playbooks, 2.5x performance gains, and hybrid routing.
 
-### [384. Top 10 AI Development Companies in USA](https://hackernoon.com/10-ai-development-companies-leading-ai-innovation-in-2023)
+
+### [388. Top 10 AI Development Companies in USA](https://hackernoon.com/10-ai-development-companies-leading-ai-innovation-in-2023)
 ![](https://cdn.hackernoon.com/images/5NIvbUNKmddQIWHy16DBm6RAljf2-2ei3pd5.jpeg)
 Top 10 AI Software development companies in USA, UK & India. List of best artificial intelligence software company in United States - 2023 - 2024
 
-### [385. So You Want to Study Machine Learning and Civil Engineering?](https://hackernoon.com/so-you-want-to-study-machine-learning-and-civil-engineering-32423u7h)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBl8Wd3oXIaUy1lEO8ZZOygYYor83-pp663u2g.webp?alt=media&token=48a47923-9133-46eb-a0f7-c0142a5874bd)
-Machine Learning (ML) in its literal terms implies, writing algorithms to help Machines learn better than human. ML is an aspect of Artificial Intelligence (AI) that deals with the development of a mathematical model which is fed with training data to identify patterns in that data and produce an output. 
+### [389. Complex Document Recognition: OCR Doesn’t Work and Here’s How You Fix It](https://hackernoon.com/complex-document-recognition-ocr-doesnt-work-and-heres-how-you-fix-it)
+![](https://cdn.hackernoon.com/images/2DFAaGGO5cfymtBKn4bFFAoT6sg2-6gd3x5m.jpeg)
+OCR solutions don't work — at least when it comes to complex documents. Learn how you can supercharge OCR tools wqith AI to handle any document 
 
-### [386. AI Code Review: Comparing Metabob with Sonar & DeepSource](https://hackernoon.com/ai-code-review-comparing-metabob-with-sonar-and-deepsource)
+### [390. AI Code Review: Comparing Metabob with Sonar & DeepSource](https://hackernoon.com/ai-code-review-comparing-metabob-with-sonar-and-deepsource)
 ![](https://cdn.hackernoon.com/images/NDHVJh0ZXWa5WkYI7DAnJI1tGU72-5v9377e.jpeg)
 A comparison of AI based and rule based static code analysis tool. Is code review better performed with AI or rule based tools? we compare three alternatives.
 
-### [387. How to Scrape NLP Datasets From Youtube](https://hackernoon.com/how-to-scrape-nlp-datasets-from-youtube)
+### [391. So You Want to Study Machine Learning and Civil Engineering?](https://hackernoon.com/so-you-want-to-study-machine-learning-and-civil-engineering-32423u7h)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBl8Wd3oXIaUy1lEO8ZZOygYYor83-pp663u2g.webp?alt=media&token=48a47923-9133-46eb-a0f7-c0142a5874bd)
+Machine Learning (ML) in its literal terms implies, writing algorithms to help Machines learn better than human. ML is an aspect of Artificial Intelligence (AI) that deals with the development of a mathematical model which is fed with training data to identify patterns in that data and produce an output. 
+
+### [392. How to Scrape NLP Datasets From Youtube](https://hackernoon.com/how-to-scrape-nlp-datasets-from-youtube)
 ![](https://cdn.hackernoon.com/images/DUgalx4alqOf4QlthE3dDI1x7Wq2-vqfx37hd.jpeg)
 Too lazy to scrape nlp data yourself? In this post, I’ll show you a quick way to scrape NLP datasets using Youtube and Python.
 
-### [388. How Bayesian Tail-Risk Modeling can save your Retail Business Marketing Budget](https://hackernoon.com/how-bayesian-tail-risk-modeling-can-save-your-retail-business-marketing-budget)
+### [393. How Bayesian Tail-Risk Modeling can save your Retail Business Marketing Budget](https://hackernoon.com/how-bayesian-tail-risk-modeling-can-save-your-retail-business-marketing-budget)
 ![](https://cdn.hackernoon.com/images/I04XHexU6OYySp2OewICGPPImAu1-bi33gso.jpeg)
 Why average ROI fails. Learn how distributional and tail-risk modeling protects marketing campaigns from catastrophic losses using Bayesian methods. 
 
-### [389. How Data Analysis Helps Unveil the Truth of Coronavirus](https://hackernoon.com/how-data-analysis-helps-unveil-the-truth-of-coronavirus-wj9q36wv)
-![](https://cdn.hackernoon.com/images/hnu836b6.jpg)
-These days we are all scared of the new airborne contagious coronavirus (2019-nCoV). Even if it is a tiny cough or low fever, it might underlie a lethargic symptom. However, what is the real truth?
-
-### [390. Intro to Neural Networks: CNN vs. RNN](https://hackernoon.com/intro-to-neural-networks-cnn-vs-rnn-it193tug)
+### [394. Intro to Neural Networks: CNN vs. RNN](https://hackernoon.com/intro-to-neural-networks-cnn-vs-rnn-it193tug)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-adc3txf.jpeg?alt=media&token=50004bcc-333b-4677-806b-f9ca45e7881f)
 In machine learning, each type of artificial neural network is tailored to certain tasks. This article will introduce two types of neural networks: convolutional neural networks (CNN) and recurrent neural networks (RNN). Using popular Youtube videos and visual aids, we will explain the difference between CNN and RNN and how they are used in computer vision and natural language processing. 
 
-### [391. How AI Is Transforming Your Smartphone](https://hackernoon.com/how-ai-is-transforming-your-smartphone)
+### [395. How AI Is Transforming Your Smartphone](https://hackernoon.com/how-ai-is-transforming-your-smartphone)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-ljb3oem.jpeg)
 The tech industry and the world are relying on artificial intelligence to solve big problems such as cybersecurity, healthcare and sustainability.
 
-### [392. Why Rust is Meant to Replace C](https://hackernoon.com/why-rust-is-meant-to-replace-c-xf8l3yei)
-![](https://cdn.hackernoon.com/drafts/6iu63y8i.png)
-The Rust programming language is an ambitious project of the Mozilla Foundation – a language that claims to be the next step in evolution of C and C++. Over the years of existence of these languages some of their basic flaws still haven’t been fixed, like segmentation errors, manual memory control, risks of memory leaks and unpredictable compiler behavior. Rust was created to solve these problems while improving security and performance along the way.
+### [396. How Data Analysis Helps Unveil the Truth of Coronavirus](https://hackernoon.com/how-data-analysis-helps-unveil-the-truth-of-coronavirus-wj9q36wv)
+![](https://cdn.hackernoon.com/images/hnu836b6.jpg)
+These days we are all scared of the new airborne contagious coronavirus (2019-nCoV). Even if it is a tiny cough or low fever, it might underlie a lethargic symptom. However, what is the real truth?
 
-### [393. The Future of Work: How Machines Will Replace Humans](https://hackernoon.com/the-future-of-work-how-machines-will-replace-humans-bh2u3ykr)
-![](https://cdn.hackernoon.com/drafts/4s402yrj.png)
-Fear is not new but seems more real than ever. Will robots put men out of work or become their allies? Who will be most affected? How can they best prepare for the job market of the future? No one has the definitive answers to these questions yet, but what is known is that in a matter of a few decades we will witness a profound transformation of the production of goods and services that will fully impact workers and economies around the planet.Work is being replaced by machines, robots or algorithms, which do something more efficiently and do not create anything new, they simply replace the basic unit of work".
-
-### [394. AI Generates Realistic 3D Models Using Only a Handful of Images](https://hackernoon.com/ai-generates-realistic-3d-models-using-only-a-handful-of-images)
+### [397. AI Generates Realistic 3D Models Using Only a Handful of Images](https://hackernoon.com/ai-generates-realistic-3d-models-using-only-a-handful-of-images)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-zb93hy9.jpeg)
 Neural Rendering. Neural Rendering is the ability to generate a photorealistic model in space just like this one, from pictures of the object, person, or scene of interest. In this case, you’d have a handful of pictures of this sculpture and ask the machine to understand what the object in these pictures should look like in space. You are basically asking a machine to understand physics and shapes out of images. This is quite easy for us since we only know the real world and depths, but it’s a whole other challenge for a machine that only sees pixels.
 
-### [395. Why It’s Very Difficult to Create AI-Based Slow Motion](https://hackernoon.com/why-its-very-difficult-to-create-ai-based-slow-motion-tv1453wmu)
+### [398. Why It’s Very Difficult to Create AI-Based Slow Motion](https://hackernoon.com/why-its-very-difficult-to-create-ai-based-slow-motion-tv1453wmu)
 ![](https://cdn.hackernoon.com/drafts/szauz272f.png)
 Over the last few years a number of open source machine learning 
 projects have emerged that are capable of raising the frame rate of 
 source video to 60 frames per second and beyond, producing a smoothed, 
 'hyper-real' look.
 
-### [396. My Time at NUS, Singapore](https://hackernoon.com/my-time-at-nus-singapore-bxwp3cb2)
-![](https://cdn.hackernoon.com/drafts/wv1dk3ch2.png)
-Singapore is home to some of the best schools in the field of Computer Science, specifically Artificial Intelligence. The cutting edge research going on there is unparalleled. Colleges like Nanyang Technological University (NTU) and National University of Singapore (NUS) have a great reputation all over the world for their CS programs. 
+### [399. Why Rust is Meant to Replace C](https://hackernoon.com/why-rust-is-meant-to-replace-c-xf8l3yei)
+![](https://cdn.hackernoon.com/drafts/6iu63y8i.png)
+The Rust programming language is an ambitious project of the Mozilla Foundation – a language that claims to be the next step in evolution of C and C++. Over the years of existence of these languages some of their basic flaws still haven’t been fixed, like segmentation errors, manual memory control, risks of memory leaks and unpredictable compiler behavior. Rust was created to solve these problems while improving security and performance along the way.
 
-### [397. Realistic Face Manipulation in Videos With AI](https://hackernoon.com/realistic-face-manipulation-in-videos-with-ai)
+### [400. The Future of Work: How Machines Will Replace Humans](https://hackernoon.com/the-future-of-work-how-machines-will-replace-humans-bh2u3ykr)
+![](https://cdn.hackernoon.com/drafts/4s402yrj.png)
+Fear is not new but seems more real than ever. Will robots put men out of work or become their allies? Who will be most affected? How can they best prepare for the job market of the future? No one has the definitive answers to these questions yet, but what is known is that in a matter of a few decades we will witness a profound transformation of the production of goods and services that will fully impact workers and economies around the planet.Work is being replaced by machines, robots or algorithms, which do something more efficiently and do not create anything new, they simply replace the basic unit of work".
+
+### [401. Realistic Face Manipulation in Videos With AI](https://hackernoon.com/realistic-face-manipulation-in-videos-with-ai)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-tx03aeu.gif.webp)
 You've most certainly seen movies like the recent Captain Marvel or Gemini Man where Samuel L Jackson and Will Smith appeared to look like they were much younger. This requires hundreds if not thousands of hours of work from professionals manually editing the scenes he appeared in. Instead, you could use a simple AI and do it within a few minutes.
 
-### [398. Basics of Machine Learning and its capabilities in Cybersecurity](https://hackernoon.com/how-machine-learning-is-helping-businesses-combat-cyber-threats)
+### [402. My Time at NUS, Singapore](https://hackernoon.com/my-time-at-nus-singapore-bxwp3cb2)
+![](https://cdn.hackernoon.com/drafts/wv1dk3ch2.png)
+Singapore is home to some of the best schools in the field of Computer Science, specifically Artificial Intelligence. The cutting edge research going on there is unparalleled. Colleges like Nanyang Technological University (NTU) and National University of Singapore (NUS) have a great reputation all over the world for their CS programs. 
+
+### [403. Basics of Machine Learning and its capabilities in Cybersecurity](https://hackernoon.com/how-machine-learning-is-helping-businesses-combat-cyber-threats)
 ![](https://cdn.hackernoon.com/images/GARizudWccO7r3ch90a9EvHxP7t1-u9a3toi.jpeg)
 
 The article explores Machine Learning's vital role in cybersecurity, addressing evolving digital threats. It covers ML's types, iterative process, feature engi
 
-### [399. I Built a Boxing Prediction Web App on Shiny, Here's How](https://hackernoon.com/i-built-a-boxing-prediction-web-app-on-shiny-here-is-how-jz8932xt)
+### [404. I Built a Boxing Prediction Web App on Shiny, Here's How](https://hackernoon.com/i-built-a-boxing-prediction-web-app-on-shiny-here-is-how-jz8932xt)
 ![](https://cdn.hackernoon.com/drafts/f1gls32pc.png)
 As part of my data-science career track bootcamp, I had to complete a few personal capstones. For this particular capstone, I opted to focus on building something I personally care about - what better way to learn and possibly build something valuable than by working on a passion project. 
 
-### [400. How I mastered Python in Lockdown without spending a penny](https://hackernoon.com/how-i-mastered-python-in-lockdown-without-spending-a-penny-r9i3uzn)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNb5UWzYU8LcYBeB1CmSteO3qx6D2-ec503u00.jpeg?alt=media&token=4d915576-7b8d-40e1-ac51-2056c4ccaaad)
-I always wanted to learn programming. Writing codes, making algorithms always excited me. Being a mechanical engineer, I was never taught these subjects in depth. 
-
-### [401. Are Developers Salaries a Bubble? If Yes, Then How Bad Could it Burst](https://hackernoon.com/are-developers-salaries-a-bubble-if-yes-then-how-bad-could-it-burst)
-![](https://cdn.hackernoon.com/images/PVN1qtxyOSTgqH0W7fHB84Zowlt1-2p037tj.jpeg)
-The Covid-19 pandemic completely changed the working environment. Companies switched to remote employment, implementing pay localization as part of the plan.
-
-### [402. Summarizing Most Popular Text-to-Image Synthesis Methods With Python](https://hackernoon.com/summarizing-most-popular-text-to-image-synthesis-methods-with-python-34d3xkn)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlBswupY3cpUoiqV21ZkS63RSU902-l5x3uu8.jpeg?alt=media&token=49c0bce3-52a9-40e0-9163-33d6da939290)
-Comparative Study of Different Adversarial Text to Image Methods
-
-### [403. How I Approached Machine Learning Interviews at FAANGs as an ML Engineer](https://hackernoon.com/how-i-approached-machine-learning-interviews-at-faangs-as-an-ml-engineer)
+### [405. How I Approached Machine Learning Interviews at FAANGs as an ML Engineer](https://hackernoon.com/how-i-approached-machine-learning-interviews-at-faangs-as-an-ml-engineer)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ev92ims.jpeg)
 Cracking a Machine learning interview at companies like Facebook, Google, Netflix, Snap etc. really comes down to nailing few patterns that FAANGs look for.
 
-### [404. Diverse types of Artificial Intelligence:
+### [406. How I mastered Python in Lockdown without spending a penny](https://hackernoon.com/how-i-mastered-python-in-lockdown-without-spending-a-penny-r9i3uzn)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNb5UWzYU8LcYBeB1CmSteO3qx6D2-ec503u00.jpeg?alt=media&token=4d915576-7b8d-40e1-ac51-2056c4ccaaad)
+I always wanted to learn programming. Writing codes, making algorithms always excited me. Being a mechanical engineer, I was never taught these subjects in depth. 
+
+### [407. Are Developers Salaries a Bubble? If Yes, Then How Bad Could it Burst](https://hackernoon.com/are-developers-salaries-a-bubble-if-yes-then-how-bad-could-it-burst)
+![](https://cdn.hackernoon.com/images/PVN1qtxyOSTgqH0W7fHB84Zowlt1-2p037tj.jpeg)
+The Covid-19 pandemic completely changed the working environment. Companies switched to remote employment, implementing pay localization as part of the plan.
+
+### [408. Summarizing Most Popular Text-to-Image Synthesis Methods With Python](https://hackernoon.com/summarizing-most-popular-text-to-image-synthesis-methods-with-python-34d3xkn)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlBswupY3cpUoiqV21ZkS63RSU902-l5x3uu8.jpeg?alt=media&token=49c0bce3-52a9-40e0-9163-33d6da939290)
+Comparative Study of Different Adversarial Text to Image Methods
+
+### [409. Build a GUI for Your Machine Learning Models](https://hackernoon.com/build-a-gui-for-your-machine-learning-models)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-v003ay9.jpeg)
+How to build a cool GUI for your Machine Learning models with Gradio so that you can visualise your models easily and effectively for people to understand. 
+
+### [410. Diverse types of Artificial Intelligence:
 A Must-know for AI Enthusiasts](https://hackernoon.com/diverse-types-of-artificial-intelligence-a-must-know-for-ai-enthusiasts)
 ![](https://cdn.hackernoon.com/images/wfOhdkoK2Ng95bY7s4ahmT5sb9N2-rym3quu.jpeg)
 A precursory article that explains various categorizations of artificial intelligence, some real-life examples and concepts.
 
-### [405. Build a GUI for Your Machine Learning Models](https://hackernoon.com/build-a-gui-for-your-machine-learning-models)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-v003ay9.jpeg)
-How to build a cool GUI for your Machine Learning models with Gradio so that you can visualise your models easily and effectively for people to understand. 
-
-### [406. Share Large Amounts of Live Data With Delta Sharing and Docker](https://hackernoon.com/share-large-amounts-of-live-data-with-delta-sharing-and-docker)
+### [411. Share Large Amounts of Live Data With Delta Sharing and Docker](https://hackernoon.com/share-large-amounts-of-live-data-with-delta-sharing-and-docker)
 ![](https://cdn.hackernoon.com/images/DLEi5kpJlfcjqct1t5onzRmuWy83-mb1335ql.jpeg)
 Share massive amounts of live data with Delta Sharing - a Linux Foundation Open Source framework for multi-cloud data sharing across organizations. 
 
-### [407. Using a Relational Database to Query Unstructured Data](https://hackernoon.com/using-a-relational-database-to-query-unstructured-data)
+### [412. Using a Relational Database to Query Unstructured Data](https://hackernoon.com/using-a-relational-database-to-query-unstructured-data)
 ![](https://cdn.hackernoon.com/images/mtSwKC0EcCVi41252swVE5fO3213-jme3kzr.jpeg)
 Using Relational Database to search inside unstructured data
 
-### [408. Why 87% of Machine learning Projects Fail](https://hackernoon.com/why-87percent-of-machine-learning-projects-fail-sp343uhj)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3SqN5oFrtrUt7OBvODq6danBB5f1-3z293uf3.jpeg?alt=media&token=ef419c14-09d1-4688-b41a-8e8fb71079d1)
-This article will serve as a lesson on the shocking reasons for your AI adoption disaster. We see news about machine learning everywhere. Indeed, there is lot of potential in machine learning. According to Gartner’s predictions, “Through 2020, 80% of AI projects will remain alchemy, run by wizards whose talents will not scale in the organization” and Transform 2019 of VentureBeat predicted that 87% of AI projects will never make it into production.
-
-### [409. An Architect's Guide to Machine Learning Operations and Required Data Infrastructure](https://hackernoon.com/an-architects-guide-to-machine-learning-operations-and-required-data-infrastructure)
+### [413. An Architect's Guide to Machine Learning Operations and Required Data Infrastructure](https://hackernoon.com/an-architects-guide-to-machine-learning-operations-and-required-data-infrastructure)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-u7033co.jpeg)
 MLOps is a set of practices and tools aimed at addressing the specific needs of engineers building models and moving them into production. 
 
-### [410. Anomaly Detection Strategies for IoT Sensors](https://hackernoon.com/anomaly-detection-strategies-for-iot-sensors-l31x321t)
-![](https://images.unsplash.com/photo-1502868032459-aa78309e3503?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Motivation - Algorithms for IoT sensors
+### [414. Why 87% of Machine learning Projects Fail](https://hackernoon.com/why-87percent-of-machine-learning-projects-fail-sp343uhj)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3SqN5oFrtrUt7OBvODq6danBB5f1-3z293uf3.jpeg?alt=media&token=ef419c14-09d1-4688-b41a-8e8fb71079d1)
+This article will serve as a lesson on the shocking reasons for your AI adoption disaster. We see news about machine learning everywhere. Indeed, there is lot of potential in machine learning. According to Gartner’s predictions, “Through 2020, 80% of AI projects will remain alchemy, run by wizards whose talents will not scale in the organization” and Transform 2019 of VentureBeat predicted that 87% of AI projects will never make it into production.
 
-### [411. How to Solve Any Machine Learning Problem [Almost]](https://hackernoon.com/how-to-go-about-solving-almost-any-machine-learning-problem-t2ja3596)
-![](https://cdn.hackernoon.com/drafts/5qmg35fi.png)
-TL, DR; When coming across an ML problem, don’t try to be a hero and dive right into solving it. Process and understand the problem, review your dataset, set a realistic goal and then go about actually solving the problem. Chances are that you will end up saving a lot of resources (most importantly time) if you plan your execution properly.
-
-### [412. Sex Toys and Artificial Intelligence — The Past, Present, and the Future](https://hackernoon.com/sex-toys-and-artificial-intelligence-the-past-present-and-the-future-45242f154bca)
-![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-el03bok.png)
-Throughout the course of our history, humans have experimented with numerous ways to derive sexual satisfaction. While sex toys in their primitive form have existed for long, the integration of AI is feat thought to be inconceivable until recently.
-
-### [413. Search and Extract: Why This AI Pattern Matters, Tutorial, and Example](https://hackernoon.com/search-and-extract-why-this-ai-pattern-matters-tutorial-and-example)
+### [415. Search and Extract: Why This AI Pattern Matters, Tutorial, and Example](https://hackernoon.com/search-and-extract-why-this-ai-pattern-matters-tutorial-and-example)
 ![](https://cdn.hackernoon.com/images/az3uKG32QlhC1X5VZf0DkYulSRJ3-ad03a5y.png)
 ​​Learn why search-and-extract matters for AI enrichment and research. Step-by-step tutorial using SERP API, Web Unlocker, and Browser API with a real example.
 
-### [414. Sentiment Analysis with Python and AssemblyAI’s Speech Recognition API](https://hackernoon.com/sentiment-analysis-with-python-and-assemblyais-speech-recognition-api)
+### [416. Anomaly Detection Strategies for IoT Sensors](https://hackernoon.com/anomaly-detection-strategies-for-iot-sensors-l31x321t)
+![](https://images.unsplash.com/photo-1502868032459-aa78309e3503?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Motivation - Algorithms for IoT sensors
+
+### [417. How to Solve Any Machine Learning Problem [Almost]](https://hackernoon.com/how-to-go-about-solving-almost-any-machine-learning-problem-t2ja3596)
+![](https://cdn.hackernoon.com/drafts/5qmg35fi.png)
+TL, DR; When coming across an ML problem, don’t try to be a hero and dive right into solving it. Process and understand the problem, review your dataset, set a realistic goal and then go about actually solving the problem. Chances are that you will end up saving a lot of resources (most importantly time) if you plan your execution properly.
+
+### [418. Sex Toys and Artificial Intelligence — The Past, Present, and the Future](https://hackernoon.com/sex-toys-and-artificial-intelligence-the-past-present-and-the-future-45242f154bca)
+![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-el03bok.png)
+Throughout the course of our history, humans have experimented with numerous ways to derive sexual satisfaction. While sex toys in their primitive form have existed for long, the integration of AI is feat thought to be inconceivable until recently.
+
+### [419. Sentiment Analysis with Python and AssemblyAI’s Speech Recognition API](https://hackernoon.com/sentiment-analysis-with-python-and-assemblyais-speech-recognition-api)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-so03ivz.jpeg)
 If you’ve never heard of Sentiment Analysis, I hadn’t either before I stumbled on it in the documentation. That’s why I thought it would be interesting to try.
 
-### [415. 10 Best Reddit Datasets for NLP and Other ML Projects](https://hackernoon.com/10-best-reddit-datasets-for-nlp-and-other-ml-projects-ni583w3e)
+### [420. 10 Best Reddit Datasets for NLP and Other ML Projects](https://hackernoon.com/10-best-reddit-datasets-for-nlp-and-other-ml-projects-ni583w3e)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-jh2w3wi9.jpeg?alt=media&token=95893904-a47e-43dc-9e77-da7ea1dd480a)
 In this post, I wanted to share a Reddit dataset list that gained a lot of traction on social media when it was first posted.
 
-### [416. Where to Learn Machine and Deep Learning for Free](https://hackernoon.com/where-to-learn-machine-and-deep-learning-for-free)
+### [421. Where to Learn Machine and Deep Learning for Free](https://hackernoon.com/where-to-learn-machine-and-deep-learning-for-free)
 ![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-ftc3jrw.jpeg)
 
 
-### [417. A Python Library for Face Detection and Extraction with OpenCV Using HOG/Neural Network](https://hackernoon.com/a-python-library-for-face-detection-and-extraction-with-opencv-using-hogneural-network-mkbh32as)
+### [422. A Python Library for Face Detection and Extraction with OpenCV Using HOG/Neural Network](https://hackernoon.com/a-python-library-for-face-detection-and-extraction-with-opencv-using-hogneural-network-mkbh32as)
 ![](https://cdn.hackernoon.com/images/xn5k3ya5.jpg)
 Many people, including me, use a combination of libraries to work on the images, such as: OpenCV itself, Dlib, Pillow etc. But this is a very confusing and problematic process. Dlib installation, for example, can be extremely complex and frustrating.
 
-### [418. How to build a message moderation system](https://hackernoon.com/message-moderation-system-ac9472962bf)
+### [423. How to build a message moderation system](https://hackernoon.com/message-moderation-system-ac9472962bf)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-kf03bcn.webp)
 <em>By </em><a href="https://medium.com/@irastepanyuk"><em>Ira Stepanyuk</em></a><em>, Data Scientist at </em><a href="https://potehalabs.com/"><em>Poteha&nbsp;Labs</em></a>
 
-### [419. How to Create Realistic Slow Motion Videos With AI](https://hackernoon.com/how-to-create-realistic-slow-motion-videos-with-ai-k22t37ms)
+### [424. How to Create Realistic Slow Motion Videos With AI](https://hackernoon.com/how-to-create-realistic-slow-motion-videos-with-ai-k22t37ms)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-eu3o35f8.jpeg)
 TimeLens can understand the movement of the particles in-between the frames of a video to reconstruct what really happened at a speed even our eyes cannot see.
 
-### [420. Roughly Half of Data Scientists Consider Model Monitoring a Major Nuisance: Does It Have to Be So?](https://hackernoon.com/roughly-half-of-data-scientists-consider-model-monitoring-a-major-nuisance-does-it-have-to-be-so)
+### [425. Roughly Half of Data Scientists Consider Model Monitoring a Major Nuisance: Does It Have to Be So?](https://hackernoon.com/roughly-half-of-data-scientists-consider-model-monitoring-a-major-nuisance-does-it-have-to-be-so)
 ![](https://cdn.hackernoon.com/images/n4gJy5pNeBVefCbt1F3BrSTYyGl1-rt94rwp.jpeg)
 According to a recent survey, model monitoring is one of the least liked and most dreaded stages of the whole ML life cycle
 
-### [421. How to Build an Agent With an OpenAI Assistant in Python - Part 2: Function Calling / Tools](https://hackernoon.com/how-to-build-an-agent-with-an-openai-assistant-in-python-part-2-function-calling-tools)
+### [426. How to Build an Agent With an OpenAI Assistant in Python - Part 2: Function Calling / Tools](https://hackernoon.com/how-to-build-an-agent-with-an-openai-assistant-in-python-part-2-function-calling-tools)
 ![](https://cdn.hackernoon.com/images/ufJlBUPByyU1idtCMxOIMdVbkaB2-56935vi.jpeg)
 This is the second part in a multi-part series on building Agents with OpenAI's Assistant API using the Python SDK.
 
-### [422. Meta 'Responds' to Rise of ChatGPT](https://hackernoon.com/meta-responds-to-rise-of-chatgpt)
+### [427. Meta 'Responds' to Rise of ChatGPT](https://hackernoon.com/meta-responds-to-rise-of-chatgpt)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-np92il2.jpeg)
 Meta’s chief AI scientist isn’t impressed by ChatGPT.
 
-### [423. Five Real Machine Learning Use Cases in Cryptocurrencies](https://hackernoon.com/five-real-machine-learning-use-cases-in-cryptocurrencies-y51x33gw)
-![](https://cdn.hackernoon.com/images/ys1g33ta.jpg)
-We hear this all the time: a new analytics platform or study that uses machine learning to analyze crypto-assets. However, when we dig a bit deeper, instead of cutting edge machine learning we find simple statistics or basic algebra glorified as a sophisticated analysis. 
-
-### [424. Estimating Price Elasticity with Machine Learning ](https://hackernoon.com/estimating-price-elasticity-with-machine-learning)
-![](https://cdn.hackernoon.com/images/IMcuZGEyrzRf7UvWytxpfRbJsQ52-qvb3m3r.jpeg)
-Using machine learning, multi-linear regression, and scikit-learn to estimate price elasticity for wine products.
-
-### [425. Effective Management of Data Sources in Machine Learning](https://hackernoon.com/effective-management-of-data-sources-in-machine-learning)
-![](https://cdn.hackernoon.com/images/sAkwGK2IpHc11IlYYcLVTUrW7Es1-n4a3pyb.jpeg)
-Efficiently handling data sources is crucial for effective machine learning. Strategies include batch annotation, active learning, tracking annotator quality
-
-### [426. With AI, You Can Count 1000+ Sunflower Seeds In Seconds](https://hackernoon.com/with-ai-you-can-count-1000-sunflower-seeds-in-seconds-t8o34zn)
-![](https://cdn.hackernoon.com/images/l4u0NAfwK7MPcKFU8RhRflRrlXC2-c3df24lp.jpeg)
-In this post I will explain how we use artificial intelligence to count sunflower seeds on a photo taken with a mobile device.
-
-### [427. Building Handwritten Digits Recognizer using Support Vector Machine](https://hackernoon.com/building-handwritten-digits-recognizer-using-support-vector-machine-fos3wqs)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F8BLNSYhs7wZefpmAm1pqsbPLDSU2-exbl2t5z.jpeg?alt=media&token=8d060241-8bf5-4435-84f5-b338e5a224d2)
-Handwriting Recognition:
-
-### [428. Making LLMs Efficient: Reducing Memory Usage Without Breaking Quality](https://hackernoon.com/making-llms-efficient-reducing-memory-usage-without-breaking-quality)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o002067.jpeg)
-Optimal memory-quality tradeoffs for efficient language models.
-
-### [429. Features Selection by Using Xverse Package](https://hackernoon.com/features-selection-by-using-xverse-package-s03s34bz)
-![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-54243z2r.jpeg)
-Learn how to apply a variety of techniques to select features with Xverse package.
-
-### [430. How to Evaluate MLOps Platforms](https://hackernoon.com/how-to-evaluate-mlops-platforms)
-![](https://cdn.hackernoon.com/images/uhJdIL6cKvOEvhfNdiy1eMmb0YB3-0012g4l.jpeg)
-MLOps is confusing and there are many tools that are difficult to catagorise. Here is a good way to get on top of all the tools to improve your efforts.
-
-### [431. MLOps Engineer vs ML Engineer: The Key Differences](https://hackernoon.com/mlops-engineer-vs-ml-engineer-the-key-differences)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-wc92g6o.jpeg)
-Discover the key differences between MLOps Engineer vs ML Engineer roles, including focus, collaboration, and tooling. 
-
-### [432. 5 Million Face Images for Facial Recognition Model Training](https://hackernoon.com/5-million-face-images-for-facial-recognition-model-training-295v3zup)
+### [428. 5 Million Face Images for Facial Recognition Model Training](https://hackernoon.com/5-million-face-images-for-facial-recognition-model-training-295v3zup)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-kh3n3zxw.jpeg?alt=media&token=697206a3-7418-4214-b39b-b1ca1d233188)
 This article on face recognition datasets is one of my best-performing articles I wrote originally on Lionbridge AI. I'm happy to share it with the Hacker Noon community!
 
-### [433. Virtual Try-On: The Magic of AI Clothing Simulation and Visualization](https://hackernoon.com/virtual-try-on-the-magic-of-ai-clothing-simulation-and-visualization)
+### [429. Making LLMs Efficient: Reducing Memory Usage Without Breaking Quality](https://hackernoon.com/making-llms-efficient-reducing-memory-usage-without-breaking-quality)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o002067.jpeg)
+Optimal memory-quality tradeoffs for efficient language models.
+
+### [430. Five Real Machine Learning Use Cases in Cryptocurrencies](https://hackernoon.com/five-real-machine-learning-use-cases-in-cryptocurrencies-y51x33gw)
+![](https://cdn.hackernoon.com/images/ys1g33ta.jpg)
+We hear this all the time: a new analytics platform or study that uses machine learning to analyze crypto-assets. However, when we dig a bit deeper, instead of cutting edge machine learning we find simple statistics or basic algebra glorified as a sophisticated analysis. 
+
+### [431. Estimating Price Elasticity with Machine Learning ](https://hackernoon.com/estimating-price-elasticity-with-machine-learning)
+![](https://cdn.hackernoon.com/images/IMcuZGEyrzRf7UvWytxpfRbJsQ52-qvb3m3r.jpeg)
+Using machine learning, multi-linear regression, and scikit-learn to estimate price elasticity for wine products.
+
+### [432. Effective Management of Data Sources in Machine Learning](https://hackernoon.com/effective-management-of-data-sources-in-machine-learning)
+![](https://cdn.hackernoon.com/images/sAkwGK2IpHc11IlYYcLVTUrW7Es1-n4a3pyb.jpeg)
+Efficiently handling data sources is crucial for effective machine learning. Strategies include batch annotation, active learning, tracking annotator quality
+
+### [433. With AI, You Can Count 1000+ Sunflower Seeds In Seconds](https://hackernoon.com/with-ai-you-can-count-1000-sunflower-seeds-in-seconds-t8o34zn)
+![](https://cdn.hackernoon.com/images/l4u0NAfwK7MPcKFU8RhRflRrlXC2-c3df24lp.jpeg)
+In this post I will explain how we use artificial intelligence to count sunflower seeds on a photo taken with a mobile device.
+
+### [434. Building Handwritten Digits Recognizer using Support Vector Machine](https://hackernoon.com/building-handwritten-digits-recognizer-using-support-vector-machine-fos3wqs)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F8BLNSYhs7wZefpmAm1pqsbPLDSU2-exbl2t5z.jpeg?alt=media&token=8d060241-8bf5-4435-84f5-b338e5a224d2)
+Handwriting Recognition:
+
+### [435. MLOps Engineer vs ML Engineer: The Key Differences](https://hackernoon.com/mlops-engineer-vs-ml-engineer-the-key-differences)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-wc92g6o.jpeg)
+Discover the key differences between MLOps Engineer vs ML Engineer roles, including focus, collaboration, and tooling. 
+
+### [436. Features Selection by Using Xverse Package](https://hackernoon.com/features-selection-by-using-xverse-package-s03s34bz)
+![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-54243z2r.jpeg)
+Learn how to apply a variety of techniques to select features with Xverse package.
+
+### [437. How to Evaluate MLOps Platforms](https://hackernoon.com/how-to-evaluate-mlops-platforms)
+![](https://cdn.hackernoon.com/images/uhJdIL6cKvOEvhfNdiy1eMmb0YB3-0012g4l.jpeg)
+MLOps is confusing and there are many tools that are difficult to catagorise. Here is a good way to get on top of all the tools to improve your efforts.
+
+### [438. Virtual Try-On: The Magic of AI Clothing Simulation and Visualization](https://hackernoon.com/virtual-try-on-the-magic-of-ai-clothing-simulation-and-visualization)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-4893oqk.jpeg)
 This week's episode delves into the fascinating realm of AI-powered virtual clothing try-on experiences. 
 
-### [434. Secure Multi-Party Computation Use Cases](https://hackernoon.com/secure-multi-party-computation-use-cases)
+### [439. A Detailed Primer on Machine Learning Algorithms](https://hackernoon.com/a-detailed-guide-for-machine-learning-algorithms-things-you-must-know-hw97324sa)
+![](https://cdn.hackernoon.com/images/mju824hp.jpg)
+Machine Learning has taken over the world and it has come out from the fancies of science fiction world to business intelligence reality. It can be termed as a new age business tool that entails multiple elements of business operation. 
+
+### [440. Secure Multi-Party Computation Use Cases](https://hackernoon.com/secure-multi-party-computation-use-cases)
 ![](https://cdn.hackernoon.com/images/22qULrU2ZPb8VRsSedCeA6x7AJ13-s093p16.jpeg)
 Secure Multi-Party Computation (SMPC), as described by Wikipedia, is a subset of cryptography to create methods for multiple users to jointly compute a function over their inputs while keeping those inputs private. A significant benefit of Secure Multi-Party Computation is that it preserves data privacy while making it usable and open for analysis.
 
-### [435. GPT-4: What is Truly at the Core of This Virtual God?](https://hackernoon.com/gpt-4-what-is-truly-at-the-core-of-this-virtual-god)
+### [441. GPT-4: What is Truly at the Core of This Virtual God?](https://hackernoon.com/gpt-4-what-is-truly-at-the-core-of-this-virtual-god)
 ![](https://cdn.hackernoon.com/images/7XhQwEsk1Eg58rZqKidDiZMpsI93-nub3wi3.jpeg)
 We worship ChatGPT like a virtual god, but what is truly at the core of this artificial intelligence technology? 
 
 
-### [436. Text Embedding Explained: How AI Understands Words](https://hackernoon.com/text-embedding-explained-how-ai-understands-words)
+### [442. Text Embedding Explained: How AI Understands Words](https://hackernoon.com/text-embedding-explained-how-ai-understands-words)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-h693l3t.jpeg)
 Large language models are a specific type of machine learning-based algorithm that understand and can generate language
 
-### [437. AI and the Future of Space Exploration](https://hackernoon.com/ai-and-the-future-of-space-exploration)
+### [443. AI and the Future of Space Exploration](https://hackernoon.com/ai-and-the-future-of-space-exploration)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-vj93tep.jpeg)
 As AI continues to evolve, we can expect to see even more innovative and groundbreaking applications of this technology in the years to come.
 
-### [438. TextStyleBrush Translates Text in Images While Emulating the Font](https://hackernoon.com/textstylebrush-translates-text-in-images-while-emulating-the-font-sr3k37mu)
+### [444. Top 10 Machine Learning Optimized Graphics Cards](https://hackernoon.com/top-10-machine-learning-optimized-graphics-cards)
+![](https://cdn.hackernoon.com/images/eExFXH8fd9ORIt4pvi4C2x6ltfD3-4ml2jdj.jpeg)
+How to choose the right graphics card and maximize the efficiency of processing large amounts of data and performing parallel computing.
+
+### [445. TextStyleBrush Translates Text in Images While Emulating the Font](https://hackernoon.com/textstylebrush-translates-text-in-images-while-emulating-the-font-sr3k37mu)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-b6r350y.jpeg)
 This new Facebook AI model can translate or edit the text in an image, while maintaining the same font and design as the original.
 
 
-### [439. Top 10 Machine Learning Optimized Graphics Cards](https://hackernoon.com/top-10-machine-learning-optimized-graphics-cards)
-![](https://cdn.hackernoon.com/images/eExFXH8fd9ORIt4pvi4C2x6ltfD3-4ml2jdj.jpeg)
-How to choose the right graphics card and maximize the efficiency of processing large amounts of data and performing parallel computing.
-
-### [440. Why Robotic Process Automation Is Not Artificial Intelligence](https://hackernoon.com/why-robotic-process-automation-is-not-artificial-intelligence-c73b430cw)
-![](https://cdn.hackernoon.com/drafts/be3r73009.png)
-Artificial intelligence has become a buzzword and is increasingly overused, designating even low-level automation. This leads to misinterpretation of its capabilities. It is worth making a distinction between real AI and robotic process automation (RPA). 
-
-### [441. 27 Highest-Paying Cities in United States for Machine Learning Engineers](https://hackernoon.com/27-highest-paying-cities-in-united-states-for-machine-learning-engineers)
-![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-65a3jam.jpeg)
-Machine learning engineers might be some of the most highly skilled software engineers. We take a look at how cities in the US compensate their ML engineers.
-
-### [442. Generative AI, Fintech and Future of Financial Services](https://hackernoon.com/generative-ai-fintech-and-future-of-financial-services)
+### [446. Generative AI, Fintech and Future of Financial Services](https://hackernoon.com/generative-ai-fintech-and-future-of-financial-services)
 ![](https://cdn.hackernoon.com/images/pCh9yxAn39PeQNax87dcHl36JDO2-jgc3npi.jpeg)
 You know the hype is real when even the World Economic Forum writes that ChatGPT is just the start of the generative AI boom.
 
-### [443. Is the Programming Market Oversaturated?](https://hackernoon.com/is-the-programming-market-oversaturated)
+### [447. 27 Highest-Paying Cities in United States for Machine Learning Engineers](https://hackernoon.com/27-highest-paying-cities-in-united-states-for-machine-learning-engineers)
+![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-65a3jam.jpeg)
+Machine learning engineers might be some of the most highly skilled software engineers. We take a look at how cities in the US compensate their ML engineers.
+
+### [448. Is the Programming Market Oversaturated?](https://hackernoon.com/is-the-programming-market-oversaturated)
 ![](https://cdn.hackernoon.com/images/2h3hqTmyuxXacclcSFqybjZrpMN2-3s93gp9.jpeg)
 Every so often I hear that the programming market will be saturated eventually and we are all going to end up on the streets. Is this really true?
 
-### [444. The Implications of Open-Source AI: Should You Release Your AI Source Code Publicly?](https://hackernoon.com/the-implications-of-open-source-ai-should-you-release-your-ai-source-code-publicly-2q4u35cy)
+### [449. Why Robotic Process Automation Is Not Artificial Intelligence](https://hackernoon.com/why-robotic-process-automation-is-not-artificial-intelligence-c73b430cw)
+![](https://cdn.hackernoon.com/drafts/be3r73009.png)
+Artificial intelligence has become a buzzword and is increasingly overused, designating even low-level automation. This leads to misinterpretation of its capabilities. It is worth making a distinction between real AI and robotic process automation (RPA). 
+
+### [450. The Implications of Open-Source AI: Should You Release Your AI Source Code Publicly?](https://hackernoon.com/the-implications-of-open-source-ai-should-you-release-your-ai-source-code-publicly-2q4u35cy)
 ![](https://cdn.hackernoon.com/images/7IZul4E5rBgCCom4K2S71QV9QVB2-va3b3fyd.jpeg)
 In this article, I will share my thoughts on why it's better and safer to bring the new AI tech into the hands of business rather than release it into the wild.
 
-### [445. A Detailed Primer on Machine Learning Algorithms](https://hackernoon.com/a-detailed-guide-for-machine-learning-algorithms-things-you-must-know-hw97324sa)
-![](https://cdn.hackernoon.com/images/mju824hp.jpg)
-Machine Learning has taken over the world and it has come out from the fancies of science fiction world to business intelligence reality. It can be termed as a new age business tool that entails multiple elements of business operation. 
-
-### [446. The Startup World in Generative AI](https://hackernoon.com/the-startup-world-in-generative-ai)
-![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-9f93l2w.jpeg)
-Or Gorodissky is VP of R&D at D-ID, a company that uses generative AI to create videos of photorealistic avatars.
-
-### [447. PyTorch vs TensorFlow: Who has More Pre-trained Deep Learning Models?](https://hackernoon.com/pytorch-vs-tensorflow-who-has-more-pre-trained-deep-learning-models)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-sn93y0c.jpeg)
-Given the importance of pre-trained Deep Learning models, which Deep Learning framework - PyTorch or TensorFlow - has more of these models available to users is
-
-### [448. Retraining Machine Learning Model Approaches](https://hackernoon.com/retraining-machine-learning-model-approaches-s93833sb)
+### [451. Retraining Machine Learning Model Approaches](https://hackernoon.com/retraining-machine-learning-model-approaches-s93833sb)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-3k2e32rz.jpeg)
 Retraining Machine Learning Model, Model Drift, Different ways to identify model drift, Performance Degradation
 
-### [449. Tired of Broken Chatbots? This AI Upgrade Fixes Everything](https://hackernoon.com/tired-of-broken-chatbots-this-ai-upgrade-fixes-everything)
+### [452. PyTorch vs TensorFlow: Who has More Pre-trained Deep Learning Models?](https://hackernoon.com/pytorch-vs-tensorflow-who-has-more-pre-trained-deep-learning-models)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-sn93y0c.jpeg)
+Given the importance of pre-trained Deep Learning models, which Deep Learning framework - PyTorch or TensorFlow - has more of these models available to users is
+
+### [453. The Startup World in Generative AI](https://hackernoon.com/the-startup-world-in-generative-ai)
+![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-9f93l2w.jpeg)
+Or Gorodissky is VP of R&D at D-ID, a company that uses generative AI to create videos of photorealistic avatars.
+
+### [454. Tired of Broken Chatbots? This AI Upgrade Fixes Everything](https://hackernoon.com/tired-of-broken-chatbots-this-ai-upgrade-fixes-everything)
 ![](https://cdn.hackernoon.com/images/8HKl6FNr4PcR7BVek2SN7D8BNL42-yr039mn.png)
 Discover how function calling transforms AI.  Learn implementation differences between OpenAI and Azure OpenAI, with practical code examples.
 
-### [450. The Weird and Wonderful World of AI Art](https://hackernoon.com/the-weird-and-wonderful-world-of-ai-art-tjr3x94)
+### [455. The Weird and Wonderful World of AI Art](https://hackernoon.com/the-weird-and-wonderful-world-of-ai-art-tjr3x94)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHv649QtrDhRGQMog7YJJwJK4SjH2-4db73umq.jpeg?alt=media&token=5907f2ea-949f-4d92-a72d-b50000aa5358)
 While the vast majority of developments in AI technology have centered around practical solutions such as self-driving cars and facial recognition, there's a growing number of artists using AI systems to develop new ideas for artistic projects and generate entirely unique pieces of work.
 
-### [451. How to Turn Your Business into a Cognitive Enterprise with AI Technologies?](https://hackernoon.com/how-to-turn-your-business-into-a-cognitive-enterprise-with-ai-technologies-83cd7621bcc8)
+### [456. How to Turn Your Business into a Cognitive Enterprise with AI Technologies?](https://hackernoon.com/how-to-turn-your-business-into-a-cognitive-enterprise-with-ai-technologies-83cd7621bcc8)
 ![](https://cdn-images-1.medium.com/max/1024/1*PD9JQrkqoxuMO0TrTDIrvg.png)
 Artificial Intelligence is everywhere, opportunities are in abundance for cognitive enterprises. What do we mean by cognitive enterprises? Millions of ideas and think pieces are waiting to grow luxuriantly and cognitive AI technologies will play a bigger role in turning your ideas into a live piece of&nbsp;work.
 
-### [452. How to Build a Question and Answer Chatbot with Amazon Kendra and AWS Fargate](https://hackernoon.com/how-to-build-a-question-and-answer-chatbot-with-amazon-kendra-and-aws-fargate-313030fr)
+### [457. How to Build a Question and Answer Chatbot with Amazon Kendra and AWS Fargate](https://hackernoon.com/how-to-build-a-question-and-answer-chatbot-with-amazon-kendra-and-aws-fargate-313030fr)
 ![](https://cdn.hackernoon.com/images/2x23b3whp.jpg)
 Amazon announced the general availability of Amazon Kendra a few weeks ago, Kendra is a highly accurate and easy to use enterprise search service powered by machine learning.
 
-### [453. I Was Ready to Return My DGX Spark. Then NVIDIA's January Update Changed Everything.](https://hackernoon.com/i-was-ready-to-return-my-dgx-spark-then-nvidias-january-update-changed-everything)
-![](https://cdn.hackernoon.com/images/mpDOI8AQeYeu5cc9VGleWjM9xvB2-sy038wg.png)
-I almost returned the $4,000 DGX Spark. Then NVIDIA dropped 30 playbooks, 2.5x performance gains, and hybrid routing.
-
-
-### [454. 5 Best Machine Learning Books for ML Beginners](https://hackernoon.com/5-best-machine-learning-books-for-ml-beginners-o23g376l)
+### [458. 5 Best Machine Learning Books for ML Beginners](https://hackernoon.com/5-best-machine-learning-books-for-ml-beginners-o23g376l)
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-b1j32mi.jpeg)
 Here is a list of the best books to learn machine learning for beginners to help build their careers in the ML Industry.
 
-### [455. 11 Awesome (and Worrisome) Applications of AI](https://hackernoon.com/11-awesome-and-worrisome-applications-of-ai-5c5e3u5a)
+### [459. 11 Awesome (and Worrisome) Applications of AI](https://hackernoon.com/11-awesome-and-worrisome-applications-of-ai-5c5e3u5a)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6E774J2BygcL7az0I4txmVV4Xfg2-6k2k3uxn.jpeg?alt=media&token=9743913d-af9a-43f7-bd1d-36d7b6eb649a)
 For years AI was touted to be the next big technology. Expected to revolutionize the job industry and effectively kill millions of human jobs, it became the poster child for job cuts. Despite this, its adoption has been increasingly well-received. To the tech experts, this wasn’t really surprising given its vast range of use cases. 
 
-### [456. AI-Driven Autonomous Agents - The Future of AI](https://hackernoon.com/autonomous-weapons-how-to-build-and-use-ai-agents)
+### [460. AI-Driven Autonomous Agents - The Future of AI](https://hackernoon.com/autonomous-weapons-how-to-build-and-use-ai-agents)
 ![](https://cdn.hackernoon.com/images/6Q9G55td38M5IPN0KQvACDQAoHd2-9z93ryo.jpeg)
 Autonomous Agents get stronger every minute you read this article.
 
-### [457. Say Goodbye to SEO - ChatGPT Steals the Show With Smarter Search](https://hackernoon.com/say-goodbye-to-seo-chatgpt-steals-the-show-with-smarter-search)
+### [461. Say Goodbye to SEO - ChatGPT Steals the Show With Smarter Search](https://hackernoon.com/say-goodbye-to-seo-chatgpt-steals-the-show-with-smarter-search)
 ![](https://cdn.hackernoon.com/images/qbjdMko7eFaiqBJgAApmsjilPv83-n593pai.jpeg)
 Search Engine Optimization (SEO) has been the backbone of an online search for over two decades now. But as Artificial Intelligence (AI) technology moves quickl
 
-### [458. Why ML in Production is (still) Broken and Ways we Can Fix it](https://hackernoon.com/why-ml-in-production-is-still-broken-and-ways-we-can-fix-it-e33k32jc)
-![](https://cdn.hackernoon.com/images/sqm3y2RrpCOJ4vEb1zhSXrxAev23-hm9e31e7.jpeg)
-Machine Learning, Deep Learning development in production was still broken. ZenML, an extensible, open-source MLOps framework for production-ready ML pipelines.
-
-### [459. Quantum Machine Learning Using TensorFlow Quantum](https://hackernoon.com/quantum-machine-learning-using-tensorflow-quantum-ef413yub)
+### [462. Quantum Machine Learning Using TensorFlow Quantum](https://hackernoon.com/quantum-machine-learning-using-tensorflow-quantum-ef413yub)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-wg82rh5.jpeg)
 INTRODUCTION
 
-### [460. AI Is Inherently Neutral - It Is Human Beings Who Are Biased, and the Machines Merely Replicate Them](https://hackernoon.com/ai-is-inherently-neutral-it-is-human-beings-who-are-biased-and-the-machines-merely-replicate-them)
+### [463. Why ML in Production is (still) Broken and Ways we Can Fix it](https://hackernoon.com/why-ml-in-production-is-still-broken-and-ways-we-can-fix-it-e33k32jc)
+![](https://cdn.hackernoon.com/images/sqm3y2RrpCOJ4vEb1zhSXrxAev23-hm9e31e7.jpeg)
+Machine Learning, Deep Learning development in production was still broken. ZenML, an extensible, open-source MLOps framework for production-ready ML pipelines.
+
+### [464. AI Is Inherently Neutral - It Is Human Beings Who Are Biased, and the Machines Merely Replicate Them](https://hackernoon.com/ai-is-inherently-neutral-it-is-human-beings-who-are-biased-and-the-machines-merely-replicate-them)
 ![](https://cdn.hackernoon.com/images/human-creating-ai-clgvdga5v000001s691bp5rhx.png)
 since it is the developers that provide the data and train the model, it is them that can cause the model to become biased (intentionally or unintentionally)
 
-### [461. Transformers: Age of Attention](https://hackernoon.com/transformers-age-of-attention)
+### [465. Transformers: Age of Attention](https://hackernoon.com/transformers-age-of-attention)
 ![](https://cdn.hackernoon.com/images/bT5DP1DNFVNAVP1NqCC9FniYNTf1-nd33ykg.webp)
 Simple explanation of the Transformer model from the revolutionary paper "Attention is All You Need" which is the basis of many advanced AI systems.
 
-### [462. Living in the world of AI - The Human Transformation](https://hackernoon.com/living-in-the-world-of-ai-the-human-transformation-ve1ds3zyq)
+### [466. Living in the world of AI - The Human Transformation](https://hackernoon.com/living-in-the-world-of-ai-the-human-transformation-ve1ds3zyq)
 ![](https://cdn.hackernoon.com/drafts/py1k53zq0.png)
 Today, if you stop and ask anyone working in a technology company, “What is the one thing that would help them change the world or make them grow faster than anyone else in their field?”  The answer would be Data. Yes, data is everything. Because data can essentially change, cure, fix, and support just about any problem. Data is the truth behind everything from finding a cure for cancer to studying the shifting weather patterns. 
 
-### [463. Is The Modern Data Warehouse Dead?](https://hackernoon.com/is-the-modern-data-warehouse-dead)
-![](https://cdn.hackernoon.com/images/yDiiZrP5VkgnvI5vdWkH3Sfer452-6va3q93.jpeg)
-Do we need a radical new approach to data warehouse technology? An immutable data warehouse starts with the data consumer SLAs and pipes data in pre-modeled.
-
-### [464. Positional Embedding: The Secret behind the Accuracy of Transformer Neural Networks](https://hackernoon.com/positional-embedding-the-secret-behind-the-accuracy-of-transformer-neural-networks)
+### [467. Positional Embedding: The Secret behind the Accuracy of Transformer Neural Networks](https://hackernoon.com/positional-embedding-the-secret-behind-the-accuracy-of-transformer-neural-networks)
 ![](https://cdn.hackernoon.com/images/wfOhdkoK2Ng95bY7s4ahmT5sb9N2-rjj3q1p.jpeg)
 An article explaining the intuition behind the “positional embedding” in transformer models from the renowned research paper - “Attention Is All You Need”.
 
-### [465. What is OpenAI's Whisper Model?](https://hackernoon.com/what-is-openais-whisper-model)
+### [468. Is The Modern Data Warehouse Dead?](https://hackernoon.com/is-the-modern-data-warehouse-dead)
+![](https://cdn.hackernoon.com/images/yDiiZrP5VkgnvI5vdWkH3Sfer452-6va3q93.jpeg)
+Do we need a radical new approach to data warehouse technology? An immutable data warehouse starts with the data consumer SLAs and pipes data in pre-modeled.
+
+### [469. What is OpenAI's Whisper Model?](https://hackernoon.com/what-is-openais-whisper-model)
 ![](https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-5ca3lw0.jpeg)
 Have you ever dreamed of a good transcription tool that would accurately understand what you say and write it down? Not like the automatic YouTube translation tools… I mean, they are good but far from perfect. Just try it out and turn the feature on for the video, and you’ll see what I’m talking about. 
 
-### [466. Everything You Need to Know About Google BERT](https://hackernoon.com/everything-your-need-to-know-about-googles-bert-model-yw5j33zs)
+### [470. Everything You Need to Know About Google BERT](https://hackernoon.com/everything-your-need-to-know-about-googles-bert-model-yw5j33zs)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-qhu33sd.png)
 Google BERT will help you to kickstart your NLP journey by showing you how the transformer’s encoder and decoder work.
 
-### [467. 7 Sneaky Ways Hackers Are Using Machine Learning to Steal Your Data](https://hackernoon.com/7-sneaky-ways-hackers-are-using-machine-learning-to-steal-your-data-d0933w6a)
+### [471. 7 Sneaky Ways Hackers Are Using Machine Learning to Steal Your Data](https://hackernoon.com/7-sneaky-ways-hackers-are-using-machine-learning-to-steal-your-data-d0933w6a)
 ![](https://cdn.hackernoon.com/drafts/j2qn3yix.png)
 Machine learning is famous for its ability to analyze large data sets and identify patterns. It is basically a subset of artificial intelligence. Machine learning uses algorithms that leverages previous data-sets and statistical analysis to make assumptions and pass on judgments about behavior.
 The best part, software or computers powered by machine learning algorithms can perform functions that they have not been programmed to perform.
 
-### [468. Is The Third AI Winter Coming?](https://hackernoon.com/the-third-ai-winter-is-coming-so19v3sun)
-![](https://cdn.hackernoon.com/drafts/ox18d3sd3.png)
-People have countless fantasies about Artificial Intelligence. It has become the most popular theme in novels and movies. When we dream about AI, we often fancy a world with Iron Man and his intelligent assistant J.A.R.V.I.S (or it’s replacement FRIDAY); Baymax from Big Hero 6; or the high-tech adult theme park from Westworld.
-
-### [469. Dall-E May Be Awesome, but It Still Can't Count.](https://hackernoon.com/dall-e-may-be-awesome-but-it-still-cant-count)
+### [472. Dall-E May Be Awesome, but It Still Can't Count.](https://hackernoon.com/dall-e-may-be-awesome-but-it-still-cant-count)
 ![](https://cdn.hackernoon.com/images/VaJY70GisVeIZmLtMN3tlqjFryX2-sw93kdd.jpeg)
 OpenAI's "Dall-E" artificial intelligence can be very frustrating for some professional uses. Here are a few things that Dall-E just can't seem to do.
 
-### [470. Is Quantum Cognition the Path to Strong AI (or Artificial General Intelligence)?](https://hackernoon.com/is-quantum-cognition-the-path-to-strong-ai-or-artificial-general-intelligence)
+### [473. Is The Third AI Winter Coming?](https://hackernoon.com/the-third-ai-winter-is-coming-so19v3sun)
+![](https://cdn.hackernoon.com/drafts/ox18d3sd3.png)
+People have countless fantasies about Artificial Intelligence. It has become the most popular theme in novels and movies. When we dream about AI, we often fancy a world with Iron Man and his intelligent assistant J.A.R.V.I.S (or it’s replacement FRIDAY); Baymax from Big Hero 6; or the high-tech adult theme park from Westworld.
+
+### [474. Is Quantum Cognition the Path to Strong AI (or Artificial General Intelligence)?](https://hackernoon.com/is-quantum-cognition-the-path-to-strong-ai-or-artificial-general-intelligence)
 ![](https://cdn.hackernoon.com/images/jAi8yAxae4Ye6rm7MrogacrypZE2-cj92h48.jpeg)
 Quantum cognition as the path to explaining the mind
 
-### [471. ChatGPT is Amazing. And It is FREE!](https://hackernoon.com/chatgpt-is-amazing-and-it-is-free)
+### [475. ChatGPT is Amazing. And It is FREE!](https://hackernoon.com/chatgpt-is-amazing-and-it-is-free)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-uy929ke.jpeg)
 GPT, or Generative Pretrained Transformer, is a type of language model that uses deep learning to generate human-like text. 
 
-### [472. How Can Machine Learning Predict the Stock Market?](https://hackernoon.com/how-can-machine-learning-predict-the-stock-market)
-![](https://cdn.hackernoon.com/images/dGWqB8LEZBhGjcvFXLwmrj7Beog2-we92984.jpeg)
-Artificial intelligence is changing the world as we know it. Form self-driving cars to weather predictions. Now it's taking on the stock market. Here's how.
-
-### [473. Why Use Kubernetes for Distributed Inferences on Large AI/ML Datasets ](https://hackernoon.com/why-use-kubernetes-for-distributed-inferences-on-large-aiml-datasets)
-![](https://cdn.hackernoon.com/images/YqzNjVX0nYVlCUWqv4gnCWnKpey1-x793ptl.jpeg)
-This blog provides you with some strong rationale to use Kubernetes on large AI/ML datasets on which distributed inferences are performed. Loop in for more. 
-
-### [474. Top 9 Free Beginner Tutorials for Machine Learning (ML)](https://hackernoon.com/top-9-free-beginner-tutorials-for-machine-learning-ml)
-![](https://cdn.hackernoon.com/images/yInti7CnmZMjybXOCRsTVUOcMel2-e7a381j.jpeg)
-This post includes a round-up of some of the best free beginner tutorials for Machine Learning.
-
-### [475. How to Build a Customer Service Chatbot with Python, Flask, and Pinecone](https://hackernoon.com/how-to-build-a-customer-service-chatbot-with-python-flask-and-pinecone)
-![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-ka2639ui.jpeg)
-What if a customer asks a question, you could easily find previously asked similar questions and answers that could help them?
-
-### [476. The Real World Potential and Limitations of Artificial Intelligence](https://hackernoon.com/the-real-world-potential-and-limitations-of-artificial-intelligence-7214s386b)
-![](https://cdn.hackernoon.com/drafts/a718o384t.png)
-No longer does artificial intelligence only exist in sci-fi movies and books about dystopian futures. It’s in the here and now, continuously transforming the way in which we live and work. 
-
-### [477. Using Machine Learning to Build a Ride Acceptance Model for Uber](https://hackernoon.com/using-machine-learning-to-build-a-ride-acceptance-model-for-uber)
+### [476. Using Machine Learning to Build a Ride Acceptance Model for Uber](https://hackernoon.com/using-machine-learning-to-build-a-ride-acceptance-model-for-uber)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-wv92agw.jpeg)
 Objective: Predict if a driver will accept a ride request or not and find the probability of acceptance.
 
-### [478. How to Remove Gender Bias in Machine Learning Models: NLP and Word Embeddings](https://hackernoon.com/how-to-remove-gender-bias-in-machine-learning-models-nlp-and-word-embeddings-u0533ugl)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0ojcySAWZxQjxkopBa3qseEXZHm2-tf133tz0.jpeg?alt=media&token=e7595e63-b329-46c0-9f9c-66ca92e3620c)
-Most word embeddings used are glaringly sexist, let us look at some ways to de-bias such embeddings.
+### [477. How Can Machine Learning Predict the Stock Market?](https://hackernoon.com/how-can-machine-learning-predict-the-stock-market)
+![](https://cdn.hackernoon.com/images/dGWqB8LEZBhGjcvFXLwmrj7Beog2-we92984.jpeg)
+Artificial intelligence is changing the world as we know it. Form self-driving cars to weather predictions. Now it's taking on the stock market. Here's how.
 
-### [479. Use plaidML to do Machine Learning on macOS with an AMD GPU](https://hackernoon.com/use-plaidml-to-do-machine-learning-on-macos-with-an-amd-gpu-51323420)
-![](https://cdn.hackernoon.com/images/PRlQ2QaAHYVOG8tmHUwusV8O01m1-ts53eyk.jpeg)
-Want to train machine learning models on your Mac’s integrated AMD GPU or an external graphics card? Look no further than PlaidML.
+### [478. Why Use Kubernetes for Distributed Inferences on Large AI/ML Datasets ](https://hackernoon.com/why-use-kubernetes-for-distributed-inferences-on-large-aiml-datasets)
+![](https://cdn.hackernoon.com/images/YqzNjVX0nYVlCUWqv4gnCWnKpey1-x793ptl.jpeg)
+This blog provides you with some strong rationale to use Kubernetes on large AI/ML datasets on which distributed inferences are performed. Loop in for more. 
 
-### [480. AI vs. Sarcasm: Will It Ever Understand?](https://hackernoon.com/ai-vs-sarcasm-will-it-ever-understand)
-![](https://cdn.hackernoon.com/images/PTzlJJ2dKjTA4aK3EFGpnVUtreg1-xda3rma.jpeg)
-Exploring AI's understanding of sarcasm and emotions, revealing the complexity of human interactions and challenges in sentiment analysis.
+### [479. How to Build a Customer Service Chatbot with Python, Flask, and Pinecone](https://hackernoon.com/how-to-build-a-customer-service-chatbot-with-python-flask-and-pinecone)
+![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-ka2639ui.jpeg)
+What if a customer asks a question, you could easily find previously asked similar questions and answers that could help them?
 
-### [481. Beat The Heat with Machine Learning Cheat Sheet](https://hackernoon.com/beat-the-heat-with-machine-learning-cheat-sheet-cg3u3yk3)
-![](https://cdn.hackernoon.com/images/1812u304h.gif)
-If you are a beginner and just started machine learning or even an intermediate level programmer, you might have been stuck on how do you solve this problem. Where do you start? and where do you go from here?
+### [480. 'El transformador ilustrado' una traducción al español](https://hackernoon.com/el-transformador-ilustrado-una-traduccion-al-espanol-0y73wwp)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHFUEKwOWUPZSlUykLPDZ2wtZy5O2-3h403w2p.jpeg?alt=media&token=39bfaaac-6549-4644-88a0-70fca5652a73)
+<meta name="monetization" content="$ilp.uphold.com/EXa8i9DQ32qy">
 
-### [482. 4 Fashion Brands That Included Smart Vending Machines In Their Marketing Strategy](https://hackernoon.com/4-fashion-brands-that-included-smart-vending-machines-in-their-marketing-strategy-0obe37h9)
-![](https://cdn.hackernoon.com/images/ghoqyKXcSpPVImwrUESYYsybnJJ2-2hd35q3.jpeg)
-Have you ever wanted to buy a dress from a vending machine? See how brands are using smart vending to customize the shopping experience.
+### [481. Top 9 Free Beginner Tutorials for Machine Learning (ML)](https://hackernoon.com/top-9-free-beginner-tutorials-for-machine-learning-ml)
+![](https://cdn.hackernoon.com/images/yInti7CnmZMjybXOCRsTVUOcMel2-e7a381j.jpeg)
+This post includes a round-up of some of the best free beginner tutorials for Machine Learning.
+
+### [482. The Real World Potential and Limitations of Artificial Intelligence](https://hackernoon.com/the-real-world-potential-and-limitations-of-artificial-intelligence-7214s386b)
+![](https://cdn.hackernoon.com/drafts/a718o384t.png)
+No longer does artificial intelligence only exist in sci-fi movies and books about dystopian futures. It’s in the here and now, continuously transforming the way in which we live and work. 
 
 ### [483. Everyone's Using the Wrong Algebra in AI](https://hackernoon.com/everyones-using-the-wrong-algebra-in-ai)
 ![](https://cdn.hackernoon.com/images/9F2W64ovN7b9N5QGpmjuGCfiEmY2-gz33b5f.png)
 From Tesla phantom braking to LLM hallucinations, the root bug is first-order math. We explain how dual/jet numbers unlock scalable second-order AI.
 
-### [484. How To Retrieve Company Data With Python and yfinance](https://hackernoon.com/how-to-retrieve-company-data-with-python-and-yfinance-il1o31eu)
-![](https://cdn.hackernoon.com/images/q5cPSnrcWRW8kqthxh6yv8s3s3t1-0l1573fte.jpeg)
-Use Python for Finance to do financial analysis, such as retrieve historical prices, calculate moving average and plot daily returns.
+### [484. How to Remove Gender Bias in Machine Learning Models: NLP and Word Embeddings](https://hackernoon.com/how-to-remove-gender-bias-in-machine-learning-models-nlp-and-word-embeddings-u0533ugl)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0ojcySAWZxQjxkopBa3qseEXZHm2-tf133tz0.jpeg?alt=media&token=e7595e63-b329-46c0-9f9c-66ca92e3620c)
+Most word embeddings used are glaringly sexist, let us look at some ways to de-bias such embeddings.
 
-### [485. AI vs ML: What's the Difference?](https://hackernoon.com/ai-vs-ml-whats-the-difference-3pt37h9)
+### [485. Use plaidML to do Machine Learning on macOS with an AMD GPU](https://hackernoon.com/use-plaidml-to-do-machine-learning-on-macos-with-an-amd-gpu-51323420)
+![](https://cdn.hackernoon.com/images/PRlQ2QaAHYVOG8tmHUwusV8O01m1-ts53eyk.jpeg)
+Want to train machine learning models on your Mac’s integrated AMD GPU or an external graphics card? Look no further than PlaidML.
+
+### [486. AI vs. Sarcasm: Will It Ever Understand?](https://hackernoon.com/ai-vs-sarcasm-will-it-ever-understand)
+![](https://cdn.hackernoon.com/images/PTzlJJ2dKjTA4aK3EFGpnVUtreg1-xda3rma.jpeg)
+Exploring AI's understanding of sarcasm and emotions, revealing the complexity of human interactions and challenges in sentiment analysis.
+
+### [487. 4 Fashion Brands That Included Smart Vending Machines In Their Marketing Strategy](https://hackernoon.com/4-fashion-brands-that-included-smart-vending-machines-in-their-marketing-strategy-0obe37h9)
+![](https://cdn.hackernoon.com/images/ghoqyKXcSpPVImwrUESYYsybnJJ2-2hd35q3.jpeg)
+Have you ever wanted to buy a dress from a vending machine? See how brands are using smart vending to customize the shopping experience.
+
+### [488. Beat The Heat with Machine Learning Cheat Sheet](https://hackernoon.com/beat-the-heat-with-machine-learning-cheat-sheet-cg3u3yk3)
+![](https://cdn.hackernoon.com/images/1812u304h.gif)
+If you are a beginner and just started machine learning or even an intermediate level programmer, you might have been stuck on how do you solve this problem. Where do you start? and where do you go from here?
+
+### [489. AI vs ML: What's the Difference?](https://hackernoon.com/ai-vs-ml-whats-the-difference-3pt37h9)
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-jue32ly.jpeg)
 Learn the distinctions between AI and ML with vivid examples.
 
-### [486. Text-to-Image: How AI Illustrates the War in Ukraine and What You Need to Generate Your Own Art](https://hackernoon.com/text-to-image-how-ai-illustrates-the-war-in-ukraine-and-what-you-need-to-know-to-generate-your-ow)
-![](https://cdn.hackernoon.com/images/AOw5qnUecgeVXArj9wZJt0VeWgv1-1693phd.jpeg)
-Text-to-Image: how AI illustrates the war in Ukraine and what you need to know to generate your own 
+### [490. How To Retrieve Company Data With Python and yfinance](https://hackernoon.com/how-to-retrieve-company-data-with-python-and-yfinance-il1o31eu)
+![](https://cdn.hackernoon.com/images/q5cPSnrcWRW8kqthxh6yv8s3s3t1-0l1573fte.jpeg)
+Use Python for Finance to do financial analysis, such as retrieve historical prices, calculate moving average and plot daily returns.
 
-### [487. Small Object Detection in Computer Vision: The Patch-Based Approach](https://hackernoon.com/small-object-detection-in-computer-vision-the-patch-based-approach)
+### [491. Small Object Detection in Computer Vision: The Patch-Based Approach](https://hackernoon.com/small-object-detection-in-computer-vision-the-patch-based-approach)
 ![](https://cdn.hackernoon.com/images/enAUmgG9fMMHjw3YZvbuPhcMTkK2-3y93ko7.jpeg)
 How to carry out small object detection with Computer Vision - An example of finding lost people in a forest. 
 
-### [488. A Guide to Using Apache Cassandra as a Real-time Feature Store](https://hackernoon.com/a-guide-to-using-apache-cassandra-as-a-real-time-feature-store)
-![](https://cdn.hackernoon.com/images/qiQzyjN6LvaRDmVgSbd9gXT8bty2-ick3pq8.jpeg)
-This guide explores real-time AI and the unique performance and cost attributes of Cassandra that make it an excellent database for a feature store.
+### [492. Text-to-Image: How AI Illustrates the War in Ukraine and What You Need to Generate Your Own Art](https://hackernoon.com/text-to-image-how-ai-illustrates-the-war-in-ukraine-and-what-you-need-to-know-to-generate-your-ow)
+![](https://cdn.hackernoon.com/images/AOw5qnUecgeVXArj9wZJt0VeWgv1-1693phd.jpeg)
+Text-to-Image: how AI illustrates the war in Ukraine and what you need to know to generate your own 
 
-### [489. A Detailed Overview of How AI Detectors Work](https://hackernoon.com/a-detailed-overview-of-how-ai-detectors-work)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-3993pff.jpeg)
-Interested in finding out how AI detection works? Well, you are in for a treat. I'll keep it as simple as possible so that anyone can understand.
-
-### [490. How to Build a Training Pipeline on Multiple GPUs ](https://hackernoon.com/how-to-build-a-training-pipeline-on-multiple-gpus)
-![](https://cdn.hackernoon.com/images/yNoDm9QJcwPjrM8bAeGmf2FFtzr1-q393gkx.jpeg)
-In the current big data regime, it is hard to fit all the data into a single CPU.
-
-### [491. How to Get Started With Embeddings](https://hackernoon.com/how-to-get-started-with-embeddings)
+### [493. How to Get Started With Embeddings](https://hackernoon.com/how-to-get-started-with-embeddings)
 ![](https://cdn.hackernoon.com/images/HFUEKwOWUPZSlUykLPDZ2wtZy5O2-gd93g3d.png)
 Getting started with embeddings using open-source tools.
 
-### [492. Credit Card Fraud Detection via Machine Learning: A Case Study](https://hackernoon.com/credit-card-fraud-detection-via-machine-learning-a-case-study-1o3o3327)
+### [494. A Detailed Overview of How AI Detectors Work](https://hackernoon.com/a-detailed-overview-of-how-ai-detectors-work)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-3993pff.jpeg)
+Interested in finding out how AI detection works? Well, you are in for a treat. I'll keep it as simple as possible so that anyone can understand.
+
+### [495. A Guide to Using Apache Cassandra as a Real-time Feature Store](https://hackernoon.com/a-guide-to-using-apache-cassandra-as-a-real-time-feature-store)
+![](https://cdn.hackernoon.com/images/qiQzyjN6LvaRDmVgSbd9gXT8bty2-ick3pq8.jpeg)
+This guide explores real-time AI and the unique performance and cost attributes of Cassandra that make it an excellent database for a feature store.
+
+### [496. How to Build a Training Pipeline on Multiple GPUs ](https://hackernoon.com/how-to-build-a-training-pipeline-on-multiple-gpus)
+![](https://cdn.hackernoon.com/images/yNoDm9QJcwPjrM8bAeGmf2FFtzr1-q393gkx.jpeg)
+In the current big data regime, it is hard to fit all the data into a single CPU.
+
+### [497. Credit Card Fraud Detection via Machine Learning: A Case Study](https://hackernoon.com/credit-card-fraud-detection-via-machine-learning-a-case-study-1o3o3327)
 ![](https://cdn.hackernoon.com/images/zVaxL0LohRUpfDQhznRQ9z3y5tj1-xee3xfj.jpeg)
 A machine learning guide on how to identify fraudulent credit card transactions by using the PyOD toolkit.
 
-### [493. Adversarial Examples In Machine Learning Explained](https://hackernoon.com/adversarial-examples-in-machine-learning-explained)
+### [498. Adversarial Examples In Machine Learning Explained](https://hackernoon.com/adversarial-examples-in-machine-learning-explained)
 ![](https://cdn.hackernoon.com/images/DUgalx4alqOf4QlthE3dDI1x7Wq2-doy3mr8.jpeg)
 There are easy ways to build adversarial examples that can fool any deep learning model and create security issues no matter how complex the model is.
 
-### [494. Anscombe’s Quartet And Importance of Data Visualization](https://hackernoon.com/anscombes-quartet-and-importance-of-data-visualization-cc163u5r)
+### [499. Anscombe’s Quartet And Importance of Data Visualization](https://hackernoon.com/anscombes-quartet-and-importance-of-data-visualization-cc163u5r)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FTE19zQQkN5btjjQUg5zzSzdyTNE3-1q1w3e8o.jpeg?alt=media&token=477fb51b-5bc8-438f-bfd7-9751b7311f5e)
 Anscombe’s quartet comprises four data sets that have nearly identical simple descriptive statistics, yet have very different distributions and appear very different when graphed.
 — Wikipedia
 
-### [495. 4 Ways Startups Can Overcome Implementation Challenges of Machine Learning ](https://hackernoon.com/4-ways-startups-can-overcome-implementation-challenges-of-machine-learning-dbgoi384n)
-![](https://cdn.hackernoon.com/images/8mg3c3892.jpg)
-Machine learning is the best method of data analysis. It also automates the creation of analytical business models. This is the reason why machine learning plays an important role in the growth of a business. Hence, your business will probably need new and highly inspired ideas to deploy machine learning solutions into your business. However, the implementation of machine learning can bring several challenges. 
-
-### [496. AI for Noobs: How Amazon Alexa Works](https://hackernoon.com/ai-for-noobs-how-amazon-alexa-works)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-db03e18.jpeg)
-How Amazon Alexa AI processes and implements commands.
-
-### [497. 8 Use Cases for Voice Cloning with Artificial Intelligence](https://hackernoon.com/8-use-cases-for-voice-cloning-with-artificial-intelligence-h51b3unu)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5LP9HpsguyZWLr4vNUuMYzPA34G3-sq3f3e83.jpeg?alt=media&token=b0e08ecb-5b95-46f5-9656-3dc98e3e8271)
-If you thought that voice cloning and deepfakes are recent buzzwords, think again. The first original record of mimicking human voice dates back to 1779, in Russia. Professor Christian Kratzenstein built acoustic resonators that mimicked the human vocal tract when activated by means of vibrating reeds (just like wind instruments), in his lab in St. Petersburg.
-
-### [498. AI-Driven YouTube Comment Management: The Good, Bad, and Ugly](https://hackernoon.com/ai-driven-youtube-comment-management-the-good-bad-and-ugly)
-![](https://cdn.hackernoon.com/images/3dP1h4oDXWfdH1z81Je2nAo7JKq1-hkc35au.jpeg)
-A Step-by-Step Guide to Building a YouTube Video Comments Responder
-
-### [499. How to Train Your Own Private ChatGPT Model for the Cost of a Starbucks Coffee](https://hackernoon.com/how-to-train-your-own-private-chatgpt-model-for-the-cost-of-a-starbucks-coffee)
-![](https://cdn.hackernoon.com/images/GQtxSqyLbmdhnAkgEuIOHc3Vmm83-xa153tei.jpeg)
-With the cost of a cup of Starbucks and two hours of your time, you can own your own trained open-source large-scale model. 
-
-### [500. Machine Learning Magic: How to Speed Up Offline Inference for Large Datasets](https://hackernoon.com/machine-learning-magic-how-to-speed-up-offline-inference-for-large-datasets)
-![](https://cdn.hackernoon.com/images/MEO1Whp7pdbY2Fmqr6xMgItyqS23-xe137lc.jpeg)
-Running inference at scale is challenging. See how we speed up the I/O performance for large-scale ML/DL offline inference jobs.
+### [500. Darwin's Hybrid Intelligence to Align AI & Human Goals for Startups & VCs](https://hackernoon.com/-tx3h3w82)
+![](https://cdn.hackernoon.com/images/j521w3wmw.jpg)
+This post is part of the Hacker Noon Shareholder Series, where we interview some of the super-investors who made the site you're on right now possible.
 

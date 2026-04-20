@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [mysql](https://hackernoon.com/tagged/mysql)
+### Let's learn about [Mysql](https://hackernoon.com/tagged/mysql) via these 109 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+MySQL is an open-source relational database management system (RDBMS) widely used for web applications due to its speed, reliability, and ease of use. It is a cornerstone for data storage in countless popular websites and applications globally.
+
 ### [1. [MySQL] Note: Relation: 1–1, 1-n, n-n, nest](https://hackernoon.com/mysql-tutorial-example-relation-foreign-key-database-funtion-join-table-query-one-namy-nest-41dd09648fbd)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-st03b2x.jpeg)
 Over the pass few years, I have built couple of E-commerce or content shared platform by <strong><em>MongoDB</em></strong>, and realized that it is not a ideal database for the architecture of complex relational tables(like user, permission, product or shop relations) and fast-moving features requirement(it causes inconsistent records/data type)&nbsp;. It happens every few months when new requirement come to us, dirty data correcting is like pull teeth from my ass.
@@ -17,17 +21,17 @@ What is mysqldump?
 ![](https://cdn.hackernoon.com/images/mDsj2387wdN4dArKgC2UNVj38ru1-yli32x2.jpeg)
 In this article, we explain how to install PHP, Apache, and MySQL and then find out how to configure PHP.
 
-### [5. Navigating MySQL Data Types: Strings](https://hackernoon.com/navigating-mysql-data-types-strings)
-![](https://cdn.hackernoon.com/images/7GxDfl4wtJPkTNIEiNlRFbrUwgV2-et03b2i.png)
-This article covers string types in MySQL, how they function, what may go wrong, and how to make safe choices. 
-
-### [6. Solve Database Concurrency Issues with TypeOrm](https://hackernoon.com/database-concurrencies-with-typeorm-6b1631k8)
+### [5. Solve Database Concurrency Issues with TypeOrm](https://hackernoon.com/database-concurrencies-with-typeorm-6b1631k8)
 ![](https://cdn.hackernoon.com/images/caEFaH2LIyTEqUMLqhhb3nC4EXg1-tjpy31rs.jpeg)
 Solve concurrency issues with typeorm query to fix race-condition and deadlock  bug. 
 
-### [7. My Favorite Resources to Learn SQL in Depth](https://hackernoon.com/my-favorite-resources-to-learn-sql-in-depth)
+### [6. My Favorite Resources to Learn SQL in Depth](https://hackernoon.com/my-favorite-resources-to-learn-sql-in-depth)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-u392fhh.jpeg)
 Practicing SQL online on sites like SQLZoo or SQLFiddle will help you keep up-to-date and improve your SQL skills.
+
+### [7. Navigating MySQL Data Types: Strings](https://hackernoon.com/navigating-mysql-data-types-strings)
+![](https://cdn.hackernoon.com/images/7GxDfl4wtJPkTNIEiNlRFbrUwgV2-et03b2i.png)
+This article covers string types in MySQL, how they function, what may go wrong, and how to make safe choices. 
 
 ### [8. MySQL Master-Slave Replication using Docker](https://hackernoon.com/mysql-master-slave-replication-using-docker-3pp3u97)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FPeUqsLVM0dXMM9gS2MrunjcNGq83-e283uys.jpeg?alt=media&token=0ecaecda-4fd8-489f-8556-56bd4eb807b8)
@@ -77,13 +81,13 @@ If you are interested in learning SQL with MySQL database then you have come to 
 ![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-po93442.jpeg)
 These are the best places to learn SQL and Database online
 
-### [20. DBngin: Instant Local Server for MySQL, PostgreSQL, and Redis](https://hackernoon.com/dbngin-instant-local-server-for-mysql-postgresql-and-redis-3o2tn30ew)
-![](https://cdn.hackernoon.com/images/g82v2309h.jpg)
-Docker might be an easy solution as an all-in-one tool for setting up a Local Development Environment. But on the other hand, it eats up a huge portion of your system resources to get up and running, and we hate it when our computer becomes lagging and clumsy. 
-
-### [21. Upgrading MySQL 5.5 to MySQL 8: A Step by Step Guide](https://hackernoon.com/upgrading-mysql-55-to-mysql-8-a-step-by-step-guide-ltal35h3)
+### [20. Upgrading MySQL 5.5 to MySQL 8: A Step by Step Guide](https://hackernoon.com/upgrading-mysql-55-to-mysql-8-a-step-by-step-guide-ltal35h3)
 ![](https://cdn.hackernoon.com/images/BXZKrZJ52TYblw95jd0y2qErCY13-adqn35tw.jpeg)
 It is one of the dogmas that upgrading freeware libraries is a drag - but not anymore especially for MySQL. Check out this article for more information.
+
+### [21. DBngin: Instant Local Server for MySQL, PostgreSQL, and Redis](https://hackernoon.com/dbngin-instant-local-server-for-mysql-postgresql-and-redis-3o2tn30ew)
+![](https://cdn.hackernoon.com/images/g82v2309h.jpg)
+Docker might be an easy solution as an all-in-one tool for setting up a Local Development Environment. But on the other hand, it eats up a huge portion of your system resources to get up and running, and we hate it when our computer becomes lagging and clumsy. 
 
 ### [22. Connecting GraphQL with Java Spring Boot and Postgres or MySQL](https://hackernoon.com/connecting-graphql-with-java-spring-boot-and-postgres-or-mysql-gfan3y6o)
 ![](https://cdn.hackernoon.com/images/cmls3yzm.jpg)
@@ -205,29 +209,29 @@ How to quickly and efficiently create tests for MySQL without installing any add
 ![](https://cdn.hackernoon.com/images/co713y5u.jpg)
 If you are using MySQL or MariaDB as a Database Management System for your web-application so sometimes these DBMS consume too much of CPU resources which lead to the slow down of the application performance. 
 
-### [52. How to Use .populate() With mongoDB](https://hackernoon.com/how-to-use-populate-with-mongodb)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-pv931i4.jpeg)
-How to use populate() method with mongoDB to itch data across referenced collections
-
-### [53. How to Navigate Auto-Increment Columns in Relational Databases](https://hackernoon.com/how-to-navigate-auto-increment-columns-in-relational-databases)
+### [52. How to Navigate Auto-Increment Columns in Relational Databases](https://hackernoon.com/how-to-navigate-auto-increment-columns-in-relational-databases)
 ![](https://cdn.hackernoon.com/images/n3kl2GbTdNeZW4LWuQI0srwMqsG2-6n93pi1.jpeg)
 Auto-increment is a database feature that generates unique IDs for new rows. It's supported by most RDBMS and can be implemented using different syntax. 
 
-### [54. SQL Window Functions: A Quick Review With Examples](https://hackernoon.com/sql-window-functions-a-quick-review-with-examples)
+### [53. How to Use .populate() With mongoDB](https://hackernoon.com/how-to-use-populate-with-mongodb)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-pv931i4.jpeg)
+How to use populate() method with mongoDB to itch data across referenced collections
+
+### [54. Your ORM Is Lying to You (And You're Paying for It)](https://hackernoon.com/your-orm-is-lying-to-you-and-youre-paying-for-it)
+![](https://cdn.hackernoon.com/images/XIlys8PrM8eJ7n0qjETjuC0lbkB2-xv839pc.png)
+ORMs hide what they really do to your database. Learn the patterns that kill performance and the architecture that uses both ORM and raw SQL correctly. 
+
+### [55. SQL Window Functions: A Quick Review With Examples](https://hackernoon.com/sql-window-functions-a-quick-review-with-examples)
 ![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-m803cmo.png)
 In this article, we’ll explore some commonly used SQL window functions (ROW_NUMBER(), RANK(), DENSE_RANK(), NTILE(), LEAD(), and LAG()) with examples.
 
-### [55. Check Out These 8 Free SQL Courses to Learn About Oracle, MySQL, and SQL Server](https://hackernoon.com/check-out-these-8-free-sql-courses-to-learn-about-oracle-mysql-and-sql-server)
+### [56. Check Out These 8 Free SQL Courses to Learn About Oracle, MySQL, and SQL Server](https://hackernoon.com/check-out-these-8-free-sql-courses-to-learn-about-oracle-mysql-and-sql-server)
 ![](https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-l693izj.jpeg)
 SQL is very important and many programmers realize this, however, I have found that many more programmers just don't spend much time improving their SQL skills.
 
-### [56. Decoding MySQL EXPLAIN Query Results for Better Performance (Part 2)](https://hackernoon.com/decoding-mysql-explain-query-results-for-better-performance-part-2)
+### [57. Decoding MySQL EXPLAIN Query Results for Better Performance (Part 2)](https://hackernoon.com/decoding-mysql-explain-query-results-for-better-performance-part-2)
 ![](https://cdn.hackernoon.com/images/VlxFueVdMDdrlpRLxcr32GCiCwz2-7l93vyb.jpeg)
 Understanding MySQL explains query output is essential to optimize the query. EXPLAIN is good tool to analyze your query.
-
-### [57. Your ORM Is Lying to You (And You're Paying for It)](https://hackernoon.com/your-orm-is-lying-to-you-and-youre-paying-for-it)
-![](https://cdn.hackernoon.com/images/XIlys8PrM8eJ7n0qjETjuC0lbkB2-xv839pc.png)
-ORMs hide what they really do to your database. Learn the patterns that kill performance and the architecture that uses both ORM and raw SQL correctly. 
 
 ### [58. Take your Materialized Views to the Next Level by Joining MySQL and Postgres](https://hackernoon.com/take-your-materialized-views-to-the-next-level-by-joining-mysql-and-postgres)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-2g03lwn.jpeg)
@@ -249,82 +253,82 @@ In this article I would share a set of ORMs optimization strategies that I'm usi
 ![](https://cdn.hackernoon.com/images/7ckt3ymi.jpg)
 Technical design. Because one of the most common use cases of the new databases is storing data that is generated by high-throughput sources, it is important that the store engine is able to handle write-intensive workloads, all while offering acceptable read performance. RocksDB implements what is known in the database literature as a log-structured merge tree aka LSM tree.
 
-### [63. Synchronizing Data from MySQL to PostgreSQL Using Apache SeaTunnel](https://hackernoon.com/synchronizing-data-from-mysql-to-postgresql-using-apache-seatunnel)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-n4036jl.jpeg)
-A step-by-step walkthrough of building a real-time data pipeline to merge and synchronize MySQL data sources using Apache SeaTunnel.
-
-### [64. Efficient Dockerized Database Monitoring with Dockerized PMM](https://hackernoon.com/efficient-dockerized-database-monitoring-with-dockerized-pmm)
+### [63. Efficient Dockerized Database Monitoring with Dockerized PMM](https://hackernoon.com/efficient-dockerized-database-monitoring-with-dockerized-pmm)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-bg93rc8.jpeg)
 Learn how to monitor your databases with ease using Docker and Percona Monitoring and Management (PMM). PMM is a free and open-source platform for monitoring an
 
-### [65. Getting your Swift API Interacting With a MySQL Database 💾 ](https://hackernoon.com/getting-your-swift-api-interacting-with-a-mysql-database-swift-51vapor-3-cy1x3n4i)
+### [64. Getting your Swift API Interacting With a MySQL Database 💾 ](https://hackernoon.com/getting-your-swift-api-interacting-with-a-mysql-database-swift-51vapor-3-cy1x3n4i)
 ![](https://cdn.hackernoon.com/images/euw3nmv.jpg)
 Continuing our Swift backend takeover 😬 by configuring our API with a popular, powerful database MySQL 🖥
 
-### [66. [Tutorial] Top 5 Ways to Query Your Relational Database in JavaScript [Part 2]](https://hackernoon.com/tutorial-top-5-ways-to-query-your-relational-database-in-javascript-part-2-sa293u0y)
+### [65. [Tutorial] Top 5 Ways to Query Your Relational Database in JavaScript [Part 2]](https://hackernoon.com/tutorial-top-5-ways-to-query-your-relational-database-in-javascript-part-2-sa293u0y)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzS7Ens3qoUevRb8Om1z17awDmJ93-vf1c3uul.jpeg?alt=media&token=a3841613-1bd2-468c-b9e1-f334e7a96da1)
 Welcome back! In the first part of this series, we looked at a very "low-level" way to interact with a relational database by sending it raw SQL strings and retrieving the results. We created a very simple Express application that we can use as an example and deployed it on Heroku with a Postgres database.
 
-### [67. My Personal Guide to SQL Window Functions (Part 1)](https://hackernoon.com/my-personal-guide-to-sql-window-functions-part-1)
+### [66. Is JOIN Faster Than Correlated Subqueries? Taking a Look and Subsequently Debunking the Myth](https://hackernoon.com/is-join-faster-than-correlated-subqueries-taking-a-look-and-subsequently-debunking-the-myth)
+![](https://cdn.hackernoon.com/images/n3kl2GbTdNeZW4LWuQI0srwMqsG2-yn03bpc.png)
+I decided to put it to the test across four popular database systems: MySQL 8.0, Oracle 23c, PostgreSQL 16, and SQLite 3.45. The results were eye-opening.
+
+### [67. How I Connected MySQL Shell Over SSH](https://hackernoon.com/how-i-connected-mysql-shell-over-ssh)
+![](https://cdn.hackernoon.com/images/Nppoj6VaOWRfwXBV5J5gk28cCGp2-pgd3k9u.jpeg)
+Until recently, I had only used MySQL Shell to connect to a local instance of MySQL running on my development machine.
+
+### [68. My Personal Guide to SQL Window Functions (Part 1)](https://hackernoon.com/my-personal-guide-to-sql-window-functions-part-1)
 ![](https://cdn.hackernoon.com/images/Nppoj6VaOWRfwXBV5J5gk28cCGp2-q393mkd.jpeg)
 First introduced as part of the SQ:2003 Standard and available in MySQL 8.0, window functions in MySQL are compelling, but the syntax can be difficult to grok.
 
-### [68. How to Connect to Oracle, MySql and PostgreSQL Databases Using Python](https://hackernoon.com/how-to-connect-to-oracle-mysql-and-postgresql-databases-using-python)
+### [69. How to Connect to Oracle, MySql and PostgreSQL Databases Using Python](https://hackernoon.com/how-to-connect-to-oracle-mysql-and-postgresql-databases-using-python)
 ![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-qu83wov.jpeg)
 To connect to a database and query data, you need to begin by installing Pandas and Sqlalchemy.
-
-### [69. How I Connected MySQL Shell Over SSH](https://hackernoon.com/how-i-connected-mysql-shell-over-ssh)
-![](https://cdn.hackernoon.com/images/Nppoj6VaOWRfwXBV5J5gk28cCGp2-pgd3k9u.jpeg)
-Until recently, I had only used MySQL Shell to connect to a local instance of MySQL running on my development machine.
 
 ### [70. ChartDB: Pioneering the Future of Database Visualization ✨](https://hackernoon.com/chartdb-pioneering-the-future-of-database-visualization)
 ![](https://cdn.hackernoon.com/images/SEqMXxuNIuMwaZeQbxmIM3399bY2-ca036up.png)
 ChartDB is an open-source tool transforming database design. Discover intuitive visualization, AI features, and seamless developer workflows.
 
-### [71. Is JOIN Faster Than Correlated Subqueries? Taking a Look and Subsequently Debunking the Myth](https://hackernoon.com/is-join-faster-than-correlated-subqueries-taking-a-look-and-subsequently-debunking-the-myth)
-![](https://cdn.hackernoon.com/images/n3kl2GbTdNeZW4LWuQI0srwMqsG2-yn03bpc.png)
-I decided to put it to the test across four popular database systems: MySQL 8.0, Oracle 23c, PostgreSQL 16, and SQLite 3.45. The results were eye-opening.
-
-### [72. Generating Unique Values for Test Data in MySQL](https://hackernoon.com/generating-unique-values-for-test-data-in-mysql)
+### [71. Generating Unique Values for Test Data in MySQL](https://hackernoon.com/generating-unique-values-for-test-data-in-mysql)
 ![](https://cdn.hackernoon.com/images/ZFT8ypYqRcQGo0NU17QYMPRU2zK2-s993p97.jpeg)
 Generating unique values for test data in MySQL
 
-### [73. SQL Data Modification Commands With Examples: A Quick and Simple Guide](https://hackernoon.com/sql-data-modification-commands-with-examples-a-quick-and-simple-guide)
+### [72. SQL Data Modification Commands With Examples: A Quick and Simple Guide](https://hackernoon.com/sql-data-modification-commands-with-examples-a-quick-and-simple-guide)
 ![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-mz03cdp.png)
 In this article, we’ll explore these commands with practical examples.
 
-### [74. Postgres and MySQL: Performance Comparisson](https://hackernoon.com/postgres-and-mysql-performance-comparisson-qs3s35g1)
+### [73. Postgres and MySQL: Performance Comparisson](https://hackernoon.com/postgres-and-mysql-performance-comparisson-qs3s35g1)
 ![](https://cdn.hackernoon.com/images/87TektCts2aPzLfLjzdBJnicMFK2-xw1f33ea.jpeg)
 What workload analysis and running queries can teach us about the performance differences in JSON, indexing, and concurrency.
 
-### [75. Maximize Cybersecurity with Multiple Databases](https://hackernoon.com/maximize-cybersecurity-with-multiple-databases)
+### [74. Maximize Cybersecurity with Multiple Databases](https://hackernoon.com/maximize-cybersecurity-with-multiple-databases)
 ![](https://cdn.hackernoon.com/images/AiJJJ2MaO0dN7KCZ73EaYbtGSvk1-nh93p4j.jpeg)
 If securing your company’s intellectual property is such a complex process, how can business leaders efficiently defend their assets? Use multiple databases.
 
 
-### [76. How to Master SQL Joins - Inner, Outer, Cross, and Self-Joins With Examples](https://hackernoon.com/how-to-master-sql-joins-inner-outer-cross-and-self-joins-with-examples)
+### [75. How to Master SQL Joins - Inner, Outer, Cross, and Self-Joins With Examples](https://hackernoon.com/how-to-master-sql-joins-inner-outer-cross-and-self-joins-with-examples)
 ![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-h803enw.png)
 In this article, we’ll explore various SQL join types with clear explanations and practical examples.
 
-### [77. Spring Boot on Choreo: Connecting a Database](https://hackernoon.com/spring-boot-on-choreo-connecting-a-database)
+### [76. Spring Boot on Choreo: Connecting a Database](https://hackernoon.com/spring-boot-on-choreo-connecting-a-database)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-6c83m2a.png)
 Learn to configure a robust database in a Spring Boot app on Choreo, from development to deployment, ensuring a seamless and secure transition.
 
-### [78. Integrating Manticore Search with Apache Superset ](https://hackernoon.com/integrating-manticore-search-with-apache-superset)
+### [77. Integrating Manticore Search with Apache Superset ](https://hackernoon.com/integrating-manticore-search-with-apache-superset)
 ![](https://cdn.hackernoon.com/images/2yEHZMN6JeQSAmOaVn8T8TtsI7E3-zrb4wju.jpeg)
 In this article, we’ll provide a step-by-step tutorial that will guide you through connecting Manticore to Apache Superset and adding a chart.
 
-### [79. SaaS Database Migration To Heroku Postgres](https://hackernoon.com/saas-database-migration-to-heroku-postgres-wan34k6)
+### [78. SaaS Database Migration To Heroku Postgres](https://hackernoon.com/saas-database-migration-to-heroku-postgres-wan34k6)
 ![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-tve34i6.jpeg)
 The next step in my fitness application journey is to migrate to Heroku Postgres. Check out how easy this turned out to be too.
 
-### [80. Auto-Synchronization of an Entire MySQL Database for Data Analysis](https://hackernoon.com/auto-synchronization-of-an-entire-mysql-database-for-data-analysis)
-![](https://cdn.hackernoon.com/images/oNIroQpI1FZj2l5g1MSUvunDFzu2-1xd370b.png)
-Flink-Doris-Connector 1.4.0 allows users to ingest a whole database containing thousands of tables into Apache Doris, a real-time analytic database, in one step
+### [79. Synchronizing Data from MySQL to PostgreSQL Using Apache SeaTunnel](https://hackernoon.com/synchronizing-data-from-mysql-to-postgresql-using-apache-seatunnel)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-n4036jl.jpeg)
+A step-by-step walkthrough of building a real-time data pipeline to merge and synchronize MySQL data sources using Apache SeaTunnel.
 
-### [81. A Basic Guide to MySQL Tests Automation](https://hackernoon.com/a-basic-guide-to-mysql-tests-automation)
+### [80. A Basic Guide to MySQL Tests Automation](https://hackernoon.com/a-basic-guide-to-mysql-tests-automation)
 ![](https://cdn.hackernoon.com/images/ZFT8ypYqRcQGo0NU17QYMPRU2zK2-udb3p3u.jpeg)
 We created a script that can be automatically run on certain kinds of events, as well as interpret its results, basing the automation execution logic on them.
+
+### [81. Auto-Synchronization of an Entire MySQL Database for Data Analysis](https://hackernoon.com/auto-synchronization-of-an-entire-mysql-database-for-data-analysis)
+![](https://cdn.hackernoon.com/images/oNIroQpI1FZj2l5g1MSUvunDFzu2-1xd370b.png)
+Flink-Doris-Connector 1.4.0 allows users to ingest a whole database containing thousands of tables into Apache Doris, a real-time analytic database, in one step
 
 ### [82. Jwenky: An Express API Server with User Authentication](https://hackernoon.com/jwenky-an-express-api-server-with-user-authentication-ei283u1t)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fk4xviiCgvdNvYLiQpYos3Pe5rHR2-kiu3up9.jpeg?alt=media&token=5891a108-4a3d-4cc9-9714-b2b128b06aa7)
@@ -346,34 +350,34 @@ Instantly generate secure, responsive PHP admin panels from your MySQL database.
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-n5b2atm.jpeg)
 etcd is an excellent key-value distributed database used internally by Kubernetes and managed by the CNCF.
 
-### [87. Unveiling a MySQL Bug: Inconsistent Foreign Key Constraints](https://hackernoon.com/unveiling-a-mysql-bug-inconsistent-foreign-key-constraints)
+### [87. Investigating the "Bus Factor" Risk in MongoDB, MariaDB, and More ](https://hackernoon.com/investigating-the-bus-factor-risk-in-mongodb-mariadb-and-more)
+![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-2p83q8q.png)
+Ever wonder what would happen to an open source database project in case its main developers “got hit by a bus”?
+
+### [88. Unveiling a MySQL Bug: Inconsistent Foreign Key Constraints](https://hackernoon.com/unveiling-a-mysql-bug-inconsistent-foreign-key-constraints)
 ![](https://cdn.hackernoon.com/images/n3kl2GbTdNeZW4LWuQI0srwMqsG2-4y93pq8.jpeg)
 In this article, I want to share an interesting bug that I stumbled upon in MySQL.
 
-### [88. IKODIX Helps to Create Admin Panel Fullstack Apps for Your Databases](https://hackernoon.com/ikodix-helps-to-create-admin-panel-fullstack-apps-for-your-databases)
-![](https://cdn.hackernoon.com/images/y9OVFPjdpVUENC2T7pL1sZSvNIY2-mk2eg35ws.jpeg)
-IKODIX is an online code generator for admin panel full-stack applications for any relational database. 
-
-### [89. I Tried Every Open Source Database and Found Only One That is Actually Useful](https://hackernoon.com/i-tried-every-open-source-database-and-found-only-one-that-is-actually-useful)
-![](https://cdn.hackernoon.com/images/n46TzZ1AaqbEkZzpTB21rYVJHNG3-cd03aig.png)
-Let's walk through this journey. My journey. Maybe it helps someone else avoid the same database-induced headache.
-
-### [90. The HackerNoon Newsletter: AI Is Not Being Adopted. It Is Being Installed. (3/9/2026)](https://hackernoon.com/3-9-2026-newsletter)
+### [89. The HackerNoon Newsletter: AI Is Not Being Adopted. It Is Being Installed. (3/9/2026)](https://hackernoon.com/3-9-2026-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_205_bm6l5wdvc7ga43fyyzqth97l.png)
 3/9/2026: Top 5 stories on the HackerNoon homepage!
 
-### [91. Manticore Search Now Integrates With Grafana](https://hackernoon.com/manticore-search-now-integrates-with-grafana)
+### [90. IKODIX Helps to Create Admin Panel Fullstack Apps for Your Databases](https://hackernoon.com/ikodix-helps-to-create-admin-panel-fullstack-apps-for-your-databases)
+![](https://cdn.hackernoon.com/images/y9OVFPjdpVUENC2T7pL1sZSvNIY2-mk2eg35ws.jpeg)
+IKODIX is an online code generator for admin panel full-stack applications for any relational database. 
+
+### [91. I Tried Every Open Source Database and Found Only One That is Actually Useful](https://hackernoon.com/i-tried-every-open-source-database-and-found-only-one-that-is-actually-useful)
+![](https://cdn.hackernoon.com/images/n46TzZ1AaqbEkZzpTB21rYVJHNG3-cd03aig.png)
+Let's walk through this journey. My journey. Maybe it helps someone else avoid the same database-induced headache.
+
+### [92. Manticore Search Now Integrates With Grafana](https://hackernoon.com/manticore-search-now-integrates-with-grafana)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-pr92euu.jpeg)
 We are excited to announce that Manticore Search starting from 6.2.0 integrates effortlessly with Grafana.
 
-### [92. MySQL FAQs](https://hackernoon.com/mysql-faqs-aw123tab)
+### [93. MySQL FAQs](https://hackernoon.com/mysql-faqs-aw123tab)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-bii3tgz.jpeg?alt=media&token=7f6e7e58-1be0-4992-897b-dd89ed5721f0)
 MySQL is an open-source relational database management system. As the
 name suggests, it is used to create, update, and store databases. It is based on SQL (Structured Query Language). So, today we will be checking out the 13 most asked questions on MySQL.
-
-### [93. Investigating the "Bus Factor" Risk in MongoDB, MariaDB, and More ](https://hackernoon.com/investigating-the-bus-factor-risk-in-mongodb-mariadb-and-more)
-![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-2p83q8q.png)
-Ever wonder what would happen to an open source database project in case its main developers “got hit by a bus”?
 
 ### [94. MySQL Errors Messages And Common Problems](https://hackernoon.com/mysql-errors-messages-and-common-problems-lm2631yv)
 ![](https://cdn.hackernoon.com/images/Grgs8fW6Q5WxmhfWelUFe1Tf4vo2-ya2j3eju.jpeg)
@@ -387,37 +391,37 @@ In this article, we’ll explore these commands with practical examples.
 ![](https://cdn.hackernoon.com/images/Nppoj6VaOWRfwXBV5J5gk28cCGp2-nrf3mow.jpeg)
 First introduced as part of the SQ:2003 Standard and available in MySQL 8.0, window functions in MySQL are compelling, but the syntax can be difficult to grok.
 
-### [97. MySQL Single Leader Replication with Node.js and Docker  ](https://hackernoon.com/mysql-single-leader-replication-with-nodejs-and-docker)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ax0209m.jpeg)
-How to set up MySQL single-leader replication on your local machine using Docker. 
-
-### [98. Your App Is Slow Because You Don’t Know What a Primary Key Is](https://hackernoon.com/your-app-is-slow-because-you-dont-know-what-a-primary-key-is)
+### [97. Your App Is Slow Because You Don’t Know What a Primary Key Is](https://hackernoon.com/your-app-is-slow-because-you-dont-know-what-a-primary-key-is)
 ![](https://cdn.hackernoon.com/images/XIlys8PrM8eJ7n0qjETjuC0lbkB2-1s234l7.png)
 Primary key design is not just a technical detail — it's a make-or-break factor for database performance, especially at scale.
 
-### [99. Step-by-Step Guide: Free Real-Time MySQL to Oracle Sync with SeaTunnel](https://hackernoon.com/step-by-step-guide-free-real-time-mysql-to-oracle-sync-with-seatunnel)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-fa0201n.jpeg)
-When it comes to tools for syncing MySQL to Oracle, besides the traditional OGG, SeaTunnel should definitely be on the list—it’s simply too convenient to use.
+### [98. MySQL Single Leader Replication with Node.js and Docker  ](https://hackernoon.com/mysql-single-leader-replication-with-nodejs-and-docker)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ax0209m.jpeg)
+How to set up MySQL single-leader replication on your local machine using Docker. 
 
-### [100. SQL Recursive Queries - How to Understand Common Table Expressions (CTEs)](https://hackernoon.com/sql-recursive-queries-how-to-understand-common-table-expressions-ctes)
-![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-gs03e2d.png)
-This article introduces the WITH clause and demonstrates how recursive CTEs can simplify these operations.
-
-### [101. Why Your SeaTunnel CDC Job Hangs at Snapshot Phase (And How to Fix It)](https://hackernoon.com/why-your-seatunnel-cdc-job-hangs-at-snapshot-phase-and-how-to-fix-it)
+### [99. Why Your SeaTunnel CDC Job Hangs at Snapshot Phase (And How to Fix It)](https://hackernoon.com/why-your-seatunnel-cdc-job-hangs-at-snapshot-phase-and-how-to-fix-it)
 ![](https://cdn.hackernoon.com/images/GQtxSqyLbmdhnAkgEuIOHc3Vmm83-za038xm.png)
 We encountered an abnormal issue when syncing a particular MySQL table.
+
+### [100. The Secret to Faster JSON Queries in MySQL: Generated Columns](https://hackernoon.com/the-secret-to-faster-json-queries-in-mysql-generated-columns)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-b30203s.png)
+Migration script to make use of stored generated columns in MYSQL. 
+
+### [101. Step-by-Step Guide: Free Real-Time MySQL to Oracle Sync with SeaTunnel](https://hackernoon.com/step-by-step-guide-free-real-time-mysql-to-oracle-sync-with-seatunnel)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-fa0201n.jpeg)
+When it comes to tools for syncing MySQL to Oracle, besides the traditional OGG, SeaTunnel should definitely be on the list—it’s simply too convenient to use.
 
 ### [102. The Noonification: Using Git Hooks with MySQL (9/30/2023)](https://hackernoon.com/9-30-2023-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_794_b0azz8plg43xikc769ffhi7p.png)
 9/30/2023: Top 5 stories on the Hackernoon homepage!
 
-### [103. How to Simplify Data Flow By Multi-Table Synchronization With Apache SeaTunnel](https://hackernoon.com/how-to-simplify-data-flow-by-multi-table-synchronization-with-apache-seatunnel)
+### [103. SQL Recursive Queries - How to Understand Common Table Expressions (CTEs)](https://hackernoon.com/sql-recursive-queries-how-to-understand-common-table-expressions-ctes)
+![](https://cdn.hackernoon.com/images/xckvxyvNs3ej2QPeVNul88CL5jv1-gs03e2d.png)
+This article introduces the WITH clause and demonstrates how recursive CTEs can simplify these operations.
+
+### [104. How to Simplify Data Flow By Multi-Table Synchronization With Apache SeaTunnel](https://hackernoon.com/how-to-simplify-data-flow-by-multi-table-synchronization-with-apache-seatunnel)
 ![](https://cdn.hackernoon.com/images/GQtxSqyLbmdhnAkgEuIOHc3Vmm83-no836wi.png)
 Apache SeaTunnel multi-table synchronization technology is efficient, real-time, reliable, and flexible, and plays an important role in enterprise  data sync.
-
-### [104. The Secret to Faster JSON Queries in MySQL: Generated Columns](https://hackernoon.com/the-secret-to-faster-json-queries-in-mysql-generated-columns)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-b30203s.png)
-Migration script to make use of stored generated columns in MYSQL. 
 
 ### [105. Packages for Store Routines in MariaDB 11.4: What You Need to Know](https://hackernoon.com/packages-for-store-routines-in-mariadb-114-what-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-fq830ry.jpeg)
@@ -427,13 +431,13 @@ MariaDB 11.4 introduced support for packages for stored routines. Packages allow
 ![](https://cdn.hackernoon.com/images/e7iBXZbaqVX9FIYvQjUM5HzIB7A3-jd12621.png)
 A step-by-step guide to migrating a production MySQL database to Vitess using MoveTables, VReplication, and traffic switching with minimal downtime. 
 
-### [107. Are MySQL replications as smooth as you think they are?](https://hackernoon.com/are-mysql-replications-as-smooth-as-you-think-they-are-3v2337zo)
-![](https://cdn.hackernoon.com/images/BXZKrZJ52TYblw95jd0y2qErCY13-jrd735i8.jpeg)
-What are you actually missing out on in MySQL replication? It appears easy, but to debug the problem caused by it takes a lot of time. So, here's your answer.
-
-### [108. 3 Ways to Seamlessly Integrate Databend with SeaTunnel for Streaming ETL](https://hackernoon.com/3-ways-to-seamlessly-integrate-databend-with-seatunnel-for-streaming-etl)
+### [107. 3 Ways to Seamlessly Integrate Databend with SeaTunnel for Streaming ETL](https://hackernoon.com/3-ways-to-seamlessly-integrate-databend-with-seatunnel-for-streaming-etl)
 ![](https://cdn.hackernoon.com/images/GQtxSqyLbmdhnAkgEuIOHc3Vmm83-b9038pv.jpeg)
 Learn three practical methods to integrate Databend with SeaTunnel for scalable, real-time ETL.
+
+### [108. Are MySQL replications as smooth as you think they are?](https://hackernoon.com/are-mysql-replications-as-smooth-as-you-think-they-are-3v2337zo)
+![](https://cdn.hackernoon.com/images/BXZKrZJ52TYblw95jd0y2qErCY13-jrd735i8.jpeg)
+What are you actually missing out on in MySQL replication? It appears easy, but to debug the problem caused by it takes a lot of time. So, here's your answer.
 
 ### [109. Sync MySQL Data to S3 in Just 3 Steps Using Apache SeaTunnel](https://hackernoon.com/sync-mysql-data-to-s3-in-just-3-steps-using-apache-seatunnel)
 ![](https://cdn.hackernoon.com/images/1xYF9Q2MEDQRYXBY7nlDViaH7ED3-vx03ahf.png)

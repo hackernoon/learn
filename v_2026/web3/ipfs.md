@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [ipfs](https://hackernoon.com/tagged/ipfs)
+### Let's learn about [Ipfs](https://hackernoon.com/tagged/ipfs) via these 57 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+IPFS (InterPlanetary File System) is a peer-to-peer network protocol designed to create a persistent, decentralized method of storing and sharing hypermedia. It aims to make the web more robust, efficient, and censorship-resistant by distributing content globally.
+
 ### [1. The Long Now of the Web: Inside the Internet Archive’s Fight Against Forgetting](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)
 ![](https://cdn.hackernoon.com/images/bI3BzyBanbVxEZqmLV7jRnw6d9o2-yn0373q.png)
 A deep dive into the Internet Archive's custom tech stack.
@@ -117,13 +121,13 @@ As Filecoin gears up for launch, miners across the globe have been participating
 ![](https://cdn.hackernoon.com/images/cD9TuOuKMcVjf0I2IfyrAGUaV1s2-4wb3ywk.png)
 Learn how to integrate a photo booth to IPFS and make your selfie go interplanetary with web3.storage.
 
-### [30. How I Built a Complete P2P RSS Podcast App in a Single HTML File](https://hackernoon.com/how-i-built-a-complete-p2p-rss-podcast-app-in-a-single-html-file-uo1631z1)
-![](https://cdn.hackernoon.com/images/FlRGjciVp3fbWDvvOGdVFcuFTef2-sua2bbr.jpeg)
-How I built a personal paper-like decentralized podcast RSS aggregator.
-
-### [31. Ethereum's Rising Gas Fee Hurts DeFi and the Ethereum Ecosystem Itself - Kiran Pachhai of Elastos](https://hackernoon.com/ethereums-rising-gas-fee-hurts-defi-and-the-ethereum-ecosystem-itself-kiran-pachhai-of-elastos-qn3s3weo)
+### [30. Ethereum's Rising Gas Fee Hurts DeFi and the Ethereum Ecosystem Itself - Kiran Pachhai of Elastos](https://hackernoon.com/ethereums-rising-gas-fee-hurts-defi-and-the-ethereum-ecosystem-itself-kiran-pachhai-of-elastos-qn3s3weo)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F7rEmNIeHNFOBfZZtUMQerOZIGGH3-9u7r3w8r.jpeg?alt=media&token=d50b4c3f-01b2-42a6-afd0-7d384bb06a40)
 There is no question that there has been considerable progress and development in the DeFi ecosystem. Still, it is prudent for investors to steer clear at least at the moment as transaction fees guzzle the entire ecosystem.
+
+### [31. How I Built a Complete P2P RSS Podcast App in a Single HTML File](https://hackernoon.com/how-i-built-a-complete-p2p-rss-podcast-app-in-a-single-html-file-uo1631z1)
+![](https://cdn.hackernoon.com/images/FlRGjciVp3fbWDvvOGdVFcuFTef2-sua2bbr.jpeg)
+How I built a personal paper-like decentralized podcast RSS aggregator.
 
 ### [32. What Git Could Look Like in Web 3.0](https://hackernoon.com/what-would-git-could-look-like-in-web-30-xdt3wdx)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxYGjom6yiYQPQ4VqYy1aZLGllOP2-nv963ubv.jpeg?alt=media&token=8434d798-6b7c-455e-8d2b-c6433b827c9e)
@@ -149,13 +153,13 @@ During the weekend of 19.-21.7. Paralelni Polis in Prague hosted its first hacka
 ![](https://cdn.hackernoon.com/images/5ukB3BAlCWS2eAsd6FYVZcgPbzH2-hk93li8.jpeg)
 How to deploy a Decentralized Application on 4EVERLAND
 
-### [38. The Client Server Model: Breaking Free with IPFS](https://hackernoon.com/the-client-server-model-breaking-free-with-ipfs)
-![](https://cdn.hackernoon.com/images/p2bjrnI8abQkKMSgRU5JrlI5HD12-seq3hjo.jpeg)
-This is a condensed version of this post on the Client-Server Model. We use a client, such as a web-browser or chat app, and communicate with a single entity.
-
-### [39. How we Saved A Learned Cat: Interview with Sasha Ivanova, CEO and Founder of SharpShark](https://hackernoon.com/how-we-saved-a-learned-cat-interview-with-sasha-ivanova-ceo-and-founder-of-sharpshark)
+### [38. How we Saved A Learned Cat: Interview with Sasha Ivanova, CEO and Founder of SharpShark](https://hackernoon.com/how-we-saved-a-learned-cat-interview-with-sasha-ivanova-ceo-and-founder-of-sharpshark)
 ![](https://cdn.hackernoon.com/images/Kr6a1KoRKQhb9ACsjPJxEOh1WTK2-ua93jli.jpeg)
 "A Learned Cat" from one side is a painting made by a 9-year-old girl, but from another side it’s the unique digital asset existing only in Blockchain 
+
+### [39. The Client Server Model: Breaking Free with IPFS](https://hackernoon.com/the-client-server-model-breaking-free-with-ipfs)
+![](https://cdn.hackernoon.com/images/p2bjrnI8abQkKMSgRU5JrlI5HD12-seq3hjo.jpeg)
+This is a condensed version of this post on the Client-Server Model. We use a client, such as a web-browser or chat app, and communicate with a single entity.
 
 ### [40. My Data! My Rules! How True is That?](https://hackernoon.com/my-data-my-rules-b31qa3zfw)
 ![](https://cdn.hackernoon.com/images/3ea0a3z78.jpg)
@@ -205,24 +209,28 @@ Data security presents a major challenge of Edge/Fog computing growth. Learn how
 ![](https://cdn.hackernoon.com/images/ya113ytm.jpg)
 In the past few months we have been getting this question a lot:
 
-### [52. Filebase: Building Web3 with Web3](https://hackernoon.com/filebase-building-web3-with-web3)
+### [52. Doxreporter Brings Blockchain Storage to Cyber Incident Reporting](https://hackernoon.com/doxreporter-brings-blockchain-storage-to-cyber-incident-reporting)
+![](https://cdn.hackernoon.com/images/YvjkXI2EJ4gZ25lgLTJ0hfWehHX2-mo03e0z.png)
+Doxreporter earns a 26.48 Proof of Usefulness score, using blockchain and IPFS to create tamper-proof cyber incident reports for enterprises.
+
+### [53. Filebase: Building Web3 with Web3](https://hackernoon.com/filebase-building-web3-with-web3)
 ![](https://cdn.hackernoon.com/images/NWoIE4MlIihB5opmnjOZdCK4TbX2-31a3oqy.png)
 Filebase is excited to share that it now supports IPFS backed by decentralized storage (Sia) - Experience more broken links, outages, or NFT's.
 
-### [53. 55 Stories To Learn About Ipfs](https://hackernoon.com/55-stories-to-learn-about-ipfs)
+### [54. 55 Stories To Learn About Ipfs](https://hackernoon.com/55-stories-to-learn-about-ipfs)
 ![](https://cdn.hackernoon.com/images/github/ipfs-108.png)
 Learn everything you need to know about Ipfs via these 55 free HackerNoon stories.
 
-### [54. RIF Pinning Introduction: A Decentralized Marketplace
+### [55. RIF Pinning Introduction: A Decentralized Marketplace
 For Decentralized Services](https://hackernoon.com/rif-pinning-introduction-a-decentralized-marketplace-for-decentralized-services-na2a35vu)
 ![](https://hackernoon.com/images/OEJLvRpmncgi6zFQlTKNtEx3hyr1-2g4h37xn.jpeg)
 The Decentralized Storage Marketplace is now available from RIF! marketplace.rifos.org/storage
 
-### [55. AvionDB Introduction: A MongoDB-like Distributed Database](https://hackernoon.com/aviondb-introduction-a-mongodb-like-distributed-database-10463v3x)
+### [56. AvionDB Introduction: A MongoDB-like Distributed Database](https://hackernoon.com/aviondb-introduction-a-mongodb-like-distributed-database-10463v3x)
 ![](https://cdn.hackernoon.com/images/uw1c26on.jpg)
 In the past few months we have been getting this question a lot:
 
-### [56. [Announcement] Join Us For Filecoin Master Classes](https://hackernoon.com/announcement-join-us-for-filecoin-master-classes-2l183w9q)
+### [57. [Announcement] Join Us For Filecoin Master Classes](https://hackernoon.com/announcement-join-us-for-filecoin-master-classes-2l183w9q)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQxomoHKSjSVcht6y9ay8Ry5sPQc2-i2h3ukv.jpeg?alt=media&token=09b05248-51a3-4864-bd8e-fa3a8879389d)
 Filecoin is a decentralized storage network, powered by cryptocurrency, designed to store humanity’s most important information. It aims to solve a fundamental problem with today’s web: how to safeguard huge troves of data, whether it’s scientific data sets, priceless works of art, essential historical records, and so much more. Filecoin is a project of Protocol Labs, an open-source research, development, and deployment laboratory.
 

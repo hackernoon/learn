@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [object-oriented-programming](https://hackernoon.com/tagged/object-oriented-programming)
+### Let's learn about [Object Oriented Programming](https://hackernoon.com/tagged/object-oriented-programming) via these 58 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Object-Oriented Programming (OOP) is a programming paradigm based on the concept of "objects," which can contain data and code. It matters for developing modular, reusable, and scalable software systems, simplifying complex application design and maintenance.
+
 ### [1. Asynchronous Initialization in C#: Overcoming Constructor Limitations](https://hackernoon.com/asynchronous-initialization-in-c-overcoming-constructor-limitations)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ju83m01.jpeg)
 Solutions to enable asynchronous initialization in C# constructors, overcoming limitations for efficient code execution.
@@ -53,13 +57,13 @@ How abstract is too abstract?
 ![](https://cdn.hackernoon.com/images/oIZ6zbypp5XdOfvNWimTAhHLpGC2-xb934qh.jpeg)
 The Alias pattern minds two issues. Extending how a final class builds its objects.
 
-### [14. Playwright on Steroids: Overcoming Limits With Object-Oriented Programming](https://hackernoon.com/playwright-on-steroids-overcoming-limits-with-object-oriented-programming)
-![](https://cdn.hackernoon.com/images/oIZ6zbypp5XdOfvNWimTAhHLpGC2-2a93cck.jpeg)
-Playwright is not thread-safe. This limit, from performance standpoint, is bad. But we can overcome it with object-oriented programming.
-
-### [15. Object-Oriented Programming Explained in 5 Levels of Difficulty](https://hackernoon.com/object-oriented-programming-explained-in-5-levels-of-difficulty)
+### [14. Object-Oriented Programming Explained in 5 Levels of Difficulty](https://hackernoon.com/object-oriented-programming-explained-in-5-levels-of-difficulty)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-6w928c5.gif.webp)
 I will explain Object-Oriented Programming (OOP) on Five Levels (a child, a teen, a college student, a grad student, and an expert).
+
+### [15. Playwright on Steroids: Overcoming Limits With Object-Oriented Programming](https://hackernoon.com/playwright-on-steroids-overcoming-limits-with-object-oriented-programming)
+![](https://cdn.hackernoon.com/images/oIZ6zbypp5XdOfvNWimTAhHLpGC2-2a93cck.jpeg)
+Playwright is not thread-safe. This limit, from performance standpoint, is bad. But we can overcome it with object-oriented programming.
 
 ### [16. 3 Simple Rules to Writing Better Code Instantly ](https://hackernoon.com/3-simple-rules-to-writing-better-code-instantly)
 ![](https://cdn.hackernoon.com/images/RjUrvl9wZ1XVFzAv6k3mEYbcvzD3-b8932n7.jpeg)
@@ -77,13 +81,13 @@ Dependency injection (DI) is a wonderful thing. Simply add your dependency as a 
 ![](https://cdn.hackernoon.com/images/f8ChYF2U4MRmYNmy61YoItMITZl2-zrj3oak.jpeg)
 Interface is mostly viewed as a useful feature to write more maintainable code. But the concept of Interface developed to address a different issue with C++.
 
-### [20. How to Find the Stinky Parts of Your Code [Part XVII]](https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-xvii)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-hpb3jkt.jpeg)
-It smells because there are likely many instances where it could be edited or improved.
-
-### [21. Implementing Descriptors in Your Python Code ](https://hackernoon.com/implementing-descriptors-in-your-python-code)
+### [20. Implementing Descriptors in Your Python Code ](https://hackernoon.com/implementing-descriptors-in-your-python-code)
 ![](https://cdn.hackernoon.com/images/ql5j5TZB0tU1vWA4EaF6tI4lfED3-pf93kfy.jpeg)
 Descriptors are one of the features that make Python's OOP so unique. They allow for powerful customization of attribute access and manipulation.
+
+### [21. How to Find the Stinky Parts of Your Code [Part XVII]](https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-xvii)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-hpb3jkt.jpeg)
+It smells because there are likely many instances where it could be edited or improved.
 
 ### [22. Does Golang Follow the Object Oriented Programming Paradigm?](https://hackernoon.com/is-golang-object-oriented)
 ![](https://cdn.hackernoon.com/images/LDruOynCeFhvHi3906Wfi1uzXy03-dv92o8x.jpeg)
@@ -117,21 +121,21 @@ Whether you're a beginner programmer or an experienced developer, understanding 
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-ho12l07.jpeg)
 OOP, inheritance, and subtyping may have specific meanings that don't translate into other languages, depending on the first language you learn.
 
-### [30. Java: The Object Equality Problem](https://hackernoon.com/java-the-object-equality-problem-mmv3wj9)
-![](https://cdn.hackernoon.com/images/oIZ6zbypp5XdOfvNWimTAhHLpGC2-d0528ey.jpeg)
-I was writing some Java test code when I faced up the voracity of the equals method. It presents, despite its ostensible simplicity, a tricky problem.
-
-### [31. Researchers Revisit Codata, Dependent Types, and the Limits of the Expression Problem](https://hackernoon.com/researchers-revisit-codata-dependent-types-and-the-limits-of-the-expression-problem)
+### [30. Researchers Revisit Codata, Dependent Types, and the Limits of the Expression Problem](https://hackernoon.com/researchers-revisit-codata-dependent-types-and-the-limits-of-the-expression-problem)
 ![](https://cdn.hackernoon.com/images/code-on-a-laptop-screen-a68ky6k8rs0a5vzc2cwjpuj0.png)
 A deep dive into codata, dependent types, and defunctionalization—reframing the expression problem through data–codata duality. 
 
-### [32. How a 50-Year-Old Programming Model Became Essential for Modern Tech](https://hackernoon.com/how-a-50-year-old-programming-model-became-essential-for-modern-tech)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-mb02sy9.jpeg)
-The Actor Model was created in 1973. It's designed for high concurrency, scalability and fault tolerance.
-
-### [33. Deriving Dependently-Typed OOP from First Principles](https://hackernoon.com/deriving-dependently-typed-oop-from-first-principles)
+### [31. Deriving Dependently-Typed OOP from First Principles](https://hackernoon.com/deriving-dependently-typed-oop-from-first-principles)
 ![](https://cdn.hackernoon.com/images/code-on-a-laptop-screen-xzvfm6orwvykmmil1xldzeb4.png)
 A new calculus unifies functional and object-oriented paradigms in dependently typed languages using duality and defunctionalization.
+
+### [32. Java: The Object Equality Problem](https://hackernoon.com/java-the-object-equality-problem-mmv3wj9)
+![](https://cdn.hackernoon.com/images/oIZ6zbypp5XdOfvNWimTAhHLpGC2-d0528ey.jpeg)
+I was writing some Java test code when I faced up the voracity of the equals method. It presents, despite its ostensible simplicity, a tricky problem.
+
+### [33. How a 50-Year-Old Programming Model Became Essential for Modern Tech](https://hackernoon.com/how-a-50-year-old-programming-model-became-essential-for-modern-tech)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-mb02sy9.jpeg)
+The Actor Model was created in 1973. It's designed for high concurrency, scalability and fault tolerance.
 
 ### [34. Objects & Pursuit of Happiness: Understanding Object Oriented Programming (OOP)](https://hackernoon.com/objects-and-pursuit-of-happiness-understanding-object-oriented-programming-oop)
 ![](https://cdn.hackernoon.com/images/oIZ6zbypp5XdOfvNWimTAhHLpGC2-iu33s8b.jpeg)
@@ -149,87 +153,87 @@ Game abilities are built from reusable checks (mana, cooldown, etc.) linked in a
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-bo0375y.jpeg)
 Warning: Setters Considered Smelly
 
-### [38. Object-oriented Programming by Example](https://hackernoon.com/object-oriented-programming-by-example)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9k82pj7.jpeg)
-Object-oriented programming (OOP) is a programming model that organizes software around objects(data) and object manipulation. 
-
-### [39. Aspect Oriented Programming Matters More Than You Think](https://hackernoon.com/aspect-oriented-programming-matters-more-than-you-think)
+### [38. Aspect Oriented Programming Matters More Than You Think](https://hackernoon.com/aspect-oriented-programming-matters-more-than-you-think)
 ![](https://cdn.hackernoon.com/images/x95vR82RuKhcswrBRspp0PoJ8M22-14034m7.png)
 AOP is useful in tackling cross cutting concerns which are fully incorporated in the development of an application but cannot be attributed to a specific class.
+
+### [39. Object-oriented Programming by Example](https://hackernoon.com/object-oriented-programming-by-example)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9k82pj7.jpeg)
+Object-oriented programming (OOP) is a programming model that organizes software around objects(data) and object manipulation. 
 
 ### [40. Object Design Checklist: An Index on Software Design Articles](https://hackernoon.com/object-design-checklist-an-index-on-software-design-articles)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-vn034sc.jpeg)
 Important concepts about Object-Oriented Programming
 
-### [41. A Formal Core for Dependent Data and Codata with Type Soundness Guarantees](https://hackernoon.com/a-formal-core-for-dependent-data-and-codata-with-type-soundness-guarantees)
+### [41. Why Judgmental Equality Fails Under Defunctionalization](https://hackernoon.com/why-judgmental-equality-fails-under-defunctionalization)
+![](https://cdn.hackernoon.com/images/code-on-a-laptop-screen-k6x1zdr5tpxxc7rrrsy7eknu.png)
+Exploring how defunctionalization breaks judgmental and eta equality—and the naming-based solution that preserves type safety.
+
+### [42. A Formal Core for Dependent Data and Codata with Type Soundness Guarantees](https://hackernoon.com/a-formal-core-for-dependent-data-and-codata-with-type-soundness-guarantees)
 ![](https://cdn.hackernoon.com/images/code-on-a-laptop-screen-e8pzothztxokf7ljufv0mtbw.png)
 A formal core calculus for dependent data and codata with pattern matching, copatterns, call-by-value semantics, and type soundness proofs.
-
-### [42. Understanding Dependency Injection in Object-Oriented Programming](https://hackernoon.com/understanding-dependency-injection-in-object-oriented-programming)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-d002ulp.jpeg)
-Explore how OOP handles dependencies—from constructor injection to Kotlin’s new context parameters—and learn which approach fits your code best.
 
 ### [43. Why Object-Oriented Programming in C++ Matters](https://hackernoon.com/why-object-oriented-programming-in-c-matters)
 ![](https://cdn.hackernoon.com/images/RxIFGDejXQUaj54NhArKLyi3a272-tma32ke.jpeg)
 In this article, I will explain classes, objects, access modifiers, constructors, encapsulation, abstraction, inheritance, and polymorphism in C++.
 
-### [44. Writing Scalable and Maintainable React Code with SOLID Principles](https://hackernoon.com/writing-scalable-and-maintainable-react-code-with-solid-principles)
-![](https://cdn.hackernoon.com/images/code-displayed-on-a-laptop-ilpn2r316ilf6ixi6ymsicir.png)
-Learn how to apply SOLID principles in React to write scalable, maintainable, and reusable components for cleaner and more efficient code.
-
-### [45. 7 Key Concepts to Test Your .NET Skills ](https://hackernoon.com/7-key-concepts-to-test-your-net-skills)
+### [44. 7 Key Concepts to Test Your .NET Skills ](https://hackernoon.com/7-key-concepts-to-test-your-net-skills)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-qy0399h.png)
 Explore essential C# concepts for .NET developers, from IEnumerable vs. ICollection to async/await, Dependency Injection, and exception handling in .NET Core.
 
-### [46. Why Judgmental Equality Fails Under Defunctionalization](https://hackernoon.com/why-judgmental-equality-fails-under-defunctionalization)
-![](https://cdn.hackernoon.com/images/code-on-a-laptop-screen-k6x1zdr5tpxxc7rrrsy7eknu.png)
-Exploring how defunctionalization breaks judgmental and eta equality—and the naming-based solution that preserves type safety.
-
-### [47. 5 Simplified Concepts For Beginners in C#](https://hackernoon.com/5-simplified-concepts-for-beginners-in-c)
-![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-v4834rj.jpeg)
-Considering C# as you get started on your programming journey? This article is focused on C# for beginners, and I've included 5 concepts from C# with code!
-
-### [48. The Proof Expression Problem, Reimagined Through Object-Oriented Lenses](https://hackernoon.com/the-proof-expression-problem-reimagined-through-object-oriented-lenses)
+### [45. The Proof Expression Problem, Reimagined Through Object-Oriented Lenses](https://hackernoon.com/the-proof-expression-problem-reimagined-through-object-oriented-lenses)
 ![](https://cdn.hackernoon.com/images/code-on-a-laptop-screen-k81gr932duqabnjxye70voi7.png)
 A case study showing how dependently typed OOP enables modular web servers, extensible routes, and type-level enforcement of HTTP properties.
 
-### [49. Rethinking OOP Through Dependent Types and Codata](https://hackernoon.com/rethinking-oop-through-dependent-types-and-codata)
+### [46. 5 Simplified Concepts For Beginners in C#](https://hackernoon.com/5-simplified-concepts-for-beginners-in-c)
+![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-v4834rj.jpeg)
+Considering C# as you get started on your programming journey? This article is focused on C# for beginners, and I've included 5 concepts from C# with code!
+
+### [47. Rethinking OOP Through Dependent Types and Codata](https://hackernoon.com/rethinking-oop-through-dependent-types-and-codata)
 ![](https://cdn.hackernoon.com/images/code-on-a-laptop-screen-wxri0gbc7bkwl1mlomdzuys0.png)
 A deep dive into dependently typed object-oriented programming, codata design, self-parameters, and verified interfaces.
 
-### [50. Refactoring 030 - How to Avoid Accidental Redundancy](https://hackernoon.com/refactoring-030-how-to-avoid-accidental-redundancy)
+### [48. Writing Scalable and Maintainable React Code with SOLID Principles](https://hackernoon.com/writing-scalable-and-maintainable-react-code-with-solid-principles)
+![](https://cdn.hackernoon.com/images/code-displayed-on-a-laptop-ilpn2r316ilf6ixi6ymsicir.png)
+Learn how to apply SOLID principles in React to write scalable, maintainable, and reusable components for cleaner and more efficient code.
+
+### [49. Refactoring 030 - How to Avoid Accidental Redundancy](https://hackernoon.com/refactoring-030-how-to-avoid-accidental-redundancy)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-im0393z.jpeg)
 1. Identify methods that receive owned attributes
 2. Remove those parameters from the method signature
 3. Replace usage with direct access to the attribute
 
-### [51. Code Smell 286 - Parent-Child Method Overlaps](https://hackernoon.com/code-smell-286-parent-child-method-overlaps)
+### [50. Code Smell 286 - Parent-Child Method Overlaps](https://hackernoon.com/code-smell-286-parent-child-method-overlaps)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-pf034nv.jpeg)
 Avoid using private methods in parent classes with names that child classes can use.
 
-### [52. Programming Paradigms: All the Things We’ve Learned Not To Do](https://hackernoon.com/programming-paradigms-all-the-things-weve-learned-not-to-do)
+### [51. Programming Paradigms: All the Things We’ve Learned Not To Do](https://hackernoon.com/programming-paradigms-all-the-things-weve-learned-not-to-do)
 ![](https://cdn.hackernoon.com/images/code-displayed-on-a-laptop-ediq4jqqi3s1r50opp74gcbv.png)
 Programming paradigms don't give freedom—they take it away. Here's why Structured, OOP, and Functional might be the last paradigms we ever get.
 
-### [53. Rethinking Data and Codata Through Matrix Transposition](https://hackernoon.com/rethinking-data-and-codata-through-matrix-transposition)
+### [52. Rethinking Data and Codata Through Matrix Transposition](https://hackernoon.com/rethinking-data-and-codata-through-matrix-transposition)
 ![](https://cdn.hackernoon.com/images/code-on-a-laptop-screen-kgzg1zs06czo8axyac81u2fz.png)
 A formal study shows de- and refunctionalization preserve typing and program well-formedness in a dependently typed language.
 
-### [54. Object Creation: The Issues I Faced and the Patterns That Helped Me](https://hackernoon.com/object-creation-the-issues-i-faced-and-the-patterns-that-helped-me)
+### [53. Object Creation: The Issues I Faced and the Patterns That Helped Me](https://hackernoon.com/object-creation-the-issues-i-faced-and-the-patterns-that-helped-me)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-9402uq3.jpeg)
 In this post, I've described two usages of the GoF's creational patterns, improving maintainability and ensuring objects are fully initialized
+
+### [54. Exploring Dart Fundamentals - Part 5: Inheritance and Method Overriding](https://hackernoon.com/exploring-dart-fundamentals-part-5-inheritance-and-method-overriding-in-dart)
+![](https://cdn.hackernoon.com/images/xnExhhWVgGRFDoTG4pYFD7lqIng1-va82vfz.jpeg)
+Learn about inheritance in object-oriented programming and how subclassing and superclassing work.
 
 ### [55. Using Closures to Extend Class Behavior Without Breaking Encapsulation](https://hackernoon.com/using-closures-to-extend-class-behavior-without-breaking-encapsulation)
 ![](https://cdn.hackernoon.com/images/34dOlScYiPW7YjoOmV1RLmvN0Tg2-9103djz.jpeg)
 Avoid bloated interfaces and inverted dependencies. Learn how closures preserve encapsulation and keep your Kotlin codebase clean and stable.
 
-### [56. Exploring Dart Fundamentals - Part 5: Inheritance and Method Overriding](https://hackernoon.com/exploring-dart-fundamentals-part-5-inheritance-and-method-overriding-in-dart)
-![](https://cdn.hackernoon.com/images/xnExhhWVgGRFDoTG4pYFD7lqIng1-va82vfz.jpeg)
-Learn about inheritance in object-oriented programming and how subclassing and superclassing work.
-
-### [57. Laravel's Strategy Pattern: The Manager Under the Hood](https://hackernoon.com/laravels-strategy-pattern-the-manager-under-the-hood)
+### [56. Laravel's Strategy Pattern: The Manager Under the Hood](https://hackernoon.com/laravels-strategy-pattern-the-manager-under-the-hood)
 ![](https://cdn.hackernoon.com/images/yZi53v9tVybsXwdXldRGugWuUiE3-fg923v9.jpeg)
 Have you ever wondered how Laravel switches between different drivers' implementations? Well, hang tight, we will learn how!
+
+### [57. Understanding Dependency Injection in Object-Oriented Programming](https://hackernoon.com/understanding-dependency-injection-in-object-oriented-programming)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-d002ulp.jpeg)
+Explore how OOP handles dependencies—from constructor injection to Kotlin’s new context parameters—and learn which approach fits your code best.
 
 ### [58. How To Simplify Type Conversions with Implicit Operators in C#](https://hackernoon.com/how-to-simplify-type-conversions-with-implicit-operators-in-c)
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-ft834h4.jpeg)

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [api-integration](https://hackernoon.com/tagged/api-integration)
+### Let's learn about [Api Integration](https://hackernoon.com/tagged/api-integration) via these 129 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+API integration is the process of connecting two or more applications using their Application Programming Interfaces, enabling seamless data exchange and functionality sharing. This enhances efficiency and automation by allowing disparate systems to communicate and work together, streamlining business processes.
+
 ### [1. How To Import External Data Into Google Sheets Without Copy/Paste](https://hackernoon.com/3-best-ways-to-import-external-data-into-google-sheets-automatically-bw163yxm)
 ![](https://cdn.hackernoon.com/images/google-sheets-xwme0mu2e3ipzqsvsfhzuie1.png)
 Learn how to save time and eliminate manual data imports in Google Sheets by automatically connecting and importing data from external sources.
@@ -106,17 +110,17 @@ Learn how Plivo is exploring the potential of ChatGPT to help automate text mess
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-z483096.png)
 Don't miss your chance to compete for $1000! Submit your #crypto-api stories by July 18th. Open to anyone 18+ with multiple entries allowed.
 
-### [27. Coze: A Love Story](https://hackernoon.com/coze-a-love-story)
+### [27. APIs for Data Validation: A Developer’s Practical Guide          ](https://hackernoon.com/apis-for-data-validation-a-developers-practical-guide)
+![](https://cdn.hackernoon.com/images/4gOoQaka91ewwYaCgYp050hBTfu1-t803e2i.png)
+Learn how developers use data validation APIs to verify emails, addresses, phone numbers, and identities to improve data quality, security, and app performance.
+
+### [28. Coze: A Love Story](https://hackernoon.com/coze-a-love-story)
 ![](https://cdn.hackernoon.com/images/vt4JtIkes3bEucWHXRB47Tmezll1-iue33mv.png)
 Discover how Coze revolutionized chatbot development with its no-code platform, API integrations, multi-agent bots, and Python SDK for seamless bot building.
 
-### [28. 25 Key REST API Interview Questions and Answers](https://hackernoon.com/25-key-rest-api-interview-questions-and-answers)
+### [29. 25 Key REST API Interview Questions and Answers](https://hackernoon.com/25-key-rest-api-interview-questions-and-answers)
 ![](https://cdn.hackernoon.com/images/KP6aj1dlTAevX30StWL6uaoMGGn2-fx82u6p.png)
 Prepare for your tech job interview with these 25 essential REST API questions that cover both theoretical and practical aspects.
-
-### [29. APIs for Data Validation: A Developer’s Practical Guide          ](https://hackernoon.com/apis-for-data-validation-a-developers-practical-guide)
-![](https://cdn.hackernoon.com/images/4gOoQaka91ewwYaCgYp050hBTfu1-t803e2i.png)
-Learn how developers use data validation APIs to verify emails, addresses, phone numbers, and identities to improve data quality, security, and app performance.
 
 ### [30. GraphQL Doesn't Solve Under & Overfetching](https://hackernoon.com/graphql-doesnt-solve-under-and-overfetching)
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-01a3lim.jpeg)
@@ -126,18 +130,18 @@ When you look at positive articles about GraphQL, you often hear how much bette
 ![](https://cdn.hackernoon.com/images/illustrate-a-disney-like-robot-on-a-messaging-app-clh9c2m68000001s6gpo00gdl.png)
 Organizations are always looking for ways to make their data analysis process more efficient. Here's an open-source Slack bot that does just that. 
 
-### [32. How to Track Email Effectiveness in Mixpanel Analytics w/Latenode.com](https://hackernoon.com/how-to-track-email-effectiveness-in-mixpanel-analytics-wlatenodecom)
+### [32. Stateful API-to-Database Synchronization: Implementing Incremental Data Ingestion from REST APIs wit](https://hackernoon.com/stateful-api-to-database-synchronization-implementing-incremental-data-ingestion-from-rest-apis-wit)
+![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-04036cj.png)
+Stop writing fragile cron scripts. Learn to build stateful, incremental data streams from any REST API using Python and a pull-based CDC model.
+
+### [33. How to Track Email Effectiveness in Mixpanel Analytics w/Latenode.com](https://hackernoon.com/how-to-track-email-effectiveness-in-mixpanel-analytics-wlatenodecom)
 ![](https://cdn.hackernoon.com/images/an-email-icon-on-a-laptop-screen-cles6r9g2000201s60w8y67f1.png)
 Learn how to seamlessly incorporate Mixpanel analytics into your email communication by integrating it with Mailgun using Latenode.com automation platform. 
 
 
-### [33. API Architecture Style: Differences Between REST API and GraphQL](https://hackernoon.com/api-architecture-style-differences-between-rest-api-and-graphql)
+### [34. API Architecture Style: Differences Between REST API and GraphQL](https://hackernoon.com/api-architecture-style-differences-between-rest-api-and-graphql)
 ![](https://cdn.hackernoon.com/images/aBBfgZPPZyb0YobTc0dCp6i6p7V2-ht037ed.jpeg)
 The battle for the best API framework is a never-ending one. I will explain you the difference between two very popular and frequently used API frameworks.
-
-### [34. Stateful API-to-Database Synchronization: Implementing Incremental Data Ingestion from REST APIs wit](https://hackernoon.com/stateful-api-to-database-synchronization-implementing-incremental-data-ingestion-from-rest-apis-wit)
-![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-04036cj.png)
-Stop writing fragile cron scripts. Learn to build stateful, incremental data streams from any REST API using Python and a pull-based CDC model.
 
 ### [35. Amazon API Gateway Vs. Application Load Balancer](https://hackernoon.com/amazon-api-gateway-vs-application-load-balancer-un123ua5)
 ![](https://cdn.hackernoon.com/images/mx4d3war.jpg)
@@ -163,33 +167,33 @@ Create a Zoom meeting URL and join the meeting via your website or your applicat
 ![](https://cdn.hackernoon.com/images/9nN5fWtaPLPHpVPwCMwmOsloNji2-tm935hb.jpeg)
 In the world of REST APIs, webhooks are saviors in knowing when an event has happened.
 
-### [41. How to Build Your own Rick-roll URL Shortener App](https://hackernoon.com/make-a-free-url-shortener)
+### [41. API Contract Drift - An Unsolved CI Problem](https://hackernoon.com/api-contract-drift-an-unsolved-ci-problem)
+![](https://cdn.hackernoon.com/images/a-car-drifting-in-the-highway-action-scene-tqqr6mf6rv77hfu3iyzpxre4.png)
+API contract drift is still poorly governed in CI. This story explores the gaps in schema change policy across OpenAPI, GraphQL, and Protobuf.
+
+### [42. How to Build Your own Rick-roll URL Shortener App](https://hackernoon.com/make-a-free-url-shortener)
 ![](https://cdn.hackernoon.com/images/b6CEcKb3r7fXUh1nxtO76COfXdn1-zd037bs.jpeg)
 Step by step guide on how to make your own url shortener. This wil help you understand how to integrate APIs.
 
-### [42. Converting TEX to PDF Using an API](https://hackernoon.com/converting-tex-to-pdf-using-an-api)
+### [43. Converting TEX to PDF Using an API](https://hackernoon.com/converting-tex-to-pdf-using-an-api)
 ![](https://cdn.hackernoon.com/images/06KNlukh3ZUxBuRpskTZBIwgBJR2-rcc3pye.jpeg)
 This article presents a step-by-step tutorial with which you can convert your LaTeX source file to PDF by calling a JSON to PDF API to generate dynamic PDFs.
 
-### [43. Unlocking the Power of Crypto APIs: Transforming Data Into Insight and Opportunity](https://hackernoon.com/unlocking-the-power-of-crypto-apis-transforming-data-into-insight-and-opportunity)
+### [44. Unlocking the Power of Crypto APIs: Transforming Data Into Insight and Opportunity](https://hackernoon.com/unlocking-the-power-of-crypto-apis-transforming-data-into-insight-and-opportunity)
 ![](https://cdn.hackernoon.com/images/14TrUQaAknSmk2wmjSwmUYqTmiI2-q5b3a2d.jpeg)
 Learn more about crypto APIs and how to easily integrate CoinGecko into your project
 
-### [44. How Much Is API Usage Really Worth?](https://hackernoon.com/how-much-is-api-usage-really-worth)
+### [45. How Much Is API Usage Really Worth?](https://hackernoon.com/how-much-is-api-usage-really-worth)
 ![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-ja93xo2.jpeg)
 Uncover the true value of API usage and its significance in driving business growth and innovation.
-
-### [45. Microservices Integration: A Guide to Simplify Project Complexity with Feign Client and POJO Classes](https://hackernoon.com/microservices-integration-a-guide-to-simplify-project-complexity-with-feign-client-and-pojo-classes)
-![](https://cdn.hackernoon.com/images/m1niFilZlGUYAN3blcOrJ7nMPqh2-mi93yle.jpeg)
-Simplify microservices integration using Feign client & POJO classes. Streamline complex projects effectively.
 
 ### [46. Step by Step Guide on How to Integrate ChangeNOW API](https://hackernoon.com/step-by-step-guide-on-how-to-integrate-changenow-api)
 ![](https://cdn.hackernoon.com/images/tN92BQhoO9hSIj7qCbWP5Te80pF3-xx836g3.jpeg)
 Learn to integrate ChangeNOW's crypto exchange API into your app for seamless trading. Step-by-step guide in Python.
 
-### [47. API Contract Drift - An Unsolved CI Problem](https://hackernoon.com/api-contract-drift-an-unsolved-ci-problem)
-![](https://cdn.hackernoon.com/images/a-car-drifting-in-the-highway-action-scene-tqqr6mf6rv77hfu3iyzpxre4.png)
-API contract drift is still poorly governed in CI. This story explores the gaps in schema change policy across OpenAPI, GraphQL, and Protobuf.
+### [47. Microservices Integration: A Guide to Simplify Project Complexity with Feign Client and POJO Classes](https://hackernoon.com/microservices-integration-a-guide-to-simplify-project-complexity-with-feign-client-and-pojo-classes)
+![](https://cdn.hackernoon.com/images/m1niFilZlGUYAN3blcOrJ7nMPqh2-mi93yle.jpeg)
+Simplify microservices integration using Feign client & POJO classes. Streamline complex projects effectively.
 
 ### [48. Introducing Standard Webhooks: A Game-Changer in Webhook Standardization and Innovation](https://hackernoon.com/introducing-standard-webhooks-a-game-changer-in-webhook-standardization-and-innovation)
 ![](https://cdn.hackernoon.com/images/f8MmnSz4wNTrkyqZnPESxfuXyH93-2983w5p.jpeg)
@@ -204,21 +208,21 @@ Do you wonder if third-party API integrations services are even beneficial for y
 ![](https://cdn.hackernoon.com/images/XEHZ97Onw1XPeXMH5rWYYmaI5tR2-7vi3lhb.jpeg)
 Learn how we finally managed to find what we call swag market fit with our Startup Select cards and the process that we tried doing before that idea struck.
 
-### [51. What is the Genuine Value of APIs](https://hackernoon.com/what-is-the-genuine-value-of-apis)
-![](https://cdn.hackernoon.com/images/b0dJCdCiIve9u5o9RwhrccshHwC2-0qb360c.jpeg)
-Application Program Interfaces-or APIs- are a huge part of the digital world that can even be used in blockchain. This is how it can act as digital glue.
-
-### [52. The Hidden Issues with Low-Code Integration Platforms](https://hackernoon.com/the-hidden-issues-with-low-code-integration-platforms)
+### [51. The Hidden Issues with Low-Code Integration Platforms](https://hackernoon.com/the-hidden-issues-with-low-code-integration-platforms)
 ![](https://cdn.hackernoon.com/images/LQhKryaxQyO0X0RGAGlV30f5syt2-0n234fc.jpeg)
 No-code and low-code integration platforms have many limitations that make them unsuitable for companies that want robust and scalable integrations. 
 
-### [53. Debt APIs & Their Role in Financial Management](https://hackernoon.com/debt-apis-and-their-role-in-financial-management)
-![](https://cdn.hackernoon.com/images/XXnVE6wWDdRB1qhxX29XaEtgOA73-t893jhx.jpeg)
-Debt APIs make impactful debt management and debt repayment possible. Although debt APIs work for multiple facets of loan and financial management.
+### [52. What is the Genuine Value of APIs](https://hackernoon.com/what-is-the-genuine-value-of-apis)
+![](https://cdn.hackernoon.com/images/b0dJCdCiIve9u5o9RwhrccshHwC2-0qb360c.jpeg)
+Application Program Interfaces-or APIs- are a huge part of the digital world that can even be used in blockchain. This is how it can act as digital glue.
 
-### [54. GraphQL vs REST: API Design Best Practices For Long-Running Operations](https://hackernoon.com/graphql-vs-rest-api-design-best-practices-for-long-running-operations)
+### [53. GraphQL vs REST: API Design Best Practices For Long-Running Operations](https://hackernoon.com/graphql-vs-rest-api-design-best-practices-for-long-running-operations)
 ![](https://cdn.hackernoon.com/images/IRj9IIbyAHeTBUUb5MBZl3ThjTj2-wj93kad.jpeg)
 Some best practices for API design projects that are intended to work over the course of a long-term operation within a larger organisation using GraphQL
+
+### [54. Debt APIs & Their Role in Financial Management](https://hackernoon.com/debt-apis-and-their-role-in-financial-management)
+![](https://cdn.hackernoon.com/images/XXnVE6wWDdRB1qhxX29XaEtgOA73-t893jhx.jpeg)
+Debt APIs make impactful debt management and debt repayment possible. Although debt APIs work for multiple facets of loan and financial management.
 
 ### [55. 10 Indications That You Should Invest in Automation Via APIs](https://hackernoon.com/10-indications-that-you-should-invest-in-automation-via-apis)
 ![](https://cdn.hackernoon.com/images/J4GcVCKAUfRCdSgHmGjG9wyF4YJ3-5h239mp.jpeg)
@@ -240,13 +244,13 @@ APIs, if you know how to tame and harness them, are a superpower. Choreo is a Cl
 ![](https://cdn.hackernoon.com/images/oOGh07dnGtY5cyVtfbWiQZKZiJC2-ye93pp3.jpeg)
 A must-read article for all developers when integrating a weather API into your app, product or website. Maximize the potential of your weather data!
 
-### [60. 9 Vital API Security Threats Every Team Should Watch For](https://hackernoon.com/9-vital-api-security-threats-every-team-should-watch-for-jp3e3u18)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FadQ0KkfYVUXNlsMjYo5BitFEd033-9y153uw3.jpeg?alt=media&token=b436146b-e2ae-4c9d-a664-584c6edf1b04)
-As more and more data is exposed via APIs either as API-first companies or for the explosion of single page apps/JAMStack, API security can no longer be an afterthought. The hard part about APIs is that it provides direct access to large amounts of data while bypassing browser precautions. Instead of worrying about SQL injection and XSS issues, you should be concerned about the bad actor who was able to paginate through all your customer records and their data.
-
-### [61. Fetch the Right Data With Next.js and  React SSR](https://hackernoon.com/fetch-the-right-data-with-nextjs-and-react-ssr)
+### [60. Fetch the Right Data With Next.js and  React SSR](https://hackernoon.com/fetch-the-right-data-with-nextjs-and-react-ssr)
 ![](https://cdn.hackernoon.com/images/IRj9IIbyAHeTBUUb5MBZl3ThjTj2-xn93kc5.jpeg)
 A frontend developer should be able to define what data is needed for a given page
+
+### [61. 9 Vital API Security Threats Every Team Should Watch For](https://hackernoon.com/9-vital-api-security-threats-every-team-should-watch-for-jp3e3u18)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FadQ0KkfYVUXNlsMjYo5BitFEd033-9y153uw3.jpeg?alt=media&token=b436146b-e2ae-4c9d-a664-584c6edf1b04)
+As more and more data is exposed via APIs either as API-first companies or for the explosion of single page apps/JAMStack, API security can no longer be an afterthought. The hard part about APIs is that it provides direct access to large amounts of data while bypassing browser precautions. Instead of worrying about SQL injection and XSS issues, you should be concerned about the bad actor who was able to paginate through all your customer records and their data.
 
 ### [62. 7 Key Features Of The Ideal Collaboration Tool](https://hackernoon.com/7-key-features-of-the-ideal-collaboration-tool-ig383wm9)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fe3USjjHh7KcVbH6Xuvon0aNE3X03-du1m3t7y.jpeg?alt=media&token=9fdda556-6b17-40e0-9c69-175dd7896bd4)
@@ -272,57 +276,57 @@ I've run across a post on reddit where someone asked how to integrate their own 
 ![](https://cdn.hackernoon.com/images/nY4WXFXgxfVZOFZRtpUzFU9rv6g2-51d3861.jpeg)
 Explore corporate information system integration, its strategic tasks, and challenges. Learn about EDA, ESB, ETL, security, software architecture, and more.
 
-### [68. API Integration in 2021 and a Look at Insights from 2020](https://hackernoon.com/api-integration-in-2021-and-a-look-at-insights-from-2020-hq4a31ce)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-htp3123.jpeg)
-What's next for API integration? Share your thoughts in Cloud Elements' industry survey to win prizes and contribute to the industry-renowned report.
-
-### [69. Use Collaborator and Bugsnag to Set Up a Code Ownership Loop](https://hackernoon.com/use-collaborator-and-bugsnag-to-set-up-a-code-ownership-loop)
+### [68. Use Collaborator and Bugsnag to Set Up a Code Ownership Loop](https://hackernoon.com/use-collaborator-and-bugsnag-to-set-up-a-code-ownership-loop)
 ![](https://cdn.hackernoon.com/images/4HK5qyMbWfetPhAavzyTZrEb90N2-p893q2d.jpeg)
 Leverage the practice of code ownership to streamline bug identification and resolution throughout the entire software development lifecycle
 
-### [70. The Easiest Way to Integrate Coz.jp Into Your Workflows: Exploring the n8n Node](https://hackernoon.com/the-easiest-way-to-integrate-cozjp-into-your-workflows-exploring-the-n8n-node)
+### [69. The Easiest Way to Integrate Coz.jp Into Your Workflows: Exploring the n8n Node](https://hackernoon.com/the-easiest-way-to-integrate-cozjp-into-your-workflows-exploring-the-n8n-node)
 ![](https://cdn.hackernoon.com/images/workflow-abstract-r17iwyf6fykz933gq4zkhg28.png)
 Coz.jp API support is now in beta! To make integration easy, I've also built an n8n node. This article is a step-by-step guide on how to use it.
 
-### [71. Why API Mocking is Essential](https://hackernoon.com/why-api-mocking-is-essential)
+### [70. Why API Mocking is Essential](https://hackernoon.com/why-api-mocking-is-essential)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-29b2emb.jpeg)
 Is API mocking in unit tests important or does it do nothing. I think the answer is a bit more nuanced but we do need such tests to reduce daily churn
 
-### [72. Why It's Worth Investing In An API Integration Platform](https://hackernoon.com/why-its-worth-investing-in-an-api-integration-platform-ldu332e)
-![](https://cdn.hackernoon.com/images/NSypAaCfv0hxXa6bu5WL2fw3xLz2-we1g32kp.jpeg)
-Get to know why API integration platforms are a must for B2B SaaS apps to be competitive on the market.
+### [71. API Integration in 2021 and a Look at Insights from 2020](https://hackernoon.com/api-integration-in-2021-and-a-look-at-insights-from-2020-hq4a31ce)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-htp3123.jpeg)
+What's next for API integration? Share your thoughts in Cloud Elements' industry survey to win prizes and contribute to the industry-renowned report.
+
+### [72. REST vs. GraphQL vs. Async: The Best API Strategy for 2025](https://hackernoon.com/rest-vs-graphql-vs-async-the-best-api-strategy-for-2025)
+![](https://cdn.hackernoon.com/images/api-bxsz5we56srgju06iphuj5u7.png)
+Learn how REST, GraphQL, and Async APIs power fintech—and why the right API model can make or break your product in 2025.
 
 ### [73. Not Too Dry: How to Showcase SDKs by Keeping Application Code Simple](https://hackernoon.com/not-too-dry-how-to-showcase-sdks-by-keeping-application-code-simple)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-gs93vk7.jpeg)
 Above all else, the sample apps team wanted these products to serve as teaching tools for engineers.
 
-### [74. The #crypto-api Writing Contest by CoinGecko and HackerNoon: Results Announcement 🎉](https://hackernoon.com/the-crypto-api-writing-contest-by-coingecko-and-hackernoon-results-announcement)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-tz83zyq.png)
-Meet the winners of the #crypto-api writing contest presented by CoinGecko and HackerNoon!
+### [74. Why It's Worth Investing In An API Integration Platform](https://hackernoon.com/why-its-worth-investing-in-an-api-integration-platform-ldu332e)
+![](https://cdn.hackernoon.com/images/NSypAaCfv0hxXa6bu5WL2fw3xLz2-we1g32kp.jpeg)
+Get to know why API integration platforms are a must for B2B SaaS apps to be competitive on the market.
 
-### [75. Integrating OpenAI GPT API With Functions: Here's What You Need to Know](https://hackernoon.com/integrating-openai-gpt-api-with-functions-heres-what-you-need-to-know)
-![](https://cdn.hackernoon.com/images/fusing-gold-and-silver-together-kukdqpfnz24jw17d37107jhy.png)
-This significant integration gives PubNub's developers access to the power of OpenAI GPT, which they can use to create new and innovative applications.
-
-### [76. Designing and Developing the Integration of Your Online Shopping Store](https://hackernoon.com/designing-and-developing-the-integration-of-your-online-shopping-store)
+### [75. Designing and Developing the Integration of Your Online Shopping Store](https://hackernoon.com/designing-and-developing-the-integration-of-your-online-shopping-store)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-dx92ay8.jpeg)
 WSO2 Integration Studio is a development environment for designing, developing, debugging, and testing integration solutions.
 
-### [77. REST vs. GraphQL vs. Async: The Best API Strategy for 2025](https://hackernoon.com/rest-vs-graphql-vs-async-the-best-api-strategy-for-2025)
-![](https://cdn.hackernoon.com/images/api-bxsz5we56srgju06iphuj5u7.png)
-Learn how REST, GraphQL, and Async APIs power fintech—and why the right API model can make or break your product in 2025.
+### [76. Integrating OpenAI GPT API With Functions: Here's What You Need to Know](https://hackernoon.com/integrating-openai-gpt-api-with-functions-heres-what-you-need-to-know)
+![](https://cdn.hackernoon.com/images/fusing-gold-and-silver-together-kukdqpfnz24jw17d37107jhy.png)
+This significant integration gives PubNub's developers access to the power of OpenAI GPT, which they can use to create new and innovative applications.
+
+### [77. The #crypto-api Writing Contest by CoinGecko and HackerNoon: Results Announcement 🎉](https://hackernoon.com/the-crypto-api-writing-contest-by-coingecko-and-hackernoon-results-announcement)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-tz83zyq.png)
+Meet the winners of the #crypto-api writing contest presented by CoinGecko and HackerNoon!
 
 ### [78. How We Delivered New Services Without Building New Services](https://hackernoon.com/how-we-delivered-new-services-without-building-new-services-tj1734z0)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-ayi28ye.jpeg)
 Our API serves more than 300 million API calls per year. We used an open source integration platform to deliver new services without building from scratch.
 
-### [79. What is the DynamicDocs Excel Add-In and How Do You Use It?](https://hackernoon.com/what-is-the-dynamicdocs-excel-add-in-and-how-do-you-use-it)
-![](https://cdn.hackernoon.com/images/06KNlukh3ZUxBuRpskTZBIwgBJR2-0p93p85.jpeg)
-DynamicDocs Excel Add-in integrates with DynamicDocs API and generates PDFs directly from Excel. In this article, we describe how to get started. 
-
-### [80. How to Choose the Best API Integration Platform](https://hackernoon.com/how-to-choose-the-best-api-integration-platform-7h2k34kd)
+### [79. How to Choose the Best API Integration Platform](https://hackernoon.com/how-to-choose-the-best-api-integration-platform-7h2k34kd)
 ![](https://cdn.hackernoon.com/images/NSypAaCfv0hxXa6bu5WL2fw3xLz2-qj2m32e6.jpeg)
 Discover the most important things to consider when choosing an API integration platform for your B2B SaaS company.
+
+### [80. What is the DynamicDocs Excel Add-In and How Do You Use It?](https://hackernoon.com/what-is-the-dynamicdocs-excel-add-in-and-how-do-you-use-it)
+![](https://cdn.hackernoon.com/images/06KNlukh3ZUxBuRpskTZBIwgBJR2-0p93p85.jpeg)
+DynamicDocs Excel Add-in integrates with DynamicDocs API and generates PDFs directly from Excel. In this article, we describe how to get started. 
 
 ### [81. What Is The True Cost of Using Public APIs](https://hackernoon.com/what-is-the-true-cost-of-using-public-apis-lz7x3wn7)
 ![](https://cdn.hackernoon.com/images/jf1f3wii.gif)
@@ -345,33 +349,33 @@ APIs - the current “big thing” - offer the opportunity for modern organizati
 Transform app experiences with the distance matrix API, enhancing efficiency and accuracy. Discover how it revolutionizes logistics and beyond.
 
 
-### [86. How to Auto-Generate Certificates](https://hackernoon.com/how-to-auto-generate-certificates)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-4693k4y.jpeg)
-This tutorial will teach how to auto-generate certificates with ease.
-
-### [87. How to Keep Sensitive Data Out of Your Logs](https://hackernoon.com/how-to-keep-sensitive-data-out-of-your-logs)
+### [86. How to Keep Sensitive Data Out of Your Logs](https://hackernoon.com/how-to-keep-sensitive-data-out-of-your-logs)
 ![](https://cdn.hackernoon.com/images/3msc2eMd3GQDyk2Wgg5I2BP5BHb2-bs92o6u.jpeg)
 Do you protect customer PII and PHI, keeping them out of your logs? Learn about why and how to isolate this sensitive data with a data privacy vault and API.
 
-### [88. Exploring the API-First Design Pattern](https://hackernoon.com/exploring-the-api-first-design-pattern)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-1893t83.jpeg)
-Learn how the API-first design pattern is a carbon copy of the successful writing approach that John Vester has leveraged for several years.
+### [87. How to Auto-Generate Certificates](https://hackernoon.com/how-to-auto-generate-certificates)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-4693k4y.jpeg)
+This tutorial will teach how to auto-generate certificates with ease.
 
-### [89. Our New Open Source OAuth Integrations Manager](https://hackernoon.com/our-new-open-source-oauth-integrations-manager-w91f3ebr)
+### [88. Our New Open Source OAuth Integrations Manager](https://hackernoon.com/our-new-open-source-oauth-integrations-manager-w91f3ebr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZU0eJAp5VveahOSuhUDdoMF6uE43-my2y28vt.png?alt=media&token=d18236ba-228f-4ec3-a374-edd3e10274e4)
 Within my company, Bearer, the whole team is focused on helping developers that rely on third-party APIs. In 2019, our engineers developed a solution that eased how to integrate with any API that uses OAuth.
+
+### [89. Exploring the API-First Design Pattern](https://hackernoon.com/exploring-the-api-first-design-pattern)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-1893t83.jpeg)
+Learn how the API-first design pattern is a carbon copy of the successful writing approach that John Vester has leveraged for several years.
 
 ### [90. How to Expose Your API Endpoint Using Choreo](https://hackernoon.com/expose-your-api-endpoint-using-choreo)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-h103oc9.jpeg)
 Choreo allows you to create, publish and manage all aspects of an API and its’ lifecycle. 
 
-### [91. Create a Search Engine and Other Startup Ideas Using Data-Ferret](https://hackernoon.com/create-a-search-engine-and-other-startup-ideas-using-data-ferret)
-![](https://cdn.hackernoon.com/images/u2j6S8lkcpSo8y2DC5puAo1YHIF3-9na3s0a.jpeg)
-Data-ferret is a tiny, yet powerful util library to scan or transform deeply nested and complex object-like data with ease.
-
-### [92. 7 Best Application Integration Tools to Consider for 2022](https://hackernoon.com/7-best-application-integration-tools-to-consider-for-2022)
+### [91. 7 Best Application Integration Tools to Consider for 2022](https://hackernoon.com/7-best-application-integration-tools-to-consider-for-2022)
 ![](https://cdn.hackernoon.com/images/BHmq1WRGL5RKNa2xCnJj4p3Sn192-k5a2ial.jpeg)
 Application integration is the process of allowing independently developed apps to communicate with one another.
+
+### [92. Create a Search Engine and Other Startup Ideas Using Data-Ferret](https://hackernoon.com/create-a-search-engine-and-other-startup-ideas-using-data-ferret)
+![](https://cdn.hackernoon.com/images/u2j6S8lkcpSo8y2DC5puAo1YHIF3-9na3s0a.jpeg)
+Data-ferret is a tiny, yet powerful util library to scan or transform deeply nested and complex object-like data with ease.
 
 ### [93. How to set up NetSuite Token-based Authentication (TBA) in Laravel](https://hackernoon.com/how-to-set-up-netsuite-token-based-authentication-tba-in-laravel)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bl02si0.jpeg)
@@ -387,34 +391,34 @@ If Bitcoin is truly gamified, everybody will want to play with it.
 Key to this future are blockchain APIs.
 
 
-### [96. Marketplace API Integration For High-Volume Software Companies](https://hackernoon.com/marketplace-api-integration-for-high-volume-software-companies-hc1j34bn)
+### [96. Real-Time Data Processing with Kafka Streams: Simplifying Stream Processing Applications](https://hackernoon.com/real-time-data-processing-with-kafka-streams-simplifying-stream-processing-applications)
+![](https://cdn.hackernoon.com/images/q6t9kyVqaAbMWMb9XJWOGmM6iV92-wk83cuh.png)
+Explore Kafka Streams: a Java library for building scalable, fault-tolerant stream processing apps. Learn how to simplify real-time data processing.
+
+### [97. Marketplace API Integration For High-Volume Software Companies](https://hackernoon.com/marketplace-api-integration-for-high-volume-software-companies-hc1j34bn)
 ![](https://cdn.hackernoon.com/images/NSypAaCfv0hxXa6bu5WL2fw3xLz2-md83xel.jpeg)
 Explore the details connected to APIs of Amazon,  eBay, Etsy, and Walmart marketplaces and find out how to develop the integration with all of them. 
 
 
-### [97. Take the Pain Away From Adding Types From Your API Responses With This Automated Library](https://hackernoon.com/take-the-pain-away-from-adding-types-from-your-api-responses-with-this-automated-library)
-![](https://cdn.hackernoon.com/images/GVqrkFhDy3e2iVHYG8gjzNGbN4u1-dc222tt.png)
-Automate typescript api response typing with realtime-api-types library.
-
-### [98. Real-Time Data Processing with Kafka Streams: Simplifying Stream Processing Applications](https://hackernoon.com/real-time-data-processing-with-kafka-streams-simplifying-stream-processing-applications)
-![](https://cdn.hackernoon.com/images/q6t9kyVqaAbMWMb9XJWOGmM6iV92-wk83cuh.png)
-Explore Kafka Streams: a Java library for building scalable, fault-tolerant stream processing apps. Learn how to simplify real-time data processing.
-
-### [99. API Integrations Can Give Your Business A Single Source of Truth](https://hackernoon.com/api-integrations-can-give-your-business-a-single-source-of-truth-md2k35sf)
-![](https://cdn.hackernoon.com/images/Egk4QeHIKwhohdHCIbmstmLhCnp2-wh2b296k.jpeg)
-An Application Program Interface (API) is a bunch of capacities or systems that gives programs admittance to a typical information source. 
-
-### [100. Streamlining API Testing with Postman’s Pre-Request Scripts](https://hackernoon.com/streamlining-api-testing-with-postmans-pre-request-scripts)
+### [98. Streamlining API Testing with Postman’s Pre-Request Scripts](https://hackernoon.com/streamlining-api-testing-with-postmans-pre-request-scripts)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ni03415.png)
 
 
-### [101. Increase your Team's Productivity by Automating Through APIs](https://hackernoon.com/increase-your-teams-productivity-by-automating-through-apis)
-![](https://cdn.hackernoon.com/images/J4GcVCKAUfRCdSgHmGjG9wyF4YJ3-xg03ayg.jpeg)
-No matter what professional field you work in, higher productivity is likely one of the goals you aspire to. It can, however, be tricky. There is no single way to improve your productivity. 
+### [99. Take the Pain Away From Adding Types From Your API Responses With This Automated Library](https://hackernoon.com/take-the-pain-away-from-adding-types-from-your-api-responses-with-this-automated-library)
+![](https://cdn.hackernoon.com/images/GVqrkFhDy3e2iVHYG8gjzNGbN4u1-dc222tt.png)
+Automate typescript api response typing with realtime-api-types library.
 
-### [102. The Future of Serverless API Development is Now](https://hackernoon.com/the-future-of-serverless-api-development-is-now)
+### [100. API Integrations Can Give Your Business A Single Source of Truth](https://hackernoon.com/api-integrations-can-give-your-business-a-single-source-of-truth-md2k35sf)
+![](https://cdn.hackernoon.com/images/Egk4QeHIKwhohdHCIbmstmLhCnp2-wh2b296k.jpeg)
+An Application Program Interface (API) is a bunch of capacities or systems that gives programs admittance to a typical information source. 
+
+### [101. The Future of Serverless API Development is Now](https://hackernoon.com/the-future-of-serverless-api-development-is-now)
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-gcb3p3x.gif.webp)
 Today, we are excited to announce the launch of WunderGraph Cloud! Today, we are excited to announce the launch of WunderGraph Cloud! 
+
+### [102. Increase your Team's Productivity by Automating Through APIs](https://hackernoon.com/increase-your-teams-productivity-by-automating-through-apis)
+![](https://cdn.hackernoon.com/images/J4GcVCKAUfRCdSgHmGjG9wyF4YJ3-xg03ayg.jpeg)
+No matter what professional field you work in, higher productivity is likely one of the goals you aspire to. It can, however, be tricky. There is no single way to improve your productivity. 
 
 ### [103. The Non-Technical User’s Guide to API Security](https://hackernoon.com/the-non-technical-users-guide-to-api-security)
 ![](https://cdn.hackernoon.com/images/EbAYYnuybxZrbaG4JdmpU01xrU23-ff93pgu.jpeg)
@@ -424,25 +428,25 @@ One of the most important security tools is the right mindset. APIs can be prote
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9692io1.jpeg)
 Learn how to build a Web3 Portfolio Tracker using DeCommas Mission Control API.
 
-### [105. Price APIs: The Steps for Driving Successful API Strategy](https://hackernoon.com/price-apis-the-steps-for-driving-successful-api-strategy-ux1y357g)
-![](https://cdn.hackernoon.com/images/RyPb13GCDNX1icZlvOBsz3i1gbt2-211934jx.jpeg)
-Implementing a successful price API strategy can be highly beneficial. Organizations want to capitalize on the price API market and drive innovation & revenue.
+### [105. How Cryptocurrency APIs Drive Growth in the Blockchain Industry](https://hackernoon.com/how-cryptocurrency-apis-drive-growth-in-the-blockchain-industry)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-0d830w4.jpeg)
+A brief guide on what cryptocurrency APIs are and how you can successfully utilise them for yourself.
 
 ### [106. Unleashing Backend Agility: Empowering Your App With Build-Time GraphQL](https://hackernoon.com/unleashing-backend-agility-empowering-your-app-with-build-time-graphql)
 ![](https://cdn.hackernoon.com/images/g6d7uBnJu9SKvFzrtcQcdoIYCzW2-yrd3ny3.jpeg)
 The BFF pattern optimizes backends for specific client interfaces. Using GraphQL for it fixes some of its drawbacks, but can we do better? Let’s find out with W
 
-### [107. How Cryptocurrency APIs Drive Growth in the Blockchain Industry](https://hackernoon.com/how-cryptocurrency-apis-drive-growth-in-the-blockchain-industry)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-0d830w4.jpeg)
-A brief guide on what cryptocurrency APIs are and how you can successfully utilise them for yourself.
+### [107. Price APIs: The Steps for Driving Successful API Strategy](https://hackernoon.com/price-apis-the-steps-for-driving-successful-api-strategy-ux1y357g)
+![](https://cdn.hackernoon.com/images/RyPb13GCDNX1icZlvOBsz3i1gbt2-211934jx.jpeg)
+Implementing a successful price API strategy can be highly beneficial. Organizations want to capitalize on the price API market and drive innovation & revenue.
 
-### [108. 🔮 What Does the Future Hold for API Management, in 2023 and Beyond?](https://hackernoon.com/what-does-the-future-hold-for-api-management-in-2023-and-beyond)
-![](https://cdn.hackernoon.com/images/22P9gUNORgNxx8DJYjvM6aN81Fk1-pm92ib2.jpeg)
-As the number of APIs continues to expand without bounds, what can we expect from API Management platforms in 2023?  What are the important human interactions? 
-
-### [109. Integration Rules: The Backbone of Data Communication](https://hackernoon.com/integration-rules-the-backbone-of-data-communication)
+### [108. Integration Rules: The Backbone of Data Communication](https://hackernoon.com/integration-rules-the-backbone-of-data-communication)
 ![](https://cdn.hackernoon.com/images/iuuJMlh8dfh81bDvIL7jOy4lJ9t1-l7e3ls8.jpeg)
 Here are tips for assessing how well-built your data integrations are, with examples of bi-directional Jira integrations and more.
+
+### [109. 🔮 What Does the Future Hold for API Management, in 2023 and Beyond?](https://hackernoon.com/what-does-the-future-hold-for-api-management-in-2023-and-beyond)
+![](https://cdn.hackernoon.com/images/22P9gUNORgNxx8DJYjvM6aN81Fk1-pm92ib2.jpeg)
+As the number of APIs continues to expand without bounds, what can we expect from API Management platforms in 2023?  What are the important human interactions? 
 
 ### [110. JAR vs API Integration: Architectural Trade-Offs in Enterprise Healthcare Platforms](https://hackernoon.com/jar-vs-api-integration-architectural-trade-offs-in-enterprise-healthcare-platforms)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-yu0238v.jpeg)
@@ -456,13 +460,13 @@ Airlines don’t just fly planes—they model your choices. This deep dive shows
 ![](https://cdn.hackernoon.com/images/V2uqwi6cHOSQ9XYURd6Tg8DkKzx2-lj93pmk.jpeg)
 Implementing crypto payments as a business solution, integrating API and plug ins
 
-### [113. Benefits of Automation Through API Integration ](https://hackernoon.com/benefits-of-automation-through-api-integration)
-![](https://cdn.hackernoon.com/images/DzDrHxDCeoPeFgtDYNXybro96KK2-qx11cwo.jpeg)
-This piece is about the benefits of using API system to enhance productivity and ease of work.
-
-### [114. Simplifying API with Tyny.dev Founder Patrick Pittich-Rinnerthaler ](https://hackernoon.com/simplifying-api-with-tynydev-founder-patrick-pittich-rinnerthaler)
+### [113. Simplifying API with Tyny.dev Founder Patrick Pittich-Rinnerthaler ](https://hackernoon.com/simplifying-api-with-tynydev-founder-patrick-pittich-rinnerthaler)
 ![](https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-xk03ao4.jpeg)
 Totally Nerdy Cofounder Patrick Pittich-Rinnerthaler joins us in this Slogging AMA to talk about his API technology tyny.dev. 
+
+### [114. Benefits of Automation Through API Integration ](https://hackernoon.com/benefits-of-automation-through-api-integration)
+![](https://cdn.hackernoon.com/images/DzDrHxDCeoPeFgtDYNXybro96KK2-qx11cwo.jpeg)
+This piece is about the benefits of using API system to enhance productivity and ease of work.
 
 ### [115. How to Build Email Lookup Extension for Chrome](https://hackernoon.com/how-to-build-email-lookup-extension-for-chrome)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-p192ifg.jpeg)
@@ -474,13 +478,13 @@ HazelBase is a powerful identity network that collects data from the internet an
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-hi93kev.jpeg)
 Successful integration of a W2P solution can help an organization in various ways. First, it allows their clients and prospects to place orders quickly and easi
 
-### [117. Code Smell 272 - API Chain](https://hackernoon.com/code-smell-272-api-chain)
-![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-ss136jc.jpeg)
-Use primitive steps to verify API behavior instead of direct requests.
-
-### [118. Most Tech Jobs Are Just Fancy Data Entry (And That's OK!)](https://hackernoon.com/most-tech-jobs-are-just-fancy-data-entry-and-thats-ok)
+### [117. Most Tech Jobs Are Just Fancy Data Entry (And That's OK!)](https://hackernoon.com/most-tech-jobs-are-just-fancy-data-entry-and-thats-ok)
 ![](https://cdn.hackernoon.com/images/iEB7EVjsMCRFL8jW48kmn53ySU92-6l034pr.png)
 A blunt look at how modern tech jobs revolve around repetitive tasks like syncing APIs and updating forms instead of solving real engineering problems. 
+
+### [118. Code Smell 272 - API Chain](https://hackernoon.com/code-smell-272-api-chain)
+![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-ss136jc.jpeg)
+Use primitive steps to verify API behavior instead of direct requests.
 
 ### [119. Law Practice Management Software: Introducing The Top 4 Law APIs](https://hackernoon.com/law-practice-management-software-introducing-the-top-4-law-apis)
 ![](https://cdn.hackernoon.com/images/dLkDv5Ev4aXF2r0xdSEuMdDIYzj1-gz19r351s.jpeg)
@@ -498,31 +502,31 @@ API's such as tyny.dev will be used more heavily in the future, as the Metaverse
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6b82rej.jpeg)
 Somewhere in the world’s oceans, a local n8n instance just ran a workflow on a cruise ship. We spoke with Mattias Larson, co-founder of Maranics to learn more.
 
-### [123. How to Integrate Github with Google Sheets Using Choreo](https://hackernoon.com/how-to-integrate-github-with-google-sheets-using-choreo)
-![](https://cdn.hackernoon.com/images/ZEskkwPa0SYsUysNk06ej0HYFEf2-aiyg353f.jpeg)
-A step-by-step tutorial on how to integrate Github with Google Sheets!
-
-### [124. The HackerNoon Newsletter: VPNs Promise Privacy But Often Deliver the Opposite (7/10/2025)](https://hackernoon.com/7-10-2025-newsletter)
+### [123. The HackerNoon Newsletter: VPNs Promise Privacy But Often Deliver the Opposite (7/10/2025)](https://hackernoon.com/7-10-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_573_gn54ssubr90p3b6a5hq436yt.png)
 7/10/2025: Top 5 stories on the HackerNoon homepage!
 
-### [125. Public ASX100 APIs: The Essential List](https://hackernoon.com/public-asx100-apis-the-essential-list-hw153t11)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FANOvK6YEO3VsptqSywRdUlk1LnD3-8n63eo0.jpeg?alt=media&token=57b17d4b-86bb-4df0-87cc-1856b92ee8d5)
-We’ve conducted some initial research into the public APIs of the ASX100 because we regularly have conversations about what others are doing with their APIs and what best practices look like. Being able to point to good local examples and explain what is happening in Australia is a key part of this conversation.
+### [124. How to Integrate Github with Google Sheets Using Choreo](https://hackernoon.com/how-to-integrate-github-with-google-sheets-using-choreo)
+![](https://cdn.hackernoon.com/images/ZEskkwPa0SYsUysNk06ej0HYFEf2-aiyg353f.jpeg)
+A step-by-step tutorial on how to integrate Github with Google Sheets!
 
-### [126. Decentro Launches India’s First-ever Fintech Fellowship Program](https://hackernoon.com/decentro-launches-indias-first-ever-fintech-fellowship-program-0uz33pz)
-![](https://cdn.hackernoon.com/images/zX9tnuciv3WYeGyemU3NJ3lpwR83-vnm3383.jpeg)
-Decentro is thrilled to announce the country’s first-ever fintech fellowship program for young developers & final-year graduates. Apply now!
-
-### [127. Don’t Approve That API Yet, PMs—Look for These Red Flags First](https://hackernoon.com/dont-approve-that-api-yet-pmslook-for-these-red-flags-first)
+### [125. Don’t Approve That API Yet, PMs—Look for These Red Flags First](https://hackernoon.com/dont-approve-that-api-yet-pmslook-for-these-red-flags-first)
 ![](https://cdn.hackernoon.com/images/A1RSy5adj8ctQWPUG38MjG3ufgp2-wj036nq.jpeg)
 Discover 7 API red flags to vet providers and choose the right API for secure, scalable products. 
 
-### [128. How To Introduce a New API Quickly Using Micronaut](https://hackernoon.com/how-to-introduce-a-new-api-quickly-using-micronaut)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-1c338f5.jpeg)
-Knowing when to pivot can be vital to staying ahead of the competition. See how Cursor AI and Heroku can be leveraged to transform an idea into a reality.
+### [126. Public ASX100 APIs: The Essential List](https://hackernoon.com/public-asx100-apis-the-essential-list-hw153t11)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FANOvK6YEO3VsptqSywRdUlk1LnD3-8n63eo0.jpeg?alt=media&token=57b17d4b-86bb-4df0-87cc-1856b92ee8d5)
+We’ve conducted some initial research into the public APIs of the ASX100 because we regularly have conversations about what others are doing with their APIs and what best practices look like. Being able to point to good local examples and explain what is happening in Australia is a key part of this conversation.
 
-### [129. Serving LLMs with vAttention: Workflow and API Integration](https://hackernoon.com/serving-llms-with-vattention-workflow-and-api-integration)
+### [127. Decentro Launches India’s First-ever Fintech Fellowship Program](https://hackernoon.com/decentro-launches-indias-first-ever-fintech-fellowship-program-0uz33pz)
+![](https://cdn.hackernoon.com/images/zX9tnuciv3WYeGyemU3NJ3lpwR83-vnm3383.jpeg)
+Decentro is thrilled to announce the country’s first-ever fintech fellowship program for young developers & final-year graduates. Apply now!
+
+### [128. Serving LLMs with vAttention: Workflow and API Integration](https://hackernoon.com/serving-llms-with-vattention-workflow-and-api-integration)
 ![](https://cdn.hackernoon.com/images/colorful-flow-trippy-gks5bworcufjp5oj6jlv1co3.png)
 Explore the practical workflow of integrating vAttention as a Python/CUDA library into an LLM serving framework and detailing initialization
+
+### [129. How To Introduce a New API Quickly Using Micronaut](https://hackernoon.com/how-to-introduce-a-new-api-quickly-using-micronaut)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-1c338f5.jpeg)
+Knowing when to pivot can be vital to staying ahead of the competition. See how Cursor AI and Heroku can be leveraged to transform an idea into a reality.
 

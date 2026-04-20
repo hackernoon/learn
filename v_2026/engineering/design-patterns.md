@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [design-patterns](https://hackernoon.com/tagged/design-patterns)
+### Let's learn about [Design Patterns](https://hackernoon.com/tagged/design-patterns) via these 172 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Design patterns are reusable solutions to common problems in software design, representing best practices developed by experienced object-oriented software developers. Applying design patterns improves code maintainability, scalability, and overall architectural quality.
+
 ### [1. Understanding the Factory Pattern in C# — With Examples](https://hackernoon.com/understanding-the-factory-pattern-in-c-with-examples)
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-8m83xdh.jpeg)
 The Factory pattern allows developers to create objects without specifying the exact class of object that will be created.
@@ -206,13 +210,13 @@ Software design patterns have been used to package solutions to many common desi
 ![](https://cdn.hackernoon.com/images/f8ChYF2U4MRmYNmy61YoItMITZl2-xqf3pg7.jpeg)
 Software architecture, design and process of architecting explained using a case study.
 
-### [52. How to Decouple a Legacy System](https://hackernoon.com/how-to-decouple-a-legacy-system-zf153u42)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRIiBoPtpMiRsMKX3dnzl5gb1Urj1-tqhw3uuv.jpeg?alt=media&token=eeac6886-f1db-40b7-af2c-8cb4125048be)
-An exercise improving legacy code
-
-### [53. Search and Extract: Why This AI Pattern Matters, Tutorial, and Example](https://hackernoon.com/search-and-extract-why-this-ai-pattern-matters-tutorial-and-example)
+### [52. Search and Extract: Why This AI Pattern Matters, Tutorial, and Example](https://hackernoon.com/search-and-extract-why-this-ai-pattern-matters-tutorial-and-example)
 ![](https://cdn.hackernoon.com/images/az3uKG32QlhC1X5VZf0DkYulSRJ3-ad03a5y.png)
 ​​Learn why search-and-extract matters for AI enrichment and research. Step-by-step tutorial using SERP API, Web Unlocker, and Browser API with a real example.
+
+### [53. How to Decouple a Legacy System](https://hackernoon.com/how-to-decouple-a-legacy-system-zf153u42)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRIiBoPtpMiRsMKX3dnzl5gb1Urj1-tqhw3uuv.jpeg?alt=media&token=eeac6886-f1db-40b7-af2c-8cb4125048be)
+An exercise improving legacy code
 
 ### [54. Static Polymorphism using Curiously Recurring Template Pattern (CRTP)](https://hackernoon.com/static-polymorphism-using-curiously-recurring-template-pattern-crtp-nd2e3yn2)
 ![](https://cdn.hackernoon.com/drafts/oz6gg3ywu.png)
@@ -247,25 +251,25 @@ Generic implementation of the Composite Design Pattern in Python.
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-m5133g1.jpeg)
 There are 11 design patterns that can be used to create a factory for creating factories.
 
-### [62. Facts Everyone Needs To Know About Front-End Development Practices](https://hackernoon.com/facts-everyone-needs-to-know-about-front-end-development-practices-88o3wfq)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBnMb3F4vjTb8PuRduWJNBwABhlb2-k4443ueg.jpeg?alt=media&token=5d34a2fd-b77c-405d-ba14-e7f7f50aeda4)
-Front-end development takes much more than writing clean code. While writing concise and legible code is not mandatory, it will save many headaches in the future. The chances of writing code that will never be changed or never looked at again are slim to none, and time spent getting lost in old code is time wasted. Here are some key web development best practices for HTML, CSS, and JavaScript.
-
-### [63. Find out Whether Model Observers in Laravel are a Bad Practice](https://hackernoon.com/find-out-whether-model-observers-in-laravel-are-a-bad-practice)
-![](https://cdn.hackernoon.com/images/zg5KqJKmaoa55jd5lFdol5UDODA2-yid2kxs.jpeg)
-Keep your Model Observers in Laravel under control.
-
-### [64. Implementing TypeState Pattern in Python](https://hackernoon.com/implementing-typestate-pattern-in-python-4u3d34pi)
+### [62. Implementing TypeState Pattern in Python](https://hackernoon.com/implementing-typestate-pattern-in-python-4u3d34pi)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-to1n29qk.jpeg)
 The basic idea behind TypeState pattern is to encode the state information inside types. 
 
-### [65. Welcome to the OOP pattern matching: Visitor Pattern](https://hackernoon.com/welcome-to-the-oop-pattern-matching-visitor-pattern-1q7n031xc)
-![](https://cdn.hackernoon.com/drafts/3m6ay31sl.png)
-Visitor pattern is dead. Long live to Visitor pattern. (With Kotlin examples)
+### [63. Facts Everyone Needs To Know About Front-End Development Practices](https://hackernoon.com/facts-everyone-needs-to-know-about-front-end-development-practices-88o3wfq)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBnMb3F4vjTb8PuRduWJNBwABhlb2-k4443ueg.jpeg?alt=media&token=5d34a2fd-b77c-405d-ba14-e7f7f50aeda4)
+Front-end development takes much more than writing clean code. While writing concise and legible code is not mandatory, it will save many headaches in the future. The chances of writing code that will never be changed or never looked at again are slim to none, and time spent getting lost in old code is time wasted. Here are some key web development best practices for HTML, CSS, and JavaScript.
 
-### [66. Uncover the Alias Pattern](https://hackernoon.com/uncover-the-alias-pattern)
+### [64. Find out Whether Model Observers in Laravel are a Bad Practice](https://hackernoon.com/find-out-whether-model-observers-in-laravel-are-a-bad-practice)
+![](https://cdn.hackernoon.com/images/zg5KqJKmaoa55jd5lFdol5UDODA2-yid2kxs.jpeg)
+Keep your Model Observers in Laravel under control.
+
+### [65. Uncover the Alias Pattern](https://hackernoon.com/uncover-the-alias-pattern)
 ![](https://cdn.hackernoon.com/images/oIZ6zbypp5XdOfvNWimTAhHLpGC2-xb934qh.jpeg)
 The Alias pattern minds two issues. Extending how a final class builds its objects.
+
+### [66. Welcome to the OOP pattern matching: Visitor Pattern](https://hackernoon.com/welcome-to-the-oop-pattern-matching-visitor-pattern-1q7n031xc)
+![](https://cdn.hackernoon.com/drafts/3m6ay31sl.png)
+Visitor pattern is dead. Long live to Visitor pattern. (With Kotlin examples)
 
 ### [67. Serverless Architecture: Lambda Triggers and Design Patterns [Part 1]](https://hackernoon.com/serverless-architecture-lambda-triggers-and-design-patterns-part-1-am1h3u94)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJT4BgXlfxveziEP9szyBKsEXoFf2-e5v3ujf.jpeg?alt=media&token=a4fb8c13-f109-4e69-92da-c54ba2d9d47f)
@@ -279,17 +283,17 @@ The other day I was reading up on the legendary React God Dan Ambrov’s great b
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-4g833oj.jpeg)
 Explore the benefits and tradeoffs of implementing the Memento Pattern in C# and elevate your coding skills.
 
-### [70. Decouple Your Go Components by Leveraging Mediator and Event Aggregator Patterns](https://hackernoon.com/decouple-your-go-components-by-leveraging-mediator-and-event-aggregator-patterns)
+### [70. A Practical Guide to Dynamic Polymorphism in C Programming](https://hackernoon.com/a-practical-guide-to-dynamic-polymorphism-in-c-programming)
+![](https://cdn.hackernoon.com/images/kIHr1rRf4vghAXgOb3lKJOUQdc02-xdc319w.jpeg)
+Explore how dynamic polymorphism enhances code flexibility and maintainability in C programming
+
+### [71. Decouple Your Go Components by Leveraging Mediator and Event Aggregator Patterns](https://hackernoon.com/decouple-your-go-components-by-leveraging-mediator-and-event-aggregator-patterns)
 ![](https://cdn.hackernoon.com/images/B65BHtIjMKRR9DOASTxwjwvDTRt1-9de3pox.jpeg)
 Decouple your Go components by leveraging Mediator and Event Aggregator patterns. Learn how to use open-source mediator / event aggregator library called mob.
 
-### [71. Memento Design Pattern Overview](https://hackernoon.com/memento-design-pattern-overview-4r7p3wol)
+### [72. Memento Design Pattern Overview](https://hackernoon.com/memento-design-pattern-overview-4r7p3wol)
 ![](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Memento design pattern is a software design pattern that is used to roll back an object to its previous state. It is a part of the behavioural design pattern which is concerned with algorithms and assignment of responsibilities between objects. 
-
-### [72. A Practical Guide to Dynamic Polymorphism in C Programming](https://hackernoon.com/a-practical-guide-to-dynamic-polymorphism-in-c-programming)
-![](https://cdn.hackernoon.com/images/kIHr1rRf4vghAXgOb3lKJOUQdc02-xdc319w.jpeg)
-Explore how dynamic polymorphism enhances code flexibility and maintainability in C programming
 
 ### [73. Software Design Principles: Doing Little Things Right](https://hackernoon.com/software-design-principles-doing-little-things-right-md203y02)
 ![](https://cdn.hackernoon.com/drafts/d31e3yzi.png)
@@ -319,33 +323,33 @@ S.O.L.I.D design principle comes from Object oriented programming guidelines. I
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-at82r2w.jpeg)
 When we start building software, we can see many code's incompatibilities. This is because of many codes have been written based on different contracts.
 
-### [80. Understanding Event Driven Architecture](https://hackernoon.com/understanding-event-driven-architecture-ub1k3umo)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFOSBkxRpMMhr0jzqpLzjyr5LuOI3-ma103ux2.webp?alt=media&token=0469d3be-fc19-47ce-8cf2-7d1f48092775)
-Event-driven architecture is a software architecture paradigm promoting the production, detection, consumption of, and reaction to events.
-
-### [81. Code Smell 252 - NullCustomer](https://hackernoon.com/code-smell-252-nullcustomer)
+### [80. Code Smell 252 - NullCustomer](https://hackernoon.com/code-smell-252-nullcustomer)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-9z832tn.jpeg)
 
+
+### [81. Understanding Event Driven Architecture](https://hackernoon.com/understanding-event-driven-architecture-ub1k3umo)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFOSBkxRpMMhr0jzqpLzjyr5LuOI3-ma103ux2.webp?alt=media&token=0469d3be-fc19-47ce-8cf2-7d1f48092775)
+Event-driven architecture is a software architecture paradigm promoting the production, detection, consumption of, and reaction to events.
 
 ### [82. Exercises on Dependency Injection in  ASP.NET: Introduction](https://hackernoon.com/exercises-on-dependency-injection-in-aspnet-introduction-lb173u6k)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFchKsdqEtEeooNoCPe478sFe08r2-w653upv.webp?alt=media&token=74500f85-66ee-4e8e-80de-eefa66d58cba)
 In this post, we will do some exercises to go over the basics of DI (Dependency Injection) in ASP.NET.
 
-### [83. How to Find the Stinky Parts of Your Code (Part IV)](https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-iv-7sc3w8n)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRIiBoPtpMiRsMKX3dnzl5gb1Urj1-321d3wez.jpeg?alt=media&token=b582ae2d-0407-4a1c-a676-7587fb633b0c)
-Are we done on code smells? Guess not.
-
-### [84. The growing pains of becoming an Intermediate developer](https://hackernoon.com/growing-pains-becoming-an-intermediate-developer-y03ee38yw)
-![](https://cdn.hackernoon.com/images/hqzs35dx.jpg)
-
-
-### [85. Use Database Transaction Logs to Implement Observer Pattern](https://hackernoon.com/use-database-transaction-logs-to-implement-observer-pattern)
+### [83. Use Database Transaction Logs to Implement Observer Pattern](https://hackernoon.com/use-database-transaction-logs-to-implement-observer-pattern)
 ![](https://cdn.hackernoon.com/images/INL4cGxrwnR0r7FDyWTj45Z5Oxy1-qha2nep.jpeg)
 The best way to implement the observer pattern - using transaction logs of databases.
 
-### [86. Design Patterns: Prototype Pattern in Modern C++](https://hackernoon.com/design-patterns-prototype-pattern-in-modern-c-3i1e3ulr)
+### [84. How to Find the Stinky Parts of Your Code (Part IV)](https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-iv-7sc3w8n)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRIiBoPtpMiRsMKX3dnzl5gb1Urj1-321d3wez.jpeg?alt=media&token=b582ae2d-0407-4a1c-a676-7587fb633b0c)
+Are we done on code smells? Guess not.
+
+### [85. Design Patterns: Prototype Pattern in Modern C++](https://hackernoon.com/design-patterns-prototype-pattern-in-modern-c-3i1e3ulr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgxaG8fTrVzUm0EeycUPpXSDj69I3-dye2883.jpeg?alt=media&token=bb2d28fa-fb8d-4198-b375-0709e90d00e5)
 Prototype Design Pattern is a Creational Design Pattern that helps in the prototyping(creating/copying cheaply) of an object using separate methods or polymorphic classes. You can consider the prototype as a template of an object before the actual object is constructed. In this article of the Creational Design Patterns, we’re going to take a look at why we need a Prototype Design Pattern in C++ i.e. motivation, prototype factory & leveraging prototype design pattern to implement virtual copy constructor.
+
+### [86. The growing pains of becoming an Intermediate developer](https://hackernoon.com/growing-pains-becoming-an-intermediate-developer-y03ee38yw)
+![](https://cdn.hackernoon.com/images/hqzs35dx.jpg)
+
 
 ### [87. Intercept It: How to Implement Different Logic For Different Functions](https://hackernoon.com/intercept-it-how-to-implement-different-logic-for-different-functions)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-5k93vj0.jpeg)
@@ -359,17 +363,17 @@ Hello, guys. This is the second article about SOLID principles with Javascript e
 ![](https://cdn.hackernoon.com/images/ZTiVtl9TF6Mqdq0GSgDuxuALFDX2-d10233z.png)
 Master Go interfaces: why single-method interfaces rule, accept interfaces return structs, and the nil interface gotcha that crashes production. From 6 years of
 
-### [90. Rules of Thumb for Software Engineering](https://hackernoon.com/-software-rules-of-thumb-there-are-quite-a-few-rulesprinciples-that-get-thrown-around-in-the-q9u367n)
-![](https://cdn.hackernoon.com/images/j2vc36qo.jpg)
-There are quite a few rules/principles that get thrown around in the software world. Some that come to mind are SOLID principles, Design Patterns, Do one thing and do it well, etc. I totally stand by all of them and believe our world would be a much better place if these principles are followed more.
+### [90. What is a HashMap in Java?](https://hackernoon.com/what-is-a-hashmap-in-java)
+![](https://cdn.hackernoon.com/images/7gw8dcicqwdE2oxqe6dakGK6Uuj2-d4027xf.jpeg)
+Hashmap is a collection of key-value pairs and an array of nodes. It uses an array and LinkedList for storing key-value pairs.
 
 ### [91. SOLID Principles in JavaScript: What Does the "S" Stand For?](https://hackernoon.com/solid-principles-in-javascript-what-does-the-s-stand-for)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-bq93idb.jpeg)
 In this article, we will discuss what is SOLID principles, why we should intend them. Also, we will take a look at examples of "S" principle using Javascript.
 
-### [92. What is a HashMap in Java?](https://hackernoon.com/what-is-a-hashmap-in-java)
-![](https://cdn.hackernoon.com/images/7gw8dcicqwdE2oxqe6dakGK6Uuj2-d4027xf.jpeg)
-Hashmap is a collection of key-value pairs and an array of nodes. It uses an array and LinkedList for storing key-value pairs.
+### [92. Rules of Thumb for Software Engineering](https://hackernoon.com/-software-rules-of-thumb-there-are-quite-a-few-rulesprinciples-that-get-thrown-around-in-the-q9u367n)
+![](https://cdn.hackernoon.com/images/j2vc36qo.jpg)
+There are quite a few rules/principles that get thrown around in the software world. Some that come to mind are SOLID principles, Design Patterns, Do one thing and do it well, etc. I totally stand by all of them and believe our world would be a much better place if these principles are followed more.
 
 ### [93.  CSS Block Element Modifier](https://hackernoon.com/css-design-patternsblock-element-modifiers-qk9e36ut)
 ![](https://cdn.hackernoon.com/images/lj1rv368l.jpg)
@@ -407,13 +411,13 @@ In this article, we'll take a deeper dive into the seven graphic design trends t
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-yn92d30.jpeg)
 Why we should be careful not to abuse barrel exports in our TypeScript code.
 
-### [102. The Web Design Trends you Must Not Miss in 2022](https://hackernoon.com/the-web-design-trends-you-must-not-miss-in-2022)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-e1930vt.jpeg)
-web design is moving into the future, with advanced techniques like retro revolution, fewer images, and Memphis design.
-
-### [103. The Zen of Page Objects: Find Inner Peace and Clean Code](https://hackernoon.com/the-zen-of-page-objects-find-inner-peace-and-clean-code)
+### [102. The Zen of Page Objects: Find Inner Peace and Clean Code](https://hackernoon.com/the-zen-of-page-objects-find-inner-peace-and-clean-code)
 ![](https://cdn.hackernoon.com/images/a-zen-monk-writing-code-on-a-laptop-clhfss95s000101s67nmb6twc.png)
 7 the best practices for Page Objects. By following these best practices, you can create a Page Object framework that is easy to maintain, reusable and much mor
+
+### [103. The Web Design Trends you Must Not Miss in 2022](https://hackernoon.com/the-web-design-trends-you-must-not-miss-in-2022)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-e1930vt.jpeg)
+web design is moving into the future, with advanced techniques like retro revolution, fewer images, and Memphis design.
 
 ### [104. 7 Advanced C++ Concepts You Should Know](https://hackernoon.com/7-advanced-c-concepts-you-should-know-gr8k3yci)
 ![](https://cdn.hackernoon.com/images/wa12732ti.jpg)
@@ -431,25 +435,25 @@ You can keep your Rails app cleaner and easier to maintain using Service Objects
 ![](https://images.unsplash.com/photo-1553532434-5ab5b6b84993?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Open closed principle is the most simple one in the list of software design principles I understand. "Open for extension, close for modification" - the idea seems quite straightforward. Let's create an example about validation. 
 
-### [108. How to Implement the State Design Pattern in JavaScript and Integrate It With React Hooks](https://hackernoon.com/how-to-implement-the-state-design-pattern-in-javascript-and-integrate-it-with-react-hooks)
-![](https://cdn.hackernoon.com/images/colorful-bright-patterns-ekl8fxcsowni9wtm69624nsd.png)
-How to implement state pattern in javascript, using class implementation, then integrate it with react hooks.
-
-### [109. How to Use the Builder Pattern in C#](https://hackernoon.com/how-to-use-the-builder-pattern-in-c-g11z352m)
+### [108. How to Use the Builder Pattern in C#](https://hackernoon.com/how-to-use-the-builder-pattern-in-c-g11z352m)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-ld4y358w.jpeg)
 According to Gang of Four, a creational pattern “Builder” allows to separate and reuse a specific method to build something.
 
-### [110. Simple and Intuitive RESTful APIs ](https://hackernoon.com/simple-and-intuitive-restful-apis)
-![](https://cdn.hackernoon.com/images/Ost0Yu7R8YRpFW6b3mNIw0Oq2LX2-ro0350d.jpeg)
-This article provides guidance on how to design simple and intuitive RESTful APIs. 
+### [109. How to Implement the State Design Pattern in JavaScript and Integrate It With React Hooks](https://hackernoon.com/how-to-implement-the-state-design-pattern-in-javascript-and-integrate-it-with-react-hooks)
+![](https://cdn.hackernoon.com/images/colorful-bright-patterns-ekl8fxcsowni9wtm69624nsd.png)
+How to implement state pattern in javascript, using class implementation, then integrate it with react hooks.
+
+### [110. Is There Really a Hierarchy in Design?](https://hackernoon.com/is-there-really-a-hierarchy-in-design)
+![](https://cdn.hackernoon.com/images/6P7PmV5wEuZCuIB7haREkN3Q5UH2-24c3ir2.jpeg)
+Designers should stop using the ‘Hierarchy of Design’ concept as the representation of design characteristics as a pyramid is inaccurate and misleading
 
 ### [111. Advanced Property Pattern Techniques in C# 8.0](https://hackernoon.com/advanced-property-pattern-techniques-in-c-80)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-zd931i4.jpeg)
 The article describes how pattern matching effectively utilises and processes data in forms not part of the primary system.
 
-### [112. Is There Really a Hierarchy in Design?](https://hackernoon.com/is-there-really-a-hierarchy-in-design)
-![](https://cdn.hackernoon.com/images/6P7PmV5wEuZCuIB7haREkN3Q5UH2-24c3ir2.jpeg)
-Designers should stop using the ‘Hierarchy of Design’ concept as the representation of design characteristics as a pyramid is inaccurate and misleading
+### [112. Simple and Intuitive RESTful APIs ](https://hackernoon.com/simple-and-intuitive-restful-apis)
+![](https://cdn.hackernoon.com/images/Ost0Yu7R8YRpFW6b3mNIw0Oq2LX2-ro0350d.jpeg)
+This article provides guidance on how to design simple and intuitive RESTful APIs. 
 
 ### [113. Fluent Interface With Callbacks](https://hackernoon.com/fluid-api-with-callbacks-ms2t37xs)
 ![](https://cdn.hackernoon.com/images/hq2on376o.jpg)
@@ -459,13 +463,13 @@ Designers should stop using the ‘Hierarchy of Design’ concept as the represe
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-v36e35qs.jpeg)
 According to Gang of Four, the iterator pattern provides a process to obtain the aggregator object without knowing its implementation.
 
-### [115. Solar Architecture:  A New Perspective on Enterprise Software Development](https://hackernoon.com/solar-architecture-a-new-perspective-on-enterprise-software-development-5o5m32rc)
-![](https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-The development life cycles of applications in an enterprise environment often follow a common theme. An application begins life with a clear purpose in mind and over time has requirements brought in that cause incremental additions to the scope of the original concept. These additions could either be completely in sync with the original concept or perhaps the requirement just had no better home to belong in. As the application matures to an end-of-life state it has now grown far past its original intended purpose and is in dire need of a refactor — breaking down the monolithic beast into smaller and more succinct components.
-
-### [116. What is a Façade Design Pattern?](https://hackernoon.com/what-is-a-facade-design-pattern)
+### [115. What is a Façade Design Pattern?](https://hackernoon.com/what-is-a-facade-design-pattern)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-dw93yso.jpeg)
 Use the facade design pattern to simplify the interaction between subsystems. It provides a single entry point to a subsystem,
+
+### [116. Solar Architecture:  A New Perspective on Enterprise Software Development](https://hackernoon.com/solar-architecture-a-new-perspective-on-enterprise-software-development-5o5m32rc)
+![](https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+The development life cycles of applications in an enterprise environment often follow a common theme. An application begins life with a clear purpose in mind and over time has requirements brought in that cause incremental additions to the scope of the original concept. These additions could either be completely in sync with the original concept or perhaps the requirement just had no better home to belong in. As the application matures to an end-of-life state it has now grown far past its original intended purpose and is in dire need of a refactor — breaking down the monolithic beast into smaller and more succinct components.
 
 ### [117. Difference Between Inheritance And Composition](https://hackernoon.com/difference-between-inheritance-and-composition-cc1h3wnl)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-mr1b287b.jpeg?alt=media&token=9fff512e-4d76-4a8c-9bce-b8794b645a59)
@@ -479,32 +483,32 @@ This is a story of how I moved from hate to love for NodeJS language while being
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFlRGjciVp3fbWDvvOGdVFcuFTef2-v98b2b31.jpeg?alt=media&token=88b82b35-6f97-48d7-a454-acfcf56ce588)
 Unlike my sleeping pattern, design patterns are meant to make things more stable and predictable in the future. It is an elegant solution to common problems in software design. 
 
-### [120. SOLID Design: Dependency Inversion Principle in C++ ](https://hackernoon.com/solid-design-dependency-inversion-principle-in-c-weq3ujp)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgxaG8fTrVzUm0EeycUPpXSDj69I3-8qb28p8.jpeg?alt=media&token=8f845a7c-8e6b-4266-860a-8c91cc2ea6a6)
-Dependency Inversion Principle in C++ is the fifth & last design principle of a series SOLID as a Rock design principles. The SOLID design principles focus on developing software that is easy to maintainable, reusable & extendable. In this article, we will see an example code with the flaw & correct it with help of DIP. We will also see guideline & benefits of DIP inclosure of the article.
-
-### [121. Chatty I/O Is Killing Your App's Performance Without You Even Realizing It](https://hackernoon.com/chatty-io-is-killing-your-apps-performance-without-you-even-realizing-it)
+### [120. Chatty I/O Is Killing Your App's Performance Without You Even Realizing It](https://hackernoon.com/chatty-io-is-killing-your-apps-performance-without-you-even-realizing-it)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ne02sgn.jpeg)
 The cumulative effect of a large number of Input and Output requests has a significant negative impact on the performance and responsiveness of a service.
+
+### [121. SOLID Design: Dependency Inversion Principle in C++ ](https://hackernoon.com/solid-design-dependency-inversion-principle-in-c-weq3ujp)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgxaG8fTrVzUm0EeycUPpXSDj69I3-8qb28p8.jpeg?alt=media&token=8f845a7c-8e6b-4266-860a-8c91cc2ea6a6)
+Dependency Inversion Principle in C++ is the fifth & last design principle of a series SOLID as a Rock design principles. The SOLID design principles focus on developing software that is easy to maintainable, reusable & extendable. In this article, we will see an example code with the flaw & correct it with help of DIP. We will also see guideline & benefits of DIP inclosure of the article.
 
 ### [122. Why To Prefer JSX Over JSON-like Objects For Building React Components ](https://hackernoon.com/why-to-prefer-jsx-over-json-like-objects-for-building-react-components-3p1w31sf)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-30u287l.jpeg)
 Imagine you have several blocks of similar layout which are hard-coded on the frontend side. These blocks are not dynamic, they are not being fetched from back-end, it’s just a layout. Most beginners, when they see similar blocks of layout, start to think about arrays as a tool to handle similar stuff. 
 
-### [123. Single Responsibility Principle in C++: SOLID as a Rock](https://hackernoon.com/single-responsibility-principle-in-c-solid-as-a-rock-4d323ygo)
-![](https://cdn.hackernoon.com/drafts/2ysm2exq.png)
-This article is the first part of a five-part series about SOLID as 
-Rock design principle series. The SOLID design principles focus on 
-developing software that is easy to maintainable, reusable & 
-extendable. In this article, we will see an example of the Single Responsibility Principle in C++ along with its benefits & generic guideline.
+### [123. 128 Stories To Learn About Design Patterns](https://hackernoon.com/128-stories-to-learn-about-design-patterns)
+![](https://cdn.hackernoon.com/images/github/design-patterns-878.png)
+Learn everything you need to know about Design Patterns via these 128 free HackerNoon stories.
 
 ### [124. Virtual Sampling: Reducing Waste in Design & Product Development](https://hackernoon.com/virtual-sampling-reducing-waste-in-design-and-product-development-ik4434tv)
 ![](https://cdn.hackernoon.com/images/ghoqyKXcSpPVImwrUESYYsybnJJ2-jx1234lu.jpeg)
 Virtual sampling has become an applicable alternative for brands to utilize in their production process. A brand like Hugo Boss are adopting this. 
 
-### [125. 128 Stories To Learn About Design Patterns](https://hackernoon.com/128-stories-to-learn-about-design-patterns)
-![](https://cdn.hackernoon.com/images/github/design-patterns-878.png)
-Learn everything you need to know about Design Patterns via these 128 free HackerNoon stories.
+### [125. Single Responsibility Principle in C++: SOLID as a Rock](https://hackernoon.com/single-responsibility-principle-in-c-solid-as-a-rock-4d323ygo)
+![](https://cdn.hackernoon.com/drafts/2ysm2exq.png)
+This article is the first part of a five-part series about SOLID as 
+Rock design principle series. The SOLID design principles focus on 
+developing software that is easy to maintainable, reusable & 
+extendable. In this article, we will see an example of the Single Responsibility Principle in C++ along with its benefits & generic guideline.
 
 ### [126. SOLID Principles in JavaScript: What Does the "D" Stand For?](https://hackernoon.com/solid-principles-in-javascript-what-does-the-d-stand-for)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-5k93hty.jpeg)
@@ -518,17 +522,17 @@ This is the second part of a five-part series about SOLID as Rock design princip
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fs7h1jitOTjVAG6qj8odN750wCNs2-5z3u3w31.jpeg?alt=media&token=1a50a2ab-beb3-48e1-9c96-d460bed76368)
 The SOLID principles have been created as pillars of creating flexible, understandable and maintainable code. They can add days onto your dev time to implement them properly, and most people don't care or worry much about code quality, so I created some better ones.
 
-### [129. Why You Shouldn't Use "With Statement" Syntax in JavaScript](https://hackernoon.com/why-you-shouldnt-use-with-statement-syntax-in-javascript-uibg32wm)
+### [129. What You Need to Know About the Unit in Work in C#](https://hackernoon.com/what-you-need-to-know-about-the-unit-in-work-in-c)
+![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-5ne3yj7.jpeg)
+The Unit of Work design pattern is a software design pattern that is widely used in software development. It is a way to group database-related operations 
+
+### [130. Why You Shouldn't Use "With Statement" Syntax in JavaScript](https://hackernoon.com/why-you-shouldnt-use-with-statement-syntax-in-javascript-uibg32wm)
 ![](https://cdn.hackernoon.com/drafts/zj1c3tmk.png)
 Let’s look at the JavaScript with statement. We will go over the simple uses, as well as a deep dive into some more advanced concepts.
 
-### [130. How to Simplify Data Access Using EF](https://hackernoon.com/how-to-simplify-data-access-using-ef)
+### [131. How to Simplify Data Access Using EF](https://hackernoon.com/how-to-simplify-data-access-using-ef)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-g6931ix.jpeg)
 The repository architectural pattern is frequently employed in software development to segregate an application's business logic from the data access layer. It 
-
-### [131. What You Need to Know About the Unit in Work in C#](https://hackernoon.com/what-you-need-to-know-about-the-unit-in-work-in-c)
-![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-5ne3yj7.jpeg)
-The Unit of Work design pattern is a software design pattern that is widely used in software development. It is a way to group database-related operations 
 
 ### [132. Common Design Patterns for Building Resilient Systems (Retries & Circuit Breakers)](https://hackernoon.com/common-design-patterns-for-building-resilient-systems-retries-and-circuit-breakers)
 ![](https://cdn.hackernoon.com/images/Ost0Yu7R8YRpFW6b3mNIw0Oq2LX2-9j935xw.jpeg)
@@ -556,34 +560,34 @@ Have you wanted to make configuration changes in productio
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-ohr281x.jpeg?alt=media&token=f58a46f9-49fe-4764-bcec-a68039640805)
 The filter and pipeline patterns can be optimized with code reduction using lambda expression(shortcuts for anonymous method) as concrete filter condition. To demonstrate concept, the sample WPF UI application was created. Here is Source code
 
-### [138. What Exactly Is A Name: Rehab [Part II]](https://hackernoon.com/what-exactly-is-a-name-rehab-part-ii-4st3uph)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRIiBoPtpMiRsMKX3dnzl5gb1Urj1-0g1r3uhc.jpeg?alt=media&token=67f54b35-f40e-45e8-a6a5-6bff5890ff13)
-We all agree: a good name is always the most important thing. Let’s find them.
-
-### [139. Laravel Under The Hood -  What Are Facades?](https://hackernoon.com/laravel-under-the-hood-what-are-facades)
-![](https://cdn.hackernoon.com/images/yZi53v9tVybsXwdXldRGugWuUiE3-6n824gk.jpeg)
-Laravel offers an elegant method-calling feature called Facades. They resemble static methods, but well, they are not! What kind of magic is Laravel doing?
-
-### [140. Exploring the API-First Design Pattern](https://hackernoon.com/exploring-the-api-first-design-pattern)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-1893t83.jpeg)
-Learn how the API-first design pattern is a carbon copy of the successful writing approach that John Vester has leveraged for several years.
-
-### [141. How to Transform Your C# Code With the Command Design Pattern](https://hackernoon.com/how-to-transform-your-c-code-with-the-command-design-pattern)
-![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-nea3yub.jpeg)
-Command Design Pattern is one of the behavioural design patterns used to encapsulate a request as an object, thus enabling to parameterize clients with differen
-
-### [142. How to Boost Your Dev Skills With the Ultimate Todo App: Level Up From Padawan to Jedi](https://hackernoon.com/how-to-boost-your-dev-skills-with-the-ultimate-todo-app-level-up-from-padawan-to-jedi)
-![](https://cdn.hackernoon.com/images/YsMDAGFgjKPCB6RktAPi35be3sT2-cz93s4t.jpeg)
-Reference implementation of an application that follows Hexagonal Architecture, DDD, CQRS and uses technologies such as Mongo, Postgres, NATS, Jaeger & Grafana
-
-### [143. Working With Iterators and Generators in Javascript ES6](https://hackernoon.com/working-with-iterators-and-generators-in-javascript-es6-o23f35mj)
-![](https://cdn.hackernoon.com/images/MQZFmUTJPTXPIA9M7TIQPeY1vJq2-fz2w37ua.png)
-Here are the use cases for iterators and generators that are closer to the real-world scenario than a simple "Hello World" type code.
-
-### [144. AI Coding Tools Create Debt Faster Than Teams Can Fix It](https://hackernoon.com/ai-coding-tools-create-debt-faster-than-teams-can-fix-it)
+### [138. AI Coding Tools Create Debt Faster Than Teams Can Fix It](https://hackernoon.com/ai-coding-tools-create-debt-faster-than-teams-can-fix-it)
 ![](https://cdn.hackernoon.com/images/Y1V5z6B5ZkOc1K4R3uD34uwKbej2-wa33elc.webp)
 AI technical debt accumulates when AI coding tools generate code faster than teams can review it. Learn the patterns, barriers, and strategies to manage it. 
 
+
+### [139. How to Transform Your C# Code With the Command Design Pattern](https://hackernoon.com/how-to-transform-your-c-code-with-the-command-design-pattern)
+![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-nea3yub.jpeg)
+Command Design Pattern is one of the behavioural design patterns used to encapsulate a request as an object, thus enabling to parameterize clients with differen
+
+### [140. What Exactly Is A Name: Rehab [Part II]](https://hackernoon.com/what-exactly-is-a-name-rehab-part-ii-4st3uph)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FRIiBoPtpMiRsMKX3dnzl5gb1Urj1-0g1r3uhc.jpeg?alt=media&token=67f54b35-f40e-45e8-a6a5-6bff5890ff13)
+We all agree: a good name is always the most important thing. Let’s find them.
+
+### [141. Exploring the API-First Design Pattern](https://hackernoon.com/exploring-the-api-first-design-pattern)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-1893t83.jpeg)
+Learn how the API-first design pattern is a carbon copy of the successful writing approach that John Vester has leveraged for several years.
+
+### [142. Laravel Under The Hood -  What Are Facades?](https://hackernoon.com/laravel-under-the-hood-what-are-facades)
+![](https://cdn.hackernoon.com/images/yZi53v9tVybsXwdXldRGugWuUiE3-6n824gk.jpeg)
+Laravel offers an elegant method-calling feature called Facades. They resemble static methods, but well, they are not! What kind of magic is Laravel doing?
+
+### [143. How to Boost Your Dev Skills With the Ultimate Todo App: Level Up From Padawan to Jedi](https://hackernoon.com/how-to-boost-your-dev-skills-with-the-ultimate-todo-app-level-up-from-padawan-to-jedi)
+![](https://cdn.hackernoon.com/images/YsMDAGFgjKPCB6RktAPi35be3sT2-cz93s4t.jpeg)
+Reference implementation of an application that follows Hexagonal Architecture, DDD, CQRS and uses technologies such as Mongo, Postgres, NATS, Jaeger & Grafana
+
+### [144. Working With Iterators and Generators in Javascript ES6](https://hackernoon.com/working-with-iterators-and-generators-in-javascript-es6-o23f35mj)
+![](https://cdn.hackernoon.com/images/MQZFmUTJPTXPIA9M7TIQPeY1vJq2-fz2w37ua.png)
+Here are the use cases for iterators and generators that are closer to the real-world scenario than a simple "Hello World" type code.
 
 ### [145. Simplify Complex Subsystems With The Facade Design Pattern in C#](https://hackernoon.com/simplify-complex-subsystems-with-the-facade-design-pattern-in-c)
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-ox934fz.jpeg)
@@ -597,29 +601,29 @@ Interface Segregation Principle in C++ is the fourth & by far the simplest desig
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-l7b31ro.jpeg)
 The article describes how pattern matching effectively utilises and processes data in forms not part of the primary system.
 
-### [148. Know the Vitality of Mobile App Architecture](https://hackernoon.com/know-the-vitality-of-mobile-app-architecture-w3o32ml)
-![](https://cdn.hackernoon.com/images/r9123zry.jpg)
-The output is what measures the success of a business. Therefore, all the business houses are adopting all the inevitable methods and programs to intensify their productivity/ output by adopting new technologies and concepts. There are several technologies available and many in the developing phase, which effectively fulfil customers’ needs and generates high output.
-
-### [149. Ruby Services Vs. Objects: The Battle for Decomposition and Reuse](https://hackernoon.com/ruby-services-vs-objects-the-battle-for-decomposition-and-reuse-9ux349y)
-![](https://cdn.hackernoon.com/images/GNcPqSgJwFXt46mCNhVluDIR8hB3-gl4d29rb.jpeg)
-Frustrated with unorganized business logic in your Ruby-on-Rails app? Forget what you know about object-oriented design and start using services. 
-
-### [150. Implementation of the Strategy Pattern in Kotlin and Spring](https://hackernoon.com/implementation-of-the-strategy-pattern-in-kotlin-and-spring)
+### [148. Implementation of the Strategy Pattern in Kotlin and Spring](https://hackernoon.com/implementation-of-the-strategy-pattern-in-kotlin-and-spring)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-i482pg3.jpeg)
 The Strategy pattern is a behavioral design pattern that enables selecting an algorithm’s behavior at runtime
 
-### [151. How to Implement the Visitor Pattern Correctly](https://hackernoon.com/how-to-implement-the-visitor-pattern-correctly)
+### [149. Know the Vitality of Mobile App Architecture](https://hackernoon.com/know-the-vitality-of-mobile-app-architecture-w3o32ml)
+![](https://cdn.hackernoon.com/images/r9123zry.jpg)
+The output is what measures the success of a business. Therefore, all the business houses are adopting all the inevitable methods and programs to intensify their productivity/ output by adopting new technologies and concepts. There are several technologies available and many in the developing phase, which effectively fulfil customers’ needs and generates high output.
+
+### [150. Ruby Services Vs. Objects: The Battle for Decomposition and Reuse](https://hackernoon.com/ruby-services-vs-objects-the-battle-for-decomposition-and-reuse-9ux349y)
+![](https://cdn.hackernoon.com/images/GNcPqSgJwFXt46mCNhVluDIR8hB3-gl4d29rb.jpeg)
+Frustrated with unorganized business logic in your Ruby-on-Rails app? Forget what you know about object-oriented design and start using services. 
+
+### [151. The Decorator Pattern In a Content Management System](https://hackernoon.com/the-decorator-pattern-in-a-content-management-system)
+![](https://cdn.hackernoon.com/images/xJY7Mil1Iaawpy4gQe2JjaeojZY2-mq93phj.jpeg)
+A decorator pattern is a powerful tool that can be used to modify and extend functionality in PHP and MySQL-based content management systems. 
+
+### [152. How to Implement the Visitor Pattern Correctly](https://hackernoon.com/how-to-implement-the-visitor-pattern-correctly)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-pr034m0.jpeg)
 Avoid combining the Visitor pattern with instanceof checks.
 
-### [152. What About The Illusion Of Choice?](https://hackernoon.com/what-about-the-illusion-of-choice-jz1r3wyd)
+### [153. What About The Illusion Of Choice?](https://hackernoon.com/what-about-the-illusion-of-choice-jz1r3wyd)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FOZMuPThVMbPy6XuiQypFgbNwAyV2-45343tbh.jpeg?alt=media&token=9620abcd-70eb-4ddb-96e7-47a2e58e70c6)
 Do you think your actions are the result of your own free choices? What if those actions are the inevitable and necessary consequence of antecedent states of affairs? What does this mean for your free will?
-
-### [153. The Decorator Pattern In a Content Management System](https://hackernoon.com/the-decorator-pattern-in-a-content-management-system)
-![](https://cdn.hackernoon.com/images/xJY7Mil1Iaawpy4gQe2JjaeojZY2-mq93phj.jpeg)
-A decorator pattern is a powerful tool that can be used to modify and extend functionality in PHP and MySQL-based content management systems. 
 
 ### [154. Understand the Intent of Patterns And Principles Before Applying Them](https://hackernoon.com/understand-the-intent-of-patterns-and-principles-before-applying-them-mi2v3vgr)
 ![](https://cdn.hackernoon.com/drafts/mg7843kz5.png)
@@ -633,13 +637,13 @@ Five pillars of web design
 ![](https://cdn.hackernoon.com/images/rjEfNJmRsHbRtEujPZtEwxsM1vb2-wn93rnf.jpeg)
 Discover the Open-Closed Principle in programming. Improve software resilience and manageability by adding features without changing existing code.
 
-### [157. Object Creation: The Issues I Faced and the Patterns That Helped Me](https://hackernoon.com/object-creation-the-issues-i-faced-and-the-patterns-that-helped-me)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-9402uq3.jpeg)
-In this post, I've described two usages of the GoF's creational patterns, improving maintainability and ensuring objects are fully initialized
-
-### [158. How to Implement the Command Pattern in C#](https://hackernoon.com/how-to-implement-the-command-pattern-in-c)
+### [157. How to Implement the Command Pattern in C#](https://hackernoon.com/how-to-implement-the-command-pattern-in-c)
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-wl833d0.jpeg)
 Explore the power of the Command Pattern in C# as a behavioral design technique to enhance code organization and flexibility.
+
+### [158. Object Creation: The Issues I Faced and the Patterns That Helped Me](https://hackernoon.com/object-creation-the-issues-i-faced-and-the-patterns-that-helped-me)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-9402uq3.jpeg)
+In this post, I've described two usages of the GoF's creational patterns, improving maintainability and ensuring objects are fully initialized
 
 ### [159. The Noonification: I Hate Nintendo (3/14/2024)](https://hackernoon.com/3-14-2024-noonification)
 ![](https://cdn.hackernoon.com/images/noonification_62_b250q8u27643dp8oyncfoyeu.png)
@@ -661,13 +665,13 @@ Have you ever wondered how Laravel switches between different drivers' implement
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-ac833w1.jpeg)
 This comprehensive guide unveils the intricacies of implementing the Composite Pattern in C#, providing insights into composite, leaf, and component objects. 
 
-### [164. UX Design Patterns: Hacks For Better Transparency And Feedback In FinTech Apps](https://hackernoon.com/ux-design-patterns-hacks-for-better-transparency-and-feedback-in-fintech-apps-ajw339n)
-![](https://cdn.hackernoon.com/images/HIfPtVexW0e3XVbPbnxEaKHj3AJ3-no1s33ux.jpeg)
-What are the problems regarding transparency and feedback in FinTech applications? Which UX design patterns can be used to address them? Find out!
-
-### [165. Accessing Kubernetes Using Expose API and User Interface Using Sidecar Pattern](https://hackernoon.com/accessing-kubernetes-using-expose-api-and-user-interface-using-sidecar-pattern-9wh13yc5)
+### [164. Accessing Kubernetes Using Expose API and User Interface Using Sidecar Pattern](https://hackernoon.com/accessing-kubernetes-using-expose-api-and-user-interface-using-sidecar-pattern-9wh13yc5)
 ![](https://cdn.hackernoon.com/drafts/hl3v3yho.png)
 Kubernetes is an open-source container-orchestration system for automating application deployment, scaling, and management.
+
+### [165. UX Design Patterns: Hacks For Better Transparency And Feedback In FinTech Apps](https://hackernoon.com/ux-design-patterns-hacks-for-better-transparency-and-feedback-in-fintech-apps-ajw339n)
+![](https://cdn.hackernoon.com/images/HIfPtVexW0e3XVbPbnxEaKHj3AJ3-no1s33ux.jpeg)
+What are the problems regarding transparency and feedback in FinTech applications? Which UX design patterns can be used to address them? Find out!
 
 ### [166. Understanding Chain of Responsibility Pattern in C#](https://hackernoon.com/understanding-chain-of-responsibility-pattern-in-c-t12i35kp)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-wg6035c7.jpeg)

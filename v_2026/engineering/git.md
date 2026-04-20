@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [git](https://hackernoon.com/tagged/git)
+### Let's learn about [Git](https://hackernoon.com/tagged/git) via these 248 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. - Git.scm.com
 
 ### [1. How to Delete Commits From Remote in Git](https://hackernoon.com/how-to-delete-commits-from-remote-in-git)
@@ -81,13 +83,13 @@ Many software projects use secrets - usually, keys to external APIs or credentia
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-y793ioy.png)
 And another showing a linear history of the same project that uses fast-forward merges as Adam recommends:
 
-### [20. Understanding TypeScript Maps & Types](https://hackernoon.com/understanding-typescript-maps-and-types)
-![](https://cdn.hackernoon.com/images/TWU5I09dL2OfjL4PCXjky2GHdyG2-1ra2ij4.jpeg)
-Let's get real for a moment, Navigating the treacherous waters of TypeScript type definitions for a Map can sometimes feel like trying......Why, you ask?
-
-### [21. Install and Configure Git on Amazon Lightsail, and Deploy Your Website in Minutes! (Freebie Inside)](https://hackernoon.com/install-and-configure-git-on-amazon-lightsail-and-deploy-your-website-in-minutes-freebie-inside)
+### [20. Install and Configure Git on Amazon Lightsail, and Deploy Your Website in Minutes! (Freebie Inside)](https://hackernoon.com/install-and-configure-git-on-amazon-lightsail-and-deploy-your-website-in-minutes-freebie-inside)
 ![](https://cdn.hackernoon.com/images/N5Mn4Gq6eIOJEHFAf7nAnvEU8RH2-rha3pat.jpeg)
 We break down how to easily deploy your new website on Amazon Lightsail in less than 5 minutes. Get your code up and running and get back to doing what you want
+
+### [21. Understanding TypeScript Maps & Types](https://hackernoon.com/understanding-typescript-maps-and-types)
+![](https://cdn.hackernoon.com/images/TWU5I09dL2OfjL4PCXjky2GHdyG2-1ra2ij4.jpeg)
+Let's get real for a moment, Navigating the treacherous waters of TypeScript type definitions for a Map can sometimes feel like trying......Why, you ask?
 
 ### [22. Pull Request Checklist: What You Need to Do Before Assigning a PR to Someone](https://hackernoon.com/pull-request-checklist-what-you-need-to-do-before-assigning-a-pr-to-someone-x4263uuk)
 ![](https://cdn.hackernoon.com/drafts/eh2c3w3k.png)
@@ -105,13 +107,13 @@ GitHub is a well-known platform to share all kinds of technologies. The followin
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-iaa3pid.jpeg)
 In this article, we’ll outline a widely accepted yet simple format for good commit messages.
 
-### [26. How to Configure VS Code for Java in 2022](https://hackernoon.com/configuring-vs-code-for-java)
-![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-e8c34wo.jpeg)
-VS Code is Java-ready! Learn which extensions to use and how to configure it to start coding Java in a modern IDE.
-
-### [27. Learn How to Stop Tracking Files After Adding It to .gitignore in 4 Steps](https://hackernoon.com/learn-how-to-stop-tracking-files-after-adding-it-to-gitignore-in-4-steps)
+### [26. Learn How to Stop Tracking Files After Adding It to .gitignore in 4 Steps](https://hackernoon.com/learn-how-to-stop-tracking-files-after-adding-it-to-gitignore-in-4-steps)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-2ug3kpl.jpeg)
 When a file is tracked, adding it to .gitignore will not cause it to go untracked. Learn how to untrack a file that you have recently added to .gitignore.
+
+### [27. How to Configure VS Code for Java in 2022](https://hackernoon.com/configuring-vs-code-for-java)
+![](https://cdn.hackernoon.com/images/RLmwLcqcgCQhlcbhuqLdzf7ASis1-e8c34wo.jpeg)
+VS Code is Java-ready! Learn which extensions to use and how to configure it to start coding Java in a modern IDE.
 
 ### [28. GIT: Explained in 5 Levels of Difficulty](https://hackernoon.com/git-explained-in-5-levels-of-difficulty)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-gr93ppp.jpeg)
@@ -174,17 +176,17 @@ GIT is great, it has made collaboration with other developers so easy, I can’t
 ![](https://cdn.hackernoon.com/images/PkV2XzJhL4eISFLTiFkKC9zikEG2-tr93p2q.jpeg)
 When you have multiple developers working on the same code, you may face a lot of challenges when merging. That's where branches come in.
 
-### [43. Understanding 'Git', 'Bash', and 'Git Bash'](https://hackernoon.com/understanding-git-bash-and-git-bash)
+### [43. Git Tutorial: How to Easily Exclude Files During Git Add without Manual Entry](https://hackernoon.com/git-tutorial-how-to-easily-exclude-files-during-git-add-without-manual-entry)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-p7037c1.png)
+Every day we use the "git add" command a lot to add our changes to the index for new commits, but have you ever wondered how we can add all the changed files...
+
+### [44. Understanding 'Git', 'Bash', and 'Git Bash'](https://hackernoon.com/understanding-git-bash-and-git-bash)
 ![](https://cdn.hackernoon.com/images/aX0f3qWtq8ekISsR1JAtVEyR6r12-wr0377s.jpeg)
 Do you know when you install Git Bash on windows what exactly you are installing? Git or Bash?  In this article, I will explain everything about them.
 
-### [44. Supercharge Your DevOps With Git Hooks](https://hackernoon.com/supercharge-your-devops-with-git-hooks)
+### [45. Supercharge Your DevOps With Git Hooks](https://hackernoon.com/supercharge-your-devops-with-git-hooks)
 ![](https://cdn.hackernoon.com/images/hooks-at-the-back-of-door-rrzu7he93soe6e5ko1m5g2zw.png)
 Supercharge your DevOps with Git Hooks, the simple, efficient, and easiest solution to most of your DevOps needs!
-
-### [45. Git Tutorial: How to Easily Exclude Files During Git Add without Manual Entry](https://hackernoon.com/git-tutorial-how-to-easily-exclude-files-during-git-add-without-manual-entry)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-p7037c1.png)
-Every day we use the "git add" command a lot to add our changes to the index for new commits, but have you ever wondered how we can add all the changed files...
 
 ### [46. 5 Open Source Alternatives to Auth0 to be Excited About in 2024](https://hackernoon.com/5-open-source-alternatives-to-auth0-to-be-excited-about-in-2024)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-7t83qw0.jpeg)
@@ -226,13 +228,13 @@ Git commits are immutable—meaning you can create new ones, but what’s alread
 ![](https://cdn.hackernoon.com/images/yLA5IIXzaTaIXUkw7hbfn2EnE1r1-td039ll.webp)
 A commit message should have a proper style, content, and metadata.
 
-### [56. Enhancing Your Git Commit Messages](https://hackernoon.com/enhancing-your-git-commit-messages-2a299295o)
-![](https://cdn.hackernoon.com/drafts/kn6d529y3.png)
-Photo by Yancy Min on Unsplash
-
-### [57. Understanding the Staging Area in Git](https://hackernoon.com/understanding-the-staging-area-in-git)
+### [56. Understanding the Staging Area in Git](https://hackernoon.com/understanding-the-staging-area-in-git)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-jt93rkf.jpeg)
 In this article, we will be discussing the staging area in Git and how it is a fundamental part of version control and can be used effectively in git.
+
+### [57. Enhancing Your Git Commit Messages](https://hackernoon.com/enhancing-your-git-commit-messages-2a299295o)
+![](https://cdn.hackernoon.com/drafts/kn6d529y3.png)
+Photo by Yancy Min on Unsplash
 
 ### [58. How To Deploy Multiple Sites to Firebase Hosting using GitHub Actions](https://hackernoon.com/how-to-deploy-multiple-sites-to-firebase-using-github-actions-pa2c3wmr)
 ![](images/dv71337f.jpg)
@@ -266,13 +268,13 @@ I just saw that Heroku created the ability to git push heroku from main instead 
 ![](https://cdn.hackernoon.com/images/PxqbX3ZeOxZEcIA7xjOltjRXMtz1-j6a3ti2.png)
 Learn everything you need to know about setting up Husky 8 with Lerna in this useful step-by-step guide.
 
-### [66. Tips for Writing Good Commit Messages](https://hackernoon.com/tips-for-writing-good-commit-messages)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-1393pgu.jpeg)
-In this article, I’d like to share my opinion on how to write good commit messages that would make your git log useful and improve your code review process.
-
-### [67. Here's What I Found on Scanning 2.6 Million Domains for Exposed Git Directories](https://hackernoon.com/heres-what-i-found-on-scanning-26-million-domains-for-exposed-git-directories)
+### [66. Here's What I Found on Scanning 2.6 Million Domains for Exposed Git Directories](https://hackernoon.com/heres-what-i-found-on-scanning-26-million-domains-for-exposed-git-directories)
 ![](https://cdn.hackernoon.com/images/yVDYqzHTcHRhsOezPV8xukpYVY42-ur935sp.jpeg)
 A scan of over 2.6 million domains revealed over 1000 publicly exposed git directories. Next to complete source code I found many credentials and api secrets.
+
+### [67. Tips for Writing Good Commit Messages](https://hackernoon.com/tips-for-writing-good-commit-messages)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-1393pgu.jpeg)
+In this article, I’d like to share my opinion on how to write good commit messages that would make your git log useful and improve your code review process.
 
 ### [68. Why GitOps is so exciting?](https://hackernoon.com/why-gitops-is-so-exciting-ca2a3a0y)
 ![](https://cdn.hackernoon.com/images/qbf733d2.jpg)
@@ -286,23 +288,23 @@ This story covers basic GitHub Jira Integration without requiring admin privileg
 ![](https://cdn.hackernoon.com/drafts/615f19h5.png)
 Git, debugging, testing, the terminal, Linux, the cloud, networking, patterns/antipatterns - what even is this mess? Don't worry we'll go through it from beginning to end (all the way, I promise) everything you need to know to collaborate proficiency with others.
 
-### [71. 15 Essential GitHub Repos for Web Developers in 2021](https://hackernoon.com/15-essential-github-repos-for-web-developers-in-2021)
-![](https://cdn.hackernoon.com/images/SX77kQ7AuphQDZQhV7OSkx49OZc2-3e5d4923.jpeg)
-Using Github Repositories can be a helpful tool to learn coding. Here are 15 Most Valuable GitHub Repos for Web Devs in 2021 and what you can learn from them. 
-
-### [72. Rewriting Git History With Confidence: A Guide](https://hackernoon.com/rewriting-git-history-with-confidence-a-guide)
+### [71. Rewriting Git History With Confidence: A Guide](https://hackernoon.com/rewriting-git-history-with-confidence-a-guide)
 ![](https://cdn.hackernoon.com/images/gmOc0oFqu1bhmjIHPPRIHb8K3Vh1-wsb3l1n.jpeg)
 We work with Git all the time.
 Did you ever get to a point where you said: “uh-oh, what did I just do?”
 This post will give you the tools to rewrite history.
 
-### [73. Reflinks vs symlinks vs hard links, and  how they can help machine learning projects](https://hackernoon.com/reflinks-vs-symlinks-vs-hard-links-and-how-they-can-help-machine-learning-projects-wz2ej3xa7)
-![](https://cdn.hackernoon.com/images/kt2dw3xti.jpg)
-Hard links and symbolic links have been available since time immemorial, and we use them all the time without even thinking about it. In machine learning projects they can help us, when setting up new experiments, to rearrange data files quickly and efficiently in machine learning projects. However, with traditional links, we run the risk of polluting the data files with erroneous edits. In this blog post we’ll go over the details of using links, some cool new stuff in modern file systems (reflinks), and an example of how DVC (Data Version Control, https://dvc.org/) leverages this.
+### [72. 15 Essential GitHub Repos for Web Developers in 2021](https://hackernoon.com/15-essential-github-repos-for-web-developers-in-2021)
+![](https://cdn.hackernoon.com/images/SX77kQ7AuphQDZQhV7OSkx49OZc2-3e5d4923.jpeg)
+Using Github Repositories can be a helpful tool to learn coding. Here are 15 Most Valuable GitHub Repos for Web Devs in 2021 and what you can learn from them. 
 
-### [74. Building Homebrew Taps for Private GitHub Repos](https://hackernoon.com/building-homebrew-taps-for-private-github-repos)
+### [73. Building Homebrew Taps for Private GitHub Repos](https://hackernoon.com/building-homebrew-taps-for-private-github-repos)
 ![](https://cdn.hackernoon.com/images/LzlJRsSJuRfJC4zNDExqH4rt0cI3-ed93pts.jpeg)
 How to create private homebrew taps
+
+### [74. Reflinks vs symlinks vs hard links, and  how they can help machine learning projects](https://hackernoon.com/reflinks-vs-symlinks-vs-hard-links-and-how-they-can-help-machine-learning-projects-wz2ej3xa7)
+![](https://cdn.hackernoon.com/images/kt2dw3xti.jpg)
+Hard links and symbolic links have been available since time immemorial, and we use them all the time without even thinking about it. In machine learning projects they can help us, when setting up new experiments, to rearrange data files quickly and efficiently in machine learning projects. However, with traditional links, we run the risk of polluting the data files with erroneous edits. In this blog post we’ll go over the details of using links, some cool new stuff in modern file systems (reflinks), and an example of how DVC (Data Version Control, https://dvc.org/) leverages this.
 
 ### [75. 6 GitHub Repositories For Instant Knowledge Boost](https://hackernoon.com/6-github-repos-for-instant-knowledge-boost-nnz32jf)
 ![](https://cdn.hackernoon.com/drafts/4pi132k1.png)
@@ -328,17 +330,17 @@ Why taking good notes is critical for a software developers?
 ![](https://cdn.hackernoon.com/images/ek1pi3ybp.jpg)
 As a developer, if you have discovered that you have just exposed a sensitive file or secrets to a public git repository, there are some very important steps to follow.
 
-### [81. An Introduction to Holochain: Concept, Architecture, and DHTs](https://hackernoon.com/an-introduction-to-holochain-concept-architecture-and-dhts-rsj13awc)
+### [81. Why You Shouldn’t Be Afraid of Rebases in Git](https://hackernoon.com/why-you-shouldnt-be-afraid-of-rebases-in-git)
+![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-zn92duv.jpeg)
+Rebases are a way of making your crude commit history into something you’ll want to share with the rest of your team.
+
+### [82. An Introduction to Holochain: Concept, Architecture, and DHTs](https://hackernoon.com/an-introduction-to-holochain-concept-architecture-and-dhts-rsj13awc)
 ![](https://cdn.hackernoon.com/images/5xx636v6.jpg)
 Holochain is a git (free and open source distributed version control system) that does not require Proof of Work (PoW) and Proof of Stake (PoS). It is based on the DHT (distributed hash table) protocol utilized by BitTorrent for data lookup and file sharing.
 
-### [82. Literally Everything the Hacker Noon Dev Team Did in 2019](https://hackernoon.com/literally-everything-the-hacker-noon-dev-team-did-in-2019-mvo33iu)
+### [83. Literally Everything the Hacker Noon Dev Team Did in 2019](https://hackernoon.com/literally-everything-the-hacker-noon-dev-team-did-in-2019-mvo33iu)
 ![](https://cdn.hackernoon.com/drafts/as22d2law.png)
 Below is a list of every PR that was merged at Hacker Noon in 2019. In the coming weeks, expect to see regular product updates (with a bit more context 😉), but for now, please enjoy this dump of commit messages I put together in 15-20 minutes.
-
-### [83. Why You Shouldn’t Be Afraid of Rebases in Git](https://hackernoon.com/why-you-shouldnt-be-afraid-of-rebases-in-git)
-![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-zn92duv.jpeg)
-Rebases are a way of making your crude commit history into something you’ll want to share with the rest of your team.
 
 ### [84. Using Git Merge to Merge Changes from other Branches](https://hackernoon.com/using-git-merge-to-merge-changes-from-other-branches)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-nn93smc.jpeg)
@@ -356,17 +358,17 @@ How to work with git
 ![](https://cdn.hackernoon.com/images/RgWOTEIKFjaPmuk0FKWfkuoejiA2-ag9o22ff.jpeg)
 Data Version Control (DVC) is a data-focused version of Git. In fact, it’s almost exactly like Git in terms of features and workflows associated with it.
 
-### [88. Git and GitHub Explained](https://hackernoon.com/git-and-github-explained)
+### [88. A Guide to Closing a Pull Request — Merge Commit vs Squash vs Rebase on GitHub](https://hackernoon.com/a-guide-to-closing-a-pull-request-merge-commit-vs-squash-vs-rebase-on-github)
+![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-wu93o6d.jpeg)
+Still using Merge Commit for closing every Pull Request? You might miss out on some advantages of Rebase or Squash.
+
+### [89. Git and GitHub Explained](https://hackernoon.com/git-and-github-explained)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-rb93mk4.jpeg)
 A brief introduction to Git and Github, two services that the vast majority of developers are intimately familiar with thanks to how incredibly useful they are.
 
-### [89. Git-Flow is the Source of Productivity, Not Confusion](https://hackernoon.com/git-flow-is-the-source-of-productivity-not-confusion-4k3d3wro)
+### [90. Git-Flow is the Source of Productivity, Not Confusion](https://hackernoon.com/git-flow-is-the-source-of-productivity-not-confusion-4k3d3wro)
 ![](https://images.unsplash.com/photo-1531030874896-fdef6826f2f7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 The architecture of the development workflow is designed based on the quality and quantity of releases. Here, quality refers to the state of bug-free or feature set in each release. And, quantity refers to the number of releases over the course of development. This architecture is not usually that complex; however, it can be a source of confusion.
-
-### [90. A Guide to Closing a Pull Request — Merge Commit vs Squash vs Rebase on GitHub](https://hackernoon.com/a-guide-to-closing-a-pull-request-merge-commit-vs-squash-vs-rebase-on-github)
-![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-wu93o6d.jpeg)
-Still using Merge Commit for closing every Pull Request? You might miss out on some advantages of Rebase or Squash.
 
 ### [91. How to Use Git to See Recent Changes in a Specified Time Period](https://hackernoon.com/how-to-use-git-to-see-recent-changes-in-a-specified-time-period)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-lk93ot5.jpeg)
@@ -388,17 +390,17 @@ Git, an open source distributed version control system has been helping develope
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-pg92qav.jpeg)
 A short article about how Git hash-based decentralized filesystem work
 
-### [96. Step-by-Step Guide for Installing Gitea on Debian 11](https://hackernoon.com/step-by-step-guide-for-installing-gitea-on-debian-11)
-![](https://cdn.hackernoon.com/images/g8d3oHAdHpNfqbOkOEDOqYqvVrz2-1r92qx3.jpeg)
-How you can ditch the Big Git and self host your own gitea server.
+### [96. 7 Ways You Can Use Git to Boost Productivity](https://hackernoon.com/7-ways-you-can-use-git-to-boost-productivity)
+![](https://cdn.hackernoon.com/images/chDXuB6Q8sgQGp1TgJW4wl9ir0K2-lf92814.jpeg)
+Git is the most popular source control system. In this post, I'll show some of these features that will make your work easier when using Git.
 
 ### [97. Lesser-Known Git Commands to Elevate Your Version Control](https://hackernoon.com/lesser-known-git-commands-to-elevate-your-version-control)
 ![](https://cdn.hackernoon.com/images/dZ3TG9R6Y7aVtcAYqwIkEWHvAah2-zca3lji.jpeg)
 Certain Git commands are like old friends: pull, commit, push, rebase, stash, and checkout. But within Git's vast expanse lies a world of lesser-known commands.
 
-### [98. 7 Ways You Can Use Git to Boost Productivity](https://hackernoon.com/7-ways-you-can-use-git-to-boost-productivity)
-![](https://cdn.hackernoon.com/images/chDXuB6Q8sgQGp1TgJW4wl9ir0K2-lf92814.jpeg)
-Git is the most popular source control system. In this post, I'll show some of these features that will make your work easier when using Git.
+### [98. Step-by-Step Guide for Installing Gitea on Debian 11](https://hackernoon.com/step-by-step-guide-for-installing-gitea-on-debian-11)
+![](https://cdn.hackernoon.com/images/g8d3oHAdHpNfqbOkOEDOqYqvVrz2-1r92qx3.jpeg)
+How you can ditch the Big Git and self host your own gitea server.
 
 ### [99. How to Integrate Playwright in Your GitHub Action CI](https://hackernoon.com/how-to-integrate-playwright-in-your-github-action-ci)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oe92i2j.jpeg)
@@ -408,29 +410,29 @@ In this post I will go through all the info you need to integrate Playwright in 
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-of93o4l.jpeg)
 Have you ever found a bug inducing line change in your code, and wondered who made the change to that line? Fortunately, git has a command for that
 
-### [101. The Most Useful Git Commands for Junior Android Developers](https://hackernoon.com/the-most-useful-git-commands-for-junior-android-developers)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-dg93mwp.jpeg)
-Junior Android developers should make sure to master these Git commands before they even get their first job.
-
-### [102. How to Make an Unforgettable Code Review? Guide for Authors](https://hackernoon.com/how-to-make-an-unforgettable-code-review-guide-for-authors)
+### [101. How to Make an Unforgettable Code Review? Guide for Authors](https://hackernoon.com/how-to-make-an-unforgettable-code-review-guide-for-authors)
 ![](https://cdn.hackernoon.com/images/8S7YTEYJyrdVGKzKgPKnA471tYm1-rv93ofa.jpeg)
 Code review is an integral part of any software development process. Here are a couple of rules for making great code review.
 
-### [103. Share All Your Cool Tricks and Tips for Using Git and GitHub Effectively [Writing Prompt]](https://hackernoon.com/share-all-your-cool-tricks-and-tips-for-using-git-and-github-effectively-writing-prompt)
+### [102. The Git Commands Your Career Will Depend On](https://hackernoon.com/the-git-commands-your-career-will-depend-on)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-dr931vh.jpeg)
+Here are my most used Git commands
+
+### [103. The Most Useful Git Commands for Junior Android Developers](https://hackernoon.com/the-most-useful-git-commands-for-junior-android-developers)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-dg93mwp.jpeg)
+Junior Android developers should make sure to master these Git commands before they even get their first job.
+
+### [104. Share All Your Cool Tricks and Tips for Using Git and GitHub Effectively [Writing Prompt]](https://hackernoon.com/share-all-your-cool-tricks-and-tips-for-using-git-and-github-effectively-writing-prompt)
 ![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-7y93nfn.jpeg)
 If you’re interested in writing about Git as in the process of learning, developing the code and the job interviews, feel free to use these writing prompts.
-
-### [104. What Git Could Look Like in Web 3.0](https://hackernoon.com/what-would-git-could-look-like-in-web-30-xdt3wdx)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxYGjom6yiYQPQ4VqYy1aZLGllOP2-nv963ubv.jpeg?alt=media&token=8434d798-6b7c-455e-8d2b-c6433b827c9e)
-A Distributed Version Control System that can be navigated via a block explorer.
 
 ### [105. Unlocking IaC Part 5: What Is Git Branching?](https://hackernoon.com/unlocking-iac-part-5-what-is-git-branching)
 ![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-6r935mp.jpeg)
 Git branches are separate lines of development that diverge from the main codebase.
 
-### [106. The Git Commands Your Career Will Depend On](https://hackernoon.com/the-git-commands-your-career-will-depend-on)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-dr931vh.jpeg)
-Here are my most used Git commands
+### [106. What Git Could Look Like in Web 3.0](https://hackernoon.com/what-would-git-could-look-like-in-web-30-xdt3wdx)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxYGjom6yiYQPQ4VqYy1aZLGllOP2-nv963ubv.jpeg?alt=media&token=8434d798-6b7c-455e-8d2b-c6433b827c9e)
+A Distributed Version Control System that can be navigated via a block explorer.
 
 ### [107. Writing Good Commit Messages: A Practical Guide](https://hackernoon.com/writing-good-commit-messages-a-practical-guide-1j11i3y4c)
 ![](https://cdn.hackernoon.com/images/ska53y45.jpg)
@@ -460,21 +462,21 @@ view on that. The question was about treating document as part of a
 continuous integration and continuous deployment system. That question 
 came at the time when I wasn’t treating doc as code and ironically, I now have a perspective.
 
-### [113. Introduction to Git: Basic Commands Everyone Should Know](https://hackernoon.com/introduction-to-git-basic-commands-everyone-should-know-c53e31sr)
-![](https://cdn.hackernoon.com/images/9S1vwdm8BSSIM68NViog8lnaQPi2-8t3v210e.jpeg)
-In the previous article, we talked about the basic concepts of Git every developer should know. In this article, I will be explaining to you what Git is, and the basic commands to get you up and running. Let’s get started!
-
-### [114. 🕵️‍♂️ Learning to Use Git Alias to Boost Your Productivity](https://hackernoon.com/learning-to-use-git-alias-to-boost-your-productivity)
+### [113. 🕵️‍♂️ Learning to Use Git Alias to Boost Your Productivity](https://hackernoon.com/learning-to-use-git-alias-to-boost-your-productivity)
 ![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-u293oxa.jpeg)
 Repeating the same git commands over and over again can be such a waste of time! 
 
-### [115. The Git Flow Process is a Great Way to Manage Your Software Releases](https://hackernoon.com/the-git-flow-process-is-a-great-way-to-manage-your-software-releases)
-![](https://cdn.hackernoon.com/images/HngJgs258QbK4JYoyc9brCmxP342-6l93tie.jpeg)
-The Git Flow process is a proven method for managing version control and release of software.
+### [114. Introduction to Git: Basic Commands Everyone Should Know](https://hackernoon.com/introduction-to-git-basic-commands-everyone-should-know-c53e31sr)
+![](https://cdn.hackernoon.com/images/9S1vwdm8BSSIM68NViog8lnaQPi2-8t3v210e.jpeg)
+In the previous article, we talked about the basic concepts of Git every developer should know. In this article, I will be explaining to you what Git is, and the basic commands to get you up and running. Let’s get started!
 
-### [116. 7 Git Practices to Start Using in Your Next Commit](https://hackernoon.com/7-git-practices-to-start-using-in-your-next-commit-t78t3y6v)
+### [115. 7 Git Practices to Start Using in Your Next Commit](https://hackernoon.com/7-git-practices-to-start-using-in-your-next-commit-t78t3y6v)
 ![](https://cdn.hackernoon.com/drafts/igbt3y0x.png)
 Every software has best practices. Git is not different. It has become the most used versioning system in the last years. Many companies adopted git because of its features. If you wonder why git is so powerful, here are some of the advantages over other versioning systems, like Subversion:
+
+### [116. The Git Flow Process is a Great Way to Manage Your Software Releases](https://hackernoon.com/the-git-flow-process-is-a-great-way-to-manage-your-software-releases)
+![](https://cdn.hackernoon.com/images/HngJgs258QbK4JYoyc9brCmxP342-6l93tie.jpeg)
+The Git Flow process is a proven method for managing version control and release of software.
 
 ### [117. Understanding the Open Source Culture: Best Practices to Contribute Effectively](https://hackernoon.com/understanding-the-open-source-culture-best-practices-to-contribute-effectively)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-k0b3nht.jpeg)
@@ -488,25 +490,25 @@ Deepen your understanding of git internals and learn what to do when you wish yo
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV9J0kJWT15dwSuG3CLQTn9lZjeE3-dj93tlc.png?alt=media&token=dacacdfa-249f-40b1-bd25-9b33a5d65e99)
 I’ve created this “BitBucket vs GitHub” content piece to help you make a better decision when picking between the two.
 
-### [120. GitHub is Amazing, but its Terms of Service is Extremely Concerning](https://hackernoon.com/github-is-amazing-but-its-terms-of-service-is-extremely-concerning-yfc3xh4)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgpabZ3ae5AMod6NEaJWlcWwdp7G2-ra1113yn.jpeg?alt=media&token=85df0f5e-8390-4239-a8c4-d51e04c9567d)
-Lots of websites have a termination clause, even Hackernoon, however, when it comes to the case of open source software this can be extremely concerning. The reason goes much deeper than you think.
+### [120. Now You Can Use GitHub Issues to Track Customer Feedback](https://hackernoon.com/now-you-can-use-github-issues-to-track-customer-feedback)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-0693pai.jpeg)
+If you need a simple issue tracker for your app I'd recommend looking into using Github issues via the API, at least until it stops working for you!
 
 ### [121. C# Automation: Using .Net Core To Organize My Downloads Folder](https://hackernoon.com/c-automation-using-net-core-to-organize-my-downloads-folder)
 ![](https://cdn.hackernoon.com/images/RXadfDF7FAUpoNxhRqBIwlyiOM02-ac93wvy.jpeg)
 Clean up your digital life with a cross-platform .Net bot. Organize files effortlessly by type and date.
 
-### [122. Now You Can Use GitHub Issues to Track Customer Feedback](https://hackernoon.com/now-you-can-use-github-issues-to-track-customer-feedback)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-0693pai.jpeg)
-If you need a simple issue tracker for your app I'd recommend looking into using Github issues via the API, at least until it stops working for you!
+### [122. GitHub is Amazing, but its Terms of Service is Extremely Concerning](https://hackernoon.com/github-is-amazing-but-its-terms-of-service-is-extremely-concerning-yfc3xh4)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgpabZ3ae5AMod6NEaJWlcWwdp7G2-ra1113yn.jpeg?alt=media&token=85df0f5e-8390-4239-a8c4-d51e04c9567d)
+Lots of websites have a termination clause, even Hackernoon, however, when it comes to the case of open source software this can be extremely concerning. The reason goes much deeper than you think.
 
-### [123. Mastering Git and Version Control: A Beginner's Guide](https://hackernoon.com/mastering-git-and-version-control-a-beginners-guide)
-![](https://cdn.hackernoon.com/images/lsrpqdnkG3dZmeCVhPouglp4K6J3-gr9312t.jpeg)
-Understanding version control and mastering git - The basics...!! 
-
-### [124. 5 Simple Tips to Become a Better Programmer](https://hackernoon.com/5-simple-tips-to-become-a-better-programmer)
+### [123. 5 Simple Tips to Become a Better Programmer](https://hackernoon.com/5-simple-tips-to-become-a-better-programmer)
 ![](https://cdn.hackernoon.com/images/xW8Q0uYJUTMJrV73OYEylMCCQOn1-34a2ie6.jpeg)
 Developing software is more than just 'coding'. To grow as a programmer, you'll have to master other practices — here are 5 timeless tools and methods.
+
+### [124. Mastering Git and Version Control: A Beginner's Guide](https://hackernoon.com/mastering-git-and-version-control-a-beginners-guide)
+![](https://cdn.hackernoon.com/images/lsrpqdnkG3dZmeCVhPouglp4K6J3-gr9312t.jpeg)
+Understanding version control and mastering git - The basics...!! 
 
 ### [125. Embed Github Gists in your Hacker Noon Stories](https://hackernoon.com/embed-github-gists-in-your-hacker-noon-stories)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F6sWrtbrOmsOIbrWzrG88lYfV4ch1-m5f2v12.gif?alt=media&token=7e2c5d41-763a-41d7-90d4-2eda3d7b2057)
@@ -528,13 +530,13 @@ Sometimes, when we are making changes to a project in git, we realize we suddenl
 ![](https://cdn.hackernoon.com/images/aWeuhEqfLzNsvET8lSU6HiYqFYg1-4c7d32t8.jpeg)
 This article will explain how to import a project from Git to Azure Repos in 6 easy steps.
 
-### [130. How to Use Platypush to Set Up Self-Hosted CI/CD Git Pipelines ](https://hackernoon.com/how-to-use-platypush-to-set-up-self-hosted-cicd-git-pipelines-6r2q33ln)
-![](https://cdn.hackernoon.com/images/QTdu6Xy6ybX5moDaFNuGeYEDmX83-y42z13ue.jpeg)
-How to use Platypush to set up self-hosted build and test pipelines for your Gitlab and Github projects.
-
-### [131. How to Improve Team Communication with Conventional Commit Messages ](https://hackernoon.com/use-conventional-commit-messages-to-improve-team-communication)
+### [130. How to Improve Team Communication with Conventional Commit Messages ](https://hackernoon.com/use-conventional-commit-messages-to-improve-team-communication)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-x69309s.jpeg)
 Sometimes, when working in a team or open source organization, you may misspell a message or make errors in your repository's commits
+
+### [131. How to Use Platypush to Set Up Self-Hosted CI/CD Git Pipelines ](https://hackernoon.com/how-to-use-platypush-to-set-up-self-hosted-cicd-git-pipelines-6r2q33ln)
+![](https://cdn.hackernoon.com/images/QTdu6Xy6ybX5moDaFNuGeYEDmX83-y42z13ue.jpeg)
+How to use Platypush to set up self-hosted build and test pipelines for your Gitlab and Github projects.
 
 ### [132. The Right Way to Use Git](https://hackernoon.com/the-right-way-to-use-git)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ef03ogi.jpeg)
@@ -578,29 +580,29 @@ When I started programming, Code Review wasn’t part of my routine. First, like
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-9de3ub2.gif?alt=media&token=5091db9c-ce9b-4909-b525-998ec069bdde)
 Many developers are familiar with the situation like “where did this code fragment come from and why is it needed?”. You have to spend time and deal with the details already considered by another colleague. How to make it take a less amount of time? To achieve this, pay attention to a process of writing descriptions for Pull Requests (known as “PRs”) and Merge Requests (known as “MRs”). This article will focus on the content of the PR description without any explanation of coding since each project has its own coding-related specifications and requirements.
 
-### [142. Git Commands You Can Use To Dig Through Your Git History](https://hackernoon.com/git-commands-you-can-use-to-dig-through-your-git-history-g31e3368)
-![](https://cdn.hackernoon.com/images/5NZWyPc47pMbzpEcMC8q4ylcm6l1-hpm33q5.jpeg)
-In this short article, we’ll be exploring some quick git commands that can help us in digging through our repositories’ history of commits.
-
-### [143. Basic Git Commands](https://hackernoon.com/basic-git-commands-qjw3uiz)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHExYQQEHgrZXXeb6otuXegKrHLg1-dz9m3u52.webp?alt=media&token=e03336ce-6d46-4d61-a942-4859f7ba92e6)
-If you’re a Software developer, you cannot live without interacting with Git and it is never too late for anything!
-
-### [144. A Modern Take on the Terminal Experience](https://hackernoon.com/a-modern-take-on-the-terminal-experience)
+### [142. A Modern Take on the Terminal Experience](https://hackernoon.com/a-modern-take-on-the-terminal-experience)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-8o02prs.jpeg)
 Several tools have emerged to enhance the command-line experience, and Warp is one of the latest options aiming to streamline these processes.
 
-### [145. Top 5 Tips for Becoming a Git Expert](https://hackernoon.com/top-5-tips-for-becoming-a-git-expert-usl35gq)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-ov13359x.jpeg)
-Becoming a Git power user is on the bucket list of every developer. With our 5 Git tips you will level up your workflow and get one step closer to Git mastery!
+### [143. Git Commands You Can Use To Dig Through Your Git History](https://hackernoon.com/git-commands-you-can-use-to-dig-through-your-git-history-g31e3368)
+![](https://cdn.hackernoon.com/images/5NZWyPc47pMbzpEcMC8q4ylcm6l1-hpm33q5.jpeg)
+In this short article, we’ll be exploring some quick git commands that can help us in digging through our repositories’ history of commits.
+
+### [144. Basic Git Commands](https://hackernoon.com/basic-git-commands-qjw3uiz)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHExYQQEHgrZXXeb6otuXegKrHLg1-dz9m3u52.webp?alt=media&token=e03336ce-6d46-4d61-a942-4859f7ba92e6)
+If you’re a Software developer, you cannot live without interacting with Git and it is never too late for anything!
+
+### [145. A Comprehensive Guide to the Difference Between Git vs GitHub](https://hackernoon.com/a-comprehensive-guide-to-the-difference-between-git-vs-github)
+![](https://cdn.hackernoon.com/images/NPpeHHzuHSQz9hZ52qrNTgG9C6a2-h393wiu.jpeg)
+Git and GitHub are used to manage code. To  help you use both services to their maximum, we will explain the distinctions between Git and GitHub in this blog.
 
 ### [146. An Intro to Git for Beginners ](https://hackernoon.com/an-intro-to-git-for-beginners)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-8d93ocj.jpeg)
 Git is an essential tool for version control, no matter what programming language or framework you use.
 
-### [147. A Comprehensive Guide to the Difference Between Git vs GitHub](https://hackernoon.com/a-comprehensive-guide-to-the-difference-between-git-vs-github)
-![](https://cdn.hackernoon.com/images/NPpeHHzuHSQz9hZ52qrNTgG9C6a2-h393wiu.jpeg)
-Git and GitHub are used to manage code. To  help you use both services to their maximum, we will explain the distinctions between Git and GitHub in this blog.
+### [147. Top 5 Tips for Becoming a Git Expert](https://hackernoon.com/top-5-tips-for-becoming-a-git-expert-usl35gq)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-ov13359x.jpeg)
+Becoming a Git power user is on the bucket list of every developer. With our 5 Git tips you will level up your workflow and get one step closer to Git mastery!
 
 ### [148. A Deep Dive Into the GitOps World](https://hackernoon.com/a-deep-dive-into-the-gitops-world)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-rv93ctz.jpeg)
@@ -614,154 +616,154 @@ Gitignore lets you give instructions to Git that makes it ignore name patters th
 ![](https://cdn.hackernoon.com/images/eEKnKNvz4GhzakXZkv2SzcmgnG73-22831jg.jpeg)
 Knowing how to use and create branches, commits, and pull requests are basic concepts, but not everyone gives them the importance they deserve.
 
-### [151. How Different Tools Enable a More Inclusive Language In Software Development World](https://hackernoon.com/how-different-tools-enable-a-more-inclusive-language-in-software-development-world-fp2l3uet)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FdZ3TG9R6Y7aVtcAYqwIkEWHvAah2-ju143urk.jpeg?alt=media&token=ed2e6e86-328c-4342-878a-05cbffe3ecb5)
-Are terminologies meaningful in software development? Yes, a lot! As developers, we’re continually writing code, and we do that by passing messages. Each message carries a lot of context and semantics. Therefore we’re always evolving how to do it in a better way.
-
-### [152. 5 Git Tips You Should Try For Better Workflow](https://hackernoon.com/5-git-tips-you-should-try-for-better-workflow-2b6f35g1)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-c31035s8.jpeg)
-No matter how experienced you are, Git will always find a way to surprise you. It is loaded with neat tricks that have the power to make your daily coding routi
-
-### [153. How Git stores data](https://hackernoon.com/how-git-stores-data)
+### [151. How Git stores data](https://hackernoon.com/how-git-stores-data)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-gza2i51.jpeg)
 
 
-### [154. How to Protect Your Git Secrets](https://hackernoon.com/how-to-protect-your-git-secrets-m12n3w73)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaX0f3qWtq8ekISsR1JAtVEyR6r12-35m3wx6.png?alt=media&token=8fc95d62-8d86-4574-b3f6-68bd7fd27bb6)
-Are you worried about your security codes and keys? Worried about their safety? Are you looking for ways to protect your Git secrets? If so, then you are in the right place. And in this post, I will share everything you need to know about Git best practices to protect your Git secrets.
+### [152. How Different Tools Enable a More Inclusive Language In Software Development World](https://hackernoon.com/how-different-tools-enable-a-more-inclusive-language-in-software-development-world-fp2l3uet)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FdZ3TG9R6Y7aVtcAYqwIkEWHvAah2-ju143urk.jpeg?alt=media&token=ed2e6e86-328c-4342-878a-05cbffe3ecb5)
+Are terminologies meaningful in software development? Yes, a lot! As developers, we’re continually writing code, and we do that by passing messages. Each message carries a lot of context and semantics. Therefore we’re always evolving how to do it in a better way.
 
-### [155. Unlocking Git's Hidden Powers: 5 Configuration Tips for Effortless Version Control](https://hackernoon.com/unlocking-gits-hidden-powers-5-configuration-tips-for-effortless-version-control)
+### [153. 5 Git Tips You Should Try For Better Workflow](https://hackernoon.com/5-git-tips-you-should-try-for-better-workflow-2b6f35g1)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-c31035s8.jpeg)
+No matter how experienced you are, Git will always find a way to surprise you. It is loaded with neat tricks that have the power to make your daily coding routi
+
+### [154. Unlocking Git's Hidden Powers: 5 Configuration Tips for Effortless Version Control](https://hackernoon.com/unlocking-gits-hidden-powers-5-configuration-tips-for-effortless-version-control)
 ![](https://cdn.hackernoon.com/images/LRB5LYpbVegJNYN0HOdaZcNPe9s1-ctb3xmh.png)
 Five tips to make the best out of Git config
 
-### [156. Amending and Updating a Git Commit](https://hackernoon.com/amending-and-updating-a-git-commit)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-hg93oqc.jpeg)
-Now, you can easily update your commit messages by simply adding --amend to your git command.
-
-### [157. Here's the Quick Guide You Need to Solve All Your Git Issues!](https://hackernoon.com/heres-the-quick-guide-you-need-to-solve-all-your-git-issues)
+### [155. Here's the Quick Guide You Need to Solve All Your Git Issues!](https://hackernoon.com/heres-the-quick-guide-you-need-to-solve-all-your-git-issues)
 ![](https://cdn.hackernoon.com/images/rklQdWiRIHQDhmQ2G0J4cCI4OQZ2-so93o8c.jpeg)
 The best way to become a better developer is to make contributions easy. What better way to do that then mastering git and Github
+
+### [156. Everything You Need to Know About GitHub Copilot](https://hackernoon.com/everything-you-need-to-know-about-github-copilot-yg5p37rc)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-lge3773.jpeg)
+GitHub Copilot is an AI pair programmer. GitHub Copilot is powered by a new AI system developed by OpenAI Codex and is coming soon to Visual Studio Code.
+
+### [157. Amending and Updating a Git Commit](https://hackernoon.com/amending-and-updating-a-git-commit)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-hg93oqc.jpeg)
+Now, you can easily update your commit messages by simply adding --amend to your git command.
 
 ### [158. A Complete Guide to Code Reviews](https://hackernoon.com/a-complete-guide-to-code-reviews)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-vb93sz6.jpeg)
 Code review is not a battlefield, the reviewer is not an opponent of the author. Both of them are aligned on the same goals.
 
-### [159. How to Use Git With SVN: Harmonizing Version Control](https://hackernoon.com/how-to-use-git-with-svn-harmonizing-version-control)
+### [159. How to Protect Your Git Secrets](https://hackernoon.com/how-to-protect-your-git-secrets-m12n3w73)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaX0f3qWtq8ekISsR1JAtVEyR6r12-35m3wx6.png?alt=media&token=8fc95d62-8d86-4574-b3f6-68bd7fd27bb6)
+Are you worried about your security codes and keys? Worried about their safety? Are you looking for ways to protect your Git secrets? If so, then you are in the right place. And in this post, I will share everything you need to know about Git best practices to protect your Git secrets.
+
+### [160. How to Use Git With SVN: Harmonizing Version Control](https://hackernoon.com/how-to-use-git-with-svn-harmonizing-version-control)
 ![](https://cdn.hackernoon.com/images/harmony-gdtkngcwgshx7bycfww8m0ta.png)
 We'll guide you on how to use Git alongside SVN. You can enjoy the features of Git during development while still adhering to your company's version control
 
-### [160. Git3 – First Alpha Release](https://hackernoon.com/git3-first-alpha-release-co1n32ix)
+### [161. Git3 – First Alpha Release](https://hackernoon.com/git3-first-alpha-release-co1n32ix)
 ![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-ce1732pi.jpeg)
 Putting source control on the blockchain. Step-by-step guide for the very first git3 alpha release.
 
-### [161. Everything You Need to Know About GitHub Copilot](https://hackernoon.com/everything-you-need-to-know-about-github-copilot-yg5p37rc)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-lge3773.jpeg)
-GitHub Copilot is an AI pair programmer. GitHub Copilot is powered by a new AI system developed by OpenAI Codex and is coming soon to Visual Studio Code.
+### [162. Git Worktree: How It Can Help You Enhance Your Git Workflow](https://hackernoon.com/git-worktree-how-it-can-help-you-enhance-your-git-workflow)
+![](https://cdn.hackernoon.com/images/3Vna4om76QPQz8Wmb35XIlnD4GG2-7m92csa.jpeg)
+Git worktree allows us to checkout many branches in a git repository. This lets us switch between different branches  without losing our changes.
 
-### [162. How to Run Multiple Terminal Commands in ONE, Like a Boss](https://hackernoon.com/run-multiple-terminal-commands-in-one-like-a-boss)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-4b13o0a.jpeg)
-Buck is a free, open-source and lightweight CLI tool used by developers to group multiple terminal commands into one.
-
-### [163. 5 Metrics Engineering Managers Can Extract from Pull Requests](https://hackernoon.com/5-metrics-engineering-managers-can-extract-from-pull-requests-h41332yl)
-![](https://cdn.hackernoon.com/drafts/gksm3270.png)
-Many Engineering Managers promote Pull Requests as part of the development workflow. It’s a consolidated practice that brings lots of benefits. It consists of comparing the changes of a branch with the repository’s base branch (conventionally called master).
-
-### [164. Doing Quick Experiments In Git](https://hackernoon.com/doing-quick-experiment-in-git-ihfab30mh)
+### [163. Doing Quick Experiments In Git](https://hackernoon.com/doing-quick-experiment-in-git-ihfab30mh)
 ![](https://cdn.hackernoon.com/images/ybfbp30fo.jpg)
 Sometimes in the middle of software development, you want to try some crazy idea out but don't want to mess up with current code. What should you do?
 
-### [165. Git Essentials: Boosting Productivity w/ Efficient Code Tracking ](https://hackernoon.com/git-essentials-boosting-productivity-w-efficient-code-tracking)
+### [164. Git Essentials: Boosting Productivity w/ Efficient Code Tracking ](https://hackernoon.com/git-essentials-boosting-productivity-w-efficient-code-tracking)
 ![](https://cdn.hackernoon.com/images/5EiKboAxZhXMXqh4gqp7BUh0chf1-fh93tw1.png)
 This blog post discusses how software developers collaborate and track changes in their code using a tool called Git. Read on to know more…
 
 
-### [166. Git Worktree: How It Can Help You Enhance Your Git Workflow](https://hackernoon.com/git-worktree-how-it-can-help-you-enhance-your-git-workflow)
-![](https://cdn.hackernoon.com/images/3Vna4om76QPQz8Wmb35XIlnD4GG2-7m92csa.jpeg)
-Git worktree allows us to checkout many branches in a git repository. This lets us switch between different branches  without losing our changes.
+### [165. How to Run Multiple Terminal Commands in ONE, Like a Boss](https://hackernoon.com/run-multiple-terminal-commands-in-one-like-a-boss)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-4b13o0a.jpeg)
+Buck is a free, open-source and lightweight CLI tool used by developers to group multiple terminal commands into one.
 
-### [167. GIT-version Your AWS CloudFormation Parameters using Stackuchin](https://hackernoon.com/git-version-your-aws-cloudformation-parameters-using-9sw3uj5)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F-t8233wjo?alt=media&token=80e7aafd-3021-4a24-a979-eb8cb42798d8)
-Full disclosure: I'm the CTO of https://rungutan.com - the first API Load Testing SaaS platform, 100% Serverless, API driven, finally available for SMBs, the company which has built this open-source software - Stackuchin.
+### [166. 5 Metrics Engineering Managers Can Extract from Pull Requests](https://hackernoon.com/5-metrics-engineering-managers-can-extract-from-pull-requests-h41332yl)
+![](https://cdn.hackernoon.com/drafts/gksm3270.png)
+Many Engineering Managers promote Pull Requests as part of the development workflow. It’s a consolidated practice that brings lots of benefits. It consists of comparing the changes of a branch with the repository’s base branch (conventionally called master).
 
-### [168. Git Commands Cheat Sheet That Could Save you From a Headache](https://hackernoon.com/git-commands-cheat-sheet-that-could-save-you-from-a-headache-nm3u31oq)
-![](https://cdn.hackernoon.com/images/QyAjPSH5fVS6Xi0iNUkeB4pzthH2-m6t250k.jpeg)
-This Git command sheet is for non-beginners and is mainly dedicated to fixing Git mistakes.
-
-### [169. Git - 1 How to Get Started With Git](https://hackernoon.com/git-1-how-to-get-started-with-git)
-![](https://cdn.hackernoon.com/images/goeRGaydmfM3jUz9zt8uwW9lho83-9b830ox.jpeg)
-This guide covers Git basics: 'git config', 'git init', 'git add', 'git commit', and the importance of clear commit messages for effective collaboration.
-
-### [170. Quick Guide to Install Node, Yarn, Git and VSCode on Linux, Mac, and Windows](https://hackernoon.com/quick-guide-to-install-node-yarn-git-and-vscode-on-linux-mac-and-windows-9r1i37xl)
+### [167. Quick Guide to Install Node, Yarn, Git and VSCode on Linux, Mac, and Windows](https://hackernoon.com/quick-guide-to-install-node-yarn-git-and-vscode-on-linux-mac-and-windows-9r1i37xl)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-4m1g29oa.jpeg)
 How to install Node, Yarn, Git and VSCode on Linux, Mac and Windows, a simple and easy guide to follow.
 
-### [171. Top 5 Tips for Securing Your GitOps Environments](https://hackernoon.com/top-5-tips-for-securing-your-gitops-environments)
+### [168. Git - 1 How to Get Started With Git](https://hackernoon.com/git-1-how-to-get-started-with-git)
+![](https://cdn.hackernoon.com/images/goeRGaydmfM3jUz9zt8uwW9lho83-9b830ox.jpeg)
+This guide covers Git basics: 'git config', 'git init', 'git add', 'git commit', and the importance of clear commit messages for effective collaboration.
+
+### [169. Mastering Git: To Git Pull and Git Push - An Easy-to-Follow Guide](https://hackernoon.com/mastering-git-to-git-pull-and-git-push-an-easy-to-follow-guide)
+![](https://cdn.hackernoon.com/images/TbvBlyikqbYO9TG8r4NopOMeGSs1-zf822z8.jpeg)
+git pull and git push are foundational commands in Git’s version control system, enabling seamless collaboration and effective management of project changes. By
+
+### [170. GIT-version Your AWS CloudFormation Parameters using Stackuchin](https://hackernoon.com/git-version-your-aws-cloudformation-parameters-using-9sw3uj5)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F-t8233wjo?alt=media&token=80e7aafd-3021-4a24-a979-eb8cb42798d8)
+Full disclosure: I'm the CTO of https://rungutan.com - the first API Load Testing SaaS platform, 100% Serverless, API driven, finally available for SMBs, the company which has built this open-source software - Stackuchin.
+
+### [171. Git Commands Cheat Sheet That Could Save you From a Headache](https://hackernoon.com/git-commands-cheat-sheet-that-could-save-you-from-a-headache-nm3u31oq)
+![](https://cdn.hackernoon.com/images/QyAjPSH5fVS6Xi0iNUkeB4pzthH2-m6t250k.jpeg)
+This Git command sheet is for non-beginners and is mainly dedicated to fixing Git mistakes.
+
+### [172. Top 5 Tips for Securing Your GitOps Environments](https://hackernoon.com/top-5-tips-for-securing-your-gitops-environments)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-xi93qrz.jpeg)
 Here are the top 5 Tips for securing GitOps environments.
-
-### [172. 8 underrated Git commands every programmer should know (not the usual pull, push, add, commit)](https://hackernoon.com/8-underrated-git-commands-every-programmer-should-know-not-the-usual-pull-push-add-commit-qk17356a)
-![](https://cdn.hackernoon.com/images/dQivUEEj1RcFc2A4GiaE0hI9ypA3-pw5933a4.jpeg)
-These are some of the most useful Git commands that helped me during my programming journey. 
 
 ### [173. What Happens When Novelists Write Like Developers](https://hackernoon.com/what-happens-when-novelists-write-like-developers)
 ![](https://cdn.hackernoon.com/images/EqMnnVDPScQPDbgaFMh3s9hrGgt1-nt03m3w.png)
 Swap Word for an IDE: use VS Code, Markdown, Git version control/branches, and built-in AI to draft, revise, and safeguard your novel like a developer.
 
-### [174. Mastering Git: To Git Pull and Git Push - An Easy-to-Follow Guide](https://hackernoon.com/mastering-git-to-git-pull-and-git-push-an-easy-to-follow-guide)
-![](https://cdn.hackernoon.com/images/TbvBlyikqbYO9TG8r4NopOMeGSs1-zf822z8.jpeg)
-git pull and git push are foundational commands in Git’s version control system, enabling seamless collaboration and effective management of project changes. By
+### [174. 8 underrated Git commands every programmer should know (not the usual pull, push, add, commit)](https://hackernoon.com/8-underrated-git-commands-every-programmer-should-know-not-the-usual-pull-push-add-commit-qk17356a)
+![](https://cdn.hackernoon.com/images/dQivUEEj1RcFc2A4GiaE0hI9ypA3-pw5933a4.jpeg)
+These are some of the most useful Git commands that helped me during my programming journey. 
 
-### [175. Journalot – Building a Git-Backed Journaling CLI That Developers Actually Use](https://hackernoon.com/journalot-building-a-git-backed-journaling-cli-that-developers-actually-use)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9g022i4.jpeg)
-No accounts, no sync services, just markdown files in a git repo. Works on Mac/Linux. MIT licensed.
-
-### [176. Make Your Life Easier With These Git Workflows: Part I](https://hackernoon.com/make-your-life-easier-with-these-git-workflows-part-i-mb243ztb)
+### [175. Make Your Life Easier With These Git Workflows: Part I](https://hackernoon.com/make-your-life-easier-with-these-git-workflows-part-i-mb243ztb)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5LFDCJYr0SelsSK4fHdzBS1eHdV2-dkc30k5.png?alt=media&token=039f2343-28c9-4f5d-8e77-6489ddd554a4)
 I will describe how to make your life easier as a programmer with these useful tips on using Git. Before reading this, I recommend that you have a basic understand on how Git works.
 
-### [177. Open Source Contribution for Dummies: A Quick Guide for Beginners](https://hackernoon.com/open-source-contribution-for-dummies-a-quick-gide-for-beginners)
+### [176. Open Source Contribution for Dummies: A Quick Guide for Beginners](https://hackernoon.com/open-source-contribution-for-dummies-a-quick-gide-for-beginners)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-ed036u0.jpeg)
 There are some unofficial rules and guidelines developers should strive to follow as closely as possible when making an open source contribution.
 
-### [178. Hacktoberfest 2020: Let’s Get Hacking](https://hackernoon.com/hacktoberfest-2020-lets-get-hacking-ed9q3t62)
+### [177. Hacktoberfest 2020: Let’s Get Hacking](https://hackernoon.com/hacktoberfest-2020-lets-get-hacking-ed9q3t62)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FdvK7CsPK4GT11AHCjD9DRVb7GUy1-3373tl7.jpeg?alt=media&token=361a43c6-9663-4e13-80df-ae606fe9d127)
 It's October and we're calling all programmers, designers, content writers and open-source contributors to join Hacktoberfest 2020. This is a fantastic opportunity to contribute to open-source or try your hand at something new.
 
-### [179. How to Simplify Your Workflow With Pre-Commit Hooks](https://hackernoon.com/how-to-simplify-your-workflow-with-pre-commit-hooks)
+### [178. How to Simplify Your Workflow With Pre-Commit Hooks](https://hackernoon.com/how-to-simplify-your-workflow-with-pre-commit-hooks)
 ![](https://cdn.hackernoon.com/images/gtSwy6u1vhgivwjbXJNzIKXLQFB3-elb2l7l.jpeg)
 Pre-commit is a simple yet powerful tool that can help you catch these issues before they make it into your codebase. It is a git hook script.
 
-### [180. How-to Declutter Your Data Science Workspace](https://hackernoon.com/how-to-declutter-your-data-science-workspace-1lyl3nr2)
+### [179. How-to Declutter Your Data Science Workspace](https://hackernoon.com/how-to-declutter-your-data-science-workspace-1lyl3nr2)
 ![](https://cdn.hackernoon.com/images/jb2cu3ncx.jpg)
 Working on a data science project is almost always equivalent to an amazing clutter in the working directory. Data scientists would most likely have the following materials dumped in their project working directory:
 
-### [181. Is GitOps the Emperor With No Clothes?](https://hackernoon.com/is-gitops-the-emperor-with-no-clothes)
+### [180. Is GitOps the Emperor With No Clothes?](https://hackernoon.com/is-gitops-the-emperor-with-no-clothes)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-cc92hp5.jpeg)
 GitOps makes me think of the old Hans Christian Andersen tale, about what’s real and what’s imagined. 
+
+### [181. Interplanetary Versioned File System](https://hackernoon.com/interplanetary-versioned-file-system)
+![](https://cdn.hackernoon.com/images/u9GiHUrKXAb43BcKSHXVMlkqOEX2-0w93obp.jpeg)
+IPVFS: A light weight version control system for files on the Interplanetary File System.
 
 ### [182. Git Tutorial: How To See Your Most Used Git Commands Using a Script](https://hackernoon.com/git-tutorial-how-to-see-your-most-used-git-commands-using-a-script-a13r33ac)
 ![](https://cdn.hackernoon.com/images/5NZWyPc47pMbzpEcMC8q4ylcm6l1-v12l334z.png)
 Git has many commands but you can be productive with just a few. I used a script to fetch my most git commands sorted by the number of their occurrences.
 
-### [183. Interplanetary Versioned File System](https://hackernoon.com/interplanetary-versioned-file-system)
-![](https://cdn.hackernoon.com/images/u9GiHUrKXAb43BcKSHXVMlkqOEX2-0w93obp.jpeg)
-IPVFS: A light weight version control system for files on the Interplanetary File System.
+### [183. A Side Effect of Storing a Git Repository in iCloud Drive ](https://hackernoon.com/a-side-effect-of-storing-a-git-repository-in-icloud-drive)
+![](https://cdn.hackernoon.com/images/9eRJGjuP3qTsjsnX7FmbA9BWX8i2-9y92cot.jpeg)
+Learn how to tackle Git errors and file conflicts in notes repositories synced via iCloud, and apply solutions for smooth version control.
 
 ### [184. Building a Custom Query Language (GQL) for .git Files](https://hackernoon.com/building-a-custom-query-language-gql-for-git-files)
 ![](https://cdn.hackernoon.com/images/dkdP4VfxtrUVSMiq5X0VGwTQuZ23-bnb2kmt.jpeg)
 Recently,  I came across the functions of each file inside the .git folder. This game me the idea to develop a query language that operates on these files. 
 
-### [185. Git Reflog: Your Local Time Machine](https://hackernoon.com/git-reflog-your-local-time-machine-q73y3ygd)
+### [185. How to Amplify the Growth of Your OSS Community on GitHub](https://hackernoon.com/how-to-amplify-the-growth-of-your-oss-community-on-github)
+![](https://cdn.hackernoon.com/images/46r7B36ZH3SbJMt0oevk5FjrjTH2-nd93pnk.jpeg)
+How to grow an open source project on github
+
+### [186. Git Reflog: Your Local Time Machine](https://hackernoon.com/git-reflog-your-local-time-machine-q73y3ygd)
 ![](https://cdn.hackernoon.com/images/1k5mb3kdq.jpg)
 Sometimes, we make do some unintentionally merge or rebase which we wish we could recover to the previous stage. But there is no commit for you to get back. That moment, you probably feel like the git log - time machine which  you admire become not really helpful. But you should know that "git log" is not the only way to trace the history. There is another kind of git history which been keep tracked in your local and your local only, which is so-call reflog. This reflog stores the whole shebang of you local activities and you can undo almost everything with it.
 
-### [186. A Side Effect of Storing a Git Repository in iCloud Drive ](https://hackernoon.com/a-side-effect-of-storing-a-git-repository-in-icloud-drive)
-![](https://cdn.hackernoon.com/images/9eRJGjuP3qTsjsnX7FmbA9BWX8i2-9y92cot.jpeg)
-Learn how to tackle Git errors and file conflicts in notes repositories synced via iCloud, and apply solutions for smooth version control.
-
-### [187. How to Amplify the Growth of Your OSS Community on GitHub](https://hackernoon.com/how-to-amplify-the-growth-of-your-oss-community-on-github)
-![](https://cdn.hackernoon.com/images/46r7B36ZH3SbJMt0oevk5FjrjTH2-nd93pnk.jpeg)
-How to grow an open source project on github
+### [187. Conventional Commits: A Guide to Writing Structured Git Commit Messages](https://hackernoon.com/conventional-commits-a-guide-to-writing-structured-git-commit-messages)
+![](https://cdn.hackernoon.com/images/78kNIsLeIBej8RGcxq4WHfXD93i2-yba212m.jpeg)
+Learn Conventional Commits to write clean, structured Git messages and automate changelogs, versioning, and collaboration.
 
 ### [188. Introduction to Git Bisect: Find Commits that Introduced a Bug](https://hackernoon.com/introduction-to-git-bisect-find-commits-that-introduced-a-bug-jy4k31v7)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-z73x31bl.jpeg)
@@ -781,61 +783,61 @@ I will dive into this based on a super big study we
 ![](https://cdn.hackernoon.com/images/eZLaaX4pv3hXfgmMhUJ311PQUNJ2-ya93u2i.jpeg)
 This GitOps guide discusses continuous integration vs continuous delivery, what is GitOps, 5 best GitOps practices, ArgoCD vs Flux2, continuous integration, etc
 
-### [192. "The pandemic has literally changed my perspective towards life" – Karan Jagota, 2020 Noonie Nominee](https://hackernoon.com/the-pandemic-has-literally-changed-my-perspective-towards-life-karan-jagota-2020-noonie-nominee-zf4h3uxg)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-vr473up7.jpeg?alt=media&token=073e25dc-dd1d-4782-95f2-415926b19500)
-Hacker Noon's annual Noonie awards help shine a spotlight on some of the greatest minds in tech. Head over to our awards page and nominate YOUR best people and products today at NOONIES.TECH.
-
-### [193. How to Commit and Push a Blank Directory to Your Git Repository?](https://hackernoon.com/how-to-commit-and-push-a-blank-directory-to-your-git-repository)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-2793ksf.jpeg)
-Usually, blank directories are not pushed when you commit and push new code to your repository. Let's look at how to push a blank directory to your git repo.
-
-### [194. 5 JetBrains Plugins to Upgrade the Built-In Git Support to the Next Level](https://hackernoon.com/5-jetbrains-plugins-to-upgrade-the-built-in-git-support-to-the-next-level)
-![](https://cdn.hackernoon.com/images/9UlvSh9ttdMj2eri9LzNcvR8FgB3-7dl3o2a.jpeg)
-These five JetBrains Git Plugins can drastically improve your productivity by adding new features and utilities to assist you with your coding projects 
-
-### [195. Git Commands You're Always Forgetting](https://hackernoon.com/git-commands-youre-always-forgetting)
+### [192. Git Commands You're Always Forgetting](https://hackernoon.com/git-commands-youre-always-forgetting)
 ![](https://cdn.hackernoon.com/images/qyvXjsqKFBgWZYdxv699upeR7D72-0e839xb.jpeg)
 Did you find yourself cursing at your terminal because you forgot that one Git command? Yeah, me too. So, I decided to put down these Git commands I always forg
 
-### [196. Using Git Hooks for Automated Secrets Detection](https://hackernoon.com/using-git-hooks-for-automated-secrets-detection-z55c3y3c)
-![](https://cdn.hackernoon.com/images/sy263ypo.jpg)
-Git hooks are extremely useful in the journey to replace as much of the human factor in the process of secure development as possible.
+### [193. "The pandemic has literally changed my perspective towards life" – Karan Jagota, 2020 Noonie Nominee](https://hackernoon.com/the-pandemic-has-literally-changed-my-perspective-towards-life-karan-jagota-2020-noonie-nominee-zf4h3uxg)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-vr473up7.jpeg?alt=media&token=073e25dc-dd1d-4782-95f2-415926b19500)
+Hacker Noon's annual Noonie awards help shine a spotlight on some of the greatest minds in tech. Head over to our awards page and nominate YOUR best people and products today at NOONIES.TECH.
 
-### [197. The 10 Things Git Pros Don't Want You to Know ](https://hackernoon.com/the-10-things-git-pros-dont-want-you-to-know)
+### [194. How to Commit and Push a Blank Directory to Your Git Repository?](https://hackernoon.com/how-to-commit-and-push-a-blank-directory-to-your-git-repository)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-2793ksf.jpeg)
+Usually, blank directories are not pushed when you commit and push new code to your repository. Let's look at how to push a blank directory to your git repo.
+
+### [195. 5 JetBrains Plugins to Upgrade the Built-In Git Support to the Next Level](https://hackernoon.com/5-jetbrains-plugins-to-upgrade-the-built-in-git-support-to-the-next-level)
+![](https://cdn.hackernoon.com/images/9UlvSh9ttdMj2eri9LzNcvR8FgB3-7dl3o2a.jpeg)
+These five JetBrains Git Plugins can drastically improve your productivity by adding new features and utilities to assist you with your coding projects 
+
+### [196. The 10 Things Git Pros Don't Want You to Know ](https://hackernoon.com/the-10-things-git-pros-dont-want-you-to-know)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2z02pjd.png)
 Git lessons step by step, breaking them down so any beginner can understand and implement them confidently.
 
-### [198. Git Basics](https://hackernoon.com/git-basics-zoy3tte)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBUwotd3IBTbSWt8nKNHREwinBqw1-1d53ugo.jpeg?alt=media&token=9e56d4b7-4ab6-46ac-ab6c-830815f645cc)
-To playing with git you have to do the following things step by step
-
-### [199. It's Not All Rosy Out Here: The Challenges of Everything-as-Code](https://hackernoon.com/its-not-all-rosy-out-here-the-challenges-of-everything-as-code)
+### [197. It's Not All Rosy Out Here: The Challenges of Everything-as-Code](https://hackernoon.com/its-not-all-rosy-out-here-the-challenges-of-everything-as-code)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-z592c9k.png)
 In this post I’ll take a look at the benefits of everything-as-code before considering some of the gaps that remain. 
 
-### [200. 12 Interview Questions to Teach You How Git Works](https://hackernoon.com/12-interview-questions-to-teach-you-how-git-works)
-![](https://cdn.hackernoon.com/images/9XknCnZTKoYkhLw6ANWS7J1i9RQ2-1q03d2s.jpeg)
-Prepare for frontend interviews with 12 essential Git questions and answers - covering git-flow, rebase vs merge, cherry-pick, pull requests, and real-world Git
+### [198. Using Git Hooks for Automated Secrets Detection](https://hackernoon.com/using-git-hooks-for-automated-secrets-detection-z55c3y3c)
+![](https://cdn.hackernoon.com/images/sy263ypo.jpg)
+Git hooks are extremely useful in the journey to replace as much of the human factor in the process of secure development as possible.
+
+### [199. Git Basics](https://hackernoon.com/git-basics-zoy3tte)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBUwotd3IBTbSWt8nKNHREwinBqw1-1d53ugo.jpeg?alt=media&token=9e56d4b7-4ab6-46ac-ab6c-830815f645cc)
+To playing with git you have to do the following things step by step
+
+### [200. Coding in Public Transit: How I Just Barely Shipped a New Site with Pylon, Tin, and TeamCode ](https://hackernoon.com/coding-in-public-transit-i-just-barely-shipped-a-new-site-with-pylon-tin-and-teamcode)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-zo93id4.jpeg)
+A How-To Guide on Creating a Cloud Collaborative Workspace using Pylon and Tin, with the help of Git respositories. No installation needed!
 
 ### [201. How to Win Git and Influence Repositories: 15 Git Commands Every Engineer Needs](https://hackernoon.com/how-to-win-git-and-influence-repositories-15-git-commands-every-engineer-needs)
 ![](https://cdn.hackernoon.com/images/8S7YTEYJyrdVGKzKgPKnA471tYm1-8i93k0u.png)
 The version control system is the foundation of the basics, without which it is impossible to conduct team product development in our time.
 
-### [202. Coding in Public Transit: How I Just Barely Shipped a New Site with Pylon, Tin, and TeamCode ](https://hackernoon.com/coding-in-public-transit-i-just-barely-shipped-a-new-site-with-pylon-tin-and-teamcode)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-zo93id4.jpeg)
-A How-To Guide on Creating a Cloud Collaborative Workspace using Pylon and Tin, with the help of Git respositories. No installation needed!
-
-### [203. Using 'Git Pull' for Force Overwriting Local Changes](https://hackernoon.com/using-git-pull-for-force-overwriting-local-changes)
+### [202. Using 'Git Pull' for Force Overwriting Local Changes](https://hackernoon.com/using-git-pull-for-force-overwriting-local-changes)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-jc93o5r.jpeg)
 Have you ever been working on a project in git and ran into an error telling you that you can't use git pull because you have local changes?
 
-### [204. The HackerNoon Newsletter: Can ChatGPT Outperform the Market? Week 15 (11/10/2025)](https://hackernoon.com/11-10-2025-newsletter)
+### [203. The HackerNoon Newsletter: Can ChatGPT Outperform the Market? Week 15 (11/10/2025)](https://hackernoon.com/11-10-2025-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_539_q5l9xhvet6tg5b5vzzgl904c.png)
 11/10/2025: Top 5 stories on the HackerNoon homepage!
 
-### [205. Writing Effective Commit Messages: Best Practices and Conventional Commits](https://hackernoon.com/writing-effective-commit-messages-best-practices-and-conventional-commits)
+### [204. Writing Effective Commit Messages: Best Practices and Conventional Commits](https://hackernoon.com/writing-effective-commit-messages-best-practices-and-conventional-commits)
 ![](https://cdn.hackernoon.com/images/YRaBw26oTddAlVDuWlFAngZSlvY2-2d93t04.jpeg)
 The Ultimate Guide to Writing Effective Commit Messages: Best Practices and Conventional Commits.
+
+### [205. Seamless Deployment to Aptible: Choosing the Right Approach](https://hackernoon.com/seamless-deployment-to-aptible-choosing-the-right-approach)
+![](https://cdn.hackernoon.com/images/programmer-c1mbp98fabk0f186rk7515x8.png)
+Exploring ways to deploy simple spring-boot application to Aptible.
 
 ### [206. Proudly Wear Your Contribution Map](https://hackernoon.com/proudly-wear-your-contribution-map-i33c3bm7)
 ![](https://cdn.hackernoon.com/images/sfag37sm.jpg)
@@ -843,170 +845,174 @@ Currently We're creating a project that gives people an opportunity to wear pers
 
 Our first launch is GitMerch.com (promo code = SALE20), where everyone can print a T-Shirt with his own contributions map on it. 
 
-### [207. Seamless Deployment to Aptible: Choosing the Right Approach](https://hackernoon.com/seamless-deployment-to-aptible-choosing-the-right-approach)
-![](https://cdn.hackernoon.com/images/programmer-c1mbp98fabk0f186rk7515x8.png)
-Exploring ways to deploy simple spring-boot application to Aptible.
-
-### [208. Open-Sourcing Code from a Private Monorepo](https://hackernoon.com/open-sourcing-code-from-a-private-monorepo)
+### [207. Open-Sourcing Code from a Private Monorepo](https://hackernoon.com/open-sourcing-code-from-a-private-monorepo)
 ![](https://cdn.hackernoon.com/images/illustrate-code-blocks-clhg498vs000001s66jdk7xf5.png)
 A blog post explaining how we open source code from our private monorepo
 
-### [209. Git Ahead Dashboard: A Quick Guide](https://hackernoon.com/git-ahead-dashboard-a-quick-guide)
+### [208. Git Ahead Dashboard: A Quick Guide](https://hackernoon.com/git-ahead-dashboard-a-quick-guide)
 ![](https://cdn.hackernoon.com/images/0aSFrLbaCteYHVcDBHsLMalscwz1-wdb35hu.png)
 A small script for quickly getting information about the ahead/behind state of your services' branches
 
-### [210. Removing Bugs in Git](https://hackernoon.com/removing-bugs-in-git-d9qz3yu9)
+### [209. Removing Bugs in Git](https://hackernoon.com/removing-bugs-in-git-d9qz3yu9)
 ![](https://cdn.hackernoon.com/images/to5l53yrh.jpg)
 When you are working on a huge project, you may discover bugs in the code that prevent you from proceeding any further in your development. How to fix them?
 
-### [211. Three GitHub Features You’re Missing Out On](https://hackernoon.com/three-github-features-youre-missing-out-on-tj1i3yph)
-![](https://cdn.hackernoon.com/images/9b363y49.jpg)
-Did you ever have a friend you only ever saw in one place? Maybe it was a bar, your knitting club, or at the school gates. 
+### [210. Journalot – Building a Git-Backed Journaling CLI That Developers Actually Use](https://hackernoon.com/journalot-building-a-git-backed-journaling-cli-that-developers-actually-use)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9g022i4.jpeg)
+No accounts, no sync services, just markdown files in a git repo. Works on Mac/Linux. MIT licensed.
 
-### [212. How to Automate Git Workflows with Git Hooks 🚀](https://hackernoon.com/how-to-automate-git-workflows-with-git-hooks)
-![](https://cdn.hackernoon.com/images/jStFgqJ9QRdiGkR6khwJAgLD6Dl2-kf83vyc.png)
-Automate Your Git Workflows with Git Hooks 🚀
-
-### [213. Make a Code Review Great Again: Patterns of Quick and Effective Code Quality Control](https://hackernoon.com/make-a-code-review-great-again-patterns-of-quick-and-effective-code-quality-control)
-![](https://cdn.hackernoon.com/images/JG7t4PlqbId6T1BVFWx7bA6vkfw1-s383k1i.png)
-Code review is an essential tool for code quality control in the programming industry. This topic has caught my attention for many years, and I would like to sh
-
-### [214. Amend vs Reset: 4 Simple Ways to Reverse a Git Commit  ](https://hackernoon.com/amend-vs-reset-4-simple-ways-to-reverse-a-git-commit)
-![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-3w93o97.jpeg)
-If you want to keep your history clean and make your mistake disappear, let me show you 4 different ways to undo a commit.
-
-### [215. How To Manage Multiple Git Configurations](https://hackernoon.com/how-to-manage-multiple-git-configurations-hv1031z9)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fw6nChTHNOCU9E5LJPl5vCkNOrBB3-e5k3ecg.jpeg?alt=media&token=c2e2a39a-b946-4854-8502-e03b315698e1)
-Using the same computer for both work-related and personal projects may cause you to write Git commit messages with your private email on your work projects or vice-versa. That is assuming that you configured Git with the --global flag, which applies the configs to every repo on your OS user account.
-
-### [216. A Simple Way to Rename Local and Remote Git Branch](https://hackernoon.com/a-simple-way-to-rename-local-and-remote-git-branch)
-![](https://cdn.hackernoon.com/images/kw6AgCK3xsUyGcooHvUKqUiQ2An2-2w02bzo.jpeg)
-Have you ever come across a situation where you want to rename a Git branch? If yes then this article will help you with that.
-
-### [217. Conventional Commit Specification Guidelines: What You Need to Know](https://hackernoon.com/conventional-commit-specification-guidelines-what-you-need-to-know)
-![](https://cdn.hackernoon.com/images/ShmnQXcdfVdXRwiMjk9rkBzw3d43-6r833yu.jpeg)
-Conventional commit specification for writing good commit messages and making commit history standardized and clean as indirect documentation
-
-### [218. Using OhMyPosh and CascadiaCode: Elevating PowerShell and Integrating with Git in Windows](https://hackernoon.com/using-ohmyposh-and-cascadiacode-elevating-powershell-and-integrating-with-git-in-windows)
+### [211. Using OhMyPosh and CascadiaCode: Elevating PowerShell and Integrating with Git in Windows](https://hackernoon.com/using-ohmyposh-and-cascadiacode-elevating-powershell-and-integrating-with-git-in-windows)
 ![](https://cdn.hackernoon.com/images/sHlS9kz5JWgDC6Irc6Iw1ZTwUGE2-rrf320q.jpeg)
 Learn how to integrate Oh My Posh, a cross-platform tool that lets you create beautiful and informative prompts for PowerShell.
 
-### [219. Git Guide 3: diff and patch](https://hackernoon.com/file-comparison-using-the-diff-command-in-git)
-![](https://cdn.hackernoon.com/images/goeRGaydmfM3jUz9zt8uwW9lho83-0zb3r12.jpeg)
-The `diff -u` command shows file differences side-by-side, and `patch` applies these changes.
+### [212. Three GitHub Features You’re Missing Out On](https://hackernoon.com/three-github-features-youre-missing-out-on-tj1i3yph)
+![](https://cdn.hackernoon.com/images/9b363y49.jpg)
+Did you ever have a friend you only ever saw in one place? Maybe it was a bar, your knitting club, or at the school gates. 
 
-### [220. 5 Steps You Need to Make as Beginner Web Developer](https://hackernoon.com/5-steps-you-need-to-make-as-beginner-web-developer-6ydq3yky)
-![](https://cdn.hackernoon.com/drafts/zw162ezy.png)
-When most people fantasize about the idea of starting a web development hobby (or career) they get eventually frustrated. Hard.
+### [213. Amend vs Reset: 4 Simple Ways to Reverse a Git Commit  ](https://hackernoon.com/amend-vs-reset-4-simple-ways-to-reverse-a-git-commit)
+![](https://cdn.hackernoon.com/images/sRxI3vZiX2Qj4CDJaY5YTK4h9DB3-3w93o97.jpeg)
+If you want to keep your history clean and make your mistake disappear, let me show you 4 different ways to undo a commit.
 
-### [221. An Introduction to GitOps and DevOps for Developers](https://hackernoon.com/an-introduction-to-gitops-and-devops-for-developers)
+### [214. How to Automate Git Workflows with Git Hooks 🚀](https://hackernoon.com/how-to-automate-git-workflows-with-git-hooks)
+![](https://cdn.hackernoon.com/images/jStFgqJ9QRdiGkR6khwJAgLD6Dl2-kf83vyc.png)
+Automate Your Git Workflows with Git Hooks 🚀
+
+### [215. Make a Code Review Great Again: Patterns of Quick and Effective Code Quality Control](https://hackernoon.com/make-a-code-review-great-again-patterns-of-quick-and-effective-code-quality-control)
+![](https://cdn.hackernoon.com/images/JG7t4PlqbId6T1BVFWx7bA6vkfw1-s383k1i.png)
+Code review is an essential tool for code quality control in the programming industry. This topic has caught my attention for many years, and I would like to sh
+
+### [216. Conventional Commit Specification Guidelines: What You Need to Know](https://hackernoon.com/conventional-commit-specification-guidelines-what-you-need-to-know)
+![](https://cdn.hackernoon.com/images/ShmnQXcdfVdXRwiMjk9rkBzw3d43-6r833yu.jpeg)
+Conventional commit specification for writing good commit messages and making commit history standardized and clean as indirect documentation
+
+### [217. How To Manage Multiple Git Configurations](https://hackernoon.com/how-to-manage-multiple-git-configurations-hv1031z9)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fw6nChTHNOCU9E5LJPl5vCkNOrBB3-e5k3ecg.jpeg?alt=media&token=c2e2a39a-b946-4854-8502-e03b315698e1)
+Using the same computer for both work-related and personal projects may cause you to write Git commit messages with your private email on your work projects or vice-versa. That is assuming that you configured Git with the --global flag, which applies the configs to every repo on your OS user account.
+
+### [218. An Introduction to GitOps and DevOps for Developers](https://hackernoon.com/an-introduction-to-gitops-and-devops-for-developers)
 ![](https://cdn.hackernoon.com/images/fw8ocvywhXVM4WgsICL9PB8GAoI3-5v93l2d.jpeg)
 Businesses need manageable and automatable approaches to CI/CD and DevOps to succeed in building and maintaining cloud-native applications, and devs love GitOps
 
-### [222. Understanding Git Push and Rebase Defaults: A Hands-On Guide](https://hackernoon.com/understanding-git-push-and-rebase-defaults-a-hands-on-guide)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-lw02r25.jpeg)
-Learn what really happens when you run git push and git rebase without options.
+### [219. A Simple Way to Rename Local and Remote Git Branch](https://hackernoon.com/a-simple-way-to-rename-local-and-remote-git-branch)
+![](https://cdn.hackernoon.com/images/kw6AgCK3xsUyGcooHvUKqUiQ2An2-2w02bzo.jpeg)
+Have you ever come across a situation where you want to rename a Git branch? If yes then this article will help you with that.
 
-### [223. Git and Folder (Non)Tracking](https://hackernoon.com/git-and-folder-nontracking)
-![](https://cdn.hackernoon.com/images/v7u9onaK6aUS5BvHI1ZqT7sQZC62-x3a3k9o.png)
-The lack of folder tracking in git as a version control system is a pain in collaborative engineering. This post will unpack this.
+### [220. Git Guide 3: diff and patch](https://hackernoon.com/file-comparison-using-the-diff-command-in-git)
+![](https://cdn.hackernoon.com/images/goeRGaydmfM3jUz9zt8uwW9lho83-0zb3r12.jpeg)
+The `diff -u` command shows file differences side-by-side, and `patch` applies these changes.
 
-### [224. We Wrote a Code Review Guide—Here's What Worked](https://hackernoon.com/we-wrote-a-code-review-guideheres-what-worked)
+### [221. We Wrote a Code Review Guide—Here's What Worked](https://hackernoon.com/we-wrote-a-code-review-guideheres-what-worked)
 ![](https://cdn.hackernoon.com/images/9aq1Rw1NGBeeBk5gJaKnen6uzMg1-5o0390y.png)
 We created a code review guide to align expectations, improve feedback quality, and make reviews feel collaborative instead of gatekeeping. Here’s what worked.
 
-### [225. Optimizing .NET Development Workflow with Git Hooks and Husky.NET](https://hackernoon.com/optimizing-net-development-workflow-with-git-hooks-and-huskynet)
-![](https://cdn.hackernoon.com/images/sHlS9kz5JWgDC6Irc6Iw1ZTwUGE2-9w932vl.jpeg)
-A Git commit represents the status of a system. Learn how to validate that your code builds, is well-formatted, and all the tests pass by adding a Git hook!
+### [222. Git and Folder (Non)Tracking](https://hackernoon.com/git-and-folder-nontracking)
+![](https://cdn.hackernoon.com/images/v7u9onaK6aUS5BvHI1ZqT7sQZC62-x3a3k9o.png)
+The lack of folder tracking in git as a version control system is a pain in collaborative engineering. This post will unpack this.
+
+### [223. 5 Steps You Need to Make as Beginner Web Developer](https://hackernoon.com/5-steps-you-need-to-make-as-beginner-web-developer-6ydq3yky)
+![](https://cdn.hackernoon.com/drafts/zw162ezy.png)
+When most people fantasize about the idea of starting a web development hobby (or career) they get eventually frustrated. Hard.
+
+### [224. Understanding Git Push and Rebase Defaults: A Hands-On Guide](https://hackernoon.com/understanding-git-push-and-rebase-defaults-a-hands-on-guide)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-lw02r25.jpeg)
+Learn what really happens when you run git push and git rebase without options.
+
+### [225. 12 Interview Questions to Teach You How Git Works](https://hackernoon.com/12-interview-questions-to-teach-you-how-git-works)
+![](https://cdn.hackernoon.com/images/9XknCnZTKoYkhLw6ANWS7J1i9RQ2-1q03d2s.jpeg)
+Prepare for frontend interviews with 12 essential Git questions and answers - covering git-flow, rebase vs merge, cherry-pick, pull requests, and real-world Git
 
 ### [226. Git Guide 4: Take Your First Steps With Git](https://hackernoon.com/git-guide-4-take-your-first-steps-with-git)
 ![](https://cdn.hackernoon.com/images/goeRGaydmfM3jUz9zt8uwW9lho83-di830ai.jpeg)
 git config; git init; git add; git status; git commit; Learn all of these and more as you take your first steps with Git
 
-### [227. Get Your Pull Requests Approved and Merged in No Time](https://hackernoon.com/how-to-get-your-pull-request-pr-approved-and-merged-quickly-6tn32n7)
-![](drafts/zh5k32ri.png)
-Have you ever faced a call to completely redesign your code in one of your pull requests? I have and then thought what are the ways to avoid this. Call it a pull request or merge request, basically, it is a set of changes you want to go ahead and merge to the main branch to deploy to production and complete your task. This post is going to highlight a semi silver bullet to get your pull requests merged faster :), carry on reading.
-
-### [228. How to Elevate Your Development Workflow With GitHub PR Templates! 🌟](https://hackernoon.com/how-to-elevate-your-development-workflow-with-github-pr-templates)
-![](https://cdn.hackernoon.com/images/jStFgqJ9QRdiGkR6khwJAgLD6Dl2-nc83z64.png)
-Elevate Your Development Workflow with GitHub PR Templates!
-Streamline Your Process with Custom Pull Request Templates
-
-### [229. Get Notified When There are Commits to Pull in VS Code](https://hackernoon.com/get-notified-when-there-are-commits-to-pull-in-vs-code)
+### [227. Get Notified When There are Commits to Pull in VS Code](https://hackernoon.com/get-notified-when-there-are-commits-to-pull-in-vs-code)
 ![](https://cdn.hackernoon.com/images/F3ZSsqKRGadVkDBs4QaFU5371x52-qv93o67.jpeg)
 With the help of GitLive’s new pull reminders, you can now pull sooner, reduce the chances of conflicts, and merge faster!
 
 
-### [230. Git Guide 0: How to Diff Files](https://hackernoon.com/git-guide-0-how-to-diff-files)
+### [228. Optimizing .NET Development Workflow with Git Hooks and Husky.NET](https://hackernoon.com/optimizing-net-development-workflow-with-git-hooks-and-huskynet)
+![](https://cdn.hackernoon.com/images/sHlS9kz5JWgDC6Irc6Iw1ZTwUGE2-9w932vl.jpeg)
+A Git commit represents the status of a system. Learn how to validate that your code builds, is well-formatted, and all the tests pass by adding a Git hook!
+
+### [229. How to Elevate Your Development Workflow With GitHub PR Templates! 🌟](https://hackernoon.com/how-to-elevate-your-development-workflow-with-github-pr-templates)
+![](https://cdn.hackernoon.com/images/jStFgqJ9QRdiGkR6khwJAgLD6Dl2-nc83z64.png)
+Elevate Your Development Workflow with GitHub PR Templates!
+Streamline Your Process with Custom Pull Request Templates
+
+### [230. Get Your Pull Requests Approved and Merged in No Time](https://hackernoon.com/how-to-get-your-pull-request-pr-approved-and-merged-quickly-6tn32n7)
+![](drafts/zh5k32ri.png)
+Have you ever faced a call to completely redesign your code in one of your pull requests? I have and then thought what are the ways to avoid this. Call it a pull request or merge request, basically, it is a set of changes you want to go ahead and merge to the main branch to deploy to production and complete your task. This post is going to highlight a semi silver bullet to get your pull requests merged faster :), carry on reading.
+
+### [231. Git Guide 0: How to Diff Files](https://hackernoon.com/git-guide-0-how-to-diff-files)
 ![](https://cdn.hackernoon.com/images/goeRGaydmfM3jUz9zt8uwW9lho83-na831yh.jpeg)
 The `diff` command compares files line by line, while `diff -u` (unified format) shows differences with context lines for easier patching.
 
-### [231. How to Participate in Hacktoberfest 2021: Ultimate Beginner's Guide](https://hackernoon.com/how-to-participate-in-hacktoberfest-2021-ultimate-beginners-guide)
+### [232. How to Participate in Hacktoberfest 2021: Ultimate Beginner's Guide](https://hackernoon.com/how-to-participate-in-hacktoberfest-2021-ultimate-beginners-guide)
 ![](https://cdn.hackernoon.com/images/uaPC3alJGZYWa8bXdj0MJNXLMDC2-nv0363g.jpeg)
 Hacktoberfest is round the corner and registrations are now open!
 
-### [232. GitOps For Beginners: Getting Started With Cloud-Native Architectures](https://hackernoon.com/gitops-for-beginners-getting-started-with-cloud-native-architectures)
+### [233. GitOps For Beginners: Getting Started With Cloud-Native Architectures](https://hackernoon.com/gitops-for-beginners-getting-started-with-cloud-native-architectures)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-iy82msb.jpeg)
 GitOps is a way to implement continuous deployment pipelines for cloud-native applications. This beginner's guide dives into getting started with it.
 
-### [233. The Most Important Git Command](https://hackernoon.com/the-most-important-git-command)
+### [234. The Most Important Git Command](https://hackernoon.com/the-most-important-git-command)
 ![](https://cdn.hackernoon.com/images/PA7takFZySUZchMFd41XWPvyvTz1-9c33kcd.jpeg)
 When working with Git, the most useful command is "git help", which provides us with all of the assistance we require.
 
 
-### [234. How Developers Can Use DevOps - Introduction and Version Control](https://hackernoon.com/how-developers-can-use-devops-introduction-and-version-control)
+### [235. How Developers Can Use DevOps - Introduction and Version Control](https://hackernoon.com/how-developers-can-use-devops-introduction-and-version-control)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-h0a2e3f.jpeg)
 Improving our DevOps skill can help us become better developers, teammates and managers. Learn DevOps principles and a different perspective on git.
 
-### [235. Master Git With 15 Essential Commands Every Developer Should Know](https://hackernoon.com/master-git-with-15-essential-commands-every-developer-should-know)
-![](https://cdn.hackernoon.com/images/zpA8BwP5iRUp1Yp5aGImZfUk4uw1-wv93qqs.jpeg)
-Check out these 15 essential commands that you should know as a git developer.
-
-### [236. How to Push an Empty Commit with Git](https://hackernoon.com/learn-to-push-an-empty-commit)
-![](https://cdn.hackernoon.com/images/kw6AgCK3xsUyGcooHvUKqUiQ2An2-1d12bww.jpeg)
-Have you ever faced the need to push a commit to a Git branch without changing any files in order to re-run your integration process?
-
-### [237. Introducing Tour My Pull Request For Github Extension](https://hackernoon.com/introducting-tour-my-pull-pequest-for-github-extension-341j3uqv)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-7bm28g6.jpeg?alt=media&token=ddf99f49-899b-4ac7-a0dc-8ecbe25880a5)
-Problem
-
-### [238. Code Reviews For Non-technical People. Explained.](https://hackernoon.com/how-to-explain-the-benefits-of-code-reviews-to-non-technical-people)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-vx93171.jpeg)
-
-
-### [239. Git Guide 1: How to Apply Changes](https://hackernoon.com/git-guide-1-how-to-apply-changes)
+### [236. Git Guide 1: How to Apply Changes](https://hackernoon.com/git-guide-1-how-to-apply-changes)
 ![](https://cdn.hackernoon.com/images/goeRGaydmfM3jUz9zt8uwW9lho83-ie831hj.jpeg)
 The `patch` command applies changes generated by the `diff` command to files, enabling updates from one version to another based on the differences.
 
-### [240. GitOps, Kubernetes, and Databases (Podcast Transcript)](https://hackernoon.com/gitops-kubernetes-and-databases-podcast-transcript-m5k35ne)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-nqa35xh.jpeg)
-Amy, Matt, and Curt talk about migrating from a SQL database to a NoSQL database, what happens when shit hits the fan, and assessing your database usage.
+### [237. Code Reviews For Non-technical People. Explained.](https://hackernoon.com/how-to-explain-the-benefits-of-code-reviews-to-non-technical-people)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-vx93171.jpeg)
+
+
+### [238. Master Git With 15 Essential Commands Every Developer Should Know](https://hackernoon.com/master-git-with-15-essential-commands-every-developer-should-know)
+![](https://cdn.hackernoon.com/images/zpA8BwP5iRUp1Yp5aGImZfUk4uw1-wv93qqs.jpeg)
+Check out these 15 essential commands that you should know as a git developer.
+
+### [239. Introducing Tour My Pull Request For Github Extension](https://hackernoon.com/introducting-tour-my-pull-pequest-for-github-extension-341j3uqv)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-7bm28g6.jpeg?alt=media&token=ddf99f49-899b-4ac7-a0dc-8ecbe25880a5)
+Problem
+
+### [240. How to Push an Empty Commit with Git](https://hackernoon.com/learn-to-push-an-empty-commit)
+![](https://cdn.hackernoon.com/images/kw6AgCK3xsUyGcooHvUKqUiQ2An2-1d12bww.jpeg)
+Have you ever faced the need to push a commit to a Git branch without changing any files in order to re-run your integration process?
 
 ### [241. 7 Ways to Manage Pull Requests](https://hackernoon.com/7-ways-to-manage-pull-requests-4p1f34oq)
 ![](https://cdn.hackernoon.com/images/j7ce57oSWrfwN8rcM3ORLLe4XAC2-8o4c34zb.jpeg)
 Improve your team's pull request management system to ship faster, more often. 
 
-### [242. Git Guide 2: A Practical Application of Diff and Patch](https://hackernoon.com/git-guide-2-a-practical-application-of-diff-and-patch)
+### [242. GitOps, Kubernetes, and Databases (Podcast Transcript)](https://hackernoon.com/gitops-kubernetes-and-databases-podcast-transcript-m5k35ne)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-nqa35xh.jpeg)
+Amy, Matt, and Curt talk about migrating from a SQL database to a NoSQL database, what happens when shit hits the fan, and assessing your database usage.
+
+### [243. Git Guide 2: A Practical Application of Diff and Patch](https://hackernoon.com/git-guide-2-a-practical-application-of-diff-and-patch)
 ![](https://cdn.hackernoon.com/images/goeRGaydmfM3jUz9zt8uwW9lho83-63830hp.jpeg)
 The practical application of `diff` and `patch` involves creating and applying updates or modifications to files, facilitating version control and collaboration
 
-### [243. Using the Binary Search Algorithm With Git and AWS Kinesis](https://hackernoon.com/using-the-binary-search-algorithm-with-git-and-aws-kinesis)
+### [244. Using the Binary Search Algorithm With Git and AWS Kinesis](https://hackernoon.com/using-the-binary-search-algorithm-with-git-and-aws-kinesis)
 ![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-bp93sbv.jpeg)
 Discover how the binary search algorithm improves performance in Git and AWS Kinesis. Learn how to implement it in your own projects for better efficiency.
 
-### [244. Mercurial Sunset: How To Automate the Bulk Transfer of Mercurial Repos to Git](https://hackernoon.com/mercurial-sunset-how-to-automate-the-bulk-transfer-of-mercurial-repos-to-git-nk7o3y6m)
+### [245. Mercurial Sunset: How To Automate the Bulk Transfer of Mercurial Repos to Git](https://hackernoon.com/mercurial-sunset-how-to-automate-the-bulk-transfer-of-mercurial-repos-to-git-nk7o3y6m)
 ![](https://cdn.hackernoon.com/images/npke3yeb.jpg)
 With Mercurial sunsetting support, it was time to move our repos. But how do you do this en masse?
 
-### [245. She's At The Edge Of The Cloud (Podcast Transcript)](https://hackernoon.com/shes-at-the-edge-of-the-cloud-podcast-transcript-y84n3568)
+### [246. She's At The Edge Of The Cloud (Podcast Transcript)](https://hackernoon.com/shes-at-the-edge-of-the-cloud-podcast-transcript-y84n3568)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-0db355u.jpeg)
 Amy Tom chats with Mark Gamble, the Product & Solutions Marketing Director at Couchbase, about Edge Computing and tiered data systems.
 
-### [246. How to Show Local Branches in Git](https://hackernoon.com/how-to-show-local-branches-in-git)
+### [247. How to Show Local Branches in Git](https://hackernoon.com/how-to-show-local-branches-in-git)
 ![](https://cdn.hackernoon.com/images/VBevBL05Y2fhcOqldZ8Te43n7Fx1-110373q.png)
 Use these commands to keep your project clean and track down unused branches.
 
-### [247. The Power of Git Bisect as Your Debugging Ally](https://hackernoon.com/the-power-of-git-bisect-as-your-debugging-ally)
+### [248. The Power of Git Bisect as Your Debugging Ally](https://hackernoon.com/the-power-of-git-bisect-as-your-debugging-ally)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-qt82mhs.jpeg)
 Explore how to use git bisect for efficient debugging, including tips on automating the process and handling skipped commits in your projects.
 

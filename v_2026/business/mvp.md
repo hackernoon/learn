@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [mvp](https://hackernoon.com/tagged/mvp)
+### Let's learn about [Mvp](https://hackernoon.com/tagged/mvp) via these 121 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 No, we're not talking about the most valuable player. MVP stands for "minimum viable product". 
 
 ### [1. How to Buy Awesome 20 Dollar Prescription Glasses from China 😎](https://hackernoon.com/how-to-buy-awesome-20-dollar-prescription-glasses-from-china-23c12816043)
@@ -156,133 +158,133 @@ Choosing the right tech stack for a startup: no-code VS low-code VS code
 ![](https://cdn.hackernoon.com/hn-images/1*u4arffmUYKQIkjssAW53pQ.png)
 Yesterday I tweeted that I’d be making one more “big” app before the end of the year. I asked if people preferred if I document the process as I go, or do a recap post at the end of the project.
 
-### [39. Do You Know How to Fail Fast With Your Next Idea?](https://hackernoon.com/do-you-know-how-to-fail-fast-with-your-next-idea-3xvd3y14)
+### [39. Architecture Patterns for Beginners: MVC, MVP, and MVVM](https://hackernoon.com/architecture-patterns-for-beginners-mvc-mvp-and-mvvm)
+![](https://cdn.hackernoon.com/images/3T3bktvLngh9teCvwCOix1OZ12n2-7b03303.png)
+MVP, MVC, and MVVM organize app code by separating data, UI, and logic, with the Model and View as fixed components across all three patterns.
+
+### [40. Do You Know How to Fail Fast With Your Next Idea?](https://hackernoon.com/do-you-know-how-to-fail-fast-with-your-next-idea-3xvd3y14)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-nl82rdw.jpeg)
 I am sharing all the knowledge I gathered during my research in four months of testing different business ideas. Before starting investing lots of time and building an MVP (minimum viable product) you can test ideas with adtotyping and get some metrics without writing a single line of code. This process shows a powerful way to validate ideas with the help of Facebook.
-
-### [40. Six Crucial Startup Lessons I Would Share With My Younger Self](https://hackernoon.com/6-crucial-startup-lessons-i-would-share-with-my-younger-self-p24d32gw)
-![](https://cdn.hackernoon.com/drafts/fhf932xo.png)
-In hindsight, the first business I started had all the ingredients to succeed. I just didn’t realize it at the time.
 
 ### [41. How to Find Minimum Viable Product-Market Fit (PMF)](https://hackernoon.com/how-to-find-minimum-viable-product-market-fit-pmf)
 ![](https://cdn.hackernoon.com/images/9FoqLXBqkFSxBjQvbeLToKfU4GA2-p703a21.jpeg)
 Focus on the problem, not the solution
 
-### [42. Minimum Viable Tool (MVT)](https://hackernoon.com/minimum-viable-tool-mvt-aup3x8z)
+### [42. Six Crucial Startup Lessons I Would Share With My Younger Self](https://hackernoon.com/6-crucial-startup-lessons-i-would-share-with-my-younger-self-p24d32gw)
+![](https://cdn.hackernoon.com/drafts/fhf932xo.png)
+In hindsight, the first business I started had all the ingredients to succeed. I just didn’t realize it at the time.
+
+### [43. Minimum Viable Tool (MVT)](https://hackernoon.com/minimum-viable-tool-mvt-aup3x8z)
 ![](https://cdn.hackernoon.com/drafts/bcm3x3y.png)
 There is a lot of talk about the Minimum Viable Product — a prototype with just enough features to satisfy early customers, and provide feedback for future development. But feature creep often starts much earlier, in the design & development, if not the ideation stage of a project.
 
-### [43. Architecture Patterns for Beginners: MVC, MVP, and MVVM](https://hackernoon.com/architecture-patterns-for-beginners-mvc-mvp-and-mvvm)
-![](https://cdn.hackernoon.com/images/3T3bktvLngh9teCvwCOix1OZ12n2-7b03303.png)
-MVP, MVC, and MVVM organize app code by separating data, UI, and logic, with the Model and View as fixed components across all three patterns.
+### [44. Product-Market Fit Is a Perishable Good — Here’s the Operating Manual](https://hackernoon.com/product-market-fit-is-a-perishable-good-heres-the-operating-manual)
+![](https://cdn.hackernoon.com/images/C9HHTD0z81PPZ9zatM1N1JBNt8O2-ri839p1.png)
+PMF isn't a milestone — it's a treadmill. A 6-step operating manual for finding product-market fit when AI makes building free but learning still costs time.
 
-### [44. Guiding Startups to Success: Going From MVPs to Product-Market Fit](https://hackernoon.com/guiding-startups-to-success-going-from-mvps-to-product-market-fit)
+### [45. Guiding Startups to Success: Going From MVPs to Product-Market Fit](https://hackernoon.com/guiding-startups-to-success-going-from-mvps-to-product-market-fit)
 ![](https://cdn.hackernoon.com/images/mMD5TbdcyWeeZODA8EhDSeRwBIv1-cu93xs9.jpeg)
 Startup journey from MVPs to Product-Market Fit, demystifying startup challenges and highlighting the dynamic development, testing, and market adaptation.
 
-### [45. How to Build a Successful MVP in 3 Months 🚀](https://hackernoon.com/how-to-build-a-successful-mvp-in-3-months-np1g37qj)
+### [46. How to Build a Successful MVP in 3 Months 🚀](https://hackernoon.com/how-to-build-a-successful-mvp-in-3-months-np1g37qj)
 ![](https://cdn.hackernoon.com/images/bqq1vavQnKeXAOodyo8V8H52q8G2-b6e35ma.jpeg)
 The year was 2007. There were two guys who just moved to San Francisco. Both were unemployed, so they faced the trouble of paying rent. Suddenly, they realized that all the hotel rooms in San Francisco were reserved because the local industrial design conference at the time attracted a large number of visitors.
 
-### [46. 7 Benefits of MVP for Startups](https://hackernoon.com/7-benefits-of-mvp-for-startups-mx1e35ei)
+### [47. 7 Benefits of MVP for Startups](https://hackernoon.com/7-benefits-of-mvp-for-startups-mx1e35ei)
 ![](https://cdn.hackernoon.com/images/8VvyaRxHc4QwIekCKDNAwvxHJdz1-bqm35f3.jpeg)
 In this article, we are considering key peculiarities and benefits of a minimum viable product that will help you enter the market more successfully. 
 
-### [47. How I Designed, Built and Launched a product over the Weekend - A Breakdown of Events](https://hackernoon.com/16-hours-to-launch-a-breakdown-of-how-i-designed-built-and-launched-a-product-over-a-weekend-ge2xc2hed)
+### [48. How I Designed, Built and Launched a product over the Weekend - A Breakdown of Events](https://hackernoon.com/16-hours-to-launch-a-breakdown-of-how-i-designed-built-and-launched-a-product-over-a-weekend-ge2xc2hed)
 ![](https://cdn.hackernoon.com/images/bp182hdz.jpg)
 Earlier this year, I launched a side project of mine called Lancerlist which is a platform that allows companies to find freelancers in their city.
 
-### [48. About the new simple declarative language we invented for developing web apps with no boilerplate](https://hackernoon.com/about-the-new-simple-declarative-language-we-invented-for-developing-web-apps-with-no-boilerplate-4b3133e9)
+### [49. About the new simple declarative language we invented for developing web apps with no boilerplate](https://hackernoon.com/about-the-new-simple-declarative-language-we-invented-for-developing-web-apps-with-no-boilerplate-4b3133e9)
 ![](https://cdn.hackernoon.com/images/Um8opKQnP8RPOL1thwBBTV4fV143-u9o514z6.png)
 Wasp is a simple language that makes developing full-stack web apps (React, Node) easy and removes boilerplate.
 
-### [49. How I Copied My Favorite SaaS Landing Page 👀](https://hackernoon.com/how-i-copied-my-favorite-saas-landing-page-ejy32af)
+### [50. How I Copied My Favorite SaaS Landing Page 👀](https://hackernoon.com/how-i-copied-my-favorite-saas-landing-page-ejy32af)
 ![](https://images.unsplash.com/photo-1565202436315-95a174adb383?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 I've got some bad news...
 
-### [50. One Small Step for You, One Big Step for Your IT Career](https://hackernoon.com/one-small-step-for-you-one-big-step-for-your-it-career)
+### [51. One Small Step for You, One Big Step for Your IT Career](https://hackernoon.com/one-small-step-for-you-one-big-step-for-your-it-career)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-7ua2iz5.jpeg)
 We all sometimes try taking on more significant tasks than we can deliver on—it stems directly from our human inability to evaluate complex tasks correctly.
 
-### [51. Building Around A Niche: The Story Behing Carrd's MVP and Success](https://hackernoon.com/building-around-a-niche-the-story-behing-carrds-mvp-and-success-tl2u35bg)
+### [52. Building Around A Niche: The Story Behing Carrd's MVP and Success](https://hackernoon.com/building-around-a-niche-the-story-behing-carrds-mvp-and-success-tl2u35bg)
 ![](https://hackernoon.com/images/gACHMBxkWkPBvY52J54fZ28VgxD3-a12t3fc4.jpeg)
 Learning how to build a better MVP by studying Carrd's growth to $1m ARR and 1.6m users.
-
-### [52. Microservices and CQRS: Why Business Should Care](https://hackernoon.com/microservices-and-cqrs-why-business-should-care-et6g3ycb)
-![](https://cdn.hackernoon.com/drafts/cdh3y0m.png)
-We have created this blog post for business stakeholders managing the development of a software system or product, those looking to find ways to reduce cost and time to market. This post will be useful for those whose technical background is a bit outdated or isn’t sufficient to make that judgment call. We will look at how to approach architecture planning so that the product is scalable and the money is spent wisely. Also, we will show the example of how CQRS can help in the implementation of client applications and whether microservices is indeed the panacea.
 
 ### [53. Why Beta Testing Matters For Your MVP](https://hackernoon.com/why-beta-testing-matters-for-your-mvp)
 ![](https://cdn.hackernoon.com/images/xWx1eln9Ida9r216TnPyHFrKw1J2-fk93q2b.jpeg)
 We essentially have two apps testing phases: alpha and beta testing. So, what’s beta testing and why do we have to do it before the app production?
 
-### [54. 7 Reasons Why Django Framework is a Perfect Framework for Startups](https://hackernoon.com/7-reasons-why-django-framework-is-a-perfect-framework-for-startups)
+### [54. Microservices and CQRS: Why Business Should Care](https://hackernoon.com/microservices-and-cqrs-why-business-should-care-et6g3ycb)
+![](https://cdn.hackernoon.com/drafts/cdh3y0m.png)
+We have created this blog post for business stakeholders managing the development of a software system or product, those looking to find ways to reduce cost and time to market. This post will be useful for those whose technical background is a bit outdated or isn’t sufficient to make that judgment call. We will look at how to approach architecture planning so that the product is scalable and the money is spent wisely. Also, we will show the example of how CQRS can help in the implementation of client applications and whether microservices is indeed the panacea.
+
+### [55. 7 Reasons Why Django Framework is a Perfect Framework for Startups](https://hackernoon.com/7-reasons-why-django-framework-is-a-perfect-framework-for-startups)
 ![](https://cdn.hackernoon.com/images/HPPbbfI3qCRzkK0B9szKVMDFt7A2-2893opj.png)
 The programming language and the main framework are often crucial for startups. Here is why we think Django is a wise choice. 
 
-### [55. How the MVP Concept Makes Companies Rethink Their Business Models](https://hackernoon.com/how-the-mvp-concept-makes-companies-rethink-their-business-models)
+### [56. How the MVP Concept Makes Companies Rethink Their Business Models](https://hackernoon.com/how-the-mvp-concept-makes-companies-rethink-their-business-models)
 ![](https://cdn.hackernoon.com/images/FVSkvoay5ONQEW2Nnv5Nnh5uUR72-n2d3u7h.png)
 Essentially, MVP is a tool that allows companies to test the ideas before proceeding to stages of full development and launch.
 
-### [56. Why Start With The First Usable Version of Your Product, Instead of the Best Version](https://hackernoon.com/why-start-with-the-first-usable-version-of-your-product-instead-of-the-best-version-553k34n9)
+### [57. Why Start With The First Usable Version of Your Product, Instead of the Best Version](https://hackernoon.com/why-start-with-the-first-usable-version-of-your-product-instead-of-the-best-version-553k34n9)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fiqm3hLqubEWtHeRuSuoIzQAsaat2-mh913usr.jpeg?alt=media&token=fb30ebac-610b-43b0-9f34-55d9265ca2c0)
 There are many possible approaches to launch a new product, and just as many obstacles along the way. However, there's a way of assessing the chances of success before diving in full commitment, and that's where the Minimum Viable Product (MVP) comes in.
 
-### [57. Why You Should Always Build a MVP First](https://hackernoon.com/why-you-should-always-build-a-mvp-first-ko613yn2)
+### [58. Why You Should Always Build a MVP First](https://hackernoon.com/why-you-should-always-build-a-mvp-first-ko613yn2)
 ![](https://cdn.hackernoon.com/images/j9ct3ybh.jpg)
 Let’s take a look at a classic example of a situation that I have observed numerous times. An enthusiastic maker has an idea for a great product and starts building right away without checking for competitors, creating a landing page first or getting some feedback from potential users. The maker sits down in front of his computer and starts building his product blindly. 
 
-### [58. How I Used Blitz JS To Take My Pet Project Into Production](https://hackernoon.com/how-i-used-blitz-js-to-take-my-pet-project-into-production-j53j3559)
+### [59. How I Used Blitz JS To Take My Pet Project Into Production](https://hackernoon.com/how-i-used-blitz-js-to-take-my-pet-project-into-production-j53j3559)
 ![](https://cdn.hackernoon.com/images/bqq1vavQnKeXAOodyo8V8H52q8G2-t5j33w0.jpeg)
 Our colleague Lazar decided to built an Absence Tracker, so we can ditch the Telegram group where we reported our absences.
 
-### [59. How to go From Idea to MVP](https://hackernoon.com/how-to-go-from-idea-to-mvp)
+### [60. How to go From Idea to MVP](https://hackernoon.com/how-to-go-from-idea-to-mvp)
 ![](https://cdn.hackernoon.com/images/k0Lqj7QdAKdyvTwph1EPDMe8Tq52-b3a3ham.jpeg)
 Simple steps to get an idea off the ground and start building momentum.
 
-### [60. All the Firebase Functions you Need to Build Your Next Serverless Application](https://hackernoon.com/all-the-firebase-functions-you-need-to-build-your-next-serverless-application)
+### [61. All the Firebase Functions you Need to Build Your Next Serverless Application](https://hackernoon.com/all-the-firebase-functions-you-need-to-build-your-next-serverless-application)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-lg9315s.jpeg)
 Build your own CRUD application by leveraging Firebase's Firestore JavaScript SDK.
 
-### [61. How to Take Your MVP From Idea to Launch](https://hackernoon.com/how-to-take-your-mvp-from-idea-to-launch-bc6j37ye)
+### [62. How to Take Your MVP From Idea to Launch](https://hackernoon.com/how-to-take-your-mvp-from-idea-to-launch-bc6j37ye)
 ![](https://cdn.hackernoon.com/images/dYFHnbCDjRewpGdWzSQy2UHNH7A2-hvmj32fc.jpeg)
 As a business person without the tech skills to build an MVP, it can be tempting to look for a software development partner as soon as possible. 
 
-### [62. The MVP Dilemma: Enhancing Quality while Optimizing Development Time](https://hackernoon.com/the-mvp-dilemma-enhancing-quality-while-optimizing-development-time)
+### [63. The MVP Dilemma: Enhancing Quality while Optimizing Development Time](https://hackernoon.com/the-mvp-dilemma-enhancing-quality-while-optimizing-development-time)
 ![](https://cdn.hackernoon.com/images/bay1cHXuNyZB4jEjbHe5jfI7UZI3-v1d3p69.jpeg)
 These tips help significantly improve MVP quality so that it might become a foundation for the final app and could be maintained for many years.
 
-### [63. What's The One Thing You Can’t Miss When Building an MVP?](https://hackernoon.com/whats-the-one-thing-you-cant-miss-when-building-an-mvp-l0133e4c)
+### [64. What's The One Thing You Can’t Miss When Building an MVP?](https://hackernoon.com/whats-the-one-thing-you-cant-miss-when-building-an-mvp-l0133e4c)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F04RBQUokhMcaEo331itGHu88zIw1-bv3k3us8.jpeg?alt=media&token=49cc7dee-8319-4087-a160-7073c9f5608c)
 At Altar.io we’ve built dozens of products over the years, working with entrepreneurs from all over the world. 
 
-### [64. Building A Tezos's Smart Contract Dashboard Using ReactJS, TezBridge and Netlify [A How-To Guide]](https://hackernoon.com/building-a-tezoss-smart-contract-dashboard-using-reactjs-tezbridge-and-netlify-a-how-to-guide-z1233yv4)
+### [65. Building A Tezos's Smart Contract Dashboard Using ReactJS, TezBridge and Netlify [A How-To Guide]](https://hackernoon.com/building-a-tezoss-smart-contract-dashboard-using-reactjs-tezbridge-and-netlify-a-how-to-guide-z1233yv4)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FxIDSZmbOYwcFaYqLMYTkmiRcb5i1-5p532ls.webp?alt=media&token=54a0b529-1fbf-4613-bb2c-2d2cedef6303)
 I always find it troublesome for me to deploy and interact with Tezos’s Smart Contract at my job as a Software Engineer in my company. So, I decided to build a tool (web app) to solve my problem.
 
-### [65. Evaluating Your App Idea and Supercharging your Chances of Success [Part 2]](https://hackernoon.com/evaluating-your-app-idea-and-supercharging-your-chances-of-success-part-2-1pd32ln)
+### [66. Evaluating Your App Idea and Supercharging your Chances of Success [Part 2]](https://hackernoon.com/evaluating-your-app-idea-and-supercharging-your-chances-of-success-part-2-1pd32ln)
 ![](https://cdn.hackernoon.com/images/cem326h.jpg)
 This is a continuation of a series on bring an app to life, from nothing to something. Read Part 1 here.
 
-### [66. The Illusion of Ideas](https://hackernoon.com/the-illusion-of-ideas)
+### [67. The Illusion of Ideas](https://hackernoon.com/the-illusion-of-ideas)
 ![](https://cdn.hackernoon.com/images/ztgA4R8V7naE4gJdNPdJvqmmh8f1-9e135ey.png)
 Why untested ideas remain illusions. Only through simplicity, speed, and real-world testing can you separate what’s real from what’s not.
 
-### [67. Maximizing Product Success: The Role of Hypothesis Testing, Prototyping, and MVPs](https://hackernoon.com/maximizing-product-success-the-role-of-hypothesis-testing-prototyping-and-mvps)
+### [68. Maximizing Product Success: The Role of Hypothesis Testing, Prototyping, and MVPs](https://hackernoon.com/maximizing-product-success-the-role-of-hypothesis-testing-prototyping-and-mvps)
 ![](https://cdn.hackernoon.com/images/CIRyzxga6MMZAU8I8yXbkpvyQqh1-4h93oow.jpeg)
 Learn how to test hypotheses and create prototypes and MVPs to ensure the success of your product. Find out how methods like RAT and MVP can help product manage
 
-### [68. Exploring Famous MVP Pivots: Instagram, Twitter, and YouTube Success Stories](https://hackernoon.com/exploring-famous-mvp-pivots-instagram-twitter-and-youtube-stories-success-stories)
+### [69. Exploring Famous MVP Pivots: Instagram, Twitter, and YouTube Success Stories](https://hackernoon.com/exploring-famous-mvp-pivots-instagram-twitter-and-youtube-stories-success-stories)
 ![](https://cdn.hackernoon.com/images/O60Az8JlXre6D4xTNc5kmUwMszp2-lnc3vva.png)
 Check out why many popular apps had to pivot to make a success. Read Instagram, Twitter, YouTube and Netflix pivot stories.
 
-### [69. 10 Tips for Building a Successful MVP with Flutter](https://hackernoon.com/10-tips-for-building-a-successful-mvp-with-flutter)
+### [70. 10 Tips for Building a Successful MVP with Flutter](https://hackernoon.com/10-tips-for-building-a-successful-mvp-with-flutter)
 ![](https://cdn.hackernoon.com/images/wM5FpXWzMxfslkOOkQUdz7tsQG43-wh93kwn.jpeg)
 Explore 10 essential tips for building a successful MVP with Flutter: from understanding project requirements to leveraging unique features.
-
-### [70. When is Ruby on Rails the Right Choice?](https://hackernoon.com/when-is-ruby-on-rails-the-right-choice-b5163tmr)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2PAguTtQXWXvgDvAhaLSWXDjur73-o0629lk.jpeg?alt=media&token=6b3dcc98-7003-458a-9685-090947f121bb)
-Often side projects or even your main project need to be done quickly and delivered to people and learn from what they've got to say and well-informed decisions instead of endlessly building what you think is the perfect solution.
 
 ### [71. How To Validate Your Startup Idea With Less Time and Money](https://hackernoon.com/how-to-validate-your-startup-idea-with-less-time-and-money-nk8u306f)
 ![](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -292,9 +294,9 @@ Validation: The Most Overlooked Aspect Of A Startup
 ![](https://cdn.hackernoon.com/images/HbTQCsQcYXf9Uw7j4Xk6XcFFKnv2-ap1p31ou.jpeg)
 A Minimum Viable Product is the initial version of your mobile application that contains the main features needed to satisfy the user’s problems.
 
-### [73. Low-Code vs Full-Code: How Startups Can Balance Speed and Control](https://hackernoon.com/low-code-vs-full-code-how-startups-can-balance-speed-and-control)
-![](https://cdn.hackernoon.com/images/oqxc347yWNf65zIjYo1OxPzanuH3-1c03b99.png)
-Low-code speeds up MVPs, full-code ensures scale. Discover how startups can balance speed, cost, and control with a hybrid approach.
+### [73. When is Ruby on Rails the Right Choice?](https://hackernoon.com/when-is-ruby-on-rails-the-right-choice-b5163tmr)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F2PAguTtQXWXvgDvAhaLSWXDjur73-o0629lk.jpeg?alt=media&token=6b3dcc98-7003-458a-9685-090947f121bb)
+Often side projects or even your main project need to be done quickly and delivered to people and learn from what they've got to say and well-informed decisions instead of endlessly building what you think is the perfect solution.
 
 ### [74. Should You Build Your Startup in Public?](https://hackernoon.com/should-i-build-my-side-project-or-startup-in-public-5b9m28yj)
 ![](https://cdn.hackernoon.com/drafts/i11vj28h8.png)
@@ -308,25 +310,25 @@ A day by day account of how I went from initial idea to coding and releasing my 
 ![](https://cdn.hackernoon.com/images/aj3xbFpstic3cuoNnxwYiHpBNyj2-y2336pe.jpeg)
 MVP is a basic version of a product that consists of minimum features and core functionality, solving an important problem for the end-users.
 
-### [77. Startup Costs: Can the MVP Route Save You a Lot of Money?](https://hackernoon.com/startup-costs-can-the-mvp-route-save-you-a-lot-of-money-uy433tff)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FLEXvobCZ9sbzKQbJUEekxs7gw913-lbv3ufr.jpeg?alt=media&token=a0b4cb78-758c-44fe-bfe7-4e843dc5ab5c)
-Entrepreneurship is getting popular with every passing day, leading to an increase in rising startups. But how many have tasted success?
-
-### [78. Mozilla Spring MVP Lab](https://hackernoon.com/mozilla-spring-mvp-lab-z31x3ync)
-![](https://cdn.hackernoon.com/images/0rnp3yp3.jpg)
-TLDR: Apply to be a part of the Mozilla Spring MVP Lab at mozilla.org/builders
-
-### [79. How I Vibe Coded My Way Into Creating a Better Note Taking App](https://hackernoon.com/how-i-vibe-coded-my-way-into-creating-a-better-note-taking-app)
+### [77. How I Vibe Coded My Way Into Creating a Better Note Taking App](https://hackernoon.com/how-i-vibe-coded-my-way-into-creating-a-better-note-taking-app)
 ![](https://cdn.hackernoon.com/images/z2AumFP6R8fxPDSFO6gPdgNx85H3-br03769.png)
 Many times I’m feeling overwhelmed when checking and or looking for something on my Notes App. 
 
-### [80. What I Learned Building My Side Project: Codetalks.TV](https://hackernoon.com/building-a-side-project-codetalkstv-hu23033yz)
-![](https://cdn.hackernoon.com/drafts/jctt330f.png)
-🤓 What is Codetalks?
+### [78. Startup Costs: Can the MVP Route Save You a Lot of Money?](https://hackernoon.com/startup-costs-can-the-mvp-route-save-you-a-lot-of-money-uy433tff)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FLEXvobCZ9sbzKQbJUEekxs7gw913-lbv3ufr.jpeg?alt=media&token=a0b4cb78-758c-44fe-bfe7-4e843dc5ab5c)
+Entrepreneurship is getting popular with every passing day, leading to an increase in rising startups. But how many have tasted success?
 
-### [81. Starting Project Now? My 2025 Tech Stack for Full Stack Development](https://hackernoon.com/starting-project-now-my-2025-tech-stack-for-full-stack-development)
+### [79. Mozilla Spring MVP Lab](https://hackernoon.com/mozilla-spring-mvp-lab-z31x3ync)
+![](https://cdn.hackernoon.com/images/0rnp3yp3.jpg)
+TLDR: Apply to be a part of the Mozilla Spring MVP Lab at mozilla.org/builders
+
+### [80. Starting Project Now? My 2025 Tech Stack for Full Stack Development](https://hackernoon.com/starting-project-now-my-2025-tech-stack-for-full-stack-development)
 ![](https://cdn.hackernoon.com/images/tkFK0a3NWPeb0rGU6rXvgLEdxKn1-o902taw.jpeg)
 Build a SaaS in 8 weeks using React 19, tRPC & TypeScript. Real-world tech stack guide with deployment strategies for rapid development in 2025.
+
+### [81. What I Learned Building My Side Project: Codetalks.TV](https://hackernoon.com/building-a-side-project-codetalkstv-hu23033yz)
+![](https://cdn.hackernoon.com/drafts/jctt330f.png)
+🤓 What is Codetalks?
 
 ### [82. 26 Stories To Learn About Prototyping](https://hackernoon.com/26-stories-to-learn-about-prototyping)
 ![](https://cdn.hackernoon.com/images/github/prototyping-958.png)
@@ -336,117 +338,117 @@ Learn everything you need to know about Prototyping via these 26 free HackerNoon
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-pzb3vrc.jpeg)
 Entering your first towards an MVP (minimum viable product) can cause confusion if you focus on outcomes as planned. Plan to learn with the trip instead.
 
-### [84. Mozilla Summer Startup Studio and MVP Lab](https://hackernoon.com/mozilla-summer-startup-studio-and-mvp-lab-t45p3yta)
-![](https://cdn.hackernoon.com/drafts/sp1it3yvv.png)
-TLDR: See mozilla.org/builders for more details regarding our summer programs! 
-
-### [85. Why and How We Used Singer to Bootstrap Our MVP](https://hackernoon.com/why-and-how-we-used-singer-to-bootstrap-our-mvp-9g2031ll)
-![](https://cdn.hackernoon.com/images/rGWF1RDlLZchb3zju0HpnW7gT6X2-jl2p31wm.jpeg)
-One of the (many) hard things about doing a startup is figuring out what that MVP should be. You are trading off between presenting something that is “good” enough that it gets people excited to use (or invest in) you and getting something done fast. In this article, we explore how we wrestled with this trade-off. Specifically, we explore our decisions around how to use Singer to bootstrap our MVP. It is something we get tons of questions about, and it was hard for us to figure out ourselves!
-
-### [86. The MVP Blueprint: How Lean Innovation and Team Alignment Drive Startup Success](https://hackernoon.com/the-mvp-blueprint-how-lean-innovation-and-team-alignment-drive-startup-success)
-![](https://cdn.hackernoon.com/images/U8pzvPFQNmSatRgb4Ez3PepwYUR2-vd037ku.png)
-42% of startups fail because they build something nobody wants.
-
-### [87. The MVP Engineering Playbook: Ship a Useful 0→1 in 6 Weeks](https://hackernoon.com/the-mvp-engineering-playbook-ship-a-useful-01-in-6-weeks)
+### [84. The MVP Engineering Playbook: Ship a Useful 0→1 in 6 Weeks](https://hackernoon.com/the-mvp-engineering-playbook-ship-a-useful-01-in-6-weeks)
 ![](https://cdn.hackernoon.com/images/D9EZxSqFJkVedvLSYRMszLqXr5h1-eh03cjb.png)
 A practical MVP playbook: scope, thin slices, CI/CD, quality gates, and metrics to ship a reliable 0→1 in ~6 weeks—with checklists and examples. 
 
-### [88. 7 Reasons Why Your MVP may Never Launch](https://hackernoon.com/7-reasons-why-your-mvp-may-never-launch)
-![](https://cdn.hackernoon.com/images/dYFHnbCDjRewpGdWzSQy2UHNH7A2-ag93jk9.jpeg)
+### [85. Mozilla Summer Startup Studio and MVP Lab](https://hackernoon.com/mozilla-summer-startup-studio-and-mvp-lab-t45p3yta)
+![](https://cdn.hackernoon.com/drafts/sp1it3yvv.png)
+TLDR: See mozilla.org/builders for more details regarding our summer programs! 
 
+### [86. Why and How We Used Singer to Bootstrap Our MVP](https://hackernoon.com/why-and-how-we-used-singer-to-bootstrap-our-mvp-9g2031ll)
+![](https://cdn.hackernoon.com/images/rGWF1RDlLZchb3zju0HpnW7gT6X2-jl2p31wm.jpeg)
+One of the (many) hard things about doing a startup is figuring out what that MVP should be. You are trading off between presenting something that is “good” enough that it gets people excited to use (or invest in) you and getting something done fast. In this article, we explore how we wrestled with this trade-off. Specifically, we explore our decisions around how to use Singer to bootstrap our MVP. It is something we get tons of questions about, and it was hard for us to figure out ourselves!
 
-### [89. Navigating Startup Storms: The Crucial Role of a Product Engineer](https://hackernoon.com/navigating-startup-storms-the-crucial-role-of-a-product-engineer)
+### [87. Navigating Startup Storms: The Crucial Role of a Product Engineer](https://hackernoon.com/navigating-startup-storms-the-crucial-role-of-a-product-engineer)
 ![](https://cdn.hackernoon.com/images/generate-an-image-that-captures-the-dynamic-essence-of-a-startup-journey-symbolizing-challenges-resilience-include-elements-of-growth-technology-tools-and-the-startup-ecosystem-the-image-should-evoke-a-sense-of-adventure-and-the-determination-to-navigate-through-the-stormy-seas-of-entrepreneurs-lv1jut8dupxy7b81h8yn6wx7.png)
 Explore the rollercoaster of startups, the role of a 'Product Engineer,' and crucial lessons for early-stage success.
 
-### [90. The 3 Tools You Need to Need to Get Your MVP From Idea to Launch](https://hackernoon.com/top-3-project-management-tools-for-building-an-mvp)
+### [88. The 3 Tools You Need to Need to Get Your MVP From Idea to Launch](https://hackernoon.com/top-3-project-management-tools-for-building-an-mvp)
 ![](https://cdn.hackernoon.com/images/04RBQUokhMcaEo331itGHu88zIw1-twd3p63.jpeg)
 Over the last 20 years, our Project Manager, Pedro, has helped build many startups. 
 
-### [91. Why The Minimum Viable Product (MVP) is a Cornerstone Strategy for Startups](https://hackernoon.com/why-the-minimum-viable-product-mvp-is-a-cornerstone-strategy-for-startups)
+### [89. Low-Code vs Full-Code: How Startups Can Balance Speed and Control](https://hackernoon.com/low-code-vs-full-code-how-startups-can-balance-speed-and-control)
+![](https://cdn.hackernoon.com/images/oqxc347yWNf65zIjYo1OxPzanuH3-1c03b99.png)
+Low-code speeds up MVPs, full-code ensures scale. Discover how startups can balance speed, cost, and control with a hybrid approach.
+
+### [90. The MVP Blueprint: How Lean Innovation and Team Alignment Drive Startup Success](https://hackernoon.com/the-mvp-blueprint-how-lean-innovation-and-team-alignment-drive-startup-success)
+![](https://cdn.hackernoon.com/images/U8pzvPFQNmSatRgb4Ez3PepwYUR2-vd037ku.png)
+42% of startups fail because they build something nobody wants.
+
+### [91. 7 Reasons Why Your MVP may Never Launch](https://hackernoon.com/7-reasons-why-your-mvp-may-never-launch)
+![](https://cdn.hackernoon.com/images/dYFHnbCDjRewpGdWzSQy2UHNH7A2-ag93jk9.jpeg)
+
+
+### [92. Why The Minimum Viable Product (MVP) is a Cornerstone Strategy for Startups](https://hackernoon.com/why-the-minimum-viable-product-mvp-is-a-cornerstone-strategy-for-startups)
 ![](https://cdn.hackernoon.com/images/a-small-office-building-dgdocwjtgvgq1l57oxdnm0q1.png)
 Understand the philosophy behind MVPs, their role in risk reduction, and the challenges businesses face in their development.
 
-### [92. A Guide to Minimum Viable Products for Fractional CTOs](https://hackernoon.com/a-guide-to-minimum-viable-products-for-fractional-ctos)
+### [93. A Guide to Minimum Viable Products for Fractional CTOs](https://hackernoon.com/a-guide-to-minimum-viable-products-for-fractional-ctos)
 ![](https://cdn.hackernoon.com/images/MuqtUx2CfaQU4KMwCnmF5hCg5d52-3a93oy4.jpeg)
 
 
-### [93. Venture Capital Insights: What Investors Look for in Startups](https://hackernoon.com/venture-capital-insights-what-investors-look-for-in-startups)
+### [94. Venture Capital Insights: What Investors Look for in Startups](https://hackernoon.com/venture-capital-insights-what-investors-look-for-in-startups)
 ![](https://cdn.hackernoon.com/images/weo1zO6h8BUAF089z1LnkFdiCeo2-ii431ay.webp)
 Venture capital, or VC (also known as risk capital), is a type of investment typically aimed at early-stage companies that are small to medium-sized.
-
-### [94. 10 NoCode Tools to Help You Build Your MVP 🚀](https://hackernoon.com/10-nocode-tools-to-help-you-build-your-mvp)
-![](https://cdn.hackernoon.com/images/YlcWytkfRIY64lSLBbuvErBdoUg2-4r038g6.jpeg)
-A list of 10 free Nocode tools for creating and launching a successful startup ✅🚀
 
 ### [95. Build Startup Success By Launching MVPs](https://hackernoon.com/build-startup-success-by-launching-mvps)
 ![](https://cdn.hackernoon.com/images/aj3xbFpstic3cuoNnxwYiHpBNyj2-urc3nup.jpeg)
  In this article, learn more about MVP, their benefits, and 10 steps to building ideal MVPs
 
-### [96. 3 Successful Examples of Using an MVP (Minimum Viable Product)](https://hackernoon.com/3-successful-examples-of-using-an-mvp-minimum-viable-product)
-![](https://cdn.hackernoon.com/images/KmNf0Wo4w4avMoWS6xST2YLQABu2-q1a30fa.jpeg)
-A concept first introduced on the Lean Startup book, MVP means minimum viable product and it is a way to get the most knowledge about the target of your project
-
-### [97. Building a Tech Startup  Without a Technical Co-Founder ](https://hackernoon.com/building-a-tech-startup-without-a-technical-co-founder)
-![](https://hackernoon.com/images/04RBQUokhMcaEo331itGHu88zIw1-pr5531ax.png)
-Finding a technical co-founder is one of the biggest challenges faced by startup founders. Here’s how Audapio’s Founder Dudley Gould overcame this common startup hurdle. 
-
-### [98. 5 Common Mistakes to Avoid When Designing an MVP for Crypto Projects](https://hackernoon.com/5-common-mistakes-to-avoid-when-designing-and-mvp-for-crypto-projects)
+### [96. 5 Common Mistakes to Avoid When Designing an MVP for Crypto Projects](https://hackernoon.com/5-common-mistakes-to-avoid-when-designing-and-mvp-for-crypto-projects)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-v793ood.jpeg)
 Invest your time and money wisely, leveraging crucial aspects of product design for efficiency.
 
-### [99. What is an MVP for Software Development?](https://hackernoon.com/what-is-an-mvp-for-software-development)
+### [97. 10 NoCode Tools to Help You Build Your MVP 🚀](https://hackernoon.com/10-nocode-tools-to-help-you-build-your-mvp)
+![](https://cdn.hackernoon.com/images/YlcWytkfRIY64lSLBbuvErBdoUg2-4r038g6.jpeg)
+A list of 10 free Nocode tools for creating and launching a successful startup ✅🚀
+
+### [98. 3 Successful Examples of Using an MVP (Minimum Viable Product)](https://hackernoon.com/3-successful-examples-of-using-an-mvp-minimum-viable-product)
+![](https://cdn.hackernoon.com/images/KmNf0Wo4w4avMoWS6xST2YLQABu2-q1a30fa.jpeg)
+A concept first introduced on the Lean Startup book, MVP means minimum viable product and it is a way to get the most knowledge about the target of your project
+
+### [99. Building a Tech Startup  Without a Technical Co-Founder ](https://hackernoon.com/building-a-tech-startup-without-a-technical-co-founder)
+![](https://hackernoon.com/images/04RBQUokhMcaEo331itGHu88zIw1-pr5531ax.png)
+Finding a technical co-founder is one of the biggest challenges faced by startup founders. Here’s how Audapio’s Founder Dudley Gould overcame this common startup hurdle. 
+
+### [100. What is an MVP for Software Development?](https://hackernoon.com/what-is-an-mvp-for-software-development)
 ![](https://cdn.hackernoon.com/images/19pNnlzkMdhCxuz9PtOxhhqAcpK2-3a037k1.png)
 Why is a Minimum Viable Product Important for Software Development Projects? Discover in this article!
 
-### [100. 5 Tips For Launching a Successful Product](https://hackernoon.com/5-tips-for-launching-a-successful-product-8nh3udo)
+### [101. 5 Tips For Launching a Successful Product](https://hackernoon.com/5-tips-for-launching-a-successful-product-8nh3udo)
 ![](https://cdn.hackernoon.com/drafts/mim23vtf.png)
 Many new products get launched in the market every day. But not every product is a hit.
 
-### [101. Benefits of Using React Native for MVP Development](https://hackernoon.com/benefits-of-using-react-native-for-mvp-development-6c10v35i2)
-![](https://cdn.hackernoon.com/images/daAuvrlzmiOCPkYUp3TFhOn9Pb62-pz4q35mn.jpeg)
-This article explores why startups choose to develop MVP and the numerous benefits awarded to mobile projects because of React Native.
-
-### [102. Choosing Between Prototyping vs MVPs in Software Development](https://hackernoon.com/choosing-between-prototyping-vs-mvps-in-software-development)
-![](https://cdn.hackernoon.com/images/aj3xbFpstic3cuoNnxwYiHpBNyj2-n692nzd.jpeg)
-In this blog, we shed some light on both MVPs and prototyping to help you understand their requirements and usage in the software development industry.
-
-### [103. Agile Is Misleading Organizations: 6 Ways They Are Doing So](https://hackernoon.com/agile-is-misleading-organizations-6-ways-they-are-doing-so)
+### [102. Agile Is Misleading Organizations: 6 Ways They Are Doing So](https://hackernoon.com/agile-is-misleading-organizations-6-ways-they-are-doing-so)
 ![](https://cdn.hackernoon.com/images/ZbR2e3HhonbhXbazFOqnICxHkE22-hp93331.jpeg)
 Agile is a nebulous fad that has embezzled and (mis)appropriated Lean terms and concepts.
 
-### [104. How Minimum Viable Secure Product [MVSP] Works](https://hackernoon.com/how-minimum-viable-secure-product-mvsp-works)
+### [103. Benefits of Using React Native for MVP Development](https://hackernoon.com/benefits-of-using-react-native-for-mvp-development-6c10v35i2)
+![](https://cdn.hackernoon.com/images/daAuvrlzmiOCPkYUp3TFhOn9Pb62-pz4q35mn.jpeg)
+This article explores why startups choose to develop MVP and the numerous benefits awarded to mobile projects because of React Native.
+
+### [104. Choosing Between Prototyping vs MVPs in Software Development](https://hackernoon.com/choosing-between-prototyping-vs-mvps-in-software-development)
+![](https://cdn.hackernoon.com/images/aj3xbFpstic3cuoNnxwYiHpBNyj2-n692nzd.jpeg)
+In this blog, we shed some light on both MVPs and prototyping to help you understand their requirements and usage in the software development industry.
+
+### [105. How Minimum Viable Secure Product [MVSP] Works](https://hackernoon.com/how-minimum-viable-secure-product-mvsp-works)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-a2037gz.jpeg)
 The Minimum Viable Secure Product or MVSP is a way of ensuring that your product is secure from a cybersecurity perspective and will help your reputation. 
-
-### [105. The MVP Lite Approach: A Software Development Approach for 2021 And Beyond](https://hackernoon.com/the-mvp-lite-approach-a-software-development-approach-for-2021-and-beyond-se3734bk)
-![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-8u7i31zv.jpeg)
-What helps people overcome obstacles? Crushing obstacles is hard work. It requires a lot of planning, time management, inner fire, and a thorough understanding of your goals. 
 
 ### [106. How to Choose the Right Type of MVP for Your Startup Idea](https://hackernoon.com/how-to-choose-the-right-type-of-mvp-for-your-startup-idea)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-jh93zex.jpeg)
 MVPs can come in a thousand shapes and forms. So, in this article, we will focus on the most popular ones. 
 
-### [107. What Is An MVP and Why Is It Necessary? A Deep Dive](https://hackernoon.com/what-is-an-mvp-and-why-is-it-necessary-a-deep-dive)
+### [107. The MVP Lite Approach: A Software Development Approach for 2021 And Beyond](https://hackernoon.com/the-mvp-lite-approach-a-software-development-approach-for-2021-and-beyond-se3734bk)
+![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-8u7i31zv.jpeg)
+What helps people overcome obstacles? Crushing obstacles is hard work. It requires a lot of planning, time management, inner fire, and a thorough understanding of your goals. 
+
+### [108. What Is An MVP and Why Is It Necessary? A Deep Dive](https://hackernoon.com/what-is-an-mvp-and-why-is-it-necessary-a-deep-dive)
 ![](https://cdn.hackernoon.com/images/HrzvBX6xNSVZBKImURJl23sRwcQ2-lr037lc.jpeg)
 A minimum viable product (MVP) is a product with a limited number of features that solves at least one issue of your targeted customer. Here's why you need one.
-
-### [108. Minimum Viable Product: a Crucial Stage of Development Process](https://hackernoon.com/minimum-viable-product-a-crucial-stage-of-development-process-el533wp3)
-![](https://cdn.hackernoon.com/images/9o1q3v5a.jpg)
-In software development, testing ideas, doing trials and continuously learning is the approach that leads to success. That’s why creating a minimum viable product (MVP) can be so beneficial for every business that wants to have their IT product done the right way.
 
 ### [109. Tips I Learned from My 10+ MVP Validations. ](https://hackernoon.com/tips-i-learned-from-my-10-mvp-validations)
 ![](https://cdn.hackernoon.com/images/hMOQHdDm1dXOm1AYglGrs5CScro1-njh3y3g.jpeg)
 Over the past year, I've been focused on making and sharing tools for multimedia content. Luckily, I have some useful tips on MVP ideas validation to share.
 
-### [110. Creating a Poor Man's API Using PostgREST ](https://hackernoon.com/creating-a-poor-mans-api-using-postgrest)
+### [110. Minimum Viable Product: a Crucial Stage of Development Process](https://hackernoon.com/minimum-viable-product-a-crucial-stage-of-development-process-el533wp3)
+![](https://cdn.hackernoon.com/images/9o1q3v5a.jpg)
+In software development, testing ideas, doing trials and continuously learning is the approach that leads to success. That’s why creating a minimum viable product (MVP) can be so beneficial for every business that wants to have their IT product done the right way.
+
+### [111. Creating a Poor Man's API Using PostgREST ](https://hackernoon.com/creating-a-poor-mans-api-using-postgrest)
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-rv93s1m.jpeg)
 Creating a full-fledged API requires resources, both time and money.
-
-### [111. Utility First CSS Leads to Rapid Prototyping](https://hackernoon.com/utility-first-css-leads-to-rapid-prototyping-ay5x3052)
-![](https://images.unsplash.com/photo-1576595580361-90a855b84b20?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-I am the co-founder of Flexiple and Remote Tools. In this post, I describe why I chose to use a utility-first CSS framework to build my website’s UI in a fast, robust and low-maintenance way.
 
 ### [112. 6 Misconceptions About MVP Development - Don’t Believe in These Myths](https://hackernoon.com/6-misconceptions-about-mvp-development-dont-believe-in-these-myths)
 ![](https://cdn.hackernoon.com/images/O60Az8JlXre6D4xTNc5kmUwMszp2-3ha3s9y.png)
@@ -456,32 +458,36 @@ Let’s fight the common MVP (Minimum Viable Product) misunderstandings once and
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-z502vun.jpeg)
 Many great tools aren't built for profit, they're built to solve personal problems. This article explores why developers create tools for themselves.
 
-### [114. KYC, Neobanks and More: An Interview with Vitaliy Dyachenko, CEO and Founder of UppLabs](https://hackernoon.com/kyc-neobanks-and-more-an-interview-with-vitaliy-dyachenko-ceo-and-founder-of-upplabs)
+### [114. Utility First CSS Leads to Rapid Prototyping](https://hackernoon.com/utility-first-css-leads-to-rapid-prototyping-ay5x3052)
+![](https://images.unsplash.com/photo-1576595580361-90a855b84b20?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+I am the co-founder of Flexiple and Remote Tools. In this post, I describe why I chose to use a utility-first CSS framework to build my website’s UI in a fast, robust and low-maintenance way.
+
+### [115. KYC, Neobanks and More: An Interview with Vitaliy Dyachenko, CEO and Founder of UppLabs](https://hackernoon.com/kyc-neobanks-and-more-an-interview-with-vitaliy-dyachenko-ceo-and-founder-of-upplabs)
 ![](https://cdn.hackernoon.com/images/HbTQCsQcYXf9Uw7j4Xk6XcFFKnv2-dd93hy0.jpeg)
 
 
-### [115. The Real Complexity Behind 'Just Make a Simple Fintech Service' — and 5 Tactics to Survive It](https://hackernoon.com/the-real-complexity-behind-just-make-a-simple-fintech-service-and-5-tactics-to-survive-it)
+### [116. The Real Complexity Behind 'Just Make a Simple Fintech Service' — and 5 Tactics to Survive It](https://hackernoon.com/the-real-complexity-behind-just-make-a-simple-fintech-service-and-5-tactics-to-survive-it)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-z702vsz.jpeg)
 In fintech, you're not building a single feature. You're building a chain of dependencies where any link can break everything. 
 
-### [116. Estimating How Long Will It Take to Build Your MVP](https://hackernoon.com/estimating-how-long-will-it-take-to-build-your-mvp-8n5k372k)
+### [117. Estimating How Long Will It Take to Build Your MVP](https://hackernoon.com/estimating-how-long-will-it-take-to-build-your-mvp-8n5k372k)
 ![](https://cdn.hackernoon.com/images/dYFHnbCDjRewpGdWzSQy2UHNH7A2-fffl35ur.jpeg)
 If you’re reading this, chances are that you’re about to take the first step in turning your business vision into a reality by building an MVP. 
 
-### [117. Lean Innovation: How to Tackle
+### [118. The Noonification: Why Humans Are Drawn to Games (4/22/2024)](https://hackernoon.com/4-22-2024-noonification)
+![](https://cdn.hackernoon.com/images/noonification_911_ee6e1gs8206j2pqo1c55gaym.png)
+4/22/2024: Top 5 stories on the HackerNoon homepage!
+
+### [119. Beyond the MVP: What Comes After You Launch](https://hackernoon.com/beyond-the-mvp-what-comes-after-you-launch)
+![](https://cdn.hackernoon.com/images/nv99vX0aLaWHyvA9W8rhfq5Oc0r1-b802zvi.png)
+Your MVP launch is just the beginning. Learn what to do next: gather real user feedback, win early champions, and set your startup up for sustainable growth.
+
+### [120. Lean Innovation: How to Tackle
 Product Development in a Lean and Efficient Way](https://hackernoon.com/lean-innovation-how-to-tackle-product-development-in-a-lean-and-efficient-way-tx2b3wqu)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAvjI8Do9Myerp95d82NcoxJx2On1-co2t3wvx.jpeg?alt=media&token=7512392f-604a-48aa-a4ed-28cda3bb1e7f)
 Nowadays, it is especially important to keep the process of product development lean and efficient. Therefore it is helpful to determine the concrete goal of each phase. This makes it easier to keep the entire process goal-oriented, structured and efficient. 
 
-### [118. Beyond the MVP: What Comes After You Launch](https://hackernoon.com/beyond-the-mvp-what-comes-after-you-launch)
-![](https://cdn.hackernoon.com/images/nv99vX0aLaWHyvA9W8rhfq5Oc0r1-b802zvi.png)
-Your MVP launch is just the beginning. Learn what to do next: gather real user feedback, win early champions, and set your startup up for sustainable growth.
-
-### [119. The Noonification: Why Humans Are Drawn to Games (4/22/2024)](https://hackernoon.com/4-22-2024-noonification)
-![](https://cdn.hackernoon.com/images/noonification_911_ee6e1gs8206j2pqo1c55gaym.png)
-4/22/2024: Top 5 stories on the HackerNoon homepage!
-
-### [120. Can No-code Help Platform Cooperative Developers?](https://hackernoon.com/can-no-code-help-platform-cooperative-developers)
+### [121. Can No-code Help Platform Cooperative Developers?](https://hackernoon.com/can-no-code-help-platform-cooperative-developers)
 ![](https://cdn.hackernoon.com/images/UhXBeQy4RlXUxhf7tp32aWk2zE52-tea3gxo.jpeg)
 Is no-code a potential solution to break past the bottleneck inhibiting the development of platform cooperatives?
 

@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [best-practices](https://hackernoon.com/tagged/best-practices)
+### Let's learn about [Best Practices](https://hackernoon.com/tagged/best-practices) via these 153 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Best practices are established techniques or methods consistently shown to yield superior results compared to other approaches. Adopting best practices is essential for achieving efficiency, quality, and reliability in any field.
+
 ### [1. RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 ![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-jn03bhs.jpeg)
 Facebook, Google, Github, Netflix and few other tech giants have given a chance to the developers and products to consume their data through APIs, and became a platform for them.<br>Even if you are not writing APIs for other developers and products, it is always very healthy for your application to have beautifully crafted APIs.
@@ -73,13 +77,13 @@ Best Practice Cover DotNet (.NET) CSharp (C#) with unit tests with Test Driven 
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-zt03ocb.jpeg)
 Maintaining CSS may be a real problem when developing a project. 
 
-### [19. Software Testing of Electron Based Application](https://hackernoon.com/software-testing-of-electron-based-application-ti222aw2)
-![](https://cdn.hackernoon.com/images/zn1ka2amg.jpg)
-So I’m sitting around and waiting for a challenge, dreaming of having a project where I won’t see all these boring aspects like Webdriver, BrowserStack, Web pages, etc. And then…
-
-### [20. Using C# for Real-time Systems](https://hackernoon.com/using-c-for-real-time-systems)
+### [19. Using C# for Real-time Systems](https://hackernoon.com/using-c-for-real-time-systems)
 ![](https://cdn.hackernoon.com/images/L1ya8SZKyEUzHtKDbBhqyR6s2HI2-he93oe8.jpeg)
 My best practice from making a real-time high loaded performance application on .NET platform
+
+### [20. Software Testing of Electron Based Application](https://hackernoon.com/software-testing-of-electron-based-application-ti222aw2)
+![](https://cdn.hackernoon.com/images/zn1ka2amg.jpg)
+So I’m sitting around and waiting for a challenge, dreaming of having a project where I won’t see all these boring aspects like Webdriver, BrowserStack, Web pages, etc. And then…
 
 ### [21. My Top 5 Best Practices for ReactJs](https://hackernoon.com/my-top-5-best-practices-for-reactjs)
 ![](https://cdn.hackernoon.com/images/QepJZAyLUDcMpCXcZjnWeHJM7ad2-8893jy9.jpeg)
@@ -173,13 +177,13 @@ The article compares coding to building a castle with Legos and emphasizes the i
 ![](https://cdn.hackernoon.com/images/f8ChYF2U4MRmYNmy61YoItMITZl2-fv93qg9.jpeg)
 Having self-explanatory names can significantly improve the maintainability of a software without putting any significant effort.
 
-### [44. Beyond the Speed Trap: Building Software That Lasts](https://hackernoon.com/beyond-the-speed-trap-building-software-that-lasts)
-![](https://cdn.hackernoon.com/images/bLEwlwELoJf0jcv7RMYKPomXxVH3-mr134s3.png)
-Balancing speed and sustainability in software development is crucial. Learn how to scale efficiently without sacrificing quality or long-term stability.
-
-### [45. Javascript File Handling: 11 Golden Rules to Follow as a Programmer](https://hackernoon.com/javascript-file-handling-11-golden-rules-to-follow-as-a-programmer)
+### [44. Javascript File Handling: 11 Golden Rules to Follow as a Programmer](https://hackernoon.com/javascript-file-handling-11-golden-rules-to-follow-as-a-programmer)
 ![](https://cdn.hackernoon.com/images/XQn03swUJJOIsVBs0XQ0hISFcSo2-fp92qcs.jpeg)
 Learn the 11 golden rules for handling files with Javascript like a pro! From error handling to security considerations, be a responsible programmer.
+
+### [45. Beyond the Speed Trap: Building Software That Lasts](https://hackernoon.com/beyond-the-speed-trap-building-software-that-lasts)
+![](https://cdn.hackernoon.com/images/bLEwlwELoJf0jcv7RMYKPomXxVH3-mr134s3.png)
+Balancing speed and sustainability in software development is crucial. Learn how to scale efficiently without sacrificing quality or long-term stability.
 
 ### [46. Continuous Integration: Best Practices To Follow](https://hackernoon.com/continuous-integration-best-practices-to-follow-mf3c3v2j)
 ![](https://cdn.hackernoon.com/images/fsi3yg3.jpg)
@@ -193,37 +197,37 @@ Choosing the right CSS selectors can be a lot of trouble and there’s so much i
 ![](https://cdn.hackernoon.com/images/PuJWYJOUWjRQa8kaQtWAmFC3RhX2-lt1351u.png)
 Refactoring isn't a luxury — it's a habit that separates good engineers from great ones. 
 
-### [49. SOLID Principles in JavaScript: What Does the "O" Stand For?](https://hackernoon.com/solid-principles-in-javascript-what-does-the-o-stand-for)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-cba3z06.jpeg)
-Hello, guys. This is the second article about SOLID principles with Javascript examples. In my previous article I described what are patterns in general, what is SOLID and why we should use them. If you haven't read it, pls, read it now and continue read current article after the previous one.
+### [49. Clean Code: Functions and Error Handling in Go: From Chaos to Clarity [Part 1]](https://hackernoon.com/clean-code-functions-and-error-handling-in-go-from-chaos-to-clarity-part-1)
+![](https://cdn.hackernoon.com/images/ZTiVtl9TF6Mqdq0GSgDuxuALFDX2-3o023ba.png)
+Learn how to write clean Go functions that pass code review. Practical patterns for single responsibility, error handling, and the defer statement from 6 years 
 
 ### [50. One-Click Environments: The Ultimate DevOps Goal and How to Achieve It with TPCS Framework](https://hackernoon.com/one-click-environments-the-ultimate-devops-goal-and-how-to-achieve-it-with-tpcs-framework)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-1q83kih.jpeg)
 Striving for One-Click Environments speeds up development, improves code quality, and improves recoverability.
 
-### [51. Clean Code: Interfaces in Go - Why Small Is Beautiful [Part 3]](https://hackernoon.com/clean-code-interfaces-in-go-why-small-is-beautiful-part-3)
+### [51. SOLID Principles in JavaScript: What Does the "O" Stand For?](https://hackernoon.com/solid-principles-in-javascript-what-does-the-o-stand-for)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-cba3z06.jpeg)
+Hello, guys. This is the second article about SOLID principles with Javascript examples. In my previous article I described what are patterns in general, what is SOLID and why we should use them. If you haven't read it, pls, read it now and continue read current article after the previous one.
+
+### [52. Clean Code: Interfaces in Go - Why Small Is Beautiful [Part 3]](https://hackernoon.com/clean-code-interfaces-in-go-why-small-is-beautiful-part-3)
 ![](https://cdn.hackernoon.com/images/ZTiVtl9TF6Mqdq0GSgDuxuALFDX2-d10233z.png)
 Master Go interfaces: why single-method interfaces rule, accept interfaces return structs, and the nil interface gotcha that crashes production. From 6 years of
 
-### [52. xUnit: Managing Complex Test Parameters](https://hackernoon.com/xunit-managing-complex-test-parameters-c61j34hx)
+### [53. xUnit: Managing Complex Test Parameters](https://hackernoon.com/xunit-managing-complex-test-parameters-c61j34hx)
 ![](https://cdn.hackernoon.com/images/IiLjzvoDDoY0EkD7DtHRImKjN072-n61232zw.jpeg)
 xUnit support many ways of parameterizing tests, however none of the existing documentation I could find covered the use case of re-using and mixing parameter datasets across different tests. This article shows how this can be done with xUnit in Visual Studio.
 
-### [53. The Meaning of Functions in Julia](https://hackernoon.com/the-meaning-of-functions-in-julia-ix1u3u1p)
+### [54. The Meaning of Functions in Julia](https://hackernoon.com/the-meaning-of-functions-in-julia-ix1u3u1p)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnCSawKc6NmOIK1EkzNlN1Sb5Hal1-n5613xsa.jpeg?alt=media&token=40efcd48-ac4a-4d37-aa83-b198feb0f78f)
 When I first learned about the Julia programming language, there were a few things that gave me the "wat" moments. One of those surprises involves both the naming and meaning of functions.
 
-### [54. Tips For Documenting Your Code](https://hackernoon.com/tips-for-documenting-your-code-6d6f3yp3)
+### [55. Tips For Documenting Your Code](https://hackernoon.com/tips-for-documenting-your-code-6d6f3yp3)
 ![](https://cdn.hackernoon.com/images/ocgb3yi4.jpg)
 Some will tell you that good code is self-documenting. In other words, if you write clear code then you won’t need comments.
 
-### [55. The 30-Day .NET Challenge - Day 22: Use Array Pool](https://hackernoon.com/the-30-day-net-challenge-day-22-use-array-pool)
+### [56. The 30-Day .NET Challenge - Day 22: Use Array Pool](https://hackernoon.com/the-30-day-net-challenge-day-22-use-array-pool)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-ju833qr.jpeg)
 ArrayPool is a mechanism to recycle temporary buffers and optimize performance by reducing garbage collection cycles. It is part of the System.Buffers namespace
-
-### [56. Clean Code: Functions and Error Handling in Go: From Chaos to Clarity [Part 1]](https://hackernoon.com/clean-code-functions-and-error-handling-in-go-from-chaos-to-clarity-part-1)
-![](https://cdn.hackernoon.com/images/ZTiVtl9TF6Mqdq0GSgDuxuALFDX2-3o023ba.png)
-Learn how to write clean Go functions that pass code review. Practical patterns for single responsibility, error handling, and the defer statement from 6 years 
 
 ### [57. A Better Implementation of Enhanced Repository Pattern in .NET C#](https://hackernoon.com/a-better-implementation-of-enhanced-repository-pattern-in-net-c)
 ![](https://cdn.hackernoon.com/images/xRVOalNFPncXbrkPOPL6HNKgUvw1-5w93qq6.jpeg)
@@ -237,113 +241,113 @@ Setting up Environment Variables is the best practices in web dev world. But it 
 ![](https://cdn.hackernoon.com/images/m72bmcDdzHOrG3tFshlZQsYEzRn2-eaa3x21.jpeg)
 Take a look at the benefits of implementing this practice and some of the best practices you should follow in your DevOps pipeline.
 
-### [60. Design and Deploy a Completely Private and Secured Networking Architecture on Cloud Using Automation](https://hackernoon.com/design-and-deploy-a-completely-private-and-secured-networking-architecture-on-cloud-using-automation)
-![](https://cdn.hackernoon.com/images/bN8L9KD05dR2WJZXHSRkdBO6PM43-mnf3eo9.png)
-With the introduction of Virtual Private Cloud, network security has become even more critical. 
-
-### [61. 7 Git Practices to Start Using in Your Next Commit](https://hackernoon.com/7-git-practices-to-start-using-in-your-next-commit-t78t3y6v)
+### [60. 7 Git Practices to Start Using in Your Next Commit](https://hackernoon.com/7-git-practices-to-start-using-in-your-next-commit-t78t3y6v)
 ![](https://cdn.hackernoon.com/drafts/igbt3y0x.png)
 Every software has best practices. Git is not different. It has become the most used versioning system in the last years. Many companies adopted git because of its features. If you wonder why git is so powerful, here are some of the advantages over other versioning systems, like Subversion:
 
-### [62. Kubernetes And Containers, Explained ☸️💡🎉](https://hackernoon.com/kubernetes-and-containers-explained-3v1e3ude)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYm7bbCbw8UcA1AIzL1oD4AdNGCj1-oq73ehl.png?alt=media&token=61396031-92fd-4dbf-8540-aada921714b4)
-Kubernetes is the de facto standard for running containerized applications. Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications.
+### [61. Design and Deploy a Completely Private and Secured Networking Architecture on Cloud Using Automation](https://hackernoon.com/design-and-deploy-a-completely-private-and-secured-networking-architecture-on-cloud-using-automation)
+![](https://cdn.hackernoon.com/images/bN8L9KD05dR2WJZXHSRkdBO6PM43-mnf3eo9.png)
+With the introduction of Virtual Private Cloud, network security has become even more critical. 
 
-### [63. 5 Best Practices For Artists Creating NFTs](https://hackernoon.com/5-best-practices-for-artists-creating-nfts)
+### [62. 5 Best Practices For Artists Creating NFTs](https://hackernoon.com/5-best-practices-for-artists-creating-nfts)
 ![](https://cdn.hackernoon.com/images/C3Nw2pkrfiWyIlW5ZijkH6EyinE2-8a93jec.jpeg)
 The NFT community is growing stronger and more dynamic by the day. This article covers the top challenges and five best practices using artist data.  
+
+### [63. Kubernetes And Containers, Explained ☸️💡🎉](https://hackernoon.com/kubernetes-and-containers-explained-3v1e3ude)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYm7bbCbw8UcA1AIzL1oD4AdNGCj1-oq73ehl.png?alt=media&token=61396031-92fd-4dbf-8540-aada921714b4)
+Kubernetes is the de facto standard for running containerized applications. Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications.
 
 ### [64. Best Practices For Backend Data Security](https://hackernoon.com/best-practices-for-backend-data-security)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-5g93nxi.jpeg)
 Backend data security relies in encryption, access control, data backup and other such features to exist. These best practices are intended for the backend.
 
-### [65. JavaScript's Clipboard Copy: Crafting with AI](https://hackernoon.com/javascripts-clipboard-copy-crafting-with-ai)
+### [65. Code Reviews: A Multi-Tool You Paid Too Much For and Now Hesitate to Throw Away ](https://hackernoon.com/code-reviews-a-multi-tool-you-paid-too-much-for-and-now-hesitate-to-throw-away)
+![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-2f93ng4.jpeg)
+Code reviews are a poor substitute for validation and verification, training, and team building.
+
+### [66. JavaScript's Clipboard Copy: Crafting with AI](https://hackernoon.com/javascripts-clipboard-copy-crafting-with-ai)
 ![](https://cdn.hackernoon.com/images/EVKIyOE5g0e70Zsmj3IswB8Udbk2-hr936bf.jpeg)
 Dive into a reusable JavaScript Clipboard Copy Function crafted with AI, highlighting error handling & best practices.
 
-### [66. Crypto Casinos: How the Integration of Blockchain Can Create More Transparency](https://hackernoon.com/crypto-casinos-how-the-integration-of-blockchain-can-create-more-transparency)
+### [67. Crypto Casinos: How the Integration of Blockchain Can Create More Transparency](https://hackernoon.com/crypto-casinos-how-the-integration-of-blockchain-can-create-more-transparency)
 ![](https://cdn.hackernoon.com/images/J6OdEYt79wffykGxQ0u2VfFLIvg1-ak036n7.jpeg)
 The changes that the integration of blockchain in online casinos has to offer, looks quite promising. Blockchain is all set to revolutionize online casinos. 
-
-### [67. Code Reviews: A Multi-Tool You Paid Too Much For and Now Hesitate to Throw Away ](https://hackernoon.com/code-reviews-a-multi-tool-you-paid-too-much-for-and-now-hesitate-to-throw-away)
-![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-2f93ng4.jpeg)
-Code reviews are a poor substitute for validation and verification, training, and team building.
 
 ### [68. Being A Better Coder With Serhii Rubets](https://hackernoon.com/being-a-better-coder-with-serhii-rubets)
 ![](https://cdn.hackernoon.com/images/S0zuR5PfGFN2e1h8xuRZHD1SPBK2-b693kc1.jpeg)
 How to become a good software engineer? How to learn from scratch? Why I share my knowledge? Why is Javascript so popular? And what would I do with money?
 
-### [69. Logging Vs. Monitoring: Best Practices for Logging [Part 2]](https://hackernoon.com/logging-vs-monitoring-best-practices-for-logging-part-2-rk2s33su)
-![](https://cdn.hackernoon.com/images/CfwKcq2ny4hfMjglXzZ0Z89fz1R2-b94y34e2.jpeg)
-Logging and Monitoring… this I tell you, brother. You can't have one without the other.
+### [69. SOLID Principles In Practice With Python And UML Examples in 2025](https://hackernoon.com/solid-principles-in-practice-with-python-and-uml-examples-in-2025)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-de02010.jpeg)
+SOLID principles explained with Python & UML. Simple, practical examples for writing clean, future-proof code.
 
 ### [70. From Monoliths to Microservices: Migration in Practice](https://hackernoon.com/from-monoliths-to-microservices-migration-in-practice)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-pb92d7s.jpeg)
 This isn't another "break down the monolith" article. This post is about making the applicable decisions, measuring and verifying the results
 
-### [71. Deciphering Chrome's Coverage Panel](https://hackernoon.com/deciphering-chromes-coverage-panel)
+### [71. Logging Vs. Monitoring: Best Practices for Logging [Part 2]](https://hackernoon.com/logging-vs-monitoring-best-practices-for-logging-part-2-rk2s33su)
+![](https://cdn.hackernoon.com/images/CfwKcq2ny4hfMjglXzZ0Z89fz1R2-b94y34e2.jpeg)
+Logging and Monitoring… this I tell you, brother. You can't have one without the other.
+
+### [72. Deciphering Chrome's Coverage Panel](https://hackernoon.com/deciphering-chromes-coverage-panel)
 ![](https://cdn.hackernoon.com/images/OaKbDySLt9XUEwmFIQVq3BBEYot1-5t83xh0.jpeg)
 In this article, we'll discuss using Chrome's Code Coverage panel and how you can leverage its insights to optimise performance.
 
-### [72. 7 Best Practices for Writing NodeJS Applications](https://hackernoon.com/7-best-practices-for-writing-nodejs-applications)
+### [73. 7 Best Practices for Writing NodeJS Applications](https://hackernoon.com/7-best-practices-for-writing-nodejs-applications)
 ![](https://cdn.hackernoon.com/images/Qam0yHGLEIaMMqEaBuBm4zQZysQ2-1ib3btw.jpeg)
 Best practices to follow while writing the node.js application. 
 
-### [73. Design for E-Commerce Apps Using a NoSQL Database](https://hackernoon.com/design-for-e-commerce-apps-using-a-nosql-database-qz2p310f)
+### [74. Design for E-Commerce Apps Using a NoSQL Database](https://hackernoon.com/design-for-e-commerce-apps-using-a-nosql-database-qz2p310f)
 ![](https://cdn.hackernoon.com/images/IroSf6EnlyPFluZD7T6u8Nu07vM2-1ir31n5.jpeg)
 Working with a lot of data like products, orders, categories, users and payments is a very important topic when building e-commerce applications. In this post you'll learn the very basics of structuring your noSQL schema so it's fast and scalable for e-commerce scenarios.
-
-### [74. SOLID Principles In Practice With Python And UML Examples in 2025](https://hackernoon.com/solid-principles-in-practice-with-python-and-uml-examples-in-2025)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-de02010.jpeg)
-SOLID principles explained with Python & UML. Simple, practical examples for writing clean, future-proof code.
 
 ### [75. 3 Must Have Practices for Distributed Developers](https://hackernoon.com/3-must-have-practices-for-distributed-developers-x23u3ylc)
 ![](https://cdn.hackernoon.com/images/5fcm3yct.jpg)
 During the last several years working in the global corporate world I have come across a repeating challenge for distributed coders to efficiently work together as early as the beginning of their ramp up. 
 
-### [76. If Your Documentation Takes Two Clicks to Open, Congrats - It’s Already Outdated](https://hackernoon.com/if-your-documentation-takes-two-clicks-to-open-congrats-its-already-outdated)
-![](https://cdn.hackernoon.com/images/XAABEU8meidDRZoEexv1kqoGdLn2-as13bdk.jpeg)
-An article on effective documentation practices in software development, explaining how to structure specs, READMEs, JavaDocs, and clean code. 
-
-### [77. How to Name Things Properly](https://hackernoon.com/how-to-name-things-properly-8k1c3e4r)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnCSawKc6NmOIK1EkzNlN1Sb5Hal1-xla53xv3.jpeg?alt=media&token=653a2e5b-c24a-42b4-b3ce-3ea20b1b9064)
-Perhaps it is not news to everyone that there are two hard things in Computer Science. 
-
-### [78. What do You Need to Get Your Website Off the Ground?](https://hackernoon.com/what-do-you-need-to-get-your-website-off-the-ground)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-na931nx.jpeg)
-The rise of technology trends has gathered in a way that to gain the attraction of a product or service a website seems to be essential to gain traction.
-
-### [79. Web Application Security: A Broader Perspective](https://hackernoon.com/web-application-security-a-broader-perspective-pl26t30kq)
-![](https://cdn.hackernoon.com/drafts/g83230y1.png)
-Security has become an integral part of software development and operations lifecycle. When it comes to web applications, there are well-established patterns and practices to ensure securing the data. Typically most of us consider access control and securing the data at rest and transit for protection. Though these areas are fundamentally important, there are many more things to do to establish overall security of a web application. This article focuses on providing a broader perspective of things, in developing secure software focusing mostly on web applications.
-
-### [80. 6 Tailwind CSS Productivity Hacks Every Developer Should Know](https://hackernoon.com/6-tailwind-css-productivity-hacks-every-developer-should-know)
+### [76. 6 Tailwind CSS Productivity Hacks Every Developer Should Know](https://hackernoon.com/6-tailwind-css-productivity-hacks-every-developer-should-know)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-id02u5v.jpeg)
 While Tailwind is already a powerful tool, there are ways to make it even more efficient.
 
-### [81. Figuring Out When Not To Use DI, IoC, and IoC Containers in .NET C#](https://hackernoon.com/figuring-out-when-not-to-use-di-ioc-and-ioc-containers-in-net-c)
+### [77. If Your Documentation Takes Two Clicks to Open, Congrats - It’s Already Outdated](https://hackernoon.com/if-your-documentation-takes-two-clicks-to-open-congrats-its-already-outdated)
+![](https://cdn.hackernoon.com/images/XAABEU8meidDRZoEexv1kqoGdLn2-as13bdk.jpeg)
+An article on effective documentation practices in software development, explaining how to structure specs, READMEs, JavaDocs, and clean code. 
+
+### [78. How to Name Things Properly](https://hackernoon.com/how-to-name-things-properly-8k1c3e4r)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnCSawKc6NmOIK1EkzNlN1Sb5Hal1-xla53xv3.jpeg?alt=media&token=653a2e5b-c24a-42b4-b3ce-3ea20b1b9064)
+Perhaps it is not news to everyone that there are two hard things in Computer Science. 
+
+### [79. What do You Need to Get Your Website Off the Ground?](https://hackernoon.com/what-do-you-need-to-get-your-website-off-the-ground)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-na931nx.jpeg)
+The rise of technology trends has gathered in a way that to gain the attraction of a product or service a website seems to be essential to gain traction.
+
+### [80. Figuring Out When Not To Use DI, IoC, and IoC Containers in .NET C#](https://hackernoon.com/figuring-out-when-not-to-use-di-ioc-and-ioc-containers-in-net-c)
 ![](https://cdn.hackernoon.com/images/xRVOalNFPncXbrkPOPL6HNKgUvw1-8h93qpk.jpeg)
 Learn the best practice on when to use Dependency Injection (DI), Inversion of Control (IoC) and IoC Containers. DotNet .NET CSharp C# Design Architecture
+
+### [81. Web Application Security: A Broader Perspective](https://hackernoon.com/web-application-security-a-broader-perspective-pl26t30kq)
+![](https://cdn.hackernoon.com/drafts/g83230y1.png)
+Security has become an integral part of software development and operations lifecycle. When it comes to web applications, there are well-established patterns and practices to ensure securing the data. Typically most of us consider access control and securing the data at rest and transit for protection. Though these areas are fundamentally important, there are many more things to do to establish overall security of a web application. This article focuses on providing a broader perspective of things, in developing secure software focusing mostly on web applications.
 
 ### [82. 13 Tools To Try On Your Next Javascript Based Project](https://hackernoon.com/13-tools-to-try-on-your-next-javascript-based-project-j6153t86)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-mvd3tsg.jpeg?alt=media&token=07bb2f41-b5db-410b-a14d-19104156412c)
 On every project, there are always tools that can help your team align, standardise, and increase productivity and quality of code through their use.
 
-### [83. Startup Equity for Employees: Glossary, Guidelines, and Software](https://hackernoon.com/startup-equity-for-employees-glossary-guidelines-and-software-ol3h3thv)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-q73e3tqp.jpeg?alt=media&token=23f644d2-c5b8-45ee-a1d7-a2929b12407b)
-Startup equity is something that every startup founder struggles with even if they have an MBA. In fact, no one really thinks about this until it becomes important, which happens when they start a business or are being compensated by a business. Everyone who puts in a lot for the business deserves to get a piece of the cake in the business. 
+### [83. 6 Things You Should Not Do in JavaScript](https://hackernoon.com/6-things-you-should-not-do-in-javascript)
+![](https://cdn.hackernoon.com/images/XIlys8PrM8eJ7n0qjETjuC0lbkB2-f093or8.jpeg)
+In JavaScript, there are many ways to do the same things. But not all of them are equally good. And some of them you should not use at all.
 
-### [84. Building API Integrations Like a Pro](https://hackernoon.com/building-api-integrations-like-a-pro-vvt3tz3)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZU0eJAp5VveahOSuhUDdoMF6uE43-1h1728y9.jpeg?alt=media&token=862013f3-63f4-4bd3-8576-118cbb5351c6)
-Modern applications aren’t built in silos. They rely on the features of other applications. This reliance can come in the form of open-source libraries, access to a wealth of data, or complex features distilled down into a consumable API. Incorporating third-party dependencies into your own project can be challenging. It comes with the benefits of faster development, and the downside of reliance. 
-
-### [85. 15 Best Practices for Call Center Management](https://hackernoon.com/15-best-practices-for-call-center-management)
+### [84. 15 Best Practices for Call Center Management](https://hackernoon.com/15-best-practices-for-call-center-management)
 ![](https://cdn.hackernoon.com/images/xY6tIr0wjmPVxJXjmpzsAnSmAoO2-q793o4j.jpeg)
 15 best practices for Effective Call Center Management to deliver Exceptional Customer Service Experience.
 
-### [86. 6 Things You Should Not Do in JavaScript](https://hackernoon.com/6-things-you-should-not-do-in-javascript)
-![](https://cdn.hackernoon.com/images/XIlys8PrM8eJ7n0qjETjuC0lbkB2-f093or8.jpeg)
-In JavaScript, there are many ways to do the same things. But not all of them are equally good. And some of them you should not use at all.
+### [85. Startup Equity for Employees: Glossary, Guidelines, and Software](https://hackernoon.com/startup-equity-for-employees-glossary-guidelines-and-software-ol3h3thv)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-q73e3tqp.jpeg?alt=media&token=23f644d2-c5b8-45ee-a1d7-a2929b12407b)
+Startup equity is something that every startup founder struggles with even if they have an MBA. In fact, no one really thinks about this until it becomes important, which happens when they start a business or are being compensated by a business. Everyone who puts in a lot for the business deserves to get a piece of the cake in the business. 
+
+### [86. Building API Integrations Like a Pro](https://hackernoon.com/building-api-integrations-like-a-pro-vvt3tz3)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZU0eJAp5VveahOSuhUDdoMF6uE43-1h1728y9.jpeg?alt=media&token=862013f3-63f4-4bd3-8576-118cbb5351c6)
+Modern applications aren’t built in silos. They rely on the features of other applications. This reliance can come in the form of open-source libraries, access to a wealth of data, or complex features distilled down into a consumable API. Incorporating third-party dependencies into your own project can be challenging. It comes with the benefits of faster development, and the downside of reliance. 
 
 ### [87. Software Engineering Best Practices Collection for Machine Learning](https://hackernoon.com/software-engineering-best-practices-collection-for-machine-learning-j361364e)
 ![](https://images.unsplash.com/photo-1533285860212-c85e7140a408?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -353,61 +357,61 @@ An ever-increasing number of organizations are developing applications that invo
 ![](https://cdn.hackernoon.com/images/y5M7U5dd2bYoTsjstF6ciupNa1y1-hi035po.jpeg)
 Smaller pull requests = better code. Learn how they reduce bugs and boost collaboration.
 
-### [89. Treat Your LLM Prompts Like Code](https://hackernoon.com/treating-your-llm-prompts-like-code-can-save-your-ai-project)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-u402uej.jpeg)
-Prompts used in a product should be treated as code rather than mere text. 
+### [89. Best Practices for API Security: JavaScript and Python Examples ](https://hackernoon.com/best-practices-for-api-security-javascript-and-python-examples)
+![](https://cdn.hackernoon.com/images/ahtiEWeKi5Q3mnkSzvRwGRF8Ez63-pl02tye.png)
+Explore some APIs and security best practices in JavaScript, React, and Python. Enhance your app's security by combining these practices and techniques.
 
 ### [90. Why Reading JavaScript Is More Difficult When Default Exports Are Used](https://hackernoon.com/why-reading-javascript-is-more-difficult-when-default-exports-are-used)
 ![](https://cdn.hackernoon.com/images/v2vbcF16oXZmHSCzmO79EscR2hQ2-bb93lpq.jpeg)
 How using default exports hurts your codebase readability and refactoring.
 
-### [91. Best Practices for API Security: JavaScript and Python Examples ](https://hackernoon.com/best-practices-for-api-security-javascript-and-python-examples)
-![](https://cdn.hackernoon.com/images/ahtiEWeKi5Q3mnkSzvRwGRF8Ez63-pl02tye.png)
-Explore some APIs and security best practices in JavaScript, React, and Python. Enhance your app's security by combining these practices and techniques.
-
-### [92. TDD Was Never About Tests. AI Proved It.](https://hackernoon.com/tdd-was-never-about-tests-ai-proved-it)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-km822c3.jpeg)
-TDD’s real value was never the mechanics—it was the thinking behind it.
-
-### [93. A Practical Framework for Consistent Repository Documentation](https://hackernoon.com/a-practical-framework-for-consistent-repository-documentation)
+### [91. A Practical Framework for Consistent Repository Documentation](https://hackernoon.com/a-practical-framework-for-consistent-repository-documentation)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bs022m0.jpeg)
 Even solo engineers, who once had a free pass, must now contend with the inconsistency of AI-generated documentation. 
 
-### [94. Best Practices of Cloud Networks Usage in Fintech](https://hackernoon.com/best-practices-of-cloud-networks-usage-in-fintech)
-![](https://cdn.hackernoon.com/images/dGWqB8LEZBhGjcvFXLwmrj7Beog2-qf929zw.jpeg)
-Making good use of a could network first requires firms to consider if they would be meeting their regulatory obligations before ensuring network resilience.
+### [92. Treat Your LLM Prompts Like Code](https://hackernoon.com/treating-your-llm-prompts-like-code-can-save-your-ai-project)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-u402uej.jpeg)
+Prompts used in a product should be treated as code rather than mere text. 
 
-### [95. 6 Lessons I Learned with Software Testing](https://hackernoon.com/6-lessons-i-learned-with-software-testing-sdo3uz9)
-![](https://images.unsplash.com/photo-1516382799247-87df95d790b7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-For the last few of months I started digging into the software testing world. I really wanted to learn more about how to create more effective tests, refactor code with more confidence and feel safe about adding new features. However, I felt it is little difficult to dive right in this area, that in my point of view, is underestimated.
-
-### [96. SOLID Principles in JavaScript: What Does the "D" Stand For?](https://hackernoon.com/solid-principles-in-javascript-what-does-the-d-stand-for)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-5k93hty.jpeg)
-Hello, guys, this is the last part of SOLID Principles in JavaScript and if you haven't read the previous three (first part, second part, third part, fourth part), I highly recommend to read them first and come back here.
-
-### [97. Everything You Need to Know About Dead Code ](https://hackernoon.com/everything-you-need-to-know-about-dead-code)
+### [93. Everything You Need to Know About Dead Code ](https://hackernoon.com/everything-you-need-to-know-about-dead-code)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-hy020ew.jpeg)
 A practical guide to identifying, understanding, and safely cleaning up dead code to keep your codebase fast, clean, and maintainable.
 
-### [98. Is it Enough to Define IMyInterface<T>? Do I Need IMyInterface as Well?](https://hackernoon.com/is-it-enough-to-define-imyinterfacelesstgreater-do-i-need-imyinterface-as-well)
+### [94. TDD Was Never About Tests. AI Proved It.](https://hackernoon.com/tdd-was-never-about-tests-ai-proved-it)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-km822c3.jpeg)
+TDD’s real value was never the mechanics—it was the thinking behind it.
+
+### [95. How I Mastered JavaScript Event Loop and Concurrent Model](https://hackernoon.com/how-i-mastered-javascript-event-loop-and-concurrent-model)
+![](https://cdn.hackernoon.com/images/nO7m01AhBMMWkHTD9rNgMyrtM5z2-e103dwj.png)
+Discover practical tips for building responsive web applications without freezing the UI.
+
+### [96. Best Practices of Cloud Networks Usage in Fintech](https://hackernoon.com/best-practices-of-cloud-networks-usage-in-fintech)
+![](https://cdn.hackernoon.com/images/dGWqB8LEZBhGjcvFXLwmrj7Beog2-qf929zw.jpeg)
+Making good use of a could network first requires firms to consider if they would be meeting their regulatory obligations before ensuring network resilience.
+
+### [97. 6 Lessons I Learned with Software Testing](https://hackernoon.com/6-lessons-i-learned-with-software-testing-sdo3uz9)
+![](https://images.unsplash.com/photo-1516382799247-87df95d790b7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+For the last few of months I started digging into the software testing world. I really wanted to learn more about how to create more effective tests, refactor code with more confidence and feel safe about adding new features. However, I felt it is little difficult to dive right in this area, that in my point of view, is underestimated.
+
+### [98. SOLID Principles in JavaScript: What Does the "D" Stand For?](https://hackernoon.com/solid-principles-in-javascript-what-does-the-d-stand-for)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-5k93hty.jpeg)
+Hello, guys, this is the last part of SOLID Principles in JavaScript and if you haven't read the previous three (first part, second part, third part, fourth part), I highly recommend to read them first and come back here.
+
+### [99. Is it Enough to Define IMyInterface<T>? Do I Need IMyInterface as Well?](https://hackernoon.com/is-it-enough-to-define-imyinterfacelesstgreater-do-i-need-imyinterface-as-well)
 ![](https://cdn.hackernoon.com/images/xRVOalNFPncXbrkPOPL6HNKgUvw1-ut93q46.jpeg)
 Best Practice for designing Interfaces in DotNet (.NET) CSharp (C#). When to define a non-generic interface in addition to the generic interface.
 
-### [99. 5 Tech Best Practices for Smooth Business Transition](https://hackernoon.com/5-tech-best-practices-for-smooth-business-transition)
+### [100. 5 Tech Best Practices for Smooth Business Transition](https://hackernoon.com/5-tech-best-practices-for-smooth-business-transition)
 ![](https://cdn.hackernoon.com/images/bf5MdUZkm2XA5ajgVIztMBkqLBz2-j393re6.jpeg)
 A business transition plan requires specific strategies and collaborations. Here is the tech required to ensure a smooth transition.
 
-### [100. Maritime Service and Full Stack JS: Interview with 2022 Noonies Nominee, Serhii Rubets](https://hackernoon.com/maritime-service-and-full-stack-js-interview-with-2022-noonies-nominee-serhii-rubets)
+### [101. Maritime Service and Full Stack JS: Interview with 2022 Noonies Nominee, Serhii Rubets](https://hackernoon.com/maritime-service-and-full-stack-js-interview-with-2022-noonies-nominee-serhii-rubets)
 ![](https://cdn.hackernoon.com/images/S0zuR5PfGFN2e1h8xuRZHD1SPBK2-xg93kon.jpeg)
 This short story is about me, and how I become a software engineer. Why I'm sharing my knowledge and why I create educational content.
 
-### [101. A Job Interview Made Me Wonder If Mobile Apps Truly Are Inclusive](https://hackernoon.com/a-job-interview-made-me-wonder-if-mobile-apps-truly-are-inclusive)
+### [102. A Job Interview Made Me Wonder If Mobile Apps Truly Are Inclusive](https://hackernoon.com/a-job-interview-made-me-wonder-if-mobile-apps-truly-are-inclusive)
 ![](https://cdn.hackernoon.com/images/generate-image-that-can-be-used-to-describe-mobile-accessibility-fwsndidjj3n99od44p89gwmc.png)
 Discover simple ways to make your mobile app more inclusive and accessible for everyone.
-
-### [102. How I Mastered JavaScript Event Loop and Concurrent Model](https://hackernoon.com/how-i-mastered-javascript-event-loop-and-concurrent-model)
-![](https://cdn.hackernoon.com/images/nO7m01AhBMMWkHTD9rNgMyrtM5z2-e103dwj.png)
-Discover practical tips for building responsive web applications without freezing the UI.
 
 ### [103. Design Philosophies You Should Embrace When Creating Web Applications For Users With Disabilities](https://hackernoon.com/design-philosophies-you-should-embrace-when-creating-web-applications-for-users-with-disabilities)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-1th31mp.gif.webp)
@@ -421,29 +425,29 @@ Learn paging/partitioning mathematical equations and how to apply them in JavaSc
 ![](https://cdn.hackernoon.com/images/xRVOalNFPncXbrkPOPL6HNKgUvw1-gy93qa9.jpeg)
 Know when to depend on String.GetHashCode() in DotNet (.NET) CSharp (C#), and when not. Coding Programming Software Development Engineering Architecture
 
-### [106. How To Determine The Right HTTP Response Code For Various Situations](https://hackernoon.com/how-to-determine-the-right-http-response-code-for-various-situations-hl34359u)
+### [106. Stop Writing Messy AEM Code—HTL Is the Only Templating Language That Gets It Right](https://hackernoon.com/stop-writing-messy-aem-codehtl-is-the-only-templating-language-that-gets-it-right)
+![](https://cdn.hackernoon.com/images/0xdv1H3SiLXiSmbJdxrqlY0JO5I2-29135os.jpeg)
+A deep dive into HTL, exploring its core features, best practices, and how you can write efficient and maintainable code using this language.
+
+### [107. How To Determine The Right HTTP Response Code For Various Situations](https://hackernoon.com/how-to-determine-the-right-http-response-code-for-various-situations-hl34359u)
 ![](https://cdn.hackernoon.com/images/OEU7rDM2JZStpP1To3cbDp9JhWK2-879638wv.jpeg)
 A collection of a few things I needed to clear up (to myself or others) about HTTP Status Codes while building a RESTful API. 
 
-### [107. How to Handle Ransomware if You Are a Worldwide Multi-Platform Large-Scale Enterprise?](https://hackernoon.com/how-to-handle-ransomware-if-you-are-a-worldwide-multi-platform-large-scale-enterprise)
+### [108. How to Handle Ransomware if You Are a Worldwide Multi-Platform Large-Scale Enterprise?](https://hackernoon.com/how-to-handle-ransomware-if-you-are-a-worldwide-multi-platform-large-scale-enterprise)
 ![](https://cdn.hackernoon.com/images/9SBj6OzMvXOEhDxTjjuu75pLYnp1-qu738hy.webp)
 Handling Ransomware of Large Scale Enterprises is incredibly difficult. This article provides a guide to all you need. Outsourcing is viable for big companies.
 
-### [108. Maintain The Quality of Your Node.js Apps With These Best Practices](https://hackernoon.com/maintain-the-quality-of-your-nodejs-apps-with-these-best-practices-qj3237vu)
+### [109. Maintain The Quality of Your Node.js Apps With These Best Practices](https://hackernoon.com/maintain-the-quality-of-your-nodejs-apps-with-these-best-practices-qj3237vu)
 ![](https://cdn.hackernoon.com/images/gAd6KSigpJQlehhxE1ENz8dFG0z2-ybj35d0.jpeg)
 Node.js is an open-source, cross-platform, Javascript runtime environment for running javascript code outside the web browser.
 
-### [109. A Product Manager's take on AI-driven Risk Management](https://hackernoon.com/a-product-managers-take-on-ai-driven-risk-management)
+### [110. A Product Manager's take on AI-driven Risk Management](https://hackernoon.com/a-product-managers-take-on-ai-driven-risk-management)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4b02ym9.jpeg)
 A product manager's guide to transforming risk management with AI-led user-centric and metrics-driven strategies.
 
-### [110. Software Development Lifecycle: A Useful Guide](https://hackernoon.com/software-development-lifecycle-a-useful-guide)
+### [111. Software Development Lifecycle: A Useful Guide](https://hackernoon.com/software-development-lifecycle-a-useful-guide)
 ![](https://cdn.hackernoon.com/images/bK6famsVejQnj0vqeEXJK8YRaZX2-17b21ef.jpeg)
  This guide covers the SDLC's critical stages, providing practical insights and steps to apply in real-world projects, 
-
-### [111. Stop Writing Messy AEM Code—HTL Is the Only Templating Language That Gets It Right](https://hackernoon.com/stop-writing-messy-aem-codehtl-is-the-only-templating-language-that-gets-it-right)
-![](https://cdn.hackernoon.com/images/0xdv1H3SiLXiSmbJdxrqlY0JO5I2-29135os.jpeg)
-A deep dive into HTL, exploring its core features, best practices, and how you can write efficient and maintainable code using this language.
 
 ### [112. 98 Stories To Learn About Best Practices](https://hackernoon.com/98-stories-to-learn-about-best-practices)
 ![](https://cdn.hackernoon.com/images/github/best-practices-521.png)
@@ -453,94 +457,94 @@ Learn everything you need to know about Best Practices via these 98 free HackerN
 ![](https://cdn.hackernoon.com/images/m72bmcDdzHOrG3tFshlZQsYEzRn2-yk034z3.jpeg)
 Learn practical tips for managing Terraform variables to simplify your Infrastructure as Code and improve efficiency.
 
-### [114. Code Trashing Symptom](https://hackernoon.com/code-trashing-symptom-ee3x3uh7)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQyAjPSH5fVS6Xi0iNUkeB4pzthH2-6v1420xy.jpeg?alt=media&token=fd23d3cc-e75c-4215-ba38-37893bb02103)
-There are a set of skills and qualities which make the ideal software 
-developer we are all searching to be or searching for to employ. However, right now I am going to emphasize the importance of a quality that is mostly found in senior developers.
-
-### [115. How to do Code Reviews](https://hackernoon.com/how-to-do-code-reviews)
+### [114. How to do Code Reviews](https://hackernoon.com/how-to-do-code-reviews)
 ![](https://cdn.hackernoon.com/images/ifDiukLaCGVkd6C6aAyQ93quDOc2-cg9308z.png)
 Code reviews are an integral part of a developer's daily routine, ensuring the quality, correctness, and maintainability of the codebase.
 
-### [116. How ML Challenges Software Engineering](https://hackernoon.com/how-ml-challenges-software-engineering-n9w338b)
+### [115. How ML Challenges Software Engineering](https://hackernoon.com/how-ml-challenges-software-engineering-n9w338b)
 ![](https://cdn.hackernoon.com/images/BpDVO1gf0xRQ4XuXBFxz7wUhzCA3-hu3533pg.jpeg)
 Inherent uncertainty, data-driven behavior, rapid experimentation: characteristics of Machine Learning that disrupt traditional software engineering practices.
+
+### [116. Code Trashing Symptom](https://hackernoon.com/code-trashing-symptom-ee3x3uh7)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQyAjPSH5fVS6Xi0iNUkeB4pzthH2-6v1420xy.jpeg?alt=media&token=fd23d3cc-e75c-4215-ba38-37893bb02103)
+There are a set of skills and qualities which make the ideal software 
+developer we are all searching to be or searching for to employ. However, right now I am going to emphasize the importance of a quality that is mostly found in senior developers.
 
 ### [117. Another Reason to Use Docker](https://hackernoon.com/another-reason-to-use-docker-wr2433ye)
 ![](https://images.unsplash.com/photo-1500748711860-9cfa80025ceb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Recently I was working on a project which includes Terraform and AWS stuff. While working on that I was using my local machine for terraform code testing and luckily everything was going fine. But when we actually want to test it for the production environment we got some issues there. Then, as usual, we started to dig into the issue and finally, we got the issue which was quite a silly one 😜. The production server Terraform version and my local development server Terraform version was not the same.
 
-### [118. 10 Best Practices for Using Kubernetes Network Policies](https://hackernoon.com/10-best-practices-for-using-kubernetes-network-policies)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-e793pj4.jpeg)
-In this article, we will explore 10 best practices for using Kubernetes Network Policies to enhance the security and reliability of your applications.
-
-### [119. Protecting Your Gadgets from Hackers: 9 Cybersecurity Best Practices (2024)](https://hackernoon.com/protecting-your-gadgets-from-hackers-9-cybersecurity-best-practices-2024)
-![](https://cdn.hackernoon.com/images/qdkYnLUw9xdjQpeRvZMKjD8CCoR2-mo83xz0.jpeg)
-This article highlights current cybersecurity posture and provides practicable best practices that help businesses and individual protect their digital assets.
-
-### [120. The "Comment" Fallacy: Why Self-Documenting Code is Still the Goal](https://hackernoon.com/the-comment-fallacy-why-self-documenting-code-is-still-the-goal)
+### [118. The "Comment" Fallacy: Why Self-Documenting Code is Still the Goal](https://hackernoon.com/the-comment-fallacy-why-self-documenting-code-is-still-the-goal)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-g6023g3.jpeg)
 In the bible of software engineering, Clean Code, comments are often characterized as failures to write expressive code. 
 
-### [121. A Look At the Ultimate Commit](https://hackernoon.com/a-look-at-the-ultimate-commit)
+### [119. 10 Best Practices for Using Kubernetes Network Policies](https://hackernoon.com/10-best-practices-for-using-kubernetes-network-policies)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-e793pj4.jpeg)
+In this article, we will explore 10 best practices for using Kubernetes Network Policies to enhance the security and reliability of your applications.
+
+### [120. Protecting Your Gadgets from Hackers: 9 Cybersecurity Best Practices (2024)](https://hackernoon.com/protecting-your-gadgets-from-hackers-9-cybersecurity-best-practices-2024)
+![](https://cdn.hackernoon.com/images/qdkYnLUw9xdjQpeRvZMKjD8CCoR2-mo83xz0.jpeg)
+This article highlights current cybersecurity posture and provides practicable best practices that help businesses and individual protect their digital assets.
+
+### [121. Creating A Killer README File: Ultimate Guide](https://hackernoon.com/creating-a-killer-readme-file-ultimate-guide-but331x)
+![](https://cdn.hackernoon.com/images/LLNXiPKIsZM5IWTNJfmlBf6EZjZ2-138i26l3.jpeg)
+After code comments, the README file is one of the most ubiquitous forms of documentation found in software development today. 
+
+### [122. A Look At the Ultimate Commit](https://hackernoon.com/a-look-at-the-ultimate-commit)
 ![](https://cdn.hackernoon.com/images/OiCudEx8hXYwQnLdyEZXSvrvd8n2-scb3h47.jpeg)
 Every developer commit some code but not all know how to get the most from that simple procedure via slightly better organization and automation. Let's discuss
-
-### [122. How to Protect Kubernetes Clusters from Cyberthreats](https://hackernoon.com/how-to-protect-kubernetes-clusters-from-cyberthreats-hm3u33rr)
-![](https://cdn.hackernoon.com/images/yZ3Q2tQaW4Vw7EgPAzyp39LDH4E2-fw10329n.jpeg)
-Uncovering the importance of the role of authentication and user control provided by Kubernetes to bolster the best security practices 
-
-
 
 ### [123. Writing Effective Commit Messages: Best Practices and Conventional Commits](https://hackernoon.com/writing-effective-commit-messages-best-practices-and-conventional-commits)
 ![](https://cdn.hackernoon.com/images/YRaBw26oTddAlVDuWlFAngZSlvY2-2d93t04.jpeg)
 The Ultimate Guide to Writing Effective Commit Messages: Best Practices and Conventional Commits.
 
-### [124. Slack Will Reject Your App: 5 Reasons From Someone Who's Been Through The Process, TWICE](https://hackernoon.com/slack-will-reject-your-app-5-reasons-from-someone-whos-been-through-the-process-twice-5a4t3zbi)
+### [124. How to Protect Kubernetes Clusters from Cyberthreats](https://hackernoon.com/how-to-protect-kubernetes-clusters-from-cyberthreats-hm3u33rr)
+![](https://cdn.hackernoon.com/images/yZ3Q2tQaW4Vw7EgPAzyp39LDH4E2-fw10329n.jpeg)
+Uncovering the importance of the role of authentication and user control provided by Kubernetes to bolster the best security practices 
+
+
+
+### [125. Slack Will Reject Your App: 5 Reasons From Someone Who's Been Through The Process, TWICE](https://hackernoon.com/slack-will-reject-your-app-5-reasons-from-someone-whos-been-through-the-process-twice-5a4t3zbi)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkdToBBkjRyeMiIYMnNkwU0Czqfo1-3fl3we0.jpeg?alt=media&token=946cd766-2f9b-4c82-96ca-245d1bd03ace)
 At a time when businesses are increasingly relying on Slack for 
 day-to-day operations, the Slack App Directory is thriving. These days, 
 there are Slack apps for everything: from polls to team recognition, to daily standups, to promoting inclusive language. There has never been a better time to be a Slack user.
 
-### [125. Creating A Killer README File: Ultimate Guide](https://hackernoon.com/creating-a-killer-readme-file-ultimate-guide-but331x)
-![](https://cdn.hackernoon.com/images/LLNXiPKIsZM5IWTNJfmlBf6EZjZ2-138i26l3.jpeg)
-After code comments, the README file is one of the most ubiquitous forms of documentation found in software development today. 
-
-### [126. 5 Best Cybersecurity Practices for the Healthcare Industry](https://hackernoon.com/5-best-practices-for-cybersecurity-in-the-healthcare-industry)
-![](https://cdn.hackernoon.com/images/a4MuD79HxYeFaX5lE70zReKeiGG3-z3a3hzy.jpeg)
-Ensuring effective cybersecurity for healthcare organizations is not an easy feat. This article discusses five key best practices to strengthen cybersecurity in
-
-### [127. Lessons Learned Using Docker from Development to Production](https://hackernoon.com/lessons-learned-using-docker-from-development-to-production-00173uaq)
+### [126. Lessons Learned Using Docker from Development to Production](https://hackernoon.com/lessons-learned-using-docker-from-development-to-production-00173uaq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaQ7yg4CEDpTDsNvbr567B6gPOEz2-n62p23tt.jpeg?alt=media&token=b783e6a3-0afb-46b5-a408-398e65989c33)
 Like many tools in the software developer's toolbox, docker is relatively easy to jump into and takes some time to master. Using it for a variety of projects over the years I've learned a few lessons along the way.
+
+### [127. 5 Best Cybersecurity Practices for the Healthcare Industry](https://hackernoon.com/5-best-practices-for-cybersecurity-in-the-healthcare-industry)
+![](https://cdn.hackernoon.com/images/a4MuD79HxYeFaX5lE70zReKeiGG3-z3a3hzy.jpeg)
+Ensuring effective cybersecurity for healthcare organizations is not an easy feat. This article discusses five key best practices to strengthen cybersecurity in
 
 ### [128. The True Cost of Ransomware Attacks in 2023](https://hackernoon.com/the-true-cost-of-ransomware-attacks-in-2023)
 ![](https://cdn.hackernoon.com/images/5CxmZqGcE8a3R7wue3U8aqXEUvS2-kma3st0.jpeg)
 In this article, I’ll explain how ransomware works, the average ransom payment and other hidden costs that companies incur post-attack.
 
-### [129. How To Define HTTP Middleware and Best Practices](https://hackernoon.com/how-to-define-http-middleware-and-best-practices-sj7u3yym)
-![](https://cdn.hackernoon.com/images/z71jy3yj3.jpg)
-In order to capture API calls from arbitrary environments, we had to create middleware for many of the common web API frameworks. Here's what we learnt.
-
-### [130. Work From Home 101](https://hackernoon.com/work-from-home-101-of8d3vss)
-![](https://cdn.hackernoon.com/drafts/ub7c3ywa.png)
-Last year I broke my meniscus and had surgery. As a result, I cried a lot and worked from home for 3 months. It’s safe to say that nothing about this lockdown has surprised me, not even the part of not being able to leave the house. When life gives you lemons, write a Medium article, right? This are a few things that a picked along the way, and had actually worked great for me.
-
-### [131. Enhancing Web Performance: Strategies for Efficient Resource Fetching and Prioritization](https://hackernoon.com/enhancing-web-performance-strategies-for-efficient-resource-fetching-and-prioritization)
+### [129. Enhancing Web Performance: Strategies for Efficient Resource Fetching and Prioritization](https://hackernoon.com/enhancing-web-performance-strategies-for-efficient-resource-fetching-and-prioritization)
 ![](https://cdn.hackernoon.com/images/anfJV6KSo1bThcpN0mDFqo1MKQp2-kj835qm.jpeg)
 Discover powerful strategies to optimize web performance through efficient resource fetching and prioritization techniques. Learn about preconnect, DNS-prefetch
 
-### [132. How Hacker News Home Page Got Us 300+ Stars on GitHub in 24 Hours](https://hackernoon.com/how-hacker-news-home-page-got-us-300-stars-on-github-in-24-hours-mp153w7f)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-bat3wqf.jpeg?alt=media&token=65f799ce-7d2a-4398-8fbb-de88d28414c9)
-Hacker News is said to be the Holy Grail for tech folks. There’s one thing that a company, startups in particular, wants desperately: RIGHT traffic for free.
+### [130. How To Define HTTP Middleware and Best Practices](https://hackernoon.com/how-to-define-http-middleware-and-best-practices-sj7u3yym)
+![](https://cdn.hackernoon.com/images/z71jy3yj3.jpg)
+In order to capture API calls from arbitrary environments, we had to create middleware for many of the common web API frameworks. Here's what we learnt.
 
-### [133. The 30-Day .NET Challenge Day 13: ConfigureAwait(false)](https://hackernoon.com/the-30-day-net-challenge-day-13-configureawaitfalse)
+### [131. Work From Home 101](https://hackernoon.com/work-from-home-101-of8d3vss)
+![](https://cdn.hackernoon.com/drafts/ub7c3ywa.png)
+Last year I broke my meniscus and had surgery. As a result, I cried a lot and worked from home for 3 months. It’s safe to say that nothing about this lockdown has surprised me, not even the part of not being able to leave the house. When life gives you lemons, write a Medium article, right? This are a few things that a picked along the way, and had actually worked great for me.
+
+### [132. The 30-Day .NET Challenge Day 13: ConfigureAwait(false)](https://hackernoon.com/the-30-day-net-challenge-day-13-configureawaitfalse)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-jl833la.jpeg)
 The article demonstrates the use of ConfigureAwait(false) efficiently to add deadlock-free asynchronous code. The method mitigates the risk of deadlocks 
 
-### [134. 5 Tips to Build an Optimized Sales Process That Closes More Deals](https://hackernoon.com/5-tips-to-build-an-optimized-sales-process-that-closes-more-deals-a63a3715)
+### [133. 5 Tips to Build an Optimized Sales Process That Closes More Deals](https://hackernoon.com/5-tips-to-build-an-optimized-sales-process-that-closes-more-deals-a63a3715)
 ![](https://cdn.hackernoon.com/images/owK9lhZ8pydUcrVbej8uKwg74Kc2-1597356w.jpeg)
 Optimizing the sale process is a key skill for any sales manager. Learn about 5 important tips to help you make your team more efficient.
+
+### [134. How Hacker News Home Page Got Us 300+ Stars on GitHub in 24 Hours](https://hackernoon.com/how-hacker-news-home-page-got-us-300-stars-on-github-in-24-hours-mp153w7f)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-bat3wqf.jpeg?alt=media&token=65f799ce-7d2a-4398-8fbb-de88d28414c9)
+Hacker News is said to be the Holy Grail for tech folks. There’s one thing that a company, startups in particular, wants desperately: RIGHT traffic for free.
 
 ### [135. Avoid Stranger Danger: 
 Review the new CISA Cybersecurity Guides](https://hackernoon.com/avoid-stranger-danger-review-the-new-cisa-cybersecurity-guides)
@@ -555,41 +559,41 @@ See how best practices like embracing CI/CD pipelines and regular updates can he
 ![](https://cdn.hackernoon.com/images/ShmnQXcdfVdXRwiMjk9rkBzw3d43-6r833yu.jpeg)
 Conventional commit specification for writing good commit messages and making commit history standardized and clean as indirect documentation
 
-### [138. Perfect the Quality of Your Imperfect Data ](https://hackernoon.com/perfect-the-quality-of-your-imperfect-data)
-![](https://cdn.hackernoon.com/images/dFW9aLMnLpgfjylixlaQdWQLp2C3-t603oo7.jpeg)
-Poor quality data can significantly drop the ROI of a company’s CRM and marketing automation investment.
-
-### [139. The 30-Day .NET Challenge - Day 21: StringComparison](https://hackernoon.com/the-30-day-net-challenge-day-21-stringcomparison)
+### [138. The 30-Day .NET Challenge - Day 21: StringComparison](https://hackernoon.com/the-30-day-net-challenge-day-21-stringcomparison)
 ![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-8y8333b.jpeg)
 The article demonstrates the importance of using StringComparison options for efficient string comparison in.NET. How you compare strings can significantly impa
+
+### [139. Perfect the Quality of Your Imperfect Data ](https://hackernoon.com/perfect-the-quality-of-your-imperfect-data)
+![](https://cdn.hackernoon.com/images/dFW9aLMnLpgfjylixlaQdWQLp2C3-t603oo7.jpeg)
+Poor quality data can significantly drop the ROI of a company’s CRM and marketing automation investment.
 
 ### [140. Three Bs to Avoid That 2AM alert](https://hackernoon.com/three-bs-to-avoid-that-2am-alert-bw1t36os)
 ![](https://cdn.hackernoon.com/images/9bhq36xb.jpg)
 Solo founder, CTO for a small team, or side-hustler. The story is the same. When your app goes down, you’re on the hook. So, what can you do to reduce those dreaded 2AM page alerts?
 
-### [141. How to Find Insecure MongoDB Connection Strings in Public GitHub Repositories](https://hackernoon.com/how-to-find-insecure-mongodb-connection-strings-in-public-github-repositories)
-![](https://cdn.hackernoon.com/images/fJowWHavL0XT8jKc2lCn9VB199e2-sg93l3n.jpeg)
-A guide on how to protect yourself and your projects while on Github. 
-
-### [142. On the Relevance of Software Engineering for the Development of ML based Software Systems](https://hackernoon.com/on-the-relevance-of-software-engineering-for-the-development-of-ml-based-software-systems-ns8t327d)
-![](https://cdn.hackernoon.com/drafts/qimk3y5v.png)
-We are studying the emerging discipline of Machine Learning Engineering by investigating best practices for developing software systems that include ML components. In this article, we share the research motivation and approach, some initial results, and an invitation to help us by taking our 7-minute online survey on ML Engineering best practices.
-
-### [143. 8 Tips To Reinvent Your Project Meetings And Win](https://hackernoon.com/8-tips-to-reinvent-your-project-meetings-and-win-98m3w0k)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBnMb3F4vjTb8PuRduWJNBwABhlb2-uv1x3u03.gif?alt=media&token=d0e8e4b3-89cf-401c-a91b-1d09be6b9209)
-In a typical project meeting most attendees do not contribute but attend just to hear the conversation. A large amount of developer time is wasted. This drains resources from the project and can create a scheduling nightmare.
-
-### [144. 10 Reasons Why Less Is More in Your init/deinit Methods](https://hackernoon.com/10-reasons-why-less-is-more-in-your-initdeinit-methods)
+### [141. 10 Reasons Why Less Is More in Your init/deinit Methods](https://hackernoon.com/10-reasons-why-less-is-more-in-your-initdeinit-methods)
 ![](https://cdn.hackernoon.com/images/imTOi6TzD2acj6NBGngoIn24v6x2-pma3rv9.jpeg)
 The simplicity and predictability of constructors and destructors are vital to the robustness and efficiency of your application. 
 
-### [145. How to Ensure Optimal Results Using SMS Notifications](https://hackernoon.com/how-to-ensure-optimal-results-using-sms-notifications)
-![](https://cdn.hackernoon.com/images/fBrG3kzr9Fgwc2vTonctd5hmnHC3-nm93kr6.jpeg)
-You can leverage your investment in SMS messaging by doing more with it: offering event notifications, collecting customer feedback etc. Read on to know more.
+### [142. How to Find Insecure MongoDB Connection Strings in Public GitHub Repositories](https://hackernoon.com/how-to-find-insecure-mongodb-connection-strings-in-public-github-repositories)
+![](https://cdn.hackernoon.com/images/fJowWHavL0XT8jKc2lCn9VB199e2-sg93l3n.jpeg)
+A guide on how to protect yourself and your projects while on Github. 
 
-### [146. Code Reviews For Non-technical People. Explained.](https://hackernoon.com/how-to-explain-the-benefits-of-code-reviews-to-non-technical-people)
+### [143. On the Relevance of Software Engineering for the Development of ML based Software Systems](https://hackernoon.com/on-the-relevance-of-software-engineering-for-the-development-of-ml-based-software-systems-ns8t327d)
+![](https://cdn.hackernoon.com/drafts/qimk3y5v.png)
+We are studying the emerging discipline of Machine Learning Engineering by investigating best practices for developing software systems that include ML components. In this article, we share the research motivation and approach, some initial results, and an invitation to help us by taking our 7-minute online survey on ML Engineering best practices.
+
+### [144. 8 Tips To Reinvent Your Project Meetings And Win](https://hackernoon.com/8-tips-to-reinvent-your-project-meetings-and-win-98m3w0k)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBnMb3F4vjTb8PuRduWJNBwABhlb2-uv1x3u03.gif?alt=media&token=d0e8e4b3-89cf-401c-a91b-1d09be6b9209)
+In a typical project meeting most attendees do not contribute but attend just to hear the conversation. A large amount of developer time is wasted. This drains resources from the project and can create a scheduling nightmare.
+
+### [145. Code Reviews For Non-technical People. Explained.](https://hackernoon.com/how-to-explain-the-benefits-of-code-reviews-to-non-technical-people)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-vx93171.jpeg)
 
+
+### [146. How to Ensure Optimal Results Using SMS Notifications](https://hackernoon.com/how-to-ensure-optimal-results-using-sms-notifications)
+![](https://cdn.hackernoon.com/images/fBrG3kzr9Fgwc2vTonctd5hmnHC3-nm93kr6.jpeg)
+You can leverage your investment in SMS messaging by doing more with it: offering event notifications, collecting customer feedback etc. Read on to know more.
 
 ### [147. Top 7 Techniques For The Ideal Secure Code Review](https://hackernoon.com/top-7-techniques-for-the-ideal-secure-code-review-8dt34yz)
 ![](https://cdn.hackernoon.com/images/Kw32eRwbrmeim4If6jSrFZEIpSB3-yzu26xy.jpeg)

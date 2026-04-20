@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [infrastructure-as-code](https://hackernoon.com/tagged/infrastructure-as-code)
+### Let's learn about [Infrastructure As Code](https://hackernoon.com/tagged/infrastructure-as-code) via these 92 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Infrastructure as Code (IaC) is the practice of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration. It enables automated, consistent, and scalable infrastructure deployment, drastically reducing manual errors and increasing efficiency.
+
 ### [1. Automating App Architecture Diagrams: How I Built a Tool to Map Codebases from the Source](https://hackernoon.com/automating-app-architecture-diagrams-how-i-built-a-tool-to-map-codebases-from-the-source)
 ![](https://cdn.hackernoon.com/images/EgbcflnJ52QSu5zjHCT9Xao2qAg2-raj33kk.jpeg)
 NoReDraw instantly turns your code into clear architecture diagrams, linking key components and keeping documentation up-to-date.
@@ -17,13 +21,13 @@ I recently worked on implementing CloudFront for s3 bucket files. Most of the tu
 ![](https://cdn.hackernoon.com/images/YKvqayWMrzY355elGXQQPdaDc7Y2-qq93jwo.jpeg)
 If you’re confused when you read about “[some software term] as code” or “everything as code,” all you really need to know is that we’re talking about automation: The thing we use to do tedious tasks for us, or orchestrate tasks when they become too large and complex for manual methods.
 
-### [5. Implementing GitOps Workflows with Kubernetes](https://hackernoon.com/implementing-gitops-workflows-with-kubernetes)
-![](https://cdn.hackernoon.com/images/ogLjQOI8STUK2kIzi4UX9fhl1za2-6v933o5.png)
-Learn how to use GitOps with Kubernetes for streamlined workflow management.
-
-### [6. The End of CI/CD Pipelines: The Dawn of Agentic DevOps](https://hackernoon.com/the-end-of-cicd-pipelines-the-dawn-of-agentic-devops)
+### [5. The End of CI/CD Pipelines: The Dawn of Agentic DevOps](https://hackernoon.com/the-end-of-cicd-pipelines-the-dawn-of-agentic-devops)
 ![](https://cdn.hackernoon.com/images/ZaUoF8KpR5XpJCS96n75HJMcWQP2-s503a0x.jpeg)
 GitHub's agent fixed my flaky test in 11 minutes. No human wrote code. But when it fails, instead of a stack trace, you get an outcome.
+
+### [6. Implementing GitOps Workflows with Kubernetes](https://hackernoon.com/implementing-gitops-workflows-with-kubernetes)
+![](https://cdn.hackernoon.com/images/ogLjQOI8STUK2kIzi4UX9fhl1za2-6v933o5.png)
+Learn how to use GitOps with Kubernetes for streamlined workflow management.
 
 ### [7. How to Test Terraform the Right Way](https://hackernoon.com/how-to-test-terraform-the-right-way)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-r8036sw.jpeg)
@@ -169,13 +173,13 @@ What waits for DevOps in the upcoming year? Take a look at what DevOps trends we
 ![](https://cdn.hackernoon.com/images/m72bmcDdzHOrG3tFshlZQsYEzRn2-ee8328w.jpeg)
 In this article, we will take a closer look at why IaC scanning is important and what tools you can implement to perform your scans.
 
-### [42. Project-as-Code: The Catalyst DevOps Needs](https://hackernoon.com/project-as-code-the-catalyst-devops-needs-atu732wt)
-![](https://cdn.hackernoon.com/images/bbtv32c9.jpg)
-If you are familiar with Docker, Terraform, and the CI platforms (eg: Jenkins, CircleCI, Codeship), you already know the power of Declarative DevOps. It can make development easier by being repeatable, predictable, and fast. Supporting technologies both hide complexities and offer important reuse by supporting simple structured syntax in an easy to create and read file. Each technology has codified much of its domain allowing developers to author and instrument with nothing more than a text editor. 
-
-### [43. Unlocking IaC Part 3: Your First Terraform Deployment!](https://hackernoon.com/unlocking-iac-part-3-your-first-terraform-deployment)
+### [42. Unlocking IaC Part 3: Your First Terraform Deployment!](https://hackernoon.com/unlocking-iac-part-3-your-first-terraform-deployment)
 ![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-0o93oyt.png)
 For this first deployment, let’s use something we all know by name, Splunk. In this script, we will deploy a single server that has Splunk already installed.
+
+### [43. Project-as-Code: The Catalyst DevOps Needs](https://hackernoon.com/project-as-code-the-catalyst-devops-needs-atu732wt)
+![](https://cdn.hackernoon.com/images/bbtv32c9.jpg)
+If you are familiar with Docker, Terraform, and the CI platforms (eg: Jenkins, CircleCI, Codeship), you already know the power of Declarative DevOps. It can make development easier by being repeatable, predictable, and fast. Supporting technologies both hide complexities and offer important reuse by supporting simple structured syntax in an easy to create and read file. Each technology has codified much of its domain allowing developers to author and instrument with nothing more than a text editor. 
 
 ### [44. Hashicorp's Terraform: A Introduction](https://hackernoon.com/hashicorps-terraform-a-introduction-7f2034ae)
 ![](https://cdn.hackernoon.com/images/ygShC1FWmOW9nqC16JirQ0nzNd53-9e40313u.jpeg)
@@ -189,21 +193,21 @@ In this article, I would like to share the basic CI/CD configuration for Checkov
 ![](https://cdn.hackernoon.com/drafts/thry3z2m.png)
 This is true for the most part, but Serverless apps also have a certain property that can make their deployment and maintenance time consuming.
 
-### [47. A Deep Dive Into the GitOps World](https://hackernoon.com/a-deep-dive-into-the-gitops-world)
-![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-rv93ctz.jpeg)
-This article is a comprehensive guide to GitOps, a set of practices that use Git as the source of truth for software development and deployment. 
-
-### [48. Change the Name of your AWS S3 Bucket in Terraform Without Breaking Things](https://hackernoon.com/change-the-name-of-an-aws-s3-bucket-in-terraform-without-breaking-things)
-![](https://cdn.hackernoon.com/images/YK5sesApjfYn5xLqQleCGoS3F1G2-r603aa0.jpeg)
-Learn how to rename an AWS S3 bucket in Terraform. See renaming process of Amazon s3 bucket in a few simple steps.
-
-### [49. Automate EC2 Deployments on AWS with Terraform Modules](https://hackernoon.com/automate-ec2-deployments-on-aws-with-terraform-modules)
+### [47. Automate EC2 Deployments on AWS with Terraform Modules](https://hackernoon.com/automate-ec2-deployments-on-aws-with-terraform-modules)
 ![](https://cdn.hackernoon.com/images/l82ukgORhpX0BcfZBklvH6MHceU2-7l23tey.jpeg)
 In cloud computing, managing infrastructure efficiently has now become an important part of modern infrastructure operations. 
 
-### [50. Smarter DevOps Pipeline with GitHub CI and Azure Automation](https://hackernoon.com/smarter-devops-pipeline-with-github-ci-and-azure-automation)
+### [48. A Deep Dive Into the GitOps World](https://hackernoon.com/a-deep-dive-into-the-gitops-world)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-rv93ctz.jpeg)
+This article is a comprehensive guide to GitOps, a set of practices that use Git as the source of truth for software development and deployment. 
+
+### [49. Smarter DevOps Pipeline with GitHub CI and Azure Automation](https://hackernoon.com/smarter-devops-pipeline-with-github-ci-and-azure-automation)
 ![](https://cdn.hackernoon.com/images/SAnLN7eHQ7eZr9DaZvqYBwZoq0i2-yb03d8l.jpeg)
 Build a smarter DevOps pipeline using GitHub CI and Azure Automation with best practices for CI/CD, IaC, security, and scalable cloud deployments
+
+### [50. Change the Name of your AWS S3 Bucket in Terraform Without Breaking Things](https://hackernoon.com/change-the-name-of-an-aws-s3-bucket-in-terraform-without-breaking-things)
+![](https://cdn.hackernoon.com/images/YK5sesApjfYn5xLqQleCGoS3F1G2-r603aa0.jpeg)
+Learn how to rename an AWS S3 bucket in Terraform. See renaming process of Amazon s3 bucket in a few simple steps.
 
 ### [51. Smart E-bike Kits: A Tour Inside Our Servers](https://hackernoon.com/smart-e-bike-kits-a-tour-inside-our-servers-mg5l3yem)
 ![](https://cdn.hackernoon.com/drafts/p4n3y2r.png)
@@ -213,155 +217,163 @@ The Idea
 ![](https://cdn.hackernoon.com/images/ygShC1FWmOW9nqC16JirQ0nzNd53-kv5531qu.jpeg)
 All you need to know to get started about Terraform Syntax.
 
-### [53. The State of Cloud Automation and the Promise of Infrastructure Automation](https://hackernoon.com/the-state-of-cloud-automation-10k325l)
+### [53. Infrastructure as Code with APIs: Automating Cloud Resources the Developer Way](https://hackernoon.com/infrastructure-as-code-with-apis-automating-cloud-resources-the-developer-way)
+![](https://cdn.hackernoon.com/images/AGr8KngsfDgFeQNG1b8p0b616hy2-p483fz4.webp)
+Infrastructure as Code is a way to manage cloud resources using code. Learn how to manage a PaaS using APIs. 
+
+### [54. The State of Cloud Automation and the Promise of Infrastructure Automation](https://hackernoon.com/the-state-of-cloud-automation-10k325l)
 ![](https://cdn.hackernoon.com/images/m81e323x.jpg)
 The Cloud has become a familiar feature of the tech stacks at most organizations and is becoming much more than a place for server resources. At present, almost everything in our digital landscape is connected to a Cloud in one way or another. 
 
-### [54. Infrastructure as Code – Whose Responsibility Is It?](https://hackernoon.com/infrastructure-as-code---whose-responsibility-is-it)
+### [55. Infrastructure as Code – Whose Responsibility Is It?](https://hackernoon.com/infrastructure-as-code---whose-responsibility-is-it)
 ![](https://cdn.hackernoon.com/images/infrastructure-as-code-clj2ng8xl000101s66ddc97ak.png)
 In my experience, the development of microservice architecture and infrastructure go hand in hand. It's hard to imagine these tasks handled by separate teams.
 
-### [55. How To Manage Infrastructure With Terraform](https://hackernoon.com/how-to-manage-infrastructure-with-terraform-ab2l3u11)
+### [56. How To Manage Infrastructure With Terraform](https://hackernoon.com/how-to-manage-infrastructure-with-terraform-ab2l3u11)
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-1a8361m.jpeg)
 What is Terraform?
 
-### [56. Codify your SaaS Apps: The Answer to the Unmanaged SaaS Jungle](https://hackernoon.com/codify-your-saas-apps-the-answer-to-the-unmanaged-saas-jungle)
+### [57. Codify your SaaS Apps: The Answer to the Unmanaged SaaS Jungle](https://hackernoon.com/codify-your-saas-apps-the-answer-to-the-unmanaged-saas-jungle)
 ![](https://cdn.hackernoon.com/images/B0h2tdOqKHfBwDbg2IgKuguepW02-1wb3k60.jpeg)
 A phenomenon we have encountered often, when helping companies overcome drift, is a common neglect of the entire SaaS toolchain. Learn why this is troubling.
 
-### [57. Why you should take care of Infrastructure Drift](https://hackernoon.com/the-importance-of-infrastructure-drift-5k3a34ke)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-lsm34s9.jpeg)
-When talking about infrastructure drift, you often get knowing glances and heated answers. Recording gaps in your infra between what you expected to be and the reality of what is, is a well known and widespread issue bothering hundreds of DevOps teams around the globe. 
-
-### [58. I Got a New EKS Cluster Running And Terraform Code in 2 minutes](https://hackernoon.com/i-got-a-new-eks-cluster-running-and-terraform-code-in-2-minutes-ox7v36xr)
-![](https://cdn.hackernoon.com/images/n72o1369y.jpg)
-AWS EKS + Terraform + Cloudskiff do the job
-
-### [59. Why Understanding Infrastructure-as-code is Critical to Scaling Your Technology Infrastructure](https://hackernoon.com/why-understanding-infrastructure-as-code-is-critical-to-scaling-your-technology-infrastructure)
+### [58. Why Understanding Infrastructure-as-code is Critical to Scaling Your Technology Infrastructure](https://hackernoon.com/why-understanding-infrastructure-as-code-is-critical-to-scaling-your-technology-infrastructure)
 ![](https://cdn.hackernoon.com/images/QcUecoGJmUaHFSMQOD8G5r7ZSjz2-0xa3pg0.jpeg)
 Infrastructure as code (IaC) is one of the most important trends in modern IT development. Read about the benefits of IaC and how to implement it.
 
-### [60. Tfblueprintgen: A Tool to Simplify Terraform Folder Setup and Provide Base Resource Modules](https://hackernoon.com/tfblueprintgen-a-tool-to-simplify-terraform-folder-setup-and-provide-base-resource-modules)
+### [59. Why you should take care of Infrastructure Drift](https://hackernoon.com/the-importance-of-infrastructure-drift-5k3a34ke)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-lsm34s9.jpeg)
+When talking about infrastructure drift, you often get knowing glances and heated answers. Recording gaps in your infra between what you expected to be and the reality of what is, is a well known and widespread issue bothering hundreds of DevOps teams around the globe. 
+
+### [60. I Got a New EKS Cluster Running And Terraform Code in 2 minutes](https://hackernoon.com/i-got-a-new-eks-cluster-running-and-terraform-code-in-2-minutes-ox7v36xr)
+![](https://cdn.hackernoon.com/images/n72o1369y.jpg)
+AWS EKS + Terraform + Cloudskiff do the job
+
+### [61. Tfblueprintgen: A Tool to Simplify Terraform Folder Setup and Provide Base Resource Modules](https://hackernoon.com/tfblueprintgen-a-tool-to-simplify-terraform-folder-setup-and-provide-base-resource-modules)
 ![](https://cdn.hackernoon.com/images/gdSH9RKnXaYYuw1kkt4410ToWJF3-4hb2jb3.jpeg)
 Tfblueprintgen is a Terraform tool that generates a battle-tested folder structure and modular blocks.
 
-### [61. Building Your Infrastructure With Just a Diagram](https://hackernoon.com/building-your-infrastructure-with-just-a-diagram)
+### [62. Building Your Infrastructure With Just a Diagram](https://hackernoon.com/building-your-infrastructure-with-just-a-diagram)
 ![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-bs93rf9.jpeg)
 This hands-on tutorial will teach you how to create infrastructure via the AWS Application Composer Console.
 
-### [62. B2B Fintech Trends for 2021: Storage, Security, Cloud Migration, IaC](https://hackernoon.com/b2b-fintech-trends-for-2021-storage-security-cloud-migration-iaac-vw1m3wvm)
+### [63. B2B Fintech Trends for 2021: Storage, Security, Cloud Migration, IaC](https://hackernoon.com/b2b-fintech-trends-for-2021-storage-security-cloud-migration-iaac-vw1m3wvm)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F04RBQUokhMcaEo331itGHu88zIw1-kh3b3wkg.jpeg?alt=media&token=17bdf638-3c1f-48ae-aac8-d300fa997096)
 As CTO at Altar.io, a large part of my work revolves around observing the forward-looking industry trends (including fintech trends) that affect how we create innovative products.  
 
-### [63. Policy-as-Code: WTF Is It?](https://hackernoon.com/policy-as-code-wtf-is-it)
-![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-2c33qg0.webp)
-Explore Policy as Code, its impact on compliance, security, and automation, and its role in the future of technology governance.
-
-### [64. Getting Started With CloudFormation: The ABCs of AWS Infrastructure Templating](https://hackernoon.com/getting-started-with-cloudformation-the-abcs-of-aws-infrastructure-templating)
-![](https://cdn.hackernoon.com/images/uxL6qPzHtYSIO6VSowClROvyZ2Z2-dda3ylr.jpeg)
-This article is a comprehensive beginner's guide to AWS CloudFormation, offering insights into its advantages, fundamental concepts, and practical applications.
-
-### [65. Unlocking IaC Part 1: WTF Are We Even Doing Here?](https://hackernoon.com/unlocking-iac-part-1-wtf-are-we-even-doing-here)
-![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-rc93o1j.png)
-Unravel the power of Terraform - from "why" it exists to its key components and practical usage.
-
-### [66. Rent or Own? How the "Rug Pull" Era is Pushing Developers Toward Source-Available Software](https://hackernoon.com/rent-or-own-how-the-rug-pull-era-is-pushing-developers-toward-source-available-software)
-![](https://cdn.hackernoon.com/images/YhGr7nJMCrXnMNjgsKtRZnXO14p2-bp02wnk.jpeg)
-Are we entering a period in which the most profitable software is free and open for personal use? The time will tell.
-
-### [67. Securing the Cloud Control Plane: A Practical Guide to Secure IaC Deployments](https://hackernoon.com/securing-the-cloud-control-plane-a-practical-guide-to-secure-iac-deployments)
+### [64. Securing the Cloud Control Plane: A Practical Guide to Secure IaC Deployments](https://hackernoon.com/securing-the-cloud-control-plane-a-practical-guide-to-secure-iac-deployments)
 ![](https://cdn.hackernoon.com/images/09lwaIsVkeYZ6WFNxiWnv5B4H1q1-1h03ews.jpeg)
 Secure your cloud at commit time. Learn how to protect Terraform, CI/CD pipelines, IAM roles, and state files with policy-as-code and DevSecOps best practices. 
 
-### [68. Mastering Ansible Playbooks: A Guide to Task Controls & Handlers](https://hackernoon.com/mastering-ansible-playbooks-a-guide-to-task-controls-and-handlers)
-![](https://cdn.hackernoon.com/images/FjRK7Ru39gaUa2HBaUd0XNoL5pH3-jy92hyd.jpeg)
-Tutorial on Ansible playbooks including how to use conditionals and task handlers to control execution flow.
+### [65. Policy-as-Code: WTF Is It?](https://hackernoon.com/policy-as-code-wtf-is-it)
+![](https://cdn.hackernoon.com/images/NP7wh23cqNb6tU8cF6w5wINPizs2-2c33qg0.webp)
+Explore Policy as Code, its impact on compliance, security, and automation, and its role in the future of technology governance.
 
-### [69. Why “It Works on My Machine” Keeps Breaking Production](https://hackernoon.com/why-it-works-on-my-machine-keeps-breaking-production)
-![](https://cdn.hackernoon.com/images/4QQhIuTcGWPBcSXw0KTQbpwavoG2-wi039re.png)
-Bad Dockerfiles cause outages, security risks, and bloated images. This guide shows how one AI prompt enforces production-grade container best practices.
-
-### [70. Three Ways to Scale Your Apps with Render](https://hackernoon.com/three-ways-to-scale-your-apps-with-render)
-![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-ar93vsz.jpeg)
-When your app is experiencing high traffic or utilization, you need to scale your service to handle that load. We’ll explore three ways to scale your apps.
-
-### [71. Self-Healing Infrastructure Could Be the Future of Data Management](https://hackernoon.com/self-healing-infrastructure-could-be-the-future-of-data-management)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o802wp0.jpeg)
-AI-driven automation in database management transforms reactive ops into predictive, self-healing systems for scale, reliability, and performance.
-
-### [72. How Infrastructure as Code Is Forcing a Revolution in Cost Management](https://hackernoon.com/how-infrastructure-as-code-is-forcing-a-revolution-in-cost-management-gd6r3vt7)
-![](https://cdn.hackernoon.com/images/0jo3yaw.jpg)
-You might have read our beta launch blog post, which describes how Infrastructure as Code (IaC) is driving the third datacenter revolution (the first two being virtualization and the move to public clouds). In this post, I want to go deeper into looking at how IaC is driving a new need and approach to cost visibility and management.
-
-### [73. AWS CloudFormation Template Basics](https://hackernoon.com/aws-cloudformation-template-basics-0n2b35op)
-![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-o19347o.jpeg)
-Get started creating IaC using CloudFormation templates.
-
-### [74. How to Safely Refactor Live Terraform Without Recreating Resources](https://hackernoon.com/how-to-safely-refactor-live-terraform-without-recreating-resources)
+### [66. How to Safely Refactor Live Terraform Without Recreating Resources](https://hackernoon.com/how-to-safely-refactor-live-terraform-without-recreating-resources)
 ![](https://cdn.hackernoon.com/images/m72bmcDdzHOrG3tFshlZQsYEzRn2-3e03etm.jpeg)
 Safely refactor live Terraform with moved blocks, import blocks, and tests without recreating production resources. 
 
-### [75. Cloud-Native Yay or Nay: Reasons to Use Cloud-Native Technologies](https://hackernoon.com/cloud-native-yay-or-nay-reasons-to-use-cloud-native-technologies-9rki379l)
-![](https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Cloud-native has been the talk of the town for quite some time now. Some developers think it’s just hyped way too much and will soon diminish from the limelight. Others think cloud-native will revolutionize software development and is here to stay! 
+### [67. Getting Started With CloudFormation: The ABCs of AWS Infrastructure Templating](https://hackernoon.com/getting-started-with-cloudformation-the-abcs-of-aws-infrastructure-templating)
+![](https://cdn.hackernoon.com/images/uxL6qPzHtYSIO6VSowClROvyZ2Z2-dda3ylr.jpeg)
+This article is a comprehensive beginner's guide to AWS CloudFormation, offering insights into its advantages, fundamental concepts, and practical applications.
 
-### [76. Learn About Infrastructure as Code in 5 Minutes and Why You Should Use It](https://hackernoon.com/learn-about-infrastructure-as-code-in-5-minutes-and-why-you-should-use-it)
-![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-vl02hwu.jpeg)
-Infrastructure as Code (IaC) is the process of managing and configuring an infrastructure using configuration files, rather than manually editing configurations
+### [68. Unlocking IaC Part 1: WTF Are We Even Doing Here?](https://hackernoon.com/unlocking-iac-part-1-wtf-are-we-even-doing-here)
+![](https://cdn.hackernoon.com/images/arOEA250XOTS0bUETvCSvCN6Vcq1-rc93o1j.png)
+Unravel the power of Terraform - from "why" it exists to its key components and practical usage.
 
-### [77. The Relevance of Infrastructure-as-Code Concepts in Security](https://hackernoon.com/the-relevance-of-infrastructure-as-code-concepts-in-security)
-![](https://cdn.hackernoon.com/images/eX6e4LvM0rY0xzjuhywYB1FIYPx1-sbeu35rl.jpeg)
-So what is Infrastructure-as-Code (IaC) anyway? IaC is a process that automates the provisioning and management of cloud resources.
+### [69. Rent or Own? How the "Rug Pull" Era is Pushing Developers Toward Source-Available Software](https://hackernoon.com/rent-or-own-how-the-rug-pull-era-is-pushing-developers-toward-source-available-software)
+![](https://cdn.hackernoon.com/images/YhGr7nJMCrXnMNjgsKtRZnXO14p2-bp02wnk.jpeg)
+Are we entering a period in which the most profitable software is free and open for personal use? The time will tell.
 
-### [78. You Probably Aren’t as Advanced in Automation as You Think](https://hackernoon.com/you-probably-arent-as-advanced-in-automation-as-you-think)
+### [70. Mastering Ansible Playbooks: A Guide to Task Controls & Handlers](https://hackernoon.com/mastering-ansible-playbooks-a-guide-to-task-controls-and-handlers)
+![](https://cdn.hackernoon.com/images/FjRK7Ru39gaUa2HBaUd0XNoL5pH3-jy92hyd.jpeg)
+Tutorial on Ansible playbooks including how to use conditionals and task handlers to control execution flow.
+
+### [71. Why “It Works on My Machine” Keeps Breaking Production](https://hackernoon.com/why-it-works-on-my-machine-keeps-breaking-production)
+![](https://cdn.hackernoon.com/images/4QQhIuTcGWPBcSXw0KTQbpwavoG2-wi039re.png)
+Bad Dockerfiles cause outages, security risks, and bloated images. This guide shows how one AI prompt enforces production-grade container best practices.
+
+### [72. Three Ways to Scale Your Apps with Render](https://hackernoon.com/three-ways-to-scale-your-apps-with-render)
+![](https://cdn.hackernoon.com/images/D7Hn3CmOHedLjdaXSIpRfZ5ezZG3-ar93vsz.jpeg)
+When your app is experiencing high traffic or utilization, you need to scale your service to handle that load. We’ll explore three ways to scale your apps.
+
+### [73. Self-Healing Infrastructure Could Be the Future of Data Management](https://hackernoon.com/self-healing-infrastructure-could-be-the-future-of-data-management)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o802wp0.jpeg)
+AI-driven automation in database management transforms reactive ops into predictive, self-healing systems for scale, reliability, and performance.
+
+### [74. How Infrastructure as Code Is Forcing a Revolution in Cost Management](https://hackernoon.com/how-infrastructure-as-code-is-forcing-a-revolution-in-cost-management-gd6r3vt7)
+![](https://cdn.hackernoon.com/images/0jo3yaw.jpg)
+You might have read our beta launch blog post, which describes how Infrastructure as Code (IaC) is driving the third datacenter revolution (the first two being virtualization and the move to public clouds). In this post, I want to go deeper into looking at how IaC is driving a new need and approach to cost visibility and management.
+
+### [75. You Probably Aren’t as Advanced in Automation as You Think](https://hackernoon.com/you-probably-arent-as-advanced-in-automation-as-you-think)
 ![](https://cdn.hackernoon.com/images/m72bmcDdzHOrG3tFshlZQsYEzRn2-ku1388r.jpeg)
 Discover how to get started with infrastructure automation. Learn key benefits, challenges, and a step-by-step roadmap to scale your DevOps practices.
 
-### [79. Introducing Driftctl: Your IaC Security Belt](https://hackernoon.com/introducing-driftctl-your-iac-security-belt-du58313h)
+### [76. AWS CloudFormation Template Basics](https://hackernoon.com/aws-cloudformation-template-basics-0n2b35op)
+![](https://cdn.hackernoon.com/images/Y3mpA6b8SWb4Zdw04zl4y4uDnrj1-o19347o.jpeg)
+Get started creating IaC using CloudFormation templates.
+
+### [77. Cloud-Native Yay or Nay: Reasons to Use Cloud-Native Technologies](https://hackernoon.com/cloud-native-yay-or-nay-reasons-to-use-cloud-native-technologies-9rki379l)
+![](https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Cloud-native has been the talk of the town for quite some time now. Some developers think it’s just hyped way too much and will soon diminish from the limelight. Others think cloud-native will revolutionize software development and is here to stay! 
+
+### [78. Learn About Infrastructure as Code in 5 Minutes and Why You Should Use It](https://hackernoon.com/learn-about-infrastructure-as-code-in-5-minutes-and-why-you-should-use-it)
+![](https://cdn.hackernoon.com/images/ZkfENnt2LdcfkiwMm6iukaGEHnB3-vl02hwu.jpeg)
+Infrastructure as Code (IaC) is the process of managing and configuring an infrastructure using configuration files, rather than manually editing configurations
+
+### [79. The Relevance of Infrastructure-as-Code Concepts in Security](https://hackernoon.com/the-relevance-of-infrastructure-as-code-concepts-in-security)
+![](https://cdn.hackernoon.com/images/eX6e4LvM0rY0xzjuhywYB1FIYPx1-sbeu35rl.jpeg)
+So what is Infrastructure-as-Code (IaC) anyway? IaC is a process that automates the provisioning and management of cloud resources.
+
+### [80. Introducing Driftctl: Your IaC Security Belt](https://hackernoon.com/introducing-driftctl-your-iac-security-belt-du58313h)
 ![](https://cdn.hackernoon.com/images/R8Es2LKqChZj95MGtbheP1WiujI2-ld1w31kl.png)
 We recently released the first versions of driftctl, a new open-source project for infrastructure developers, DevOps, SRE, and cloud practitioners, with the goal of helping manage all kinds of drifts. 
 
-### [80. Scaling DevOps Without Losing Your Mind (or Your SLA)](https://hackernoon.com/scaling-devops-without-losing-your-mind-or-your-sla)
+### [81. Scaling DevOps Without Losing Your Mind (or Your SLA)](https://hackernoon.com/scaling-devops-without-losing-your-mind-or-your-sla)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-bt038th.png)
 Cut tool sprawl, flaky pipelines & manual ops. Learn how GitOps, IaC & observability can fix modern DevOps chaos in large enterprises. 
 
-### [81. The limits of Security Groups in IaaS Infrastructures](https://hackernoon.com/the-limits-of-security-groups-in-iaas-infrastructures)
+### [82. The limits of Security Groups in IaaS Infrastructures](https://hackernoon.com/the-limits-of-security-groups-in-iaas-infrastructures)
 ![](https://cdn.hackernoon.com/images/8S43pdzbjedsmSV1lv07aC5BdhG2-b292fdk.jpeg)
 In IaaS Cloud projects, it becomes clear that Security Groups, while effective to a certain extent, fall short in providing the comprehensive security needed
-
-### [82. Why Learn Any Other Programming Language When You Can Learn Typescript?](https://hackernoon.com/why-learn-any-other-programming-language-when-you-can-learn-typescript)
-![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-ua036gb.jpeg)
-Use TypeScript in all your projects and all use cases without any limitation. You can now do frontend, backend, infrastructure and machine learning in one progr
 
 ### [83. GitOps: From Chaos to Control - Managing Infrastructure Like Code](https://hackernoon.com/gitops-from-chaos-to-control-managing-infrastructure-like-code)
 ![](https://cdn.hackernoon.com/images/ZQJh8eY4IybKZa4c9Od7WOoE5qE2-i7b3zvp.jpeg)
 Master GitOps, the game-changer for unified infrastructure & app management. Learn how Git & CI/CD pipelines bring order to the chaos. 
 
-### [84. Infrastructure as Code with APIs: Automating Cloud Resources the Developer Way](https://hackernoon.com/infrastructure-as-code-with-apis-automating-cloud-resources-the-developer-way)
-![](https://cdn.hackernoon.com/images/AGr8KngsfDgFeQNG1b8p0b616hy2-p483fz4.webp)
-Infrastructure as Code is a way to manage cloud resources using code. Learn how to manage a PaaS using APIs. 
+### [84. Why Learn Any Other Programming Language When You Can Learn Typescript?](https://hackernoon.com/why-learn-any-other-programming-language-when-you-can-learn-typescript)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-ua036gb.jpeg)
+Use TypeScript in all your projects and all use cases without any limitation. You can now do frontend, backend, infrastructure and machine learning in one progr
 
 ### [85. Code as Documentation and Assessment](https://hackernoon.com/code-as-documentation-and-assessment-zu1031h1)
 ![](https://cdn.hackernoon.com/images/gDZVlEHopRRsRKqnyYb1ovTG5WN2-kt3k33o4.jpeg)
 Documenting IT networking lab procedures in code rather than word-processor documents enables more authentic, equitable and consistent assessment.
 
-### [86. My First Steps With Crossplane: Crossplane 101](https://hackernoon.com/my-first-steps-with-crossplane-crossplane-101)
+### [86. Most Production Outages Have Nothing to Do With Bad Code](https://hackernoon.com/most-production-outages-have-nothing-to-do-with-bad-code)
+![](https://cdn.hackernoon.com/images/T5jE2WDP32WlAEXFtLKYdhPGduj2-2183bp5.jpeg)
+70–80% of production incidents trace back to config, certificates, deployment order, or networking — not bugs. So why are we only testing the code?
+
+### [87. My First Steps With Crossplane: Crossplane 101](https://hackernoon.com/my-first-steps-with-crossplane-crossplane-101)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-hu02nc1.jpeg)
 In this post, I used Crossplane to create a simple GKE cluster. Using Kubernetes for the registry and the reconciling behavior is ingenious.
 
-### [87. Infrastructure as Code in Practice: What It Solves — and What It Doesn’t](https://hackernoon.com/infrastructure-as-code-in-practice-what-it-solves-and-what-it-doesnt)
+### [88. Infrastructure as Code in Practice: What It Solves — and What It Doesn’t](https://hackernoon.com/infrastructure-as-code-in-practice-what-it-solves-and-what-it-doesnt)
 ![](https://cdn.hackernoon.com/images/slT3HCgc9CZ4HGESXdHgPgAICaj1-5ha3d9n.jpeg)
 Infrastructure as Code has long become a standard approach to managing cloud infrastructure.
 
-### [88. Newsflash - "People with AWS Console Access Tend to Change Things"](https://hackernoon.com/newsflash-people-with-aws-console-access-tend-to-change-things-2k1h330g)
+### [89. Newsflash - "People with AWS Console Access Tend to Change Things"](https://hackernoon.com/newsflash-people-with-aws-console-access-tend-to-change-things-2k1h330g)
 ![](https://cdn.hackernoon.com/images/R8Es2LKqChZj95MGtbheP1WiujI2-yh8n335p.jpeg)
 This blog post is a written transcript of the FOSDEM Talk: “Infrastructure drifts aren’t like Pokemon, you can’t catch ’em all”, by Stephane Jourdan – CTO and founder
 
-### [89. Improve Your IaC With a Specialized Management Platform](https://hackernoon.com/improve-your-iac-with-a-specialized-management-platform)
+### [90. Improve Your IaC With a Specialized Management Platform](https://hackernoon.com/improve-your-iac-with-a-specialized-management-platform)
 ![](https://cdn.hackernoon.com/images/UXfuOSdr7iSDReRqKsHpVwJYyc33-va137q2.jpeg)
 Most often, there is no point in implementing an in-house solution as the cost and effort of building and maintaining it may exceed its potential benefits.
 
-### [90. Mastering Enterprise Cloud Migration: Divyesh Pradeep Shah's Success Story](https://hackernoon.com/mastering-enterprise-cloud-migration-divyesh-pradeep-shahs-success-story)
+### [91. Why Rebuilding Infrastructure Beats Upgrading It](https://hackernoon.com/why-rebuilding-infrastructure-beats-upgrading-it)
+![](https://cdn.hackernoon.com/images/Qzv3QWeOZubTntN1nWswOvzChUd2-g392cj6.png)
+Build infrastructure that can burn down and bounce back. A guide to Minimal Viable Kubernetes.
+
+### [92. Mastering Enterprise Cloud Migration: Divyesh Pradeep Shah's Success Story](https://hackernoon.com/mastering-enterprise-cloud-migration-divyesh-pradeep-shahs-success-story)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-ms138yc.png)
 Divyesh Pradeep Shah led a flawless multi-million dollar enterprise cloud migration with zero data loss, setting new standards in secure cloud transformation.
 

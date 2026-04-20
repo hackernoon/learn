@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [investing](https://hackernoon.com/tagged/investing)
+### Let's learn about [Investing](https://hackernoon.com/tagged/investing) via these 500 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Tips on how to invest but NOT on what to invest in. Bummer!! We know.
 
 ### [1. A Quick Starter Guide to Leveraged Trading at BitMEX](https://hackernoon.com/a-quick-starter-guide-to-using-leveraged-trading-at-bitmex-5383de4cb320)
@@ -286,29 +288,29 @@ No one would want to risk a big amount of capital in a program that is not vette
 ![](https://cdn.hackernoon.com/images/LfIWgEvv7eQxowzxo2fYPBh2gAo1-l2931gf.jpeg)
 Tokenomics - everybody is saying that you should know it if you are going to invest in a project. All about tokenomics.
 
-### [71. Harmony Ecosystem Fund Approved 21 New Grants in January](https://hackernoon.com/harmony-ecosystem-fund-approved-21-new-grants-in-january)
-![](https://cdn.hackernoon.com/images/KGTFaWujV3WROYDbGn02182ZFGF3-ps63jet.jpeg)
-Harmony Protocol has already approved 21 proposals to be part of its $300M Ecosystem Fund in January 2022.
+### [71. Trading Cup and Handles With MarketSmith Pattern Recognition](https://hackernoon.com/trading-cup-and-handles-with-marketsmith-pattern-recognition-rvi3787)
+![](https://cdn.hackernoon.com/images/c4H5dJO11HMcVyXTq7bAl2kz88I2-eoar356z.jpeg)
+The Cup With Handle pattern, developed by William O’Neil, is a technical indicator for identifying the continuation of a trend after a period of consolidation.
 
 ### [72. How to Find New Cryptocurrency Projects](https://hackernoon.com/how-to-find-new-cryptocurrency-projects)
 ![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-ewd3jle.jpeg)
 Framework to Screen Cryptocurrency Projects with examples| Screeners & Screening Strategy | Screening Criteria | SWOT Analysis | Investment Thesis
 
-### [73. Trading Cup and Handles With MarketSmith Pattern Recognition](https://hackernoon.com/trading-cup-and-handles-with-marketsmith-pattern-recognition-rvi3787)
-![](https://cdn.hackernoon.com/images/c4H5dJO11HMcVyXTq7bAl2kz88I2-eoar356z.jpeg)
-The Cup With Handle pattern, developed by William O’Neil, is a technical indicator for identifying the continuation of a trend after a period of consolidation.
+### [73. Harmony Ecosystem Fund Approved 21 New Grants in January](https://hackernoon.com/harmony-ecosystem-fund-approved-21-new-grants-in-january)
+![](https://cdn.hackernoon.com/images/KGTFaWujV3WROYDbGn02182ZFGF3-ps63jet.jpeg)
+Harmony Protocol has already approved 21 proposals to be part of its $300M Ecosystem Fund in January 2022.
 
 ### [74. 10,000 BTC for 2 Pizzas Wasn't The Entire Story...](https://hackernoon.com/10000-btc-for-2-pizzas-wasnt-the-entire-story)
 ![](https://cdn.hackernoon.com/images/ozQaVbvb1Va2Vp5YebrDI2AOVrJ2-a713726.jpeg)
 This article is about that while we might miss opportunities to make big money in crypto, we can increase our chances. But we have to be careful.
 
-### [75. Is The 2025 Cryptocurrency Bull Market Over Already?](https://hackernoon.com/is-the-2025-cryptocurrency-bull-market-over-already)
-![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-ah03a4l.jpeg)
-The cryptocurrency industry has declined steadily as investors become wary of macroeconomic constraints and scams. 
-
-### [76. The 7 Craziest Financial Stories of 2021: Investing in Nothing](https://hackernoon.com/the-7-craziest-financial-stories-of-2021-investing-in-nothing)
+### [75. The 7 Craziest Financial Stories of 2021: Investing in Nothing](https://hackernoon.com/the-7-craziest-financial-stories-of-2021-investing-in-nothing)
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-khk3nwq.jpeg)
 The financial market has greatly surprised millions of people in 2021 with nonsense investment stories. This article discusses the 7 craziest financial stories.
+
+### [76. Is The 2025 Cryptocurrency Bull Market Over Already?](https://hackernoon.com/is-the-2025-cryptocurrency-bull-market-over-already)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-ah03a4l.jpeg)
+The cryptocurrency industry has declined steadily as investors become wary of macroeconomic constraints and scams. 
 
 ### [77. P2P Lending Myths: Sorting Fact From Fiction](https://hackernoon.com/p2p-lending-myths-sorting-fact-from-fiction-kq3p32me)
 ![](https://cdn.hackernoon.com/drafts/2i3v3yu4.png)
@@ -346,13 +348,13 @@ Google Sheet is a powerful tool, but most people don’t know how to use it for 
 ![](https://cdn.hackernoon.com/images/r633U8vKGhQp66FOBDmgOkw0J472-4bv33hw.jpeg)
 The investment thesis for crypto and bitcoin amidst inflation, economic growth, and U.S. policy initiatives.
 
-### [86. How To Analyze Cryptocurrency Cash Flow?](https://hackernoon.com/how-to-analyze-cryptocurrency-cash-flow)
-![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-4ub3lr9.jpeg)
-Cryptocurrency Evaluation using Demand & Supply forces | Real Utility (value provided via token like cash flow), Financial Utility and Valuation (Speculation) |
-
-### [87. Battle of the Automatic Trade Signal Execution Architectures: 3Commas, Alertatron, Plurex](https://hackernoon.com/battle-of-the-automatic-trade-signal-execution-architectures-3commas-alertatron-plurex)
+### [86. Battle of the Automatic Trade Signal Execution Architectures: 3Commas, Alertatron, Plurex](https://hackernoon.com/battle-of-the-automatic-trade-signal-execution-architectures-3commas-alertatron-plurex)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-4d92a92.jpeg)
 You want Automatic Execution that suits the needs of your Trading Bot. A comparison of 3Commas, Alertatron and Plurex architectures and their pros and cons.
+
+### [87. How To Analyze Cryptocurrency Cash Flow?](https://hackernoon.com/how-to-analyze-cryptocurrency-cash-flow)
+![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-4ub3lr9.jpeg)
+Cryptocurrency Evaluation using Demand & Supply forces | Real Utility (value provided via token like cash flow), Financial Utility and Valuation (Speculation) |
 
 ### [88. 5 New NFT Platforms Riding Crypto’s Latest Wave](https://hackernoon.com/5-new-nft-platforms-riding-cryptos-latest-wave-cn1637ze)
 ![](https://cdn.hackernoon.com/images/kHmjlBgSzubv4ecXBQJFooO88AF2-hg3d371m.jpeg)
@@ -366,30 +368,30 @@ DeFi industry is stepping forward at a great pace. Currently it appears to be th
 ![](https://cdn.hackernoon.com/images/TRfLZTfY0iQlUwTuR1DpxsVcOju2-ri4n37ay.jpeg)
 Shitcoins are the subject of most crypto discussions and for a good reason. Find out more about them in this introductory article. 
 
-### [91. It is Time to Talk About Inflation and the Food Crisis](https://hackernoon.com/it-is-time-to-talk-about-inflation-and-the-food-crisis)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-bv93vnk.jpeg)
-In order to get a better view of what is going on, it is crucial to understand where the current price bonanza comes from. 
-
-### [92. Why you Should Consider Building a SaaS Company](https://hackernoon.com/saas-statistics-number-of-saas-companies-their-spend-and-funding-amounts)
+### [91. Why you Should Consider Building a SaaS Company](https://hackernoon.com/saas-statistics-number-of-saas-companies-their-spend-and-funding-amounts)
 ![](https://cdn.hackernoon.com/images/RR8xvqBFuXQjZLENHrDvivVnLJh1-1713439.jpeg)
 Learn the key SaaS statistics on how SaaS companies raise their capital, what their funding amounts are, and where they spend their money.
 
-### [93. Ichimoku Cloud Explained](https://hackernoon.com/ichimoku-cloud-explained-t8u3zd8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-5h193wk9.jpeg?alt=media&token=f762d1fb-19b6-4565-8ed1-9cd356e0cb43)
-Ichimoku Cloud is a versatile technical analysis indicator rapidly rising in popularity among traders. Also known as Ichimoku Kinko Hyo which translates to ‘one look equilibrium chart’ - this is exactly what Ichimoku strives to be. An ‘all-in-one’ style indicator that incorporates multiple elements from different technical analysis tools. At just a glance traders are able to ascertain future support and resistance, momentum and trend direction.
+### [92. It is Time to Talk About Inflation and the Food Crisis](https://hackernoon.com/it-is-time-to-talk-about-inflation-and-the-food-crisis)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-bv93vnk.jpeg)
+In order to get a better view of what is going on, it is crucial to understand where the current price bonanza comes from. 
 
-### [94. Tether, Off-Chain Stablecoins, And Synthetic Crypto Bubbles](https://hackernoon.com/tether-off-chain-stablecoins-and-synthetic-crypto-bubbles-07j35yb)
+### [93. Tether, Off-Chain Stablecoins, And Synthetic Crypto Bubbles](https://hackernoon.com/tether-off-chain-stablecoins-and-synthetic-crypto-bubbles-07j35yb)
 ![](https://cdn.hackernoon.com/images/U6g5S4clvAfPBkwpyb7K9m2l1xf2-71tw39z0.jpeg)
 How are off-chain stablecoins influencing the crypto market? In this article, you'll have an overview of the top three stablecoins.
 
-### [95. Which Cryptocurrencies to Hold in 2019 and Beyond?](https://hackernoon.com/which-cryptocurrencies-to-hold-in-2019-and-beyond-0l1nj3vlb)
-![](https://cdn.hackernoon.com/images/e8cj3v7v.jpg)
-With the cryptocurrency markets showing signs of growth for the first time in many months, now is a good time to pick up some new coins/tokens or add to what you already have. But, with over 2000 available, which ones should you hold in 2019 and beyond?
+### [94. Ichimoku Cloud Explained](https://hackernoon.com/ichimoku-cloud-explained-t8u3zd8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-5h193wk9.jpeg?alt=media&token=f762d1fb-19b6-4565-8ed1-9cd356e0cb43)
+Ichimoku Cloud is a versatile technical analysis indicator rapidly rising in popularity among traders. Also known as Ichimoku Kinko Hyo which translates to ‘one look equilibrium chart’ - this is exactly what Ichimoku strives to be. An ‘all-in-one’ style indicator that incorporates multiple elements from different technical analysis tools. At just a glance traders are able to ascertain future support and resistance, momentum and trend direction.
 
-### [96. 10 Predictions About the Future of Finance](https://hackernoon.com/10-predictions-about-the-future-of-finance)
+### [95. 10 Predictions About the Future of Finance](https://hackernoon.com/10-predictions-about-the-future-of-finance)
 ![](https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-e293oxv.gif.webp)
 Despite the challenges, the future of finance looks bright.
 The industry is adapting and evolving.
+
+### [96. Which Cryptocurrencies to Hold in 2019 and Beyond?](https://hackernoon.com/which-cryptocurrencies-to-hold-in-2019-and-beyond-0l1nj3vlb)
+![](https://cdn.hackernoon.com/images/e8cj3v7v.jpg)
+With the cryptocurrency markets showing signs of growth for the first time in many months, now is a good time to pick up some new coins/tokens or add to what you already have. But, with over 2000 available, which ones should you hold in 2019 and beyond?
 
 ### [97. What are the Top Startups in Africa?](https://hackernoon.com/what-are-the-top-startups-in-africa)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-5v93wfc.jpeg)
@@ -419,13 +421,13 @@ There are hundreds of crypto scams out there, but with the right guidance, you c
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3xuBe2Vx6Uc7e5Rv4deoyLZFvkS2-v3z3wt5.jpeg?alt=media&token=48a8e9a5-884e-421a-af7a-37ca42a163a1)
 Throughout the short recent history of the cryptocurrency revolution, everyone from the most dedicated technology evangelists to large institutional investors have been looking for ways to harness the stunning wealth-generation powers of this new financial instrument. 
 
-### [104. 6 Signs That You’re Ready To Invest In An Early-Stage Startup](https://hackernoon.com/6-signs-that-youre-ready-to-invest-in-an-early-stage-startup)
-![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-u793p4m.jpeg)
-Here's a look at the six signs that you may be ready to invest in an early-stage startup.
-
-### [105. What Is Impermanent Loss?](https://hackernoon.com/what-is-impermanent-loss)
+### [104. What Is Impermanent Loss?](https://hackernoon.com/what-is-impermanent-loss)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-oda3n9k.jpeg)
 Why decentralised exchanges and the way that automated market makers work mean that losses made while investing may not be as permanent as they initially seem.
+
+### [105. 6 Signs That You’re Ready To Invest In An Early-Stage Startup](https://hackernoon.com/6-signs-that-youre-ready-to-invest-in-an-early-stage-startup)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-u793p4m.jpeg)
+Here's a look at the six signs that you may be ready to invest in an early-stage startup.
 
 ### [106. Invest in People, Not Companies: Identity-Centric Investment Model](https://hackernoon.com/invest-in-people-not-companies-identity-centric-investment-model-579413c65f17)
 ![](https://cdn.hackernoon.com/images/cse7342w.jpg)
@@ -435,13 +437,13 @@ According to Paul A. Gompers and Anna Kovner’s research, serial entrepreneu
 ![](https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-vg93qdh.jpeg)
 Interview with Alongside Co-founder Austin Diamond on their new crypto market index token and the impact of index investing on the crypto market.
 
-### [108. A comprehensive introduction to Crypto Trading with Bots](https://hackernoon.com/a-comprehensive-introduction-to-crypto-trading-with-bots-ti23930ly)
-![](https://cdn.hackernoon.com/images/7824o30wl.jpg)
-Don’t fall into the traps
-
-### [109. A Deep Dive Into My Cryptocurrency Investment Process](https://hackernoon.com/a-deep-dive-into-my-cryptocurrency-investment-process)
+### [108. A Deep Dive Into My Cryptocurrency Investment Process](https://hackernoon.com/a-deep-dive-into-my-cryptocurrency-investment-process)
 ![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-83a3m1d.jpeg)
 Cryptocurrency Investment Process - Make investment decisions using this 8 step framework | Strategy | Portfolio Impact | Valuation |Exit Strategy |Evaluation
+
+### [109. A comprehensive introduction to Crypto Trading with Bots](https://hackernoon.com/a-comprehensive-introduction-to-crypto-trading-with-bots-ti23930ly)
+![](https://cdn.hackernoon.com/images/7824o30wl.jpg)
+Don’t fall into the traps
 
 ### [110. Meet TakeProfit: The Ultimate Platform for Self-Directed Investors](https://hackernoon.com/meet-takeprofit-the-ultimate-platform-for-self-directed-investors)
 ![](https://cdn.hackernoon.com/images/Srtd9NkZHEa3hzwZHyE1w8KE2Zu1-90h3p0p.png)
@@ -555,21 +557,21 @@ Crypto is everywhere. It is here to stay, and investing in Cryptocurrency is not
 ![](https://cdn.hackernoon.com/images/db2n53y3m.jpg)
 Introducing PeerVest: A free ML app to help you pick the best loan pool on a risk-reward basis
 
-### [138. Bitcoin Bear Market Diaries Volume 19 Max Keiser](https://hackernoon.com/bitcoin-bear-market-diaries-volume-19-max-keiser-79ee0006b095)
-![](https://cdn.hackernoon.com/hn-images/1*7lRUOLPLR_bunuUICsVfmQ.jpeg)
-The Bitcoin Bear Market Diaries are a series of interviews featuring various important voices and perspectives in the Bitcoin ecosystem. Each interviewee was carefully selected and asked the same group of questions. The main goal was to provide the world with a collection of commentary and opinions on the state of the current Bitcoin and crypto market. Some of the names you will recognize while others don’t wish for the limelight but have great insight and experience we all can learn from.
-
-### [139. Is it Time for Investors to Add Generative AI Stocks to their Portfolios?](https://hackernoon.com/is-it-time-for-investors-to-add-generative-ai-stocks-to-their-portfolios)
+### [138. Is it Time for Investors to Add Generative AI Stocks to their Portfolios?](https://hackernoon.com/is-it-time-for-investors-to-add-generative-ai-stocks-to-their-portfolios)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-9jb3p1h.jpeg)
 Even though the furore surrounding artificial intelligence is continuing to build, is now the time for investors to buy into generative AI? 
 
-### [140. 4 Hurdles Stopping Institutional Investors From Investing in Cryptocurrency](https://hackernoon.com/4-hurdles-stopping-institutional-investors-from-investing-in-cryptocurrency-b08eab5b649a)
-![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-1403bvk.png)
-<em>Disclaimer: I’m a partner at </em><a href="http://www.blockchainwarehouse.com" target="_blank"><em>BlockchainWarehouse </em></a><em>where we help companies launch token sales and token generation events, all opinions opinions expressed below, unless explicitly stated otherwise are my own and do not reflect the opinion of my company.</em>
+### [139. Bitcoin Bear Market Diaries Volume 19 Max Keiser](https://hackernoon.com/bitcoin-bear-market-diaries-volume-19-max-keiser-79ee0006b095)
+![](https://cdn.hackernoon.com/hn-images/1*7lRUOLPLR_bunuUICsVfmQ.jpeg)
+The Bitcoin Bear Market Diaries are a series of interviews featuring various important voices and perspectives in the Bitcoin ecosystem. Each interviewee was carefully selected and asked the same group of questions. The main goal was to provide the world with a collection of commentary and opinions on the state of the current Bitcoin and crypto market. Some of the names you will recognize while others don’t wish for the limelight but have great insight and experience we all can learn from.
 
-### [141. How to Make Money from Crypto in a Bear Market](https://hackernoon.com/how-to-make-money-from-crypto-in-a-bear-market)
+### [140. How to Make Money from Crypto in a Bear Market](https://hackernoon.com/how-to-make-money-from-crypto-in-a-bear-market)
 ![](https://cdn.hackernoon.com/images/ZW20EUTPJfhox7MUgWdXzwwwm2g1-zd038f7.jpeg)
 Bear markets suck. In this article, I present a few ways of making passive income from crypto, even when the market goes bear.
+
+### [141. 4 Hurdles Stopping Institutional Investors From Investing in Cryptocurrency](https://hackernoon.com/4-hurdles-stopping-institutional-investors-from-investing-in-cryptocurrency-b08eab5b649a)
+![](https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-1403bvk.png)
+<em>Disclaimer: I’m a partner at </em><a href="http://www.blockchainwarehouse.com" target="_blank"><em>BlockchainWarehouse </em></a><em>where we help companies launch token sales and token generation events, all opinions opinions expressed below, unless explicitly stated otherwise are my own and do not reflect the opinion of my company.</em>
 
 ### [142. Why You Should Start With A Small Allocation into Bitcoin in 2021](https://hackernoon.com/why-you-should-start-with-a-small-allocation-into-bitcoin-in-2021-rm2i344j)
 ![](https://cdn.hackernoon.com/images/oAZ8Lrx4s9hYxiZ4MfHnXL7mMKi1-f54q31k8.jpeg)
@@ -592,29 +594,29 @@ Vision | Portfolio Assessment | Measurable Targets | Strategy Creation, Implemen
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-nbc3nkn.jpeg)
 Virtual real estate in the Metaverse is attracting enormous attention from investors. The article explains why is it worth buying real estate in the Metaverse.
 
-### [147. Top 7 Blockchain Trends for 2020 and Beyond](https://hackernoon.com/top-7-blockchain-trends-for-2020-and-beyond-df1a32lz)
+### [147. How to Make Money with Crypto in 2023: Think Bigger](https://hackernoon.com/how-to-make-money-with-crypto-in-2023-think-bigger)
+![](https://cdn.hackernoon.com/images/ZTTHMznNpOU8E23w6ngIBTrJYyG2-sqf3pr0.jpeg)
+You didn’t have to be an expert to earn on crypto back in 2021. Most of the coins were surging by 10X, 50X, and even more. The total crypto market cap grew by 300%: even if you’d blindly invest in a few coins, you’d most likely get a good profit. 
+
+### [148. Top 7 Blockchain Trends for 2020 and Beyond](https://hackernoon.com/top-7-blockchain-trends-for-2020-and-beyond-df1a32lz)
 ![](https://cdn.hackernoon.com/images/w4h32m6.jpg)
 Humanity may be a few steps away from the Internet of Anything and Everything (or whatever the all-encompassing global digital interweb is going to be called in the years to come), but don't kid yourselves: it's coming. Right now the brightest minds in computer science, software development, entrepreneurship, policymaking, and digital arts are hard at work designing the future tenets of the Web 3.0 and the process shows no signs of slowing down.
 
-### [148. Bitcoin Retirement Series Part I: How To Invest In Retirement Plans (US Version)](https://hackernoon.com/bitcoin-retirement-series-part-i-how-to-invest-in-retirement-plans-us-version-4wew325o)
+### [149. Bitcoin Retirement Series Part I: How To Invest In Retirement Plans (US Version)](https://hackernoon.com/bitcoin-retirement-series-part-i-how-to-invest-in-retirement-plans-us-version-4wew325o)
 ![](https://cdn.hackernoon.com/images/kl1h33aj5.jpg)
 First things first, I refer to Bitcoin index funds as something that tracks Bitcoin’s price performance. While many index funds in stock market track a basket of underlying assets, most Bitcoin index funds track only Bitcoin. Bitcoin index funds are probably the easiest for beginners to start with.
-
-### [149. How to Build a Corona-proof Stocks Portfolio: 4 Thriving Industries](https://hackernoon.com/how-to-build-a-corona-proof-stocks-portfolio-4-thriving-industries-684i3uov)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F83Q593Q01ZbEJfEJP1UgpqjbzdA3-ik3k39gd.jpeg?alt=media&token=84a7ae2a-9032-4143-bf94-42fd2a6119a9)
-The sudden pause in the acceleration of the global economy due to the COVID-19 pandemic led to a steep decline in the share market. The world stood still with most of the beneficiary markets crashing. Many stocks dropped, from the entertainment industry to the hospitality industry, which were otherwise considered to have the Midas Touch.
 
 ### [150. 10 Best Tech Stocks: Which are the Most Traded in 2021? ](https://hackernoon.com/10-best-tech-stocks-which-are-the-most-traded-in-2021-vo3l34ks)
 ![](https://cdn.hackernoon.com/images/0yoL1qaNrbha3fHvYlEynf39lG12-bfd433wy.jpeg)
 In this article, we will discuss the most popular and most traded tech stocks of 2021 so far.
 
-### [151. How to Measure your Trading Strategy Returns](https://hackernoon.com/how-to-measure-your-trading-strategy-returns-2z1h3tvr)
+### [151. How to Build a Corona-proof Stocks Portfolio: 4 Thriving Industries](https://hackernoon.com/how-to-build-a-corona-proof-stocks-portfolio-4-thriving-industries-684i3uov)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F83Q593Q01ZbEJfEJP1UgpqjbzdA3-ik3k39gd.jpeg?alt=media&token=84a7ae2a-9032-4143-bf94-42fd2a6119a9)
+The sudden pause in the acceleration of the global economy due to the COVID-19 pandemic led to a steep decline in the share market. The world stood still with most of the beneficiary markets crashing. Many stocks dropped, from the entertainment industry to the hospitality industry, which were otherwise considered to have the Midas Touch.
+
+### [152. How to Measure your Trading Strategy Returns](https://hackernoon.com/how-to-measure-your-trading-strategy-returns-2z1h3tvr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FTjWxcikC1ccIa6vVCmvcPZOGVjz2-mv3n3u90.jpeg?alt=media&token=cc0ee0c8-4335-49ae-8fac-9df8497c8211)
 Traders and investors alike, often mistakenly base the success of their portfolios or strategies on returns alone. There is a mix of return and risk factors that should be looked at together to get the full picture. 
-
-### [152. How to Make Money with Crypto in 2023: Think Bigger](https://hackernoon.com/how-to-make-money-with-crypto-in-2023-think-bigger)
-![](https://cdn.hackernoon.com/images/ZTTHMznNpOU8E23w6ngIBTrJYyG2-sqf3pr0.jpeg)
-You didn’t have to be an expert to earn on crypto back in 2021. Most of the coins were surging by 10X, 50X, and even more. The total crypto market cap grew by 300%: even if you’d blindly invest in a few coins, you’d most likely get a good profit. 
 
 ### [153. Ethereum Valuation Using the Edosophia Macro Model ](https://hackernoon.com/ethereum-valuation-using-the-edosophia-macro-model-z03f3110)
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-bi1428v7.jpeg)
@@ -628,13 +630,13 @@ Bitcoin, the world’s most popular cryptocurrency has crossed the US$29,000 mar
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-sp93v0q.jpeg)
 DeFi investors often have to sift through a vast sea of data to find valuable information that can help them make informed investment decisions.
 
-### [156. How to Get Started in Cryptocurrency Investment with this 5-Point Framework](https://hackernoon.com/how-to-get-started-in-cryptocurrency-investment-with-this-5-point-framework)
-![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-ns03er3.jpeg)
-End-to-End Evidence-Based Cryptocurrency Investment Framework. Portofolio Management | Investment Strategy | Investment Process | Investment Review | Skills 
-
-### [157. Smart Strategy: Investing in Crypto Using Your IRA ](https://hackernoon.com/smart-strategy-investing-in-crypto-using-your-ira)
+### [156. Smart Strategy: Investing in Crypto Using Your IRA ](https://hackernoon.com/smart-strategy-investing-in-crypto-using-your-ira)
 ![](https://cdn.hackernoon.com/images/IymvKKTnYPZ9oRrN7IjNRPC4QKr1-7l93px0.jpeg)
 Alternative investments include real estate, gold, and cryptocurrency. Investing with your IRA means you can invest, save for retirement and enjoy benefits.
+
+### [157. How to Get Started in Cryptocurrency Investment with this 5-Point Framework](https://hackernoon.com/how-to-get-started-in-cryptocurrency-investment-with-this-5-point-framework)
+![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-ns03er3.jpeg)
+End-to-End Evidence-Based Cryptocurrency Investment Framework. Portofolio Management | Investment Strategy | Investment Process | Investment Review | Skills 
 
 ### [158. How To Safely Invest In Binary Options And Avoid The Scam](https://hackernoon.com/how-to-safely-invest-in-binary-options)
 ![](https://cdn.hackernoon.com/images/YxxDd6fjiwZ45IqoKxuWJmTCdE53-6293p2h.jpeg)
@@ -676,75 +678,75 @@ He credits 10 rules for his success. Here’re his ideas on building wealth whil
 ![](https://cdn.hackernoon.com/images/SV4WIiNml8UdB94LCDhlVlJR50w2-k193zdj.jpeg)
 Why a Bitcoin ETF would be an important stepping stone into getting the cryptocurrency more legitimacy in the financial world and how it would work in practice.
 
-### [168. Decoding Penny Stocks with Timothy Sykes ](https://hackernoon.com/decoding-penny-stocks-with-timothy-sykes-s8z33y4)
+### [168. The Return of Meme Investing: Will a Crypto Rally in 2024 Pave the Way for a Meme Resurgence?](https://hackernoon.com/the-return-of-meme-investing-will-a-crypto-rally-in-2024-pave-the-way-for-a-meme-resurgence)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-188321l.jpeg)
+Meme investing became global news as a mobilized motley crew of social media-based retail investors generated a GameStop short squeeze.
+
+### [169. Decoding Penny Stocks with Timothy Sykes ](https://hackernoon.com/decoding-penny-stocks-with-timothy-sykes-s8z33y4)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-0y2935k6.jpeg)
 In this interview, Timothy Sykes decodes how penny stocks work and what strategies should traders have in place when trading penny stocks. 
 
-### [169. This New Stablecoin Claims It Can Earn You Yield Without the Risky Crypto Shenanigans](https://hackernoon.com/this-new-stablecoin-claims-it-can-earn-you-yield-without-the-risky-crypto-shenanigans)
-![](https://cdn.hackernoon.com/images/HeYK1ZZc0baFvddnzC0EKhmflCp2-2e43wuy.png)
-Tired of unpredictable stablecoin yields? Learn about CAP Money, a new Type 3 protocol built on MegaETH offering a higher and more secure returns. 
-
-### [170. Using Python For Finance: How To Analyze Profitability Margin](https://hackernoon.com/using-python-for-finance-how-to-analyze-profitability-margin-jj1b344s)
-![](https://cdn.hackernoon.com/images/q5cPSnrcWRW8kqthxh6yv8s3s3t1-wc343ffi.jpeg)
-Learn how to perform a profitability analysis by peer companies using Python
-
-### [171. 12 Eye-Opening Quotes By Investing Legends That Will Change Your View on Volatility](https://hackernoon.com/12-eye-opening-quotes-by-investing-legends-that-will-change-your-view-on-volatility)
+### [170. 12 Eye-Opening Quotes By Investing Legends That Will Change Your View on Volatility](https://hackernoon.com/12-eye-opening-quotes-by-investing-legends-that-will-change-your-view-on-volatility)
 ![](https://cdn.hackernoon.com/images/NbkygUB9G6Zx5nmHwA4JRCtfZkr2-mud30xl.jpeg)
 Bitcoin slumped over 50% from its all-time high. 
 While these drawdowns are always painful, they are nothing out of the ordinary. 
 
 
-### [172. The Return of Meme Investing: Will a Crypto Rally in 2024 Pave the Way for a Meme Resurgence?](https://hackernoon.com/the-return-of-meme-investing-will-a-crypto-rally-in-2024-pave-the-way-for-a-meme-resurgence)
-![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-188321l.jpeg)
-Meme investing became global news as a mobilized motley crew of social media-based retail investors generated a GameStop short squeeze.
+### [171. This New Stablecoin Claims It Can Earn You Yield Without the Risky Crypto Shenanigans](https://hackernoon.com/this-new-stablecoin-claims-it-can-earn-you-yield-without-the-risky-crypto-shenanigans)
+![](https://cdn.hackernoon.com/images/HeYK1ZZc0baFvddnzC0EKhmflCp2-2e43wuy.png)
+Tired of unpredictable stablecoin yields? Learn about CAP Money, a new Type 3 protocol built on MegaETH offering a higher and more secure returns. 
 
-### [173. Crypto Regulation is Coming and All Exchanges Must Die](https://hackernoon.com/crypto-regulation-is-coming-and-all-exchanges-must-die-2378e2a968bc)
-![](https://cdn.hackernoon.com/images/b7vq3xua.jpg)
-While re-watching some old Game of Thrones episodes, I was reminded how this show became so popular. Like all great fiction, it speaks truths about human nature and exposes several fundamental flaws in our psychology.
-
-### [174. 7 Platforms for Investing in Tokenized Real Estate](https://hackernoon.com/7-platforms-for-investing-in-tokenized-real-estate)
-![](https://cdn.hackernoon.com/images/HvpAvSh4fdRJmPl3ogYCgRsbXIz1-qy93027.jpeg)
-Tokenization makes it possible for you to invest in properties across the globe and make profits, while owning a fraction of real estate in the form of tokens.
-
-### [175. 5 Macro-Trends That Will Impact Businesses Over the Next 10 Years](https://hackernoon.com/5-macro-trends-that-will-impact-businesses-over-the-next-10-years)
-![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-3t93oso.jpeg)
-The Big Picture: Macro-Trends That Will Shape the Next 10 Years... And how to take advantage of them
-
-### [176. What Does a Stock Market Sell-off Mean? ](https://hackernoon.com/what-does-a-stock-market-sell-off-mean)
+### [172. What Does a Stock Market Sell-off Mean? ](https://hackernoon.com/what-does-a-stock-market-sell-off-mean)
 ![](https://cdn.hackernoon.com/images/BUebZQLXyfV7VQr5NrOlTKyubLl2-0o93omf.jpeg)
 
 
-### [177. How To Perform Fundamental Analysis of Crypto-Assets? [Part II]](https://hackernoon.com/how-to-perform-fundamental-analysis-of-crypto-assets-part-ii-nr4o3yet)
+### [173. Using Python For Finance: How To Analyze Profitability Margin](https://hackernoon.com/using-python-for-finance-how-to-analyze-profitability-margin-jj1b344s)
+![](https://cdn.hackernoon.com/images/q5cPSnrcWRW8kqthxh6yv8s3s3t1-wc343ffi.jpeg)
+Learn how to perform a profitability analysis by peer companies using Python
+
+### [174. Crypto Regulation is Coming and All Exchanges Must Die](https://hackernoon.com/crypto-regulation-is-coming-and-all-exchanges-must-die-2378e2a968bc)
+![](https://cdn.hackernoon.com/images/b7vq3xua.jpg)
+While re-watching some old Game of Thrones episodes, I was reminded how this show became so popular. Like all great fiction, it speaks truths about human nature and exposes several fundamental flaws in our psychology.
+
+### [175. 7 Platforms for Investing in Tokenized Real Estate](https://hackernoon.com/7-platforms-for-investing-in-tokenized-real-estate)
+![](https://cdn.hackernoon.com/images/HvpAvSh4fdRJmPl3ogYCgRsbXIz1-qy93027.jpeg)
+Tokenization makes it possible for you to invest in properties across the globe and make profits, while owning a fraction of real estate in the form of tokens.
+
+### [176. 5 Macro-Trends That Will Impact Businesses Over the Next 10 Years](https://hackernoon.com/5-macro-trends-that-will-impact-businesses-over-the-next-10-years)
+![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-3t93oso.jpeg)
+The Big Picture: Macro-Trends That Will Shape the Next 10 Years... And how to take advantage of them
+
+### [177. Li Auto Prepares to Make EV Investing Cool Again as New Innovations Bring Investor Optimism](https://hackernoon.com/li-auto-prepares-to-make-ev-investing-cool-again-as-new-innovations-bring-investor-optimism)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-gs832nz.jpeg)
+Recent months have posed a challenge for EV stocks as the generative AI boom has seen more investor interest funnelled into artificial intelligence.
+
+### [178. How To Perform Fundamental Analysis of Crypto-Assets? [Part II]](https://hackernoon.com/how-to-perform-fundamental-analysis-of-crypto-assets-part-ii-nr4o3yet)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1qb0KulDoUfADdRpbl5K7dD6aWL2-24m3yfz.jpeg?alt=media&token=44e1e6e1-27a1-4675-9f1f-e97322b20e8a)
 We want to look at network usage to derive relative value based on that utility. Over time, we as the crypto investor community need to build a framework that shows outside investors how to think about fundamental valuation for crypto assets. 
-
-### [178. How To Trade within TradingView with Alpaca](https://hackernoon.com/alpaca-trading-within-tradingview-fbv32zb)
-![](https://cdn.hackernoon.com/images/55c132qg.jpg)
-Nothing goes better with algorithmic trading than tons of data. That's why we're delighted to announce our integration with TradingView to give you deep insights into markets, stocks, etc, all while seamlessly using Alpaca's commission-free API trading platform.
 
 ### [179. The HackerNoon Newsletter: 21 Cranium-Catching Bitcoin Marketing Ideas For Dummies  Savvyies (11/13/2024)](https://hackernoon.com/11-13-2024-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_986_qi4zt13td8pav8020zk99ryd.png)
 11/13/2024: Top 5 stories on the HackerNoon homepage!
 
-### [180. Li Auto Prepares to Make EV Investing Cool Again as New Innovations Bring Investor Optimism](https://hackernoon.com/li-auto-prepares-to-make-ev-investing-cool-again-as-new-innovations-bring-investor-optimism)
-![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-gs832nz.jpeg)
-Recent months have posed a challenge for EV stocks as the generative AI boom has seen more investor interest funnelled into artificial intelligence.
+### [180. How To Trade within TradingView with Alpaca](https://hackernoon.com/alpaca-trading-within-tradingview-fbv32zb)
+![](https://cdn.hackernoon.com/images/55c132qg.jpg)
+Nothing goes better with algorithmic trading than tons of data. That's why we're delighted to announce our integration with TradingView to give you deep insights into markets, stocks, etc, all while seamlessly using Alpaca's commission-free API trading platform.
 
-### [181. Bitcoin As The Ultimate Insurance: Why $11,000 is Just The Beginning](https://hackernoon.com/bitcoin-as-the-ultimate-insurance-why-dollar11000-is-just-the-beginning-o0163x1h)
+### [181. Risk Management in Crypto - How not to Lose All Your Money?](https://hackernoon.com/risk-management-in-crypto-how-not-to-lose-all-your-money)
+![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-xbb3m2i.jpeg)
+Uncertainty and risk present challenges to any investment success in cryptocurrency. Managing those factors in your investments is a crucial part of it.
+
+### [182. Bitcoin As The Ultimate Insurance: Why $11,000 is Just The Beginning](https://hackernoon.com/bitcoin-as-the-ultimate-insurance-why-dollar11000-is-just-the-beginning-o0163x1h)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FTxVcZoSGpIbg3ibpsqRXxnxCa6x1-eq453ueh.jpeg?alt=media&token=ac95903b-1535-4bf2-a883-a5c8fb2ea50a)
 Two decades ago, Nobel Prize-wining economist Milton Friedman said:
 
-### [182. Top 5 Richest Cryptocurrency Investors in The World](https://hackernoon.com/top-5-richest-cryptocurrency-investors-in-the-world-6d4035l2)
+### [183. Top 5 Richest Cryptocurrency Investors in The World](https://hackernoon.com/top-5-richest-cryptocurrency-investors-in-the-world-6d4035l2)
 ![](https://hackernoon.com/images/Z80ejdVck1Mme3qpI22yEiRCOA63-a91e33qm.jpeg)
 In this article, we will be discussing the top 5 richest cryptocurrency investors in the world who have made a large amount of wealth by investing in cryptos.
 
-### [183. Searching for Steady Gains via Crypto Margin Lending [Analysis]](https://hackernoon.com/searching-for-steady-gains-via-crypto-margin-lending-analysis-b13f326u)
+### [184. Searching for Steady Gains via Crypto Margin Lending [Analysis]](https://hackernoon.com/searching-for-steady-gains-via-crypto-margin-lending-analysis-b13f326u)
 ![](https://cdn.hackernoon.com/drafts/zy3x32rj.png)
 Margin trading magnifies the market’s every move. Leverage intensifies the trading experience and captivates our inner risk-taker. It’s either moon or gloom. We are lured in, naturally focusing on the upside potential. As volumes grow along with increasing crypto-optimism, demand for leveraged exposure is rising. 
-
-### [184. Risk Management in Crypto - How not to Lose All Your Money?](https://hackernoon.com/risk-management-in-crypto-how-not-to-lose-all-your-money)
-![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-xbb3m2i.jpeg)
-Uncertainty and risk present challenges to any investment success in cryptocurrency. Managing those factors in your investments is a crucial part of it.
 
 ### [185. Bitcoin Bear Market Diary Volume 9 with Nic Carter](https://hackernoon.com/bitcoin-bear-market-diary-volume-9-with-nic-carter-b7f27c0691ed)
 ![](https://cdn.hackernoon.com/hn-images/1*0ozAD6663uF6msiad2qqLg.jpeg)
@@ -754,70 +756,70 @@ The Bitcoin Bear Market Diaries are a series of interviews featuring various imp
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-el93ut8.jpeg)
 Objective research and a solid knowledge base are needed to make a secure investment.
 
-### [187. Dear Monopoly Man, Time's Up A**hole](https://hackernoon.com/dear-monopoly-man-times-up-ahole)
-![](https://cdn.hackernoon.com/images/li0eK8z4MXfQs9xrzhrsi1aXtxB3-d593qu4.jpeg)
-Blockchain-based, fractional real estate investing alongside real estate moguls for as little as $1
+### [187. Modern Investing for Dummies](https://hackernoon.com/modern-investing-for-dummies)
+![](https://cdn.hackernoon.com/images/UbeXM4whHITEQEDq9TfUcGGnO452-kqa30ma.jpeg)
+Never invested before and feel overwhelmed by the information available? I'm bringing a little aid for you in these times of information overload: Investing 101
 
 ### [188. Rich Dad, Poor Dad, Bitcoin & Canned Tuna](https://hackernoon.com/rich-dad-poor-dad-bitcoin-and-canned-tuna)
 ![](https://cdn.hackernoon.com/images/szuTGyQJwnZKYH83hv2oWrxjp9t1-xja3lsh.jpeg)
 If you wish to be rich, learn to fish.
 
-### [189. Modern Investing for Dummies](https://hackernoon.com/modern-investing-for-dummies)
-![](https://cdn.hackernoon.com/images/UbeXM4whHITEQEDq9TfUcGGnO452-kqa30ma.jpeg)
-Never invested before and feel overwhelmed by the information available? I'm bringing a little aid for you in these times of information overload: Investing 101
+### [189. Dear Monopoly Man, Time's Up A**hole](https://hackernoon.com/dear-monopoly-man-times-up-ahole)
+![](https://cdn.hackernoon.com/images/li0eK8z4MXfQs9xrzhrsi1aXtxB3-d593qu4.jpeg)
+Blockchain-based, fractional real estate investing alongside real estate moguls for as little as $1
 
 ### [190. Buying Into the AI Boom: Should Investors Brace Themselves for a Tech Stock Bull Run?](https://hackernoon.com/buying-into-the-ai-boom-should-investors-brace-themselves-for-a-tech-stock-bull-run)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-xhe3pb3.jpeg)
 The emergence of generative artificial intelligence has provided a major boost to tech stocks. Could the revolutionary impact of AI help to deliver a bull run?
 
-### [191. How to Attract Investors for Your Next Startup](https://hackernoon.com/how-to-attract-investors-for-your-start-ups)
+### [191. The Risks of Platforms For Investing in Commodities and Art](https://hackernoon.com/the-risks-of-platforms-for-investing-in-commodities-and-art)
+![](https://cdn.hackernoon.com/images/XUoO0NuMTTMIYqK1kG0MOAZHaX83-ix93qlw.jpeg)
+New tech platforms let you invest in everything from whiskey to watches - but beware of these risks.
+
+### [192. How to Attract Investors for Your Next Startup](https://hackernoon.com/how-to-attract-investors-for-your-start-ups)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-6q930ze.jpeg)
 Here are 9 steps you can take to attract investors and make them want to work with you as much as you want them to work with you.
 
-
-### [192. The Risks of Platforms For Investing in Commodities and Art](https://hackernoon.com/the-risks-of-platforms-for-investing-in-commodities-and-art)
-![](https://cdn.hackernoon.com/images/XUoO0NuMTTMIYqK1kG0MOAZHaX83-ix93qlw.jpeg)
-New tech platforms let you invest in everything from whiskey to watches - but beware of these risks.
 
 ### [193. This Is Why You Need To Rethink Investing in Crypto](https://hackernoon.com/this-is-why-you-need-to-rethink-investing-in-crypto)
 ![](https://cdn.hackernoon.com/images/NbkygUB9G6Zx5nmHwA4JRCtfZkr2-o893zlz.jpeg)
 Regulators are starting to discern between bitcoin and 20,000 crypto tokens. 
 
-### [194. Hacking Your Way to the Best Angel Investing Deals Means More Transparent Deal Flows](https://hackernoon.com/hacking-your-way-to-the-best-angel-investing-deals-means-more-transparent-deal-flows-t45p37ab)
-![](https://cdn.hackernoon.com/images/nyJ3v3rRv5NGM0ueVYbwsOuSUNr1-2917353q.jpeg)
-When you hear someone say they are an “angel investor,” you may assume they have access to a large disposable income, but that's no longer the case.
+### [194. Is the Generative AI Boom Strong Enough to Stand Strong in the Face of a Recession?](https://hackernoon.com/is-the-generative-ai-boom-strong-enough-to-stand-strong-in-the-face-of-a-recession)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-mgd3ssy.jpeg)
+The first half of 2023 brought cautious optimism back to the markets as the emergence of AI inspired investors to buy into brand new frontier for tech.
 
 ### [195. The Current State of Tokenization and What to Expect in the Future](https://hackernoon.com/the-current-state-of-tokenization-and-what-to-expect-in-the-future)
 ![](https://cdn.hackernoon.com/images/vq2P3uwSUnQ32qHgQQOgeX4PGIm1-n0b3kt9.jpeg)
 Tokenization enables fractional ownership of assets, allowing investors to make smaller investments in assets like real estate. 
 
-### [196. Is the Generative AI Boom Strong Enough to Stand Strong in the Face of a Recession?](https://hackernoon.com/is-the-generative-ai-boom-strong-enough-to-stand-strong-in-the-face-of-a-recession)
-![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-mgd3ssy.jpeg)
-The first half of 2023 brought cautious optimism back to the markets as the emergence of AI inspired investors to buy into brand new frontier for tech.
+### [196. Hacking Your Way to the Best Angel Investing Deals Means More Transparent Deal Flows](https://hackernoon.com/hacking-your-way-to-the-best-angel-investing-deals-means-more-transparent-deal-flows-t45p37ab)
+![](https://cdn.hackernoon.com/images/nyJ3v3rRv5NGM0ueVYbwsOuSUNr1-2917353q.jpeg)
+When you hear someone say they are an “angel investor,” you may assume they have access to a large disposable income, but that's no longer the case.
 
-### [197. Bitcoin Bear Market Diaries Volume 23 with Ben Perrin](https://hackernoon.com/bitcoin-bear-market-diaries-volume-23-with-ben-perrin-665521e69b6a)
+### [197. How to Navigate Crypto Secular Trends, Market Cycles, and Narratives?](https://hackernoon.com/how-to-navigate-crypto-secular-trends-market-cycles-and-narratives)
+![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-w5l3k9f.jpeg)
+How to Navigate Crypto Secular Trends, Market Cycles, and Narratives. This guide will help you be a better cryptocurrency investor.
+
+### [198. Bitcoin Bear Market Diaries Volume 23 with Ben Perrin](https://hackernoon.com/bitcoin-bear-market-diaries-volume-23-with-ben-perrin-665521e69b6a)
 ![](https://cdn.hackernoon.com/drafts/1cp32km.png)
 The Bitcoin Bear Market Diaries are a series of interviews featuring various important voices and perspectives in the Bitcoin ecosystem. Each interviewee was carefully selected and asked the same group of questions. The main goal was to provide the world with a collection of commentary and opinions on the state of the current Bitcoin and crypto market. Some of the names you will recognize while others don’t wish for the limelight but have great insight and experience we all can learn from.
 
-### [198. ‘Kill Your Darlings’ - Know When You Need to Pull the Proverbial Plug](https://hackernoon.com/kill-your-darlings-know-when-you-need-to-pull-the-proverbial-plug-4f8b33wi)
+### [199. ‘Kill Your Darlings’ - Know When You Need to Pull the Proverbial Plug](https://hackernoon.com/kill-your-darlings-know-when-you-need-to-pull-the-proverbial-plug-4f8b33wi)
 ![](https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-qie327k.jpeg)
 Basing our decision on what’s going to happen in the future and not what investments have been made in the past by treating every decision as a new one is indeed very difficult. It’s not a clear, straightforward choice. 
-
-### [199. Here's Why MicroStrategy Put 85% of its Cash Reserves in Bitcoin](https://hackernoon.com/heres-why-microstrategy-put-85percent-of-its-cash-reserves-in-bitcoin-971r3wad)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-w3d4xor.jpeg?alt=media&token=2af57c05-7807-4485-a23c-02ed891a6b8a)
-What if we told you that one company now owns 0.182% of all Bitcoin that will ever exist. And it's not even a Bitcoin or cryptocurrency-related company.
 
 ### [200. Investors are Funding the Future but Stuck in the Past](https://hackernoon.com/investors-are-funding-the-future-but-stuck-in-the-past)
 ![](https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-zr930e0.jpeg)
 In the ever-evolving world of investments, where innovation is paramount, investors are paradoxically lagging in technology to manage their assets.
 
-### [201. 71 Stories To Learn About Personal Finance](https://hackernoon.com/71-stories-to-learn-about-personal-finance)
+### [201. Here's Why MicroStrategy Put 85% of its Cash Reserves in Bitcoin](https://hackernoon.com/heres-why-microstrategy-put-85percent-of-its-cash-reserves-in-bitcoin-971r3wad)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-w3d4xor.jpeg?alt=media&token=2af57c05-7807-4485-a23c-02ed891a6b8a)
+What if we told you that one company now owns 0.182% of all Bitcoin that will ever exist. And it's not even a Bitcoin or cryptocurrency-related company.
+
+### [202. 71 Stories To Learn About Personal Finance](https://hackernoon.com/71-stories-to-learn-about-personal-finance)
 ![](https://cdn.hackernoon.com/images/github/personal-finance-397.png)
 Learn everything you need to know about Personal Finance via these 71 free HackerNoon stories.
-
-### [202. How to Navigate Crypto Secular Trends, Market Cycles, and Narratives?](https://hackernoon.com/how-to-navigate-crypto-secular-trends-market-cycles-and-narratives)
-![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-w5l3k9f.jpeg)
-How to Navigate Crypto Secular Trends, Market Cycles, and Narratives. This guide will help you be a better cryptocurrency investor.
 
 ### [203. The Grayscale Effect: Deciphering The bitcoin Lore That Stood The Test of Time](https://hackernoon.com/the-grayscale-effect-deciphering-the-bitcoin-lore-that-stood-the-test-of-time-8p5x33rx)
 ![](https://cdn.hackernoon.com/images/r633U8vKGhQp66FOBDmgOkw0J472-9k5931og.jpeg)
@@ -835,61 +837,61 @@ On coinmarketcap alone, there are 2,347 unique cryptocurrencies listed as of Sep
 ![](https://cdn.hackernoon.com/drafts/781432rl.png)
 The Bitcoin Bear Market Diaries are a series of interviews featuring various important voices and perspectives in the Bitcoin ecosystem. Each interviewee was carefully selected and asked the same group of questions. The main goal was to provide the world with a collection of commentary and opinions on the state of the current Bitcoin and crypto market. Some of the names you will recognize while others don’t wish for the limelight but have great insight and experience we all can learn from.
 
-### [207. Make it Easy on Me: How to Easily Invest in Crypto Even if You Have No Time ](https://hackernoon.com/make-it-easy-on-me-how-to-invest-in-crypto-even-if-you-have-not-had-the-time-to-choose)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-rya3wmn.jpeg)
-Bogle believed that “investing is for everyone.” 
-
-### [208. Bitcoin Bear Market Diaries Volume 18 with Matt Odell](https://hackernoon.com/bitcoin-bear-market-diaries-volume-18-with-matt-odell-48fab4f380c6)
-![](https://cdn.hackernoon.com/hn-images/1*M8e81_TndNKuh4SRe5nbNw.jpeg)
-The Bitcoin Bear Market Diaries are a series of interviews featuring various important voices and perspectives in the Bitcoin ecosystem. Each interviewee was carefully selected and asked the same group of questions. The main goal was to provide the world with a collection of commentary and opinions on the state of the current Bitcoin and crypto market. Some of the names you will recognize while others don’t wish for the limelight but have great insight and experience we all can learn from.
-
-### [209. AI Startups Await a Mountain of Funding as “Dry Powder” Grows](https://hackernoon.com/ai-startups-await-a-mountain-of-funding-as-dry-powder-grows)
-![](https://cdn.hackernoon.com/images/nFGMPDaUJhN2rZiFEyVXNSMVezD3-aa93s3h.jpeg)
-Startup funding is down, but it's not out. Investors are sitting on a mountain of capital that patient AI startups can still access.
-
-### [210. How To Become A Millionaire...Patiently](https://hackernoon.com/how-to-become-a-millionairepatiently-h8213xhb)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNbkygUB9G6Zx5nmHwA4JRCtfZkr2-pyc3xe1.jpeg?alt=media&token=92e6aa6d-6388-47e2-b1d5-13aba7a48ef7)
-Arguably, one of the best options to make a fortune is to start and grow your own business. 
-
-### [211. Time Value of Money: A Financial Management System for Developers](https://hackernoon.com/time-value-of-money-a-financial-management-system-for-developers-jo1y31bs)
-![](https://cdn.hackernoon.com/images/BamvTIAhDQTWIhpCo8cqPm438Yw2-z193xsr.jpeg)
-If money has time value, does time have monetary value?
-
-### [212. Towards a Greener World: Discussing Sustainable Investments with Stan Bharti](https://hackernoon.com/towards-a-greener-world-discussing-sustainable-investments-with-stan-bharti)
+### [207. Towards a Greener World: Discussing Sustainable Investments with Stan Bharti](https://hackernoon.com/towards-a-greener-world-discussing-sustainable-investments-with-stan-bharti)
 ![](https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-3k93o61.jpeg)
 Forbes & Manhattan Founder Stan Bharti on his career, ideas on sustainable investing, and the future of green investments. 
 
-### [213. 5 Reasons Why Margin Trading is Better Than Spot Trading](https://hackernoon.com/5-reasons-why-margin-trading-is-better-than-spot-trading-ih1o3zr3)
+### [208. AI Startups Await a Mountain of Funding as “Dry Powder” Grows](https://hackernoon.com/ai-startups-await-a-mountain-of-funding-as-dry-powder-grows)
+![](https://cdn.hackernoon.com/images/nFGMPDaUJhN2rZiFEyVXNSMVezD3-aa93s3h.jpeg)
+Startup funding is down, but it's not out. Investors are sitting on a mountain of capital that patient AI startups can still access.
+
+### [209. Bitcoin Bear Market Diaries Volume 18 with Matt Odell](https://hackernoon.com/bitcoin-bear-market-diaries-volume-18-with-matt-odell-48fab4f380c6)
+![](https://cdn.hackernoon.com/hn-images/1*M8e81_TndNKuh4SRe5nbNw.jpeg)
+The Bitcoin Bear Market Diaries are a series of interviews featuring various important voices and perspectives in the Bitcoin ecosystem. Each interviewee was carefully selected and asked the same group of questions. The main goal was to provide the world with a collection of commentary and opinions on the state of the current Bitcoin and crypto market. Some of the names you will recognize while others don’t wish for the limelight but have great insight and experience we all can learn from.
+
+### [210. Make it Easy on Me: How to Easily Invest in Crypto Even if You Have No Time ](https://hackernoon.com/make-it-easy-on-me-how-to-invest-in-crypto-even-if-you-have-not-had-the-time-to-choose)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-rya3wmn.jpeg)
+Bogle believed that “investing is for everyone.” 
+
+### [211. Is Crypto Worth the HODL? How High Should You Stack Your Stocks? We Place Our Bets on Your Wisdom](https://hackernoon.com/is-crypto-worth-the-hodl-how-high-should-you-stack-your-stocks-we-place-our-bets-on-your-wisdom)
+![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-5da3v9q.jpeg)
+Let’s enjoy some weekend writing shenanigans!
+
+### [212. How To Become A Millionaire...Patiently](https://hackernoon.com/how-to-become-a-millionairepatiently-h8213xhb)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FNbkygUB9G6Zx5nmHwA4JRCtfZkr2-pyc3xe1.jpeg?alt=media&token=92e6aa6d-6388-47e2-b1d5-13aba7a48ef7)
+Arguably, one of the best options to make a fortune is to start and grow your own business. 
+
+### [213. Time Value of Money: A Financial Management System for Developers](https://hackernoon.com/time-value-of-money-a-financial-management-system-for-developers-jo1y31bs)
+![](https://cdn.hackernoon.com/images/BamvTIAhDQTWIhpCo8cqPm438Yw2-z193xsr.jpeg)
+If money has time value, does time have monetary value?
+
+### [214. 5 Reasons Why Margin Trading is Better Than Spot Trading](https://hackernoon.com/5-reasons-why-margin-trading-is-better-than-spot-trading-ih1o3zr3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpViZjlJMG2Sae1BGDP1xaL96I5M2-ta83w6s.jpeg?alt=media&token=881518fc-889d-4b34-b601-3c9c19c354cd)
 Why would anyone want to launch a margin trading exchange when a spot trading exchange sees more volumes? 
 
-### [214. Into the Stratosphere: How AST SpaceMobile Became the Stock of 2024 With Room for Further Growth](https://hackernoon.com/into-the-stratosphere-how-ast-spacemobile-became-the-stock-of-2024-with-room-for-further-growth)
+### [215. Into the Stratosphere: How AST SpaceMobile Became the Stock of 2024 With Room for Further Growth](https://hackernoon.com/into-the-stratosphere-how-ast-spacemobile-became-the-stock-of-2024-with-room-for-further-growth)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-6l037ze.jpeg)
 ASTS remains a highly speculative stock, and such significant price rallies already this year are rightly cause for concern among investors.
 
-### [215. The Rise of Robots: Insights Into the Global Robotics Market](https://hackernoon.com/the-rise-of-robots-insights-into-the-global-robotics-market-374g3u2q)
+### [216. The Rise of Robots: Insights Into the Global Robotics Market](https://hackernoon.com/the-rise-of-robots-insights-into-the-global-robotics-market-374g3u2q)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FtU5clK5ErzSS5VJBOVPmgz01AA42-tw5p3viz.jpeg?alt=media&token=4ba753be-bf64-41df-9b37-65c9c481e4d0)
 2020 marks one hundred years since the word “robot” was first coined by science fiction playwright, Karel Capek. Forty years later, in 1961, General Motors installed the worlds first industrial robot, paving the way for automated manufacturing and the era of programmable machines.
-
-### [216. Is Crypto Worth the HODL? How High Should You Stack Your Stocks? We Place Our Bets on Your Wisdom](https://hackernoon.com/is-crypto-worth-the-hodl-how-high-should-you-stack-your-stocks-we-place-our-bets-on-your-wisdom)
-![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-5da3v9q.jpeg)
-Let’s enjoy some weekend writing shenanigans!
 
 ### [217. Bitcoin vs. Gold: Background, Analytics, and Price Estimates](https://hackernoon.com/is-bitcoin-worth-its-weight-in-gold-t6t93o9c)
 ![](https://cdn.hackernoon.com/images/r1gGZuNNzjc0wNAM0O1SLicFdny2-pwb2cuu.jpeg)
 The Bitcoin vs gold debate has been epic. In this article, you'll get the need-to-know background, analytics, and future price estimates.
 
-### [218. Bitcoin Alternatives: How to Choose the Right Crypto](https://hackernoon.com/bitcoin-alternatives-how-to-choose-the-right-crypto-172d3u03)
+### [218. The 5 Steps to Becoming the God of Pitch Decks](https://hackernoon.com/the-5-steps-to-becoming-the-god-of-pitch-decks)
+![](https://cdn.hackernoon.com/images/Zks0omx34Xc0hBcPTGNTtV1KGJc2-ycb3vyv.jpeg)
+A step-by-step plan on becoming the God of Pitches for investors and start-up contests.
+
+### [219. Bitcoin Alternatives: How to Choose the Right Crypto](https://hackernoon.com/bitcoin-alternatives-how-to-choose-the-right-crypto-172d3u03)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fc04EFcTv66Zbzhwa4Fz3VAZCs9g2-ac3d3u2q.jpeg?alt=media&token=be83689b-d7b4-4668-abe8-6a0c4b641ed5)
 Once your grandparents start asking you what Bitcoin is, you know it’s become pretty popular. And while Bitcoin certainly has plenty of upsides, many people are wondering how they can invest in other cryptocurrencies to get ahead of the curve and possibly become rich. Or at the very least, people are curious as to how they can diversify their financial portfolios with a bit of crypto exposure beyond Bitcoin. And in either case, you have plenty of options to wade through.
 
-### [219. Why Everyday People Don’t Trust Crypto and Some Answers To Placate Their Fears](https://hackernoon.com/why-everyday-people-dont-trust-crypto-and-some-answers-to-placate-their-fears)
+### [220. Why Everyday People Don’t Trust Crypto and Some Answers To Placate Their Fears](https://hackernoon.com/why-everyday-people-dont-trust-crypto-and-some-answers-to-placate-their-fears)
 ![](https://cdn.hackernoon.com/images/sJT10sqf3vdykcAnF5GdRzRIydh2-kj037dm.jpeg)
 Bitcoin and other cryptos are coming mainstream but everyday people still find it difficult to trust blockchain tech, NFTS and coins. How can we convince them?
-
-### [220. The 5 Steps to Becoming the God of Pitch Decks](https://hackernoon.com/the-5-steps-to-becoming-the-god-of-pitch-decks)
-![](https://cdn.hackernoon.com/images/Zks0omx34Xc0hBcPTGNTtV1KGJc2-ycb3vyv.jpeg)
-A step-by-step plan on becoming the God of Pitches for investors and start-up contests.
 
 ### [221. Use Cases for Combining NFT with DeFi](https://hackernoon.com/use-cases-for-combining-nft-with-defi-vt3j34yi)
 ![](https://cdn.hackernoon.com/images/n3qwv60schbzCKwObnGvrbvrNgG3-t6o34zt.jpeg)
@@ -900,66 +902,66 @@ The combination of DeFi and NFT looks really promising, and there are already us
 Elrond is helping to mainstream DeFi by popularizing decentralized lending and borrowing among regular people.
 
 
-### [223. 7 Signs the Bitcoin Bull Phase is Back](https://hackernoon.com/7-signs-the-bitcoin-bull-phase-is-back)
-![](https://cdn.hackernoon.com/images/hxy8qxsZMaPAcd2AeFKkNOE9OLu1-hi92olg.jpeg)
-There are 4 phases of the crypto cycle. We have just entered the bitcoin bullish phase again. Here are 7 signs that confirms this...
-
-### [224. Analyzing The Commitment of Traders [COT] Report](https://hackernoon.com/analyzing-the-commitment-of-traders-cot-report-531e3w9c)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-que3w13.jpeg?alt=media&token=dbc98487-c4c0-45b2-b45a-9ae8de7a8aaa)
-The Commitment of Traders Report is one of the prime sources of data for many futures and forex traders. You may have even seen the graphs referenced in our Weekly Reports. But what exactly does COT data tell you and how can you use it to improve your trading? We tackle these questions in our latest blog below.
-
-### [225. cTrader’s Ascent and the Slow Death of MT4](https://hackernoon.com/ctraders-ascent-and-the-slow-death-of-mt4-3a1y3zd8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmuxWReET2BeIUqPRPBU8uG7mj4B3-k61b3wew.png?alt=media&token=87928594-7322-4922-bb3a-d2505dd24df3)
-If you ask your average retail Forex trader what platform they use, they are probably going to say MetaTrader 4 (MT4). The venerable grandaddy of the Forex trading platforms, MT4 has been around since 2005 and is still much more popular than any other trading platform. 
-
-### [226. Capitalizing on Uncertainty: 3 Defense Stocks To Look Out For as Geopolitical Tensions Rise](https://hackernoon.com/capitalizing-on-uncertainty-3-defense-stocks-to-look-out-for-as-geopolitical-tensions-rise)
-![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-m48356w.jpeg)
-Investors should conduct sufficient research when diversifying their portfolio with defense stocks and choose only companies with a sustainable commitment.
-
-### [227. The Future of Gaming is Play-and-Earn, Not Play-to-Earn](https://hackernoon.com/the-future-of-gaming-is-play-and-earn-not-play-to-earn)
+### [223. The Future of Gaming is Play-and-Earn, Not Play-to-Earn](https://hackernoon.com/the-future-of-gaming-is-play-and-earn-not-play-to-earn)
 ![](https://cdn.hackernoon.com/images/GAkTlCgOUjOa1Y70fJ5CkqHtvBb2-kgb3r2h.jpeg)
 The Web3 space has seen its fair share of value propositions come and go throughout the years, with some living up to expectations, and others not so much. 
 
-### [228. Meet Daulat: A Digital Wealth Management Platform Tailored for India](https://hackernoon.com/meet-daulat-a-digital-wealth-management-platform-tailored-for-india)
+### [224. 7 Signs the Bitcoin Bull Phase is Back](https://hackernoon.com/7-signs-the-bitcoin-bull-phase-is-back)
+![](https://cdn.hackernoon.com/images/hxy8qxsZMaPAcd2AeFKkNOE9OLu1-hi92olg.jpeg)
+There are 4 phases of the crypto cycle. We have just entered the bitcoin bullish phase again. Here are 7 signs that confirms this...
+
+### [225. Capitalizing on Uncertainty: 3 Defense Stocks To Look Out For as Geopolitical Tensions Rise](https://hackernoon.com/capitalizing-on-uncertainty-3-defense-stocks-to-look-out-for-as-geopolitical-tensions-rise)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-m48356w.jpeg)
+Investors should conduct sufficient research when diversifying their portfolio with defense stocks and choose only companies with a sustainable commitment.
+
+### [226. Meet Daulat: A Digital Wealth Management Platform Tailored for India](https://hackernoon.com/meet-daulat-a-digital-wealth-management-platform-tailored-for-india)
 ![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-an-image-of-the-taj-mahal-made-out-of-gold-coins-clezdq59q000201s6cvxhepnz.png)
 Daulat is a tech-enabled, wealth-management platform helping Indians invest better. Our expert investment portfolios help people reach their financial goals. 
 
-### [229. French Connection Finance and FCF Pay: The Innovative Payment Gateway ](https://hackernoon.com/feel-the-great-burn-with-french-connection-finance-and-the-beta-innovative-payment-gateway)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-rt03o65.jpeg)
-The days of swapping crypto for fiat and then waiting for the deposit to land in your bank account are over.
+### [227. Analyzing The Commitment of Traders [COT] Report](https://hackernoon.com/analyzing-the-commitment-of-traders-cot-report-531e3w9c)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-que3w13.jpeg?alt=media&token=dbc98487-c4c0-45b2-b45a-9ae8de7a8aaa)
+The Commitment of Traders Report is one of the prime sources of data for many futures and forex traders. You may have even seen the graphs referenced in our Weekly Reports. But what exactly does COT data tell you and how can you use it to improve your trading? We tackle these questions in our latest blog below.
 
-### [230. "Web3 will revolutionize how the world interacts with the Internet of Value"](https://hackernoon.com/web3-will-revolutionize-how-the-world-interacts-with-the-internet-of-value)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-pe13brj.jpeg)
-We believe that regulating the blockchain space is the only way to push these ideas into the mainstream, but we also understand that it’s not that simple. 
+### [228. cTrader’s Ascent and the Slow Death of MT4](https://hackernoon.com/ctraders-ascent-and-the-slow-death-of-mt4-3a1y3zd8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FmuxWReET2BeIUqPRPBU8uG7mj4B3-k61b3wew.png?alt=media&token=87928594-7322-4922-bb3a-d2505dd24df3)
+If you ask your average retail Forex trader what platform they use, they are probably going to say MetaTrader 4 (MT4). The venerable grandaddy of the Forex trading platforms, MT4 has been around since 2005 and is still much more popular than any other trading platform. 
 
-### [231. The Ultimate Guide to Crypto Staking](https://hackernoon.com/the-ultimate-guide-to-crypto-staking)
-![](https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-nza305n.jpeg)
-Crypto staking is taking world finance to a new level. When more people come on board to DeFi, it will start a Web3 revolution. 
-
-### [232. Codie Sanchez: How to Raise a $15M Series A to Chase After a $15 Billion Market](https://hackernoon.com/codie-sanchez-how-to-raise-a-dollar15m-series-a-to-chase-after-a-dollar15-billion-market)
+### [229. Codie Sanchez: How to Raise a $15M Series A to Chase After a $15 Billion Market](https://hackernoon.com/codie-sanchez-how-to-raise-a-dollar15m-series-a-to-chase-after-a-dollar15-billion-market)
 ![](https://cdn.hackernoon.com/images/robot-in-car-wash-cliakkspg000101s6e19la6h7.png)
 Codie Sanchez explains how a company raised a $15m Series A to chase after a $15 BILLION market.
 
-### [233. Most Promising and Exciting Investment Sectors in Europe in 2024](https://hackernoon.com/most-promising-and-exciting-investment-sectors-in-europe-in-2024)
+### [230. The Ultimate Guide to Crypto Staking](https://hackernoon.com/the-ultimate-guide-to-crypto-staking)
+![](https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-nza305n.jpeg)
+Crypto staking is taking world finance to a new level. When more people come on board to DeFi, it will start a Web3 revolution. 
+
+### [231. Most Promising and Exciting Investment Sectors in Europe in 2024](https://hackernoon.com/most-promising-and-exciting-investment-sectors-in-europe-in-2024)
 ![](https://cdn.hackernoon.com/images/ykv4bvmVYuas3iki1LegjQRHoDC3-dm0331n.png)
 Top investment sectors in Europe for 2024: growth in AI, fintech, sustainability, and more, highlighting key trends and factors attracting investors.
 
-### [234. Stop Listening to Interest-as-Income Advice by Crypto 'Experts'](https://hackernoon.com/stop-listening-to-interest-as-income-advice-by-crypto-experts)
-![](https://cdn.hackernoon.com/images/ozQaVbvb1Va2Vp5YebrDI2AOVrJ2-sn037dr.jpeg)
-Crypto experts might mean well when dispensing financial advice. But using interest earned from your crypto assets is going to cost you in taxes. 
+### [232. French Connection Finance and FCF Pay: The Innovative Payment Gateway ](https://hackernoon.com/feel-the-great-burn-with-french-connection-finance-and-the-beta-innovative-payment-gateway)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-rt03o65.jpeg)
+The days of swapping crypto for fiat and then waiting for the deposit to land in your bank account are over.
 
-### [235. 10 Cognitive Biases in Crypto Investing — Cause, Impact and Mitigation](https://hackernoon.com/10-cognitive-biases-in-crypto-investing-cause-impact-and-mitigation)
+### [233. "Web3 will revolutionize how the world interacts with the Internet of Value"](https://hackernoon.com/web3-will-revolutionize-how-the-world-interacts-with-the-internet-of-value)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-pe13brj.jpeg)
+We believe that regulating the blockchain space is the only way to push these ideas into the mainstream, but we also understand that it’s not that simple. 
+
+### [234. 10 Cognitive Biases in Crypto Investing — Cause, Impact and Mitigation](https://hackernoon.com/10-cognitive-biases-in-crypto-investing-cause-impact-and-mitigation)
 ![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-o6a3kfe.jpeg)
 Most investors make the same mistakes that can be prevented. 10 Common cognitive biases, their causes, and their potential impact on cryptocurrency investors. 
 
-### [236. Meet DeFi. The Changer of Life. ](https://hackernoon.com/meet-defi-the-changer-of-life)
+### [235. Meet DeFi. The Changer of Life. ](https://hackernoon.com/meet-defi-the-changer-of-life)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-a893vzd.jpeg)
 These days, if you mention that ‘decentralized finance (DeFi) is revolutionary’ you may get more than a couple of eye-rolls. 
 
-### [237. Educational Byte: The Halloween Effect in Crypto and Stocks](https://hackernoon.com/educational-byte-the-halloween-effect-in-crypto-and-stocks)
+### [236. Educational Byte: The Halloween Effect in Crypto and Stocks](https://hackernoon.com/educational-byte-the-halloween-effect-in-crypto-and-stocks)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-g4a3z5w.jpeg)
 Have you ever heard of the bullish "Halloween effect" in stocks and cryptocurrencies? Well, let's dive a bit into this phenomenon.
 
+
+### [237. Stop Listening to Interest-as-Income Advice by Crypto 'Experts'](https://hackernoon.com/stop-listening-to-interest-as-income-advice-by-crypto-experts)
+![](https://cdn.hackernoon.com/images/ozQaVbvb1Va2Vp5YebrDI2AOVrJ2-sn037dr.jpeg)
+Crypto experts might mean well when dispensing financial advice. But using interest earned from your crypto assets is going to cost you in taxes. 
 
 ### [238. Goldman Sachs Suggests the ChatGPT Furore Could Last: Analyzing 4 Key Players in AI](https://hackernoon.com/goldman-sachs-suggests-the-chatgpt-furore-could-last-analyzing-4-key-players-in-ai)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-77e3rse.jpeg)
@@ -973,13 +975,13 @@ In the last couple of years, the DeFI landscape has worked tirelessly to improve
 ![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-h7039y4.jpeg)
 Thought you knew everything about Bitcoin? This article will introduce you to 8 totally unknown facts about the king of digital currency.
 
-### [241. Is Investing In Cryptocurrency A Smart Move for Retirement?](https://hackernoon.com/is-investing-in-cryptocurrency-a-smart-move-for-retirement)
-![](https://cdn.hackernoon.com/images/mKeT7i5JrEbvhpkTlATD3Liy0Mb2-3gc3qkj.jpeg)
-The rise of cryptocurrency can be the next big thing to invest in, which is why it is a good idea to know what it is and what makes it so great.
-
-### [242. Uncovering the Dark Truth Behind De Hek and Kassam - Liars Targeting Apollo Fintech](https://hackernoon.com/a-friendly-reminder-that-cryptocurrency-is-the-future-of-money-j62w3uir)
+### [241. Uncovering the Dark Truth Behind De Hek and Kassam - Liars Targeting Apollo Fintech](https://hackernoon.com/a-friendly-reminder-that-cryptocurrency-is-the-future-of-money-j62w3uir)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FY6FmFn0ZIfO15FTb4oUA3EXBVCr2-s9m28hl.jpeg?alt=media&token=1b0aff94-97d3-4fbf-941a-86ef7012c452)
 So far, the cryptocurrency industry has grown to be one of the most lucrative in the world. After a decade of existence, Bitcoin has so far become the best performing asset – period. Statistics from last year show that Bitcoin was the best –performing investment class of the year, as well as the past decade.
+
+### [242. Is Investing In Cryptocurrency A Smart Move for Retirement?](https://hackernoon.com/is-investing-in-cryptocurrency-a-smart-move-for-retirement)
+![](https://cdn.hackernoon.com/images/mKeT7i5JrEbvhpkTlATD3Liy0Mb2-3gc3qkj.jpeg)
+The rise of cryptocurrency can be the next big thing to invest in, which is why it is a good idea to know what it is and what makes it so great.
 
 ### [243. Helicopter Money, Inflation, and the Bitcoin Standard](https://hackernoon.com/helicopter-money-inflation-and-the-bitcoin-standard-29cm32fn)
 ![](https://cdn.hackernoon.com/images/ybsi3ygk.jpg)
@@ -1005,713 +1007,713 @@ Due to this demand, Nvidia has been able to surpass earnings forecasts and great
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-f202t2e.jpeg)
 Supply in crypto is superabundant. When supply outpaces demand, attention is diverted, liquidity gets spread unevenly, and order books become thin. But, when...
 
-### [249. The Rollerball Cryptocurrency Hypothesis](https://hackernoon.com/the-rollerball-cryptocurrency-hypothesis-ig1r332e)
-![](https://hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-iz10r3z3t.jpeg)
-The Rollerball Cryptocurrency Hypothesis: I was putting real money into cryptocurrency based upon the belief there would be a Rollerball League.
-
-### [250. What Crypto Should You Invest In?](https://hackernoon.com/what-crypto-should-you-invest-in-ig5031n6)
-![](https://cdn.hackernoon.com/drafts/3w6og46v0.png)
-When you work in the blockchain space, you'll hear one question again and again, whether it's from your barber, your friends, or a social media DM:
-
-### [251. Can AI Revolutionize the Efficiency of Algo Execution in Institutional Trading?](https://hackernoon.com/can-ai-revolutionize-the-efficiency-of-algo-execution-in-institutional-trading)
+### [249. Can AI Revolutionize the Efficiency of Algo Execution in Institutional Trading?](https://hackernoon.com/can-ai-revolutionize-the-efficiency-of-algo-execution-in-institutional-trading)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-2c8352b.jpeg)
 The AI revolution in FX appears to be focused on portfolio optimization through algorithmic trading and execution. 
 
+
+### [250. The Rollerball Cryptocurrency Hypothesis](https://hackernoon.com/the-rollerball-cryptocurrency-hypothesis-ig1r332e)
+![](https://hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-iz10r3z3t.jpeg)
+The Rollerball Cryptocurrency Hypothesis: I was putting real money into cryptocurrency based upon the belief there would be a Rollerball League.
+
+### [251. What Crypto Should You Invest In?](https://hackernoon.com/what-crypto-should-you-invest-in-ig5031n6)
+![](https://cdn.hackernoon.com/drafts/3w6og46v0.png)
+When you work in the blockchain space, you'll hear one question again and again, whether it's from your barber, your friends, or a social media DM:
 
 ### [252. As the Hype Ends, Brazil's Tech Startup Investment Landscape is Changing for the Better](https://hackernoon.com/as-the-hype-ends-brazils-tech-startup-investment-landscape-is-changing-for-the-better)
 ![](https://cdn.hackernoon.com/images/hDQFmLyqiUd2kk7sZLE4xqV2Z5D2-3393qn6.jpeg)
 Brazil's become a startup paradise, but the current funding low is leaving its mark. What's in store for the Brazilian startup ecosystem at the end of 2022
 
-### [253. Using Algorithms to Limit Loss in a Market Crash](https://hackernoon.com/using-algorithms-to-limit-loss-in-a-market-crash-9z6s3yej)
-![](https://cdn.hackernoon.com/drafts/rs4y0420m.png)
-Whether you're a retail or institutional investor, a traditional or alternative investor, you probably just lost a lot of money.
-
-### [254. How to Invest in Digital Assets and Blockchain Startups with Maggie Wu](https://hackernoon.com/how-to-invest-in-digital-assets-and-blockchain-startups-with-maggie-wu-a8k37la)
+### [253. How to Invest in Digital Assets and Blockchain Startups with Maggie Wu](https://hackernoon.com/how-to-invest-in-digital-assets-and-blockchain-startups-with-maggie-wu-a8k37la)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-qh6f3dti.jpeg)
 This article talks about investment into digital assets and how investors should invest and navigate the cryptocurrency industry
 
-### [255. The Strongest Force in the Universe](https://hackernoon.com/the-strongest-force-in-the-universe-jb4d3uto)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-1i1428i2.jpeg?alt=media&token=530f6bb4-f4eb-43e6-afb8-81d94b24910e)
-When I was a child, I used to go to my grandmother’s (nani) house every summer for two months. I loved going there -  firstly, because I could play there all day long, and secondly, because my grandmother used to tell us stories every night before we went to bed.
-
-### [256. Growing Economies Investors Should Be Keeping an Eye On in 2021](https://hackernoon.com/growing-economies-investors-should-be-keeping-an-eye-on-in-2021-v72c31mg)
-![](https://cdn.hackernoon.com/images/g7d5G96rCeNoWY2d3gvE4LfRi6o2-7q831p8.jpeg)
-The COVID-19 pandemic has impacted growth in territories across the globe. Gross domestic growth (GDP) rates of nations typically swing anywhere between 26.21% and - 66.65%, but global growth is projected to be around -4.4% this year.
-
-### [257. The Noonification: How to Use the Javascript Slice Method (12/12/2022)](https://hackernoon.com/12-12-2022-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-12/12/2022: Top 5 stories on the Hackernoon homepage!
-
-### [258. The History and Future of AI in Fintech](https://hackernoon.com/ai-in-fintech-the-history-and-future)
-![](https://cdn.hackernoon.com/images/1ZIInHuCjNexCjF7QahU9DrMms33-xm93mcy.jpeg)
-How artificial intelligence has impacted fintech, and what the future will bring.
-
-### [259. The Parable of the Farmer and the Horse: A Short Story That Will Make You Rethink Everything](https://hackernoon.com/the-parable-of-the-farmer-and-the-horse-a-short-story-that-will-make-you-rethink-everything)
+### [254. The Parable of the Farmer and the Horse: A Short Story That Will Make You Rethink Everything](https://hackernoon.com/the-parable-of-the-farmer-and-the-horse-a-short-story-that-will-make-you-rethink-everything)
 ![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-a-farmer-and-a-horse-clgfplsmz000201s6h8i98elu.png)
 Sahil Bloom tells the story of the Farmer and the Horse.
 
-### [260. 10 Stocks to Consider When Looking to Invest in Connected Cars Space](https://hackernoon.com/10-stocks-to-consider-when-looking-to-invest-in-connected-cars-space-x95931g0)
-![](https://cdn.hackernoon.com/images/QXsXg7hvkgUim8nVzmpA0TNWPaL2-771n28fc.jpeg)
-The rollout of 5G is making even more connections possible, and one of the revolutionary  trends in the connected world is connected cars. Vehicles are getting smarter than ever before, and they’ll be using up a lot of data as more and more get connected to the Internet of Things.
+### [255. Using Algorithms to Limit Loss in a Market Crash](https://hackernoon.com/using-algorithms-to-limit-loss-in-a-market-crash-9z6s3yej)
+![](https://cdn.hackernoon.com/drafts/rs4y0420m.png)
+Whether you're a retail or institutional investor, a traditional or alternative investor, you probably just lost a lot of money.
 
-### [261. Lenders? DAOs? Traders? Here Are the Most Promising DeFi Projects to Keep an Eye Out On in 2023](https://hackernoon.com/lenders-daos-traders-here-are-the-most-promising-defi-projects-to-keep-an-eye-out-on-in-2023)
+### [256. The Strongest Force in the Universe](https://hackernoon.com/the-strongest-force-in-the-universe-jb4d3uto)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-1i1428i2.jpeg?alt=media&token=530f6bb4-f4eb-43e6-afb8-81d94b24910e)
+When I was a child, I used to go to my grandmother’s (nani) house every summer for two months. I loved going there -  firstly, because I could play there all day long, and secondly, because my grandmother used to tell us stories every night before we went to bed.
+
+### [257. Growing Economies Investors Should Be Keeping an Eye On in 2021](https://hackernoon.com/growing-economies-investors-should-be-keeping-an-eye-on-in-2021-v72c31mg)
+![](https://cdn.hackernoon.com/images/g7d5G96rCeNoWY2d3gvE4LfRi6o2-7q831p8.jpeg)
+The COVID-19 pandemic has impacted growth in territories across the globe. Gross domestic growth (GDP) rates of nations typically swing anywhere between 26.21% and - 66.65%, but global growth is projected to be around -4.4% this year.
+
+### [258. The Noonification: How to Use the Javascript Slice Method (12/12/2022)](https://hackernoon.com/12-12-2022-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+12/12/2022: Top 5 stories on the Hackernoon homepage!
+
+### [259. The History and Future of AI in Fintech](https://hackernoon.com/ai-in-fintech-the-history-and-future)
+![](https://cdn.hackernoon.com/images/1ZIInHuCjNexCjF7QahU9DrMms33-xm93mcy.jpeg)
+How artificial intelligence has impacted fintech, and what the future will bring.
+
+### [260. Lenders? DAOs? Traders? Here Are the Most Promising DeFi Projects to Keep an Eye Out On in 2023](https://hackernoon.com/lenders-daos-traders-here-are-the-most-promising-defi-projects-to-keep-an-eye-out-on-in-2023)
 ![](https://cdn.hackernoon.com/images/6sWrtbrOmsOIbrWzrG88lYfV4ch1-rl93p30.png)
 2023 is the year of DeFi, and here are five of the most promising projects to look out for in this booming industry.
 
-### [262. The Bitcoin Millionaire Fastlane Currently Costs $637 USD](https://hackernoon.com/the-bitcoin-millionaire-fastlane-only-costs-dollar637-usd)
+### [261. 10 Stocks to Consider When Looking to Invest in Connected Cars Space](https://hackernoon.com/10-stocks-to-consider-when-looking-to-invest-in-connected-cars-space-x95931g0)
+![](https://cdn.hackernoon.com/images/QXsXg7hvkgUim8nVzmpA0TNWPaL2-771n28fc.jpeg)
+The rollout of 5G is making even more connections possible, and one of the revolutionary  trends in the connected world is connected cars. Vehicles are getting smarter than ever before, and they’ll be using up a lot of data as more and more get connected to the Internet of Things.
+
+### [262. How to Earn FREE Crypto in 2022](https://hackernoon.com/how-to-earn-free-crypto-in-2022)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-jx931xt.jpeg)
+2021 was a great year for crypto. The market hit an all-time high, and more people than ever started investing in digital currencies. But what does 2022 brings?
+
+### [263. The Bitcoin Millionaire Fastlane Currently Costs $637 USD](https://hackernoon.com/the-bitcoin-millionaire-fastlane-only-costs-dollar637-usd)
 ![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-fm139qg.jpeg)
 True wealth is not about having more and more money, but about having the freedom to use your money. That's exactly what Bitcoin allows.
 
-### [263. One Man's Shitcoin is Another Man's Life Savings ](https://hackernoon.com/one-mans-shitcoin-is-another-mans-life-savings)
+### [264. One Man's Shitcoin is Another Man's Life Savings ](https://hackernoon.com/one-mans-shitcoin-is-another-mans-life-savings)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-ho03olz.jpeg)
 Gone are the days when Bitcoin was the only known cryptocurrency. Countless blockchain projects have been created over the years. 
 
-### [264. How to Practice Trading with an App - TradingGYM](https://hackernoon.com/how-to-practice-trading-with-an-app-tradinggym-8k373wxr)
+### [265. How to Practice Trading with an App - TradingGYM](https://hackernoon.com/how-to-practice-trading-with-an-app-tradinggym-8k373wxr)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F5HUaaJqHv2Of3gb6EeMMe4S0ZWY2-kfk3te6.jpeg?alt=media&token=9d1a14ed-7c5f-48f5-a292-9ba54fde1615)
 I was looking for an app that helps you practice trading, something that would replay historical candles and let me trade on them at a point in time, kind of like a trading simulator, but I couldn't find anything that suited my needs.
 
-### [265. Going from N00b GameFi Investor to Boss Mode - Blockchain Gaming Part 2](https://hackernoon.com/going-from-n00b-gamefi-investor-to-boss-mode-blockchain-gaming-part-2)
+### [266. Going from N00b GameFi Investor to Boss Mode - Blockchain Gaming Part 2](https://hackernoon.com/going-from-n00b-gamefi-investor-to-boss-mode-blockchain-gaming-part-2)
 ![](https://cdn.hackernoon.com/images/zq4kRoY1koM2G9ICsR601fXkYy22-5s93mow.jpeg)
 The gaming industry is at an inflection point, as platforms go from fragmented experimentation with blockchain technology to potential mass implementation of P2
 
-### [266. Is DeFi Now Dead? Inside the dForce / LendfMe 25 Million USD Hack!](https://hackernoon.com/is-defi-now-dead-inside-the-dforce-lendfme-25-million-usd-hack-sf5332j3)
-![](https://cdn.hackernoon.com/images/xz8z3y07.jpg)
-
-
-### [267. How to Earn FREE Crypto in 2022](https://hackernoon.com/how-to-earn-free-crypto-in-2022)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-jx931xt.jpeg)
-2021 was a great year for crypto. The market hit an all-time high, and more people than ever started investing in digital currencies. But what does 2022 brings?
+### [267. "Traditional Media Exhibit Bias Against Crypto", Alena Afanaseva CEO BeInCypto News Media ](https://hackernoon.com/traditional-media-exhibit-bias-against-crypto-alena-afanaseva-ceo-beincypto-news-media)
+![](https://cdn.hackernoon.com/images/XEwEsoKKiSM0pGjq4dyeehqOfjj2-m5b2pvy.jpeg)
+I recently sat down with the CEO of BeInCrypto Alena Afanaseva to discuss the rise of crypto journalism and the recent spate of anti-crypto narratives..........
 
 ### [268. The Best Ways to Research Cryptocurrencies](https://hackernoon.com/the-best-ways-to-research-cryptocurrencies)
 ![](https://cdn.hackernoon.com/images/oOAIYVH2JeWnKukF7SdhtTPUfTl1-vf93q63.jpeg)
 The phrase "DYOR" is frequently heard in the digital asset world, but what exactly does it mean? Figuring out how to perform the investigation to invest in a fr
 
-### [269. "Traditional Media Exhibit Bias Against Crypto", Alena Afanaseva CEO BeInCypto News Media ](https://hackernoon.com/traditional-media-exhibit-bias-against-crypto-alena-afanaseva-ceo-beincypto-news-media)
-![](https://cdn.hackernoon.com/images/XEwEsoKKiSM0pGjq4dyeehqOfjj2-m5b2pvy.jpeg)
-I recently sat down with the CEO of BeInCrypto Alena Afanaseva to discuss the rise of crypto journalism and the recent spate of anti-crypto narratives..........
+### [269. Is DeFi Now Dead? Inside the dForce / LendfMe 25 Million USD Hack!](https://hackernoon.com/is-defi-now-dead-inside-the-dforce-lendfme-25-million-usd-hack-sf5332j3)
+![](https://cdn.hackernoon.com/images/xz8z3y07.jpg)
 
-### [270. Why the Uneven Global Pandemic Recovery Will Lead More Institutions Into Global Markets Than Ever](https://hackernoon.com/why-the-uneven-global-pandemic-recovery-will-lead-more-institutions-into-global-markets-than-ever)
-![](https://cdn.hackernoon.com/images/aBxCRG4PdBeC4Gw5xSpatovTWXC2-cb8353d.jpeg)
-While the COVID-19 pandemic has long faded into the rearview mirror, its lasting impact is still being felt on a widespread scale.
+
+### [270. The Periphery ](https://hackernoon.com/the-periphery)
+![](https://cdn.hackernoon.com/images/fzCq5YEgXyXMzUyeDwj9DeNu64Z2-tk93y36.jpeg)
+I will compare how gold and Bitcoin reacted to the gyrations of Pax Americana’s risk-free reserve asset.
 
 ### [271. How to Win at Business During Economic Uncertainty](https://hackernoon.com/how-to-win-at-business-during-economic-uncertainty)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-ha93vgt.jpeg)
 As business owners, we can't afford to bury our heads in the sand. 
 
-### [272. Gensler Gets Crypto but He Might not Agree with it](https://hackernoon.com/gensler-gets-crypto-but-he-might-not-agree-with-it)
+### [272. Why the Uneven Global Pandemic Recovery Will Lead More Institutions Into Global Markets Than Ever](https://hackernoon.com/why-the-uneven-global-pandemic-recovery-will-lead-more-institutions-into-global-markets-than-ever)
+![](https://cdn.hackernoon.com/images/aBxCRG4PdBeC4Gw5xSpatovTWXC2-cb8353d.jpeg)
+While the COVID-19 pandemic has long faded into the rearview mirror, its lasting impact is still being felt on a widespread scale.
+
+### [273. Gensler Gets Crypto but He Might not Agree with it](https://hackernoon.com/gensler-gets-crypto-but-he-might-not-agree-with-it)
 ![](https://cdn.hackernoon.com/images/o8Wux6zYl7gG6HnQ4fbKK6Lnq2h2-qn93ujv.jpeg)
 What is SEC chair's Gary Gensler crypto superpower?
-
-### [273. The Periphery ](https://hackernoon.com/the-periphery)
-![](https://cdn.hackernoon.com/images/fzCq5YEgXyXMzUyeDwj9DeNu64Z2-tk93y36.jpeg)
-I will compare how gold and Bitcoin reacted to the gyrations of Pax Americana’s risk-free reserve asset.
 
 ### [274. Meta’s Meteoric Rise in 2023 Shows No Sign of Slowing This Year](https://hackernoon.com/metas-meteoric-rise-in-2023-shows-no-sign-of-slowing-this-year)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-lq83368.jpeg)
 After shedding more than 70% of its value amid 2022’s tech stock sell-offs the stock surged 180% in 2023–and the tech giant is far from finished. 
 
-### [275. Is Bitcoin A Good Investment In 2022?](https://hackernoon.com/is-bitcoin-a-good-investment-in-2022)
-![](https://cdn.hackernoon.com/images/bcdNBSrILpX6WFZDaIErn6I5Oi03-3ob3re1.jpeg)
-Bitcoin may have more in common with traditional financial assets like bonds and stocks than other cryptocurrencies making it a particularly enticing investment
-
-### [276. The Crypto State of Affairs in 2021](https://hackernoon.com/the-crypto-state-of-affairs-in-2021-283e37l4)
-![](https://cdn.hackernoon.com/images/r633U8vKGhQp66FOBDmgOkw0J472-r21d35os.jpeg)
-The stories to track regarding government regulation that will determine the future of cryptocurrency.
-
-### [277. Q&A with Pluto Co-Founder and CEO Jacob Sansbury](https://hackernoon.com/qanda-with-pluto-co-founder-and-ceo-jacob-sansbury)
-![](https://cdn.hackernoon.com/images/HMOUMhHTnVcjmJTEHjEX9ealKMN2-4593q1c.jpeg)
-Q&A with Pluto Co-Founder and CEO Jacob Sansbury
-
-### [278. Why Africa is Becoming the Land of Startup Opportunity](https://hackernoon.com/why-africa-is-becoming-the-land-of-startup-opportunity-sf1i32lu)
-![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-fzg33mz.png)
-In 2019, the top 5 fastest growing economies in the world were in Africa and they were growing at 2x the global average.
-
-### [279. How Crypto can Reach Mass Adoption](https://hackernoon.com/how-crypto-can-reach-mass-adoption)
+### [275. How Crypto can Reach Mass Adoption](https://hackernoon.com/how-crypto-can-reach-mass-adoption)
 ![](https://cdn.hackernoon.com/images/ZW20EUTPJfhox7MUgWdXzwwwm2g1-6193k8j.jpeg)
 What will drive the next bull run? I believe it will be mass adoption of crypto driven by real-life utility.
 
-### [280. Bitcoin: 'Extreme is Normal'](https://hackernoon.com/bitcoin-extreme-is-normal)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-sk33olc.jpeg)
-Embrace uncertainty. It’s the only reason we have this amazing investment opportunity.
+### [276. Q&A with Pluto Co-Founder and CEO Jacob Sansbury](https://hackernoon.com/qanda-with-pluto-co-founder-and-ceo-jacob-sansbury)
+![](https://cdn.hackernoon.com/images/HMOUMhHTnVcjmJTEHjEX9ealKMN2-4593q1c.jpeg)
+Q&A with Pluto Co-Founder and CEO Jacob Sansbury
 
-### [281. NFTs' Future Beyond Investment: The 7 Types of NFTs Available Today](https://hackernoon.com/nfts-future-beyond-investment-the-7-types-of-nfts-available-today)
-![](https://cdn.hackernoon.com/images/KGTFaWujV3WROYDbGn02182ZFGF3-j003aun.jpeg)
-NFTs have a future beyond inflated #cryptopunks and #BoredApes
+### [277. Is Bitcoin A Good Investment In 2022?](https://hackernoon.com/is-bitcoin-a-good-investment-in-2022)
+![](https://cdn.hackernoon.com/images/bcdNBSrILpX6WFZDaIErn6I5Oi03-3ob3re1.jpeg)
+Bitcoin may have more in common with traditional financial assets like bonds and stocks than other cryptocurrencies making it a particularly enticing investment
 
-### [282. How Developers Should Invest Their Time](https://hackernoon.com/how-developers-should-invest-their-time-2e1b3uww)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBamvTIAhDQTWIhpCo8cqPm438Yw2-dn73yut.jpeg?alt=media&token=170faa19-f37f-4020-a91d-f2b6dde64c46)
-In today’s, in the past and probably in the future world — the time is more valuable than money, and the right time waits for no one. Hence, we have to make the most out of it to succeed in life.
+### [278. The Crypto State of Affairs in 2021](https://hackernoon.com/the-crypto-state-of-affairs-in-2021-283e37l4)
+![](https://cdn.hackernoon.com/images/r633U8vKGhQp66FOBDmgOkw0J472-r21d35os.jpeg)
+The stories to track regarding government regulation that will determine the future of cryptocurrency.
 
-### [283. Information Asymmetry and Crypto Trading](https://hackernoon.com/information-asymmetry-and-crypto-trading)
+### [279. 8 Tips to Make the Most of Crypto Winter](https://hackernoon.com/8-tips-to-make-the-most-of-crypto-winter)
+![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-p793pv0.png)
+We all enjoy seeing our investment portfolios turn green as numbers hit all-time high levels, however, the crypto market has a cyclic nature, which means that there are periods of time when users also have to tolerate losing their funds. 
+
+### [280. Why Africa is Becoming the Land of Startup Opportunity](https://hackernoon.com/why-africa-is-becoming-the-land-of-startup-opportunity-sf1i32lu)
+![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-fzg33mz.png)
+In 2019, the top 5 fastest growing economies in the world were in Africa and they were growing at 2x the global average.
+
+### [281. Information Asymmetry and Crypto Trading](https://hackernoon.com/information-asymmetry-and-crypto-trading)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-vw93il0.jpeg)
 Information Asymmetry is what attracts poker, chess and videogames players into crypto and trading. 
 
-### [284. 10+ Questions you Should ask Yourself Before Developing an AI Solution](https://hackernoon.com/10-questions-you-should-ask-yourself-before-developing-an-ai-solution-hg3734t9)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-yg1229ff.jpeg)
-So you want to start your project basing on Artificial Intelligence. That's great but... are you really sure it is the best move? 
+### [282. NFTs' Future Beyond Investment: The 7 Types of NFTs Available Today](https://hackernoon.com/nfts-future-beyond-investment-the-7-types-of-nfts-available-today)
+![](https://cdn.hackernoon.com/images/KGTFaWujV3WROYDbGn02182ZFGF3-j003aun.jpeg)
+NFTs have a future beyond inflated #cryptopunks and #BoredApes
 
-### [285. 8 Tips to Make the Most of Crypto Winter](https://hackernoon.com/8-tips-to-make-the-most-of-crypto-winter)
-![](https://cdn.hackernoon.com/images/dlK0B6h0M0XLk1SRx1Q2XAXyi6y2-p793pv0.png)
-We all enjoy seeing our investment portfolios turn green as numbers hit all-time high levels, however, the crypto market has a cyclic nature, which means that there are periods of time when users also have to tolerate losing their funds. 
+### [283. Bitcoin: 'Extreme is Normal'](https://hackernoon.com/bitcoin-extreme-is-normal)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-sk33olc.jpeg)
+Embrace uncertainty. It’s the only reason we have this amazing investment opportunity.
+
+### [284. How Developers Should Invest Their Time](https://hackernoon.com/how-developers-should-invest-their-time-2e1b3uww)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBamvTIAhDQTWIhpCo8cqPm438Yw2-dn73yut.jpeg?alt=media&token=170faa19-f37f-4020-a91d-f2b6dde64c46)
+In today’s, in the past and probably in the future world — the time is more valuable than money, and the right time waits for no one. Hence, we have to make the most out of it to succeed in life.
+
+### [285. 556 Stories To Learn About Finance](https://hackernoon.com/556-stories-to-learn-about-finance)
+![](https://cdn.hackernoon.com/images/github/finance-582.png)
+Learn everything you need to know about Finance via these 556 free HackerNoon stories.
 
 ### [286. 5 Simple Ways To Resist FOMO and FUD While Investing in Crypto](https://hackernoon.com/5-simple-ways-to-resist-fomo-and-fud-while-investing-in-crypto)
 ![](https://cdn.hackernoon.com/images/ozQaVbvb1Va2Vp5YebrDI2AOVrJ2-ba037sz.jpeg)
 FOMO and FUD can destroy your crypto portfolio. Here are five ways to help you beat them while investing your crypto.
 
-### [287. Charting The Impact of Trump's Tariffs on Commodity Investing](https://hackernoon.com/charting-the-impact-of-trumps-tariffs-on-commodity-investing)
-![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-v603a4z.jpeg)
-The tariffs have prompted volatility through various commodity markets, but what will the impact be on commodities once the dust settles?
+### [287. 10+ Questions you Should ask Yourself Before Developing an AI Solution](https://hackernoon.com/10-questions-you-should-ask-yourself-before-developing-an-ai-solution-hg3734t9)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-yg1229ff.jpeg)
+So you want to start your project basing on Artificial Intelligence. That's great but... are you really sure it is the best move? 
 
-### [288. Low-Risk Investing for Beginners: 5 Types of Investments Not Related to Stocks and Crypto](https://hackernoon.com/low-risk-investing-for-beginners-5-types-of-investments-not-related-to-stocks-and-crypto)
-![](https://cdn.hackernoon.com/images/UbeXM4whHITEQEDq9TfUcGGnO452-gs83290.gif.webp)
-What if I told you your investment portfolio can be a pleasant calm breeze of investment that provides us with low-risk returns.
-
-### [289. Navigating Crypto: Crafting a Successful Trading Philosophy](https://hackernoon.com/navigating-crypto-crafting-a-successful-trading-philosophy)
-![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-94c3o0n.jpeg)
-The philosophy of Crypto Trading differs from cryptocurrency investing. Learning the main principles can give you an edge over other investors.
-
-### [290. iPhone 15 Vs. Bitcoin: Will You Give in to Mass Consumerism?](https://hackernoon.com/iphone-15-vs-bitcoin-will-you-give-in-to-mass-consumerism)
+### [288. iPhone 15 Vs. Bitcoin: Will You Give in to Mass Consumerism?](https://hackernoon.com/iphone-15-vs-bitcoin-will-you-give-in-to-mass-consumerism)
 ![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-e6b3z8h.jpeg)
 The iPhone 15 Is Here. Are You Going to Once Again Give In to the Mass Consumer Society Rather Than Save Within the Bitcoin Network?
 
 
-### [291. 556 Stories To Learn About Finance](https://hackernoon.com/556-stories-to-learn-about-finance)
-![](https://cdn.hackernoon.com/images/github/finance-582.png)
-Learn everything you need to know about Finance via these 556 free HackerNoon stories.
+### [289. Charting The Impact of Trump's Tariffs on Commodity Investing](https://hackernoon.com/charting-the-impact-of-trumps-tariffs-on-commodity-investing)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-v603a4z.jpeg)
+The tariffs have prompted volatility through various commodity markets, but what will the impact be on commodities once the dust settles?
 
-### [292. Less Than a Year; Recession and Bitcoin Halving](https://hackernoon.com/less-than-a-year-recession-and-bitcoin-halving)
+### [290. Less Than a Year; Recession and Bitcoin Halving](https://hackernoon.com/less-than-a-year-recession-and-bitcoin-halving)
 ![](https://cdn.hackernoon.com/images/hz99ukblnJWLVr8FiNw1S5gab0W2-c093uea.jpeg)
 What happens if the recession and halving year cross each other? 
 
-### [293. Why Bitcoin Remains the Financial Asset of Choice the Long Term](https://hackernoon.com/why-bitcoin-remains-a-favorite-asset-in-the-long-term)
+### [291. Navigating Crypto: Crafting a Successful Trading Philosophy](https://hackernoon.com/navigating-crypto-crafting-a-successful-trading-philosophy)
+![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-94c3o0n.jpeg)
+The philosophy of Crypto Trading differs from cryptocurrency investing. Learning the main principles can give you an edge over other investors.
+
+### [292. Low-Risk Investing for Beginners: 5 Types of Investments Not Related to Stocks and Crypto](https://hackernoon.com/low-risk-investing-for-beginners-5-types-of-investments-not-related-to-stocks-and-crypto)
+![](https://cdn.hackernoon.com/images/UbeXM4whHITEQEDq9TfUcGGnO452-gs83290.gif.webp)
+What if I told you your investment portfolio can be a pleasant calm breeze of investment that provides us with low-risk returns.
+
+### [293. The Battle of Finance: Payment for Order Flow vs. Best Execution](https://hackernoon.com/the-battle-of-finance-payment-for-order-flow-vs-best-execution)
+![](https://cdn.hackernoon.com/images/dollar-bill-vs-dollar-bill-clglkglbv000001s6709qdw1b.png)
+The Battle of Finance: Payment for Order Flow vs. Best Execution. Demystifying the Concepts and Understanding Their Impact on Trading.
+
+### [294. Why Bitcoin Remains the Financial Asset of Choice the Long Term](https://hackernoon.com/why-bitcoin-remains-a-favorite-asset-in-the-long-term)
 ![](https://cdn.hackernoon.com/images/hfzyDMUs8NM8oj1r5fb9K6U3nBq2-vqa3kx3.jpeg)
 So far in 2022, the entire crypto market has been impacted by wider economic and political uncertainties, led by Bitcoin, with prices down more than 50% over.
-
-### [294. We Built A Trader's Almanac And The Results Are Promising](https://hackernoon.com/we-built-a-traders-almanac-and-the-results-are-promising-0j2z34gu)
-![](https://cdn.hackernoon.com/images/qwlVSFUNhGO3DAw4hoBd17XGTAC2-5x4i340k.jpeg)
-ANN
 
 ### [295. How To Achieve Target Allocation Ratio (TAR) in Your Investment Portfolio](https://hackernoon.com/how-to-achieve-target-allocation-ratio-tar-in-your-investment-portfolio)
 ![](https://cdn.hackernoon.com/images/S0ghfRieyUPrITpL41YNPTuiHxZ2-mb82in7.jpeg)
 This article derives a mathematical equation to achieve the Target Allocation Ratio for different stocks in your portfolio by minimizing MSE. Project on GitHub.
 
-### [296. How COVID-19 Has Impacted Venture Capital Funding](https://hackernoon.com/how-covid-19-has-impacted-venture-capital-funding-vi593wep)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fzbzf4eUv2QhWbfSK4bieABR5a7f2-i6203t9h.jpeg?alt=media&token=e82724df-5a6c-4a05-8044-e546d2b25aa9)
-Remember when we thought COVID was just a horrible stage in our lives that would disappear after a month of masks and hand sanitizer? Oh, how sweet and naïve we were. As the pandemic marches on and many countries consider a second lockdown, businesses are having to look back on how they have managed these last 7 months and strategize for a corona-filled future.
+### [296. We Built A Trader's Almanac And The Results Are Promising](https://hackernoon.com/we-built-a-traders-almanac-and-the-results-are-promising-0j2z34gu)
+![](https://cdn.hackernoon.com/images/qwlVSFUNhGO3DAw4hoBd17XGTAC2-5x4i340k.jpeg)
+ANN
 
 ### [297. How AI is Rocking the Finance Industry](https://hackernoon.com/how-ai-is-rocking-the-finance-industry-935h3ua7)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgGWvqImTZgahGEys8V1pBS1utEn2-vlf3u45.jpeg?alt=media&token=9f545ad5-7f14-46b5-9d03-c2ccbe13000c)
 The financial market has evolved from what it used to be. There are a lot of redundant pictures stuck in the heads of everyone who are not a part of it and do not know how far it has come. The financial technology sector has accelerated its development during the last two decades and has created opportunities for people to trade from all across the world utilizing either their home computers, tablets, or even smartphones.
 
-### [298. The Battle of Finance: Payment for Order Flow vs. Best Execution](https://hackernoon.com/the-battle-of-finance-payment-for-order-flow-vs-best-execution)
-![](https://cdn.hackernoon.com/images/dollar-bill-vs-dollar-bill-clglkglbv000001s6709qdw1b.png)
-The Battle of Finance: Payment for Order Flow vs. Best Execution. Demystifying the Concepts and Understanding Their Impact on Trading.
+### [298. How COVID-19 Has Impacted Venture Capital Funding](https://hackernoon.com/how-covid-19-has-impacted-venture-capital-funding-vi593wep)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fzbzf4eUv2QhWbfSK4bieABR5a7f2-i6203t9h.jpeg?alt=media&token=e82724df-5a6c-4a05-8044-e546d2b25aa9)
+Remember when we thought COVID was just a horrible stage in our lives that would disappear after a month of masks and hand sanitizer? Oh, how sweet and naïve we were. As the pandemic marches on and many countries consider a second lockdown, businesses are having to look back on how they have managed these last 7 months and strategize for a corona-filled future.
 
-### [299. Secret Network Discloses $400 Million Ecosystem Fund](https://hackernoon.com/secret-network-announces-$400-million-ecosystem-fund)
-![](https://cdn.hackernoon.com/images/KGTFaWujV3WROYDbGn02182ZFGF3-jv43jur.gif.webp)
-Read my article about $SCRT and their new ecosystem fund backed by major players in the #cryptocurrency space.
-
-### [300. Aves Lair Announces Three Startups Comprising Inaugural Accelerator Cohort ](https://hackernoon.com/aves-lair-announces-three-startups-comprising-inaugural-accelerator-cohort-t7f34uz)
-![](https://cdn.hackernoon.com/images/kcbJJkj9FtWX0xUIL4DYmwC6ius1-c91934gs.jpeg)
-New York, NY, (December 14, 2020) – Aves Lair, a New York-based venture capital and frontier technology accelerator, announced today the debut of three innovative startups in its Winter 2020 cohort. 
-
-### [301. How to Find the Best IDOs (Part 2) - Technical Due Diligence](https://hackernoon.com/how-to-find-the-best-idos-part-2-technical-due-diligence-j21p37wf)
-![](https://cdn.hackernoon.com/images/rNqPxFCX9LM2EhslRsBL2qf7iEO2-p7433727.gif)
-For savvy crypto investors, this technical due diligence helps them identify unique new projects with unique value propositions.
-
-### [302. Binance Wants to Win the Stablecoin Race. Here's Why](https://hackernoon.com/binance-wants-to-win-the-stablecoin-race-heres-why)
-![](https://cdn.hackernoon.com/images/o8Wux6zYl7gG6HnQ4fbKK6Lnq2h2-vt93q8x.jpeg)
-Binance is a global company that has been under a lot of scrutiny by governments around the world.
-
-### [303. A Safer Way of Investing in IDOs with Priority Projects](https://hackernoon.com/a-safer-way-of-investing-in-igos-with-priority-projects)
+### [299. A Safer Way of Investing in IDOs with Priority Projects](https://hackernoon.com/a-safer-way-of-investing-in-igos-with-priority-projects)
 ![](https://cdn.hackernoon.com/images/ZW20EUTPJfhox7MUgWdXzwwwm2g1-6k93kx9.jpeg)
 Priority Projects - Kommunitas' way of making IGOs less risky and promoting high quality projects.
 
-### [304. Retail Trading Tech Trends, the Positive Impacts, and More](https://hackernoon.com/retail-trading-tech-trends-the-positive-impacts-and-more)
+### [300. How to Find the Best IDOs (Part 2) - Technical Due Diligence](https://hackernoon.com/how-to-find-the-best-idos-part-2-technical-due-diligence-j21p37wf)
+![](https://cdn.hackernoon.com/images/rNqPxFCX9LM2EhslRsBL2qf7iEO2-p7433727.gif)
+For savvy crypto investors, this technical due diligence helps them identify unique new projects with unique value propositions.
+
+### [301. Secret Network Discloses $400 Million Ecosystem Fund](https://hackernoon.com/secret-network-announces-$400-million-ecosystem-fund)
+![](https://cdn.hackernoon.com/images/KGTFaWujV3WROYDbGn02182ZFGF3-jv43jur.gif.webp)
+Read my article about $SCRT and their new ecosystem fund backed by major players in the #cryptocurrency space.
+
+### [302. Retail Trading Tech Trends, the Positive Impacts, and More](https://hackernoon.com/retail-trading-tech-trends-the-positive-impacts-and-more)
 ![](https://cdn.hackernoon.com/images/HMOUMhHTnVcjmJTEHjEX9ealKMN2-wi93qn3.png)
 Pluto is democratizing finance and aims to shift power from Wall Street back into the hands of retail investors.
 
-### [305. Here's Why We Need Bitcoin [Part I]](https://hackernoon.com/heres-why-we-need-bitcoin-part-i-np2l3yzl)
-![](https://images.unsplash.com/photo-1526913299589-f35a3ddeb7ae?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-The objective of this series of posts is to show why Bitcoin is a better form of money than the ones we currently use. For that, however, we first need to think about some fundamental concepts without which considering Bitcoin in a serious way is impossible. 
+### [303. Binance Wants to Win the Stablecoin Race. Here's Why](https://hackernoon.com/binance-wants-to-win-the-stablecoin-race-heres-why)
+![](https://cdn.hackernoon.com/images/o8Wux6zYl7gG6HnQ4fbKK6Lnq2h2-vt93q8x.jpeg)
+Binance is a global company that has been under a lot of scrutiny by governments around the world.
+
+### [304. Aves Lair Announces Three Startups Comprising Inaugural Accelerator Cohort ](https://hackernoon.com/aves-lair-announces-three-startups-comprising-inaugural-accelerator-cohort-t7f34uz)
+![](https://cdn.hackernoon.com/images/kcbJJkj9FtWX0xUIL4DYmwC6ius1-c91934gs.jpeg)
+New York, NY, (December 14, 2020) – Aves Lair, a New York-based venture capital and frontier technology accelerator, announced today the debut of three innovative startups in its Winter 2020 cohort. 
+
+### [305. Airbnb at a Crossroads: Is the Innovative Travel Stock Running Out of Steam?!](https://hackernoon.com/airbnb-at-a-crossroads-is-the-innovative-travel-stock-running-out-of-steam)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-3w133qy.jpeg)
+Could we see the innovative marketplace overcome its problems? Or is the stock’s status as the tourism industry’s biggest disruptor over? 
 
 ### [306. How to Purchase US Treasury Bonds and Bills](https://hackernoon.com/how-to-purchase-us-treasury-bonds-and-bills)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-0h92awr.jpeg)
 A guide on how to buy treasury bonds, I bonds, treasury bills, and TIPS from the U.S. government using treasurydirect.gov.
 
-### [307. Airbnb at a Crossroads: Is the Innovative Travel Stock Running Out of Steam?!](https://hackernoon.com/airbnb-at-a-crossroads-is-the-innovative-travel-stock-running-out-of-steam)
-![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-3w133qy.jpeg)
-Could we see the innovative marketplace overcome its problems? Or is the stock’s status as the tourism industry’s biggest disruptor over? 
+### [307. How Shorting Can Help Survive the Bear Market](https://hackernoon.com/how-shorting-can-help-survive-the-bear-market)
+![](https://cdn.hackernoon.com/images/01bBNYgbQZavo9ln0ylsHq8FzCn1-3hd3jj8.jpeg)
+How understanding how to short can help you make money trading crypto even during Bullruns where everyone else is fated to lose money instead of making it.
 
-### [308. A Response to Chamath Palihapitiya and His Annual Letter](https://hackernoon.com/a-response-to-chamath-palihapitiya-and-his-annual-letter)
-![](https://cdn.hackernoon.com/images/a-response-to-the-annual-letter-clehr233c000001s637fy89je.png)
-Christopher Bloomstran responds to Chamath Palihapitiya and his annual letter.
-
-### [309. 8 Types of Investors for Your Small Business](https://hackernoon.com/8-types-of-investors-for-your-small-business)
+### [308. 8 Types of Investors for Your Small Business](https://hackernoon.com/8-types-of-investors-for-your-small-business)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-go93hgh.jpeg)
 Wondering how to find investors for your startup? Finding the right investor is key to the success of your business.
 
-### [310. How Shorting Can Help Survive the Bear Market](https://hackernoon.com/how-shorting-can-help-survive-the-bear-market)
-![](https://cdn.hackernoon.com/images/01bBNYgbQZavo9ln0ylsHq8FzCn1-3hd3jj8.jpeg)
-How understanding how to short can help you make money trading crypto even during Bullruns where everyone else is fated to lose money instead of making it.
+### [309. Here's Why We Need Bitcoin [Part I]](https://hackernoon.com/heres-why-we-need-bitcoin-part-i-np2l3yzl)
+![](https://images.unsplash.com/photo-1526913299589-f35a3ddeb7ae?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+The objective of this series of posts is to show why Bitcoin is a better form of money than the ones we currently use. For that, however, we first need to think about some fundamental concepts without which considering Bitcoin in a serious way is impossible. 
+
+### [310. A Response to Chamath Palihapitiya and His Annual Letter](https://hackernoon.com/a-response-to-chamath-palihapitiya-and-his-annual-letter)
+![](https://cdn.hackernoon.com/images/a-response-to-the-annual-letter-clehr233c000001s637fy89je.png)
+Christopher Bloomstran responds to Chamath Palihapitiya and his annual letter.
 
 ### [311. Tax Sketches Raises $1m in Funding to Build the Future of Legal Tech](https://hackernoon.com/tax-sketches-raises-$1m-in-funding-to-build-the-future-of-legal-tech)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-et03nfb.jpeg)
 LegalTech-project Tax Sketches has attracted a round of $ 1 million from a private angel investing in fintech and legaltech projects.
 
-### [312. About Bitcoin: What Altcoins and Shitcoins Don't Seem To Get](https://hackernoon.com/about-bitcoin-what-altcoins-and-shitcoins-dont-seem-to-get-rs53323w)
-![](https://cdn.hackernoon.com/images/RFr7nN1LU5Y4GkTnrhg75Al09tA3-4mb5235u.jpeg)
-After 30 years of trial and error, this new, pristine asset class called Bitcoin has emerged, it’s here, staring at you in the face. It works.
-
-### [313. How Security Tokens Benefit Small Investors](https://hackernoon.com/how-security-tokens-benefit-small-investors)
+### [312. How Security Tokens Benefit Small Investors](https://hackernoon.com/how-security-tokens-benefit-small-investors)
 ![](https://cdn.hackernoon.com/images/HvpAvSh4fdRJmPl3ogYCgRsbXIz1-0l92atw.jpeg)
  
 
 To onboard more investors into the security token ecosystem there is a need to educate investors on some of its benefits
 
-### [314. How to Secure Your Financial Future as a Self Employed Entrepreneur](https://hackernoon.com/how-to-secure-your-financial-future-as-a-self-employed-entrepreneur-zgb3u2o)
-![](https://cdn.hackernoon.com/drafts/3bfq3wgz.png)
-If you're a self-employed entrepreneur, becoming financially stable should be a priority of yours. But it can be rough if you have no idea where to start. With a little bit of learning and skill, you can plot a course towards a safe financial future. 
+### [313. About Bitcoin: What Altcoins and Shitcoins Don't Seem To Get](https://hackernoon.com/about-bitcoin-what-altcoins-and-shitcoins-dont-seem-to-get-rs53323w)
+![](https://cdn.hackernoon.com/images/RFr7nN1LU5Y4GkTnrhg75Al09tA3-4mb5235u.jpeg)
+After 30 years of trial and error, this new, pristine asset class called Bitcoin has emerged, it’s here, staring at you in the face. It works.
 
-### [315. How Does Self-Management Makes You a Better Crypto Investor ?](https://hackernoon.com/how-does-self-management-makes-you-a-better-crypto-investor)
+### [314. How Does Self-Management Makes You a Better Crypto Investor ?](https://hackernoon.com/how-does-self-management-makes-you-a-better-crypto-investor)
 ![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-hte3kd3.jpeg)
 Master these Self-Management areas to become a better investor: Goals management | Time management | Energy management | Focus management | Emotional management
 
-### [316. Making the Case for Bitcoin Investment as a Means to Protect Your Wealth](https://hackernoon.com/making-the-case-for-bitcoin-investment-as-a-means-to-protect-your-wealth-8d8f31f5)
-![](https://cdn.hackernoon.com/images/jEgchilntNVRcBZq30nma1vFMrW2-ff28311c.jpeg)
-Why you should invest in Bitcoin to protect your wealth?
-
-### [317. How to Protect Your Crypto Wallet from Hacks and Scams](https://hackernoon.com/shadowy-super-hackers-want-your-stacks-heres-what-to-watch-out-for)
-![](https://cdn.hackernoon.com/images/KGTFaWujV3WROYDbGn02182ZFGF3-j9439rb.jpeg)
-Learn how to protect your cryptocurrency wallet from scams and theft.
-
-### [318. My Inglorious Path to Crypto and the Mistakes I Made Along the Way](https://hackernoon.com/my-inglorious-path-to-crypto-and-the-mistakes-i-made-along-the-way-fa2y31yi)
-![](https://cdn.hackernoon.com/images/qK0pSZUb4ON05C5qQ4LKIpYjlLf2-qr3t28j9.jpeg)
-Unfortunately, I don’t recall a precise moment in time, be it day or month, when I first heard about Bitcoin. It’s only the year that I am certain about: 2013.
-
-### [319. AI Can Help Crypto Avoid Severe Liquidity Crises As ‘Minsky Moment’ Threat Grows](https://hackernoon.com/ai-can-help-crypto-avoid-severe-liquidity-crises-as-minsky-moment-threat-grows)
+### [315. AI Can Help Crypto Avoid Severe Liquidity Crises As ‘Minsky Moment’ Threat Grows](https://hackernoon.com/ai-can-help-crypto-avoid-severe-liquidity-crises-as-minsky-moment-threat-grows)
 ![](https://cdn.hackernoon.com/images/gWnbYKUNhSXS2LO6AAsX2TynTAr1-2u93rgw.jpeg)
 As crypto enters a liquidity crisis, AI could provide the tools to tackle crypto's black swans.
 
-### [320. Behavioral vs. Mechanical: Lenses to Evaluate Cryptocurrencies](https://hackernoon.com/behavior-vs-mechanical-how-to-evaluate-cryptocurrencies-0f1th3487)
-![](https://cdn.hackernoon.com/drafts/6n2a734la.png)
-It's easy to fall into the trap of seeing the crypto space within a mechanical framework. After all, Bitcoin and blockchain is just an amalgam of code, maintained on a decentralized network, and supported through a literal army of machines permeating across the globe. The architecture and design of crypto and blockchain matter a lot. However, it is easy to get lost in the engineering of this nascent technology and lose out on the bigger picture of actual utility and function. It doesn't matter if this peer to peer cash system is seen as a currency by some or as a store of value by others, one thing is evident: people buy, sell, and use Bitcoin for different reasons.
+### [316. How to Secure Your Financial Future as a Self Employed Entrepreneur](https://hackernoon.com/how-to-secure-your-financial-future-as-a-self-employed-entrepreneur-zgb3u2o)
+![](https://cdn.hackernoon.com/drafts/3bfq3wgz.png)
+If you're a self-employed entrepreneur, becoming financially stable should be a priority of yours. But it can be rough if you have no idea where to start. With a little bit of learning and skill, you can plot a course towards a safe financial future. 
 
-### [321. Is Renting Better Than Owning A House? (I Sold My House to Buy Crypto)](https://hackernoon.com/is-renting-is-better-than-owning-a-house-i-sold-my-house-to-buy-crypto-cs2e37f0)
-![](https://cdn.hackernoon.com/images/ZW20EUTPJfhox7MUgWdXzwwwm2g1-5s5w35zh.jpeg)
-Owning a house is one of the key objectives for most young people but is it really the best way of using your money?
+### [317. My Inglorious Path to Crypto and the Mistakes I Made Along the Way](https://hackernoon.com/my-inglorious-path-to-crypto-and-the-mistakes-i-made-along-the-way-fa2y31yi)
+![](https://cdn.hackernoon.com/images/qK0pSZUb4ON05C5qQ4LKIpYjlLf2-qr3t28j9.jpeg)
+Unfortunately, I don’t recall a precise moment in time, be it day or month, when I first heard about Bitcoin. It’s only the year that I am certain about: 2013.
 
-### [322. Tech Giants Nvidia and Microsoft Face Fresh Challenges as Investment Firms Think Twice About Holding](https://hackernoon.com/tech-giants-nvidia-and-microsoft-face-fresh-challenges-as-investment-firms-think-twice-about-holding)
-![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-3q03ab7.jpeg)
-Could we see the likes of Nvidia and Microsoft struggle to win over institutional investors in the new year? 
+### [318. Making the Case for Bitcoin Investment as a Means to Protect Your Wealth](https://hackernoon.com/making-the-case-for-bitcoin-investment-as-a-means-to-protect-your-wealth-8d8f31f5)
+![](https://cdn.hackernoon.com/images/jEgchilntNVRcBZq30nma1vFMrW2-ff28311c.jpeg)
+Why you should invest in Bitcoin to protect your wealth?
 
-### [323. I Founded a Successful Fintech Company at 16 - with Noonies Nominee Arian Adeli](https://hackernoon.com/i-founded-a-successful-fintech-company-at-16-with-noonies-nominee-arian-adeli)
-![](https://cdn.hackernoon.com/images/806D5cByiXTuXu9YldkNPRwtIMg2-af03bl8.jpeg)
-At 16 years-old, I founded my first company, Rivo Trading, a FinTech startup which has been nominated for the Best Trading Technology in 2020 and 2021.
+### [319. How to Protect Your Crypto Wallet from Hacks and Scams](https://hackernoon.com/shadowy-super-hackers-want-your-stacks-heres-what-to-watch-out-for)
+![](https://cdn.hackernoon.com/images/KGTFaWujV3WROYDbGn02182ZFGF3-j9439rb.jpeg)
+Learn how to protect your cryptocurrency wallet from scams and theft.
 
-### [324. Manage Your Investment Portfolio Like a Pro: A How-To Guide](https://hackernoon.com/manage-your-investment-portfolio-like-a-pro-a-how-to-guide-zv1e34g8)
-![](https://cdn.hackernoon.com/images/BamvTIAhDQTWIhpCo8cqPm438Yw2-zaa3xhs.jpeg)
-You don't have to be a financial expert to manage your investments yourself.
-
-### [325. What We Can All Learn From the FTX Collapse](https://hackernoon.com/what-we-can-all-learn-from-the-ftx-collapse)
+### [320. What We Can All Learn From the FTX Collapse](https://hackernoon.com/what-we-can-all-learn-from-the-ftx-collapse)
 ![](https://cdn.hackernoon.com/images/rucLDVUL7ahWimn1vc30lsveGZ92-bka3uck.jpeg)
 Sometimes we all need to remember the 'old-school' rules apply to crypto, just as they have to stocks and investing for centuries
 
-### [326. 5 Real Benefits of Investing in Digital Marketing](https://hackernoon.com/5-real-benefits-of-investing-in-digital-marketing-pl383uza)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVYg3ZVSngvZQwor4sfdKfmIM1ej2-zh323yft.jpeg?alt=media&token=d72d5576-6d85-4429-b1d7-65c2a0fe7b64)
-What is a digital marketing and why it is an essential option in the company's formation? In the modern world, adults spend hours a day online. The so-called Internet population is continuously growing year by year. More and more people prefer to sell, buy and lease things online, as well as order services, and search for relevant information. 
+### [321. Behavioral vs. Mechanical: Lenses to Evaluate Cryptocurrencies](https://hackernoon.com/behavior-vs-mechanical-how-to-evaluate-cryptocurrencies-0f1th3487)
+![](https://cdn.hackernoon.com/drafts/6n2a734la.png)
+It's easy to fall into the trap of seeing the crypto space within a mechanical framework. After all, Bitcoin and blockchain is just an amalgam of code, maintained on a decentralized network, and supported through a literal army of machines permeating across the globe. The architecture and design of crypto and blockchain matter a lot. However, it is easy to get lost in the engineering of this nascent technology and lose out on the bigger picture of actual utility and function. It doesn't matter if this peer to peer cash system is seen as a currency by some or as a store of value by others, one thing is evident: people buy, sell, and use Bitcoin for different reasons.
 
-### [327. Tesla Joins the Cryptocurrency Game: What does this Mean for the Market?](https://hackernoon.com/tesla-joins-the-cryptocurrency-game-what-does-this-mean-for-the-market-3h2w33r9)
-![](https://cdn.hackernoon.com/images/wbhzEWY3xgRYjvrc6Wp1W3mIinb2-fr2e32gh.jpeg)
-On February 8, the cryptocurrency market was rocked by the news of a $1.5 billion investment in BTC from Tesla. Bitcoin responded with an immediate rise to $48,000 and an increase in capitalization to almost $900 billion.
+### [322. Is Renting Better Than Owning A House? (I Sold My House to Buy Crypto)](https://hackernoon.com/is-renting-is-better-than-owning-a-house-i-sold-my-house-to-buy-crypto-cs2e37f0)
+![](https://cdn.hackernoon.com/images/ZW20EUTPJfhox7MUgWdXzwwwm2g1-5s5w35zh.jpeg)
+Owning a house is one of the key objectives for most young people but is it really the best way of using your money?
 
-### [328. Millionaire Crypto Influencer Found Chopped in a Suitcase😨](https://hackernoon.com/millionaire-crypto-influencer-found-chopped-in-a-suitcase)
+### [323. Millionaire Crypto Influencer Found Chopped in a Suitcase😨](https://hackernoon.com/millionaire-crypto-influencer-found-chopped-in-a-suitcase)
 ![](https://cdn.hackernoon.com/images/crypto-news-getjsu23fap7x550ygh69xxj.png)
 .. and BlackRock reveals its perfect portfolio standard.
+
+### [324. The Art & Science of Crypto Market Making: Inside Kairon Labs](https://hackernoon.com/the-art-and-science-of-crypto-market-making-inside-kairon-labs)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-0l03l7u.png)
+Discover how market makers power crypto markets with institutional liquidity. 
+
+### [325. Tech Giants Nvidia and Microsoft Face Fresh Challenges as Investment Firms Think Twice About Holding](https://hackernoon.com/tech-giants-nvidia-and-microsoft-face-fresh-challenges-as-investment-firms-think-twice-about-holding)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-3q03ab7.jpeg)
+Could we see the likes of Nvidia and Microsoft struggle to win over institutional investors in the new year? 
+
+### [326. I Founded a Successful Fintech Company at 16 - with Noonies Nominee Arian Adeli](https://hackernoon.com/i-founded-a-successful-fintech-company-at-16-with-noonies-nominee-arian-adeli)
+![](https://cdn.hackernoon.com/images/806D5cByiXTuXu9YldkNPRwtIMg2-af03bl8.jpeg)
+At 16 years-old, I founded my first company, Rivo Trading, a FinTech startup which has been nominated for the Best Trading Technology in 2020 and 2021.
+
+### [327. Manage Your Investment Portfolio Like a Pro: A How-To Guide](https://hackernoon.com/manage-your-investment-portfolio-like-a-pro-a-how-to-guide-zv1e34g8)
+![](https://cdn.hackernoon.com/images/BamvTIAhDQTWIhpCo8cqPm438Yw2-zaa3xhs.jpeg)
+You don't have to be a financial expert to manage your investments yourself.
+
+### [328. 5 Real Benefits of Investing in Digital Marketing](https://hackernoon.com/5-real-benefits-of-investing-in-digital-marketing-pl383uza)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FVYg3ZVSngvZQwor4sfdKfmIM1ej2-zh323yft.jpeg?alt=media&token=d72d5576-6d85-4429-b1d7-65c2a0fe7b64)
+What is a digital marketing and why it is an essential option in the company's formation? In the modern world, adults spend hours a day online. The so-called Internet population is continuously growing year by year. More and more people prefer to sell, buy and lease things online, as well as order services, and search for relevant information. 
 
 ### [329. Blackrock & Billionaires Buy Bitcoin Whilst There is Blood in the Streets](https://hackernoon.com/blackrock-and-billionaires-buy-bitcoin-whilst-there-is-blood-in-the-streets)
 ![](https://cdn.hackernoon.com/images/rucLDVUL7ahWimn1vc30lsveGZ92-9bi31p0.jpeg)
 The SEC tries to squash crypto, but Blackrock, Fidelity, HSBC and many other institutions are piling into Bitcoin.
 
-### [330. Bitcoin Bear Market Diaries Volume 21 Stephan Livera](https://hackernoon.com/bitcoin-bear-market-diaries-volume-21-stephan-livera-ef4bbc75bd9)
-![](https://cdn.hackernoon.com/hn-images/1*44V3zZzetLuJB-0nm9gPEw.jpeg)
-The Bitcoin Bear Market Diaries are a series of interviews featuring various important voices and perspectives in the Bitcoin ecosystem. Each interviewee was carefully selected and asked the same group of questions. The main goal was to provide the world with a collection of commentary and opinions on the state of the current Bitcoin and crypto market. Some of the names you will recognize while others don’t wish for the limelight but have great insight and experience we all can learn from.
+### [330. Tesla Joins the Cryptocurrency Game: What does this Mean for the Market?](https://hackernoon.com/tesla-joins-the-cryptocurrency-game-what-does-this-mean-for-the-market-3h2w33r9)
+![](https://cdn.hackernoon.com/images/wbhzEWY3xgRYjvrc6Wp1W3mIinb2-fr2e32gh.jpeg)
+On February 8, the cryptocurrency market was rocked by the news of a $1.5 billion investment in BTC from Tesla. Bitcoin responded with an immediate rise to $48,000 and an increase in capitalization to almost $900 billion.
 
 ### [331. Why the Return of Optimism to Wall Street Could be Slower Than Expected](https://hackernoon.com/why-the-return-of-optimism-to-wall-street-could-be-slower-than-expected)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-3z0349r.jpeg)
 While the stock markets in America have been volatile, it is worth noting that Wall Street has bounced quite significantly from the worst of the pressure.
 
-### [332. Everything from Crypto to Blockchain and NFTs with Noonies Nominee Crypto Badger](https://hackernoon.com/everything-from-crypto-to-blockchain-and-nfts-with-noonies-nominee-crypto-badger)
-![](https://cdn.hackernoon.com/images/ZW20EUTPJfhox7MUgWdXzwwwm2g1-ex0380z.jpeg)
-I’m Andy, also known as Crypto Badger. I create content about various aspects of crypto and NFTs - technical analysis, market commentaries, tutorials, etc.
+### [332. Bitcoin Bear Market Diaries Volume 21 Stephan Livera](https://hackernoon.com/bitcoin-bear-market-diaries-volume-21-stephan-livera-ef4bbc75bd9)
+![](https://cdn.hackernoon.com/hn-images/1*44V3zZzetLuJB-0nm9gPEw.jpeg)
+The Bitcoin Bear Market Diaries are a series of interviews featuring various important voices and perspectives in the Bitcoin ecosystem. Each interviewee was carefully selected and asked the same group of questions. The main goal was to provide the world with a collection of commentary and opinions on the state of the current Bitcoin and crypto market. Some of the names you will recognize while others don’t wish for the limelight but have great insight and experience we all can learn from.
 
-### [333. The Basics of Web Trading: What You Need to Know](https://hackernoon.com/the-basics-of-web-trading-what-you-need-to-know)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-jy833wb.jpeg)
-AvaTrade offers a user-friendly web trading platform with no installation required, ensuring transparent and efficient trading directly from your browser.
-
-### [334. Are Asian Economies in a Position to Benefit From The Age of Trump’s Tariffs?](https://hackernoon.com/are-asian-economies-in-a-position-to-benefit-from-the-age-of-trumps-tariffs)
-![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-4703alx.jpeg)
-President Trump’s aggressive stance on tariffs, which has sparked a trade war with China, may pave the way for more unification in Southeast Asia.
-
-### [335. Crypto VC Landscape in 2023: Adapting Strategies Amidst the Winter](https://hackernoon.com/crypto-vc-landscape-in-2023-adapting-strategies-amidst-the-winter)
+### [333. Crypto VC Landscape in 2023: Adapting Strategies Amidst the Winter](https://hackernoon.com/crypto-vc-landscape-in-2023-adapting-strategies-amidst-the-winter)
 ![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-3q93kps.jpeg)
 The Crypto VC market is still facing headwinds as investors are cautious, with Q2 2023 attracting $2.32 billion in funding, slightly lower than Q1. 
 
-### [336. Busting Financial Myths: "The Ignorant Retail Investor"](https://hackernoon.com/busting-financial-myths-the-ignorant-retail-investor-sfn3yew)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnFGMPDaUJhN2rZiFEyVXNSMVezD3-3va24tai.webp?alt=media&token=414c4d82-5f90-4e02-90d9-7f980a9c13bc)
-If you Google "ignorant retail traders," you'll find mentions on the Financial Times, Seeking Alpha, Wired, Berkshire Money Management, The Street, and even The South China Morning Post.
+### [334. Everything from Crypto to Blockchain and NFTs with Noonies Nominee Crypto Badger](https://hackernoon.com/everything-from-crypto-to-blockchain-and-nfts-with-noonies-nominee-crypto-badger)
+![](https://cdn.hackernoon.com/images/ZW20EUTPJfhox7MUgWdXzwwwm2g1-ex0380z.jpeg)
+I’m Andy, also known as Crypto Badger. I create content about various aspects of crypto and NFTs - technical analysis, market commentaries, tutorials, etc.
 
-### [337. When Bitcoin Runs, Altcoins Always Follow](https://hackernoon.com/when-bitcoin-runs-altcoins-always-follow)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-2w13bwi.jpeg)
-Altseason always comes after bitcoin goes on a run - don't let anybody tell you otherwise 
+### [335. Are Asian Economies in a Position to Benefit From The Age of Trump’s Tariffs?](https://hackernoon.com/are-asian-economies-in-a-position-to-benefit-from-the-age-of-trumps-tariffs)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-4703alx.jpeg)
+President Trump’s aggressive stance on tariffs, which has sparked a trade war with China, may pave the way for more unification in Southeast Asia.
 
-### [338. What An Investor Needs to Feel to Say Yes to Your Startup](https://hackernoon.com/what-an-investor-needs-to-feel-to-say-yes-to-your-startup-fan03w2f)
-![](https://cdn.hackernoon.com/drafts/9q1573yj3.png)
-A Previous VC Reveals What Matters More Than Your Pitch Deck.
+### [336. The Basics of Web Trading: What You Need to Know](https://hackernoon.com/the-basics-of-web-trading-what-you-need-to-know)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-jy833wb.jpeg)
+AvaTrade offers a user-friendly web trading platform with no installation required, ensuring transparent and efficient trading directly from your browser.
 
-### [339. What Should Investors Do Now That The Price of Bitcoin Has Dipped](https://hackernoon.com/what-should-investors-do-now-that-the-price-of-bitcoin-has-dipped)
-![](https://cdn.hackernoon.com/images/q27cDSxmZpZjEf6z4gZc4ZBrLvw1-gv039uf.jpeg)
-Volatility is built into the way crypto markets operate, which means your crypto position maybe great today, but look terrible tomorrow. What about bitcoin?
-
-### [340. Crowdlending is Redefining Growth in Emerging Markets ](https://hackernoon.com/crowdlending-is-redefining-growth-in-emerging-markets-1o2432hr)
-![](https://cdn.hackernoon.com/images/sa8032vn.jpg)
-An increasingly popular way to connect entrepreneurs and secure investment, crowdlending is proving to be a key driver for innovative growth stage businesses. It connects those businesses that have great potential and disruptive ideas with major investors, empowering emerging markets around the world, especially in developing countries.
-
-### [341. Bitcoin Is Crashing, But Is This Drop Irrational?](https://hackernoon.com/bitcoin-is-crashing-but-is-this-drop-irrational-vw323ydw)
-![](https://images.unsplash.com/photo-1550565227-a6144af19c78?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Bitcoin has had an interesting history—and one that gives it a reputation for volatility. In many ways, this volatility is understandable; even if the cryptocurrency has a bright future ahead of it, it’s still a relatively new type of asset, and investors aren’t sure how to fairly price it compared to the dollar. But in other ways, the volatility seems irrational, fluctuating wildly in response to variables that may or may not matter to the future of the currency.
-
-### [342. How to Fund the Metaverse](https://hackernoon.com/how-to-fund-the-metaverse)
+### [337. How to Fund the Metaverse](https://hackernoon.com/how-to-fund-the-metaverse)
 ![](https://cdn.hackernoon.com/images/wyLN3yhwtVaMAIlYJR1nlsHsErN2-wra3mri.jpeg)
 Jonathan Pullinger is the token marketing manager at Outlier Ventures with vast experience in NFTs and blockchain-related technologies. We interviewed gin.
 
-### [343. Cryptal.global: An Investment Platform with Real Assets & Secured Profits](https://hackernoon.com/welcome-to-the-world-of-cryptalglobal)
-![](https://cdn.hackernoon.com/images/slT3HCgc9CZ4HGESXdHgPgAICaj1-ia93py2.jpeg)
-Cryptal.global is a platform for anybody looking to securely invest in lucrative international markets, ensuring they will get a return on their investment. 
-
-### [344. Saving for the Future - Deception in the Financial Status Quo](https://hackernoon.com/saving-for-the-future-deception-in-the-financial-status-quo)
-![](https://cdn.hackernoon.com/images/qYpg1wCoJ2aLK94FtDwa3V5WoBV2-kl93470.jpeg)
-Deception in the age of fintech and investment savings.
-
-### [345. Is Crypto Lending Worth it?](https://hackernoon.com/is-crypto-lending-worth-it-tb4r3oxv)
-![](https://cdn.hackernoon.com/images/Kyy5p4Pob6VF0xa8TwiHQYZZ1QL2-y36f35m6.jpeg)
-Cryptocurrency is quickly rising as a popular form of digital currency. It wouldn’t be surprising if, in the future, most loans are done via crypto.
-
-### [346. DeFi: Another Instance of Too Little, Too Late?](https://hackernoon.com/defi-another-instance-of-too-little-too-late-24353wds)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0QUQpD0VCsgAaYPa5e24rYsNMx62-dv593efr.jpeg?alt=media&token=3e52b379-8f72-44a3-b164-305c445babbb)
-Dozens of new DeFi coins appear every day. 90% of them may not even exist in a week. Most of the created tokens do not have enough liquidity and are designed to collect money quickly and disappear for good. 
-
-### [347. The Art & Science of Crypto Market Making: Inside Kairon Labs](https://hackernoon.com/the-art-and-science-of-crypto-market-making-inside-kairon-labs)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-0l03l7u.png)
-Discover how market makers power crypto markets with institutional liquidity. 
-
-### [348. Can AI Investing Solutions Outperform the Stock Markets? Ours Did.](https://hackernoon.com/can-ai-investing-solutions-outperform-the-stock-markets-ours-did-kpg3x5r)
-![](https://cdn.hackernoon.com/drafts/1wy53yao.png)
-Around the world stock markets have been recording historic losses, with Market Economists now warning that the hit to the global economy is likely to be worse than the financial crisis of 2008 or the Great Depression. 
-
-### [349. How I Began Investing in Domains: My Journey](https://hackernoon.com/how-i-began-investing-in-domains-my-journey)
+### [338. How I Began Investing in Domains: My Journey](https://hackernoon.com/how-i-began-investing-in-domains-my-journey)
 ![](https://cdn.hackernoon.com/images/dm2bCgaeP2Qw2TXrucEmkOU706F2-5q835tf.png)
 How I started investing in domains from scratch to my first portfolio.
 
-### [350. What is Yield Farming and Liquidity Mining? All You Need To Know](https://hackernoon.com/what-is-yield-farming-and-liquidity-mining-all-you-need-to-know)
-![](https://cdn.hackernoon.com/images/J2FZfRk7nUWjEQW1VoUDL2GUCTp1-ofg3fta.jpeg)
-The complete guide to yield farming in DeFi: how it works, how much is it possible to earn on it, and the risks involved in engaging in this form of investment.
+### [339. Busting Financial Myths: "The Ignorant Retail Investor"](https://hackernoon.com/busting-financial-myths-the-ignorant-retail-investor-sfn3yew)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnFGMPDaUJhN2rZiFEyVXNSMVezD3-3va24tai.webp?alt=media&token=414c4d82-5f90-4e02-90d9-7f980a9c13bc)
+If you Google "ignorant retail traders," you'll find mentions on the Financial Times, Seeking Alpha, Wired, Berkshire Money Management, The Street, and even The South China Morning Post.
 
-### [351. Crypto Banks’ Audience Research 2023: Investment Goals, Involvement, and Fears](https://hackernoon.com/crypto-banks-audience-research-2023-investment-goals-involvement-and-fears)
+### [340. When Bitcoin Runs, Altcoins Always Follow](https://hackernoon.com/when-bitcoin-runs-altcoins-always-follow)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-2w13bwi.jpeg)
+Altseason always comes after bitcoin goes on a run - don't let anybody tell you otherwise 
+
+### [341. What An Investor Needs to Feel to Say Yes to Your Startup](https://hackernoon.com/what-an-investor-needs-to-feel-to-say-yes-to-your-startup-fan03w2f)
+![](https://cdn.hackernoon.com/drafts/9q1573yj3.png)
+A Previous VC Reveals What Matters More Than Your Pitch Deck.
+
+### [342. What Should Investors Do Now That The Price of Bitcoin Has Dipped](https://hackernoon.com/what-should-investors-do-now-that-the-price-of-bitcoin-has-dipped)
+![](https://cdn.hackernoon.com/images/q27cDSxmZpZjEf6z4gZc4ZBrLvw1-gv039uf.jpeg)
+Volatility is built into the way crypto markets operate, which means your crypto position maybe great today, but look terrible tomorrow. What about bitcoin?
+
+### [343. Crowdlending is Redefining Growth in Emerging Markets ](https://hackernoon.com/crowdlending-is-redefining-growth-in-emerging-markets-1o2432hr)
+![](https://cdn.hackernoon.com/images/sa8032vn.jpg)
+An increasingly popular way to connect entrepreneurs and secure investment, crowdlending is proving to be a key driver for innovative growth stage businesses. It connects those businesses that have great potential and disruptive ideas with major investors, empowering emerging markets around the world, especially in developing countries.
+
+### [344. Bitcoin Is Crashing, But Is This Drop Irrational?](https://hackernoon.com/bitcoin-is-crashing-but-is-this-drop-irrational-vw323ydw)
+![](https://images.unsplash.com/photo-1550565227-a6144af19c78?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Bitcoin has had an interesting history—and one that gives it a reputation for volatility. In many ways, this volatility is understandable; even if the cryptocurrency has a bright future ahead of it, it’s still a relatively new type of asset, and investors aren’t sure how to fairly price it compared to the dollar. But in other ways, the volatility seems irrational, fluctuating wildly in response to variables that may or may not matter to the future of the currency.
+
+### [345. Smart Money Turns to the Plumbing of Reality](https://hackernoon.com/smart-money-turns-to-the-plumbing-of-reality)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-350241m.webp)
+
+
+### [346. Cryptal.global: An Investment Platform with Real Assets & Secured Profits](https://hackernoon.com/welcome-to-the-world-of-cryptalglobal)
+![](https://cdn.hackernoon.com/images/slT3HCgc9CZ4HGESXdHgPgAICaj1-ia93py2.jpeg)
+Cryptal.global is a platform for anybody looking to securely invest in lucrative international markets, ensuring they will get a return on their investment. 
+
+### [347. Saving for the Future - Deception in the Financial Status Quo](https://hackernoon.com/saving-for-the-future-deception-in-the-financial-status-quo)
+![](https://cdn.hackernoon.com/images/qYpg1wCoJ2aLK94FtDwa3V5WoBV2-kl93470.jpeg)
+Deception in the age of fintech and investment savings.
+
+### [348. Is Crypto Lending Worth it?](https://hackernoon.com/is-crypto-lending-worth-it-tb4r3oxv)
+![](https://cdn.hackernoon.com/images/Kyy5p4Pob6VF0xa8TwiHQYZZ1QL2-y36f35m6.jpeg)
+Cryptocurrency is quickly rising as a popular form of digital currency. It wouldn’t be surprising if, in the future, most loans are done via crypto.
+
+### [349. DeFi: Another Instance of Too Little, Too Late?](https://hackernoon.com/defi-another-instance-of-too-little-too-late-24353wds)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F0QUQpD0VCsgAaYPa5e24rYsNMx62-dv593efr.jpeg?alt=media&token=3e52b379-8f72-44a3-b164-305c445babbb)
+Dozens of new DeFi coins appear every day. 90% of them may not even exist in a week. Most of the created tokens do not have enough liquidity and are designed to collect money quickly and disappear for good. 
+
+### [350. Investment DAOs: What they are and How they Work ](https://hackernoon.com/investment-daos-what-they-are-and-how-they-work)
+![](https://cdn.hackernoon.com/images/wkYX0jprsnXB5w5lc5pLxILwyID3-hva3t99.jpeg)
+An investment DAO is the one that is involved in raising and investing capital into digital assets like cryptocurrencies, NFTs, virtual real estate, etc.
+
+### [351. Can AI Investing Solutions Outperform the Stock Markets? Ours Did.](https://hackernoon.com/can-ai-investing-solutions-outperform-the-stock-markets-ours-did-kpg3x5r)
+![](https://cdn.hackernoon.com/drafts/1wy53yao.png)
+Around the world stock markets have been recording historic losses, with Market Economists now warning that the hit to the global economy is likely to be worse than the financial crisis of 2008 or the Great Depression. 
+
+### [352. Crypto Banks’ Audience Research 2023: Investment Goals, Involvement, and Fears](https://hackernoon.com/crypto-banks-audience-research-2023-investment-goals-involvement-and-fears)
 ![](https://cdn.hackernoon.com/images/ZTTHMznNpOU8E23w6ngIBTrJYyG2-6ea3rm4.jpeg)
 A large-scale study of needs, wishes, and fears of the crypto audience.
 
-### [352. Will AR Developments Turn 2021 Into The Year of Tech Stock Investment?](https://hackernoon.com/will-ar-developments-turn-2021-into-the-year-of-tech-stock-investment-as3b331r)
+### [353. What is Yield Farming and Liquidity Mining? All You Need To Know](https://hackernoon.com/what-is-yield-farming-and-liquidity-mining-all-you-need-to-know)
+![](https://cdn.hackernoon.com/images/J2FZfRk7nUWjEQW1VoUDL2GUCTp1-ofg3fta.jpeg)
+The complete guide to yield farming in DeFi: how it works, how much is it possible to earn on it, and the risks involved in engaging in this form of investment.
+
+### [354. Will AR Developments Turn 2021 Into The Year of Tech Stock Investment?](https://hackernoon.com/will-ar-developments-turn-2021-into-the-year-of-tech-stock-investment-as3b331r)
 ![](https://cdn.hackernoon.com/images/aBxCRG4PdBeC4Gw5xSpatovTWXC2-j22d339m.jpeg)
 As major players in the world of tech look to acquire companies to develop their own entries onto the AR market, can we see a boom in tech stock investment?
 
-### [353. The Coronavirus Has Forced Us into a Tech Reliant World](https://hackernoon.com/the-coronavirus-has-forced-us-into-a-tech-reliant-world-nt5m322l)
+### [355. The Coronavirus Has Forced Us into a Tech Reliant World](https://hackernoon.com/the-coronavirus-has-forced-us-into-a-tech-reliant-world-nt5m322l)
 ![](https://cdn.hackernoon.com/drafts/t11h3y2q.png)
 Right now, many Americans are facing difficult times, with more than 33 million people filing for unemployment over the last eight weeks, the US economy is feeling the pressure.
 
-### [354. Buyer Beware: Avoid the Scams, Honeypots, and Ponzis in Crypto Investing](https://hackernoon.com/buyer-beware-avoid-the-scams-honeypots-and-ponzis-in-crypto-investing-6qnp306k)
+### [356. Buyer Beware: Avoid the Scams, Honeypots, and Ponzis in Crypto Investing](https://hackernoon.com/buyer-beware-avoid-the-scams-honeypots-and-ponzis-in-crypto-investing-6qnp306k)
 ![](https://cdn.hackernoon.com/drafts/dn1a3020.png)
 META: Up to 80% of crypto startups end up being scams. Seeking easy returns and trusting promises is a recipe for disaster, but here’s how to become a savvy crypto investor. 
 
-### [355. Startup Acquisitions: How to Navigate an Acquisition Process as a Seller](https://hackernoon.com/startup-acquisitions-how-to-navigate-an-acquisition-process-as-a-seller)
-![](https://cdn.hackernoon.com/images/pymMH52jTsYYdzGWrBIJQ141UaF3-o4035s9.jpeg)
-Understanding goals of the M&A process, presenting your business’ story to prospective buyers, and hiring banking and legal advisors for the process.
-
-### [356. Hedge Funds Need to Hire Science Fiction Writers Because Truth Is Stranger Than Fiction](https://hackernoon.com/hedge-funds-need-to-hire-science-fiction-writers-because-truth-is-stranger-than-fiction-7w2q33qn)
-![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-te4q28tb.jpeg)
-Science fiction writers of the 20th century invented derivatives. We may have just crossed beyond their imagining into uncharted territory .
-
-### [357. Bitcoin Bear Market Diaries Volume 10 Matt B](https://hackernoon.com/bitcoin-bear-market-diaries-volume-10-matt-b-be87437922a5)
-![](https://cdn.hackernoon.com/hn-images/1*5OaxgzQ5HreAoQmo9epvAA.jpeg)
-The Bitcoin Bear Market Diaries are a series of interviews featuring various important voices and perspectives in the Bitcoin ecosystem. Each interviewee was carefully selected and asked the same group of questions. The main goal was to provide the world with a collection of commentary and opinions on the state of the current Bitcoin and crypto market. Some of the names you will recognize while others don’t wish for the limelight but have great insight and experience we all can learn from.
-
-### [358. The Crypto Market is Nervous: Options for Investors to Protect their Capital](https://hackernoon.com/the-crypto-market-is-nervous-options-for-investors-to-protect-their-capital)
-![](https://cdn.hackernoon.com/images/7dAJPjUezGVXhrbnaRKo77weaem1-au9340w.jpeg)
-The crypto market has always been considered a decentralised and independent alternative when compared to traditional financial structures. However, recent events have shown that even digital assets are not always immune to geopolitical changes. A number of crypto giants have already chosen to support newly announced sanctions against Russian users, and there is no way of telling what will happen next. Let's examine the main ways investors can protect their capital in this nervous market. 
-
-### [359. 178 Stories To Learn About Investment](https://hackernoon.com/178-stories-to-learn-about-investment)
+### [357. 178 Stories To Learn About Investment](https://hackernoon.com/178-stories-to-learn-about-investment)
 ![](https://cdn.hackernoon.com/images/github/investment-480.png)
 Learn everything you need to know about Investment via these 178 free HackerNoon stories.
 
-### [360. How to Invest Money Wisely in 2022. The 5 Rules of Investing](https://hackernoon.com/5-simple-rules-on-investing-wisely-vt3d3ulj)
+### [358. Bitcoin Bear Market Diaries Volume 10 Matt B](https://hackernoon.com/bitcoin-bear-market-diaries-volume-10-matt-b-be87437922a5)
+![](https://cdn.hackernoon.com/hn-images/1*5OaxgzQ5HreAoQmo9epvAA.jpeg)
+The Bitcoin Bear Market Diaries are a series of interviews featuring various important voices and perspectives in the Bitcoin ecosystem. Each interviewee was carefully selected and asked the same group of questions. The main goal was to provide the world with a collection of commentary and opinions on the state of the current Bitcoin and crypto market. Some of the names you will recognize while others don’t wish for the limelight but have great insight and experience we all can learn from.
+
+### [359. Startup Acquisitions: How to Navigate an Acquisition Process as a Seller](https://hackernoon.com/startup-acquisitions-how-to-navigate-an-acquisition-process-as-a-seller)
+![](https://cdn.hackernoon.com/images/pymMH52jTsYYdzGWrBIJQ141UaF3-o4035s9.jpeg)
+Understanding goals of the M&A process, presenting your business’ story to prospective buyers, and hiring banking and legal advisors for the process.
+
+### [360. Hedge Funds Need to Hire Science Fiction Writers Because Truth Is Stranger Than Fiction](https://hackernoon.com/hedge-funds-need-to-hire-science-fiction-writers-because-truth-is-stranger-than-fiction-7w2q33qn)
+![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-te4q28tb.jpeg)
+Science fiction writers of the 20th century invented derivatives. We may have just crossed beyond their imagining into uncharted territory .
+
+### [361. The Crypto Market is Nervous: Options for Investors to Protect their Capital](https://hackernoon.com/the-crypto-market-is-nervous-options-for-investors-to-protect-their-capital)
+![](https://cdn.hackernoon.com/images/7dAJPjUezGVXhrbnaRKo77weaem1-au9340w.jpeg)
+The crypto market has always been considered a decentralised and independent alternative when compared to traditional financial structures. However, recent events have shown that even digital assets are not always immune to geopolitical changes. A number of crypto giants have already chosen to support newly announced sanctions against Russian users, and there is no way of telling what will happen next. Let's examine the main ways investors can protect their capital in this nervous market. 
+
+### [362. How to Invest Money Wisely in 2022. The 5 Rules of Investing](https://hackernoon.com/5-simple-rules-on-investing-wisely-vt3d3ulj)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FcZvjkyTWQzZtoWcnFc128VzhdzG3-edbt3t5d.jpeg?alt=media&token=59417453-239d-46cb-8a5d-04bcc620812a)
 This guide will teach you how to invest your money wisely in 2022. Follow these 5 simple rules of investing, and you’ll be safe.
 
-### [361. Worth Beyond Value: 4 Tips for Achieving Clarity and Curiosity in Crypto](https://hackernoon.com/worth-beyond-value-4-tips-for-achieving-clarity-and-curiosity-in-crypto)
+### [363. Worth Beyond Value: 4 Tips for Achieving Clarity and Curiosity in Crypto](https://hackernoon.com/worth-beyond-value-4-tips-for-achieving-clarity-and-curiosity-in-crypto)
 ![](https://cdn.hackernoon.com/images/worth-beyond-value-4-tips-for-achieving-clarity-and-curiosity-in-crypto-clhud2wye000101s62ris2523.png)
 When I first embarked on my crypto journey, I felt like a traveler with half a map. 
 
-### [362. Your Guide To the Best Forex Trading Platforms in 2020](https://hackernoon.com/your-guide-to-the-best-forex-trading-platforms-in-2020-e31h3xca)
+### [364. Your Guide To the Best Forex Trading Platforms in 2020](https://hackernoon.com/your-guide-to-the-best-forex-trading-platforms-in-2020-e31h3xca)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlcHLEmzZmgTmikXWGk2x6Jerymx1-004q3u6e.jpeg?alt=media&token=941a6f88-d753-487e-a265-f65f7c4023b2)
 Whether you are new to forex or a seasoned trader, choosing the right trading platform for your needs is critical. Platforms with risk management tools are great for beginner traders while automation and advanced charting tools will be valued by advanced traders. 
 
-### [363. What is Driving the Institutional Interest in Cryptocurrency Investment? ](https://hackernoon.com/what-is-driving-the-institutional-interest-in-cryptocurrency-investment-6s163un8)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9wmcSuBWXrPVIfSUwv1hlrICpJb2-no433u6n.jpeg?alt=media&token=b7042301-e4f1-4d2a-821a-561f20db42ea)
-This year has been a defining one for a number of reasons. The world has faced a global pandemic, and the traditional markets and economies around the planet have had to try and deal with this unprecedented event. It has also been a year that looks set for greater interest in cryptocurrency investment.
+### [365. How AI is Set to Change the Investing Landscape](https://hackernoon.com/how-ai-is-set-to-change-the-investing-landscape)
+![](https://cdn.hackernoon.com/images/tEg0jvUWILZWamK9CPjATahBnIa2-dl83zjn.jpeg)
+Alongside artificial intelligence and the extensive data sets of language models, big data and analytics is gaining a concerted push.
 
-### [364. Outside The Bitcoin Echo Chamber: Here's Why I'm Not Stacking Sats](https://hackernoon.com/outside-the-bitcoin-echo-chamber-heres-why-im-not-stacking-sats)
-![](https://cdn.hackernoon.com/images/2j6BO1kjsCUCp29N5SUkjUwIWzb2-v0a3j30.jpeg)
-I spent a year and $10,000 on Bitcoin so you don't have to before I stopped.
-Here’s what I learned about buying crypto and Bitcoin living up to the hype.
-
-### [365. A Brief Guide to Visualizing the Biggest Economic Bubbles](https://hackernoon.com/a-brief-guide-to-visualizing-the-biggest-economic-bubbles)
+### [366. A Brief Guide to Visualizing the Biggest Economic Bubbles](https://hackernoon.com/a-brief-guide-to-visualizing-the-biggest-economic-bubbles)
 ![](https://cdn.hackernoon.com/images/yP7yjHRb5XfzmGhK6jKJbEdJJau2-1y23gsu.png)
 The crypto market is still young, and there are still growth opportunities yet to come. This can easily be seen by comparing the capitalization of major
-
-### [366. Follow These Steps to Become a Trader and Start Earning Money](https://hackernoon.com/follow-these-steps-to-become-a-trader-and-start-earning-money-e5v35mc)
-![](https://cdn.hackernoon.com/images/OjEJS6k01SYS5O3A9zp2NjQ24Hz1-6t125320q.jpeg)
-Follow these advices to learn how to become a Stock Trader 
 
 ### [367. How Can Forex Grow Your Startup Business](https://hackernoon.com/how-to-invest-in-a-startup-business-in-the-uae-st2s3uda)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FbWf7Y9sKoce7uN7b8MgFPMs2uXm1-zs283u65.jpeg?alt=media&token=86da6f96-6296-42c7-b31d-7d705535355b)
 Forex trading is a type of investment. But unlike regular investments, it shows results in less than a year – even with long-term strategies. 
 
-### [368. How AI is Set to Change the Investing Landscape](https://hackernoon.com/how-ai-is-set-to-change-the-investing-landscape)
-![](https://cdn.hackernoon.com/images/tEg0jvUWILZWamK9CPjATahBnIa2-dl83zjn.jpeg)
-Alongside artificial intelligence and the extensive data sets of language models, big data and analytics is gaining a concerted push.
+### [368. What is Driving the Institutional Interest in Cryptocurrency Investment? ](https://hackernoon.com/what-is-driving-the-institutional-interest-in-cryptocurrency-investment-6s163un8)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F9wmcSuBWXrPVIfSUwv1hlrICpJb2-no433u6n.jpeg?alt=media&token=b7042301-e4f1-4d2a-821a-561f20db42ea)
+This year has been a defining one for a number of reasons. The world has faced a global pandemic, and the traditional markets and economies around the planet have had to try and deal with this unprecedented event. It has also been a year that looks set for greater interest in cryptocurrency investment.
 
-### [369. Investment DAOs: What they are and How they Work ](https://hackernoon.com/investment-daos-what-they-are-and-how-they-work)
-![](https://cdn.hackernoon.com/images/wkYX0jprsnXB5w5lc5pLxILwyID3-hva3t99.jpeg)
-An investment DAO is the one that is involved in raising and investing capital into digital assets like cryptocurrencies, NFTs, virtual real estate, etc.
-
-### [370. Bitcoin Bear Market Diaries Volume 22 with Adam Meister](https://hackernoon.com/bitcoin-bear-market-diaries-volume-22-with-adam-meister-9a9cfa0f97ee)
-![](https://cdn.hackernoon.com/drafts/iop32oq.png)
-The Bitcoin Bear Market Diaries are a series of interviews featuring various important voices and perspectives in the Bitcoin ecosystem. Each interviewee was carefully selected and asked the same group of questions. The main goal was to provide the world with a collection of commentary and opinions on the state of the current Bitcoin and crypto market. Some of the names you will recognize while others don’t wish for the limelight but have great insight and experience we all can learn from.
-
-### [371. Bitcoin Bear Market Diaries Volume 13 Yves Bennaim](https://hackernoon.com/bitcoin-bear-market-diaries-volume-13-yves-bennaim-48c9ddc59c43)
-![](https://cdn.hackernoon.com/hn-images/1*m0z4Fjl2kw_SNmyNn_KyHg.jpeg)
-The Bitcoin Bear Market Diaries are a series of interviews featuring various important voices and perspectives in the Bitcoin ecosystem. Each interviewee was carefully selected and asked the same group of questions. The main goal was to provide the world with a collection of commentary and opinions on the state of the current Bitcoin and crypto market. Some of the names you will recognize while others don’t wish for the limelight but have great insight and experience we all can learn from.
-
-### [372. The Quant Graveyard: What 40 Years of Strategy Testing Really Taught Me](https://hackernoon.com/the-quant-graveyard-what-40-years-of-strategy-testing-really-taught-me)
+### [369. The Quant Graveyard: What 40 Years of Strategy Testing Really Taught Me](https://hackernoon.com/the-quant-graveyard-what-40-years-of-strategy-testing-really-taught-me)
 ![](https://cdn.hackernoon.com/images/L1xqRKsJJQYcXNub47F3J69Aoh53-8d23s6q.jpeg)
 
+
+### [370. Outside The Bitcoin Echo Chamber: Here's Why I'm Not Stacking Sats](https://hackernoon.com/outside-the-bitcoin-echo-chamber-heres-why-im-not-stacking-sats)
+![](https://cdn.hackernoon.com/images/2j6BO1kjsCUCp29N5SUkjUwIWzb2-v0a3j30.jpeg)
+I spent a year and $10,000 on Bitcoin so you don't have to before I stopped.
+Here’s what I learned about buying crypto and Bitcoin living up to the hype.
+
+### [371. Follow These Steps to Become a Trader and Start Earning Money](https://hackernoon.com/follow-these-steps-to-become-a-trader-and-start-earning-money-e5v35mc)
+![](https://cdn.hackernoon.com/images/OjEJS6k01SYS5O3A9zp2NjQ24Hz1-6t125320q.jpeg)
+Follow these advices to learn how to become a Stock Trader 
+
+### [372. Bitcoin Bear Market Diaries Volume 22 with Adam Meister](https://hackernoon.com/bitcoin-bear-market-diaries-volume-22-with-adam-meister-9a9cfa0f97ee)
+![](https://cdn.hackernoon.com/drafts/iop32oq.png)
+The Bitcoin Bear Market Diaries are a series of interviews featuring various important voices and perspectives in the Bitcoin ecosystem. Each interviewee was carefully selected and asked the same group of questions. The main goal was to provide the world with a collection of commentary and opinions on the state of the current Bitcoin and crypto market. Some of the names you will recognize while others don’t wish for the limelight but have great insight and experience we all can learn from.
 
 ### [373. The Age of Volatility: Readying for the Unpredictability of Trump 2.0](https://hackernoon.com/the-age-of-volatility-readying-for-the-unpredictability-of-trump-20)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-7w03air.jpeg)
 We now find ourselves fully immersed in the age of Trump 2.0, and it’s fair to say that waters have been choppier than usual.
 
-### [374. Reimagining the Momentum Effect: New Momentum Factors for Crypto-Assets](https://hackernoon.com/reimagining-the-momentum-effect-new-momentum-factors-for-crypto-assets-138b343z)
-![](https://cdn.hackernoon.com/drafts/tk7o34g3.png)
-Momentum is one of the most foundational elements of factor-based investing strategies. Conceptually, the momentum effect relies on a continuation of past patterns of stock or securities returns. Momentum investors buy outperforming securities and avoid — or sell short — underperforming ones. Typically, momentum strategies have been based on price because is the ultimate reflection of the behavior of a stock or security and because, frankly, there is nothing else to look at. Crypto-assets might have a unique opportunity to expand the traditional concepts beyond the momentum effect, as blockchains provide visibility into a new universe of data that enables the creation of new momentum factors. From that perspective, the data-rich nature of blockchains enable the creation of new momentum factors that can describe the behavior of crypto-assets.
+### [374. Bitcoin Bear Market Diaries Volume 13 Yves Bennaim](https://hackernoon.com/bitcoin-bear-market-diaries-volume-13-yves-bennaim-48c9ddc59c43)
+![](https://cdn.hackernoon.com/hn-images/1*m0z4Fjl2kw_SNmyNn_KyHg.jpeg)
+The Bitcoin Bear Market Diaries are a series of interviews featuring various important voices and perspectives in the Bitcoin ecosystem. Each interviewee was carefully selected and asked the same group of questions. The main goal was to provide the world with a collection of commentary and opinions on the state of the current Bitcoin and crypto market. Some of the names you will recognize while others don’t wish for the limelight but have great insight and experience we all can learn from.
 
 ### [375. 363 Stories To Learn About Investing](https://hackernoon.com/363-stories-to-learn-about-investing)
 ![](https://cdn.hackernoon.com/images/github/investing-109.png)
 Learn everything you need to know about Investing via these 363 free HackerNoon stories.
 
-### [376. Will Artificial Intelligence Replace Portfolio Managers in The Financial Industry?](https://hackernoon.com/will-artificial-intelligence-replace-portfolio-managers-in-the-financial-industry-ao3o3532)
-![](https://cdn.hackernoon.com/images/C8wgUqM12RPxfvLI0fcbwwiZ9wi1-nxm33d4.jpeg)
-Artificial Intelligence (AI) chess gamers and poker players have already proven they could beat human masters. What’s to stop AI from doing the same with financial markets? What happens when AI becomes a portfolio player?
+### [376. Five Easy Steps to Managing A Profitable Crypto Portfolio](https://hackernoon.com/five-easy-steps-to-managing-a-profitable-crypto-portfolio)
+![](https://cdn.hackernoon.com/images/8wDmvrL96iaTPNtKRDL60b8tV9G3-9r93pb2.jpeg)
+Having several well-performing coins in your portfolio increases your profits and minimizes your risks of loss.  To get started, track crypto performances.
 
 ### [377. NFT Mint Analysis: How Can We Discover Opportunities Ahead of Time?](https://hackernoon.com/nft-mint-analysis-how-can-we-discover-opportunities-ahead-of-time)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-zw92d3g.jpeg)
 How Can We Discover Opportunities Ahead of Time?
 
-### [378. MillenniumIT: A Poem](https://hackernoon.com/millenniumit-a-poem)
+### [378. Reimagining the Momentum Effect: New Momentum Factors for Crypto-Assets](https://hackernoon.com/reimagining-the-momentum-effect-new-momentum-factors-for-crypto-assets-138b343z)
+![](https://cdn.hackernoon.com/drafts/tk7o34g3.png)
+Momentum is one of the most foundational elements of factor-based investing strategies. Conceptually, the momentum effect relies on a continuation of past patterns of stock or securities returns. Momentum investors buy outperforming securities and avoid — or sell short — underperforming ones. Typically, momentum strategies have been based on price because is the ultimate reflection of the behavior of a stock or security and because, frankly, there is nothing else to look at. Crypto-assets might have a unique opportunity to expand the traditional concepts beyond the momentum effect, as blockchains provide visibility into a new universe of data that enables the creation of new momentum factors. From that perspective, the data-rich nature of blockchains enable the creation of new momentum factors that can describe the behavior of crypto-assets.
+
+### [379. MillenniumIT: A Poem](https://hackernoon.com/millenniumit-a-poem)
 ![](https://cdn.hackernoon.com/images/Xl0cnXcMAzU7BDnhceJf1Y7YZuI2-jc93qek.jpeg)
 We have now established the market's
 opened income.
 
-### [379. Bitcoin Bear Market Diary Volume 20 with Jeremy](https://hackernoon.com/bitcoin-bear-market-diary-volume-20-with-jeremy-74f79f5b610)
+### [380. Will Artificial Intelligence Replace Portfolio Managers in The Financial Industry?](https://hackernoon.com/will-artificial-intelligence-replace-portfolio-managers-in-the-financial-industry-ao3o3532)
+![](https://cdn.hackernoon.com/images/C8wgUqM12RPxfvLI0fcbwwiZ9wi1-nxm33d4.jpeg)
+Artificial Intelligence (AI) chess gamers and poker players have already proven they could beat human masters. What’s to stop AI from doing the same with financial markets? What happens when AI becomes a portfolio player?
+
+### [381. Bitcoin Bear Market Diary Volume 20 with Jeremy](https://hackernoon.com/bitcoin-bear-market-diary-volume-20-with-jeremy-74f79f5b610)
 ![](https://cdn.hackernoon.com/hn-images/1*9A_3AflFU-4J1xzUwDLwiQ.jpeg)
 The Bitcoin Bear Market Diaries are a series of interviews featuring various important voices and perspectives in the Bitcoin ecosystem. Each interviewee was carefully selected and asked the same group of questions. The main goal was to provide the world with a collection of commentary and opinions on the state of the current Bitcoin and crypto market. Some of the names you will recognize while others don’t wish for the limelight but have great insight and experience we all can learn from.
 
-### [380. Crypto's Self-Custody Revolution: Navigating Inevitable Economic Cycles in the 21st Century](https://hackernoon.com/cryptos-self-custody-revolution-navigating-inevitable-economic-cycles-in-the-21st-century)
-![](https://cdn.hackernoon.com/images/jbi5wvvYL3NbqPfwUCZ7kc3pV6a2-1a0222s.png)
-The global economy continues to exhibit patterns of boom and bust, reminiscent of historical precedents.
+### [382. aarnâ Protocol's Alpha Creator Program: Pioneering the Future of DeFi](https://hackernoon.com/aarna-protocols-alpha-creator-program-pioneering-the-future-of-defi)
+![](https://cdn.hackernoon.com/images/SVExkzaI1bU3XQqSxrbMNgjrSrr2-1q932up.jpeg)
+Aarnâ is set to launch its Alpha Creator Program. It will provide a platform for the best minds in DeFi to shape the future through collaborative intelligence.
 
-### [381. The Taxman Cometh for the Crypto World](https://hackernoon.com/the-taxman-cometh-for-the-crypto-world-885bdb2ea3cd)
+### [383. The Taxman Cometh for the Crypto World](https://hackernoon.com/the-taxman-cometh-for-the-crypto-world-885bdb2ea3cd)
 ![](https://cdn.hackernoon.com/drafts/5n3o30rk.png)
 For anyone involved in the world of cryptocurrency, it’s been an interesting few years. Many early investors saw their chosen currencies explode in value, and then plunge soon after that. Throughout the roller coaster ride, regulators and government agencies struggled to make sense of what the crypto market actually was, how it was to be regulated, and which existing legal structures might apply.
 
-### [382. The Bitcoin Price in the Long Run (Part 2 - Fibonacci Ratios Everywhere!)](https://hackernoon.com/the-bitcoin-price-in-the-long-run-part-2-fibonacci-ratios-everywhere-udt3z65)
+### [384. Why You Should Be Paying Attention to Oman](https://hackernoon.com/why-you-should-be-paying-attention-to-oman)
+![](https://cdn.hackernoon.com/images/dNDmbEwasQUhkkwuUypXDwTWtqI2-2n83dt4.png)
+Oman's Vision 2040 pivots from building assets to building skills - prioritizing workforce readiness so digital infrastructure delivers lasting economic growth.
+
+### [385. The Bitcoin Price in the Long Run (Part 2 - Fibonacci Ratios Everywhere!)](https://hackernoon.com/the-bitcoin-price-in-the-long-run-part-2-fibonacci-ratios-everywhere-udt3z65)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fw24dkR3whBQOH7r7hT1hUe4PAIE3-2p63wni.jpeg?alt=media&token=c2f321b2-9bcc-4fb8-9074-e74ec911060f)
 Part 1 of this series of analysis articles introduced Elliott Wave Principle (EWP). The core assumption is counter-intuitive, at first:
 
 "The Wave Principle argues that markets are not driven by fundamentals or news, but instead by “social mood” – the collective psychology of all market participants"
 
-### [383. Five Easy Steps to Managing A Profitable Crypto Portfolio](https://hackernoon.com/five-easy-steps-to-managing-a-profitable-crypto-portfolio)
-![](https://cdn.hackernoon.com/images/8wDmvrL96iaTPNtKRDL60b8tV9G3-9r93pb2.jpeg)
-Having several well-performing coins in your portfolio increases your profits and minimizes your risks of loss.  To get started, track crypto performances.
-
-### [384. What Startup Equity Compensation Means For Developers: Part I](https://hackernoon.com/what-startup-equity-compensation-means-for-developers-part-i-v0c3wil)
+### [386. What Startup Equity Compensation Means For Developers: Part I](https://hackernoon.com/what-startup-equity-compensation-means-for-developers-part-i-v0c3wil)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBamvTIAhDQTWIhpCo8cqPm438Yw2-k773xf4.jpeg?alt=media&token=06d82776-e636-449d-8504-900404fab730)
 It’s not a secret that most founders get most of the equity because they quit their jobs, fundraise money, or put on their own to start a venture.
 
-### [385. Here's Why We Invested in Minerva — The Internet’s Universal Process Sharing Platform](https://hackernoon.com/heres-why-we-invested-in-minerva-the-internets-universal-process-sharing-platform-421h3wc9)
+### [387. Here's Why We Invested in Minerva — The Internet’s Universal Process Sharing Platform](https://hackernoon.com/heres-why-we-invested-in-minerva-the-internets-universal-process-sharing-platform-421h3wc9)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpMbfzjX6rmNKWLRvVpcPYYc5TIm2-vj1v3tzu.jpeg?alt=media&token=d7e967da-a15c-4540-aaaf-d59285537441)
 Once you use it, you’ll wonder how you lived without it…
 
-### [386. Walking a Mile In Warren Buffett's Shoes: What Company Would I Buy with $125 Billion?](https://hackernoon.com/walking-a-mile-in-warren-buffetts-shoes-what-company-would-i-buy-with-dollar125-billion-f16u32mt)
+### [388. Walking a Mile In Warren Buffett's Shoes: What Company Would I Buy with $125 Billion?](https://hackernoon.com/walking-a-mile-in-warren-buffetts-shoes-what-company-would-i-buy-with-dollar125-billion-f16u32mt)
 ![](https://cdn.hackernoon.com/images/wyfs3ykn.jpg)
 Over the past few years, Warren Buffett has been extremely careful how he uses his capital. The cash position of his company Berkshire Hathaway just exceeds the market capitalization of more than 450 companies in the S&P 500, more than 80 in the Nasdaq 100 and 11 in the Dow 30.
 
-### [387. Water: The Alternative Investment Opportunity ](https://hackernoon.com/water-the-alternative-investment-opportunity-hm1h3z4e)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-s3s3zdm.jpeg?alt=media&token=ef9f165d-edfe-4a1c-a32c-1c0e81de868b)
-There are just three basic things that humans cannot live without: water, food, and oxygen. The problem is that the human population is growing too rapidly, to the extent that there are genuine worries about the ability of the earth’s environment to sustain this population.
-
-### [388. What's The Right Time To Start Buying Crypto?](https://hackernoon.com/whats-the-right-time-to-start-buying-crypto-ba1u33bu)
-![](https://cdn.hackernoon.com/images/DYu10hCeytaaTe6cndHe6SFZQh02-le6133qx.jpeg)
-Which cryptocurrency is really worth your time and money, as well as when is the most favorable moment for investment?
-
-### [389. 11 Alternative Assets to Avoid Stock Market Volatility](https://hackernoon.com/11-alternative-assets-to-avoid-stock-market-volatility-432f3165)
-![](https://cdn.hackernoon.com/images/eBwMqkxxahhBnetllONw37nChgm2-a03v310q.jpeg)
-The stock market can be volatile and if you feel as though your exposure is sufficient, here are a few alternative asset classes to consider.
-
-### [390. Sometimes Users Die. Here's How Robinhood, Chaka, and an Imaginary ‘Kin’ Can Handle Their Accounts](https://hackernoon.com/sometimes-users-die-heres-how-robinhood-chaka-and-an-imaginary-kin-handle-their-accounts-gt6834l9)
-![](https://cdn.hackernoon.com/images/XgyZNRLs4IfiAQYtrOhP1YGjI5j2-x6b3w2j.jpeg)
-Memento Mori: How Tech Companies Can Approach Software Products from a Perspective of Death
-
-### [391. aarnâ Protocol's Alpha Creator Program: Pioneering the Future of DeFi](https://hackernoon.com/aarna-protocols-alpha-creator-program-pioneering-the-future-of-defi)
-![](https://cdn.hackernoon.com/images/SVExkzaI1bU3XQqSxrbMNgjrSrr2-1q932up.jpeg)
-Aarnâ is set to launch its Alpha Creator Program. It will provide a platform for the best minds in DeFi to shape the future through collaborative intelligence.
-
-### [392. Why I Think the S&P 500 Crashed Bitcoin in 2019](https://hackernoon.com/dont-listen-to-the-fools-the-sandp-500-crashed-bitcoin-in-2019-3m353624)
+### [389. Why I Think the S&P 500 Crashed Bitcoin in 2019](https://hackernoon.com/dont-listen-to-the-fools-the-sandp-500-crashed-bitcoin-in-2019-3m353624)
 ![](https://cdn.hackernoon.com/images/r0v33ex.jpg)
 In this post we are going to see how:
 
-### [393. Banishing Budget Blues — Rock Your Finance With The 50/30/20 Rule](https://hackernoon.com/banishing-budget-blues-rock-your-finance-with-the-503020-rule)
-![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-iv039wi.jpeg)
-The great thing about the 50/30/20 rule is that it can simplify the complexities of saving money each month.
-
-### [394. Top 5 Stocks For Beginners To Buy in 2022](https://hackernoon.com/top-5-stocks-for-beginners-to-buy-in-2022)
+### [390. Top 5 Stocks For Beginners To Buy in 2022](https://hackernoon.com/top-5-stocks-for-beginners-to-buy-in-2022)
 ![](https://cdn.hackernoon.com/images/5m10iGRoMzbYOXE2JOcRHTZrytI3-pd93jn2.jpeg)
 Choosing which stock to invest in can be hard for a beginner. To make it easier for you, we did some research on which are the best stocks to buy in 2022.
 
-### [395. This DAO Voted to Refund an Investor: Here's What Happened](https://hackernoon.com/this-dao-voted-to-refund-an-investor-heres-what-happened)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-xwa3pa3.jpeg)
-Tim Connors discusses the fact that a DAO is going to refund an investor.
+### [391. Water: The Alternative Investment Opportunity ](https://hackernoon.com/water-the-alternative-investment-opportunity-hm1h3z4e)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-s3s3zdm.jpeg?alt=media&token=ef9f165d-edfe-4a1c-a32c-1c0e81de868b)
+There are just three basic things that humans cannot live without: water, food, and oxygen. The problem is that the human population is growing too rapidly, to the extent that there are genuine worries about the ability of the earth’s environment to sustain this population.
 
-### [396. How Savers Can Protect Against the Damaging Impact of Lifestyle Creep](https://hackernoon.com/how-savers-can-protect-against-the-damaging-impact-of-lifestyle-creep)
-![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-7b03att.jpeg)
-How can we keep ourselves protected from the dangers of lifestyle creep? Let’s explore the phenomenon in more detail.
+### [392. What's The Right Time To Start Buying Crypto?](https://hackernoon.com/whats-the-right-time-to-start-buying-crypto-ba1u33bu)
+![](https://cdn.hackernoon.com/images/DYu10hCeytaaTe6cndHe6SFZQh02-le6133qx.jpeg)
+Which cryptocurrency is really worth your time and money, as well as when is the most favorable moment for investment?
 
-### [397. Is the UK Still a FinTech Hub Amidst Market Volatility?](https://hackernoon.com/is-the-uk-still-a-fintech-hub-amidst-market-volatility)
-![](https://cdn.hackernoon.com/images/Oa0MNJwc6Khr8qu3YECSyS4sLGm1-91834tj.png)
-Is the UK Still a FinTech Hub Amidst Market Volatility? Discover the shifting dynamics of UK FinTech, from investment peaks to rising cybersecurity threats.
+### [393. Sometimes Users Die. Here's How Robinhood, Chaka, and an Imaginary ‘Kin’ Can Handle Their Accounts](https://hackernoon.com/sometimes-users-die-heres-how-robinhood-chaka-and-an-imaginary-kin-handle-their-accounts-gt6834l9)
+![](https://cdn.hackernoon.com/images/XgyZNRLs4IfiAQYtrOhP1YGjI5j2-x6b3w2j.jpeg)
+Memento Mori: How Tech Companies Can Approach Software Products from a Perspective of Death
 
-### [398. Wall Street’s Home Improvement Rally: 3 Stocks to Track as Summer’s DIY Season Kicks Into Gear](https://hackernoon.com/wall-streets-home-improvement-rally-3-stocks-to-track-as-summers-diy-season-kicks-into-gear)
-![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-ca8352k.jpeg)
-Travel and tourism, live events, and food and drink stocks are all prone to strong market rallies as temperatures warm and days become longer. 
+### [394. 11 Alternative Assets to Avoid Stock Market Volatility](https://hackernoon.com/11-alternative-assets-to-avoid-stock-market-volatility-432f3165)
+![](https://cdn.hackernoon.com/images/eBwMqkxxahhBnetllONw37nChgm2-a03v310q.jpeg)
+The stock market can be volatile and if you feel as though your exposure is sufficient, here are a few alternative asset classes to consider.
 
-### [399. Dividend Stocks Under $50 to Consider in 2023](https://hackernoon.com/dividend-stocks-under-$50-to-consider-in-2023)
+### [395. Dividend Stocks Under $50 to Consider in 2023](https://hackernoon.com/dividend-stocks-under-$50-to-consider-in-2023)
 ![](https://cdn.hackernoon.com/images/hEHIS1HNfET0SoXRyGoQfxqbuQG3-ev93p9k.jpeg)
 We have discussed some great dividend paying stocks for 2023 along with the criteria for filtering them.
 
-### [400. Take a Trading Strategies Course to Better Understand the Market](https://hackernoon.com/how-do-i-find-the-right-trading-strategies-course)
-![](https://cdn.hackernoon.com/images/lkFtQdNqmSUo7ih7JTCFvtPHRQO2-4k035qo.jpeg)
-Trading strategies courses can be hard to find but can be very helpful when learning how to trade. Courses on topics like share trading are aplenty online. 
+### [396. This DAO Voted to Refund an Investor: Here's What Happened](https://hackernoon.com/this-dao-voted-to-refund-an-investor-heres-what-happened)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-xwa3pa3.jpeg)
+Tim Connors discusses the fact that a DAO is going to refund an investor.
 
-### [401. Everything You Need to Know About DeFi, DAOs, and Investing in On-Chain Crypto Indexes](https://hackernoon.com/everything-you-need-to-know-about-defi-daos-and-investing-in-on-chain-crypto-indexes)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-uq93ulm.jpeg)
-Ben, it looks like you're stuck in Web 1.0, Mike and I are in Web 3. You're in Web 1. Your camera is very Web oney. Is it really? It is. Sorry. 
+### [397. Banishing Budget Blues — Rock Your Finance With The 50/30/20 Rule](https://hackernoon.com/banishing-budget-blues-rock-your-finance-with-the-503020-rule)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-iv039wi.jpeg)
+The great thing about the 50/30/20 rule is that it can simplify the complexities of saving money each month.
 
-### [402. Platinum Joins Gold and Bitcoin in Investors’ Flight to Security](https://hackernoon.com/platinum-joins-gold-and-bitcoin-in-investors-flight-to-security)
-![](https://cdn.hackernoon.com/images/ZTTHMznNpOU8E23w6ngIBTrJYyG2-1a03e62.png)
-Bitcoin, Gold... Platinum? Discover why this industrial precious metal could complete the ultimate trifecta for a modern, resilient investment portfolio.
-
-### [403. Investing in Knowledge Pays the Best Interest [Part One]](https://hackernoon.com/investing-in-knowledge-pays-the-best-interest-part-one)
-![](https://cdn.hackernoon.com/images/dFW9aLMnLpgfjylixlaQdWQLp2C3-kv73oo0.jpeg)
-Life is getting very competitive and if you don't adapt, you, your family and kids are in trouble.
-
-### [404. Why AI is an Evolutionary, Not Revolutionary, Technology](https://hackernoon.com/why-ai-is-an-evolutionary-not-revolutionary-technology)
-![](https://cdn.hackernoon.com/images/jBJJsuzHGlP6728IzxswYfYoBmA3-aha2gtt.jpeg)
-The hype about AI is not a revolution. It's nothing more than an evolutionary step. Therefore, investing in AI related products should be done responsibly.
-
-### [405. The Future of DeFi: Is DeFi Awaiting for Mass Adoption](https://hackernoon.com/the-future-of-defi-is-defi-awaiting-for-mass-adoption)
-![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-w893m6f.jpeg)
-DeFi future is bright, but many investors are still interested in DeFi mass adoption. The article explains how DeFi is revolutionizing the financial industry.
-
-### [406. Can Bitcoin Go Even Higher?](https://hackernoon.com/can-bitcoin-go-even-higher-esv33ab)
-![](https://cdn.hackernoon.com/images/r633U8vKGhQp66FOBDmgOkw0J472-7n123xup.jpeg)
-An overview of bitocin's bull cycle using on-chain analysis. Can bitcoin go higher? Read more to find out.
-
-### [407. “Bitcoin Is Up! Oh, Nevermind”: What Volatility Means for Crypto Investors](https://hackernoon.com/bitcoin-is-up-oh-nevermind-what-volatility-means-for-crypto-investors)
-![](https://cdn.hackernoon.com/images/LYBTgRnDN2czaHdhZ2x1ZeYjVYv1-b2b3k1h.jpeg)
-“Bitcoin Is Up! Oh, Nevermind”: What Volatility Means for Crypto Investors
-
-### [408. Several Aspects of Porfolio Rebalancing](https://hackernoon.com/several-aspects-of-porfolio-rebalancing)
-![](https://cdn.hackernoon.com/images/Iq5imewRW8P0Tf9OM7rD5jz0qT33-gq030zn.webp)
-Portfolio rebalancing ensures investments remain aligned with an index when market conditions change.
-
-### [409. Reviewing the Top 10 Crypto Smart Contract Platforms in 2023](https://hackernoon.com/reviewing-the-top-10-crypto-smart-contract-platforms-in-2023)
-![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-go93anm.jpeg)
-Here is a reference to the Top 10 Smart contract platforms, in my personal opinion (not market capitalization).
-
-### [410. “Make Every Trade Count” with BitDelta, the New Platform Set to Revolutionize Trading](https://hackernoon.com/make-every-trade-count-with-bitdelta-the-new-platform-set-to-revolutionize-trading)
+### [398. “Make Every Trade Count” with BitDelta, the New Platform Set to Revolutionize Trading](https://hackernoon.com/make-every-trade-count-with-bitdelta-the-new-platform-set-to-revolutionize-trading)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-r892fq8.jpeg)
 BitDelta is a trading platform meticulously crafted by traders for traders. 
 
-### [411. Who's Really Making Money in Web3? Insights From a Business Strategist](https://hackernoon.com/whos-really-making-money-in-web3-insights-from-a-business-strategist)
-![](https://cdn.hackernoon.com/images/y2n4tY4QzFMf0GccUNg9hyQFUR03-ds238au.png)
-Web3 is full of bold claims — but which projects are actually generating revenue? Based on new research from Solus and Simplicity Group, this piece explores how
+### [399. “Bitcoin Is Up! Oh, Nevermind”: What Volatility Means for Crypto Investors](https://hackernoon.com/bitcoin-is-up-oh-nevermind-what-volatility-means-for-crypto-investors)
+![](https://cdn.hackernoon.com/images/LYBTgRnDN2czaHdhZ2x1ZeYjVYv1-b2b3k1h.jpeg)
+“Bitcoin Is Up! Oh, Nevermind”: What Volatility Means for Crypto Investors
 
-### [412. The Best Way to Learn About Crypto](https://hackernoon.com/the-best-way-to-learn-about-crypto)
+### [400. Wall Street’s Home Improvement Rally: 3 Stocks to Track as Summer’s DIY Season Kicks Into Gear](https://hackernoon.com/wall-streets-home-improvement-rally-3-stocks-to-track-as-summers-diy-season-kicks-into-gear)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-ca8352k.jpeg)
+Travel and tourism, live events, and food and drink stocks are all prone to strong market rallies as temperatures warm and days become longer. 
+
+### [401. The Future of DeFi: Is DeFi Awaiting for Mass Adoption](https://hackernoon.com/the-future-of-defi-is-defi-awaiting-for-mass-adoption)
+![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-w893m6f.jpeg)
+DeFi future is bright, but many investors are still interested in DeFi mass adoption. The article explains how DeFi is revolutionizing the financial industry.
+
+### [402. Take a Trading Strategies Course to Better Understand the Market](https://hackernoon.com/how-do-i-find-the-right-trading-strategies-course)
+![](https://cdn.hackernoon.com/images/lkFtQdNqmSUo7ih7JTCFvtPHRQO2-4k035qo.jpeg)
+Trading strategies courses can be hard to find but can be very helpful when learning how to trade. Courses on topics like share trading are aplenty online. 
+
+### [403. How Savers Can Protect Against the Damaging Impact of Lifestyle Creep](https://hackernoon.com/how-savers-can-protect-against-the-damaging-impact-of-lifestyle-creep)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-7b03att.jpeg)
+How can we keep ourselves protected from the dangers of lifestyle creep? Let’s explore the phenomenon in more detail.
+
+### [404. Is the UK Still a FinTech Hub Amidst Market Volatility?](https://hackernoon.com/is-the-uk-still-a-fintech-hub-amidst-market-volatility)
+![](https://cdn.hackernoon.com/images/Oa0MNJwc6Khr8qu3YECSyS4sLGm1-91834tj.png)
+Is the UK Still a FinTech Hub Amidst Market Volatility? Discover the shifting dynamics of UK FinTech, from investment peaks to rising cybersecurity threats.
+
+### [405. Why AI is an Evolutionary, Not Revolutionary, Technology](https://hackernoon.com/why-ai-is-an-evolutionary-not-revolutionary-technology)
+![](https://cdn.hackernoon.com/images/jBJJsuzHGlP6728IzxswYfYoBmA3-aha2gtt.jpeg)
+The hype about AI is not a revolution. It's nothing more than an evolutionary step. Therefore, investing in AI related products should be done responsibly.
+
+### [406. Everything You Need to Know About DeFi, DAOs, and Investing in On-Chain Crypto Indexes](https://hackernoon.com/everything-you-need-to-know-about-defi-daos-and-investing-in-on-chain-crypto-indexes)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-uq93ulm.jpeg)
+Ben, it looks like you're stuck in Web 1.0, Mike and I are in Web 3. You're in Web 1. Your camera is very Web oney. Is it really? It is. Sorry. 
+
+### [407. The Best Way to Learn About Crypto](https://hackernoon.com/the-best-way-to-learn-about-crypto)
 ![](https://cdn.hackernoon.com/images/b67ixwNT8rhwQOX42x4HdxfwCYF2-kic3mue.jpeg)
 How To Learn Crypto in the Best Way? How, What and Why. Practical tips to help you achieve your learning goals.
 
-### [413. Why You Should Be Paying Attention to Oman](https://hackernoon.com/why-you-should-be-paying-attention-to-oman)
-![](https://cdn.hackernoon.com/images/dNDmbEwasQUhkkwuUypXDwTWtqI2-2n83dt4.png)
-Oman's Vision 2040 pivots from building assets to building skills - prioritizing workforce readiness so digital infrastructure delivers lasting economic growth.
+### [408. Can Bitcoin Go Even Higher?](https://hackernoon.com/can-bitcoin-go-even-higher-esv33ab)
+![](https://cdn.hackernoon.com/images/r633U8vKGhQp66FOBDmgOkw0J472-7n123xup.jpeg)
+An overview of bitocin's bull cycle using on-chain analysis. Can bitcoin go higher? Read more to find out.
 
-### [414. The Black Pterodactyl Event](https://hackernoon.com/the-black-pterodactyl-event-hc4033er)
-![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-z42028ex.png)
-The failure to recognize the Black Pterodactyl event means we run from fearful attack to fearful attack.
+### [409. Investing in Knowledge Pays the Best Interest [Part One]](https://hackernoon.com/investing-in-knowledge-pays-the-best-interest-part-one)
+![](https://cdn.hackernoon.com/images/dFW9aLMnLpgfjylixlaQdWQLp2C3-kv73oo0.jpeg)
+Life is getting very competitive and if you don't adapt, you, your family and kids are in trouble.
 
-### [415. Analyzing SVB's 2022 10-K to Understand Its Failure ](https://hackernoon.com/analyzing-svbs-2022-10-k-to-understand-its-failure)
+### [410. Several Aspects of Porfolio Rebalancing](https://hackernoon.com/several-aspects-of-porfolio-rebalancing)
+![](https://cdn.hackernoon.com/images/Iq5imewRW8P0Tf9OM7rD5jz0qT33-gq030zn.webp)
+Portfolio rebalancing ensures investments remain aligned with an index when market conditions change.
+
+### [411. Reviewing the Top 10 Crypto Smart Contract Platforms in 2023](https://hackernoon.com/reviewing-the-top-10-crypto-smart-contract-platforms-in-2023)
+![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-go93anm.jpeg)
+Here is a reference to the Top 10 Smart contract platforms, in my personal opinion (not market capitalization).
+
+### [412. Who's Really Making Money in Web3? Insights From a Business Strategist](https://hackernoon.com/whos-really-making-money-in-web3-insights-from-a-business-strategist)
+![](https://cdn.hackernoon.com/images/y2n4tY4QzFMf0GccUNg9hyQFUR03-ds238au.png)
+Web3 is full of bold claims — but which projects are actually generating revenue? Based on new research from Solus and Simplicity Group, this piece explores how
+
+### [413. Analyzing SVB's 2022 10-K to Understand Its Failure ](https://hackernoon.com/analyzing-svbs-2022-10-k-to-understand-its-failure)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-wo93put.jpeg)
 Silicon Valley Bank has entered into FDIC receivership and has for all intents and purposes has failed. Here, I argue that SVB failed due to a failure to respon
 
-### [416. FTX Collapse: This Is What a Crypto Bottom Looks Like](https://hackernoon.com/ftx-collapse-this-is-what-a-crypto-bottom-looks-like)
-![](https://cdn.hackernoon.com/images/hxy8qxsZMaPAcd2AeFKkNOE9OLu1-bna3qxn.jpeg)
-Crypto market has hit a bottom? Bitcoin price indications. When does the crypto bull market return? Crypto investing fundamentals. 
-
-### [417. 7 Ways to Stand Out at a Tech Conference](https://hackernoon.com/7-ways-to-stand-out-at-a-tech-conference)
+### [414. 7 Ways to Stand Out at a Tech Conference](https://hackernoon.com/7-ways-to-stand-out-at-a-tech-conference)
 ![](https://cdn.hackernoon.com/images/lxpzidPx0SOf3MhaF960c4lAkPm1-xna3otr.jpeg)
 After more than 60 meetings at a major tech conference in Dubai Gitex Global 2022, I figured out what helps projects stand out and get stuck in the memory.
+
+### [415. Risk Appetite Floods Back Into Wall Street as Rate Cut Confidence Soars for Investors](https://hackernoon.com/risk-appetite-floods-back-into-wall-street-as-rate-cut-confidence-soars-for-investors)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-fk834f7.jpeg)
+The prospect of rate cuts will be music to the ears of investors, with the prospect of greater confidence and stronger liquidity helping drive markets higher.
+
+### [416. The Black Pterodactyl Event](https://hackernoon.com/the-black-pterodactyl-event-hc4033er)
+![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-z42028ex.png)
+The failure to recognize the Black Pterodactyl event means we run from fearful attack to fearful attack.
+
+### [417. FTX Collapse: This Is What a Crypto Bottom Looks Like](https://hackernoon.com/ftx-collapse-this-is-what-a-crypto-bottom-looks-like)
+![](https://cdn.hackernoon.com/images/hxy8qxsZMaPAcd2AeFKkNOE9OLu1-bna3qxn.jpeg)
+Crypto market has hit a bottom? Bitcoin price indications. When does the crypto bull market return? Crypto investing fundamentals. 
 
 ### [418. How Technology is Changing Retirement Planning](https://hackernoon.com/how-technology-is-changing-retirement-planning)
 ![](https://cdn.hackernoon.com/images/DeVAXD4EfVflr8S6tInYr39iPAy2-g90225n.jpeg)
  Let's look at some emerging new options that can help you create passive income for retirement.
 
-### [419. Building a Bulletproof Pitch: Interview With Victor Larionov](https://hackernoon.com/building-a-bulletproof-pitch-interview-with-victor-larionov-3e7d32ew)
-![](https://cdn.hackernoon.com/images/iumnGL1xp3ghC3RL7cb6UMd6VkE3-rub36ck.jpeg)
-While pitching investors might sound straightforward, there are some underlying technicalities most people fail to understand. Here's an explanation of them.
-
-### [420. Investing in the Internet of Things](https://hackernoon.com/investing-in-the-internet-of-things-o1v3wgm)
+### [419. Investing in the Internet of Things](https://hackernoon.com/investing-in-the-internet-of-things-o1v3wgm)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQXsXg7hvkgUim8nVzmpA0TNWPaL2-42528yc.jpeg?alt=media&token=1be063ec-7e88-4452-bd9b-93a5f53e2c3d)
 The Internet of Things is a fast-growing area of technology that will one day have virtually the entire world connected. For now, it's still in the relatively early stages, so there may be opportunities to invest early in companies that will benefit from the IoT.
 
-### [421. Risk Appetite Floods Back Into Wall Street as Rate Cut Confidence Soars for Investors](https://hackernoon.com/risk-appetite-floods-back-into-wall-street-as-rate-cut-confidence-soars-for-investors)
-![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-fk834f7.jpeg)
-The prospect of rate cuts will be music to the ears of investors, with the prospect of greater confidence and stronger liquidity helping drive markets higher.
+### [420. How to Improve VC Deal Sourcing Using Public Web Data](https://hackernoon.com/how-to-improve-vc-deal-sourcing-using-public-web-data)
+![](https://cdn.hackernoon.com/images/r7tMYychucQtpibyFKs7zg8707e2-im93r6l.jpeg)
+Learn how public web data can help you improve your deal sourcing methods.
 
-### [422. Trading Instruments - Metatrader 4 Key Functions](https://hackernoon.com/trading-instruments-metatrader-4-key-functions-cu1j3tjm)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGZDSbFZOARVAVpKeO3dNbzzICdz1-zu4v3t7l.jpeg?alt=media&token=eae12d6a-ea4e-4c44-880c-4fbf08a615f2)
-The forex market is one of the biggest entities of its type anywhere in the world, with an estimated $6.6 trillion traded globally every single day.
+### [421. Building a Bulletproof Pitch: Interview With Victor Larionov](https://hackernoon.com/building-a-bulletproof-pitch-interview-with-victor-larionov-3e7d32ew)
+![](https://cdn.hackernoon.com/images/iumnGL1xp3ghC3RL7cb6UMd6VkE3-rub36ck.jpeg)
+While pitching investors might sound straightforward, there are some underlying technicalities most people fail to understand. Here's an explanation of them.
 
-### [423. OpenAI CEO Wants to Shoot You in the Eye With a Laser: What Could Possibly Go Wrong?](https://hackernoon.com/openai-ceo-wants-to-shoot-you-in-the-eye-with-a-laser-what-could-possibly-go-wrong)
+### [422. OpenAI CEO Wants to Shoot You in the Eye With a Laser: What Could Possibly Go Wrong?](https://hackernoon.com/openai-ceo-wants-to-shoot-you-in-the-eye-with-a-laser-what-could-possibly-go-wrong)
 ![](https://cdn.hackernoon.com/images/rucLDVUL7ahWimn1vc30lsveGZ92-dzi32az.jpeg)
 The creator of AI also sells the antidote for AI; bias much? More crypto news from around the world plus bad jokes and cute puppy pictures.
+
+### [423. Trading Instruments - Metatrader 4 Key Functions](https://hackernoon.com/trading-instruments-metatrader-4-key-functions-cu1j3tjm)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FGZDSbFZOARVAVpKeO3dNbzzICdz1-zu4v3t7l.jpeg?alt=media&token=eae12d6a-ea4e-4c44-880c-4fbf08a615f2)
+The forex market is one of the biggest entities of its type anywhere in the world, with an estimated $6.6 trillion traded globally every single day.
 
 ### [424. Here's Why We Invested in Turing — The Future of CPG Formulation](https://hackernoon.com/heres-why-we-invested-in-turing-the-future-of-cpg-formulation-vty3wek)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpMbfzjX6rmNKWLRvVpcPYYc5TIm2-nq1l3tqq.jpeg?alt=media&token=b853116b-09c5-4763-aa5c-168552c08b1c)
@@ -1721,107 +1723,107 @@ Iteration is the new innovation…
 ![](https://cdn.hackernoon.com/images/806D5cByiXTuXu9YldkNPRwtIMg2-x093lyi.jpeg)
 Uppermost on my mind is launching an investment platform that I believe will revolutionize how people invest their capital.
 
-### [426. How to Improve VC Deal Sourcing Using Public Web Data](https://hackernoon.com/how-to-improve-vc-deal-sourcing-using-public-web-data)
-![](https://cdn.hackernoon.com/images/r7tMYychucQtpibyFKs7zg8707e2-im93r6l.jpeg)
-Learn how public web data can help you improve your deal sourcing methods.
-
-### [427. Are Bitcoin Investments Legal? ](https://hackernoon.com/are-bitcoin-investments-legal)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-3la3wtr.jpeg)
-Given its nature as a decentralized digital asset, Bitcoin's legal status was always going to cause major debate. 
-
-### [428. We're Just Riding the Ups and Downs of Investing in Bitcoin](https://hackernoon.com/were-just-riding-the-ups-and-downs-of-investing-in-bitcoin-x4nu356a)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-zvj935u1.jpeg)
-Natasha, Linh, Amy, and Hang do a HOT TAKE on the Friends Reunion for the first 5 minutes of this episode. BUT they also talk about the most traded tech stocks.
-
-### [429. Cryptocurrency Is Still the Investment Opportunity of the Decade](https://hackernoon.com/cryptocurrency-is-still-the-investment-opportunity-of-the-decade)
+### [426. Cryptocurrency Is Still the Investment Opportunity of the Decade](https://hackernoon.com/cryptocurrency-is-still-the-investment-opportunity-of-the-decade)
 ![](https://cdn.hackernoon.com/images/7XySryL7eBZuFZKjRrt7WZ4k61G3-ymd3c09.jpeg)
 As we approach 2024, eager crypto enthusiasts are anticipating upcoming BULL run in 2024-2025.
 
 I’m composing this article to help you navigate cryptocurrencies
 
-### [430. How To Start Investing - Developer Edition](https://hackernoon.com/how-to-start-investing-developer-edition-vj263x7u)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBamvTIAhDQTWIhpCo8cqPm438Yw2-dt73y2m.jpeg?alt=media&token=f818893e-a299-4d07-b529-0693a7f31d98)
-Having money in the bank that is just giving you zero profit and killing your capital instead of making more money is not going to help you achieve your financial goals.
-
-### [431. Taking the Leap: From Developer to FinTech Startup CEO [Interview]](https://hackernoon.com/taking-the-leap-from-developer-to-fintech-startup-ceo-interview)
+### [427. Taking the Leap: From Developer to FinTech Startup CEO [Interview]](https://hackernoon.com/taking-the-leap-from-developer-to-fintech-startup-ceo-interview)
 ![](https://cdn.hackernoon.com/images/Gyqt4nHrwQXbGraEpigXmjGjLOw2-vf13750.jpeg)
 Ioana started her career as a software developer, but decided to leave Shopify to found Konvi - the investment platform for alternative assets.
 
-### [432. Face Masks, Oil’s Crash, and a Bitcoin Bloodbath: How Can Investors Survive Corona-geddon?](https://hackernoon.com/face-masks-oils-crash-and-a-bitcoin-bloodbath-how-can-investors-survive-corona-geddon-4v6n3y9z)
+### [428. How To Start Investing - Developer Edition](https://hackernoon.com/how-to-start-investing-developer-edition-vj263x7u)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBamvTIAhDQTWIhpCo8cqPm438Yw2-dt73y2m.jpeg?alt=media&token=f818893e-a299-4d07-b529-0693a7f31d98)
+Having money in the bank that is just giving you zero profit and killing your capital instead of making more money is not going to help you achieve your financial goals.
+
+### [429. Are Bitcoin Investments Legal? ](https://hackernoon.com/are-bitcoin-investments-legal)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-3la3wtr.jpeg)
+Given its nature as a decentralized digital asset, Bitcoin's legal status was always going to cause major debate. 
+
+### [430. We're Just Riding the Ups and Downs of Investing in Bitcoin](https://hackernoon.com/were-just-riding-the-ups-and-downs-of-investing-in-bitcoin-x4nu356a)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-zvj935u1.jpeg)
+Natasha, Linh, Amy, and Hang do a HOT TAKE on the Friends Reunion for the first 5 minutes of this episode. BUT they also talk about the most traded tech stocks.
+
+### [431. Face Masks, Oil’s Crash, and a Bitcoin Bloodbath: How Can Investors Survive Corona-geddon?](https://hackernoon.com/face-masks-oils-crash-and-a-bitcoin-bloodbath-how-can-investors-survive-corona-geddon-4v6n3y9z)
 ![](https://cdn.hackernoon.com/drafts/epde3ymg.png)
 The world has caught a chill. As efforts to contain COVID-19 aka the coronavirus heat up, global stock markets—the barometers for the world’s economic health—are flashing red. Compounding the virus fears was news of a Saudi-Russian conflict over oil prices, enough to catalyze a systemic collapse in global stock markets, with U.S. stocks counting their worst single-day losses since the 2008 financial crisis. Upon opening on March 9, U.S. stocks plunged so rapidly that the circuit breakers were triggered for the first time since 1997. 
 
-### [433. Will Bitcoin Be The Best Inflation Hedge?](https://hackernoon.com/embrace-the-fear-8t373yxt)
-![](https://cdn.hackernoon.com/images/i5w32t9.jpg)
-I once asked a monk how he found peace. “I say yes,” he told me. “To all that happens, I say yes.” 
-
-### [434. 3 Types of Crypto Investors: Which Strategy Wins?](https://hackernoon.com/3-types-of-crypto-investors-which-strategy-wins)
+### [432. 3 Types of Crypto Investors: Which Strategy Wins?](https://hackernoon.com/3-types-of-crypto-investors-which-strategy-wins)
 ![](https://cdn.hackernoon.com/images/gold-coins-on-a-chess-board-clddyiw5a000101s649yy6hiq.png)
 Having a plan in place helps to avoid mistakes that can result in large losses.
 
-### [435. Here for the Shrimp: What Comes in Crypto Next?](https://hackernoon.com/here-for-the-shrimp-what-comes-in-crypto-next)
+### [433. Why Twitter Blue For $8 Will Underperform](https://hackernoon.com/why-twitter-blue-for-$8-will-underperform)
+![](https://cdn.hackernoon.com/images/hxy8qxsZMaPAcd2AeFKkNOE9OLu1-6h92isx.jpeg)
+Twitter blue for $8 has an intricate flaw. And Elon Musk has to find a way to get ahead of it to make Twitter profitable
+
+### [434. Here for the Shrimp: What Comes in Crypto Next?](https://hackernoon.com/here-for-the-shrimp-what-comes-in-crypto-next)
 ![](https://cdn.hackernoon.com/images/xP5lHtN0vMf7waCL6tGSabhVnru2-wqa3p6z.png)
 The emergence of cryptocurrencies and decentralized global networks backed by digital assets provides a massive opportunity for a reshuffle.
 
-### [436. The Gambler's Ruin Explained](https://hackernoon.com/the-gamblers-ruin-explained)
-![](https://cdn.hackernoon.com/images/poker-chips-thrown-onto-the-table-clfa3i4q8000101s6chh5hoj0.png)
-10-K Diver explains the gambler's ruin.
-
-### [437. The Memecoin Revolution: How This Quirky Investment Trend is Changing the Way We Think About Money](https://hackernoon.com/the-memecoin-revolution-how-this-quirky-investment-trend-is-changing-the-way-we-think-about-money)
+### [435. The Memecoin Revolution: How This Quirky Investment Trend is Changing the Way We Think About Money](https://hackernoon.com/the-memecoin-revolution-how-this-quirky-investment-trend-is-changing-the-way-we-think-about-money)
 ![](https://cdn.hackernoon.com/images/KdLcZRM9ufXhHJgOghOg1qfq8q02-p1a3t8w.jpeg)
 Following in the footsteps of Dogecoin and Shiba Inu, the PEPE token has become the talk of the town among crypto traders.
+
+### [436. Will Bitcoin Be The Best Inflation Hedge?](https://hackernoon.com/embrace-the-fear-8t373yxt)
+![](https://cdn.hackernoon.com/images/i5w32t9.jpg)
+I once asked a monk how he found peace. “I say yes,” he told me. “To all that happens, I say yes.” 
+
+### [437. The Gambler's Ruin Explained](https://hackernoon.com/the-gamblers-ruin-explained)
+![](https://cdn.hackernoon.com/images/poker-chips-thrown-onto-the-table-clfa3i4q8000101s6chh5hoj0.png)
+10-K Diver explains the gambler's ruin.
 
 ### [438. Why are Cryptocurrency Banks so Unsustainable? What Crypto-enthusiasts Say](https://hackernoon.com/why-are-cryptocurrency-banks-so-unsustainable-what-crypto-enthusiasts-say)
 ![](https://cdn.hackernoon.com/images/65gywfjXqCYTW2WMTUEj7ZzAYx53-f7b3rok.jpeg)
 Answers to questions: How much do you invest in crypto monthly, What prevents you right now from investing more, What is your main goal of using crypto
 
-### [439. Why Twitter Blue For $8 Will Underperform](https://hackernoon.com/why-twitter-blue-for-$8-will-underperform)
-![](https://cdn.hackernoon.com/images/hxy8qxsZMaPAcd2AeFKkNOE9OLu1-6h92isx.jpeg)
-Twitter blue for $8 has an intricate flaw. And Elon Musk has to find a way to get ahead of it to make Twitter profitable
+### [439. The Future of Funding is Here!](https://hackernoon.com/the-future-of-funding-is-here)
+![](https://cdn.hackernoon.com/images/7zsqyaP6zIhqhbRtSZybpAhojJh1-4sa3p0y.jpeg)
+IDOs, or Initial DEX Offerings, are a new form of crowdfunding that have gained popularity in the cryptocurrency and blockchain space.
 
-### [440. Investment Trend in Generative AI Shows No Signs of Slowing Down](https://hackernoon.com/investment-trend-in-generative-ai-shows-no-signs-of-slowing-down)
-![](https://cdn.hackernoon.com/images/DgCKaT12bLQBcVHYzE2KWXXmGZt2-y493oeu.jpeg)
-Generative AI refers to the use of machine learning to create new content. It has the potential to revolutionize industries
+### [440. Launching a New CeDeFi Investment Product: Key Aspects, Metrics, and Security Risks](https://hackernoon.com/launching-a-new-cedefi-investment-product-key-aspects-metrics-and-security-risks)
+![](https://cdn.hackernoon.com/images/5e4mQkoNTufDB9PLNsHikSnPAUs1-epc3n9v.jpeg)
+You have likely heard about decentralized finance (DeFi), but what about decentralized-centralized finance, a bridge between the new system and the old.
 
 ### [441. The HackerNoon Newsletter: Could the Soaring FTSE 100 Mean Its Time to Open a SIPP? (1/1/2026)](https://hackernoon.com/1-1-2026-newsletter)
 ![](https://cdn.hackernoon.com/images/hackernoon_newsletter_842_utmxai2n7h2nvqp3dbl67gyl.png)
 1/1/2026: Top 5 stories on the HackerNoon homepage!
 
-### [442. SIPP vs Workplace Pension: What's the Smarter Move This Tax Year?](https://hackernoon.com/sipp-vs-workplace-pension-whats-the-smarter-move-this-tax-year)
-![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-9e03d3q.jpeg)
-Choosing the right pension scheme early could leave you thousands of pounds better off when you are ready to retire, ensuring you enjoy your golden years.
+### [442. Investment Trend in Generative AI Shows No Signs of Slowing Down](https://hackernoon.com/investment-trend-in-generative-ai-shows-no-signs-of-slowing-down)
+![](https://cdn.hackernoon.com/images/DgCKaT12bLQBcVHYzE2KWXXmGZt2-y493oeu.jpeg)
+Generative AI refers to the use of machine learning to create new content. It has the potential to revolutionize industries
 
-### [443. Launching a New CeDeFi Investment Product: Key Aspects, Metrics, and Security Risks](https://hackernoon.com/launching-a-new-cedefi-investment-product-key-aspects-metrics-and-security-risks)
-![](https://cdn.hackernoon.com/images/5e4mQkoNTufDB9PLNsHikSnPAUs1-epc3n9v.jpeg)
-You have likely heard about decentralized finance (DeFi), but what about decentralized-centralized finance, a bridge between the new system and the old.
+### [443. Could Japanese Markets Prosper as the New Government Benefits from Renewed Regional Trade Optimism?](https://hackernoon.com/could-japanese-markets-prosper-as-the-new-government-benefits-from-renewed-regional-trade-optimism)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-5k13dwb.jpeg)
+Japan may become one of the prime beneficiaries of cooling trade tensions between the United States and China.
 
-### [444. Bet on the Jockey, Not the Horse: What Angel Investors Look for in Startups [Expert Interview]](https://hackernoon.com/bet-on-the-jockey-not-the-horse-what-angel-investors-look-for-in-startups-expert-interview-ii9633zk)
+### [444. Venom Foundation and DoraHacks Unleash Innovation with a $225,000 Blockchain Hackathon](https://hackernoon.com/venom-foundation-and-dorahacks-unleash-innovation-with-a-dollar225000-blockchain-hackathon)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-z893p90.jpeg)
+Since 2012, there have been over 200,000 hackathons throughout the world, with participation growing by 20% per year.
+
+### [445. Bet on the Jockey, Not the Horse: What Angel Investors Look for in Startups [Expert Interview]](https://hackernoon.com/bet-on-the-jockey-not-the-horse-what-angel-investors-look-for-in-startups-expert-interview-ii9633zk)
 ![](https://cdn.hackernoon.com/images/04RBQUokhMcaEo331itGHu88zIw1-l16733t4.jpeg)
 To find out exactly what angel investors look for in entrepreneurs and their startups, we sat down with angel investor Armando Biondi. 
-
-### [445. The Future of Funding is Here!](https://hackernoon.com/the-future-of-funding-is-here)
-![](https://cdn.hackernoon.com/images/7zsqyaP6zIhqhbRtSZybpAhojJh1-4sa3p0y.jpeg)
-IDOs, or Initial DEX Offerings, are a new form of crowdfunding that have gained popularity in the cryptocurrency and blockchain space.
 
 ### [446. The Best Robo Advisors for 2021](https://hackernoon.com/the-best-robo-advisors-for-2021-nht323w)
 ![](https://cdn.hackernoon.com/images/n7ZGgK8x3SaWtYcLgjER5xD8JqW2-yyao31ss.jpeg)
 The Best Robo-advisors make investing easy, even automatic. If you’re a set-it-and-forget-it type person, you’ll love how robo-advisors make investing easy.
 
-### [447. Investors Clamor for Digestible Data Analytics in the Fledgling Crypto Industry](https://hackernoon.com/investors-clamor-for-digestible-data-analytics-in-the-fledgling-crypto-industry)
-![](https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-6h03etm.jpeg)
-As DeFi data generation grows with the industry, there is an increased need for platforms that are able to digest and analyze this data for investors.
-
-### [448. Here is What You Need to Know About Holding an ICO](https://hackernoon.com/here-is-what-you-need-to-know-about-holding-an-ico)
+### [447. Here is What You Need to Know About Holding an ICO](https://hackernoon.com/here-is-what-you-need-to-know-about-holding-an-ico)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-0l93ve0.jpeg)
 An initial coin offering (ICO) is a method used to raise capital in the cryptocurrency environment.
+
+### [448. Investors Clamor for Digestible Data Analytics in the Fledgling Crypto Industry](https://hackernoon.com/investors-clamor-for-digestible-data-analytics-in-the-fledgling-crypto-industry)
+![](https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-6h03etm.jpeg)
+As DeFi data generation grows with the industry, there is an increased need for platforms that are able to digest and analyze this data for investors.
 
 ### [449. Julia Boorstin |Looking Beyond the Pay Gap to Imbalances in VC Investing](https://hackernoon.com/julia-boorstin-orlooking-beyond-the-pay-gap-to-imbalances-in-vc-investing)
 ![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-8993rgj.gif.webp)
 Julia Boorstin | More Than Just A Pay Gap: Imbalances in VC Investing
 
-### [450. Venom Foundation and DoraHacks Unleash Innovation with a $225,000 Blockchain Hackathon](https://hackernoon.com/venom-foundation-and-dorahacks-unleash-innovation-with-a-dollar225000-blockchain-hackathon)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-z893p90.jpeg)
-Since 2012, there have been over 200,000 hackathons throughout the world, with participation growing by 20% per year.
+### [450. 5 Things Standing in the Way of Crypto Asset Institutionalization — and How to Fix Them](https://hackernoon.com/5-things-standing-in-the-way-of-crypto-asset-institutionalization-and-how-to-fix-them-eew3zvb)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-jdv3znt.jpeg?alt=media&token=d058ea99-2ad2-450b-9200-9e730d1c6bcc)
+When will we see crypto become a fully-fledged institutionalized asset class?
 
 ### [451. Crypto is Struggling to Become the Alternative Financial System We Thought it Would Be](https://hackernoon.com/crypto-is-struggling-to-be-the-alternative-financial-system-we-thought-it-would-be)
 ![](https://cdn.hackernoon.com/images/hxy8qxsZMaPAcd2AeFKkNOE9OLu1-0u93jnc.jpeg)
@@ -1831,196 +1833,196 @@ This is the information that holds the key to thr next level of growth and adopt
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FBamvTIAhDQTWIhpCo8cqPm438Yw2-ke73y1o.jpeg?alt=media&token=ee871ed9-6766-4a7c-9116-8fc737f5202a)
 If you learned how to save money successfully, sooner or later, many of us will be faced the question: “How can we invest our hard-earned money profitably — assets like shares, stocks, bonds, funds, certificates or gold?”
 
-### [453. 5 Reasons Why Getting A Bitcoin-Based Retirement Plan Makes Sense](https://hackernoon.com/5-reasons-why-getting-a-bitcoin-based-retirement-plan-makes-sense-j73033cp)
-![](https://cdn.hackernoon.com/images/C1NMxASo99bwSkaydbB9HmaaIYz1-70n3f08.jpeg)
-Instead of utilizing a normal individual retirement account, perhaps you should consider getting a bitcoin IRA. Learn how these plans can stand above the rest!
-
-### [454. 5 Things Standing in the Way of Crypto Asset Institutionalization — and How to Fix Them](https://hackernoon.com/5-things-standing-in-the-way-of-crypto-asset-institutionalization-and-how-to-fix-them-eew3zvb)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-jdv3znt.jpeg?alt=media&token=d058ea99-2ad2-450b-9200-9e730d1c6bcc)
-When will we see crypto become a fully-fledged institutionalized asset class?
-
-### [455. 5 Handy Apps to Power Up Your Investments in Times of Uncertainty](https://hackernoon.com/5-handy-apps-to-power-up-your-investments-in-times-of-uncertainty)
-![](https://cdn.hackernoon.com/images/8wlyTs6rS1Ns9rTwC8LtCyE03B52-jze3z6r.jpeg)
-Get the list of handy apps that will fuel your investment decisions even in the crisis period!
-
-### [456. Money Management Tips for Traders and Investors](https://hackernoon.com/money-management-tips-for-traders-and-investors-gm1g3tce)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3Rp9FdRp0URgIP72Uqw0FlphLfz1-imr3ua8.jpeg?alt=media&token=094d6e7f-f7bd-4324-9a9b-d05e30063111)
-If you want to become a trader or an investor, whether part-time to make some extra cash, or as a full-time career, you need to be able to manage your money. This is an essential skill, and one which a lot of people don’t master. This can lead to losing all of your investment capital and even have a negative impact on personal finances and issues such as family cash flow.
-
-### [457. As Bitcoin Grows, So Do Crypto Scams](https://hackernoon.com/as-bitcoin-grows-so-do-crypto-scams-p52n3ujg)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-ql243ufc.jpeg?alt=media&token=2e8452d1-38ed-4fdc-8c8b-33eab1482629)
-The amount that Bitcoin has grown in recent years is staggering. In around a decade or so, it has gone from a relatively unknown asset to an incredibly popular and valuable cryptocurrency that has made front-page headlines across the world. It has shown a lot of promise and potential in both finance and tech.
-
-### [458. Exploring Solutions of Financial Risks in DeFi](https://hackernoon.com/exploring-solutions-of-financial-risks-in-defi)
+### [453. Exploring Solutions of Financial Risks in DeFi](https://hackernoon.com/exploring-solutions-of-financial-risks-in-defi)
 ![](https://cdn.hackernoon.com/images/exploring-solutions-of-financial-risks-in-de-fi-cli8o0i92000001s60srm1w4q.png)
 Three common ways to solve defi financial risk: Risk Dashboards, Simulations, & Credit Rating.
 
-### [459. Actions You May Want to Take in a Post Crypto Winter](https://hackernoon.com/actions-you-may-want-to-take-in-a-post-crypto-winter)
-![](https://cdn.hackernoon.com/images/sWgUkcWK6naafqrMYXQ9swM3irf2-0q93pdh.jpeg)
-The year 2022 brought a number of financial problems for investors toward the end, a period which has become known as the crypto winter of 2022.
-
-### [460. Could Japanese Markets Prosper as the New Government Benefits from Renewed Regional Trade Optimism?](https://hackernoon.com/could-japanese-markets-prosper-as-the-new-government-benefits-from-renewed-regional-trade-optimism)
-![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-5k13dwb.jpeg)
-Japan may become one of the prime beneficiaries of cooling trade tensions between the United States and China.
-
-### [461. The Future of Financial Analysis: Why Machine Learning and AI are the Next Big Things in Fintech](https://hackernoon.com/the-future-of-financial-analysis-why-machine-learning-and-ai-are-the-next-big-things-in-fintech)
+### [454. The Future of Financial Analysis: Why Machine Learning and AI are the Next Big Things in Fintech](https://hackernoon.com/the-future-of-financial-analysis-why-machine-learning-and-ai-are-the-next-big-things-in-fintech)
 ![](https://cdn.hackernoon.com/images/knNSSotgFIQhktVmeXd7erKexlt2-u393qkr.jpeg)
 Discover how MI and AI are revolutionizing financial analysis in fintech. From fraud detection to personalized recommendations, the future looks bright!
 
-### [462. Getting Exposure to Crypto: An Inside Look at 5 Different Methods](https://hackernoon.com/5-ways-to-get-started-in-crypto-a-beginners-guide)
-![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-qf93233.jpeg)
-What sets apart the conscious being that is man from all other forms of life on earth is our ability to not only plan for the future but to proactively build.. 
-
-### [463. Robinhood's Double Soul: Meme Investing And Big Bucks From Wall Street  ](https://hackernoon.com/robinhoods-double-soul-meme-investing-and-big-bucks-from-wall-street-5ms353p)
-![](https://cdn.hackernoon.com/images/U6g5S4clvAfPBkwpyb7K9m2l1xf2-n1vi378x.jpeg)
-What makes up Robinhood's revenues? Now that the company is getting ready for its IPO, we can look under the hood. 
-
-### [464. How to Gain Financial Security As a Man with this 5 Safe Tips](https://hackernoon.com/how-to-gain-financial-security-as-a-man-with-this-5-safe-tips-103y3ycs)
-![](https://cdn.hackernoon.com/drafts/sa1td37d3.png)
-‘The risk comes from not knowing what you're doing,' says the rich person.
-
-### [465. Startup Acquisitions: How to Navigate an Acquisition Process as a Seller (Part 2 of 2)](https://hackernoon.com/startup-acquisitions-how-to-navigate-an-acquisition-process-as-a-seller-part-2-of-2)
-![](https://cdn.hackernoon.com/images/pymMH52jTsYYdzGWrBIJQ141UaF3-30034n6.jpeg)
-Navigating the M&A process - collecting relevant data about your business, working through due diligence and negotiating with the potential buyer.
-
-### [466. Ditch the Labels and Opt for Value Instead](https://hackernoon.com/ditch-the-labels-and-opt-for-value-instead)
+### [455. Ditch the Labels and Opt for Value Instead](https://hackernoon.com/ditch-the-labels-and-opt-for-value-instead)
 ![](https://cdn.hackernoon.com/images/rucLDVUL7ahWimn1vc30lsveGZ92-nra3upe.jpeg)
 Celebrities drip with labels and are often broke. Billionaires have great quality but no visible labels. Copy the truly wealthy, not the wannabes.
 
-### [467. One Tweet, $3B Gone: Lessons for 2025 Investors](https://hackernoon.com/one-tweet-$3b-gone-lessons-for-2025-investors)
+### [456. Actions You May Want to Take in a Post Crypto Winter](https://hackernoon.com/actions-you-may-want-to-take-in-a-post-crypto-winter)
+![](https://cdn.hackernoon.com/images/sWgUkcWK6naafqrMYXQ9swM3irf2-0q93pdh.jpeg)
+The year 2022 brought a number of financial problems for investors toward the end, a period which has become known as the crypto winter of 2022.
+
+### [457. 5 Handy Apps to Power Up Your Investments in Times of Uncertainty](https://hackernoon.com/5-handy-apps-to-power-up-your-investments-in-times-of-uncertainty)
+![](https://cdn.hackernoon.com/images/8wlyTs6rS1Ns9rTwC8LtCyE03B52-jze3z6r.jpeg)
+Get the list of handy apps that will fuel your investment decisions even in the crisis period!
+
+### [458. 5 Reasons Why Getting A Bitcoin-Based Retirement Plan Makes Sense](https://hackernoon.com/5-reasons-why-getting-a-bitcoin-based-retirement-plan-makes-sense-j73033cp)
+![](https://cdn.hackernoon.com/images/C1NMxASo99bwSkaydbB9HmaaIYz1-70n3f08.jpeg)
+Instead of utilizing a normal individual retirement account, perhaps you should consider getting a bitcoin IRA. Learn how these plans can stand above the rest!
+
+### [459. Getting Exposure to Crypto: An Inside Look at 5 Different Methods](https://hackernoon.com/5-ways-to-get-started-in-crypto-a-beginners-guide)
+![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-qf93233.jpeg)
+What sets apart the conscious being that is man from all other forms of life on earth is our ability to not only plan for the future but to proactively build.. 
+
+### [460. Money Management Tips for Traders and Investors](https://hackernoon.com/money-management-tips-for-traders-and-investors-gm1g3tce)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3Rp9FdRp0URgIP72Uqw0FlphLfz1-imr3ua8.jpeg?alt=media&token=094d6e7f-f7bd-4324-9a9b-d05e30063111)
+If you want to become a trader or an investor, whether part-time to make some extra cash, or as a full-time career, you need to be able to manage your money. This is an essential skill, and one which a lot of people don’t master. This can lead to losing all of your investment capital and even have a negative impact on personal finances and issues such as family cash flow.
+
+### [461. As Bitcoin Grows, So Do Crypto Scams](https://hackernoon.com/as-bitcoin-grows-so-do-crypto-scams-p52n3ujg)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-ql243ufc.jpeg?alt=media&token=2e8452d1-38ed-4fdc-8c8b-33eab1482629)
+The amount that Bitcoin has grown in recent years is staggering. In around a decade or so, it has gone from a relatively unknown asset to an incredibly popular and valuable cryptocurrency that has made front-page headlines across the world. It has shown a lot of promise and potential in both finance and tech.
+
+### [462. Startup Acquisitions: How to Navigate an Acquisition Process as a Seller (Part 2 of 2)](https://hackernoon.com/startup-acquisitions-how-to-navigate-an-acquisition-process-as-a-seller-part-2-of-2)
+![](https://cdn.hackernoon.com/images/pymMH52jTsYYdzGWrBIJQ141UaF3-30034n6.jpeg)
+Navigating the M&A process - collecting relevant data about your business, working through due diligence and negotiating with the potential buyer.
+
+### [463. Should You Invest In Meme Coins?](https://hackernoon.com/should-you-invest-in-meme-coins)
+![](https://cdn.hackernoon.com/images/PVN1qtxyOSTgqH0W7fHB84Zowlt1-oq93gbt.jpeg)
+Find out everything you need to know about meme-based cryptocurrencies
+
+### [464. One Tweet, $3B Gone: Lessons for 2025 Investors](https://hackernoon.com/one-tweet-$3b-gone-lessons-for-2025-investors)
 ![](https://cdn.hackernoon.com/images/fRY3cnV5I9dNNupdFRsJzkQGdG02-lg03l9b.png)
 In 2025, the world feels like thin ice: U.S. elections, instability in Asia, capital digitization, disrupted supply chains. Now layer in the Trump effect.
+
+### [465. Robinhood's Double Soul: Meme Investing And Big Bucks From Wall Street  ](https://hackernoon.com/robinhoods-double-soul-meme-investing-and-big-bucks-from-wall-street-5ms353p)
+![](https://cdn.hackernoon.com/images/U6g5S4clvAfPBkwpyb7K9m2l1xf2-n1vi378x.jpeg)
+What makes up Robinhood's revenues? Now that the company is getting ready for its IPO, we can look under the hood. 
+
+### [466. How to Gain Financial Security As a Man with this 5 Safe Tips](https://hackernoon.com/how-to-gain-financial-security-as-a-man-with-this-5-safe-tips-103y3ycs)
+![](https://cdn.hackernoon.com/drafts/sa1td37d3.png)
+‘The risk comes from not knowing what you're doing,' says the rich person.
+
+### [467. Crypto's Self-Custody Revolution: Navigating Inevitable Economic Cycles in the 21st Century](https://hackernoon.com/cryptos-self-custody-revolution-navigating-inevitable-economic-cycles-in-the-21st-century)
+![](https://cdn.hackernoon.com/images/jbi5wvvYL3NbqPfwUCZ7kc3pV6a2-1a0222s.png)
+The global economy continues to exhibit patterns of boom and bust, reminiscent of historical precedents.
 
 ### [468. Guide on How to Choose Tokens for Investments](https://hackernoon.com/guide-on-how-to-choose-tokens-for-investments)
 ![](https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-3893nml.jpeg)
 Today there are too many different crypto projects on the market. This guide on how to choose tokens for investments will help you find prospective projects.
 
-### [469. Should You Invest In Meme Coins?](https://hackernoon.com/should-you-invest-in-meme-coins)
-![](https://cdn.hackernoon.com/images/PVN1qtxyOSTgqH0W7fHB84Zowlt1-oq93gbt.jpeg)
-Find out everything you need to know about meme-based cryptocurrencies
-
-### [470. Buy Time is About to be Over Soon: Anticipating the Bitcoin Halving ](https://hackernoon.com/buy-time-is-about-to-be-over-soon-anticipating-the-bitcoin-halving)
+### [469. Buy Time is About to be Over Soon: Anticipating the Bitcoin Halving ](https://hackernoon.com/buy-time-is-about-to-be-over-soon-anticipating-the-bitcoin-halving)
 ![](https://cdn.hackernoon.com/images/7XySryL7eBZuFZKjRrt7WZ4k61G3-5093ubx.jpeg)
 Lots of my friends ask me for crypto tips and there's only so many things I can tell on a vocabulary basis. Hope this story will help you understand crypto
 
-### [471. Generation z Becomes Financially Independent - Investment Behavior](https://hackernoon.com/generation-z-becomes-financially-independent-investment-behavior)
-![](https://cdn.hackernoon.com/images/PVN1qtxyOSTgqH0W7fHB84Zowlt1-ue93p3y.jpeg)
-GenZ place a higher premium on a firm's stated goals. In this article, we’ll discuss how Gen Z investors invest their money and what are their specifics.
+### [470. Fundraising in the Crypto Sector](https://hackernoon.com/fundraising-in-the-crypto-sector)
+![](https://cdn.hackernoon.com/images/vKrVt5KoiNdXYifBHJkuQsEsi7F2-la93x0g.jpeg)
+10 recent investments in the crypto market 
 
-### [472. AI Automated Investing: Friend Or Foe?](https://hackernoon.com/ai-automated-investing-friend-or-foe)
+
+### [471. Spot Ether EFTs Top $1 Billion in Volume But Bitcoin Comparisons Could be Short-Lived](https://hackernoon.com/spot-ether-efts-top-$1-billion-in-volume-but-bitcoin-comparisons-could-be-short-lived)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-5n835au.jpeg)
+Is the ETH ETF’s performance a statement of intent or a flash in the pan? 
+
+### [472. Is the World Ready for a Trustless Economy?](https://hackernoon.com/is-the-world-ready-for-a-trustless-economy)
+![](https://cdn.hackernoon.com/images/KdLcZRM9ufXhHJgOghOg1qfq8q02-7kb3ub6.jpeg)
+Trust is a powerful word and a difficult sentiment to feel nowadays, especially in the context of finance. 
+
+### [473. AI Automated Investing: Friend Or Foe?](https://hackernoon.com/ai-automated-investing-friend-or-foe)
 ![](https://cdn.hackernoon.com/images/ky6HWvfhfoZE0fBExBIhhok81De2-0l03i49.jpeg)
 Trust in AI-powered automated trading tools has surged in recent years, with around 49 percent of Americans using robo-advisors.
 
-### [473. Capitalising on Opportunities: The Primary Ways To Finance Your Business](https://hackernoon.com/seven-benefits-of-embracing-venture-capital-funding-to-boost-your-startup-ono3266)
-![](https://cdn.hackernoon.com/drafts/a41j3zx7.png)
-To borrow or not to borrow. That’s a question only you will know the answer to. 
-
-### [474. Is the World Ready for a Trustless Economy?](https://hackernoon.com/is-the-world-ready-for-a-trustless-economy)
-![](https://cdn.hackernoon.com/images/KdLcZRM9ufXhHJgOghOg1qfq8q02-7kb3ub6.jpeg)
-Trust is a powerful word and a difficult sentiment to feel nowadays, especially in the context of finance. 
+### [474. Generation z Becomes Financially Independent - Investment Behavior](https://hackernoon.com/generation-z-becomes-financially-independent-investment-behavior)
+![](https://cdn.hackernoon.com/images/PVN1qtxyOSTgqH0W7fHB84Zowlt1-ue93p3y.jpeg)
+GenZ place a higher premium on a firm's stated goals. In this article, we’ll discuss how Gen Z investors invest their money and what are their specifics.
 
 ### [475. Lifestyle of the Fed and Famous — How Bitcoin is Here to Set You Free](https://hackernoon.com/lifestyle-of-the-fed-and-famous-how-bitcoin-is-here-to-set-you-free)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-qo92gs9.jpeg)
 Alone Against the Current System, You Don’t Stand a Chance. Bitcoin Is a Game-Changer, Allowing People to Unite in a Peaceful Struggle.
 
-### [476. Safe is the New Risky: Old Investments May Not Be What You Think ](https://hackernoon.com/safe-is-the-new-risky-a-good-job-doesnt-guarantee-financial-security-zv2i34fw)
+### [476. Capitalising on Opportunities: The Primary Ways To Finance Your Business](https://hackernoon.com/seven-benefits-of-embracing-venture-capital-funding-to-boost-your-startup-ono3266)
+![](https://cdn.hackernoon.com/drafts/a41j3zx7.png)
+To borrow or not to borrow. That’s a question only you will know the answer to. 
+
+### [477. Safe is the New Risky: Old Investments May Not Be What You Think ](https://hackernoon.com/safe-is-the-new-risky-a-good-job-doesnt-guarantee-financial-security-zv2i34fw)
 ![](https://cdn.hackernoon.com/images/1qb0KulDoUfADdRpbl5K7dD6aWL2-732031kf.jpeg)
 Your grandfather’s investment advice may not make sense in 2020
 
-### [477. An Intro to Metaverse Venture Capital](https://hackernoon.com/an-intro-to-metaverse-venture-capital)
-![](https://cdn.hackernoon.com/images/Ah2jLzMePieEW0CzYzRXo6GsVyA3-d86d37lg.jpeg)
-The metaverse represents a hot topic for investors but for many smaller venture funds and family offices there’s a lack of understanding of the opportunity.
-
-### [478. Fundraising in the Crypto Sector](https://hackernoon.com/fundraising-in-the-crypto-sector)
-![](https://cdn.hackernoon.com/images/vKrVt5KoiNdXYifBHJkuQsEsi7F2-la93x0g.jpeg)
-10 recent investments in the crypto market 
-
-
-### [479. General Motor's Claims To Commercialise the Most Innovative Battery Technology](https://hackernoon.com/general-motors-claims-to-commercialise-the-most-innovative-battery-technology-ft1c316x)
+### [478. General Motor's Claims To Commercialise the Most Innovative Battery Technology](https://hackernoon.com/general-motors-claims-to-commercialise-the-most-innovative-battery-technology-ft1c316x)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FUGLvpTQipRZCtuLDCZh9wdLR5d12-vm3i3wre.jpeg?alt=media&token=2c1c17ae-f996-4b47-981f-cb07ef07432c)
 GM has made the much-overlooked claim that by mid-decade, it expects to commercialize the most exotic of the stretch futuristic batteries currently on electric vehicle drawing boards.
+
+### [479. Pros and Cons of Venture Capital for Startups and their Founders](https://hackernoon.com/pros-and-cons-of-venture-capital-for-startups-and-their-founders)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-4993y8s.jpeg)
+3 reasons to seek venture capital financing and 3 reasons why you should not get VC
 
 ### [480. Thulani Introduction: Slack Bot For Investment Management](https://hackernoon.com/thulani-introduction-slack-bot-for-investment-management-69313u63)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FENP9WKWOYnTFnQBNTm9NM5X8fHp1-zn3i3exg.gif?alt=media&token=af5f0c86-05ac-4cf0-94d4-7aeaa8890f50)
 This is the story of Thulani, a chatbot I designed to make my life easier and also help me understand ChatOps more. I wish there was more to it than that, I really do, but this post is a guide to what tools and resources I used to understand chat ops more, and how you can use chatbots to solve (hopefully better) problems.
 
-### [481. Spot Ether EFTs Top $1 Billion in Volume But Bitcoin Comparisons Could be Short-Lived](https://hackernoon.com/spot-ether-efts-top-$1-billion-in-volume-but-bitcoin-comparisons-could-be-short-lived)
-![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-5n835au.jpeg)
-Is the ETH ETF’s performance a statement of intent or a flash in the pan? 
-
-### [482. The 11 Ways to Lose Time and Money With Bitcoin (and How to Prevent It)](https://hackernoon.com/the-11-ways-to-lose-time-and-money-with-bitcoin-and-how-to-prevent-it)
+### [481. The 11 Ways to Lose Time and Money With Bitcoin (and How to Prevent It)](https://hackernoon.com/the-11-ways-to-lose-time-and-money-with-bitcoin-and-how-to-prevent-it)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9392gsk.jpeg)
 It's all about knowledge. Knowledge will give you total confidence in Bitcoin. Bitcoin will allow you to take power over your life.
 
-### [483. Why Institutional Investors Need Advanced AI](https://hackernoon.com/why-institutional-investors-need-advanced-ai-7xo37pd)
-![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-n5935ao.jpeg)
-While we are experiencing a great deal of AI disruptions in several industries, the movement is facing a bit of resistance in the investment landscape. 
+### [482. Platinum Joins Gold and Bitcoin in Investors’ Flight to Security](https://hackernoon.com/platinum-joins-gold-and-bitcoin-in-investors-flight-to-security)
+![](https://cdn.hackernoon.com/images/ZTTHMznNpOU8E23w6ngIBTrJYyG2-1a03e62.png)
+Bitcoin, Gold... Platinum? Discover why this industrial precious metal could complete the ultimate trifecta for a modern, resilient investment portfolio.
 
-### [484. Trading Range: Finding Your Next Runners](https://hackernoon.com/trading-range-finding-your-next-runners-sq383w65)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-fp103t89.jpeg?alt=media&token=b115a67f-3168-47ff-a5a7-af11439c7461)
-Ask traders how they find the next breakout move, the next runner that’s going to skyrocket to +2000% profit. They’ll likely spout a bunch of technical indicators, screeners, Bollinger Bands, RSI, Stochastic Indicators… the list could go on. Before we even get to these tools, we first need to understand what the stock is breaking out from. So without further ado, here is your lesson on Trading Range.
-
-### [485. Five Bear Market Rules That Actually Matter in 2025 and Beyond](https://hackernoon.com/five-bear-market-rules-that-actually-matter-in-2025-and-beyond)
-![](https://cdn.hackernoon.com/images/KdxIkokpteVJvzOsFbfFp93R4qf2-2q13aie.png)
-Learn 5 essential rules to survive and profit in 2025’s bear market as rates drop, valuations stay high, and uncertainty dominates.
-
-### [486. Pros and Cons of Venture Capital for Startups and their Founders](https://hackernoon.com/pros-and-cons-of-venture-capital-for-startups-and-their-founders)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-4993y8s.jpeg)
-3 reasons to seek venture capital financing and 3 reasons why you should not get VC
-
-### [487. The HackerNoon Newsletter: The Next Frontier of Passive investing (10/13/2024)](https://hackernoon.com/10-13-2024-hackernoon-newsletter)
-![](https://cdn.hackernoon.com/images/hackernoon_newsletter_387_j18bzok60oa57t82lgapgang.png)
-10/13/2024: Top 5 stories on the HackerNoon homepage!
-
-### [488. Raising Funds for Blockchain Projects is a Long and Winding Road](https://hackernoon.com/raising-funds-for-blockchain-projects-is-a-long-and-winding-road)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-2vbs3o6x.jpeg)
-Raising funding for blockchain projects presents many challenges. This article lists some of them. 
-
-### [489. Shorts, Options, and Memes: How Redditors Cost Hedge Funds Billions](https://hackernoon.com/shorts-options-and-memes-how-redditors-cost-hedge-funds-billions-xd2033s0)
-![](https://cdn.hackernoon.com/images/QdRQJW6V96b8SQtJgBmzVkZNOfl2-x9e337l.jpeg)
-In January 2021, GameStop (GME) stock rose from $18 to a peak of $483. GME stock was chosen by anonymous users on Reddit to punish billion-dollar hedge funds.
-
-### [490. The Technology Behind Automated Trading: How Does it Help Investors?](https://hackernoon.com/the-technology-behind-automated-trading-how-does-it-help-investors)
+### [483. The Technology Behind Automated Trading: How Does it Help Investors?](https://hackernoon.com/the-technology-behind-automated-trading-how-does-it-help-investors)
 ![](https://cdn.hackernoon.com/images/QZw3EhFLx9W36rx22pz1XqKKm382-vd93tv3.jpeg)
 The practice of automated trading has become increasingly dominant throughout the digital age, even within more traditional markets.
 
-### [491. Investing in Optimism: Exploring The Ways to Invest as Markets Rally on Hope of Covid Vaccine](https://hackernoon.com/investing-in-optimism-exploring-the-ways-to-invest-as-markets-rally-on-hope-of-covid-vaccine-xrj3z4j)
+### [484. Why Institutional Investors Need Advanced AI](https://hackernoon.com/why-institutional-investors-need-advanced-ai-7xo37pd)
+![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-n5935ao.jpeg)
+While we are experiencing a great deal of AI disruptions in several industries, the movement is facing a bit of resistance in the investment landscape. 
+
+### [485. Trading Range: Finding Your Next Runners](https://hackernoon.com/trading-range-finding-your-next-runners-sq383w65)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FAFdrLyjc06OKQAxAM3HvkuMgwia2-fp103t89.jpeg?alt=media&token=b115a67f-3168-47ff-a5a7-af11439c7461)
+Ask traders how they find the next breakout move, the next runner that’s going to skyrocket to +2000% profit. They’ll likely spout a bunch of technical indicators, screeners, Bollinger Bands, RSI, Stochastic Indicators… the list could go on. Before we even get to these tools, we first need to understand what the stock is breaking out from. So without further ado, here is your lesson on Trading Range.
+
+### [486. The HackerNoon Newsletter: The Next Frontier of Passive investing (10/13/2024)](https://hackernoon.com/10-13-2024-hackernoon-newsletter)
+![](https://cdn.hackernoon.com/images/hackernoon_newsletter_387_j18bzok60oa57t82lgapgang.png)
+10/13/2024: Top 5 stories on the HackerNoon homepage!
+
+### [487. Investing in Optimism: Exploring The Ways to Invest as Markets Rally on Hope of Covid Vaccine](https://hackernoon.com/investing-in-optimism-exploring-the-ways-to-invest-as-markets-rally-on-hope-of-covid-vaccine-xrj3z4j)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaBxCRG4PdBeC4Gw5xSpatovTWXC2-uu123w6c.jpeg?alt=media&token=9bbbccb8-2528-4ecc-8e02-2934f506f303)
 Disclaimer: Trading and investing involves risk. This is not an endorsement to invest in stocks and companies or trade via platforms mentioned in this article. Trade at your own risk. 
 
-### [492. Psychology of the Banana Zone](https://hackernoon.com/psychology-of-the-banana-zone)
+### [488. Psychology of the Banana Zone](https://hackernoon.com/psychology-of-the-banana-zone)
 ![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-3h239pe.jpeg)
 Bitcoin's spent 6 months in the banana zone. How long until you split?
 
-### [493. Financial Literacy 101: How to grow wings](https://hackernoon.com/is-this-what-you-need-financial-literacy-101)
+### [489. Raising Funds for Blockchain Projects is a Long and Winding Road](https://hackernoon.com/raising-funds-for-blockchain-projects-is-a-long-and-winding-road)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-2vbs3o6x.jpeg)
+Raising funding for blockchain projects presents many challenges. This article lists some of them. 
+
+### [490. Shorts, Options, and Memes: How Redditors Cost Hedge Funds Billions](https://hackernoon.com/shorts-options-and-memes-how-redditors-cost-hedge-funds-billions-xd2033s0)
+![](https://cdn.hackernoon.com/images/QdRQJW6V96b8SQtJgBmzVkZNOfl2-x9e337l.jpeg)
+In January 2021, GameStop (GME) stock rose from $18 to a peak of $483. GME stock was chosen by anonymous users on Reddit to punish billion-dollar hedge funds.
+
+### [491. Why Obsessing Over Crypto Headlines Is a Dangerous Investment Habit](https://hackernoon.com/why-obsessing-over-crypto-headlines-is-a-dangerous-investment-habit)
+![](https://cdn.hackernoon.com/images/RrXJtkPPKZWNRCuHlWJyINqGIZ72-t58328s.jpeg)
+Review of dangers of fixating solely on crypto headlines and explores why a nuanced understanding of market dynamics is important for savvy investment
+
+### [492. Financial Literacy 101: How to grow wings](https://hackernoon.com/is-this-what-you-need-financial-literacy-101)
 ![](https://cdn.hackernoon.com/images/pI5unmaGnoOKF4lvJjsDPE7a2VH2-jq135du.jpeg)
 Savings are very much interlinked with mindful spending. Read on to master the art of spending money properly.
+
+### [493. The Top 11 Things to AVOID in Crypto  ](https://hackernoon.com/the-top-11-things-to-avoid-in-crypto)
+![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-68k32rw.jpeg)
+Success in life is defined as much by the actions that we take as it is by the actions that we avoid.
 
 ### [494. How to Increase Your Portfolio Returns by up to 30% By Making Investment Decisions as a Community](https://hackernoon.com/how-to-increase-your-portfolio-returns-by-up-to-30percent-by-making-investment-decisions-as-a-community)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-pm93z89.jpeg)
 What’s better for a crypto investor’s ROI: building a portfolio alone or making decisions after a group discussion? 
 
-### [495. Why Obsessing Over Crypto Headlines Is a Dangerous Investment Habit](https://hackernoon.com/why-obsessing-over-crypto-headlines-is-a-dangerous-investment-habit)
-![](https://cdn.hackernoon.com/images/RrXJtkPPKZWNRCuHlWJyINqGIZ72-t58328s.jpeg)
-Review of dangers of fixating solely on crypto headlines and explores why a nuanced understanding of market dynamics is important for savvy investment
-
-### [496. Green Real Estate Project Qlindo Debuts on MEXC](https://hackernoon.com/green-real-estate-project-qlindo-debuts-on-mexc)
+### [495. Green Real Estate Project Qlindo Debuts on MEXC](https://hackernoon.com/green-real-estate-project-qlindo-debuts-on-mexc)
 ![](https://cdn.hackernoon.com/images/jEm0Gsq7mQUHLJ0ZGe4cAf9jPvU2-lfa2p11.jpeg)
 Qlindo, the innovative project making waves in sustainable investing, announces its listing on the MEXC Exchange on May 31, 2023.
 
-### [497. The Top 11 Things to AVOID in Crypto  ](https://hackernoon.com/the-top-11-things-to-avoid-in-crypto)
-![](https://cdn.hackernoon.com/images/OYD3SUIXshanW9XAmljvgTdQKuB3-68k32rw.jpeg)
-Success in life is defined as much by the actions that we take as it is by the actions that we avoid.
-
-### [498. Private Equity vs. Public Markets: What's Next for Technology in PE?](https://hackernoon.com/private-equity-vs-public-markets-whats-next-for-technology-in-pe-lk3a3ymq)
+### [496. Private Equity vs. Public Markets: What's Next for Technology in PE?](https://hackernoon.com/private-equity-vs-public-markets-whats-next-for-technology-in-pe-lk3a3ymq)
 ![](https://cdn.hackernoon.com/images/uc7c3ybg.jpg)
 Over the past decade, private equity has seen outstanding returns and levels of interest from investors, moreso than public market index funds and even managed funds. This interest has amalgamated into the form of $2 trillion invested into private equity over the past decade, and that's a strong contrast against investor allocation in the public markets.
+
+### [497. Dollar-Cost Averaging Into Crypto: Why To Get Started Now](https://hackernoon.com/dollar-cost-averaging-into-crypto-why-to-get-started-now)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-as03ngg.jpeg)
+
+
+### [498. SIPP vs Workplace Pension: What's the Smarter Move This Tax Year?](https://hackernoon.com/sipp-vs-workplace-pension-whats-the-smarter-move-this-tax-year)
+![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-9e03d3q.jpeg)
+Choosing the right pension scheme early could leave you thousands of pounds better off when you are ready to retire, ensuring you enjoy your golden years.
 
 ### [499. Is Nvidia Still the Stock in Q3 That the Generative AI Boom Has Led Us to Believe? ](https://hackernoon.com/is-nvidia-still-the-stock-in-q3-that-the-generative-ai-boom-has-led-us-to-believe)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-vs035zb.png)
 Nvidia’s stock has continued to slide alongside wider market slowdowns in the US. With this in mind, should investors be worried?
 
-### [500. Dollar-Cost Averaging Into Crypto: Why To Get Started Now](https://hackernoon.com/dollar-cost-averaging-into-crypto-why-to-get-started-now)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-as03ngg.jpeg)
-
+### [500. Opportunities with Leveraged Products in DeFi](https://hackernoon.com/opportunities-with-leveraged-products-in-defi)
+![](https://cdn.hackernoon.com/images/2PnTLaOkSZQiuagecBJGeZipkSp1-7k93csn.jpeg)
+DeFi (decentralized finance) allows operating with leveraged products in a more agile, flexible way and with fewer requirements though not with less risk.
 

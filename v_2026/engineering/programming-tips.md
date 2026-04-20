@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [programming-tips](https://hackernoon.com/tagged/programming-tips)
+### Let's learn about [Programming Tips](https://hackernoon.com/tagged/programming-tips) via these 193 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Programming tips offer practical advice, shortcuts, and best practices for writing efficient, clean, and maintainable code. These insights help developers improve their coding quality, speed, and overall productivity.
+
 ### [1. How to Implement Trie (Prefix Tree) - Blind 75 LeetCode Questions](https://hackernoon.com/how-to-implement-trie-prefix-tree-blind-75-leetcode-questions)
 ![](https://cdn.hackernoon.com/images/e2lhyGaGa6ZVTWmBikAWsw2Fj0O2-iw93ocu.jpeg)
 A trie (pronounced as “try”) or prefix tree is a tree data structure used to efficiently store and retrieve keys in a dataset of strings.
@@ -160,25 +164,25 @@ You will require coding skills if you want to work in the field of artificial in
 ![](https://cdn.hackernoon.com/images/L1ya8SZKyEUzHtKDbBhqyR6s2HI2-he93oe8.jpeg)
 My best practice from making a real-time high loaded performance application on .NET platform
 
-### [40. Exploring Async Laziness in C#: Balancing Power with Responsibility](https://hackernoon.com/exploring-async-laziness-in-c-balancing-power-with-responsibility)
-![](https://cdn.hackernoon.com/images/lines-of-sample-c-code-displayed-on-a-laptop-screen-loh1ifwm1ljv13ts5ibp7ucm.png)
-In C#, how can we balance asynchrony and laziness? Is there such a thing as async lazy? Let's explore our options built into dotnet!
-
-### [41. Mastering the PHP GD Library - Part 1: Generating an Image ](https://hackernoon.com/generating-an-image-using-the-php-gd-library-part-1)
+### [40. Mastering the PHP GD Library - Part 1: Generating an Image ](https://hackernoon.com/generating-an-image-using-the-php-gd-library-part-1)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-vi93pid.jpeg)
 PHP GD is a library that performs fantastic tasks that helps you to do several things with your image. 
+
+### [41. Exploring Async Laziness in C#: Balancing Power with Responsibility](https://hackernoon.com/exploring-async-laziness-in-c-balancing-power-with-responsibility)
+![](https://cdn.hackernoon.com/images/lines-of-sample-c-code-displayed-on-a-laptop-screen-loh1ifwm1ljv13ts5ibp7ucm.png)
+In C#, how can we balance asynchrony and laziness? Is there such a thing as async lazy? Let's explore our options built into dotnet!
 
 ### [42. A Comprehensive Guide for Handling Errors in Rust](https://hackernoon.com/a-comprehensive-guide-for-handling-errors-in-rust)
 ![](https://cdn.hackernoon.com/images/54vylua2YtYdEoJpg49EIHoURa22-7b92hp9.jpeg)
 This article address how errors are handled with the Rust programming language. 
 
-### [43. C++ Metaprogramming: Compilation of Calculations, from Basic Techniques to Advanced Methods](https://hackernoon.com/c-metaprogramming-compilation-of-calculations-from-basic-techniques-to-advanced-methods)
-![](https://cdn.hackernoon.com/images/OghJQM6nrhg4aid4Zstq3IKtY7o1-fi039jm.jpeg)
-Discover how to leverage templates and constexpr in modern C++ for faster, safer compile-time calculations. Uncover practical tips, pitfalls, and best practices
-
-### [44. Understanding Python Memory Efficiency: Tuples vs. Lists](https://hackernoon.com/understanding-python-memory-efficiency-tuples-vs-lists)
+### [43. Understanding Python Memory Efficiency: Tuples vs. Lists](https://hackernoon.com/understanding-python-memory-efficiency-tuples-vs-lists)
 ![](https://cdn.hackernoon.com/images/Za3QtTvBFDSxRQKeQkur9mQWXt83-pm43xym.png)
 Learn why tuples are more memory-efficient than lists in Python. Explore memory usage, immutability benefits, and real-life applications for optimization.
+
+### [44. C++ Metaprogramming: Compilation of Calculations, from Basic Techniques to Advanced Methods](https://hackernoon.com/c-metaprogramming-compilation-of-calculations-from-basic-techniques-to-advanced-methods)
+![](https://cdn.hackernoon.com/images/OghJQM6nrhg4aid4Zstq3IKtY7o1-fi039jm.jpeg)
+Discover how to leverage templates and constexpr in modern C++ for faster, safer compile-time calculations. Uncover practical tips, pitfalls, and best practices
 
 ### [45. Top 10 Android Studio Tips and Tricks for Faster Development](https://hackernoon.com/top-10-android-studio-tips-and-tricks-for-faster-development)
 ![](https://cdn.hackernoon.com/images/wpvXFGHGEBfULhtpljrFYq9VmDJ3-91a3qv6.jpeg)
@@ -208,17 +212,17 @@ An engineer with a deep understanding of algorithms and data structures will be 
 ![](https://cdn.hackernoon.com/images/E4fOkGKE4ef5TCdpSC8al55DmLm2-2u9285i.jpeg)
 Linux is one of the best-known and most used operating systems in the world. Here are 6 essential commands which can make you better at using Linux systems.
 
-### [52. Exploring the Practical Applications of Reflection in C#](https://hackernoon.com/exploring-the-practical-applications-of-reflection-in-c)
+### [52. Avoiding Software Bottlenecks: Understanding the 'God Object' Anti-Pattern](https://hackernoon.com/avoiding-software-bottlenecks-understanding-the-god-object-anti-pattern)
+![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-hk034tx.webp)
+Avoid software bottlenecks by understanding the 'God Object' anti-pattern in object-oriented programming. Learn its impacts, examples, and best practices.
+
+### [53. Exploring the Practical Applications of Reflection in C#](https://hackernoon.com/exploring-the-practical-applications-of-reflection-in-c)
 ![](https://cdn.hackernoon.com/images/XCbLxne4HhcBPlbrrFbTNz5DUGv1-om93p3f.jpeg)
 Reflection makes a lot of confusion for the C# developers when it comes to the question of the real-life practical use of it. This article shows how to do that.
 
-### [53. Building a Currency Converter in Flutter](https://hackernoon.com/building-a-currency-converter-in-flutter)
+### [54. Building a Currency Converter in Flutter](https://hackernoon.com/building-a-currency-converter-in-flutter)
 ![](https://cdn.hackernoon.com/images/currency-converter-lwgqf8u5zbwbkpwnpyyifyrp.png)
 In this article, we will be building a currency converter application in Flutter.
-
-### [54. Avoiding Software Bottlenecks: Understanding the 'God Object' Anti-Pattern](https://hackernoon.com/avoiding-software-bottlenecks-understanding-the-god-object-anti-pattern)
-![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-hk034tx.webp)
-Avoid software bottlenecks by understanding the 'God Object' anti-pattern in object-oriented programming. Learn its impacts, examples, and best practices.
 
 ### [55. Understanding Kernel Memory Allocation using Buddy and Slab Systems](https://hackernoon.com/understanding-kernel-memory-allocation-using-buddy-and-slab-systems)
 ![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-vya3pd3.jpeg)
@@ -256,25 +260,25 @@ How Programming and Technology Are Changing the World
 ![](https://cdn.hackernoon.com/images/database-v6kqg3t2kobh99tliwwsu86f.png)
 In this article, we will see how can we perform crud operations with MySQL database using JDBC.
 
-### [64. How DevOps Evolved Into DevSecOps](https://hackernoon.com/how-devops-evolved-into-devsecops)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1v92ar7.jpeg)
-The rise in cybercrime and the sophistication of attacks has made security a crucial part of the development process and not just an afterthought. 
-
-### [65. How To Create 3D Materials With Shader Programming Using FireMonkey](https://hackernoon.com/how-to-create-3d-materials-with-shader-programming-using-firemonkey-1r8t358y)
+### [64. How To Create 3D Materials With Shader Programming Using FireMonkey](https://hackernoon.com/how-to-create-3d-materials-with-shader-programming-using-firemonkey-1r8t358y)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-2f5u35rz.jpeg)
 This post focuses on creating materials in 3D with the Delphi FireMonkey framework. Shaders give your programs the ability to take full advantage of the GPU.
+
+### [65. How DevOps Evolved Into DevSecOps](https://hackernoon.com/how-devops-evolved-into-devsecops)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-1v92ar7.jpeg)
+The rise in cybercrime and the sophistication of attacks has made security a crucial part of the development process and not just an afterthought. 
 
 ### [66. Advanced Tricks in React Native Programming for Mobile Development](https://hackernoon.com/advanced-tricks-in-react-native-programming-for-mobile-development)
 ![](https://cdn.hackernoon.com/images/rqSZjnOmxMTt3bDGw2yUD21lTzj2-km83x0f.jpeg)
 Discover lesser-known React Native tricks & advanced techniques to elevate app development. Unleash its full potential in mobile innovation!
 
-### [67. Demystifying SOLID Programming (Part 1): Single Responsibility Principle](https://hackernoon.com/demystifying-solid-programming-part-1-single-responsibility-principle)
-![](https://cdn.hackernoon.com/images/rjEfNJmRsHbRtEujPZtEwxsM1vb2-p993qpf.jpeg)
-We dive deep into the first principle of SOLID programming, the Single responsible principle. It states "A class should have one and only one reason to change"
-
-### [68. How to Embed Content in HTML](https://hackernoon.com/how-to-embed-content-in-html)
+### [67. How to Embed Content in HTML](https://hackernoon.com/how-to-embed-content-in-html)
 ![](https://cdn.hackernoon.com/images/FpKROxxtLBRmSsCCb4lxCS7LBVr2-2193ulw.jpeg)
 Embedding refers to integrating external content on your webpage like images, videos, etc. Learn the history of embedding and how to embed content on a website 
+
+### [68. Demystifying SOLID Programming (Part 1): Single Responsibility Principle](https://hackernoon.com/demystifying-solid-programming-part-1-single-responsibility-principle)
+![](https://cdn.hackernoon.com/images/rjEfNJmRsHbRtEujPZtEwxsM1vb2-p993qpf.jpeg)
+We dive deep into the first principle of SOLID programming, the Single responsible principle. It states "A class should have one and only one reason to change"
 
 ### [69. The Hidden Cost of Over-Engineering (and How to Stop Yourself)](https://hackernoon.com/the-hidden-cost-of-over-engineering-and-how-to-stop-yourself)
 ![](https://cdn.hackernoon.com/images/cKs78lxUwmhmmdj8AyccPMXHSzJ3-ot1340l.webp)
@@ -316,37 +320,37 @@ The most important Data structures explained in code for cracking the coding int
 ![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-gr03gzz.jpeg)
 In this article, I have handpicked 16 commands to set up your React apps in seconds.
 
-### [78. 5 Repeatable Steps I Follow to Solve Almost Any Coding Problem](https://hackernoon.com/5-repeatable-steps-i-follow-to-solve-almost-any-coding-problem-83293u9e)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgFu8VrqJPmQedqTJrWTKvZ5oJhZ2-rr2d3u59.jpeg?alt=media&token=48fbb4c7-d931-45f8-8748-b482960681b9)
-Every programming problem involves some kind of algorithm. An algorithm, in this sense, is a process or set of steps to accomplish a certain tasks; or simply a step-by-step way to solve a problem. There are about 700 programming languages. (Seriously: Here's a list.) So, what to learn and why to learn it - that's what most people are stuck on. From my perspective, you can (and should) choose learn any language. Learning the basics of one on-demand programming language will do you no harm. But: you must select ONE language that becomes your magic spell, and you should always be ready to create something out of it. Learning varieties of languages and not being able to do anything really well is like a curse. 
-
-### [79. Why Your Data has Most Likely Been Stolen and What Can You Do About It](https://hackernoon.com/why-your-data-has-most-likely-been-stolen-and-what-can-you-do-about-it-xc2g32f8)
-![](https://cdn.hackernoon.com/drafts/xa22327z.png)
-I used to consider myself pretty knowledgable about the cyber-world, but then I started learning about cyber-security and reading reports by companies like Shape Security, IBM and Snyk.
-
-### [80. Accessing the Record Type in C# for Earlier .NET Versions](https://hackernoon.com/accessing-the-record-type-in-c-for-earlier-net-versions)
+### [78. Accessing the Record Type in C# for Earlier .NET Versions](https://hackernoon.com/accessing-the-record-type-in-c-for-earlier-net-versions)
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-nq93ohh.jpeg)
 Are you stuck on earlier versions of .NET but want to get your hands on the hot new record types? Fear not! Check out this simple solution to simplify things!
 
-### [81. 31 Lessons Learned From 10,000 Hours of Programming](https://hackernoon.com/31-lessons-learned-from-10000-hours-of-programming-la4z37mv)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-j04x3740.jpeg)
-Well, I'm certainly not a world-class expert, but I have put my 10,000 hours of deliberate practice into programming.
+### [79. 5 Repeatable Steps I Follow to Solve Almost Any Coding Problem](https://hackernoon.com/5-repeatable-steps-i-follow-to-solve-almost-any-coding-problem-83293u9e)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FgFu8VrqJPmQedqTJrWTKvZ5oJhZ2-rr2d3u59.jpeg?alt=media&token=48fbb4c7-d931-45f8-8748-b482960681b9)
+Every programming problem involves some kind of algorithm. An algorithm, in this sense, is a process or set of steps to accomplish a certain tasks; or simply a step-by-step way to solve a problem. There are about 700 programming languages. (Seriously: Here's a list.) So, what to learn and why to learn it - that's what most people are stuck on. From my perspective, you can (and should) choose learn any language. Learning the basics of one on-demand programming language will do you no harm. But: you must select ONE language that becomes your magic spell, and you should always be ready to create something out of it. Learning varieties of languages and not being able to do anything really well is like a curse. 
 
-### [82. Best Programming Languages to Learn in 2022](https://hackernoon.com/best-programming-languages-to-learn-in-2022)
+### [80. Why Your Data has Most Likely Been Stolen and What Can You Do About It](https://hackernoon.com/why-your-data-has-most-likely-been-stolen-and-what-can-you-do-about-it-xc2g32f8)
+![](https://cdn.hackernoon.com/drafts/xa22327z.png)
+I used to consider myself pretty knowledgable about the cyber-world, but then I started learning about cyber-security and reading reports by companies like Shape Security, IBM and Snyk.
+
+### [81. Best Programming Languages to Learn in 2022](https://hackernoon.com/best-programming-languages-to-learn-in-2022)
 ![](https://cdn.hackernoon.com/images/2URpjmJLkjVeYGsWZeCo2hCb90Y2-cz73d9u.jpeg)
 A look at an average pay scale and the future demand for each of the programming languages available today and made a list of the top five languages.
+
+### [82. 31 Lessons Learned From 10,000 Hours of Programming](https://hackernoon.com/31-lessons-learned-from-10000-hours-of-programming-la4z37mv)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-j04x3740.jpeg)
+Well, I'm certainly not a world-class expert, but I have put my 10,000 hours of deliberate practice into programming.
 
 ### [83. How Competitive Programming can Help with Tech Interviews](https://hackernoon.com/how-competitive-programming-can-help-with-tech-interviews)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-eo93qs8.jpeg)
 We will make an effort to comprehend the significance of competitive programming (CP) and whether or not it will be useful for your technical interview.
 
-### [84. Cracking 3 Python Easter Eggs](https://hackernoon.com/cracking-3-python-easter-eggs)
-![](https://cdn.hackernoon.com/images/beautiful-and-mysterious-easter-eggs-with-monty-python-and-a-snake-in-the-background-digital-art-claxzytim000001s625ufftmk.png)
-Python lessons for beginner and advanced level at the same time
-
-### [85. Free API Solutions for Automated Google Search](https://hackernoon.com/free-api-solutions-for-automated-google-search)
+### [84. Free API Solutions for Automated Google Search](https://hackernoon.com/free-api-solutions-for-automated-google-search)
 ![](https://cdn.hackernoon.com/images/e3vbRaRQwpRsYcMCRQUv2UxxKVw2-6593skv.jpeg)
  OpenSERP that supports multiple search engines (Google, Yandex, Baidu), can be deployed on your hardware and helps you avoid being bound to a paid 3rd-party. 
+
+### [85. Cracking 3 Python Easter Eggs](https://hackernoon.com/cracking-3-python-easter-eggs)
+![](https://cdn.hackernoon.com/images/beautiful-and-mysterious-easter-eggs-with-monty-python-and-a-snake-in-the-background-digital-art-claxzytim000001s625ufftmk.png)
+Python lessons for beginner and advanced level at the same time
 
 ### [86. Why You Shouldn’t Be Afraid of Rebases in Git](https://hackernoon.com/why-you-shouldnt-be-afraid-of-rebases-in-git)
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-zn92duv.jpeg)
@@ -356,29 +360,29 @@ Rebases are a way of making your crude commit history into something you’ll wa
 ![](https://cdn.hackernoon.com/images/pHQHbtgThhUkrohWQuWYt8jdknD2-6f139t3.jpeg)
 Reading the manual is a habit that every software engineer needs in order to perform well. Save hours of trial and error.
 
-### [88. 24 HTML Attributes You Want to Use ✨📚](https://hackernoon.com/24-html-attributes-you-want-to-use)
-![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-tx23gm7.jpeg)
-A review of some of the HTML attributes you might want to use.
+### [88. How to Understand Any Codebase in 5 Minutes Using an AI Coding Assistant](https://hackernoon.com/how-to-understand-any-codebase-in-5-minutes-using-an-ai-coding-assistant)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-wz0235i.jpeg)
+Learn how to understand a complex codebase in minutes using AI coding assistants. Step by Step guide using AI Tools.
 
 ### [89. Mastering the PHP GD Library - Part 2: Generating A Watermark](https://hackernoon.com/generating-a-watermark-image-using-php-gd-library-part-2)
 ![](https://cdn.hackernoon.com/images/glJc8wR7pPZxszJ5nouCekLyfcA2-noa2fa4.jpeg)
 I used PHP GD to create, and generate watermark images! Also if you want to know the magic behind what was done, read this guide to the end.
 
-### [90. New JavaScript Features in 2022](https://hackernoon.com/new-javascript-features-in-2022)
+### [90. 24 HTML Attributes You Want to Use ✨📚](https://hackernoon.com/24-html-attributes-you-want-to-use)
+![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-tx23gm7.jpeg)
+A review of some of the HTML attributes you might want to use.
+
+### [91. New JavaScript Features in 2022](https://hackernoon.com/new-javascript-features-in-2022)
 ![](https://cdn.hackernoon.com/images/JA6fPxJ1xIXZ3mdUN1HpblUMTEV2-ylo3p37.jpeg)
 JavaScript is changing fast with a lot of new and exciting features to help us - developers write code better and better. Let's check these latest features.
 
-### [91. How to Understand Any Codebase in 5 Minutes Using an AI Coding Assistant](https://hackernoon.com/how-to-understand-any-codebase-in-5-minutes-using-an-ai-coding-assistant)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-wz0235i.jpeg)
-Learn how to understand a complex codebase in minutes using AI coding assistants. Step by Step guide using AI Tools.
-
-### [92. Why Your Coding Portfolio Needs Libraries and Packages](https://hackernoon.com/why-your-coding-portfolio-needs-libraries-and-packages)
-![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-5393pex.jpeg)
-Building a job-ready portfolio of coding projects doesn't happen overnight, here's why you should include libraries and packages in yours. 
-
-### [93. Dynamic Programming: Using Memoization to Improve Your Javascript Functions](https://hackernoon.com/dynamic-programming-using-memoization-to-improve-your-javascript-functions)
+### [92. Dynamic Programming: Using Memoization to Improve Your Javascript Functions](https://hackernoon.com/dynamic-programming-using-memoization-to-improve-your-javascript-functions)
 ![](https://cdn.hackernoon.com/images/vJZjNRXjG5OwQ3VPCR4tScyGSEC3-l6a2hbe.jpeg)
 In this article, we will learn about what memoization is, what value memoization provides to Javascript developers, and how to use it to improve JS functions.
+
+### [93. Why Your Coding Portfolio Needs Libraries and Packages](https://hackernoon.com/why-your-coding-portfolio-needs-libraries-and-packages)
+![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-5393pex.jpeg)
+Building a job-ready portfolio of coding projects doesn't happen overnight, here's why you should include libraries and packages in yours. 
 
 ### [94. How We Store User Prefs in Local Storage Using Hooks in Next.js](https://hackernoon.com/how-we-store-user-prefs-in-local-storage-using-hooks-in-nextjs)
 ![](https://cdn.hackernoon.com/images/zsZQillaVuRrxOen4BCovmbZCFD2-cd83rz9.jpeg)
@@ -408,17 +412,17 @@ This blog post started with a personal search for such a post. I have a coding i
 ![](https://cdn.hackernoon.com/images/2lCKbVYzfgXONtu7Xpjc3NWBuQr2-dns33kk.jpeg)
 This article provides a roadmap and list of great online resources to help you attain the necessary skills to become a great web developer.
 
-### [101. Transforming Legacy with Domain-Driven Design, I: Preconditions](https://hackernoon.com/transforming-legacy-with-domain-driven-design-i-preconditions)
-![](https://cdn.hackernoon.com/images/3L1CP4liRQQ55QjQn3vJVyA00H52-wj23d9r.jpeg)
-In this series of articles, I would like to share my practical experience implementing Domain-Driven Design to a complex legacy project.
+### [101. Python Freezes Due to Poor Implementation](https://hackernoon.com/python-freezes-due-to-poor-implementation)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-a892frc.jpeg)
+Programs may freeze for many reasons, such as software and hardware problems, software bugs, and among others, inefficient algorithm implementations.
 
 ### [102. Critical Tips to Learn Programming Faster](https://hackernoon.com/critical-tips-to-learn-programming-faster)
 ![](https://cdn.hackernoon.com/images/Bj8AxZbmqwQUNAOela0UGCyV6VJ3-5s93v8e.jpeg)
 Looking to understand the critical factors to learn programming faster are listed here.
 
-### [103. Python Freezes Due to Poor Implementation](https://hackernoon.com/python-freezes-due-to-poor-implementation)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-a892frc.jpeg)
-Programs may freeze for many reasons, such as software and hardware problems, software bugs, and among others, inefficient algorithm implementations.
+### [103. Transforming Legacy with Domain-Driven Design, I: Preconditions](https://hackernoon.com/transforming-legacy-with-domain-driven-design-i-preconditions)
+![](https://cdn.hackernoon.com/images/3L1CP4liRQQ55QjQn3vJVyA00H52-wj23d9r.jpeg)
+In this series of articles, I would like to share my practical experience implementing Domain-Driven Design to a complex legacy project.
 
 ### [104. Seven Steps for Surviving Your First Programming Job](https://hackernoon.com/seven-steps-for-surviving-your-first-programming-job)
 ![](https://cdn.hackernoon.com/images/ScaJQlZJaNT9dRarGdswPkgamg52-qg93si5.png)
@@ -432,15 +436,15 @@ Have you ever found a bug inducing line change in your code, and wondered who ma
 ![](https://cdn.hackernoon.com/images/a-fox-in-the-woods-pnsszjfanck0xdywu9zq0jsh.png)
 Fox Infotech provides comprehensive programming tutorials, online courses, tools, and community forums to help users advance their IT careers.
 
-### [107. I Built a Platform to Help Users Practice Programming Challenges Guided by AI](https://hackernoon.com/i-built-a-platform-to-help-users-practice-programming-challenges-guided-by-ai)
-![](https://cdn.hackernoon.com/images/JvjCOSrRbJTj3eDxmY8zFRxYoRF3-op8344j.jpeg)
-Walking  through the process of building a platform leveraging AI to help users practice for interviews; integrating feedback from the first few live user tests
-
-### [108. Java / JavaScript: Differences Beyond the Name](https://hackernoon.com/java-javascript-differences-beyond-the-name)
+### [107. Java / JavaScript: Differences Beyond the Name](https://hackernoon.com/java-javascript-differences-beyond-the-name)
 ![](https://cdn.hackernoon.com/images/BPDtcCNCLzatkkbTtNguSHPvi2A2-8w92ad0.jpeg)
 Java and JavaScript...
 
 Beyond the names that appear "similar," how else do these two programming languages differ from each other?
+
+### [108. I Built a Platform to Help Users Practice Programming Challenges Guided by AI](https://hackernoon.com/i-built-a-platform-to-help-users-practice-programming-challenges-guided-by-ai)
+![](https://cdn.hackernoon.com/images/JvjCOSrRbJTj3eDxmY8zFRxYoRF3-op8344j.jpeg)
+Walking  through the process of building a platform leveraging AI to help users practice for interviews; integrating feedback from the first few live user tests
 
 ### [109. 8 Essential Non-Technical Tips Every Software Developer Should Know](https://hackernoon.com/8-essential-non-technical-tips-every-software-developer-should-know-rk3b3uco)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FugoTV1vwcgR4mN8MMDUUN4vt6p02-9c2v3ud9.jpeg?alt=media&token=bf537583-eaf2-4fc6-b5d0-f97624f5424f)
@@ -500,19 +504,19 @@ Sometimes it’s necessary to set up a development environment for writing TypeS
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-bgc826w9.jpeg)
 ﻿﻿Java Stream's Collectors methods fit most use-cases. They allow returning either a Collection or a scalar. For the former, you use one of the toXXX() method, for the latter, one of the reducing() one.
 
-### [123. How to Migrate from Monolith to Microservices: Challenges and Best Practices](https://hackernoon.com/how-to-migrate-from-monolith-to-microservices-challenges-and-best-practices)
-![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-fl93vu8.jpeg)
-Learn what to consider when moving from monolith to microservices, including data management, team organization, and infrastructure implementation. 
-
-### [124. 25 Techniques to Win a Girl's Heart: A Programmer's Guide](https://hackernoon.com/25-techniques-to-win-a-girls-heart-a-programmers-guide)
-![](https://cdn.hackernoon.com/images/qbjdMko7eFaiqBJgAApmsjilPv83-kq93mim.jpeg)
-For just as you solve complex problems in your code, winning a girl's heart can also be approached with a logical and systematic mindset.
-
-### [125. 12 Best Basic HTML Snippets to Use Instead of Complex Libraries](https://hackernoon.com/12-best-basic-html-snippets-to-use-instead-of-complex-libraries)
+### [123. 12 Best Basic HTML Snippets to Use Instead of Complex Libraries](https://hackernoon.com/12-best-basic-html-snippets-to-use-instead-of-complex-libraries)
 ![](https://cdn.hackernoon.com/images/gaZTNviyRwbJIkQm85R8IxM2vOY2-gj0363j.jpeg)
 This article is a heads up that you can do a lot with just vanilla HTML and a bit of CSS if you want it to look pretty. Here's how...
 
 
+
+### [124. How to Migrate from Monolith to Microservices: Challenges and Best Practices](https://hackernoon.com/how-to-migrate-from-monolith-to-microservices-challenges-and-best-practices)
+![](https://cdn.hackernoon.com/images/HxX5zpJrSjbKoBatGSx5asOP36H2-fl93vu8.jpeg)
+Learn what to consider when moving from monolith to microservices, including data management, team organization, and infrastructure implementation. 
+
+### [125. 25 Techniques to Win a Girl's Heart: A Programmer's Guide](https://hackernoon.com/25-techniques-to-win-a-girls-heart-a-programmers-guide)
+![](https://cdn.hackernoon.com/images/qbjdMko7eFaiqBJgAApmsjilPv83-kq93mim.jpeg)
+For just as you solve complex problems in your code, winning a girl's heart can also be approached with a logical and systematic mindset.
 
 ### [126. A Git Workflow Guide for Code Newbies](https://hackernoon.com/a-git-workflow-guide-for-code-newbies)
 ![](https://cdn.hackernoon.com/images/PM9nNoX7cegr2DQOSuSuYP4k6Sd2-1d7z35uq.png)
@@ -546,33 +550,33 @@ To become one of these in-demand professionals, you need to know how to learn to
 ![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-4q93tj0.jpeg)
 Some helpful tips that can steer you in the right direction and help you decide if a component should be part of your internal component library.
 
-### [134. Top 5 Tips for Becoming a Git Expert](https://hackernoon.com/top-5-tips-for-becoming-a-git-expert-usl35gq)
-![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-ov13359x.jpeg)
-Becoming a Git power user is on the bucket list of every developer. With our 5 Git tips you will level up your workflow and get one step closer to Git mastery!
-
-### [135. Transforming Legacy with Domain-Driven Design, II: Strategy](https://hackernoon.com/transforming-legacy-with-domain-driven-design-ii-strategy)
+### [134. Transforming Legacy with Domain-Driven Design, II: Strategy](https://hackernoon.com/transforming-legacy-with-domain-driven-design-ii-strategy)
 ![](https://cdn.hackernoon.com/images/3L1CP4liRQQ55QjQn3vJVyA00H52-i243d6k.jpeg)
 Domain-Driven Design is not a specific software architecture or a strict set of rules but rather a collection of principles and ideas to manage complex domains.
 
-### [136. Applying John Wooden's "Whole-Part Method" Approach To Programming](https://hackernoon.com/applying-john-woodens-whole-part-method-approach-to-programming-jy4h35kv)
-![](https://cdn.hackernoon.com/images/1k2eWiUClgQ4VZSz8evAFbbCf1A3-q13v33f6.jpeg)
-Recycle the programming projects you complete: iterate on them and create your own mini-projects along the way. Here’s how.
+### [135. Top 5 Tips for Becoming a Git Expert](https://hackernoon.com/top-5-tips-for-becoming-a-git-expert-usl35gq)
+![](https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-ov13359x.jpeg)
+Becoming a Git power user is on the bucket list of every developer. With our 5 Git tips you will level up your workflow and get one step closer to Git mastery!
 
-### [137. Concurrency management in DDD](https://hackernoon.com/concurrency-management-in-ddd)
+### [136. Concurrency management in DDD](https://hackernoon.com/concurrency-management-in-ddd)
 ![](https://cdn.hackernoon.com/images/3L1CP4liRQQ55QjQn3vJVyA00H52-n363ess.jpeg)
 Explore how Domain-Driven Design tackles concurrency issues in complex legacy systems, based on real-world experiences and practical insights.
 
-### [138. Building Powerful Search Functionality with Elasticsearch Integration in Ruby on Rails](https://hackernoon.com/building-powerful-search-functionality-with-elasticsearch-integration-in-ruby-on-rails)
+### [137. Building Powerful Search Functionality with Elasticsearch Integration in Ruby on Rails](https://hackernoon.com/building-powerful-search-functionality-with-elasticsearch-integration-in-ruby-on-rails)
 ![](https://cdn.hackernoon.com/images/magnifying-glass-over-a-document-clj4kfujm000101s68fzr07eh.png)
 In this article, we will explore how to integrate Elasticsearch into a Ruby on Rails application and leverage its advanced features to deliver efficient results
 
-### [139. 5 Git Tips You Should Try For Better Workflow](https://hackernoon.com/5-git-tips-you-should-try-for-better-workflow-2b6f35g1)
-![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-c31035s8.jpeg)
-No matter how experienced you are, Git will always find a way to surprise you. It is loaded with neat tricks that have the power to make your daily coding routi
+### [138. Applying John Wooden's "Whole-Part Method" Approach To Programming](https://hackernoon.com/applying-john-woodens-whole-part-method-approach-to-programming-jy4h35kv)
+![](https://cdn.hackernoon.com/images/1k2eWiUClgQ4VZSz8evAFbbCf1A3-q13v33f6.jpeg)
+Recycle the programming projects you complete: iterate on them and create your own mini-projects along the way. Here’s how.
 
-### [140. Do not Troll Your Teammates: 5 Key Rules for Reviewing Code](https://hackernoon.com/do-not-troll-your-teammates-5-key-rules-for-reviewing-code)
+### [139. Do not Troll Your Teammates: 5 Key Rules for Reviewing Code](https://hackernoon.com/do-not-troll-your-teammates-5-key-rules-for-reviewing-code)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-wh1v3oxf.jpeg)
 Code review is an essential step needed for effective software development.
+
+### [140. 5 Git Tips You Should Try For Better Workflow](https://hackernoon.com/5-git-tips-you-should-try-for-better-workflow-2b6f35g1)
+![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-c31035s8.jpeg)
+No matter how experienced you are, Git will always find a way to surprise you. It is loaded with neat tricks that have the power to make your daily coding routi
 
 ### [141. How Am I Dealing With My Ever-Improving Debugging Techniques](https://hackernoon.com/how-am-i-dealing-with-my-ever-improving-debugging-techniques-9t1t36ye)
 ![](https://images.unsplash.com/photo-1478104718532-efe04cc3ff7f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -598,17 +602,17 @@ There's a lot to learn when you're a new React Developer. These 5 Intro Tips wil
 ![](https://cdn.hackernoon.com/images/bGwbwxx0IiXL639akJbjhEOGaDN2-u6a3psk.jpeg)
 You may not believe that learning a programming language is easier than you imagine. However, it is! And we want to help you to start the way in IT via C#. 
 
-### [147. 8 underrated Git commands every programmer should know (not the usual pull, push, add, commit)](https://hackernoon.com/8-underrated-git-commands-every-programmer-should-know-not-the-usual-pull-push-add-commit-qk17356a)
+### [147. Everything About the Javascript Logical AND Operator](https://hackernoon.com/everything-about-the-javascript-logical-and-operator)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-6k93oic.jpeg)
+In this complete guide, let's look at how && works, and go through some examples to explain when it returns values, and what values it will return.
+
+### [148. 8 underrated Git commands every programmer should know (not the usual pull, push, add, commit)](https://hackernoon.com/8-underrated-git-commands-every-programmer-should-know-not-the-usual-pull-push-add-commit-qk17356a)
 ![](https://cdn.hackernoon.com/images/dQivUEEj1RcFc2A4GiaE0hI9ypA3-pw5933a4.jpeg)
 These are some of the most useful Git commands that helped me during my programming journey. 
 
-### [148. How to Convert a Project From Java to Kotlin Without Pain and Why It Is Necessary](https://hackernoon.com/how-to-convert-a-project-from-java-to-kotlin-without-pain-and-why-it-is-necessary)
+### [149. How to Convert a Project From Java to Kotlin Without Pain and Why It Is Necessary](https://hackernoon.com/how-to-convert-a-project-from-java-to-kotlin-without-pain-and-why-it-is-necessary)
 ![](https://cdn.hackernoon.com/images/transformer-clintttl3000101s63niodmfy.png)
 In one project, we got an application that contained half of the source code in Java, and the other half in Kotlin. In fact, I asked a question: "Why is it so?"
-
-### [149. Everything About the Javascript Logical AND Operator](https://hackernoon.com/everything-about-the-javascript-logical-and-operator)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-6k93oic.jpeg)
-In this complete guide, let's look at how && works, and go through some examples to explain when it returns values, and what values it will return.
 
 ### [150. Setting a Matrix to Zero in Java](https://hackernoon.com/setting-a-matrix-to-zero-in-java)
 ![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-tpa3pz9.jpeg)
@@ -624,33 +628,33 @@ What would happen if we apply some wisdom from handling exceptions to handling n
 ![](https://cdn.hackernoon.com/images/3L1CP4liRQQ55QjQn3vJVyA00H52-8923de2.jpeg)
 DDD doesn’t prescribe a specific architectural approach, but certain existing solutions effectively help achieve the tactical goals of the methodology. 
 
-### [153. Getting Started with Kvrocks and Go-redis](https://hackernoon.com/getting-started-with-kvrocks-and-go-redis)
+### [153. How to Transform Your C# Code With the Command Design Pattern](https://hackernoon.com/how-to-transform-your-c-code-with-the-command-design-pattern)
+![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-nea3yub.jpeg)
+Command Design Pattern is one of the behavioural design patterns used to encapsulate a request as an object, thus enabling to parameterize clients with differen
+
+### [154. Getting Started with Kvrocks and Go-redis](https://hackernoon.com/getting-started-with-kvrocks-and-go-redis)
 ![](https://cdn.hackernoon.com/images/vYKilz2t7xOCGye0QH3snaKWaGF2-1492r5y.jpeg)
 Learn how to use the go-redis client to get started with Apache Kvrocks, a distributed key-value NoSQL database.
-
-### [154. How to Beat the 4 Major Hurdles in Traditional Programming! 💻](https://hackernoon.com/how-to-beat-the-4-major-hurdles-in-traditional-programming)
-![](https://cdn.hackernoon.com/images/Y1Fo9DviXRgnAAhRuyA4k7okqDq2-xn93yzq.jpeg)
-Learn how Low-Code/No-Code platforms are revolutionizing app development, breaking barriers for all. 
 
 ### [155. Java Lambda Functions: Your Secret Weapon Against Boilerplate Code](https://hackernoon.com/java-lambda-functions-your-secret-weapon-against-boilerplate-code)
 ![](https://cdn.hackernoon.com/images/C8GLVBByn4TgkQ3SGr7ie5BMZHt2-pma2yug.jpeg)
 Discover the power of Java lambda functions and how they eliminate boilerplate code. Explore cool use cases, save time, and write more expressive code.
 
-### [156. How to Transform Your C# Code With the Command Design Pattern](https://hackernoon.com/how-to-transform-your-c-code-with-the-command-design-pattern)
-![](https://cdn.hackernoon.com/images/0Pc2dcjd4hh3TXkrjgio5gRxVFu2-nea3yub.jpeg)
-Command Design Pattern is one of the behavioural design patterns used to encapsulate a request as an object, thus enabling to parameterize clients with differen
+### [156. How to Beat the 4 Major Hurdles in Traditional Programming! 💻](https://hackernoon.com/how-to-beat-the-4-major-hurdles-in-traditional-programming)
+![](https://cdn.hackernoon.com/images/Y1Fo9DviXRgnAAhRuyA4k7okqDq2-xn93yzq.jpeg)
+Learn how Low-Code/No-Code platforms are revolutionizing app development, breaking barriers for all. 
 
-### [157. Why Learning to Code Using an Active Practicing Methodology is Better](https://hackernoon.com/why-learning-to-code-using-an-active-practicing-methodology-is-better)
+### [157. What Is Dynamic Programming and Memoization?](https://hackernoon.com/what-is-dynamic-programming-and-memoization)
+![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-qmb3i23.jpeg)
+Learning Dynamic Programming and Memoization in Under 5 Minutes
+
+### [158. Why Learning to Code Using an Active Practicing Methodology is Better](https://hackernoon.com/why-learning-to-code-using-an-active-practicing-methodology-is-better)
 ![](https://cdn.hackernoon.com/images/qeIv6rNygoYrUXBwG7uA2lPpLSj2-79136xy.jpeg)
 Are you willing to start a career in programming? Or, probably, you’re a dedicated hobbyist who wants to try coding just for fun? Then this article is for you!
 
-### [158. You Can Track Code Deployments in New Relic With Laravel Commands: Here's How](https://hackernoon.com/you-can-track-code-deployments-in-new-relic-with-laravel-commands-heres-how)
+### [159. You Can Track Code Deployments in New Relic With Laravel Commands: Here's How](https://hackernoon.com/you-can-track-code-deployments-in-new-relic-with-laravel-commands-heres-how)
 ![](https://images.unsplash.com/photo-1647427060118-4911c9821b82?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxyb2JvdCUyMGZhY3Rvcnl8ZW58MHx8fHwxNzE2ODkyMjEzfDA&amp;ixlib=rb-4.0.3&amp;q=80&amp;w=2000)
 Simplify New Relic deployments track with a custom Laravel. Track deployments easily without GitHub Actions by using 'php artisan app:deploy-mark'.
-
-### [159. What Is Dynamic Programming and Memoization?](https://hackernoon.com/what-is-dynamic-programming-and-memoization)
-![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-qmb3i23.jpeg)
-Learning Dynamic Programming and Memoization in Under 5 Minutes
 
 ### [160. Breaking From ForEach in JavaScript](https://hackernoon.com/breaking-from-foreach-in-javascript)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-x493rpy.jpeg)
@@ -664,45 +668,45 @@ Implementation of domain driven design in a complex legacy project, focusing on 
 ![](https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-d032gsj.jpeg)
 This article acts as a step-by-step guide that you can follow to start on your projects and learn along the way.
 
-### [163. Duo Development: Maximizing Code Quality and Productivity with Pair Programming](https://hackernoon.com/duo-development-maximizing-code-quality-and-productivity-with-pair-programming)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-nn92igg.jpeg)
-Pair programming is a software development technique where two developers work together on the same code on one computer.
-
-### [164. It Works on My Machine — The Book](https://hackernoon.com/it-works-on-my-machine-the-book)
+### [163. It Works on My Machine — The Book](https://hackernoon.com/it-works-on-my-machine-the-book)
 ![](https://cdn.hackernoon.com/images/Z7pqy1nNWKYG5kfRag2cYMLUys63-7v13cg8.jpeg)
 From Assembly to Brainf*ck. A design collection of curated programming language trivia.
 
-### [165. Code and the Art of Motorcycle Maintenance: Typical Rookie Faults](https://hackernoon.com/code-and-the-art-of-motorcycle-maintenance-typical-rookie-faults)
+### [164. Duo Development: Maximizing Code Quality and Productivity with Pair Programming](https://hackernoon.com/duo-development-maximizing-code-quality-and-productivity-with-pair-programming)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-nn92igg.jpeg)
+Pair programming is a software development technique where two developers work together on the same code on one computer.
+
+### [165. Demystifying Javascript Array Methods with Practical Examples](https://hackernoon.com/demystifying-javascript-array-methods-with-practical-examples)
+![](https://cdn.hackernoon.com/images/QsxXq74rpfdI2SYRqxFke1FAlIl1-vz92i4n.jpeg)
+Understand how JavaScript array methods work by implementing three of the most common methods: map(), filter() and reduce.
+
+### [166. Code and the Art of Motorcycle Maintenance: Typical Rookie Faults](https://hackernoon.com/code-and-the-art-of-motorcycle-maintenance-typical-rookie-faults)
 ![](https://cdn.hackernoon.com/images/CCLFPRsmsHWSm1FUSbZuRrlVRVt2-h3b31fk.jpeg)
 With coding, just like with riding, you need to be responsible and conscious to stay in the saddle and double that to be a winner. 
 
-### [166. How DevOps Repair Logs Increase Your Happiness](https://hackernoon.com/how-devops-repair-logs-increase-your-happiness)
+### [167. How DevOps Repair Logs Increase Your Happiness](https://hackernoon.com/how-devops-repair-logs-increase-your-happiness)
 ![](https://cdn.hackernoon.com/images/DFMsGPFH1idycAkB5tbjIRQffnz1-jn93s69.png)
 How do you document infrastructure failures and outages?
 
-### [167. Transforming Legacy with Domain-Driven Design, VI: Results](https://hackernoon.com/transforming-legacy-with-domain-driven-design-vi-results)
+### [168. Transforming Legacy with Domain-Driven Design, VI: Results](https://hackernoon.com/transforming-legacy-with-domain-driven-design-vi-results)
 ![](https://cdn.hackernoon.com/images/3L1CP4liRQQ55QjQn3vJVyA00H52-iv33clm.jpeg)
 In this article, I will share the outcomes of adopting Domain-Driven Design in a large legacy project.
 
-### [168. Reflecting on My Year of Consistent Leetcode Practice and Mistakes to Avoid](https://hackernoon.com/reflecting-on-my-year-of-consistent-leetcode-practice-and-mistakes-to-avoid)
+### [169. Reflecting on My Year of Consistent Leetcode Practice and Mistakes to Avoid](https://hackernoon.com/reflecting-on-my-year-of-consistent-leetcode-practice-and-mistakes-to-avoid)
 ![](https://cdn.hackernoon.com/images/yJx6Jb9xDbaeUH6oktJcQUQy9xR2-5ra33p4.jpeg)
 A year of consistent leetcode practice in improving problem solving skills
-
-### [169. Demystifying Javascript Array Methods with Practical Examples](https://hackernoon.com/demystifying-javascript-array-methods-with-practical-examples)
-![](https://cdn.hackernoon.com/images/QsxXq74rpfdI2SYRqxFke1FAlIl1-vz92i4n.jpeg)
-Understand how JavaScript array methods work by implementing three of the most common methods: map(), filter() and reduce.
 
 ### [170. Why Fast Typing Speed Is Counterproductive](https://hackernoon.com/why-fast-typing-speed-is-counterproductive)
 ![](https://cdn.hackernoon.com/images/JnwMdaVZrzSOfLb9FHlT2x1vsd62-fz930d6.jpeg)
 Typing 150+ words per minute won't help you get things done. Likely it will do the opposite.
 
-### [171. Exploring Graph Traversal: From Breadth-First Search to Dijkstra's Algorithm](https://hackernoon.com/exploring-graph-traversal-from-breadth-first-search-to-dijkstras-algorithm)
-![](https://cdn.hackernoon.com/images/NkoXiC4Y5zPmQbKuaIRhMW8Uzn12-hy936rd.jpeg)
-In this article, the breadth-first search algorithm is explained with examples and implementations, including how it can be modified to find the shortest paths.
-
-### [172. Transforming Legacy with Domain-Driven Design, V: Insights](https://hackernoon.com/transforming-legacy-with-domain-driven-design-v-insights)
+### [171. Transforming Legacy with Domain-Driven Design, V: Insights](https://hackernoon.com/transforming-legacy-with-domain-driven-design-v-insights)
 ![](https://cdn.hackernoon.com/images/3L1CP4liRQQ55QjQn3vJVyA00H52-5b23dxg.jpeg)
 Value Objects are a useful approach that allows for both formalizing reusable data structures within the domain and designating terms from the subject area.
+
+### [172. Exploring Graph Traversal: From Breadth-First Search to Dijkstra's Algorithm](https://hackernoon.com/exploring-graph-traversal-from-breadth-first-search-to-dijkstras-algorithm)
+![](https://cdn.hackernoon.com/images/NkoXiC4Y5zPmQbKuaIRhMW8Uzn12-hy936rd.jpeg)
+In this article, the breadth-first search algorithm is explained with examples and implementations, including how it can be modified to find the shortest paths.
 
 ### [173. Is Learning C++ Scary?](https://hackernoon.com/is-learning-c-scary)
 ![](https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-7193if2.jpeg)
@@ -716,61 +720,61 @@ Debunking the myth: A college degree is not essential for a successful IT career
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-h593sgh.jpeg)
 Explore the unexpected behavior of the 'Using Declaration' feature in C# 8.0 and learn how to safely implement it in your code.
 
-### [176. How to Find Insecure MongoDB Connection Strings in Public GitHub Repositories](https://hackernoon.com/how-to-find-insecure-mongodb-connection-strings-in-public-github-repositories)
-![](https://cdn.hackernoon.com/images/fJowWHavL0XT8jKc2lCn9VB199e2-sg93l3n.jpeg)
-A guide on how to protect yourself and your projects while on Github. 
-
-### [177. Code Faster: 12 VS Code Shortcuts](https://hackernoon.com/code-faster-12-vs-code-shortcuts)
-![](https://cdn.hackernoon.com/images/mAItCJAJYNOm6v8esblAzdtCmmh1-m903nj5.jpeg)
-Here are 12 VS code shortcuts to help code faster.
-
-### [178. 14 Ruby FAQs and Answers ](https://hackernoon.com/14-ruby-faqs-and-answers-ol223ute)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaHcUME45O0Sw3JLt9OGFJpazIvO2-iq828rd.jpeg?alt=media&token=51008b91-f8e5-460e-b741-4df01203fb4d)
-Ruby is one of the popular programming languages which was developed by Yukihiro Matsumoto in the mid-1990s. Ruby is a general-purpose language and is easy to learn. So, today we will be talking about the top 14 most asked questions about Ruby.
-
-### [179. Writing Software from the Outside In](https://hackernoon.com/writing-software-from-the-outside-in-s2q3u2p)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FngtyI2vKTjQBTE7IpgOUyfJrsJ63-apk3uhm.jpeg?alt=media&token=290d6511-46bd-429e-83d5-8c98b5d39a3d)
-Whenever you’re developing software, a certain amount of refactoring and rewriting is inevitable. This is sometimes due to a new idea that will simplify the design or a change to the project requirements. But unfortunately, it often also happens because of a misunderstanding about how the software will connect and interact with its external environment. While it’s impossible to completely avoid such miscommunication, you can minimize it by using a principle I call writing software from the outside in.
-
-### [180. breakpoint() and PDB Make It Faster and Easier to Debug in Python](https://hackernoon.com/breakpoint-and-pdb-make-it-faster-and-easier-to-debug-in-python)
-![](https://cdn.hackernoon.com/images/3Vna4om76QPQz8Wmb35XIlnD4GG2-8p92c5t.jpeg)
-In this article, we will learn what breakpoint() is, how to use it with PDB and other debuggers, and how to change its behavior with environment variables.
-
-### [181. My Practical Guide On Using Progressive Web Apps](https://hackernoon.com/my-practical-guide-on-using-progressive-web-apps-d1283u3e)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-zrcd3uvb.webp?alt=media&token=89f28638-f3cf-4b73-907f-e557f5de3952)
-There are a lot of articles about PWA that tell in detail what it is and how to set it up. Yet you may not always understand them from the first time.
-
-### [182. 10 Reasons Why Less Is More in Your init/deinit Methods](https://hackernoon.com/10-reasons-why-less-is-more-in-your-initdeinit-methods)
+### [176. 10 Reasons Why Less Is More in Your init/deinit Methods](https://hackernoon.com/10-reasons-why-less-is-more-in-your-initdeinit-methods)
 ![](https://cdn.hackernoon.com/images/imTOi6TzD2acj6NBGngoIn24v6x2-pma3rv9.jpeg)
 The simplicity and predictability of constructors and destructors are vital to the robustness and efficiency of your application. 
 
-### [183. Uderstanding the Basic Structure of a Website ](https://hackernoon.com/uderstanding-the-basic-structure-of-a-website)
-![](https://cdn.hackernoon.com/images/xY2W6etJxjQsHNcq80kJr9RvKmg1-10h352n.jpeg)
-Webpages can and do look pretty different from one another, but they all tend to share similar standard components.
+### [177. How to Find Insecure MongoDB Connection Strings in Public GitHub Repositories](https://hackernoon.com/how-to-find-insecure-mongodb-connection-strings-in-public-github-repositories)
+![](https://cdn.hackernoon.com/images/fJowWHavL0XT8jKc2lCn9VB199e2-sg93l3n.jpeg)
+A guide on how to protect yourself and your projects while on Github. 
 
-### [184. Mastering Public Static and Void Functions: Key Concepts for Effective Coding](https://hackernoon.com/mastering-public-static-and-void-functions-key-concepts-for-effective-coding)
+### [178. Code Faster: 12 VS Code Shortcuts](https://hackernoon.com/code-faster-12-vs-code-shortcuts)
+![](https://cdn.hackernoon.com/images/mAItCJAJYNOm6v8esblAzdtCmmh1-m903nj5.jpeg)
+Here are 12 VS code shortcuts to help code faster.
+
+### [179. 14 Ruby FAQs and Answers ](https://hackernoon.com/14-ruby-faqs-and-answers-ol223ute)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FaHcUME45O0Sw3JLt9OGFJpazIvO2-iq828rd.jpeg?alt=media&token=51008b91-f8e5-460e-b741-4df01203fb4d)
+Ruby is one of the popular programming languages which was developed by Yukihiro Matsumoto in the mid-1990s. Ruby is a general-purpose language and is easy to learn. So, today we will be talking about the top 14 most asked questions about Ruby.
+
+### [180. Writing Software from the Outside In](https://hackernoon.com/writing-software-from-the-outside-in-s2q3u2p)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FngtyI2vKTjQBTE7IpgOUyfJrsJ63-apk3uhm.jpeg?alt=media&token=290d6511-46bd-429e-83d5-8c98b5d39a3d)
+Whenever you’re developing software, a certain amount of refactoring and rewriting is inevitable. This is sometimes due to a new idea that will simplify the design or a change to the project requirements. But unfortunately, it often also happens because of a misunderstanding about how the software will connect and interact with its external environment. While it’s impossible to completely avoid such miscommunication, you can minimize it by using a principle I call writing software from the outside in.
+
+### [181. breakpoint() and PDB Make It Faster and Easier to Debug in Python](https://hackernoon.com/breakpoint-and-pdb-make-it-faster-and-easier-to-debug-in-python)
+![](https://cdn.hackernoon.com/images/3Vna4om76QPQz8Wmb35XIlnD4GG2-8p92c5t.jpeg)
+In this article, we will learn what breakpoint() is, how to use it with PDB and other debuggers, and how to change its behavior with environment variables.
+
+### [182. My Practical Guide On Using Progressive Web Apps](https://hackernoon.com/my-practical-guide-on-using-progressive-web-apps-d1283u3e)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FKcbsFCZhPLMGojRtcSkTWqPyO8w2-zrcd3uvb.webp?alt=media&token=89f28638-f3cf-4b73-907f-e557f5de3952)
+There are a lot of articles about PWA that tell in detail what it is and how to set it up. Yet you may not always understand them from the first time.
+
+### [183. Mastering Public Static and Void Functions: Key Concepts for Effective Coding](https://hackernoon.com/mastering-public-static-and-void-functions-key-concepts-for-effective-coding)
 ![](https://cdn.hackernoon.com/images/TLXV9U2k5Rgl0vXImGRgveZ1QEm1-xc93pnm.jpeg)
 While "public static" as well as "void" fulfill separate functions, it is critical to grasp the distinctions between them to fully utilize their capabilities.
 
-### [185. Let’s Have a Talk About Go Slices ](https://hackernoon.com/lets-have-a-talk-about-go-slices)
-![](https://cdn.hackernoon.com/images/slice-clisszl4b000001s6cvtp76tb.png)
-Today we will discover Slices, one of the core data structures in Go.
+### [184. Uderstanding the Basic Structure of a Website ](https://hackernoon.com/uderstanding-the-basic-structure-of-a-website)
+![](https://cdn.hackernoon.com/images/xY2W6etJxjQsHNcq80kJr9RvKmg1-10h352n.jpeg)
+Webpages can and do look pretty different from one another, but they all tend to share similar standard components.
 
-### [186. No Tests? No Problem: Automating NodeJs Testing](https://hackernoon.com/no-tests-no-problem-automating-nodejs-testing)
+### [185. No Tests? No Problem: Automating NodeJs Testing](https://hackernoon.com/no-tests-no-problem-automating-nodejs-testing)
 ![](https://cdn.hackernoon.com/images/cgWjp7zgWNd0KxKT11wmoUahkLg1-5x93rwp.jpeg)
 Record and Replay, otherwise known as codeless automation, is a way to run tests without programming knowledge. This is done using a tool, like CodeParrot.
+
+### [186. Let’s Have a Talk About Go Slices ](https://hackernoon.com/lets-have-a-talk-about-go-slices)
+![](https://cdn.hackernoon.com/images/slice-clisszl4b000001s6cvtp76tb.png)
+Today we will discover Slices, one of the core data structures in Go.
 
 ### [187. Specifying a Node Version in Netlify Builds](https://hackernoon.com/specifying-a-node-version-in-netlify-builds)
 ![](https://cdn.hackernoon.com/images/software-nodes-clgc9xgpr000001s62s4dh2lw.png)
 Often, I need to 'tell' Netlify the Node version for my sites, and often I can't find the correct docs for this. Here's a potential solution, if you can relate.
 
-### [188. What Is a Dockerfile? A Quick Overview](https://hackernoon.com/what-is-a-dockerfile-a-quick-overview)
-![](https://cdn.hackernoon.com/images/wER5DOaiyHQO9ahodLZ5vysnJpu1-el93vbm.jpeg)
-What is a Dockerfile? DevOps engineers must understand this key concept to be effective in deploying containerized applications.
-
-### [189. How Dyslexia Shapes The Way I Code](https://hackernoon.com/how-dyslexia-shapes-the-way-i-code)
+### [188. How Dyslexia Shapes The Way I Code](https://hackernoon.com/how-dyslexia-shapes-the-way-i-code)
 ![](https://cdn.hackernoon.com/images/t1bhWneHy1PEjw9MD2QlO6WQLxT2-jq035xu.png)
 Dyslexia has shaped how I read and write code, influencing my preference for structured, easy-to-scan formatting.
+
+### [189. What Is a Dockerfile? A Quick Overview](https://hackernoon.com/what-is-a-dockerfile-a-quick-overview)
+![](https://cdn.hackernoon.com/images/wER5DOaiyHQO9ahodLZ5vysnJpu1-el93vbm.jpeg)
+What is a Dockerfile? DevOps engineers must understand this key concept to be effective in deploying containerized applications.
 
 ### [190. Streamline Bot Logic with Power Virtual Agents and PowerFX](https://hackernoon.com/streamline-bot-logic-with-power-virtual-agents-and-powerfx)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ip93plc.jpeg)

@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [performance](https://hackernoon.com/tagged/performance)
+### Let's learn about [Performance](https://hackernoon.com/tagged/performance) via these 250 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Articles for you and your projects to reach peak performance. 
 
 
@@ -89,17 +91,17 @@ According to Wikipedia, Software profiling is a form of dynamic program analysis
 ![](https://cdn.hackernoon.com/images/x1P7zu4evQfq343DIh4fUYUZtOC2-bo93hey.png)
 When building for large-scale use, using Rust certainly feels worth it both from a cost perspective (factor x3 saved) and from a performance perspective.
 
-### [22. A Performance Optimization of Flutter WebView](https://hackernoon.com/a-performance-optimization-of-flutter-webview-8f5336wa)
+### [22. Milliseconds Make Millions: How and Why to Speed Up Your App, from InDrive's Playbook](https://hackernoon.com/milliseconds-make-millions-how-and-why-to-speed-up-your-app-from-indrives-playbook)
+![](https://cdn.hackernoon.com/images/6WbO18ySKKbatYbleCAgy9Tmyol2-eg93goz.png)
+How faster mobile app startup improves revenue. Practical iOS performance techniques, metrics, and real optimization results from inDrive.
+
+### [23. A Performance Optimization of Flutter WebView](https://hackernoon.com/a-performance-optimization-of-flutter-webview-8f5336wa)
 ![](https://cdn.hackernoon.com/images/tygd363r.jpg)
 This article records a performance optimization of the WebView based Flutter data visualization library: echarts_flutter .
 
-### [23. React Tutorial: How To Build a Virtualized List with Infinite Scroll and a Hook](https://hackernoon.com/react-tutorial-how-to-build-a-virtualized-list-with-infinite-scroll-and-a-hook-3x1w3611)
+### [24. React Tutorial: How To Build a Virtualized List with Infinite Scroll and a Hook](https://hackernoon.com/react-tutorial-how-to-build-a-virtualized-list-with-infinite-scroll-and-a-hook-3x1w3611)
 ![](https://cdn.hackernoon.com/images/jgvl75J01zfc9i0NsYvVgqlVkkh2-tcnz39ku.jpeg)
 When rendering a large set of data (e.g. list, table, etc.) in React, we all face performance/memory troubles. However, we can use the technique of DOM recycling to solve the troubles.
-
-### [24. Milliseconds Make Millions: How and Why to Speed Up Your App, from InDrive's Playbook](https://hackernoon.com/milliseconds-make-millions-how-and-why-to-speed-up-your-app-from-indrives-playbook)
-![](https://cdn.hackernoon.com/images/6WbO18ySKKbatYbleCAgy9Tmyol2-eg93goz.png)
-How faster mobile app startup improves revenue. Practical iOS performance techniques, metrics, and real optimization results from inDrive.
 
 ### [25. The New MacBook Air is Better than the M1 Max for Java Development](https://hackernoon.com/the-new-macbook-air-is-better-than-the-m1-max-for-java-development)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-if92ewp.jpeg)
@@ -121,13 +123,13 @@ Learn how to boost your Django REST Framework's performance by solving common is
 ![](https://cdn.hackernoon.com/drafts/5yo3ck6.png)
 Introduction
 
-### [30. Improving React App Performance with SSR and Rust: Rust vs Node.js [Part III]](https://hackernoon.com/improving-react-app-performance-with-ssr-and-rust-rust-vs-nodejs-part-iii-ii3932wg)
-![](https://cdn.hackernoon.com/images/r0vp3yjz.jpg)
-In theory, a new technology or a modern approach should have a lot of benefits, but the main question that matters is that - what is actually practical advantages of that in numbers?
-
-### [31. Throttling vs Debouncing in Javascript](https://hackernoon.com/throttling-vs-debouncing-in-javascript)
+### [30. Throttling vs Debouncing in Javascript](https://hackernoon.com/throttling-vs-debouncing-in-javascript)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-yu93ky0.jpeg)
 Throttling and debouncing, what are they? What is the difference and when and why should we use them in our own javascript-based programming projects?
+
+### [31. Improving React App Performance with SSR and Rust: Rust vs Node.js [Part III]](https://hackernoon.com/improving-react-app-performance-with-ssr-and-rust-rust-vs-nodejs-part-iii-ii3932wg)
+![](https://cdn.hackernoon.com/images/r0vp3yjz.jpg)
+In theory, a new technology or a modern approach should have a lot of benefits, but the main question that matters is that - what is actually practical advantages of that in numbers?
 
 ### [32. Loaded in 600 Milliseconds: How To Improve Website Speed](https://hackernoon.com/loaded-in-600-milliseconds-how-to-improve-website-speed-k4gf37az)
 ![](https://cdn.hackernoon.com/images/XEHZ97Onw1XPeXMH5rWYYmaI5tR2-5sbs35jl.jpeg)
@@ -141,33 +143,33 @@ I want to talk a little about how you can use content-based addressing (aka data
 ![](drafts/4m1hw32q8.png)
 GraphQL is an amazing specification, no doubt about that. I loved it when it first came into my knowledge but as I started learning it, well, I started to hate it and I still do at some extent because I am still learning it. So much boilerplate code to even starting the graphQL server.
 
-### [35. Comparing XML and Compose Rendering Speed at Deep and Wide Nesting](https://hackernoon.com/comparing-xml-and-compose-rendering-speed-at-deep-and-wide-nesting)
-![](https://cdn.hackernoon.com/images/EeX35fKg9SMcjCyjLf6mn4qpi7X2-3po3n5d.jpeg)
-There are many benchmarks that compare the performance and rendering speed of XML and compose.
-
-### [36. The Ultimate Guide to C# and C++ Interoperability Using C++/CLI](https://hackernoon.com/the-ultimate-guide-to-c-and-c-interoperability-using-ccli)
+### [35. The Ultimate Guide to C# and C++ Interoperability Using C++/CLI](https://hackernoon.com/the-ultimate-guide-to-c-and-c-interoperability-using-ccli)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-xa02wzd.png)
 Learn how to efficiently bridge .NET (C#) and native C++ using P/Invoke and C++/CLI, with benchmarks and real-world integration tips.
+
+### [36. Comparing XML and Compose Rendering Speed at Deep and Wide Nesting](https://hackernoon.com/comparing-xml-and-compose-rendering-speed-at-deep-and-wide-nesting)
+![](https://cdn.hackernoon.com/images/EeX35fKg9SMcjCyjLf6mn4qpi7X2-3po3n5d.jpeg)
+There are many benchmarks that compare the performance and rendering speed of XML and compose.
 
 ### [37. #NoBrainers: You Need A High Performing Low Latency Distributed Database](https://hackernoon.com/nobrainers-you-need-a-high-performing-low-latency-distributed-database-nd703433)
 ![](https://hackernoon.com/images/W8O8r27oUwUryhNHNMOvKfQBLNn2-o5k34ks.jpeg)
 Certain industries greatly benefit from high-performing, low-latency, geo-distributed technologies.
 
-### [38. How To Improve Your Docker Build Time in GitLab CI](https://hackernoon.com/how-to-improve-your-docker-build-time-in-gitlab-ci-o5n31v6)
+### [38. Jetpack Compose Memory Leaks: A Reference-Graph Deep Dive](https://hackernoon.com/jetpack-compose-memory-leaks-a-reference-graph-deep-dive)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-nj022sz.jpeg)
+Jetpack Compose memory leaks are usually reference leaks. Learn the top leak patterns, why they happen, and how to fix them.
+
+### [39. How To Improve Your Docker Build Time in GitLab CI](https://hackernoon.com/how-to-improve-your-docker-build-time-in-gitlab-ci-o5n31v6)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQYCUqng9AEa0N4lY3S8A0lqy52g2-sq6p3w5q.jpeg?alt=media&token=f4806329-95e9-480f-acb7-64ba88720d09)
 Make your containerized CI environments truly useful by accelerating your Docker builds
-
-### [39. Optimizing Performance With Throttling in JavaScript](https://hackernoon.com/optimizing-performance-with-throttling-in-javascript)
-![](https://cdn.hackernoon.com/images/Gp8uHyvp6hehmnC1gXMD6uAheaF2-68a2ghg.jpeg)
-Throttling allows you to "slow down" the function, i.e. the function will be executed no more than once in the specified period, even if it is called many times
 
 ### [40. 7 Easy Steps to Set Up Google Analytics on Your Next.JS Website ](https://hackernoon.com/7-easy-steps-to-set-up-google-analytics-on-your-nextjs-website)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-ws93o91.jpeg)
 A guide to help you set up Google Analytics 4 on your Next.js website.
 
-### [41. Jetpack Compose Memory Leaks: A Reference-Graph Deep Dive](https://hackernoon.com/jetpack-compose-memory-leaks-a-reference-graph-deep-dive)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-nj022sz.jpeg)
-Jetpack Compose memory leaks are usually reference leaks. Learn the top leak patterns, why they happen, and how to fix them.
+### [41. Optimizing Performance With Throttling in JavaScript](https://hackernoon.com/optimizing-performance-with-throttling-in-javascript)
+![](https://cdn.hackernoon.com/images/Gp8uHyvp6hehmnC1gXMD6uAheaF2-68a2ghg.jpeg)
+Throttling allows you to "slow down" the function, i.e. the function will be executed no more than once in the specified period, even if it is called many times
 
 ### [42. How to Optimize Scala Code Performance With Almost No Effort](https://hackernoon.com/how-to-optimize-scala-code-performance-with-almost-no-effort)
 ![](https://cdn.hackernoon.com/images/VfA0lp20L9bcjHzMRT9hdikMmrp1-cl92dzu.gif.webp)
@@ -186,17 +188,17 @@ In this 5th instalment of my “Node JS Performance Optimizations” series, I s
 ![](https://cdn.hackernoon.com/images/f6a13xnw.jpg)
 AWS data pipelines are one of the best mechanisms to transfer data from one storage to another storage with a different data type. While transferring data from pipelines, there are several techniques which can be used to optimize the process of copying data. In this article, the scenario would be copying 3 CSV format files which are stored in S3 bucket, to 3 Dynamodb tables.
 
-### [46. Understanding How UUIDs Save Time and Storage](https://hackernoon.com/understanding-how-uuids-save-time-and-storage)
+### [46. AutoMapper vs. Mapster—Know When to Use Which With This Guide](https://hackernoon.com/automapper-vs-mapsterknow-when-to-use-which-with-this-guide)
+![](https://cdn.hackernoon.com/images/0aSFrLbaCteYHVcDBHsLMalscwz1-oj1365w.png)
+AutoMapper vs. Mapster: A comparison of popular .NET libraries for object mapping. Learn which tool to choose for flexibility, performance, and ease of use.
+
+### [47. Understanding How UUIDs Save Time and Storage](https://hackernoon.com/understanding-how-uuids-save-time-and-storage)
 ![](https://cdn.hackernoon.com/images/po2AF1uVMUYujBIJp82uToQNhos1-pw92dfb.jpeg)
 Learn more about the universally unique identifier (UUID) and how using UUID in your QuestDB instance can help reduce query time as well as save storage space.
 
-### [47. Solving Performance Issues with .filter() and .map() Used in Conjunction](https://hackernoon.com/solving-performance-issues-with-filter-and-map-used-in-conjunction-gs4l365p)
+### [48. Solving Performance Issues with .filter() and .map() Used in Conjunction](https://hackernoon.com/solving-performance-issues-with-filter-and-map-used-in-conjunction-gs4l365p)
 ![](https://images.unsplash.com/flagged/photo-1556514767-5c270b96a005?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
 Post their introduction, .map() and .filter() are used in conjunction to death galore in code nowadays because “it’s so easy”. But does blindly using these methods cause performance issues in your code? Let us dig in and find out. I am not going to get into the details of how these functions work because there is TONS of material available for the same.
-
-### [48. AutoMapper vs. Mapster—Know When to Use Which With This Guide](https://hackernoon.com/automapper-vs-mapsterknow-when-to-use-which-with-this-guide)
-![](https://cdn.hackernoon.com/images/0aSFrLbaCteYHVcDBHsLMalscwz1-oj1365w.png)
-AutoMapper vs. Mapster: A comparison of popular .NET libraries for object mapping. Learn which tool to choose for flexibility, performance, and ease of use.
 
 ### [49. 5 Performance Tips For .Net Developers](https://hackernoon.com/5-performance-tips-for-net-developers-q03w356w)
 ![](https://cdn.hackernoon.com/images/OujWaQx7FhMxIORYNRgWYZuh1kb2-zput35pq.png)
@@ -271,25 +273,25 @@ Part 1: Lower precision & larger batch size are standard now
 ![](https://cdn.hackernoon.com/drafts/xm1g3yfs.png)
 This is a collaboration between Baolong Mao's team at JD.com and my team at Alluxio. The original article was published on Alluxio's blog. This article describes how JD built an interactive OLAP platform combining two open-source technologies: Presto and Alluxio.
 
-### [67. Adding Encryption to a Fast Database, Without Compromise](https://hackernoon.com/adding-encryption-to-a-fast-database-without-compromise-5u3b3yth)
+### [67. fmt.Sprintf: Looks Simple But Will Burn A Hole in Your Pocket](https://hackernoon.com/fmtsprintf-looks-simple-but-will-burn-a-hole-in-your-pocket)
+![](https://cdn.hackernoon.com/images/LDruOynCeFhvHi3906Wfi1uzXy03-nw02wtq.webp)
+Explore efficient string concatenation and conversion in Go using alternatives to fmt.Sprintf for better performance and lower memory usage.
+
+### [68. Adding Encryption to a Fast Database, Without Compromise](https://hackernoon.com/adding-encryption-to-a-fast-database-without-compromise-5u3b3yth)
 ![](https://cdn.hackernoon.com/drafts/612x63yh5.png)
 This article will be of particular interest to people who are curious about how powerful encryption can be implemented in high performance systems. It is also for people who just want to know a bit more about how strong encryption works and how all the pieces fit together.
 
-### [68. 3 Easy Ways to Improve The Performance Of Your Python Code](https://hackernoon.com/3-easy-ways-to-improve-performance-of-your-python-code-dw183uzo)
+### [69. 3 Easy Ways to Improve The Performance Of Your Python Code](https://hackernoon.com/3-easy-ways-to-improve-performance-of-your-python-code-dw183uzo)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fg6qy8o3kPEPCXQ9aBtCv5lNUgJx1-rlb3ttc.webp?alt=media&token=41c6d9c2-409a-48b1-95af-7705c92e8a82)
 I. Benchmark, benchmark, benchmark
 
-### [69. The Debugging Writing Contest 2022: Final Round Results Announcement](https://hackernoon.com/the-debugging-writing-contest-2022-final-round-results-announcement)
+### [70. The Debugging Writing Contest 2022: Final Round Results Announcement](https://hackernoon.com/the-debugging-writing-contest-2022-final-round-results-announcement)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-ahc3pmm.jpeg)
 YAAAASSSSS, it’s the Finale! Welcome to the final round results of the Debugging Writing Contest by Sentry!
 
-### [70. A Guide to Improving Your Python Performance Speed](https://hackernoon.com/a-guide-to-improving-your-python-performance-speed-th2835dj)
+### [71. A Guide to Improving Your Python Performance Speed](https://hackernoon.com/a-guide-to-improving-your-python-performance-speed-th2835dj)
 ![](https://cdn.hackernoon.com/images/scJFRtReiyVdTsEi7KjcSIGTVDE3-19ay22vd.jpeg)
 This guide aims to summarize popular methods for boosting the execution speed of your Python code.
-
-### [71. fmt.Sprintf: Looks Simple But Will Burn A Hole in Your Pocket](https://hackernoon.com/fmtsprintf-looks-simple-but-will-burn-a-hole-in-your-pocket)
-![](https://cdn.hackernoon.com/images/LDruOynCeFhvHi3906Wfi1uzXy03-nw02wtq.webp)
-Explore efficient string concatenation and conversion in Go using alternatives to fmt.Sprintf for better performance and lower memory usage.
 
 ### [72. What Is so Great About Golang?](https://hackernoon.com/what-is-so-great-about-golang-fjx33xm)
 ![](https://cdn.hackernoon.com/images/EIcuB1BaaCgyysQkgxzCoeejxvt2-hcj33sn.jpeg)
@@ -311,47 +313,55 @@ Harmless-looking EF Core code can bottleneck performance. Let’s unpack why sto
 ![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-cj1p28n7.jpeg)
 ORM frameworks like Hibernate and other JPA implementors can significantly simplify development of persistence layer. Introducing entity abstraction level helps to model clean business domain and to hide underlying SQL statements used to achieve persistence of the domain. Such approach is especially useful in large domains, since developer no longer needs to create and maintain all SQL statements used by application. 
 
-### [77. Performance Appraisals Today Are Not Agile](https://hackernoon.com/performance-appraisals-today-are-not-agile-fpmh31a7)
-![](https://cdn.hackernoon.com/drafts/oam314m.png)
-We are in the age of the Agile revolution, even non-tech companies and non-tech departments are adopting agile practices and frameworks. The issue is that organizations are making these adoptions without changing the foundation that their companies are built on. One of these major pillars is performance appraisals and it is critical because it is very important to employees. We all want to do well, and get big bonuses, or even get that promotion that we have been working so hard towards. The issue is most companies do not have the Agile mindset and focus mainly on the individual and neglect the team aspect when it comes to performance. This directly hurts organizations that are looking to build mature Agile teams.
-
-### [78. Quality Assurance in Scrum Projects](https://hackernoon.com/quality-assurance-in-scrum-projects)
+### [77. Quality Assurance in Scrum Projects](https://hackernoon.com/quality-assurance-in-scrum-projects)
 ![](https://cdn.hackernoon.com/images/HPW4fI2ZMUf9g51zC0XPDJc8Cdb2-3z93mmp.jpeg)
 Scrum is a set of rules for organizing a flexible workflow, which consists of a team approach, working in iterations, focusing on the goal of each iteration.
 
-### [79. The Debugging Writing Contest 2022: Round 4 Results Announced!](https://hackernoon.com/the-debugging-writing-contest-2022-round-4-results-announced)
+### [78. Performance Appraisals Today Are Not Agile](https://hackernoon.com/performance-appraisals-today-are-not-agile-fpmh31a7)
+![](https://cdn.hackernoon.com/drafts/oam314m.png)
+We are in the age of the Agile revolution, even non-tech companies and non-tech departments are adopting agile practices and frameworks. The issue is that organizations are making these adoptions without changing the foundation that their companies are built on. One of these major pillars is performance appraisals and it is critical because it is very important to employees. We all want to do well, and get big bonuses, or even get that promotion that we have been working so hard towards. The issue is most companies do not have the Agile mindset and focus mainly on the individual and neglect the team aspect when it comes to performance. This directly hurts organizations that are looking to build mature Agile teams.
+
+### [79. Beating JavaScript Performance Limits With Rust and N-API: Building a Faster Image Diff Tool](https://hackernoon.com/beating-javascript-performance-limits-with-rust-and-n-api-building-a-faster-image-diff-tool)
+![](https://cdn.hackernoon.com/images/e62dXSoL6FdWx9wUA9Lka0OQw8A3-1d83gsx.png)
+From JavaScript bottlenecks to SIMD-powered Rust. The engineering journey behind a 3–4× faster image diff tool integrated with Node.js via N-API.
+
+### [80. The Debugging Writing Contest 2022: Round 4 Results Announced!](https://hackernoon.com/the-debugging-writing-contest-2022-round-4-results-announced)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-dd93pum.gif.webp)
 Heyo! Here we are with the Round 4 of the Debugging Writing Contest powered by Sentry and HackerNoon! 
 
-### [80. Meet the Writer: HackerNoon's Contributor Nikita Starichenko, SWE at Snap Inc.](https://hackernoon.com/meet-the-writer-hackernoons-contributor-nikita-starichenko-swe-at-snap-inc)
+### [81. Meet the Writer: HackerNoon's Contributor Nikita Starichenko, SWE at Snap Inc.](https://hackernoon.com/meet-the-writer-hackernoons-contributor-nikita-starichenko-swe-at-snap-inc)
 ![](https://cdn.hackernoon.com/images/OujWaQx7FhMxIORYNRgWYZuh1kb2-4993p0r.jpeg)
 From Engineering to Surfing!
 
-### [81. Achieving Next-level Performance With Distributed Map!](https://hackernoon.com/achieving-next-level-performance-with-distributed-map)
+### [82. Achieving Next-level Performance With Distributed Map!](https://hackernoon.com/achieving-next-level-performance-with-distributed-map)
 ![](https://cdn.hackernoon.com/images/RxSPwEmdsEecWuUEMTXHzk0SkQU2-0293r5x.jpeg)
 Process millions of documents using the new Distributed MAP!
 
-### [82. 7 Optimization Recommendations for JavaScript Developers](https://hackernoon.com/7-optimization-recommendations-for-javascript-developers)
+### [83. 7 Optimization Recommendations for JavaScript Developers](https://hackernoon.com/7-optimization-recommendations-for-javascript-developers)
 ![](https://cdn.hackernoon.com/images/7DtulTMuZUNhuHGe0I2LlQhRAdu1-0193q0o.jpeg)
 In this article, I'll share 7 optimization tips that every JavaScript developer should know.
 
-### [83. Micro-frontend Migration Journey - Part 1: Design](https://hackernoon.com/taking-a-journey-into-micro-frontend-migration-part-1-design)
+### [84. Micro-frontend Migration Journey - Part 1: Design](https://hackernoon.com/taking-a-journey-into-micro-frontend-migration-part-1-design)
 ![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-ya93xcf.jpeg)
 Explore the journey of migrating from a monolithic architecture to a micro-frontend. Gain valuable insights and strategies for micro-frontend migration!
 
-### [84. The Future of Mobile Game Promotion and Advertising](https://hackernoon.com/the-future-of-mobile-game-promotion-and-advertising)
+### [85. The 8GB VRAM Image Model That Feels Instant: Meet FLUX.2 Klein 4B](https://hackernoon.com/the-8gb-vram-image-model-that-feels-instant-meet-flux2-klein-4b)
+![](https://tjzk.replicate.delivery/models_models_featured_image/e32c60b0-a5e4-4846-b5e9-752df87ed6c5/replicate-klein-cover.jpg)
+Meet FLUX.2 Klein 4B: a sub-second image generator and editor that runs on consumer GPUs.
+
+### [86. The Future of Mobile Game Promotion and Advertising](https://hackernoon.com/the-future-of-mobile-game-promotion-and-advertising)
 ![](https://cdn.hackernoon.com/images/YMzDqdXq9MgeEl4dai9nGaZIj8t1-n9g3nsy.jpeg)
 One of the challenges that game developers and publishers face now and will continue to face in the future is the proper promotion of their creations. 
 
-### [85. Think Like Einstein to Achieve Your Goals](https://hackernoon.com/think-like-einstein-to-achieve-your-goals)
-![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-6o93pui.jpeg)
-Focus Like Einstein (And Win Big)
-
-### [86. Salesforce Functions for Caching Expensive Queries](https://hackernoon.com/salesforce-functions-for-caching-expensive-queries)
+### [87. Salesforce Functions for Caching Expensive Queries](https://hackernoon.com/salesforce-functions-for-caching-expensive-queries)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-rw93q9q.jpeg)
 In this article, we will walk through the use of Salesforce Functions to cache expensive queries. 
 
-### [87. AI Just Passed the Turing Test for Piano Music](https://hackernoon.com/ai-just-passed-the-turing-test-for-piano-music)
+### [88. Think Like Einstein to Achieve Your Goals](https://hackernoon.com/think-like-einstein-to-achieve-your-goals)
+![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-6o93pui.jpeg)
+Focus Like Einstein (And Win Big)
+
+### [89. AI Just Passed the Turing Test for Piano Music](https://hackernoon.com/ai-just-passed-the-turing-test-for-piano-music)
 ![](https://arxiv.org/html/2511.07268v1/images/supplementary_training-curves_1.png)
 This is a Plain English Papers summary of a research paper called Generating Piano Music with Transformers: A Comparative Study of Scale, Data, and Metrics [https://www.aimodels.fyi/papers/arxiv/generating-piano-music-transformers-comparative-study-scale?utm_source=hackernoon&utm_medium=referral]. If you like these kinds of analysis, join AIModels.fyi [https://www.aimodels.fyi/?utm_source=hackernoon&utm_medium=referral] or follow us on Twitter [https://x.com/aimodelsfyi].
 
@@ -485,135 +495,135 @@ The real achievement here is methodological. By building many models and compari
 
 Original post: Read on AIModels.fyi [https://www.aimodels.fyi/papers/arxiv/generating-piano-music-transformers-comparative-study-scale?utm_source=hackernoon&utm_medium=referral]
 
-### [88. Beating JavaScript Performance Limits With Rust and N-API: Building a Faster Image Diff Tool](https://hackernoon.com/beating-javascript-performance-limits-with-rust-and-n-api-building-a-faster-image-diff-tool)
-![](https://cdn.hackernoon.com/images/e62dXSoL6FdWx9wUA9Lka0OQw8A3-1d83gsx.png)
-From JavaScript bottlenecks to SIMD-powered Rust. The engineering journey behind a 3–4× faster image diff tool integrated with Node.js via N-API.
+### [90. How Frontier Labs Use FP8 to Train Faster and Spend Less](https://hackernoon.com/how-frontier-labs-use-fp8-to-train-faster-and-spend-less)
+![](https://cdn.hackernoon.com/images/xfsFctZLE6a0UdK3UZyiDlDHMfk2-qbu3cne.png)
+Naively casting to FP8 destroys your numerics. Here's the per-tensor and blockwise quantization mechanics that make it actually work at pretraining scale.
 
-### [89. The Bit Shift Paradox: How "Optimizing" Can Make Code 6× Slower](https://hackernoon.com/the-bit-shift-paradox-how-optimizing-can-make-code-6-slower)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gu02277.jpeg)
-Caching bit shifts looks smart but makes code up to 6× slower. 
-
-### [90. How to Find the “Routes” of All-Pairs Shortest Paths With the Floyd-Warshall Algorithm in C#](https://hackernoon.com/how-to-find-the-routes-of-all-pairs-shortest-paths-with-the-floyd-warshall-algorithm-in-c)
+### [91. How to Find the “Routes” of All-Pairs Shortest Paths With the Floyd-Warshall Algorithm in C#](https://hackernoon.com/how-to-find-the-routes-of-all-pairs-shortest-paths-with-the-floyd-warshall-algorithm-in-c)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-22035nu.webp)
 Implementation of Floyd-Warshall algorithm in C# with route tracking capability to reconstruct the shortest paths routes later.
 
-### [91. How Observability and Monitoring Produces Better Software](https://hackernoon.com/how-observability-and-monitoring-produces-better-software)
+### [92. How Observability and Monitoring Produces Better Software](https://hackernoon.com/how-observability-and-monitoring-produces-better-software)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-pp930hk.jpeg)
 An article focused on deep diving into observability and its significance in software. Its history, goals, the importance of observability, and the issues that 
 
-### [92. How to Optimize the User Experience and Performance via Node.js and Lighthouse](https://hackernoon.com/how-to-optimize-the-user-experience-and-performance-via-nodejs-and-lighthouse)
+### [93. How to Optimize the User Experience and Performance via Node.js and Lighthouse](https://hackernoon.com/how-to-optimize-the-user-experience-and-performance-via-nodejs-and-lighthouse)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-l693p2h.jpeg)
 Why should you concentrate your energy in optimizing the user interface and the user experience of your application instead of focusing on performance side?
 
-### [93. How to Cash 300K Requests per Second in a High-Volume Surveillance System](https://hackernoon.com/how-to-cash-300k-requests-per-second-in-a-high-volume-surveillance-system)
+### [94. How to Cash 300K Requests per Second in a High-Volume Surveillance System](https://hackernoon.com/how-to-cash-300k-requests-per-second-in-a-high-volume-surveillance-system)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2c12ueh.jpeg)
 How we scaled a surveillance system to 300K RPS using eBPF as a caching layer in front of Redis — and why we rewrote parts in Rust to kill latency. 
 
-### [94. How to Program with React Native: Lessons & Best Practices](https://hackernoon.com/how-to-program-with-react-native-lessons-and-best-practices)
-![](https://cdn.hackernoon.com/images/lmNkEcOTDAakdXo3WqhKHpwu7dm2-mp137gb.jpeg)
-Here are some lessons and best practices I've compiled after 2 years with React Native. 
-
-### [95. The Best Solution Ever For Application Monitoring](https://hackernoon.com/the-best-solution-ever-for-application-monitoring-nzq3tw0)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTMgodFHH4evRjSdNFNz3dacaM23-fa623xsm.jpeg?alt=media&token=f56f33c6-9c8d-4639-a099-b4762dbd4a04)
-Just because we do something one way, doesn’t always mean it is the right way … or even the best way.
-
-### [96. How To Monitor Your API Server](https://hackernoon.com/how-to-monitor-your-api-server-szv3t8l)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEVKIyOE5g0e70Zsmj3IswB8Udbk2-1y63een.jpeg?alt=media&token=7f03a9db-9f9d-4233-af54-07094201da2c)
-'Have you developed or are you in the process of creating an API Server that will be used on a production or cloud environment? In this 4th instalment of my Node JS Performance Optimizations series, I show you how to test the availability of your API Server, so that you can understand how many requests per second it can handle whilst performing heavy duty tasks.
-
-### [97. Code Reviews And Why They Matter For Developers Performace](https://hackernoon.com/code-reviews-and-why-they-matter-618i3zv6)
-![](https://cdn.hackernoon.com/images/t57y3zxd.jpg)
-We used to think that the secret to getting better at anything was directly linked to the timed dedicated to practice (we’ve all heard about the 10, 000 hours that stand between us and achieving mastery in any field) but, as in turns out, it’s not how much we practice but also how we do it. According to psychologist Andres Ericsson, “deliberate practice” is what matters and makes a huge difference in achieving expert performance.
-
-### [98. The Quiet Bottleneck in Your Symfony App: Fragmented Indexes and Random UUIDs](https://hackernoon.com/the-quiet-bottleneck-in-your-symfony-app-fragmented-indexes-and-random-uuids)
+### [95. The Quiet Bottleneck in Your Symfony App: Fragmented Indexes and Random UUIDs](https://hackernoon.com/the-quiet-bottleneck-in-your-symfony-app-fragmented-indexes-and-random-uuids)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-bn03bgx.jpeg)
 Random UUIDs silently fragment your database and slow down inserts. Learn how UUID v7, ULIDs, and Symfony’s Uid component dramatically boost performance.
 
-### [99. What Nobody Tells You About AI Agents: 6 Surprising Costs and Realities](https://hackernoon.com/what-nobody-tells-you-about-ai-agents-6-surprising-costs-and-realities)
+### [96. How to Program with React Native: Lessons & Best Practices](https://hackernoon.com/how-to-program-with-react-native-lessons-and-best-practices)
+![](https://cdn.hackernoon.com/images/lmNkEcOTDAakdXo3WqhKHpwu7dm2-mp137gb.jpeg)
+Here are some lessons and best practices I've compiled after 2 years with React Native. 
+
+### [97. How To Monitor Your API Server](https://hackernoon.com/how-to-monitor-your-api-server-szv3t8l)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEVKIyOE5g0e70Zsmj3IswB8Udbk2-1y63een.jpeg?alt=media&token=7f03a9db-9f9d-4233-af54-07094201da2c)
+'Have you developed or are you in the process of creating an API Server that will be used on a production or cloud environment? In this 4th instalment of my Node JS Performance Optimizations series, I show you how to test the availability of your API Server, so that you can understand how many requests per second it can handle whilst performing heavy duty tasks.
+
+### [98. The Best Solution Ever For Application Monitoring](https://hackernoon.com/the-best-solution-ever-for-application-monitoring-nzq3tw0)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FnTMgodFHH4evRjSdNFNz3dacaM23-fa623xsm.jpeg?alt=media&token=f56f33c6-9c8d-4639-a099-b4762dbd4a04)
+Just because we do something one way, doesn’t always mean it is the right way … or even the best way.
+
+### [99. Code Reviews And Why They Matter For Developers Performace](https://hackernoon.com/code-reviews-and-why-they-matter-618i3zv6)
+![](https://cdn.hackernoon.com/images/t57y3zxd.jpg)
+We used to think that the secret to getting better at anything was directly linked to the timed dedicated to practice (we’ve all heard about the 10, 000 hours that stand between us and achieving mastery in any field) but, as in turns out, it’s not how much we practice but also how we do it. According to psychologist Andres Ericsson, “deliberate practice” is what matters and makes a huge difference in achieving expert performance.
+
+### [100. What Nobody Tells You About AI Agents: 6 Surprising Costs and Realities](https://hackernoon.com/what-nobody-tells-you-about-ai-agents-6-surprising-costs-and-realities)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ds0221f.jpeg)
 Organizations need to reframe AI maintenance from a routine IT expense to a critical investment in maintaining revenue streams.
 
-### [100. The #MobileDebugging Writing Contest: Share Your Story and Win from $6000](https://hackernoon.com/the-mobiledebugging-writing-contest-share-your-story-and-win-from-$6000)
+### [101. The #MobileDebugging Writing Contest: Share Your Story and Win from $6000](https://hackernoon.com/the-mobiledebugging-writing-contest-share-your-story-and-win-from-$6000)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-47930vv.jpeg)
 Write about a time when you struggled (and later, triumphed) to identify a bug or performance issue in your mobile application and win from $6000!
 
-### [101. Master the Art of Public Speaking with these 8 Simple Tips](https://hackernoon.com/8-tricks-that-will-make-you-a-master-of-public-speaking-ne2i031zd)
-![](https://cdn.hackernoon.com/images/ep2b31go.jpg)
-It's been a week of preparation and you’ve rehearsed in front everything and everyone, including, but notwithstanding mirrors, husbands and even cats. You’re geared up and ready to go. The stage is set, you start talking and within a few minutes, half of your audience, instead of glazing at you, locks their eyes into their gadgets. How to keep people entertained and win back those whose attention you’ve lost? I’ve uncovered the eight secrets of successful stage performance, which will help you keep even the most capricious audience. 
-
-### [102. The 8GB VRAM Image Model That Feels Instant: Meet FLUX.2 Klein 4B](https://hackernoon.com/the-8gb-vram-image-model-that-feels-instant-meet-flux2-klein-4b)
-![](https://tjzk.replicate.delivery/models_models_featured_image/e32c60b0-a5e4-4846-b5e9-752df87ed6c5/replicate-klein-cover.jpg)
-Meet FLUX.2 Klein 4B: a sub-second image generator and editor that runs on consumer GPUs.
-
-### [103. Eliminating Event Storms With Debouncing in JavaScript](https://hackernoon.com/eliminating-event-storms-with-debouncing-in-javascript)
+### [102. Eliminating Event Storms With Debouncing in JavaScript](https://hackernoon.com/eliminating-event-storms-with-debouncing-in-javascript)
 ![](https://cdn.hackernoon.com/images/Gp8uHyvp6hehmnC1gXMD6uAheaF2-e793rwp.jpeg)
 Using debounce, the function will be executed only when a certain amount of time has passed since the last function call.
 
-### [104. Let Your Browser Take a Breather with Scheduler.yield()](https://hackernoon.com/let-your-browser-take-a-breather-with-scheduleryield)
+### [103. NVIDIA’s Nemotron-3 Super 120B FP8 Targets Agentic Workflows at Scale](https://hackernoon.com/nvidias-nemotron-3-super-120b-fp8-targets-agentic-workflows-at-scale)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9x0246k.jpeg)
+NVIDIA Nemotron-3 Super 120B FP8 combines MoE, Mamba-2, and tool use for long-context reasoning, automation, and high-volume AI workloads.
+
+### [104. Master the Art of Public Speaking with these 8 Simple Tips](https://hackernoon.com/8-tricks-that-will-make-you-a-master-of-public-speaking-ne2i031zd)
+![](https://cdn.hackernoon.com/images/ep2b31go.jpg)
+It's been a week of preparation and you’ve rehearsed in front everything and everyone, including, but notwithstanding mirrors, husbands and even cats. You’re geared up and ready to go. The stage is set, you start talking and within a few minutes, half of your audience, instead of glazing at you, locks their eyes into their gadgets. How to keep people entertained and win back those whose attention you’ve lost? I’ve uncovered the eight secrets of successful stage performance, which will help you keep even the most capricious audience. 
+
+### [105. This Perplexity Embedding Model Understands Chunks in Context](https://hackernoon.com/this-perplexity-embedding-model-understands-chunks-in-context)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ps023cy.jpeg)
+Learn how pplx-embed-context-v1-0.6b creates context-aware chunk embeddings for RAG systems with int8 efficiency, 32K context, and late chunking.
+
+### [106. Let Your Browser Take a Breather with Scheduler.yield()](https://hackernoon.com/let-your-browser-take-a-breather-with-scheduleryield)
 ![](https://cdn.hackernoon.com/images/bNIgelB3faTs5iLRCBflpDw7yiI3-eqk3bc9.jpeg)
 A practical guide to scheduler.yield() – the new Prioritized Task Scheduling API that prevents Main Thread blocking and improves user experience.
 
-### [105. Forget Story Points and Use this Instead](https://hackernoon.com/forget-story-points-and-use-this-instead)
+### [107. Forget Story Points and Use this Instead](https://hackernoon.com/forget-story-points-and-use-this-instead)
 ![](https://cdn.hackernoon.com/images/KobPcf5nazNcjh4iUfyRlmitv723-6da2irj.jpeg)
 After decades of using story points estimations, we see its limitations. It ignores the human factor.
 
-### [106. Understanding APIs and How to Test Them](https://hackernoon.com/what-is-an-api-and-how-to-test-it)
+### [108. Understanding APIs and How to Test Them](https://hackernoon.com/what-is-an-api-and-how-to-test-it)
 ![](https://cdn.hackernoon.com/images/HPW4fI2ZMUf9g51zC0XPDJc8Cdb2-t4b3nr6.jpeg)
 API (an abbreviation of Application Programming Interface) is a special interface (a set of commands/controls) that is designed for the interaction of different
 
-### [107. Is the App Shell Model an Innovation in Web Development?](https://hackernoon.com/is-the-app-shell-model-an-innovation-in-web-development-g04u3u1l)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXusFGl80klV8cE3cV1AMrYfTvmv2-n3143uf7.jpeg?alt=media&token=d3e1c0ba-f0fa-4593-94c6-e13babf32c46)
-A few days ago I somehow ended up on Google's web.dev platform, which I'm assuming is rather new. There is of course the possibility that I have been–or still am–living under a rock, when it comes to new web technologies. 
-
-### [108. The Debugging Writing Contest 2022: Round 5 Results Announced!](https://hackernoon.com/the-debugging-writing-contest-2022-round-5-results-announced)
+### [109. The Debugging Writing Contest 2022: Round 5 Results Announced!](https://hackernoon.com/the-debugging-writing-contest-2022-round-5-results-announced)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-y9b3prr.jpeg)
 Here are the nominees and winners for the 5th Round (August 2022) of Debugging Writing Contest by Sentry and HackerNoon.
 
-### [109. Metadata Synchronization: Design, Implementation and Optimization](https://hackernoon.com/metadata-synchronization-design-implementation-and-optimization)
+### [110. Is the App Shell Model an Innovation in Web Development?](https://hackernoon.com/is-the-app-shell-model-an-innovation-in-web-development-g04u3u1l)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXusFGl80klV8cE3cV1AMrYfTvmv2-n3143uf7.jpeg?alt=media&token=d3e1c0ba-f0fa-4593-94c6-e13babf32c46)
+A few days ago I somehow ended up on Google's web.dev platform, which I'm assuming is rather new. There is of course the possibility that I have been–or still am–living under a rock, when it comes to new web technologies. 
+
+### [111. Metadata Synchronization: Design, Implementation and Optimization](https://hackernoon.com/metadata-synchronization-design-implementation-and-optimization)
 ![](https://cdn.hackernoon.com/images/MEO1Whp7pdbY2Fmqr6xMgItyqS23-t203744.png)
 This article describes the design and the implementation in Alluxio to keep metadata synchronized.
 
-### [110. Graph Databases Introduction: The Power of Connected Data](https://hackernoon.com/graph-databases-introduction-the-power-of-connected-data-zngv3vdc)
-![](https://cdn.hackernoon.com/images/mnph3v5d.jpg)
-In today's economy, more and more companies exist primarily online. While there's much discussion around the consequences of leaving behind the traditional brick and mortar business, one aspect that gets less attention is the significant change in how these companies are now managing their data. Increasingly, businesses seek to understand their customers and how best to meet their needs in a way that monthly reports and KPI charts just can’t address. 
+### [112. NVIDIA Nemotron-3 Super 120B Targets Agentic AI at Scale](https://hackernoon.com/nvidia-nemotron-3-super-120b-targets-agentic-ai-at-scale)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gy023tw.jpeg)
+NVIDIA Nemotron-3 Super 120B is a reasoning-focused LLM built for agentic workflows, tool use, and long-context enterprise AI tasks.
 
-### [111. Postgres and MySQL: Performance Comparisson](https://hackernoon.com/postgres-and-mysql-performance-comparisson-qs3s35g1)
-![](https://cdn.hackernoon.com/images/87TektCts2aPzLfLjzdBJnicMFK2-xw1f33ea.jpeg)
-What workload analysis and running queries can teach us about the performance differences in JSON, indexing, and concurrency.
+### [113. The Bit Shift Paradox: How "Optimizing" Can Make Code 6× Slower](https://hackernoon.com/the-bit-shift-paradox-how-optimizing-can-make-code-6-slower)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-gu02277.jpeg)
+Caching bit shifts looks smart but makes code up to 6× slower. 
 
-### [112. Pretty Slow / Ugly Fast: How to Optimize your Code in 19 Different Ways](https://hackernoon.com/pretty-slow-ugly-fast-how-to-optimize-your-code-in-19-different-ways)
+### [114. Pretty Slow / Ugly Fast: How to Optimize your Code in 19 Different Ways](https://hackernoon.com/pretty-slow-ugly-fast-how-to-optimize-your-code-in-19-different-ways)
 ![](https://cdn.hackernoon.com/images/u2j6S8lkcpSo8y2DC5puAo1YHIF3-60m39wz.jpeg)
 Balancing elegance & performance in JavaScript: Explore 19 code patterns to find when clean code can slow you down & when to opt for speed over style.
 
-### [113. Solved a Software Performance Issue? Share Your Story and Win $$$!](https://hackernoon.com/solved-a-software-performance-issue-share-your-story-and-win-$$$)
+### [115. Graph Databases Introduction: The Power of Connected Data](https://hackernoon.com/graph-databases-introduction-the-power-of-connected-data-zngv3vdc)
+![](https://cdn.hackernoon.com/images/mnph3v5d.jpg)
+In today's economy, more and more companies exist primarily online. While there's much discussion around the consequences of leaving behind the traditional brick and mortar business, one aspect that gets less attention is the significant change in how these companies are now managing their data. Increasingly, businesses seek to understand their customers and how best to meet their needs in a way that monthly reports and KPI charts just can’t address. 
+
+### [116. Postgres and MySQL: Performance Comparisson](https://hackernoon.com/postgres-and-mysql-performance-comparisson-qs3s35g1)
+![](https://cdn.hackernoon.com/images/87TektCts2aPzLfLjzdBJnicMFK2-xw1f33ea.jpeg)
+What workload analysis and running queries can teach us about the performance differences in JSON, indexing, and concurrency.
+
+### [117. Alibaba’s ControlNet Upgrade: Z-Image-Turbo 2.0 Explained](https://hackernoon.com/alibabas-controlnet-upgrade-z-image-turbo-20-explained)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5d024b9.jpeg)
+Want diffusion that follows your layout? Learn Z-Image-Turbo-Fun ControlNet Union 2.0—multi-control inputs, faster inference, better refinement.
+
+### [118. Solved a Software Performance Issue? Share Your Story and Win $$$!](https://hackernoon.com/solved-a-software-performance-issue-share-your-story-and-win-$$$)
 ![](https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-mn93nuu.jpeg)
 Hey Hackers! Do you have a kick-ass software performance story to share? Here’s your chance to win money from a $1000 monthly prize pool.
 
-### [114. 6 Must Buy Graphics Cards for Cryptocurrency Mining](https://hackernoon.com/6-must-buy-graphics-cards-for-cryptocurrency-mining)
+### [119. 6 Must Buy Graphics Cards for Cryptocurrency Mining](https://hackernoon.com/6-must-buy-graphics-cards-for-cryptocurrency-mining)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-lq93y5l.jpeg)
 What are the options for the best graphics cards for cryptocurrency mining? Here is a study.
 
-### [115. Implementing the Blocked Floyd-Warshall Algorithm for Solving All-pairs Shortest Path Problem in C#](https://hackernoon.com/implementing-the-blocked-floyd-warshall-algorithm-for-solving-all-pairs-shortest-path-problem-in-c)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7x02pe8.jpeg)
-Implementation of cache-friendly Blocked Floyd-Warshall algorithm in C# (parallelism and vectorisation) coated in a basic theory behind caching and profiling.
-
-### [116. Learn How to Avoid the N+1 Problem in Django REST Framework](https://hackernoon.com/learn-how-to-avoid-the-n1-problem-in-django-rest-framework)
-![](https://cdn.hackernoon.com/images/qLFXw9TpduS1Cu2jVtSIcyGoLpk1-wl936b8.jpeg)
-Learn how to avoid the N+1 problem in Django REST framework serializer. Optimize your app's performance by using JOIN statements to retrieve related data.
-
-### [117. #Debugging Writing Contest 2022: Round 2 Results Announced](https://hackernoon.com/debugging-writing-contest-2022-round-2-results-announced)
-![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-mfd3zm8.jpeg)
-The wait is over. The Round 2 results for Debugging Writing Contest held with Sentry are here!!
-
-### [118. The Debugging Writing Contest 2022: Round 3 Results Announced!](https://hackernoon.com/the-debugging-writing-contest-2022-round-3-results-announced)
-![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-ytd3zq5.gif.webp)
-Round 3, here we go!! Let’s see the June winners of the Debugging Writing Contest by Sentry!
-
-### [119. Doctrine DQL vs Native SQL in Symfony: Which Is Faster?](https://hackernoon.com/doctrine-dql-vs-native-sql-in-symfony-which-is-faster)
+### [120. Doctrine DQL vs Native SQL in Symfony: Which Is Faster?](https://hackernoon.com/doctrine-dql-vs-native-sql-in-symfony-which-is-faster)
 ![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-sw83exb.jpeg)
 Should you use Doctrine DQL or Native SQL in Symfony? Learn when each wins with benchmark results, DTO patterns, and real production scenarios.
 
-### [120. The Math Trick That Lets Deep Networks Get Smarter Without Falling Apart](https://hackernoon.com/the-math-trick-that-lets-deep-networks-get-smarter-without-falling-apart)
+### [121. #Debugging Writing Contest 2022: Round 2 Results Announced](https://hackernoon.com/debugging-writing-contest-2022-round-2-results-announced)
+![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-mfd3zm8.jpeg)
+The wait is over. The Round 2 results for Debugging Writing Contest held with Sentry are here!!
+
+### [122. The Math Trick That Lets Deep Networks Get Smarter Without Falling Apart](https://hackernoon.com/the-math-trick-that-lets-deep-networks-get-smarter-without-falling-apart)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-xu023zy.jpeg)
 This is a Plain English Papers summary of a research paper called mHC: Manifold-Constrained Hyper-Connections [https://www.aimodels.fyi/papers/arxiv/mhc-manifold-constrained-hyper-connections?utm_source=hackernoon&utm_medium=referral]. If you like these kinds of analysis, join AIModels.fyi [https://www.aimodels.fyi/?utm_source=hackernoon&utm_medium=referral] or follow us on Twitter [https://x.com/aimodelsfyi].
 
@@ -683,47 +693,89 @@ The paper's real contribution isn't any single technical detail. It's the recogn
 
 Original post: Read on AIModels.fyi [https://www.aimodels.fyi/papers/arxiv/mhc-manifold-constrained-hyper-connections?utm_source=hackernoon&utm_medium=referral]
 
-### [121. The Developer’s Guide to Bulletproof API Security in Node.js](https://hackernoon.com/the-developers-guide-to-bulletproof-api-security-in-nodejs)
+### [123. Implementing the Blocked Floyd-Warshall Algorithm for Solving All-pairs Shortest Path Problem in C#](https://hackernoon.com/implementing-the-blocked-floyd-warshall-algorithm-for-solving-all-pairs-shortest-path-problem-in-c)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-7x02pe8.jpeg)
+Implementation of cache-friendly Blocked Floyd-Warshall algorithm in C# (parallelism and vectorisation) coated in a basic theory behind caching and profiling.
+
+### [124. Learn How to Avoid the N+1 Problem in Django REST Framework](https://hackernoon.com/learn-how-to-avoid-the-n1-problem-in-django-rest-framework)
+![](https://cdn.hackernoon.com/images/qLFXw9TpduS1Cu2jVtSIcyGoLpk1-wl936b8.jpeg)
+Learn how to avoid the N+1 problem in Django REST framework serializer. Optimize your app's performance by using JOIN statements to retrieve related data.
+
+### [125. The Debugging Writing Contest 2022: Round 3 Results Announced!](https://hackernoon.com/the-debugging-writing-contest-2022-round-3-results-announced)
+![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-ytd3zq5.gif.webp)
+Round 3, here we go!! Let’s see the June winners of the Debugging Writing Contest by Sentry!
+
+### [126. The Developer’s Guide to Bulletproof API Security in Node.js](https://hackernoon.com/the-developers-guide-to-bulletproof-api-security-in-nodejs)
 ![](https://cdn.hackernoon.com/images/ai-security-cm8znsrc0sweh8r36w8ko7fv.png)
 How to avoid common security vulnerabilities and build safer applications from the start.
 
-### [122. Strategies For Mobile App Performance Testing](https://hackernoon.com/strategies-for-mobile-app-performance-testing)
+### [127. Strategies For Mobile App Performance Testing](https://hackernoon.com/strategies-for-mobile-app-performance-testing)
 ![](https://cdn.hackernoon.com/images/XzHPuJxAd3aeUjUxw9gCGbNFUEI3-f193rcr.jpeg)
 A good app is one that can perform better and these performances are tested through some performance matrices which are highlighted here.
 
-### [123. Build, Monitor and Troubleshoot Your Smart Contracts on RSK with Tenderly](https://hackernoon.com/build-monitor-and-troubleshoot-your-smart-contracts-on-rsk-with-tenderly-zm1h34sb)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-el3029dh.jpeg)
-Smart Contracts Monitoring Platform Tenderly has added support for RSK. Developers working with RSK can now make use of Tenderly’s seamless tools.
+### [128. Going Beyond Spring: Exploring Vert.x for Reactive Java Development](https://hackernoon.com/going-beyond-spring-exploring-vertx-for-reactive-java-development)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-s1823gb.jpeg)
+Eclipse Vert.x vs Spring WebFlux a practical Java comparison of event-loop architecture, performance, and reactive programming with real code examples.
 
-### [124. Essential Programming Versus Time Complexity](https://hackernoon.com/essential-programming-versus-time-complexity-8ab536o6)
-![](https://cdn.hackernoon.com/drafts/cyga36fb.png)
-In computer programming, as in other aspects of life, there are different ways of solving a problem. These different ways may imply different times, computational power, or any other metric you choose, so we need to compare the efficiency of different approaches to pick up the right one.
+### [129. A No-Drama Guide to Deploying Qwen Image Editing on Standard GPUs](https://hackernoon.com/a-no-drama-guide-to-deploying-qwen-image-editing-on-standard-gpus)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o6024jv.jpeg)
+<p><em>This is a simplified guide to an AI model called <a href="https://www.aimodels.fyi/models/huggingFace/nunchaku-qwen-image-edit-2509-nunchaku-ai?utm_source=hackernoon&utm_medium=referral">nunchaku-qwen-image-edit-2509</a> maintained by <a href="https://www.aimodels.fyi/creators/huggingFace/nunchaku-ai?utm_source=hackernoon&utm_medium=referral">nunchaku-ai</a>. If you like these kinds of analysis, join <a href="https://www.aimodels.fyi/?utm_source=hackernoon&utm_medium=referral">AIModels.fyi</a> or follow us on <a href="https://x.com/aimodelsfyi">Twitter</a>.</em></p>
 
-### [125. 5 Key Valuation Ratios Every Company Founder Should Know](https://hackernoon.com/5-key-valuation-ratios-every-company-founder-should-know)
+<h2>Model overview</h2>
+<p><code>nunchaku-qwen-image-edit-2509</code> is a quantized version of Qwen-Image-Edit-2509, an image-editing model developed by the Nunchaku Team. This model is based on <a href="https://aimodels.fyi/models/huggingFace/nunchaku-qwen-image-nunchaku-tech?utm_source=hackernoon&utm_medium=referral">Qwen-Image</a> and represents advances in complex text rendering for image manipulation tasks. The quantization process reduces model size while maintaining performance quality, making it suitable for efficient inference on consumer hardware. The model comes in multiple variants with different data types (INT4 and NVFP4) and rank configurations to balance speed and quality based on your hardware requirements.</p>
+<h2>Model inputs and outputs</h2>
+<p>The model accepts images and text instructions as inputs and produces edited images as outputs. It operates as an image-to-image transformer, allowing users to modify existing images based on textual descriptions or editing prompts. The quantized variants preserve the core functionality of the original while reducing computational demands.</p>
+<h3>Inputs</h3>
+<ul>
+<li><strong>Source image</strong>: The image to be edited</li>
+<li><strong>Text instruction</strong>: A description of the desired edit or modification</li>
+</ul>
+<h3>Outputs</h3>
+<ul>
+<li><strong>Edited image</strong>: The modified image reflecting the requested changes</li>
+</ul>
+<h2>Capabilities</h2>
+<p>The model handles text-guided image editing with support for complex text rendering. It can process various editing scenarios from simple modifications to more intricate transformations. Multiple versions exist for different use cases: standard inference models for general editing, 4-step lightning models for rapid generation, and 8-step variants for cases where quality matters over speed. The lightning models are fused with specialized LoRA weights to accelerate inference while minimizing quality loss.</p>
+<h2>What can I use it for?</h2>
+<p>Image editing applications benefit from this model's efficiency and quality balance. Content creators can use it for rapid prototyping of visual edits, marketers can automate product image modifications, and developers can integrate it into applications requiring fast image manipulation. The quantized nature makes it accessible for deployment on standard GPUs without requiring high-end hardware. The 4-step lightning variants are particularly useful when response time is critical, such as in interactive web applications or real-time editing interfaces.</p>
+<h2>Things to try</h2>
+<p>Experiment with different rank configurations (r32 for speed, r128 for quality) to find the optimal balance for your specific use case. Test the lightning variants with 4 or 8 steps to observe how inference speed improves with fewer diffusion steps. Compare results between INT4 and NVFP4 data types if you have access to different GPU architectures. Try combining editing instructions with various image styles to understand how the model handles complex artistic transformations and maintains coherence with detailed text prompts.</p>
+
+<hr/><p><strong>Original post:</strong> <a href="https://www.aimodels.fyi/models/huggingFace/nunchaku-qwen-image-edit-2509-nunchaku-ai?utm_source=hackernoon&utm_medium=referral">Read on AIModels.fyi</a></p>
+
+### [130. 5 Key Valuation Ratios Every Company Founder Should Know](https://hackernoon.com/5-key-valuation-ratios-every-company-founder-should-know)
 ![](https://cdn.hackernoon.com/images/uJdCz5UU86XmC8QthQV4ex8gZE52-zh93l07.jpeg)
 Ratios of valuation are important in establishing a company's value. A valuation ratio expresses the link between a company's market value or equity and a basic
 
-### [126. Alibaba’s ControlNet Upgrade: Z-Image-Turbo 2.0 Explained](https://hackernoon.com/alibabas-controlnet-upgrade-z-image-turbo-20-explained)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5d024b9.jpeg)
-Want diffusion that follows your layout? Learn Z-Image-Turbo-Fun ControlNet Union 2.0—multi-control inputs, faster inference, better refinement.
+### [131. A beginner's guide to the Supergemma4-26b-uncensored-gguf-v2 model by Jiunsong on Huggingface](https://hackernoon.com/a-beginners-guide-to-the-supergemma4-26b-uncensored-gguf-v2-model-by-jiunsong-on-huggingface)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-yk0212y.jpeg)
+This is a simplified guide to an AI model called supergemma4-26b-uncensored-gguf-v2 [https://www.aimodels.fyi/models/huggingFace/supergemma4-26b-uncensored-g...
 
-### [127. Optimize Your Front End Applications by Migrating From Moment to Dayjs](https://hackernoon.com/optimize-your-front-end-applications-by-migrating-from-moment-to-dayjs-gh2b3xio)
-![](https://cdn.hackernoon.com/drafts/6ay3xic.png)
-Does your application use dates in some way?
+### [132. Build, Monitor and Troubleshoot Your Smart Contracts on RSK with Tenderly](https://hackernoon.com/build-monitor-and-troubleshoot-your-smart-contracts-on-rsk-with-tenderly-zm1h34sb)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-el3029dh.jpeg)
+Smart Contracts Monitoring Platform Tenderly has added support for RSK. Developers working with RSK can now make use of Tenderly’s seamless tools.
 
-### [128. Maximize the Performance of Your Django App with these Techniques](https://hackernoon.com/maximize-the-performance-of-your-django-app-with-these-techniques)
+### [133. Essential Programming Versus Time Complexity](https://hackernoon.com/essential-programming-versus-time-complexity-8ab536o6)
+![](https://cdn.hackernoon.com/drafts/cyga36fb.png)
+In computer programming, as in other aspects of life, there are different ways of solving a problem. These different ways may imply different times, computational power, or any other metric you choose, so we need to compare the efficiency of different approaches to pick up the right one.
+
+### [134. Tencent’s Tiny Translator: How HY-MT1.5-1.8B Competes With Big Translation APIs](https://hackernoon.com/tencents-tiny-translator-how-hy-mt15-18b-competes-with-big-translation-apis)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9c0220l.jpeg)
+Meet Tencent’s HY-MT1.5-1.8B: a compact translation model built for speed, edge deployment, and surprisingly strong quality.
+
+### [135. Maximize the Performance of Your Django App with these Techniques](https://hackernoon.com/maximize-the-performance-of-your-django-app-with-these-techniques)
 ![](https://cdn.hackernoon.com/images/gtSwy6u1vhgivwjbXJNzIKXLQFB3-mp92i24.jpeg)
 Learn about caching, database optimization, minimizing queries, using CDN, profiling & monitoring, and more. Boost your app's speed and efficiency today!
 
-### [129. Benchmarks for Inserting Documents Using C# for MongoDB](https://hackernoon.com/benchmarks-for-inserting-documents-using-c-for-mongodb)
-![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-7m835h7.jpeg)
-Curious about C# MongoDB insert benchmarks? In this article, I show you BenchmarkDotNet code and the results for several variations of inserting data!
+### [136. Optimize Your Front End Applications by Migrating From Moment to Dayjs](https://hackernoon.com/optimize-your-front-end-applications-by-migrating-from-moment-to-dayjs-gh2b3xio)
+![](https://cdn.hackernoon.com/drafts/6ay3xic.png)
+Does your application use dates in some way?
 
-### [130. How to use Javascript's Performance API and measure page performance](https://hackernoon.com/how-to-use-javascripts-performance-api-and-measure-page-performance-jw1i3yf7)
-![](https://cdn.hackernoon.com/images/niy2e8a.jpg)
-The High Resolution Time standard defines a Performance interface that supports client-side latency measurements within applications. The Performance interfaces are considered high resolution because they are accurate to a thousandth of a millisecond (subject to hardware or software constraints). The interfaces support a number of use cases including calculating frame-rates (potentially important in animations) and benchmarking (such as the time to load a resource).
+### [137. CPython Lists, Explained Like You’re the Interpreter](https://hackernoon.com/cpython-lists-explained-like-youre-the-interpreter)
+![](https://cdn.hackernoon.com/images/SSRksvjtMhPrICUmRreSJAn5Dg43-lc83rk9.jpeg)
+A practical deep dive into how list works in CPython: why indexing is fast, what size vs capacity really means, and why append() is amortized O(1).
 
-### [131. The Map-Augmented Agent That Finally Makes AI Good at Finding Places](https://hackernoon.com/the-map-augmented-agent-that-finally-makes-ai-good-at-finding-places)
+### [138. The Map-Augmented Agent That Finally Makes AI Good at Finding Places](https://hackernoon.com/the-map-augmented-agent-that-finally-makes-ai-good-at-finding-places)
 ![](https://arxiv.org/html/2601.05432v1/x2.png)
 <p><em>This is a Plain English Papers summary of a research paper called <a href="https://www.aimodels.fyi/papers/arxiv/thinking-map-reinforced-parallel-map-augmented-agent?utm_source=hackernoon&utm_medium=referral">Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization</a>. If you like these kinds of analysis, join <a href="https://www.aimodels.fyi/?utm_source=hackernoon&utm_medium=referral">AIModels.fyi</a> or follow us on <a href="https://x.com/aimodelsfyi">Twitter</a>.</em></p>
 
@@ -792,63 +844,11 @@ The High Resolution Time standard defines a Performance interface that supports 
 
 <hr/><p><strong>Original post:</strong> <a href="https://www.aimodels.fyi/papers/arxiv/thinking-map-reinforced-parallel-map-augmented-agent?utm_source=hackernoon&utm_medium=referral">Read on AIModels.fyi</a></p>
 
-### [132. Shrinking Choices, Shrinking Values  - Property-based Testing (Part 5)](https://hackernoon.com/shrinking-choices-shrinking-values-property-based-testing-part-5)
-![](https://cdn.hackernoon.com/images/G7xnCfjZh5VWW5gNObhHMmWwODk1-ul928km.jpeg)
-Explaining how property-based testing libraries like hypothesis shrink random values to make them easier to understand and debug.
+### [139. Benchmarks for Inserting Documents Using C# for MongoDB](https://hackernoon.com/benchmarks-for-inserting-documents-using-c-for-mongodb)
+![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-7m835h7.jpeg)
+Curious about C# MongoDB insert benchmarks? In this article, I show you BenchmarkDotNet code and the results for several variations of inserting data!
 
-### [133. Tencent’s Tiny Translator: How HY-MT1.5-1.8B Competes With Big Translation APIs](https://hackernoon.com/tencents-tiny-translator-how-hy-mt15-18b-competes-with-big-translation-apis)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9c0220l.jpeg)
-Meet Tencent’s HY-MT1.5-1.8B: a compact translation model built for speed, edge deployment, and surprisingly strong quality.
-
-### [134. Explaining Important Skills For Hero Developers Using Lego Bricks](https://hackernoon.com/explaining-important-skills-for-hero-developers-using-lego-bricks-ru9832ax)
-![](https://cdn.hackernoon.com/drafts/a61ev36fi.png)
-Programming is like building Lego bricks. Any developer can pick a brand new Lego set and build it following the instructions. This is very easy. Think of it as coding school assignments or entry level tutorials.
-
-### [135. CPython Lists, Explained Like You’re the Interpreter](https://hackernoon.com/cpython-lists-explained-like-youre-the-interpreter)
-![](https://cdn.hackernoon.com/images/SSRksvjtMhPrICUmRreSJAn5Dg43-lc83rk9.jpeg)
-A practical deep dive into how list works in CPython: why indexing is fast, what size vs capacity really means, and why append() is amortized O(1).
-
-### [136. Subscription Managers: When They’re Worth It](https://hackernoon.com/subscription-managers-when-theyre-worth-it)
-![](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/12c7d08f-224e-41e4-be30-c21cfc2d13a2/image.png?t=1750452716)
-Everyone who runs a subscription business has to eventually decide if they’re going buy a subscription manger.
-
-### [137. AI Finally Learned That Movies Need Audio Too](https://hackernoon.com/ai-finally-learned-that-movies-need-audio-too)
-![](https://arxiv.org/html/2601.03233v1/assets/figures/fig-1-overview-v2.png)
-AI video generation has solved visuals—but sound has lagged behind.
-
-### [138. Node.js Performance: The Stuff I Wish Someone Had Told Me](https://hackernoon.com/nodejs-performance-the-stuff-i-wish-someone-had-told-me)
-![](https://cdn.hackernoon.com/images/performance-abstract-artstyle-q2atrzxcq9opzikufptdy2mp.png)
-I have been in the tech industry for more than a decade, and during this time, I must admit I have broken production multiple times. 
-
-### [139. Breaking the Bottleneck: How Symfony Messenger Handles Heavy Workloads](https://hackernoon.com/breaking-the-bottleneck-how-symfony-messenger-handles-heavy-workloads)
-![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-yb03a8q.jpeg)
-Users today expect applications to be fast and responsive, which can be a challenge when dealing with resource-intensive tasks. 
-
-### [140. NodeJS: Code Execution Monitoring With Inspector](https://hackernoon.com/nodejs-code-execution-monitoring-with-inspector-nd18359f)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpDUI21JXq3hUt99Uzg6NBXjyGOB2-jk2c3zsn.jpeg?alt=media&token=8353491a-66a8-4021-accd-76c013e3d403)
-Have you ever desired to watch your code running, instead of just imagining it?
-
-### [141. Six Powerful Ways to Improve Your Mobile App](https://hackernoon.com/six-powerful-ways-to-improve-your-mobile-app)
-![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-gg93sys.jpeg)
-Mobile applications are more popular than ever before. Do you want to maximize engagement and build a successful app? If so, we have you covered. 
-
-### [142. Boost Mobile Performance To Better UX](https://hackernoon.com/boost-mobile-performance-to-better-ux-l7m3ti4)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzckzAU7gH5dDcR9k3jVDnFjT6Kx1-re7y3uwf.jpeg?alt=media&token=ff05637b-a2f1-4f04-a428-a9cf21416e45)
-What’s one of the biggest predictors of mobile app success? Performance. Here’s how to whip yours into shape so mobile app performance problems don’t cost you downloads, revenue, and brand perception.
-
-### [143. Testing the Perfornace and Privacy Settings of COVID-19 Vaccine Websites](https://hackernoon.com/testing-the-perfornace-and-privacy-settings-of-covid-19-vaccine-websites)
-![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-hk1o35dv.jpeg)
-The government websites responsible for helping citizens get their COVID-19 Vaccines have been found to have less-than-ideal accessibility and privacy features.
-
-### [144. Does CPU Clock Speed Impact Your Blockchain Node?](https://hackernoon.com/does-cpu-clock-speed-impact-your-blockchain-node-ol2w3zmr)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXtquhiRWkwNX4TRMzmnSF6okrgn1-kkr3w3t.jpeg?alt=media&token=25fa679e-e2fe-4787-86d2-cd1d66f05062)
-If you are going to plan your Blockchain Network Deployment on AWS, Azure, GCP or even a Private Cloud. My question is how do you decide what metal should power it and then what's the definition of that Metal? 
-
-### [145. Javascript Methods from Performance Timeline API](https://hackernoon.com/javascript-methods-from-performance-timeline-api-9j1c3ye2)
-![](https://cdn.hackernoon.com/images/tqy2elv.jpg)
-The Performance Timeline API defines extensions to the Performance interface to support client-side latency measurements within applications. The extensions provide interfaces to retrieve performance entry metrics based on specific filter criteria. The standard also includes interfaces that allow an application to define performance observer callbacks that are notified when specific performance events are added to the browser's performance timeline.
-
-### [146. This Llama Model Knows When to Think: Inside Llama3.3-8B Instruct + “Reasoning Mode”](https://hackernoon.com/this-llama-model-knows-when-to-think-inside-llama33-8b-instruct-reasoning-mode)
+### [140. This Llama Model Knows When to Think: Inside Llama3.3-8B Instruct + “Reasoning Mode”](https://hackernoon.com/this-llama-model-knows-when-to-think-inside-llama33-8b-instruct-reasoning-mode)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-p5023ti.jpeg)
 <p><em>This is a simplified guide to an AI model called <a href="https://www.aimodels.fyi/models/huggingFace/llama3.3-8b-instruct-thinking-claude-4.5-opus-high-reasoning-davidau?utm_source=hackernoon&utm_medium=referral">Llama3.3-8B-Instruct-Thinking-Claude-4.5-Opus-High-Reasoning</a> maintained by <a href="https://www.aimodels.fyi/creators/huggingFace/DavidAU?utm_source=hackernoon&utm_medium=referral">DavidAU</a>. If you like these kinds of analysis, join <a href="https://www.aimodels.fyi/?utm_source=hackernoon&utm_medium=referral">AIModels.fyi</a> or follow us on <a href="https://x.com/aimodelsfyi">Twitter</a>.</em></p>
 
@@ -877,65 +877,235 @@ The Performance Timeline API defines extensions to the Performance interface to 
 
 <hr/><p><strong>Original post:</strong> <a href="https://www.aimodels.fyi/models/huggingFace/llama3.3-8b-instruct-thinking-claude-4.5-opus-high-reasoning-davidau?utm_source=hackernoon&utm_medium=referral">Read on AIModels.fyi</a></p>
 
-### [147. Monitoring Your WebRTC Applications’ Performance Can Tremendously Improve Your User Experience](https://hackernoon.com/monitoring-your-webrtc-applications-performance-can-tremendously-improve-your-user-experience)
+### [141. How to use Javascript's Performance API and measure page performance](https://hackernoon.com/how-to-use-javascripts-performance-api-and-measure-page-performance-jw1i3yf7)
+![](https://cdn.hackernoon.com/images/niy2e8a.jpg)
+The High Resolution Time standard defines a Performance interface that supports client-side latency measurements within applications. The Performance interfaces are considered high resolution because they are accurate to a thousandth of a millisecond (subject to hardware or software constraints). The interfaces support a number of use cases including calculating frame-rates (potentially important in animations) and benchmarking (such as the time to load a resource).
+
+### [142. Why CIC Private Debt’s Risk Hire Matters More Than It Looks](https://hackernoon.com/why-cic-private-debts-risk-hire-matters-more-than-it-looks)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-qe024qs.webp)
+CIC Private Debt’s new risk hire signals how private credit firms are preparing for a tougher cycle where operations may matter as much as returns.
+
+### [143. Shrinking Choices, Shrinking Values  - Property-based Testing (Part 5)](https://hackernoon.com/shrinking-choices-shrinking-values-property-based-testing-part-5)
+![](https://cdn.hackernoon.com/images/G7xnCfjZh5VWW5gNObhHMmWwODk1-ul928km.jpeg)
+Explaining how property-based testing libraries like hypothesis shrink random values to make them easier to understand and debug.
+
+### [144. Explaining Important Skills For Hero Developers Using Lego Bricks](https://hackernoon.com/explaining-important-skills-for-hero-developers-using-lego-bricks-ru9832ax)
+![](https://cdn.hackernoon.com/drafts/a61ev36fi.png)
+Programming is like building Lego bricks. Any developer can pick a brand new Lego set and build it following the instructions. This is very easy. Think of it as coding school assignments or entry level tutorials.
+
+### [145. Subscription Managers: When They’re Worth It](https://hackernoon.com/subscription-managers-when-theyre-worth-it)
+![](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/12c7d08f-224e-41e4-be30-c21cfc2d13a2/image.png?t=1750452716)
+Everyone who runs a subscription business has to eventually decide if they’re going buy a subscription manger.
+
+### [146. Your Microfrontend Ships More Icons Than It Uses: Here’s How I Fixed That](https://hackernoon.com/your-microfrontend-ships-more-icons-than-it-uses-heres-how-i-fixed-that)
+![](https://cdn.hackernoon.com/images/7UBokrlKTNehmygVQtN8RhwnyAG2-n4d3fvd.png)
+Microfrontends often ship hundreds of unused SVG icons. Learn how a build-time plugin reduced icon payload by 88% with zero runtime cost. 
+
+### [147. AI Finally Learned That Movies Need Audio Too](https://hackernoon.com/ai-finally-learned-that-movies-need-audio-too)
+![](https://arxiv.org/html/2601.03233v1/assets/figures/fig-1-overview-v2.png)
+AI video generation has solved visuals—but sound has lagged behind.
+
+### [148. NodeJS: Code Execution Monitoring With Inspector](https://hackernoon.com/nodejs-code-execution-monitoring-with-inspector-nd18359f)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FpDUI21JXq3hUt99Uzg6NBXjyGOB2-jk2c3zsn.jpeg?alt=media&token=8353491a-66a8-4021-accd-76c013e3d403)
+Have you ever desired to watch your code running, instead of just imagining it?
+
+### [149. Node.js Performance: The Stuff I Wish Someone Had Told Me](https://hackernoon.com/nodejs-performance-the-stuff-i-wish-someone-had-told-me)
+![](https://cdn.hackernoon.com/images/performance-abstract-artstyle-q2atrzxcq9opzikufptdy2mp.png)
+I have been in the tech industry for more than a decade, and during this time, I must admit I have broken production multiple times. 
+
+### [150. The Hidden Audio Bias Inside Audio-Visual Speech Recognition](https://hackernoon.com/the-hidden-audio-bias-inside-audio-visual-speech-recognition)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-zv02xa9.jpeg)
+This is a Plain English Papers summary of a research paper called Dr. SHAP-AV: Decoding Relative Modality Contributions via Shapley Attribution in Audio-Visu...
+
+### [151. Six Powerful Ways to Improve Your Mobile App](https://hackernoon.com/six-powerful-ways-to-improve-your-mobile-app)
+![](https://cdn.hackernoon.com/images/q44saPpzlJZ2rVoCgXZvNdemttI2-gg93sys.jpeg)
+Mobile applications are more popular than ever before. Do you want to maximize engagement and build a successful app? If so, we have you covered. 
+
+### [152. Boost Mobile Performance To Better UX](https://hackernoon.com/boost-mobile-performance-to-better-ux-l7m3ti4)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FzckzAU7gH5dDcR9k3jVDnFjT6Kx1-re7y3uwf.jpeg?alt=media&token=ff05637b-a2f1-4f04-a428-a9cf21416e45)
+What’s one of the biggest predictors of mobile app success? Performance. Here’s how to whip yours into shape so mobile app performance problems don’t cost you downloads, revenue, and brand perception.
+
+### [153. Qwopus3.5-9B-v3 Brings Smarter Reasoning](https://hackernoon.com/qwopus35-9b-v3-brings-smarter-reasoning)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ga021hf.jpeg)
+Qwopus3.5-9B-v3 boosts reasoning accuracy and efficiency, delivering stronger code and logic performance with shorter reasoning traces.
+
+### [154. Monitoring Your WebRTC Applications’ Performance Can Tremendously Improve Your User Experience](https://hackernoon.com/monitoring-your-webrtc-applications-performance-can-tremendously-improve-your-user-experience)
 ![](https://cdn.hackernoon.com/images/xwJ8KWyeYPdN7nBgfjNImVOPn3B2-o7i3p46.jpeg)
 The last thing a business wants is to be known as an unreliable and poorly performing service, especially if there are similar solutions a few clicks away. 
 
-### [148. How to Benchmark the End-to-End Performance of Different I/O Solutions for Model Training](https://hackernoon.com/how-to-benchmark-the-end-to-end-performance-of-different-io-solutions-for-model-training)
+### [155. Testing the Perfornace and Privacy Settings of COVID-19 Vaccine Websites](https://hackernoon.com/testing-the-perfornace-and-privacy-settings-of-covid-19-vaccine-websites)
+![](https://cdn.hackernoon.com/images/HgNYtFi17WbGLaRvGCmxhdy7K5L2-hk1o35dv.jpeg)
+The government websites responsible for helping citizens get their COVID-19 Vaccines have been found to have less-than-ideal accessibility and privacy features.
+
+### [156. Does CPU Clock Speed Impact Your Blockchain Node?](https://hackernoon.com/does-cpu-clock-speed-impact-your-blockchain-node-ol2w3zmr)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXtquhiRWkwNX4TRMzmnSF6okrgn1-kkr3w3t.jpeg?alt=media&token=25fa679e-e2fe-4787-86d2-cd1d66f05062)
+If you are going to plan your Blockchain Network Deployment on AWS, Azure, GCP or even a Private Cloud. My question is how do you decide what metal should power it and then what's the definition of that Metal? 
+
+### [157. Javascript Methods from Performance Timeline API](https://hackernoon.com/javascript-methods-from-performance-timeline-api-9j1c3ye2)
+![](https://cdn.hackernoon.com/images/tqy2elv.jpg)
+The Performance Timeline API defines extensions to the Performance interface to support client-side latency measurements within applications. The extensions provide interfaces to retrieve performance entry metrics based on specific filter criteria. The standard also includes interfaces that allow an application to define performance observer callbacks that are notified when specific performance events are added to the browser's performance timeline.
+
+### [158. Baidu’s ERNIE-Image Turns Short Prompts Into Detailed Visuals](https://hackernoon.com/baidus-ernie-image-turns-short-prompts-into-detailed-visuals)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bt021f9.jpeg)
+This is a simplified guide to an AI model called ERNIE-Image [https://www.aimodels.fyi/models/huggingFace/ernie-image-baidu?utm_source=hackernoon&utm_medium=...
+
+### [159. How to Benchmark the End-to-End Performance of Different I/O Solutions for Model Training](https://hackernoon.com/how-to-benchmark-the-end-to-end-performance-of-different-io-solutions-for-model-training)
 ![](https://cdn.hackernoon.com/images/MEO1Whp7pdbY2Fmqr6xMgItyqS23-km93e37.jpeg)
 This blog demonstrates how to set up and benchmark the end-to-end performance of the model training process. 
 
-### [149. JMXTerm-An Open-Source Debugging Tool](https://hackernoon.com/jmxterm-an-open-source-debugging-tool)
+### [160. JMXTerm-An Open-Source Debugging Tool](https://hackernoon.com/jmxterm-an-open-source-debugging-tool)
 ![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-v8a2d8a.jpeg)
 Monitor your application in production or locally. Understand what's going on under the hood while debugging & change application settings on the fly.
 
-### [150. A No-Drama Guide to Deploying Qwen Image Editing on Standard GPUs](https://hackernoon.com/a-no-drama-guide-to-deploying-qwen-image-editing-on-standard-gpus)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-o6024jv.jpeg)
-<p><em>This is a simplified guide to an AI model called <a href="https://www.aimodels.fyi/models/huggingFace/nunchaku-qwen-image-edit-2509-nunchaku-ai?utm_source=hackernoon&utm_medium=referral">nunchaku-qwen-image-edit-2509</a> maintained by <a href="https://www.aimodels.fyi/creators/huggingFace/nunchaku-ai?utm_source=hackernoon&utm_medium=referral">nunchaku-ai</a>. If you like these kinds of analysis, join <a href="https://www.aimodels.fyi/?utm_source=hackernoon&utm_medium=referral">AIModels.fyi</a> or follow us on <a href="https://x.com/aimodelsfyi">Twitter</a>.</em></p>
+### [161. Rewarding the Rare: How Uniqueness-Aware RL Fixes Exploration Collapse](https://hackernoon.com/rewarding-the-rare-how-uniqueness-aware-rl-fixes-exploration-collapse)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jv023zm.jpeg)
+This is a Plain English Papers summary of a research paper called Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs [https://www.aimodels.fyi/papers/arxiv/rewarding-rare-uniqueness-aware-rl-creative-problem?utm_source=hackernoon&utm_medium=referral]. If you like these kinds of analysis, join AIModels.fyi [https://www.aimodels.fyi/?utm_source=hackernoon&utm_medium=referral] or follow us on Twitter [https://x.com/aimodelsfyi].
 
-<h2>Model overview</h2>
-<p><code>nunchaku-qwen-image-edit-2509</code> is a quantized version of Qwen-Image-Edit-2509, an image-editing model developed by the Nunchaku Team. This model is based on <a href="https://aimodels.fyi/models/huggingFace/nunchaku-qwen-image-nunchaku-tech?utm_source=hackernoon&utm_medium=referral">Qwen-Image</a> and represents advances in complex text rendering for image manipulation tasks. The quantization process reduces model size while maintaining performance quality, making it suitable for efficient inference on consumer hardware. The model comes in multiple variants with different data types (INT4 and NVFP4) and rank configurations to balance speed and quality based on your hardware requirements.</p>
-<h2>Model inputs and outputs</h2>
-<p>The model accepts images and text instructions as inputs and produces edited images as outputs. It operates as an image-to-image transformer, allowing users to modify existing images based on textual descriptions or editing prompts. The quantized variants preserve the core functionality of the original while reducing computational demands.</p>
-<h3>Inputs</h3>
-<ul>
-<li><strong>Source image</strong>: The image to be edited</li>
-<li><strong>Text instruction</strong>: A description of the desired edit or modification</li>
-</ul>
-<h3>Outputs</h3>
-<ul>
-<li><strong>Edited image</strong>: The modified image reflecting the requested changes</li>
-</ul>
-<h2>Capabilities</h2>
-<p>The model handles text-guided image editing with support for complex text rendering. It can process various editing scenarios from simple modifications to more intricate transformations. Multiple versions exist for different use cases: standard inference models for general editing, 4-step lightning models for rapid generation, and 8-step variants for cases where quality matters over speed. The lightning models are fused with specialized LoRA weights to accelerate inference while minimizing quality loss.</p>
-<h2>What can I use it for?</h2>
-<p>Image editing applications benefit from this model's efficiency and quality balance. Content creators can use it for rapid prototyping of visual edits, marketers can automate product image modifications, and developers can integrate it into applications requiring fast image manipulation. The quantized nature makes it accessible for deployment on standard GPUs without requiring high-end hardware. The 4-step lightning variants are particularly useful when response time is critical, such as in interactive web applications or real-time editing interfaces.</p>
-<h2>Things to try</h2>
-<p>Experiment with different rank configurations (r32 for speed, r128 for quality) to find the optimal balance for your specific use case. Test the lightning variants with 4 or 8 steps to observe how inference speed improves with fewer diffusion steps. Compare results between INT4 and NVFP4 data types if you have access to different GPU architectures. Try combining editing instructions with various image styles to understand how the model handles complex artistic transformations and maintains coherence with detailed text prompts.</p>
 
-<hr/><p><strong>Original post:</strong> <a href="https://www.aimodels.fyi/models/huggingFace/nunchaku-qwen-image-edit-2509-nunchaku-ai?utm_source=hackernoon&utm_medium=referral">Read on AIModels.fyi</a></p>
+THE EXPLORATION COLLAPSE PROBLEM
 
-### [151. If Formula-1 Defined Efficiency](https://hackernoon.com/if-formula-1-defined-efficiency-675z3yqd)
-![](https://cdn.hackernoon.com/drafts/ksef3y2c.png)
-This is what it would be
+When you train a language model with reinforcement learning to solve math problems, something counterintuitive happens. You reward correct answers. The model finds one reliable path to correctness and then, essentially, stops exploring. Every rollout becomes a slight variation on the same theme. Pass@1 looks great, you're solving problems consistently. But pass@k stalls. If you sample a hundred times, you don't get a hundred different solutions, you get a hundred versions of the same solution.
 
-### [152. Short Circuit Evaluation: What You Need to Know](https://hackernoon.com/short-circuit-evaluation-what-you-need-to-know)
+This is exploration collapse, and it reveals something broken about how we've been thinking about RL for language models. The standard approach assigns rewards at the token level, during generation. When a token contributes to a correct final answer, it gets reinforced. Over time, the policy learns the sequence of tokens that most reliably produces reward. Other valid paths exist, but they don't have the same reinforcement history. They don't accumulate confidence in the same way. So the policy narrows.
+
+The tension is real. A model that finds one good strategy reliably is, from a pass@1 perspective, doing exactly what you asked. But from a practical standpoint, it's wasted potential. If you're willing to sample multiple times, a diverse model should give you more chances to find a correct answer. Instead, you get redundancy. This gap between what the metric measures and what the capability should provide is where the problem lives.
+
+
+WHY WE MEASURE THE WRONG THING
+
+The implicit assumption driving most RL work on language models is that better local rewards create better global diversity. Train each token to make good decisions, and the rollouts will naturally be diverse. This is intuitive. It's also false.
+
+What actually happens is that good local decisions reinforce themselves. A token choice that contributes to a correct answer gets positive signal. The next time the model needs to solve a similar problem, that token choice is slightly more likely. And the time after that, even more likely. The gradient is always pointing toward the same attractor. The policy doesn't fail to explore, it explores efficiently right into a single basin.
+
+The root cause isn't randomness or insufficient training. It's a fundamental mismatch between what we measure and what we want. We measure token-level behavior and hope for rollout-level diversity. These aren't the same thing. Token diversity (different word choices) doesn't guarantee strategy diversity (different approaches). A model can paraphrase the same method infinitely while exploring nothing new.
+
+Understanding this mismatch is crucial because it means the fix can't be marginal. You can't schedule exploration differently or add entropy regularization and solve this. You need to change what's actually being rewarded at the rollout level. You need to make rollout-level novelty an explicit part of the objective.
+
+
+UNIQUENESS-AWARE REINFORCEMENT LEARNING
+
+The core idea is straightforward: reward correct solutions that use rare strategies more than correct solutions that repeat common strategies. Make the policy internalize that finding a novel correct answer is more valuable than finding a redundant one.
+
+The method operates in concrete steps. First, generate many rollouts for a single problem. Second, use a language model to cluster these rollouts by their high-level reasoning strategy. Not by their final numbers or notation, but by the logical approach underneath. One cluster for solutions that use substitution, another for solutions that use geometric reasoning, another for calculus-based approaches. Third, calculate cluster sizes. A strategy discovered by 2 out of 100 rollouts is rare. A strategy discovered by 50 out of 100 is common. Finally, reweight the reward signal inversely with cluster size.
+
+The advantage function, which tells the policy how much better this rollout was compared to average, gets scaled down for solutions in large clusters and scaled up for solutions in small clusters. A correct solution using a rare strategy becomes worth significantly more reward than a correct solution using a dominant strategy.
+
+This directly targets the incentive structure. Instead of hoping diversity emerges as a side effect of token-level training, the policy now has an explicit reason to explore: rare correct strategies are literally more rewarding. The objective shifts from "find any correct answer" to "find answers that use approaches you haven't found yet."
+
+
+CLUSTERING STRATEGIES THE RIGHT WAY
+
+There's a practical problem lurking here. How do you define "high-level strategy"? Cluster too coarsely, and you lump genuinely different approaches together. Cluster too finely, and you treat superficial variations (using variable x versus y) as fundamentally different strategies. Cluster at the wrong granularity and the reward signal falls apart.
+
+The paper uses a language model as the judge. Rather than hand-coding what counts as a distinct strategy, you ask an LLM to read two solutions and determine whether they use the same high-level approach. This is surprisingly effective. Language models are good at semantic equivalence. Two solutions using the same logical steps but different notation get recognized as similar. Two solutions using genuinely different approaches get recognized as different.
+
+This sidesteps a major failure mode. Rigid clustering based on syntactic features would miss important distinctions or over-subdivide the space. Using an LLM judge provides flexibility while keeping the clustering semantic and interpretable. The granularity emerges naturally from what the model understands as a "different approach," rather than being imposed by hand.
+
+
+MEASURING WHAT MATTERS
+
+The validation spans three domains: mathematics, physics, and medical reasoning. The metrics matter because they tell different stories.
+
+Pass@1 measures single-shot performance. The model gets one try. This shouldn't degrade, because nothing about uniqueness-aware RL should break basic competence.
+
+Pass@k measures the probability that at least one correct answer appears in k samples. This is what should improve. If the policy becomes more diverse, sampling more times should yield more correct answers.
+
+AUC@K is the area under the pass@k curve as you vary k across a sampling budget. This is the most stringent test. It asks whether the approach provides consistent, sustained gains as you sample more, not just a spike at some particular k value.
+
+The expected pattern is that uniqueness-aware RL improves pass@k and AUC@K while maintaining or slightly improving pass@1. This happens because the method doesn't change what "correct" means. It just makes correct solutions using rare strategies more rewarding. The policy becomes better at discovering multiple valid approaches while remaining competent on the first shot.
+
+These results validate the core hypothesis: exploration collapse was a real structural problem, and addressing it at the rollout level works. The gains aren't marginal tweaks to an already-working system. They're evidence that the training objective shapes what kinds of solutions get discovered and reinforced, and changing that objective unlocks genuinely different behavior.
+
+
+BROADER CONTEXT IN LANGUAGE MODEL TRAINING
+
+This work connects to larger questions in how we train language models. There's a growing body of research on how the structure of the reward signal shapes what models learn. Work on outcome-based exploration in LLM reasoning [https://aimodels.fyi/papers/arxiv/outcome-based-exploration-llm-reasoning?utm_source=hackernoon&utm_medium=referral] has shown that focusing on final correctness rather than process changes what strategies emerge. Similarly, research on how filtering affects exploration [https://aimodels.fyi/papers/arxiv/whatever-remains-must-be-true-filtering-drives?utm_source=hackernoon&utm_medium=referral] suggests that the data we select during training cascades into the policies we end up with.
+
+The contribution here is precise and implementable. It's not a claim that language models are "creative" in any deep sense. Rather, it shows that the training objective matters enormously for whether diverse solutions get discovered. If you reward only correctness, you get convergence. If you reward correct and rare, you get exploration. The difference is the granularity at which you assign the reward signal.
+
+There's also a connection to practical efficiency in exploration techniques for reinforcement learning with LLMs [https://aimodels.fyi/papers/arxiv/enhancing-efficiency-exploration-reinforcement-learning-llms?utm_source=hackernoon&utm_medium=referral]. Rather than adding randomness or entropy bonuses that might degrade performance, uniqueness-aware RL aligns exploration with actual utility. The model explores toward solutions that are both correct and different. It's exploration that's structurally incentivized, not imposed from outside.
+
+The elegance of the approach lies in its simplicity. You don't need new architectures or complex exploration schedules. You need one change: shift from rewarding token behavior to rewarding rollout-level novelty. That single shift addresses a real problem at its source, and the evidence suggests it works across diverse domains consistently.
+
+----------------------------------------
+
+Original post: Read on AIModels.fyi [https://www.aimodels.fyi/papers/arxiv/rewarding-rare-uniqueness-aware-rl-creative-problem?utm_source=hackernoon&utm_medium=referral]
+
+### [162. Short Circuit Evaluation: What You Need to Know](https://hackernoon.com/short-circuit-evaluation-what-you-need-to-know)
 ![](https://cdn.hackernoon.com/images/dkdP4VfxtrUVSMiq5X0VGwTQuZ23-6t93pqj.jpeg)
 Short circuit evaluation, like many other useful programming concepts, is not hard and gives you a much better performance.
 
-### [153. How To Run Cloud-Native Performance Benchmarks with Kubestone](https://hackernoon.com/how-to-run-cloud-native-performance-benchmarks-with-kubestone-061k3uxq)
+### [163. How To Run Cloud-Native Performance Benchmarks with Kubestone](https://hackernoon.com/how-to-run-cloud-native-performance-benchmarks-with-kubestone-061k3uxq)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkaGFDumlYXRgWiJ4IylKb6uaYLs1-zb1s3unq.jpeg?alt=media&token=06d3132c-6845-41f2-b259-b9b42b51efd4)
 Intro
 
-### [154. Why You Should Care About Homomorphic Encryption](https://hackernoon.com/why-you-should-care-about-homomorphic-encryption-h5w3to2)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-gff3uw9.jpeg?alt=media&token=22b34365-e1b5-42e8-9c96-18713fa95942)
-The hype is dead, long live the hype. After deep learning, a new entry is about ready to go on stage. The usual journalists are warming up their keyboards for blogs, news feeds, tweets, in one word, hype. This time it’s all about privacy and data confidentiality. The new words, homomorphic encryption.
+### [164. If Formula-1 Defined Efficiency](https://hackernoon.com/if-formula-1-defined-efficiency-675z3yqd)
+![](https://cdn.hackernoon.com/drafts/ksef3y2c.png)
+This is what it would be
 
-### [155. How to Optimize Your Web Server for Better Website Performance](https://hackernoon.com/how-to-optimize-your-web-server-for-better-website-performance-gp5u333q)
+### [165. Voxtral-4B-TTS-2603 Brings Fast, Multilingual Voice AI to Production](https://hackernoon.com/voxtral-4b-tts-2603-brings-fast-multilingual-voice-ai-to-production)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ge02xr5.jpeg)
+This is a simplified guide to an AI model called Voxtral-4B-TTS-2603 [https://www.aimodels.fyi/models/huggingFace/voxtral-4b-tts-2603-mistralai?utm_source=ha...
+
+### [166. Teaching AI to Debug Might Beat Teaching It to Remember](https://hackernoon.com/teaching-ai-to-debug-might-beat-teaching-it-to-remember)
+![](https://arxiv.org/html/2601.03509v1/x1.png)
+A new AI framework shows why treating skills as debuggable programs—not neural parameters—lets agents learn continuously without forgetting.
+
+### [167. How to Optimize Your Web Server for Better Website Performance](https://hackernoon.com/how-to-optimize-your-web-server-for-better-website-performance-gp5u333q)
 ![](https://cdn.hackernoon.com/drafts/3wi33e1.png)
 In this digital world, the success of your website lies in its first impression and user experience. A website that takes a loading time more than a blink of an eye makes them so frustrated and abandoned the website. It can create an adverse impact on search engine ranking and business of that website.
 
-### [156. The Hidden Reason Smart Homes Keep Making Dumb Energy Decisions](https://hackernoon.com/the-hidden-reason-smart-homes-keep-making-dumb-energy-decisions)
+### [168. The Compact Image Editor That Still Understands Your Intent: VIBE-Image-Edit](https://hackernoon.com/the-compact-image-editor-that-still-understands-your-intent-vibe-image-edit)
+![](https://fekdszzpfpttx6cf.public.blob.vercel-storage.com/og-fallback.png)
+This is a simplified guide to an AI model called VIBE-Image-Edit [https://www.aimodels.fyi/models/huggingFace/vibe-image-edit-iitolstykh?utm_source=hackernoon&utm_medium=referral] maintained by iitolstykh [https://www.aimodels.fyi/creators/huggingFace/iitolstykh?utm_source=hackernoon&utm_medium=referral]. If you like these kinds of analysis, join AIModels.fyi [https://www.aimodels.fyi/?utm_source=hackernoon&utm_medium=referral] or follow us on Twitter [https://x.com/aimodelsfyi].
+
+
+MODEL OVERVIEW
+
+VIBE-Image-Edit is a text-guided image editing framework that combines efficiency with quality. It pairs the Sana1.5 diffusion model (1.6B parameters) with the Qwen3-VL vision-language encoder (2B parameters) to deliver fast, instruction-based image manipulation. The model handles images up to 2048 pixels and uses bfloat16 precision for optimal performance. Unlike heavier alternatives, this compact architecture maintains visual understanding capabilities while keeping computational requirements reasonable for consumer hardware. The framework builds on established foundations like diffusers and transformers, making it accessible to developers already familiar with the ecosystem.
+
+
+MODEL INPUTS AND OUTPUTS
+
+The model accepts natural language instructions paired with an image to understand both what changes should occur and where they should happen. It processes these inputs through its dual-component architecture to generate coherent edits that respect the original image composition while applying the requested modifications.
+
+
+INPUTS
+
+ * Conditioning image: The image to be edited, supporting resolutions up to 2048px
+ * Text instruction: Natural language description of desired edits (e.g., "Add a cat on the sofa" or "let this case swim in the river")
+ * Guidance parameters: Image guidance scale (default 1.2) and text guidance scale (default 4.5) to control edit intensity
+
+
+OUTPUTS
+
+ * Edited image: A single or multiple edited versions of the input image matching the text instruction
+ * Variable quality levels: Output quality controlled through inference step count (default 20 steps)
+
+
+CAPABILITIES
+
+This model transforms images based on written instructions without requiring mask inputs or additional prompts. It handles diverse editing tasks from simple object additions to complex scene modifications. The multimodal understanding from Qwen3-VL ensures instructions align properly with visual content, reducing the gap between user intent and generated results. The linear attention mechanism in Sana1.5 enables rapid inference, generating edits in seconds rather than minutes. It maintains image coherence across different scales and aspect ratios, supporting both square and rectangular compositions.
+
+
+WHAT CAN I USE IT FOR?
+
+Content creators can use this model to prototype design changes before committing to manual edits. E-commerce platforms could enable customers to visualize product modifications in context. Marketing teams can generate multiple variations of images for A/B testing without hiring designers. Social media creators could quickly iterate on visual content. The model also supports integration into commercial applications, though it operates under SANA's original license terms. Developers building image editing tools can leverage this framework as a backend engine for their applications.
+
+
+THINGS TO TRY
+
+Experiment with varying guidance scales to control how dramatically the edits change the original image. Lower image guidance produces looser interpretations while higher values preserve more of the original composition. Test complex multi-step instructions like "add snow falling and make the trees more vibrant" to see how well the model handles compound edits. Try different image aspect ratios beyond standard square formats to explore the model's flexibility. Adjust the number of inference steps to find the balance between speed and quality for your use case—fewer steps run faster but may produce cruder results. Use style keywords in instructions (similar to how prompt engineering works in image generation) to guide the aesthetic direction of edits.
+
+----------------------------------------
+
+Original post: Read on AIModels.fyi [https://www.aimodels.fyi/models/huggingFace/vibe-image-edit-iitolstykh?utm_source=hackernoon&utm_medium=referral]
+
+### [169. Why You Should Care About Homomorphic Encryption](https://hackernoon.com/why-you-should-care-about-homomorphic-encryption-h5w3to2)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-gff3uw9.jpeg?alt=media&token=22b34365-e1b5-42e8-9c96-18713fa95942)
+The hype is dead, long live the hype. After deep learning, a new entry is about ready to go on stage. The usual journalists are warming up their keyboards for blogs, news feeds, tweets, in one word, hype. This time it’s all about privacy and data confidentiality. The new words, homomorphic encryption.
+
+### [170. The Hidden Reason Smart Homes Keep Making Dumb Energy Decisions](https://hackernoon.com/the-hidden-reason-smart-homes-keep-making-dumb-energy-decisions)
 ![](https://arxiv.org/html/2512.21343v1/x1.png)
 This is a Plain English Papers summary of a research paper called EcoNet: Multiagent Planning and Control Of Household Energy Resources Using Active Inference [https://www.aimodels.fyi/papers/arxiv/econet-multiagent-planning-control-household-energy-resources?utm_source=hackernoon&utm_medium=referral]. If you like these kinds of analysis, join AIModels.fyi [https://www.aimodels.fyi/?utm_source=hackernoon&utm_medium=referral] or follow us on Twitter [https://x.com/aimodelsfyi].
 
@@ -1078,293 +1248,261 @@ Human cognition evolved to handle exactly this kind of problem: navigating an un
 
 Original post: Read on AIModels.fyi [https://www.aimodels.fyi/papers/arxiv/econet-multiagent-planning-control-household-energy-resources?utm_source=hackernoon&utm_medium=referral]
 
-### [157. The Compact Image Editor That Still Understands Your Intent: VIBE-Image-Edit](https://hackernoon.com/the-compact-image-editor-that-still-understands-your-intent-vibe-image-edit)
-![](https://fekdszzpfpttx6cf.public.blob.vercel-storage.com/og-fallback.png)
-This is a simplified guide to an AI model called VIBE-Image-Edit [https://www.aimodels.fyi/models/huggingFace/vibe-image-edit-iitolstykh?utm_source=hackernoon&utm_medium=referral] maintained by iitolstykh [https://www.aimodels.fyi/creators/huggingFace/iitolstykh?utm_source=hackernoon&utm_medium=referral]. If you like these kinds of analysis, join AIModels.fyi [https://www.aimodels.fyi/?utm_source=hackernoon&utm_medium=referral] or follow us on Twitter [https://x.com/aimodelsfyi].
+### [171. Omni-WorldBench Exposes the Biggest Blind Spot in AI World Modeling](https://hackernoon.com/omni-worldbench-exposes-the-biggest-blind-spot-in-ai-world-modeling)
+![](https://cdn.hackernoon.com/images/1774461124860_b2vlhka8.png)
+This is a Plain English Papers summary of a research paper called Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models [h...
 
+### [172. The Hidden Auditory Knowledge Inside Language Models](https://hackernoon.com/the-hidden-auditory-knowledge-inside-language-models)
+![](https://cdn.hackernoon.com/images/1774461121413_vlgmq36o.png)
+This is a Plain English Papers summary of a research paper called How Auditory Knowledge in LLM Backbones Shapes Audio Language Models: A Holistic Evaluation...
 
-MODEL OVERVIEW
+### [173. The OCR Speed Problem Nobody Talks About](https://hackernoon.com/the-ocr-speed-problem-nobody-talks-about)
+![](https://cdn.hackernoon.com/images/1774461127260_q7reh9d8.png)
+This is a Plain English Papers summary of a research paper called MinerU-Diffusion: Rethinking Document OCR as Inverse Rendering via Diffusion Decoding [http...
 
-VIBE-Image-Edit is a text-guided image editing framework that combines efficiency with quality. It pairs the Sana1.5 diffusion model (1.6B parameters) with the Qwen3-VL vision-language encoder (2B parameters) to deliver fast, instruction-based image manipulation. The model handles images up to 2048 pixels and uses bfloat16 precision for optimal performance. Unlike heavier alternatives, this compact architecture maintains visual understanding capabilities while keeping computational requirements reasonable for consumer hardware. The framework builds on established foundations like diffusers and transformers, making it accessible to developers already familiar with the ecosystem.
-
-
-MODEL INPUTS AND OUTPUTS
-
-The model accepts natural language instructions paired with an image to understand both what changes should occur and where they should happen. It processes these inputs through its dual-component architecture to generate coherent edits that respect the original image composition while applying the requested modifications.
-
-
-INPUTS
-
- * Conditioning image: The image to be edited, supporting resolutions up to 2048px
- * Text instruction: Natural language description of desired edits (e.g., "Add a cat on the sofa" or "let this case swim in the river")
- * Guidance parameters: Image guidance scale (default 1.2) and text guidance scale (default 4.5) to control edit intensity
-
-
-OUTPUTS
-
- * Edited image: A single or multiple edited versions of the input image matching the text instruction
- * Variable quality levels: Output quality controlled through inference step count (default 20 steps)
-
-
-CAPABILITIES
-
-This model transforms images based on written instructions without requiring mask inputs or additional prompts. It handles diverse editing tasks from simple object additions to complex scene modifications. The multimodal understanding from Qwen3-VL ensures instructions align properly with visual content, reducing the gap between user intent and generated results. The linear attention mechanism in Sana1.5 enables rapid inference, generating edits in seconds rather than minutes. It maintains image coherence across different scales and aspect ratios, supporting both square and rectangular compositions.
-
-
-WHAT CAN I USE IT FOR?
-
-Content creators can use this model to prototype design changes before committing to manual edits. E-commerce platforms could enable customers to visualize product modifications in context. Marketing teams can generate multiple variations of images for A/B testing without hiring designers. Social media creators could quickly iterate on visual content. The model also supports integration into commercial applications, though it operates under SANA's original license terms. Developers building image editing tools can leverage this framework as a backend engine for their applications.
-
-
-THINGS TO TRY
-
-Experiment with varying guidance scales to control how dramatically the edits change the original image. Lower image guidance produces looser interpretations while higher values preserve more of the original composition. Test complex multi-step instructions like "add snow falling and make the trees more vibrant" to see how well the model handles compound edits. Try different image aspect ratios beyond standard square formats to explore the model's flexibility. Adjust the number of inference steps to find the balance between speed and quality for your use case—fewer steps run faster but may produce cruder results. Use style keywords in instructions (similar to how prompt engineering works in image generation) to guide the aesthetic direction of edits.
-
-----------------------------------------
-
-Original post: Read on AIModels.fyi [https://www.aimodels.fyi/models/huggingFace/vibe-image-edit-iitolstykh?utm_source=hackernoon&utm_medium=referral]
-
-### [158. Teaching AI to Debug Might Beat Teaching It to Remember](https://hackernoon.com/teaching-ai-to-debug-might-beat-teaching-it-to-remember)
-![](https://arxiv.org/html/2601.03509v1/x1.png)
-A new AI framework shows why treating skills as debuggable programs—not neural parameters—lets agents learn continuously without forgetting.
-
-### [159. Breaking the Distributed Database Performance Record with 10 Million tpmC!](https://hackernoon.com/breaking-the-distributed-database-performance-record-with-10-million-tpmc)
+### [174. Breaking the Distributed Database Performance Record with 10 Million tpmC!](https://hackernoon.com/breaking-the-distributed-database-performance-record-with-10-million-tpmc)
 ![](https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-b593l2c.jpeg)
 Apache ShardingSphere & openGauss: Breaking the Distributed Database Performance Record with 10 Million tpmC.
 
-### [160. Rewarding the Rare: How Uniqueness-Aware RL Fixes Exploration Collapse](https://hackernoon.com/rewarding-the-rare-how-uniqueness-aware-rl-fixes-exploration-collapse)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jv023zm.jpeg)
-This is a Plain English Papers summary of a research paper called Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs [https://www.aimodels.fyi/papers/arxiv/rewarding-rare-uniqueness-aware-rl-creative-problem?utm_source=hackernoon&utm_medium=referral]. If you like these kinds of analysis, join AIModels.fyi [https://www.aimodels.fyi/?utm_source=hackernoon&utm_medium=referral] or follow us on Twitter [https://x.com/aimodelsfyi].
-
-
-THE EXPLORATION COLLAPSE PROBLEM
-
-When you train a language model with reinforcement learning to solve math problems, something counterintuitive happens. You reward correct answers. The model finds one reliable path to correctness and then, essentially, stops exploring. Every rollout becomes a slight variation on the same theme. Pass@1 looks great, you're solving problems consistently. But pass@k stalls. If you sample a hundred times, you don't get a hundred different solutions, you get a hundred versions of the same solution.
-
-This is exploration collapse, and it reveals something broken about how we've been thinking about RL for language models. The standard approach assigns rewards at the token level, during generation. When a token contributes to a correct final answer, it gets reinforced. Over time, the policy learns the sequence of tokens that most reliably produces reward. Other valid paths exist, but they don't have the same reinforcement history. They don't accumulate confidence in the same way. So the policy narrows.
-
-The tension is real. A model that finds one good strategy reliably is, from a pass@1 perspective, doing exactly what you asked. But from a practical standpoint, it's wasted potential. If you're willing to sample multiple times, a diverse model should give you more chances to find a correct answer. Instead, you get redundancy. This gap between what the metric measures and what the capability should provide is where the problem lives.
-
-
-WHY WE MEASURE THE WRONG THING
-
-The implicit assumption driving most RL work on language models is that better local rewards create better global diversity. Train each token to make good decisions, and the rollouts will naturally be diverse. This is intuitive. It's also false.
-
-What actually happens is that good local decisions reinforce themselves. A token choice that contributes to a correct answer gets positive signal. The next time the model needs to solve a similar problem, that token choice is slightly more likely. And the time after that, even more likely. The gradient is always pointing toward the same attractor. The policy doesn't fail to explore, it explores efficiently right into a single basin.
-
-The root cause isn't randomness or insufficient training. It's a fundamental mismatch between what we measure and what we want. We measure token-level behavior and hope for rollout-level diversity. These aren't the same thing. Token diversity (different word choices) doesn't guarantee strategy diversity (different approaches). A model can paraphrase the same method infinitely while exploring nothing new.
-
-Understanding this mismatch is crucial because it means the fix can't be marginal. You can't schedule exploration differently or add entropy regularization and solve this. You need to change what's actually being rewarded at the rollout level. You need to make rollout-level novelty an explicit part of the objective.
-
-
-UNIQUENESS-AWARE REINFORCEMENT LEARNING
-
-The core idea is straightforward: reward correct solutions that use rare strategies more than correct solutions that repeat common strategies. Make the policy internalize that finding a novel correct answer is more valuable than finding a redundant one.
-
-The method operates in concrete steps. First, generate many rollouts for a single problem. Second, use a language model to cluster these rollouts by their high-level reasoning strategy. Not by their final numbers or notation, but by the logical approach underneath. One cluster for solutions that use substitution, another for solutions that use geometric reasoning, another for calculus-based approaches. Third, calculate cluster sizes. A strategy discovered by 2 out of 100 rollouts is rare. A strategy discovered by 50 out of 100 is common. Finally, reweight the reward signal inversely with cluster size.
-
-The advantage function, which tells the policy how much better this rollout was compared to average, gets scaled down for solutions in large clusters and scaled up for solutions in small clusters. A correct solution using a rare strategy becomes worth significantly more reward than a correct solution using a dominant strategy.
-
-This directly targets the incentive structure. Instead of hoping diversity emerges as a side effect of token-level training, the policy now has an explicit reason to explore: rare correct strategies are literally more rewarding. The objective shifts from "find any correct answer" to "find answers that use approaches you haven't found yet."
-
-
-CLUSTERING STRATEGIES THE RIGHT WAY
-
-There's a practical problem lurking here. How do you define "high-level strategy"? Cluster too coarsely, and you lump genuinely different approaches together. Cluster too finely, and you treat superficial variations (using variable x versus y) as fundamentally different strategies. Cluster at the wrong granularity and the reward signal falls apart.
-
-The paper uses a language model as the judge. Rather than hand-coding what counts as a distinct strategy, you ask an LLM to read two solutions and determine whether they use the same high-level approach. This is surprisingly effective. Language models are good at semantic equivalence. Two solutions using the same logical steps but different notation get recognized as similar. Two solutions using genuinely different approaches get recognized as different.
-
-This sidesteps a major failure mode. Rigid clustering based on syntactic features would miss important distinctions or over-subdivide the space. Using an LLM judge provides flexibility while keeping the clustering semantic and interpretable. The granularity emerges naturally from what the model understands as a "different approach," rather than being imposed by hand.
-
-
-MEASURING WHAT MATTERS
-
-The validation spans three domains: mathematics, physics, and medical reasoning. The metrics matter because they tell different stories.
-
-Pass@1 measures single-shot performance. The model gets one try. This shouldn't degrade, because nothing about uniqueness-aware RL should break basic competence.
-
-Pass@k measures the probability that at least one correct answer appears in k samples. This is what should improve. If the policy becomes more diverse, sampling more times should yield more correct answers.
-
-AUC@K is the area under the pass@k curve as you vary k across a sampling budget. This is the most stringent test. It asks whether the approach provides consistent, sustained gains as you sample more, not just a spike at some particular k value.
-
-The expected pattern is that uniqueness-aware RL improves pass@k and AUC@K while maintaining or slightly improving pass@1. This happens because the method doesn't change what "correct" means. It just makes correct solutions using rare strategies more rewarding. The policy becomes better at discovering multiple valid approaches while remaining competent on the first shot.
-
-These results validate the core hypothesis: exploration collapse was a real structural problem, and addressing it at the rollout level works. The gains aren't marginal tweaks to an already-working system. They're evidence that the training objective shapes what kinds of solutions get discovered and reinforced, and changing that objective unlocks genuinely different behavior.
-
-
-BROADER CONTEXT IN LANGUAGE MODEL TRAINING
-
-This work connects to larger questions in how we train language models. There's a growing body of research on how the structure of the reward signal shapes what models learn. Work on outcome-based exploration in LLM reasoning [https://aimodels.fyi/papers/arxiv/outcome-based-exploration-llm-reasoning?utm_source=hackernoon&utm_medium=referral] has shown that focusing on final correctness rather than process changes what strategies emerge. Similarly, research on how filtering affects exploration [https://aimodels.fyi/papers/arxiv/whatever-remains-must-be-true-filtering-drives?utm_source=hackernoon&utm_medium=referral] suggests that the data we select during training cascades into the policies we end up with.
-
-The contribution here is precise and implementable. It's not a claim that language models are "creative" in any deep sense. Rather, it shows that the training objective matters enormously for whether diverse solutions get discovered. If you reward only correctness, you get convergence. If you reward correct and rare, you get exploration. The difference is the granularity at which you assign the reward signal.
-
-There's also a connection to practical efficiency in exploration techniques for reinforcement learning with LLMs [https://aimodels.fyi/papers/arxiv/enhancing-efficiency-exploration-reinforcement-learning-llms?utm_source=hackernoon&utm_medium=referral]. Rather than adding randomness or entropy bonuses that might degrade performance, uniqueness-aware RL aligns exploration with actual utility. The model explores toward solutions that are both correct and different. It's exploration that's structurally incentivized, not imposed from outside.
-
-The elegance of the approach lies in its simplicity. You don't need new architectures or complex exploration schedules. You need one change: shift from rewarding token behavior to rewarding rollout-level novelty. That single shift addresses a real problem at its source, and the evidence suggests it works across diverse domains consistently.
-
-----------------------------------------
-
-Original post: Read on AIModels.fyi [https://www.aimodels.fyi/papers/arxiv/rewarding-rare-uniqueness-aware-rl-creative-problem?utm_source=hackernoon&utm_medium=referral]
-
-### [161. Talent Can Only Take You So Far: Lessons on Elite Performance](https://hackernoon.com/talent-can-only-take-you-so-far-lessons-on-elite-performance)
-![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-id934us.jpeg)
-Talent's Not Enough: Lessons on Elite Performance
-
-### [162. Tips, Tools, and Best Practices for Optimizing Unit Testing in JavaScript ](https://hackernoon.com/tips-tools-and-best-practices-for-optimizing-unit-testing-in-javascript)
+### [175. Tips, Tools, and Best Practices for Optimizing Unit Testing in JavaScript ](https://hackernoon.com/tips-tools-and-best-practices-for-optimizing-unit-testing-in-javascript)
 ![](https://cdn.hackernoon.com/images/zz3g1E514SPvE9SAaiBerWs9THs2-ww93szf.jpeg)
 Learn how to improve the performance of your JavaScript unit tests with this comprehensive guide.
 
-### [163. How We Increased our Website Loading Time by 24%](https://hackernoon.com/how-we-improved-our-website-loading-time-by-24percent-with-3-unusual-changes-uv1l361d)
+### [176. The Missing Data Problem Behind Broken Computer-Use Agents](https://hackernoon.com/the-missing-data-problem-behind-broken-computer-use-agents)
+![](https://cdn.hackernoon.com/images/1774620970622_pa62mjb8.png)
+This is a Plain English Papers summary of a research paper called CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents [https://ww...
+
+### [177. Talent Can Only Take You So Far: Lessons on Elite Performance](https://hackernoon.com/talent-can-only-take-you-so-far-lessons-on-elite-performance)
+![](https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-id934us.jpeg)
+Talent's Not Enough: Lessons on Elite Performance
+
+### [178. Zeta-2 Turns Code Edits Into Context-Aware Rewrite Suggestions](https://hackernoon.com/zeta-2-turns-code-edits-into-context-aware-rewrite-suggestions)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-zr02xgi.jpeg)
+This is a simplified guide to an AI model called zeta-2 [https://www.aimodels.fyi/models/huggingFace/zeta-2-zed-industries?utm_source=hackernoon&utm_medium=r...
+
+### [179. How We Increased our Website Loading Time by 24%](https://hackernoon.com/how-we-improved-our-website-loading-time-by-24percent-with-3-unusual-changes-uv1l361d)
 ![](https://cdn.hackernoon.com/drafts/uv19364n.png)
 Last weekend we had a chance to fine-tune the performance of SwissDev Jobs.
 
-### [164. How to Choose the Best Apps for Your Business](https://hackernoon.com/how-to-choose-the-best-apps-for-your-business-882g3yqo)
+### [180. How to Choose the Best Apps for Your Business](https://hackernoon.com/how-to-choose-the-best-apps-for-your-business-882g3yqo)
 ![](https://cdn.hackernoon.com/drafts/qs15o2e3c.png)
 Key strategies to pick the best apps for your business
 
-### [165. People With High Levels of Emotional Intelligence Perform Better at Work](https://hackernoon.com/people-with-high-levels-of-emotional-intelligence-perform-better-at-work-pg5e31py)
-![](https://cdn.hackernoon.com/images/YpBWRo4XdNRvO7UIe8x9eqBpIXQ2-55d31kj.jpeg)
-Emotional intelligence is critical for leadership success, employee performance, and teamwork. Learn to develop your EI with coaching app LIFE Intelligence.
-
-### [166. The Attribution Illusion: How to Win When You Can't Track Everything](https://hackernoon.com/the-attribution-illusion-how-to-win-when-you-cant-track-everything)
+### [181. The Attribution Illusion: How to Win When You Can't Track Everything](https://hackernoon.com/the-attribution-illusion-how-to-win-when-you-cant-track-everything)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oh02xhx.jpeg)
 The marketers who continue to pray for the perfect tracking comeback are going to be left behind. 
 
-### [167. How to Improve eStore Performance with QA](https://hackernoon.com/how-to-improve-estore-performance-with-qa-171w37xs)
-![](https://cdn.hackernoon.com/images/3JYKsoiQfLWPDpguQcfofJPWedE3-j08u35j2.jpeg)
-A pandemic has become a tipping point for eCommerce. How to cope with the skyrocketed number of shoppers and succeed amid long-term changes? Welcome to find the
+### [182. People With High Levels of Emotional Intelligence Perform Better at Work](https://hackernoon.com/people-with-high-levels-of-emotional-intelligence-perform-better-at-work-pg5e31py)
+![](https://cdn.hackernoon.com/images/YpBWRo4XdNRvO7UIe8x9eqBpIXQ2-55d31kj.jpeg)
+Emotional intelligence is critical for leadership success, employee performance, and teamwork. Learn to develop your EI with coaching app LIFE Intelligence.
 
-### [168. Simple Tips For A Successful Application Performance Monitoring](https://hackernoon.com/simple-tips-for-a-successful-application-performance-monitoring-hth31s7)
-![](https://cdn.hackernoon.com/images/XdTrpTXzxMgVm8F4Ctu32oQWJki2-rph25as.jpeg)
-You finally went live, congratulations! Now what?
+### [183. Cohere’s Multilingual Embedding Model for Search, Retrieval, and Recommendations](https://hackernoon.com/coheres-multilingual-embedding-model-for-search-retrieval-and-recommendations)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-5g02x3f.jpeg)
+This is a simplified guide to an AI model called Cohere-embed-multilingual-v3.0 [https://www.aimodels.fyi/models/huggingFace/cohere-embed-multilingual-v3.0-c...
 
-### [169. Going Beyond Spring: Exploring Vert.x for Reactive Java Development](https://hackernoon.com/going-beyond-spring-exploring-vertx-for-reactive-java-development)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-s1823gb.jpeg)
-Eclipse Vert.x vs Spring WebFlux a practical Java comparison of event-loop architecture, performance, and reactive programming with real code examples.
+### [184. Breaking the Bottleneck: How Symfony Messenger Handles Heavy Workloads](https://hackernoon.com/breaking-the-bottleneck-how-symfony-messenger-handles-heavy-workloads)
+![](https://cdn.hackernoon.com/images/pL08BO3ouKNkhrqPjjNqbI6Myh73-yb03a8q.jpeg)
+Users today expect applications to be fast and responsive, which can be a challenge when dealing with resource-intensive tasks. 
 
-### [170. Relationships and Results: The Key to Unlocking Both Simultaneously With Jodi Alperstein](https://hackernoon.com/relationships-and-results-the-key-to-unlocking-both-simultaneously-with-jodi-alperstein)
+### [185. Relationships and Results: The Key to Unlocking Both Simultaneously With Jodi Alperstein](https://hackernoon.com/relationships-and-results-the-key-to-unlocking-both-simultaneously-with-jodi-alperstein)
 ![](https://cdn.hackernoon.com/images/a0BmSa42wqgwMuBycbRWKwcH6k32-ho83fsn.jpeg)
 Execution issues are often leadership problems. The best leaders recognize that strong results come from teams with strong relationships, and the key is trust.
 
-### [171. Structure brings order to Chaos: What is COVID all about?](https://hackernoon.com/structure-brings-order-to-chaos-what-is-covid-all-about-1ve3u0i)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FX3J4pwYlvAY7olLiMQTY97Hka432-iql3u8x.jpeg?alt=media&token=c224d03c-1df0-4940-8828-166e224a5ce1)
-Would the coronavirus pandemic bring out the new order or merely restructure the present order to make way for the business world to adapt well?
-
-### [172. Accelerating Analytics by 200% with Impala, Alluxio, and HDFS at Tencent](https://hackernoon.com/accelerating-analytics-by-200percent-with-impala-alluxio-and-hdfs-at-tencent-o5h3u1v)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMEO1Whp7pdbY2Fmqr6xMgItyqS23-w43x3ul7.jpeg?alt=media&token=63ddd9cb-be43-47bb-b0b6-eb1ab8de5ef2)
-This article describes how engineers in the Data Service Center (DSC) at Tencent PCG (Platform and Content Business Group) leverages Alluxio to optimize the analytics performance and minimize the operating costs in building Tencent Beacon Growing, a real-time data analytics platform. 
-
-### [173. Most “PMF Problems” Are Actually QA Problems](https://hackernoon.com/most-pmf-problems-are-actually-qa-problems)
-![](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/38302be6-3da6-4319-9708-61967cf4e477/image.png?t=1750453952)
-Fix the hidden bugs, clarify decisions, reduce friction, and raise conversion in weeks—not months.
-
-### [174. How to Speed Up Performance by Reducing Latency: A CDN Guide](https://hackernoon.com/how-to-speed-up-performance-by-reducing-latency-a-cdn-guide)
-![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-uy92cro.png)
-This post covers what CDNs are, how they work, and why you need one. I also show you how to connect Akamai CDN to Object Storage.
-
-
-### [175. Failure Modes: Why You Need To Know Them](https://hackernoon.com/failure-modes-why-you-need-to-know-them-gct34lp)
-![](https://hackernoon.com/images/t5IC7PWdw5bb6g0AizMWf5Pdrqy1-ykj34z7.jpeg)
-What are bimodal failure modes and how to avoid them
-
-### [176. How to Use the Memo Feature in React Applications: Accuracy With React Memorization](https://hackernoon.com/how-to-use-the-memo-feature-in-react-applications-accuracy-with-react-memorization)
-![](https://cdn.hackernoon.com/images/CU9T26Y1hNgrvyNxGX0jRAJfpM12-d8e3pze.jpeg)
-This article provides a detailed explanation of how to use the memo feature in React applications, including an exploration of how it works behind the scenes.
-
-### [177. 10 Reasons Why Less Is More in Your init/deinit Methods](https://hackernoon.com/10-reasons-why-less-is-more-in-your-initdeinit-methods)
+### [186. 10 Reasons Why Less Is More in Your init/deinit Methods](https://hackernoon.com/10-reasons-why-less-is-more-in-your-initdeinit-methods)
 ![](https://cdn.hackernoon.com/images/imTOi6TzD2acj6NBGngoIn24v6x2-pma3rv9.jpeg)
 The simplicity and predictability of constructors and destructors are vital to the robustness and efficiency of your application. 
 
-### [178. Better Performance and Security by Monitoring Logs, Metrics, and More](https://hackernoon.com/better-performance-and-security-by-monitoring-logs-metrics-and-more)
-![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-zb93z2d.jpeg)
-Monitoring is a crucial part of observability. Learn how monitoring can specifically improve security, performance, and reliability.
-
-### [179. Visual Testing of Patternlab and Drupal](https://hackernoon.com/visual-testing-of-patternlab-and-drupal-764u37vp)
-![](https://images.unsplash.com/photo-1502068898470-ad70c83938be?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-What is Patternlab?
-
-### [180. Tracking Mongoose Query Times with a Few Lines of Code](https://hackernoon.com/tracking-mongoose-query-times-with-a-few-lines-of-code)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-z802wg2.jpeg)
-This article details how to build a lightweight query profiler using Mongoose pre and post hooks without having to integrate APM tools. 
-
-### [181. Most Outages Don’t Start in Your Database — They Start in Your Cache](https://hackernoon.com/most-outages-dont-start-in-your-database-they-start-in-your-cache)
-![](https://cdn.hackernoon.com/images/g8aEx2p7U6gaVsAv99684Pb9T193-ix12xgm.png)
-Discover practical caching patterns for distributed systems. Master cache reliability, fault tolerance, and performance optimization techniques for scalable arc
-
-### [182. No More Slow Search: LaraPlugins Just Went Sub-Second](https://hackernoon.com/no-more-slow-search-laraplugins-just-went-sub-second)
-![](https://danielpetrica.com/content/images/2026/01/Running-PHP-8.5-with-Laravel-Octane---FrankenPHP-1-.png)
-I spent my weekend deep in the LaraPlugins.io code base, tackling performance bottlenecks and laying the groundwork for the next phase of the platform.
-
-### [183. The Existence of Gender Gap in Leadership Goals](https://hackernoon.com/the-existence-of-gender-gap-in-leadership-goals-iya43567)
-![](https://cdn.hackernoon.com/images/ydssEFW0wAXaMR7dwPPipBFN4A52-uv2y35kk.jpeg)
-Gender gap has started to gain attention with changing times. The world has started to witness change in the way female employees are treated. 
-
-### [184. Instance Comparison Chart: Find The Right AWS EC2 Instance](https://hackernoon.com/instance-comparison-chart-find-the-right-aws-ec2-instance-u97y3yq3)
-![](https://cdn.hackernoon.com/images/yn7s3ycy.jpg)
-So you’ve decided to choose AWS as the primary provider of your cloud service and now you’re looking into setting up your environment. You’ve got your project to be deployed and all you have left to do is choose an AWS instance that will run your machine image. But now, like many others before you, you are stumped by the countless choices of EC2 instances out there.
-
-### [185. Assessing Model Performance in Secrets Detection: Accuracy, Precision And Recall](https://hackernoon.com/assessing-model-performance-in-secrets-detection-accuracy-precision-and-recall-7ia43wvt)
-![](https://cdn.hackernoon.com/images/rji63yeo.jpg)
-Detecting secrets in source code is like finding needles in a haystack: there are a lot more sticks than there are needles, and you don’t know how many needles might be in the haystack. In the case of secrets detection, you don’t even know what all the needles look like!
-
-### [186. A Quick Tutorial to Hashcode and Equals Debugging](https://hackernoon.com/a-quick-tutorial-to-hashcode-and-equals-debugging)
-![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-3p02gec.jpeg)
-Standard Java methods hashcode and equals are crucial to performance but this is very hard to detect as they're often too small for profilers
-
-### [187. Accelerating Write-Intensive Data Workloads on AWS S3](https://hackernoon.com/accelerating-write-intensive-data-workloads-on-aws-s3-n9aa3ol6)
-![](https://cdn.hackernoon.com/images/MEO1Whp7pdbY2Fmqr6xMgItyqS23-955x356t.jpeg)
-We introduce Replicated Async Write to allow users to complete writes to Alluxio file system and return quickly with high application performance.
+### [187. Accelerating Analytics by 200% with Impala, Alluxio, and HDFS at Tencent](https://hackernoon.com/accelerating-analytics-by-200percent-with-impala-alluxio-and-hdfs-at-tencent-o5h3u1v)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMEO1Whp7pdbY2Fmqr6xMgItyqS23-w43x3ul7.jpeg?alt=media&token=63ddd9cb-be43-47bb-b0b6-eb1ab8de5ef2)
+This article describes how engineers in the Data Service Center (DSC) at Tencent PCG (Platform and Content Business Group) leverages Alluxio to optimize the analytics performance and minimize the operating costs in building Tencent Beacon Growing, a real-time data analytics platform. 
 
 ### [188. Most Private Investment Losses Start With Structure](https://hackernoon.com/most-private-investment-losses-start-with-structure)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-c70236h.jpeg)
 
 
-### [189. Performance Anxiety Amongst Employees and How to Overcome It](https://hackernoon.com/performance-anxiety-amongst-employees-and-how-to-overcome-it)
+### [189. How to Improve eStore Performance with QA](https://hackernoon.com/how-to-improve-estore-performance-with-qa-171w37xs)
+![](https://cdn.hackernoon.com/images/3JYKsoiQfLWPDpguQcfofJPWedE3-j08u35j2.jpeg)
+A pandemic has become a tipping point for eCommerce. How to cope with the skyrocketed number of shoppers and succeed amid long-term changes? Welcome to find the
+
+### [190. Simple Tips For A Successful Application Performance Monitoring](https://hackernoon.com/simple-tips-for-a-successful-application-performance-monitoring-hth31s7)
+![](https://cdn.hackernoon.com/images/XdTrpTXzxMgVm8F4Ctu32oQWJki2-rph25as.jpeg)
+You finally went live, congratulations! Now what?
+
+### [191. How to Use the Memo Feature in React Applications: Accuracy With React Memorization](https://hackernoon.com/how-to-use-the-memo-feature-in-react-applications-accuracy-with-react-memorization)
+![](https://cdn.hackernoon.com/images/CU9T26Y1hNgrvyNxGX0jRAJfpM12-d8e3pze.jpeg)
+This article provides a detailed explanation of how to use the memo feature in React applications, including an exploration of how it works behind the scenes.
+
+### [192. How to Speed Up Performance by Reducing Latency: A CDN Guide](https://hackernoon.com/how-to-speed-up-performance-by-reducing-latency-a-cdn-guide)
+![](https://cdn.hackernoon.com/images/cmnTEZUbXRUusNv7GD8Q0C1Kgzb2-uy92cro.png)
+This post covers what CDNs are, how they work, and why you need one. I also show you how to connect Akamai CDN to Object Storage.
+
+
+### [193. Most “PMF Problems” Are Actually QA Problems](https://hackernoon.com/most-pmf-problems-are-actually-qa-problems)
+![](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/38302be6-3da6-4319-9708-61967cf4e477/image.png?t=1750453952)
+Fix the hidden bugs, clarify decisions, reduce friction, and raise conversion in weeks—not months.
+
+### [194. Structure brings order to Chaos: What is COVID all about?](https://hackernoon.com/structure-brings-order-to-chaos-what-is-covid-all-about-1ve3u0i)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FX3J4pwYlvAY7olLiMQTY97Hka432-iql3u8x.jpeg?alt=media&token=c224d03c-1df0-4940-8828-166e224a5ce1)
+Would the coronavirus pandemic bring out the new order or merely restructure the present order to make way for the business world to adapt well?
+
+### [195. Better Performance and Security by Monitoring Logs, Metrics, and More](https://hackernoon.com/better-performance-and-security-by-monitoring-logs-metrics-and-more)
+![](https://cdn.hackernoon.com/images/cINIFbqqBHP6eJ0PSVZp9TroFeI3-zb93z2d.jpeg)
+Monitoring is a crucial part of observability. Learn how monitoring can specifically improve security, performance, and reliability.
+
+### [196. Failure Modes: Why You Need To Know Them](https://hackernoon.com/failure-modes-why-you-need-to-know-them-gct34lp)
+![](https://hackernoon.com/images/t5IC7PWdw5bb6g0AizMWf5Pdrqy1-ykj34z7.jpeg)
+What are bimodal failure modes and how to avoid them
+
+### [197. Tracking Mongoose Query Times with a Few Lines of Code](https://hackernoon.com/tracking-mongoose-query-times-with-a-few-lines-of-code)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-z802wg2.jpeg)
+This article details how to build a lightweight query profiler using Mongoose pre and post hooks without having to integrate APM tools. 
+
+### [198. GLM-5.1 Pushes Agentic Coding Further](https://hackernoon.com/glm-51-pushes-agentic-coding-further)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-xt021ks.jpeg)
+GLM-5.1 is zai-org’s flagship agentic coding model, built for long-horizon software tasks, repo generation, debugging, and iterative problem-solving.
+
+### [199. Most Outages Don’t Start in Your Database — They Start in Your Cache](https://hackernoon.com/most-outages-dont-start-in-your-database-they-start-in-your-cache)
+![](https://cdn.hackernoon.com/images/g8aEx2p7U6gaVsAv99684Pb9T193-ix12xgm.png)
+Discover practical caching patterns for distributed systems. Master cache reliability, fault tolerance, and performance optimization techniques for scalable arc
+
+### [200. Visual Testing of Patternlab and Drupal](https://hackernoon.com/visual-testing-of-patternlab-and-drupal-764u37vp)
+![](https://images.unsplash.com/photo-1502068898470-ad70c83938be?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+What is Patternlab?
+
+### [201. The Specialist’s Dilemma Is Breaking Scientific AI](https://hackernoon.com/the-specialists-dilemma-is-breaking-scientific-ai)
+![](https://cdn.hackernoon.com/images/1774620971700_0nvpjiho.png)
+This is a Plain English Papers summary of a research paper called Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale [https://www.aimode...
+
+### [202. No More Slow Search: LaraPlugins Just Went Sub-Second](https://hackernoon.com/no-more-slow-search-laraplugins-just-went-sub-second)
+![](https://danielpetrica.com/content/images/2026/01/Running-PHP-8.5-with-Laravel-Octane---FrankenPHP-1-.png)
+I spent my weekend deep in the LaraPlugins.io code base, tackling performance bottlenecks and laying the groundwork for the next phase of the platform.
+
+### [203. Neural Nets Rebuild Temporal CT](https://hackernoon.com/neural-nets-rebuild-temporal-ct)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3z0219x.jpeg)
+This is a Plain English Papers summary of a research paper called Neural-Network Inversion for the Temporal CT Multi-Source Bundle Problem: Per-Bundle Statis...
+
+### [204. The Real Cost of Hiding Technical Failures From Clients](https://hackernoon.com/the-real-cost-of-hiding-technical-failures-from-clients)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-uq021em.jpeg)
+Spinning technical failures into vague reassurances may protect appearances, but it quietly destroys client trust and weakens company culture.
+
+### [205. A Practical Guide to llama-nemotron-embed-1b-v2](https://hackernoon.com/a-practical-guide-to-llama-nemotron-embed-1b-v2)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-vb02xpq.jpeg)
+This is a simplified guide to an AI model called llama-nemotron-embed-1b-v2 [https://www.aimodels.fyi/models/huggingFace/llama-nemotron-embed-1b-v2-nvidia?ut...
+
+### [206. How to Start Using Globalping Without Getting Overwhelmed](https://hackernoon.com/how-to-start-using-globalping-without-getting-overwhelmed)
+![](https://blog.globalping.io/content/images/2026/03/how-to-get-started-Globalping.png)
+Learn how to get started with Globalping using the web tool, CLI, dashboard, API, and integrations for testing, monitoring, and automation.
+
+### [207. This 15B Model Generates Talking Videos With Synced Audio From Text](https://hackernoon.com/this-15b-model-generates-talking-videos-with-synced-audio-from-text)
+![](https://cdn.hackernoon.com/images/1774461129414_l2uqpv38.png)
+daVinci-MagiHuman is a 15B unified model that generates synchronized video and speech from text prompts with fast, high-quality results.
+
+### [208. This Quantized Gemma Variant Trades Safety Guardrails for Near-Total Compliance](https://hackernoon.com/this-quantized-gemma-variant-trades-safety-guardrails-for-near-total-compliance)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-cq021nh.jpeg)
+This is a simplified guide to an AI model called Gemma-4-31B-JANG_4M-CRACK [https://www.aimodels.fyi/models/huggingFace/gemma-4-31b-jang-4m-crack-dealignai?u...
+
+### [209. The Existence of Gender Gap in Leadership Goals](https://hackernoon.com/the-existence-of-gender-gap-in-leadership-goals-iya43567)
+![](https://cdn.hackernoon.com/images/ydssEFW0wAXaMR7dwPPipBFN4A52-uv2y35kk.jpeg)
+Gender gap has started to gain attention with changing times. The world has started to witness change in the way female employees are treated. 
+
+### [210. Performance Anxiety Amongst Employees and How to Overcome It](https://hackernoon.com/performance-anxiety-amongst-employees-and-how-to-overcome-it)
 ![](https://cdn.hackernoon.com/images/RQrPXPHGAZguknX43Vfb2ZNzrJr2-sm93ps7.jpeg)
 Performance anxiety amongst employees can be a serious issue. It may have a serious effect on a person’s health, sleep, mood, and even self-worth. Let’s look at
 
-### [190. How to Measure Performance in FinTech Apps](https://hackernoon.com/how-to-measure-performance-in-fintech-apps-7526337j)
-![](https://cdn.hackernoon.com/images/HIfPtVexW0e3XVbPbnxEaKHj3AJ3-631u332u.jpeg)
-Understand the mechanics of performance in FinTech and learn a few patterns that can maintain users’ attention and engagement.
+### [211. Instance Comparison Chart: Find The Right AWS EC2 Instance](https://hackernoon.com/instance-comparison-chart-find-the-right-aws-ec2-instance-u97y3yq3)
+![](https://cdn.hackernoon.com/images/yn7s3ycy.jpg)
+So you’ve decided to choose AWS as the primary provider of your cloud service and now you’re looking into setting up your environment. You’ve got your project to be deployed and all you have left to do is choose an AWS instance that will run your machine image. But now, like many others before you, you are stumped by the countless choices of EC2 instances out there.
 
-### [191. What I Learned About Practical Software Engineering by Building for the Government](https://hackernoon.com/what-i-learned-about-practical-software-engineering-by-building-for-the-government)
+### [212. WildDet3D Wants to Break 3D Detection Out of the Benchmark Box](https://hackernoon.com/wilddet3d-wants-to-break-3d-detection-out-of-the-benchmark-box)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-jt021kl.jpeg)
+This is a Plain English Papers summary of a research paper called WildDet3D: Scaling Promptable 3D Detection in the Wild [https://www.aimodels.fyi/papers/arx...
+
+### [213. A Quick Tutorial to Hashcode and Equals Debugging](https://hackernoon.com/a-quick-tutorial-to-hashcode-and-equals-debugging)
+![](https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-3p02gec.jpeg)
+Standard Java methods hashcode and equals are crucial to performance but this is very hard to detect as they're often too small for profilers
+
+### [214. Assessing Model Performance in Secrets Detection: Accuracy, Precision And Recall](https://hackernoon.com/assessing-model-performance-in-secrets-detection-accuracy-precision-and-recall-7ia43wvt)
+![](https://cdn.hackernoon.com/images/rji63yeo.jpg)
+Detecting secrets in source code is like finding needles in a haystack: there are a lot more sticks than there are needles, and you don’t know how many needles might be in the haystack. In the case of secrets detection, you don’t even know what all the needles look like!
+
+### [215. GLM-4.7-Flash-GGUF Brings Fast Local AI to Consumer Hardware](https://hackernoon.com/glm-47-flash-gguf-brings-fast-local-ai-to-consumer-hardware)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-r40217o.jpeg)
+GLM-4.7-Flash-GGUF offers fast local text generation with multiple quantization options for PCs, edge devices, and small servers.
+
+### [216. Accelerating Write-Intensive Data Workloads on AWS S3](https://hackernoon.com/accelerating-write-intensive-data-workloads-on-aws-s3-n9aa3ol6)
+![](https://cdn.hackernoon.com/images/MEO1Whp7pdbY2Fmqr6xMgItyqS23-955x356t.jpeg)
+We introduce Replicated Async Write to allow users to complete writes to Alluxio file system and return quickly with high application performance.
+
+### [217. What I Learned About Practical Software Engineering by Building for the Government](https://hackernoon.com/what-i-learned-about-practical-software-engineering-by-building-for-the-government)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-y702yo7.jpeg)
 Lessons from 15 years building government software: performance under pressure, legacy system hacks, and real-world engineering wisdom.
 
 
-### [192. The Model That “Understands” Your Face in Real Time](https://hackernoon.com/the-model-that-understands-your-face-in-real-time)
+### [218. How to Measure Performance in FinTech Apps](https://hackernoon.com/how-to-measure-performance-in-fintech-apps-7526337j)
+![](https://cdn.hackernoon.com/images/HIfPtVexW0e3XVbPbnxEaKHj3AJ3-631u332u.jpeg)
+Understand the mechanics of performance in FinTech and learn a few patterns that can maintain users’ attention and engagement.
+
+### [219. Two Training Paths, One Smarter AI Strategy](https://hackernoon.com/two-training-paths-one-smarter-ai-strategy)
+![](https://cdn.hackernoon.com/images/1775571413869_fk6v5gp.png)
+This is a Plain English Papers summary of a research paper called Self-Distilled RLVR [https://www.aimodels.fyi/papers/arxiv/self-distilled-rlvr?utm_source=h...
+
+### [220. The Model That “Understands” Your Face in Real Time](https://hackernoon.com/the-model-that-understands-your-face-in-real-time)
 ![](https://tjzk.replicate.delivery/models_models_cover_image/f03a57b1-facc-4fc4-b2d0-700f6cb6ba54/Screenshot_2025-08-11_at_17.51.13.png)
 Explore real-time facial segmentation with BiSeNet: how bisenet-faces parses faces into regions and how to tune speed vs accuracy for interactive apps.
 
-### [193. What Tools You Must Use to Measure Your Product Performance](https://hackernoon.com/what-tools-you-must-use-to-measure-your-product-performance-wc613v1t)
+### [221. Inside Google’s Gemma 4 31B](https://hackernoon.com/inside-googles-gemma-4-31b)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-fo0215u.jpeg)
+This is a simplified guide to an AI model called gemma-4-31B-it [https://www.aimodels.fyi/models/huggingFace/gemma-4-31b-it-google?utm_source=hackernoon&utm_...
+
+### [222. Nemotron-Cascade-2-30B-A3B Brings Olympiad-Level Reasoning to Sparse AI](https://hackernoon.com/nemotron-cascade-2-30b-a3b-brings-olympiad-level-reasoning-to-sparse-ai)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-tm021jv.jpeg)
+This is a simplified guide to an AI model called Nemotron-Cascade-2-30B-A3B [https://www.aimodels.fyi/models/huggingFace/nemotron-cascade-2-30b-a3b-nvidia?ut...
+
+### [223. Quantum Computers Exist. Making Them Useful Is the Hard Part](https://hackernoon.com/quantum-computers-exist-making-them-useful-is-the-hard-part)
+![](https://cdn.hackernoon.com/images/1773671046927_j60j9bug.png)
+This is a Plain English Papers summary of a research paper called How to Build a Quantum Supercomputer: Scaling from Hundreds to Millions of Qubits [https://...
+
+### [224. What Tools You Must Use to Measure Your Product Performance](https://hackernoon.com/what-tools-you-must-use-to-measure-your-product-performance-wc613v1t)
 ![](https://cdn.hackernoon.com/drafts/qalh3yno.png)
 Performance testing is a very crucial part of quality control for many applications. If an application is supposed to support multiple connections and/or numerous calls to a server, then it’s very important to be sure that it can handle the load. What’s good about an app that processes user’s requests at a snail pace?
 
-### [194. A New Approach to Solve I/O Challenges in the Machine Learning Pipeline](https://hackernoon.com/a-new-approach-to-solve-io-challenges-in-the-machine-learning-pipeline)
+### [225. Gemma 4 21B REAP Shrinks 26B MoE Without Losing Its Edge](https://hackernoon.com/gemma-4-21b-reap-shrinks-26b-moe-without-losing-its-edge)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-bg0219i.jpeg)
+This is a simplified guide to an AI model called gemma-4-21b-a4b-it-REAP [https://www.aimodels.fyi/models/huggingFace/gemma-4-21b-a4b-it-reap-0xsero?utm_sour...
+
+### [226. A New Approach to Solve I/O Challenges in the Machine Learning Pipeline](https://hackernoon.com/a-new-approach-to-solve-io-challenges-in-the-machine-learning-pipeline)
 ![](https://cdn.hackernoon.com/images/MEO1Whp7pdbY2Fmqr6xMgItyqS23-tp038ym.jpeg)
 Training and caching data can be done in a transparent and distributed way to improve training performance and simplify data management.
 
-### [195. A Deep Dive into How Typescript Enums Work](https://hackernoon.com/a-deep-dive-into-how-typescript-enums-work)
+### [227. The Case Against Text Prompts for AI Sound Generation](https://hackernoon.com/the-case-against-text-prompts-for-ai-sound-generation)
+![](https://cdn.hackernoon.com/images/1774473058718_qskrovs.png)
+AC-Foley shows why text prompts limit video-to-audio generation and how reference audio enables finer control, timbre transfer, and zero-shot synthesis.
+
+### [228. A Deep Dive into How Typescript Enums Work](https://hackernoon.com/a-deep-dive-into-how-typescript-enums-work)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-ip93oaq.jpeg)
 Enums, short for Enumerations, are preset constants that can be defined by a developer for use elsewhere in the code.
 
-### [196. How to Choose the Best Apps for Your Business](https://hackernoon.com/how-to-choose-the-best-apps-for-your-business-aa213y06)
+### [229. How to Choose the Best Apps for Your Business](https://hackernoon.com/how-to-choose-the-best-apps-for-your-business-aa213y06)
 ![](https://cdn.hackernoon.com/drafts/qs15o2e3c.png)
 Key strategies to pick the best apps for your business
 
-### [197. Meet John Jardin - #Noonies2021 Nominee, Full Stack Developer, CEO of Agilit-e](https://hackernoon.com/meet-john-jardin-noonies2021-nominee-full-stack-developer-ceo-of-agilit-e)
+### [230. Meet John Jardin - #Noonies2021 Nominee, Full Stack Developer, CEO of Agilit-e](https://hackernoon.com/meet-john-jardin-noonies2021-nominee-full-stack-developer-ceo-of-agilit-e)
 ![](https://cdn.hackernoon.com/images/EVKIyOE5g0e70Zsmj3IswB8Udbk2-o303oq3.jpeg)
 Through his 21 year journey as a developer, John Jardin has managed over 350 projects for various companies. Learn more via this exclusive interview. 
 
-### [198. Optimizing Performance: Three Essential Factors to Keep in Mind](https://hackernoon.com/optimizing-performance-three-essential-factors-to-keep-in-mind)
+### [231. Optimizing Performance: Three Essential Factors to Keep in Mind](https://hackernoon.com/optimizing-performance-three-essential-factors-to-keep-in-mind)
 ![](https://cdn.hackernoon.com/images/l9CvmWIChROxVjowyW2j4VzGEW32-k293xml.jpeg)
 Our performance and goals suffer if we base them on our feelings about it, don't have both intrinsic and extrinsic motivation and don't know our values
 
-### [199. Fine-tune Your Product In No Time](https://hackernoon.com/fine-tune-your-product-in-no-time-8fw3tc8)
+### [232. MiniMax-M2.7 Pushes AI Agents Into Self-Improvement](https://hackernoon.com/minimax-m27-pushes-ai-agents-into-self-improvement)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-520210z.jpeg)
+This is a simplified guide to an AI model called MiniMax-M2.7 [https://www.aimodels.fyi/models/huggingFace/minimax-m2.7-minimaxai?utm_source=hackernoon&utm_m...
+
+### [233. Fine-tune Your Product In No Time](https://hackernoon.com/fine-tune-your-product-in-no-time-8fw3tc8)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F1lsFkBiXT8S7FYoJbPfiTk7AaLW2-sl53uv0.jpeg?alt=media&token=ffe61514-3c7c-4c2b-81d8-5632529847bb)
 Being experts in the IT industry, we at QAWERK know about the importance of testing and want to share this knowledge as we believe high-quality software is the key to success.
 
-### [200. GLM-4.7 Turns “AI Pair Programmer” Into “AI Dev Teammate”](https://hackernoon.com/glm-47-turns-ai-pair-programmer-into-ai-dev-teammate)
+### [234. GLM-4.7 Turns “AI Pair Programmer” Into “AI Dev Teammate”](https://hackernoon.com/glm-47-turns-ai-pair-programmer-into-ai-dev-teammate)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ha0230d.jpeg)
 <p><em>This is a simplified guide to an AI model called <a href="https://www.aimodels.fyi/models/huggingFace/glm-4.7-zai-org?utm_source=hackernoon&utm_medium=referral">GLM-4.7</a> maintained by <a href="https://www.aimodels.fyi/creators/huggingFace/zai-org?utm_source=hackernoon&utm_medium=referral">zai-org</a>. If you like these kinds of analysis, join <a href="https://www.aimodels.fyi/?utm_source=hackernoon&utm_medium=referral">AIModels.fyi</a> or follow us on <a href="https://x.com/aimodelsfyi">Twitter</a>.</em></p>
 
@@ -1396,11 +1534,7 @@ Being experts in the IT industry, we at QAWERK know about the importance of test
 
 <hr/><p><strong>Original post:</strong> <a href="https://www.aimodels.fyi/models/huggingFace/glm-4.7-zai-org?utm_source=hackernoon&utm_medium=referral">Read on AIModels.fyi</a></p>
 
-### [201. A Guide To Launching Battle-tested Apps For Engineering Teams](https://hackernoon.com/how-to-get-your-engineering-teams-ready-for-launch)
-![]()
-A detailed guideline of how engineering teams can plan for a big public launch. 
-
-### [202. This 40B “Loop” Coder Model Tries Twice So Your Code Doesn’t Have To](https://hackernoon.com/this-40b-loop-coder-model-tries-twice-so-your-code-doesnt-have-to)
+### [235. This 40B “Loop” Coder Model Tries Twice So Your Code Doesn’t Have To](https://hackernoon.com/this-40b-loop-coder-model-tries-twice-so-your-code-doesnt-have-to)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-pu023jl.jpeg)
 <p><em>This is a simplified guide to an AI model called <a href="https://www.aimodels.fyi/models/huggingFace/iquest-coder-v1-40b-loop-instruct-iquestlab?utm_source=hackernoon&utm_medium=referral">IQuest-Coder-V1-40B-Loop-Instruct</a> maintained by <a href="https://www.aimodels.fyi/creators/huggingFace/IQuestLab?utm_source=hackernoon&utm_medium=referral">IQuestLab</a>. If you like these kinds of analysis, join <a href="https://www.aimodels.fyi/?utm_source=hackernoon&utm_medium=referral">AIModels.fyi</a> or follow us on <a href="https://x.com/aimodelsfyi">Twitter</a>.</em></p>
 
@@ -1432,7 +1566,35 @@ A detailed guideline of how engineering teams can plan for a big public launch.
 
 <hr/><p><strong>Original post:</strong> <a href="https://www.aimodels.fyi/models/huggingFace/iquest-coder-v1-40b-loop-instruct-iquestlab?utm_source=hackernoon&utm_medium=referral">Read on AIModels.fyi</a></p>
 
-### [203. How to Prompt HyperCLOVAX-SEED-Think-32B for Better Multi-Step Answers](https://hackernoon.com/how-to-prompt-hyperclovax-seed-think-32b-for-better-multi-step-answers)
+### [236. A beginner's guide to the Hy-embodied-0.5 model by Tencent on Huggingface](https://hackernoon.com/a-beginners-guide-to-the-hy-embodied-05-model-by-tencent-on-huggingface)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-hv02199.jpeg)
+This is a simplified guide to an AI model called HY-Embodied-0.5 [https://www.aimodels.fyi/models/huggingFace/hy-embodied-0.5-tencent?utm_source=hackernoon&u...
+
+### [237. The Frozen Knowledge Problem in AI Image Generation](https://hackernoon.com/the-frozen-knowledge-problem-in-ai-image-generation)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-rz021sx.jpeg)
+This is a Plain English Papers summary of a research paper called Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis [https://www.aim...
+
+### [238. Why Self-Distillation Can Make AI Reasoning Worse](https://hackernoon.com/why-self-distillation-can-make-ai-reasoning-worse)
+![](https://cdn.hackernoon.com/images/1774535709393_arc6uc7g.png)
+This is a Plain English Papers summary of a research paper called Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs? [https://w...
+
+### [239. The Architecture Behind Smarter AI Agents](https://hackernoon.com/the-architecture-behind-smarter-ai-agents)
+![](https://cdn.hackernoon.com/images/1775830578982_po4ptgt.png)
+Modern AI agents succeed through architecture, not just scale. This paper maps the systems that extend model capabilities.
+
+### [240. A Guide To Launching Battle-tested Apps For Engineering Teams](https://hackernoon.com/how-to-get-your-engineering-teams-ready-for-launch)
+![]()
+A detailed guideline of how engineering teams can plan for a big public launch. 
+
+### [241. This 20B Search Model Helps AI Systems Find Better Evidence Faster](https://hackernoon.com/this-20b-search-model-helps-ai-systems-find-better-evidence-faster)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-69021cs.jpeg)
+This is a simplified guide to an AI model called context-1 [https://www.aimodels.fyi/models/huggingFace/context-1-chromadb?utm_source=hackernoon&utm_medium=r...
+
+### [242. Attention Sinks Are Quietly Rewriting How Transformers Work](https://hackernoon.com/attention-sinks-are-quietly-rewriting-how-transformers-work)
+![](https://cdn.hackernoon.com/images/1776262652416_i43c63fg.png)
+Attention sinks are widespread in transformers. Learn what they reveal about model behavior, computation, and the limits of attention analysis.
+
+### [243. How to Prompt HyperCLOVAX-SEED-Think-32B for Better Multi-Step Answers](https://hackernoon.com/how-to-prompt-hyperclovax-seed-think-32b-for-better-multi-step-answers)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-3w023bk.jpeg)
 <p><em>This is a simplified guide to an AI model called <a href="https://www.aimodels.fyi/models/huggingFace/hyperclovax-seed-think-32b-naver-hyperclovax?utm_source=hackernoon&utm_medium=referral">HyperCLOVAX-SEED-Think-32B</a> maintained by <a href="https://www.aimodels.fyi/creators/huggingFace/naver-hyperclovax?utm_source=hackernoon&utm_medium=referral">naver-hyperclovax</a>. If you like these kinds of analysis, join <a href="https://www.aimodels.fyi/?utm_source=hackernoon&utm_medium=referral">AIModels.fyi</a> or follow us on <a href="https://x.com/aimodelsfyi">Twitter</a>.</em></p>
 
@@ -1461,7 +1623,31 @@ A detailed guideline of how engineering teams can plan for a big public launch.
 
 <hr/><p><strong>Original post:</strong> <a href="https://www.aimodels.fyi/models/huggingFace/hyperclovax-seed-think-32b-naver-hyperclovax?utm_source=hackernoon&utm_medium=referral">Read on AIModels.fyi</a></p>
 
-### [204. SQL Optimization Reveals Root Cause of 20-Second Query Delays in DolphinScheduler](https://hackernoon.com/sql-optimization-reveals-root-cause-of-20-second-query-delays-in-dolphinscheduler)
+### [244. Liquid AI’s 450M Vision Model Balances Speed and Smarts](https://hackernoon.com/liquid-ais-450m-vision-model-balances-speed-and-smarts)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-mk02151.jpeg)
+This is a simplified guide to an AI model called LFM2.5-VL-450M [https://www.aimodels.fyi/models/huggingFace/lfm2.5-vl-450m-liquidai?utm_source=hackernoon&ut...
+
+### [245. The Math Behind Finding Hidden Signals in Noisy Data](https://hackernoon.com/the-math-behind-finding-hidden-signals-in-noisy-data)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-fw021if.jpeg)
+This is a Plain English Papers summary of a research paper called Sparse Bayesian Learning Algorithms Revisited: From Learning Majorizers to Structured Algor...
+
+### [246. LG’s EXAONE-4.5-33B Packs Vision, Reasoning, and 262K Context Into One Model](https://hackernoon.com/lgs-exaone-45-33b-packs-vision-reasoning-and-262k-context-into-one-model)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-vd021zg.jpeg)
+This is a simplified guide to an AI model called EXAONE-4.5-33B [https://www.aimodels.fyi/models/huggingFace/exaone-4.5-33b-lgai-exaone?utm_source=hackernoon...
+
+### [247. Video-MME-v2 Exposes Benchmark Gaming](https://hackernoon.com/video-mme-v2-exposes-benchmark-gaming)
+![](https://cdn.hackernoon.com/images/1775657756130_m5v49mpo.png)
+This is a Plain English Papers summary of a research paper called Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding [h...
+
+### [248. Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability](https://hackernoon.com/rethinking-generalization-in-reasoning-sft-a-conditional-analysis-on-optimization-data-and-model-capability)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oh020qy.jpeg)
+This is a Plain English Papers summary of a research paper called Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, a...
+
+### [249. The Keyhole Problem in AI Video Generation](https://hackernoon.com/the-keyhole-problem-in-ai-video-generation)
+![](https://cdn.hackernoon.com/images/1775830578604_hs9t4vg8.png)
+This is a Plain English Papers summary of a research paper called INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling [...
+
+### [250. SQL Optimization Reveals Root Cause of 20-Second Query Delays in DolphinScheduler](https://hackernoon.com/sql-optimization-reveals-root-cause-of-20-second-query-delays-in-dolphinscheduler)
 ![](https://cdn.hackernoon.com/images/1xYF9Q2MEDQRYXBY7nlDViaH7ED3-x60389n.jpeg)
 DolphinScheduler slow queries? We fixed >20s response time.
 

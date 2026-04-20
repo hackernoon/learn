@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [scrum](https://hackernoon.com/tagged/scrum)
+### Let's learn about [Scrum](https://hackernoon.com/tagged/scrum) via these 136 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Complex products, sustainability and adaptive solutions, in the constantly evolving work and technological landscape.
 
 ### [1. We Ditched Jira and Started Using GitHub as Our Project Management Tool ](https://hackernoon.com/we-ditched-jira-and-started-using-github-as-our-project-management-tool)
@@ -101,13 +103,13 @@ If teams are not disciplined about the process, or not technically mature enough
 ![](https://cdn.hackernoon.com/images/GASQffVfuFWjW8ie6BuhOzznCLt1-6693mxe.jpeg)
 A software development methodology is a set of methods used in the creation of software.
 
-### [25. Basic Software Development Methodologies](https://hackernoon.com/software-development-methodologies-fm3p32s0)
-![](https://cdn.hackernoon.com/drafts/oqp3208.png)
-Hoping to structurize your product development work process? Choosing the correct development methodology for a project depends to a great extent on your group size, objectives, and different variables. Here is a diagram of the most generally used and perceived programming development techniques to assist you with choosing which is directly for your group.
-
-### [26. How to Run Daily Standups for Agile Teams](https://hackernoon.com/how-to-run-daily-standups-for-agile-teams)
+### [25. How to Run Daily Standups for Agile Teams](https://hackernoon.com/how-to-run-daily-standups-for-agile-teams)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-um93lp9.jpeg)
 Want to run effective, impactful daily standup meetings? This is the only guide you'll ever need. Learn how to run standups, and great standup strategies.
+
+### [26. Basic Software Development Methodologies](https://hackernoon.com/software-development-methodologies-fm3p32s0)
+![](https://cdn.hackernoon.com/drafts/oqp3208.png)
+Hoping to structurize your product development work process? Choosing the correct development methodology for a project depends to a great extent on your group size, objectives, and different variables. Here is a diagram of the most generally used and perceived programming development techniques to assist you with choosing which is directly for your group.
 
 ### [27. How to Maximize the Value of User Stories](https://hackernoon.com/how-to-maximize-the-value-of-user-stories)
 ![](https://cdn.hackernoon.com/images/0AJ5ZArcAhe8KPiPNtydBCEGh8x1-ez93phx.jpeg)
@@ -139,13 +141,13 @@ This post is the third article in our Tactical Guide to a Shorter Cycle Time fiv
 ![](https://cdn.hackernoon.com/images/EFourIMH3NfzbMz3nJuO3CtiwOa2-jk93ocs.jpeg)
 The worst thing we can do in Sprint Planning is to initiate it with the question, “How many tasks can we fit in this Sprint?” 
 
-### [34. Mastering the Daily Scrum | Best Practices for Startups](https://hackernoon.com/mastering-the-daily-scrum-or-best-practices-for-startups-0m34301f)
-![](https://cdn.hackernoon.com/drafts/e4103w3q.png)
-Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.
-
-### [35. How To Use Scrum With More Productivity And Less Pain](https://hackernoon.com/how-to-use-scrum-with-more-productivity-and-less-pain)
+### [34. How To Use Scrum With More Productivity And Less Pain](https://hackernoon.com/how-to-use-scrum-with-more-productivity-and-less-pain)
 ![](https://cdn.hackernoon.com/images/RRGB3HkLa0YNe09Q5nFeVo77v1K2-n6e3rtq.jpeg)
 How to make the best of the Scrum methodology framework to improve productivity without being overwhelmed by rules and ceremonies.
+
+### [35. Mastering the Daily Scrum | Best Practices for Startups](https://hackernoon.com/mastering-the-daily-scrum-or-best-practices-for-startups-0m34301f)
+![](https://cdn.hackernoon.com/drafts/e4103w3q.png)
+Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.
 
 ### [36. Top 33 Jira Alternatives For Agile Project Management Teams](https://hackernoon.com/top-32-jira-alternatives-for-agile-project-management-teams-bv173ym3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV9J0kJWT15dwSuG3CLQTn9lZjeE3-1aiy3ubm.webp?alt=media&token=0c9af644-ec9b-4dbe-9790-daeca0208303)
@@ -244,17 +246,17 @@ It has been almost 20 years since the publication of the Agile Manifesto
 ![](https://cdn.hackernoon.com/images/gdSH9RKnXaYYuw1kkt4410ToWJF3-dxa2k8d.jpeg)
 Technical debt refers to the additional work required later due to choosing the quickest solution rather than the best one. 
 
-### [59. How to Prevent Code Reviews from Wasting Everyone’s Time](https://hackernoon.com/keep-code-review-from-wasting-everyones-time-u61v330oj)
-![](https://cdn.hackernoon.com/drafts/rf1q3302y.png)
-This post is the fourth article in our Tactical Guide to a Shorter Cycle Time five-part series. Read the previous post here.
+### [59. Scrum Sprint Planning: Should You Choose Story Points or Ideal Days?](https://hackernoon.com/scrum-sprint-planning-should-you-choose-story-points-or-ideal-days)
+![](https://cdn.hackernoon.com/images/MEYTQTyLA9OUDleN04VVUeaXiIj2-a6b3vbx.png)
+What's the difference between the two most used approaches to PBI estimation? Learn what they are so that you can decide which one fits your team better.
 
 ### [60. Strategy Knotworking: Turning Ideas and Ambitions into Reality](https://hackernoon.com/strategy-knotworking-turning-ideas-and-ambitions-into-reality-fp1be3wwv)
 ![](https://cdn.hackernoon.com/drafts/h2n3wkp.png)
 By Barry Overeem, Professional Scrum Trainer, Scrum.org
 
-### [61. Scrum Sprint Planning: Should You Choose Story Points or Ideal Days?](https://hackernoon.com/scrum-sprint-planning-should-you-choose-story-points-or-ideal-days)
-![](https://cdn.hackernoon.com/images/MEYTQTyLA9OUDleN04VVUeaXiIj2-a6b3vbx.png)
-What's the difference between the two most used approaches to PBI estimation? Learn what they are so that you can decide which one fits your team better.
+### [61. How to Prevent Code Reviews from Wasting Everyone’s Time](https://hackernoon.com/keep-code-review-from-wasting-everyones-time-u61v330oj)
+![](https://cdn.hackernoon.com/drafts/rf1q3302y.png)
+This post is the fourth article in our Tactical Guide to a Shorter Cycle Time five-part series. Read the previous post here.
 
 ### [62. How To Create an Engaging and Collaborative Delivery Team For Your Business](https://hackernoon.com/creating-a-engaging-and-collaborative-delivery-team-with-business-9o663dbs)
 ![](https://cdn.hackernoon.com/drafts/mxdq3dn7.png)
@@ -286,65 +288,65 @@ This post is based on my talk at MeasureFest in September 2019, which in turn is
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FXgyZNRLs4IfiAQYtrOhP1YGjI5j2-nr123w5p.jpeg?alt=media&token=980f0db4-82e2-4841-aea6-5b54a17e1ac6)
 In October 2019 with the mentorship of a dear friend, I made the decision to become a Product Manager starting with a PM certification course and the knowledge that I would have to start my career afresh and work my way up from the lowest rank on the totem. This is what I’ve done. I transitioned from my usual Executive Assistant role which was great but not very challenging creatively.
 
-### [69. Two Conditions Where you Want To Have An Agile Project Manager](https://hackernoon.com/two-conditions-where-you-want-to-have-an-agile-project-manager-r8483yi7)
-![](https://cdn.hackernoon.com/drafts/ocig3ytx.png)
-And their 4 areas of responsibility
+### [69. Best 6 Online Retrospective Boards: Which Is Most Fun? ](https://hackernoon.com/best-6-online-retrospective-boards-which-is-most-fun)
+![](https://cdn.hackernoon.com/images/dh8cCqdD66d1z6M6RxLgUbG48Bn2-cs0366i.png)
+Out of the 6 best online retrospective boards, which one is the most fun for agile remote teams? I ran a “fun score” calculation to find out. Plus a few tips.
 
-### [70. Best Courses and Certification Exams  to Help You Become a Scrum Master](https://hackernoon.com/best-courses-and-certification-exams-to-help-you-become-a-scrum-master-m95n346t)
-![](https://cdn.hackernoon.com/images/mwWpvvG9aJflL1TxM9f5gkil4wD2-el253xao.jpeg)
-Scrum Alliance, scrum.org, and ICAgile are some of the best Scrum certification providers in the market. Certifications from a reputable source provide insight.
+### [70. Stop Boring Retrospectives: 18 Fun Templates to Spark Change](https://hackernoon.com/stop-boring-retrospectives-18-fun-templates-to-spark-change)
+![](https://cdn.hackernoon.com/images/dh8cCqdD66d1z6M6RxLgUbG48Bn2-q4036c1.png)
+Discover 18 fun sample sprint retrospective templates & formats for Scrum teams: from Mad Sad Glad to creative ideas like the DORA Metrics Retro.
 
 ### [71. Manual Testers in a Cross-Functional Team: Do We Still Need Them?](https://hackernoon.com/manual-testers-in-a-cross-functional-team-do-we-still-need-them)
 ![](https://cdn.hackernoon.com/images/8lb26UPDdsUcU4ddR983EQX5LD63-uk93oew.jpeg)
 In this article, we’ll share our experience working without manual QAs and you can determine for yourself if it’s really worth it.
 
-### [72. 4 Things You Need to Become a Great Product Manager in Every Company](https://hackernoon.com/4-things-you-need-to-become-a-great-product-manager-in-every-company)
+### [72. Two Conditions Where you Want To Have An Agile Project Manager](https://hackernoon.com/two-conditions-where-you-want-to-have-an-agile-project-manager-r8483yi7)
+![](https://cdn.hackernoon.com/drafts/ocig3ytx.png)
+And their 4 areas of responsibility
+
+### [73. Best Courses and Certification Exams  to Help You Become a Scrum Master](https://hackernoon.com/best-courses-and-certification-exams-to-help-you-become-a-scrum-master-m95n346t)
+![](https://cdn.hackernoon.com/images/mwWpvvG9aJflL1TxM9f5gkil4wD2-el253xao.jpeg)
+Scrum Alliance, scrum.org, and ICAgile are some of the best Scrum certification providers in the market. Certifications from a reputable source provide insight.
+
+### [74. 4 Things You Need to Become a Great Product Manager in Every Company](https://hackernoon.com/4-things-you-need-to-become-a-great-product-manager-in-every-company)
 ![](https://cdn.hackernoon.com/images/4heWOm7oGwNwUUrXGb8YLf1kc4P2-b683zat.jpeg)
 Successful PMs go beyond delivering new features regularly and mediating between engineering and design teams.
 
-### [73. How to Create a Project Management Communication Plan](https://hackernoon.com/how-to-create-a-project-management-communication-plan-z0il24xe)
+### [75. How to Create a Project Management Communication Plan](https://hackernoon.com/how-to-create-a-project-management-communication-plan-z0il24xe)
 ![](https://cdn.hackernoon.com/images/873873y3z.jpg)
 The software development process is complicated and, at times, chaotic. To make it less so, all its stages must be well-organized, planned, and agreed upon. Miscommunication, lack of clarity, and missed deadlines will jeopardize any project.
 
-### [74. It's Time Daily Stand-Ups Were Brought Up to Speed With Asynchronous Stand-Ups](https://hackernoon.com/its-time-daily-stand-ups-were-brought-up-to-speed-with-asynchronous-stand-ups)
+### [76. It's Time Daily Stand-Ups Were Brought Up to Speed With Asynchronous Stand-Ups](https://hackernoon.com/its-time-daily-stand-ups-were-brought-up-to-speed-with-asynchronous-stand-ups)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-a293njp.jpeg)
 Learn why asynchronous daily standups are beneficial for team collaboration. Explore daily standup alternatives, tools and AI to streamline updates and improve.
 
-### [75. Best 6 Online Retrospective Boards: Which Is Most Fun? ](https://hackernoon.com/best-6-online-retrospective-boards-which-is-most-fun)
-![](https://cdn.hackernoon.com/images/dh8cCqdD66d1z6M6RxLgUbG48Bn2-cs0366i.png)
-Out of the 6 best online retrospective boards, which one is the most fun for agile remote teams? I ran a “fun score” calculation to find out. Plus a few tips.
-
-### [76. Scrum: Agile Put into Practice](https://hackernoon.com/scrum-agile-put-into-practice-gi4932ey)
-![](https://cdn.hackernoon.com/images/2i17n3y43.jpg)
-In our previous blog post, we wrote about Agile, a philosophy for managing projects and teams. In that text, we mentioned Agile methods, one of them being Scrum.
-
-### [77. Agile Development: What Is a Product Owner?](https://hackernoon.com/agile-development-what-is-a-product-owner)
-![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-fb93zms.jpeg)
-Want to know how to be a good Product Owner? Get to know responsibilities and read tips for better communication with clients and teams. Agile Development 101!
-
-### [78. Agile: How to Write User Stories for Beginners](https://hackernoon.com/agile-how-to-write-user-stories-for-beginners)
+### [77. Agile: How to Write User Stories for Beginners](https://hackernoon.com/agile-how-to-write-user-stories-for-beginners)
 ![](https://cdn.hackernoon.com/images/QRqitUIXi9Z5pvAY0aAnCzCu0002-a902ugw.jpeg)
 User Stories are a fundamental part of Agile and Scrum. 
 
-### [79. A Tactical Guide to Shorter Cycle Times: The Virtuous Circle of Software Delivery](https://hackernoon.com/the-virtuous-circle-of-software-delivery-to2hr30yd)
+### [78. Scrum: Agile Put into Practice](https://hackernoon.com/scrum-agile-put-into-practice-gi4932ey)
+![](https://cdn.hackernoon.com/images/2i17n3y43.jpg)
+In our previous blog post, we wrote about Agile, a philosophy for managing projects and teams. In that text, we mentioned Agile methods, one of them being Scrum.
+
+### [79. Agile Development: What Is a Product Owner?](https://hackernoon.com/agile-development-what-is-a-product-owner)
+![](https://cdn.hackernoon.com/images/dieIKS1smgR3vhCfmUenCSgojq23-fb93zms.jpeg)
+Want to know how to be a good Product Owner? Get to know responsibilities and read tips for better communication with clients and teams. Agile Development 101!
+
+### [80. A Tactical Guide to Shorter Cycle Times: The Virtuous Circle of Software Delivery](https://hackernoon.com/the-virtuous-circle-of-software-delivery-to2hr30yd)
 ![](https://cdn.hackernoon.com/images/2j2ha302p.jpg)
 This post is the first article in our Tactical Guide to a Shorter Cycle Time five-part series.
 
-### [80. The Rabbit Hole: Local Optimizations That Harm](https://hackernoon.com/the-rabbit-hole-local-optimizations-that-harm)
+### [81. The Rabbit Hole: Local Optimizations That Harm](https://hackernoon.com/the-rabbit-hole-local-optimizations-that-harm)
 ![](https://cdn.hackernoon.com/images/4heWOm7oGwNwUUrXGb8YLf1kc4P2-6883a60.jpeg)
 We explore the impact of tuning our processes with local optimisations on our productivity.
 
-### [81. Values First, or How to Start Transformation Correctly](https://hackernoon.com/values-first-or-how-to-start-transformation-correctly)
+### [82. Values First, or How to Start Transformation Correctly](https://hackernoon.com/values-first-or-how-to-start-transformation-correctly)
 ![](https://cdn.hackernoon.com/images/4heWOm7oGwNwUUrXGb8YLf1kc4P2-0s83ab8.webp)
 Discover the key principles for a successful agile transformation, emphasizing the importance of fundamental values, transparency, and continuous improvement. 
 
-### [82. Agile And Distributed Teams [An Overview]](https://hackernoon.com/agile-and-distributed-teams-an-overview-rx9d3bou)
+### [83. Agile And Distributed Teams [An Overview]](https://hackernoon.com/agile-and-distributed-teams-an-overview-rx9d3bou)
 ![](https://cdn.hackernoon.com/drafts/l6j733u3.png)
 We observe an increasing share of distributed teams and the growing popularity of remote work. And there seems to be some contradiction, as at the first glance Agile and distributed teams do not merge well. The Agile methodology is laid down in the famous Agile Manifesto and is based on the twelve principles derived from it.
-
-### [83. Stop Boring Retrospectives: 18 Fun Templates to Spark Change](https://hackernoon.com/stop-boring-retrospectives-18-fun-templates-to-spark-change)
-![](https://cdn.hackernoon.com/images/dh8cCqdD66d1z6M6RxLgUbG48Bn2-q4036c1.png)
-Discover 18 fun sample sprint retrospective templates & formats for Scrum teams: from Mad Sad Glad to creative ideas like the DORA Metrics Retro.
 
 ### [84. Retrospective is A/B Testing for Teams](https://hackernoon.com/retrospective-is-ab-testing-for-teams-bd8g3y3r)
 ![](https://cdn.hackernoon.com/drafts/eh4a3zi9.png)
@@ -358,56 +360,56 @@ Max Nechaev shares insights from Snoonu on optimizing Agile processes, detailing
 ![](https://cdn.hackernoon.com/images/github/scrum-230.png)
 Learn everything you need to know about Scrum via these 102 free HackerNoon stories.
 
-### [87. The Essential Data for Leading a Remote Engineering Team](https://hackernoon.com/the-essential-data-for-leading-a-remote-engineering-team-cz513yfx)
+### [87. How to Estimate Stories in Scrum: Tips for Beginners](https://hackernoon.com/how-to-estimate-stories-in-scrum-tips-for-beginners)
+![](https://cdn.hackernoon.com/images/TRitLpffkiUte8hEIiq0jTtuhmy2-cd93pji.jpeg)
+
+A brief guide to story punctuation.
+
+### [88. How Scrum Teams Can Identify Dependencies by Playing Dependency Poker](https://hackernoon.com/how-scrum-teams-can-identify-dependencies-by-playing-dependency-poker)
+![](https://cdn.hackernoon.com/images/Jr6kz8tAmkhU8nm50CeCk2xeJI03-jt93qn5.jpeg)
+Identify and manage your Dependency with Dependency Poker
+
+### [89. How to Ensure the Success of Microservices-based Projects](https://hackernoon.com/how-to-ensure-the-success-of-microservices-based-projects-lj3e34my)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-eb13286k.jpeg)
+Microservices-based projects are a great idea to deliver products in less time and with great flexibility/agility. 
+
+### [90. The Essential Data for Leading a Remote Engineering Team](https://hackernoon.com/the-essential-data-for-leading-a-remote-engineering-team-cz513yfx)
 ![](https://cdn.hackernoon.com/drafts/qto3yhb.png)
 When your team is building a software product, the majority of the work that they do is invisible. As a manager, you have to rely on in-person cues for blocked work or frustrated engineers. When they move to a remote workflow—your team also becomes invisible, and all those critical signals are dropped. 
 
 In-person, you might notice:
 
-### [88. How to Ensure the Success of Microservices-based Projects](https://hackernoon.com/how-to-ensure-the-success-of-microservices-based-projects-lj3e34my)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-eb13286k.jpeg)
-Microservices-based projects are a great idea to deliver products in less time and with great flexibility/agility. 
-
-### [89. How Scrum Teams Can Identify Dependencies by Playing Dependency Poker](https://hackernoon.com/how-scrum-teams-can-identify-dependencies-by-playing-dependency-poker)
-![](https://cdn.hackernoon.com/images/Jr6kz8tAmkhU8nm50CeCk2xeJI03-jt93qn5.jpeg)
-Identify and manage your Dependency with Dependency Poker
-
-### [90. So, You Read Accelerate. Now What?](https://hackernoon.com/so-you-read-accelerate-book-now-what-bc3d36pd)
+### [91. So, You Read Accelerate. Now What?](https://hackernoon.com/so-you-read-accelerate-book-now-what-bc3d36pd)
 ![](https://cdn.hackernoon.com/drafts/a0m36uj.png)
 “Our analysis is clear: in today’s fast-moving and competitive world, the best thing you can do for your products, your company, and your people is institute a culture of experimentation and learning, and invest in the technical and management capabilities that enable it.” – Nicole Forsgren, Jez Humble, and Gene Kim, Accelerate.
-
-### [91. How to Estimate Stories in Scrum: Tips for Beginners](https://hackernoon.com/how-to-estimate-stories-in-scrum-tips-for-beginners)
-![](https://cdn.hackernoon.com/images/TRitLpffkiUte8hEIiq0jTtuhmy2-cd93pji.jpeg)
-
-A brief guide to story punctuation.
 
 ### [92. Effective Sprint Planning: How To Not Get Overwhelmed By Technical Debt ](https://hackernoon.com/how-to-run-an-effective-sprint-planning-meeting-and-tips-to-plan-technical-debt-work-qw2c32xy)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-3lh356s.png)
 My aim is to offer practical strategies to make planning a sprint less painful so that you'll feel organized rather than overwhelmed by your technical debt.
 
-### [93. Scrum vs. Kanban: Which is Better for Your Team?](https://hackernoon.com/scrum-vs-kanban-which-is-better-for-your-team)
-![](https://cdn.hackernoon.com/images/zBNvq4KPzuQTagLdn5CRuQiJhhu2-9b2378u.jpeg)
-Scrum vs Kanban: core principles, similarities and differences. See schedule and cadence in both methods, release approaches, roles and attitude towards changes
-
-### [94. AI Won’t Radically Overhaul Agile Teams, but it Can Quietly Reduce Daily Friction](https://hackernoon.com/ai-wont-radically-overhaul-agile-teams-but-it-can-quietly-reduce-daily-friction)
+### [93. AI Won’t Radically Overhaul Agile Teams, but it Can Quietly Reduce Daily Friction](https://hackernoon.com/ai-wont-radically-overhaul-agile-teams-but-it-can-quietly-reduce-daily-friction)
 ![](https://cdn.hackernoon.com/images/ozESALSPb9PWeM05VkWH911ADP92-th034iu.png)
 AI won’t replace your Agile team—but it can reduce backlog chaos, meeting fatigue, and status churn. Here’s what practical AI might actually look like. 
 
-### [95. Daily Standups Tools or Traditional Standups: The Final Verdict](https://hackernoon.com/daily-standups-tools-vs-traditional-standups-the-verdict)
+### [94. Daily Standups Tools or Traditional Standups: The Final Verdict](https://hackernoon.com/daily-standups-tools-vs-traditional-standups-the-verdict)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-6j93n72.jpeg)
 The debate about the best way to run daily standups has plenty of nuance. I dig into the options we have for this agile ceremony.
+
+### [95. Scrum vs. Kanban: Which is Better for Your Team?](https://hackernoon.com/scrum-vs-kanban-which-is-better-for-your-team)
+![](https://cdn.hackernoon.com/images/zBNvq4KPzuQTagLdn5CRuQiJhhu2-9b2378u.jpeg)
+Scrum vs Kanban: core principles, similarities and differences. See schedule and cadence in both methods, release approaches, roles and attitude towards changes
 
 ### [96. Same Product = Same Team: Myth or Fact?](https://hackernoon.com/same-product-same-team-myth-or-fact-4o7p32te)
 ![](https://cdn.hackernoon.com/drafts/l02f32ig.png)
 The Scrum Guide is quite clear on one important thing: for one product there is only one Product Owner and only one Product Backlog:
 
-### [97. Planning Poker: Agile Estimation And Planning Made Easy](https://hackernoon.com/planning-poker-agile-estimation-and-planning-made-easy-dp3w3wp9)
-![](https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-
-
-### [98. Scrum and Kanban Methodologies for Digital Product Development](https://hackernoon.com/scrum-and-kanban-methodologies-for-digital-product-development)
+### [97. Scrum and Kanban Methodologies for Digital Product Development](https://hackernoon.com/scrum-and-kanban-methodologies-for-digital-product-development)
 ![](https://cdn.hackernoon.com/images/yDTzKLjAstZqGqt1eB7MmdbTVws1-wml3r42.jpeg)
 Learn about Scrum and Kanban methodologies for digital product development.
+
+### [98. Planning Poker: Agile Estimation And Planning Made Easy](https://hackernoon.com/planning-poker-agile-estimation-and-planning-made-easy-dp3w3wp9)
+![](https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+
 
 ### [99. Who is the Product Owner?](https://hackernoon.com/the-stances-of-the-product-owner-w43l3zc2)
 ![](https://images.unsplash.com/flagged/photo-1550946107-8842ae9426db?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -429,17 +431,17 @@ Scrum isn’t just about speed—it’s about sustainability. Developers run spr
 ![](https://cdn.hackernoon.com/images/YkXbI1d3JYbsFUXUXntGyt1n5073-mt2l34i7.jpeg)
 The complete guide to hacking the setup of your scrum team and start delivering business value in 48 hours.
 
-### [104. The Essential Guide to Scrum Ceremonies](https://hackernoon.com/the-essential-guide-to-scrum-ceremonies-622i3t0g)
+### [104. Feel Comfortable Saying No - Even to Your Boss](https://hackernoon.com/feel-comfortable-saying-no-even-to-your-boss)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ix82qzf.jpeg)
+Learn effective strategies for product leaders to navigate challenging conversations and say no to senior leaders while maintaining positive relationships.
+
+### [105. The Essential Guide to Scrum Ceremonies](https://hackernoon.com/the-essential-guide-to-scrum-ceremonies-622i3t0g)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FV9J0kJWT15dwSuG3CLQTn9lZjeE3-xy2n3tid.png?alt=media&token=8548a12f-fb05-4c22-9e17-95f75da489ba)
 From the desk of a brilliant weirdo #1:
 
-### [105. How Confidence Became the New Happiness](https://hackernoon.com/why-confidence-is-the-new-happiness-lr4t32vs)
+### [106. How Confidence Became the New Happiness](https://hackernoon.com/why-confidence-is-the-new-happiness-lr4t32vs)
 ![](https://cdn.hackernoon.com/drafts/iuze323i.png)
 I know its conventional to open a new blog with some kind of declarative statement or thesis, but I want to start with a question. If you were to measure just one thing about your team, one metric that best captures “the human element” what would it be?
-
-### [106. Feel Comfortable Saying No - Even to Your Boss](https://hackernoon.com/feel-comfortable-saying-no-even-to-your-boss)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ix82qzf.jpeg)
-Learn effective strategies for product leaders to navigate challenging conversations and say no to senior leaders while maintaining positive relationships.
 
 ### [107. Shippable Stories](https://hackernoon.com/shippable-stories-x06i3yzp)
 ![](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -461,13 +463,13 @@ The Daily Scrum is a vital part of Agile practices. Get it right, and you'll spe
 ![](https://cdn.hackernoon.com/images/github/agile-435.png)
 Learn everything you need to know about Agile via these 254 free HackerNoon stories.
 
-### [112. Scrum Vs. Waterfall: What is the Difference?](https://hackernoon.com/scrum-vs-waterfall-what-is-the-difference-u12a33hr)
-![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-ar16318y.jpeg)
-The software development market is gigantic and has a lot to offer us
-
-### [113. If Formula-1 Defined Efficiency](https://hackernoon.com/if-formula-1-defined-efficiency-675z3yqd)
+### [112. If Formula-1 Defined Efficiency](https://hackernoon.com/if-formula-1-defined-efficiency-675z3yqd)
 ![](https://cdn.hackernoon.com/drafts/ksef3y2c.png)
 This is what it would be
+
+### [113. Scrum Vs. Waterfall: What is the Difference?](https://hackernoon.com/scrum-vs-waterfall-what-is-the-difference-u12a33hr)
+![](https://cdn.hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-ar16318y.jpeg)
+The software development market is gigantic and has a lot to offer us
 
 ### [114. Team Building Mental Models](https://hackernoon.com/team-building-mental-models-2gvo3x0w)
 ![](https://cdn.hackernoon.com/drafts/r41s3xxs.png)
@@ -493,17 +495,17 @@ The "start with why" concept is a powerful framework for understanding and commu
 ![](https://cdn.hackernoon.com/drafts/qvvm368a.png)
 A well-planned influencer campaign can yield much better returns than traditional banner ads. For a fintech project, collaborating with influencers can be a key to success – but only if you manage to negotiate all the stumbling blocks.
 
-### [120. 15 Stories To Learn About Kanban](https://hackernoon.com/15-stories-to-learn-about-kanban)
+### [120. Evidence-Based Management in Business: Will it make a difference?](https://hackernoon.com/evidence-based-management-in-business-will-it-make-a-difference)
+![](https://cdn.hackernoon.com/images/4heWOm7oGwNwUUrXGb8YLf1kc4P2-f083zvq.jpeg)
+Discover the benefits of evidence-based management in business, understand its impact, challenges, and how to transition to evidence-based decision-making.
+
+### [121. 15 Stories To Learn About Kanban](https://hackernoon.com/15-stories-to-learn-about-kanban)
 ![](https://cdn.hackernoon.com/images/github/kanban-843.png)
 Learn everything you need to know about Kanban via these 15 free HackerNoon stories.
 
-### [121. Working in Agile Environments: The Sprint is Not Just About You](https://hackernoon.com/working-in-agile-environments-the-sprint-is-not-just-about-you)
+### [122. Working in Agile Environments: The Sprint is Not Just About You](https://hackernoon.com/working-in-agile-environments-the-sprint-is-not-just-about-you)
 ![](https://cdn.hackernoon.com/images/TRitLpffkiUte8hEIiq0jTtuhmy2-8f9339x.jpeg)
 The depths of agile sprints, teamwork, and challenges in software development: the sprint is more than you think.
-
-### [122. Evidence-Based Management in Business: Will it make a difference?](https://hackernoon.com/evidence-based-management-in-business-will-it-make-a-difference)
-![](https://cdn.hackernoon.com/images/4heWOm7oGwNwUUrXGb8YLf1kc4P2-f083zvq.jpeg)
-Discover the benefits of evidence-based management in business, understand its impact, challenges, and how to transition to evidence-based decision-making.
 
 ### [123. On Bloom's Taxonomy and Why Agile Training is Not Enough](https://hackernoon.com/on-blooms-taxonomy-and-why-agile-training-is-not-enough-du8m3xo4)
 ![](https://cdn.hackernoon.com/images/3ep38gm.jpg)
@@ -513,47 +515,51 @@ Discover the benefits of evidence-based management in business, understand its i
 ![](https://cdn.hackernoon.com/images/d7qi3yx7.jpg)
 Seems like everything has been written about effective one-on-one meetings. There are classes available, workshops suggesting ultimate know-hows, and experts offering their services to corporate and HR managers.
 
-### [125. On Discussing Engineering Metrics to Direct Your Team's Focus, Daily](https://hackernoon.com/on-discussing-engineering-metrics-to-direct-your-teams-focus-daily-gohf3wwm)
-![](https://images.unsplash.com/photo-1556155092-490a1ba16284?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Software engineering metrics help daily stand-up meetings to be more productive for the team. They can become tedious or irrelevant for many developers when they frequently exceed the fifteen minutes time box or even sound like a work report.
-
-### [126. How To Recruit Great Scrum Masters](https://hackernoon.com/how-to-recruit-great-scrum-masters-4wb43yu6)
+### [125. How To Recruit Great Scrum Masters](https://hackernoon.com/how-to-recruit-great-scrum-masters-4wb43yu6)
 ![](https://cdn.hackernoon.com/drafts/a6n23ygs.png)
 Finding a Scrum Master is simple and complex. There are plenty of people out there who call themselves “Scrum Masters”, but how do you know if the person you are hiring really is a great Scrum Master?
 
-### [127. How Can a Scrum Team Establish a Product Backlog ](https://hackernoon.com/how-can-a-scrum-team-establish-a-product-backlog)
+### [126. On Discussing Engineering Metrics to Direct Your Team's Focus, Daily](https://hackernoon.com/on-discussing-engineering-metrics-to-direct-your-teams-focus-daily-gohf3wwm)
+![](https://images.unsplash.com/photo-1556155092-490a1ba16284?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Software engineering metrics help daily stand-up meetings to be more productive for the team. They can become tedious or irrelevant for many developers when they frequently exceed the fifteen minutes time box or even sound like a work report.
+
+### [127. I Asked GitHub Copilot to Plan My Next Sprint: It Failed Spectacularly](https://hackernoon.com/i-asked-github-copilot-to-plan-my-next-sprint-it-failed-spectacularly)
+![](https://cdn.hackernoon.com/images/rarwtqtzm9VJhKqXlqRVPoNf6ps2-1l83epy.png)
+Experimenting with GitHub Copilot to generate Agile sprint plans for a legacy rewrite. Results show AI struggles with realistic estimates and true Agile plan
+
+### [128. How Can a Scrum Team Establish a Product Backlog ](https://hackernoon.com/how-can-a-scrum-team-establish-a-product-backlog)
 ![](https://cdn.hackernoon.com/images/undspu4xF5TxmJOHaBHn5ZqRYOl1-zf135o9.jpeg)
 The Scrum Guide doesn't tell you how to create a Product Backlog. This article provides one technique to do just that in five easy steps
 
-### [128. "I Write Words And Code", Interview With Anthony Watson](https://hackernoon.com/i-write-words-and-code-interview-with-anthony-watson-xn293t7p)
+### [129. "I Write Words And Code", Interview With Anthony Watson](https://hackernoon.com/i-write-words-and-code-interview-with-anthony-watson-xn293t7p)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2F3nhao37bBEfHA9RTQ0WNVWfXPD02-wn1r3twu.jpeg?alt=media&token=4c9bb7f9-0754-4ab0-a5d9-1b14ff549b1e)
 The 2020 #Noonies are here,and they are both much greener and much bigger than last year. 
-
-### [129. Why Developers Should be Customer-obsessed](https://hackernoon.com/why-developers-should-be-customer-obsessed)
-![](https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-1g93h8f.jpeg)
-
 
 ### [130. The Noonification: How to Run Daily Standups for Agile Teams (6/9/2023)](https://hackernoon.com/6-9-2023-noonification)
 ![](https://cdn.hackernoon.com/images/zduv342l.gif)
 6/9/2023: Top 5 stories on the Hackernoon homepage!
 
-### [131. Human-Centric Blockchains: How to Build Scalable DLTs](https://hackernoon.com/human-centric-blockchains-how-to-build-scalable-dlts-u7t33r9)
+### [131. Why Developers Should be Customer-obsessed](https://hackernoon.com/why-developers-should-be-customer-obsessed)
+![](https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-1g93h8f.jpeg)
+
+
+### [132. Human-Centric Blockchains: How to Build Scalable DLTs](https://hackernoon.com/human-centric-blockchains-how-to-build-scalable-dlts-u7t33r9)
 ![](https://cdn.hackernoon.com/images/5XfdKTDvpshIqPx69HxOQALJFK73-fw8d330a.jpeg)
 All too often, I see founders in the blockchain space making the same mistake; a lack of human-centric design. I’m talking about intimately involving who...
 
-### [132. The Poetry in Software Releases](https://hackernoon.com/the-poetry-in-software-releases)
+### [133. The Poetry in Software Releases](https://hackernoon.com/the-poetry-in-software-releases)
 ![](https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-0j93hkz.jpeg)
 How to plan the unplannable: In software as in life “Deciding what not to do is as important as deciding what to do."
 
-### [133. Managing Technical Debt in Scrum: Tips and Techniques for Agile Teams](https://hackernoon.com/managing-technical-debt-in-scrum-tips-and-techniques-for-agile-teams)
+### [134. Managing Technical Debt in Scrum: Tips and Techniques for Agile Teams](https://hackernoon.com/managing-technical-debt-in-scrum-tips-and-techniques-for-agile-teams)
 ![](https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-bf93ldt.jpeg)
 Learn how to manage technical debt in Scrum to improve code quality. Choose the right strategy to prioritise and fix tech debt and gain a competitive edge.
 
-### [134. Icebreakers: Absolute Waste Of Time Or Do They Add Value?](https://hackernoon.com/icebreakers-absolute-waste-of-time-or-do-they-add-value-3wyl30g0)
+### [135. Icebreakers: Absolute Waste Of Time Or Do They Add Value?](https://hackernoon.com/icebreakers-absolute-waste-of-time-or-do-they-add-value-3wyl30g0)
 ![](https://cdn.hackernoon.com/drafts/opmv30tz.png)
 By Wai Ling Ko, Professional Scrum Trainer, Scrum.org
 
-### [135. AI Can Draft the Work—But Can It Ask the Right Questions?](https://hackernoon.com/ai-can-draft-the-workbut-can-it-ask-the-right-questions)
+### [136. AI Can Draft the Work—But Can It Ask the Right Questions?](https://hackernoon.com/ai-can-draft-the-workbut-can-it-ask-the-right-questions)
 ![](https://cdn.hackernoon.com/images/ozESALSPb9PWeM05VkWH911ADP92-t503a4c.png)
 The future of delivery still depends on human questioning. 
 

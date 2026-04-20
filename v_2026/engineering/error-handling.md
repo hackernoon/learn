@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [error-handling](https://hackernoon.com/tagged/error-handling)
+### Let's learn about [Error Handling](https://hackernoon.com/tagged/error-handling) via these 69 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Error handling is the process of anticipating, detecting, and resolving application errors gracefully to prevent crashes and ensure a smooth user experience. It's crucial for building robust and reliable software systems that can recover from unexpected issues without losing data or functionality.
+
 ### [1. Resolving TypeError: A Bytes-like Object is Required, Not 'str' in Python](https://hackernoon.com/resolving-typeerror-a-bytes-like-object-is-required-not-str-in-python)
 ![](https://cdn.hackernoon.com/images/HBFDpaRgFAXp9sXoW0d6LL26mvh1-s093pni.jpeg)
 Resolve the common Python error 'TypeError: a bytes-like object is required, not 'str'' with this in-depth tutorial. Learn to identify and fix the issue ...
@@ -145,21 +149,21 @@ Handle error in react components like a pro.
 ![](https://cdn.hackernoon.com/images/cwu2ent.jpg)
 Errors can always creep up while working with software. It’s important to get notified about it so that it can be timely fixed. n8n allows you to set an ‘Error Workflow’ for your workflows. When your workflow runs into an error, the error workflow is triggered. This workflow can do anything that other workflows can like send an SMS or Slack/Mattermost notification to alert you about  the error.
 
-### [37. Master JavaScript: A Beginner’s Guide to Building Dynamic, Interactive Web Pages](https://hackernoon.com/master-javascript-a-beginners-guide-to-building-dynamic-interactive-web-pages)
+### [37. How To Fix Duplicate API Requests: Understanding Idempotency](https://hackernoon.com/how-to-fix-duplicate-api-requests-understanding-idempotency)
+![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-bma2i6r.jpeg)
+Learn to prevent duplicate API requests in distributed systems with idempotency.
+
+### [38. Master JavaScript: A Beginner’s Guide to Building Dynamic, Interactive Web Pages](https://hackernoon.com/master-javascript-a-beginners-guide-to-building-dynamic-interactive-web-pages)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-l493uhg.png)
 This blog post discusses JavaScript, its role, features and frameworks that are at a developer’s disposal. Read on to know more…
 
-### [38. Prevent Errors From Growing With This New Framework](https://hackernoon.com/prevent-errors-from-growing-with-this-new-framework)
+### [39. Prevent Errors From Growing With This New Framework](https://hackernoon.com/prevent-errors-from-growing-with-this-new-framework)
 ![](https://cdn.hackernoon.com/images/JA6fPxJ1xIXZ3mdUN1HpblUMTEV2-2k034xw.png)
 This is the story of how we started with a simple error handling approach, got thoroughly frustrated, and eventually built our own error framework.
 
-### [39. Pinpoint Those Pesky Minified Javascript Errors With Sentry](https://hackernoon.com/pinpoint-those-pesky-minified-javascript-errors-with-sentry-bwk3yer)
+### [40. Pinpoint Those Pesky Minified Javascript Errors With Sentry](https://hackernoon.com/pinpoint-those-pesky-minified-javascript-errors-with-sentry-bwk3yer)
 ![](https://cdn.hackernoon.com/drafts/6z4423zwu.png)
 Source Maps to the rescue.!
-
-### [40. How To Fix Duplicate API Requests: Understanding Idempotency](https://hackernoon.com/how-to-fix-duplicate-api-requests-understanding-idempotency)
-![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-bma2i6r.jpeg)
-Learn to prevent duplicate API requests in distributed systems with idempotency.
 
 ### [41. Stacks in Programming: Understanding the LIFO Data Structure and Its Applications](https://hackernoon.com/stacks-in-programming-understanding-the-lifo-data-structure-and-its-applications)
 ![](https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-hc93sse.jpeg)
@@ -190,13 +194,13 @@ Dive into Rust's error management with Result, thiserror, and anyhow, ensuring r
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-mv83e6c.webp)
 How a simple ^ operator mistake in Go can degrade performance and cause hidden bugs—and how static analysis tools can detect the problem early.
 
-### [48. The Dangers of Using async void Methods In C#](https://hackernoon.com/the-dangers-of-using-async-void-methods-in-c)
-![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-em834jm.jpeg)
-Learn why async void methods in C# can be dangerous with clear code examples. A perfect for beginner software engineers wanting to understand the risks.
-
-### [49. Architectural Principles of Error Handling in Ruby](https://hackernoon.com/architectural-principles-of-error-handling-in-ruby)
+### [48. Architectural Principles of Error Handling in Ruby](https://hackernoon.com/architectural-principles-of-error-handling-in-ruby)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-hk033g5.webp)
 Let’s go through the different kinds of errors and different approaches and try to find the optimal way how to handle errors properly.
+
+### [49. The Dangers of Using async void Methods In C#](https://hackernoon.com/the-dangers-of-using-async-void-methods-in-c)
+![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-em834jm.jpeg)
+Learn why async void methods in C# can be dangerous with clear code examples. A perfect for beginner software engineers wanting to understand the risks.
 
 ### [50. Working With Transient Errors](https://hackernoon.com/working-with-transient-errors-qq383wbt)
 ![](https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
@@ -214,13 +218,13 @@ In React, an error boundary is a component that wraps around other components to
 ![](https://cdn.hackernoon.com/images/RXadfDF7FAUpoNxhRqBIwlyiOM02-kh93vwy.jpeg)
 In this article, we'll dive into how ValidationMyPhp simplifies data validation in PHP applications and why it deserves your attention on GitHub.
 
-### [54. How to Stop Your Scripts from Crashing with Try-Catch Magic](https://hackernoon.com/how-to-stop-your-scripts-from-crashing-with-try-catch-magic)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6302tjk.jpeg)
-An error in a PowerShell script will prevent it from completing script execution. Using error handling with try-catch blocks allows you to manage it.
-
-### [55. What You Have to Know About Syntactic Support for Error Handling ](https://hackernoon.com/what-you-have-to-know-about-syntactic-support-for-error-handling)
+### [54. What You Have to Know About Syntactic Support for Error Handling ](https://hackernoon.com/what-you-have-to-know-about-syntactic-support-for-error-handling)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ct03c8v.jpeg)
 One of the oldest and most persistent complaints about Go concerns the verbosity of error handling.
+
+### [55. How to Stop Your Scripts from Crashing with Try-Catch Magic](https://hackernoon.com/how-to-stop-your-scripts-from-crashing-with-try-catch-magic)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-6302tjk.jpeg)
+An error in a PowerShell script will prevent it from completing script execution. Using error handling with try-catch blocks allows you to manage it.
 
 ### [56. Ansible 101: Modularization & Debugging](https://hackernoon.com/ansible-101-modularization-and-debugging)
 ![](https://cdn.hackernoon.com/images/FjRK7Ru39gaUa2HBaUd0XNoL5pH3-r092hm4.jpeg)
@@ -258,13 +262,13 @@ Here are 3 ways to troubleshoot when Outlook email search isn't working.
 ![](https://cdn.hackernoon.com/images/FA4UT4FgGUfOjEjkcSYA2tYPEyG2-84836v7.jpeg)
 Learn how exception handling works in C# with the basics of try catch. This article is perfect for junior software engineers aiming to understand dotnet and C#.
 
-### [65. Mastering JavaScript: Comprehensive Error Handling Techniques](https://hackernoon.com/mastering-javascript-comprehensive-error-handling-techniques)
-![](https://cdn.hackernoon.com/images/xnExhhWVgGRFDoTG4pYFD7lqIng1-tr1357z.png)
-Learn advanced error handling in JavaScript with try-catch, throwing, async patterns, and real-world examples for robust applications
-
-### [66. How to Solve: Nova Spatie 422 error "This disk is not configured as a backup disk"](https://hackernoon.com/how-to-solve-nova-spatie-422-error-this-disk-is-not-configured-as-a-backup-disk-b11w3uui)
+### [65. How to Solve: Nova Spatie 422 error "This disk is not configured as a backup disk"](https://hackernoon.com/how-to-solve-nova-spatie-422-error-this-disk-is-not-configured-as-a-backup-disk-b11w3uui)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FftUCnMhOe2XTZI6pMhyPHKIZ3Ip1-vwb238d.jpeg?alt=media&token=70457e1b-00e5-4b5b-b456-053818552601)
 Spatie's Laravel Components are surely known to most and are great helpers to build any kind of Laravel application or website. I've been using the Spatie' Laravel Backup component on my projects. With my recent shift to Laravel Nova on my new project, I've started to look at the related Nova component. It worked fine, once I got over some initial trouble.
+
+### [66. Mastering JavaScript: Comprehensive Error Handling Techniques](https://hackernoon.com/mastering-javascript-comprehensive-error-handling-techniques)
+![](https://cdn.hackernoon.com/images/xnExhhWVgGRFDoTG4pYFD7lqIng1-tr1357z.png)
+Learn advanced error handling in JavaScript with try-catch, throwing, async patterns, and real-world examples for robust applications
 
 ### [67. The Try Block in Rust: Streamlining Error Management Beyond the '?' Operator](https://hackernoon.com/the-try-block-in-rust-streamlining-error-management-beyond-the-operator)
 ![](https://cdn.hackernoon.com/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-sy92l9n.jpeg)

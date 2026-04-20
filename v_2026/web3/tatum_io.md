@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [tatum_io](https://hackernoon.com/tagged/tatum_io)
+### Let's learn about [Tatum_io](https://hackernoon.com/tagged/tatum_io) via these 131 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+Tatum.io is a blockchain development platform that simplifies the creation of blockchain applications through a comprehensive API. It matters by lowering the barrier to entry for Web3 development, enabling developers to build powerful blockchain solutions faster and more efficiently.
+
 ### [1. Using Daml to Create Blockchain NFT-Based Customer Experiences](https://hackernoon.com/using-daml-to-create-blockchain-nft-based-customer-experiences)
 ![](https://cdn.hackernoon.com/images/Cukl9MVRXDhNVkzK3ej5WlIGpOw1-sv930lr.jpeg)
 How to write a smart contract NFT? Daml allows blockchain NFT smart contracts to interoperate with each other when deployed on multiple blockchains.
@@ -46,13 +50,13 @@ Rug pulls are a lucrative fraud in which developers create new crypto tokens and
 ![](https://cdn.hackernoon.com/images/ghNSk6l5TwN1Zm4sPpFRTGpklu93-s6a3l2g.jpeg)
 Learn how to build zero knowledge dapps, using zero knowledge proofs boilerplate. Build age verification dapp using zero knowledge proofs.
 
-### [12. Solidity in Easy Steps: How to Build an Escrow Smart Contract (Part 1)](https://hackernoon.com/solidity-in-easy-steps-how-to-build-an-escrow-smart-contract-part-1)
-![](https://cdn.hackernoon.com/images/9HP0tbzGpiPXVQSoZ5hhdjBdUdD2-r293e80.jpeg)
-This is the first article in a series teaching Solidity. We will create a contract for two business partners that don''t trust 
-
-### [13. Easiest Way to Analyze Vesting Schedule](https://hackernoon.com/easiest-way-to-analyze-vesting-schedule)
+### [12. Easiest Way to Analyze Vesting Schedule](https://hackernoon.com/easiest-way-to-analyze-vesting-schedule)
 ![](https://cdn.hackernoon.com/images/rM3hRKw3mDc9iO3MyUDA7ze7U1W2-3xh3n18.jpeg)
 What Is Vesting Schedule?
+
+### [13. Solidity in Easy Steps: How to Build an Escrow Smart Contract (Part 1)](https://hackernoon.com/solidity-in-easy-steps-how-to-build-an-escrow-smart-contract-part-1)
+![](https://cdn.hackernoon.com/images/9HP0tbzGpiPXVQSoZ5hhdjBdUdD2-r293e80.jpeg)
+This is the first article in a series teaching Solidity. We will create a contract for two business partners that don''t trust 
 
 ### [14. How to Create an Anonymous Voting System on the Blockchain Using Zero-Knowledge Proofs](https://hackernoon.com/how-to-create-an-anonymous-voting-system-on-the-blockchain-using-zero-knowledge-proofs)
 ![](https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-y893l5y.jpeg)
@@ -66,13 +70,13 @@ Our list of blockchains that support NFTs will give you a head start on which is
 ![](https://cdn.hackernoon.com/images/mEUCIvxPfTQiyiQS0nQKT07wxRJ2-jxd3vzj.jpeg)
 2022 brings more forms of cryptocurrency with plenty of new coins taking advantage of blockchain projects. These are 6 crypto launchpads to keep track of.
 
-### [17. Proof of Stake is an Old Solution](https://hackernoon.com/proof-of-stake-is-an-old-solution)
-![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-jib3esm.jpeg)
-To call Proof of Stake a savior is a stretch. To call Proof a Stake a stopgap…perhaps. To call Proof of Stake something new is simply not true. 
-
-### [18. 8 BEST Crypto Wallets for Beginners](https://hackernoon.com/8-best-crypto-wallets-for-beginners)
+### [17. 8 BEST Crypto Wallets for Beginners](https://hackernoon.com/8-best-crypto-wallets-for-beginners)
 ![](https://cdn.hackernoon.com/images/OWwusqtd11XIq9iOOIyuavuCQ7p2-zai3tjx.jpeg)
 If there’s one thing that every crypto investor needs to have, it’s a crypto wallet. There are all kinds of different crypto wallets you can use.
+
+### [18. Proof of Stake is an Old Solution](https://hackernoon.com/proof-of-stake-is-an-old-solution)
+![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-jib3esm.jpeg)
+To call Proof of Stake a savior is a stretch. To call Proof a Stake a stopgap…perhaps. To call Proof of Stake something new is simply not true. 
 
 ### [19. Most Effective Methods of Optimizing Gas When Minting NFTs on Ethereum ](https://hackernoon.com/most-effective-methods-of-optimizing-gas-when-minting-nfts-on-ethereum)
 ![](https://cdn.hackernoon.com/images/55mgLtvwWdf0kHZQ9QMkL4gmWue2-gq93ow5.jpeg)
@@ -82,13 +86,13 @@ NFT collections are bundles of unique digital objects founded on a single princi
 ![](https://cdn.hackernoon.com/images/pHPzB75Dend8z7smfYkLmiZ2Xfx1-kh92kwo.jpeg)
 'Merge' is not a topic you get to see regularly, nor is it something people who buy Ethereum are too familiar with. 
 
-### [21. Understanding Cross-Chain Bridges Under a Multi-Chain Background   ](https://hackernoon.com/understanding-cross-chain-bridges-under-a-multi-chain-background)
-![](https://cdn.hackernoon.com/images/KYm1CPERpCYJWpgNM4O0z89hJ1X2-3l93p4v.jpeg)
-Everything you need to know about cross-chain bridges
-
-### [22. An Intro to Shamir's Secret Sharing Cryptographic Algorithm](https://hackernoon.com/an-intro-to-shamirs-secret-sharing-cryptographic-algorithm)
+### [21. An Intro to Shamir's Secret Sharing Cryptographic Algorithm](https://hackernoon.com/an-intro-to-shamirs-secret-sharing-cryptographic-algorithm)
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-k0c3kfn.jpeg)
 Adi Shamir’s Secret Sharing is a cryptographic algorithm that allows distinct parties to jointly share ownership of a single secret by holding shares
+
+### [22. Understanding Cross-Chain Bridges Under a Multi-Chain Background   ](https://hackernoon.com/understanding-cross-chain-bridges-under-a-multi-chain-background)
+![](https://cdn.hackernoon.com/images/KYm1CPERpCYJWpgNM4O0z89hJ1X2-3l93p4v.jpeg)
+Everything you need to know about cross-chain bridges
 
 ### [23. How to Code Your First Smart Contract with Solidity](https://hackernoon.com/how-to-code-your-first-smart-contract-with-solidity)
 ![](https://cdn.hackernoon.com/images/WR1e4ZVUVmPhgjVsEoF2NIXNnyp1-dt93lwb.jpeg)
@@ -195,13 +199,13 @@ get an overview of the erc721 token and how to go about creating one from scratc
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-cy93mo3.jpeg)
 What is this blockchain that everyone is talking about? And what does it have to do with cryptocurrency?
 
-### [49. Top 5 DeFi Development Companies in 2022](https://hackernoon.com/top-5-defi-development-companies-in-2022)
-![](https://cdn.hackernoon.com/images/fqRSmYMLOERdY68noAPAMqPLrdG3-r7i3ks7.jpeg)
-Get to know the top 5 DeFi development companies to have complete insight into developing your very own digital business in the decentralized space.
-
-### [50. Node Providers](https://hackernoon.com/node-providers)
+### [49. Node Providers](https://hackernoon.com/node-providers)
 ![](https://cdn.hackernoon.com/images/JNuKcaRO9ogvXzLwR9r8ripU4X83-36c3l5o.jpeg)
 The node provider market is crowded. New players have few opportunities: support long tailed assets, better UX, lower price.
+
+### [50. Top 5 DeFi Development Companies in 2022](https://hackernoon.com/top-5-defi-development-companies-in-2022)
+![](https://cdn.hackernoon.com/images/fqRSmYMLOERdY68noAPAMqPLrdG3-r7i3ks7.jpeg)
+Get to know the top 5 DeFi development companies to have complete insight into developing your very own digital business in the decentralized space.
 
 ### [51. Financial NFTs: Re-imagining the Traditional Finance Market ](https://hackernoon.com/financial-nfts-re-imagining-the-traditional-finance-market)
 ![](https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-dt93jvs.jpeg)
@@ -247,25 +251,25 @@ A smart contract is a computer protocol intended to digitally facilitate, verify
 ![](https://cdn.hackernoon.com/images/sinW25rWovdN38P2ArzdPSCP3hi1-kr93ktd.jpeg)
 The article brings a variety of discussion points about the application of blockchain as well as the attractiveness of a new platform technology in the world.
 
-### [62. Is Blockchain the Change We'd Like to See in The World?](https://hackernoon.com/is-blockchain-the-change-wed-like-to-see-in-the-world)
-![](https://cdn.hackernoon.com/images/ppKGHIK6MugdHghRX5cguACzhDH2-bf92bv7.jpeg)
-This is how blockchain tech and bitcoin can be the future change you'd like to see in the world today
+### [62. Learning About Crypto with Nicholas Gregory from Mercury Wallet](https://hackernoon.com/learning-about-crypto-with-nicholas-gregory-from-mercury-wallet)
+![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-z493kzo.jpeg)
+In this AMA, Nicholas Gregory, creator of Mercury Wallet, tells us about bitcoin, wallets, privacy, open-source, technology and entrepreneurship.
 
 ### [63. The #Blockchain Writing Contest: May 2022 Results Announced!](https://hackernoon.com/the-blockchain-writing-contest-may-2022-results-announced)
 ![](https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-70l3zby.jpeg)
 Hey Hackers! We are back again with the May results announcement for The Blockchain Writing Contest brought to you by HackerNoon and Tatum. 
 
-### [64. Learning About Crypto with Nicholas Gregory from Mercury Wallet](https://hackernoon.com/learning-about-crypto-with-nicholas-gregory-from-mercury-wallet)
-![](https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-z493kzo.jpeg)
-In this AMA, Nicholas Gregory, creator of Mercury Wallet, tells us about bitcoin, wallets, privacy, open-source, technology and entrepreneurship.
+### [64. Is Blockchain the Change We'd Like to See in The World?](https://hackernoon.com/is-blockchain-the-change-wed-like-to-see-in-the-world)
+![](https://cdn.hackernoon.com/images/ppKGHIK6MugdHghRX5cguACzhDH2-bf92bv7.jpeg)
+This is how blockchain tech and bitcoin can be the future change you'd like to see in the world today
 
-### [65. The Future President of Argentina Might be a Crypto Supporter](https://hackernoon.com/the-future-president-of-argentina-might-be-a-crypto-supporter)
-![](https://cdn.hackernoon.com/images/S78E4VTqvyTEfOPMpOp9EFYywDJ2-f793mz4.jpeg)
-There is an anarcho-capitalist lurking in the shadows of the Argentine presidency.  He is responsible for occupying the first position in opinion polls. 
-
-### [66. How Cryptocurrency Can Help Deliver High-quality Video to Your Home](https://hackernoon.com/how-cryptocurrency-can-help-deliver-high-quality-video-to-your-home)
+### [65. How Cryptocurrency Can Help Deliver High-quality Video to Your Home](https://hackernoon.com/how-cryptocurrency-can-help-deliver-high-quality-video-to-your-home)
 ![](https://cdn.hackernoon.com/images/C3ld3tfLQag1pvUr4mkELvBlvc62-bg93j9u.jpeg)
 The article is about how you can use a crypto project to deliver high-quality video to the end consumer faster and cheaper.
+
+### [66. The Future President of Argentina Might be a Crypto Supporter](https://hackernoon.com/the-future-president-of-argentina-might-be-a-crypto-supporter)
+![](https://cdn.hackernoon.com/images/S78E4VTqvyTEfOPMpOp9EFYywDJ2-f793mz4.jpeg)
+There is an anarcho-capitalist lurking in the shadows of the Argentine presidency.  He is responsible for occupying the first position in opinion polls. 
 
 ### [67. How Will DAOs Impact the Future of Startups?](https://hackernoon.com/how-will-daos-impact-the-future-of-startups)
 ![](https://cdn.hackernoon.com/images/v3Qba7Xm9DOENjBCV8S5QjEeeQ43-n293ml5.jpeg)
@@ -307,17 +311,17 @@ Miner extractable value vs Maximal extractable value
 ![](https://cdn.hackernoon.com/images/UXbP4RwOl8ZwnfIiCRT6SsQ9yEA3-re93en9.jpeg)
 An introduction to the blockchain, explained with blocks to make the complicated topic a little easier to understand for readers less familiar with it.
 
-### [77. 7 Blockchain Fun Facts You Ignored](https://hackernoon.com/7-blockchain-fun-facts-you-ignored)
+### [77. Cryptocurrency Advertising In 2022: What We Learned After Spending $10,000 On Crypto Ads](https://hackernoon.com/cryptocurrency-advertising-in-2022-what-we-learned-after-spending-$10000-on-crypto-ads)
+![](https://cdn.hackernoon.com/images/S2kk3Zt5VIaYCOM0x7AZOEkNsg72-8a93fg6.jpeg)
+We dive into how you can market crypto the right way using social media, search and crypto ad networks with our own experiences trying to market products.
+
+### [78. 7 Blockchain Fun Facts You Ignored](https://hackernoon.com/7-blockchain-fun-facts-you-ignored)
 ![](https://cdn.hackernoon.com/images/a40cW29o2edynOn7VVOpnQAkz1Z2-nlf3j5b.jpeg)
 With the Crypto Market crashed, now's a good time to refresh yourself on small facts about the space while it recovers and stabilises in the meanwhile.
 
-### [78. How to Create A Smart Contract to Mint NFTs on NEAR Protocol](https://hackernoon.com/how-to-create-a-smart-contract-to-mint-nfts-on-near-protocol)
+### [79. How to Create A Smart Contract to Mint NFTs on NEAR Protocol](https://hackernoon.com/how-to-create-a-smart-contract-to-mint-nfts-on-near-protocol)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-m3930wp.jpeg)
 Blockchain technology is perpetually becoming a game-changer for most enthusiasts. It came to the limelight with the advent of cryptocurrency.
-
-### [79. Cryptocurrency Advertising In 2022: What We Learned After Spending $10,000 On Crypto Ads](https://hackernoon.com/cryptocurrency-advertising-in-2022-what-we-learned-after-spending-$10000-on-crypto-ads)
-![](https://cdn.hackernoon.com/images/S2kk3Zt5VIaYCOM0x7AZOEkNsg72-8a93fg6.jpeg)
-We dive into how you can market crypto the right way using social media, search and crypto ad networks with our own experiences trying to market products.
 
 ### [80. Hardhat or Truffle? What Should a Beginner Blockchain Developer Select](https://hackernoon.com/hardhat-or-truffle-what-should-a-beginner-blockchain-developer-select)
 ![](https://cdn.hackernoon.com/images/bGbpkyjKjtdhLSXP4aP6bP6IoeG3-kkj2ljj.jpeg)
@@ -327,13 +331,13 @@ As a beginner, it is difficult to choose the right framework or tool for your pr
 ![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-jz93k9u.jpeg)
 In this post, we’ll take a look at Cronos, the Crypto.org blockchain platform that has developed solutions that aim to address scalability and interoperability.
 
-### [82. Resisting Plutocracies In The World of Blockchain And Web3](https://hackernoon.com/resisting-plutocracies-in-the-world-of-blockchain-and-web3)
-![](https://cdn.hackernoon.com/images/6OHhPWC8N9bevU3GhNvP7AY8uda2-z7a3mjk.png)
-Finding a human-centric solution to the problems that most blockchains face when it comes to fair voting in its currently plutocratic and unequal form.
-
-### [83. How Crypto can Reach Mass Adoption](https://hackernoon.com/how-crypto-can-reach-mass-adoption)
+### [82. How Crypto can Reach Mass Adoption](https://hackernoon.com/how-crypto-can-reach-mass-adoption)
 ![](https://cdn.hackernoon.com/images/ZW20EUTPJfhox7MUgWdXzwwwm2g1-6193k8j.jpeg)
 What will drive the next bull run? I believe it will be mass adoption of crypto driven by real-life utility.
+
+### [83. Resisting Plutocracies In The World of Blockchain And Web3](https://hackernoon.com/resisting-plutocracies-in-the-world-of-blockchain-and-web3)
+![](https://cdn.hackernoon.com/images/6OHhPWC8N9bevU3GhNvP7AY8uda2-z7a3mjk.png)
+Finding a human-centric solution to the problems that most blockchains face when it comes to fair voting in its currently plutocratic and unequal form.
 
 ### [84. Why We Need Polygon Over Ethereum](https://hackernoon.com/why-do-we-need-polygon-over-ethereum)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-3u93poh.jpeg)
@@ -343,25 +347,25 @@ To start an NFT project with high frequency and low value transactions, Polygon 
 ![](https://cdn.hackernoon.com/images/vq2P3uwSUnQ32qHgQQOgeX4PGIm1-s993mdm.jpeg)
 Tokenization is a term that's constantly thrown around but the different standards that exist may not be as well understood. These are the basic standards.
 
-### [86. Decentralized Cloud Storage: Why the Need For It?](https://hackernoon.com/decentralized-cloud-storage-why-the-need-for-it)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-bf93mqx.jpeg)
-What is decentralized cloud storage? And why even use it at all?
-
-### [87. The Blockchain - A Look At How It Works and Why We Need It](https://hackernoon.com/what-is-blockchain-how-does-it-work-why-do-we-need-it)
+### [86. The Blockchain - A Look At How It Works and Why We Need It](https://hackernoon.com/what-is-blockchain-how-does-it-work-why-do-we-need-it)
 ![](https://cdn.hackernoon.com/images/5L1PsURyndeLVm1wIoUdHEN6ZP12-4093pvt.jpeg)
 In the past few years, the term blockchain has gotten a lot of attention from major media outlets and the public.
+
+### [87. Decentralized Cloud Storage: Why the Need For It?](https://hackernoon.com/decentralized-cloud-storage-why-the-need-for-it)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-bf93mqx.jpeg)
+What is decentralized cloud storage? And why even use it at all?
 
 ### [88. How to Avoid Crypto Rug Pulls in 2022](https://hackernoon.com/how-to-avoid-crypto-rug-pulls)
 ![](https://cdn.hackernoon.com/images/OWwusqtd11XIq9iOOIyuavuCQ7p2-3re3tho.jpeg)
 It seems like every time a crazy new crypto trend comes out that looks like a pretty good investment, everyone’s always quick to call it a “rug pull”. 
 
-### [89. Bitcoin.com Raises $33.6 Million through Private Sale Round for its New Verse Token](https://hackernoon.com/bitcoincom-raises-$336-million-through-private-sale-round-for-its-new-verse-token)
-![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-s693kkc.jpeg)
-Blockchain Industry Leader Bitcoin.com Completes a Private Sale Round of USD 33,600,000 for its Native Token Verse.
-
-### [90. Introduction to Threshold Signatures](https://hackernoon.com/introduction-to-threshold-signatures)
+### [89. Introduction to Threshold Signatures](https://hackernoon.com/introduction-to-threshold-signatures)
 ![](https://cdn.hackernoon.com/images/ddBrmSBDzcZaoylIT0DeCcoyYjN2-d693m2k.jpeg)
 Today we’re announcing cross-chain zaps integration into the Symbiosis protocol.
+
+### [90. Bitcoin.com Raises $33.6 Million through Private Sale Round for its New Verse Token](https://hackernoon.com/bitcoincom-raises-$336-million-through-private-sale-round-for-its-new-verse-token)
+![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-s693kkc.jpeg)
+Blockchain Industry Leader Bitcoin.com Completes a Private Sale Round of USD 33,600,000 for its Native Token Verse.
 
 ### [91. Blockchain Lacks True Decentralization - Victor Smirnov, Co Founder Humanode](https://hackernoon.com/blockchain-lacks-true-decentralization-victor-smirnov-co-founder-humanode)
 ![](https://cdn.hackernoon.com/images/pdNpXCdz7hYdjvghqFeCGCNGyAq1-uw93m3y.jpeg)
@@ -375,29 +379,29 @@ The Proof of Stake versus Proof of Work debate will affect how cryptocurrencies 
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-x193l9g.jpeg)
 Cryptocurrency, transferred through the blockchain, has been used for all kinds of illegal online transactions, including drug sales and terrorist activity. 
 
-### [94. AlgoNaut - an Algorand wallet with Tatum](https://hackernoon.com/algonaut-an-algorand-wallet-with-tatum)
-![](https://cdn.hackernoon.com/images/2PnTLaOkSZQiuagecBJGeZipkSp1-41b320z.jpeg)
-How to create a wallet using Tatum to connect to blockchain APIs. This one is made with the Algorand network integrated into the wallet from the start.
-
-### [95. Breaking Down Eclipse Attacks on a Blockchain](https://hackernoon.com/breaking-down-eclipse-attacks-on-a-blockchain)
+### [94. Breaking Down Eclipse Attacks on a Blockchain](https://hackernoon.com/breaking-down-eclipse-attacks-on-a-blockchain)
 ![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-dx930mo.jpeg)
 An eclipse attack can be regarded as a subjective and lesser blockchain attack where a particular node is isolated within the P2P network for such an attack.
 
-### [96. Is Proof-of-Stake the Future of Consensus? Blockscale Doesn’t Think So!](https://hackernoon.com/is-proof-of-stake-the-future-of-consensus-blockscale-doesnt-think-so)
+### [95. AlgoNaut - an Algorand wallet with Tatum](https://hackernoon.com/algonaut-an-algorand-wallet-with-tatum)
+![](https://cdn.hackernoon.com/images/2PnTLaOkSZQiuagecBJGeZipkSp1-41b320z.jpeg)
+How to create a wallet using Tatum to connect to blockchain APIs. This one is made with the Algorand network integrated into the wallet from the start.
+
+### [96. The Establishment of Decentralized Application Programming Interface (DAPI) and Blockchain Oracles](https://hackernoon.com/the-establishment-of-decentralized-application-programming-interface-dapi-and-blockchain-oracles)
+![](https://cdn.hackernoon.com/images/dm0NIVFX87QelDnxmjfCQ3RAT1N2-hc931pe.jpeg)
+How the emergence of Decentralized API (DAPI) and blockchain oracle is revolutionizing the off-chain and on-chain data transmission
+
+### [97. Is Proof-of-Stake the Future of Consensus? Blockscale Doesn’t Think So!](https://hackernoon.com/is-proof-of-stake-the-future-of-consensus-blockscale-doesnt-think-so)
 ![](https://cdn.hackernoon.com/images/PM2aquKGhaPzDlaNguJqYgYWezt2-tb93mod.jpeg)
 Intel's new pro-mining ASIC chipset—Blockscale—isn't just efficient. It has the future of crypto adoption in mind and Intel is in the space for the long haul.
 
-### [97. The NFT World Comes to Istanbul, Turkey this May](https://hackernoon.com/the-nft-world-comes-to-istanbul-turkey-this-may)
+### [98. The NFT World Comes to Istanbul, Turkey this May](https://hackernoon.com/the-nft-world-comes-to-istanbul-turkey-this-may)
 ![](https://cdn.hackernoon.com/images/mKEpO4nAuoR1qyih6SLd5WPI0pY2-tra3kzm.jpeg)
 NFT Summit Istanbul 2022, organized by Meta Venture Fund, will take place on May 28- 29 at the Lütfi Kırdar Convention and Exhibition Center.
 
-### [98. Crypto States & Constitutions - Let's Build A World To Be Proud Of](https://hackernoon.com/crypto-states-and-constitutions-lets-build-a-world-to-be-proud-of)
+### [99. Crypto States & Constitutions - Let's Build A World To Be Proud Of](https://hackernoon.com/crypto-states-and-constitutions-lets-build-a-world-to-be-proud-of)
 ![](https://cdn.hackernoon.com/images/n93I5XffgXRPdKtQ4cnvtx6pHJO2-o1936x2.jpeg)
 The new world is going to require a crypto friendly state with an international constitution to uphold digital and real world rights. It's happening right now. 
-
-### [99. The Establishment of Decentralized Application Programming Interface (DAPI) and Blockchain Oracles](https://hackernoon.com/the-establishment-of-decentralized-application-programming-interface-dapi-and-blockchain-oracles)
-![](https://cdn.hackernoon.com/images/dm0NIVFX87QelDnxmjfCQ3RAT1N2-hc931pe.jpeg)
-How the emergence of Decentralized API (DAPI) and blockchain oracle is revolutionizing the off-chain and on-chain data transmission
 
 ### [100. THORWallet DEX: Filling the DeFi Retail Market Gap](https://hackernoon.com/filling-the-defi-retail-market-gap)
 ![](https://cdn.hackernoon.com/images/wu6tOrr4qtctlaPnTvTzOBlytk43-3593bzt.jpeg)
@@ -451,29 +455,29 @@ An in-depth look at the world of layer 2 scaling solutions.
 ![](https://cdn.hackernoon.com/images/RJABtlXMoSVpK4ialO618oogRW03-5x93mg2.jpeg)
 The environmental impact of the blockchain is not to be underestimated. Finding a way to make it more sustainable is an important task that needs to be done.
 
-### [113. Interoperability and Why It's Important for the Blockchain Space](https://hackernoon.com/interoperability-and-why-its-important-for-the-blockchain-space)
-![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-cw93ns5.jpeg)
-Interoperability in the context of blockchains refers to a blockchain's capacity to freely exchange information with other blockchains which will be important.
-
-### [114. Emerging Markets and The Future Of Blockchain](https://hackernoon.com/emerging-markets-and-the-future-of-blockchain)
+### [113. Emerging Markets and The Future Of Blockchain](https://hackernoon.com/emerging-markets-and-the-future-of-blockchain)
 ![](https://cdn.hackernoon.com/images/E5pzMBNmQ9SBU6qVMYl6X48inok2-8bc3k4d.jpeg)
 In order to guarantee the adoption in the Blockchain space, the West must not ignore the role the emerging markets like African Countries have to play.
+
+### [114. Interoperability and Why It's Important for the Blockchain Space](https://hackernoon.com/interoperability-and-why-its-important-for-the-blockchain-space)
+![](https://cdn.hackernoon.com/images/O5CgnFFaZoT0d5lLFs7aiL9pZr92-cw93ns5.jpeg)
+Interoperability in the context of blockchains refers to a blockchain's capacity to freely exchange information with other blockchains which will be important.
 
 ### [115. Was the 7th US President the Father of Cryptocurrency?](https://hackernoon.com/could-the-7th-us-president-posthumously-be-considered-the-father-of-cryptocurrency)
 ![](https://cdn.hackernoon.com/images/ulHLOrUUeTTHEKRJOCtpfWl7DLB3-xe93ki1.png)
 If you think the foundation of cryptocurrency began in 2008 with the Bitcoin creator Satoshi Nakamoto, you’re mistaken.
 
-### [116. Introducing The Tokenomics Questionnaire](https://hackernoon.com/the-tokenomics-questionnaire-by-the-tesseract-academy)
-![](https://cdn.hackernoon.com/images/TYAy8YXF3pNC96IPW15fOOqYix43-57a3k8n.jpeg)
-This simple questionnaire summarises our 5+ years of experience in this field and will help your blockchain project to get started with tokenomics! You can see 
+### [116. Understanding 51% Attacks on Bitcoin and Blockchain](https://hackernoon.com/understanding-51percent-attacks-on-bitcoin-and-blockchain)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-na93mpu.jpeg)
+Blockchains aren't untouchable; they can and have been attacked in the past. Some blockchain attacks include a 51% attack and a 34% attack. 
 
 ### [117. 231 Stories To Learn About Blockchain Writing Contest](https://hackernoon.com/231-stories-to-learn-about-blockchain-writing-contest)
 ![](https://cdn.hackernoon.com/images/github/blockchain-writing-contest-292.png)
 Learn everything you need to know about Blockchain Writing Contest via these 231 free HackerNoon stories.
 
-### [118. Understanding 51% Attacks on Bitcoin and Blockchain](https://hackernoon.com/understanding-51percent-attacks-on-bitcoin-and-blockchain)
-![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-na93mpu.jpeg)
-Blockchains aren't untouchable; they can and have been attacked in the past. Some blockchain attacks include a 51% attack and a 34% attack. 
+### [118. Introducing The Tokenomics Questionnaire](https://hackernoon.com/the-tokenomics-questionnaire-by-the-tesseract-academy)
+![](https://cdn.hackernoon.com/images/TYAy8YXF3pNC96IPW15fOOqYix43-57a3k8n.jpeg)
+This simple questionnaire summarises our 5+ years of experience in this field and will help your blockchain project to get started with tokenomics! You can see 
 
 ### [119. Why Multi-Chain Development Approach Is the Future of Decentralization](https://hackernoon.com/why-multi-chain-development-approach-is-the-future-of-decentralization)
 ![](https://cdn.hackernoon.com/images/2PnTLaOkSZQiuagecBJGeZipkSp1-f4a330f.jpeg)
@@ -483,21 +487,21 @@ A project should have a Multi-Chain approach from the beginning, so continuous i
 ![](https://cdn.hackernoon.com/images/iwYYV1LriEaT7d6rN7rWN595K7w1-b993n2v.jpeg)
 An exclusive interview by Léo Maurice from Kalima Blockchain on Internet of Things and blockchain. Adam Stieb exclusively for Hackernoon.
 
-### [121. 129 Stories To Learn About Tatum_io](https://hackernoon.com/129-stories-to-learn-about-tatum_io)
-![](https://cdn.hackernoon.com/images/github/tatum_io-832.png)
-Learn everything you need to know about Tatum_io via these 129 free HackerNoon stories.
+### [121. “With Great Power comes Great Responsibility”, reinforces Viet Anh Tran](https://hackernoon.com/with-great-power-comes-great-responsibility-reinforces-viet-anh-tran)
+![](https://cdn.hackernoon.com/images/VfuPWpgJdVaQA78hqruu6EETfjI3-aba3hrg.jpeg)
+Everything Crypto - In conversation with Viet Anh Tran elaborating on his journey in the crypto space and diving into the nuances of his product, Islander 
 
 ### [122. 🟧 un.Block #39: Design of Cross-chain Bridges; Let's Go Snail Trail!](https://hackernoon.com/unblock-39-design-of-cross-chain-bridges-lets-go-snail-trail)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-7z93lrv.jpeg)
 In the last year, cross-chain bridges have been one of the hottest theses. 
 
-### [123. Why Selfish Mining is Detrimental to a Blockchain Network](https://hackernoon.com/why-selfish-mining-is-detrimental-to-a-blockchain-network)
+### [123. 129 Stories To Learn About Tatum_io](https://hackernoon.com/129-stories-to-learn-about-tatum_io)
+![](https://cdn.hackernoon.com/images/github/tatum_io-832.png)
+Learn everything you need to know about Tatum_io via these 129 free HackerNoon stories.
+
+### [124. Why Selfish Mining is Detrimental to a Blockchain Network](https://hackernoon.com/why-selfish-mining-is-detrimental-to-a-blockchain-network)
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-h693mon.jpeg)
 Selfish mining is a scenario where a miner mines a new block but fails to publish it for other miners to see and add it to the chain of blocks on their ends.
-
-### [124. “With Great Power comes Great Responsibility”, reinforces Viet Anh Tran](https://hackernoon.com/with-great-power-comes-great-responsibility-reinforces-viet-anh-tran)
-![](https://cdn.hackernoon.com/images/VfuPWpgJdVaQA78hqruu6EETfjI3-aba3hrg.jpeg)
-Everything Crypto - In conversation with Viet Anh Tran elaborating on his journey in the crypto space and diving into the nuances of his product, Islander 
 
 ### [125. Do Unhosted Wallets Dream of Network Fees?](https://hackernoon.com/do-unhosted-wallets-dream-of-network-fees)
 ![](https://cdn.hackernoon.com/images/1It0QuVo1Pg3seyub7xAcc9CWof2-sq92vqo.jpeg)

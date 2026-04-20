@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [learn-python](https://hackernoon.com/tagged/learn-python)
+### Let's learn about [Learn Python](https://hackernoon.com/tagged/learn-python) via these 116 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+"Learn Python" refers to the educational process of acquiring proficiency in the Python programming language, which is highly sought after for its versatility in data science, AI, web development, and scripting. It matters by opening doors to numerous tech careers and enabling individuals to solve complex problems efficiently.
+
 ### [1. Top 5 Online Courses to Learn Python in 2023— Best of Lot](https://hackernoon.com/top-5-courses-to-learn-python-in-2020-best-of-lot-bdq3y42)
 ![](hn-images/1*wpamGlQOohAHjxLuOYIwUw.jpeg)
 How to become a Python Programmer in 2020?
@@ -112,13 +116,13 @@ Using access modifiers is part of the daily job of any OOP developer but things 
 ![](https://cdn.hackernoon.com/images/tVBbh4roC1QdAahuNGMmAKiH51z1-365734o6.jpeg)
 I built a simple Neural Network using Python that outputs a target number given a specific input number.
 
-### [28. How to Create an Alarm Clock in Python](https://hackernoon.com/how-to-create-an-alarm-clock-in-python-6j4233i8)
-![](https://cdn.hackernoon.com/images/hEMjV6xqXnSfBtlhP0SeuEiVSpO2-va33346m.jpeg)
-Today we are going to build an Alarm Clock using Python. In this project, we are going to use some external modules which are already made available.
-
-### [29. How to Write on an Image in Python](https://hackernoon.com/how-to-write-on-an-image-in-python)
+### [28. How to Write on an Image in Python](https://hackernoon.com/how-to-write-on-an-image-in-python)
 ![](https://cdn.hackernoon.com/images/NhvFkmWLgDR8Gr9oUY6o12xmAIt2-h992i1m.jpeg)
 In this Python tutorial, we will learn how to Write a text on an image, Change the size of the text and Centre the text on an image
+
+### [29. How to Create an Alarm Clock in Python](https://hackernoon.com/how-to-create-an-alarm-clock-in-python-6j4233i8)
+![](https://cdn.hackernoon.com/images/hEMjV6xqXnSfBtlhP0SeuEiVSpO2-va33346m.jpeg)
+Today we are going to build an Alarm Clock using Python. In this project, we are going to use some external modules which are already made available.
 
 ### [30. 11 Tips And Tricks To Write Better Python Code](https://hackernoon.com/11-tips-and-tricks-to-write-better-python-code)
 ![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-tt93roj.jpeg)
@@ -132,13 +136,13 @@ In this post, I discuss the algorithms of a nested loop, hash join, and merge jo
 ![](https://cdn.hackernoon.com/images/2v7XLvX2fMR4EErEB0cRTAONxFX2-53b3zlp.png)
 In general, I have accumulated a lot of different small project templates that I want to share with HackerNoon readers...
 
-### [33. Web Scraping with Python Using Regular Expressions](https://hackernoon.com/web-scraping-with-python-using-regular-expressions)
-![](https://cdn.hackernoon.com/images/3fqF3O1TlWgiNvnKd6ig6aFrCtW2-ax92ztu.jpeg)
-In this tutorial, we will explore how to scrape web pages using Python and regular expressions.
-
-### [34. Python Cheatsheet: Mock Object Library](https://hackernoon.com/python-cheatsheet-mock-object-library)
+### [33. Python Cheatsheet: Mock Object Library](https://hackernoon.com/python-cheatsheet-mock-object-library)
 ![](https://cdn.hackernoon.com/images/82dYFuavVVh4WYKNKyjj4OBt0cf1-s31365m.jpeg)
 Python's simplicity permeates it all, and tests are not an exception. I left behind -temporarily- my JUnit and Mockito days by pytest and unittest.
+
+### [34. Web Scraping with Python Using Regular Expressions](https://hackernoon.com/web-scraping-with-python-using-regular-expressions)
+![](https://cdn.hackernoon.com/images/3fqF3O1TlWgiNvnKd6ig6aFrCtW2-ax92ztu.jpeg)
+In this tutorial, we will explore how to scrape web pages using Python and regular expressions.
 
 ### [35. 9 Reasons why you should Learn Python](https://hackernoon.com/9-reasons-why-you-should-learn-python-ca8o302s)
 ![](https://cdn.hackernoon.com/drafts/ue8l30wh.png)
@@ -205,29 +209,29 @@ Hi there !
 ![](https://cdn.hackernoon.com/images/akEBIg10DrPMiavDpnZxfHb098y2-z593pvd.jpeg)
 Hard skills are the tangible, measurable abilities that you need to get the job done. Soft skills, on the other hand, are intangible.
 
-### [51. Mastering Integers in Python: A Comprehensive Beginner's Guide](https://hackernoon.com/mastering-integers-in-python-a-comprehensive-beginners-guide)
+### [51. Learning Python Functions By Creating a Simple Project](https://hackernoon.com/learning-python-functions-by-creating-a-simple-project)
+![](https://cdn.hackernoon.com/images/whVRkxiEF6MsL8At1v5fkTAL1AF3-bl92cae.jpeg)
+Functions are key elements of programming. In the first half of this post, we will explain what Python functions are, how to define them, and how to call them.
+
+### [52. Mastering Integers in Python: A Comprehensive Beginner's Guide](https://hackernoon.com/mastering-integers-in-python-a-comprehensive-beginners-guide)
 ![](https://cdn.hackernoon.com/images/mCQMNMUuBRQ0LIqGt5Ff1WvWWSL2-tr93lav.jpeg)
 This article provides a comprehensive beginner's guide to everything related to integers in Python. Whether you are just starting out with programming or lookin
 
-### [52. [A Step by Step Guide] Executing A Denial of Service (DoS) Attack in Python](https://hackernoon.com/denial-of-service-attack-in-python-mxdj3wy9)
+### [53. [A Step by Step Guide] Executing A Denial of Service (DoS) Attack in Python](https://hackernoon.com/denial-of-service-attack-in-python-mxdj3wy9)
 ![](https://cdn.hackernoon.com/drafts/7yck3wgw.png)
 Denial of Service attacks do not always have to flood the server with requests to make him shut down. Deadly Booring DOS takes a much more elegant approach: Instead sending as much data as possible, we send as little data as we can. DeadlyBooring is a free interpretation of SlowLoris DOS.
-
-### [53. Learning Python Functions By Creating a Simple Project](https://hackernoon.com/learning-python-functions-by-creating-a-simple-project)
-![](https://cdn.hackernoon.com/images/whVRkxiEF6MsL8At1v5fkTAL1AF3-bl92cae.jpeg)
-Functions are key elements of programming. In the first half of this post, we will explain what Python functions are, how to define them, and how to call them.
 
 ### [54. Why You Should Use Python for Web Development](https://hackernoon.com/why-you-should-use-python-for-web-development)
 ![](https://cdn.hackernoon.com/images/g7xK5JLvQXaSd8H76Y7Ym1n5u1q1-3293q5d.jpeg)
 Python is one of the most powerful and dominant languages in web development. check more here about why to use Python for Web Development.
 
-### [55. Introduction to Tuples in Python](https://hackernoon.com/introduction-to-tuples-in-python)
-![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-hy93oka.png)
-In this guide, we'll cover how to use Tuples, as well as some of the methods and things you'd want to do with them.
-
-### [56. Master the Basics of Python in 20 Minutes](https://hackernoon.com/master-the-basics-of-python-in-20-minutes)
+### [55. Master the Basics of Python in 20 Minutes](https://hackernoon.com/master-the-basics-of-python-in-20-minutes)
 ![](https://cdn.hackernoon.com/images/XXYK3xoQMhPK6WgGxZcfzaaDPnt1-s993l5p.jpeg)
 Discover the essentials of Python programming in this comprehensive review and guide, designed to help you master the basics. Learn about variables, data types,
+
+### [56. Introduction to Tuples in Python](https://hackernoon.com/introduction-to-tuples-in-python)
+![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-hy93oka.png)
+In this guide, we'll cover how to use Tuples, as well as some of the methods and things you'd want to do with them.
 
 ### [57. Animate a Math Object With a Trace Path Using Python Manim Library](https://hackernoon.com/animate-a-math-object-with-a-trace-path-using-python-manim-library)
 ![](https://cdn.hackernoon.com/images/9mEVhVUDuCNNlVwf2fYGWWBDAdt1-gg92tdj.jpeg)
@@ -250,17 +254,17 @@ Python is an interpreted, high-level, powerful general-purpose programming langu
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-bw5y3rb5.jpeg?alt=media&token=345f2c09-d359-4fb0-9a77-2c5bd6c96071)
 Hi guys,
 
-### [62. Why Python and Machine Learning are Soulmates](https://hackernoon.com/why-python-and-machine-learning-are-soulmates)
+### [62. How to Create a Telegram Bot for Monitoring Your Service Uptime in Python (Part 3: Getting Graphs)](https://hackernoon.com/how-to-create-a-telegram-bot-for-monitoring-your-service-uptime-in-python-part-3-getting-graphs)
+![](https://cdn.hackernoon.com/images/2v7XLvX2fMR4EErEB0cRTAONxFX2-lk93z42.jpeg)
+After a couple of days of using the service described in previous articles, I felt the need to also get graphs directly in Telegram.
+
+### [63. Why Python and Machine Learning are Soulmates](https://hackernoon.com/why-python-and-machine-learning-are-soulmates)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-ek93w8m.jpeg)
 Python is regarded as the best language for programming Machine Learning. 
 
-### [63. Functional Programming in Python For Beginners](https://hackernoon.com/functional-programming-in-python-for-beginners-pez32fk)
+### [64. Functional Programming in Python For Beginners](https://hackernoon.com/functional-programming-in-python-for-beginners-pez32fk)
 ![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-1dg31y5.jpeg)
 Learn about functional programming, pure functions, map(), filter(), zip(), reduce() concepts
-
-### [64. How to Create a Telegram Bot for Monitoring Your Service Uptime in Python (Part 3: Getting Graphs)](https://hackernoon.com/how-to-create-a-telegram-bot-for-monitoring-your-service-uptime-in-python-part-3-getting-graphs)
-![](https://cdn.hackernoon.com/images/2v7XLvX2fMR4EErEB0cRTAONxFX2-lk93z42.jpeg)
-After a couple of days of using the service described in previous articles, I felt the need to also get graphs directly in Telegram.
 
 ### [65. Learn Python in 8 Weeks: The 80/20 Learning Plan with Videos, Articles, and Practice Exercises](https://hackernoon.com/learn-python-in-8-weeks-the-8020-learning-plan-with-videos-articles-and-practice-exercises)
 ![](https://cdn.hackernoon.com/images/0iu1pHRMnqOT3GqhiW0OP3lK20h1-xra22zc.jpeg)
@@ -291,21 +295,21 @@ save a lot of time and space so how you can master them?
 ![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-e9m32v8.jpeg)
 Let’s start this journey of programming with gaining some knowledge on the Python programming language.
 
-### [72. Python Functions Tutorial for Absolute Beginners](https://hackernoon.com/python-functions-tutorial-for-absolute-beginners-q71t31d9)
+### [72. 322 Stories To Learn About Python Programming](https://hackernoon.com/322-stories-to-learn-about-python-programming)
+![](https://cdn.hackernoon.com/images/github/python-programming-851.png)
+Learn everything you need to know about Python Programming via these 322 free HackerNoon stories.
+
+### [73. Python Functions Tutorial for Absolute Beginners](https://hackernoon.com/python-functions-tutorial-for-absolute-beginners-q71t31d9)
 ![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-d11p3130.jpeg)
 Well, the Reusability of the code in a program is made possible through functions.
-
-### [73. Learn To Code With Nursery Rhymes and Fairy Tales](https://hackernoon.com/learn-to-code-with-nursery-rhymes-and-fairy-tales)
-![](https://cdn.hackernoon.com/images/NLSlxLXGa8Z0kWKlIoM8jdEQdc92-wzf35j7.jpeg)
-Classic nursery rhymes and fairy tales are translated into Python code in my upcoming picture book that teaches Python programming to beginners. 
 
 ### [74. A Complete Guide to Python Lists](https://hackernoon.com/a-complete-guide-to-python-lists)
 ![](https://cdn.hackernoon.com/images/NpN8WH8v6CfA6j7dKAzuoiE5Lit2-mda3pvq.jpeg)
 Let's start with some of the basics, and then dive into useful ways you'll be able to work with lists.
 
-### [75. 322 Stories To Learn About Python Programming](https://hackernoon.com/322-stories-to-learn-about-python-programming)
-![](https://cdn.hackernoon.com/images/github/python-programming-851.png)
-Learn everything you need to know about Python Programming via these 322 free HackerNoon stories.
+### [75. Learn To Code With Nursery Rhymes and Fairy Tales](https://hackernoon.com/learn-to-code-with-nursery-rhymes-and-fairy-tales)
+![](https://cdn.hackernoon.com/images/NLSlxLXGa8Z0kWKlIoM8jdEQdc92-wzf35j7.jpeg)
+Classic nursery rhymes and fairy tales are translated into Python code in my upcoming picture book that teaches Python programming to beginners. 
 
 ### [76. Beginner Python Projects: Build a Random Password Generator in Python](https://hackernoon.com/beginner-python-projects-build-a-random-password-generator-in-python-cp4833ft)
 ![](https://cdn.hackernoon.com/images/hEMjV6xqXnSfBtlhP0SeuEiVSpO2-xr1o34bt.jpeg)
@@ -319,13 +323,13 @@ When studying Python, you inevitably face the problem of choosing between static
 ![](https://cdn.hackernoon.com/images/BJnS3ZvZLxebm9NMhDkaFzobXfl2-vjb3qs3.jpeg)
 Usually I found myself reading more than 100 tweets per day, so I thought that using all that 'reading power' to read a book using tweets could be a good idea.
 
-### [79. 5 Best Practices for Writing Efficient Python Code](https://hackernoon.com/5-best-practices-for-writing-efficient-python-code)
-![](https://cdn.hackernoon.com/images/mZGnGVFc4QQ9Dzv5a5vjYGpkHLS2-y993663.jpeg)
-In this article, we'll discuss some basic principles of coding in python that can help you optimize your programs' performance. 
-
-### [80. The Complete Python Tutorial for Absolute Beginners in 2023](https://hackernoon.com/the-complete-python-tutorial-for-absolute-beginners-in-2023)
+### [79. The Complete Python Tutorial for Absolute Beginners in 2023](https://hackernoon.com/the-complete-python-tutorial-for-absolute-beginners-in-2023)
 ![](https://cdn.hackernoon.com/images/pythons-on-a-table-clg23w7fs000101s6bdhc4wa6.png)
 Python is an unbelievably powerful programming language that is used by millions of developers in production systems around the world. 
+
+### [80. 5 Best Practices for Writing Efficient Python Code](https://hackernoon.com/5-best-practices-for-writing-efficient-python-code)
+![](https://cdn.hackernoon.com/images/mZGnGVFc4QQ9Dzv5a5vjYGpkHLS2-y993663.jpeg)
+In this article, we'll discuss some basic principles of coding in python that can help you optimize your programs' performance. 
 
 ### [81. What is Property-based Testing (Part 1)](https://hackernoon.com/what-is-property-based-testing-part-1)
 ![](https://cdn.hackernoon.com/images/G7xnCfjZh5VWW5gNObhHMmWwODk1-vp9280v.jpeg)
@@ -359,21 +363,21 @@ This picture book tells a story with Python programs.
 ![](https://cdn.hackernoon.com/images/mWFgaSkOHNQZd8m3kuKx2iIYyKU2-34363zxd.jpeg)
 A couple of days ago I started thinking if I had to start learning machine learning and data science all over again where would I start?
 
-### [89. Python for Kids: A Fun and Easy Guide to Learning the Popular Programming Language](https://hackernoon.com/python-for-kids-a-fun-and-easy-guide-to-learning-the-popular-programming-language)
+### [89. How to Send Emails Using Python](https://hackernoon.com/how-to-send-emails-using-python)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-d6f3740.jpeg)
+Learn how to send an email in your Python application with SMTP, a transactional email API, and with a multi-channel notification service.
+
+### [90. Python for Kids: A Fun and Easy Guide to Learning the Popular Programming Language](https://hackernoon.com/python-for-kids-a-fun-and-easy-guide-to-learning-the-popular-programming-language)
 ![](https://cdn.hackernoon.com/images/N5P2SVUeSBRLoIu1oEruwNMSGyl2-5ka2l3p.jpeg)
 Programming languages are created to give computers instructions, just the same way your parents use the English Language to give you instructions to do a thing
-
-### [90. Python List Comprehension Beginner's Guide](https://hackernoon.com/python-list-comprehension-beginners-guide-c21y3wny)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-86383uuo.jpeg?alt=media&token=81720301-34f1-43b7-a107-4a1b35a71f89)
-Today you’re going to learn about python list comprehension, a very powerful feature of python to use when creating a python List based on certain constraints.
 
 ### [91. Your Definitive Handbook For Calling a Function in Python](https://hackernoon.com/your-definitive-handbook-for-calling-a-function-in-python)
 ![](https://cdn.hackernoon.com/images/fms5hEAIFUXalFpkFdSTymA0Cmn2-lo932hn.jpeg)
 Want to write and call functions with Python? Here's a complete step by step guide to help you master this skill.
 
-### [92. How to Send Emails Using Python](https://hackernoon.com/how-to-send-emails-using-python)
-![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-d6f3740.jpeg)
-Learn how to send an email in your Python application with SMTP, a transactional email API, and with a multi-channel notification service.
+### [92. Python List Comprehension Beginner's Guide](https://hackernoon.com/python-list-comprehension-beginners-guide-c21y3wny)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FYTVT09mUXdWy6VztwpjvjXUyKjs2-86383uuo.jpeg?alt=media&token=81720301-34f1-43b7-a107-4a1b35a71f89)
+Today you’re going to learn about python list comprehension, a very powerful feature of python to use when creating a python List based on certain constraints.
 
 ### [93. The Surprising Case Of Mutable Default Arguments](https://hackernoon.com/the-surprising-case-of-mutable-default-arguments)
 ![](https://cdn.hackernoon.com/images/BJ5EBqiScSRiuFz3a13c8bHN4z02-te128e0.jpeg)
@@ -400,15 +404,15 @@ Unlock Python and Ruby String Magic! Learn the essentials about strings in both 
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Flj91stfCf9aYTdMnhtILySeF5Ex1-zy4z3uo9.jpeg?alt=media&token=c9eba87c-4da1-4b14-b958-98eaea808c84)
 Magic Methods are the special methods which gives us the ability to access built in syntactical features such as ‘<’, ‘>’, ‘==’, ‘+’ etc..
 
-### [99. How to Interface R Using Python for Bioinformatics](https://hackernoon.com/how-to-interface-r-using-python-for-bioinformatics-ho133178)
-![](https://cdn.hackernoon.com/images/VnOP8y7c35NlITmBxuAUM2eYruz1-9k8311v.jpeg)
-Learn to use the Rpy2 library as a way to interface R using python for bioinformatics purposes
-
-### [100. Functions in Python—Easy or Hard to Learn & Master?](https://hackernoon.com/functions-in-pythoneasy-or-hard-to-learn-and-master)
+### [99. Functions in Python—Easy or Hard to Learn & Master?](https://hackernoon.com/functions-in-pythoneasy-or-hard-to-learn-and-master)
 ![](https://cdn.hackernoon.com/images/jAe8nDJHWuhNTYfeZVmoqHUgxXz2-x993po3.jpeg)
 In this post, I'll give the brief intro of each 6 highly used ML packages, what is the purpose and when to use.
 
 
+
+### [100. How to Interface R Using Python for Bioinformatics](https://hackernoon.com/how-to-interface-r-using-python-for-bioinformatics-ho133178)
+![](https://cdn.hackernoon.com/images/VnOP8y7c35NlITmBxuAUM2eYruz1-9k8311v.jpeg)
+Learn to use the Rpy2 library as a way to interface R using python for bioinformatics purposes
 
 ### [101. Colors of Python Interpreters](https://hackernoon.com/colors-of-python-interpreters)
 ![](https://cdn.hackernoon.com/images/6WifzFKsrTU6u6nvz13jxc6dQ1O2-qf026n7.png)
@@ -434,17 +438,17 @@ Python has four types of data collection. When to use which, and why we have fou
 ![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-auf31nj.jpeg)
 Getting input from the user is what makes a program more interactive with the user.
 
-### [107. Machine Learning Concepts In Python For your Next App](https://hackernoon.com/machine-learning-concepts-in-python-for-your-next-app)
+### [107. Function-Level Database Migrations with SQLAlchemy, Alembic, and Pytest](https://hackernoon.com/function-level-database-migrations-with-sqlalchemy-alembic-and-pytest)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-fp02yn3.jpeg)
+One of the first barriers a developer is facing during the initial project initialization is setting a unit tests configuration and a basic set of unit tests.
+
+### [108. Machine Learning Concepts In Python For your Next App](https://hackernoon.com/machine-learning-concepts-in-python-for-your-next-app)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-fv039ml.jpeg)
 Python can be used in machine learning, especially through using these basic machine learning concepts as building blocks for data analysis and other functions.
 
-### [108. Introduction to the Print Function in Python](https://hackernoon.com/introduction-to-the-print-function-in-python-222331bb)
+### [109. Introduction to the Print Function in Python](https://hackernoon.com/introduction-to-the-print-function-in-python-222331bb)
 ![](https://cdn.hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-s4831lz.png)
 print() function and input() function makes the program more interactive with the user.
-
-### [109. Function-Level Database Migrations with SQLAlchemy, Alembic, and Pytest](https://hackernoon.com/function-level-database-migrations-with-sqlalchemy-alembic-and-pytest)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-fp02yn3.jpeg)
-One of the first barriers a developer is facing during the initial project initialization is setting a unit tests configuration and a basic set of unit tests.
 
 ### [110. How to Implement a Geo-Location Module Using the Haversine Formula](https://hackernoon.com/how-to-implement-a-geo-location-module-using-the-haversine-formula)
 ![](https://cdn.hackernoon.com/images/XKjmz9tZa8XTDU9MqcuFluHFxfj2-vf025ci.jpeg)

@@ -1,6 +1,8 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [economics](https://hackernoon.com/tagged/economics)
+### Let's learn about [Economics](https://hackernoon.com/tagged/economics) via these 282 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
 Oh, so you’re ready to dive deeper into how topics like tech, crypto, and DeFi affect the economics around us? We like your determination. Go for it.
 
 ### [1. Spray, Pray, and Go Away: Investing is an Art](https://hackernoon.com/spray-pray-and-go-away-investing-is-an-art)
@@ -111,50 +113,50 @@ There is a multifaceted economic war quietly being waged between the major flags
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-qhg3iaz.jpeg)
 The progress of many of the ancient Greek colonies towards wealth and greatness seems accordingly to have been very rapid.
 
-### [28. AI Bubble and the Free Market](https://hackernoon.com/ai-bubble-and-the-free-market)
-![](https://cdn.hackernoon.com/images/ai-bubble-abstract-ik301uwnsai7nyz5bppiqcuz.png)
-The dominance of a few large firms exemplifies an oligopolistic market structure. These companies have significant market power, allowing them to set prices 
+### [28. "One thing that's missing but that will soon be developed is a reliable ecash," Milton Friedman 1999](https://hackernoon.com/one-thing-thats-missing-but-that-will-soon-be-developed-is-a-reliable-ecash-milton-friedman-1999)
+![](https://cdn.hackernoon.com/images/stick-figure-find-first-bitcoin-tells-interviewer-its-an-untaxed-goldmine-and-a-large-audience-acts-like-nothing-happened-p2dayd7svvj92oo1x9bpzwo2.png)
+Economist Milton Friedman Predicts Bitcoin In 1999, and discussing how digital cash changes the role of government. 
+
 
 ### [29. Why Is BTC Over $50k While Other Cryptocurrencies Struggle To Cross $1: A Deep Dive](https://hackernoon.com/why-is-btc-over-dollar50k-while-other-cryptocurrencies-struggle-to-cross-dollar1-a-deep-dive-z1ff334k)
 ![](https://cdn.hackernoon.com/images/v6WxeZKmn3XLcnGFkevPft6MID23-no2y35u4.jpeg)
 the majority of digital coins on the market are issued by private blockchain corporations, there are several factors that count towards the value of crypto
 
-### [30. "One thing that's missing but that will soon be developed is a reliable ecash," Milton Friedman 1999](https://hackernoon.com/one-thing-thats-missing-but-that-will-soon-be-developed-is-a-reliable-ecash-milton-friedman-1999)
-![](https://cdn.hackernoon.com/images/stick-figure-find-first-bitcoin-tells-interviewer-its-an-untaxed-goldmine-and-a-large-audience-acts-like-nothing-happened-p2dayd7svvj92oo1x9bpzwo2.png)
-Economist Milton Friedman Predicts Bitcoin In 1999, and discussing how digital cash changes the role of government. 
-
-
-### [31. What is Modern Monetary Theory (MMT)?](https://hackernoon.com/what-is-modern-monetary-theory-mmt-my-two-cents-7v1x366w)
+### [30. What is Modern Monetary Theory (MMT)?](https://hackernoon.com/what-is-modern-monetary-theory-mmt-my-two-cents-7v1x366w)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSXCp2dPF6ufHtnfNY8l3hmzqJik1-npa3xeq.jpeg?alt=media&token=a9499b2b-b77a-4c6c-8149-592841f04d3d)
 A Pocket Guide To Modern Monetary Theory and Why It Matters
 
-### [32. The NULLcoin™ White Paper [Public Release]](https://hackernoon.com/the-nullcointm-white-paper-public-release-twfe32qz)
+### [31. The NULLcoin™ White Paper [Public Release]](https://hackernoon.com/the-nullcointm-white-paper-public-release-twfe32qz)
 ![](https://cdn.hackernoon.com/images/3t1132at.jpg)
 A Novel Solution for Increasing Token Demand While Eliminating Volatility
 
-### [33. Are You Building an Incredibly Complicated Piece of Engineering Just to Squeeze... Ketchup?](https://hackernoon.com/are-you-building-an-incredibly-complicated-piece-of-engineering-that-just-squeezes-giant-ketchup)
+### [32. Are You Building an Incredibly Complicated Piece of Engineering Just to Squeeze... Ketchup?](https://hackernoon.com/are-you-building-an-incredibly-complicated-piece-of-engineering-that-just-squeezes-giant-ketchup)
 ![](https://cdn.hackernoon.com/images/CjMZkVUd5mNF1fLvEYNWTbKTCsE2-hn93pdr.jpeg)
 For the last decade, technology promised to ‘make the world a better place’. But is it delivering? 
 
-### [34. Economies of Specificity ](https://hackernoon.com/economies-of-specificity)
+### [33. Economies of Specificity ](https://hackernoon.com/economies-of-specificity)
 ![](https://cdn.hackernoon.com/images/X3GgeqJ8TwWafLvEIAhyzHXuK9T2-yz93cu1.png)
 Local economies generate more wealth then economies of scale. The money just goes different places. Tech can help us build mutual networks globally.
 
-### [35. Sex Doesn't Sell, GitHub Does](https://hackernoon.com/sex-doesnt-sell-github-does-uou342x)
+### [34. Sex Doesn't Sell, GitHub Does](https://hackernoon.com/sex-doesnt-sell-github-does-uou342x)
 ![](https://cdn.hackernoon.com/images/Vp5cnaYmzvUc4IwNVWBhCrMAQCq2-bxn3fw2.jpeg)
 Where do you go to sell a t-shirt? Shopify. Where do you go to sell a pdf? Gumroad. Where do you go to sell code? GitHub?
 
-### [36. What’s the Fate of the S&P 500 if Rate Cuts Don’t Happen in 2024?](https://hackernoon.com/whats-the-fate-of-the-sandp-500-if-rate-cuts-dont-happen-in-2024)
+### [35. What’s the Fate of the S&P 500 if Rate Cuts Don’t Happen in 2024?](https://hackernoon.com/whats-the-fate-of-the-sandp-500-if-rate-cuts-dont-happen-in-2024)
 ![](https://cdn.hackernoon.com/images/AyspbPX32fhvPLqUsbsDvTB6IVg2-5k836kn.jpeg)
 The change in sentiment surrounding Wall Street has been palpable as stubborn inflation continues in its refusal to subside. 
 
-### [37. An Inquiry into the Nature and Causes of the Wealth of Nations: Book II - Chapter III](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-ii-chapter-iii)
+### [36. An Inquiry into the Nature and Causes of the Wealth of Nations: Book II - Chapter III](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-ii-chapter-iii)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-bn93i29.jpeg)
 There is one sort of labour which adds to the value of the subject upon which it is bestowed; there is another which has no such effect. 
 
-### [38. How Much Stock do Robinhood Employees Receive?](https://hackernoon.com/how-much-stock-do-robinhood-employees-receive)
+### [37. How Much Stock do Robinhood Employees Receive?](https://hackernoon.com/how-much-stock-do-robinhood-employees-receive)
 ![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-8313c57.jpeg)
 Robinhood’s “one-time” adjustment grants new hires additional stock over the next 24 months to help employees “break even” 
+
+### [38. AI Bubble and the Free Market](https://hackernoon.com/ai-bubble-and-the-free-market)
+![](https://cdn.hackernoon.com/images/ai-bubble-abstract-ik301uwnsai7nyz5bppiqcuz.png)
+The dominance of a few large firms exemplifies an oligopolistic market structure. These companies have significant market power, allowing them to set prices 
 
 ### [39. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter I](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-i)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-cf93i1a.jpeg)
@@ -166,13 +168,13 @@ Others admit, that if a nation could be separated from all the world, it would b
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-jha3ito.jpeg)
 The general industry of the society can never exceed what the capital of the society can employ.
 
-### [41. 5 Upwork Alternative Websites for Freelancers](https://hackernoon.com/5-upwork-alternative-websites-for-freelancers-yar32gn)
-![](https://cdn.hackernoon.com/images/jnbk32yg.jpg)
-This article introduces 5 Upwork alternative websites for freelancers looking for work in niche fields or people looking for entry-level micro work. With struggling economies in many countries, more and more people are turning to online freelancing as an additional source of income. Upwork is one of the most popular websites for freelancers. However, if you aren’t really getting many leads from that site, there are tons of upwork alternative sites you can try. 
-
-### [42. A Look at Ecozones & Their Potential Economic Benefits](https://hackernoon.com/a-look-at-ecozones-and-their-potential-economic-benefits)
+### [41. A Look at Ecozones & Their Potential Economic Benefits](https://hackernoon.com/a-look-at-ecozones-and-their-potential-economic-benefits)
 ![](https://cdn.hackernoon.com/images/GSLcKG9X54OLNBGdT84zx3QRWG02-hwb2eux.jpeg)
 An ecozone is also known as a special economic zone (SEZ) and these are geographic regions in a country that has more attractive economic policies for entities 
+
+### [42. 5 Upwork Alternative Websites for Freelancers](https://hackernoon.com/5-upwork-alternative-websites-for-freelancers-yar32gn)
+![](https://cdn.hackernoon.com/images/jnbk32yg.jpg)
+This article introduces 5 Upwork alternative websites for freelancers looking for work in niche fields or people looking for entry-level micro work. With struggling economies in many countries, more and more people are turning to online freelancing as an additional source of income. Upwork is one of the most popular websites for freelancers. However, if you aren’t really getting many leads from that site, there are tons of upwork alternative sites you can try. 
 
 ### [43. OYO Rooms is Going to Be India's WeWork: A Case Study](https://hackernoon.com/welcome-to-indias-wework-oyo-rooms-dm3j322l)
 ![](https://cdn.hackernoon.com/drafts/yk1j32m7.png)
@@ -278,21 +280,21 @@ As our lives are suddenly and drastically changed by the rapid spread of this vi
 ![](https://cdn.hackernoon.com/images/90fz3ydm.gif)
 Where to from here?
 
-### [69. On Building the Upstart DeFi Aggregator iearn.finance with Andre Cronje [Interview]](https://hackernoon.com/on-building-the-upstart-defi-aggregator-iearnfinance-with-andre-cronje-interview-ned43waz)
-![](https://cdn.hackernoon.com/images/jso532v5.jpg)
-Disclaimer: This article does not offer financial advice, do your own research when using one of the presented products. Use these projects and services at your own risk.
-
-### [70. Why Liquid Staking Benefits the Crypto Ecosystem](https://hackernoon.com/why-liquid-staking-benefits-the-crypto-ecosystem)
+### [69. Why Liquid Staking Benefits the Crypto Ecosystem](https://hackernoon.com/why-liquid-staking-benefits-the-crypto-ecosystem)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-txa3o7m.jpeg)
 Proof of Stake (PoS) blockchains are waiting for you to stake your crypto. Yet staking’s low participation — only 24% of the total market cap of staking platforms are locked in staking — means that crypto enthusiasts have yet to realize its benefits.
 
-### [71. Will Meme Coins Keep Going to the Moon? ](https://hackernoon.com/will-meme-coins-keep-going-to-the-moon)
-![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-9n038r6.jpeg)
-While meme coin may generate spectacular short-term gains as people are willing to speculate on the possibility of making money in a short amount of time.
+### [70. On Building the Upstart DeFi Aggregator iearn.finance with Andre Cronje [Interview]](https://hackernoon.com/on-building-the-upstart-defi-aggregator-iearnfinance-with-andre-cronje-interview-ned43waz)
+![](https://cdn.hackernoon.com/images/jso532v5.jpg)
+Disclaimer: This article does not offer financial advice, do your own research when using one of the presented products. Use these projects and services at your own risk.
 
-### [72. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter VI](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-vi)
+### [71. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter VI](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-vi)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-20b3n3s.jpeg)
 The profits of stock, it may perhaps be thought, are only a different name for the wages of a particular sort of THE COMPONENT PART OF THE PRICE OF COMMODITIES.
+
+### [72. Will Meme Coins Keep Going to the Moon? ](https://hackernoon.com/will-meme-coins-keep-going-to-the-moon)
+![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-9n038r6.jpeg)
+While meme coin may generate spectacular short-term gains as people are willing to speculate on the possibility of making money in a short amount of time.
 
 ### [73. The Age Of “Whatever It Takes” Economic Policies](https://hackernoon.com/the-age-of-whatever-it-takes-economic-policies-27u3eub)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FSXCp2dPF6ufHtnfNY8l3hmzqJik1-49783xe8.jpeg?alt=media&token=209c5f2a-d07f-4f0a-a481-ace463b2feaa)
@@ -306,25 +308,25 @@ What is more important than football in a World Cup? Beer. According to a study,
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-6h93jr4.jpeg)
 The Economic Consequences of the Peace, Chapter I: Introductory by John Maynard Keynes is part of HackerNoon’s Book Blog Post series.  
 
-### [76. Banks, Money Creation, and What the Crypto Community Refuses to Learn from Them](https://hackernoon.com/banks-money-creation-and-what-the-crypto-community-refuses-to-learn-from-them-pmml3zdb)
-![](https://images.unsplash.com/photo-1550565118-3a14e8d0386f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-TL;DR: Contrary to the prevailing “fractional reserve” narrative of money creation in the crypto community, Central Banks today admit to money creation in the economy by individual banks as being more nefarious than previously propagated in mainstream economic and financial disquisition. Money is in fact empirically created ex nihilo, where loans create deposits (and bank lending is not reserve constrained). Owing to its superior monetary attributes as a store-of-value (SoV), the implication of this empirical finding further justifies Bitcoin’s role as the best alternative for the average citizen, in the 21st century, to hedge against the frequent financial and economic crises we experience worldwide triggered by our debt/credit-based economic system.
-
-### [77. Fungible](https://hackernoon.com/fungible)
+### [76. Fungible](https://hackernoon.com/fungible)
 ![](https://cdn.hackernoon.com/images/fzCq5YEgXyXMzUyeDwj9DeNu64Z2-rw93rz9.jpeg)
 This essay covers Sharpe World, the fungibility of capital, and the budding currency war between China and Japan.
+
+### [77. Banks, Money Creation, and What the Crypto Community Refuses to Learn from Them](https://hackernoon.com/banks-money-creation-and-what-the-crypto-community-refuses-to-learn-from-them-pmml3zdb)
+![](https://images.unsplash.com/photo-1550565118-3a14e8d0386f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+TL;DR: Contrary to the prevailing “fractional reserve” narrative of money creation in the crypto community, Central Banks today admit to money creation in the economy by individual banks as being more nefarious than previously propagated in mainstream economic and financial disquisition. Money is in fact empirically created ex nihilo, where loans create deposits (and bank lending is not reserve constrained). Owing to its superior monetary attributes as a store-of-value (SoV), the implication of this empirical finding further justifies Bitcoin’s role as the best alternative for the average citizen, in the 21st century, to hedge against the frequent financial and economic crises we experience worldwide triggered by our debt/credit-based economic system.
 
 ### [78. What Comes After Adam Smith and Keynes? [A Deep Dive]](https://hackernoon.com/what-comes-after-adam-smith-and-keynes-a-deep-dive-zhnr33zr)
 ![](https://cdn.hackernoon.com/drafts/u2q3aly.png)
 In the morning, we rub our eyes and stretch ourselves, ready for a new day. After washing,we open the refrigerator, take out the sandwiches and milk we bought last night, put them in the microwave to heat up, and perhaps go to the living room to open the meditation videos stored in the tablet and relax with the rhythm of music. 
 
-### [79. Why Bitcoin Preserves Our Ability to Save](https://hackernoon.com/why-bitcoin-preserves-our-ability-to-save)
-![](https://cdn.hackernoon.com/images/yDzNEtxDiBOvPnjKKI6x4QWaKLL2-bea3r5f.jpeg)
-Learn the inherent properties of why Bitcoin is a savings technology, not another speculative investment.
-
-### [80. How Should We Re-Evaluate Our Models of the World?](https://hackernoon.com/how-should-we-re-evaluate-our-models-of-the-world)
+### [79. How Should We Re-Evaluate Our Models of the World?](https://hackernoon.com/how-should-we-re-evaluate-our-models-of-the-world)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-xc93u3b.jpeg)
 On the internet, "public goods" take center stage. 
+
+### [80. Why Bitcoin Preserves Our Ability to Save](https://hackernoon.com/why-bitcoin-preserves-our-ability-to-save)
+![](https://cdn.hackernoon.com/images/yDzNEtxDiBOvPnjKKI6x4QWaKLL2-bea3r5f.jpeg)
+Learn the inherent properties of why Bitcoin is a savings technology, not another speculative investment.
 
 ### [81. Bitcoin and the History of Thermodynamics](https://hackernoon.com/bitcoin-and-the-history-of-thermodynamics)
 ![](https://cdn.hackernoon.com/images/yDzNEtxDiBOvPnjKKI6x4QWaKLL2-ngb3uaz.jpeg)
@@ -334,17 +336,17 @@ Learn what the history of the field of thermodynamics can teach us about the tec
 ![](https://cdn.hackernoon.com/images/6nF4VVoHugPyvfGGC5yXpgPRmJU2-66ar23k2.jpeg)
 What's the problem with unfulfilled technological ideas and ideals? A critical perspective on the blockchain and DAOs that offers a better "Future of Work".
 
-### [83. "The Establishment looks [at] cryptocurrency as a threat"](https://hackernoon.com/the-establishment-looks-at-cryptocurrency-as-a-threat)
+### [83. Product Pricing: How to Determine the Best Price Point for Your Product](https://hackernoon.com/product-pricing-how-to-determine-the-best-price-point-for-your-product)
+![](https://cdn.hackernoon.com/images/im2ltLlG42W7uN7uIyyTnnB3ouf2-5ca3yx3.jpeg)
+In today's changing business landscape, mastering the art of pricing is a strategic imperative that can have a significant impact on a product's market success.
+
+### [84. "The Establishment looks [at] cryptocurrency as a threat"](https://hackernoon.com/the-establishment-looks-at-cryptocurrency-as-a-threat)
 ![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-jmb3uc0.jpeg)
 I recently joined the American Blockchain PAC as its senior counselor. 
 
-### [84. Is There Really a Link Between Coronavirus and Bitcoin?](https://hackernoon.com/is-there-really-a-link-between-coronavirus-and-bitcoin-ms3o3wrp)
+### [85. Is There Really a Link Between Coronavirus and Bitcoin?](https://hackernoon.com/is-there-really-a-link-between-coronavirus-and-bitcoin-ms3o3wrp)
 ![](https://cdn.hackernoon.com/drafts/op2h3yi1.png)
 Bitcoin went up, and it was because of the Coronavirus, people said. Then bitcoin went down, and that was also because of the virus. The question is this; has the virus had any effect on bitcoin at all? 
-
-### [85. Product Pricing: How to Determine the Best Price Point for Your Product](https://hackernoon.com/product-pricing-how-to-determine-the-best-price-point-for-your-product)
-![](https://cdn.hackernoon.com/images/im2ltLlG42W7uN7uIyyTnnB3ouf2-5ca3yx3.jpeg)
-In today's changing business landscape, mastering the art of pricing is a strategic imperative that can have a significant impact on a product's market success.
 
 ### [86. The Economic Consequences of the Peace: Chapter VII - Remedies](https://hackernoon.com/the-economic-consequences-of-the-peace-chapter-vii-remedies)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-5y93mvx.jpeg)
@@ -398,45 +400,45 @@ Whether we like it or not, and despite tales of its powers being greatly exagger
 ![](https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-7cb3ocd.jpeg)
 Errors and atrocities happen when hunting for incentives, and humans manipulate the rules, ravaging natural, moral, or cultural ecosystems. 
 
-### [99. Beyond Correlation: How Econometric Statistics Power Real-World Decisions](https://hackernoon.com/beyond-correlation-how-econometric-statistics-power-real-world-decisions)
-![](https://cdn.hackernoon.com/images/I04XHexU6OYySp2OewICGPPImAu1-la03g9y.jpeg)
-Econometric statistics gives the "more." It adds rigor to ambiguity – structure into chaos; and evidence into intuition.
-
-### [100. Can We Predict the Future of Cryptocurrency?](https://hackernoon.com/can-we-predict-the-future-of-cryptocurrency)
+### [99. Can We Predict the Future of Cryptocurrency?](https://hackernoon.com/can-we-predict-the-future-of-cryptocurrency)
 ![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-wga3pfc.jpeg)
 What's the future of cryptocurrency? With all eyes focused on the global economic climate and a tumultuous recent history for crypto, it's anything but clear.
+
+### [100. Beyond Correlation: How Econometric Statistics Power Real-World Decisions](https://hackernoon.com/beyond-correlation-how-econometric-statistics-power-real-world-decisions)
+![](https://cdn.hackernoon.com/images/I04XHexU6OYySp2OewICGPPImAu1-la03g9y.jpeg)
+Econometric statistics gives the "more." It adds rigor to ambiguity – structure into chaos; and evidence into intuition.
 
 ### [101. Global Economic Impact of AI: Facts and Figures](https://hackernoon.com/global-economic-impact-of-ai-facts-and-figures-jw1n35o3)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FlBswupY3cpUoiqV21ZkS63RSU902-eyf3tyr.jpeg?alt=media&token=daac0107-ae25-43ef-9440-0383715c9164)
 Summarization of Research Insights from Emerj, Harvard Business Review, MIT Sloan, and Mckinsey
 
-### [102. Why Are All Eyes On China's Digital Yuan?](https://hackernoon.com/why-are-all-the-eyes-on-chinas-digital-yuan-8xo3uzi)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEl1T9uFTKXOkUGZWrQSvk9S9rZ52-5n3h3uk1.jpeg?alt=media&token=3a526ecc-734a-482c-ae8e-71fa80aed553)
-China has continuously been in global news, be it corona crisis, diplomatic relations, army conflicts or trade & commerce. Since the last couple of weeks, everyone is talking about China’s digital currency.
-
-### [103. From Stablecoin Surge to Dollar Domination](https://hackernoon.com/from-stablecoin-surge-to-dollar-domination)
+### [102. From Stablecoin Surge to Dollar Domination](https://hackernoon.com/from-stablecoin-surge-to-dollar-domination)
 ![](https://cdn.hackernoon.com/images/UO17hKq3waRq6Mpm8AfENx7V1MD3-z393sek.jpeg)
 In-depth explanation of stablecoin issuance and the regulatory landscape, and making a case for issuers to be domiciled and regulated in the US
 
-### [104. Corona: Seven Ways to Smash the Curve Now](https://hackernoon.com/corona-seven-ways-to-smash-the-curve-now-tk7324os)
+### [103. Why Are All Eyes On China's Digital Yuan?](https://hackernoon.com/why-are-all-the-eyes-on-chinas-digital-yuan-8xo3uzi)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FEl1T9uFTKXOkUGZWrQSvk9S9rZ52-5n3h3uk1.jpeg?alt=media&token=3a526ecc-734a-482c-ae8e-71fa80aed553)
+China has continuously been in global news, be it corona crisis, diplomatic relations, army conflicts or trade & commerce. Since the last couple of weeks, everyone is talking about China’s digital currency.
+
+### [104. 130 Stories To Learn About Politics](https://hackernoon.com/130-stories-to-learn-about-politics)
+![](https://cdn.hackernoon.com/images/github/politics-524.png)
+Learn everything you need to know about Politics via these 130 free HackerNoon stories.
+
+### [105. Corona: Seven Ways to Smash the Curve Now](https://hackernoon.com/corona-seven-ways-to-smash-the-curve-now-tk7324os)
 ![](https://cdn.hackernoon.com/drafts/q725y2b3x.png)
 Everyone knows they need to act now to stop the coronavirus.
 
-### [105. Mining Fiat is Unsustainable](https://hackernoon.com/the-problem-that-is-government-money-bn443tts)
+### [106. Mining Fiat is Unsustainable](https://hackernoon.com/the-problem-that-is-government-money-bn443tts)
 ![](https://cdn.hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-j2823v6.jpeg)
 In an earlier article, I outlined the opportunities that blockchains offer investors from a wide angle. This prompted a number of requests for more in-depth analysis of the disruptive qualities of this technology. The following is a first principle examination of the market opportunities blockchain-based solutions offer within the realm of government-controlled currencies, commonly referred to as "fiat money". Quite literally addressing all the money in the world.
-
-### [106. The Future President of Argentina Might be a Crypto Supporter](https://hackernoon.com/the-future-president-of-argentina-might-be-a-crypto-supporter)
-![](https://cdn.hackernoon.com/images/S78E4VTqvyTEfOPMpOp9EFYywDJ2-f793mz4.jpeg)
-There is an anarcho-capitalist lurking in the shadows of the Argentine presidency.  He is responsible for occupying the first position in opinion polls. 
 
 ### [107. An Inquiry into the Nature and Causes of the Wealth of Nations: Book II - Chapter IV ](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-ii-chapter-iv)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-9ja3ip6.jpeg)
 The stock which is lent at interest is always considered as a capital by the lender.
 
-### [108. 130 Stories To Learn About Politics](https://hackernoon.com/130-stories-to-learn-about-politics)
-![](https://cdn.hackernoon.com/images/github/politics-524.png)
-Learn everything you need to know about Politics via these 130 free HackerNoon stories.
+### [108. The Future President of Argentina Might be a Crypto Supporter](https://hackernoon.com/the-future-president-of-argentina-might-be-a-crypto-supporter)
+![](https://cdn.hackernoon.com/images/S78E4VTqvyTEfOPMpOp9EFYywDJ2-f793mz4.jpeg)
+There is an anarcho-capitalist lurking in the shadows of the Argentine presidency.  He is responsible for occupying the first position in opinion polls. 
 
 ### [109. "Web3 will revolutionize how the world interacts with the Internet of Value"](https://hackernoon.com/web3-will-revolutionize-how-the-world-interacts-with-the-internet-of-value)
 ![](https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-pe13brj.jpeg)
@@ -446,42 +448,42 @@ We believe that regulating the blockchain space is the only way to push these id
 ![](https://cdn.hackernoon.com/drafts/xw1o2x1j.png)
 The world is moving into a new era filled with political, economic and social instability. With reports showing how most countries including the US are running fiscal deficits, capital markets are becoming increasingly volatile as economic uncertainty increases. 
 
-### [111. Wall Street Grammar: How the Way CEOs Speak Moves Billions Before You Notice](https://hackernoon.com/wall-street-grammar-how-the-way-ceos-speak-moves-billions-before-you-notice)
+### [111. An Inquiry into the Nature and Causes of the Wealth of Nations: Book III - Chapter II](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iii-chapter-ii)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-r7d3iy7.jpeg)
+This original engrossing of uncultivated lands, though a great, might have been but a transitory evil.
+
+### [112. Wall Street Grammar: How the Way CEOs Speak Moves Billions Before You Notice](https://hackernoon.com/wall-street-grammar-how-the-way-ceos-speak-moves-billions-before-you-notice)
 ![](https://cdn.hackernoon.com/images/2kTQmpazivYPo9k2xqMD7UaA2983-r40363w.png)
 Groundbreaking study introducing the Syntactic Authority Index (SAI), a quantitative model showing how grammatical structures in corporate and regulatory langua
 
-### [112. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter IV](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-iv)
+### [113. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter IV](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-iv)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-jy93nfs.jpeg)
 When the division of labour has been once thoroughly established, it is but a very small part of a man’s wants which the produce of his own labour can supply.
 
-### [113. 7 Events That May Shape the Global Economy in 2023](https://hackernoon.com/7-events-that-may-shape-the-global-economy-in-2023)
+### [114. 7 Events That May Shape the Global Economy in 2023](https://hackernoon.com/7-events-that-may-shape-the-global-economy-in-2023)
 ![](https://cdn.hackernoon.com/images/c2qDNOZ07yREr8UJUOrX9KoKG5m2-kb93na8.jpeg)
 The following black swan events, if they occur, may have far-reaching effects on the state of the global economy in 2023.
 
-### [114. Money: A Basketcase [A Deep Dive]](https://hackernoon.com/money-a-basketcase-a-deep-dive-bl5k32tp)
+### [115. Money: A Basketcase [A Deep Dive]](https://hackernoon.com/money-a-basketcase-a-deep-dive-bl5k32tp)
 ![](https://cdn.hackernoon.com/drafts/ng40p3ybt.png)
 The failures of the USD as a global reserve currency mean
 that we must reimagine money.
-
-### [115. Doughnut Economics in Amsterdam Prove 'Economy or Life' to be a False Dichotomy](https://hackernoon.com/doughnut-economics-in-amsterdam-prove-economy-or-life-to-be-a-false-dichotomy-uvjl3t8o)
-![](https://cdn.hackernoon.com/drafts/j53n3ywt.png)
-Wherever you are in this world, the chances are that you are living in some form of lockdown. A few countries have been able to relax the restrictions a bit earlier than others, mostly because they acted quickly, while others that are still experiencing high numbers of infections and deaths are easing their restrictions. Why are they taking this risk? Because ‘they’, and we’re mostly talking about the USA and the United Kingdom in this respect, appear to be more concerned about the economy than peoples’ lives.
 
 ### [116. An Inquiry into the Nature and Causes of the Wealth of Nations: Book III - Chapter IV ](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iii-chapter-iv)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-8if3ic8.jpeg)
 It is a mistake to imagine that those territorial jurisdictions took their origin from the feudal law.
 
-### [117. An Inquiry into the Nature and Causes of the Wealth of Nations: Book III - Chapter II](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iii-chapter-ii)
-![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-r7d3iy7.jpeg)
-This original engrossing of uncultivated lands, though a great, might have been but a transitory evil.
+### [117. Doughnut Economics in Amsterdam Prove 'Economy or Life' to be a False Dichotomy](https://hackernoon.com/doughnut-economics-in-amsterdam-prove-economy-or-life-to-be-a-false-dichotomy-uvjl3t8o)
+![](https://cdn.hackernoon.com/drafts/j53n3ywt.png)
+Wherever you are in this world, the chances are that you are living in some form of lockdown. A few countries have been able to relax the restrictions a bit earlier than others, mostly because they acted quickly, while others that are still experiencing high numbers of infections and deaths are easing their restrictions. Why are they taking this risk? Because ‘they’, and we’re mostly talking about the USA and the United Kingdom in this respect, appear to be more concerned about the economy than peoples’ lives.
 
-### [118. The 449-Page Antitrust Report on Big Tech Monopolies: Key Takeways](https://hackernoon.com/the-449-page-antitrust-report-on-big-tech-monopolies-key-takeways-ep4b3t5s)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWeVnMlCdKaWlNIW0pYWlfsExkgm1-tm2r3wdj.jpeg?alt=media&token=af9d766e-73bb-4cd1-b4ce-60783376d6f0)
-On October 6th 2020, the House lawmakers released a 449-page report investigating how Amazon, Apple, Facebook and Google managed to turn from “scrappy” start-ups into “the kinds of monopolies we saw last in the era of oil barons and railroad tycoons”. This comparison is not misleading since data is referred to as the new oil.
-
-### [119. A U.S. CBDC: A Mandate for Digital Property](https://hackernoon.com/cbdc-a-mandate-for-digital-property)
+### [118. A U.S. CBDC: A Mandate for Digital Property](https://hackernoon.com/cbdc-a-mandate-for-digital-property)
 ![](https://cdn.hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-m793p3q.png)
 CBDC is a digital liability of a central bank that is widely available to the general public, and analogous to a digital form of paper money. 
+
+### [119. The 449-Page Antitrust Report on Big Tech Monopolies: Key Takeways](https://hackernoon.com/the-449-page-antitrust-report-on-big-tech-monopolies-key-takeways-ep4b3t5s)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FWeVnMlCdKaWlNIW0pYWlfsExkgm1-tm2r3wdj.jpeg?alt=media&token=af9d766e-73bb-4cd1-b4ce-60783376d6f0)
+On October 6th 2020, the House lawmakers released a 449-page report investigating how Amazon, Apple, Facebook and Google managed to turn from “scrappy” start-ups into “the kinds of monopolies we saw last in the era of oil barons and railroad tycoons”. This comparison is not misleading since data is referred to as the new oil.
 
 ### [120. Helicopter Money, Inflation, and the Bitcoin Standard](https://hackernoon.com/helicopter-money-inflation-and-the-bitcoin-standard-29cm32fn)
 ![](https://cdn.hackernoon.com/images/ybsi3ygk.jpg)
@@ -495,13 +497,13 @@ But when the division of labour has once been thoroughly introduced, the produce
 ![](https://cdn.hackernoon.com/images/5gpw31b9.jpg)
 Foreword: You may not be aware — particularly if you live in the United States— but the global economy is now entering uncharted territory as negative interest rates become reality in Europe and elsewhere. Suddenly the financial media (sponsored in no small measure by global banks) are working overtime to ‘educate’ the masses as to why the practice of paying your bank to hold your cash makes perfect sense. (They conveniently forget to mention that they will immediately lend your money to other customers, but good luck getting negative rates as a borrower!)
 
-### [123. Crypto Processing in 2022: Trends and Risks to Look out for](https://hackernoon.com/crypto-processing-in-2022-trends-and-risks-to-look-out-for)
-![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-8w03okk.jpeg)
-The future of money is clearly digital, powered by decentralized blockchain technology.
-
-### [124. Who Really Owns Web3](https://hackernoon.com/who-really-owns-web3)
+### [123. Who Really Owns Web3](https://hackernoon.com/who-really-owns-web3)
 ![](https://cdn.hackernoon.com/images/NbkygUB9G6Zx5nmHwA4JRCtfZkr2-ra03awr.jpeg)
 The new buzzword “Web3” has recently jumped into the public’s mind.
+
+### [124. Crypto Processing in 2022: Trends and Risks to Look out for](https://hackernoon.com/crypto-processing-in-2022-trends-and-risks-to-look-out-for)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-8w03okk.jpeg)
+The future of money is clearly digital, powered by decentralized blockchain technology.
 
 ### [125. State of The Creator Economy: SignalFire’s Market Map and Analysis](https://hackernoon.com/state-of-the-creator-economy-signalfires-market-map-and-analysis-47em3e83)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FZtojXZLDbghMThYI6VOJ7HsMXA62-j4730ak.jpeg?alt=media&token=b8b16de8-1171-4b66-850f-2a69fda77efb)
@@ -511,13 +513,13 @@ By Yuanling Yuan, edited by Josh Constine
 ![](https://cdn.hackernoon.com/images/5c7s30az.jpg)
 Are you ready for the AI economy? Over the next decade artificial intelligence could add upwards of $13 trillion to the global economy, and by 2030 the majority of companies could be using some form of artificial intelligence. There’s a downside to all this, however. Worldwide as many as 375 million workers could need to be retrained for new jobs as AI takes over the repetitive tasks and the heavy lifting. Overall, artificial intelligence is expected to have a positive impact on the global economy, even if there is a temporary period of human displacement that follows its implementation.
 
-### [127. Here's Why The Global Economy Is Entering A Downturn](https://hackernoon.com/heres-why-the-global-economy-is-entering-a-downturn)
-![](https://cdn.hackernoon.com/images/TC9irmnR7bedp3SbDaBZhUbyx5b2-vj92dmz.jpeg)
-Is the US Economy in a recession? Depends on whom you talk to. While there have been two-quarters of contraction in economic activity, the Biden Admin is loath 
-
-### [128. Re: Sam Altman's American Equity](https://hackernoon.com/re-sam-altmans-american-equity)
+### [127. Re: Sam Altman's American Equity](https://hackernoon.com/re-sam-altmans-american-equity)
 ![](https://cdn.hackernoon.com/images/lease-schedule-auction-vickrey-auction-as-a-response-to-wage-labor-clbcq6sot000001s613a74wmq.png)
 Alternative to Wage-Capitalism: 100% Commission on your earnings, but you bid at Vickrey auction to rent the capital. 
+
+### [128. Here's Why The Global Economy Is Entering A Downturn](https://hackernoon.com/heres-why-the-global-economy-is-entering-a-downturn)
+![](https://cdn.hackernoon.com/images/TC9irmnR7bedp3SbDaBZhUbyx5b2-vj92dmz.jpeg)
+Is the US Economy in a recession? Depends on whom you talk to. While there have been two-quarters of contraction in economic activity, the Biden Admin is loath 
 
 ### [129. Inflation is Taking a Toll on The Dollar [Infographic]](https://hackernoon.com/inflation-is-taking-a-toll-on-the-dollar-infographic)
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-ika3oqd.jpeg)
@@ -527,37 +529,37 @@ A look at the impacts of inflation as well as how gold is often a hedge against 
 ![](https://cdn.hackernoon.com/images/AiJJJ2MaO0dN7KCZ73EaYbtGSvk1-2x93pfk.jpeg)
 The insular nature of the crypto-industry can often discourage potential investors, but digital assets are at an adoptive inflection point. Regulation can help.
 
-### [131. How Brazil’s Newly Elected Government Will Affect Its Bustling Startup Ecosystem](https://hackernoon.com/how-brazils-newly-elected-government-will-affect-its-bustling-startup-ecosystem)
+### [131. UK Government to Start Tracking All Crypto Transactions](https://hackernoon.com/uk-government-to-start-tracking-all-crypto-transactions)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-20022m0.jpeg)
+HMRC will use this data to cross-check against information provided in self-assessment tax returns. 
+
+### [132. How Brazil’s Newly Elected Government Will Affect Its Bustling Startup Ecosystem](https://hackernoon.com/how-brazils-newly-elected-government-will-affect-its-bustling-startup-ecosystem)
 ![](https://cdn.hackernoon.com/images/hDQFmLyqiUd2kk7sZLE4xqV2Z5D2-e8a3rwa.jpeg)
 With a new political wind blowing through Brazil, we need to ask: What impact might Lula's election have on the buzzing startup ecosystem?
 
-### [132. The 18 Trillion Dollar Question of Blockchain Adoption by Governments](https://hackernoon.com/the-18-trillion-dollar-question-of-blockchain-adoption-by-governments-d42w332t)
+### [133. The 18 Trillion Dollar Question of Blockchain Adoption by Governments](https://hackernoon.com/the-18-trillion-dollar-question-of-blockchain-adoption-by-governments-d42w332t)
 ![](https://cdn.hackernoon.com/images/wb443va6tWfO9ezfAOTebkX324z2-q72v33z8.jpeg)
 I Interview Gerard Dache of the Government Blockchain Association, who promote blockchain technologies to solve public sector challenges around the world.  
-
-### [133. UK Government to Start Tracking All Crypto Transactions](https://hackernoon.com/uk-government-to-start-tracking-all-crypto-transactions)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-20022m0.jpeg)
-HMRC will use this data to cross-check against information provided in self-assessment tax returns. 
 
 ### [134. Post-Pandemic SaaS  Business Trends That Are Here To Stay](https://hackernoon.com/post-pandemic-saas-business-trends-that-are-here-to-stay-bi3v325w)
 ![](https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-p3w32o2.jpeg)
 Technology business owners are benefitting from an increase in consumer confidence. Here are the latest SaaS trends that are shaping the business world in 2021.
 
-### [135. Why Would Anything Ever Go Right?](https://hackernoon.com/why-would-anything-ever-go-right-7g1k36wy)
+### [135. Futarchy Fixes Democracy, or Does it?](https://hackernoon.com/futarchy-fixes-democracy-or-does-it-482l35s6)
+![](https://cdn.hackernoon.com/images/mWLOxsAkOlYShZAKdljM2PL80h53-901037zs.jpeg)
+Futarchy: a possible improvement on democracy? This article examines the futarchic blockchain governance model and its potential impact on political systems.
+
+### [136. Why Would Anything Ever Go Right?](https://hackernoon.com/why-would-anything-ever-go-right-7g1k36wy)
 ![](https://cdn.hackernoon.com/images/GbLV2x1PJMbifhOmwrdb0JSfIrH2-en1n34nk.jpeg)
 Projects can fail because of multipolar traps (a value sacrifice game) and surrogation traps, where means substitute for the desired ends. 
 
-### [136. Crypto Was A Bubble, But So Was The Internet](https://hackernoon.com/crypto-was-a-bubble-but-so-was-the-internet-si6f430y)
+### [137. Crypto Was A Bubble, But So Was The Internet](https://hackernoon.com/crypto-was-a-bubble-but-so-was-the-internet-si6f430y)
 ![](https://cdn.hackernoon.com/images/uz7i434u.jpg)
 From Forbes to Nobel Prize winning economists, the consensus is the same: Crypto was a speculative bubble. After all, crypto's crash was worse than the dot-com one.
 
-### [137. How To Work Smarter With Parkinson’s Law](https://hackernoon.com/how-to-work-smarter-with-parkinsons-law)
+### [138. How To Work Smarter With Parkinson’s Law](https://hackernoon.com/how-to-work-smarter-with-parkinsons-law)
 ![](https://cdn.hackernoon.com/images/6Ih8XbFQOBWEzfH3UWPjHl3raHR2-rac3jdk.jpeg)
 Parkinson’s law says that work expands to fill the time available for its completion. Work complicates to fill available time, but if you wait until the last mi
-
-### [138. Futarchy Fixes Democracy, or Does it?](https://hackernoon.com/futarchy-fixes-democracy-or-does-it-482l35s6)
-![](https://cdn.hackernoon.com/images/mWLOxsAkOlYShZAKdljM2PL80h53-901037zs.jpeg)
-Futarchy: a possible improvement on democracy? This article examines the futarchic blockchain governance model and its potential impact on political systems.
 
 ### [139. Building the First Transparent Pyramidal NFT](https://hackernoon.com/building-the-first-transparent-pyramidal-nft)
 ![](https://cdn.hackernoon.com/images/Wr34lovvN6TMBfw6tgE0tceYgAx2-8ha31rr.jpeg)
@@ -571,13 +573,13 @@ Learn why Bitcoin might carve out it's place within the digital monetary establi
 ![](https://cdn.hackernoon.com/images/tvNEQyh3w3SCiWtN102YrKCcynz1-hce33ao.jpeg)
 Bitcoin 2024 Halving: Impact on mining, market dynamics, and strategies. Decentralization, security, and regulatory insights in the evolving crypto space.
 
-### [142. How Fed's Rate Hike affects Crypto Market Sentiment](https://hackernoon.com/how-feds-rate-hike-affects-crypto-market-sentiment)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-o993owd.jpeg)
-
-
-### [143. Do Some Tech Companies Have Too Much Influence? - Lessons From the Russia-Ukraine Conflict ](https://hackernoon.com/do-some-tech-companies-have-too-much-influence-lessons-from-the-russia-ukraine-conflict)
+### [142. Do Some Tech Companies Have Too Much Influence? - Lessons From the Russia-Ukraine Conflict ](https://hackernoon.com/do-some-tech-companies-have-too-much-influence-lessons-from-the-russia-ukraine-conflict)
 ![](https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-x7a3jau.jpeg)
 Russia is increasingly isolated politically and economically, and countries are not the only parties choosing to flex their economic might.
+
+### [143. How Fed's Rate Hike affects Crypto Market Sentiment](https://hackernoon.com/how-feds-rate-hike-affects-crypto-market-sentiment)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-o993owd.jpeg)
+
 
 ### [144. What are dApps and How Do They Enable a True Free Market?](https://hackernoon.com/what-are-dapps-and-how-do-they-enable-a-true-free-market-zy2i37o8)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-osr37gq.jpeg)
@@ -587,62 +589,62 @@ The world economy is facing a gigantic hurdle that threatens our future: too muc
 ![](https://cdn.hackernoon.com/images/BidO7U8T9IQmETD142QgQ3cMVSH3-j493tk3.jpeg)
 A revolutionary proposal for the 'Real' currency - immune from political and financial chaos, offering stability and fair exchange for all.
 
-### [146. .](https://hackernoon.com/can-blockchain-fix-the-broken-sharing-economy-he1tp32q7)
-![](https://cdn.hackernoon.com/drafts/zs2u32n7.png)
-
-
-### [147. The Divide of Failed Economy and Its Citizens](https://hackernoon.com/the-divide-of-failed-economy-and-its-citizens)
+### [146. The Divide of Failed Economy and Its Citizens](https://hackernoon.com/the-divide-of-failed-economy-and-its-citizens)
 ![](https://cdn.hackernoon.com/images/6SmKD9YTi8b2HqzaEVy2WeHHv7p2-30134vh.gif.webp)
 Leon Faust shares his personal journey through Nigeria's economic challenges and introduces MyPursePay, a fintech solution designed to help individuals manage t
 
-### [148. e/acc, Kamikazes, Kawaii Market Crashes, and More - My Japanese Investment Thesis](https://hackernoon.com/eacc-kamikazes-kawaii-market-crashes-and-more-my-japanese-investment-thesis)
+### [147. e/acc, Kamikazes, Kawaii Market Crashes, and More - My Japanese Investment Thesis](https://hackernoon.com/eacc-kamikazes-kawaii-market-crashes-and-more-my-japanese-investment-thesis)
 ![](https://cdn.hackernoon.com/images/wOVgefRzBrQUr38IIWlYVvacrs32-jh932yv.png)
 The recent stock market “crash” in Japan validates my hypotheses on why Japan is a HUGE opportunity so I'm ending my 7 year nomading streak to move there.
 
-### [149. Educational Byte: What Is an Economic Bubble and How Does It Affect Crypto?](https://hackernoon.com/educational-byte-what-is-an-economic-bubble-and-how-does-it-affect-crypto)
+### [148. Educational Byte: What Is an Economic Bubble and How Does It Affect Crypto?](https://hackernoon.com/educational-byte-what-is-an-economic-bubble-and-how-does-it-affect-crypto)
 ![](https://cdn.hackernoon.com/images/AO3i53agltRgq8NH0cq0AaViIh42-w1035g1.png)
 This type of “bubble” occurs when the price of something, like houses, stocks, or any other asset, rises much higher than its ‘actual’ value. But why is that?
+
+### [149. .](https://hackernoon.com/can-blockchain-fix-the-broken-sharing-economy-he1tp32q7)
+![](https://cdn.hackernoon.com/drafts/zs2u32n7.png)
+
 
 ### [150. Causal Thinking in the Age of Big Data: Modern Econometrics for Data Scientists](https://hackernoon.com/causal-thinking-in-the-age-of-big-data-modern-econometrics-for-data-scientists)
 ![](https://cdn.hackernoon.com/images/I04XHexU6OYySp2OewICGPPImAu1-uy03gt2.png)
 Predictive models now rule over modern analytics stacks from recommendation engines to demand forecasting and fraud detection.
 
-### [151. Is Big Tech Too Big?](https://hackernoon.com/big-tech-the-light-side-7o8h3sut)
+### [151. Ignoring the Billionaires](https://hackernoon.com/ignoring-the-billionaires)
+![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-k593sh0.jpeg)
+Billionaires matter in America. Ignore them at your own risk. 
+
+### [152. Is Big Tech Too Big?](https://hackernoon.com/big-tech-the-light-side-7o8h3sut)
 ![](https://cdn.hackernoon.com/drafts/epq3sio.png)
 A couple of weeks ago Alphabet shares dropped 6%, Facebook tanked 7.5%, and Amazon shed 4.5% of its value. Why did this happen? An anti-trust probe was called into life regarding Alphabet’s Google Search business and investors fear a similar fate for its tech brethren, seemingly rightfully so: This news story unearths a public debate that has been discussed intensively since the 2016 US elections concerning Big Tech’s power and the need for anti-trust legislation. A debate, which appears to have the nearly unanimous agreement that these companies should be broken up. Logically, therefore, these firms should already be broken up, yet they are not. Why is this? Aside from the strawman “The government is corrupt/incompetent” reasoning, there actually exist multiple genuine arguments for keeping Big Tech intact, which we’ll be examining in the following.
 
-### [152. The Economic Ideology of Crypto and DDLTs (Decentralized Distributed Ledger Technology)](https://hackernoon.com/the-economic-ideology-of-crypto-and-ddlts-decentralized-distributed-ledger-technology-wi203a7k)
+### [153. The Economic Ideology of Crypto and DDLTs (Decentralized Distributed Ledger Technology)](https://hackernoon.com/the-economic-ideology-of-crypto-and-ddlts-decentralized-distributed-ledger-technology-wi203a7k)
 ![](https://cdn.hackernoon.com/drafts/g71y36ru.png)
 
 In the Beginning...
 
-### [153. The Viral Crisis Paradox and Other Covid-19 Economic Observations](https://hackernoon.com/the-viral-crisis-paradox-and-other-covid-19-economic-observations-yzbz3y47)
+### [154. The Viral Crisis Paradox and Other Covid-19 Economic Observations](https://hackernoon.com/the-viral-crisis-paradox-and-other-covid-19-economic-observations-yzbz3y47)
 ![](https://cdn.hackernoon.com/drafts/lru63y49.png)
 As I write these words we’ve just passed one million known infected with COVID-19 and the economies of the “advanced” world are certainly going into a recession (two quarters of negative growth). In a globalised world physically connected by just over 100,000 flights per day, contagious disease populates the world in a matter of weeks. With a global mortality rate of around 10%, despite modern medicine, this is yet another global “plague”. But we as a globally connected society have new tools (such as lung ventilators) and new tricks (social distancing).
-
-### [154. Ignoring the Billionaires](https://hackernoon.com/ignoring-the-billionaires)
-![](https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-k593sh0.jpeg)
-Billionaires matter in America. Ignore them at your own risk. 
 
 ### [155. Fighting Wealth Inequality with Blockchain and Tokenization [Deep Dive]](https://hackernoon.com/fighting-wealth-inequality-with-blockchain-and-tokenization-deep-dive-d0lg3267)
 ![](https://cdn.hackernoon.com/drafts/tzl2i18.png)
 While Bloomberg has celebrated the best decade in history for financial returns, it is not a coincidence that wealth inequality has reached proportions not seen since the roaring´20s. And while this does not seem to concern the financial elites — who celebrated another fat end of the year — this is in reality a major concern for all the others, the 99,..%ers. 
 
-### [156. The Hidden Economics of Your Vacation: Why a 2-Hour Transfer in the Alps Can Cost More Than a Flight](https://hackernoon.com/the-hidden-economics-of-your-vacation-why-a-2-hour-transfer-in-the-alps-can-cost-more-than-a-flight)
-![](https://cdn.hackernoon.com/images/nbPg9ZBY5yZIc6Gy1ccTOjeroAL2-6j73nbr.gif.webp)
-Why do Alps ski transfers cost more than flights? An economic analysis of the market using the Alps Transfer Index, covering pricing, logistics, and data.
-
-### [157. Wicks to Lightbulbs: Why We Are Ripe for Our Next Technological Transformation](https://hackernoon.com/wicks-to-lightbulbs-why-we-are-ripe-for-our-next-technological-transformation)
+### [156. Wicks to Lightbulbs: Why We Are Ripe for Our Next Technological Transformation](https://hackernoon.com/wicks-to-lightbulbs-why-we-are-ripe-for-our-next-technological-transformation)
 ![](https://cdn.hackernoon.com/images/CjMZkVUd5mNF1fLvEYNWTbKTCsE2-cu93p6s.jpeg)
 The origins of progress and the stagnation of the West
 
-### [158. How the Financial Crisis, Trump, Covid19 and GameStop Created Web3](https://hackernoon.com/how-the-financial-crisis-trump-covid19-and-gamestop-created-web3)
+### [157. How the Financial Crisis, Trump, Covid19 and GameStop Created Web3](https://hackernoon.com/how-the-financial-crisis-trump-covid19-and-gamestop-created-web3)
 ![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-e193ib9.jpeg)
 The world is bursting with talks of new, exciting technologies. Blockchain, Cryptocurrencies, NFTs, DAOs, DeFi, Metaverse… where do they come from?
 
-### [159. An Inquiry into the Nature and Causes of the Wealth of Nations: Book V, Chapter III](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-v-chapter-iii)
+### [158. An Inquiry into the Nature and Causes of the Wealth of Nations: Book V, Chapter III](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-v-chapter-iii)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-7sr3i4v.jpeg)
 A part of their wool and raw hides, they had generally an opportunity of selling for money. 
+
+### [159. SBF is Just the Most Recent Kraken Lurking in the Crypto Industry](https://hackernoon.com/sbf-is-just-the-most-recent-kraken-lurking-in-the-crypto-industry)
+![](https://cdn.hackernoon.com/images/ICvvvtdXpZZcQuVy9ax1QV8DIsx1-ag92hwj.jpeg)
+It’s not that we don’t have a need for kings; we have a need to not have one at all!
 
 ### [160. The Strangest Tech Project Happening Right Now: Scan Your Eyeballs for Crypto](https://hackernoon.com/the-strangest-tech-project-happening-right-now-scan-your-eyeballs-for-crypto)
 ![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-b793rux.jpeg)
@@ -652,150 +654,150 @@ No, the company using orbs to scan your eyeballs does not have your best interes
 ![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-a593pa8.jpeg)
 It's time to start looking for a system that protects you. It starts with a B.
 
-### [162. SBF is Just the Most Recent Kraken Lurking in the Crypto Industry](https://hackernoon.com/sbf-is-just-the-most-recent-kraken-lurking-in-the-crypto-industry)
-![](https://cdn.hackernoon.com/images/ICvvvtdXpZZcQuVy9ax1QV8DIsx1-ag92hwj.jpeg)
-It’s not that we don’t have a need for kings; we have a need to not have one at all!
-
-### [163. The Digital Universal Drachma: A Paradigm for a Global Private-Public Cryptocurrency](https://hackernoon.com/the-digital-universal-drachma-a-paradigm-for-a-global-private-public-cryptocurrency)
+### [162. The Digital Universal Drachma: A Paradigm for a Global Private-Public Cryptocurrency](https://hackernoon.com/the-digital-universal-drachma-a-paradigm-for-a-global-private-public-cryptocurrency)
 ![](https://cdn.hackernoon.com/images/ICvvvtdXpZZcQuVy9ax1QV8DIsx1-e8a2h71.jpeg)
 A bold re-envisioning of the fundamentals behind blockchain technology and economic theory, in this paper Chitose Nakamoto suggests a middle ground in crypto.
 
-### [164. How Open Banking Can Revolutionize Dated Banking Systems in the US](https://hackernoon.com/how-open-banking-can-revolutionize-dated-banking-systems-in-the-us)
+### [163. How Open Banking Can Revolutionize Dated Banking Systems in the US](https://hackernoon.com/how-open-banking-can-revolutionize-dated-banking-systems-in-the-us)
 ![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-y293j5u.jpeg)
 Open banking is on everyone's minds now – and for a good reason. In Latin America, open banking is gluing society together to achieve greater social inclusion. In Africa, fintech companies are engineering a new hub for economic activity, and the latest EU regulations on open banking are provoking an inevitable face-off between challenger banks and traditional financial institutions.
 
-### [165. Entropy Can Explain Too Much](https://hackernoon.com/entropy-can-explain-too-much)
+### [164. Entropy Can Explain Too Much](https://hackernoon.com/entropy-can-explain-too-much)
 ![](https://cdn.hackernoon.com/images/9Vlh714LLUQvkeiq6m7fQ0VkEg13-7k93ve5.jpeg)
 Entropy is a cornerstone across various scientific disciplines, ranging from physics, information theory, engineering, evolution and even philosophy
+
+### [165. The Noonification: What the Transcontinental Railroads Teaches Us About Tech (4/15/2023)](https://hackernoon.com/4-15-2023-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+4/15/2023: Top 5 stories on the Hackernoon homepage!
 
 ### [166. My Comments on the U.S. Fed's CBDC Paper](https://hackernoon.com/my-comments-on-the-us-feds-cbdc-paper)
 ![](https://cdn.hackernoon.com/images/ICvvvtdXpZZcQuVy9ax1QV8DIsx1-s492ef7.jpeg)
 Thoughts on the US Federal Reserve's CBDC paper and request for comments from the writer of the Digital Universal Drachma white paper.
 
-### [167. The Noonification: What the Transcontinental Railroads Teaches Us About Tech (4/15/2023)](https://hackernoon.com/4-15-2023-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-4/15/2023: Top 5 stories on the Hackernoon homepage!
-
-### [168. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter IX](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-ix)
+### [167. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter IX](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-ix)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-np93mmi.jpeg)
 It is not easy, it has already been observed, to ascertain what are the average wages of labour, even in a particular place, and at a particular time. 
 
-### [169. 10 Things you Might not Know About Davos World Economic Forum](https://hackernoon.com/10-things-you-might-not-know-about-davos-world-economic-forum-bx8a36yb)
+### [168. 10 Things you Might not Know About Davos World Economic Forum](https://hackernoon.com/10-things-you-might-not-know-about-davos-world-economic-forum-bx8a36yb)
 ![](https://cdn.hackernoon.com/drafts/kem3ape.png)
 Freelance journalist Jillian Godsil popped her Davos cherry this year and learnt ten surprising things you might not know about Davos
+
+### [169. The AI Economy Won’t Have Jobs—But It Might Have ‘Equitism’](https://hackernoon.com/the-ai-economy-wont-have-jobsbut-it-might-have-equitism)
+![](https://cdn.hackernoon.com/images/BidO7U8T9IQmETD142QgQ3cMVSH3-qc03691.png)
+Explore Equitism—a visionary economic model promoting shared ownership, real free markets, and democratic wealth distribution in the age of AI and automation.
 
 ### [170. Why is Inflation So High? [Infographic]](https://hackernoon.com/why-is-inflation-so-high-infographic)
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-y9137zf.jpeg)
 A look at why inflation is currently skyrocketing.
 
-### [171. The AI Economy Won’t Have Jobs—But It Might Have ‘Equitism’](https://hackernoon.com/the-ai-economy-wont-have-jobsbut-it-might-have-equitism)
-![](https://cdn.hackernoon.com/images/BidO7U8T9IQmETD142QgQ3cMVSH3-qc03691.png)
-Explore Equitism—a visionary economic model promoting shared ownership, real free markets, and democratic wealth distribution in the age of AI and automation.
-
-### [172. Is the Reputation Economy a Dystopia? [Discussion]](https://hackernoon.com/the-dystopia-of-reputation-economies-imen3390)
+### [171. Is the Reputation Economy a Dystopia? [Discussion]](https://hackernoon.com/the-dystopia-of-reputation-economies-imen3390)
 ![](https://cdn.hackernoon.com/drafts/2r4ii33oj.png)
 China is transitioning itself to a Social Credit currency. Facebook is evolving from a social network into a bank. Credit card companies leak how "risky" you are to hackers. The world is changing, and fast. And so should the conversation.
 
-### [173. Bifurcation Analysis of the Keynesian Cross Model: Results](https://hackernoon.com/bifurcation-analysis-of-the-keynesian-cross-model-results)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ve82qcy.jpeg)
-This study investigates the Keynesian cross model of a national economy with a focus on the relationship between government spending and economic equilibrium.
-
-### [174. An Inquiry into the Nature and Causes of the Wealth of Nations: Book V, Chapter I - Part IV](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-v-chapter-i-part-iv)
+### [172. An Inquiry into the Nature and Causes of the Wealth of Nations: Book V, Chapter I - Part IV](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-v-chapter-i-part-iv)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-drn3izh.jpeg)
 Over and above the expenses necessary for enabling the sovereign to perform his several duties, a certain expense is requisite for the support of his dignity.
 
-### [175. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter I. ](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-i)
+### [173. Small Business, Big Problem: Why 99% Aren't Growing](https://hackernoon.com/small-business-big-problem-why-99percent-arent-growing)
+![](https://cdn.hackernoon.com/images/yUKeOplXPdR0GRNYp61GXN0Mzls1-0p831wi.jpeg)
+Thought-provoking exploration of the challenges and realities facing small businesses in today's economic landscape and a revolutionary new approach to growth.
+
+### [174. Bifurcation Analysis of the Keynesian Cross Model: Results](https://hackernoon.com/bifurcation-analysis-of-the-keynesian-cross-model-results)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ve82qcy.jpeg)
+This study investigates the Keynesian cross model of a national economy with a focus on the relationship between government spending and economic equilibrium.
+
+### [175. When Did the Economy Become Our Only Measure of Value?](https://hackernoon.com/when-did-the-economy-become-our-only-measure-of-value)
+![](https://cdn.hackernoon.com/images/a-surreal-illustration-of-a-towering-golden-stock-market-graph-shaped-like-a-cathedral-with-people-kneeling-beneath-it-kc78xolbmau7avmoepz1906s.png)
+Economics' importance is illusory and maintains current power hegemonies.
+
+### [176. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter I. ](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-i)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-ql93m9o.jpeg)
 The greatest improvements in the productive powers of labour, and the greater part of the skill, dexterity, and judgment.
 
-
-### [176. Small Business, Big Problem: Why 99% Aren't Growing](https://hackernoon.com/small-business-big-problem-why-99percent-arent-growing)
-![](https://cdn.hackernoon.com/images/yUKeOplXPdR0GRNYp61GXN0Mzls1-0p831wi.jpeg)
-Thought-provoking exploration of the challenges and realities facing small businesses in today's economic landscape and a revolutionary new approach to growth.
 
 ### [177. The Role of AI in Forecasting Economic Trends](https://hackernoon.com/the-role-of-ai-in-forecasting-economic-trends)
 ![](https://cdn.hackernoon.com/images/4udciSRphodkXaSzpTYDjeyVPZi2-bn032pb.webp)
 Explore how AI is used to predict economic trends by analyzing vast datasets, enhancing accuracy in financial forecasting.
 
-### [178. Donald Trump, $80k Bitcoin and the Strategic Bitcoin Reserve](https://hackernoon.com/donald-trump-$80k-bitcoin-and-the-strategic-bitcoin-reserve)
-![](https://cdn.hackernoon.com/images/JLKehBeMBONvfxPRcUdK8mvpAYz1-lz03ddh.png)
-Will the election of Donald Trump be a catalyst for Bitcoin? And what will the long term impacts of this be? 
-
-### [179. Analyzing SVB's 2022 10-K to Understand Its Failure ](https://hackernoon.com/analyzing-svbs-2022-10-k-to-understand-its-failure)
+### [178. Analyzing SVB's 2022 10-K to Understand Its Failure ](https://hackernoon.com/analyzing-svbs-2022-10-k-to-understand-its-failure)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-wo93put.jpeg)
 Silicon Valley Bank has entered into FDIC receivership and has for all intents and purposes has failed. Here, I argue that SVB failed due to a failure to respon
 
-### [180. When Did the Economy Become Our Only Measure of Value?](https://hackernoon.com/when-did-the-economy-become-our-only-measure-of-value)
-![](https://cdn.hackernoon.com/images/a-surreal-illustration-of-a-towering-golden-stock-market-graph-shaped-like-a-cathedral-with-people-kneeling-beneath-it-kc78xolbmau7avmoepz1906s.png)
-Economics' importance is illusory and maintains current power hegemonies.
+### [179. Donald Trump, $80k Bitcoin and the Strategic Bitcoin Reserve](https://hackernoon.com/donald-trump-$80k-bitcoin-and-the-strategic-bitcoin-reserve)
+![](https://cdn.hackernoon.com/images/JLKehBeMBONvfxPRcUdK8mvpAYz1-lz03ddh.png)
+Will the election of Donald Trump be a catalyst for Bitcoin? And what will the long term impacts of this be? 
 
-### [181. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter VI ](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-vi)
+### [180. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter VI ](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-vi)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-dxe3i55.jpeg)
 It is but a very small part of this importation which, it can be supposed, is employed as an annual addition, either to the plate or to the coin of the kingdom.
 
-### [182. Spain Entrepreneurial Nation Unexpectedly Shutdown by Spanish Government After 3 Years of Success ](https://hackernoon.com/spain-entrepreneurial-nation-unexpectedly-shutdown-by-spanish-government-after-3-years-of-success)
-![](https://cdn.hackernoon.com/images/Hxx02Elm1uffe731mPnef95wfuf1-b79366z.jpeg)
-Spain's government has decided to shut down one of the country's main initiatives to promote entrepreneurship and startups.
+### [181. The Hidden Economics of Your Vacation: Why a 2-Hour Transfer in the Alps Can Cost More Than a Flight](https://hackernoon.com/the-hidden-economics-of-your-vacation-why-a-2-hour-transfer-in-the-alps-can-cost-more-than-a-flight)
+![](https://cdn.hackernoon.com/images/nbPg9ZBY5yZIc6Gy1ccTOjeroAL2-6j73nbr.gif.webp)
+Why do Alps ski transfers cost more than flights? An economic analysis of the market using the Alps Transfer Index, covering pricing, logistics, and data.
 
-### [183. The End of the Petrodollar With Bitcoin As the Big Winner? Mind You, It’s Not Quite That Simple!](https://hackernoon.com/the-end-of-the-petrodollar-with-bitcoin-as-the-big-winner-mind-you-its-not-quite-that-simple)
+### [182. The End of the Petrodollar With Bitcoin As the Big Winner? Mind You, It’s Not Quite That Simple!](https://hackernoon.com/the-end-of-the-petrodollar-with-bitcoin-as-the-big-winner-mind-you-its-not-quite-that-simple)
 ![](https://cdn.hackernoon.com/images/vMUYBeYcEXfZciXsdqBAAfRuIe32-z1838tc.jpeg)
 A few thoughts on the death of the king dollar will make you realize that we're a long way from that.
+
+### [183. Spain Entrepreneurial Nation Unexpectedly Shutdown by Spanish Government After 3 Years of Success ](https://hackernoon.com/spain-entrepreneurial-nation-unexpectedly-shutdown-by-spanish-government-after-3-years-of-success)
+![](https://cdn.hackernoon.com/images/Hxx02Elm1uffe731mPnef95wfuf1-b79366z.jpeg)
+Spain's government has decided to shut down one of the country's main initiatives to promote entrepreneurship and startups.
 
 ### [184. An Inquiry into the Nature and Causes of the Wealth of Nations - Table of Links](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-table-of-links)
 ![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-4993j6a.jpeg)
 An Inquiry into the Nature and Causes of the Wealth of Nations, by Adam Smith is part of HackerNoon’s Books series. Raed this book online for free on HackerNoon
 
-### [185. Quantifying the Right-Context Boundary of Authority in Language Models](https://hackernoon.com/quantifying-the-right-context-boundary-of-authority-in-language-models)
-![](https://cdn.hackernoon.com/images/2kTQmpazivYPo9k2xqMD7UaA2983-qn0367x.png)
-Explores how right-context tokens flip authority judgments in AI models, revealing hidden retrocausal attention shaping obedience and power.
-
-### [186. Is SVB's Failure the Beginning of a Domino Effect?](https://hackernoon.com/is-svbs-failure-the-beginning-of-a-domino-effect)
+### [185. Is SVB's Failure the Beginning of a Domino Effect?](https://hackernoon.com/is-svbs-failure-the-beginning-of-a-domino-effect)
 ![](https://cdn.hackernoon.com/images/dominos-falling-down-clglj0uhc000001s6d0u814v3.png)
 Andrew Lokenauth discusses how SVB's failure will cause a domino effect.
 
-### [187. What are the Vicious - and Breakable - Cycles of the Attention Economy?](https://hackernoon.com/what-are-the-vicious-and-breakable-cycles-of-the-attention-economy-uc453zax)
+### [186. What are the Vicious - and Breakable - Cycles of the Attention Economy?](https://hackernoon.com/what-are-the-vicious-and-breakable-cycles-of-the-attention-economy-uc453zax)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-u83l3zuk.jpeg?alt=media&token=4fd2f8a4-39e3-4440-8d1b-c77b029a212e)
 This Slack discussion by Mario Vasilescu, Linh and me occurred in hackernoon's official #slogging-beta channel.
+
+### [187. The Economics of Web Data: ROI](https://hackernoon.com/the-economics-of-web-data-roi)
+![](https://cdn.hackernoon.com/images/economics-of-web-data-cliofscpe000001s6hywg5jfx.png)
+A back-of-the-envelope way to estimate how much your client can spend on web data.
 
 ### [188. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter IV. ](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-iv)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-tuc3is8.jpeg)
 Merchants and manufacturers are not contented with the monopoly of the home market, but desire likewise the most extensive foreign sale for their goods.
 
-### [189. AI and the Fear of Irrational Humans](https://hackernoon.com/ai-and-the-fear-of-irrational-humans-f33y3t4r)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FChBKXWUf7cdj7g5E2Dow2oALJ6J2-q1y3tzw.jpeg?alt=media&token=d9b68d92-5e17-4159-af30-13346184d0f6)
-Low EQ, Not Robots, is Humanity’s Biggest Threat. Having high emotional intelligence (EQ) is having the ability to parse one’s own emotions as well as navigate the emotions of those around us to the mutual benefit of oneself and society. As a measure of developmental achievement compared to general intelligence (IQ) most individuals are barely aware of EQ and contemporary society does very little to cultivate it. For example, IQ provides you with accurate information for a heated debate on Facebook while EQ guides your exchange from a place of empathy and allows you to walk away from exchanges that may cause more emotional harm than good to either party.
-
-### [190. The Economics of Web Data: ROI](https://hackernoon.com/the-economics-of-web-data-roi)
-![](https://cdn.hackernoon.com/images/economics-of-web-data-cliofscpe000001s6hywg5jfx.png)
-A back-of-the-envelope way to estimate how much your client can spend on web data.
-
-### [191. Bitcoin Stands to Solve the Financial Discrimination Pacific Islanders Face](https://hackernoon.com/bitcoin-stands-to-solve-the-financial-discrimination-pacific-islanders-face)
-![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9502s74.jpeg)
-The decentralized nature of Bitcoin offers something revolutionary – financial inclusion without gatekeepers.
-
-### [192. Metaverse: a New Step for Digital Entertainment or an Economic Gamechanger?](https://hackernoon.com/metaverse-a-new-step-for-digital-entertainment-or-an-economic-gamechanger)
+### [189. Metaverse: a New Step for Digital Entertainment or an Economic Gamechanger?](https://hackernoon.com/metaverse-a-new-step-for-digital-entertainment-or-an-economic-gamechanger)
 ![](https://cdn.hackernoon.com/images/sGXsA0t0bjSRsNuIIJIAgFYomzV2-h813abo.jpeg)
 The metaverse could reform industries and societies. This potential was recognized at a state level when Shanghai included metaverse in its 5-year plan.
 
-### [193. Chinese Economy 2023: Back to Normal?](https://hackernoon.com/chinese-economy-2023-back-to-normal)
+### [190. Chinese Economy 2023: Back to Normal?](https://hackernoon.com/chinese-economy-2023-back-to-normal)
 ![](https://cdn.hackernoon.com/images/is-the-chinese-economy-growing-or-declining-clduj1o4w000001s650qh84no.png)
 China's economic and industry outlook for 2023. 
+
+### [191. AI and the Fear of Irrational Humans](https://hackernoon.com/ai-and-the-fear-of-irrational-humans-f33y3t4r)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FChBKXWUf7cdj7g5E2Dow2oALJ6J2-q1y3tzw.jpeg?alt=media&token=d9b68d92-5e17-4159-af30-13346184d0f6)
+Low EQ, Not Robots, is Humanity’s Biggest Threat. Having high emotional intelligence (EQ) is having the ability to parse one’s own emotions as well as navigate the emotions of those around us to the mutual benefit of oneself and society. As a measure of developmental achievement compared to general intelligence (IQ) most individuals are barely aware of EQ and contemporary society does very little to cultivate it. For example, IQ provides you with accurate information for a heated debate on Facebook while EQ guides your exchange from a place of empathy and allows you to walk away from exchanges that may cause more emotional harm than good to either party.
+
+### [192. Bitcoin Stands to Solve the Financial Discrimination Pacific Islanders Face](https://hackernoon.com/bitcoin-stands-to-solve-the-financial-discrimination-pacific-islanders-face)
+![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-9502s74.jpeg)
+The decentralized nature of Bitcoin offers something revolutionary – financial inclusion without gatekeepers.
+
+### [193. Radically Democratic Business and Finance](https://hackernoon.com/radically-democratic-business-and-finance)
+![](https://cdn.hackernoon.com/images/oFrCvdx0ZvOs8PttDY182mOEgFk1-mm913v5.jpeg)
+Inequality and environmental degradation are inherent features of the status quo.  The private sector, especially finance, is badly in need of democratization.
 
 ### [194. Should Snapchat Copy Instagram's Timeline? ](https://hackernoon.com/snapchats-biggest-strategy-change-n2793z2a)
 ![](drafts/zl6g3z62.png)
 Snapchat success came in the era, where any successful social media company would be acquired by Facebook. It not only avoided the acquisition but thrived on its own terms, garnered a significant audience and has become a major participant in the cultural machine.
 
-### [195. Radically Democratic Business and Finance](https://hackernoon.com/radically-democratic-business-and-finance)
-![](https://cdn.hackernoon.com/images/oFrCvdx0ZvOs8PttDY182mOEgFk1-mm913v5.jpeg)
-Inequality and environmental degradation are inherent features of the status quo.  The private sector, especially finance, is badly in need of democratization.
-
-### [196. Cryptocurrencies Promote Secure Decentralization or Support Cyber Piracy: the Truth](https://hackernoon.com/cryptocurrencies-promote-secure-decentralization-or-support-cyber-piracy-the-truth-b7v330v)
+### [195. Cryptocurrencies Promote Secure Decentralization or Support Cyber Piracy: the Truth](https://hackernoon.com/cryptocurrencies-promote-secure-decentralization-or-support-cyber-piracy-the-truth-b7v330v)
 ![](https://cdn.hackernoon.com/images/c2RbZ7CqILaV2u2ArgKmmHzuBt93-l75733s8.png)
 The odd symbiosis between hacking syndicates and cryptocurrency, and how they're powering each other's rise. 
 
-### [197. Why is Bitcoin so Volatile?](https://hackernoon.com/why-is-bitcoin-so-volatile)
+### [196. Why is Bitcoin so Volatile?](https://hackernoon.com/why-is-bitcoin-so-volatile)
 ![](https://cdn.hackernoon.com/images/NbkygUB9G6Zx5nmHwA4JRCtfZkr2-nb03of9.jpeg)
 Here are three reasons why Bitcoin is so volatile.
+
+### [197. An Inquiry into the Nature and Causes of the Wealth of Nations: Book V, Chapter II - Part I](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-v-chapter-ii-part-i)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-gfq3i2k.jpeg)
+Small republics have sometimes derived a considerable revenue from the profit of mercantile projects.
 
 ### [198. NFTs Are Playthings of the Rich, not Democratizing Art](https://hackernoon.com/nfts-are-playthings-of-the-rich-not-democratizing-art-zs7432kb)
 ![](https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-4s8351x.png)
@@ -805,167 +807,167 @@ NFTs only make sense if you see them as playthings for the wealthy.
 ![](https://cdn.hackernoon.com/images/iumnGL1xp3ghC3RL7cb6UMd6VkE3-i83e36pa.jpeg)
 In a bid to help crypto enthusiasts with more insight and information, I reached out to Carl Runefelt, a crypto influencer, for his opinion and expert insights.
 
-### [200. Some Stray Thoughts On The Long Term Winner in Crypto-Assets](https://hackernoon.com/some-stray-thoughts-on-the-long-term-winner-in-crypto-assets-1kai3bxw)
-![](https://cdn.hackernoon.com/drafts/592z36vy.png)
-Today we are going to discuss how the long term survivability of a prospective crypto asset is the single best indicator of its investment quality. We will also consider  capital’s role in this model and why this is the best approach to investing in a crypto asset. 
-
-### [201. Subprime 2.0 – Is 2008 is back?](https://hackernoon.com/subrime-20-is-2008-is-back-jp2c3uwc)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-o4p28zy.jpeg?alt=media&token=2bb54966-13f1-40ec-ad10-f2c7b1886b33)
-CIA Supervisor:
-
-### [202. An Inquiry into the Nature and Causes of the Wealth of Nations: Book V, Chapter II - Part I](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-v-chapter-ii-part-i)
-![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-gfq3i2k.jpeg)
-Small republics have sometimes derived a considerable revenue from the profit of mercantile projects.
-
-### [203. An Intro to Payment for Order Flow vs. Best Execution](https://hackernoon.com/an-intro-to-payment-for-order-flow-vs-best-execution)
+### [200. An Intro to Payment for Order Flow vs. Best Execution](https://hackernoon.com/an-intro-to-payment-for-order-flow-vs-best-execution)
 ![](https://cdn.hackernoon.com/images/money-falling-from-the-sky-clgu8khvf000001s62u4l58eh.png)
 Payment for Order Flow and Best Execution are two distinct concepts in the world of finance. Understanding their differences is vital for investors.
 
-### [204. How Podcast Players Generate Revenue [General Overview]](https://hackernoon.com/how-podcast-players-generate-revenue-general-overview-z11o3z1k)
+### [201. Some Stray Thoughts On The Long Term Winner in Crypto-Assets](https://hackernoon.com/some-stray-thoughts-on-the-long-term-winner-in-crypto-assets-1kai3bxw)
+![](https://cdn.hackernoon.com/drafts/592z36vy.png)
+Today we are going to discuss how the long term survivability of a prospective crypto asset is the single best indicator of its investment quality. We will also consider  capital’s role in this model and why this is the best approach to investing in a crypto asset. 
+
+### [202. How Podcast Players Generate Revenue [General Overview]](https://hackernoon.com/how-podcast-players-generate-revenue-general-overview-z11o3z1k)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FrXG7YlNW7gRJzFPCxRjJJJ13pGF2-au3t30ib.jpeg?alt=media&token=17ecaf08-2a5c-4ccf-a822-f1bc9bf46575)
 The podcast industry is growing. The more growth, the more money will go into the industry. Podcast players make money from consumers and businesses through several methods.
 
-### [205. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter VIII](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-viii)
+### [203. Subprime 2.0 – Is 2008 is back?](https://hackernoon.com/subrime-20-is-2008-is-back-jp2c3uwc)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FMJpFVUEItkSdoh38rYo60VT7RfH3-o4p28zy.jpeg?alt=media&token=2bb54966-13f1-40ec-ad10-f2c7b1886b33)
+CIA Supervisor:
+
+### [204. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter VIII](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-viii)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-qbd3ncd.jpeg)
 The produce of labour constitutes the natural recompence or wages of labour.
 
-### [206. The Economics of Social Money: Digital Communities in the Next Decade](https://hackernoon.com/the-economics-of-social-money-digital-communities-in-the-next-decade-0po2hbb)
+### [205. The Economics of Social Money: Digital Communities in the Next Decade](https://hackernoon.com/the-economics-of-social-money-digital-communities-in-the-next-decade-0po2hbb)
 ![](https://cdn.hackernoon.com/hn-images/1*mmFMxcHOZph53vuXHdnR5Q.jpeg)
 Money is a social tool to achieve cooperation among a group of people. Through history, the form of money has evolved from collectibles to coinage to currency issued by fiat. Money often reflects the values or politics of the communities that issue and use them.
 
-### [207. An Inquiry into the Nature and Causes of the Wealth of Nations: Book II - Chapter I](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-ii-chapter-i)
+### [206. An Inquiry into the Nature and Causes of the Wealth of Nations: Book II - Chapter I](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-ii-chapter-i)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-vn93ilp.jpeg)
 When the stock which a man possesses is no more than sufficient to maintain him for a few days or a few weeks, he seldom thinks of deriving any revenue from it.
 
-### [208. The State: A Fortress of Gatekeepers Crushing Innovation](https://hackernoon.com/the-state-a-fortress-of-gatekeepers-crushing-innovation)
+### [207. The State: A Fortress of Gatekeepers Crushing Innovation](https://hackernoon.com/the-state-a-fortress-of-gatekeepers-crushing-innovation)
 ![](https://cdn.hackernoon.com/images/BidO7U8T9IQmETD142QgQ3cMVSH3-fg83tbx.jpeg)
 The state of gatekeepers is killing progress and creating mindless jobs.
 
-### [209. "We Are Rich Because We Are Free." - How Society Creates Entrepreneurs ](https://hackernoon.com/we-are-rich-because-we-are-free-how-society-creates-entrepreneurs-4r2q31cy)
-![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-t71g31su.jpeg)
-An economic perspective on how society allows a social contract to build entrepreneurs.
-
-### [210. 15 Bitcoin Insights Spock Would've Shared](https://hackernoon.com/15-bitcoin-insights-spock-wouldve-shared)
+### [208. 15 Bitcoin Insights Spock Would've Shared](https://hackernoon.com/15-bitcoin-insights-spock-wouldve-shared)
 ![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-vo93oad.jpeg)
 Born in 2230, 90 years after the last Bitcoin was issued, Spock also had the mindset of a Bitcoiner. Proof in 16 quotes.
 
-### [211. How Progress Ends - A Review: Revisiting Innovation, Institutions, and Everything in Between](https://hackernoon.com/how-progress-ends-a-review-revisiting-innovation-institutions-and-everything-in-between)
-![](https://cdn.hackernoon.com/images/IBeuZ9mcsGd5EznrObnQue9Q2pI2-me03cis.jpeg)
-A critical review of Carl Benedikt Frey’s How Progress Ends, exploring innovation cycles, centralization, and the politics of progress.
-
-### [212. Woe to Those Who Hang Their Financial Fate on “Macro”](https://hackernoon.com/woe-to-those-who-hang-their-financial-fate-on-macro)
-![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-oz93yf5.jpeg)
-It’s nice to have clarity about the “macro,” but it’s not necessarily the best investment strategy.  
-
-### [213. CBDCs Hold Promise and Peril in Global Finance Overhaul, Study Finds](https://hackernoon.com/cbdcs-hold-promise-and-peril-in-global-finance-overhaul-study-finds)
-![](https://cdn.hackernoon.com/images/A4JSMF8KeKZDhK6benXc4ynf0xZ2-6b03886.webp)
-Explore the economic, social, and environmental impacts of CBDCs, from financial inclusion to privacy, regulation, and sustainability.
-
-### [214. Why We Should Opt Out of the Attention Economy](https://hackernoon.com/why-we-should-opt-out-of-the-attention-economy-xa7s31vm)
-![](https://cdn.hackernoon.com/images/Z8EWJbTJV2f7dE6NJauoXarcPM82-yq2n25w2.jpeg)
-The Value of Attention - why your attention is so valuable and why you're selling it too cheaply
-
-### [215. How Digital Securities Could Empower The Little Guy](https://hackernoon.com/how-digital-securities-will-empower-the-little-guy-im6nm43so)
-![](https://cdn.hackernoon.com/drafts/zrcvu43a9.png)
-A security is a traditional financial instrument, such as equity, debt, or real assets. It represents ownership in (or the rights to ownership in) the aforementioned categories. Securities are also typically exclusive, rather than inclusive, because the process of buying and trading something like equity or debt is slow and expensive.
-
-### [216. The Noonification: Employee Resentment and the Power It Holds (5/4/2023)](https://hackernoon.com/5-4-2023-noonification)
-![](https://cdn.hackernoon.com/images/zduv342l.gif)
-5/4/2023: Top 5 stories on the Hackernoon homepage!
-
-### [217. What Can Software Engineers Learn from Public Policy Professionals?](https://hackernoon.com/what-can-software-engineers-learn-from-public-policy-professionals-tr4y30tq)
-![](https://images.unsplash.com/photo-1493106641515-6b5631de4bb9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-Public Policy is quite an obscure profession. It hides in plain sight. Most people don’t realize that there’s a piece of sophisticated machinery that constantly shapes the world they live in — a system under but also beyond politics. So let’s define it first. Public policy is any state-initiated and state-executed intervention to get a certain outcome. This outcome could be a lot of things — increase in literacy, reduced corruption, increase in exports, people using products made within the country, and so on. All of them, in theory, have the long term good of the citizens as an ever-present overarch.
-
-### [218. 58 Stories To Learn About Inflation](https://hackernoon.com/58-stories-to-learn-about-inflation)
-![](https://cdn.hackernoon.com/images/github/inflation-892.png)
-Learn everything you need to know about Inflation via these 58 free HackerNoon stories.
-
-### [219. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter V](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-v)
-![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-cyd3ijj.jpeg)
-Bounties upon exportation are, in Great Britain, frequently petitioned for, and sometimes granted, to the produce of particular branches of domestic industry.
-
-### [220. An In-Depth Look at Coronavirus, Bitcoin, & the 2008 Housing Bubble](https://hackernoon.com/an-in-depth-look-at-coronavirus-bitcoin-and-the-2008-housing-bubble-3o1k37x2)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-n8k35ud.jpeg)
-What do a McMansion buying spree, a pandemic, and a cryptocurrency have in common? It may be surprising but these three things have a lot of stuff in common 
-
-### [221. The Nash Equilibrium of a Fair Economy: A Non-Cooperative Game Theory Perspective](https://hackernoon.com/the-nash-equilibrium-of-a-fair-economy-a-non-cooperative-game-theory-perspective)
+### [209. The Nash Equilibrium of a Fair Economy: A Non-Cooperative Game Theory Perspective](https://hackernoon.com/the-nash-equilibrium-of-a-fair-economy-a-non-cooperative-game-theory-perspective)
 ![](https://cdn.hackernoon.com/images/equilibrium-abstract-bsrxw56794njio3i25kx1uvs.png)
 This article demonstrates a fundamental result in economic theory: that a free and fair economy always has a pure strategy Nash equilibrium.
 
-### [222. When Prices Rise and Products Shrink: How Inflation Alters Consumer Preferences](https://hackernoon.com/when-prices-rise-and-products-shrink-how-inflation-alters-consumer-preferences)
-![](https://cdn.hackernoon.com/images/K9M2bAdfq9Pjk4aB305Tqe9poyo1-1e93r6r.jpeg)
-Explore how inflation and shrinkflation are reshaping consumer shopping preferences. Learn how increased prices and reduced product sizes impact consumers.
+### [210. "We Are Rich Because We Are Free." - How Society Creates Entrepreneurs ](https://hackernoon.com/we-are-rich-because-we-are-free-how-society-creates-entrepreneurs-4r2q31cy)
+![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-t71g31su.jpeg)
+An economic perspective on how society allows a social contract to build entrepreneurs.
 
-### [223. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter VIII](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-viii)
+### [211. Woe to Those Who Hang Their Financial Fate on “Macro”](https://hackernoon.com/woe-to-those-who-hang-their-financial-fate-on-macro)
+![](https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-oz93yf5.jpeg)
+It’s nice to have clarity about the “macro,” but it’s not necessarily the best investment strategy.  
+
+### [212. CBDCs Hold Promise and Peril in Global Finance Overhaul, Study Finds](https://hackernoon.com/cbdcs-hold-promise-and-peril-in-global-finance-overhaul-study-finds)
+![](https://cdn.hackernoon.com/images/A4JSMF8KeKZDhK6benXc4ynf0xZ2-6b03886.webp)
+Explore the economic, social, and environmental impacts of CBDCs, from financial inclusion to privacy, regulation, and sustainability.
+
+### [213. The Noonification: Employee Resentment and the Power It Holds (5/4/2023)](https://hackernoon.com/5-4-2023-noonification)
+![](https://cdn.hackernoon.com/images/zduv342l.gif)
+5/4/2023: Top 5 stories on the Hackernoon homepage!
+
+### [214. How Digital Securities Could Empower The Little Guy](https://hackernoon.com/how-digital-securities-will-empower-the-little-guy-im6nm43so)
+![](https://cdn.hackernoon.com/drafts/zrcvu43a9.png)
+A security is a traditional financial instrument, such as equity, debt, or real assets. It represents ownership in (or the rights to ownership in) the aforementioned categories. Securities are also typically exclusive, rather than inclusive, because the process of buying and trading something like equity or debt is slow and expensive.
+
+### [215. Why We Should Opt Out of the Attention Economy](https://hackernoon.com/why-we-should-opt-out-of-the-attention-economy-xa7s31vm)
+![](https://cdn.hackernoon.com/images/Z8EWJbTJV2f7dE6NJauoXarcPM82-yq2n25w2.jpeg)
+The Value of Attention - why your attention is so valuable and why you're selling it too cheaply
+
+### [216. 58 Stories To Learn About Inflation](https://hackernoon.com/58-stories-to-learn-about-inflation)
+![](https://cdn.hackernoon.com/images/github/inflation-892.png)
+Learn everything you need to know about Inflation via these 58 free HackerNoon stories.
+
+### [217. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter V](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-v)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-cyd3ijj.jpeg)
+Bounties upon exportation are, in Great Britain, frequently petitioned for, and sometimes granted, to the produce of particular branches of domestic industry.
+
+### [218. What Can Software Engineers Learn from Public Policy Professionals?](https://hackernoon.com/what-can-software-engineers-learn-from-public-policy-professionals-tr4y30tq)
+![](https://images.unsplash.com/photo-1493106641515-6b5631de4bb9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+Public Policy is quite an obscure profession. It hides in plain sight. Most people don’t realize that there’s a piece of sophisticated machinery that constantly shapes the world they live in — a system under but also beyond politics. So let’s define it first. Public policy is any state-initiated and state-executed intervention to get a certain outcome. This outcome could be a lot of things — increase in literacy, reduced corruption, increase in exports, people using products made within the country, and so on. All of them, in theory, have the long term good of the citizens as an ever-present overarch.
+
+### [219. An In-Depth Look at Coronavirus, Bitcoin, & the 2008 Housing Bubble](https://hackernoon.com/an-in-depth-look-at-coronavirus-bitcoin-and-the-2008-housing-bubble-3o1k37x2)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-n8k35ud.jpeg)
+What do a McMansion buying spree, a pandemic, and a cryptocurrency have in common? It may be surprising but these three things have a lot of stuff in common 
+
+### [220. Designing Economic Intelligence: Econometrics-First Approaches in Data Science](https://hackernoon.com/designing-economic-intelligence-econometrics-first-approaches-in-data-science)
+![](https://cdn.hackernoon.com/images/I04XHexU6OYySp2OewICGPPImAu1-5y03gbx.png)
+Economic intelligence is embedding a structured way of reasoning into decision systems.
+
+### [221. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter VIII](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-viii)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-wti3iqf.jpeg)
 Though the encouragement of exportation, and the discouragement of importation. 
 
-### [224. The Economic Consequences of the Peace: Chapter II - Europe before the War](https://hackernoon.com/the-economic-consequences-of-the-peace-chapter-ii-europe-before-the-war)
+### [222. The Economic Consequences of the Peace: Chapter II - Europe before the War](https://hackernoon.com/the-economic-consequences-of-the-peace-chapter-ii-europe-before-the-war)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-m593j06.jpeg)
 The Economic Consequences of the Peace, Chapter II: Europe before the War by John Maynard Keynes is part of HackerNoon’s Book Blog Post series. 
+
+### [223. When Prices Rise and Products Shrink: How Inflation Alters Consumer Preferences](https://hackernoon.com/when-prices-rise-and-products-shrink-how-inflation-alters-consumer-preferences)
+![](https://cdn.hackernoon.com/images/K9M2bAdfq9Pjk4aB305Tqe9poyo1-1e93r6r.jpeg)
+Explore how inflation and shrinkflation are reshaping consumer shopping preferences. Learn how increased prices and reduced product sizes impact consumers.
+
+### [224. Not All The Companies Are The Same](https://hackernoon.com/not-all-the-companies-are-the-same-115d3v4n)
+![](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+In the context of the coronavirus crisis, many companies began experiencing cash flow shortfalls. In order to avoid the liquidity problem, which eventually may turn into a solvency issue, businesses were forced to cut their operational costs. 
 
 ### [225. Bad Gurl](https://hackernoon.com/bad-gurl)
 ![](https://cdn.hackernoon.com/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-qr83xnw.jpeg)
 
 
-### [226. Not All The Companies Are The Same](https://hackernoon.com/not-all-the-companies-are-the-same-115d3v4n)
-![](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-In the context of the coronavirus crisis, many companies began experiencing cash flow shortfalls. In order to avoid the liquidity problem, which eventually may turn into a solvency issue, businesses were forced to cut their operational costs. 
+### [226. Quantifying the Right-Context Boundary of Authority in Language Models](https://hackernoon.com/quantifying-the-right-context-boundary-of-authority-in-language-models)
+![](https://cdn.hackernoon.com/images/2kTQmpazivYPo9k2xqMD7UaA2983-qn0367x.png)
+Explores how right-context tokens flip authority judgments in AI models, revealing hidden retrocausal attention shaping obedience and power.
 
-### [227. Designing Economic Intelligence: Econometrics-First Approaches in Data Science](https://hackernoon.com/designing-economic-intelligence-econometrics-first-approaches-in-data-science)
-![](https://cdn.hackernoon.com/images/I04XHexU6OYySp2OewICGPPImAu1-5y03gbx.png)
-Economic intelligence is embedding a structured way of reasoning into decision systems.
+### [227. An SVB Thread: Why the FDIC Needs to Temporarily Guarantee All Deposits](https://hackernoon.com/an-svb-thread-why-the-fdic-needs-to-temporarily-guarantee-all-deposits)
+![](https://cdn.hackernoon.com/images/envelopes-flying-with-wings-clgebjcm8000001s6d6fw5awi.png)
+Sam Altman details why the FDIC needs to temporarily guarantee all deposits.
 
-### [228. Digital Euro (CBDCs): Closer To Reality Than You Think](https://hackernoon.com/digital-euro-cbdcs-closer-to-reality-than-you-think-3w2l3wqb)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIII69SpKdjNUtrd3UWA2IyJK5E83-pl4w3wmt.jpeg?alt=media&token=bc223be2-4fb4-4ec4-94c6-c62eef88ccc0)
-The ECB (European Central Bank) has published a report stating
-the digital euro is getting closer to be launched. It gives an overview of a
-possible roadmap for implementing the digital euro as well as the advantages and disadvantages of a digital currency in the euro zone. 
+### [228. Everything You Need to Know About This Year's World Economic Forum ](https://hackernoon.com/everything-you-need-to-know-about-this-years-world-economic-forum)
+![](https://cdn.hackernoon.com/images/the-world-in-the-middle-of-a-conference-meeting-clfkckqmu000001s613hf83gj.png)
+Mario Nawfal goes over the World Economic Forum.
 
 ### [229. Data Rules: Exploring the Interplay Between Data, Economy, and Society in the Digital Age](https://hackernoon.com/data-rules-exploring-the-interplay-between-data-economy-and-society-in-the-digital-age)
 ![](https://cdn.hackernoon.com/images/fdI8xgIHRJTxUAsqoZ27qOGzMz33-5y8209c.jpeg)
 “Data Rules” is a book about the relationship of data with economic institutions and society, but also about the interplay with data technologies
 
-### [230. An SVB Thread: Why the FDIC Needs to Temporarily Guarantee All Deposits](https://hackernoon.com/an-svb-thread-why-the-fdic-needs-to-temporarily-guarantee-all-deposits)
-![](https://cdn.hackernoon.com/images/envelopes-flying-with-wings-clgebjcm8000001s6d6fw5awi.png)
-Sam Altman details why the FDIC needs to temporarily guarantee all deposits.
+### [230. Digital Euro (CBDCs): Closer To Reality Than You Think](https://hackernoon.com/digital-euro-cbdcs-closer-to-reality-than-you-think-3w2l3wqb)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FIII69SpKdjNUtrd3UWA2IyJK5E83-pl4w3wmt.jpeg?alt=media&token=bc223be2-4fb4-4ec4-94c6-c62eef88ccc0)
+The ECB (European Central Bank) has published a report stating
+the digital euro is getting closer to be launched. It gives an overview of a
+possible roadmap for implementing the digital euro as well as the advantages and disadvantages of a digital currency in the euro zone. 
 
-### [231. Everything You Need to Know About This Year's World Economic Forum ](https://hackernoon.com/everything-you-need-to-know-about-this-years-world-economic-forum)
-![](https://cdn.hackernoon.com/images/the-world-in-the-middle-of-a-conference-meeting-clfkckqmu000001s613hf83gj.png)
-Mario Nawfal goes over the World Economic Forum.
+### [231. The Debt-Ridden Superpower: What Is It?](https://hackernoon.com/the-debt-ridden-superpower-what-is-it)
+![](https://cdn.hackernoon.com/images/superpowers-nx7ueumu9dfgwtxr0cilpvm3.png)
+The US gov must roll 🥐$9t over by the end of 2026 - a lot of that was in short to medium term maturities - 2, 3, and 5-year treasuries.
 
 ### [232. Bifurcation Analysis of the Keynesian Cross Model: Abstract and Introduction](https://hackernoon.com/bifurcation-analysis-of-the-keynesian-cross-model-abstract-and-introduction)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-2b82pcb.jpeg)
 This study investigates the Keynesian cross model of a national economy with a focus on the relationship between government spending and economic equilibrium.
 
-### [233. Solving the Problem in America's Current Economy](https://hackernoon.com/solving-the-problem-in-americas-current-economy)
-![](https://cdn.hackernoon.com/images/economy-clcqvrvbn000301s65abt4hz4.png)
-In 1930, John Maynard Keynes wrote a short, seven-page essay titled Economic Possibilities for our Grandchildren.
-
-### [234. These Religious Institutions Are Worth Billions](https://hackernoon.com/these-religious-institutions-are-worth-billions)
+### [233. These Religious Institutions Are Worth Billions](https://hackernoon.com/these-religious-institutions-are-worth-billions)
 ![](https://cdn.hackernoon.com/images/a-cash-pile-clh8a3utz000701s609dz3n5c.png)
 Aleksandr Volodarsky details religious institutes that are worth billions.
 
-### [235. The Debt-Ridden Superpower: What Is It?](https://hackernoon.com/the-debt-ridden-superpower-what-is-it)
-![](https://cdn.hackernoon.com/images/superpowers-nx7ueumu9dfgwtxr0cilpvm3.png)
-The US gov must roll 🥐$9t over by the end of 2026 - a lot of that was in short to medium term maturities - 2, 3, and 5-year treasuries.
+### [234. Solving the Problem in America's Current Economy](https://hackernoon.com/solving-the-problem-in-americas-current-economy)
+![](https://cdn.hackernoon.com/images/economy-clcqvrvbn000301s65abt4hz4.png)
+In 1930, John Maynard Keynes wrote a short, seven-page essay titled Economic Possibilities for our Grandchildren.
+
+### [235. The Monotonicity Theorem: How a Simple Condition Guarantees Equilibrium Uniqueness and Efficiency](https://hackernoon.com/the-monotonicity-theorem-how-a-simple-condition-guarantees-equilibrium-uniqueness-and-efficiency)
+![](https://cdn.hackernoon.com/images/monochrome-sketches-waterpaint-a1e9aiteo56cnwduagmteyo7.png)
+Further demonstrating that if the economy is strictly monotonic, the equilibrium is Pareto-efficient and also unique
 
 ### [236. The Economics of Social Money: Digital Communities in the Next Decade](https://hackernoon.com/the-economics-of-social-money-digital-communities-in-the-next-decade-pzl2hjs)
 ![](https://cdn.hackernoon.com/hn-images/1*mmFMxcHOZph53vuXHdnR5Q.jpeg)
 Money is a social tool to achieve cooperation among a group of people. Through history, the form of money has evolved from collectibles to coinage to currency issued by fiat. Money often reflects the values or politics of the communities that issue and use them.
 
-### [237. The Monotonicity Theorem: How a Simple Condition Guarantees Equilibrium Uniqueness and Efficiency](https://hackernoon.com/the-monotonicity-theorem-how-a-simple-condition-guarantees-equilibrium-uniqueness-and-efficiency)
-![](https://cdn.hackernoon.com/images/monochrome-sketches-waterpaint-a1e9aiteo56cnwduagmteyo7.png)
-Further demonstrating that if the economy is strictly monotonic, the equilibrium is Pareto-efficient and also unique
-
-### [238. The Economic Consequences of the Peace: Chapter VI - Europe after the Treaty](https://hackernoon.com/the-economic-consequences-of-the-peace-chapter-vi-europe-after-the-treaty)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-7r93mw4.jpeg)
-The Economic Consequences of the Peace Chapter VI: Europe after the Treaty by John Maynard Keynes is part of HackerNoon’s Book Blog Post series. 
-
-### [239. How Digital Democracy Empowers Today's Creators Economy](https://hackernoon.com/how-digital-democracy-empowers-todays-creators-economy)
+### [237. How Digital Democracy Empowers Today's Creators Economy](https://hackernoon.com/how-digital-democracy-empowers-todays-creators-economy)
 ![](https://cdn.hackernoon.com/images/PLXlubINgGZlcXZVQ3NSxBkttlK2-4293hmc.jpeg)
 As technology advances and becomes more accessible to the masses, it must be used to get voices heard while improving governance.
+
+### [238. From Theory to Formalization: Defining a Free and Fair Economy with Key Axioms](https://hackernoon.com/from-theory-to-formalization-defining-a-free-and-fair-economy-with-key-axioms)
+![](https://cdn.hackernoon.com/images/dollars-falling-from-a-skyscraper-s2n99amk31u1wczv6zjnl6uy.png)
+This article provides the formal definitions for a free and fair economy, breaking down the key principles of market justice.
+
+### [239. The Economic Consequences of the Peace: Chapter VI - Europe after the Treaty](https://hackernoon.com/the-economic-consequences-of-the-peace-chapter-vi-europe-after-the-treaty)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-7r93mw4.jpeg)
+The Economic Consequences of the Peace Chapter VI: Europe after the Treaty by John Maynard Keynes is part of HackerNoon’s Book Blog Post series. 
 
 ### [240. Beyond Cycles of Deviation: How Fair Principles Ensure a Stable Nash Equilibrium](https://hackernoon.com/beyond-cycles-of-deviation-how-fair-principles-ensure-a-stable-nash-equilibrium)
 ![](https://cdn.hackernoon.com/images/sketches-of-cycles-abstract-oys802hkmq5sq3lji8t8295q.png)
@@ -983,133 +985,133 @@ Some of you must have a range of indices being published on the bulletin and new
 ![](https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-nf93irj.jpeg)
 On Wednesday, March 16, President Of Ukraine Volodymyr Zelenskyy signed a law in Ukraine on virtual assets, after a large number of donations through crypto.
 
-### [244. How Manufacturers Can Use Real-Time Data to Form Contingency Plans During Pandemics](https://hackernoon.com/how-manufacturers-can-use-real-time-data-to-form-contingency-plans-during-pandemics-646i3vpj)
-![](https://cdn.hackernoon.com/images/mx213vas.gif)
-The global outbreak of the latest Coronavirus (COVID-19) at the beginning of this year caught many businesses and governments off guard. The global pandemic which to date has claimed the lives of over 347,106 people globally had brought businesses to a complete halt. 
-
-### [245. From Theory to Formalization: Defining a Free and Fair Economy with Key Axioms](https://hackernoon.com/from-theory-to-formalization-defining-a-free-and-fair-economy-with-key-axioms)
-![](https://cdn.hackernoon.com/images/dollars-falling-from-a-skyscraper-s2n99amk31u1wczv6zjnl6uy.png)
-This article provides the formal definitions for a free and fair economy, breaking down the key principles of market justice.
-
-### [246. Bifurcation Analysis of the Keynesian Cross Model: Method and G is constant](https://hackernoon.com/bifurcation-analysis-of-the-keynesian-cross-model-method-and-g-is-constant)
+### [244. Bifurcation Analysis of the Keynesian Cross Model: Method and G is constant](https://hackernoon.com/bifurcation-analysis-of-the-keynesian-cross-model-method-and-g-is-constant)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-h582qv3.jpeg)
 This study investigates the Keynesian cross model of a national economy with a focus on the relationship between government spending and economic equilibrium.
 
-### [247. Crypto Adoption in Nigeria: Implications of a Stronger Naira for Economic Growth](https://hackernoon.com/crypto-adoption-in-nigeria-implications-of-a-stronger-naira-for-economic-growth)
+### [245. Crypto Adoption in Nigeria: Implications of a Stronger Naira for Economic Growth](https://hackernoon.com/crypto-adoption-in-nigeria-implications-of-a-stronger-naira-for-economic-growth)
 ![](https://cdn.hackernoon.com/images/kzeXhGStumQkSSkuKMWwPLfROPm2-lb9348y.jpeg)
 Nigeria is a top country for cryptocurrencies with a high percentage of young investors. A stronger naira could increase crypto adoption and spread to Africa.
 
-### [248. The Economic Consequences of the Peace - Table of Links](https://hackernoon.com/the-economic-consequences-of-the-peace-table-of-links)
-![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-s793jl2.jpeg)
-The Economic Consequences of the Peace, by John Maynard Keynes is part of HackerNoon’s Book Blog Post series. The table of Links for this book can be found here. 
+### [246. How Progress Ends - A Review: Revisiting Innovation, Institutions, and Everything in Between](https://hackernoon.com/how-progress-ends-a-review-revisiting-innovation-institutions-and-everything-in-between)
+![](https://cdn.hackernoon.com/images/IBeuZ9mcsGd5EznrObnQue9Q2pI2-me03cis.jpeg)
+A critical review of Carl Benedikt Frey’s How Progress Ends, exploring innovation cycles, centralization, and the politics of progress.
 
-### [249. Hacking Against Inflation Through Real Estate [Infographic]](https://hackernoon.com/hacking-against-inflation-through-real-estate-infographic)
+### [247. Hacking Against Inflation Through Real Estate [Infographic]](https://hackernoon.com/hacking-against-inflation-through-real-estate-infographic)
 ![](https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-eza3hde.jpeg)
 A look at how to hedge against inflation by investing in real estate.
+
+### [248. How Manufacturers Can Use Real-Time Data to Form Contingency Plans During Pandemics](https://hackernoon.com/how-manufacturers-can-use-real-time-data-to-form-contingency-plans-during-pandemics-646i3vpj)
+![](https://cdn.hackernoon.com/images/mx213vas.gif)
+The global outbreak of the latest Coronavirus (COVID-19) at the beginning of this year caught many businesses and governments off guard. The global pandemic which to date has claimed the lives of over 347,106 people globally had brought businesses to a complete halt. 
+
+### [249. The Economic Consequences of the Peace - Table of Links](https://hackernoon.com/the-economic-consequences-of-the-peace-table-of-links)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-s793jl2.jpeg)
+The Economic Consequences of the Peace, by John Maynard Keynes is part of HackerNoon’s Book Blog Post series. The table of Links for this book can be found here. 
 
 ### [250. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter IX](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-xi)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-25j3i8x.jpeg)
 If the rod be bent too much one way, says the proverb, in order to make it straight, you must bend it as much the other. 
 
-### [251. Why We Should Pay for Payroll Taxes via a Transaction Tax on Stocks and Tariffs on Imports](https://hackernoon.com/why-we-should-pay-for-payroll-taxes-via-a-transaction-tax-on-stocks-and-tariffs-on-imports-m56l3eq4)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-cs613e5m.jpeg?alt=media&token=df799935-25bb-450e-9f64-217c4a77fa8e)
-Payroll taxes are in the news. President Donald Trump said he wanted to defer the collection of employee portion of the Social Security portion of the payroll tax in order to provide pandemic-related economic relief to workers. The Congress didn’t agree, so he issued an executive order to do just that on August 13. Much is unclear about how his order is supposed to work, and there are questions about whether it is legal.
+### [251. Everything You Need to Know About the Silicon Valley Bank/FDIC Issue](https://hackernoon.com/everything-you-need-to-know-about-the-silicon-valley-bankfdic-issue)
+![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-2-giant-monsters-fighting-against-each-other-clgbczjnh000001s6bmcnbjez.png)
+Domalewski breaks down the Silicon Valley Bank/FDIC Issue.
 
-### [252. Blunt Economics: The Death of Growth - Part I](https://hackernoon.com/blunt-economics-the-death-of-growth-part-i-si1a3xyj)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFbrWxOx5nMTBxccm5ukzHAjUy5m1-den3erm.jpeg?alt=media&token=0db9439f-838a-41a3-a2aa-4a775cb2e7f3)
-During the 2007 crisis, I was 15 years old, obviously too young, to understand what's happening. My father was upset. He tried to explain to me that it's the crisis that has come, and we will have to cut expenses and save.
-
-### [253. The Economic Consequences of the Peace: Chapter III - The Conference](https://hackernoon.com/the-economic-consequences-of-the-peace-chapter-iii-the-conference)
+### [252. The Economic Consequences of the Peace: Chapter III - The Conference](https://hackernoon.com/the-economic-consequences-of-the-peace-chapter-iii-the-conference)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-fk93mun.jpeg)
 The Economic Consequences of the Peace Chapter III: The Conference by John Maynard Keynes is part of HackerNoon’s Book Blog Post series. 
 
-### [254. Bitcoin As Legal Tender is Just The First  Step For El Salvador To Foster Economic Development](https://hackernoon.com/bitcoin-as-legal-tender-is-just-the-first-step-for-el-salvador-to-foster-economic-development-bk5s35c4)
-![](https://cdn.hackernoon.com/images/p6AvGOiRY2VatjyeCT5GMXwZTg43-tt1032sp.jpeg)
-What steps should El Salvador take to further bitcoinization and foster its economic development. Saylor and Tudor Jones:  start lobbying for Bitcoin
+### [253. Blunt Economics: The Death of Growth - Part I](https://hackernoon.com/blunt-economics-the-death-of-growth-part-i-si1a3xyj)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FFbrWxOx5nMTBxccm5ukzHAjUy5m1-den3erm.jpeg?alt=media&token=0db9439f-838a-41a3-a2aa-4a775cb2e7f3)
+During the 2007 crisis, I was 15 years old, obviously too young, to understand what's happening. My father was upset. He tried to explain to me that it's the crisis that has come, and we will have to cut expenses and save.
 
-### [255. 8 Unsolved Carbon Markets' Problems That Engineers Need To Get Behind And Solve](https://hackernoon.com/8-unsolved-carbon-markets-problems-that-engineers-need-to-get-behind-and-solve-5a3g3wlo)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fj2kiakTKMlMW2g4K1Vo26O5gje52-ll223tmt.jpeg?alt=media&token=652860ca-6f34-4d59-a932-dc9995a9ab75)
-I think about this conversation I had with Paul a lot. It kicked off what has now been over three years of imaginative, grueling, wonderful, painful, mind-blowing, and confounding work-- all of which took place alongside the minds of amazing co-founders, teammates, and advisors. 
+### [254. Why We Should Pay for Payroll Taxes via a Transaction Tax on Stocks and Tariffs on Imports](https://hackernoon.com/why-we-should-pay-for-payroll-taxes-via-a-transaction-tax-on-stocks-and-tariffs-on-imports-m56l3eq4)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FN0ENUd29UdNJCFcl7GnmZHdk2fA2-cs613e5m.jpeg?alt=media&token=df799935-25bb-450e-9f64-217c4a77fa8e)
+Payroll taxes are in the news. President Donald Trump said he wanted to defer the collection of employee portion of the Social Security portion of the payroll tax in order to provide pandemic-related economic relief to workers. The Congress didn’t agree, so he issued an executive order to do just that on August 13. Much is unclear about how his order is supposed to work, and there are questions about whether it is legal.
+
+### [255. A Quick Crash Course on Crypto Economics](https://hackernoon.com/a-quick-crash-course-on-crypto-economics)
+![](https://cdn.hackernoon.com/images/crypto-economics-clilw6jmv000501s68kw0ei3y.png)
+Economic inequality is on the rise around the world. But the growth of crypto economy will be a major reset to wealth distribution. 
 
 ### [256. An Inquiry into the Nature and Causes of the Wealth of Nations: Book V, Chapter II - Part II](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-v-chapter-ii-part-ii)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-j5p3idj.jpeg)
 Civil government supposes a certain subordination.
 
-### [257. Bitcoin As Tokenized Oil. The rise of the PetroBitcoin?](https://hackernoon.com/introducing-the-petrobitcoin-an-analysis-of-bitcoin-strategies-for-oil-rich-and-sanctioned-countries-kq1303rn4)
-![](https://cdn.hackernoon.com/images/dq1203rbn.jpg)
-(An analysis of bitcoin strategies for oil rich and sanctioned countries)
+### [257. Bitcoin As Legal Tender is Just The First  Step For El Salvador To Foster Economic Development](https://hackernoon.com/bitcoin-as-legal-tender-is-just-the-first-step-for-el-salvador-to-foster-economic-development-bk5s35c4)
+![](https://cdn.hackernoon.com/images/p6AvGOiRY2VatjyeCT5GMXwZTg43-tt1032sp.jpeg)
+What steps should El Salvador take to further bitcoinization and foster its economic development. Saylor and Tudor Jones:  start lobbying for Bitcoin
 
-### [258. The Economics of Self-Isolation: A Game-Theoretic Analysis of Contagion in a Free Economy](https://hackernoon.com/the-economics-of-self-isolation-a-game-theoretic-analysis-of-contagion-in-a-free-economy)
+### [258. 8 Unsolved Carbon Markets' Problems That Engineers Need To Get Behind And Solve](https://hackernoon.com/8-unsolved-carbon-markets-problems-that-engineers-need-to-get-behind-and-solve-5a3g3wlo)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2Fj2kiakTKMlMW2g4K1Vo26O5gje52-ll223tmt.jpeg?alt=media&token=652860ca-6f34-4d59-a932-dc9995a9ab75)
+I think about this conversation I had with Paul a lot. It kicked off what has now been over three years of imaginative, grueling, wonderful, painful, mind-blowing, and confounding work-- all of which took place alongside the minds of amazing co-founders, teammates, and advisors. 
+
+### [259. The Economics of Self-Isolation: A Game-Theoretic Analysis of Contagion in a Free Economy](https://hackernoon.com/the-economics-of-self-isolation-a-game-theoretic-analysis-of-contagion-in-a-free-economy)
 ![](https://cdn.hackernoon.com/images/a-small-lonely-island-waterpaint-ubjf4ddgz7yt4t9pau6gdcz3.png)
 Exploring how the costs of a pandemic can lead to a self-enforcing lockdown in a networked economy, analyzing the resulting changes in network structure
 
-### [259. 3 Micro Steps You Can Take Towards a More Politically Woke 2020](https://hackernoon.com/3-ways-to-make-a-difference-changing-the-world-with-political-awareness-nv3b3utq)
-![](https://images.unsplash.com/photo-1569326513605-855587d066ed?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
-It’s easy to feel powerless given our politics today. 
+### [260. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter VII - Part III](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-vii-part-iii)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-izh3iyl.jpeg)
+Such are the advantages which the colonies of America have derived from the policy of Europe.
 
-### [260. A Quick Crash Course on Crypto Economics](https://hackernoon.com/a-quick-crash-course-on-crypto-economics)
-![](https://cdn.hackernoon.com/images/crypto-economics-clilw6jmv000501s68kw0ei3y.png)
-Economic inequality is on the rise around the world. But the growth of crypto economy will be a major reset to wealth distribution. 
-
-### [261. Everything You Need to Know About the Silicon Valley Bank/FDIC Issue](https://hackernoon.com/everything-you-need-to-know-about-the-silicon-valley-bankfdic-issue)
-![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-2-giant-monsters-fighting-against-each-other-clgbczjnh000001s6bmcnbjez.png)
-Domalewski breaks down the Silicon Valley Bank/FDIC Issue.
+### [261. Bitcoin As Tokenized Oil. The rise of the PetroBitcoin?](https://hackernoon.com/introducing-the-petrobitcoin-an-analysis-of-bitcoin-strategies-for-oil-rich-and-sanctioned-countries-kq1303rn4)
+![](https://cdn.hackernoon.com/images/dq1203rbn.jpg)
+(An analysis of bitcoin strategies for oil rich and sanctioned countries)
 
 ### [262. Bifurcation Analysis of the Keynesian Cross Model: Conclusion and References](https://hackernoon.com/bifurcation-analysis-of-the-keynesian-cross-model-conclusion-and-references)
 ![](https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-ce82qmg.jpeg)
 This study investigates the Keynesian cross model of a national economy with a focus on the relationship between government spending and economic equilibrium.
 
-### [263. How Balance Sheet Reduction will Potentially Impact Crypto Markets](https://hackernoon.com/how-balance-sheet-reduction-will-potentially-impact-crypto-markets)
-![](https://cdn.hackernoon.com/images/KYm1CPERpCYJWpgNM4O0z89hJ1X2-6pb3j1n.jpeg)
-The essential thing to consider is the rate of change in the money supply, the first derivative of the money supply
+### [263. 3 Micro Steps You Can Take Towards a More Politically Woke 2020](https://hackernoon.com/3-ways-to-make-a-difference-changing-the-world-with-political-awareness-nv3b3utq)
+![](https://images.unsplash.com/photo-1569326513605-855587d066ed?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMDk2Mn0)
+It’s easy to feel powerless given our politics today. 
 
-### [264. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter VII - Part III](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-vii-part-iii)
-![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-izh3iyl.jpeg)
-Such are the advantages which the colonies of America have derived from the policy of Europe.
-
-### [265. An Inquiry into the Nature and Causes of the Wealth of Nations: Book II - Chapter II ](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-ii-chapter-ii)
+### [264. An Inquiry into the Nature and Causes of the Wealth of Nations: Book II - Chapter II ](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-ii-chapter-ii)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-u993i6h.jpeg)
 Money, therefore, is the only part of the circulating capital of a society, of which the maintenance can occasion any diminution in their neat revenue.
 
-### [266. What Can Make DisCOs Grow](https://hackernoon.com/what-can-make-discos-grow-0g1l339i)
-![](https://cdn.hackernoon.com/images/6nF4VVoHugPyvfGGC5yXpgPRmJU2-vm1923dr.jpeg)
-What needs to happen for DisCOs to grow and flourish across the economy? 
-
-### [267. Market Justice vs. Egalitarianism: The Role of the Alpha Parameter in Economic Equilibrium](https://hackernoon.com/market-justice-vs-egalitarianism-the-role-of-the-alpha-parameter-in-economic-equilibrium)
+### [265. Market Justice vs. Egalitarianism: The Role of the Alpha Parameter in Economic Equilibrium](https://hackernoon.com/market-justice-vs-egalitarianism-the-role-of-the-alpha-parameter-in-economic-equilibrium)
 ![](https://cdn.hackernoon.com/images/economy-abstract-hlh5bdtqdz7n9ifgpc7olvmu.png)
 This article explores the existence and efficiency of a self-enforcing Nash equilibrium in a free economy that incorporates social justice.
+
+### [266. How Balance Sheet Reduction will Potentially Impact Crypto Markets](https://hackernoon.com/how-balance-sheet-reduction-will-potentially-impact-crypto-markets)
+![](https://cdn.hackernoon.com/images/KYm1CPERpCYJWpgNM4O0z89hJ1X2-6pb3j1n.jpeg)
+The essential thing to consider is the rate of change in the money supply, the first derivative of the money supply
+
+### [267. What Can Make DisCOs Grow](https://hackernoon.com/what-can-make-discos-grow-0g1l339i)
+![](https://cdn.hackernoon.com/images/6nF4VVoHugPyvfGGC5yXpgPRmJU2-vm1923dr.jpeg)
+What needs to happen for DisCOs to grow and flourish across the economy? 
 
 ### [268. The Crypto Reformer: Meet Hacker Noon's Contributor Chitose Nakamoto](https://hackernoon.com/the-crypto-reformer-meet-hacker-noons-contributor-chitose-nakamoto)
 ![](https://cdn.hackernoon.com/images/ICvvvtdXpZZcQuVy9ax1QV8DIsx1-0ed2df2.jpeg)
 Chitose Nakamoto speaks about the Digital Universal Drachma, writing, philosophy, and society.
 
-### [269. An Inquiry into the Nature and Causes of the Wealth of Nations: Book III - Chapter III](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iii-chapter-iii)
-![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-woe3ixi.jpeg)
-The inhabitants of cities and towns were, after the fall of the Roman empire, not more favoured than those of the country. 
-
-### [270. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter X](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-x)
-![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-72a3mi5.jpeg)
-Every man’s interest would prompt him to seek the advantageous, and to shun the disadvantageous employment.
-
-### [271. Sideways Crypto Trading Persists Amid US Economy Scrutiny](https://hackernoon.com/sideways-crypto-trading-persists-amid-us-economy-scrutiny)
-![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-3d93knz.jpeg)
-The security of the DeFi ecosystem has once again come into question following the exploit of Curve Finance. 
-
-### [272. The Economic Consequences of the Peace: Chapter V - Reparation](https://hackernoon.com/the-economic-consequences-of-the-peace-chapter-v-reparation)
+### [269. The Economic Consequences of the Peace: Chapter V - Reparation](https://hackernoon.com/the-economic-consequences-of-the-peace-chapter-v-reparation)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-1d93mw5.jpeg)
 The Economic Consequences of the Peace Chapter V - Reparation by John Maynard Keynes is part of HackerNoon’s Book Blog Post series. 
 
-### [273. Social Justice in Economics: A New Framework for a Free Economy with Inclusion](https://hackernoon.com/social-justice-in-economics-a-new-framework-for-a-free-economy-with-inclusion)
+### [270. Social Justice in Economics: A New Framework for a Free Economy with Inclusion](https://hackernoon.com/social-justice-in-economics-a-new-framework-for-a-free-economy-with-inclusion)
 ![](https://cdn.hackernoon.com/images/a-gavel-in-front-of-a-stock-market-chart-j2gy6y5sa5x5atdlbj9geyy7.png)
 This article explores a new model for a free economy that integrates social justice and inclusion with traditional principles of market justice.
 
-### [274. Adrien Book's Neighbors Sound Like a Pain in the A*s; Dreams < Riches?](https://hackernoon.com/adrien-books-neighbors-sound-like-a-pain-in-the-as-also-dreams-less-riches-07763t3b)
-![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-v33s3t7f.jpeg?alt=media&token=345739d5-765a-45c2-9b09-72a512e00458)
-9x Noonie Nominee Adrien Book (France) helps big companies with strategic stuff, and is currently learning Russian, while optimizing a fairly complicated sleep cycle. Read on! 
+### [271. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter X](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-x)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-72a3mi5.jpeg)
+Every man’s interest would prompt him to seek the advantageous, and to shun the disadvantageous employment.
 
-### [275. Dollar: A Dominant and a Surprising Currency ](https://hackernoon.com/dollar-a-dominant-and-a-surprising-currency-loo3tzn)
+### [272. An Inquiry into the Nature and Causes of the Wealth of Nations: Book III - Chapter III](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iii-chapter-iii)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-woe3ixi.jpeg)
+The inhabitants of cities and towns were, after the fall of the Roman empire, not more favoured than those of the country. 
+
+### [273. Sideways Crypto Trading Persists Amid US Economy Scrutiny](https://hackernoon.com/sideways-crypto-trading-persists-amid-us-economy-scrutiny)
+![](https://cdn.hackernoon.com/images/1YvrWCjGHyVKRn1m8BPgUGWg2Xy2-3d93knz.jpeg)
+The security of the DeFi ecosystem has once again come into question following the exploit of Curve Finance. 
+
+### [274. Dollar: A Dominant and a Surprising Currency ](https://hackernoon.com/dollar-a-dominant-and-a-surprising-currency-loo3tzn)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FQl53gOJa5TgFkj3NuhLNLMkCzTt2-2zc33uk7.jpeg?alt=media&token=736dcda3-06fe-407b-9363-f083795dd5c4)
 
+
+### [275. Adrien Book's Neighbors Sound Like a Pain in the A*s; Dreams < Riches?](https://hackernoon.com/adrien-books-neighbors-sound-like-a-pain-in-the-as-also-dreams-less-riches-07763t3b)
+![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FHrzvBX6xNSVZBKImURJl23sRwcQ2-v33s3t7f.jpeg?alt=media&token=345739d5-765a-45c2-9b09-72a512e00458)
+9x Noonie Nominee Adrien Book (France) helps big companies with strategic stuff, and is currently learning Russian, while optimizing a fairly complicated sleep cycle. Read on! 
 
 ### [276. The Economic Consequences of the Peace: Chapter IV- The Treaty](https://hackernoon.com/the-economic-consequences-of-the-peace-chapter-iv-the-treaty)
 ![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-1k93mtr.jpeg)
@@ -1119,13 +1121,13 @@ The Economic Consequences of the Peace Chapter IV: The Treatyby John Maynard Key
 ![](https://cdn.hackernoon.com/images/YxLT7oOP1DgS5BoYB4gekiGaUx62-1c137q2.jpeg)
 Why are manufacturers pushing entry-level cars out of production? Read and find out the reason why average car prices are rising.
 
-### [278. Is an All-Capable AI Self-Defeating?](https://hackernoon.com/is-an-all-capable-ai-self-defeating)
-![](https://cdn.hackernoon.com/images/ai-is-master-of-humans-hjcoorejgvv1ei0wl1shkgk3.png)
-It isn't in the interests of corporations to let AI evolve unchecked.
-
-### [279. An Inquiry into the Nature and Causes of the Wealth of Nations: Book II - Chapter V](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-ii-chapter-v)
+### [278. An Inquiry into the Nature and Causes of the Wealth of Nations: Book II - Chapter V](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-ii-chapter-v)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-p0b3i6k.jpeg)
  No equal capital puts into motion a greater quantity of productive labour than that of the farmer.
+
+### [279. Is an All-Capable AI Self-Defeating?](https://hackernoon.com/is-an-all-capable-ai-self-defeating)
+![](https://cdn.hackernoon.com/images/ai-is-master-of-humans-hjcoorejgvv1ei0wl1shkgk3.png)
+It isn't in the interests of corporations to let AI evolve unchecked.
 
 ### [280. An Inquiry into the Nature and Causes of the Wealth of Nations: Book V, Chapter I - Part III](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-v-chapter-i-part-iii)
 ![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-qrl3ib4.jpeg)

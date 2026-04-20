@@ -1,6 +1,10 @@
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [javascript-top-story](https://hackernoon.com/tagged/javascript-top-story)
+### Let's learn about [Javascript Top Story](https://hackernoon.com/tagged/javascript-top-story) via these 54 free blog posts. They are ordered by most time reading created on HackerNoon. Visit the [/Learn](https://hackernoon.com/learn) or [LearnRepo.com](https://learnrepo.com) to find the most read blog posts about any technology.
+
+JavaScript Top Story refers to significant news, trends, or advancements related to the JavaScript programming language and its expansive ecosystem. These stories highlight key developments that shape web development and influence millions of developers worldwide.
+
 ### [1. Graceful shutdown in NodeJS](https://hackernoon.com/graceful-shutdown-in-nodejs-2f8f59d1c357)
 ![](https://cdn.hackernoon.com/images/mdjrny-v-4-style-graceful-floating-down-from-thunder-clouds-on-an-umbrella-like-mary-poppins-clim82q83000101s69w7ebf5y.png)
 In this article, I am going to show you how to do a graceful shutdown in NodeJS application, but first, let's describe what does “graceful shutdown” means and why we need to do that in our application and what are the benefits.
@@ -69,13 +73,13 @@ Since React is currently one of the most in-demand front-end technology, I have 
 ![](https://cdn.hackernoon.com/images/xll33oz.jpg)
 With the introduction of React hooks since the 16.8 version, we have changed the way we write React application. Indeed, we can now leverage React features, such as state and side effects, within function components. 
 
-### [18. Building a Minimum Viable PWA [A Step by Step Guide]](https://hackernoon.com/building-a-minimum-viable-pwa-a-step-by-step-guide-wx6y37w9)
-![](https://cdn.hackernoon.com/images/vm1c39v1.jpg)
-Introduction
-
-### [19. Solving Matrix Algebra in JavaScript [An Overview]](https://hackernoon.com/solving-matrix-algebra-in-javascript-an-overview-pz1y3yme)
+### [18. Solving Matrix Algebra in JavaScript [An Overview]](https://hackernoon.com/solving-matrix-algebra-in-javascript-an-overview-pz1y3yme)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FJTw2M3rQabaxNg3EFoNIxjmC1ZB3-9x1j3yvy.webp?alt=media&token=69da8a2e-187f-4979-b93e-95791a0b6814)
 Many problems, especially in scientific computing, end up being formulated as matrix operations. This can be anything from PDE-solvers (PDE - Partial Differential Equation) up to image-processing or ML-algorithms. 
+
+### [19. Building a Minimum Viable PWA [A Step by Step Guide]](https://hackernoon.com/building-a-minimum-viable-pwa-a-step-by-step-guide-wx6y37w9)
+![](https://cdn.hackernoon.com/images/vm1c39v1.jpg)
+Introduction
 
 ### [20. 4 Modern JavaScript (ES6+) Features You Need To Use](https://hackernoon.com/4-modern-javascript-es6-features-you-should-be-using-now-tp1h320q)
 ![](drafts/wb1j328m.png)
@@ -145,25 +149,25 @@ Deno is a hot new runtime that may replace Node.js. Everyone’s talking about i
 ![](https://cdn.hackernoon.com/drafts/ca3j3w61.png)
 A curious case of a function definition
 
-### [37. Higher-Order Function in JavaScript with ES6 Examples](https://hackernoon.com/higher-order-function-in-javascript-with-es6-examples)
-![](https://cdn.hackernoon.com/images/Gp8uHyvp6hehmnC1gXMD6uAheaF2-bt02gki.jpeg)
-In this article, we are going to learn higher-order functions in JavaScript, as well as see the ways you can use them.
-
-### [38. 6 Things You Should Not Do in JavaScript](https://hackernoon.com/6-things-you-should-not-do-in-javascript)
+### [37. 6 Things You Should Not Do in JavaScript](https://hackernoon.com/6-things-you-should-not-do-in-javascript)
 ![](https://cdn.hackernoon.com/images/XIlys8PrM8eJ7n0qjETjuC0lbkB2-f093or8.jpeg)
 In JavaScript, there are many ways to do the same things. But not all of them are equally good. And some of them you should not use at all.
+
+### [38. Higher-Order Function in JavaScript with ES6 Examples](https://hackernoon.com/higher-order-function-in-javascript-with-es6-examples)
+![](https://cdn.hackernoon.com/images/Gp8uHyvp6hehmnC1gXMD6uAheaF2-bt02gki.jpeg)
+In this article, we are going to learn higher-order functions in JavaScript, as well as see the ways you can use them.
 
 ### [39. Why Reading JavaScript Is More Difficult When Default Exports Are Used](https://hackernoon.com/why-reading-javascript-is-more-difficult-when-default-exports-are-used)
 ![](https://cdn.hackernoon.com/images/v2vbcF16oXZmHSCzmO79EscR2hQ2-bb93lpq.jpeg)
 How using default exports hurts your codebase readability and refactoring.
 
-### [40. 10 JavaScript Apps to Power your Business](https://hackernoon.com/10-javascript-apps-to-power-your-business)
-![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-zd93znq.jpeg)
-
-
-### [41. A Kanban Board Component for Project Management](https://hackernoon.com/a-kanban-board-component-for-project-management)
+### [40. A Kanban Board Component for Project Management](https://hackernoon.com/a-kanban-board-component-for-project-management)
 ![](https://cdn.hackernoon.com/images/DgIHgUcx99gVUPhnmk5o7713Bzl2-ufe3nfe.jpeg)
 Project management is a crucial domain in the sphere of IT. 
+
+### [41. 10 JavaScript Apps to Power your Business](https://hackernoon.com/10-javascript-apps-to-power-your-business)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-zd93znq.jpeg)
+
 
 ### [42. How to Power Up Your Logging in JavaScript](https://hackernoon.com/how-to-power-up-your-logging-in-javascript)
 ![](https://cdn.hackernoon.com/images/9u6FwQhzjdOYa0Qc5R7bA7IyYAR2-sj93gzk.png)
@@ -197,13 +201,13 @@ JAVASCRIPT'S RICH AND FUNCTIONAL WORLD
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FkjJzuvca9BeqggzTVi4qMTfCCQm1-tvm3u0f.jpeg?alt=media&token=085f7c60-68f9-4d0b-84f2-4a34f86b2968)
 Selenium has been a pinnacle for open-source software in the industry of automated website testing. The automation testing framework is widely adopted by the testing community to help them in automating interactions with their web-application for desktops.
 
-### [50. TypeScript 5.6, Bun Integrates C, Fastify v5, and more - This Week in JS](https://hackernoon.com/typescript-56-bun-integrates-c-fastify-v5-and-more-this-week-in-js)
-![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-se132zx.png)
-Welcome to the first issue of "This Week in JavaScript"! In this edition, we'll cover the latest on TypeScript 5.6 and its new ts-blank-space compiler.
-
-### [51. Demystifying Javascript Array Methods with Practical Examples](https://hackernoon.com/demystifying-javascript-array-methods-with-practical-examples)
+### [50. Demystifying Javascript Array Methods with Practical Examples](https://hackernoon.com/demystifying-javascript-array-methods-with-practical-examples)
 ![](https://cdn.hackernoon.com/images/QsxXq74rpfdI2SYRqxFke1FAlIl1-vz92i4n.jpeg)
 Understand how JavaScript array methods work by implementing three of the most common methods: map(), filter() and reduce.
+
+### [51. TypeScript 5.6, Bun Integrates C, Fastify v5, and more - This Week in JS](https://hackernoon.com/typescript-56-bun-integrates-c-fastify-v5-and-more-this-week-in-js)
+![](https://cdn.hackernoon.com/images/bmBxAWmM4deEc5kuo2xk1JIWyeN2-se132zx.png)
+Welcome to the first issue of "This Week in JavaScript"! In this edition, we'll cover the latest on TypeScript 5.6 and its new ts-blank-space compiler.
 
 ### [52. Avoid security loopholes using @JsonView](https://hackernoon.com/avoid-security-loopholes-using-jsonview-apl3z6l)
 ![](https://firebasestorage.googleapis.com/v0/b/hackernoon-app.appspot.com/o/images%2FvCuO49rOqteHpJV3F6Jhk4kp4o43-ag623xxs.jpeg?alt=media&token=f4a738c6-c706-4772-9e04-d805a35a54c4)
